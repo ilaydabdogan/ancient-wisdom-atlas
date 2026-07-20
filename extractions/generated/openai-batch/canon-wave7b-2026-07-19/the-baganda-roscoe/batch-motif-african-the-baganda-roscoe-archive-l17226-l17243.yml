@@ -1,0 +1,182 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l17226-l17243
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: IX  RELIGION / IX  RELIGION  327 / THE   BAGANDA / CHAP,; lines 17226-17243
+  start: '17226'
+  end: '17243'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: almost every ailment known to the medicine-men was treated with some kind
+    of amulet
+  summary: The passage describes amulets prepared by rubbing or scraping them into
+    powder, mixing the powder with water or beer for internal use or with butter for
+    outward application, and using amulets as remedies for many ailments, including
+    for expectant mothers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Amulets could be rubbed on a stone or scraped with a knife to obtain powder.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For internal use, the amulet powder was mixed with water or beer.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: For outward application, the amulet powder was mixed with butter.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that amulets had a wide range as remedies.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that almost every ailment known to medicine-men was treated
+    with some kind of amulet.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: An expectant mother is described as having her amulet.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: medicine-men
+  description: Practitioners whose known ailments are mentioned in connection with
+    amulet treatment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: expectant mother
+  description: A pregnant woman described as having an amulet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ailment knowledge-holder
+  assigned_to:
+  - fig:1
+  basis: The passage refers to ailments known to the medicine-men and treated with
+    amulets.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: amulet recipient or possessor
+  assigned_to:
+  - fig:2
+  basis: The passage says the expectant mother had her amulet.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: amulet
+  literal_form: Amulet prepared as powder and used in remedies; also possessed by
+    an expectant mother.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Preparation and use of amulet remedies
+  summary: Amulets are reduced to powder by rubbing or scraping, mixed with different
+    substances according to internal or outward use, and described as remedies for
+    a broad range of ailments.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Amulet associated with pregnancy
+  summary: The passage notes that an expectant mother had her own amulet.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: amulet as medicinal remedy
+  taxonomy_refs: []
+  basis: Amulets are described as being prepared into mixtures and used to treat a
+    wide range of ailments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is ethnographic and practical-medical in tone; no broader
+    myth narrative is present in this excerpt.
+- id: motif:2
+  label: pregnancy amulet
+  taxonomy_refs: []
+  basis: The expectant mother is specifically mentioned as having an amulet.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage fragment does not explain the amulet's specific purpose for
+    the expectant mother.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 17226-17235
+  quote_or_summary: Amulets were rubbed on a stone or scraped with a knife; the powder
+    was mixed with water or beer for internal use and with butter for outward application.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; excerpt summarized with short quotation only.
+- id: ev:2
+  type: quote
+  locator: 17237-17242
+  quote_or_summary: The passage states that amulets had a wide range as remedies and
+    that almost every ailment known to medicine-men was treated with some kind of
+    amulet.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; excerpt summarized with short quotation only.
+- id: ev:3
+  type: quote
+  locator: 17241-17243
+  quote_or_summary: The passage says that the expectant mother had her amulet; the
+    line range then breaks off mid-phrase.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; excerpt summarized with short quotation only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but the passage is a fragment and
+    contains little narrative material. Motif candidates are therefore descriptive
+    rather than comparative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another tradition or motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l17226-l17243
+  passage_sha256=83b505da17041bf52c08ad9758a4e106da6b935ec0737d6db9895684c6e5f679
+

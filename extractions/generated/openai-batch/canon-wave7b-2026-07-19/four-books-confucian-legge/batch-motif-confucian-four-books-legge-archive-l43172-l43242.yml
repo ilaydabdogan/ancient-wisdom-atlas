@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l43172-l43242
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: THE WORKS OF MEXCIUS / CH. IS. MEN'S EXTREME WANT OF / CH. 17. THE TRUE HONOR
+    WHICH / CH. 20. LEARNING MUST NOT BE; lines 43172-43242
+  start: '43172'
+  end: '43242'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Mencius argues that moral capacity is not a matter of physical size or
+    inability but of acting or refusing to act. He illustrates this with examples
+    of lifting a duckling or a heavy weight and of walking slowly behind elders as
+    the proper conduct of a younger person.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mencius rejects the relevance of physical size and says the matter lies in
+    acting as such.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An example is given of a man whose strength is not equal to lifting a duckling
+    and who is therefore described as having no strength.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same man says he can lift 3,000 catties' weight and is then described
+    as a man of strength.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that one who can lift the weight lifted by Woo Hwo is another
+    Woo Hwo.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Mencius says the issue is not inability but unwillingness to do the thing.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Walking slowly behind elders is described as performing the part of a younger
+    person.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Walking quickly ahead of elders is described as violating the duty of a younger
+    brother.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The commentary states that filial piety and fraternal duty are natural outgoings
+    of human nature with intuitive knowledge and ability.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The commentary says Yaou and Shun showed the perfection of human relations
+    by acting in accordance with human nature.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Mencius
+  description: Speaker who answers and gives examples about ability, action, and duty.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Unnamed man
+  description: Example figure first unable to lift a duckling, then claiming ability
+    to lift 3,000 catties.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Woo Hwo
+  description: A person associated with lifting a great weight and noted in the commentary
+    for strength.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: fig:4
+  name_or_label: Elders
+  description: Persons before whom the younger person should walk slowly and behind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Younger person / younger brother
+  description: Figure whose proper conduct is to walk slowly behind elders and whose
+    violation is to walk quickly ahead of them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Yaou and Shun
+  description: Exemplars in the commentary who showed the perfection of human relations
+    by acting according to human nature.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: moral teacher
+  assigned_to:
+  - fig:1
+  basis: Mencius answers by giving ethical examples and explaining inability versus
+    unwillingness.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: illustrative test case
+  assigned_to:
+  - fig:2
+  basis: The unnamed man is used in examples about lifting a duckling and 3,000 catties.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: strongman exemplar
+  assigned_to:
+  - fig:3
+  basis: Woo Hwo is the named figure associated with lifting a notable weight and
+    is described in the note as noted for strength.
+  evidence_refs:
+  - ev:4
+  - ev:10
+- id: role:4
+  label: senior persons owed deference
+  assigned_to:
+  - fig:4
+  basis: The elders are those whom the younger person should keep behind when walking
+    slowly.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: junior person with fraternal duty
+  assigned_to:
+  - fig:5
+  basis: The younger person performs or violates the duty of a younger brother through
+    walking behavior toward elders.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: moral exemplars
+  assigned_to:
+  - fig:6
+  basis: The commentary presents Yaou and Shun as showing perfection in human relations.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: duckling as minimal burden
+  literal_form: duckling
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: 3,000 catties as heavy burden
+  literal_form: 3,000 catties' weight
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: walking behind elders
+  literal_form: walking slowly behind elders
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: walking before elders
+  literal_form: walking quickly and preceding elders
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Mencius on ability and action
+  summary: Mencius says the question is not physical size but acting in the relevant
+    way, and he uses lifting examples to distinguish inability from unwillingness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Walking conduct toward elders
+  summary: Mencius contrasts walking slowly behind elders as proper younger conduct
+    with walking quickly before elders as a violation of fraternal duty.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Commentarial explanation of innate moral capacity
+  summary: The commentary explains filial piety and fraternal duty as natural capacities
+    and presents Yaou and Shun as acting in accord with human nature.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: wisdom instruction through everyday analogy
+  taxonomy_refs:
+  - wisdom
+  basis: The passage offers didactic moral instruction using ordinary physical and
+    social examples to teach that proper conduct is within human capacity if one acts.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is an ethical-philosophical passage rather than a narrative myth;
+    the motif assignment is limited to the broad wisdom category.
+- id: motif:2
+  label: innate moral capacity realized through action
+  taxonomy_refs:
+  - wisdom
+  basis: The passage and commentary emphasize that filial and fraternal duties are
+    within intuitive human ability and that failure is a matter of not doing rather
+    than incapacity.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: No explicit mythic episode is present; the motif is extracted as a didactic
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 43172-43177
+  quote_or_summary: Mencius answers that physical size is not the issue and that the
+    matter lies in acting as such.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 43176-43180
+  quote_or_summary: A man whose strength cannot lift a duckling is described as a
+    man of no strength.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 43194-43196
+  quote_or_summary: '"I can lift 3,000 catties'' weight,"'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 43196-43199
+  quote_or_summary: The one who can lift the weight that Woo Hwo lifted is said to
+    be another Woo Hwo.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 43199-43201
+  quote_or_summary: '"It is only that he will not do the thing."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 43203-43205
+  quote_or_summary: Walking slowly while keeping behind elders is described as performing
+    the part of a younger person.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 43205-43208
+  quote_or_summary: Walking quickly and preceding elders is described as violating
+    the duty of a younger brother.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 43231-43236
+  quote_or_summary: The commentary says filial piety and fraternal duty are natural
+    outgoings of human nature, with intuitive knowledge and ability.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 43236-43241
+  quote_or_summary: The commentary says Yaou and Shun showed the perfection of human
+    relations by acting in accordance with human nature.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:10
+  type: summary
+  locator: 43212-43217
+  quote_or_summary: The note identifies Woo Hwo as a man noted for strength and mentions
+    accounts of his great lifting ability.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily ethical instruction with interleaved commentary
+    and OCR noise. Literal extraction is reliable at the level of supplied text; motif
+    classification is broad and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific cross-textual comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l43172-l43242
+  passage_sha256=1c0203c9fd85199e8343c44e16218afa55eba8417abd6b6e60ab7fa0572d1e8d
+

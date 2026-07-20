@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l29954-l30104
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: HYMNS. / INDEX OF WORDS. / HYMNS. / INDEX OF WORDS.; lines 29954-30104
+  start: '29954'
+  end: '30104'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment lists Sanskrit headwords with English glosses and hymn
+    references. The entries include terms for kindling and fuel, oblations and sacrificial
+    food, birth and sons, the Sun, streams and floods, letting loose or pouring out,
+    named lineage figures, Soma as juice and as a god, Soma drinking and offering,
+    and prosperity or happiness.
+  language: English with Sanskrit headwords
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index of words, not a continuous narrative hymn passage.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes entries glossed as well-kindled and good fuel.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index includes entries concerning good oblations, a giver of good oblations,
+    and sacrificial food to the gods.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: The passage lists terms connected with birth, sons, and being rich in sons.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The passage includes entries glossed as Sun or the sun.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: A verb entry includes glosses for going forth, streaming forward, and breaking
+    through with floods.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: A verb entry includes glosses for letting loose, shooting an arrow, letting
+    go, yielding up, pouring out, emitting, and being united.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage identifies Soma both as Soma juice and as Soma the god, and includes
+    entries for Soma-fed, lord of Soma, drinking of Soma, drink of Soma, and one who
+    offers Soma.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: Named lineage entries identify Sringaya as son of Devavata and Semaka as Sahadeva's
+    son.
+  category: relationship
+  evidence_refs:
+  - ev:8
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Soma
+  description: The index identifies Soma as juice and also as a god.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:2
+  name_or_label: Indra
+  description: Indra is named in the gloss for soma-pati as lord of Soma.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+- id: fig:3
+  name_or_label: Sringaya
+  description: The index identifies Sringaya as son of Devavata.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Devavata
+  description: Devavata is named as the parent or lineage figure of Sringaya.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Semaka
+  description: The index identifies Semaka as Sahadeva's son.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:10
+- id: fig:6
+  name_or_label: Sahadeva
+  description: Sahadeva is named as the parent or lineage figure of Semaka.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: god
+  assigned_to:
+  - fig:1
+  basis: The index entry explicitly gives Soma also as a god.
+  evidence_refs:
+  - ev:9
+- id: role:2
+  label: lord of Soma
+  assigned_to:
+  - fig:2
+  basis: The index glosses soma-pati as lord of Soma and identifies it with Indra.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: son
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The index identifies Sringaya as son of Devavata and Semaka as Sahadeva's
+    son.
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: role:4
+  label: named father or lineage figure
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Devavata and Sahadeva are named in filial relationships.
+  evidence_refs:
+  - ev:8
+  - ev:10
+symbols:
+- id: sym:1
+  label: Soma
+  literal_form: Soma juice; Soma as drink; Soma as a god
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:2
+  label: Sun
+  literal_form: Sun; the sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Kindling and fuel
+  literal_form: well-kindled; good fuel
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Floods and streams
+  literal_form: stream forward; broken through with their floods
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Oblation and sacrificial food
+  literal_form: good oblations; sacrificial food to the gods
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Sacrifice and ritual offering
+  taxonomy_refs:
+  - sacrifice
+  basis: The index includes oblations, sacrificial food to the gods, Soma offering,
+    Soma drinking, and related ritual terms.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  confidence: medium
+  cautions: The passage is an index excerpt rather than a narrative ritual description;
+    it points to terms occurring in hymns but does not itself narrate a sacrifice.
+- id: motif:2
+  label: Soma offering and divine beverage
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage identifies Soma as juice and as a god and lists Soma-fed, lord
+    of Soma, drinking of Soma, drink of Soma, and one who offers Soma.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The motif is inferred from clustered index entries; no full ritual sequence
+    is given in this passage.
+- id: motif:3
+  label: Waters or floods breaking forth
+  taxonomy_refs: []
+  basis: The verb entry includes streaming forward and breaking through with floods.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: Only a lexical gloss is present; there is no narrative of flood, renewal,
+    or water release in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29954-30104; passage heading and format
+  quote_or_summary: The passage is headed as an index of words and consists of headwords,
+    glosses, and hymn references.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 29954-30104; entries sfi-samiddha and su-samfdh
+  quote_or_summary: Entries gloss terms as well-kindled and good fuel.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 29954-30104; entries su-havis and su-havya
+  quote_or_summary: Entries mention offering good oblations and a giver of good oblations.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 29954-30104; entry Srig
+  quote_or_summary: The Srig entry includes letting loose, shooting an arrow, letting
+    go sacrificial food to the gods, yielding up, pouring out, emitting, and being
+    united.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 29954-30104; entries sii, sind, and sfinu-mat
+  quote_or_summary: Entries include giving birth, son, and rich in sons.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 29954-30104; entries stira and stirya
+  quote_or_summary: Entries gloss terms as Sun or the sun, with hymn references.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 29954-30104; entry sri
+  quote_or_summary: The sri entry includes going forth, streaming forward, and breaking
+    through with floods.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 29954-30104; entry Srifigaya
+  quote_or_summary: The index identifies Sringaya as son of Devavata.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 29954-30104; entries s6ma through somya
+  quote_or_summary: The Soma entries describe Soma as juice and as a god and include
+    Soma-fed, lord of Soma identified with Indra, drinking of Soma, drink of Soma,
+    and one who offers Soma.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 29954-30104; entry Sémaka
+  quote_or_summary: The index identifies Semaka as Sahadeva's son.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 29954-30104; entry satbhaga
+  quote_or_summary: The passage glosses satbhaga as prosperity, delight, or happiness.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The excerpt is primarily an index with OCR noise and no continuous mythic
+    narrative. Literal lexical observations are relatively secure, but motif candidates
+    are limited and require human review against the cited hymns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another text, tradition, or motif family beyond internal candidate motif tagging.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l29954-l30104
+  passage_sha256=f993d6d1bc7c33bdab252528539108fc876916ad975627571639e61b0e20837c
+

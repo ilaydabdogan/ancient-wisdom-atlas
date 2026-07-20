@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l15806-l15837
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: HOUSEHOLD UTENSILS, ETC. / TURNER! TRANSPORTATION BY WATER. 305 / NEHENOT
+    8H0WSH0E / WEAPONS.; lines 15806-15837
+  start: '15806'
+  end: '15837'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes weapons used by the Indians discussed in the excerpt.
+    It says they formerly used bow and arrow exclusively, but now mostly use guns
+    obtained from traders. It describes the bow’s wood, dimensions, elasticity, repairability,
+    and deerskin string; the arrows’ length, feathering, and head shape; and notes
+    that bow and arrow remain useful for small game because ammunition is costly.
+    A round-end snowshoe caption also appears in the passage text.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The group formerly used bow and arrow exclusively, but has nearly discarded
+    those weapons for guns procured from traders.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bow and arrow are still used to kill small game named in the passage as ptarmigan,
+    “liares,” and rabbits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The bow is described as made from larch or spruce wood, four to six feet long,
+    slightly narrower and thinner at the ends, and about an inch thick and an inch
+    and a half wide at the central portions.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says the bows show little ingenuity in construction, have considerable
+    elasticity, and can be replaced by obtaining wood from the forest and fashioning
+    another bow.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The bowstring is described as a twisted or rolled strand of deerskin, and
+    bows with a single string are said to be rare.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The arrows are usually two feet or thirty inches long and are feathered with
+    three ptarmigan feathers.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The arrow head is described as an egg-shaped knob ending in a slender point
+    that soon breaks off.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The bow-and-arrow weapon is used for small game because ammunition is too
+    costly to spend on game described as readily procured.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A caption or label for a round-end Nenenot snowshoe appears within the passage
+    text.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Indians described in the passage
+  description: A group described as formerly using bow and arrow exclusively and now
+    mostly using guns obtained from traders; they still use bow and arrow for small
+    game.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: traders
+  description: People from whom guns are procured.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: former exclusive bow-and-arrow users
+  assigned_to:
+  - fig:1
+  basis: The passage says the group formerly used bow and arrow exclusively.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: small-game hunters
+  assigned_to:
+  - fig:1
+  basis: The passage says bow and arrow are still used to kill small game, and that
+    ammunition is too costly for such game.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: gun suppliers
+  assigned_to:
+  - fig:2
+  basis: The guns are said to be procured from traders.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: bow and arrow
+  literal_form: weapon set formerly used exclusively and still used for small game
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: guns
+  literal_form: weapons procured from traders and replacing bows and arrows in most
+    uses
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: larch or spruce bow wood
+  literal_form: larch or spruce wood used to make bows; replacement wood can be obtained
+    from the forest
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: deerskin bowstring
+  literal_form: twisted or rolled strand of deerskin used as a bowstring
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ptarmigan-feathered arrows
+  literal_form: arrows two feet or thirty inches long, feathered with three ptarmigan
+    feathers and fitted with an egg-shaped knob head
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: round-end snowshoe caption
+  literal_form: caption reading “NENENOT SNOW8H0E- ROUND-END” in the supplied passage
+    text
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Replacement of bows and arrows by guns
+  summary: The group is described as having formerly used bow and arrow exclusively
+    but now nearly discarding them for guns obtained from traders.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bow construction and repair
+  summary: The passage details the bow’s larch or spruce wood, length, shape, elasticity,
+    replaceability, and deerskin string.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Arrows and small-game use
+  summary: The passage describes arrow length, feathering, and head shape, and explains
+    that the weapon remains in use for small game because ammunition is costly.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15808-15810
+  quote_or_summary: Formerly bow and arrow were used exclusively, but these weapons
+    have now nearly been discarded for guns procured from traders.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 15812-15813
+  quote_or_summary: Bow and arrow are still used to kill ptarmigan, “liares,” and
+    rabbits.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 15813-15817
+  quote_or_summary: The bow is described as larch or spruce wood, four to six feet
+    long, slightly narrower and thinner at the ends, with central dimensions of about
+    one inch thick and one and a half inches wide.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 15817-15822
+  quote_or_summary: The construction is described as simple; the bows are elastic;
+    a broken bow can be replaced with forest wood; the string is twisted or rolled
+    deerskin, and single-string bows are rare.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 15824-15827
+  quote_or_summary: The arrows are usually two feet or thirty inches long, feathered
+    with three ptarmigan feathers, and have an egg-shaped knob head ending in a slender
+    point that soon breaks off.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 15829-15830
+  quote_or_summary: The weapon is used for small game because ammunition is too expensive
+    to spend on game that is readily obtained.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; passage supplied in request.
+- id: ev:7
+  type: quote
+  locator: line 15836
+  quote_or_summary: "“NENENOT SNOW8H0E- ROUND-END.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is limited by OCR noise and page-layout artifacts. The passage
+    is an ethnographic artifact description rather than a mythic narrative; no supported
+    motif-family or comparative claim was extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was applied because the passage does not support a mythic or symbolic interpretation beyond literal artifact description.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l15806-l15837
+  passage_sha256=af095a6bad0a80ba0cb514dd3061f08197de188e6fd3f50bce6b4ae28313e4dc
+

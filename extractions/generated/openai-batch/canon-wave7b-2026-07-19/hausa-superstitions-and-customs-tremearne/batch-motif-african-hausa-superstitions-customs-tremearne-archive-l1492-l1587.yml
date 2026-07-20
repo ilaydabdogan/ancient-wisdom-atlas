@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l1492-l1587
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: THE  NARRATORS  5 / DIFFICULTIES   OF   COLLECTING  7 / FIG.  2. / FIG.  3.;
+    lines 1492-1587
+  start: '1492'
+  end: '1587'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains source abbreviations and then describes Hausa oral-story
+    opening and closing formulas. It states that fables are told in the spider’s name
+    because the spider is associated with cunning and craftiness. A narrator calls
+    the story, listeners reply, the tale proceeds, and the narrator ends with formulas
+    involving a mouse or rat head, the spider, and acknowledgment that the tale is
+    an untruth or lucky lie. A footnote compares part of the Hausa introductory formula
+    with a Sierra Leone story formula.
+  language: English with Hausa phrases
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author says only 100 tales appear in full, while variants and notes mention
+    about 500 tales.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that all fables are told in the spider’s name because the
+    spider is the king of cunning and craftiness.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator begins the story with a formula glossed as seeing the feminine
+    story or account present.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The listener replies with formulas inviting the story to come, aid conversation,
+    be heard, or pass.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the listener’s reply, the narrator proceeds with the tale.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At the end, the narrator recites a closing formula involving the head of a
+    mouse or rat.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:7
+  text: The ending formula says that, were it not for the spider, the narrator would
+    have lied greatly, and that as it is the narrator has told an untruth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note states that Sierra Leone tales in a cited collection show a remarkable
+    similarity to many tales in the author’s collection, including part of the Hausa
+    introduction.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the spider
+  description: Named as the king of cunning and craftiness; fables are told in his
+    name, and he is invoked in the closing formula.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: the narrator
+  description: The person who commences the story, proceeds with the tale, and says
+    the closing formula when it is finished.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the listener
+  description: The person who replies to the narrator’s opening formula.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: story or account
+  description: The story is referred to with feminine forms in the opening formula
+    and is invited to come or pass.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: mouse or rat
+  description: Mentioned in the closing formula through its head or remaining head.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: cunning fable patron
+  assigned_to:
+  - fig:1
+  basis: The spider is called the king of cunning and craftiness, and all fables are
+    said to be told in his name.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: story performer
+  assigned_to:
+  - fig:2
+  basis: The narrator commences the story, proceeds after the listener’s reply, and
+    recites the ending.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: ritual respondent
+  assigned_to:
+  - fig:3
+  basis: The listener replies to the narrator’s opening formula with set responses.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: personified tale
+  assigned_to:
+  - fig:4
+  basis: The story is grammatically feminine and is addressed as coming, aiding conversation,
+    or passing.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: closing-formula animal remnant
+  assigned_to:
+  - fig:5
+  basis: The mouse or rat appears only as a head or remaining head in the ending formula
+    and its note.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: spider as cunning
+  literal_form: spider
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: story coming and passing
+  literal_form: spoken opening formulas inviting the story to come, be heard, aid
+    conversation, or pass
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mouse or rat head
+  literal_form: head of the mouse or rat in the closing formula
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: lucky lie
+  literal_form: spoken statement that the tale is an untruth and that this lie is
+    lucky
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: story opening call and response
+  summary: The narrator calls the story or account into presence; the listener replies
+    by inviting it to come, aid conversation, be heard, or pass.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: story ending formula
+  summary: When the tale is finished, the narrator gives a closing formula referring
+    to the mouse or rat head, the spider, and the tale as an untruth or lucky lie.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: spider as cunning trickster authority for fables
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The spider is identified as the king of cunning and craftiness, and all fables
+    are said to be told in his name.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes the spider’s role in story framing rather than narrating
+    a specific trickster episode.
+- id: motif:2
+  label: formal oral-story opening and closing frame
+  taxonomy_refs: []
+  basis: The passage records set opening exchanges between narrator and listener and
+    set ending formulas used after the tale.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a performance-frame pattern, not one of the supplied named motif
+    families.
+- id: motif:3
+  label: tale acknowledged as untruth or lucky lie
+  taxonomy_refs: []
+  basis: The closing formula explicitly says the narrator has told an untruth and
+    calls the lie lucky.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The function of the statement is not explained beyond its occurrence in
+    the closing formula.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports a similarity between the Hausa story-introduction
+    formula and a Sierra Leone story formula rendered as 'Story come, story go.'
+  claim_level: same_function
+  target: Sierra Leone tales in Cunnie Rabbit, Mr. Spider, and The Other Beef
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is cited in a footnote by the author; the passage gives
+    only a brief formulaic parallel and does not provide full Sierra Leone texts.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1492-1515
+  quote_or_summary: The author states that 100 tales are printed in full and about
+    500 are mentioned through variants and notes; he explains abbreviations for other
+    works and journals.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1517-1520
+  quote_or_summary: "“Since the spider is the king of cunning and craftiness, all
+    fables are told in his name.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1535-1551
+  quote_or_summary: The narrator opens with Hausa formulas glossed as 'See her here'
+    or 'see the account'; the listener replies with formulas glossed as inviting her
+    to come, aid conversation, be heard, or pass.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized with brief formula glosses.
+- id: ev:4
+  type: summary
+  locator: lines 1553-1571
+  quote_or_summary: After the listener’s reply, the narrator proceeds. When finished,
+    he says a formula about the head of the mouse or rat, the spider, having told
+    an untruth, and the lie being lucky.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1573-1579
+  quote_or_summary: A footnote says Sierra Leone tales in Cunnie Rabbit, Mr. Spider,
+    and The Other Beef are remarkably similar to many in the author’s collection and
+    that part of the Hausa introduction appears there as 'Story come, story go.'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized with brief quoted phrase.
+- id: ev:6
+  type: summary
+  locator: lines 1580-1583
+  quote_or_summary: 'A note gives another translation of the mouse or rat line: the
+    flesh of the rat has been consumed and only the head is left; it also connects
+    variant forms with cutting off the head.'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly ethnographic explanation of storytelling formulas,
+    so extraction of figures and motifs is reliable for the frame formulas but less
+    certain for broader motif-family assignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported taxonomy symbol references were assigned; supplied symbol taxonomy did not include spider, mouse, story, or lie.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l1492-l1587
+  passage_sha256=0104743a79f9a97c4f4bc9358c5fd8ad7e2a08f130836dbb2e9846da94c58744
+

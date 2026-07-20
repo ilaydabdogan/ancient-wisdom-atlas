@@ -1,0 +1,418 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l1960-l2038
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: GOD.  27 / PRAYER,  '31 / TEAYEK.  33 / SACKIFICE.  35; lines 1960-2038
+  start: '1960'
+  end: '2038'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys sacrifice terminology in Germanic and nearby sources.
+    It cites worship of three ravens as road-guides, a bird demanding cow sacrifice,
+    Samogitian animal sacrifice in the Livonian rhyming chronicle, Germanic terms
+    for offering and consecration, and an etymological proposal connecting words for
+    table or dish with an original holy table of offerings or altar.
+  language: English with cited Old Norse, Old Swedish, Old High German, Anglo-Saxon,
+    Latin, Middle High German, and related forms.
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cited Landnámabók passage says that three ravens were worshipped and were
+    expected to show a road.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A cited Sæmundar Edda passage says that a bird demands that cows be sacrificed
+    to him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage identifies Old Norse hlot as the sacrificial victim and gives
+    examples of offering a sacrifice or a great sacrifice.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The author states that the worship designated by the discussed term was not
+    necessarily bloody.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A Livonian rhyming chronicle passage about the Sameits or Samogits is summarized
+    as involving an animal sacrifice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The term bluotkirl is identified with Old Swedish blotkarl and glossed as
+    a heathen priest; the passage says the term is foreign to Lithuanian.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Several Old High German and Anglo-Saxon verbs and nouns are listed as terms
+    for sacrifice, immolation, offering, or oblation.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The author explains these terms as denoting the dedication or consecration
+    of an offering, and says the terminology implies that particular objects were
+    selected beforehand for sacrifice.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage derives words for table, dish, or tray from a verb of offering
+    and says such words originally signified the holy table of offerings, the altar.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: three ravens
+  description: Three ravens in a cited Landnámabók passage, worshipped and expected
+    to show the road.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: bird demanding sacrifice
+  description: A bird in a cited Sæmundar Edda passage that demands cows be sacrificed
+    to him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: cows
+  description: Cows named as the animals demanded for sacrifice to the bird.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Sameits or Samogits
+  description: A group mentioned in connection with a Livonian rhyming chronicle passage
+    on sacrifice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: bluotkirl / blotkarl
+  description: A term equated with Old Swedish blotkarl and glossed as a heathen priest.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: sacrificed animal
+  description: An animal, described in the chronicle quotation as ein quek, that the
+    author says is sacrificed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: worshipped road-guides
+  assigned_to:
+  - fig:1
+  basis: The cited ravens are worshipped and are going to show the road.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sacrifice-demanding recipient
+  assigned_to:
+  - fig:2
+  basis: The cited bird demands that cows be sacrificed to him.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sacrificial victims
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: Cows are demanded as sacrifice in one cited passage, and an animal is said
+    to be sacrificed in the Livonian chronicle passage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: tradition-group associated with cited sacrifice
+  assigned_to:
+  - fig:4
+  basis: The Livonian rhyming chronicle passage is introduced as telling of the Sameits
+    or Samogits.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: heathen priest
+  assigned_to:
+  - fig:5
+  basis: The passage glosses bluotkirl / blotkarl as heathen priest.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: three ravens as road-guides
+  literal_form: three ravens
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cow sacrifice to a bird
+  literal_form: cows demanded as sacrifice to a bird
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: animal victim
+  literal_form: ein quek / an animal sacrificed
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: heathen priest of sacrifice
+  literal_form: bluotkirl / blotkarl
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: vow and consecrated offering
+  literal_form: on-saying, dedication, consecration, vow, solemn promise
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: holy offering table or altar
+  literal_form: holy table of offerings, the altar
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ravens worshipped as road-guides
+  summary: A cited source reports worship of three ravens who were expected to show
+    a road.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bird demands cow sacrifice
+  summary: A cited source reports a bird demanding that cows be sacrificed to him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Samogitian animal sacrifice and priest term
+  summary: The Livonian rhyming chronicle passage is presented as involving a Sameit
+    or Samogit animal sacrifice, with bluotkirl / blotkarl glossed as a heathen priest.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Consecration of selected offerings
+  summary: The passage explains several sacrifice terms as acts of dedication or consecration,
+    implying that objects were selected beforehand for sacrifice.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Altar as holy table of offerings
+  summary: The passage proposes that words for table or dish originally denoted the
+    holy table of offerings, the altar.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacrifice and offering terminology
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage repeatedly discusses words for worship, offering, victim, immolation,
+    oblation, dedication, and altar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is a philological discussion rather than a continuous mythic
+    narrative.
+- id: motif:2
+  label: animal sacrifice to a nonhuman bird recipient
+  taxonomy_refs:
+  - sacrifice
+  basis: A cited passage says a bird demands cows be sacrificed to him; another citation
+    concerns worship of ravens.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The examples are brief citations within a scholarly note; the surrounding
+    narratives are not supplied.
+- id: motif:3
+  label: votive dedication before sacrifice
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The author says the relevant terminology denotes dedication or consecration
+    of the offering and connects antheiz with vow or solemn promise.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The exchange aspect is inferred only from the passage's language of vow,
+    promise, and offering; no full ritual transaction is narrated.
+- id: motif:4
+  label: worshipped ravens as path-finders
+  taxonomy_refs: []
+  basis: The Landnámabók citation says three ravens were worshipped and would show
+    the road.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a short citation and does not identify the ravens'
+    wider mythic status.
+- id: motif:5
+  label: holy offering table or altar
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that certain words for table, dish, or tray originally
+    signified the holy table of offerings, the altar.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is an etymological and ritual-object claim, not a narrated scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents several Germanic sacrifice terms as sharing a ritual
+    function of offering, dedication, or consecration, while distinguishing the term
+    from blood etymology.
+  claim_level: linguistic_similarity
+  target: Old Norse, Old Swedish, Old High German, and Anglo-Saxon sacrifice vocabulary
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The author states that the true derivation of the main term is unknown,
+    so the comparison is functional and philological rather than a settled etymology.
+- id: claim:2
+  claim: The passage cautiously proposes that the sacrifice-priest term in the Livonian
+    chronicle may have penetrated from Scandinavia to Lithuania.
+  claim_level: historical_contact
+  target: bluotkirl / Old Swedish blotkarl in relation to Lithuanian or Samogitian
+    context
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The author frames this as conjectural, saying he 'fancies' the term
+    penetrated from Scandinavia and that the poet may not have understood it.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1966-1969
+  quote_or_summary: "“worshipped three ravens, who were going to show him the road”;
+    “a bird demands that cows be sacrificed to him”; the victim is identified as Old
+    Norse hlot."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1977-1981
+  quote_or_summary: The author says the term should not be derived from bloð / blood
+    and adds that “the worship so designated was not necessarily bloody.”
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1981-1993
+  quote_or_summary: A Livonian rhyming chronicle passage about the Sameits or Samogits
+    is quoted; the author says an animal is sacrificed, equates bluotkirl with Old
+    Swedish blotkarl, glosses it as heathen priest, and suggests the term is foreign
+    to Lithuanian.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1995-2016
+  quote_or_summary: The passage lists Old High German and Anglo-Saxon terms for sacrifice,
+    immolation, oblation, or devotion, including antheiz, antheizon, inheizan, onscegan,
+    and related forms.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 2017-2025
+  quote_or_summary: The author says the terminology denotes “the ‘on-saying,’ dedication,
+    consecration of the offering” and that “particular objects were selected beforehand
+    for sacrifice”; antheiz is also described as a vow or solemn promise.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 2027-2038
+  quote_or_summary: Words for table or dish are derived from biudan ‘offerre’ and
+    said to have “originally signified the holy table of offerings, the altar.”
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    because the passage is primarily philological and offers brief citations rather
+    than full narrative contexts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or taxonomy IDs beyond those supplied were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l1960-l2038
+  passage_sha256=2a6123921d98fd5c20eee14b90e16ffe5a2d335ae012310e68c69ae7d8343d83
+

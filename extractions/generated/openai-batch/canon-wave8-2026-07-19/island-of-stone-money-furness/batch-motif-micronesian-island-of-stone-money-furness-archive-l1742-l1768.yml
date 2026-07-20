@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l1742-l1768
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: SONGS AND INCANTATIONS / THE ISLAND OF STONE MONET / SONGS AND INCANTATIONS
+    / SONGS AND INCANTATIONS; lines 1742-1768
+  start: '1742'
+  end: '1768'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"I have a canoe, / I will stick to you like a burr, / I have lost my mind."'
+  summary: The passage quotes a brief Uap song mentioning a canoe, attachment like
+    a burr, and loss of mind. The author compares its emotional effect to an English
+    love-song excerpt about a beloved going beyond the seas with a white sail, and
+    comments that both songs contain sea imagery and fidelity.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A short song says that the speaker has a canoe.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The song speaker says they will stick to the addressee like a burr.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The song speaker says they have lost their mind.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says the song may express tenderness to Uap youths or lovelorn
+    maids.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage quotes a comparison song in which a speaker asks what the beloved
+    would do if the speaker were going with a white sail beyond the seas.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author states that both songs include a limitless expanse of seas and
+    eternal fidelity.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Uap song speaker
+  description: The first-person speaker of the quoted Uap song who has a canoe, promises
+    burr-like attachment, and says they have lost their mind.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Song addressee
+  description: The unnamed second-person addressee to whom the Uap song speaker says
+    they will stick like a burr.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Uap youths or lovelorn maids
+  description: The passage names languishing Uap youths or lovelorn maids as possible
+    recipients or appreciators of the song's tenderness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: first-person lover or speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker uses first-person statements and addresses a second person with
+    an image of persistent attachment.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beloved or addressee
+  assigned_to:
+  - fig:2
+  basis: The second person is the one to whom the speaker says they will cling like
+    a burr.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: possible love-song audience
+  assigned_to:
+  - fig:3
+  basis: The commentary says the song may express tenderness to Uap youths or lovelorn
+    maids.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: burr-like clinging
+  literal_form: burr
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: sea expanse
+  literal_form: seas
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: white sail
+  literal_form: white sail
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Brief Uap love-song utterance
+  summary: A first-person speaker says they have a canoe, will cling to the addressee
+    like a burr, and have lost their mind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Authorial comparison of songs
+  summary: The author compares the Uap song with an English love-song excerpt and
+    identifies sea imagery and fidelity in both.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: maritime love and fidelity
+  taxonomy_refs: []
+  basis: The passage explicitly frames the Uap song and the comparison song as love
+    poetry involving seas and eternal fidelity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a literary-emotional pattern in a song excerpt, not a developed
+    mythic narrative.
+- id: motif:2
+  label: clinging lover compared to a burr
+  taxonomy_refs: []
+  basis: The Uap song uses the image of sticking to the addressee like a burr, and
+    the author interprets this as an image of persistent fidelity.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The motif is local to this brief lyric and is not linked to a supplied
+    taxonomy family.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the Uap song with an English love-song excerpt,
+    saying both contain expansive sea imagery and fidelity.
+  claim_level: same_motif
+  target: English love-song excerpt beginning "What would you do, love, if I were
+    going"
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is based on the author's brief commentary and quoted
+    fragments only; no broader historical or transmission claim is supported.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1742-1746
+  quote_or_summary: '"I have a canoe, / I will stick to you like a burr, / I have
+    lost my mind."'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: 1747-1750
+  quote_or_summary: The author says the quoted Uap song may express tenderness to
+    languishing Uap youths or lovelorn maids.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 1751-1755
+  quote_or_summary: '"What would you do, love, if I were going, / With white sail
+    flowing, / The seas beyond?"'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: 1756-1763
+  quote_or_summary: The author states that both songs have a limitless expanse of
+    seas and eternal fidelity, and comments on the burr image as suggesting persistent
+    attachment.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1764-1768
+  quote_or_summary: The author closes with a literary remark defending Uap poetry
+    and comparing Emily Dickinson rhetorically to a Uap poetess.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and mostly literary commentary rather than mythic narrative;
+    extracted motifs are therefore limited to song imagery and author-supported comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact, common-inheritance, or archetypal claims are supported by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l1742-l1768
+  passage_sha256=871154601141893c79a56dd6a6e68096beb9136e1cecbf45929d5dc3e8f4b98f
+

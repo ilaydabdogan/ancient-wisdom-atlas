@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l15449-l15473
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: MOCCASIN     GAME    AT    WHITE    EARTH,     MINN. / HIDING   THE    BULLETS
+    / AFTER  THE   BULLETS  ARE   HIDDEN / MOCCASIN     GAME    AT    WHITE     EARTH,     MINN.;
+    lines 15449-15473
+  start: '15449'
+  end: '15473'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes rules of the moccasin game after bullets have been
+    hidden. A player with a striking-stick may make a confident individual guess by
+    a two-finger gesture, while his partner may also indicate a guess by positioning
+    a marked bullet in his own hand. The striking-stick player has three chances to
+    turn moccasins; the bullet-holding partner has one guess. A correct guess by both
+    players is called a “double crack” and grants an additional turn, though the final
+    condition is cut off in the excerpt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A guessing player who holds the striking-stick may signal confidence in knowing
+    which moccasin hides the marked bullet by extending his right hand with two fingers
+    spread.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the striking-stick player makes this confident individual guess, his
+    partner does not indicate a guess; if the guess is correct, the score equals that
+    for a “double crack.”
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Usually each guessing player decides where he thinks the marked bullet is
+    hidden.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The guesser holding the bullets places his marked bullet in a hand position
+    corresponding to the moccasin under which he thinks the opposing marked bullet
+    is concealed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bullet-holding guesser is allowed one guess, while the player with the
+    striking-stick is allowed three guesses.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The player with the striking-stick may toss aside two moccasins without finding
+    the marked bullet and then turn another moccasin on which the score is made.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The partner indicates his guess after the striking-stick player’s attempts;
+    if correct, he opens his hand to show the marked bullet in the right position.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: If the partner’s guess is incorrect, he extends his hand with the thumb down,
+    meaning “I have guessed wrong.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A correct guess by both players is called a “double crack” and entitles them
+    to another turn at hiding the bullets, with the final condition incomplete in
+    the excerpt.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: guessing player with the striking-stick
+  description: A player who holds the striking-stick, may risk the score on his own
+    judgment, and is allowed three guesses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: partner or guesser holding the bullets
+  description: A partner who holds bullets, places a marked bullet in a hand position
+    to indicate a guess, and later shows whether the guess was correct or wrong.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: opponent who has hidden the marked bullet
+  description: The opposing player or side is described as having hidden the marked
+    bullet under a moccasin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: primary guessing player
+  assigned_to:
+  - fig:1
+  basis: This player holds the striking-stick, may signal an individual guess, and
+    receives three attempts to turn moccasins.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: partner guesser and hand-position indicator
+  assigned_to:
+  - fig:2
+  basis: This partner holds bullets, maps a guess onto hand positions, and reveals
+    correctness with hand gestures.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: hider or opposing side
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the opponent as the one who has hidden the marked bullet
+    under a moccasin.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: marked bullet
+  literal_form: A marked bullet hidden under a moccasin and also used in the partner’s
+    hand to indicate a guessed position.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: moccasin hiding place
+  literal_form: A moccasin in a row under which the marked bullet may be hidden.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: striking-stick
+  literal_form: A game implement held by the leading guessing player.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: two-finger spread gesture
+  literal_form: The right hand extended with two fingers spread to signal that the
+    striking-stick player is risking the score on his own judgment.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: thumb-down wrong-guess gesture
+  literal_form: A hand extended with the thumb down to mean “I have guessed wrong.”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: confident individual guess by the striking-stick player
+  summary: The striking-stick player may signal with two spread fingers that he is
+    making a confident guess on his own judgment; in that case his partner does not
+    indicate a guess.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: partner maps a guess onto hand positions
+  summary: The bullet-holding partner places his marked bullet between fingers in
+    a position corresponding to the moccasin where he thinks the opponent’s marked
+    bullet is hidden.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: turning moccasins and revealing the partner’s guess
+  summary: The striking-stick player may turn up to three moccasins; afterward the
+    partner reveals whether his separate hand-position guess was correct or wrong.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: double crack result
+  summary: When both players guess correctly, the result is called a “double crack”
+    and grants another turn at hiding the bullets, though the excerpt ends before
+    giving the full condition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hidden object guessing game
+  taxonomy_refs: []
+  basis: The passage centers on identifying which moccasin conceals a marked bullet.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic game-rule pattern, not a mythic narrative motif
+    in the supplied passage.
+- id: motif:2
+  label: gestural signaling of game judgment and outcome
+  taxonomy_refs: []
+  basis: Players use specific hand gestures to signal confident guessing, a correct
+    positioned guess, or an incorrect guess.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage explains conventional game gestures without assigning symbolic
+    or ritual meaning beyond gameplay.
+- id: motif:3
+  label: double correct guess grants renewed turn
+  taxonomy_refs: []
+  basis: A correct guess by both players is called a “double crack” and gives the
+    pair an additional turn at hiding the bullets.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt ends with the word “provided,” so the full condition for the
+    additional turn is incomplete.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15449-15456
+  quote_or_summary: The striking-stick player may extend his right hand with two fingers
+    spread if he is sure where the marked bullet is hidden and is willing to risk
+    the score; his partner then does not indicate a guess, and a correct guess scores
+    like a “double crack.”
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 15457-15464
+  quote_or_summary: The guesser holding the bullets places his marked bullet in a
+    hand position corresponding to the moccasin where he thinks the opponent’s marked
+    bullet is hidden; an example maps a position between fingers to a moccasin in
+    the row.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 15465-15469
+  quote_or_summary: The bullet-holding man is allowed only one guess; the man with
+    the striking-stick is allowed three guesses and may toss aside two moccasins before
+    turning another for the score.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 15469-15472
+  quote_or_summary: 'The partner then indicates his guess: if correct, he opens his
+    hand and shows the marked bullet in the right position; if incorrect, he extends
+    his hand with the thumb down to mean that he guessed wrong.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: '15473'
+  quote_or_summary: A correct guess by both players is called a “double crack” and
+    entitles them to another turn at hiding the bullets; the supplied excerpt breaks
+    off after the word “provided.”
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The gameplay sequence and objects are clear in the passage. Motif candidates
+    are treated as game-rule patterns rather than mythological motifs. No comparison
+    claims are made because the supplied passage does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied; the passage does not mention any listed motif family or listed symbol directly.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l15449-l15473
+  passage_sha256=8d6587a4e4598d8ddd437d4f9cfd29f07fbf3c2b95ad61993a84dc44686d99fe
+

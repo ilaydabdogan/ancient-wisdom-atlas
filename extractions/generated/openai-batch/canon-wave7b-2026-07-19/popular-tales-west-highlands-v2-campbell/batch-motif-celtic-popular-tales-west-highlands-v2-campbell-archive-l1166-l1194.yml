@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l1166-l1194
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: TOIMIISEACIIAN. 35 / THE RIDERE (KNIGHT) OF RIDDLES. 37 / AN TULMAN. / SANNTRAIGH.;
+    lines 1166-1194
+  start: '1166'
+  end: '1194'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A herd's wife on Sanntraigh has a kettle. A woman of peace, glossed as
+    a fairy, comes daily without speaking and takes hold of the kettle. The housewife
+    recites a formula about a smith, iron, coal, the due of a kettle, bones, and returning
+    it whole. The fairy returns each day with the kettle containing flesh and bones.
+    When the housewife plans to cross the ferry to Baile Castle, she instructs her
+    man to say the same words. He sees the woman coming with a shadow from her feet,
+    becomes afraid, closes the door, and does not open it. The woman goes above a
+    hole in the house, and the kettle jumps twice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is the island of Sanntraigh, and the tale is attributed to Alexander
+    M'Donald and others of Barra in July 1859.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A herd's wife owns a kettle.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A woman of peace, identified parenthetically as a fairy, comes every day to
+    seek the kettle and takes hold of it without speaking.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the woman of peace takes the kettle, the housewife recites a four-line
+    formula about a smith, cold iron heated with coal, the due of a kettle, bones,
+    and bringing it back whole.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The woman of peace comes back every day with the kettle containing flesh and
+    bones.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The housewife plans to go over the ferry to Baile Castle and tells her man
+    to say the same words to the woman of peace.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The man is spinning a heather rope to be set on the house.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The man sees a woman coming with a shadow from her feet, becomes afraid, shuts
+    the door, stops his work, and does not open the door.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:9
+  text: After finding the door not open, the woman goes above a hole in the house,
+    and the kettle gives two jumps.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: herd's wife / housewife
+  description: A woman in Sanntraigh who owns the kettle and knows the words spoken
+    when the woman of peace takes it.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: woman of peace / fairy
+  description: A silent daily visitor who seeks and takes the kettle, later returning
+    it with flesh and bones in it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: the housewife's man
+  description: The man addressed by the housewife; he promises to repeat her words
+    but becomes afraid when the woman comes and closes the door.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: kettle owner
+  assigned_to:
+  - fig:1
+  basis: The herd's wife is said to have a kettle.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: supernatural borrower or visitor
+  assigned_to:
+  - fig:2
+  basis: The woman of peace, glossed as a fairy, comes daily to seek and take the
+    kettle and returns with it.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: speaker of return formula
+  assigned_to:
+  - fig:1
+  basis: The housewife speaks the formula when the woman of peace takes the kettle
+    and instructs her man to say the same words.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: instructed substitute who fails to open the door
+  assigned_to:
+  - fig:3
+  basis: The man is told to say the housewife's words, but when the woman comes he
+    is afraid, shuts the door, and does not open it.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: kettle
+  literal_form: kettle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: flesh and bones in the kettle
+  literal_form: flesh and bones
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: spoken kettle formula
+  literal_form: four-line spoken formula
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: closed door and house hole
+  literal_form: door and hole in the house
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: shadow from the woman's feet
+  literal_form: shadow from her feet
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Daily taking of the kettle
+  summary: The woman of peace comes without speaking, takes hold of the herd's wife's
+    kettle, and the housewife recites the kettle formula.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Return of the kettle with contents
+  summary: The woman of peace returns daily with the kettle containing flesh and bones.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Instruction before the ferry journey
+  summary: The housewife says she will go over the ferry to Baile Castle if her man
+    will repeat her words to the woman of peace; he agrees.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Fear at the closed door
+  summary: The man, while spinning a heather rope, sees the woman coming with a shadow
+    from her feet, becomes afraid, shuts the door, stops working, and does not open
+    it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: The woman at the house hole and the jumping kettle
+  summary: Finding the door closed, the woman goes above a hole in the house, and
+    the kettle jumps twice.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: supernatural borrowing and return of a household vessel
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A fairy-like woman comes daily for the kettle, and the kettle is returned
+    with flesh and bones after the housewife speaks a formula about its due and its
+    whole return.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly describe the exchange as sacred; the taxonomy
+    reference is based on the reciprocal pattern between household and supernatural
+    visitor.
+- id: motif:2
+  label: formulaic speech required for supernatural household interaction
+  taxonomy_refs: []
+  basis: The housewife consistently speaks a formula when the woman of peace takes
+    the kettle, and she instructs her man to repeat the same words in her absence.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not yet state the full consequence of failing to say
+    the formula.
+- id: motif:3
+  label: blocked threshold and alternate supernatural access
+  taxonomy_refs: []
+  basis: The man shuts the door and does not open it for the woman of peace; she then
+    goes above a hole in the house, after which the kettle jumps twice.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The excerpt ends immediately after the kettle jumps, so the function of
+    the threshold episode remains incomplete.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1166-1168
+  quote_or_summary: The section is titled SANNTRAIGH and is sourced from Alexander
+    M'Donald, tenant, and others, Barra, July 1859.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 1169-1174
+  quote_or_summary: A herd's wife in Sanntraigh has a kettle; a woman of peace, identified
+    as a fairy, comes every day to seek it, says nothing, and catches hold of it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 1174-1179
+  quote_or_summary: When the woman of peace takes the kettle, the housewife says a
+    formula about a smith heating cold iron with coal, the due of a kettle being bones,
+    and bringing it back whole.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 1180-1182
+  quote_or_summary: The woman of peace returns every day with the kettle and with
+    flesh and bones in it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 1182-1186
+  quote_or_summary: The housewife plans to go over the ferry to Baile Castle and tells
+    her man that she will go if he will say to the woman of peace what she says; he
+    agrees.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 1186-1190
+  quote_or_summary: The man is spinning a heather rope for the house, sees a woman
+    coming with a shadow from her feet, becomes afraid, shuts the door, and stops
+    working.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 1190-1194
+  quote_or_summary: The woman finds the door closed; he does not open it. She goes
+    above a hole in the house, and the kettle gives two jumps.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for figures, actions, objects, and sequence. Motif assignment
+    is cautious because the excerpt ends mid-episode and does not state the outcome
+    after the kettle jumps.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the episode to another text, tradition, or named motif family beyond the available extraction taxonomy.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l1166-l1194
+  passage_sha256=df50ea76a376bef33596aaac0e645ff53a2ebebd261a13bdc4e0b73ee73da8f7
+

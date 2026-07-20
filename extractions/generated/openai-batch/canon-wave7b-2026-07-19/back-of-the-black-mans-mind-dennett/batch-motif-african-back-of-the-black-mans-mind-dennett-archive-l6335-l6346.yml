@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.african-back-of-the-black-mans-mind-dennett-archive-l6335-l6346
+source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+passage_locator:
+  label: XI  BIBILA,  THE  PHILOSOPHY  OF  THE  GROVES         117 / XI  BIBILA,  THE  PHILOSOPHY  OF  THE  GROVES  119
+    / CHAPTER  XII / CH.  XII  SACRED  LANDS  AND  RIVERS  121; lines 6335-6346
+  start: '6335'
+  end: '6346'
+  translation: At the Back of the Black Man's Mind; or, Notes on the Kingly Office
+    in West Africa
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states parallel marriage requirements for Makongo and Maluango,
+    links Sonio and Ngoio with Fatherhood and Motherhood, identifies BUKOIO as the
+    sacred name for Luango, and says BUKOIO/Luango represents offspring or birth-giving
+    power. It then introduces a legend concerning Bavili ideas about their origin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Makongo is said to have had to marry a princess of SONIO.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Maluango is said to have had to marry a princess of Ngoio.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sonio and Ngoio are said to have represented Fatherhood and Motherhood for
+    the natives.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: BUKOIO is identified as the sacred name for Luango.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: BUKOIO/Luango is said to represent offspring as an effect, or birth-giving
+    power as a cause.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage introduces a legend said to illuminate Bavili thoughts about their
+    origin.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Makongo
+  description: Named figure who had to marry a princess of SONIO.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Maluango
+  description: Named figure who had to marry a princess of Ngoio.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Princess of SONIO
+  description: Princess identified as the required marriage partner of Makongo.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Princess of Ngoio
+  description: Princess identified as the required marriage partner of Maluango.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Bavili
+  description: People whose thoughts regarding their origin are said to be illuminated
+    by a legend introduced after this passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: required bridegroom in named marriage
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both Makongo and Maluango are described as having to marry specified princesses.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: princess marriage partner
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Each princess is identified by her place association and as the required
+    spouse of a named figure.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: origin-tradition people
+  assigned_to:
+  - fig:5
+  basis: The passage says a legend throws light on Bavili thoughts regarding their
+    origin.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: SONIO as Fatherhood-associated place
+  literal_form: SONIO
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Ngoio as Motherhood-associated place
+  literal_form: Ngoio
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: BUKOIO/Luango as offspring or birth-giving power
+  literal_form: BUKOIO, sacred name for Luango
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Fatherhood and Motherhood pair
+  literal_form: Fatherhood and Motherhood
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Parallel required marriages
+  summary: Makongo's required marriage to a princess of SONIO is presented as parallel
+    to Maluango's required marriage to a princess of Ngoio.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Symbolic geography of parenthood and birth
+  summary: Sonio and Ngoio are associated with Fatherhood and Motherhood, while BUKOIO/Luango
+    is associated with offspring or birth-giving power.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Introduction of Bavili origin legend
+  summary: The passage states that a legend follows, intended to illuminate Bavili
+    ideas about their origin.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: required marriage alliance with princess of a named place
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage repeats a requirement that each named male figure marry a princess
+    associated with a named polity or place.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage does not explicitly describe a deity, ritual union, or sacred
+    marriage; the taxonomy reference is only a tentative fit because the chapter context
+    and place names are sacredly framed.
+- id: motif:2
+  label: father-mother-offspring symbolic triad
+  taxonomy_refs:
+  - duality
+  - sacred_birth
+  basis: Sonio and Ngoio are interpreted as Fatherhood and Motherhood, while BUKOIO/Luango
+    is interpreted as offspring or birth-giving power.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives symbolic interpretation rather than narrating an actual
+    birth episode; the motif is therefore a structural pattern rather than a fully
+    developed mythic event.
+- id: motif:3
+  label: origin legend introduced through sacred place symbolism
+  taxonomy_refs: []
+  basis: The passage connects symbolic readings of place names with a forthcoming
+    legend about Bavili origin.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The actual legend is not included in the supplied passage, so its narrative
+    content cannot be extracted here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6337-6338
+  quote_or_summary: '"Makongo had to marry a princess of SONIO" and "Maluango had
+    to marry a princess of Ngoio."'
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 6340-6341
+  quote_or_summary: The passage says Sonio and Ngoio represented Fatherhood and Motherhood
+    for the natives.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6341-6343
+  quote_or_summary: The passage identifies BUKOIO as the sacred name for Luango and
+    says it represents offspring as an effect or birth-giving power as a cause.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6345-6346
+  quote_or_summary: The passage introduces a legend said to throw light on Bavili
+    thoughts regarding their origin.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif assignment is tentative
+    because the supplied passage introduces symbolic interpretation and a following
+    legend without giving the legend itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied line range was used. No claims are made about the content of the legend that follows outside this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-back-of-the-black-mans-mind-dennett-archive__l6335-l6346
+  passage_sha256=e34fb3be10a7d180a47d87d6694a731351a8dd797ba37b988bdce18451600d8a
+

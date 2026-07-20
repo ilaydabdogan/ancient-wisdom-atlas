@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l21357-l21475
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: VII. SARGON II (722-705 B. C.)1 / VIII. SENNACHERIB (704-682) / ESARHADDON
+    / X. NEBUCHADREZZAR (604-562 B. C.); lines 21357-21475
+  start: '21357'
+  end: '21475'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives publication notes, a Nebuchadrezzar building inscription
+    about strengthening Babylon and Esagila, a prayer to Marduk for enduring kingship
+    and victory, a fragment of a western campaign, and a quotation from Berossos about
+    Nabopolassar sending the young Nebuchadrezzar against a rebel satrap.
+  language: English translation with Akkadian transliteration and a Greek quotation
+    in the source
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nebuchadrezzar is identified as king of Babylon, provider of Esagila and Ezida,
+    and son of Nabopolassar.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nebuchadrezzar says he strengthened the fortifications of Esagila and Babylon
+    and made a name for his reign.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The inscription describes a city wall or protecting wall whose head is raised
+    mountain-high and whose foundation is laid on or near the abyss/water.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Marduk is addressed as lord of the gods, divine creator, deliverer, and help
+    of the speaker.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The speaker asks Marduk for pious deeds, long life, abundant posterity, a
+    secure throne, and a long reign.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker asks that, through Marduk's faithful unchanging word, his weapons
+    advance, be dreadful, and crush the arms of the foe.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A campaign fragment mentions mountain paths, a way of death, arms, and a march
+    toward the Hittite country.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The campaign fragment says Nebuchadnezzar summoned troops and marched to the
+    Hittite country in thirteen days.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The campaign fragment says the heads of people inhabiting Ammanu were beaten
+    off and hung upon poles.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Berossos is quoted as saying that Nabopolassar committed forces to his young
+    son Nebuchadrezzar and sent him against a rebel satrap.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Nebuchadrezzar / Nebuchadnezzar
+  description: King of Babylon, son of Nabopolassar, speaker in the building inscription,
+    builder and military commander in the cited campaign and Berossos passage.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Marduk
+  description: Lord of the gods, divine creator, deliverer, and help invoked by the
+    king.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Nabopolassar
+  description: Father of Nebuchadrezzar; in Berossos, he hears of a revolt and entrusts
+    forces to his son.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:4
+  name_or_label: the foe
+  description: Enemy whose arms the king asks Marduk to let his weapons crush.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: inhabitants of Ammanu
+  description: People inhabiting Ammanu whose heads are said to be beaten off and
+    hung upon poles in the campaign fragment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: rebel satrap
+  description: Satrap set over Egypt, Coele-Syria, and Phoenicia who is said by Berossos
+    to have revolted from Nabopolassar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: royal builder
+  assigned_to:
+  - fig:1
+  basis: Nebuchadrezzar identifies himself as king and describes strengthening Babylon
+    and Esagila with walls and foundations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: divine patron and creator
+  assigned_to:
+  - fig:2
+  basis: Marduk is addressed as lord of the gods, divine creator, deliverer, and help.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: father and commissioning king
+  assigned_to:
+  - fig:3
+  basis: Nabopolassar is named as Nebuchadrezzar's father and is said to have committed
+    forces to him against a rebel.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: military commander
+  assigned_to:
+  - fig:1
+  basis: The campaign fragment and Berossos account describe Nebuchadnezzar summoning
+    or receiving troops and marching or being sent against enemies.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:5
+  label: opponent or rebel
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The prayer mentions a foe, and Berossos mentions a satrap who revolted.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:6
+  label: defeated population
+  assigned_to:
+  - fig:5
+  basis: The campaign fragment describes the inhabitants of Ammanu as victims of decapitation
+    and display on poles.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: protecting city wall
+  literal_form: City wall, great protecting wall, and fortifications of Babylon and
+    Esagila.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mountain-high wall
+  literal_form: The wall's head is raised “mountain high.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: abyss or water foundation
+  literal_form: Foundation laid upon the bosom of the abyss and associated with reaching
+    water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: royal weapons
+  literal_form: Weapons that are asked to advance, become dreadful, and crush the
+    arms of the foe.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: heads on poles
+  literal_form: Heads of inhabitants of Ammanu hung upon poles.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: mountain paths and way of death
+  literal_form: Fragmentary campaign setting described as paths of the mountain and
+    a way of death.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fortification of Babylon and Esagila
+  summary: Nebuchadrezzar presents himself as Babylonian king and describes strengthening
+    sacred and city fortifications with walls and deep foundations.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Prayer to Marduk for reign and victory
+  summary: The king addresses Marduk as divine creator and helper, asks for enduring
+    pious deeds, posterity, secure throne, long reign, and victory over foes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Western campaign fragment
+  summary: A fragment describes mountain routes, a march toward the Hittite country,
+    and violent treatment of inhabitants of Ammanu.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Berossos on Nabopolassar's delegation to Nebuchadrezzar
+  summary: Berossos says Nabopolassar, unable to endure the campaign himself, entrusts
+    forces to his young son Nebuchadrezzar and sends him against a rebel satrap.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: divinely supported royal legitimacy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king links his reign to Marduk, asks for a secure throne and long reign,
+    and says he made an everlasting name for his kingship through fortification works.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is royal inscriptional and historiographic material, not a
+    mythic narrative; the motif is inferred from explicit royal and divine language.
+- id: motif:2
+  label: sacred city protected by monumental walls
+  taxonomy_refs: []
+  basis: Nebuchadrezzar describes strengthening the fortifications of Esagila and
+    Babylon and constructing a protecting wall with deep foundations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy family directly matches fortified sacred-city construction;
+    this is recorded as a passage-level motif candidate only.
+- id: motif:3
+  label: mountain-like monumental construction
+  taxonomy_refs: []
+  basis: The wall is described as raised mountain-high, and the campaign fragment
+    also refers to mountain paths.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: low
+  cautions: The evidence supports mountain imagery, but not a full cosmic-mountain
+    motif.
+- id: motif:4
+  label: divine empowerment of royal weapons
+  taxonomy_refs: []
+  basis: The king asks that Marduk's unchanging word cause his weapons to advance,
+    be dreadful, and crush the foe.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage frames victory through divine aid but does not explicitly
+    call the warfare divine judgment.
+- id: motif:5
+  label: punitive display of defeated enemies
+  taxonomy_refs: []
+  basis: The campaign fragment describes decapitated heads of inhabitants of Ammanu
+    being hung on poles.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The fragment is damaged and preserves only a brief account; broader ritual
+    or symbolic context is not supplied.
+- id: motif:6
+  label: royal son commissioned against rebellion
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Berossos reports that Nabopolassar entrusts forces to his young son Nebuchadrezzar
+    and sends him against a rebel satrap.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage supports dynastic military commissioning, but the larger legitimating
+    function depends on context outside the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21357-21475, Nebuchadrezzar building inscription, Column I (1)-(5)
+  quote_or_summary: Nebuchadrezzar is named as king of Babylon, provider of Esagila
+    and Ezida, and son of Nabopolassar.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:2
+  type: summary
+  locator: lines 21357-21475, building inscription, Column I (6)-(30) and translated
+    Column II (1)-(8)
+  quote_or_summary: The king describes work on Babylon's walls, reaching water or
+    the abyss, laying foundations, and raising the wall's head mountain-high.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:3
+  type: quote
+  locator: lines 21357-21475, translated Column II (9)-(12)
+  quote_or_summary: "“The fortifications of Esagila and of Babylon I strengthened
+    and made an everlasting name for my reign.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:4
+  type: summary
+  locator: lines 21357-21475, translated Column II (13)-(23)
+  quote_or_summary: The speaker addresses Marduk as lord of the gods and divine creator,
+    asks that his deeds be pious and endure, and asks for life, posterity, a secure
+    throne, and a long reign.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:5
+  type: summary
+  locator: lines 21357-21475, translated Column II (24)-(32)
+  quote_or_summary: The speaker calls Marduk his deliverer and help and asks that,
+    by Marduk's faithful unchanging word, his weapons advance, become dreadful, and
+    crush the foe's arms.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:6
+  type: summary
+  locator: lines 21357-21475, section 5, Western Campaign, lines/fragments 2-8
+  quote_or_summary: The fragment mentions paths of the mountain, a way of death, arms,
+    Nebuchadnezzar summoning troops, and marching to the Hittite country in thirteen
+    days.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:7
+  type: summary
+  locator: lines 21357-21475, section 5, Western Campaign, lines/fragments 7-10
+  quote_or_summary: Of the people inhabiting Ammanu, the fragment says their heads
+    were beaten off and hung upon poles.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:8
+  type: summary
+  locator: lines 21357-21475, section 6, Berossos on the Neo-Babylonian Period
+  quote_or_summary: Berossos is quoted as saying that Nabopolassar heard of a satrap's
+    revolt in Egypt, Coele-Syria, and Phoenicia, committed forces to his young son
+    Nebuchadrezzar, and sent him against the rebel.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; source metadata permits full-text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by fragmentary and mixed-language material. No comparison
+    claims were added because the passage itself does not support a specific cross-tradition
+    comparison beyond bibliographic context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Literal observations distinguish building inscription, prayer, campaign fragment, and Berossos quotation. Taxonomy references are used only where the passage directly supports them.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l21357-l21475
+  passage_sha256=e574679d067a919da46db65ec8a2cac8ca420b7da2bfa0a2bf7bb8770ab1dd92
+

@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.georgian-georgian-folk-tales-wardrop-gutenberg-l65-l91
+source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+passage_locator:
+  label: Georgian Folk Tales / GEORGIAN FOLK TALES / MARJORY WARDROP; lines 65-91
+  start: '65'
+  end: '91'
+  translation: Georgian Folk Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Title-page and epigraph material for Georgian Folk Tales: the passage
+    names the collection, translator, publisher, and date, and includes a quotation
+    arguing that popular stories and local superstitions help one understand a people.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as Georgian Folk Tales.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage names Marjory Wardrop as translator.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the book was published by David Nutt in London in
+    1894.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The epigraph speaker says that one who wants to know a people well should
+    not reject popular stories or local superstitions.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The epigraph refers to nursery tales shared by the Hajee and the speaker.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The epigraph is attributed to Sir John Malcolm's Sketches of Persia, chapter
+    xvi.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Marjory Wardrop
+  description: Named as the translator of Georgian Folk Tales.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: David Nutt
+  description: Named as the publisher.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Epigraph speaker
+  description: The first-person speaker in the quoted epigraph.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Good friend
+  description: The addressee addressed by the epigraph speaker.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: The Hajee
+  description: A person mentioned as having entertained the speaker with nursery tales.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Sir John Malcolm
+  description: Named in the attribution to Sketches of Persia.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: translator
+  assigned_to:
+  - fig:1
+  basis: The title page states that Georgian Folk Tales was translated by Marjory
+    Wardrop.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: publisher
+  assigned_to:
+  - fig:2
+  basis: The title page states that the work was published by David Nutt.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: epigraph speaker
+  assigned_to:
+  - fig:3
+  basis: The quoted epigraph uses a first-person speaker addressing a friend.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: epigraph addressee
+  assigned_to:
+  - fig:4
+  basis: The speaker directly addresses a 'good friend'.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: storytelling companion mentioned in epigraph
+  assigned_to:
+  - fig:5
+  basis: The Hajee is mentioned as entertaining the speaker with nursery tales.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: attributed source author
+  assigned_to:
+  - fig:6
+  basis: The epigraph is attributed to Sir John Malcolm's Sketches of Persia.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Title-page information
+  summary: The passage presents the title, translator, publisher, place, and year
+    of publication.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Epigraph on popular stories
+  summary: A quoted speaker tells a friend that popular stories and local superstitions
+    should not be rejected by those who wish to understand a people.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 65-67
+  quote_or_summary: '"GEORGIAN FOLK TALES"'
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 69-73
+  quote_or_summary: '"Translated by / MARJORY WARDROP"'
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 75-78
+  quote_or_summary: The title page states that the book was published by David Nutt
+    in the Strand, London, in 1894.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 80-87
+  quote_or_summary: In the epigraph, a speaker addresses a good friend and says that
+    popular stories and local superstitions should not be rejected by one who wants
+    to know a people well.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 80-82
+  quote_or_summary: The speaker refers to nursery tales with which the Hajee and the
+    speaker had been entertaining each other.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: line 91
+  quote_or_summary: '"Sir John Malcolm''s Sketches of Persia, ch. xvi."'
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is paratextual title-page and epigraph material rather than a
+    narrative myth or tale; no candidate motifs, symbols, or comparison claims are
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the supplied passage contains no concrete mythic narrative episode or supported symbolic object from the available taxonomy.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:georgian-georgian-folk-tales-wardrop-gutenberg__l65-l91
+  passage_sha256=7a063aa02b4cd95f662245dedd1ac0a35396689e256f6173aee699ff08135e1b
+

@@ -1,0 +1,212 @@
+---
+record_id: batch.motif.buddhist-buddhism-in-translations-warren-archive-l25719-l25791
+source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+passage_locator:
+  label: HARVARD  ORIENTAL  SERIES / LIST  OF  THE  HARVARD  ORIENTAL  SERIES / REVISED  TO  DECEMBER,  1920
+    / HARVARD  ORIENTAL  SERIES  3; lines 25719-25791
+  start: '25719'
+  end: '25791'
+  translation: Buddhism in Translations (Harvard Oriental Series, Vol. 3)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a Harvard Oriental Series catalog section. It describes
+    several volumes, including a Prakrit court-intrigue play said to have parallels
+    with Plautus, the Brhad-Devata as a summary of Rig-Vedic deities and myths that
+    includes the story of a nymph named Urvagl who loved a mortal, Whitney's Atharva-Veda
+    edition and commentary, and The Little Clay Cart, a Hindu drama attributed to
+    King Shudraka.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes a play of court-intrigue written entirely in Prakrit
+    and says it has parallels with the Braggart Soldier of Plautus.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Brhad-Devata is described as a summary of the deities and myths of the
+    Rig-Veda.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Brhad-Devata is said to include the story of Urvagl, described as a nymph
+    who loved a mortal.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage links the Urvagl story with Kalidasa's drama Urvaci.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Atharva-Veda entry emphasizes critical materials, variant readings, manuscripts,
+    living reciters, corresponding Vedic passages, and ritual and exegetical literature.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Little Clay Cart is identified as a Hindu drama attributed to King Shudraka.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Urvagl
+  description: A named nymph in a story included in the Brhad-Devata; she is described
+    as loving a mortal.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed mortal
+  description: A mortal loved by the nymph Urvagl in the story alluded to by the catalog
+    entry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: nymph
+  assigned_to:
+  - fig:1
+  basis: The passage calls Urvagl a nymph.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: lover of a mortal
+  assigned_to:
+  - fig:1
+  basis: The passage says the nymph loved a mortal.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: mortal beloved
+  assigned_to:
+  - fig:2
+  basis: The mortal is the person loved by the nymph in the catalog's brief story
+    reference.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Nymph loves a mortal
+  summary: The catalog alludes to a story in which Urvagl, a nymph, loved an unnamed
+    mortal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: nymph loves mortal
+  taxonomy_refs:
+  - divine_beloved
+  basis: The passage explicitly identifies a story about a nymph who loved a mortal.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a catalog note and gives only a brief allusion; it does
+    not narrate the episode or specify divine status beyond the word nymph.
+- id: motif:2
+  label: court-intrigue drama with Plautine parallels
+  taxonomy_refs: []
+  basis: The catalog describes a Prakrit play of court-intrigue and says it presents
+    parallels with the Braggart Soldier of Plautus.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The specific parallels are not identified, so this remains a broad literary-pattern
+    candidate rather than a defined mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports unspecified parallels between the Prakrit court-intrigue
+    play and Plautus's Braggart Soldier.
+  claim_level: same_motif
+  target: Braggart Soldier of Plautus
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives no details about the nature of the parallels, so
+    the comparison cannot be specified beyond the catalog's assertion.
+- id: claim:2
+  claim: The passage connects the Urvagl story in the Brhad-Devata with Kalidasa's
+    drama Urvaci, indicating a later literary treatment of the same named story or
+    figure.
+  claim_level: historical_contact
+  target: Kalidasa's drama Urvaci
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the source relation is mentioned; the catalog does not summarize
+    Kalidasa's version or compare narrative details.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 25724-25725
+  quote_or_summary: '"A play of court-intrigue... presents interesting parallels with
+    the Braggart Soldier of Plautus."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain; passage supplied with full-text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 25727-25732
+  quote_or_summary: The entry for Volumes 5 and 6 identifies the Brhad-Devata as a
+    summary of the deities and myths of the Rig-Veda, edited and translated by Arthur
+    Anthony Macdonell.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain; passage supplied with full-text use allowed.
+- id: ev:3
+  type: quote
+  locator: lines 25734-25737
+  quote_or_summary: '"the story of Urvagl, the nymph that loved a mortal (whence Kalidasa''s
+    great drama, Urvaci)."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain; passage supplied with full-text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 25748-25767
+  quote_or_summary: The Atharva-Veda entry describes text-critical notes, readings
+    from authorities including manuscripts and living reciters, corresponding Vedic
+    passages, data from the scholiast, ancillary ritual and exegetical literature,
+    and a literal translation.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain; passage supplied with full-text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 25774-25779
+  quote_or_summary: The entry identifies The Little Clay Cart as a Hindu drama attributed
+    to King Shudraka and translated by Arthur William Ryder.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain; passage supplied with full-text use allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a publication catalog rather than a narrative text. Motif
+    extraction is therefore limited to brief allusions, especially the nymph-and-mortal
+    story and the stated literary parallel with Plautus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Names and spellings are retained as supplied in the passage. The passage appears to be an appended Harvard Oriental Series catalog section rather than a Buddhist canonical passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-buddhism-in-translations-warren-archive__l25719-l25791
+  passage_sha256=62c354d0e92409b2ad6a14f288da59a24d483bd5589aa8856e916ee7fc8b3624
+

@@ -1,0 +1,453 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l5702-l5784
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE FORTIETH CHAPTER / THE FORTY-FIRST CHAPTER / THE FORTY-SECOND CHAPTER
+    / THE FORTY-THIRD CHAPTER; lines 5702-5784
+  start: '5702'
+  end: '5784'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“The shadow of the Asse.”"
+  summary: A gardener traveling with the ass is confronted by an arrogant soldier,
+    resists the soldier's attempted seizure of the ass, beats him, and flees to a
+    friend's house. The friend hides the gardener in a chest and the ass upstairs.
+    Soldiers later search the house under a false accusation. The ass looks out of
+    a window, its shadow is seen, and both the ass and the hidden gardener are discovered.
+    The episode is said to give rise to the proverb concerning the ass's shadow.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A soldier meets the gardener and the ass on the road and demands the use of
+    the ass to carry military baggage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gardener says he does not understand the soldier's first Latin words and
+    answers only after being struck.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The soldier attempts to take the ass by the halter and threatens the gardener
+    with a staff.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gardener falls at the soldier's feet as if begging, then seizes the soldier's
+    legs, throws him down, beats him, removes his javelin, and rides away on the ass.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A friend hides the gardener in a chest and brings the ass up into an upper
+    chamber.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The soldier's companions accuse the gardener before magistrates of withholding
+    a silver goblet belonging to their captain.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Magistrates order a search of the house, but the searchers initially find
+    neither gardener nor ass.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The ass looks out of the window because of curiosity about the noise outside.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A soldier sees the ass's shadow, leading the searchers to find the ass and
+    then the gardener hidden in the chest.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: The gardener is taken to the justices and immediately committed to prison.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The passage states that the discovery by shadow produced the common proverb,
+    “The shadow of the Asse.”
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Apuleius / the ass-narrator
+  description: The narrator is the ass being led, ridden, hidden upstairs, and discovered
+    when a soldier sees its shadow.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the gardener / master of the ass
+  description: The ass's master, called a gardener, resists the soldier, flees with
+    the ass, hides in a chest, and is later imprisoned.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: the tall soldier
+  description: A proud soldier who demands the ass, strikes the gardener, is beaten,
+    later reports the matter to companions, and contributes to the search.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: the gardener's friend / host
+  description: A friend who receives the gardener and ass, hides them, and refuses
+    to admit that the gardener is in the house.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: soldiers and magistrates
+  description: The soldier's companions and civic officers who pursue the accusation,
+    search the house, and bring the gardener to justice.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: narrating ass
+  assigned_to:
+  - fig:1
+  basis: The narrative voice refers to being taken by the halter, carried upstairs,
+    looking out the window, and being found by its shadow.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: unwitting revealer
+  assigned_to:
+  - fig:1
+  basis: The ass's curiosity causes it to put its head out of the window, and its
+    shadow reveals its presence.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: fugitive master
+  assigned_to:
+  - fig:2
+  basis: After beating the soldier, the gardener flees to a friend's house and asks
+    to be hidden.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: accused prisoner
+  assigned_to:
+  - fig:2
+  basis: The gardener is accused through the goblet claim, discovered in the chest,
+    brought to the justices, and imprisoned.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: coercive soldier
+  assigned_to:
+  - fig:3
+  basis: The soldier strikes the gardener and tries to seize the ass for the captain's
+    baggage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: injured pursuer
+  assigned_to:
+  - fig:3
+  basis: After being beaten and losing the javelin, the soldier tells companions what
+    happened and they search for the gardener.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: protective host
+  assigned_to:
+  - fig:4
+  basis: The friend hides the gardener and ass and denies knowing the gardener's whereabouts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: searching authorities
+  assigned_to:
+  - fig:5
+  basis: The magistrates and searchers investigate the soldiers' accusation and search
+    the house.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: shadow
+  literal_form: The ass's shadow seen from outside after the ass puts its head out
+    of a window.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: chest hiding place
+  literal_form: A closed chest in which the gardener hides.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: javelin or spear
+  literal_form: The soldier's javelin, which the gardener throws away and takes before
+    fleeing; its loss exposes the soldier to blame.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: silver goblet accusation
+  literal_form: A silver goblet of the captain, alleged by the soldiers to have been
+    found and withheld by the gardener.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: window
+  literal_form: The window from which the ass looks out before its shadow is noticed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Roadside confrontation with the soldier
+  summary: A soldier demands the ass for baggage, strikes the gardener, and tries
+    to take the ass by force.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gardener overcomes the soldier and flees
+  summary: The gardener feigns supplication, throws the soldier down, beats him, removes
+    the javelin, mounts the ass, and rides to a village.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Concealment in the friend's house
+  summary: The host hides the ass in an upper chamber and the gardener in a chest,
+    promising protection.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: False complaint and house search
+  summary: The soldiers report a silver goblet accusation to magistrates, who threaten
+    the host and order a search of the house.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Discovery by the ass's shadow
+  summary: The ass looks out the window, a soldier sees its shadow, the ass is brought
+    down, and the hidden gardener is found in the chest and imprisoned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: hidden fugitive exposed by an involuntary sign
+  taxonomy_refs: []
+  basis: The gardener and ass are hidden, but the ass's visible shadow reveals their
+    presence and leads to the gardener's discovery.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The motif is local to this episode; no broader cross-cultural comparison
+    is asserted by the passage.
+- id: motif:2
+  label: animal's curiosity betrays concealment
+  taxonomy_refs: []
+  basis: The ass's curiosity about the noise causes it to look out the window, after
+    which its shadow is seen by a soldier.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage treats the act comically, but the extraction does not infer
+    intentional betrayal.
+- id: motif:3
+  label: false accusation used to authorize a search
+  taxonomy_refs: []
+  basis: The soldiers tell magistrates that a silver goblet of their captain was lost
+    and that the gardener found and withheld it, prompting an official search.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage implies the complaint functions as a pretext, but does not
+    provide an explicit legal analysis.
+- id: motif:4
+  label: proverb arising from comic discovery
+  taxonomy_refs: []
+  basis: After the ass is found by its shadow, the passage states that the common
+    proverb “The shadow of the Asse” arose from the incident.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The historical existence or origin of the proverb is not verified beyond
+    the passage's own claim.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents the event as the origin or explanation of a common
+    proverb about the ass's shadow.
+  claim_level: same_function
+  target: 'proverbial explanation pattern: an incident explains a saying'
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to a proverb-origin pattern only; the
+    passage does not compare itself to another named text or tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5702-5717
+  quote_or_summary: A tall soldier meets the travelers, speaks Latin to the gardener,
+    strikes him when he is silent, and asks where he is going with the ass.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 5718-5731
+  quote_or_summary: The soldier says he needs the ass to carry his captain's baggage,
+    takes the ass by the halter, and threatens the gardener despite the gardener's
+    plea that the ass is too weak.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 5732-5747
+  quote_or_summary: The gardener falls at the soldier's feet, then trips him, beats
+    him, removes the soldier's javelin, mounts the ass, and rides quickly to the next
+    village.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5748-5758
+  quote_or_summary: A friend receives the gardener, takes the ass upstairs into a
+    chamber, and the gardener hides in a chest with the cover fastened.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 5759-5771
+  quote_or_summary: The soldier's companions conceal him and then tell magistrates
+    that a gardener is hiding after withholding a silver goblet belonging to their
+    captain; magistrates command the host to surrender him and order a search.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 5772-5778
+  quote_or_summary: "“I that was very curious to know the matter ... put my head out
+    of the window ... It fortuned that one of the souldiers perceived my shadow.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 5779-5784
+  quote_or_summary: "“they found him couched in a chest ... committed immediately
+    to prison ... a common Proverbe: ‘The shadow of the Asse.’”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are descriptive and local
+    because the passage itself provides no named comparative parallels beyond the
+    proverb-origin statement.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned because the passage does not clearly invoke the supplied motif-family or symbol taxonomy items.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l5702-l5784
+  passage_sha256=97545f61a5763c89c44452a7728179e184827edc23a72288025a3a4b17754477
+

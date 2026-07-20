@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l1666-l1691
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: CRADLE SONG / THE WIND IS HOWLING THROUGH THE WINTER NIGHT / THE CHRAGAN
+    PALACE / THE DREAM; lines 1666-1691
+  start: '1666'
+  end: '1691'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The poem describes a speaker dreaming that his mother is near. In the dream
+    a clear streamlet shines like pearls, the mother’s mournful singing recalls childhood
+    and kisses, and she embraces the speaker while weeping; the speaker laments that
+    it was only a dream.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A soft, low voice is perceived near the speaker, and the speaker says his
+    mother seemed near.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A ray of joy flashes before the speaker, followed by the statement that it
+    was a dream.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A murmuring streamlet flows and scatters radiant pearls; it is described as
+    pure and clear like crystal.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mother’s mournful singing takes the speaker back to childhood and brings
+    her kisses to mind.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The mother presses the speaker to her heart, wipes her wet eyes, and her tears
+    fall on the speaker.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker repeatedly identifies the experience as a dream that passes away.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person speaker who experiences the dream and laments its passing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: mother
+  description: The speaker’s mother seems near in the dream, sings mournfully, is
+    remembered giving kisses, embraces the speaker, and weeps.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: dreaming first-person speaker
+  assigned_to:
+  - fig:1
+  basis: The voice, mother, streamlet, childhood recollection, embrace, and tears
+    are all presented through the speaker’s dream experience.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: remembered mother in dream
+  assigned_to:
+  - fig:2
+  basis: The mother appears or seems near within the dream and is associated with
+    singing, kisses, embrace, and tears.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: dream
+  literal_form: The repeated statement that the events were a dream.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: water imagery
+  literal_form: Murmuring streamlet, wet eyes, and falling tears.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: maternal tears
+  literal_form: The mother’s wet eyes and tears falling on the speaker.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: childhood memory
+  literal_form: The mother’s singing recalls childhood and kisses.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: dream opening with mother near
+  summary: The speaker hears or senses a soft low voice, feels the mother near, experiences
+    joy, and states that it was a dream.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: streamlet within the dream
+  summary: A clear murmuring streamlet appears, scattering radiant pearls, before
+    the speaker again notes that it was a dream.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: mother’s song recalls childhood
+  summary: The mother’s mournful singing returns the speaker’s mind to childhood and
+    to remembered kisses; the dream passes away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: maternal embrace and tears
+  summary: The mother embraces the speaker, wipes her eyes, and her tears fall on
+    the speaker; the speaker asks why it had to be a dream.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dream encounter with mother
+  taxonomy_refs: []
+  basis: The speaker experiences the mother as near in a dream and later describes
+    her singing, embrace, and tears within that dream.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state whether the mother is living, absent, or dead;
+    extraction should remain at the level of dream encounter.
+- id: motif:2
+  label: maternal song recalling childhood
+  taxonomy_refs: []
+  basis: The mother’s mournful singing explicitly takes the speaker back to childhood
+    and recalls her kisses.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a lyric memory pattern rather than a clearly indexed mythological
+    motif in the supplied taxonomy.
+- id: motif:3
+  label: tears and water in a dream of longing
+  taxonomy_refs: []
+  basis: The dream includes a clear streamlet and later the mother’s wet eyes and
+    falling tears.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage supports water imagery and tears, but not a specific comparative
+    mythological function beyond the lyric dream context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1666-1691, title and stanza 1
+  quote_or_summary: "“Soft and low a voice breathed o’er me, / Near me did my mother
+    seem; ... / But, alas, it was a dream!”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1666-1691, stanza 2
+  quote_or_summary: "“There the murmuring streamlet flowing / Scattered radiant pearls
+    around, / Pure and clear, like crystal glowing—”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1666-1691, stanza 3
+  quote_or_summary: "“And my mother’s mournful singing / Took me back to childhood’s
+    day, / To my mind her kisses bringing—”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1666-1691, stanza 4
+  quote_or_summary: "“To her heart she pressed me yearning, / Wiped her eyes which
+    wet did seem; / And her tears fell on me burning—”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are conservative
+    because the passage is a lyric dream poem and does not provide explicit mythological
+    framing or comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another text, tradition, or motif family beyond its internal dream and maternal-memory pattern.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l1666-l1691
+  passage_sha256=441c5dde8f394909aa4cfd45a697e11336b87b7abd7867c7ef988ba6687b5c2d
+

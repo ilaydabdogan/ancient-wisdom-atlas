@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l12386-l12413
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: THE  GREEDY  SPIDER  265 / THE   LAZY   MAN  267 / THE  LAZY  FROG  269 /
+    THE  SNAKE  AND  THE  SCORPION.; lines 12386-12413
+  start: '12386'
+  end: '12413'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A scorpion asks a snake for poison strong enough to kill a man immediately.
+    The snake refuses at first, saying the scorpion is too hot-tempered and would
+    kill everybody, but tells her to return the next day. The next day the scorpion
+    enters the snake's hut and lies by the door while the snake is out. When the snake
+    returns, he squashes the scorpion while entering, and she stings him. The snake
+    wriggles in pain and asks what has happened; the scorpion says it was her sting.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The scorpion asks the snake for poison that would make a man die immediately
+    if stung.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The snake refuses because he says the scorpion is very hot-tempered and would
+    kill everybody.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The scorpion says she would use the poison only now and then.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The snake tells the scorpion to return the next day and says he will give
+    it to her then.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The next day, while the snake is out, the scorpion enters his hut and lies
+    on one side of the door.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the snake comes in through the door, he squashes the scorpion.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When hurt, the scorpion stings the snake.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The snake wriggles in and out of the hut because of the pain.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The scorpion tells the snake that what hurt him was her sting.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Scorpion
+  description: A scorpion who seeks deadly poison, waits inside the snake's hut, is
+    squashed, and stings the snake.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Snake
+  description: A snake who is asked for poison, withholds it because of the scorpion's
+    temper, later enters his hut and is stung after squashing the scorpion.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Man
+  description: A generic human target named in the scorpion's request for poison that
+    could kill if she stung him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Requester of lethal poison
+  assigned_to:
+  - fig:1
+  basis: The scorpion asks for poison that would kill a man immediately if she stung
+    him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Withholder of dangerous poison
+  assigned_to:
+  - fig:2
+  basis: The snake says he will not give the poison because the scorpion is hot-tempered
+    and would kill everybody.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Accidental crusher
+  assigned_to:
+  - fig:2
+  basis: The snake squashes the scorpion while getting through the door.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Stinger
+  assigned_to:
+  - fig:1
+  basis: The scorpion stings the snake after being hurt.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: Sufferer from sting-pain
+  assigned_to:
+  - fig:2
+  basis: The snake wriggles in and out of the hut and says something has hurt him.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Potential human victim
+  assigned_to:
+  - fig:3
+  basis: The man appears as the proposed victim of the poison the scorpion requests.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Serpent
+  literal_form: Snake
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Poison
+  literal_form: Poison requested by the scorpion, strong enough to kill a man immediately
+    if she stung him.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Sting
+  literal_form: The scorpion's sting that hurts the snake.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Hut doorway
+  literal_form: The door area of the snake's hut where the scorpion lies and is squashed
+    as the snake enters.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Scorpion asks Snake for poison
+  summary: The scorpion asks the snake for poison that would kill a man immediately.
+    The snake refuses because of the scorpion's hot temper, though he tells her to
+    return the next day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Scorpion waits in Snake's hut
+  summary: The next day the snake goes out, and the scorpion enters his hut and lies
+    beside the door.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Snake crushes Scorpion and is stung
+  summary: The snake returns and squashes the scorpion while entering the hut. The
+    hurt scorpion stings him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Snake suffers and Scorpion identifies the sting
+  summary: The snake wriggles in pain and says something in the hut hurt him. The
+    scorpion says it was her sting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Animal requests deadly poison
+  taxonomy_refs: []
+  basis: The scorpion asks the snake for poison that would make a man die immediately
+    if stung.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The supplied passage does not include any wider explanation beyond the
+    immediate request.
+- id: motif:2
+  label: Dangerous power withheld from a hot-tempered being
+  taxonomy_refs: []
+  basis: The snake refuses to give the poison because he says the scorpion is hot-tempered
+    and would kill everybody.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The snake later tells her to return, so the refusal is not final within
+    the supplied passage.
+- id: motif:3
+  label: Accidental injury followed by retaliatory sting
+  taxonomy_refs: []
+  basis: The snake unintentionally squashes the scorpion while entering the hut, and
+    the scorpion stings him when hurt.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is truncated at the end, so any final consequence beyond the
+    sting is not available.
+- id: motif:4
+  label: Serpent associated with poison
+  taxonomy_refs:
+  - serpent
+  basis: The snake is treated as the one from whom the scorpion seeks deadly poison.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage shows the snake as a possible source or controller of poison,
+    but does not explicitly state how the snake acquired it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12386-12390
+  quote_or_summary: The passage opens with the scorpion asking the snake for poison
+    strong enough that a man would die at once if she stung him.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 12390-12398
+  quote_or_summary: The snake says he will not give it because the scorpion is hot-tempered
+    and would kill everybody; the scorpion denies this, and the snake tells her to
+    return the next day.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 12399-12406
+  quote_or_summary: The snake goes out; the scorpion enters his hut and lies beside
+    the door. When the snake returns and enters, he squashes her, and she stings him.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 12407-12413
+  quote_or_summary: The snake wriggles in and out of the hut in pain. In dialogue,
+    he says something in the hut hurt him, and the scorpion says it was her sting.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied passage, which ends mid-word during
+    the scorpion's final speech. No comparison claims were added because the passage
+    itself does not supply an explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Literal observations are separated from motif candidates; comparison claims are left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l12386-l12413
+  passage_sha256=d9fbe9fd19475d44e7d4f3bb93451359ed75163d4d65086dbf822143507085ff
+

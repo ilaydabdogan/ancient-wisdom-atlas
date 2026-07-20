@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.roman-lucretius-nature-of-things-leonard-gutenberg-l1779-l1863
+source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+passage_locator:
+  label: THE INFINITY OF THE UNIVERSE / BOOK II / PROEM / ATOMIC MOTIONS; lines 1779-1863
+  start: '1779'
+  end: '1863'
+  translation: On the Nature of Things
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: The atoms must a little swerve at times--
+  summary: The speaker argues that bodies do not rise by their own force, using flames,
+    plants, blood, and water-thrown timber as examples. He then says celestial fire
+    and heat can move downward. In the void, atoms fall straight down but must swerve
+    slightly at indeterminate times and places; otherwise there would be no collisions
+    and Nature would create nothing. He rejects the idea that heavier atoms overtake
+    lighter ones in the void, because empty void offers no resistance and all weights
+    fall equally fast.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker announces a proof that no corporeal thing can be borne upward
+    by its own force.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Flames, grains, and trees are described as growing or moving upward while
+    the weight within them bears downward.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Fire leaping upward, blood spurting upward, and water forcing timber and beams
+    upward are presented as effects of pressure or force, not self-directed ascent.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Meteors, stars, the sun's heat, lightning, and flaming power are described
+    as moving or tending downward toward earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Atoms are described as being borne by their own weight plumb downward through
+    the void.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Atoms are said to decline a little from their course at scarcely determined
+    times and places; without this swerve there would be no collisions or creation.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker rejects the claim that heavier bodies overtake lighter bodies
+    in the void, stating that empty void offers no resistance and unequal weights
+    fall with equal speed.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The swerve is described as minimal, and the speaker says sense perception
+    cannot prove that nothing ever deviates from a straight path.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: didactic speaker
+  description: A first-person speaker who proposes to prove the doctrine and instruct
+    the addressee.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: addressed listener
+  description: The unnamed addressee addressed as thee or thou and invited to observe
+    examples.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Nature
+  description: Nature is named as giving a path to meteors, creating things, and transacting
+    her work.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: instructor in natural philosophy
+  assigned_to:
+  - fig:1
+  basis: The speaker announces a proof, corrects deceptive appearances, and argues
+    from examples about bodies, void, and atoms.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: addressed learner-observer
+  assigned_to:
+  - fig:2
+  basis: The addressee is asked not to be deceived and to observe phenomena such as
+    water, meteors, and the limits of sense perception.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: personified natural agency
+  assigned_to:
+  - fig:3
+  basis: Nature is grammatically treated as an actor who gives thoroughfares, creates,
+    and transacts work.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire and flame
+  literal_form: Flames, fires, meteors as midnight flambeaus, the sun's heat, lightning,
+    and flaming power.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: water
+  literal_form: Water that disgorges and flings submerged timber and beams upward.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tree and plant growth
+  literal_form: Shining grains and trees growing upward while their internal weight
+    bears downward.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: void or inane
+  literal_form: Empty void, unbottomed void, and still inane through which atoms fall.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: examples against self-caused upward motion
+  summary: The speaker argues that rising flames, growing plants, spurting blood,
+    and water-thrown timber do not prove that bodies naturally rise by their own force.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: celestial and atmospheric fire moving downward
+  summary: Meteors, falling stars, the sun's heat, and lightning are presented as
+    fiery phenomena that move or tend downward toward earth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: atomic swerve enabling creation
+  summary: Atoms fall through the void but slightly swerve; the swerve allows collisions
+    among primal elements, without which Nature would create nothing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: equal fall in the void and minimal deviation
+  summary: The speaker denies that heavier bodies overtake lighter ones in the void,
+    explains that the void offers no resistance, and limits the atomic swerve to the
+    smallest deviation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: didactic unveiling of natural law
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker instructs an addressee, warns against deceptive appearances,
+    appeals to true reason, and explains hidden causes behind visible motions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The wisdom classification is broad; the passage is philosophical argument
+    rather than a narrative myth.
+- id: motif:2
+  label: cosmogonic swerve and collision
+  taxonomy_refs: []
+  basis: The passage says atoms must swerve slightly so that collisions and blows
+    occur among primal elements; otherwise Nature would never have created anything.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No exact supplied taxonomy family matches this atomist creation pattern;
+    it is not deity-centered cosmogony.
+- id: motif:3
+  label: apparent ascent under hidden force
+  taxonomy_refs:
+  - ascent
+  basis: Flames, plants, blood, and water-thrown timber are described as moving upward,
+    while the speaker explains the ascent as caused by external pressure or conditions
+    rather than inherent upward motion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The ascent is a physical exemplum, not a sacred journey, apotheosis, or
+    spiritual ascent.
+- id: motif:4
+  label: descent of celestial fire and heat
+  taxonomy_refs: []
+  basis: The passage gathers meteors, falling stars, sun heat, and lightning as fiery
+    or luminous phenomena that move downward toward earth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe divine fire theft, punishment, or world-destroying
+    fire.
+comparison_claims:
+- id: claim:1
+  claim: The atom-swerve episode can be compared at a functional level to a cosmogonic
+    generation pattern in which a small departure from uniform primordial motion enables
+    contact and the production of things.
+  claim_level: same_function
+  target: creation-through-deviation-or-collision pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage presents atomist physics in philosophical poetry and names
+    no external mythic tradition; the comparison is functional only, not historical
+    contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1779-1786
+  quote_or_summary: The speaker proposes to prove that no corporeal thing rises by
+    its own force; flames, grains, and trees grow upward while their internal weight
+    tends downward.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 1787-1805
+  quote_or_summary: Fire leaping upward is explained as urged from beneath; blood
+    jets upward; water forces submerged timber and beams back upward.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 1806-1818
+  quote_or_summary: Meteors draw trails of flame; stars and constellations are said
+    to drop; the sun sheds heat and light downward; lightning and flaming power fall
+    to earth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 1819-1832
+  quote_or_summary: Atoms fall plumb through the void but slightly decline from their
+    course at indeterminate times and places; without this swerve there would be no
+    collisions and Nature would create nothing.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 1833-1854
+  quote_or_summary: The speaker rejects the idea that heavier bodies overtake lighter
+    ones in the void; unlike water or air, empty void offers no resistance, so unequal
+    weights rush downward with equal speed.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 1855-1863
+  quote_or_summary: The swerve is said to be only the least deviation, not an observable
+    oblique motion; sense perception cannot prove that nothing ever swerves from a
+    straight line.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is strong because the passage is explicit. Motif and comparison
+    confidence is lower because the passage is atomist philosophical poetry rather
+    than a mythic narrative, and the supplied taxonomy contains no exact atomist cosmogony
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical contact, common inheritance, or nearby-corpus comparison is asserted.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-lucretius-nature-of-things-leonard-gutenberg__l1779-l1863
+  passage_sha256=66572cb773e7320e2e9eaa268532cc5da3dc5b431b46a5e683d6474a89088782
+

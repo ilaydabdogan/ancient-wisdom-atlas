@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l11483-l11501
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: AN NIGHINN AGUS AN DUINE MARBH. 223 / AN NIGHINN AGUS AN DUINE MARBH. 225
+    / THE KING WHO WISHED TO MARRY HIS DAUGHTER. 227 / THE KING WHO WISHED TO MARRY
+    HIS DAUGHTER. 229; lines 11483-11501
+  start: '11483'
+  end: '11501'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In this passage, a shoe cannot be made to fit anyone sought for the king's
+    son. His mother asks in the kitchen to see the shoe. A low-status woman is mocked,
+    but when the shoe is set down it jumps onto her foot. She asks what will be given
+    to see the other shoe, goes to the herd's house, puts on the shoes and a gold-and-silver
+    dress, returns, and marries the king's son after a minister is summoned.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king's son cannot find anyone whom the shoe will fit.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The king's son's mother goes to the kitchen and asks to see the shoe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A woman in the kitchen is addressed contemptuously as an ugly and dirty person,
+    with doubt that the shoe could fit her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king's son says it is known that the shoe will not fit her, and tells
+    his mother she may give it to her to please her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: As soon as the shoe is put on the floor, it jumps onto the woman's foot.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The woman asks what she will be given to let them see the other shoe.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The woman goes to the herd's house and puts on the shoes and a dress described
+    as standing on the floor with gold and silver.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After she returns, word is sent for a minister, and she and the king's son
+    marry.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: king's son
+  description: A royal son who seeks the person whom the shoe fits and later marries
+    the woman.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: mother of the king's son
+  description: She goes to the kitchen, asks to see the shoe, and relays the matter
+    to her son.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: woman under the cook / later bride
+  description: A low-status woman associated with the kitchen; the shoe jumps onto
+    her foot, she produces the other shoe and a gold-and-silver dress, and she marries
+    the king's son.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: minister
+  description: A minister is summoned before the woman and the king's son marry.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: royal bridegroom
+  assigned_to:
+  - fig:1
+  basis: He is called the king's son and marries the woman at the end of the passage.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: intermediary requester
+  assigned_to:
+  - fig:2
+  basis: She asks to see the shoe in the kitchen and communicates with her son about
+    giving it to the woman.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: hidden shoe-wearer
+  assigned_to:
+  - fig:3
+  basis: Though dismissed as unlikely, she is the person onto whose foot the shoe
+    jumps.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: revealed bride
+  assigned_to:
+  - fig:3
+  basis: She puts on the matching shoes and rich dress, returns, and marries the king's
+    son.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: summoned marriage minister
+  assigned_to:
+  - fig:4
+  basis: Word is sent for a minister immediately before the marriage.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: recognition shoe
+  literal_form: A shoe that will not fit others and jumps onto the woman's foot.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: paired shoes
+  literal_form: The other shoe and the pair of shoes worn by the woman after she goes
+    to the herd's house.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: gold-and-silver dress
+  literal_form: A dress described as able to stand on the floor with gold and silver.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: shoe search reaches the kitchen
+  summary: After the shoe fits no one, the king's son's mother goes to the kitchen
+    and asks to see it; the low-status woman there is mocked as an impossible wearer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: shoe jumps onto the woman's foot
+  summary: The king's son permits the shoe to be given to the woman, and when it is
+    set on the floor it jumps onto her foot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: other shoe and rich dress revealed
+  summary: The woman asks what will be given to see the other shoe, goes to the herd's
+    house, and puts on the shoes and the gold-and-silver dress.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: marriage to the king's son
+  summary: When she returns, a minister is summoned and she marries the king's son.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: recognition by fitting shoe
+  taxonomy_refs: []
+  basis: The shoe fits no one else, but it jumps onto the foot of the previously dismissed
+    woman.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not provide an external taxonomy identifier for this
+    motif.
+- id: motif:2
+  label: hidden low-status bride revealed by clothing and footwear
+  taxonomy_refs: []
+  basis: The woman is treated as an ugly, dirty kitchen figure, but is revealed through
+    the shoe, matching shoes, and gold-and-silver dress before marrying the prince.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage excerpt does not give the woman's prior history or full transformation
+    context.
+- id: motif:3
+  label: royal marriage after recognition test
+  taxonomy_refs: []
+  basis: The successful shoe recognition is followed by summoning a minister and marriage
+    between the woman and the king's son.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy list includes royal and sacred categories, but
+    the passage only supports a literal royal marriage, not a broader sacred or legitimacy
+    claim.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 11483-11501
+  quote_or_summary: Passage from "THE KING WHO WISHED TO MARRY HIS DAUGHTER. 229."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source.
+- id: ev:2
+  type: summary
+  locator: lines 11485-11491
+  quote_or_summary: The shoe fits none of those tried; the king's son's mother goes
+    to the kitchen and asks to see it, while the woman there is mocked as unfit for
+    it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 11491-11495
+  quote_or_summary: '"As soon as the shoe went on the floor, the shoe jumped on her
+    foot."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 11495-11499
+  quote_or_summary: The woman asks what she will receive to show the other shoe, reaches
+    the herd's house, and puts on the shoes and a gold-and-silver dress.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 11499-11501
+  quote_or_summary: '"she herself and the king''s son married."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are clear
+    at the passage level but are not assigned to supplied taxonomy families because
+    the available taxonomy does not include a specific recognition-by-shoe category.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy entries from the supplied list apply directly to the shoe, dress, kitchen, or herd's house in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l11483-l11501
+  passage_sha256=20c33e3c7a9b33d8ae3aa50ff23fd7bae461c95e3f606053ecc4384ef7eef2a5
+

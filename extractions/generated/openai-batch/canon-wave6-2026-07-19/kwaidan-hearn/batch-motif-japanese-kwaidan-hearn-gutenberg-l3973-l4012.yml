@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.japanese-kwaidan-hearn-gutenberg-l3973-l4012
+source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+passage_locator:
+  label: THE STORY OF O-TEI / DIPLOMACY / OF A MIRROR AND A BELL / JIKININKI; lines
+    3973-4012
+  start: '3973'
+  end: '4012'
+  translation: 'Kwaidan: Stories and Studies of Strange Things'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of explanatory notes for several Kwaidan sections.
+    It defines a wealthy person's spacious house and grounds, a Buddhist service for
+    the dead, place/time/monetary references for “Of a Mirror and a Bell,” and notes
+    on “Jikininki,” including its gloss as a man-eating goblin, its relation to Sanskrit
+    Râkshasa terminology, its classification among pretas or hungry spirits, the Ségaki
+    service for such beings, and a five-part funeral monument symbolizing five mystic
+    elements.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note under “DIPLOMACY” defines a spacious house and grounds as belonging
+    to a wealthy person.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note under “DIPLOMACY” identifies a Buddhist service for the dead.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Notes under “OF A MIRROR AND A BELL” identify a present-day Shizuoka Prefecture
+    location, a two-hour period between 1 AM and 3 AM, and a monetary unit.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: "“Jikininki” is glossed literally as a man-eating goblin."
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Japanese narrator gives the Sanskrit term “Râkshasa,” while the note says
+    this term is vague because there are many kinds of Râkshasas.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says that, in this context, “jikininki” apparently signifies one
+    of the Baramon-Rasetsu-Gaki, the twenty-sixth class of pretas in old Buddhist
+    books.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A Ségaki-service is described as a special Buddhist service performed for
+    beings in the condition of gaki, or pretas, also called hungry spirits.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A five-circle stone is described as a funeral monument made of five superimposed
+    parts, each with a different form, symbolizing Ether, Air, Fire, Water, and Earth.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jikininki
+  description: A being glossed literally as a man-eating goblin and, in this context,
+    apparently identified with a class of pretas.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Râkshasa
+  description: A Sanskrit term supplied by the Japanese narrator; the note says the
+    term is vague because there are many kinds of Râkshasas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Gaki / pretas / hungry spirits
+  description: Beings in a hungry-spirit condition for whom a Ségaki-service may be
+    performed.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: the dead
+  description: Dead persons referenced as recipients of a Buddhist service and in
+    the context of a funeral monument.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:5
+  name_or_label: wealthy person
+  description: A wealthy person associated with a spacious house and grounds in a
+    glossary note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: man-eating goblin
+  assigned_to:
+  - fig:1
+  basis: The note glosses jikininki literally as a man-eating goblin.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: preta or hungry-spirit class
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The note links jikininki with Baramon-Rasetsu-Gaki, a class of pretas, and
+    describes gaki/pretas as hungry spirits.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: Sanskrit comparative term or class
+  assigned_to:
+  - fig:2
+  basis: The narrator gives “Râkshasa” as a Sanskrit term, though the note warns it
+    is vague.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of Ségaki-service
+  assigned_to:
+  - fig:3
+  basis: The Ségaki-service is performed on behalf of beings in the condition of gaki
+    or pretas.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: dead recipient or funerary referent
+  assigned_to:
+  - fig:4
+  basis: The passage mentions a Buddhist service for the dead and a funeral monument.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:6
+  label: wealthy estate holder
+  assigned_to:
+  - fig:5
+  basis: The note defines the spacious house and grounds as those of a wealthy person.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: spacious house and grounds
+  literal_form: The spacious house and grounds of a wealthy person.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mirror
+  literal_form: Mirror named in the title “OF A MIRROR AND A BELL.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bell
+  literal_form: Bell named in the title “OF A MIRROR AND A BELL.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: five-circle stone
+  literal_form: A five-part funeral monument with superimposed forms.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: fire element
+  literal_form: Fire, one of the five mystic elements symbolized by the funeral monument.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: water element
+  literal_form: Water, one of the five mystic elements symbolized by the funeral monument.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: man-eating goblin as hungry spirit
+  taxonomy_refs: []
+  basis: The note glosses jikininki as a man-eating goblin and connects it with a
+    class of pretas or hungry spirits.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The line range is explanatory note material, not a narrative episode involving
+    the being.
+- id: motif:2
+  label: ritual service for dead or hungry spirits
+  taxonomy_refs: []
+  basis: The passage mentions a Buddhist service for the dead and describes Ségaki
+    as a service performed for gaki/pretas or hungry spirits.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage defines the rite but does not narrate a performed ritual scene.
+- id: motif:3
+  label: funerary monument symbolizing five elements
+  taxonomy_refs: []
+  basis: The five-circle stone is described as a five-part funeral monument symbolizing
+    Ether, Air, Fire, Water, and Earth.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The symbolism is explicitly defined in a note; no further narrative function
+    is provided in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports that the Japanese narrator gives the Sanskrit term “Râkshasa”
+    for jikininki, but it cautions that this is a vague comparison because there are
+    many kinds of Râkshasas.
+  claim_level: linguistic_similarity
+  target: Sanskrit Râkshasa terminology
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: high
+  limitations: The passage itself rejects a precise equivalence by calling the term
+    vague.
+- id: claim:2
+  claim: The passage places jikininki, in this context, within a Buddhist hungry-spirit
+    or preta classification by identifying it with Baramon-Rasetsu-Gaki.
+  claim_level: same_motif
+  target: Buddhist preta / gaki hungry-spirit classification
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note uses cautious wording such as “apparently” and “here”; it
+    supports local classification, not a broad historical claim.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3973-4012; DIPLOMACY notes
+  quote_or_summary: "“The spacious house and grounds of a wealthy person is thus called.”
+    Also: “A Buddhist service for the dead.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 3973-4012; OF A MIRROR AND A BELL notes
+  quote_or_summary: The notes identify part of present-day Shizuoka Prefecture, the
+    two-hour period between 1 AM and 3 AM, and a monetary unit.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:3
+  type: quote
+  locator: lines 3973-4012; JIKININKI note [1]
+  quote_or_summary: "“Literally, a man-eating goblin. The Japanese narrator gives
+    also the Sanscrit term, ‘Râkshasa;’ but this word is quite as vague as _jikininki_,
+    since there are many kinds of Râkshasas.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:4
+  type: quote
+  locator: lines 3973-4012; JIKININKI note [1]
+  quote_or_summary: "“Apparently the word _jikininki_ signifies here one of the _Baramon-Rasetsu-Gaki_,—forming
+    the twenty-sixth class of pretas enumerated in the old Buddhist books.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:5
+  type: quote
+  locator: lines 3973-4012; JIKININKI note [2]
+  quote_or_summary: "“A _Ségaki_-service is a special Buddhist service performed on
+    behalf of beings supposed to have entered into the condition of _gaki_ (pretas),
+    or hungry spirits.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain per supplied metadata.
+- id: ev:6
+  type: quote
+  locator: lines 3973-4012; JIKININKI note [3]
+  quote_or_summary: "“A funeral monument consisting of five parts superimposed,—each
+    of a different form,—symbolizing the five mystic elements: Ether, Air, Fire, Water,
+    Earth.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain per supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly glossary and endnote material, so literal extraction
+    is strong, while motif assignment is limited to explicitly defined beings, rites,
+    and funerary symbolism rather than narrative action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes were extracted because the supplied lines consist of explanatory notes rather than an episode.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:japanese-kwaidan-hearn-gutenberg__l3973-l4012
+  passage_sha256=305f04add41462077d1de4c0e46350cf728638045bfe02bc130b7a000d47ab79
+

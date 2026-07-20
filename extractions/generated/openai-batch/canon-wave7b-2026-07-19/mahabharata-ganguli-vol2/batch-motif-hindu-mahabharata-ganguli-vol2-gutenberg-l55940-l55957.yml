@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l55940-l55957
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION CLXXII / SECTION CLXXIII / SECTION CLXXIV / SECTION CLXXV; lines
+    55940-55957
+  start: '55940'
+  end: '55957'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker gives an instruction about not approaching certain persons empty-handed,
+    declares that Karna will be slain, and then advances toward Karna while shooting
+    arrows. The narrator describes a fierce battle between a human warrior and a Rakshasa.
+    Dhritarashtra then asks Sanjaya to describe the nighttime encounter between Karna
+    and Ghatotkacha, including the Rakshasa's appearance, chariot, steeds, weapons,
+    standard, bow, armor, and headgear.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker states that one should never see a king, a Brahmana, or a woman
+    with empty hands.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker tells the addressee to live cheerfully until the time when he
+    slays Karna.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After speaking, he proceeds toward Karna while shooting hundreds of keen arrows
+    at Karna's head.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The battle is described as occurring between a human warrior and a Rakshasa,
+    and as fierce, terrible, and exceedingly wonderful.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Dhritarashtra asks how the dead-of-night battle occurred when Karna, son of
+    Vikartana, and the Rakshasa Ghatotkacha encountered each other.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Dhritarashtra asks Sanjaya to describe the Rakshasa's appearance, car, steeds,
+    weapons, car-standard, bow, armor, and headgear.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Karna
+  description: A human warrior, identified by Dhritarashtra as Vikartana's son, who
+    encounters the Rakshasa Ghatotkacha at dead of night.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ghatotkacha
+  description: A Rakshasa who encounters Karna at dead of night and whose aspect and
+    battle equipment are requested for description.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Dhritarashtra
+  description: The speaker who asks Sanjaya to narrate details of the night battle
+    between Karna and Ghatotkacha.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Sanjaya
+  description: The person addressed by Dhritarashtra as skilled in narration and asked
+    to describe the encounter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: human warrior combatant
+  assigned_to:
+  - fig:1
+  basis: Karna is the target of the advance and is described as the human warrior
+    in battle with the Rakshasa.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: Rakshasa combatant
+  assigned_to:
+  - fig:2
+  basis: Ghatotkacha is identified as the Rakshasa who encounters Karna in the night
+    battle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: questioner
+  assigned_to:
+  - fig:3
+  basis: Dhritarashtra asks how the battle took place and requests descriptive details.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: narrator addressed
+  assigned_to:
+  - fig:4
+  basis: Sanjaya is addressed as skilled in narration and asked to describe the battle
+    details.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: empty hands
+  literal_form: empty hands as a gesture of approaching someone without an offering
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: arrows
+  literal_form: hundreds of keen arrows shot at Karna's head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: night battle setting
+  literal_form: dead of night
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Rakshasa battle equipment
+  literal_form: car, steeds, weapons, car-standard, bow, armor, and headgear
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Advance toward Karna after a slaying declaration
+  summary: A speaker gives a maxim about not approaching certain persons empty-handed,
+    says Karna will be slain, and then advances toward Karna while shooting arrows
+    at him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Night encounter between Karna and Ghatotkacha requested for narration
+  summary: Dhritarashtra asks Sanjaya to narrate the dead-of-night encounter between
+    Karna and Ghatotkacha and to describe the Rakshasa's appearance and equipment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: approaching honored persons with offerings
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage states a rule that a king, Brahmana, or woman should not be seen
+    with empty hands, implying a required offering or gift when approaching them.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a maxim rather than narrating an actual exchange; the
+    taxonomy assignment is therefore interpretive and should be reviewed.
+- id: motif:2
+  label: night battle between human warrior and Rakshasa
+  taxonomy_refs: []
+  basis: The passage frames the encounter as a dead-of-night battle between Karna,
+    a human warrior, and Ghatotkacha, a Rakshasa.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this combat pattern.
+- id: motif:3
+  label: martial catalogue of a monstrous combatant's appearance and gear
+  taxonomy_refs: []
+  basis: Dhritarashtra requests a description of the Rakshasa's aspect, chariot, steeds,
+    weapons, standard, bow, armor, and headgear.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is presented as a request for description, not yet the full catalogue
+    itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 55940-55941
+  quote_or_summary: '"never see with empty hands a king, a Brahmana, or a woman"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; short excerpt from user-provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 55941-55942
+  quote_or_summary: '"Live cheerfully till that time when I slay Karna."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; short excerpt from user-provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 55942-55944
+  quote_or_summary: After saying these words, he proceeds toward Karna while shooting
+    hundreds of keen arrows upon Karna's head.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; summarized from user-provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 55944-55947
+  quote_or_summary: The battle between the human warrior and the Rakshasa is described
+    as fierce, terrible, and exceedingly wonderful.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; summarized from user-provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 55951-55954
+  quote_or_summary: Dhritarashtra asks how the battle took place at dead of night
+    when Karna, Vikartana's son, and the Rakshasa Ghatotkacha encountered each other.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; summarized from user-provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 55954-55957
+  quote_or_summary: Dhritarashtra asks Sanjaya to describe the Rakshasa's aspect,
+    car, steeds, weapons, car-standard, bow, armor, and headgear.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; summarized from user-provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The named figures and night-battle frame are clear. The identity of the speaker
+    before Section CLXXV is inferred from the immediately following identification
+    of the Rakshasa Ghatotkacha and should be human-reviewed. No comparison claims
+    are made because the passage itself does not compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external Mahabharata context was added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l55940-l55957
+  passage_sha256=5ab5ade1d2bc18094acbd2adaa8e55dad793ffb8e38d737b4c501e1d9b93a45b
+

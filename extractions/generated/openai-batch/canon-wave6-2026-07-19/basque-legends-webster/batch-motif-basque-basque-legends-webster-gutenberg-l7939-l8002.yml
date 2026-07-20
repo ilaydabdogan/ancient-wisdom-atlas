@@ -1,0 +1,503 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l7939-l8002
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: THE WHITE BLACKBIRD. / THE SISTER AND HER SEVEN BROTHERS. / VII.--RELIGIOUS
+    TALES. / JESUS CHRIST AND THE OLD SOLDIER.; lines 7939-8002
+  start: '7939'
+  end: '8002'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Jesus Christ, traveling with his disciples, receives the last coin of an
+    old discharged soldier. Offered either gold or Paradise, the soldier chooses a
+    sack of gold that can draw whatever he names into it. He uses it for food and
+    later traps and beats the devil. After death, Peter refuses him Paradise and sends
+    him to hell, but the devil refuses to admit him. He returns to Paradise, where
+    God orders Peter to admit him because he had been an enemy of the devil.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jesus Christ is traveling with his disciples to Jerusalem when he meets an
+    old man and asks him for alms.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man identifies himself as an old soldier who was dismissed from the
+    army with two sous; after already giving away one sou, he gives his last sou to
+    Jesus Christ.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Jesus Christ asks the old soldier whether he would prefer a sack of gold or
+    Paradise; St. Peter advises him to say Paradise, but the old soldier chooses the
+    sack of gold.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Jesus Christ gives the old soldier a sack of gold and a verbal command by
+    which desired things will enter the sack.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The old soldier uses the command to make a fine leg of mutton on an inn table
+    enter the sack, and the narrative says he obtained everything he wished for in
+    the same way.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When the devil comes to tempt the old soldier, the old soldier uses the command
+    and the devil enters the sack.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The old soldier takes the sack containing the devil to a blacksmith and pounds
+    it vigorously with a sledgehammer.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: After the old soldier dies and goes to Paradise, St. Peter refuses him entry
+    because he had chosen the sack of gold, and directs him to hell.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: At hell's door, the devil recognizes the old soldier and refuses to let him
+    enter, saying he will cause too much trouble and misfortune.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The old soldier returns to Paradise, and God commands St. Peter to let him
+    enter because he had been a foe to the devil.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Jesus Christ / our Lord
+  description: The divine figure traveling to Jerusalem, asking alms, offering the
+    choice between gold and Paradise, and giving the sack and command.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Disciples
+  description: Companions of Jesus Christ on the road to Jerusalem.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Old soldier / old man
+  description: An old discharged soldier who gives his last sou, chooses the sack
+    of gold, uses the sack, captures the devil, and seeks entry after death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: St. Peter
+  description: The figure who advises the old soldier to choose Paradise and later
+    acts at the gate of Paradise, first refusing and then admitting him when commanded
+    by God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:10
+- id: fig:5
+  name_or_label: Devil
+  description: The tempter who is trapped in the sack, beaten, and later refuses the
+    old soldier entry into hell.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:6
+  name_or_label: God
+  description: The authority who commands St. Peter to let the old soldier enter Paradise.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: divine alms-seeker and magical gift-giver
+  assigned_to:
+  - fig:1
+  basis: Jesus Christ asks alms, offers the choice, and gives the sack with its command.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: generous old soldier and user of the sack
+  assigned_to:
+  - fig:3
+  basis: The old soldier gives his last sou, chooses the sack, uses it to obtain food,
+    and captures the devil.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: advisor and Paradise gatekeeper
+  assigned_to:
+  - fig:4
+  basis: St. Peter advises the soldier to choose Paradise and later controls access
+    at Paradise until God commands admission.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:10
+- id: role:4
+  label: tempter and infernal refuser
+  assigned_to:
+  - fig:5
+  basis: The devil tempts the soldier, is trapped and beaten, and later refuses him
+    entry into hell.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: role:5
+  label: final admitting authority
+  assigned_to:
+  - fig:6
+  basis: God commands St. Peter to let the old soldier enter Paradise.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: traveling companions
+  assigned_to:
+  - fig:2
+  basis: The disciples accompany Jesus Christ on the journey to Jerusalem.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: last sou as alms
+  literal_form: The old soldier's remaining sou, given to Jesus Christ after he has
+    already given away the other sou.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: magic sack of gold
+  literal_form: A sack of gold that can draw wished-for things into itself when the
+    command is spoken.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: verbal command
+  literal_form: The formula beginning "Artchila murtchila" by which the named object
+    or being enters the sack.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: leg of mutton
+  literal_form: A fine leg of mutton seen on the table at an inn and made to enter
+    the sack.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: sledgehammer beating
+  literal_form: A sledgehammer used to pound the sack containing the devil at a blacksmith's.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Paradise
+  literal_form: The afterlife place where the old soldier seeks entry and where St.
+    Peter stands before admitting him by God's command.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: sym:7
+  label: gates of hell
+  literal_form: The gates or door of hell to which St. Peter directs the old soldier
+    and where the devil refuses him entry.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Alms and choice on the road to Jerusalem
+  summary: Jesus Christ, traveling with his disciples, asks alms of an old soldier;
+    the soldier gives his last sou and is offered a choice between a sack of gold
+    and Paradise, choosing the sack despite St. Peter's advice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Gift of the sack and first use at the inn
+  summary: Jesus Christ gives the old soldier the sack of gold and the command. The
+    old soldier then uses it to draw a leg of mutton from an inn table into the sack.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Capture and beating of the devil
+  summary: When the devil comes to tempt the old soldier, the old soldier commands
+    him into the sack, takes the sack to a blacksmith, and pounds it with a sledgehammer.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Refusal at Paradise and hell, then admission
+  summary: After death, the old soldier is refused Paradise by St. Peter and sent
+    to hell; the devil refuses him there, so he returns to Paradise, where God orders
+    St. Peter to admit him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: last alms rewarded by divine magical gift
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The old soldier gives his last sou to Jesus Christ and then receives the
+    offered sack of gold with a magical command.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents alms and reward-like gifting, but does not explicitly
+    state a formal exchange.
+- id: motif:2
+  label: magic container that compels named things into itself
+  taxonomy_refs: []
+  basis: The sack draws named things into itself when the verbal command is spoken,
+    including food and the devil.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly names a magic sack or magic container
+    motif.
+- id: motif:3
+  label: human traps and punishes the devil
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The old soldier uses the magical command to put the devil into the sack and
+    then beats the sack with a sledgehammer.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage does not label the soldier
+    a trickster.
+- id: motif:4
+  label: afterlife gate refusals leading to eventual Paradise entry
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: After death the old soldier is refused by St. Peter at Paradise, refused
+    by the devil at hell, and finally admitted to Paradise by God's command.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The afterlife movement is brief and gate-focused rather than a detailed
+    journey map.
+- id: motif:5
+  label: salvation because of enmity to the devil
+  taxonomy_refs:
+  - divine_judgment
+  basis: God orders the old soldier admitted to Paradise because he had been a foe
+    to the devil.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: This motif is stated in the final sentence, but the broader moral logic
+    remains compact.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7939-8002, opening
+  quote_or_summary: Jesus Christ, going with his disciples to Jerusalem, meets an
+    old man and asks alms of him.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 7939-8002, old soldier's reply
+  quote_or_summary: The old man says he is an old soldier discharged with only two
+    sous; he has already given one away and gives the remaining one to Jesus Christ.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 7939-8002, choice between gold and Paradise
+  quote_or_summary: Jesus Christ asks whether the old soldier prefers a sack of gold
+    or Paradise; St. Peter nudges him to choose Paradise, but the soldier chooses
+    the sack of gold.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: lines 7939-8002, gift of the sack
+  quote_or_summary: Jesus Christ gives the sack and says that when it is empty the
+    soldier need only say, "Artchila murtchila! go into my sack," and desired things
+    will enter it.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; short quotation used for verbal formula.
+- id: ev:5
+  type: summary
+  locator: lines 7939-8002, inn episode
+  quote_or_summary: At an inn, the hungry soldier commands a fine leg of mutton to
+    come into his sack, and it does so; the text adds that he obtained everything
+    he wished for similarly.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 7939-8002, temptation episode
+  quote_or_summary: When the devil comes to tempt the old soldier, the soldier opens
+    the sack, speaks the command, and the devil enters the sack.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 7939-8002, blacksmith episode
+  quote_or_summary: The soldier takes the sack with the devil in it to a blacksmith
+    and pounds it vigorously with a sledgehammer for a long time.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; concise summary.
+- id: ev:8
+  type: summary
+  locator: lines 7939-8002, Paradise refusal
+  quote_or_summary: After death the old soldier goes to Paradise; St. Peter refuses
+    him entry because he had chosen the sack of gold and directs him to hell.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; concise summary.
+- id: ev:9
+  type: summary
+  locator: lines 7939-8002, hell refusal
+  quote_or_summary: At hell's door the devil recognizes the soldier and tells the
+    others not to let him in, saying he will cause too much trouble and misfortune.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; concise summary.
+- id: ev:10
+  type: summary
+  locator: lines 7939-8002, final admission
+  quote_or_summary: The old soldier returns to Paradise, and God commands St. Peter
+    to let him enter because he had been a foe to the devil.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and figures are explicit. Motif taxonomy assignments
+    are cautious because the available taxonomy is broad and does not include specific
+    tale-type labels for magic sacks or tricking the devil. No comparison claims were
+    made because the passage itself provides no explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata; symbol taxonomy references are empty because none of the supplied symbol refs are literally present in the passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l7939-l8002
+  passage_sha256=4d69b58dacd8842c4e1fe43d9b8b3380105c3b315de26955f48e0afca22bfdd4
+

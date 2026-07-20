@@ -1,0 +1,169 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l264-l275
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1 / BOOK 1 / ADI PARVA
+    / TRANSLATOR'S PREFACE; lines 264-275
+  start: '264'
+  end: '275'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Lastly, I should name my literary chief and friend, Dr. Sambhu C. Mookherjee.
+  summary: The preface speaker acknowledges Dr. Sambhu C. Mookherjee for his interest,
+    encouragement, careful reading, marking of antiquarian passages, and praise, all
+    of which helped the speaker continue a difficult task. The passage is signed by
+    Kisari Mohan Ganguli at Calcutta.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker names Dr. Sambhu C. Mookherjee as his literary chief and friend.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dr. Mookherjee took a kind interest in the speaker's labours.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dr. Mookherjee repeatedly exhorted the speaker and inculcated patience.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dr. Mookherjee read every fasciculus as it came out and marked passages relating
+    to antiquarian interest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Dr. Mookherjee praised expressions that seemed especially happy to him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker says these forms of support stimulated him to continue a task
+    that sometimes seemed endless.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage is signed Kisari Mohan Ganguli and gives Calcutta as the place.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dr. Sambhu C. Mookherjee
+  description: Named as the speaker's literary chief and friend; he encouraged, read,
+    marked, and praised portions of the work.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Kisari Mohan Ganguli
+  description: The signatory of the passage and the first-person speaker describing
+    his labours and task.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: literary chief and friend
+  assigned_to:
+  - fig:1
+  basis: The speaker explicitly names Dr. Mookherjee as his literary chief and friend.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reader and encourager of the work
+  assigned_to:
+  - fig:1
+  basis: Dr. Mookherjee is described as exhorting patience, reading every fasciculus,
+    marking passages, and giving praise.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: first-person worker and signatory
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the speaker's labours and task and is signed Kisari
+    Mohan Ganguli.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Acknowledgment of Dr. Mookherjee's support
+  summary: The speaker thanks Dr. Mookherjee for encouragement, careful reading, marking
+    passages of antiquarian interest, and praise, saying that this support helped
+    him continue an arduous task.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 264-265
+  quote_or_summary: '"my literary chief and friend, Dr. Sambhu C. Mookherjee"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 265-270
+  quote_or_summary: Dr. Mookherjee took kind interest in the speaker's labours, repeatedly
+    exhorted patience, read every fasciculus, marked antiquarian passages, and praised
+    happy expressions.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 270-272
+  quote_or_summary: The speaker says this support stimulated him more than anything
+    else to continue a task that sometimes seemed endless.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 274-275
+  quote_or_summary: '"Kisari Mohan Ganguli"; "Calcutta"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a translator's preface acknowledgment rather than a mythic
+    narrative; no supported motif candidates or comparison claims are present in the
+    supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol refs were assigned because the passage contains acknowledgments and publication context, not mythological action or symbolic imagery.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l264-l275
+  passage_sha256=fbadb437584906ee0c6d22dbf9e48a1079e9eafb1cf620f1470131554efbbb83
+

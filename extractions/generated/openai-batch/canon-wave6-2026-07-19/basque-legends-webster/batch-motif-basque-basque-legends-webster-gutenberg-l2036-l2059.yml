@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l2036-l2059
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: THE GRATEFUL TARTARO AND THE HEREN-SUGE. / THE SEVEN-HEADED SERPENT. / THE
+    SERPENT IN THE WOOD. / III.--ANIMAL TALES.; lines 2036-2059
+  start: '2036'
+  end: '2059'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"This happened when animals and all things could talk."'
+  summary: The passage introduces Basque animal tales as non-allegorical stories in
+    which animals and even things can speak and may stand on a footing with human
+    beings. It notes variant forms of one tale in which a role is taken by a fox,
+    Basa-Jauna, or Tartaro, and mentions a fox-named hero in another related tale.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The section introduces two stories as examples of animal tales and distinguishes
+    them from allegories, fables, and satires.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage quotes a formula saying that the events happened when animals
+    and all things could talk.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Animals in these tales are described as being on a footing with human beings,
+    sharper-witted, and as happy and well off as humans.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says it can be difficult to determine whether the speaker is a
+    beast or a human being.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The latter part of the first story is reported to have many variations.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In named variants, the same represented figure is a fox in some versions,
+    Basa-Jauna in one version, and Tartaro in a Baigorry version.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the version being introduced, the fox talks and lisps like a little child.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Another tale is said to have a hero named Acherihargaix, glossed as 'the fox
+    difficult to be caught,' and the editor suspects that this hero was originally
+    an animal.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: animals and all things
+  description: A collective category of nonhuman beings or things said to have been
+    able to talk in the tale-world.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: human beings
+  description: Humans are used as the comparison point for animals, who are said to
+    be on their footing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: fox
+  description: An animal figure appearing in several variants; in the version introduced,
+    the fox speaks with a childlike lisp.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Basa-Jauna
+  description: A figure who represents the fox's role in one noted variant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Tartaro
+  description: A figure who represents the fox's role in a version from Baigorry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Acherihargaix
+  description: A hero in 'The Chandelier of St. Sauveur' whose name is glossed as
+    'the fox difficult to be caught.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: speaking nonhuman beings
+  assigned_to:
+  - fig:1
+  basis: The passage says animals and all things could talk.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: human-equivalent tale participants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Animals are described as being placed fully on a footing with human beings.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: variant narrative substitute
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage reports versions in which the figure is represented by Basa-Jauna,
+    Tartaro, or a fox.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: childlike-speaking fox
+  assigned_to:
+  - fig:3
+  basis: The introduced version heightens the fun by having the fox talk and lisp
+    like a little child.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: elusive fox-named hero
+  assigned_to:
+  - fig:6
+  basis: Acherihargaix is glossed as 'the fox difficult to be caught.'
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: talking animals and things
+  literal_form: animals and all things able to talk
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: fox
+  literal_form: fox
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Animal-tale world of speech
+  summary: The passage frames the animal tales as occurring in a time when animals
+    and all things could talk, with animals treated as close equals of human beings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Variant figures for the first story
+  summary: The passage notes that versions of the first story vary, with a fox, Basa-Jauna,
+    or Tartaro occupying a comparable place, while the present version gives the fox
+    childlike speech.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Fox-named hero in related tale
+  summary: The passage mentions Acherihargaix as a hero whose name means 'the fox
+    difficult to be caught' and suggests an animal origin for the figure.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Talking animals and talking things
+  taxonomy_refs: []
+  basis: The tale-world is introduced with the formula that animals and all things
+    could talk.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is an editorial introduction rather than the full tale narrative.
+- id: motif:2
+  label: Animals as human peers or rivals in intelligence
+  taxonomy_refs: []
+  basis: Animals are described as placed on a footing with humans and as sharper-witted.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a general description of the tale type, not a single plot event.
+- id: motif:3
+  label: Variant substitution of fox, wild lord, and ogre-like figure
+  taxonomy_refs: []
+  basis: The same part of the first story is said to vary between fox, Basa-Jauna,
+    and Tartaro representations.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not provide the actual episode, so the exact shared function
+    is not recoverable here.
+- id: motif:4
+  label: Elusive fox hero
+  taxonomy_refs: []
+  basis: A related hero is named Acherihargaix, glossed as 'the fox difficult to be
+    caught.'
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The editor only suspects the hero was originally an animal; the passage
+    gives no further plot details.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison among variants in which fox, Basa-Jauna,
+    and Tartaro occupy a comparable narrative position in the latter part of the first
+    story.
+  claim_level: same_function
+  target: Variants noted from M. Cerquand, Baigorry, and three other localities
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states the substitution but does not summarize the episode,
+    so the precise shared function cannot be fully described.
+- id: claim:2
+  claim: The passage tentatively links Acherihargaix to the animal-tale or fox-hero
+    pattern through the fox meaning of the name and the editor's suspicion of an original
+    animal identity.
+  claim_level: same_motif
+  target: Acherihargaix in 'The Chandelier of St. Sauveur'
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: The connection is explicitly presented as suspicion, and no full narrative
+    comparison is given.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2036-2039
+  quote_or_summary: The section begins 'III.--ANIMAL TALES' and says the two stories
+    are specimens of animal tales, not allegories, fables, or satires.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2040-2041
+  quote_or_summary: '"This happened when animals and all things could talk."'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 2042-2047
+  quote_or_summary: The editor says animals are placed fully on a footing with human
+    beings, are sharper-witted and as happy and well off, and that speakers may be
+    hard to distinguish as beast or human.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2048-2055
+  quote_or_summary: 'The passage reports many variations of the latter part of the
+    first story: in one Cerquand version the fox is represented by Basa-Jauna, in
+    a Baigorry version by Tartaro, and in three others by a fox; the present fox talks
+    and lisps like a child.'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2056-2059
+  quote_or_summary: The passage mentions Cerquand's 'The Chandelier of St. Sauveur,'
+    where the hero is Acherihargaix, glossed as 'the fox difficult to be caught,'
+    and the editor suspects he was originally an animal.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial introduction and variant note, not the full animal
+    tale. Literal extraction is strong, but motif and comparison claims are limited
+    by lack of plot detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No serpent motif was extracted despite the wider locator label, because the provided passage text only discusses the animal-tale introduction and fox-related variants.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l2036-l2059
+  passage_sha256=638e5722cd84965c2b2bfcf6d21599c0d99cbbc34496a82a69a6d32cbc829cb5
+

@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.hindu-ramayana-valmiki-griffith-gutenberg-l57165-l57178
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+passage_locator:
+  label: Canto CXXV. The Return. / Canto CXXVI. Bharat Consoled. / Canto CXXIX. The
+    Meeting With Bharat. / Canto CXXX. The Consecration.; lines 57165-57178
+  start: '57165'
+  end: '57178'
+  translation: The Rámáyan of Válmíki, translated into English verse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Unknown were want, disease, and crime
+  summary: Ráma gives rich treasures to every Vánar, and the honored chieftains depart
+    homeward. Under Ráma’s rule, Ayodhyá experiences ten thousand years of peace,
+    prosperity, fertility, health, and social order.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ráma gives rich treasures to every Vánar.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Vánar chieftains are honored and go homeward.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ayodhyá is described as blessed with ten thousand years of peace and rest
+    under Ráma’s rule.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says no widow mourned a murdered mate and no house was desolate.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the land knew no murrain, and flocks and herds increased.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The earth supplied fruits, no harvest failed, and no children died.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Want, disease, and crime are said to be unknown in this time.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ráma
+  description: Ruler who gives treasures to the Vánars and under whose rule Ayodhyá
+    has peace and prosperity.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Vánars
+  description: Recipients of Ráma’s treasures.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Vánar chieftains
+  description: Honored chieftains who depart homeward.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Gift-giving ruler
+  assigned_to:
+  - fig:1
+  basis: Ráma gives rich treasures to every Vánar.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Peace-bringing king
+  assigned_to:
+  - fig:1
+  basis: Ayodhyá is blessed with peace and rest under Ráma’s rule.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Rewarded allies or followers
+  assigned_to:
+  - fig:2
+  basis: Every Vánar receives rich treasures from Ráma.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Returning honored chieftains
+  assigned_to:
+  - fig:3
+  basis: The chieftains are content with their honors and turn homeward.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Rich treasures
+  literal_form: Treasures from the mine and wave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Ten thousand years of peace
+  literal_form: Ten thousand years
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Fruitful earth
+  literal_form: The earth supplying kindly fruits and unfailing harvests
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Increasing flocks and herds
+  literal_form: Flocks and herds that increased and grew
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Ráma rewards the Vánars
+  summary: Ráma gives treasures to every Vánar, and the honored chieftains depart
+    homeward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Peaceful rule in Ayodhyá
+  summary: Ayodhyá enjoys ten thousand years of peace under Ráma’s rule, with no social
+    desolation, plague among animals, harvest failure, child death, want, disease,
+    or crime.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Return and dispersal after completion of heroic action
+  taxonomy_refs:
+  - return
+  basis: The honored Vánar chieftains turn homeward after receiving gifts from Ráma.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage only gives the departure of the chieftains, not the full return
+    narrative.
+- id: motif:2
+  label: Royal peace and abundance under ideal rule
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Ayodhyá is peaceful, socially whole, fertile, healthy, and free of crime
+    under Ráma’s rule.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage praises the effects of rule but does not explicitly describe
+    a coronation within these lines.
+- id: motif:3
+  label: Rewarding allies with precious gifts
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Ráma gives rich treasures to every Vánar before the chieftains depart.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The exchange is stated as royal gift-giving; no reciprocal ritual exchange
+    is described in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 57165-57168
+  quote_or_summary: "“To every Vánar Ráma gave / Rich treasures from the mine and
+    wave. / And with their honours well content / Homeward their steps the chieftains
+    bent.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:2
+  type: quote
+  locator: lines 57169-57170
+  quote_or_summary: "“Ten thousand years Ayodhyá, blest / With Ráma’s rule, had peace
+    and rest,”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:3
+  type: quote
+  locator: lines 57171-57174
+  quote_or_summary: "“No widow mourned her murdered mate, / No house was ever desolate.
+    / The happy land no murrain knew, / The flocks and herds increased and grew.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:4
+  type: quote
+  locator: lines 57175-57178
+  quote_or_summary: "“The earth her kindly fruits supplied, / No harvest failed, no
+    children died. / Unknown were want, disease, and crime: / So calm, so happy was
+    the time.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate classifications
+    based only on the supplied passage and available taxonomy references. No comparison
+    claims were added because the passage does not itself support a specific cross-text
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-ramayana-valmiki-griffith-gutenberg__l57165-l57178
+  passage_sha256=6c349e3a2f9fa90a132bb05fd9aecd825817938c17cd999df2579b863ee5bab8
+

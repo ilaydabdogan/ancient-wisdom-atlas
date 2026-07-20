@@ -1,0 +1,394 @@
+---
+record_id: batch.motif.caucasian-folk-tales-dirr-menzies-archive-l4441-l4452
+source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+passage_locator:
+  label: BALAI AND BOTI 83 / BALAI AND BOTI 85 / THE VIRGIN QUEEN 87 / THE VIRGIN
+    QUEEN 89; lines 4441-4452
+  start: '4441'
+  end: '4452'
+  translation: Caucasian Folk-Tales
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An ill wife asks her husband for Arsuman's flesh. The husband kills his
+    son and gives the flesh to his wife to eat. The daughter later finds a little
+    finger in her soup, recognizes it as her brother's, wraps it in a napkin, and
+    carries it to a church, where it changes into a bird that flies to a draper.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The wife is ill and asks her husband for meat.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When asked what kind of meat she wants, the wife says she wants Arsuman's
+    flesh.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man takes his son, kills him, and gives him to his wife to eat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The daughter comes home hungry, and the mother directs her to soup in the
+    corner.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: While eating the soup, the daughter sees a little finger in it and identifies
+    it as her brother's little finger.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The daughter rolls the little finger in a napkin and carries it to the church.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: At the church, the little finger changes into a bird.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The bird flies away and first goes to a draper.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: wife / mother
+  description: An ill wife who asks for Arsuman's flesh and later directs her daughter
+    to soup.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: husband / man
+  description: The wife’s husband; he takes his son, kills him, and gives him to his
+    wife to eat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Arsuman / son / brother
+  description: The son killed by the man; the daughter's brother, whose little finger
+    is found in the soup.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: daughter / sister
+  description: The daughter comes home hungry, finds a little finger in her soup,
+    identifies it as her brother's, and carries it to the church.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: bird
+  description: A bird formed when the little finger changes at the church; it flies
+    away to a draper.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: draper
+  description: A draper whom the bird first goes to after flying away.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: requester of Arsuman's flesh
+  assigned_to:
+  - fig:1
+  basis: The wife asks for Arsuman's flesh as the meat she wants.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mother directing daughter to soup
+  assigned_to:
+  - fig:1
+  basis: The mother answers the hungry daughter and tells her to take soup from the
+    corner.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: killer and provider of the son as food
+  assigned_to:
+  - fig:2
+  basis: The man kills his son and gives him to his wife to eat.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: killed son and identified brother
+  assigned_to:
+  - fig:3
+  basis: Arsuman is requested as flesh, the man kills his son, and the daughter identifies
+    the finger as her brother's.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:5
+  label: discoverer and carrier of the little finger
+  assigned_to:
+  - fig:4
+  basis: The daughter finds the little finger in the soup, identifies it, wraps it,
+    and carries it to the church.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: transformed bird
+  assigned_to:
+  - fig:5
+  basis: The little finger changes into a bird, which then flies away.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: draper visited by the bird
+  assigned_to:
+  - fig:6
+  basis: The bird first goes to a draper.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: requested flesh
+  literal_form: Arsuman's flesh requested as meat
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: soup with body part
+  literal_form: soup in the corner containing a little finger
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: little finger
+  literal_form: the brother's little finger found in the soup
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: napkin wrapping
+  literal_form: napkin in which the daughter rolls the little finger
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: church
+  literal_form: church where the little finger changes into a bird
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: bird transformation
+  literal_form: bird formed from the little finger
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Wife requests Arsuman's flesh
+  summary: The ill wife asks her husband for meat and specifies Arsuman's flesh.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Son killed and served as food
+  summary: The man kills his son and gives him to his wife to eat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Daughter discovers the finger in soup
+  summary: The hungry daughter is told to eat soup, sees a little finger in it, and
+    identifies it as her brother's.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Finger carried to church and transformed
+  summary: The daughter wraps the little finger in a napkin and carries it to church,
+    where it changes into a bird that flies to a draper.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Sick wife requests a named child's flesh
+  taxonomy_refs: []
+  basis: The wife is ill and asks specifically for Arsuman's flesh as meat.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives no explanation for why she wants this flesh.
+- id: motif:2
+  label: Parent kills child for a cannibal meal
+  taxonomy_refs: []
+  basis: The man kills his son and gives him to his wife to eat.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No ritual or sacrificial context is stated in the passage.
+- id: motif:3
+  label: Body part discovered in prepared food
+  taxonomy_refs: []
+  basis: The daughter finds a little finger in her soup and identifies it as her brother's.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage identifies only the finger in the soup, not the full contents
+    of the meal.
+- id: motif:4
+  label: Body remnant transforms into a bird at a sacred place
+  taxonomy_refs:
+  - death_rebirth
+  basis: The daughter carries the little finger to the church, and there it changes
+    into a bird that flies away.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The transformation involves a little finger, not an explicitly restored
+    whole person; the death_rebirth taxonomy link is therefore cautious.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4441-4444
+  quote_or_summary: The wife is ill, asks for meat, and specifies that she wants Arsuman's
+    flesh.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4444-4445
+  quote_or_summary: The man takes his son, kills him, and gives him to his wife to
+    eat.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4445-4448
+  quote_or_summary: The daughter comes home hungry, and the mother tells her there
+    is soup in the corner for her to eat.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4448-4450
+  quote_or_summary: While eating, the daughter sees a little finger in the soup and
+    says it is her brother's little finger.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4450-4451
+  quote_or_summary: The daughter rolls the little finger in a napkin and carries it
+    to the church, where it changes into a bird.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: line 4452
+  quote_or_summary: The bird flies away and goes first to a draper.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied lines. Motif labels are candidate-level
+    and cautious, especially the death_rebirth taxonomy reference for the finger-to-bird
+    transformation. No comparison claims are made because the passage itself supplies
+    no explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage ends mid-sentence after the bird goes to a draper; no events beyond the supplied text are inferred.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:caucasian-folk-tales-dirr-menzies-archive__l4441-l4452
+  passage_sha256=f1782bb447250762a27a22cf5e514c82da6f85bebc7f7db289cfa933efca4f29
+

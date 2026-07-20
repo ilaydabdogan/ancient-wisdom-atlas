@@ -1,0 +1,445 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v3-grimm-stallybrass-archive-l3393-l3445
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+passage_locator:
+  label: SPECTEES. / SPECTEES. / VOL.  III. / SPECTRES.; lines 3393-3445
+  start: '3393'
+  end: '3445'
+  translation: Teutonic Mythology, Volume 3
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys names and beliefs about spectres and fiery apparitions,
+    especially Old Norse draugar and German popular beliefs about restless souls appearing
+    at night as wandering fires. These lights deceive travellers, perch on them, lead
+    them toward bogs or water, and are associated with forms such as a child with
+    a firebrand, a sick horse, or a bleating goat. The passage also lists regional
+    names for such fiery phenomena and notes related fiery lights on trees, ships’
+    masts, and warriors’ spears.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Old Norse draugar are described as surrounded or accompanied by grave-fires.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that, in German popular belief, souls without heavenly
+    peace roam at night in fiery shape on fields and meadows.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fiery beings are said to lure travellers who mistake them for village
+    lights.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fiery beings are described as approaching and retiring, perching on a
+    traveller’s back, flapping wings over him, and leading him into bogs by deceptive
+    tracks.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A pedestrian is said to be safe if he keeps one foot in the carriage-rut,
+    because the ignes fatui have power only on footpaths.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A cited Breton example describes the spirit as a child carrying and whirling
+    a firebrand like a flaming wheel.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The same cited spirit may appear as a sick horse and throw the firebrand at
+    a herdsman’s head.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The same cited spirit may appear as a bleating stray goat near a pond after
+    sundown, tempting a traveller into the water and then running off.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage lists names for the phenomenon, including err-light, burning-wisp
+    names, fiery man, and fuchtelmann.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Fiery exhalations are also said to settle on forest-tree tops, ships’ masts,
+    and warriors’ spears.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Old Norse draugar
+  description: Spectral dead beings described in the passage as associated with grave-fires.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Restless souls in fiery shape
+  description: Souls said not to have attained heavenly peace and to roam at night
+    in fiery form.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Traveller or pedestrian
+  description: A person who may mistake the fiery apparitions for village lights and
+    be led from the way, into bogs, or toward water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Spirit with firebrand
+  description: A cited spirit that appears as a child with a firebrand, as a sick
+    horse, or as a bleating stray goat.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Herdsman
+  description: A person who tries to lead the sick-horse manifestation into a stable
+    and is attacked with the firebrand.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: spectral dead
+  assigned_to:
+  - fig:1
+  basis: The draugar are discussed under spectres and associated with grave-fires.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wandering fiery apparition
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The passage describes restless souls in fiery shape and a spirit with a firebrand
+    or animal forms.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: deceptive guide
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The apparitions lure travellers out of the way, into bogs, or into water.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: human target of deception
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Travellers and a herdsman are described as being misled or attacked by the
+    apparitional forms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: shifting manifestation
+  assigned_to:
+  - fig:4
+  basis: The cited spirit appears successively as a child, a sick horse, and a stray
+    goat.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Grave-fire, fiery shape, firebrand, flaming wheel, fiery blade, and
+    fiery exhalation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: deceptive light
+  literal_form: Err-light or burning wisp mistaken for village lights.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: bog
+  literal_form: Bogs reached by deceptive devious tracks.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: carriage-rut
+  literal_form: A rut in which the pedestrian tries to keep one foot for safety.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: water
+  literal_form: Pond or water into which the goat-form spirit tempts the traveller.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: animal forms
+  literal_form: Sick horse and bleating stray goat.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Grave-fires around draugar
+  summary: Old Norse draugar are described as being associated with fires at burial
+    mounds or graves.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fiery souls misleading a traveller
+  summary: Restless souls in fiery shape roam at night, are mistaken for village lights,
+    and mislead travellers by moving about, perching on them, flapping wings, and
+    leading them into bogs.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Safety in the carriage-rut
+  summary: A pedestrian avoids the power of the ignes fatui by keeping one foot in
+    the carriage-rut, since the lights have power only on footpaths.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Firebrand spirit in changing forms
+  summary: A cited spirit appears as a child with a whirling firebrand, as a sick
+    horse that attacks a herdsman with the brand, and as a goat that tempts a traveller
+    into water.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Named fiery phenomena
+  summary: The passage lists regional names for err-lights and related fiery apparitions,
+    including fiery man and fuchtelmann, and notes fiery exhalations on trees, ships,
+    and spears.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: restless dead as wandering fire
+  taxonomy_refs: []
+  basis: The passage explicitly says souls without heavenly peace roam at night in
+    fiery shape and lure travellers.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage reports popular belief comparatively; it does not narrate
+    a single complete myth.
+- id: motif:2
+  label: deceptive supernatural light leading travellers astray
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fiery apparitions are described as err-lights that lure travellers off
+    the way, into bogs, or toward water.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is functional and cautious; the passage itself
+    does not use the term trickster.
+- id: motif:3
+  label: apparition changing between human and animal forms
+  taxonomy_refs:
+  - shapeshifter
+  basis: The cited spirit appears as a child, a sick horse, and a bleating goat.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents variants of appearance; it does not explicitly describe
+    a transformation event.
+- id: motif:4
+  label: protective road-rut against wandering fire
+  taxonomy_refs: []
+  basis: The pedestrian is protected by keeping one foot in the carriage-rut because
+    the lights have power only on footpaths.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a localized protective rule rather than a full narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage links German beliefs about wandering fiery souls with Old Norse
+    draugar associated with grave-fires as related examples of spectral dead connected
+    to fire.
+  claim_level: same_motif
+  target: Old Norse draugar and German fiery restless souls
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage juxtaposes the traditions but does not prove historical
+    transmission or a single origin.
+- id: claim:2
+  claim: The Breton firebrand spirit, German err-lights, and named fiery-men are presented
+    as comparable deceptive fiery apparitions that mislead humans.
+  claim_level: same_function
+  target: German err-light beliefs and the Barzasbreiz firebrand spirit
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited examples differ in form and setting; the passage supports
+    functional comparison, not identity of tradition.
+- id: claim:3
+  claim: The passage compares fiery exhalations on ships’ masts and warriors’ spears
+    with other named fiery phenomena as manifestations of similar luminous fire signs.
+  claim_level: visual_similarity
+  target: fiery exhalations on trees, ships’ masts, and spears
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on visual fiery appearance only; the passage
+    does not assign all examples the same mythic role.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3406-3409
+  quote_or_summary: Old Norse draugar are said to be described as begirt with fire,
+    with cited phrases about grave-fires burning or leaping up.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3410-3417
+  quote_or_summary: 'German popular belief is described: souls lacking heavenly peace
+    roam at night in fiery shape on fields and meadows, lure travellers who mistake
+    them for village lights, perch on their backs, flap wings, and lead them into
+    bogs by deceptive tracks.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3418-3420
+  quote_or_summary: A pedestrian keeps one foot in the carriage-rut for safety, because
+    ignes fatui have power only on footpaths.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 3421-3428
+  quote_or_summary: A cited Breton account describes a spirit as a child with a whirling
+    firebrand, then as a sick horse that throws the brand at a herdsman, and then
+    as a stray bleating goat by a pond that tempts a traveller into the water and
+    runs away.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 3429-3433
+  quote_or_summary: The phenomenon is said to have many names, including err-light,
+    burning-wisp names, fiery man, and fuchtelmann, with an explanation referring
+    to a fiery blade or jerking motion.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 3435-3445
+  quote_or_summary: Notes mention fiery exhalations playing about forest-tree tops,
+    settling on ships’ masts, and appearing on warriors’ spears, with ancient and
+    later references.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for fiery spectres, err-lights, deceptive travel,
+    and shifting apparitional forms. Motif and comparison labels are cautious because
+    the passage is a comparative antiquarian discussion rather than a single narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources used; taxonomy references limited to supplied options.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v3-grimm-stallybrass-archive__l3393-l3445
+  passage_sha256=6412598c3a33095f51b7858748f5c1018863dabf4131b810da7a41c714a0e25d
+

@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.georgian-georgian-folk-tales-wardrop-gutenberg-l5164-l5186
+source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+passage_locator:
+  label: THE QUEEN'S WHIM / THE FOOL'S GOOD FORTUNE / TWO LOSSES / THE STORY OF DERVISH;
+    lines 5164-5186
+  start: '5164'
+  end: '5186'
+  translation: Georgian Folk Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A hunter kills and skins a stag in the mountains, washes blood from his
+    hands at a stream, and returns to find the stag alive and fleeing. A wayfarer
+    explains that a nearby healing spring can cure beasts by bathing and directs the
+    hunter to seek a man called Dervish, who can tell more wonders. After a long search
+    the hunter finds Dervish, who begins another story.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hunter kills a stag in the mountains and begins to skin it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hunter hangs the stag skin on a bush and goes to a stream to wash blood
+    from his hands.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When the hunter returns, the stag that had been dead is alive and bounding
+    away.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hunter pursues the stag but cannot overtake it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A wayfarer says there is a nearby healing spring where beasts can be cured
+    by bathing, even when wounded unto death.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'The wayfarer tells the hunter to seek a man called Dervish and gives signs
+    for identifying him: smoking a pipe, with an ass and a she-ass bound before him.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After a long search, the hunter finds Dervish, who begins to tell him a story.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: hunter
+  description: A hunter who kills and skins the stag, loses sight of the revived animal,
+    receives directions, and searches for Dervish.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: stag
+  description: A stag killed and skinned by the hunter, then later found alive and
+    fleeing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: wayfarer
+  description: A traveler who hears the hunter’s account, explains the healing spring,
+    and directs him to Dervish.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Dervish
+  description: A man whom the hunter is instructed to find and who later begins telling
+    the hunter a story.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: hunter-seeker
+  assigned_to:
+  - fig:1
+  basis: He hunts the stag, follows the marvel, asks about it, and searches for Dervish.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: revived animal
+  assigned_to:
+  - fig:2
+  basis: The stag is killed and skinned, then is later found alive and moving away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: informant-guide
+  assigned_to:
+  - fig:3
+  basis: The wayfarer explains the healing spring and gives directions to Dervish.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: wonder-teller
+  assigned_to:
+  - fig:4
+  basis: The wayfarer says Dervish can tell the hunter further wonders, and Dervish
+    begins a story after being found.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: healing spring
+  literal_form: A nearby spring where beasts can be cured by bathing.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: stream for washing blood
+  literal_form: A stream where the hunter washes blood from his hands after skinning
+    the stag.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: removed stag skin
+  literal_form: The stag skin hung on a bush before the hunter goes to wash.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Killing, skinning, and washing
+  summary: In the mountains, the hunter kills a stag, begins skinning it, hangs the
+    skin on a bush, and washes blood from his hands at a stream.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Revived stag escapes
+  summary: The hunter returns and finds the formerly dead stag alive and bounding
+    away; he pursues it unsuccessfully.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Wayfarer explains the marvel
+  summary: A wayfarer says a nearby healing spring can cure beasts by bathing and
+    suggests that the stag probably bathed there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Directions to Dervish
+  summary: The wayfarer tells the hunter to seek Dervish, identifiable by a pipe,
+    an ass, and a she-ass; the hunter eventually finds him and hears the beginning
+    of another story.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Healing water restores a slain or mortally wounded animal
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The stag is killed and later alive; the wayfarer explains the event through
+    a nearby healing spring that cures beasts by bathing, even when wounded unto death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not directly show the stag bathing in the spring; the
+    wayfarer presents this as the probable explanation.
+- id: motif:2
+  label: Seeker directed to a hidden teller of wonders
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: After the hunter encounters the revived stag, the wayfarer sends him to Dervish,
+    who is said to know further wonders and who begins telling a story once found.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is a narrative frame and does not yet give the content of
+    Dervish’s wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5164-5169
+  quote_or_summary: A hunter kills a stag in the mountains, begins to skin it, hangs
+    the skin on a bush, and goes to a stream to wash blood from his hands.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 5169-5171
+  quote_or_summary: "“the dead stag had come to life, and was bounding away”"
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 5171-5174
+  quote_or_summary: The hunter recovers from astonishment, chases the stag unsuccessfully,
+    and then meets a wayfarer to whom he briefly tells the story.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5174-5179
+  quote_or_summary: The wayfarer says there is a healing spring nearby where any beast,
+    even if wounded unto death, can be cured by bathing, and says the stag probably
+    bathed there.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5179-5184
+  quote_or_summary: The wayfarer tells the hunter to seek a man called Dervish and
+    identifies him as a man smoking a pipe with an ass and a she-ass bound before
+    him.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5185-5186
+  quote_or_summary: After a long search, the hunter finds Dervish, who begins telling
+    him the following story.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels involving healing water
+    and resurrection are supported, but the stag’s actual bathing is inferred by a
+    character rather than directly narrated. No separate comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy refs limited to supplied lists.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:georgian-georgian-folk-tales-wardrop-gutenberg__l5164-l5186
+  passage_sha256=24beb364919e9acbec3a74e9fffefccea06e70234344cefdb2a5e4d2e667a8bb
+

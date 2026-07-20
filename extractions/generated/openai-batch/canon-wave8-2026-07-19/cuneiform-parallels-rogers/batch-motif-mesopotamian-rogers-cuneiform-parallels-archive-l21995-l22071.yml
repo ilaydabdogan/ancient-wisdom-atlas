@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l21995-l22071
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: X. NEBUCHADREZZAR (604-562 B. C.) / LEGAL TEXTS / I. A KUDURRU, OR BOUNDARY
+    STONE / II USH, X GAR; lines 21995-22071
+  start: '21995'
+  end: '22071'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“Ninib and Nusku establish the boundary”"
+  summary: A legal boundary-stone passage names the stone, gives land measurements
+    and adjoining boundaries near the Tigris, and begins a divine invocation of Ellil
+    as ruler of heaven and earth and king of the great gods.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the object as a kudurru, or boundary stone.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stone is named “Ninib and Nusku establish the boundary.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The text lists a seedfield with quantified area or seed capacity and measurements
+    in ush and gar.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The boundaries are described by cardinal directions and adjacent landmarks
+    or properties, including the Tigris, the property of the lord of countries, and
+    Bit-Sufcur-Gal-du.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Column I opens with Ellil described as exalted lord, ruler of heaven and earth,
+    prince, lord of all, and king of the great gods.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ninib
+  description: A deity named in the title of the boundary stone as establishing the
+    boundary with Nusku.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Nusku
+  description: A deity named in the title of the boundary stone as establishing the
+    boundary with Ninib.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ellil
+  description: A god invoked as exalted lord, ruler of heaven and earth, lord of all,
+    and king of the great gods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: lord of countries
+  description: A titled figure whose property is named as an adjoining northern boundary.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: boundary-establishing deities
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The stone’s name states that Ninib and Nusku establish the boundary.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cosmic divine ruler
+  assigned_to:
+  - fig:3
+  basis: Ellil is titled ruler of heaven and earth and king of the great gods.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: adjacent landholder or titled owner
+  assigned_to:
+  - fig:4
+  basis: The northern boundary adjoins the property of the lord of countries.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: boundary stone
+  literal_form: kudurru, or boundary stone
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: established boundary
+  literal_form: the named boundary established by Ninib and Nusku
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Tigris River boundary
+  literal_form: River Tigris and bank of the Tigris used as a boundary reference
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: measured seedfield
+  literal_form: seedfield measured with gur, ka, gan, ush, and gar units
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Naming of the boundary stone
+  summary: The legal text identifies a kudurru and gives its name as an action by
+    Ninib and Nusku establishing the boundary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Survey of field boundaries
+  summary: The passage describes a seedfield through measurements, directions, and
+    adjoining landmarks or properties, including the Tigris and neighboring holdings.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Invocation of Ellil
+  summary: Column I begins by naming Ellil and giving him titles of cosmic and divine
+    rulership.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divinely established boundary
+  taxonomy_refs: []
+  basis: The stone’s own name attributes the establishment of the boundary to Ninib
+    and Nusku.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only the stone name and does not include a fuller mythic
+    narrative.
+- id: motif:2
+  label: legal land demarcation by fixed markers and natural boundaries
+  taxonomy_refs: []
+  basis: The text records a boundary stone, field measures, directions, adjoining
+    properties, and the Tigris as a boundary reference.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a legal-administrative pattern rather than a narrative myth motif.
+- id: motif:3
+  label: cosmic divine authority invoked over a legal record
+  taxonomy_refs: []
+  basis: The legal text’s first column invokes Ellil with titles of rulership over
+    heaven, earth, and the great gods.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt preserves only the opening divine titles; any curse, oath,
+    or grant formula is not present in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21995-22002
+  quote_or_summary: 'The passage is headed as a kudurru, or boundary stone, and says:
+    “Ninib and Nusku establish the boundary” is its name.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 22003-22021
+  quote_or_summary: 'The text lists a seedfield and gives dimensions and boundaries:
+    west, south along the bank of the Tigris, north adjoining the property of the
+    lord of countries, and east adjoining Bit-Sufcur-Gal-du.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 22022-22028
+  quote_or_summary: Column I opens by naming Ellil as exalted lord, ruler of heaven
+    and earth, prince, lord of all, and king of the great gods.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The legal boundary-stone features and divine names are clear, but the excerpt
+    is short and mostly administrative. Motif candidates are limited to patterns directly
+    supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support a specific cross-textual comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l21995-l22071
+  passage_sha256=a0e985dfc0f91a298e6924a2cee8e4c058508812e2a44c31f457f299c80369ed
+

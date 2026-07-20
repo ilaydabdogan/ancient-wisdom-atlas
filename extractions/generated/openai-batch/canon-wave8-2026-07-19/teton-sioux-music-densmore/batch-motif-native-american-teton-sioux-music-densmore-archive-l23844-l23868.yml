@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l23844-l23868
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: METRIC  UNIT  OF  VOICE  (TEMPO) / METRIC  UNIT  OF  DRUM  (TEMPO) / POX   SOCIETY
+    / BUREAU   OF  AMEBICAN  ETHNOLOGY; lines 23844-23868
+  start: '23844'
+  end: '23868'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies animal-named Cheyenne societies, introduces songs
+    of the Fox society, notes one song honoring a member killed on the warpath, and
+    attributes a Fox society song to Bear Soldier, nephew of Rain-in-the-Face.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage refers to Cheyenne societies described as foxmen, specifically
+    kit or swift fox, and also mentions Coyote as one of the original Cheyenne societies.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two songs of the Fox society are introduced in the passage, with a third said
+    to appear in Old Buffalo's personal war narrative.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Old Buffalo is identified as a member of the Fox society.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Song No. 147 is said to have been composed in honor of a Fox society member
+    killed on the warpath.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The following Fox society song is said to have been sung by Bear Soldier,
+    identified as a nephew of Rain-in-the-Face.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The song is labeled No. 114, Song of the Fox Society, with a catalogue number,
+    and its drum rhythm is said to be similar to No. 6.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fox society
+  description: A named society associated with songs in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Old Buffalo
+  description: A person whose personal war narrative includes a Fox society song and
+    who is identified as a member of the society.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: unnamed Fox society member killed on the warpath
+  description: A member of the Fox society for whom Song No. 147 was composed in honor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Bear Soldier
+  description: The singer of Song No. 114 of the Fox Society; identified as a nephew
+    of Rain-in-the-Face.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Rain-in-the-Face
+  description: Named as the uncle of Bear Soldier.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Cheyenne animal-named societies
+  description: Cheyenne societies referred to as foxmen and with Coyote mentioned
+    as an original society.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: song-associated society
+  assigned_to:
+  - fig:1
+  basis: The passage introduces multiple songs of the Fox society.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: society member and war-narrative figure
+  assigned_to:
+  - fig:2
+  basis: Old Buffalo is said to be a member of the Fox society and to have a personal
+    war narrative containing a related song.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: commemorated dead member
+  assigned_to:
+  - fig:3
+  basis: Song No. 147 was composed in honor of this member after he was killed on
+    the warpath.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: singer
+  assigned_to:
+  - fig:4
+  basis: Bear Soldier is named as the person who sang the following song of the Fox
+    society.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: kin relation
+  assigned_to:
+  - fig:5
+  basis: Rain-in-the-Face is mentioned through Bear Soldier's kin relationship as
+    his uncle.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: nearby animal-named society pattern
+  assigned_to:
+  - fig:6
+  basis: The passage describes Cheyenne societies with fox and coyote names.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: fox or swift fox
+  literal_form: Animal name used for a society or society members, described as foxmen
+    and specifically kit or swift fox.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: coyote
+  literal_form: Animal name mentioned as one of the original Cheyenne societies.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: warpath death
+  literal_form: A society member killed on the warpath and honored by a composed song.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: society song
+  literal_form: Named songs associated with the Fox society, including Song No. 114
+    and Song No. 147.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Animal-named societies are identified
+  summary: The passage notes Cheyenne societies described with fox terminology and
+    a Coyote society.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fox society songs are introduced
+  summary: Two songs of the Fox society are presented, another is linked to Old Buffalo's
+    war narrative, and one song is described as honoring a member killed on the warpath.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bear Soldier sings Song No. 114
+  summary: Bear Soldier, nephew of Rain-in-the-Face, is named as the singer of Song
+    No. 114 of the Fox Society, with a drum-rhythm note attached.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal-named ceremonial or warrior society
+  taxonomy_refs: []
+  basis: The passage connects societies with animal names, including fox or swift
+    fox and coyote, and centers songs of the Fox society.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt gives names and song context but does not explain the ritual
+    meaning of the animal names.
+- id: motif:2
+  label: song honoring a warrior-society member killed on the warpath
+  taxonomy_refs: []
+  basis: Song No. 147 is explicitly described as composed in honor of a Fox society
+    member killed on the warpath.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The lyrics or ritual use of Song No. 147 are not included in this excerpt.
+- id: motif:3
+  label: transmission of society song through named performer
+  taxonomy_refs: []
+  basis: Song No. 114 is attributed to Bear Soldier, who is identified by name and
+    kin relation.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage records performance attribution but gives no detailed account
+    of transmission or ownership.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison between the Fox society songs
+    and a broader nearby pattern of animal-named societies, since it mentions Cheyenne
+    foxmen and a Coyote society near the Fox society material.
+  claim_level: same_function
+  target: Cheyenne animal-named society pattern, including foxmen and Coyote society
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt supplies only brief references to Cheyenne societies and
+    does not demonstrate identical ceremonies, myths, or song functions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23844-23850
+  quote_or_summary: Cheyenne societies are described as foxmen, specifically kit or
+    swift fox, and Coyote is mentioned as one of the original Cheyenne societies.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 23851-23855
+  quote_or_summary: Two songs of the Fox society are introduced; a third appears in
+    Old Buffalo's personal war narrative; Old Buffalo was a member; Song No. 147 honored
+    a member killed on the warpath.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 23856-23863
+  quote_or_summary: A Fox society song is identified as sung by Bear Soldier, nephew
+    of Rain-in-the-Face, and labeled No. 114, Song of the Fox Society.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 23864-23868
+  quote_or_summary: The drum rhythm for Song No. 114 is noted as similar to No. 6.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and partly affected by OCR errors, but the main social,
+    song, and attribution details are clear enough for a draft extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned because the passage does not support the listed motif families or symbol IDs directly.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l23844-l23868
+  passage_sha256=000593c6d64cfb7b3b3caf6a04bc21c453ceda00a2270fd784fb167ba5e769b9
+

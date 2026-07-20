@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l22436-l22480
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: VIII,  270.        BOUNDARY  DISPUTES  ;    DEFAMATION.  3OI / VIII,  282.  ASSAULT    AND    HURT.  303
+    / VIII,  295.  ASSAULT    AND    HURT.  305 / VIII,  307.  THEFT.  307; lines
+    22436-22480
+  start: '22436'
+  end: '22480'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents rules on kingship: a king should punish thieves and
+    protect subjects; royal protection is likened to an ongoing sacrificial session
+    with safety as the sacrificial fee. A protecting king receives a sixth share of
+    subjects'' spiritual merit, while a non-protecting king receives a share of their
+    demerit and, if he still takes taxes and dues, sinks into hell after death. Notes
+    gloss royal revenues and cite related legal sources.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says a king's fame grows and his kingdom prospers if he punishes
+    thieves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A king who ensures the safety of his subjects is described as worthy of honour.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The safety of subjects is compared to the sacrificial fee of a sacrificial
+    session that grows in length.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A king who protects his subjects receives one sixth of their spiritual merit,
+    while a king who does not protect them receives one sixth of their demerit.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A king obtains a sixth part of merit gained by Veda reading, sacrifice, charitable
+    gifts, or worship when he duly protects his kingdom.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A king who protects created beings according to sacred law and smites those
+    worthy of corporal punishment is said to daily offer sacrifices with very large
+    fees.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A king who takes revenues without affording protection is said to sink into
+    hell after death.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The note glosses royal revenue terms as harvest share, taxes, tolls and duties,
+    daily presents, and fines.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The note cites other legal sources and another Manu passage as parallels for
+    verses 303-311.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: king
+  description: The ruler who punishes thieves, protects subjects, receives shares
+    of merit or demerit, and may sink into hell if he takes revenue without protection.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: subjects
+  description: Those whose safety the king must ensure and whose spiritual merit or
+    demerit is shared by the king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: thieves
+  description: Persons whom the king is instructed to punish.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: created beings
+  description: Beings protected by the king in accordance with sacred law.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: those worthy of corporal punishment
+  description: Persons whom the king smites while protecting created beings according
+    to sacred law.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: protector-ruler
+  assigned_to:
+  - fig:1
+  basis: The king is evaluated by whether he ensures safety and protects his subjects
+    or created beings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: punisher of wrongdoers
+  assigned_to:
+  - fig:1
+  basis: The king punishes thieves and smites those worthy of corporal punishment.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: recipient of merit or demerit share
+  assigned_to:
+  - fig:1
+  basis: The king receives one sixth of subjects' spiritual merit if he protects them,
+    and one sixth of demerit if he does not.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: protected dependents
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Subjects and created beings are presented as those whose protection is the
+    king's duty.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: punishable offenders
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Thieves and those worthy of corporal punishment are named as persons to be
+    punished or smitten.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: sacrificial session
+  literal_form: sattra, an extended sacrificial session
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sacrificial fee
+  literal_form: the safety of subjects as the sacrificial fee
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sixth share
+  literal_form: one sixth part of spiritual merit or demerit
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - sacred_exchange
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: royal revenues
+  literal_form: share in kind, taxes, tolls, duties, daily presents, and fines
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: hell after death
+  literal_form: sinking into hell after death
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Protection and punishment bring prosperity
+  summary: The king is urged to punish thieves; by doing so his fame grows and his
+    kingdom prospers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Royal protection as sacrifice
+  summary: The king who ensures subjects' safety is honored, and that safety is framed
+    as the fee of an ever-growing sacrificial session.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Transfer of merit and demerit
+  summary: The protecting king receives a sixth part of subjects' spiritual merit;
+    if he fails to protect, a sixth part of their demerit falls on him. Merit from
+    Veda reading, sacrifice, gifts, and worship is included in the share he obtains
+    through protection.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Sacrificial value of just rule
+  summary: A king who protects created beings according to sacred law and punishes
+    those deserving corporal punishment is described as daily offering sacrifices
+    with very large fees.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Unprotected taxation and hell
+  summary: A king who takes revenue without providing protection is said to sink into
+    hell after death.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: righteous kingship as protection
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The ruler's honor, fame, prosperity, and right to benefit from subjects are
+    tied to protecting them and punishing offenders.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is legal-prescriptive rather than narrative myth.
+- id: motif:2
+  label: sacral exchange between ruler and subjects
+  taxonomy_refs:
+  - sacred_exchange
+  basis: 'Protection produces a reciprocal transfer: safety is treated as sacrificial
+    fee, and the king receives a sixth part of subjects'' merit; failure brings a
+    share of demerit.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The exchange is formulated as dharma-law and ritual analogy, not as a
+    mythic transaction scene.
+- id: motif:3
+  label: rule as continuous sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage compares the king's protection of subjects to a sacrificial session
+    and to daily sacrifices with large fees.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is an explicit analogy within a legal text.
+- id: motif:4
+  label: post-mortem punishment for unjust ruler
+  taxonomy_refs:
+  - divine_judgment
+  basis: A king who takes revenues without protecting his subjects is said to sink
+    into hell after death.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not describe a judge or judgment scene; it only states
+    the afterlife consequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself points to comparable rules in nearby dharma/legal sources
+    by citing Apastamba, Vasishtha, Vishnu, Yajnavalkya, and another Manu passage
+    for verses 303-311.
+  claim_level: same_function
+  target: Ap. II, 25, 15; Vas. I, 42-44; Vi. V, 196; Yajñ. I, 335-336, 358; Manu IX,
+    252 seqq.
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only citation references are provided in the passage; the contents
+    of the cited parallels are not quoted here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: VIII.307 heading and preceding sentence, lines 22436-22440
+  quote_or_summary: The king should punish thieves; if he does, his fame grows and
+    his kingdom prospers.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: VIII.303, lines 22441-22447
+  quote_or_summary: A king who ensures subjects' safety is worthy of honor; their
+    safety is compared to the sacrificial fee of an ever-growing sacrificial session.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: VIII.304, lines 22448-22453
+  quote_or_summary: A protecting king receives one sixth of subjects' spiritual merit;
+    an unprotecting king receives one sixth of their demerit.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: VIII.305, lines 22454-22461
+  quote_or_summary: The king obtains a sixth part of merit gained by Veda reading,
+    sacrifices, gifts, and worship because he duly protects his kingdom.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: VIII.306, lines 22462-22467
+  quote_or_summary: A king who protects created beings according to sacred law and
+    smites those deserving corporal punishment daily offers sacrifices with fees of
+    hundreds of thousands.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: VIII.307, lines 22468-22473
+  quote_or_summary: A king who does not protect but takes shares in kind, taxes, tolls,
+    duties, daily presents, and fines will soon sink into hell after death.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Note to VIII.307, lines 22478-22480 and following note text in supplied
+    passage
+  quote_or_summary: The note explains terms for royal revenue, including harvest share,
+    choice portions, land or monthly taxes, merchant tolls and duties, and daily presents.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: citation
+  locator: Note to VIII.303-311, lines 22475-22477
+  quote_or_summary: The note cites Ap. II, 25, 15; Vas. I, 42-44; Vi. V, 196; Yajñ.
+    I, 335-336, 358; and Manu IX, 252 seqq. as related passages.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The legal prescriptions and ritual analogies are explicit. Motif labeling
+    is cautious because the passage is juridical and didactic rather than narrative
+    mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to supplied motif families and symbols list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l22436-l22480
+  passage_sha256=171d8735af8ec8a746492fbd2f1527d3a0243fc2d05b88e9c94bec431ff31078
+

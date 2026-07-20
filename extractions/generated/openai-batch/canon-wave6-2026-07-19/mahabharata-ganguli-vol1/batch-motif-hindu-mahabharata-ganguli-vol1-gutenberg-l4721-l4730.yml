@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l4721-l4730
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION XXXIX / SECTION XL / SECTION XLI / SECTION XLII; lines 4721-4730
+  start: '4721'
+  end: '4730'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Takshaka, by his poison, will today burn king Parikshit”"
+  summary: Kasyapa says he is hurrying to cure King Parikshit after Takshaka’s poisonous
+    bite. Takshaka identifies himself and challenges Kasyapa’s ability to heal anyone
+    bitten by him. Kasyapa answers that his learning gives him confidence he can cure
+    the king.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Kasyapa says Takshaka’s poison will burn King Parikshit on that day.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kasyapa says he is going quickly to cure King Parikshit after Takshaka bites
+    him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Parikshit is described as king of the Kuru race, of immeasurable prowess,
+    and the sole representative of the Pandava race.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Takshaka identifies himself to Kasyapa as the Takshaka who will burn the lord
+    of the earth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Takshaka tells Kasyapa to stop, saying Kasyapa cannot cure one bitten by him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Kasyapa says he is sure that, possessing the power of learning, he will cure
+    the monarch bitten by Takshaka.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Takshaka is compared to Agni in energy.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kasyapa
+  description: A speaker who says he is going quickly to cure King Parikshit and who
+    claims the power of learning will enable him to do so; Takshaka addresses him
+    as a Brahmana.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Takshaka
+  description: A figure whose poison is said to burn King Parikshit, who identifies
+    himself, and who says Kasyapa cannot cure a person bitten by him.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: King Parikshit
+  description: The king of the Kuru race, described as the sole representative of
+    the Pandava race, who is expected to be bitten by Takshaka and whom Kasyapa intends
+    to cure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Agni
+  description: Named in a simile comparing Takshaka’s energy to Agni’s energy.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: intended healer
+  assigned_to:
+  - fig:1
+  basis: Kasyapa says he goes to cure Parikshit and later says he shall cure the monarch
+    bitten by Takshaka.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: poisonous attacker
+  assigned_to:
+  - fig:2
+  basis: Takshaka’s poison is said to burn Parikshit, and Takshaka says one bitten
+    by him cannot be cured.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: threatened king and intended patient
+  assigned_to:
+  - fig:3
+  basis: Parikshit is the king expected to be bitten and burned by Takshaka and the
+    one Kasyapa intends to cure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:4
+  label: disputing interlocutor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Takshaka challenges Kasyapa’s ability to heal, and Kasyapa replies that he
+    can cure the king through learning.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: fiery comparand
+  assigned_to:
+  - fig:4
+  basis: Agni is invoked only as the comparison for Takshaka’s energy.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: poison
+  literal_form: Takshaka’s poison
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire and burning
+  literal_form: burning by poison; Takshaka compared to Agni in energy
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: curative learning
+  literal_form: the power of learning claimed by Kasyapa as the means to cure
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Kasyapa and Takshaka dispute the possibility of curing Parikshit
+  summary: Kasyapa states that Takshaka’s poison will burn King Parikshit and that
+    he is going to cure him. Takshaka identifies himself and denies Kasyapa’s power
+    to cure anyone bitten by him. Kasyapa answers that his learning will enable the
+    cure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fire-like poison
+  taxonomy_refs: []
+  basis: Takshaka’s poison is said to burn Parikshit, and Takshaka is compared to
+    Agni in energy.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: This is an image within the passage; the passage does not by itself identify
+    a broader fire-destruction mythic cycle.
+- id: motif:2
+  label: healing knowledge against a lethal bite
+  taxonomy_refs:
+  - wisdom
+  basis: Kasyapa claims that his power of learning will allow him to cure the monarch
+    bitten by Takshaka, despite Takshaka’s denial.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage specifies learning as
+    curative power, not a fuller wisdom quest.
+- id: motif:3
+  label: threat to the sole dynastic representative
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Parikshit is described as king of the Kuru race and sole representative of
+    the Pandava race while facing Takshaka’s expected bite.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage highlights royal and dynastic identity, but it does not explicitly
+    discuss succession or legitimacy claims.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the passage, Takshaka’s poison is made functionally similar to fire:
+    it is said to burn Parikshit, and Takshaka is likened to Agni in energy.'
+  claim_level: same_function
+  target: fire / Agni imagery as destructive energy
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison from the passage, not evidence for historical
+    contact, common inheritance, or a cross-tradition parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4721-4725
+  quote_or_summary: Kasyapa says that Takshaka’s poison will burn King Parikshit that
+    day and that he is hurrying to cure the king after the bite.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4722-4725
+  quote_or_summary: Parikshit is described as of the Kuru race, of immeasurable prowess,
+    and the sole representative of the Pandava race.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 4726-4728
+  quote_or_summary: "“I am that Takshaka, O Brahmana, who shall burn that lord of
+    the earth. Stop, for thou art unable to cure one bit by me.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 4728-4730
+  quote_or_summary: Kasyapa replies that, possessing the power of learning, he is
+    sure he will cure the monarch bitten by Takshaka.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 4725-4726
+  quote_or_summary: "“the same Takshaka like to Agni himself in energy”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal speaker roles and threatened cure are clear. Motif labels involving
+    wisdom and royal legitimacy are broader interpretive candidates and need human
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No serpent taxonomy reference was assigned because this passage mentions poison and biting but does not explicitly identify Takshaka as a serpent within the supplied text.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l4721-l4730
+  passage_sha256=941b42dbedec2e35dc6bb2e4082e21f3c22ca6f5584118ca5411e147c1d81c52
+

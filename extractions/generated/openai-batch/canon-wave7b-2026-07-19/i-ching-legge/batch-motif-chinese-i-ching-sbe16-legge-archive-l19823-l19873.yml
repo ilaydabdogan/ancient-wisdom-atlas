@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l19823-l19873
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: CHAP. I, APPENDIX III. 349 / CHAP. II. APPENDIX III. 371 / CHAP. I, APPENDIX
+    III. 281 / CHAP, 5. APPENDIX III. 39!; lines 19823-19873
+  start: '19823'
+  end: '19873'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is Legge's commentary on a section of Appendix III. It describes
+    a division into passages about sages as makers of the Yi, their independence from
+    the Yi, their construction of it to share knowledge and power with others, a later
+    note on ordinary speech, and interpretive points for judging the lines of the
+    Yi. Legge also questions the attribution of extraordinary knowledge and ability
+    to the sages and notes a comparison with the Doctrine of the Mean.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The chapter section is described as divided into three parts: sages independent
+    of the Yi, sages forming the Yi to share knowledge and power, and a statement
+    about ordinary speech as mysterious and indicative.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sages are described as the makers of the Yi and as having knowledge and
+    power independent of it.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:3
+  text: The passage says the sages devised and constructed the Yi so that all men
+    could share in knowledge of phenomena, human events, and their future indications
+    and outcomes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Legge states that commentators generally supply “the sages” as the subject
+    of the passage, because the text implies a personal being or beings.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Legge says the theory of the Yi as a scheme for discovering the future led
+    to the attribution of extraordinary knowledge and ability to the sages.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The editors of the imperial edition identify five points for students to
+    consider in the lines of the Yi: time, position, quality, mutual nearness, and
+    responsive relation.'
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Paragraph 72 is described as having no real connection with the rest of the
+    chapter and as detached from the preceding material.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the sages
+  description: A collective group treated by commentators as the personal subject
+    of the section and described as makers of the Yi.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: all men
+  description: The collective recipients who are said to be made partakers of the
+    sages' knowledge and power through the Yi.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: student of the Yi
+  description: A generic learner who must attend to five points in the lines of the
+    Yi.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: makers of the Yi
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the sages as makers of the Yi and says they formed,
+    devised, and constructed it.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: possessors of independent knowledge and power
+  assigned_to:
+  - fig:1
+  basis: The first section is summarized as showing that the sages were independent
+    of the Yi and had no need of it.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: transmitters of divinatory knowledge
+  assigned_to:
+  - fig:1
+  basis: The sages are said to have made all men partakers of knowledge and power
+    by means of the Yi.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: recipients of shared knowledge
+  assigned_to:
+  - fig:2
+  basis: All men are described as made partakers of the sages' knowledge and power
+    through the Yi.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: interpreter of the Yi's lines
+  assigned_to:
+  - fig:3
+  basis: The imperial editors describe points the student of the Yi must attend to
+    when judging the lines.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: the Yi as constructed divinatory scheme
+  literal_form: The Yi, a text or system formed by the sages and described as enabling
+    knowledge of future indications and outcomes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: lines of the Yi
+  literal_form: The lines of the Yi, interpreted through time, position, quality,
+    mutual nearness, and responsive relation.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: ordinary speech as indicator
+  literal_form: Ordinary speech of men, described as mysterious and indicative of
+    what is within them.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sages independent of the Yi
+  summary: The first section is summarized as treating the sages as able to know and
+    accomplish what the Yi enables, without needing the Yi themselves.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Construction of the Yi for others
+  summary: The second section is summarized as explaining how the sages formed the
+    Yi so that all men could share in their knowledge and power concerning phenomena,
+    events, and the future.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:3
+  label: Judging the Yi's lines
+  summary: The imperial editors state that the student of the Yi must judge lines
+    by considering time, position, quality, mutual nearness, and responsive relation.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Detached paragraph on speech
+  summary: A final paragraph is said to describe ordinary speech as mysterious and
+    indicative, but Legge and Regis treat it as disconnected from the surrounding
+    chapter.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sages as possessors and transmitters of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents sages as having independent knowledge and power and
+    as forming the Yi so others may share in knowledge of phenomena, human events,
+    and future outcomes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is extracted from Legge's commentary on the Appendix, not from a
+    narrative myth episode.
+- id: motif:2
+  label: divinatory text as a scheme for discovering the future
+  taxonomy_refs: []
+  basis: Legge explicitly describes the theory of the Yi as containing a scheme for
+    discovery of the future and links this to the attributed abilities of the sages.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No exact supplied taxonomy family matches this divinatory-pattern motif.
+- id: motif:3
+  label: culture makers creating a knowledge system for humanity
+  taxonomy_refs:
+  - culture_hero
+  basis: The sages are described as makers who devised and constructed the Yi to make
+    all men partakers of knowledge and power.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage calls them sages rather than heroes, and Legge criticizes
+    the scale of the abilities attributed to them.
+- id: motif:4
+  label: relational ordering of signs for interpretation
+  taxonomy_refs: []
+  basis: The imperial editors summarize interpretation of the Yi's lines through time,
+    position, quality, mutual nearness, and responsive relation.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is an interpretive technical pattern rather than a narrative myth
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: Legge directs comparison of this section, especially paragraph 68, with chapter
+    24 of the Doctrine of the Mean.
+  claim_level: same_function
+  target: Doctrine of the Mean, chapter 24
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage only gives a cross-reference and does not quote or summarize
+    the Doctrine of the Mean passage, so the basis of similarity is not specified
+    here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19823-19829
+  quote_or_summary: 'The commentator says the chapter section is divided into three
+    parts: sages as makers of the Yi and independent of it; sages forming the Yi so
+    all men may share their knowledge and power; and a paragraph on ordinary speech
+    as mysterious and indicative.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19831-19842
+  quote_or_summary: The commentator says the text does not name the sages, but implies
+    a personal being or beings; commentators generally interpolate 'the sages' as
+    the subject.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19842-19848
+  quote_or_summary: Legge calls it improper to ascribe such knowledge and ability
+    to the sages, but says the theory of the Yi as a scheme for discovering the future
+    required such attributes; he also says to compare the Doctrine of the Mean, chapter
+    24.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19850-19855
+  quote_or_summary: The first section shows the sages independent of the Yi; the second
+    says they devised and constructed it to make all men equal to themselves in knowledge
+    of phenomena, human events, and future indications and issues.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19860-19866
+  quote_or_summary: 'The imperial editors list five points the student of the Yi must
+    attend to in the lines: time, position, quality, mutual nearness, and responsive
+    relation; the last two guide judgment about appropriateness in the first three.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 19868-19873
+  quote_or_summary: Legge says paragraph 72 has no real connection with the chapter
+    and cites P. Regis as saying the sentences resemble Confucian doctrine but are
+    detached from what precedes.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is a translator-commentary passage rather than a mythic narrative.
+    Motifs are therefore technical and interpretive, centered on wisdom transmission
+    and divination.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  A stray fragment about 'substantial' and 'crooked' expressions appears in the supplied passage but lacks sufficient context here, so it was not used for motif extraction.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l19823-l19873
+  passage_sha256=b129abd917d697ad746a1dda243d0f7819546061a832583bf8d68206655226db
+

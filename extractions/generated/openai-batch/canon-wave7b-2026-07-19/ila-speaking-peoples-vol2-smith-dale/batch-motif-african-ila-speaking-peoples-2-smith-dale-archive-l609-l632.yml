@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l609-l632
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: VOL. II B / CH. XVIII / FROM BIRTH TO PUBERTY / FOUR BA-ILA CHILDREN.; lines
+    609-632
+  start: '609'
+  end: '632'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The saddest thing about the child life is the considerable mortality.
+  summary: The passage describes Ba-Ila children, remarks on the emotional appeal
+    of children at play, and gives an ethnographic account of infant mortality attributed
+    to poor sanitary knowledge and child-care practices, including carrying a baby
+    in a skin, nursing it after exposure to heat, leaving it naked in a cool wind,
+    and neglecting mouth-cleaning.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contrasts adults who fail to attract with little children whose
+    play warms the heart.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that child life is marked by considerable mortality and
+    that only the hardiest survive their treatment.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mothers are described as ignorant of sanitary rules in relation to child care.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A woman goes to her field with a baby slung on her back in a skin while she
+    works and the baby dozes with only its head visible.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the baby wakes and cries, the mother finds shade, takes the perspiring
+    baby out, and nurses it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The baby lies naked in a cool wind without protection, and the passage links
+    this to catching cold and death by pneumonia.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Women are said not to clean a baby's mouth, and babies are rarely found with
+    clean mouths.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ba-Ila children
+  description: Little children are described as rolling about in play; child life
+    is also described as marked by considerable mortality.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mother or woman caregiver
+  description: A woman or mother carries her baby to the field, works while the baby
+    dozes, takes the crying baby to shade, and nurses it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Baby
+  description: The baby is carried in a skin on the mother's back, dozes, wakes and
+    cries, is taken out perspiring, is nursed, and lies naked in a cool wind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: children at play
+  assigned_to:
+  - fig:1
+  basis: The passage describes little children rolling about in their play.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: nursing caregiver
+  assigned_to:
+  - fig:2
+  basis: The woman carries, shades, removes, and nurses the baby during field work.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: infant under care
+  assigned_to:
+  - fig:3
+  basis: The baby is carried, sleeps, cries, is nursed, and is exposed naked to a
+    cool wind.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: vulnerable children
+  assigned_to:
+  - fig:1
+  basis: The passage says there is considerable child mortality and that only the
+    hardiest survive.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: skin baby-sling
+  literal_form: A skin in which the baby is slung on the woman's back.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: field and shade
+  literal_form: The woman's field and a shady place where she takes the crying baby.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cool wind exposure
+  literal_form: A cool wind blowing while the baby lies naked without protection.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Children at play
+  summary: Little children are described rolling about in play, producing a warm emotional
+    response in the observer.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Infant carried during field work
+  summary: A woman goes to the field with her baby slung on her back in a skin while
+    she works and the baby dozes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Nursing and exposure to cool wind
+  summary: After the baby wakes and cries, the mother takes it to shade, removes it
+    while perspiring, nurses it, and leaves it naked in a cool wind without protection;
+    the passage connects this with pneumonia mortality.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Neglected mouth-cleaning
+  summary: The passage states that women do not clean babies' mouths and that babies
+    rarely have clean mouths.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Infant vulnerability under inadequate care
+  taxonomy_refs: []
+  basis: The passage repeatedly links child mortality to poor sanitary knowledge and
+    specific child-care practices such as exposure after perspiration and lack of
+    mouth-cleaning.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic social observation rather than a myth narrative,
+    and it does not match a supplied motif-family taxonomy reference.
+- id: motif:2
+  label: Exposure of a vulnerable child to natural elements
+  taxonomy_refs: []
+  basis: The baby is described as removed while perspiring and then left naked without
+    protection in a cool wind, after which the passage says children catch cold and
+    may die from pneumonia.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as practical child-care commentary, not as a
+    symbolic or ritual motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 609-614
+  quote_or_summary: Little children are described as rolling about in play and bringing
+    a warming of the heart.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: 615-620
+  quote_or_summary: The passage states that child life has considerable mortality
+    and that mothers are ignorant of sanitary rules.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: 620-626
+  quote_or_summary: A woman goes to her field with her baby slung on her back in a
+    skin while she works; the baby dozes with only its head visible, then wakes and
+    cries, and the mother finds shade.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 626-631
+  quote_or_summary: The mother takes the baby out perspiring, nurses it, and the baby
+    lies naked in a cool wind without protection; the passage says children then catch
+    cold and are carried off by pneumonia.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 631-632
+  quote_or_summary: Women are said not to clean out a baby's mouth, and babies are
+    rarely found with clean mouths.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the provided English passage.
+    Motif candidates are cautious because the passage is ethnographic and practical
+    rather than mythic or ritual, and no supplied taxonomy family clearly applies.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims are made because the passage itself does not support a comparison to another corpus, tradition, or motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l609-l632
+  passage_sha256=afe4831b0a1f34757ff45f15d03301560c4b77a6269bf6b325a952c9896316c7
+

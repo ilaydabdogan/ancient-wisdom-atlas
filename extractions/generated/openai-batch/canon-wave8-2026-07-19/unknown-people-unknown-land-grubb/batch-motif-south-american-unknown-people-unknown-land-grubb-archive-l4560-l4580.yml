@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l4560-l4580
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: HUNTING / CHAPTER IX / TRAVEL / CHAPTER X; lines 4560-4580
+  start: '4560'
+  end: '4580'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a conflict in which Lengua pursuers capture some
+    women, fail to follow enemies who flee into forest paths, kill many Kisapang opponents,
+    seize flocks and belongings, and take few women and children. It then generalizes
+    that tribal wars may continue for months, pause for gardening and necessary work,
+    and resume through cycles of revenge, while also stating that casualties and cruelty
+    are less extensive than commonly believed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some women were captured because they had not succeeded in escaping.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People who fled into the forest were not overtaken because the pursuers did
+    not know the intricate forest paths.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Many Kisapang men eluded their pursuers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lenguas killed many enemies while suffering comparatively small losses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Lenguas captured flocks and most personal belongings, but only a small
+    number of women and children.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Some tribal wars are described as continuing for many months.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Hostilities may cease while both sides attend to planting gardens and other
+    necessary work.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: After a war ends, the defeated side may gather strength and seek revenge.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Frontier warfare is described as desultory and continual.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The narrator states that loss of life and cruelty are less extensive than
+    generally believed.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lenguas
+  description: The group described as pursuing enemies, capturing women, killing many
+    opponents, and seizing flocks and belongings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Kisapang men
+  description: Men of the opposing group, many of whom eluded their pursuers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: women who had not escaped
+  description: Women secured or captured by the Lenguas during the conflict.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: women and children
+  description: Captives described as a small part of the booty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: belligerents on both sides
+  description: Opposing parties in tribal wars who may pause hostilities for planting
+    and necessary work.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: vanquished
+  description: The defeated side that later gathers strength and seeks revenge.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: pursuers and raiders
+  assigned_to:
+  - fig:1
+  basis: They pursue enemies, secure captives, kill opponents, and seize flocks and
+    belongings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: fleeing opponents
+  assigned_to:
+  - fig:2
+  basis: Many Kisapang men are said to have eluded their pursuers.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: captives or attempted captives
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Women and children are described in relation to capture and booty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: opposing wartime parties
+  assigned_to:
+  - fig:5
+  basis: Both sides are described as allowing hostilities to cease for planting and
+    necessary work.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: revenge-seeking defeated side
+  assigned_to:
+  - fig:6
+  basis: The vanquished are described as gathering strength and seeking revenge after
+    war.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: forest paths
+  literal_form: intricate forest paths
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: captured flocks and belongings
+  literal_form: flocks and personal belongings taken as booty
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: gardens and planting
+  literal_form: planting gardens and other necessary works
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Forest pursuit and failed capture
+  summary: The Lenguas devote attention to securing women who did not escape, while
+    others flee into forest paths that the pursuers do not know well enough to follow
+    effectively.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Raid outcome
+  summary: Many Kisapang men elude pursuit, while the Lenguas kill many opponents,
+    suffer small losses, and seize flocks, belongings, and a small number of women
+    and children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Intermittent warfare and revenge
+  summary: The narrator describes wars that may last many months, pause for planting
+    and necessary work, and resume through revenge by the defeated, producing continual
+    frontier warfare.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Narrator's qualification about violence
+  summary: The narrator states that loss of life and cruelty in these wars are less
+    extensive than is generally believed.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: captives and booty after a raid
+  taxonomy_refs: []
+  basis: The passage describes women and children as captives or booty, along with
+    seized flocks and belongings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic war description rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: flight into protective forest paths
+  taxonomy_refs: []
+  basis: Enemies escape into forest paths that the pursuers cannot follow because
+    they do not know the routes.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents this as a practical circumstance, not as a symbolic
+    forest episode.
+- id: motif:3
+  label: interrupted warfare for subsistence work
+  taxonomy_refs: []
+  basis: Hostilities are described as pausing while both sides plant gardens and perform
+    necessary works.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference is assigned because the passage does not
+    frame this as a seasonal mythic cycle.
+- id: motif:4
+  label: cycle of revenge after defeat
+  taxonomy_refs: []
+  basis: After war, the vanquished gather strength and seek revenge, contributing
+    to continual frontier warfare.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a social pattern in the ethnographic account, not a demonstrated
+    comparative myth motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4560-4564
+  quote_or_summary: The Lenguas focus on securing women who had not escaped; others
+    flee into intricate forest paths that the Lenguas do not know well enough to pursue.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4565-4569
+  quote_or_summary: Many Kisapang men elude pursuers; the Lenguas kill many enemies
+    with small losses, seize flocks and belongings, and capture few women and children.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4570-4576
+  quote_or_summary: Some tribal wars last many months; hostilities may stop for planting
+    and necessary work; defeated groups later seek revenge, producing continual frontier
+    warfare.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4576-4580
+  quote_or_summary: The narrator says loss of life is not as great as might be imagined
+    and cruelty is less extensive than generally believed.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are treated as social
+    or narrative patterns rather than confirmed mythological motifs. No comparison
+    claims are made from the passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references assigned; available taxonomy does not clearly match the passage without over-interpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l4560-l4580
+  passage_sha256=765caad396a4f2330dde9a828235c4a7559d7f81a9367b0477f6102ce5c9e77d
+

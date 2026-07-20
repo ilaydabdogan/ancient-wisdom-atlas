@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.celtic-celtic-fairy-tales-jacobs-gutenberg-l7492-l7512
+source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: VIII. THE SPRIGHTLY TAILOR. / IX. DEIRDRE. / X. MUNACHAR AND MANACHAR. /
+    XI. GOLD TREE AND SILVER TREE.; lines 7492-7512
+  start: '7492'
+  end: '7512'
+  translation: Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial source, parallel, and remarks for the tale “Gold Tree and Silver
+    Tree.” The passage cites a Gaelic and English source from Kenneth Macleod, reports
+    another version in which a Gold Tree counterpart is bewitched to kill her father's
+    animals, compares the tale abroad with Grimm's “Schneewittchen” and Continental
+    variants, and argues that the dormant-heroine incident and the hero's bigamous
+    household likely came from outside the Highlands.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the source as Celtic Magazine xiii. 213-8, Gaelic and
+    English from Kenneth Macleod.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Another version is reported in which a counterpart of Gold Tree, anonymous
+    in that variant, is bewitched to kill her father's horse, dog, and cock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The passage identifies an overseas parallel as Grimm's “Schneewittchen” No.
+    53 and refers to Continental variants.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The passage states that no other version is known in the British Isles.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The remarks say the tale's dormant-heroine incident is unlikely to have arisen
+    independently in the Highlands and is most likely an importation from abroad.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The remarks identify a bigamous household of the hero and discuss whether
+    that trait could imply polygamy in the tale's original home rather than in the
+    Highlands.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Gold Tree / anonymous counterpart
+  description: A tale figure named as Gold Tree in the main title; the reported alternate
+    version has an anonymous counterpart who is bewitched to kill her father's animals.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Father
+  description: The father whose horse, dog, and cock are named in the alternate version.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Father's horse, dog, and cock
+  description: Three animals named as the targets of the bewitched killing in the
+    alternate version.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Dormant heroine
+  description: A heroine characterized in the remarks by an incident of dormancy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Hero
+  description: A hero whose household is described in the remarks as bigamous.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: bewitched actor
+  assigned_to:
+  - fig:1
+  basis: The alternate version has the Gold Tree counterpart bewitched to kill specified
+    animals.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: father / animal owner
+  assigned_to:
+  - fig:2
+  basis: The horse, dog, and cock are described as belonging to the figure's father.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: animals marked for killing
+  assigned_to:
+  - fig:3
+  basis: The horse, dog, and cock are the animals the bewitched figure is to kill.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: dormant heroine
+  assigned_to:
+  - fig:4
+  basis: The remarks refer to the tale's incident of the dormant heroine.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: hero in bigamous household
+  assigned_to:
+  - fig:5
+  basis: The remarks identify a bigamous household of the hero.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: father's animal triad
+  literal_form: horse, dog, and cock
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Bewitched killing of father's animals in an alternate version
+  summary: In a reported alternate version, the Gold Tree counterpart is bewitched
+    to kill her father's horse, dog, and cock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Bewitched heroine kills father's animals
+  taxonomy_refs: []
+  basis: The passage reports an alternate version in which the Gold Tree counterpart
+    is bewitched to kill her father's horse, dog, and cock.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is an editorial note and does not narrate the full episode.
+- id: motif:2
+  label: Dormant heroine
+  taxonomy_refs: []
+  basis: The remarks identify an incident of the dormant heroine as a feature of the
+    tale.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe the cause, duration, or resolution of the
+    heroine's dormancy.
+- id: motif:3
+  label: Hero's bigamous household
+  taxonomy_refs: []
+  basis: The remarks identify a bigamous household of the hero as an incident in the
+    tale.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage discusses the trait editorially and does not narrate its details.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares “Gold Tree and Silver Tree” with Grimm's
+    “Schneewittchen” No. 53 and Continental variants.
+  claim_level: same_motif
+  target: Grimm's “Schneewittchen” No. 53 and Continental Snow White variants
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is stated in the editorial apparatus; this passage gives
+    only selected tale features rather than a full narrative comparison.
+- id: claim:2
+  claim: The passage argues that the Highland tale with the dormant heroine most likely
+    came from abroad rather than arising independently in the Highlands.
+  claim_level: historical_contact
+  target: Highland “Gold Tree and Silver Tree” and foreign or Continental versions
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is an editor's inference and the passage does not provide
+    direct transmission evidence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '7492'
+  quote_or_summary: "“XI. GOLD TREE AND SILVER TREE.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: 7494-7495
+  quote_or_summary: "“Celtic Magazine, xiii. 213-8, Gaelic and English from Mr. Kenneth
+    Macleod.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 7497-7499
+  quote_or_summary: "“‘Gold Tree’ (anonymous in this variant) is bewitched to kill
+    her father's horse, dog, and cock.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 7499-7502
+  quote_or_summary: The passage says that abroad the tale is Grimm's “Schneewittchen”
+    No. 53, cites Continental variants, and states that no other British Isles version
+    is known.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 7504-7507
+  quote_or_summary: The remarks state that the dormant-heroine incident is unlikely
+    to have arisen independently in the Highlands and is most likely an importation
+    from abroad.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 7507-7512
+  quote_or_summary: The remarks identify the hero's bigamous household, note that
+    the trait is glossed over in another Macleod variant, and discuss whether it implies
+    polygamy in the tale's original home.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is editorial source-and-parallel material rather than a full
+    narrative; extracted motifs are limited to incidents explicitly named in the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family refs were assigned because the passage does not explicitly support the available categories beyond the named editorial parallels.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-celtic-fairy-tales-jacobs-gutenberg__l7492-l7512
+  passage_sha256=9a18fe34d0ca3629800728d78f18bf558d497705016136fa38affb07139b2cbf
+

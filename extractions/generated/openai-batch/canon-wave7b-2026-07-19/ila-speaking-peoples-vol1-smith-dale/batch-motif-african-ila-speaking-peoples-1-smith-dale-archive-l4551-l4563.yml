@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l4551-l4563
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: THE CHIEF SHALOBA. / PT. II / PLAN OF LUBWE VILLAGE. / PRINCIPAL HUT OF THE
+    CHIEF SEZONGO AT NANZELA.; lines 4551-4563
+  start: '4551'
+  end: '4563'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The clay is mixed with chopped grass and water
+  summary: 'The passage describes construction work for the principal hut of Chief
+    Sezongo at Nanzela: clay is obtained from an ant-heap or termite hillock, mixed
+    with chopped grass and water, and applied as a first plaster coat in an operation
+    called kumata; palm fronds are also cut short before completion.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The heading identifies the subject as the principal hut of Chief Sezongo at
+    Nanzela.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Clay may be carried in baskets from an ant-heap a mile or more from the village.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A suitable termite hillock may be found close outside the village, and repeated
+    digging can form a large pit there.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The clay is mixed with chopped grass and water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Men give the first coat of plaster to the wall.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The plastering operation is named kumata.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Kumata involves filling interstices with sticks so that the clay adheres and
+    covers the interior.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Before completion, palm fronds are taken and cut short, leaving split sections;
+    the passage breaks off before the result is stated.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Chief Sezongo
+  description: Named chief associated with the principal hut at Nanzela in the heading.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: men
+  description: Men who give the first coat of plaster to the wall.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: chief
+  assigned_to:
+  - fig:1
+  basis: The heading names 'the Chief Sezongo.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: plastering workers
+  assigned_to:
+  - fig:2
+  basis: The passage states that the men give the first coat of plaster to the wall.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: chief's principal hut
+  literal_form: Principal hut of Chief Sezongo at Nanzela
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water as construction ingredient
+  literal_form: Water mixed with clay and chopped grass
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Clay sourcing from ant-heap or termite hillock
+  summary: Clay is obtained by carrying it from an ant-heap or by repeated digging
+    at a termite hillock near the village, forming a pit over time.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Kumata plastering of the hut wall
+  summary: Clay is mixed with chopped grass and water, and men apply the first plaster
+    coat to the wall; the named operation involves filling interstices with sticks
+    so the clay adheres and covers the interior.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Palm frond preparation
+  summary: Before completion, palm fronds are cut short, but the passage ends before
+    explaining the use of the split sections.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4551-4552
+  quote_or_summary: "“PRINCIPAL HUT OF THE CHIEF SEZONGO AT NANZELA.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 4553-4557
+  quote_or_summary: Clay is described as being carried in baskets from an ant-heap,
+    or obtained from a termite hillock near the village where repeated digging creates
+    a pit.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4557-4561
+  quote_or_summary: Clay is mixed with chopped grass and water; men apply the first
+    plaster coat to the wall; the operation is called kumata and includes filling
+    interstices with sticks so clay adheres and covers the interior.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4561-4563
+  quote_or_summary: Before completing this work, palm fronds are taken and cut short,
+    leaving split sections; the passage then breaks off.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a technical ethnographic description of hut construction,
+    not a mythic narrative. No passage-supported comparative motif or comparison claim
+    is identified. Confidence is limited by the line range beginning mid-sentence
+    and ending abruptly.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Symbol entries record literal objects or materials only; no symbolic function is asserted. The unfinished final word/line has not been completed or interpreted.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l4551-l4563
+  passage_sha256=8bbed3c6f5789a36cf0bd723bf68a58f8b4595c817cb62d21d008886ae5e340a
+

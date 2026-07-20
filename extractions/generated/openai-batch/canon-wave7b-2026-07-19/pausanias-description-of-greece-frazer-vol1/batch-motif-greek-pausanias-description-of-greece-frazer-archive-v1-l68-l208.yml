@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.greek-pausanias-description-of-greece-frazer-archive-v1-l68-l208
+source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+passage_locator:
+  label: Pausanias's Description of Greece, Volume I, Translated with a Commentary
+    by J. G. Frazer; lines 68-208
+  start: '68'
+  end: '208'
+  translation: Pausanias's Description of Greece, Volume I, Translated with a Commentary
+    by J. G. Frazer
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An editorial and biographical introduction explains translation policy,
+    textual basis, transliteration issues, inferred biographical and chronological
+    details about Pausanias, and comments on his character, style, and grammatical
+    ambiguities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prefatory speaker says the work was first intended as a plain translation
+    of Spiro's text and was later expanded with notes, dates, maps, and plans for
+    English readers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prefatory speaker describes transliteration of Greek names as difficult
+    and says the chosen method is mostly letter-for-letter transliteration rather
+    than Latinizing or Anglicizing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The text of Spiro is said to have been rarely altered, with some conjectures
+    attributed in footnotes.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prefatory speaker says the translation does not distinguish between Medes
+    and Persians, or Ilium and Troy, for the benefit of English readers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says Pausanias is known only from scattered hints in his own Tour
+    of Greece.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Pausanias is reported to mention the dwelling of Pelops and Tantalus and the
+    throne of Pelops on Mount Sipylus; the passage uses this to infer that Pausanias
+    was a native of Lydia.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage dates Pausanias by references to Corinth's restoration, the Odeum
+    of Herodes, the Antonines, and a war involving Germans and Sauromatae.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Pausanias is characterized as honest, not a scientific critic, capable of
+    rejecting improbable material or reporting it with warning, and quietly admiring
+    Greece.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Pausanias's style is described as simple and unpretentious, though sometimes
+    verbose, tortuous, and marked by word transpositions.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The translator notes ambiguity in Pausanias's use of prepositions and past
+    tense, especially in topographical description.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pausanias
+  description: Author of the Tour of Greece whose origin, date, character, and style
+    are discussed from internal evidence.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: prefatory translator/editorial speaker
+  description: The speaker who explains the translation method, textual choices, and
+    problems of rendering Pausanias; the preface is signed W. H. S.J.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Spiro
+  description: Named as the source of the Greek text used as the basis for the translation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Pelops
+  description: Named in a cited passage from Pausanias in connection with a dwelling
+    among the speaker's people and a throne on Mount Sipylus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Tantalus
+  description: Named with Pelops in a cited passage from Pausanias concerning a dwelling
+    among the speaker's people.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: author under biographical and chronological reconstruction
+  assigned_to:
+  - fig:1
+  basis: The passage infers Pausanias's origin and date from statements in his own
+    work and external chronological references.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: evaluated writer
+  assigned_to:
+  - fig:1
+  basis: The passage evaluates Pausanias's character and style.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: translator and editor of the present work
+  assigned_to:
+  - fig:2
+  basis: The speaker discusses translation, transliteration, notes, textual conjectures,
+    and rendering grammatical ambiguities.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:4
+  label: textual base or authority
+  assigned_to:
+  - fig:3
+  basis: The present work was originally intended as a translation of Spiro's text,
+    which is said to have been rarely altered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: named figure in Pausanias's internal evidence
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Pelops and Tantalus are named in the cited hints used to infer Pausanias's
+    origin.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Mount Sipylus
+  literal_form: mountain
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: throne of Pelops
+  literal_form: throne
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial explanation of translation method
+  summary: The prefatory speaker explains the planned translation, additions for readers,
+    transliteration practice, handling of Spiro's text, and naming conventions.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Inference of Pausanias's origin
+  summary: The passage cites Pausanias's mention of Pelops, Tantalus, and the throne
+    of Pelops on Mount Sipylus to infer that Pausanias was a native of Lydia.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Dating Pausanias
+  summary: The passage uses Pausanias's statements about Corinth, the Odeum of Herodes,
+    the Antonines, and a war to frame his date in the second century CE.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Assessment of character and style
+  summary: The passage comments on Pausanias's honesty, critical habits, admiration
+    for Greece, simple style, and grammatical ambiguities that affect translation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 68-98
+  quote_or_summary: The prefatory speaker says the work began as a plain translation
+    of Spiro and was expanded with notes, dates, maps, plans, and transliteration
+    choices for English readers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source text; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 99-124
+  quote_or_summary: The passage says Spiro's text was rarely altered, explains naming
+    choices such as Medes/Persians and Ilium/Troy, and acknowledges helpers and critics.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source text; summary only.
+- id: ev:3
+  type: quote
+  locator: lines 125-139
+  quote_or_summary: Pausanias mentions “the dwelling among us of Pelops and Tantalus”
+    and “the throne of Pelops on Mount Sipylus”; the passage calls it a fair inference
+    that he was a native of Lydia.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 140-166
+  quote_or_summary: The passage dates Pausanias through references to Corinth's restoration,
+    the Odeum of Herodes, the first and second Antonines, a war against Germans and
+    Sauromatae, and the second Antonine's death.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source text; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 167-180
+  quote_or_summary: The passage describes Pausanias as commonplace but honest, not
+    a scientific critic, able to reject or cautiously report improbable material,
+    and quietly admiring Greece.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source text; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 181-208
+  quote_or_summary: The passage describes Pausanias's simple style, exceptions involving
+    verbose expression and word transposition, and translation problems caused by
+    prepositions and tense usage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source text; summary only.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is mainly editorial and biographical rather than myth-narrative.
+    No candidate motif or comparison claim is directly supported; only literal named
+    figures, places, objects, and editorial patterns are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available taxonomy was applied only to the explicit literal mountain reference, Mount Sipylus. No broader symbolic or comparative interpretation has been inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:greek-pausanias-description-of-greece-frazer-archive-v1__l68-l208
+  passage_sha256=572e82872434aa62a24ccc02a4177e5c2c219d70df49c0c256a147cc0f1cb043
+

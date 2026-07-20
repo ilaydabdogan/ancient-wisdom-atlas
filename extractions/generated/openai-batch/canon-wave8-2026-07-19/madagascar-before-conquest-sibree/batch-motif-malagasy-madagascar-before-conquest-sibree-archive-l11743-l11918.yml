@@ -1,0 +1,183 @@
+---
+record_id: batch.motif.malagasy-madagascar-before-conquest-sibree-archive-l11743-l11918
+source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+passage_locator:
+  label: MALAGASY FOLK-TALES AND FABLES. / CHAPTER XIII. / DIVINATION AMONG THE MALAGASY.
+    / DIVINATION AMONG THE MALAGASY.; lines 11743-11918
+  start: '11743'
+  end: '11918'
+  translation: 'Madagascar Before the Conquest: The Island, the Country, and the People'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“Tale” ... “always represents in the sikidy the person or thing concerning
+    whom ... the inquiry is made.”"
+  summary: 'The passage describes part of Malagasy sikidy divination: a term or position
+    called Tale represents the subject of inquiry, and groups of columns are read
+    in specified directions. A diagram presents an arrangement of columns in sikidy
+    divination.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a discussion of divination among the Malagasy.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The word or position “Tale” is glossed as apparently meaning “investigator”
+    or “explorer.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In sikidy, “Tale” represents the person or thing about whom or which the inquiry
+    is made.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The first four columns and the eight below them are read from above downwards.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The eight columns to the right are read from right to left.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage includes a diagram with named columns and dot-pattern arrangements
+    for sikidy divination.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: person or thing under inquiry
+  description: The entity concerning whom or which the sikidy inquiry is made.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: subject of divinatory inquiry
+  assigned_to:
+  - fig:1
+  basis: The passage states that Tale represents the person or thing concerning whom
+    or which the inquiry is made.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Tale as representative marker
+  literal_form: A named sikidy term or position, “Tale,” used to represent the inquiry
+    subject.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sikidy column arrangement
+  literal_form: An arranged set of named columns and dot patterns shown in the divination
+    diagram.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Designation of the inquiry subject
+  summary: The passage explains that Tale functions as the representative of the person
+    or thing being asked about in sikidy.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Reading the divinatory columns
+  summary: The passage describes directional rules for reading groups of sikidy columns
+    and presents a diagram of their arrangement.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divination through ordered columns
+  taxonomy_refs: []
+  basis: The passage describes sikidy divination as involving named columns, dot patterns,
+    and prescribed reading directions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is procedural and fragmentary; it does not narrate a full
+    mythic episode.
+- id: motif:2
+  label: representative marker for the divinatory subject
+  taxonomy_refs: []
+  basis: Tale is said to stand for the person or thing about which the divinatory
+    inquiry is made.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The precise technical status of Tale within the full sikidy system is
+    not fully explained in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11743-11744
+  quote_or_summary: 'Heading: “DIVINATION AMONG THE MALAGASY.”'
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 11745-11748
+  quote_or_summary: "“Tale,” apparently meaning “investigator” or “explorer,” “always
+    represents in the sikidy the person or thing concerning whom (or which) the inquiry
+    is made.”"
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; short excerpt used as evidence.
+- id: ev:3
+  type: summary
+  locator: lines 11750-11754
+  quote_or_summary: The passage states that certain columns are read from above downward,
+    while eight columns to the right are read from right to left.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 11755-11918
+  quote_or_summary: A diagram captioned as an arrangement of columns in sikidy divination
+    shows named positions and dot patterns.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized evidence due to OCR-heavy diagram
+    text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Clear prose supports the extraction of the Tale representative function and
+    reading directions. OCR noise in the diagram makes individual column labels uncertain,
+    so they are not separately extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparative claim beyond describing the sikidy procedure.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:malagasy-madagascar-before-conquest-sibree-archive__l11743-l11918
+  passage_sha256=0c3368d09c00519460e0a7b17de9555ed93e9143d1ced8b5ea84c5ad1fadbd85
+

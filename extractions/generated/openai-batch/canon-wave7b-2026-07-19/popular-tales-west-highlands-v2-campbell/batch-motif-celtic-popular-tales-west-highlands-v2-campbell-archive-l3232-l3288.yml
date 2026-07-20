@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l3232-l3288
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE TWO SHEPHERDS. 103 / THE TWO SHEPHERDS. 105 / THE TWO SHEPHERDS. 107
+    / THE TWO SHEPHERDS. 109; lines 3232-3288
+  start: '3232'
+  end: '3288'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Uistean confronts a speaking goat that asks about its kid. His gun and
+    sword fail, but he stabs the goat with a dirk; the goat roars and is not seen
+    again. Uistean then returns to the weaver's house, finds the weaver bleeding under
+    the loom, accuses him of the harm done on the yellow knoll, and kills him. The
+    passage then notes a similar variant and gives the collector's comments on Highland
+    spirit tales and their mixture of natural and supernatural elements.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A goat bleats and speaks with Uistean about whether it wants its kid.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When Uistean reaches for his gun, it gives no spark, and when he reaches for
+    his sword, it will not come out of the sheath.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The goat asks Uistean where his mother's sister is.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Uistean springs on the goat and stabs it with a biodao dirk; the goat roars
+    and is not seen again.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Uistean returns to the weaver's house, kindles a light, and finds the weaver
+    under the loom pouring blood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Uistean accuses the weaver of causing loss on the yellow knoll and kills him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the weaver is killed, the passage says no man was slain on the yellow
+    knoll by the goat or bogle.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A noted variant calls the goat a great hairy-bearded goat, names the dirk
+    Catherine, and has the weaver found in bed with a wound in his thigh before Uistean
+    kills him.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The collector describes this kind of tale as common and as illustrating a
+    popular creed about spirits that are close to mortal men and mix natural and supernatural
+    features.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Uistean
+  description: A human actor who confronts the goat, uses a dirk against it, returns
+    to the weaver's house, and kills the weaver.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the goat or bogle
+  description: A speaking goat that asks about its kid, taunts Uistean, is stabbed
+    with a dirk, roars, and is not seen again; the variant calls it a great hairy-bearded
+    goat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: the weaver
+  description: A weaver found bleeding under the loom after the goat is wounded; in
+    the variant, he is found in bed with a thigh wound.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: human slayer of goat and weaver
+  assigned_to:
+  - fig:1
+  basis: Uistean stabs the goat with the dirk and then kills the bleeding weaver.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: speaking goat/bogle opponent
+  assigned_to:
+  - fig:2
+  basis: The goat speaks to Uistean, is called goat or bogle, and is linked to the
+    slayings on the yellow knoll.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: wounded human counterpart or suspected culprit
+  assigned_to:
+  - fig:3
+  basis: The weaver is found bleeding immediately after the goat is wounded; Uistean
+    accuses him of harm on the yellow knoll and kills him.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: named or kinship dirk
+  literal_form: biodao dirk; in the variant, Catriona, my grandmother's sister
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: failed gun and stuck sword
+  literal_form: gun that gives no spark and sword that will not come out of its sheath
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: yellow knoll
+  literal_form: yellow knoll where men had been slain
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: milk for the goat's kid
+  literal_form: milk
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: loom
+  literal_form: loom under which the weaver is found bleeding
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Confrontation with the speaking goat
+  summary: The goat speaks with Uistean, his gun and sword fail, and he wounds the
+    goat with the dirk; after roaring, the goat is no longer seen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Discovery and killing of the bleeding weaver
+  summary: Uistean returns to the weaver's house, finds the weaver bleeding under
+    the loom, accuses him of the harm on the yellow knoll, and kills him; the deaths
+    on the yellow knoll then cease.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wounded supernatural animal linked to wounded human
+  taxonomy_refs:
+  - shapeshifter
+  basis: The goat is stabbed and disappears; Uistean then finds the weaver bleeding,
+    and the variant makes the weaver's wound a thigh wound after the goat episode.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage implies a link between goat and weaver, but it does not explicitly
+    state that the weaver transformed into the goat.
+- id: motif:2
+  label: ordinary weapons fail while a special blade succeeds
+  taxonomy_refs: []
+  basis: Uistean's gun gives no spark and his sword will not unsheathe, but the dirk
+    wounds the goat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family clearly matches this pattern without forcing
+    the classification.
+- id: motif:3
+  label: slaying a hidden culprit ends local deaths
+  taxonomy_refs: []
+  basis: After Uistean kills the bleeding weaver, the passage says no man was slain
+    on the yellow knoll by the goat or bogle.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The causal claim is local to this tale and setting.
+- id: motif:4
+  label: natural and supernatural ambiguity in spirit tales
+  taxonomy_refs:
+  - duality
+  basis: The collector says this class of tales illustrates spirits near mortal men
+    and that such tales partake of both the natural and the supernatural.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This motif is based on collector commentary rather than only on narrative
+    action.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports another version of the same tale as almost identical,
+    retaining the goat, named dirk, wounded weaver, and death thrust.
+  claim_level: same_motif
+  target: Inverasdale version narrated by Alexander Macdonald and written by a school-master
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage summarizes the variant rather than providing the full text.
+- id: claim:2
+  claim: The collector places this tale within a common Highland class of spirit tales
+    involving beings such as bocan, bodach, fuath, and gruagach, where natural and
+    supernatural features are closely mixed.
+  claim_level: same_function
+  target: Highland spirit-tale class and nearby fairy-story corpus mentioned by the
+    collector
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is the collector's general classification and does not
+    give detailed parallel plots in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3232-3237
+  quote_or_summary: The goat bleats and speaks with Uistean about its kid; Uistean's
+    gun fails to spark, his sword will not unsheathe, and the goat asks where his
+    mother's sister is.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 3238-3242
+  quote_or_summary: Uistean attacks the goat with a biodao dirk; the goat roars, Uistean
+    speaks of giving its kid milk, and the goat is not seen again.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 3243-3250
+  quote_or_summary: Uistean returns to the weaver's house, finds the weaver under
+    the loom pouring blood, accuses him of the harm on the yellow knoll, kills him,
+    and the passage says no man was slain there afterward by the goat or bogle.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 3251-3254
+  quote_or_summary: The passage says the stories were heard from the speaker's mother
+    and names John Campbell of Strath Gairloch, Ross-shire.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 3255-3264
+  quote_or_summary: 'A nearly identical Gaelic version is mentioned: Alexander Macdonald
+    of Inverasdale is named as narrator; the goat is called a great hairy-bearded
+    goat, the dirk is called Catherine, and the weaver is found in bed with a thigh
+    wound before receiving a death thrust.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 3265-3288
+  quote_or_summary: The collector says these tales illustrate a popular creed about
+    spirits; he lists beings such as bocan, bodach, fuath, and gruagach, describes
+    them as close to mortal men, and says the tales mix natural and supernatural elements.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence is clear. Shapeshifter classification is plausible but
+    inferential because identity between goat and weaver is not directly stated. Broader
+    comparison claims rely on the passage's own editorial comments.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction separates the tale action from the variant note and collector commentary. Taxonomy references are used only where directly supported or cautiously inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l3232-l3288
+  passage_sha256=29e2347333f45663de4586c2cc2015bcb1b31fc484e1702f81022216429f10bc
+

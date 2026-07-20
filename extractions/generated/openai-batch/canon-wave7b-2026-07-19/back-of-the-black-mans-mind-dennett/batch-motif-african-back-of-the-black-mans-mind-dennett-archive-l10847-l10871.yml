@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.african-back-of-the-black-mans-mind-dennett-archive-l10847-l10871
+source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+passage_locator:
+  label: BINI  CUSTOMS / XIX  BINI  CUSTOMS  199 / ASABA. / XIX  BINI  CUSTOMS; lines
+    10847-10871
+  start: '10847'
+  end: '10871'
+  translation: At the Back of the Black Man's Mind; or, Notes on the Kingly Office
+    in West Africa
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes men seeking noble rank who attack others and risk
+    being killed themselves. Certain words spoken by an attacked person, and the noise
+    of a fleeing woman's chain and brass anklets, are described as life-saving. After
+    presenting the Oba with parts of seven or fourteen persons, the men receive coral
+    ornaments as a sign that they have become Okiason; Idun Ohogbi is named as their
+    chief and they live in Obayagbon's quarter.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Men called “braves” or aspirers to nobility attacked people and risked being
+    killed themselves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If an attacked man killed one of these attackers, he took possession of the
+    attacker's dried trophies and continued the killing process on his own account.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An attacked person who cried out the specified words was not to be killed
+    as a matter of honour.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The noise of chain and brass anklets as a woman ran away was described as
+    a life-saving sign.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The men presented the Oba with parts of seven or fourteen persons.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Oba gave the men coral necklaces, bracelets, and anklets as a sign that
+    they had become Okiason.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Idun Ohogbi was their chief, and they lived in Obayagbon's quarter.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: "“braves” / aspirers to nobility"
+  description: Men who attacked others, risked being killed, and could become Okiason
+    after presenting parts of seven or fourteen persons to the Oba.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: attacked person or man attacked
+  description: A person attacked by the aspirers; if he killed the attacker he took
+    the dried trophies, and if he cried out the specified words he was not to be killed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: woman running away
+  description: A woman whose chain and brass anklets made a noise while she ran away;
+    that noise is described as life-saving.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Oba
+  description: The ruler who received parts of seven or fourteen persons and gave
+    coral ornaments as the sign of Okiason status.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Idun Ohogbi
+  description: Named as the chief of the men who had become Okiason.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: attacker seeking noble rank
+  assigned_to:
+  - fig:1
+  basis: The passage calls them aspirers to nobility and describes them attacking
+    people while risking being killed.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: potentially spared target
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The attacked person may be spared by crying out the specified words, and
+    the woman's anklet noise is a life-saving sign.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: royal status-granter
+  assigned_to:
+  - fig:4
+  basis: The Oba gives coral ornaments as the sign that the men have become Okiason.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: chief
+  assigned_to:
+  - fig:5
+  basis: The passage states that Idun Ohogbi was their chief.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Okiason status holder
+  assigned_to:
+  - fig:1
+  basis: After presenting the required parts, the men receive coral ornaments as a
+    sign that they have become Okiason.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dried trophies and body parts
+  literal_form: dried trophies; parts of seven or fourteen persons
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: chain and brass anklets
+  literal_form: chain and brass anklets whose noise is a life-saving sign
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: coral regalia
+  literal_form: coral necklace, bracelets, and anklets
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: seven or fourteen persons
+  literal_form: the numbers seven and fourteen as the count of persons whose parts
+    are presented
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: attack, danger, and trophy transfer
+  summary: Aspirers to nobility attack others but risk being killed; if an attacked
+    man kills one of them, he takes the dried trophies and continues the killing process
+    himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: life-saving words and anklet noise
+  summary: An attacked person can avoid being killed by crying out the specified words;
+    the noise of a fleeing woman's chain and brass anklets also functions as a life-saving
+    sign.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: presentation to the Oba and Okiason status
+  summary: The men present parts of seven or fourteen persons to the Oba and receive
+    coral ornaments marking them as Okiason; Idun Ohogbi is their chief and they live
+    in Obayagbon's quarter.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dangerous acquisition of noble status through required killings and royal
+    regalia
+  taxonomy_refs:
+  - initiation
+  - royal_legitimacy
+  basis: The passage describes aspirers to nobility who become Okiason after presenting
+    parts of seven or fourteen persons to the Oba and receiving coral ornaments as
+    the sign of status.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage is an ethnographic description of a custom rather than a mythic
+    narrative; the taxonomy links are functional rather than explicit in the text.
+- id: motif:2
+  label: life-saving utterance and auditory sign
+  taxonomy_refs: []
+  basis: The attacked person's spoken formula and the noise of a fleeing woman's chain
+    and brass anklets are both described as preventing killing or saving life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the practical rule but does not explain a mythic origin
+    or wider symbolic system.
+- id: motif:3
+  label: defeated attacker’s trophies transfer to the defender
+  taxonomy_refs: []
+  basis: If the attacked man kills the attacker, he takes the dried trophies and continues
+    the killing process on his own account.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents this as a social custom; no wider comparative motif
+    is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10849-10855
+  quote_or_summary: "“Should one of these aspirers to the rank of nobility be killed
+    by the man attacked,” the latter takes “his dried trophies” and continues killing."
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 10857-10862
+  quote_or_summary: An attacked person who cried “Oged' egboma AYAN AKPWOKA WAW GAPOKAI”
+    was, “as a matter of honour,” not to be killed.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 10864-10866
+  quote_or_summary: "“The noise of chain and brass anklets as a woman ran away was
+    also a life-saving sign.”"
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 10868-10870
+  quote_or_summary: After presenting the Oba with “parts of seven or fourteen persons,”
+    the Oba gave coral ornaments as the sign they had become Okiason.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 10870-10871
+  quote_or_summary: "“Idun Ohogbi was their chief, and they lived in Obayagbon's quarter.”"
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the passage. Motif labels are cautious
+    because the passage is a brief ethnographic report and does not provide an internal
+    mythic interpretation. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs apply to the literal objects in this passage; comparison_claims are left empty because the passage itself does not make or support an explicit comparative claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-back-of-the-black-mans-mind-dennett-archive__l10847-l10871
+  passage_sha256=c3ae2e55a0bd095ad5b481390ba21da59bdc1e3a7319af6c26d0a856460bc210
+

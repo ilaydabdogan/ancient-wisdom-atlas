@@ -1,0 +1,445 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l29334-l29442
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: XI,  29.  PENANCES;    GIFTS   AND    SACRIFICES.  435 / LAWS   OF   MANU.
+    / XI,  49- / XT,  67.  CLASSIFICATION   OF    OFFENCES.  443; lines 29334-29442
+  start: '29334'
+  end: '29442'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage classifies various acts as offences causing loss of caste,
+    mixed-caste degradation, unworthiness to receive gifts, or impurity, then introduces
+    penances by which the offences may be expiated. It begins the penance for a Brahmana-slayer:
+    making and dwelling in a hut in the forest for purification.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The text lists acts such as executing great mechanical works, injuring living
+    plants, subsisting on a wife’s earnings, sorcery by sacrifices, and magic by roots
+    among offences in the classification.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cutting down green trees for firewood, acting only for one’s own advantage,
+    and eating prohibited food are listed as offences.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Neglecting to kindle the sacred fires, theft, non-payment of the three debts,
+    studying bad books, and practising dancing and singing are listed as offences.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Stealing grain, base metals, or cattle, intercourse with women who drink spirituous
+    liquor, slaying women, Sudras, Vaisyas, or Kshatriyas, and atheism are described
+    as minor offences causing loss of caste.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Giving pain to a Brahman, smelling forbidden things or spirituous liquor,
+    cheating, and an unnatural offence with a man are declared to cause loss of caste.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Killing specified animals, including a donkey, horse, camel, deer, elephant,
+    goat, sheep, fish, snake, and buffalo, is said to degrade the offender to a mixed
+    caste.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Accepting presents from blamed men, trading, serving Sudras, and speaking
+    falsehood make the offender unworthy to receive gifts.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Killing insects or birds, eating anything kept close to spirituous liquors,
+    and stealing fruit, firewood, or flowers are described as offences that make impure.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage states that penances can expiate the several offences mentioned.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: For purification, the slayer of a Brahmana is instructed to make a hut in
+    the forest and dwell in it.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: offender
+  description: A person whose listed acts produce consequences such as loss of caste,
+    mixed-caste degradation, unworthiness to receive gifts, or impurity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Brahman or Brahmana
+  description: A Brahman is a recipient of pain in one listed offence; a Brahmana
+    is the victim in the penance for a slayer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: fig:3
+  name_or_label: slayer of a Brahmana
+  description: The person who must make and dwell in a forest hut for purification.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:10
+- id: fig:4
+  name_or_label: blamed men
+  description: Persons from whom accepting presents is listed as an act making the
+    offender unworthy to receive gifts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: transgressor
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes persons who commit listed acts and receive ritual or
+    social consequences.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+- id: role:2
+  label: protected or harmed Brahmanical figure
+  assigned_to:
+  - fig:2
+  basis: Giving pain to a Brahman is classified as caste-loss offence, and slaying
+    a Brahmana requires purification.
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: role:3
+  label: penitent
+  assigned_to:
+  - fig:3
+  basis: The Brahmana-slayer performs a dwelling penance in a forest hut for purification.
+  evidence_refs:
+  - ev:10
+- id: role:4
+  label: prohibited gift source
+  assigned_to:
+  - fig:4
+  basis: Accepting presents from blamed men is listed as making the offender unworthy
+    to receive gifts.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sacred fires
+  literal_form: sacred fires that are to be kindled
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: green trees
+  literal_form: green trees cut down for firewood
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: snake
+  literal_form: a snake listed among animals whose killing degrades the offender
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: spirituous liquor
+  literal_form: spirituous liquor that is smelled, drunk by women mentioned in an
+    offence, or kept near food
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: sym:5
+  label: forest hut
+  literal_form: a hut made in the forest for the Brahmana-slayer’s purification penance
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: gifts and presents
+  literal_form: presents accepted from blamed men and gifts the offender becomes unworthy
+    to receive
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: classification of offences causing loss of caste
+  summary: Multiple acts, including theft, prohibited sexual conduct, slaying certain
+    human groups, atheism, giving pain to a Brahman, smelling forbidden things, cheating,
+    and an unnatural offence, are classified as causing loss of caste.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: degradation through killing animals
+  summary: Killing a list of animals is said to degrade the offender to a mixed caste.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: gift-worthiness and impurity offences
+  summary: Accepting presents from blamed men, trading, serving Sudras, and falsehood
+    make the offender unworthy to receive gifts; killing insects or birds and stealing
+    fruit, firewood, or flowers make impure.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: transition from offence classification to penance
+  summary: The text states that penances will be learned for expiating the offences
+    and begins with a purification practice for the Brahmana-slayer in a forest hut.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: ritual and natural offences
+  summary: The offence list includes sorcery by sacrifices, magic by roots, injuring
+    living plants, cutting green trees for firewood, and neglecting sacred fires.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual transgression and purification penance
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage classifies ritual and moral offences and explicitly introduces
+    penances by which they may be expiated, including a forest-dwelling purification
+    for a Brahmana-slayer. The taxonomy reference is limited to ritual/sacrificial
+    elements present in the passage, such as sorcery by sacrifices and neglect of
+    sacred fires.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage is legal-prescriptive rather than narrative myth; the taxonomy
+    reference 'sacrifice' is supported only by explicit sacrificial and sacred-fire
+    language, not by a full sacrificial myth.
+- id: motif:2
+  label: sacred exchange regulated by gift-worthiness and debts
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage treats non-payment of debts, accepting presents from blamed men,
+    and becoming unworthy to receive gifts as religiously significant offences or
+    consequences.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage concerns dharma-law classification, not a mythic exchange
+    episode; 'sacred_exchange' is a broad comparative label.
+- id: motif:3
+  label: caste loss and social-ritual degradation after transgression
+  taxonomy_refs: []
+  basis: Several offences are explicitly tied to loss of caste, degradation to a mixed
+    caste, impurity, or unworthiness to receive gifts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy family directly names caste loss or ritual degradation.
+- id: motif:4
+  label: forest withdrawal as penitential purification
+  taxonomy_refs: []
+  basis: For purification, the Brahmana-slayer must make a hut in the forest and dwell
+    in it.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: Only the beginning of the penance is present in this line range; the complete
+    practice may continue beyond the passage.
+comparison_claims:
+- id: claim:1
+  claim: The Brahmana-slayer penance is presented as part of a broader Dharmashastra/Dharmasutra
+    penance tradition, since the note cites parallel discussions in Apastamba, Gautama,
+    Vasishtha, Baudhayana, Vishnu, and Yajnavalkya.
+  claim_level: same_function
+  target: nearby Dharmasutra and Dharmashastra penance passages cited in the note
+    to Manu XI.73-87
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives citations but does not quote the parallel texts,
+    so the exact motif similarity cannot be verified from this excerpt alone.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 29345-29352
+  quote_or_summary: "“executing great mechanical works, injuring (living) plants,
+    subsisting on ... one's wife, sorcery (by means of sacrifices), and working (magic
+    by means of) roots”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 29354-29357
+  quote_or_summary: "“Cutting down green trees for firewood, doing acts for one's
+    own advantage only, eating prohibited food”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 29358-29361
+  quote_or_summary: "“Neglecting to kindle the sacred fires, theft, non-payment of
+    (the three) debts, studying bad books”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 29362-29380
+  quote_or_summary: Stealing grain, base metals, or cattle; intercourse with women
+    who drink liquor; slaying women, Sudras, Vaisyas, or Kshatriyas; and atheism are
+    named minor offences causing loss of caste.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 29381-29386
+  quote_or_summary: Giving pain to a Brahman, smelling forbidden things or spirituous
+    liquor, cheating, and an unnatural offence with a man are declared to cause loss
+    of caste.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 29387-29391
+  quote_or_summary: Killing a donkey, horse, camel, deer, elephant, goat, sheep, fish,
+    snake, or buffalo is said to degrade the offender to a mixed caste.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 29392-29395
+  quote_or_summary: "“Accepting presents from blamed men, trading, serving Sudras,
+    and speaking a falsehood” make the offender “unworthy to receive gifts.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: lines 29396-29400
+  quote_or_summary: Killing insects or birds, eating anything kept close to spirituous
+    liquors, and stealing fruit, firewood, or flowers are offences that make impure.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 29401-29403
+  quote_or_summary: "“Learn (now) completely those penances, by means of which all
+    the several offences mentioned (can) be expiated.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:10
+  type: quote
+  locator: lines 29404-29408
+  quote_or_summary: "“For his purification the slayer of a Brahmana shall make a hut
+    in the forest and dwell (in it)”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:11
+  type: citation
+  locator: lines 29420-29423
+  quote_or_summary: The note to verses 73-87 cites Apastamba, Gautama, Vasishtha,
+    Baudhayana, Vishnu, and Yajnavalkya passages as parallels for the penance material.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized citation note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear as a legal classification and penitential prescription.
+    Motif mapping is cautious because the excerpt is prescriptive dharma-law rather
+    than narrative mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied line range and metadata were used. Diacritics and transliterations follow the provided passage where possible; variant OCR spellings were not normalized beyond obvious English summaries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l29334-l29442
+  passage_sha256=80503a65d9a932fcbb3757efb2285e3bf4a7b5d09dbf5f5c37d6cb2cc502fba4
+

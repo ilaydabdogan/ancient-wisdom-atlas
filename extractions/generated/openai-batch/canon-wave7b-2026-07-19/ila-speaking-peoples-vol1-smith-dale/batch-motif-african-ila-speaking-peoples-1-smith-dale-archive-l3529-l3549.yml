@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l3529-l3549
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: 'REPAIRING THE IMPUMBE. / PHYSICAL CHARACTERISTICS / AFTER REPAIRING THE
+    IMPUMBE : SHAVING THE HEAD. / PHYSICAL CHARACTERISTICS; lines 3529-3549'
+  start: '3529'
+  end: '3549'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes hair and coiffure practices: a Bambala chief named
+    Mulungushi has a solid-looking mop of hair plastered with fat and ochre; a photo
+    caption identifies Chief Chibaluma as a mixed Ila and Luba type; other men, especially
+    around Nanzela, cut their hair short; and young men without an impumbe may clip
+    their hair into geometric patterns such as squares and triangles.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mulungushi is identified as another Bambala chief, and his coiffure is described
+    as a mop of hair plastered with fat and ochre.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Mulungushi's hair is solid in appearance.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage compares Mulungushi's coiffure visually to statues of ancient
+    Libyans found in Egypt.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A photo caption identifies Chief Chibaluma and labels him as a mixed Ila and
+    Luba type.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Other men are said to cut their hair short, and this is described as the usual
+    practice around Nanzela.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Where no impumbe is worn, young men often clip their hair into patterns, including
+    squares and triangles.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mulungushi
+  description: A Bambala chief whose coiffure is described as a mop of hair plastered
+    with fat and ochre and solid in appearance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Chief Chibaluma
+  description: A photographed chief captioned as a mixed Ila and Luba type.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Other men around Nanzela
+  description: Men described as having their hair cut short, a usual practice around
+    Nanzela.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Young men without an impumbe
+  description: Young men who, where no impumbe is worn, often clip their hair into
+    patterns such as squares and triangles.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Bambala chief with elaborated coiffure
+  assigned_to:
+  - fig:1
+  basis: The passage calls Mulungushi another Bambala chief and describes his coiffure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: chief and photographed subject
+  assigned_to:
+  - fig:2
+  basis: The caption names 'THE CHIEF CHIBALUMA' and describes him as a mixed Ila
+    and Luba type.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: men following short-hair practice around Nanzela
+  assigned_to:
+  - fig:3
+  basis: The passage says other men have their hair cut short, the usual practice
+    around Nanzela.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: young men with patterned clipped hair when no impumbe is worn
+  assigned_to:
+  - fig:4
+  basis: The passage states that where no impumbe is worn, young men clip their hair
+    into fantastic patterns.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: coiffure and hair treatment
+  literal_form: Mop of hair, short-cut hair, and clipped hair patterns
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: fat and ochre on hair
+  literal_form: Fat and ochre plastered onto Mulungushi's hair
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: impumbe
+  literal_form: An impumbe, referenced as something worn or not worn
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: geometric hair patterns
+  literal_form: Squares and triangles clipped into hair
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: ancient Libyan statues as visual analogue
+  literal_form: Statues of ancient Libyans found in Egypt, invoked as a resemblance
+    for Mulungushi's coiffure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Description of Mulungushi's coiffure
+  summary: The passage describes Mulungushi's hair as a fat-and-ochre-plastered mop
+    that appears solid and resembles ancient Libyan statues found in Egypt.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Photo caption for Chief Chibaluma
+  summary: A photo caption names Chief Chibaluma and identifies him as a mixed Ila
+    and Luba type.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hair practices around Nanzela and among young men without impumbe
+  summary: The passage notes short hair as common around Nanzela and says young men
+    without an impumbe may clip their hair into geometric patterns.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: elaborated coiffure as visual identity marker
+  taxonomy_refs: []
+  basis: 'The passage emphasizes distinct hair treatment: Mulungushi''s fat-and-ochre-plastered
+    coiffure, short hair around Nanzela, and patterned hair clipping among young men
+    without an impumbe.'
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic physical-description passage rather than a myth
+    narrative; no available mythic motif-family taxonomy reference is directly supported.
+- id: motif:2
+  label: geometric body adornment through hair clipping
+  taxonomy_refs: []
+  basis: The passage specifically notes young men clipping hair into patterns such
+    as squares and triangles where no impumbe is worn.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The symbolic or ritual meaning of the patterns is not explained in the
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Mulungushi's solid-looking coiffure as visually
+    resembling statues of ancient Libyans found in Egypt.
+  claim_level: visual_similarity
+  target: statues of ancient Libyans found in Egypt
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports only a visual resemblance; it does not support
+    historical contact, shared origin, or functional equivalence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3529-3549
+  quote_or_summary: '"coiffure of Mulungushi, another Bambala chief, whose mop of
+    hair, plastered with fat and ochre"'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source text; quotation kept short.
+- id: ev:2
+  type: quote
+  locator: lines 3529-3549
+  quote_or_summary: '"is solid in appearance and gives some resemblance to the statues
+    of ancient Libyans found in Egypt"'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source text; quotation kept short.
+- id: ev:3
+  type: quote
+  locator: lines 3529-3549
+  quote_or_summary: '"THE CHIEF CHIBALUMA. Mixed Ila and Luba Type."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source text; quotation kept short.
+- id: ev:4
+  type: quote
+  locator: lines 3529-3549
+  quote_or_summary: '"Other men have their hair cut short, and this is the usual practice
+    around Nanzela."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source text; quotation kept short.
+- id: ev:5
+  type: quote
+  locator: lines 3529-3549
+  quote_or_summary: '"Where no impumbe is worn, young men often clip their hair into
+    fantastic patterns, squares, triangles"'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source text; quotation kept short.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are treated as cultural
+    visual-pattern candidates, not as confirmed mythological motifs. The comparison
+    claim is explicit but limited to visual similarity.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif-family or symbol reference is directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l3529-l3549
+  passage_sha256=3c9996e87ebbde744b049b8a644728f6b2f5c8ad106df94c1a91f6e1a885c5af
+

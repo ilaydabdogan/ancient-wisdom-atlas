@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l7208-l7222
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: POT-MAKING (FIRST STAGE). / VARIOUS HANDICRAFTS / POT-MAKING (LATER STAGE).
+    / PREPARING TO BAKK THE POTS.; lines 7208-7222
+  start: '7208'
+  end: '7222'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the final preparation and firing of Ba-ila pots:
+    patterns are indented around the neck with a thumbnail and a bone or stick; the
+    pot is dried; dry pots are burnt in a dug hole under dry bark; ash is rubbed over
+    the neck patterns; glazing is reported as unknown to the observers.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female pot-maker indents patterns around the neck of the pot using her thumbnail
+    and a bit of bone or stick.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The decorated pot is set aside to dry.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When the pots are perfectly dry, they are burnt.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A hole is dug, and the pots are carefully piled and covered with strips of
+    dry bark.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One short burning is described as sufficient for firing the pots.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: White ash is rubbed over the patterns around the neck as a finishing touch.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The observers state that they had not seen anyone who knew how to glaze the
+    pots.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Ba-ila pots are said not to vary much in general pattern, differing mainly
+    in dimensions and size.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed female pot-maker
+  description: A woman engaged in decorating, drying, and preparing pots for firing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: observers
+  description: The narrating observers who report not having seen anyone who knew
+    how to glaze pots.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: pot-maker and decorator
+  assigned_to:
+  - fig:1
+  basis: The passage refers to a woman making the pot stand upright, indenting patterns,
+    drying the pot, and handling the finishing process.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: ethnographic observers
+  assigned_to:
+  - fig:2
+  basis: The narrating 'we' reports an observation about the absence of glazing knowledge
+    among people they had seen.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: pot
+  literal_form: clay pots prepared, dried, and burnt
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: neck patterns
+  literal_form: indented patterns around the neck of the pot
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: bone or stick tool
+  literal_form: a bit of bone or stick used with the thumbnail to indent patterns
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: firing or burning
+  literal_form: one short burning of dry pots in a dug hole covered with dry bark
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: white ash
+  literal_form: white ash rubbed over the patterns around the neck
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: dug hole
+  literal_form: a hole dug for piling and burning the pots
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: dry bark
+  literal_form: strips of dry bark covering the piled pots before burning
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Decoration and drying of the pot
+  summary: The pot-maker finishes the pot by helping it stand upright, indenting patterns
+    around its neck with a thumbnail and a bone or stick, and setting it aside to
+    dry.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Firing the dry pots
+  summary: After the pots dry completely, a hole is dug; the pots are piled, covered
+    with dry bark, and given a short burning.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ash finishing and note on glazing
+  summary: White ash is rubbed over the neck patterns as a finishing touch, and the
+    observers note that they have not seen anyone who knew how to glaze pots.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7208-7213
+  quote_or_summary: The pot-maker assists the pot to stand upright, indents patterns
+    around the neck with her thumbnail and a piece of bone or stick, and sets the
+    pot aside to dry.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7214-7217
+  quote_or_summary: When dry, the pots are burnt; a hole is dug, and the pots are
+    piled and covered with strips of dry bark.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7217-7219
+  quote_or_summary: A single short burning is sufficient, and white ash is rubbed
+    over the patterns around the neck as a finishing touch.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7219-7222
+  quote_or_summary: The observers report that they had not seen anyone who knew how
+    to glaze pots, and they state that Ba-ila pots vary little in general pattern,
+    chiefly in dimensions and size.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is a literal ethnographic description of pottery preparation
+    and firing. It supports material-culture objects, actions, and scenes, but does
+    not itself support mythological motif or comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythological motifs or comparison claims were extracted because the passage contains no explicit mythic, ritual, or comparative framing.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l7208-l7222
+  passage_sha256=803c8c76607c3910e95398902576f9d80ce430ce7c99e1be72da365f0803975a
+

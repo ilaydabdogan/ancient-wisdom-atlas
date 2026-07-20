@@ -1,0 +1,218 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l3427-l3477
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: CM CO / CM CM CM / CM IN CM / I. ACARIYAPAKAMPAHA.; lines 3427-3477
+  start: '3427'
+  end: '3477'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A tabular passage headed “Acariyapakampha” lists a numbered succession
+    of six priests or chiefs of Vinaya—Upali, Dasaka, Sonaka, Siggava, Moggaliputta,
+    and Mahinda—with chronological ranges and notes cross-referencing Dipavamsa and
+    Mahavamsa passages. A note discusses the interval between the ordinations of Moggaliputta
+    and Mahinda.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed “Acariyapakampha” and introduces a table with the labels
+    “Priest” and “Chief of Vinaya.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The table presents a numbered sequence of six named figures: Upali, Dasaka,
+    Sonaka, Siggava, Moggaliputta, and Mahinda.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Chronological ranges in A.B. and B.C. notation are associated with the listed
+    figures, though the printed layout is fragmentary in the supplied passage.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note states that the interval between the ordination of Moggaliputta and
+    that of Mahinda is given as sixty-six years, with a correction that sixty years
+    would be more accurate.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The notes cite several Dipavamsa and Mahavamsa passages in connection with
+    the listed chronology.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Upali
+  description: First named figure in the numbered Vinaya succession table.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dasaka
+  description: Second named figure in the numbered Vinaya succession table.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sonaka
+  description: Third named figure in the numbered Vinaya succession table.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Siggava
+  description: Fourth named figure in the numbered Vinaya succession table.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Moggaliputta
+  description: Fifth named figure in the numbered Vinaya succession table; also named
+    in a note about ordination chronology.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:6
+  name_or_label: Mahinda
+  description: Sixth named figure in the numbered Vinaya succession table; also named
+    in a note about ordination chronology.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: Vinaya succession figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage places the six names in a numbered table under the labels “Priest”
+    and “Chief of Vinaya.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Ordination chronology figure
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The note explicitly discusses the time between the ordination of Moggaliputta
+    and that of Mahinda.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Tabular succession of Vinaya chiefs
+  summary: The passage presents a numbered list of six named priests or chiefs of
+    Vinaya with associated chronological ranges.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Chronological note on ordinations
+  summary: A note comments on the interval between the ordinations of Moggaliputta
+    and Mahinda and cites related chronicle passages.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Religious teacher succession or authority lineage
+  taxonomy_refs: []
+  basis: The passage organizes named figures in a numbered sequence under “Priest”
+    and “Chief of Vinaya,” presenting a chain of religious authority with dates.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is tabular and chronological rather than narrative myth; the
+    supplied taxonomy has no exact lineage-transmission motif.
+comparison_claims:
+- id: claim:1
+  claim: The notes relate the Vinaya succession chronology to nearby Buddhist chronicle
+    material by citing Dipavamsa and Mahavamsa passages.
+  claim_level: same_function
+  target: Dipavamsa and Mahavamsa chronicle passages cited in the notes
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Only bibliographic cross-references are present in the supplied passage;
+    the cited passages themselves are not included, so no stronger motif-level comparison
+    can be made.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3427-3446
+  quote_or_summary: The section heading is “Acariyapakampha”; a table labeled “Priest”
+    and “Chief of Vinaya” lists Upali, Dasaka, Sonaka, Siggava, Moggaliputta, and
+    Mahinda in numbered order.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3447-3459
+  quote_or_summary: The table gives chronological ranges in A.B. notation and corresponding
+    B.C. ranges for the listed figures, though the supplied layout is fragmented.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 3460-3476
+  quote_or_summary: "“The time between the ordination of Moggaliputta and that of
+    Mahinda is here stated to be sixty-six years.” Notes also cite Dipavamsa and Mahavamsa
+    passages."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Named figures and tabular sequence are clear, but the passage is a fragmented
+    chronological table with limited narrative content. Motif identification is therefore
+    cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the provided symbol taxonomy are explicitly present in the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l3427-l3477
+  passage_sha256=c307db374603c5bd8f4320cd7d8be8d9950771183fe939a1721b2e9e216e140f
+

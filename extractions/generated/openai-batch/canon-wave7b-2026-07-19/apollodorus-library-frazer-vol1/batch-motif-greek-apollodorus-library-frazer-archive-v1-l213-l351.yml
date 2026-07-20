@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.greek-apollodorus-library-frazer-archive-v1-l213-l351
+source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+passage_locator:
+  label: The Library, Volume I (Apollodorus), with an English Translation by James
+    George Frazer; lines 213-351
+  start: '213'
+  end: '351'
+  translation: The Library, Volume I (Apollodorus), with an English Translation by
+    James George Frazer
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a scholarly discussion of the date, authorship, reception,
+    and style of the Library attributed to Apollodorus. It emphasizes that the author
+    does not mention Roman claims to Trojan descent, surveys later writers who quote
+    him, weighs external and internal evidence for dating the work, and notes uncertainty
+    about whether the author’s name was truly Apollodorus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the author of the Library appears to abstain from mentioning
+    Roman claims to Trojan descent, even though such claims would have been relevant
+    to the scope of his work.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage presents this omission as difficult to reconcile with the view
+    that the author wrote as a citizen of the Roman Empire.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the omission would be more intelligible if the author wrote
+    when Rome was still mainly an Italian power and before Roman presence was visible
+    in the Aegean.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note states that Roman writers used the term Trotugenae for old Roman nobility
+    or Romans, supporting the statement that Romans claimed Trojan descent.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Apollodorus was apparently ignored for many generations,
+    with Photius named as the first known writer to quote him and John and Isaac Tzetzes
+    as later Byzantine grammarians who often cite him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says scholiasts on Homer, Sophocles, and Euripides quote the author,
+    and that passages of his work were interpolated into Zenobius’s collection of
+    proverbs.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says external evidence permits a wide possible date range from
+    the middle of the first century B.C. to the beginning of the ninth century A.D.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says internal evidence from language inclines the editor to place
+    the work nearer the earlier part of that date range.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage characterizes the author’s Greek style as generally pure, clear,
+    simple, and unaffected, though not elegant and sometimes burdened by participles.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage reports modern scholarly proposals for dating the Library and
+    concludes that it was probably written in the first or second century of the era.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage says it cannot be decided whether the author’s name was really
+    Apollodorus or whether that name was later attached by scribal error or fraud.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: author of the Library / Apollodorus
+  description: The attributed or uncertain author of the Library, discussed as omitting
+    Roman claims to Trojan descent and as having a generally clear Greek style.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Romans
+  description: The group said to have set up claims to Trojan descent; Roman writers
+    are cited as using a Trojan-derived term for Romans or Roman nobility.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Photius
+  description: Named as the first known writer to quote Apollodorus, in the ninth
+    century A.D.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: John and Isaac Tzetzes
+  description: Twelfth-century Byzantine grammarians said to have made much use of
+    the Library and often cited its author by name.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: scholiasts on Homer, Sophocles, and Euripides
+  description: Unnamed scholia writers said to name and quote the author.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Zenobius
+  description: Compiler of a collection of proverbs into which many passages of the
+    Library were said to have been interpolated.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: C. Robert
+  description: Modern scholar reported as inclining to date the Library to the time
+    of Hadrian.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: W. Christ
+  description: Modern scholar reported as suggesting a date in the reign of Alexander
+    Severus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: omitter of Roman Trojan descent claims
+  assigned_to:
+  - fig:1
+  basis: The passage says the author carefully abstained from noticing Roman claims
+    to Trojan descent.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: claimants of Trojan descent
+  assigned_to:
+  - fig:2
+  basis: The passage says Romans set up claims to Trojan descent and cites Roman usage
+    of Trotugenae.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: later quoters or transmitters of the Library
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage lists later writers or compilers who quoted, cited, or incorporated
+    material from the Library.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: uncertainly named author
+  assigned_to:
+  - fig:1
+  basis: The passage says there is no means of deciding whether the author’s name
+    was really Apollodorus.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: modern dating authorities
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage reports their proposed dates for the composition of the Library.
+  evidence_refs:
+  - ev:8
+symbols: []
+scenes:
+- id: scene:1
+  label: Omission of Roman Trojan descent claims
+  summary: The passage argues that the Library’s author does not mention Roman claims
+    to Trojan descent and considers what this omission may imply about the date and
+    setting of composition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Reception history of the Library
+  summary: The passage lists later Byzantine and scholia witnesses who quote, cite,
+    or incorporate material from the Library.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Dating and authorship assessment
+  summary: The passage weighs external and internal evidence, reports modern scholarly
+    datings, characterizes the author’s style, and states uncertainty about the author’s
+    true name.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: claimed Trojan ancestry as collective or elite identity
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage says Romans set up claims to Trojan descent, and a note cites
+    Roman literary usage in which Trotugenae refers to old Roman nobility or Romans
+    generally.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage discusses a scholarly omission and supporting literary usage,
+    not a full mythic genealogy or ritual context.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison between Roman claims
+    to Trojan descent and the broader motif family of legitimacy or identity grounded
+    in heroic ancestry.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence is indirect and comes from Frazer’s introductory argument
+    and footnote, not from a narrated mythic episode in the Library itself.
+- id: claim:2
+  claim: The footnote provides a limited linguistic comparison in which Roman authors
+    use Trotugenae as a term equivalent to old Roman nobility or Romans, aligning
+    with the stated claim of Trojan descent.
+  claim_level: linguistic_similarity
+  target: Roman literary usage of Trotugenae in Juvenal and Silius Italicus
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a lexical observation within Roman literary citation and does
+    not by itself establish a narrative motif beyond the descent claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 213-230
+  quote_or_summary: The passage says the author must have known Roman claims to Trojan
+    descent if he wrote under the Roman Empire, yet carefully abstained from noticing
+    those claims despite their relevance to the work.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 230-239
+  quote_or_summary: The passage says the omission would be intelligible if the author
+    wrote when Rome was still a purely Italian power, before rumors of wars crossed
+    the Adriatic and before Roman sails appeared in the Aegean.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 251-255
+  quote_or_summary: A footnote says Juvenal repeatedly calls old Roman nobility Trotugenae
+    and that Silius Italicus uses the same term as equivalent to Romans.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 240-249
+  quote_or_summary: The passage says Apollodorus was apparently ignored for many generations;
+    Photius in the ninth century A.D. is the first known writer to quote him, followed
+    by John and Isaac Tzetzes in the twelfth century.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 256-267
+  quote_or_summary: The passage says scholiasts on Homer, Sophocles, and Euripides
+    name and quote the author, and that many passages of his work were interpolated
+    into Zenobius’s collection of proverbs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 268-285
+  quote_or_summary: The passage says external evidence allows a date between the middle
+    of the first century B.C. and the beginning of the ninth century A.D., while internal
+    evidence from language points nearer the earlier end.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 286-326
+  quote_or_summary: The passage discusses linguistic features and concludes that Apollodorus’s
+    style is generally pure, clear, simple, and unaffected, though not elegant and
+    sometimes clogged by participles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 327-340
+  quote_or_summary: The passage reports C. Robert’s inclination to date the author
+    to Hadrian’s time, W. Christ’s later proposed date under Alexander Severus, and
+    Frazer’s conclusion that the work was probably written in the first or second
+    century A.D.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 341-351
+  quote_or_summary: The passage says there is no means of deciding whether the author’s
+    name was really Apollodorus or whether it was attached through error or fraud
+    by scribes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly a scholarly introduction rather than a mythic narrative.
+    Motif extraction is therefore limited to the explicitly mentioned Roman claim
+    of Trojan descent and its function as identity or legitimacy evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No standalone mythic scene is narrated in this excerpt. Brief references to the Cretan labyrinth and Typhon in footnotes were not extracted as motifs because the provided passage gives insufficient detail.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:greek-apollodorus-library-frazer-archive-v1__l213-l351
+  passage_sha256=05bfbf0bb21017cb3ebabed2a19ddf21bf822c4da0ef951943398fb37a39dd2b
+

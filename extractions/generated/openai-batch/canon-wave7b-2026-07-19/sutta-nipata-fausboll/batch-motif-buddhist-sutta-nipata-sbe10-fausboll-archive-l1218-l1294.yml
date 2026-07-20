@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.buddhist-sutta-nipata-sbe10-fausboll-archive-l1218-l1294
+source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+passage_locator:
+  label: INTRODUCTION. XXXII / XXXIV DHAMMAPADA. / DATE OF THE BUDDHIST CANON. / XXXVI
+    DHAMMAPADA.; lines 1218-1294
+  start: '1218'
+  end: '1294'
+  translation: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is an introductory bibliographic/canonical enumeration of
+    the Sutta-pitaka: it lists the Digha-, Magghima-, Samyutta-, Anguttara-, and Khuddaka-nikayas,
+    then names divisions of the Khuddaka-nikaya such as the Dhammapada, Udana, Itivuttaka,
+    Suttanipata, Vimanavatthu, Petavatthu, Theragatha, Therigatha, Gataka, and Niddesa.
+    Notes discuss publication, translation, and differing canonical classifications.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage lists the Sutta-pitaka as consisting of five nikaya collections:
+    long, middle, joined, miscellaneous, and short suttas.'
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Khuddaka-nikaya is described as a collection of short suttas and is followed
+    by a list of named component texts.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Itivuttaka is described as stories referring to sayings of Buddha.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Vimanavatthu is described as stories of Vimanas, celestial palaces.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Petavatthu is described as stories of Pretas, departed spirits.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Gataka is described as former births and is quantified as 550 tales.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Niddesa is described as explanations of certain suttas by Sariputta.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A note states that professors associated with different nikayas classified
+    the Khuddakagantha differently within the canon.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Buddha
+  description: Named as the source of sayings to which stories in the Itivuttaka refer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Sariputta
+  description: Named as the person by whom the Niddesa gives explanations of certain
+    suttas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Pretas
+  description: Departed spirits named as the subject of Petavatthu stories.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: source of sayings
+  assigned_to:
+  - fig:1
+  basis: The Itivuttaka is described as stories referring to sayings of Buddha.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: explainer of suttas
+  assigned_to:
+  - fig:2
+  basis: The Niddesa is described as explanations of certain suttas by Sariputta.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: departed spirits in named story collection
+  assigned_to:
+  - fig:3
+  basis: The Petavatthu is described as stories of Pretas, departed spirits.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: celestial palaces
+  literal_form: Vimanas, celestial palaces
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: departed spirits
+  literal_form: Pretas, departed spirits
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: former births
+  literal_form: former births, 550 tales
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Canonical enumeration of the Sutta-pitaka
+  summary: The passage enumerates the five nikayas of the Sutta-pitaka and then lists
+    the divisions of the Khuddaka-nikaya with brief descriptions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:2
+  label: Notes on canonical classification and publication
+  summary: The notes cite modern editions and translations and describe differing
+    claims about whether the Khuddakagantha belongs within the Abhidhamma or the Suttapitaka.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: former-birth tale cycle
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage identifies the Gataka as a collection concerning former births
+    and gives its size as 550 tales.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage only names and categorizes the collection; it does not narrate
+    an individual rebirth episode.
+- id: motif:2
+  label: departed spirits in story collection
+  taxonomy_refs: []
+  basis: The passage identifies the Petavatthu as stories of Pretas, departed spirits.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage provides only a collection title and gloss; it does not describe
+    an afterlife journey, judgment, or specific spirit narrative.
+- id: motif:3
+  label: celestial palace stories
+  taxonomy_refs: []
+  basis: The passage identifies the Vimanavatthu as stories of Vimanas, celestial
+    palaces.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage provides only a brief gloss and no narrative function for
+    the celestial palaces.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1218-1231
+  quote_or_summary: 'The Sutta-pitaka is listed with five collections: Digha-nikaya,
+    Magghima-nikaya, Samyutta-nikaya, Anguttara-nikaya, and Khuddaka-nikaya.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1230-1249
+  quote_or_summary: The Khuddaka-nikaya is presented as a collection of short suttas,
+    followed by component titles including Khuddakapatha, Dhammapada, Udana, Itivuttaka,
+    Suttanipata, Vimanavatthu, Petavatthu, Theragatha, Therigatha, Gataka, and Niddesa.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1238-1239
+  quote_or_summary: '"Itivuttaka, stories referring to sayings of Buddha."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 1242-1243
+  quote_or_summary: '"Vimanavatthu, stories of Vimanas, celestial palaces."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 1244-1245
+  quote_or_summary: '"Petavatthu, stories of Pretas, departed spirits."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 1248-1249
+  quote_or_summary: '"Gataka, former births (550 tales)"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 1250-1251
+  quote_or_summary: '"Niddesa, explanations of certain suttas by Sariputta."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: summary
+  locator: lines 1264-1276
+  quote_or_summary: A note states that the first four collections are sometimes called
+    the Four Nikayas and that the five together are the Five Nikayas; another note
+    reports differing classifications of the Khuddakagantha by Dighanikaya and Magghimanikaya
+    professors.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1255-1294
+  quote_or_summary: The passage includes publication and translation notes naming
+    editions or translations by Childers, Rhys Davids, Grimblot, Fausboll, and Sir
+    Coomara Swamy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is largely introductory and bibliographic rather than narrative.
+    Motif candidates are limited to named collection subjects such as former births,
+    departed spirits, and celestial palaces; no full mythic episode is described.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison beyond internal canonical classification.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-sutta-nipata-sbe10-fausboll-archive__l1218-l1294
+  passage_sha256=b4be68d644518fd9b02179dd1c6328ed36dfc3842868e4af6a54315600f6bd4b
+

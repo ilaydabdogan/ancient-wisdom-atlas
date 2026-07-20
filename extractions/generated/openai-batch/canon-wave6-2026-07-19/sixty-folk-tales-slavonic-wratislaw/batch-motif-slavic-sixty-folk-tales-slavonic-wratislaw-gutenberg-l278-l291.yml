@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l278-l291
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: KASHUBIAN STORY                                                  101 / POLISH
+    STORIES                                                   107 / WHITE RUSSIAN
+    STORIES                                            131 / LITTLE RUSSIAN STORIES
+    FROM GALICIA                              142; lines 278-291
+  start: '278'
+  end: '291'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A table-of-contents segment introduces the section “Little Russian Stories
+    from Galicia” and lists four tale entries: “God Knows how to Punish Man,” “The
+    Good Children,” “The Devil and the Gipsy,” and “God and the Devil,” with original-language
+    titles, collectors or sources, and page references.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies a collection subsection titled “Little Russian Stories
+    from Galicia.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Entry XXIV is titled “God Knows how to Punish Man” and includes an original-language
+    parenthetical title, a source attribution to M. Tyemyak in the “Vyenok,” and a
+    page reference.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Entry XXV is titled “The Good Children” and includes an original-language
+    parenthetical title, a source attribution to Ja. Balagur in the “Vyenok,” and
+    a page reference.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Entry XXVI is titled “The Devil and the Gipsy” and includes an original-language
+    parenthetical title, a source attribution to Ja. Balagur in the “Vyenok,” and
+    a page reference.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Entry XXVII is titled “God and the Devil” and includes an original-language
+    parenthetical title, an attribution to P. A. Lavrovski, and a page reference.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Named in the titles “God Knows how to Punish Man” and “God and the
+    Devil.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Man
+  description: Named as the object of punishment in the title “God Knows how to Punish
+    Man.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Good Children
+  description: Collective figure named in the title “The Good Children.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Devil
+  description: Named in the titles “The Devil and the Gipsy” and “God and the Devil.”
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Gipsy
+  description: Human figure or group named in the historical title “The Devil and
+    the Gipsy.”
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine figure named in title
+  assigned_to:
+  - fig:1
+  basis: The title entries name God directly.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: knower of how to punish man
+  assigned_to:
+  - fig:1
+  basis: The title “God Knows how to Punish Man” attributes knowledge of punishment
+    to God.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: human object of punishment in title
+  assigned_to:
+  - fig:2
+  basis: The title refers to God knowing how to punish man.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: morally described children
+  assigned_to:
+  - fig:3
+  basis: The title describes the children as “Good.”
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: diabolic figure named in title
+  assigned_to:
+  - fig:4
+  basis: The title entries name the Devil directly.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: human figure or group named in title
+  assigned_to:
+  - fig:5
+  basis: The title “The Devil and the Gipsy” names this figure or group alongside
+    the Devil.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Divine punishment of man
+  taxonomy_refs:
+  - divine_judgment
+  basis: The tale title “God Knows how to Punish Man” explicitly links God with punishing
+    man.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a table-of-contents entry only; it gives no narrative episode
+    or details of the punishment.
+- id: motif:2
+  label: God and Devil pairing
+  taxonomy_refs:
+  - duality
+  basis: The tale title “God and the Devil” pairs God with the Devil.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage provides only a title; it does not state the nature of the
+    relationship, conflict, or cooperation between the figures.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 278
+  quote_or_summary: "“LITTLE RUSSIAN STORIES FROM GALICIA”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:2
+  type: quote
+  locator: lines 280-282
+  quote_or_summary: "“XXIV. God Knows how to Punish Man (_Bôg znae, chim cholovyeka
+    karati mae_). M. Tyemyak in the 'Vyenok,' ii. 332 143”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:3
+  type: quote
+  locator: lines 284-285
+  quote_or_summary: "“XXV. The Good Children (_Dobri dyeti_). Ja. Balagur, in the
+    'Vyenok,' ii. 338 146”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:4
+  type: quote
+  locator: lines 287-288
+  quote_or_summary: "“XXVI. The Devil and the Gipsy (_Chort i Tsigan_). Ja. Balagur,
+    in the 'Vyenok,' ii. 370 150”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:5
+  type: quote
+  locator: lines 290-291
+  quote_or_summary: "“XXVII. God and the Devil (_Bôg i Chort_). P. A. Lavrovski 153”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain according to supplied source metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction of titles and named figures is straightforward, but motif identification
+    is limited because the passage is only a table of contents and contains no narrative
+    plot.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes or eligible symbols are present in the supplied passage. The term “Gipsy” is retained only as part of the historical title supplied in the source passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l278-l291
+  passage_sha256=b78e3450eee5f077cbc0c0d61c7176d314579111c655adce6538a10fe76cf4cb
+

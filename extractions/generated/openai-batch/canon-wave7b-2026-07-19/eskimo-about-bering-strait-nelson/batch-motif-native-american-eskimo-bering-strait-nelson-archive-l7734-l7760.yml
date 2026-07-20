@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l7734-l7760
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THREAD    AND    CORD    MAKING    IMPLEMENTS    (THREE-TENTHS) / BF  TEK
+    / THE    ESKIMO    ABOUT    BERING    STRAIT / SKIN  DRESSING; lines 7734-7760
+  start: '7734'
+  end: '7760'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes skin-dressing practices among the Eskimo about Bering
+    Strait, including a gendered division of work for large and small animal skins
+    and a procedure for scraping, souring, dehairing, stretching, drying, and folding
+    sealskins and walrus hides.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Men are described as customarily dressing skins of large animals, while women
+    prepare skins of smaller creatures and sometimes assist with larger skins.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Large-animal skins listed include reindeer, wolves, wolverines, bears, seals,
+    and walrus; smaller-creature skins listed include fawns, hares, muskrats, marmots,
+    and waterfowl.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sealskins and walrus hides are first scraped to remove adhering flesh and
+    fat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After scraping, the hides are rolled hair-side inward and kept in the house
+    or kashim until they sour and the hair loosens.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Small sealskins are sometimes dipped in hot water to hasten loosening of the
+    hair.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hair is scraped off, and the skin is stretched on a wooden driftwood frame
+    with stout cords passed through edge slits and over the side bars.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The stretched skins are scraped again and placed outside the house to dry.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After drying, the skins are removed from frames and folded into compact flat
+    oblong packages for carrying or storing.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The accompanying caption identifies figure 32 as a stretched sealskin.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eskimo men
+  description: Men are said to customarily dress skins of large animals, including
+    reindeer, wolves, wolverines, bears, seals, and walrus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Eskimo women
+  description: Women are said to prepare skins of smaller creatures and sometimes
+    assist men with larger skins.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: large-animal skin dresser
+  assigned_to:
+  - fig:1
+  basis: The passage states that men customarily dress the skins of large animals.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: small-creature skin preparer
+  assigned_to:
+  - fig:2
+  basis: The passage states that women prepare skins of smaller creatures.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: assistant in large-skin preparation
+  assigned_to:
+  - fig:2
+  basis: The passage states that women sometimes assist men in preparing larger skins.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: animal skins and hides
+  literal_form: Skins of large and small animals; specifically sealskins and walrus
+    hides in the dressing procedure.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wooden stretching frame
+  literal_form: A frame made from driftwood sticks used to stretch the skin.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: stout cords
+  literal_form: Cords passed through slits around the skin edges and over the side
+    bars of the frame.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: house or kashim
+  literal_form: Indoor places where rolled hides are kept until sour and loosened.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: hot water
+  literal_form: Hot water used sometimes to loosen hair from small sealskins.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: flat oblong packages
+  literal_form: Dried skins folded compactly for carrying or storing.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: stretched sealskin
+  literal_form: The object identified in figure 32.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Gendered skin-dressing responsibilities
+  summary: The passage assigns large-animal skin dressing mainly to men and smaller-creature
+    skin preparation to women, with women sometimes assisting on larger skins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sealskin and walrus-hide dressing process
+  summary: Hides are scraped, rolled hair-side inward, kept indoors until sour, dehaired,
+    stretched on a driftwood frame with cords, scraped again, dried outside, and folded
+    for transport or storage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Stretched sealskin illustration
+  summary: The caption identifies figure 32 as a stretched sealskin.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: gendered division of hide-working labor
+  taxonomy_refs: []
+  basis: The passage explicitly differentiates men’s and women’s customary roles in
+    preparing large and smaller animal skins.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic material-culture pattern, not a mythic narrative
+    motif.
+- id: motif:2
+  label: hide transformation through staged preparation
+  taxonomy_refs: []
+  basis: The passage gives a repeated sequence by which raw hides are scraped, soured,
+    dehaired, stretched, dried, and folded into usable stored form.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a technical craft procedure; no ritual or symbolic
+    interpretation is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7734-7742
+  quote_or_summary: Men customarily dress skins of large animals; women prepare skins
+    of smaller creatures and sometimes assist with larger skins.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 7743-7749
+  quote_or_summary: Sealskins and walrus hides are scraped clean, rolled hair-side
+    inward, and kept in a house or kashim until souring loosens the hair.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 7749-7751
+  quote_or_summary: Small sealskins may be dipped in hot water to hasten hair loosening.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 7751-7756
+  quote_or_summary: The hair is scraped off, and the skin is stretched on a driftwood-stick
+    frame by cords through edge slits and over side bars.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 7756-7759
+  quote_or_summary: The skins are scraped again, dried outside, removed from frames,
+    and folded into flat oblong packages for carrying or storage.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: '7760'
+  quote_or_summary: FIG. 32— Stretched sealskin.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short caption quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal craft procedure is clear. Motif candidates are limited to non-mythic
+    ethnographic patterns. No comparison claims are made because the passage does
+    not itself support cross-textual or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic narrative, ritual explanation, or explicit comparative claim appears in the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l7734-l7760
+  passage_sha256=57d3354f409fdcf61b402878a93092131f2619ec3fa5177ca56e531833926465
+

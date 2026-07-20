@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l596-l624
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: YESTERNIGHT I WALKED ABROAD / ANONYMOUS / VAHAGN, KING OF ARMENIA / MOSES
+    OF KHORENE; lines 596-624
+  start: '596'
+  end: '624'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“From the mouth of the reed issued flame. / And out of the flame sprang
+    the young child.”"
+  summary: 'The passage reports a legend of Vahagn, king of Armenia: heaven, earth,
+    crimson waters, and a crimson reed are in travail; smoke and flame issue from
+    the reed; a fiery child emerges. The text also reports that songs tell of Vahagn
+    defeating dragons, that some compare his deeds to Hercules, and that others call
+    him a god worshipped through an image and sacrifices in Georgia.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies Vahagn as king of Armenia and introduces legends about
+    his birth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Heaven, earth, crimson waters, and a crimson reed are described as being in
+    travail.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Smoke and flame issue from the mouth of the reed, and a young child springs
+    out of the flame.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The child is described with hair of fire, a beard of flame, and eyes that
+    are suns.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator reports hearing the birth words sung with harp accompaniment.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says songs also tell that Vahagn fought dragons and overcame them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Some people say Vahagn's valiant deeds were like those of Hercules.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Others declare that Vahagn was a god and that a great image of him in Georgia
+    was worshipped with sacrifices.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vahagn
+  description: King of Armenia whose legendary birth from flame is described; later
+    said to fight and overcome dragons, to be compared by some with Hercules, and
+    to be declared by others a god with a worshipped image.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: dragons
+  description: Beings that Vahagn is said to have fought and overcome.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Hercules
+  description: Named as the figure whose valiant deeds some compare to Vahagn's deeds.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: royal birth subject
+  assigned_to:
+  - fig:1
+  basis: The passage names Vahagn as king of Armenia and says the legends concern
+    the birth of this king.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fire-born child
+  assigned_to:
+  - fig:1
+  basis: A young child springs from the flame and is described with fiery and solar
+    features.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dragon victor
+  assigned_to:
+  - fig:1
+  basis: Songs say he fought dragons and overcame them.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: defeated adversaries
+  assigned_to:
+  - fig:2
+  basis: The dragons are the beings Vahagn fights and overcomes.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: declared god and cult recipient
+  assigned_to:
+  - fig:1
+  basis: Others declare that he was a god and that his image was worshipped with sacrifices.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: heroic comparator
+  assigned_to:
+  - fig:3
+  basis: Hercules is named as the figure to whom some compare Vahagn's valiant deeds.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cosmic travail
+  literal_form: heaven and earth in travail
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: crimson waters
+  literal_form: crimson waters in travail
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: crimson reed
+  literal_form: crimson reed in the water, also in travail
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fire birth
+  literal_form: smoke and flame issuing from the reed; child springing from flame;
+    hair and beard of fire/flame
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: solar eyes
+  literal_form: eyes were suns
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: dragons
+  literal_form: dragons fought and overcome by Vahagn
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: harp-accompanied song
+  literal_form: words sung to the accompaniment of the harp
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: cult image and sacrifices
+  literal_form: great image of Vahagn in Georgia worshipped with sacrifices
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cosmic and fiery birth of Vahagn
+  summary: Cosmic elements and a reed are in travail; smoke and flame come from the
+    reed, and the child Vahagn springs from the flame with fiery and solar features.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Harp-accompanied transmission
+  summary: The narrator says the birth words were heard sung with harp accompaniment.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Vahagn overcomes dragons
+  summary: Songs say Vahagn fought dragons and overcame them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Heroic comparison and divine cult report
+  summary: Some compare Vahagn's deeds to those of Hercules, while others declare
+    him a god and report a worshipped image with sacrifices in Georgia.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacred fiery birth of a royal child
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: The legend concerns the birth of a king; a child springs from flame after
+    cosmic elements and a reed are in travail, and the child has fiery and solar features.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not identify parents or explain the full theological
+    meaning of the birth.
+- id: motif:2
+  label: elemental cosmic birth setting
+  taxonomy_refs:
+  - sacred_birth
+  basis: Heaven, earth, waters, and a reed are all described as being in travail before
+    the child's emergence.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a compressed poetic birth formula rather than an extended
+    cosmogony.
+- id: motif:3
+  label: hero defeats dragons
+  taxonomy_refs:
+  - serpent
+  basis: Songs say Vahagn fought dragons and overcame them.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy has 'serpent' rather than a separate dragon-combat
+    category; the passage says dragons, not serpents.
+- id: motif:4
+  label: deified heroic figure with image and sacrifices
+  taxonomy_refs:
+  - sacrifice
+  basis: Others declare that Vahagn was a god and that a great image of him in Georgia
+    was worshipped with sacrifices.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The report is attributed to 'others' and gives no ritual details beyond
+    image worship and sacrifices.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports that some people compared Vahagn's valiant deeds
+    to those of Hercules.
+  claim_level: same_function
+  target: Hercules
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific deed of Hercules is named, and the passage does not claim
+    historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 596-604
+  quote_or_summary: The passage is headed 'Vahagn, King of Armenia' and introduces
+    legends concerning the birth of this king.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:2
+  type: summary
+  locator: lines 606-614
+  quote_or_summary: Heaven, earth, crimson waters, and a crimson reed are in travail;
+    smoke and flame issue from the reed; the young child springs from the flame and
+    has hair of fire, a beard of flame, and eyes that are suns.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 616-618
+  quote_or_summary: The narrator says these words were heard sung to the accompaniment
+    of the harp.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:4
+  type: quote
+  locator: lines 618-620
+  quote_or_summary: They sing that Vahagn 'did fight with the dragons, and overcame
+    them.'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:5
+  type: summary
+  locator: lines 620-621
+  quote_or_summary: Some say Vahagn's valiant deeds were like those of Hercules.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:6
+  type: summary
+  locator: lines 621-624
+  quote_or_summary: Others declare Vahagn was a god and that a great image of him
+    stood in Georgia, where it was worshipped with sacrifices.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; source metadata permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and explicit for birth, dragon combat, and cult report.
+    Motif taxonomy mapping is partly approximate, especially for dragons under the
+    available 'serpent' family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Line locators follow the provided stable passage range.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l596-l624
+  passage_sha256=dc4d513d5533f3d282fc611b8a02235e454624195811737e398ac759b43ffa20
+

@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l10084-l10175
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: MAC-A-RUSGAICH. 325 / MAC-A-RUSGAICH. 327 / MAC-A-RUSGAICH. 329 / SIAC-A-RUSGAICII.
+    331; lines 10084-10175
+  start: '10084'
+  end: '10175'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Mac-a-Rusgaich accepts eating, drinking, and stone-throwing contests with
+    a giant. He hides a leather bag under his shirt, puts food and drink into it,
+    then cuts the bag open to make room and throw the stone. The giant imitates the
+    apparent act by stabbing his own belly, dies, and Mac-a-Rusgaich takes gold and
+    silver from the giant's house.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mac-a-Rusgaich gets a leathern bag, places it between his shirt and skin,
+    and returns to the giant for the eating contest.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During the bread-and-cheese contest, Mac-a-Rusgaich puts the food into the
+    hidden bag while the giant eats until he chooses to stop.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The giant prepares cups of curds and cream; Mac-a-Rusgaich drinks his fill,
+    puts the rest into the hidden bag, and finishes before the giant.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The giant proposes a test of throwing the stone of force, but he is too full
+    to stoop and lift it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Mac-a-Rusgaich draws a knife, cuts the hidden bag, releases its contents,
+    lifts the stone, and throws it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The giant takes Mac-a-Rusgaich's knife, stabs his own belly, lets out the
+    meat, falls to the ground, and dies.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Mac-a-Rusgaich enters the giant's house, gets gold and silver, becomes rich,
+    and goes home pleased.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The giant says that ceasing is better than bursting, while Mac-a-Rusgaich
+    answers that bursting is better than leaving good meat.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:9
+  text: The passage states a threat involving seven thongs being taken from the back
+    of the head to the heel if the eating challenge is not met.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Mac-a-Rusgaich
+  description: A contestant who hides a leathern bag under his shirt, appears to out-eat
+    and out-drink the giant, cuts the bag open before throwing the stone, and later
+    takes the giant's gold and silver.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: the giant
+  description: Mac-a-Rusgaich's opponent in eating, drinking, and stone-throwing tests;
+    he becomes too full, imitates the cutting action by stabbing his own belly, and
+    dies.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: deceptive contestant
+  assigned_to:
+  - fig:1
+  basis: Mac-a-Rusgaich uses a hidden bag to make it appear that he can consume more
+    food and drink than the giant.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: treasure taker
+  assigned_to:
+  - fig:1
+  basis: After the giant's death, Mac-a-Rusgaich enters the giant's house and takes
+    gold and silver.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: giant opponent
+  assigned_to:
+  - fig:2
+  basis: The giant competes with Mac-a-Rusgaich in eating, drinking, and stone-throwing
+    tests.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: imitative victim
+  assigned_to:
+  - fig:2
+  basis: The giant uses the knife on his own belly after Mac-a-Rusgaich cuts the concealed
+    bag, and he dies.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: hidden leather bag
+  literal_form: A leathern bag placed between Mac-a-Rusgaich's shirt and skin.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: contest food and drink
+  literal_form: Bread, cheese, curds, and cream used in the eating and drinking contests.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: stone of force
+  literal_form: A stone used for a throwing contest.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: knife
+  literal_form: A knife drawn from Mac-a-Rusgaich's sheath and later taken by the
+    giant.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: gold and silver
+  literal_form: Gold and silver found in the giant's house.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Eating contest with hidden bag
+  summary: Mac-a-Rusgaich hides a leather bag under his shirt and places bread and
+    cheese into it while competing with the giant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Drinking contest with curds and cream
+  summary: The giant and Mac-a-Rusgaich drink from cups of curds and cream; Mac-a-Rusgaich
+    puts the excess into the hidden bag and finishes first.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Stone-throwing test and release of the bag
+  summary: The giant is too full to lift the stone of force, while Mac-a-Rusgaich
+    cuts open the hidden bag, releases its contents, and throws the stone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Giant's fatal imitation
+  summary: The giant takes the knife, stabs his own belly, lets out the meat, falls,
+    and dies.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Taking the giant's wealth
+  summary: Mac-a-Rusgaich enters the giant's house, takes gold and silver, becomes
+    rich, and goes home pleased.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Trickster wins contests against a giant through a concealed device
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Mac-a-Rusgaich hides a leather bag under his shirt, uses it to appear capable
+    of eating and drinking beyond normal limits, and then cuts it open before the
+    stone-throwing test.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents deception in contests, but no broader cultural interpretation
+    is stated in the passage.
+- id: motif:2
+  label: Opponent dies by imitating the trickster's apparent self-cutting
+  taxonomy_refs:
+  - trickster_boundary
+  basis: After Mac-a-Rusgaich cuts the hidden bag, the giant takes the knife and stabs
+    his own belly, which leads to his death.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly state the giant's reasoning; the imitation
+    is inferred from the sequence of actions.
+- id: motif:3
+  label: Treasure gained after defeating a giant
+  taxonomy_refs: []
+  basis: Following the giant's death, Mac-a-Rusgaich enters the giant's house, obtains
+    gold and silver, and becomes rich.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The treasure acquisition is explicit, but the passage does not frame it
+    as a formal reward or quest goal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10084-10091
+  quote_or_summary: Mac-a-Rusgaich pauses before the eating contest, goes out for
+    a drink, gets a leathern bag, and places it between his shirt and skin before
+    returning to the giant.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10092-10107
+  quote_or_summary: The two eat bread and cheese; Mac-a-Rusgaich puts his portion
+    into the hidden bag, while the giant says it is better to stop than burst and
+    is told that seven thongs will be taken from him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 10108-10127
+  quote_or_summary: The giant fills cups with curds and cream; Mac-a-Rusgaich drinks
+    his fill, puts the rest in the hidden bag, and finishes before the giant.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 10128-10144
+  quote_or_summary: The giant proposes a test of throwing the stone of force, but
+    he is so full that he cannot stoop to lift it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 10145-10155
+  quote_or_summary: Mac-a-Rusgaich draws a knife, puts it into the bag in front of
+    him, lets out the bag's contents, says there is more room outside than within,
+    lifts the stone, and throws it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 10156-10167
+  quote_or_summary: The giant asks for the knife, stabs it into his belly, lets out
+    the meat, falls to the ground, and dies while Mac-a-Rusgaich laughs at him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 10168-10175
+  quote_or_summary: Mac-a-Rusgaich enters the giant's house, gets gold and silver,
+    becomes rich, and goes home fully pleased.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a clear narrative sequence with named figures and actions.
+    Motif labels are limited to what the passage supports; no external comparative
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not explicitly compare the episode to another text or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l10084-l10175
+  passage_sha256=8688b38f65bbe44c74dfdc7c2d496b536ffdf3c77a4448bfc6ac065a30713009
+

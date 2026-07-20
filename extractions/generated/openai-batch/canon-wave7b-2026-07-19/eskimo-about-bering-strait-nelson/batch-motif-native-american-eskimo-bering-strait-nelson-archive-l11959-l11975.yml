@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l11959-l11975
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: I.     . / BUREAU   OF   AMERICAN    ETHNOLOGY / EIGHTEENTH    ANNUAL  REPORT     PL.    LXX
+    / OBJECTS     USED     IN     FISHING     (ONE-EIGHTH); lines 11959-11975
+  start: '11959'
+  end: '11975'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes fishing practices and fishing nets used in parts
+    of the Bering Strait region, including dip-nets, small seines of rawhide cord,
+    a sinew-cord dip-net from Kotzebue Sound, and its mesh structure and rawhide loop.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Between Cape Komanzof and the mouth of the Kuskokwim River, much fishing is
+    said to be done with dip-nets.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Stickleback and other small fish are taken in small nets or seines made of
+    fine rawhide cord.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Large dip-nets for whitefish are made of the same material as the small nets
+    or seines.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: South of Cape Vancouver, this style of net is said to be used more than the
+    gill net.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A dip-net obtained by Lieutenant Stouey at the head of Kotzebue Sound is about
+    three feet long and made of twisted sinew cord.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The upper third of the Kotzebue Sound dip-net has meshes about an inch in
+    diameter.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The upper and lower portions of the net are joined by a rawhide cord knotted
+    into the adjoining meshes of both parts.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The lower portion of the net has meshes less than half the size of those in
+    the upper part.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A rawhide loop at the lower point of the net allows it to be raised and its
+    contents discharged.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage begins to mention a small dip-net obtained at Ikogmut, but the
+    description is incomplete in the supplied excerpt.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: People between Cape Komanzof and the mouth of the Kuskokwim River
+  description: People in the described region whose fishing is mainly done by dip-nets
+    in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: People south of Cape Vancouver
+  description: People among whom the described style of net is used more than the
+    gill net.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Lieutenant Stouey
+  description: Named person who obtained a dip-net at the head of Kotzebue Sound,
+    according to the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: net-using fishers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes these regional groups in relation to fishing with dip-nets
+    and other nets.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: obtainer of specimen
+  assigned_to:
+  - fig:3
+  basis: The passage states that a dip-net was obtained by Lieutenant Stouey at the
+    head of Kotzebue Sound.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: dip-net
+  literal_form: Fishing net used for taking fish; one described specimen is about
+    three feet long and made of twisted sinew cord.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: small net or seine
+  literal_form: Small fishing net or seine of fine rawhide cord used for stickleback
+    and other small fish.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rawhide cord
+  literal_form: Cord material used for small nets or seines and for joining parts
+    of the described dip-net.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: twisted sinew cord
+  literal_form: Material from which the Kotzebue Sound dip-net is made.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: rawhide loop
+  literal_form: Loop at the lower point of the net used to raise it and discharge
+    its contents.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: river and sound fishing locations
+  literal_form: Cape Komanzof, the Kuskokwim River mouth, Cape Vancouver, Kotzebue
+    Sound, and Ikogmut appear as geographic locations in relation to net fishing or
+    specimens.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Regional fishing with nets
+  summary: The passage describes the use of dip-nets, small rawhide-cord nets, and
+    seines for fishing between Cape Komanzof and the Kuskokwim River, with a note
+    on net preference south of Cape Vancouver.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of Kotzebue Sound dip-net
+  summary: A dip-net obtained by Lieutenant Stouey at the head of Kotzebue Sound is
+    described by length, material, mesh sizes, joining cord, and lower rawhide loop.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Incomplete mention of Ikogmut dip-net
+  summary: The excerpt begins to mention a small dip-net obtained at Ikogmut, but
+    the supplied passage ends before further description.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11959-11964
+  quote_or_summary: Between Cape Komanzof and the Kuskokwim River mouth, fishing is
+    described as largely done with dip-nets; small fish are taken in fine rawhide-cord
+    nets or seines; large whitefish dip-nets are of the same material.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11964-11966
+  quote_or_summary: Among people south of Cape Vancouver, the described net style
+    is said to be used more than the gill net.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11966-11971
+  quote_or_summary: A dip-net obtained by Lieutenant Stouey at the head of Kotzebue
+    Sound is about three feet long, made of twisted sinew cord, with larger upper
+    meshes and a rawhide cord joining the upper and lower parts.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11971-11974
+  quote_or_summary: The lower net meshes are less than half the size of the upper
+    meshes; a rawhide loop at the lower point allows the net to be raised and emptied.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11974-11975
+  quote_or_summary: The excerpt begins a new sentence about a small dip-net obtained
+    at Ikogmut, but no further description is included in the supplied text.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a technical ethnographic description of fishing gear rather
+    than a mythic narrative. No candidate myth motifs or comparison claims are extracted
+    from the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological motif is evident in the supplied passage; extracted data focuses on literal objects, roles, and scenes described in the ethnographic text.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l11959-l11975
+  passage_sha256=a346f33b1ece17411f0706341bd9e26b991a5c650763218122993330306a383a
+

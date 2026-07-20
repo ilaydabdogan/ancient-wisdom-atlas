@@ -1,0 +1,183 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l6966-l6995
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: NTORO EX0GAM0US DIVISIONS / APPENDIX A / APPENDIX B / APPENDIX C; lines 6966-6995
+  start: '6966'
+  end: '6995'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A dated letter from the British Museum Natural History reports examination
+    of Ashanti fish specimens, identifies them as cichlids, compares them with an
+    earlier Lake Busumchi collection, lists represented species and specimen counts,
+    and is signed by J. R. Norman.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a letter headed from the British Museum Natural History at
+    Cromwell Road, London, dated 22 September 1922.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The writer states that he examined fishes from Ashanti and that all belong
+    to the family Cichlidae.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The writer states that none of the examined fishes are new forms, though several
+    are useful for the Museum Collection.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The writer notes an 1888 Museum collection of fishes from Lake Busumchi and
+    suggests it may be another spelling of the same lake, because the forms agree
+    with those obtained by Capt. Rattray.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The listed specimens are Hemichromis fasciatus, Tilapia multifasciata, Tilapia
+    zillii, and Tilapia melanopleura, with counts given for each.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The letter closes with the signature J. R. Norman.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: J. R. Norman
+  description: Named signatory of the letter and first-person examiner of the fish
+    specimens.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Capt. Rattray
+  description: Person named as having obtained forms that agree with the earlier Lake
+    Busumchi collection.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: British Museum Natural History
+  description: Institution named in the letterhead and associated with the Museum
+    Collection.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: letter writer and specimen examiner
+  assigned_to:
+  - fig:1
+  basis: The first-person writer says he examined the fishes and signs the letter
+    as J. R. Norman.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: collector or obtainer of fish forms
+  assigned_to:
+  - fig:2
+  basis: The letter refers to forms obtained by Capt. Rattray.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: museum collection holder
+  assigned_to:
+  - fig:3
+  basis: The letter is headed from the British Museum Natural History and refers to
+    the Museum Collection.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Museum report on Ashanti fish specimens
+  summary: A British Museum letter reports the examination and identification of Ashanti
+    fish specimens, relates them to an earlier Lake Busumchi collection, and lists
+    species with specimen counts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6966-6973
+  quote_or_summary: Appendix C opens with the British Museum Natural History address
+    at Cromwell Road, London, and the date 22 September 1922.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 6976-6979
+  quote_or_summary: The writer says he examined fishes from Ashanti, all belonging
+    to Cichlidae; none are new forms, but several are useful for the Museum Collection.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 6980-6984
+  quote_or_summary: The writer notes an 1888 collection from Lake Busumchi and suggests
+    the spelling may refer to the same lake because the specimens obtained by Capt.
+    Rattray agree with it.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 6985-6993
+  quote_or_summary: 'The letter lists species and counts: three Hemichromis fasciatus,
+    one Tilapia multifasciata, one Tilapia zillii, and three Tilapia melanopleura.'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 6994-6995
+  quote_or_summary: The letter closes formally and is signed J. R. Norman.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is scientific correspondence about fish specimens rather than
+    mythic narrative or ritual description; no candidate mythology motifs or supported
+    comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference is directly supported by the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l6966-l6995
+  passage_sha256=1bf5a7d5fb22d57951cb17122d5ef577f79b0b707a810b58f8283150debf30a1
+

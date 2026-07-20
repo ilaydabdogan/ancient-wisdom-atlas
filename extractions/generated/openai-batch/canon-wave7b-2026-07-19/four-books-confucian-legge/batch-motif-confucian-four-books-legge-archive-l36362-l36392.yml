@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l36362-l36392
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: CH. 3. WHAT TREATMENT SOVKK- / AND KIGIITEOUSNKSS. / THE WORKS OF MENCTUS
+    / CH. 10. THAT CONFUCIUS KEPT; lines 36362-36392
+  start: '36362'
+  end: '36392'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The great man is he who does not lose his child's-heart.
+  summary: 'The passage presents three sayings attributed to Mencius: Chung-ne did
+    not do extraordinary things; the great man speaks and acts according to what is
+    right rather than by prior contrivance; and the great man does not lose his child''s-heart.
+    A commentary note frames Chapter 10 as concerning Confucius keeping the Mean and
+    cross-references related Confucian texts.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Mencius says that Chung-ne did not do extraordinary things.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mencius says the great man does not pre-plan words for sincerity or actions
+    for resoluteness, but simply speaks and does what is right.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mencius says the great man is one who does not lose his child's-heart.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentary heading describes Chapter 10 as concerning Confucius keeping
+    the Mean.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentary says the sentiment may be compared with passages in the Doctrine
+    of the Mean and the Analects.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mencius
+  description: Named as the speaker of the three sayings in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Chung-ne / Confucius
+  description: Chung-ne is described as not doing extraordinary things; the commentary
+    heading identifies the topic as Confucius keeping the Mean.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: the great man
+  description: A moral figure described as speaking and acting according to what is
+    right and as not losing his child's-heart.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: speaker of maxims
+  assigned_to:
+  - fig:1
+  basis: Each saying begins with the formula that Mencius said it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: exemplar of non-extraordinary conduct and the Mean
+  assigned_to:
+  - fig:2
+  basis: The saying states that Chung-ne did not do extraordinary things, and the
+    commentary heading frames this as Confucius keeping the Mean.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: ethical exemplar
+  assigned_to:
+  - fig:3
+  basis: The great man is defined by right speech and action and by retaining the
+    child's-heart.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: child's-heart
+  literal_form: child's-heart
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: the Mean
+  literal_form: the Mean
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mencius's sayings on Chung-ne and the great man
+  summary: Mencius gives concise statements about Chung-ne's avoidance of extraordinary
+    things and about the great man's right action and retained child's-heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Commentary on Confucius keeping the Mean
+  summary: A commentary note labels the chapter as concerning Confucius keeping the
+    Mean, discusses the sense of extraordinary or excessive things, and points to
+    comparable passages in other Confucian texts.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom expressed as right speech and right action
+  taxonomy_refs:
+  - wisdom
+  basis: The passage defines the great man by speaking and doing what is right rather
+    than by calculated display of sincerity or resoluteness.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethical aphorism rather than a mythic narrative; the taxonomy
+    match is broad.
+- id: motif:2
+  label: keeping the mean through avoidance of extraordinary excess
+  taxonomy_refs: []
+  basis: Chung-ne is said not to do extraordinary things, and the commentary frames
+    this as Confucius keeping the Mean.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a commentary label and translation note, not an extended
+    narrative pattern.
+- id: motif:3
+  label: retained child-heart as moral quality
+  taxonomy_refs:
+  - wisdom
+  basis: Mencius says the great man is one who does not lose his child's-heart.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The phrase is not explained further in the provided passage, so symbolic
+    interpretation should remain cautious.
+comparison_claims:
+- id: claim:1
+  claim: The commentary explicitly says the sentiment may be compared with passages
+    in the Doctrine of the Mean and the Analects.
+  claim_level: same_function
+  target: Doctrine of the Mean xi, xiii; Analects VIII, xx
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The provided passage gives only the cross-reference, not the text of
+    the compared passages; no historical or source relationship beyond the editorial
+    comparison is established here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 36362-36392, Chapter X
+  quote_or_summary: Mencius said, "Chung-ne did not do extraordinary things."
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 36362-36392, saying on the great man's words and actions
+  quote_or_summary: Mencius says the great man does not think beforehand of words
+    so that they may be sincere, nor of actions so that they may be resolute; he simply
+    speaks and does what is right.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 36362-36392, Chapter XII
+  quote_or_summary: Mencius said, "The great man is he who does not lose his child's-heart."
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 36362-36392, commentary on Chapter 10
+  quote_or_summary: The commentary heading states that Confucius kept the Mean, discusses
+    "extraordinary" as approaching the meaning of "excessive things," and says the
+    sentiment may be compared with Doctrine of the Mean xi, xiii and Analects VIII,
+    xx.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and partly affected by OCR irregularities, but the core
+    sayings and commentary note are clear. Motif assignments are broad because the
+    passage is ethical-philosophical rather than narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy references were limited to the supplied list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l36362-l36392
+  passage_sha256=3f8ec0552cd220783b9db67fb7b46d152602772e09b3ae4a70dcda733fca0115
+

@@ -1,0 +1,429 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l7270-l7356
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: THE  SONG  OF  THE  SNAKE. / THE  SONG  OF  LOANGO  WOMEN. / THE  SONG  OF  HUNGER.  161
+    / THE  SONG  OF  HUNGER.; lines 7270-7356
+  start: '7270'
+  end: '7356'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A Fjort song and explanation concerning hunger in Loango provinces. Famine
+    leads people to clear forest and drag trees to make farms. Muanyali has a basket,
+    mat, and cooked food, but the food is insufficient. His wife Lembe asks her father,
+    Mr. Pelican, to explain the shortage to Muanyali; Pelican reports famine in other
+    provinces and mentions the pain caused by a hungered mother.
+  language: English with Fjort/Kongo song text and English glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is titled "The Song of Hunger."
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Xissanga and Buali are identified as provinces of Loango, and the song says
+    they drag trees.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The explanation states that people in those provinces are dying of hunger
+    and are making new farms by clearing forest and dragging trees as rough ploughing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Muanyali has a large food-carrying basket, a food-serving mat, and cooked
+    food, but the amount of food is not enough, and he is angry about it.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator explains that praising what is right while leaving the missing
+    element to be inferred is described as a common African indirect way of saying
+    what is disliked.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Lembe is described as Muanyali's wife, married according to the rites of Lemba,
+    and as a wife who binds herself not to survive her husband.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Lembe asks her father, Mr. Pelican, to explain to Muanyali why she has not
+    been able to send more food.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Pelican goes to his son-in-law to speak to him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Quillo and Xilunga are described as famine-stricken; Quillo can get nothing,
+    and Xilunga is also not worth going to because of famine.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The explanation of the next line says that the thought of the hungered mother
+    pains them.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Muanyali
+  description: A named figure whose name is glossed as meaning the first stage of
+    pregnancy; he is Lembe's husband and receives insufficient food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Lembe
+  description: Muanyali's wife, married according to Lemba rites; she asks her father
+    to explain the food shortage to her husband.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Mr. Pelican / li ngongo
+  description: Lembe's father, glossed as a large fish-eating bird or pelican used
+    as a proper name; he goes to speak to his son-in-law.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: People of Xissanga and Buali
+  description: People in Loango provinces described as dying of hunger and clearing
+    forest for new farms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: People of Quillo and Xilunga
+  description: Communities or inhabitants of Loango provinces described as famine-stricken
+    or unable to get anything.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Hungered mother
+  description: A mother whose hunger is said to pain them in the explanation of the
+    song line.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: famine-stricken community
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The explanation says the provinces' people are dying of hunger or cannot
+    get anything because of famine.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:2
+  label: husband and insufficient-food recipient
+  assigned_to:
+  - fig:1
+  basis: Muanyali is named as Lembe's husband and is angry that the prepared food
+    is not enough.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: Lemba wife and food sender
+  assigned_to:
+  - fig:2
+  basis: Lembe is identified as Muanyali's wife and asks her father to explain why
+    she could not send more food.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: father and affinal mediator
+  assigned_to:
+  - fig:3
+  basis: Mr. Pelican is Lembe's father and goes to speak to his son-in-law about the
+    food shortage.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: hungry mother
+  assigned_to:
+  - fig:6
+  basis: The explanation says the thought of the hungered mother pains them.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Loango provinces
+  literal_form: Xissanga, Buali, Xilunga, and Quillo as named provinces or places
+    in Loango
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:2
+  label: dragged tree
+  literal_form: trees cleared from forest and dragged as rough ploughing
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: large food basket
+  literal_form: xikamvu, a large basket used for carrying food
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: food mat
+  literal_form: xinkatu or nkatu, a mat on which food is served
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: insufficient cooked food
+  literal_form: cooked food that is properly prepared but not enough
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: pelican
+  literal_form: li ngongo, a large fish-eating bird glossed as a pelican and used
+    as a proper name
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Famine farming in Loango provinces
+  summary: People in Xissanga and Buali are described as dying of hunger and making
+    new farms by clearing forest and dragging trees.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Muanyali's insufficient meal
+  summary: Muanyali has the correct basket, mat, and cooked food, but the amount of
+    food is insufficient, causing anger.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Lembe asks Pelican to speak
+  summary: Lembe tells her father to speak to Muanyali about why she cannot send more
+    food, and Pelican goes to the son-in-law.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Pelican reports wider famine
+  summary: The explanation of Pelican's speech says Quillo and Xilunga are also famine-stricken,
+    and that the thought of a hungered mother pains them.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: famine drives forest clearing and farm making
+  taxonomy_refs: []
+  basis: The passage explains that hunger in Loango provinces leads people to clear
+    forest and drag trees while making new farms.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: This is an ethnographic and song explanation rather than a developed narrative
+    plot.
+- id: motif:2
+  label: insufficient food expressed through indirect complaint
+  taxonomy_refs: []
+  basis: Muanyali's complaint is expressed by noting that the basket, mat, and cooking
+    are correct while leaving the food shortage to be inferred.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The broader pattern is stated by the narrator; the passage gives only
+    this single example.
+- id: motif:3
+  label: affinal mediation over food scarcity
+  taxonomy_refs: []
+  basis: Lembe asks her father to explain to her husband why she cannot send more
+    food, and Pelican goes to the son-in-law.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not provide the full outcome of the mediation.
+- id: motif:4
+  label: wife ritually bound not to survive husband
+  taxonomy_refs: []
+  basis: The gloss for Lembe describes a Lemba wife as one who binds herself not to
+    survive her husband.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is an explanatory parenthesis about the marital category, not an
+    event enacted in the excerpt.
+- id: motif:5
+  label: bird-named father as messenger
+  taxonomy_refs: []
+  basis: Lembe's father is called Mr. Pelican, glossed as a pelican, and he carries
+    the explanation to Muanyali.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage identifies the pelican term as a proper name; it does not
+    state shapeshifting or an animal tale framework.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the indirect complaint about insufficient food
+    to a broader African pattern of saying disagreeable things by praising what is
+    right and requiring the listener to infer what is lacking.
+  claim_level: same_function
+  target: common African indirect complaint or indirect-speech pattern as stated by
+    the narrator
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the editor's generalizing explanation within the passage; no
+    independent comparative examples are supplied here.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 7270-7356; title
+  quote_or_summary: The passage title is "The Song of Hunger."
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; supplied passage metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 7270-7356; song line 1 and explanation
+  quote_or_summary: Xissanga and Buali are Loango provinces; the people are said to
+    be dying of hunger and to make new farms by clearing forest and dragging trees
+    as rough ploughing.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; supplied passage metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 7270-7356; song lines 2-3 and explanation
+  quote_or_summary: Muanyali has a large food-carrying basket, a mat for serving food,
+    and cooked food; he is angry because the basket and mat are right and the food
+    is cooked, but there is not enough food.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; supplied passage metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 7270-7356; explanation after song lines 2-3
+  quote_or_summary: 'The narrator describes an indirect manner of complaint: people
+    say what is right and expect the listener to infer what is wanting or disliked.'
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; supplied passage metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 7270-7356; song lines 4-5 and explanation
+  quote_or_summary: Lembe is Muanyali's wife under Lemba rites; she asks her father,
+    Mr. Pelican, to explain to her husband why she has not been able to send more
+    food, saying that he should talk and she will cease telling him.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; supplied passage metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: lines 7270-7356; transition after song lines 4-5
+  quote_or_summary: Pelican goes to his son-in-law to speak to him.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; supplied passage metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: lines 7270-7356; song lines 6-7 and explanation
+  quote_or_summary: Xilunga and Quillo are described as suffering hunger; the explanation
+    says Quillo can get nothing, and Xilunga is famine-stricken too and not worth
+    going to.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; supplied passage metadata permits full text use.
+- id: ev:8
+  type: summary
+  locator: lines 7270-7356; song line 8 and partial explanation
+  quote_or_summary: 'The explanation glosses the line as: the thought of the hungered
+    mother pains them.'
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; supplied passage metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based only on the supplied passage. The passage ends mid-word
+    after the explanation of song line 8, so no claims are made about later lines
+    or the final outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the available motif families are not directly supported by the passage. The taxonomy symbol 'tree' is used only for the literal dragged trees.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l7270-l7356
+  passage_sha256=8c4e9022e1d9807d232bf33414b625d4568b918e8a2afc68e4b0ee51a390ed36
+

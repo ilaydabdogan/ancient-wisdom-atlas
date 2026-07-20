@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l15613-l15666
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: Canto LY. / Canto LVI. / Canto LVII. / CANTO hVU.; lines 15613-15666
+  start: '15613'
+  end: '15666'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“this is the ninth dvipa among them, and it is surrounded by the sea”"
+  summary: The passage describes a ninth dvipa, gives its extent and boundary peoples,
+    lists resident social groups and their purifying occupations, states possible
+    attainment of Svarga or final emancipation, and begins an enumeration of mountain
+    ranges including Mahendra.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Several named dvipas are listed, and the current one is identified as the
+    ninth dvipa surrounded by the sea.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dvipa is described as a thousand yojanas from south to north.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kiratas are placed at the east end, and Yavanas at the west end.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Brahmans, kshatriyas, vaisyas, and Mdras are said to dwell within the dvipa.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The inhabitants accomplish purification through occupations such as sacrifice,
+    meditation, and trade, and seek mutual business through those occupations.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says they gain Svarga or final emancipation from existence, with
+    merit and sin mentioned in the same context.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Seven mountain ranges are said to be in the dvipa, and Mahendra is named as
+    one of them.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kiratas
+  description: A people located at the east end of the dvipa.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Yavanas
+  description: A people located at the west end of the dvipa.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: resident social groups
+  description: Brahmans, kshatriyas, vaisyas, and Mdras dwelling within the dvipa.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: eastern boundary inhabitants
+  assigned_to:
+  - fig:1
+  basis: The passage places the Kiratas at the east end of the dvipa.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: western boundary inhabitants
+  assigned_to:
+  - fig:2
+  basis: The passage places the Yavanas at the west end of the dvipa.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: resident occupational and ritual groups
+  assigned_to:
+  - fig:3
+  basis: The passage says these groups dwell within the dvipa and pursue purification
+    and business through occupations.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: surrounding sea
+  literal_form: sea surrounding the ninth dvipa
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ninth dvipa
+  literal_form: a dvipa identified as the ninth among the listed dvipas
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Mahendra mountain range
+  literal_form: one of the seven mountain ranges in the dvipa
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Spatial definition of the ninth dvipa
+  summary: The passage lists dvipa names, identifies the ninth dvipa as surrounded
+    by the sea, gives its south-to-north extent, and places Kiratas and Yavanas at
+    opposite ends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Resident groups and purifying occupations
+  summary: The passage names resident social groups and describes their purification
+    and mutual business through occupations such as sacrifice, meditation, and trade,
+    leading to Svarga or final emancipation.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Beginning of mountain-range enumeration
+  summary: The passage states that seven mountain ranges are in the dvipa and begins
+    the list with Mahendra.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: island-continent bounded by sea
+  taxonomy_refs: []
+  basis: The passage identifies a ninth dvipa and says it is surrounded by the sea,
+    with extent and boundary peoples specified.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives a geographic-cosmographic description but does not,
+    within this excerpt alone, explain a full world map.
+- id: motif:2
+  label: ordered social geography with purification through occupations
+  taxonomy_refs: []
+  basis: Resident social groups are named, and their occupations are linked with purification,
+    mutual business, Svarga, and final emancipation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a descriptive social-religious order; no
+    narrative conflict or ritual sequence is developed here.
+- id: motif:3
+  label: mountain ranges structuring sacred geography
+  taxonomy_refs: []
+  basis: The dvipa contains seven mountain ranges, with Mahendra named at the start
+    of the list.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Although a mountain range is named, the excerpt does not explicitly present
+    it as a cosmic axis or world-center mountain.
+comparison_claims:
+- id: claim:1
+  claim: The editor’s notes support a cautious comparison with nearby Puranic geographic
+    traditions, since the Kurma Purana is cited for a variant reading and the Vishnu
+    Purana is cited for a similar passage.
+  claim_level: same_function
+  target: Kurma Purana canto xlvii and Vishnu Purana Book II, chap. iii, as cited
+    in the notes
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:7
+  confidence: medium
+  limitations: Only editorial notes are present in the supplied passage; the parallel
+    texts themselves are not quoted, and the note also flags a difference about whether
+    India is surrounded by the sea.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15613-15617
+  quote_or_summary: "“this is the ninth dvipa among them, and it is surrounded by
+    the sea”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 15617-15620
+  quote_or_summary: The dvipa is described as a thousand yojanas from south to north,
+    with Kiratas at the east end and Yavanas at the west.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 15620-15623
+  quote_or_summary: Brahmans, kshatriyas, vaisyas, and Mdras dwell within it and accomplish
+    purification through occupations including sacrifice, meditation, and trade.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 15623-15624
+  quote_or_summary: The passage says these inhabitants gain Svarga or final emancipation
+    from existence, with merit and sin mentioned in the same statement.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 15625-15666
+  quote_or_summary: The passage begins the account of seven mountain ranges in the
+    dvipa and names Mahendra; the accompanying note discusses Mahendra’s proposed
+    geographic identification.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: 15629-15637
+  quote_or_summary: The notes cite the Kurma Purana for a variant reading and cite
+    Wilson’s Vishnu Purana for a similar passage relevant to identifying the dvipa.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: note
+  locator: 15637-15643
+  quote_or_summary: The note cautions that this Purana states India is not surrounded
+    by the sea, but bounded by it only on the east, south, and west, and only partially
+    on east and west.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is partly OCR-corrupted and includes editorial notes; extraction
+    uses only supplied wording and does not emend terms such as “Mdras” or distorted
+    canto headings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the excerpt supports sacred-geographic patterns but not a specific available motif family with high confidence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l15613-l15666
+  passage_sha256=276a613b521a05820342bcd81309ace029e3c980b28c3e51667bd4566dc6bf6c
+

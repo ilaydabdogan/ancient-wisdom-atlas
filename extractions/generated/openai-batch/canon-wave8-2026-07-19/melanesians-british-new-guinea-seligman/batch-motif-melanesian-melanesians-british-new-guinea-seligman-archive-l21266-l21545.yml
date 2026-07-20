@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l21266-l21545
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: SUMMARY OF THE HISTORY AND CONSTITUTION OF / MEKEO. / BIOFA VILLAGES. / S.
+    N. G.; lines 21266-21545
+  start: '21266'
+  end: '21545'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An ethnographic table for Mekeo/S.N.G. groups lists village or group names,
+    clan or clubhouse-related terms, and clan-badge names. Some names are glossed
+    as animals, birds, plants, trees, a palm, a mountain, or a wallaby. Notes state
+    that certain listed terms or attributes were adopted from Fopafoina or Alo Aivea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a tabular ethnographic list headed for S.N.G. and the Mekeo
+    tribes, with a page heading referring to clans, clubhouses, and clan-badges.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several listed names are glossed as birds or animals, including Lainapa as
+    hornbill, Eenge as cockatoo, Pongu as wallaby, Angava Piki as a bird, Lainema
+    as a water bird, and Mengunge/famua/ungaa as goura pigeon.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:3
+  text: Several listed names are glossed as plants or trees, including Funguka as
+    a palm or tree, Foame as a plant, and Ikango as a tree.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: One listed name or associated gloss identifies Foyo as a mountain.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note states that a group was brought from the bush by Fopafoina and adopted
+    Fopafoina's ufu and kangakanga.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: A note states that lauafangai, ufu, and kangakanga were adopted from Alo Aivea.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mekeo tribes / S.N.G. listed groups
+  description: Collective label for the groups or entries in the table headed for
+    the Mekeo tribes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Fopafoina
+  description: Named in a note as the source or agent by whom a group was brought
+    from the bush and from whom ufu and kangakanga were adopted.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Alo Aivea
+  description: Named in a note as the source from which lauafangai, ufu, and kangakanga
+    were adopted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: listed ethnographic group category
+  assigned_to:
+  - fig:1
+  basis: The passage is arranged as a table for Mekeo tribes and clan-badge material.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: source of adopted ufu and kangakanga
+  assigned_to:
+  - fig:2
+  basis: The note says Fopafoina brought a group from the bush and that Fopafoina's
+    ufu and kangakanga were adopted.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: source of adopted lauafangai, ufu, and kangakanga
+  assigned_to:
+  - fig:3
+  basis: The note says these terms or attributes were adopted from Alo Aivea.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bird and animal clan-badge names
+  literal_form: Lainapa as hornbill; Eenge as cockatoo; Pongu as wallaby; Angava Piki
+    as a bird; Lainema as a water bird; Mengunge/famua/ungaa as goura pigeon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: mountain name or badge
+  literal_form: Foyo, glossed as a mountain
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: plant and tree clan-badge names
+  literal_form: Funguka as a palm or tree; Foame as a plant; Ikango as a tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: adopted named attributes
+  literal_form: lauafangai, ufu, and kangakanga described as adopted terms or attributes
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Clan-badge catalogue
+  summary: The table lists Mekeo/S.N.G. entries with clan-badge or related names,
+    several of which are glossed as birds, animals, plants, trees, a palm, or a mountain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Adoption notes
+  summary: Notes in the table describe the adoption of ufu, kangakanga, and lauafangai
+    from named sources, including Fopafoina and Alo Aivea.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: animal, plant, and place clan badges
+  taxonomy_refs: []
+  basis: The table glosses multiple listed names as birds, an animal, plants or trees,
+    and a mountain in a context identified as clan-badges.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is an ethnographic table rather than a myth narrative; no
+    sacred or mythic function is explicitly stated.
+- id: motif:2
+  label: adoption or transfer of clan attributes
+  taxonomy_refs: []
+  basis: The table notes that ufu, kangakanga, and lauafangai were adopted from named
+    sources, including Fopafoina and Alo Aivea.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The tabular formatting obscures the precise recipient groups, and the
+    terms lauafangai, ufu, and kangakanga are not translated in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21266-21545
+  quote_or_summary: The excerpt is a tabular passage headed for S.N.G. and the Mekeo
+    tribes and ending with the page heading 'Clans, Clubhouses and Clan-Badges 371.'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 21266-21545
+  quote_or_summary: |-
+    Lainapa
+    (hornbill)
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 21266-21545
+  quote_or_summary: |-
+    Foyo (a
+    mountain)
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 21266-21545
+  quote_or_summary: The table glosses Funguka as a palm or tree, Foame as a plant,
+    and Ikango as a tree.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 21266-21545
+  quote_or_summary: The table glosses Eenge as cockatoo, Pongu as wallaby, Angava
+    Piki as a bird, Lainema as a water bird, and Mengunge/famua/ungaa as goura pigeon.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 21266-21545
+  quote_or_summary: A note states that a group was brought from the bush by Fopafoina
+    and adopted Fopafoina's ufu and kangakanga.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 21266-21545
+  quote_or_summary: A note states that lauafangai, ufu, and kangakanga were adopted
+    from Alo Aivea.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a line-broken table with some OCR or formatting ambiguity.
+    Literal glosses and adoption notes are clear enough for cautious extraction, but
+    precise table columns and recipient groups need human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No cross-traditional comparison claims were extracted because the passage itself provides only internal tabular relationships and adoption notes.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l21266-l21545
+  passage_sha256=72a24b8bb00c04cf76d45dba6ce235858a9545f46df471e81178ccdc0990496b
+

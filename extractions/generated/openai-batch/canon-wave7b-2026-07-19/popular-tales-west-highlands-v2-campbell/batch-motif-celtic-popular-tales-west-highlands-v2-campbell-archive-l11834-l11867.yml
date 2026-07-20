@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l11834-l11867
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: FEARACHUR LEIGH. 383 / FEARACHUR LEIGH. 385 / FEARACHUR LEIGH. 387 / THE
+    TALE OF SGIRE MO CHEALAG.; lines 11834-11867
+  start: '11834'
+  end: '11867'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A young man marries a farmer's only daughter. During peat-cutting, the
+    young wife is sent home for food, sees a speckled filly's packsaddle above her
+    head, and cries over the possibility that it might fall and kill her and future
+    offspring. Her mother is sent to check on her and responds with the same alarm.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young lad goes to Sgire mo Chealag to seek a wife and marries a farmer's
+    daughter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The farmer has no child besides the daughter who becomes the young wife.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At peat-cutting time, four people go to the peat hag.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The young wife is sent home to get food.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Inside the house, the young wife sees the speckled filly's packsaddle above
+    her head and begins to cry.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The young wife says she fears the packsaddle might fall and kill her and those
+    who are to follow.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The peat-gathering people notice that the young wife has been gone a long
+    time and send her mother to see what is keeping her.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The mother arrives, finds the bride crying, and asks what has happened.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The bride repeats that the packsaddle over her head might fall and kill her
+    and those to follow.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The old woman strikes her palms and says that if this happened, neither she
+    nor the bride would know what to do.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: young lad / husband
+  description: A young lad who goes to Sgire mo Chealag to seek a wife and marries
+    the farmer's daughter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: young wife / bride / farmer's daughter
+  description: The farmer's only daughter, newly married to the young lad; she is
+    sent for food and cries over the imagined fall of the packsaddle.
+  role_refs:
+  - role:2
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: farmer / father
+  description: The father of the young wife, described as having only her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: mother / carlin / old woman
+  description: The bride's mother, sent to check on her; she finds the bride crying
+    and responds with alarm.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: peat-gathering people
+  description: The people gathering peats who observe the bride's delay and send her
+    mother to investigate.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: bride-seeker and husband
+  assigned_to:
+  - fig:1
+  basis: He goes to seek a wife and marries the farmer's daughter.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: bride and young wife
+  assigned_to:
+  - fig:2
+  basis: She is the farmer's daughter whom the young lad marries, and is later called
+    the young wife and bride.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: only daughter
+  assigned_to:
+  - fig:2
+  basis: The farmer is said to have only her.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: father and farmer
+  assigned_to:
+  - fig:3
+  basis: The young wife is identified as a farmer's daughter, and her father is mentioned
+    as having only her.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: mother sent to investigate
+  assigned_to:
+  - fig:4
+  basis: The peat-gatherers send the bride's mother to see what is keeping her.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: alarmed speaker about imagined danger
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The bride voices fear about the packsaddle falling; the old woman answers
+    with similar alarm.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:7
+  label: peat-gathering work group
+  assigned_to:
+  - fig:5
+  basis: They are described as gathering peats and as sending the mother when the
+    bride is delayed.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: speckled filly's packsaddle
+  literal_form: A packsaddle belonging to a speckled filly, seen above the young wife's
+    head inside the house.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: food errand
+  literal_form: Food that the young wife is sent home to seek.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: peat hag
+  literal_form: The peat-cutting place to which the four go.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: striking palms
+  literal_form: The old woman strikes her palms when she hears the bride's fear.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Marriage and peat-cutting setting
+  summary: A young lad seeks a wife at Sgire mo Chealag, marries the farmer's only
+    daughter, and the group goes to the peat hag when peat-cutting time arrives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Bride's food errand and fear
+  summary: The young wife is sent home for food, sees the speckled filly's packsaddle
+    above her, and cries over the possibility that it could fall and kill her and
+    those to follow.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Mother sent to check on the bride
+  summary: The peat-gatherers send the bride's mother to investigate her delay. The
+    bride repeats her fear, and the old woman strikes her palms and echoes the alarm.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: bride-seeking departure
+  taxonomy_refs:
+  - departure
+  basis: The young lad leaves or goes to Sgire mo Chealag specifically to seek a wife.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief ordinary journey to find a wife; it does
+    not elaborate a quest structure.
+- id: motif:2
+  label: imagined accident threatening future descendants
+  taxonomy_refs: []
+  basis: The bride laments a hypothetical fall of the packsaddle that could kill herself
+    and all who are to follow.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this comic or cautionary
+    pattern.
+- id: motif:3
+  label: shared alarm over hypothetical danger
+  taxonomy_refs: []
+  basis: The mother accepts or echoes the bride's anxiety about the imagined packsaddle
+    accident, striking her palms in alarm.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage presents the exchange but does not explicitly state a moral,
+    label the characters foolish, or provide the tale's later resolution.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 11834-11836
+  quote_or_summary: The passage is titled "THE TALE OF SGIRE MO CHEALAG" and is attributed
+    to John Campbell, Strath Gairloch, Ross.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 11837-11841
+  quote_or_summary: A young lad goes to Sgire mo Chealag to seek a wife, marries a
+    farmer's daughter, and the father is said to have only that daughter.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11841-11843
+  quote_or_summary: When peat-cutting time comes, four people go to the peat hag.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11844-11847
+  quote_or_summary: The young wife is sent home to get food; inside she sees the speckled
+    filly's packsaddle over her head and begins crying.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 11848-11850
+  quote_or_summary: '"What should she do if the packsaddle should fall, and kill herself
+    and all that were to follow."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 11851-11857
+  quote_or_summary: The peat-gatherers notice the young wife is delayed, send her
+    mother, and the mother finds the bride crying and asks what has happened.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11858-11864
+  quote_or_summary: The bride says she saw the speckled filly's packsaddle over her
+    head and feared it might fall and kill her and all who are to follow.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 11865-11867
+  quote_or_summary: The old woman strikes her palms and says that if this happened,
+    neither the bride nor she would know what to do.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward for this short passage. Motif labels
+    are candidate descriptions because the passage fragment does not provide an explicit
+    tale type, moral, or comparative framing. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy did not directly match the passage's central object, the packsaddle.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l11834-l11867
+  passage_sha256=f6dabe76d8ea652ad0cfaae113e0dd1d59ca7ead41e4caa0bf553f991617f0d3
+

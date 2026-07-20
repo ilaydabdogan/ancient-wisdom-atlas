@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l14343-l14404
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: I  III / I  III / SORROWS    OF   ISIS  237 / SORROWS    OF   ISIS  239;
+    lines 14343-14404
+  start: '14343'
+  end: '14404'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In an interlinear gloss, Isis cries to heaven and prays to the Boat of
+    Millions of Years. The disk stands still at her coming. Thoth arrives equipped
+    with magic power. Isis is described as a mighty goddess with understanding speech,
+    and the passage states that no evil shall come to Horus and that his protection
+    is from the boat.
+  language: English with Egyptian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Isis cries to heaven.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Isis's prayer is directed to the Boat of Millions of Years.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The disk stands still at Isis's coming and does not move from its seat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thoth comes provided with magic power.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Thoth is described as possessing great command of maakheru.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Isis is described as a goddess, a mighty one, and as having understanding
+    with her mouth.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that no evil shall befall Horus and that his protection
+    is from the boat.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Isis
+  description: Named figure who cries to heaven, prays to the Boat of Millions of
+    Years, and is described as a mighty goddess with understanding speech.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Thoth
+  description: Named figure who comes provided with magic power and great command
+    of maakheru.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Horus
+  description: Named as the son Horus; the passage says no evil shall be to him and
+    that his protection is from the boat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the disk
+  description: The disk stands still at Isis's coming and does not move on its seat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: supplicant
+  assigned_to:
+  - fig:1
+  basis: Isis cries to heaven and prays to the Boat of Millions of Years.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bearer of magic power
+  assigned_to:
+  - fig:2
+  basis: Thoth comes provided with magic power and great command of maakheru.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: protected son
+  assigned_to:
+  - fig:3
+  basis: Horus is identified as son and is said to be protected from the boat, with
+    no evil to befall him.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: mighty goddess with understanding speech
+  assigned_to:
+  - fig:1
+  basis: Isis is called a goddess and mighty one, understanding with her mouth.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: stationary disk
+  assigned_to:
+  - fig:4
+  basis: The disk stands still at Isis's coming and does not move on its seat.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Boat of Millions of Years
+  literal_form: Boat of Millions of years
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: heaven
+  literal_form: heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: disk on its seat
+  literal_form: the disk on his seat
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Isis cries and prays
+  summary: Isis cries to heaven and directs her prayer to the Boat of Millions of
+    Years.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The disk stands still
+  summary: At Isis's coming, the disk stands still and does not move from its seat.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Thoth arrives with magic power
+  summary: Thoth comes equipped with magic power and great command of maakheru.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Horus is assured protection
+  summary: The passage says that no evil shall befall Horus and that his protection
+    is from the boat.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Protective divine boat
+  taxonomy_refs:
+  - ark_vessel
+  basis: Isis prays to the Boat of Millions of Years, and Horus's protection is said
+    to be from the boat.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The fragment names a protective boat but does not describe a voyage, rescue
+    episode, or full ark narrative.
+- id: motif:2
+  label: Cosmic stillness at divine arrival
+  taxonomy_refs: []
+  basis: The disk stands still at Isis's coming and does not move on its seat.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The cause and consequences of the disk's stillness are not explained in
+    the passage.
+- id: motif:3
+  label: Divine magical assistance
+  taxonomy_refs: []
+  basis: Thoth arrives provided with magic power and great command of maakheru.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state what Thoth does with the magic power in this
+    fragment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14343-14357
+  quote_or_summary: The interlinear gloss states that Isis's cry is to heaven and
+    that her prayer is to the Boat of Millions of Years.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 14358-14374
+  quote_or_summary: '"Stood still the disk at her coming, not moved he on his seat."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 14375-14386
+  quote_or_summary: '"Thoth came provided with his magic power, possessing command
+    great of maakheru."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 14387-14404
+  quote_or_summary: The gloss describes Isis as a mighty goddess with understanding
+    speech and states that no evil shall be to Horus, whose protection is from the
+    boat.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a fragmentary OCR/interlinear passage. No external
+    mythological context was used. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Record generated from the supplied passage and metadata only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l14343-l14404
+  passage_sha256=e234e2fa40943fa73ceea1775df522aa2e29e043c936d9a588393160cc1ccf89
+

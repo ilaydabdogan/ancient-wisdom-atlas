@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l101248-l101331
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH R / ADHYAYA 2. / KEITH S / ARANYAKA IV; lines 101248-101331
+  start: '101248'
+  end: '101331'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“show us a path, proclaim the regions, guide us”"
+  summary: The passage is mostly scholarly commentary on Sakvari or Mahanamni verses,
+    their metre, ritual references, and phrase parallels. The translated verse fragment
+    invokes Indra or a generous divine figure for guidance, wisdom, glory, strength,
+    wealth, and might, addressing him as wise, powerful, thunderer, and bearer of
+    the bolt.
+  language: English with transliterated Sanskrit in commentary
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies and discusses Sakvari or Mahanamni verses, including
+    notes on archaic language, metre, textual modification, and ritual use.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary states that cited Brahmana and Brhaddevata traditions connect
+    the purisapadani with deities such as Prajapati, Agni, Indra, Pusan, Devah, and
+    Visnu, with variant listings.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A speaker asks a generous, wealthy lord of many mights to show a path, proclaim
+    the regions, and guide the speakers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A speaker addresses Indra as wise and asks him, with his aids, to make the
+    speakers wise for glory and strength.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Indra is addressed in a request for wealth and might as thunderer, most powerful,
+    and bearer of the bolt.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The commentary states that several phrases in the verses are reminiscent of,
+    or perhaps borrowed from, earlier Rigvedic hymns.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: Named divine figure addressed as wise, strong, thunderer, most powerful,
+    and bearer of the bolt; invoked for wisdom, strength, wealth, and might.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: first-person plural speakers
+  description: The collective “us” who ask for guidance, wisdom, glory, strength,
+    wealth, and might.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: invoked divine guide
+  assigned_to:
+  - fig:1
+  basis: The addressed figure is asked to show a path, proclaim the regions, and guide
+    the speakers.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: source of wisdom and strength
+  assigned_to:
+  - fig:1
+  basis: Indra is addressed as wise and asked to make the speakers wise for glory
+    and strength.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: thunderer and bolt-bearer
+  assigned_to:
+  - fig:1
+  basis: The verse addresses the invoked figure as thunderer and bearer of the bolt.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: petitioning speakers
+  assigned_to:
+  - fig:2
+  basis: The first-person plural speakers request guidance, wisdom, strength, wealth,
+    and might.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: path
+  literal_form: path
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: regions
+  literal_form: regions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bolt
+  literal_form: bolt
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Petition to Indra for guidance, wisdom, and power
+  summary: The speakers invoke a powerful divine figure identified as Indra, asking
+    for a shown path, proclaimed regions, guidance, wisdom, glory, strength, wealth,
+    and might; Indra is described with thunder and bolt imagery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine guidance on a path
+  taxonomy_refs: []
+  basis: The addressed divine figure is asked to show a path, proclaim the regions,
+    and guide the speakers.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a brief invocation, not a full journey narrative.
+- id: motif:2
+  label: Wisdom granted by a deity
+  taxonomy_refs:
+  - wisdom
+  basis: Indra is called wise and asked to make the speakers wise for glory and strength.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The request for wisdom is explicit, but the surrounding ritual or narrative
+    setting is only fragmentary in this excerpt.
+- id: motif:3
+  label: Thunder and bolt-bearing divine power
+  taxonomy_refs: []
+  basis: The invoked figure is addressed as thunderer, most powerful, and bearer of
+    the bolt in a request for wealth and might.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is an epithet cluster rather than a described mythic action.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself notes that several phrases in these verses resemble or
+    may be borrowed from earlier Rigvedic hymns, supporting a linguistic or formulaic
+    comparison within the Vedic corpus.
+  claim_level: linguistic_similarity
+  target: earlier Rigvedic hymns cited in the commentary
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is textual and formulaic; it does not by itself establish
+    a shared mythic episode, historical contact beyond the corpus, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 101248-101283
+  quote_or_summary: Commentary discusses Sakvari/Mahanamni verses, archaic forms and
+    metre, altered preservation, ritual references, and deity associations in Kausitaki
+    Brahmana, Brhaddevata, and related sources.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata supplied; short summary only.
+- id: ev:2
+  type: summary
+  locator: 101287-101304
+  quote_or_summary: Commentary says the verses contain phrases reminiscent of the
+    Rgveda, perhaps borrowed from earlier hymns, and lists several Rigvedic parallels.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata supplied; short summary only.
+- id: ev:3
+  type: quote
+  locator: 101324-101326
+  quote_or_summary: "“O generous one, show us a path, proclaim the regions, guide
+    us, lord of many mights, wealthy one”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata supplied; short excerpt.
+- id: ev:4
+  type: quote
+  locator: 101328-101329
+  quote_or_summary: "“With these aids of thine, wise one, make us wise, for glory
+    and for strength, Indra.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata supplied; short excerpt.
+- id: ev:5
+  type: quote
+  locator: 101330-101331
+  quote_or_summary: "“For wealth, for might, thunderer, most powerful, bearer of the
+    bolt”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata supplied; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is largely textual commentary with a short, partly truncated
+    translated invocation. Motif candidates are therefore conservative and based only
+    on explicit wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external corrections were applied to OCR/transliteration irregularities in the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l101248-l101331
+  passage_sha256=e8650b2d2cd9bbe543d1841adc8190b7d5bd4714cc03642d5a96804a8da09548
+

@@ -1,0 +1,208 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l2420-l2633
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: XXXV111 / Y. M. D. / Y. M. D. / CM CO; lines 2420-2633
+  start: '2420'
+  end: '2633'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied passage is a fragmentary OCR/table-like section with scattered
+    letters, numerals, and legible name tokens. It includes a heading-like token “Puranas”
+    and a sequence of names such as Sis'unaga, Kakavarna, Ksatraujas, Bimbisara, Ajatasatru,
+    Udayin, Mahanandi, Mahapadmi, Candragupt/a, and Bindusara. No continuous narrative
+    action is present.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is not a continuous narrative; it is a fragmentary table-like
+    or OCR-corrupted section with scattered letters, numerals, and isolated words.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: A heading-like token “Puranas” appears near the beginning of the legible material.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several personal-name-like entries appear in apparent succession, including
+    Sis'unaga, Kakavarna, Ksatraujas, Bimbisara, Ajatasatru, Udayin, Mahanandi, Mahapadmi,
+    and Bindusara.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The phrase “and 8 Sons” appears near Mahapadmi and before the later visible
+    entries Candragupt/a and Bindusara.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Sis'unaga
+  description: Legible named entry in the fragmentary list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kakavarna
+  description: Legible named entry in the fragmentary list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ksatraujas
+  description: Legible named entry in the fragmentary list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Bimbisara
+  description: Legible named entry in the fragmentary list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Ajatasatru
+  description: Legible named entry in the fragmentary list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Udayin
+  description: Legible named entry in the fragmentary list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Mahanandi
+  description: Legible named entry in the fragmentary list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: Mahapadmi
+  description: Legible named entry in the fragmentary list; it appears near the phrase
+    “and 8 Sons.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Candragupt/a
+  description: A fragmented entry appears as “Candragupt” followed by “a” on a separate
+    line in the supplied OCR text.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:10
+  name_or_label: Bindusara
+  description: Legible named entry in the fragmentary list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:11
+  name_or_label: unnamed eight sons
+  description: Collective group indicated only by the phrase “and 8 Sons.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: listed named entry
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: Each assigned figure appears as a legible name token within the fragmentary
+    list.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: entry associated with eight sons
+  assigned_to:
+  - fig:8
+  basis: Mahapadmi appears near the phrase “and 8 Sons.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: unnamed sons group
+  assigned_to:
+  - fig:11
+  basis: The passage explicitly includes the phrase “and 8 Sons,” without individual
+    names.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2420-2633
+  quote_or_summary: The fragmentary passage includes the heading-like token “Puranas”
+    and visible name tokens including Sis'unaga, Kakavarna, Ksatraujas, Bimbisara,
+    Ajatasatru, Udayin, and Mahanandi.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; concise summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2420-2633
+  quote_or_summary: Later visible entries include Mahapadmi, the phrase “and 8 Sons,”
+    a fragmented Candragupt/a entry, and Bindusara.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; concise summary generated from supplied passage.
+- id: ev:3
+  type: note
+  locator: lines 2420-2633
+  quote_or_summary: The supplied passage contains no coherent narrative scene, speech,
+    ritual action, divine intervention, symbolic object, or explicit comparative motif
+    statement.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; extraction note based only on supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: Extraction is limited by the fragmentary OCR/table form of the supplied passage.
+    No motif or comparison claims were extracted because the passage provides only
+    isolated list material rather than narrative or symbolic content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs or symbols from the provided taxonomy were supported by this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l2420-l2633
+  passage_sha256=99887f336a06d83d2aaa587eccf1d2fcc820298fbd0c21108a67f12289f9d04f
+

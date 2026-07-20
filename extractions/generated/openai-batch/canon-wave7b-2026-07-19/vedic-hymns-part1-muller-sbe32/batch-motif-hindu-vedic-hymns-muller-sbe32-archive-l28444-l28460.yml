@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l28444-l28460
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. VII, 46, 4. 439 / NOTES, 1, 2) 3. 441 / NOTES. / MANDALA I, HYMN 134.
+    445; lines 28444-28460
+  start: '28444'
+  end: '28460'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A hymn passage addresses Vayu: a hunter asks him for luck in the chase,
+    and he is said to shield by his power from beings and powerful spirits. Vayu is
+    declared worthy to drink the poured-out Somas first, while people invoke him and
+    cows pour out milk and butter for the Soma.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage mentions rushing to the whirl of the waters, though the subject
+    of the action is not clear within the excerpt.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A tired hunter asks the addressed deity for luck in the chase.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The addressed deity is said to shield by power from every being and from powerful
+    spirits.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Vayu is addressed by name and said to be worthy, first before all others,
+    to drink the speakers' Somas.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Vayu is said to be worthy to drink poured-out Somas.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: People who invoke Vayu and have turned to him are mentioned.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: All the cows pour out milk, butter, and milk for the Soma.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Vayu
+  description: The deity addressed by name as worthy to drink Soma and described as
+    shielding by power.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: tired hunter
+  description: A hunter who asks for luck in the chase.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: people who invoke Vayu
+  description: People who invoke Vayu and have turned to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: cows
+  description: Cows that pour out milk and butter for the Soma.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: powerful spirits
+  description: Spirits from whom the addressed deity is said to shield.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: protecting addressed deity
+  assigned_to:
+  - fig:1
+  basis: The addressed figure is said to shield by power from beings and powerful
+    spirits.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: first Soma recipient
+  assigned_to:
+  - fig:1
+  basis: Vayu is said to be worthy first before all others to drink the Somas.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: supplicant in the chase
+  assigned_to:
+  - fig:2
+  basis: The tired hunter asks luck in the chase.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: invoking worshippers
+  assigned_to:
+  - fig:3
+  basis: The people invoke Vayu and have turned to him.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: providers of milk and butter for Soma
+  assigned_to:
+  - fig:4
+  basis: The cows pour out milk and butter for the Soma.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: beings from whom protection is given
+  assigned_to:
+  - fig:5
+  basis: The passage says the deity shields from powerful spirits.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: waters
+  literal_form: whirl of the waters
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Soma
+  literal_form: Somas / poured-out Somas
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: milk and butter
+  literal_form: milk, butter, and milk poured out for the Soma
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Hunter's petition and divine protection
+  summary: A tired hunter asks for luck in the chase, and the addressed deity is described
+    as shielding by power from beings and powerful spirits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vayu as first Soma drinker
+  summary: Vayu is addressed as worthy before all others to drink the speakers' poured-out
+    Somas.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Invocation and milk for Soma
+  summary: People who invoke and turn to Vayu are mentioned, and cows pour out milk
+    and butter for the Soma.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Ritual offering of Soma to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: Vayu is invited to drink the speakers' poured-out Somas, and milk and butter
+    are poured out for the Soma.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt gives a hymn context and offering language but does not describe
+    the full ritual procedure.
+- id: motif:2
+  label: Deity receives first share of sacred drink
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Vayu is described as worthy as the first before all others to drink the Somas.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states precedence in drinking Soma but does not explain the
+    broader ritual order.
+- id: motif:3
+  label: Petition for divine aid and protection
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The hunter asks for luck in the chase, and the deity is said to shield by
+    power from beings and powerful spirits.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The reciprocity between petition and offering is implied by proximity
+    within the hymn excerpt, not fully narrated as an exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 28444-28448
+  quote_or_summary: '"have rushed to the whirl of the waters. The tired hunter asks
+    luck of thee in the chase... thou shieldest by thy power from every being... from
+    powerful spirits"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 28450-28453
+  quote_or_summary: '"Thou, O Vayu, art worthy as the first before all others to drink
+    these our Somas... these poured-out Somas."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 28453-28458
+  quote_or_summary: '"Among the people also who invoke thee and have turned to thee...
+    all the cows pour out the milk, they pour out butter and milk (for the Soma)."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a short excerpt and begins mid-sentence, so one action involving
+    the waters has an unclear subject. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata; taxonomy refs limited to supplied lists.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l28444-l28460
+  passage_sha256=f5ba6e4598b511a5df0a8b6a11f34615ec8a0ecffa2402633c6faa7d1db2fead
+

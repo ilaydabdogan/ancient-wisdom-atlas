@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l12939-l12985
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: APPENDIX I / APPENDIX I / PART I. / PART II.; lines 12939-12985
+  start: '12939'
+  end: '12985'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes leaf-cutting saiiba ants in the Chaco: their columns,
+    leaf-carrying, tree-cutting, mound and underground passage system, fungus cultivation,
+    and apparent night work. It then describes mosquitos as a dominant hardship of
+    daily life, especially after sunset and in swampy places, affecting humans and
+    horses.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Saiiba leaf-cutting ants travel in two columns along a beaten track; ants
+    moving one way carry circular leaf pieces, while ants moving the other way are
+    empty-handed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Following the path toward the empty-handed ants leads to a tree with a pile
+    of cut leaf pieces at its base and other ants cutting new leaf pieces above.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Following the ants' path in the other direction leads to a large low mound
+    made of earth granules from underground passages, with multiple hard, smooth paths
+    branching to trees.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The saiiba ants take collected leaf fragments into a subterranean nest and
+    use them to grow a fungus that provides food.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The saiiba ants are described as working at night as well as by day, based
+    on observation by lantern light after sunset.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Mosquitos are described as a major condition of daily life in the Chaco; their
+    presence determines whether life is enjoyable or miserable after sunset.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Mosquitos bite through clothing and are especially troublesome after dark
+    or in swampy places, affecting covered and exposed parts of the body.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Horses suffer severely from mosquitos; a horse's neck may be packed with gorged
+    mosquitos that leave blood on a hand when patted.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: saiiba leaf-cutting ant
+  description: A species of ant described as cutting leaves, carrying leaf discs,
+    building mounds and underground passages, and cultivating fungus for food.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: mosquitos
+  description: Insects described as numerous, vindictive, able to bite through clothing,
+    and a severe hardship for humans and horses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: horses
+  description: Animals described as suffering badly from mosquito bites, especially
+    toward the end of summer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: leaf cutter and carrier
+  assigned_to:
+  - fig:1
+  basis: The ants cut circular pieces from leaves and carry them along beaten paths
+    between trees and the mound.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: fungus cultivator
+  assigned_to:
+  - fig:1
+  basis: The ants use collected leaf fragments in their subterranean nest to grow
+    fungus for food.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: biting pest and environmental hardship
+  assigned_to:
+  - fig:2
+  basis: Mosquitos are described as shaping daily life, biting through clothing, and
+    causing misery after sunset and in swampy places.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: afflicted animal
+  assigned_to:
+  - fig:3
+  basis: Horses are described as suffering terribly from mosquitos, with many becoming
+    unfit to ride.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: Trees at the ends of the ants' paths, where ants cut leaf pieces that
+    fall to the ground.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: leaf discs
+  literal_form: Circular pieces of leaf carried upright in the ants' jaws and piled
+    at the base of trees.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: mound and subterranean nest
+  literal_form: A large low mound and underground passage system into which the ants
+    carry leaf fragments.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: fungus food
+  literal_form: Fungus grown on collected leaf fragments inside the subterranean nest.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: mosquito-bitten blood
+  literal_form: Blood from gorged mosquitos crushed on a horse's neck when it is patted.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Leaf-cutting ant procession
+  summary: Columns of saiiba ants move along a beaten track; one line carries circular
+    leaf pieces while the opposite line returns empty-handed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tree cutting station
+  summary: The ants' path leads to a tree where leaf pieces pile at the base while
+    ants cut new pieces above.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mound and underground network
+  summary: The ants' routes converge on a large low mound formed from earth brought
+    up from underground passages, with paths branching toward trees.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fungus cultivation in the nest
+  summary: Collected leaf fragments are taken into the subterranean nest and used
+    to grow fungus that feeds the ants.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Mosquito hardship after sunset
+  summary: Mosquitos make life miserable after sunset and in swampy places, biting
+    humans through clothing and severely affecting horses.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12939-12948
+  quote_or_summary: The passage describes saiiba ants appearing like moving columns
+    of leaves; one column carries circular leaf pieces, while the other returns empty-handed
+    along a beaten track.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 12949-12957
+  quote_or_summary: The ant path leads to a tree with a pile of leaf discs at its
+    base, while ants above cut new leaf pieces that fall to the ground.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 12958-12966
+  quote_or_summary: The opposite direction of the ant path leads to a large low mound
+    made from earth granules brought up from underground passages, with many hard,
+    smooth paths branching to trees.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 12967-12970
+  quote_or_summary: The saiiba ant is said to carry leaf fragments into its subterranean
+    nest and use them to grow a fungus that provides food.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 12971-12974
+  quote_or_summary: The ants are described as seeming to work by night as well as
+    by day, having been observed by lantern light after sunset.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 12975-12982
+  quote_or_summary: Mosquitos are described as a major influence on daily life in
+    the Chaco, especially after sunset or in swampy places, biting through clothing
+    and causing misery.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 12983-12985
+  quote_or_summary: Horses are said to suffer badly from mosquitos; a pat on a horse's
+    neck may crush gorged mosquitos and leave the hand covered with blood.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is natural-historical and ethnographic rather than mythic or
+    narrative; no comparative mythology motif or passage-supported comparison claim
+    is extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological candidate motifs were identified from the supplied passage alone.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l12939-l12985
+  passage_sha256=23ad5c6e1a3c84c9f83a6a0b73e59ed4d32440cda7e91709c444542a0e71309e
+

@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l3935-l3963
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: BAIN CEREMONIAL OF THE SNAKE SOOIETY. / CEREMONIAL VASE. / CEREMONIAL. 85
+    / VICE HO'-NA-AI-TE OF SNAKE SOCIETY.; lines 3935-3963
+  start: '3935'
+  end: '3963'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: On the night before a party leaves Sia, the vicar of the Snake Society
+    visits the camp repeatedly, waits until other visitors are gone, directs the tent
+    to be secured and a listener posted, handles a vase secretly, places a plume offering
+    and meal in it, prays tearfully, and the vase is later taken to Washington and
+    deposited in the National Museum.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is set on the night before the party's departure from Sia.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The vicar of the Snake Society made several visits to the camp but did not
+    remain while other Indian guests were present.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the last guest left at midnight, the vicar returned, said he would come
+    again, and came back about an hour later.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The vicar instructed that the tent be closely fastened and that one person
+    listen for the first footstep.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The vicar took one vase from a sack and appeared excited and distressed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The vicar did not allow close examination of the vase and urged that it be
+    packed at once.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The vicar placed a plume offering in the vase, sprinkled meal upon it, and
+    prayed while crying.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The vase was brought to Washington and deposited in the National Museum.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: vicar of the Snake Society
+  description: A Snake Society official who visits the camp, directs secrecy around
+    the tent, controls handling of the vase, places offerings, and prays.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: departing party from Sia
+  description: The party whose departure from Sia is imminent and whose camp receives
+    the vicar's visits and instructions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: other Indian guests
+  description: Other Indians present in the camp whose presence prevents the vicar
+    from staying until they leave.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: Snake Society vicar
+  assigned_to:
+  - fig:1
+  basis: The passage directly identifies the visitor as the vicar of the Snake Society.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual handler of the vase
+  assigned_to:
+  - fig:1
+  basis: He removes the vase, restricts examination, places the plume offering and
+    meal, and prays.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: departing camp party and recipients of instructions
+  assigned_to:
+  - fig:2
+  basis: The party is about to depart from Sia, and the vicar addresses the camp occupants
+    with instructions before the vase is packed and later taken to Washington.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:4
+  label: people whose absence permits the private action
+  assigned_to:
+  - fig:3
+  basis: The vicar does not remain while these guests are present and resumes the
+    action after the last guest leaves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: ceremonial vase
+  literal_form: vase taken from a sack, packed, and later deposited in the National
+    Museum
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: plume offering
+  literal_form: plume offering placed in the vase
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: meal
+  literal_form: meal sprinkled upon the plume offering in the vase
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: fastened tent and listening watch
+  literal_form: tent ordered closely fastened while one person listens for the first
+    footstep
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Repeated night visits before departure
+  summary: On the night before the party leaves Sia, the Snake Society vicar visits
+    the camp repeatedly but waits until other guests have gone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Private handling and packing of the vase
+  summary: The vicar returns after midnight, instructs the tent to be fastened and
+    watched, removes a vase from a sack, prevents close examination, and urges immediate
+    packing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Offering and prayer over the vase
+  summary: The vicar deposits a plume offering in the vase, sprinkles meal upon it,
+    and prays with tears on his cheeks.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Removal to Washington
+  summary: The vase is taken to Washington and deposited in the National Museum.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Guarded handling of a ceremonial vessel
+  taxonomy_refs: []
+  basis: The vase is handled at night after guests leave; the tent is to be fastened,
+    someone is to listen for footsteps, close examination is refused, and immediate
+    packing is urged.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic ritual episode, not a mythic narrative scene.
+- id: motif:2
+  label: Offering placed in a sacred container with prayer
+  taxonomy_refs: []
+  basis: A plume offering is deposited in the vase, meal is sprinkled upon it, and
+    the vicar prays while visibly emotional.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the intended meaning of the offering.
+- id: motif:3
+  label: Transfer of a ceremonial object from ritual custody to a distant repository
+  taxonomy_refs: []
+  basis: The vase is packed after the vicar's ritual action and is later brought to
+    Washington and deposited in the National Museum.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage reports the transfer but does not state the ritual or cosmological
+    interpretation of that removal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3935-3938
+  quote_or_summary: Night before the party's departure from Sia, the vicar of the
+    Snake Society makes several visits to the camp but does not stay while other Indians
+    are present.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 3938-3942
+  quote_or_summary: After the last guest leaves at midnight, the vicar returns, says
+    he will come again, returns an hour later, and instructs the tent to be fastened
+    while one person listens for the first footstep.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 3942-3959
+  quote_or_summary: The vicar takes one vase from a sack, appears excited and distressed,
+    refuses close examination of the vase, and urges that it be packed at once.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 3959-3962
+  quote_or_summary: The vicar deposits a plume offering in the vase, sprinkles meal
+    upon it, and prays while tears moisten his cheeks.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 3962-3963
+  quote_or_summary: The vase is brought to Washington and deposited in the National
+    Museum.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Core actions are clear, but OCR and embedded illustration artifacts disrupt
+    part of the passage. No comparison claims are made because the passage itself
+    does not provide comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external context was used. Taxonomy references were not assigned because the passage mentions the Snake Society by name but does not present a literal serpent figure or explain a serpent motif in this excerpt.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l3935-l3963
+  passage_sha256=0dba65422bdb15834506c85d730af61c9bcf3278be3bd5fb3a366aaaeb1a976a
+

@@ -1,0 +1,383 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l18431-l18465
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: I. 1 2 / I I I / IV. 1 2 14 13 / APPENDIX C; lines 18431-18465
+  start: '18431'
+  end: '18465'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A scholarly passage reconstructs D.''s military route: frontier forts
+    along the Mahaweliganga/Mahaganga, the retreat of defeated Damila divisions toward
+    Vijita-nagara, D.''s probable river crossing and advance along an earlier road
+    used by Pandukabhaya, the siege and storming of Vijita, entrenchment on Kasa-pabbata,
+    a decisive battle opening the road to Anuradhapura, and Elara''s fall by D.''s
+    hand in single combat near the city walls.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kaccha-tittha is described as a place whose capture required a four-month
+    siege.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The places under discussion are interpreted as frontier outposts or forts
+    placed along the Mahaweliganga.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The remains of the vanquished Damila divisions retreat toward Vijita-nagara.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage locates Vijita-nagara most probably near Kaluwaewa, where Vijitapura-vihara
+    and jungle ruins are mentioned.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: D. is said probably to have crossed the Mahaganga near Kacchaka-tittha.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: D.'s advance against Vijita is compared to a road formerly used by Pandukabhaya
+    from Kasa-pabbata to Dola-pabbata.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The siege and storming of Vijita are described as clear and vivid.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: D. entrenched himself on Kasa-pabbata to await his adversary Elara in a favorable
+    position.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A decisive battle opens the road to the capital for D.; the conquered foe
+    is pursued near Anuradhapura.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Elara falls by D.'s hand in heroic single combat beneath or near the walls
+    of Anuradhapura.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: D.
+  description: The commander whose crossing, advance, entrenchment, decisive battle,
+    pursuit, and single combat with Elara are described.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Elara
+  description: D.'s adversary, who falls by D.'s hand in heroic single combat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Vanquished Damila divisions / conquered foe
+  description: Defeated forces retreat toward Vijita-nagara and are later pursued
+    near Anuradhapura.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Pandukabhaya
+  description: An earlier figure whose march-route from Kasa-pabbata to Dola-pabbata
+    is used as a comparison for D.'s advance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: advancing commander
+  assigned_to:
+  - fig:1
+  basis: D. crosses the river, advances against Vijita, and entrenches to await Elara.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: adversary in final combat
+  assigned_to:
+  - fig:2
+  basis: Elara is named as D.'s adversary and falls by D.'s hand in single combat.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: retreating defeated forces
+  assigned_to:
+  - fig:3
+  basis: The Damila divisions are described as vanquished and retreating, and the
+    conquered foe is pursued near Anuradhapura.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: route precedent figure
+  assigned_to:
+  - fig:4
+  basis: Pandukabhaya is cited as having used the same road in an earlier march.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: victor in heroic single combat
+  assigned_to:
+  - fig:1
+  basis: Elara falls by the hand of D. in heroic single combat.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: river frontier and crossing
+  literal_form: Mahaweliganga / Mahaganga river near Kacchaka-tittha
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: fortified city under siege
+  literal_form: Vijita-nagara / Vijita
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: entrenched favorable position
+  literal_form: Kasa-pabbata
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: capital and city walls
+  literal_form: Anuradhapura and its walls
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Frontier forts along the river
+  summary: Kaccha-tittha and other named places are treated as frontier outposts or
+    forts along the Mahaweliganga.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Retreat toward Vijita-nagara
+  summary: The vanquished Damila divisions retreat toward Vijita-nagara, whose probable
+    location is discussed.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: River crossing and earlier road
+  summary: D. probably crosses the Mahaganga near Kacchaka-tittha and follows a road
+    earlier used by Pandukabhaya.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Siege and storming of Vijita
+  summary: The passage identifies the siege and storming of Vijita and places later
+    stations along the road to Anuradhapura.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Entrenchment, decisive battle, and single combat
+  summary: D. entrenches on Kasa-pabbata, a decisive battle opens the road to the
+    capital, the foe is pursued, and Elara falls in single combat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: river frontier crossed before advance
+  taxonomy_refs: []
+  basis: The passage treats several places as river-frontier forts and says D. probably
+    crossed the Mahaganga near Kacchaka-tittha before advancing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this chiefly as geographical reconstruction, not
+    as an explicit symbolic water-crossing motif.
+- id: motif:2
+  label: siege and storming of a fortified city
+  taxonomy_refs: []
+  basis: The passage explicitly identifies the siege and storming of Vijita as a major
+    episode.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available taxonomy
+    list lacks a specific siege motif.
+- id: motif:3
+  label: decisive battle opens the road to the capital
+  taxonomy_refs: []
+  basis: After D. entrenches to await Elara, a decisive battle is said to open the
+    road to the capital, followed by pursuit near Anuradhapura.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly frame the event as royal legitimation,
+    so no royal_legitimacy taxonomy reference is assigned.
+- id: motif:4
+  label: heroic single combat with opposing leader
+  taxonomy_refs: []
+  basis: Elara falls by D.'s hand in heroic single combat near the city walls.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage supports the combat pattern but does not provide a dedicated
+    taxonomy reference for it.
+- id: motif:5
+  label: advance along an earlier heroic route
+  taxonomy_refs: []
+  basis: D.'s advance is said to follow the same road used earlier by Pandukabhaya.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The statement is introduced as probable and is primarily geographic rather
+    than explicitly mythic.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares D.'s advance against Vijita with Pandukabhaya's
+    earlier march by saying D. followed the same road.
+  claim_level: same_function
+  target: Pandukabhaya's earlier march from Kasa-pabbata to Dola-pabbata in the same
+    chronicle tradition
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is a probable route reconstruction; it does not establish
+    historical contact, common inheritance, or a broader motif family.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18431-18436
+  quote_or_summary: Kaccha-tittha is mentioned as requiring a four-month siege; the
+    commentator interprets the named places as frontier outposts or forts along the
+    Mahaweliganga, with individual names uncertain.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 18437-18443
+  quote_or_summary: The vanquished Damila divisions retreat toward Vijita-nagara;
+    the commentator places Vijita most probably near Kaluwaewa and Vijitapura-vihara,
+    where jungle ruins suggest a larger settlement.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 18444-18449
+  quote_or_summary: D. probably crossed the Mahaganga near Kacchaka-tittha and then
+    followed the same road used by Pandukabhaya from Kasa-pabbata to Dola-pabbata.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 18450-18455
+  quote_or_summary: The siege and storming of Vijita are described; later stations
+    lie on the road from Dambul to Anuradhapura; D. entrenches on Kasa-pabbata to
+    await Elara.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 18456-18461
+  quote_or_summary: A decisive battle opens D.'s road to the capital; the foe is pursued
+    near Anuradhapura; Elara falls by D.'s hand in heroic single combat.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: 18462-18465
+  quote_or_summary: Footnotes cite Mah. 25.19 and modern discussions by Burrows and
+    Parker, including an alternative location for Vijita in the region of later Polonnaruwa.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal route, siege, battle, and combat details are clear. Motif assignments
+    are cautious because the passage is mainly historical-geographical commentary
+    rather than an explicitly symbolic or mythic narration.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The abbreviation D. has not been expanded beyond the passage wording.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l18431-l18465
+  passage_sha256=39bde2aae95f89c1b8d9aaa53a7b9c8588af37ced74fbee62e14374f6e55ad1a
+

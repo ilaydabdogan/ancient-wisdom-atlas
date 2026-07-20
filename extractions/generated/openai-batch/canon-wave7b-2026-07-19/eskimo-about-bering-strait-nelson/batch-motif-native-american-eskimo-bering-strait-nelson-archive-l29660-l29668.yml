@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l29660-l29668
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THK  RAVEN,  THE  WHALE,  AND  THE  MINK / THE   LONE    WOMAN / THE   SUN  AND   THE  MOON
+    / THE   RED    BEAR    (TA-KU-KA); lines 29660-29668
+  start: '29660'
+  end: '29668'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A girl or woman initially appears as she did when alive, but after sitting
+    in her father's house she loses color, wastes to skin and bone, and cannot speak.
+    The next morning her namesake in the same village dies; that woman's shade goes
+    to the land of the dead in the girl's place, after which the girl regains strength
+    and lives for many years.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When men first saw the girl or woman, she appeared in form and color exactly
+    as when alive.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After she sat down in her father's house, her color faded and she shrank until
+    she was skin and bone and too weak to speak.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Early the next morning, her namesake, a woman in the same village, died.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The namesake woman's shade went to the land of the dead in the girl's place.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the substitution, the girl gradually became strong again and lived for
+    many years.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: the girl or woman seen by the men
+  description: She appears as when alive, then fades and wastes in her father's house,
+    and later becomes strong again.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the men
+  description: They first see the girl or woman in a form and color like when she
+    was alive.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the father
+  description: His house is the place where the girl or woman sits down and then fades
+    and weakens.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the namesake woman
+  description: A woman in the same village who has the girl's name and dies the next
+    morning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the namesake woman's shade
+  description: The shade goes to the land of the dead in the girl's place.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: returned or death-threatened girl
+  assigned_to:
+  - fig:1
+  basis: She appears as when alive, weakens to skin and bone, and survives after another
+    shade goes to the dead in her place.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: initial witnesses
+  assigned_to:
+  - fig:2
+  basis: They are the first men said to see her appearance.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: father connected with threshold setting
+  assigned_to:
+  - fig:3
+  basis: The wasting begins when she sits in her father's house.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: namesake substitute who dies
+  assigned_to:
+  - fig:4
+  basis: The namesake woman dies the next morning.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: substitute shade sent to the dead
+  assigned_to:
+  - fig:5
+  basis: The shade goes to the land of the dead in the girl's place.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: land of the dead
+  literal_form: the land of the dead
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: shade
+  literal_form: the namesake woman's shade
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: skin and bone body
+  literal_form: body reduced to skin and bone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: namesake relation
+  literal_form: a woman in the same village who is her namesake
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Appearance and wasting in the father's house
+  summary: Men see the girl or woman looking as she did when alive; after sitting
+    in her father's house, she loses color, shrinks to skin and bone, and cannot speak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Namesake's death and shade substitution
+  summary: The next morning the namesake woman dies, her shade goes to the land of
+    the dead in the girl's place, and the girl recovers strength and lives for many
+    years.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: substitutionary shade sent to the land of the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  - sacred_exchange
+  basis: The passage states that the namesake woman's shade goes to the land of the
+    dead in the girl's place, after which the girl recovers.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy references are broad; the passage does not explain a formal
+    ritual exchange, only a replacement of one person's shade for another.
+- id: motif:2
+  label: recovery from a deathlike condition after another's death
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The girl first appears as when alive, then wastes to skin and bone and cannot
+    speak, but after the namesake dies and her shade departs, the girl becomes strong
+    and lives for many years.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes recovery and survival, but does not explicitly state
+    that the girl herself had died and returned.
+- id: motif:3
+  label: namesake bond affecting life and death
+  taxonomy_refs: []
+  basis: The dead substitute is specifically identified as the girl's namesake, and
+    her shade goes to the dead in the girl's place.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the mechanism or cultural rule connecting
+    namesakes; it only records the event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 29660-29663
+  quote_or_summary: '"she appeared in form and color exactly as when alive" and then
+    "became nothing but skin and bone" and was too weak to speak.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 29665-29668
+  quote_or_summary: The next morning her namesake, a woman in the same village, died;
+    the namesake's shade went to the land of the dead in the girl's place, and the
+    girl became strong again and lived many years.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels involving resurrection
+    or sacred exchange are tentative because the passage provides only a brief narrative
+    without explicit interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another text or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l29660-l29668
+  passage_sha256=500fff73c2fa138b2fc25136f61ae6a9b6523f8a6f4f30d67b8d020954c2dfba
+

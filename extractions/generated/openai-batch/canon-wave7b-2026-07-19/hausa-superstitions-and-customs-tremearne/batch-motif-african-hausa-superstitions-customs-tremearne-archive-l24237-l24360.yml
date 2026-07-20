@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l24237-l24360
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: HAIR,  92,  126,  128,  176,  489 / INDEX   TO  PARTS  I  AND  III / JACKAL,  THE,   19,  26,  32,  33,  35,
+    / MAGIC  APPEARANCES,  160,  167; lines 24237-24360
+  start: '24237'
+  end: '24360'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index excerpt lists topics and page references concerning magic appearances,
+    named religious or magical figures, marriage customs, miraculous births, sacrifice,
+    monsters, witches, mythical beings, and nature myths of the sun and wind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index heading “Magic Appearances” is followed by subentries including
+    animals, basket, birds, creation, door, eye, gifts, gourds, handkerchief, names,
+    ointment, rites, spells, tree, and words.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entry identifies Magiro as an evil spirit.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The entry identifies Mai-bori as a member of the sect and gives Masu-bori
+    as the plural form.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The entry identifies Malam as a priest, magician, or “doctor.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Marriage-related entries include marriage with animals, marriage by capture,
+    ceremonies, dress, feast, intimacy previous to marriage, reluctance of the bride,
+    a test of fitness for marriage, marriage to a tree, and marriage of a virgin.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The index includes entries for milk, miraculous births, mirage, monkey, monsters,
+    moon, motherhood, mourning, mouse, and mud-fish.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:7
+  text: An OCR-broken entry refers to “Mother sacrificed with her ... dren,” indicating
+    a sacrifice-related topic but leaving the final word visually uncertain in this
+    excerpt.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage includes an entry for the numerous mouths of witches.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage lists mythical beings and nature myths, including myths of the
+    sun and myths of the wind.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Magiro
+  description: Named in the index as an evil spirit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Mai-bori / Masu-bori
+  description: Named in the index as a member of the sect, with Masu-bori given as
+    the plural.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Malam
+  description: Named in the index as a priest, magician, or “doctor.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: witches
+  description: Mentioned in an index entry about numerous mouths.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: mother in sacrifice entry
+  description: Mentioned in an OCR-broken index entry beginning “Mother sacrificed
+    with her ...”.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: evil spirit
+  assigned_to:
+  - fig:1
+  basis: The index glosses Magiro as an evil spirit.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sect member
+  assigned_to:
+  - fig:2
+  basis: The index glosses Mai-bori as a member of the sect.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: priest, magician, or doctor
+  assigned_to:
+  - fig:3
+  basis: The index glosses Malam with these roles.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: witches with bodily anomaly
+  assigned_to:
+  - fig:4
+  basis: The index entry refers to the numerous mouths of witches.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: sacrificed mother
+  assigned_to:
+  - fig:5
+  basis: The index entry begins with “Mother sacrificed,” though the following word
+    is OCR-broken.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: milk
+  literal_form: milk
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: animals
+  literal_form: animals
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: birds
+  literal_form: birds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: moon
+  literal_form: moon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: sun and wind
+  literal_form: sun; wind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: magic appearances involving animals, objects, rites, spells, and words
+  taxonomy_refs: []
+  basis: The “Magic Appearances” index heading groups animals, basket, birds, eye,
+    gifts, gourds, handkerchief, ointment, rites, spells, tree, and words as related
+    subentries.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt is an index and does not describe the actual episodes behind
+    the entries.
+- id: motif:2
+  label: marriage with nonhuman partners
+  taxonomy_refs: []
+  basis: The marriage entries include “with animals” and “to a tree.”
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only index headings are available; no narrative details identify the function
+    or sacred status of these marriages.
+- id: motif:3
+  label: miraculous birth
+  taxonomy_refs:
+  - miraculous_child
+  - sacred_birth
+  basis: The index explicitly includes “Miraculous births.”
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supplies no details about the birth circumstances or child
+    figures.
+- id: motif:4
+  label: sacrifice of a mother
+  taxonomy_refs:
+  - sacrifice
+  basis: The index includes an entry beginning “Mother sacrificed.”
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The following phrase is OCR-broken in the excerpt, so the full title of
+    the indexed tale or topic is uncertain.
+- id: motif:5
+  label: monstrous or anomalous beings
+  taxonomy_refs: []
+  basis: The passage lists monsters, mythical beings, and witches with numerous mouths.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The index does not narrate the beings’ actions or meanings.
+- id: motif:6
+  label: nature myths of sun and wind
+  taxonomy_refs: []
+  basis: The index explicitly lists nature myths and separate entries for myths of
+    the sun and myths of the wind.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No mythic episodes are summarized in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24237-24263
+  quote_or_summary: Under “Magic Appearances,” the passage lists animals, basket,
+    birds, creation, door, eye, gifts, gourds, handkerchief, names, ointment, rites,
+    spells, tree, and words with page references.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 24264-24276
+  quote_or_summary: The index gives Magiro as an evil spirit, Mai-bori as a member
+    of the sect with plural Masu-bori, and Malam as priest, magician, or “doctor.”
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 24277-24322
+  quote_or_summary: Marriage entries include marriage with animals, by capture, ceremonies,
+    dress, feast, intimacy previous to marriage, reluctance of the bride, test of
+    fitness for marriage, marriage to a tree, and marriage of a virgin.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 24323-24342
+  quote_or_summary: The index lists milk, miraculous births, mirage, monkey, monsters,
+    moon, motherhood as the desire for motherhood, mourning, and mouse.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 24335-24339
+  quote_or_summary: An OCR-broken entry reads in substance “Mother sacrificed with
+    her ... dren. The,” with page reference 136.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 24343-24351
+  quote_or_summary: The passage lists “Mouths, The numerous, of witches,” then mud-fish,
+    mutilation, and mythical beings.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 24352-24360
+  quote_or_summary: The passage lists nature myths, including myths of the sun and
+    myths of the wind.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an index excerpt rather than a narrative passage. Literal
+    topical extraction is fairly secure, but motif interpretation is limited by the
+    absence of episode descriptions and by several OCR-broken words.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were generated because the passage itself gives no explicit comparative framing beyond indexed topic labels.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l24237-l24360
+  passage_sha256=359b45b74bdbd4c5652d3f5593b659b8914c85705b4c3cae6d71546cdcef3739
+

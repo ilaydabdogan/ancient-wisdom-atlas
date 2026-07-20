@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l6614-l6644
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: MURACHADII MAC BRIAN. 223 / MURACHADII MAC BRIAN. 227 / MURACIIADII MAC BRIAN.
+    229 / THE THREE WIDOWS.; lines 6614-6644
+  start: '6614'
+  end: '6644'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens a tale about three widows, each with a son. Dómhnull,
+    one son, owns more stots than the others. The others complain, kill his stots
+    at night, and Dómhnull finds them dead. He flays and salts the animals, takes
+    a hide toward the town to sell, spends the night in a wood with the hide over
+    his head, catches a bird that lands on it, and later tells a gentleman that the
+    bird is a soothsayer.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: There are three widows, and each has one son; one son is named Dómhnull.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dómhnull has four stots, while the others have two each.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The others repeatedly scold, saying Dómhnull has more grass than they have.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At night the others go to the fold, seize Dómhnull's stots, and kill them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the morning Dómhnull finds the stots dead.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Dómhnull flays and salts the stots, then takes one hide toward the big town
+    to sell.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Night overtakes Dómhnull before he reaches the town, so he goes into a wood
+    and puts the hide about his head.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Birds land on the hide, and Dómhnull catches one with his hand.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: At daybreak Dómhnull goes to a gentleman's house.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: When the gentleman asks what Dómhnull has under his arm, Dómhnull says that
+    he has a soothsayer.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: three widows
+  description: Three widows who each have one son at the opening of the tale.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dómhnull
+  description: The named son of one widow; he owns four stots, later prepares their
+    hides and catches a bird.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: the other two sons
+  description: The remaining sons, described as having two stots each and as complaining
+    about Dómhnull's grass before killing his stots.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: gentleman
+  description: A gentleman at whose house Dómhnull arrives; he asks what Dómhnull
+    is carrying.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: captured bird
+  description: One bird from a group that lands on the hide; Dómhnull catches it and
+    later describes what he carries as a soothsayer.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: mothers of the three sons
+  assigned_to:
+  - fig:1
+  basis: The opening states that the three widows each have a son.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: livestock owner whose stots are killed
+  assigned_to:
+  - fig:2
+  basis: Dómhnull owns four stots, and later finds them dead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: resentful killers of Dómhnull's stots
+  assigned_to:
+  - fig:3
+  basis: The others complain about his grass and then go to the fold at night to kill
+    his stots.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: resourceful carrier of hide and captured bird
+  assigned_to:
+  - fig:2
+  basis: Dómhnull takes a hide to sell, shelters under it, catches a bird, and brings
+    it to a gentleman's house.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: questioning householder
+  assigned_to:
+  - fig:4
+  basis: The gentleman comes to the door and asks what Dómhnull has under his arm.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: animal presented as a soothsayer
+  assigned_to:
+  - fig:5
+  basis: After catching the bird, Dómhnull tells the gentleman he has a soothsayer.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: stots
+  literal_form: Four stots belonging to Dómhnull, and two each belonging to the others;
+    Dómhnull's stots are killed.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hide
+  literal_form: A hide from one of the killed stots, taken by Dómhnull to sell and
+    later put about his head in the wood.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: wood
+  literal_form: A wood where Dómhnull spends the night on the way to the big town.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: bird called a soothsayer
+  literal_form: A bird caught by Dómhnull after birds land on the hide; he says he
+    has a soothsayer.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: widows' sons and unequal livestock
+  summary: The tale introduces three widows and their sons. Dómhnull has more stots
+    than the other two sons, who complain that he has more grass.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: night killing of Dómhnull's stots
+  summary: The other two go to the fold at night, kill Dómhnull's stots, and he discovers
+    them dead in the morning.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: journey with hide and bird capture
+  summary: Dómhnull prepares the dead animals and takes one hide toward the big town.
+    Night comes before he arrives, so he shelters in a wood with the hide over his
+    head and catches a bird that lands on it.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: arrival at the gentleman's house
+  summary: At daybreak Dómhnull goes to a gentleman's house. When asked what he carries,
+    he says it is a soothsayer.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: envy over unequal livestock leading to animal killing
+  taxonomy_refs: []
+  basis: The others complain that Dómhnull has more grass and then kill his stots
+    at night.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a local episode-level pattern rather than a confirmed indexed
+    motif.
+- id: motif:2
+  label: loss converted into saleable or useful remains
+  taxonomy_refs: []
+  basis: After his stots are killed, Dómhnull flays and salts them and takes a hide
+    to sell.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not show the eventual outcome of the sale.
+- id: motif:3
+  label: captured animal presented as divinatory helper
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Dómhnull catches a bird and tells the gentleman that what he carries is a
+    soothsayer.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage stops before any divination or deception is completed; the
+    taxonomy link is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6614-6622
+  quote_or_summary: The tale begins with three widows, each having one son; Dómhnull
+    is named as the son of one widow.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6624-6628
+  quote_or_summary: Dómhnull has four stots, while the others have two each; they
+    scold him, saying he has more grass than they do.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6628-6633
+  quote_or_summary: At night the others go to the fold, seize Dómhnull's stots, and
+    kill them; in the morning he finds the stots dead.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6635-6638
+  quote_or_summary: Dómhnull flays and salts the stots, then takes one hide with him
+    to the big town to sell.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6638-6642
+  quote_or_summary: Night comes before Dómhnull reaches the town; he goes into a wood,
+    puts the hide about his head, and catches one of the birds that land on it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6642-6644
+  quote_or_summary: At daybreak Dómhnull goes to a gentleman's house; when asked what
+    he has under his arm, he says he has a soothsayer.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and narratively clear, though the pronoun identifying
+    the killers is resolved from the immediate context of the other two sons. Motif
+    labels are candidate episode patterns only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l6614-l6644
+  passage_sha256=d2476ba07f0bf3675925c796b7c076e2a3c98bbd1e929be4a46b901b1a553c07
+

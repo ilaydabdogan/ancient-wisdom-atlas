@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l102518-l102594
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH S / ARANYAKA IV / ARANYAKA V / ADHYAYA 2.; lines 102518-102594
+  start: '102518'
+  end: '102594'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“The Soma is pressed for thee, come to the sacrifice”"
+  summary: The passage gives philological notes and ritual directions for arranging
+    and reciting verse groups, including head, neck, vertebrae, and right-wing sections.
+    It includes an invocation to Indra with pressed Soma, praise of Indra as leader
+    and Vrtra-slayer, and a note connecting right-wing verses with the Rathantara
+    Saman.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage discusses alternate textual readings and says new verses are to
+    be inserted before the last verse preceding the sādadohas verse, not directly
+    before that verse.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Śrauta Sūtra passage is reported to give head-verses from Rigvedic hymns
+    and to allow alternatives used by Sāman singers.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The recitation is described as being by half-verses, with the sādadohas verse
+    occurring at the end.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: obs:4
+  text: The named verse-group labels in the passage include neck, head, vertebrae,
+    and right wing.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The quoted invocation says that Soma is pressed, invites Indra to the sacrifice,
+    and asks him to rejoice in a gift-rich carouse for wealth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Indra is described as generous, young, a leader, impetuous, bright, a dweller
+    on the mountains, shouting aloud, and moving with eternal steeds.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Indra is said to be able to overcome his foes in slaying Vrtras.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The right-wing verses are said to be connected with the Rathantara Saman,
+    which has a named strophe and antistrophe.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: The addressed divine figure for whom Soma is pressed; he is invited
+    to the sacrifice and praised as leader, mountain-dweller, and slayer of Vrtras.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Vrtras
+  description: Named adversaries or foes in the statement that Indra overcomes foes
+    by slaying Vrtras.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: reciter
+  description: A ritual performer who may select verses to make up the required number
+    and whose recitation is described as by half-verses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Sāman singers
+  description: Ritual singers whose usage of verses is referenced in the discussion
+    of head-verses and alternatives.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: deity invited to sacrifice
+  assigned_to:
+  - fig:1
+  basis: The invocation says Soma is pressed for Indra and asks him to come to the
+    sacrifice.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: praised leader
+  assigned_to:
+  - fig:1
+  basis: The passage says, “We magnify our leader, Indra,” and gives further attributes
+    of Indra.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: foe-slayer
+  assigned_to:
+  - fig:1
+  basis: Indra is said to overcome foes in slaying Vrtras.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: adversaries slain
+  assigned_to:
+  - fig:2
+  basis: Vrtras are named in the line about Indra overcoming foes through slaying.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: ritual reciter
+  assigned_to:
+  - fig:3
+  basis: The passage describes the reciter’s selection of verses and the manner of
+    recitation by half-verses.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:6
+  label: chant specialists
+  assigned_to:
+  - fig:4
+  basis: The Sāman singers’ use of verses is cited as a reference point for the head-verses.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Soma offering
+  literal_form: pressed Soma
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: sacrifice
+  literal_form: the sacrifice to which Indra is invited
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mountain dwelling
+  literal_form: mountains; Indra as dweller on the mountains
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: eternal steeds
+  literal_form: Indra’s eternal steeds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: body and wing verse labels
+  literal_form: neck, head, vertebrae, and right wing as labels for verse groups
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: sādadohas verse
+  literal_form: sādadohas verse as a marker in the recitation sequence
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Arrangement and recitation of verse groups
+  summary: The passage describes where verses are inserted, gives head-verses and
+    alternatives, and states that neck, head, and vertebrae verse groups are repeated
+    with a pause at the half-verse before the sādadohas sequence marker.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: scene:2
+  label: Invocation and praise of Indra
+  summary: Indra is invited to the sacrifice because Soma has been pressed; he is
+    praised as generous, young, a leader, able to slay Vrtras, a mountain-dweller,
+    and accompanied by eternal steeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Right wing and Rathantara Saman
+  summary: The right-wing verses are connected with the Rathantara Saman, and the
+    passage identifies a strophe and antistrophe associated with that Saman.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sacrifice with invitation to deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that Soma is pressed for Indra and invites him to come
+    to the sacrifice.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is ritual-commentarial rather than a full narrative episode.
+- id: motif:2
+  label: Offering and desired wealth
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The invocation links Indra’s enjoyment of a gift-rich carouse with the aim
+    of wealth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The requested benefit is stated in the invocation; no completed exchange
+    is narrated.
+- id: motif:3
+  label: Deity overcoming named adversaries
+  taxonomy_refs: []
+  basis: Indra is said to overcome foes by slaying Vrtras.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief praise formula, not a detailed combat narrative.
+- id: motif:4
+  label: Ritual text organized by body and wing parts
+  taxonomy_refs: []
+  basis: The verse groups are named as neck, head, vertebrae, and right wing, and
+    their recitation order is described.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supplies the labels and ritual use but does not explain a
+    broader symbolic system.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns this recitation arrangement with Aitareya practice
+    by stating that the recitation is by half-verses and that the sādadohas verse
+    occurs at the end.
+  claim_level: same_function
+  target: Aitareya recitational practice for half-verse recitation and the sādadohas
+    verse
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to recitational function and order as stated in
+    the passage; it does not establish historical dependency.
+- id: claim:2
+  claim: The passage explicitly connects the right-wing verses with the Rathantara
+    Saman and names its strophe and antistrophe.
+  claim_level: same_function
+  target: Rathantara Saman strophe and antistrophe
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The connection is stated for this ritual section only; no broader comparative
+    mythology claim is made.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 102518-102532; opening textual note
+  quote_or_summary: The note discusses alternate readings and says insertion of new
+    verses is before the last verse preceding the sādadohas verse, not directly before
+    that verse.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 102533-102540; paragraph beginning “The Saakbayana Srauta Sitra”
+  quote_or_summary: The passage reports head-verses from Rigvedic hymns, references
+    options used by Sāman singers, and states that, as in the Aitareya, recitation
+    is by half-verses with the sādadohas verse at the end.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 102540-102548; paragraph beginning “the vertebrae-verses”
+  quote_or_summary: "“The Soma is pressed for thee, come to the sacrifice”; the same
+    passage praises Indra as generous, young, leader, slayer of Vrtras, mountain-dweller,
+    and rider with eternal steeds."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt quoted from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 102548-102551; end of vertebrae-verses paragraph
+  quote_or_summary: "“The three sets of verses, neck, head, and vertebrae, are all
+    to be repeated with a pause at the half-verse.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt quoted from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 102552-102556; section numbered 2
+  quote_or_summary: The verses of the right wing are said to be connected with the
+    Rathantara Saman, which has a strophe, “We praise thee, O hero,” and an antistrophe,
+    “Thee for the first drink.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized with short quoted titles from supplied
+    passage.
+- id: ev:6
+  type: summary
+  locator: lines 102572-102576; note on pause
+  quote_or_summary: A note explains that the pause is at the end of the half-verse
+    rather than at the end of the verse and lists other possible recitation patterns.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied text is mostly ritual commentary with OCR irregularities. Motif
+    extraction is strongest for the explicit sacrifice, Indra praise, Vrtra-slaying,
+    and body/wing verse-label patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No serpent or cosmic-mountain taxonomy was assigned, because the passage mentions Vrtras and mountains only in brief praise formulas without those broader identifications.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l102518-l102594
+  passage_sha256=88058324ec8e6c84643961a5b431095201035ed768817865d3e8f214ef5a5aeb
+

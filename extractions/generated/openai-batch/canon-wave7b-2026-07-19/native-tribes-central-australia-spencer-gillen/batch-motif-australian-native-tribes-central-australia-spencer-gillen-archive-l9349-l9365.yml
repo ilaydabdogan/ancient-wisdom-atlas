@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l9349-l9365
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: VI INTICHIUMA CEREMONIES 183 / VI INTICHIUMA CEREMONIES 185 / INTICHIUMA
+    CEREMONIES 187 / VI IXTICHIU-MA CEREMONIES 189; lines 9349-9365
+  start: '9349'
+  end: '9365'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In an Intichiuma ceremony, the Alatunja is decorated while leading singing.
+    The song refers to men on banks who are thought to watch in spirit form from their
+    Nanja trees. The body decorations represent ant-nest chambers and passages leading
+    to honey-ants. The performer squats while other men run around him; he brushes
+    the ground between his legs with twigs and periodically quivers. The decorations
+    are then removed, and the party returns to the men's camp, passing the women's
+    camp.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage situates the rite at or in relation to a place where ant nests
+    can be found.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Alatunja is decorated while he leads singing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The singing refers to men on the banks who are supposed to watch the performance
+    in spirit form from their Nanja trees.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Decorations on the performer's body are said to represent chambers in ant
+    nests.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Decorations on the performer's arms and neck are said to represent passages
+    leading to the inner parts of nests where honey-ants are found.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The performer squats on the ground while other men run around him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The performer brushes the ground between his legs with little twigs and pauses
+    at intervals to quiver.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After the performance, the decorations are removed and the party returns to
+    the men's camp, passing the women's camp on the way.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Alatunja
+  description: The decorated performer who leads the singing during this part of the
+    ceremony.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Other men
+  description: Men who run round and round the performer during the performance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Men on the banks in spirit form
+  description: Men referred to in the singing, supposed to watch the performance from
+    their Nanja trees.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Party
+  description: The group that returns to the men's camp after the decorations are
+    removed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ceremonial performer
+  assigned_to:
+  - fig:1
+  basis: The Alatunja is decorated, squats on the ground, brushes the ground with
+    twigs, and quivers during the rite.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: song leader
+  assigned_to:
+  - fig:1
+  basis: The passage states that he leads the singing.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: circling participants
+  assigned_to:
+  - fig:2
+  basis: The other men run round and round the performer.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: spirit-form observers
+  assigned_to:
+  - fig:3
+  basis: The men on the banks are supposed, in spirit form, to watch from their Nanja
+    trees.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: returning group
+  assigned_to:
+  - fig:4
+  basis: The party starts back for the men's camp after the decorations are removed.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Nanja trees
+  literal_form: trees
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Ant-nest chambers
+  literal_form: body decorations representing chambers in ant nests
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Ant-nest passages
+  literal_form: arm and neck decorations representing passages leading into honey-ant
+    nests
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Little twigs
+  literal_form: twigs used to brush the ground between the performer's legs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Honey-ants
+  literal_form: honey-ants found in inner parts of ant nests
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Decoration and spirit-referenced singing
+  summary: The Alatunja is decorated while leading singing that refers to men on the
+    banks who are supposed to watch in spirit form from Nanja trees.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Body as ant nest representation
+  summary: The performer's body, arms, and neck decorations are described as representations
+    of ant-nest chambers and passages leading to honey-ants.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Circling performance and ground brushing
+  summary: The performer squats as other men run around him; he brushes the ground
+    with little twigs and periodically quivers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Removal of decorations and return
+  summary: The decorations are removed, and the party returns to the men's camp, passing
+    the women's camp.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ceremonial bodily representation of an animal habitat
+  taxonomy_refs: []
+  basis: The passage explicitly says the performer's decorations represent ant-nest
+    chambers and passages leading to honey-ants.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a descriptive motif label derived from the passage, not a standardized
+    taxonomy reference.
+- id: motif:2
+  label: Spirit-form observers associated with trees
+  taxonomy_refs: []
+  basis: The singing refers to men who are supposed to watch the performance in spirit
+    form from their Nanja trees.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage reports a ritual reference to spirit-form watchers but does
+    not explain the wider significance of Nanja trees here.
+- id: motif:3
+  label: Ritual circling of a decorated central performer
+  taxonomy_refs: []
+  basis: Other men run round and round the squatting performer during the ceremony.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not provide an explicit interpretation of the circling
+    action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9349-9351
+  quote_or_summary: The passage opens this segment by referring to where ant nests
+    can be found.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9351-9355
+  quote_or_summary: The Alatunja is decorated while leading singing about men on the
+    banks, who are supposed to watch in spirit form from their Nanja trees.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9355-9359
+  quote_or_summary: The performer's body decorations represent ant-nest chambers;
+    decorations on arms and neck represent passages to the inner nest areas where
+    honey-ants are found.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9359-9364
+  quote_or_summary: The performer squats while other men run around him; he brushes
+    the ground between his legs with little twigs and sometimes quivers.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9364-9365
+  quote_or_summary: The decorations are removed, and the party returns to the men's
+    camp, passing the women's camp.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are conservative descriptive labels because the passage does not connect the rite
+    to broader comparative motif families. No comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference applied only to the literal Nanja trees symbol; candidate motifs use descriptive labels without taxonomy IDs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l9349-l9365
+  passage_sha256=d49b4ac2e401b68034899e65e4e869c17b8eaa0979fb4b937769847f3449e353
+

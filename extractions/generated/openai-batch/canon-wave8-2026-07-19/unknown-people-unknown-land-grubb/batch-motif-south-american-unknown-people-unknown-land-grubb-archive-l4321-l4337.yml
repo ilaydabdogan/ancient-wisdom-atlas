@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l4321-l4337
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: HUNTING / HUNTING / CHAPTER IX / TRAVEL; lines 4321-4337
+  start: '4321'
+  end: '4337'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: During continued rain, the travelers prepare to move on through water-covered
+    low land, reach a deserted hut and make a fire to dry their clothes, then endure
+    a difficult six-day journey through flooded gullies and streams before arriving
+    at Thlagnasinkinmith.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Morning begins with rain still falling, and the travelers prepare to move
+    on.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Low-lying land is covered by several inches of water, while stream-beds and
+    swamps that had been dry are nearly half-full.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At about midday the travelers reach a deserted hut and make a fire to partly
+    dry their clothes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The journey is difficult for both people and horses.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Horses are sometimes tethered in water over their fetlocks and at times are
+    momentarily off their feet when crossing gullies.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: At larger streams the travelers make rafts for their belongings; at smaller
+    streams they swim with goods tied on their heads.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After six days of travel in miserable conditions, the travelers arrive at
+    Thlagnasinkinmith.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: traveling party
+  description: The first-person plural group that prepares to move on, crosses flooded
+    terrain, transports belongings, and arrives at Thlagnasinkinmith.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: narrator
+  description: A first-person speaker whose saddle is nearly covered by water in flooded
+    gullies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: horses
+  description: Animals used by the travelers; they are tethered in water and sometimes
+    lose footing during crossings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: traveler
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes the party moving on, crossing streams, carrying goods,
+    and arriving after six days.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: role:2
+  label: travel animals
+  assigned_to:
+  - fig:3
+  basis: The horses accompany the journey and experience the flooded conditions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: rain, water-covered low land, filled stream-beds and swamps, flooded
+    gullies, streams
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: fire
+  literal_form: fire made at a deserted hut to dry clothes
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: raft
+  literal_form: rafts made to transport belongings across larger streams
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: deserted hut
+  literal_form: a deserted hut reached around midday
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: morning departure in rain
+  summary: In the morning, rain continues and the travelers prepare to move on through
+    a landscape already covered or filling with water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: brief shelter and drying fire
+  summary: At midday the travelers reach a deserted hut, make a fire, and partially
+    dry their clothes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: flooded crossings
+  summary: The party and horses cross gullies and streams; belongings are moved by
+    raft on larger streams and by swimming on smaller streams.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: arrival after six days
+  summary: After six days under miserable conditions, the travelers arrive at Thlagnasinkinmith.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: arduous journey through flooded terrain
+  taxonomy_refs: []
+  basis: The passage repeatedly emphasizes travel under rain, flooded lowlands, dangerous
+    crossings, rafts, swimming with goods, and arrival after six days.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is an ethnographic travel account rather than a mythic narrative;
+    the motif label is descriptive and not assigned to a supplied motif family.
+- id: motif:2
+  label: temporary shelter and restorative fire during travel
+  taxonomy_refs: []
+  basis: The travelers reach a deserted hut and make a fire to partially dry their
+    clothes during the journey.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents the fire as practical rather than explicitly sacred
+    or symbolic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4321-4322
+  quote_or_summary: Morning dawns with rain continuing, and the travelers prepare
+    to move on.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4322-4325
+  quote_or_summary: Lower land is covered with water, and previously dry stream-beds
+    and swamps are already almost half-full.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4325-4327
+  quote_or_summary: Around midday the party reaches a deserted hut, makes a fire,
+    and partially dries clothes.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4328-4330
+  quote_or_summary: The rest of the journey is hard for both people and horses; horses
+    are often tethered in water over their fetlocks.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4330-4332
+  quote_or_summary: The travelers frequently cross gullies where water nearly covers
+    the narrator's saddle and horses are sometimes briefly off their feet.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4332-4335
+  quote_or_summary: At larger streams the party makes rafts for belongings; across
+    smaller streams they swim with goods tied on their heads.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 4336-4337
+  quote_or_summary: After six days traveling in miserable conditions, the party arrives
+    at Thlagnasinkinmith.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are descriptive only
+    because the passage is a practical travel narrative, not an explicit myth or ritual
+    account. No comparison claims are supported by the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or unsupported taxonomy motif-family assignments were added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l4321-l4337
+  passage_sha256=3d0e47ca0035e5d572ff200a0e6d64404f227763741b027d1a8fd245b007c8b6
+

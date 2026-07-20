@@ -1,0 +1,209 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l113-l186
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: The Yi King (I Ching) (Sacred Books of the East, Vol. 16) / CONTENTS. / HEXAGRAM;
+    lines 113-186
+  start: '113'
+  end: '186'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“the lineal figures by the divining stalks, The names Yin and Yang.”"
+  summary: A contents section names topics including lineal figures made by divining
+    stalks, Yin and Yang, Kwei-shAan, mythology of the Yi, the operation of God in
+    nature throughout the year, plates showing hexagrams and trigrams, and a list
+    of hexagram titles with page numbers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The contents mention lineal figures associated with divining stalks.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list the names Yin and Yang.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The contents list the name Kwei-shAan.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The contents refer to “Mythology of the Yi.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The contents refer to the operation of God in nature throughout the year.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Plates I, II, and III are said to exhibit the hexagrams and trigrams.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The section lists hexagram names with page numbers, including Khien, Khwan,
+    Xun, Mang, Hsii, Sung, Sze, Pi, Po, and others.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Named in a contents heading about operation in nature throughout the
+    year.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: agent operating in nature
+  assigned_to:
+  - fig:1
+  basis: The contents heading states “Operation of God in nature throughout the year.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: lineal figures
+  literal_form: lineal figures made or obtained by divining stalks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: divining stalks
+  literal_form: stalks used for divination
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Yin and Yang
+  literal_form: paired names listed in the contents
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: hexagrams and trigrams
+  literal_form: figures exhibited in Plates I, II, and III
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Contents topics on divination and cosmology
+  summary: The contents enumerate topics concerning divining stalks, lineal figures,
+    Yin and Yang, Kwei-shAan, mythology of the Yi, divine operation in nature across
+    the year, and plates of hexagrams and trigrams.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Hexagram contents list
+  summary: A section lists hexagram titles with corresponding page numbers.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divination by marked figures
+  taxonomy_refs:
+  - wisdom
+  basis: The contents mention lineal figures associated with divining stalks and plates
+    displaying hexagrams and trigrams, indicating divinatory symbolic figures in the
+    listed material.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is a table-of-contents passage rather than a narrative passage; the
+    taxonomy link to “wisdom” is broad and should be reviewed.
+- id: motif:2
+  label: seasonal operation of a divine agent in nature
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The contents heading refers to the operation of God in nature throughout
+    the year.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a contents heading and does not describe the operation
+    in detail.
+- id: motif:3
+  label: paired Yin and Yang names
+  taxonomy_refs:
+  - duality
+  basis: The contents explicitly lists the paired names Yin and Yang.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage names the pair but does not explain their qualities or relation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 113-117
+  quote_or_summary: "“the lineal figures by the divining stalks, The names Yin and
+    Yang. The name Kwei-shAan.”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 122-127
+  quote_or_summary: "“Mythology of the Yi. Operation of God in nature throughout the
+    year.”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 128-129
+  quote_or_summary: "“Plates I, II, III, exhibiting the hexagrams and trigrams.”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 130-186
+  quote_or_summary: The section lists hexagram titles and page numbers, beginning
+    with Khien and Khwan and continuing through titles such as Xun, Mang, Hsii, Sung,
+    Sze, Pi, Po, Wai Wang, Ta Kha, and Ta Kwo.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a contents list with OCR irregularities and little narrative
+    context, so motif extraction is necessarily limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another text or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l113-l186
+  passage_sha256=7bb7cd37410318599a60f7699500e0be81af2784b90c0170888775d05c010665
+

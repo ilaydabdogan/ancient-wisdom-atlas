@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l15367-l15373
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: TILE KNIGHT OF THE RED SHIELD. 493 / THE TAIL. / T-UKBALL NA BU KUIGHNE BHIOUU
+    AN T-URSGEUL NA B FHAIDE.. / FINIS.; lines 15367-15373
+  start: '15367'
+  end: '15373'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A brief end-note or variant says that, in a Skye version, a man placed
+    a stirk on a printed “hote top” so it could eat a tuft of grass; the beast then
+    fell down a printed “elun.ney,” and its tail was ruptured. The passage ends with
+    “FINIS.”
+  language: English with a Gaelic/OCR-like heading
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with a heading line in Gaelic or OCR-like text before the
+    English note.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The English note attributes the incident to a Skye version.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A man put the stirk on a printed “hote top” so it could eat a tuft of grass.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The beast fell down the printed “elun.ney.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the tail was ruptured.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage ends with “FINIS.”
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: man
+  description: A man who puts the stirk on the printed “hote top” to eat grass.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: stirk / beast
+  description: The stirk, also called “the beast,” which falls and has its tail ruptured.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: placer of the stirk
+  assigned_to:
+  - fig:1
+  basis: The man is the actor who puts the stirk on the top/place.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: falling animal with ruptured tail
+  assigned_to:
+  - fig:2
+  basis: The stirk or beast is placed to eat grass, falls, and is associated with
+    the ruptured tail.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: tail
+  literal_form: The tail of the beast, stated as ruptured.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tuft of grass
+  literal_form: A tuft of grass that the stirk is put in position to eat.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: printed “hote top”
+  literal_form: The printed place or surface on which the man puts the stirk.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: printed “elun.ney”
+  literal_form: The printed place or opening down which the beast falls.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: 'Skye version: stirk placed above and falling'
+  summary: In a Skye version, a man places a stirk on a top/place to eat grass; the
+    animal falls down another printed place or opening, and its tail is ruptured.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: animal placed above to feed and falling to injury
+  taxonomy_refs: []
+  basis: The passage describes a man placing a stirk on a top/place to eat grass,
+    after which the beast falls and its tail is ruptured.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is fragmentary and contains OCR-like terms, so the exact setting
+    and mechanics of the fall are uncertain.
+- id: motif:2
+  label: explanatory coda for a damaged tail
+  taxonomy_refs: []
+  basis: The passage is labeled around “THE TAIL” in the locator and states that the
+    beast’s tail was ruptured after its fall.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not explicitly state an origin or etiological explanation;
+    this is only a candidate based on the tail-focused incident.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself identifies the incident as belonging to a Skye version,
+    supporting only a cautious variant-level comparison within the collected tale
+    tradition.
+  claim_level: same_motif
+  target: Skye version of the tale or incident implied by the note
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No parallel version is quoted in this passage, and no broader historical
+    or taxonomic relationship is demonstrated.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '15367'
+  quote_or_summary: "“T-UKBALL NA BU KUIGHNE BHIOUU AN T-URSGEUL NA B FHAIDE..”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 15369-15372
+  quote_or_summary: According to a Skye version, a man put the stirk on a printed
+    “hote top” to eat a tuft of grass; the beast fell down the printed “elun.ney,”
+    and its tail was ruptured.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: '15373'
+  quote_or_summary: "“FINIS.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is limited by the fragmentary nature of the passage and OCR-like
+    words such as “hote top” and “elun.ney.” No available taxonomy reference clearly
+    matches the incident.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy refs were assigned because none of the available motif families or symbols are directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l15367-l15373
+  passage_sha256=7b9a90946e1a1cde8ee00d5f3f5492f8e2085d75235cad789853d4c8bb4c15e3
+

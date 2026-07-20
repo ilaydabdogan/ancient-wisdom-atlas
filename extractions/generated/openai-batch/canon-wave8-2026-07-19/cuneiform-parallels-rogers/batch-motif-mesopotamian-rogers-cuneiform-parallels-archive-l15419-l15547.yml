@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l15419-l15547
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: ASSYRIAN RULERS1 / BABYLONIAN CHRONICLE 2X3 / II. ASSYRIAN / PTOLEMAIC CANON;
+    lines 15419-15547
+  start: '15419'
+  end: '15547'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a Ptolemaic/Babylonian canon of rulers as a chronological
+    table, pairing Greek and Babylonian forms of royal names and indicating columns
+    for reign length and B.C. years. It is followed by editorial guidance about constructing
+    chronological systems from these data and comparing them with Old Testament chronological
+    materials.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a Ptolemaic Canon and as a Babylonian canon of rulers
+    attributed to Claudius Ptolemaeus.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The table layout includes columns for Greek forms of names, Babylonian forms
+    of names, length of reign, and B.C. years.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The table presents a succession of royal entries, including Babylonian forms
+    such as Nabu-nasir, Nabu-nadin-(zir), Ukinzir/Pulu, Ululai, Marduk-apal-iddin,
+    and Nabu-na'id, paired with Greek forms.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editorial prose states that a chronological table covering Babylonian,
+    Assyrian, and Persian kings is placed at the end of the book as a summary of current
+    knowledge.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editorial prose instructs students to construct chronological systems
+    from the chronological data and to reconcile them with Old Testament chronological
+    materials.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rulers listed in the canon
+  description: A sequence of Babylonian, Assyrian, and Persian royal entries represented
+    by paired Greek and Babylonian name forms in the chronological table.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Claudius Ptolemaeus
+  description: Named in the heading as the authority or source associated with the
+    Babylonian canon of rulers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Students
+  description: The editorial note addresses students who are to construct chronological
+    systems from the given materials.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: listed rulers in a chronological canon
+  assigned_to:
+  - fig:1
+  basis: The heading and columns present a canon of rulers with reign-related chronological
+    fields and paired name forms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: attributed chronological authority
+  assigned_to:
+  - fig:2
+  basis: The heading names Claudius Ptolemaeus in connection with the Babylonian canon
+    of rulers.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: chronology learners or compilers
+  assigned_to:
+  - fig:3
+  basis: The prose instructs students to construct chronological systems from the
+    data.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: chronological canon table
+  literal_form: A table of royal names with Greek and Babylonian forms, reign-length
+    information, and B.C. years.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Presentation of a royal chronological canon
+  summary: The passage displays a table that pairs Greek and Babylonian forms of royal
+    names and organizes them under chronological headings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Editorial instruction on chronological reconstruction
+  summary: The editorial prose explains the usefulness of the chronological table
+    and urges students to build chronological systems and compare them with Old Testament
+    chronology.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal succession chronology or king-list canon
+  taxonomy_refs: []
+  basis: The passage organizes named rulers in sequence with columns for reign length
+    and B.C. years, presenting royal rule as a chronological canon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is historical and chronological rather than mythic; it does
+    not explicitly state divine sanction or royal legitimacy.
+- id: motif:2
+  label: cross-linguistic royal-name equivalence table
+  taxonomy_refs: []
+  basis: The table explicitly places Greek forms of royal names beside Babylonian
+    forms of the same names.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The table gives name correspondences but does not provide etymological
+    or narrative interpretation.
+- id: motif:3
+  label: chronological harmonization with Old Testament materials
+  taxonomy_refs: []
+  basis: The editorial note directs students to reconcile these chronological data
+    with Old Testament chronological materials.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an editorial scholarly pattern, not a narrative mythological motif
+    in the passage itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Greek and Babylonian royal-name traditions
+    by placing their forms in parallel columns.
+  claim_level: linguistic_similarity
+  target: Greek and Babylonian forms of royal names
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports paired name forms, but it does not analyze linguistic
+    derivation or historical transmission.
+- id: claim:2
+  claim: The editorial note frames the chronological data as material to be reconciled
+    with Old Testament chronological materials.
+  claim_level: same_function
+  target: Old Testament chronological materials
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns chronological comparison only; the passage does
+    not assert a shared mythic motif or direct historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15419-15547, table heading and columns
+  quote_or_summary: The opening identifies the section as 'Ptolemaic Canon' and 'The
+    Babylonian Canon of Rulers in Claudius Ptolemaeus,' with columns for Greek forms,
+    Babylonian forms, reign length, and B.C. years.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public-domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 15419-15547, royal-name table
+  quote_or_summary: The table pairs a sequence of Greek royal-name forms with Babylonian
+    forms, including Nabu-nasir, Nabu-nadin-(zir), Ukinzir/Pulu, Ululai, Marduk-apal-iddin,
+    Bel-ibni, Ashur-nadin-shum, Nergal-ushezib, Mushezib-Marduk, Ashur-akh-iddin,
+    Shamash-shum-ukin, Kandalanu, Nabu-apal-usur, Nabu-kudurri-usur, Amel-Marduk,
+    Nergal-shar-usur, and Nabu-na'id.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public-domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 15419-15547, editorial prose after table
+  quote_or_summary: The prose says a chronological table covering the reigns of Babylonian,
+    Assyrian, and Persian kings in the period of the work is placed at the end of
+    the book as a convenient summary of current knowledge.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public-domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: 15419-15547, editorial prose after table
+  quote_or_summary: Students should make attempts at the construction of chronological
+    systems from the data given ... seeking to reconcile these data with the chronological
+    materials in the Old Testament.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public-domain source metadata; brief quotation from public-domain text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily a historical-chronological table with OCR noise
+    in some Greek forms. Motif extraction is therefore limited to textual and comparative
+    patterns explicitly present in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological symbols from the supplied taxonomy, such as fire, water, tree, mountain, cave, milk, or serpent, are present in this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l15419-l15547
+  passage_sha256=03eca9f98006b0450604c9fb2952ab6db7f7efa9f5e00e9f2e889a87db0ce235
+

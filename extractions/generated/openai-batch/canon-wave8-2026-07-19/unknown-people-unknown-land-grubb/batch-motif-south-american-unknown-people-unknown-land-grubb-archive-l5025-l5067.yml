@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l5025-l5067
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: SHADE-LAND / SHADE-LAND / SHADE-LAND / SHADE-LAND; lines 5025-5067
+  start: '5025'
+  end: '5067'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports beliefs about spirits after death: a killer of someone
+    from another tribe need not fear the victim''s spirit because clan and tribal
+    life continue after death; the soul is thought to be confused after leaving the
+    body, to hover near the village for about a month, and then to depart to the realm
+    of the dead after the mourning feast. It also states that the deceased''s belongings
+    and animals are destroyed at death, apparently for use in the afterlife, and that
+    ghosts may haunt the living if appropriate funerary actions are not taken or memories
+    are stirred.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who kills a foreigner or member of another distinct tribe is not
+    regarded as a murderer within the described belief system.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The killer is said not to fear the victim's spirit in the afterlife because
+    he would be among his own people.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that clan and tribal life are understood to continue after
+    death.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The soul is described as astonished after leaving the body and as not fully
+    realizing what has happened.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The soul is said to hover around the village and neighborhood for a period
+    generally estimated at one month.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A mourning feast takes place after the period during which the spirit remains
+    near the village.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: After the mourning feast, the deceased's spirit is imagined to leave the neighborhood
+    and pass to the realms of the dead.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The living may continue to feel fear of the ghost when something recalls the
+    departed to memory.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The personal belongings and animals of the deceased are destroyed at death.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The destruction of the deceased's belongings and animals is associated with
+    the idea that they may be useful to the deceased in the afterlife.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: deceased person / deceased spirit
+  description: The dead individual whose soul or ghost leaves the body, remains near
+    the village, and later passes to the realms of the dead.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: killer of a foreigner or member of another tribe
+  description: An Indian who kills a foreigner or someone from another distinct tribe
+    and is said not to fear the victim's spirit in the afterlife.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: victim's spirit
+  description: The spirit of a foreigner or member of another tribe killed by an Indian,
+    imagined as potentially encountered in the afterlife.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the living community / mourners
+  description: Those who experience haunting or fear of the deceased's ghost and who
+    hold a mourning feast after about one month.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: departing soul
+  assigned_to:
+  - fig:1
+  basis: The soul leaves the body, hovers near the village, and then departs to the
+    realms of the dead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: recipient of funerary goods
+  assigned_to:
+  - fig:1
+  basis: The deceased's belongings and animals are destroyed with the idea that they
+    may be useful to him in the afterlife.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: unafraid killer within tribal afterlife order
+  assigned_to:
+  - fig:2
+  basis: The killer does not fear the victim's spirit because he expects to be among
+    his own people in the afterlife.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: potential afterlife encounter
+  assigned_to:
+  - fig:3
+  basis: The victim's spirit is discussed as one the killer might meet in the afterlife.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: haunted mourners
+  assigned_to:
+  - fig:4
+  basis: The living are described as being haunted or feeling fear when the departed
+    is recalled to memory.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: village and neighborhood
+  literal_form: The village and surrounding neighborhood where the soul hovers after
+    leaving the body.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mourning feast
+  literal_form: The feast that occurs after the roughly one-month period of the spirit's
+    local hovering.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: realms of the dead
+  literal_form: The destination to which the deceased's spirit is imagined to pass
+    after leaving the neighborhood.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: personal belongings and animals of the deceased
+  literal_form: Possessions and animals destroyed at death, apparently so they may
+    be useful in the afterlife.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Afterlife relation between killer and victim's spirit
+  summary: The passage states that a killer of a foreigner or member of another distinct
+    tribe is not regarded as a murderer and does not fear the victim's spirit in the
+    afterlife because he expects to be among his own people there.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Soul hovering before departure
+  summary: The soul leaves the body in a state of astonishment, remains around the
+    village and neighborhood for about one month, and the mourning feast then marks
+    the end of the expected haunting period.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Departure to the realms of the dead
+  summary: After the mourning period, the deceased's spirit is imagined to have left
+    the neighborhood for good and gone to the realms of the dead, though fear of the
+    ghost may continue when memories are triggered.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Destruction of funerary property
+  summary: The deceased's personal belongings and animals are destroyed at death because
+    they are thought to be useful to him in the afterlife, and the passage adds that
+    haunting is given as a reason if this is not done.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: postmortem journey from village to realm of the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage lays out a sequence in which the soul leaves the body, remains
+    near the village for about one month, and then passes to the realms of the dead
+    after the mourning feast.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief route and timing, not a detailed map of
+    the afterlife.
+- id: motif:2
+  label: continuing clan and tribal life after death
+  taxonomy_refs: []
+  basis: The passage explicitly says that clan and tribal life continue after death
+    and uses this to explain why a killer need not fear a victim's spirit if the victim
+    is from another group.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No available taxonomy reference precisely matches social continuity after
+    death.
+- id: motif:3
+  label: funerary destruction of possessions for afterlife use
+  taxonomy_refs: []
+  basis: The deceased's personal belongings and animals are destroyed at death with
+    the idea that they may be useful to him in the afterlife.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not provide details about ritual procedure or the specific
+    items destroyed.
+- id: motif:4
+  label: ghost haunting during incomplete separation from the dead
+  taxonomy_refs: []
+  basis: The deceased's spirit is thought to haunt the living before its departure,
+    and fear may continue when the dead person is recalled to memory.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage notes that belief in the theory is vague for many people and
+    the final sentence is truncated in the provided excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5040-5048
+  quote_or_summary: A killer of a foreigner or member of another tribe is not regarded
+    as a murderer, does not fear the victim's spirit in the afterlife, and this is
+    linked to the idea that clan and tribal life continue after death.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 5050-5056
+  quote_or_summary: The soul is said to be astonished after leaving the body, hover
+    near the village and neighborhood for about one month, and remain there until
+    the mourning feast.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 5056-5063
+  quote_or_summary: After the mourning feast, the deceased's spirit is thought to
+    have left the neighborhood for the realms of the dead, though memories of the
+    departed can still produce fear of the ghost.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 5064-5067
+  quote_or_summary: The personal belongings and animals of the deceased are destroyed
+    at death, apparently so they may be useful to him in the afterlife; the provided
+    excerpt begins to state that otherwise the ghost would haunt.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about afterlife sequence, social continuity after
+    death, haunting, and funerary destruction of property. Motif taxonomy mapping
+    is limited because only afterlife_journey_map directly fits the available taxonomy
+    list. No comparison claims were made because the passage does not itself compare
+    this material to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The provided passage begins and ends mid-context; extraction is limited to lines 5025-5067 as supplied.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l5025-l5067
+  passage_sha256=5eeb8491294b7b2e2315f3e6d2f32930b0fcdc5b30330979b0e98bf66acc5702
+

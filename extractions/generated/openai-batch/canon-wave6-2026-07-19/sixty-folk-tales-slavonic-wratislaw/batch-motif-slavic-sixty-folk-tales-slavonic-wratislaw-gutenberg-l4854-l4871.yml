@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l4854-l4871
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: XXII.--LITTLE ROLLING-PEA. / XXIII.--THE WONDERFUL BOYS. / XXIV.--GOD KNOWS
+    HOW TO PUNISH MAN. / XXV.--THE GOOD CHILDREN.; lines 4854-4871
+  start: '4854'
+  end: '4871'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“tell the pure truth before the emperor.”"
+  summary: Two brothers, summoned before the emperor during a famine-related accusation,
+    seek their father’s advice. He tells them to go and speak the truth. Before the
+    emperor, they confess the whole matter. The emperor becomes calm, honors the old
+    father by seating him near the throne and taking his counsel, rewards the sons,
+    and orders corn to be gathered and distributed as seed-corn throughout all empires,
+    producing holy corn for the world.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The brothers hear that they must appear before the emperor and react with
+    alarm.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The brothers ask their father for advice about what to do.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The father advises his sons to go and tell the pure truth before the emperor.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The emperor asks why the brothers hoarded corn during a famine in which many
+    people died of hunger.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The emperor threatens torture and death if the brothers do not tell the truth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The brothers relate everything from beginning to end and submit themselves
+    to the emperor’s judgment or compassion.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The emperor’s demeanor changes from menacing to calm.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The emperor orders the old father to be brought, seats him beside the throne,
+    and listens to his counsel until death.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The emperor rewards the sons handsomely.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The emperor orders corn to be collected ear by ear, rubbed out in men’s hands,
+    and sent as seed-corn through all empires.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The distributed seed-corn produces holy corn for all the world.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the brothers
+  description: Two brothers summoned before the emperor and accused of hoarding corn
+    during famine.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: old father
+  description: The brothers’ father, who advises them to tell the truth and is later
+    seated beside the emperor’s throne as a counselor.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the emperor
+  description: The ruler who questions and threatens the brothers, then shows calmness,
+    honors the father, rewards the sons, and distributes corn as seed.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: people who died of hunger
+  description: People referenced by the emperor as having died during the famine.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: accused brothers
+  assigned_to:
+  - fig:1
+  basis: They are summoned before the emperor and accused of hoarding corn in famine.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: truth-tellers before ruler
+  assigned_to:
+  - fig:1
+  basis: They recount everything from beginning to end before the emperor.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: father-adviser
+  assigned_to:
+  - fig:2
+  basis: He advises his sons to go and tell the pure truth.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: honored counselor
+  assigned_to:
+  - fig:2
+  basis: The emperor seats him near the throne and listens to his counsel until death.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: ruler-judge
+  assigned_to:
+  - fig:3
+  basis: He interrogates the brothers and threatens punishment if they do not tell
+    the truth.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: rewarding ruler and distributor of seed-corn
+  assigned_to:
+  - fig:3
+  basis: He rewards the sons and orders corn gathered and sent out as seed-corn.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: famine victims
+  assigned_to:
+  - fig:4
+  basis: They are described as many people who died of hunger during the famine.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: corn
+  literal_form: corn hoarded during famine, later collected ear by ear and sent as
+    seed-corn
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: seed-corn
+  literal_form: corn sent throughout all empires for planting
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: holy corn
+  literal_form: corn produced from the distributed seed-corn for all the world
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: throne
+  literal_form: the emperor’s throne, beside which the old father is seated
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Brothers seek father’s advice
+  summary: After hearing they must appear before the emperor, the brothers fear for
+    themselves and ask their father what to do; he tells them to go and speak the
+    truth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Interrogation before the emperor
+  summary: The emperor asks why the brothers hoarded corn during famine and threatens
+    torture and death unless they tell the truth; the brothers relate everything and
+    ask for judgment or compassion.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Father honored and sons rewarded
+  summary: After the brothers’ confession, the emperor becomes calm, brings the old
+    father, seats him beside the throne, listens to his counsel, and rewards the sons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Seed-corn distributed to the world
+  summary: The emperor orders corn gathered and processed by hand, sends it throughout
+    all empires as seed-corn, and it produces holy corn for all the world.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Wise elder counsel protects children before a ruler
+  taxonomy_refs:
+  - wisdom
+  basis: The father counsels the brothers to tell the truth, after which the emperor
+    honors him as a counselor and rewards the sons.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage presents practical and moral counsel, not an explicit supernatural
+    wisdom figure.
+- id: motif:2
+  label: Truthful confession averts threatened punishment
+  taxonomy_refs: []
+  basis: The emperor threatens torture and death if the brothers do not tell the truth;
+    they recount everything, after which his demeanor softens and they are rewarded.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The exact prior wrongdoing is only summarized within the passage as hoarding
+    corn; the broader tale context is not included.
+- id: motif:3
+  label: Ruler transforms famine corn into seed for all lands
+  taxonomy_refs: []
+  basis: The emperor orders corn collected, processed, and sent as seed-corn through
+    all empires, producing holy corn for the world.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage calls the resulting corn holy, but it does not describe a
+    deity, ritual, or explicit creation myth.
+- id: motif:4
+  label: Lowly or old adviser elevated beside the throne
+  taxonomy_refs:
+  - wisdom
+  basis: The old father is brought before the emperor, seated close to the throne,
+    and consulted until death.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The father’s earlier social status is not specified beyond being old and
+    the brothers’ father.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4854-4857
+  quote_or_summary: The brothers hear they must appear before the emperor, fear that
+    it is the end for them, and go to their father for advice.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source text; excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 4857-4859
+  quote_or_summary: "“Go, my sons--what will be, will be; and tell the pure truth
+    before the emperor.”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 4859-4864
+  quote_or_summary: The emperor asks why the brothers hoarded corn during a famine
+    in which many died, and threatens torture and death unless they tell the truth.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source text; excerpt summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4864-4867
+  quote_or_summary: The brothers relate the whole matter from beginning to end and
+    ask the emperor either to punish them or have compassion.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source text; excerpt summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4867-4870
+  quote_or_summary: The emperor’s expression becomes calm; he has the old father brought,
+    seats him near the throne, listens to his counsel until death, and rewards the
+    sons.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source text; excerpt summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4870-4871
+  quote_or_summary: The emperor orders corn collected ear by ear, rubbed out by hand,
+    and sent as seed-corn through all empires; from it comes holy corn for all the
+    world.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source text; excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about figures, actions, counsel, judgment, and seed-corn.
+    Motif labels are candidate descriptions only; no cross-tradition comparison is
+    asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no comparison claims added because the passage itself does not support a specific external comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l4854-l4871
+  passage_sha256=bb937f55b9cbc982fea3e620375e93f246d1e109732fdc8bc84d2aded92c262c
+

@@ -1,0 +1,568 @@
+---
+record_id: batch.motif.australian-ethnological-studies-queensland-roth-archive-l7302-l7406
+source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+passage_locator:
+  label: 'A SIGNLANGUAGE. / THE EXPRESSION OF IDEAS BY MANUAL SIGNS : A SIGN LANGUAGE.
+    73 / THE EXPBESSIOW OF IDEAS BY MANUAL SIGNS : A SIGN LANGUAGE. 75 / THE EXPBESSION
+    OF IDEAS BY MANUAL SIGNS : A SIGN LANGUAGE. 77; lines 7302-7406'
+  start: '7302'
+  end: '7406'
+  translation: Ethnological Studies among the North-West-Central Queensland Aborigines
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage catalogues manual ideagrams for lizards, iguanas, snakes, a
+    frog, and fish. It describes hand shapes and motions that represent animal movement,
+    body parts, coloring, swimming, preparation, and capture.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Signs for lizards and iguanas use oscillatory, vibratory, or rotating wrist
+    movements to represent rapid movement or a wobbling twisting gait.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: General snake signs use the fist, forearm, forefinger, hand, or arm movement
+    to represent the animal’s head, body, and sinuous progression.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The water-snake sign represents the head as out of the water and revolving
+    from side to side while the creature swims.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The carpet-snake sign represents a head standing erect from within coils by
+    a thumb protruding between closed fingers.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The black-headed-snake sign draws attention to the black snout of the creature.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The frog sign combines a forward-and-downward thrust of the hand with extended
+    and separated digits to represent a jump and webbed feet.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Most fish signs use rapid side-to-side elbow movement with a fixed wrist to
+    show how fish appear through ripples on the water surface.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Initial hand positions in some fish signs are described as signifying body
+    parts such as the tail or fins.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:9
+  text: One fish-related sign represents scraping scales from a fish before eating,
+    sometimes with the other hand held underneath to show the fish itself.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Another fish-related sign represents biting the back of a fish’s head to kill
+    it, throwing it onto the river bank, and continuing to catch more fish in the
+    water.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The passage notes cases where an initial hand position used for one animal
+    sign is also used for another animal sign, with the final movement distinguishing
+    the meaning.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Lizards and iguanas
+  description: Small, general, and large lizard or iguana species represented by hand
+    positions and wrist oscillation, vibration, or rotation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Snakes in general
+  description: Snakes represented by fist, forearm, forefinger, hand, and arm movements
+    that indicate head, body, and sinuous progression.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Water snake
+  description: A snake represented with its head out of the water, revolving side
+    to side as it swims.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Carpet snake (Morelia variegata)
+  description: A snake represented as having its head erect from within coils.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Black-headed snake
+  description: A snake identified in the sign by attention drawn to its black snout.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Frog
+  description: A frog represented by a jumping motion and separated digits for webbed
+    feet.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Fish
+  description: Fish represented by side-to-side motion, hand positions for body parts,
+    and action signs for preparation or capture.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: Signaller or aboriginal fisherman
+  description: The human performer of the signs; in the fish-capture sign, the represented
+    actor bites the back of a fish’s head and throws it onto the bank.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:9
+roles:
+- id: role:1
+  label: animal represented by manual ideagram
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage gives manual signs or ideagrams for each animal category.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: specific snake subtype
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage distinguishes water snake, carpet snake, and black-headed snake
+    signs from more general snake signs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: food animal in preparation and capture signs
+  assigned_to:
+  - fig:7
+  basis: Fish signs include scraping scales before eating and capture by biting the
+    head before throwing the fish onto the bank.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:4
+  label: human signaller or represented captor
+  assigned_to:
+  - fig:8
+  basis: The passage describes a signaller drawing attention to a snake feature and
+    a fish-capture sign representing an aboriginal fisherman’s action.
+  evidence_refs:
+  - ev:4
+  - ev:9
+symbols:
+- id: sym:1
+  label: lizard or iguana wrist-motion ideagram
+  literal_form: Oscillatory, vibratory, or rotating wrist movement with varied hand
+    positions.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: general snake sinuous ideagram
+  literal_form: Closed fist and forearm, or forefinger and wrist/arm motion, representing
+    snake head, body, and sinuous track.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water-snake swimming ideagram
+  literal_form: Hand and forearm as head and body; head out of water and revolving
+    side to side while swimming.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: carpet-snake coiled-head ideagram
+  literal_form: Thumb protruding between closed fore and middle fingers to show a
+    head erect within coils.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: black-headed-snake snout cue
+  literal_form: Gesture drawing attention to the black snout.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: frog jump and webbed-feet ideagram
+  literal_form: Hand thrust forward and downward while all digits extend and separate.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: fish seen through ripples ideagram
+  literal_form: Rapid side-to-side elbow movement with fixed wrist, with initial hand
+    shapes for tail or fins.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:8
+  label: fish scale-scraping ideagram
+  literal_form: Cupped or semi-flexed hand flexing at the wrist to represent scraping
+    scales; optional other hand shows the fish.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: fish capture ideagram
+  literal_form: Closed hand brought to the mouth, bitten sharply, withdrawn, and waved
+    to represent killing and throwing a fish onto the bank.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:10
+  label: water surface and ripples
+  literal_form: Water surface whose ripples affect the appearance of fish; water also
+    appears in the water-snake swimming sign.
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Lizard and iguana manual signs
+  summary: The passage describes several lizard and iguana ideagrams using hand positions
+    and wrist movements to indicate rapid or wobbling motion.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Snake manual signs
+  summary: The passage describes general snake signs and specific signs for water
+    snake, carpet snake, and black-headed snake, using body-part representation, sinuous
+    movement, coiling, swimming, and snout coloration.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:10
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Frog manual sign
+  summary: The frog ideagram represents a jump and webbed feet through a thrusting
+    hand movement and separated digits.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Fish manual signs and fish-related actions
+  summary: Fish ideagrams mostly use side-to-side movement to show fish through water
+    ripples; special signs represent scraping scales and capturing fish by biting
+    the head and throwing the fish to the river bank.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: iconic animal motion in manual signs
+  taxonomy_refs: []
+  basis: 'Multiple signs represent animals by imitating characteristic motion: lizard
+    wrist movement, snake sinuous progression, frog jumping, and fish movement through
+    ripples.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a sign-language pattern in an ethnographic description, not a
+    mythic narrative motif.
+- id: motif:2
+  label: animal body-part focus in ideagrams
+  taxonomy_refs: []
+  basis: The passage describes hand forms that stand for head, body, snout, toes,
+    tail, fins, and scales.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The pattern is literal and descriptive; no broader symbolic interpretation
+    is supplied by the passage.
+- id: motif:3
+  label: serpent depicted through sinuous, swimming, or coiled form
+  taxonomy_refs:
+  - serpent
+  basis: Snake signs represent sinuous progression, swimming with the head above water,
+    and a carpet snake’s head rising within coils.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is limited to the literal presence of snake/serpent
+    imagery; the passage does not present a serpent myth.
+- id: motif:4
+  label: fish as food captured and prepared
+  taxonomy_refs: []
+  basis: 'Two fish signs encode practical actions: scraping scales before eating and
+    killing a fish by biting its head before throwing it onto the bank.'
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is an action pattern in manual signs, not a ritual or mythic food
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the side-to-side movement in fish signs with
+    a movement already described for lizards and iguanas.
+  claim_level: visual_similarity
+  target: fish signs and lizard/iguana signs
+  evidence_refs:
+  - ev:2
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns gesture movement only and does not imply shared
+    origin, mythic meaning, or identical function.
+- id: claim:2
+  claim: The passage reports suspicion that one general snake ideagram may also indicate
+    a water snake, relating it to the water-snake sign.
+  claim_level: same_function
+  target: Fig. 59 general snake sign and Fig. 60 water-snake sign
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: The passage itself marks the identification as a suspicion rather than
+    a definite equivalence.
+- id: claim:3
+  claim: The passage says the initial hand position of one small-lizard ideagram is
+    also used among Pitta-Pitta speakers for a black-bream fish sign, though the final
+    movement differs.
+  claim_level: visual_similarity
+  target: Pitta-Pitta small-lizard ideagram and black-bream fish sign
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the initial position is shared; the final motion distinguishes
+    the fish sign.
+- id: claim:4
+  claim: The passage says the Kalkadoon sign for any large kangaroo uses the same
+    initial position as a lizard/iguana sign, but adds a wrist-flexion and forward
+    motion to express hopping.
+  claim_level: visual_similarity
+  target: Kalkadoon lizard/iguana initial position and large-kangaroo sign
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the initial position is shared; the subsequent motion changes
+    the represented animal and action.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7302-7406; opening paragraph
+  quote_or_summary: The introductory paragraph highlights that snake and frog ideagrams
+    use bodily features and motion, including snake coils, black snout coloration,
+    and a frog jump with toes.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 7302-7406; Figs. 53-56
+  quote_or_summary: Lizard and iguana signs are described with oscillatory, vibratory,
+    or rotating wrist motions, including signs for small species, general forms, and
+    large iguanas with a wobbling twisting gait.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 7302-7406; Figs. 57-60
+  quote_or_summary: General snake signs use fist, forearm, forefinger, hand, and arm
+    motion to signify head, body, and sinuous movement; the water-snake sign has the
+    head out of water and revolving side to side while swimming.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 7302-7406; Figs. 61-62
+  quote_or_summary: The carpet-snake sign shows the head erect within coils by a thumb
+    protruding between closed fingers; the black-headed-snake sign draws attention
+    to the black snout.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 7302-7406; Fig. 63
+  quote_or_summary: The frog sign thrusts the hand forward and downward while extending
+    and separating the digits, representing the jump and webbed feet.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 7302-7406; section 79 introduction
+  quote_or_summary: Most fish signs, regardless of initial hand position, use rapid
+    side-to-side elbow movement with fixed wrist to show fish seen through water ripples;
+    the text compares this to lizard and iguana movement signs.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 7302-7406; Figs. 64-67
+  quote_or_summary: Fish signs include hand shapes said to represent the tail, fins,
+    or related fish features, usually with the same side-to-side movement.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 7302-7406; Fig. 68
+  quote_or_summary: A fish-preparation sign uses a cupped or semi-flexed hand and
+    wrist flexion to represent scraping scales before eating; sometimes the other
+    hand is held underneath to show the fish itself.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 7302-7406; Fig. 69
+  quote_or_summary: A fish-capture sign brings the closed hand to the mouth, bites
+    it sharply, withdraws it, and waves it, representing biting the fish’s head to
+    kill it, throwing it onto the river bank, and remaining in the water to catch
+    more.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:10
+  type: summary
+  locator: lines 7302-7406; notes under Figs. 53 and 55
+  quote_or_summary: The passage notes that a Pitta-Pitta small-lizard initial hand
+    position also applies to a black-bream fish sign with a different final movement,
+    and that a Kalkadoon large-kangaroo sign shares the initial position of a lizard/iguana
+    sign but adds a hop movement.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is strong because the passage is descriptive. Motif
+    candidates are treated as sign-pattern candidates rather than mythic motifs. Comparison
+    claims are limited to comparisons explicitly noted in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unsupported comparative mythology claims were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-ethnological-studies-queensland-roth-archive__l7302-l7406
+  passage_sha256=03be5504eae462fe304a5430131e48b9e0bc715d254b456a32eb54b21006d551
+

@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l18772-l18801
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: X  WARFARE  363 / THE   BAGANDA / XI  INDUSTRIES  369 / THE   BAGANDA; lines
+    18772-18801
+  start: '18772'
+  end: '18801'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"it was from the centre ring at the apex of the house that the roof was
+    built"'
+  summary: The passage describes decorated papyrus-bound ceiling rings for a house,
+    names three rings by size and position, identifies the central ring as especially
+    important for construction, and lists privileges held by men who made rings for
+    royal houses.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A ring is decorated with shredded papyrus stems that are bleached, dyed red
+    and black, or left their natural colour; the shreds are twisted into cords and
+    bound around the ring to form patterns.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Three house rings are named: Enkata is the central and most important ring;
+    Katumyo is the second and larger ring; Btcgiue is the third and larger still.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The three rings are attached to the ceiling between the three tallest pillars.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The roof is built from the central ring at the apex of the house.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The rings are important to the builder and are described as the test of a
+    good house.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'Men who make rings for royal houses have privileges: exemption from taxation,
+    permission to pass the King''s wives on roads, and protection from capture for
+    sacrificial places.'
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Builder
+  description: A builder for whom the rings are important and by whose standard they
+    test a good house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Men who made rings for royal houses
+  description: Craft workers who make rings for royal houses and are granted specific
+    privileges.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: King's wives
+  description: Royal women whom ordinary workmen must avoid on roads, while the royal
+    ring-makers may pass them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Ordinary workman
+  description: A workman who is beaten if he does not turn and run away from the King's
+    wives on the roads.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: house builder
+  assigned_to:
+  - fig:1
+  basis: The rings are described as important to the builder and as a test of a good
+    house.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: privileged royal ring-makers
+  assigned_to:
+  - fig:2
+  basis: They make rings for royal houses and receive exemptions and protections.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: royal women with avoidance rule
+  assigned_to:
+  - fig:3
+  basis: Ordinary workmen must turn and run away from them on roads, while royal ring-makers
+    may pass them.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: non-privileged workman
+  assigned_to:
+  - fig:4
+  basis: The passage contrasts the ordinary workman with privileged ring-makers and
+    says he is beaten if he does not avoid the King's wives.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: decorated house ring
+  literal_form: Ring bound with patterned cords made from shredded papyrus stems dyed
+    red, black, or left natural.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Enkata
+  literal_form: Central and most important house ring, positioned at the apex from
+    which the roof is built.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Katumyo
+  literal_form: Second, larger house ring.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Btcgiue
+  literal_form: Third house ring, larger still.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: three tallest pillars
+  literal_form: The three tallest pillars between which the three rings are attached
+    to the ceiling.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Decoration of a house ring
+  summary: A ring is covered with patterned cords made from shredded papyrus stems
+    in red, black, bleached, and natural colours.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrangement of the three ceiling rings
+  summary: The named rings Enkata, Katumyo, and Btcgiue are arranged in the house
+    ceiling between the three tallest pillars, with the central ring at the apex serving
+    as the starting point for the roof.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Privileges of royal ring-makers
+  summary: Men who make rings for royal houses receive exemptions and protections
+    not available to ordinary workmen, including road privileges involving the King's
+    wives and protection from capture for sacrificial places.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: central architectural object as foundation and quality test
+  taxonomy_refs: []
+  basis: The central ring is the point from which the roof is built, and the rings
+    are called the test of a good house.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an architectural pattern in the passage, not explicitly framed
+    as a mythic symbol.
+- id: motif:2
+  label: privileged royal craft specialists protected from ordinary obligations
+  taxonomy_refs: []
+  basis: Royal ring-makers are exempt from taxation, allowed to pass the King's wives,
+    and protected from capture for sacrificial places.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage reports social privileges; it does not explicitly explain
+    their ritual or mythological rationale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18772-18777
+  quote_or_summary: A formed ring is decorated with shredded papyrus stems, bleached,
+    dyed red and black, or left natural; the shreds are twisted into cords and bound
+    around the ring to form patterns.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 18777-18781
+  quote_or_summary: The central ring is called Enkata and is most important; the second
+    larger ring is called Katumyo; the third larger ring is called Btcgiue.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 18781-18787
+  quote_or_summary: The three rings are attached to the ceiling between the three
+    tallest pillars, and "from the centre ring at the apex of the house" the roof
+    is built.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 18787-18788
+  quote_or_summary: The rings are of great importance to the builder and are the test
+    of a good house.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 18788-18798
+  quote_or_summary: Men who make rings for royal houses are exempt from taxation,
+    may pass the King's wives on roads, and may not be captured and taken to sacrificial
+    places; ordinary workmen must flee from the King's wives or be beaten.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif labels are cautious because
+    the passage is primarily ethnographic and architectural rather than explicitly
+    mythic. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs clearly apply; the passage mentions papyrus but not the listed symbol category 'tree'. The final sentence in the provided passage is truncated and was not used for extraction.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l18772-l18801
+  passage_sha256=9782e1d5945d4c90422cd7f2b28ac72433cf8dd54cfb2a933de03e11729b77d1
+

@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l6640-l6662
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: ARRIVAL OF LAKATOI IN THE GULF. / THE RETURN JOURNEY. / CUSTOMS OBSERVED
+    DURING THE ABSENCE OF THE LAKATOI. / SIZE OF ASI AND LAKATOI.; lines 6640-6662
+  start: '6640'
+  end: '6662'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records measurements of an unusually large asi taken in 1886
+    and measurements of large lakatoi craft taken in 1884, including a lakatoi composed
+    of fourteen asi and two smaller craft with partly garbled dimensions in the supplied
+    text.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Measurements of an unusually large asi are attributed to the late Mr F. E.
+    Lawes in 1886.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The asi is listed with an overall length of 47 ft. 8 ins.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The asi is also listed with bottom length outside, rostrum length, greatest
+    circumference, inside depth, and inside middle width measurements.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The late Rev. Dr Lawes measured the largest lakatoi in 1884 on its return
+    from the Gulf.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The largest lakatoi is described as a craft consisting of 14 asi and measuring
+    59 ft. by 51 ft.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage reports two smaller craft, but the second dimension in the supplied
+    text appears corrupted or unclear.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: late Mr F. E. Lawes
+  description: Named as the person whose measurements of an unusually large asi were
+    taken in 1886.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: late Rev. Dr Lawes
+  description: Named as the person who measured the largest lakatoi in 1884 on its
+    return from the Gulf.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: asi measurer
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the 1886 measurements of an unusually large asi to
+    this named person.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lakatoi measurer
+  assigned_to:
+  - fig:2
+  basis: The passage says this named person measured the largest lakatoi in 1884.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: asi
+  literal_form: An unusually large asi with recorded measurements including overall
+    length, bottom length, rostrum length, circumference, depth, and width.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: lakatoi
+  literal_form: A large craft measured on its return from the Gulf; the largest described
+    example consists of 14 asi.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Measurement of an unusually large asi
+  summary: The passage gives dimensions for an unusually large asi measured in 1886
+    by Mr F. E. Lawes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Measurement of lakatoi after return from the Gulf
+  summary: The passage reports that Rev. Dr Lawes measured the largest lakatoi in
+    1884 after its return from the Gulf, and gives dimensions for that craft and two
+    smaller craft.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6640-6643
+  quote_or_summary: '"The following measurements of an unusually large asi were taken
+    by the late Mr F. E. Lawes, in 1886."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source metadata; brief excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 6645-6658
+  quote_or_summary: The listed asi measurements include overall length 47 ft. 8 ins.;
+    bottom length outside 36 ft. 7 ins.; each rostrum 2 ft. 3 ins.; greatest circumference
+    15 ft. 7 ins.; inside depth 3 ft. 2 ins.; and inside middle width 2 ft. 7 ins.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 6660-6661
+  quote_or_summary: '"In 1884 the late Rev. Dr Lawes measured the largest lakatoi
+    on its return from the Gulf."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source metadata; brief excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 6661-6662
+  quote_or_summary: '"This craft consisting of 14 asi measured 59 ft. by 51 ft."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source metadata; brief excerpt.
+- id: ev:5
+  type: quote
+  locator: line 6662
+  quote_or_summary: '"two smaller craft measured 54 ft. by 2>7 ^t."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source metadata; brief excerpt; supplied text appears
+    OCR-corrupted.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is an ethnographic measurement note rather than a mythic narrative.
+    No comparative motif or historical-contact claim is supported by the supplied
+    passage. One final craft measurement appears OCR-corrupted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif refs were assigned because the passage only reports vessel dimensions and measurement events.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l6640-l6662
+  passage_sha256=cfa57ed0c054ee2da3595b8216cdce3e775b0a9137d7851568af23091c5367a0
+

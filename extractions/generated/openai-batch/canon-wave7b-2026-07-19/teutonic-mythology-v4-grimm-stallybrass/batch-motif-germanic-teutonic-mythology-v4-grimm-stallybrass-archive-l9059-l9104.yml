@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l9059-l9104
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: VOL.    IV.  N / WATER.  1455 / WATER.  1459 / ELEMENTS.; lines 9059-9104
+  start: '9059'
+  end: '9104'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: It is wild, it storms and raves
+  summary: The passage surveys Germanic and related terms for water and the sea, emphasizing
+    the sea as wild, raging, salt, named by proper names, linked with prohibitions
+    around blood and corpses, briefly compared with Jonah’s calming of the sea, associated
+    with named seas and a sea-lung image tied by a cited author to dismembered Ymir,
+    and described as advancing and retiring in ebb and flood.
+  language: English with multilingual citations
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage describes the sea or water with terms meaning wild, storming,
+    raging, rushing, and heaving.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Frisian salt can mean both salt and sea, and lists
+    related expressions for salt sea in Sanskrit, Welsh, Irish, and Anglo-Saxon.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage notes that a source, Sn. 147, tells why the sea is salt.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sea is described as tolerating no blood, and the ship is similarly said
+    to have no dead corpse.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sea is said to have ceased raging as soon as Jonah was thrown in.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage lists Oegir, Gymir, Brimir, and Oeofen as proper names of the
+    sea.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage lists names of particular seas, including Wendilmeri and related
+    forms, lehermer and related forms, and a sea of darkness.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage compares a sea-name term with Pytheas’s sea-lung and reports that
+    F. Magn. traces this lung to the dismembered Ymir.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The sea is described as advancing and retiring, having ebb and flood.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sea / water
+  description: The sea or water is the main subject of the passage and is described
+    as wild, salt, named, rejecting blood, ceasing to rage, and advancing and retiring.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Jonah
+  description: Jonah is mentioned as being thrown into the sea, after which the sea
+    ceased raging.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Ymir
+  description: Ymir is mentioned in a reported explanation in which a sea-lung is
+    traced to his dismembered body.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wild or raging sea
+  assigned_to:
+  - fig:1
+  basis: The passage says the sea is wild and storms and raves, with multiple cited
+    parallels.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sea rejecting blood or death
+  assigned_to:
+  - fig:1
+  basis: The passage states that the sea tolerates no blood and compares this to a
+    ship having no dead corpse.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: person thrown into the sea before calm
+  assigned_to:
+  - fig:2
+  basis: The passage says the sea ceased from raging as soon as Jonah was thrown in.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: dismembered figure used in an etiology
+  assigned_to:
+  - fig:3
+  basis: The passage reports an explanation tracing the sea-lung to dismembered Ymir.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water / sea
+  literal_form: sea, water, waves, flood, ebb
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: salt sea
+  literal_form: salt as sea; salt sea expressions
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: blood rejected by the sea
+  literal_form: blood not tolerated by the sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dead corpse rejected by the ship
+  literal_form: dead corpse not accepted by the ship
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: sea-lung
+  literal_form: sea-lung image connected with a sea-name term and reported Ymir etiology
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: ebb and flood
+  literal_form: the advancing and retiring sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Wild and salt sea terminology
+  summary: The passage gathers citations describing the sea as wild and raging, and
+    discusses words and phrases in which salt and sea are linked.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sea, blood, corpse, and Jonah
+  summary: The passage states that the sea tolerates no blood, compares this with
+    a ship rejecting a dead corpse, and notes that the sea stopped raging when Jonah
+    was thrown in.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Named seas and sea-lung comparison
+  summary: The passage lists proper names and particular names for seas, including
+    a sea of darkness, and compares a sea term with Pytheas’s sea-lung while reporting
+    a Ymir-related explanation.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Ebb and flood
+  summary: The passage describes the sea as moving by advance and retreat, identified
+    as ebb and flood.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Wild or raging sea
+  taxonomy_refs:
+  - chaos
+  basis: The sea is repeatedly characterized as wild, storming, raving, rushing, and
+    heaving.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a lexical and comparative survey rather than a single narrative
+    episode.
+- id: motif:2
+  label: Sea rejects blood or death
+  taxonomy_refs: []
+  basis: The passage says the sea tolerates no blood and compares this with a ship
+    refusing a dead corpse.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives the statement and comparison briefly, without supplying
+    a full mythic narrative.
+- id: motif:3
+  label: Raging sea calmed after a person is thrown in
+  taxonomy_refs: []
+  basis: The passage states that the sea ceased from raging as soon as Jonah was thrown
+    in.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage only alludes to Jonah and does not explicitly classify the
+    act as sacrifice or judgment.
+- id: motif:4
+  label: Etiology of the salt sea
+  taxonomy_refs: []
+  basis: The passage notes that Sn. 147 tells why the sea is salt.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage cites the existence of the etiology but does not recount it.
+- id: motif:5
+  label: Sea feature traced to dismembered giant
+  taxonomy_refs: []
+  basis: The passage reports that F. Magn. traces a sea-lung image to dismembered
+    Ymir.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The statement is reported as an explanation of a term or image, not as
+    a narrated episode in this passage.
+- id: motif:6
+  label: Cyclic movement of the sea
+  taxonomy_refs: []
+  basis: The passage describes the sea as advancing and retiring through ebb and flood.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a natural pattern in the passage; its mythic significance is not
+    developed.
+comparison_claims:
+- id: claim:1
+  claim: The passage places Germanic descriptions of the wild, raging sea alongside
+    the Jonah episode, where the sea stops raging after Jonah is thrown in, suggesting
+    a shared functional pattern of turbulent water becoming calm after a person enters
+    it.
+  claim_level: same_function
+  target: Jonah storm-calming episode
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only a brief allusion and does not argue for historical
+    contact, common inheritance, or a full motif identity.
+- id: claim:2
+  claim: The passage makes a linguistic and imagistic comparison between sea-name
+    terms such as lehermer and Pytheas’s sea-lung, and it reports a further explanation
+    connecting the lung image with dismembered Ymir.
+  claim_level: linguistic_similarity
+  target: Pytheas’s sea-lung and the Ymir explanation
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is primarily lexical and imagistic; the passage does
+    not provide a full narrative parallel.
+- id: claim:3
+  claim: The passage compares Frisian, Sanskrit, Welsh, Irish, and Anglo-Saxon expressions
+    in which salt and sea are closely linked.
+  claim_level: linguistic_similarity
+  target: Cross-language salt sea terminology
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a linguistic comparison rather than a demonstrated mythic motif
+    comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9059-9064
+  quote_or_summary: "“It is wild, it storms and raves,” followed by cited terms for
+    wild, raging, rushing, and heaving sea or water."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 9064-9067
+  quote_or_summary: The passage states that Frisian salt can mean both salt and sea,
+    lists related salt-sea expressions in several languages, and notes that Sn. 147
+    tells why the sea is salt.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 9067-9070
+  quote_or_summary: 'The sea is described as tolerating no blood, the ship as having
+    no dead corpse, and: “She ‘ceased from her raging’ as soon as Jonah was thrown
+    in.”'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 9070-9075
+  quote_or_summary: The passage lists Oegir, Gymir, Brimir, and Oeofen as real proper
+    names of the sea, with cited parallels.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 9075-9101
+  quote_or_summary: The passage lists names for particular seas, including forms of
+    Wendilmeri and lehermer, compares one term with Pytheas’s sea-lung, reports that
+    F. Magn. traces this lung to dismembered Ymir, and mentions a sea of darkness.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: 9102-9104
+  quote_or_summary: "“The sea advances and retires, has ebb and flood,” followed by
+    Old Norse terms for sea-tide or surge."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is explicit. Motif confidence
+    is lower where the passage only alludes to narratives or gives lexical comparisons
+    rather than recounting myths.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All claims are limited to the supplied passage and metadata. Taxonomy references use only the supplied available taxonomy list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l9059-l9104
+  passage_sha256=785a1826cfb9cff07c4700ec977594057e3ffb79ec8b6d45f0b8cf34f2c2738b
+

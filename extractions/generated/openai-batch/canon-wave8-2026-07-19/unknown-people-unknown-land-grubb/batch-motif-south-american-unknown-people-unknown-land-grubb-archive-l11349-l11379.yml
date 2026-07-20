@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l11349-l11379
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: LENGUA DOLL. / CHAPTER XXVII / POITS DEFENCE AND FATE / POITS DEFENCE AND
+    FATE; lines 11349-11379
+  start: '11349'
+  end: '11379'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: some supernatural fear impelled him to instant flight
+  summary: 'The narrator explains Poit’s apparent plan after shooting him: Poit would
+    avoid nearby villages, go to the Mission station with news of the narrator’s death,
+    delay any search, and rely on scavengers, animal tracks, and the arrow near the
+    body to support his story. The narrator notes that Poit’s plan failed because
+    he shot and fled without confirming death; a report says Poit was frightened,
+    horrified, and driven away by supernatural fear, possibly as related before his
+    execution.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Poit is described as avoiding neighbouring villages and moving toward the
+    Mission station to deliver news of the narrator’s supposed death.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The plan as described would delay a search because one man carrying news would
+    be slower than relays.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If remains were found, animal footprints and an arrow near the skeleton would
+    support Poit’s statement.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Poit’s expression of grief is described as a way to disarm suspicion and stop
+    further inquiry into rumours about him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator identifies the flaw in the plan as Poit shooting at him and then
+    fleeing without making sure of his death.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The narrator states a belief that an Indian custom in killing a man was to
+    complete the deed by battering the head with clubs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A report says Poit was frightened at the time, horrified by the deed, and
+    impelled to instant flight by supernatural fear.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Poit is said to have related the cause of his flight at the time of his execution.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Poit
+  description: The man described as shooting at the narrator, planning to report his
+    death, fleeing before confirming death, and later facing execution.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Narrator
+  description: The intended victim whose death Poit allegedly planned to report and
+    whose remains would have been sought.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Narrator’s friends and companions
+  description: People who would receive the sad tidings at the Mission station and
+    might be affected by grief and delayed inquiry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Birds and beasts of prey
+  description: Scavenging animals expected to leave only bones after a few days.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: attacker and planner
+  assigned_to:
+  - fig:1
+  basis: Poit is described as shooting at the narrator and having made careful preparations
+    for the narrator’s death to appear explainable.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: fugitive overcome by fear
+  assigned_to:
+  - fig:1
+  basis: The passage says Poit fled and a report attributed this to fright, horror,
+    and supernatural fear.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: intended victim
+  assigned_to:
+  - fig:2
+  basis: The narrator describes being shot at and left before Poit made sure of his
+    death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: potential recipients of death news
+  assigned_to:
+  - fig:3
+  basis: Poit was said to be going to the Mission station to impart sad tidings to
+    the narrator’s friends, whose reaction might halt inquiry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: scavengers of the body
+  assigned_to:
+  - fig:4
+  basis: Birds and beasts of prey are described as leaving only bones in a few days.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: arrow near skeleton
+  literal_form: arrow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bones or skeleton as remains
+  literal_form: bones / skeleton
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: clubs used to complete killing
+  literal_form: clubs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: supernatural fear
+  literal_form: fear attributed to a supernatural cause
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Projected concealment of the killing
+  summary: Poit’s described plan is to avoid nearby villages, go to the Mission station
+    with news of death, delay search, and let the condition of the remains, animal
+    traces, and arrow corroborate his statement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Failure to confirm the victim’s death
+  summary: The narrator says the flaw in the plan was that Poit shot at him and fled
+    instead of staying to complete or confirm the killing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Flight under supernatural fear
+  summary: A report says Poit was frightened, horrified by the deed, and driven to
+    immediate flight by supernatural fear; the passage says he is supposed to have
+    related this at his execution.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: attempted killing fails because the attacker flees before confirming death
+  taxonomy_refs: []
+  basis: The passage repeatedly emphasizes that Poit shot at the narrator but fled
+    before making sure of the narrator’s death, despite careful preparation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a narrative pattern in an ethnographic account rather than a clearly
+    identified traditional mythic motif.
+- id: motif:2
+  label: supernatural fear interrupts violence
+  taxonomy_refs: []
+  basis: A report says Poit was frightened and that supernatural fear impelled him
+    to immediate flight after the deed.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The supernatural cause is reported indirectly and not fully explained
+    in the passage.
+- id: motif:3
+  label: staged evidence around a corpse
+  taxonomy_refs: []
+  basis: The described plan depends on delayed discovery, scavenged remains, animal
+    footprints, and an arrow near the skeleton corroborating Poit’s account.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents this as the narrator’s reconstruction of Poit’s strategy,
+    not as a formal mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11349-11353
+  quote_or_summary: The passage states that after a few days birds and beasts of prey
+    would have left only bones.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 11354-11362
+  quote_or_summary: Poit avoids neighbouring villages and heads toward the Mission
+    station to report the narrator’s death; this would delay a search, and animal
+    footprints plus an arrow near the skeleton would support his statement.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 11363-11367
+  quote_or_summary: By expressing great grief, Poit would disarm suspicion and the
+    narrator’s companions might abandon further inquiry into rumours about him.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 11368-11373
+  quote_or_summary: The narrator says the flaw in the plan was that Poit shot at him
+    and fled; he adds that he believes the relevant killing custom was to complete
+    the deed by battering the head with clubs.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: quote
+  locator: lines 11373-11379
+  quote_or_summary: A report said Poit was frightened and that "some supernatural
+    fear impelled him to instant flight"; the passage adds that he supposedly related
+    this at his execution and that he did not make sure of the narrator’s death.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal narrative details are clear, but motif identification is limited
+    because the passage is an ethnographic personal narrative rather than a mythic
+    tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the passage does not clearly support any supplied motif-family or symbol taxonomy item.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l11349-l11379
+  passage_sha256=fc2f1de67036db98e76348287cc0ad807e90bd9eed60e972efff0af4b90c5794
+

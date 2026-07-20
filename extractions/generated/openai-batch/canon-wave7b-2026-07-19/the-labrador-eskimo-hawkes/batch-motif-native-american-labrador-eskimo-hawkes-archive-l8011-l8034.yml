@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l8011-l8034
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: THE   TUNNIT. / THE  LAST  OF  THE  TUNNIT. / ALASUQ  AND  THE  GIANT. /
+    THE  GIRL  WHO  LIVED  AMONG  THE  ADLIT.; lines 8011-8034
+  start: '8011'
+  end: '8034'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An Eskimo woman is scolded by her husband over boot-soles, goes to the
+    shore crying, and is approached by two Adlit who take her to their home. She marries
+    one of them. Later, her Adlit husband meets her former husband while hunting but
+    refuses to take him to her. When travelling people later encounter an Adlit camp
+    and cannot communicate, the woman serves as interpreter. She refuses to return
+    to her former husband and remains with the Adlit until death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Eskimo scolds his wife for not properly caring for his boot-soles.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wife goes out along the shore and cries.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Two Adlit approach the woman, ask what is wrong, and offer to take her to
+    their home.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman goes with the Adlit and marries one of them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Adlit husband later meets the woman's former husband while hunting, identifies
+    himself, and refuses to take him to the former wife.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Travelling people come across an Adlit camp and cannot understand the Adlit
+    until someone calls for the Eskimo woman.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The woman acts as interpreter, is identified as the girl who had run away,
+    refuses to go back to her husband, and lives with the Adlit until she dies.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eskimo woman / girl who lived among the Adlit
+  description: A woman scolded by her husband, who leaves the shore with two Adlit,
+    marries one Adlit, later interprets between travellers and the Adlit, refuses
+    to return to her former husband, and lives with the Adlit until death.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Former Eskimo husband
+  description: The woman's first husband, who scolds her over boot-soles and later
+    meets her Adlit husband while hunting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Two Adlit
+  description: Two Adlit who find the woman crying, ask what is wrong, and offer to
+    take her to their home.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Adlit husband
+  description: One of the Adlit whom the woman marries; he later meets her former
+    husband while hunting and refuses to take him to her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Travelling people
+  description: A group travelling who come across an Adlit camp, cannot understand
+    the Adlit, call for the Eskimo woman, and leave her when she refuses to go back.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Adlit at the camp
+  description: Adlit encountered by travelling people at a camp; communication requires
+    the Eskimo woman as interpreter.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: scolded wife / runaway woman
+  assigned_to:
+  - fig:1
+  basis: She is scolded by her husband, goes to the shore crying, and is later identified
+    as the girl who had run away.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: former husband / scolder
+  assigned_to:
+  - fig:2
+  basis: He scolds his wife over boot-soles and later is described as her former husband.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Adlit escorts
+  assigned_to:
+  - fig:3
+  basis: They approach the crying woman and offer to take her to their home.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Adlit spouse / withholder of access
+  assigned_to:
+  - fig:4
+  basis: The woman marries one of the Adlit, and that Adlit later refuses to take
+    the former husband to her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: interpreter
+  assigned_to:
+  - fig:1
+  basis: When the travelling people and Adlit cannot understand each other, the Eskimo
+    woman comes out and acts as interpreter.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: travellers seeking communication
+  assigned_to:
+  - fig:5
+  basis: The travelling people encounter an Adlit camp and cannot understand the Adlit
+    until the woman is called.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Adlit camp community
+  assigned_to:
+  - fig:6
+  basis: The travelling people come across a camp of Adlit who require an interpreter
+    for mutual understanding.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: boot-soles
+  literal_form: boot-soles
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: shore
+  literal_form: shore
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Adlit home/camp
+  literal_form: Adlit home and camp
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Domestic scolding and shore departure
+  summary: An Eskimo husband scolds his wife about boot-soles; she goes to the shore
+    and cries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Encounter with two Adlit and marriage
+  summary: Two Adlit find the woman, offer to take her home, and she goes with them
+    and marries one Adlit.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hunting encounter with former husband
+  summary: The Adlit husband meets the former husband while hunting, tells him who
+    he is, and refuses to take him to the woman.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Adlit camp and interpretation
+  summary: Travelling people encounter an Adlit camp and cannot communicate until
+    the Eskimo woman interprets; she refuses to return to her former husband and remains
+    with the Adlit until death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Departure from former household after domestic conflict
+  taxonomy_refs:
+  - departure
+  basis: The woman is scolded by her husband, leaves to the shore, and goes with the
+    Adlit to their home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy link to departure is broad; the passage presents a domestic
+    departure rather than an explicitly ritual or heroic departure.
+- id: motif:2
+  label: Marriage and residence among the Adlit
+  taxonomy_refs: []
+  basis: The woman marries one of the Adlit and later lives with the Adlit until death.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy family precisely matches this descriptive motif
+    without adding interpretation.
+- id: motif:3
+  label: Interpreter between mutually unintelligible groups
+  taxonomy_refs: []
+  basis: Travelling people and Adlit cannot understand one another until the Eskimo
+    woman is called and acts as interpreter.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level narrative function rather than a mapped taxonomy
+    motif.
+- id: motif:4
+  label: Refusal to return to former husband
+  taxonomy_refs: []
+  basis: When found among the Adlit, the woman refuses to go back to her husband and
+    remains with the Adlit.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the refusal plainly but does not give the woman's reasons
+    beyond the earlier scolding episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8011-8015
+  quote_or_summary: The tale opens with an Eskimo scolding his wife over care of boot-soles;
+    she goes to the shore and cries.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 8020-8023
+  quote_or_summary: Two Adlit ask the crying woman what is wrong, offer to take her
+    home, and she goes with them and marries one Adlit.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 8023-8027
+  quote_or_summary: The Adlit husband later meets the former husband while hunting,
+    identifies himself, and refuses to take him to his former wife.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 8028-8034
+  quote_or_summary: Travelling people encounter an Adlit camp and cannot understand
+    them until the Eskimo woman interprets; she refuses to return to her husband and
+    remains with the Adlit until death.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and clear for figures, actions, and scenes. Motif labels
+    are descriptive; only the broad departure taxonomy ref is applied. No comparison
+    claims were extracted because the passage does not provide enough internal comparative
+    detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy refs were applied only where directly supportable.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l8011-l8034
+  passage_sha256=dc2b66276bc1e3f60f10f0ca0db409c0058018432175a5067d96c7b4fc64b784
+

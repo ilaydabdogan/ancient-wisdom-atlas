@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l19167-l19198
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: MORAL    CHARACTERISTICS / TREATMENT  OF  DISEASE / THE    ESKIMO    ABOUT    BERING    STRAIT
+    / MORTUARY  CUSTOMS; lines 19167-19198
+  start: '19167'
+  end: '19198'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces mortuary customs among the Unalit at St Michael,
+    gives local terms for corpse, spirit or shade, ghost or visible shade, and grave,
+    and describes mourning, dressing the dead in best or unused clothing, preparing
+    a drift-log burial box behind the village, and keeping the body on a sleeping
+    platform beside a continuously burning oil lamp until burial while relatives and
+    friends remain nearby.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author states that burial customs vary and begins the detailed account
+    with the Unalit at St Michael.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The St Michael people use distinct terms for corpse, spirit or shade, ghost
+    or visible shade, and grave.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When a person dies during the day, relatives wail loudly and immediately dress
+    the body in the best clothing they possess, preferably garments that have never
+    been worn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When death occurs at night, the body is not dressed until sunrise the following
+    morning.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some male relatives or friends make a rude box of drift logs in the usual
+    burial place behind the village.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Before burial, the body lies on its sleeping platform with an oil lamp burning
+    nearby day and night.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Relatives and friends sit on other sleeping benches while the body remains
+    on the platform before burial.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: deceased person / corpse
+  description: A person who has died; the body is dressed and remains on the sleeping
+    platform until burial.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: relatives and friends
+  description: People who wail, dress the dead, sit nearby, and include some who help
+    prepare the burial box.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: male relatives or friends
+  description: A subset of relatives or friends who go out to make the drift-log burial
+    box.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Unalit at St Michael / St Michael people
+  description: The local group whose mortuary terms and customs are being described
+    in this part of the account.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: dead one prepared for burial
+  assigned_to:
+  - fig:1
+  basis: The passage defines a term for corpse and describes dressing the body and
+    keeping it on the sleeping platform until burial.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: mourners and caretakers of the body
+  assigned_to:
+  - fig:2
+  basis: Relatives and friends wail, dress the body, sit nearby, and participate in
+    pre-burial observances.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: burial-box makers
+  assigned_to:
+  - fig:3
+  basis: Male relatives or friends make a rude box of drift logs in the burial place.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: custom-bearing local community
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the Unalit at St Michael and lists terms used by the
+    St Michael people.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: best or unused clothing for the dead
+  literal_form: Best clothing possessed by relatives; preferably garments never worn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: drift-log burial box
+  literal_form: A rude box made of drift logs in the usual burial place.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: burning oil lamp beside the body
+  literal_form: Oil lamp burning day and night close to the body until burial.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: grave or usual burial place
+  literal_form: Grave term and burial place a short distance behind the village.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: spirit or visible shade terminology
+  literal_form: Terms for spirit or shade and ghost or visible shade.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Mortuary terminology at St Michael
+  summary: The passage lists local terms for corpse, spirit or shade, ghost or visible
+    shade, and grave.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Mourning and dressing the dead
+  summary: After a daytime death, relatives wail and dress the body at once in best
+    or unused clothing; after a nighttime death, dressing waits until sunrise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Preparation of the burial box
+  summary: Male relatives or friends prepare a drift-log box at the usual burial place
+    behind the village.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Pre-burial vigil beside the body
+  summary: The body remains on the sleeping platform with an oil lamp burning nearby
+    day and night while relatives and friends sit on other benches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: distinct naming of corpse, spirit, ghost, and grave
+  taxonomy_refs: []
+  basis: The passage records separate terms for the dead body, spirit or shade, visible
+    ghost or shade, and grave.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage lists terms but does not narrate an afterlife journey or explain
+    doctrinal meanings.
+- id: motif:2
+  label: dressing the dead in best or unused clothing
+  taxonomy_refs: []
+  basis: Relatives dress the deceased in the best available garments, preferably unused,
+    with timing dependent on whether death occurs by day or night.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the custom but does not state its symbolic rationale.
+- id: motif:3
+  label: kin-prepared burial container outside the village
+  taxonomy_refs: []
+  basis: Male relatives or friends make a drift-log burial box in the usual burial
+    place behind the village.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not continue far enough to describe placement of the
+    body in the box.
+- id: motif:4
+  label: lamp kept burning beside the corpse before burial
+  taxonomy_refs: []
+  basis: The body lies on the sleeping platform with an oil lamp burning nearby day
+    and night until burial.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the purpose of the lamp.
+- id: motif:5
+  label: relatives and friends keeping vigil around the body
+  taxonomy_refs: []
+  basis: Relatives and friends remain seated on nearby sleeping benches while the
+    body lies on the platform before burial.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage describes presence near the body but does not label it as
+    a formal vigil.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19167-19174
+  quote_or_summary: The section introduces mortuary customs and says the detailed
+    account begins with the Unalit at St Michael.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 19175-19184
+  quote_or_summary: The St Michael people are said to use terms for corpse or dead
+    one, spirit or shade, ghost or visible shade, and grave.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 19185-19190
+  quote_or_summary: If death occurs during the day, relatives wail and immediately
+    dress the body in their best clothing, preferably unused garments; if at night,
+    dressing is delayed until sunrise.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 19191-19194
+  quote_or_summary: Some male relatives or friends make a rude box from drift logs
+    in the usual burial place a short distance behind the village.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 19195-19198
+  quote_or_summary: Until burial, the body lies on the sleeping platform with an oil
+    lamp burning close by day and night, while relatives and friends sit on other
+    sleeping benches.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based directly on the provided public-domain passage. Confidence
+    is limited by OCR artifacts and the fact that the excerpt ends mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious comparison beyond local mortuary customs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l19167-l19198
+  passage_sha256=b2daf6839bde7b6c7037f9935247663902566213b8c916e4e6ab1d70a36650a4
+

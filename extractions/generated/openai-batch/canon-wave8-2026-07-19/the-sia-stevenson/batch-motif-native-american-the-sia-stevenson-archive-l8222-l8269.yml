@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l8222-l8269
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: ETHNOLOGY OF THE UNGAVA DISTRICT, HUD / SON BAY TERRITORY. / INTRODUCTION.
+    / CLIMATE.; lines 8222-8269
+  start: '8222'
+  end: '8269'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives a descriptive account of climate: wind direction and
+    temperature, seasonal cloudiness, patterns of sleet, snow, rain, fog, snow cover,
+    and steam rising from river water while ice is setting.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Temperature is described as controlled by wind direction, with different directional
+    winds associated with warmth, cold, fog, rain, snow, cloud dispersal, or moderation.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cloudiness is greatest in spring and fall, less in July and August, and least
+    in December, January, and February.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sleet occurs mostly from mid-September to early December, followed by snow
+    as the only precipitation until mid-April; rain is described as erratic, and snow
+    may fall in every month.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Lower grounds are permanently snow-covered by the beginning of December and
+    remain so until about June 10; snow disappears by late July at elevations no higher
+    than Fort Chimo.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Higher hills retain snow until late August, and by mid-September snow again
+    covers the distant high hilltops.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Fogs rarely occur as far inland as Fort Chimo, but July and August fogs can
+    be dense in the early morning and usually dissipate by 4 to 7 a.m.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: While ice is setting in the river and moving with the tides, steam rises from
+    dark water and spreads over the land; deposited moisture on bushes and trees is
+    described as visually beautiful.
+  category: action
+  evidence_refs:
+  - ev:6
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: seasonal snow and ice
+  literal_form: sleet, snow, river ice, snow-covered lower grounds, and snow on high
+    hills
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: river water and steam
+  literal_form: inky river water producing steam while ice is setting
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: directional winds
+  literal_form: southeast, south, southwest, northeast, north, northwest, westerly,
+    and southerly winds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: seasonal climate description
+  summary: The passage surveys the annual climate through wind, cloudiness, precipitation,
+    snow cover, fog, and river ice conditions.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: river ice and morning steam
+  summary: As river ice forms and is moved by tides, steam rises from dark water,
+    spreads over the land, and leaves moisture on vegetation.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal cycle of weather and snow cover
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage organizes weather, precipitation, fog, snow cover, and hill snow
+    by recurring annual seasons and dates.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a climatological description rather than a mythic narrative; the
+    taxonomy match is limited to the observable seasonal pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8222-8234
+  quote_or_summary: 'Temperature is linked to wind direction: southeastern to southwestern
+    winds are warm in summer, northeast winds bring fog/rain/snow, north winds are
+    cold and disperse clouds, northwest winds are very cold or chilly, and other winds
+    vary by season and force.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8236-8240
+  quote_or_summary: Cloudiness is greatest in spring and fall, somewhat less in July
+    and August, and least in December through February; the yearly average is stated
+    as at least eighty-two hundredths of the visible sky.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8242-8255
+  quote_or_summary: 'The passage describes a seasonal precipitation sequence: sleet
+    from mid-September to early December, snow until mid-April, mixed sleet and snow
+    before rain, erratic rain season, snow every month, summer showers, persistent
+    late-season rains, and brief snowfalls or severe sleet squalls.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8255-8262
+  quote_or_summary: Lower grounds are snow-covered by December 1 and remain so until
+    about June 10, with remaining drifts and ravine snow after that; snow disappears
+    by late July near Fort Chimo elevations, while higher hills retain snow until
+    late August and are again snow-topped by mid-September.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8264-8268
+  quote_or_summary: Fogs rarely occur inland at Fort Chimo; those in July and August
+    can be dense early in the day and usually dissipate by 4 to 7 a.m.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8268-8269
+  quote_or_summary: When river ice is setting and moved by tides, large volumes of
+    steam rise from dark water, spread over land, and deposit moisture on bushes and
+    trees, producing a beautiful sight.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a literal climate description with no narrative figures or
+    explicit mythological comparison. The only motif candidate is a cautious seasonal-pattern
+    classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures, roles, or comparison claims were extracted because the passage contains environmental description only.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l8222-l8269
+  passage_sha256=2cdb48747cc6e4497daf0527223f5cdf8a22ea8304fffc89e7a2c49bc4cbbd6e
+

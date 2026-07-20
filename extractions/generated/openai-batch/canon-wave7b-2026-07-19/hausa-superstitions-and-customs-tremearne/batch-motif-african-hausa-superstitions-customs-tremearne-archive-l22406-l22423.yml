@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l22406-l22423
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: LXXXI  I. / LXXXIII. / LXXXIV. / NOTES   ON   THE   TALES  509; lines 22406-22423
+  start: '22406'
+  end: '22423'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The notes identify the Kuka or Monkey-bread tree as supposedly inhabited
+    by spirits, state that the hyena in the story is masculine without explanation,
+    and discuss a belief among some tribes around Jemaan Daroro that the blacksmith
+    has greater powers than an ordinary person, while adding that the Hausa no longer
+    hold such a belief according to the author.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kuka is also called the Monkey-bread tree and is said to be inhabited by spirits.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hyena in the referenced story is described as masculine, and the author
+    says he does not know why.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some tribes around Jemaan Daroro regard the blacksmith as having greater powers
+    than an ordinary individual.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The author states that the Hausa do not now hold the blacksmith-power belief,
+    while suggesting the passage may point to an earlier Hausa superstition of that
+    kind.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: spirits
+  description: Spirits said to inhabit the Kuka or Monkey-bread tree.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: hyena
+  description: Animal figure in the referenced story, described as masculine.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: blacksmith
+  description: Occupational figure regarded by some tribes around Jemaan Daroro as
+    having powers greater than an ordinary individual.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: tree-inhabiting spirits
+  assigned_to:
+  - fig:1
+  basis: The Kuka or Monkey-bread tree is supposed to be inhabited by spirits.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: masculine animal figure
+  assigned_to:
+  - fig:2
+  basis: The note states that the hyena is masculine in the story.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: extraordinarily powerful craft specialist
+  assigned_to:
+  - fig:3
+  basis: The blacksmith is described as regarded by some nearby tribes as having greater
+    powers than ordinary individuals.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Kuka / Monkey-bread tree
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Note on spirit-inhabited Kuka tree
+  summary: The note identifies Kuka, also called the Monkey-bread tree, as a tree
+    supposed to be inhabited by spirits.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Note on masculine hyena
+  summary: The note records that the hyena in the story is masculine and that the
+    author gives no explanation.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Note on blacksmith powers
+  summary: The note reports a belief among some tribes around Jemaan Daroro that blacksmiths
+    have greater powers than ordinary people and adds a tentative comment about possible
+    earlier Hausa belief.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: spirit-inhabited tree
+  taxonomy_refs: []
+  basis: The Kuka or Monkey-bread tree is explicitly described as supposed to be inhabited
+    by spirits.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a brief note and does not describe ritual use or narrative
+    action involving the tree.
+- id: motif:2
+  label: blacksmith with greater-than-ordinary powers
+  taxonomy_refs: []
+  basis: The blacksmith is said to be regarded by some tribes around Jemaan Daroro
+    as possessing powers beyond those of ordinary individuals.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The belief is attributed to some nearby tribes, while the author treats
+    its application to Hausa belief as tentative and possibly historical.
+- id: motif:3
+  label: gender-marked hyena character
+  taxonomy_refs: []
+  basis: The note states that the hyena is masculine in the story.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The underlying story is not included in this passage, and the author explicitly
+    says he does not know why the hyena is masculine.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously links the belief in blacksmiths having greater powers
+    among some tribes around Jemaan Daroro with a possible earlier Hausa superstition
+    of the same kind.
+  claim_level: same_motif
+  target: belief in the blacksmith as more powerful than ordinary individuals among
+    neighboring tribes and possibly earlier Hausa tradition
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: The author says the Hausa do not hold the belief now and frames the
+    earlier Hausa connection as an inference rather than a demonstrated fact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22406-22410
+  quote_or_summary: Kuka, also called the Monkey-bread tree, is described as supposed
+    to be inhabited by spirits.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:2
+  type: summary
+  locator: 22412-22414
+  quote_or_summary: The hyena is said to be masculine in the story, and the author
+    states he does not know why.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:3
+  type: summary
+  locator: 22415-22419
+  quote_or_summary: The blacksmith is regarded by some tribes around Jemaan Daroro
+    as having greater powers than an ordinary individual.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:4
+  type: summary
+  locator: 22419-22423
+  quote_or_summary: The author says the Hausa have no such belief now, but suggests
+    this note may point to such a superstition among them at one time.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized without extended quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is short and primarily consists of notes rather than a full narrative.
+    Literal extraction is straightforward, but motif and comparison claims are limited
+    by the fragmentary context and the author's tentative wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unstated tale details were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l22406-l22423
+  passage_sha256=230ca61c74f5e033b4c60ab08eb0a9b38f614e4223e9d29cd721c212f9eb1dd8
+

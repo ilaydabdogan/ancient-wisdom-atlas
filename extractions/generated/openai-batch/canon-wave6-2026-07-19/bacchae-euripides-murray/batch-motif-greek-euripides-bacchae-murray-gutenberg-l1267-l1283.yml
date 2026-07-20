@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1267-l1283
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: CHORUS. / THE VOICE. / A MAIDEN. / LEADER.; lines 1267-1283
+  start: '1267'
+  end: '1283'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A maiden describes a flame awakened from Semele's hallowed ground and recalls
+    a heavenly, fiery death. The leader orders the maidens to cast themselves to the
+    earth because the Lord, called God's Child, has come against the house and all
+    is overthrown. The maidens prostrate themselves, and Dionysus enters alone and
+    unbound from the castle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A maiden reports seeing or marking a flame from Semele's hallowed ground.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maiden connects the flame with an old death that came ablaze from heaven
+    and with the hot splendour of a god's shaft.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The leader commands the maidens to cast themselves down to the earth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The leader says the Lord is coming against the house and identifies him as
+    God's Child.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The leader says all is overthrown.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The maidens cast themselves upon the ground with their eyes directed earthward.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Dionysus enters alone and unbound from the castle.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: A maiden
+  description: A speaking maiden who describes the flame from Semele's hallowed ground.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Leader
+  description: The leader commands the maidens to cast themselves to the earth and
+    announces the Lord's coming against the house.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Maidens
+  description: The maidens cast themselves upon the ground with eyes earthward.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Dionysus
+  description: Dionysus enters from the castle, alone and unbound.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: The Lord / God's Child
+  description: The leader says the Lord, called God's Child, comes against the house.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Semele
+  description: Semele is named in connection with hallowed ground from which a flame
+    is awakened.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Witnessing speaker
+  assigned_to:
+  - fig:1
+  basis: The maiden asks whether others saw and marked the flame.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Commanding ritual leader
+  assigned_to:
+  - fig:2
+  basis: The leader commands the maidens to cast themselves down.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Prostrate attendants
+  assigned_to:
+  - fig:3
+  basis: The stage direction says the maidens cast themselves upon the ground with
+    eyes earthward.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Unbound entrant from the castle
+  assigned_to:
+  - fig:4
+  basis: The stage direction identifies Dionysus entering alone and unbound from the
+    castle.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Divine figure acting against a house
+  assigned_to:
+  - fig:5
+  basis: The leader says the Lord, called God's Child, comes against the house.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: Named figure associated with hallowed ground
+  assigned_to:
+  - fig:6
+  basis: The maiden refers to Semele's hallowed ground as the source of the awakened
+    flame.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Flame
+  literal_form: Flame from Semele's hallowed ground; fiery heavenly death; hot splendour
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Hallowed ground
+  literal_form: Semele's enhallowed sod
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Earthward prostration
+  literal_form: Maidens cast themselves upon the ground with eyes earthward
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: House / Castle
+  literal_form: The house against which the Lord comes; the castle from which Dionysus
+    enters
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: Shaft of God
+  literal_form: Hot splendour of the shaft of God
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Recognition of fiery sign
+  summary: A maiden identifies a flame from Semele's hallowed ground and links it
+    to an old fiery death from heaven.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prostration before the coming Lord
+  summary: The leader commands the maidens to cast themselves to earth because the
+    Lord, called God's Child, comes against the house and all is overthrown.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Dionysus enters unbound
+  summary: Dionysus enters alone and unbound from the castle after the maidens cast
+    themselves down.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Divine judgment against a house
+  taxonomy_refs:
+  - divine_judgment
+  basis: The leader says the Lord comes against the house and that all is overthrown.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states divine action against a house, but does not explain
+    the cause or full outcome within this excerpt.
+- id: motif:2
+  label: Divine child designation
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The Lord is explicitly called God's Child.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The parent-child relation is named only as an epithet in this passage;
+    the parent is not otherwise identified here.
+- id: motif:3
+  label: Fire as sign of divine destruction
+  taxonomy_refs: []
+  basis: The maiden describes a flame, a death ablaze from heaven, and the hot splendour
+    of a god's shaft.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage provides fiery imagery and divine language, but the exact
+    event referred to is only alluded to in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1267-1274
+  quote_or_summary: A maiden speaks of a flame from Semele's hallowed ground, an old
+    death ablaze from heaven, and the hot splendour of a god's shaft.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 1276-1281
+  quote_or_summary: The leader commands the maidens to cast themselves to earth, saying
+    the Lord comes against the house, is God's Child, and that all is overthrown.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 1282-1283
+  quote_or_summary: The stage direction says the maidens cast themselves upon the
+    ground with eyes earthward, and Dionysus enters alone and unbound from the castle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal actions and figures are explicit. Motif labels are limited to what
+    the short passage supports; no cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy IDs beyond supplied refs were invented; comparison claims left empty because the excerpt itself does not make an explicit comparative claim.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1267-l1283
+  passage_sha256=ddabfb658f9715708a4f92229027731efac433dc105c458e8c27dfd5c82a0ae4
+

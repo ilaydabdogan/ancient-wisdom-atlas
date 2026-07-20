@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l7586-l7608
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: ARCHITECTLTRE / CLOTHING / NAILS / TEETH; lines 7586-7608
+  start: '7586'
+  end: '7608'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes nail and tooth care observations: fingernails were
+    bitten short, toenails often received little attention, brown or darkened teeth
+    were observed, several plants were said to blacken teeth, and charcoal was used
+    for tooth cleaning before and after the arrival of whites.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fingernails were bitten off when they became inconveniently long.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Toenails received little attention; in old persons they were observed as very
+    long and curled over the ends of the toes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Many brown teeth were observed, but the cause was not satisfactorily identified
+    in the passage.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The red berry of Licium fremontii was agreed to temporarily blacken teeth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Kwahadk^s and Papagos were said not to eat the red berry, yet also had
+    darkened teeth, so the passage rejects the berry as a sufficient explanation.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rumex berlandieri, Rumex hymenosepalus, and a thorny weed called sd/MJcam
+    iavak by the Pimas were also said to blacken teeth.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Charcoal was used to clean the teeth before the advent of whites, and the
+    practice was still continued.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: old persons
+  description: Old persons are mentioned as having toenails of inordinate length curled
+    over the ends of the toes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kwahadk^s
+  description: A group said not to eat the red berry but to have darkened teeth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Papagos
+  description: A group said not to eat the red berry but to have darkened teeth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Pimas
+  description: The group named in connection with the thorny weed called sd/MJcam
+    iavak.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: whites
+  description: Mentioned as a chronological point of reference in relation to tooth-cleaning
+    with charcoal.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: observed elderly persons with long curled toenails
+  assigned_to:
+  - fig:1
+  basis: The passage states that old persons were seen with toenails of inordinate
+    length curled over the ends of the toes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: groups with darkened teeth not attributed to red berry consumption
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says these groups do not eat the red berry but have darkened
+    teeth.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: group associated with plant name
+  assigned_to:
+  - fig:4
+  basis: The thorny weed is described as being called sd/MJcam iavak by the Pimas.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: chronological reference group
+  assigned_to:
+  - fig:5
+  basis: The passage refers to charcoal tooth-cleaning as existing before the advent
+    of whites.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fingernails and toenails
+  literal_form: Body nails described in relation to biting, neglect, length, and curling.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: red berry of Licium fremontii
+  literal_form: Red berry said to temporarily blacken teeth.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Rumex berlandieri and Rumex hymenosepalus
+  literal_form: Plants said to blacken teeth.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: thorny weed sd/MJcam iavak
+  literal_form: A thorny weed called sd/MJcam iavak by the Pimas and said to blacken
+    teeth.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: charcoal
+  literal_form: Material used to clean teeth before the advent of whites and afterward.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Nail care and observation
+  summary: The passage describes fingernails being bitten short and toenails, especially
+    among old persons, receiving little attention and becoming long and curled.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tooth darkening and tooth cleaning
+  summary: The passage reports brown or darkened teeth, lists several plants said
+    to blacken teeth, notes that some groups have darkened teeth without eating the
+    red berry, and states that charcoal was used to clean teeth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7586-7592
+  quote_or_summary: Fingernails were bitten off when troublesome in length; toenails
+    received little attention and old persons were seen with very long curled toenails.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 7594-7597
+  quote_or_summary: Many brown teeth were observed, but the passage states that no
+    satisfactory cause was obtained.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 7597-7603
+  quote_or_summary: The red berry of Licium fremontii was said to temporarily blacken
+    teeth, but Kwahadk^s and Papagos, who do not eat it, also have darkened teeth.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 7603-7606
+  quote_or_summary: Rumex berlandieri, Rumex hymenosepalus, and a thorny weed called
+    sd/MJcam iavak by the Pimas were said to blacken teeth.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 7606-7608
+  quote_or_summary: Charcoal was used to clean the teeth before the advent of whites,
+    and the practice continued.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is an ethnographic description of bodily care and tooth coloration.
+    It supports literal material-culture observations but no mythological motif or
+    comparison claim from the available passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference is directly supported by this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l7586-l7608
+  passage_sha256=8320f2e8a6cc26dd01b9a48173009dba304f2d847e72ca0aee025674616121b9
+

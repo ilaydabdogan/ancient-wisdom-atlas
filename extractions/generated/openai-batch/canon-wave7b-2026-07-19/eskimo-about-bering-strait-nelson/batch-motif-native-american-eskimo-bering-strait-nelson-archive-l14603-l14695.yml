@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l14603-l14695
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: TRADE  AND  TRADING  VOYAGES / TRADING    VOYAGES  229 / UNITS   OF   VALUE
+    / UNITS   OF   MEASUREMENT; lines 14603-14695
+  start: '14603'
+  end: '14695'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Unalit body-based linear measurements, mainly using
+    hands and arms, for making tools, nets, snares, kaiak parts, boot soles, and dog-sleds.
+    It explains that such measures make manufactured objects proportional to the maker
+    or user, and lists named units tied to specific body parts and practical uses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that all linear measurement units among these people are
+    based on body measurements, mainly of the hand and arm.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that these units gauge the size and length of tools, implements,
+    and nearly everything made by the people described.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage explains that bows, arrows, spears, boat frames, and similar objects
+    made by fixed spans or cubits are proportioned to the maker and suited to his
+    use.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The listed measurement terms are described as from the Unalit and as covering
+    units commonly in use.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Several named units define net mesh sizes by thumb, palm, finger, hand, or
+    head measurements for nets associated with seal, salmon, sea whitefish, herring,
+    white whale, Arctic hare, and beaver.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:6
+  text: Several named units define snare or cord lengths by measuring around or along
+    body points, including foot to groin and forefinger to elbow, for reindeer and
+    ptarmigan snares.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Several named units define craft dimensions for a kaiak bow-piece, boot soles,
+    kaiak frames, and dog-sleds using forefinger, arm, span, or knee-height measurements.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A note identifies Ni-g'in as the name of the gauge used for measuring meshes
+    of nets of any kind.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unalit / these people
+  description: The people to whom the passage attributes the listed measurement terms
+    and body-based measuring practices.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: man / maker-user
+  description: A man whose hands, arms, and body proportions are used to make bows,
+    arrows, spears, boat frames, and other objects suitable for his own use.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: users of body-based measurement terms
+  assigned_to:
+  - fig:1
+  basis: The passage says the units are used among these people and that the listed
+    terms are from the Unalit.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: maker of proportionate implements
+  assigned_to:
+  - fig:2
+  basis: The passage describes objects made by a man according to spans or cubits
+    so that they are in direct proportion to himself.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: human body as measuring standard
+  literal_form: hand, arm, thumb, palm, fingers, forearm, head, chest, knee, span,
+    and cubit measurements
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: net mesh gauge
+  literal_form: Ni-g'in, the named gauge used for measuring net meshes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: proportional manufactured implements
+  literal_form: bows, arrows, spears, boat frames, kaiak bow-piece, boot soles, kaiak
+    frames, and dog-sleds
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: animal-specific nets and snares
+  literal_form: nets or snares associated with seal, salmon, sea whitefish, herring,
+    white whale, reindeer, Arctic hare, ptarmigan, and beaver
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Explanation of body-based linear measurement
+  summary: The passage explains that linear measures are derived from body parts and
+    are used to size tools and implements so that made objects correspond to the user's
+    body proportions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Catalog of named Unalit measurement units
+  summary: The passage lists named Unalit units for net meshes, snare cords, kaiak
+    parts, boot soles, and dog-sleds, each defined by a specific hand, arm, head,
+    foot, knee, or span measurement.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: embodied proportional measure
+  taxonomy_refs: []
+  basis: The passage repeatedly describes measurement units derived from body parts
+    and applied to manufactured objects so that those objects fit the maker or user.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic technical pattern rather than a narrative or explicitly
+    sacred motif; no available taxonomy reference is directly supported.
+- id: motif:2
+  label: body-part prescriptions for animal-catching equipment
+  taxonomy_refs: []
+  basis: The passage lists net mesh and snare measurements for particular animals,
+    with each measure defined by specific body parts or bodily actions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents practical measurement rules only; it does not state
+    symbolic, ritual, or mythic meanings for the animals or measurements.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 14603-14609
+  quote_or_summary: '"All units of linear measurement among these people are based
+    on body measurements — mainly of the hand and the arm" and are used to gauge tools,
+    implements, and nearly everything made by them.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 14610-14618
+  quote_or_summary: Because a man's hands and arms are usually proportionate to his
+    body, items such as bows, arrows, spears, and boat frames made by fixed spans
+    or cubits are described as proportioned to him and suitable to his use.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 14621-14626
+  quote_or_summary: The passage says that the following terms are "from the Unalit"
+    and cover measurement units commonly in use.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 14627-14662
+  quote_or_summary: Named units describe net mesh sizes for large seal, small salmon,
+    sea whitefish, large salmon, herring, white whale, and Arctic hare, using measurements
+    from thumbs, fingers, palms, and hands.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 14658-14695
+  quote_or_summary: Named units describe reindeer and ptarmigan snare cords, a beaver
+    net mesh, arm and chest measurements, a kaiak stem or bow-piece measure, boot
+    sole and kaiak frame measures, knee height for dog-sleds, and an arm-to-arm distance.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: note within 14603-14695
+  quote_or_summary: '"Ni-g''in'' is the name given to the gauge used in measuring
+    meshes of nets of any kind."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The technical ethnographic content is explicit. Motif candidates are framed
+    as material-cultural patterns only; the passage contains no explicit mythic narrative,
+    ritual symbolism, or comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or listed symbol taxonomy reference is directly supported by this passage. No comparison claims were extracted because the passage itself makes no comparison to other traditions or motif families.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l14603-l14695
+  passage_sha256=f431adfdfed50cf614a5d2dca27bb23dd4652fce3a53d0cbf40f406860fa3fa4
+

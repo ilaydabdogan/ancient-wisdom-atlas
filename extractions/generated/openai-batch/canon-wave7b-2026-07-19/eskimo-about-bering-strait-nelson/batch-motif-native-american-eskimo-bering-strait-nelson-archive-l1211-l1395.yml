@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l1211-l1395
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: LXXIV. / LXXVII. / ILLUSTRATIONS / KTH  ANN.  18; lines 1211-1395
+  start: '1211'
+  end: '1395'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an illustrations list with plate and figure captions for
+    boats and boat gear, settlements and dwellings, tobacco and snuff implements,
+    graveyard and armor images, dolls, snow knives, masks and finger masks, etched
+    mythologic figures, color schemes, clothing, labrets, tattooing, tools, and sealskin-processing
+    items.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a catalogue of illustration captions and page references rather
+    than a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: obs:2
+  text: Several captions list boat-related items, including a model umiak frame, appurtenances
+    of umiak and kaiak rigging, kaiaks from named locations, paddles, and boat hooks.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several captions identify settlement or habitation images, including storehouses
+    at Ikogmut, a winter view of Kazbinsky, Eskimo dwellings, women of Plover Bay,
+    and a summer camp at Cape Lisburne.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The captions list tobacco and snuff-related objects, including tobacco boxes,
+    snuff boxes, snuff-making implements, ash boxes, tobacco bags, pipes, pipe mold,
+    ivory pipestems, and snuff tubes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The captions list many masks, finger masks, and maskoids, and also refer to
+    a scheme of color on masks, mask-like objects, grave boxes, and totem markings.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:6
+  text: 'One plate caption identifies objects etched with mythologic figures: a spear
+    rest with thunderbirds catching whales and an ivory pipestem with a man-worm and
+    a thunderbird.'
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Several figure captions identify labrets and tattooing on women or girls,
+    including circular forms of tattooing.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Later figure captions list practical objects and tool-related items, including
+    combs, belt fastener, lamp, spoon, snow beaters, snow shovels, mallets, chisels,
+    knife sharpeners, flint flakers, trinket boxes, sinew tools, and sealskin-processing
+    images.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Thunderbird or thunderbirds
+  description: Etched mythologic bird figure or figures named in Plate CVII; on one
+    spear rest they are shown catching whales, and on one ivory pipestem a thunderbird
+    is shown with the man-worm.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Whales
+  description: Animals shown being caught by thunderbirds on the spear rest described
+    in Plate CVII.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Man-worm
+  description: A mythologic figure etched on an ivory pipestem and named together
+    with the thunderbird in Plate CVII.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: mythologic figure named in object caption
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Plate CVII describes the spear rest and pipestem as objects etched with mythologic
+    figures and names thunderbird(s) and man-worm.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: catching agent in etched image
+  assigned_to:
+  - fig:1
+  basis: The spear-rest caption says the thunderbirds are catching whales.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: caught animal in etched image
+  assigned_to:
+  - fig:2
+  basis: The spear-rest caption identifies whales as the beings caught by thunderbirds.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: paired figure on ivory pipestem
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The ivory pipestem caption names etched figures of the man-worm and the thunderbird
+    together.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Masks and mask-like objects
+  literal_form: Masks, finger masks, maskoids, and a color scheme on masks and mask-like
+    objects.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: Thunderbird image
+  literal_form: Etched thunderbird or thunderbirds on a spear rest and an ivory pipestem.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Man-worm image
+  literal_form: Etched man-worm on an ivory pipestem.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Whale-catching image
+  literal_form: Spear rest etched with thunderbirds catching whales.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Tattooing forms
+  literal_form: Tattooing on women or girls, tattooing on a woman's arm, and circular
+    forms of tattooing.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Totem and grave-box color markings
+  literal_form: A scheme of color on grave boxes and totem markings, listed with masks
+    and mask-like objects.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Thunderbirds catching whales on spear rest
+  summary: A spear rest is described as bearing figures of thunderbirds catching whales.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:2
+  label: Man-worm and thunderbird on ivory pipestem
+  summary: An ivory pipestem is described as bearing etched figures of the man-worm
+    and the thunderbird.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Mythologic beings etched on utilitarian objects
+  taxonomy_refs: []
+  basis: Plate CVII explicitly identifies a spear rest and an ivory pipestem as objects
+    etched with mythologic figures.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The caption gives object labels and figure names but does not explain
+    ritual use, story context, or meaning.
+- id: motif:2
+  label: Thunderbirds catching whales
+  taxonomy_refs: []
+  basis: The spear-rest caption states that thunderbirds are catching whales.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage provides only a visual caption, not a myth narrative or explanation
+    of the scene.
+- id: motif:3
+  label: Man-worm and thunderbird pairing
+  taxonomy_refs: []
+  basis: The ivory pipestem caption names etched figures of the man-worm and the thunderbird
+    together.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The relationship between the man-worm and thunderbird is not described
+    beyond their appearance on the same object.
+- id: motif:4
+  label: Mask and marking complex
+  taxonomy_refs: []
+  basis: The illustration list repeatedly identifies masks, finger masks, maskoids,
+    and color schemes on masks, grave boxes, and totem markings.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: low
+  cautions: The passage lists object captions only and does not state the symbolic,
+    ritual, or mythic function of the masks or markings.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1211-1237; Plates LXXVIII-LXXX
+  quote_or_summary: Plate captions list a model umiak frame with umiak and kaiak rigging
+    appurtenances, kaiaks from Nunivak Island, St Michael, King Island, Cape Espenberg,
+    and Cape Krusenstern, plus paddles and boat hooks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1238-1250; Plates LXXXI-LXXXV
+  quote_or_summary: Plate captions identify storehouses at Ikogmut, a winter view
+    of Kazbinsky, Eskimo dwellings at Plover Bay and a Noatak summer lodge, women
+    of Plover Bay in Siberia, and a summer camp at Cape Lisburne.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1251-1284; Plates LXXXVI-XC
+  quote_or_summary: Plate captions list tobacco and snuff boxes, snuff-making implements,
+    ash boxes, tobacco bags, pipes, a pipe mold, ivory pipestems, and snuff tubes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1285-1324; Plates XCI-CVI
+  quote_or_summary: Plate captions identify a graveyard at Kazbinsky, Eskimo plate
+    armor, dolls, snow knives, multiple masks, finger masks, maskoids, and a belt
+    and armlet.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1325-1330; Plate CVII
+  quote_or_summary: 'Plate CVII describes objects etched with mythologic figures:
+    a spear rest with thunderbirds catching whales and an ivory pipestem with etched
+    figures of the man-worm and the thunderbird.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from public domain caption.
+- id: ev:6
+  type: summary
+  locator: lines 1331-1334; Figure 1
+  quote_or_summary: Figure 1 is a scheme of color on masks and mask-like objects,
+    grave boxes, and totem markings.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1344-1356; Figures 9-15
+  quote_or_summary: Figure captions identify a King Island man with labrets, Kotzebue
+    Sound Malemut men and women, tattooing on women from several places, tattooing
+    on a St Lawrence Island girl and woman, tattooing on a woman's arm, and circular
+    tattooing forms.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1357-1395; Figures 16-33
+  quote_or_summary: Figure captions list hair combs, an ivory belt fastener, a lamp
+    and lamp carving, marrow spoon, snow beaters, snow shovels, mallets, wood chisels,
+    knife sharpeners, flint flakers, trinket boxes, boot-sole creaser, sinew twisters
+    and spinner, stretched sealskin, and method of folding sealskin.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mostly an illustration index, so literal extraction is straightforward.
+    Motif candidates are limited to captions that explicitly mention mythologic figures
+    or repeated symbolic object classes. No comparison claims are supported by the
+    passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or symbol refs were assigned because the available taxonomy does not include thunderbirds, masks, tattooing, whales, worms, or etched object imagery, and the passage does not provide evidence for shapeshifting or other listed motif families.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l1211-l1395
+  passage_sha256=8e2a22469ad73b09dc8edc6cc6fa88cca303b639a50a2364cb38d82f5a387581
+

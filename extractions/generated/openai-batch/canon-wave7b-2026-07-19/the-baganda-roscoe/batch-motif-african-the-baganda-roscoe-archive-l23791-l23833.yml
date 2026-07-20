@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l23791-l23833
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: XVII  FOLKLORE  479 / XVII  FOLKLORE  481 / XVII  FOLKLORE  483 / I    I    2;
+    lines 23791-23833
+  start: '23791'
+  end: '23833'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A king gives Walukaga, chief of his smiths, iron and commands him to make
+    a living man who can walk, talk, and has blood and brains. Walukaga seeks advice
+    without success. He meets a former friend who is now mad and tells him the problem.
+    The madman advises Walukaga to tell the king to make the people shave their heads
+    and burn the hair into a thousand loads of charcoal, and to gather one hundred
+    pots of water from the people's tears to slake the forging fire. Walukaga returns
+    to the king and begins repeating this demand.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A king summons Walukaga, the chief of his smiths, and gives him a great quantity
+    of iron.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king commands Walukaga to make a real man who can walk, talk, has blood
+    in his body, and has brains.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Walukaga does not know how to carry out the command and asks friends for advice,
+    but none can advise him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Walukaga meets a former friend who has gone mad and lives alone on waste land.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Walukaga tells the madman about the king's command and the iron he has received.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The madman advises Walukaga to ask the king to order all the people to shave
+    their heads and burn the hair into a thousand loads of charcoal.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The madman also advises asking for one hundred large pots of water from the
+    people's tears to slake the fire and keep it from burning too fiercely.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Walukaga returns to the king and repeats the request for shaved hair to be
+    burned into charcoal for working the iron into the man.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: King
+  description: The ruler who commands that a real man be made from iron.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Walukaga
+  description: Chief of the king's smiths, given iron and ordered to make a real man.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Madman / former friend
+  description: A former friend of Walukaga who has gone mad, lives alone on waste
+    land, and gives advice about the king's demand.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: The people
+  description: The group whom the madman says the king should order to shave their
+    heads and whose tears should provide water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: commanding ruler
+  assigned_to:
+  - fig:1
+  basis: The king gives iron to his smith and states what he wants made.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tasked smith
+  assigned_to:
+  - fig:2
+  basis: Walukaga is identified as chief of the smiths and receives the task of making
+    the man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: unexpected adviser
+  assigned_to:
+  - fig:3
+  basis: Although described as mad, the former friend supplies the only advice reported
+    in the passage.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: collective source of required materials
+  assigned_to:
+  - fig:4
+  basis: The advice names the people as providers of hair for charcoal and tears for
+    water.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: iron
+  literal_form: A great quantity of iron given by the king for making the man.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: living forged man
+  literal_form: A real man who can walk, talk, has blood, and has brains, to be made
+    by smith-work.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hair
+  literal_form: Hair shaved from all the people, to be burned.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: charcoal
+  literal_form: A thousand loads of charcoal made from burned hair.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: water from tears
+  literal_form: One hundred large pots of water from the tears of the people.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: fire
+  literal_form: The forging fire to be slaked and kept from burning too fiercely.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: waste land
+  literal_form: The place where the mad former friend lives alone.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: King assigns impossible smithing task
+  summary: The king gives Walukaga iron and orders him to make a real living man with
+    speech, movement, blood, and brains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Walukaga seeks advice
+  summary: Walukaga is unable to determine how to make the man and asks his friends,
+    but no one can help him.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Meeting with the mad former friend
+  summary: Walukaga meets a former friend who has gone mad and lives alone on waste
+    land, then tells him the king's command.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Advice requiring hair charcoal and tear water
+  summary: 'The madman advises Walukaga to ask the king for impossible or extraordinary
+    materials: a thousand loads of charcoal from the people''s hair and one hundred
+    pots of water from their tears for the forging fire.'
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Walukaga reports the condition to the king
+  summary: Walukaga returns and tells the king to order the people's hair shaved and
+    burned into charcoal for working the iron into the man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Impossible command to create a living human
+  taxonomy_refs: []
+  basis: The king orders a smith to make a real man from iron, specifying movement,
+    speech, blood, and brains.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage excerpt ends before the outcome of the command is given.
+- id: motif:2
+  label: Unexpected wisdom from a mad or marginal figure
+  taxonomy_refs:
+  - wisdom
+  basis: After ordinary friends fail to advise Walukaga, the former friend described
+    as mad gives the operative advice.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the advice but does not yet show whether it succeeds
+    or how it is judged.
+- id: motif:3
+  label: Counter-demand using impossible materials
+  taxonomy_refs: []
+  basis: The advice tells Walukaga to require large quantities of charcoal from shaved
+    hair and water from tears before forging the man.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy list supplied has no exact reference for impossible-task
+    counter-demands.
+- id: motif:4
+  label: Forging associated with fire and water
+  taxonomy_refs: []
+  basis: The proposed making of the man requires iron-work, fire, charcoal, and water
+    to slake the fire.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: This is a literal craft sequence in the passage; symbolic interpretation
+    beyond that is not established by the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23791-23800
+  quote_or_summary: A king calls Walukaga, chief of his smiths, gives him much iron,
+    and commands him to make a real man who can walk, talk, has blood, and has brains.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 23800-23808
+  quote_or_summary: Walukaga takes the iron home but cannot determine what to do;
+    his friends also cannot advise him, and the king is expected to punish failure.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 23808-23815
+  quote_or_summary: Walukaga meets a former friend who has gone mad and lives alone
+    on waste land; they greet each other.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 23815-23824
+  quote_or_summary: Walukaga decides to tell the madman his story and explains the
+    king's command, the work required, and the iron given to him.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 23824-23832
+  quote_or_summary: The madman advises Walukaga to tell the king to order all the
+    people to shave their heads, burn the hair into a thousand loads of charcoal,
+    and collect one hundred large pots of water from the people's tears to slake the
+    fire.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 23832-23833
+  quote_or_summary: Walukaga returns to the king and begins repeating the demand for
+    shaved hair to be burned into charcoal for working the iron into the man; the
+    excerpt cuts off mid-sentence.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied excerpt, which ends mid-sentence.
+    Motif labels are descriptive and cautious; no comparison claims were made because
+    the passage itself contains no explicit comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only provided passage text and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l23791-l23833
+  passage_sha256=1c50b20755c8b526db7bbaced21ec39344b3dbc4405a4c8eee2a866c836e53ec
+

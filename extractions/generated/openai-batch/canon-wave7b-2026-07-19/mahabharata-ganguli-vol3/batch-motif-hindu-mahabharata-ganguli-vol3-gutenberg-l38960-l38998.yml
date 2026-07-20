@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l38960-l38998
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CXLI / SECTION CXLII / SECTION CXLIII / SECTION CXLIV; lines 38960-38998
+  start: '38960'
+  end: '38998'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: One's house is not one's home; one's wife only is one's home.
+  summary: Bhishma narrates that a pigeon living in a tree with his family laments
+    when his wife, who went out seeking food, has not returned by night after a storm.
+    In his lament he praises his wife’s devotion and states that a wife makes a home,
+    serves as companion, refuge, ally, and support in religious and worldly life.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Bhishma addresses a king and begins a story about a beautiful-feathered pigeon
+    living in a branch of a tree with his family.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The pigeon’s wife went out that morning in search of food and had not returned
+    by night.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The pigeon laments the storm and painful shower and worries about whether
+    his wife is safe in the forest.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The pigeon says his home appears empty without his spouse and states that
+    a house without a wife is desolate like wilderness.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The wife is described by the pigeon as red-fringed-eyed, variegated-plumed,
+    sweet-voiced, vow-observing, devoted, sweet-tempered, and attentive to his condition.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The pigeon states that a spouse is a companion in virtue, profit, pleasure,
+    travel, life concerns, sickness, woe, and acts for religious merit.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: The pigeon concludes that a man without a chaste, agreeable wife has no meaningful
+    difference between home and wilderness.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bhishma
+  description: Narrator who tells the king about the pigeon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: king
+  description: Royal addressee of Bhishma’s narration.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: male pigeon
+  description: A beautiful-feathered pigeon living in a tree branch with his family;
+    he laments the absence of his wife.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: pigeon wife
+  description: The pigeon’s wife, absent after going out to seek food; praised by
+    her husband as devoted, sweet-tempered, and companionate.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: pigeon family
+  description: The family with whom the pigeon has lived for many years in a branch
+    of the tree.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: framing narrator
+  assigned_to:
+  - fig:1
+  basis: The passage opens with Bhishma speaking and narrating the story.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal addressee
+  assigned_to:
+  - fig:2
+  basis: Bhishma addresses the listener as king.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: lamenting householder husband
+  assigned_to:
+  - fig:3
+  basis: The pigeon waits for his wife at night and laments her absence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: absent wife
+  assigned_to:
+  - fig:4
+  basis: She has gone out in search of food and has not returned by night.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: trusted spouse and household companion
+  assigned_to:
+  - fig:4
+  basis: The pigeon’s speech presents the wife as home, associate, medicine, friend,
+    refuge, and ally.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:6
+  label: household family
+  assigned_to:
+  - fig:5
+  basis: The pigeon is said to have lived in the tree branch with his family for many
+    years.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: tree dwelling
+  literal_form: branch of a tree / foot of a tree
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: storm and shower
+  literal_form: storm and painful shower
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: home contrasted with wilderness
+  literal_form: house, home, palace, wilderness, woods
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Pigeon household in the tree
+  summary: Bhishma introduces a pigeon living with his family in a branch of a tree;
+    the wife has gone out for food and has not returned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Night lament after storm
+  summary: At night the pigeon laments the storm and shower and worries about his
+    absent wife in the forest.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Praise of the wife as home and refuge
+  summary: The pigeon describes his wife’s virtues and speaks in maxims about the
+    wife as home, companion, medicine, friend, refuge, and ally.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: lament for an absent spouse
+  taxonomy_refs: []
+  basis: The male pigeon laments when his wife does not return by night after going
+    out for food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state the cause of the wife’s absence within this
+    excerpt.
+- id: motif:2
+  label: spouse as the true home
+  taxonomy_refs: []
+  basis: The speech repeatedly states that a wife makes a home, while even a palace
+    without a spouse is wilderness.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is expressed as a moral maxim within the pigeon’s lament, not as
+    an event sequence.
+- id: motif:3
+  label: ideal devoted wife as companion and refuge
+  taxonomy_refs: []
+  basis: The wife is praised for devotion and is described as companion, medicine,
+    friend, refuge, and ally in household and religious life.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents the ideal through the husband’s speech; it does not
+    include the wife’s own speech in this excerpt.
+- id: motif:4
+  label: speaking animal as moral speaker
+  taxonomy_refs: []
+  basis: A pigeon speaks at length in human moral and domestic maxims within Bhishma’s
+    narration.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt includes animal speech but does not explicitly label the narrative
+    as a fable.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 38962-38965
+  quote_or_summary: Bhishma says that in a branch of a tree a beautiful-feathered
+    pigeon lived with his family, and that his wife had gone out in search of food
+    but had not returned.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg/Ganguli translation; summarized for
+    extraction.
+- id: ev:2
+  type: quote
+  locator: lines 38965-38969
+  quote_or_summary: 'At night, the bird laments: “great has been the storm and painful
+    the shower,” and asks why his dear wife has not come back.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg/Ganguli translation; short excerpt
+    used for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 38970-38976
+  quote_or_summary: 'The pigeon says his home appears empty without her and states:
+    “One''s house is not one''s home; one''s wife only is one''s home.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg/Ganguli translation; short excerpt
+    used for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 38977-38984
+  quote_or_summary: The pigeon says his wife does not eat, bathe, sit, or lie down
+    before him; she rejoices and sorrows with him, speaks sweetly when he is angry,
+    and acts for his benefit.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg/Ganguli translation; summarized for
+    extraction.
+- id: ev:5
+  type: summary
+  locator: lines 38985-38993
+  quote_or_summary: The pigeon says even the foot of a tree is home with one’s spouse,
+    while a palace without one’s spouse is wilderness; he calls the wife an associate
+    in virtue, profit, pleasure, travel, and life concerns.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg/Ganguli translation; summarized for
+    extraction.
+- id: ev:6
+  type: quote
+  locator: lines 38994-38998
+  quote_or_summary: The wife is called medicine in sickness and woe, friend, refuge,
+    and ally in religious merit; without a chaste agreeable wife, there is no difference
+    between home and wilderness.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg/Ganguli translation; summarized with
+    brief phrase references from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied excerpt. Motif labels are descriptive
+    and not mapped to most available taxonomy families because the excerpt is primarily
+    a domestic moral lament. No comparison claims were generated because the passage
+    itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage text and metadata; available symbol taxonomy applied only to literal tree and rain/shower imagery.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l38960-l38998
+  passage_sha256=0238537004c9ec92c3a660053c925008b68581904ab2329254b8837b480d46c5
+

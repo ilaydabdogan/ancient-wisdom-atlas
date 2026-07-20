@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l2928-l3003
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: COEPUS HEEMETICUM (II.) / THE GENERAL SERMON / CORPUS HERMETICUM II. (III.)
+    / TO ASCLEPIUS; lines 2928-3003
+  start: '2928'
+  end: '3003'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“Space, then, is bodiless. But bodiless must either be some godlike thing
+    or God [Himself].”"
+  summary: Hermes questions Asclepius about motion, arguing that what is moved must
+    be moved in something and by something, that the container must exceed the moved,
+    and that the mover has greater power. He applies this reasoning to the cosmos,
+    described as a vast body that is moved. The space in which the cosmos moves must
+    be still vaster and, as the contrary of body, bodiless. Hermes concludes that
+    the bodiless is godlike or God, clarifying that by godlike he means the ingenerable
+    rather than the generable.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Hermes asks whether everything moved is moved in something and by something;
+    Asclepius answers affirmatively.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hermes and Asclepius agree that the thing in which something is moved must
+    be greater than the moved, that the mover has greater power than the moved, and
+    that the nature of the containing medium differs from the moved thing.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hermes describes the cosmos as vast, as a body, and as filled with many other
+    bodies; Asclepius agrees.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The cosmos is identified as a body that is moved.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hermes reasons that the space in which the cosmos is moved must be far vaster
+    than the cosmos so that the cosmos has room for its continued motion.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Hermes and Asclepius identify space as contrary to body and therefore bodiless.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Hermes says the bodiless must be either a godlike thing or God, and explains
+    that by godlike he means ingenerable rather than generable.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hermes
+  description: Speaker who questions and instructs Asclepius about motion, the cosmos,
+    space, and the bodiless.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Asclepius
+  description: Interlocutor addressed by Hermes who repeatedly assents to Hermes’
+    questions and conclusions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: cosmos
+  description: A vast body, filled with other bodies, and described as moved.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: space
+  description: The vastly greater medium in which the cosmos moves; identified as
+    bodiless.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: questioning instructor
+  assigned_to:
+  - fig:1
+  basis: Hermes leads the argument through questions and states the concluding claim
+    about bodiless space.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:2
+  label: assenting respondent
+  assigned_to:
+  - fig:2
+  basis: Asclepius responds affirmatively to Hermes’ sequence of questions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: moved cosmic body
+  assigned_to:
+  - fig:3
+  basis: The cosmos is called a body and one that is moved.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: bodiless containing space
+  assigned_to:
+  - fig:4
+  basis: The space for cosmic motion is said to be far vaster than the cosmos and
+    contrary to body, hence bodiless.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: vast moving cosmos
+  literal_form: cosmos as a vast body moved in space
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: bodiless space
+  literal_form: space as an immense, non-bodily medium for cosmic motion
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: body and bodiless contrast
+  literal_form: body contrasted with bodiless space
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Questioning on motion
+  summary: Hermes asks Asclepius about whether moved things are moved in something
+    and by something, and about the relations between moved, mover, and container.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Application to the cosmos
+  summary: Hermes applies the argument to the cosmos, describing it as a vast body
+    that is moved and requiring an even vaster space for its motion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Conclusion on bodiless space
+  summary: Hermes concludes that space is bodiless, and that the bodiless must be
+    godlike or God, with godlike glossed as ingenerable.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Wisdom instruction through question and answer
+  taxonomy_refs:
+  - wisdom
+  basis: Hermes instructs Asclepius by a sequence of questions and assenting replies
+    that lead to a cosmological conclusion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: This is philosophical discourse rather than a narrative myth episode.
+- id: motif:2
+  label: Cosmos moved within a transcendent bodiless expanse
+  taxonomy_refs: []
+  basis: The cosmos is presented as a moving body that requires a vaster, bodiless
+    space in which to move.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a metaphysical argument; it does not narrate a journey
+    or creation event.
+- id: motif:3
+  label: Body and bodiless opposition
+  taxonomy_refs:
+  - duality
+  basis: Hermes explicitly treats body and bodiless as contraries and uses this opposition
+    to define space.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The duality is conceptual and ontological, not personified as opposing
+    beings.
+comparison_claims:
+- id: claim:1
+  claim: The passage functions as a wisdom-instruction pattern, with Hermes guiding
+    Asclepius to a cosmological conclusion through structured questioning.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional only; the passage is a philosophical dialogue,
+    not a mythic tale with plot action.
+- id: claim:2
+  claim: The explicit opposition between body and bodiless supports a cautious comparison
+    to a duality pattern at the level of metaphysical categories.
+  claim_level: same_function
+  target: duality motif family
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The opposition is abstract and does not involve a conflict between
+    mythic characters or forces.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2928-2940; §1
+  quote_or_summary: Hermes asks whether all that is moved is moved “in something and
+    by something”; Asclepius replies, “Assuredly.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 2941-2960; §1
+  quote_or_summary: Hermes asks, and Asclepius agrees, that the containing medium
+    is greater than the moved, the mover more powerful than the moved, and the nature
+    of the containing medium other than the moved.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 2961-2977; §2
+  quote_or_summary: Hermes describes the cosmos as so vast that no greater body exists
+    and as filled with many other bodies; Asclepius agrees that it is a body.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: lines 2978-2984; §§2-3
+  quote_or_summary: Hermes asks whether the cosmos is “one that’s moved”; Asclepius
+    replies, “Assuredly.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 2985-2997; §3
+  quote_or_summary: Hermes reasons that the space in which the cosmos moves must be
+    far vaster than the cosmos, so that the moved cosmos is not cramped and does not
+    lose its motion.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: quote
+  locator: lines 2998-3003; §4
+  quote_or_summary: 'Hermes asks whether the nature of space must be contrary to body,
+    adding: “And is not contrary to body bodiless?” Asclepius agrees.'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: quote
+  locator: lines 3003-3003 and following note in provided passage; §4
+  quote_or_summary: "“Space, then, is bodiless. But bodiless must either be some godlike
+    thing or God [Himself].” Hermes adds that by “some godlike thing” he means “the
+    ingenerable.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal dialogue and cosmological argument are clear. Motif assignments
+    are cautious because the passage is metaphysical instruction rather than narrative
+    mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references are limited to supplied motif families; supplied symbol taxonomy did not include cosmos, space, or body/bodiless, so symbol taxonomy references are empty.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l2928-l3003
+  passage_sha256=c7cf798806d7f975be00b839bb2e6a2a7e8bd9d816c4e3847eaf985ed5b37649
+

@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l4450-l4484
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER I. 1-9 3 / CHAPTER II. 10-17 5 / CHAPTER I. 18-26 7 / CHAPTER I.
+    27-29 9; lines 4450-4484
+  start: '4450'
+  end: '4484'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is a commentarial note describing a schema of renewal in Jubilees:
+    creation, renewal associated with Jacob, and final renewal when the sanctuary
+    and Messianic Kingdom are established. It also discusses a corrupt reading about
+    renewal after the Deluge, identifies the sanctuary as the Lord’s sanctuary in
+    Jerusalem, cites a healing-renewal parallel to Revelation 22:2, and mentions the
+    Angel of the presence.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that final renewal begins when God’s sanctuary and the Messianic
+    Kingdom are established among men.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The final renewal is described with renewed heavens, renewed earth, and renewed
+    luminaries.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage reports that the present text of v. 11-12 appears to teach renewal
+    of creation after the Deluge, but the note calls the text corrupt.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that in its original form the text would refer to world
+    renewal at the setting up of the Messianic Kingdom.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The passage identifies three great eras: creation of the world, renewal on
+    the creation of Jacob as the true man, and final renewal on the establishment
+    of the sanctuary.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The sanctuary is identified as the Sanctuary of the Lord in Jerusalem and
+    as the sanctuary in the Messianic Kingdom.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note glosses “Renewed for healing” by comparing it with Revelation 22:2,
+    “for the healing of the nations.”
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage includes a note heading for “Angel of the presence.”
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God / the Lord
+  description: Named in relation to God’s sanctuary and the Sanctuary of the Lord.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Jacob
+  description: Called the “true man” in the passage’s account of a renewal era.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Angel of the presence
+  description: Mentioned as the subject of a note heading.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine figure associated with the sanctuary
+  assigned_to:
+  - fig:1
+  basis: The passage refers to “God’s sanctuary” and the “Sanctuary of the Lord.”
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: true man associated with renewal
+  assigned_to:
+  - fig:2
+  basis: The passage describes an era of renewal “on the creation of the true man,
+    Jacob.”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: angelic figure mentioned in note
+  assigned_to:
+  - fig:3
+  basis: The passage gives the note heading “Angel of the presence.”
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sanctuary / temple
+  literal_form: God’s sanctuary; the Sanctuary of the Lord in Jerusalem; the sanctuary
+    in the Messianic Kingdom
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: renewed cosmos
+  literal_form: renewed heavens, renewed earth, renewed luminaries
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Deluge
+  literal_form: the Deluge connected with a disputed reading about renewal of creation
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: true man
+  literal_form: Jacob as the true man
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Final renewal with sanctuary and Messianic Kingdom
+  summary: The passage describes final renewal beginning when God’s sanctuary and
+    the Messianic Kingdom are established, with heavens, earth, and luminaries renewed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Three eras of creation and renewal
+  summary: 'The passage summarizes three eras: creation of the world, renewal associated
+    with Jacob, and final renewal associated with the establishment of the sanctuary.'
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Disputed Deluge renewal reading
+  summary: The passage notes that the present text suggests renewal after the Deluge,
+    but the commentator regards the text as corrupt and redirects the original sense
+    to Messianic world renewal.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: cosmic renewal at the establishment of a messianic sanctuary
+  taxonomy_refs: []
+  basis: Final renewal is tied to the establishment of God’s sanctuary and the Messianic
+    Kingdom, and includes renewal of heavens, earth, and luminaries.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage is commentarial rather than a continuous narrative episode.
+- id: motif:2
+  label: three-era creation and renewal schema
+  taxonomy_refs: []
+  basis: 'The passage explicitly lists three eras: creation, renewal with Jacob as
+    true man, and final renewal with the sanctuary.'
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this schema.
+- id: motif:3
+  label: flood and renewal as a disputed textual motif
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The present text is said to teach renewal of creation after the Deluge, but
+    the note says the text is corrupt.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage itself rejects or qualifies the Deluge-renewal reading as
+    corrupt, so this should not be treated as an unqualified motif in the original
+    text.
+- id: motif:4
+  label: renewal for healing
+  taxonomy_refs: []
+  basis: The passage gives the gloss “Renewed for healing” and compares it with the
+    phrase “for the healing of the nations.”
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt provides only a brief note and a cross-reference, not a full
+    narrative context.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns the phrase “Renewed for healing” with Revelation
+    22:2, “for the healing of the nations,” supporting a cautious phrase-level or
+    function-level comparison.
+  claim_level: linguistic_similarity
+  target: Revelation xxii. 2 healing phrase
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is only a brief cited note; the passage supplies no
+    extended argument or shared narrative context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4450-4458
+  quote_or_summary: Final renewal begins when God’s sanctuary and the Messianic Kingdom
+    are established; the heavens, earth, and luminaries are renewed.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4458-4465
+  quote_or_summary: The present text of v. 11-12 is said to teach renewal after the
+    Deluge, but the note calls it corrupt and says the original should refer to Messianic
+    world renewal.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4465-4472
+  quote_or_summary: 'The note lists three eras: creation of the world, renewal with
+    Jacob as true man, and final renewal with the establishment of the sanctuary;
+    it also mentions symbolic values of man and temple.'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4476-4479
+  quote_or_summary: The Sanctuary of the Lord is identified as being made in Jerusalem
+    and as the sanctuary in the Messianic Kingdom.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 4481-4482
+  quote_or_summary: "“Renewed for healing. Cf. Rev. xxii. 2 ‘for the healing of the
+    nations.’”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quoted evidence.
+- id: ev:6
+  type: quote
+  locator: lines 4484-4484
+  quote_or_summary: "“Angel of the presence.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quoted evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a fragmentary commentarial note rather than a complete narrative.
+    Several motifs are clear at the conceptual level, but the Deluge-renewal item
+    is explicitly marked as a corrupt reading and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to explicitly supported available refs.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l4450-l4484
+  passage_sha256=656d2c2290b6f4167e4342132ae9eda1f5c64c2b936f4b03c442f65cadcc41de
+

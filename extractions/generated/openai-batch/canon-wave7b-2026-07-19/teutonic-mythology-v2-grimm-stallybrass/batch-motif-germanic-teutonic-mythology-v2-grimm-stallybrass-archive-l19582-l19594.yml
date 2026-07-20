@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l19582-l19594
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: RIDES   A   HORSE.  845 / HIS   WEAPONS.      HIS   AEMY.  847 / HIS   DANCE.      A    SKELETON.  849
+    / SIR  BLICERO.      FRIEND   HEIN.  851; lines 19582-19594
+  start: '19582'
+  end: '19594'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Death has Mown the man's candle out
+  summary: The passage reports an image in H. Sachs in which Death arrives and jerks
+    a stool from under a man, taking away his place among the living. It then states
+    that the same idea is more commonly expressed as Death putting out the man's candle,
+    and relates this to lights going out and to Berhta blowing out the lights of the
+    eyes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: H. Sachs is cited as saying that, at Death's arrival, Death twitches or jerks
+    the stool from under a man and tips it over so that the man falls to the ground.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Death takes from the man his seat and his standing among
+    the living.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the same thing is more commonly expressed by the phrase that
+    Death has put out the man's candle; the source text prints the verb as “Mown.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage parenthetically compares this candle image with Berhta blowing
+    out the lights of the eyes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The author states that the notions of light, life, and sojourn among the living
+    run into one another.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A footnote gives examples in which a person's or group’s light goes out, including
+    one line about many Saracens and another about a man being struck so that his
+    light had to go out.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Death
+  description: Personified Death who arrives, removes the man's stool or seat, and
+    is named in the candle-extinguishing expression.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed man
+  description: The man from under whom the stool is removed and whose seat, standing
+    among the living, and candle are taken or put out.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Berhta
+  description: A referenced figure who is said to have blown out the lights of the
+    eyes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: personified death-bringer
+  assigned_to:
+  - fig:1
+  basis: Death arrives, removes the man's support and place among the living, and
+    is named in the expression about extinguishing the man's candle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: mortal deprived of place among the living
+  assigned_to:
+  - fig:2
+  basis: The unnamed man falls when the stool is jerked away and is described as losing
+    his seat and standing among the living.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: parallel light-extinguisher
+  assigned_to:
+  - fig:3
+  basis: Berhta is cited as having blown out the lights of the eyes in a parenthetical
+    comparison.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: stool or seat
+  literal_form: stool, seat, and standing among the living
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: man's candle
+  literal_form: the man's candle put out by Death
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: lights of the eyes
+  literal_form: lights of the eyes blown out by Berhta
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: light as linked with life
+  literal_form: light, life, and sojourn among the living
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Death removes the man's support
+  summary: In the reported image from H. Sachs, Death arrives, jerks a stool from
+    under a man, tips it over, and the man falls; the author describes this as Death
+    taking the man's seat and standing among the living.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death extinguishes the man's candle
+  summary: The passage states that the same idea is more commonly expressed as Death
+    putting out the man's candle, and it links this expression with light, life, and
+    remaining among the living.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Berhta and the lights of the eyes
+  summary: The passage briefly compares Death's extinguishing of the man's candle
+    to Berhta blowing out the lights of the eyes.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Death removes the living person's seat
+  taxonomy_refs: []
+  basis: Death's arrival is represented as jerking away a stool, tipping it over,
+    and taking from the man his seat and standing among the living.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an antiquarian interpretation of a cited image and notes
+    a suspected fuller story that is not given here.
+- id: motif:2
+  label: Life as a candle or light extinguished by Death
+  taxonomy_refs: []
+  basis: The passage says the same idea is commonly expressed as Death putting out
+    the man's candle and states that light, life, and sojourn among the living run
+    into one another.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The source text’s printed verb appears as “Mown”; the surrounding comparison
+    to blowing out indicates the intended action but should be checked against the
+    edition.
+- id: motif:3
+  label: Extinguishing the lights of the eyes
+  taxonomy_refs: []
+  basis: Berhta is cited as having blown out the lights of the eyes, in a parenthetical
+    comparison with Death putting out the man's candle.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The Berhta reference is only a cross-reference in this passage, not a
+    full narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself treats Death putting out a man's candle and Berhta blowing
+    out the lights of the eyes as related expressions within a light-and-life complex.
+  claim_level: same_function
+  target: Berhta blowing out the lights of the eyes
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Berhta material is only mentioned parenthetically; the passage
+    does not provide the full context of that comparison.
+- id: claim:2
+  claim: The footnoted examples from Wh. and Lohengrin show a similar linguistic pattern
+    in which death or killing is expressed as a person's light going out.
+  claim_level: linguistic_similarity
+  target: Wh. 416,14 and Lohengr. 133 formulas of light going out
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The footnotes provide brief lexical parallels rather than extended
+    narrative motifs.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19582-19585
+  quote_or_summary: 'H. Sachs is cited: Death arrives, jerks the stool from under
+    a man, tips it over, and takes his seat and standing among the living.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 19586-19588
+  quote_or_summary: "“Death has Mown the man's candle out”; compared with Berhta blowing
+    out “the lights of the eyes.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 19588-19589
+  quote_or_summary: "“the notions of light, life and sojourn among the living, run
+    into one another.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 19591-19594
+  quote_or_summary: Footnote examples cite a light going out for many Saracens and
+    a man being struck so that his light had to go out.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main images are explicit in the passage. Motif labeling is cautious because
+    Grimm’s text is interpretive and refers to fuller material not included in the
+    excerpt. OCR or edition spelling of “Mown” should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available motif-family taxonomy reference was assigned because the passage concerns death imagery without a supported rebirth, journey, judgment, or other listed motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l19582-l19594
+  passage_sha256=0270ddd2720a70891d6be840ab1ff6b2c3d426cae34a4ad98165f497fd69c4eb
+

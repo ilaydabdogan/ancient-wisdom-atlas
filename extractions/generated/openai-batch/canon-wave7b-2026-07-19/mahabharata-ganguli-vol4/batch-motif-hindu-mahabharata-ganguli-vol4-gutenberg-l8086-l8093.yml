@@ -1,0 +1,148 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l8086-l8093
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION XLV / SECTION XLVI / SECTION XLVII / SECTION XLVIII; lines 8086-8093
+  start: '8086'
+  end: '8093'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"What, O grandsire, are the duties of persons that are born in the mixed
+    classes..."'
+  summary: Yudhishthira asks his grandsire to explain the duties and prescribed acts
+    of people born in mixed classes, after describing intermixture among orders as
+    arising from wealth, lust, ignorance, or folly.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira is the named speaker in the passage.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says intermixture among several orders happens through inducements
+    of wealth, lust, ignorance of the true order of birth, or folly.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker asks what duties and acts are laid down for persons born in mixed
+    classes.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker addresses the listener as grandsire and asks him to discourse
+    on the topic.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who asks about duties and prescribed acts for persons
+    born in mixed classes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: grandsire
+  description: Addressee of Yudhishthira's question, asked to discourse on the duties
+    of persons born in mixed classes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioner seeking instruction
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira poses a question and asks for discourse on duties and acts.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: addressed elder requested to instruct
+  assigned_to:
+  - fig:2
+  basis: The addressee is called grandsire and is asked to discourse to the speaker.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Question about duties of mixed classes
+  summary: Yudhishthira states possible causes of intermixture among social orders
+    and asks his grandsire to explain the duties and acts prescribed for people born
+    in mixed classes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: seeker asks elder for normative wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: A named questioner asks an elder figure to discourse on duties and prescribed
+    acts.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is primarily a legal-ethical question; the wisdom motif is
+    inferred from the request for instruction rather than from a completed teaching
+    in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8086-8087
+  quote_or_summary: '"Yudhishthira said,"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8087-8091
+  quote_or_summary: Yudhishthira says intermixture among the several orders happens
+    through wealth inducements, lust, ignorance of the true order of birth, or folly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 8091-8093
+  quote_or_summary: '"What, O grandsire, are the duties of persons that are born in
+    the mixed classes and what are the acts laid down for them? Do thou discourse
+    to me on this!"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Figures, speech act, and topic are explicit. Motif assignment is cautious
+    because the excerpt contains the question, not the ensuing discourse. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied taxonomy are explicitly present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l8086-l8093
+  passage_sha256=394c66d7c0d7d18b03f59667d3aa138ae1408d59038ee6eb553f17ef31daf708
+

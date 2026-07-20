@@ -1,0 +1,528 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l101663-l101747
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 2. / KEITH S / ARANYAKA IV / ARANYAKA V; lines 101663-101747
+  start: '101663'
+  end: '101747'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Standing there he worships the sun
+  summary: 'The passage contains ritual commentary and instructions: a performer stands
+    and worships the sun while keeping his right side toward it, recites verses with
+    certain cries omitted, and instructs maidservants carrying full pitchers to circumambulate
+    an altar and a pitcher of water while speaking a refrain. Notes discuss textual
+    variants, parallel Vedic rites, a rain-and-vegetation interpretation of the dance,
+    and a variant rite involving a round skin representing the sun.'
+  language: English with Sanskrit transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A textual note says three words in a stanza are not in accordance with the
+    Rigveda text.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:2
+  text: An unnamed standing performer worships the sun.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:3
+  text: The performer turns so as to keep his right side toward the sun as it turns.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:4
+  text: The ritual uses verses while omitting cries of svaha as represented in the
+    passage's OCR.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:5
+  text: A spoken refrain invites someone to come hither, calls the draught sweet,
+    and commands drinking a bitter draught.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: Maidservants carry full pitchers, arranged six in front and three behind.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:7
+  text: The maidservants are instructed to walk three times from left to right around
+    an altar and a pitcher of water.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: The maidservants are instructed to perform a right-hand/right-thigh gesture
+    while saying the refrain.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:9
+  text: A note characterizes the dance as a rain and vegetation spell.
+  category: other
+  evidence_refs:
+  - ev:11
+- id: obs:10
+  text: A note states that related words or ceremonies occur in Sankhayana Aranyaka
+    and other parallel ritual passages, while also saying that the versions differ
+    in many details.
+  category: relationship
+  evidence_refs:
+  - ev:12
+  - ev:13
+- id: obs:11
+  text: A note says some other versions include a struggle of an Arya and a Sadia
+    for a round skin that represents the sun.
+  category: action
+  evidence_refs:
+  - ev:14
+- id: obs:12
+  text: A note mentions eight libations in the agnidhriya fire and subsequent adoration
+    of the members of the fire and of the sun in a parallel account.
+  category: sequence
+  evidence_refs:
+  - ev:15
+figures:
+- id: fig:1
+  name_or_label: unnamed ritual performer
+  description: The standing person who worships the sun, turns toward it with the
+    right side, recites verses, and instructs the maidservants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: sun
+  description: The celestial body worshipped by the performer and used as a represented
+    object in a noted parallel variant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:14
+- id: fig:3
+  name_or_label: maidservants
+  description: Ritual attendants who carry full pitchers and are instructed to circumambulate
+    the altar and water pitcher while performing a gesture and speaking the refrain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Arya and Sadia contestants in other versions
+  description: A pair named in a note as struggling for a round skin in other versions
+    of the rite.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:14
+roles:
+- id: role:1
+  label: ritual worshipper and instructor
+  assigned_to:
+  - fig:1
+  basis: The performer worships the sun, turns toward it, and then instructs the maidservants.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:2
+  label: worshipped solar body
+  assigned_to:
+  - fig:2
+  basis: The passage says the standing performer worships the sun and keeps his right
+    side toward it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: water-bearing circumambulatory attendants
+  assigned_to:
+  - fig:3
+  basis: The maidservants carry full pitchers and walk around the altar and pitcher
+    of water.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:4
+  label: contestants in parallel solar-symbolic rite
+  assigned_to:
+  - fig:4
+  basis: A note says an Arya and a Sadia struggle for a round skin that represents
+    the sun in other versions.
+  evidence_refs:
+  - ev:14
+symbols:
+- id: sym:1
+  label: sun
+  literal_form: sun
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:14
+- id: sym:2
+  label: rightward orientation
+  literal_form: keeping the right side toward the sun; walking from left to right
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: sym:3
+  label: full pitchers and pitcher of water
+  literal_form: full pitchers; pitcher of water
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:4
+  label: altar
+  literal_form: altar
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: sweet and bitter draught refrain
+  literal_form: spoken formula about sweetness and drinking a bitter draught
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:10
+- id: sym:6
+  label: ritual numbers six and three
+  literal_form: six in front, three behind; three circumambulations
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:7
+  label: round skin as sun-representation in variant rite
+  literal_form: round skin representing the sun
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:14
+- id: sym:8
+  label: agnidhriya fire in parallel sequence
+  literal_form: agnidhriya fire and members of the fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:15
+scenes:
+- id: scene:1
+  label: Standing worship of the sun
+  summary: An unnamed performer stands, worships the sun, turns so that his right
+    side remains toward it, and recites verses with certain ritual cries omitted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Instruction of pitcher-bearing maidservants
+  summary: The performer instructs maidservants carrying full pitchers, arranged six
+    before and three behind, to walk three times from left to right around an altar
+    and a pitcher of water while performing a right-hand/right-thigh gesture and speaking
+    the refrain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:3
+  label: Notes on parallel ritual variants
+  summary: The notes connect the rite with Sankhayana Aranyaka and other Vedic ritual
+    passages, describe the dance as a rain and vegetation spell, and mention a variant
+    struggle over a round skin representing the sun.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+  - ev:14
+  - ev:15
+candidate_motifs:
+- id: motif:1
+  label: sacrificial oblation and liturgical recitation
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage mentions a last oblation accompanied by a Rigvedic verse, offerings
+    with svaha cries omitted, and ritual action around an altar.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The passage is ritual instruction and commentary rather than a mythic
+    narrative; OCR corrupts some ritual terms.
+- id: motif:2
+  label: solar worship with rightward orientation
+  taxonomy_refs: []
+  basis: The performer worships the sun while turning to keep the right side toward
+    it, and the attendants also move from left to right around ritual objects.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy motif directly names circumambulation or solar worship.
+- id: motif:3
+  label: water-bearing women's dance as rain and vegetation rite
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Maidservants carry full pitchers and circumambulate an altar and pitcher
+    of water; a note explicitly calls the dance a rain and vegetation spell.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+  confidence: medium
+  cautions: The seasonal-cycle reading is based on the source note's interpretation
+    of the dance, not on a full mythic account in this excerpt.
+- id: motif:4
+  label: ritual invitation to consume a contrasting draught
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The repeated formula says, 'Come hither,' calls the draught sweet, and commands
+    drinking a bitter draught.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  confidence: low
+  cautions: The addressee and exchange structure are not fully specified in the excerpt.
+- id: motif:5
+  label: solar representation by a round ritual object in variant tradition
+  taxonomy_refs: []
+  basis: A note says other versions include a struggle for a round skin that represents
+    the sun.
+  evidence_refs:
+  - ev:14
+  confidence: medium
+  cautions: This element is reported only for other versions and is said to be absent
+    from the two Rigvedic works mentioned in the note.
+comparison_claims:
+- id: claim:1
+  claim: The passage identifies a close parallel in Sankhayana Aranyaka I, 5, where
+    the wording is said to be almost identical, though the mantra differs.
+  claim_level: linguistic_similarity
+  target: Sankhayana Aranyaka I, 5
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs:
+  - ev:12
+  confidence: medium
+  limitations: The excerpt reports the comparison but does not provide the full parallel
+    passage.
+- id: claim:2
+  claim: The rite belongs to a wider cluster of Vedic ritual versions in Srauta Sutras,
+    Brahmanas, and Samhita passages, but the note warns that the versions differ in
+    many details.
+  claim_level: same_function
+  target: Lityayana Srauta Sutra, Tandya Brahmana, Kathaka, Katyayana Srauta Sutra,
+    Taittiriya Samhita, Taittiriya Brahmana, and related Vedic ritual passages named
+    in the note
+  evidence_refs:
+  - ev:13
+  counter_evidence_refs:
+  - ev:13
+  confidence: medium
+  limitations: The claim is limited to the note's list of parallels; detailed correspondences
+    are not given in the supplied excerpt.
+- id: claim:3
+  claim: The maidservants' dance is compared by the note to a rain and vegetation
+    spell, with an external reference to Greek cult material.
+  claim_level: same_function
+  target: rain and vegetation spell; Farnell, Cults of the Greek States III, 103
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The external Greek comparandum is only cited, not described, in the
+    supplied passage.
+- id: claim:4
+  claim: A solar-symbolic variant in other Vedic ritual versions uses a round skin
+    to represent the sun during a struggle between an Arya and a Sadia.
+  claim_level: visual_similarity
+  target: parallel Vedic ritual variants with a round skin representing the sun
+  evidence_refs:
+  - ev:14
+  counter_evidence_refs:
+  - ev:14
+  confidence: medium
+  limitations: The note states that this rite is not mentioned in either of the Rigvedic
+    works under discussion, so it should not be treated as part of the main ritual
+    passage.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 101663-101747
+  quote_or_summary: Supplied passage from the public-domain Griffith Rigveda file,
+    containing ritual commentary and notes associated with Aitareya Aranyaka V.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; citation from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 101663-101747, note before Aitareya Aranyaka V,1,1
+  quote_or_summary: A note states that the last oblation is accompanied by a Rigveda
+    verse.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 101663-101747, Aitareya Aranyaka V,1,1 note
+  quote_or_summary: '"the three words a/ra, wibhajitha, and vitha are not in accordance
+    with the Reveda text"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 101663-101747, main ritual paragraph
+  quote_or_summary: '"Standing there he worships the sun"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 101663-101747, main ritual paragraph
+  quote_or_summary: '"turning so as to keep his right side towards it as it turns"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 101663-101747, main ritual paragraph
+  quote_or_summary: '"with these verses, omitting the cries of szdhd"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage;
+    OCR spelling retained.
+- id: ev:7
+  type: quote
+  locator: lines 101663-101747, main ritual paragraph
+  quote_or_summary: '"Come hither, this is sweet, this is sweet. Drink this bitter
+    draught."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:8
+  type: quote
+  locator: lines 101663-101747, main ritual paragraph
+  quote_or_summary: '"the maidscrvants,® who carry full pitchers, six in front, three
+    behind"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage;
+    OCR spelling retained.
+- id: ev:9
+  type: quote
+  locator: lines 101663-101747, main ritual paragraph
+  quote_or_summary: '"Walk three times from left to right round this altar and this
+    pitcher of water"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:10
+  type: quote
+  locator: lines 101663-101747, main ritual paragraph
+  quote_or_summary: '"smiling your right thighs with your right hands, and saying,
+    ‘Come hither, this is sweet, this is swect.’"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage;
+    OCR spelling retained.
+- id: ev:11
+  type: quote
+  locator: lines 101663-101747, note on maidservants' rite
+  quote_or_summary: '"The dance is clearly a rain and vegetation spell"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:12
+  type: quote
+  locator: lines 101663-101747, comparative note
+  quote_or_summary: '"This is done later in the Sankhayana Aranyaka, I, 5, where the
+    words are almost identical"; the same note adds, "The Mantra is quite different".'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:13
+  type: summary
+  locator: lines 101663-101747, comparative note
+  quote_or_summary: The note lists multiple other parallel ritual passages and states
+    that these versions differ in many details.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+- id: ev:14
+  type: quote
+  locator: lines 101663-101747, comparative note
+  quote_or_summary: '"the struggle of an Arya and a Sadia for a round skin, which
+    represents the sun"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage;
+    OCR spelling retained.
+- id: ev:15
+  type: summary
+  locator: lines 101663-101747, concluding comparative note
+  quote_or_summary: A note mentions eight libations in the agnidhriya fire, followed
+    by adoration of the members of the fire and of the sun.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is heavily affected by OCR corruption and combines translation,
+    ritual instruction, and scholarly notes. Main ritual actions are clear enough
+    for extraction, but some terms and names remain uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All observations and motif candidates are limited to the supplied passage and metadata. Taxonomy references are used only where directly supported by the passage or its notes.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l101663-l101747
+  passage_sha256=32e226460607f9797af6d09681b969293bbe7c7a6619fed5e203f559f4e73a81
+

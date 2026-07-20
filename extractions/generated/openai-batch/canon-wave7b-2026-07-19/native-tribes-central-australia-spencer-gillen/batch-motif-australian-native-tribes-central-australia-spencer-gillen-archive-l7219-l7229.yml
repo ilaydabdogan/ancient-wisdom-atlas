@@ -1,0 +1,209 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l7219-l7229
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: IV THE TOTEMS / THE TOTEMS / IV THE TOTE.MS 137 / CHAPTER V; lines 7219-7229
+  start: '7219'
+  end: '7229'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The immediate surroundings of one of these Ertnatulunga is a kind of haven
+    of refuge for wild animals...
+  summary: The passage describes the area around an Ertnatulunga as a refuge where
+    pursued wild animals become tabu and safe from hunters, where nearby plants are
+    not touched, and where the site's sanctity is linked to its containing Churinga.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The immediate surroundings of an Ertnatulunga are described as a haven of
+    refuge for wild animals.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A pursued animal such as an emu, kangaroo, or wallaby that comes close to
+    the Ertnatulunga becomes tabu and safe from the spear of the pursuing native.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Plants in the immediate vicinity of the spot are never touched or interfered
+    with.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sanctity of the Ertnatulunga is explained by the statement that it contains
+    the Churinga.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: wild animals
+  description: Wild animals including emu, kangaroo, or wallaby that may flee toward
+    the Ertnatulunga when pursued.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: pursuing native
+  description: A person pursuing an animal with a spear, from whom the animal becomes
+    safe when close to the Ertnatulunga.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: protected pursued animals
+  assigned_to:
+  - fig:1
+  basis: The animals become tabu and safe when they reach the vicinity of the Ertnatulunga.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pursuer with spear
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the spear of the pursuing native.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Ertnatulunga as protected sacred refuge
+  literal_form: Ertnatulunga and its immediate surroundings
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Churinga contained in the Ertnatulunga
+  literal_form: Churinga
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: untouched plants near the sacred spot
+  literal_form: plants in the immediate vicinity
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: spear of pursuit
+  literal_form: spear
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Pursued animal reaches Ertnatulunga refuge
+  summary: A pursued animal runs toward an Ertnatulunga and, once close to it, becomes
+    tabu and safe from the pursuing native's spear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Protected vicinity of the Ertnatulunga
+  summary: The passage states that plants near the Ertnatulunga are not touched and
+    that the site's sanctity is connected with the Churinga it contains.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sacred refuge where pursuit is halted by tabu
+  taxonomy_refs: []
+  basis: Animals pursued by a hunter become tabu and safe once they come close to
+    the Ertnatulunga.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents this as an ethnographic rule around a sacred site,
+    not as a narrative myth episode.
+- id: motif:2
+  label: protected vegetation around a sacred place
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: Plants in the immediate vicinity of the Ertnatulunga are never touched or
+    interfered with.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage mentions plants generally, not a single sacred tree or axis
+    motif; taxonomy linkage is weak and requires review.
+- id: motif:3
+  label: sanctity derived from contained sacred objects
+  taxonomy_refs: []
+  basis: The sanctity of the Ertnatulunga is explained by its containing the Churinga.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is fragmentary at the end and does not elaborate the Churinga
+    in this line range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7219-7224
+  quote_or_summary: The surroundings of an Ertnatulunga are called a refuge for wild
+    animals; pursued emu, kangaroo, or wallaby that come close become tabu and safe
+    from the pursuing native's spear.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 7225-7226
+  quote_or_summary: Plants in the immediate vicinity of the spot are never touched
+    or interfered with.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: 7228-7229
+  quote_or_summary: The sanctity of the Ertnatulunga is linked to its containing the
+    Churinga.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is ethnographic and brief, and no explicit cross-tradition comparison
+    is made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage itself does not make or support a specific comparative claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l7219-l7229
+  passage_sha256=3e8e24b2a1d01c21688deb0c0905a912112d2dc937646c8c95cae7f067ef181f
+

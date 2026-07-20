@@ -1,0 +1,231 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l2627-l2637
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: BURIAL CUSTOMS, / TURNER / RELIGION, / TURNER,; lines 2627-2637
+  start: '2627'
+  end: '2637'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Some of these shamans are superior hunters...
+  summary: The passage describes some shamans as skilled hunters whose experience
+    lets them know and anticipate deer movements. It says such a prophet can estimate
+    the distance of deer herds and that these hunters have wide reputations. It begins
+    to describe a shaman erecting something on a pole in order to make deer move toward
+    a desired locality, but the excerpt ends before the action is fully described.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Some shamans are described as superior hunters.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Their experience teaches them the habits of deer, including seasonal locations
+    and future movements influenced by weather.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The prophet estimates the nearness or remoteness of deer herds and stragglers
+    from the main body of deer present in the previous fall months.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: These hunters have both local reputations and wider reputations as far as
+    communication allows.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The shaman begins a procedure intended to cause deer to move toward a desired
+    locality by erecting something on a pole placed in a favorable location; the provided
+    passage ends before the full description is complete.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: shaman / prophet-hunter
+  description: A shaman described as a superior hunter and prophet who knows and anticipates
+    deer movements.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: deer herds
+  description: Deer, including herds and stragglers, whose locations and movements
+    are known or anticipated by the shaman.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: people within communication range
+  description: People among whom the hunters' reputation is known as far as communication
+    extends.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: shaman
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies the figures as shamans.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: superior hunter
+  assigned_to:
+  - fig:1
+  basis: The passage says some shamans are superior hunters.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: prophet estimating deer movements
+  assigned_to:
+  - fig:1
+  basis: The passage calls the figure a prophet and describes estimating herd proximity
+    or remoteness.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: game animals whose movement is tracked or influenced
+  assigned_to:
+  - fig:2
+  basis: The passage describes deer movements being known, anticipated, and ritually
+    directed toward a locality.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: reputation witnesses
+  assigned_to:
+  - fig:3
+  basis: The passage says the hunters are known locally and as far as people can communicate.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: pole used in deer-moving procedure
+  literal_form: a pole placed in a favorable location
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Shamanic hunting knowledge and reputation
+  summary: Some shamans are superior hunters whose experience enables them to know
+    deer habits, locations, and weather-influenced future movements, giving them a
+    reputation among nearby and connected people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Beginning of pole procedure to move deer
+  summary: The shaman begins to erect something on a pole in a favorable location
+    with the stated purpose of causing deer to move toward a desired locality; the
+    excerpt ends before the details are complete.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Shaman as hunter-prophet with animal-location knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links shamanic status, hunting skill, experiential knowledge,
+    and prophetic estimation of deer movements.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The knowledge is described as based on hunting experience and weather
+    observation; the passage does not explicitly frame it as supernatural revelation.
+- id: motif:2
+  label: Ritual attempt to direct game animals toward hunters
+  taxonomy_refs: []
+  basis: The passage states that the shaman erects something on a pole in order to
+    cause deer to move toward a desired locality.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The provided excerpt ends mid-sentence, so the ritual object and full
+    procedure are not visible.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2627-2631
+  quote_or_summary: "“Some of these shamans are superior hunters” whose experience
+    teaches them deer habits, locations, and weather-influenced future movements."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 2631-2634
+  quote_or_summary: The prophet estimates the proximity or remoteness of deer herds
+    and stragglers from the main body present during the previous fall months.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: 2634-2636
+  quote_or_summary: These hunters have local reputations and are known as far as people
+    have means of communication.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: quote
+  locator: 2636-2637
+  quote_or_summary: "“In order to cause the deer to move toward the locality where
+    they may be desired the shaman will erect, on a pole placed in a favorable” location;
+    the excerpt ends mid-sentence."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the provided lines. Motif identification
+    is cautious because the passage is ethnographic and the final ritual description
+    is incomplete in the supplied excerpt. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No figures or objects were inferred beyond those explicitly present.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l2627-l2637
+  passage_sha256=1061a94d4ef8a2c7ed15014448b0e563c459303584c17e9e679de2bbd5ccd518
+

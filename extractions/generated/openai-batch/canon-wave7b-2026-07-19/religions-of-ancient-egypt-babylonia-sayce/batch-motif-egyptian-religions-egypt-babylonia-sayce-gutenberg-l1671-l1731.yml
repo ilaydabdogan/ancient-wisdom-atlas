@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.egyptian-religions-egypt-babylonia-sayce-gutenberg-l1671-l1731
+source_text_path: texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md
+passage_locator:
+  label: The Religions of Ancient Egypt and Babylonia / CONTENTS / PREFACE. / PART
+    I. THE RELIGION OF ANCIENT EGYPT.; lines 1671-1731
+  start: '1671'
+  end: '1731'
+  translation: The Religions of Ancient Egypt and Babylonia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: objects as well as persons had each its Ka
+  summary: The passage explains the Egyptian Ka as a distinct double or entity associated
+    with life, consciousness, divine relationship, shadows, funerary objects, and
+    offerings. It also compares the belief that action implies life with broader examples
+    of agency attributed to animals and objects.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Ka is described as often represented holding the symbol of life.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage distinguishes the Ka from life, consciousness, and divine essence,
+    while saying these were attributes possessed by the Ka.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says early or primitive thought treats moving things as alive
+    or as animated by a living power.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The passage gives examples in which animals or an object are treated as responsible
+    agents: an ox, a pig, a horse, ants, and a chapel bell.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the early Egyptians believed objects as well as persons had
+    a Ka, and connects this belief with the fact that both cast shadows.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says ushebti-figures and other sepulchral furniture were broken
+    so that their Kas could be released and accompany the dead man’s Ka in the other
+    world.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says the word Ka was identical in spelling with a word denoting
+    food, and that bas-reliefs sometimes show food offerings inside the arms of the
+    Ka symbol.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ka
+  description: An Egyptian entity or double associated with life, consciousness, divine
+    relationship, and the human counterpart, but treated as distinct from those attributes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: dead man
+  description: A deceased human whose Ka is said to wander in the other world and
+    be accompanied by the released Kas of funerary objects.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: gods
+  description: Divine recipients of food offerings mentioned alongside the dead.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: animals and object treated as agents
+  description: Examples include an ox, pig, horse, ants, and a chapel bell treated
+    in legal or ritual terms as responsible for harmful or heretical action.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: life-associated double
+  assigned_to:
+  - fig:1
+  basis: The Ka is represented with the symbol of life and is discussed in relation
+    to the vital principle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: possessor of distinct attributes
+  assigned_to:
+  - fig:1
+  basis: Life, consciousness, and relationship to the gods are described as attributes
+    of the Ka with independent existence.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: deceased traveler in the other world
+  assigned_to:
+  - fig:2
+  basis: The dead man’s Ka is described as wandering in the other world.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: recipient of offerings
+  assigned_to:
+  - fig:3
+  basis: Food offerings are said to be made to the gods as well as to the dead.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: nonhuman responsible agent
+  assigned_to:
+  - fig:4
+  basis: The passage lists animals and a bell subjected to punishment, trial, condemnation,
+    banishment, scourging, catechism, recantation, or baptism.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: symbol of life
+  literal_form: A symbol of life shown in the hands of the Ka.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Ka symbol arms
+  literal_form: The arms of the symbol of the Ka, inside which food offerings are
+    sometimes represented in bas-reliefs.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: shadow
+  literal_form: Shadows cast by objects and persons, cited as strengthening the belief
+    that each had a Ka.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: ushebti-figures and sepulchral furniture
+  literal_form: Funerary figures and burial furnishings broken to release their Kas.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: food offerings
+  literal_form: Offerings of food made to the dead or to the gods, represented inside
+    the Ka symbol’s arms.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ka bearing life symbol
+  summary: The Ka is represented with the symbol of life while remaining conceptually
+    distinct from life, consciousness, and divine essence.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Agency attributed to animals and objects
+  summary: The passage surveys examples where animals and an object are treated as
+    responsible beings, supporting the broader idea that action is associated with
+    life or agency.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Release of funerary object Kas
+  summary: Ushebti-figures and sepulchral furniture are broken so that their Kas may
+    leave them and accompany the dead man’s Ka in the other world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Food offerings within Ka symbol
+  summary: The passage links Ka with a word for food and describes bas-reliefs showing
+    food offerings inside the arms of the Ka symbol.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Life-bearing double distinct from the person
+  taxonomy_refs: []
+  basis: The Ka is described as associated with the principle of life yet separate
+    from life, consciousness, divine essence, and its human counterpart.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is analytical rather than a mythic narrative; the motif is
+    extracted as a conceptual religious pattern.
+- id: motif:2
+  label: Action implies life or agency
+  taxonomy_refs: []
+  basis: The passage states that early thought treats moving objects as alive or animated
+    and applies this to Egyptian belief about objects and persons having Kas.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is the author’s explanatory reconstruction, not a quoted ancient
+    Egyptian statement.
+- id: motif:3
+  label: Funerary release of object doubles for otherworld accompaniment
+  taxonomy_refs: []
+  basis: Breaking ushebti-figures and sepulchral furniture is explained as releasing
+    their Kas to accompany the dead man’s Ka in the other world.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes a funerary belief and practice; it does not provide
+    a narrative episode.
+- id: motif:4
+  label: Food, life, and the Ka linked through offerings and word association
+  taxonomy_refs: []
+  basis: The passage connects Ka with a word for food and with bas-relief imagery
+    of food offerings inside the arms of the Ka symbol.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The etymological link is presented only as possible.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares early Egyptian belief that objects and persons possess
+    a Ka with a broader pattern of attributing agency or responsibility to animals
+    and objects.
+  claim_level: same_function
+  target: Mosaic law and later European/Brazilian examples of animals or objects punished
+    or tried as responsible agents
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the modern author as analogy; it does
+    not demonstrate historical contact or a shared inherited motif.
+- id: claim:2
+  claim: The passage cautiously suggests a linguistic association between Ka, food,
+    and life through Egyptian spelling and an analogy to Latin vivenda.
+  claim_level: linguistic_similarity
+  target: Ka as spelled like an Egyptian word for food, compared by the author with
+    Latin vivenda/vivande
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The author frames the etymological connection as only a possibility.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1671-1681
+  quote_or_summary: The Ka is often represented with the symbol of life in its hands;
+    it is associated with life, consciousness, and relationship to the gods, but distinguished
+    from them as independent entities.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1682-1696
+  quote_or_summary: The author says primitive thought projects personality into surrounding
+    things and treats movement as implying life or animation by a living power.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1697-1716
+  quote_or_summary: 'The passage lists examples of agency attributed to nonhuman beings
+    or objects: a child revenging himself on a ball or stone, the Mosaic law on a
+    goring ox, trials or punishments of a pig, horse, ants, and a chapel bell.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1717-1728
+  quote_or_summary: "“objects as well as persons had each its Ka”; ushebti-figures
+    and sepulchral furniture were broken so their Kas could accompany the dead man’s
+    Ka in the other world."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 1729-1731
+  quote_or_summary: The passage says Ka was identical in spelling with a word for
+    food and notes bas-reliefs showing food offerings to the dead or gods inside the
+    arms of the Ka symbol, while suggesting only a possible etymological link with
+    life.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a modern scholarly explanation rather than a mythic episode.
+    Literal extraction is strong; motif labels and comparison claims require human
+    review because they abstract conceptual religious patterns from analysis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs were applied because the passage does not mention cave, fire, milk, mountain, serpent, tree, or water. No available motif-family ref was applied because the passage supports funerary and agency patterns but not a precise listed taxonomy match.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-religions-egypt-babylonia-sayce-gutenberg__l1671-l1731
+  passage_sha256=67cc70301757adb0b8a08ecf8d0a7c2ef5ab28ad772bd0657efe288dc2813507
+

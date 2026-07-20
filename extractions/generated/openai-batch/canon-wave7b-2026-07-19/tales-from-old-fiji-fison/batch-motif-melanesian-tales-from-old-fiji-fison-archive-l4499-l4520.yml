@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l4499-l4520
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: LONGA-POA  69 / THE  SAILING   OF  THE  EXILES / LONGA-POA  71 / THE   STORY   OF;
+    lines 4499-4520
+  start: '4499'
+  end: '4520'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: for how can they prosper with whom the gods are wroth?
+  summary: A voyaging group under Longa-poa suffers a destructive storm, hunger, an
+    attack after landing, casualties, and Longa-poa's arrow wound. They retaliate
+    by taking and burning the town, repair their sail and mast, rest until the chief's
+    wound heals, and sail away again before the stated end comes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator frames the group's lack of prosperity as connected with the wrath
+    of the gods.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A sudden raging blast tears the sail, breaks the mast, and nearly sinks the
+    canoe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The voyagers bale out the canoe, endure the tempest for many days, and become
+    nearly spent with hunger and weariness.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The voyagers reach a land where they intend to rest and recover.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The local people secretly approach at night and kill three of the voyagers
+    before they can take up weapons.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Two more voyagers fall, and Longa-poa is shot through the arm with an arrow
+    during the morning attack on the town.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The voyagers take the place and burn it to the ground with the townsfolk inside.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The voyagers make another sail, cut a new mast, rest until the chief's wound
+    heals, and then sail away again.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Longa-poa
+  description: Named leader or chief among the voyagers; he is shot through the arm
+    by an arrow, and the party rests until the chief's wound heals.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Voyaging group
+  description: The group traveling in the canoe; they endure storm damage, hunger,
+    night attack, casualties, retaliation, repairs, and renewed sailing.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: The gods
+  description: Divine beings described as wrathful toward the voyagers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: People of the land / townsfolk
+  description: People who secretly attack the voyagers at night; the town and townsfolk
+    are later burned after the voyagers take the place.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: wounded chief
+  assigned_to:
+  - fig:1
+  basis: Longa-poa is shot through the arm, and the group rests until the chief's
+    wound is healed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: named voyage figure
+  assigned_to:
+  - fig:1
+  basis: Longa-poa is singled out by name within the voyaging group's conflict.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: storm-tested voyagers
+  assigned_to:
+  - fig:2
+  basis: The group bales the canoe, fights the tempest, and suffers hunger and weariness.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: retaliating attackers
+  assigned_to:
+  - fig:2
+  basis: After casualties and Longa-poa's wound, they take the town and burn it.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: wrathful divine powers
+  assigned_to:
+  - fig:3
+  basis: The passage says the gods are wroth with the group.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: night attackers
+  assigned_to:
+  - fig:4
+  basis: The people creep secretly upon the voyagers in the night and kill three.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: storm blast
+  literal_form: raging blast / tempest
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sail and mast
+  literal_form: torn sail, broken mast, replacement sail and mast
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: arrow wound
+  literal_form: arrow through Longa-poa's arm
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: burning of the town
+  literal_form: town burnt to the ground
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Storm at sea
+  summary: The voyagers are struck by a violent blast that damages the canoe's sail
+    and mast and nearly sinks it; they bale it out and endure the tempest for many
+    days.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Night attack and morning battle
+  summary: After reaching land to rest, the voyagers are attacked at night, suffer
+    deaths, and Longa-poa is wounded during the morning attack on the town.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Town destroyed, repairs made, and voyage resumed
+  summary: The voyagers take the place, burn it with the townsfolk, repair the sail
+    and mast, rest until the chief's wound heals, and sail away again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine wrath followed by disaster
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly says the gods are wroth and immediately narrates storm,
+    hunger, attack, death, and wounding.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage frames events as divine wrath but does not include a direct
+    divine speech, trial, or explicit judgment scene.
+- id: motif:2
+  label: perilous sea departure or exile voyage
+  taxonomy_refs:
+  - departure
+  basis: The group travels by canoe, suffers storm damage and hunger, repairs the
+    vessel, and sails away again.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The excerpt itself emphasizes peril and resumed sailing; the broader reason
+    for the voyage is not included in this line range.
+- id: motif:3
+  label: violent landing and retaliatory destruction
+  taxonomy_refs: []
+  basis: After landing to rest, the voyagers are attacked by local people, suffer
+    casualties, then take and burn the town.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level narrative pattern rather than a mapped taxonomy
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4499-4507
+  quote_or_summary: The passage says, "for how can they prosper with whom the gods
+    are wroth?" and describes a raging blast that tears the sail, breaks the mast,
+    nearly sinks the canoe, and leaves the voyagers hungry and weary after many days.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4507-4512
+  quote_or_summary: The voyagers come to a land to rest and recover, but the people
+    secretly approach at night and kill three before the voyagers can take up weapons.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4512-4516
+  quote_or_summary: Two more fall, Longa-poa is shot through the arm by an arrow during
+    the morning attack on the town, and the voyagers take the place and burn it with
+    the townsfolk.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4516-4520
+  quote_or_summary: The voyagers make another sail, cut a new mast, rest for many
+    days until the chief's wound heals, sail away again, and the passage states that
+    the end then comes.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear in the supplied passage. Motif labels
+    are cautious because the excerpt is brief and lacks broader narrative context.
+    No comparison claims were generated because the passage itself does not make a
+    comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, locator, source metadata, and available taxonomy references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l4499-l4520
+  passage_sha256=7e49fbfee0a618b208b7ba0b4c7e659049e3b7375986397f52c4366d508105fb
+

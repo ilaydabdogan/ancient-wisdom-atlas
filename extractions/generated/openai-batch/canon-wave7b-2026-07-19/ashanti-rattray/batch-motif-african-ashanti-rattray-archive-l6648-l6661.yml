@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l6648-l6661
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: THE ASHANTI CLASSIFICATORY SYSTEM / NTORO EXOGAMOUS DIVISIONS ON A PATRILINEAL
+    BASIS / NT0R0 EX0GAM0US DIVISIONS / NTORO EXOGAM OUS DIVISIONS; lines 6648-6661
+  start: '6648'
+  end: '6661'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator records a raft survey offshore from Abono, identifying two
+    abandoned village sites by soundings and anchored markers. Abono No. 2 is marked
+    by an anchored raft and associated with the reign of Mensa Bonsu; Abono No. 1
+    is marked by an anchored log and associated with the reign of King Kwaku Dua I.
+    The present chief of Abono is said to have been born at Abono No. 1.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A raft was taken on an approximate bearing, and about 250 yards out the party
+    reached Abono No. 2.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sounding at Abono No. 2 was recorded as exactly 29 feet.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Abono No. 2 had been abandoned during the reign of Mensa Bonsu, 1874-83.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: An anchored raft marked the site of Abono No. 2.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Continuing farther from shore, the party reached an anchored log identified
+    with Abono No. 1.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The sounding at Abono No. 1 was recorded as 61 feet 9 inches.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Abono No. 1 had been abandoned during the reign of King Kwaku Dua I, 1836-68.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The present chief of Abono was born in Abono No. 1 and is described as about
+    sixty to seventy years old.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Abono No. 2
+  description: An abandoned village site reached about 250 yards from shore, with
+    a sounding of 29 feet and an anchored raft marking the site.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mensa Bonsu
+  description: Named as the ruler during whose reign Abono No. 2 was abandoned, dated
+    1874-83 in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Abono No. 1
+  description: An abandoned village site farther from shore, associated with an anchored
+    log and a sounding of 61 feet 9 inches.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: King Kwaku Dua I
+  description: Named as the king during whose reign Abono No. 1 was abandoned, dated
+    1836-68 in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: present chief of Abono
+  description: The current chief of Abono, described as having been born in Abono
+    No. 1 and as about sixty to seventy years old.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: surveying party
+  description: The first-person plural observers traveling by raft and taking soundings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: abandoned village site
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Both Abono No. 2 and Abono No. 1 are described as villages that had been
+    abandoned.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: reign-period ruler
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The abandonment of each village is dated by reference to a named reign.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: birthplace-associated chief
+  assigned_to:
+  - fig:5
+  basis: The chief of Abono is said to have been born in Abono No. 1.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: observer-surveyor
+  assigned_to:
+  - fig:6
+  basis: The passage reports movement by raft and records soundings at the sites.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: anchored raft marker
+  literal_form: anchored raft marking the site of Abono No. 2
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: anchored log marker
+  literal_form: anchored log at the site of Abono No. 1
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water-depth setting
+  literal_form: offshore water measured by soundings of 29 feet and 61 feet 9 inches
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Survey reaches Abono No. 2
+  summary: The raft travels offshore to Abono No. 2, where a 29-foot sounding is recorded
+    and an anchored raft marks the abandoned village site.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Survey reaches Abono No. 1
+  summary: The party continues farther from shore to an anchored log identified with
+    Abono No. 1, records a deeper sounding, and notes the village's abandonment during
+    King Kwaku Dua I's reign.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Chief's birthplace noted
+  summary: The passage states that the present chief of Abono was born in Abono No.
+    1 and gives an approximate age for him.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: abandoned settlement marked by anchored object
+  taxonomy_refs: []
+  basis: 'Both abandoned village sites are identified in the water by anchored markers:
+    a raft for Abono No. 2 and a log for Abono No. 1.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a topographical and ethnographic pattern in the passage, not a
+    mythic narrative motif. No available motif-family taxonomy item directly matches
+    it.
+- id: motif:2
+  label: former village as remembered birthplace of current chief
+  taxonomy_refs: []
+  basis: The present chief of Abono is linked to the abandoned site Abono No. 1 by
+    birth.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not state a ritual, symbolic, or legitimacy function
+    for the birthplace; this should not be mapped to royal legitimacy without further
+    evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6648-6653
+  quote_or_summary: The raft is taken offshore to Abono No. 2; the sounding is 29
+    feet; the village had been abandoned in Mensa Bonsu's reign, and an anchored raft
+    marked the site.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 6655-6659
+  quote_or_summary: The party continues farther from shore to an anchored log at Abono
+    No. 1; the sounding is 61 feet 9 inches; the village had been abandoned in the
+    reign of King Kwaku Dua I.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 6659-6661
+  quote_or_summary: The present chief of Abono is said to have been born in Abono
+    No. 1 and is estimated as sixty to seventy years old.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are weak because
+    the passage is a survey note about abandoned sites and markers, not a mythic or
+    ritual narrative. No comparison claims are supported by the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were extracted because the passage does not itself support comparison to another tradition or motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l6648-l6661
+  passage_sha256=fc826a648fa3632b9157e09cfd1556ac111c6bf01fee3a3ba387532dc33d9354
+

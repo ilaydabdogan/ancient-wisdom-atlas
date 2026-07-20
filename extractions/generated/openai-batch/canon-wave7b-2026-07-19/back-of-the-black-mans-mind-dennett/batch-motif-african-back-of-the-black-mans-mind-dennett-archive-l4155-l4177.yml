@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.african-back-of-the-black-mans-mind-dennett-archive-l4155-l4177
+source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+passage_locator:
+  label: VI  MEASURES,  SIGNS,  AND  SYMBOLS  69 / VI  MEASURES,  SIGNS,  AND  SYMBOLS  71
+    / VI  MEASURES,  SIGNS,  AND  SYMBOLS  73 / VI  MEASURES,  SIGNS,  AND  SYMBOLS  75;
+    lines 4155-4177
+  start: '4155'
+  end: '4177'
+  translation: At the Back of the Black Man's Mind; or, Notes on the Kingly Office
+    in West Africa
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the news had travelled the sixty miles or so in three or four hours.
+  summary: The narrator recalls sending the schooner Olhanensa from Luango to Konkwatti
+    in 1895. His head man informally reports that the schooner is ashore; formal confirmation
+    arrives the next day, after rescue preparations have already been made. The narrator
+    concludes that the news had travelled about sixty miles in three or four hours,
+    and a note links this to the recurring question of rapid news travel among natives.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: In early 1895 the narrator sent the schooner Olhanensa from Luango to Konkwatti,
+    about sixty miles north, to pick up cargo.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One morning around ten o'clock the narrator's head man hesitated and then
+    reported that he had heard the schooner was ashore.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator could not get more definite information from the head man except
+    that he had heard the news.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator believed the bad news likely to be true because of the speed
+    with which bad news travels, and he prepared boats and implements for rescue.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A messenger arrived the next day confirming the news, and the prepared rescue
+    materials were immediately forwarded.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The schooner had come ashore during the night before the unofficial news reached
+    the narrator.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says the unofficial news probably reached the narrator only after
+    it had become common property among the natives.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that the news travelled roughly sixty miles in three or
+    four hours.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note says the incident is interesting as a key to a perennial puzzle about
+    how news travels speedily among natives, a puzzle revived during the Boer war.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: The first-person speaker who sends the schooner, receives the report,
+    prepares rescue materials, and interprets the speed of the news.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Head man
+  description: The narrator's head man, who reports that he has heard the schooner
+    was ashore.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Messenger
+  description: A messenger who arrives the next day confirming the news about the
+    schooner.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Natives
+  description: A collective group among whom the news is described as having become
+    common property; the note also refers to speedy news travel among natives.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: sender and rescue organizer
+  assigned_to:
+  - fig:1
+  basis: The narrator sends the schooner and prepares boats and implements for rescue
+    after hearing the report.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: initial informal informant
+  assigned_to:
+  - fig:2
+  basis: The head man tells the narrator he has heard that the schooner is ashore.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: confirming messenger
+  assigned_to:
+  - fig:3
+  basis: The messenger arrives the next day confirming the news.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: community of prior circulation
+  assigned_to:
+  - fig:4
+  basis: The news is said to have been common property of the natives before being
+    communicated to the narrator.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Schooner sent to Konkwatti
+  summary: The narrator sends the schooner Olhanensa from Luango to Konkwatti, about
+    sixty miles north, to collect cargo.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Informal report of disaster
+  summary: The head man hesitantly tells the narrator that he has heard the schooner
+    is ashore; the narrator cannot obtain more details.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Preparation before confirmation
+  summary: Trusting the likelihood of the bad news, the narrator prepares rescue materials
+    before a messenger arrives the next day with confirmation.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Rapid spread of news explained as a puzzle
+  summary: 'The passage reconstructs the timing: the schooner came ashore at night,
+    the unofficial news circulated among natives, and it travelled about sixty miles
+    in three or four hours. A note connects this to a recurring question about speedy
+    news travel.'
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: rapid long-distance news transmission
+  taxonomy_refs: []
+  basis: The passage emphasizes that unofficial news of the schooner going ashore
+    travelled about sixty miles in three or four hours before formal confirmation
+    arrived.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic anecdote rather than a mythic narrative; no mechanism
+    for the rapid transmission is specified.
+- id: motif:2
+  label: informal knowledge preceding formal confirmation
+  taxonomy_refs: []
+  basis: The narrator hears the news from his head man and prepares a response before
+    the messenger arrives the next day confirming the report.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not identify the source chain for the unofficial news.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the incident as an example relevant to a recurring pattern
+    or puzzle of unusually speedy news travel among natives, including discussions
+    revived during the Boer war.
+  claim_level: same_function
+  target: perennial puzzle of speedy news travel among natives, including the Boer
+    war context mentioned in the note
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies only a brief note and does not provide specific
+    comparative cases, mechanisms, or named traditions beyond the Boer war reference.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4155-4158
+  quote_or_summary: In early 1895 the narrator sent the schooner Olhanensa from Luango
+    to Konkwatti, about sixty miles north, to pick up cargo.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4158-4162
+  quote_or_summary: One morning around ten o'clock the head man tells the narrator,
+    after hesitation, that he has heard the schooner was ashore; no more definite
+    information is given except that he had heard the news.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4162-4165
+  quote_or_summary: The narrator believes the misfortune likely because of how rapidly
+    bad news travels, and begins preparations to send boats and implements for rescue.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4165-4168
+  quote_or_summary: The next day a messenger confirms the news, and the prepared rescue
+    materials are immediately forwarded.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 4168-4174
+  quote_or_summary: The schooner had come ashore during the night before the unofficial
+    news arrived; the news had probably become common property of the natives, and
+    "had travelled the sixty miles or so in three or four hours."
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: quote
+  locator: lines 4175-4177
+  quote_or_summary: The note calls this "the key to a perennial puzzle" about how
+    news travels among natives in such a speedy way, a puzzle revived during the Boer
+    war.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative details are explicit. Motif labeling is limited because the
+    passage is an ethnographic anecdote about communication rather than a mythic episode;
+    the comparison claim rests only on the passage's own footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was applied because the passage does not directly support one of the supplied mythic taxonomy categories.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-back-of-the-black-mans-mind-dennett-archive__l4155-l4177
+  passage_sha256=a1c688eb44e01add80e1f19ccdd2dca9c1fecfb704dc37e920226145df0517c4
+

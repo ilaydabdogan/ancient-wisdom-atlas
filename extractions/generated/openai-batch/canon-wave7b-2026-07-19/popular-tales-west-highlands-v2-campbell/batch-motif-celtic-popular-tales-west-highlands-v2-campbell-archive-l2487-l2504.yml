@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l2487-l2504
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: NA FEINNE. 89 / XA FEINNE. / NA FEINNE. 91 / NA FEINNE. 93; lines 2487-2504
+  start: '2487'
+  end: '2504'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    called Tue Booth of Eochaidh Dearc, — a tale of
+    Fingal decoyed into a tent, and his combats with monsters,
+    giants, armies, etc.
+  summary: A commentarial passage identifies a manuscript tale called "Tue Booth of
+    Eochaidh Dearc" and summarizes it as a tale in which Fingal is decoyed into a
+    tent and has combats with monsters, giants, armies, and others. It quotes Ewen
+    MacLachlan on the manuscript's age and language, and states that the Barra tale
+    seems to be an old tale remnant, similar to manuscript tales and tales then told
+    in Ireland.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies manuscript No. 4, called "Tue Booth of Eochaidh Dearc,"
+    as probably the same as the tale under discussion.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The manuscript tale is summarized as involving Fingal being decoyed into a
+    tent and having combats with monsters, giants, armies, and others.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ewen MacLachlan, described as author of the abstract, says in 1812 that the
+    volume is evidently a transcript, perhaps not older than half a century, and that
+    its language suggests high antiquity.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that, except for a few words, the language in the Barra
+    tale is the ordinary language of the people of the island.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the Barra tale seems to be a remnant of an old tale
+    fading from memory and mixing with contemporary manners.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that the Barra tale is similar to tales in manuscripts
+    about one hundred years old and to tales currently told in Ireland.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fingal
+  description: Named as the figure decoyed into a tent and involved in combats.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: monsters
+  description: Named as beings with which Fingal has combats.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: giants
+  description: Named as beings with which Fingal has combats.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: armies
+  description: Named among the parties with which Fingal has combats.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Ewen MacLachlan
+  description: Identified as author of the abstract who comments on the manuscript
+    volume.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: decoyed combatant
+  assigned_to:
+  - fig:1
+  basis: Fingal is described as being decoyed into a tent and having combats.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: combat opponents
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Monsters, giants, and armies are named as those with which Fingal has combats.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: manuscript commentator
+  assigned_to:
+  - fig:5
+  basis: Ewen MacLachlan is cited as the author of the abstract and his assessment
+    of the volume is quoted.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: tent
+  literal_form: tent
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Fingal decoyed into a tent and combats adversaries
+  summary: The summarized tale has Fingal being decoyed into a tent, followed by combats
+    with monsters, giants, armies, and others.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Commentary on manuscript and oral tale transmission
+  summary: The passage reports MacLachlan's assessment of the manuscript volume and
+    then comments that the Barra tale is an old tale remnant similar to manuscript
+    and Irish tales.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Decoy into a tent
+  taxonomy_refs: []
+  basis: The tale is summarized as Fingal being decoyed into a tent.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a secondary summary; it does not identify the decoying
+    agent, motive, or outcome.
+- id: motif:2
+  label: Combats with monsters, giants, and armies
+  taxonomy_refs: []
+  basis: The tale is summarized as including Fingal's combats with monsters, giants,
+    armies, and others.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a compressed list of opponents and no episode details.
+- id: motif:3
+  label: Old tale fading from memory and altered by contemporary manners
+  taxonomy_refs: []
+  basis: The passage characterizes the Barra tale as a remnant of an old tale, rapidly
+    fading from memory and mixing with the manners of the day.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is a collector's textual-historical characterization rather than
+    a narrative motif within the tale itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage asserts that the Barra tale is similar to manuscript tales about
+    one hundred years old and to tales then told in Ireland.
+  claim_level: same_motif
+  target: Older manuscript tales and Irish oral tales related to the Barra tale
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not specify which episodes or motifs are shared, beyond
+    the nearby summary of Fingal's decoying and combats.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2487-2491
+  quote_or_summary: The passage names manuscript No. 4, "Tue Booth of Eochaidh Dearc,"
+    as "a tale of Fingal decoyed into a tent, and his combats with monsters, giants,
+    armies, etc."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 2492-2495
+  quote_or_summary: Ewen MacLachlan is cited as saying in 1812 that the volume is
+    evidently a transcript, perhaps not older than half a century, and that its language
+    indicates high antiquity.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 2496-2501
+  quote_or_summary: The passage says the Barra tale is mostly in the ordinary language
+    of the island's people and seems to be a remnant of an old tale fading from memory
+    and mixing with the manners of the day.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 2501-2504
+  quote_or_summary: The passage says the Barra tale is similar to tales in manuscripts
+    about one hundred years old and to tales now told in Ireland, with a reference
+    to Poems of Ossin, Bard of Erin, 1857.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a short commentarial passage, not a full narrative.
+    Literal data about Fingal, the tent, and the opponents are explicit, but motif
+    identification remains limited by the summary form.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol applies to the tent; no taxonomy motif family was assigned because the passage does not provide enough detail to support one confidently.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l2487-l2504
+  passage_sha256=6251cf71981aebf836d0aa44a95e72dd9291dabae5e70f3e0f2926f9f67f4530
+

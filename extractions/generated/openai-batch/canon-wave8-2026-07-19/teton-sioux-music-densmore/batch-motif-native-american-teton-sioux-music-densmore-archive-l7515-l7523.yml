@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l7515-l7523
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUREAU  OF  AMERICAN  ETHNOLOOV / BUREAU  OF  AUENICAN  ETHNOLOQV  BULLETIN  G1     I
+    / BUREAU  OF  AMERICAN  ETHNOLOQV / SPIRIT  POST; lines 7515-7523
+  start: '7515'
+  end: '7523'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies the presented ceremony as the form used by Sioux
+    people on the Standing Rock Reservation, mostly of the Teton division. It states
+    that Sun dances formerly occurred in multiple locations because the tribe was
+    large and scattered. It notes that Teton and Yanktonai groups usually joined in
+    a ceremony on the western Dakota prairie, sharing many traditions, while eastern
+    Sioux divisions such as the Santee and Sisseton had markedly different Sun-dance
+    customs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The form of the ceremony presented is associated with Sioux people on the
+    Standing Rock Reservation.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A majority of the Standing Rock group described in the passage belonged to
+    the Teton division.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In earlier times the tribe was described as large and widely scattered.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sun dances were held at more than one locality.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Teton and Yanktonai usually united in a ceremony on the western portion
+    of the Dakota prairie.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that Teton and Yanktonai traditions of the ceremony had
+    much in common.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that the Sun-dance customs of the Santee, Sisseton, and
+    other eastern divisions presented many radical differences.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sioux on the Standing Rock Reservation
+  description: The group whose form of the ceremony is presented in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Teton division
+  description: A Sioux division forming the majority of the Standing Rock group described;
+    also named as usually uniting with the Yanktonai in a Sun-dance ceremony.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Yanktonai
+  description: A Sioux division named as usually uniting with the Teton in a ceremony
+    on the western Dakota prairie.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Santee
+  description: An eastern Sioux division named among groups whose Sun-dance customs
+    differed from those of the Teton and Yanktonai.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Sisseton
+  description: An eastern Sioux division named among groups whose Sun-dance customs
+    differed from those of the Teton and Yanktonai.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Other eastern divisions of the tribe
+  description: Other Sioux divisions living toward the east, described as having Sun-dance
+    customs with many radical differences.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ceremony-associated Standing Rock group
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the presented ceremony as the form used by Sioux people
+    on the Standing Rock Reservation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: majority division within the described Standing Rock group
+  assigned_to:
+  - fig:2
+  basis: The passage says a majority of the Standing Rock Sioux described belonged
+    to the Teton division.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: joint participants in a western Dakota prairie ceremony
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says the Teton and Yanktonai usually united in a ceremony on
+    the western portion of the Dakota prairie.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: eastern divisions with differing Sun-dance customs
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage contrasts these eastern divisions with the Teton and Yanktonai
+    by saying their Sun-dance customs presented many radical differences.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Standing Rock ceremony form identified
+  summary: The passage identifies the ceremony being presented as the Standing Rock
+    Sioux form and notes that most of that group belonged to the Teton division.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Multiple Sun-dance localities and Teton-Yanktonai union
+  summary: Because the tribe was formerly large and widely scattered, Sun dances were
+    held in more than one place; the Teton and Yanktonai usually joined in a ceremony
+    on the western Dakota prairie.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Comparison of western and eastern Sioux Sun-dance customs
+  summary: The passage says Teton and Yanktonai traditions of the ceremony had much
+    in common, while the Sun-dance customs of Santee, Sisseton, and other eastern
+    divisions differed markedly.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: joint ceremonial gathering of related divisions
+  taxonomy_refs: []
+  basis: The Teton and Yanktonai are described as usually uniting in a ceremony on
+    the western Dakota prairie.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a ritual-pattern candidate rather than a narrative myth motif;
+    the passage gives no details of the ceremony's symbolic content.
+- id: motif:2
+  label: regional variation within a shared ceremonial tradition
+  taxonomy_refs: []
+  basis: The passage contrasts common Teton-Yanktonai ceremonial traditions with the
+    radically different Sun-dance customs of eastern Sioux divisions.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage only states broad similarity and difference; it does not specify
+    the practices or meanings that differ.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports an internal comparison among Sioux Sun-dance traditions:
+    Teton and Yanktonai traditions are described as having much in common, while Santee,
+    Sisseton, and other eastern divisions are described as having many radical differences.'
+  claim_level: same_function
+  target: Sun-dance customs across Teton, Yanktonai, Santee, Sisseton, and other eastern
+    Sioux divisions
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is broad and internal to Sioux divisions; the passage
+    does not provide specific ceremonial elements or external cross-cultural parallels.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7515-7517
+  quote_or_summary: The ceremony form presented is that of Sioux people on the Standing
+    Rock Reservation, most of whom belong to the Teton division.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 7517-7520
+  quote_or_summary: In old times the tribe was large and widely scattered, so Sun
+    dances were held at more than one locality.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 7520-7521
+  quote_or_summary: The Teton and Yanktonai usually united in a ceremony held on the
+    western portion of the Dakota prairie.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 7521-7523
+  quote_or_summary: The passage says Teton and Yanktonai traditions had much in common,
+    while the Sun-dance customs of Santee, Sisseton, and other eastern divisions had
+    many radical differences.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and explicit about groups, places, and internal
+    comparison of customs. Motif candidates are treated as ritual-pattern candidates
+    because no narrative myth or symbolic episode is described.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or listed symbol was assigned because the passage does not provide enough symbolic or narrative detail to support one.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l7515-l7523
+  passage_sha256=1fd40b17c4781a7668cb8e921c53b15f61f7ad6297881b3da41e49c0a37362e6
+

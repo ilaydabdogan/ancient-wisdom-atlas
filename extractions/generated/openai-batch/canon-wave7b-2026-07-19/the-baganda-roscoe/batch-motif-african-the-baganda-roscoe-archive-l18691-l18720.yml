@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l18691-l18720
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: X  WARFARE  359 / X  WARFARE  361 / X  WARFARE  363 / THE   BAGANDA; lines
+    18691-18720
+  start: '18691'
+  end: '18720'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“The royal enclosure was encircled by a tall reed-fence...”"
+  summary: The passage describes a royal enclosure with a private lake exit for emergency
+    escape to an island, and details the construction and protective function of a
+    tall reed and elephant-grass fence supported by rooting wild fig-tree posts.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A private exit to the lake was needed so an unnamed male person could escape
+    unobserved to an island if danger threatened.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The royal enclosure was surrounded by a reed-fence about ten or twelve feet
+    high, made of elephant-grass and supported by stout posts.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fence posts were cut from varieties of wild fig-tree and planted so that
+    they soon took root and grew.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Horizontal reeds were tied to the posts with strong bark, and other reeds
+    were stitched vertically on both the inside and outside of the fence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The resulting wickerwork wall had a smooth finished surface and was strengthened
+    by reed ropes at top and bottom binding the outer and inner walls together.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The fence formed a barrier against wild animals and against an ordinary human
+    foe, since the people were described as armed only with spears.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Many miles of fencing were required because the main outer fence and many
+    inside fences had to be built.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The supplied passage breaks off while stating that a fence did not last for
+    more than “four,” without preserving the unit or completion of the sentence.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed protected male person
+  description: A male person referred to only as “him,” for whom the private lake
+    exit was needed in case danger threatened.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: wild animals
+  description: Animals against which the royal enclosure’s fence served as a barrier.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: ordinary human foe / spear-armed people
+  description: Human opponents or people described in relation to the fence’s defensive
+    function; they are said to be armed only with spears.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: person protected by escape route
+  assigned_to:
+  - fig:1
+  basis: The passage says the private exit would enable him to escape unobserved to
+    an island if danger threatened.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: nonhuman threat kept outside
+  assigned_to:
+  - fig:2
+  basis: The fence is described as a barrier against wild animals.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: ordinary human threat kept outside
+  assigned_to:
+  - fig:3
+  basis: The fence is described as a barrier against any ordinary foe, with people
+    armed only with spears.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: lake escape route
+  literal_form: private exit to the lake
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: island refuge
+  literal_form: island reached by unobserved escape
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: royal enclosure fence
+  literal_form: tall reed-fence of elephant-grass, wickerwork, and reed ropes
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: rooting fig-tree posts
+  literal_form: wild fig-tree posts planted so that they took root and grew
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: spears
+  literal_form: spears carried by the people
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: private route to lake and island
+  summary: The passage notes that a private exit to the lake allowed the unnamed protected
+    person to escape unobserved to an island if danger threatened.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: construction of the royal reed-fence
+  summary: The royal enclosure is described as encircled by a tall reed and elephant-grass
+    fence, built on rooting wild fig-tree posts, tied and stitched into a smooth wickerwork
+    wall, and strengthened by reed ropes.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: defensive function of the enclosure
+  summary: The completed fence is presented as a barrier against wild animals and
+    ordinary spear-armed foes, with extensive fencing required for outer and inner
+    enclosures.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: emergency escape by private water route to island
+  taxonomy_refs: []
+  basis: A private exit to the lake enables escape, unobserved, to an island when
+    danger threatens.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic architectural and security detail rather than
+    a mythic episode; motif status requires review.
+- id: motif:2
+  label: protective royal boundary
+  taxonomy_refs: []
+  basis: The royal enclosure is surrounded by a tall constructed fence that functions
+    as a barrier against animals and ordinary foes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state a ritual or mythic meaning for the boundary.
+- id: motif:3
+  label: living vegetal fortification
+  taxonomy_refs: []
+  basis: Wild fig-tree posts are planted as fence supports and are said to take root
+    and grow within the enclosure structure.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a practical construction detail; symbolic interpretation
+    of living trees is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 18691-18694
+  quote_or_summary: "“a private exit to the lake” would enable him “to escape unobserved
+    to an island” if danger threatened."
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 18695-18700
+  quote_or_summary: The royal enclosure was surrounded by a ten- or twelve-foot reed-fence
+    of elephant-grass, supported by stout posts cut from wild fig-tree varieties and
+    planted so they rooted and grew.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 18700-18710
+  quote_or_summary: Reeds were tied horizontally with bark, other reeds were stitched
+    vertically inside and outside, and the finished wickerwork wall was strengthened
+    by reed ropes binding the two sides together.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 18710-18716
+  quote_or_summary: The wall was striking in appearance and formed a barrier against
+    wild animals and ordinary foes, with people described as armed only with spears.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 18716-18720
+  quote_or_summary: Many miles of fencing were required for the main outer fence and
+    many inside fences; the supplied passage breaks off while saying a fence did not
+    last for more than “four.”
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The architectural details are clear, though the passage begins and ends in
+    partial sentence contexts. Motif candidates are limited to literal passage-level
+    patterns; no comparison claims are made because the passage itself does not support
+    cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No external cultural or historical claims were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l18691-l18720
+  passage_sha256=98fedec517085c757f74e6a3e8c04319b202646dcf7e28ae7bea579f24bb0912
+

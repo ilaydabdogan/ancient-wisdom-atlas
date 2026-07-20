@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l100245-l100323
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 7, / ARANYAKA III / ADHYAYA 1. / KEITH R; lines 100245-100323
+  start: '100245'
+  end: '100323'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A ritual and phonetic prose passage prescribes recitations for desired
+    goods, gives replies to rebuke that invoke offended earth, heaven, and sky deities,
+    describes imprecations involving breath as a beam, prohibits inauspicious speech
+    toward a Brahmin, and teaches that knowledge of the union between syllable halves
+    brings children, cattle, fame, glory, heaven, and a full lifespan.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Persons desiring proper food, heaven, or both are told to recite the Nirbhuja,
+    the Pratrnna, or the Ubhayamantarena respectively.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Replies to a rebuker accuse the rebuker of offending earth, heaven, or sky
+    as a deity and state that the offended deity will strike the rebuker.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that whatever the speaker says to the rebuker or says in
+    reply will assuredly be fulfilled.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says that only auspicious things should be said to a Brahmin,
+    and reports Saravira Mandikeya as saying that Brahmins should be honoured.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the imprecation instructions, breath is identified as the beam.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If rebuked, a strong speaker says he has grasped the beam, breath; a weak
+    speaker says the opponent could not overcome one fain to grasp the beam, breath;
+    in both cases breath, the beam, is said to forsake the opponent.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The reciters of the Nirbhuja identify the former syllable with the former
+    half, the latter syllable with the latter half, and the space between them with
+    the union.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: One who knows the union is said to obtain children, cattle, fame, glory, the
+    world of heaven, and to live all his days.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: Hrasva Mandikeya gives an expanded Nirbhuja teaching in which the union is
+    the space between the halves because it produces union, distinguishes accented
+    and unaccented, and separates the mora from what is not.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: benefit-seeking reciter
+  description: A person who recites Nirbhuja, Pratrnna, or Ubhayamantarena according
+    to the desired result and who may be rebuked.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: rebuker
+  description: Another person who may rebuke the reciter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: earth, the deity
+  description: Earth is named as the deity offended by rebuke of the Nirbhuja reciter
+    and as the deity who will strike.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: heaven, the deity
+  description: Heaven is named as the deity offended by rebuke of the Pratrnna reciter
+    and as the deity who will strike.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: sky, the deity
+  description: Sky is named as the deity offended by rebuke of the Ubhayamantarena
+    reciter and as the deity who will strike.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Brahmin
+  description: A Brahmin is the person toward whom only auspicious speech should be
+    directed and who should be honoured.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Saravira Mandikeya
+  description: Named authority who says that even in exceeding prosperity one should
+    not speak ill to a Brahmin and that Brahmins should be honoured.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: breath, the beam
+  description: Breath is identified as the beam and is said to forsake the opponent
+    in the imprecation formula.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: reciters of the Nirbhuja
+  description: A group who teach that the former and latter syllables are the former
+    and latter halves and that the intervening space is the union.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: Hrasva Mandikeya
+  description: Named teacher who gives an expanded statement of the Nirbhuja teaching
+    about syllable halves and union.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: benefit-seeking ritual reciter
+  assigned_to:
+  - fig:1
+  basis: The passage prescribes different recitations depending on whether the desired
+    result is proper food, heaven, or both.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rebuker or opponent
+  assigned_to:
+  - fig:2
+  basis: The instructions describe what should be said if another person rebukes the
+    reciter.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: offended striking deity
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The formula says the rebuker has offended earth, heaven, or sky as deity
+    and that the deity will strike.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: recipient of auspicious speech and honour
+  assigned_to:
+  - fig:6
+  basis: The passage instructs that nothing except what is auspicious should be said
+    to a Brahmin and says Brahmins should be honoured.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named authoritative speaker
+  assigned_to:
+  - fig:7
+  basis: Saravira Mandikeya is cited for the dictum that Brahmins should not be spoken
+    ill of and should be honoured.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: vital support invoked in imprecation
+  assigned_to:
+  - fig:8
+  basis: Breath is called the beam and is invoked as something grasped by the speaker
+    and able to forsake the opponent.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: phonetic-ritual teacher or interpreter
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: The Nirbhuja reciters and Hrasva Mandikeya expound the relation between syllable
+    halves, intervening space, and union.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: earth as deity
+  literal_form: Earth named as a deity offended by a rebuke and able to strike.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heaven as deity
+  literal_form: Heaven named as a deity offended by a rebuke and able to strike.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sky as deity
+  literal_form: Sky named as a deity offended by a rebuke and able to strike.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: breath as beam
+  literal_form: Breath identified with a beam in the imprecation instructions.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: syllable halves and intervening union
+  literal_form: Former syllable as former half, latter syllable as latter half, and
+    the space between them as union.
+  associated_figures:
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Recitation, rebuke, and cosmic-deity replies
+  summary: The passage assigns specific recitations to desires for food, heaven, or
+    both, and instructs the reciter to answer a rebuker by naming an offended earth,
+    heaven, or sky deity who will strike.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Imprecations of breath as the beam
+  summary: In a second imprecation instruction, breath is identified as the beam;
+    the rebuked speaker frames his response according to strength or weakness and
+    says that breath, the beam, will forsake the opponent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Teaching on syllable union
+  summary: Nirbhuja reciters and Hrasva Mandikeya explain the former and latter syllables
+    as halves and the intervening space as union; knowledge of this union is said
+    to bring children, cattle, fame, glory, heaven, and a full lifespan.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual recitation for specified rewards
+  taxonomy_refs:
+  - sacred_exchange
+  basis: 'The passage links particular recitations with desired outcomes: proper food,
+    heaven, or both.'
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents a ritual prescription and promised result, not an
+    explicit negotiated exchange.
+- id: motif:2
+  label: offended cosmic deity punishes improper rebuke
+  taxonomy_refs:
+  - divine_judgment
+  basis: The rebuke formulas say that earth, heaven, or sky as deity has been offended
+    and will strike the rebuker.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives speech formulas; it does not narrate an actual punitive
+    event.
+- id: motif:3
+  label: efficacious imprecation or fulfilled speech
+  taxonomy_refs: []
+  basis: The text states that what the speaker says or replies will be fulfilled and
+    gives imprecations in which breath, the beam, will forsake the opponent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No narrower supplied taxonomy reference directly matches this speech-act
+    pattern.
+- id: motif:4
+  label: esoteric knowledge of union grants prosperity and heaven
+  taxonomy_refs:
+  - wisdom
+  basis: Knowledge of the union between syllable halves is said to produce children,
+    cattle, fame, glory, the world of heaven, and a full lifespan.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The wisdom is technical phonetic-ritual knowledge rather than a narrative
+    quest for wisdom.
+- id: motif:5
+  label: auspicious speech and honour toward Brahmins
+  taxonomy_refs: []
+  basis: The passage repeatedly states that only auspicious things should be said
+    to a Brahmin and cites Saravira Mandikeya that Brahmins should be honoured.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is primarily a ritual-social rule, so its status as a comparative
+    motif needs review.
+comparison_claims:
+- id: claim:1
+  claim: The editor's note places the passage's curse formulas alongside similar curse
+    passages in Sankhayana Aranyaka VII.10 and Chandogya Upanisad I.22.3.
+  claim_level: same_function
+  target: Sankhayana Aranyaka VII.10 and Chandogya Upanisad I.22.3 curse passages
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note supplies cross-references and the phrase 'similar curses'
+    but does not quote or summarize the parallels in the provided passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 100245-100258; Aitareya Aranyaka III.1.3 in passage
+  quote_or_summary: The passage prescribes Nirbhuja for proper food, Pratrnna for
+    heaven, and Ubhayamantarena for both; if rebuked, the reciter replies that the
+    rebuker has offended earth, heaven, or sky as deity and that the deity will strike.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 100258-100264 and 100297-100303; Aitareya Aranyaka III.1.3-4 in passage
+  quote_or_summary: The passage states that whatever the speaker says or replies will
+    be fulfilled; it also says only auspicious things should be said to a Brahmin
+    and cites Saravira Mandikeya that Brahmins should be honoured.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 100280-100302; Aitareya Aranyaka III.1.4 in passage
+  quote_or_summary: In the imprecations, breath is called the beam. A rebuked speaker
+    says either that he has grasped breath, the beam, or that the opponent could not
+    overcome one fain to grasp it, and says breath, the beam, will forsake the opponent.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 100304-100314; Aitareya Aranyaka III.1.5 in passage
+  quote_or_summary: Nirbhuja reciters say the former syllable is the former half,
+    the latter is the latter half, and the intervening space is the union; one who
+    knows this obtains children, cattle, fame, glory, heaven, and a full lifespan.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 100315-100323; Aitareya Aranyaka III.1.5 in passage
+  quote_or_summary: 'Hrasva Mandikeya gives an expanded Nirbhuja interpretation: the
+    union is the space between the halves because it produces union, distinguishes
+    accented and unaccented, and separates the mora from what is not; the same benefits
+    are then stated.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: note within lines 100263-100280
+  quote_or_summary: For similar curses, cf. Sankhayana Aranyaka, VIL, 10, and Chindogya
+    Upanisad, I, 22, 3.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main ritual prescriptions are clear, but the passage contains OCR irregularities
+    and source labeling that differs from the supplied source title; motif labels
+    should be reviewed by a human.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage text labels itself as Aitareya Aranyaka III.1.3-5 with Keith notes, while the requested source path and title were retained exactly as supplied.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l100245-l100323
+  passage_sha256=bd1fb15c62d8dea75e4fab9b76e7ae346c57f5f7393388b09954f278f58c253d
+

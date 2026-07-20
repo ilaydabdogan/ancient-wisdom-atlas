@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l17193-l17266
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: LITERATURE / HISTORICAL TEXTS / I. HAMMURAPI / TELL-EL-AMARNA; lines 17193-17266
+  start: '17193'
+  end: '17266'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents fragmentary cuneiform legal records from Gezer. One
+    tablet is described as a property sale involving slaves/persons, seals, named
+    persons, wives, a son, houses, and lost contract conditions. A second tablet identifies
+    the seal of Natan-jau, owner of a sold field, gives neighboring or associated
+    names, lists persons before whom the transaction was made, dates the document
+    by month and eponym year, and preserves part of a reverse-side clause concerning
+    return, non-receipt, sickness, and physical defect.
+  language: English with transliterated Akkadian names and phrases
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first tablet is said to have been found at Gezer and to record a sale
+    of property with slaves/persons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first fragment lists Turi-ilaa, his two wives, his son, three persons,
+    and two houses or possible houses; several contract lines are lost.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Seals or seal impressions are noted in both document contexts.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The second tablet identifies Natan-jau as owner of a field that has been sold.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The second tablet refers to the area of the field next to or associated with
+    Sini.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The reverse of the second tablet lists names before whom the matter occurred,
+    including Bu-sik, Zer-ukin, and Nergal-shar-usur.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The second tablet is dated to the fourth day of Shebat in the eponym year
+    of Akhi-ilai, governor of Carchemish.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A damaged reverse-side clause mentions return, non-receipt, an attack of bennu-sickness
+    for one hundred days, and another physical defect.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Turi-ilaa
+  description: Named person listed with his two wives and his son in the first sale
+    fragment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: two wives of Turi-ilaa
+  description: Two wives associated with Turi-ilaa in the list of persons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: son of Turi-ilaa
+  description: Son associated with Turi-ilaa in the list of persons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Natan-jau
+  description: Owner of the field which has been sold; a note identifies the Hebrew
+    form as Nethaniah.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Sini
+  description: Name associated with the field boundary or neighboring area.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Bu-sik
+  description: Named on the reverse in a list introduced by 'before'.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Zer-ukin
+  description: Named on the reverse in a list introduced by 'before'.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Nergal-shar-usur
+  description: Named on the reverse in a list introduced by 'before'.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Akhi-ilai
+  description: Named as eponym and governor of Carchemish for the year of the tablet.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: persons listed in sale record
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage says the tablet records a property sale with slaves/persons and
+    then lists Turi-ilaa, his two wives, and his son; the text is fragmentary.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: owner of sold field
+  assigned_to:
+  - fig:4
+  basis: The second tablet calls Natan-jau the owner of the field which has been sold.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: seal holder
+  assigned_to:
+  - fig:4
+  basis: The second tablet begins with the seal of Natan-jau and mentions seal impressions.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: adjacent or associated field name
+  assigned_to:
+  - fig:5
+  basis: The field area is described as next to or associated with Sini.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: named persons before whom transaction was recorded
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The reverse lists these names in clauses translated as 'before'.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: eponym and governor
+  assigned_to:
+  - fig:9
+  basis: The date formula names Akhi-ilai as eponym and governor of Carchemish.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: seal impressions
+  literal_form: seals / three seal impressions
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: sold field
+  literal_form: field which has been sold
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: houses
+  literal_form: two houses, uncertain reading
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sickness or defect clause
+  literal_form: bennu-sickness for one hundred days and other physical defect
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fragmentary property sale with persons and houses
+  summary: A Gezer tablet is described as a sale of property with slaves/persons.
+    The preserved list includes Turi-ilaa, his two wives, his son, three persons,
+    and possible houses; lost lines once contained contract conditions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sold field and seal of Natan-jau
+  summary: A second tablet identifies the seal of Natan-jau, owner of a sold field,
+    and describes the field area as next to or associated with Sini.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Witnesses and date formula
+  summary: The reverse of the second tablet lists names before whom the matter was
+    recorded and dates the record by Shebat day four and the eponym year of Akhi-ilai,
+    governor of Carchemish.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Damaged warranty-like reverse clause
+  summary: A damaged clause on the reverse refers to returning, not receiving, a hundred-day
+    period for bennu-sickness, and another physical defect.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sealed property-sale contract
+  taxonomy_refs: []
+  basis: The passage repeatedly frames the records as sales of property or a sold
+    field and notes seals or seal impressions as part of the document.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a documentary legal pattern, not a mythological motif; no available
+    taxonomy reference directly applies.
+- id: motif:2
+  label: sale record including persons and household property
+  taxonomy_refs: []
+  basis: The first tablet is described as a property sale with slaves/persons and
+    preserves a list including Turi-ilaa, his two wives, his son, three persons, and
+    possible houses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The tablet is broken, and the legal status of each listed person is only
+    partly recoverable from the supplied passage.
+- id: motif:3
+  label: warranty or defect clause in sale document
+  taxonomy_refs: []
+  basis: The damaged reverse clause mentions return, non-receipt, sickness for one
+    hundred days, and other physical defect.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The clause is fragmentary; its precise legal operation is uncertain from
+    the supplied text.
+- id: motif:4
+  label: eponym dating formula
+  taxonomy_refs: []
+  basis: The record is dated by month, day, and the eponym year of Akhi-ilai, governor
+    of Carchemish.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an administrative dating pattern rather than a mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17193-17266; introductory note to first tablet
+  quote_or_summary: The tablet was found at Gezer and is described as recording a
+    sale of property with slaves/persons.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 17193-17266; first tablet lines (5)-(9) and editorial brackets
+  quote_or_summary: The preserved lines list Turi-ilaa, his two wives, his son, three
+    persons, and two possible houses; seals are noted and several contract lines are
+    lost.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 17193-17266; B1 obverse lines (1)-(4)
+  quote_or_summary: The text gives the seal of Natan-jau, owner of the field which
+    has been sold, mentions three seal impressions, and refers to the field area next
+    to or associated with Sini.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 17193-17266; B1 reverse lines (1)-(4)
+  quote_or_summary: The reverse lists persons before whom the matter occurred, including
+    Bu-sik, Zer-ukin, and Nergal-shar-usur.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 17193-17266; B1 reverse/date lines (5)-(7)
+  quote_or_summary: '"Month of Shebat, day fourth. Eponym year of Akhi-ilai governor
+    of Carchemish."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: 17193-17266; B1 reverse damaged clause
+  quote_or_summary: A broken clause says he shall return, shall not receive, and mentions
+    an attack of bennu-sickness for a hundred days and another physical defect.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and primarily legal-administrative rather than
+    mythological. Motif candidates are documentary patterns only, with no direct taxonomy
+    matches from the supplied list.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological comparison claims were extracted because the supplied passage does not itself support a specific comparative myth claim.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l17193-l17266
+  passage_sha256=d7808456b1858863e17950327ede29862067b76d9b8115519b7506e32f270f0e
+

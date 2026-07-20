@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.south-american-among-indians-guiana-im-thurn-archive-l10481-l10554
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: HUNTING DOGS. 233. / SHOOTING FISH. / GAME ARROWS. 24) / THE RETURN FROM
+    HUNTING. 249:; lines 10481-10554
+  start: '10481'
+  end: '10554'
+  translation: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic
+    from the Interior of British Guiana'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes practical fire-making and fire-maintenance methods,
+    Indian meat cooking as pepper-pot with cassareep and peppers, cassava as a staple
+    vegetable food, and women’s work peeling, washing, grating, and pressing cassava
+    pulp in a matapie.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Warraus choose particular woods for fire-making because their friable grain
+    produces inflammable dust; the Macusi Apeiba wood produces little dust, so tinder
+    must be placed under the stick.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When travelling, the upright fire-making stick is kept unpeeled, and only
+    the amount needed is peeled each time so that it remains dry and usable.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After rain, dry heartwood is obtained by stripping fallen wood; other wood
+    is dried around the fire and then used as fuel.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A palm-leaf fan of definite shape is used instead of bellows.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Most mammals, birds, and fish are treated as meat, except introduced European
+    animals and a few tabooed indigenous animals described as unclean.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The described proper Indian meat dish is pepper-pot, made by boiling meat
+    or fish with peppers and cassareep.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Cassava roots are described as the staple vegetable food, made into bread
+    by most tribes and into farine by others.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Women prepare cassava by peeling, washing, grating the roots on a stone-studded
+    board, collecting the pulp, and placing it in a wicker-woven matapie.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Warraus
+  description: A named group using particular woods whose grain forms tinder-like
+    inflammable dust for fire-making.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Macusis
+  description: A named group using Apeiba wood, which is said to make little inflammable
+    dust and to require added tinder.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Indian traveller or fire-maker
+  description: An Indian who keeps the upright stick dry, strips fallen wood after
+    rain, and builds and maintains a fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Indian cooks or households
+  description: The passage describes Indian treatment of meat and the preparation
+    of pepper-pot as the proper meat dish.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Women preparing cassava
+  description: Women peel, wash, grate, collect, and press cassava pulp in the domestic
+    preparation scene.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: fire-maker
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage describes named groups and an Indian traveller in relation to
+    methods and materials for producing and maintaining fire.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: meat cook
+  assigned_to:
+  - fig:4
+  basis: The passage describes Indian cooking of meat or fish by boiling with peppers
+    and cassareep into pepper-pot.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: cassava preparer
+  assigned_to:
+  - fig:5
+  basis: Women are explicitly described preparing cassava roots by peeling, washing,
+    grating, and placing pulp into a matapie.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire made from sticks, dry heartwood, and fuel wood
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: wood
+  literal_form: Friable woods, Apeiba wood, fallen wood, heartwood, and fuel
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: palm-leaf fan
+  literal_form: Fan woven of young leaflets of a palm and used instead of bellows
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: pepper-pot
+  literal_form: Meat or fish boiled into thick soup with peppers and cassareep
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: cassava root
+  literal_form: Roots of the cassava plant used for bread or farine
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: matapie
+  literal_form: Long wicker-woven cassava-squeezer hanging from the roof
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Making and maintaining fire
+  summary: Woods and sticks are selected and managed to produce fire; after rain,
+    dry heartwood is exposed and other wood is dried around the fire, with a palm-leaf
+    fan used instead of bellows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Cooking meat as pepper-pot
+  summary: Meat or fish is boiled with peppers and cassareep into pepper-pot, while
+    certain animals are excluded as unclean or tabooed.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Preparing cassava
+  summary: Women peel, wash, and grate cassava roots, collect the pulp, and place
+    it into a hanging wicker matapie.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: friction fire-making and preservation of dry fire-sticks
+  taxonomy_refs: []
+  basis: The passage gives a repeated technique for producing fire from wood and keeping
+    the travelling stick dry and ready for use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic technology pattern rather than a narrated mythic
+    motif.
+- id: motif:2
+  label: fire recovered from wet forest conditions by patient preparation of heartwood
+  taxonomy_refs: []
+  basis: After heavy rain, the Indian strips fallen wood to find dry heartwood, makes
+    a small fire, dries other wood around it, and adds it as fuel.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a practical procedure, not a symbolic or mythic episode.
+- id: motif:3
+  label: cassava processing as characteristic domestic labor
+  taxonomy_refs: []
+  basis: The passage calls women preparing cassava a characteristic scene and describes
+    the sequence of peeling, washing, grating, and pressing.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a cultural practice motif in the passage, not a mythic narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10481-10488
+  quote_or_summary: Warraus choose friable woods that form inflammable dust; Macusi
+    Apeiba wood makes little dust, requiring tinder under the stick.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 10489-10496
+  quote_or_summary: During travel, the upright stick is kept unpeeled and only partly
+    peeled for each use so it remains dry and fit for use.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 10497-10509
+  quote_or_summary: After rain, fallen wood is stripped to find dry heartwood; other
+    wood is dried around the fire; a woven palm-leaf fan is used instead of bellows.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 10510-10530
+  quote_or_summary: Most mammals, birds, and fish are meat except unclean or tabooed
+    animals; meat or fish is boiled with peppers and cassareep into pepper-pot.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 10531-10536
+  quote_or_summary: Cassava roots are the staple vegetable food, made into bread by
+    most tribes and into farine by others; cassava preparation by women is called
+    characteristic of Indian life.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 10537-10554
+  quote_or_summary: Women peel, wash, grate, and collect cassava pulp; the pulp is
+    put into a long wicker-woven matapie hanging from the roof.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive ethnography with clear practical actions and objects.
+    Motif candidates are limited to recurring cultural practice patterns because no
+    mythic narrative or explicit comparison is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another motif family, pattern, or corpus tradition beyond the described practices.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-among-indians-guiana-im-thurn-archive__l10481-l10554
+  passage_sha256=4069957d5d05c6fd1b15a76f1c43fb819d333a65740ec0151dc5290213806c68
+

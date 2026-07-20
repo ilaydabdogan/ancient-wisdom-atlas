@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l208-l225
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: Popular Tales of the West Highlands, Volume 1 / INTRODUCTION. / THE FAIRY
+    EGG, AND WHAT CAME OUT OF IT.; lines 208-225
+  start: '208'
+  end: '225'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The editor argues that the collection's resemblance to other collections
+    supports a common origin and says evidence is needed for his belief in the tales'
+    antiquity and genuineness. He introduces an account by Hector MacLean, who collected
+    stories in the Long Island. MacLean reports that in Barra people commonly gather
+    on long winter nights at the houses of good reciters, and that they favor tales
+    describing very rapid changes of place.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The collection is said to resemble other collections already made.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor presents that resemblance as an argument for a common origin of
+    the stories and of the people who tell them.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The editor says he must give evidence for his belief in the antiquity and
+    genuineness of the traditions.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Mr. Hector MacLean is identified as a parish schoolmaster at Ballygrant in
+    Islay and as someone known to the editor from boyhood.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the editor's request, Hector MacLean collected stories during the previous
+    summer in the Long Island.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In Barra, the recitation of tales during long winter nights is described as
+    still very common.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: People gather in crowds at the houses of those regarded as good reciters to
+    listen to stories.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The people are said to be fondest of tales describing exceedingly rapid changes
+    of place; the provided passage cuts off before the sentence is complete.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: editor-narrator
+  description: The first-person speaker who argues from resemblance, asks for evidence,
+    and requested story collection from Hector MacLean.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mr. Hector MacLean
+  description: Parish schoolmaster at Ballygrant in Islay; he provides the account
+    and collected stories in the Long Island at the editor's request.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: people in Barra
+  description: People who gather in crowds to listen to tale recitations and who prefer
+    certain tales.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: good reciters
+  description: People whose houses are gathering places for listeners because they
+    are considered good reciters.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: editorial arguer and requester
+  assigned_to:
+  - fig:1
+  basis: The speaker frames the argument about resemblance and antiquity and says
+    MacLean collected stories at his request.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: local collector and account-giver
+  assigned_to:
+  - fig:2
+  basis: MacLean is named as the source of the account and as having collected stories
+    in the Long Island.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: tale audience
+  assigned_to:
+  - fig:3
+  basis: The people gather in crowds to listen to stories.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: tale reciters
+  assigned_to:
+  - fig:4
+  basis: They are considered good reciters, and listeners gather at their houses.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial argument for antiquity and common origin
+  summary: The editor states that resemblance between this collection and other collections
+    supports a common origin, but says he must present evidence for antiquity and
+    genuineness.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: MacLean's report on Barra tale recitation
+  summary: The editor introduces Hector MacLean's account. MacLean reports that in
+    Barra people gather on winter nights at the houses of good reciters and favor
+    tales involving rapid changes of place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: communal winter-night tale recitation
+  taxonomy_refs: []
+  basis: The passage describes tale recitation during long winter nights as common,
+    with crowds gathering at the houses of good reciters.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a social narrative-performance pattern rather than a mythic plot
+    motif.
+- id: motif:2
+  label: exceedingly rapid changes of place
+  taxonomy_refs: []
+  basis: The passage says listeners are fondest of tales that describe exceedingly
+    rapid changes of place.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The quoted sentence is incomplete in the supplied passage, so the exact
+    narrative context of the rapid movement is not available.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself claims that resemblance between this collection and other
+    already-made collections is a strong argument for a common origin of the stories
+    and of the people who tell them.
+  claim_level: common_inheritance
+  target: other story collections already made
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name the other collections or provide specific
+    parallel motifs; it reports the editor's methodological claim rather than demonstrating
+    the comparison in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 208-214
+  quote_or_summary: The editor says the collection resembles others already made,
+    treats this as an argument for common origin, and says he must provide evidence
+    for antiquity and genuineness.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 216-220
+  quote_or_summary: The editor introduces an account by Mr. Hector MacLean, parish
+    schoolmaster at Ballygrant in Islay, who collected stories in the Long Island
+    at the editor's request.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 221-225
+  quote_or_summary: MacLean reports that in Barra tale recitation during long winter
+    nights is common; people gather at houses of good reciters, and they favor tales
+    describing exceedingly rapid changes of place.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly editorial and ethnographic rather than a narrative
+    tale. Motif candidates are limited to reported performance patterns and the incomplete
+    note about tales involving rapid changes of place.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol refs were assigned because the available taxonomy does not directly match the explicitly described patterns in this excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l208-l225
+  passage_sha256=9a7183b5de4a6708bf675c93fc83099ae6a42c2c7f341ba91894782ff8de606d
+

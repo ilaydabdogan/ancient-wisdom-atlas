@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l2998-l3012
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: I  KTH.  ANN.  18 / WATERPROOF    GARMENTS / EAR-FLAPS / GLOVES   AND   MITTENS;
+    lines 2998-3012
+  start: '2998'
+  end: '3012'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Yupik/Inupiaq mitten materials and forms, including
+    woven grass mittens, winter animal-skin mittens, and large white-skin mittens
+    used by seal hunters on spring ice as a shield and snow-colored blind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mittens of woven grass are made on the lower Yukon and toward the Kuskokwim.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Winter mittens are made from the skins of dogs, reindeer, wolves, and cormorants.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Along the coast, seals are hunted on the ice during spring months.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Large mittens of white bearskin or white dogskin are made to reach from the
+    hand to slightly above the elbows.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hunters wear the large white mittens while creeping prone on the ice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hunter carries the left arm bent across the front of the face and head
+    so the mitten serves as a shield.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The bushy white hair of the mitten resembles the snow surface in color and
+    serves as a blind against the seal observing the hunter.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: seal hunters
+  description: Hunters who wear large white-skin mittens and creep prone on spring
+    ice while approaching seals.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: seals
+  description: Animals hunted on the ice; the mitten blind is used to prevent them
+    from observing the hunter's approach.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: animal skin sources
+  description: Dogs, reindeer, wolves, cormorants, white bears, and white dogs are
+    named as sources of mitten skins.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: hunter and wearer
+  assigned_to:
+  - fig:1
+  basis: Hunters wear the large mittens while seal hunting on spring ice.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: shielded and concealed approacher
+  assigned_to:
+  - fig:1
+  basis: The hunter creeps prone, uses the mittened left arm as a shield, and benefits
+    from the snow-colored hair as a blind.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: hunted animal and potential observer
+  assigned_to:
+  - fig:2
+  basis: Seals are hunted on the ice, and the mitten blind prevents the seal from
+    observing the hunter's approach.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: skin-source animals
+  assigned_to:
+  - fig:3
+  basis: The passage names animals whose skins are used to make winter or seal-hunting
+    mittens.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: woven grass mittens
+  literal_form: mittens of woven grass
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: winter animal-skin mittens
+  literal_form: clumsily shaped winter mittens made from skins of dogs, reindeer,
+    wolves, and cormorants
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: large white seal-hunting mittens
+  literal_form: huge mittens of white bearskin or white dogskin reaching from the
+    hand to above the elbows
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: snow-colored mitten hair as blind
+  literal_form: bushy white hair on the mitten, similar in color to the snow surface
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ice and snow hunting surface
+  literal_form: ice during spring months and the surface of the snow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: regional and seasonal mitten manufacture
+  summary: The passage lists woven grass mittens from the lower Yukon to the Kuskokwim
+    and winter mittens made from several animal skins.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: spring seal hunting with white mittens
+  summary: On coastal spring ice, hunters wear long white animal-skin mittens, creep
+    prone, hold the left arm before the face and head as a shield, and use the snow-colored
+    hair as concealment from seals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: camouflaged approach in hunting
+  taxonomy_refs: []
+  basis: The white, bushy mitten hair matches the snow surface and functions as a
+    blind so the seal does not observe the hunter's approach.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a practical ethnographic hunting technique, not a mythic narrative
+    motif in the passage.
+- id: motif:2
+  label: garment used as shield
+  taxonomy_refs: []
+  basis: The hunter carries the left arm across the face and head while creeping,
+    and the mitten serves as a shield.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes functional clothing and hunting equipment rather
+    than a symbolic or ritual scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2998-3000
+  quote_or_summary: Mittens of woven grass are made on the lower Yukon toward the
+    Kuskokwim; winter mittens are made from skins of dogs, reindeer, wolves, and cormorants.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:2
+  type: summary
+  locator: 3004-3006
+  quote_or_summary: Where seals are hunted on spring ice along the coast, large mittens
+    of white bearskin or white dogskin reach from the hand to a little above the elbows.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: 3007-3009
+  quote_or_summary: Hunters wear the large mittens while creeping prone on the ice;
+    the left arm is bent across the face and head so the mitten serves as a shield.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:4
+  type: quote
+  locator: 3010-3012
+  quote_or_summary: The bushy white hair on the mitten is similar to the snow surface
+    and serves as a blind to prevent the seal from observing the hunter's approach.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are limited to practical
+    hunting patterns visible in the passage. No comparative claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied because the passage concerns material culture and hunting camouflage rather than the listed mythic motif families.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l2998-l3012
+  passage_sha256=4422a6cfb81f174bf29981f2e0d2e9f7aaff1b34e9fa6bcad680fcbdb25e42a5
+

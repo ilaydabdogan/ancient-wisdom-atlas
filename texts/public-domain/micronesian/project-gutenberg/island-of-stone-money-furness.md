@@ -1,4 +1,65 @@
+---
+id: micronesian.island_of_stone_money.furness_archive
+title: 'The Island of Stone Money: Uap of the Carolines'
+alternate_titles:
+- The Island of Stone Money
+text_status: complete
+tradition: micronesian
+culture: yapese_traditions_and_religion
+region: micronesia_yap
+source_language: Yapese oral traditions mediated through English
+text_language: English
+date_range: living oral traditions; two months' residence 1903 with interpreter; published
+  1910
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.cu31924023500543
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1910 J. B. Lippincott
+    edition (Cornell University scan)
+  translator: William Henry Furness
+  editor: ''
+  publication_year: 1910
+  publisher: Internet Archive
+  source_url: https://archive.org/details/cu31924023500543
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1910, US public domain. Recording context - chapters on Yapese
+    religion, afterlife (falraman), creation legends, and folk-tales collected through
+    a resident interpreter; short residence, paraphrased narratives - treat as secondary-grade
+    field record. Pairs with Christian for the Micronesia target.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- micronesia
+- yap
+- stone_money
+- isolated_lineage
+motifs:
+- creation
+- afterlife
+- spirit_beings
+figures: []
+---
+
 # The Island of Stone Money: Uap of the Carolines
+
 CHAPTER I
 
 INTEODUCTORY
@@ -3094,7 +3155,7 @@ that the old man had invented a cipher for all
 
 Patuinak's Account
 
-F sj Irads In Ccconutc
+F<sj Irads In Ccconutc
 
 1. Bac of Flour — 800
 
@@ -4157,5 +4218,4 @@ would not wish, at least for a season, to renew,
 "through the verdurous glooms" of the tropics, a life as simple, as equable, as hospitable as
 that which I received at the hands of the
 natives of TJap.
-
 

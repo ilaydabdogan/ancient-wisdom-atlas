@@ -1,0 +1,455 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l6229-l6385
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: AKTI FACTS / T.AKTAT / POTTERY / BASKETRY; lines 6229-6385
+  start: '6229'
+  end: '6385'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Ethnographic description of Pima basketry: women make baskets in many
+    homes; willow, cat-tail, and devil''s claw are principal materials; other plant
+    materials and implements are described, along with preparation methods, substitutions,
+    and brief comparisons to Yavapai and Papago practices.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Basket making is practiced in nearly every Pima home, and the work is done
+    by women; skilled makers produce useful, durable, and attractive wares.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage links recent poverty to the tribe's river water being taken and
+    states that some women began producing baskets for immediate sale without full
+    training in girlhood.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The three most important basketry materials named are willow, cat-tail stems,
+    and devil's claw pods.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: Willow twigs are gathered in March before the leaves appear, stripped with
+    teeth and thumbs, split with teeth and hands, and kept in coils.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Pimas use willow for the weft, while the Yavapais at old Fort McDowell
+    use willow for the white outside of baskets and for the inner coil.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Cat-tail stems are gathered green in July, split, dried, and used as foundation
+    material in common baskets.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Devil's claw pods are black on the surface and are used to contrast with white
+    willow in basket designs.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Devil's claw is prepared by soaking, burying in moist earth, digging up, and
+    stripping the outer fiber, often by a party of women working together.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Other plant materials include agave leaves, cottonwood branches, wheat straw,
+    arrow bush, reeds, crucifixion thorn, and saltbushes, with several described as
+    substitutes or materials for particular basketry forms.
+  category: object
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: obs:10
+  text: The only implements named for common basket manufacture are awls and knives;
+    awls were formerly bone or mesquite wood and are now steel with wooden or gum
+    handles.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Pima women basket makers
+  description: Women who make baskets, gather or prepare materials, and in one described
+    work party strip devil's claw fibers.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Pimas
+  description: The Pima community whose basketry materials, methods, and changes in
+    practice are described.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Yavapais at old Fort McDowell
+  description: A neighboring group mentioned as using willow for the white outside
+    of baskets and for the inner coil.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Papagos
+  description: A neighboring group from whom agave-leaf baskets are chiefly obtained.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: basket makers
+  assigned_to:
+  - fig:1
+  basis: The passage states that basket-making work is done by women and describes
+    women preparing devil's claw fiber.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: community described
+  assigned_to:
+  - fig:2
+  basis: The passage describes Pima basketry practice, Pima uses of willow, and materials
+    used in Pima basketry.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: neighboring comparative groups
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage compares Yavapai willow use and states that agave-leaf baskets
+    are chiefly obtained from the Papagos.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: material preparers
+  assigned_to:
+  - fig:1
+  basis: Women are described as digging up and stripping devil's claw fibers in a
+    work party.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: basket
+  literal_form: Useful, durable, and handsome basketry wares; common baskets, grain
+    baskets, storage bins, cradle shields, and sleeping mats are also mentioned.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: willow tree and willow splints
+  literal_form: Willow twigs, bark, and split strips used in basketry, especially
+    by the Pimas for weft.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: river water
+  literal_form: River water said to have been taken from the tribe, contributing to
+    poverty.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: cat-tail stems
+  literal_form: Split and dried cat-tail stems used as foundation material in common
+    baskets.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: devil's claw pod
+  literal_form: Black, hooked Martynia pods whose outer fiber is stripped and used
+    to make dark design elements contrasting with white willow.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: awl and knife
+  literal_form: Awls and knives used in common basket manufacture; knives trim willow
+    strips.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Household basket-making and economic pressure
+  summary: Basketry is described as a common household practice performed by women;
+    the passage also notes poverty after river water loss and a resulting shift toward
+    immediate market production by some less-trained makers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Willow harvesting and preparation
+  summary: Willow twigs are gathered, stripped, split into even strips, and stored
+    in coils; Pima and Yavapai uses of willow are distinguished.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Devil's claw preparation work party
+  summary: Devil's claw pods are stored, soaked or otherwise softened, and stripped
+    for black design fibers by women working together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Plant substitutions and environmental change
+  summary: Agave, cottonwood, wheat straw, arrow bush, and reeds are described as
+    materials or substitutes; reed mats have become rare after drought, with agave
+    used instead.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Basketry implements
+  summary: Awls and knives are the implements named for common basket manufacture,
+    with changes in awl materials from bone or mesquite to steel with handles.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  - sym:2
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: women's household basket-making craft
+  taxonomy_refs: []
+  basis: The passage states that basketry is practiced in nearly every Pima home and
+    that the work is done by women, requiring time and patience.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic craft pattern, not a mythic narrative motif in
+    the supplied passage.
+- id: motif:2
+  label: plant materials transformed into basketry through specialized preparation
+  taxonomy_refs: []
+  basis: The passage gives detailed preparation sequences for willow, cat-tail, and
+    devil's claw before their use in baskets.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The pattern is technological and material-cultural; no sacred or narrative
+    function is stated.
+- id: motif:3
+  label: visual design through dark and light plant-fiber contrast
+  taxonomy_refs: []
+  basis: Black devil's claw fiber is valued for contrast with white willow in forming
+    basket designs.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes design contrast literally and does not assign symbolic
+    meaning to the colors.
+- id: motif:4
+  label: environmental and economic disruption affecting craft practice
+  taxonomy_refs: []
+  basis: The passage associates river-water loss and poverty with less-trained basket
+    production for sale, and drought with the disappearance of reeds formerly used
+    for sleeping mats.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The two disruptions are described in separate parts of the passage; the
+    extraction links them only as a broad ethnographic pattern of changed craft conditions.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a limited comparison between Pima and Yavapai basketry:
+    both are described as using willow, but for different structural parts of baskets.'
+  claim_level: same_function
+  target: Yavapais at old Fort McDowell basketry
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to willow use in basket construction and
+    does not establish broader cultural relationship or historical contact.
+- id: claim:2
+  claim: 'The passage supports a limited comparison between Pima and Papago basketry
+    around agave leaves: Pimas sometimes use agave leaves, while agave-leaf baskets
+    are said to be obtained chiefly from Papagos.'
+  claim_level: same_function
+  target: Papago agave-leaf basketry
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states procurement and material overlap but gives no detailed
+    Papago manufacturing method or symbolic interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6229-6255
+  quote_or_summary: Basket making is practiced in nearly every Pima home; the work
+    is done by women and requires time and patience; poverty after river-water loss
+    has led some women to make baskets for immediate sale without earlier training.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6256-6295
+  quote_or_summary: Willow is named as a principal material; twigs are gathered before
+    leaves appear, stripped and split into strips, kept in coils, and used by Pimas
+    for weft, while Yavapais use willow for the white outside and inner coil.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6297-6304
+  quote_or_summary: Cat-tail stems are gathered green in July, split, dried, bundled,
+    and used as foundation in common baskets.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6305-6344
+  quote_or_summary: Devil's claw pods are gathered or cultivated, bundled, valued
+    for their black surface contrasting with white willow, soaked or buried, and stripped
+    for fiber, often by a party of women.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6346-6351
+  quote_or_summary: Agave leaves are sometimes used, with agave baskets obtained chiefly
+    from Papagos; cottonwood branches can substitute for willow but are less durable
+    and yellow with age.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6352-6355
+  quote_or_summary: Wheat straw is used extensively in jar-shaped grain baskets and
+    is identified as a modern introduction that has not fully replaced the older grain
+    bin style.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6357-6362
+  quote_or_summary: Arrow bush is described as the principal material formerly used
+    for storage bins or baskets, abundant along the river and easy to manipulate.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6364-6368
+  quote_or_summary: Reeds formerly common along the Gila disappeared after continuous
+    drought; sleeping mats once made from reeds are now rare, with agave leaf used
+    instead.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 6370-6371
+  quote_or_summary: A plate is described as illustrating crucifixion thorn surrounded
+    by saltbushes.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 6372-6385
+  quote_or_summary: Awls and knives are the only implements named for common basket
+    manufacture; awls were formerly bone or mesquite wood and are now steel with wooden
+    or gum handles; sharpened knives trim willow strips.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a concrete ethnographic description of basketry materials
+    and practices. Literal extraction is strong; motif candidates are treated as craft-pattern
+    candidates rather than mythological narrative motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic narrative, sacred episode, or cosmological motif is present in the supplied passage. Taxonomy references are used only for literal available symbols tree and water where directly named or implied by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l6229-l6385
+  passage_sha256=59914d518ca8b38dc756b6665e721b2ee25bf91d21a907140de1ee7921dd53fa
+

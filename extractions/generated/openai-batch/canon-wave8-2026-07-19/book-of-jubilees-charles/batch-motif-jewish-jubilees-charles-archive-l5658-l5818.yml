@@ -1,0 +1,435 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l5658-l5818
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER II. 12-23 17 / CHAPTER II. 24-29 19 / CHAPTERS II. 309-111 4 21 /
+    CHAPTER III. 5-9; lines 5658-5818
+  start: '5658'
+  end: '5818'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains Adam’s and his wife’s entry into the garden of Eden
+    after forty and eighty days, and uses these primordial intervals to ground laws
+    on childbirth impurity and purification written on the heavenly tables. It also
+    describes Eden and its trees as holy, and includes notes comparing this tradition
+    with Philo, Syncellus, the Book of Adam and Eve, Glycas, Beer, and Midrash Tadshe.
+  language: English, with Greek and Latin excerpts in notes
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Adam completed forty days in the land where he had been created before being
+    brought into the garden of Eden.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Adam was brought into the garden of Eden to till and keep it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Adam’s wife was brought into the garden of Eden on the eightieth day.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A commandment concerning the woman who gives birth is said to be written on
+    the heavenly tables.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: For a male child, the mother remains in uncleanness seven days and then thirty-three
+    days in the blood of purifying, during which she is not to touch hallowed things
+    or enter the sanctuary until the days are complete.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: For a female child, the mother remains in uncleanness two weeks and then sixty-six
+    days in purification, making eighty days in all.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After Adam’s wife completed eighty days, she was brought into the garden of
+    Eden.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The garden of Eden is described as holier than all the rest of the earth.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Every tree planted in the garden of Eden is described as holy.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The note reports a tradition in the Book of Adam and Eve in which Adam makes
+    offerings for Cain at forty days and for Cain’s twin sister Luluwa at eighty days.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The note reports that Midrash Tadshe explains purification periods for male
+    and female births by reference to the creation or later entry of Adam and Eve.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Adam
+  description: The man created in the land outside Eden, brought into the garden after
+    forty days to till and keep it.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Adam’s wife
+  description: Adam’s wife, brought into the garden of Eden on the eightieth day;
+    the notes identify her as Eve.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Woman who gives birth
+  description: The legal subject of the childbirth purification commandment for male
+    and female children.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: primordial garden-keeper
+  assigned_to:
+  - fig:1
+  basis: Adam is brought into Eden to till and keep it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: eighty-day entrant into Eden
+  assigned_to:
+  - fig:2
+  basis: Adam’s wife is brought into Eden on or after the eightieth day.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: primordial precedent for purification timing
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The forty-day and eighty-day timings for Adam and his wife are used to explain
+    the childbirth purification statute.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: childbirth purification subject
+  assigned_to:
+  - fig:3
+  basis: The commandment specifies periods of uncleanness and purification for the
+    woman who bears a male or female child.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: garden of Eden
+  literal_form: holy garden into which Adam and his wife are brought
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: heavenly tables
+  literal_form: tables on which the childbirth commandment is written
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: holy trees of Eden
+  literal_form: every tree planted in the garden of Eden
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: forty and eighty days
+  literal_form: forty-day interval for Adam and male-related purification; eighty-day
+    interval for Adam’s wife and female-related purification
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: sanctuary restriction
+  literal_form: hallowed thing and sanctuary not to be touched or entered until purification
+    days are complete
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Adam enters Eden after forty days
+  summary: After forty days in the land where he was created, Adam is brought into
+    Eden to till and keep the garden.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Adam’s wife enters Eden after eighty days
+  summary: Adam’s wife is brought into Eden on or after the eightieth day.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: scene:3
+  label: Heavenly tablet childbirth law
+  summary: A commandment written on the heavenly tables prescribes different impurity
+    and purification periods for mothers of male and female children, including limits
+    on sanctuary access.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Holiness of Eden and its trees
+  summary: Eden is described as holier than all the rest of the earth, and every tree
+    planted in it is holy.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: primordial precedent for ritual purification periods
+  taxonomy_refs: []
+  basis: The passage links childbirth impurity and purification periods to the forty-day
+    and eighty-day entry timings of Adam and his wife into Eden.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-internal etiological pattern; no supplied taxonomy family
+    matches it exactly.
+- id: motif:2
+  label: law written on heavenly tablets
+  taxonomy_refs: []
+  basis: The childbirth commandment is said to be written on heavenly tables.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly call this a covenant, so no covenant taxonomy
+    reference is assigned.
+- id: motif:3
+  label: sacred garden as holier-than-earth precinct
+  taxonomy_refs: []
+  basis: Eden is described as holier than all the earth besides, with holy trees planted
+    in it.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage supports Eden as a holy place but does not explicitly present
+    it as a world center or axis.
+- id: motif:4
+  label: forty/eighty-day gendered ritual timing
+  taxonomy_refs: []
+  basis: The passage repeatedly pairs forty days with Adam or male birth and eighty
+    days with Adam’s wife or female birth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a structural timing motif rather than a named taxonomy motif in
+    the supplied list.
+comparison_claims:
+- id: claim:1
+  claim: The note presents the Book of Adam and Eve as preserving a similar forty/eighty-day
+    pattern through offerings for Cain and Luluwa.
+  claim_level: same_motif
+  target: Book of Adam and Eve tradition of offerings at forty and eighty days
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the editor’s note in the supplied passage; it
+    does not establish historical contact by itself.
+- id: claim:2
+  claim: The note presents Midrash Tadshe as a nearby Jewish interpretive analogue
+    explaining male and female purification periods by reference to Adam and Eve traditions.
+  claim_level: same_function
+  target: Midrash Tadshe explanation of childbirth purification periods
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs:
+  - ev:9
+  confidence: medium
+  limitations: The same note also reports disagreement about rabbinic attestation
+    and differing views among sages, so the comparison should not be treated as uniform
+    rabbinic tradition.
+- id: claim:3
+  claim: The notes report that Syncellus and Glycas knew a tradition of Adam entering
+    Paradise on the fortieth day and Eve on the eightieth day, matching the timing
+    pattern in this passage.
+  claim_level: same_motif
+  target: Syncellus and Glycas references to Adam and Eve entering Paradise after
+    forty/eighty days
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: These are later references reported in the notes; the passage does
+    not by itself prove direct dependence beyond the editor’s presentation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter III.9 within lines 5658-5818
+  quote_or_summary: Adam completed forty days in the land where he was created and
+    was brought into Eden to till and keep it.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Chapter III.9 within lines 5658-5818
+  quote_or_summary: Adam’s wife was brought into the garden on the eightieth day.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: Chapter III.10 within lines 5658-5818
+  quote_or_summary: "“the commandment is written on the heavenly tables in regard
+    to her that gives birth”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: Chapter III.10 within lines 5658-5818
+  quote_or_summary: For a male child, the mother remains unclean seven days, then
+    thirty-three days in purifying blood, and may not touch hallowed things or enter
+    the sanctuary until the period is complete.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Chapter III.11 within lines 5658-5818
+  quote_or_summary: For a female child, the mother remains unclean two weeks and then
+    sixty-six days in purification, totaling eighty days.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: Chapter III.12 within lines 5658-5818
+  quote_or_summary: "“we brought her into the garden of Eden, for it is holier than
+    all the earth besides, and every tree that is planted in it is holy.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: Editorial note within lines 5658-5818
+  quote_or_summary: The note says the Book of Adam and Eve recounts Adam making an
+    offering for Cain at forty days and for Cain’s twin sister Luluwa at eighty days,
+    when Eve and her daughter approached the altar.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: Editorial note on Midrash Tadshe within lines 5658-5818
+  quote_or_summary: The note reports Midrash Tadshe explaining seven and fourteen
+    days of purification, and forty and eighty days before temple entry, by recalling
+    Adam’s and Eve’s creation or Adam’s later entry into Eden.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: Editorial note on Beer and rabbinic literature within lines 5658-5818
+  quote_or_summary: The note reports Beer’s statement that there is no trace of this
+    legend in rabbinic literature and that Leviticus 12 regulations had no currency
+    before Moses, before qualifying that statement with Midrash Tadshe.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: Editorial notes on Syncellus and Glycas within lines 5658-5818
+  quote_or_summary: The notes report that Syncellus and Glycas refer to Adam entering
+    Paradise after forty days and Eve after eighty days, while Glycas quotes the Little
+    Genesis tradition with disapproval.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative is clear, but the supplied passage is interleaved with
+    dense editorial notes in several languages, so line-level separation of text and
+    note material should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported taxonomy motif family was assigned. The available symbol taxonomy supports only the tree reference among the extracted symbols.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l5658-l5818
+  passage_sha256=ecd483b1cec59540c6a099e591ddd5f71b376417e8eeb3befe25af2db3aa0396
+

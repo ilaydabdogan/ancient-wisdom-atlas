@@ -1,0 +1,523 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l17080-l17191
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: LITERATURE / HISTORICAL TEXTS / I. HAMMURAPI / TELL-EL-AMARNA; lines 17080-17191
+  start: '17080'
+  end: '17191'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains fragmentary Tell-el-Amarna-style correspondence, including
+    Abdi-khiba's address to the king as servant and officer, pleas for royal attention,
+    troops, officers, and messengers, an editorial introduction to the Lachish letter,
+    Pabi's report to a high official about an alleged conspiracy by Shipti-Ba'al and
+    Zimrida involving weapons and action against the king's land, and the beginning
+    of a Gezer tablet listing seals and property owners.
+  language: English with transliterated Akkadian
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Abdi-khiba addresses the king as his lord, identifies himself as the king's
+    servant, and says he falls at the king's feet seven times and seven times.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Abdi-khiba says he is not a prince but is an officer of the king.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Abdi-khiba asks the king to hearken, notes the absence of troops, and asks
+    for an officer and a messenger to be sent quickly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage describes the Lachish letter as found at Tell-el-Hesy, ancient
+    Lachish, and as belonging to the same series as the Tell-el-Amarna letters.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Pabi addresses a figure called the Great one and says he falls at that figure's
+    feet.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Pabi reports that Shipti-Ba'al and Zimrida are conspiring, with uncertainty
+    indicated in the translation.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The reported speech requests bows, daggers, and swords, and describes taking
+    the field against the land of the king with an expectation of conquest.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: Pabi says he has sent Rapi-el, who will bring intelligence concerning the
+    matter to the Great one.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:9
+  text: The Gezer tablet fragment lists seals of Marduk-riba and Abu-riba and refers
+    to owners of houses and a field.
+  category: object
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: the king / king my lord
+  description: The superior addressed by Abdi-khiba as lord; the land and troops are
+    described in relation to him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Abdi-khiba
+  description: Speaker who calls himself the king's servant and officer, and asks
+    the king for attention and assistance.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: requested officer
+  description: An officer whom Abdi-khiba asks the king to send to take the princes
+    with him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: troops
+  description: Military forces said to be absent and requested in the appeal to the
+    king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the Great one
+  description: The addressee of Pabi's letter, described in a note as a title of some
+    officer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Pabi
+  description: Speaker of the Lachish letter who reports a conspiracy and sends Rapi-el
+    with intelligence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:7
+  name_or_label: Shipti-Ba'al
+  description: Named in Pabi's report as conspiring with Zimrida and as speaking to
+    Zimrida.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: Zimrida
+  description: Named in Pabi's report as conspiring with Shipti-Ba'al and as addressee
+    of Shipti-Ba'al's reported speech.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:9
+  name_or_label: father of the city Yarami
+  description: A figure in the reported speech who is said to have written to Shipti-Ba'al
+    requesting weapons.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Rapi-el
+  description: A person Pabi says he has sent to bring intelligence to the Great one.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+- id: fig:11
+  name_or_label: Marduk-riba
+  description: Named as a seal owner in the Gezer tablet fragment.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:11
+- id: fig:12
+  name_or_label: Abu-riba
+  description: Named as a seal owner in the Gezer tablet fragment.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: addressed royal superior
+  assigned_to:
+  - fig:1
+  basis: The king is addressed as lord, receives prostration formulae, and is asked
+    to send assistance.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: subordinate correspondent
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Abdi-khiba and Pabi both speak in letter form to a superior and use deferential
+    address.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: royal officer
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Abdi-khiba calls himself an officer of the king, and another officer is requested
+    from the king.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: requested military support
+  assigned_to:
+  - fig:4
+  basis: The letter says there are no troops and asks for royal action in that context.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: addressed high official
+  assigned_to:
+  - fig:5
+  basis: The Lachish letter is addressed to the Great one, with a footnote explaining
+    the title as that of some officer.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: reported conspirator
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Pabi reports that Shipti-Ba'al and Zimrida are conspiring, though the translation
+    marks the word as uncertain.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: weapon requester in reported speech
+  assigned_to:
+  - fig:9
+  basis: The reported father of the city Yarami asks for bows, daggers, and swords.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: intelligence bearer
+  assigned_to:
+  - fig:10
+  basis: Pabi says Rapi-el will bring intelligence concerning the matter to the Great
+    one.
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: seal owner
+  assigned_to:
+  - fig:11
+  - fig:12
+  basis: The Gezer fragment identifies seals of Marduk-riba and Abu-riba.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: prostration at the feet of a superior
+  literal_form: Falling at the feet of the king or the Great one.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: sevenfold repeated homage formula
+  literal_form: The phrase that Abdi-khiba falls at the king's feet seven times and
+    seven times.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: requested weapons
+  literal_form: Bows, daggers, and swords requested in the reported speech.
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: seals in administrative tablet
+  literal_form: Seals of Marduk-riba and Abu-riba in the Gezer fragment.
+  associated_figures:
+  - fig:11
+  - fig:12
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Abdi-khiba's deferential appeal to the king
+  summary: Abdi-khiba addresses the king as lord, declares himself servant and officer,
+    performs the prostration formula, and asks the king to listen and send assistance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Editorial framing of the Lachish letter
+  summary: The text introduces the Lachish letter as a find from Tell-el-Hesy, ancient
+    Lachish, and relates it to the Tell-el-Amarna letter series.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Pabi reports a conspiracy and sends intelligence
+  summary: Pabi addresses the Great one, reports that Shipti-Ba'al and Zimrida are
+    conspiring, relays speech involving weapons and action against the king's land,
+    and sends Rapi-el to bring intelligence.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+- id: scene:4
+  label: Gezer seal and property fragment
+  summary: The Gezer tablet fragment begins by listing seals of Marduk-riba and Abu-riba
+    and mentions house and field ownership.
+  figure_refs:
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: formulaic prostration before a superior
+  taxonomy_refs: []
+  basis: Both Abdi-khiba and Pabi use a deferential falling-at-the-feet formula when
+    addressing a superior.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: This is a diplomatic and administrative formula in the passage, not a
+    mythic episode.
+- id: motif:2
+  label: subordinate appeal for royal protection or intervention
+  taxonomy_refs: []
+  basis: Abdi-khiba identifies himself as the king's servant and officer, reports
+    lack of troops, and asks the king to send an officer and messenger quickly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage supports a political appeal pattern; no divine or mythological
+    protector is present.
+- id: motif:3
+  label: conspiracy against the king's land
+  taxonomy_refs: []
+  basis: Pabi reports that Shipti-Ba'al and Zimrida are conspiring and relays a plan
+    involving weapons and taking the field against the king's land.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The translation marks the term 'conspiring' with uncertainty, so the exact
+    nature of the action should be reviewed.
+- id: motif:4
+  label: messenger as bearer of urgent intelligence
+  taxonomy_refs: []
+  basis: Abdi-khiba asks for a messenger to be sent quickly, and Pabi sends Rapi-el
+    to bring intelligence concerning the matter.
+  evidence_refs:
+  - ev:3
+  - ev:10
+  confidence: medium
+  cautions: This is an administrative communication pattern rather than a distinct
+    mythological motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents the Lachish letter as belonging to the same series
+    as the Tell-el-Amarna letters.
+  claim_level: same_function
+  target: Tell-el-Amarna letters
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is based on the editor's introductory statement and concerns
+    corpus affiliation and function, not a mythological motif equivalence.
+- id: claim:2
+  claim: The passage cautiously connects the Shipti-Ba'al named in the Lachish letter
+    with Shipti-Ba'al of Lakish known from the Tell-el-Amarna collection.
+  claim_level: historical_contact
+  target: Shipti-Ba'al of Lakish in the Tell-el-Amarna collection
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The identification is editorial and name-based; the passage says there
+    is no reason to doubt it, but independent verification is outside this extraction.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17080-17191 / F1 (1)-(5)
+  quote_or_summary: Abdi-khiba, servant of the king, says he falls at the feet of
+    the king, his lord, seven times and seven times.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 17080-17191 / F1 (5)-(6)
+  quote_or_summary: I am not a [prince] but an officer am I to the king, my lord.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 17080-17191 / F1 (13)-(30)
+  quote_or_summary: Abdi-khiba asks the king to hearken, says there are no troops,
+    asks the king to send an officer to take the princes with him, and asks for a
+    messenger quickly.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 17080-17191 / F1 (24)-(26)
+  quote_or_summary: The passage names Addaia as an officer of the king in a fragmentary
+    context involving a house.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 17080-17191 / section 5, introductory paragraph
+  quote_or_summary: The Lachish letter was found in Tell-el-Hesy, ancient Lachish,
+    and is described as obviously belonging to the same series as the Tell-el-Amarna
+    letters.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 17080-17191 / Lachish letter (1)-(4)
+  quote_or_summary: Pabi speaks to the Great one and says he falls at the addressee's
+    feet.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 17080-17191 / Lachish letter (4)-(9)
+  quote_or_summary: Pabi says Shipti-Ba'al and Zimrida are conspiring, with a question
+    mark in the translation, and that Shipti-Ba'al spoke to Zimrida.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 17080-17191 / Lachish letter (10)-(23)
+  quote_or_summary: Reported speech says that the father of the city Yarami wrote
+    requesting bows, daggers, and swords, and describes taking the field against the
+    king's land with Zimrida at one's side and conquering.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: note
+  locator: 17080-17191 / Lachish letter notes 1-2
+  quote_or_summary: A note says letters from Shipti-Ba'al exist in the Tell-el-Amarna
+    collection and that there is no reason to doubt this is the same person, called
+    Shipti-Ba'al of Lakish there.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage note.
+- id: ev:10
+  type: summary
+  locator: 17080-17191 / Lachish letter (24)-(26)
+  quote_or_summary: Pabi says he has sent Rapi-el, who will bring to the Great one
+    intelligence concerning the matter.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:11
+  type: summary
+  locator: 17080-17191 / Tablets from Gezer A1 (1)-(4)
+  quote_or_summary: The Gezer fragment lists the seal of Marduk-riba, the seal of
+    Abu-riba, two men as owners of houses and field, and the house of Lu-akhea in
+    a fragmentary context.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction relies on the supplied English translation and editorial notes.
+    Several passages are fragmentary, and some translated terms are marked uncertain;
+    motif labels are therefore framed as diplomatic or administrative patterns rather
+    than mythological claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs such as water, fire, tree, mountain, serpent, cave, or milk are directly supported in this passage. Motif taxonomy refs were left empty to avoid overmapping historical correspondence to mythic families.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l17080-l17191
+  passage_sha256=f93d4669211adc57c5ee2096269bed13d572ad4f6d7edb742ec3566dee058672
+

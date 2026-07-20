@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.slavic-fairy-tales-slav-peasants-chodzko-gutenberg-l2120-l2138
+source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+passage_locator:
+  label: THE MAID WITH HAIR OF GOLD / THE MAID WITH HAIR OF GOLD / THE JOURNEY TO
+    THE SUN AND THE MOON / THE JOURNEY TO THE SUN AND THE MOON; lines 2120-2138
+  start: '2120'
+  end: '2138'
+  translation: Fairy Tales of the Slav Peasants and Herdsmen
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Little Annette rejoices at Jean’s safe return, while her father had hoped
+    the Sun’s heat would destroy him. Jean returns safe, with knowledge about the
+    Sun and Moon, wealth greater than his father-in-law’s, and a vigorous steed. Annette’s
+    father can no longer object, and the wedding is celebrated with feasting, mead,
+    music, and echoes among the mountains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Little Annette is joyful because her lover has returned safely after an absence
+    during which she suffered.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Annette’s father had sent Jean to seek the Sun hoping Jean would be burned
+    by its heat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jean returns safe and sound with knowledge about why the Sun lights and warms
+    by day but not by night, and why the Moon lights at night without warmth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jean returns with riches exceeding those of his father-in-law and with a steed
+    described as full of fire and vigour.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Annette’s father can find no fault, and a wedding is celebrated with joy and
+    feasting.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The wedding feast includes roasted crane, mead, music, and echoes heard among
+    the mountains.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Little Annette
+  description: Jean’s lover, joyful at his safe return after weeping and suffering
+    during his absence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Jean
+  description: A young shepherd who returns safely from the journey, bringing knowledge,
+    riches, and a vigorous steed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Annette’s father
+  description: A father who did not want to see Jean again and had sent him to seek
+    the Sun hoping he would be burned.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: the Sun
+  description: A heavenly body whose heat Annette’s father hoped would burn Jean;
+    Jean learns why it does not light or warm the earth by night as it does by day.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: the Moon
+  description: A heavenly body about which Jean learns why it gives no warmth and
+    lights only during the night.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: rejoicing beloved
+  assigned_to:
+  - fig:1
+  basis: Annette is wild with joy at her lover’s safe return after suffering during
+    his absence.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: returning quester
+  assigned_to:
+  - fig:2
+  basis: Jean returns safe from the errand to the Sun with knowledge, riches, and
+    a steed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: hostile father-in-law
+  assigned_to:
+  - fig:3
+  basis: He wished never to see Jean again and had sent him on the errand hoping for
+    his death.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: wedding objector overcome by success
+  assigned_to:
+  - fig:3
+  basis: After Jean’s successful return, Annette’s father can find no fault and the
+    wedding proceeds.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: cosmic object of acquired knowledge
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Jean has learned explanatory knowledge about the Sun’s and Moon’s light and
+    warmth.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Sun
+  literal_form: the Sun, associated with heat, daytime light, and warmth
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Moon
+  literal_form: the Moon, associated with night light and lack of warmth
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fiery vigorous steed
+  literal_form: a steed described as full of fire and vigour
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mountains
+  literal_form: mountains where the wedding music echoes and is later heard by travellers
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wedding feast
+  literal_form: roasted crane, overflowing glasses of mead, and music at the wedding
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Safe return after hostile errand
+  summary: Annette rejoices because Jean returns safely, while her father had intended
+    the errand to the Sun to destroy him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return with knowledge and gifts
+  summary: Jean returns safe with knowledge about the Sun and Moon, with great riches,
+    and with a vigorous steed.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Wedding and enduring music
+  summary: Annette’s father has no remaining objection, and the wedding is celebrated
+    with food, mead, music, and echoes among the mountains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: successful return from dangerous quest
+  taxonomy_refs:
+  - return
+  - mystical_quest
+  basis: Jean returns safe from an errand to the Sun that was intended to kill him,
+    bringing knowledge and wealth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The broader journey itself is not narrated in this line range; only the
+    return and its results are described.
+- id: motif:2
+  label: knowledge gained from cosmic journey
+  taxonomy_refs:
+  - wisdom
+  basis: Jean returns with explanations concerning the behavior of the Sun and Moon.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives the content of the knowledge only in summary and does
+    not narrate the acquisition process here.
+- id: motif:3
+  label: marriage follows completion of hostile trial
+  taxonomy_refs:
+  - sacred_marriage
+  basis: After Jean survives the father’s deadly errand and returns enriched, the
+    father can find no fault and the wedding is celebrated.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The wedding is literal; any sacred or symbolic dimension is not explicit
+    in the passage.
+- id: motif:4
+  label: hostile in-law sends suitor toward death
+  taxonomy_refs:
+  - departure
+  basis: Annette’s father sends Jean in search of the Sun hoping the heat will burn
+    him up.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only the motive and outcome are present in the passage; earlier details
+    of the sending are outside this range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2120-2126
+  quote_or_summary: Annette rejoices at Jean’s safe return; her father had wished
+    not to see him again and had sent him to seek the Sun hoping he would be burned
+    by its heat.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 2126-2131
+  quote_or_summary: Jean returns safe and sound with more knowledge than his enemies,
+    including explanations of the Sun’s and Moon’s light and warmth.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 2131-2133
+  quote_or_summary: Jean brings riches greater than his father-in-law’s and a steed
+    full of fire and vigour.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 2134-2138
+  quote_or_summary: Annette’s father finds no fault; the wedding is celebrated with
+    roasted crane, mead, music, and echoes among the mountains.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the provided passage. Motif labels
+    are cautious because the passage describes the return and wedding rather than
+    the full quest episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison beyond available motif-family tagging.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-fairy-tales-slav-peasants-chodzko-gutenberg__l2120-l2138
+  passage_sha256=b874feeeb81ceef8a184bc03cc6059ad2305aa57e9bcb2539bca2b6fbf9b4a29
+

@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l1012-l1050
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: FORT CHIMO AND THE SURROUNDING REGION, / CLIMATE, / VEGETATION, / BIRDS.;
+    lines 1012-1050
+  start: '1012'
+  end: '1050'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A natural-history passage describes resident bird species in northern Ungava,
+    emphasizing the abundance and food value of Lagopus, winter variation in smaller
+    birds, the absence or scarcity of some water birds, and breeding observations
+    for gulls, terns, and smaller waders near Fort Chimo, Ungava Bay, and Hudson Strait.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fewer than twenty resident bird species were ascertained for the northern
+    portion of the Ungava district.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two Lagopus species are described as the most abundant birds in the region
+    and as an important food for inhabitants of the district.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Winter is said to exert an important influence on smaller resident species.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Four Acanthis species were extremely numerous in the winter of 1882-1883,
+    but no individuals were observed from mid-November to late March in the following
+    winter.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The white-winged crossbill was abundant during the first winter but only a
+    small apparently vagrant flock was observed during the last winter.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some expected water birds were conspicuously absent, and the country is described
+    as unfavorable for rearing young because little food is available.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Only a few water birds are said to breed near Fort Chimo.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Larus argentatus smithsonianus is identified as the only gull breeding abundantly
+    within Ungava Bay.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The Arctic tern is identified as the only tern ascertained to breed in Hudson
+    Strait, though the author is uncertain whether it breeds there every year.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Two smaller wader species were actually ascertained to breed near Fort Chimo,
+    and two or three additional species were observed under circumstances indicating
+    that they also breed there.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: resident birds of northern Ungava
+  description: The passage describes fewer than twenty resident bird species in the
+    northern portion of the Ungava district.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: two species of Lagopus
+  description: Two species of the genus Lagopus are described as the most abundant
+    birds in the region and as an important food source.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: four species of Acanthis
+  description: Four Acanthis species are described as very numerous in one winter
+    and absent during part of the following winter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: white-winged crossbill
+  description: The white-winged crossbill is described as abundant in the first winter
+    and represented only by a small apparently vagrant flock in the last winter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: expected water birds
+  description: Certain expected water birds are described as conspicuously absent
+    because the country does not provide suitable breeding conditions or food.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Larus argentatus smithsonianus
+  description: This gull is described as certainly the only gull breeding in abundance
+    within Ungava Bay.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Arctic tern
+  description: The Arctic tern is described as the only tern ascertained to breed
+    in Hudson Strait, with uncertainty about annual breeding.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: smaller waders
+  description: Two smaller wader species are said to breed near Fort Chimo, with two
+    or three more species probably breeding there based on observation.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: people inhabiting the district
+  description: The passage mentions inhabitants of the district in relation to Lagopus
+    as an important article of food.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: resident bird group
+  assigned_to:
+  - fig:1
+  basis: The passage states that fewer than twenty resident species were ascertained
+    in northern Ungava.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: abundant food bird
+  assigned_to:
+  - fig:2
+  basis: Lagopus species are described as the most abundant birds and an important
+    article of food.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: bird showing interannual winter variation
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Acanthis and the white-winged crossbill are each described with contrasting
+    abundance between winters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: expected but absent or restricted water birds
+  assigned_to:
+  - fig:5
+  basis: The passage says certain expected water birds were conspicuously absent and
+    that the country prevents many from rearing young.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: abundant breeding gull
+  assigned_to:
+  - fig:6
+  basis: The passage identifies this gull as the only one breeding abundantly in Ungava
+    Bay.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: ascertained breeding tern
+  assigned_to:
+  - fig:7
+  basis: The passage identifies the Arctic tern as the only tern ascertained to breed
+    in Hudson Strait.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: local breeding waders
+  assigned_to:
+  - fig:8
+  basis: The passage describes smaller wader species as breeding or probably breeding
+    near Fort Chimo.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: human consumers of local bird food
+  assigned_to:
+  - fig:9
+  basis: The passage states that Lagopus forms an important article of food for people
+    inhabiting the district.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Resident birds and food use
+  summary: The passage introduces resident bird species in northern Ungava and notes
+    that Lagopus species are especially abundant and important as food for local inhabitants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Winter variation among smaller birds
+  summary: The passage contrasts bird abundance across two winters, especially for
+    Acanthis species and the white-winged crossbill.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Water-bird breeding limits and confirmed breeders
+  summary: The passage explains the scarcity of some water birds and identifies breeding
+    observations for a gull, the Arctic tern, and smaller waders around Fort Chimo,
+    Ungava Bay, and Hudson Strait.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seasonal cycle of bird abundance and breeding
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly organizes bird observations around winter abundance
+    and breeding seasons, including interannual winter variation and July or 1884
+    breeding evidence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: This is a natural-history ethnographic passage, not a mythic narrative;
+    the seasonal-cycle tag marks a literal ecological pattern rather than a demonstrated
+    mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1012-1016
+  quote_or_summary: The section on birds states that fewer than twenty actual resident
+    species were ascertained for northern Ungava.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1017-1021
+  quote_or_summary: Two Lagopus species are described as the most abundant birds,
+    important as food, and winter is said to influence smaller resident species.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1021-1027
+  quote_or_summary: Acanthis species were extremely numerous in winter 1882-1883,
+    but none were observed from mid-November to late March in winter 1883-1884.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1027-1030
+  quote_or_summary: The white-winged crossbill was very abundant during the first
+    winter; during the last winter only a small apparently vagrant flock was observed.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1031-1036
+  quote_or_summary: Some expected water birds were absent; the country is described
+    as poor for rearing young because little food is available, and only a few breed
+    near Fort Chimo.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1036-1043
+  quote_or_summary: Larus argentatus smithsonianus is identified as the only gull
+    breeding abundantly in Ungava Bay; the Arctic tern is the only tern ascertained
+    to breed in Hudson Strait, with uncertainty about yearly breeding and eggs secured
+    in 1884.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1044-1048
+  quote_or_summary: Two smaller wader species were ascertained to breed near Fort
+    Chimo, and two or three more were observed under conditions indicating that they
+    also breed there.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is descriptive ornithology rather than mythology. Literal extraction
+    is straightforward; motif tagging is limited to a cautious seasonal-cycle pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage contains OCR and typographical irregularities in the supplied text; species names and dates were interpreted conservatively from the provided passage only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l1012-l1050
+  passage_sha256=b02fc0f4bbf91841e53591fc630a05556f6c2edfb3bf8c8b3e18167f17a05220
+

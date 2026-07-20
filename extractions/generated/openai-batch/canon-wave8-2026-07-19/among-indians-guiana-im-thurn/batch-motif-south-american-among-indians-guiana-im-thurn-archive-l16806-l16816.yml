@@ -1,0 +1,181 @@
+---
+record_id: batch.motif.south-american-among-indians-guiana-im-thurn-archive-l16806-l16816
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: SHELL-MOUNDS. / EAR-RINGS. / STONE IMPLEMENTS. / STANDING STONES.; lines
+    16806-16816
+  start: '16806'
+  end: '16816'
+  translation: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic
+    from the Interior of British Guiana'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports, on C. Barrington Brown’s authority, a circle of square
+    standing stones in the Pacaraima mountains between Mora and Itabay; one stone
+    has a carving. Brown also notes that the circle is very like a stone circle at
+    Stanton Moor shown in Ferguson’s Rude Stone Monuments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a circle of standing stones as one of the remaining traces
+    of old Indian life.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The report is given on the authority of Mr. C. Barrington Brown.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stone circle is located in the Pacaraima mountains, between the villages
+    of Mora and Itabay, where a path passes through it.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stones are described as square stones placed on one end.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One of the stones is described as having a carving on it.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Brown adds a comparison between the described stone circle and one at Stanton
+    Moor shown in Ferguson’s Rude Stone Monuments.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mr. C. Barrington Brown
+  description: Named authority for the report of the standing-stone circle and the
+    comparison note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: reporting authority
+  assigned_to:
+  - fig:1
+  basis: The passage states that the traces are given on Brown’s authority and then
+    quotes or summarizes Brown’s description and note.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: standing-stone circle
+  literal_form: A circle of square stones placed upright on one end.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: carved stone
+  literal_form: One stone in the circle with a carving on it.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Pacaraima mountains
+  literal_form: Mountain setting where the path passes through the stone circle.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Report of a standing-stone circle in the Pacaraima mountains
+  summary: Brown’s report describes a path between Mora and Itabay passing through
+    a circle of upright square stones, including one carved stone, and notes a visual
+    resemblance to a Stanton Moor stone circle.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: standing-stone circle with carved stone
+  taxonomy_refs: []
+  basis: The passage describes a circle of upright square stones, including one with
+    a carving, presented as a trace of old Indian life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives no ritual, mythic, or narrative function for the stones;
+    the motif label is based only on the reported physical arrangement.
+comparison_claims:
+- id: claim:1
+  claim: Brown states that the Guiana stone circle is very like a stone circle at
+    Stanton Moor shown in Ferguson’s Rude Stone Monuments.
+  claim_level: visual_similarity
+  target: Stanton Moor stone circle as shown in Ferguson’s Rude Stone Monuments
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports only a reported visual likeness; it does not claim
+    shared origin, function, historical contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16806-16810
+  quote_or_summary: The passage introduces the standing stones as a trace of old Indian
+    life and states that the account is given on the authority of Mr. C. Barrington
+    Brown.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 16810-16814
+  quote_or_summary: Brown reports that in the Pacaraima mountains, between Mora and
+    Itabay, the path passes through a circle of upright square stones, one of which
+    has a carving.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 16814-16816
+  quote_or_summary: Brown’s note says the circle is very like the Stanton Moor example
+    shown in Ferguson’s Rude Stone Monuments.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The physical description and reported comparison are explicit, but the passage
+    gives no mythic narrative or ritual interpretation for the standing stones.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or common-inheritance claim is made; the comparison is limited to Brown’s reported visual similarity.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-among-indians-guiana-im-thurn-archive__l16806-l16816
+  passage_sha256=c652220194b38e7c92753ea2888ed24d1191ea1d1de1799ba93d217afa4dde77
+

@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l1140-l1218
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: INTRODUCTION. XXV / XXVI INTRODUCTION. / INTRODUCTION. XXV11 / XXV111 INTRODUCTION.;
+    lines 1140-1218
+  start: '1140'
+  end: '1218'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses manuscript and printed evidence for older Gaelic
+    poems, the controversy over MacPherson's Ossian translation and authorship, and
+    a reported popular belief that Ossian, last of the Finne, composed and wrote the
+    poems, then burned his book in anger when old and blind because a saint would
+    not believe his stories. It also quotes a caution about judging originals through
+    translation and cites a manuscript note about Dr. Campbell reciting Ossianic material
+    in Gaelic and claiming to have owned a family manuscript.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that manuscript evidence exists for the antiquity of similar
+    Gaelic poems, and that some were printed in 1807 and reprinted in 1818.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: MacPherson's translation is said to have appeared between 1760 and 1762, and
+    the controversy is described as concerning whether the poems were originally Scottish
+    or Irish and how much MacPherson altered them.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first-person author says Gaelic poems on such subjects existed before
+    MacPherson and that their rhythm and style are unlike MacPherson's English prose
+    translation.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A reported popular opinion says MacPherson was dishonest in allowing himself
+    to pass as the author of Ossian's poems.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says many illiterate people had not heard of the controversy but
+    had heard scraps of poems and stories about the Finne all their lives.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The reported popular belief says Ossian, called the last of the Finne, composed
+    the poems, wrote them, and burned his book in anger when he was old and blind.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The stated reason for burning the book is that St. Patrick, St. Paul, or another
+    saint would not believe Ossian's wonderful stories.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage quotes the view that a translation should not be the basis of
+    criticism because it is another person's explanation of the original meaning.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A manuscript note says the Reverend Dr. Campbell repeatedly recited parts
+    of Ossian in Gaelic and said he had owned a family manuscript containing Gaelic
+    poems and pieces of Ossian's compositions.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: MacPherson
+  description: A translator whose Ossian translation appeared between 1760 and 1762;
+    the passage reports debate about how much he altered the poems and a popular charge
+    that he passed as their author.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ossian
+  description: Called in the reported popular belief the last of the Finne; said to
+    have composed and written the poems and to have burned his book when old and blind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the Finne
+  description: A group known through scraps of poems and stories; Ossian is described
+    as their last member in the reported popular belief.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: St. Patrick, St. Paul, or some other saint
+  description: An indefinite saintly figure who, in the reported belief, would not
+    believe Ossian's wonderful stories.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Reverend Dr. Campbell of Halfway Tree, Lisuana, Jamaica
+  description: A person in a manuscript note who is said to have repeated parts of
+    Ossian in Gaelic and to have claimed possession of a family manuscript containing
+    Gaelic poems and Ossianic pieces.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: first-person author
+  description: The passage's first-person commentator, who discusses Gaelic, MacPherson's
+    translation, popular belief, and documentary evidence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: commentator on evidence and translation
+  assigned_to:
+  - fig:6
+  basis: The first-person author evaluates manuscript evidence, Gaelic style, popular
+    belief, and the use of translation in criticism.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: disputed translator or alterer
+  assigned_to:
+  - fig:1
+  basis: MacPherson is named as the translator whose work appeared in 1760-1762 and
+    whose alterations and authorship claims are disputed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: traditional poet and last of the Finne
+  assigned_to:
+  - fig:2
+  basis: The reported belief calls Ossian the last of the Finne and says he composed
+    and wrote the poems.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: traditional heroic group in poems and stories
+  assigned_to:
+  - fig:3
+  basis: The passage says people had heard scraps of poems and stories about the Finne
+    all their lives.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: saintly skeptic
+  assigned_to:
+  - fig:4
+  basis: The saint is said not to believe Ossian's wonderful stories.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Gaelic reciter and manuscript witness
+  assigned_to:
+  - fig:5
+  basis: The manuscript note says Dr. Campbell recited Ossian in Gaelic and claimed
+    to have possessed a family manuscript of Gaelic poems.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Ossian's book
+  literal_form: the book that Ossian is said to have written and burned
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: burning of the book
+  literal_form: Ossian burned his book
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: old blindness
+  literal_form: Ossian is described as old and blind when he burns the book
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: family manuscript of Gaelic poems
+  literal_form: a manuscript long held by Dr. Campbell's family, containing Gaelic
+    poems and pieces of Ossian's compositions
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Discussion of Ossianic authenticity and translation
+  summary: The author describes evidence for older Gaelic poems, the publication and
+    controversy around MacPherson's translation, and the difference between Gaelic
+    poetic style and MacPherson's English prose.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Popular account of Ossian and the burned book
+  summary: The passage reports that people who knew scraps of Finne poems and stories
+    believed Ossian, the last of the Finne, composed and wrote the poems, then burned
+    his book in anger when a saint would not believe his stories.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Manuscript note about Dr. Campbell
+  summary: A manuscript note reports that Dr. Campbell recited parts of Ossian in
+    Gaelic and claimed to have possessed a family manuscript containing Gaelic poems
+    and Ossianic compositions.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: aged blind last survivor destroys his own book of lore
+  taxonomy_refs: []
+  basis: The passage reports a belief that Ossian, the last of the Finne, wrote the
+    poems and burned his book when old and blind.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is reported as a popular belief within an introduction, not narrated
+    as a full folktale episode.
+- id: motif:2
+  label: saint disbelieves heroic marvels
+  taxonomy_refs: []
+  basis: The burning of the book is attributed to the refusal of St. Patrick, St.
+    Paul, or another saint to believe Ossian's wonderful stories.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The saint's identity is indefinite, and the episode is summarized indirectly.
+- id: motif:3
+  label: traditional poems preserved through oral scraps and manuscripts
+  taxonomy_refs: []
+  basis: The passage links oral scraps of poems and stories about the Finne with manuscript
+    and printed evidence for Gaelic poems and a reported family manuscript.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is primarily a literary-historical preservation pattern rather than
+    a narrative myth motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly frames the Ossianic poems as disputed between Scottish
+    and Irish origin and notes the closeness of language between Islay and Rathlin,
+    supporting only a cautious linguistic and corpus-adjacency comparison.
+  claim_level: linguistic_similarity
+  target: Scottish and Irish Gaelic Ossianic poem traditions
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not demonstrate historical contact, common inheritance,
+    or a shared narrative motif beyond the stated language and origin controversy.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1140-1164
+  quote_or_summary: The passage states that manuscript evidence supports older Gaelic
+    poems; MacPherson's translation appeared in 1760-1762; debate concerns Scottish
+    or Irish origin and MacPherson's alterations; the author says Gaelic poems existed
+    before MacPherson and differ in rhythm and style from his English prose.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1164-1173
+  quote_or_summary: '"MacPherson must have been a very dishonest person when he allowed
+    himself to pass as the author of Ossian''s poems."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1174-1184
+  quote_or_summary: The passage says few illiterate people knew the controversy, though
+    they had heard scraps of poems and stories about the Finne; they believed "Ossian,
+    the last of the Finne" composed and wrote the poems, then burned his book when
+    old and blind because a saint would not believe his wonderful stories.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized with brief quotation.
+- id: ev:4
+  type: quote
+  locator: lines 1185-1199
+  quote_or_summary: '"no translation ought to be the ground of criticism, because
+    no man ought to be condemned upon another man''s explanation of his meaning"'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1200-1218
+  quote_or_summary: A manuscript note says the Reverend Dr. Campbell of Halfway Tree
+    in Jamaica repeated parts of Ossian in Gaelic in 1799, 1801, and 1802, and said
+    he had possessed a long-held family manuscript containing Gaelic poems and whole
+    pieces of Ossian's compositions.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly introductory literary commentary. The strongest motif
+    material is the reported popular belief about Ossian, the saint, and the burned
+    book; broader preservation and comparison claims require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy assignment is limited to the available symbol ref 'fire' for the described burning of the book.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l1140-l1218
+  passage_sha256=757ff99be2a48f6a18c93a09d2d7dfcc591e23157ef63bdecfa3275195c8f6ea
+

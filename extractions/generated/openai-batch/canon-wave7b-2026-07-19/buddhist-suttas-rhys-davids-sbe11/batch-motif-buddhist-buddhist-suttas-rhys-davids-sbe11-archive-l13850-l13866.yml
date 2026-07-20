@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.buddhist-buddhist-suttas-rhys-davids-sbe11-archive-l13850-l13866
+source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+passage_locator:
+  label: MAH A-SUDASS ANA SUTTA. / MAHA-SUDASSANA SUTTA. / Chapter II. / MAHA-SUDASSANA
+    SUTTA.; lines 13850-13866
+  start: '13850'
+  end: '13866'
+  translation: Buddhist Suttas (Sacred Books of the East, Vol. 11)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A speech addressed to a king lists immense quantities of garments and dishes
+    of rice as belonging to him, and repeatedly urges him to cast away desire for
+    them and not long after life. The Queen of Glory weeps, wipes away her tears,
+    addresses the Great King of Glory, and begins to state that all things near and
+    dear must be left and divided from.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A quoted speech says that the king possesses four and eighty thousand myriads
+    of garments made of delicate textures, including flax, cotton, silk, and wool.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speech tells the king to cast away desire for the garments and not to
+    long after life.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A quoted speech says that the king possesses four and eighty thousand dishes
+    in which rice is served in the evening and morning.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speech tells the king to cast away desire for the dishes and not to long
+    after life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the speech, the Queen of Glory weeps and pours forth tears.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Queen of Glory wipes away her tears and addresses the Great King of Glory.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Queen of Glory begins a statement that the nature of all things near and
+    dear is that they must be left and divided from.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Great King of Glory
+  description: A king addressed in the quoted speeches and later named as the Great
+    King of Glory when the Queen addresses him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Queen of Glory
+  description: A queen who weeps, wipes away her tears, and addresses the Great King
+    of Glory.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Ananda
+  description: A named addressee within the narrative framing of the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: addressed king and possessor of listed riches
+  assigned_to:
+  - fig:1
+  basis: The speeches address an 'O King' whose possessions include garments and dishes,
+    and the Queen later addresses the Great King of Glory.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: grieving queen
+  assigned_to:
+  - fig:2
+  basis: The Queen of Glory weeps, pours forth tears, and wipes them away.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: speaker of impermanence statement
+  assigned_to:
+  - fig:2
+  basis: The Queen of Glory addresses the Great King and begins to say that all things
+    near and dear must be left and divided from.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: narrative addressee
+  assigned_to:
+  - fig:3
+  basis: Ananda is named in the narrative frame during the description of the Queen's
+    actions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: delicate garments
+  literal_form: Four and eighty thousand myriads of garments of flax, cotton, silk,
+    and wool.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dishes of rice
+  literal_form: Four and eighty thousand dishes in which rice is served in the evening
+    and morning.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tears
+  literal_form: The Queen of Glory weeps, pours forth tears, and wipes away her tears.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Renunciation counsel over royal possessions
+  summary: The passage lists enormous quantities of garments and dishes belonging
+    to the king and repeats the instruction to cast away desire for them and not long
+    after life.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Queen's tears and reply
+  summary: The Queen of Glory weeps after the speech, wipes away her tears, addresses
+    the Great King of Glory, and begins to state that all things near and dear must
+    be left and divided from.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Renunciation of royal possessions
+  taxonomy_refs: []
+  basis: The passage lists vast royal possessions and twice urges the king to cast
+    away desire for them and not long after life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt begins mid-speech, so the speaker and immediate narrative
+    setup are not fully recoverable from the supplied lines alone.
+- id: motif:2
+  label: Impermanence of near and dear things
+  taxonomy_refs:
+  - wisdom
+  basis: The Queen's reply begins with the claim that the nature of all things near
+    and dear is that they must be left and divided from, aligning the passage with
+    a wisdom teaching on detachment and impermanence.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The sentence is cut off at the end of the supplied passage; the motif
+    identification relies only on the visible fragment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13850-13853
+  quote_or_summary: The king is said to have four and eighty thousand myriads of delicate
+    garments made of flax, cotton, silk, and wool; the speech urges him to cast away
+    desire and not long after life.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 13855-13858
+  quote_or_summary: The king is said to have four and eighty thousand dishes in which
+    rice is served morning and evening; the speech again urges him to cast away desire
+    and not long after life.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 13860-13862
+  quote_or_summary: After the speech, the Queen of Glory weeps and pours forth tears;
+    Ananda is named in the narrative address.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 13863-13865
+  quote_or_summary: The Queen of Glory wipes away her tears and addresses the Great
+    King of Glory; Ananda is again named in the narrative address.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: line 13866
+  quote_or_summary: The Queen begins to say that the nature of all things near and
+    dear is that they must be left and divided from.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a short fragment and ends mid-sentence; literal actions and
+    objects are clear, while the broader narrative context and speaker identity for
+    the opening speech require review against surrounding lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific cross-textual or historical comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-buddhist-suttas-rhys-davids-sbe11-archive__l13850-l13866
+  passage_sha256=229afd60b9898d4894780ce606c3f6c5bbdd42d34a79daa4e3e0e1e2e264c4bf
+

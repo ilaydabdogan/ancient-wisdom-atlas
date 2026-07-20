@@ -1,0 +1,134 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l13645-l13678
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: METRIC   UNIT   OF   VOICE   AND   DRUM / SONGS  OF  THE  LAC  DU  FLAMBEAU  RESERVATION
+    / PINE    FOREST,     LAC    DU     FLAMBEAU     RESERVATION,    WIS. / DBN'SMOUEI;
+    lines 13645-13678
+  start: '13645'
+  end: '13678'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: No.  SI.  A  Song  of  Indecision
+  summary: The passage gives a music transcription for a Chippewa war song from Pine
+    Forest, Lac du Flambeau Reservation, Wisconsin. It identifies the piece as a song
+    of indecision, names a singer as printed in the passage, gives a drum marking,
+    and presents repeated romanized song syllables/words without an English translation
+    of the lyrics.
+  language: English headings with romanized Chippewa/Ojibwe song text
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage locates the item at Pine Forest, Lac du Flambeau Reservation,
+    Wisconsin.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The item appears under the heading War Songs and is titled A Song of Indecision.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the song was sung by the named person printed as MiuK'wKii'jH
+    in the provided text.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The notation includes a drum marking printed as J-96 in the provided text.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The romanized song text repeatedly begins with forms printed as wi-na-wa-nin-da-ci-mi
+    or similar spellings.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: MiuK'wKii'jH
+  description: Named singer of the song as printed in the provided passage; the spelling
+    appears OCR-uncertain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: singer of the song
+  assigned_to:
+  - fig:1
+  basis: The passage introduces the item with the statement that it was sung by this
+    named person.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Notated war song of indecision
+  summary: A war song from Pine Forest, Lac du Flambeau Reservation is identified
+    by title, singer, and drum marking, followed by its notated romanized song text.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Indecision in a war-song context
+  taxonomy_refs: []
+  basis: The passage classifies the piece under War Songs and titles it A Song of
+    Indecision.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives no translated lyric or narrative explanation; the motif
+    candidate is based only on the English section heading and title.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13645-13652
+  quote_or_summary: '"PINE FOREST, LAC DU FLAMBEAU RESERVATION, WIS."; "War Songs";
+    "No. SI. A Song of Indecision"'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 13653-13655
+  quote_or_summary: '"Sung l)y MiuK''wKii''jH;" and a drum marking printed as "J-
+    96"'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 13656-13678
+  quote_or_summary: The notated song text repeats romanized forms beginning with "wi-na-wa-nin-da-ci-mi"
+    and includes additional syllables/words such as "be-sT-na-si-wl-djig" as printed.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized with brief transcription for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mainly a music transcription with English headings. Extraction
+    of title, location, and performer is direct, but the singer's name and some lyric
+    text appear OCR-uncertain, and no lyric translation is supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol or motif-family reference was assigned; the available taxonomy does not include an explicit indecision or war-song motif, and the passage itself provides no comparative claim.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l13645-l13678
+  passage_sha256=cff2c3b1f1fd0a449f3775dbffe71d935c55f22b57e10de72739ed927bbd1749
+

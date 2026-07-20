@@ -1,0 +1,158 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l27608-l27612
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION XXXIII / SECTION XXXIV-XXXV / SECTION XXXVI / SECTION XXXVII; lines
+    27608-27612
+  start: '27608'
+  end: '27612'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Yudhishthira said, "Tell me, O grandfather, what food is clean and what unclean,
+    what gift is praiseworthy..."
+  summary: Yudhishthira asks his grandfather to explain which foods are clean or unclean,
+    which gifts are praiseworthy, and who is deserving or undeserving of gifts.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira speaks and asks to be told about categories of food, gifts, and
+    recipients of gifts.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The questions distinguish clean from unclean food.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The questions distinguish praiseworthy gifts from other gifts.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The questions distinguish deserving from undeserving recipients of gifts.
+  category: relationship
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: The speaker who asks the questions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: grandfather
+  description: The addressee asked to provide instruction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks, "Tell me," and poses questions about food, gifts, and
+    recipients.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed elder/instructor
+  assigned_to:
+  - fig:2
+  basis: The addressee is called "grandfather" and is asked to explain the topics.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: food classified as clean or unclean
+  literal_form: food
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: gift classified as praiseworthy
+  literal_form: gift
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: recipient classified as deserving or undeserving
+  literal_form: recipient of gifts
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Yudhishthira asks for instruction on purity and giving
+  summary: Yudhishthira addresses his grandfather and asks for guidance on clean and
+    unclean food, praiseworthy gifts, and deserving or undeserving recipients.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: seeking elder wisdom on moral and ritual distinctions
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a named speaker asking an elder to explain evaluative
+    distinctions concerning food and giving.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage contains only the question, not the answer or full teaching.
+- id: motif:2
+  label: ethical classification of sacred giving
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage asks which gift is praiseworthy and who should be considered
+    deserving or undeserving of gifts.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage frames the topic of giving but does not yet describe an actual
+    exchange or gift ritual.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 27608-27612
+  quote_or_summary: Yudhishthira asks his grandfather to tell him what food is clean
+    or unclean, what gift is praiseworthy, and who is deserving or undeserving of
+    gifts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation/summary used for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and clearly identifies a question-and-answer setup,
+    but motif extraction is limited because no response or narrative action is included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l27608-l27612
+  passage_sha256=2015b8156dceb6e7e6806cc4128702262f961edb262ece51ce2d7d70d4105f7b
+

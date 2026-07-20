@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l1248-l1282
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: PT. I / ON THE KAFUE RIVER. / PT. I / THE ENVIRONMENT; lines 1248-1282
+  start: '1248'
+  end: '1282'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes water draining from highlands into a swollen river
+    and across flats, the drying of the flats in June, annual grass fires that damage
+    forests while clearing grass and undergrowth, losses of life in rapidly moving
+    fires, and vast swamps that breed large numbers of mosquitoes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Water drains from highlands north and south along numerous watercourses into
+    a river that is already swollen.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Because the swollen river cannot carry the water away quickly enough, water
+    flows out over the flats.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The flats dry during June.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the flats dry, grass fires sweep over the country annually.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The fires cause damage to virgin forests but clear grass and undergrowth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Grass and undergrowth had provided secure retreats for numerous African felidae
+    that prey upon domestic stock.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Lives are lost every year in fires that travel very rapidly.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Vast swamps are breeding-places for very large numbers of mosquitoes.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: African felidae
+  description: Numerous members of the African felidae use grass and undergrowth as
+    retreats and prey upon domestic stock.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Mosquitoes
+  description: Millions of mosquitoes breed in the vast swamps.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Domestic stock
+  description: Domestic animals are preyed upon by African felidae.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: predatory animals
+  assigned_to:
+  - fig:1
+  basis: The passage states that African felidae prey upon domestic stock.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: swamp-breeding insects
+  assigned_to:
+  - fig:2
+  basis: The passage describes mosquitoes breeding in vast swamps.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: preyed-upon domestic animals
+  assigned_to:
+  - fig:3
+  basis: The passage says domestic stock are preyed upon by African felidae.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water draining from highlands, a swollen river, and water flowing
+    over flats
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: annual grass fires sweeping over the country
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: swamp
+  literal_form: vast swamps serving as breeding-places for mosquitoes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: grass and undergrowth
+  literal_form: grass and undergrowth that are burned away and had provided retreats
+    for African felidae
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Swollen river and flooded flats
+  summary: Water from highlands drains through watercourses and spreads over flats
+    because the swollen river cannot remove it quickly enough.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dry flats and annual grass fires
+  summary: After the flats dry in June, grass fires sweep over the country, damaging
+    forests, clearing grass and undergrowth, and causing loss of life.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Swamps breeding mosquitoes
+  summary: The vast swamps are described as breeding-places for very large numbers
+    of mosquitoes.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal floodplain and fire cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: 'The passage gives a recurring environmental sequence: river water spreads
+    over flats, the flats dry in June, and annual grass fires then sweep the country.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an environmental description, not an explicit mythic narrative.
+- id: motif:2
+  label: destructive and clearing fire
+  taxonomy_refs: []
+  basis: The fires are described as damaging virgin forests and causing deaths, while
+    also clearing grass and undergrowth that sheltered predators.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not frame the fires as sacred, cosmological, or ritual;
+    the motif is a candidate environmental pattern only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1248-1258
+  quote_or_summary: Water drains from highlands through watercourses and spreads across
+    flats because a swollen river cannot carry it away quickly enough.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1258-1268
+  quote_or_summary: The flats dry during June, after which annual grass fires sweep
+    over the country, damaging virgin forests and clearing grass and undergrowth.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1267-1273
+  quote_or_summary: Grass and undergrowth had provided secure retreats for numerous
+    African felidae that prey on domestic stock.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1273-1275
+  quote_or_summary: Every year lives are lost in rapidly traveling fires.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1276-1282
+  quote_or_summary: Vast swamps are breeding-places for millions of mosquitoes.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal environmental details are clear. Motif candidates are limited because
+    the passage is descriptive ethnography rather than an explicit mythic episode.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No invented comparisons or taxonomy IDs beyond supplied available references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l1248-l1282
+  passage_sha256=288fb8e5f89f8c26456dca67b10b1b731ef0d28e3dc2adc9a414bddd0a13399f
+

@@ -1,0 +1,197 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l9840-l9857
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: BASQUE POETRY. / I.--PASTORALES. / SATAN AND BULGIFER; ABRAHAM AND ISAAC.
+    / LELOAREN CANTUA.            SONG OF LELO.; lines 9840-9857
+  start: '9840'
+  end: '9857'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"a suspicious likeness to a vague reminiscence of the Moslem cry \"Lâ Êlah
+    Ulâ Allah!\""'
+  summary: The passage discusses uncertainty about the date and meaning of the “Leloaren
+    Cantua.” It notes a suggested resemblance between one verse and a Moslem cry,
+    questions the apparent correctness of Latin-looking proper names, mentions a later
+    Basque baptismal sobriquet, and declines to assert a firm interpretation or date.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A verse is described as having been plausibly suggested to resemble a vague
+    reminiscence of the Moslem cry “Lâ Êlah Ulâ Allah!”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If the suggested resemblance is accepted, the passage says the poem would
+    be placed at least eight centuries after the time of Augustus in northern Spain.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The names Octabiano, Roma, and Tiber are described as looking too correct
+    and too similar to Latin forms.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage reports that Greeks and Romans, including Strabo and Mela, complained
+    about difficulty transcribing Basque or Iberian names into their own language.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that “Uchin” appears in a later verse as a sobriquet for
+    “Augustino,” a baptismal name used among Spanish Basques.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author declines to assert what the poem really refers to and presents
+    it as an old curiosity of Basque verse without committing to a date or interpretation.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Basques
+  description: The passage refers to Basques in connection with transcribing Greek
+    and Latin names into Basque and with the Spanish Basque use of the baptismal name
+    “Augustino.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Greeks and Romans
+  description: The passage says Greeks and Romans complained of difficulty transcribing
+    Basque or Iberian names into their own language.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Strabo and Mela
+  description: Strabo and Mela are named as examples of Greeks and Romans who complained
+    about the difficulty of transcribing Basque or Iberian names.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named linguistic community
+  assigned_to:
+  - fig:1
+  basis: The passage discusses Basques in relation to language transcription and naming
+    practices.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: reported commentators on transcription difficulty
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage attributes complaints about transcribing Basque or Iberian names
+    to Greeks and Romans, specifically naming Strabo and Mela.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Scholarly caution about the “Leloaren Cantua”
+  summary: The passage evaluates possible linguistic evidence about the poem, including
+    a suggested Moslem-cry reminiscence, Latin-looking names, and a Basque baptismal
+    sobriquet, then withholds any firm date or interpretation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage reports a cautious suggested linguistic resemblance between a
+    verse of the poem and the Moslem cry “Lâ Êlah Ulâ Allah!”
+  claim_level: linguistic_similarity
+  target: Moslem cry “Lâ Êlah Ulâ Allah!”
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage frames the resemblance as a plausible suggestion and says
+    the authors do not assert the poem’s true reference or interpretation.
+- id: claim:2
+  claim: The passage argues that the proper names Octabiano, Roma, and Tiber look
+    unusually close to Latin forms.
+  claim_level: linguistic_similarity
+  target: Latin proper-name forms
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The observation is used as a caution about date or authenticity, but
+    the passage does not settle the poem’s date or meaning.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9840-9844
+  quote_or_summary: "“the verse bears a suspicious likeness to a vague reminiscence
+    of the Moslem cry ‘Lâ Êlah Ulâ Allah!’”; if so, it would place the poem much later
+    than Augustus."
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 9844-9851
+  quote_or_summary: The passage says Octabiano, Roma, and Tiber look too much like
+    Latin and discusses reported Greek and Roman difficulty transcribing Basque or
+    Iberian names, naming Strabo and Mela.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 9851-9854
+  quote_or_summary: A later verse contains “Uchin,” described as a sobriquet for “Augustino,”
+    a baptismal name in use among Spanish Basques.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 9854-9857
+  quote_or_summary: "“What the poem really refers to we dare not assert”; the text
+    presents “Leloaren Cantua” as an old curiosity of Basque verse without pledging
+    a date or interpretation."
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is mainly scholarly commentary rather than a mythic narrative.
+    No supported mythic motif or listed symbol is extracted; only explicit linguistic-comparison
+    claims are included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family or symbol reference is assigned because the passage does not narrate a mythic episode or present a listed symbolic object.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l9840-l9857
+  passage_sha256=0ef5638a567b7eae10177ba029a4639a22e600e285754fd4ced309ff7483da2e
+

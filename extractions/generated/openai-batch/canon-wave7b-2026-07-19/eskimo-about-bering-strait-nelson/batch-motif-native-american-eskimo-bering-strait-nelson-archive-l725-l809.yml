@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l725-l809
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: EDWARD   WILLIAM    NELSON / EKRATA / ILLUSTRATIONS' / ILLUSTRATIONS1; lines
+    725-809
+  start: '725'
+  end: '809'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an illustrations list for plates I-XXVI, with page numbers.
+    It lists human subjects from several named places and groups around Bering Strait
+    and Siberia, clothing items, labrets, earrings, ornaments, and a note that parenthetical
+    numbers refer to United States National Museum catalog objects.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is organized as an illustrations list with plate numbers I through
+    XXVI and page references.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several plates list human subjects by group, place, sex, name, or age, including
+    a Kiflugmimt group from Port Clarence, a Malemut family from Shaktolik, named
+    male and female individuals, Siberian Eskimo women and men, and women and children
+    from East cape and Cape Smith.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: obs:3
+  text: Several plates list clothing or clothing-related objects, including birdskin,
+    deerskin, and fishskin frocks, men's gloves, boots, waterproof mittens, and straw
+    socks.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: Several plates list personal ornaments, including labrets, earrings, and other
+    ornaments, many accompanied by catalog numbers.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:5
+  text: A note states that parenthetical numbers after illustration titles refer to
+    object numbers in the United States National Museum catalog.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:6
+  text: One plate specifically lists Kotzebue Sound Malemut men and women with labrets.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kiflugmimt group from Port Clarence
+  description: A group from Port Clarence is listed as the subject of Plate I.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Malemut family from Shaktolik
+  description: A Malemut family from Shaktolik is listed as the subject of Plate III.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Named portrait subjects
+  description: The illustration list names individual male and female subjects with
+    ages, including Su-kn-uk, Komik-seiler, Kyo-kuasee, Iser-kyner, Kok-suk, and Unger-kee-kluk.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Siberian, East Cape, Mechigme Bay, Cape Prince of Wales, Icy Cape,
+    and Cape Smith people
+  description: Plates list women, men, and children associated with Mechigme Bay,
+    East Cape, Cape Prince of Wales, Icy Cape, and Cape Smith.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: Kotzebue Sound Malemut men and women with labrets
+  description: One plate lists Kotzebue Sound Malemut men and women with labrets.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: illustration subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: The figures are named as subjects of specific illustration plates.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:2
+  label: named portrait subject
+  assigned_to:
+  - fig:3
+  basis: The list gives personal names, sex, and ages for several individual plate
+    subjects.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: labret wearer
+  assigned_to:
+  - fig:5
+  basis: The plate title identifies the Kotzebue Sound Malemut men and women as being
+    shown with labrets.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Labrets
+  literal_form: Labrets; Kotzebue Sound Malemut men and women with labrets
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: Earrings and ornaments
+  literal_form: Earrings and other ornaments with catalog numbers
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Animal-skin frocks
+  literal_form: Man's birdskin frock; front and back of man's deerskin frock; front
+    of man's fishskin frock
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Gloves, boots, mittens, and socks
+  literal_form: Men's gloves; boots, waterproof mittens, and straw socks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Illustration catalogue sequence
+  summary: The passage lists illustration plates and their subjects, moving from human
+    groups and portraits to clothing, footwear, labrets, earrings, ornaments, and
+    a final plate of women and children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 725-809; illustration list structure
+  quote_or_summary: The section is an illustrations list with plates I-XXVI and page
+    numbers.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 725-809; plates I-X
+  quote_or_summary: Plates I-X list human subjects including a Kiflugmimt group from
+    Port Clarence, distribution of Eskimo about Bering Strait, a Malemut family from
+    Shaktolik, and named male and female individuals with ages.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 725-809; plates XI-XV
+  quote_or_summary: Plates XI-XV list Siberian Eskimo women and men, Cape Prince of
+    Wales and Icy Cape men, East Cape women and children, and typical dress of Kaviagmut
+    and Kuskokwogmut men and women.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 725-809; plates XVI-XIX
+  quote_or_summary: Plates XVI-XIX list a man's birdskin frock, a man's deerskin frock,
+    a woman's frock, and a man's fishskin frock.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 725-809; plates XX-XXI
+  quote_or_summary: Plates XX-XXI list men's gloves, boots, waterproof mittens, and
+    straw socks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 725-809; plates XXII-XXV
+  quote_or_summary: Plates XXII-XXV list labrets, Kotzebue Sound Malemut men and women
+    with labrets, earrings, and other ornaments, many with catalog numbers.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:7
+  type: summary
+  locator: lines 725-809; plate XXVI
+  quote_or_summary: Plate XXVI lists women and children of Cape Smith.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:8
+  type: summary
+  locator: lines 725-809; note after plate XXVI
+  quote_or_summary: A note explains that parenthetical numbers following illustration
+    titles refer to object numbers in the catalog of the United States National Museum.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata marks full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a non-narrative illustration catalogue. Literal subjects and
+    objects are clear, but no mythic episode, motif family, or comparison claim is
+    supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Material culture items are recorded only as literal plate subjects. No taxonomy motif refs are assigned.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l725-l809
+  passage_sha256=d7e97a98583c7e2e9cfdb5769b3c74b617dfd29c649795d14d1af409edb43d67
+

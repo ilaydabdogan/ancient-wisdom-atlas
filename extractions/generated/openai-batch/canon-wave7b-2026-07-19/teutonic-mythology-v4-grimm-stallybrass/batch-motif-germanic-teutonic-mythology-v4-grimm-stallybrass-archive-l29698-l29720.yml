@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l29698-l29720
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: VOL.  IV.  0  0 / SUPERSTITIONS.       K,  L.  1839 / SUPERSTITIONS.      L.  1841
+    / M.      ESTHONIAN.'; lines 29698-29720
+  start: '29698'
+  end: '29720'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A list of Esthonian marriage-related superstitions: marriages are timed
+    to the new moon; a wooing suitor avoids riding a mare; a betrothed bride is bound
+    with a red string and later breaks it; a newly married couple run from church
+    hand in hand; a bride falling while being fetched is an omen of child death; and
+    observers undo a horseback suitor''s saddle-girth to ease the future wife''s childbirth.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Marriages are said to take place at the time of the new moon.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A suitor who rides to the house where he woos avoids taking a mare.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stated consequence of riding a mare is that only daughters would be born
+    from the marriage.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the bride is betrothed, a red string is tied around her body.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the wedding is completed, the bride is expected to inflate herself until
+    the red string breaks.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The breaking of the red string is described as a preventive of difficult confinements.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In many places the young couple run out of church hand in hand as quickly
+    as possible.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The running from church is said to secure rapid progress in their business.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When the bride is fetched, a fall on the way is interpreted as foretelling
+    the early death of her first three or four children.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: If people see the suitor arrive on horseback, they hurry to undo his saddle-girth.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Undoing the suitor's saddle-girth is said to facilitate childbirth for the
+    future wife.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: bride
+  description: The betrothed or fetched woman in the marriage customs.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: suitor
+  description: The man who rides to the house for wooing or arrives on horseback.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: young couple
+  description: The newly married pair who run out of church hand in hand.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: observers
+  description: Unspecified people who see the suitor arrive on horseback and undo
+    his saddle-girth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: betrothed bride
+  assigned_to:
+  - fig:1
+  basis: The passage describes the bride when betrothed and during the completed wedding.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: wooing rider
+  assigned_to:
+  - fig:2
+  basis: The suitor rides to the house where he goes a-wooing and may arrive on horseback.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: newly married pair
+  assigned_to:
+  - fig:3
+  basis: The passage calls them the young couple and says they run out of church hand
+    in hand.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: future mother
+  assigned_to:
+  - fig:1
+  basis: Several customs are explained as affecting her future childbirth or children.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: ritual helpers or bystanders
+  assigned_to:
+  - fig:4
+  basis: The passage says 'they' hasten to undo the suitor's saddle-girth when he
+    arrives on horseback.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: new moon
+  literal_form: new moon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mare
+  literal_form: mare used or avoided as the suitor's riding animal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: red string
+  literal_form: red string tied around the bride's body and broken after the wedding
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: church exit
+  literal_form: running out of church hand in hand
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fall on the bridal way
+  literal_form: the bride falling while being fetched
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: saddle-girth
+  literal_form: saddle-girth on the suitor's horse, undone by others
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Marriage timed to the new moon
+  summary: The passage states that marriages occur at the time of the new moon.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Suitor avoids a mare when wooing
+  summary: A suitor who rides to the wooing house avoids taking a mare, because this
+    is linked with the birth of only daughters.
+  figure_refs:
+  - fig:2
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Red string around the bride
+  summary: At betrothal a red string is tied around the bride; after the wedding she
+    breaks it by inflating herself, which is said to prevent difficult childbirth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Couple runs from church
+  summary: The young couple run out of church hand in hand at top speed to secure
+    rapid progress in their business.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Bride falls while being fetched
+  summary: If the bride falls on the way while being fetched, this is said to foretell
+    the early death of her first three or four children.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Saddle-girth undone
+  summary: When the suitor arrives on horseback, bystanders undo his saddle-girth,
+    which is said to ease the future wife's childbirth.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Marriage timed by lunar phase
+  taxonomy_refs: []
+  basis: The passage says marriages take place at the new moon.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a superstition but does not explain the reason for choosing
+    the new moon.
+- id: motif:2
+  label: Animal sex affecting offspring sex
+  taxonomy_refs: []
+  basis: The suitor avoids riding a mare because the passage says otherwise only daughters
+    would be born of the marriage.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states the belief but gives no narrative example.
+- id: motif:3
+  label: Ritual binding and breaking to ease childbirth
+  taxonomy_refs: []
+  basis: A red string is tied around the bride and later broken; the act is described
+    as preventing difficult confinements.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not identify the custom's origin or any named supernatural
+    agent.
+- id: motif:4
+  label: Wedding speed securing prosperity or progress
+  taxonomy_refs: []
+  basis: The couple run from church at top speed to secure rapid progress in their
+    business.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The nature of 'business' is not specified beyond rapid progress.
+- id: motif:5
+  label: Bride's fall as death omen for children
+  taxonomy_refs: []
+  basis: A fall by the bride while being fetched is said to foretell early death of
+    her first three or four children.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage records an omen belief without a story of fulfillment.
+- id: motif:6
+  label: Loosening a riding strap to ease childbirth
+  taxonomy_refs: []
+  basis: Bystanders undo the suitor's saddle-girth, and the act is said to facilitate
+    childbirth for the future wife.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not state whether the act is symbolic, magical, or customary
+    beyond its named effect.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29698-29720, item 1
+  quote_or_summary: 'Esthonian superstition: marriages take place at the time of the
+    new moon.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 29698-29720, item 2
+  quote_or_summary: A wooing suitor riding to the house avoids taking a mare, or only
+    daughters would be born of the marriage.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 29698-29720, item 3
+  quote_or_summary: At betrothal a red string is tied around the bride's body; after
+    the wedding she breaks it by inflating herself, as a preventive of difficult confinements.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 29698-29720, item 4
+  quote_or_summary: The young couple run out of church hand in hand at top speed to
+    secure rapid progress in their business.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 29698-29720, item 5
+  quote_or_summary: If the bride falls on the way while being fetched, it betokens
+    the early death of her first three or four children.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 29698-29720, item 6
+  quote_or_summary: When the suitor arrives on horseback, people undo his saddle-girth;
+    this is said to facilitate childbirth for the future wife.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: citation
+  locator: lines 29698-29720, footnote
+  quote_or_summary: The passage cites 'Etwas über die Ehsten' and Hupel's 'Topogr.
+    nachr. von Lief- und Ehst-land' as sources for the numbered items.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; bibliographic citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on a concise numbered list of superstitions. Motif
+    labels are descriptive rather than linked to supplied taxonomy families, because
+    the passage does not support a specific provided motif-family assignment. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The source heading identifies the items as Esthonian. The passage is a superstition list rather than a mythic narrative, so scenes and motif candidates are treated as ritual/omen patterns.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l29698-l29720
+  passage_sha256=729681966fc4f270d2d9265a5a76a9bf41d0d6250cb50c597d7b8f81b637fc96
+

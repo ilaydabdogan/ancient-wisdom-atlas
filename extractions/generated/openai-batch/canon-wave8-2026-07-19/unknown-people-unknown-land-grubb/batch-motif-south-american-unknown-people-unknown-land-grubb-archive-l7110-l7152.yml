@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l7110-l7152
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: RESCUE OF A CHILD / RESCUE OF A CHILD / RESCUE OF A CHILD / RESCUE OF A CHILD;
+    lines 7110-7152
+  start: '7110'
+  end: '7152'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator camps away from a village with a baby, washes and wraps the
+    child, sets up a mosquito-net bed, makes a fire, and plans how to keep the infant
+    alive with rice-water, gruel, egg, and possibly goat milk until reaching the River
+    Paraguay. He intends to leave with guides, but the people refuse to accompany
+    him. He fears that if they think they see the ghost of the woman, they may kill
+    the child to propitiate the mother. He is delayed ten days in anxiety.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator camps away from the village and takes the baby with him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator pulls long grass, sets up a mosquito-net, improvises a bed, washes
+    the child, wraps it in a piece of spare shirt, and places it under the net.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator makes a fire and considers plans for the immediate future.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator's provisions are limited and unsuitable for an infant; he considers
+    rice-water, thin flour gruel, egg, and goat milk as possible food for the child.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator plans to travel at once to the River Paraguay, about one hundred
+    miles away.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator calls for guides to accompany him, but they all refuse to move.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The narrator judges the journey hazardous because a person unfamiliar with
+    the tracks could easily get lost.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The narrator fears that if the people imagine seeing the ghost of the woman,
+    they may kill the child to propitiate the mother.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The narrator is delayed ten days and experiences anxiety.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: narrator
+  description: The first-person speaker who has the baby, cares for it, and plans
+    to travel to the river.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: baby / child / infant charge
+  description: The infant taken by the narrator, washed, wrapped, placed under the
+    mosquito-net, and needing suitable food.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: people near the village
+  description: Those from whom the narrator requests guides and who refuse to accompany
+    him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: the woman / mother
+  description: A woman referred to indirectly as a possible ghost and as the mother
+    to be propitiated.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: caregiver of child
+  assigned_to:
+  - fig:1
+  basis: The narrator washes, wraps, shelters, and plans food for the infant.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: intended traveler to the river
+  assigned_to:
+  - fig:1
+  basis: The narrator says it is imperative to proceed to the River Paraguay and seeks
+    guides.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: vulnerable infant charge
+  assigned_to:
+  - fig:2
+  basis: The child requires improvised bedding, washing, wrapping, and special food;
+    the narrator says he cannot afford to lose time with his infant charge.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:4
+  label: refusing potential guides
+  assigned_to:
+  - fig:3
+  basis: The narrator calls for guides, but they all refuse to move.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: dead or absent mother feared as ghost
+  assigned_to:
+  - fig:4
+  basis: The narrator fears that the people may imagine seeing the ghost of the woman
+    and kill the child to propitiate the mother.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire at camp
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: infant food and milk
+  literal_form: rice-water, thin gruel, egg, and goat milk
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - milk
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: river destination
+  literal_form: River Paraguay
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: mosquito-net shelter
+  literal_form: mosquito-net used as shelter over the child's bed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: ghost of the woman
+  literal_form: ghost of the woman
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: camp care for the child
+  summary: Away from the village, the narrator improvises a bed under a mosquito-net,
+    washes and wraps the baby, makes a fire, and plans how to feed the infant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: planned departure to the river
+  summary: The narrator decides he must travel to the River Paraguay with the child
+    and calls for guides because the journey is hazardous and the tracks are difficult.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: refusal and feared danger to the child
+  summary: The people refuse to guide the narrator, and he fears that beliefs about
+    the woman's ghost could lead them to kill the child to propitiate the mother;
+    he is delayed ten days in anxiety.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: rescue and protection of a vulnerable child
+  taxonomy_refs: []
+  basis: The passage label names rescue of a child, and the narrator shelters, cleans,
+    feeds, and protects the infant while fearing others may kill it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+  confidence: high
+  cautions: The excerpt begins mid-sentence and does not include the initial act by
+    which the child came into the narrator's care.
+- id: motif:2
+  label: perilous departure with an infant charge
+  taxonomy_refs:
+  - departure
+  basis: The narrator plans immediate departure to the distant River Paraguay with
+    the child, but the journey is dangerous and guides refuse to accompany him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The departure is planned and delayed within this excerpt rather than completed.
+- id: motif:3
+  label: child threatened by propitiatory killing
+  taxonomy_refs:
+  - sacrifice
+  basis: The narrator fears that the child may be killed to propitiate the mother
+    if the people imagine seeing the woman's ghost.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is the narrator's fear about possible action, not an action that
+    occurs in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7110-7113
+  quote_or_summary: The narrator says he is compelled to camp away from the village
+    and take the baby with him.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7114-7120
+  quote_or_summary: He pulls grass, fixes up a mosquito-net, improvises a bed, washes
+    the child, wraps it in a piece of spare shirt, and places it under the net.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7120-7122
+  quote_or_summary: After making a fire, he sits down to consider his immediate plans.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7122-7130
+  quote_or_summary: His provisions are limited and unsuitable for an infant; he thinks
+    of rice-water, thin gruel of flour, an egg if obtained, and possibly goat milk
+    to keep the child alive.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7130-7135
+  quote_or_summary: He says he must proceed at once to the River Paraguay, about one
+    hundred miles away, and hopes to start the next day.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7138-7144
+  quote_or_summary: The narrator declares his intention of leaving for the river and
+    calls for guides, but all refuse to move.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 7140-7148
+  quote_or_summary: The narrator describes the journey as hazardous because unfamiliar
+    travelers could easily lose the tracks, and he cannot afford delay with the infant.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 7148-7151
+  quote_or_summary: He fears that if the people think they see the woman's ghost,
+    they may kill the child to propitiate the mother.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 7151-7152
+  quote_or_summary: The narrator states that he was delayed ten days and experienced
+    terrible anxiety.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the provided excerpt. Motif labels are cautious
+    because the excerpt begins after the child has already come into the narrator's
+    care and the feared killing remains hypothetical in this passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims added because the passage does not itself support a specific comparison beyond candidate motif classification.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l7110-l7152
+  passage_sha256=22e1c69979a9b9320bac43b80f9f65fb643869598ff6c7893e70c77ac095cdd9
+

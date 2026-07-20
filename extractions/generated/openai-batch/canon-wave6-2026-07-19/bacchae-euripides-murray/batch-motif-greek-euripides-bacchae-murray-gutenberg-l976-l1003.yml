@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l976-l1003
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: DIONYSUS. / PENTHEUS. / DIONYSUS. / PENTHEUS.; lines 976-1003
+  start: '976'
+  end: '1003'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Most oft by night; 'tis a majestic thing, / The darkness.
+  summary: Pentheus questions Dionysus about whether his worship is held by night
+    or day. Dionysus says it is most often by night and calls darkness majestic. Pentheus
+    suspects women worshipping at night of craft and rottenness, while Dionysus replies
+    that unholiness may be found by day as well. Pentheus declares Dionysus' doom
+    fixed for false pretence and corrupting Thebes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus says the people or ways being discussed are “higher and more keen”
+    than Pentheus' way.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pentheus asks whether the worship is held by night or by day.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dionysus says the worship is most often held by night and calls darkness majestic.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pentheus associates women worshipping with craft and rottenness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dionysus replies that unholiness can be found by day no less than by night.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Pentheus declares that Dionysus' doom is fixed for false pretence and for
+    corrupting Thebes.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Speaker who describes the worship as often nocturnal, praises darkness,
+    and responds to Pentheus' accusation.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Pentheus
+  description: Speaker who interrogates Dionysus about the worship, voices suspicion
+    about women worshipping, and declares Dionysus' doom fixed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: women worshipping
+  description: Group mentioned by Pentheus in connection with the worship.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: speaker describing worship
+  assigned_to:
+  - fig:1
+  basis: Dionysus answers Pentheus' question about when the worship is held.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: interrogator and condemner
+  assigned_to:
+  - fig:2
+  basis: Pentheus asks how the worship is held and later declares Dionysus' doom fixed.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: worshipping women
+  assigned_to:
+  - fig:3
+  basis: Pentheus refers to “women worshipping.”
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: accused corruptor
+  assigned_to:
+  - fig:1
+  basis: Pentheus accuses Dionysus of false pretence and corrupting Thebes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: night and darkness
+  literal_form: night; darkness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: day
+  literal_form: day
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Thebes
+  literal_form: Thebes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Question about the time of worship
+  summary: Pentheus asks whether the worship is practiced at night or by day, and
+    Dionysus says it is most often by night, praising darkness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Accusation and condemnation
+  summary: Pentheus links women worshipping with craft and rottenness; Dionysus counters
+    that unholiness is not limited to night; Pentheus then declares Dionysus condemned
+    for false pretence and corrupting Thebes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: nocturnal worship and sacred darkness
+  taxonomy_refs: []
+  basis: Dionysus says the worship is most often held by night and describes darkness
+    as majestic.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage names nocturnal worship but does not describe the ritual acts
+    themselves.
+- id: motif:2
+  label: suspicion of unfamiliar worship as corruption
+  taxonomy_refs: []
+  basis: Pentheus treats the worship, especially with women worshipping, as craft,
+    rottenness, false pretence, and corruption of Thebes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The accusation is Pentheus' speech within the passage, not an independently
+    confirmed description of the worship.
+- id: motif:3
+  label: day-night contrast in judging holiness
+  taxonomy_refs: []
+  basis: Pentheus frames the timing of worship as significant; Dionysus contrasts
+    night worship with the claim that unholiness can also be found by day.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The contrast is explicit, but its broader symbolic function is not fully
+    developed in this short excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 976-978
+  quote_or_summary: 'Dionysus says: “Higher and more keen / In this thing, though
+    their ways are not thy way.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 980-987
+  quote_or_summary: Pentheus asks whether the worship is held “by night or day”; Dionysus
+    answers, “Most oft by night,” and calls darkness “a majestic thing.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:3
+  type: quote
+  locator: lines 989-998
+  quote_or_summary: Pentheus says, “Ha! with women worshipping? / 'Tis craft and rottenness!”
+    Dionysus replies that “By day no less” one may find unholiness.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:4
+  type: quote
+  locator: lines 1000-1003
+  quote_or_summary: 'Pentheus declares: “Thy doom is fixed, for false pretence / Corrupting
+    Thebes.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for identification.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The dialogue is clear for figures, accusations, and night/day imagery. Motif
+    labels are cautious because the excerpt is brief and does not describe the ritual
+    beyond its timing and Pentheus' accusations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the scene to another motif family, text, or tradition.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l976-l1003
+  passage_sha256=5c85c8c4848c7e25de5108f7ec4eaa5a0bf52f8822efd656ee25b84828e5f367
+

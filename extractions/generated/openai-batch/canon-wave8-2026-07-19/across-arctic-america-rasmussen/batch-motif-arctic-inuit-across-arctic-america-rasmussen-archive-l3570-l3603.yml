@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.arctic-inuit-across-arctic-america-rasmussen-archive-l3570-l3603
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+passage_locator:
+  label: THE RAVEN AND THE LOON / THUNDER AND LIGHTNING / THE OWL AND THE MARMOT /
+    IGJUGARJUK'S SONG; lines 3570-3603
+  start: '3570'
+  end: '3603'
+  translation: 'Across Arctic America: Narrative of the Fifth Thule Expedition'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: But they grew up out of the earth
+  summary: A first-person song describes running to a plain and seeing musk oxen for
+    the first time. The animals are first thought small, then, as the speaker comes
+    within shot, they are described as growing up from the earth and appearing as
+    great black giant beasts in a summer hunting region. A heading identifies Qingaruvdliaq
+    as a woman who knew all the men's songs and prompted forgotten words.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contains a section titled “IGJUGARJUK'S SONG.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first-person speaker says he ran with all speed and met them on the plain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The beings met on the plain are identified as a great musk ox or musk oxen
+    with brilliant black hair.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says this was the first time he had seen them, and that they were
+    grazing on flowers of the plain far from the hill where he stood.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker initially thought the animals were small and slight.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: As the speaker came within shot, the animals are described as growing up out
+    of the earth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The animals are described as great black giant beasts, far from the dwellings,
+    in regions of happy summer hunting.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A heading identifies Qingaruvdliaq as a woman who knew all the men's songs
+    and prompted them when they forgot the words.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: first-person speaker in Igjugarjuk's song
+  description: The “I” of the song runs to the plain, sees the musk oxen for the first
+    time, and comes within shot.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: musk oxen
+  description: Black-haired animals seen grazing on the plain; later described as
+    great black giant beasts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Qingaruvdliaq
+  description: A woman identified as knowing all the men's songs and prompting them
+    when they forgot the words.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: song speaker
+  assigned_to:
+  - fig:1
+  basis: The section is titled as a song, and the passage uses first-person speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: hunter or approaching shooter
+  assigned_to:
+  - fig:1
+  basis: The speaker runs toward the animals and comes within shot.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: encountered game animals
+  assigned_to:
+  - fig:2
+  basis: The musk oxen are met on the plain, seen grazing, and approached within shot.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: song-knowledge holder and prompter
+  assigned_to:
+  - fig:3
+  basis: Qingaruvdliaq is described as knowing all the men's songs and prompting forgotten
+    words.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: musk ox herd
+  literal_form: Great musk ox with brilliant black hair; great black giant beasts.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: flowered plain
+  literal_form: A plain where the animals graze on flowers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: hill viewpoint
+  literal_form: The hill where the speaker stood, far from the grazing animals.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: earth-emergence image
+  literal_form: The animals “grew up out of the earth” as the speaker came within
+    shot.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: happy summer hunting region
+  literal_form: Regions of happy summer hunting, far from the dwellings.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: first sight across the plain
+  summary: The first-person speaker runs to a plain and sees black-haired musk oxen
+    grazing on flowers for the first time, from a hill at a distance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: approach within shot
+  summary: As the speaker approaches within shot, the animals are described as growing
+    up out of the earth and appearing as great black giant beasts in a summer hunting
+    region far from the dwellings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: song prompter identification
+  summary: A heading identifies Qingaruvdliaq as a woman who knew all the men's songs
+    and helped men remember forgotten words.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: first encounter with impressive game animals
+  taxonomy_refs: []
+  basis: The speaker explicitly says it was the first time he had seen the animals,
+    which are first judged small and then perceived as great giant beasts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage is a short song; the significance of the first encounter is
+    not explained beyond the speaker's description.
+- id: motif:2
+  label: game animals growing or emerging from earth
+  taxonomy_refs: []
+  basis: As the speaker comes within shot, the animals are described as growing up
+    out of the earth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The phrase may be poetic or visual, rather than a literal emergence motif;
+    no surrounding explanation is provided.
+- id: motif:3
+  label: summer hunting abundance
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The animals graze on flowers of the plain and are located in regions of happy
+    summer hunting.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage mentions summer hunting but does not narrate a full seasonal-cycle
+    pattern.
+- id: motif:4
+  label: keeper and prompter of songs
+  taxonomy_refs:
+  - wisdom
+  basis: Qingaruvdliaq is identified as knowing all the men's songs and prompting
+    forgotten words.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This appears in a heading rather than a developed narrative episode; the
+    available taxonomy term is broad.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3570-3574
+  quote_or_summary: "“IGJUGARJUK'S SONG” followed by vocables introducing the song."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 3575-3581
+  quote_or_summary: The speaker says he ran with all speed, met them on the plain,
+    and names “The great Musk Ox with brilliant black hair.”
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 3582-3585
+  quote_or_summary: The speaker says it was the first time he had seen them, grazing
+    on flowers of the plain, far from the hill where he stood.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: quote
+  locator: lines 3586-3588
+  quote_or_summary: The speaker says he ignorantly thought they were “but small and
+    slight.”
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: quote
+  locator: lines 3592-3595
+  quote_or_summary: "“But they grew up out of the earth / As I came within shot.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 3596-3603
+  quote_or_summary: The animals are called great black giant beasts, far from the
+    dwellings, in regions of happy summer hunting.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:7
+  type: quote
+  locator: lines 3589-3591
+  quote_or_summary: "“QINGARUVDLIAQ, THE WOMAN WHO KNEW ALL THE MEN'S SONGS AND PROMPTED
+    THEM WHEN THEY FORGOT THE WORDS.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on a short public-domain English passage. Motif candidates
+    are cautious because the passage is primarily a brief song and a heading, with
+    limited explanatory context. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage text and metadata were used; no external context or taxonomy IDs beyond those supplied were added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:arctic-inuit-across-arctic-america-rasmussen-archive__l3570-l3603
+  passage_sha256=62190cea20fea7fccb6a30edfc29ede5840f5bc3ff9ec8dcf066ef120bf0bb62
+

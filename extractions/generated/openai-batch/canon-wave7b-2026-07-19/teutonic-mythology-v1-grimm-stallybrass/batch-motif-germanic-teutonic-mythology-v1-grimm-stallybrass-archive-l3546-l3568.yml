@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l3546-l3568
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: MINXE-DRINKIXG.  61 / MINNE-DRINKING.  63 / PROCESSIONS.  65 / TEMPLES.  67;
+    lines 3546-3568
+  start: '3546'
+  end: '3568'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the grove was the dwelling of the gods, and a sacred symbol did instead of
+    a statue.
+  summary: Grimm comments on Tacitus's account of Germanic worship without built temples
+    or statues, emphasizing groves, sacred symbols, divine hills, and comparisons
+    with Carmelus, Rhetra, and Loreto. A footnote adds a rule that a person engaged
+    in holy office must not stumble or fall in the god's precincts.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that, in Tacitus's day, Germany had no masters able to
+    build temples or chisel statues.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The grove is described as the dwelling of the gods, and a sacred symbol is
+    said to have served instead of a statue.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Moser's interpretation is reported as saying that a divinity common to the
+    whole nation was worshipped unseen, while separate gods could have images.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Grimm rejects Moser's interpretation as too political and ill-suited to the
+    isolation of tribes at the time.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A region containing a god's hill is said to acquire greater renown and sacredness,
+    while the same worship could still have seats elsewhere.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The cited Tacitus passage on Carmelus describes Carmelus as both mountain
+    and god, with no image or temple and only an altar and reverence.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Tacitus's term secretum is glossed as seclusion rather than as a hidden mystery.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A person engaged in holy office in the presence and precincts of the god must
+    not stumble; if he falls to the ground, he forfeits his privilege.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The excerpt fragmentarily adds that a person who sinks to the earth in holy
+    combat is subject to a consequence, but the supplied text cuts off before the
+    consequence is complete.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the gods / divinity
+  description: Divine beings whose dwelling is identified with the grove and whose
+    presence is associated with holy precincts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Carmelus
+  description: A being/place in Tacitus's cited comparison, named as both mountain
+    and god, without image or temple.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: holy office participant
+  description: A person engaged in a holy office who stands in the presence and precincts
+    of the god.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: holy combat participant
+  description: A person in holy combat who sinks to the earth; the consequence is
+    fragmentary in the supplied excerpt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine object of worship and sacred presence
+  assigned_to:
+  - fig:1
+  basis: The gods are described as dwelling in the grove, and the god's presence/precincts
+    are the setting for holy office.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: mountain-deity in comparison
+  assigned_to:
+  - fig:2
+  basis: The cited Tacitus passage names Carmelus as both a mountain and a god.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: ritual officiant under falling prohibition
+  assigned_to:
+  - fig:3
+  basis: The holy office participant must not stumble and loses privilege if he falls.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: holy combatant under fragmentary falling rule
+  assigned_to:
+  - fig:4
+  basis: The supplied text says that a holy combatant who sinks to earth is subject
+    to an unfinished consequence.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sacred grove
+  literal_form: grove / nemora / luci
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: sacred symbol replacing statue
+  literal_form: unspecified sacred symbol serving instead of a statue
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: god's hill or divine mountain
+  literal_form: god's hill; Carmelus as mountain and god
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: altar without image or temple
+  literal_form: altar and reverence only, with no simulacrum or temple
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sacred precincts
+  literal_form: presence and precincts of the god
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: ground or earth in ritual fall
+  literal_form: ground / earth onto which the holy participant falls or sinks
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Grove worship without built temples or statues
+  summary: The passage describes worship in which the grove functions as the gods'
+    dwelling and an unspecified sacred symbol serves instead of a statue.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Renown of a god's hill
+  summary: A region containing a god's hill is said to gain renown and sacredness,
+    though the same worship may also have other seats.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Carmelus comparison
+  summary: In the Tacitus comparison, Carmelus is both mountain and god, and worship
+    is described without image or temple, using only altar and reverence.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Falling restriction in holy office and holy combat
+  summary: A holy office participant must not stumble or fall in the god's precincts,
+    and a fragmentary parallel mentions a holy combatant sinking to earth.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Aniconic worship in a sacred natural place
+  taxonomy_refs: []
+  basis: The passage emphasizes absence of built temples and statues, with the grove
+    as divine dwelling and a sacred symbol replacing a statue; the Carmelus comparison
+    also notes no image or temple.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a scholarly commentary on Tacitus rather than a mythic narrative
+    episode; the form of the sacred symbol is not specified.
+- id: motif:2
+  label: Sacred hill or mountain associated with divine presence
+  taxonomy_refs: []
+  basis: The passage says a region with a god's hill gains renown and cites Carmelus
+    as both mountain and god.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The Germanic god's hill is general and unnamed; Carmelus is a comparative
+    example outside the Germanic setting.
+- id: motif:3
+  label: Sacred place conferring local renown while worship remains transferable
+  taxonomy_refs: []
+  basis: The passage states that a region containing a god's hill becomes more renowned
+    and sacred, yet the same worship can have seats elsewhere.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an explanatory pattern in Grimm's commentary, not a described
+    ritual narrative.
+- id: motif:4
+  label: Loss of ritual privilege through stumbling or falling
+  taxonomy_refs: []
+  basis: The footnote states that one engaged in holy office must not stumble and
+    forfeits privilege if he falls; a fragmentary parallel mentions sinking to earth
+    in holy combat.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The holy combat clause is incomplete in the supplied excerpt, so only
+    the holy-office consequence is fully attested here.
+comparison_claims:
+- id: claim:1
+  claim: Grimm explicitly compares the Germanic absence of temples and statues with
+    Tacitus's account of Carmelus, where a mountain-god has no image or temple and
+    only an altar and reverence.
+  claim_level: same_function
+  target: Tacitus, Histories 2.78, on Carmelus
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is Grimm's scholarly juxtaposition; it does not by itself
+    establish historical contact or common inheritance.
+- id: claim:2
+  claim: Grimm compares the renown of a region containing a god's hill to the renown
+    of Rhetra and Loreto as places containing a sanctuary or Madonna image.
+  claim_level: same_function
+  target: Rhetra and Loreto as renowned sacred places
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The examples cross traditions and periods; the passage supports only
+    a functional comparison about sacred-place prestige.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3549-3552
+  quote_or_summary: "“Germany possessed no masters who could build temples or chisel
+    statues; so the grove was the dwelling of the gods, and a sacred symbol did instead
+    of a statue.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; quotation use allowed.
+- id: ev:2
+  type: summary
+  locator: 3552-3556
+  quote_or_summary: Moser's reading is summarized as unseen worship of a common national
+    divinity alongside images of separate gods; Grimm calls this view too political
+    and unsuitable for isolated tribes.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: 3557-3561
+  quote_or_summary: "“a region which included a god's hill would acquire the more
+    renown and sacredness,” but this “did not prevent the same worship from obtaining
+    seats elsewhere.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; quotation use allowed.
+- id: ev:4
+  type: summary
+  locator: 3561-3564
+  quote_or_summary: 'Grimm cites Tacitus, Histories 2.78: Carmelus is called both
+    mountain and god, with no image or temple, only altar and reverence.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 3564-3566
+  quote_or_summary: Grimm also cites Tacitus, Dialogue on Orators 12, for groves/woods
+    and seclusion, explaining secretum as seclusion rather than hidden mystery.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 3567-3568
+  quote_or_summary: The footnote says that whoever is engaged in a holy office and
+    stands in the god's presence and precincts must not stumble; if he falls to the
+    ground, he forfeits his privilege.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: '3568'
+  quote_or_summary: The supplied excerpt fragmentarily adds that one who “in holy
+    combat sinks to the earth” faces a consequence, but the sentence is cut off after
+    “may not set”.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summarized from public domain text;
+    fragmentary in supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly commentary and footnote rather than a primary
+    mythic narrative. Several motifs are religious-historical patterns. The final
+    holy-combat sentence is truncated in the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. No historical-contact or inheritance claim is made.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l3546-l3568
+  passage_sha256=a1ba7bf70d8fcca12f885970c088c067cd0a0e13410f52bf54e77599e9993d36
+

@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l103496-l103560
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ARANYAKA IV / ARANYAKA V / ADHYAYA 2. / KRULE U; lines 103496-103560
+  start: '103496'
+  end: '103560'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Only one may recite it for a father or a teacher, for that is recited for
+    oneself”"
+  summary: 'The passage discusses rules and scholarly interpretations concerning who
+    may recite the Mahavrata passage: recitation is restricted to an initiated person
+    and conditioned by altar/fire, a yearlong rite, and limits on reciting for others,
+    with an exception for a father or teacher.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states an interpretation that no one except a diksita, or initiated
+    person, may recite, and that even such a person is subject to further ritual conditions.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The quoted rule says one should not recite when there is no altar, should
+    not recite for another, and should not recite if the rite does not last a year,
+    while allowing recitation for a father or teacher.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sankhayana Aranyaka I.1 is cited as prohibiting recitation to another except
+    in the cases of satrins, a father, and a teacher.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Other cited ritual sources are reported to treat the cetyagni as optional,
+    while Katyayana Srauta Sutra is reported to require an altar at the Mahavrata.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: One proposed interpretation is that, in a sattra, the sacrificer may perform
+    the sacrifice for the benefit of a father or teacher who is not initiated and
+    cannot participate directly.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The passage says that in the Mahavrata all satrins equally obtain the benefits
+    of the rite and are forbidden to perform for others outside the circle of the
+    initiated.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: diksita reciter
+  description: An initiated person who may recite only under specified ritual conditions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: father
+  description: A person for whom recitation may be allowed as an exception to the
+    rule against reciting for another.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: teacher
+  description: A person for whom recitation may be allowed as an exception to the
+    rule against reciting for another.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: satrins
+  description: Participants in the sattra who are described as entitled to recite
+    for one another and as sharing the benefits of the rite.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+roles:
+- id: role:1
+  label: restricted ritual reciter
+  assigned_to:
+  - fig:1
+  basis: Recitation is limited to an initiated person and conditioned by altar/fire,
+    yearlong duration, and limits on reciting for another.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: father-or-teacher exception
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage allows recitation for a father or teacher and treats such recitation
+    as recited for oneself.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: initiated co-participants within a sattra
+  assigned_to:
+  - fig:4
+  basis: Satrins are described as able to recite for one another and as sharing the
+    benefits of the Mahavrata within the initiated circle.
+  evidence_refs:
+  - ev:3
+  - ev:7
+symbols:
+- id: sym:1
+  label: altar/fire condition
+  literal_form: altar / cetyagni fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: yearlong rite
+  literal_form: a rite lasting a year / yearlong sattra
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Rule against unauthorized recitation
+  summary: The passage presents a ritual rule restricting recitation to an initiated
+    person and forbidding recitation without an altar, for another person, or in a
+    rite that does not last a year, with an exception for a father or teacher.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Restriction to the initiated ritual circle
+  summary: The commentary explains the father-or-teacher exception and states that
+    satrins share the benefits of the Mahavrata while being forbidden to perform for
+    those outside the initiated circle.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Comparison with nearby ritual authorities
+  summary: The passage compares the rule with Sankhayana Aranyaka and other ritual
+    texts, noting both correspondences and differences concerning recitation for others
+    and the requirement of altar or fire.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: initiation-gated ritual speech
+  taxonomy_refs:
+  - initiation
+  basis: Only an initiated person may recite, and even that recitation is restricted
+    by ritual conditions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a ritual-prescriptive passage and commentary, not a narrative
+    mythic episode.
+- id: motif:2
+  label: sacrifice bounded by altar or fire and ritual duration
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage ties proper recitation to the presence of an altar or cetyagni
+    and to a rite lasting a year.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage reports variant scholarly and textual interpretations of the
+    altar/fire condition.
+- id: motif:3
+  label: ritual benefit for father or teacher treated as self-benefit
+  taxonomy_refs: []
+  basis: The passage allows recitation for a father or teacher and explains that such
+    recitation is regarded as for oneself or for their benefit despite their nonparticipation.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The father-or-teacher exception is discussed as ritual interpretation;
+    the passage does not present a narrative of filial or pedagogical exchange.
+- id: motif:4
+  label: initiated circle excludes outsiders from ritual benefit
+  taxonomy_refs:
+  - initiation
+  - sacrifice
+  basis: Satrins are said to share the benefits of the Mahavrata and to be forbidden
+    to perform for others outside the circle of the initiated.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The phrase is part of a commentary on ritual eligibility, so broader symbolic
+    boundary readings require review.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares its recitation rule with Sankhayana Aranyaka
+    I.1, saying both restrict recitation for another while allowing exceptions for
+    satrins, a father, and a teacher.
+  claim_level: same_function
+  target: Sankhayana Aranyaka I.1 recitation rule
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to what this passage reports; no independent
+    verification of the cited text is made here.
+- id: claim:2
+  claim: The passage compares the altar/fire condition with nearby ritual authorities,
+    reporting that some sources treat cetyagni as optional while Katyayana Srauta
+    Sutra requires an altar at the Mahavrata.
+  claim_level: same_function
+  target: Sankhayana Aranyaka I.5; Srauta Satra XVII.13.6; Katyayana Srauta Sutra
+    XVI.1.2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself notes difficulty and inconsistency in reconciling
+    these ritual rules.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 103496-103507
+  quote_or_summary: The commentator interprets the passage to mean that only a diksita
+    may recite, and only if there is a cetyagni, a yearlong sattra, and no recitation
+    for another except a father or teacher.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 103517-103521
+  quote_or_summary: "“should he recite it when there is no altar, nor should one recite
+    it for another, nor if it does not last a year… Only one may recite it for a father
+    or a teacher”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 103505-103508
+  quote_or_summary: Sankhayana Aranyaka I.1 is said to prohibit recitation to another
+    except for satrins, a father, and a teacher, corresponding to the rule discussed
+    here.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 103508-103511
+  quote_or_summary: Sankhayana Aranyaka I.5 and Srauta Satra XVII.13.6 are reported
+    to regard a cetyagni as optional.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 103511-103514
+  quote_or_summary: Katyayana Srauta Sutra XVI.1.2 is reported to insist on an altar
+    at the Mahavrata, though the commentator notes inconsistency with the father-and-teacher
+    exception.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 103514-103520
+  quote_or_summary: The commentator suggests that, in a sattra, the sacrificer may
+    carry out the sacrifice for the benefit of a father or teacher who is not initiated
+    and cannot participate directly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 103520-103523
+  quote_or_summary: The passage says that in the Mahavrata all satrins equally obtain
+    the benefits of the rite and are forbidden to perform for others outside the circle
+    of the initiated.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly scholastic commentary on ritual prescriptions, with
+    OCR noise and variant interpretations; extraction is limited to explicit ritual
+    patterns and comparisons in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact, common-inheritance, or broad archetypal comparison is asserted; comparison claims are limited to textual parallels explicitly cited in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l103496-l103560
+  passage_sha256=f04fbe55244cd53d0eac2fe7f916786e5e883554edc102bbcc94000c8ecd44db
+

@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l557-l722
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE  ESKIMO  ABOUT  BERING  STRAIT / EDWARD   WILLIAM    NELSON / EKRATA
+    / ILLUSTRATIONS'; lines 557-722
+  start: '557'
+  end: '722'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains errata for several plates, a list of illustrations
+    with page numbers and museum object numbers, and a contents-style list of ethnographic
+    and folklore sections, including headings for mythic animals, natural phenomena,
+    animal symbolism, flood legends, Raven tales, creation, the land of the dead,
+    festival origins, winds, the moon, and migration or origin legends.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The errata instructs that the titles of Plate LIII and Plate LVIII should
+    exchange the labels “seal spear” and “bird spear.”
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The errata states that the mask shown in Plate XCVII should be inverted.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The illustration list includes named regional or cultural groups and individuals
+    from Port Clarence, Shaktolik, Mechigine Bay, East Cape, Cape Prince of Wales,
+    Icy Cape, Cape Smith, Kotzebue Sound, and other locations.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The illustration list includes items of clothing and adornment such as frocks,
+    gloves, boots, mittens, straw socks, labrets, earrings, and other ornaments.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A footnote explains that numbers in parentheses after illustration titles
+    refer to United States National Museum catalog object numbers.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The contents-style list names sections on supernatural powers, mythic animals,
+    natural phenomena, showers of ashes, animal symbolism, folk tales, and the scope
+    of Alaskan folklore.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The contents-style list names folklore entries including flood legends, tales
+    of the Raven, creation, Raven taking a wife, Raven with Whale and Mink, Red Bear,
+    Giant, Lone Woman, Sun and Moon, origin of land and people, bringing of light
+    by Raven, Thunderbirds, Land of the Dead, festival origin, origin of winds, shaman
+    in the moon, Man-worm, migration legend, and origin of people of Diomede Islands
+    and East Cape.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Raven
+  description: Named in several folklore headings, including tales of the Raven, Raven
+    taking a wife, Raven with Whale and Mink, and Raven bringing light.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Whale
+  description: Named with Raven and Mink in a folklore heading.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Mink
+  description: Named with Raven and Whale in a folklore heading.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Red Bear
+  description: Named in two folklore headings, one from St Michael and Norton Sound
+    and one from Andreivsky.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: Giant
+  description: Named as a folklore heading.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Lone Woman
+  description: Named as a folklore heading.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Sun and Moon
+  description: Named in two folklore headings, one from St Michael and one from the
+    Lower Yukon.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Thunderbirds
+  description: Named in the heading “The last of the Thunderbirds.”
+  role_refs: []
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Shaman in the moon
+  description: Named as a folklore heading.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Man-worm
+  description: Named as a folklore heading.
+  role_refs: []
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: recurring named folklore figure
+  assigned_to:
+  - fig:1
+  basis: Raven appears in multiple listed tale headings, including tales of the Raven,
+    marriage, encounter with Whale and Mink, and bringing light.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:2
+  label: shamanic figure
+  assigned_to:
+  - fig:9
+  basis: The contents list includes the heading “The shaman in the moon.”
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: mask
+  literal_form: mask shown in Plate XCVII
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: spear
+  literal_form: bird spear and seal spear in plate-title errata
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: flood
+  literal_form: flood legends from St Michael
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: light
+  literal_form: bringing of the light by Raven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: moon
+  literal_form: Sun and Moon headings and shaman in the moon heading
+  associated_figures:
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: wind
+  literal_form: origin of winds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: land of the dead
+  literal_form: The Land of the Dead
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: showers of ashes
+  literal_form: Traditional showers of ashes
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Errata for plates
+  summary: The passage corrects plate titles for two spears and says that a mask image
+    should be inverted.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Illustration index
+  summary: The passage lists illustrations of people, clothing, tools, and ornaments
+    associated with named regions and groups, with page references and museum catalog
+    numbers.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Folklore contents list
+  summary: The passage lists mythic and folklore topics and tale headings, including
+    Raven tales, creation, flood legends, origin stories, land of the dead, moon,
+    winds, thunderbirds, and migration legends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: flood legend
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The contents list explicitly includes “Flood legends from St Michael.”
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only a table-of-contents heading is present; no narrative details about
+    destruction, survival, or renewal are included in this passage.
+- id: motif:2
+  label: creation and origin of land and people
+  taxonomy_refs:
+  - culture_hero
+  basis: The list includes “The creation,” “Origin of land and people,” and “Origin
+    of the people of Diomede islands and of East cape, Siberia.”
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: The headings indicate origin material, but the passage does not state
+    the actions, agents, or narrative structure; the culture-hero reference is possible
+    only because Raven is also listed in adjacent creation/light-bringing headings.
+- id: motif:3
+  label: Raven brings light
+  taxonomy_refs:
+  - culture_hero
+  basis: The contents list includes “The bringing of the light by Raven,” and other
+    Raven tale headings.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage gives only the title; it does not narrate how Raven brings
+    light or whether this involves theft, creation, or transformation.
+- id: motif:4
+  label: land of the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The list includes the folklore heading “The Land of the Dead.”
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The title suggests an afterlife setting, but this passage does not describe
+    a journey, map, route, or conditions of the dead.
+- id: motif:5
+  label: origin of winds
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The contents list includes “Origin of winds.”
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The passage provides only a heading; it does not describe seasonal order,
+    weather causation, or a cycle.
+- id: motif:6
+  label: shaman in the moon
+  taxonomy_refs:
+  - ascent
+  basis: The contents list includes “The shaman in the moon.”
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The title places a shamanic figure in the moon, but the passage does not
+    state an ascent, transformation, or journey.
+- id: motif:7
+  label: migration and people-origin legend
+  taxonomy_refs:
+  - departure
+  basis: The contents list includes “Migration legend” and “Origin of the people of
+    Diomede islands and of East cape, Siberia.”
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The passage supplies only headings, not a route, cause of migration, or
+    narrative sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 557-563
+  quote_or_summary: 'Errata: Plate LIII changes “seal spear” to “bird spear”; Plate
+    LVIII changes “bird spear” to “seal spear”; Plate XCVII’s mask should be inverted.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 565-610
+  quote_or_summary: The illustration list names regional groups, families, men, women,
+    and children from locations including Port Clarence, Shaktolik, Mechigine Bay,
+    East Cape, Cape Prince of Wales, Icy Cape, Cape Smith, and Kotzebue Sound.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 591-619
+  quote_or_summary: Illustration entries include clothing and adornment objects such
+    as birdskin, deerskin, woman’s, and fishskin frocks; gloves; boots; waterproof
+    mittens; straw socks; labrets; earrings; and other ornaments.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 621-624
+  quote_or_summary: A footnote states that parenthetical numbers following illustration
+    titles refer to United States National Museum catalog object numbers.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 628-639
+  quote_or_summary: The contents-style list includes supernatural powers, mythic animals,
+    natural phenomena, traditional showers of ashes, animal symbolism, folk tales,
+    and scope of Alaskan folklore.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 641-653
+  quote_or_summary: The list includes flood legends from St Michael, tales of the
+    Raven, creation, Raven taking a wife, Raven with Whale and Mink, Red Bear, Giant,
+    One-who-finds-nothing, Lone Woman, circling cranes, and dwarf people.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 655-667
+  quote_or_summary: The list includes Sun and Moon tales, origin of land and people,
+    bringing of light by Raven, Red Bear from Andreivsky, last of the Thunderbirds,
+    Land of the Dead, strange boy, festival origin, and origin of winds.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 669-722
+  quote_or_summary: The list includes headings for the strong man, Owl-girl, Ak-chik-chu-guk,
+    discontented Grass-plant, tire ball, Land of Darkness, Raven and Marmot, shaman
+    in the moon, Man-worm, migration legend, and origin of the people of Diomede Islands
+    and East Cape, Siberia.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is primarily errata, an illustration list, and a contents list
+    rather than a narrative passage. Literal extraction is moderately secure, but
+    motif identification is necessarily cautious because most mythic material appears
+    only as headings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare the listed headings to other traditions or motif families beyond providing titles.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l557-l722
+  passage_sha256=322f2659cf605bcda70c153b0112e7e9494f4e797bf39e4564a3066bb31ba64c
+

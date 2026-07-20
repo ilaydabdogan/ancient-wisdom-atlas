@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l19188-l19206
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: APPENDIX III. / CHAP. I, APPENDIX III. 349 / CHAP. II. APPENDIX III. 371
+    / CHAP. I, APPENDIX III. 281; lines 19188-19206
+  start: '19188'
+  end: '19206'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives two Yi line statements with the Master's explanations.
+    In the first, a line-subject is distressed before a rock, grasps at thorns, enters
+    his palace without seeing his wife, and evil is forecast; the Master explains
+    this as needless distress and improper contact leading to disgrace, danger, and
+    death. In the second, a duke shoots and hits a falcon on a high wall; the Master
+    explains the falcon, bow, arrow, shooter, concealed weapon, proper timing, and
+    successful action.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Yi statement describes the third-line subject as distressed before a rock,
+    trying to lay hold of thorns, entering his palace, not seeing his wife, and receiving
+    an evil forecast.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Master says that being distressed by what need not distress one disgraces
+    the name, and laying hold of what one should not touch imperils life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Master says that disgrace and danger will bring death soon and asks whether,
+    in those circumstances, the subject could see his wife.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Yi statement describes a duke shooting with his bow at a falcon on the top
+    of a high wall, hitting it, and having every movement be advantageous.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Master identifies the falcon as a bird of prey, the bow and arrow as a
+    weapon of war, and the shooter as a man.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Master says the superior man keeps his weapon concealed, waits for the
+    proper time to move, and succeeds when he comes forth.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: subject of the third line
+  description: The line-subject is distressed before a rock, tries to lay hold of
+    thorns, enters his palace, and does not see his wife.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: wife
+  description: The wife is not seen by the line-subject when he enters his palace;
+    the Master connects this non-seeing with the subject's disgrace, danger, and impending
+    death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: duke / shooter
+  description: The duke shoots with a bow at the falcon; the Master identifies the
+    shooter as a man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: falcon
+  description: The falcon is on the top of a high wall and is struck by the duke's
+    shot; the Master calls it a bird of prey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: The Master
+  description: The speaker who comments on both Yi statements and gives explanations
+    of their images and consequences.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: superior man
+  description: The superior man keeps his weapon concealed about his person, waits
+    for the proper time to move, and succeeds when he comes forth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: distressed line-subject
+  assigned_to:
+  - fig:1
+  basis: The subject is described as distressed before a rock, grasping thorns, entering
+    a palace, and facing an evil outcome.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unseen wife
+  assigned_to:
+  - fig:2
+  basis: The wife is specifically the person not seen by the subject in the palace
+    and is referenced again in the Master's question.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: armed shooter
+  assigned_to:
+  - fig:3
+  basis: The duke uses a bow to shoot the falcon; the Master identifies the shooter
+    as a man.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: bird-of-prey target
+  assigned_to:
+  - fig:4
+  basis: The falcon is the target on the high wall and is identified as a bird of
+    prey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: commenting teacher
+  assigned_to:
+  - fig:5
+  basis: The Master gives explanatory comments after each Yi quotation.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: prudent exemplar
+  assigned_to:
+  - fig:6
+  basis: The superior man is described as concealing his weapon, waiting for the proper
+    time, and then succeeding.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rock in distress scene
+  literal_form: rock before which the line-subject is distressed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: thorns grasped at
+  literal_form: thorns that the line-subject tries to lay hold of
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: palace entered
+  literal_form: the palace into which the subject enters without seeing his wife
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: bow and arrow
+  literal_form: the duke's bow and arrow, identified by the Master as a weapon of
+    war
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: falcon on high wall
+  literal_form: falcon on the top of the high wall, identified as a bird of prey
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: high wall
+  literal_form: top of the high wall where the falcon is located
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: concealed weapon
+  literal_form: weapon kept concealed about the superior man's person until the proper
+    time to move
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Distress before rock and failure to see wife
+  summary: The Yi image presents a subject distressed before a rock, grasping at thorns,
+    entering his palace without seeing his wife, and facing evil; the Master explains
+    this through needless distress, improper touch, disgrace, danger, and impending
+    death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Duke shoots falcon and teaching on timely action
+  summary: The Yi image presents a duke shooting and hitting a falcon on a high wall;
+    the Master interprets the falcon as prey, the bow and arrow as a weapon, and the
+    successful action as a result of concealed readiness and proper timing.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: misplaced distress and improper grasping lead to disgrace and danger
+  taxonomy_refs:
+  - wisdom
+  basis: The Master explicitly generalizes the first image into a lesson about needless
+    distress, touching what should not be touched, disgrace, danger, and death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage presents a moral-prudential
+    explanation rather than a narrative wisdom tale.
+- id: motif:2
+  label: concealed weapon and proper timing enable successful action
+  taxonomy_refs:
+  - wisdom
+  basis: The Master states that the superior man conceals his weapon, waits for the
+    proper time, and therefore succeeds when he comes forth.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The motif is expressed as didactic commentary on an image, not as an extended
+    narrative episode.
+- id: motif:3
+  label: shooting a predatory bird from a high place
+  taxonomy_refs: []
+  basis: The Yi statement depicts the duke shooting and hitting a falcon positioned
+    on the top of a high wall, and the Master identifies the falcon as a bird of prey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage uses the action as an omen or exemplar for advantageous movement;
+    no broader taxonomy family is directly supported by the supplied refs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19188-19192
+  quote_or_summary: 'Yi statement: the third-line subject is distressed before a rock,
+    tries to grasp thorns, enters his palace, does not see his wife, and evil is forecast.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19192-19197
+  quote_or_summary: 'Master''s explanation: needless distress disgraces the name;
+    laying hold of what one should not touch imperils life; disgrace and danger bring
+    death soon and prevent seeing the wife.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19198-19201
+  quote_or_summary: 'Yi statement: the duke shoots with his bow at a falcon on the
+    top of a high wall, hits it, and every movement is advantageous.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19201-19206
+  quote_or_summary: 'Master''s explanation: the falcon is a bird of prey; the bow
+    and arrow are a weapon of war; the superior man conceals his weapon, waits for
+    the proper time, comes forth, and succeeds.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal images and commentary are explicit in the passage. Motif labels
+    are cautious because the passage is an exegetical and divinatory text rather than
+    a full narrative. No comparison claims are made because the passage itself supplies
+    no cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage text and metadata; taxonomy refs limited to broad wisdom where directly supported by the Master's didactic commentary.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l19188-l19206
+  passage_sha256=84615248dac185ac813ddd0866df27fb0db96635451a79112b4ebd79add9eb38
+

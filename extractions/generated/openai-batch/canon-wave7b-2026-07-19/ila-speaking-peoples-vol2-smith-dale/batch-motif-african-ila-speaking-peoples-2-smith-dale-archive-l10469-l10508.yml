@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l10469-l10508
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: THE BA-ILA AT PLAY / FOUR BA-ILA PIANOS. / DIAGRAM OF THE PUSH-DRUM. / PT.
+    V; lines 10469-10508
+  start: '10469'
+  end: '10508'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the namalwa or push-drum, including its construction,
+    method of playing, sound, and uses for announcing war, accident, or disaster and
+    for leading cattle across a river. It also describes the mwandu, made from a grain
+    mortar, leather, reed, and water, and notes its use in girls' initiation ceremonies.
+    It begins a description of the kayanda as an ordinary drum or tom-tom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The namalwa is described as a drum carved from a solid log, open at the base,
+    with a skin-covered head and a central hole through which a reed passes and is
+    secured outside with a peg.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man plays the namalwa by using sodden grass to grasp the reed inside the
+    drum and moving his hand backward and forward along it while seated with the drum
+    between his legs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The namalwa produces a deep, booming note.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The namalwa is used to announce war, accident, or disaster of any kind.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When cattle are to be crossed over a river, the namalwa is sent ahead in a
+    canoe and the cattle follow.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The mwandu is made by placing an inkidi, described as a grain mortar, on the
+    ground and covering the top with dressed leather.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A woman plays the mwandu by dipping one hand in water and moving it up and
+    down a reed standing upright on the leather.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The mwandu produces a deep, raucous note.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The mwandu is used in connection with girls' initiation ceremonies.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The kayanda is identified as the ordinary drum or tom-tom.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: man playing the namalwa
+  description: A man sits with the namalwa between his legs and plays it with sodden
+    grass on the reed, steadying the string with his left hand.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: woman playing the mwandu
+  description: A woman dips one hand in water and draws it up and down a reed standing
+    upright on leather.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: cattle crossing a river
+  description: Cattle follow the namalwa when it is sent ahead in a canoe for a river
+    crossing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: namalwa player
+  assigned_to:
+  - fig:1
+  basis: The passage states that a man plays the namalwa by moving sodden grass along
+    the reed while seated with the drum between his legs.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: mwandu player
+  assigned_to:
+  - fig:2
+  basis: The passage states that a woman dips a hand in water and moves it along the
+    reed of the mwandu.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: followers of the drum during river crossing
+  assigned_to:
+  - fig:3
+  basis: The passage states that cattle follow the drum after it is sent ahead in
+    a canoe.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: namalwa or push-drum
+  literal_form: Solid-log drum, open at the base, with a skin head, central reed,
+    peg, and string; also called the push-drum.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: reed used in drum playing
+  literal_form: A reed passing through the namalwa head or standing upright on the
+    mwandu leather surface.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: water
+  literal_form: Water used to wet the mwandu player's hand, and river water crossed
+    by cattle following the drum.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: mwandu
+  literal_form: Instrument formed from a grain mortar covered with dressed leather,
+    with an upright reed played by a wet hand.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: kayanda
+  literal_form: Ordinary drum or tom-tom; the namalwa head is described as skin-covered
+    like the kayanda.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+scenes:
+- id: scene:1
+  label: playing the namalwa
+  summary: A man sits with the namalwa between his legs and plays it by moving sodden
+    grass along an internal reed, producing a deep booming note.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: public uses of the namalwa
+  summary: The namalwa is used to announce war, accident, or disaster, and it is sent
+    ahead in a canoe when cattle are crossed over a river so that the cattle follow.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: mwandu and girls' initiation ceremonies
+  summary: The mwandu is made from a grain mortar covered with leather and played
+    by a woman using water and a reed; it is used in connection with girls' initiation
+    ceremonies.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: drum announcement of war or disaster
+  taxonomy_refs: []
+  basis: The passage states that the namalwa is used to give announcement of war,
+    accident, or disaster.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is presented as an ethnographic function of an instrument, not as
+    a narrative mythic episode.
+- id: motif:2
+  label: drum sent ahead over water and followed by cattle
+  taxonomy_refs: []
+  basis: The passage states that when cattle are to cross a river, the namalwa is
+    sent ahead in a canoe and the cattle follow.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a practical procedure and does not explain a ritual,
+    symbolic, or mythic meaning.
+- id: motif:3
+  label: instrument used in girls' initiation ceremonies
+  taxonomy_refs:
+  - initiation
+  basis: The passage states that the mwandu is used in connection with girls' initiation
+    ceremonies.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe the initiation sequence or the instrument's
+    role beyond its connection with the ceremonies.
+comparison_claims:
+- id: claim:1
+  claim: The namalwa's skin-covered head is explicitly compared to that of the kayanda.
+  claim_level: visual_similarity
+  target: kayanda, identified in the passage as the ordinary drum or tom-tom
+  evidence_refs:
+  - ev:1
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to construction or appearance; the passage
+    does not state that the namalwa and kayanda share the same use or ritual meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10469-10477
+  quote_or_summary: The namalwa is carved from a solid log, open at the base, with
+    a skin-covered head like the kayanda and a central reed secured by a peg.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 10478-10488
+  quote_or_summary: A man plays the namalwa with sodden grass on the reed while seated
+    with the drum between his legs; the drum produces a deep, booming note.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 10488-10491
+  quote_or_summary: '"It is used in giving announcement of war, or accident or disaster
+    of any kind."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: 10491-10495
+  quote_or_summary: When cattle are to be crossed over a river, the drum is sent ahead
+    in a canoe and the cattle follow.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 10496-10503
+  quote_or_summary: The mwandu is made from a grain mortar covered with dressed leather;
+    a woman uses water on one hand and moves it along an upright reed, producing a
+    deep, raucous note.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: 10503-10505
+  quote_or_summary: '"It is used in connection with the girls'' initiation ceremonies."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: 10506-10508
+  quote_or_summary: The kayanda is described as the ordinary drum or tom-tom, with
+    variation in size and workmanship beginning to be noted.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The instrument descriptions and stated uses are explicit. Motif confidence
+    is lower overall because much of the passage is practical ethnographic description
+    rather than mythic narrative; only the initiation connection maps directly to
+    an available motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unsupported taxonomy identifiers were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l10469-l10508
+  passage_sha256=a6d053b85952f5f45f0f9a347d282a7693360a90ea0d4437958458bd9332fadd
+

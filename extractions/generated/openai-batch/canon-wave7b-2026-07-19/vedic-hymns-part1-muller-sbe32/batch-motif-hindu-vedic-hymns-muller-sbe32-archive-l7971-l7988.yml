@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l7971-l7988
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. 1, 6, 2. 29 / NOTES. 1, 6, 4. 31 / NOTES. I, 6, 4. 33 / IV, 58, 4;
+    IV, 45, 6.; lines 7971-7988
+  start: '7971'
+  end: '7988'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The note discusses the term svadhaya. It says the Maruts were born together
+    according to their nature, compares this to another Vedic phrase, and adds that
+    elsewhere svadhaya can mean by itself or by its own power. It cites a verse in
+    which Dawn mounts a chariot harnessed by itself, without human assistance.
+  language: English, with transliterated Sanskrit citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Maruts are described as having been born together according to their nature.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note rejects rendering the Maruts' birth here as birth by their own strength
+    or by spontaneous generation.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The term svadhaya is explained elsewhere as meaning by itself, by its own
+    power, or sponte sua.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dawn is described as mounting a chariot that was harnessed by itself or by
+    its own power.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The chariot's self-harnessing is explained as not requiring people to put
+    the horses to it.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Maruts
+  description: A collective group said to have been born together according to their
+    nature.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dawn
+  description: A feminine figure who mounts a self-harnessed chariot.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: People
+  description: Human assistants whose help is said not to be required for harnessing
+    the chariot.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: collective divine birth group
+  assigned_to:
+  - fig:1
+  basis: The Maruts are said to have been born together according to their nature.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chariot rider
+  assigned_to:
+  - fig:2
+  basis: Dawn mounts the chariot.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: unneeded human helpers
+  assigned_to:
+  - fig:3
+  basis: The passage says the chariot did not require people to put the horses to
+    it.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: self-harnessed chariot
+  literal_form: chariot harnessed by itself, by its own power
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: birth together
+  literal_form: Maruts born together according to their nature
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Maruts born together
+  summary: The note presents the Maruts as born together according to their nature
+    and clarifies how this should not be translated.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dawn mounts the self-harnessed chariot
+  summary: Dawn mounts a chariot that is said to be harnessed by itself or by its
+    own power, without human assistance.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: collective sacred birth according to nature
+  taxonomy_refs:
+  - sacred_birth
+  basis: The Maruts are a named group described as born together according to their
+    nature.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a philological note and explicitly cautions against reading
+    the phrase as spontaneous generation or birth by their own strength.
+- id: motif:2
+  label: self-acting divine vehicle
+  taxonomy_refs: []
+  basis: Dawn's chariot is described as harnessed by itself, by its own power, without
+    human assistance.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy list does not include a specific vehicle motif;
+    the passage is explanatory rather than narrative.
+comparison_claims:
+- id: claim:1
+  claim: The note makes a linguistic comparison between the Maruts passage and another
+    Vedic phrase involving svadham/svadhaya.
+  claim_level: linguistic_similarity
+  target: 'Vedic phrase cited as I, 6, 4: d4nu svadham'
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports only a lexical or philological comparison, not
+    a historical-contact or shared-motif claim.
+- id: claim:2
+  claim: The note identifies a recurring usage pattern in which svadhaya can mean
+    by itself or by its own power in other passages.
+  claim_level: linguistic_similarity
+  target: Other cited Vedic passages using svadhaya, including VII, 78, 4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns word usage across passages, not a broader mythological
+    motif family.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7973-7976
+  quote_or_summary: The Maruts are said to have been born together according to their
+    nature, with a comparison to another Vedic phrase at I, 6, 4.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7976-7978
+  quote_or_summary: The note says this should hardly be rendered as birth by their
+    own strength or by spontaneous generation.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7979-7981
+  quote_or_summary: The note explains that in other passages svadhaya can mean by
+    its own power, by nature, by itself, or sponte sua.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7983-7988
+  quote_or_summary: A cited verse says Dawn mounted a chariot harnessed by itself,
+    by its own power, without people needing to put the horses to it.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but the passage is a note on language
+    rather than a full mythic narrative, so motif assignments are tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unavailable taxonomy symbol IDs were assigned; chariot and collective birth were recorded as passage-specific symbols without taxonomy references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l7971-l7988
+  passage_sha256=3c8b90e0c91f27d262234faca84c605d43adf40efb611c4018def70dea76a627
+

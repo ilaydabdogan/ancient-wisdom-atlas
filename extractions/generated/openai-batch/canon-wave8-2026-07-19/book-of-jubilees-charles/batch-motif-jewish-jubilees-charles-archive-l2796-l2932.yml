@@ -1,0 +1,525 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l2796-l2932
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: INTRODUCTION XXV / INTRODUCTION XXXV / INTRODUCTION 11 / INTRODUCTION; lines
+    2796-2932
+  start: '2796'
+  end: '2932'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: This introduction section surveys Jewish, Samaritan, and Christian writings
+    that share material with, cite, or reproduce Jubilees. It notes parallels with
+    Midrash Tadshe, the Book of Jashar, and the Samaritan Chronicle; a Samaritan calendrical
+    claim connected with Noah in the Ark; patristic citations about Cain and Abel,
+    the wives or sisters of Cain and Seth, and postmortem destinies and a contest
+    between Michael and Satan over Moses’ soul.
+  language: English with Greek and Latin citation fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Midrash Tadshe contains passages common to Jubilees
+    and that its materials are traced through Rabbi Pinchas ben Jair to the text under
+    discussion.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the late Hebrew Book of Jashar contains much matter
+    in common with Jubilees and is probably derived from it ultimately as a source.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the Samaritan Chronicle polemicizes against calculating
+    by the sun only and says that the Samaritan system was known to Noah in the Ark.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says that the ages of antediluvian patriarchs at the birth of
+    their eldest sons agree in Jubilees and the Samaritan Chronicle in every listed
+    instance except Seth.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Didymus of Alexandria is cited as saying that in the book called Leptogenesis
+    Cain struck Abel with a stone or wood.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Epiphanius is cited as saying that Jubilees, also called Little Genesis, contains
+    the names of the women of Cain and Seth, and that Cain and Seth were joined to
+    sisters.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Decretum Gelasianum is described as including the book among rejected
+    writings under a title referring to the daughters of Adam and Leptogenesis.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Severus of Antioch is described as discussing destinies awaiting good and
+    evil souls after separation from the body and incidents in a contest between Michael
+    and Satan for Moses’ soul, attributing these statements to the apocryphal book.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Noah
+  description: Noah is named as the person to whom the Samaritan system was known
+    while in the Ark.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Cain
+  description: Cain is named in citations as striking Abel and as being joined to
+    an elder sister.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Abel
+  description: Abel is named as the person struck by Cain with a stone or wood.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Seth
+  description: Seth is named in the Epiphanius citation as being joined to a sister
+    called Axura.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Cain’s elder sister
+  description: The Epiphanius citation says Cain was joined to an elder sister whose
+    name appears in the Greek citation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Axura
+  description: Axura is named in the Epiphanius citation as Seth’s sister.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Good and evil souls
+  description: Severus is described as treating the destinies awaiting good and evil
+    souls after separation from the body.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Michael
+  description: Michael is named as one party in a contest with Satan for Moses’ soul.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: Satan
+  description: Satan is named as one party in a contest with Michael for Moses’ soul.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: Moses
+  description: Moses is named as the figure whose soul is contested by Michael and
+    Satan.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Ark-associated bearer of calendrical system
+  assigned_to:
+  - fig:1
+  basis: The Samaritan Chronicle is said to claim that the Samaritan system was known
+    to Noah in the Ark.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Aggressor against Abel
+  assigned_to:
+  - fig:2
+  basis: The Didymus citation says Cain struck Abel with a stone or wood.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: Victim of Cain’s blow
+  assigned_to:
+  - fig:3
+  basis: Abel is the one struck by Cain in the cited statement.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Primeval kin-spouse pairing
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The Epiphanius citation says Cain and Seth were joined to sisters, one of
+    whom is named Axura for Seth.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Postmortem moral categories
+  assigned_to:
+  - fig:7
+  basis: Severus is described as treating the destinies of good and evil souls after
+    separation from the body.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: Contestant for Moses’ soul
+  assigned_to:
+  - fig:8
+  basis: Michael is named in the contest with Satan for the soul of Moses.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: Adversarial contestant for Moses’ soul
+  assigned_to:
+  - fig:9
+  basis: Satan is named in the contest with Michael for the soul of Moses.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: Possessor of contested soul
+  assigned_to:
+  - fig:10
+  basis: The soul at issue in the Michael-Satan contest is Moses’ soul.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Ark
+  literal_form: Noah in the Ark
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Flood context
+  literal_form: the flood
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - flood_and_renewal
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Sun as calendrical basis
+  literal_form: the sun only
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Stone or wood weapon
+  literal_form: stone or wood
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Separated soul
+  literal_form: souls on separation from the body; the soul of Moses
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Samaritan calendrical claim in the Ark
+  summary: The Samaritan Chronicle is reported to oppose solar-only calculation and
+    to say that the Samaritan system was known to Noah in the Ark, in a discussion
+    connected with the flood.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Cain strikes Abel
+  summary: A patristic citation of Leptogenesis says that Cain struck Abel with a
+    stone or wood.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Cain and Seth joined to sisters
+  summary: A citation of Jubilees says the book contains the names of the women of
+    Cain and Seth, and describes Cain and Seth as joined to sisters.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Postmortem souls and contest for Moses’ soul
+  summary: Severus is described as discussing destinies for good and evil souls after
+    separation from the body and incidents in a contest between Michael and Satan
+    for Moses’ soul.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Sacred or communal calendrical knowledge preserved in the Ark
+  taxonomy_refs:
+  - ark_vessel
+  - flood_and_renewal
+  basis: The passage reports a Samaritan Chronicle claim that the Samaritan system
+    was known to Noah in the Ark, in a flood-calendar context.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage summarizes another text’s claim and does not narrate the episode
+    in full.
+- id: motif:2
+  label: Solar-only sacred time reckoning disputed by a rival tradition
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that the Samaritan Chronicle polemicizes against the author’s
+    view that calculations should be made according to the sun only.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The taxonomy link to seasonal cycle is indirect; the passage concerns
+    calendrical calculation rather than a mythic seasonal cycle.
+- id: motif:3
+  label: Cain’s assault on Abel with primitive weapon
+  taxonomy_refs: []
+  basis: Didymus cites Leptogenesis as saying Cain struck Abel with a stone or wood.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the brief cited detail, not a full narrative context.
+- id: motif:4
+  label: Primeval kin marriage between named siblings
+  taxonomy_refs:
+  - sibling_pair
+  basis: Epiphanius is cited as saying Cain and Seth were joined to sisters, and that
+    Jubilees contained the names of the women of Cain and Seth.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy term is general; the passage itself concerns wives
+    or sisters in early genealogy.
+- id: motif:5
+  label: Postmortem destinies of morally divided souls
+  taxonomy_refs:
+  - afterlife_journey_map
+  - divine_judgment
+  basis: Severus is described as discussing the destinies awaiting good and evil souls
+    after separation from the body.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage mentions differentiated destinies but does not provide the
+    details of judgment or afterlife geography.
+- id: motif:6
+  label: Supernatural contest over a holy figure’s soul
+  taxonomy_refs:
+  - afterlife_journey_map
+  - duality
+  basis: The passage refers to incidents concerning a contest between Michael and
+    Satan for the soul of Moses.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage reports the theme secondhand through Severus and gives no
+    episode details.
+comparison_claims:
+- id: claim:1
+  claim: Midrash Tadshe is presented as sharing passages and materials with Jubilees,
+    with a proposed line of dependence through earlier materials.
+  claim_level: historical_contact
+  target: Midrash Tadshe and Jubilees
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports the editor’s conclusion and refers readers elsewhere
+    for the parallel passages; no specific shared motif is quoted here.
+- id: claim:2
+  claim: The Book of Jashar is presented as containing much matter in common with
+    Jubilees and probably deriving some of it ultimately from Jubilees.
+  claim_level: historical_contact
+  target: Book of Jashar and Jubilees
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a general textual-dependence claim and refers to
+    an index for examples.
+- id: claim:3
+  claim: The Samaritan Chronicle is compared with Jubilees on calendrical tradition,
+    Noah-in-Ark material, and antediluvian patriarchal age data, while also being
+    described as polemical against Jubilees’ solar reckoning.
+  claim_level: same_function
+  target: Samaritan Chronicle and Jubilees
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns shared and rival chronographic functions; the passage
+    also notes divergence for post-diluvian patriarchs.
+- id: claim:4
+  claim: Patristic and other Christian writings are presented as citing or reproducing
+    Jubilees, including details about Cain and Abel, Cain and Seth’s women, and Moses’
+    soul.
+  claim_level: historical_contact
+  target: Christian patristic literature and Jubilees / Little Genesis
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports citation or reproduction, but individual motif
+    details are preserved here only as brief citations or summaries.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2801-2808
+  quote_or_summary: Midrash Tadshe is said to have been written by Moses ha-Darshan,
+    based on an early work by Rabbi Pinchas ben Jair, who drew materials from Jubilees;
+    common passages are noted.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2810-2818
+  quote_or_summary: The Book of Jashar is described as a late Hebrew work with much
+    matter in common with Jubilees and probably ultimately deriving some material
+    from it.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2820-2828
+  quote_or_summary: The Samaritan Chronicle is said to contain a polemic against reckoning
+    by the sun only; it says that the Samaritan system was known to Noah in the Ark.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation summarized with brief quoted
+    phrase.
+- id: ev:4
+  type: summary
+  locator: lines 2828-2855
+  quote_or_summary: The passage compares antediluvian patriarchal ages in Jubilees
+    and the Samaritan Chronicle, stating that they agree in every instance except
+    Seth, while later post-diluvian ages usually diverge until Terah.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 2865-2869
+  quote_or_summary: 'Didymus of Alexandria cites the book called Leptogenesis: Cain
+    struck Abel with a stone or wood.'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quoted content summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2871-2878
+  quote_or_summary: Epiphanius says Jubilees, also called Little Genesis, contains
+    the names of the women of Cain and Seth; the citation says Cain was joined to
+    an elder sister and Seth to a sister named Axura.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized from Greek citation.
+- id: ev:7
+  type: summary
+  locator: lines 2883-2887
+  quote_or_summary: The Decretum Gelasianum includes the book among writings to be
+    rejected, under a Latin title referring to the daughters of Adam and Leptogenesis
+    as apocryphal.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2889-2897
+  quote_or_summary: Severus of Antioch is described as discussing the destinies of
+    good and evil souls after separation from the body and incidents in the contest
+    between Michael and Satan for Moses’ soul, saying the material comes from the
+    apocryphal book.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 2857-2864
+  quote_or_summary: The introduction states that Christian literature reproduces Jubilees
+    either by name or anonymously, and introduces authors who cite Jubilees or Little
+    Genesis by name.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introduction discussing textual parallels and citations
+    rather than a continuous mythic narrative. Motif candidates are therefore based
+    on cited or summarized episodes and should be reviewed against the referenced
+    Jubilees passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures, objects, or comparisons were added beyond those named or directly described in the supplied passage. Taxonomy references were limited to available motif families where the passage supported them.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l2796-l2932
+  passage_sha256=9f9ba744d28e0d5f1fe59a33887782feb8afd112f044be004c3ece5af91dd469
+

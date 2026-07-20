@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l95599-l95677
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: AITAREYA ARANYAKA / TRANSLATION AND NOTES / ARANYAKA I / KEITH M; lines 95599-95677
+  start: '95599'
+  end: '95677'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: For Agni is the eater of food.
+  summary: The passage contains commentary on identifications among Vac, brahman,
+    meters, and related doctrines; notes on ritual verses and recitation formulae;
+    and a translation excerpt instructing one who desires proper food to use an Agni
+    hymn because Agni is the eater of food. It contrasts other ghee-offering chants
+    that approach Agni slowly with this hymn, which reaches Agni at the beginning.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Sayana is reported as giving reasons for identifications involving parabrahma,
+    gayatri, Vac, anustubh, and brahman, while the note says there is no reason to
+    suppose these identifications have a basis beyond fancy.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that the original sense of brahman, distinguished from Brahman
+    the god, was prayer or spell.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note states that Vac as brahman was a doctrine associated with a cited
+    teacher and set forth by Yajnavalkya in the Brhadaranyaka Upanisad, with later
+    development in a Logos doctrine.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Sayana is said to explain that the Adhyastutis are primarily intended for
+    gaining desired results but nevertheless make up the sacrifice and do not leave
+    it imperfect.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The notes cite Santi verses and related textual occurrences, including wording
+    about divine waters, herbs, Sarasvati, and a prayer not to be separated from the
+    deity's sight.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The notes describe formulae accompanying recitation of the Samhitas, including
+    declarations of speaking truth, protection from consecration, the sun as foremost
+    of lights, and appropriation of brightness.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A person who desires proper food is instructed to use the hymn beginning with
+    Agni kindled from twigs with splendour.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Agni is called the eater of food.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Other chants accompanying ghee-offerings are said to approach Agni more slowly,
+    while this hymn comes upon Agni at the very beginning and the beneficiary obtains
+    proper food at the beginning.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named in the ritual excerpt as the eater of food; men kindle him from
+    twigs with splendour, and chants with ghee-offerings approach him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: person desiring proper food
+  description: A ritual beneficiary instructed to use the Agni hymn in order to obtain
+    proper food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Sayana
+  description: Commentator cited for reasons behind identifications and for explaining
+    the ritual function of Adhyastutis.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Vac
+  description: Sacred speech; described in cited identifications as having four forms
+    and as identified with brahman in a doctrine discussed in the note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Yajnavalkya
+  description: Cited as setting forth the identification of Vac and brahman in the
+    Brhadaranyaka Upanisad.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine eater and recipient of ritual approach
+  assigned_to:
+  - fig:1
+  basis: Agni is called the eater of food and is approached through chants accompanying
+    ghee-offerings.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: ritual beneficiary
+  assigned_to:
+  - fig:2
+  basis: The passage instructs one who desires proper food to use a specific hymn
+    and says he obtains proper food.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: commentarial authority
+  assigned_to:
+  - fig:3
+  basis: Sayana is cited as providing explanations for identifications and for the
+    ritual purpose of the Adhyastutis.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: sacred speech identified with brahman
+  assigned_to:
+  - fig:4
+  basis: The note discusses Vac as having four forms and as brahman in a cited doctrine.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: cited teacher of doctrine
+  assigned_to:
+  - fig:5
+  basis: Yajnavalkya is named as setting forth the identification of Vac and brahman.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Agni-fire
+  literal_form: Agni, kindled from twigs, called the eater of food
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: proper food
+  literal_form: proper food desired and obtained through the prescribed hymn
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: ghee-offerings
+  literal_form: chants accompanying ghee-offerings that approach Agni
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: speech as prayer-spell
+  literal_form: Vac and brahman discussed as sacred speech, prayer, or spell
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: four forms of Vac
+  literal_form: Vac is said in cited material to have four forms
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: solar brightness
+  literal_form: the sun as foremost light; arisen brightness appropriated by formula
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: divine waters and herbs
+  literal_form: Santi wording referring to divine waters and herbs
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Commentarial discussion of sacred speech and brahman
+  summary: The notes discuss Sayana's reasons for identifying sacred entities and
+    meters, reject some identifications as fanciful, define brahman as prayer or spell,
+    and cite a doctrine identifying Vac with brahman.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ritual purpose of result-seeking chants
+  summary: Sayana explains that certain chants are primarily for gaining desired results
+    while still completing the sacrifice.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Recitation formulae and protective brightness
+  summary: The notes describe formulae used with Samhita recitation, including truth-speaking,
+    protection during consecration, recognition of the sun's light, and appropriation
+    of brightness.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Agni hymn for proper food
+  summary: A person who desires proper food is instructed to use an Agni hymn; Agni
+    is named as the eater of food, and this hymn reaches Agni at the beginning in
+    contrast to slower ghee-offering chants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ritual recitation to obtain food
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The passage says one who desires proper food should use a specified Agni
+    hymn, because Agni is the eater of food, and that the beneficiary obtains proper
+    food at the beginning.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives a ritual instruction and explanation, not a narrative
+    episode.
+- id: motif:2
+  label: sacrifice completed by result-seeking chants
+  taxonomy_refs:
+  - sacrifice
+  basis: Sayana is summarized as saying that the Adhyastutis are primarily for desired
+    results but still constitute part of the sacrifice and do not make it imperfect.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The terminology is technical and the supplied OCR is imperfect.
+- id: motif:3
+  label: sacred speech as efficacious prayer-spell
+  taxonomy_refs:
+  - wisdom
+  basis: The note defines brahman as prayer or spell and discusses the identification
+    of Vac with brahman.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage is doctrinal commentary
+    rather than mythic narration.
+- id: motif:4
+  label: appropriation of purifying brightness through formula
+  taxonomy_refs: []
+  basis: The notes describe formulae in which arisen brightness is appropriated by
+    the speaker and connect this with beneficial and purifying effects of solar radiance.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an interpretive note on ritual formulae, not a full ritual narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the identification of Vac with brahman to nearby
+    Vedic and Upanisadic materials, especially the Brhadaranyaka Upanisad and other
+    cited texts.
+  claim_level: same_function
+  target: Vac-as-brahman doctrine in cited Brhadaranyaka Upanisad, Tandya Mahabrahmana,
+    Chandogya Upanisad, and related Logos discussion
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim relies on the note's citations and summaries; the referenced
+    passages themselves are not supplied here.
+- id: claim:2
+  claim: The passage notes verbal and ritual parallels for Santi and recitation formulae
+    across related Vedic ritual corpora.
+  claim_level: linguistic_similarity
+  target: Santi and recitation formulae in Taittiriya Aranyaka, Atharvaveda, Sankhayana
+    Grhya Sutra, and Sankhayana Aranyaka as cited
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides citations and partial wording, but not the complete
+    comparative texts.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 95599-95610
+  quote_or_summary: Notes report Sayana's reasons for identifications involving parabrahma,
+    gayatri, Vac, and brahman; state that brahman originally meant prayer or spell;
+    and mention Vac-as-brahman as a doctrine set forth by Yajnavalkya and developed
+    in later Logos doctrine.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 95612-95620
+  quote_or_summary: Sayana explains that the Adhyastutis are primarily intended for
+    gaining desired results but nevertheless make up the sacrifice and do not leave
+    it imperfect.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 95622-95632
+  quote_or_summary: The notes discuss Santi verses and their attestations, including
+    wording about divine waters, herbs, Sarasvati, and a prayer not to be separated
+    from the deity's sight.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 95634-95655
+  quote_or_summary: The notes describe formulae accompanying recitation of the Samhitas,
+    including speaking truth, uninjured mind and sight, the sun as foremost light,
+    consecration not harming the speaker, brightness being given forth and appropriated,
+    and gods attending the speaker.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 95663-95666
+  quote_or_summary: '"He who desires proper food should use the hymn, ‘Agni men kindle
+    from the twigs with splendour’ ... For Agni is the eater of food."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 95666-95670
+  quote_or_summary: The translation says that in other chants accompanying ghee-offerings
+    men approach Agni more slowly, but here they come upon Agni at the beginning;
+    at the beginning the beneficiary obtains proper food.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly technical commentary and contains OCR noise. Motif
+    extraction is strongest for the explicit Agni food-obtaining hymn and sacrificial
+    context; doctrinal and comparative claims should be reviewed against clean text
+    and cited sources.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to the provided motif families and symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l95599-l95677
+  passage_sha256=846ad6ad132940b9c11e310336f021ccb17f187f546feef03021bd7e3f14eddc
+

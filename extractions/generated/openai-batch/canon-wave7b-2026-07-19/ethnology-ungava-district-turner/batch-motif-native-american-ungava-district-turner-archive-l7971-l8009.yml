@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l7971-l8009
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: THE HUDSON BAY ESKIMO. / THE HUDSON BAY ESKIMO, / CLOTHING, / THE HUDSON
+    BAY ESKIMO.; lines 7971-8009
+  start: '7971'
+  end: '8009'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: carried in a bag known as “fire bag.”
+  summary: A fragmentary ethnographic passage describes a bag called a fire bag, ornamented
+    clothing or related items, clothing designs influenced by printed fabrics, headbands
+    made for men, and figure captions for a Nenenot sealskin headband and skin scraper.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A bag called a “fire bag” is said to carry the fragmentary item “bacco” and
+    a few other necessary articles.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that some items are made of cloth, trimmed with beads,
+    and tastefully ornamented; the antecedent of “These” is unclear in the provided
+    extract.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Detailed figures are said to show designs used in ornamenting clothing.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A figure caption identifies a sealskin headband associated with the label
+    Nenenot.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some ornament patterns are described as rough copies of designs found on cheap
+    handkerchiefs, scarves, and other printed fabrics.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Headbands are described as worked for men, but the maker phrase is cut off
+    in the provided extract.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Figure captions identify front and back views of a skin scraper associated
+    with the label Nenenot.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Nenenot
+  description: Label attached to figure captions for a sealskin headband and a skin
+    scraper.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: men
+  description: Men for whom headbands are said to be worked in the fragmentary sentence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: caption-associated group label
+  assigned_to:
+  - fig:1
+  basis: The word Nenenot appears in captions for the sealskin headband and skin scraper.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: recipients or wearers of worked headbands
+  assigned_to:
+  - fig:2
+  basis: The passage says headbands were worked for men, though the sentence is incomplete.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire bag
+  literal_form: Bag known as “fire bag,” used to carry necessary articles.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bead-trimmed cloth ornamentation
+  literal_form: Cloth items trimmed with beads and described as tastefully ornamented.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: printed-fabric-derived patterns
+  literal_form: Ornament patterns copied from handkerchiefs, scarves, and other printed
+    fabrics.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sealskin headband
+  literal_form: Figure-captioned sealskin headband associated with Nenenot.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: skin scraper
+  literal_form: Figure-captioned skin scraper shown from front and back, associated
+    with Nenenot.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ethnographic description of bags, clothing ornaments, and tools
+  summary: 'The passage presents material-culture notes: a fire bag, bead-trimmed
+    ornamentation, clothing designs, headbands for men, and captions for Nenenot objects
+    including a sealskin headband and a skin scraper.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7971-7974
+  quote_or_summary: "“bacco and a few other necessary articles are carried in a bag
+    known as ‘fire bag.’”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 7975-7980
+  quote_or_summary: The passage says some items are made of cloth, trimmed with beads,
+    tastefully ornamented, and that detailed figures show designs used in ornamenting
+    clothing.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7981-7983
+  quote_or_summary: A caption identifies “Fig. 101” as a sealskin headband with the
+    label Nenenot.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized with brief caption text.
+- id: ev:4
+  type: summary
+  locator: lines 7984-7989
+  quote_or_summary: The passage describes some patterns as copies of designs on cheap
+    handkerchiefs, scarves, and printed fabrics, and begins a sentence about headbands
+    worked for men.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7990-8009
+  quote_or_summary: Captions identify front and back views of a Nenenot skin scraper.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Extraction is limited by OCR irregularities and fragmentary sentences. No
+    mythic motif candidate or comparison claim is supported by this material-culture
+    passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available motif-family taxonomy reference was applied; the passage supports only literal material-culture observations.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l7971-l8009
+  passage_sha256=29026a7f2cd820d6793b518a0b63635e5c23761d5624ff5bbfbc693364c8b497
+

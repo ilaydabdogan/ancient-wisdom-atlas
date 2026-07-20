@@ -1,0 +1,157 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l45861-l45866
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXV / SECTION CCXVI / SECTION CCXVII / SECTION CCXVIII; lines 45861-45866
+  start: '45861'
+  end: '45866'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"By following what conduct...did Janaka...succeed in attaining to Emancipation"'
+  summary: Yudhishthira asks a knowledgeable addressee what conduct enabled Janaka,
+    ruler of Mithila, to attain Emancipation after giving up worldly enjoyments.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira asks a question about the conduct that leads to Emancipation.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee is described as conversant with all courses of conduct.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Janaka is identified as ruler of Mithila and as versed in the religion of
+    Emancipation.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Janaka is said to have cast off worldly enjoyments and attained Emancipation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who asks how Janaka attained Emancipation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Unnamed knowledgeable addressee
+  description: Person addressed as conversant with all courses of conduct.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Janaka, ruler of Mithila
+  description: Ruler of Mithila, versed in the religion of Emancipation, who attained
+    Emancipation after casting off worldly enjoyments.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioner seeking instruction
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks what conduct led to Janaka's Emancipation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: knowledgeable addressee
+  assigned_to:
+  - fig:2
+  basis: The addressee is described as conversant with all courses of conduct.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: renouncing exemplar of Emancipation
+  assigned_to:
+  - fig:3
+  basis: Janaka is presented as one who cast off worldly enjoyments and attained Emancipation.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Question about Janaka's path to Emancipation
+  summary: Yudhishthira asks an unnamed knowledgeable addressee what conduct Janaka
+    followed to attain Emancipation after renouncing worldly enjoyments.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Instruction-seeking about liberating conduct
+  taxonomy_refs:
+  - wisdom
+  basis: A named questioner asks a knowledgeable addressee to explain the conduct
+    by which an exemplar attained Emancipation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage frames a request for wisdom but does not yet give the instruction
+    itself.
+- id: motif:2
+  label: Renunciation preceding Emancipation
+  taxonomy_refs:
+  - departure
+  basis: Janaka is said to attain Emancipation after casting off worldly enjoyments.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states renunciation of enjoyments but gives no narrative details
+    of a physical departure or ritual act.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 45861-45866
+  quote_or_summary: 'Yudhishthira asks: "By following what conduct...did Janaka...succeed
+    in attaining to Emancipation" and addresses one "conversant with all courses of
+    conduct."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 45861-45866
+  quote_or_summary: Janaka is described as ruler of Mithila, versed in the religion
+    of Emancipation, and as having attained Emancipation after casting off worldly
+    enjoyments.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and primarily consists of a question. Literal figure
+    and role extraction is strong; motif assignment is necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No concrete symbols from the provided symbol taxonomy are present in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l45861-l45866
+  passage_sha256=0714e792acdaca1f661f25b8786e1d039f7d591913c156e8ad6094aec6e846dc
+

@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l3434-l3465
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: PT. I / PHYSICAL CHARACTERISTICS / PT. I / PHYSICAL CHARACTERISTICS; lines
+    3434-3465
+  start: '3434'
+  end: '3465'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an unfinished tall isusu hair structure, the discomfort
+    of completing it, the operator wrapping it before attending another patient, the
+    appearance of the scalp, the fine curly hair used, and the insertion of a tapered
+    strip of sable antelope horn as support during construction.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Onlookers repeat an approving phrase during the procedure.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The observers are told that completing the procedure at once is impossible
+    because it would cause severe agony.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The operator wraps a cloth around the unfinished structure and gives way to
+    the next patient.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The skin around the crown is described as drawn up and livid.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hair lying beside the operator is described as very fine and curly; a stretched
+    hair measures eleven inches and curls back to less than half that length.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The isusu is about three feet ten inches high from base to tip.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: About halfway up the isusu, the operator inserts a finely pared strip of sable
+    antelope horn that tapers to a fine point.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The operator continues sewing around the horn strip until about nine inches
+    from the top, then winds hair.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: operator
+  description: Person carrying out the hair construction, wrapping the unfinished
+    structure, inserting horn, sewing, and winding hair.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: current patient
+  description: Person undergoing the hair operation whose unfinished structure is
+    wrapped before the next patient is attended.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: onlookers
+  description: People watching the operation and repeating an approving phrase.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: next patient
+  description: Another person waiting to receive attention from the operator after
+    the unfinished structure is wrapped.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: hair-structure operator
+  assigned_to:
+  - fig:1
+  basis: The passage describes this figure wrapping the unfinished structure, inserting
+    a horn strip, sewing around it, and winding hair.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: patient or recipient of hair operation
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The text calls the recipient a patient and mentions the next patient after
+    the operator pauses the current procedure.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: approving observers
+  assigned_to:
+  - fig:3
+  basis: The onlookers repeat the phrase approvingly.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: isusu hair structure
+  literal_form: Tall constructed hair structure, about three feet ten inches high.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: curly hair
+  literal_form: Fine curly hair used or lying beside the operator, stretching to eleven
+    inches before curling back.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: sable antelope horn strip
+  literal_form: Finely pared, tapering strip of sable antelope horn inserted into
+    the isusu.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: wrapping cloth
+  literal_form: Cloth wrapped around the unfinished hair structure.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: interrupted hair operation
+  summary: Onlookers approve the procedure; the observers are told that full completion
+    would cause great agony, so the operator wraps the unfinished structure and turns
+    to the next patient.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: materials and construction of the isusu
+  summary: The passage describes the fine curly hair, the height of the isusu, the
+    insertion of a tapered sable antelope horn strip, and the operator sewing and
+    winding hair around it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: elaborate coiffure with internal support
+  taxonomy_refs: []
+  basis: The passage describes a tall isusu hair structure built with sewing, wound
+    hair, and an inserted tapered strip of sable antelope horn.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a material-culture pattern in an ethnographic description, not
+    a mythic narrative motif in the passage.
+- id: motif:2
+  label: painful body adornment or fashion practice
+  taxonomy_refs: []
+  basis: The operation is said to cause severe agony if continued, the crown is drawn
+    up and livid, and the passage characterizes the practice as demanding fashion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The wording reflects the source’s evaluative ethnographic framing; no
+    symbolic or ritual meaning is stated in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3434-3436
+  quote_or_summary: Onlookers repeat an approving phrase during the procedure.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3436-3441
+  quote_or_summary: The observers are told that seeing the whole procedure completed
+    is out of the question because it would cause such agony that the top of the patient’s
+    head would come off.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3441-3446
+  quote_or_summary: The operator wraps cloth around the unfinished structure, gives
+    way to the next patient, and the skin around the crown is described as drawn up
+    and livid.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 3447-3451
+  quote_or_summary: Hair beside the operator is fine and curly; when stretched, one
+    hair measures eleven inches and curls back to less than half that length.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 3452-3457
+  quote_or_summary: The isusu is about three feet ten inches high, and halfway up
+    the operator inserts a finely pared, tapering strip of sable antelope horn.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 3457-3465
+  quote_or_summary: The operator sews around the horn strip until about nine inches
+    from the top, then winds hair.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited to observable
+    material-culture patterns because the passage does not state mythic, ritual, or
+    comparative meanings. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol references were assigned; the passage concerns physical appearance and hair construction rather than explicit mythology.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l3434-l3465
+  passage_sha256=f0775ca017b32027aa68f9b8375f25442da2a7b681f4e525e1f7dbdf13fee359
+

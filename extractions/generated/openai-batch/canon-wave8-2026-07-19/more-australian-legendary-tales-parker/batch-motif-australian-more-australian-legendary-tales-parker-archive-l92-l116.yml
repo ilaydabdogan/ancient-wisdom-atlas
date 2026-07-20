@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.australian-more-australian-legendary-tales-parker-archive-l92-l116
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+passage_locator:
+  label: MUNGOONGARLEE     THE     IGUANA    AND    OUYOUBOOLOOEY    THE     BLACK
+    / SNAKE , 61 / WAYAMBEH   THE   TURTLE   AND   WOGGOON   THE   TURKEY        ...  68
+    / WHERE   THE   FROST  COMES   FROM 73; lines 92-116
+  start: '92'
+  end: '116'
+  translation: More Australian Legendary Tales
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A contents-page excerpt lists story titles and page numbers, including
+    animal-named tales, a tale about mussels being brought to creeks, a trip to the
+    sea, paired animal titles, and a title about the source of frost.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents section listing tale titles with page numbers.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:2
+  text: Two listed titles identify Piggiebillah as the Porcupine and Gayardaree as
+    the Platypus.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One listed title states that MDNGGHEE, glossed as mussels, were brought to
+    the creeks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: One listed title refers to Wurrunnah's trip to the sea.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'Several listed titles name animal figures: Walloobahl the Bark Lizard, Goolayyahlee
+    the Pelican, Mungoongarlee the Iguana, Ouyouboolooey the Black Snake, Wayambeh
+    the Turtle, and Woggoon the Turkey.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: One listed title is about where frost comes from.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Piggiebillah
+  description: Identified in a title as the Porcupine.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gayardaree
+  description: Identified in a title as the Platypus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: MDNGGHEE / Mussels
+  description: Named in a title as mussels that were brought to the creeks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Wurrunnah
+  description: Named in a title referring to a trip to the sea.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Walloobahl
+  description: Identified in a title as the Bark Lizard.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Goolayyahlee
+  description: Identified in a title as the Pelican.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Mungoongarlee
+  description: Identified in a title as the Iguana.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Ouyouboolooey
+  description: Identified in a title as the Black Snake.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Wayambeh
+  description: Identified in a title as the Turtle.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Woggoon
+  description: Identified in a title as the Turkey.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: animal-named title figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: The contents titles pair these names with animal identifications.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: entity brought to creeks
+  assigned_to:
+  - fig:3
+  basis: The title says MDNGGHEE, or mussels, were brought to the creeks.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: traveler in title
+  assigned_to:
+  - fig:4
+  basis: The title refers to Wurrunnah's trip to the sea.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: paired title figure
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: 'Two titles pair named animal figures: iguana with black snake, and turtle
+    with turkey.'
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: black snake
+  literal_form: Black Snake
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: creeks
+  literal_form: creeks
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sea
+  literal_form: sea
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: frost
+  literal_form: frost
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: mussels brought to creeks
+  taxonomy_refs: []
+  basis: A contents title explicitly frames a tale as explaining how mussels were
+    brought to creeks.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only the title is present; the agent, means, and narrative function are
+    not given.
+- id: motif:2
+  label: trip to the sea
+  taxonomy_refs: []
+  basis: A contents title names Wurrunnah's trip to the sea.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage provides only a title, so no departure, quest, return, or
+    outcome can be confirmed.
+- id: motif:3
+  label: paired animal figures in title
+  taxonomy_refs: []
+  basis: 'Two titles pair named animal figures: an iguana with a black snake, and
+    a turtle with a turkey.'
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The contents list does not state whether the pairs are allies, opponents,
+    kin, or merely co-subjects of the tales.
+- id: motif:4
+  label: serpent figure
+  taxonomy_refs:
+  - serpent
+  basis: The title identifies Ouyouboolooey as the Black Snake.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The serpent presence is clear, but no narrative role or symbolic function
+    is supplied in this passage.
+- id: motif:5
+  label: origin of frost
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: A contents title asks where frost comes from, suggesting an explanatory tale
+    about a natural cold-weather phenomenon.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The title does not describe a seasonal cycle, only the source of frost;
+    the taxonomy link is therefore tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 92-96
+  quote_or_summary: Titles include "PIGGIEBILLAH THE PORCUPINE," "GAYARDAREE THE PLATYPUS,"
+    and "HOW MDNGGHEE, OR MUSSELS, WERE BROUGHT TO THE CREEKS."
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 98-102
+  quote_or_summary: Titles include "WURRUNNAH's TRIP TO THE SEA," "WALLOOBAHL THE
+    BARK LIZARD," and "GOOLAYYAHLEE THE PELICAN."
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 104-110
+  quote_or_summary: Titles include "MUNGOONGARLEE THE IGUANA AND OUYOUBOOLOOEY THE
+    BLACK SNAKE," "WAYAMBEH THE TURTLE AND WOGGOON THE TURKEY," and "WHERE THE FROST
+    COMES FROM."
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 92-116
+  quote_or_summary: The excerpt is a contents-page list of tale titles and page numbers,
+    ending with a page marker and the word "Contents."
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal title extraction is straightforward, but the passage is only a contents
+    excerpt. Motif identifications are title-based and require review against the
+    full tales.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes or comparison claims were extracted because the supplied passage contains only contents entries, not story text.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:australian-more-australian-legendary-tales-parker-archive__l92-l116
+  passage_sha256=eb4a74452cf783c40d74b40d5a93395c19026b778bbf753098f6726e1cec30c7
+

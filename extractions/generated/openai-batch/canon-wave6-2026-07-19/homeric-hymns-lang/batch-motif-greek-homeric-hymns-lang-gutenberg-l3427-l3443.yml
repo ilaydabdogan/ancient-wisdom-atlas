@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.greek-homeric-hymns-lang-gutenberg-l3427-l3443
+source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+passage_locator:
+  label: VIII.  TO ARTEMIS / IX.  TO APHRODITE / X.  TO ATHENE / XI.  TO HERA; lines
+    3427-3443
+  start: '3427'
+  end: '3443'
+  translation: The Homeric Hymns
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Two brief hymnic invocations praise Pallas Athene as a city-saving goddess
+    associated with war and protecting armies, and Hera as golden-throned immortal
+    queen, child of Rhea, sister and bride of Zeus, honored on high Olympus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage begins a hymn to Pallas Athene.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Athene is called the saviour of cities and a dread goddess.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Athene is described as keeping, with Ares, the works of war, falling cities,
+    battles, and battle din.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Athene is said to save hosts as they go to and return from the fight.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The speaker greets Athene and asks her for happiness and good fortune.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The passage then begins a hymn to Hera.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Hera is called golden-throned, an immortal queen, and pre-eminent in beauty.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: Rhea is said to have borne Hera.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: Hera is described as the sister and bride of loud-thundering Zeus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:10
+  text: All the Blessed throughout high Olympus are said to honor and revere Hera
+    no less than Zeus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:11
+  text: Zeus is described as loud-thundering and as delighting in thunder.
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Pallas Athene
+  description: A dread goddess, saviour of cities, associated with Ares in war, and
+    protector of hosts in battle.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ares
+  description: Named with Athene in relation to keeping the works of war.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hera
+  description: Golden-throned immortal queen, pre-eminent in beauty, born of Rhea,
+    sister and bride of Zeus, honored by the Blessed on Olympus.
+  role_refs:
+  - role:1
+  - role:7
+  - role:8
+  - role:11
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Rhea
+  description: Named as the one who bore Hera.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Zeus
+  description: Loud-thundering Zeus, Hera's sibling and bridegroom, whose delight
+    is thunder.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: The Blessed throughout high Olympus
+  description: A collective group said to honor and revere Hera no less than Zeus.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Praised hymn subject
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The speaker begins to sing of Athene and then states that he sings of Hera.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Saviour of cities
+  assigned_to:
+  - fig:1
+  basis: Athene is explicitly called the saviour of cities.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Keeper of the works of war
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Athene is said to keep the works of war with Ares.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Protector of hosts in battle movement
+  assigned_to:
+  - fig:1
+  basis: Athene is said to save hosts as they go and return from the fight.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Petitioned giver of happiness and good fortune
+  assigned_to:
+  - fig:1
+  basis: The hymn asks Athene to give happiness and good fortune.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: Mother of Hera
+  assigned_to:
+  - fig:4
+  basis: Rhea is named as the one who bore Hera.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: Immortal queen
+  assigned_to:
+  - fig:3
+  basis: Hera is called an immortal queen.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: Divine sibling-spouse pair
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Hera is described as the sister and bride of Zeus.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: Thunder-associated deity
+  assigned_to:
+  - fig:5
+  basis: Zeus is called loud-thundering and described as delighting in thunder.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: Honoring Olympian collective
+  assigned_to:
+  - fig:6
+  basis: The Blessed throughout high Olympus are said to honor and revere Hera.
+  evidence_refs:
+  - ev:2
+- id: role:11
+  label: Honored and revered deity
+  assigned_to:
+  - fig:3
+  basis: Hera is honored and revered by all the Blessed throughout high Olympus no
+    less than Zeus.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Cities and falling cities
+  literal_form: cities; falling cities
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: War and battle din
+  literal_form: works of war, battles, battle din, fight
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Hosts going and returning from fight
+  literal_form: hosts as they go and return from the fight
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Golden throne
+  literal_form: golden-throned Hera
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Thunder
+  literal_form: loud-thundering Zeus; delight is the thunder
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: High Olympus
+  literal_form: high Olympus
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Athene praised as city and battle protector
+  summary: The hymn praises Pallas Athene as saviour of cities, linked with Ares in
+    war, saving hosts as they go to and return from battle, and asks her for happiness
+    and good fortune.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hera praised as honored Olympian queen
+  summary: The hymn praises Hera as golden-throned immortal queen born of Rhea, sister
+    and bride of Zeus, and honored by the Blessed on high Olympus no less than Zeus.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: City-saving war goddess
+  taxonomy_refs: []
+  basis: Athene is called saviour of cities and is associated with Ares, war, battles,
+    and saving hosts in battle movement.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a brief hymn and gives epithets rather than an extended
+    narrative.
+- id: motif:2
+  label: Divine parent-child genealogy
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Hera is identified through birth from Rhea.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The motif is present only as a genealogical statement.
+- id: motif:3
+  label: Divine sibling-spouse relation
+  taxonomy_refs:
+  - sibling_pair
+  - sacred_marriage
+  basis: Hera is explicitly described as both sister and bride of Zeus.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage names the relationship but does not narrate a marriage episode.
+- id: motif:4
+  label: Exalted divine queen honored on Olympus
+  taxonomy_refs: []
+  basis: Hera is called an immortal queen and is honored and revered by all the Blessed
+    throughout high Olympus no less than Zeus.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No specific taxonomy reference is assigned because the passage emphasizes
+    status and honor rather than a narrative of kingship or legitimation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3427-3433
+  quote_or_summary: Hymn X sings of Pallas Athene as saviour of cities; with Ares
+    she keeps the works of war, falling cities, battles, and battle din; she saves
+    hosts going to and returning from fight; the speaker asks her for happiness and
+    good fortune.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 3435-3443
+  quote_or_summary: Hymn XI sings of golden-throned Hera, born of Rhea, an immortal
+    queen pre-eminent in beauty, sister and bride of loud-thundering Zeus; all the
+    Blessed on high Olympus honor and revere her no less than Zeus, whose delight
+    is thunder.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and explicit, supporting high confidence for literal
+    extraction. Motif labeling is more cautious because the hymns provide epithets
+    and relationships rather than extended narratives. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The locator label mentions additional hymns, but the provided passage text contains Hymn X to Athene and Hymn XI to Hera.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-homeric-hymns-lang-gutenberg__l3427-l3443
+  passage_sha256=f68d5fcfa7a635844c7e6fbc9d0a9c5494adf4f0019420386d7af516f6d3fe0f
+

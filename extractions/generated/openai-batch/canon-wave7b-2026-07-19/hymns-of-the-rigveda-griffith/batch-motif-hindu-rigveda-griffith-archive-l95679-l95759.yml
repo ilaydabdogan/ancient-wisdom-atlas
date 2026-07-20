@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l95679-l95759
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: AITAREYA ARANYAKA / TRANSLATION AND NOTES / ARANYAKA I / KEITH M; lines 95679-95759
+  start: '95679'
+  end: '95759'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a translated ritual explanation with notes. It discusses
+    a hymn used in sacrifice, its normal and special-purpose forms, a cited Rigvedic
+    phrase about bringing Agni to birth, the sacrificer being born from the sacrificial
+    day, and correspondences between hymn metres or verse counts and cattle, worlds,
+    bodily elements, and ritual efficacy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes describe the hymn as both a normal form and a form used for a special
+    purpose within a sacrificial context.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A cited Rigvedic line says that Agni is brought to birth with movement of
+    the arms.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hymn is said to contain the word “birth” because of the cited wording
+    about Agni.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sacrificer is said to be born from the sacrificial day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Four verses in the tristubh metre are associated with four-footed cattle and
+    are said to serve to win cattle.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Three verses in the viraj metre are identified with the threefold worlds and
+    are said to serve to gain those worlds.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Two verses are described as a support; man is described as having a double
+    support, while cattle have four feet.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The hymn is said to place the sacrificer, with his double support, among the
+    four-footed cattle.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: When recited straight through, the verses number twenty-five, matching an
+    enumeration of man as consisting of twenty-five elements.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The human trunk is counted as the twenty-fifth element and is said to be adorned
+    by the hymn.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The sacrificial day and its stoma hymn are both described as twenty-five,
+    with the stated principle that like is brought about by like.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: A note links the phrase about man, cattle, and four-footed cattle to occurrences
+    in other Brahmana texts.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named in the cited Rigvedic phrase as being brought to birth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the sacrificer
+  description: The ritual participant who is said to be born from the sacrificial
+    day and placed among cattle by the hymn.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: cattle
+  description: Four-footed animals associated with four verses and named as a gain
+    won by the verses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: man
+  description: The generic human body used as a twenty-five-part model for the hymn’s
+    verse count.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: being brought to birth
+  assigned_to:
+  - fig:1
+  basis: The cited Rigvedic wording says Agni is brought to birth.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sacrificer and ritual beneficiary
+  assigned_to:
+  - fig:2
+  basis: The sacrificer is born from the day and is placed among cattle by the hymn.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: four-footed ritual gain
+  assigned_to:
+  - fig:3
+  basis: Cattle are described as four-footed, and four verses are said to win cattle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: anthropometric model
+  assigned_to:
+  - fig:4
+  basis: Man is counted as having twenty-five elements, corresponding to the hymn’s
+    verse count.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Agni as fire-deity named in a birth formula
+  literal_form: Agni
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: birth
+  literal_form: the word and event of “birth” applied to Agni and the sacrificer
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: four-footed cattle
+  literal_form: cattle with four feet; four verses
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: threefold worlds
+  literal_form: three verses identified as the threefold worlds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: double support
+  literal_form: two supporting verses; man’s double support
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: twenty-five-fold body
+  literal_form: 'twenty-five elements: fingers, toes, legs, arms, and trunk'
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: like brought about by like
+  literal_form: shared number twenty-five for day and stoma hymn
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Ritual use of the hymn
+  summary: The notes describe possible ritual uses of the hymn as a normal sacrificial
+    form and as a form for a special purpose.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Birth language applied to Agni and the sacrificer
+  summary: A Rigvedic phrase about bringing Agni to birth explains the hymn’s word
+    “birth”; the same passage says the sacrificer is born from the sacrificial day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Metrical and numerical correspondences
+  summary: The hymn’s verses and metres are correlated with cattle, worlds, bodily
+    supports, and the twenty-five elements of man, and these correspondences are presented
+    as ritually effective.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacrificial hymn as efficacious ritual instrument
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage places the hymn within sacrifice and attributes ritual effects
+    to it, including birth of the sacrificer, winning cattle, gaining worlds, and
+    producing like by like.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage is ritual exposition and commentary, not a narrative myth.
+- id: motif:2
+  label: ritual birth of the sacrificer
+  taxonomy_refs:
+  - sacred_birth
+  basis: The sacrificer is explicitly said to be born from the sacrificial day, in
+    a context that also explains the hymn’s birth wording through Agni.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The text does not describe ordinary biological birth; the birth appears
+    to be ritual or formulaic.
+- id: motif:3
+  label: analogical correspondence between hymn, body, animals, and cosmos
+  taxonomy_refs: []
+  basis: The passage correlates four verses with four-footed cattle, three verses
+    with the three worlds, two verses with support, and twenty-five verses with the
+    twenty-five-part human body and sacrificial day.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No specific supplied taxonomy family exactly matches this ritual-numerological
+    pattern.
+- id: motif:4
+  label: ritual acquisition of cattle and worlds through verse structure
+  taxonomy_refs: []
+  basis: The four verses are said to win cattle, and the three verses are said to
+    gain the threefold worlds.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states the ritual effect but gives only a compact explanatory
+    formula.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly links the man/cattle/four-footed-cattle wording to other
+    Brahmana passages, supporting a cautious claim of shared ritual language across
+    nearby Brahmana traditions.
+  claim_level: linguistic_similarity
+  target: Aitareya Brahmana, Satapatha Brahmana, and Gopatha Brahmana references cited
+    in the note
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note reports parallels in wording and phrase occurrence; it does
+    not establish a full narrative motif, direction of borrowing, or historical contact
+    beyond textual comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 95679-95759; note 2
+  quote_or_summary: The note says the hymn is both nitya and kamya, explains that
+    it can be used as a normal form or as a special-purpose form, and places this
+    discussion in relation to the sacrifice.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 95679-95759; translated passage at I, 1, 2
+  quote_or_summary: "“with moving of the arms they bring to birth Agni,” followed
+    by the statement that the hymn has the word “birth” in it."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 95679-95759; translated passage at I, 1, 2
+  quote_or_summary: "“Verily the sacrificer is born from this day.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 95679-95759; translated passage at I, 1, 2
+  quote_or_summary: Four tristubh verses are linked with four-footed cattle and winning
+    cattle; three viraj verses are identified with the threefold worlds and gaining
+    those worlds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 95679-95759; translated passage at I, 1, 2
+  quote_or_summary: "“These two verses form a support. Man has a double support, cattle
+    have four feet. The hymn places the sacrificer with his double support among the
+    four-footed cattle.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: lines 95679-95759; translated passage at I, 1, 2
+  quote_or_summary: 'The verses number twenty-five when recited straight through;
+    man is counted as twenty-five elements: ten fingers, ten toes, two legs, two arms,
+    and the trunk as the twenty-fifth, which the hymn adorns.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 95679-95759; translated passage at I, 1, 2
+  quote_or_summary: The day of sacrifice and the stoma hymn of the day are both twenty-five;
+    “like is brought about by like.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:8
+  type: summary
+  locator: lines 95679-95759; note 5
+  quote_or_summary: The note explains the union of two and four in the hymn as producing
+    union in reality, and says related phrases occur in Aitareya Brahmana, Satapatha
+    Brahmana, and Gopatha Brahmana.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is partly translated ritual text and partly scholarly notes with
+    OCR noise. Literal claims about birth, numbers, cattle, worlds, and sacrifice
+    are clear, but broader motif labeling remains interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references. No unsupported historical-contact claims were made.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l95679-l95759
+  passage_sha256=8a10d20091c4af407c57e7ba33265a4d038d7aae08d9813bf44501891a3f301a
+

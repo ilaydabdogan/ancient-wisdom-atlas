@@ -1,0 +1,170 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l1903-l2115
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: S  S  2 / O   73 / O     OT / S    S  -5; lines 1903-2115
+  start: '1903'
+  end: '2115'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A heavily OCR-corrupted tabular excerpt contains recognizable song-category
+    labels, including songs for the entertainment of children, songs connected with
+    gifts, and an OCR reading of “Beggmg dance songs,” along with scattered numbers
+    and typographic fragments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is primarily tabular or list-like material with many OCR artifacts,
+    numbers, and typographic fragments.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:2
+  text: One recognizable heading identifies songs for the entertainment of children.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One recognizable heading identifies songs connected with gifts.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One recognizable heading reads, in the OCR text, “Beggmg dance songs.”
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The provided excerpt does not describe a narrative episode, named mythic being,
+    ritual action sequence, or explicit comparative interpretation.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: children
+  description: Children are named in a song-category heading as those for whose entertainment
+    songs are designated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named audience or beneficiaries of entertainment songs
+  assigned_to:
+  - fig:1
+  basis: The heading states that some songs are for the entertainment of children.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: gifts
+  literal_form: gifts
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Tabular listing of song categories
+  summary: The excerpt lists or tabulates song categories, including children’s entertainment
+    songs, songs connected with gifts, and a dance-song category rendered by OCR as
+    “Beggmg dance songs.”
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: children’s entertainment song category
+  taxonomy_refs: []
+  basis: The passage explicitly labels a category as songs for the entertainment of
+    children.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a functional song-category label, not a narrative mythological
+    motif in the provided excerpt.
+- id: motif:2
+  label: gift-connected song category
+  taxonomy_refs: []
+  basis: The passage explicitly labels a category as songs connected with gifts.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The text does not describe the nature of the gifts or a sacred exchange;
+    no taxonomy reference is assigned.
+- id: motif:3
+  label: begging dance song category
+  taxonomy_refs: []
+  basis: The OCR text gives a heading rendered as “Beggmg dance songs.”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The word appears OCR-corrupted and the excerpt provides no further description
+    of the dance or song function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1903-2115
+  quote_or_summary: The line range contains OCR-corrupted tabular/list material with
+    scattered numbers, characters, and page/header fragments.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1903-2115
+  quote_or_summary: "“Songs for the entertainment of children”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source metadata; short quote.
+- id: ev:3
+  type: quote
+  locator: lines 1903-2115
+  quote_or_summary: "“Songs connected with gifts”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source metadata; short quote.
+- id: ev:4
+  type: quote
+  locator: lines 1903-2115
+  quote_or_summary: "“Beggmg dance songs”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source metadata; short quote preserving OCR reading.
+- id: ev:5
+  type: note
+  locator: lines 1903-2115
+  quote_or_summary: The excerpt supplies headings and tabular fragments but no continuous
+    mythic narrative or explicit comparative claim.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source metadata; analytic note based only on supplied
+    passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Recognizable headings support a limited extraction of song-category patterns.
+    Heavy OCR corruption and lack of narrative context make mythological motif identification
+    uncertain; no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family was assigned; the passage does not support a sacred-exchange or other mythic taxonomy classification from the provided text alone.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l1903-l2115
+  passage_sha256=f013a05b0181eb65c5885685ee4282895ccf1753d8193697f2e5728fb735f86d
+

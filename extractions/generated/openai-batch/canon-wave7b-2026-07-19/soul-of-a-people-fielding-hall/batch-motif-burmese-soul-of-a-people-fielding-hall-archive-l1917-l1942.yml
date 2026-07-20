@@ -1,0 +1,208 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l1917-l1942
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: THE WAY TO THE GREAT PEACE 47 / THE WAY TO THE GREAT PEACE 51 / THE WAY TO
+    THE GREAT PEACE 53 / THE WAY TO THE GREAT PEACE 55; lines 1917-1942
+  start: '1917'
+  end: '1942'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: This is Nirvana, the end to which we must all strive
+  summary: The passage describes Nirvana as the final end of worldly trouble and a
+    haven of rest that each person must realize individually. It presents Buddhism
+    as simple, free from mystery, dogma, ceremony, and priestcraft, and argues that
+    the faith is proven by the contentment and deeds of its believers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Nirvana is described as the end toward which all must strive and as the only
+    end to the trouble of the world.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Each person is said to have to realize Nirvana for himself, and all are said
+    to come in time to a haven of rest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The faith is described as simple and free from mystery, dogma, ceremony, and
+    priestcraft.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage presents the happiness, lack of shame, and exaltation of believers
+    as testimony to the faith.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that the real proof of the faith is in results and in the
+    deeds done in its name.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Each man
+  description: Every individual person who must realize Nirvana for himself.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Believers
+  description: People who are described as contented in their faith, loving and exalting
+    it, and being made happy by it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Individual seeker of Nirvana
+  assigned_to:
+  - fig:1
+  basis: The passage says each person must realize Nirvana for himself and will do
+    so in time.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Witnesses to the faith through contentment and deeds
+  assigned_to:
+  - fig:2
+  basis: The passage uses believers’ contentment and deeds as testimony or proof of
+    the faith.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Nirvana
+  literal_form: Nirvana, described as an end to worldly trouble
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Haven of rest
+  literal_form: Haven of rest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Striving toward Nirvana
+  summary: The passage describes all people as ultimately striving toward and realizing
+    Nirvana, represented as the end of worldly trouble and a haven of rest.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Believers as testimony to the faith
+  summary: The passage says that the contentment, love, exaltation, happiness, and
+    deeds of believers provide testimony or proof of the faith.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Quest for final peace or Nirvana
+  taxonomy_refs:
+  - mystical_quest
+  basis: Nirvana is presented as the end toward which all must strive and as a final
+    haven of rest realized by each person.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is expository rather than narrative; the motif is inferred
+    from the stated striving toward Nirvana rather than from a mythic journey episode.
+- id: motif:2
+  label: Faith validated by transformed life and deeds
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the faith is proven by its results, especially the contentment
+    and deeds of believers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an ethical-religious pattern in the passage, not a developed mythological
+    narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1917-1920
+  quote_or_summary: "“This is Nirvana, the end to which we must all strive, the only
+    end that there can be to the trouble of the world.”"
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:2
+  type: quote
+  locator: lines 1920-1922
+  quote_or_summary: "“Each man must realize this for himself” and all will “come into
+    the haven of rest.”"
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:3
+  type: summary
+  locator: lines 1922-1926
+  quote_or_summary: The passage describes the faith as simple and free from mystery,
+    dogma, ceremony, and priestcraft.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1926-1932
+  quote_or_summary: The passage says that if believers are contented in the faith,
+    love and exalt it, are unashamed of it, and are made happy by it, this is strong
+    testimony.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1939-1942
+  quote_or_summary: "“The real proof of the faith is in the results, in the deeds
+    that men do in its name.”"
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear but largely theological and expository rather than narrative;
+    motif identification is therefore cautious. No comparison claims are made because
+    the passage itself does not compare this material to another tradition or motif
+    family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l1917-l1942
+  passage_sha256=71b69d3efa2b4f616d697542e011eda91e40a95d7a3b529484a30774f027a3b1
+

@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l17192-l17250
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: CHAPTER   XIX / MISCELLANEOUS    GODS / MISCELLANEOUS   GODS / MISCELLANEOUS    GODS;
+    lines 17192-17250
+  start: '17192'
+  end: '17250'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary table under “Miscellaneous Gods” lists Day III as the birthday
+    of Set, Day IV as the birthday of Isis, and Day V as the birthday of Nephthys.
+    It then introduces a list of gods and goddesses of the hours of the day, enumerating
+    the first through twelfth hours and showing the names Amseth and Hap in the surviving
+    table fragment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists Day III as “The Birthday of Set.”
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists Day IV as “The Birthday of Isis.”
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists Day V as “The Birthday of Nephthys.”
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage introduces a section titled “The Gods and Goddesses of the Hours
+    of the Day” and enumerates the First through Twelfth Hours.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The names Amseth and Hap appear in the surviving fragment of the hours-of-the-day
+    table.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Set
+  description: Named in the phrase “The Birthday of Set” for Day III.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Isis
+  description: Named in the phrase “The Birthday of Isis” for Day IV.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Nephthys
+  description: Named in the phrase “The Birthday of Nephthys” for Day V.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Amseth
+  description: A name appearing in the table fragment for the gods and goddesses of
+    the hours of the day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Hap
+  description: A name appearing in the table fragment for the gods and goddesses of
+    the hours of the day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deity with birthday assigned to a numbered day
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Set, Isis, and Nephthys are each named in a birthday entry assigned to Day
+    III, Day IV, or Day V.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: name associated with the hours-of-the-day table fragment
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Amseth and Hap appear after the heading for the gods and goddesses of the
+    hours of the day; the fragmentary formatting does not securely preserve all hour-name
+    correspondences.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: numbered divine days
+  literal_form: Day III, Day IV, and Day V
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hours of the day
+  literal_form: First Hour through Twelfth Hour
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sequential divine birthdays
+  summary: Three consecutive numbered day entries identify birthdays of Set, Isis,
+    and Nephthys.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Hours of the day table fragment
+  summary: A table heading names the gods and goddesses of the hours of the day, lists
+    the twelve hours, and preserves the names Amseth and Hap in the fragment.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine birthdays assigned to numbered days
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage explicitly assigns birthdays of Set, Isis, and Nephthys to Day
+    III, Day IV, and Day V.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a catalog fragment and gives no narrative details of the
+    births.
+- id: motif:2
+  label: Deities associated with divisions of the day
+  taxonomy_refs: []
+  basis: The passage introduces gods and goddesses of the hours of the day and enumerates
+    twelve hours; Amseth and Hap appear in the fragmentary table.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The table is incomplete or affected by OCR/formatting, so exact correspondences
+    between each named figure and a specific hour should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 17192-17250, Day III entry
+  quote_or_summary: "“Day III. ... The Birthday of Set.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 17192-17250, Day IV entry
+  quote_or_summary: "“Day IV. ... The Birthday of Isis.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 17192-17250, Day V entry
+  quote_or_summary: "“Day V. ... The Birthday of Nephthys”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 17192-17250, hours-of-the-day heading and list
+  quote_or_summary: The passage introduces “The Gods and Goddesses of the Hours of
+    the Day” and lists First Hour through Twelfth Hour.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 17192-17250, surviving names in hours table
+  quote_or_summary: The names Amseth and Hap appear in the surviving fragment after
+    the hours-of-the-day heading.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by fragmentary formatting and apparent OCR artifacts.
+    Birthday entries are clear; hour-name correspondences require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not provide an explicit comparative frame.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l17192-l17250
+  passage_sha256=e0202999d8c3710da1d292e71a9f516aa03307bdd66655fe4f7d6b8498951f6a
+

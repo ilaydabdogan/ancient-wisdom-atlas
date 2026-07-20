@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l1908-l1933
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CHAP. / I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  25 / THE   BAGANDA /
+    CHAP.; lines 1908-1933
+  start: '1908'
+  end: '1933'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Baganda drummers who paid taxes directly to the sovereign,
+    served their own masters rather than district chiefs, and took yearly turns residing
+    at the royal court to beat named drums. It also describes drum construction from
+    hollowed tree trunks covered with cow-hide, decoration with cowry shells or beads,
+    suspension on posts, and beating with two short sticks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Drummers paid taxes directly to the sovereign and were refunded one-tenth
+    of the total sum.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Drummers did not work for district chiefs, but only for their own masters.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Drummers took turns spending one month each year in the royal court to beat
+    the drums.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Each drum had a name, and each drummer had special work in beating them.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The drums were made from hollowed-out tree trunks encased in cow-hide.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Only one end of a drum was beaten, and that end was always kept uppermost.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Some drums were decorated with cowry shells or beads.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The drums were suspended on slightly raised posts to improve the sound.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A drummer stood over the drum and beat it with two short sticks.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Very large drums required drummers with some sense of time because beats had
+    to be brought in at particular moments.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: drummers
+  description: Men responsible for beating the drums, paying taxes directly to the
+    sovereign, serving their own masters, and taking turns at the royal court.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: sovereign
+  description: The ruler to whom the drummers paid taxes directly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: district-chiefs
+  description: Officials for whom the drummers did not work.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: masters of the drummers
+  description: The masters for whom the drummers worked.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: drum-beaters in royal service rotation
+  assigned_to:
+  - fig:1
+  basis: The passage says the drummers took a month each year in the royal court for
+    beating the drums.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: specialized performers
+  assigned_to:
+  - fig:1
+  basis: Each man had special work in beating the named drums, and large drums required
+    timing skill.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: recipient of direct taxes
+  assigned_to:
+  - fig:2
+  basis: The drummers paid their taxes directly to the sovereign.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: non-employers of drummers
+  assigned_to:
+  - fig:3
+  basis: The passage says drummers never worked for the district-chiefs.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: masters served by drummers
+  assigned_to:
+  - fig:4
+  basis: The passage says drummers worked only for their own masters.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: named drums
+  literal_form: Drums with individual names, made from hollowed tree trunks and cow-hide.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: decorated drums
+  literal_form: Drums decorated with cowry shells or beads.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hollowed tree trunk drum body
+  literal_form: Hollowed-out tree-trunks used as the bodies of drums.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: beating sticks
+  literal_form: Two short sticks used by a drummer to beat a drum.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: raised drum posts
+  literal_form: Posts slightly raised from the ground on which drums were suspended.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Drummers' administrative relation to sovereign and masters
+  summary: Drummers pay taxes directly to the sovereign, receive a one-tenth refund,
+    do not serve district chiefs, and work for their own masters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Royal court drum rotation
+  summary: Drummers take yearly turns residing for one month at the royal court to
+    beat the drums.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Drum construction and playing method
+  summary: The drums are made from hollowed tree trunks covered with cow-hide, sometimes
+    decorated with cowry shells or beads, suspended on raised posts, and beaten on
+    one upper end with two short sticks.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Timing required for large drums
+  summary: Very large drums require drummers who can bring in beats at particular
+    moments.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: royal court drum service
+  taxonomy_refs: []
+  basis: The passage presents drummers as a specialized group connected directly to
+    the sovereign and assigned rotating residence in the royal court to beat named
+    drums.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic institutional pattern rather than a narrative
+    mythic motif; no explicit sacred or legitimating function is stated in the passage.
+- id: motif:2
+  label: named ritual instruments with specialized handlers
+  taxonomy_refs: []
+  basis: Each drum has its own name, and each drummer has special work in beating
+    them.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage supports naming and specialization, but does not explicitly
+    define the drums as ritual or mythological objects.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1908-1915
+  quote_or_summary: Drummers paid taxes directly to the sovereign, received a one-tenth
+    refund, did not work for district chiefs, served their own masters, and took a
+    yearly month in the royal court for beating the drums.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1915-1917
+  quote_or_summary: Each drum had a name, and each man had special work in beating
+    the drums.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1917-1923
+  quote_or_summary: The drums were made from hollowed-out tree trunks encased in cow-hide;
+    only one end was beaten and that end was kept uppermost.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1923-1925
+  quote_or_summary: Some drums were decorated with cowry shells or beads.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1925-1930
+  quote_or_summary: Drums were suspended on posts slightly raised from the ground
+    to improve sound, and a man stood over the drum with two short sticks to beat
+    it.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1930-1933
+  quote_or_summary: Very large drums required drummers with some idea of time because
+    beats had to be brought in at particular moments.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The material facts of the passage are clear. Motif identification is limited
+    because the excerpt is descriptive ethnography and does not state mythic, sacred,
+    or comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another tradition or motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l1908-l1933
+  passage_sha256=a583dce09fc1aa50bfe3033d17b5666105b6b06e4aa074cc14f7762ee72fd5b2
+

@@ -1,0 +1,456 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l12476-l12486
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: THE BLUEBIRD AND COYOTE / THE BOT AND THE BEAST / THE NAUGHTY GRANDCHILDREN
+    / OOTOTB; lines 12476-12486
+  start: '12476'
+  end: '12486'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In the section labeled OOTOTB, Coyote closes a hole from which underworld
+    people were emerging, wanders west, makes Sandy Coyote and Yellow Coyote from
+    his water image, and the created coyotes travel, gamble, race by proxy, kill,
+    and later face revenge by Yellow's son.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Coyote closes a hole through which underworld people were coming up, and the
+    closing is done by his laughter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Coyote wanders west after closing the hole.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Coyote makes two other coyotes from his image in the water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The two created coyotes are named Sandy Coyote and Yellow Coyote.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sandy Coyote and Yellow Coyote sail on logs across water; Yellow becomes blind,
+    and they turn back to live near the Grand Canyon.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sandy Coyote and Yellow Coyote gamble with each other, and Sandy wins.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Yellow is assisted by Finish, who causes Duck and Black Beetle to run a race;
+    Black Beetle wins for Yellow.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Sandy wins Yellow's body and soul and kills him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Yellow's death is later avenged by his son, who wins from Sandy by stratagem.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Coyote
+  description: A figure who closes the underworld hole, wanders west, and makes two
+    other coyotes from his image in water.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Sandy Coyote
+  description: One of the two coyotes made from Coyote's water image; he gambles with
+    Yellow, wins Yellow's body and soul, and kills him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Yellow Coyote
+  description: One of the two coyotes made from Coyote's water image; he becomes blind,
+    gambles with Sandy, receives help in a race contest, and is killed after Sandy
+    wins his body and soul.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Finish
+  description: A helper of Yellow who causes Duck and Black Beetle to run a race.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Duck
+  description: A race participant caused by Finish to run a race.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Black Beetle
+  description: A race participant who wins the race for Yellow.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Yellow's son
+  description: The son who avenges Yellow's death by winning from Sandy through stratagem.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: underworld people
+  description: People who were coming up through a hole before Coyote closed it.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: hole-closer
+  assigned_to:
+  - fig:1
+  basis: Coyote closes the hole through which underworld people were coming up.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: maker of other coyotes
+  assigned_to:
+  - fig:1
+  basis: Coyote makes Sandy Coyote and Yellow Coyote from his image in the water.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: created coyote
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Sandy Coyote and Yellow Coyote are the two coyotes made from Coyote's water
+    image.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: victorious gambler and killer
+  assigned_to:
+  - fig:2
+  basis: Sandy wins in gambling, wins Yellow's body and soul, and kills him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: defeated gambler and victim
+  assigned_to:
+  - fig:3
+  basis: Yellow gambles with Sandy, later loses his body and soul, and is killed.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: helper in contest
+  assigned_to:
+  - fig:4
+  basis: Finish assists Yellow by causing Duck and Black Beetle to run a race.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: race participant
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Duck and Black Beetle run a race caused by Finish.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: race winner for Yellow
+  assigned_to:
+  - fig:6
+  basis: Black Beetle wins the race for Yellow.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: avenging son
+  assigned_to:
+  - fig:7
+  basis: The son avenges Yellow's death by winning from Sandy by stratagem.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: emerging underworld group
+  assigned_to:
+  - fig:8
+  basis: The underworld people are described as coming up through a hole.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water containing Coyote's image and later crossed by the coyotes on
+    logs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: image in water
+  literal_form: Coyote's image in water, from which he makes two other coyotes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: underworld hole
+  literal_form: A hole through which underworld people were coming up before Coyote
+    closed it.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: logs used for crossing water
+  literal_form: Logs on which Sandy Coyote and Yellow Coyote sail across the water.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: body and soul as winnings
+  literal_form: Yellow's body and soul, which Sandy wins before killing him.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Coyote closes the underworld opening
+  summary: Coyote closes a hole through which underworld people were coming up, using
+    his laughter, and then wanders west.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coyote makes Sandy and Yellow from his water image
+  summary: Coyote makes Sandy Coyote and Yellow Coyote from his image in the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Log voyage and return near the Grand Canyon
+  summary: Sandy and Yellow sail on logs across water; after Yellow becomes blind,
+    they return and live near the Grand Canyon.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Gambling and proxy race
+  summary: Sandy and Yellow gamble; Finish assists Yellow by arranging a race between
+    Duck and Black Beetle, and Black Beetle wins for Yellow.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Yellow's death and later vengeance
+  summary: Sandy wins Yellow's body and soul and kills him; Yellow's son later avenges
+    the death by defeating Sandy through stratagem.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: closing an underworld passage by laughter
+  taxonomy_refs: []
+  basis: The passage says Coyote closes a hole through which underworld people were
+    coming up, and that the closing occurs by his laughter.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives this as a brief summary and does not explain the wider
+    cosmological context.
+- id: motif:2
+  label: making doubles or companions from a water image
+  taxonomy_refs: []
+  basis: Coyote makes two other coyotes, Sandy and Yellow, from his image in the water.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not specify the mechanics of the making beyond the water
+    image.
+- id: motif:3
+  label: journey across water on logs followed by impairment and return
+  taxonomy_refs: []
+  basis: Sandy and Yellow sail on logs across water, Yellow becomes blind, and they
+    turn back.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is compressed and does not say whether the blindness causes
+    the return or is merely sequential.
+- id: motif:4
+  label: gambling contest with life-and-soul stakes
+  taxonomy_refs: []
+  basis: Sandy and Yellow gamble; Sandy finally wins Yellow's body and soul and kills
+    him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not state all rules of the gambling contest or how body
+    and soul become the stake.
+- id: motif:5
+  label: victory by proxy race
+  taxonomy_refs: []
+  basis: Finish assists Yellow by causing Duck and Black Beetle to race, and Black
+    Beetle wins for Yellow.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The relationship between the race result and the broader gambling outcome
+    is summarized rather than narrated.
+- id: motif:6
+  label: avenging son defeats killer by stratagem
+  taxonomy_refs: []
+  basis: Yellow's son avenges his death by winning from Sandy by stratagem.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage does not describe the stratagem.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12476-12486
+  quote_or_summary: After Coyote's laughter closes the hole through which underworld
+    people were coming up, he wanders west.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 12476-12486
+  quote_or_summary: Coyote makes two other coyotes, Sandy Coyote and Yellow Coyote,
+    from his image in the water.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 12476-12486
+  quote_or_summary: Sandy and Yellow sail on logs across water; Yellow becomes blind,
+    and they turn back to live near the Grand Canyon.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 12476-12486
+  quote_or_summary: Sandy and Yellow gamble with one another, and Sandy wins.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 12476-12486
+  quote_or_summary: Finish assists Yellow by causing Duck and Black Beetle to run
+    a race, with Black Beetle winning for Yellow.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 12476-12486
+  quote_or_summary: Sandy finally wins Yellow's body and soul and kills him.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 12476-12486
+  quote_or_summary: Yellow's death is avenged by his son, who wins from Sandy by stratagem.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage appears to be a condensed synopsis with OCR errors, so literal
+    event extraction is possible but narrative details and motif interpretation require
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material with another tradition or motif family.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l12476-l12486
+  passage_sha256=cfa8509c3c623e3a49229a83545548f1bf34d541b2486a62fa022075fe365856
+

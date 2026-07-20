@@ -1,0 +1,524 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l2463-l2541
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: THE   FOLKLORE   OF  THE   FJORT.  19 / THE  FOLKLORE  OF  THE  FJORT.  21
+    / THE   FOLKLORE   OF   THE   FJORT..  23 / HOW  A  NATIVE   STORY  IS  TOLD.;
+    lines 2463-2541
+  start: '2463'
+  end: '2541'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"There were two brothers, the Smart Man and the Fool."'
+  summary: A framed description of village storytelling introduces an embedded tale.
+    In the tale, two brothers, Smart Man and Fool, go shooting for fish to feed their
+    parents. Fool repeatedly kills fish, but Smart Man claims the catches and eats
+    them with the father while Fool receives none. After the second meal, a fish bone
+    sticks in the father's throat; Smart Man tells Fool to fetch a doctor, but Fool
+    refuses and sings about the repeated injustice.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A village audience is described sitting around a fire under the full moon
+    in the center of the village.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The storytelling frame uses call-and-response phrases between the storyteller
+    and the audience before the embedded tale begins.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The embedded tale begins with two brothers named Smart Man and Fool.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The brothers habitually go out shooting to supply their parents with food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The brothers go into a mangrove swamp as the tide is going down to watch for
+    fish at the tree roots.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Fool shoots and kills a fish; Smart Man fires at nothing and then claims that
+    the fish is his.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Fool gives the first fish to Smart Man, who tells his father that the fish
+    was shot by his son and that Fool got nothing.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The mother prepares and cooks the first fish; the father and Smart Man eat
+    it and give none to Fool.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: On the second outing, Fool kills a big fish, and Smart Man again claims the
+    catch through speech.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The second fish is cooked and eaten by Smart Man and the father, with none
+    given to Fool; a bone then sticks in the father's throat.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Smart Man tells Fool to fetch a doctor for the father, but Fool refuses and
+    sings about being deprived of his fish and called Fool.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The crowd repeats Fool's song, and Smart Man questions how Fool can sing while
+    their father is suffering.
+  category: sequence
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: storyteller in the frame
+  description: A member of the village gathering who begins another story after the
+    audience asks for it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: village audience or crowd
+  description: The seated listeners who answer the storyteller's opening phrases and
+    later join in sung refrains.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: Smart Man
+  description: One of the two brothers; he claims Fool's catches, eats the fish with
+    the father, and later tells Fool to fetch a doctor.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Fool
+  description: One of the two brothers; he kills the fish, gives them up to Smart
+    Man, receives none of the cooked fish, and later refuses to fetch a doctor.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: father
+  description: The parent whom the brothers help supply with food; he eats fish with
+    Smart Man and later suffers when a bone sticks in his throat.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: mother
+  description: The parent who prepares and cooks the fish.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: doctor
+  description: A doctor whom Smart Man tells Fool to fetch for the suffering father;
+    the doctor does not otherwise appear in this excerpt.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: frame storyteller
+  assigned_to:
+  - fig:1
+  basis: The person who has just told a story begins another after the audience requests
+    it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: responsive audience and chorus
+  assigned_to:
+  - fig:2
+  basis: The crowd answers the storyteller's formula and later sings repeated lines
+    from the tale.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: role:3
+  label: brother-hunters and sons
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The embedded tale identifies Smart Man and Fool as two brothers who go shooting
+    to supply their parents with food.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: deceptive claimant and beneficiary
+  assigned_to:
+  - fig:3
+  basis: Smart Man claims fish that Fool has killed and eats the cooked fish with
+    the father.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: successful hunter and excluded provider
+  assigned_to:
+  - fig:4
+  basis: Fool kills fish on both outings but is given none of the cooked fish.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:6
+  label: parent, eater, and sufferer
+  assigned_to:
+  - fig:5
+  basis: The father receives the reported catch, eats the fish, and later has a bone
+    stuck in his throat.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:7
+  label: cook and food preparer
+  assigned_to:
+  - fig:6
+  basis: The mother prepares and cooks the fish before it is eaten.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:8
+  label: requested healer
+  assigned_to:
+  - fig:7
+  basis: Smart Man tells Fool to go for a doctor after the father's throat is obstructed
+    by a bone.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: storytelling fire
+  literal_form: Fire in the open space at the center of the village where the audience
+    sits.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: palm grove village setting
+  literal_form: Village in a grove of palm trees under the full moon.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mangrove swamp at falling tide
+  literal_form: Mangrove swamp where fish nibble at tree roots as the tide goes down.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: contested fish catch
+  literal_form: Fish killed by Fool, claimed by Smart Man, cooked, and eaten by Smart
+    Man and the father.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: fish bone in the father's throat
+  literal_form: A bone from the fish that sticks in the father's throat while he is
+    eating.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: moonlit storytelling frame
+  summary: A crowd sits around a village fire beneath the full moon; the storyteller
+    and audience use a call-and-response formula to begin another story.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: first fishing expedition and disputed catch
+  summary: Smart Man and Fool enter the mangrove swamp. Fool kills a fish, and Smart
+    Man claims it as his own.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: first meal without Fool
+  summary: Fool gives the fish to Smart Man. At home, the fish is cooked, and the
+    father and Smart Man eat it without giving any to Fool.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: second fishing expedition and repeated claim
+  summary: Fool kills a big fish on the next outing. Smart Man again claims the fish,
+    and Fool lets him take it.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: second meal, choking, and refusal
+  summary: The second fish is cooked and eaten by Smart Man and the father while Fool
+    receives none. A bone sticks in the father's throat; Smart Man tells Fool to fetch
+    a doctor, but Fool refuses and sings his grievance.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: paired brothers with opposed names or roles
+  taxonomy_refs:
+  - sibling_pair
+  basis: The tale explicitly begins with two brothers named Smart Man and Fool.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not include the full ending of the tale, so the complete
+    development of the sibling contrast is not visible here.
+- id: motif:2
+  label: deceptive appropriation of another's catch
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Smart Man repeatedly claims fish that Fool has killed and benefits from the
+    deception.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage supports deception and wrongful claiming, but the broader
+    trickster function is inferred only from this excerpt.
+- id: motif:3
+  label: excluded provider denied food
+  taxonomy_refs: []
+  basis: Fool provides fish on both outings, but Smart Man and the father eat the
+    cooked fish and give none to him.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference precisely matches this food-withholding
+    pattern.
+- id: motif:4
+  label: injury during unjust meal
+  taxonomy_refs: []
+  basis: After the repeated exclusion of Fool from the fish meal, a bone sticks in
+    the father's throat while he and Smart Man are eating.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly state that the choking is punishment;
+    it only presents the sequence.
+- id: motif:5
+  label: song as grievance in oral performance
+  taxonomy_refs: []
+  basis: Fool sings about the repeated taking of his fish and being called Fool, and
+    the crowd repeats the song.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a performance and narrative pattern rather than a supplied taxonomy
+    motif.
+- id: motif:6
+  label: refusal of aid after exploitation
+  taxonomy_refs: []
+  basis: When Smart Man asks Fool to fetch a doctor for the suffering father, Fool
+    refuses and refers to the prior mistreatment.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The excerpt ends while the father is still suffering, so the narrative
+    result of the refusal is not shown.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2463-2482
+  quote_or_summary: 'The frame describes a village in palm trees under the full moon,
+    a crowd seated around a fire, and a storyteller beginning with call-and-response
+    phrases: "Let us be off" and "Pull away."'
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; concise quotation and summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2483-2490
+  quote_or_summary: The embedded tale begins with two brothers, Smart Man and Fool,
+    who go shooting to supply their parents; they enter a mangrove swamp at falling
+    tide to watch for fish at the roots.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2490-2501
+  quote_or_summary: Fool fires and kills a fish; Smart Man fires at nothing, asks
+    Fool if he killed anything, and claims the fish as his own.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2504-2511
+  quote_or_summary: Fool gives the first fish to Smart Man, who tells the father that
+    his son shot the fish and Fool got nothing; the crowd sings the last sentence
+    several times.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2514-2517
+  quote_or_summary: The mother prepares and cooks the first fish; the father and Smart
+    Man eat it and give none to Fool.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2518-2528
+  quote_or_summary: On the next outing, Fool kills a big fish; Smart Man asks whether
+    Fool heard him fire, claims the fish, and Fool allows him to take it.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 2530-2535
+  quote_or_summary: The fish is given to the mother and cooked; Smart Man and the
+    father eat it, give none to Fool, and a bone sticks in the father's throat.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: quote
+  locator: lines 2535-2539
+  quote_or_summary: Smart Man calls to Fool to go for a doctor; Fool refuses and sings,
+    "Every day you eat my fish, you call me Fool, / And would let me starve."
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:9
+  type: summary
+  locator: lines 2540-2541
+  quote_or_summary: The crowd repeats Fool's song, and Smart Man asks how Fool can
+    sing when their father is suffering.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is well supported by the supplied lines. Motif candidates
+    are limited by the excerpt ending before the embedded tale is resolved. No comparison
+    claims are made because the passage itself does not explicitly compare the tale
+    to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Historical racial terminology appears in the source passage; this extraction uses neutral descriptive labels except where brief quotations are necessary.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l2463-l2541
+  passage_sha256=09ed0ace8c3e1784207a1d72ef5332bb6c506b7e97a2682fe573a69a3f08257c
+

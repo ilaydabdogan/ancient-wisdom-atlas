@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l32248-l32279
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: APPENDIX    I / APPENDIX   I / APPENDIX   I / APPENDIX   I  473; lines 32248-32279
+  start: '32248'
+  end: '32279'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Crabs exist in great numbers in the District... they play in ritual and folk-lore.
+  summary: The passage gives natural-history notes on crabs and molluscs in the district.
+    It states that crabs are numerous and prominent in ritual and folklore, then records
+    observations about shells, a screaming Achatina Marginata, a springing land snail,
+    and CEtheria clusters in river beds.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Crabs exist in great numbers in the district.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Crabs are said to play a prominent part in ritual and folklore.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Some collected crabs appear near Potamon or Potamonautes Pobeguini, but the
+    group is described as imperfectly known and identification is uncertain.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: No shells new to science had been discovered in the district, though previously
+    unknown life-history points had been noticed.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The large Achatina Marginata is described as possessing the power of screaming.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The screaming of Achatina Marginata is described as known to local people,
+    and the narrator was startled when one screamed while being taken into the hand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The sound of Achatina Marginata is supposed to be produced by scraping against
+    its shell.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Another small land snail is described as able to spring three to four feet.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Clusters of CEtheria are found in river beds, especially in the Kwa.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Crabs
+  description: Numerous district animals described as prominent in ritual and folklore.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Achatina Marginata
+  description: Large snail described as able to scream, with sound possibly produced
+    by scraping against its shell.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Small land snail
+  description: Small land snail described as able to spring three to four feet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: CEtheria clusters
+  description: Clusters of CEtheria found in river beds, especially in the Kwa.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Ritual and folklore animal
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says crabs play a prominent part in ritual and folklore.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Sound-producing mollusc
+  assigned_to:
+  - fig:2
+  basis: Achatina Marginata is described as having the power of screaming.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Springing mollusc
+  assigned_to:
+  - fig:3
+  basis: The small land snail is described as springing three to four feet.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: River-bed mollusc
+  assigned_to:
+  - fig:4
+  basis: CEtheria clusters are described as found in river beds, especially in the
+    Kwa.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Crab
+  literal_form: Crabs in great numbers in the district
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Snail shell and voice
+  literal_form: Achatina Marginata screaming, possibly by scraping against its shell
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Springing land snail
+  literal_form: Small land snail springing three to four feet
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: River beds of the Kwa
+  literal_form: Beds of the rivers, especially the Kwa
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Crabs in district ritual and folklore
+  summary: Crabs are described as numerous in the district and as playing a prominent
+    part in ritual and folklore, though their species identification is uncertain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Observed unusual snail powers
+  summary: The passage describes a large Achatina Marginata that screams when taken
+    into the hand, and another small land snail that can spring three to four feet.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: CEtheria in river beds
+  summary: Clusters of CEtheria are reported in river beds, especially in the Kwa.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Crab as ritual and folklore animal
+  taxonomy_refs: []
+  basis: The passage directly states that crabs play a prominent part in ritual and
+    folklore in the district.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not provide a specific myth, ritual action, narrative
+    role, or symbolic meaning for crabs.
+- id: motif:2
+  label: Animal with extraordinary vocal or kinetic ability
+  taxonomy_refs: []
+  basis: The passage describes Achatina Marginata as screaming and another land snail
+    as springing three to four feet.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: These are presented as natural-history observations rather than explicit
+    mythic or ritual motifs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32250-32260
+  quote_or_summary: Crabs are numerous in the district and said to play a prominent
+    part in ritual and folklore; their species identification is uncertain, with some
+    appearing near Potamon or Potamonautes Pobeguini.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 32262-32268
+  quote_or_summary: No shells new to science were discovered in the district, but
+    previously unknown life-history points were noticed for some molluscs.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 32269-32275
+  quote_or_summary: A large Achatina Marginata is described as able to scream; local
+    people knew this, and the narrator was startled when one screamed while being
+    taken into the hand. The sound is supposed to come from scraping against the shell.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 32276-32277
+  quote_or_summary: Another small land snail has the power of springing 3 to 4 feet.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; brief quote used.
+- id: ev:5
+  type: summary
+  locator: lines 32278-32279
+  quote_or_summary: Fine clusters of CEtheria are found in river beds, especially
+    in the Kwa.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif confidence is limited because
+    the passage provides only brief natural-history and ethnographic notes, with no
+    detailed ritual or folklore narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or comparative claims were inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l32248-l32279
+  passage_sha256=83e45c8af6ce1e3ee8be2b0d2274665c45d3f04053de2c68ea6e82b436841051
+

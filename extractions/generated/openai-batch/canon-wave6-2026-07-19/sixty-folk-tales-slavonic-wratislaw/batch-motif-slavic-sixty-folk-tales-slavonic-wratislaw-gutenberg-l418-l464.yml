@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l418-l464
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: SERBIAN STORIES FROM CARNIOLA                                    252 / CROATIAN
+    STORIES                                                 265 / ILLYRIAN-SLOVENISH
+    STORIES                                       297 / WESTERN SLAVONIANS.; lines
+    418-464
+  start: '418'
+  end: '464'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Two waters, one of death and the other of life, are found in the Bohemian
+    stories...”"
+  summary: The passage introduces Bohemian stories and notes motifs involving superhuman
+    inhabitants of the woods and two waters, one associated with death and one with
+    life. It compares the two-water pattern in Bohemian stories to Russian stories
+    and contrasts Slavonic tales with Western European tales.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as Western Slavonian and Bohemian stories
+    translated from the language of the Czechs.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that fairy-tales about kindly or malevolent superhuman
+    inhabitants of the woods are peculiar and striking.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says these imaginary woodland beings are represented as malevolent
+    in one numbered story and kindly in another.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The passage says Bohemian stories contain two waters: one of death and one
+    of life.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the two-water pattern also appears in Russian stories.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says Slavonic tales differ from Western European tales because
+    Western European tales acknowledge only the water of life.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says dead water heals the wounds of a corpse when applied to them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says the dead body must be sprinkled with living water before
+    it can be brought to life.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: superhuman inhabitants of the woods
+  description: Imaginary beings in Bohemian fairy-tales described as kindly or malevolent
+    inhabitants of the woods.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: corpse or dead body
+  description: A dead body whose wounds are healed by dead water and which is brought
+    to life only after sprinkling with living water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: kindly woodland superhuman being
+  assigned_to:
+  - fig:1
+  basis: The passage says the woodland beings may be represented under a kindly aspect.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: malevolent woodland superhuman being
+  assigned_to:
+  - fig:1
+  basis: The passage says the woodland beings may be represented under a malevolent
+    aspect.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dead recipient of healing and revival
+  assigned_to:
+  - fig:2
+  basis: The corpse receives dead water for wound-healing and living water for restoration
+    to life.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: paired waters of death and life
+  literal_form: two waters, one of death and the other of life
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: dead water
+  literal_form: water of death applied to wounds of a corpse
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: living water
+  literal_form: water of life sprinkled on a dead body
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: woods
+  literal_form: woods inhabited by superhuman beings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: woodland superhuman beings in Bohemian fairy-tales
+  summary: The passage describes Bohemian fairy-tales involving superhuman inhabitants
+    of the woods who may be kindly or malevolent.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: two-step restoration of a corpse by waters
+  summary: Dead water is applied to a corpse’s wounds to heal them, and living water
+    is then required to bring the dead body to life.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: paired waters of death and life
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The passage explicitly states that Bohemian stories contain two waters, one
+    of death and one of life, and explains their respective roles in restoring a dead
+    body.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is an editorial introduction, not a full narrative episode.
+- id: motif:2
+  label: corpse restored through sequential magical waters
+  taxonomy_refs:
+  - resurrection
+  basis: The dead water heals wounds on a corpse, but the living water is needed to
+    bring the dead body to life.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The cited passage summarizes the pattern rather than narrating a specific
+    tale scene.
+- id: motif:3
+  label: ambivalent superhuman inhabitants of the woods
+  taxonomy_refs: []
+  basis: The passage identifies Bohemian fairy-tales about superhuman woodland inhabitants
+    represented as kindly or malevolent.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No detailed actions or names for these beings are given in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that Bohemian stories share the two waters, one of death
+    and one of life, with Russian stories.
+  claim_level: same_motif
+  target: Russian stories
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is based on the editor’s summary and does not cite a specific
+    Russian tale in this passage.
+- id: claim:2
+  claim: The passage presents the paired dead-water and living-water pattern as a
+    regular Slavonic feature, in contrast to Western European tales that acknowledge
+    only the water of life.
+  claim_level: same_motif
+  target: Slavonic tales contrasted with Western European tales
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a broad editorial generalization within the passage; no individual
+    Western European examples are provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 418-447
+  quote_or_summary: The section introduces Western Slavonian and Bohemian stories,
+    identifying the language of the Czech inhabitants of Bohemia and giving historical
+    and linguistic context.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; Project Gutenberg text; full text use allowed.
+- id: ev:2
+  type: quote
+  locator: lines 449-452
+  quote_or_summary: "“The fairy-tales relating to the kindly or malevolent superhuman
+    inhabitants of the woods are peculiar and striking.”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; Project Gutenberg text; full text use allowed.
+- id: ev:3
+  type: quote
+  locator: lines 453-457
+  quote_or_summary: "“Two waters, one of death and the other of life, are found in
+    the Bohemian stories, just as in the Russian ones...”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; Project Gutenberg text; full text use allowed.
+- id: ev:4
+  type: quote
+  locator: lines 458-464
+  quote_or_summary: "“When the ‘dead water’ is applied to the wounds of a corpse,
+    it heals them... it is necessary to sprinkle it with the ‘living water.’”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; Project Gutenberg text; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly states the water and woodland-being patterns, but it
+    is introductory and summarizes broader tale material rather than presenting a
+    full narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy IDs beyond supplied motif families and symbols were used. Comparisons are limited to those explicitly stated in the passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l418-l464
+  passage_sha256=b9f1e5a6412deefde9970d9e86df1a494e78b900fefd81075d8f614b6ff319dc
+

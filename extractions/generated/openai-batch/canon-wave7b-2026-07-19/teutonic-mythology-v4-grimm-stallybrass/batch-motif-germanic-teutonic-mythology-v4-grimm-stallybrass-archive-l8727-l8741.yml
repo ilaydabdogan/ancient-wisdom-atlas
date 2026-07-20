@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l8727-l8741
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: GIANTS.  1447 / CREATION.  1449 / CREATION. / ELEMENTS.  1453; lines 8727-8741
+  start: '8727'
+  end: '8741'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a comparative note citing Indian material, German tales
+    of a great flood, a popular belief that destructive water will break out of mountains,
+    a German legend in which flood water streams from a giant's toe, a parallel in
+    Runo 3 involving Wiiinilmuinon's toe, and a Rhine dwarf story compared to an angel
+    holding a cloth over a city.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that Mauus signifies man and cites Rigveda-related material
+    and an Indian story of Satijdvrataa.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: German tales of a great flood are said to be told in Vonbun.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage reports a continuing popular belief that destroying water will
+    break out of mountains.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: German legend is said to make the flood stream out of a giant's toe.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The same kind of flood-from-toe detail is compared to Runo 3, where it is
+    said to come out of Wiiinilmuinon's toe.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A Rhine district dwarf story is said to seem founded on L. Thun's version,
+    and the dwarf is compared to an angel who lifts a hand holding a cloth over a
+    city.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the giant
+  description: A giant in German legend whose toe is described as the source from
+    which the flood streams.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Wiiinilmuinon
+  description: A figure named in Runo 3 whose toe is cited as another source from
+    which flood water comes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: the dwarf
+  description: A dwarf in a Rhine district story, mentioned as recalling an angel
+    in another source.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: the angel
+  description: An angel who lifts his hand while holding a cloth over the city.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: flood-source figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures are associated with flood water coming from a toe.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: compared supernatural figure
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The dwarf is said to remind the author of the angel.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: cloth-holding angel over a city
+  assigned_to:
+  - fig:4
+  basis: The angel is described as lifting his hand with a cloth over the city.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: great or destroying water
+  literal_form: great flood; destroying water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: mountains as source of destructive water
+  literal_form: mountains from which destroying water will break out
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: toe as flood outlet
+  literal_form: giant's toe; Wiiinilmuinon's toe
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cloth held over a city
+  literal_form: cloth held by an angel over the city
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cited flood traditions
+  summary: The note cites Indian material and then points to German tales of a great
+    flood.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Destroying water from mountains
+  summary: A popular belief is reported in which destructive water will break out
+    of mountains.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Flood from a toe
+  summary: A German legend has the flood stream out of a giant's toe, compared to
+    Runo 3 where it comes from Wiiinilmuinon's toe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Dwarf and angel comparison
+  summary: A Rhine district dwarf story is compared to an angel lifting a hand with
+    a cloth over a city.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: great or destructive flood
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage explicitly mentions German tales of a great flood and a belief
+    in destroying water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference includes renewal, but this passage describes flood
+    and destruction only, not renewal.
+- id: motif:2
+  label: destructive water breaking out of mountains
+  taxonomy_refs: []
+  basis: The passage reports a belief that destroying water will break out of mountains.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No narrative sequence or named actors are provided for this belief.
+- id: motif:3
+  label: flood issuing from a supernatural being's toe
+  taxonomy_refs: []
+  basis: The passage says German legend has flood water stream from a giant's toe
+    and compares this to Runo 3, where it comes from Wiiinilmuinon's toe.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only the comparative note, not the full legends.
+- id: motif:4
+  label: supernatural figure with cloth over a city
+  taxonomy_refs: []
+  basis: The passage describes an angel holding a cloth over a city and says a dwarf
+    in a Rhine district story recalls this figure.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: Motif status is uncertain because the passage provides only a brief comparison
+    and no full dwarf-story episode.
+comparison_claims:
+- id: claim:1
+  claim: A German legend in which a flood streams from a giant's toe is explicitly
+    compared to Runo 3, where flood water is said to come from Wiiinilmuinon's toe.
+  claim_level: same_motif
+  target: Runo 3 account of water from Wiiinilmuinon's toe
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not provide the full context of either narrative.
+- id: claim:2
+  claim: The Rhine district dwarf story is compared by resemblance to an angel who
+    lifts a hand holding a cloth over a city.
+  claim_level: visual_similarity
+  target: Greg. Tur. 10, 24 angel holding a cloth over the city
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The basis of resemblance is not fully explained; only the angel's gesture
+    and cloth are described.
+- id: claim:3
+  claim: The passage juxtaposes an Indian story of Satijdvrataa with German tales
+    of a great flood, suggesting comparison at the level of flood narrative material.
+  claim_level: same_motif
+  target: Indian story of Satijdvrataa and German great-flood tales
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage names the Indian story but does not summarize its plot;
+    the comparison is inferred from the adjacent flood references.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8727-8731
+  quote_or_summary: The note says Mauus signifies man, cites Rigveda-related material,
+    and refers to another Indian story, that of Satijdvrataa.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: quote
+  locator: 8732-8733
+  quote_or_summary: '"German tales of a great flood are told in Vonbun"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 8734-8736
+  quote_or_summary: '"destroying water will break out of mountains"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 8736-8738
+  quote_or_summary: German legend makes the flood stream out of the giant's toe, as
+    it does out of Wiiinilmuinon's toe in Runo 3.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: 8739-8741
+  quote_or_summary: A Rhine district dwarf story is linked to L. Thun and the dwarf
+    is said to recall an angel who lifts a hand holding a cloth over a city.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and contains OCR-distorted names; the explicit flood-from-toe
+    comparison is strong, while broader flood-tradition and dwarf-angel comparisons
+    need human verification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to supplied available references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l8727-l8741
+  passage_sha256=249d881a6053c2f5b2c90507dd11e3fa43b74b48f6eeb9892610914065d31170
+

@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l18766-l18806
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: XXVII / XXVIII / XXIII / THE GOLDEN STOOL 1; lines 18766-18806
+  start: '18766'
+  end: '18806'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Rattray's memorandum on the Golden Stool after recent
+    events in Coomassie. It states that misunderstanding of the object has had serious
+    consequences and that its supposed desecration or destruction has caused national
+    mourning among the Ashanti. The author explains his former reluctance to ask about
+    the matter, then describes asking Ashanti friends for its history after the words
+    Sika ’Gua became widely discussed. A note reports red clay mourning marks on heads
+    and arms in towns and villages.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Recent events in Coomassie brought the Golden Stool into public prominence.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says past misconceptions or ignorance concerning the Golden Stool
+    caused at least one costly expedition.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The supposed desecration or destruction of the Golden Stool is said to have
+    thrown the Ashanti people into national mourning.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The author says he had avoided direct or indirect questions about the Golden
+    Stool during many years in Ashanti because the subject was delicate.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After recent events, the words Sika ’Gua, glossed as Golden Stool, were widely
+    spoken, and the author asked Ashanti friends for its true history and related
+    information.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author connects the inquiry with an attempt to understand the Ashanti
+    people's deep feelings and visible grief.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note says that in every town and village red clay, called ntmuma, is seen
+    smeared in lines on the head and arm.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ashanti people
+  description: The people described as stirred by deep feelings, showing visible grief,
+    and being in national mourning over the supposed desecration or destruction of
+    the Golden Stool.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: authorial narrator
+  description: The resident official-observer who avoided asking about the Golden
+    Stool for years and later asked Ashanti friends for its true history.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Ashanti friends
+  description: Friends among the Ashanti whom the narrator asks for the Golden Stool's
+    true history and related information.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: collective mourners
+  assigned_to:
+  - fig:1
+  basis: The passage says the supposed desecration or destruction of the Golden Stool
+    threw the Ashanti people into national mourning and caused visible grief.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: cautious inquirer
+  assigned_to:
+  - fig:2
+  basis: The narrator avoided the subject for years, then asked Ashanti friends about
+    the Golden Stool after recent events made it widely discussed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: local informants
+  assigned_to:
+  - fig:3
+  basis: They are the Ashanti friends asked for the Golden Stool's true history and
+    related information.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Golden Stool / Sika ’Gua
+  literal_form: A stool identified by the Akan phrase Sika ’Gua and called the Golden
+    Stool; the passage calls it a symbol and connects its supposed desecration or
+    destruction with national mourning.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: red clay mourning marks
+  literal_form: Ntmuma or red clay smeared in lines on the head and arm in every town
+    and village.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Public prominence of the Golden Stool after Coomassie events
+  summary: Recent events in Coomassie make the Golden Stool prominent, and the passage
+    states that its supposed desecration or destruction has produced national mourning
+    among the Ashanti.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Narrator seeks the Golden Stool's history
+  summary: The narrator, having long avoided the delicate subject, asks Ashanti friends
+    for the Golden Stool's true history after Sika ’Gua becomes widely discussed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Visible mourning marks
+  summary: A note reports red clay smeared in lines on heads and arms in every town
+    and village.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred object whose violation causes collective mourning
+  taxonomy_refs: []
+  basis: The Golden Stool is described as a symbol, and its supposed desecration or
+    destruction is said to have thrown the Ashanti people into national mourning.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt does not provide the origin narrative or a fuller explanation
+    of the object's sacred status.
+- id: motif:2
+  label: guarded history of a delicate sacred object
+  taxonomy_refs: []
+  basis: The narrator says he avoided questions about the Golden Stool for years because
+    the subject was delicate, then asks trusted Ashanti friends for its true history
+    only after recent events.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage indicates delicacy and social caution, but does not state
+    that the knowledge was formally forbidden.
+- id: motif:3
+  label: communal mourning expressed through body markings
+  taxonomy_refs: []
+  basis: The note describes red clay smeared in lines on the head and arm in every
+    town and village in the context of national mourning.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The note gives the visible practice but does not explicitly define its
+    ritual meaning beyond the surrounding mourning context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18766-18775
+  quote_or_summary: 'Opening of the chapter: recent events in Coomassie brought the
+    Golden Stool into prominence; misunderstanding of it caused serious consequences;
+    its supposed desecration or destruction caused Ashanti national mourning.'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 18777-18784
+  quote_or_summary: The narrator states that during many years in Ashanti he avoided
+    direct or indirect questions about the Golden Stool because it was a delicate
+    subject.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 18786-18794
+  quote_or_summary: After recent events, Sika ’Gua, glossed as Golden Stool, was widely
+    discussed; the narrator asked Ashanti friends for its true history to understand
+    deep feelings and visible grief.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 18796-18803
+  quote_or_summary: The narrator says he does not recall seeing, in several named
+    earlier works, a description setting out the supposed origin of the Golden Stool.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 18804-18806 note
+  quote_or_summary: "“In every town and village ntmuma or red clay is seen smeared
+    in lines on the head and arm.”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; brief quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for mourning, inquiry, and visible red clay
+    marks. Motif identification is cautious because the excerpt introduces the Golden
+    Stool but does not include the origin story or fuller ritual explanation. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references left empty because the available taxonomy terms were not directly supported by this excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l18766-l18806
+  passage_sha256=41643590590a426e2ac4edafaabc8bdf7c49da03209909178c7ab8e4187dd021
+

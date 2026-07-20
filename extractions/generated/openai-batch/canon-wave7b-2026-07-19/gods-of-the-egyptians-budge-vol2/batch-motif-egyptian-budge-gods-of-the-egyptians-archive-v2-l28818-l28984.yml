@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l28818-l28984
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 28818-28984
+  start: '28818'
+  end: '28984'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index section listing alphabetized entries from Nephthys through Nu,
+    with volume and page references. The entries include names, divine or collective
+    terms, ritual or cosmological terms, net-related objects or places, Nile-related
+    topics, night-sky topics, groups of nine, nomes, and named figures such as Osiris
+    in the phrase “Nile = Osiris.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index list rather than a narrative episode; entries consist
+    mainly of names or topics followed by volume and page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nephthys appears as an index entry with references in volume I and volume
+    II.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several entries use the form “Net,” including a fishing net, a House of the
+    Net, the Net of the Four Winds, and Net identified parenthetically as Neith.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists Neter, Netert, Neteru, and several longer Neteru phrases,
+    including phrases associated with Tuat, Abtu, and Qerti.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'The passage includes night-related entries: Night of the Drop and Night-Sky.'
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: 'The passage includes Nile-related entries: the Nile, the celestial Nile,
+    Nile-god, Nile-goddesses, Inundation of the Nile, and the index relation “Nile
+    = Osiris.”'
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: 'The passage lists multiple entries using the number nine: Nine Bows, nine
+    chiefs, nine gods, and Nine Ennutch.'
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage lists nome-related topics, including Nome gods, Nome-perch, Nome
+    standards, the number of nomes, and Nomes of Egypt.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Nu appears as an index entry at the end of the supplied passage.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Nephthys
+  description: Named index entry with volume and page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Net (Neith)
+  description: Named index entry appearing as “Net (Neith)” with volume and page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Nile-god
+  description: Index entry explicitly labelled “Nile-god.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Nile-goddesses
+  description: Index entry explicitly labelled “Nile-goddesses.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Nine gods
+  description: Index entry explicitly labelled “Nine gods, the.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Nome gods
+  description: Index entry explicitly labelled “Nome gods.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Osiris
+  description: Named in the index phrase “Nile = Osiris.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Nu
+  description: Named index entry with volume and page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: indexed named subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:8
+  basis: These names appear as index subjects followed by volume and page references.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+- id: role:2
+  label: explicitly labelled god, goddess, or gods entry
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The index wording includes “god,” “goddesses,” or “gods” in these entries.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: named in Nile identity entry
+  assigned_to:
+  - fig:7
+  basis: The passage includes the index relation “Nile = Osiris.”
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Net
+  literal_form: Fishing net; House of the Net; Net of the Four Winds; Net/Neith entry
+    cluster
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Nile and inundation
+  literal_form: Nile; celestial Nile; Nile-god; Nile-goddesses; Inundation of the
+    Nile; Nile = Osiris
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Night sky
+  literal_form: Night of the Drop; Night-Sky
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Ninefold groups
+  literal_form: Nine Bows; nine chiefs; nine gods; Nine Ennutch
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Deified or personified Nile
+  taxonomy_refs: []
+  basis: The index groups Nile entries that include “Nile-god,” “Nile-goddesses,”
+    “Inundation of the Nile,” and “Nile = Osiris.”
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage is only an index list and does not describe a mythic action,
+    ritual function, or narrative context.
+- id: motif:2
+  label: Ninefold divine or collective grouping
+  taxonomy_refs: []
+  basis: The index lists several ninefold groups, including “Nine gods, the,” alongside
+    Nine Bows, nine chiefs, and Nine Ennutch.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage gives only index labels and page references; it does not explain
+    the function of the number nine.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28818-28984
+  quote_or_summary: The supplied passage is an index section consisting of alphabetized
+    entries and references, not a continuous mythological narrative.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 28818-28984, entry “Nephthys”
+  quote_or_summary: "“Nephthys,i.341,488;ii. 85, 106, 109, 129, 156, 186, 187, 254-260”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 28818-28984, Net entries
+  quote_or_summary: Entries include Net, a fishing net, House of the Net, Net of the
+    Four Winds, and “Net (Neith)” with page references.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 28818-28984, Neter/Neteru entries
+  quote_or_summary: Entries include Neter, Neteru, Netert, and longer Neteru phrases
+    such as Neteru associated with Tuat, Abtu, and Qerti.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 28818-28984, night entries
+  quote_or_summary: "“Night of the Drop, ii. 47” and “Night-Sky, ii. 102, 105”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 28818-28984, Nile entries
+  quote_or_summary: Entries include Nile, celestial Nile, Nile-god, Nile-goddesses,
+    Inundation of the Nile, and “Nile = Osiris.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 28818-28984, nine entries
+  quote_or_summary: Entries include Nine Bows, nine chiefs, nine gods, and Nine Ennutch.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 28818-28984, nome entries
+  quote_or_summary: Entries include Nome gods, Nome-perch, Nome standards, number
+    of nomes, and Nomes of Egypt.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: quote
+  locator: lines 28818-28984, entry “Nu”
+  quote_or_summary: "“Nu, i. 78, 109,113,134,”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The index entries can be extracted literally, but motif identification is
+    weak because the passage contains labels and page references rather than narrative
+    content. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes were extracted because the supplied passage is an index segment. The water symbol taxonomy reference for the Nile is based on the entries for Nile and Inundation of the Nile, not on a developed symbolic interpretation in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l28818-l28984
+  passage_sha256=7cd0fc9ceb32c5ab21ba02e15b6863ff68db91a45f370a487c6b42b1728245b6
+

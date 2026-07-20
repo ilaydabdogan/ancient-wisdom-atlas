@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l14778-l14816
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: SWEAT HOUSES. / HOUSEHOLD UTENSILS, ETC. / HOUSEHOLD UTENSILS. / SWEAT HOUSES.;
+    lines 14778-14816
+  start: '14778'
+  end: '14816'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Nenenot steam baths in a dome-shaped sweat house
+    made from bent poles and tent skins, using heated stones and water to produce
+    intense steam and perspiration. It notes frequent use, even delaying journeys,
+    recounts a Fort Chimo incident in which reindeer drove an old man and wife out
+    of a sweat house, and observes that remains of former sudatories are common along
+    long-used paths.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Nenenot are described as habitually taking steam baths in a suda-ory or
+    sweat house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sweat house is made from flexible poles, usually willow or alder, bent
+    into a hemispherical or dome-shaped structure and covered with tent skins.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A sandy or snow-free place is selected, a fierce fire is built, and stones
+    are heated in the fire before the structure is erected over them.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Water from a kettle inside the bath house is poured over the hot stones, producing
+    intense heat and perspiration.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bather stays inside the hut until the heat has nearly exhausted him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Baths are frequent, and a family head may interrupt a journey so the bath
+    can be performed before travel resumes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: At Fort Chimo in spring 1882, many reindeer were crossing northeast to drop
+    fawns and sometimes rushed among tents and station houses while pursued.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: An old man and wife were in a sweat house when a large drove of deer headed
+    directly toward the bath.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After a warning, the man and wife left the sweat house just as many animals
+    reached the spot.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The man tore up and whirled the tenting of the bath house, while the old woman
+    made striking movements described as antics.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Signs of former sudatories are said to be common along paths where the Indians
+    had traveled for many years.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Nenenot
+  description: A people described as habitually taking steam baths in a suda-ory or
+    sweat house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bather
+  description: A generic bath participant who remains inside the hut until nearly
+    exhausted by heat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Head of the family
+  description: A family head who may desire a bath after starting a journey, causing
+    the journey to wait.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Old man at Fort Chimo
+  description: A sweat-house occupant who exited before the deer arrived and then
+    tore up and whirled the tenting.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Old wife at Fort Chimo
+  description: A sweat-house occupant who exited before the deer arrived and then
+    performed conspicuous antics.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Reindeer or deer drove
+  description: A large group of animals crossing toward the northeast to drop fawns;
+    one drove rushed toward the sweat house while fleeing pursuers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Whole population at Fort Chimo
+  description: Witnesses who saw the incident and helped increase the tumult.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: steam-bath practitioners
+  assigned_to:
+  - fig:1
+  basis: The passage says the Nenenot are in the habit of taking steam baths.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sweat-house occupants or bathers
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: The generic bather remains in the hut; the old man and wife are explicitly
+    said to be in the sweat house.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: journey-delaying household head
+  assigned_to:
+  - fig:3
+  basis: The family head may decide to bathe after a journey has begun, and the journey
+    waits until the operation is complete.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: warned escapees from the sweat house
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: They left the sweat house after someone warned them about the approaching
+    deer.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: fleeing animal herd
+  assigned_to:
+  - fig:6
+  basis: The animals are described as panic-stricken and rushing while pursued.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: public witnesses increasing tumult
+  assigned_to:
+  - fig:7
+  basis: The whole population witnessed the occurrence and helped increase the tumult.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sweat house or suda-ory
+  literal_form: A dome-shaped hut made of bent flexible poles covered with tent skins,
+    erected over heated stones for steam bathing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: heated stones
+  literal_form: Stones heated in a fierce fire and enclosed within the sweat house.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: fire
+  literal_form: A fierce fire used to heat stones before the sweat house is erected
+    over them.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: water
+  literal_form: Water in a kettle inside the bath house, poured over heated stones;
+    only a slight amount may be poured on the head.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: tenting of the bath house
+  literal_form: Tent skins covering the sweat house; in the Fort Chimo incident the
+    old man tears up the tenting and whirls it in the air.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Construction and operation of the sweat house
+  summary: The Nenenot construct a dome-shaped sweat house from poles and tent skins,
+    heat stones with fire, enclose them, and pour water on them to create intense
+    steam and perspiration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bath delaying a journey
+  summary: A head of family may desire a steam bath after a journey has started, and
+    the journey waits until the bath is completed.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Fort Chimo deer incident
+  summary: During a season of numerous reindeer, an old man and wife are warned that
+    a drove is heading toward their sweat house; they escape, the man whirls the bath-house
+    tenting, the woman makes conspicuous movements, and the population watches and
+    increases the noise.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Former sudatories along paths
+  summary: The passage notes that signs of earlier sweat houses are common along long-used
+    travel paths.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: steam bath with heated stones and water in a temporary dome hut
+  taxonomy_refs: []
+  basis: The passage gives a repeated pattern of constructing a pole-and-skin dome,
+    heating stones with fire, and pouring water on the stones to create a steam bath.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as ethnographic bathing practice, not as a mythic
+    rite or initiatory ceremony.
+- id: motif:2
+  label: heat endurance to near exhaustion
+  taxonomy_refs: []
+  basis: The bather remains inside until intense heat has nearly exhausted him and
+    produced perspiration.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No explicit symbolic, purificatory, or initiation meaning is stated in
+    the passage.
+- id: motif:3
+  label: journey paused for sweat-house operation
+  taxonomy_refs: []
+  basis: The journey must wait when the head of a family decides to bathe after travel
+    has begun.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is described as a behavioral pattern rather than a narrative motif.
+- id: motif:4
+  label: animal herd disrupts occupants of a sweat house
+  taxonomy_refs: []
+  basis: The Fort Chimo anecdote describes a large deer drove rushing toward an occupied
+    sweat house, prompting the occupants to escape and react dramatically.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage frames this as a single amusing incident, not a recurring
+    mythic pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14778-14791
+  quote_or_summary: The Nenenot use a suda-ory or sweat house made of flexible willow
+    or alder poles bent into a dome and covered with tent skins; a suitable spot is
+    chosen, a fierce fire is built, stones are heated, the fire is removed, and the
+    structure is erected over the hot stones.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14791-14798
+  quote_or_summary: Water from a kettle inside the bath house is poured over the stones,
+    making heat rise to a suffocating degree and producing perspiration; the bather
+    may pour a little water on the head and remains until nearly exhausted.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14799-14803
+  quote_or_summary: The baths are frequent, and when the head of a family wants one
+    after starting a journey, the journey waits until the operation is complete.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14804-14810
+  quote_or_summary: At Fort Chimo in spring 1882, reindeer were numerous while crossing
+    northeast to drop fawns; panic-stricken herds rushed among tents and station houses,
+    pursued by dogs and by women and children.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 14810-14815
+  quote_or_summary: An old man and wife were in the sweat house when a large drove
+    headed for it; after a warning they exited as the animals arrived, the man tore
+    up and whirled the tenting, the woman made antics, and the population witnessed
+    and increased the tumult.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 14815-14816
+  quote_or_summary: Signs of former sudatories are common along paths where the Indians
+    have traveled for many years.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is ethnographic and does not state a mythic or ritual-symbolic interpretation.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy motif refs were not applied because the passage does not explicitly support them.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l14778-l14816
+  passage_sha256=fd42932fff6f26f3c2afca4a4fff865435c257bf8cdb6230e6784ca0460b9935
+

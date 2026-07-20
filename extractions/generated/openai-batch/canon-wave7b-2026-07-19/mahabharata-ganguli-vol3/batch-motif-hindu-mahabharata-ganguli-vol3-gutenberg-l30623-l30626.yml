@@ -1,0 +1,147 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l30623-l30626
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION LXIII / SECTION LXIV / SECTION LXV / SECTION LXVI; lines 30623-30626
+  start: '30623'
+  end: '30626'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Yudhishthira said, "Thou hast spoken to me about the four modes of human
+    life. I desire to know more of them."
+  summary: Yudhishthira asks his addressee to explain in detail the four modes of
+    human life that have already been mentioned to him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira is the speaker in the passage.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira says that the addressee has previously spoken to him about the
+    four modes of human life.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yudhishthira says he desires to know more about the four modes of human life.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Yudhishthira asks the addressee to discourse on the four modes in detail.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who asks for further instruction about the four modes
+    of human life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed addressee
+  description: The person addressed as "thou," said to have previously spoken about
+    the four modes of human life and asked to discourse on them further.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: questioner seeking instruction
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira states his desire to know more and requests detailed discourse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: addressee asked to teach
+  assigned_to:
+  - fig:2
+  basis: The addressee is said to have already spoken on the topic and is asked to
+    discourse further.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: four modes of human life
+  literal_form: the four modes of human life
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Request for detailed discourse
+  summary: Yudhishthira asks an unnamed addressee to explain in detail the four modes
+    of human life previously mentioned to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: seeker asks for instruction in human life-stages
+  taxonomy_refs:
+  - wisdom
+  basis: The passage consists of a named speaker asking to know more and requesting
+    detailed discourse on the four modes of human life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is very brief and contains only the request for teaching,
+    not the teaching itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 30623-30626
+  quote_or_summary: Yudhishthira said, "Thou hast spoken to me about the four modes
+    of human life. I desire to know more of them."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 30623-30626
+  quote_or_summary: '"Do thou discourse on them in detail."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment to wisdom is plausible
+    but limited by the short passage and absence of the ensuing discourse.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l30623-l30626
+  passage_sha256=a01fa1023c8c0c14de7774c7e17575471f0b52c1133d744699b95c6e66e5ba56
+

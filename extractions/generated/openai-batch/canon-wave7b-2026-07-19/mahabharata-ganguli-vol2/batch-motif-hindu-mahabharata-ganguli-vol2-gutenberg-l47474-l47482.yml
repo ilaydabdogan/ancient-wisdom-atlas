@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l47474-l47482
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION CII / SECTION CIII / SECTION CIV / SECTION CV; lines 47474-47482
+  start: '47474'
+  end: '47482'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Drona, adhering to his vow and displaying great skill, stupefies foes and
+    rushes toward king Yudhishthira while shooting shafts. The Pandava army cries
+    out in fear that the king has been slain. Yudhishthira mounts Sahadeva's car and
+    retreats from the field.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Drona stupefies his foes, described as the whole army, while weaponless in
+    the opening fragment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Drona is said to adhere firmly to his vow and to possess great lightness of
+    hands.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Drona shoots showers of sharp shafts and rushes toward the king.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Drona's rush toward the king is compared to a furious lion rushing toward
+    a deer.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Pandava army cries out in alarm on seeing Drona rush toward the king.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Some in the Pandava army say that the king has been slain by Bharadwaja's
+    son.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Yudhishthira, son of Kunti, gets onto Sahadeva's car and retreats from the
+    field, carried by swift steeds.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Drona / Bharadwaja's son
+  description: A warrior who stupefies foes, adheres to a vow, shoots shafts, and
+    rushes toward the king.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: King Yudhishthira, son of Kunti
+  description: The king toward whom Drona rushes; he later mounts Sahadeva's car and
+    retreats from the field.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Sahadeva
+  description: Named as the owner or associated figure of the car that Yudhishthira
+    mounts during retreat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Pandava army / Pandava troops
+  description: The army that witnesses Drona's advance and cries out in alarm and
+    mourning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Foes / whole army
+  description: Those stupefied by Drona in the opening fragment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: attacking warrior
+  assigned_to:
+  - fig:1
+  basis: Drona shoots shafts and rushes toward the king.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: endangered king who retreats
+  assigned_to:
+  - fig:2
+  basis: Drona rushes toward the king, and Yudhishthira retreats on Sahadeva's car.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: associated chariot owner
+  assigned_to:
+  - fig:3
+  basis: Yudhishthira gets onto the car of Sahadeva.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: alarmed witnessing army
+  assigned_to:
+  - fig:4
+  basis: The Pandava army cries out and laments when Drona rushes toward the king.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: stupefied opponents
+  assigned_to:
+  - fig:5
+  basis: Drona stupefies his foes, described as the whole army.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: shower of sharp shafts
+  literal_form: showers of sharp shafts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lion and deer simile
+  literal_form: a furious lion rushing toward a deer
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: retreating car with swift steeds
+  literal_form: the car of Sahadeva borne by swift steeds
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Drona advances on the king
+  summary: Drona, described as skillful and vow-bound, stupefies opponents and rushes
+    toward the king while shooting shafts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pandava alarm and Yudhishthira's retreat
+  summary: The Pandava army cries out that the king may have been slain, while Yudhishthira
+    mounts Sahadeva's car and retreats from the field.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: vow-bound warrior assault
+  taxonomy_refs: []
+  basis: Drona is explicitly described as adhering to his vow while shooting shafts
+    and rushing toward the king.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the content of the vow, only that Drona adheres
+    to it.
+- id: motif:2
+  label: endangered king retreats from battlefield
+  taxonomy_refs: []
+  basis: The army fears the king has been slain, and Yudhishthira retreats from the
+    field on Sahadeva's car.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local battle-pattern motif; no broader mythological taxonomy
+    reference is asserted.
+- id: motif:3
+  label: predatory animal simile for martial attack
+  taxonomy_refs: []
+  basis: Drona's rush toward the king is compared to a furious lion rushing toward
+    a deer.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The simile is explicit, but its symbolic significance beyond martial comparison
+    is not stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 47474-47475
+  quote_or_summary: '"weaponless, Drona, O lord, stupefied his foes, rather the whole
+    army."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 47475-47478
+  quote_or_summary: Drona firmly adheres to his vow, is endowed with great lightness
+    of hands, shoots showers of sharp shafts, and rushes toward the king like a furious
+    lion toward a deer.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 47478-47481
+  quote_or_summary: The Pandava army cries out in alarm; many say that the king is
+    slain by Bharadwaja's son, and loud wails are heard among the Pandava troops.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 47481-47482
+  quote_or_summary: King Yudhishthira, son of Kunti, gets onto Sahadeva's car and
+    retreats from the field, borne by swift steeds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The basic figures and actions are explicit. Motif labels are limited to local
+    passage patterns without asserting external parallels. No comparison claims are
+    made because the passage itself does not support a broader comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; taxonomy references were not applied because no listed motif family or symbol was directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l47474-l47482
+  passage_sha256=ea5776c2064f451481fe04a3cbab366b0f8844afd5da74a7fa3aa583b1057275
+

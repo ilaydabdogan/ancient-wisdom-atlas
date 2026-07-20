@@ -1,0 +1,546 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l8188-l8224
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: THE   PLACE  WHERE   THE    CARIBOU   LIVE. / HOW  THE   TROUT  WAS  MADE.
+    / THE  QUARREL  OF  THE  CROW  AND  THE  GULL. / THE   GIRL  WHO  MARRIED   A  WHALE.;
+    lines 8188-8224
+  start: '8188'
+  end: '8224'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A Crow and a Gull fight as representatives of the Eskimo and the white
+    man; the Gull wins, accounting for the white men's greater number and strength.
+    In a second tale, a girl chooses a whale bone as husband; it becomes alive, marries
+    her, takes her to the sea, restrains her, pursues her escape by umiak, is delayed
+    by garments thrown into the water, strands near shore, is killed by her kin, and
+    returns to bone.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Crow and the Gull quarrel, with the Crow for the Eskimo and the Gull for
+    the white man.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The result of the Crow-Gull fight determines which represented side is strongest.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Gull wins the fight, and the passage states this is why white men are
+    more numerous and stronger than the Eskimo.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A girl walks along the shore and wishes for a husband.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The girl sees a whale skull on the sand and says she will take the whale bone
+    for a husband.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The whale bone comes to life and marries the girl.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The girl lives with the whale in the sea; the whale is jealous and ties a
+    line to her to prevent escape.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The girl sees her father and brothers in an umiak and calls for them to take
+    her aboard.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The whale discovers the escape and swims furiously after the boat.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The girl throws her mittens, boots, and qo'lituk into the water in sequence,
+    delaying the whale while he attacks them.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: obs:11
+  text: The boat reaches shore while the whale is delayed.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The whale comes on without noticing land, strands in shallow water, is killed
+    by the girl's father and brothers, and changes back into bone.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Crow
+  description: A bird who quarrels and fights as the representative of the Eskimo
+    side.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gull
+  description: A bird who quarrels and fights as the representative of the white man
+    side and wins the fight.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Eskimo
+  description: The human group represented by the Crow in the fight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: white man
+  description: The human group represented by the Gull in the fight; described after
+    the Gull's victory as more numerous and stronger than the Eskimo.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: girl
+  description: A girl who chooses a whale bone as husband, lives with the whale, escapes
+    in an umiak, and delays the whale by throwing garments into the water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: whale bone / whale
+  description: A whale skull or bone on the sand that comes to life, marries the girl,
+    lives with her in the sea, pursues her escape, strands, is killed, and changes
+    back into bone.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:10
+- id: fig:7
+  name_or_label: father and brothers
+  description: The girl's kin who pass by in an umiak, take her aboard, reach shore
+    with her, and kill the stranded whale.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:10
+roles:
+- id: role:1
+  label: animal champion
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Each bird fights on behalf of a named human group.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victor in representative contest
+  assigned_to:
+  - fig:2
+  basis: The Gull wins, and the passage links this victory to the strength of the
+    white man side.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: represented human group
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Crow is for the Eskimo and the Gull for the white man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: human wife and escapee
+  assigned_to:
+  - fig:5
+  basis: The girl marries the whale, is kept in the sea, then escapes with help from
+    her father and brothers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: animated nonhuman husband and pursuer
+  assigned_to:
+  - fig:6
+  basis: The whale bone comes to life, marries the girl, restrains her, and pursues
+    the escaping umiak.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: rescuing kin and whale-killers
+  assigned_to:
+  - fig:7
+  basis: The father and brothers take the girl aboard and later kill the stranded
+    whale.
+  evidence_refs:
+  - ev:6
+  - ev:10
+symbols:
+- id: sym:1
+  label: Crow
+  literal_form: crow
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Gull
+  literal_form: gull
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: whale bone
+  literal_form: whale skull or whale bone lying on sand
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:10
+- id: sym:4
+  label: sea and water
+  literal_form: sea water and water into which garments are thrown
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: restraining line
+  literal_form: line tied to the girl
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: umiak
+  literal_form: umiak carrying the girl's father and brothers
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: discarded garments
+  literal_form: mittens, boots, and qo'lituk thrown into the water
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:8
+  label: shore and shallow water
+  literal_form: shore and shallow water where the whale strands
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Crow and Gull fight for human groups
+  summary: The Crow and the Gull fight as representatives of the Eskimo and the white
+    man; the Gull wins, and the white men are said to be more numerous and stronger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Girl chooses whale bone as husband
+  summary: A girl walking on the shore wishes for a husband, sees a whale skull on
+    the sand, declares that she will take the whale bone for a husband, and the bone
+    comes to life and marries her.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Life in the sea and restraint
+  summary: The girl goes to live with the whale in the sea, where the jealous whale
+    ties a line to her so she will not escape.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Escape by umiak and delayed pursuit
+  summary: The girl calls to her father and brothers in an umiak, boards it, and the
+    whale pursues; she throws mittens, boots, and a qo'lituk into the water, delaying
+    the whale as the boat nears and reaches shore.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Whale stranded, killed, and returned to bone
+  summary: The whale, still angry, fails to notice land, strands in shallow water,
+    is killed by the girl's father and brothers, and changes back into bone.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:8
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: representative animal contest determines human-group status
+  taxonomy_refs:
+  - duality
+  basis: Two birds are aligned with two human groups, and the winner's side is said
+    to become strongest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The duality taxonomy is broad; the passage presents a contest and etiological
+    result rather than an abstract dualist system.
+- id: motif:2
+  label: etiology of relative numbers and strength
+  taxonomy_refs: []
+  basis: The Gull's victory is explicitly given as the reason white men are more numerous
+    and stronger than the Eskimo.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy reference exactly matches this etiological social
+    explanation.
+- id: motif:3
+  label: inanimate bone becomes living spouse and returns to bone
+  taxonomy_refs:
+  - shapeshifter
+  basis: A whale bone comes to life, marries the girl, later is killed as a whale,
+    and changes back into bone.
+  evidence_refs:
+  - ev:4
+  - ev:10
+  confidence: high
+  cautions: The text describes transformation between bone and living whale, but does
+    not use a technical shapeshifter label.
+- id: motif:4
+  label: marriage to nonhuman sea-being
+  taxonomy_refs: []
+  basis: The girl chooses the whale bone as husband, it becomes alive, marries her,
+    and she lives with the whale in the sea.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The marriage is cross-species/nonhuman, but the passage does not identify
+    the whale as divine or sacred.
+- id: motif:5
+  label: jealous nonhuman husband restrains wife
+  taxonomy_refs: []
+  basis: The whale is jealous and ties a line to the girl so she will not escape.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only brief motive and action.
+- id: motif:6
+  label: escape from pursuing spouse delayed by thrown objects
+  taxonomy_refs: []
+  basis: During the whale's pursuit of the escaping umiak, the girl throws garments
+    into the water, and the whale is delayed by tearing or thrashing them.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The thrown objects are garments; no magical properties are stated.
+- id: motif:7
+  label: aquatic pursuer stranded at shore and killed
+  taxonomy_refs: []
+  basis: The whale pursues too far, fails to notice the land, strands in shallow water,
+    and is killed by the girl's father and brothers.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The passage does not elaborate on any ritual or cosmological meaning of
+    the stranding.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8188-8192
+  quote_or_summary: The Crow and Gull quarrel; the Crow is for the Eskimo and the
+    Gull for the white man; the winner's side will be strongest.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 8192-8194
+  quote_or_summary: '"The Gull won. That is why the white men are more numerous and
+    stronger than the Eskimo."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 8197-8201
+  quote_or_summary: A girl walking along the shore wishes for a husband, sees a whale
+    skull on the sand, and says she will take the whale bone for a husband.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 8201-8202
+  quote_or_summary: '"It came to life and married her."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 8203-8205
+  quote_or_summary: The girl lives with the whale in the sea; the jealous whale ties
+    a line to her because he fears she will escape.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8206-8210
+  quote_or_summary: The girl sees her father and brothers passing in an umiak, calls
+    to be taken aboard, and the whale discovers the escape and pursues the boat furiously.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8210-8214
+  quote_or_summary: When the whale nears, the girl throws her mittens into the water;
+    while he tears them up, the boat gains distance.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8214-8217
+  quote_or_summary: The whale comes on again, making the water foam; the girl throws
+    her boots into the water, and he thrashes them with his tail while the boat heads
+    for shore.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8217-8221
+  quote_or_summary: Near shore, the girl throws her qo'lituk into the water; while
+    the whale tears it up, the party lands.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 8221-8224
+  quote_or_summary: The angry whale does not notice land, strands in shallow water,
+    is killed by the girl's father and brothers, and changes back into bone.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and cautious; comparison_claims are omitted because no explicit cross-text or
+    cross-tradition comparison is provided in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage text begins with 'The Quarrel of the Crow and the Gull' and 'The Girl Who Married a Whale'; no extraction was made for titles named in the broader locator but absent from the supplied passage text.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l8188-l8224
+  passage_sha256=000e267bb50ff3769fb8d51d7e6d75ca88b1a701ded35e7d9b7b607e6037d053
+

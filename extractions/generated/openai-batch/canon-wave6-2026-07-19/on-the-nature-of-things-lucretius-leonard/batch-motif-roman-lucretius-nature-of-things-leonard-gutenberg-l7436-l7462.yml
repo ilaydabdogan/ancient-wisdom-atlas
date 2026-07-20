@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.roman-lucretius-nature-of-things-leonard-gutenberg-l7436-l7462
+source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+passage_locator:
+  label: THE PASSION OF LOVE / BOOK V / PROEM / THE WORLD IS NOT ETERNAL; lines 7436-7462
+  start: '7436'
+  end: '7462'
+  translation: On the Nature of Things
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"Opposing dark orb to his glowing beams"'
+  summary: 'The passage proposes several possible causes for solar and lunar darkening:
+    the moon or another lightless body may block the sun, the sun may temporarily
+    lose and renew its fires after passing through hostile regions, the earth may
+    cast a cone of shadow on the moon, and the moon may weaken if self-luminous while
+    passing through unfriendly regions.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The moon is described as able to shut out the earth from the sun's light by
+    placing its dark orb against the sun's glowing beams.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage asks whether another body, forever devoid of light, could also
+    cause the same obscuring effect by gliding through the sky.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sun is described as possibly losing its fires at a fixed time while weakened,
+    then renewing its light after passing beyond regions hostile to its flames.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The earth is described as having power to rob the moon of light while keeping
+    the sun hidden beneath, as the moon moves through the cone-shaped shadows.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Another body is proposed as able to pass under the moon or above the sun and
+    break the sun's rays and outspread light apart.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If the moon has its own sheen, the passage asks whether it could grow weak
+    and weary in some part of the world while passing through regions unfriendly to
+    its beams.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Moon
+  description: A celestial body that can oppose a dark orb to the sun's beams, glide
+    in a monthly course through cone-shaped shadows, and is hypothetically considered
+    self-refulgent with its own sheen.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Sun
+  description: A celestial body whose light, beams, fires, and flames may be blocked,
+    quenched, killed, renewed, or broken apart.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Earth
+  description: A body that can be shut out from the light of the sun and can also
+    rob the moon of light by hiding the sun beneath while the moon moves through shadows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Other lightless body
+  description: A hypothetical body devoid of light that glides through space and may
+    under-pass the moon or pass above the sun, breaking rays and light.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: Light-bearing celestial body
+  assigned_to:
+  - fig:2
+  basis: The sun is repeatedly associated with light, glowing beams, fires, flames,
+    rays, and outspread light.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: Intervening obscurer
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The moon and a possible other body are both described as capable of blocking
+    or breaking the sun's light.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: Shadow-casting darkener of the moon
+  assigned_to:
+  - fig:3
+  basis: The earth is said to rob the moon of light while the moon moves through shadows
+    of the cone.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Hypothetical self-luminous moon
+  assigned_to:
+  - fig:1
+  basis: The passage asks what follows if the moon is refulgent with its own sheen.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Lightless wandering body
+  assigned_to:
+  - fig:4
+  basis: The hypothetical body is described as devoid of light and as gliding or moving
+    beneath or above other celestial bodies.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: Solar fire
+  literal_form: The sun's fires, flames, light, beams, and rays
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: Dark orb
+  literal_form: The moon's dark orb opposed to the sun's glowing beams
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Cone-shaped shadow
+  literal_form: The rigid shadows of the cone through which the moon glides
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Hostile regions
+  literal_form: Regions hostile or unfriendly to the sun's flames or the moon's beams
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Moon or lightless body blocks the sun
+  summary: The passage presents the moon as blocking the sun's light from earth and
+    asks whether another lightless body might do the same.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sun loses and renews fires
+  summary: The sun is imagined as temporarily losing its fires in hostile regions
+    and then renewing its light after passing beyond them.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Earth or another body darkens the moon
+  summary: The earth is said to rob the moon of light as the moon passes through cone-shaped
+    shadows, while another body is also proposed as able to break light by passing
+    near the moon or sun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Self-luminous moon weakens
+  summary: If the moon shines with its own sheen, the passage asks whether it could
+    weaken while passing through regions unfriendly to its beams.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Celestial light obscured by an intervening body
+  taxonomy_refs: []
+  basis: The passage repeatedly presents the darkening of sun or moon as caused by
+    the moon, earth, or another body passing between celestial light and observer
+    or breaking rays apart.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is presented as natural-philosophical explanation rather than narrative
+    myth.
+- id: motif:2
+  label: Cosmic light weakened and renewed after hostile passage
+  taxonomy_refs: []
+  basis: The sun may lose its fires and later renew its light after passing beyond
+    hostile regions; the moon may also weaken while passing through unfriendly regions.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage frames these as speculative physical causes, not as divine
+    action or ritual renewal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7436-7442
+  quote_or_summary: '"Why should the moon be able to shut out / Earth from the light
+    of sun ... / Opposing dark orb to his glowing beams"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 7442-7445
+  quote_or_summary: '"Could not result from some one other body / Which glides devoid
+    of light forevermore?"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7446-7452
+  quote_or_summary: '"sun, in weakened state, / At fixed time for-lose his fires"
+    and later "Renew his light" after regions that "quench and kill his fires."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7452-7457
+  quote_or_summary: '"earth in turn / Have power to rob the moon of light" while the
+    moon glides "Athrough the rigid shadows of the cone."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 7458-7462
+  quote_or_summary: '"some one other body" may "under-pass the moon" or "glide along
+    above the orb of sun, / Breaking his rays and outspread light asunder."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:6
+  type: quote
+  locator: lines 7462-7468
+  quote_or_summary: '"if moon herself refulgent be / With her own sheen" she may "Grow
+    weak and weary" while passing through "Regions unfriendly to the beams her own."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and cautious
+    because the passage is scientific-philosophical rather than mythic narrative.
+    No comparison claims are made because the passage itself does not compare these
+    images to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Line numbering in the supplied locator ends at 7462, but the provided passage text continues through the moon's weakening in unfriendly regions; evidence locators follow the supplied passage sequence and may require human verification against the canonical markdown line numbers.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-lucretius-nature-of-things-leonard-gutenberg__l7436-l7462
+  passage_sha256=fe29146263726bb6d928d5a9a9fe44ae5767ffb81feb69f266edcf8066c5750a
+

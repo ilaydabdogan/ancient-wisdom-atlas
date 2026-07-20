@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l37994-l38133
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: VI, 66, 1. / HYMNS. / INDEX OF WORDS. / HYMNS,; lines 37994-38133
+  start: '37994'
+  end: '38133'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an index section listing Vedic words, glosses, and hymn
+    references. It includes entries for a universal ruler, arrow, lion, river or Indus,
+    the sons of Sindhu as a name of the Maruts, Rudra as a parenthetical referent,
+    and terms for pressing or pouring Soma and for Soma juice as libation.
+  language: English with transliterated Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is organized as index entries with transliterated words, English
+    glosses, and hymn references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An entry glosses sindhu as a stream or river and also identifies Sindhu as
+    the Indus.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An entry glosses a plural form as the sons of Sindhu and says it is a name
+    of the Maruts.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An entry glosses su as pressing out or pouring out Soma.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An entry glosses suta as the pressed juice of Soma and as libation.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Rudra appears parenthetically in an entry glossed as freely accessible.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Entries gloss siyaka as arrow and simha as lion.
+  category: object
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Maruts
+  description: Named in the index as the group for whom the sons of Sindhu is a name.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Rudra
+  description: Named parenthetically in the entry for su-apivata, glossed as freely
+    accessible.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named divine group in an index gloss
+  assigned_to:
+  - fig:1
+  basis: The passage says the sons of Sindhu is a name of the Maruts.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: named referent of an attribute gloss
+  assigned_to:
+  - fig:2
+  basis: Rudra is named parenthetically in an entry glossed as freely accessible.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: river or Indus
+  literal_form: sindhu, stream or river; Sindhu, the Indus
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Soma juice or libation
+  literal_form: pressed juice of Soma; libation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: lion
+  literal_form: simha, lion
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: arrow
+  literal_form: siyaka, arrow
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Soma pressing and libation
+  taxonomy_refs:
+  - sacrifice
+  basis: The index defines a verb as pressing or pouring out Soma and defines suta
+    as pressed Soma juice or libation.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is a lexical index, not a narrative or ritual description; the motif
+    is inferred from ritual vocabulary only.
+- id: motif:2
+  label: sons of a river associated with divine group
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage glosses a plural term as sons of Sindhu and identifies it as
+    a name of the Maruts.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only an index gloss is present; no mythic parentage episode is narrated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37996-38006
+  quote_or_summary: Index entries gloss terms including universal ruler, arrow, lion,
+    and a verb meaning to pour out.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 38008-38014
+  quote_or_summary: '"sindhu, stream, river" and "sindhué, the Indus"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 38015-38019
+  quote_or_summary: '"sindhu-matrz, pl., the sons of Sindhu, N. of the Maruts"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 38024-38032
+  quote_or_summary: '"su, to press out, to pour out (Soma)"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 38048-38051
+  quote_or_summary: '"su-apivata (Rudra), freely accessible"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: lines 38127-38133
+  quote_or_summary: '"suta, the pressed juice (of Soma), ‘libation"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is an index, so literal lexical extraction is relatively secure,
+    but motif identification is limited and should be reviewed against the cited hymns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself make comparative claims.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l37994-l38133
+  passage_sha256=f5f279345f9e64c74307bd713f22cbceac35f267ffdda4110a3fecfae1156a06
+

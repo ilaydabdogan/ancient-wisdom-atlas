@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l14813-l14859
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: THE WAIMA. / THE BEREINA. / CHAPTER XXI / ASSUMPTION OF THE PERINEAL BANDAGE,
+    ITABURI.; lines 14813-14859
+  start: '14813'
+  end: '14859'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a rite in which, after a boy's ears have been pierced
+    and while he is still a miori, his father kills and displays a dog, then gives
+    it to the boy's maternal uncle. The mother's family eats the dog, and the maternal
+    uncle puts the itaburi, or perineal bandage, on the boy in the uncle's house.
+    The father and paternal relatives are absent from the initial investiture. The
+    dog is described as a kind of payment for the boy's assumption of the itaburi,
+    with a pig allowed only as an inferior substitute if a dog is unavailable. A recent
+    case is given in which an accidentally killed dog was accepted in advance for
+    the future rite.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The rite occurs some time after a boy's ears have been pierced and while he
+    is still called a miori.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy's father kills a dog, first hangs it at the front of his house, and
+    then takes it to the boy's maternal uncle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note reports that hanging the dog at the front of the house functions as
+    a public announcement that a son of the house is to be invested with the itaburi.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If a dog is not available, a pig may be used, but this substitution is not
+    considered the proper form.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Members of both sexes of the boy's mother's family eat the dog.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The boy is sent to his maternal uncle, who puts the itaburi on his nephew
+    in the uncle's own house; the boy then returns to his father.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The boy's father and paternal relatives are not present when the itaburi is
+    first put on the boy.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The dog is described as in some sense the price paid for the boy's assumption
+    of the itaburi.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: In a reported recent case, a father brought an accidentally killed dog to
+    the maternal uncle before the boy was old enough, asking that it be remembered
+    later and that nothing more be required; the uncle agreed.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: boy / miori / nephew
+  description: A boy whose ears have already been pierced and who is to be invested
+    with the itaburi by his maternal uncle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: boy's father
+  description: The father kills and displays the dog, gives it to the maternal uncle,
+    sends the boy to the uncle, and is absent from the initial investiture.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: boy's maternal uncle
+  description: The mother's brother receives the dog and puts the itaburi on his nephew
+    in his own house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: boy's mother's family
+  description: Members of the mother's family, of both sexes, eat the dog.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: father's paternal relatives
+  description: The boy's paternal relatives are not present when the itaburi is first
+    put on the boy.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: initiate receiving itaburi
+  assigned_to:
+  - fig:1
+  basis: The boy, after ear piercing and while still a miori, is sent to his maternal
+    uncle to have the itaburi put on him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: paternal provider of dog payment
+  assigned_to:
+  - fig:2
+  basis: The father kills, displays, and delivers the dog that is described as a price
+    for the boy's assumption of the itaburi.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: maternal uncle as recipient and invester
+  assigned_to:
+  - fig:3
+  basis: The maternal uncle receives the dog and places the itaburi on his nephew
+    in his own house.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: maternal kin as consumers of dog
+  assigned_to:
+  - fig:4
+  basis: Members of both sexes of the boy's mother's family eat the dog.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: excluded paternal kin at first investiture
+  assigned_to:
+  - fig:5
+  basis: The father and paternal relatives are explicitly said not to be present when
+    the itaburi is first put on the boy.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: itaburi
+  literal_form: perineal bandage
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: dog used for investiture payment
+  literal_form: dog killed, displayed, given to the maternal uncle, and eaten by the
+    mother's family
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: front-of-house dog display
+  literal_form: dog hung at the front of the father's house
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: pig as inferior substitute
+  literal_form: pig used only if a dog is unavailable
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: preparation and announcement with dog
+  summary: After the boy's ear piercing and while he remains a miori, the father kills
+    a dog, hangs it at the front of his house, and takes it to the maternal uncle;
+    a note says this display announces the forthcoming itaburi investiture.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: maternal investiture of the boy
+  summary: The mother's family eats the dog, and the boy is sent to his maternal uncle,
+    who puts the itaburi on him in the uncle's house; the boy then returns to his
+    father, who and whose paternal relatives were absent from the first investiture.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: advance acceptance of accidentally killed dog
+  summary: A father whose only dog was accidentally killed brought it to the maternal
+    uncle before the boy was old enough, asking that the dog count later for the investiture;
+    this was accepted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: boy's initiation through investiture with ritual clothing
+  taxonomy_refs:
+  - initiation
+  basis: The passage describes a staged transition for a boy after ear piercing, culminating
+    in the maternal uncle putting the itaburi on him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage is ethnographic description of a rite rather than a mythic
+    narrative.
+- id: motif:2
+  label: ritual exchange enabling initiation
+  taxonomy_refs:
+  - sacred_exchange
+  - initiation
+  basis: The dog is given to the maternal uncle and described as in some sense the
+    price paid for the boy's assumption of the itaburi.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage states a payment-like function but does not frame the transaction
+    in explicitly theological terms.
+- id: motif:3
+  label: maternal uncle controls nephew's ritual investiture
+  taxonomy_refs:
+  - initiation
+  basis: The maternal uncle receives the dog and is the one who puts the itaburi on
+    the boy, while the father and paternal relatives are absent.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a kinship-ritual pattern; broader comparative significance requires
+    external evidence not present here.
+- id: motif:4
+  label: public announcement by displayed animal
+  taxonomy_refs: []
+  basis: The dog is hung at the front of the father's house, and a note says this
+    practically announces that a son will be invested with the itaburi.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The public-announcement function is attributed in a note and may reflect
+    the cited informant's formulation.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to the general initiation motif family
+    because it describes a formal investiture marking a boy's ritual status change.
+  claim_level: same_motif
+  target: 'available motif family: initiation'
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence is a localized ethnographic rite, not a narrative myth;
+    comparison is limited to the structural feature of initiation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14813-14859
+  quote_or_summary: After a boy has had his ears pierced and while he is still a miori,
+    his father kills a dog, hangs it at the front of his house, and gives it to the
+    boy's maternal uncle.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14813-14859, footnote in passage
+  quote_or_summary: A note attributed to Guis states that hanging the dog at the front
+    of the house is practically a public announcement that a son of that house is
+    to be invested with the itaburi.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14813-14859
+  quote_or_summary: If a dog is unavailable, a pig may be used, though it is not considered
+    the right thing; members of both sexes of the boy's mother's family eat the dog.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14813-14859
+  quote_or_summary: The boy is sent to his maternal uncle, who in his own house puts
+    the itaburi on his nephew; the boy returns to his father, and the father and paternal
+    relatives are not present at the first investiture.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 14813-14859
+  quote_or_summary: '"the dog given is in some sense the price paid for the assumption
+    by the boy of the itaburi"'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 14813-14859
+  quote_or_summary: A recent case is described in which a man's only dog was accidentally
+    killed before his son was old enough; he took it to the maternal uncle and asked
+    that it count later for the itaburi, and this was agreed.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage gives a clear ethnographic sequence and kinship roles. Motif
+    labeling is limited because the material is ritual description rather than mythic
+    narrative, and no external comparison is supplied in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs apply directly to itaburi, dog, pig, or house-front display; these are recorded as passage-specific symbols with empty taxonomy_refs.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l14813-l14859
+  passage_sha256=5d87ada8efde73f8ff7bde0b85f5b9c20f806307e8b5e4ff534139df4b818a28
+

@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l7645-l7662
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: THE   TWISTING   OF   HIKU-LEO'S  TAIL / ISO  THE   BEGINNING    OF   DEATH
+    / THE    BEGINNING   OF   DEATH  151 / THE   BEGINNING   OF   DEATH  153; lines
+    7645-7662
+  start: '7645'
+  end: '7662'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the branch, from which the leaves had fallen, was sapless and dead
+  summary: In a passage headed as the beginning of death, sounds of grief accompany
+    a sudden blast. Evergreen leaves wither and fall, the gods see a dead branch on
+    the Tree, and the branch drops into the Water of Life. It breaks into three pieces,
+    becomes three canoes, sinks from sight, and Maui with the other gods depart in
+    mournful silence.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage heading identifies the episode as the beginning of death.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sounds of sobbing, sighing, and a wailing moan are mingled with a sudden blast.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Leaves that had previously been evergreen faded, withered, fell, and were
+    scattered.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gods look up in awestruck wonder at something said never to have been
+    known before.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The branch from which the leaves had fallen is described as sapless and dead.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A dismal groan sounds from the midst of the Tree, and the branch falls into
+    the Water of Life.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The falling branch breaks into three pieces, two large and one small.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: As the pieces sink in the waters, they take the form of three canoes, two
+    large and one small, and are lost in the depths.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Maui and the rest of the gods rise with a heavy sigh and go to their homes
+    in mournful silence.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the gods
+  description: A group who look up in awestruck wonder, fearfully behold the transformation,
+    and later depart mournfully.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Maui
+  description: Named figure who rises with the rest of the gods and goes home in mournful
+    silence.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine witnesses
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The gods see the dead branch and behold the pieces becoming canoes; Maui
+    is named among the gods at the end of the scene.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: mournful departants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Maui and the rest of the gods rise with a heavy sigh and leave in mournful
+    silence.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: dead branch of the Tree
+  literal_form: A branch of the Tree whose leaves have fallen, described as sapless
+    and dead.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Water of Life
+  literal_form: The Water of Life into which the branch drops and in which the pieces
+    sink.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: three canoes
+  literal_form: Three canoes, two large and one small, formed from the three sinking
+    pieces of the branch.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: withered fallen leaves
+  literal_form: Leaves that had been evergreen but faded, withered, fell, and were
+    scattered by the blast.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Withering of the evergreen leaves
+  summary: A grief-like sound and sudden blast accompany the fading, withering, and
+    falling of previously evergreen leaves.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: The gods see the dead branch
+  summary: The gods look up in awestruck wonder at the unprecedented sight of a sapless,
+    dead branch on the Tree.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Branch falls into the Water of Life and becomes canoes
+  summary: A groan comes from the Tree, the dead branch drops into the Water of Life,
+    breaks into three pieces, and the pieces become three canoes as they sink out
+    of sight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Mournful departure
+  summary: Maui and the rest of the gods rise, sigh heavily, and return home in mournful
+    silence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: origin or first appearance of death
+  taxonomy_refs: []
+  basis: The heading names the episode as the beginning of death, and the passage
+    emphasizes that the death of the branch is unprecedented.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage excerpt gives the episode title and immediate event but not
+    the wider narrative cause or consequences.
+- id: motif:2
+  label: death signaled by withering vegetation
+  taxonomy_refs: []
+  basis: Evergreen leaves fade, wither, fall, and reveal a sapless dead branch.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The symbolic meaning beyond the literal connection to death is not stated
+    in the excerpt.
+- id: motif:3
+  label: dead tree-part transformed into vessels in life-giving water
+  taxonomy_refs: []
+  basis: The dead branch falls into the Water of Life, breaks into three pieces, and
+    the pieces become three canoes as they sink.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe the canoes being used for travel, rescue,
+    or an afterlife journey, so no vessel-journey taxonomy is assigned.
+- id: motif:4
+  label: divine witnesses mourn a new condition
+  taxonomy_refs: []
+  basis: The gods respond with fear, wonder, a heavy sigh, and mournful silence after
+    seeing the dead branch and its transformation.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The precise ritual or cosmological function of the gods' mourning is not
+    explained in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 7645
+  quote_or_summary: '"THE BEGINNING OF DEATH 153"'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7646-7649
+  quote_or_summary: Sounds of sobbing, sighing, and wailing accompany a sudden blast;
+    many evergreen leaves fade, wither, fall, and are scattered.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7649-7652
+  quote_or_summary: The gods look up in awestruck wonder at an unprecedented event
+    and see that the branch from which the leaves fell is sapless and dead.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7652-7655
+  quote_or_summary: A dismal groan comes from the midst of the Tree; the branch drops
+    into the Water of Life and breaks into three pieces, two large and one small.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7655-7659
+  quote_or_summary: As the three pieces sink, they take the form of three canoes,
+    two large and one small, and disappear into the depths.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 7659-7662
+  quote_or_summary: Maui and the rest of the gods rise with a heavy sigh and go home
+    in mournful silence.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    and mostly untaxonomized because the excerpt does not state wider narrative functions
+    for the canoes or the Tree. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were assigned only to literal tree and water symbols supported by the excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l7645-l7662
+  passage_sha256=04da54f7ec391f7420e9dc7d7b330150bb70e9590e2962b8c4414871f5368e85
+

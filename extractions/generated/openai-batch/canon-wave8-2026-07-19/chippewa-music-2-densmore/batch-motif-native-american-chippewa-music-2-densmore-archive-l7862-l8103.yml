@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l7862-l8103
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: AKIWEN'ZI / CHIPPEWA    WAR     BANNER / DE.NSMUUEJ / CHIPPEWA    MUSIC-;
+    lines 7862-8103
+  start: '7862'
+  end: '8103'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"I arise from the flowing spring"'
+  summary: The passage describes a Chippewa war medicine called bijikiwuck, its use
+    by warriors, and a song sung while preparing it. The song’s words identify the
+    speaker as arising from a flowing spring. The analysis classifies the song musically
+    among songs with a prominent interval of a fourth and notes that this melodic
+    group is commonly associated with motion or animals.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A preceding song analysis says the rhythmic unit is short and vigorous and
+    that the melody is inspiring and suited to increase a warrior’s confidence.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The principal war medicine carried by the Chippewa is named bijikiwuck, glossed
+    as “cattle herb medicine.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The medicine is said to make men strong and to be a powerful healing medicine.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A warrior customarily chews the medicine and sprays it from his lips upon
+    his body and equipment.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The song numbered 22 is sung while preparing the medicine.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The song is attributed as sung by Odjib’we.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The translated song words present a first-person speaker associated with arising
+    from a flowing spring.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The musical analysis says No. 22 has prominent descending fourths and belongs
+    to a larger group of songs with a common melodic characteristic.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The analysis states that 36 songs, or 11 percent of the collection, share
+    the melodic characteristic, and that these songs commonly concern motion or animals.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The listed motion-related songs include images of raising a pipe, a bubbling
+    spring, going around a lodge, a shell going toward others, flame going upward,
+    going to the spirit land, and departing.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The listed animal-related songs include birds, an owl, round-hoofed, curved
+    horns, ravens, a horse, deer, and a manido in the form of a bear.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Chippewa warrior
+  description: A warrior who carries, chews, and sprays the war medicine upon his
+    body and equipment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Odjib’we
+  description: Named as the singer of song No. 22.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: First-person song speaker
+  description: The lyric speaker identified by the translated words as “myself” and
+    as arising from the flowing spring.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: war medicine user
+  assigned_to:
+  - fig:1
+  basis: The passage states it was the warrior’s custom to chew the medicine and spray
+    it on his body and equipment.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: song performer
+  assigned_to:
+  - fig:2
+  basis: The song is labeled as sung by Odjib’we.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: lyric speaker arising from spring
+  assigned_to:
+  - fig:3
+  basis: The translated song text gives first-person words connected with arising
+    from the flowing spring.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: war medicine
+  literal_form: bijikiwuck, “cattle herb medicine”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: medicine sprayed on body and equipment
+  literal_form: chewed medicine sprayed from the lips upon the warrior’s body and
+    equipment
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: flowing spring
+  literal_form: flowing spring
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: motion imagery
+  literal_form: raising, coming, going around, going toward, going, walking, bringing
+    back, departing
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: animal imagery
+  literal_form: bird, owl, round-hoofed animal, curved horns, ravens, horse, deer,
+    bear-form manido
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: upward flame
+  literal_form: flame goes up to my body
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Preparation of war medicine
+  summary: A Chippewa warrior prepares bijikiwuck by chewing it and spraying it on
+    his body and equipment, with a song sung during the preparation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Song speaker arising from spring
+  summary: The translated words of No. 22 present a first-person speaker who says
+    he arises from a flowing spring.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Melodic group associated with motion and animals
+  summary: The analysis places No. 22 within a group of songs sharing a melodic feature
+    and commonly concerning motion or animals.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: empowering war medicine preparation
+  taxonomy_refs: []
+  basis: The passage describes a principal war medicine that makes men strong and
+    is prepared by chewing and spraying it on the warrior’s body and equipment while
+    a song is sung.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is ethnographic and musical rather than a narrative myth;
+    motif status should be reviewed.
+- id: motif:2
+  label: arising from a flowing spring
+  taxonomy_refs: []
+  basis: The song text centers on a first-person statement of arising from a flowing
+    spring.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only a brief lyric translation is given, so broader narrative meaning
+    is not established in this passage.
+- id: motif:3
+  label: song group linking melodic descent with motion or animals
+  taxonomy_refs: []
+  basis: The analysis states that songs sharing a prominent interval of a fourth also
+    share subject matter concerning motion or animals.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a musicological pattern in the cited corpus, not necessarily a
+    mythic motif in itself.
+comparison_claims:
+- id: claim:1
+  claim: No. 22 is compared within the passage to a 36-song Chippewa corpus group
+    that shares a prominent fourth-based melodic characteristic and commonly concerns
+    motion or animals.
+  claim_level: same_function
+  target: Chippewa songs with prominent fourths concerning motion or animals in Bulletin
+    45 and the present volume
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is intra-corpus and musicological; it does not establish
+    historical contact, common inheritance, or a broader cross-cultural motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7862-7868
+  quote_or_summary: The analysis describes a short, vigorous rhythmic unit, an inspiring
+    melody, and a character suited to increase a warrior’s confidence.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7870-7878
+  quote_or_summary: The principal Chippewa war medicine, bijikiwuck or “cattle herb
+    medicine,” is said to make men strong and heal; a warrior chews it and sprays
+    it from his lips on his body and equipment, and the following song is sung while
+    preparing it.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: quote
+  locator: lines 7880-7908
+  quote_or_summary: Song No. 22 is labeled “Song of the Bijikiwuck,” sung by Odjib’we;
+    the translated words include “myself” and “from the flowing spring,” summarized
+    in the list as “I arise from the flowing spring.”
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 7909-7944
+  quote_or_summary: The analysis identifies this as the first of many songs based
+    on, or prominently featuring, the interval of a fourth; for No. 22, the analysis
+    describes framework fifths and principal fourths, especially descending fourths.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:5
+  type: summary
+  locator: lines 7945-7954
+  quote_or_summary: 'The analysis says 36 of 340 songs, or 11 percent, share a melodic
+    characteristic and also a common subject: motion in 20 cases or animals in 15
+    cases, with some overlap and one love-song exception.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:6
+  type: summary
+  locator: lines 7955-8009
+  quote_or_summary: The motion-song list includes titles or words about raising a
+    pipe, a bubbling spring coming from hard ground, going around the Mide lodge,
+    a shell going toward people, flame going up to the body, going and walking to
+    spirit land, going to a bear’s lodge, women enjoying a dance, arising from the
+    flowing spring, bringing back a brother, going, weeping, singing, footsteps, and
+    departing.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:7
+  type: summary
+  locator: lines 8010-8103
+  quote_or_summary: The animal-song list includes titles or words about a bird, owl,
+    round-hoofed, curved horns, a bird-skin charm, ravens, riding a horse, walking
+    in the sky with a bird, deer songs, a manido in the form of a bear, and going
+    with one bird.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; brief summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly ethnographic and musicological, with brief song texts
+    and titles. Literal extraction is strong for the medicine practice, song attribution,
+    and stated corpus pattern; mythic-symbolic motif assignment is more cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy symbol refs were applied only where the literal form directly matched available refs: water for flowing spring and fire for flame.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l7862-l8103
+  passage_sha256=3cd9a09112f07d7ef5df0c1898d6b2cff3bf78d4f751d1d02baeeab517ee5aa7
+

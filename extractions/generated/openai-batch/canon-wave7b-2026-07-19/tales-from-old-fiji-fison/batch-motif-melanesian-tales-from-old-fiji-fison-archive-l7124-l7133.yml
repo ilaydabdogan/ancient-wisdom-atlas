@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l7124-l7133
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: MATANDUA  133 / ABOUT   NAPOLEON  137 / THE    BEGINNING   OF    DEATH /
+    I40  THE   BEGINNING    OF    DEATH; lines 7124-7133
+  start: '7124'
+  end: '7133'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Vai-ola, the Water of Life, near the house of Hiku-leo.
+    The gods drink it every day, and it is said that on earth it would heal all sickness.
+    Near the fountain stands Akau-lea, the Tree of Speech, beneath whose shade the
+    gods drink kava while the tree serves as master of ceremonies and announces the
+    recipient of the bowl.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vai-ola, the Water of Life, is located close to the house of Hiku-leo.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gods drink the Water of Life every day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says the Water of Life would heal all manner of sickness if it
+    were on earth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Akau-lea, the Tree of Speech, stands near the brink of the fountain.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The gods sit under the tree's shadow to drink kava.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The tree acts as master of ceremonies and calls out the name of the person
+    to whom the bowl is to be carried.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Hiku-leo
+  description: Named figure whose house is close to Vai-ola, the Water of Life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the gods
+  description: Divine group that drinks the Water of Life every day and sits under
+    the Tree of Speech to drink kava.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Akau-lea / Tree of Speech
+  description: A wondrous tree near the fountain that acts as master of ceremonies
+    and calls out the bowl recipient's name.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: location-associated named figure
+  assigned_to:
+  - fig:1
+  basis: The Water of Life is described as being close to Hiku-leo's house.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine drinkers and ceremonial participants
+  assigned_to:
+  - fig:2
+  basis: The gods drink the Water of Life daily and drink kava under the Tree of Speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: ceremonial announcer
+  assigned_to:
+  - fig:3
+  basis: The tree acts as master of ceremonies and calls out the name of the bowl's
+    recipient.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Water of Life
+  literal_form: Vai-ola, a water or fountain near Hiku-leo's house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Tree of Speech
+  literal_form: Akau-lea, a wondrous tree by the fountain
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: kava bowl
+  literal_form: Kava and the bowl carried to the named recipient
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Water of Life near Hiku-leo's house
+  summary: Vai-ola is described near Hiku-leo's house; the gods drink it daily, and
+    the speaker says it would heal sickness if present on earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tree-led kava ceremony
+  summary: Akau-lea stands near the fountain while the gods drink kava under its shade;
+    the tree presides by announcing the bowl's recipient.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Divine Water of Life with healing power
+  taxonomy_refs: []
+  basis: The Water of Life is drunk daily by the gods and is said to heal all manner
+    of sickness if it were on earth.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not narrate humans obtaining the water or show an actual
+    healing event.
+- id: motif:2
+  label: Speaking tree as ritual officiant
+  taxonomy_refs: []
+  basis: Akau-lea, the Tree of Speech, acts as master of ceremonies and announces
+    the recipient of the ceremonial bowl.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The broader narrative context of the tree is not included in this passage.
+- id: motif:3
+  label: Divine kava ceremony under a sacred tree
+  taxonomy_refs: []
+  basis: The gods sit under Akau-lea's shadow to drink kava while the tree directs
+    the carrying of the bowl.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes a ritualized scene, but it gives limited information
+    about the ceremony's purpose or sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7124-7129
+  quote_or_summary: Close to Hiku-leo's house is Vai-ola, the Water of Life; the gods
+    drink it every day, and it is said that on earth it would heal all sickness.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 7129-7133
+  quote_or_summary: Near the fountain stands Akau-lea, the Tree of Speech; under its
+    shadow the gods drink kava, and the tree acts as master of ceremonies by calling
+    the name of the bowl's recipient.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal entities and actions are explicit in the passage. Motif labels are
+    descriptive candidates only. No comparison claims are made because the passage
+    itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Taxonomy symbol refs were applied only for explicit water and tree forms; no motif-family taxonomy refs were assigned due to limited passage context.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l7124-l7133
+  passage_sha256=908e31cf828cf181223ef3bd00b34f172762925335bf1c6432733b10ecaf7c27
+

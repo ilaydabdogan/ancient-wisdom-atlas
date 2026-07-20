@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l12724-l12786
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THK THREE QUESTIONS. 407 / RIDDLKS. 409 / RIDDLES. 411 / EIDDLES. 413; lines
+    12724-12786
+  start: '12724'
+  end: '12786'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: I can hold it myself in my fist, / And twelve men with a rope cannot hold
+    it. / An egg.
+  summary: The passage is a short list of riddles, giving English riddling descriptions,
+    answers, and Scottish Gaelic equivalents or notes. The answers include river banks,
+    a clew, an egg, a weaving loom, a reaping hook, water in a field, and a snake.
+  language: English and Scottish Gaelic
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a riddle section and pairs riddling descriptions
+    with answers and Gaelic forms.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One riddle describes two equal-length strings; the supplied answer is a river's
+    banks.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One riddle describes something rounder than a ball and longer than a ship;
+    the supplied answer is a clew.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One riddle says the speaker can hold the object in a fist; the supplied answer
+    is an egg.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The egg riddle contrasts the speaker's fist with twelve men and a rope who
+    cannot hold it.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One riddle describes a great crooked stick in a wood with a repeated clanging
+    sound; the supplied answer is a weaving loom.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: One riddle says an object travels on little meads, midden steads, and lengthened
+    riggs, then comes home late at night; the supplied answer is the reaping hook.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: One riddle concerns clean sour or field water without brine or salt; the supplied
+    answer is water in a field, with a note that the pun cannot be rendered.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: One riddle describes a rod in the wood of MacAlister that is neither yew,
+    ivory, nor any tree of wood; the supplied answer is a snake.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: twelve men with a rope
+  description: A group mentioned in the egg riddle as unable to hold the object with
+    a rope.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: snake
+  description: The answer to the riddle describing a non-wooden rod in MacAlister's
+    wood.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: unable holders
+  assigned_to:
+  - fig:1
+  basis: The riddle states that twelve men with a rope cannot hold the object.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: serpent riddle answer
+  assigned_to:
+  - fig:2
+  basis: The passage gives 'A snake' as the answer to the rod-in-the-wood riddle.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: river banks
+  literal_form: two equal-length strings identified as a river's banks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: clew
+  literal_form: something rounder than a ball and longer than a ship
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: egg
+  literal_form: egg held in a fist and contrasted with twelve men and a rope
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: weaving loom
+  literal_form: great crooked stick in a wood associated with a clanging sound
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: reaping hook
+  literal_form: implement that travels over meads, midden steads, and riggs and returns
+    home at night
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: water in a field
+  literal_form: clean sour or field water without brine or salt
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: snake
+  literal_form: snake identified through the image of a non-wooden rod
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: river-bank riddle
+  summary: A riddle likens a river's two banks to two strings as long as each other.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: clew riddle
+  summary: A riddle gives the answer 'clew' to an object described as rounder than
+    a ball and longer than a ship.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: egg riddle
+  summary: A speaker claims to hold an egg in a fist while twelve men with a rope
+    cannot hold it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: weaving-loom riddle
+  summary: A weaving loom is described through the image of a crooked stick in a wood
+    and a clanging sound.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: reaping-hook riddle
+  summary: A reaping hook is described as traveling across fields and returning home
+    late at night.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: water-field pun riddle
+  summary: A water riddle is answered as water in a field, with an editorial note
+    that the pun cannot be rendered.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: snake-as-rod riddle
+  summary: A snake is identified through a riddle image of a rod in MacAlister's wood
+    that is not made of yew, ivory, or any tree.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: riddle-answer wisdom sequence
+  taxonomy_refs:
+  - wisdom
+  basis: The passage consists of riddles with supplied answers, requiring interpretive
+    recognition of concealed meanings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is a riddle list rather than a narrative episode or explicit
+    wisdom contest.
+- id: motif:2
+  label: 'paradoxical containment: one hand versus twelve men'
+  taxonomy_refs: []
+  basis: The egg riddle states that one speaker can hold it in a fist while twelve
+    men with a rope cannot hold it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a riddling paradox; the passage does not provide a narrative explanation.
+- id: motif:3
+  label: serpent as non-wooden rod
+  taxonomy_refs:
+  - serpent
+  basis: The snake is presented as the answer to a riddle describing a rod in a wood
+    that is neither yew, ivory, nor any tree.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The serpent appears only as a riddle answer, with no further mythic action.
+- id: motif:4
+  label: working implement personified as traveler
+  taxonomy_refs: []
+  basis: The reaping hook is described as traveling over several field locations and
+    coming home late at night.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The motion is part of a riddle description and may reflect ordinary agricultural
+    use rather than an independent mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12724-12733
+  quote_or_summary: Section headed as riddles; 'Two strings as long as each other.
+    / A river's banks,' followed by Gaelic forms.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: lines 12735-12739
+  quote_or_summary: "'Rounder than a ball, longer than a ship. / A clew,' followed
+    by Gaelic form."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: lines 12741-12747
+  quote_or_summary: "'I can hold it myself in my fist, / And twelve men with a rope
+    cannot hold it. / An egg. / Ubh.'"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: lines 12749-12758
+  quote_or_summary: A riddle describes 'A great crooked stick in yonder wood' with
+    'clang bo clang'; the answer is 'A weaving loom,' followed by Gaelic forms.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: quote
+  locator: lines 12760-12767
+  quote_or_summary: The object 'travels' on meads, midden steads, and lengthened riggs,
+    comes home late at night; the answer is 'The reaping hook' / 'An corran buana.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: quote
+  locator: lines 12769-12775
+  quote_or_summary: 'Riddle of ''Clean sour ... water without brine or salt''; answer:
+    ''Water in a field,'' with note that the pun cannot be rendered.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: quote
+  locator: lines 12777-12786
+  quote_or_summary: A riddle describes 'A rod in the wood of MacAlister' that is neither
+    yew, ivory, nor a tree of wood; the answer is 'A snake. / Nathair.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The riddle answers and images are explicit. Motif assignment is limited because
+    the passage is a catalogue of riddles, not a mythic narrative. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Gaelic text is retained only where directly relevant to the riddle-answer structure.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l12724-l12786
+  passage_sha256=e79518b260bc716c586fbf25a1b170580bda9fdce43a574440b8c81248e1fcb0
+

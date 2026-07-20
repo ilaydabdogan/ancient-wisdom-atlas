@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l20217-l20268
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: VIII,  46.  CIVIL    AND    CRIMINAL    LAW.  26 1 / VIII,  57-  CIVIL  AND  CRIMINAL  LAW;    DEBTS.  2-63
+    / LAWS    OF    MANU. / VIII,  58.; lines 20217-20268
+  start: '20217'
+  end: '20268'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives procedural rules for civil and debt litigation: non-production
+    after an order may lead to non-suit; silence or failure to plead is punishable
+    or causes loss of the case; false denial or false declaration is fined at double
+    the amount; debt denial is to be proven by at least three witnesses before a Brahmana
+    appointed by the king; and eligible witnesses are defined by household, lineage,
+    residence, varna, summons, and urgency conditions.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A judge is instructed to declare a party non-suited when that party has been
+    ordered to produce something and does not produce it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A plaintiff who does not speak may receive corporal punishment or a fine according
+    to law.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A defendant who does not plead within three fortnights loses the cause.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A defendant who falsely denies a sum and a plaintiff who falsely declares
+    a sum are each to be fined double that sum by the king.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A defendant brought into court by a creditor and questioned about a debt is
+    to be convicted of false denial by at least three witnesses.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The witnesses in the debt-denial procedure depose in the presence of a Brahmana
+    appointed by the king.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker announces that rules will be declared for who may serve as witnesses
+    in creditor suits and how they must give true evidence.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Householders, men with male issue, and indigenous inhabitants who are Kshatriyas,
+    Vaisyas, or Sudras are described as competent witnesses when called by a suitor.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Persons in general are not treated as competent witnesses merely by any condition
+    whatever, except in urgent cases.
+  category: attribute
+  evidence_refs:
+  - ev:6
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: judge
+  description: Judicial officer instructed to declare non-suit on stated grounds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: plaintiff
+  description: Litigant who may be punished if silent and may be fined if falsely
+    declaring a sum.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: defendant
+  description: Litigant who may lose the cause by not pleading or be convicted after
+    denying a debt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: king
+  description: Authority who fines offenders against justice and appoints the Brahmana
+    before whom witnesses depose.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: creditor
+  description: Person who brings a defendant into court in a debt case.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Brahmana appointed by the king
+  description: Brahmana in whose presence witnesses depose in the debt-denial procedure.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: witnesses
+  description: At least three witnesses may convict a defendant of false denial; eligible
+    classes of witnesses are later specified.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:8
+  name_or_label: suitor
+  description: Person who calls competent witnesses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: householders, men with male issue, and indigenous inhabitants
+  description: Categories of people described as competent witnesses when called by
+    a suitor, including Kshatriyas, Vaisyas, or Sudras.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: judicial or ruling authority
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The judge declares non-suit, and the king imposes fines for offenses against
+    justice.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: plaintiff
+  assigned_to:
+  - fig:2
+  basis: The passage names the plaintiff as a litigant subject to punishment for silence
+    and fine for false declaration.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: defendant
+  assigned_to:
+  - fig:3
+  basis: The passage names the defendant as a litigant who may fail to plead, deny
+    a debt, or falsely deny a sum.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: claimant or summoning party
+  assigned_to:
+  - fig:5
+  - fig:8
+  basis: The creditor brings the defendant into court, and a suitor calls witnesses.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: witness
+  assigned_to:
+  - fig:7
+  - fig:9
+  basis: The passage requires at least three witnesses and defines competent witness
+    categories.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: royally appointed Brahmana presence
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Witnesses depose in the presence of the Brahmana appointed by the king.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: double fine
+  literal_form: double of the falsely denied or falsely declared sum
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: three-fortnight pleading limit
+  literal_form: three fortnights as the time within which the defendant must plead
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: three witnesses
+  literal_form: at least three witnesses required to convict a defendant of false
+    denial
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Brahmana presence
+  literal_form: deposition in the presence of the Brahmana appointed by the king
+  associated_figures:
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Non-suit for failure to produce
+  summary: A judge is directed to declare non-suit when an ordered production is not
+    made.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Silence or non-pleading in court
+  summary: A silent plaintiff may be punished or fined, while a defendant who does
+    not plead within three fortnights loses the case.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Penalty for false denial or declaration
+  summary: False statements by either defendant or plaintiff concerning a sum result
+    in a royal fine of double the sum.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Debt denial and witness proof
+  summary: A creditor brings a defendant into court; if the defendant denies the debt,
+    at least three witnesses depose before the king-appointed Brahmana to establish
+    falsehood.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Definition of competent witnesses
+  summary: The text introduces and then specifies categories of competent witnesses
+    for creditor suits, including householders, men with male issue, and indigenous
+    inhabitants of named varnas when summoned by a suitor.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Judicial truth established by witnesses
+  taxonomy_refs: []
+  basis: A denied debt is to be adjudicated through the testimony of at least three
+    witnesses, and the passage defines who may serve as competent witnesses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a legal-procedural pattern rather than a narrative myth motif;
+    no available taxonomy family is directly indicated.
+- id: motif:2
+  label: Sanction against silence and false pleading
+  taxonomy_refs: []
+  basis: The passage prescribes punishment or loss of cause for silence or non-pleading
+    and double fines for false denial or false declaration.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The pattern concerns courtroom procedure and legal discipline; it should
+    not be read as a mythic judgment scene without further context.
+- id: motif:3
+  label: Royal enforcement of justice
+  taxonomy_refs: []
+  basis: The king fines those offending against justice, and a Brahmana appointed
+    by the king is present for witness deposition.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Although the king appears as legal enforcer, the passage does not provide
+    a royal-legitimacy narrative or divine sanction.
+comparison_claims:
+- id: claim:1
+  claim: The note to verse 59 cites Yajnavalkya II, 59 as a parallel for the rule
+    on false denial or false declaration, but the cited parallel text is not included
+    here.
+  claim_level: same_function
+  target: Yajnavalkya II, 59
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage supplies only an editorial citation, not the wording or
+    detailed content of the parallel.
+- id: claim:2
+  claim: The note to verses 61-72 lists Apastamba, Gautama, Vasistha, Baudhayana,
+    Vishnu, and Yajnavalkya passages as related material for witness rules in Dharmashastra
+    literature.
+  claim_level: same_function
+  target: 'Dharmashastra witness-rule passages cited in the note: Ap. II, 29, 7; Gaut.
+    XIII, 1-4; Vas. XVI, 28-30; Baudh. I, 19, 13; Vi. VIII, 7-9; Yaj. II, 68-72'
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Only citations are present; no direct comparison of wording, narrative
+    function, or historical relationship can be established from this passage alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20217-20222; preceding fragment before VIII.58
+  quote_or_summary: A party ordered to produce something but not producing it is to
+    be declared non-suited by the judge on the same grounds.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public-domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: VIII.58; lines 20223-20228
+  quote_or_summary: If a plaintiff does not speak, he may be corporally punished or
+    fined; if a defendant does not plead within three fortnights, he loses the cause.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public-domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: VIII.59; lines 20229-20233
+  quote_or_summary: A defendant who falsely denies a sum and a plaintiff who falsely
+    declares a sum are each fined by the king in double the amount involved.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public-domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: VIII.60; lines 20234-20240
+  quote_or_summary: A defendant brought into court by the creditor and questioned
+    about a debt, if denying it, is to be convicted by at least three witnesses deposing
+    in the presence of the Brahmana appointed by the king.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public-domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: VIII.61; lines 20241-20245
+  quote_or_summary: The speaker says he will declare what kinds of men may be witnesses
+    in creditors' suits and how witnesses must give true evidence.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public-domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: VIII.62; lines 20246-20253
+  quote_or_summary: Householders, men with male issue, and indigenous inhabitants
+    who are Kshatriyas, Vaisyas, or Sudras are competent to give evidence when called
+    by a suitor, with restrictions and exceptions for urgent cases.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public-domain translation; summarized.
+- id: ev:7
+  type: citation
+  locator: notes to VIII.59 and VIII.61-72; lines 20256-20262
+  quote_or_summary: The notes cite Yajnavalkya II, 59 for verse 59 and cite Apastamba
+    II, 29, 7; Gautama XIII, 1-4; Vasistha XVI, 28-30; Baudhayana I, 19, 13; Vishnu
+    VIII, 7-9; and Yajnavalkya II, 68-72 for verses 61-72.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public-domain translation and editorial notes; summarized citation.
+- id: ev:8
+  type: summary
+  locator: note to VIII.62; lines 20263-20268
+  quote_or_summary: The note reports commentators' interpretation that 'not any person
+    whatever' refers to volunteers not summoned, and that urgent cases are mentioned
+    below in verse 69.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public-domain translation and editorial note; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The legal procedures, figures, and quantities are explicit. Motif labels
+    are treated as procedural patterns rather than mythological motifs. Comparison
+    claims rely only on editorial citations in the passage and need human verification
+    against the cited texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol ref was assigned because the passage is legal-procedural and does not explicitly invoke the supplied mythic symbol set or motif families.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l20217-l20268
+  passage_sha256=e457f112bff71aa07e0a027b307b78cad83d953904ef8fb4aaa87fda75109a7d
+

@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l16193-l16344
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: XXXVIII / XXXIX / THE PEKFECT SERMON 387 / COMMENTARY; lines 16193-16344
+  start: '16193'
+  end: '16344'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Mead's commentary discusses variant titles for the Asclepius/Perfect Sermon,
+    a scribal gloss identifying Asclepius with a Sun-god and illumination, the Greek
+    and Latin transmission of the treatise, the possible antiquity and attribution
+    of the Latin translation, and passages that frame Egypt as an image of heaven,
+    a shrine of the world, and a context for soul-merit weighing and image/animal
+    cult.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary reports variant titles in Latin manuscripts and editions, including
+    a dialogue of Thrice-greatest Hermes, a sermon addressed to Asclepius, and a sermon
+    of initiation.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary says the treatise begins with a gloss that identifies Asclepius
+    as the writer's Sun-god and interprets the sermon as having illumined the scribe
+    or student.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lactantius and Johannes Laurentius Lydus are reported as naming the work the
+    Perfect Sermon, and the commentator chooses this as the main title with Asclepius
+    as an alternative.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Greek original is said to be known through quotations or references by
+    Lactantius, Johannes Laurentius Lydus, and Stobaeus.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Latin translation is described as a very free rendering of the Greek,
+    with expansions, contractions, and possible loss of sense; the Greek itself is
+    said probably to have had several recensions.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The commentary states that Augustine's quotations prove the Latin translation
+    existed by about 400 CE, while traditional attribution to Appuleius is questioned
+    but not treated as impossible by the commentator.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The commentary notes that the Latin translator retains Greek technical terms
+    and discusses whether the original writer wanted readers to think he was Egyptian
+    rather than Greek.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: 'The passage cites or summarizes Egyptian-oriented material: Egypt as the
+    image of Heaven, Egypt as the shrine of the whole world, the weighing of the merit
+    of the soul, and image and animal cult.'
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Thrice-greatest Hermes
+  description: Named in titles and citations as the figure associated with the dialogue
+    or sermon addressed to Asclepius.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Asclepius
+  description: Named as the addressee and alternative title of the treatise; a gloss
+    identifies Asclepius as the writer's Sun-god.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: the soul
+  description: Mentioned in connection with the weighing of its merit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Hermetic speaker or authorial authority
+  assigned_to:
+  - fig:1
+  basis: The titles and citations name Hermes in connection with the book, dialogue,
+    or sermon.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: addressee and namesake of treatise
+  assigned_to:
+  - fig:2
+  basis: The sermon is described as addressed to Asclepius, and the treatise is also
+    titled Asclepius.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: solar or illuminating referent in gloss
+  assigned_to:
+  - fig:2
+  basis: The gloss says Asclepius is the writer's Sun-god and is interpreted as a
+    sermon that illumined the reader.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: subject of merit-weighing
+  assigned_to:
+  - fig:3
+  basis: The commentary mentions the weighing of the merit of the soul.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Sun-god illumination
+  literal_form: Asclepius identified as a Sun-god; the sermon described as having
+    illumined the reader.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Egypt as image of Heaven and world-shrine
+  literal_form: Egypt is described as the image of Heaven and as the shrine of the
+    whole world.
+  associated_figures: []
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: weighing of soul's merit
+  literal_form: The merit of the soul is weighed.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: image and animal cult
+  literal_form: Image-cult and animal-cult are mentioned as Egyptian features.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Title variants and illuminating gloss
+  summary: The commentary surveys titles for the treatise and reports a gloss identifying
+    Asclepius as a Sun-god whose sermon illumined a reader.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Transmission of Greek original and Latin translation
+  summary: The commentary compares the Greek citations and the Latin translation,
+    describing the Latin as free and the Greek tradition as possibly multi-recensional.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Egyptian framing of the treatise
+  summary: The commentary discusses whether the writer presents an Egyptian role and
+    cites material about Egypt as heavenly image and world shrine, the weighing of
+    the soul's merit, and Egyptian image and animal cult.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sermon of initiation
+  taxonomy_refs:
+  - initiation
+  basis: The treatise is explicitly titled by Menard as a Sermon of Initiation, and
+    Lactantius's title is glossed as Perfect Sermon or Sermon of Initiation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage discusses titles and commentary, not a narrated initiation
+    rite.
+- id: motif:2
+  label: Hermetic wisdom dialogue
+  taxonomy_refs:
+  - wisdom
+  basis: The work is framed as a sermon or dialogue of Thrice-greatest Hermes addressed
+    to Asclepius, and the gloss describes the sermon as illuminating the reader.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The extracted passage does not give the sermon's doctrinal contents; the
+    motif is inferred from framing and title language only.
+- id: motif:3
+  label: Egypt as heavenly image and world shrine
+  taxonomy_refs:
+  - world_center
+  - duality
+  basis: The passage cites the statement that Egypt is the image of Heaven and that
+    the land is the shrine of the whole world.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The cited material is embedded in commentary and points to another chapter;
+    this excerpt does not unfold the full cosmology.
+- id: motif:4
+  label: weighing of the soul's merit
+  taxonomy_refs:
+  - divine_judgment
+  basis: The commentary mentions the weighing of the merit of the soul and characterizes
+    it as strongly Egyptian.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: No judge, scales, result, or afterlife itinerary is described in this
+    passage.
+- id: motif:5
+  label: Egyptian image and animal cult
+  taxonomy_refs: []
+  basis: The passage links image-cult and animal-cult with the Egyptian character
+    of the treatise.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The motif is only named in passing and not described as a narrative action
+    or ritual sequence.
+comparison_claims:
+- id: claim:1
+  claim: The commentary notes a similarity between this treatise's language about
+    multifarious reasoning and another Hermetic passage's criticism of Greek philosophizing
+    as a noise of words.
+  claim_level: linguistic_similarity
+  target: G. H. xvi.2 within the Hermetic corpus
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on the commentator's brief cross-reference,
+    not on a full presentation of both passages.
+- id: claim:2
+  claim: The commentary explicitly characterizes the weighing of the soul's merit
+    as strongly Egyptian, allowing a cautious comparison to Egyptian soul-judgment
+    patterns.
+  claim_level: same_motif
+  target: Egyptian weighing-of-soul or soul-judgment pattern
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name the Egyptian source, judge, scales, or ritual
+    setting; it only reports the commentator's characterization.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16193-16211
+  quote_or_summary: 'The commentary states that titles vary: Hildebrand prefers ''Asclepius,
+    or a Dialogue of Thrice-greatest Hermes''; the Bipontine edition has a sermon
+    addressed to Asclepius; Menard prefers ''A Sermon of Initiation, or Asclepius.'''
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 16212-16231
+  quote_or_summary: A gloss reads, 'This Asclepius is my Sun-god,' interpreted as
+    meaning that the sermon Asclepius illumined the scribe or student; the commentary
+    also notes the treatise is inscribed with Asclepius' name.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short quotation and summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 16232-16249
+  quote_or_summary: Lactantius is reported as referring to Hermes in the book entitled
+    the Perfect Sermon or Sermon of Initiation, and Lydus is said to quote and name
+    the Perfect Sermon; the commentator adopts this main title with Asclepius as an
+    alternative.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 16252-16275
+  quote_or_summary: The commentary lists Greek quotations or references by Lactantius,
+    Lydus, and Stobaeus, then states that the Latin is an exceedingly free rendering
+    of the Greek and that several Greek recensions probably existed.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 16276-16312
+  quote_or_summary: Augustine's quotations are said to prove the Latin translation
+    existed by about 400 CE; tradition attributes it to Appuleius, but modern criticism
+    questions this while the commentator notes old African Latin and no absolute stylistic
+    impossibility.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 16313-16333
+  quote_or_summary: The commentary says the Latin translator retains Greek technical
+    terms and weighs whether the original writer intended an Egyptian role; it also
+    compares 'multifarious reasoning' to G. H. xvi.2's phrase about Greek philosophizing
+    as noise of words.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 16334-16344
+  quote_or_summary: 'The commentary cites: ''Egypt is the image of the Heaven'' and
+    ''This land of ours is shrine of the whole world''; it also says the weighing
+    of the merit of the soul is strongly Egyptian, along with image and animal cult.'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short quotation and summary from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is commentary about titles, textual transmission, and cultural
+    framing rather than a continuous mythic narrative. Motif candidates are therefore
+    mostly title-level or commentary-level and should be reviewed against the surrounding
+    chapters.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy references are limited to supplied motif families; no direct use of supplied concrete symbol refs was supported by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l16193-l16344
+  passage_sha256=2dd6a9ff63dfdf806bcfd515f35e22d969037e5c39d278d761b67c15dcf3f345
+

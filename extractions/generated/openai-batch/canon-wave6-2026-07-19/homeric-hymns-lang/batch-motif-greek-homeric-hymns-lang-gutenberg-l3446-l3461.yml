@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.greek-homeric-hymns-lang-gutenberg-l3446-l3461
+source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+passage_locator:
+  label: X.  TO ATHENE / XI.  TO HERA / XII.  TO DEMETER / XIII.  TO THE MOTHER OF
+    THE GODS; lines 3446-3461
+  start: '3446'
+  end: '3461'
+  translation: The Homeric Hymns
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage contains two brief hymnic invocations: one to Demeter and
+    Persephone, asking Demeter to save the city and inspire the song; and one to the
+    Mother of the Gods, invoked through the Muse and associated with musical instruments,
+    wild animal cries, hills, and woodland haunts.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker begins to sing of fair-tressed Demeter, called a holy Goddess.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker includes the Maiden, identified as lovely Persephone, in the hymn
+    to Demeter.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker greets Demeter and asks her to save the city and inspire the song.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker asks a clear-voiced Muse, daughter of great Zeus, to sing for
+    him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Mother of the Gods is described as the mother of all Gods and all mortals.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Mother of the Gods is said to be glad in the sound of rattles, drums,
+    and flutes.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Mother of the Gods is said to be glad in the cry of wolves and fiery-eyed
+    lions.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Mother of the Gods is associated with echoing hills and woodland haunts.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The hymn closes by hailing the Mother of the Gods and all Goddesses in the
+    song.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Demeter
+  description: Fair-tressed holy Goddess addressed in hymn XII.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Persephone
+  description: The Maiden, described as lovely, mentioned with Demeter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Muse
+  description: Clear-voiced Muse, daughter of great Zeus, asked to sing.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Zeus
+  description: Great Zeus, named as father of the Muse.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Mother of the Gods
+  description: Mother of all Gods and all mortals, glad in instruments, animal cries,
+    hills, and woodland haunts.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: All Goddesses
+  description: Collective group hailed at the end of the song.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hymned goddess
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Demeter and the Mother of the Gods are each the named addressee of a hymn
+    section.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: protector and inspirer invoked by the singer
+  assigned_to:
+  - fig:1
+  basis: Demeter is asked to save the city and inspire the song.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: named maiden companion in hymn
+  assigned_to:
+  - fig:2
+  basis: Persephone is called the Maiden and is sung together with Demeter.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: invoked singer
+  assigned_to:
+  - fig:3
+  basis: The speaker asks the Muse to sing for him.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: daughter of Zeus
+  assigned_to:
+  - fig:3
+  basis: The Muse is described as daughter of great Zeus.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine father named in epithet
+  assigned_to:
+  - fig:4
+  basis: Zeus is named as father of the Muse.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: universal mother
+  assigned_to:
+  - fig:5
+  basis: The Mother of the Gods is described as mother of all Gods and all mortals.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: collective divine recipients of hail
+  assigned_to:
+  - fig:6
+  basis: The closing line hails the Mother of the Gods and Goddesses all.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: city to be saved
+  literal_form: city
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: inspired song
+  literal_form: song
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rattles and drums
+  literal_form: rattles and drums
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: flutes
+  literal_form: flutes
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wolves and fiery-eyed lions
+  literal_form: wolves and fiery-eyed lions
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: echoing hills
+  literal_form: echoing hills
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: woodland haunts
+  literal_form: woodland haunts
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Invocation to Demeter and Persephone
+  summary: The speaker begins a hymn to Demeter and Persephone, greets Demeter, and
+    asks her to save the city and inspire the song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Invocation to the Mother of the Gods
+  summary: The speaker asks the Muse to sing of the Mother of the Gods, who is described
+    as mother of gods and mortals and as delighting in instruments, wild animals,
+    hills, and woodland places.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mother goddess as universal mother
+  taxonomy_refs:
+  - mother_goddess
+  basis: The Mother of the Gods is explicitly described as mother of all Gods and
+    all mortals.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a brief hymnic epithet rather than an extended mythic
+    narrative.
+- id: motif:2
+  label: divine parent-child relationship
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The Muse is identified as daughter of great Zeus.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The parent-child relation appears only as an epithet and is not developed
+    into a scene.
+- id: motif:3
+  label: hymnic invocation for protection and poetic inspiration
+  taxonomy_refs: []
+  basis: Demeter is hailed and asked to save the city and inspire the song; the Muse
+    is also asked to sing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a hymnic pattern rather than one of the supplied motif-family
+    taxonomy entries.
+- id: motif:4
+  label: goddess associated with ecstatic sound and wild landscape
+  taxonomy_refs:
+  - mother_goddess
+  basis: The Mother of the Gods is associated with rattles, drums, flutes, wild animal
+    cries, echoing hills, and woodland haunts.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes attributes and associations, not a narrative action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3446-3449
+  quote_or_summary: "“Of fair-tressed Demeter the holy Goddess I begin to sing; of
+    her and the Maiden, the lovely Persephone.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 3449-3450
+  quote_or_summary: "“Hail Goddess, and save this city and inspire my song.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 3454-3456
+  quote_or_summary: "“Sing for me, clear-voiced Muse, daughter of great Zeus, the
+    mother of all Gods and all mortals”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 3456-3460
+  quote_or_summary: The Mother of the Gods is glad in the sounds of rattles, drums,
+    flutes, the cries of wolves and fiery-eyed lions, echoing hills, and woodland
+    haunts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source text summarized for evidence.
+- id: ev:5
+  type: quote
+  locator: 3460-3461
+  quote_or_summary: "“even so hail to thee and to Goddesses all in my song.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied lines. Motif candidates are limited
+    because the passage is hymnic and descriptive rather than narrative. No comparison
+    claims are made because the passage itself does not support a comparison beyond
+    the supplied taxonomy labels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used; no external mythological context was added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-homeric-hymns-lang-gutenberg__l3446-l3461
+  passage_sha256=a8a06bd80a4b7c5cb705a41f77f9ece6fbe6ac1062407e36296e33d7c8fa4a04
+

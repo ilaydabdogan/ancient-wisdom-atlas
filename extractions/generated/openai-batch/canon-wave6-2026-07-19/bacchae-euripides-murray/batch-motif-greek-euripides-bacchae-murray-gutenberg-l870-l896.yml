@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l870-l896
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 870-896
+  start: '870'
+  end: '896'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"Thence am I; Lydia was my fatherland."'
+  summary: In a dialogue, Dionysus speaks of Tmolus and Lydia as his place of origin.
+    Pentheus asks where the revelations spread by Dionysus' band in Hellas come from.
+    Dionysus says their intent and use were opened to him by Dionysus, the Child of
+    Zeus. Pentheus responds skeptically about Zeus begetting young gods.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus says there is neither glory nor disgrace in the matter being discussed.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus asks whether Pentheus has heard of Tmolus, described as a bright
+    hill of flowers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pentheus identifies Tmolus as a ridge winding by the towers of Sardis.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dionysus says he is from Tmolus and that Lydia was his fatherland.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Pentheus asks whence the revelations spread in Hellas by Dionysus' band come.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Dionysus says the intent and use of the revelations were opened to him by
+    Dionysus, the Child of Zeus.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Pentheus asks whether there is a Zeus there who can still beget young gods.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Named speaker who mentions Tmolus and Lydia, answers Pentheus' questions,
+    and refers to Dionysus as the Child of Zeus who opened revelations to him.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Pentheus
+  description: Named speaker who answers about Tmolus, questions the origin of revelations,
+    and asks skeptically about Zeus begetting young gods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Zeus
+  description: Referenced as associated with Dionysus as Child of Zeus and as a god
+    who may beget young gods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: Respondent naming origin and revelation source
+  assigned_to:
+  - fig:1
+  basis: Dionysus answers that he is from Tmolus/Lydia and that Dionysus opened the
+    revelations' intent and use to him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: Questioner of origin and divine generation
+  assigned_to:
+  - fig:2
+  basis: Pentheus asks where the revelations come from and questions Zeus' capacity
+    to beget young gods.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:3
+  label: Child of Zeus
+  assigned_to:
+  - fig:1
+  basis: The passage names Dionysus as the Child of Zeus.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: Divine parent or begetter
+  assigned_to:
+  - fig:3
+  basis: Zeus is referenced as the parent of Dionysus and as one who might beget young
+    gods.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: Tmolus hill or ridge
+  literal_form: Tmolus, the bright hill of flowers; the ridge that winds by Sardis'
+    towers
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Lydia fatherland
+  literal_form: Lydia was my fatherland
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Revelations
+  literal_form: revelations whose intent and use are opened by Dionysus and spread
+    in Hellas by his band
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Questioning about origin and revelations
+  summary: Pentheus and Dionysus discuss Tmolus, Lydia, the source of revelations
+    spread in Hellas, and Dionysus' relation to Zeus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine parent and child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Dionysus is called the Child of Zeus, and Pentheus asks whether Zeus can
+    still beget young gods.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage states the relationship but does not narrate a birth episode.
+- id: motif:2
+  label: God-opened revelations
+  taxonomy_refs:
+  - wisdom
+  basis: Pentheus asks about revelations, and Dionysus says their intent and use were
+    opened to him by Dionysus.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage mentions revelations but gives no content for them and does
+    not fully describe an initiation or wisdom transmission scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 870-871
+  quote_or_summary: '"No glory is therein, nor yet disgrace."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: 871-872
+  quote_or_summary: '"Thou hast heard of Tmolus, the bright hill of flowers?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: PENTHEUS response within 870-896
+  quote_or_summary: '"Surely; the ridge that winds by Sardis'' towers"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: DIONYSUS response within 870-896
+  quote_or_summary: '"Thence am I; Lydia was my fatherland."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: PENTHEUS question within 870-896
+  quote_or_summary: '"And whence these revelations, that thy band / Spreadeth in Hellas?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: DIONYSUS response within 870-896
+  quote_or_summary: '"Their intent and use / Dionysus oped to me, the Child of Zeus."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: PENTHEUS question within 870-896
+  quote_or_summary: '"Is there a Zeus there, that can still beget / Young Gods?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to a short dialogue passage. The named speaker Dionysus
+    also refers to Dionysus in the third person; this has been recorded literally
+    without resolving dramatic disguise or identity beyond the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific comparison beyond candidate motif classification.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l870-l896
+  passage_sha256=b466553d7cef2de58b0d248e71f8efdc355c0f4a8ca99002397ae7e75839d59a
+

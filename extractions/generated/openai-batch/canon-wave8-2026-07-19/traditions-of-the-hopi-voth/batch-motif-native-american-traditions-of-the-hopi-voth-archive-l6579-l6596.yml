@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.native-american-traditions-of-the-hopi-voth-archive-l6579-l6596
+source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+passage_locator:
+  label: CONTENTS. / THE TRADITIONS OF THE HOP1. / STARS.' / HIS WIFE. 1; lines 6579-6596
+  start: '6579'
+  end: '6596'
+  translation: The Traditions of the Hopi
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: the man in whose house the most corn was found should own Piwftamni's wife
+  summary: 'After goods brought by Piwftamni make a household wealthy, other men demand
+    another test: the village men will inspect houses, and the man with the most corn
+    will own Piwftamni''s wife. When they inspect Piwftamni''s house, it is filled
+    with corn, watermelons, and squashes, so no one dares take his wife. The woman
+    is afterward described as rich and no longer called Watermelon-Rind Woman.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An old man takes things that Piwftamni had brought into the kiva to his house
+    and gives them to his wife.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After receiving the things, the household is described as wealthy, and no
+    one dares take the wife away.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Other men demand another test involving inspection of houses and the amount
+    of corn found in each.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The proposed rule states that the man in whose house the most corn is found
+    should own Piwftamni's wife.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Men from the kiva, including Piwftamni and his old friend, go through the
+    village examining piles of corn in houses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Piwftamni's house is found filled with corn, watermelons, and squashes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Because Piwftamni is ahead in the test, no one ever dares take his wife away
+    from him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The woman is later described as rich and as no longer called Watermelon-Rind
+    Woman.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Piwftamni
+  description: A man whose house is found filled with corn, watermelons, and squashes
+    during the test, and whose wife others seek to claim.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Piwftamni's wife / rich woman formerly called Watermelon-Rind Woman
+  description: The woman whom other men propose to assign to the man with the most
+    corn; afterward described as rich and no longer called Watermelon-Rind Woman.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: old man / old friend
+  description: An old man or old friend associated with Piwftamni who takes the brought
+    things from the kiva to his house and participates in the house-to-house inspection.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: other men from the kiva
+  description: Men who demand another test and inspect houses in the village.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: successful contestant or husband retaining wife
+  assigned_to:
+  - fig:1
+  basis: Piwftamni's house contains the greatest abundance, and no one dares take
+    his wife away afterward.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: contested wife
+  assigned_to:
+  - fig:2
+  basis: The men propose that the person with the most corn should own Piwftamni's
+    wife.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: helper or associated elder
+  assigned_to:
+  - fig:3
+  basis: The old man handles the goods brought by Piwftamni and is later identified
+    among those present as Piwftamni's old friend.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: rival claimants and testers
+  assigned_to:
+  - fig:4
+  basis: The other men demand the corn test and participate in the inspection.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: corn abundance
+  literal_form: piles of corn; Piwftamni's house filled with corn
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: watermelons and squashes
+  literal_form: watermelons and squashes filling Piwftamni's house along with corn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: kiva
+  literal_form: kiva from which men and goods are associated
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: house as test site
+  literal_form: village houses inspected for stores of corn
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Goods transferred from kiva to house
+  summary: The old man takes items brought by Piwftamni from the kiva to his house
+    and gives them to his wife, after which the household is wealthy.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rivals impose a corn-wealth test
+  summary: Other men demand that houses be inspected and that the man with the most
+    corn should own Piwftamni's wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Inspection confirms Piwftamni's abundance
+  summary: The men inspect village houses; Piwftamni's house is filled with corn,
+    watermelons, and squashes, ending the challenge to his marriage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Woman's later status
+  summary: The woman is described afterward as rich, no longer called Watermelon-Rind
+    Woman, and possibly still living somewhere.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: marital claim decided by abundance test
+  taxonomy_refs: []
+  basis: Rival men propose that ownership of Piwftamni's wife be determined by which
+    house contains the most corn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives only the final test, not the full prior narrative context.
+- id: motif:2
+  label: threatened loss of wife averted by superior wealth
+  taxonomy_refs: []
+  basis: The abundance in Piwftamni's house prevents others from taking his wife away.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The wife is threatened with transfer but is not actually taken in this
+    passage.
+- id: motif:3
+  label: house filled with cultivated foods as sign of prosperity
+  taxonomy_refs: []
+  basis: Piwftamni's house is filled with corn, watermelons, and squashes, establishing
+    his success in the test.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No external symbolic taxonomy for these foods is supplied in the available
+    refs.
+- id: motif:4
+  label: renaming or abandonment of former name after change of status
+  taxonomy_refs: []
+  basis: The woman is described as rich and as no longer called Watermelon-Rind Woman.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the meaning of the former name or the reason
+    for the naming change.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6579-6582
+  quote_or_summary: The old man takes the things Piwftamni had brought into the kiva
+    to his house and gives them to his wife; afterward he is wealthy and no one dares
+    take her away.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 6582-6587
+  quote_or_summary: 'Other men demand another test: they will go house to house, and
+    "the man in whose house the most corn was found should own Piwftamni''s wife."'
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 6587-6593
+  quote_or_summary: The men from the kiva, including Piwftamni and his old friend,
+    inspect houses; Piwftamni's house is filled with corn, watermelons, and squashes,
+    so no one dares take his wife.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 6594-6596
+  quote_or_summary: The woman is described as rich, no longer called Watermelon-Rind
+    Woman, and possibly still living somewhere.
+  source_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by the passage beginning mid-episode and by ambiguous
+    reference in the opening sentences regarding the old man, his wife, and Piwftamni's
+    household. No comparison claims are made because the passage itself does not support
+    a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Adjacent heading for the next tale is present in the supplied passage but was not treated as part of the extracted episode.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-traditions-of-the-hopi-voth-archive__l6579-l6596
+  passage_sha256=401493a37bcd01b8254c691df530c3c64efb8481ab11506477191926306b64c8
+

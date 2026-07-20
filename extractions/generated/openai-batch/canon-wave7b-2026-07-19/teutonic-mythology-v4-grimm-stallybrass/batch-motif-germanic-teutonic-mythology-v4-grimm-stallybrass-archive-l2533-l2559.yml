@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l2533-l2559
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: GODS.  1323 / GODS.  1325 / CHAPTER   VII. / WODAN.; lines 2533-2559
+  start: '2533'
+  end: '2559'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens the chapter on Wodan by identifying him as the highest
+    god, with other gods serving him as children serve a father. It then lists many
+    historical and regional name forms related to Wodan/Odin. It closes with a Valais
+    popular belief in which Wuodan is seen descending the Rhône with a naked sword
+    in one hand and a golden globe in the other, crying for the river to rise; the
+    river rises and destroys part of a town.
+  language: English, with a quoted French anecdote
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Wodan is described as the highest god, and the other gods are described as
+    serving him as children serve their father.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists multiple name forms associated with Wodan or Odin across
+    several linguistic or regional contexts, including OHG, Langobardic, Anglo-Saxon,
+    North Frisian, Norse, Swedish, Lettish, Prussian, and Valais references.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: A Valais popular belief says Wuodan was seen descending the Rhône.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: In the Valais account, Wuodan carries a naked sword in one hand and a golden
+    globe in the other.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Wuodan cries out a command glossed as asking the river to rise.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: After Wuodan's cry, the river rises and destroys part of the town.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Wodan / Wuodan
+  description: The passage names Wodan as the highest god and later recounts a Valais
+    belief about Wuodan descending the Rhône.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: other gods
+  description: The other gods are described collectively as serving the highest god
+    as children serve their father.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: highest god
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Wodan the highest god.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: river-commanding figure in popular belief
+  assigned_to:
+  - fig:1
+  basis: The Valais account presents Wuodan descending the Rhône, crying for the river
+    to rise, after which the river rises and destroys part of the town.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:3
+  label: subordinate divine children
+  assigned_to:
+  - fig:2
+  basis: The passage says the other gods serve the highest god as children serve their
+    father.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Rhône river
+  literal_form: river
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: naked sword
+  literal_form: sword carried in one hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: golden globe
+  literal_form: golden globe carried in one hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Valais account of Wuodan at the Rhône
+  summary: In a popular belief reported from Valais, Wuodan descends the Rhône carrying
+    a naked sword and a golden globe, calls for the river to rise, and the rising
+    river destroys part of the town.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Father-like highest god over other gods
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Wodan is identified as the highest god, and the other gods are described
+    as serving him as children serve their father.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a relationship formula rather than a narrative episode.
+- id: motif:2
+  label: Divine or supernatural command causing a river to rise destructively
+  taxonomy_refs: []
+  basis: The Valais account has Wuodan cry for the river to rise, followed by the
+    river rising and destroying part of the town.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not state a motive, judgment, renewal, or broader flood
+    cycle; therefore no flood-and-renewal taxonomy reference is assigned.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats forms such as Wotan, Wodan, Woden, Othin/Odin, Oden, and
+    Wuodan as related names or comparable attestations across Germanic and neighboring
+    antiquarian materials.
+  claim_level: linguistic_similarity
+  target: Wodan/Odin name forms across cited Germanic and nearby traditions
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is philological and citation-heavy; it does not demonstrate
+    a shared narrative motif for all named forms in this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2537-2538
+  quote_or_summary: '"The name of the highest god, whom the other gods serve as children
+    their father"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2538-2549
+  quote_or_summary: The passage lists name forms including Wotan, Woatan, Wnotan,
+    Odan, Godan, Woden, Wedan, Othan, North Frisian Wede/Wedke, Norse Oðinn/Oddiner,
+    Aadon, possible Audun, and Oden.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2550-2554
+  quote_or_summary: The passage adds references involving Odin as a man's name in
+    Stockholm, Lettish Vidvut/Vodan, Prussian Widewud/Waidewud, and Valais Viuodan/Wuodan.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 2553-2555
+  quote_or_summary: The Valais account says that "Wuodan" was seen "descendre le Rhone."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 2555-2557
+  quote_or_summary: Wuodan is described with "l'epee nue dans une main" and "un globe
+    d'or dans l'autre."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 2557-2558
+  quote_or_summary: Wuodan cries "rigou haiouassou," glossed in the passage as "fleuve
+    souleve toi."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 2558-2559
+  quote_or_summary: '"le fleuve s''elevant avait detruit une partie de la ville"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on a short philological passage with one embedded popular-belief
+    anecdote. OCR irregularities affect some name forms and French wording, so human
+    review is needed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional taxonomy IDs were assigned beyond those directly supported by the provided taxonomy lists and passage evidence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l2533-l2559
+  passage_sha256=cda9e002f4d930f93e28d4c9b6b47cb9d793edf0258aa42c7c91e21723264705
+

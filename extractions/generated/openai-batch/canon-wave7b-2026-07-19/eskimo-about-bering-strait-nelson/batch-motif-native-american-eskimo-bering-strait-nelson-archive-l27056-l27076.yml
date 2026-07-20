@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l27056-l27076
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: ANIMAL    FETICHES / ANIMAL    FETICHES MYTHIC    ANIMALS / MYTHIC   ANIMALS
+    / THE    ESKIMO    ABOUT    BERING    STRAIT; lines 27056-27076
+  start: '27056'
+  end: '27076'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports a Raven tale in which Raven and First Man journey in
+    the sky land and a large beast haunts a grassy dry lake bed. The beast rests on
+    grass tips without bending them, but after being killed by the Sky people becomes
+    so heavy that logs must be placed beneath it. It is described with six legs, horns,
+    thick fur, small eyes, and dark color, and the narrator identifies it as referring
+    to the muskox. A following note names Tiri-mt-iik'-puk as the great eagle or Thunderbird,
+    an enormous eagle whose habits vary by locality.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Raven tale describes a large beast seen haunting a dry lake bed overgrown
+    with tall grass while Raven and First Man journeyed in the sky land.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The beast rested by lying on the tips of growing grass without bending the
+    stems.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Sky people killed the animal.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Logs had to be placed under the animal because, when dead, it became so heavy
+    that it would sink into the ground.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The animal is described as having a long head and six legs, with unusually
+    large hind legs, short forelegs, and a small middle pair hanging from the belly.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Fine thick fur, compared to shrew-mouse fur, is said to grow over the animal's
+    body and to be thickest around the feet.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A pair of thick, short horns on the back of the head extend forward and outward
+    and then curve back at the points.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The animal has small eyes and is very dark colored.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The narrator identifies the described animal as referring to the muskox, said
+    to have been extinct for ages in the region where the people live.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Tiri-mt-iik'-puk is named as the great eagle or Thunderbird and is described
+    as an enormous eagle whose habits vary by locality.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Raven
+  description: A figure in the Raven tale who was journeying in the sky land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: First Man
+  description: A figure journeying with Raven in the sky land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: large beast
+  description: A large, dark, six-legged, horned beast haunting a grassy dry lake
+    bed; the narrator identifies it as referring to the muskox.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Sky people
+  description: The people who killed the large animal and needed to place logs under
+    it because of its weight after death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Tiri-mt-iik'-puk, the great eagle / Thunderbird
+  description: An enormous eagle, also called Thunderbird, whose habits vary according
+    to locality.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: sky-land travelers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Raven and First Man are described as journeying in the sky land.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: haunting mythic beast
+  assigned_to:
+  - fig:3
+  basis: The beast is seen haunting a dry lake bed and is described with unusual bodily
+    traits.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: killers of the beast
+  assigned_to:
+  - fig:4
+  basis: The Sky people killed the animal and had to manage the weight of its body.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: named enormous eagle
+  assigned_to:
+  - fig:5
+  basis: Tiri-mt-iik'-puk is named as the great eagle or Thunderbird and described
+    as enormous.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: identified muskox referent
+  assigned_to:
+  - fig:3
+  basis: The narrator states that the described animal refers to the muskox.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dry lake bed with tall grass
+  literal_form: place
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: six-legged horned heavy beast
+  literal_form: being
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: grass tips supporting the beast
+  literal_form: vegetation image
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: logs placed under the dead animal
+  literal_form: object
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: great eagle or Thunderbird
+  literal_form: being
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Raven and First Man in the sky-land dry lake bed
+  summary: While Raven and First Man journey in the sky land, a large beast is described
+    as haunting a dry lake bed covered with tall grass.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Killing and heaviness of the beast
+  summary: The beast can rest on grass tips without bending them, but after the Sky
+    people kill it, logs must be placed under it because the body becomes extremely
+    heavy.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Description and identification of the beast
+  summary: The animal is described with a long head, six legs, thick fur, horns, small
+    eyes, and dark color; the narrator identifies it as referring to the muskox.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Catalog note on Tiri-mt-iik'-puk
+  summary: Tiri-mt-iik'-puk is presented as the great eagle or Thunderbird, an enormous
+    eagle whose habits vary by locality.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: mythic beast in the sky land
+  taxonomy_refs: []
+  basis: A large beast haunts a dry lake bed while Raven and First Man journey in
+    the sky land.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a brief report of the Raven tale and does not provide
+    the full narrative context.
+- id: motif:2
+  label: animal light on grass but heavy after death
+  taxonomy_refs: []
+  basis: The beast rests on grass tips without bending them, yet after being killed
+    becomes so heavy that logs must be placed underneath it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a literal motif candidate from the passage; no external parallel
+    is asserted.
+- id: motif:3
+  label: six-legged horned beast identified with an extinct muskox
+  taxonomy_refs: []
+  basis: The beast's unusual anatomy and fur are described, and the narrator states
+    that it refers to the muskox, extinct in the local region for ages.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The muskox identification is the narrator's ethnographic interpretation,
+    not a statement attributed to the tale's characters.
+- id: motif:4
+  label: great eagle or Thunderbird
+  taxonomy_refs: []
+  basis: The passage names Tiri-mt-iik'-puk as the great eagle or Thunderbird and
+    describes it as an enormous eagle with locally varying habits.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe thunder, weather-making, or narrative actions
+    of this bird.
+comparison_claims:
+- id: claim:1
+  claim: The passage's narrator identifies the large beast as referring to the muskox.
+  claim_level: visual_similarity
+  target: muskox
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an identification of an animal referent within the source passage,
+    not evidence of historical contact or a broader comparative motif by itself.
+- id: claim:2
+  claim: The passage presents Tiri-mt-iik'-puk, the great eagle, as the Thunderbird.
+  claim_level: same_motif
+  target: Thunderbird
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The identification is explicit, but the passage provides only a minimal
+    description and no detailed Thunderbird narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 27056-27059
+  quote_or_summary: In a Raven tale, a large beast is seen haunting a dry lake bed
+    overgrown with tall grass while Raven and First Man journey in the sky land.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:2
+  type: quote
+  locator: 27059-27061
+  quote_or_summary: The beast rested by "lying down on the tips of the growing grass,
+    without bending the stems."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:3
+  type: summary
+  locator: 27061-27064
+  quote_or_summary: When the Sky people killed the animal, they first had to place
+    logs under it because, once dead, it became so heavy that it would sink into the
+    ground like a lean seal in water.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:4
+  type: summary
+  locator: 27064-27072
+  quote_or_summary: The animal has a long head, six legs, large hind legs, short forelegs,
+    a small middle pair hanging from the belly, fine thick fur, horns curving from
+    the back of the head, small eyes, and very dark color.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:5
+  type: quote
+  locator: 27072-27074
+  quote_or_summary: '"This undoubtedly refers to the muskox," which is said to have
+    been extinct for ages in the region where these people live.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:6
+  type: summary
+  locator: 27075-27076
+  quote_or_summary: Tiri-mt-iik'-puk is named as the great eagle or Thunderbird and
+    described as an enormous eagle whose habits vary by locality.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summary allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the passage. Motif labels and
+    comparison claims remain draft-level because the passage is a brief ethnographic
+    note and gives limited narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. No taxonomy references were assigned because the available taxonomy list does not include muskox, eagle, Thunderbird, dry lake bed, grass, horns, or logs, and the passage does not clearly support the listed motif families.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l27056-l27076
+  passage_sha256=27e5f4e476b2930b03d4c52ce85b80840ecd45bcb0d91ead8771bf274876714c
+

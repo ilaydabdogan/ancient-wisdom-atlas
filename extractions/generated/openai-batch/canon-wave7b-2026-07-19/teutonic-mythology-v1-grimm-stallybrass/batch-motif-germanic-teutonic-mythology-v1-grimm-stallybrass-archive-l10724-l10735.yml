@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l10724-l10735
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: FRO,   (FEEYR). / FRO.  211 / FRO.  213 / FRO.  215; lines 10724-10735
+  start: '10724'
+  end: '10735'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage notes an Old French poetic sword made by Galant/Wieland/Wayland
+    and named Froberge or Floberge, speculates on the name as either lord-protecting
+    or a reminiscence of the god Fro's sword, lists related Germanic name formations,
+    notes that Odin, Thor, and Freyr are speakers of doom in Snorri, and cites Pliny
+    on Ethiopian folding ships carried on shoulders.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Old French poetry is said to contain a famous sword wrought by Galant, identified
+    parenthetically with Wieland or Wayland.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sword is named Froberge or Floberge.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The passage proposes two possible explanations for the name Froberge: a lord-protecting
+    weapon or a reminiscence of the god Fro''s sword.'
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Odin, Thor, and Freyr are listed as speakers of doom in a cited Snorri passage.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Pliny is cited for Ethiopian folding ships carried on shoulders.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Galant / Wieland / Wayland
+  description: Named as the maker of a famous sword in Old French poetry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Fro
+  description: A god whose sword is mentioned as a possible source of reminiscence
+    for the sword name Froberge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Odin
+  description: Listed among speakers of doom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Thor
+  description: Listed among speakers of doom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Freyr
+  description: Listed among speakers of doom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: smith or maker of famous sword
+  assigned_to:
+  - fig:1
+  basis: The passage says the sword was wrought by Galant, identified with Wieland/Wayland.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: god associated with a sword
+  assigned_to:
+  - fig:2
+  basis: The passage refers to a possible reminiscence of the god Fro's sword.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: speaker of doom
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The note explicitly says Odin, Thor, and Freyr are speakers of doom.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: named sword
+  literal_form: Froberge or Floberge, a famous sword wrought by Galant/Wieland/Wayland
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: folding ships
+  literal_form: Ethiopian folding ships carried on shoulders
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Discussion of Froberge / Floberge
+  summary: The passage identifies a famous sword in Old French poetry, names its maker,
+    and offers possible explanations of the sword-name in relation to lord-protection
+    or the god Fro's sword.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gods as speakers of doom
+  summary: A note cites Odin, Thor, and Freyr as speakers of doom in Snorri.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Portable folding ships
+  summary: A note cites Pliny for Ethiopian folding ships carried on the shoulders.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine speakers of doom
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly lists Odin, Thor, and Freyr as speakers of doom.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief scholarly note and does not narrate an
+    episode of judgment.
+- id: motif:2
+  label: named sword associated with divine or heroic smithing
+  taxonomy_refs: []
+  basis: The passage describes a famous named sword made by Galant/Wieland/Wayland
+    and suggests a possible relation to the god Fro's sword.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The association with Fro's sword is presented as a possibility, not as
+    a settled identification.
+- id: motif:3
+  label: portable or folding vessel
+  taxonomy_refs: []
+  basis: The passage cites folding ships carried on shoulders.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is a brief antiquarian citation rather than a mythic narrative in
+    the passage.
+comparison_claims:
+- id: claim:1
+  claim: The name Froberge may preserve a reminiscence of the god Fro's sword, but
+    the passage also offers a non-divine etymological explanation.
+  claim_level: linguistic_similarity
+  target: god Fro's sword
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: low
+  limitations: The passage frames the connection as possible and gives an alternative
+    explanation, so no firm historical or motif identity claim is supported.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10724-10726
+  quote_or_summary: '"a famous sword wrought by Galant himself (Wielant, Wayland),
+    and named Froberge or Floberge"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10727-10729
+  quote_or_summary: The name Froberge is said to be explainable either as a lord-protecting
+    weapon or as a reminiscence of the god Fro's sword.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata.
+- id: ev:3
+  type: quote
+  locator: line 10733
+  quote_or_summary: '"OiSinn, Thorr, Freyr are speakers of doom."'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: line 10735
+  quote_or_summary: '"Ethiopian ''naves plicatiles humeris translatas.''"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage consists mainly of scholarly notes and etymological comparisons
+    rather than a continuous mythic narrative. Motif extraction is therefore limited
+    and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references were applied only where directly supportable from the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l10724-l10735
+  passage_sha256=fbe341f7f53b6d7103247ab542652ef494717437cc824499a5163d75b2e37882
+

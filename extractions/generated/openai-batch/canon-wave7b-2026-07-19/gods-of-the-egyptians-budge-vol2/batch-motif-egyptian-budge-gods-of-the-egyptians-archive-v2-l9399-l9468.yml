@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l9399-l9468
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: AAAAAA / HYMN   TO    OSIRIS / V.  MAW / I        AAAAAA; lines 9399-9468
+  start: '9399'
+  end: '9468'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“appearance as a soul living, the sight of the disk”"
+  summary: Fragmentary interlinear passage headed “HYMN TO OSIRIS.” It mentions the
+    Nile, appearance as a living soul, sight of a disk, daily dawn, entrance and exit
+    from Re-stau, not being repulsed, the soul in the Underworld, and reception.
+  language: English with Egyptian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed “HYMN TO OSIRIS.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The text mentions the Nile.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The text mentions an appearance as a living soul.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The text mentions sight of a disk.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The text mentions Re-stau and daily dawn.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The text mentions entrance and exit from Re-stau.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The text says that repulsion does not occur.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The text mentions the soul in the Underworld and reception.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: Named in the heading “HYMN TO OSIRIS.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the soul
+  description: Described as living and as being in the Underworld; associated with
+    entrance and exit from Re-stau.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: named hymn deity
+  assigned_to:
+  - fig:1
+  basis: The passage heading identifies the hymn as being to Osiris.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: living soul
+  assigned_to:
+  - fig:2
+  basis: The text says “appearance as a soul living.”
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: underworld entrant or received soul
+  assigned_to:
+  - fig:2
+  basis: The text mentions entrance and exit from Re-stau, not being repulsed, and
+    the soul in the Underworld with reception.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Nile
+  literal_form: Nile
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: disk
+  literal_form: disk
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Re-stau
+  literal_form: Re-stau
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Underworld
+  literal_form: Underworld
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dawn
+  literal_form: dawn daily
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Living soul and disk
+  summary: The passage mentions the Nile, an appearance as a living soul, and the
+    sight of a disk.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Passage through Re-stau
+  summary: At daily dawn, the text mentions entrance and exit from Re-stau, not being
+    repulsed, and the soul in the Underworld receiving reception.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Afterlife passage through Re-stau and the Underworld
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage explicitly mentions entrance and exit from Re-stau, not being
+    repulsed, and the soul in the Underworld with reception.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is fragmentary and interlinear, so the full narrative sequence
+    is not recoverable from this excerpt alone.
+- id: motif:2
+  label: Appearance as a living soul
+  taxonomy_refs: []
+  basis: The text includes the phrase “appearance as a soul living.”
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The phrase may support themes of postmortem vitality, but the excerpt
+    alone does not clearly state a resurrection or rebirth event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9399-9411
+  quote_or_summary: "“of Nile, appearance as a soul living, the sight of the disk”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 9412-9416
+  quote_or_summary: "“HYMN   TO    OSIRIS”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 9436-9454
+  quote_or_summary: "“em Re-stau ... at dawn daily, entrance and exit from Re-stau,
+    not being repulsed”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 9458-9468
+  quote_or_summary: "“the soul in the Underworld, ... reception”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is highly fragmentary and appears as an interlinear transliteration/translation
+    with layout artifacts. Literal elements are clear enough for limited extraction,
+    but narrative context is incomplete.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt itself does not provide enough context for cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l9399-l9468
+  passage_sha256=7836b5c5c01b30f425e58a7ac4c75ec6186cefac312671a49a5c9765c2b33d14
+

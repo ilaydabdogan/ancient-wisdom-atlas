@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l12918-l12930
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: TEM, SHE, TEFNUT 297 / CREATION OF MAN 299 / POWER OF THE NAME 301 / THE
+    CREATION OF MAN 307; lines 12918-12930
+  start: '12918'
+  end: '12930'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: These acts were followed either by the creation of men and women, or by the
+    creation of vegetation and creeping things and reptiles of every kind.
+  summary: The passage summarizes an early Egyptian creation opinion in which unspecified
+    prior acts involving the sky or firmament are followed either by the creation
+    of humans or by the creation of vegetation and reptiles; it notes that stars,
+    birds, and beasts are not mentioned, and that the Heliopolitan priests later adopted
+    and modified this form for their theological system.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage refers to the sky or firmament immediately before describing subsequent
+    creative acts.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The described acts are followed either by the creation of men and women or
+    by the creation of vegetation, creeping things, and reptiles.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the creation of stars, birds, and beasts is not mentioned
+    in this account.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The account is characterized as one of the earliest Egyptian opinions about
+    creation in its simplest form.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that the priests of Heliopolis first adopted this account
+    and then modified it to fit their theological system.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The texts on which the account was based are said to be presented in hieroglyphics
+    with transliterations and translations in the following chapter.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: men and women
+  description: Human beings created in one version of the sequence described by the
+    passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: priests of Heliopolis
+  description: Priests said to have adopted and modified the early creation opinion
+    for their theological system.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: created humans
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says that men and women are created in one form of
+    the sequence.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: adapters of a creation account
+  assigned_to:
+  - fig:2
+  basis: The passage says the priests of Heliopolis adopted and modified the account
+    to suit their theological system.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sky or firmament
+  literal_form: sky or firmament
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: vegetation and creeping reptiles
+  literal_form: vegetation, creeping things, and reptiles of every kind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Creation sequence after prior acts
+  summary: After unspecified prior acts connected in the passage fragment with the
+    sky or firmament, the account has either the creation of men and women or the
+    creation of vegetation, creeping things, and reptiles.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Heliopolitan adoption and modification
+  summary: Budge presents the account as an early Egyptian creation opinion that was
+    adopted by the priests of Heliopolis and modified for their theological system.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: creation of humans after earlier cosmic acts
+  taxonomy_refs: []
+  basis: The passage describes prior acts followed by the creation of men and women
+    in one version of the sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The earlier acts are only partially visible in this passage fragment and
+    no creator figure is named here.
+- id: motif:2
+  label: creation of vegetation and reptiles as an alternate sequence
+  taxonomy_refs: []
+  basis: The passage says the acts were followed either by human creation or by creation
+    of vegetation, creeping things, and reptiles.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents this as an alternative but does not explain the relation
+    between the alternatives.
+- id: motif:3
+  label: priestly adaptation of an early creation tradition
+  taxonomy_refs: []
+  basis: The passage states that the early creation opinion was adopted by Heliopolitan
+    priests and modified for their theological system.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a motif-pattern candidate about transmission and theological formulation
+    in Budge's summary, not a quoted ancient narrative episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage relates the simple early Egyptian creation opinion to the Heliopolitan
+    priestly theological system by saying it was adopted and modified there.
+  claim_level: historical_contact
+  target: Heliopolitan priestly theological system
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on Budge's modern scholarly summary in this passage;
+    the ancient source text is not quoted in this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '12918'
+  quote_or_summary: '"sky or firmament"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: 12918-12921
+  quote_or_summary: '"These acts were followed either by the creation of men and women,
+    or by the creation of vegetation and creeping things and reptiles of every kind"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: 12921-12922
+  quote_or_summary: '"of the creation of stars and of birds and beasts nothing is
+    said"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: 12922-12925
+  quote_or_summary: '"one of the earliest of the opinions of the Egyptians about the
+    creation in its simplest form"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: 12925-12928
+  quote_or_summary: '"first adopted by the priests of Heliopolis, and was then modified
+    to suit the theological system which they formulated"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: 12928-12930
+  quote_or_summary: The passage says the relevant texts are transcribed into hieroglyphics
+    with interlinear transliterations and translations in the following chapter.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a modern scholarly summary and appears to begin mid-sentence
+    or after a preceding context; no creator deity is named in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not explicitly name one of the supplied taxonomy items such as serpent, water, chaos, or cosmic egg.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l12918-l12930
+  passage_sha256=6d7922a3c3eece4178a0d464615332b303d788e9111a3cf5402f32bc65985d57
+

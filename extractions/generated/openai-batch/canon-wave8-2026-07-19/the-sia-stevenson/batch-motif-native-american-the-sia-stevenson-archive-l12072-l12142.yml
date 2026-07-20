@@ -1,0 +1,386 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l12072-l12142
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: WEAPONS AND OTHER HUNTING IMPLEMENTS. / HUNTING IMPLEMENTS, / THE HUDSON
+    BAT ESKIMO. / HUNTINO.; lines 12072-12142
+  start: '12072'
+  end: '12142'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an autumn reindeer hunt during migration, when hunters
+    establish a camp near a river crossing, observe herds, use kayaks to drive deer
+    through the water toward a desired landing place, account for wind and scent,
+    and finally kill an animal with a deer spear. It also briefly notes other hunting
+    methods and compares the spear to one used by unspecified Indians.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage refers to methods of taking seals, white whales, and other game
+    using boats, spears, and other apparatus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The most important hunt described occurs in autumn, when reindeer migrate
+    in large herds and cross rivers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hunters take necessary chase equipment in an umiak or whaleboat, pitch a tent,
+    and make camp near a convenient crossing locality.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Reindeer are wanted for flesh as food and skins for clothing or other uses.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Hunters scout neighboring land for herds and observe herd movements with a
+    telescope or binoculars.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: A reindeer herd may plunge into the river, keep together while crossing, stand
+    on the opposite shore while water drips from their bodies, then move toward the
+    bank and wooded or open country.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the hunter sees the deer, he readies a kayak and uses a double-bladed
+    paddle to position himself behind and below the animals.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The frightened deer rear and plunge while trying to escape, and the hunter
+    drives the herd through the water and rounds up animals that try to break away.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Two or more kayaks can be used to drive the animals to a desired place near
+    camp, depending on whether the camp lies above or below the crossing.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The hunters’ maneuvers depend on wind because the deer have an acute sense
+    of smell and may flee if they detect camp scent.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Near the chosen place, the hunter takes a deer spear and stabs the animal.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The deer spear is described as being exactly like one used by unspecified
+    Indians.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Native hunter or hunters
+  description: Human hunters who set up the autumn camp, scout and observe reindeer,
+    maneuver kayaks, drive the herd through water, and use a deer spear.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Reindeer or deer herd
+  description: Migrating animals crossing rivers in herds; they are pursued for meat
+    and skins, driven through the water, and one is stabbed with a spear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Indians, unspecified
+  description: A group mentioned only as users of a deer spear described as like the
+    one used by the hunter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Hunter and herd-driver
+  assigned_to:
+  - fig:1
+  basis: The hunters scout, observe, paddle kayaks, drive the animals through water,
+    and stab an animal with a deer spear.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:2
+  label: Migrating prey and resource animal
+  assigned_to:
+  - fig:2
+  basis: The reindeer migrate across rivers and are hunted for flesh and skins.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: Comparative spear users
+  assigned_to:
+  - fig:3
+  basis: The passage says the deer spear is like one used by the Indians, without
+    further identifying them.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: River water
+  literal_form: River and water crossed by reindeer and used as the medium through
+    which hunters drive the herd.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Kayak and double-bladed paddle
+  literal_form: Kayak and paddle used by the hunter to position himself and drive
+    the deer in the river.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Deer spear
+  literal_form: Spear used near the end of the hunt to stab the animal; described
+    as like one used by unspecified Indians.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Camp and tent
+  literal_form: Temporary hunting camp with tent set near a locality convenient to
+    the reindeer crossing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Autumn camp for river-crossing hunt
+  summary: During the autumn reindeer migration, hunters take equipment by umiak or
+    whaleboat, pitch a tent, and make camp near a river crossing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Observation of the crossing herd
+  summary: A hunter watches a herd with a telescope or binoculars as the animals enter
+    the water, cross together, and pause on the opposite shore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Kayak driving of the herd
+  summary: The hunter uses a kayak and paddle to get behind the frightened deer, drive
+    them through the water, round up breakaways, and guide them toward the desired
+    place near camp while considering wind and scent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Spear kill near the chosen place
+  summary: When the animals are near the intended place, the hunter takes a deer spear
+    and stabs an animal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Seasonal migration hunt
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The hunt is described as the important autumn hunt, timed to the migration
+    of reindeer herds across rivers.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is ethnographic and practical rather than explicitly mythic
+    or ritual; the taxonomy match is broad.
+- id: motif:2
+  label: Herd driven through water
+  taxonomy_refs: []
+  basis: Hunters use kayaks to drive a reindeer herd through river water, prevent
+    escape, and guide the animals toward camp.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a hunting-pattern extraction, not evidence of a sacred or narrative
+    motif by itself.
+- id: motif:3
+  label: Boat-assisted spear hunt
+  taxonomy_refs: []
+  basis: The hunt depends on boats or kayaks for pursuit and culminates in use of
+    a deer spear.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage describes implement use and technique; it does not assign
+    symbolic meaning to the boat or spear.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the hunter’s driving of the herd through
+    water to a shepherd driving a flock on land.
+  claim_level: same_function
+  target: Shepherd driving a flock on land
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an authorial functional analogy in the passage; it does not
+    demonstrate historical contact or shared tradition.
+- id: claim:2
+  claim: The passage states that the deer spear is like one used by unspecified Indians.
+  claim_level: visual_similarity
+  target: Deer spear used by 'the Indians'
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not identify the group or describe the spear in detail;
+    the claim supports only the stated implement similarity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12072-12079
+  quote_or_summary: The passage introduces methods for taking seals, white whales,
+    and other game and mentions boats, spears, and other apparatus used in pursuit.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 12080-12088
+  quote_or_summary: The important autumn hunt occurs when reindeer migrate in large
+    herds and cross rivers; hunters need flesh for food and skins for clothing, take
+    equipment in an umiak or whaleboat, and make camp near the crossing.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 12088-12096
+  quote_or_summary: Hunters scour neighboring land for herds; both female and male
+    deer are considered useful because of differences in skins and meat.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 12096-12110
+  quote_or_summary: A hunter observes the deer with a telescope or binoculars as they
+    pause, plunge into the water, keep together while crossing, stand dripping on
+    the opposite shore, and move toward the bank and surrounding country.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 12110-12132
+  quote_or_summary: The hunter readies a kayak, paddles behind and below the terrified
+    animals, drives the herd through the water, rounds up breakaways, and, with other
+    kayaks, guides the animals toward the desired place near camp.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 12132-12139
+  quote_or_summary: The maneuvers depend on wind because the deer’s sense of smell
+    is acute and detection of camp scent could cause many animals to escape.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: 12140-12142
+  quote_or_summary: Near the chosen place, the hunter takes a deer spear, described
+    as exactly like one used by the Indians, and quietly stabs the animal.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core hunting sequence is legible, but the source passage contains OCR noise
+    and is ethnographic rather than explicitly mythological; motif labels are therefore
+    practical pattern candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. No sacred or ritual interpretation is inferred beyond the literal seasonal hunting pattern.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l12072-l12142
+  passage_sha256=feeea33b92afceed5f9e5de2e74d8cb56c1458971dcff56115e411b7ecbaaf29
+

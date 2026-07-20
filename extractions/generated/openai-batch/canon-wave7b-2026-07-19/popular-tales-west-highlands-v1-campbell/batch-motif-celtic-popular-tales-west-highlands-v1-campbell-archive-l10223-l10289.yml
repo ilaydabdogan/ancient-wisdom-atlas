@@ -1,0 +1,599 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l10223-l10289
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: MATH-GHAMHAINN DONN A GHLINN UAINNE. 175 / UATH-GHAMHAINN DONN A GHLINN UAINNE.
+    177 / THE BROWN BEAR OF THE GREEN GLEN. 179 / THE THREE SOLDIERS.; lines 10223-10289
+  start: '10223'
+  end: '10289'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The opening of “The Three Soldiers” tells of a sergeant, a corporal, and
+    a single soldier named John who fall behind their regiment after visiting sweethearts.
+    At night they find an empty place with fire, beds, and food. Three great red girls
+    come at night and later give the men magical gifts: a purse of inexhaustible gold
+    and silver, a towel that produces meat, and a whistle that transports the player
+    to the middle of the regiment. The passage breaks off as John says he wants to
+    learn who the girls are.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A regiment in Dublin in Erin is beginning a long journey; a sergeant, a corporal,
+    and a single soldier have sweethearts in the town.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The three soldiers stay too long with their sweethearts, are left behind by
+    the regiment, and follow it until night comes on them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At night the soldiers see a distant light, reach it, enter, and find a swept
+    floor, a fire, and no one inside.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: John finds a chamber with a light, a board covered with every sort of meat,
+    and a lighted candle; he begins eating despite the others saying he has no business
+    with it, and they then eat too.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: There are three beds in the chamber, and one soldier lies in each bed.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Three great red girls enter at night, one stretches herself near each bed,
+    and they leave in the morning when the time seems fitting.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After the girls rise, the food board shows no sign that any food has been
+    removed.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The sergeant repeatedly says they should follow or return to the regiment,
+    while John repeatedly says they should not go while there is food and rest.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:9
+  text: The pattern of meals, going to bed, and the girls returning at night is repeated.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: The eldest girl gives the sergeant a purse that is full of gold and silver
+    every time he unlooses it.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The middle girl gives the corporal a towel that is full of every sort of meat
+    whenever he spreads it.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The youngest girl gives John a whistle that places the player in the very
+    middle of the regiment whenever it is played.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: The girls leave their blessing with the soldiers and go away; John says he
+    will not let the matter rest and wants to know who they are.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: regiment in Dublin in Erin
+  description: A regiment that is going on a long journey and leaves three soldiers
+    behind.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the sergeant
+  description: One of the three soldiers; he urges following the regiment and receives
+    the magical purse.
+  role_refs:
+  - role:2
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: the corporal
+  description: One of the three soldiers; he receives the magical towel.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:4
+  name_or_label: John, the single soldier
+  description: The named single soldier; he first eats from the board, refuses to
+    leave while food and rest are available, and receives the whistle.
+  role_refs:
+  - role:2
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:10
+- id: fig:5
+  name_or_label: eldest great red girl
+  description: One of the three great red girls; she gives the sergeant the purse.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:6
+  name_or_label: middle great red girl
+  description: One of the three great red girls; she gives the corporal the towel.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: fig:7
+  name_or_label: youngest great red girl
+  description: One of the three great red girls; she gives John the whistle.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:10
+roles:
+- id: role:1
+  label: departing military company
+  assigned_to:
+  - fig:1
+  basis: The regiment is said to be in Dublin in Erin and going on a long journey.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: straggling soldier
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The three soldiers stay too long and are left behind by the regiment.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: advocate of returning to the regiment
+  assigned_to:
+  - fig:2
+  basis: The sergeant repeatedly says that they should follow or go back to the regiment.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: initiator of eating and remaining
+  assigned_to:
+  - fig:4
+  basis: John first begins eating from the board and later refuses to go while food
+    and rest are available.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:5
+  label: nocturnal female visitor
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The three great red girls enter at night, lie near the beds, and leave in
+    the morning.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: giver of magical gift
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Each of the girls gives or promises a specific object with a recurring magical
+    effect.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:7
+  label: recipient of magical gift
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The sergeant receives the purse, the corporal receives the towel, and John
+    receives the whistle.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: night light
+  literal_form: A distant light seen at night, with a light also in the chamber and
+    a lighted candle on the food board.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: fire
+  literal_form: A fire on the swept floor where the soldiers sit and warm themselves.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: food board
+  literal_form: A board covered with every sort of meat, later showing no sign that
+    food has been removed.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: three beds
+  literal_form: Three beds in the chamber, one for each soldier.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: purse of gold and silver
+  literal_form: A purse that is full of gold and silver every time it is unloosed.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: towel of meat
+  literal_form: A towel that becomes full of every sort of meat whenever it is spread.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: whistle of return to regiment
+  literal_form: A whistle that places the player in the very middle of the regiment
+    whenever played.
+  associated_figures:
+  - fig:4
+  - fig:7
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:8
+  label: threefold grouping
+  literal_form: Three soldiers, three beds, three great red girls, and three gifts.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Soldiers left behind on a long journey
+  summary: A sergeant, corporal, and single soldier named John stay too long with
+    sweethearts in town; the regiment leaves, and the men follow it until night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Arrival at lighted empty shelter
+  summary: The soldiers see a distant night light, reach an empty place with a swept
+    floor and fire, and sit by the fire.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: John begins the feast
+  summary: John enters the chamber, finds a candle-lit board covered with meat, begins
+    eating despite objections, and the others join him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Three beds and three red girls
+  summary: Each soldier lies in one of three beds; three great red girls come in at
+    night, lie near the beds, and leave in the morning, after which the board appears
+    unreduced.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Repeated stay and dispute over leaving
+  summary: The soldiers continue eating meals and sleeping there; the sergeant urges
+    going back to the regiment, but John insists that they should remain while food
+    and rest are available.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Three gifts from the girls
+  summary: The eldest girl gives the sergeant a purse of recurring gold and silver,
+    the middle girl gives the corporal a food-producing towel, and the youngest gives
+    John a whistle that returns the player to the regiment; the girls leave a blessing
+    and go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Three stragglers find a prepared but empty lodging
+  taxonomy_refs: []
+  basis: The three soldiers are separated from their regiment at night and enter a
+    place where fire, food, and beds are prepared but no one is initially present.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not identify the place or explain who prepared it.
+- id: motif:2
+  label: Improper or contested eating from an unattended feast
+  taxonomy_refs: []
+  basis: John eats from the covered board although the others say he has no business
+    with it, after which they also eat.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No explicit prohibition or punishment is stated in this passage.
+- id: motif:3
+  label: Inexhaustible food
+  taxonomy_refs: []
+  basis: The board appears undiminished after eating, and the later towel produces
+    every sort of meat whenever it is spread.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The source does not explain the mechanism of the board’s renewal in the
+    excerpt.
+- id: motif:4
+  label: Nocturnal women paired with three male travellers
+  taxonomy_refs: []
+  basis: Three great red girls come at night and one lies near each of the three soldiers’
+    beds.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives no origin or identity for the girls within this excerpt.
+- id: motif:5
+  label: Three magical gifts granting wealth, food, and return
+  taxonomy_refs: []
+  basis: The girls provide a purse producing gold and silver, a towel producing meat,
+    and a whistle that places the player in the middle of the regiment.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The third gift’s function is described in relation to the regiment, not
+    as a general transport object.
+- id: motif:6
+  label: Desire to learn the identity of mysterious benefactors
+  taxonomy_refs: []
+  basis: After receiving the gifts and blessing, John says he will not let the matter
+    rest and will know who the girls are.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The line range ends mid-sentence, so the ensuing action is not included.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 10223-10225
+  quote_or_summary: 'Title: “THE THREE SOLDIERS.” Source attribution in passage: from
+    James MacLachlan, servant, Islay.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 10227-10235
+  quote_or_summary: A regiment in Dublin in Erin is going on a long journey; a sergeant,
+    corporal, and single soldier with sweethearts stay too long, are left behind,
+    follow the regiment, and see a distant light at night.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 10235-10240
+  quote_or_summary: The three reach the light, enter a place with a swept floor, a
+    fire, and no one inside, and sit warming themselves at the fire.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 10239-10246
+  quote_or_summary: The single soldier, named John, looks in the chamber, finds a
+    light, a board covered with every sort of meat, and a lighted candle; he begins
+    eating, and the others join after trying to stop him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 10246-10253
+  quote_or_summary: Three beds are in the chamber; each soldier lies in one, three
+    great red girls come in and stretch themselves near the beds, and they leave in
+    the morning; the board appears as if no food has been taken.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 10253-10267
+  quote_or_summary: The men eat; the sergeant says they should follow the regiment,
+    but John refuses while there is meat and rest; they eat dinner and supper, sleep,
+    the girls return, and in the morning the board is again covered and undiminished.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:7
+  type: summary
+  locator: lines 10267-10272
+  quote_or_summary: After eating, the sergeant says they will go at all events; John
+    says they should not go; they eat dinner and supper as usual, sleep, and the girls
+    come and lie down after them.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:8
+  type: summary
+  locator: lines 10272-10274
+  quote_or_summary: In the morning the eldest gives the sergeant a purse that is full
+    of gold and silver whenever he unlooses it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:9
+  type: summary
+  locator: lines 10276-10283
+  quote_or_summary: The middle girl says she will give her own one a towel that will
+    be full of every sort of meat whenever he spreads it, and she gives the towel
+    to the corporal.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata supplied in request.
+- id: ev:10
+  type: summary
+  locator: lines 10283-10289
+  quote_or_summary: The youngest gives John a whistle that places him in the middle
+    of the regiment whenever he plays it; the girls leave their blessing and go away;
+    John says he wants to know who they are before the excerpt breaks off.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    cautious and passage-local. No external comparison claims are made because the
+    excerpt itself provides no explicit comparative target.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage ends mid-sentence at line 10289, so later explanation of the girls’ identity or the outcome of John’s intention is not included.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l10223-l10289
+  passage_sha256=cab3a845b5f443fcf32e5aabad6364aa63613901c1ec482fb027e1a4fbaa8ece
+

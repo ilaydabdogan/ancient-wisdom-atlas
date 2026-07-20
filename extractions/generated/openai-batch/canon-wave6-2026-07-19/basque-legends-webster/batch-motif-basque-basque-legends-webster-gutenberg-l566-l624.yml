@@ -1,0 +1,443 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l566-l624
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: INTRODUCTION. / I.--LEGENDS OF THE TARTARO. / THE TARTARO. / M. D'ABBADIE'S
+    VERSION.; lines 566-624
+  start: '566'
+  end: '624'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A one-eyed giant named Tartaro catches a powerful young man. After the
+    giant eats a sheep and sleeps, the captive blinds him with a red-hot spit, escapes
+    through the guarded door by using a sheep skin and bell, receives a ring from
+    Tartaro's witch mother that announces his location, and cuts off his own finger
+    to escape pursuit. Reported variants alter the setting and escape route and end
+    with Tartaro dying after following the ring toward a precipice or bog.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage frames the tale as a version communicated by M. d'Abbadie, narrated
+    by M. l'Abbé Heguiagaray, who heard it from his mother.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tartaro is described as a one-eyed colossus, shepherd, hunter of men, and
+    eater of sheep and humans; he lives in a strongly secured barn, and his mother
+    is an old witch living in a hut in the garden.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A powerful young man is caught by Tartaro and brought to his house, where
+    he sees Tartaro eat a whole sheep and anticipates being eaten after Tartaro sleeps.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: While Tartaro snores, the young man heats a spit in the fire and plunges it
+    into the giant's single eye.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Tartaro says only he knows how to open the door, then opens it partway and
+    lets the sheep out between his legs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The young man uses the ram's bell and the skin of the eaten sheep to approach
+    on all fours; when Tartaro detects the trick and grabs the skin, the young man
+    slips out, dives between Tartaro's legs, and runs away.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Tartaro's mother gives the young man a ring, and the ring immediately cries
+    out his location.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Unable to remove the ring while Tartaro pursues him, the young man cuts off
+    his own finger, throws it away, and escapes.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage reports other versions in which the young man meets Tartaro while
+    with pigs in the forest, escapes through a garret window after blinding him, and
+    later throws the ring-bearing finger into a precipice or bog, where Tartaro is
+    destroyed or drowned while following it.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Tartaro
+  description: A one-eyed colossus who is a shepherd, hunter of men, eater of sheep
+    and humans, and pursuer of the escaped young man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: powerful young man
+  description: A captive of Tartaro who blinds him, escapes by disguise, receives
+    the speaking ring, cuts off his own finger, and survives pursuit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Tartaro's mother
+  description: An old witch living in a turf hut in the garden; she meets the escaping
+    young man and gives him a ring.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: one-eyed man-eating captor and pursuer
+  assigned_to:
+  - fig:1
+  basis: Tartaro is described as a one-eyed colossus and hunter of men who captures
+    the young man and pursues him after being blinded.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: captive escapee who uses deception and self-injury
+  assigned_to:
+  - fig:2
+  basis: The young man is caught, blinds Tartaro, uses sheep skin and bell to escape,
+    and cuts off his finger to get rid of the ring.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: ring-giver
+  assigned_to:
+  - fig:3
+  basis: Tartaro's mother meets the young man after his escape and gives him the ring
+    that cries out his location.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: single eye
+  literal_form: Tartaro's one eye in the middle of his forehead
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: red-hot spit and fire
+  literal_form: a spit heated in the fire and used to blind Tartaro
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: strong door
+  literal_form: the very strong door of Tartaro's barn, which he alone knows how to
+    open
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: sheep skin and ram bell disguise
+  literal_form: the bell taken from the ram and the skin of the sheep Tartaro had
+    eaten
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: speaking ring
+  literal_form: a ring that cries out the wearer's location
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: severed finger
+  literal_form: the young man's own finger cut off and thrown away to remove the ring
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:7
+  label: bog as drowning place in variant
+  literal_form: a bog into which the ring-bearing finger is thrown, after which Tartaro
+    is drowned in the variant
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Tartaro and his dwelling
+  summary: The passage describes Tartaro's one-eyed body, man-eating habits, guarded
+    barn, and the nearby hut of his witch mother.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Capture and blinding
+  summary: A powerful young man is taken to Tartaro's house, expects to be eaten,
+    and blinds the sleeping giant with a red-hot spit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Escape through the guarded door
+  summary: Tartaro opens the door to release sheep; the young man uses a ram bell
+    and sheep skin as disguise, is nearly caught, then slips out and runs away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Ring-guided pursuit
+  summary: Tartaro's mother gives the young man a ring that announces his location,
+    so he cuts off his ring-bearing finger and escapes Tartaro's pursuit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Reported alternate versions
+  summary: Other versions repeat the encounter, blinding, ring-guided pursuit, and
+    finger cutting, but include pigs, a garret-window escape, and Tartaro's death
+    at a precipice or bog.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: one-eyed man-eating giant as captor
+  taxonomy_refs: []
+  basis: Tartaro is a one-eyed colossus, a hunter of men, and he captures the young
+    man with the implied intention of eating him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not connect this figure to any external one-eyed-giant
+    tradition.
+- id: motif:2
+  label: blinding a sleeping giant with a heated implement
+  taxonomy_refs: []
+  basis: The captive waits until Tartaro snores, heats a spit red-hot, and blinds
+    him in his single eye; the same act is reported in other versions.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: No external parallel is asserted in the passage.
+- id: motif:3
+  label: animal-disguise escape through a guarded threshold
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The young man escapes through the door controlled by Tartaro by using the
+    ram bell and sheep skin, moving on all fours, and slipping between Tartaro's legs.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage itself gives the specific
+    sheep-skin escape rather than a named motif family.
+- id: motif:4
+  label: speaking ring as pursuit locator
+  taxonomy_refs: []
+  basis: The ring given to the young man cries out his location, enabling Tartaro's
+    pursuit; variants also include the ring guiding Tartaro.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the ring's origin or whether Tartaro's mother
+    intends betrayal.
+- id: motif:5
+  label: self-mutilation to break magical pursuit
+  taxonomy_refs: []
+  basis: The young man cannot remove the ring and cuts off his own finger to throw
+    the ring away and escape.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The act is described as an escape measure, not as a ritual sacrifice.
+- id: motif:6
+  label: pursuer destroyed by following displaced locator
+  taxonomy_refs: []
+  basis: In reported variants, the young man throws the ring-bearing finger down a
+    precipice or into a bog, and Tartaro follows the cry and is dashed to pieces or
+    drowned.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This ending is reported only for other versions summarized at the end
+    of the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports a set of other versions that preserve the same
+    central pattern of Tartaro encounter, blinding with a red-hot spit, ring-guided
+    pursuit, and finger cutting, while changing details such as pigs, a garret-window
+    escape, and the pursuer's death at a precipice or bog.
+  claim_level: same_motif
+  target: other versions of the Tartaro story summarized within this passage
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: high
+  limitations: This is only an intra-passage comparison among reported variants; no
+    external tradition or historical relationship is claimed.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 566-574
+  quote_or_summary: 'Framing summary: the version was communicated by M. d''Abbadie;
+    the narrator is M. l''Abbé Heguiagaray of Esquiule, who says he heard the Tartaro
+    story from his mother in infancy.'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 573-582
+  quote_or_summary: Tartaro is described as a one-eyed colossus, shepherd, hunter
+    of men, eater of a sheep each day and of unlucky humans; his dwelling is a huge
+    barn with a strong door, and his mother is an old witch in a turf hut.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 584-588
+  quote_or_summary: A powerful young man is caught in Tartaro's snares and carried
+    to his house; he watches Tartaro eat a whole sheep and expects that his own turn
+    will follow after the giant's snooze.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 589-594
+  quote_or_summary: When Tartaro begins to snore, the young man heats the spit red-hot
+    in the fire and plunges it into the giant's one eye; Tartaro then searches for
+    him and says only he knows how to open the door.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 596-603
+  quote_or_summary: Tartaro opens the door halfway and lets the sheep out between
+    his legs; the young man puts on the ram's bell and sheep skin, goes on all fours,
+    is detected by touch, slips out of the skin, dives between the giant's legs, and
+    runs off.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 605-617
+  quote_or_summary: Tartaro's mother meets the young man, gives him a ring as a remembrance,
+    and the ring cries 'Heben nuk!'; during Tartaro's pursuit, the young man cannot
+    remove it, cuts off his own finger, throws it away, and escapes.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; includes brief public-domain phrase.
+- id: ev:7
+  type: summary
+  locator: lines 619-624
+  quote_or_summary: Other versions place the meeting in a forest with pigs, repeat
+    the blinding with the red-hot spit, include escape through a garret window, and
+    have the ring guide Tartaro until the young man throws the finger into a precipice
+    or bog, where Tartaro is dashed to pieces or drowned.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The narrative sequence is explicit. Motif labels are descriptive; only the
+    broad trickster-boundary taxonomy reference is assigned, and it should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external parallels or non-passage comparisons were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l566-l624
+  passage_sha256=dc7ae023e8b7bcc0b2d377ede7b75c39fc62c619bea1e978a606ca218de49984
+

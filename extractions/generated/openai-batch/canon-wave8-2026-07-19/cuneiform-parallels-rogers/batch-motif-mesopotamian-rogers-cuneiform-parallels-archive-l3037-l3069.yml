@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l3037-l3069
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE THIRD TABLET / THE FOURTH TABLET / THE FOIRTH TABLET / THE FIFTH TABLET;
+    lines 3037-3069
+  start: '3037'
+  end: '3069'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A divine or unnamed actor establishes stations for the great gods, fixes
+    the stars as zodiacal images, orders the year and its divisions, assigns three
+    stars to each of twelve months, fashions images for the days of the year, and
+    founds the station of Nibir, glossed as Jupiter, to determine bounds. The supplied
+    passage also includes transliterated lines naming Nu-dimmud and Anum, Bel, and
+    Ea.
+  language: English with transliterated Akkadian fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed actor makes stations for the great gods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stars are described as images and are fixed as stars of the Zodiac.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The year is ordained and divided into sections.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: For the twelve months, three stars are fixed for each month.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Images are fashioned for the days of the year.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The station of Nibir is founded to determine bounds, and a note identifies
+    Nibir as the planet Jupiter.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The transliterated fragment includes divine names or divine determinatives
+    associated with Nu-dimmud, Anum, Bel, and Ea.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed maker and ordainer
+  description: The actor referred to as “He” who makes stations, fixes stars, ordains
+    the year, fashions images, and founds Nibir’s station.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: great gods
+  description: Divine group for whom stations are made.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Nu-dimmud
+  description: Divine name appearing in the transliterated fragment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Anum, Bel, and Ea
+  description: Divine names appearing together in the transliterated fragment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: cosmic organizer
+  assigned_to:
+  - fig:1
+  basis: The figure establishes divine stations, fixes stars, orders the year, and
+    founds Nibir’s station.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: recipients of stations
+  assigned_to:
+  - fig:2
+  basis: Stations are made for the great gods.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named deity in transliterated fragment
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The names occur in the supplied transliterated lines, but the immediate narrative
+    role is not fully translated in the passage.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: stars of the Zodiac
+  literal_form: stars fixed as zodiacal images
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ordered year
+  literal_form: year divided into sections, twelve months, and three stars for each
+    month
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: images for the days of the year
+  literal_form: images fashioned for the days of the year
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: station of Nibir / Jupiter
+  literal_form: station of Nibir, glossed as the planet Jupiter, founded to determine
+    bounds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Establishing divine stations and zodiacal stars
+  summary: The unnamed actor makes stations for the great gods and fixes the stars
+    as zodiacal images.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ordering the calendar
+  summary: The unnamed actor ordains the year, marks its sections, assigns three stars
+    to each of twelve months, and fashions images for the days of the year.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Founding Nibir’s station
+  summary: The station of Nibir, identified by a note as Jupiter, is founded to determine
+    bounds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: astral ordering of cosmos and calendar
+  taxonomy_refs: []
+  basis: The passage links the fixing of zodiacal stars with the ordaining of the
+    year, monthly divisions, and images for days.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy list does not include a precise astral-calendar
+    ordering category, so no taxonomy reference is assigned.
+- id: motif:2
+  label: cosmic boundary set by a celestial station
+  taxonomy_refs: []
+  basis: The station of Nibir/Jupiter is founded specifically to determine bounds.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The nature of the bounds is not explained within the supplied passage.
+- id: motif:3
+  label: divine stations assigned within ordered heaven
+  taxonomy_refs: []
+  basis: Stations are made for the great gods, and stars are fixed in an ordered zodiacal
+    arrangement.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not describe the functions of the stations beyond their
+    establishment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3037-3041
+  quote_or_summary: "“He made the stations for the great gods; The stars, their images,
+    as the stars of the Zodiac he fixed.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 3042-3046
+  quote_or_summary: "“He ordained the year, he marked off its sections, For the twelve
+    months he fixed three stars for each.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 3047-3053
+  quote_or_summary: "“After he had fashioned images for the days of the year, He founded
+    the station of Nibir, to determine their bounds;” with note: “Nibir = the planet
+    Jupiter.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 3054-3069
+  quote_or_summary: Transliterated lines include “(ilu) Nu-dim-mud” and “(ilu) Anum
+    (ilu) Bel u (ilu) E-a.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The English lines clearly support extraction of astral and calendrical ordering
+    motifs. The transliterated fragment is only minimally interpreted because no full
+    translation is supplied in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make or support a specific comparison to another text or tradition.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l3037-l3069
+  passage_sha256=025c84b6919172a3d037b1f413662e54f9a0fe2ef4043ee217a797808f3bbdc4
+

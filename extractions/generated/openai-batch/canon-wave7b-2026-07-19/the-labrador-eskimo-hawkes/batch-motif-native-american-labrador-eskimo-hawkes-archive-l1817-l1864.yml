@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l1817-l1864
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: THE  WORK  OF  THE  MORAVIAN  MISSIONS. / CHARACTER  OF  THE  COUNTRY. /
+    ANCIENT    DISTRIBUTION    OF    ESKIMO. / STATISTICS  OF  POPULATION.; lines
+    1817-1864
+  start: '1817'
+  end: '1864'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents demographic estimates for Labrador Eskimo populations,
+    including Moravian mission membership, family counts for the Ungava district and
+    east coast of Hudson Bay, and a rounded total estimate of about 2,500 persons
+    for the Labrador peninsula. It also compares these figures with earlier higher
+    estimates and with an early Moravian estimate of about 3,000.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage reports baptized membership for the entire district at the close
+    of 1912 as 1,216, or 1,250 when including those under discipline.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For the Ungava district and east coast of Hudson Bay, the passage says definite
+    figures were unavailable and uses figures from a Geological Survey Annual Report
+    supplied by Mr. Gray, formerly a clerk at Fort Chimo.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The family count from Cape Chidley to Great Whale river is given as 241 families,
+    divided among four coastal segments.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Using five persons per family, the passage estimates 1,205 persons from Cape
+    Chidley to Great Whale river.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage totals 1,205 persons from Cape Chidley to Great Whale river, 1,250
+    mission Eskimo, 35 Karawalla Eskimo, and 5 scattered survivors south of Hamilton
+    inlet, yielding 2,495 persons, rounded to 2,500 for the Labrador peninsula.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that these numbers appear small compared with early explorers'
+    reports of hundreds and an eighteenth-century estimate of 30,000, but it judges
+    them probably a good criterion and close to an early Moravian estimate of 3,000
+    for the Labrador coast.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Labrador peninsula Eskimo
+  description: The broader population being estimated for the entire Labrador peninsula.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Mission Eskimo
+  description: Eskimo associated with the mission district, counted as 1,250 including
+    those under discipline.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Ungava district and east coast of Hudson Bay Eskimo
+  description: Population represented by family counts from Cape Chidley to Great
+    Whale river.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Mr. Gray
+  description: A person identified as having been a clerk at Fort Chimo for ten years
+    and as the supplier of family-count figures used in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: enumerated population group
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage lists population or family-count estimates for these groups and
+    regions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: source of demographic figures
+  assigned_to:
+  - fig:4
+  basis: The passage states that Mr. Gray supplied the family estimates published
+    in the Geological Survey Annual Report.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Compilation of Labrador Eskimo population estimates
+  summary: The passage compiles mission membership data, published family-count estimates,
+    and regional totals to arrive at a rounded population estimate for Labrador peninsula
+    Eskimo, while noting disagreement with larger earlier estimates.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1819-1824
+  quote_or_summary: '"Total membership 1,216; including those under discipline 1,250."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1826-1835
+  quote_or_summary: For Ungava and the east coast of Hudson Bay, no definite figures
+    are available; the passage relies on figures from the Geological Survey Annual
+    Report, supplied by Mr. Gray, a former Fort Chimo clerk.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1836-1845
+  quote_or_summary: The passage lists 51, 30, 80, and 80 families in four coastal
+    segments, totaling 241 families from Cape Chidley to Great Whale river.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1846-1850
+  quote_or_summary: Taking five persons per family, described as a high average, the
+    population from Cape Chidley to Great Whale river is estimated at 1,205 persons.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1850-1859
+  quote_or_summary: The passage combines 1,205 persons from Cape Chidley to Great
+    Whale river, 1,250 mission Eskimo, 35 Karawalla Eskimo, and 5 scattered survivors
+    south of Hamilton inlet, for 2,495, rounded to 2,500 total Eskimo for the Labrador
+    peninsula.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1860-1864
+  quote_or_summary: The passage says the 2,500 figure seems small compared with early
+    explorers' reports of hundreds and a 30,000 estimate, but considers it probably
+    reliable and close to an early Moravian estimate of 3,000.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is demographic and historical rather than mythological; no symbolic
+    or narrative motif candidates are supported by the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference is supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l1817-l1864
+  passage_sha256=2b5c262ad42ff4e3b5cdeafdf9e7b9f858dd1dc390b8738423b0a12b4bd7815e
+

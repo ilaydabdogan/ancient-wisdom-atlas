@@ -1,0 +1,179 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l6630-l6642
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: PAG THE ILUDSON BAY ESKIMO, / HUDSON BAY ESKIMO, / STORY-TELLING AND FOLK
+    LORE, / THE HUDSON BAY ESKIMO.; lines 6630-6642
+  start: '6630'
+  end: '6642'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes health conditions attributed to cycles of dry-meat
+    subsistence followed by sudden deer capture and overeating, claims that gluttony
+    and prolonged tent dwelling produce many illnesses, and notes frequent ulcers
+    or scrofulous complications along with stoic behavior during illness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Long abstinence from fresh food with dry meat as the only subsistence is said
+    to be often broken by sudden capture of deer.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sudden capture of deer is said to provide an opportunity for gorging until
+    digestive weakness and serious complications arise.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The author states that gluttony probably directly produces about half of the
+    illnesses occurring among the people described.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Insufficient clothing is said not to apparently influence health because the
+    people seem indifferent to exposure.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Long-continued dwelling in tents is presented as a probable cause of nearly
+    all other illnesses.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Indolent ulcers and scrofulous complications are described as frequent but
+    only rarely preventing ordinary occupations.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: During illness the people are described as stolid and as appearing to suffer
+    intense pain without visible muscular twitching.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: people described in the passage
+  description: The human group discussed in relation to diet, exposure, tent dwelling,
+    illness, and behavior during illness.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: observed community
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly refers to the health, diet, clothing, housing, and
+    illnesses of the people being described.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: illness sufferers
+  assigned_to:
+  - fig:1
+  basis: The passage describes their illnesses and conduct during illness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Dietary deprivation followed by deer capture and overeating
+  summary: After a long period without fresh food and with only dry meat, sudden deer
+    capture leads to gorging, which is linked to digestive weakness and serious complications.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Illness conditions and response
+  summary: The passage attributes many illnesses to gluttony or prolonged tent dwelling,
+    notes frequent ulcers and scrofulous complications, and describes stoic conduct
+    during illness.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6630-6634
+  quote_or_summary: Abstinence from fresh food and reliance on dry meat are often
+    broken by sudden capture of deer, which creates an opportunity for gorging and
+    digestive complications.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: 6634-6636
+  quote_or_summary: The author states that gluttony probably directly produces about
+    half of the illnesses among the people described.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: 6636-6639
+  quote_or_summary: Insufficient clothing is said not to apparently affect health
+    because of indifference to exposure, while long dwelling in tents is said to induce
+    nearly all other ills.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: 6640-6642
+  quote_or_summary: Indolent ulcers and scrofulous complications are frequent, but
+    only a few cases prevent usual occupations.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: summary
+  locator: '6642'
+  quote_or_summary: During illness the people are described as stolid and as appearing
+    to suffer intense pain without visible muscular twitching.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is ethnographic and medical rather than mythic or narrative folklore;
+    no supported mythology motif, taxonomy symbol, or comparison claim was extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs or comparison claims are recorded because the passage itself does not support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l6630-l6642
+  passage_sha256=ce625bb21be552a3a36ccc197a37ce63520090eb8b5096672e41b7878033a69f
+

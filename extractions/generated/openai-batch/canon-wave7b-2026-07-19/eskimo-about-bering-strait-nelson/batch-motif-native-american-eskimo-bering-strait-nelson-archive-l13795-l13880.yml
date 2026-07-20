@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l13795-l13880
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: ICE    CREEPERS / BOATS / BUREAU   OF  AMERICAN    ETHNOLOGY / EIGHTEENTH    ANNUAL    REPORT      PL.    LXXVIII;
+    lines 13795-13880
+  start: '13795'
+  end: '13880'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: represent the eye of some mythological animal
+  summary: The passage gives a technical description of kaiak frame construction,
+    skin covering, deck rigging, spear rests, and regional forms from Nunivak Island,
+    St. Michael, and Norton Sound. It notes that on some Nunivak kaiaks a bow opening
+    is made to represent the eye of an unnamed mythological animal, with the mouth
+    painted in black on the outer covering.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The kaiak frame is described as lengthwise wooden strips joined at bow and
+    stern, connected by curved ribs fastened with rawhide cords, with a rail supporting
+    the deck and circular manhole.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boat surface is covered with hairless tanned sealskins sewn with sinew;
+    seams are oiled or coated with reindeer tallow, and the boat is oiled before being
+    put in water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Rawhide cords cross the deck before and behind the manhole, and spur-like
+    pieces of deerhorn, ivory, or bone form rests for the paddle or hunting spears.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage introduces a sequence of kaiak forms used from Nunivak Island
+    along the coast nearly to Point Barrow.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Nunivak Island kaiaks are described as heavily made, with strong, stout framework
+    for stormy seas; a similar form is said to be used on the adjacent mainland coast.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: On some Nunivak kaiaks, a large round bow opening is made to represent the
+    eye of an unnamed mythological animal, while the mouth is painted in black on
+    the outside covering.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Loops and crosscords near the stern secure spear shafts whose points rest
+    under a crosscord, while the cross section is slightly rounded along the keel.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A St. Michael kaiak is measured, and Norton Sound kaiaks are described as
+    lighter and narrower than Nunivak examples while retaining essentially the same
+    framework plan with bow and stern slot-like openings.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed mythological animal
+  description: An unspecified mythological animal represented on some kaiaks by a
+    bow opening as its eye and a black painted mouth on the outside covering.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: represented mythological animal
+  assigned_to:
+  - fig:1
+  basis: The text states that on some kaiaks the bow opening represents the eye of
+    a mythological animal, with its mouth painted outside.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: kaiak vessel
+  literal_form: Wood-framed, sealskin-covered kaiak with manhole, deck, cords, rests,
+    and regional variants.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: animal eye opening
+  literal_form: Large round opening at the bow, on some kaiaks made to represent the
+    eye of a mythological animal.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: painted black mouth
+  literal_form: Black mouth painted on the outside of the kaiak covering, associated
+    with the mythological animal representation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: stormy seas
+  literal_form: Stormy seas around Nunivak Island, given as the reason for strong,
+    stout kaiak construction.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Kaiak frame and covering construction
+  summary: The passage describes how a kaiak frame is assembled from wood, ribs, rawhide
+    cords, rails, and a manhole, then covered with sewn sealskin and oiled.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Deck rigging for paddle and spears
+  summary: Rawhide cords and spur-like rests on the deck provide places for paddles
+    or hunting spears.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Nunivak kaiak form and mythological animal marking
+  summary: Nunivak kaiaks are described as strongly built for stormy seas; some have
+    a bow opening representing a mythological animal's eye and a black painted mouth
+    on the covering.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: St. Michael and Norton Sound kaiak variants
+  summary: The passage compares St. Michael and Norton Sound kaiaks with Nunivak examples,
+    noting measurements, lighter and narrower construction, similar framework, and
+    slot-like bow and stern openings.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: mythological animal face on vessel
+  taxonomy_refs: []
+  basis: Some kaiaks have a bow opening explicitly said to represent a mythological
+    animal's eye, with the animal's mouth painted in black on the outside covering.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The animal is unnamed, and the passage gives no narrative, ritual function,
+    or broader mythic explanation.
+- id: motif:2
+  label: regional vessel-form adaptation
+  taxonomy_refs: []
+  basis: The passage presents a sequence of kaiak forms by locality and connects the
+    heavy Nunivak build with stormy seas, while noting lighter and narrower Norton
+    Sound forms.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is primarily a technical ethnographic pattern rather than a mythological
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: Nunivak Island kaiaks and adjacent mainland coast kaiaks are described as
+    having a similar form.
+  claim_level: visual_similarity
+  target: adjacent mainland coast kaiak form
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The adjacent mainland form is not described in detail in this passage.
+- id: claim:2
+  claim: Norton Sound kaiaks are described as serving the same general vessel function
+    and retaining essentially the same framework plan as Nunivak kaiaks, while differing
+    in weight, width, and bow-stern slot openings.
+  claim_level: same_function
+  target: Nunivak Island kaiak framework pattern
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The comparison is internal to regional boat construction and does not
+    establish a shared mythological meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13795-13880; frame construction paragraph
+  quote_or_summary: The kaiak frame uses lengthwise wooden strips, curved ribs fastened
+    with rawhide, a rail and circular manhole, and is covered with sewn, oiled sealskin.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13795-13880; deck cord and spear-rest paragraph
+  quote_or_summary: Rawhide cords cross the deck before and behind the manhole; deerhorn,
+    ivory, or bone spur-like rests hold paddles or hunting spears.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13795-13880; introduction to regional descriptions
+  quote_or_summary: The passage states that descriptions begin with Nunivak Island
+    kaiaks and proceed along the coast nearly to Point Barrow.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13795-13880; Nunivak Island kaiak description
+  quote_or_summary: Nunivak Island kaiaks are measured and described as heavily made
+    with strong framework to withstand stormy seas; a similar form is used on the
+    adjacent mainland coast.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 13795-13880; Nunivak manhole and bow description
+  quote_or_summary: The bow opening on some kaiaks is made to “represent the eye of
+    some mythological animal,” and the animal's mouth is painted in black on the outside
+    covering; nearby details describe spear-securing loops and the hull cross section.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: lines 13795-13880; St. Michael and Norton Sound description
+  quote_or_summary: A St. Michael kaiak is measured; Norton Sound kaiaks are lighter
+    and narrower than Nunivak examples but essentially similar in framework plan,
+    with projecting points and slot-like openings at bow and stern.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The material-culture details are explicit. Mythological content is limited
+    to an unnamed animal representation on some kaiaks; no broader mythic narrative
+    is provided.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available motif-family taxonomy reference was applied because the passage describes kaiaks as ordinary vessels and does not support flood, ark, shapeshifter, serpent, or other listed myth-family classification.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l13795-l13880
+  passage_sha256=45120ebafc564bc59d606f87a01ee78c78c32f18926179ee8ca74a565cc1385c
+

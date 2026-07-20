@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l2531-l2570
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: PRIMITIVE INDIAN LIFE / PRIMITIVE INDIAN LIFE / PRIMITIVE INDIAN LIFE / PRIMITIVE
+    INDIAN LIFE; lines 2531-2570
+  start: '2531'
+  end: '2570'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes nocturnal life in an Indian village or toldo: a
+    man wakes, rattles a gourd and chants to scare off a disturbing spirit; snakes,
+    a maned wolf, insects, and disturbed livestock create dangers and discomforts
+    at night.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In the quiet of night, a man wakes with a cry, rattles a gourd, chants, and
+    seeks to scare off a spirit that has disturbed his sleep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A venomous snake may enter among sleepers, and people have sometimes died
+    from the bites of such intruders.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A solitary maned wolf of the Chaco may come close enough to startle a newly
+    awakened sleeper.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Night discomfort in the hut is described as coming especially from small pests
+    such as fleas, mosquitoes, ticks, and sandflies.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: A close calico mosquito-net can keep out very small sandflies, while an ordinary
+    open-mesh net would not; the passage says the Indian in primitive life does not
+    possess such a net.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Sheep and goats may stampede among booths after being irritated by insects
+    or alarmed by fighting dogs.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: unnamed man in the village
+  description: A man who wakes at night, cries out, rattles his gourd, and chants
+    to scare off a spirit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: disturbing spirit
+  description: A spirit said to have disturbed the man's slumbers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: venomous snake
+  description: A snake that may intrude among sleepers and whose bite may be fatal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: maned wolf of the Chaco
+  description: A great solitary maned wolf that may come close to sleepers despite
+    the dogs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: traveller or sleeper
+  description: A person trying to sleep in the toldo and suffering from insects and
+    heat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: small pests
+  description: Fleas, mosquitoes, ticks, and sandflies that disturb rest or cause
+    sores and irritation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: sheep and goats
+  description: Livestock that rush in and out among the booths when irritated by insects
+    or alarmed by dogs.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: dogs
+  description: Dogs whose fighting may alarm sheep and goats.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: waking apotropaic actor
+  assigned_to:
+  - fig:1
+  basis: The man wakes, cries out, rattles a gourd, and chants in order to scare off
+    a spirit.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sleep-disturbing spirit
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the spirit as the cause of disturbed slumbers.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: nocturnal animal intruder
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The snake enters among sleepers, and the wolf ventures close to them at night.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: disturbed sleeper
+  assigned_to:
+  - fig:5
+  basis: The traveller or sleeper is described as restless or aroused in the night
+    setting.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: irritating pest
+  assigned_to:
+  - fig:6
+  basis: The insects are described as swarming, plaguing, causing sores, or irritating
+    sleepers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: startled livestock
+  assigned_to:
+  - fig:7
+  basis: The sheep and goats rush among the booths after irritation or alarm.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: alarm-causing animals
+  assigned_to:
+  - fig:8
+  basis: The dogs' fighting is named as one possible cause of the livestock stampede.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: gourd rattle
+  literal_form: gourd used as a rattle during night chanting
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: venomous snake
+  literal_form: venomous snake intruding among sleepers
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: night toldo
+  literal_form: Indian hut or village sleeping-place at night
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: mosquito-net
+  literal_form: low close calico net used against minute insects
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Night waking and spirit-scaring
+  summary: A man wakes suddenly in the silent night, cries out, rattles his gourd,
+    chants, and attempts to scare away the spirit that disturbed him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animal dangers near sleepers
+  summary: Nocturnal sleepers may be threatened by venomous snakes entering the sleeping
+    area or startled by a maned wolf approaching in dim light.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Insect discomfort in the toldo
+  summary: Fleas, mosquitoes, ticks, and sandflies make sleeping difficult; close
+    calico mosquito-nets are described as effective against the smallest insects but
+    absent from the described primitive life.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Stampede among booths
+  summary: Sheep and goats rush in and out among the booths when irritated by insects
+    or frightened by dog fights.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Nocturnal spirit disturbance repelled by sound and chant
+  taxonomy_refs: []
+  basis: The passage states that a man wakes after a spirit disturbs his sleep and
+    uses a gourd rattle and chanting to scare it off.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is ethnographic description rather than a myth narrative;
+    the interpretation is limited to the described practice.
+- id: motif:2
+  label: Dangerous serpent intruding into the sleeping place
+  taxonomy_refs:
+  - serpent
+  basis: The passage describes a venomous snake entering among sleepers and sometimes
+    causing death by bite.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The snake is presented as a practical nocturnal hazard, not explicitly
+    as a mythic serpent figure.
+- id: motif:3
+  label: Night camp as a zone of unseen dangers and disturbances
+  taxonomy_refs: []
+  basis: The passage presents night in the village or hut as disturbed by spirits,
+    snakes, wolves, insects, and startled animals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: low
+  cautions: This is a broad environmental pattern drawn from descriptive observations,
+    not a named or explicit motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2531-2536
+  quote_or_summary: A man wakes with a cry, rattles his gourd, chants, and seeks to
+    scare off the spirit that disturbed his sleep.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: 2537-2540
+  quote_or_summary: A venomous snake may intrude among sleepers, and some Indians
+    have died from its bite.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2540-2544
+  quote_or_summary: A great solitary maned wolf of the Chaco may venture close to
+    sleepers and startle someone who wakes in the dim light.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2545-2553
+  quote_or_summary: The passage says the greatest night discomforts in a toldo are
+    smaller pests, especially fleas, which can swarm and prevent rest.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2554-2560
+  quote_or_summary: Mosquitoes are called a plague; ticks can cause painful sores
+    lasting months; tiny sandflies are described as very irritating.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2560-2567
+  quote_or_summary: Only close calico mosquito-nets keep out minute insects; sleeping
+    under such a net in a hot climate is uncomfortable, and the passage says the Indian
+    in primitive life does not possess it.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2567-2570
+  quote_or_summary: Sheep and goats may stampede among the booths when irritated by
+    insects or alarmed by fighting dogs.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the passage. Motif candidates are
+    cautious because the passage is descriptive ethnography rather than a mythic narrative.
+    No comparison claims are made because the passage itself does not support a specific
+    cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external taxonomy IDs beyond the supplied available references were used. Comparison claims were left empty because the passage does not make or support a direct comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l2531-l2570
+  passage_sha256=d3d48f2d048b32b708974dc58871d5b08044e91c3d96c7a249d3a28006428ebc
+

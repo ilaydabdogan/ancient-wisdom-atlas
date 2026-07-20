@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l99280-l99288
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITEL O / ARANYAKA II / KEITH LP / See Aranyaka, I, 4, 2.; lines 99280-99288
+  start: '99280'
+  end: '99288'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a scholarly note discussing interpretations of a sentence
+    about Brahman, the individual self, Hiranyagarbha, Visnu, prana, a syllable, and
+    the Mahavrata ritual day. It reports views attributed to Sayana and Anandatirtha
+    and mentions a chariot of Hiranyagarbha.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Brahman includes the individual self.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sayana is reported as saying that the referent is Hiranyagarbha and as quoting
+    the Nrsimhottaratapaniya Upanisad.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Anandatirtha is reported as explaining one term as the female form of Visnu
+    and another as the male form.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the sentence asserts that an unnamed subject obtains Brahman
+    or prana by means of Brahman or prana.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Brahman or prana are said to be revealed in the syllable and in the ritual
+    of the Mahavrata day.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sayana is reported as explaining something as a chariot of Hiranyagarbha.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sayana
+  description: A commentator whose explanations are reported in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Anandatirtha
+  description: A commentator whose explanations are reported in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hiranyagarbha
+  description: A figure or referent mentioned in interpretations attributed to Sayana.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Visnu
+  description: A divine figure whose female and male forms are mentioned in an interpretation
+    attributed to Anandatirtha.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Unnamed subject
+  description: An unnamed subject said to obtain Brahman or prana by means of Brahman
+    or prana.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: reported commentator
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage explicitly says Sayana and Anandatirtha explain or render terms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: interpreted referent
+  assigned_to:
+  - fig:3
+  basis: Sayana is reported as saying the passage refers to Hiranyagarbha, and a chariot
+    of Hiranyagarbha is also mentioned.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: divine figure with gendered forms in commentary
+  assigned_to:
+  - fig:4
+  basis: Anandatirtha explains terms as female and male forms of Visnu.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient of Brahman or prana
+  assigned_to:
+  - fig:5
+  basis: The passage says an unnamed 'he' obtains Brahman or prana.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Brahman
+  literal_form: Brahman, printed in the passage with OCR variation as 'érahman' and
+    'drahman'.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Individual self
+  literal_form: The individual self included in Brahman.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Prana
+  literal_form: Prana, printed in the passage with OCR variation as 'prima' in one
+    place.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Syllable
+  literal_form: The syllable in which Brahman or prana is said to be revealed.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Mahavrata ritual day
+  literal_form: The ritual of the Mahavrata day in which Brahman or prana is said
+    to be revealed.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Chariot of Hiranyagarbha
+  literal_form: A chariot of Hiranyagarbha in Sayana's explanation.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Commentarial identification of Brahman and referent
+  summary: The note states that Brahman includes the individual self and reports Sayana's
+    identification of the referent with Hiranyagarbha, supported by a quoted Upanisadic
+    source.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Anandatirtha's gendered Visnu interpretation
+  summary: The note reports Anandatirtha's interpretation of terms as female and male
+    forms of Visnu.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Obtaining Brahman or prana through revealed means
+  summary: The passage says that the sentence asserts an unnamed subject obtains Brahman
+    or prana by means of Brahman or prana, with these being revealed in a syllable
+    and the Mahavrata-day ritual.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Chariot explanation
+  summary: The note reports Sayana's explanation of something as a chariot of Hiranyagarbha.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Inclusion of the individual self in Brahman
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage explicitly states that Brahman includes the individual self,
+    suggesting a union or inclusion pattern at the level of doctrine.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is a scholarly note rather than a narrative myth; it states
+    inclusion but does not describe annihilation, merger, or a full mythic sequence.
+- id: motif:2
+  label: Sacred knowledge revealed in syllable and ritual
+  taxonomy_refs:
+  - wisdom
+  basis: Brahman or prana are said to be revealed in the syllable and the Mahavrata-day
+    ritual, and the note describes obtaining Brahman or prana through these means.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a compressed doctrinal and ritual interpretation; it
+    does not narrate an initiatory episode or name the syllable.
+comparison_claims:
+- id: claim:1
+  claim: The passage links Sayana's interpretation of Hiranyagarbha to a quotation
+    from the Nrsimhottaratapaniya Upanisad.
+  claim_level: same_function
+  target: Nrsimhottaratapaniya Upanisad V as cited in the passage
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The quoted line is fragmentary and affected by OCR corruption; the
+    passage reports a citation but does not provide enough context for a stronger
+    motif comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 99280-99282
+  quote_or_summary: '"Brahman includes the individual self"; Sayana says it refers
+    to Hiranyagarbha and quotes the Nrsimhottaratapaniya Upanisad.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 99284-99285
+  quote_or_summary: '"Anandatirtha explains" one term "as the female form of Visnu"
+    and another "as the male."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 99285-99287
+  quote_or_summary: The passage says the sentence asserts that he obtains Brahman
+    or prana by means of Brahman or prana, as both are revealed in the syllable and
+    the ritual of the Mahavrata day.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: line 99288
+  quote_or_summary: '"Sayana explains this as a chariot of Hiranyagarbha."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt used for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a dense, OCR-corrupted scholarly note rather than a narrative
+    passage. Literal entities and interpretive claims are extractable, but motif identification
+    is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported taxonomy symbol references were assigned. Available motif taxonomy was used only where the passage minimally supported a cautious candidate.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l99280-l99288
+  passage_sha256=62172b24a481faa262e902fe89ec03b1c70deca4203dd42a8a5dd30d71003d0c
+

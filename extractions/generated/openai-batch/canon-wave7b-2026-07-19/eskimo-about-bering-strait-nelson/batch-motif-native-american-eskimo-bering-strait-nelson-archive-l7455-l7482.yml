@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l7455-l7482
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: BUREAU   OF  AMERICAN    ETHNOLOGY / EIGHTEENTH   ANNUAL   REPORT      PL.    XLVI
+    / BODKINS      'ONE-THIRD) / THE    ESKIMO    ABOUT    BERING    STRAIT; lines
+    7455-7482
+  start: '7455'
+  end: '7482'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a sinew spinner from St. Lawrence Island, notes that
+    such implements were not seen elsewhere in the visited region, and suggests the
+    idea may have come from whaling ships. It then describes tools used for dressing
+    and tanning skins, especially scrapers and polishers, with regional variation
+    in scraper handle forms around Kuskokwim, Norton Sound, Bering Strait, and Kotzebue
+    Sound.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author reports that no implements of this kind were seen among Eskimo
+    elsewhere in the visited region.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the St. Lawrence islanders may have obtained the idea
+    for the implement from whaling ships that frequently stopped along their shore.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A figure caption identifies a sinew spinner from St. Lawrence Island.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Several kinds of tools are described as being used for dressing and tanning
+    skins.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Scrapers are described as used to clean fat and water from the surface of
+    skins, while polishers are used to soften the hide.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Long-handled stone-blade scrapers are described as prevailing from the lower
+    Kuskokwim to northern Norton Sound and the coast of Bering Strait.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Short-handled scrapers are described as frequent on the coast and islands
+    of Bering Strait, and as the standard type from Kotzebue Sound northward, where
+    handles are made to fit the hand and elaborately carved.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: St. Lawrence islanders
+  description: A group named as possible recipients of the idea for the implement.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Whaling ships
+  description: Ships said to stop frequently along the St. Lawrence Island shore and
+    suggested as a possible source for the implement idea.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: possible technology recipients
+  assigned_to:
+  - fig:1
+  basis: The passage says it is possible that St. Lawrence islanders obtained the
+    idea from whaling ships.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: possible technology source
+  assigned_to:
+  - fig:2
+  basis: The passage identifies whaling ships as the possible source for the idea
+    of the implement.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sinew spinner
+  literal_form: Sinew spinner from St. Lawrence Island
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: skin scraper
+  literal_form: Scraper used for cleaning fat and water from skins
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: polisher
+  literal_form: Polisher used for softening hide
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: long-handled stone-blade scraper
+  literal_form: Stone-blade scraper with a long handle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: short-handled scraper
+  literal_form: Scraper with a short handle, sometimes made to fit the hand and elaborately
+    carved
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Possible origin of the St. Lawrence Island sinew spinner
+  summary: The passage notes the absence of similar implements elsewhere in the visited
+    region and suggests that St. Lawrence islanders may have obtained the idea from
+    visiting whaling ships.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Description and distribution of skin-dressing tools
+  summary: The passage describes scrapers and polishers used in preparing skins and
+    summarizes regional differences in scraper types from the lower Kuskokwim through
+    Bering Strait and northward to Kotzebue Sound.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7455-7482
+  quote_or_summary: No implements of this kind were reported among Eskimo elsewhere
+    in the visited region.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 7455-7482
+  quote_or_summary: The author says it is possible that St. Lawrence islanders obtained
+    the idea from whaling ships that frequently stopped along their shore.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: 7455-7482
+  quote_or_summary: "“FIG. 31—Sinew spinner from St Lawrence island.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 7455-7482
+  quote_or_summary: For dressing and tanning skins, the passage identifies scrapers
+    for removing fat and water and polishers for softening hide.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 7455-7482
+  quote_or_summary: 'The passage describes regional scraper types: long-handled stone-blade
+    scrapers around lower Kuskokwim, Norton Sound, and Bering Strait; short-handled
+    scrapers on Bering Strait coasts and islands; and carved hand-fitting short-handled
+    forms north of Kotzebue Sound.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is ethnographic and material-culture focused, with no explicit
+    mythic narrative or available taxonomy motif supported by the text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythology motifs or comparative claims were extracted because the passage describes tools and possible technological borrowing rather than a mythic episode.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l7455-l7482
+  passage_sha256=b192587cd8f95d273ed37e8e6246a91865a8f7455f24317064101c962d2593e7
+

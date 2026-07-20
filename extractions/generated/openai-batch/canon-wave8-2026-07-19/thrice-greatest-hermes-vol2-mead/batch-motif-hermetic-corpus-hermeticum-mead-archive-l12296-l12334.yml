@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l12296-l12334
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: COMMENTAEY / OF ASCLEPIUS TO THE KING 287 / COEPUS HEKMETICUM (XVIII.) /
+    THE ENCOMIUM OF KINGS 289; lines 12296-12334
+  start: '12296'
+  end: '12334'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage states that God does not grow weary. It then presents a musical-contest
+    analogy: trumpeters, flautists, pipe, and plectrum perform a composition; if something
+    goes wrong, blame is not placed on the music-maker''s inspiration, but on the
+    defective instrument that hinders excellent performers and deprives listeners
+    of the song''s sweetness. The analogy is then introduced as applying to the speaker''s
+    own case.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that with God there is no growing weary.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A musician is imagined as entering the highest contest of his art.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Trumpeters render the same phrase of the composer's skill, and flautists play
+    sweet notes of the melody on their instruments.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The music is completed with pipe and plectrum.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: If something goes wrong in the performance, the passage says that blame is
+    not laid on the inspiration of the music-maker.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Respect is rendered to the music-maker, while blame is assigned to the falseness
+    of the instrument.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The false instrument is described as hindering excellent performers and robbing
+    listeners of the sweetness of the song.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: 'The passage introduces the musical example with an explicit transition: ''In
+    like way also, in our case''.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Named as one who does not grow weary.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: musician / music-maker
+  description: A musician entering the highest contest of his art; the music-maker
+    is not blamed for a defective performance and is given respect.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: trumpeters
+  description: Performers who render the same phrase of the composer's skill.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: flautists
+  description: Performers who play the sweet notes of the melody on their instruments.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: listeners
+  description: Those who hear the music and may be robbed of the sweetness of the
+    song by a false instrument.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: unwearied divine figure
+  assigned_to:
+  - fig:1
+  basis: The passage says there is no growing weary with God.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: respected source of music
+  assigned_to:
+  - fig:2
+  basis: The passage says the music-maker's inspiration is not blamed and that respect
+    is rendered to him.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: performer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Trumpeters and flautists are described as playing or rendering parts of the
+    music.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: audience
+  assigned_to:
+  - fig:5
+  basis: Listeners are mentioned as those deprived of the sweetness of the song when
+    the instrument is false.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: musical instruments
+  literal_form: trumpets, flutes, pipe, plectrum, and the false instrument
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: false instrument
+  literal_form: an instrument whose falseness hinders performers and lessens the song
+    for listeners
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: sweetness of the song
+  literal_form: the sweetness of the melody or song heard by listeners
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Statement on divine weariness
+  summary: The passage states that God does not grow weary.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Musical contest analogy
+  summary: A musician and multiple performers play a composition with several instruments;
+    if the result is faulty, the fault is attributed to the instrument rather than
+    to the music-maker's inspiration.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Application of analogy
+  summary: The text signals that the musical example is to be applied to the speaker's
+    own case, though the provided passage ends before the application is fully developed.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: unwearied divine source
+  taxonomy_refs: []
+  basis: The passage explicitly says God does not grow weary and then uses an analogy
+    in which the originating music-maker's inspiration is not blamed for a faulty
+    outcome.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The relationship between God and the music-maker analogy is suggested
+    by sequence but not fully explained in the provided excerpt.
+- id: motif:2
+  label: faulty instrument as impediment to perfect art
+  taxonomy_refs: []
+  basis: The passage locates failure in the falseness of the instrument, which hinders
+    excellent performers and deprives listeners of the song's sweetness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local rhetorical motif in the passage; no supplied taxonomy
+    family directly matches it.
+- id: motif:3
+  label: instruction through musical analogy
+  taxonomy_refs:
+  - wisdom
+  basis: The passage teaches a distinction between the music-maker's inspiration and
+    the defective instrument through an extended analogy, then marks the analogy as
+    applicable to 'our case'.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The 'wisdom' taxonomy reference is broad; the excerpt does not name wisdom
+    directly.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the passage, the musical-contest scene functions as an analogy for
+    the speaker''s own case: the source of the music is not blamed when the instrument
+    is defective.'
+  claim_level: same_function
+  target: musical performance as explanatory analogy for fault and source
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt ends just after the transition to the application, so the
+    full target of the analogy is not present.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12296-12300
+  quote_or_summary: The passage states that God is never wearied and that with God
+    there is no growing weary.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 12301-12311
+  quote_or_summary: A musician entering the highest contest of his art is described;
+    trumpeters, flautists, pipe, and plectrum perform the music of a piece.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 12311-12320
+  quote_or_summary: If something goes wrong, blame is not placed on the inspiration
+    of the music-maker; respect is given to him, and blame is assigned to the falseness
+    of the instrument.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 12320-12325
+  quote_or_summary: The defective instrument is said to hinder the most excellent
+    performers and to rob listeners of the sweetness of the song.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 12326-12327
+  quote_or_summary: '"In like way also, in our case"'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal musical analogy is clear, but the excerpt is truncated immediately
+    after the transition to its application, limiting interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs apply directly to the musical imagery in this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l12296-l12334
+  passage_sha256=055ea56db8a97277ee82230f7cfbab2628c2c5a4b82d5b5af9655e727c423322
+

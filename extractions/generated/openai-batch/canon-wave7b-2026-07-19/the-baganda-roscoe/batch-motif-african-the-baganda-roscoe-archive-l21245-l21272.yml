@@ -1,0 +1,563 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l21245-l21272
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: THE   BAGANDA / CHAP. / XII  THE    KEEPING   OF   COWS,  ETC.  423 / XII  THE    KEEPING   OF   COWS,  ETC.  425;
+    lines 21245-21272
+  start: '21245'
+  end: '21272'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists customs and beliefs concerning dogs and cats: puppy-litter
+    practices, feeding a pregnant dog with white ants, a rite involving the name of
+    a recently dead person to make puppies open their eyes, hospitality rules for
+    a brother-in-law''s dog, a taboo around touching a dead dog because of its ghost,
+    feeding hunting dogs after success, the vocalization of native dogs, and color-based
+    domestication rules for cats.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When a female dog littered, the owner destroyed one puppy because he believed
+    the remaining puppies would not thrive unless this was done.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before puppies were born, the dog was fed white ants, which was believed to
+    make the puppies grow strong.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After puppies were born, it was believed they would not see until a friend
+    of the owner came in and mentioned the name of a recently dead person; after this,
+    the puppies would immediately open their eyes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When a brother-in-law visited with his dog, the host's wife cooked special
+    food for the dog.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: During the brother-in-law's visit, no family member was to strike the dog,
+    because doing so was regarded as equivalent to striking the brother-in-law.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If a man's dog died in the house, his wife did not touch it because she feared
+    its ghost and called her husband to remove it.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Dogs were fed after hunting; when the hunt succeeded, they received entrails
+    from killed animals and other meat scraps.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Native dogs were described as unable to bark and as making only a yelping
+    howl.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Cats were little known; only black and white cats were domesticated, while
+    other kinds were killed because they were considered wild and caught fowls.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Domestic dogs
+  description: Dogs appear as littering animals, visiting animals accompanying a brother-in-law,
+    dead animals feared for their ghost, and hunting animals fed after the hunt.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Puppies
+  description: Newborn puppies are affected by practices concerning destruction of
+    one puppy, prenatal feeding of the dog, and a naming act that opens their eyes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Dog owner or householder
+  description: The owner destroys one puppy from a litter, and the husband is called
+    to remove a dog that died in the house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: Friend of the owner
+  description: A friend of the owner comes in and mentions the name of a person who
+    died recently.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Recently deceased person
+  description: A recently deceased person is present through the speaking of that
+    person's name in connection with puppies opening their eyes.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Brother-in-law
+  description: A visiting brother-in-law brings his dog, and the dog's treatment is
+    understood as bearing on his welcome and honor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Wife or host's wife
+  description: The wife cooks special food for the brother-in-law's dog and for dogs
+    after hunting, but does not touch a dead dog in the house because she fears its
+    ghost.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: Host's family members
+  description: Family members are prohibited from striking the brother-in-law's dog
+    during the visit.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Cats
+  description: Cats are described as little known; black and white cats are domesticated,
+    while other cats are killed as wild fowl-catchers.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: Domestic and hunting animal subject to care and taboo
+  assigned_to:
+  - fig:1
+  basis: Dogs are fed, protected from being struck in a social-visit setting, feared
+    as ghosts when dead, and fed after hunting.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Newborn animal offspring affected by prescribed acts
+  assigned_to:
+  - fig:2
+  basis: Puppies' thriving, strength, and sight are linked to acts performed by humans
+    around birth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Animal owner or remover of dead dog
+  assigned_to:
+  - fig:3
+  basis: The owner destroys one puppy, and the husband is called to take away a dead
+    dog.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: Affinal visitor whose welcome is mediated through his dog
+  assigned_to:
+  - fig:6
+  basis: The brother-in-law's dog receives special food, and mistreating the dog is
+    treated as mistreating the brother-in-law.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: Animal surrogate for an affinal guest
+  assigned_to:
+  - fig:1
+  basis: The visiting dog must be fed specially and must not be struck, because striking
+    it is equivalent to striking the brother-in-law.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: Food preparer and taboo-observant handler
+  assigned_to:
+  - fig:7
+  basis: The wife cooks special food for dogs and avoids touching a dead dog because
+    of fear of its ghost.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:7
+  label: Speaker in the eye-opening rite
+  assigned_to:
+  - fig:4
+  basis: A friend comes in and mentions the name of a recently dead person before
+    the puppies open their eyes.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: Dead person invoked by name
+  assigned_to:
+  - fig:5
+  basis: The passage links the spoken name of a recently deceased person to puppies
+    opening their eyes.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: Persons bound by prohibition against striking the visiting dog
+  assigned_to:
+  - fig:8
+  basis: No member of the family may strike the brother-in-law's dog during the visit.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: Animal at domestic-wild boundary
+  assigned_to:
+  - fig:9
+  basis: Only black and white cats are domesticated; other kinds are killed as wild
+    and as fowl-catchers.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Dog
+  literal_form: Domestic dog, including bitch, visiting dog, dead dog, and hunting
+    dog
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: Puppy litter and destroyed puppy
+  literal_form: A litter of puppies from which one puppy is destroyed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: White ants as strengthening food
+  literal_form: White ants fed to the dog before puppies are born
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Spoken name of a recently deceased person
+  literal_form: A friend's mention of the name of a person who had died recently
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Special food for the visiting dog
+  literal_form: Food cooked by the host's wife for the brother-in-law's dog
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Ghost of a dead dog
+  literal_form: The feared ghost of a dog that died in the house
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Entrails and meat scraps
+  literal_form: Entrails of hunted animals and other scraps of meat given to dogs
+    after a successful hunt
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Black-and-white cat distinction
+  literal_form: Black and white cats domesticated; other cats killed as wild
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Puppy litter practices
+  summary: The owner destroys one puppy from a litter, the dog is fed white ants before
+    birth to strengthen the puppies, and a friend speaks the name of a recently dead
+    person so the puppies open their eyes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Brother-in-law visit and dog hospitality
+  summary: A brother-in-law arrives with his dog; the host's wife cooks special food
+    for the dog, and the family may not strike it because that would count as striking
+    the brother-in-law.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Dead dog in the house
+  summary: When a dog dies in the house, the wife avoids touching it out of fear of
+    its ghost and calls her husband to remove it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Feeding dogs after hunting
+  summary: After hunting, dogs are fed; after successful hunts, they receive entrails
+    of killed animals and other scraps of meat.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Cat domestication rules
+  summary: Cats are described as little known; black and white cats are kept domestically,
+    while other cats are killed as wild fowl-catchers.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Destruction of one offspring to preserve the rest of the litter
+  taxonomy_refs:
+  - sacrifice
+  basis: One puppy is destroyed because the owner believes the remaining puppies will
+    not thrive unless this is done.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage says the puppy is destroyed, but it does not state that the
+    act is an offering to a deity or spirit; the link to the sacrifice family is therefore
+    provisional.
+- id: motif:2
+  label: Prenatal strengthening through prescribed animal food
+  taxonomy_refs: []
+  basis: Before puppies are born, the dog is fed white ants to make the puppies grow
+    strong.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage records a belief-practice but gives no mythic narrative explaining
+    it.
+- id: motif:3
+  label: Naming the recently dead to open newborn animals' eyes
+  taxonomy_refs: []
+  basis: A friend's spoken mention of a recently deceased person's name is said to
+    make newborn puppies immediately open their eyes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader cosmological explanation is supplied in the passage.
+- id: motif:4
+  label: Animal as surrogate for an affinal guest
+  taxonomy_refs: []
+  basis: The brother-in-law's dog receives special hospitality, and striking the dog
+    is regarded as equivalent to striking the brother-in-law.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports a social-surrogacy pattern but does not compare it
+    with other traditions.
+- id: motif:5
+  label: Dead domestic animal ghost and handling taboo
+  taxonomy_refs: []
+  basis: A wife avoids touching a dog that died in the house because she fears its
+    ghost and calls her husband to remove it.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not provide details about the ghost's nature or afterlife
+    status.
+- id: motif:6
+  label: Hunting dogs rewarded with remains of the kill
+  taxonomy_refs: []
+  basis: After successful hunting, dogs are given entrails of killed animals and other
+    meat scraps.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is presented as customary feeding rather than as an explicitly ritualized
+    offering.
+- id: motif:7
+  label: Color-restricted domestication and killing of wild animal kinds
+  taxonomy_refs: []
+  basis: Only black and white cats are domesticated, while other cats are killed because
+    they are considered wild and catch fowls.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage gives a practical reason for killing other cats and does not
+    elaborate symbolic meanings for cat color.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21248-21249
+  quote_or_summary: When a female dog littered, the owner destroyed one puppy, believing
+    the others would not thrive otherwise.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; quotation and summary allowed.
+- id: ev:2
+  type: summary
+  locator: lines 21250-21251
+  quote_or_summary: Before puppies were born, the dog was fed white ants, which was
+    believed to make the puppies grow strong.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; quotation and summary allowed.
+- id: ev:3
+  type: summary
+  locator: lines 21252-21255
+  quote_or_summary: Newborn puppies were believed not to see until a friend of the
+    owner mentioned the name of someone recently dead; then they would open their
+    eyes immediately.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; quotation and summary allowed.
+- id: ev:4
+  type: summary
+  locator: lines 21256-21259
+  quote_or_summary: When a brother-in-law visited with his dog, the host's wife cooked
+    special food for the dog, or else the brother-in-law would say he was not warmly
+    welcomed.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; quotation and summary allowed.
+- id: ev:5
+  type: summary
+  locator: lines 21259-21261
+  quote_or_summary: The brother-in-law's dog could not be struck by any family member
+    during the visit, because this was regarded as equivalent to striking the brother-in-law.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; quotation and summary allowed.
+- id: ev:6
+  type: summary
+  locator: lines 21262-21264
+  quote_or_summary: If a man's dog died in the house, his wife did not touch it because
+    she feared its ghost; she called her husband to remove it.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; quotation and summary allowed.
+- id: ev:7
+  type: summary
+  locator: lines 21264-21267
+  quote_or_summary: Dogs were fed after hunting; after a successful hunt they received
+    entrails of killed animals and other meat scraps.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; quotation and summary allowed.
+- id: ev:8
+  type: summary
+  locator: line 21268
+  quote_or_summary: Native dogs are described as unable to bark, making only a yelping
+    howl.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; quotation and summary allowed.
+- id: ev:9
+  type: summary
+  locator: lines 21270-21272
+  quote_or_summary: Cats were little known; only black and white cats were domesticated,
+    while other kinds were killed as wild fowl-catchers.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; quotation and summary allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are mostly
+    descriptive cultural-practice patterns; only the destruction of one puppy has
+    a provisional taxonomy link to sacrifice. No comparison claims are made because
+    the passage itself does not compare these practices with other traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The opening phrase at line 21247 is fragmentary in the supplied passage and was not used for motif extraction.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l21245-l21272
+  passage_sha256=168e3f114ed94b5f1c8cdab9d5a59ea6943c17adfb38fd8f31d7185d8af186d2
+

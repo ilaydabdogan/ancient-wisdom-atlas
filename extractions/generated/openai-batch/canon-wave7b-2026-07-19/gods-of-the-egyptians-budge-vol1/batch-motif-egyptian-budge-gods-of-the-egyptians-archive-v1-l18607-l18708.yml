@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l18607-l18708
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: I III / DESTRUCTION OF MANKIND / I I I I 4 / I I I I I I; lines 18607-18708
+  start: '18607'
+  end: '18708'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Ra addresses Nu and the ancestor gods. He says mankind came into being
+    from his eye and now speaks words against him. He asks the gods what they would
+    do and asks them to seek a plan for him, saying he will not slay mankind until
+    he hears counsel.
+  language: English with Egyptian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ra is identified as speaking to Nu.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nu is addressed as a firstborn god and as the one from whom Ra came into being.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ancestor gods are addressed along with Nu.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mankind is said to have come into being from Ra's eye.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mankind is said to speak words against Ra.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ra asks what should be done about mankind and asks for a plan.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Ra says he will not slay them until he hears.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ra
+  description: The speaker who addresses Nu and the ancestor gods, says mankind came
+    from his eye, and asks for counsel about mankind's hostile words.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Nu
+  description: A deity addressed by Ra as firstborn and as the one from whom Ra came
+    into being.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: ancestor gods
+  description: Gods addressed by Ra and asked to take heed concerning mankind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: mankind
+  description: A human collective said to have come into being from Ra's eye and to
+    speak words against him.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: divine speaker seeking counsel
+  assigned_to:
+  - fig:1
+  basis: Ra speaks to Nu and the ancestor gods, asks what should be done, and asks
+    them to seek a plan.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: firstborn deity and source of Ra
+  assigned_to:
+  - fig:2
+  basis: Nu is called a firstborn god and addressed as the one from whom Ra came into
+    being.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine consultees
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Ra addresses Nu and the ancestor gods and asks them to take heed and seek
+    a plan.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: human group speaking against deity
+  assigned_to:
+  - fig:4
+  basis: Mankind is described as speaking words against Ra.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: potential targets of slaying
+  assigned_to:
+  - fig:4
+  basis: After describing mankind's hostile words, Ra says he will not slay them until
+    he hears.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: divine eye as origin of mankind
+  literal_form: Ra's eye
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Ra consults the gods about mankind
+  summary: Ra addresses Nu and the ancestor gods about mankind, who came from his
+    eye and speaks against him. He asks the gods what should be done and says he will
+    not slay them before hearing counsel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine judgment deliberation over rebellious mankind
+  taxonomy_refs:
+  - divine_judgment
+  basis: Ra reports that mankind speaks against him, asks the gods what should be
+    done, and delays slaying them until he hears counsel.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt contains consultation and threatened punishment, but not the
+    outcome of the judgment.
+- id: motif:2
+  label: mankind originating from a deity's eye
+  taxonomy_refs:
+  - sacred_birth
+  basis: Mankind is described as having come into being from Ra's eye.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage states an origin from the divine eye, but does not narrate
+    a full birth episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18607-18626
+  quote_or_summary: '"Said Ra to Nu" after an address asking to be heard.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 18627-18645
+  quote_or_summary: Ra addresses Nu as "O god firstborn, from whom I came into being,"
+    and also addresses "ye ancestor gods."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 18646-18662
+  quote_or_summary: '"take ye heed to mankind who came into being from my eye"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: quote
+  locator: lines 18663-18682
+  quote_or_summary: '"they speak words against me. Tell me [what] ye would do about
+    it."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: quote
+  locator: lines 18683-18708
+  quote_or_summary: '"take ye heed to it for me" and "seek out a plan for me. Not
+    will I slay them until I hear"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main narrative elements are clear, but the passage is an OCR/transliteration-heavy
+    interlinear excerpt and ends before the divine response or outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the provided passage does not itself compare this episode to another tradition or corpus.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l18607-l18708
+  passage_sha256=85de9acdc33323266755b282f01b06a904696ab098b213c9ba6142534d810cca
+

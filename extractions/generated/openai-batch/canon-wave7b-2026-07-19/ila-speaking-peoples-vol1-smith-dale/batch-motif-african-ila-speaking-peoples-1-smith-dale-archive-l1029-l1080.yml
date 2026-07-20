@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l1029-l1080
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: PART I / VOL. I. / THE ENVIRONMENT / PT. I; lines 1029-1080
+  start: '1029'
+  end: '1080'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the Ila/Zambezi plains across seasonal and daily
+    changes: spring greenness, early-winter brownness, later blackness after dry-season
+    grass fires, abundant visible game and birds after the grasses are gone, moonlit
+    plains marked by palms and fig trees, and a rainy-season change in which the river
+    is full and the plains appear transformed.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The plains are described as changing color and surface by season: green and
+    smooth in spring, russet brown in early winter, and later black, bare, and forbidding
+    after grass fires.'
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dry-season grass fires are described as sweeping over the landscape, driven
+    by uninterrupted devastation and fanned by a strong easterly wind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the tall grass no longer conceals animals, large and small game frequents
+    the plain in great numbers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Shade on the river-bank allows observers to view a profusion and variety of
+    waterfowl and other birds.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A pessimistic traveller is quoted as describing this fire-blackened time as
+    nature in a repulsive mood.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The moonlit plains are described as extending into dim distance, interrupted
+    by Borassus palms and gnarled ancient fig trees.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Near the end of the rainy season, the whole aspect changes; the river is full
+    and the wide plains are described as one sheet, with the phrase continuing beyond
+    the supplied excerpt.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: pessimistic traveller
+  description: A traveller whose quoted judgment characterizes the fire-blackened
+    season as especially unattractive.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: sportsman and naturalist
+  description: Generic human observers who benefit from the exposed game on the plains
+    after the high grass is gone.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: lover of nature
+  description: A generic observer who can view abundant waterfowl and birds from the
+    river-bank shade.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: descriptive commentator
+  assigned_to:
+  - fig:1
+  basis: The traveller is cited for a verbal characterization of the season.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: human observer of landscape and fauna
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The sportsman, naturalist, and lover of nature are described as viewing game,
+    waterfowl, and other birds.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: grass fires
+  literal_form: Dry-season grass fires sweeping over the plains
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: river and river-bank water setting
+  literal_form: River-bank shade, waterfowl, and a full river near the end of the
+    rainy season
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: trees on the moonlit plain
+  literal_form: Borassus palm and gnarled ancient fig tree interrupting the moonlit
+    view
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: full moon over the plains
+  literal_form: Full moon bathing the plains in moonlight
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dry-season fire-blackened plains
+  summary: The plains shift from green and brown seasonal colors to black, bare, and
+    forbidding after grass fires sweep through under a dry-season easterly wind.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Exposed game and river-bank bird viewing
+  summary: With tall grass removed, game becomes visible on the plain, while the shaded
+    river-bank offers a vantage for viewing waterfowl and other birds.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Moonlit plains with sentinel trees
+  summary: At night under a full moon, the plains are described as distant and dreamlike,
+    with palms and ancient fig trees punctuating the view.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Rainy-season transformation
+  summary: Toward the end of the rainy season, the river is full and the plains take
+    on a changed aspect, described in the supplied excerpt as becoming one sheet.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal cycle of landscape transformation
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly marks the same plains changing across spring, early
+    winter, dry-season fire, moonlit evening perception, and the late rainy season.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is environmental ethnographic description, not a mythic narrative;
+    no seasonal deity, ritual action, or explicit cosmological interpretation is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1029-1080, opening seasonal description
+  quote_or_summary: The plains are described as green in spring, russet brown in early
+    winter, then black, bare, and forbidding when “grass fires ... have swept over
+    it.”
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1029-1080, game and river-bank description
+  quote_or_summary: Once the high grass no longer conceals animals, game frequents
+    the plain in great numbers; shade on the river-bank lets observers see many waterfowl
+    and other birds.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1029-1080, traveller quotation
+  quote_or_summary: A pessimistic traveller calls the period “Nature in her most repulsive
+    mood.”
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1029-1080, moonlit plains description
+  quote_or_summary: The plains are described under the full moon, with the eye travelling
+    into dim distance and the view interrupted by a Borassus palm or the limbs of
+    an ancient fig tree.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1029-1080, rainy-season transition
+  quote_or_summary: "“Towards the latter end of the rainy season the whole aspect
+    is changed. The river is full, the wide plains are one sheet” before the supplied
+    excerpt breaks off."
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal environmental features are clear. The only motif candidate is a broad
+    seasonal-cycle pattern; mythic interpretation is limited because the passage is
+    descriptive geography/natural history rather than narrative mythology. No comparison
+    claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons, culture-specific mythic figures, or unsupported taxonomy IDs were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l1029-l1080
+  passage_sha256=fba71267ad2b121e541c205fec478f309776755a9855e797730f9bd269c3c332
+

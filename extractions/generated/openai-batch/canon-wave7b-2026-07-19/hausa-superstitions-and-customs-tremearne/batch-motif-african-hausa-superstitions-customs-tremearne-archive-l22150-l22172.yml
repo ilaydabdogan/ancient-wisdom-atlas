@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l22150-l22172
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: LXXIV. / LXXV. / NOTES   ON   THE   TALES  503 / LXXVI.; lines 22150-22172
+  start: '22150'
+  end: '22172'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Only Bulls are brought to a town.
+  summary: The notes explain cattle handling and marketing practices, discuss the
+    translation and identification of the bird name Mikia or meke, and describe the
+    limited use of cattle for carts or riding in Hausaland.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Only bulls are said to be brought to a town.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cows are kept in rugas by the Cow-Filani.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In some districts, people who do not milk cows still keep them so that they
+    can bear calves; as a result, the cows do not come to the meat-market.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The term Mikia is translated by the author as eagle, with other cited identifications
+    as a white-breasted buzzard or a black-and-white fishing vulture under the related
+    form meke.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Where cattle are used for drawing carts or riding, there is said to be less
+    anxiety to sell them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says cattle transport is restricted to certain districts and is
+    not used in the greater part of Hausaland, except by the author’s group.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Keeping cattle alive without transport use is described as causing a loss
+    of time and upkeep money.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Bulls
+  description: Male cattle brought to a town.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cows
+  description: Female cattle kept in rugas, retained to bear calves, and absent from
+    the meat-market.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Cow-Filani
+  description: The group said to keep the cows in the rugas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: District inhabitants who do not milk cows
+  description: People described as keeping cows for calves even where they do not
+    milk them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Mikia / meke
+  description: A bird term identified as eagle by the author and elsewhere as a buzzard
+    or fishing vulture.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Cattle used for transport
+  description: Cattle used in some districts to draw carts or for riding.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: town-market animals
+  assigned_to:
+  - fig:1
+  basis: The note states that only bulls are brought to a town.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: breeding stock kept outside the meat-market
+  assigned_to:
+  - fig:2
+  basis: The cows are kept in rugas to bear calves and therefore do not come to the
+    meat-market.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: cattle keepers
+  assigned_to:
+  - fig:3
+  basis: The cows are said to be kept in rugas by the Cow-Filani.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: non-milking cow keepers
+  assigned_to:
+  - fig:4
+  basis: Some district inhabitants are described as not milking cows but keeping them
+    for calves.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: identified raptor term
+  assigned_to:
+  - fig:5
+  basis: The note compares translations and identifications of Mikia or meke as eagle,
+    buzzard, or fishing vulture.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: draft or riding animals in limited districts
+  assigned_to:
+  - fig:6
+  basis: Cattle are said to be used to draw carts or for riding only in certain districts.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: milk / milking practice
+  literal_form: Cow milk, mentioned through the absence of milking in some districts.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ruga
+  literal_form: Cattle camp or enclosure named as the place where cows are kept.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Mikia raptor
+  literal_form: Bird identified as eagle, buzzard, or fishing vulture.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: cart and riding cattle
+  literal_form: Cattle used to draw carts or for riding in certain districts.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cattle kept outside the town meat-market
+  summary: Bulls are brought to town, while cows are kept in rugas by the Cow-Filani
+    and retained to bear calves rather than entering the meat-market.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Identification of Mikia
+  summary: The note discusses Mikia as translated by the author and compares dictionary
+    and other identifications of the bird.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Restricted cattle transport in Hausaland
+  summary: Cattle may serve for carts or riding in some districts, but this use is
+    said to be restricted and absent from most of Hausaland; without such use, maintaining
+    cattle is described as costly.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 22150-22157, note [i]
+  quote_or_summary: "“Only Bulls are brought to a town. The cows are kept in the rugas
+    by the Cow-Filani.” The note adds that cows may be kept to bear calves and do
+    not come to the meat-market."
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 22159-22166, note [2]
+  quote_or_summary: The author translates Mikia as eagle, cites a dictionary and Canon
+    Robinson identifying it as a possible white-breasted buzzard, and reports meke
+    as a black-and-white fishing vulture.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 22168-22172, note [3]
+  quote_or_summary: The note says cattle used for carts or riding would be less urgently
+    sold, but such transport is limited to certain districts and is not used in most
+    of Hausaland; keeping cattle alive would cost time and money.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is ethnographic commentary rather than a mythic narrative. Literal
+    cattle-management and bird-identification data are clear, but no comparative myth
+    motif is warranted from the passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs or comparison claims were added because the passage does not itself support a mythological motif comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l22150-l22172
+  passage_sha256=512d070e5473a81aede8668ebf0a3b36f9540f8f80de14da82acac22b2c5726e
+

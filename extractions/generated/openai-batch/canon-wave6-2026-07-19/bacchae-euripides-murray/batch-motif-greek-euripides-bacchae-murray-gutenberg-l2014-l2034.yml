@@ -1,0 +1,211 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2014-l2034
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / DIONYSUS. / PENTHEUS.; lines 2014-2034
+  start: '2014'
+  end: '2034'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Dionysus instructs Pentheus to swing an unnamed object in rhythm with hand
+    and foot. Pentheus, described as more wild, speaks of extraordinary strength and
+    asks whether his shoulders could lift Kithaeron or whether he should use iron
+    bars or his bare hand and shoulder to wrench down crags. Dionysus affirms that
+    Pentheus can do this if he wills and says his soul now stands as it should.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dionysus instructs that an unnamed object should swing in the right hand,
+    timed with the right foot.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus says that Pentheus' heart is changed.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pentheus is marked by the stage direction as speaking more wildly.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pentheus asks what strength he has and whether his shoulders could lift Kithaeron's
+    steeps and everything in them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Dionysus tells Pentheus that he surely can do it if he wills and says Pentheus'
+    soul, once sick, now stands as it should.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Pentheus asks whether to use bars of iron or his bare hand and shoulder to
+    wrench down the crags.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Speaker who instructs Pentheus' movement and affirms his changed state
+    and capacity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Pentheus
+  description: Speaker described as more wild, who imagines or asks about lifting
+    Kithaeron and wrenching down crags.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: prompter and reassurer
+  assigned_to:
+  - fig:1
+  basis: Dionysus gives movement instructions, says Pentheus' heart is changed, and
+    assures him that he can act if he wills.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: altered speaker imagining extraordinary strength
+  assigned_to:
+  - fig:2
+  basis: Pentheus is described as more wild and asks whether he could lift Kithaeron
+    or wrench down crags.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: Kithaeron's steeps and crags
+  literal_form: named mountain slopes and crags
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: bars of iron
+  literal_form: iron bars proposed as a tool for wrenching down crags
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: bare hand and shoulder
+  literal_form: body parts proposed as means for pulling at the crags
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rhythmic prompting and imagined mountain-lifting
+  summary: Dionysus directs Pentheus' movement and describes his changed condition;
+    Pentheus then speaks wildly of strength sufficient to lift Kithaeron or tear down
+    crags with iron bars or his own body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Altered state under another speaker's prompting
+  taxonomy_refs: []
+  basis: The passage pairs Dionysus' directions and statements about Pentheus' changed
+    heart and formerly sick soul with a stage direction that Pentheus speaks more
+    wildly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly name the cause of the altered state beyond
+    Dionysus' speech and Pentheus' marked wildness.
+- id: motif:2
+  label: Imagined superhuman force against a mountain
+  taxonomy_refs: []
+  basis: Pentheus asks whether his shoulders could lift Kithaeron and whether he should
+    use iron bars or his bare hand and shoulder to wrench down crags.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage frames the action as speech or imagined capacity, not as an
+    accomplished deed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2014-2018
+  quote_or_summary: 'Dionysus: "Up let it swing / In the right hand, timed with the
+    right foot''s spring" and says Pentheus'' heart is changed.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 2020-2024
+  quote_or_summary: Pentheus is marked "more wildly" and asks, "Could my shoulders
+    lift the whole?" referring to Kithaeron's steeps.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 2026-2029
+  quote_or_summary: Dionysus says, "Surely thou canst, and if thou wilt" and describes
+    Pentheus' soul as once sick but now standing as it should.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 2031-2034
+  quote_or_summary: Pentheus asks whether to use "bars of iron" or his "bare hand
+    / And shoulder" to wrench the crags down.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage presents altered speech and imagined mountain-moving but does not
+    provide a full explanatory frame or external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The object referred to as "it" is not identified within the supplied passage; no identification is inferred.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2014-l2034
+  passage_sha256=97ddfed68349cc84d750a7092bc5957e40d96cbb75b11d0da4626c700eb8caf1
+

@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l522-l551
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: LIST    OF    ILLUSTRATIONS / CHEATING  THE  DEAD  GRANDFATHER  OF  HIS /
+    THAKOMBAU .... / THE  DANCE  OF  SPEARS ,.; lines 522-551
+  start: '522'
+  end: '551'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A list of illustration captions and credits names episodes or images including
+    cheating a dead grandfather, calling a soul to a river, Tanoa as father of Thakombau,
+    Thakombau, Bau, a dance of spears, and a Samoan man dressed for a club dance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a list of illustrations with captions and source
+    or photograph credits.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: One illustration caption names an action of cheating a dead grandfather in
+    relation to a grandson.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One illustration caption names an action of calling a soul forth to a river.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tanoa is explicitly identified as the father of Thakombau.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Separate illustration entries name Thakombau and Bau.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Two dance-related illustration captions name a dance of spears and a Samoan
+    man dressed for the club dance.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: dead grandfather
+  description: A dead grandfather named in an illustration caption involving cheating
+    and a grandson.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: grandson
+  description: A grandson named in the same illustration caption as the dead grandfather.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: soul
+  description: A soul named in an illustration caption as being called forth to the
+    river.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Tanoa
+  description: Tanoa is named and identified as father of Thakombau.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Thakombau
+  description: Thakombau is named in relation to Tanoa and also appears as a separate
+    illustration entry.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Rev. Dr. Brown
+  description: Rev. Dr. Brown is credited in photograph captions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Samoan man dressed for the club dance
+  description: A Samoan man is described as dressed for the club dance.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dead ancestor
+  assigned_to:
+  - fig:1
+  basis: The caption calls the figure a dead grandfather.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: grandson or descendant
+  assigned_to:
+  - fig:2
+  basis: The caption names a grandson in relation to the dead grandfather.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: called soul
+  assigned_to:
+  - fig:3
+  basis: The caption states that a soul is called forth to the river.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: father
+  assigned_to:
+  - fig:4
+  basis: The caption identifies Tanoa as father of Thakombau.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: person named in father relationship
+  assigned_to:
+  - fig:5
+  basis: Thakombau is named as the person of whom Tanoa is father.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: credited photographer or source figure
+  assigned_to:
+  - fig:6
+  basis: The captions state that images are after or from photographs by Rev. Dr.
+    Brown.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: dance participant or dressed dancer
+  assigned_to:
+  - fig:7
+  basis: The caption describes a Samoan man dressed for the club dance.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: river
+  literal_form: river
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: spears
+  literal_form: spears in a dance caption
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: club dance dress
+  literal_form: dress or attire for the club dance
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Bau
+  literal_form: place or illustration subject named Bau
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cheating the dead grandfather
+  summary: An illustration caption names an episode involving cheating a dead grandfather
+    in relation to his grandson.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Calling a soul to the river
+  summary: An illustration caption names a soul being called forth to a river.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tanoa, Thakombau, and Bau illustration entries
+  summary: The list includes Tanoa as father of Thakombau, a separate Thakombau entry,
+    and Bau, with photograph credit to Rev. Dr. Brown.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Dance illustration entries
+  summary: The list includes a dance of spears and a Samoan man dressed for the club
+    dance, with photograph credit to Rev. Dr. Brown.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: deception involving a dead ancestor
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The illustration caption names cheating a dead grandfather, indicating deception
+    involving a dead kin figure.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Only a caption is provided; the actor, narrative context, and outcome
+    are not present in this passage.
+- id: motif:2
+  label: soul called to a river
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The illustration caption names a soul being called forth to the river, combining
+    soul-calling with a water boundary or destination.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not explain whether the river is an afterlife boundary
+    or journey station; the taxonomy link is tentative.
+- id: motif:3
+  label: weapon dance with spears
+  taxonomy_refs: []
+  basis: The illustration list includes a caption for a dance of spears.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only an illustration title and does not provide mythic
+    or ritual narrative context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 522-526
+  quote_or_summary: "“CHEATING THE DEAD GRANDFATHER OF HIS / GRANDSON” with source
+    note “From the ‘Kings of the Reefs’.”"
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 527-529
+  quote_or_summary: "“CALLING A SOUL FORTH TO THE RIVER” with source note “From the
+    ‘Kings of the Reefs’.”"
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 530-541
+  quote_or_summary: Illustration entries name Tanoa as father of Thakombau, credit
+    a photograph by Rev. Dr. Brown, then list Thakombau and Bau.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 542-551
+  quote_or_summary: Illustration entries list the dance of spears and a Samoan man
+    dressed for the club dance, with photograph credits to Rev. Dr. Brown.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is an illustration list rather than a narrative passage. Literal
+    names and captions are clear, but motif extraction is tentative because narrative
+    details are absent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison beyond tentative taxonomy-oriented motif labeling.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l522-l551
+  passage_sha256=79898f31e730391c93941f1ad1a19e55ea22c682bf65fc724309d153eccaa474
+

@@ -1,0 +1,582 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l13041-l13123
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: MAOL A CHLIOBAIN. 271 / FABLES. 277 / FABLES. 279 / FABLES. 281; lines 13041-13123
+  start: '13041'
+  end: '13123'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains the end of a fable in which a fox tricks a wolf into
+    laying his tail on moonshine in ice, then alerts a farmer; the wolf flees and
+    leaves his tail behind, explaining why the wolf is stumpy-tailed. A commentary
+    compares this to a Norse bear stumpy-tail tale. The passage then gives a Sutherland
+    account of a lost child found in a cairn with young wolves; three lads return,
+    kill the young wolves and the adult wolf, and bring the boy home. A commentary
+    compares the account to Romulus and Remus, to reports from Oude of wolf-carried
+    and wolf-suckled children, and to a Highland wild-boar variant.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fox tells a wolf to keep his tail on moonshine in the ice so that no one
+    will see it, and says he may be some time returning.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wolf lies down with his tail on the moonshine in the ice and keeps it
+    there for an hour until it is fast.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fox tells the farmer that the wolf is there and will eat the children.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The farmer and his wife come out with sticks to kill the wolf; the wolf runs
+    away and leaves his tail behind.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator says this is why the wolf is stumpy-tailed, while the fox has
+    a long brush.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the Sutherland story, a woman loses one of her children, and people search
+    the hills for the child for three days without finding him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A young lad hears a child's crying near a cairn and sees the boy with two
+    young wolves in a hole under a big stone.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The young lad goes home, gets two others, and in the morning the three return
+    to the cairn and find the hole.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: One lad watches outside while two go inside and begin to kill the young wolves.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The old wolf comes running when she hears the young wolves squealing, puts
+    her head into the hole, and is held by the tail by the watcher.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The men inside ask what is keeping the light from them, and the man outside
+    answers that they will know if the root or hairy root breaks.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The lads inside kill the adult wolf and the young wolves, and the boy is taken
+    home to his mother.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The account says the boy's family were alive in the time of the narrator's
+    grandfather and that they were said never to be like other people.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: fox
+  description: The fox watches the wolf, tricks him with the moonshine in ice, and
+    alerts the farmer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: wolf in the stumpy-tail fable
+  description: The wolf lays his tail on moonshine in ice, becomes stuck, and flees
+    leaving his tail behind.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: farmer and wife
+  description: They come out with sticks to kill the wolf after the fox's warning.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: woman in Sutherland
+  description: A woman living in a little town loses one of her children and later
+    receives him back.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: lost boy
+  description: The lost child is found in a hole under a big stone with two young
+    wolves and is later taken home.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: three lads
+  description: A young lad discovers the child and returns with two others; one watches
+    outside while two enter the hole.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: adult wolf or she-wolf
+  description: The old wolf comes to the cairn when the young wolves squeal, puts
+    her head into the hole, is held by the tail, and is killed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:8
+  name_or_label: two young wolves
+  description: Two young wolves are in the hole with the boy; they squeal when attacked
+    and are killed.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: deceptive animal
+  assigned_to:
+  - fig:1
+  basis: The fox directs the wolf to keep his tail on the ice and then alerts the
+    farmer to the wolf's presence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: tricked animal and etiological subject
+  assigned_to:
+  - fig:2
+  basis: The wolf is tricked into having his tail stuck and losing it, which explains
+    his stumpy tail.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: household attackers or defenders
+  assigned_to:
+  - fig:3
+  basis: They come out with sticks to kill the wolf after being warned about danger
+    to the children.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: mother of lost child
+  assigned_to:
+  - fig:4
+  basis: The woman loses a child, and the boy is later taken home to his mother.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: lost child found among wolves
+  assigned_to:
+  - fig:5
+  basis: The boy is found in a hole with two young wolves after being missing for
+    three days.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: rescuers and wolf-killers
+  assigned_to:
+  - fig:6
+  basis: The lads return to the cairn, enter or watch the hole, kill the wolves, and
+    bring the boy home.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: adult wolf at den
+  assigned_to:
+  - fig:7
+  basis: The old wolf runs to the place when the young wolves squeal, enters the hole,
+    is held by the tail, and is killed.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: young wolves in den
+  assigned_to:
+  - fig:8
+  basis: The two young wolves are in the hole with the boy and are killed by the lads.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: tail
+  literal_form: The wolf's tail in the ice fable; the old wolf's tail in the Sutherland
+    tale.
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: moonshine in ice
+  literal_form: Moonshine in the ice on which the wolf is told to keep his tail.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: sticks
+  literal_form: Sticks carried by the farmer and his wife when they come to kill the
+    wolf.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: cairn and hole under a big stone
+  literal_form: A big cairn of stones containing a hole under a big stone where the
+    boy and two young wolves are found.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: blocked light
+  literal_form: The adult wolf's head in the hole blocks the light from the men inside.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: three days
+  literal_form: The child is missing for three days before the search is given up.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: fox tricks the wolf at the ice
+  summary: The fox tells the wolf to keep his tail on moonshine in the ice, and the
+    wolf keeps it there until it is stuck.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: farmer's household drives off the wolf
+  summary: The fox alerts the farmer that the wolf is present and threatens the children;
+    the farmer and wife come with sticks, and the wolf escapes without his tail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: lost child found in the cairn
+  summary: After a child is missing for three days, a young lad hears crying and finds
+    the boy with two young wolves in a hole under a big stone.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: return to the wolf den
+  summary: The discoverer returns with two others; one watches outside while two enter
+    the hole and attack the young wolves.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: adult wolf held by the tail and killed
+  summary: The adult wolf comes to the cairn, inserts her head into the hole, is held
+    by the tail, blocks the light, and is killed along with the young wolves; the
+    boy is taken home.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: trickster causes animal's loss of tail
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fox deceives the wolf into fixing his tail in the ice and then brings
+    humans who cause the wolf to flee without his tail.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy has no specific animal-etiology category; the trickster
+    taxonomy reference is approximate and based on the fox's deceptive role.
+- id: motif:2
+  label: etiology of the wolf's stumpy tail
+  taxonomy_refs: []
+  basis: The narrator explicitly says the event explains why the wolf is stumpy-tailed
+    while the fox has a long brush.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level etiological animal explanation, not linked to
+    a supplied taxonomy motif family.
+- id: motif:3
+  label: lost child found among young wolves
+  taxonomy_refs: []
+  basis: A missing boy is discovered in a hole under a big stone with two young wolves
+    after three days.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The tale does not explicitly state in the narrative portion that the child
+    was suckled by the wolf; that connection appears in the commentary's comparison.
+- id: motif:4
+  label: wolf killed by being held at the tail while entering den
+  taxonomy_refs: []
+  basis: The adult wolf puts her head into the hole and is held by the tail, allowing
+    those inside to kill her and the young wolves.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This motif is extracted from the action sequence and has no supplied taxonomy
+    reference.
+- id: motif:5
+  label: rescue of child from animal den
+  taxonomy_refs: []
+  basis: The lads kill the wolves in the cairn and take the boy home to his mother.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage frames the tale as the killing of the last wolf in Sutherland;
+    the rescue motif is present but not separately named in the text.
+comparison_claims:
+- id: claim:1
+  claim: The commentary says the stumpy-tailed wolf fable is manifestly the same as
+    the Norse story 'Why the bear is stumpy tailed?'
+  claim_level: same_motif
+  target: Norse story 'Why the bear is stumpy tailed?'
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides the comparison but does not quote or summarize
+    the Norse bear tale beyond its title.
+- id: claim:2
+  claim: The commentary cautiously suggests that the stumpy-tail fable may be a Norse
+    tradition transferred from the bear to the wolf.
+  claim_level: historical_contact
+  target: Possible Norse tradition transferred from bear to wolf
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The wording is speculative ('perhaps'), and the passage gives no independent
+    transmission evidence beyond the commentator's statement that there was not time
+    for 'Norse Tales' to become known to the storytellers.
+- id: claim:3
+  claim: The commentary says the Sutherland wolf-child story is manifestly the same
+    as the story of Romulus and Remus.
+  claim_level: same_motif
+  target: Story of Romulus and Remus
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Sutherland account has a single boy and two young wolves, while
+    the passage does not give details of the Romulus and Remus story; the comparison
+    is present only in the commentator's note.
+- id: claim:4
+  claim: The commentary connects the Sutherland account with reports from Oude that
+    wolves carry off and suckle children who grow up half savage.
+  claim_level: same_function
+  target: Oude reports of children carried off and suckled by wolves
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The commentary explicitly leaves open whether this is natural history
+    fact or tradition, and the Sutherland tale itself does not state that the boy
+    was suckled.
+- id: claim:5
+  claim: The commentary says the same story has been heard in the Highlands with a
+    wild boar instead of a wolf.
+  claim_level: same_motif
+  target: Highland wild-boar variant of the wolf-child story
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief mention of the variant and notes a practical
+    difficulty with holding a boar's tail.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13043-13045
+  quote_or_summary: The fox tells the wolf to keep his tail on the moonshine in the
+    ice so that nobody will see it, and says he may be some time coming back.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short quotation/summary allowed.
+- id: ev:2
+  type: summary
+  locator: lines 13047-13051
+  quote_or_summary: The wolf lays his tail on the moonshine in the ice until it is
+    fast; the fox, watching him, runs to the farmer and warns that the wolf will eat
+    the children.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 13053-13056
+  quote_or_summary: The farmer and wife come out with sticks; the wolf runs off leaving
+    his tail behind, and the narrator says this explains why the wolf is stumpy-tailed
+    while the fox has a long brush.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short quotation/summary allowed.
+- id: ev:4
+  type: summary
+  locator: lines 13060-13070
+  quote_or_summary: The commentary calls the fable the same as the Norse story 'Why
+    the bear is stumpy tailed?' and suggests it may be a Norse tradition transferred
+    from bear to wolf.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13076-13086
+  quote_or_summary: In Sutherland, a woman loses a child; after three days a young
+    lad hears crying near a cairn and sees the boy with two young wolves in a hole
+    under a big stone.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13088-13097
+  quote_or_summary: The young lad gets two others; they return, find the hole, one
+    watches outside, two enter and attack the young wolves; the old wolf comes and
+    is held by the tail as she puts her head into the hole.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13099-13106
+  quote_or_summary: The men inside ask what blocks the light; the watcher answers
+    about the root or hairy root breaking; the lads kill the wolf and young wolves
+    and take the boy home to his mother.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 13108-13115
+  quote_or_summary: The commentary compares the Sutherland tale to Romulus and Remus
+    and to evidence from Oude that wolves carry off and suckle children who become
+    half savage, leaving open whether this is fact or tradition.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 13115-13123
+  quote_or_summary: The commentary says a similar Highland story was told of a wild
+    boar, then notes historical references to wolves and wild boars in Scotland and
+    their presence elsewhere in Europe.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative actions and commentator comparisons are explicit. Taxonomy mapping
+    is limited because most extracted motifs are not directly represented in the supplied
+    motif-family list.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Line locators are approximate within the provided stable range.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l13041-l13123
+  passage_sha256=bb68993917b4a40745935d339a660014e8703ea4d689da0c7d1303328f1984a5
+

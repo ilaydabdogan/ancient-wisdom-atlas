@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.celtic-celtic-fairy-tales-jacobs-gutenberg-l2905-l2927
+source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: THE STORY OF DEIRDRE / MUNACHAR AND MANACHAR / GOLD-TREE AND SILVER-TREE
+    / KING O'TOOLE AND HIS GOOSE; lines 2905-2927
+  start: '2905'
+  end: '2927'
+  translation: Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The king realizes he has been speaking to Saint Kavin, makes the sign of
+    the cross, kneels, and addresses him as a saint. Saint Kavin confirms his identity.
+    The king's goose is restored and remains with him, while the saint supports the
+    king until his death. Later, the goose mistakes a horse-eel for a trout and is
+    killed by it; the eel does not eat the goose because Saint Kavin had touched it
+    with blessed hands.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king invokes the queen of heaven, makes the sign of the cross between
+    his eyes, and kneels before the saint.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king says he had been talking to Saint Kavin without knowing who he was
+    and had thought he was a boy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Saint Kavin confirms that he is Saint Kavin and describes himself as the greatest
+    of all the saints.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king has his goose restored as good as new, and the goose diverts him
+    as long as he lives.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Saint Kavin supports the king after the king comes into his property until
+    the king's death soon afterward.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The goose thinks it is catching a trout on a Friday, but it is actually a
+    horse-eel, and the eel kills the goose.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The horse-eel does not eat the goose because Saint Kavin had laid his blessed
+    hands on it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: An unnamed king who recognizes Saint Kavin, kneels before him, and
+    later receives support from him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Saint Kavin
+  description: A saint whom the king had mistaken for a boy; he confirms his identity
+    and is said to have blessed hands.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the king's goose
+  description: The king's goose, described as restored as good as new, later killed
+    by a horse-eel, and not eaten because Saint Kavin had touched it.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: horse-eel
+  description: A horse-eel mistaken by the goose for a trout; it kills the goose but
+    does not eat it.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: royal beneficiary and supplicant
+  assigned_to:
+  - fig:1
+  basis: The king kneels before Saint Kavin and later receives the restored goose
+    and the saint's support.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: revealed saint
+  assigned_to:
+  - fig:2
+  basis: Saint Kavin's identity is revealed after the king had mistaken him for a
+    boy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: holy benefactor
+  assigned_to:
+  - fig:2
+  basis: The passage says the king's goose is as good as new, Saint Kavin supports
+    the king, and the goose had been touched by his blessed hands.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: restored companion animal
+  assigned_to:
+  - fig:3
+  basis: The goose is described as as good as new and as diverting the king for the
+    rest of his life.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: holy-touched victim
+  assigned_to:
+  - fig:3
+  basis: The goose is killed by the horse-eel but not eaten because Saint Kavin had
+    laid blessed hands on it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: animal killer restrained from eating
+  assigned_to:
+  - fig:4
+  basis: The horse-eel kills the goose but does not eat it because it had been touched
+    by Saint Kavin.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: sign of the cross
+  literal_form: The king makes the sign of the cross between his eyes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blessed hands
+  literal_form: Saint Kavin's blessed hands laid on the goose.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: goose
+  literal_form: The king's goose, restored, companion to the king, and later killed
+    by a horse-eel.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: horse-eel
+  literal_form: A horse-eel mistaken for a trout, which kills the goose but does not
+    eat it.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: The king recognizes Saint Kavin
+  summary: The king realizes the person he has been addressing is Saint Kavin, makes
+    the sign of the cross, and kneels before him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Saint Kavin declares his identity
+  summary: Saint Kavin confirms that he is Saint Kavin and calls himself the greatest
+    of the saints.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Restored goose and holy protection after death
+  summary: The king has his goose as good as new and receives support from Saint Kavin.
+    Later the goose is killed by a horse-eel, but the eel does not eat it because
+    Saint Kavin had touched it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hidden holy figure revealed
+  taxonomy_refs: []
+  basis: The king says he had been speaking to Saint Kavin without recognizing him
+    and had thought he was an ordinary boy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage supports a revelation of identity, but no broader comparative
+    classification is stated in the passage.
+- id: motif:2
+  label: miraculous restoration by a saint
+  taxonomy_refs:
+  - resurrection
+  basis: The passage says the king had his goose as good as new and later refers to
+    Saint Kavin having laid blessed hands on it.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The excerpt does not describe the goose's earlier condition or the act
+    of restoration itself; 'resurrection' is therefore an approximate taxonomy match
+    for restoration.
+- id: motif:3
+  label: sacred touch makes an animal taboo to consume
+  taxonomy_refs: []
+  basis: The horse-eel kills the goose but does not eat it because Saint Kavin had
+    laid blessed hands on it.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a local passage-level motif candidate without an assigned taxonomy
+    reference from the available list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2905-2910
+  quote_or_summary: The king makes the sign of the cross, falls on his knees before
+    the saint, and asks whether he has unknowingly been speaking to Saint Kavin as
+    though he were a boy.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 2912-2917
+  quote_or_summary: Saint Kavin answers, "I am," and says, "I'm Saint Kavin... the
+    greatest of all the saints."
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2919-2923
+  quote_or_summary: The king has his goose as good as new to amuse him, and Saint
+    Kavin supports him after he comes into his property until his death soon afterward.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 2923-2925
+  quote_or_summary: The goose mistakes a horse-eel for a trout on a Friday, and the
+    horse-eel kills the goose instead of the goose catching a trout for the king's
+    supper.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 2925-2927
+  quote_or_summary: The horse-eel does not eat the goose because it did not dare eat
+    what Saint Kavin had laid his blessed hands on.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are passage-level
+    and limited by the excerpt's lack of the preceding restoration episode. No comparison
+    claims are made because the passage itself does not support a specific comparative
+    link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external tale context added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-celtic-fairy-tales-jacobs-gutenberg__l2905-l2927
+  passage_sha256=1838e90e83115e4f69f11e74154172239b1db6ef0436ee8d534dbb578e725cce
+

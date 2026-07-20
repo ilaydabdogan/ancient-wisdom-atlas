@@ -1,0 +1,185 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l6048-l6052
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE FORTY-THIRD CHAPTER / THE TENTH BOOKE / THE FORTY-FOURTH CHAPTER / THE
+    FORTY-FIFTH CHAPTER; lines 6048-6052
+  start: '6048'
+  end: '6052'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: How Apuleius was sold to two brethren, whereof one was a Baker, and the other
+    a Cooke, and how finely and daintily he fared.
+  summary: A chapter heading states that Apuleius was sold to two brothers, one a
+    baker and the other a cook, and that he was well and daintily fed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a chapter heading for the forty-fifth chapter.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Apuleius was sold to two brothers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One brother is identified as a baker and the other as a cook.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The heading says Apuleius fared finely and daintily.
+  category: attribute
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Apuleius
+  description: Person named in the heading as being sold and as faring finely and
+    daintily.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Two brethren
+  description: Two brothers to whom Apuleius was sold.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Baker brother
+  description: One of the two brothers, identified as a baker.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Cook brother
+  description: One of the two brothers, identified as a cook.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: sold figure
+  assigned_to:
+  - fig:1
+  basis: The heading states that Apuleius was sold.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: brethren
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The heading identifies the purchasers as two brothers.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: purchasers
+  assigned_to:
+  - fig:2
+  basis: Apuleius was sold to the two brothers.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: baker
+  assigned_to:
+  - fig:3
+  basis: One brother is identified as a baker.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: cook
+  assigned_to:
+  - fig:4
+  basis: One brother is identified as a cook.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: paired brothers
+  literal_form: two brethren
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: food trades
+  literal_form: baker and cook
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Sale to two brothers
+  summary: The heading announces that Apuleius was sold to two brothers, one a baker
+    and one a cook, and that he thereafter fared finely and daintily.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: sibling pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage explicitly centers the episode on two brothers who receive Apuleius
+    after a sale.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is only a chapter heading and gives no further narrative development
+    of the brothers as a mythic sibling pair.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6048-6052
+  quote_or_summary: THE FORTY-FIFTH CHAPTER. How Apuleius was sold to two brethren,
+    whereof one was a Baker, and the other a Cooke, and how finely and daintily he
+    fared.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source metadata; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a brief chapter heading only; motif identification
+    is limited to the explicitly stated pair of brothers.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the heading alone does not support broader cross-textual comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l6048-l6052
+  passage_sha256=574a3fc19a26ffdcd4d992611154848b712e9ffbaaf070203aca62927a6a1bd8
+

@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l16305-l16381
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: EIGHTEENTH    ANNUAL   REPORT     PL.    LXXXIV / WOMEN     OF    PLOVER    BAY,    SIBERIA
+    / GRSITT / SUMMER    CAMP    OX    HOTHAM    INLET; lines 16305-16381
+  start: '16305'
+  end: '16381'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a large July summer trading camp at Hotham Inlet
+    near Kotzebue Sound, including its population, shoreline setting, rows of umiaks
+    and kaiaks, conical lodge construction, dog staking, and methodical camp plan.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At Hotham Inlet near the head of Kotzebue Sound, on July 15, a large gathering
+    of people from the Kowak and Noatak Rivers was observed.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people lived in a row of conical lodges extending for more than a mile
+    along a low sandy spit parallel to the shore.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The camp was arranged in parallel lines: umiaks along the beach, kaiaks about
+    seventy-five yards behind them, and lodges about fifty yards behind the kaiaks.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: Between sixty and seventy umiaks were set above high-water mark with sterns
+    toward the sea, bottoms upward, and orientation toward the prevailing wind.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: More than two hundred kaiaks were supported on low trestles, with spears,
+    paddles, and other equipment placed below each boat.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The kaiaks were described as long and slender, of a pattern common at Kotzebue
+    Sound, and were ranged parallel to each other pointing toward the sea.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The conical lodges were framed by slender poles set in a circle, with upper
+    ends meeting and held by a wooden hoop lashed to the poles.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The lodge frames were about ten feet high and twelve to fifteen feet in base
+    diameter, and were covered with sewn squares of untanned winter deerskins, sometimes
+    with drilling or calico over the skins.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Behind the lodges were stakes where each family tied its dogs so that the
+    dogs were just out of reach of each other.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The camp is identified as a summer trading camp and is said to have contained
+    six to eight hundred persons.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kowak and Noatak River people at Hotham Inlet
+  description: A large gathering from the Kowak and Noatak Rivers, living in the camp
+    and numbering six to eight hundred persons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Families in the encampment
+  description: Household units indicated by the statement that each family tied its
+    dogs to stakes behind the lodges.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: summer trading camp occupants
+  assigned_to:
+  - fig:1
+  basis: The passage says the people were living in the lodges and identifies the
+    place as a summer trading camp containing six to eight hundred persons.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: household units managing dogs
+  assigned_to:
+  - fig:2
+  basis: The passage says each family had dogs tied to stakes behind the lodges.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: shoreline camp setting
+  literal_form: Hotham Inlet, Kotzebue Sound, low sandy spit, shore, sea, and high-water
+    mark
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: umiak row
+  literal_form: sixty to seventy umiaks arranged above high-water mark with bottoms
+    upward and sterns toward the sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: kaiak row with gear
+  literal_form: more than two hundred kaiaks on trestles, with spears, paddles, and
+    equipment below them
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: conical lodge row
+  literal_form: conical lodges made from circular pole frames, wooden hoops, and deerskin
+    coverings
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: dog stakes behind lodges
+  literal_form: stakes behind the lodges to which family dogs were tied out of reach
+    of one another
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Observation of a large summer camp
+  summary: A large gathering from the Kowak and Noatak Rivers is observed at Hotham
+    Inlet, living in conical lodges along a sandy spit parallel to the shore.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Parallel arrangement of boats and lodges
+  summary: The camp is laid out with umiaks along the beach, kaiaks behind them, and
+    lodges behind the kaiaks, all in ordered parallel lines.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Lodge construction and household animals
+  summary: The passage describes how lodge frames are built and covered, and how family
+    dogs are tied behind the lodges.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Trading camp scale and appearance
+  summary: The encampment is identified as a summer trading camp of six to eight hundred
+    persons, notable for its size and methodical arrangement.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal summer trading gathering
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The camp is dated July 15 and explicitly identified as a summer trading camp,
+    with a large temporary gathering living in lodges.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: Seasonality is explicit, but the passage does not describe a full annual
+    cycle, mythic event, or ritual sequence.
+- id: motif:2
+  label: ordered parallel encampment layout
+  taxonomy_refs: []
+  basis: The camp is described as arranged with almost military precision, with boats
+    and lodges ranged in measured parallel lines.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a descriptive settlement-pattern motif rather than a mythological
+    motif family.
+- id: motif:3
+  label: boats and hunting gear organized as camp infrastructure
+  taxonomy_refs: []
+  basis: Umiaks, kaiaks, spears, paddles, and related equipment are arranged in ordered
+    positions within the camp plan.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives material-culture detail only; no symbolic or ritual
+    meaning is stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the camp's kaiaks to the long, slender pattern
+    common at Kotzebue Sound, supporting only a local visual/form comparison for boat
+    type.
+  claim_level: visual_similarity
+  target: long, slender Kotzebue Sound kaiak pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to kaiak shape and regional commonness; it
+    does not establish a mythic motif, origin, or contact history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16318-16327
+  quote_or_summary: At Hotham Inlet near Kotzebue Sound on July 15, a large gathering
+    from the Kowak and Noatak Rivers lived in a row of conical lodges along a low
+    sandy spit parallel to the shore.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 16327-16337
+  quote_or_summary: The camp was arranged with almost military precision; sixty to
+    seventy umiaks were ranged along the beach above high-water mark with sterns toward
+    the sea and bottoms upward toward the prevailing wind.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 16337-16351
+  quote_or_summary: About seventy-five yards behind the umiaks were more than two
+    hundred kaiaks on low trestles, with spears and paddles below; the kaiaks were
+    long and slender, common to Kotzebue Sound, parallel, and pointing toward the
+    sea.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 16351-16362
+  quote_or_summary: About fifty yards behind the kaiaks stood the conical lodges,
+    framed by slender poles in a circle with their upper ends meeting and held by
+    a lashed wooden hoop.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 16363-16373
+  quote_or_summary: The lodge frames were about ten feet high and twelve to fifteen
+    feet across, covered with untanned winter deerskins, sometimes with cloth over
+    them; behind the lodges families tied dogs to stakes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 16375-16381
+  quote_or_summary: The passage identifies the site as a summer trading camp containing
+    six to eight hundred persons and notes its striking size and methodical arrangement.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear ethnographic description. Motif candidates are limited
+    to seasonal, spatial, and material-culture patterns; the text is not a myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic narrative is present in this passage. Extracted motifs and symbols should be treated as ethnographic settlement-pattern data rather than evidence of ritual or mythic symbolism.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l16305-l16381
+  passage_sha256=632d8ac67edfd1707cb6e7eadbe80a8e583934ed740fc44918f3f9c6b3dc1161
+

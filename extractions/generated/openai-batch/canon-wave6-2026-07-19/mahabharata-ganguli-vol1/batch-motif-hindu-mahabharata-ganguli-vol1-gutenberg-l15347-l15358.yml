@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l15347-l15358
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION CL / SECTION CLI / SECTION CLII / SECTION CLIII; lines 15347-15358
+  start: '15347'
+  end: '15358'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Saying this, Bhima sat there awake, keeping watch over his sleeping mother
+    and brothers.”"
+  summary: After referring to Yudhishthira, Bhima becomes wrathful, sees his brothers
+    sleeping on the ground in trust, reasons that a town may be nearby and that he
+    should remain awake, and keeps watch over his sleeping mother and brothers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira is described as a virtuous king and the eldest of the Pandavas.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bhima, described as mighty-armed, squeezes his palms and sighs deeply in affliction
+    after speaking.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Bhima’s renewed wrath is compared to an extinguished fire suddenly blazing
+    up.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Bhima sees his brothers sleeping on the ground like ordinary persons sleeping
+    trustfully.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bhima thinks there is some town not far from the forest.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Bhima says to himself that all are asleep, that he will sit awake, and that
+    this will slake their thirst after they rise refreshed from sleep.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Bhima sits awake and keeps watch over his sleeping mother and brothers.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bhima / Vrikodara
+  description: A mighty-armed figure who is wrathful, sees his brothers sleeping,
+    decides to sit awake, and keeps watch over his sleeping mother and brothers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Yudhishthira
+  description: The virtuous king, eldest of the Pandavas, mentioned in Bhima’s speech.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bhima’s mother
+  description: Bhima’s mother is sleeping while Bhima keeps watch.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Bhima’s brothers
+  description: Bhima’s brothers are seen sleeping on the ground and are later watched
+    over by Bhima.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: vigilant watcher over sleeping kin
+  assigned_to:
+  - fig:1
+  basis: Bhima decides to sit awake and is explicitly said to keep watch over his
+    sleeping mother and brothers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: sleeping kin under watch
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The mother and brothers are asleep while Bhima remains awake and watches
+    over them.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: virtuous elder king
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira is called the virtuous king and eldest of the Pandavas.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: rekindled fire image
+  literal_form: an extinguished fire blazing up all on a sudden
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Bhima’s wrath after speaking
+  summary: After speaking, Bhima squeezes his palms, sighs in affliction, and is again
+    excited with wrath compared to a suddenly rekindled fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Night watch over sleeping family
+  summary: Bhima sees his brothers sleeping on the ground, thinks a town may be near
+    the forest, resolves to stay awake, and keeps watch over his sleeping mother and
+    brothers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: vigil over sleeping kin in the wilderness
+  taxonomy_refs: []
+  basis: Bhima remains awake while his mother and brothers sleep, keeping watch over
+    them in a forest setting.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports the protective vigil pattern locally; no broader
+    taxonomy motif is explicitly indicated.
+- id: motif:2
+  label: wrath rekindled like fire
+  taxonomy_refs: []
+  basis: Bhima’s renewed anger is explicitly likened to an extinguished fire that
+    suddenly blazes up.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is primarily a simile for emotional intensity rather than a full
+    narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15347-15348
+  quote_or_summary: Yudhishthira is called “the virtuous king” and “the eldest of
+    the Pandavas.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 15350-15351
+  quote_or_summary: After speaking, Bhima of mighty arms, wrathful, squeezes his palms
+    and sighs deeply in affliction.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 15352-15353
+  quote_or_summary: Bhima is “like an extinguished fire blazing up all on a sudden”
+    and sees his brothers sleeping on the ground.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 15354-15357
+  quote_or_summary: Bhima thinks a town is not far from the forest, notes that all
+    are asleep, says he will sit awake, and says this will slake their thirst when
+    they rise refreshed.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: '15358'
+  quote_or_summary: Bhima “sat there awake, keeping watch over his sleeping mother
+    and brothers.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal actions, figures, and image are directly supported by the supplied
+    passage. Motif labels are local descriptive candidates only, with no external
+    comparison claims made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious comparison to another tradition or motif family.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l15347-l15358
+  passage_sha256=bdea4505e374383ab5d186b8d7ba16909657c6cf95143f4e4183a95318859946
+

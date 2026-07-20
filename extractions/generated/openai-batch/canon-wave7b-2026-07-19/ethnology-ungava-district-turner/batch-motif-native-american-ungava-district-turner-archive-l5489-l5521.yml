@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l5489-l5521
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: ON LAND / THE HUDSON BAY ESKIMO. / WEAPONS AND OTHER HUNTING IMPLEMENTS,
+    / TURNER.) HUNTING, 249; lines 5489-5521
+  start: '5489'
+  end: '5521'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes how killed deer or similar animals lying in water
+    are brought to land, skinned, opened, and divided. Blood, stomach contents, heart,
+    liver, flesh, head of a young deer, and tongue are kept for food in stated circumstances.
+    Sinew from the lumbar region is removed, cleaned, washed, dried, and reserved;
+    horns may be kept for tool handles.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Animals killed while lying in water are dragged onto land before skinning.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The pelt is removed while the ears and head-skin are left on.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The body is opened, viscera are removed, intestines are freed from fat, and
+    the stomach is partially cleansed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Blood collected in the body cavity and the stomach contents are reserved for
+    food.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The heart and liver are taken to camp and eaten as part of the animal food.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A sinew in the lumbar region is loosened, tied to a thong, pulled free, cleaned,
+    washed, spread out, and dried.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: The head is severed and discarded unless horn material is needed for a handle
+    or other tool purpose.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: A young deer's head may be taken to camp and boiled until soft for food.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The tongue is taken out whole; the passage ends before completing the statement
+    about it.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: people processing the killed animals
+  description: The passage refers to people who skin, open, divide, clean, transport,
+    boil, and consume portions of the animal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: killed animal or deer
+  description: The animal is described as killed, lying in water, dragged onto land,
+    skinned, opened, and divided; one example is specified as a young deer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: butcher-hunters or processors
+  assigned_to:
+  - fig:1
+  basis: The people perform the cutting, skinning, cleaning, drying, carrying to camp,
+    and cooking actions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:2
+  label: hunted animal used for food and materials
+  assigned_to:
+  - fig:2
+  basis: The animal provides pelt, food portions, sinew, and sometimes horn material
+    for tool handles.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water where killed animals are lying before being dragged to land
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sinew or tendon
+  literal_form: wide layer of sinew from the lumbar region, removed, cleaned, washed,
+    and dried
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: horn material
+  literal_form: horn portion that may be kept for a knife handle or other tool
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: food portions
+  literal_form: blood, stomach contents, heart, liver, flesh, boiled young deer head,
+    and tongue
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: bringing killed animal to land and skinning it
+  summary: Killed animals lying in water are dragged to land, skinned, and opened.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: separating edible portions
+  summary: Blood, stomach contents, heart, liver, other flesh, young deer head, and
+    tongue are identified as food portions or taken to camp.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+  - ev:10
+- id: scene:3
+  label: removing and preserving sinew
+  summary: Lumbar sinew is cut loose, pulled from the body, cleaned, washed, spread,
+    and dried.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: discarding or reusing the head
+  summary: The head is normally severed and discarded unless horn material is needed
+    for a handle or another tool; a young deer head may instead be boiled for food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5489-5490
+  quote_or_summary: Killed animals lying in water are dragged onto land and skinned.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5490-5492
+  quote_or_summary: The pelt is removed in a butcher-like manner, with the ears and
+    head-skin left on.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5492-5495
+  quote_or_summary: The body is opened; viscera are removed; intestines are separated
+    from fat; the stomach is partly cleansed.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5495-5498
+  quote_or_summary: Blood from the cavity and the stomach contents are placed in a
+    receptacle and reserved for food.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5498-5500
+  quote_or_summary: Heart and liver are taken to camp and eaten as part of the people's
+    animal food; other flesh is also consumed.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 5500-5507
+  quote_or_summary: A sinew along the lumbar region is exposed, loosened, tied to
+    a thong, and pulled from the animal.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 5507-5513
+  quote_or_summary: The sinew is cleaned of blood and flesh, set aside, washed, spread
+    out, and dried to preserve its fibers and color.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 5513-5517
+  quote_or_summary: The body is cut across the small of the back; the head is severed
+    and discarded unless horn material is needed for a knife handle or another tool.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:9
+  type: summary
+  locator: lines 5517-5520
+  quote_or_summary: A young deer's head may be taken to camp and boiled until soft,
+    making it an article of food.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:10
+  type: summary
+  locator: line 5521
+  quote_or_summary: The tongue is taken out whole; the sentence is incomplete in the
+    supplied passage.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: high
+  notes: The passage is an ethnographic procedural description of animal processing
+    rather than a mythic narrative. Literal extraction is moderately confident despite
+    OCR-like errors and an incomplete final sentence. No candidate mythology motifs
+    or comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparative or mythological motif claim is made from this passage. Available taxonomy symbol 'water' is used only for the literal water setting mentioned in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l5489-l5521
+  passage_sha256=5f38ffb5747218a96a8b7f590b1ae1b3cffe6fc3d1bf1629bfe2788780857d34
+

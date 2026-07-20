@@ -1,0 +1,178 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l5127-l5141
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: DOMESTIC ANIMALS / THE BA-ILA CHURN. / CH. V / DOMESTIC ANIMALS; lines 5127-5141
+  start: '5127'
+  end: '5141'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: That is the mourning for cattle, a mourning which ends in the cooking-pot.
+  summary: The passage describes how people lament the death of an ox or beast with
+    formulaic words, while the owner eats the meat; cattle mourning is distinguished
+    from loud human-style wailing and is said to end in the cooking-pot.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: People say that a named person's beast is destroyed and dead.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The owner of the ox laments while eating its meat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A person bereft of a beast does not mourn by shrieking aloud, but only by
+    saying that it is destroyed and dead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage defines this as mourning for cattle and says it ends in the cooking-pot.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: owner of the ox
+  description: The owner laments the ox while eating its meat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: dead ox or beast
+  description: A beast or ox is described as destroyed and dead; its meat is eaten
+    and associated with the cooking-pot.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: mourning owner
+  assigned_to:
+  - fig:1
+  basis: The owner laments the dead ox while eating its meat, and cattle mourning
+    is described as restrained rather than shrieking.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: dead domestic animal
+  assigned_to:
+  - fig:2
+  basis: The ox or beast is described as destroyed and dead, and its meat is eaten
+    or cooked.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: cooking-pot
+  literal_form: cooking-pot
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Formulaic lament for a dead beast
+  summary: People identify a dead beast with the words that it is destroyed and dead;
+    the owner similarly laments the ox.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mourning ends in the cooking-pot
+  summary: The owner eats the meat of the dead ox; the passage contrasts this cattle
+    mourning with loud shrieking and says it ends in the cooking-pot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Formulaic cattle mourning without loud wailing
+  taxonomy_refs: []
+  basis: The passage distinguishes mourning for cattle from shrieking aloud and gives
+    fixed phrases for the lament.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic description rather than a mythic narrative motif.
+- id: motif:2
+  label: Mourning that concludes in consumption or cooking
+  taxonomy_refs: []
+  basis: The owner laments while eating the meat, and the passage says cattle mourning
+    ends in the cooking-pot.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: No broader symbolic or comparative interpretation is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5127-5131
+  quote_or_summary: '"So-and-so''s beast is destroyed, it is dead."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: 5131-5134
+  quote_or_summary: '"the owner of the ox in the same way laments while eating the
+    meat of it"'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: 5134-5138
+  quote_or_summary: '"does not mourn by shrieking aloud, '' Mawe, Mawe.''"'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: 5139-5140
+  quote_or_summary: '"mourning for cattle, a mourning which ends in the cooking-pot"'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear about cattle mourning practices, but it begins and ends
+    mid-context; motif labels are descriptive and not linked to supplied taxonomy
+    families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious comparison to another motif family, pattern, or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l5127-l5141
+  passage_sha256=0e5a6c45cd994f51a2f9227aa11067fc21aee89d23750dd6002a29e2052682a2
+

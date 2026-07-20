@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.andamanese-aboriginal-inhabitants-andaman-man-archive-l11615-l11646
+source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+passage_locator:
+  label: 'PLATE XI. / TURTLE-HUNT. / PLATE XII, / ANDAMANESE DANCING: THE CONDUCTOR
+    MARKING TIME WITH SOUNDING-BOARD.; lines 11615-11646'
+  start: '11615'
+  end: '11646'
+  translation: On the Aboriginal Inhabitants of the Andaman Islands
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator concludes by describing Andamanese boys trained to wait at
+    table, their play after service, their imitation of European dances at the settlement,
+    and their eventual return to jungle homes and customary habits, ending with a
+    Horatian maxim about nature recurring.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator says several Andamanese lads had been trained to wait at table
+    and were useful and composed in that role.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While serving, the boys are described as dressed in white, standing behind
+    their masters’ chairs with arms crossed and heads thrown back, ready to perform
+    requested service.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the meal, the boys are described as changing out of the white garment
+    and becoming playful, seeking fun or frolic after their service.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: At settlement dances, the boys are described as watching from balconies, imitating
+    valse, polka, and galop steps, choosing male partners, and bumping into other
+    couples.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator states that, despite participation in settlement employments
+    and amusements, the boys generally return to jungle homes and resume aboriginal
+    customs and habits.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage closes with a Horatian maxim used by the narrator to express that
+    nature returns even if expelled.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Andamanese lads
+  description: A collective group of Andamanese boys described as trained table servants,
+    playful after meals, imitators of settlement dances, and eventual returnees to
+    jungle homes.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: masters
+  description: People seated at table whose chairs the boys stand behind while waiting
+    to provide service.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: trained table servants
+  assigned_to:
+  - fig:1
+  basis: The passage says several Andamanese lads had been taught to wait at table
+    and perform service.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dance imitators
+  assigned_to:
+  - fig:1
+  basis: The boys are described as trying to copy valse, polka, and galop steps at
+    settlement dances.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: returnees to jungle homes and customs
+  assigned_to:
+  - fig:1
+  basis: The passage says they are carried back to jungle homes and resume aboriginal
+    customs and habits.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: served masters
+  assigned_to:
+  - fig:2
+  basis: The boys stand behind their masters’ chairs to fulfill requested service.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: white service garment
+  literal_form: white garment worn during table service
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: settlement dances
+  literal_form: valse, polka, and galop performed or imitated at the settlement
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: jungle homes
+  literal_form: jungle homes to which the boys return
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Table service in trained role
+  summary: Several Andamanese boys wait at table, dressed for service and standing
+    behind the chairs of their masters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Imitation of settlement dances
+  summary: At a settlement dance, the boys watch European dance steps from balconies,
+    choose male partners, and attempt the dances in a rough, playful manner.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Return to jungle homes and customs
+  summary: The narrator states that the boys’ participation in settlement life is
+    temporary and that they return to jungle homes and resume customary habits.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: return from imposed settlement role to former home and customs
+  taxonomy_refs:
+  - return
+  basis: The passage explicitly describes the boys as returning to jungle homes and
+    resuming aboriginal customs after a period of trained service and settlement amusement.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a colonial ethnographic observation, not an Indigenous mythic
+    narrative; the motif label is descriptive and should be reviewed.
+- id: motif:2
+  label: nature recurring after training or constraint
+  taxonomy_refs: []
+  basis: The narrator links the return to customary life with a Horatian maxim about
+    nature recurring despite expulsion.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an authorial literary framing rather than a motif stated as part
+    of Andamanese tradition.
+comparison_claims:
+- id: claim:1
+  claim: The narrator explicitly compares the described return to customary life with
+    a Horatian maxim about nature returning despite attempts to expel it.
+  claim_level: same_function
+  target: 'Horatian maxim: nature returns despite expulsion'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is made by the colonial author and does not establish
+    an Indigenous Andamanese comparative motif or historical contact claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11615-11629
+  quote_or_summary: Several Andamanese lads are described as trained to wait at table,
+    standing behind their masters’ chairs in white garments, and becoming playful
+    after the meal.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11629-11636
+  quote_or_summary: At a dance in the settlement, the boys watch from balconies, imitate
+    valse, polka, and galop steps, select male partners, and bump against other couples.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11637-11644
+  quote_or_summary: The narrator says the boys can enjoy settlement employments and
+    amusements but generally return to jungle homes and resume aboriginal customs
+    and habits.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 11644-11646
+  quote_or_summary: "“Naturam expellas furcd tamen usque recurret!”"
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif and comparison fields are limited
+    because the passage is ethnographic and authorial rather than a traditional myth
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs are directly supported by this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:andamanese-aboriginal-inhabitants-andaman-man-archive__l11615-l11646
+  passage_sha256=1b5f9686a42710a9b2a929876cfea69cefa030bb09ab604d9f96981918bc20e6
+

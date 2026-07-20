@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l1506-l1541
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: FIG. PAGE / FIG. . PAGE / ILLUSTRATIONS / FIG. PAGE; lines 1506-1541
+  start: '1506'
+  end: '1541'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An illustrations-list passage enumerates wooden churinga of the Udniringita
+    Totem and several ground-drawings associated with Wollunqua and Black Snake totemic
+    ceremonies at named places.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is part of an illustrations list with figure numbers and page
+    references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fragment describes circles filled with a few incised straight lines.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Figures 307 and 308 are listed as wooden churinga of the Udniringita Totem
+    and are labeled Arunta.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Figures 309 through 312 are listed as ground-drawings associated with the
+    Wollunqua totemic ceremony at Tikomeri, Parapakini, Parapakini, and Ununtumurra.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:5
+  text: Figures 313 through 315 are listed as ground-drawings associated with the
+    Black Snake totemic ceremony at Pitimula and Tjinqurokora.
+  category: relationship
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: obs:6
+  text: The named places in the ground-drawing entries are Tikomeri, Parapakini, Ununtumurra,
+    Pitimula, and Tjinqurokora.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Udniringita Totem
+  description: A totem named in entries for wooden churinga labeled Arunta.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Wollunqua
+  description: A name qualifying a totemic ceremony associated with several ground-drawings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Black Snake
+  description: A snake-named totemic ceremony associated with several ground-drawings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: totemic ceremonial subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The entries identify Udniringita as a totem and Wollunqua and Black Snake
+    as names of totemic ceremonies associated with objects or ground-drawings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: incised circles
+  literal_form: Circles filled with a few incised straight lines.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wooden churinga
+  literal_form: Wooden churinga of the Udniringita Totem.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: ground-drawing
+  literal_form: Ground-drawings associated with totemic ceremonies.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:4
+  label: Black Snake
+  literal_form: Black Snake named in a totemic ceremony.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Illustration catalogue of totemic objects and designs
+  summary: 'The passage lists ritual or ceremonial visual items: wooden churinga of
+    the Udniringita Totem and ground-drawings associated with Wollunqua and Black
+    Snake totemic ceremonies at named places.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: snake or serpent as totemic ceremonial subject
+  taxonomy_refs:
+  - serpent
+  basis: The passage names a Black Snake totemic ceremony and links it to multiple
+    ground-drawings.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage is an illustrations list and gives no narrative, ritual sequence,
+    or mythic action for the Black Snake.
+- id: motif:2
+  label: totemic designs tied to named places
+  taxonomy_refs: []
+  basis: Several entries identify ground-drawings as associated with totemic ceremonies
+    of named places.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: This is a descriptive catalogue pattern rather than a narrated mythic
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The Black Snake entries can be cautiously aligned with the serpent motif
+    family at the level of named snake imagery.
+  claim_level: same_motif
+  target: serpent motif family
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The alignment rests only on the explicit phrase Black Snake; the passage
+    does not provide mythic functions, actions, or broader comparative context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1506-1541
+  quote_or_summary: The passage appears under the illustrations heading and consists
+    of figure entries with page numbers.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpts permitted.
+- id: ev:2
+  type: quote
+  locator: lines 1506-1541; opening fragment
+  quote_or_summary: "“centric circles filled with a few incised straight lines.”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 1506-1541; figures 307-308
+  quote_or_summary: "“Wooden Churinga of the Udniringita Totem. Arunta”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 1506-1541; figure 309
+  quote_or_summary: "“Ground-drawing associated with the Wollunqua totemic ceremony
+    of a place called Tikomeri”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 1506-1541; figure 310
+  quote_or_summary: "“Ground-drawing associated with the Wollunqua totemic ceremony
+    of a place called Parapakini”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 1506-1541; figure 311
+  quote_or_summary: "“Ground-drawing associated with the Wollunqua totemic ceremony
+    of a place called Parapakini”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 1506-1541; figure 312
+  quote_or_summary: "“Ground-drawing associated with the Wollunqua totemic ceremony
+    of a place called Ununtumurra”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: quote
+  locator: lines 1506-1541; figure 313
+  quote_or_summary: "“Ground-drawing associated with the Black Snake totemic ceremony
+    of a place called Pitimula”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: lines 1506-1541; figure 314
+  quote_or_summary: "“Ground-drawing associated with the Black Snake totemic ceremony
+    of a place called Tjinqurokora”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: quote
+  locator: lines 1506-1541; figure 315
+  quote_or_summary: "“Ground-drawing associated with the Black Snake totemic ceremony
+    of a place called Tjinqurokora”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a catalogue of illustration captions, so extraction is limited
+    to named totemic subjects, objects, designs, and places; no narrative actions
+    are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external knowledge was used; Wollunqua was not mapped to the serpent taxonomy because this passage itself does not identify it as a snake or serpent.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l1506-l1541
+  passage_sha256=c0ae710089e8bc50dc04c90cf4e5070494aa9096847e094658a3b26bb1117546
+

@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l13213-l13231
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: 'APO CEREMONY / RELIGION : THE GOD TANO / XVIII / RELIGION : THE GOD TANO;
+    lines 13213-13231'
+  start: '13213'
+  end: '13231'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A narrating observer sees an okomfo priest seated beside a shrine, covered
+    with white powdered clay, adorned with suman, attended by a woman carrying more
+    clay, and beating a gong while singing a song that addresses Ame Yao and identifies
+    the singer as son of the god Ta Kese, King of Aban. A footnote reports a restriction
+    on chiefs directly killing sacrificial animals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrating observer passes the spot and sees an okomfo priest sitting upon
+    the apa beside the shrine.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The priest is covered with white powdered clay and heavily adorned with suman,
+    described parenthetically as fetishes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A woman attends the priest while carrying a basin containing powdered clay.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The priest sits upon the logs, beats an odawuru gong, and sings.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The song says that the singer's words reach far away and reach peoples, and
+    it addresses Ame Yao.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The song voice identifies itself as the son of the god Ta Kese, King of Aban.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A footnote reports that a big chief might not kill a fowl, and that in sheep
+    sacrifices the chief only pricks the throat before someone else cuts it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Narrating observer
+  description: First-person observer passing the spot on the way to another village.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Okomfo priest
+  description: Priest seated beside the shrine, covered with white powdered clay,
+    adorned with suman, beating a gong, and singing.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Woman carrying powdered clay
+  description: Woman attending the priest and carrying a basin containing powdered
+    clay.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ame Yao
+  description: Name addressed in the priest's song.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ta Kese, King of Aban
+  description: Named in the song as a god and as the father of the song voice.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Big chief mentioned in footnote
+  description: Generic chief described as restricted from killing a fowl and as only
+    pricking the throat in sheep sacrifice.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Unspecified person who cuts the throat
+  description: Unnamed person who cuts the sheep's throat after the chief pricks it.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: observing traveler
+  assigned_to:
+  - fig:1
+  basis: The passage is narrated by someone passing the spot on the way to another
+    village.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: priest or ritual specialist
+  assigned_to:
+  - fig:2
+  basis: The figure is explicitly called an okomfo, glossed as priest.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: clay-bearing attendant
+  assigned_to:
+  - fig:3
+  basis: The woman attends the priest and carries a basin containing powdered clay.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: gong-beating ritual singer
+  assigned_to:
+  - fig:2
+  basis: The priest beats an odawuru gong and sings the recorded song.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: addressed name in song
+  assigned_to:
+  - fig:4
+  basis: The song directly addresses Ame Yao.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: god and named father in song
+  assigned_to:
+  - fig:5
+  basis: The song identifies Ta Kese, King of Aban, as a god and as father of the
+    song voice.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: chief constrained in sacrificial killing
+  assigned_to:
+  - fig:6
+  basis: The footnote says a big chief might not kill a fowl and only pricks the throat
+    in sheep sacrifice.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: delegated throat-cutter
+  assigned_to:
+  - fig:7
+  basis: The footnote says the throat is afterwards cut by someone else.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: white powdered clay
+  literal_form: White powdered clay covering the priest and held in a basin by the
+    attendant.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: suman fetishes
+  literal_form: Suman, glossed as fetishes, heavily adorning the priest.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: odawuru gong
+  literal_form: Gong beaten by the priest while singing.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: shrine
+  literal_form: Shrine beside which the priest sits.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: apa and logs
+  literal_form: The apa and logs on which the priest sits.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:6
+  label: fowl and sheep in sacrificial practice
+  literal_form: Fowl and sheep mentioned in the footnoted comments on killing and
+    sacrifice.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Observer encounters a shrine-side priest
+  summary: The observer sees the priest seated beside the shrine, marked with white
+    powdered clay, adorned with suman, and attended by a woman carrying more clay.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gong-accompanied ritual song
+  summary: The priest sits on logs, beats the odawuru gong, and sings lines about
+    words reaching far away and about being son of the god Ta Kese.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Footnoted sacrificial role division
+  summary: The footnote reports a ritual restriction in which a chief does not directly
+    kill certain animals, but pricks a sheep's throat before another person cuts it.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual marking and fetish adornment of a priest
+  taxonomy_refs: []
+  basis: The priest is described as covered with white powdered clay, heavily adorned
+    with suman, and seated beside the shrine.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage describes the objects and adornment but does not explain their
+    meanings.
+- id: motif:2
+  label: far-reaching ritual speech or song
+  taxonomy_refs: []
+  basis: The repeated song lines state that the singer's words reach far away and
+    reach peoples.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage records the formula but does not define its ritual function.
+- id: motif:3
+  label: divine parent-child identity in song
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The song voice says it is the son of the god Ta Kese, King of Aban.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not clarify whether the first-person voice is the priest,
+    a ritual persona, or another represented speaker.
+- id: motif:4
+  label: restricted or delegated sacrificial killing
+  taxonomy_refs:
+  - sacrifice
+  basis: The footnote reports that a chief may not kill a fowl and that, in sheep
+    sacrifice, the chief only pricks the throat before someone else cuts it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This motif comes from a footnote/report rather than the directly observed
+    shrine-side scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13213-13218
+  quote_or_summary: The observer passes the spot and sees an okomfo priest sitting
+    upon the apa beside a shrine, covered with white powdered clay, adorned with suman,
+    and attended by a woman carrying a basin of powdered clay.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13218-13220
+  quote_or_summary: The priest sits on logs, beats his odawuru gong, and sings the
+    following song.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 13222-13229
+  quote_or_summary: "“My words reach far away, O Ame Yao... I who am the son of the
+    god Ta Kese, King of Aban.”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 13230-13231
+  quote_or_summary: A footnote says the author was told in South Ashanti that a big
+    chief might not kill a fowl; in sheep sacrifices, the chief only pricks the throat
+    and someone else cuts it afterward.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal details are explicit in the passage. Motif candidates are conservative;
+    no separate comparison claims were made because the passage does not itself compare
+    these details to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only where directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l13213-l13231
+  passage_sha256=34ee1df71e01838adcc511743c02848d351445d69da70068791794480cd5a5bc
+

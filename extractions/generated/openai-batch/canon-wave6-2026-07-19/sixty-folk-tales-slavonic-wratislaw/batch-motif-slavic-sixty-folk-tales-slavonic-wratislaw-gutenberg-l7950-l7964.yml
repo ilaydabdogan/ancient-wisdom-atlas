@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l7950-l7964
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: XLIV.--FATE. / XLV.--THE BIRDCATCHER. / XLVI.--THE TWO BROTHERS. / XLVII.--THE
+    ORIGIN OF MAN.; lines 7950-7964
+  start: '7950'
+  end: '7964'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: At the beginning only God exists. God sleeps and dreams for ages, then
+    wakes. His glances become stars. He travels through the limitless creation and
+    reaches the earth, where a drop of sweat from his brow falls and becomes the first
+    man. The passage says the first man is God's kin and was fated from the beginning
+    to toil and sweat.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At the beginning there was nothing but God.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: God slept and dreamed for ages before he was fated to wake.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After waking, God looked around, and every glance became a star.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: God travelled through what he had created and found no end or limit.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: God arrived at the earth while weary, with sweat on his brow.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A drop of God's sweat fell on the earth, became alive, and was identified
+    as the first man.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The first man is described as God's kin.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The first man is said to have been produced from sweat and fated from the
+    beginning to toil and sweat.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The only being at the beginning; he sleeps, dreams, wakes, creates
+    stars through his glances, travels, and produces the first man through a drop
+    of sweat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: first man
+  description: The first human, made alive from a drop of God's sweat that fell on
+    the earth; described as God's kin and fated to toil and sweat.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: primordial creator figure
+  assigned_to:
+  - fig:1
+  basis: God is the only being at the beginning, and his glances become stars; the
+    first man arises from his sweat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: first human
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the living being formed from the sweat drop as the
+    first man.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine kin
+  assigned_to:
+  - fig:2
+  basis: The passage states that the first man is God's kin.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: stars from divine glances
+  literal_form: God's glances transforming into stars
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sweat drop
+  literal_form: a drop of sweat from God's brow falling on the earth and becoming
+    alive
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: earth
+  literal_form: the earth where the sweat drop falls and becomes the first man
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: toil and sweat
+  literal_form: humanity's fated condition of toil and sweat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: God asleep before creation
+  summary: Only God exists at the beginning; he sleeps and dreams for ages until he
+    is fated to wake.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Stars formed from glances
+  summary: After waking, God looks around, and each glance becomes a star; he then
+    travels to see what he has created.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: First man formed from divine sweat
+  summary: God reaches the earth weary; a drop of sweat falls from his brow, becomes
+    alive, and is identified as the first man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Human fate explained
+  summary: The first man is described as God's kin but also as produced from sweat
+    and fated from the beginning to toil and sweat.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: primordial deity alone before creation
+  taxonomy_refs:
+  - chaos
+  basis: The passage begins with nothing but God, before stars and humanity appear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage says there was nothing but God, but does not describe chaotic
+    matter or a named chaos being.
+- id: motif:2
+  label: creation through divine glance
+  taxonomy_refs: []
+  basis: God's glances transform into stars after he wakes.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy reference exactly names creation by glance.
+- id: motif:3
+  label: first human from divine bodily substance
+  taxonomy_refs:
+  - divine_parent_child
+  basis: A drop of God's sweat becomes alive as the first man, who is then called
+    God's kin.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage uses kinship language, but it does not describe ordinary parentage
+    or birth.
+- id: motif:4
+  label: origin of human toil explained by creation material
+  taxonomy_refs: []
+  basis: Because the first man was produced from sweat, the passage states that he
+    was fated from the beginning to toil and sweat.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly corresponds to etiological explanation
+    of labor.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7950-7953
+  quote_or_summary: '"In the beginning there was nothing but God, and God slept and
+    dreamed. For ages and ages did this dream last."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 7953-7957
+  quote_or_summary: '"Having roused himself from sleep, he looked round about him,
+    and every glance transformed itself into a star."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7958-7962
+  quote_or_summary: '"On the earth fell a drop of sweat: the drop became alive, and
+    here you have the first man."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 7962-7964
+  quote_or_summary: '"He is God''s kin... he was produced from sweat; already in the
+    beginning it was fated for him to toil and sweat."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif taxonomy alignment is partly
+    uncertain because the available taxonomy does not include exact entries for creation
+    by divine glance, creation from sweat, or etiological origin of human labor.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make an explicit comparison to another tradition or corpus.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l7950-l7964
+  passage_sha256=377d8a04efa70a2fa54168cfe5db1fb59336f3ad7920b33246ac9c419082147e
+

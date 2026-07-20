@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l10121-l10133
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION LXI / SECTION LXII / SECTION LXIII / SECTION LXIV; lines 10121-10133
+  start: '10121'
+  end: '10133'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Yudhishthira asks Bhishma to explain planetary and stellar conjunctions
+    as they relate to making gifts. Bhishma introduces an ancient narrative in which
+    Devaki questions the celestial Rishi Narada at Dwaraka, and Narada answers her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yudhishthira says he has heard a discourse on the ordinance concerning the
+    gift of food.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira asks for a discourse on conjunctions of planets and stars in
+    relation to making gifts.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bhishma introduces an ancient narrative about a discourse between Devaki and
+    Narada.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Narada is described as godlike in feature, conversant with every duty, and
+    foremost of Rishis.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Narada arrives at Dwaraka, where Devaki asks him a question.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Narada answers Devaki, and Bhishma tells Yudhishthira to hear the recitation.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Speaker who asks Bhishma about planetary and stellar conjunctions in
+    relation to gifts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bhishma
+  description: Speaker who responds by introducing an ancient narrative involving
+    Devaki and Narada.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Devaki
+  description: Questioner in the ancient narrative who asks Narada a question at Dwaraka.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Narada
+  description: Celestial Rishi, described as godlike and conversant with every duty,
+    who arrives at Dwaraka and answers Devaki.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: questioner seeking instruction
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks Bhishma to discourse on conjunctions of planets and stars
+    in relation to gifts.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: teacher and narrative transmitter
+  assigned_to:
+  - fig:2
+  basis: Bhishma introduces an ancient narrative and says he will recite Narada's
+    words.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: questioner within embedded narrative
+  assigned_to:
+  - fig:3
+  basis: Devaki asks Narada a question after his arrival at Dwaraka.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: celestial Rishi
+  assigned_to:
+  - fig:4
+  basis: Narada is explicitly called a celestial Rishi and foremost of Rishis.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: answering authority on duty
+  assigned_to:
+  - fig:4
+  basis: Narada is described as conversant with every duty and answers Devaki's question.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: planets and stars
+  literal_form: conjunction of the planets and the stars
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: gift of food and making gifts
+  literal_form: gift of food; making gifts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Dwaraka
+  literal_form: Dwaraka
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Yudhishthira asks Bhishma about astral timing for gifts
+  summary: Yudhishthira, having heard about the gift of food, asks Bhishma to explain
+    planetary and stellar conjunctions in relation to gift-giving.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bhishma introduces Devaki and Narada narrative
+  summary: Bhishma frames his answer as an ancient narrative in which Narada comes
+    to Dwaraka, Devaki asks him a question, and Narada answers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: instruction on sacred gift-giving
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage centers on a requested discourse about gifts, including the gift
+    of food and the relation of planetary and stellar conjunctions to making gifts.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is only an introductory frame and does not yet describe the
+    rules or ritual actions for making gifts.
+- id: motif:2
+  label: wisdom transmitted through nested dialogue
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira questions Bhishma, who introduces an older discourse in which
+    Devaki questions Narada and receives an answer from a Rishi.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The specific content of Narada's teaching is not included in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10121-10125
+  quote_or_summary: Yudhishthira says he has heard about the ordinance for the gift
+    of food and asks for instruction on planetary and stellar conjunctions in relation
+    to making gifts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 10126-10130
+  quote_or_summary: Bhishma says an ancient narrative is recited concerning a discourse
+    between Devaki and Narada, who is described as godlike, conversant with every
+    duty, and foremost of Rishis.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 10130-10133
+  quote_or_summary: Narada arrives at Dwaraka, Devaki asks him a question, Narada
+    answers, and Bhishma prepares to recite the answer.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The excerpt is a brief narrative frame with clear speakers and topic, but
+    little substantive ritual content. No comparison claims were made because the
+    passage itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to available motif families; available symbol taxonomy did not include astral bodies, gifts, or Dwaraka.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l10121-l10133
+  passage_sha256=e16d48b5cf1b25c432242104a8983ebb5d73cefa1af0264f628ca9b392aa80ba
+

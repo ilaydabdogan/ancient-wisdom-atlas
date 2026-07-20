@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l15562-l15586
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: THE  LUCKY  FOUNDLING  345 / THE  WICKED   FATHER  347 / HAUSA  SUPERSTITIONS
+    / THE    WOMAN'S  SECRET  349; lines 15562-15586
+  start: '15562'
+  end: '15586'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A father associated with Jerboa skins refuses an arrangement and reveals
+    a secret. He confronts his son at a feast, telling him to discard his turban and
+    eat Jerboa. The Rich Man, publicly shamed because he had claimed the boy as his
+    own son, gives the boy a sword and tells him to kill either the Rich Man or the
+    boy's real father. The boy kills his real father and returns to the city with
+    the Rich Man. The narrator then asks whether the boy acted rightly or wrongly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Father, described as the wearer of Jerboa skins, refuses to agree and
+    lets out a secret.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Father goes with a club to a place where a feast is being held.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Father pokes his Son and tells him to throw away his turban and come eat
+    Jerboa.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Rich Man draws his sword and puts it into the Boy's hand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Rich Man says he is disgraced before the whole city because he had said
+    the Boy was really his son, while the Boy's Father has come to take him away.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Rich Man tells the Boy to take the sword and kill either the Rich Man
+    or the Boy's Father.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Boy cuts down his real Father, and the Rich Man and the Boy go back into
+    the city.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator asks whether the Boy did right or wrong.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Father / wearer of Jerboa skins
+  description: A figure identified as the Father and later as the Boy's real Father;
+    he wears Jerboa skins, reveals the secret, comes to the feast with a club, and
+    calls the Boy to eat Jerboa.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Boy / Son
+  description: The Son addressed by the Father and the Boy whom the Rich Man has claimed
+    as his son; he receives the sword and kills his real Father.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Rich Man
+  description: A wealthy man who has claimed the Boy as his son, feels publicly disgraced,
+    gives the Boy a sword, and returns to the city with him after the killing.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: real father
+  assigned_to:
+  - fig:1
+  basis: The Rich Man refers to the Father coming to take the Boy away, and the narration
+    says the Boy cut down his real Father.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: son / boy
+  assigned_to:
+  - fig:2
+  basis: The Father addresses him as Son, and the Rich Man calls him the Boy whom
+    he had claimed as his son.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: claimed father or patron
+  assigned_to:
+  - fig:3
+  basis: The Rich Man says he had stated that the Boy was really his Son.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: secret revealer
+  assigned_to:
+  - fig:1
+  basis: The passage says the Father went and let out the secret.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: instigator of lethal choice
+  assigned_to:
+  - fig:3
+  basis: The Rich Man gives the Boy a sword and instructs him to kill either the Rich
+    Man or the Father.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: killer of real father
+  assigned_to:
+  - fig:2
+  basis: The narration says the Boy cut down his real Father.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: secret
+  literal_form: An unnamed secret that the Father lets out.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Jerboa skins and Jerboa
+  literal_form: Jerboa skins worn by the Father, and Jerboa as food the Father tells
+    the Son to eat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: club
+  literal_form: A club carried by the Father to the feast.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: turban
+  literal_form: The turban the Father tells the Son to throw away.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: sword
+  literal_form: A sword drawn by the Rich Man and placed into the Boy's hand.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: feast
+  literal_form: The feast at which the Father confronts the Son.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: city
+  literal_form: The city before which the Rich Man says he is disgraced, and into
+    which the Rich Man and Boy return.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Secret disclosed
+  summary: The Father refuses to agree to an arrangement and reveals the secret.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Confrontation at the feast
+  summary: The Father arrives at a feast with a club, pokes his Son, and tells him
+    to discard his turban and eat Jerboa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Public disgrace and sword choice
+  summary: The Rich Man says he is disgraced before the city, gives the Boy a sword,
+    and demands that the Boy kill either him or the Father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Killing and return to the city
+  summary: The Boy kills his real Father, and the Rich Man and the Boy return to the
+    city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Narrator's moral question
+  summary: The narrator asks whether the Boy did right or wrong.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Disclosure of a concealed secret
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The Father lets out a secret, after which public disgrace and violent conflict
+    follow.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The supplied passage does not state the content of the secret or explicitly
+    call it forbidden; the taxonomy link is therefore cautious.
+- id: motif:2
+  label: Contested sonship and public recognition
+  taxonomy_refs: []
+  basis: The Rich Man says he claimed the Boy as his son, but the Boy's Father arrives
+    and says he will take him away.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage fragment does not explain the earlier circumstances of the
+    Boy's relationship with the Rich Man.
+- id: motif:3
+  label: Forced choice between two father figures
+  taxonomy_refs: []
+  basis: The Rich Man places a sword in the Boy's hand and orders him to kill either
+    the Rich Man or the Father; the Boy kills his real Father.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the choice and outcome but does not supply the Boy's
+    inner reasoning.
+- id: motif:4
+  label: Audience moral dilemma after kin-killing
+  taxonomy_refs: []
+  basis: After the Boy kills his real Father, the narrator asks whether the Boy did
+    right or wrong.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The narrator poses the judgment question but gives no answer in the supplied
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared at the functional level with a forbidden-knowledge
+    or secret-disclosure motif, because disclosure of a concealed secret leads to
+    social rupture and violence.
+  claim_level: same_function
+  target: forbidden_knowledge motif family / secret-disclosure pattern
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Only the disclosure and consequences are present in the supplied lines;
+    the secret's content, explicit prohibition, and any historical relationship to
+    other traditions are not provided.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15562-15567
+  quote_or_summary: The Father, the wearer of Jerboa skins, refuses to agree and “went
+    and let out the secret.”
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 15568-15571
+  quote_or_summary: The Father goes with his club to a feast, pokes his Son, and tells
+    him to throw away his turban and come eat Jerboa.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 15571-15580
+  quote_or_summary: The Rich Man draws his sword, places it in the Boy's hand, says
+    he is disgraced before the city because he had claimed the Boy as his son, and
+    orders the Boy to kill either him or the Father.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 15580-15582
+  quote_or_summary: "“Then the boy cut down his real Father,” and the Rich Man and
+    the Boy return to the city."
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: 15584-15586
+  quote_or_summary: The narrator asks whether the Boy did right or wrong.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The supplied line range is a fragment beginning mid-speech; earlier context
+    may clarify the secret and the prior relationship among the Father, the Boy, and
+    the Rich Man.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All identifications are limited to names and relationships stated in the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l15562-l15586
+  passage_sha256=08873e4276acfc13f8913207f3f27dd5ea15660368cf1c6e3c672871fc968f70
+

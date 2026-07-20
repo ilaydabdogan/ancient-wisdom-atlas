@@ -1,0 +1,426 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l7209-l7289
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: MORTUARY BELIEFS AND CUSTOMS. / STEVEK80N.1 MORTUARY CUSTOMS. 145 / MYTHS.
+    / THB COYOTE ENCOUNTERS DISAPPOINTMENTS.; lines 7209-7289
+  start: '7209'
+  end: '7289'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A coyote catches a hare, but the hare delays him with speech, feigned trembling,
+    and escape to a stone house. The coyote attempts to kill the hare by fire, finally
+    using burning piñon gum, but the hare tricks him into coming close and throws
+    the boiling gum in his face before escaping. The coyote then travels across a
+    mountain, finds a sleeping lynx, gathers fat from the lynx with a stick, reshapes
+    its mouth, ears, tail, limbs, and body, and calls it awake.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The coyote sees a hare sitting before its house, catches it, and intends to
+    eat it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hare asks the coyote not to eat him immediately and asks to sit at the
+    entrance of his house while speaking.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hare describes fear of arrow-carrying people and trembles violently while
+    speaking.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the coyote is off guard, the hare runs away and reaches the stone house
+    of his companion before the coyote catches him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The coyote cannot open the hare's refuge because the house is made of strong
+    stone.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The coyote proposes killing the hare with fire made from grass, trees, and
+    then piñon gum; the hare says grass and trees are his food and friends but says
+    he fears the gum.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The coyote sets fire to piñon gum at the doorway, and the gum boils like hot
+    grease.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The hare tells the coyote that his mouth is too close while he is blowing
+    on the fire, then throws boiling gum into the coyote's face and escapes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the gum injures his face and eyes, the coyote calls himself very stupid
+    and leaves sadly.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The coyote travels a long distance, crosses a mountain, and finds a sleeping
+    lynx whom he regards as a companion.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: While the lynx sleeps, the coyote uses a slender round stick to gather fat
+    from the lynx's stomach.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The coyote changes the lynx's mouth, ears, tail, legs, arms, and body, then
+    calls to the lynx until it awakens without speaking.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: sliurtsCinna / coyote
+  description: A coyote who catches and pursues a hare, attempts to kill him by fire,
+    is injured by boiling gum, then later alters a sleeping lynx's body.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: hare
+  description: A hare sitting before his house who delays the coyote with speech,
+    escapes to a stone house, and throws boiling gum into the coyote's face.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: lynx
+  description: A sleeping man identified parenthetically as a lynx; the coyote calls
+    him companion and alters his body while he sleeps.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: predatory pursuer
+  assigned_to:
+  - fig:1
+  basis: The coyote catches the hare, pursues him after his escape, and repeatedly
+    asks how to kill him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: deceived and injured schemer
+  assigned_to:
+  - fig:1
+  basis: The hare's speech and actions lead the coyote off guard, and the coyote's
+    fire plan ends with boiling gum in his face.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: pursued escapee using deception
+  assigned_to:
+  - fig:2
+  basis: The hare delays the coyote through conversation, escapes when the coyote
+    is off guard, and later manipulates the coyote's fire plan to escape again.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:4
+  label: sleeping body subject
+  assigned_to:
+  - fig:3
+  basis: The lynx remains asleep while the coyote gathers fat and reshapes his bodily
+    features, then wakes only after being called.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: body-altering actor
+  assigned_to:
+  - fig:1
+  basis: The coyote deliberately reduces, shortens, and lengthens parts of the sleeping
+    lynx's body.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: stone house refuge
+  literal_form: hard stone house belonging to the hare's companion
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: fire as attempted killing means
+  literal_form: fire made from grass, trees, and piñon gum
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: grass and trees as hare's food and friends
+  literal_form: grass and trees named by the hare as food and friends
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: boiling piñon gum
+  literal_form: burning piñon gum boiling like hot grease
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: mountain crossing
+  literal_form: a mountain crossed by the coyote during his travel
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: fat-gathering stick
+  literal_form: slender round stick thrust into the lynx's stomach and twisted to
+    gather fat
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Coyote captures the hare
+  summary: The coyote sees the hare outside his house, catches him, and agrees to
+    wait while the hare speaks from the house entrance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hare escapes to stone refuge
+  summary: The hare speaks of fear, trembles, waits until the coyote is off guard,
+    and runs into a strong stone house before the coyote can catch him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fire trap reversed
+  summary: The coyote tries to kill the hare with fire, accepts the hare's stated
+    fear of piñon gum, burns the gum at the entrance, and is struck in the face by
+    the boiling gum when the hare escapes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Coyote leaves and crosses a mountain
+  summary: In pain and frustration after the hare's escape, the coyote leaves, travels
+    a long distance, and crosses a mountain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Sleeping lynx altered
+  summary: The coyote finds a sleeping lynx, gathers fat from his stomach with a stick,
+    reshapes several body parts, and calls to him until he wakes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Predator or trickster outwitted by intended prey
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The coyote catches and pursues the hare, but the hare repeatedly escapes
+    through speech, feigned fear, and a reversal of the coyote's killing plan.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy label is broad; the passage gives an animal trickster-style
+    reversal but does not explicitly name a comparative motif family.
+- id: motif:2
+  label: False counsel about the means of death
+  taxonomy_refs: []
+  basis: The hare tells the coyote that grass and trees will not kill him but claims
+    to fear piñon gum, guiding the coyote toward the material that the hare uses to
+    escape.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is phrased as a local narrative pattern rather than a verified taxonomy
+    item.
+- id: motif:3
+  label: Attacker's fire weapon turned back on himself
+  taxonomy_refs: []
+  basis: The coyote sets burning piñon gum at the doorway to kill the hare, but the
+    hare throws the boiling gum into the coyote's face and escapes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports reversal of a fire attack; no specific external motif
+    number is supplied.
+- id: motif:4
+  label: Animal body reshaped during sleep
+  taxonomy_refs: []
+  basis: The coyote alters the sleeping lynx's mouth, ears, tail, limbs, and body
+    while the lynx remains asleep.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage does not explain the outcome as an origin of present animal
+    form within the supplied excerpt, so etiological interpretation should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7209-7289, opening hare encounter
+  quote_or_summary: The coyote sees a hare before his house, catches him, and agrees
+    to wait after the hare asks not to be eaten immediately and asks to speak from
+    the house entrance.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 7209-7289, hare's speech and escape
+  quote_or_summary: The hare describes fear of people with arrows, trembles violently,
+    and runs away when the coyote is off guard.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 7209-7289, stone house refuge
+  quote_or_summary: The hare reaches the house of his companion; the coyote finds
+    that the house is hard stone and says he cannot open it.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 7209-7289, fire proposals
+  quote_or_summary: The coyote says he will kill the hare with fire using grass, trees,
+    and then piñon gum; the hare calls grass and trees his food and friends but says
+    he fears the gum.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 7209-7289, boiling gum reversal
+  quote_or_summary: The coyote burns piñon gum at the doorway; as he blows close to
+    the fire, the hare throws the boiling gum into his face and escapes.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 7209-7289, coyote's departure and lynx encounter
+  quote_or_summary: After pain in his eyes and face, the coyote calls himself stupid,
+    leaves sadly, travels a long distance, crosses a mountain, and comes to a sleeping
+    lynx whom he considers a companion.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 7209-7289, fat-gathering act
+  quote_or_summary: The coyote obtains a slender round stick, thrusts it into the
+    sleeping lynx's stomach, and twists it carefully to gather fat.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 7209-7289, body alteration and waking
+  quote_or_summary: The coyote reduces the lynx's mouth and ears, shortens his tail,
+    lengthens his legs, arms, and body, then calls until the lynx opens his eyes without
+    speaking.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence is clear in the supplied passage. Motif labels are candidate
+    descriptions and need human review, especially for the body-alteration episode
+    and the broad use of trickster_boundary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added because the supplied passage does not itself identify a related text or tradition beyond the broad candidate motif taxonomy.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l7209-l7289
+  passage_sha256=2f131910688f76e88f8b2fa39682c57c875e8aec9183bb1497ee9e68f58f11b6
+

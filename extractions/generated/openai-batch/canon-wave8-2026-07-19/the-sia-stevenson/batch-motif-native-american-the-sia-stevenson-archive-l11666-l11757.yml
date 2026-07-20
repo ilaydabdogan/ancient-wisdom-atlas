@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l11666-l11757
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: HOUSEHOLD AIITICLES. / TUHMR.) HOUSEHOLD AETKLES. 231 / TUKHEB.1 THE KAIAK.
+    239 / ON LAND.; lines 11666-11757
+  start: '11666'
+  end: '11757'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a technical ethnographic description of land transportation
+    by dog-drawn sled, including team sizes, sled materials, runner construction,
+    bindings, iron shoes, and an alternative frozen mud runner shoe for very cold
+    weather.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Land transportation is described as using sleds drawn by dogs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dog teams may range from one to twenty animals, with seven or nine described
+    as common for general purposes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sled construction varies slightly by region, material availability, and need
+    for sled weight.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A suitable tree is selected for sled timber, generally larch because of its
+    strength, though spruce is also mentioned.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Each runner is made from a single piece of timber, with knots and crossgrain
+    avoided because they make the wood brittle in cold weather.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The forward end of each runner is made with a long gradual curve so the sled
+    can pass over obstructions.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Crossbars or slats are fastened to the runners with soaked sealskin line threaded
+    through holes and notches.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The soaked line shrinks while drying and tightens the joints; metal is avoided
+    in this binding because it would break in cold weather.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: Thong bindings allow the sled to move over uneven surfaces rather than remain
+    rigid and break.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The bottom of the runner may be shod with trader-supplied iron fastened with
+    countersunk screws.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: For very cold travel, a runner shoe is made from prepared humus or mud that
+    is heated, stirred, cleaned of coarse materials, and applied to the wetted runner.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: After the mud freezes, it is planed smooth and sprayed with water, then rubbed
+    with a reindeer-skin mitten until it appears like black glass.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The frozen mud runner surface can be damaged by rocks and repaired by freezing
+    pieces back on with water or by attaching shaped ice.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Eskimo sled users and builders
+  description: People described as constructing, preparing, owning, and using the
+    sleds.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Dogs
+  description: Animals used to draw sleds, in teams ranging from one to twenty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Traders
+  description: People who bring iron used for runner shoes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: sled constructor
+  assigned_to:
+  - fig:1
+  basis: The passage describes selection of wood, preparation of runners, fastening
+    of slats, and preparation of mud shoes by Eskimo builders or owners.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:9
+- id: role:2
+  label: sled owner or user
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the owner planing the frozen mud shoe and to the sled
+    being ready for use.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: draft animals
+  assigned_to:
+  - fig:2
+  basis: Dogs are explicitly described as drawing the sleds.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: iron suppliers
+  assigned_to:
+  - fig:3
+  basis: The iron for runner shoes is said to be brought by traders.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: dog-drawn sled
+  literal_form: sled drawn by dogs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: larch tree timber
+  literal_form: selected larch tree used for sled construction
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sealskin line binding
+  literal_form: soaked sealskin line threaded through slats and runners
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: iron runner shoe
+  literal_form: extra-wide hoop-iron fastened to runner bottoms with screws
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: frozen mud runner shoe
+  literal_form: prepared humus or mud applied to runners, frozen, planed, and polished
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: water used for freezing and polishing
+  literal_form: water used to wet runners, spray polished mud, and freeze repairs
+    in place
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Dog-sled land transportation
+  summary: The passage introduces sleds drawn by dogs as the general means of land
+    transportation and gives the range and common size of dog teams.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wooden sled construction
+  summary: A tree is selected, runners are shaped from single pieces of timber, crossbars
+    are arranged, and sealskin line binds the structure together.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Runner shoe preparation
+  summary: Runner bottoms may receive iron shoes, or in very cold weather a prepared
+    mud shoe that is frozen, planed, wetted, and polished.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Runner surface care and repair
+  summary: The polished mud surface must be protected from stones, and damaged portions
+    may be refrozen with water or replaced with shaped ice.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:10
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11666-11674
+  quote_or_summary: Land transportation is by dog-drawn sled; the number of dogs varies
+    from one to twenty, with seven or nine common for general use.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11675-11683
+  quote_or_summary: Sled construction varies slightly by region and need; a suitable
+    tree is selected, generally larch for strength, though spruce is mentioned.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11684-11694
+  quote_or_summary: Each runner must be a single piece of timber, 12 to 16 feet long
+    and 10 to 12 inches high; knots and crossgrain are avoided because cold makes
+    such defects brittle.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11695-11706
+  quote_or_summary: The runner bottom is shaped to reduce friction, and the forward
+    end has a long gradual curve to help the sled pass over obstructions.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11707-11722
+  quote_or_summary: Parallel runners are fitted with crossbars or slats; holes and
+    notches receive soaked sealskin line threaded over and through the slats and runners.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11723-11731
+  quote_or_summary: The soaked line shrinks tight as it dries; metal is avoided because
+    it would break in cold weather, and thong bindings let the sled flex over uneven
+    surfaces.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 11732-11737
+  quote_or_summary: The runner bottom is shod with extra-wide hoop-iron brought by
+    traders and fastened with countersunk screws.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 11738-11753
+  quote_or_summary: For very cold weather, humus or mud is collected, heated, stirred,
+    cleaned of coarse materials, and applied by hand to wetted runner bottoms.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 11754-11757 and continuation within supplied passage
+  quote_or_summary: After the mud freezes, the owner planes it smooth, sprays it with
+    water, and rubs it with a reindeer-skin mitten until it looks like black glass.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: continuation within supplied passage after line 11757 label range
+  quote_or_summary: Rocks can damage the polished mud runner surface; damage may be
+    repaired by freezing a fallen piece back on with water or by attaching shaped
+    ice.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a technical description of sled construction and use rather
+    than a mythic or ritual narrative. Literal extraction is straightforward, but
+    no comparative mythology motif candidates are identified from the passage itself.
+    The supplied source metadata and passage content appear culturally inconsistent,
+    so human review is needed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage does not itself support a cautious comparison to another motif family, pattern, or tradition.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l11666-l11757
+  passage_sha256=62a43709b724b97db547682090a8e8c7aad60122b1df91049616ee9abfad8a6f
+

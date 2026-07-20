@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l3325-l3388
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: WARR.VMUNG.A TRIBE. / FIG. 15. YOUNG WOMAN WEARING ARM-BANDS AND SHOWING
+    / CICATRICES. FULL FACE. ANULA TRIBE. / TRIBE. METHOD OF TYING THE HAIR UP.; lines
+    3325-3388
+  start: '3325'
+  end: '3388'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes hair and facial-hair practices among northern Central
+    Australian tribes: a youth''s hair is tied after initiation as a mark of entering
+    the ranks of men; older Warramunga and allied men remove moustache and under-lip
+    hairs; tied hair and string bands affect the scalp; and hair thickness or texture
+    varies by age and tribe.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After a youth undergoes the initiation rite, his hair is tied up into a bunch,
+    sometimes tightly enough to cause serious discomfort.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tied-up hair is explicitly described as a sign that the youth is entering
+    the ranks of the men.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the Warramunga and allied tribes, old men are allowed to remove moustache
+    hairs and hairs growing on the under lip immediately below the mouth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The observers sometimes saw an older man lying on the ground while a younger
+    man pulled odd hairs from the older man's cheek or upper lip; the operation is
+    described as painful, but the men did not seem to object.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hair kept tied with string bands around the forehead and under the occiput
+    throws the scalp into folds and can leave a corrugated appearance when the hair
+    is cut short.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that the observers had never seen a bald native; in extreme
+    old age the hair becomes thin but does not completely disappear on the crown as
+    in Europeans.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: 'Hair arrangement and texture are described as varying by group: generally
+    wavy locks among Warramunga and southern tribes, sometimes curly hair among Tjingilli
+    men, and normally wavy hair in the Gnanji tribe.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: post-initiation youth
+  description: A youth whose hair is tied into a bunch after initiation, tight enough
+    to cause discomfort.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: older Warramunga and allied men
+  description: Older men associated with removal of moustache, under-lip, cheek, and
+    upper-lip hairs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: younger hair-plucking man
+  description: A younger man who pulls odd cheek or upper-lip hairs from an older
+    man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: initiate entering men's ranks
+  assigned_to:
+  - fig:1
+  basis: The youth has undergone initiation, and the tied hair is described as a sign
+    of entering the ranks of men.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: older male participant in facial-hair removal
+  assigned_to:
+  - fig:2
+  basis: Older men in Warramunga and allied tribes are described as having moustache
+    and under-lip hairs removed and as lying down while a younger man pulls odd hairs.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: hair-removal assistant
+  assigned_to:
+  - fig:3
+  basis: A younger man is described as pulling odd hairs from the cheek or upper lip
+    of an older man.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: post-initiation hair bunch
+  literal_form: hair tied into a bunch after initiation
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - initiation
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: string hair-binding bands
+  literal_form: bands of string passing around the forehead and under the occiput
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: facial-hair removal
+  literal_form: moustache, under-lip, cheek, or upper-lip hairs pulled out
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: post-initiation hair tying
+  summary: After initiation, a youth's hair is tied into a bunch; the discomfort is
+    willingly borne because the hairstyle marks entry into men's ranks.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: facial-hair plucking of older men
+  summary: In Warramunga and allied groups, older men remove or have removed moustache,
+    under-lip, cheek, and upper-lip hairs; a younger man may pluck hairs while the
+    older man lies down.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: hair-binding effects on the scalp
+  summary: String bands used to keep hair tied around the head create folds in the
+    scalp and a corrugated appearance when the hair is cut short.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: initiation marked by hair arrangement
+  taxonomy_refs:
+  - initiation
+  basis: The passage states that a youth's hair is tied after the initiation rite
+    and that this is a sign of entering the ranks of the men.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is ethnographic description rather than a myth narrative;
+    the motif is limited to the initiation/status-marking pattern explicitly described.
+- id: motif:2
+  label: painful bodily alteration accepted as social practice
+  taxonomy_refs: []
+  basis: The youth willingly bears tight hair binding because it marks male status,
+    and older men do not seem to object to painful facial-hair plucking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly define a symbolic system for pain; this
+    is a cautious pattern extraction from described practices.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3325-3331
+  quote_or_summary: After initiation, a youth's hair is tied into a bunch, sometimes
+    very tightly; this is described as a sign that he is entering the ranks of men.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3332-3354
+  quote_or_summary: The passage describes poorer facial-hair development in northern
+    and north-eastern tribes, the removal of moustache and under-lip hairs by older
+    Warramunga and allied men, and younger men plucking odd hairs from older men despite
+    the pain of the operation.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3355-3363
+  quote_or_summary: Hair tied with string bands around the forehead and under the
+    occiput throws the scalp into folds, producing a corrugated appearance when the
+    hair is cut short; the observers add that they had never seen a bald native.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3364-3388
+  quote_or_summary: In extreme old age hair becomes thin but does not completely disappear;
+    hair is generally arranged in wavy locks among Warramunga and southern tribes,
+    sometimes curly among Tjingilli men, and normally wavy in the Gnanji tribe.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The described practices are clear, though the passage contains OCR artifacts.
+    Motif candidates are limited because the passage is ethnographic description rather
+    than a mythic narrative, and no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or comparisons were used. Taxonomy reference is limited to the explicitly supported initiation motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l3325-l3388
+  passage_sha256=7a69b9d1806225f6de0b661afdd286ea2f098e0af7382bc5dce6fd9294b00238
+

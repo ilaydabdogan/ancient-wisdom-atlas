@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.buddhist-sutta-nipata-sbe10-fausboll-archive-l4328-l4368
+source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+passage_locator:
+  label: PUNISHMENT. 7 / PUNISHMENT. 39 / OLD AGE. 4 / OLD AGE. 43; lines 4328-4368
+  start: '4328'
+  end: '4368'
+  translation: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“maker of the tabernacle, thou hast been seen; thou shalt not make up this
+    tabernacle again.”"
+  summary: The passage presents a verse on repeated birth, the discovery of the maker
+    of the tabernacle, the breaking of rafters and ridge-pole, and the mind approaching
+    the Eternal; the surrounding note identifies the verse as connected with Buddha’s
+    first speech and discusses translations that interpret the maker as the builder
+    or cause of renewed existence.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The verse states that birth again and again is painful when the sought figure
+    is not found.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker addresses the maker of the tabernacle and says that this maker
+    has been seen.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker declares that the maker will not make up the tabernacle again.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The verse says the rafters are broken and the ridge-pole is sundered.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The verse says the mind approaches the Eternal.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note reports that the verse is called the first speech of Buddha in the
+    commentary on the Brahmagala.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The note records several translations that describe running or traveling through
+    many births or transmigrations while seeking the builder or architect of a dwelling
+    or house.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The note explains the maker of the tabernacle as a poetical expression for
+    the cause of new births.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Buddha
+  description: The note says the verse is called the first speech of Buddha in a commentary.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: speaker of the verse
+  description: The speaker addresses the maker of the tabernacle and declares that
+    the maker has been seen and will not make the tabernacle again.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: maker of the tabernacle
+  description: Addressed in the verse as the maker of the tabernacle; the note explains
+    this as a poetical expression for the cause of new births.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: identified utterer in commentary
+  assigned_to:
+  - fig:1
+  basis: The note says the verse is called the first speech of Buddha.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: one who has found or seen the maker
+  assigned_to:
+  - fig:2
+  basis: The speaker tells the maker, “thou hast been seen.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cause of renewed births
+  assigned_to:
+  - fig:3
+  basis: The note explains the maker of the tabernacle as a poetical expression for
+    the cause of new births.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: tabernacle or dwelling
+  literal_form: tabernacle / dwelling / house
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: broken rafters and sundered ridge-pole
+  literal_form: rafters broken; ridge-pole sundered
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: repeated birth
+  literal_form: birth again and again; transmigrations of numerous births
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: the Eternal
+  literal_form: the Eternal approached by the mind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Recognition of the maker and ending of construction
+  summary: After painful repeated birth while the maker is not found, the speaker
+    announces that the maker of the tabernacle has been seen and will not build the
+    tabernacle again; the structure’s rafters and ridge-pole are broken, and the mind
+    approaches the Eternal.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Exegetical identification of the verse
+  summary: The note identifies the verse as called Buddha’s first speech in a commentary
+    and records translation debates that render the passage as transmigration through
+    many births while seeking the builder of the house or dwelling.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: release from repeated birth through finding the cause
+  taxonomy_refs:
+  - death_rebirth
+  - wisdom
+  basis: The verse and note describe repeated painful birth or transmigration, the
+    finding or seeing of the maker, and the explanation that the maker is the cause
+    of new births.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy is broad; the passage concerns Buddhist rebirth
+    and cessation rather than a simple narrative of death and rebirth.
+- id: motif:2
+  label: body or existence as a constructed dwelling
+  taxonomy_refs: []
+  basis: The passage uses the image of a tabernacle, house, dwelling, builder, rafters,
+    and ridge-pole to describe renewed existence and its cessation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an image-pattern within the passage; no supplied taxonomy symbol
+    directly corresponds to house or tabernacle.
+- id: motif:3
+  label: quest to find the hidden builder
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The note cites renderings in which the speaker runs or travels through many
+    births seeking the builder or architect and not finding him until the moment of
+    recognition in the verse.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage is doctrinal and exegetical; the quest language appears mainly
+    in translation discussion rather than in an extended narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4328-4330
+  quote_or_summary: "“not finding him; and painful is birth again and again.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source text; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 4330-4332
+  quote_or_summary: "“maker of the tabernacle, thou hast been seen; thou shalt not
+    make up this tabernacle again.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source text; short excerpt used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4332-4335
+  quote_or_summary: "“All thy rafters are broken, thy ridge-pole is sundered; the
+    mind, approaching the Eternal”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source text; short excerpt used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4336-4342
+  quote_or_summary: The note says that, in the commentary on the Brahmagala, the verse
+    is called the first speech of Buddha and contrasts it with his last speech in
+    the Mahaparinibbana-sutta.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source text summarized for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4347-4361
+  quote_or_summary: The note surveys translations describing travel or running through
+    many births or transmigrations while seeking a builder, architect, or fabricator
+    of a house, dwelling, or body.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source text summarized for extraction evidence.
+- id: ev:6
+  type: quote
+  locator: lines 4367-4368
+  quote_or_summary: "“‘The maker of the tabernacle’ is explained as a poetical expression
+    for the cause of new births”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source text; short excerpt used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif taxonomy mapping is cautious
+    because the passage is doctrinal and exegetical rather than a full mythic narrative.
+    No comparison claims were added because the passage itself does not support a
+    specific cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage text and metadata; comparison_claims left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-sutta-nipata-sbe10-fausboll-archive__l4328-l4368
+  passage_sha256=b5eda8f3ef57508f8868734f1c587d6fd52c9b8f99869f939b32b3bad69ca366
+

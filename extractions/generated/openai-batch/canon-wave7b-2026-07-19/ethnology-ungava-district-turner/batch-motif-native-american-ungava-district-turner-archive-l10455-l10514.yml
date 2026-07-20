@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l10455-l10514
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: BUREAU OF ETHNOLOGY / DOLL, INDIAN / ELEVENTH ANNUAL REPORT PL. XLII / WOMAN,
+    FULL DRESS, NENENOT; lines 10455-10514
+  start: '10455'
+  end: '10514'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a tale passage, a female wolf keeps one hole in the ice clear and waits
+    for an otter who is searching for air beneath the ice. When the otter is nearly
+    exhausted, the wolf moves away enough for him to surface. The otter dries himself
+    in snow and says he will live with her. The wolf reminds him that she said she
+    would smother him. The otter asks for fishing line and offers to catch fish if
+    the wolf prepares a tent. She gives him the line and makes the tent. The otter
+    returns through the ice hole with fish strung on the line, dries himself in snow
+    again, and tells his wife to retrieve the fish from the hole.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting includes water beneath ice, multiple holes for breathing, and
+    one ice hole kept clear of snow and ice.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wolf scrapes the hole clear and waits with open jaws for the otter to
+    appear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The otter searches the holes for breath and becomes nearly exhausted before
+    surfacing.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: After emerging, the otter rolls in dry snow to remove water from his fur.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The otter says that he will live with the wolf.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The wolf addresses the otter as her lover and says she had told him she would
+    smother him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The otter asks the wolf for a piece of line and says he will catch fish if
+    she prepares a tent.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The wolf gives the otter fishing line and makes the tent while he is away.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:9
+  text: The otter returns with fish killed and strung on the line, leaving the fish
+    in the ice hole with one end of the line fastened to the ice.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage later refers to the wolf as the otter's wife when he goes to the
+    tent to tell her to get the fish.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the wolf
+  description: A female wolf who keeps an ice hole clear, waits for the otter, threatens
+    to smother him, gives him fishing line, prepares a tent, and is later referred
+    to as the otter's wife.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the otter
+  description: A male otter who seeks air beneath the ice, surfaces nearly exhausted,
+    agrees to live with the wolf, asks for line, catches fish, and is called the wolf's
+    lover.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: ice-hole watcher and threatener
+  assigned_to:
+  - fig:1
+  basis: The wolf keeps the hole clear, waits with open jaws, and later says she had
+    told the otter she would smother him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: air-seeking swimmer
+  assigned_to:
+  - fig:2
+  basis: The otter moves among holes for breath beneath the ice and is nearly exhausted
+    before surfacing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: lover or spouse partner
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage calls the otter the wolf's lover, has the otter say he will live
+    with her, and later calls the wolf his wife.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: fisher and food provider
+  assigned_to:
+  - fig:2
+  basis: The otter asks for line, says he will catch fish, and returns with a string
+    of fish.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: tent preparer
+  assigned_to:
+  - fig:1
+  basis: The wolf prepares the tent while the otter goes back through the ice hole.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: breathing hole in the ice
+  literal_form: a hole in ice kept clear of snow and ice above water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fishing line
+  literal_form: a piece of line given by the wolf to the otter
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: tent
+  literal_form: a tent prepared by the wolf
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: string of fish
+  literal_form: fish killed and strung on the line, left in the hole in the ice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: dry snow
+  literal_form: dry snow in which the otter rolls to remove water from his fur
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Wolf waits at the ice hole
+  summary: The wolf keeps one ice hole clear and waits with open jaws while the otter
+    seeks breath under the ice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Otter surfaces and agrees to live with the wolf
+  summary: The otter, nearly exhausted, surfaces after the wolf moves off a little,
+    dries himself in snow, says he will live with her, and hears her remind him of
+    her threat to smother him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Line, tent, and fish
+  summary: The otter asks for line and promises to catch fish if the wolf prepares
+    a tent. She gives him the line and makes the tent; he returns with fish strung
+    on the line and leaves them in the ice hole.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ambush at a breathing hole
+  taxonomy_refs: []
+  basis: The wolf controls the clear hole in the ice and waits with open jaws while
+    the otter needs air.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage starts mid-sentence, so the preceding circumstances are not
+    included.
+- id: motif:2
+  label: agreement to cohabit after near-smothering
+  taxonomy_refs: []
+  basis: After becoming nearly exhausted and surfacing, the otter says he will live
+    with the wolf, who reminds him of her smothering threat.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The immediate context before the excerpt is missing; the degree of compulsion
+    should be reviewed against the larger tale.
+- id: motif:3
+  label: animal partners divide domestic and food-gathering tasks
+  taxonomy_refs: []
+  basis: The otter asks for line and catches fish while the wolf prepares a tent,
+    after which the fish are left for her to retrieve.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No wider comparative claim is made from this passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10455-10459 approx.
+  quote_or_summary: The wolf keeps one hole in the ice clear of snow and ice and waits
+    with open jaws as the otter comes near while seeking breath.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 10459-10465 approx.
+  quote_or_summary: The otter is nearly exhausted, surfaces after the wolf moves away,
+    rolls in dry snow, says he will live with the wolf, and hears her say she had
+    told him she would smother him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 10465-10470 approx.
+  quote_or_summary: The otter asks for a piece of line and says he will catch fish
+    if the wolf prepares a tent; the wolf gives him the line and he goes down through
+    the same ice hole.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 10470-10475 approx.
+  quote_or_summary: While the otter is away, the wolf makes the tent. The otter returns
+    with a long string of fish killed and strung on the line, leaving them in the
+    ice hole with one end fastened to the ice.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 10475-10514 approx.
+  quote_or_summary: The otter again rolls in snow to remove water from his fur, then
+    goes to the tent to tell his wife to retrieve the fish from the ice hole; the
+    remaining visible text includes OCR or layout artifacts.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; summary generated from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range. The passage begins mid-sentence
+    and the final portion contains apparent OCR/layout artifacts, so relationship
+    details and narrative context need human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cautious comparison to another tradition or named motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l10455-l10514
+  passage_sha256=2fd503ccfa296b43543f81e1ce99d65050d3800ed87db41e1091f0c095aced65
+

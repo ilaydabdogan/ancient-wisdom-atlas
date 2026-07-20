@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l4257-l4279
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: AGRICULTURE / PRODUCTS / AGRICULTURE / MEASURES; lines 4257-4279
+  start: '4257'
+  end: '4279'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Pima measures of length, distance, land division,
+    exchange value, and long travel distances. It defines humaka os, or “one stick,”
+    by a body span; notes correspondences with named Aztec, Cakchiquel, and Maya lineal
+    measures; gives decimal-like equivalences involving calico, wheat, and horse value;
+    and describes humaka kuirspa, or “one step,” along with journey-day distance reckoning.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The principal linear measurement is called humaka os, glossed as “one stick,”
+    and is defined as the distance from the center of the breast to the fingertips.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The writer regards humaka os as a primitive Pima measurement despite its resemblance
+    to the yard used by the invading race.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that humaka os corresponds with named Aztec, Cakchiquel,
+    and Maya measures.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ten sticks make one cut of calico, equivalent to a load of wheat of about
+    150 pounds; ten cuts or loads equal one horse in value.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One distance unit is humaka kuirspa, glossed as “one step,” meaning one step
+    with the same foot and equal to about 5 feet.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Land is divided into plots 100 or 200 steps in width according to family size.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Long distances are measured in terms of a day’s journey on foot; the passage
+    gives Zuni as seven days away.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The term “step” is also applied to the English mile, but the passage says
+    the Pima have had little opportunity to learn the mile’s definite meaning.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Body-span linear unit
+  literal_form: humaka os, “one stick,” measured from the center of the breast to
+    the fingertips
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Decimal exchange-measure sequence
+  literal_form: ten sticks; one cut of calico; one load of wheat; ten cuts or loads;
+    one horse in value
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Step distance unit
+  literal_form: humaka kuirspa, “one step,” one step with the same foot, about 5 feet
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Journey-day distance unit
+  literal_form: a day’s journey on foot, with Zuni described as seven days away
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Linear and exchange measures
+  summary: The passage defines the Pima “one stick” measure by a body span, compares
+    it with other named lineal measures, and describes a decimal-like set of equivalences
+    involving sticks, calico, wheat, and horse value.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Distance, land, and journey measures
+  summary: The passage describes “one step” as an ancient distance unit, explains
+    land-plot widths in steps, and notes that longer distances may be counted by days
+    of travel on foot.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Body-based linear measurement
+  taxonomy_refs: []
+  basis: The principal measure, “one stick,” is defined by the distance from the breast
+    center to the fingertips.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic measurement pattern rather than a mythological
+    narrative motif.
+- id: motif:2
+  label: Decimal equivalence of measures and exchange values
+  taxonomy_refs: []
+  basis: The passage presents ten sticks as one cut or load, and ten cuts or loads
+    as equivalent to one horse in value.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage treats this as practical measurement and valuation, not sacred
+    exchange.
+- id: motif:3
+  label: Distance reckoned by step and journey time
+  taxonomy_refs: []
+  basis: The passage defines a step-based unit and also gives long distances in days
+    of foot travel.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is a cultural pattern of reckoning distance, not a mythological journey
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself states that the Pima humaka os corresponds with named
+    Aztec, Cakchiquel, and Maya lineal measures, supporting a cautious same-function
+    comparison among body-based or lineal measurement traditions.
+  claim_level: same_function
+  target: Aztec cenyollotli, Cakchiquel ru vach qux, and Maya betan lineal measures
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage asserts correspondence but does not provide detailed forms,
+    measurement lengths, or historical explanation.
+- id: claim:2
+  claim: The passage notes resemblance or application between Pima measures and English
+    units such as the yard and mile, but frames this cautiously.
+  claim_level: same_function
+  target: English yard and English mile
+  evidence_refs:
+  - ev:2
+  - ev:8
+  counter_evidence_refs:
+  - ev:2
+  - ev:8
+  confidence: low
+  limitations: The writer says humaka os is still regarded as primitive Pima despite
+    yard resemblance, and says the Pima had limited definite knowledge of the mile.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4257-4260
+  quote_or_summary: The principal linear measurement was humaka os, “one stick,” equal
+    to the distance from the center of the breast to the fingertips.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:2
+  type: summary
+  locator: 4260-4262
+  quote_or_summary: The writer is inclined to regard the measure as primitive Pima,
+    notwithstanding its resemblance to the yard of the invading race.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:3
+  type: summary
+  locator: 4262-4264
+  quote_or_summary: The passage says humaka os corresponds with the Aztec cenyollotli,
+    the Cakchiquel ru vach qux, and the Maya betan.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:4
+  type: summary
+  locator: 4264-4268
+  quote_or_summary: Ten sticks made one cut of calico, equivalent to a load of wheat
+    of about 150 pounds; ten cuts or loads were equivalent to one horse in value.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:5
+  type: quote
+  locator: 4269-4272
+  quote_or_summary: humaka kuirspa is glossed as “one step,” meaning one step with
+    the same foot and equal to about 5 feet.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:6
+  type: summary
+  locator: 4272-4273
+  quote_or_summary: Land is divided into plots 100 or 200 steps in width, depending
+    on family size.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:7
+  type: summary
+  locator: 4273-4275
+  quote_or_summary: Long distances are measured by a day’s journey on foot; the passage
+    says it is seven days to Zuni.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:8
+  type: summary
+  locator: 4275-4279
+  quote_or_summary: The term “step” is applied to the English mile, but the passage
+    says the Pima have had little opportunity to gain definite knowledge of that term.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata allows full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear as ethnographic description of measures. Motif candidates
+    are marked cautiously because the passage is not a myth narrative and does not
+    support taxonomy-family assignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or mythological roles are present in the passage. No available taxonomy motif or symbol refs are directly supported.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l4257-l4279
+  passage_sha256=08243e584734bc03c1a0c93ecf428c31e4ef11f320a346de8150c0740cc351ff
+

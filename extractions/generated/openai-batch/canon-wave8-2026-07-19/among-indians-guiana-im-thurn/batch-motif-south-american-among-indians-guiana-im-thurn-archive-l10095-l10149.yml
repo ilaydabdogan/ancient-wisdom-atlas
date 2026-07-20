@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.south-american-among-indians-guiana-im-thurn-archive-l10095-l10149
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: ANT BEERA. / HUNTING DOGS. 233. / SHOOTING FISH. / GAME ARROWS. 24); lines
+    10095-10149
+  start: '10095'
+  end: '10149'
+  translation: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic
+    from the Interior of British Guiana'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes hunting and food-preservation practices: silent
+    blow-pipe hunting of birds in trees, imitation of bird calls to attract game,
+    an anecdote in which two hunters mistake each other’s mimicked maam call for a
+    real bird, the importance of known territory for hunting success, smoking or salting
+    meat and fish, and carrying live land tortoises home with bush-rope.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hunter creeps up to a tree and uses a blow-pipe on the lowest bird; the
+    quiet method can bring down many birds before the flock is alarmed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that much hunting success comes from skill in calling birds
+    by imitating their notes to attract them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Indian name for a bird is described as almost always imitating the bird’s
+    cry.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Two hunters separately imitate a maam call, each mistakes the other’s call
+    for a real bird, and they meet in the bush expecting to find the bird.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hunting success is said to depend strongly on familiarity with the district;
+    in strange country hunting attempts are described as less successful.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Meat and much fish are smoked or babracoted for transport and storage, while
+    some fish is salted.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A babracot is described as a stage of green sticks built over a fire, with
+    meat laid on it and exposed to smoke for a long time.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Land tortoises are collected in the forest, slung with bush-rope across the
+    shoulders, and carried home alive.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Indian hunter
+  description: A collective or individual hunter who uses blow-pipes, imitates bird
+    calls, hunts or fishes, preserves provisions, and carries game home.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Bird flock in a tree
+  description: Birds feeding in a tree; individuals are shot silently before the flock
+    rises and flies away screaming.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Two maam hunters
+  description: Two Indians who leave camp separately to shoot a maam and each imitates
+    the maam cry, mistaking the other’s call for the bird.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Maam / Tinamus
+  description: A bird sought by the two hunters; its cry is imitated by both hunters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Land tortoises
+  description: Common forest animals collected and carried home alive with bush-rope.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: hunter and food-getter
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes Indians hunting birds, beasts, fish, and maam, and
+    transporting provisions home.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: game or prey animal
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: Birds, maam, and land tortoises are targets of shooting, hunting, or collection.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:3
+  label: mimic or caller
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Hunters imitate bird notes and maam cries to draw birds nearer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: mutually deceived hunters
+  assigned_to:
+  - fig:3
+  basis: Each of the two hunters mistakes the other’s mimicked maam cry for that of
+    a real bird.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: food preserver and carrier
+  assigned_to:
+  - fig:1
+  basis: The passage describes smoking, babracoting, salting, and carrying provisions
+    home.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Blow-pipe
+  literal_form: Hunting blow-pipe aimed at birds in a tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Tree
+  literal_form: Tree where birds feed and from which they are silently shot
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Imitated bird call
+  literal_form: Human imitation of bird notes or the maam cry
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Fire and smoke of the babracot
+  literal_form: Fire beneath a stage of green sticks, producing smoke to preserve
+    meat
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Bush-rope sling
+  literal_form: Piece of bush-rope used to sling land tortoises across the shoulders
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Silent blow-pipe shooting of birds
+  summary: A hunter approaches a tree quietly, shoots the lowest bird with a blow-pipe,
+    and may continue shooting many birds before the flock becomes fully alarmed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bird-call mimicry as hunting technique
+  summary: Hunters imitate bird notes to attract birds toward them; bird names are
+    said to echo bird cries.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Two hunters fooled by copied maam calls
+  summary: Two hunters separately imitate a maam call and follow each other’s sounds
+    through thick bush until they meet rather than finding a bird.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Known territory and preserved provisions
+  summary: The passage notes that hunting succeeds best in familiar districts, and
+    that provisions carried home are smoked, babracoted, or salted to last.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Carrying live land tortoises
+  summary: Land tortoises are collected, slung with bush-rope across the shoulders,
+    and taken home alive.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Silent sequential hunting of a flock
+  taxonomy_refs: []
+  basis: The quiet blow-pipe allows the hunter to shoot multiple birds from a flock
+    before the rest are alarmed, unlike noisier bow or gun methods.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic hunting pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: Animal-call mimicry to lure prey
+  taxonomy_refs: []
+  basis: Hunters imitate bird notes to attract birds to their destruction, and the
+    anecdote centers on imitation of a maam cry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as a practical technique, not as a supernatural
+    transformation or mythic deception.
+- id: motif:3
+  label: Mimicry causing mistaken identity
+  taxonomy_refs: []
+  basis: Two hunters each mistake the other’s imitated maam cry for an actual bird
+    and converge until they meet.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The episode is anecdotal and humorous; no broader mythological claim is
+    made in the passage.
+- id: motif:4
+  label: Successful hunting depends on known land
+  taxonomy_refs: []
+  basis: The passage states that hunters generally succeed in districts they know
+    and are less successful in strange country.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a practical ecological pattern, not explicitly framed as a symbolic
+    motif.
+- id: motif:5
+  label: Smoke and fire preservation of game
+  taxonomy_refs: []
+  basis: Meat and fish are preserved by smoking or babracoting on green sticks over
+    a fire, making provisions last longer after transport.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives a material-culture practice with no explicit ritual
+    or mythic meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10095-10109
+  quote_or_summary: A hunter quietly approaches a tree and uses a blow-pipe on the
+    lowest bird; because the method is silent, many birds can be killed before the
+    flock flies away, whereas bow or gun would allow fewer shots.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary created for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 10110-10120
+  quote_or_summary: Indians are described as highly skilled at calling birds by imitating
+    their notes to attract them; bird names are said to almost always imitate bird
+    cries.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary created for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 10120-10136
+  quote_or_summary: Two Indians leave camp separately to shoot a maam; each hears
+    and imitates what he thinks is a maam cry, but each is actually responding to
+    the other until they meet in the thick bush.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary created for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 10137-10143
+  quote_or_summary: The passage states that hunting and fishing targets are varied
+    and that Indians are rarely unsuccessful, but that success usually depends on
+    knowing the district; hunting in strange country is less successful.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary created for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 10143-10148
+  quote_or_summary: 'Provisions carried home are preserved: meat and most fish are
+    smoked or babracoted, some fish is salted, and a babracot is a green-stick stage
+    over a fire where meat is exposed to smoke for a long time.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary created for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 10148-10149
+  quote_or_summary: Land tortoises are common in the forest; the Indian collects them,
+    slings them across his shoulders with bush-rope, and carries them home alive.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary created for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the passage is primarily ethnographic
+    and practical rather than mythological. No comparison claims are made because
+    the passage itself provides no explicit comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family reference was assigned; available symbol references were used only for literal tree and fire forms present in the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-among-indians-guiana-im-thurn-archive__l10095-l10149
+  passage_sha256=ac6031e28e6dda798564ff931ac8047b34c233391a7367a190577a7a48bdd2f8
+

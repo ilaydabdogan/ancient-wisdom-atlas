@@ -1,0 +1,456 @@
+---
+record_id: batch.motif.celtic-mabinogion-guest-gutenberg-l244-l337
+source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: THE MABINOGION / TRANSLATED BY LADY CHARLOTTE GUEST / CONTENTS / INTRODUCTION;
+    lines 244-337
+  start: '244'
+  end: '337'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: This argument is founded on the topography of the country.
+  summary: The passage argues that Welsh place-names often commemorate events or persons
+    and that their connection with Welsh legends can support the remote antiquity
+    of some Mabinogion material. It classifies topographical names by natural features,
+    artificial works, and named individuals, warns against excessive etymological
+    interpretation, and concludes that the Mabinogion preserve a Welsh counterpart
+    to the Celtic element in medieval romance.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents an argument for the high antiquity in Wales of many of
+    the Mabinogion based on the topography of the country.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Saxon place-names are described as often defining the locality, while Welsh
+    place-names are described as more often commemorating an event or alluding to
+    a renowned person.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Examples of Welsh commemorative place-names include the Lake of the Maidens,
+    the Ford of the Grave, and the Hill of Assault.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage reasons that place-names could not have preceded the events to
+    which they refer, and that some existing Welsh legends explain such names.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The argument is said to apply especially to large features such as mountains,
+    lakes, rivers, and seas, and also in degree to smaller features such as pools,
+    hills, detached rocks, caves, fords, camps, barrows, and earthworks.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: 'The passage proposes classes of names: great features involving proper names
+    and actions, lesser features, mixed natural and artificial objects, and names
+    embodying proper names only.'
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Cadair Idris and Cadair Arthur are said to involve more than a name because
+    Idris and Arthur must have been invested with heroic qualifications to be placed
+    in such seats.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that selection of names requires care, indisputable translations,
+    notation of known legendary connections, and avoidance of pushing etymological
+    dissection too far.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage concludes that medieval European romance contains traces of an
+    older Celtic nucleus and that the Mabinogion contain a Welsh counterpart of the
+    Celtic portion of continental romance.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Idris
+  description: A named person in Cadair Idris, said to require heroic qualifications
+    to be placed in such a seat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Arthur
+  description: A named person in Cadair Arthur and Arthur’s Coit, said to require
+    heroic qualifications to be placed in such a seat.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Arianrod
+  description: A named person in Caer Arianrod, which the passage says should be taken
+    simply as the Camp of Arianrod.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Maidens
+  description: A group named in the place-name Llyn y Morwynion, the Lake of the Maidens.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Saxons
+  description: A group named in the place-name Rhyd y Saeson, the Saxons’ Ford.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Heroes
+  description: A group named in Cerrig y Drudion, the Crag of the Heroes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Other named individuals in place-names
+  description: Howell, Goronwy, the son of Wynion, and Vortigern are listed as proper-name
+    referents in Welsh topographical names.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Heroic personage associated with a landscape seat
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that Idris and Arthur must have had heroic qualifications
+    to be placed in such seats.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Individual commemorated in a place or work name
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:7
+  basis: The passage lists places or works called after individuals and says such
+    naming may support tradition concerning existence or actions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Collective group commemorated in a place-name
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage gives place-names referring to maidens, Saxons, and heroes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: Great natural topographical features
+  literal_form: Mountains, lakes, rivers, and seas named in connection with legends
+    or events.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Lake
+  literal_form: Llyn y Morwynion, the Lake of the Maidens; Llyn Llyngclys, the Lake
+    of the Engulphed Court.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: Ford
+  literal_form: Rhyd y Bedd, the Ford of the Grave; Rhyd y Saeson, the Saxons’ Ford.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: Grave marker in place-name
+  literal_form: The Ford of the Grave and the Ridge of the Grave.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:5
+  label: Hill, crag, or rock
+  literal_form: Bryn Cyfergyr, the Hill of Assault; Bryn y Saeth, Hill of the Dart;
+    Cerrig y Drudion, the Crag of the Heroes; Cerrig Howell, the Crag of Howell.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:6
+  label: Cave
+  literal_form: Caves are listed among lesser topographical features to which old
+    legends may be connected.
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: Camp, castle, and earthwork
+  literal_form: Caer Arianrod, the Camp of Arianrod; Castell mab Wynion, the Castle
+    of the son of Wynion; camps, barrows, and other artificial earthworks.
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:8
+  label: Seat
+  literal_form: Cadair Idris and Cadair Arthur, described as seats associated with
+    named heroic figures.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Topographical argument for antiquity
+  summary: The passage contrasts Saxon descriptive place-names with Welsh commemorative
+    place-names and argues that names tied to events, persons, and legends can support
+    the remote antiquity of those legends.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Classification of Welsh legendary place-names
+  summary: The passage classifies names by great features, lesser features, and mixed
+    natural or artificial objects, listing examples involving Idris, Arthur, Arianrod,
+    heroes, Saxons, and other named persons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Caution about etymological use
+  summary: The passage advises that translations should be secure, legendary connections
+    should be noted where known, and names such as Caer Arianrod should not be over-interpreted
+    etymologically.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Conclusion on Celtic romance and the Mabinogion
+  summary: The passage concludes that medieval European romance contains an older
+    Celtic nucleus and that the Mabinogion preserve a Welsh counterpart to the Celtic
+    element in continental romance, with topographical nomenclature supporting the
+    antiquity of the tales.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Commemorative place-name preserving event or person
+  taxonomy_refs: []
+  basis: The passage repeatedly describes Welsh place-names as commemorating events
+    or renowned persons, and uses this as evidence for the antiquity of related legends.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an antiquarian/toponymic pattern in the introduction, not a narrated
+    mythic episode.
+- id: motif:2
+  label: Heroic figure attached to a landscape seat
+  taxonomy_refs: []
+  basis: Cadair Idris and Cadair Arthur are said to imply that Idris and Arthur possessed
+    heroic qualifications because they were placed in such seats.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not narrate deeds by Idris or Arthur; it only interprets
+    the place-names.
+- id: motif:3
+  label: Submerged or engulfed court associated with a lake-name
+  taxonomy_refs: []
+  basis: The name Llyn Llyngclys is translated as the Lake of the Engulphed Court.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only the translated place-name is provided; no legend of the engulfed
+    court is narrated in this passage.
+- id: motif:4
+  label: Grave remembered in a landscape crossing or ridge
+  taxonomy_refs: []
+  basis: The passage lists Rhyd y Bedd, the Ford of the Grave, and Ceven y Bedd, the
+    Ridge of the Grave, as place-names connected with commemorative naming.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: No burial story or death narrative is supplied; the motif is inferred
+    only as a commemorative naming pattern.
+- id: motif:5
+  label: Conflict or weapon action encoded in a landscape name
+  taxonomy_refs: []
+  basis: The passage lists Bryn Cyfergyr, the Hill of Assault, and Bryn y Saeth, Hill
+    of the Dart, among place-names involving events or actions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The underlying events are not narrated, and the passage does not specify
+    whether they are historical or legendary.
+comparison_claims:
+- id: claim:1
+  claim: The passage contrasts Welsh commemorative place-naming with Saxon place-naming
+    that often describes the physical locality.
+  claim_level: linguistic_similarity
+  target: Saxon place-name practice compared with Welsh place-name practice
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is a broad generalization in an introduction and is supported
+    here only by selected examples.
+- id: claim:2
+  claim: The passage claims that the Mabinogion contain a Welsh counterpart to the
+    Celtic portion of continental medieval romance.
+  claim_level: historical_contact
+  target: Continental medieval romance and its Celtic portion
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage offers a summary conclusion rather than detailed tale-by-tale
+    evidence in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 244-257
+  quote_or_summary: The passage states that an argument for the antiquity of many
+    Mabinogion tales is founded on topography, contrasting Saxon descriptive place-names
+    with Welsh names commemorating events or renowned persons, with examples such
+    as the Lake of the Maidens, the Ford of the Grave, and the Hill of Assault.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 257-272
+  quote_or_summary: The passage says the argument especially supports legends connected
+    with greater features such as mountains, lakes, rivers, and seas, and also in
+    degree with lesser features such as pools, hills, detached rocks, caves, fords,
+    camps, barrows, and other artificial earthworks.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 274-291
+  quote_or_summary: The passage classifies names of great features, lesser features,
+    and mixed natural or artificial objects, citing examples including Cadair Idris,
+    Cadair Arthur, the Hill of the Dart, the Lake of the Engulphed Court, Arthur’s
+    Coit, the Crag of the Heroes, the Camp of Arianrod, the Crag of Howell, the Breast
+    of Goronwy, the Castle of the son of Wynion, and the Rill of Vortigern.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 293-305
+  quote_or_summary: The passage warns that place-name selection requires care, secure
+    translations, and noting known legendary connections, and gives Caer Arianrod
+    as an example that should be read simply as the Camp of Arianrod rather than over-dissected
+    etymologically.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 307-337
+  quote_or_summary: The passage concludes that medieval European romance includes
+    traces of an older Celtic nucleus, that earlier writers transmitted romance material
+    to Europe and drew from Wales, that the Mabinogion preserve a Welsh counterpart
+    to the Celtic portion of continental romance, and that topographical nomenclature
+    supports the tales’ great antiquity and non-European derivation.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introductory antiquarian argument rather than a narrative
+    myth episode. Toponymic symbols and patterns are explicit, but motif identifications
+    are limited because most underlying legends are not narrated here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Available taxonomy symbol refs were used only for explicit cave, mountain, and water features; no motif-family taxonomy refs were assigned because the passage does not narrate full mythic episodes.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-mabinogion-guest-gutenberg__l244-l337
+  passage_sha256=a8aa53082289b7fa51e7cbdca7b444f731aae9b4da455f09015c0df29b51b2c7
+

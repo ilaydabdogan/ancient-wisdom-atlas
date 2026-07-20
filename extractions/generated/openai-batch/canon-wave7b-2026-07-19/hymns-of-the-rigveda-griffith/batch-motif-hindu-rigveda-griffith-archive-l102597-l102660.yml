@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l102597-l102660
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH S / ARANYAKA IV / ARANYAKA V / ADHYAYA 2.; lines 102597-102660
+  start: '102597'
+  end: '102660'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A Vedic ritual passage lists hymn and verse sequences, explains technical
+    transformations of verse units, assigns left wing, right wing, and tail sections
+    to particular Samans and stomas, and includes short praises to Indra that mention
+    priests or singers, Soma, foe-slaying, gifts, booty, and textual parallels in
+    nearby Vedic sources.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage gives a ritual sequence of pragatha verses, brhatis, Indra hymns,
+    a pankti verse, and a sadadohas verse.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: It states that four brhatis are turned into six.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:3
+  text: It assigns a left wing to the Brhat Saman, a right wing to the Rathantara
+    Saman, and a tail of dvipada verses to the Bhadra Saman.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The right wing or pancadasa stoma is described as having 101 verses and the
+    name Vasisthaprasaha; the left wing or saptadasa stoma is described as having
+    102 verses and the name Bharadvajaprasaha.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The tail includes nine verses from the Samhita and additional verses not from
+    the Samhita.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A verse calls priests to sing a song to Indra so that he may rejoice and identifies
+    Indra as the one who slays the foe.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A later hymnic excerpt says singers sing among the gods and that youthful
+    Indra takes up the strain.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage includes an address to Indra beneath the plagsa and requests that
+    he bring gifts from all sides.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Indra is called manliest, lord, generous for winning booty, and ruler from
+    of old.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The notes state that some of these verses or readings also occur in Sankhayana
+    Srauta Sutra and the Samaveda.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: Central named deity addressed in listed hymns and excerpts; associated
+    with Soma, carouse, foe-slaying, youth, fame, gifts, booty, lordship, and rule.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Priests or singers
+  description: Ritual or vocal agents who sing to Indra; singers are also described
+    as singing among the gods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Gods
+  description: Collective divine group in the phrase describing song among the gods.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: The foe
+  description: Unspecified enemy said to be slain by Indra.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: recipient of ritual praise
+  assigned_to:
+  - fig:1
+  basis: Indra is the subject and addressee of listed hymns and songs.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:2
+  label: ritual singers or priests
+  assigned_to:
+  - fig:2
+  basis: Priests are called to sing to Indra, and singers are described as singing
+    among the gods.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: foe-slaying warrior
+  assigned_to:
+  - fig:1
+  basis: The passage says Indra slays the foe beyond all others.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: giver of gifts and booty; ruler
+  assigned_to:
+  - fig:1
+  basis: Indra is asked to bring gifts from all sides and is praised as generous for
+    booty and ruling from of old.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: divine assembly or setting
+  assigned_to:
+  - fig:3
+  basis: The song is described as occurring among the gods.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: opposed foe
+  assigned_to:
+  - fig:4
+  basis: The foe appears only as the one slain by Indra.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Pressed Soma and carouse
+  literal_form: pressed Soma; Soma carouse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Winged liturgical layout
+  literal_form: left wing, right wing, and tail assigned to verse groups and Samans
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Song or strain
+  literal_form: song to Indra; youthful Indra takes up the strain
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: Plagsa
+  literal_form: beneath the plagsa, rich in honey
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Gifts and booty
+  literal_form: gifts brought from all sides; booty won when the rite is duly paid
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Construction of ritual hymn sequence
+  summary: The passage lists verse types and Indra hymns, describes converting four
+    brhatis into six, and places components in a ritual order.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Assignment of wings and tail
+  summary: Left wing, right wing, and tail sections are assigned to Brhat, Rathantara,
+    and Bhadra Samans, with verse counts and technical names given for the wing sections.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Priestly song to Indra
+  summary: Priests or singers sing to Indra; Indra is described as slaying the foe,
+    rejoicing, and taking up the strain among the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: scene:4
+  label: Address requesting gifts
+  summary: Speakers meditate on Indra beneath the plagsa and ask him to bring gifts;
+    Indra is praised as lord, generous for booty, and ruler from of old.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Ritualized hymn and sacrifice sequence
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage catalogs liturgical recitation, Soma-related hymns, sacrifice
+    language, and a rite described as duly paid.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: This is a technical ritual passage rather than a continuous mythic narrative.
+- id: motif:2
+  label: Sacred exchange through praise or rite
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Priests or singers praise Indra and the speakers ask him to bring gifts and
+    enable booty, with the rite described as duly paid.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The exchange is expressed in hymnic and ritual language; the passage does
+    not narrate a completed exchange.
+- id: motif:3
+  label: Foe-slaying divine warrior
+  taxonomy_refs: []
+  basis: Indra is described as one who slays the foe and is repeatedly associated
+    with strength and heroic deeds in the cited hymn incipits.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The foe is unnamed and the passage gives little narrative detail.
+- id: motif:4
+  label: Ritual structure as wings and tail
+  taxonomy_refs: []
+  basis: The ritual arrangement explicitly names left wing, right wing, and tail sections
+    and links them to specific Samans and verse counts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a liturgical-technical image, not a developed animal or bird myth
+    in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage's notes explicitly align the cited extra-Samhita verses or readings
+    with Sankhayana Srauta Sutra XVIII, 15 and state that some also occur in the Samaveda.
+  claim_level: linguistic_similarity
+  target: Sankhayana Srauta Sutra XVIII, 15; Samaveda
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a textual and ritual parallel noted in the edition; it does
+    not by itself establish a separate shared mythic narrative or broader historical
+    contact claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 102597-102607
+  quote_or_summary: The passage begins by explaining that four brhatis are made into
+    six and then lists multiple Indra hymns by Rigvedic incipit, including Soma and
+    carouse references.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 102606-102616
+  quote_or_summary: It says the left wing is connected with the Brhat Saman and the
+    right wing with the Rathantara Saman; the right wing or pancadasa stoma has 101
+    verses and the left wing or saptadasa stoma has 102 verses, with technical names.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 102616-102622
+  quote_or_summary: The tail's dvipada verses are connected with the Bhadra Saman;
+    the passage lists nine Samhita verses and other verses, including a call for priests
+    to sing to Indra, who slays the foe.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 102623-102637
+  quote_or_summary: Notes explain technical formation of brhati verses and identify
+    Rathantara and stoma terminology.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 102638-102643
+  quote_or_summary: A note says these verses are also given in Sankhayana Srauta Sutra
+    XVIII, 15, and that some are also in the Samaveda.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 102644-102650
+  quote_or_summary: Hymnic excerpts say singers sing among the gods, youthful Indra
+    takes up the strain, the speaker meditates on Indra beneath the plagsa, and Indra
+    is asked to bring gifts and praised for booty and rule.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 102651-102660
+  quote_or_summary: A note compares variant readings in Sankhayana and the Samaveda
+    and discusses translation or reading of the phrase about Indra taking up the song.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main ritual structure and Indra praise are clear, but the passage contains
+    technical liturgical terms and OCR or transliteration irregularities; uncertain
+    Sanskrit details have not been normalized.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to provided motif families; no unsupported symbol taxonomy was assigned.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l102597-l102660
+  passage_sha256=e42aa6c716b5743cd5569cd665889b639470d20bb14e5379c8949303647b4945
+

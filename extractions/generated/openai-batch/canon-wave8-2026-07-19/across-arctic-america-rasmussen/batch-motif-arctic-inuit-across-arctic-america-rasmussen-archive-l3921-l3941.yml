@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.arctic-inuit-across-arctic-america-rasmussen-archive-l3921-l3941
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+passage_locator:
+  label: AVANE'S SONG / KIVKARJUK'S SONG / AKJARTOQ'S SONG / YOUNG WOMEN; lines 3921-3941
+  start: '3921'
+  end: '3941'
+  translation: 'Across Arctic America: Narrative of the Fifth Thule Expedition'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: It was like driving into a burning city;
+  summary: The passage briefly describes young women as happy, smiling, and handsome,
+    then shifts to a dawn or sunrise scene in which cloud, sky, ice, shore, and hill
+    are lit by fire-like colors. The observers are spellbound until barking dogs and
+    welcoming companions bring them back to ordinary activity at the start of a new
+    day.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The young women are described as always happy, smiling, and handsome.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A glow of fire and a tongue of flame appear beneath a cloud and light up the
+    sky.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rosy cloud-forms pass overhead, and the ice below is colored pale mauve.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The contours of shore and hill appear darker while fire-like lights appear
+    on the horizon and merge into a large conflagration.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The sun rises, and the varied colors become a strong red glow reflected on
+    the observers' faces.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The observers remain spellbound until barking dogs and companions' shouts
+    of welcome return them to reality and the activity of a new day.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Young women
+  description: A group introduced by the heading and described as happy, smiling,
+    and handsome.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Observers or narrating party
+  description: The first-person plural observers whose faces reflect the red glow
+    and who remain spellbound by the scene.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Companions
+  description: Companions whose shouts of welcome help bring the observers back to
+    reality.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Dogs
+  description: Dogs whose barking is heard when the observers return to ordinary awareness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Described young women
+  assigned_to:
+  - fig:1
+  basis: The passage states that the young women were happy, smiling, and handsome.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Spellbound observers
+  assigned_to:
+  - fig:2
+  basis: The narrating group looks at the red glow and remains spellbound during the
+    fiery sunrise scene.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Welcoming companions
+  assigned_to:
+  - fig:3
+  basis: The companions shout welcome to the observers.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Audible return-to-reality cue
+  assigned_to:
+  - fig:4
+  basis: The barking of dogs is named as part of what brings the observers back to
+    reality.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Fire imagery
+  literal_form: Glow of fire, tongue of flame, flowers of fire, great conflagration,
+    and burning city simile.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Rising sun and red glow
+  literal_form: The sun rises and turns the varied colors into a stark red glow reflected
+    in the observers' faces.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Description of young women
+  summary: The passage opens with a heading for young women and describes them as
+    happy, smiling, and handsome.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fire-colored dawn landscape
+  summary: Cloud, sky, ice, shore, and hill are transformed by fiery light as the
+    sun rises and the observers watch.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Return to ordinary day
+  summary: The experience is compared to driving into a burning city; the observers
+    remain spellbound until dogs and companions bring them back to reality and the
+    new day.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Dawn imagined as fire or conflagration
+  taxonomy_refs: []
+  basis: 'The sunrise is described through repeated fire images: a glow of fire, a
+    tongue of flame, fire-like lights on the horizon, a great conflagration, and a
+    burning city simile.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a descriptive travel or nature passage rather than a narrated
+    mythic episode; no divine or supernatural agent is stated.
+- id: motif:2
+  label: Visionary absorption followed by return to ordinary reality
+  taxonomy_refs: []
+  basis: The observers remain spellbound by the dawn scene until barking dogs and
+    welcoming companions bring them back to reality and the busy freshness of a new
+    day.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The term 'spellbound' may be figurative; the passage does not state a
+    ritual, trance, initiation, or supernatural journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3921-3923
+  quote_or_summary: '"YOUNG WOMEN"; they are described as "always happy and smiling,
+    and handsome as well."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 3924-3937
+  quote_or_summary: The passage describes a glow of fire, a tongue of flame, rosy
+    cloud-forms, mauve ice, dark shore and hill contours, fire-like lights on the
+    horizon merging into a conflagration, and the rising sun turning the colors into
+    a red glow reflected in the observers' faces.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 3938-3941
+  quote_or_summary: '"It was like driving into a burning city;" the observers remain
+    spellbound until barking dogs and companions'' welcoming shouts bring them back
+    to reality and the freshness of a new day.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear enough for literal imagery extraction, though the provided
+    text contains OCR noise and appears to be primarily descriptive rather than myth-narrative.
+    No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. Available taxonomy symbol ref 'fire' is applied because the passage repeatedly uses literal fire imagery; no motif-family taxonomy ref is assigned.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:arctic-inuit-across-arctic-america-rasmussen-archive__l3921-l3941
+  passage_sha256=163f0cfdd9bbf0dd2f7108fd8c6f960eaafe0c454a4f2bae2a26385b31042fb6
+

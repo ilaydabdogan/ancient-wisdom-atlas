@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l11996-l12070
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: ON LAND. / WEAPONS AND OTHER HUNTING IMPLEMENTS. / HUNTING IMPLEMENTS, /
+    THE HUDSON BAT ESKIMO.; lines 11996-12070
+  start: '11996'
+  end: '12070'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a technical description of preparing animal-skin floats,
+    attaching them to tracking or harpoon lines, preparing oil and fat bags from sealskins,
+    reusing oil bags, and using a small sealskin pouch for gun caps.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An animal skin intended for a float is scraped, inflated with air, hung to
+    dry, turned hairy side out, and inflated again.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The float’s openings are sewn; an ivory button-like mouthpiece with a bored
+    hole is fitted at the mouth, a wooden stopper plugs it, and small sticks bound
+    into the hind flippers and tail serve as stoppers and handles.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When attached to a tracking line, the float prevents the line from fouling
+    among beach rocks and stones while towing a boat or umiak.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When attached to a harpoon line for large marine mammals, the float retards
+    the speared animal and marks the place where it sinks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hair may be removed from the skin by pouring boiling water on small patches
+    and pulling the hair away; care is taken because detached black scurf would make
+    the skin less waterproof.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Oil and fat bags are prepared similarly to floats, except that the hair is
+    left on the skin and the hairy side remains inside.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Large sealskins may be used as oil bags and may hold as much as 300 pounds
+    of fat or oil.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When oil is sold, the bag is usually returned to the seller, who may refill
+    it or convert the skin into bootlegs or soles; oil-impregnated leather is described
+    as moisture-resistant.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A small sealskin pouch shaped somewhat like a leg of mutton is used for carrying
+    gun caps, with a neck narrow enough to release one cap at a time.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: large marine mammals
+  description: White whale and larger species of seals are named as animals hunted
+    with a harpoon line and float.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: seller of oil
+  description: A seller receives the returned oil bag and may refill it or convert
+    the skin into footwear parts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: skin-source animal or seal
+  description: An animal provides the skin used for a float; large sealskins are used
+    for oil bags.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: hunted or speared animal
+  assigned_to:
+  - fig:1
+  basis: The float is affixed to harpoon lines used for large marine mammals and retards
+    or marks the speared animal.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: oil seller and reuser of returned bag
+  assigned_to:
+  - fig:2
+  basis: The passage states that the oil bag is usually returned to the seller, who
+    refills it or converts it into bootlegs or soles.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: source of prepared skin
+  assigned_to:
+  - fig:3
+  basis: The passage describes preparing an animal skin for a float and using large
+    sealskins for oil bags.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: inflated animal-skin float
+  literal_form: Prepared animal skin inflated with air and fitted with sewn openings,
+    mouthpiece, stopper, and handle sticks.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: ivory mouthpiece and wooden stopper
+  literal_form: Large ivory button-like mouthpiece with a bored hole, plugged by a
+    wooden stopper.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tracking or harpoon line
+  literal_form: Line to which the float is attached for towing or for hunting large
+    marine mammals.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sealskin oil or fat bag
+  literal_form: Sealskin bag prepared with the hairy side within and tied after being
+    filled with oil or fat.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: gun-cap pouch
+  literal_form: Small sealskin pouch shaped somewhat like a leg of mutton, with a
+    narrow neck for dispensing one cap at a time.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Preparing the animal-skin float
+  summary: A skin is scraped, inflated, dried, sewn closed, fitted with an ivory mouthpiece
+    and wooden stopper, and bound with sticks at the flippers and tail.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Using the float with lines
+  summary: The prepared float is attached to a tracking line to prevent fouling or
+    to a harpoon line to slow and locate a speared marine animal.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Preparing and reusing oil bags
+  summary: Sealskin bags are filled with oil or fat, sold with the contents, returned
+    to the seller, and then either refilled or converted into footwear material.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Gun-cap pouch
+  summary: A small sealskin pouch is described as a carrier for gun caps, shaped and
+    narrowed so that only one cap falls out at a time.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: inflated animal-skin float in marine hunting
+  taxonomy_refs: []
+  basis: The passage describes a prepared animal-skin float attached to tracking and
+    harpoon lines, where it prevents fouling, slows the speared animal, and marks
+    where it sinks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a material-culture pattern, not a mythic or sacred motif in the
+    supplied passage.
+- id: motif:2
+  label: animal-skin container reused after oil storage
+  taxonomy_refs: []
+  basis: Oil and fat are stored in prepared sealskin bags; after sale the bag returns
+    to the seller and can be refilled or converted into bootlegs or soles.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage states practical reuse only; no symbolic, ritual, or mythological
+    meaning is given.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the hair-loosening method for the skin to
+    the method used by butchers of hogs, indicating a similar practical function in
+    hair removal.
+  claim_level: same_function
+  target: butchers’ hog-hair loosening method
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to a technical procedure; it does not support
+    claims of historical contact, common inheritance, or mythic equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11996-12018
+  quote_or_summary: The skin is scraped, inflated, dried, turned, sewn closed, fitted
+    with an ivory mouthpiece and wooden stopper, and bound with sticks at the flippers
+    and tail.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 12018-12033
+  quote_or_summary: The float may be attached to a tracking line to prevent fouling
+    or to a harpoon line for white whale and large seals, where it retards the speared
+    animal and marks where it sinks.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 12034-12047
+  quote_or_summary: 'Hair removal from the skin is described as similar to butchers’
+    hog processing: boiling water is poured on patches and hair is pulled away, with
+    care to avoid reducing waterproofness.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 12048-12060
+  quote_or_summary: Oil and fat bags are prepared similarly, but with hair left on
+    the inside; large sealskins may hold up to 300 pounds of fat or oil.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 12061-12067
+  quote_or_summary: An oil bag is usually returned to the seller, who refills it or
+    converts it into bootlegs or soles; oil-impregnated leather is said to resist
+    wet for days.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 12068-12070
+  quote_or_summary: A small sealskin pouch, shaped somewhat like a leg of mutton,
+    is used for gun caps and has a neck that lets out one cap at a time.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly a technical ethnographic description and includes OCR
+    noise. Literal extraction is fairly clear; motif candidates are material-culture
+    patterns rather than mythological motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the supplied passage does not state sacred, mythic, or cosmological meanings for these implements.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l11996-l12070
+  passage_sha256=eccf453358652f857d30c7cc7ebb40c6d981a91e609c2bbc88bd15b2679449c8
+

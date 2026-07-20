@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l213-l254
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: PREFACE / H. T. MORREY JOXES / CONTENTS / CHAPTER II; lines 213-254
+  start: '213'
+  end: '254'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a byline and date, then a contents list naming the Preface
+    and Chapters I–IV with their chapter titles, page numbers, and short topic phrases,
+    including rumours, dangers of entrance, into the unknown, and early experiences.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage names H. T. Morrey Joxes and gives the date December 1910.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list a Preface on page vii.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Chapter I is titled “Rumours” and its listed topics include contrasts, Indian
+    atrocities, a horned race, pigmies, and the Chaco.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Chapter II is titled “Dangers of Entrance” and its listed topics include massacred
+    exploring parties, captives, the search for Ibareta, Indian hostility, superstitious
+    fears, attitude to be adopted, hostility of wizards, and their powers being challenged.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Chapter III is titled “Into the Unknown” and its listed topics include Riacho
+    Fernandez, rough fare, the interior, a first journey, treachery of guides, the
+    first village, sign language, a night watch, and bargaining for guides.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Chapter IV is titled “Early Experiences” and its listed topics include a tour
+    in Paraguay, tracking Indian looters, compensation paid, “Alligator stomach,”
+    Indian cunning, theft reports, fire at Neantamama, removal to Thlagnasinkinmith,
+    escape from poisoning, Indian defiance, foreign liquor, the Evil Eye, and witch-doctors’
+    plans.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: H. T. Morrey Joxes
+  description: Named person associated with the dated prefatory material in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Indians
+  description: Collective group named in several chapter-topic phrases, including
+    Indian atrocities, hostility, cunning, defiance, and looters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Wizards
+  description: Group named in the Chapter II contents phrase “Hostility of wizards”
+    and associated with powers being challenged.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Witch-doctors
+  description: Group named in the Chapter IV contents phrase “Witch-doctors’ plans.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Guides
+  description: Group named in Chapter III topic phrases, including treachery of guides
+    and bargaining for guides.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named prefatory person
+  assigned_to:
+  - fig:1
+  basis: The name appears immediately before the date in the passage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: collective contents subject
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly uses “Indian” in contents topic phrases.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: hostile magical specialists in contents summary
+  assigned_to:
+  - fig:3
+  basis: The contents list includes “Hostility of wizards” and “Their powers challenged.”
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: planned-action specialists in contents summary
+  assigned_to:
+  - fig:4
+  basis: The contents list includes “Witch-doctors’ plans.”
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: travel aides or intermediaries in contents summary
+  assigned_to:
+  - fig:5
+  basis: The contents list includes both “Treachery of guides” and “Bargaining for
+    guides.”
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: horned race
+  literal_form: A horned race
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: fire
+  literal_form: Fire at Neantamama
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Evil Eye
+  literal_form: The Evil Eye
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Alligator stomach
+  literal_form: "“Alligator stomach”"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: magical specialists opposed or challenged
+  taxonomy_refs: []
+  basis: The Chapter II contents list names hostility of wizards and their powers
+    being challenged; Chapter IV separately lists witch-doctors’ plans.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: low
+  cautions: The passage is only a table of contents, not a narrative episode; it does
+    not describe the wizards, witch-doctors, powers, or plans in detail.
+- id: motif:2
+  label: Evil Eye belief as chapter topic
+  taxonomy_refs: []
+  basis: The phrase “The Evil Eye” appears among Chapter IV topic phrases.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage gives only a contents heading and no explanation of the belief
+    or event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 213-215
+  quote_or_summary: "“H. T. MORREY JOXES” followed by “December, 1910.”"
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 217-223
+  quote_or_summary: The contents section lists “Preface -------- vii.”
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 225-228
+  quote_or_summary: Chapter I is titled “Rumours” and lists topics including contrasts,
+    Indian atrocities, a horned race, pigmies, and the Chaco.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 230-235
+  quote_or_summary: Chapter II is titled “Dangers of Entrance” and lists topics including
+    massacred exploring parties, captives, search for Ibareta, Indian hostility, superstitious
+    fears, attitude to be adopted, hostility of wizards, and their powers challenged.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 237-242
+  quote_or_summary: Chapter III is titled “Into the Unknown” and lists travel and
+    encounter topics including Riacho Fernandez, rough fare, the interior, first journey,
+    treachery of guides, the first village, sign language, night watch, and bargaining
+    for guides.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 244-254
+  quote_or_summary: Chapter IV is titled “Early Experiences” and lists topics including
+    tracking Indian looters, “Alligator stomach,” fire at Neantamama, escape from
+    poisoning, foreign liquor, the Evil Eye, and witch-doctors’ plans.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a contents list rather than a mythic narrative. Literal headings
+    and topic phrases are extractable, but motif identification is necessarily tentative
+    and should be checked against the relevant chapters.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage itself does not support comparison to another corpus or motif family beyond its own contents labels.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l213-l254
+  passage_sha256=d7865fb60afed0400db82fe9465506b362bea0848e3f5751aa69904e4ebad76e
+

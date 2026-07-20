@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.gnostic-mead-fragments-of-a-faith-forgotten-archive-l180-l204
+source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+passage_locator:
+  label: HERMES   THE   THRICE-GREATEST. / PREFACE  TO  THE  SECOND  EDITION. / PREFACE  TO  THE  FIRST  EDITION.
+    / PREFACE.  IX.; lines 180-204
+  start: '180'
+  end: '204'
+  translation: Fragments of a Faith Forgotten
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The author explains that the subject is of broad human interest despite
+    its difficulty, states that his views are tentative, and says his aim is to pass
+    on what the earliest Christian philosophers and teachers wrote and thought. He
+    adds that he has learned through them to sense the work of the Great Master in
+    a new light.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author presents the subject as profoundly human in interest rather than
+    merely academic.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author says the subject can be very difficult and that he has sometimes
+    failed to make it clear.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author says difficult passages may be followed by simpler passages, so
+    readers should not lose courage.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author states that his expressed views are purely tentative.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author describes his main object as handing on what the earliest Christian
+    philosophers and teachers wrote and thought.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author says the earliest Christian philosophers and teachers wrote many
+    beautiful things.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The author says he learned through these earlier teachers to sense the work
+    of the Great Master in a totally new light.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Preface author
+  description: The first-person speaker who explains the purpose and limits of the
+    work.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Earliest Christian philosophers and teachers
+  description: Earlier Christian thinkers whose writings and thoughts the author intends
+    to hand on.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Great Master
+  description: A revered figure whose work the author says he has learned to sense
+    in a new light.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: General reader
+  description: A reader addressed as someone who may encounter difficult passages
+    but should not lose courage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Tentative interpreter
+  assigned_to:
+  - fig:1
+  basis: The author states that his expressed views are purely tentative.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Transmitter of earlier teachings
+  assigned_to:
+  - fig:1
+  basis: The author says his main object is to hand on what the earliest Christian
+    philosophers and teachers wrote and thought.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Earlier teachers and writers
+  assigned_to:
+  - fig:2
+  basis: They are described as philosophers and teachers who wrote and thought, and
+    whose material the author aims to pass on.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Revered master
+  assigned_to:
+  - fig:3
+  basis: The passage calls this figure the Great Master and refers to his work.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Encouraged learner
+  assigned_to:
+  - fig:4
+  basis: The general reader is told not to lose courage when encountering difficult
+    passages.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: New light
+  literal_form: Light as the image in the phrase "a totally new light"
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Authorial explanation of method and purpose
+  summary: The author explains the difficulty of the subject, encourages the reader,
+    declares his interpretations tentative, and defines his aim as transmitting earlier
+    Christian philosophical and teaching traditions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Learning through earlier teachers
+  summary: The author says that through the earlier Christian philosophers and teachers
+    he has learned to sense the work of the Great Master in a new light.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Transmission of wisdom through earlier teachers
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes handing on what earlier Christian philosophers and
+    teachers wrote and thought, and learning through them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an authorial preface rather than a narrative mythic episode; the
+    motif is thematic and pedagogical.
+- id: motif:2
+  label: Difficult teaching made accessible to the learner
+  taxonomy_refs:
+  - initiation
+  basis: The author describes difficult material, reassures the general reader, and
+    frames progression through the work as alternating difficult and simpler passages.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage concerns reading guidance, not a formal initiation rite or
+    mythic initiation narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 180-184
+  quote_or_summary: The author says the subject is of profoundly human interest and
+    not merely academic importance.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 184-195
+  quote_or_summary: The author describes the subject as difficult, admits that he
+    has sometimes failed to make it clear, and tells the general reader not to lose
+    courage because simpler passages may follow difficult ones.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 196-201
+  quote_or_summary: The author says his views are purely tentative and that his main
+    object is to hand on what the earliest Christian philosophers and teachers wrote
+    and thought.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 201-204
+  quote_or_summary: The author says those earlier teachers wrote many beautiful things
+    and that he has learned through them to sense the work of the Great Master in
+    a totally new light.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an authorial preface with limited mythic or narrative content.
+    Literal extraction is straightforward, while motif identification is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or cross-tradition comparison claims were made because the passage itself does not support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:gnostic-mead-fragments-of-a-faith-forgotten-archive__l180-l204
+  passage_sha256=da8c9bd71fab7103ac2d29c1ad15acca8f5746ca1058a6208ebecf90c4f80728
+

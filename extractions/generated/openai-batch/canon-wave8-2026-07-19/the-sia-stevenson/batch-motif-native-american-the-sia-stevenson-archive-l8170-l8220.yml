@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l8170-l8220
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: ILLUSTRATIONS. 165 / ETHNOLOGY OF THE UNGAVA DISTRICT, HUD / SON BAY TERRITORY.
+    / INTRODUCTION.; lines 8170-8220
+  start: '8170'
+  end: '8220'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a descriptive geography of rivers, lakes, bays, currents,
+    an island, ice conditions, and navigation hazards in the Ungava/Hudson Strait
+    region. It also notes a travel route used by Little Whale River Indians to join
+    Naskopies in the Koksoak valley.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Larch River is described as the larger tributary of the Koksoak, rapid,
+    almost unnavigable, variable in depth, mostly shallow, and 100 to nearly 400 yards
+    wide.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The southwest fork of the Larch drains mountain slopes and is followed by
+    Little Whale River Indians when they traverse the country to join the Naskopies
+    of the Koksoak valley.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Leaf River flows into a bay named Tass'iyak, glossed as 'like a lake,'
+    and drains a swampy tract with many small interconnected lakes.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ungava Bay is described as a pocket-shaped body of water with strong tidal
+    currents and a whirlpool near the entrance of Leaf River bay that is hazardous
+    at half-tide.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Akpatok Island lies in a position that breaks some current along the south
+    side of the strait while adding force to currents at either end.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Navigation in Hudson Strait is described as dangerous because of strong tides
+    and ice, with harbors and coves liable to freeze quickly after August and September.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Little Whale River Indians
+  description: A group described as following the southwest fork of the Larch River
+    when traversing the country.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Naskopies of the Koksoak valley
+  description: A group in the Koksoak valley whom the Little Whale River Indians are
+    said to join.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: travelers along a river route
+  assigned_to:
+  - fig:1
+  basis: They are said to follow the southwest fork of the Larch when traversing the
+    country.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: destination group in the Koksoak valley
+  assigned_to:
+  - fig:2
+  basis: They are the group the Little Whale River Indians travel to join.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water features and currents
+  literal_form: rivers, bay, lake-like bay, lakes, watercourses, tides, currents,
+    whirlpool, and ice
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: mountain watershed
+  literal_form: mountains whose eastern and western slopes are drained by different
+    rivers
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Travel route by the Larch River fork
+  summary: The southwest fork of the Larch is described as difficult to ascend but
+    usable with caution for descent; it is the course followed by Little Whale River
+    Indians traveling to join the Naskopies in the Koksoak valley.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Leaf River and swamp-lake drainage
+  summary: The Leaf River is described as flowing into Tass'iyak and draining a long
+    narrow lake and a swampy tract filled with many connected small lakes.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hazardous waters of Ungava Bay and Hudson Strait
+  summary: Ungava Bay and Hudson Strait are described in terms of soundings, currents,
+    a whirlpool, Akpatok Island's effect on currents, tides, ice, and seasonal navigation
+    dangers.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8170-8174
+  quote_or_summary: The Koksoak has few branches; the Larch is the larger tributary
+    and is rapid, almost unnavigable, shallow in places, and 100 to nearly 400 yards
+    wide.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8175-8184
+  quote_or_summary: About 40 miles from its mouth, the Larch forks; its southwest
+    fork drains mountain slopes and is the route followed by Little Whale River Indians
+    when they traverse the country to join the Naskopies of the Koksoak valley.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8185-8196
+  quote_or_summary: The Leaf River flows into Tass'iyak, glossed as 'like a lake,'
+    and drains a long narrow lake and a swampy area with many small lakes connected
+    by short watercourses.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8197-8208
+  quote_or_summary: Ungava Bay is described as pocket-shaped, with depths of 28 to
+    70 fathoms in the central area; extreme tides create violent currents, and a whirlpool
+    near Leaf River bay troubles navigation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8209-8214
+  quote_or_summary: Akpatok Island is about 100 miles long, averages 18 miles wide,
+    is the largest island in the strait proper, and alters the currents along the
+    south side and at either end.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 8215-8220
+  quote_or_summary: The mainland coast is imperfectly known; navigation in Hudson
+    Strait is dangerous because of tides and ice, and after August and September anchorages
+    may freeze in a single night.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is descriptive geography and navigation information rather than
+    mythic narrative. No comparative motif or historical-contact claims are supported
+    by the passage. Confidence is reduced by the apparent mismatch between the supplied
+    source metadata and the Ungava/Hudson Strait passage content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological scenes or motif-family candidates were extracted; symbols are limited to literal recurring natural features present in the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l8170-l8220
+  passage_sha256=972b981b333d13693f36958e7d0d427ddd78bdf2b85e838d8b5e932c39b48b0e
+

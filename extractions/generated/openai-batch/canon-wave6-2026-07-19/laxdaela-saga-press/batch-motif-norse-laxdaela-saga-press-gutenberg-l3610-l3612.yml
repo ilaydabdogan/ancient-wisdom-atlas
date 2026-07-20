@@ -1,0 +1,98 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l3610-l3612
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. XL / CHAP. XLI / CHAP. XLII / CHAP. XLIII; lines 3610-3612
+  start: '3610'
+  end: '3612'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    CHAP. XLIII
+
+    Kjartan comes back to Iceland, A.D. 1001
+  summary: A chapter heading announces that Kjartan comes back to Iceland in A.D.
+    1001.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a chapter heading labeled CHAP. XLIII.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kjartan is named as coming back to Iceland.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The heading gives the date as A.D. 1001.
+  category: sequence
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Kjartan
+  description: A named figure in the heading who comes back to Iceland.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: returning person
+  assigned_to:
+  - fig:1
+  basis: The heading states that Kjartan comes back to Iceland.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Kjartan's return to Iceland
+  summary: The chapter heading announces Kjartan's return to Iceland in A.D. 1001.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: return to homeland or place of origin
+  taxonomy_refs:
+  - return
+  basis: The heading explicitly says that Kjartan comes back to Iceland.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is only a chapter heading and gives no narrative details about
+    the circumstances or meaning of the return.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3610-3612
+  quote_or_summary: CHAP. XLIII / Kjartan comes back to Iceland, A.D. 1001
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short excerpt used for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on a brief chapter heading. A return motif is directly
+    indicated, but broader interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols or comparison claims were extracted because the passage supplies only a chapter heading.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l3610-l3612
+  passage_sha256=20a512803aff18c1ba0f26cb87e9ccae09142eb4c29d023e3c427b715d203d9b
+

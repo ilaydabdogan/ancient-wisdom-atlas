@@ -1,0 +1,456 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l7974-l8145
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER IV. 27-31 41 / CHAPTERS IV. 32-V. 4 43 / CHAPTER V. 5-17 45 / CHAPTER
+    V. 18-28 47; lines 7974-8145
+  start: '7974'
+  end: '8145'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Noah enters the ark with what has been brought to him; the Lord closes
+    it. The Lord opens heavenly floodgates and fountains of the deep, waters cover
+    the world and rise above the mountains, and the ark moves on the waters before
+    resting on Libar, one of the mountains of Ararat. The waters then recede, the
+    earth dries, and Noah opens the ark and releases the animals. An adjacent section
+    heading mentions Noah's sacrifice, God's covenant with Noah, a prohibition on
+    eating blood, a bow in the clouds as a sign, and the institution of the Feast
+    of Weeks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Noah enters the ark with what has been brought to him, and the Lord closes
+    the ark from outside on the seventeenth evening.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lord opens seven floodgates of heaven and seven mouths or fountains of
+    the great deep.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Water pours from heaven for forty days and forty nights, and waters also rise
+    from the deep until the world is filled with water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The waters rise fifteen cubits above the high mountains, lift the ark above
+    the earth, and move it on the waters.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The waters prevail for five months, one hundred and fifty days, and the ark
+    rests on the top of Libar, one of the mountains of Ararat.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The fountains of the deep are closed, the floodgates of heaven are restrained,
+    the mouths of the abysses of the earth are opened, and the water begins to descend
+    below.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The mountain tops become visible, the earth becomes visible, and then the
+    earth is dry on a dated day.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Noah opens the ark and sends out beasts, cattle, birds, and every moving thing.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The adjacent section heading names Noah's sacrifice, God's covenant with Noah,
+    a prohibition on eating blood, Moses' renewal of that law, a bow set in the clouds
+    as a sign, and the Feast of Weeks.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Noah
+  description: The figure who enters the ark, later opens it, sends out living creatures,
+    and is named in the section heading for sacrifice and covenant.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: The Lord / God
+  description: The divine figure who closes the ark from outside, opens the floodgates
+    and fountains, and is named in the section heading as making covenant with Noah.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: Beasts, cattle, birds, and every moving thing
+  description: Living creatures released from the ark after it is opened.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Moses
+  description: Named in the adjacent section heading as being bidden to renew the
+    law against eating blood.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Ark entrant and opener
+  assigned_to:
+  - fig:1
+  basis: Noah enters the ark and later opens it to send out living creatures.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: Divine controller of ark closure and flood sources
+  assigned_to:
+  - fig:2
+  basis: The Lord closes the ark and opens the floodgates of heaven and fountains
+    of the deep.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Living creatures released after the flood
+  assigned_to:
+  - fig:3
+  basis: Beasts, cattle, birds, and every moving thing are sent forth from the ark.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: Covenant figures in section heading
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The adjacent heading names God's covenant with Noah and Noah's sacrifice.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: Recipient of renewed blood-law command in section heading
+  assigned_to:
+  - fig:4
+  basis: The heading says Moses is bidden to renew the law against eating blood.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Ark
+  literal_form: ark
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: Floodwaters
+  literal_form: waters from heaven and the deep covering the earth
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Floodgates and fountains of the deep
+  literal_form: seven floodgates of heaven and seven mouths or fountains of the great
+    deep
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: Libar and the mountains of Ararat
+  literal_form: top of Libar, one of the mountains of Ararat; high mountains covered
+    and later visible
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Bow in the clouds
+  literal_form: bow set in the clouds for a sign
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Entrance and sealing of the ark
+  summary: Noah enters the ark with what has been brought to him, and the Lord closes
+    it from outside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Floodwaters released and earth covered
+  summary: The Lord opens heavenly floodgates and deep fountains; water falls and
+    rises until the world is full, covering the mountains and lifting the ark.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ark rests on the mountain
+  summary: After the waters prevail for one hundred and fifty days, the ark rests
+    on Libar, one of the mountains of Ararat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Recession, drying, and release
+  summary: Flood sources are closed or restrained, waters descend, mountains and earth
+    become visible, the earth dries, and Noah opens the ark to release living creatures.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Adjacent sacrifice and covenant heading
+  summary: A section heading announces Noah's sacrifice, God's covenant with Noah,
+    prohibition of blood, Moses' renewal of the law, a bow in the clouds as sign,
+    and the Feast of Weeks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: World flood followed by drying and release of life
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage describes waters filling the world, covering mountains, later
+    receding until the earth is dry, followed by the release of animals from the ark.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: Renewal is inferred from drying and release; the excerpt does not elaborate
+    a full post-flood renewal program in the narrative verses.
+- id: motif:2
+  label: Ark as preservation vessel through flood
+  taxonomy_refs:
+  - ark_vessel
+  basis: Noah enters the ark, it is closed by the Lord, lifted by waters, rests on
+    a mountain, and is later opened to release creatures.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage segment does not list all occupants inside the ark beyond
+    what is brought in and what is released.
+- id: motif:3
+  label: Divinely controlled catastrophic flood
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Lord closes the ark and opens the floodgates and fountains that bring
+    the waters over the earth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt shows divine agency in the flood but does not state the moral
+    cause or judicial rationale within this line range.
+- id: motif:4
+  label: Covenant after the flood with sign in clouds
+  taxonomy_refs:
+  - covenant
+  basis: The adjacent section heading explicitly names God's covenant with Noah and
+    a bow set in the clouds for a sign.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This motif is supported by the section heading only; the covenant narrative
+    itself is not included in the supplied excerpt.
+- id: motif:5
+  label: Noah's sacrifice after the flood
+  taxonomy_refs:
+  - sacrifice
+  basis: The adjacent section heading names the sacrifice of Noah.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The supplied lines do not narrate the sacrificial action; they only give
+    the heading.
+comparison_claims:
+- id: claim:1
+  claim: The editorial notes explicitly align the flood sequence with Genesis 7-8
+    and Ethiopic Enoch 89 as parallel flood traditions.
+  claim_level: same_motif
+  target: Genesis 7-8 and Ethiopic Enoch lxxxix flood passages
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim rests on the editor's cross-references in the provided passage;
+    detailed textual comparison is not performed here.
+- id: claim:2
+  claim: The editorial note presents the ark-resting-on-a-mountain episode in relation
+    to Ararat, an Armenian mountain called Baris, and Mount Nizir associated with
+    a Chaldean Noah tradition.
+  claim_level: same_function
+  target: 'Ark-resting mountain traditions: Ararat, Baris, and Mount Nizir'
+  evidence_refs:
+  - ev:4
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The relation between Lubar/Libar and Baris is described as scholarly
+    conjecture in the note, and the Chaldean comparison is reported indirectly.
+evidence:
+- id: ev:1
+  type: summary
+  locator: V.23
+  quote_or_summary: Noah enters the ark with what has been brought to him, and the
+    Lord closes it from outside on the seventeenth evening.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain; summarized from supplied passage
+- id: ev:2
+  type: summary
+  locator: V.24
+  quote_or_summary: The Lord opens seven floodgates of heaven and seven mouths or
+    fountains of the great deep.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain; summarized from supplied passage
+- id: ev:3
+  type: summary
+  locator: V.25-27
+  quote_or_summary: Water pours from heaven for forty days and forty nights; the deep
+    also sends waters; the world is full of water; waters rise fifteen cubits above
+    the mountains, lift the ark, and prevail for one hundred and fifty days.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain; summarized from supplied passage
+- id: ev:4
+  type: summary
+  locator: V.28
+  quote_or_summary: The ark rests on the top of Libar, one of the mountains of Ararat.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain; summarized from supplied passage
+- id: ev:5
+  type: summary
+  locator: V.29-31
+  quote_or_summary: The fountains of the great deep are closed, floodgates restrained,
+    abyss mouths opened, waters descend below, mountain tops and earth become visible,
+    and the earth becomes dry.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain; summarized from supplied passage
+- id: ev:6
+  type: summary
+  locator: V.32
+  quote_or_summary: Noah opens the ark and sends out beasts, cattle, birds, and every
+    moving thing.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain; summarized from supplied passage
+- id: ev:7
+  type: summary
+  locator: Section heading after V.32
+  quote_or_summary: The heading names Noah's sacrifice, God's covenant with Noah,
+    a prohibition on eating blood, Moses being bidden to renew that law, a bow in
+    the clouds as a sign, and the Feast of Weeks.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain; summarized from supplied passage heading
+- id: ev:8
+  type: citation
+  locator: Editorial notes to V.24-27 and V.29-31
+  quote_or_summary: The notes cross-reference Genesis vii.11-24, viii.2-14, and Ethiopic
+    Enoch lxxxix.2-7 for floodgates, fountains, waters, and recession details.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain; summarized editorial citations from supplied passage
+- id: ev:9
+  type: note
+  locator: Editorial note to V.28
+  quote_or_summary: The note discusses Libar/Lubar in relation to Ararat, reports
+    an Armenian local tradition of the ark resting on Baris above Minyas, and mentions
+    Mount Nizir as the resting place of the Chaldean Noah's ark.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain; summarized editorial note from supplied passage
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The flood narrative elements are clear, but the line range includes page
+    headers, section headings, and editorial notes. Motifs based only on headings
+    or notes are marked with cautions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used; taxonomy references are limited to those supplied in the request.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l7974-l8145
+  passage_sha256=13e0a79963bccad69c4d1ab35870ec309bd4b8c2188f18028bb853ea2b3c6ffb
+

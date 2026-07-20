@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l9952-l9976
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER VII. 6-21 61 / CHAPTER VII. 22-31 63 / CHAPTER VII. 32-39 65 / CHAPTER
+    VIII. 1-7; lines 9952-9976
+  start: '9952'
+  end: '9976'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied Greek and English lines, largely notes and cited parallels,
+    describe a division of the world among Shem, Ham, and Japheth by lots; explain
+    Israel's expulsion of the Canaanites as recovery of its own possessions; cite
+    Syncellus on Canaan's violation of Shem's boundaries and Noah's command; and identify
+    a sent angel of the presence as one sent by God to bind the fallen watchers.
+  language: Greek and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A figure is described as dividing the whole world among his three sons, Shem,
+    Ham, and Japheth, by casting lots.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that Israel, in invading Palestine and driving out the Canaanites,
+    was recovering its own possessions.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The cited Syncellus passage says Canaan, son of Ham, entered Shem's boundaries,
+    lived there, and violated Noah's command, together with seven descendant nations.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The cited passage says God destroyed those peoples through Moses and Joshua
+    and, at certain times through the judges, gave the paternal land to the sons of
+    Israel.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A note identifies the phrase 'one of us, who had been sent' as referring to
+    one of the angels of the presence sent down by God to bind the fallen watchers.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed divider and father of Shem, Ham, and Japheth
+  description: The fragment describes a figure dividing the whole world among his
+    three sons, Shem, Ham, and Japheth, by lots.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Shem
+  description: One of the three sons receiving a portion; the cited passage refers
+    to Shem's boundaries.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Ham
+  description: One of the three sons receiving a portion; Canaan is identified as
+    son of Ham in the cited passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Japheth
+  description: One of the three sons receiving a portion in the division by lots.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Canaan
+  description: Identified as son of Ham; he entered Shem's boundaries, dwelt there,
+    and violated Noah's command.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Noah
+  description: Named in the cited passage as the source of the command violated by
+    Canaan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Israel / sons of Israel
+  description: The group said to recover its own possessions and to receive the paternal
+    land.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:8
+  name_or_label: Canaanites and seven descendant nations
+  description: The Canaanites are said to be driven out; the cited list includes seven
+    nations associated with Canaan.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:9
+  name_or_label: God
+  description: Said to destroy the listed peoples through Moses and Joshua, to give
+    land to Israel through the judges, and to send an angel to bind the fallen watchers.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:10
+  name_or_label: Moses
+  description: Named as one agent through whom God destroyed the listed peoples.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: Joshua
+  description: Named as one agent through whom God destroyed the listed peoples.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: the judges
+  description: Named as agents through whom God at certain times gave the paternal
+    land to the sons of Israel.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+- id: fig:13
+  name_or_label: one of the angels of the presence
+  description: Identified as the one sent by God to bind the fallen watchers.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+- id: fig:14
+  name_or_label: fallen watchers
+  description: Beings whom the sent angel was to bind.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: world-divider by lots
+  assigned_to:
+  - fig:1
+  basis: The fragment says the figure divided the whole world among the three sons
+    by casting lots.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: allotted sons
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Shem, Ham, and Japheth are listed as the three sons among whom the world
+    was divided.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: command-giver
+  assigned_to:
+  - fig:6
+  basis: The cited Syncellus passage says Canaan violated Noah's command.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: holder of named boundaries
+  assigned_to:
+  - fig:2
+  basis: The cited passage refers to the boundaries of Shem.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: boundary transgressor and settler
+  assigned_to:
+  - fig:5
+  basis: Canaan is said to enter Shem's boundaries, dwell there, and violate Noah's
+    command.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: restored heirs of paternal land
+  assigned_to:
+  - fig:7
+  basis: Israel is said to recover its own possessions and receive the paternal land.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:7
+  label: displaced and judged occupants
+  assigned_to:
+  - fig:8
+  basis: The Canaanites are driven out, and the listed nations are said to be destroyed
+    by God through Moses and Joshua.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:8
+  label: divine judge, restorer, and sender
+  assigned_to:
+  - fig:9
+  basis: God is said to destroy the peoples, give the paternal land to Israel, and
+    send an angel to bind the fallen watchers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: human agents of divine action
+  assigned_to:
+  - fig:10
+  - fig:11
+  - fig:12
+  basis: Moses, Joshua, and the judges are named as agents through whom God acts.
+  evidence_refs:
+  - ev:4
+- id: role:10
+  label: sent angelic binder
+  assigned_to:
+  - fig:13
+  basis: The angel of the presence is identified as sent down by God to bind the fallen
+    watchers.
+  evidence_refs:
+  - ev:5
+- id: role:11
+  label: bound fallen beings
+  assigned_to:
+  - fig:14
+  basis: The fallen watchers are the beings bound by the sent angel.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: lots of territorial division
+  literal_form: lots cast during the division of the world
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Shem's boundaries
+  literal_form: territorial boundaries associated with Shem
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: paternal land
+  literal_form: the ancestral or paternal land given to the sons of Israel
+  associated_figures:
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Division of the world by lots
+  summary: The world is divided among Shem, Ham, and Japheth by the casting of lots.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Canaan enters Shem's boundaries
+  summary: Canaan, son of Ham, enters and settles within Shem's boundaries, violating
+    Noah's command, together with seven descendant nations.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Israel recovers paternal land
+  summary: Israel's driving out of the Canaanites is explained as recovery of its
+    own possessions; the cited passage says God acts through Moses, Joshua, and the
+    judges to destroy the occupants and give the land to Israel.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:4
+  label: Angel sent to bind fallen watchers
+  summary: A note identifies a sent angel of the presence as one whom God sent down
+    to bind the fallen watchers.
+  figure_refs:
+  - fig:9
+  - fig:13
+  - fig:14
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: world allotted among ancestral sons by lots
+  taxonomy_refs: []
+  basis: The fragment presents a world-division among Shem, Ham, and Japheth by casting
+    lots.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The immediate fragment does not name the divider in the supplied lines.
+- id: motif:2
+  label: boundary transgression of an ancestral allotment
+  taxonomy_refs: []
+  basis: Canaan is said to enter Shem's boundaries, settle there, and violate Noah's
+    command.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The allotment-to-boundary relationship is supported by the nearby note
+    but remains partly dependent on the cited excerpt's framing.
+- id: motif:3
+  label: divine judgment and restoration of ancestral land
+  taxonomy_refs:
+  - divine_judgment
+  basis: God is said to destroy the occupying peoples through Moses and Joshua and
+    to give the paternal land to Israel through the judges.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is an explanatory note and cited parallel, not a continuous
+    narrative scene.
+- id: motif:4
+  label: angelic binding of fallen watchers
+  taxonomy_refs:
+  - divine_judgment
+  basis: A note identifies an angel of the presence sent by God to bind the fallen
+    watchers.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The supplied lines give only a note identifying the angelic role, without
+    the fuller watcher narrative.
+comparison_claims:
+- id: claim:1
+  claim: 'The note explicitly aligns the land-recovery rationale in the supplied passage
+    with Syncellus 1, 83-84: both as cited involve Canaan violating Shem''s boundaries
+    and God restoring the paternal land to Israel through named agents.'
+  claim_level: same_motif
+  target: Syncellus 1, 83-84 as cited in the passage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the cited excerpt and editorial comparison are available here;
+    this supports a motif-level parallel but not an independent claim of historical
+    contact or dependence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9952-9955
+  quote_or_summary: Greek fragment says the whole world was divided among the three
+    sons Shem, Ham, and Japheth by casting lots.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: quote
+  locator: lines 9955-9958
+  quote_or_summary: '"when Israel invaded Palestine and drove out the Canaanites they
+    were simply recovering their own possessions"'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 9958-9965
+  quote_or_summary: Cited Syncellus passage says Canaan, son of Ham, entered Shem's
+    boundaries, dwelt there, and violated Noah's command, with seven nations named.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 9965-9968
+  quote_or_summary: The cited passage says God destroyed those peoples through Moses
+    and Joshua and, through the judges at certain times, gave the paternal land to
+    the sons of Israel.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 9972-9976
+  quote_or_summary: A note says that 'one of us, who had been sent' is one of the
+    angels of the presence whom God sent down to bind the fallen watchers.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a fragmentary mixture of Greek text, English note, cited Syncellus
+    parallel, and cross-references; core observations are explicit, while some scene/motif
+    framing depends on the note's context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The isolated line 'Secretly. See note on iv. 5.' was not interpreted because the supplied context does not indicate its narrative referent.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l9952-l9976
+  passage_sha256=4b9d4b118076f89404ec45fbc6b63a226c36adec3ca5855950e4dee5a7914cb5
+

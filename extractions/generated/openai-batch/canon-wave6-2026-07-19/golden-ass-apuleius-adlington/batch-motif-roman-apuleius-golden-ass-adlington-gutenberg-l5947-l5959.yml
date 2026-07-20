@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l5947-l5959
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE FORTY-SECOND CHAPTER / THE FORTY-THIRD CHAPTER / THE TENTH BOOKE / THE
+    FORTY-FOURTH CHAPTER; lines 5947-5959
+  start: '5947'
+  end: '5959'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A witness says that a young man bought poison, mixed it with wine, and
+    attempted to have it given to a child, then offered it to his brother. After the
+    witness finishes, the judges find the accused young man culpable and prepare to
+    condemn him to the prescribed punishment for parricides: being sewn in a skin
+    with a dog, cock, snake, and ape, after the customary use of white and black stones
+    in a pot to determine acquittal or condemnation.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young man is said to have threatened the speaker with death after the speaker
+    would not comply with his will.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young man is said to have bought poison, mixed it with wine, and given
+    it to the speaker to give to a child.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the speaker refused, the young man is said to have offered the poisoned
+    wine to his brother with his own hands.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A varlet gives testimony with a trembling countenance, and his words are treated
+    as having a likelihood of truth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: No judge or counsellor is merciful enough to judge the accused young man not
+    culpable.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The prescribed punishment for parricides is to be sewn in a skin with a dog,
+    a cock, a snake, and an ape.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The ancient custom described is to put white stones and black stones into
+    a pot and draw them out to determine acquittal or condemnation.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The resulting judgment is described as irrevocable.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: young man accused
+  description: The accused young man is said to have threatened the speaker, bought
+    poison, mixed it with wine, and offered it toward a child and then to his brother;
+    judges consider him culpable.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: varlet witness or speaker
+  description: The person recounting the young man's actions; he refuses to give the
+    poisoned wine to the child and ends his words with a trembling countenance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: child
+  description: The intended recipient of the poisoned wine according to the witness's
+    account.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: brother
+  description: The person to whom the young man allegedly offers the poisoned wine
+    after the speaker refuses to give it to the child.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: judges and counsellors
+  description: They judge the accused young man culpable and proceed toward the customary
+    legal decision.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: accused poisoner and parricide suspect
+  assigned_to:
+  - fig:1
+  basis: The passage calls him the young man accused and says he bought poison, mixed
+    it with wine, and was judged culpable under the law against parricides.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: witness or informant
+  assigned_to:
+  - fig:2
+  basis: The varlet's words recount the alleged poisoning attempt and are heard before
+    judgment is ended.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: target of poisoned drink
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The child is named as the intended recipient, and the brother is then offered
+    the poisoned wine directly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: judicial decision-makers
+  assigned_to:
+  - fig:5
+  basis: The judges and counsellors decide the young man is culpable and apply the
+    described legal procedure.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: poisoned wine
+  literal_form: poison tempered with wine
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: punishment skin
+  literal_form: skin in which the condemned parricide is to be sewn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: dog, cock, snake, and ape
+  literal_form: four animals placed with the condemned person in the skin
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: white and black stones
+  literal_form: white stones and black stones placed in a pot and drawn out
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: judgment pot
+  literal_form: pot containing white and black stones for decision
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Alleged poisoning attempt
+  summary: The witness reports that the young man threatened him, bought poison, mixed
+    it with wine, and sought to have it given to a child, then offered it to his brother
+    when the witness refused.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Judgment of the accused
+  summary: After the varlet's testimony, the judges and counsellors find the young
+    man culpable and prepare for the legal process leading to acquittal or condemnation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:3
+  label: Parricide punishment described
+  summary: The passage describes the law against parricides as sewing the condemned
+    person in a skin with a dog, cock, snake, and ape.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: poisoned drink aimed at kin
+  taxonomy_refs: []
+  basis: The alleged crime centers on poison mixed with wine and offered toward a
+    child and then a brother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage reports the claim within testimony and does not independently
+    prove the accusation.
+- id: motif:2
+  label: judicial decision by black and white stones
+  taxonomy_refs: []
+  basis: The legal custom uses white and black stones placed in a pot and drawn out
+    to decide acquittal or condemnation.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage describes the procedure but does not state the final stone
+    drawn in this excerpt.
+- id: motif:3
+  label: parricide punishment with animal companions in a sack
+  taxonomy_refs: []
+  basis: The law against parricides requires sewing the condemned person in a skin
+    with a dog, cock, snake, and ape.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as a legal punishment rather than explaining
+    any symbolic meaning of the animals.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5947-5950
+  quote_or_summary: '"hee went himselfe and bought poyson, and after tempered it with
+    wine, and then gave it me to give the child"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 5950-5951
+  quote_or_summary: '"which when I refused he offered it to his brother with his own
+    hands"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5952-5953
+  quote_or_summary: The varlet ends his words with a trembling countenance, and the
+    words seem likely to be true.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5953-5955
+  quote_or_summary: The judgment ends, and no judge or counsellor is willing to find
+    the accused young man not culpable.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 5955-5957
+  quote_or_summary: '"put and sowne in a skin, with a dogge, a Cocke, a Snake, and
+    an Ape, according to the law against parricides"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 5957-5959
+  quote_or_summary: The ancient custom is to put white and black stones into a pot
+    and take them out to determine whether the accused is acquitted or condemned;
+    the judgment is irrevocable.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is direct about the alleged poisoning, judgment procedure, and
+    punishment. Motif labels are descriptive and not tied to a comparative taxonomy
+    beyond the literal serpent/snake symbol. No comparison claims were made because
+    the passage itself does not support broader comparative conclusions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. Literal observations are separated from motif candidates; symbolic meanings are not inferred beyond literal objects and available taxonomy reference for snake/serpent.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l5947-l5959
+  passage_sha256=9e3bdccee5c75b203633f8563a4eea1504f3d863fbd21223b71365a32f3fa42d
+

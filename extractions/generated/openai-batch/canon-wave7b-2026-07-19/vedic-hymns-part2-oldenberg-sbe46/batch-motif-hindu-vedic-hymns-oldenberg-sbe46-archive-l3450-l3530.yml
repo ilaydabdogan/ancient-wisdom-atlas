@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l3450-l3530
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: NO ES. / MANDALA I, HYMN 67, 63 / MANDALA I, HYMN 68. 65 / NOES.; lines 3450-3530
+  start: '3450'
+  end: '3530'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Philological notes to Mandala I, Hymn 68 discuss readings of several verses.
+    Relevant mythic content includes an immortal name, Agni as a possible referent
+    for a righteous name and as bearer of an epithet, and an obscure verse interpreted
+    through another hymn as referring to gods who seek Agni, with Agni probably being
+    the 'seed.' Soma is cited as a parallel for seed-language.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note to Verse 4 states that the word rendered as immortal or undying belongs
+    with 'name' and cites parallel phrases involving an immortal name.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note to Verse 5 reports Max Müller's view that rita should be taken as
+    a name of Agni in a phrase about prayers and devotion.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says visvayu is an epithet of Agni frequently used in the Rigveda,
+    especially in the Parashara hymns.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note to Verse 8 identifies the 'searching ones' as gods who seek Agni.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note says it is probable that the 'seed' in the obscure verse is Agni.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The note compares the searching gods in this passage with searching gods in
+    Rigveda I,72,5 by reference to a related expression.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Agni is named in the notes as a possible referent of rita, as bearer
+    of the epithet visvayu, as sought by the gods, and as probably the 'seed' in Verse
+    8.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the gods / searching ones
+  description: The searching ones, glossed as 'amitiraz,' are identified as gods who
+    seek Agni.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Soma
+  description: Soma is cited from Rigveda I,164,35 as being called 'the seed of the
+    manly horse' in a comparison for the seed-language.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sought figure
+  assigned_to:
+  - fig:1
+  basis: The note states that the searching gods seek Agni.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: probable seed
+  assigned_to:
+  - fig:1
+  basis: The note says the 'seed' is probably Agni.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: divine searchers
+  assigned_to:
+  - fig:2
+  basis: The gods are identified as the searching ones who seek Agni.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: named recipient of prayers and devotion in a scholarly reading
+  assigned_to:
+  - fig:1
+  basis: The note reports a reading in which rita is taken as a name of Agni in a
+    phrase about prayers and devotion.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: cited parallel for seed-language
+  assigned_to:
+  - fig:3
+  basis: The note cites Soma as called 'the seed of the manly horse' in Rigveda I,164,35.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: seed
+  literal_form: The 'seed' in Verse 8, with a cited parallel phrase 'the seed of the
+    manly horse' for Soma.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: immortal name
+  literal_form: The phrase in which the note links amrtam/amrvetam with nama, 'name.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Gods seek Agni in an obscure verse
+  summary: 'The note explains Verse 8 by comparison with another hymn: the searching
+    ones are gods who seek Agni, and the ''seed'' in the verse is probably Agni.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine search for Agni
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage identifies the searching ones as gods who seek Agni and compares
+    them with searching gods in another hymn.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The note calls the verse obscure; the motif rests on the commentator's
+    interpretation through Rigveda I,72.
+- id: motif:2
+  label: deity as seed
+  taxonomy_refs: []
+  basis: The note says the 'seed' is probably Agni and cites Soma as a parallel figure
+    called a seed in another hymn.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The identification is explicitly probable rather than certain, and the
+    passage supplies only a philological note, not a full narrative scene.
+- id: motif:3
+  label: immortal name
+  taxonomy_refs: []
+  basis: The Verse 4 note grammatically links an immortal/undying attribute with 'name'
+    and cites parallel phrases.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage gives a grammatical note and citations rather than a developed
+    mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage is compared with Rigveda I,72, where the searching ones are also
+    understood as gods who seek Agni.
+  claim_level: same_function
+  target: Rigveda I,72 within the Parashara collection
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is explicitly used to illuminate an obscure verse, but
+    the supplied passage does not quote the full narrative of either hymn.
+- id: claim:2
+  claim: The identification of Agni as 'seed' is supported by a linguistic or imagistic
+    comparison with Rigveda I,164,35, where Soma is called 'the seed of the manly
+    horse.'
+  claim_level: linguistic_similarity
+  target: 'Rigveda I,164,35: Soma as ''the seed of the manly horse'''
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is based on shared seed-language and the commentator's
+    probability judgment; it does not establish the same narrative motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3475-3477; Mandala I, Hymn 68, Verse 4 note 1
+  quote_or_summary: '"Amvttam belongs to nama"; the note cites parallel phrases involving
+    an immortal name.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 3481-3484; Mandala I, Hymn 68, Verse 5 note 1
+  quote_or_summary: '"Prof. Max Miiller thinks that rita should be taken as a name
+    of Agni" in the phrase "for the righteous (Agni) are the prayers, for the righteous
+    the devotion."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 3486-3490; Mandala I, Hymn 68, Verse 5 note 2
+  quote_or_summary: '"visvayu is an epithet of Agni frequently used in the Rig-veda
+    and especially in the Paradsara hymns."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 3501-3505; Mandala I, Hymn 68, Verse 8 note 1
+  quote_or_summary: The note says the obscure verse is illuminated by Hymn I,72 and
+    that "the searching ones, 'amitiraz,' are the gods who seek Agni."
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 3505-3508; Mandala I, Hymn 68, Verse 8 note 1
+  quote_or_summary: '"It seems probable, consequently, that the ''seed'' is Agni";
+    the note compares I,164,35, where Soma is called "the seed of the manly horse."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 3508-3510; Mandala I, Hymn 68, Verse 8 note 1
+  quote_or_summary: '"Of the same searching gods in I, 72, 5" a related expression
+    is used and compared with the expression in the present passage.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is a set of philological notes rather than the hymn text itself.
+    Several claims are explicitly tentative or based on comparison with other Rigvedic
+    passages. OCR/transliteration irregularities are preserved in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external traditions or taxonomy IDs beyond the supplied list were added. The available symbol taxonomy item 'fire' was not assigned because the supplied passage names Agni but does not explicitly define Agni as fire.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l3450-l3530
+  passage_sha256=d18d424d5afb2f392bcebbc182436e791b41622595e09a3ecae8ea15b2690815
+

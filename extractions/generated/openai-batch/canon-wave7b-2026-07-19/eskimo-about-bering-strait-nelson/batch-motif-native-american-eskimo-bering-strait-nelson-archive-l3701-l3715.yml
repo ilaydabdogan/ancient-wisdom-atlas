@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l3701-l3715
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: UNIVERSITY / NELSON  J / TATTOOING / THE    ESKIMO    ABOUT    BERING    STRAIT;
+    lines 3701-3715
+  start: '3701'
+  end: '3715'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records facial markings observed on individuals from Mechigme
+    Bay, Plover Bay, and St Lawrence Island, including cheek circles with radiating
+    lines, raven totem markings over the eyes, labret-representing circles near the
+    mouth, and short parallel temple lines. It also notes that an illustration of
+    a woman was based on a sketch by Henry W. Elliot.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A referenced image of a woman from an island is said to come from a sketch
+    made and presented by Henry W. Elliot.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At Mechigme Bay, Siberia, a man was seen with a double circle connected by
+    radiating lines on each cheek.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At Plover Bay, a boy had the raven totem over each eye.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: On St Lawrence Island, a man had circles near the lower corners of his mouth,
+    described as representing labrets, and two short parallel lines on each temple.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: woman from the island
+  description: A woman whose illustration is said to be from a sketch made and presented
+    by Henry W. Elliot.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man at Mechigme Bay
+  description: A man at Mechigme Bay, Siberia, with double-circle cheek markings connected
+    by radiating lines.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: boy at Plover Bay
+  description: A boy at Plover Bay with raven totem markings over each eye.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: man on St Lawrence Island
+  description: A man on St Lawrence Island with mouth-corner circles representing
+    labrets and short parallel temple lines.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: subject of referenced sketch
+  assigned_to:
+  - fig:1
+  basis: The passage says the image of the woman was from a sketch by Henry W. Elliot.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bearer of cheek markings
+  assigned_to:
+  - fig:2
+  basis: The man is described as having a double-circle design with radiating lines
+    on each cheek.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: bearer of raven totem eye markings
+  assigned_to:
+  - fig:3
+  basis: The boy is described as having the raven totem over each eye.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: bearer of mouth and temple markings
+  assigned_to:
+  - fig:4
+  basis: The man is described as having circles near the mouth and parallel lines
+    on the temples.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: double-circle cheek design
+  literal_form: double circle connected by radiating lines on each cheek
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: raven totem marking
+  literal_form: raven totem over each eye
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: labret-representing mouth circles
+  literal_form: circles near the lower corners of the mouth, representing labrets
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: parallel temple lines
+  literal_form: two short, parallel lines on each temple
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mechigme Bay cheek markings
+  summary: A man at Mechigme Bay is observed with double circles connected by radiating
+    lines on both cheeks.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Plover Bay raven totem eye markings
+  summary: A boy at Plover Bay is described as having raven totem markings over both
+    eyes.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: St Lawrence Island mouth and temple markings
+  summary: A man on St Lawrence Island is described with labret-representing circles
+    near the mouth and parallel lines on the temples.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: facial body marking as visual sign
+  taxonomy_refs: []
+  basis: The passage lists multiple persons identified by specific designs placed
+    on the cheeks, eyes, mouth area, or temples.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage records designs and locations but does not explain ritual,
+    social, or mythic meanings for most markings.
+- id: motif:2
+  label: totem image worn on the face
+  taxonomy_refs: []
+  basis: The Plover Bay boy is described as having the raven totem over each eye.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage identifies the image as a raven totem but gives no further
+    narrative or ritual context.
+- id: motif:3
+  label: marking representing an adornment object
+  taxonomy_refs: []
+  basis: The St Lawrence Island man's mouth-corner circles are explicitly said to
+    represent labrets.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states the representational relation but does not give the
+    cultural meaning of the representation.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents facial markings from Mechigme Bay, Plover Bay, and St
+    Lawrence Island as comparable examples within the same tattooing discussion.
+  claim_level: visual_similarity
+  target: facial marking practices in Bering Strait and nearby Siberian locations
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to placement and recorded visual form; the
+    passage does not establish shared origin, identical meaning, or historical contact
+    for the specific designs.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3701-3704
+  quote_or_summary: A woman from the island is associated with a sketch made and presented
+    by Henry W. Elliot.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 3705-3708
+  quote_or_summary: At Mechigme Bay, Siberia, a man was observed with a double circle
+    connected by radiating lines on each cheek.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 3708-3710
+  quote_or_summary: At Plover Bay, a boy had the raven totem over each eye.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 3710-3715
+  quote_or_summary: On St Lawrence Island, a man had circles near the lower corners
+    of his mouth representing labrets, plus two short parallel lines on each temple.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif and comparison labels are cautious
+    because the passage is descriptive ethnography and gives limited explanation of
+    function or meaning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif-family or symbol reference matches were assigned; the passage does not mention cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l3701-l3715
+  passage_sha256=3b02854ffc8950669acf04fade3ef9aae1f95cb2cff40b5c1afc4c43438889a0
+

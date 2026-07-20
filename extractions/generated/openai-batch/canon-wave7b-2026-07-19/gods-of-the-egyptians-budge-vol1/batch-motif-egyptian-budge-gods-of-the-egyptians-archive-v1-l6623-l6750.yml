@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l6623-l6750
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: ONENESS OF THE GODS / ONENESS OF THE GODS / ONENESS OF THE GODS 133 / THE
+    GREAT SELF-CREATED GOD; lines 6623-6750
+  start: '6623'
+  end: '6750'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"I am the great god self-created"'
+  summary: The passage describes the great Paut as creator of divine companies, hidden
+    in births, manifold in forms, and of unknown development. It then cites a passage
+    from Chapter XVII of the Book of the Dead in which a self-created great god says
+    he made his names and the company of the gods; the answer to the question of who
+    this is identifies the being as Ra, who created names for his members, which came
+    into being as gods in Ra’s following.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the great Paut created the companies of the gods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The great Paut is described as hidden of births, manifold of forms, and of
+    unknown growth or development.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A cited Book of the Dead passage has a speaker say, "I am the great god self-created."
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cited speaker says he made his names and the company of the gods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the passage asks who this being is, the answer given is Ra.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ra is said to have created names for his members, and these came into being
+    in the form of gods who are in the following of Ra.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the great Paut
+  description: A being said to have created the companies of the gods; described as
+    hidden of births, manifold of forms, and of unknown development.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the great god self-created
+  description: The speaker in the cited Book of the Dead passage who says he is self-created
+    and made his names and the company of the gods.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ra
+  description: The answer to the question about the cited being; said to have created
+    names for his members, which came into being as gods in his following.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: company of the gods / gods in the following of Ra
+  description: Divine company or gods described as made by the self-created god and
+    as coming into being in the following of Ra.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: creator of divine companies or gods
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The great Paut is said to have created the companies of the gods; Ra is said
+    to have created names that came into being as gods.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: hidden and manifold divine being
+  assigned_to:
+  - fig:1
+  basis: The great Paut is described as hidden of births and manifold of forms, with
+    unknown development.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: self-created god
+  assigned_to:
+  - fig:2
+  basis: The cited speaker says, "I am the great god self-created."
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: maker of names
+  assigned_to:
+  - fig:2
+  basis: The cited speaker says he made his names and the company of the gods.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: identified divine answer
+  assigned_to:
+  - fig:3
+  basis: The passage asks who the self-created being is and gives the answer, "It
+    is Ra."
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: created divine following
+  assigned_to:
+  - fig:4
+  basis: The gods are described as coming into being in the following of Ra.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: names
+  literal_form: names made or created by the god
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: members
+  literal_form: Ra’s members, for which names are created
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: manifold forms
+  literal_form: many forms under which the great Paut appears
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Description of the great Paut
+  summary: The passage states that the great Paut created divine companies and is
+    hidden of births, manifold of forms, and of unknown development.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Book of the Dead self-created god passage
+  summary: A cited Book of the Dead passage presents a self-created great god who
+    made his names and the company of the gods.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Identification as Ra
+  summary: The passage asks who the cited being is and answers that it is Ra, who
+    created names for his members; these came into being as gods in Ra’s following.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: self-created creator god
+  taxonomy_refs: []
+  basis: The cited passage names a great god as self-created, and the surrounding
+    discussion concerns divine creative power.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage excerpt does not provide a full cosmogony beyond the self-identification
+    and creation of names or gods.
+- id: motif:2
+  label: creation of gods through names
+  taxonomy_refs: []
+  basis: The self-created god says he made his names and the company of the gods;
+    Ra is said to create names for his members that came into being as gods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The exact mechanism by which names become gods is not explained in the
+    excerpt.
+- id: motif:3
+  label: one deity appearing in many forms
+  taxonomy_refs: []
+  basis: The great Paut is described as manifold of forms, and the cited Ra passage
+    links names, members, and gods in Ra’s following.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage heading and discussion concern oneness of the gods, but the
+    excerpt does not fully define the theological relation between Paut, Ra, names,
+    members, and the gods.
+- id: motif:4
+  label: hidden divine origin
+  taxonomy_refs: []
+  basis: The great Paut is described as hidden of births and of unknown growth or
+    development.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a descriptive attribute in the excerpt rather than a narrated
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly brings the description of the great Paut’s creative
+    power into relation with a Book of the Dead Chapter XVII passage about a great
+    self-created god and Ra creating names that become gods.
+  claim_level: same_function
+  target: Book of the Dead, Chapter XVII, line 9 as cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt supports a cautious functional comparison around divine
+    self-creation and creation of gods, but it does not by itself prove complete identity
+    between every named figure or explain the broader textual context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6623-6750
+  quote_or_summary: The passage says the great Paut created the companies of the gods
+    and is "hidden of births and manifold of forms," with unknown growth or development.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; excerpt use allowed.
+- id: ev:2
+  type: quote
+  locator: lines 6623-6750; internal citation to Book of the Dead XVII, line 9
+  quote_or_summary: '"I am the great god self-created"; the cited speaker is also
+    rendered as one "who made his names" and "the company of the gods."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 6623-6750
+  quote_or_summary: The passage asks who the cited being is and answers that it is
+    Ra, who created names for his members; these came into being in the form of gods
+    in Ra’s following.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; excerpt use allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based only on the provided excerpt, which is a modern scholarly
+    discussion quoting Egyptian religious text. Some theological identifications are
+    left cautious because the excerpt is fragmentary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family IDs were applied because the available list does not include a direct cosmogonic self-creation or creation-by-naming category, and the provided excerpt does not directly support the listed symbol taxonomy items.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l6623-l6750
+  passage_sha256=80cdbf44dab53ab473f99fb32c0b9225c1ac588c3e31752f1e84055d9f73833f
+

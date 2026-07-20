@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l20083-l20133
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA V, HYMN 28. 423 / MANDALA V, HYMN 28. / ASHTAKA IV, ADHYAYA 1, VARGA
+    22. / NOTES:; lines 20083-20133
+  start: '20083'
+  end: '20133'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes identify the Rishi and metres for Mandala V, Hymn 28, state
+    that the Sūkta is a later addition to the original Saṃhitā, comment on verse 2
+    with a translation involving hospitality before Agni and acquisition of wealth,
+    and compare verse 3 with a passage of the great marriage hymn. The excerpt then
+    begins an index of important words cited in the notes.
+  language: English with transliterated Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes identify the Rishi as “Visvavara Atrey?” and list the metres for
+    verses 1 through 6.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sūkta is described as a later addition to the original Saṃhitā.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note on verse 2 discusses the accentuation of “dhatte” and gives a translation
+    in which a person furthered by Agni places hospitality before him and acquires
+    all wealth.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note on verse 3 cites Rigvedic X, 85, 23 and states as a conjecture that
+    the author of the verse imitated a passage of the great marriage hymn.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index introduction says it is not a complete index verborum but an index
+    of important, rare, difficult, doubtful, and mythologically important words discussed
+    in the notes.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Visvavara Atrey?
+  description: Named in the note as the Rishi of the hymn, with uncertainty indicated
+    by the question mark in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Agni
+  description: Addressed in the note’s translated fragment for verse 2; the fragment
+    says the addressee furthers someone.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: author of our verse
+  description: An unnamed author whom the note conjectures imitated a passage of the
+    great marriage hymn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: identified Rishi
+  assigned_to:
+  - fig:1
+  basis: The notes state that the Rishi is Visvavara Atrey?, while marking the name
+    as uncertain.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed beneficent agent
+  assigned_to:
+  - fig:2
+  basis: The verse 2 note addresses Agni and says that the one whom Agni furthers
+    acquires wealth after placing hospitality before him.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: conjectured imitator
+  assigned_to:
+  - fig:3
+  basis: The verse 3 note conjectures that the author of the verse imitated a passage
+    of the great marriage hymn.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Hospitality before Agni in verse 2 note
+  summary: An editorial translation fragment describes someone furthered by Agni who
+    places hospitality before him and thereby acquires all wealth.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Comparison of verse 3 with the great marriage hymn
+  summary: The note cites another Rigvedic passage and cautiously suggests that the
+    author of the current verse imitated a passage of the great marriage hymn.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: hospitality offered to a divine addressee leading to wealth
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The verse 2 note summarizes a sequence in which a person places hospitality
+    before Agni and acquires all wealth after being furthered by him.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is an editorial note and translation fragment, not the full
+    hymn text; the exact ritual context is not supplied.
+- id: motif:2
+  label: marriage-hymn imitation
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The verse 3 note explicitly refers to a passage of the great marriage hymn
+    and conjectures imitation by the author of the current verse.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only the note’s comparison is present; the actual verse text and marriage
+    imagery are not included in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The note cautiously compares verse 3 with Rigvedic X, 85, 23 and conjectures
+    that the author of the current verse imitated that passage of the great marriage
+    hymn.
+  claim_level: historical_contact
+  target: Rigveda X, 85, 23, described here as part of the great marriage hymn
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is explicitly framed as conjecture, and the passage excerpt
+    does not include the full wording of either compared verse.
+- id: claim:2
+  claim: The notes list verse 3 as having cross-textual correspondences in other Vedic
+    collections, including AV, VS, and PS, though the OCR in this line is partly unclear.
+  claim_level: linguistic_similarity
+  target: Verse 3 parallels in AV, VS, and PS as listed in the note
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The cited line is garbled in the supplied text, so individual reference
+    numbers cannot be extracted reliably.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20083-20091
+  quote_or_summary: The notes identify the Rishi as Visvavara Atrey?, list metres
+    for the verses, and give cross-references for verse 3 to other Vedic texts, though
+    parts are OCR-corrupted.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: line 20093
+  quote_or_summary: "“The Sikta is a later addition to the original Samzhita.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 20097-20100
+  quote_or_summary: The verse 2 note asks whether “dhatte” should be accented and
+    translates a line in which one furthered by Agni places hospitality before him
+    and acquires all wealth.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 20104-20110
+  quote_or_summary: "“it may be conjectured that the author of our verse imitated
+    that passage of the great marriage hymn.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 20117-20131
+  quote_or_summary: The index introduction states that it is not a complete index
+    verborum but includes important, rare, difficult, doubtful, mythologically important
+    words, and words discussed in the notes.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The excerpt is primarily editorial notes and index material, not a continuous
+    mythic narrative. OCR corruption affects names, citations, and Sanskrit transliteration.
+    Motif extraction is therefore limited to explicit note content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbolic taxonomy item was assigned because the passage does not explicitly identify a literal symbol from the provided symbol list; Agni is treated only as a named figure addressed in the note.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l20083-l20133
+  passage_sha256=d2d56dae9dc61ab2f0c207b2fd4d620c4d3191025337ebd436d1f000084b3f97
+

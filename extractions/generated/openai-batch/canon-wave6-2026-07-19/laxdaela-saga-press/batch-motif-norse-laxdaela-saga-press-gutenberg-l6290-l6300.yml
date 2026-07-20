@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l6290-l6300
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. LXXII / CHAP. LXXIII / CHAP. LXXIV / CHAP. LXXV; lines 6290-6300
+  start: '6290'
+  end: '6300'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Beiner, who stood over you with the axe reared aloft
+  summary: After talk of a future clash, Halldor says he will be ready. The party
+    rides away and discusses the journey. Thorstein asks Thorkell why he did not attack
+    Halldor; Thorkell replies that Beiner stood over Thorstein with a raised axe and
+    would have struck him if Thorkell acted. They ride home to Lea-shaws as Lent passes
+    and Passion Week begins.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker says that after the season passes he will not prevent a clash between
+    the two sides.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Halldor says he thinks he will be ready for them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The group rides away and talks about the journey.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thorstein says the journey was very wretched.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Thorstein asks Thorkell why he was afraid to fall on Halldor and shame him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Thorkell says Beiner stood over Thorstein with an axe raised aloft.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Thorkell says Beiner would have driven the axe into Thorstein's head if Thorkell
+    had done anything.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: They ride home to Lea-shaws as Lent wears on and Passion Week begins.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Halldor
+  description: Named man who says he will be ready and whom Thorstein says Thorkell
+    might have attacked.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Thorstein
+  description: Named man who speaks about the journey, questions Thorkell, and is
+    described by Thorkell as standing under Beiner's raised axe.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Thorkell
+  description: Named kinsman addressed by Thorstein; he explains that he did not act
+    against Halldor because Beiner threatened Thorstein with an axe.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Beiner
+  description: Named man who stood over Thorstein with an axe raised aloft, according
+    to Thorkell.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ready participant in threatened clash
+  assigned_to:
+  - fig:1
+  basis: Halldor says he thinks he will be ready after a speech about a future clash.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioner about the failed attack
+  assigned_to:
+  - fig:2
+  basis: Thorstein asks Thorkell why he was afraid to fall on Halldor.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: restrained potential attacker
+  assigned_to:
+  - fig:3
+  basis: Thorstein asks why Thorkell did not attack Halldor, and Thorkell answers
+    that Beiner's raised axe prevented action.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: man endangered by raised axe
+  assigned_to:
+  - fig:2
+  basis: Thorkell says Beiner stood over Thorstein with a raised axe and would have
+    driven it into his head.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: armed deterrent
+  assigned_to:
+  - fig:4
+  basis: Beiner is described as standing over Thorstein with an axe raised aloft,
+    ready to strike if Thorkell acted.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: raised axe
+  literal_form: Axe reared aloft over Thorstein, threatening a blow to his head.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Departure after talk of future clash
+  summary: After a speech about not preventing a later clash, Halldor says he will
+    be ready; the group rides away and discusses the journey.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Explanation of restrained violence
+  summary: Thorstein asks why Thorkell did not attack Halldor. Thorkell explains that
+    Beiner's raised axe over Thorstein would have caused Thorstein's death if Thorkell
+    had acted.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Return to Lea-shaws during Lent
+  summary: The party rides home to Lea-shaws as Lent passes and Passion Week begins.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: attack averted by threat to companion
+  taxonomy_refs: []
+  basis: Thorkell refrains from attacking Halldor because Beiner stands over Thorstein
+    with a raised axe and would strike him if Thorkell acted.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local saga conflict pattern rather than a named mythological
+    taxonomy motif in the supplied list.
+- id: motif:2
+  label: feud clash deferred around a season
+  taxonomy_refs: []
+  basis: The passage mentions a future clash after the season wears off and then marks
+    the time as Lent moving into Passion Week.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: low
+  cautions: The excerpt begins mid-speech and does not explicitly state that Lent
+    or Passion Week causes the postponement; the connection is therefore uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6290-6292
+  quote_or_summary: '"this season wears off, I shall not stand in the way of his and
+    ours clashing together." Halldor said he would be ready.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 6292-6294
+  quote_or_summary: They rode away, talked about the journey, and Thorstein said the
+    journey was most wretched.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 6294-6296
+  quote_or_summary: Thorstein asks Thorkell why he was afraid of "falling on Halldor
+    and putting him to some shame."
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 6297-6299
+  quote_or_summary: Thorkell says Beiner stood over Thorstein "with the axe reared
+    aloft" and would have driven it into his head.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 6299-6300
+  quote_or_summary: They rode home to Lea-shaws; Lent wears on and Passion Week sets
+    in.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Named figures and the raised-axe deterrent are explicit. The excerpt begins
+    mid-speech, so the speaker of the opening statement and the exact seasonal context
+    are not identified. No comparison claims are made because the passage itself does
+    not provide comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif or symbol reference was assigned; the raised axe is recorded as a passage-level literal symbol without taxonomy mapping.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l6290-l6300
+  passage_sha256=6e09ee5c4e9eff8d3d7e367912cd7ab1b145be6692b437084850dace3e6c4ba2
+

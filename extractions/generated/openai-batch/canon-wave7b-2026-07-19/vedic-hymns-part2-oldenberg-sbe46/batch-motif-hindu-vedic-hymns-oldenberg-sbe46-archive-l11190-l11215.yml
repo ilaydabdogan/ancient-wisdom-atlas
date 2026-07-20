@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l11190-l11215
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: NOTES. / MANDALA III, HYMN 1. 227 / MANDALA III, HYMN 2. 229 / NOTES:; lines
+    11190-11215
+  start: '11190'
+  end: '11215'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Vagam sanishyan refers to the worshipper who desires to obtain vaga (quick
+    strength, and the booty or prize obtained by it), and in the comparison, to the
+    owner of a race-horse who desires to win the race.
+  summary: The passage consists of editorial notes on Vedic hymn verses, including
+    literal renderings such as “we generate” and “doubly,” and an explanation that
+    Vagam sanishyan denotes a worshipper seeking vaga, compared to a race-horse owner
+    seeking victory.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is an editorial notes section identifying a metre and verse correspondences.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One note gives the literal rendering “we generate.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One note gives the literal rendering “doubly.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The expression Vagam sanishyan is explained as referring to a worshipper who
+    desires to obtain vaga, described as quick strength and the booty or prize obtained
+    by it.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The same explanation is applied, in a comparison, to an owner of a race-horse
+    who desires to win a race.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: worshipper
+  description: A worshipper who desires to obtain vaga, glossed as quick strength
+    and the booty or prize obtained by it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: owner of a race-horse
+  description: A figure in the comparison who desires to win the race.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: desiring worshipper
+  assigned_to:
+  - fig:1
+  basis: The note states that Vagam sanishyan refers to the worshipper who desires
+    to obtain vaga.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: race-victory seeker in comparison
+  assigned_to:
+  - fig:2
+  basis: The note compares the worshipper’s desire to that of a race-horse owner who
+    desires to win the race.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: vaga as desired gain
+  literal_form: quick strength, and the booty or prize obtained by it
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: race-horse image
+  literal_form: race-horse
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Explanation of Vagam sanishyan
+  summary: The note explains the expression as referring to a worshipper seeking vaga
+    and compares that desire to a race-horse owner’s wish to win a race.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: seeking quick strength and prize
+  taxonomy_refs: []
+  basis: The worshipper is described as desiring to obtain vaga, glossed as quick
+    strength and booty or prize.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is an editorial note, not a narrative episode; no deity, ritual
+    exchange, or granting of the desired prize is described.
+- id: motif:2
+  label: race-winning analogy for desired gain
+  taxonomy_refs: []
+  basis: The passage explicitly compares the worshipper’s desire for vaga with a race-horse
+    owner’s desire to win a race.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an explanatory comparison in a note rather than an independent
+    mythic scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly relates the worshipper’s desired acquisition of vaga
+    to an owner of a race-horse desiring race victory.
+  claim_level: same_function
+  target: race-horse owner seeking victory
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an intra-passage explanatory analogy; it does not establish
+    a broader historical or cross-cultural comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11190-11193
+  quote_or_summary: The notes identify the same subject, the metre, and verse correspondences.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: public_domain
+- id: ev:2
+  type: quote
+  locator: lines 11195-11197
+  quote_or_summary: "“Literally, ‘we generate.’”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: public_domain
+- id: ev:3
+  type: quote
+  locator: lines 11201-11203
+  quote_or_summary: "“Literally, ‘doubly.’”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: public_domain
+- id: ev:4
+  type: quote
+  locator: lines 11207-11215
+  quote_or_summary: "“Vagam sanishyan refers to the worshipper who desires to obtain
+    vaga (quick strength, and the booty or prize obtained by it), and in the comparison,
+    to the owner of a race-horse who desires to win the race.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif value is limited because
+    the passage is a translator’s note rather than a full mythic or ritual narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif-family reference was assigned; the passage does not explicitly support fire, sacrifice, sacred exchange, or other listed taxonomy motifs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l11190-l11215
+  passage_sha256=bc2e0d99da3a2ba874d8ab7823c960e3e69419668dc60a433d7133e1548bb4e6
+

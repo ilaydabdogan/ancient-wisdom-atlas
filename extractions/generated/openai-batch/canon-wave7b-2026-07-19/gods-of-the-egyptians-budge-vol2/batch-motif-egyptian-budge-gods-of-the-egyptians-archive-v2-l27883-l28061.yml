@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l27883-l28061
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 27883-28061
+  start: '27883'
+  end: '28061'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment listing headwords and page references from Maa-ab through
+    Matet. It includes Maat-related subentries, a Hall of Maati entry, an entry for
+    the destruction of mankind, an entry for the fight of Marduk and Tiamat, an equation
+    of Maa with Hokhmah, and an entry for Mary the Virgin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index list of headwords and page references rather than
+    a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists Maat with associated subentries including a boat, a feather,
+    goddesses, lords or assessors, and a pedestal.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index lists Maati as a city and also lists a Hall of Maati.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index includes an entry for the destruction of mankind and identifies
+    it as an Egyptian text topic.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index includes an entry for a fight of Marduk and Tiamat.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes an equation of Maa with Hokhmah.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index lists Mary with the epithet “the Virgin.”
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Maat
+  description: Indexed headword with multiple related subentries, including boat,
+    feather, goddesses, lords or assessors, and pedestal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Marduk
+  description: Named in the index entry for a fight involving Marduk and Tiamat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Tiamat
+  description: Named in the index entry for a fight involving Marduk and Tiamat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Mankind
+  description: Collective subject named in the index entry for destruction of mankind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Mary, the Virgin
+  description: Indexed as “Mary, the Virgin.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Lords or assessors of Maat
+  description: Group named in a Maat subentry as lords of Maat and assessors of Maat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: indexed Maat-associated subject
+  assigned_to:
+  - fig:1
+  basis: Maat appears as a main index headword with several associated subentries.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: combatant in indexed fight
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The index names Marduk and Tiamat in an entry for a fight.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: collective subject of indexed destruction
+  assigned_to:
+  - fig:4
+  basis: The index entry names the destruction of mankind.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: figure identified by virgin epithet
+  assigned_to:
+  - fig:5
+  basis: The index entry gives Mary the epithet “the Virgin.”
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: lords or assessors associated with Maat
+  assigned_to:
+  - fig:6
+  basis: The Maat subentry lists lords of Maat and assessors of Maat.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: boat of Maat
+  literal_form: boat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: feather of Maat
+  literal_form: feather; OCR text prints “featber”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pedestal of Maat
+  literal_form: pedestal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Hall of Maati
+  literal_form: hall
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Maat and Maati index cluster
+  summary: The index clusters Maat with objects and groups such as a boat, feather,
+    lords or assessors, and pedestal, and separately names the Hall of Maati. No narrative
+    action is given.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Destruction of mankind index topic
+  summary: The index names destruction of mankind as an Egyptian text topic, without
+    giving episode details.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Marduk and Tiamat fight index topic
+  summary: The index names a fight involving Marduk and Tiamat, without describing
+    the fight.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Maat-associated assessment setting
+  taxonomy_refs:
+  - divine_judgment
+  basis: The index associates Maat with lords or assessors, a feather, and the Hall
+    of Maati.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is only an index; it does not narrate a judgment, weighing,
+    or assessment scene.
+- id: motif:2
+  label: Destruction of mankind
+  taxonomy_refs: []
+  basis: The index explicitly includes an entry for “Mankind, destruction of” and
+    identifies it as an Egyptian text topic.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No mechanism, agents, setting, renewal, or fire imagery is given in this
+    passage.
+- id: motif:3
+  label: Named fight between Marduk and Tiamat
+  taxonomy_refs: []
+  basis: The index explicitly includes the entry “Marduk and Tiamat, fight of.”
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The index gives no details about the combat and makes no explicit comparative
+    claim in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The index explicitly records an equation between “Maa” and “Hokhmah,” supporting
+    only a lexical or conceptual comparison at the index-entry level.
+  claim_level: linguistic_similarity
+  target: Hokhmah
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives no explanation of the basis for the equation and
+    does not provide a mythic episode or theological argument.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 27883-28061
+  quote_or_summary: Index pages 409-410 list headwords and volume/page references
+    from Maa-ab through Matet.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 27883-28061, Maat subentries
+  quote_or_summary: Entries include “Maat, boat of,” “Maat, featber of,” “Maat goddesses,”
+    “Maat, lords of ... assessors of,” and “Maat, the pedestal of.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 27883-28061, Maati subentries
+  quote_or_summary: "“Maati (city)” and “Maati, Hall of” are listed as index entries."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 27883-28061, Mankind entry
+  quote_or_summary: "“Mankind, destruction of, Egyptian text of.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 27883-28061, Marduk entry
+  quote_or_summary: "“Marduk and Tiamat, fight of.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 27883-28061, Maa entry
+  quote_or_summary: "“Maa = Hokhmah.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 27883-28061, Mary entry
+  quote_or_summary: "“Mary, the Virgin.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the source passage is an index
+    rather than a mythic narrative. Motif mapping is limited to explicit index labels
+    and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative episode is present in the passage; extracted motifs and symbols are based only on explicit index headwords and subentries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l27883-l28061
+  passage_sha256=41eccfa358c67904d1e7c52a1ff65e97906ee2907541e28938690759eddfd211
+

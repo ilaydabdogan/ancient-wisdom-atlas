@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l4318-l4354
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: FIG.  20. / FIG.  21. / CHAPTER  V. / THE  LORE  OF  THE  FOLK.; lines 4318-4354
+  start: '4318'
+  end: '4354'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives captions for two illustrated slippers, introduces a chapter
+    on folk lore and family-related customs, cautions that tales should not be over-interpreted
+    without other evidence, and begins a courtship discussion with tentative examples
+    of a marriage-fitness test, name-guessing, and a father confining his daughter
+    in a hut.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two figure captions describe slippers made of red leather with black visible
+    or black edging, one also having a green welt and a heel usually turned down.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chapter heading is “The Lore of the Folk” and the contents list includes
+    courtship, marriage, parentage, miraculous births, childbirth, death and burial,
+    and inheritance.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author states that deductions from stories should be made carefully and
+    confirmed from other sources.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The author identifies the family as the most important institution for the
+    discussion and proposes to begin with its formation and later relations among
+    members.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The courtship section says there seems to have been some former test of fitness
+    for marriage.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One possible courtship example is the guessing of a name, in which the successful
+    maiden gains influence over a youth by pronouncing it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Another story is introduced in which a father shut his daughter in a hut and
+    made a mound; the account is incomplete in the supplied passage.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: successful maiden
+  description: A maiden who successfully guesses or pronounces a name in a possible
+    marriage-fitness test.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: youth
+  description: A youth over whom the successful maiden gains influence by pronouncing
+    the name.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: father
+  description: A father in another story who shuts his daughter in a hut.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: daughter
+  description: A daughter who is shut in a hut by her father in the beginning of another
+    story.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: successful courtship-test participant
+  assigned_to:
+  - fig:1
+  basis: The passage says a successful maiden gains influence over the youth by pronouncing
+    the guessed name.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: youth influenced through name-pronunciation
+  assigned_to:
+  - fig:2
+  basis: The youth is the person over whom influence is gained when the name is pronounced.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: secluding father
+  assigned_to:
+  - fig:3
+  basis: The passage says a father shut his daughter in a hut.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: secluded daughter
+  assigned_to:
+  - fig:4
+  basis: The daughter is the one shut in a hut by her father.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: red leather slipper
+  literal_form: Slipper of red leather, with black showing or black edging; one has
+    a green welt and turned-down heel.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pronounced name
+  literal_form: A name guessed and pronounced by the successful maiden.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: hut
+  literal_form: A hut in which a father shuts his daughter.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: mound
+  literal_form: A mound made by the father after shutting his daughter in a hut, as
+    far as the supplied passage states.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: captioned slipper figures
+  summary: The passage describes two illustrated slippers with red leather, black
+    elements, and in one case a green welt and usually turned-down heel.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: name-guessing courtship test
+  summary: A possible former test of fitness for marriage is linked to a maiden guessing
+    and pronouncing a name, thereby gaining influence over a youth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: daughter shut in hut
+  summary: The beginning of another story says a father shut his daughter in a hut
+    and made a mound; the supplied passage breaks off before further action is given.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: courtship or marriage-fitness test
+  taxonomy_refs: []
+  basis: The passage explicitly suggests that courtship may once have involved a test
+    of fitness for marriage.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The author frames the inference tentatively with “seems” and “possibly.”
+- id: motif:2
+  label: power or influence through knowing and pronouncing a name
+  taxonomy_refs: []
+  basis: The passage says that a successful maiden gains influence over a youth by
+    pronouncing the guessed name.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The supplied passage does not provide the full tale numbered 43 or explain
+    the nature of the influence.
+- id: motif:3
+  label: daughter secluded by father
+  taxonomy_refs: []
+  basis: The passage begins to recount a story in which a father shuts his daughter
+    in a hut.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The narrative is incomplete in the supplied line range, so the function
+    of the seclusion cannot be determined.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4318-4324
+  quote_or_summary: 'Figure captions describe two red leather slippers: one with black
+    showing through, the other with black edging, a green welt, and a heel usually
+    turned down.'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4326-4341
+  quote_or_summary: The chapter is titled “The Lore of the Folk” and its topic list
+    includes courtship, marriage, parentage, miraculous births, childbirth, death
+    and burial, and inheritance.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized with short title quoted.
+- id: ev:3
+  type: summary
+  locator: lines 4342-4348
+  quote_or_summary: The author says that one must be careful not to see too much in
+    the stories alone and should confirm deductions from other sources.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4348-4351
+  quote_or_summary: The author says the family is the most important institution and
+    will be used as the starting point for discussing formation and later relations
+    among members.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4352-4354
+  quote_or_summary: The courtship section says there may once have been a test of
+    fitness for marriage; possibly this includes guessing a name, with a successful
+    maiden gaining influence over a youth by pronouncing it.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: line 4354
+  quote_or_summary: A referenced story begins with a father shutting his daughter
+    in a hut and making a mound; the passage ends before the story continues.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is an ethnographic introduction and only gives fragmentary
+    references to tales.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs were applied because the listed taxonomy symbols do not occur in the passage. No comparison claims were added because the passage does not itself support a comparison beyond internal references to numbered stories.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l4318-l4354
+  passage_sha256=d383d2db2fb493b73da5b9e60bb30818041e4e8802900f728dd67c12a9d9f4a7
+

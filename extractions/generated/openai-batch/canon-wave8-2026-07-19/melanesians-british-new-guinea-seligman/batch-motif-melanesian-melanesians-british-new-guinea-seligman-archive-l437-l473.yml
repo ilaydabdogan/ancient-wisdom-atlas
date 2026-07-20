@@ -1,0 +1,220 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l437-l473
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: CHAPTER XXIV / CHAPTER XXV / CHAPTER XXVI / CHAPTER XXVII; lines 437-473
+  start: '437'
+  end: '473'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A table-of-contents excerpt lists chapter subjects: childhood rites including
+    perineal bandage assumption, initiation, ceremonies, and tattooing of girls; funeral
+    and mourning ceremonies; sorcery and magic; spiritual beings, omens, and eschatology;
+    and clan-badges, groups, tables of group affiliation, clubhouses, and related
+    terms.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents-style list of chapter headings and subtopics rather
+    than a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:2
+  text: One chapter heading lists childhood topics including assumption of the perineal
+    bandage, Itaburi, the Ibitoe, initiation, Aruaru ceremonies, and tattooing of
+    girls.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A chapter heading is devoted to funeral and mourning ceremonies.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A chapter heading lists sorcery, magic, Kaivakuku, and minor magic.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A chapter heading lists spiritual beings, Oa Rove, omens, and eschatology.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A later heading lists Iauafangai, Kangakanga identified parenthetically as
+    clan-badges, and Ufu, followed by topics on Kangakanga, Ngopu groups, Pangua affiliation
+    tables, clubhouses, and Ngove.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: girls
+  description: Human group named in the subtopic 'tattooing of girls.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: spiritual beings
+  description: Supernatural entities listed as a topic in the Chapter XXV heading.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: tattooing recipients
+  assigned_to:
+  - fig:1
+  basis: The contents line names 'tattooing of girls.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: supernatural beings named as chapter topic
+  assigned_to:
+  - fig:2
+  basis: The Chapter XXV heading begins with spiritual beings as a subject.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: perineal bandage
+  literal_form: perineal bandage
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Kangakanga / clan-badges
+  literal_form: Kangakanga, glossed as clan-badges
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: initiation and childhood rite sequence
+  taxonomy_refs:
+  - initiation
+  basis: The contents line explicitly lists initiation among childhood topics and
+    adjacent ritual items.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt provides only headings and no details of the initiation procedure
+    or narrative context.
+- id: motif:2
+  label: funeral and mourning rites
+  taxonomy_refs: []
+  basis: A chapter heading explicitly names funeral and mourning ceremonies.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe the ceremonies or any associated mythic
+    beliefs.
+- id: motif:3
+  label: sorcery and magic practices
+  taxonomy_refs: []
+  basis: A chapter heading lists sorcery, magic, Kaivakuku, and minor magic.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the topic labels are present; no actions, agents, or ritual structure
+    are described.
+- id: motif:4
+  label: omens and eschatology
+  taxonomy_refs: []
+  basis: The Chapter XXV heading lists omens and eschatology along with spiritual
+    beings.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not specify omen types, afterlife geography, judgment,
+    or journey motifs.
+- id: motif:5
+  label: clan badge and group-affiliation markers
+  taxonomy_refs: []
+  basis: The heading identifies Kangakanga as clan-badges and mentions group affiliations
+    and clubhouses.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the appearance, use, or mythic origin of
+    the clan-badges.
+comparison_claims:
+- id: claim:1
+  claim: The explicit heading term 'Initiation' supports only a topic-level match
+    to the general initiation motif family.
+  claim_level: same_motif
+  target: motif_families:initiation
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt is a table-of-contents listing; it supplies no ritual sequence,
+    symbolism, initiand ordeal, or narrative pattern.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 437-443
+  quote_or_summary: Chapter XXI lists childhood, assumption of the perineal bandage,
+    Itaburi, the Ibitoe, initiation, Aruaru ceremonies, and tattooing of girls.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 447-449
+  quote_or_summary: Chapter XXIII is headed 'Funeral and Mourning Ceremonies.'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short heading cited.
+- id: ev:3
+  type: summary
+  locator: 451-453
+  quote_or_summary: Chapter XXIV lists sorcery, magic, Kaivakuku, and minor magic.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 455-457
+  quote_or_summary: Chapter XXV lists spiritual beings, Oa Rove, omens, and eschatology.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 459-473
+  quote_or_summary: The later heading names Iauafangai, Kangakanga glossed as clan-badges,
+    and Ufu, and lists Kangakanga, Ngopu groups, Pangua affiliation tables, clubhouses,
+    and Ngove.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The headings are clear, but the passage is a table-of-contents excerpt with
+    little descriptive or narrative content; motif extraction is therefore mostly
+    topic-level.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes were extracted because the passage contains headings and topic labels only.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l437-l473
+  passage_sha256=846fb895525183f890d67398f2102919cdd479add50f61fb4ee1fec6932e4a7a
+

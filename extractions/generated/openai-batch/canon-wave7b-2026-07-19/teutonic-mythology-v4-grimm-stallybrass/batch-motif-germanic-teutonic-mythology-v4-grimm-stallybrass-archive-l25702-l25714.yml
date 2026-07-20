@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l25702-l25714
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: I.    EXTRACTS  FROM  MODERN  COLLECTIONS. / SUPERSTITIONS.      I.  1779
+    / SUPERSTITIONS.      I.  1781 / SUPERSTITIONS.      I.  1783; lines 25702-25714
+  start: '25702'
+  end: '25714'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of brief superstitions gives rules and omens concerning sponsor
+    choice for a child, reversal of luck from youth to old age, wormwood carried against
+    bewitching, the luck-significance of a found needle's orientation, and eating
+    bread before anything else in the morning.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When choosing sponsors, the rule says to ask an unmarried woman; otherwise
+    the child will be unlucky in marriage and have no children.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person lucky when young is said to beg bread when old, and the reverse is
+    also said to apply.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A person who carries wormwood is said to be unable to be becried or bewitched.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Finding a needle with its point toward the finder is said to bring bad luck;
+    finding it with the head toward the finder is said to bring good luck.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The rule says to put nothing in the mouth in the morning until after taking
+    a bite of bread.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unmarried woman sponsor
+  description: An unmarried woman is named as the preferred person to ask when choosing
+    sponsors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: child
+  description: The child is the one whose later marriage luck and childbearing are
+    said to be affected by the sponsor choice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: person lucky when young
+  description: A person described as lucky in youth and as later begging bread in
+    old age, with the reverse also stated.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: carrier of wormwood
+  description: A person who carries wormwood and is said not to be becried or bewitched.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: finder of a needle
+  description: A person who finds a needle and reads luck or unluck from whether the
+    point or head is toward them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: morning bread eater
+  description: A person instructed to take a bite of bread before putting anything
+    else in the mouth in the morning.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: preferred sponsor
+  assigned_to:
+  - fig:1
+  basis: The passage instructs that an unmarried woman should be asked when choosing
+    sponsors.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of predicted marital and fertility outcome
+  assigned_to:
+  - fig:2
+  basis: The child is said to become unlucky in marriage and childless if the sponsor
+    rule is not followed.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: subject of reversed fortune
+  assigned_to:
+  - fig:3
+  basis: The passage states that youthful luck is followed by begging bread in old
+    age, and vice versa.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: protected bearer
+  assigned_to:
+  - fig:4
+  basis: The wormwood carrier is said to be immune to being becried or bewitched.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: omen reader by found object orientation
+  assigned_to:
+  - fig:5
+  basis: The finder’s luck depends on whether a found needle’s point or head is toward
+    them.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: observer of morning food rule
+  assigned_to:
+  - fig:6
+  basis: The passage instructs the addressee to take bread before anything else in
+    the morning.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: wormwood
+  literal_form: carried wormwood
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: needle orientation
+  literal_form: a found needle with its point or head toward the finder
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: bread
+  literal_form: bread begged in old age; a bite of bread taken first in the morning
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sponsor choice and child’s future
+  summary: A superstition prescribes asking an unmarried woman as sponsor and links
+    failure to do so with the child’s future marital misfortune and childlessness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reversal of fortune from youth to old age
+  summary: A proverb-like superstition states that luck in youth will be reversed
+    in old age, and vice versa.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wormwood against bewitching
+  summary: A person carrying wormwood is said to be protected from being becried or
+    bewitched.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Needle omen
+  summary: A found needle’s orientation toward the finder is treated as a sign of
+    luck or unluck.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Morning bread rule
+  summary: A morning rule instructs that a bite of bread should precede anything else
+    put into the mouth.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sponsor choice determines child’s marriage and fertility fortune
+  taxonomy_refs: []
+  basis: The passage links the choice of an unmarried woman as sponsor with avoiding
+    future marital unluck and childlessness for the child.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The entry is very brief and does not explain the ritual context beyond
+    sponsor choice.
+- id: motif:2
+  label: reversal of fortune across life stages
+  taxonomy_refs:
+  - wisdom
+  basis: The saying states that luck in youth will be followed by poverty in old age,
+    with the reverse also true.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy category 'wisdom' is broad; the passage is a superstition
+    or proverb rather than a developed mythic narrative.
+- id: motif:3
+  label: carried plant as protection against bewitching
+  taxonomy_refs: []
+  basis: Wormwood carried on the person is said to prevent being becried or bewitched.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No historical or cross-cultural comparison is stated in the passage.
+- id: motif:4
+  label: found object orientation as luck omen
+  taxonomy_refs: []
+  basis: The luck value of finding a needle depends on whether the point or the head
+    faces the finder.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage provides the omen rule but no wider explanation.
+- id: motif:5
+  label: bread first in the morning
+  taxonomy_refs: []
+  basis: The entry instructs taking a bite of bread before putting anything else in
+    the mouth in the morning.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage gives the rule but does not state its intended effect.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 25702-25703
+  quote_or_summary: "“In choosing sponsors, ask an unmarried woman, else the child
+    will be unlucky in marriage, and also have no children.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short excerpt from provided passage.
+- id: ev:2
+  type: quote
+  locator: 25705-25706
+  quote_or_summary: "“He that is lucky when young will beg his bread when old; and
+    vice versa.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short excerpt from provided passage.
+- id: ev:3
+  type: quote
+  locator: '25708'
+  quote_or_summary: "“He that carries wormwood about him cannot be becried (bewitched).”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short excerpt from provided passage.
+- id: ev:4
+  type: summary
+  locator: 25710-25711
+  quote_or_summary: If a found needle points toward the finder it is unlucky; if the
+    head is toward the finder it is lucky.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:5
+  type: quote
+  locator: 25713-25714
+  quote_or_summary: "“Put nothing in your mouth of a morning, till you've had a bite
+    of bread.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short excerpt from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short list of discrete superstition entries.
+    Motif labels are descriptive and do not imply historical contact or broader distribution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare these superstitions with other traditions or motif families beyond the descriptive entries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l25702-l25714
+  passage_sha256=9a2f784589d54dc97d01740a52a95a3bca58427c0d092a373dd15f7467e66ba8
+

@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l4057-l4072
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: XIV.--RIGHT ALWAYS REMAINS RIGHT. / XV.--LITTLE RED HOOD. / XVI.--CUDGEL,
+    BESTIR YOURSELF! / XVII.--PRINCE UNEXPECTED.; lines 4057-4072
+  start: '4057'
+  end: '4072'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Editorial note comparing the preceding story with Ralston''s tale of “The
+    Water King, and Vasilissa the Wise,” then proposing a seasonal interpretation
+    of “Prince Unexpected”: Kostchey''s twelve daughters as months, the youngest as
+    the winter-to-spring transition, Prince Unexpected as the sun escaping winter
+    captivity, and Vasilissa the Wise as the first month of the new year.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the preceding story should be compared with “The Water
+    King, and Vasilissa the Wise” and with additional tales cited by Ralston.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says it is tempting to view Kostchey's twelve daughters as representing
+    the twelve months.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the year anciently began with spring and connects
+    Kostchey's youngest daughter with the transition from winter to spring.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage explains Prince Unexpected's temporary forgetfulness as a temporary
+    cessation of warm weather and return of a secondary winter in early spring.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Prince Unexpected may perhaps represent the sun, held captive
+    by winter and escaping with the last month of the year.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that Vasilissa the Wise is the eldest daughter of the Water
+    King and would represent the first month of the new year.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kostchey
+  description: Named in relation to Kostchey's twelve daughters.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Kostchey's twelve daughters
+  description: A collective group proposed by the note to represent the twelve months.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Kostchey's youngest daughter
+  description: The youngest daughter is proposed to correspond to the month forming
+    the transition from winter to spring.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Prince Unexpected
+  description: Figure whose temporary forgetfulness interrupts progress; the note
+    proposes that he may represent the sun, captive in winter and escaped with the
+    last month of the year.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Vasilissa the Wise
+  description: Named in the compared tale; described as the eldest daughter of the
+    Water King and proposed to represent the first month of the new year.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:6
+  name_or_label: Water King
+  description: Named in the compared tale and identified as the father of Vasilissa
+    the Wise.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: figure in explicitly compared tale
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The note says the preceding story should be compared with “The Water King,
+    and Vasilissa the Wise.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: proposed twelve-month collective
+  assigned_to:
+  - fig:2
+  basis: The note proposes that Kostchey's twelve daughters represent the twelve months.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: proposed winter-to-spring transition month
+  assigned_to:
+  - fig:3
+  basis: The note identifies the youngest daughter with the month forming the transition
+    from winter to spring.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: proposed solar figure escaping winter captivity
+  assigned_to:
+  - fig:4
+  basis: The note says Prince Unexpected may perhaps be the sun, captive by winter
+    and escaping with the last month of the year.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: eldest daughter and proposed first month of new year
+  assigned_to:
+  - fig:5
+  basis: The note states that Vasilissa the Wise is the eldest daughter of the Water
+    King and would represent the first month of the new year.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: father of Vasilissa the Wise
+  assigned_to:
+  - fig:6
+  basis: Vasilissa the Wise is described as the eldest daughter of the Water King.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: associated father or possessor of twelve daughters
+  assigned_to:
+  - fig:1
+  basis: The passage refers to “Kostchey's twelve daughters.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: twelve months
+  literal_form: Kostchey's twelve daughters interpreted as the twelve months
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: winter-to-spring transition
+  literal_form: Kostchey's youngest daughter as the month forming the transition from
+    winter to spring
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sun
+  literal_form: Prince Unexpected as the sun held in captivity by winter and then
+    escaped
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: secondary winter
+  literal_form: temporary cessation of warm weather and return of a kind of secondary
+    winter in early spring
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: water
+  literal_form: the Water King in the compared tale title and as Vasilissa's father
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: seasonal cycle encoded as tale figures
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The note maps Kostchey's twelve daughters to the twelve months, the youngest
+    daughter to the winter-to-spring transition, Prince Unexpected to the sun escaping
+    winter, and Vasilissa to the first month of the new year.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage itself frames the interpretation as tempting and tentative
+    rather than established.
+- id: motif:2
+  label: solar escape from winter captivity
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The note proposes that Prince Unexpected may represent the sun, previously
+    held captive by winter and escaping with the last month of the year.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: 'The wording is explicitly speculative: “may, perhaps.”'
+- id: motif:3
+  label: comparison with Water King and Vasilissa tale complex
+  taxonomy_refs: []
+  basis: The passage explicitly directs comparison between the preceding story and
+    “The Water King, and Vasilissa the Wise,” adding that many other comparable tales
+    are listed by Ralston.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not give details of the compared tales, so the specific
+    shared elements are not extractable from this passage alone.
+comparison_claims:
+- id: claim:1
+  claim: The preceding story is explicitly presented as comparable with “The Water
+    King, and Vasilissa the Wise” and other tales listed by Ralston.
+  claim_level: same_motif
+  target: "“The Water King, and Vasilissa the Wise” and other tales cited in Ralston's
+    Russian Folk-tales, pp. 132-133"
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note gives a comparison directive but does not summarize the compared
+    tale episodes or specify the exact motif correspondences.
+- id: claim:2
+  claim: The note offers a seasonal-cycle reading in which daughters, months, winter,
+    spring, and the sun form an interpretive pattern for “Prince Unexpected.”
+  claim_level: archetypal_reading
+  target: seasonal_cycle
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The interpretation is presented with cautious language and should not
+    be treated as a confirmed meaning without further review.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4057-4060
+  quote_or_summary: "“With the above story should be compared that of 'The Water King,
+    and Vasilissa the Wise' ... A large number of tales ... may also be compared with
+    it ...”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; excerpt used for passage-level evidence.
+- id: ev:2
+  type: summary
+  locator: 4060-4065
+  quote_or_summary: The note says it is tempting to interpret Kostchey's twelve daughters
+    as the twelve months; because the year anciently began with spring, the youngest
+    daughter would mark the winter-to-spring transition.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized for concise evidence.
+- id: ev:3
+  type: summary
+  locator: 4065-4068
+  quote_or_summary: Prince Unexpected's temporary forgetfulness is interpreted as
+    a temporary halt in warm weather and a secondary winter in early spring.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized for concise evidence.
+- id: ev:4
+  type: quote
+  locator: 4068-4071
+  quote_or_summary: "“Prince Unexpected himself may, perhaps, be considered as representing
+    the sun,” held captive by winter and escaped with the last month of the year."
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; excerpt used for passage-level evidence.
+- id: ev:5
+  type: summary
+  locator: 4071-4072
+  quote_or_summary: Vasilissa the Wise is described as the eldest daughter of the
+    Water King and as representing the first month of the new year.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized for concise evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is commentary rather than narrative. Named figures and explicit
+    interpretations are clear, but the seasonal readings are marked in the source
+    as speculative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No independent comparisons or tale details were added beyond the supplied passage. The line range contains interpretive commentary on “Prince Unexpected,” not the story episode itself.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l4057-l4072
+  passage_sha256=79e9836476b24993e997cecb50906f42b9a664c93a25157459eb280f4f211168
+

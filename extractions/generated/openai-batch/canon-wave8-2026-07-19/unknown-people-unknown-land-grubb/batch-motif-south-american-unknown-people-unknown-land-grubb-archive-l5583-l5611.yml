@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l5583-l5611
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: DREAMS / DREAMS / DREAMS / DREAMS; lines 5583-5611
+  start: '5583'
+  end: '5611'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“the kilyikhama are supposed to hover over the sleeping form”"
+  summary: The passage describes a belief that a sleeper’s soul may issue from the
+    chest and be seized by kilyikhama, who wait over the sleeping body. The narrator
+    also comments on uncertainty about how a witch-doctor is notified and frames the
+    belief as a source of supernatural dread relieved by missionary influence.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator says he has not been able to ascertain how notice of the relevant
+    condition is given to the witch-doctor.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator describes as contradictory the idea of a vigorous man sitting
+    up, uncertain whether he is himself, and asserting that his soul is at a distance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The soul is said occasionally to emerge from the chest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A kilyikhama may seize the soul as soon as it emerges.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Kilyikhama are supposed to hover over the sleeping form and wait for the soul
+    to issue from the sleeper’s chest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The soul is described as going forth seeking adventures.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator states that such dreams are, in his view, influenced by deeply
+    held superstitious belief.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator characterizes the described religious views as connected with
+    constant supernatural dread and says the Mission brings relief from it.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: soul of the sleeper
+  description: The soul may be at a distance from the person, emerge from the chest,
+    and go forth seeking adventures.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: sleeper or person whose soul is distant
+  description: A person whose soul is described as distant or as issuing from the
+    chest during sleep.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: kilyikhama
+  description: Beings said to hover over the sleeping form, wait for the soul to issue
+    from the chest, and sometimes seize it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: witch-doctor
+  description: A ritual specialist mentioned as the person to whom notice of the condition
+    is somehow given, though the narrator says the process is unclear.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: departing dream-soul
+  assigned_to:
+  - fig:1
+  basis: The soul emerges from the chest, is at a distance, and goes forth seeking
+    adventures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: vulnerable sleeper or person separated from soul
+  assigned_to:
+  - fig:2
+  basis: The sleeping form is watched by kilyikhama while the soul issues from the
+    chest; another described person asserts the soul is distant.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: soul-seizing watcher
+  assigned_to:
+  - fig:3
+  basis: Kilyikhama hover over the sleeping form, wait for the soul, and may seize
+    it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: notified ritual specialist
+  assigned_to:
+  - fig:4
+  basis: The witch-doctor is mentioned as receiving notice, though the means is not
+    explained in the passage.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: chest as soul-exit point
+  literal_form: chest of the sleeper
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: soul at a distance
+  literal_form: soul separated from the person’s bodily presence
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hovering over the sleeper
+  literal_form: kilyikhama hovering over the sleeping form
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dream-soul adventure
+  literal_form: soul going forth seeking adventures
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: distant soul and uncertain notice to witch-doctor
+  summary: The narrator reports a puzzling belief in which a person may say his soul
+    is at a distance, while the way notice is given to the witch-doctor remains unclear
+    to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: kilyikhama wait for the emerging soul
+  summary: The soul emerges from the sleeper’s chest and goes forth; kilyikhama hover
+    over the sleeping body, wait for the soul, and may seize it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: narrator’s interpretation of dread and relief
+  summary: The narrator interprets the dreams as shaped by strong imagination and
+    superstition, and describes missionary instruction as relieving constant supernatural
+    dread.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dream-soul departure from the body
+  taxonomy_refs:
+  - departure
+  basis: The soul is described as emerging from the chest, being at a distance from
+    the person, and going forth seeking adventures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage describes dream-belief rather
+    than a full narrative of heroic departure.
+- id: motif:2
+  label: hostile seizure of the vulnerable soul during sleep
+  taxonomy_refs: []
+  basis: Kilyikhama are said to hover over the sleeping form and seize the soul when
+    it issues from the chest.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives no further explanation of the kilyikhama, the consequences
+    of seizure, or ritual remedies.
+- id: motif:3
+  label: body as threshold for soul movement
+  taxonomy_refs: []
+  basis: The chest is repeatedly identified as the place from which the soul emerges
+    or issues during sleep.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The narrator explicitly says he cannot explain why the chest is the relevant
+    location.
+- id: motif:4
+  label: supernatural dread linked to dream beliefs
+  taxonomy_refs: []
+  basis: The narrator states that the beliefs contribute to a life of constant supernatural
+    dread and frames missionary teaching as relief from that dread.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is the narrator’s evaluative and missionary framing, not necessarily
+    an emic interpretation preserved in direct speech.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5583-5591
+  quote_or_summary: The narrator cannot ascertain how notice is given to the witch-doctor
+    and calls it contradictory that a vigorous man might say his soul is at a distance.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: public_domain
+- id: ev:2
+  type: quote
+  locator: 5592-5596
+  quote_or_summary: "“no sooner does the soul emerge from the chest ... than it is
+    at once seized upon by a kilyikhama”"
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: 5596-5601
+  quote_or_summary: The narrator saw an Indian imitate kilyikhama hovering over the
+    sleeping form, waiting for the soul to issue from the sleeper’s chest as it goes
+    forth seeking adventures.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: 5601-5602
+  quote_or_summary: The narrator interprets such dreams as resulting from strong imagination
+    influenced by deeply rooted superstitious belief.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: 5603-5611
+  quote_or_summary: The narrator says the described beliefs show that Indian life
+    is not free from burden, that the views are unsuitable, and that the Mission brings
+    relief from constant supernatural dread.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: public_domain
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main dream-soul and kilyikhama pattern is explicit, but the excerpt begins
+    mid-discussion and leaves the witch-doctor notice, the identity of kilyikhama,
+    and the consequences of soul seizure unexplained. No cross-tradition comparison
+    is made because the passage itself does not provide one.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy item exactly matches the chest, sleeping body, dream-soul, or kilyikhama in this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l5583-l5611
+  passage_sha256=2318b8340c78149e4f7b313d2bb2dece186c45c71d7624bb2c78415314bc090b
+

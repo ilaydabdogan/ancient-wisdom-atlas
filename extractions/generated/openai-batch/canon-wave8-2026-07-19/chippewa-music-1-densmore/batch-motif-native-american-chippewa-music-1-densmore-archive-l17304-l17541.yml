@@ -1,0 +1,594 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l17304-l17541
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: RHYTHM  OF   FIRST  MEASURE / CHANGE    OF   TIME / BUREAU   OF   AMEEICAN  ETHNOLOGY
+    / COMPARISON   OF   METRIC   UNIT   OF  VOICE   AND   DRUM; lines 17304-17541
+  start: '17304'
+  end: '17541'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: Brother, come here with us.
+  summary: The passage gives rhythmic tables, then describes dream songs. One man
+    fasts ten days with his face painted in charcoal, dreams of manido' in clouds
+    rising in the south, goes up into the clouds, sees thunderbirds, and learns their
+    song. Another man fasting for a dream hears voices beyond a hill, sees deer in
+    a circle preparing a seasonal dance after the leaves have fallen, hears a young
+    buck sing, learns the song, and later sings it while hunting deer. The passage
+    also includes musical analyses of the thunderbird and deer songs.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man painted his face with charcoal and fasted for ten days before dreaming.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the dream, clouds rose in the south and manido' in the clouds addressed
+    the man as brother and called him to join them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man went up into the clouds, saw thunderbirds, and was taught the song
+    they were singing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The thunderbird song is described as vigorous and clear in rhythm and tonality,
+    with four phrases of five measures each.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Another man, while fasting and seeking a dream, heard voices that seemed to
+    come from beyond a hill.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After stealthily climbing the hill, the man saw a herd of deer standing in
+    a circle.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: One deer said they would dance and that they always had a dance in that season,
+    when leaves had fallen from the trees.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The deer selected a little buck with pointed horns rising somewhat higher
+    than his ears to sing.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The man learned the deer song in the dream, afterward used it as his dream
+    song, and sang it when hunting deer.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Before singing the deer songs, the singer imitated the noise made by deer.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: fasting man who dreams of thunderbirds
+  description: A man who painted his face with charcoal, fasted ten days, dreamed
+    of clouds and manido', went into the clouds, and learned a thunderbird song.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: manido' in the clouds
+  description: Beings in the clouds who spoke to the fasting man and invited him to
+    come with them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: thunderbirds
+  description: Beings seen in the clouds who taught the man the song they were singing.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: fasting man who dreams of deer
+  description: A man who was fasting and seeking a dream, heard voices beyond a hill,
+    saw deer dancing, learned their song, and later sang it while hunting deer.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:5
+  name_or_label: herd of deer
+  description: A herd of deer standing in a circle and preparing for a seasonal dance.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: little buck
+  description: A young buck with pointed horns rising somewhat higher than his ears,
+    selected by the deer to sing.
+  role_refs:
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: singer Eniwub'e
+  description: Named singer associated with the transcribed thunderbird and deer songs.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:11
+  - ev:12
+roles:
+- id: role:1
+  label: faster
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Both men are described as fasting before or during dream seeking.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: dream recipient
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Each man receives a song through a dream or dream-seeking experience.
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: role:3
+  label: cloud speaker
+  assigned_to:
+  - fig:2
+  basis: The manido' in the clouds speak to the fasting man and invite him upward.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: song teacher
+  assigned_to:
+  - fig:3
+  basis: The thunderbirds teach the man the song they are singing.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: singer within dream
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The thunderbirds are singing the song they teach; the little buck sings the
+    deer song.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:6
+  label: hunter using dream song
+  assigned_to:
+  - fig:4
+  basis: The man later sings the deer song when he hunts deer.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: seasonal dancers
+  assigned_to:
+  - fig:5
+  basis: The deer say they will dance and always dance at the season when leaves have
+    fallen.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: chosen song leader
+  assigned_to:
+  - fig:6
+  basis: All the deer point to the little buck as the one who should sing.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: performer of transcribed songs
+  assigned_to:
+  - fig:7
+  basis: The passage identifies Eniwub'e as the singer of the thunderbird song and
+    deer songs.
+  evidence_refs:
+  - ev:11
+  - ev:12
+symbols:
+- id: sym:1
+  label: charcoal-painted face
+  literal_form: face painted with charcoal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ten-day fast
+  literal_form: fast of ten days
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: clouds rising in the south
+  literal_form: clouds rising in the south
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: ascent into clouds
+  literal_form: going up into the clouds
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: thunderbirds
+  literal_form: thunderbirds in the clouds
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: hill beyond which voices are heard
+  literal_form: hill climbed by the dream-seeking man
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: deer circle
+  literal_form: herd of deer standing in a circle
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: fallen leaves from trees
+  literal_form: leaves fallen from the trees
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  - seasonal_cycle
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: little buck's pointed horns
+  literal_form: pointed horns rising somewhat higher than the ears
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:10
+  label: dream song
+  literal_form: song learned in dream and later sung
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:9
+scenes:
+- id: scene:1
+  label: preparation for thunderbird dream
+  summary: A man paints his face with charcoal and fasts for ten days before the dream
+    experience.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: summons from clouds
+  summary: The man dreams of clouds rising in the south and manido' in the clouds
+    calling him to come with them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: ascent and thunderbird song instruction
+  summary: The man goes up into the clouds, sees thunderbirds, and learns the song
+    they are singing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:10
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: dream-seeker hears voices beyond a hill
+  summary: Another man fasts while seeking a dream and hears voices that seem to come
+    from beyond a hill.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: deer circle and seasonal dance
+  summary: The man climbs the hill and sees deer in a circle; a deer says they will
+    dance in the season when leaves have fallen from the trees.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: little buck sings and song is learned
+  summary: The deer choose a little buck to sing; the man learns the song, it becomes
+    his dream song, and he later sings it when hunting deer.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: fasting dream quest for song
+  taxonomy_refs:
+  - initiation
+  basis: Songs are obtained after fasting or while fasting and seeking a dream; the
+    experiences transmit songs from nonhuman or powerful beings to human recipients.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:9
+  confidence: medium
+  cautions: The passage describes song acquisition through fasting and dreams but
+    does not explicitly label the process as initiation.
+- id: motif:2
+  label: ascent to cloud beings
+  taxonomy_refs:
+  - ascent
+  basis: The fasting man is called by beings in the clouds and goes up into the clouds,
+    where thunderbirds teach him a song.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not elaborate a full otherworld journey beyond the ascent
+    into clouds.
+- id: motif:3
+  label: nonhuman beings teach a song to a human
+  taxonomy_refs:
+  - wisdom
+  basis: Thunderbirds teach a song to the dreaming man, and a little buck's song is
+    learned by the dream-seeking man and becomes his dream song.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The taxonomy reference to wisdom is broad; the passage is specifically
+    about musical transmission.
+- id: motif:4
+  label: animal assembly with dance and song
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The deer stand in a circle, announce a dance held when leaves have fallen,
+    choose a little buck to sing, and perform the song heard by the human dreamer.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The seasonal-cycle reference is based on the explicit seasonal marker
+    of fallen leaves.
+- id: motif:5
+  label: dream song used in hunting
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The man learns a deer song from a dream of deer, and later sings it when
+    hunting deer.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage states later use in hunting but does not explain the mechanism
+    or meaning of the use; sacred exchange is a broad and tentative taxonomy fit.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself groups the thunderbird song with other songs described
+    as the musical expression of animals.
+  claim_level: same_function
+  target: Other songs supposed to be the musical expression of animals, including
+    Nos. 34, 41, 58, 68, 88, 119, 197, and Nos. 95-99, 114, 115
+  evidence_refs:
+  - ev:13
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies a catalog grouping, not a detailed narrative comparison
+    among the songs.
+- id: claim:2
+  claim: The two dream-song accounts share a pattern in which fasting or dream-seeking
+    leads to hearing or learning a song from nonhuman beings.
+  claim_level: same_motif
+  target: Thunderbird dream song and deer dream song accounts within this passage
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: 'The beings, settings, and subsequent uses differ: the thunderbird
+    account involves ascent into clouds, while the deer account involves observing
+    an animal dance and later hunting use.'
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17304-17541, Dream Songs, thunderbird account
+  quote_or_summary: A man painted his face with charcoal and endured a fast of ten
+    days before the dream.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 17304-17541, Dream Songs, thunderbird account
+  quote_or_summary: He dreamed of clouds rising in the south; manido' in the clouds
+    said, "Brother, come here with us."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 17304-17541, Dream Songs, thunderbird account
+  quote_or_summary: The man went up into the clouds, saw the thunderbirds, and they
+    taught him the song they were singing.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 17304-17541, Analysis of No. 94
+  quote_or_summary: The thunderbird song is analyzed as vigorous and clear in rhythm
+    and tonality, with four phrases of five measures each and a repeated rhythmic
+    unit.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 17304-17541, deer dream account before No. 95
+  quote_or_summary: A man fasting and seeking a dream heard voices that seemed to
+    come from beyond a hill.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 17304-17541, deer dream account before No. 95
+  quote_or_summary: The man stealthily climbed the hill and saw a herd of deer standing
+    in a circle.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 17304-17541, deer dream account before No. 95
+  quote_or_summary: One deer says they will dance and that they always dance at this
+    season, "when the leaves have fallen from the trees."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 17304-17541, deer dream account before No. 95
+  quote_or_summary: All the deer pointed to a little buck with pointed horns above
+    his ears and said he should sing; he then sang the song.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 17304-17541, deer dream account before No. 95
+  quote_or_summary: The man learned the deer song, it became his dream song, and he
+    sang it when hunting deer.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:10
+  type: quote
+  locator: lines 17304-17541, deer dream account before No. 95
+  quote_or_summary: Before singing the deer songs the singer "imitated the noise made
+    by the deer."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:11
+  type: citation
+  locator: lines 17304-17541, No. 94 heading
+  quote_or_summary: No. 94 is titled Song of the Thunderbirds and is marked as sung
+    by Eniwub'e.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; citation/summary generated from supplied passage.
+- id: ev:12
+  type: citation
+  locator: lines 17304-17541, No. 95 and No. 96 headings
+  quote_or_summary: The deer songs No. 95 and No. 96 are marked as sung by Eniwub'e.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; citation/summary generated from supplied passage.
+- id: ev:13
+  type: summary
+  locator: lines 17304-17541, paragraph after Analysis of No. 94
+  quote_or_summary: The text states that other songs are supposed to be the musical
+    expression of animals and lists related song numbers in Bulletin 45 and the present
+    work.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative events and figures are explicit in the passage. Taxonomy assignments
+    are cautious because the source is an ethnomusicological description rather than
+    a formal mythological taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Musical notation and detailed metric tables were not treated as mythic scenes except where tied to dream-song narratives and song transmission.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l17304-l17541
+  passage_sha256=b56108929cb27e30b784b6a00b39b65010443536e3f8b19324015aa4a7047158
+

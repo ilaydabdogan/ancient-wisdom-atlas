@@ -1,0 +1,175 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l43527-l43534
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CXCI / SECTION CXCII / SECTION CXCIII / SECTION CXCIV; lines 43527-43534
+  start: '43527'
+  end: '43534'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Those that are conversant with both ... deserve to be called truly wise.
+  summary: The passage states that evil passions lead a person in the next life into
+    inferior orders, contrasts people who grieve over lost possessions with those
+    of judgment who do not grieve in similar circumstances, and calls those conversant
+    with gradual and immediate Emancipation truly wise.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Vices are said to hurl a person in the next life into diverse inferior orders.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The vicious in this world are described as grieving greatly over the loss
+    of possessions, with sons and wives given as examples.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Those gifted with judgment are described as never grieving when thrown into
+    similar circumstances.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Those conversant with both gradual Emancipation and immediate Emancipation
+    are said to deserve the name truly wise.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: vicious person
+  description: A person associated with envy and other evil passions, grief over lost
+    possessions, and inferior next-life orders.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: person gifted with judgment
+  description: A person who does not grieve in circumstances of loss and is associated
+    with knowledge of gradual and immediate Emancipation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: subject to inferior rebirth through vices
+  assigned_to:
+  - fig:1
+  basis: The passage says vices hurl the person in the next life into inferior orders
+    and describes the vicious as grieving over loss.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: truly wise non-griever
+  assigned_to:
+  - fig:2
+  basis: The passage describes those gifted with judgment as not grieving and those
+    conversant with both forms of Emancipation as truly wise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Vices and next-life consequence
+  summary: Evil passions are presented as causing a person to enter inferior orders
+    in a future life.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contrast between grief and wisdom
+  summary: The passage contrasts the vicious, who grieve over loss, with those gifted
+    with judgment, who do not grieve, and identifies the latter kind of knowledge
+    with true wisdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: vices causing inferior next birth
+  taxonomy_refs: []
+  basis: The passage explicitly links evil passions with a person being hurled in
+    the next life into inferior orders.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states a next-life consequence but does not elaborate a full
+    rebirth cycle or afterlife geography.
+- id: motif:2
+  label: wisdom as non-grief and knowledge of emancipation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts grief with judgment and says those conversant with
+    gradual and immediate Emancipation deserve to be called truly wise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is didactic and abstract rather than a narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 43527-43528
+  quote_or_summary: "“Those vices hurl the person in his next life into diverse kinds
+    of inferior orders.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 43528-43531
+  quote_or_summary: The passage tells the listener to observe the vicious, who grieve
+    greatly over the loss of possessions such as sons and wives.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 43531-43533
+  quote_or_summary: The passage also points to those gifted with judgment, who do
+    not grieve when placed in similar circumstances of loss.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 43533-43534
+  quote_or_summary: "“Those that are conversant with both ... deserve to be called
+    truly wise.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and doctrinal, with clear evidence for wisdom and moral
+    consequence motifs but limited narrative detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the provided taxonomy are explicitly present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l43527-l43534
+  passage_sha256=552a1b80ab8b7f459fcf806dd02ea0bbe5e7df79626848b6b57e02954ff87daa
+

@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l13030-l13064
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: GOVERNMENT / H''  '- / THE   BAGANDA / CHAP.; lines 13030-13064
+  start: '13030'
+  end: '13064'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Baganda chiefly residences, cleared spaces before
+    entrances, District-Chiefs and sub-chiefs, judicial and administrative duties,
+    road and bridge labor, royal and council appointment of sub-chiefs, and road maintenance
+    across swampy terrain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A road is described as nearly one hundred miles long.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A chief's country-seat is described as more like a small town than a village,
+    with the chief living in great state and having a large enclosure that often contained
+    hundreds of women and slaves.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A wide space before the chief's main entrance was cleared; its size varied
+    according to rank and could be about two hundred yards square.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The District-Chief is described as the principal magistrate in the provinces,
+    assisted by sub-chiefs in trying cases.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sub-chiefs managed their own portions of land and ordered their men to work
+    on roads, bridge swamps, or build for them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Sub-chiefs had to consult the District-Chief about State matters and State
+    work.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sub-chiefs were appointed by the King and the Council, and could not be deposed
+    except with the King's consent.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Each sub-chief had to keep in repair the road between the District-Chief's
+    residence and his own residence, enabling easier travel through the country.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Rivers with papyrus and grass growth often formed large swamps.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage includes a figure caption referring to making a bridge and road
+    in a swamp.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: chief
+  description: A high-ranking local ruler with a country-seat, large enclosure, and
+    cleared space before the main entrance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: District-Chief
+  description: The principal magistrate in a province; consulted by sub-chiefs on
+    State matters and State work.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: sub-chiefs
+  description: Officials who managed portions of land, assisted in trying cases, ordered
+    local work, consulted the District-Chief on State matters, were appointed by the
+    King and Council, and maintained roads.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: King
+  description: Authority who appointed sub-chiefs with the Council and whose consent
+    was required for their deposition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Council (Lukiko)
+  description: Council named as joining the King in appointing sub-chiefs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: men under sub-chiefs
+  description: Men ordered by sub-chiefs to work on roads, bridge swamps, or build.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: women and slaves in the chief's enclosure
+  description: A collective group described as often numbering in the hundreds within
+    a chief's large enclosure.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: country-seat ruler
+  assigned_to:
+  - fig:1
+  basis: The chief is described as supreme at his country-seat, living in great state
+    and possessing a large enclosure.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: principal provincial magistrate
+  assigned_to:
+  - fig:2
+  basis: The District-Chief is explicitly called the principal magistrate and is consulted
+    on State matters.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: subordinate local administrator
+  assigned_to:
+  - fig:3
+  basis: Sub-chiefs assisted in trials, managed their own land, organized work, consulted
+    the District-Chief on State matters, and maintained roads.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:4
+  label: appointing authority
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage states that sub-chiefs were appointed by the King and Council,
+    and that deposition required the King's consent.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: public-works laborers
+  assigned_to:
+  - fig:6
+  basis: The men are described as being ordered to work on roads, bridge swamps, or
+    build.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: enclosure population
+  assigned_to:
+  - fig:7
+  basis: The passage says the chief's large enclosure often contained hundreds of
+    women and slaves.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: road network
+  literal_form: Roads, including a road nearly one hundred miles long and roads between
+    District-Chief and sub-chief residences.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: chief's country-seat and enclosure
+  literal_form: A chiefly residence described as like a small town, with a large enclosure.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cleared entrance space
+  literal_form: A wide, weed-free and grass-free space before the chief's main entrance,
+    varying by rank.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bridge in swamp
+  literal_form: A bridge and road made in a swamp, and swamps bridged by men under
+    sub-chiefs.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: river-swamp terrain
+  literal_form: Rivers whose papyrus and grass growth formed large swamps.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Chief's country-seat and forecourt
+  summary: A chief resides in a large country-seat with a substantial enclosure and
+    a cleared space before the main entrance whose size corresponds to rank.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Provincial judicial hierarchy
+  summary: The District-Chief serves as principal magistrate, while sub-chiefs assist
+    with cases in their districts.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sub-chief management and public works
+  summary: Sub-chiefs manage their own lands, direct men to build, work roads, and
+    bridge swamps, while consulting the District-Chief about State matters.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Appointment and removal of sub-chiefs
+  summary: Sub-chiefs receive office through appointment by the King and Council and
+    cannot be deposed without the King's consent.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Road maintenance across swampy country
+  summary: Each sub-chief maintains the road from the District-Chief's residence to
+    his own, helping make travel through the country easier despite swamp-forming
+    rivers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Royal authorization of subordinate office
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Sub-chiefs are said to be appointed by the King and Council, and removable
+    only with the King's consent.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is an ethnographic account of administration, not a mythic
+    narrative; the taxonomy reference is limited to the governance pattern of royal
+    authorization.
+- id: motif:2
+  label: Delegated road and bridge labor
+  taxonomy_refs: []
+  basis: Sub-chiefs direct men to work on roads and bridge swamps, and must maintain
+    roads connecting their residences to the District-Chief's residence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a social and administrative pattern rather than a mythological
+    motif.
+- id: motif:3
+  label: Rank displayed through ordered space
+  taxonomy_refs: []
+  basis: The cleared space before a chief's entrance varies according to rank and
+    is kept free of weeds or grass.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states a relation to rank but does not explain a symbolic
+    or ritual meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13030-13035
+  quote_or_summary: A road is nearly one hundred miles long; a chief's country-seat
+    resembles a small town, where he is supreme, lives in great state, and has a large
+    enclosure often containing hundreds of women and slaves.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 13036-13042
+  quote_or_summary: A cleared space before the main entrance varies by rank and may
+    be about two hundred yards square; the District-Chief is principal magistrate
+    in the provinces and has sub-chiefs to assist in trying cases.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: figure caption near 13043
+  quote_or_summary: FIG. 36.—MAKING A BRIDGE AND ROAD IN A SWAMP.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 13045-13051
+  quote_or_summary: Sub-chiefs manage their own land, order men to work on roads,
+    bridge swamps, or build, and consult the District-Chief about State matters and
+    State work.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 13051-13056
+  quote_or_summary: Sub-chiefs are appointed by the King and Council (Lukiko) and
+    cannot be deposed except with the King's consent.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 13056-13064
+  quote_or_summary: Each sub-chief keeps in repair the road from the District-Chief's
+    residence to his own, making travel easier; rivers with papyrus and grass often
+    form large swamps.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Administrative details are explicit in the passage. Motif candidates are
+    treated as governance patterns, with caution because the passage is not mythic
+    narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or comparisons were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l13030-l13064
+  passage_sha256=41b5397cd0c91ca6712381c4522ce7ccba4ab82bff0e69758c5970e61b49740d
+

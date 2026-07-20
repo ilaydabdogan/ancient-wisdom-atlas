@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l22174-l22200
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: LXXV. / NOTES   ON   THE   TALES  503 / LXXVI. / LXXVI  I.; lines 22174-22200
+  start: '22174'
+  end: '22200'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A set of editorial notes describes articles becoming common in Hausaland
+    and used in trousseaux, plates set into mud walls, Hausa song rhythm and lengthened
+    syllables, termite covered passages and stings, uncertainty about a narrator’s
+    use of “build” versus “alight,” and repayment in kind as usual.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Certain articles are described as becoming common in Hausaland and as proper
+    trousseau items; plates may be set into mud walls for decoration.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The annotator says words were inserted to better match rhythm; the words are
+    sung in Hausa with syllables drawn out as needed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: White-ants, identified as termites, build covered above-ground passages for
+    protection while travelling or going up trees.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The termites are described as prey to ants and birds, and one possible soldier
+    species can inflict a painful sting.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An unspecified plural subject is said to sit on hills; the annotator reports
+    not seeing a nest there and questions whether the narrator meant “build,” since
+    the song uses “alight.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Repayment in kind is described as usual.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: white-ants / termites
+  description: Insects described as building covered passages above ground for protection,
+    being prey to ants and birds, and including a possible soldier species with a
+    painful sting.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: first-person annotator
+  description: The note-writer who inserts words for rhythm, comments on observation
+    of nests, and questions the narrator’s wording.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: narrator
+  description: A narrator whose use of the word translated as “build” is questioned
+    by the annotator.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: covered-passage builders
+  assigned_to:
+  - fig:1
+  basis: The passage says the termites build covered above-ground passages.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: prey requiring protection
+  assigned_to:
+  - fig:1
+  basis: The passage says the termites are prey to ants and birds, explaining the
+    need for protection.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: editorial commentator
+  assigned_to:
+  - fig:2
+  basis: The first-person speaker comments on inserted song words, personal observation,
+    and possible wording error.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: wording source under correction
+  assigned_to:
+  - fig:3
+  basis: The annotator says the narrator may have been wrong in using the word “build.”
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: trousseau articles and plates
+  literal_form: household articles and plates used as trousseau items or wall decorations
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mud walls
+  literal_form: mud walls with plates let into them as decorations
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: covered passages
+  literal_form: covered passages built above ground by termites
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hills
+  literal_form: hills on which an unspecified plural subject is seen sitting
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Hausa song with lengthened syllables
+  literal_form: Hausa song text performed with syllables drawn out to fit rhythm
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Trousseau and wall-decoration note
+  summary: The note describes articles as common and proper to a trousseau and mentions
+    plates set into mud walls as decoration.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Song-rhythm note
+  summary: The annotator explains inserted words and describes Hausa singing with
+    syllables lengthened for the required rhythm.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Termite protection note
+  summary: White-ants or termites build covered passages to protect themselves during
+    movement, because ants and birds prey on them.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hill-sitting and wording note
+  summary: The annotator reports that an unspecified subject is seen on hills, notes
+    not seeing a nest there, and suggests the narrator’s “build” may be better understood
+    as “alight” in the song.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Repayment note
+  summary: A brief note states that repayment in kind is usual.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: repayment in kind
+  taxonomy_refs: []
+  basis: The passage explicitly identifies repayment in kind as usual.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The excerpt is an editorial note rather than the full tale, so the narrative
+    function and any sacred or ritual dimension are not established.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22174-22180
+  quote_or_summary: Articles are described as becoming common in Hausaland and proper
+    for a trousseau; plates may be set into mud walls as decorations.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain.
+- id: ev:2
+  type: summary
+  locator: lines 22183-22186
+  quote_or_summary: The annotator says words were inserted to resemble rhythm; the
+    words are sung in Hausa with syllables drawn out as required.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain.
+- id: ev:3
+  type: summary
+  locator: lines 22188-22195
+  quote_or_summary: White-ants are identified as termites; they build covered above-ground
+    passages for protection while travelling or climbing trees, are prey to ants and
+    birds, and one possible soldier species can sting painfully.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain.
+- id: ev:4
+  type: summary
+  locator: lines 22197-22199
+  quote_or_summary: An unspecified plural subject is often seen sitting on hills;
+    the annotator has not seen a nest there and thinks the narrator may have erred
+    in saying “build,” since the song changes the action to “alight.”
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain.
+- id: ev:5
+  type: quote
+  locator: line 22200
+  quote_or_summary: "“Repayment in kind is quite usual, of course.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a notes section with limited narrative context; literal ethnographic
+    and natural-history observations are clear, but motif identification is weak.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not provide a supported cross-tradition or motif-family comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l22174-l22200
+  passage_sha256=2333487d6cef547c918e42506b6cd3c37d3b2edfb1cea1f2129c1e7643047c18
+

@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.caucasian-folk-tales-dirr-menzies-archive-l11154-l11164
+source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+passage_locator:
+  label: SUANETIAN VARIANT 253 / ABKHASIAN VARIANT 255 / ABKHASIAN VARIANT 257 / OSSETIAN
+    VARIANT 259; lines 11154-11164
+  start: '11154'
+  end: '11164'
+  translation: Caucasian Folk-Tales
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: The shepherd was a giant and one-eyed.
+  summary: A group decides to load their ship with honey and wax from a stream and
+    sail along the shore. Before departure they see sheep and goats approaching the
+    honey-stream, led by a one-eyed giant shepherd carrying a huge stick. The giant
+    pulls their ship ashore and drives them with his herd toward a great building.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The group takes counsel and agrees to load the ship with honey and wax from
+    the stream, then follow the shore in one direction.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They load honey for a whole week.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: On the day before sailing, they see a flock of sheep and goats approaching
+    the honey-stream.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The shepherd is described as a giant and one-eyed.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The giant carries a stick as thick as a pillar and twirls it like a spindle.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Fear takes hold of the group when they see the giant shepherd.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The giant pulls the ship ashore and drives the group with his herd toward
+    a great building.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: traveling group
+  description: The first-person plural group who load the ship and plan to sail along
+    the shore.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: one-eyed giant shepherd
+  description: A giant, one-eyed shepherd who has a flock of sheep and goats, carries
+    a huge stick, pulls the ship ashore, and drives the group with his herd.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: flock of sheep and goats
+  description: A flock or herd associated with the giant shepherd and approaching
+    the honey-stream.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: voyagers
+  assigned_to:
+  - fig:1
+  basis: They prepare a ship and plan to sail along the shore.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shepherd
+  assigned_to:
+  - fig:2
+  basis: The passage calls him the shepherd of the approaching flock of sheep and
+    goats.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: captives or driven group
+  assigned_to:
+  - fig:1
+  basis: The giant pulls their ship ashore and drives them with his herd.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: threatening giant
+  assigned_to:
+  - fig:2
+  basis: He is one-eyed, carries a pillar-thick stick, provokes dread, and forcibly
+    moves the travelers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: herd
+  assigned_to:
+  - fig:3
+  basis: The sheep and goats are described as a flock and later as the giant's herd.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: ship
+  literal_form: ship
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: honey-stream
+  literal_form: stream containing honey or associated with honey
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: honey and wax
+  literal_form: honey and wax loaded onto the ship
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: one eye
+  literal_form: single eye of the giant shepherd
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: pillar-thick stick
+  literal_form: stick as thick as a pillar, twirled like a spindle
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: great building
+  literal_form: great building toward which the group is driven
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: preparing the ship
+  summary: The group counsels together, decides to load the ship with honey and wax
+    from the stream, and plans to sail along the shore.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: appearance of the one-eyed giant shepherd
+  summary: A flock of sheep and goats approaches the honey-stream, led by a giant,
+    one-eyed shepherd carrying a huge stick.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: ship pulled ashore and travelers driven away
+  summary: The giant pulls the travelers' ship ashore and drives them with his herd
+    toward a great building.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: voyagers encounter a one-eyed giant shepherd
+  taxonomy_refs: []
+  basis: The travelers preparing to sail encounter a one-eyed giant shepherd with
+    sheep and goats, and he forcibly controls their movement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is only an excerpt and ends before the episode is complete.
+- id: motif:2
+  label: forced removal from ship to giant's dwelling
+  taxonomy_refs: []
+  basis: The giant pulls the ship ashore and drives the travelers with his herd toward
+    a great building.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The destination is described only as a great building; the passage does
+    not yet state what happens there.
+- id: motif:3
+  label: departure by ship along a shore
+  taxonomy_refs:
+  - departure
+  basis: The group plans to follow the shore in one direction after loading the ship.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The planned departure is interrupted in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11154-11158
+  quote_or_summary: "“We agreed to load up the ship with honey and wax from the stream,
+    and then to follow along the shore always in the same direction.”"
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 11159-11161
+  quote_or_summary: On the day before sailing, a flock of sheep and goats approaches
+    the honey-stream.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 11161-11163
+  quote_or_summary: "“The shepherd was a giant and one-eyed. He held a stick as thick
+    as a pillar in his hand, and he twirled it round like a spindle.”"
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: line 11163
+  quote_or_summary: "“A dreadful fear took hold of us.”"
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 11163-11164
+  quote_or_summary: The giant pulls the ship ashore and drives the group with his
+    herd toward a great building.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the passage is incomplete at the
+    end of the supplied range, limiting motif identification and comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims are made because the supplied excerpt alone does not explicitly support a cross-textual comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:caucasian-folk-tales-dirr-menzies-archive__l11154-l11164
+  passage_sha256=e8a31a4466508b949352d6e97beaf550fffdc501c93625a38303efd82bdcbc36
+

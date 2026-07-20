@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l23287-l23433
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: DENSMORKJ / IHILL.  53 / DENSMORK / BUEEAU    OF    AMERICAN    ETHNOLOGY;
+    lines 23287-23433
+  start: '23287'
+  end: '23433'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: bine'siwiig the (thunder) birds / ixikoc'koigog^ startle me
+  summary: The passage presents the end of one song text about coming with sound around
+    the sky, followed by song No. 153, titled “The Thunderbirds,” sung by Awun^akum^igickun'.
+    Its translated words identify the thunderbirds and say they startle the speaker.
+    The surrounding analysis discusses melody, tonality, and rhythm and compares musical
+    features with other numbered songs.
+  language: English with Ojibwe song text/transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A song line is glossed as “around the sky.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A song line is glossed as “I come to you with my sound.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Song No. 153 is titled “The Thunderbirds.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Song No. 153 is attributed as sung by Awun^akum^igickun'.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The song text identifies “the (thunder) birds.”
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The thunderbirds are said to “startle me.”
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The analysis states that the song’s rhythm has a peculiar division of the
+    first count of the measure and notes similar rhythmic features in other numbered
+    songs.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the thunderbirds
+  description: Named in the song title and glossed in the song text as “the (thunder)
+    birds.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: first-person speaker
+  description: The person referred to by “me” in the translated line “startle me.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Awun^akum^igickun'
+  description: Named as the singer of song No. 153.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: startling beings
+  assigned_to:
+  - fig:1
+  basis: The song text says the thunderbirds “startle me.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: startled speaker
+  assigned_to:
+  - fig:2
+  basis: The translated lyric uses the first-person object “me” as the one startled
+    by the thunderbirds.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: song performer
+  assigned_to:
+  - fig:3
+  basis: The passage states that No. 153 was sung by Awun^akum^igickun'.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sky
+  literal_form: sky
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sound
+  literal_form: sound
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: thunderbirds
+  literal_form: the (thunder) birds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Coming with sound around the sky
+  summary: A first-person song statement says the speaker comes to someone with sound,
+    in relation to the sky.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The thunderbirds startle the speaker
+  summary: In song No. 153, the thunderbirds are named and are said to startle the
+    first-person speaker.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Thunderbirds as startling sky-related beings
+  taxonomy_refs: []
+  basis: The song is titled “The Thunderbirds,” its lyric identifies the thunderbirds,
+    and the translated action is that they startle the speaker.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a short song text and does not explain the wider
+    mythological role of thunderbirds.
+- id: motif:2
+  label: Sound-mediated approach in the sky
+  taxonomy_refs: []
+  basis: A nearby song line says “around the sky” and “I come to you with my sound.”
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The addressee and narrative context are not identified in the excerpt,
+    so this should be treated only as a tentative song-image pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 23287-23292
+  quote_or_summary: "“ki'witagi^jig around the sky”; “ka^bidebwe^widamon^ I come to
+    you with my sound.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: 23320-23324
+  quote_or_summary: "“No. 153. ‘The Thunderbirds’ ... Sung by Awun^akum^igickun'.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: 23380-23383
+  quote_or_summary: "“bine'siwiig the (thunder) birds”; “ixikoc'koigog^ startle me.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: 23387-23402
+  quote_or_summary: The analysis describes the song’s downward progression, tonic
+    chord, and a peculiar rhythmic division also noted in other numbered songs.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The named thunderbirds and their action are explicit, but the passage is
+    primarily musical notation and analysis with very limited narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif reference was assigned because the passage’s explicit symbols are sky, sound, and thunderbirds, and no supported taxonomy entry directly matches them.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l23287-l23433
+  passage_sha256=71e423cd883e6ffbefe4741c79f8ed8adef90d39bffe404f95e9299367aac761
+

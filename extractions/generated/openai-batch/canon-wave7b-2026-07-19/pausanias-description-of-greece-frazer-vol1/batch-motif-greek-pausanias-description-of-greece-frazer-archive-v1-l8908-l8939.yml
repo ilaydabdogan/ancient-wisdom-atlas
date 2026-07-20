@@ -1,0 +1,495 @@
+---
+record_id: batch.motif.greek-pausanias-description-of-greece-frazer-archive-v1-l8908-l8939
+source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+passage_locator:
+  label: VOL. I. DD / VOL. I, EE / VOL, 1. FF / VOL, I. GG; lines 8908-8939
+  start: '8908'
+  end: '8939'
+  translation: Pausanias's Description of Greece, Volume I, Translated with a Commentary
+    by J. G. Frazer
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a route through Thyreatis, a fertile coastal tract,
+    the site of a battle between selected Argive and Lacedaemonian warriors with common
+    graves, later political control of the land, villages including one with a sanctuary
+    of Polemocrates, and the surrounding sacred and geographic markers of Mount Parnon,
+    Hermes figures, and the river Tanaus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The route follows a narrow difficult road to a fertile tract descending toward
+    the sea, rich in trees and especially olives.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A place inland from the tract is identified as where three hundred picked
+    Argives fought an equal number of specially chosen Lacedaemonian warriors for
+    the land.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: All the selected warriors were killed except one Spartan and two Argives,
+    and graves for the dead were raised at the place.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lacedaemonians later fought the Argives with all their forces, won a decisive
+    victory, used the land, and then assigned it to the Aeginetans after their expulsion
+    by the Athenians.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In Pausanias's time, Thyreatis was inhabited by Argives who said they recovered
+    it through an arbitration award.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: From the common graves the route reaches villages named Athene, Neris, and
+    a third largest village whose name appears in the supplied passage as Greek characters.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The largest village contains a sanctuary of Polemocrates.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Polemocrates is described as a son of Machaon and brother of Alexanor; he
+    cures the people of the district and receives honours from neighbours.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Mount Parnon extends above the villages, where the Lacedaemonian border meets
+    the borders of the Argives and Tegeatae.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Stone figures of Hermes stand on the borders, and the place-name is said to
+    derive from them.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The river Tanaus descends from Mount Parnon, flows through Argive territory,
+    and empties into the Gulf of Thyrea.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Argives
+  description: A group who fought for the land, had two survivors in the selected
+    battle, later inhabited Thyreatis, and claimed to have recovered it by arbitration.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Lacedaemonians / Spartans
+  description: A group whose selected warriors fought the Argives; one Spartan survived
+    the selected battle, and the Lacedaemonians later won a decisive victory and assigned
+    the land to the Aeginetans.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:10
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Aeginetans
+  description: A people to whom the Lacedaemonians assigned the land after they were
+    expelled from their island by the Athenians; they once made their home at Athene.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Athenians
+  description: The people who expelled the Aeginetans from their island.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Polemocrates
+  description: One of the sons of Machaon and brother of Alexanor; associated with
+    a sanctuary, curing the local people, and receiving honours.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Machaon
+  description: Named as the father of Polemocrates.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Alexanor
+  description: Named as the brother of Polemocrates.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Hermes
+  description: Represented by stone figures standing on the borders; the place-name
+    is derived from these figures.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Tegeatae
+  description: A people whose border meets the Lacedaemonian and Argive borders on
+    Mount Parnon.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: territorial combatants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Three hundred selected Argives fought an equal number of chosen Lacedaemonian
+    warriors for the land.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: groups with named survivors and commemorated dead
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: All the selected warriors died except one Spartan and two Argives, and graves
+    were raised for the dead.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: later victors and land assigners
+  assigned_to:
+  - fig:2
+  basis: The Lacedaemonians later defeated the Argives, enjoyed the land, and assigned
+    it to the Aeginetans.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: displaced assignees and settlers
+  assigned_to:
+  - fig:3
+  basis: The Aeginetans were expelled from their island by Athenians and later assigned
+    the land; they once made their home at Athene.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: expelling power
+  assigned_to:
+  - fig:4
+  basis: The Athenians expelled the Aeginetans from their island.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: current inhabitants and arbitration claimants
+  assigned_to:
+  - fig:1
+  basis: In Pausanias's time, Thyreatis was inhabited by Argives who claimed recovery
+    by arbitration.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: healer receiving honours
+  assigned_to:
+  - fig:5
+  basis: Polemocrates cures the people of the district and receives honours from neighbours.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: named kin of Polemocrates
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Polemocrates is described as a son of Machaon and brother of Alexanor.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: border-associated represented figure
+  assigned_to:
+  - fig:8
+  basis: Stone figures of Hermes stand on the borders and give the place its name.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: bordering peoples
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:9
+  basis: The Lacedaemonian border meets the borders of the Argives and Tegeatae on
+    Mount Parnon.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: common graves for battle dead
+  literal_form: graves raised for the dead at the site of the selected Argive and
+    Lacedaemonian battle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: olive-rich fertile tract
+  literal_form: fertile tract descending to the sea, rich in trees, especially olive
+    trees
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sanctuary of Polemocrates
+  literal_form: sanctuary in the largest village associated with Polemocrates
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Mount Parnon
+  literal_form: mountain above the villages where multiple borders meet
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:9
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: stone figures of Hermes
+  literal_form: stone figures of Hermes standing on the borders
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: Tanaus river and Gulf of Thyrea
+  literal_form: river descending from Mount Parnon, flowing through Argive territory,
+    and emptying into the gulf
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Road to fertile coastal tract
+  summary: The route proceeds along a difficult road to a fertile tree-rich tract
+    descending toward the sea.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Selected battle and graves
+  summary: Three hundred picked Argives fight three hundred chosen Lacedaemonian warriors
+    for the land; nearly all die, and graves are raised for the dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Control and recovery of Thyreatis
+  summary: The Lacedaemonians later win the land, assign it to expelled Aeginetans,
+    and in Pausanias's time the Argives inhabit it and claim recovery by arbitration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Villages and sanctuary of Polemocrates
+  summary: The route from the graves reaches several villages, including one with
+    a sanctuary of Polemocrates, who is described by kinship and healing activity.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Mount Parnon, border figures, and river course
+  summary: Above the villages, Mount Parnon marks converging borders; stone figures
+    of Hermes stand on the borders, and the Tanaus river descends from the mountain
+    through Argive territory to the gulf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: selected champion battle for contested land with commemorative graves
+  taxonomy_refs: []
+  basis: The passage reports equal groups of three hundred chosen warriors fighting
+    for the land, nearly all dying, and graves being raised for the dead.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as local historical-topographic memory; it does
+    not frame the combat as divine or supernatural.
+- id: motif:2
+  label: healing sanctuary of a named local figure
+  taxonomy_refs: []
+  basis: A sanctuary of Polemocrates is located in the largest village, and he is
+    said to cure local people and receive honours.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No origin story, ritual procedure, or explicit divine status is supplied
+    in the passage.
+- id: motif:3
+  label: Hermes-marked boundary and place naming
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Stone figures of Hermes stand on the borders, and the place-name is said
+    to derive from them.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage supports the boundary and Hermes-marker aspects; it does not
+    describe trickster behavior or a narrative boundary crossing.
+- id: motif:4
+  label: mountain source and territorial river course
+  taxonomy_refs: []
+  basis: The river Tanaus is described as descending from Mount Parnon, crossing Argive
+    territory, and emptying into the Gulf of Thyrea.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a geographic pattern rather than a developed mythic motif in the
+    supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8908-8912
+  quote_or_summary: A narrow difficult road leads to a fertile tract stretching down
+    to the sea, with many trees especially olives.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8912-8918
+  quote_or_summary: Three hundred picked Argives fought an equal number of chosen
+    Lacedaemonian warriors for the land; all died except one Spartan and two Argives,
+    and graves were raised for the dead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8918-8925
+  quote_or_summary: The Lacedaemonians later defeated the Argives, used the land,
+    assigned it to Aeginetans after Athenian expulsion, and in Pausanias's time Argives
+    inhabited Thyreatis and claimed recovery by arbitration.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8925-8931
+  quote_or_summary: From the common graves the route comes to Athene, where Aeginetans
+    once lived, then to Neris and a third largest village containing a sanctuary of
+    Polemocrates.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8931-8934
+  quote_or_summary: Polemocrates is one of Machaon's sons and brother of Alexanor;
+    he cures local people and receives honours from neighbours.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 8934-8937
+  quote_or_summary: Mount Parnon rises above the villages; the Lacedaemonian border
+    meets those of the Argives and Tegeatae, and stone figures of Hermes stand on
+    the borders, giving the place its name.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 8937-8939
+  quote_or_summary: The river Tanaus, the only river descending from Mount Parnon,
+    flows through Argive territory and empties into the Gulf of Thyrea.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain translation; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is mostly direct, but the supplied passage contains apparent OCR
+    or transcription irregularities at the opening and in the third village name.
+    No explicit comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All content is derived from the supplied passage and metadata; comparison_claims are left empty because the passage does not itself provide a comparative claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:greek-pausanias-description-of-greece-frazer-archive-v1__l8908-l8939
+  passage_sha256=9cac1bf83a45b3cb011e4d18f1243537cd1b2477b0a50e6ed88e6757fc123741
+

@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.amazonian-the-central-caribs-farabee-archive-l5422-l5492
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+passage_locator:
+  label: ANTHROPOLOGICAL PUBLICATIONS, VOL. X / LANGUAGE / TEXTS / THE MAP; lines
+    5422-5492
+  start: '5422'
+  end: '5492'
+  translation: The Central Caribs
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A section titled “The Map” describes how astronomical observations, instruments,
+    and mapping work were perceived during an expedition; it notes Indigenous attention
+    to star lore and moon viewing, then describes the expedition map, including Amucu
+    as a sacred lake of early Spaniards and sacred mountains associated with the Atarois
+    and Wapisianas, before correcting earlier river maps.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Astronomical observations caused rubber gatherers and traders to credit the
+    expedition with superior wisdom because the observers knew the stars and used
+    them for position, direction, and distance.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The observations attracted Indian attention, and the narrator says this enabled
+    him to obtain star lore he would otherwise have missed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The magnet, compass, and watch interested the Indians, who identified their
+    basic operations, but the narrator says they had no practical use for them because
+    they already knew direction and time from the sun.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Villagers used binoculars for extended viewing of the moon in early or late
+    phases, especially observing its mountains.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Indians are described as knowing that the moon was nearer to the earth
+    and moved in a wobbly course.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The expedition map was based on traverses, instruments, and checks by observations
+    of the sun and thirty different stars.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The map shows the expedition route, Amucu as the sacred lake of the early
+    Spaniards, a group of sacred mountains of the Atarois and Wapisianas, and Indian
+    villages.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage identifies mistakes in earlier maps of the Corentine River region
+    and gives a corrected account of the Corentine, New River, Sipaliwini, and boundary
+    implications.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Narrator and expedition observers
+  description: The party conducting astronomical observations, instrument-based traverses,
+    and map construction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Rubber gatherers and traders
+  description: People in the outside country who credited the observers with superior
+    wisdom because of their star knowledge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Indians and Indian villagers
+  description: Local people who attended to the observations, shared star lore, evaluated
+    instruments, knew time and direction from the sun, and viewed the moon through
+    binoculars.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Early Spaniards
+  description: A group associated in the passage with the sacred lake Amucu.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Atarois and Wapisianas
+  description: Groups associated in the passage with a group of sacred mountains.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: astronomical observers and map-makers
+  assigned_to:
+  - fig:1
+  basis: They took observations, made traverses, checked positions by sun and stars,
+    and produced the map.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: external evaluators of star knowledge
+  assigned_to:
+  - fig:2
+  basis: They gave the expedition credit for superior wisdom because of star-based
+    orientation and calculation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: local observers and star-lore informants
+  assigned_to:
+  - fig:3
+  basis: They were drawn to the observations, supplied star lore, interpreted instruments,
+    and viewed the moon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: group associated with sacred lake
+  assigned_to:
+  - fig:4
+  basis: The map locates Amucu as the sacred lake of the early Spaniards.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: groups associated with sacred mountains
+  assigned_to:
+  - fig:5
+  basis: The map locates a group of sacred mountains of the Atarois and Wapisianas.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: stars
+  literal_form: stars used for observation, position-fixing, and lore
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: sun
+  literal_form: sun used to tell time and to check mapped observations
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: moon and lunar mountains
+  literal_form: moon viewed through binoculars, with mountains observed on its surface
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sacred lake Amucu
+  literal_form: Amucu, described as the sacred lake of the early Spaniards
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sacred mountains
+  literal_form: group of sacred mountains of the Atarois and Wapisianas
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Astronomical observation and star lore
+  summary: The expedition’s star observations create a reputation for wisdom among
+    outsiders and attract Indians, from whom the narrator obtains star lore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Instruments, sun knowledge, and moon viewing
+  summary: Indians examine the expedition’s instruments, rely on the sun for time
+    and direction, and gather to view the moon and its mountains through binoculars.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Map construction and sacred places
+  summary: The expedition builds a map from traverses and astronomical observations;
+    the map includes the route, Indian villages, Amucu, and sacred mountains associated
+    with named groups.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Correction of river geography
+  summary: The narrator contrasts earlier maps with corrected river courses and discusses
+    the Sipaliwini as a possible source of the Corentine and a boundary issue.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: astronomical knowledge as wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Outsiders credit the expedition with superior wisdom because it knows the
+    stars and can use them for position, direction, and distance; Indian attention
+    to the observations also yields star lore.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is ethnographic and cartographic rather than a myth narrative;
+    the motif is a cautious thematic extraction from reported social perception and
+    lore collection.
+- id: motif:2
+  label: sacred landscape marked by lake and mountain places
+  taxonomy_refs: []
+  basis: The map is said to show Amucu as a sacred lake and a group of sacred mountains
+    associated with the Atarois and Wapisianas.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage names sacred places but gives no mythic narrative, ritual
+    function, cosmology, or origin story for them.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5422-5431
+  quote_or_summary: Astronomical observations bring credit for “superior wisdom” through
+    star knowledge and allow the narrator to obtain star lore from Indians.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source metadata; concise summary with brief excerpt.
+- id: ev:2
+  type: summary
+  locator: 5432-5445
+  quote_or_summary: Indians examine magnet, compass, and watch; they already know
+    directions and time from the sun, and villagers use binoculars to view the moon
+    and its mountains.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:3
+  type: summary
+  locator: 5446-5464
+  quote_or_summary: The map is based on journey materials, traverses with instruments,
+    and checks by observations of the sun and thirty stars; latitudes are said to
+    be accurate and longitudes approximate.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:4
+  type: summary
+  locator: 5465-5469
+  quote_or_summary: The map shows the expedition route, Amucu as the sacred lake of
+    early Spaniards, sacred mountains of the Atarois and Wapisianas, and Indian villages.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:5
+  type: summary
+  locator: 5470-5492
+  quote_or_summary: The narrator corrects earlier maps of the Corentine and New River
+    region and discusses the Sipaliwini as a possible Corentine source and boundary
+    marker.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source metadata; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for ethnographic and cartographic observations, but
+    motif content is limited because it does not present a myth narrative or explain
+    the sacred places.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were extracted because the passage itself does not support a specific cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:amazonian-the-central-caribs-farabee-archive__l5422-l5492
+  passage_sha256=18c51aa1ba5f003ec1c31f391d407e011db679c4c1e73a360d00bd9fe8818d54
+

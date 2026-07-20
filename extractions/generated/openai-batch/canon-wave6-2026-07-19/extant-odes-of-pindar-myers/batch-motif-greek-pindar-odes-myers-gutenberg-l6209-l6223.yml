@@ -1,0 +1,218 @@
+---
+record_id: batch.motif.greek-pindar-odes-myers-gutenberg-l6209-l6223
+source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+passage_locator:
+  label: WINNER IN THE PANKRATION. / FOR KLEANDROS OF AIGINA, / WINNER IN THE PANKRATION.
+    / FRAGMENTS.; lines 6209-6223
+  start: '6209'
+  end: '6223'
+  translation: The Extant Odes of Pindar
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Pindaric fragments and classifies the assignable
+    portion into poetic or performance genres, including triumphal odes, hymns, paeans,
+    dithyrambs, processional songs, maiden songs, dance songs, encomia, banquet songs,
+    and dirges. It notes that paeans were especially addressed to Apollo and Artemis
+    for intervention against pestilence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nearly two-thirds of the fragments cannot be assigned to a distinct class.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The remaining fragments are divided into named classes or genres.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: Hymnoi are described as hymns sung by a choir in honor of gods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Paianes are described as hymns anciently addressed especially to Apollo and
+    Artemis for intervention against pestilence.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Dithyramboi are described as choral songs of broader scope, sometimes approaching
+    drama.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Other listed genres include processional songs, songs for a choir of maidens,
+    songs with dance accompaniment, encomia by a komos, banquet songs, and dirges.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Apollo
+  description: Apollo is named as a deity especially addressed by Paianes for intervention
+    against pestilence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Artemis
+  description: Artemis is named as a deity especially addressed by Paianes for intervention
+    against pestilence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: choir
+  description: A choir is described as singing hymns in honor of gods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: choir of maidens
+  description: A choir of maidens is associated with Parthenia, or songs for such
+    a choir.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: komos
+  description: A komos is described as singing encomia in praise of a person.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine addressee for intervention against pestilence
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that Paianes were anciently addressed especially to Apollo
+    and Artemis for their intervention against pestilence.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: choral performer honoring gods
+  assigned_to:
+  - fig:3
+  basis: Hymnoi are described as hymns sung by a choir in honor of gods.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: maiden choral performer
+  assigned_to:
+  - fig:4
+  basis: Parthenia are glossed as songs for a choir of maidens.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: praise-singing group
+  assigned_to:
+  - fig:5
+  basis: Enkomia are described as odes sung by a komos in praise of a person.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Classification of Pindaric fragments by genre
+  summary: The passage explains that many fragments are unclassified and lists the
+    genres to which the remaining fragments are assigned, including ritual, choral,
+    processional, praise, banquet, and dirge categories.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: hymnic appeal for divine intervention against pestilence
+  taxonomy_refs: []
+  basis: The passage defines Paianes as hymns anciently addressed especially to Apollo
+    and Artemis for intervention against pestilence.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a genre description rather than a narrated mythic episode; no
+    specific divine intervention event is recounted.
+- id: motif:2
+  label: choral praise of gods
+  taxonomy_refs: []
+  basis: The passage describes Hymnoi as hymns sung by a choir in honor of gods.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a ritual-performance pattern, not a full narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6209-6212
+  quote_or_summary: The passage begins the section on fragments and states that nearly
+    two-thirds of the fragments cannot be assigned to any distinct class, while the
+    rest are divided among classes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6212-6215
+  quote_or_summary: The first classes include Epinikia or triumphal odes, Hymnoi or
+    hymns sung by a choir in honor of gods, and Paianes, hymns especially addressed
+    to Apollo and Artemis for intervention against pestilence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6216-6218
+  quote_or_summary: The passage lists Dithyramboi as choral songs of broader scope,
+    Prosodia as processional songs, and Parthenia as songs for a choir of maidens.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6218-6223
+  quote_or_summary: The passage lists Hyporchaemata as songs with dance accompaniment,
+    Enkomia as odes sung by a komos in praise of a person, Skolia as banquet songs,
+    and Thraenoi as dirges.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an editorial genre classification rather than a mythic narrative.
+    Literal genre and role extraction is straightforward; motif candidates are limited
+    to ritual-performance patterns explicitly described.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol references are supported by this passage; no comparison claims are made.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-pindar-odes-myers-gutenberg__l6209-l6223
+  passage_sha256=c4b49cdf83350a90e538385b2cf0e82cc8e577fc219c4aa57783cc79ebca94fd
+

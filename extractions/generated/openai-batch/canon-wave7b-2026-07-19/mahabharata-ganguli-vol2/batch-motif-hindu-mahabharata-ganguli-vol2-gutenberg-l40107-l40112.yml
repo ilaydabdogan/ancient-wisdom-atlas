@@ -1,0 +1,153 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l40107-l40112
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XVIII / SECTION XIX / SECTION XX / SECTION XXI; lines 40107-40112
+  start: '40107'
+  end: '40112'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Drona confounding the senses of his foes, (at last) rushed at Yudhishthira.
+  summary: In a fierce battle, Drona confounds the senses of his foes and rushes at
+    Yudhishthira; the excerpt then marks the start of Section XXI.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The setting is described as a fierce and awful battle.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Drona confounds the senses of his foes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Drona rushes at Yudhishthira.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that all were deprived of their signs, but the antecedent
+    is unclear within the supplied excerpt.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The excerpt ends with the heading “SECTION XXI.”
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Drona
+  description: A figure in the battle who confounds the senses of his foes and rushes
+    at Yudhishthira.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yudhishthira
+  description: The figure at whom Drona rushes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Drona's foes
+  description: A group whose senses are confounded by Drona.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: battlefield attacker
+  assigned_to:
+  - fig:1
+  basis: Drona rushes at Yudhishthira in battle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: target of attack
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira is the named figure at whom Drona rushes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: confounded opponents
+  assigned_to:
+  - fig:3
+  basis: The foes' senses are confounded by Drona.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Drona rushes at Yudhishthira in battle
+  summary: During a fierce battle, Drona confounds the senses of his foes and then
+    rushes at Yudhishthira.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: battlefield sensory confusion before attack
+  taxonomy_refs: []
+  basis: The passage explicitly links Drona's confounding of his foes' senses with
+    his subsequent rush at Yudhishthira.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The supplied excerpt is very brief and does not establish a broader mythic
+    or comparative pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 40107-40111
+  quote_or_summary: "“In that fierce and awful battle, Drona confounding the senses
+    of his foes, (at last) rushed at Yudhishthira.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:2
+  type: quote
+  locator: line 40107
+  quote_or_summary: "“heart, though all were deprived of their signs.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:3
+  type: quote
+  locator: line 40112
+  quote_or_summary: "“SECTION XXI”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the fragmentary passage and unclear antecedents.
+    Motif identification is tentative because the excerpt provides only a brief combat
+    action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol reference was assigned because the supplied excerpt does not clearly support one.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l40107-l40112
+  passage_sha256=6dbae9ec23981ed2a20a1a6d18c6c818eb4272804adb4633e0faaef471642264
+

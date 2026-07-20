@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l1547-l1567
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: INTRODUCTION.  XXIX / XXX  INTRODUCTION. / MARY  H.  KINGSLEY. / XXX11  INTRODUCTION.;
+    lines 1547-1567
+  start: '1547'
+  end: '1567'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Ngoio ... is always killed the day after he takes the cap"'
+  summary: The passage explains several Kongo/Fjort political names and ranks, describes
+    Ngoio as a Kain-doctor sent by Fumu Kongo with MaKongo and MaLoango, and states
+    that the Ngoio chieftainship remains vacant because its holder is killed the day
+    after taking the cap of office.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that Ma is short for Mani, glossed as “son of,” and that
+    MaKongo meant “son of Kongo.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: MaKongo is said to have recognized a secondary position, with MaLoango described
+    as doing the same in the present.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: KaCongo is proposed as Kaci Kongo, glossed as “Middle Kongo.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ngoio is named as a great Kain-doctor sent with MaKongo and MaLoango by Fumu
+    Kongo.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ngoio gave his name to a province and to its chieftainship, in the same way
+    the passage says MaKongo and MaLoango did.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Ncanlam, chief of the Musurongo, has the right to take the cap, which the
+    passage glosses as succession to the chieftainship of the province Ngoio.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The chief called Ngoio is said to be killed the day after taking the cap,
+    so the throne remains vacant.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator explains the vacancy by saying that no one wants to lose his
+    life for a few hours of glory on the Ngoio throne.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fumu Kongo
+  description: Authority figure who sends Ngoio with MaKongo and MaLoango.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: MaKongo
+  description: Name glossed as “son of Kongo”; described as recognizing a secondary
+    position and as having given a name to a province.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: MaLoango
+  description: Figure sent with Ngoio and MaKongo; described as recognizing a secondary
+    position and as having given a name to a province.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Ngoio
+  description: Great Kain-doctor whose name is given to a province, chieftainship,
+    and chief of the province.
+  role_refs:
+  - role:3
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Ncanlam
+  description: Chief of the Musurongo who has the right to take the cap and succeed
+    to the Ngoio chieftainship.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Musurongo
+  description: Group whose chief is Ncanlam.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sender or authorizing figure
+  assigned_to:
+  - fig:1
+  basis: Fumu Kongo is said to have sent Ngoio with MaKongo and MaLoango.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: secondary-position figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: MaKongo is said to recognize a secondary position, and MaLoango is compared
+    to him in that respect.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: province namesake
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Ngoio is said to have given his name to a province like MaKongo and MaLoango
+    did.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Kain-doctor
+  assigned_to:
+  - fig:4
+  basis: Ngoio is directly called the great Kain-doctor.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: eligible successor
+  assigned_to:
+  - fig:5
+  basis: Ncanlam has the right to take the cap and succeed to the chieftainship of
+    Ngoio.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: chief of the Musurongo
+  assigned_to:
+  - fig:5
+  basis: Ncanlam is identified as the chief of the Musurongo.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: fatal office-holder
+  assigned_to:
+  - fig:4
+  basis: The chief called Ngoio is said to be killed the day after taking the cap.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cap of succession
+  literal_form: cap taken by the successor to the Ngoio chieftainship
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: vacant Ngoio throne
+  literal_form: throne of the Ngoio chiefship
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Etymological explanation of Kongo titles
+  summary: The passage explains Ma as an abbreviation of Mani, glosses MaKongo as
+    son of Kongo, describes MaKongo and MaLoango as secondary-position figures, and
+    proposes Middle Kongo as the sense of Kaci Kongo.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ngoio sent and names a province
+  summary: Fumu Kongo sends Ngoio with MaKongo and MaLoango; Ngoio gives his name
+    to a province and chieftainship, as MaKongo and MaLoango did.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Deadly accession to the Ngoio chiefship
+  summary: Ncanlam has the right to take the cap and succeed to Ngoio, but the holder
+    of the office is killed the next day, leaving the throne vacant.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: name-giving founder of a province or chiefship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Ngoio is said to give his name to both a province and its chieftainship,
+    like MaKongo and MaLoango.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an ethnographic-historical note rather than a full narrative
+    episode; the available taxonomy reference is broad.
+- id: motif:2
+  label: object of investiture marking accession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Taking the cap is explicitly glossed as succession to the chieftainship of
+    the province Ngoio.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage identifies the cap’s function but gives few details about
+    the rite itself.
+- id: motif:3
+  label: fatal accession to a vacant throne
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Ngoio chief is always killed the day after taking the cap, which keeps
+    the throne vacant.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The reason and ritual context for the killing are not explained; it should
+    not be classified as sacrifice without further evidence.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Ngoio’s giving of a name to a province with
+    the same province-naming function attributed to MaKongo and MaLoango.
+  claim_level: same_function
+  target: MaKongo and MaLoango province-name pattern within the same passage
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison made by the passage, not evidence of
+    broader historical contact or a cross-cultural motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1549-1554
+  quote_or_summary: Ma is said to abbreviate Mani, “son of”; MaKongo means son of
+    Kongo; MaKongo and MaLoango are described in relation to secondary position; KaCongo/Kaci
+    Kongo is glossed as Middle Kongo.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: 1556-1560
+  quote_or_summary: Ngoio is called the great Kain-doctor sent with MaKongo and MaLoango
+    by Fumu Kongo; he gives his name to the province and chieftainship, like MaKongo
+    and MaLoango.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: 1560-1563
+  quote_or_summary: Ncanlam, chief of the Musurongo, has the right to take the cap,
+    glossed as succession to the chieftainship of the province Ngoio.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: quote
+  locator: 1563-1565
+  quote_or_summary: "“Ngoio ... is always killed the day after he takes the cap”;
+    the throne remains vacant, and the narrator comments that no one wants to lose
+    life for a few hours’ glory."
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The succession episode is clear, but several names and titles are presented
+    in compressed ethnographic commentary rather than in a full narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or taxonomy identifiers were added beyond the supplied taxonomy list and explicit internal comparison in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l1547-l1567
+  passage_sha256=380a32c25e924a9916ad8aa35a3ae83c52083dac52710ac7adc5aaf8f78c3191
+

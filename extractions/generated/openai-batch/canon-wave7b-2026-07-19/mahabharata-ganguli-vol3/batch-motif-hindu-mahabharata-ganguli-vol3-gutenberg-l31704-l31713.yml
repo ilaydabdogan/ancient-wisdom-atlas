@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l31704-l31713
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION LXXII / SECTION LXXIII / SECTION LXXIV / SECTION LXXV; lines 31704-31713
+  start: '31704'
+  end: '31713'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Bhishma teaches that one who relieves fear is especially worthy of heaven.
+    He urges the Kuru addressee to rule cheerfully, gain heaven, protect the good,
+    slay the wicked, support friends and honest people, and embody the qualities that
+    make people seek protection.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bhishma is identified as the speaker.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bhishma says that a person who gives even momentary relief to someone afflicted
+    with fear is most worthy of heaven.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bhishma tells the addressee to be the king of the Kurus and to acquire heaven.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bhishma instructs the addressee to protect the good and slay the wicked.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Bhishma says that friends and honest people should draw support from the addressee,
+    comparing this support to creatures supported by the deity of clouds and birds
+    supported by a fruit-bearing tree.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'Bhishma lists qualities of the person whose protection people seek: dignity,
+    courage, ability to smite, compassion, controlled senses, affection toward all,
+    equity, and justice.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bhishma
+  description: Named speaker who gives counsel in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Unnamed Kuru addressee
+  description: Addressed as the intended king of the Kurus and foremost of Kuru's
+    race.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Person afflicted with fear
+  description: A person who obtains relief from fear, even for a moment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Friends and honest men
+  description: People whom Bhishma says should derive support from the addressee.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: People seeking protection
+  description: Men who seek protection from a dignified, courageous, compassionate,
+    controlled, affectionate, equitable, and just person.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaker and counselor
+  assigned_to:
+  - fig:1
+  basis: Bhishma is named before the speech and delivers the counsel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ruler urged to kingship
+  assigned_to:
+  - fig:2
+  basis: The addressee is told to be king of the Kurus and to acquire heaven.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: protector and supporter
+  assigned_to:
+  - fig:2
+  basis: The addressee is told to protect the good, slay the wicked, and support friends
+    and honest men.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: beneficiaries or seekers of protection
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage describes the fearful person who receives relief, friends and
+    honest men who receive support, and people who seek protection.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: heaven as reward
+  literal_form: heaven
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: deity of the clouds as provider
+  literal_form: deity of the clouds
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fruit-bearing tree as support
+  literal_form: large tree with delicious fruits
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Bhishma's instruction on protective kingship
+  summary: Bhishma tells the Kuru addressee that relieving fear is heaven-worthy,
+    urges him to rule, protect the good, slay the wicked, support honest people, and
+    possess the traits that make people seek protection.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: righteous kingship as protection and punishment of evil
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The addressee is urged to be king, protect the good, slay the wicked, and
+    become a source of support and protection.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is didactic counsel rather than an enthronement or origin
+    narrative.
+- id: motif:2
+  label: heavenly reward for relieving fear
+  taxonomy_refs: []
+  basis: Bhishma says the person who gives relief to one afflicted with fear is most
+    worthy of heaven and tells the addressee to acquire heaven.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage states a moral reward but does not narrate an afterlife journey.
+- id: motif:3
+  label: wisdom counsel on qualities of a protector
+  taxonomy_refs:
+  - wisdom
+  basis: Bhishma gives a list of traits that cause people to seek a person's protection.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wisdom element is instructional and ethical, not a riddle or esoteric
+    revelation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 31704-31706
+  quote_or_summary: '"That man from whom a person afflicted with fear obtains relief
+    even for a moment" is called most worthy of heaven.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 31706-31708
+  quote_or_summary: '"Be thou cheerfully the king of the Kurus" and "protect the good
+    and slay the wicked."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 31708-31711
+  quote_or_summary: Bhishma says friends and honest men should derive support from
+    the addressee, as creatures from the deity of clouds and birds from a large tree
+    with delicious fruits.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 31711-31713
+  quote_or_summary: People seek protection from one who is dignified, courageous,
+    capable of smiting, compassionate, self-controlled, affectionate toward all, equitable,
+    and just.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and explicit about counsel, kingship, support, and protection.
+    Motif assignments are candidate-level because the passage is ethical instruction
+    rather than a full narrative episode. No comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata; generic labels were used where the passage does not name the addressee.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l31704-l31713
+  passage_sha256=f77952904847c0690a903bf514a2fdf494a721bd1fd0f4c5826ac6fb2e04d39a
+

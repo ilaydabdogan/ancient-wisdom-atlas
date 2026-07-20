@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l35190-l35233
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: THK WORKS OF MENCIUS / THE WORKS OF MKNC1US / THE WORKS OF MENOIUS / THE
+    WORKS OF MENCTUS; lines 35190-35233
+  start: '35190'
+  end: '35233'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "'leading on the land to devour human flesh'"
+  summary: 'The passage condemns warfare over territory and cities because it fills
+    fields and cities with slaughtered men. It says such conduct deserves punishment
+    beyond death, and ranks three classes for punishment: skilled fighters, those
+    who unite princes in leagues, and those who seize grassy commons and impose cultivation
+    on the people. The commentary explains these as adventurers pursuing their own
+    ends before rulers, regardless of the people.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Fighting over territory is described as causing men to be slaughtered until
+    fields are filled with them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fighting over a city is described as causing men to be slaughtered until the
+    city is filled with them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage names this destruction as leading the land to devour human flesh.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says death is not enough punishment for this crime.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Those skillful in fighting are assigned the highest punishment.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Those who unite princes in leagues are assigned the next level of punishment.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Those who take in grassy commons and impose cultivation on the people are
+    assigned another level of punishment.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The commentary describes three classes of adventurers who recommend themselves
+    to princes while pursuing their own ends regardless of the people.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: men slaughtered in fields and cities
+  description: Men killed in conflicts over territory and cities.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: those skillful to fight
+  description: People skilled in fighting who should suffer the highest punishment.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: those who unite the princes in leagues
+  description: People who bring princes together in leagues and are ranked for punishment
+    after skilled fighters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: those who take in grassy commons
+  description: People who take in grassy commons and impose cultivation of the ground
+    on the people.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: princes
+  description: Rulers to whom the commentary says adventurers recommended themselves.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: people
+  description: The population on whom cultivation is imposed and whose welfare is
+    disregarded by the adventurers described in the commentary.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: victims of warfare
+  assigned_to:
+  - fig:1
+  basis: They are slaughtered in conflicts over territory and cities.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: primary offenders in warfare
+  assigned_to:
+  - fig:2
+  basis: They are said to deserve the highest punishment.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: political league-makers subject to punishment
+  assigned_to:
+  - fig:3
+  basis: They are ranked next after skilled fighters for punishment.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: exploiters of commons and labor
+  assigned_to:
+  - fig:4
+  basis: They take in grassy commons and impose cultivation on the people.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: rulers approached by adventurers
+  assigned_to:
+  - fig:5
+  basis: The commentary says adventurers recommended themselves to princes.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: burdened populace
+  assigned_to:
+  - fig:6
+  basis: The people are made to cultivate the ground and are disregarded by the adventurers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: land devouring human flesh
+  literal_form: land that devours human flesh
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: fields filled with the slain
+  literal_form: fields filled with slaughtered men
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: city filled with the slain
+  literal_form: city filled with slaughtered men
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: grassy commons
+  literal_form: grassy commons taken in and assigned for cultivation
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: war over territory and city
+  summary: Conflicts over territory and over a city result in slaughter that fills
+    fields and cities with dead men.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: ranking of punishable offenders
+  summary: The passage ranks skilled fighters, league-makers among princes, and those
+    who take in grassy commons and impose cultivation on the people as classes deserving
+    punishment.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: commentary on adventurers serving rulers
+  summary: The commentary explains that three kinds of adventurers advanced themselves
+    before princes through war, intrigue, and land-use schemes while disregarding
+    the people.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: warfare makes the land consume human bodies
+  taxonomy_refs: []
+  basis: The passage links wars over territory and cities with mass slaughter and
+    the image of the land devouring human flesh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a moral-political image in a Confucian text, not a narrative mythic
+    episode.
+- id: motif:2
+  label: moral punishment of war-promoters and exploiters
+  taxonomy_refs: []
+  basis: The passage says death is insufficient for the crime and ranks skilled fighters,
+    league-makers, and exploiters of commons as deserving punishment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No divine or supernatural judge is present in the passage.
+- id: motif:3
+  label: advisers pursue advancement before rulers at the expense of the people
+  taxonomy_refs: []
+  basis: The commentary describes adventurers recommending themselves to princes through
+    war, intrigue, or land-use plans while pursuing their own ends regardless of the
+    people.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This motif is drawn from the translator/commentarial note rather than
+    only the translated Mencius passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 35190-35233
+  quote_or_summary: '"When contentions about territory are the ground on which they
+    fight, they slaughter men till the fields are filled with them."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:2
+  type: quote
+  locator: lines 35190-35233
+  quote_or_summary: '"When some struggle for a city is the ground on which they fight,
+    they slaughter men till the city is filled with them."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:3
+  type: quote
+  locator: lines 35190-35233
+  quote_or_summary: '"This is what is called '' leading on the land to devour human
+    flesh.''"'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:4
+  type: quote
+  locator: lines 35190-35233
+  quote_or_summary: '"Death is not enough for such a crime."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:5
+  type: summary
+  locator: lines 35190-35233
+  quote_or_summary: Those skilled in fighting should receive the highest punishment;
+    next, those who unite princes in leagues; next, those who take in grassy commons
+    and impose cultivation on the people.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 35190-35233
+  quote_or_summary: 'The commentary identifies three classes of adventurers in Mencius''s
+    time: those advancing by war, by intrigue, and by plans for maximizing land use
+    for rulers rather than for the people.'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 35190-35233
+  quote_or_summary: The commentary glosses grassy commons as fallow or uncultivated
+    fields and explains the phrase as dividing such land and making the people undertake
+    cultivation.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly ethical and political rather than mythic. Literal extraction
+    is strong; motif labels are descriptive and should be reviewed for atlas relevance.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or listed symbol was assigned because the supplied passage does not clearly match the available taxonomy refs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l35190-l35233
+  passage_sha256=d2df7a490484d897544a00392a939f5dd16ff34e6dbf1b8ab081b22019bde939
+

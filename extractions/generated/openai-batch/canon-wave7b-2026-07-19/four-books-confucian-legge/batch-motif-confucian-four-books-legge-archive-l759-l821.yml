@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l759-l821
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine of
+    the Mean, and The Works of Mencius / BOOK I. HSIO R; lines 759-821'
+  start: '759'
+  end: '821'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The Master said, "I will not be afflicted at men's not knowing me; I will
+    be afflicted that I do not know men."
+  summary: The passage contains commentary on an ode associated with Prince Wu and
+    craft refinement, followed by Chapter XVI, where the Master states that he is
+    not troubled by not being known by others, but by his own failure to know men.
+    The accompanying note frames this as personal attainment being the chief aim.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The commentary identifies the quoted ode as the first of the songs of Wei
+    and says it praises Prince Wu.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Prince Wu is described as dealing with himself like an ivory worker who cuts
+    and files bone smooth, or like a lapidary whose hammer and chisel are followed
+    by smoothing and polishing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Master says he will not be afflicted because men do not know him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Master says he will be afflicted if he does not know men.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note heading summarizes the chapter as teaching that personal attainment
+    should be the chief aim.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Master
+  description: Speaker of Chapter XVI who states what will and will not afflict him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: men
+  description: People whose knowing or being known are mentioned in the Master's saying.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Prince Wu
+  description: A prince praised in the ode discussed by the commentary and associated
+    with disciplined self-refinement.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: ivory worker or lapidary
+  description: Generic craft figures used in the commentary's analogy for cutting,
+    filing, smoothing, and polishing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: aphoristic teacher
+  assigned_to:
+  - fig:1
+  basis: The passage introduces the saying with "The Master said."
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: objects of recognition and knowledge
+  assigned_to:
+  - fig:2
+  basis: The saying contrasts men's not knowing the speaker with the speaker's not
+    knowing men.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: praised self-refining exemplar
+  assigned_to:
+  - fig:3
+  basis: The commentary says the Wei ode praises Prince Wu and describes him through
+    a self-refinement craft analogy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: craft analogy agents
+  assigned_to:
+  - fig:4
+  basis: The commentary uses an ivory worker and a lapidary as analogues for staged
+    cutting, smoothing, and polishing.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cut and filed bone or ivory
+  literal_form: An ivory worker first cuts the bone and then files it smooth.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lapidary hammer, chisel, and polishing appliances
+  literal_form: A lapidary uses hammer and chisel followed by appliances for smoothing
+    and polishing.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Commentarial craft-refinement analogy
+  summary: The commentary explains that an ode from the songs of Wei praises Prince
+    Wu and compares his self-treatment to craft processes of cutting, filing, smoothing,
+    and polishing.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The Master's concern about knowing men
+  summary: The Master states that he is not troubled by men's failure to know him,
+    but by his own failure to know men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: self-cultivation as refinement and polishing
+  taxonomy_refs:
+  - wisdom
+  basis: 'The commentary connects Prince Wu''s self-treatment with staged craft refinement:
+    cutting, filing, smoothing, and polishing.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The craft image is presented through commentary on an ode, not as a narrative
+    episode in this chapter itself.
+- id: motif:2
+  label: ethical concern with knowing others rather than being known
+  taxonomy_refs:
+  - wisdom
+  basis: The Master's saying privileges the speaker's ability to know men over men's
+    recognition of him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an aphoristic ethical teaching rather than a mythic narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The commentary explicitly links the craft-refinement image to the Shih-ching,
+    identifying it as the first of the songs of Wei, Ode I, stanza 2.
+  claim_level: same_motif
+  target: Shih-ching I, v, Ode I, stanza 2, first song of Wei
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a commentarial citation and summary, but it does
+    not reproduce the full Shih-ching stanza for independent comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 759-821
+  quote_or_summary: The commentary says the quoted ode is the first of the songs of
+    Wei and praises Prince Wu.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 759-821
+  quote_or_summary: Prince Wu is compared to an ivory worker cutting and filing bone
+    smooth, and to a lapidary using hammer, chisel, and later smoothing and polishing
+    tools.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 759-821, Chapter XVI
+  quote_or_summary: '"I will not be afflicted at men''s not knowing me; I will be
+    afflicted that I do not know men."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 759-821, note on Chapter XVI
+  quote_or_summary: The note heading states that personal attainment should be the
+    chief aim.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: citation
+  locator: lines 759-821
+  quote_or_summary: The commentary cites "the Shih-ching, I, v, Ode I, st. 2" as the
+    source of the ode discussed.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; bibliographic citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The core aphorism and commentarial craft analogy are clear, though the passage
+    includes OCR noise and commentarial material from surrounding context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological taxonomy symbols from the supplied symbol list are directly present in the passage. The available motif family 'wisdom' is used for ethical self-cultivation and knowing others.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l759-l821
+  passage_sha256=4bf635c6638b66d71c05b48262cc341c5def2822b90ac68255309689928863dc
+

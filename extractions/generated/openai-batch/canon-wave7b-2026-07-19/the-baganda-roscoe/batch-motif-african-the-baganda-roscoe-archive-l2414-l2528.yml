@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l2414-l2528
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: THE   BAGANDA / CHAP. / I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  17 /
+    I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  39; lines 2414-2528
+  start: '2414'
+  end: '2528'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The  sun  was  the  Baganda  timepiece.
+  summary: 'The passage records a Baganda saying about the sun at sunset: she goes
+    to Kiwalabya to eat plantain peelings, is held by the people of Nakakakulu so
+    that she does not fall from the earth and become lost, and is sent back east by
+    night for the next morning. The rest of the passage surveys Baganda measures of
+    road distance, land, building materials, commodities, beer, and numbers.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The sun is described as the Baganda timepiece.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At sunset, the reported saying states that the sun goes to Kiwalabya to eat
+    plantain peelings placed there for her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The people of Nakakakulu are said to take the sun by the horns and keep her
+    from falling down from the earth and being lost.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The people of Nakakakulu send the sun back across the earth to the East by
+    night, so that she is ready for another day's journey the following morning.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Road distance, plantain plots, potato and maize plots, building poles, spacing,
+    cubits, and spans are described as customary measurements.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Dry goods, coffee berries, sweet potatoes, firewood, grass, reeds, and beer
+    are described as measured or bundled by named baskets, packets, bundles, gourds,
+    and tubs.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage lists Baganda number terms and decimal expressions, and notes
+    that cowry-shell use may have helped make counting easy.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sun
+  description: The sun is treated grammatically as female in the reported saying,
+    serves as a timepiece, goes to Kiwalabya, is held by the horns, and is sent east
+    by night.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: People of Nakakakulu
+  description: A collective group said to take the sun by the horns, keep her from
+    falling and being lost, and send her back east by night.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: timepiece
+  assigned_to:
+  - fig:1
+  basis: The passage directly states that the sun was the Baganda timepiece.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sunset traveler and eater
+  assigned_to:
+  - fig:1
+  basis: The reported saying says the sun goes to Kiwalabya to eat plantain peelings
+    and later makes another day's journey.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: holders and night-return agents
+  assigned_to:
+  - fig:2
+  basis: The people of Nakakakulu hold the sun by the horns, prevent her loss, and
+    send her back east by night.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: sun
+  literal_form: Celestial body used as a timepiece and described as making daily and
+    nightly movements.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: Kiwalabya
+  literal_form: Named place where the sun goes at sunset to eat plantain peelings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: plantain peelings
+  literal_form: Food placed at Kiwalabya for the sun to eat.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: horns
+  literal_form: Feature by which the sun is taken and held by the people of Nakakakulu.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: East
+  literal_form: Direction or place to which the sun is sent back by night.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sunset journey to Kiwalabya
+  summary: When the sun sinks, the reported saying says she has gone to Kiwalabya
+    to eat plantain peelings placed there for her.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Retention and night return of the sun
+  summary: The people of Nakakakulu take the sun by the horns, keep her from falling
+    from the earth and being lost, and send her back east by night for the next morning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Survey of measures and counting
+  summary: The passage lists named Baganda units and methods for measuring roads,
+    plots, building materials, commodities, beer, and numbers.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Personified sun's nightly return
+  taxonomy_refs:
+  - return
+  basis: The sun is spoken of as a female being who is sent back east by night and
+    is ready for another day's journey in the morning.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy has no specific solar-cycle motif; the reference
+    to 'return' is broad and should be reviewed.
+- id: motif:2
+  label: Celestial body prevented from falling and being lost
+  taxonomy_refs: []
+  basis: The people of Nakakakulu take the sun by the horns and keep her from falling
+    down from the earth and being lost.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a brief reported saying and does not explain the wider
+    cosmology.
+- id: motif:3
+  label: Food placed for a celestial figure
+  taxonomy_refs: []
+  basis: The sun is said to go to Kiwalabya to eat plantain peelings placed there
+    for her.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The text does not state who places the peelings there or whether this
+    is a rite, offering, or narrative image.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2414-2416
+  quote_or_summary: '"The  sun  was  the  Baganda  timepiece."'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2416-2418
+  quote_or_summary: At sunset the saying reports that the sun has gone to Kiwalabya
+    to eat plantain peelings placed there for her.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2418-2421
+  quote_or_summary: The people of Nakakakulu take the sun by the horns and keep her
+    from falling down from the earth and being lost.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2421-2423
+  quote_or_summary: The people of Nakakakulu send the sun back across the earth to
+    the East by night, and she is ready for the next day's journey the following morning.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2424-2449
+  quote_or_summary: The passage describes road and land measures, including mitala,
+    nsuku, misirye, the foot for felled trees, outstretched arms for house spacing,
+    the cubit, and the span.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2450-2489
+  quote_or_summary: The passage describes commodity and beer measures using baskets,
+    packets, bundles, gourds, and a brewing tub, including measures for salt, coffee,
+    sweet potatoes, firewood, grass, reeds, and beer.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 2490-2528
+  quote_or_summary: The passage says counting presented no difficulty, perhaps because
+    of cowry-shell use, and lists number terms from one through two hundred.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is direct from the supplied passage. Motif classification
+    is limited because the passage gives only a brief reported saying and the available
+    taxonomy lacks a dedicated solar-cycle category. No external comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Measurement and counting material was recorded as literal context rather than interpreted as mythic motif.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l2414-l2528
+  passage_sha256=b68c2d58b26f4abf99347df8b2e71bca4bf5fe92e86936c07883cd2ed18fc363
+

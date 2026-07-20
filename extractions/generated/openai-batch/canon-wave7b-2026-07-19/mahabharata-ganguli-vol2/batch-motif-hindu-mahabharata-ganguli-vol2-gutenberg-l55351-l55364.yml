@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l55351-l55364
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION CLXVI / SECTION CLXVII / SECTION CLXVIII / SECTION CLXIX; lines 55351-55364
+  start: '55351'
+  end: '55364'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Sire, O chief of the Bharatas, slew son, and son, from ignorance, slew sire,
+    and friend slew friend.
+  summary: In a fierce night battle, blazing lamps disperse dust and darkness and
+    illuminate the battlefield, but combatants still fail to recognize allies and
+    kin, leading to mutual slaughter among relatives, friends, and men of the same
+    side.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Blazing lamps are compared to the sun destroying thick gloom and are said
+    to destroy the darkness of the battle.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sky, earth, and directions had been enveloped by dust and darkness and
+    became illuminated by the lamps' light.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The light of the blazing lamps overshadowed the splendour of weapons, coats
+    of mail, and jewels of heroes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: During the night battle, combatants could not know the warriors of their own
+    side.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Fathers, sons, friends, relatives, maternal uncles, sisters' sons, warriors,
+    foes, and men of the same side slew one another in the nocturnal encounter.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: All fought furiously and ceased to have regard for one another.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: combatants
+  description: Warriors engaged in the fierce battle at night who could not recognize
+    men of their own side.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: kin and allies
+  description: Fathers, sons, friends, relatives, maternal uncles, sisters' sons,
+    and warriors of the same side involved in mutual killing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: foes
+  description: Enemy combatants who slew their own men in the battle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: night-battle combatants unable to recognize allies
+  assigned_to:
+  - fig:1
+  basis: The passage states that none of the combatants could know the warriors of
+    his own side during the night battle.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: kinsmen and allies killing one another through ignorance
+  assigned_to:
+  - fig:2
+  basis: The passage lists fathers, sons, friends, relatives, maternal uncles, sisters'
+    sons, and warriors of the same side slaying one another.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: foes caught in reciprocal confusion
+  assigned_to:
+  - fig:3
+  basis: The passage says foes slew their own men in the battle.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: blazing lamps
+  literal_form: blazing lamps whose light illuminates the battlefield
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: dust and darkness
+  literal_form: dust and darkness covering the sky, earth, and directions
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: weapons, mail, and jewels
+  literal_form: weapons, coats of mail, and jewels of illustrious heroes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Illumination of the nocturnal battlefield
+  summary: Blazing lamps dispel the battle's gloom, illuminating the sky, earth, directions,
+    and battlefield while outshining the brilliance of weapons, armor, and jewels.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Confused slaughter among kin and allies
+  summary: In the fierce night encounter, combatants fail to recognize their own side
+    and kill relatives, friends, allies, and their own men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: light dispelling battlefield darkness
+  taxonomy_refs: []
+  basis: The passage compares the lamps to the sun destroying gloom and says their
+    light illuminates the battlefield after dust and darkness had enveloped it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage uses an explicit simile of sunlight and lamp-light, but does
+    not develop a broader sacred or cosmic light motif.
+- id: motif:2
+  label: chaotic night battle causing kin and allies to kill one another
+  taxonomy_refs:
+  - chaos
+  basis: The night battle removes recognition and social regard, leading fathers,
+    sons, friends, relatives, allies, and foes to slay their own people.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy link to chaos is thematic; the passage itself presents battlefield
+    disorder rather than a cosmological chaos episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 55351-55354
+  quote_or_summary: '"As the sun, encountering the thick gloom, destroys it completely,
+    even so the thick gloom of the battle was destroyed by those blazing lamps."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 55354-55356
+  quote_or_summary: The sky, earth, and compass directions, enveloped by dust and
+    darkness, became illuminated by the lamps' light.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 55356-55358
+  quote_or_summary: The light of the blazing lamps overshadowed the splendour of weapons,
+    coats of mail, and jewels of illustrious heroes.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 55358-55360
+  quote_or_summary: '"none of the combatants, O Bharata, could know the warriors of
+    his own side."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: 55360-55363
+  quote_or_summary: Fathers slew sons, sons slew fathers, friends slew friends, relatives
+    slew relatives, maternal uncles slew sisters' sons, warriors slew their own side,
+    and foes slew their own men.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: 55363-55364
+  quote_or_summary: '"all fought furiously, ceasing to have any regard for one another."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strongly supported by the passage. Motif assignment
+    is limited to a general chaos/battlefield-disorder pattern and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l55351-l55364
+  passage_sha256=5e6c3606339066ae0360344fc9119bf6595ddd6e6b3cb3d4a5322c33659b1e99
+

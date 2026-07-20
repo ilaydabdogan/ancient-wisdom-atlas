@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l8395-l8415
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: FOOD TABOOS. / PLACE TABOOS. / NAME TABOOS. / SEX TABOOS.; lines 8395-8415
+  start: '8395'
+  end: '8415'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: Continence is insisted on when making a new garden.
+  summary: The passage describes sexual continence required during new garden-making
+    and certain Motu fishing or net-making contexts, restrictions on menstruating
+    women entering new gardens and sleeping arrangements, and the absence of a special
+    ceremony or special avoidance at first menstruation.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Continence is required when making a new garden.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If a man making a new garden approaches his wife, his yams are said to grow
+    poorly.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Among the Motu, the same restriction applies to the master of a turtle or
+    dugong fishing party and to anyone connected with making new turtle or dugong
+    nets.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sexual restrictions are also stated to apply to the captain and crew of a
+    lakatoi, though the details are referred to another page.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A menstruous woman may not enter a new garden made during the last planting
+    season, whether or not it is bearing fruit.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A menstruous woman may enter gardens from previous seasons and fetch food
+    from them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A menstruous woman may fetch water and cook food.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A menstruous woman occupies the same house as her husband but sleeps apart
+    from him.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A menstruous woman should not leave the house at night.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: When catamenia first appear, there is no special ceremony and the girl is
+    not specially avoided or considered especially dangerous.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: man making a new garden
+  description: A man employed in making a new garden, subject to continence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: wife
+  description: The wife whom the garden-making man must not approach during the restricted
+    period.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Motu master of a turtle or dugong fishing party
+  description: The master of a turtle or dugong fishing party, to whom the same sexual
+    restriction applies among the Motu.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: makers of new turtle or dugong nets
+  description: Persons connected with making new turtle or dugong nets, subject to
+    the same restriction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: captain and crew of a lakatoi
+  description: The captain and crew of a lakatoi, noted as having sexual restrictions
+    described elsewhere.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: menstruous woman
+  description: A woman during menstruation, restricted from entering a new garden
+    and instructed to sleep apart from her husband and stay in the house at night.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: husband of menstruous woman
+  description: The husband who shares the same house with the menstruous woman while
+    sleeping apart from her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: girl at first catamenia
+  description: A girl when catamenia first appear, for whom no special ceremony or
+    special avoidance is described.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: person under sexual restriction
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage states that continence or sexual restrictions apply to these
+    persons in connection with gardening, fishing, net-making, or lakatoi voyaging.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: spouse connected to separation or avoidance
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: The wife is not to be approached by the garden-making man; the husband shares
+    a house with the menstruous woman but sleeps apart from her.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: party leader
+  assigned_to:
+  - fig:3
+  basis: The passage calls this figure the master of a turtle or dugong fishing party.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: menstruating person under place and sleeping restrictions
+  assigned_to:
+  - fig:6
+  basis: The passage restricts a menstruous woman from entering a new garden and says
+    she sleeps apart and should not leave the house at night.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: girl at first menstruation without special rite
+  assigned_to:
+  - fig:8
+  basis: The passage says no special ceremony occurs when catamenia first appear and
+    that the girl is not specially avoided or considered especially dangerous.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: new garden
+  literal_form: new garden made during the last planting season
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: yams
+  literal_form: yams whose growth is said to be poor if the man approaches his wife
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: turtle or dugong fishing party
+  literal_form: turtle or dugong fishing party led by a master
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: turtle or dugong nets
+  literal_form: new turtle or dugong nets
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: lakatoi
+  literal_form: lakatoi with captain and crew
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: water
+  literal_form: water fetched by the menstruous woman
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: house at night
+  literal_form: house occupied at night by the menstruous woman, who should not leave
+    it
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Continence during productive work
+  summary: A man making a new garden must observe continence; failure to do so is
+    linked in the passage to poor yam growth. Similar restrictions are said to apply
+    to certain Motu fishing, net-making, and lakatoi contexts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Restrictions on menstruous woman
+  summary: A menstruous woman may not enter a new garden but may enter older gardens,
+    fetch food and water, and cook. She stays in the same house as her husband, sleeps
+    apart from him, and should not leave the house at night.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: First catamenia without special ceremony
+  summary: At the first appearance of catamenia, the passage reports no special ceremony
+    and no special avoidance or heightened danger attributed to the girl.
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sexual continence protecting garden or subsistence success
+  taxonomy_refs: []
+  basis: The passage links continence during new garden-making to the proper growth
+    of yams and extends the restriction to Motu turtle or dugong fishing and net-making
+    contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents an ethnographic rule rather than a narrative myth;
+    no broader taxonomy reference is directly supported.
+- id: motif:2
+  label: menstrual restriction from newly planted or newly productive space
+  taxonomy_refs: []
+  basis: A menstruous woman is barred from entering a new garden made during the last
+    planting season, while older gardens are permitted.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not state the reason for the restriction.
+- id: motif:3
+  label: temporary domestic separation during menstruation
+  taxonomy_refs: []
+  basis: The menstruous woman remains in the same house as her husband but sleeps
+    apart and should not leave the house at night.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe a ritual procedure or mythic explanation
+    for the separation.
+- id: motif:4
+  label: absence of special menarche rite
+  taxonomy_refs: []
+  basis: The passage explicitly states that no special ceremony occurs at first catamenia
+    and that the girl is not specially avoided or considered especially dangerous.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a negative ethnographic observation rather than a positive motif
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8395-8399
+  quote_or_summary: '"Continence is insisted on when making a new garden. If a man
+    so employed approach his wife his yams will grow but poorly."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8399-8402
+  quote_or_summary: Among the Motu, the same restriction applies to the master of
+    a turtle or dugong fishing party and to anyone connected with making new turtle
+    or dugong nets.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8402-8405
+  quote_or_summary: The passage notes sexual restrictions on the captain and crew
+    of a lakatoi, with details referred to another page, and also refers to pregnancy
+    and puerperium restrictions elsewhere.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 8406-8409
+  quote_or_summary: '"A menstruous woman may not enter a ''new'' garden" made during
+    the last planting season, whether bearing fruit or not.'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8409-8411
+  quote_or_summary: A menstruous woman may enter and fetch food from a garden of any
+    previous season, and may fetch water and cook food.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8411-8413
+  quote_or_summary: She occupies the same house as her husband, sleeps apart from
+    him, and should not leave the house at night.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8414-8415
+  quote_or_summary: When catamenia first appear, there is no special ceremony, and
+    the girl is not specially avoided or considered especially dangerous.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about taboos and restrictions, but it is ethnographic
+    description rather than mythic narrative; motif labels are therefore cautious
+    and taxonomy links are mostly left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no comparison claims added because the passage itself does not support a specific comparative claim.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l8395-l8415
+  passage_sha256=a1ccae1cd64306eba78fe0eb097b7e7352a9b226e20d28702dd90bb61600fd59
+

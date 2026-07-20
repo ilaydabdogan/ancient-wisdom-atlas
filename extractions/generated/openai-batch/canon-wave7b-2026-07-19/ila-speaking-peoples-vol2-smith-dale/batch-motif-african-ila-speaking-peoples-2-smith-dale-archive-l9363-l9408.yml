@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l9363-l9408
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: VOL. II Q / CHAPTER XXV / THE BA-ILA AT PLAY / PLAYING CHISOLO.; lines 9363-9408
+  start: '9363'
+  end: '9408'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes rules and terminology for playing a variety of Chisolo
+    called natatu. Two players arrange stones in rows of holes, move in fixed directions,
+    distribute stones one by one, and capture an opponent’s stones by landing in a
+    specified opposite empty hole. It also describes an extended relay move called
+    kusuntula and refers to diagrams illustrating marked holes and numbered positions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section concerns playing Chisolo and introduces a variety called natatu,
+    translated as “the one of three,” because most starting holes contain three stones.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Each player has 33 stones and places them in the holes nearest to him; this
+    placement is called kushanga, “planting.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Most holes begin with three stones, while the last four holes on the player’s
+    right hand in the second row begin with 2, 1, 0, and 0 stones.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Players may move only in one direction, with the nearer row moving right to
+    left and the farther row moving left to right.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The opening move is called kubingula, and later moves are called kuteka, translated
+    as “to draw water.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A player selects a hole, removes its stones, and drops them one by one into
+    following holes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A capture occurs when the last dropped stone lands in an otherwise empty hole
+    directly opposite an occupied hole of the opponent.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Taking all stones directly opposite the landing hole is called kudya, “to
+    eat.”
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After eating, the player may remove all stones from any other hole of the
+    opponent; this is called kusuwa, “to snatch.”
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A move called kusuntula, “to lift up,” continues by taking all stones from
+    the last hole reached and dropping them into succeeding holes until the final
+    stone lands in an empty hole.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage says a player may go around the board two or three times during
+    a kusuntula move, moving rapidly.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: A diagram illustrates the suntula move with rows of circular marks and numbered
+    positions.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Player A
+  description: A plan-labeled player in the Chisolo example, with a specified movement
+    direction in the board diagram.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Player B
+  description: The other plan-labeled player in the Chisolo example, with a specified
+    movement direction in the board diagram.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Chisolo/natatu player
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that each player has stones and gives movement directions
+    for A and B in the plan.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Mover and potential capturer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The rules describe a player selecting a hole, dropping stones, and potentially
+    taking an opponent’s stones when the landing condition is met.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Rows of holes
+  literal_form: Holes nearest to the player and a farther row used for directional
+    movement and stone placement.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Stones or men
+  literal_form: Thirty-three stones per player, also called men, placed in holes and
+    dropped one by one during moves.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Three-stone starting pattern
+  literal_form: The name natatu, “the one of three,” and the initial arrangement of
+    three stones in most holes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: Empty hole opposite occupied hole
+  literal_form: An otherwise empty hole immediately opposite an opponent’s occupied
+    hole, creating the condition for capture.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Eaten and snatched hole marks
+  literal_form: The plan marks eaten holes with • and snatched holes with 0.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Suntula diagram
+  literal_form: Rows of circular marks and numbered positions used to illustrate the
+    suntula move.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Natatu setup
+  summary: The players prepare for the Chisolo variety natatu by planting 33 stones
+    each in their nearest holes, with three stones in most holes and a specified 2,
+    1, 0, 0 arrangement in the last four right-hand holes of the second row.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Directional movement and capture
+  summary: A player moves in the prescribed direction, removes stones from a selected
+    hole, drops them one by one into following holes, and may capture if the last
+    stone lands in an empty hole opposite an occupied opponent hole. The capture is
+    called eating, and an additional removal is called snatching.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Kusuntula relay move
+  summary: In the kusuntula move, the player continues by lifting stones from the
+    last hole reached and distributing them onward, sometimes circling the board multiple
+    times before ending in an empty hole.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Sowing distribution through board holes
+  taxonomy_refs: []
+  basis: The rules describe placing or planting stones and then dropping them one
+    by one through successive holes during play.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a gameplay pattern, not a mythological motif in the passage.
+- id: motif:2
+  label: Capture by opposite alignment
+  taxonomy_refs: []
+  basis: A player captures when the last stone lands in an empty hole directly opposite
+    an opponent’s occupied hole.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only the board-game rule; no wider symbolic meaning
+    is stated.
+- id: motif:3
+  label: Capture named as eating and snatching
+  taxonomy_refs: []
+  basis: The passage names one capture action kudya, “to eat,” and a further removal
+    kusuwa, “to snatch.”
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The terms are supplied as game terminology; no ritual, mythic, or cosmological
+    interpretation is provided.
+- id: motif:4
+  label: Relay lifting move around the board
+  taxonomy_refs: []
+  basis: The kusuntula move lifts stones from the last hole reached and continues
+    distribution, potentially going around the board multiple times.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a procedural pattern within play.
+- id: motif:5
+  label: Agricultural and water action vocabulary in game terms
+  taxonomy_refs: []
+  basis: Initial placement is called “planting,” and subsequent moves are called kuteka,
+    translated as “to draw water.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage only translates the terms; it does not state that these names
+    carry symbolic or mythic significance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9363-9369
+  quote_or_summary: The section is titled “Playing Chisolo” and introduces natatu,
+    “the one of three,” a variety named because most starting holes contain three
+    stones.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 9370-9376
+  quote_or_summary: Each player has 33 stones and plants them in the nearest holes,
+    with three stones in most holes except the last four right-hand holes in the second
+    row, which contain 2, 1, 0, and 0.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: 9377-9383
+  quote_or_summary: 'Players move only in one direction: the nearer row right to left
+    and the farther row left to right. The plan gives directions for A and B. The
+    opening move is kubingula; later moves are kuteka, “to draw water.”'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: 9384-9394
+  quote_or_summary: A player selects a hole, takes out the stones, and drops them
+    one by one. If the final stone lands in an empty hole opposite an occupied opponent’s
+    hole, he takes the opposite stones, called kudya, “to eat,” and may also remove
+    stones from another opponent hole, kusuwa, “to snatch.”
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: 9395-9405
+  quote_or_summary: Kusuntula, “to lift up,” continues by taking all stones from the
+    last hole reached and dropping them into succeeding holes until the last stone
+    drops into an empty hole; players may circle the board two or three times rapidly.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: 9406-9408
+  quote_or_summary: A diagram is supplied to illustrate the suntula move, using rows
+    of circular or letter-like marks and numbered positions 1 through 8.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The rules and objects are explicit in the passage. Candidate motifs are treated
+    as gameplay patterns rather than mythological motifs. No comparison claims were
+    extracted because the passage itself gives no cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage is an ethnographic rule description for a board game. It does not provide a mythic narrative, ritual explanation, or explicit comparative claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l9363-l9408
+  passage_sha256=5433518e0ca6dfb7064af74ee98493adf9ea8b60b87b563e856d7fb3029f10c7
+

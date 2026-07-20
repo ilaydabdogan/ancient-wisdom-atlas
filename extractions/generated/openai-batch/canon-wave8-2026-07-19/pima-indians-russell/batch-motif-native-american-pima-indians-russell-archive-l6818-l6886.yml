@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l6818-l6886
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: POTTERY / BASKETRY / THE VTMA INDIANS / ABTIFACTS; lines 6818-6886
+  start: '6818'
+  end: '6886'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes minor artifact types: rectangular trinket baskets,
+    medicine baskets, food bowls used by warriors, agave-leaf head rings, and oval
+    willow-rod sieves, with notes on materials, forms, manufacture, use, and association
+    with Papago sources or adoption.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rectangular trinket baskets are made of agave leaves, and nearly all are obtained
+    from the Papagos because Pima women seldom make them.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rectangular trinket baskets are deeper than broad, somewhat enlarged at the
+    bottom, provided with lids, and made in a twined style of weaving.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The trinket basket lid is described through cut warp splints and folded weft
+    construction that conceals the splint ends.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Medicine baskets are made of the same material and weaving style as trinket
+    baskets and have a long, square-cornered shape with rounded margin.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Medicine baskets are made in two nearly equal parts, with one part slipping
+    over the other as a lid.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Food bowls of fine workmanship and graceful shape were carried by warriors
+    on the warpath.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Food bowls were used to mix pinole and also served as drinking cups; they
+    were light, described as indestructible, no longer made, and only two were seen
+    on the reservation.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: Agave-leaf head rings are occasionally seen and are supposed to have been
+    adopted from the Papagos.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Oval sieves were made of willow rods and used for cleaning seeds and separating
+    juice from pulp in various plants.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Pima women
+  description: Women identified as seldom making rectangular trinket baskets.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Papagos
+  description: Neighboring group from whom nearly all rectangular trinket baskets
+    are obtained and from whom agave-leaf head rings are supposed to have been adopted.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Warriors
+  description: Warriors are described as carrying food bowls on the warpath.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: seldom-maker of rectangular trinket baskets
+  assigned_to:
+  - fig:1
+  basis: The passage says Pima women seldom make rectangular trinket baskets.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: source or attributed source of adopted artifacts
+  assigned_to:
+  - fig:2
+  basis: The passage states that nearly all rectangular trinket baskets are obtained
+    from the Papagos and that head rings are supposed to have been adopted from them.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: warpath carrier and user of food bowls
+  assigned_to:
+  - fig:3
+  basis: The passage states that food bowls were carried by warriors on the warpath.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Rectangular trinket basket
+  literal_form: Agave-leaf twined basket, deeper than broad, enlarged at the bottom,
+    and provided with a lid.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Medicine basket
+  literal_form: Agave-leaf twined basket, long and square-cornered with rounded margin,
+    made in two lidded parts.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Food bowl
+  literal_form: Fine, graceful, light bowl carried by warriors for mixing pinole and
+    drinking.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Agave-leaf head ring
+  literal_form: Head ring made of agave leaf, occasionally seen and attributed to
+    Papago adoption.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Oval sieve
+  literal_form: Willow-rod oval sieve used in seed cleaning and plant-pulp processing.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Rectangular trinket basket description and provenance
+  summary: The passage describes the rectangular trinket basket as an agave-leaf twined
+    object mostly obtained from Papagos rather than made by Pima women, then gives
+    its form and lid construction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Medicine basket form
+  summary: The passage describes medicine baskets as similar in material and weaving
+    to trinket baskets, with a characteristic long, square-cornered, rounded-margin
+    form and a two-part lidded construction.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Warpath use of food bowls
+  summary: The passage states that warriors carried finely made food bowls on the
+    warpath and used them for mixing pinole and as drinking cups.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Head rings and sieves
+  summary: The passage notes agave-leaf head rings as occasional artifacts attributed
+    to Papago adoption and describes willow-rod oval sieves used in processing seeds
+    and plant materials.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Neighboring-group artifact transmission
+  taxonomy_refs: []
+  basis: The passage explicitly links rectangular trinket baskets and agave-leaf head
+    rings to Papago sourcing or adoption.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: This is an ethnographic material-culture pattern, not a mythological motif;
+    no ritual or symbolic meaning is stated.
+- id: motif:2
+  label: Warrior’s portable food-and-drink vessel
+  taxonomy_refs: []
+  basis: Food bowls are described as carried by warriors on the warpath and used for
+    mixing pinole and drinking.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage gives practical use only; it does not present this as a narrative
+    or sacred motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a historical-contact or material-exchange claim between
+    Pima and Papago communities for rectangular trinket baskets, since nearly all
+    are said to be obtained from the Papagos while Pima women seldom make them.
+  claim_level: historical_contact
+  target: Pima and Papago rectangular trinket basket traditions
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the supplied ethnographic statement and does
+    not establish broader distribution, chronology, or symbolic meaning.
+- id: claim:2
+  claim: The passage supports a tentative historical-contact claim for agave-leaf
+    head rings, which are said to have been adopted from the Papagos.
+  claim_level: historical_contact
+  target: Pima and Papago agave-leaf head ring traditions
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage phrases the adoption as supposed, so the claim should remain
+    tentative without additional corroboration.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6818-6828
+  quote_or_summary: Rectangular trinket baskets are made of agave leaves; nearly all
+    are obtained from the Papagos because Pima women seldom make them.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 6828-6846
+  quote_or_summary: The rectangular trinket baskets are described as deeper than broad,
+    enlarged at the bottom, lidded, twined, and constructed with cut splints and folded
+    weft around the lid.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 6847-6857
+  quote_or_summary: Medicine baskets are described as the same material and weaving
+    style as trinket baskets, long and square-cornered with rounded margin, and made
+    in two nearly equal parts, one slipping over the other as a lid.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6858-6868
+  quote_or_summary: Food bowls of fine workmanship and graceful shape were carried
+    by warriors on the warpath and used to mix pinole and as drinking cups.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 6869-6874
+  quote_or_summary: The food bowls are described as light and indestructible; they
+    are no longer made, and only two were seen on the reservation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 6875-6879
+  quote_or_summary: Agave-leaf head rings are occasionally seen and are supposed to
+    have been adopted from the Papagos.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 6880-6886
+  quote_or_summary: Oval sieves were made of willow rods and used in cleaning seeds
+    and separating juice from pulp in various plants.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The artifact descriptions are explicit, but motif-level relevance is limited
+    because the passage is ethnographic and practical rather than mythic or ritual.
+    Papago comparison claims are directly supported, though one is phrased as tentative
+    in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned, because the passage does not state mythological, ritual, or symbolic associations for the artifacts.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l6818-l6886
+  passage_sha256=9d7789d4130d06dc1a6c0433fb7801e8965f08fb4d8e1d83908994ba6908ae63
+

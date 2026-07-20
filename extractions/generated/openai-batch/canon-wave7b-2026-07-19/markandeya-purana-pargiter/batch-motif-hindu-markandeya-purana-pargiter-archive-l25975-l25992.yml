@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l25975-l25992
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: CANTO LXXXL / YICTOBY OP THE ASORAS OTEB THE OOBS. / Canto LXXXIL / CANTO
+    LXXXIL; lines 25975-25992
+  start: '25975'
+  end: '25992'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The deep breaths, which Ambika fighting in the battle breathed forth, came
+    into real being at once as troops by hundreds and thousands.
+  summary: During battle, the goddess Ambika is praised by gods and rishis, hurls
+    weapons at the Asuras, and is accompanied by her enraged lion. Her breaths become
+    large numbers of troops, who fight with weapons and destroy Asura bands.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Gods and rishis praise the goddess.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The queenly goddess hurls weapons and arms at the bodies of the Asuras.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The lion that bears the goddess is enraged, has a ruffled mane, and stalks
+    among the armies of Asuras.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The lion’s movement among the Asura armies is compared to fire moving through
+    forests.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ambika’s deep breaths during battle become real troops at once, numbering
+    by hundreds and thousands.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The troops produced from Ambika’s breaths fight with axes, javelins, swords,
+    and halberds.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The troops destroy the Asura bands.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ambika / queenly goddess
+  description: A goddess fighting in battle, praised by gods and rishis, who hurls
+    weapons at Asuras and breathes forth troops.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: gods and rishis
+  description: Divine and sage figures praising the goddess.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Asuras
+  description: Opposing armies and bands targeted by the goddess, her lion, and the
+    troops from her breaths.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: lion bearing the goddess
+  description: An enraged lion with ruffled mane that bears the goddess and stalks
+    among the Asura armies.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: troops from Ambika’s breaths
+  description: Troops that come into real being from Ambika’s deep breaths by hundreds
+    and thousands and fight with weapons.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: praised divine combatant
+  assigned_to:
+  - fig:1
+  basis: The goddess is praised by gods and rishis while fighting the Asuras.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: creator of battle troops by breath
+  assigned_to:
+  - fig:1
+  basis: Ambika’s deep breaths come into real being as troops by hundreds and thousands.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: praisers
+  assigned_to:
+  - fig:2
+  basis: The gods and rishis are described as praising the goddess.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: enemy host
+  assigned_to:
+  - fig:3
+  basis: The Asuras are the target of the goddess’s weapons, the lion’s advance, and
+    the troops’ destruction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: divine mount and combatant
+  assigned_to:
+  - fig:4
+  basis: The lion bears the goddess and stalks among the Asura armies in an enraged
+    state.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: emanated auxiliary fighters
+  assigned_to:
+  - fig:5
+  basis: The troops arise from Ambika’s breaths and fight the Asura bands with weapons.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: weapons and arms
+  literal_form: Weapons and arms hurled by the goddess; axes, javelins, swords, and
+    halberds used by the troops.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: lion mount
+  literal_form: The enraged lion bearing the goddess, with ruffled mane, moving among
+    Asura armies.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: breath becoming troops
+  literal_form: Ambika’s deep breaths becoming real troops by hundreds and thousands.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: fire in forest simile
+  literal_form: Fire through the forests, used as a comparison for the lion’s movement
+    among Asura armies.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Goddess attacks while praised
+  summary: The gods and rishis praise the goddess as she hurls weapons and arms at
+    the Asuras.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lion moves through the Asura armies
+  summary: The enraged lion that bears the goddess stalks among the Asura armies and
+    is compared to fire moving through forests.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ambika’s breaths become troops
+  summary: Ambika’s deep breaths during battle become numerous troops who fight with
+    weapons and destroy Asura bands.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine combat against Asura armies
+  taxonomy_refs: []
+  basis: The passage centers on the goddess, her lion, and generated troops attacking
+    and destroying Asura forces.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage supplies a battle episode but does not itself name a broader
+    comparative motif family.
+- id: motif:2
+  label: divine emanation of auxiliary warriors from breath
+  taxonomy_refs: []
+  basis: Ambika’s deep breaths become real troops by hundreds and thousands who join
+    the battle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The extracted motif is limited to the literal breath-to-troops transformation
+    in this passage.
+- id: motif:3
+  label: divine animal mount as battlefield agent
+  taxonomy_refs: []
+  basis: The lion that bears the goddess is depicted as enraged and moving among the
+    Asura armies.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage describes the lion’s battlefield movement but does not explicitly
+    state independent attacks in the quoted lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25975-25976, verse 50
+  quote_or_summary: The gods and rishis are praising the goddess.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 25976-25977, verse 50
+  quote_or_summary: The queenly goddess hurls weapons and arms at the Asuras’ bodies.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 25977-25980, verses 50-51
+  quote_or_summary: The lion bearing the goddess, enraged and with ruffled mane, stalks
+    among Asura armies like fire through forests.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 25980-25983, verse 52
+  quote_or_summary: "“Ambika fighting in the battle breathed forth” deep breaths that
+    “came into real being at once as troops by hundreds and thousands.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 25983-25985, verses 52-53
+  quote_or_summary: The troops fight with axes, javelins, swords, and halberds, destroying
+    Asura bands.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward despite OCR errors in the passage.
+    Motif labels are descriptive and not tied to a supplied taxonomy family except
+    for the supported fire symbol. No comparison claims are made because the passage
+    itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR spellings such as “Asnras” and “gnddess” have been normalized in summaries as Asuras and goddess where context is clear.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l25975-l25992
+  passage_sha256=05dfd0d36338ca292425418202e5459c2e658d4d82007a751ea26365a65c2f5f
+

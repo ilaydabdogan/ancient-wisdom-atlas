@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-baffin-hudson-2-boas-archive-l3261-l3413
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+passage_locator:
+  label: INTRODUCTORY. / II. MATERIAL CULTURE. / SOUTHAMPTON ISLAND. / COMPARISON
+    OF TYPES.; lines 3261-3413
+  start: '3261'
+  end: '3413'
+  translation: The Eskimo of Baffin Land and Hudson Bay, Part II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes stone kettles and harpoon-points from Southampton
+    Island, Frozen Strait, and related Arctic regions. It records kettle shape, decoration,
+    size, and possible use of a miniature kettle, then classifies harpoon-points by
+    barbs, blade orientation, perforations, grooves, point materials, age, and construction
+    function.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A described stone kettle has a flat bottom, low sides, a rim set off from
+    the body, a single groove for decoration, approximate dimensions, and a suspension
+    hole at the narrow end.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the grooved kettle decoration occurs frequently in
+    the local region, southern Baffin Land, and Labrador.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Captain Comer collected a very small, flat, dish-shaped kettle of the same
+    kind, described as possibly a toy or a grave deposit; it has a flat bottom, a
+    shallow rim, and no perforations.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage presents typical harpoon-points from Southampton Island and Frozen
+    Strait, including a common type with two barbs and a blade parallel to the barbs.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Old specimens obtained by Captain Comer have two holes at the base of the
+    barbs, with sinew thread or thin thongs passed through them to lengthen the socket
+    and improve the hold on the harpoon shaft.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that, in old examples, the paired holes are generally connected
+    across the back by a groove that sinks the sinew thread; modern harpoons lack
+    these perforations.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: One group of harpoon-heads has a shallow notch between the barbs, fairly uniform
+    dimensions, and includes specimens described as old as well as some that seem
+    more modern.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A second group of harpoon-heads has a longer barbed portion and two perforations,
+    apparently to give the foreshaft point a better hold; many specimens in this group
+    are described as modern and include metal-point variants.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Captain Comer
+  description: Collector mentioned as having collected a miniature dish-shaped kettle
+    and obtained old harpoon specimens.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: collector of artifacts
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says Captain Comer collected the miniature kettle
+    and obtained old harpoon specimens.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: flat stone kettle with grooved rim
+  literal_form: Flat-bottomed stone kettle with low sides, set-off rim, single groove,
+    and suspension hole
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: miniature dish-shaped kettle
+  literal_form: Very small flat dish-shaped kettle, shallow, flat-bottomed, without
+    perforations
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: two-barbed harpoon-point
+  literal_form: Harpoon-point with two barbs and blade parallel to the barbs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: harpoon perforations and groove for sinew
+  literal_form: Paired holes at the base of barbs, connected by a groove, through
+    which sinew thread or thin thongs pass
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: longer-barbed harpoon-head subgroup
+  literal_form: Harpoon-head with longer barbed portion and two perforations for holding
+    the foreshaft point
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Stone kettle description and regional comparison
+  summary: The passage describes the form, decoration, dimensions, suspension hole,
+    and regional distribution of a flat stone kettle type, and notes a miniature dish-shaped
+    example collected by Captain Comer.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Harpoon-point typology
+  summary: The passage classifies harpoon-points from Southampton Island and Frozen
+    Strait by barb form, blade orientation, perforations, grooves, materials, and
+    apparent age.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: 'Artifact pattern: grooved-rim flat stone kettle'
+  taxonomy_refs: []
+  basis: The passage identifies a flat-bottomed low-sided kettle with a set-off rim
+    and single groove, and says this decoration occurs across multiple Arctic regions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a material-culture pattern, not a mythological narrative motif;
+    no symbolic meaning is stated.
+- id: motif:2
+  label: 'Artifact pattern: miniature kettle as toy or grave deposit'
+  taxonomy_refs: []
+  basis: The passage describes a very small dish-shaped kettle and states it was evidently
+    either used as a toy or deposited at a grave.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The use is presented as an authorial inference with two alternatives;
+    the passage does not confirm which use applies.
+- id: motif:3
+  label: 'Artifact pattern: two-barbed harpoon-point with parallel blade'
+  taxonomy_refs: []
+  basis: The passage presents this as the most common harpoon-point type in the described
+    series.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a technical typological pattern, not a mythic motif.
+- id: motif:4
+  label: 'Artifact pattern: sinew-thread perforations and grooves on harpoon-points'
+  taxonomy_refs: []
+  basis: The passage describes paired holes and connecting grooves used to pass sinew
+    or thongs, lengthen the socket, and improve attachment to the harpoon shaft.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The functional explanation is drawn from the passage; no ritual or symbolic
+    function is stated.
+- id: motif:5
+  label: 'Artifact pattern: longer-barbed harpoon-head with added perforations'
+  taxonomy_refs: []
+  basis: The passage distinguishes a second harpoon-head group with a longer barbed
+    portion and two perforations intended to improve the foreshaft hold.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is an artifact subgroup within the author’s typology, not a narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a visual-similarity comparison between the grooved-rim
+    kettle decoration in this region and similar decoration in southern Baffin Land
+    and Labrador.
+  claim_level: visual_similarity
+  target: Grooved stone-kettle decoration in southern Baffin Land and Labrador
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states distribution and similarity of decoration but does
+    not establish historical contact, chronology, or symbolic meaning.
+- id: claim:2
+  claim: The passage supports a same-function comparison among thin old harpoon-points
+    with paired holes and grooves used to pass sinew or thongs for socket extension
+    and stronger shaft attachment.
+  claim_level: same_function
+  target: Thin harpoon-points with paired base perforations and connecting grooves
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The function is described as evident by the author, but the passage
+    does not provide independent experimental or ethnographic confirmation.
+- id: claim:3
+  claim: The passage supports a diachronic typological contrast between older harpoon-points
+    with perforations and modern harpoons in which those perforations are absent.
+  claim_level: visual_similarity
+  target: Old versus modern harpoon-point forms in the described collection
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The contrast is limited to the specimens and descriptions in this passage;
+    broader chronological conclusions are not established here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3261-3269
+  quote_or_summary: A kettle is described as flat-bottomed, low-sided, with the rim
+    set off from the walls and decorated by a single groove; it has approximate dimensions
+    and one suspension hole.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3263-3267
+  quote_or_summary: The same single-groove kettle decoration is said to be frequent
+    in the region as well as in southern Baffin Land and Labrador.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3275-3282
+  quote_or_summary: Captain Comer collected a very small flat dish-shaped kettle of
+    the same kind, described as evidently either a toy or a grave deposit; it is shallow,
+    flat-bottomed, and lacks perforations.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3283-3303
+  quote_or_summary: A series of typical harpoon-points from Southampton Island and
+    Frozen Strait is described; the most common type has two barbs and a blade parallel
+    to the barbs, with variants for flint, slate, or repaired points.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3304-3328
+  quote_or_summary: Old specimens obtained by Captain Comer have paired holes at the
+    base of the barbs for sinew or thongs; the holes are generally connected by a
+    groove, and modern harpoons lack these perforations.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 3331-3374
+  quote_or_summary: The first harpoon-head group is characterized by a shallow notch
+    between the barbs, fairly uniform form, and a mix of apparently old and more modern
+    specimens with different point attachments.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 3396-3413
+  quote_or_summary: The second harpoon-head group has a longer barbed portion and
+    two perforations intended to improve the foreshaft hold; examples include flint,
+    broken probable metal, and metal-point specimens, many described as modern.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The artifact descriptions and typological comparisons are explicit. Motif
+    confidence is lower because the passage is material-culture description rather
+    than mythological narrative, and no available mythic taxonomy reference is directly
+    supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by this passage. Objects are recorded as material symbols/patterns without asserting ritual or mythic symbolism.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:arctic-inuit-eskimo-baffin-hudson-2-boas-archive__l3261-l3413
+  passage_sha256=2ef9591f81e645ed5d4cc0384f42444d623c6846ff34033734d4487b690efec7
+

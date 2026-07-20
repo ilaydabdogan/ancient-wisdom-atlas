@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l15921-l15966
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: KASHIMS / THE    ESKIMO    ABOUT    BERING    STRAIT / THE    ESKIMO    ABOUT    BERING    STRAIT
+    / VARIOUS    FORMS    OF    HOUSES; lines 15921-15966
+  start: '15921'
+  end: '15966'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes several Bering Strait house forms: an interior fire
+    protected from draft by a stone slab and sleeping platforms; seasonal conical
+    driftwood shelters between Ignituk and Cape Nome used for spring marmot snaring
+    and summer salmon fishing; and north Cape Nome driftwood houses with a roof-entered
+    storeroom, notched ladder, low passages, living rooms, sleeping benches, and a
+    cooking room.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A large flat stone slab was placed on edge between the fire and the door to
+    protect the fire from a draft.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some houses had two sleeping platforms, with one raised only slightly above
+    the floor and another about three feet above it.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Small houses were located on the low sandy coast between Ignituk and Cape
+    Nome and were used during spring marmot snaring or summer salmon fishing.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The summer shelters were conical driftwood lodges formed by standing sticks
+    in a close circle with their tops leaning together; three pieces were first lashed
+    together as a tripod.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Inside the summer shelter, a rough sleeping platform stood at the back, and
+    a narrow vacant space between two wall logs served as the doorway.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: North Cape Nome houses were made of driftwood and had an outer storeroom entered
+    through a roof hole reached by a notched ladder.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A passage about three feet high led from the storeroom through the wall into
+    the plank-floored living room, which had a raised sleeping bench.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Additional passages from the entrance storeroom communicated with other living
+    rooms and with a separate cooking room.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: People between Ignituk and Cape Nome
+  description: People described as using the small coastal houses while snaring marmots
+    in spring or salmon fishing in summer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: seasonal users of coastal shelters
+  assigned_to:
+  - fig:1
+  basis: The passage states that the small houses were used by the people during spring
+    marmot snaring and summer salmon fishing.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire inside the house, protected from draft by a stone slab placed
+    between it and the door.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: conical driftwood shelter
+  literal_form: A conical lodge made from driftwood sticks set in a circle and supported
+    from an initial tripod frame.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: roof entrance with notched ladder
+  literal_form: An entrance through a hole in the roof of an outer storeroom, reached
+    by a notched ladder.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: House interior with protected fire and sleeping platforms
+  summary: The described house interior includes a fire shielded from the door draft
+    by a flat stone slab and sleeping platforms set at different heights.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seasonal coastal conical shelters
+  summary: On the sandy coast between Ignituk and Cape Nome, people used small conical
+    driftwood shelters during spring marmot snaring and summer salmon fishing; the
+    shelters had a rough rear sleeping platform and a narrow doorway between logs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: North Cape Nome house layout
+  summary: North Cape Nome driftwood houses included an outer storeroom entered from
+    the roof by a notched ladder, a low passage into a plank-floored living room with
+    a sleeping bench, further passages to other living rooms, and a cooking room.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: protected hearth within dwelling
+  taxonomy_refs: []
+  basis: A flat stone slab is described as protecting the house fire from the draft
+    caused by the door.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an architectural feature in an ethnographic description, not a
+    mythic or ritual motif in the passage.
+- id: motif:2
+  label: seasonal subsistence shelter
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Small coastal houses are explicitly tied to spring marmot snaring and summer
+    salmon fishing.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage supports a seasonal-use pattern, but does not frame it as
+    a mythological seasonal-cycle motif.
+- id: motif:3
+  label: conical tripod-frame lodge
+  taxonomy_refs: []
+  basis: The summer shelters are described as conical lodges built from driftwood,
+    beginning with three lashed pieces set up like a tripod.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The evidence is architectural and comparative only at the level of form.
+- id: motif:4
+  label: threshold passage from storage space to living space
+  taxonomy_refs: []
+  basis: The north Cape Nome house plan places an outer storeroom at the entrance,
+    with a low passage leading through the wall into the living room and additional
+    passages to other rooms.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a spatial pattern in house construction; the passage gives no
+    symbolic interpretation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the conical summer shelters to an Indian
+    tipi in structural appearance.
+  claim_level: visual_similarity
+  target: Indian tipi
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports only a visual or structural analogy; it does not
+    claim shared origin, historical contact, or identical cultural function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15921-15928
+  quote_or_summary: A flat stone slab stood on edge between the fire and the door
+    to shield the fire from draft; some houses had two sleeping platforms at different
+    heights.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 15929-15935
+  quote_or_summary: A number of small houses on the low sandy coast between Ignituk
+    and Cape Nome were used by people while snaring marmots in spring or salmon fishing
+    in summer.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 15935-15944
+  quote_or_summary: The summer shelters were conical driftwood lodges, made from sticks
+    with their tops leaning together, forming a structure "like an Indian tipi" and
+    begun with three lashed pieces set up as a tripod.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 15944-15948
+  quote_or_summary: Inside the conical shelter was a rough sleeping platform supported
+    on four corner stakes at the back, and a narrow vacant space between wall logs
+    served as a doorway.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 15949-15957
+  quote_or_summary: North Cape Nome houses were built of driftwood with an outer storeroom
+    entered through a roof hole by means of a notched ladder.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 15957-15966
+  quote_or_summary: A low passage led from the storeroom into the plank-floored living
+    room with a raised sleeping bench; other passages led to additional living rooms
+    and a cooking room.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The architecture and seasonal-use details are explicit. Motif candidates
+    are descriptive patterns rather than clearly mythic motifs; the only comparison
+    claim is directly stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage is ethnographic and architectural. Symbol and motif entries are limited to literal objects and observable patterns supported by the text.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l15921-l15966
+  passage_sha256=81ae1798c40559edcec0f51e82a845404e87d5c164f0ea248656b0384131da86
+

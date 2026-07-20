@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l19612-l19655
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CHAPJ / INDUSTRIES / BAGANDA  CANOES  ON  LAKE  SHORE. / C  C  2; lines 19612-19655
+  start: '19612'
+  end: '19655'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Baganda canoe construction: boards are cut from
+    a tree with adzes, workmen observe sexual abstinence during the making, boards
+    and keel are placed in water, creepers are collected and moistened for stitching,
+    and the canoe is assembled without nails or iron by stitching boards to the keel
+    and strengthening them with strips and stretchers.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Workmen cut grooves into a tree, turn it over, cut out rough boards, and trim
+    and smooth them with small adzes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Small adzes are identified as the only tools used in preparing the boards
+    for use.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: While making the canoe, the workmen must refrain from sexual intercourse.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the boards are cut, carried to the lake, and placed in the water, the
+    workmen are allowed to return to normal life.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: While the boards and keel stand in the water, canoe builders go to find creeper
+    for stitching the boards together.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: No nail or iron is used in building the canoes; the sides are stitched to
+    the keel with creepers.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Holes are bored through the boards and keel, and moistened creeper is pulled
+    through them because it is pliable.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The bow boards have bevelled ends that form a sharp angle when stitched together.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Narrow rounded strips of wood cover board joints inside and outside the canoe,
+    with stitches carried over them.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After stitching, a fine wire-like creeper is wound around each stitch to protect
+    it from rubbing or breaking during use.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Stretchers are inserted about two feet apart after the first row of boards
+    is attached to the keel to prevent collapse and strengthen the canoe.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: workmen / canoe builders
+  description: The workers who make the canoe, prepare boards, observe the stated
+    abstinence rule, and collect creepers for stitching.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: canoe builders
+  assigned_to:
+  - fig:1
+  basis: The passage calls them workmen and canoe builders engaged in cutting boards,
+    preparing the canoe, and finding creeper for stitching.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: workers under temporary sexual abstinence restriction
+  assigned_to:
+  - fig:1
+  basis: The passage states that while making the canoe the workmen had to refrain
+    from sexual intercourse until the boards were cut, taken to the lake, and placed
+    in water.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe made from stitched boards and keel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: tree wood
+  literal_form: tree cut into boards for the canoe
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: lake water
+  literal_form: water in which the boards and keel stand
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: creeper stitching
+  literal_form: moistened creeper used to stitch boards and keel together
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: absence of iron fasteners
+  literal_form: canoe construction without nails or iron
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: stretchers
+  literal_form: wooden cross-pieces inserted to strengthen the canoe and keep its
+    sides from collapsing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Cutting and preparing canoe boards
+  summary: Workers cut grooves into a tree, turn it, remove rough boards, and trim
+    and smooth them with small adzes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Abstinence and placing boards in water
+  summary: During canoe making the workmen abstain from sexual intercourse; after
+    the boards are cut, taken to the lake, and placed in water, the restriction ends.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Finding and preparing creepers for stitching
+  summary: While boards and keel stand in water, the builders obtain creepers, moisten
+    them, and use them to stitch boards to the keel without nails or iron.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Stitching, protecting, and strengthening the canoe
+  summary: The builders stitch bevelled bow boards, cover joints with strips, splice
+    short boards when necessary, wind protective creeper around stitches, and insert
+    stretchers for strength.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: temporary sexual abstinence during craft production
+  taxonomy_refs: []
+  basis: The passage states that workmen must refrain from sexual intercourse while
+    making the canoe and may resume normal life only after the boards are cut, brought
+    to the lake, and placed in water.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives the rule but does not explain its religious meaning
+    or connect it to a named ritual system.
+- id: motif:2
+  label: canoe materials placed in water before assembly proceeds
+  taxonomy_refs: []
+  basis: The boards and keel stand in the water while the canoe builders seek creeper
+    for stitching.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The action may be practical rather than symbolic; the passage does not
+    state a ritual interpretation.
+- id: motif:3
+  label: stitched nail-less canoe construction
+  taxonomy_refs: []
+  basis: The passage emphasizes that no nails or iron are used and that boards are
+    stitched to the keel with moistened creepers through bored holes.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a technological pattern in the passage, not necessarily a mythic
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19612-19621
+  quote_or_summary: Workers cut grooves into a tree, turn it over, cut out rough boards,
+    and trim and smooth the boards with small adzes, the only tools used for preparing
+    them.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19621-19627
+  quote_or_summary: While making the canoe, the workmen must abstain from sexual intercourse;
+    after the boards are cut, carried to the lake, and placed in water, they may return
+    to normal life.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19627-19631
+  quote_or_summary: While boards and keel stand in the water, canoe builders go to
+    find the creeper used for stitching boards together.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19631-19640
+  quote_or_summary: No nails or iron are used in canoe building; boards are stitched
+    to the keel with creepers through holes, and the creeper is moistened to make
+    it pliable.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19640-19648
+  quote_or_summary: Bow boards have bevelled ends forming a sharp angle; strips of
+    rounded wood cover joints inside and outside the canoe, and stitches pass over
+    them.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 19648-19652
+  quote_or_summary: If boards are too short they are spliced and stitched, and after
+    stitching each stitch is wound with a fine wire-like creeper for protection.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 19652-19655
+  quote_or_summary: After the first row of boards is attached to the keel, stretchers
+    are inserted about two feet apart to keep the sides from collapsing and to strengthen
+    the canoe.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The technical sequence and abstinence rule are clear. Motif interpretation
+    is limited because the passage supplies little explicit symbolic or religious
+    explanation. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the passage describes canoe construction rather than a mythic ark, journey, or explicit sacred vessel pattern.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l19612-l19655
+  passage_sha256=5a436ccc6d79178bf9d2b19fe2efb6759efbf9f21d674e8fd543155c7ba83d53
+

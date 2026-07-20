@@ -1,0 +1,486 @@
+---
+record_id: batch.motif.hindu-ramayana-valmiki-griffith-gutenberg-l19231-l19375
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+passage_locator:
+  label: Canto XXXVII. The Coats Of Bark. / Canto XLVI. The Halt. / Canto XLIX. The
+    Crossing Of The Rivers. / Canto LXII. Dasaratha Consoled.; lines 19231-19375
+  start: '19231'
+  end: '19375'
+  translation: The Rámáyan of Válmíki, translated into English verse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Daśaratha recounts how he accidentally shot a hermit’s son after mistaking
+    the sound of water for an animal. The dying youth explains his parentage, asks
+    that the arrow be removed, and dies. Daśaratha takes water to the blind aged parents,
+    confesses the death, hears the father describe the gravity of killing a hermit,
+    and leads the parents to touch and mourn their son’s body.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The wounded hermit’s son lies pierced by an arrow and speaks while suffering
+    near death.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The youth states that he is not a twice-born Brāhman but was born of a Vaiśya
+    father and a Śūdra mother.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Daśaratha draws the shaft from the youth’s bleeding side, and the youth dies.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Daśaratha fills the pitcher at the brook and goes to the abode of the youth’s
+    father.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The aged parents are feeble and blind, sitting together and waiting for their
+    son to return with water.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:6
+  text: The father addresses the arriving footsteps as his son and says the mother
+    is thirsty.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The father says the son is the support and eye of his blind parents.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Daśaratha identifies himself as a warrior and confesses that he shot the youth
+    after mistaking the sound of water for an animal at the Sarjú shore.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Daśaratha reports that the dying youth asked him to draw out the shaft and
+    then went to heaven while lamenting his parents.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The father says Daśaratha survives because the deed was unplanned, whereas
+    intentional killing of a devotee would bring severe consequences.
+  category: speech
+  evidence_refs:
+  - ev:10
+  - ev:11
+- id: obs:11
+  text: The father asks Daśaratha to guide both parents to the place where their son
+    lies dead so they may see him for the last time.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:12
+  text: Daśaratha leads the mourning parents to the body; they lay hands upon it,
+    and the father embraces the dead son and cries out.
+  category: sequence
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: Daśaratha
+  description: A king and warrior who recounts accidentally shooting the hermit’s
+    son and later confesses the deed to the parents.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: Hermit’s son
+  description: A wounded youth pierced by Daśaratha’s arrow, son of a Vaiśya father
+    and Śūdra mother, who dies after the arrow is drawn out.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Aged hermit father
+  description: A feeble blind father who waits for his son, hears Daśaratha’s confession,
+    speaks about the gravity of killing a hermit, and mourns the dead body.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:10
+  - ev:13
+- id: fig:4
+  name_or_label: Blind mother
+  description: A feeble blind mother who thirsts while waiting for her son and later
+    touches the body with the father.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:13
+roles:
+- id: role:1
+  label: accidental killer
+  assigned_to:
+  - fig:1
+  basis: Daśaratha says he mistook a water sound for an animal and unwittingly killed
+    the son.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:2
+  label: dying victim
+  assigned_to:
+  - fig:2
+  basis: The youth lies pierced by the arrow, speaks with difficulty, and dies after
+    the shaft is removed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: support of blind parents
+  assigned_to:
+  - fig:2
+  basis: The father says their lives depend on the son and calls him the eye of the
+    eyeless couple.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: confessor and guide
+  assigned_to:
+  - fig:1
+  basis: Daśaratha confesses the killing and then guides the parents to their son’s
+    body.
+  evidence_refs:
+  - ev:8
+  - ev:13
+- id: role:5
+  label: dependent blind parent
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The parents are described as feeble, blind, and dependent on their son.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: moral judge
+  assigned_to:
+  - fig:3
+  basis: The father pronounces the seriousness of hermit-blood shed by a warrior and
+    distinguishes intentional from unplanned wrongdoing.
+  evidence_refs:
+  - ev:10
+  - ev:11
+symbols:
+- id: sym:1
+  label: water
+  literal_form: brook, stream, Sarjú shore, pitcher of water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: arrow or shaft
+  literal_form: shaft, dart, arrow piercing the youth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: pitcher
+  literal_form: pitcher taken from the ground and filled at the brook
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: blindness
+  literal_form: aged pair described as feeble and blind; the son called their eye
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: dead body
+  literal_form: breathless clay touched by the parents and pressed to the father’s
+    breast
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+scenes:
+- id: scene:1
+  label: Dying youth and removed arrow
+  summary: The wounded youth speaks through pain, explains his birth, and dies after
+    Daśaratha draws the shaft from his side.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Daśaratha brings water to the blind parents
+  summary: Daśaratha fills the pitcher at the brook and reaches the dwelling of the
+    blind parents, who are awaiting their son’s return with water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Confession of the accidental killing
+  summary: Daśaratha tells the father that he is not the son, identifies himself,
+    and recounts how he mistook a water sound for an animal and shot the youth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Judgment and last visit to the body
+  summary: The father responds with grief, states the gravity of killing a hermit,
+    asks to be led to the body, and the parents touch and mourn their dead son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: accidental killing by mistaken sound
+  taxonomy_refs: []
+  basis: Daśaratha hears water being stirred, thinks an elephant or other beast is
+    present, shoots an arrow, and finds he has struck the hermit’s son.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level motif description with no supplied taxonomy match.
+- id: motif:2
+  label: dying child’s last concern for parents
+  taxonomy_refs: []
+  basis: The youth dies after the shaft is removed and is reported to have lamented
+    his aged parents as he passed from earth.
+  evidence_refs:
+  - ev:3
+  - ev:9
+  confidence: high
+  cautions: The passage gives the concern directly but does not develop a broader
+    motif label.
+- id: motif:3
+  label: blind parents dependent on a child
+  taxonomy_refs: []
+  basis: The parents are blind and feeble, and the father says their lives depend
+    on the son, who is their eye and friend.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference directly matches this family relationship
+    pattern.
+- id: motif:4
+  label: unintended violence judged differently from intentional sacrilege
+  taxonomy_refs:
+  - divine_judgment
+  basis: The father says Daśaratha lives because the act was unplanned, while intentional
+    killing of a devotee would bring catastrophic punishment.
+  evidence_refs:
+  - ev:10
+  - ev:11
+  confidence: medium
+  cautions: The passage presents moral-religious consequences, but the punishment
+    is spoken by the hermit rather than enacted within this excerpt.
+- id: motif:5
+  label: movement of the dead toward another realm
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Daśaratha says the hermit went up to heaven, while the father refers to the
+    soul in Yama’s dark domain.
+  evidence_refs:
+  - ev:9
+  - ev:12
+  confidence: medium
+  cautions: The passage mentions post-mortem destinations briefly and with differing
+    expressions; it does not map an extended afterlife journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19231-19246
+  quote_or_summary: The wounded youth lies tortured by the shaft, near death, but
+    says his senses and fortitude remain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 19243-19249
+  quote_or_summary: "“No twice-born youth am I, O King, / For of a Vaiśya sire I came,
+    / Who wedded with a Śúdra dame.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 19250-19258
+  quote_or_summary: Daśaratha draws the rankling shaft from the youth’s bleeding side,
+    and the youth dies.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19268-19272
+  quote_or_summary: Daśaratha takes the pitcher, fills it at the brook, and goes by
+    the path shown to the father’s abode.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19273-19280
+  quote_or_summary: The aged pair are described as feeble and blind, sitting side
+    by side, waiting and hoping for their returning child.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 19281-19290
+  quote_or_summary: The father hears footsteps, thinks his son has returned, asks
+    for water quickly, and says the mother is thirsty and weeping.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 19295-19299
+  quote_or_summary: "“On thee our lives, our all, depend: / Thou art thy friendless
+    parents’ friend. / The eyeless couple’s eye art thou”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: summary
+  locator: lines 19309-19327
+  quote_or_summary: Daśaratha identifies himself as a warrior, says he came to the
+    Sarjú shore with a bow, heard water stirred as if by a jar, mistook it for an
+    elephant, and shot an arrow.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 19328-19339
+  quote_or_summary: Daśaratha finds the wounded hermit, removes the shaft at his request,
+    says the hermit went to heaven, and admits he unwittingly killed the father’s
+    son.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 19341-19355
+  quote_or_summary: The grieving father says Daśaratha’s own confession saved him
+    from guilt that would have burst his head, and that a warrior’s intentional shedding
+    of hermit blood would bring down even Indra.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 19356-19363
+  quote_or_summary: The father says one who knowingly sends a dart against a devotee
+    would have his head split, but Daśaratha lives because his deed was unplanned.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 19364-19371
+  quote_or_summary: The father asks the king to guide the parents to the dead son,
+    whose skin dress is blood-stained and whose soul is described as being in Yama’s
+    dark domain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 19372-19375
+  quote_or_summary: Daśaratha leads the mourning pair to the body; they lay hands
+    on it, and the father presses the body to his breast and cries out.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are cautious passage-level candidates; comparison claims are omitted because the
+    passage itself provides no explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-ramayana-valmiki-griffith-gutenberg__l19231-l19375
+  passage_sha256=b4ae44e051ad57b7d193db4abe0a70ed771cc9584b90a9d689131c5c070ed876
+

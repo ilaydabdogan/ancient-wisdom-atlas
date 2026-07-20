@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l5568-l5593
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: PRAYER 163 / PRAYER 165 / CHAPTER XIII / FESTIVALS; lines 5568-5593
+  start: '5568'
+  end: '5593'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Buddhist Lent as the three rainy months from the
+    full moon of July to the full moon of October. It states that during these months
+    the Buddha would retire to a monastery and cease travelling and teaching for a
+    time. The custom is described as older than known memory and suited to rainy-season
+    conditions, when roads are covered with water or mud, rest-houses are uncomfortable,
+    and villagers tend to stay home for local work such as ploughing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the three months of the rains, from the full moon of
+    July to the full moon of October, as Buddhist Lent.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Buddha is described as retiring to a monastery during these months and
+    ceasing from travelling and teaching for a time.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The custom is described as older than the Buddha and of unknown origin.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Rainy-season travel is described as difficult because roads are bad, covered
+    with water, and often deep in mud.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Open-sided rest-houses are described as uncomfortable when rain drifts in.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: People are described as staying at home during this period because travel
+    is uncomfortable and village work is needed.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that this is the time to plough.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Buddha
+  description: Religious figure said to retire to a monastery during the rainy months
+    and stop travelling and teaching for a time.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: The people
+  description: People who generally stay at home in the rains because travel is uncomfortable
+    and village work is needed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: rainy-season monastic retiree and teacher in pause
+  assigned_to:
+  - fig:1
+  basis: The passage says the Buddha would retire to a monastery and cease travelling
+    and teaching during the rainy months.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: rainy-season householders and village workers
+  assigned_to:
+  - fig:2
+  basis: The passage says people would stay at home during the rains because of travel
+    discomfort and village work.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: rainy-season water and mud
+  literal_form: roads covered with water and often deep in mud during the rains
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: full-moon seasonal boundary
+  literal_form: full moon of July to full moon of October
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: monastery retreat place
+  literal_form: monastery to which the Buddha would retire
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Buddhist Lent during the rains
+  summary: The passage defines Buddhist Lent as the three rainy months bounded by
+    the full moons of July and October.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Buddha’s rainy-season retreat
+  summary: During the rainy months, the Buddha is said to retire to a monastery and
+    pause travelling and teaching.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rainy-season immobility and village work
+  summary: Rain makes travel difficult through water, mud, and uncomfortable rest-houses,
+    so people tend to remain at home for village work such as ploughing.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seasonal religious retreat during the rains
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links a recurring three-month rainy season with Buddhist Lent
+    and with the Buddha’s retreat from travel and teaching.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is descriptive and does not present a narrative myth; the
+    motif identification is limited to seasonal ritual patterning.
+- id: motif:2
+  label: seasonal restriction of movement
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes rainy-season travel as difficult and says people would
+    stay at home during that period.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a practical social pattern in the passage, not an explicitly mythic
+    restriction.
+- id: motif:3
+  label: rainy season as agricultural work period
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage says the rains are also a time when there is much village work
+    and specifically a time to plough.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage mentions ploughing only briefly and does not elaborate ritual
+    agricultural symbolism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5575-5577
+  quote_or_summary: "“The three months of the rains, from the full moon of July to
+    the full moon of October, is the Buddhist Lent.”"
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:2
+  type: summary
+  locator: lines 5577-5580
+  quote_or_summary: During these rainy months, the Buddha would retire to a monastery
+    and stop travelling and teaching for a time.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5580-5584
+  quote_or_summary: The custom is said to be older than the Buddha, with its origin
+    unknown and lost in distant time.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5586-5589
+  quote_or_summary: In the rains, travel is not easy because roads are very bad, covered
+    with water, and often deep in mud.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5589-5591
+  quote_or_summary: Rest-houses with open sides are uncomfortable when rain drifts
+    in.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 5591-5593
+  quote_or_summary: Even without a formal Lent, the passage says people would travel
+    little and stay at home because moving is uncomfortable and village work is needed.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: line 5593
+  quote_or_summary: "“For this is the time to plough”"
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is straightforwardly descriptive. Motif candidates are limited
+    because the passage concerns seasonal religious and social practice rather than
+    a developed mythic narrative. No comparison claims were added because the passage
+    itself does not support a specific comparative claim beyond candidate motif classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l5568-l5593
+  passage_sha256=2a5c3709c8673a0f13b6f2e4fe2ea830337c359b47623eb1de64e4fcf6bc220a
+

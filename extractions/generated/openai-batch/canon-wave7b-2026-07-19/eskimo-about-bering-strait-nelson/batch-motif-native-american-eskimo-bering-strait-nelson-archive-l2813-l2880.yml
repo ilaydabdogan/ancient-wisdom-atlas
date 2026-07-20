@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l2813-l2880
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: HOODS    AND    CAPS / THE    ESKIMO    ABOUT    BERING    STRAIT / I  KTH.  ANN.  18
+    / WATERPROOF    GARMENTS; lines 2813-2880
+  start: '2813'
+  end: '2880'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes waterproof frocks made from seal intestines, with
+    drawstrings at sleeves and hood, worn over other garments and fastened over a
+    kaiak manhole to keep water from the wearer and boat. It also notes their strength
+    and limits in rough breakers, ornamentation of seams and borders, and a women's
+    variant with side flaps.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Eskimo make waterproof frocks from seal intestines that are dried, slit
+    open into ribbon-like strips, and sewn horizontally into a garment shaped like
+    men's fur frocks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The waterproof frocks have braided sinew drawstrings at the sleeves and hood
+    so the wrist and face openings can be tightened to keep water out.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The garments are worn over other garments in wet weather on shore and at sea,
+    with their most important use occurring when hunters are at sea in kaiaks.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In rainy or rough weather at sea, the hunter puts on the waterproof frock,
+    extends its skirt over the kaiak manhole rim, and fastens it down with a cord
+    in a groove outside the rim.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When the skirt cord and drawstrings are tightened, the kaiak occupant is protected
+    from spray and water is prevented from entering the boat.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The garments can withstand water pressure even when the wearer is submerged
+    beneath the sea, but they may tear among breakers when struck heavily from above.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Seams and borders of the waterproof garments may be ornamented with seals'
+    bristles, hair-like waterfowl feathers, crested auklet mandible sheaths, black
+    tanned skin strips, or woolly seal-fur fringe.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Women's versions of these garments are cut up on each side to make flaps like
+    those of an ordinary frock.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Eskimo makers
+  description: The collective group described as making waterproof frocks from seal
+    intestines.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hunter in kaiak
+  description: A sea hunter who wears the waterproof frock while seated in a kaiak.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Women wearers
+  description: Women for whom a variant of the waterproof garment is made with side
+    flaps.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: garment maker
+  assigned_to:
+  - fig:1
+  basis: The passage says the Eskimo make waterproof frocks from prepared seal intestines.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sea hunter protected by waterproof garment
+  assigned_to:
+  - fig:2
+  basis: The hunter dons the frock in rainy or rough weather at sea and fastens it
+    to the kaiak.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: garment wearer
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The hunter wears the frock in the kaiak, and garments of this kind are also
+    made for women.
+  evidence_refs:
+  - ev:4
+  - ev:8
+symbols:
+- id: sym:1
+  label: waterproof frock
+  literal_form: Seal-intestine waterproof garment with sleeve and hood drawstrings
+    and a skirt that can be fastened over a kaiak manhole.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: sym:2
+  label: kaiak
+  literal_form: Boat with a manhole rim and outer groove used to fasten down the waterproof
+    frock's skirt.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: water
+  literal_form: Rain, rough sea, dashing spray, and water pressure that the garment
+    is designed to exclude.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: animal-derived ornamentation
+  literal_form: Seals' bristles, waterfowl feathers, crested auklet mandible sheaths,
+    black tanned skin strips, and woolly seal-fur fringe sewn into or along the garment.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Making the seal-intestine waterproof frock
+  summary: Seal intestines are dried, slit, and sewn into horizontal strips to form
+    a waterproof frock shaped like a men's fur frock.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fastening the garment to the kaiak
+  summary: During rainy or rough weather at sea, the hunter wears the frock, stretches
+    its skirt over the kaiak manhole rim, and secures it with a cord in a groove.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Protection and failure under sea pressure
+  summary: The tightened garment can protect against spray and sometimes submersion,
+    but breakers may tear it and let water into the boat.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Ornamented and women's variants
+  summary: The waterproof garments may be decorated with animal bristles, feathers,
+    auklet sheaths, skin strips, or fur fringe, and women's versions are cut with
+    side flaps.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sealed garment-boat protection against sea water
+  taxonomy_refs: []
+  basis: The passage describes a waterproof frock tightened at the body openings and
+    fastened over the kaiak manhole so that spray and water cannot enter the boat.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic technology pattern rather than an explicit mythic
+    narrative motif.
+- id: motif:2
+  label: animal-body material transformed into protective clothing
+  taxonomy_refs: []
+  basis: The waterproof frock is made from prepared seal intestines and may include
+    additional animal-derived ornamentation.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: The passage presents practical manufacture and ornamentation; no ritual
+    or symbolic interpretation is stated.
+- id: motif:3
+  label: protective covering with limits under overwhelming water force
+  taxonomy_refs: []
+  basis: The garment is described as strong enough to resist water pressure and submersion,
+    but unreliable among breakers that can tear it and allow water into the boat.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states a practical limitation, not a mythic ordeal or symbolic
+    transformation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2813-2820
+  quote_or_summary: Eskimo make waterproof frocks from seal intestines; the intestines
+    are dried, slit into ribbon-like strips, and sewn horizontally into a frock shaped
+    like men's fur garments.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2820-2828
+  quote_or_summary: Sleeves and hood are fitted with braided sinew drawstrings so
+    the garment can be tightened at wrists and around the face to prevent water from
+    entering.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2828-2833
+  quote_or_summary: The garments are worn over other clothing in wet weather on land
+    and sea, and their most important use is by hunters at sea in kaiaks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2833-2840
+  quote_or_summary: In rainy or rough weather, the hunter dons the frock, extends
+    its skirt over the manhole rim, and secures the skirt border with a cord in a
+    groove outside the kaiak rim.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2840-2844
+  quote_or_summary: When the skirt cord and the drawstrings at face and sleeves are
+    tightened, the kaiak occupant is safe from dashing spray and no water can enter
+    the boat.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2845-2861
+  quote_or_summary: The waterproof garments often withstand water pressure even during
+    submersion, but breakers can strike from above, tear them, and allow water into
+    the boat.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2862-2876
+  quote_or_summary: The seams may be ornamented with seals' bristles, fine waterfowl
+    feathers, crested auklet mandible sheaths, black tanned skin strips, and the lower
+    borders may have woolly seal-fur fringe.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2876-2880
+  quote_or_summary: Women's garments of this kind are cut up on each side to produce
+    flaps like those of the ordinary frock.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive ethnography about waterproof garments and kaiak
+    use. Literal extraction is strong; motif labeling is limited because no mythic
+    or ritual interpretation is supplied. No comparison claims are made because the
+    passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external information was used. Taxonomy reference was applied only to the explicitly present symbol of water.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l2813-l2880
+  passage_sha256=22747b55ecd6f50f5ec3bbd745d3dd632f7c904dac787091bf41e2fb4936baab
+

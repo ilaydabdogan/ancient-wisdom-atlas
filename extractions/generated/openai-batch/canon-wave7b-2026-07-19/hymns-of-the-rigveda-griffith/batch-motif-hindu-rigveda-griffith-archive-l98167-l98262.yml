@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l98167-l98262
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEM N , / ADHYAYA 4. / KEITEL O / ARANYAKA II; lines 98167-98262
+  start: '98167'
+  end: '98262'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: A Rsi says (RV., I, 164, 13), ‘I saw the guardian,’ for he is a guardian,
+    for he guards all this.
+  summary: 'The passage interprets a Rigvedic guardian as breath, describing it as
+    untiring, moving on its ways, illuminating the directions, moving up and down
+    in the worlds, and covering ether and all things. It then describes powers of
+    a person: speech creates earth and fire, plants grow on earth, fire ripens them,
+    and earth and fire serve speech as their parent. Breath creates the sky and air,
+    with people following and hearing along the sky.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Rsi is quoted as saying that he saw a guardian; the passage identifies this
+    guardian as one who guards all this.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The guardian is described as never resting, coming and going on his ways,
+    illuminating the principal and intermediate quarters, and moving up and down in
+    the worlds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The verse about being covered like caves is interpreted to mean that all this
+    is covered by breath.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ether is said to be supported by breath, and all things, including ants, are
+    said to be covered by breath.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage introduces the powers of a person.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: By the person’s speech, earth and fire are created.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Plants grow on the earth, and fire ripens them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Earth and fire are described as serving their parent, speech, while saying,
+    ‘take this, take this.’
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The world of the knower of the power of speech is said not to decay as long
+    as the world of earth and fire does not decay.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: By breath, the sky and the air are created.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: People are said to follow the sky and hear along the sky.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: breath / prana
+  description: Breath is identified with the guardian, covers all this, supports ether,
+    and creates the sky and air.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: the person
+  description: The passage describes the powers of this person, including speech and
+    breath.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: speech
+  description: Speech is a power of the person; by speech, earth and fire are created,
+    and speech is called the parent served by earth and fire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: earth
+  description: Earth is created by speech; plants grow on it; it serves speech as
+    parent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: fire
+  description: Fire is created by speech; it ripens plants; it serves speech as parent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: sky
+  description: Sky is created by breath, and people follow and hear along it.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: air
+  description: Air is created by breath.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: guardian and cosmic mover
+  assigned_to:
+  - fig:1
+  basis: Breath is identified with the guardian who guards all, never rests, moves
+    on his ways, illuminates quarters, and moves up and down in the worlds.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cosmic covering and support
+  assigned_to:
+  - fig:1
+  basis: All this is covered by breath, and ether is supported by breath.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: possessor of powers
+  assigned_to:
+  - fig:2
+  basis: The passage introduces speech and breath as powers of this person.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: creator and parent
+  assigned_to:
+  - fig:3
+  basis: Speech creates earth and fire, and earth and fire serve speech as their parent.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: created servant of speech
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Earth and fire are created by speech and serve their parent, speech.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: created realm or element
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Sky and air are created by breath.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: breath as cosmic power
+  literal_form: breath / prana
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: caves as covering image
+  literal_form: caves
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire as ripening element
+  literal_form: fire
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: earth as generated world-space
+  literal_form: earth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: sky and air generated by breath
+  literal_form: sky and air
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Breath interpreted as the guardian
+  summary: A Rigvedic guardian is interpreted as breath, which guards all, does not
+    rest, moves through its ways, illuminates the directions, and moves up and down
+    in the worlds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Breath covers and supports all things
+  summary: A verse about things covered like caves is read as a statement that all
+    this, ether, and even ants are covered or supported by breath.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Speech creates earth and fire
+  summary: The powers of the person are introduced; speech creates earth and fire,
+    plants grow on earth, fire ripens them, and earth and fire serve speech as parent.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Breath creates sky and air
+  summary: Breath creates the sky and air; people follow the sky and hear along it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: breath as cosmic guardian and support
+  taxonomy_refs: []
+  basis: The passage identifies the guardian with breath, says breath guards all,
+    moves through the worlds, covers all things, and supports ether.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an exegetical identification in the passage rather than a narrative
+    episode with a separate anthropomorphic deity.
+- id: motif:2
+  label: cosmic creation through faculties of a person
+  taxonomy_refs: []
+  basis: Speech creates earth and fire, and breath creates sky and air, presenting
+    cosmic realms and elements as generated through personal powers.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is doctrinal and interpretive; it does not present a full
+    cosmogonic narrative.
+- id: motif:3
+  label: knowledge of a power grants an undecaying world
+  taxonomy_refs:
+  - wisdom
+  basis: The knower of the power of speech is said to have a world that does not decay
+    as long as earth and fire do not decay.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The result is stated for knowledge of speech specifically; broader salvific
+    knowledge should not be assumed beyond this passage.
+- id: motif:4
+  label: created elements serve their parent
+  taxonomy_refs: []
+  basis: Earth and fire, created by speech, are described as serving their parent,
+    speech.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The parent-child language is explicit, but earth and fire are not explicitly
+    called divine children in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly reads Rigvedic verses about a guardian and covered
+    caves as referring to breath and its cosmic functions.
+  claim_level: same_function
+  target: RV I.164.13 and RV I.55.8 as cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is limited to the passage’s own citations and interpretation;
+    it does not establish independent historical development beyond the cited exegetical
+    relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 98167-98262; translation paragraph citing RV I.164.13
+  quote_or_summary: "“I saw the guardian,” identified as one who guards all this,
+    never rests, comes and goes on his ways, illuminates the principal and intermediate
+    quarters, and moves up and down in the worlds."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; short quotation used for extraction.
+- id: ev:2
+  type: summary
+  locator: 98167-98262; translation paragraph citing RV I.55.8
+  quote_or_summary: The verse “Covered like caves by the makers” is interpreted to
+    mean that all this is covered by breath; ether is supported by breath, and all
+    things including ants are covered by breath.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: 98167-98262; section 7 beginning “Now come the powers of this person”
+  quote_or_summary: "“By his speech are created earth and fire. On the earth plants
+    grow; fire ripens them.” Earth and fire serve their parent, speech, saying “take
+    this, take this.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; short quotation used for extraction.
+- id: ev:4
+  type: summary
+  locator: 98167-98262; section 7 continuation on the world of the knower
+  quote_or_summary: As far as earth and fire extend, so far extends the knower’s world;
+    as long as earth and fire do not decay, the knower’s world does not decay.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 98167-98262; section 7 continuation beginning “By breath”
+  quote_or_summary: By breath the sky and air are created; people follow the sky and
+    hear along the sky.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is partly an OCR excerpt with notes and commentary; the main
+    extractable material is a doctrinal translation section on breath, speech, and
+    cosmic powers. Motif labels are cautious because the passage is exegetical rather
+    than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to explicitly supported available entries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l98167-l98262
+  passage_sha256=b8f4980401e63d45647d5f6367811c738079edf9b99072af850231ef2f7bf635
+

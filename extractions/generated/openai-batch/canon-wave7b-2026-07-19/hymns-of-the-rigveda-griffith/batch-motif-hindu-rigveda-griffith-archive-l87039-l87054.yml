@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l87039-l87054
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: HYMN 180.) THE RIQGVEDA. 605 / PANCIKA I / PANCIKA III / ADHYAYA V; lines
+    87039-87054
+  start: '87039'
+  end: '87054'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A ritual apparatus passage discusses Uktha/Ukthya terminology, offerings,
+    and the Hotrakas' evening Castras, listing the Maitrévaruna, Bréhmandcchahsin,
+    and Achavika with Rigveda and other Vedic ritual cross-references.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage references Rtuy&jas and a set of six offerings.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note explains that Uktha is probably understood as Uktha Stotra, or possibly
+    as including both Stotra and Castra.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage introduces the Castras of the Hotrakas at the evening pressing
+    of the Ukthya.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Maitrévaruna is listed with associated Rigveda references.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Bréhmandcchahsin is listed with associated Rigveda references.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Achavika is listed with associated Rigveda references, followed by notes that
+    AQS and QS differ in detail.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Maitrévaruna
+  description: A named Hotraka office in the list of evening Castras, associated with
+    specified Rigveda passages.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Bréhmandcchahsin
+  description: A named Hotraka office in the list of evening Castras, associated with
+    specified Rigveda passages.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Achavika
+  description: A named Hotraka office in the list of evening Castras, associated with
+    specified Rigveda passages.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: Hotraka ritual officiant
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage introduces the list as the Castras of the Hotrakas at the evening
+    pressing.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Associated with specified Castra/Rigveda recitation sequence
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Each named office is followed by a list of Rigveda passages in the apparatus.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Six offerings
+  literal_form: six offering
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Uktha Stotra and Castra
+  literal_form: Uktha Stotra; Stotra and Castra; Castras
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Evening Ukthya pressing and Hotraka Castras
+  summary: The note situates the named Hotraka offices in an evening Ukthya pressing
+    and assigns their Castras to sequences of Rigveda passages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Offering and ritual recitation in a sacrificial setting
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage mentions offerings, Uktha/Ukthya ritual terminology, an evening
+    pressing, and the Castras of Hotraka officiants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is apparatus/commentary rather than a complete mythic narrative;
+    OCR line breaks and spellings make some details uncertain.
+comparison_claims:
+- id: claim:1
+  claim: The apparatus links this ritual material with nearby Vedic ritual and recitational
+    corpora through cross-references, suggesting a shared ritual-recitation function
+    rather than a narrative motif equivalence.
+  claim_level: same_function
+  target: Vedic ritual corpus references including AB, KB, SV, AQS, OCS/CCS, and QS
+  evidence_refs:
+  - ev:2
+  - ev:7
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The passage provides citation links and notes of difference in detail,
+    but does not establish historical contact, common inheritance, or a mythic-story
+    parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 87039-87040
+  quote_or_summary: The line references Rtuy&jas with AB ii. 29 and mentions 'the
+    six offering'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:2
+  type: summary
+  locator: 87040-87044
+  quote_or_summary: Uktha is explained as probably meaning Uktha Stotra as taken by
+    Saéyana, or perhaps including both Stotra and Castra.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:3
+  type: quote
+  locator: 87043-87045
+  quote_or_summary: '"The Castras of the Hotrakas at the evening pressing of the Ukthya
+    are thus"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:4
+  type: summary
+  locator: 87045-87048
+  quote_or_summary: The Maitrévaruna entry is followed by Rigveda references including
+    vi. 16.16-18, 19-21; iii. 61.1-8; viii. 42.1-8; vii. 82, 84; and vi. 68.11.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:5
+  type: summary
+  locator: 87049-87050
+  quote_or_summary: The Bréhmandcchahsin entry is followed by Rigveda references including
+    viii. 21.1-2, i. 57, x. 68, x. 48, and vii. 97.10.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:6
+  type: summary
+  locator: 87050-87054
+  quote_or_summary: The Achavika entry is followed by Rigveda references including
+    viii. 98.7, viii. 18.4, ii. 18, vii. 100, i. 156, vi. 69, with a note that AQS
+    and QS differ in detail.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; source metadata says full text allowed.
+- id: ev:7
+  type: summary
+  locator: 87039-87054
+  quote_or_summary: The apparatus cites multiple nearby Vedic sources and ritual manuals,
+    including AB, KB, SV, AQS, OCS/CCS, and QS, while noting some differences.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; source metadata says full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited because the passage is a fragmentary, OCR-like ritual
+    apparatus rather than a continuous hymn narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage appears to be commentary/apparatus on Vedic ritual recitation and offerings, not a mythic narrative episode.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l87039-l87054
+  passage_sha256=464da2c9b99b057c7ab96d80ff20d39447cb22e0fc52a3913f28c42d1326a75b
+

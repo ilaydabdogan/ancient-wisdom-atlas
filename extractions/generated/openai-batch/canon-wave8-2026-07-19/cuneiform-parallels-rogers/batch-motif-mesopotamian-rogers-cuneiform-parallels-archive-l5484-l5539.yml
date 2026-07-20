@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l5484-l5539
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE MYTH OF ADAPA / TABLET NO. 3 / TABLET NO. 3 / TABLET NO. 3; lines 5484-5539
+  start: '5484'
+  end: '5539'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: He sent a messenger.
+  summary: A fragmentary passage from the Myth of Adapa refers to words being borne
+    to King Ea, a messenger being sent, a figure described as wide-eared and knowing
+    the heart of the great gods, an unidentified figure being clothed in a soiled
+    or mourning garment, and a word spoken to him. A damaged transliterated line names
+    Adapa and Anu.
+  language: English with fragmentary Akkadian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is labeled as Tablet No. 3.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Words are caused to be borne to King Ea, with the name marked uncertain in
+    the printed text, and a messenger is sent.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A figure is described as having a wide ear and as knowing the heart of the
+    great gods.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An unidentified figure is made to wear a soiled garment and is described as
+    mourning-clad.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A word is spoken to an unidentified figure.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A fragmentary transliterated line includes the names Adapa and Anu.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: King Ea (?)
+  description: Named king or deity addressed in the fragment; the printed text marks
+    the name with uncertainty.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Unnamed acting figure
+  description: Pronominal figure who causes words to be borne and sends a messenger;
+    possibly also acts in later damaged lines, but identity is not resolved in the
+    excerpt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Messenger
+  description: Unnamed messenger sent by an unidentified figure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Wide-eared knowing figure
+  description: Unidentified figure described as having a wide ear and knowing the
+    heart of the great gods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Great gods
+  description: Collective divine group whose heart is said to be known.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Unidentified garment-wearer/addressee
+  description: Unidentified figure made to wear a soiled or mourning garment and addressed
+    by a spoken word.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Adapa
+  description: Name appearing in the fragmentary transliterated line.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Anu
+  description: Name appearing in the fragmentary transliterated line, marked with
+    a divine determinative in the transcription.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: message addressee
+  assigned_to:
+  - fig:1
+  basis: The fragment says words are borne to King Ea.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sender or acting subject
+  assigned_to:
+  - fig:2
+  basis: The passage uses the pronoun 'He' for the one who sends a messenger and performs
+    actions in damaged syntax.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: messenger
+  assigned_to:
+  - fig:3
+  basis: The text states that a messenger is sent.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: wide-eared knower
+  assigned_to:
+  - fig:4
+  basis: The figure is described by the attributes 'wide ear' and knowing the heart
+    of the great gods.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine collective known by another figure
+  assigned_to:
+  - fig:5
+  basis: The 'great gods' are named as the ones whose heart is known.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: recipient of garment and speech
+  assigned_to:
+  - fig:6
+  basis: The pronoun 'him' receives the garment and the spoken word.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: named figure in transliteration
+  assigned_to:
+  - fig:7
+  basis: The transliterated line prints the name '(m)A-da-pa'.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: named divine figure in transliteration
+  assigned_to:
+  - fig:8
+  basis: The transliterated line prints the name '(ilu) A-ni'.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: borne word or message
+  literal_form: words caused to be borne; a word spoken
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: wide ear
+  literal_form: wide ear
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: heart of the great gods
+  literal_form: heart of the great gods
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: soiled mourning garment
+  literal_form: soiled garment; mourning garment
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Message to King Ea
+  summary: Words are borne to King Ea, and an unnamed figure sends a messenger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Wide-eared knowledge of the gods
+  summary: A figure is characterized by a wide ear and by knowledge of the heart of
+    the great gods.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mourning garment and spoken word
+  summary: An unidentified figure is made to wear a soiled or mourning garment, and
+    a word is spoken to him.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Fragmentary transliterated names
+  summary: The damaged transliteration includes the names Adapa and Anu without enough
+    surrounding translated context to establish the full action.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Messenger-borne sacred communication
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage presents words being borne to King Ea and a messenger being sent.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is fragmentary and does not show a completed reciprocal exchange.
+- id: motif:2
+  label: Divine wisdom or knowledge of the gods' hearts
+  taxonomy_refs:
+  - wisdom
+  basis: A figure is explicitly described as knowing the heart of the great gods.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The identity of the knowing figure is not clear in this excerpt.
+- id: motif:3
+  label: Mourning or soiled garment as ritual presentation
+  taxonomy_refs: []
+  basis: An unidentified figure is made to wear a soiled garment and is described
+    as mourning-clad.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the purpose of the garment or connect it
+    to a fuller ritual sequence within the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 5484-5539, heading
+  quote_or_summary: Passage heading identifies the excerpt as Tablet No. 3 within
+    the Myth of Adapa material.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; citation only.
+- id: ev:2
+  type: quote
+  locator: lines 6-9
+  quote_or_summary: '"To King Ea (?) ... words to be borne. ... He sent a messenger."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 10-11
+  quote_or_summary: '"With a wide ear, knowing the heart of the great gods"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 12-13
+  quote_or_summary: '"A soiled garment he made him wear, mourning clad"'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: line 14
+  quote_or_summary: '"A word he spoke to him."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: note
+  locator: lines 15-17
+  quote_or_summary: Fragmentary transliteration includes '(m)A-da-pa' and '(ilu) A-ni'
+    in a damaged sentence.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; brief transliteration note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The excerpt is highly fragmentary, contains damaged lines and ambiguous pronouns,
+    and ends with untranslated transliteration. Figures may overlap in the original
+    context, but the extraction keeps identities separate where the excerpt does not
+    resolve them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not provide an explicit comparative frame beyond general candidate motif families.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l5484-l5539
+  passage_sha256=793cd54690368212c4d8975ee9e3795854bc249b6386044221b09fc1fd97ba35
+

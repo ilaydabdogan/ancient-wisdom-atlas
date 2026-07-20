@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l25503-l25529
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: EIGHTEENTH   ANNUAL   REPORT      PL.   CIV / FINGER     MASKS    (ONE-FIFTH.
+    / CEREMONIAL    FILLETS / THE    ESKIMO    ABOUT    BERING    STRAIT; lines 25503-25529
+  start: '25503'
+  end: '25529'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The women who wore these also carried eagle-feather wands in their hands
+    during the dances.
+  summary: 'The passage describes dance adornments observed on the lower Yukon: women’s
+    white fox and ermine skin fillets, women carrying eagle-feather wands, and men’s
+    ornamental reindeer-skin armlets used in dances.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Women wore a kind of fillet during dances.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One lower Yukon fillet was made from white fox skin with the fur left on,
+    forming a head band with two hanging strips over each temple and below the chin
+    on each side.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Another lower Yukon fillet was made from large ermine skins, with a hair-on
+    head band and two complete ermine skins hanging down over each side of the face.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Women who wore the ermine-skin fillets also carried eagle-feather wands in
+    their hands during dances.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The accompanying figure 147 is described as a photographic illustration showing
+    the ermine-skin fillet.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Men used ornamental armlets in these dances; one example from Ikogmut on the
+    lower Yukon is described as a broad reindeer-skin band.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: women dancers wearing fillets
+  description: Women who wore white fox or ermine skin fillets during dances; those
+    with the ermine-skin fillets carried eagle-feather wands.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: men dancers wearing armlets
+  description: Men using ornamental armlets in the dances, including a broad reindeer-skin
+    band example from Ikogmut.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: women dance participants and regalia wearers
+  assigned_to:
+  - fig:1
+  basis: The passage states that women wore fillets during dances and carried eagle-feather
+    wands.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: men dance participants and armlet wearers
+  assigned_to:
+  - fig:2
+  basis: The passage states that ornamental armlets of various kinds are used by men
+    in these dances.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: white fox-skin dance fillet
+  literal_form: Band of white fox skin with fur left on, extending around the head
+    with two hanging strips over each temple and below the chin.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ermine-skin dance fillet
+  literal_form: Hair-on head band about an inch and a half broad, with two complete
+    ermine skins attached by their heads and hanging down the sides of the face.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: eagle-feather wands
+  literal_form: Wands carried in women’s hands during dances.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ornamental reindeer-skin armlet
+  literal_form: Broad band of reindeer skin used by men in dances.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: women’s dance regalia on the lower Yukon
+  summary: Women wear white fox or ermine skin fillets during dances; the ermine-fillet
+    wearers also carry eagle-feather wands.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: men’s ornamental armlets in dances
+  summary: Men use ornamental armlets in the same dance context, including a reindeer-skin
+    band example from Ikogmut on the lower Yukon.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal-derived ceremonial dance regalia
+  taxonomy_refs: []
+  basis: 'The passage repeatedly describes dance adornments made from animal materials:
+    white fox skin, ermine skins, eagle feathers, and reindeer skin.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is an ethnographic description of objects and does not state
+    a mythic narrative or symbolic interpretation.
+- id: motif:2
+  label: gender-differentiated dance adornment
+  taxonomy_refs: []
+  basis: Women are described with fillets and eagle-feather wands, while men are described
+    with ornamental armlets in the dances.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes observed usage but does not explain ritual meanings
+    or whether the contrast is systematic beyond the examples given.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25503-25510
+  quote_or_summary: A kind of fillet worn by women during dances was observed on the
+    lower Yukon; one was made of white fox skin with fur left on, forming a head band
+    with hanging strips at the temples and below the chin.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 25510-25520
+  quote_or_summary: Another fillet was made from large ermine skins, with a hair-on
+    band around the head and two complete ermine skins attached by their heads, hanging
+    down beside the face.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: quote
+  locator: lines 25516-25524
+  quote_or_summary: "“The women who wore these also carried eagle-feather wands in
+    their hands during the dances.” The passage adds that figure 147, from a photograph,
+    shows the described ermine-skin fillet."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation supplied.
+- id: ev:4
+  type: summary
+  locator: lines 25525-25529
+  quote_or_summary: Men used ornamental armlets in these dances; a plate example from
+    Ikogmut on the lower Yukon is a broad band of reindeer skin.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The object descriptions are explicit. Motif candidates are limited to observable
+    ceremonial-regalia patterns; no mythic taxonomy motif or cross-cultural comparison
+    is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif-family reference is directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l25503-l25529
+  passage_sha256=2f608245b638467c481f0fcf6bc43be6b7449657e326cd73b6e007d7e25ed4cf
+

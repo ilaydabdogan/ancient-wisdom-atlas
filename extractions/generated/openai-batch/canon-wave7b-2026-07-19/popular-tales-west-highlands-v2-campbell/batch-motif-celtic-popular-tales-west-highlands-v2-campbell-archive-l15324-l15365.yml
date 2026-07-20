@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l15324-l15365
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE KNIGHT OF THE RED SHIELD. 489 / THE KNIGHT OF THE RED SHIELD. / TILE
+    KNIGHT OF THE RED SHIELD. 493 / THE TAIL.; lines 15324-15365
+  start: '15324'
+  end: '15365'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“and the tail broke ! and if it had not been for that this tale would have
+    been a great deal longer.”"
+  summary: A shepherd searches for sheep on a cold misty hill, finds one half drowned
+    in a peat hag, and repeatedly tries to pull it out by the tail. The tail breaks,
+    and the narrator jokes that otherwise the tale would have been longer. Editorial
+    notes compare it with Grimm’s “Golden Key” and a Gaelic variant about a Brown
+    Stirk whose tail also breaks off, causing an untimely ending.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The section is introduced as a tale told about thirty years earlier by John
+    Campbell, piper, to J. F. Campbell.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A shepherd goes out to a hill to look after his sheep in misty, cold conditions.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After finding all but one sheep, the shepherd finds the missing sheep half
+    drowned in a peat hag.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The shepherd removes his plaid, grasps the sheep’s tail, and pulls; when he
+    cannot lift it because it is heavy with water, he removes his coat, spits on his
+    hands, grasps again, and pulls.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The sheep’s tail breaks, and the tale ends with the statement that the tale
+    would have been longer if the tail had not broken.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The editor says the tale may be compared with Grimm’s “Golden Key,” that it
+    was not given in Gaelic because it was not remembered as fixed wording, and that
+    it was known in many districts in various forms.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A second version is named “The tale of the Brown Stirk”; it has only a beginning,
+    because the stirk falls over a rock and leaves its tail in the herdsman’s hands,
+    ending with a proverbial phrase about the tail and story being longer if the tail
+    had been tougher.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: shepherd
+  description: A shepherd who goes to the hill to look after his sheep and tries to
+    pull a half-drowned sheep from a peat hag by its tail.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: half-drowned sheep
+  description: The missing sheep found in a peat hag, heavy with water; its tail breaks
+    when pulled.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Brown Stirk
+  description: The animal in the second version; it falls over a rock and leaves its
+    tail in the herdsman’s hands.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: herdsman
+  description: The figure in the second version who is left holding the Brown Stirk’s
+    tail.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: searcher and would-be rescuer
+  assigned_to:
+  - fig:1
+  basis: The shepherd searches for sheep and attempts to pull the missing sheep out
+    of the peat hag.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: trapped waterlogged animal
+  assigned_to:
+  - fig:2
+  basis: The sheep is found half drowned in a peat hag and is described as heavy with
+    water.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: variant animal causing broken-tail ending
+  assigned_to:
+  - fig:3
+  basis: The Brown Stirk falls over a rock, leaves its tail behind, and the story
+    ends after this event.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: tail-holder in variant
+  assigned_to:
+  - fig:4
+  basis: The herdsman is left with the stirk’s tail in his hands.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: broken tail
+  literal_form: the sheep’s tail / the stirk’s tail
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: peat hag
+  literal_form: a peat hag where the missing sheep is found half drowned
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: rock in variant
+  literal_form: a rock over which the Brown Stirk falls
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Shepherd searches the misty hill
+  summary: A shepherd goes out in mist and cold to look after his sheep and eventually
+    finds all but one.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Sheep found in the peat hag
+  summary: The shepherd finds the missing sheep half drowned in a peat hag and attempts
+    to pull it out by the tail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Broken tail and abrupt tale ending
+  summary: The sheep’s tail breaks, and the narrator turns the break into the reason
+    why the tale does not continue.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Brown Stirk variant
+  summary: 'A second version has only a beginning: the Brown Stirk falls over a rock,
+    leaves its tail in the herdsman’s hands, and the story ends with a proverb-like
+    statement.'
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: broken tail as cause of abrupt tale ending
+  taxonomy_refs: []
+  basis: Both the main tale and the Brown Stirk variant make the animal’s broken or
+    detached tail the reason the story becomes short or ends prematurely.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is a passage-level motif label, not a supplied taxonomy ID.
+- id: motif:2
+  label: comic failed rescue by pulling an animal’s tail
+  taxonomy_refs: []
+  basis: The shepherd repeatedly escalates his effort to pull the waterlogged sheep
+    out by its tail, but the tail breaks instead.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the episode comically, but does not name a formal
+    tale type.
+- id: motif:3
+  label: tale with only a beginning
+  taxonomy_refs: []
+  basis: The editor describes the Brown Stirk version as having “nothing but a beginning,”
+    because the animal’s fall and detached tail bring the story to an untimely end.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The phrasing is explicit for the variant, while the broader motif classification
+    requires review.
+- id: motif:4
+  label: variable portable joke tale
+  taxonomy_refs: []
+  basis: The editor states that the story was not told twice in the same words, could
+    be told in any language, and was known in many districts in various shapes.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a transmission-pattern observation rather than a mythic motif
+    in the narrow sense.
+comparison_claims:
+- id: claim:1
+  claim: The editor explicitly proposes that this tale may be compared with Grimm’s
+    “Golden Key.”
+  claim_level: same_motif
+  target: Grimm’s “Golden Key”
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives only the comparison title and does not state the
+    specific shared features.
+- id: claim:2
+  claim: The Brown Stirk version is presented as a close parallel to the main tale
+    through the same broken-tail explanation for an abbreviated story.
+  claim_level: same_motif
+  target: "“The tale of the Brown Stirk” / “Ursgeal a’ Ghamhna dhuinn”"
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage and remains limited to the
+    elements described there.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15331-15335
+  quote_or_summary: The section “THE TAIL” is introduced as told about thirty years
+    ago by John Campbell, piper, to his pupil J. F. Campbell.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 15337-15340
+  quote_or_summary: A shepherd goes out to the hill to look after sheep; the weather
+    is misty and cold, and he has trouble finding them.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 15340-15342
+  quote_or_summary: After much searching, the shepherd finds the last sheep in a peat
+    hag, half drowned.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 15342-15347
+  quote_or_summary: The shepherd removes clothing, takes hold of the sheep’s tail,
+    and pulls repeatedly; the sheep is too heavy with water, so he spits on his hands
+    and pulls again.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: quote
+  locator: lines 15347-15349
+  quote_or_summary: "“the tail broke ! and if it had not been for that this tale would
+    have been a great deal longer.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 15351-15355
+  quote_or_summary: The editor says the tale may be compared with Grimm’s “Golden
+    Key,” was not given in Gaelic because it was not remembered as fixed wording,
+    can be told in any language, and is known in many districts in various forms.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 15357-15365
+  quote_or_summary: 'A second version, “The tale of the Brown Stirk,” has only a beginning:
+    the stirk falls over a rock, leaves its tail in the herdsman’s hands, and the
+    story ends with a phrase meaning that if the tail had been tougher the story would
+    have been longer.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative action and internal variant are explicit. Broader motif
+    labels are provisional because the passage does not provide formal tale-type identifiers.
+    The Grimm comparison is explicit but underspecified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family was assigned because the supported motif is a comic broken-tail/tale-ending pattern not represented directly in the supplied taxonomy list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l15324-l15365
+  passage_sha256=f05b6e91ae514682070a7a02ed5c3192bef639f34f701b033e268db49f4168ca
+

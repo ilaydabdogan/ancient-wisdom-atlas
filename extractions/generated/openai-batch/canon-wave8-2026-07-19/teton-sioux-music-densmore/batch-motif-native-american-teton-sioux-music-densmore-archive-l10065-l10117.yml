@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l10065-l10117
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BULLETIN  61    PLATE  17 / BUREAU  OP  AMEBICAN  ETHNTOLOGY / HAIR  ORNAMENT  OF  BUFFALO  HIDE  W
+    / TETON  SIOUX  MTJBIO; lines 10065-10117
+  start: '10065'
+  end: '10117'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: During the excitement of the opening dance many gifts were given to the poor
+    or exchanged among the people
+  summary: The passage gives musical analysis of Sun Dance opening songs, including
+    tempo, tonality, melodic range, rhythmic units, and comparison with Chippewa and
+    Sioux performance features. It also notes that during the opening dance gifts
+    were given to the poor or exchanged, and that people paid respects to parents
+    of young men participating for the first time.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: In songs expressive of desire, the tempo may increase with repetitions; in
+    the described instance, the second tempo is faster than the first.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The transcription comparison notes persistence of important phrases and slight
+    changes in unimportant phrases, a feature said to have been observed in both Chippewa
+    and Sioux musical performances.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One analyzed song is transcribed in D minor; the second and fifth tones of
+    that key are absent, and the melody is outlined by descending intervals with a
+    return to F at the close.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: No. 20 is identified as an Opening Song of the Sun Dance, sung by Lone Man,
+    with drum marking J=84.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The analysis of No. 20 states that its rhythmic unit occurs twice at the opening,
+    its melody has a range of 13 tones, and it is minor in tonality while lacking
+    only the sixth tone of the complete octave.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: During the opening dance, gifts were given to the poor or exchanged among
+    the people, and many people paid respects to the parents of young men taking part
+    in the dance for the first time.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lone Man
+  description: Named singer of No. 20, an Opening Song of the Sun Dance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: the poor
+  description: Recipients of gifts during the opening dance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: the people
+  description: Community members among whom gifts were exchanged during the opening
+    dance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: parents of young men
+  description: Parents who received respects from many people during the opening dance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: young men taking part for the first time
+  description: Young men participating in the dance for the first time.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The passage states that No. 20 was sung by Lone Man.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: gift recipients
+  assigned_to:
+  - fig:2
+  basis: The passage states that many gifts were given to the poor during the opening
+    dance.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: gift exchangers
+  assigned_to:
+  - fig:3
+  basis: The passage states that gifts were exchanged among the people.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: honored parents
+  assigned_to:
+  - fig:4
+  basis: The passage states that many paid respects to the parents of young men participating
+    for the first time.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: first-time dance participants
+  assigned_to:
+  - fig:5
+  basis: The passage identifies the young men as taking part in the dance for the
+    first time.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: gifts
+  literal_form: Gifts given to the poor or exchanged among the people during the opening
+    dance.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: paying respects
+  literal_form: A social or ceremonial gesture of paying respects to parents of first-time
+    participants.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Analysis and performance attribution of an opening Sun Dance song
+  summary: The passage describes musical traits of opening songs, identifies No. 20
+    as an Opening Song of the Sun Dance, and attributes its singing to Lone Man.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Gift-giving and honoring kin during the opening dance
+  summary: During the excitement of the opening dance, gifts are given to the poor
+    or exchanged among people, and respects are paid to the parents of young men participating
+    for the first time.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ritual gift-giving and exchange during ceremony
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage explicitly describes gifts being given to the poor or exchanged
+    among the people during the opening dance.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the theological or symbolic meaning of the
+    exchange; the taxonomy link is based only on ritualized giving and exchange.
+- id: motif:2
+  label: First-time ritual participation marked by public respect to kin
+  taxonomy_refs:
+  - initiation
+  basis: The passage notes that many paid respects to the parents of young men who
+    were taking part in the dance for the first time.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage does not explicitly call the first participation an initiation
+    or describe a rite of passage; the link is tentative.
+- id: motif:3
+  label: Ceremonial opening song
+  taxonomy_refs: []
+  basis: The passage identifies No. 20 as an Opening Song of the Sun Dance and provides
+    its performance and musical analysis.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a ritual-performance pattern rather than a myth narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself compares a musical performance feature in Chippewa and
+    Sioux contexts: important phrases persist while unimportant phrases vary slightly.'
+  claim_level: same_function
+  target: Chippewa and Sioux musical performances
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is musicological, not a direct mythological motif comparison,
+    and the passage makes no claim about historical contact or common inheritance.
+- id: claim:2
+  claim: The passage compares melodic range in Chippewa songs and the present series,
+    noting that a range of more than 12 tones occurs in 11 percent of Chippewa songs
+    and 10 percent of the present series.
+  claim_level: same_function
+  target: Chippewa songs and the present Teton Sioux song series
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns musical range statistics only and does not establish
+    shared mythic content or historical transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10065-10117, opening analytical paragraph
+  quote_or_summary: Tempo may increase with repetitions in songs expressive of desire;
+    comparison of two transcription portions notes persistent important phrases and
+    slight changes in unimportant phrases, a peculiarity observed in Chippewa and
+    Sioux musical performances.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 10065-10117, D minor analysis paragraph
+  quote_or_summary: A song is analyzed in D minor, lacking the second and fifth tones;
+    the melody is outlined by descending intervals F-C, C-F, F-D, with return to F,
+    and has roughly equal downward and upward intervals.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 10065-10117, No. 20 heading
+  quote_or_summary: "“No. 20. Opening Song of the Sun Dance (b) ... Sung by Lone Man
+    ... Drum J=84”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 10065-10117, No. 20 analysis
+  quote_or_summary: The rhythmic unit occurs twice at the opening; the range is 13
+    tones; only 11 percent of Chippewa songs and 10 percent of the present series
+    have a similar range; the song is minor in tonality and lacks only the sixth tone
+    of the complete octave.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 10065-10117, closing paragraph
+  quote_or_summary: "“During the excitement of the opening dance many gifts were given
+    to the poor or exchanged among the people, and many ‘paid their respects’ to the
+    parents of young men who were taking part in the dance for the first time.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward. Motif assignments are tentative
+    because the passage is primarily ethnomusicological and supplies little interpretation
+    of ritual meaning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied symbol taxonomy are directly present in the passage; symbol entries are limited to passage-level ritual objects or gestures without taxonomy refs.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l10065-l10117
+  passage_sha256=4f36d55b53a9a8d9590c2118899f882ddbcd4bd8531b65b790842c8d54651ed2
+

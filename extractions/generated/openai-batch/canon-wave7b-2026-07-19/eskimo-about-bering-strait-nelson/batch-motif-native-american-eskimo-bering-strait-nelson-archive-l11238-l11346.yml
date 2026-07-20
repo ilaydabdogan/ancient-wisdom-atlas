@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l11238-l11346
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: DRAG  HANDLES / FISHING  AND  FISHING  IMPLEMENTS / METHODS   OF   FISHINO
+    / THE    ESKIMO    ABOUT    BERING    STRAIT; lines 11238-11346
+  start: '11238'
+  end: '11346'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Ethnographic passage describing western Eskimo coastal fishing seasons,
+    ice fishing through holes for tomcod and sculpin, and the construction and use
+    of ice picks, ice scoops, rods, lines, sinkers, hooks, and auxiliary sticks in
+    Norton Sound, St Michael, Bering Strait, St Lawrence Island, and neighboring coastal
+    areas.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fishing is described as one of the main food sources among the western Eskimo,
+    using multiple methods and implements.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The coastal Norton Sound fishing season begins about late March or early April
+    when spring tides force water through cracks in the ice.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Tomcod and sculpin remain in deep water during winter and return toward shore
+    in spring, where they are caught through holes in the ice with hook and line.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In May, old men and women fish for many hours on the ice, and a photographed
+    St Michael scene shows a man at a fishing hole.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ice fishing holes are made six to eight inches in diameter, using ice picks
+    with wooden staffs and metal, reindeer-horn, ivory, or deerhorn points.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ice scoops with netted or solid bottoms are used to remove ice fragments and
+    surface ice film from the fishing hole; described examples come from St Michael,
+    Bering Strait, and St Lawrence Island.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Tomcod fishing gear includes a short pole, long line, sinker, hook with ivory
+    or bone shank and iron points, line guide, and notched rod base.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The fisherman uses a slender stick to bring the hook to the surface without
+    rising, throws the fish aside on the ice, strikes it to keep it from returning
+    to the hole, and lowers the hook again.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: No bait is used; the fish nibble at the white ivory shank and are caught by
+    the repeated up-and-down motion of the hook.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Tomcod are also described as extremely abundant near St Michael in autumn.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: western Eskimo fishers
+  description: People described as relying on fishing and as fishing through sea ice,
+    including old men and women on the ice, a man at a St Michael fishing hole, and
+    a fisherman using rod, line, hook, and stick.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: tomcod
+  description: Fish that remain in deep water in winter, return toward shore in spring,
+    become numerous in May, are caught through ice holes, and are abundant near St
+    Michael in autumn.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: sculpin
+  description: Fish described with tomcod as remaining in deep water during winter
+    and returning toward shore in spring, where they are caught through ice holes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: coastal ice fisher
+  assigned_to:
+  - fig:1
+  basis: The passage describes people fishing through sea ice holes with hooks, lines,
+    rods, scoops, and related tools.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: seasonally returning shore fish
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Tomcod and sculpin are said to remain in deep water during winter and return
+    toward shore as spring approaches.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: primary tomcod catch
+  assigned_to:
+  - fig:2
+  basis: The passage focuses on tomcod fishing equipment and procedure and notes tomcod
+    abundance in May and autumn.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: water under and through sea ice
+  literal_form: Spring tide water forced through cracks in ice and water reached through
+    fishing holes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: sea-ice fishing hole
+  literal_form: A six-to-eight-inch-diameter hole cut through several-feet-thick sea
+    ice for hook-and-line fishing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: ice pick
+  literal_form: Wooden staff with a point of metal, reindeer horn, ivory, or deerhorn,
+    sometimes lashed with sealskin cord.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ice scoop
+  literal_form: Scoop used to remove ice fragments and film, made with deerhorn rim
+    and rawhide or whalebone netting, bone, or animal shoulder-blade variants.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: hook-and-line tomcod gear
+  literal_form: Short pole, long line, sinker, ivory or bone hook shank with iron
+    points, line guide, notched base, and auxiliary stick.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: seasonal return of fish to the ice-bound shore
+  summary: As spring approaches, tides and cracks appear in the shore ice, and tomcod
+    and sculpin move from deep water back toward shore where they can be caught through
+    holes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: making and maintaining a fishing hole
+  summary: Fishers cut a small hole through thick ice with an ice pick and use scoops
+    to remove fragments and new ice film from the opening.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: tomcod fishing through sea ice
+  summary: A seated fisherman works the line and hook up and down through the ice
+    hole, uses a slender stick to bring the fish up without rising, throws the fish
+    onto the ice, strikes it, and returns the hook to the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal fish return and subsistence cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links spring tides, fish return toward shore, May abundance,
+    and autumn tomcod abundance to recurring fishing activity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: This is an ethnographic subsistence pattern rather than a mythic narrative
+    episode.
+- id: motif:2
+  label: opening in ice as access to underwater food
+  taxonomy_refs: []
+  basis: The fishing hole functions as the literal access point between the ice surface
+    where fishers sit and the water below where fish are caught.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage describes practical fishing technology; symbolic significance
+    is not stated.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, ice scoops from St Michael, Bering Strait, St Lawrence
+    Island, and coastal communities from the Kuskokwim mouth to Kotzebue Sound are
+    comparable as same-function tools for clearing fishing holes.
+  claim_level: same_function
+  target: regional ice-scoop implements used in western Alaskan coastal ice fishing
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports functional comparison only; it does not establish
+    historical contact, diffusion, or ritual meaning.
+- id: claim:2
+  claim: The described spring and autumn tomcod availability can be cautiously compared
+    at pattern level to a seasonal-cycle motif family.
+  claim_level: same_motif
+  target: seasonal_cycle motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is ethnographic and technological, not a myth narrative;
+    the comparison is limited to seasonal recurrence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11238-11256
+  quote_or_summary: Fishing is a major food source among the western Eskimo; the Norton
+    Sound coastal season opens in late March or early April when spring tides appear
+    through ice cracks, and tomcod and sculpin return shoreward and are caught through
+    ice holes by hook and line.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized passage.
+- id: ev:2
+  type: summary
+  locator: lines 11256-11263
+  quote_or_summary: In May tomcod become numerous; old men and women fish for many
+    hours on the ice, and a St Michael photograph shows a man at a fishing hole.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized passage.
+- id: ev:3
+  type: summary
+  locator: lines 11264-11278
+  quote_or_summary: A six-to-eight-inch ice hole is made with an ice pick; picks are
+    wooden staffs with iron, reindeer-horn, ivory, or deerhorn points, including a
+    Norton Sound example lashed with sealskin cord.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized passage.
+- id: ev:4
+  type: summary
+  locator: lines 11279-11293
+  quote_or_summary: A small scoop with netted bottom removes ice fragments and ice
+    film; a St Michael specimen has a deerhorn rim, rawhide cord netted in a hexagonal
+    pattern, sinew lashing, and a wooden handle.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized passage.
+- id: ev:5
+  type: summary
+  locator: lines 11294-11308
+  quote_or_summary: In the Bering Strait area some scoop nets use twisted whalebone
+    filament cord; St Lawrence Island examples include a wooden handle with a bone
+    scoop and another made from an animal shoulder-blade lashed to a long wooden handle.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized passage.
+- id: ev:6
+  type: summary
+  locator: lines 11309-11339
+  quote_or_summary: Tomcod fishing uses a short pole, long line, sinker, ivory or
+    bone hook shank with iron points, rod guide, notched rod base, and a slender stick;
+    the fisherman raises the hook, throws the fish onto the ice, strikes it, and returns
+    the hook without bait, using the white ivory shank and up-and-down motion to attract
+    fish.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized passage.
+- id: ev:7
+  type: summary
+  locator: lines 11340-11346
+  quote_or_summary: In autumn, tomcod are described as extremely abundant near St
+    Michael.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is descriptive. Motif and
+    comparison fields are limited because the passage is ethnographic material-culture
+    description rather than myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supernatural or mythic figures are present in this passage; extracted patterns concern seasonal subsistence, water/ice boundary access, and fishing implements.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l11238-l11346
+  passage_sha256=97767830b70d33f25ce092695268bcd4a4de4901c54912c8940aa450ddfc98c1
+

@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l3538-l3545
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12 / BOOK 8; lines 3538-3545'
+  start: '3538'
+  end: '3545'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Taking half of their energies from all of them, he became superior in might.
+  summary: Duryodhana reports that the celestials assent to the god of gods. After
+    taking half of their energies, Sankara becomes superior in might and is called
+    Mahadeva. Mahadeva then promises to arm himself with bow and shaft, fight from
+    his car, slay the gods' foes, and cast the Asuras down to Earth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Duryodhana is presented as continuing a speech or report.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The celestials address the god of gods and assent with the words equivalent
+    to 'So be it.'
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The god takes half of the energies from all of the celestials and becomes
+    superior in might.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: From that time Sankara is said to have been called Mahadeva.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mahadeva says he will be armed with bow and shaft, act from his car, and slay
+    the foes of the denizens of heaven in battle.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mahadeva tells the gods to see to his car, bow, and shaft so that he may throw
+    the Asuras down on the Earth that day.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Duryodhana
+  description: The named speaker who continues the reported narration.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Celestials / gods / denizens of heaven
+  description: A divine collective that addresses the god of gods, provides energies,
+    and is described as having foes.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: God of gods / Sankara / Mahadeva
+  description: The deity who receives or takes half of the gods' energies, becomes
+    superior in might, receives the name Mahadeva, and promises martial action.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Asuras
+  description: The beings whom Mahadeva says he will throw down on the Earth; they
+    are identified with the foes of the gods in this passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: reported speaker
+  assigned_to:
+  - fig:1
+  basis: The passage begins with Duryodhana continuing the narration.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine collective and energy donors
+  assigned_to:
+  - fig:2
+  basis: The celestials assent, and half of their energies are taken from all of them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: empowered supreme warrior deity
+  assigned_to:
+  - fig:3
+  basis: The god becomes superior in might after taking the celestials' energies and
+    promises to fight with bow, shaft, and car.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: intended enemies to be defeated
+  assigned_to:
+  - fig:4
+  basis: Mahadeva states that he will throw the Asuras down on the Earth.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: beneficiaries of promised divine combat
+  assigned_to:
+  - fig:2
+  basis: Mahadeva says he will slay the foes of the denizens of heaven.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: shared divine energy
+  literal_form: half of the celestials' energies
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bow and shaft
+  literal_form: bow and shaft
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: war car
+  literal_form: car
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Earth
+  literal_form: Earth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Divine empowerment and naming
+  summary: The celestials assent, the god takes half of their energies, becomes superior
+    in might, and is thereafter called Mahadeva.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Mahadeva's martial vow against the Asuras
+  summary: Mahadeva promises to arm himself with bow and shaft, fight from his car,
+    slay the gods' foes, and cast the Asuras down to Earth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: collective divine empowerment of a deity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The celestials assent, and the god takes half of their energies from all
+    of them, becoming superior in might before undertaking action on their behalf.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage shows transfer of divine
+    energy and promised aid, but it does not explicitly describe a negotiated exchange.
+- id: motif:2
+  label: armed divine champion against Asuras
+  taxonomy_refs: []
+  basis: Mahadeva declares that he will use bow, shaft, and car in battle to slay
+    the foes of the denizens of heaven and throw the Asuras down on Earth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives only a short martial declaration and not the broader
+    battle outcome.
+- id: motif:3
+  label: new divine title following empowerment
+  taxonomy_refs: []
+  basis: After becoming superior in might, Sankara is said to have come to be called
+    Mahadeva.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states the naming result but gives limited context for the
+    title's full significance.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison to a divine-war champion pattern
+    in which heavenly beings empower a supreme deity who promises to defeat Asuras
+    or anti-divine foes.
+  claim_level: same_function
+  target: divine champion against Asuras pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison internal to the described pattern;
+    the passage alone does not establish historical contact, common inheritance, or
+    a complete mythic cycle.
+- id: claim:2
+  claim: The transfer of half the celestials' energies to Mahadeva, followed by his
+    promise to fight for them, can be cautiously compared to the sacred-exchange motif
+    family.
+  claim_level: same_function
+  target: sacred_exchange
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not explicitly frame the energy transfer as a bargain
+    or reciprocal ritual exchange, so the comparison remains approximate.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3538-3539
+  quote_or_summary: Duryodhana continued; the celestials address the god of gods and
+    say 'So be it.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary with short quoted phrase.
+- id: ev:2
+  type: quote
+  locator: lines 3539-3541
+  quote_or_summary: Taking half of the energies from all of them, the god becomes
+    superior in might, superior to all in the universe.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary of the passage.
+- id: ev:3
+  type: quote
+  locator: lines 3541-3542
+  quote_or_summary: From that time Sankara came to be called Mahadeva.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 3542-3544
+  quote_or_summary: Mahadeva says he will be armed with bow and shaft, act from his
+    car, and slay the foes of the denizens of heaven in battle.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary of the passage.
+- id: ev:5
+  type: quote
+  locator: lines 3544-3545
+  quote_or_summary: Mahadeva tells the gods to see to his car, bow, and shaft so he
+    may throw the Asuras down on the Earth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary of the passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal figures and actions are explicit in the passage. Motif labels involving
+    exchange and divine-war patterning are interpretive and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; taxonomy assignments are limited to the provided available references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l3538-l3545
+  passage_sha256=c738585bf22adad677c53e5739c40fcecb39adbdfe21bcc5edefa187e85b8640
+

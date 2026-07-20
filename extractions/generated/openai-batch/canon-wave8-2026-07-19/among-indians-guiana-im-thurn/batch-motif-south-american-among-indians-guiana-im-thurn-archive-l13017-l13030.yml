@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.south-american-among-indians-guiana-im-thurn-archive-l13017-l13030
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: SHOULDEN-RUFF OF MACAW-FEATHERS. / PAIR OF WOODEN FLUTES. / ZZOLIAN HARP.
+    / ATHLETIC SPORTS. . 327 -; lines 13017-13030
+  start: '13017'
+  end: '13030'
+  translation: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic
+    from the Interior of British Guiana'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes an athletic sport practiced at paiwari feasts: a
+    challenge is issued and accepted, and two wrestlers use large square shields called
+    ha-ha, made from eta palm pith and ornamented with fibre tassels.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The athletic sport is practiced at paiwari feasts.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A challenge is given and accepted before the contest.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each opponent is provided with a large square shield called ha-ha, described
+    as about four feet high and three feet wide.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ha-ha shield is made of parallel strips of eta palm pith lashed together
+    by three long transverse sticks.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The transverse sticks have ends ornamented with large tassels of loose fibre.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The two wrestlers stand behind their shields and grasp the shields by the
+    two sides with their hands.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: two opponents or wrestlers
+  description: Two athletic contestants, each positioned behind and holding a ha-ha
+    shield.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: challenged athletic opponents
+  assigned_to:
+  - fig:1
+  basis: The passage says a challenge is given and accepted and then describes the
+    opponents.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shield-bearing wrestlers
+  assigned_to:
+  - fig:1
+  basis: The passage describes the two wrestlers as standing behind shields and grasping
+    them by their sides.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: ha-ha shield
+  literal_form: large square shield called ha-ha
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: eta palm pith
+  literal_form: parallel strips of the pith of the eta palm
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fibre tassels
+  literal_form: great tassels of loose fibre ornamenting the shield sticks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Challenge and shield-wrestling at a paiwari feast
+  summary: At a paiwari feast, a challenge is issued and accepted; two wrestlers each
+    use a ha-ha shield and stand behind it while holding its sides.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: formal challenge before athletic contest
+  taxonomy_refs: []
+  basis: The passage explicitly states that a challenge is given and accepted before
+    the described sport.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic description of sport, not a mythic narrative;
+    no broader mythological function is stated.
+- id: motif:2
+  label: shield-mediated wrestling or contest
+  taxonomy_refs: []
+  basis: The passage describes two wrestlers using large shields as part of the contest.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage fragment ends mid-description, so the full action and outcome
+    of the sport are not available.
+- id: motif:3
+  label: feast-associated athletic performance
+  taxonomy_refs: []
+  basis: The sport is described as practiced at paiwari feasts.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not state ritual, sacred, or mythic meaning for the feast
+    sport.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13019-13021
+  quote_or_summary: '"which they practise at their paiwari feasts. A challenge is
+    given and accepted."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 13021-13026
+  quote_or_summary: Each opponent has a large square shield called ha-ha, about four
+    feet by three feet, made from eta palm pith strips lashed with transverse sticks
+    and ornamented with fibre tassels.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 13026-13030
+  quote_or_summary: The two wrestlers stand behind their shields and grasp the shields
+    by the two sides with their hands; the passage then breaks off after "stands oppo-".
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is a brief ethnographic fragment and ends mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-cultural or nearby-corpus comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-among-indians-guiana-im-thurn-archive__l13017-l13030
+  passage_sha256=f347253345646fd62689739cd7b923aa5fd23e00573786480c75631fb59a2b9e
+

@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l1461-l1504
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: ON    THE   WAY   TO    OBAN  3 / B    2 / ON   THE  WAY   TO   OBAN  5 /
+    ON   THE   WAY   TO   OBAN; lines 1461-1504
+  start: '1461'
+  end: '1504'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: as the central point of their race
+  summary: The passage describes the geology of the station hill near Oban, contrasts
+    health conditions between children living on the hill and those in Oban town,
+    comments on Ekoi domestic hygiene and housing habits, gives child mortality figures
+    from a sample of married women, and states that Oban is regarded as the central
+    point of the Ekoi race.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The district rocks are described as mostly metamorphic, and the station hill
+    is mainly composed of gneiss with manganese, quartz, felspar, pegmatite dykes,
+    and traces of several minerals.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The station hill is described as having a slight breeze.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Children living on the hill in new well-ventilated houses are said to appear
+    markedly healthier than children in Oban itself.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Ekoi are described as devoted parents and as particular about bathing
+    and washing garments.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says an old habit of crowding together for safety from hostile
+    attack still influences the building of small, ill-ventilated compound rooms.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage reports that among sixty-two married women, 270 children had been
+    born and 163 had died.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Oban gives its name to the district and is regarded by Ekoi under British
+    rule, and by many across the border, as the central point of their race.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The narrator proposes to pause at Oban before going further and to give an
+    account of influences that shaped the people's character.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ekoi
+  description: The people discussed in the passage; described collectively as devoted
+    parents and as regarding Oban as a central point of their race.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Children living on the station hill
+  description: Children living in new well-ventilated houses on the hill; contrasted
+    as healthier than children in Oban itself.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Children in Oban itself
+  description: Children in Oban town used as the comparison group in the passage's
+    discussion of healthfulness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sixty-two married women of Oban
+  description: A sampled group of married women whose numbers of births and child
+    deaths are reported.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: collective people
+  assigned_to:
+  - fig:1
+  basis: The passage discusses the Ekoi collectively in relation to parenting, sanitation,
+    and Oban's status.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: devoted parents
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly describes the Ekoi as devoted parents.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: contrasted child groups
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage contrasts the apparent health of children living on the hill
+    with their contemporaries in Oban itself.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: statistical maternal sample
+  assigned_to:
+  - fig:4
+  basis: The passage uses sixty-two married women chosen at random to report figures
+    for births and child deaths.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: station hill
+  literal_form: hill on which the station is built
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fresh air and ventilation
+  literal_form: slight breeze and well-ventilated houses
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: crowded compound rooms
+  literal_form: small, ill-ventilated rooms built under an inherited habit of crowding
+    for safety
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Oban as central point
+  literal_form: Oban regarded as the central point of the Ekoi race
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Description of the station hill's geology
+  summary: The passage describes the geological composition of the district rocks
+    and the hill on which the station is built.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Health contrast between hill and town children
+  summary: The passage links the hill's breeze and well-ventilated station houses
+    with a visible health difference between children on the hill and children in
+    Oban town.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Domestic hygiene and crowded housing
+  summary: The passage describes Ekoi cleanliness in bathing and washing garments,
+    then contrasts this with crowded, ill-ventilated rooms associated with defensive
+    settlement habits and child mortality.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Child mortality figures in Oban
+  summary: The passage reports birth and child death numbers for a random group of
+    sixty-two married women in Oban.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Oban named as central point
+  summary: The passage states that Oban names the district and is regarded by Ekoi
+    groups as the central point of their race.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: central settlement as identity point
+  taxonomy_refs:
+  - world_center
+  basis: Oban is explicitly said to give its name to the district and to be regarded
+    as the central point of the Ekoi race.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is ethnographic and geopolitical rather than mythic or cosmological;
+    the world-center taxonomy is only a cautious functional fit.
+comparison_claims:
+- id: claim:1
+  claim: Oban's role in the passage may be compared functionally to a central-place
+    or world-center pattern because it is described as the central point of the Ekoi
+    race.
+  claim_level: same_function
+  target: world_center motif family
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not present Oban as a cosmic center, ritual axis,
+    or mythic creation point; it only states a social and geographic centrality.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1461-1467
+  quote_or_summary: The rocks are mostly metamorphic; the station hill is mainly gneiss
+    with manganese, quartz, felspar, pegmatite dykes, and traces of other minerals.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 1469-1475
+  quote_or_summary: The hill has a slight breeze, and children living there in new
+    well-ventilated houses are said to look markedly healthier than children in Oban
+    itself.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 1476-1487
+  quote_or_summary: The Ekoi are described as devoted parents and careful about bathing
+    and washing garments, but old defensive crowding habits are said to result in
+    small, ill-ventilated rooms and high child mortality.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 1489-1497
+  quote_or_summary: A random sample of sixty-two married women in Oban is reported
+    to have borne 270 children, of whom 163 had died.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 1499-1503
+  quote_or_summary: Oban is described as giving its name to the district and as being
+    regarded "as the central point of their race."
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain; brief quotation used for identification.
+- id: ev:6
+  type: summary
+  locator: '1504'
+  quote_or_summary: The narrator says it may be useful to pause before going further
+    and discuss influences that shaped the people's character.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward. Motif and comparison confidence is
+    lower because the passage is ethnographic and administrative rather than mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic action or named supernatural figures occur in this passage; extracted motifs are limited to central-place symbolism and social-spatial patterns.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l1461-l1504
+  passage_sha256=b64fe35d7592b241197e26a1411dbcad0a3b192febb693a5aaf1f3295ed80b68
+

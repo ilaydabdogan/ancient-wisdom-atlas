@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l1112-l1153
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: DANGERS OF ENTRANCE / DANGERS OF ENTRANCE / DANGERS OF ENTRANCE / DANGERS
+    OF ENTRANCE; lines 1112-1153
+  start: '1112'
+  end: '1153'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The first-person narrator describes a policy for entering villages and
+    gaining acceptance by living with the people, sharing ordinary activities, and
+    sometimes adopting their costume. He also describes commanding personal service,
+    travelling with attendants, displaying leadership in difficult situations, and
+    avoiding orders that might be disobeyed. In one anecdote, after overhearing attendants
+    planning to hunt instead of depart at the morning star, he changes the plan and
+    grants hunting permission to most of them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator says he sought to gain a place in the people's hearts by living
+    in their villages, mixing freely, joining ordinary life and amusements, and sometimes
+    adopting their costume.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On arriving at a village, the narrator ordered people to prepare his resting-place,
+    make a fire, bring water, and remove his knee-boots.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When heat or flies were troublesome, the narrator made two people sit by him
+    with fans; when crossing a swampy patch on foot, he made one person carry him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator usually travelled with seven or eight Indian attendants, sometimes
+    giving small presents for their services, and assumed as much pomp as circumstances
+    allowed.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In difficult situations, including a pampas fire and moving refractory animals
+    across a river, the narrator took a leading part to show that he could do such
+    tasks when necessary.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator studied dispositions and avoided giving orders when he thought
+    people were likely to disobey, so that they would not realize they could disobey
+    him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After saying he intended to resume the journey at the rising of the morning
+    star, the narrator overheard others saying they would not go in the morning because
+    they intended to hunt until midday.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The next morning, when asked whether he would be ready to start as the star
+    would soon be up, the narrator replied that he intended to remain until afternoon
+    and later granted hunting permission to all but one.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person narrator
+  description: The speaker who enters villages, directs attendants, manages journeys,
+    and describes his policy for gaining acceptance and maintaining authority.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: village people
+  description: People in the villages whom the narrator describes as ministering to
+    his personal comfort by preparing a resting-place, making fire, bringing water,
+    fanning him, removing boots, and carrying him across swampy ground.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Indian attendants
+  description: Seven or eight attendants who travel with the narrator, receive occasional
+    small presents, and in one incident discuss delaying departure in order to hunt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: village participant seeking acceptance
+  assigned_to:
+  - fig:1
+  basis: The narrator states that living in villages, mixing freely, joining ordinary
+    life, and sometimes adopting costume were intended to win acceptance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: commanding traveler
+  assigned_to:
+  - fig:1
+  basis: The narrator orders services, travels with attendants, assumes pomp, and
+    takes a leading part in difficult travel situations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: providers of personal service
+  assigned_to:
+  - fig:2
+  basis: Village people are described as preparing the narrator's resting-place, making
+    fire, bringing water, removing boots, fanning him, and carrying him across swampy
+    ground.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: travel attendants and hunters
+  assigned_to:
+  - fig:3
+  basis: The attendants travel with the narrator and later plan to hunt until midday
+    instead of departing in the morning.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: strategic manager of obedience
+  assigned_to:
+  - fig:1
+  basis: The narrator avoids giving orders he thinks may be disobeyed and changes
+    the departure plan after overhearing potential refusal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire; pampas fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: water crossing and water service
+  literal_form: water; swampy patch; river
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: morning star as travel marker
+  literal_form: rising of the morning star
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: fans for heat and flies
+  literal_form: fans
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Policy of entrance through shared village life
+  summary: The narrator explains that he tried to gain acceptance by living among
+    the people, mixing freely, taking part in ordinary life and amusements, and sometimes
+    adopting costume.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival at a village and demanded service
+  summary: On arriving at a village, the narrator directs people to prepare his resting-place,
+    make fire, bring water, remove boots, fan him, and carry him across swampy ground
+    when needed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Travel with attendants and display of capability
+  summary: The narrator travels with several attendants, gives occasional presents,
+    assumes pomp, and personally leads in difficult moments such as fighting a pampas
+    fire or crossing a river with animals.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Departure delayed after overheard hunting plan
+  summary: After planning to depart at the morning star, the narrator overhears the
+    attendants' intent to hunt instead, and the next morning he changes the plan to
+    remain until afternoon while granting hunting permission to most of them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: entry through assimilation and participation
+  taxonomy_refs: []
+  basis: The narrator frames village residence, shared activities, and partial adoption
+    of costume as a means of entering social life and gaining acceptance.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic first-person strategy, not a mythic initiation
+    episode; no taxonomy motif is assigned.
+- id: motif:2
+  label: authority displayed through commanded service and pomp
+  taxonomy_refs: []
+  basis: The passage repeatedly describes ordered service, attendants, small gifts,
+    and deliberate assumption of pomp.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The pattern is social and narrative rather than explicitly mythological.
+- id: motif:3
+  label: preserving authority by avoiding a contestable command
+  taxonomy_refs: []
+  basis: The narrator says he avoids orders likely to be disobeyed and changes a departure
+    order after overhearing a contrary plan.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a practical leadership tactic in the passage; any broader comparative
+    reading requires review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1112-1153; opening policy paragraph
+  quote_or_summary: The narrator describes trying to win a place in the people's hearts
+    by living in their villages, mixing freely, joining daily life and amusements,
+    and sometimes adopting costume.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1112-1153; village arrival paragraph
+  quote_or_summary: 'At village arrival, the narrator orders people to provide comforts:
+    prepare a resting-place, make fire, bring water, remove boots, fan him, and carry
+    him across swampy ground.'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1112-1153; travel and difficulty paragraph
+  quote_or_summary: The narrator travels with seven or eight Indian attendants, gives
+    occasional small presents, assumes pomp, and personally leads in difficulties
+    such as pampas fire and moving refractory animals across a river.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1112-1153; obedience-management paragraph
+  quote_or_summary: The narrator studies dispositions and avoids issuing orders likely
+    to be disobeyed, aiming to prevent others from realizing that he cannot compel
+    obedience.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1112-1153; morning-star departure anecdote
+  quote_or_summary: After announcing departure at the rising of the morning star,
+    the narrator overhears a plan to hunt until midday; in the morning he says he
+    will remain until afternoon and grants hunting permission to all but one.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    are limited because the passage is an ethnographic travel account rather than
+    a myth narrative. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage contains practical descriptions of village entrance, authority management, travel, fire, water crossing, and timing by the morning star; it does not itself support broader comparative mythology claims.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l1112-l1153
+  passage_sha256=56e7392779d5c1b655c51f09fe0edeb0dc414f6063b34dfe070a16c6d9b62edf
+

@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l13230-l13335
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: POWER OF THE NAME 301 / THE CREATION OF MAN 307 / CHAPTER VIII / I I I I
+    I; lines 13230-13335
+  start: '13230'
+  end: '13335'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary interlinear passage gives a first-person account of self-union,
+    embrace with the speaker's own shadow, seed placed into the speaker's own mouth,
+    and the sending forth of issue and moisture in the forms of Shu and Tefnut. A
+    nearby fragment names Nu as father.
+  language: English with Egyptian transliteration fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a first-person account using repeated forms of 'I' and 'my
+    own.'
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he joined himself in an embrace with his shadow using a clenched
+    hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says he poured his own seed into his own mouth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says he sent forth issue in the form of Shu.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:5
+  text: The speaker says he sent forth moisture in the form of Tefnut.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:6
+  text: A footnote explains Shu as an emanation from the speaker's body and Tefnut
+    as moisture from the speaker's body.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The fragment names Nu in a phrase rendered as 'my father Nu.'
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: First-person speaker
+  description: The speaker who describes self-embrace, placing seed into his mouth,
+    and sending forth issue and moisture.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Shu
+  description: Named as the form in which the speaker sent forth issue; the footnote
+    calls this an emanation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Tefnut
+  description: Named as the form in which the speaker sent forth moisture.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Nu
+  description: Named in the fragment as 'my father Nu.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: self-generating speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker embraces his own shadow, places his own seed in his mouth, and
+    sends forth forms identified as Shu and Tefnut.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: emitted form of issue or emanation
+  assigned_to:
+  - fig:2
+  basis: Shu is named as the form of the issue sent forth; the footnote calls this
+    an emanation.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: emitted form of moisture
+  assigned_to:
+  - fig:3
+  basis: Tefnut is named as the form of the moisture sent forth.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: named father
+  assigned_to:
+  - fig:4
+  basis: The fragment includes the phrase 'my father Nu.'
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: clenched hand
+  literal_form: the speaker's clenched hand used in the self-embrace
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: shadow
+  literal_form: the speaker's own shadow, embraced by the speaker
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: seed
+  literal_form: the speaker's own seed poured into his own mouth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mouth
+  literal_form: the speaker's own mouth receiving the seed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: issue or emanation
+  literal_form: issue sent forth in the form of Shu; footnote glosses this as an emanation
+    from the body
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: moisture
+  literal_form: moisture sent forth in the form of Tefnut
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Self-embrace and seed in the mouth
+  summary: The speaker embraces himself with his shadow and places his own seed into
+    his own mouth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Sending forth Shu and Tefnut
+  summary: The speaker sends forth issue in the form of Shu and moisture in the form
+    of Tefnut.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: self-generation through self-union
+  taxonomy_refs: []
+  basis: The speaker joins himself in an embrace with his own shadow and uses his
+    own seed in an act of generation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt is fragmentary and does not name the speaker in the supplied
+    lines.
+- id: motif:2
+  label: sacred birth or creation by bodily emission
+  taxonomy_refs:
+  - sacred_birth
+  basis: Shu and Tefnut are produced as forms of issue and moisture sent forth from
+    the speaker, with the footnote identifying bodily emanation and moisture.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage describes emanation and moisture rather than an ordinary birth;
+    taxonomy mapping is approximate.
+- id: motif:3
+  label: self and shadow as generative pair
+  taxonomy_refs:
+  - duality
+  basis: The speaker embraces his own shadow as part of the generative sequence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The shadow is not explicitly personified as an independent figure in the
+    supplied passage.
+- id: motif:4
+  label: divine parent-child relation by naming and emanation
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Nu is called 'my father,' and Shu and Tefnut are described as forms emitted
+    by the speaker.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The relationship of the speaker to Shu and Tefnut is expressed as emission,
+    not explicitly as parentage; the Nu line is fragmentary.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13230-13335
+  quote_or_summary: Fragmentary first-person creation passage with repeated first-person
+    expressions and Egyptian transliteration fragments.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 13230-13335
+  quote_or_summary: '"with my clenched hand, I joined myself in an embrace ... with
+    my shadow"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 13230-13335
+  quote_or_summary: '"I poured seed ... into my mouth ... my own"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 13230-13335
+  quote_or_summary: '"I sent forth issue ... in the form of Shu"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 13230-13335
+  quote_or_summary: '"I sent forth moisture ... in the form of ... Tefnut"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:6
+  type: quote
+  locator: footnote within lines 13230-13335
+  quote_or_summary: '"the emanation which took the form of Shu" and "the moisture
+    which took the form of Tefnut"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 13230-13335
+  quote_or_summary: '"my father Nu"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is OCR-fragmentary and interlinear, so extraction is limited
+    to explicit translated phrases and the supplied footnote. No external identifications
+    of the speaker are used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself compare this material with another text, tradition, or motif family beyond the available taxonomy mapping used for candidate motifs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l13230-l13335
+  passage_sha256=1ae77a048ce53005eaa9ca6442d40ed975fc802bacb07f94bec32b311281b24c
+

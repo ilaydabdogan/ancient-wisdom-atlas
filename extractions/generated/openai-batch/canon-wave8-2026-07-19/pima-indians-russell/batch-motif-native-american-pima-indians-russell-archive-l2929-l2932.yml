@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l2929-l2932
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: AGENTS / SCHOOLS / THE PIMA CALENDAR / NATURE OF THE EVENTS; lines 2929-2932
+  start: '2929'
+  end: '2932'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "'no Pima would do such a thing; he would never kill his chief.'"
+  summary: The passage says the Pimas had long heard of the Great Chiefs in Washington
+    and wanted to see one in person. An agency interpreter sought a biography of the
+    late President and, after condemning the assassin's crime at Buffalo, remarked
+    that no Pima would kill his chief.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Pimas had heard for many years of the Great Chiefs in Washington.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Pimas were described as desirous of seeing one of these Great Chiefs in
+    person when the opportunity arose.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The official interpreter at the agency repeatedly expressed a desire during
+    the winter of 1901-2 to obtain a good biography of the late President.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The interpreter commented on the crime of the assassin at Buffalo.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The interpreter stated that no Pima would kill his chief.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Pimas
+  description: The Pima people, described as having heard of Great Chiefs in Washington
+    and as unwilling, according to the interpreter, to kill a chief.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Great Chiefs in Washington
+  description: Distant chiefs in Washington whom the Pimas had heard about and wanted
+    to see in person.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Official interpreter at the agency
+  description: A female agency interpreter who wanted a biography of the late President
+    and commented on the assassin's crime.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: The late President
+  description: A deceased President whose biography the interpreter wanted to obtain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: The assassin at Buffalo
+  description: The person whose crime at Buffalo is called hideous by the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Chief
+  description: A chief whom, according to the interpreter's remark, a Pima would never
+    kill.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: People desiring to see a distant leader
+  assigned_to:
+  - fig:1
+  basis: The Pimas are said to have wanted to see one of the Great Chiefs in person.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Chief or leader
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The passage refers to Great Chiefs in Washington and to a Pima's chief.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: Agency interpreter and commentator
+  assigned_to:
+  - fig:3
+  basis: The official interpreter sought a biography and made the quoted remark.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: Subject of desired biography
+  assigned_to:
+  - fig:4
+  basis: The interpreter wanted a good biography of the late President.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: People described as unwilling to kill their chief
+  assigned_to:
+  - fig:1
+  basis: The interpreter said no Pima would do such a thing or kill his chief.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Perpetrator of condemned crime
+  assigned_to:
+  - fig:5
+  basis: The passage refers to the hideous crime of the assassin at Buffalo.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Desire to see a Great Chief
+  summary: The Pimas, having heard for many years of Great Chiefs in Washington, are
+    described as wanting to see one in the flesh when they had the chance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Interpreter's response to assassination
+  summary: The agency interpreter sought a biography of the late President, condemned
+    the assassin's crime at Buffalo, and remarked that no Pima would kill his chief.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Refusal to kill one's chief
+  taxonomy_refs: []
+  basis: The interpreter explicitly says that no Pima would do such a thing and that
+    he would never kill his chief.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic comment in a historical context, not a mythic
+    narrative motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2929-2930
+  quote_or_summary: The Pimas had heard for many years of the Great Chiefs in Washington
+    and wanted to see one in person when possible.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2930-2931
+  quote_or_summary: During the winter of 1901-2, the official interpreter at the agency
+    repeatedly wanted a good biography of the late President.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2931-2932
+  quote_or_summary: The interpreter commented on the hideous crime of the assassin
+    at Buffalo.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: line 2932
+  quote_or_summary: "'no Pima would do such a thing; he would never kill his chief.'"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif confidence is low because
+    the passage is ethnographic-historical rather than mythic or symbolic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol references were assigned; none of the available symbol terms are present in the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l2929-l2932
+  passage_sha256=c38cf0e5dadc6e381ad219fb6caa79a25bee27a66e9378886afd7ceb94d4f7fb
+

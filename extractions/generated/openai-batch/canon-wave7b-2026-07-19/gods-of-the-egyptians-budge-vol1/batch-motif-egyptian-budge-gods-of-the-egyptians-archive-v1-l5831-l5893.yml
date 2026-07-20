@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l5831-l5893
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: NOTION OF DIVINE UNITY 117 / EGYPTIAN MONOTHEISM 119 / OSIRIS AS GOD 121
+    / CONCEPTION OF GOD; lines 5831-5893
+  start: '5831'
+  end: '5893'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage cites admonitions and reflections about God: God''s actions
+    or ways cannot be known; eating bread or receiving food occurs according to God''s
+    plan or providence; the addressee must not put terror into men and women because
+    God opposes it; and a person with ploughable land should work the field God has
+    given. A note attributes one observation to Kaqemna and the others to Ptah-hetep.'
+  language: English, with romanized Egyptian excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage frames the cited statements as admonitions and reflections in
+    earlier works.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the things God makes or brings about are not known,
+    and explains this as God's ways being inscrutable.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that eating bread is according to God's plan and explains
+    this as a man's food coming through God's providence.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage commands the addressee not to put terror into men and women and
+    says God is opposed to that action.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says that if the addressee has land for ploughing, he should work
+    the field that God has given.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage attributes one observation to Kaqemna and the other observations
+    to Ptah-hetep.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: A deity whose agency is described as unknowable, whose plan or providence
+    supplies bread or food, who opposes putting terror into men and women, and who
+    gives land or a field.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: human addressee
+  description: The implied 'thou' addressed by the instructions not to terrify people
+    and to work ploughable land.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: men and women
+  description: People into whom the addressee is commanded not to put terror.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Kaqemna
+  description: Named as the author of one observation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Ptah-hetep
+  description: Named as the author of the other observations.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: inscrutable divine agent
+  assigned_to:
+  - fig:1
+  basis: The passage says the things God makes or brings about are not known and glosses
+    this as the inscrutability of God's ways.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: provider or planner of sustenance and land
+  assigned_to:
+  - fig:1
+  basis: Bread or food is said to come according to God's plan or providence, and
+    ploughable land or a field is said to have been given by God.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: divine opponent of terrorizing others
+  assigned_to:
+  - fig:1
+  basis: The passage says God is opposed to putting terror into men and women.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: ethical and agricultural addressee
+  assigned_to:
+  - fig:2
+  basis: The addressee is instructed not to put terror into others and to work the
+    land or field given by God.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: protected human group
+  assigned_to:
+  - fig:3
+  basis: Men and women are named as those whom the addressee must not terrify.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: attributed wisdom author
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage assigns one observation to Kaqemna and the others to Ptah-hetep.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: bread or food
+  literal_form: bread
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: field or ploughable land
+  literal_form: field; land for ploughing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Unknowable divine agency
+  summary: The cited reflection states that what God makes or brings about cannot
+    be known, which the passage explains as the inscrutability of God's ways.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Providential sustenance
+  summary: The passage says eating bread is according to God's plan and explains this
+    as food coming through divine providence.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Prohibition against terrorizing people
+  summary: The addressee is told not to put terror into men and women because God
+    is opposed to it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Working land given by God
+  summary: A person with land for ploughing is instructed to labor in the field that
+    God has given.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom instruction about divine order
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly presents the statements as admonitions and reflections
+    and attributes them to Kaqemna and Ptah-hetep.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The excerpt preserves short maxims in a modern scholarly discussion, not
+    a complete mythic narrative.
+- id: motif:2
+  label: inscrutable divine agency
+  taxonomy_refs: []
+  basis: The passage states that the things God makes or brings about are not known
+    and glosses this as God's ways being inscrutable.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a doctrinal or sapiential statement rather than a narrative
+    episode of concealment.
+- id: motif:3
+  label: divine providence through food and land
+  taxonomy_refs: []
+  basis: Bread or food is described as coming according to God's plan or providence,
+    and land or a field is described as given by God.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage does not develop a full myth of provisioning; it gives brief
+    admonitory statements.
+- id: motif:4
+  label: divine opposition to social intimidation
+  taxonomy_refs: []
+  basis: The addressee is warned not to put terror into men and women because God
+    is opposed to that conduct.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states divine opposition but does not describe a judgment,
+    punishment, or narrative consequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5831-5837
+  quote_or_summary: The passage introduces the material as admonitions and reflections
+    found in cited works.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 5838-5845
+  quote_or_summary: '"Not [are] known the things which maketh God"; the passage explains
+    that God''s ways are inscrutable.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 5846-5853
+  quote_or_summary: '"The eating of bread is according to the plan of God"; the passage
+    explains this as food coming through God''s providence.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 5854-5867
+  quote_or_summary: The addressee is told not to put terror into men and women, because
+    God is opposed to it.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5868-5889
+  quote_or_summary: If the addressee has land for ploughing, he should labor in the
+    field given by God.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: note
+  locator: lines 5890-5893
+  quote_or_summary: A note says the author of one observation was Kaqemna and the
+    other observations are by Ptah-hetep.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal content is clear, but the excerpt is a modern scholarly presentation
+    of brief wisdom maxims rather than a narrative myth. No explicit cross-tradition
+    comparison is made in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make a cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l5831-l5893
+  passage_sha256=c9292362e9525d6e9d7ed4b62c293f1e8456b7e61509806560cff97931338e0a
+

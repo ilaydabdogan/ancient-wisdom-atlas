@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l21455-l21513
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CH.  XIII  AGRICULTURE   AND    FOOD  427 / XIII  AGRICULTURE    AND    FOOD  429
+    / THE   BAGANDA / CHAP.; lines 21455-21513
+  start: '21455'
+  end: '21513'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: she would look upon the plantains as her mainstay
+  summary: 'The passage describes Baganda plantain-grove cultivation: propagation
+    by side-shoots, treatment of plantain types, women’s garden work, remedies for
+    poor crops and locusts, and seasonal maintenance through dry and rainy periods.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The plantain-tree is described as having no useful seeds, with propagation
+    normally occurring by side-shoots.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Side-shoots are cut back when they grow too freely, leaving only two or at
+    most three shoots.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When fruit forms, a woman cuts the flower-stem from the cooking plantain,
+    called female, but leaves it on the beer plantain, called male.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A good plantain-garden is said to assure the family’s food, and plantains
+    are treated as the woman’s mainstay crop.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If a garden yields poor crops, a woman obtains a fetich from the medicine-man
+    and puts it into a pot with tobacco.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The woman smokes the tobacco and blows smoke over the crops; the passage states
+    that the fetich was thought to give power to the tobacco.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: If locusts settle on a garden, the woman lights fires in it and smokes them
+    away while shouting and beating a drum.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: During the dry season, the woman breaks up new land, leaves the plantain-trees
+    mostly to themselves, and cuts fruit as it ripens.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: When the rains begin, she hoes weeds, loosens earth around the trees, and
+    cuts off withered leaves using a knife fixed to a long stick.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Cut leaves and outer fibre are spread on the ground around the trees and roots,
+    preventing dryness and later turning into manure.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: After fruit is taken, a tree is cut down close to the roots and the stem is
+    cut into short lengths.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Woman cultivating a plantain garden
+  description: A woman performs plantain-garden work, attends to the family food supply,
+    applies a poor-crop remedy, drives away locusts, and follows seasonal cultivation
+    routines.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Medicine-man
+  description: The medicine-man supplies a fetich to the woman when the garden yields
+    poor crops.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Plantain-garden cultivator
+  assigned_to:
+  - fig:1
+  basis: The woman cuts flower-stems, harvests fruit, hoes weeds, loosens earth, removes
+    leaves, and spreads plant material around roots.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Household food provider
+  assigned_to:
+  - fig:1
+  basis: The passage links a woman’s good plantain-garden with assuring the family’s
+    food and calls plantains her mainstay.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Crop-remedy performer
+  assigned_to:
+  - fig:1
+  basis: The woman obtains and uses a fetich with tobacco smoke for poor crops and
+    uses fire, smoke, shouting, and a drum against locusts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: Medicine-man and fetich supplier
+  assigned_to:
+  - fig:2
+  basis: The passage says the woman obtains a fetich from the medicine-man when crops
+    are poor.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Plantain-tree or plantain-garden
+  literal_form: Plantain-tree / plantain-garden
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: Side-shoots
+  literal_form: Plantain side-shoots used for propagation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Gendered plantain kinds
+  literal_form: Cooking plantain called female; beer plantain called male
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Fetich with tobacco in a pot
+  literal_form: Fetich placed into a pot with tobacco
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Tobacco smoke over crops
+  literal_form: Smoke from tobacco blown over crops
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Garden fires against locusts
+  literal_form: Fires lighted in the garden
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Drum and shouting
+  literal_form: Shouting and beating a drum while smoking locusts away
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Leaves and fibre carpet
+  literal_form: Cut leaves and fibre spread on the ground around roots
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Plantain propagation and gendered treatment
+  summary: The plantain is propagated by side-shoots, side-shoots are limited in number,
+    and a woman treats the flower-stem differently on cooking/female and beer/male
+    plantains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Plantain garden as household mainstay
+  summary: A woman’s successful plantain-garden is described as assuring food for
+    the family, with plantains treated as her main crop.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Poor-crop remedy
+  summary: For poor crops, the woman obtains a fetich from the medicine-man, places
+    it with tobacco in a pot, smokes the tobacco, and blows smoke over the crops.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Locust expulsion
+  summary: When locusts settle in the garden, the woman lights fires, smokes them
+    away, shouts, and beats a drum.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Seasonal maintenance and mulching
+  summary: The woman follows dry-season and rainy-season routines, then spreads cut
+    leaves and fibre around the plantains so the ground stays moist and later gains
+    manure.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Seasonal agricultural cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly describes a woman’s routine according to dry season
+    and rains, with distinct tasks assigned to each period.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an ethnographic agricultural routine rather than an explicitly
+    mythic narrative.
+- id: motif:2
+  label: Crop remedy by empowered smoke
+  taxonomy_refs: []
+  basis: Poor crops are addressed by obtaining a fetich, combining it with tobacco,
+    smoking the tobacco, and blowing the smoke over crops; the fetich is said to empower
+    the tobacco.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no mythic backstory, deity, or wider ritual context;
+    the source term 'fetich' is retained as historical wording and needs human review.
+- id: motif:3
+  label: Fire, smoke, and noise used to expel pests
+  taxonomy_refs: []
+  basis: Locusts are driven from the garden by fires and smoke accompanied by shouting
+    and drum-beating.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not state whether this is primarily practical, ritualized,
+    or both.
+- id: motif:4
+  label: Gendered classification of cultivated plants
+  taxonomy_refs: []
+  basis: The passage distinguishes a cooking plantain called female from a beer plantain
+    called male and prescribes different treatment of the flower-stem.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a literal cultural classification in an agricultural passage,
+    not necessarily a mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21455-21467
+  quote_or_summary: The plantain-tree has no useful seeds; propagation is by side-shoots,
+    which are cut back so only two or three remain.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 21468-21475
+  quote_or_summary: When fruit forms, a woman cuts the flower-stem from the cooking/female
+    plantain and leaves it on the beer/male plantain.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 21476-21484
+  quote_or_summary: A good plantain-garden assures the family’s food; the woman chiefly
+    cultivates plantains and treats them as her mainstay.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 21484-21489
+  quote_or_summary: For poor crops, the woman obtains a fetich from the medicine-man,
+    puts it in a pot with tobacco, smokes it, and blows smoke over the crops; the
+    fetich is thought to empower the tobacco.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 21489-21492
+  quote_or_summary: "“If locusts settled on a garden,” the woman lit fires, smoked
+    them away, shouted, and beat a drum."
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 21493-21503
+  quote_or_summary: 'The woman’s work follows the season: dry-season land breaking
+    and minimal plantain attention; rainy-season weeding, loosening earth, and cutting
+    withered leaves with a long-stick knife.'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 21504-21513
+  quote_or_summary: Cut leaves and fibre are spread as a ground carpet around plantain
+    roots to prevent dryness and become manure; after fruit is taken, a tree is cut
+    near the roots and the stem into short lengths.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal agricultural details are clear. Motif assignment is limited because
+    the passage is ethnographic and practical rather than explicitly mythological.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Source metadata states public-domain English text with full-text use allowed. Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l21455-l21513
+  passage_sha256=03064a95803d076555a6f63523d6d587e6880236269ed1928139d613a297bc86
+

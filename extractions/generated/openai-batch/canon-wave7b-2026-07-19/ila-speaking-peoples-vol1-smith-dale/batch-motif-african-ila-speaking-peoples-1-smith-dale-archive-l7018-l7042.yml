@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l7018-l7042
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: 'VARIOUS HANDICRAFTS / MAKING A NET. / BASKETRY : BASE OF THE INTUMBA. /
+    VARIOUS HANDICRAFTS; lines 7018-7042'
+  start: '7018'
+  end: '7042'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Ba-ila knots, strong fishing nets made from mukusa
+    twine, the operator’s posture and method for regulating mesh size, and four kinds
+    of Ba-ila basket-work divided by pattern and by gendered makers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The knots used by the Ba-ila are said to need no description beyond the illustrations.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Strong fishing nets are made of mukusa twine.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The knot used for the fishing nets is described as the same as in England.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The net-maker sits and works on a cord stretched between his two big toes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The net-maker uses no gauge and regulates the mesh size by eye.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The Ba-ila have four kinds of basket-work: two coiled, and two twilled and
+    twined.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The first three kinds of basket-work are made by women, and the fourth by
+    men.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ba-ila net-maker
+  description: An operator making a fishing net while sitting and working on a cord
+    stretched between his two big toes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Ba-ila women basket-makers
+  description: Women are identified as makers of the first three kinds of Ba-ila basket-work.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ba-ila men basket-makers
+  description: Men are identified as makers of the fourth kind of Ba-ila basket-work.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: net-maker
+  assigned_to:
+  - fig:1
+  basis: The passage describes the operator making a fishing net by working on a cord
+    and regulating mesh size by eye.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: makers of three basket-work kinds
+  assigned_to:
+  - fig:2
+  basis: The passage states that the first three kinds of basket-work are made by
+    women.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: makers of fourth basket-work kind
+  assigned_to:
+  - fig:3
+  basis: The passage states that the fourth kind of basket-work is made by men.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fishing net
+  literal_form: Strong net made of mukusa twine for fishing.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mukusa twine
+  literal_form: Twine used to make strong fishing nets.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cord between big toes
+  literal_form: Cord stretched between the net-maker’s two big toes during net-making.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mesh regulated by eye
+  literal_form: Mesh size regulated visually without a gauge.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: basket-work types
+  literal_form: 'Four kinds of Ba-ila basket-work: two coiled, two twilled and twined.'
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: making a fishing net
+  summary: A Ba-ila net-maker sits, works on a cord stretched between his big toes,
+    and regulates the net mesh by eye without a gauge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: classification of basket-work
+  summary: The passage classifies four kinds of Ba-ila basket-work by construction
+    pattern and by whether women or men make them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: gendered division of craft production
+  taxonomy_refs: []
+  basis: The passage assigns the first three basket-work kinds to women and the fourth
+    to men.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic craft pattern, not a mythological narrative motif;
+    no symbolic interpretation is stated in the passage.
+- id: motif:2
+  label: gauge-less net-making by visual judgment
+  taxonomy_refs: []
+  basis: The net-maker uses no gauge and regulates mesh size by eye while working
+    on a cord stretched between his toes.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a technical craft procedure rather than a mythological motif;
+    no ritual or symbolic meaning is stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the knot used in Ba-ila fishing nets is the same
+    as a knot used in England.
+  claim_level: visual_similarity
+  target: English net-making knot
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no technical description of the knot beyond asserting
+    sameness, and the comparison is ethnographic rather than mythological.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7018-7024
+  quote_or_summary: The section labels the image as the base of the intumba and states
+    that Ba-ila knots need no description beyond the illustrations.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 7026-7028
+  quote_or_summary: Strong fishing nets are made of mukusa twine, and the knot used
+    is said to be the same as in England.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7028-7031
+  quote_or_summary: The operator sits as pictured, works on a cord stretched between
+    his two big toes, uses no gauge, and regulates mesh size by eye.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7033-7042
+  quote_or_summary: 'The passage lists four kinds of Ba-ila basket-work: two coiled,
+    two twilled and twined; the first three are made by women and the fourth by men.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: Literal craft details are clear. Motif candidates are low-confidence as mythological
+    motifs because the passage is technical ethnography with no stated ritual or narrative
+    meaning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l7018-l7042
+  passage_sha256=55b54f866b3084045382e869b0b1d4b544c234a4b8cc6264803e0ce8dc43b4e4
+

@@ -1,0 +1,196 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l13210-l13232
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER XIII. 4-20 99 / CHAPTER XIII. 21-29 / CHAPTER XIV. 1-14 103 / CHAPTERS
+    XIV. 15-XV. 1 105; lines 13210-13232
+  start: '13210'
+  end: '13232'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a calendrical note explaining the dating of the feast of
+    weeks, the fifty-day count back to the wave-sheaf offering, Jubilees' interpretation
+    of “the morrow after the Sabbath,” and an alternative Baithusian interpretation
+    tied to the weekly Sabbath during the feast of unleavened bread.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the feast of weeks took place on Sivan 15 and that
+    counting back fifty days gives Nisan 22, when the wave-sheaf was offered.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The passage says Jubilees interpreted “the morrow after the Sabbath” as the
+    day after the seventh day of unleavened bread, described as a special day of rest.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The passage notes that other early Jewish uses and modern speculations are
+    based on reading the term “Sabbath” as the weekly Sabbath.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The Baithusians are cited as taking “the morrow after the Sabbath” to mean
+    the day after the weekly Sabbath occurring during the feast of unleavened bread.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Baithusians
+  description: A Jewish group cited in the passage as interpreting the Sabbath phrase
+    in relation to the weekly Sabbath during the feast of unleavened bread.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: alternative calendrical interpreters
+  assigned_to:
+  - fig:1
+  basis: The passage says the Baithusians took the phrase “the morrow after the Sabbath”
+    as referring to the day after the weekly Sabbath during the feast.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sabbath or rest day
+  literal_form: Sabbath; special day of rest; weekly Sabbath
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: wave-sheaf offering
+  literal_form: wave-sheaf offered on Nisan 22
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fifty-day count
+  literal_form: count back fifty days from Sivan 15 to Nisan 22
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Calendrical reckoning of feast dates
+  summary: The passage calculates from the feast of weeks on Sivan 15 back fifty days
+    to the wave-sheaf offering on Nisan 22.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Interpretation of the Sabbath phrase
+  summary: The passage contrasts Jubilees' interpretation of “the morrow after the
+    Sabbath” with the Baithusian reading that links the phrase to the weekly Sabbath
+    during the feast of unleavened bread.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual calendar reckoning
+  taxonomy_refs: []
+  basis: The passage centers on calculating sacred feast dates by a fifty-day count
+    and locating the wave-sheaf offering on a specific day.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a calendrical and exegetical note rather than a mythic narrative
+    episode.
+- id: motif:2
+  label: contested interpretation of sacred time
+  taxonomy_refs: []
+  basis: The passage presents differing interpretations of the phrase “the morrow
+    after the Sabbath,” one attributed to Jubilees and another to the Baithusians.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a pattern of competing calendrical interpretation,
+    but it does not provide a developed mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly juxtaposes Jubilees' reading of “the morrow after
+    the Sabbath” with a Baithusian reading, making a cautious comparison between two
+    Jewish calendrical interpretations of the same phrase.
+  claim_level: linguistic_similarity
+  target: Baithusian interpretation cited with Menachoth 65a
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a commentary note and gives only a brief report of the
+    Baithusian position; it does not quote or analyze the wider rabbinic context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13210-13214
+  quote_or_summary: The note refers to the second feast day, Nisan 21, and says the
+    usage appears in the text as early as the second century B.C.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13214-13220
+  quote_or_summary: The feast of weeks is placed on Sivan 15; counting back fifty
+    days, with the second month reckoned at twenty-eight days, gives Nisan 22 as the
+    time when the wave-sheaf was offered.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13220-13224
+  quote_or_summary: Jubilees is said to interpret “the morrow after the Sabbath” as
+    the day after the seventh day of unleavened bread, a special day of rest.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain; includes a short quoted phrase from the passage.
+- id: ev:4
+  type: summary
+  locator: lines 13225-13232
+  quote_or_summary: The note says that some early Jewish uses and modern speculations
+    treat “Sabbath” as the weekly Sabbath; the Baithusians are cited as interpreting
+    the phrase as the day after the weekly Sabbath during the feast of unleavened
+    bread.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain; summarized with short quoted terms.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is a calendrical commentary fragment with OCR noise and little
+    mythic narrative content. Literal calendrical and interpretive details are clear
+    enough, but motif classification is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned; the passage supports calendrical and exegetical patterns rather than named mythological motifs.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l13210-l13232
+  passage_sha256=9a1d3acbd9d58bbcfb58de2f0aba439204c4f15c72756350f56c0e2d68c01785
+

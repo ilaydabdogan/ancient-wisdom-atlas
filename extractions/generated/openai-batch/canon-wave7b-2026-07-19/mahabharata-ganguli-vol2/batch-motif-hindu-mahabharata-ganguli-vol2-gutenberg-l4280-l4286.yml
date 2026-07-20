@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l4280-l4286
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION LIV / SECTION LV / SECTION LVI / SECTION LVII; lines 4280-4286
+  start: '4280'
+  end: '4286'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"...that car whose flag is seen to bear the device of a golden altar."'
+  summary: Vaisampayana narrates that Partha, seeing the Kuru army arranged for battle,
+    tells Virata's son to proceed toward the place where Kripa, son of Saradwat, is
+    moving on the southern side of a car marked by a flag bearing a golden altar device.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The army of the Kurus is arrayed in order of battle.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Partha beholds the Kuru army and addresses Virata's son.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Partha instructs Virata's son to proceed to the place where Kripa, son of
+    Saradwat, is going.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Kripa is described as moving by the southern side of a car.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The car has a flag bearing the device of a golden altar.
+  category: object
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Vaisampayana
+  description: Narrator of the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Partha
+  description: A descendant of the Kuru race who beholds the Kuru army and speaks
+    to Virata's son.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Virata's son
+  description: The person addressed by Partha and instructed to proceed toward Kripa's
+    location.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Kripa, son of Saradwat
+  description: A named warrior whose position is identified by Partha as being by
+    the southern side of a car with a golden-altar flag device.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: army of the Kurus
+  description: The collective force arrayed in order of battle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: narrator
+  assigned_to:
+  - fig:1
+  basis: The passage opens with Vaisampayana said.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: observer of battle array
+  assigned_to:
+  - fig:2
+  basis: Partha beholds the army of the Kurus arrayed in order of battle.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: battlefield guide or director
+  assigned_to:
+  - fig:2
+  basis: Partha directs Virata's son toward Kripa's position.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: addressed companion directed to proceed
+  assigned_to:
+  - fig:3
+  basis: Virata's son is addressed by Partha and told to proceed to a specified spot.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: identified warrior
+  assigned_to:
+  - fig:4
+  basis: Kripa, son of Saradwat, is the figure whose location is described.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: battle array
+  assigned_to:
+  - fig:5
+  basis: The Kuru army is described as arrayed in order of battle.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: golden altar flag device
+  literal_form: A flag on a car bearing the device of a golden altar.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: battle car
+  literal_form: A car near whose southern side Kripa is moving.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: southern side
+  literal_form: The southern side of the car, used to locate Kripa.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Partha identifies Kripa's position in the battle array
+  summary: With the Kuru army arrayed for battle, Partha tells Virata's son to proceed
+    toward Kripa, who is moving by the southern side of a car marked with a golden-altar
+    flag device.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: warrior identified by emblematic battle standard
+  taxonomy_refs: []
+  basis: Kripa's battlefield position is indicated through a car and a flag bearing
+    a distinctive golden altar device.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief battlefield identification; no broader
+    symbolic interpretation of the altar device is stated.
+- id: motif:2
+  label: battlefield direction toward a named opponent
+  taxonomy_refs: []
+  basis: Partha instructs Virata's son to proceed toward the place where Kripa is
+    going within the battle formation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The immediate outcome and strategic purpose are not included in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4280-4284
+  quote_or_summary: Vaisampayana narrates that Partha sees the Kuru army arrayed in
+    order of battle and addresses Virata's son.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 4284-4286
+  quote_or_summary: Partha tells Virata's son to proceed toward Kripa, son of Saradwat,
+    who is going by the southern side of a car whose flag bears a golden altar device.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source metadata; concise quotation/summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward for the short passage. Motif candidates
+    are limited to immediate battlefield-pattern observations; no cross-tradition
+    comparison is supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the available taxonomy list does not include battle standard, altar, car, or directional-marker categories.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l4280-l4286
+  passage_sha256=6ebf2d8a1f88ad13247677600b831a47c509339be83560f588cc53599d061f59
+

@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l5265-l5325
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: MEASURES / BARTER / MULLER / THE PIMA CTDIAXS; lines 5265-5325
+  start: '5265'
+  end: '5325'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Pima objects and practices: magic tablets associated
+    with medicine-men or a cache; the rarity and ritual-medical significance of turquoise;
+    and a stone pipe or tube used in ceremonies and in sucking or blowing over sick
+    bodies to expel disease.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section titled "Magic Tablets" describes two tablets and half of one,
+    obtained from medicine-men and from a cache.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two tablets have ornamental borders; the third is smooth to a rounded margin
+    and has a horse scratched on one side and a man on the other.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Turquoise is described as rare in Pimeria, with only one pair of ear pendants
+    seen, though it was more abundant in earlier days.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states a belief that if a man lost a turquoise, the loss was due
+    to magic and would result in a mysterious ailment.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The ailment from losing turquoise could be cured only by a medicine-man skilled
+    in curing the "doctor's disease."
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The medicine-man would place turquoise, slate, or crystal in water and give
+    the water to the patient to drink.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A stone cylinder, probably a pipe, was obtained from a Pima who said he had
+    found it long ago.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Smoke is described as blown outward in some ceremonies and drawn inward in
+    others.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The tubes were used by the Pimas for sucking and blowing the bodies of the
+    sick to expel disease.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: medicine-man
+  description: A practitioner skilled in curing the "doctor's disease" and described
+    as using turquoise, slate, or crystal in water for the patient.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: afflicted turquoise loser or patient
+  description: A man who loses a turquoise, is believed to suffer a mysterious ailment,
+    and receives stone-treated water to drink.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Pima finder or informant of stone cylinder
+  description: A Pima from whom the stone cylinder was obtained; he said he had found
+    it long ago.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Pimas using tubes in healing
+  description: The Pimas are described as using tubes to suck and blow the bodies
+    of the sick for expelling disease.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ritual healer
+  assigned_to:
+  - fig:1
+  basis: The medicine-man cures the described ailment by using a stone placed in water
+    and giving the water to the patient.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: afflicted patient
+  assigned_to:
+  - fig:2
+  basis: The man who loses turquoise is said to be afflicted and to drink the medicine-man's
+    water preparation.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: artifact finder or source
+  assigned_to:
+  - fig:3
+  basis: The Pima who supplied the stone cylinder said he had found it long ago.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: healing tube users
+  assigned_to:
+  - fig:4
+  basis: The Pimas are described as using tubes on sick bodies for expelling disease.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: magic tablets
+  literal_form: Two tablets and half of one tablet; two with ornamental borders, one
+    smooth tablet with scratched horse and man figures.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: turquoise
+  literal_form: A stone worn as ear pendants and used as a piece of stone in a healing
+    procedure.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: water
+  literal_form: Water into which turquoise, slate, or crystal is placed and then given
+    to the patient to drink.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: slate or crystal
+  literal_form: Alternative stones placed in water by the medicine-man for the patient.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: stone pipe or tube
+  literal_form: A stone cylinder, probably a pipe, used with smoke and compared to
+    tubes used in healing.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: smoke or breath through tube
+  literal_form: Smoke blown outward or drawn inward in ceremonies; sucking and blowing
+    actions applied to sick bodies.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Description of magic tablets
+  summary: The passage describes tablets connected with medicine-men or a cache, including
+    ornamental borders and scratched figures of a horse and a man.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Turquoise loss and ritual-medical cure
+  summary: A lost turquoise is said to indicate magic and lead to a mysterious ailment;
+    a medicine-man cures it by placing turquoise, slate, or crystal in water and giving
+    the water to the patient.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Pipe or tube use in ceremony and healing
+  summary: A stone cylinder is described as probably a pipe; smoke is blown outward
+    or drawn inward in ceremonies, and tubes are used by the Pimas in sucking and
+    blowing sick bodies to expel disease.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: magic-caused object loss producing illness
+  taxonomy_refs: []
+  basis: The passage states that loss of a turquoise was attributed to magic and followed
+    by a mysterious ailment.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic belief statement, not a narrative episode.
+- id: motif:2
+  label: ritual cure by stone-infused drinking water
+  taxonomy_refs: []
+  basis: A medicine-man places turquoise, slate, or crystal in water and gives the
+    water to the patient to drink as the cure.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the mechanism or broader ritual context of
+    the cure.
+- id: motif:3
+  label: breath or smoke through tube used to expel disease
+  taxonomy_refs: []
+  basis: The stone pipe or tubes are linked with ceremonial smoke and with sucking
+    and blowing sick bodies to expel disease.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives practical ritual use but no accompanying myth or song.
+- id: motif:4
+  label: inscribed or ornamented magical tablets
+  taxonomy_refs: []
+  basis: The passage labels the objects as magic tablets and describes their ornamented
+    borders and scratched horse and man figures.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not describe how the tablets were used or what the scratched
+    figures meant.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5265-5279
+  quote_or_summary: The "Magic Tablets" section describes two tablets and half of
+    one, obtained from medicine-men and a cache; two have ornamental borders, and
+    one smooth tablet has a horse on one side and a man on the other.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 5280-5290
+  quote_or_summary: Turquoise is described as common elsewhere in the Southwest but
+    rare in Pimeria; one pair of ear pendants was seen, and turquoise was said to
+    have been more abundant earlier.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 5290-5301
+  quote_or_summary: If a man lost turquoise, the loss was believed due to magic and
+    followed by a mysterious ailment curable only by a medicine-man; the medicine-man
+    used turquoise, slate, or crystal in water and gave the water to the patient.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 5302-5315
+  quote_or_summary: A stone cylinder, probably a pipe, was obtained from a Pima who
+    said he found it long ago; smoke is blown outward in some ceremonies and drawn
+    inward in others.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 5315-5325
+  quote_or_summary: Tubes were used by the Pimas in sucking and blowing the bodies
+    of the sick for the purpose of expelling disease.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is artifact-focused ethnography rather than myth narrative. OCR
+    noise is visible, but the main statements about tablets, turquoise, water cure,
+    and pipe or tube use are clear. No comparison claims were made because the passage
+    itself does not support a cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Motif labels are descriptive and not mapped to unavailable taxonomy families.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l5265-l5325
+  passage_sha256=5fff8769cd877c96b276c7a9f65722becff7dcf296e1b5ba6bd2ece12a753593
+

@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol6-archive-l8117-l8132
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+passage_locator:
+  label: VIII. / J.   VI. / MAHANARADAKASSAPA-JATAKA. / VIDHURAPANDITA- JATAKA.; lines
+    8117-8132
+  start: '8117'
+  end: '8132'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. VI
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Thou art the best, thou art incomparable, thou art wise, a guardian and
+    knower of the law...”"
+  summary: 'A wise figure is praised for cutting through doubts by wisdom. Four pleased
+    questioners reward him: Sakka gives heavenly silk, Garula a golden garland, Varuna
+    the Naga king a jewel, and King Dhanafijaya/Dhananjaya gives cattle, animals,
+    chariots, horses, and villages for his solution to their question.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker praises the addressee as best, incomparable, wise, and a guardian
+    and knower of the law.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee is said to have grasped a problem by wisdom and to cut doubts
+    like an ivory-worker cutting ivory with a saw.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: All four figures are pleased with the explanation of their question.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sakka rewards the wise figure with a robe of heavenly silk.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Garula rewards the wise figure with a golden garland.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Varuna the Naga king rewards the wise figure with a jewel.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: King Dhanafijaya/Dhananjaya rewards the wise figure with a thousand cows and
+    other goods.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: The king’s spoken gift list includes a thousand cows, a bull, an elephant,
+    ten chariots drawn by thoroughbred horses, and sixteen excellent villages.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed wise respondent
+  description: The praised recipient of rewards, described as wise, a guardian and
+    knower of the law, and solver of the question.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Sakka
+  description: One of the four pleased figures; gives a robe of heavenly silk.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Garula
+  description: One of the four pleased figures; gives a golden garland.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Varuna the Naga king
+  description: One of the four pleased figures; gives a jewel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: King Dhanafijaya/Dhananjaya
+  description: One of the four pleased figures; gives cattle, animals, chariots, horses,
+    and villages and speaks a stanza of reward.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: wise law-knower
+  assigned_to:
+  - fig:1
+  basis: The figure is praised as wise and as a guardian and knower of the law.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: solver of a question
+  assigned_to:
+  - fig:1
+  basis: The four are pleased with his explanation, and the king says he is pleased
+    with the solution of the question.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: reward-giver
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Each named figure gives a reward after being pleased with the explanation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: royal donor-speaker
+  assigned_to:
+  - fig:5
+  basis: The king addresses the wise figure in a stanza and enumerates his gifts.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: robe of heavenly silk
+  literal_form: robe of heavenly silk
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: golden garland
+  literal_form: golden garland
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: jewel
+  literal_form: jewel
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: royal material gifts
+  literal_form: a thousand cows, a bull, an elephant, ten chariots with thoroughbred
+    horses, and sixteen villages
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ivory-worker comparison
+  literal_form: ivory-worker cutting ivory with a saw
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Praise of wisdom
+  summary: The wise respondent is praised as incomparable, wise, a knower of the law,
+    and able to cut doubts after grasping a problem by wisdom.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pleased questioners reward the solution
+  summary: Four figures are pleased with the explanation of their question and reward
+    the respondent with luxury objects and royal gifts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom resolves doubt and earns praise
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly praises the respondent’s wisdom and says he cuts doubts
+    by skill after grasping the problem.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage excerpt does not include the original question or the full
+    explanation, only the praise and reward after it.
+- id: motif:2
+  label: reward for solving a question
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Four pleased figures reward the respondent with valuable gifts because of
+    his explanation or solution of their question.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The exchange is stated as reward for a solution; whether it is specifically
+    sacred rather than royal or social exchange requires broader context not present
+    in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8117-8119
+  quote_or_summary: "“Thou art the best... thou art wise, a guardian and knower of
+    the law”; he grasps the problem by wisdom and cuts doubts like an ivory-worker
+    with a saw."
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: line 8121
+  quote_or_summary: All four are pleased with his explanation of their question.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8122-8124
+  quote_or_summary: Sakka gives heavenly silk; Garula gives a golden garland; Varuna
+    the Naga king gives a jewel; King Dhanafijaya gives a thousand cows and other
+    gifts.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 8126-8129
+  quote_or_summary: The king says he gives “a thousand cows and a bull and an elephant,”
+    ten chariots with thoroughbred horses, and sixteen villages because he is pleased
+    with the solution.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment to wisdom is explicit;
+    sacred_exchange is plausible but should be reviewed because the excerpt frames
+    the gifts as reward rather than a fully described ritual exchange.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage itself does not support a cross-textual or tradition-level comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol6-archive__l8117-l8132
+  passage_sha256=ba4d4fdcc388514697de27b454b29f13ac2159b1655ba1cb1985e0b884509e8a
+

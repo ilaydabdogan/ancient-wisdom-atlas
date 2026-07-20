@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l23359-l23367
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION III / SECTION IV / SECTION V / SECTION VI; lines 23359-23367
+  start: '23359'
+  end: '23367'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Dhritarashtra praises Sanjaya as intelligent and truthful, asks him for
+    a detailed description of the island, including the dimensions of a hare-like
+    portion of land and then a portion resembling a peepul tree. Vaisampayana narrates
+    that Sanjaya begins to reply.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dhritarashtra addresses Sanjaya and says he is intelligent and acquainted
+    with the truth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dhritarashtra says Sanjaya has already described the island briefly and asks
+    for a detailed description.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dhritarashtra asks for the dimension of an expanse of land in a portion resembling
+    a hare.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Dhritarashtra then asks Sanjaya to speak of a portion resembling a peepul
+    tree.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Vaisampayana narrates that Sanjaya begins to speak after being addressed by
+    the king.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Dhritarashtra
+  description: Speaker who addresses Sanjaya, praises his truth-knowledge, and asks
+    for a detailed account of the island.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sanjaya
+  description: Addressee described as intelligent and acquainted with truth; asked
+    to describe the island and begins to reply.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Vaisampayana
+  description: Narrator who reports that Sanjaya begins to speak after the king's
+    request.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioning king
+  assigned_to:
+  - fig:1
+  basis: Dhritarashtra asks Sanjaya for detailed cosmographic information, and Vaisampayana
+    calls the requester the king.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: knowledgeable describer
+  assigned_to:
+  - fig:2
+  basis: Sanjaya is called intelligent, acquainted with truth, and is asked to give
+    a detailed description before beginning to speak.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: frame narrator
+  assigned_to:
+  - fig:3
+  basis: Vaisampayana introduces and narrates the exchange.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: island
+  literal_form: an island whose details and dimensions are requested
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hare-like land portion
+  literal_form: portion of land looking like a hare
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: peepul-tree-like portion
+  literal_form: portion resembling peepul tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Request for detailed island description
+  summary: Dhritarashtra asks Sanjaya to move from a brief account to a detailed description
+    of an island, beginning with the dimensions of a hare-like portion and then a
+    peepul-tree-like portion; Vaisampayana frames Sanjaya's reply.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: cosmographic land described by recognizable shapes
+  taxonomy_refs: []
+  basis: The requested description concerns an island divided into portions resembling
+    a hare and a peepul tree, with attention to dimensions.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage only introduces the description and does not provide the full
+    cosmography or its significance.
+- id: motif:2
+  label: authoritative seer-like informant questioned by a king
+  taxonomy_refs:
+  - wisdom
+  basis: Dhritarashtra identifies Sanjaya as intelligent and acquainted with truth
+    before requesting detailed knowledge from him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage supports a knowledge-transmission scene, but the broader wisdom
+    motif is only weakly indicated in this short excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23359-23366
+  quote_or_summary: Dhritarashtra tells Sanjaya he is intelligent and acquainted with
+    truth, says Sanjaya has described the island briefly, and asks for details, including
+    dimensions of a hare-like land portion and then a peepul-tree-like portion.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 23366-23367
+  quote_or_summary: '"Thus addressed by the king, Sanjaya began to say."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Figures and speech actions are explicit. Motif labels are cautious because
+    the excerpt is only the setup for a longer description.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison beyond the immediate cosmographic description.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l23359-l23367
+  passage_sha256=fc680f612e40f53a8652bc478c8a2061e161f05fd53824bd39cade0048b18d94
+

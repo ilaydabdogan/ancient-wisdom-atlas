@@ -1,0 +1,463 @@
+---
+record_id: batch.motif.greek-homeric-hymns-lang-gutenberg-l3593-l3610
+source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+passage_locator:
+  label: XXI.  TO POSEIDON / XXII.  TO HIGHEST ZEUS / XXIII.  TO HESTIA / XXIV.  TO
+    THE MUSES AND APOLLO; lines 3593-3610
+  start: '3593'
+  end: '3610'
+  translation: The Homeric Hymns
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“from Zeus come kings”"
+  summary: The passage contains short hymnic invocations to Hestia and to the Muses
+    and Apollo. Hestia is described as guarding Apollo’s sacred house in Pytho and
+    is asked to come with counselling Zeus and lend grace to the speaker’s song. The
+    next hymn begins from the Muse, Apollo, and Zeus, identifies the Muses and Apollo
+    as sources of minstrels and harpers, Zeus as the source of kings, and closes by
+    hailing the children of Zeus and promising future remembrance in song.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Hestia is addressed as guarding the sacred house of Apollo the Far-darter
+    in goodly Pytho.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Oil is described as continually dropping from Hestia’s locks.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker asks Hestia to come to this house with a gracious heart and with
+    counselling Zeus.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker asks Hestia to lend grace to the speaker’s song.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says that the hymn will begin from the Muse, Apollo, and Zeus.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Muses and far-darting Apollo are named as the source of minstrels and
+    harpers upon the earth.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Zeus is named as the source from whom kings come.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A person loved by the Muses is called fortunate, and that person’s voice is
+    said to flow sweetly from the lips.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The addressees are hailed as children of Zeus, asked to honor the speaker’s
+    lay, and told that the speaker will remember them and another hymn later.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hestia
+  description: Divine addressee who guards Apollo’s sacred house in Pytho and is invoked
+    to come and lend grace to song.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Apollo the Far-darter
+  description: Called Prince in relation to the sacred house at Pytho; also named
+    with the Muses as a source of minstrels and harpers.
+  role_refs:
+  - role:3
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Zeus
+  description: Called counselling Zeus; named as the source of kings and as father
+    of the addressed children of Zeus.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Muse / Muses
+  description: The hymn begins from the Muse; the Muses are named with Apollo as sources
+    of minstrels and harpers, as loving certain persons, and as children of Zeus in
+    the closing address.
+  role_refs:
+  - role:4
+  - role:7
+  - role:10
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Hymnic speaker
+  description: The first-person speaker invokes the gods, asks for grace, begins from
+    divine figures, and promises future remembrance in another hymn.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Minstrels and harpers
+  description: Earthly musical performers said to be from the Muses and far-darting
+    Apollo.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Kings
+  description: Earthly rulers said to come from Zeus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Person loved by the Muses
+  description: A fortunate person whose voice flows sweetly from the lips because
+    the Muses love that person.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: guardian of sacred house
+  assigned_to:
+  - fig:1
+  basis: Hestia is addressed as guarding Apollo’s sacred house in Pytho.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: invoked giver of grace to song
+  assigned_to:
+  - fig:1
+  basis: The speaker asks Hestia to come and lend grace to the song.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: prince of sacred house at Pytho
+  assigned_to:
+  - fig:2
+  basis: Apollo is called the Prince whose sacred house Hestia guards in Pytho.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine source of musicians
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The Muses and far-darting Apollo are said to be the source from whom minstrels
+    and harpers are upon the earth.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: source of kingship or kings
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: The passage states that from Zeus come kings; kings are the earthly figures
+    so derived.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine parent
+  assigned_to:
+  - fig:3
+  basis: The addressees are hailed as children of Zeus.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: children of Zeus
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: In the hymn to the Muses and Apollo, the closing address hails the addressees
+    as children of Zeus.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: hymnic speaker and supplicant
+  assigned_to:
+  - fig:5
+  basis: The speaker asks for divine aid, honors the addressees, and promises future
+    remembrance in another hymn.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:9
+  label: earthly musical practitioners
+  assigned_to:
+  - fig:6
+  basis: Minstrels and harpers are named as beings upon the earth derived from the
+    Muses and Apollo.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: recipient of Muse-favor
+  assigned_to:
+  - fig:8
+  - fig:4
+  basis: The Muses love a fortunate person whose voice becomes sweet-flowing.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacred house in Pytho
+  literal_form: the sacred house of Apollo the Far-darter in goodly Pytho
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: oil from locks
+  literal_form: oil dropping from Hestia’s locks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: song, lay, and hymn
+  literal_form: the speaker’s song, lay, and another hymn
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: sweet-flowing voice
+  literal_form: a voice flowing sweetly from the lips of one loved by the Muses
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Invocation to Hestia at Apollo’s house
+  summary: Hestia is addressed as guardian of Apollo’s sacred house in Pytho, with
+    oil dropping from her locks, and is asked to come to the speaker’s house with
+    Zeus and lend grace to the song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Divine sources of music and kingship
+  summary: The speaker begins from the Muse, Apollo, and Zeus, saying that minstrels
+    and harpers come from the Muses and Apollo, while kings come from Zeus.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Muse-favor and closing hail
+  summary: A person loved by the Muses is described as fortunate with a sweet-flowing
+    voice; the speaker hails the children of Zeus, asks them to honor the lay, and
+    promises future remembrance in another hymn.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine patronage of song and music
+  taxonomy_refs: []
+  basis: The Muses and Apollo are said to be the source of minstrels and harpers,
+    and Muse-favor gives a person a sweet-flowing voice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states patronage and favor but does not narrate a full myth
+    of poetic initiation.
+- id: motif:2
+  label: Kingship derived from Zeus
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage explicitly states that kings come from Zeus.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The statement is brief and does not describe a particular king’s accession
+    or legitimation ritual.
+- id: motif:3
+  label: Divine parent and divine children
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The addressed figures in the hymn to the Muses and Apollo are hailed as children
+    of Zeus.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The genealogy is invoked in direct address rather than narrated in detail.
+- id: motif:4
+  label: Hymnic invocation for grace and reciprocal remembrance
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speaker asks Hestia to lend grace to song, asks the children of Zeus
+    to honor the lay, and promises to remember them in another hymn.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage shows request, praise, and promised remembrance, but it does
+    not explicitly frame these as a negotiated exchange.
+- id: motif:5
+  label: Deity guarding a sacred house
+  taxonomy_refs: []
+  basis: Hestia is directly described as guarding Apollo’s sacred house in Pytho.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a brief hymnic epithet-like description.
+comparison_claims:
+- id: claim:1
+  claim: The statement that kings come from Zeus supports comparison with a royal-legitimacy
+    motif in which earthly rule is grounded in a high god.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage contains a general hymnic claim, not a specific dynastic
+    narrative.
+- id: claim:2
+  claim: The address to the Muses and Apollo as children of Zeus supports comparison
+    with a divine-parent-child lineage motif.
+  claim_level: same_motif
+  target: divine_parent_child motif family
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not elaborate the birth or genealogy beyond the address.
+- id: claim:3
+  claim: The requests for divine grace and honor to the lay, together with promised
+    future remembrance, support cautious comparison with a sacred-exchange pattern
+    of praise and divine favor.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not state an explicit bargain or reciprocal obligation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3593-3596
+  quote_or_summary: Hestia is addressed as guarding the sacred house of Apollo the
+    Far-darter in goodly Pytho, and oil is said to drop from her locks.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summary permitted.
+- id: ev:2
+  type: quote
+  locator: lines 3597-3598
+  quote_or_summary: "“Come thou to this house with a gracious heart, come with counselling
+    Zeus, and lend grace to my song.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; excerpt permitted.
+- id: ev:3
+  type: quote
+  locator: lines 3601-3604
+  quote_or_summary: "“it is from the Muses and far-darting Apollo that minstrels and
+    harpers are upon the earth, but from Zeus come kings.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; excerpt permitted.
+- id: ev:4
+  type: quote
+  locator: lines 3604-3606
+  quote_or_summary: "“Fortunate is he whomsoever the Muses love, and sweet flows his
+    voice from his lips.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; excerpt permitted.
+- id: ev:5
+  type: quote
+  locator: lines 3606-3610
+  quote_or_summary: "“Hail, ye children of Zeus, honour ye my lay, and anon I shall
+    be mindful of you and of another hymn.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; excerpt permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied hymnic passage. Motif
+    classification is partly interpretive because the passage is brief and largely
+    invocatory rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used; no external genealogical or cultic details were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-homeric-hymns-lang-gutenberg__l3593-l3610
+  passage_sha256=295ab7398197ac9b7d59a3820e9677893b6706fd2654f48420710721b5eb77eb
+

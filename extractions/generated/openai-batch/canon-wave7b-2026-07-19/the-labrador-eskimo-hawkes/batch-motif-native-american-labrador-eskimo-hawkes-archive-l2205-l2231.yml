@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l2205-l2231
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: SNOW. / THE  ESKIMO  YEAR. / NAMES  OF  STARS. / FOOD.; lines 2205-2231
+  start: '2205'
+  end: '2231'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Labrador Inuit food conditions: despite a harsh
+    environment, game is available on sea and land, with herbs and berries appearing
+    briefly after snow melts. It identifies common seal as the chief food, notes seasonal
+    and spatial locations of seal species, and states that larger seals are divided
+    among fellow villagers.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Food provision is described as one of the most important questions affecting
+    the Eskimo under hard environmental conditions.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The environment is described as supplying game on both sea and land, along
+    with wild herbs and berries.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Floral life appears in Arctic regions after the snow is gone and briefly changes
+    the aspect of the landscape.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The common seal is identified as the chief food of the Eskimo in Labrador.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The common seal is found near the shore throughout the year, at blow holes
+    in smooth ice in winter and in bays and fiords in summer.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Big or Bearded seal and the Ranger or Freshwater seal are found farther
+    out on the ice-edge where shore or bay ice meets winter pack ice.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Because the larger seals provide a large feed for one family, the Eskimo usually
+    divide them with fellow villagers.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Labrador Eskimo
+  description: The human community whose food provision and seal hunting are described.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Common seal
+  description: The common seal, named as the chief food and found near shore at all
+    seasons.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Big or Bearded seal
+  description: A larger seal species found farther out on the ice-edge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Ranger or Freshwater seal
+  description: A larger seal species found farther out on the ice-edge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Arctic subsistence community
+  assigned_to:
+  - fig:1
+  basis: The passage centers on food provision for the Eskimo under hard environmental
+    conditions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chief food animal
+  assigned_to:
+  - fig:2
+  basis: The common seal is explicitly called the chief food of the Eskimo in Labrador.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: large shared food animal
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The larger seals are said to constitute a big feed for one family and are
+    usually divided with fellow villagers.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: food sharers
+  assigned_to:
+  - fig:1
+  basis: The Eskimo are said to divide larger seals with fellow villagers.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: seal food
+  literal_form: common seal, Big or Bearded seal, Ranger or Freshwater seal
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: sea and ice hunting environment
+  literal_form: sea, shore, blow holes in smooth ice, bays, fiords, ice-edge, winter
+    pack
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: brief Arctic plant abundance after snow
+  literal_form: wild herbs, berries, floral life after snow is gone
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Harsh environment with available food sources
+  summary: The passage describes food provision in a hard Arctic environment, while
+    also noting available sea and land game and seasonal herbs and berries.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Seal locations and food sharing
+  summary: The common seal is described as available near shore across seasons, while
+    larger seals are found at the ice-edge and are usually shared among fellow villagers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal subsistence cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: 'The passage links food availability to seasonal conditions: flowers and
+    plant foods after snow disappears, common seal locations in winter and summer,
+    and larger seals at the winter ice-edge.'
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic subsistence description rather than a myth narrative.
+- id: motif:2
+  label: communal sharing of large game
+  taxonomy_refs: []
+  basis: The larger seals are described as large enough to feed a family and as usually
+    divided with fellow villagers.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives a social food-sharing pattern, not an explicitly sacred
+    or mythic exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2205-2214
+  quote_or_summary: Food provision is important under hard conditions; nature supplies
+    game on sea and land, along with wild herbs and berries.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2214-2219
+  quote_or_summary: After the snow is gone, Arctic floral life appears abundantly
+    for a brief period and changes the landscape’s appearance.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2220-2222
+  quote_or_summary: The chief food of the Eskimo in Labrador is identified as the
+    common seal, ne'iceq.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2225-2227
+  quote_or_summary: The common seal is near shore year-round, at blow holes in smooth
+    ice in winter and in bays and fiords in summer.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2227-2230
+  quote_or_summary: The Big or Bearded seal and the Ranger or Freshwater seal are
+    found farther out on the ice-edge, where shore or bay ice meets winter pack ice.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2230-2231
+  quote_or_summary: Because the larger seals are big enough to feed one family, the
+    Eskimo usually divide them with fellow villagers.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is descriptive ethnography. Literal subsistence patterns are
+    clear; motif classification is cautious and limited to seasonal subsistence and
+    communal sharing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage itself does not support comparison to another tradition or corpus.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l2205-l2231
+  passage_sha256=fbf9a3f914302585116a4d26ec17fd57b63a58437e5819a877ca0c803e2127bf
+

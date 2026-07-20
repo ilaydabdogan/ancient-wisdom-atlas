@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l27440-l27445
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XLV / SECTION XLVI / SECTION XLVII / SECTION XLVIII; lines 27440-27445
+  start: '27440'
+  end: '27445'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Dhritarashtra said,--"When that great bowman Sweta proceeded towards Salya's
+    car..."
+  summary: Dhritarashtra asks Sanjaya what the Kauravas, the Pandavas, and Bhishma
+    did when Sweta advanced toward Salya's car.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dhritarashtra addresses Sanjaya with a question.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sweta is described as a great bowman.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sweta proceeded toward Salya's car.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dhritarashtra asks what the Kauravas and the Pandavas did in response to Sweta's
+    movement.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dhritarashtra also asks what Bhishma, son of Santanu, did.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Salya is associated with a car in the passage.
+  category: object
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Dhritarashtra
+  description: Speaker who asks Sanjaya about events involving Sweta, Salya's car,
+    the Kauravas, the Pandavas, and Bhishma.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Sanjaya
+  description: Addressee from whom Dhritarashtra requests an account.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Sweta
+  description: A great bowman who proceeded toward Salya's car.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Salya
+  description: Person whose car Sweta approached.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Kauravas
+  description: Group about whose actions Dhritarashtra asks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Pandavas
+  description: Group about whose actions Dhritarashtra asks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Bhishma, son of Santanu
+  description: Figure about whose actions Dhritarashtra asks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: Dhritarashtra is the one who speaks and asks Sanjaya to tell him what happened.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: addressed informant
+  assigned_to:
+  - fig:2
+  basis: Sanjaya is addressed by Dhritarashtra and asked to tell the events.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: advancing bowman
+  assigned_to:
+  - fig:3
+  basis: Sweta is described as a great bowman proceeding toward Salya's car.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: car-associated figure
+  assigned_to:
+  - fig:4
+  basis: The passage refers to Salya's car as the object toward which Sweta proceeded.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: subject of requested report
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Dhritarashtra asks what these figures or groups did.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Salya's car
+  literal_form: car
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Dhritarashtra asks about Sweta's advance
+  summary: Dhritarashtra asks Sanjaya to report what the Kauravas, Pandavas, and Bhishma
+    did when Sweta went toward Salya's car.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 27440-27445
+  quote_or_summary: Dhritarashtra said,--"... O Sanjaya?"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 27440-27445
+  quote_or_summary: '"When that great bowman Sweta proceeded towards Salya''s car"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 27440-27445
+  quote_or_summary: '"what did the Kauravas and the Pandavas do"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 27440-27445
+  quote_or_summary: '"what also did Bhishma the son of Santanu do?"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 27440-27445
+  quote_or_summary: '"Tell me who ask thee, all this."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is a short framing question with clear named figures and an action,
+    but it does not itself support a specific comparative motif or comparison claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the passage only frames a request for battlefield narration.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l27440-l27445
+  passage_sha256=e79a22be6ca63dcfa85f9a24322568c90f47e2e1d10d084945a3834ec0266704
+

@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l8793-l8831
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE WIDOW AND HER DAUGIITEUS. 2S9 / THE TALE OF THE SOLDIER. 291 / THE TALE
+    OF THE SOLDIER. 293 / AN SAIGIIDEAR. 295; lines 8793-8831
+  start: '8793'
+  end: '8831'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: John cast the abersgaic and the Donas into the midddle of the furnace, and
+    himself and the furnace went as a green flame of fire to the skies.
+  summary: John carries the Mischief in an abersgaic to a smithy, asks twelve smiths
+    to strike it with hammers, then carries it to a furnace. The Mischief bargains
+    to be released and promises not to trouble John in this world or the next. John
+    casts the abersgaic and the Donas into the furnace, after which John and the furnace
+    rise as a green flame to the skies.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: John enters a smithy where twelve smiths are striking with great hammers.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: John asks the smiths to hammer an old abersgaic that he says is so hard it
+    is taking the skin off his back.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Each hammer blow makes the abersgaic bound to the top of the smithy.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The smiths tell John to go out with the abersgaic and say they believe the
+    'Bramman' is in it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: John continues with the Mischief on his back and reaches a great furnace.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Mischief asks John where he is going and then asks to be let out.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Mischief promises never to put trouble on John in this world; after John
+    asks, the promise is extended to the next world.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: John casts the abersgaic and the Donas into the middle of the furnace.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: John and the furnace go as a green flame of fire to the skies.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: John
+  description: A man carrying the Mischief on his back, first to a smithy and then
+    to a furnace.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: the Mischief / Donas
+  description: A being carried by John, associated with the abersgaic, that asks to
+    be let out and promises not to trouble John.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: twelve smiths
+  description: Smiths in a smithy who strike with great hammers and hammer John's
+    abersgaic.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: carrier and disposer of the Mischief
+  assigned_to:
+  - fig:1
+  basis: John carries the Mischief on his back and then casts the abersgaic and Donas
+    into the furnace.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: troublesome captive or enclosed being
+  assigned_to:
+  - fig:2
+  basis: The Mischief is on John's back, asks to be let out, and promises not to put
+    trouble on John.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: hammering smiths
+  assigned_to:
+  - fig:3
+  basis: The twelve smiths strike with great hammers and take turns hammering the
+    abersgaic.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: abersgaic
+  literal_form: old abersgaic carried by John and struck by hammers before being thrown
+    into the furnace
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: great furnace and green flame
+  literal_form: a great furnace into which the abersgaic and Donas are cast; John
+    and the furnace become a green flame of fire going to the skies
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: twelve great hammers
+  literal_form: twelve great hammers used by the smiths to strike the abersgaic
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Smithy hammering of the abersgaic
+  summary: John brings the abersgaic to a smithy with twelve smiths and asks them
+    to hammer it; the abersgaic rebounds upward with each blow, and the smiths expel
+    John and the object.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Bargain at the furnace
+  summary: John carries the Mischief to a great furnace; the Mischief asks to be let
+    out and promises not to trouble John in this world or the next.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Casting into the furnace and fiery ascent
+  summary: John tells the Mischief to wait for smoke, casts the abersgaic and Donas
+    into the furnace, and John and the furnace go as a green flame of fire to the
+    skies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: troublesome being confined in a carried object and disposed of by fire
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Mischief is carried on John's back, asks to be released, bargains about
+    not causing trouble, and is cast with the abersgaic into a furnace.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly identify the being as a trickster; the
+    taxonomy link is based on the boundary-crossing and bargaining functions in this
+    excerpt.
+- id: motif:2
+  label: fiery ascent after furnace-casting
+  taxonomy_refs:
+  - ascent
+  basis: After John casts the abersgaic and Donas into the furnace, John and the furnace
+    go as a green flame of fire to the skies.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives the upward motion but does not explain whether this
+    is death, transformation, escape, or another narrative outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8798-8800
+  quote_or_summary: John goes into a smithy where twelve smiths are striking their
+    great hammers.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 8802-8804
+  quote_or_summary: '"Here''s for you, lads, an old abersgaic ... take a while at
+    it with the twelve great hammers"; John says it is so hard it is taking skin off
+    his back.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 8806-8811
+  quote_or_summary: The smiths enjoy striking the soldier's abersgaic, but every blow
+    makes it bound to the top of the smithy; they tell John to leave and say they
+    believe the 'Bramman' is in it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 8813-8814
+  quote_or_summary: John goes on with the Mischief on his back and reaches a great
+    furnace.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 8816-8825
+  quote_or_summary: The Mischief asks where John is going, then asks to be let out
+    and promises not to put trouble on John in this world or the next.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: quote
+  locator: lines 8827-8831
+  quote_or_summary: John says, "till thou get a smoke," then casts the abersgaic and
+    Donas into the furnace; John and the furnace go "as a green flame of fire to the
+    skies."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a short passage with several dialect or Gaelic terms
+    left untranslated in the excerpt, including abersgaic, Donas, and Bramman. No
+    comparison claims are made because the passage itself does not support an external
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata; uncertain term meanings were not inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l8793-l8831
+  passage_sha256=3f47c8c3ec73eb86338573868e56b81f4dbc8ce9f299b89e97615c5d4c2292b0
+

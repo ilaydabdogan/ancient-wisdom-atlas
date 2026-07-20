@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l1167-l1183
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: THE KAFUE RIVER AT MWENGWA. / THE TLA-SPEAKING PEOPLES / BRIDGE OVER THE
+    KAFUE RIVER. / PT. I; lines 1167-1183
+  start: '1167'
+  end: '1183'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes crops and river-bank gardens in fertile alluvial
+    soil, the need to plant with the early rains before river flooding, Bambala access
+    to deep red soil producing crops with cultivation, and swampy flats inhabited
+    by numerous sitatunga antelope.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage mentions beans, ground-nuts, pumpkins, and cotton in relation
+    to cultivated land.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gardens in rich black alluvial loam on the river-bank can yield enormous harvests
+    when planted with the early rains.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If planting is not done with the early rains, the flooded river can sweep
+    everything away.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Bambala are described as having deep red soil that produces fine crops
+    with proper cultivation.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The flats are described as containing extensive swamps and morasses.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The swamps and morasses are described as home to numerous sitatunga antelope.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: river-bank garden cultivators or possessors
+  description: People associated with gardens cultivated in rich black alluvial river-bank
+    loam, whose harvest depends on planting with the early rains.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Bambala
+  description: A named group said to have deep red soil available for crop production
+    with proper cultivation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: sitatunga antelope
+  description: Numerous antelope inhabiting the swamps and morasses of the flats.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: river-bank cultivators
+  assigned_to:
+  - fig:1
+  basis: They cultivate or possess gardens in alluvial river-bank loam and must plant
+    with the early rains to avoid flood loss.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: agricultural group with fertile soil
+  assigned_to:
+  - fig:2
+  basis: The Bambala are said to have deep red soil that produces fine crops with
+    proper cultivation.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: swamp fauna
+  assigned_to:
+  - fig:3
+  basis: The sitatunga antelope are described as numerous inhabitants of the swamps
+    and morasses.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: river water and flood
+  literal_form: early rains, river-bank, and flooded river
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fertile soil
+  literal_form: rich black alluvial loam and deep red soil
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: cultivated crops
+  literal_form: beans, ground-nuts, pumpkins, cotton, and fine crops
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: swamp flats
+  literal_form: endless swamps and morasses of the flats
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: River-bank cultivation and flood risk
+  summary: River-bank gardens in rich alluvial soil produce large harvests if planted
+    with the early rains; otherwise floodwater can destroy the plantings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bambala soil and crops
+  summary: The Bambala have access to deep red soil that yields fine crops with proper
+    cultivation.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Swamp flats and antelope habitat
+  summary: The flats are described as swamps and morasses that are home to numerous
+    sitatunga antelope.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Seasonal planting and flood risk
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links successful harvests to planting with the early rains and
+    contrasts this with destruction by a flooded river if planting is mistimed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic agricultural description, not a mythic or ritual
+    narrative; the taxonomy reference is limited to the explicit seasonal timing pattern.
+- id: motif:2
+  label: Fertile land under cultivation
+  taxonomy_refs: []
+  basis: Both the black alluvial river-bank loam and the Bambala deep red soil are
+    described as productive when properly cultivated.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is a literal subsistence and landscape pattern rather than an explicitly
+    symbolic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1167-1174
+  quote_or_summary: The passage lists crops including beans, ground-nuts, pumpkins,
+    and cotton, and says river-bank gardens in rich black alluvial loam can yield
+    enormous harvests when planted with the early rains.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1174-1176
+  quote_or_summary: "“otherwise the flooded river sweeps everything before it.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1176-1178
+  quote_or_summary: The Bambala are said to have deep red soil that produces fine
+    crops with proper cultivation.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1180-1182
+  quote_or_summary: The flats are described as endless swamps and morasses and as
+    the home of numerous sitatunga antelope.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is limited by the fragmentary passage. Motif candidates
+    are cautious because the passage is descriptive ethnography rather than myth narrative.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or unsupported taxonomy IDs were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l1167-l1183
+  passage_sha256=8e27262d55c38e82fefbc6e177b16bda0f467237f0229012e899ad7b0411a970
+

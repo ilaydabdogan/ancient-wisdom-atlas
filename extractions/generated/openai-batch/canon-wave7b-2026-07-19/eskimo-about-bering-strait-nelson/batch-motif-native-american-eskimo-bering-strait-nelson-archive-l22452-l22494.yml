@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l22452-l22494
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    TKADING  FESTIVAL / FEASTS    TO    THE   DEAD / MORTUARY  FEASTS  IN  GENERAL
+    / GREAT   FEAST   TO    THE    DEAD; lines 22452-22494
+  start: '22452'
+  end: '22494'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the great feast to the dead among Eskimo communities
+    around St Michael and the lower Yukon. A nearest relative honors a deceased person’s
+    shade with food, drink, clothing, and later accumulated valuables, often through
+    the deceased person’s namesake. Relatives save goods for years, schedule a great
+    festival, plant invitation stakes before graves, and sing invitation songs so
+    the shades will attend. Completion of the feast discharges the mourner’s duty
+    to the dead unless another close relative dies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The great feast to the dead is identified by local names among the Unalit
+    at St Michael and Eskimo at Ikoginut on the lower Yukon; the lower Yukon term
+    is explained as meaning “throwing away” because feast makers give away everything
+    during the festival.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The nearest relative of a deceased person must honor the departed shade with
+    presents of food, drink, and clothing through the dead person’s namesake, and
+    with small food offerings at later annual observances until the great feast.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The chief mourner is the nearest blood relative, such as a father, son, brother,
+    or other near relation.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After one or two years, the chief mourner begins saving valuable articles,
+    including skins, clothing, and other prized goods, for four, six, or more years.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Other people in the village also save goods, and when several decide they
+    have enough, they agree on a time for the great festival during a moon in the
+    following year.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At the next minor feast to the dead, each participating relative plants an
+    invitation stake before the grave of the person he wishes to honor.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The invitation stake is a slender wooden rod four to six feet high, often
+    with red paint rings and a small painted wooden image of the deceased person’s
+    totemic animal on top.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The invitation stake is said to notify the shade of the approaching festival;
+    a song of invitation is also sung, and the shades are believed to be present and
+    able to hear it.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: After observing the great festival, a person is said to have completed his
+    entire duty to the shades of his dead and may stop making further feasts for them
+    without shame, unless another very near relation dies.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: chief mourner or nearest blood relative
+  description: The close relative responsible for honoring the deceased shade, saving
+    valuables, and completing the feast obligation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: shade of the deceased
+  description: The departed dead person’s shade, honored with offerings, notified
+    by stakes and songs, and believed present at festivals.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: dead person’s namesake
+  description: The person through whom food, drink, and clothing presents are made
+    to the departed shade at the first festival after death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: feast makers and participating relatives
+  description: Villagers and relatives who save goods, decide when enough property
+    has been accumulated, set the festival time, give goods away, and plant invitation
+    stakes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: mourning duty-bearer
+  assigned_to:
+  - fig:1
+  basis: The nearest blood relative is identified as the chief mourner and is responsible
+    for honoring the shade and saving goods for the great feast.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: honored dead or ritual recipient
+  assigned_to:
+  - fig:2
+  basis: The shade is the one honored with presents and offerings, notified of the
+    festival, and addressed as present at the feast.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: namesake intermediary
+  assigned_to:
+  - fig:3
+  basis: The passage states that presents to the departed shade are made through the
+    dead person’s namesake.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: festival co-organizers and givers
+  assigned_to:
+  - fig:4
+  basis: Other villagers save goods, agree on the festival time, and feast makers
+    give away everything during the festival.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: great feast to the dead
+  literal_form: mortuary festival also glossed locally as a “throwing away” because
+    goods are given away
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: sym:2
+  label: invitation stake
+  literal_form: slender wooden rod planted before a grave to notify the shade
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: totemic animal image
+  literal_form: small painted wooden image of the deceased person’s totemic animal
+    on top of the invitation stake
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: presents and saved valuables
+  literal_form: food, drink, clothing, skins, and other prized articles accumulated
+    and given in relation to the feast
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: song of invitation
+  literal_form: song sung at the preceding minor feast to notify the shades of the
+    coming great feast
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: mourner’s obligation and long accumulation of goods
+  summary: A nearest blood relative honors the deceased shade through a namesake and
+    annual offerings, then saves valued property for several years in preparation
+    for the great feast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: collective scheduling and invitation of shades
+  summary: Several prepared villagers agree on the festival time, plant invitation
+    stakes before graves at a minor feast, and use the stakes and a song to notify
+    the shades.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: completion of duty to the dead
+  summary: After the great feast is observed, the mourner is considered to have completed
+    the obligation to the dead shades and may stop holding further feasts for them
+    unless another close relative dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: mortuary gift-offering and giveaway for the dead
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes presents and offerings to the dead shade, years of
+    saving valuables, and a festival whose name is explained by giving away everything.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy mapping is functional; the passage presents an ethnographic
+    ritual obligation rather than a mythic exchange narrative.
+- id: motif:2
+  label: inviting the dead to a feast by grave marker and song
+  taxonomy_refs: []
+  basis: Relatives plant invitation stakes before graves and sing an invitation song
+    because the shades are believed able to receive notice and hear the song.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference directly names this invitation pattern.
+- id: motif:3
+  label: namesake as proxy for offerings to the dead
+  taxonomy_refs: []
+  basis: The deceased person’s namesake is the stated channel through which presents
+    of food, drink, and clothing are made to the departed shade.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the broader theory of namesakes, only their
+    role in this feast obligation.
+- id: motif:4
+  label: ritual completion of duties to ancestral shades
+  taxonomy_refs: []
+  basis: Completion of the great feast is said to discharge the mourner’s entire duty
+    to the shades of his dead, ending the need for further feasts unless another close
+    death occurs.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a ritual-status pattern inferred from an ethnographic statement
+    of social duty, not an explicit mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats the Unalit St Michael term and the Ikoginut/lower Yukon
+    terms as local names for the same regional great feast to the dead, with the lower
+    Yukon term emphasizing the giveaway aspect.
+  claim_level: same_motif
+  target: regional great-feast-to-the-dead terminology among Unalit at St Michael
+    and Eskimo at Ikoginut/lower Yukon
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides terminology and one etymological explanation but
+    does not give detailed parallel descriptions for each locality.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22452-22458
+  quote_or_summary: The great feast to the dead is named for Unalit at St Michael
+    and Eskimo at Ikoginut on the lower Yukon; one lower Yukon term means “throwing
+    away” because feast makers give away everything during the festival.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise quotation/summary allowed.
+- id: ev:2
+  type: summary
+  locator: 22458-22465
+  quote_or_summary: The nearest relative must honor the departed shade with food,
+    drink, and clothing through the dead person’s namesake, and with annual small
+    food offerings until the great feast; the chief mourner is the nearest blood relative.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise quotation/summary allowed.
+- id: ev:3
+  type: summary
+  locator: 22465-22472
+  quote_or_summary: After one or two years, the chief mourner saves valuable articles
+    such as skins, clothing, and other prized things for four, six, or more years,
+    until a large store of property is assembled.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise quotation/summary allowed.
+- id: ev:4
+  type: summary
+  locator: 22473-22480
+  quote_or_summary: Other villagers also save goods; when enough has been accumulated,
+    they set a time for the festival, and at the next minor feast each relative plants
+    an invitation stake before the grave to be honored.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise quotation/summary allowed.
+- id: ev:5
+  type: summary
+  locator: 22480-22485
+  quote_or_summary: The invitation stake is a four-to-six-foot wooden rod with red
+    paint rings and a small painted wooden image of the deceased person’s totemic
+    animal; it is supposed to notify the shade of the coming festival.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise quotation/summary allowed.
+- id: ev:6
+  type: summary
+  locator: 22485-22489
+  quote_or_summary: A song of invitation is sung at the preceding minor feast, and
+    because the shades are believed present at these festivals, the song is supposed
+    to be heard by them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise quotation/summary allowed.
+- id: ev:7
+  type: summary
+  locator: 22490-22494
+  quote_or_summary: After observing the great festival, a person is considered to
+    have done his whole duty to the shades and may stop making further feasts without
+    shame, unless another very near relation dies.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise quotation/summary allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a clear ethnographic description of mortuary ritual actions
+    and objects. Motif mappings are cautious because the text is not a narrative myth
+    and only one available taxonomy family directly fits the described exchange/offering
+    pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR spellings and local terms are preserved only in summary form where necessary; no unsupported external comparisons were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l22452-l22494
+  passage_sha256=b3d0bc61becb2372b25e116b13feaf35e6c7d9a6f1c8a7fcfcd45d756eb14354
+

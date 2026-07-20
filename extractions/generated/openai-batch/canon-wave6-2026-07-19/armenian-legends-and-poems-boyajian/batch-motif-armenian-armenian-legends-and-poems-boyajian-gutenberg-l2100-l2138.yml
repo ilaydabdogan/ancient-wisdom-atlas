@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l2100-l2138
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: CONCERNING THE ROSE AND THE NIGHTINGALE / THE ARRIVAL OF THE CRUSADERS /
+    LIKE AN OCEAN IS THIS WORLD / THE ROCK; lines 2100-2138
+  start: '2100'
+  end: '2138'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“The rock remains, gloomy and motionless.”"
+  summary: The poem personifies a rock standing above river waters. Wavelets greet,
+    woo, question, and offer gifts, scents, music, and love-songs to the aged rock,
+    but the rock remains sorrowful, unchanged, and motionless.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A rock stands above the waters and is described as like a hoary giant, majestic
+    and defiant.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Small waves move to and fro and greet the rock with kisses and looks of love.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: River wavelets laugh, dance, mirror sunbeams, and woo the rock while murmuring
+    to him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wavelets address the rock as an aged one, ask why he is not glad, and
+    say that the world changes while he remains the same with a dark stone face.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The wavelets call themselves free children of the mountains and say they bring
+    jewels, perfume from the mountain rose, music, fish, golden spring rays, and songs
+    of love.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: At the end, the wavelets continue moving, playing, and laughing onward while
+    the rock remains sorrowing, gloomy, and motionless.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the rock
+  description: An aged, dark-faced stone figure standing above the waters; compared
+    to a hoary giant and later described as sorrowing, gloomy, and motionless.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: the wavelets
+  description: Personified river wavelets that move, laugh, dance, greet, woo, speak
+    to, bring gifts to, sing to, and fondle the rock.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: the mountain rose
+  description: A rose growing on the river margin, called “Heaven’s daughter fair,”
+    whose perfume the wavelets offer to the rock.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: personified aged addressee
+  assigned_to:
+  - fig:1
+  basis: The wavelets address the rock as “O Aged-One” and speak to his sad countenance
+    and stone face.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: unchanging sorrowful figure
+  assigned_to:
+  - fig:1
+  basis: The rock is described as remaining the same, sorrowing over ancient woe,
+    and finally gloomy and motionless.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: personified wooers
+  assigned_to:
+  - fig:2
+  basis: The waves greet the rock with kisses and looks of love, woo him, and sing
+    songs of love in his ear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:4
+  label: gift-bringers and singers
+  assigned_to:
+  - fig:2
+  basis: The wavelets say they bring jewels, scent the rock with rose perfume, breathe
+    melody, and sing love songs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: perfuming flower
+  assigned_to:
+  - fig:3
+  basis: The mountain rose is named as the source of perfume offered by the wavelets
+    to the rock.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rock
+  literal_form: A rock standing above the waters, personified as an aged, giant-like,
+    sorrowing stone figure.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: water and wavelets
+  literal_form: River waters and wavelets moving, laughing, dancing, and speaking
+    around the rock.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: mountain rose
+  literal_form: A rose growing on the river margin, called Heaven’s daughter and used
+    as a source of perfume.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mountains
+  literal_form: Mountains named as the origin of the free wavelets and of the mountain
+    rose.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rock above the waters
+  summary: The rock stands above the waters like a hoary giant while small waves move
+    around it and greet it affectionately.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wavelets woo and question the rock
+  summary: The river wavelets laugh and dance, then woo the rock and ask why the aged
+    one is never glad despite the world’s change.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Offerings of gifts, scent, music, and love songs
+  summary: The wavelets describe themselves as children of the mountains and list
+    the jewels, rose perfume, music, fish, spring light, and love songs they bring
+    to the rock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Unchanged sorrow of the rock
+  summary: The wavelets continue moving and playing onward, but the rock remains absorbed
+    in ancient sorrow and motionless gloom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Personified natural elements in courtship
+  taxonomy_refs: []
+  basis: The waves and wavelets act as lovers toward the rock, greeting it with kisses,
+    wooing it, singing love songs, and fondling it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The motif is poetic and personificatory; no ritual or mythic marriage
+    is explicitly stated.
+- id: motif:2
+  label: Motion and change contrasted with stasis and permanence
+  taxonomy_refs:
+  - duality
+  basis: The moving, laughing wavelets are set against the rock, which is said to
+    remain the same while the world changes and is finally gloomy and motionless.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The available taxonomy label is broad; the passage presents a poetic contrast
+    rather than an explicit cosmological dualism.
+- id: motif:3
+  label: Gifts and songs offered to an unresponsive beloved or elder
+  taxonomy_refs: []
+  basis: The wavelets offer jewels, rose perfume, melody, spring light, and love songs
+    to the aged rock, but the rock does not respond and remains sorrowful.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage frames the offerings as courtship and consolation; it does
+    not identify a formal exchange or sacred offering.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2104-2107
+  quote_or_summary: "“Above the waters, like a hoary giant, / The rock stands up,
+    majestic and defiant”; little waves greet him “with kisses and with looks of love.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2109-2112
+  quote_or_summary: The river wavelets laugh and dance with mirrored sunbeams, then
+    woo the rock and murmur in his face.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2114-2117
+  quote_or_summary: 'The wavelets address the rock: “O Aged-One,” ask why he is never
+    glad, and say the changing world contrasts with his unchanged “dark face of stone.”'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2119-2122
+  quote_or_summary: The wavelets call themselves free children of the mountains, bring
+    jewels, and scent the rock with perfume from the mountain rose, described as Heaven’s
+    fair daughter.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2124-2132
+  quote_or_summary: The wavelets breathe melody, call fish from the depths, shine
+    with spring rays, sing love songs from dawn until stars appear, and fondle the
+    rock’s aged breast.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 2134-2137
+  quote_or_summary: "“The wavelets play, and laughing onward press— / The rock remains,
+    gloomy and motionless.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are based on internal
+    poetic personification and contrast; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l2100-l2138
+  passage_sha256=3533e2952150619583bbdc5ac59c237adbb5f00c8049d7b80d5c14dee69279d0
+

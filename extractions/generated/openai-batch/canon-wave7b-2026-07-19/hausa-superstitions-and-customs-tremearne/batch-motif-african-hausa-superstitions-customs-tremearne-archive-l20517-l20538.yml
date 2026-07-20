@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l20517-l20538
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: NOTES   ON   THE   TALES  465 / FIG.  102.  FIG.  103.  FIG.  104. / XVII.
+    / NOTES   ON   THE   TALES  467; lines 20517-20538
+  start: '20517'
+  end: '20538'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on Tale XVII explain Hausa singular-for-plural usage, clarify
+    that an earthenware household water-tank is meant, and note that a singular reference
+    in the Hausa text may stand for plural gazelles, bags, and donkeys.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says a phrase difficult to render in English may be approximated
+    as “a bean or two,” though it means a sufficient quantity.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that Hausas often use the singular for the plural, so “cook
+    a bean” means to cook a dish of beans.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note identifies the referenced item as an earthenware household water-tank
+    too large to be carried to the river.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says the Hausa text mentions only one item, although the editor considers
+    it obvious that all must be meant.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that the bodies of the Gazelles could not go into one bag,
+    but that more than one bag is implied because there are several donkeys.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note describes this as another case where the plural is included in the
+    singular.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hausas
+  description: People described by the editor as often using the singular for the
+    plural.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: narrator
+  description: The teller of the tale, described as not being troubled by the practical
+    problem of putting the bodies of the Gazelles into one bag.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Gazelles
+  description: Animal group whose bodies are mentioned in the editorial note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: speakers associated with singular-for-plural usage
+  assigned_to:
+  - fig:1
+  basis: The note states that Hausas often use the singular for the plural.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tale narrator
+  assigned_to:
+  - fig:2
+  basis: The note refers to what would or would not trouble the narrator.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: mentioned animal group
+  assigned_to:
+  - fig:3
+  basis: The note refers to the bodies of the Gazelles.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: single bean for sufficient quantity
+  literal_form: A singular “bean” used to mean a dish or sufficient quantity of beans.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: earthenware water-tank and river
+  literal_form: A household earthenware water-tank, too large to be carried to the
+    river.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bag or bags for gazelle bodies
+  literal_form: One bag is mentioned, but multiple bags are implied for the Gazelles’
+    bodies.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: several donkeys
+  literal_form: Several donkeys that imply more than one bag.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial explanation of Hausa number usage
+  summary: The editor explains that singular forms in the Hausa text can imply plural
+    or sufficient quantity.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Editorial clarification of objects in Tale XVII
+  summary: The editor clarifies the water-tank as a large earthenware household object
+    and explains that plural bags and donkeys are implied where a singular is mentioned.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20517-20526, note [1]
+  quote_or_summary: The editor says the phrase is hard to render in English; “a bean
+    or two” would mean a sufficient quantity, and Hausa singular usage can stand for
+    plural, as in “cook a bean” meaning “cook a dish of beans.”
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 20527-20530, note [2]
+  quote_or_summary: The editor clarifies that the object is an earthenware household
+    water-tank too large to be carried to the river.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 20531-20538, note [3]
+  quote_or_summary: The editor says only one is mentioned in the Hausa text, but all
+    must be meant; Gazelle bodies could not fit in one bag, and several donkeys imply
+    more than one bag, showing plural included in singular.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an editorial note rather than a mythic narrative episode.
+    Literal linguistic and object details are extractable, but no comparative myth
+    motif or comparison claim is directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motif or comparison claim was added because the passage itself only supports editorial observations about Hausa singular/plural usage and object clarification.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l20517-l20538
+  passage_sha256=1025729c4c9e1bdc3bb506d20f9dea6e1d95d4987a8af5242d74d6def0d8ab74
+

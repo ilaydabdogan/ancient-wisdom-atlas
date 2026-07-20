@@ -1,0 +1,361 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l1208-l1225
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12 / BOOK 8; lines 1208-1225'
+  start: '1208'
+  end: '1225'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In battle, Kshemadhurti wounds Bhima and Bhima's elephant and cuts off
+    Bhima's bow. Bhima dismounts before his elephant falls, crushes Kshemadhurti's
+    elephant with a mace, and then kills Kshemadhurti as he advances with an uplifted
+    weapon. Kshemadhurti falls lifeless beside his elephant, and his troops flee in
+    distress.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kshemadhurti pierces the pursuing elephant of Bhimasena with shafts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kshemadhurti cuts off his antagonist's bow with a straight razor-headed arrow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Kshemadhurti pierces Bhima and strikes Bhima's elephant in many vital parts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Bhima jumps down from his elephant and stands on the earth before the animal
+    falls.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Bhima crushes the elephant of his antagonist with his mace.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Kshemadhurti advances against Bhima with an uplifted weapon after jumping
+    down from his crushed elephant.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Bhima strikes Kshemadhurti, who falls lifeless with a sword in his arm beside
+    his elephant.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The fallen Kshemadhurti is compared to a lion struck down by thunder beside
+    a thunder-riven hill.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The troops of the addressed side flee away after seeing the king of the Kulutas
+    slain.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kshemadhurti
+  description: A valiant warrior and celebrated king of the Kulutas who fights Bhima
+    from an elephant and is slain.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Bhima / Bhimasena / Vrikodara
+  description: Bhima is wounded, dismounts before his elephant falls, crushes the
+    opposing elephant with a mace, and kills Kshemadhurti.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Bhima's elephant
+  description: The elephant ridden by Bhima is wounded in vital parts and falls down.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Kshemadhurti's elephant
+  description: The elephant ridden by Kshemadhurti is crushed by Bhima's mace.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Troops of the addressed side
+  description: The troops become distressed and flee after seeing the king of the
+    Kulutas slain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: mounted antagonist
+  assigned_to:
+  - fig:1
+  basis: Kshemadhurti fights Bhima from an elephant, wounds Bhima and Bhima's elephant,
+    and advances against him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: victorious warrior
+  assigned_to:
+  - fig:2
+  basis: Bhima survives the fall of his elephant, crushes the opposing elephant, and
+    strikes Kshemadhurti dead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: slain king
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Kshemadhurti as the celebrated king of the Kulutas
+    and reports him slain.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: battle mount
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both warriors are associated with elephants that are attacked during the
+    battle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: routed followers
+  assigned_to:
+  - fig:5
+  basis: The troops flee in distress after seeing the Kuluta king slain.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: elephant mount
+  literal_form: elephants used as battle mounts
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: razor-headed arrow
+  literal_form: well-shot, straight, razor-headed arrow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mace
+  literal_form: Bhima's mace used to crush the opposing elephant
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sword
+  literal_form: sword in Kshemadhurti's arm as he falls lifeless
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lion and thunder image
+  literal_form: a lion struck down by thunder beside a thunder-riven hill
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: earth
+  literal_form: the earth on which Bhima stands after dismounting
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Kshemadhurti wounds Bhima and his elephant
+  summary: Kshemadhurti attacks Bhima's pursuing elephant, cuts off Bhima's bow, and
+    wounds both Bhima and the elephant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bhima dismounts and crushes the opposing elephant
+  summary: Before his own elephant falls, Bhima jumps to the ground and uses his mace
+    to crush Kshemadhurti's elephant.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Kshemadhurti is killed beside his elephant
+  summary: Kshemadhurti advances after leaving his crushed elephant, but Bhima strikes
+    him down; he falls lifeless with his sword beside the elephant, with a simile
+    comparing him to a thunder-struck lion beside a riven hill.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Troops flee after the king's death
+  summary: The troops flee in distress after seeing the king of the Kulutas slain.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dismounted warrior defeats mounted foe
+  taxonomy_refs: []
+  basis: Bhima leaves his own elephant before it falls, crushes the enemy elephant
+    with a mace, and kills Kshemadhurti after the latter dismounts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a battle-scene pattern rather than a named taxonomy motif in the
+    supplied list.
+- id: motif:2
+  label: death of leader causes troops to flee
+  taxonomy_refs: []
+  basis: After the celebrated king of the Kulutas is slain, the troops are described
+    as distressed and fleeing away.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the immediate rout; broader political or ritual
+    significance is not stated.
+- id: motif:3
+  label: fallen warrior compared to thunder-struck lion
+  taxonomy_refs: []
+  basis: Kshemadhurti's lifeless fall beside his elephant is described with the image
+    of a lion struck down by thunder beside a thunder-riven hill.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The comparison is an explicit poetic simile in the passage, but no broader
+    cross-cultural motif is established here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1208-1214
+  quote_or_summary: Kshemadhurti pierces Bhima's pursuing elephant, cuts off Bhima's
+    bow with a straight razor-headed arrow, and wounds Bhima and the elephant with
+    shafts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1214-1217
+  quote_or_summary: Bhima jumps down before his elephant falls, stands on the earth,
+    and crushes his antagonist's elephant with a mace.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1217-1220
+  quote_or_summary: Bhima strikes Kshemadhurti as he advances with an uplifted weapon
+    after leaving his crushed elephant; Kshemadhurti falls lifeless with sword in
+    arm beside his elephant.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 1220-1221
+  quote_or_summary: '"like a lion struck down by thunder beside a thunder-riven hill"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 1221-1225
+  quote_or_summary: Seeing the celebrated king of the Kulutas slain, the troops of
+    the addressed side become distressed and flee away.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a compact battle episode with clear figures and actions. Motif
+    labels are descriptive because the supplied taxonomy does not include a specific
+    battle-rout or elephant-combat motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious comparison to an external motif family or nearby corpus tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l1208-l1225
+  passage_sha256=782a87ac8a08837ee0c5cac8a3df8d8823210a3cd11d5e77755ce1cdb091bc8b
+

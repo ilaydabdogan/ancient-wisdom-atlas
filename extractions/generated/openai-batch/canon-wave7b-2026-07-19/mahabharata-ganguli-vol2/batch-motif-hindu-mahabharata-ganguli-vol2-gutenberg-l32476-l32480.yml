@@ -1,0 +1,145 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l32476-l32480
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XCI / SECTION XCII / SECTION XCIII / SECTION XCIV; lines 32476-32480
+  start: '32476'
+  end: '32480'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: bright arrows of keen points that resembled snakes of virulent poison.
+  summary: The passage describes sharp bright arrows, compared to poisonous snakes,
+    piercing Salya in battle, followed by the heading for Section XCIV.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage describes bright arrows with keen points.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The arrows are compared to snakes of virulent poison.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The arrows pierce Salya, who is described as accomplished in battle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speech includes the address “O king.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The text then gives the heading “SECTION XCIV.”
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Salya
+  description: A battle-accomplished figure pierced by arrows.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed king addressed
+  description: The speech is addressed to “O king.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: warrior pierced in battle
+  assigned_to:
+  - fig:1
+  basis: Salya is described as accomplished in battle and pierced by the arrows.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: addressed listener
+  assigned_to:
+  - fig:2
+  basis: The passage contains the direct address “O king.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: serpent-like arrows
+  literal_form: bright sharp arrows resembling snakes of virulent poison
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Salya pierced by serpent-like arrows
+  summary: Sharp bright arrows, compared to venomous snakes, pierce Salya in battle.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: serpent-like weapon imagery
+  taxonomy_refs:
+  - serpent
+  basis: The passage explicitly compares the arrows to poisonous snakes.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The serpent element is a simile applied to arrows; the passage does not
+    present an actual serpent being or extended serpent episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 32476-32477
+  quote_or_summary: "“bright arrows of keen points that resembled snakes of virulent
+    poison.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 32477-32478
+  quote_or_summary: "“These, O king, succeeded in piercing Salya accomplished in battle.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: line 32480
+  quote_or_summary: "“SECTION XCIV”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain text; brief heading quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal action and serpent simile are explicit. Motif identification
+    is limited because the passage is only a short battle fragment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l32476-l32480
+  passage_sha256=dcddcbf468cae4a97bd4de573c5fbd8e6873d459f6bfb5a6858b5f2f083b79be
+

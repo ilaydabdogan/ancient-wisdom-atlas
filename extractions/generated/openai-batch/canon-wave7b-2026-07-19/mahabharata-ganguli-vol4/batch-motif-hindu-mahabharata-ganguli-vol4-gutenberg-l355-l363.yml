@@ -1,0 +1,184 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l355-l363
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: ANUSASANA PARVA / PART I / SECTION I / SECTION II; lines 355-363
+  start: '355'
+  end: '363'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Yudhishthira addresses his grandsire as wise and learned in scripture,
+    says he has heard a great story, and asks to hear another history full of religious
+    instruction. He specifically asks whether any householder has ever conquered Mrityu
+    through the practice of virtue and requests a detailed recital.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yudhishthira addresses a grandsire with honorifics emphasizing wisdom and
+    scriptural learning.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira requests the recital of a history full of religious instruction.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yudhishthira asks whether any householder has conquered Mrityu by practicing
+    virtue.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yudhishthira asks that the account be given with all details.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Speaker who asks his grandsire for another instructive history and
+    poses the question about conquering Mrityu through virtue.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: grandsire
+  description: Addressee described as wise, learned in all scriptures, foremost of
+    intelligent men, and lord of Earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mrityu
+  description: Named as the one whom a householder might have conquered through the
+    practice of virtue.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed householder
+  description: 'Hypothetical or requested subject of the history: a householder who
+    may have conquered Mrityu by virtue.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioner seeking religious instruction
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks to hear a history full of religious instruction and requests
+    details about a virtue-related conquest of Mrityu.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: wise scriptural authority and requested narrator
+  assigned_to:
+  - fig:2
+  basis: The addressee is called wise, learned in all scriptures, and is asked to
+    recite the account.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: death-figure to be conquered
+  assigned_to:
+  - fig:3
+  basis: Mrityu is named as the one potentially conquered by a householder through
+    virtue.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: virtuous householder candidate
+  assigned_to:
+  - fig:4
+  basis: Yudhishthira asks if any householder has ever succeeded in conquering Mrityu
+    by practicing virtue.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Request for an instructive account about conquering death
+  summary: Yudhishthira, after hearing a prior great story, asks his wise grandsire
+    to narrate another religiously instructive history, specifically one concerning
+    whether a householder conquered Mrityu through virtue.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: quest for religious instruction from a wise elder
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on Yudhishthira asking a grandsire praised for wisdom
+    and scriptural learning to provide another morally instructive history.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a framing request rather than the full instructive narrative.
+- id: motif:2
+  label: conquering death through virtue
+  taxonomy_refs: []
+  basis: Yudhishthira asks whether any householder has ever conquered Mrityu by practicing
+    virtue.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage only raises the question; it does not yet narrate the conquest
+    or identify the householder.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 355-360
+  quote_or_summary: Yudhishthira addresses his grandsire as wise, intelligent, and
+    learned in scripture, says he has heard a great story, and asks for another history
+    full of religious instruction.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 360-363
+  quote_or_summary: Yudhishthira asks whether any householder has ever conquered Mrityu
+    through the practice of virtue and requests the account in detail.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a brief framing question. Literal extraction is clear, but
+    motif identification beyond wisdom and the stated death-conquest question remains
+    provisional until the narrated history follows.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the provided symbol taxonomy are explicitly present in this passage. No comparison claims are made because the passage itself does not support a comparison to another tradition or motif family beyond local candidate motif labeling.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l355-l363
+  passage_sha256=75a0c4537f152825a6787dde8a41ded422d514570f22b8cfa4190bf35ad2a581
+

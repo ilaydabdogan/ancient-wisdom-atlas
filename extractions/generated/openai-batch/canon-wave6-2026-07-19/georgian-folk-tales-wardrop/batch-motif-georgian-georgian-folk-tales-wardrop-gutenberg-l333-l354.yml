@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.georgian-georgian-folk-tales-wardrop-gutenberg-l333-l354
+source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+passage_locator:
+  label: GURIAN TALES / PART I / GEORGIAN FOLK TALES / MASTER AND PUPIL; lines 333-354
+  start: '333'
+  end: '354'
+  translation: Georgian Folk Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A boy escapes from his master, identified as the devil, through a sequence
+    of transformations. The master repeatedly changes form to pursue or capture him.
+    The boy finally becomes a needle, enters the fire, burns the pursuing thread,
+    and escapes home to his father.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A sunbeam enters the stable through a hole, and the boy changes into a mouse
+    and runs out.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The master sees the boy's escape and pursues him in the form of a cat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When the cat is about to seize the mouse, the mouse changes into a fish in
+    a stream, and the master changes into a net.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the net is about to cover the fish, the fish changes into a pheasant,
+    and the master pursues as a falcon.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the falcon is about to catch the pheasant, the boy changes into a red
+    apple that rolls into the king's lap, and the master changes into a knife in the
+    king's hand.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the apple is about to be cut, it changes into a codi of millet spread
+    on a cloth, and the devil changes into a brood-hen to eat it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The last grain of millet changes into a needle, while the hen changes into
+    a thread in the eye of the needle.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The needle runs into the fire and burns the thread.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After burning the thread, the boy escapes from the devil, returns home to
+    his father, and lives happily thereafter.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the boy
+  description: The escaping pupil or boy who changes form repeatedly and returns home
+    to his father.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:2
+  name_or_label: the master / the devil
+  description: The pursuing master, later called the devil, who changes form repeatedly
+    to chase or capture the boy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: the king
+  description: A king into whose lap the red apple rolls and in whose hand the knife
+    appears.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: the father
+  description: The boy's father, to whom the boy returns after escaping.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: escaping shapeshifter
+  assigned_to:
+  - fig:1
+  basis: The boy repeatedly changes into animal, plant/food, and object forms to avoid
+    capture.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: pursuing shapeshifter antagonist
+  assigned_to:
+  - fig:2
+  basis: The master or devil changes into matching pursuing forms, including cat,
+    net, falcon, knife, brood-hen, and thread.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: successful escapee
+  assigned_to:
+  - fig:1
+  basis: The passage states that the boy escapes from the devil and goes home.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: incidental royal figure
+  assigned_to:
+  - fig:3
+  basis: The king is present when the apple rolls into his lap and the knife appears
+    in his hand, but the passage gives him no further agency beyond being about to
+    cut the apple.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: home destination figure
+  assigned_to:
+  - fig:4
+  basis: The boy returns home to his father after escaping.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: sunbeam through hole
+  literal_form: sunbeam entering the stable through a hole
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mouse form
+  literal_form: mouse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cat form
+  literal_form: cat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: stream
+  literal_form: stream
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: fish form
+  literal_form: fish swimming in a stream
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: net form
+  literal_form: net
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: pheasant form
+  literal_form: pheasant
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: falcon form
+  literal_form: falcon
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: red apple form
+  literal_form: red apple
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:10
+  label: knife form
+  literal_form: knife in the king's hand
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:11
+  label: millet form
+  literal_form: a codi of millet spread on a cloth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:12
+  label: brood-hen form
+  literal_form: brood-hen
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:13
+  label: grain form
+  literal_form: one grain of millet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:14
+  label: needle form
+  literal_form: needle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:15
+  label: thread form
+  literal_form: thread in the eye of the needle
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:16
+  label: fire
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: escape through the stable hole
+  summary: The boy sees a sunbeam through a hole in the stable, changes into a mouse,
+    and runs out while the master changes into a cat and pursues him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: water pursuit
+  summary: The mouse changes into a fish in a stream, and the master changes into
+    a net to pursue and cover him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: bird pursuit
+  summary: The fish changes into a pheasant and flies away, while the master pursues
+    as a falcon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: apple and knife before the king
+  summary: The pheasant changes into a red apple in the king's lap, and the master
+    changes into a knife in the king's hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: millet and hen pursuit
+  summary: The apple changes into millet on a cloth, and the devil changes into a
+    brood-hen and eats nearly all of it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:11
+  - sym:12
+  - sym:13
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: needle, thread, and fire escape
+  summary: The last grain becomes a needle, the pursuer becomes thread in the needle's
+    eye, and the needle enters the fire and burns the thread, enabling the boy's escape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:14
+  - sym:15
+  - sym:16
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:7
+  label: return home
+  summary: The boy escapes from the devil, goes home to his father, and lives happily
+    thereafter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: transformation chase between pupil and master
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage consists of a repeated sequence in which the boy changes form
+    to flee and the master changes into a corresponding form to pursue or capture
+    him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The supplied taxonomy supports a broad shapeshifter classification; no
+    narrower taxonomy ID is supplied.
+- id: motif:2
+  label: escape from devil through final counter-transformation
+  taxonomy_refs: []
+  basis: The boy's final needle form enters the fire and burns the pursuer's thread
+    form, after which he escapes from the devil.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level motif label based only on the local sequence,
+    not a supplied taxonomy category.
+- id: motif:3
+  label: return home after supernatural pursuit
+  taxonomy_refs:
+  - return
+  basis: After defeating or escaping the devil's pursuit, the boy goes home to his
+    father and the tale closes happily.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The return is explicit, but the passage provides limited context about
+    the larger tale journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 333-336
+  quote_or_summary: A sunbeam enters the stable through a hole; the boy changes into
+    a mouse and runs out, and his master pursues as a cat.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 336-339
+  quote_or_summary: As the cat is about to seize the mouse, the mouse becomes a fish
+    in a stream; the master becomes a net and follows.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 339-342
+  quote_or_summary: As the net is about to cover the fish, the fish becomes a pheasant
+    and flies away; the master pursues as a falcon.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 342-344
+  quote_or_summary: As the falcon is about to catch the pheasant, the pursued figure
+    becomes a red apple and rolls into the king's lap; the falcon becomes a knife
+    in the king's hand.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 344-348
+  quote_or_summary: When the king is about to cut the apple, it becomes a codi of
+    millet on a cloth; the devil becomes a brood-hen and begins to eat it.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 348-351
+  quote_or_summary: After the hen eats nearly all the millet, the remaining grain
+    becomes a needle; the hen changes into a thread in the eye of the needle.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 351-352
+  quote_or_summary: The needle runs into the fire and burns the thread.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 352-354
+  quote_or_summary: The boy escapes from the devil, returns home to his father, and
+    lives happily ever after.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The transformation sequence and final escape are explicit in the passage.
+    Candidate motif labeling is conservative and limited to supplied taxonomy where
+    directly supported. No comparison claims were added because the passage itself
+    does not make an explicit cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:georgian-georgian-folk-tales-wardrop-gutenberg__l333-l354
+  passage_sha256=9657c9e723255a812c038fcf7f0ae450d4bf638a8a2868578ce24ae85104c88b
+

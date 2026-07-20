@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.georgian-georgian-folk-tales-wardrop-gutenberg-l5265-l5287
+source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+passage_locator:
+  label: THE FOOL'S GOOD FORTUNE / TWO LOSSES / THE STORY OF DERVISH / THE FATHER'S
+    PROPHECY; lines 5265-5287
+  start: '5265'
+  end: '5287'
+  translation: Georgian Folk Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A father repeatedly tells his son he will never come to good. The son
+    runs away, becomes a pasha after ten years, and has his sick old father seized
+    and brought before him to prove his success. The father recognizes him but says
+    the prophecy was correct: rank has not made him a good man.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A father tells his son, while beating him, that he will never come to any
+    good.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The son becomes tired of the rebukes and runs away from home.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After ten years, the son has risen to the rank of pasha and is assigned to
+    govern the pashalik where his father lives.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The new pasha sends Bashi-Bazouks to seize his father from a village and bring
+    him to him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Bashi-Bazouks arrive at night and take the sick old man from bed to the
+    pasha.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The pasha asks the old man to identify him and points to his epaulets as evidence
+    of his rank.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The father recognizes the pasha as his son.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The father says the son has gained the rank of pasha but has not become a
+    good man.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the father
+  description: A sick old man who had rebuked his son and later judges him morally
+    despite his rank.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the son / new pasha
+  description: A man who runs away from home, rises to the rank of pasha, and summons
+    his father coercively.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Bashi-Bazouks of the pasha's guard
+  description: Mounted guards ordered by the pasha to seize the father and bring him
+    to him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: father
+  assigned_to:
+  - fig:1
+  basis: He is identified as the father of the pasha and the man who rebuked him in
+    boyhood.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: moral judge
+  assigned_to:
+  - fig:1
+  basis: He concludes that the son has rank but has not become a good man.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: runaway son
+  assigned_to:
+  - fig:2
+  basis: The boy leaves home after repeated rebukes.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: political ruler
+  assigned_to:
+  - fig:2
+  basis: He has become a pasha and is set over a pashalik.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: armed agents of coercive summons
+  assigned_to:
+  - fig:3
+  basis: They are ordered to seize a named man and bring him to the pasha.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: epaulets as rank marker
+  literal_form: epaulets
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: pasha rank
+  literal_form: rank of pasha
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: rebuke and departure
+  summary: The father repeatedly rebukes and beats the son, and the son runs away
+    from home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: rise to authority
+  summary: Ten years later the runaway son has become a pasha over the district where
+    his father lives.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: coercive summons of the father
+  summary: The pasha orders his guards to seize his father; they drag the sick old
+    man from bed at night and bring him to the pasha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: recognition and moral reversal
+  summary: The pasha displays his rank and challenges his father's old prophecy; the
+    father answers that rank has not made him a good man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: runaway youth rises to high office
+  taxonomy_refs:
+  - departure
+  basis: The son leaves home after rebukes and later becomes a pasha.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief rise in status and does not describe the
+    intervening journey or trials.
+- id: motif:2
+  label: prophecy fulfilled ironically
+  taxonomy_refs: []
+  basis: The father's statement that the son would not come to good is challenged
+    by the son's high rank but reaffirmed as morally true because of the son's conduct.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage frames the saying as a paternal rebuke rather than a supernatural
+    prophecy.
+- id: motif:3
+  label: status without virtue
+  taxonomy_refs:
+  - wisdom
+  basis: The father contrasts the son's official rank with failure to become a good
+    man.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to wisdom is interpretive and should be reviewed.
+- id: motif:4
+  label: unfilial coercion of parent
+  taxonomy_refs: []
+  basis: The son, now pasha, has his sick old father seized at night and brought before
+    him, which the father condemns as unworthy conduct.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No broader comparative claim is made from this passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5265-5270
+  quote_or_summary: A man tells his son during beatings that he will never come to
+    any good; the son tires of the rebukes and runs away from home.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5270-5272
+  quote_or_summary: Ten years later the son has risen to the rank of pasha and is
+    set over the pashalik where his father lives.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5272-5277
+  quote_or_summary: The pasha orders Bashi-Bazouks to go to a village, seize a named
+    man, and bring him; they arrive at night and take the sick old man from bed.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5277-5282
+  quote_or_summary: The pasha commands the old man to look at him, asks whether he
+    knows him, and points to his epaulets after recalling the father's words.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 5282-5286
+  quote_or_summary: '"You have gained the rank of pasha, but you have not become a
+    good man."'
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate analytic
+    descriptions and require human review; no passage-supported external comparison
+    claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy items are directly present in this passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:georgian-georgian-folk-tales-wardrop-gutenberg__l5265-l5287
+  passage_sha256=5ab7e888bccd32011295bbb5bdf14067c799290590e0cb7fb9484106a80d4f23
+

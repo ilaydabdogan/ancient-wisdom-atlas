@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l2866-l2928
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'NOW ES. / MANDALA I, HYMN 59. 51 / NOTES: / MANDALA I, HYMN 60. 53; lines
+    2866-2928'
+  start: '2866'
+  end: '2928'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of notes to Mandala I, Hymn 60. It states that no
+    verse occurs in the other Samhitas, identifies a note on Agni's celestial and
+    terrestrial birth, explains usig as mythical priests who first established Agni
+    and first sacrificed, and identifies ubhaydsak as seeming to include mythical
+    ancestors and actual sacrificers. Other notes are mainly textual and philological.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note states that no verse occurs in the other Samhitas.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Verse 1 is annotated as concerning the celestial and terrestrial birth of
+    Agni.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The term usig is glossed as 'the willing one' and is said to denote mythical
+    priests.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The mythical priests are described as having first established Agni and having
+    sacrificed as the first.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The ubhaydsak are said to seem to be both these mythical ancestors and the
+    actual sacrificers.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A later note refers the reader back to the note on verse 2.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named figure whose celestial and terrestrial birth is noted, and whom
+    the mythical priests first established.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: usig / mythical priests
+  description: Glossed as 'the willing one' and described as mythical priests who
+    first established Agni and first sacrificed.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: ubhaydsak
+  description: Identified tentatively as these mythical ancestors and the actual sacrificers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: subject of celestial and terrestrial birth
+  assigned_to:
+  - fig:1
+  basis: The note explicitly mentions the celestial and terrestrial birth of Agni.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: one established by primordial priests
+  assigned_to:
+  - fig:1
+  basis: The mythical priests are said to have first established Agni.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: mythical priests
+  assigned_to:
+  - fig:2
+  basis: The note says usig denotes mythical priests.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: first sacrificers
+  assigned_to:
+  - fig:2
+  basis: The mythical priests are described as having sacrificed as the first.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: mythical ancestors and actual sacrificers
+  assigned_to:
+  - fig:3
+  basis: The note tentatively identifies the ubhaydsak with mythical ancestors and
+    actual sacrificers.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Agni
+  literal_form: The named figure Agni in a note about birth and ritual establishment.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dual birth of Agni noted
+  summary: A note to verse 1 identifies Agni's birth as both celestial and terrestrial.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Mythical priests establish Agni and sacrifice first
+  summary: A note to verse 2 explains usig as mythical priests who first established
+    Agni and performed sacrifice first; the ubhaydsak are linked with mythical ancestors
+    and actual sacrificers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: celestial and terrestrial sacred birth
+  taxonomy_refs:
+  - sacred_birth
+  - duality
+  basis: The passage explicitly identifies a celestial and terrestrial birth of Agni.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial note and does not narrate the birth episode
+    in detail.
+- id: motif:2
+  label: primordial establishment of Agni by mythical priests
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage says mythical priests first established Agni and first sacrificed.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The note summarizes a ritual-mythic role but provides no full narrative
+    sequence.
+- id: motif:3
+  label: mythical ancestors as ritual precedents for actual sacrificers
+  taxonomy_refs:
+  - sacrifice
+  basis: The ubhaydsak are tentatively identified with both mythical ancestors and
+    actual sacrificers, linking an ancestral group to present ritual actors.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The wording is tentative and philological; the passage does not elaborate
+    a mythic story.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2868-2869
+  quote_or_summary: '"No verse occurs in the other Samhitas."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2870-2872
+  quote_or_summary: '"The celestial and the terrestrial birth of Agni."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2881-2883
+  quote_or_summary: '"On usig (‘the willing one’), as denoting the mythical priests
+    who have first established Agni and have sacrificed as the first"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 2883-2885
+  quote_or_summary: '"The ubhaydsak seem to be these mythical ancestors and the actual
+    sacrificers."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: line 2906
+  quote_or_summary: '"See verse 2, note 1."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mostly editorial and philological notes rather than a mythic
+    narrative. Motif candidates are based on explicit phrases about Agni's birth and
+    the first establishment and sacrifice by mythical priests.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific comparative mythology claim beyond internal notes and bibliographic cross-references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l2866-l2928
+  passage_sha256=9c290d5d3a1028b341741d8f6c6926a63df19f3046b649eb40ad2f6527ba7a4b
+

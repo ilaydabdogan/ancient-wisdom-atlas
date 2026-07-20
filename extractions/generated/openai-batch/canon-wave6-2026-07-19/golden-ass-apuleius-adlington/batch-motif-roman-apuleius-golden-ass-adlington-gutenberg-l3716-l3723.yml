@@ -1,0 +1,166 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l3716-l3723
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE MARRIAGE OF CUPID AND PSYCHES / THE TWENTY-SECOND CHAPTER / THE SIXTH
+    BOOKE / THE TWENTY-THIRD CHAPTER; lines 3716-3723
+  start: '3716'
+  end: '3723'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: How Apuleius carried away the Gentlewoman, and how they were taken againe
+    by the theeves
+  summary: The passage is a book and chapter heading for the Sixth Book, Twenty-Third
+    Chapter, stating that Apuleius carried away a gentlewoman, that they were taken
+    again by thieves, and that a kind of death was devised for them.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as the Sixth Book and the Twenty-Third
+    Chapter.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chapter heading states that Apuleius carried away the Gentlewoman.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The heading states that Apuleius and the Gentlewoman were taken again by thieves.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The heading states that a kind of death was invented for Apuleius and the
+    Gentlewoman.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Apuleius
+  description: Named figure who carried away the Gentlewoman and was later taken again
+    by the thieves.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the Gentlewoman
+  description: Female figure carried away by Apuleius and later taken again with him
+    by the thieves.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the thieves
+  description: Group who took Apuleius and the Gentlewoman again.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: one who carries away
+  assigned_to:
+  - fig:1
+  basis: The heading says Apuleius carried away the Gentlewoman.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: one carried away
+  assigned_to:
+  - fig:2
+  basis: The heading identifies the Gentlewoman as the person carried away by Apuleius.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recaptured figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The heading says they were taken again by the thieves.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: captors
+  assigned_to:
+  - fig:3
+  basis: The heading says the thieves took Apuleius and the Gentlewoman again.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Chapter-heading sequence of escape, recapture, and threatened death
+  summary: The heading previews a sequence in which Apuleius carries away the Gentlewoman,
+    both are taken again by thieves, and a kind of death is devised for them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: carrying away followed by recapture
+  taxonomy_refs: []
+  basis: The heading states that Apuleius carried away the Gentlewoman and that they
+    were taken again by thieves.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only a chapter heading is provided; it gives a compressed narrative summary
+    without details about motive, consent, route, or outcome.
+- id: motif:2
+  label: devised death for captives
+  taxonomy_refs: []
+  basis: The heading states that a kind of death was invented for Apuleius and the
+    Gentlewoman after their recapture.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The specific death and its ritual, punitive, or narrative function are
+    not described in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3716-3723
+  quote_or_summary: 'The passage gives the section headings: “THE SIXTH BOOKE” and
+    “THE TWENTY-THIRD CHAPTER.”'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: 3716-3723
+  quote_or_summary: "“How Apuleius carried away the Gentlewoman, and how they were
+    taken againe by the theeves, and what a kind of death was invented for them.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short chapter heading quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is only a chapter heading, so literal figure and action extraction
+    is straightforward, while motif identification remains limited and generic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol is present in the passage. No comparison claims are made because the passage itself does not support comparison to another text, tradition, or motif family.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l3716-l3723
+  passage_sha256=da9fc0c86dfb04ae69600b79333c49d08ec378901193cd5d0e015d367a930745
+

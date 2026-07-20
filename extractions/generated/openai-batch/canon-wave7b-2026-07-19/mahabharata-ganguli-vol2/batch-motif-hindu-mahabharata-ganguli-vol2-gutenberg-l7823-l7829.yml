@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l7823-l7829
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XXIV / SECTION XXV / SECTION XXVI / SECTION XXVII; lines 7823-7829
+  start: '7823'
+  end: '7829'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: I shall seek peace, as thou counsellest me to do. Let me have Indraprastha
+    for my kingdom
+  summary: A first-person speaker agrees to seek peace as advised, asks for Indraprastha
+    as a kingdom, and asks that Duryodhana give it to him. The passage also contains
+    a fragment mentioning Dhritarashtra's son and ends with the heading for Section
+    XXVII.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contains a fragment referring to “Dhritarashtra's son.”
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:2
+  text: The speaker says that the same state of things should continue.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:3
+  text: The speaker says he will seek peace as the addressee counsels him to do.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker asks to have Indraprastha for his kingdom.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker asks that Indraprastha be given to him by Duryodhana, who is called
+    the chief of Bharata's race.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed first-person speaker
+  description: The speaker who says he will seek peace and asks for Indraprastha as
+    his kingdom.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed addressee or counselor
+  description: The person addressed as “thou,” whose counsel is associated with the
+    speaker seeking peace.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Duryodhana
+  description: Named figure asked to give Indraprastha to the speaker; described as
+    the chief of Bharata's race.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Dhritarashtra's son
+  description: A figure mentioned in a fragment at the beginning of the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: peace-seeking claimant
+  assigned_to:
+  - fig:1
+  basis: The speaker says he will seek peace and asks for Indraprastha as his kingdom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: counselor toward peace
+  assigned_to:
+  - fig:2
+  basis: The speaker refers to the addressee as counseling him to seek peace.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: requested giver of kingdom
+  assigned_to:
+  - fig:3
+  basis: The speaker asks that Indraprastha be given to him by Duryodhana.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: chief of Bharata's race
+  assigned_to:
+  - fig:3
+  basis: Duryodhana is explicitly called the chief of Bharata's race.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: patronymic figure mentioned
+  assigned_to:
+  - fig:4
+  basis: The passage fragment refers to “Dhritarashtra's son.”
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Indraprastha as requested kingdom
+  literal_form: Place or kingdom named Indraprastha
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Request for peace and Indraprastha
+  summary: The speaker accepts counsel to seek peace, requests Indraprastha as his
+    kingdom, and asks that Duryodhana grant it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Peace sought through negotiated grant of territory
+  taxonomy_refs: []
+  basis: The speaker says he will seek peace and asks that Indraprastha be given to
+    him as his kingdom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is fragmentary and does not identify the speaker or the broader
+    political context.
+- id: motif:2
+  label: Royal possession or rulership requested
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The speaker asks for Indraprastha as a kingdom and identifies Duryodhana
+    as the person from whom it should be given.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a request for kingship or territorial rule, but it
+    does not explicitly argue the speaker's legitimacy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7823-7825
+  quote_or_summary: "“I shall seek peace, as thou counsellest me to do.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 7824-7826
+  quote_or_summary: "“Let me have Indraprastha for my kingdom”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: lines 7825-7826
+  quote_or_summary: "“Let this be given to me by Duryodhana, the chief of Bharata's
+    race.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: lines 7823-7824
+  quote_or_summary: "“Let the same state of things still continue.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: line 7823
+  quote_or_summary: "“Dhritarashtra's son.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the short and fragmentary passage. The speaker and
+    addressee are not named within the supplied text, and the relationship between
+    the opening fragment and Duryodhana is not asserted beyond the passage wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison beyond the immediate motif candidates.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l7823-l7829
+  passage_sha256=7d90103f93003713f1267f611efce0137a0dfd86ddc88f789121baab4689858c
+

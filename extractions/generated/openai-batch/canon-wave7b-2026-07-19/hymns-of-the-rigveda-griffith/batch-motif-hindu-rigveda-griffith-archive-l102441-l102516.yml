@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l102441-l102516
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH S / ARANYAKA IV / ARANYAKA V / ADHYAYA 2.; lines 102441-102516
+  start: '102441'
+  end: '102516'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: May he give us that wealth, wealth of tawny hue. Indra is the lord, the most
+    mighty among men.
+  summary: The passage introduces neck-verses praising Indra’s might, strength, and
+    dreadful vigour, asks him to give tawny wealth, and calls him lord and most mighty
+    among men. It then gives liturgical instructions for head-verses in gāyatri metre,
+    Sāman singing, verse interchange or insertion, and notes textual variants in related
+    Vedic recensions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A set of neck-verses is introduced with praise of Indra as powerful and associated
+    with might and strength.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Indra’s vigour or might is described as dreadful.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The verse asks Indra to give wealth described as tawny in hue.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Indra is called lord and the most mighty among men.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The head-verses are said to be in gāyatri metre and to begin with a line calling
+    aloud to Indra.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage gives instructions for Udgatrs singing the Sāman, including interchanging
+    verse sets, inserting verses, reciting the last verse, and then using the stobha
+    verse.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note says the verses occur with many variants in several Vedic textual witnesses.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: Deity named in the neck-verses; described as smiter, powerful, associated
+    with might and strength, dreadful in vigour, asked to give wealth, and called
+    lord and most mighty among men.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Singers or Udgatrs
+  description: Ritual singers mentioned in connection with calling aloud to Indra
+    and singing the Sāman with specified verses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Praised deity
+  assigned_to:
+  - fig:1
+  basis: The neck-verses praise Indra’s might, strength, and vigour.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Requested giver of wealth
+  assigned_to:
+  - fig:1
+  basis: The verse asks Indra to give wealth of tawny hue.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Lord and most mighty among men
+  assigned_to:
+  - fig:1
+  basis: The passage directly calls Indra lord and most mighty among men.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Ritual singers
+  assigned_to:
+  - fig:2
+  basis: The passage mentions singers calling to Indra and Udgatrs singing the Sāman.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Tawny wealth
+  literal_form: wealth of tawny hue
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Anatomical verse labels
+  literal_form: neck-verses and head-verses
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Neck-verses praising Indra
+  summary: The passage presents neck-verses that praise Indra’s power, describe his
+    dreadful might, request tawny wealth from him, and call him lord among men.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Head-verses and Sāman arrangement
+  summary: The passage identifies head-verses in gāyatri metre and gives directions
+    for how Udgatrs should sing, interchange, insert, and recite verses in the liturgical
+    sequence.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Praise of an overpowering divine lord
+  taxonomy_refs: []
+  basis: Indra is praised for might, strength, dreadful vigour, and lordship among
+    men.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is liturgical and descriptive rather than a developed mythic
+    narrative.
+- id: motif:2
+  label: Petition to a deity for wealth
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The verse asks Indra to give wealth of tawny hue within a recited liturgical
+    context.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly describe a reciprocal offering; the sacred-exchange
+    classification is inferred from the prayerful request in ritual context.
+- id: motif:3
+  label: Ritual ordering of sacred verses
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage gives procedural instructions for singers, Sāman performance,
+    verse interchange, insertion, and recitation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The specific sacrificial rite is not described in detail in the provided
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself notes that the neck-verses occur with many variants in
+    the Atharvaveda, the Paippalada recension, the Naigeya text of the Sāmaveda, and
+    the Śāṅkhāyana Śrauta Sūtra.
+  claim_level: linguistic_similarity
+  target: Atharvaveda VI.33; Paippalada recension; Naigeya text of the Sāmaveda I.588;
+    Śāṅkhāyana Śrauta Sūtra XVIII.3
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a textual-variant comparison explicitly reported by the passage
+    notes; it does not by itself establish a broader mythic motif equivalence or independent
+    historical contact claim.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 102441-102486
+  quote_or_summary: "“Indra’s might was dreadful. May he give us that wealth, wealth
+    of tawny hue. Indra is the lord, the most mighty among men.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 102486-102490
+  quote_or_summary: The passage states that the head-verses are in gāyatri metre and
+    begin with the line calling aloud to Indra, cited as RV I.7.1.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 102490-102516
+  quote_or_summary: The passage instructs that if the Udgatrs sing the Sāman with
+    other verses, verse sets are to be interchanged; other cases require insertion
+    before the last verse, followed by the stobha verse.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: note
+  locator: 102444-102480
+  quote_or_summary: A textual note reports that the verses occur with many variants
+    in Atharvaveda VI.33, the Paippalada recension, the Naigeya text of the Sāmaveda
+    I.588, and Śāṅkhāyana Śrauta Sūtra XVIII.3; it also notes conjectural translation
+    and obscurity in places.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main figures and liturgical sequence are clear, but the passage contains
+    OCR corruption, textual-critical uncertainty, and explicitly conjectural translation
+    notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to available refs and are cautious where the passage is procedural rather than narrative.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l102441-l102516
+  passage_sha256=20e083c6d38b06ff0c8613039c8de9f3f8dd71a00862f37787008b88be19bda3
+

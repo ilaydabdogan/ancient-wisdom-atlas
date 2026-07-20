@@ -1,0 +1,530 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l4460-l4496
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: LONGA-POA  67 / LONGA-POA  69 / THE  SAILING   OF  THE  EXILES / LONGA-POA  71;
+    lines 4460-4496
+  start: '4460'
+  end: '4496'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes episodes from the exiles'' voyage: hunger, thirst,
+    and hardship; Moala''s treacherous killing and Longa-poa''s annihilating retaliation;
+    Pulu''s desertion with a young woman, his murder, and the consumption of his body;
+    a retaliatory slaughter by the Tongans; the hungry voyagers'' killing of a sleeping
+    whale; and a self-deifying boast that provokes the gods to plan the exiles'' death.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The exiles endured hunger, thirst, and hardships during the voyage.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Moala, described as the gleeman, was treacherously killed on the beach of
+    a solitary island while gathering firewood, by a spear thrust through his back.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Longa-poa killed all the people of that island, including men, women, and
+    children, leaving none alive.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pulu forgot Fonua after being ensnared by a young girl from another land;
+    at her urging he hid in the mangroves when his companions sailed away so that
+    he might be her husband.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The young girl murdered Pulu that same night while he slept and shared his
+    body among her friends.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Longa-poa returned to look for Pulu and found the woman's people feasting
+    on the body, with Pulu's head stuck on a spear in the public square.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Tongans shouted their war-cry and slaughtered the townsfolk; only a few
+    escaped by fleeing to the hills.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After many days of sailing without seeing land, the hungry voyagers ran their
+    canoe onto a sleeping whale, leaped onto it, stabbed it with spears, and killed
+    it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After killing the whale, the voyagers boasted that they were gods and that
+    ordinary humans could not have done their deeds.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The gods heard the boast, were displeased, and took counsel about how to kill
+    the voyagers.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Longa-poa
+  description: A named figure who retaliates after Moala's killing and later returns
+    to look for Pulu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Moala
+  description: A gleeman who is treacherously killed on a beach while gathering firewood.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Pulu
+  description: A companion who forgets Fonua, hides in the mangroves, is murdered
+    while asleep, and whose body is consumed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: young girl of another land
+  description: A young woman who persuades Pulu to hide so he may be her husband,
+    then murders him while he sleeps.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the young girl's people, friends, and townsfolk
+  description: A community associated with feasting on Pulu's body and later being
+    slaughtered by the Tongans, except for a few who flee to the hills.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: the Tongans / exiles / comrades
+  description: The voyaging group who sail away, retaliate against townsfolk, kill
+    a whale during hunger, and boast that they are gods.
+  role_refs:
+  - role:1
+  - role:6
+  - role:10
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: the gods
+  description: Divine figures who hear the voyagers' self-deifying boast, are displeased,
+    and counsel how to slay them.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: sleeping whale
+  description: A whale encountered at sea while sleeping, attacked by the hungry voyagers,
+    stabbed with spears, and killed.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: people of the solitary island
+  description: The people among whom Moala is killed and whom Longa-poa kills completely
+    afterward.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: retaliatory slayers
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: Longa-poa kills the people of the first island after Moala is slain, and
+    the Tongans later slaughter the townsfolk after finding Pulu's body being eaten.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: treacherously slain gleeman
+  assigned_to:
+  - fig:2
+  basis: Moala is explicitly called the gleeman and is killed by a spear thrust through
+    his back.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deserting companion and murder victim
+  assigned_to:
+  - fig:3
+  basis: Pulu hides in the mangroves when his comrades sail away, then is murdered
+    while asleep.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: enticer and murderer
+  assigned_to:
+  - fig:4
+  basis: The young girl persuades Pulu to hide so he may be her husband and then murders
+    him that night.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: cannibal feasters and slaughtered townsfolk
+  assigned_to:
+  - fig:5
+  basis: The woman's friends and people are associated with sharing and feasting on
+    Pulu's body; the townsfolk are then slaughtered, with a few fleeing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: voyaging exiles
+  assigned_to:
+  - fig:6
+  basis: The passage refers to the exiles and describes their sailing, hunger, and
+    hardship.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:7
+  label: offended gods
+  assigned_to:
+  - fig:7
+  basis: The gods hear the voyagers' boast, become displeased, and deliberate about
+    slaying them.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: sea creature killed by the voyagers
+  assigned_to:
+  - fig:8
+  basis: The whale is sleeping when the voyagers run the canoe onto it, stab it, and
+    kill it.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: annihilated island community
+  assigned_to:
+  - fig:9
+  basis: After Moala's killing, Longa-poa kills all that people, leaving none alive.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: self-deifying boasters
+  assigned_to:
+  - fig:6
+  basis: After the whale killing, the voyagers say, “We are gods,” and deny that children
+    of men could have done their deeds.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: open sea and water journey
+  literal_form: sea; many days of sailing without seeing land
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: solitary island
+  literal_form: an island standing alone in the midst of the sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: spear
+  literal_form: spear used to kill Moala, display Pulu's head, and stab the whale
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: mangroves hiding place
+  literal_form: mangroves where Pulu hides when his comrades sail away
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: public display of severed head
+  literal_form: Pulu's head stuck on a spear in the public square
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: canoe
+  literal_form: the canoe run down upon the sleeping whale
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: whale
+  literal_form: a sleeping whale killed by the hungry voyagers
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Moala's killing and Longa-poa's retaliation
+  summary: During the exiles' hardships, Moala is killed on a solitary island while
+    gathering firewood; Longa-poa responds by killing the island's people completely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pulu's desertion, murder, feast, and revenge slaughter
+  summary: Pulu hides in the mangroves at the urging of a young woman, is murdered
+    and divided among her friends, and Longa-poa finds the woman's people feasting
+    on him before the Tongans slaughter the townsfolk.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: The hungry voyagers kill the whale
+  summary: After many days without land, the hungry voyagers run their canoe onto
+    a sleeping whale, leap onto it, spear it, and kill it.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Self-deifying boast and divine displeasure
+  summary: After killing the whale, the voyagers declare themselves gods; the gods
+    hear, become displeased, and deliberate on how to kill them.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: exile sea voyage through hunger and hardship
+  taxonomy_refs:
+  - departure
+  basis: The passage names the group as exiles and describes hunger, thirst, hardships,
+    and many days of sailing without land.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not describe the original cause of exile or the initial
+    departure.
+- id: motif:2
+  label: treacherous killing followed by retaliatory annihilation
+  taxonomy_refs: []
+  basis: Moala's treacherous killing is followed by Longa-poa killing all the island's
+    people; Pulu's murder and consumption are followed by a Tongan slaughter of the
+    townsfolk.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The retaliation is human action in this passage, not explicitly divine
+    punishment.
+- id: motif:3
+  label: fatal enticement into hiding and desertion
+  taxonomy_refs: []
+  basis: A young girl persuades Pulu to hide in the mangroves when his companions
+    sail away so that he may be her husband, then murders him while he sleeps.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the act and outcome but does not elaborate the girl's
+    motives beyond the stated marriage pretext.
+- id: motif:4
+  label: murdered companion consumed in communal feast
+  taxonomy_refs: []
+  basis: Pulu's body is shared among the young woman's friends, and Longa-poa later
+    finds her people feasting on it with the head displayed on a spear.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No ritual or symbolic interpretation of the feast is stated in the passage.
+- id: motif:5
+  label: hungry voyagers overpower and kill a sleeping whale
+  taxonomy_refs: []
+  basis: The voyagers, desperate with hunger after days without land, run their canoe
+    onto a sleeping whale, leap onto it, spear it, fight it, and kill it.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not say whether the whale is supernatural.
+- id: motif:6
+  label: self-deifying boast provoking divine wrath
+  taxonomy_refs:
+  - divine_judgment
+  basis: After the whale killing, the voyagers say they are gods; the gods hear, are
+    displeased, and counsel how to slay them.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The excerpt ends before the planned divine killing is narrated.
+comparison_claims:
+- id: claim:1
+  claim: At the motif-family level, the voyagers' self-deifying boast followed by
+    the gods' displeasure and plan to slay them aligns with a divine_judgment pattern.
+  claim_level: same_motif
+  target: divine_judgment
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage records divine intent to punish but does not include the
+    punishment's execution within this excerpt.
+- id: claim:2
+  claim: The exiles' difficult sea journey, marked by hunger, thirst, hardship, and
+    sailing without land, fits a broad departure or exile-voyage function.
+  claim_level: same_function
+  target: departure
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is an episodic summary and does not describe the initial
+    expulsion or point of departure.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4460-4461
+  quote_or_summary: "“hunger and thirst and hardships they endured.”"
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 4461-4467
+  quote_or_summary: Moala, the gleeman, is treacherously killed on the beach of a
+    solitary island while gathering firewood; Longa-poa kills all that island's people,
+    leaving none alive.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 4467-4475
+  quote_or_summary: Pulu forgets Fonua after being ensnared by a young girl of another
+    land; he hides in the mangroves when his comrades sail away, and she murders him
+    while he sleeps and shares out his body.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 4475-4484
+  quote_or_summary: Longa-poa returns to search for Pulu and finds people feasting
+    on his body, with the head stuck on a spear in the public square; the Tongans
+    then slaughter the townsfolk, though a few flee to the hills.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 4484-4491
+  quote_or_summary: After many days sailing without land, the hungry voyagers run
+    their canoe down upon a sleeping whale, leap onto it, stab it with spears, fight
+    it, and kill it.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: quote
+  locator: lines 4491-4496
+  quote_or_summary: "“We are gods ! We are gods !” The gods hear them, are displeased,
+    and take counsel about how to slay them."
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is explicit about actions and figures. Motif taxonomy links are
+    limited to broad available categories. The final broken line after the excerpt
+    opening is not used for extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata; no external Fijian context or continuation is assumed.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l4460-l4496
+  passage_sha256=856bc043c43badeabfabe6ced137b2414af594add28c33618245bd1871724d3e
+

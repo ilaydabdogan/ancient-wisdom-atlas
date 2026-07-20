@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l851-l868
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: TEIRESIAS. / CHORUS. / SOLDIER. / PENTHEUS.; lines 851-868
+  start: '851'
+  end: '868'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Pentheus orders Dionysus unhanded but declares him still trapped. Guards
+    release Dionysus' arms; Pentheus studies and jeers at him, mocking his appearance,
+    while Dionysus remains gentle, unafraid, and silent. Pentheus demands Dionysus'
+    name and race.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pentheus orders that Dionysus be unhanded, while saying that his toils are
+    around him and that he will not escape.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The guards loose the arms of Dionysus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pentheus studies Dionysus silently and then speaks jeeringly.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dionysus remains gentle and unafraid during the encounter.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Pentheus describes the stranger as fair, long-haired, soft-cheeked, white-skinned,
+    and not like a wrestler.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Dionysus is silent, and Pentheus demands that he state his name and race.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: Speaker who orders Dionysus released from the guards' hold, claims
+    he cannot escape, jeers at his appearance, and demands his name and race.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Dionysus
+  description: Figure whose arms are loosed by guards; he remains gentle, unafraid,
+    and silent while Pentheus studies, mocks, and questions him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: guards
+  description: Attendants who loose the arms of Dionysus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: captor or controller
+  assigned_to:
+  - fig:1
+  basis: Pentheus says his toils are around Dionysus and that he will not fly.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mocking interrogator
+  assigned_to:
+  - fig:1
+  basis: Pentheus jeers at Dionysus' appearance and orders him to state his name and
+    race.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: restrained and released figure
+  assigned_to:
+  - fig:2
+  basis: The guards loose Dionysus' arms after Pentheus orders him unhanded.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: silent calm respondent
+  assigned_to:
+  - fig:2
+  basis: Dionysus remains gentle and unafraid and is silent while Pentheus speaks.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: guards or attendants
+  assigned_to:
+  - fig:3
+  basis: The stage direction identifies guards who loose Dionysus' arms.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: toils around the captive
+  literal_form: toils or snares said to be around Dionysus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: long curls and unweathered skin
+  literal_form: long curls, soft cheeks, white skin, and red cheeks that have not
+    faced the light
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Release under continued control
+  summary: Pentheus commands that Dionysus be unhanded but asserts that he remains
+    unable to escape; the guards loosen Dionysus' arms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Jeering examination and demand for identity
+  summary: Pentheus studies Dionysus, mocks his appearance, and demands his name and
+    race while Dionysus remains gentle, unafraid, and silent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: captive held by snares despite release
+  taxonomy_refs: []
+  basis: Pentheus orders Dionysus unhanded but says his toils remain around him and
+    he will not escape.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the claim of restraint in Pentheus' speech; it does
+    not show an actual escape or failure to escape.
+- id: motif:2
+  label: mocked stranger questioned about identity and lineage
+  taxonomy_refs: []
+  basis: Pentheus calls Dionysus a stranger, mocks his appearance, and commands him
+    to state his name and race.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage contains the questioning and mockery but not Dionysus' answer.
+- id: motif:3
+  label: calm silent captive before a hostile authority
+  taxonomy_refs: []
+  basis: Dionysus remains gentle, unafraid, and silent while Pentheus studies, jeers,
+    and interrogates him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: Hostility is limited here to Pentheus' jeering speech and claim of control.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 851-852
+  quote_or_summary: '"Unhand him. Howso swift he be, / My toils are round him and
+    he shall not fly."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; excerpt supplied in prompt.
+- id: ev:2
+  type: summary
+  locator: 853-856
+  quote_or_summary: 'Stage direction: guards loose Dionysus'' arms; Pentheus studies
+    him silently, then jeers; Dionysus remains gentle and unafraid.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized from prompt.
+- id: ev:3
+  type: summary
+  locator: 857-865
+  quote_or_summary: Pentheus addresses Dionysus as a fair stranger and mocks his long
+    curls, soft cheeks, white skin, red cheeks, and lack of wrestler-like appearance.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized from prompt.
+- id: ev:4
+  type: quote
+  locator: 866-868
+  quote_or_summary: '"DIONYSUS is silent. / Speak, sirrah; tell me first thy name
+    and race."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; excerpt supplied in prompt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are local descriptive
+    candidates only, with no taxonomy mapping assigned. No comparison claims are made
+    because the passage does not itself support a comparative assertion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l851-l868
+  passage_sha256=e6f5003a5ac4ed6060702248142a2bbcc1409a8c1fd67ceef847a90beae36f90
+

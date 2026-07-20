@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l41771-l41818
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: CH. 6. EXPLANATION OF MEN- / THE WORKS OF MKNCIUS / THE WORKS OF MEMJIUS
+    / MIND; SAGES AND OTHERS. IT; lines 41771-41818
+  start: '41771'
+  end: '41818'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage states that the nature of all people is good like that of
+    sages, and that moral differences are not due to different Heaven-conferred powers
+    but to circumstances that let minds be ensnared and drowned in evil. It then gives
+    an analogy of barley sown in the same ground and season: it grows and ripens,
+    while differences in yield arise from soil quality and nourishment from rain.'
+  language: English with embedded Chinese terms and notes
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The heading states that the nature of all men, like that of sages, is good.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In bad years, most of the people described abandon themselves to evil.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says this difference is not due to natural powers conferred by
+    Heaven.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The abandonment is attributed to circumstances through which people allow
+    their minds to be ensnared and drowned in evil.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Barley is described as being sown and covered up; with the same ground and
+    same sowing time, it grows rapidly and becomes ripe at the full time.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Inequalities in barley produce are attributed to differences in soil and unequal
+    nourishment from rains.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: all men
+  description: The passage speaks of the nature of all men as good and like that of
+    sages.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: sages
+  description: Sages are used as the comparison for the good nature of all men.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Heaven
+  description: Heaven is named as conferring natural powers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: people in bad years
+  description: A group described as abandoning themselves to evil in bad years.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: possessors of good nature
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that the nature of all men, like that of sages, is good.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: standard of comparison
+  assigned_to:
+  - fig:2
+  basis: The goodness of sages is used to characterize the nature of all men.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: conferrer of natural powers
+  assigned_to:
+  - fig:3
+  basis: The passage refers to natural powers conferred by Heaven.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: those affected by adverse circumstances
+  assigned_to:
+  - fig:4
+  basis: In bad years they abandon themselves to evil, and this is attributed to circumstances
+    affecting the mind.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: barley crop
+  literal_form: Barley sown and covered up, growing rapidly and ripening at the full
+    time.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: mind ensnared and drowned
+  literal_form: Minds are described as being ensnared and drowned in evil.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: rains as nourishment
+  literal_form: Unequal nourishment afforded by the rains.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: rich or poor soil
+  literal_form: Difference of the soil, as rich or poor.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Moral difference attributed to circumstance
+  summary: The passage contrasts innate good nature with conduct in bad years, explaining
+    the difference through circumstances rather than different Heaven-conferred powers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Barley analogy
+  summary: Barley is sown under the same ground and timing and reaches ripeness, while
+    differences in produce come from soil quality and nourishment by rains.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: innate goodness obscured by circumstance
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that human nature is good like that of sages and explains
+    evil conduct as arising from circumstances affecting the mind, not from different
+    Heaven-conferred powers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a philosophical-didactic pattern rather than a narrative myth
+    motif.
+- id: motif:2
+  label: agricultural growth as analogy for moral development
+  taxonomy_refs:
+  - wisdom
+  basis: The barley example presents natural growth and differing yields as an analogy
+    for sameness of underlying nature and variation caused by external conditions.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage gives the agricultural example directly, but the moral application
+    is inferred from its placement in the surrounding argument.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 41771-41776
+  quote_or_summary: The heading states that the nature of all men, like that of sages,
+    is good.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:2
+  type: quote
+  locator: lines 41779-41781
+  quote_or_summary: '"while in bad years the most of them abandon themselves to evil."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:3
+  type: quote
+  locator: lines 41781-41783
+  quote_or_summary: '"It is not owing to their natural powers conferred by Heaven
+    that they are thus different."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:4
+  type: quote
+  locator: lines 41783-41786
+  quote_or_summary: '"The abandonment is owing to the circumstances through which
+    they allow their minds to be ensnared and drowned in evil."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:5
+  type: summary
+  locator: lines 41787-41792
+  quote_or_summary: The passage describes barley being sown and covered; with the
+    same ground and sowing time, it grows rapidly and ripens at the full time.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:6
+  type: summary
+  locator: lines 41792-41796
+  quote_or_summary: The passage says inequalities of produce are due to differences
+    of soil, as rich or poor, and unequal nourishment from rains.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main argument is clear, but the passage includes OCR noise and interwoven
+    notes, so line-level details and antecedents are somewhat uncertain. No comparison
+    claims were made because the passage itself does not explicitly compare this pattern
+    with another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy reference to wisdom is applied cautiously to the didactic moral-philosophical pattern.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l41771-l41818
+  passage_sha256=76bbb7278b976f60e7f54f4418c97ad32ac4f125e99f8245f6d704c591812b99
+

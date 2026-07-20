@@ -1,0 +1,476 @@
+---
+record_id: batch.motif.andamanese-aboriginal-inhabitants-andaman-man-archive-l6209-l6343
+source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+passage_locator:
+  label: VIII. / PLATE VI. / GREAT ANDAMAN TYPES AT PORT BLAIR HOME. / PLATE VII.;
+    lines 6209-6343
+  start: '6209'
+  end: '6343'
+  translation: On the Aboriginal Inhabitants of the Andaman Islands
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ethnographic notes on return from successful hunting
+    or fishing, greeting customs, washing and bathing practices, heat protection,
+    and fire. It says the Andamanese lack the art of producing fire, preserve embers
+    carefully, have traditions placing their acquaintance with fire no later than
+    Creation, and may first have obtained fire from volcanic islands according to
+    the author’s conjecture.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After an unusually successful hunting or fishing expedition, men nearing home
+    shout in triumph to inform friends of their good fortune, and women answer with
+    yelling and thigh-slapping.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the encampment is entered, the rejoicing sounds usually cease; after
+    depositing their spoils, the hunters remain silent for some time before recounting
+    their adventures and exploits.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Morning greetings between friends or between husband and wife are absent,
+    and inquiries about health are unusual except when addressed to an invalid.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A thirsty man who also wishes to wash first drinks from a stream, leaf, or
+    vessel, then uses water from his mouth on his hands; if another person is present,
+    he pours water from a leaf over the friend’s hands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bathing is not daily but occurs at irregular intervals, especially when people
+    are oppressed by heat or when their bodies become sticky, such as after gathering
+    honey.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In hot weather they smear their bodies with white clay dissolved in water,
+    avoid direct sun when possible, use a large leaf screen over the head, and while
+    travelling by boat may pour water over themselves or swim alongside the canoe.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that the Andamanese appear to have always been ignorant
+    of the art of producing fire, while their traditions place their acquaintance
+    with fire no later than Creation.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The author conjectures that the first source of fire may have been the volcanic
+    islands Barren Island and Narcondam Island.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Because they lack a method of producing flame, they use careful measures to
+    prevent fire from going out, including carrying smouldering logs and leaving a
+    large burning log or faggot sheltered so it can smoulder for days and be rekindled.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Andamanese tribes
+  description: The collective people described in the ethnographic notes, especially
+    in relation to fire, bathing, heat protection, and washing customs.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Returning hunters or fishers
+  description: Men nearing home after an unusually successful hunting or fishing expedition,
+    carrying spoils and later recounting exploits.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Women at the encampment
+  description: Women who answer the men’s triumph shout by yelling and slapping their
+    thighs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Thirsty man washing
+  description: A man who drinks and then washes his hands with water, using different
+    procedures depending on whether he is alone or accompanied.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Friend or other person present
+  description: A companion whose hands may be washed by water poured from a leaf.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: triumphal announcers
+  assigned_to:
+  - fig:2
+  basis: The men raise a shout of triumph to apprise friends of successful hunting
+    or fishing.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: answering rejoicers
+  assigned_to:
+  - fig:3
+  basis: The women take up the cry and express delight by yelling and slapping their
+    thighs.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fire preservers
+  assigned_to:
+  - fig:1
+  basis: They are described as strangers to methods of producing flame and as taking
+    measures to avoid extinction of their fires.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: participants in hand-washing protocol
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The thirsty man washes himself and, if someone else is present, pours water
+    from a leaf over the friend’s hands.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: heat-avoiders
+  assigned_to:
+  - fig:1
+  basis: In hot weather they smear with clay, seek shelter, use a leaf screen, and
+    cool themselves with water while travelling by boat.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire, flame, smouldering logs, burning log, and faggot preserved for
+    rekindling.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: water
+  literal_form: Stream water, water lifted in a leaf or vessel, water used for handwashing,
+    water poured over the body, and water in which people swim alongside a canoe.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: white clay
+  literal_form: Common white clay dissolved in water and smeared on bodies during
+    hot weather.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: leaf implement
+  literal_form: Leaf used as a drinking or pouring vessel, large leaf screen held
+    over the head, and leaves wrapped around smouldering logs in wet weather.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+- id: sym:5
+  label: volcanic islands
+  literal_form: Barren Island with an active volcano and Narcondam Island with an
+    extinct volcano, proposed by the author as possible first sources of fire.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: canoe
+  literal_form: Boat or canoe used during travel, with people cooling themselves by
+    pouring water over themselves or swimming alongside it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Return from successful hunting or fishing
+  summary: Men approaching home after a successful expedition shout to announce success;
+    women answer with cries and thigh-slapping; after entering camp the rejoicing
+    stops and the hunters remain silent before telling their exploits.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Handwashing and drinking at water
+  summary: A thirsty man drinks and then washes his hands; if accompanied, he pours
+    water from a leaf over his friend’s hands.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Heat protection and cooling
+  summary: During hot weather, people apply white clay, avoid sun, use a leaf screen,
+    and cool themselves with water or by swimming beside the canoe.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Fire knowledge and preservation
+  summary: The passage says the Andamanese lack fire-making but have traditions placing
+    fire knowledge by Creation; they preserve fire by carrying smouldering logs and
+    leaving sheltered burning wood to smoulder for later rekindling.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: scene:5
+  label: Conjectured volcanic source of fire
+  summary: The author proposes that initial fire may have come from Barren Island’s
+    active volcano or Narcondam Island’s extinct volcano.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Triumphal return followed by formal silence
+  taxonomy_refs: []
+  basis: A successful expedition is announced by a triumph shout and answering women’s
+    cries, followed by a cessation of rejoicing and a period of hunters’ silence before
+    narration.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic custom rather than a mythic narrative; the passage
+    says the people cannot account for the practice.
+- id: motif:2
+  label: Companion handwashing with leaf-borne water
+  taxonomy_refs: []
+  basis: The passage describes a sequence in which water is drunk or lifted in a leaf
+    or vessel, then used for washing, and a companion’s hands are washed from a leaf
+    when present.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No symbolic interpretation is stated in the passage.
+- id: motif:3
+  label: Body cooling through clay, shade, and water
+  taxonomy_refs: []
+  basis: Hot-weather practices combine white clay applied to the body, a leaf screen
+    against sun or rain, and water poured over the body or swimming beside the canoe.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents practical heat protection, not an explicit ritual
+    or myth.
+- id: motif:4
+  label: Fire known from Creation but not producible
+  taxonomy_refs: []
+  basis: The fire section states both that the Andamanese lack the art of producing
+    fire and that their traditions place their acquaintance with fire no later than
+    Creation.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage mentions traditions but does not narrate the Creation episode
+    itself.
+- id: motif:5
+  label: Preservation of embers in place of fire-making
+  taxonomy_refs: []
+  basis: Because they cannot produce flame, they carry smouldering logs and leave
+    sheltered burning wood to smoulder for days so it can be rekindled.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is described as practical fire management; no origin myth is provided
+    in this passage.
+- id: motif:6
+  label: Volcanic source of first fire
+  taxonomy_refs: []
+  basis: The author conjectures that initial fire may have come from the group’s volcanic
+    islands, one active and one extinct.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This is explicitly the author’s conjecture, not presented as a native
+    tradition in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the Andamanese with the former aborigines of Tasmania
+    in lacking the art of producing fire.
+  claim_level: same_function
+  target: Tasmanian aborigines described as lacking fire-production skill
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is asserted briefly and cautiously by the author; the
+    passage provides no independent Tasmanian data.
+- id: claim:2
+  claim: A quoted note links Narcondam by speculative linguistic and visual association
+    with Narak, ‘Hell,’ and with accounts of Rakshasas or demons connected to Andaman
+    in Brahminical or seafaring tradition.
+  claim_level: linguistic_similarity
+  target: Brahminical/Hindu or Arab-seamen traditions concerning Narak, Rakshasas,
+    and Andaman/Narcondam
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note itself expresses doubt about whether the material is a genuine
+    old Brahminical saga and suggests it may derive from Arab seamen; it is not presented
+    as an Andamanese tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6209-6343, paragraph 7
+  quote_or_summary: When nearing home after unusually successful hunting or fishing,
+    men shout in triumph; women answer by yelling and slapping their thighs; once
+    in camp, rejoicing ceases and hunters remain silent before recounting exploits.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6209-6343, paragraph 8
+  quote_or_summary: No morning greetings pass between friends or spouses, and health
+    inquiries are uncommon unless addressed to an invalid.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6209-6343, paragraph 9
+  quote_or_summary: A thirsty man drinks from stream, leaf, or vessel, then uses water
+    from his mouth on his hands; if another is present, he pours water from a leaf
+    over the friend’s hands.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6209-6343, paragraph 10
+  quote_or_summary: They do not bathe daily, but at irregular intervals when oppressed
+    by heat or when sticky or unpleasant, for example after gathering honey.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6209-6343, paragraph 11
+  quote_or_summary: During hot weather they smear their bodies with white clay dissolved
+    in water, avoid direct sun, use a large leaf screen, and while boating cool themselves
+    with water or by swimming alongside the canoe.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6209-6343, Fire paragraphs 1-2
+  quote_or_summary: The Andamanese are said to be ignorant of producing fire; traditions
+    are said to place their acquaintance with fire no later than Creation.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6209-6343, Fire paragraph 3
+  quote_or_summary: 'The author conjectures that first fire may have come from two
+    islands of the group: Barren Island with an active volcano and Narcondam Island
+    with an extinct one.'
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6209-6343, Fire paragraphs 4-5
+  quote_or_summary: Because they are strangers to producing a flame, they carefully
+    prevent extinction of fires by carrying smouldering logs and by leaving a sheltered
+    burning log or faggot to smoulder for several days for later rekindling.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 6209-6343, footnote on Narcondam Island
+  quote_or_summary: A quoted note from Yule reports Brahminical or seafaring associations
+    of Andaman with Rakshasas or demons and speculates that Narcondam may relate to
+    Narak, ‘Hell,’ while doubting the genuineness of the tradition.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Most observations are straightforward ethnographic summaries. Motif candidates
+    involving fire are partly limited because the passage references traditions and
+    conjectures without giving the underlying mythic narratives. The Narcondam comparison
+    is especially uncertain and external to Andamanese tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family IDs were assigned because the available motif families do not directly match the passage’s fire-preservation and customary-practice patterns without overinterpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:andamanese-aboriginal-inhabitants-andaman-man-archive__l6209-l6343
+  passage_sha256=aeadf8d26d0e9e9d827bcace882e45a95b362c17d559c894a75fddebe83674f9
+

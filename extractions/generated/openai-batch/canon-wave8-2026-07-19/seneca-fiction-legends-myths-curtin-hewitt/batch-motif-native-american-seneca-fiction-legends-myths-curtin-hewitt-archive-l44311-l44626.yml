@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.native-american-seneca-fiction-legends-myths-curtin-hewitt-archive-l44311-l44626
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: CUBTIN,! / LEOEKDS / CDBTIN,! / LBQEKDB; lines 44311-44626
+  start: '44311'
+  end: '44626'
+  translation: Seneca Fiction, Legends, and Myths
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed male figure says that two will suffice, handles a body or bodies
+    with a forehead strap, makes and wraps a bundle, carries the bundle homeward to
+    a lodge, and arrives indoors. An old person, identified in the glossing with the
+    figure’s mother’s brother or uncle, speaks of eight and raccoon. The old person
+    removes skins, stretches them, waits for them to dry, tans them, and completes
+    the work; the result is described as fine or beautiful.
+  language: Seneca with English interlinear gloss
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male speaker says that two will suffice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The male figure brings a body down to the earth and lays out or uses a forehead
+    strap.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The male figure puts the body in a pile, makes it into a bundle, and wraps
+    it repeatedly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The male figure takes up his bundle or pack with the forehead strap and starts
+    homeward.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: He goes to a lodge associated with several spouses and arrives indoors.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: An old person, glossed in connection with a mother’s brother or uncle, speaks
+    and mentions eight and raccoon.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The old person removes skins for the whole number present and stretches them
+    all.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After the stretched skins dry, they are tanned; the task is completed and
+    the result is described as fine or beautiful.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed male carrier
+  description: An unnamed male figure who speaks, handles the body or bodies, makes
+    a wrapped bundle, carries it with a forehead strap, and returns homeward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: old person / mother’s brother
+  description: A figure glossed as an old person and in connection with the male figure’s
+    mother’s brother or uncle; this figure speaks, removes skins, stretches them,
+    and tans them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: several spouses
+  description: A group associated with the lodge to which the male figure returns.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: returning carrier
+  assigned_to:
+  - fig:1
+  basis: He makes and wraps a bundle, takes it up with a forehead strap, and starts
+    homeward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: elder hide-worker
+  assigned_to:
+  - fig:2
+  basis: The old person speaks, removes skins, stretches them, and tans them after
+    drying.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: spouses associated with destination lodge
+  assigned_to:
+  - fig:3
+  basis: The passage identifies the destination as the place where the lodge of several
+    spouses stands.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: forehead strap
+  literal_form: forehead strap used in bearing the bundle or pack
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wrapped bundle or pack
+  literal_form: body or bodies piled, bundled, wrapped, and carried
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: raccoon and raccoon skins
+  literal_form: raccoon named in speech; skins removed, stretched, dried, and tanned
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: numbers two and eight
+  literal_form: 'spoken quantities: two will suffice; eight is mentioned by the old
+    person'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: making the bundle
+  summary: The male figure says two will suffice, brings a body down to earth, uses
+    a forehead strap, piles the body, makes it into a bundle, and wraps it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: homeward return to the lodge
+  summary: The male figure takes up the bundle with the forehead strap and travels
+    homeward to a lodge associated with several spouses, where he places the burden
+    indoors.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: hide preparation by the old person
+  summary: The old person speaks of eight and raccoon, removes skins, stretches all
+    of them, allows them to dry, tans them, and completes the work.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: return home with a burden
+  taxonomy_refs:
+  - return
+  basis: The male figure takes up the wrapped burden with a forehead strap and starts
+    homeward toward the lodge.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The broader narrative context is not supplied, so the function of the
+    return within the larger story is uncertain.
+- id: motif:2
+  label: animal skins processed into finished hides
+  taxonomy_refs: []
+  basis: The passage names raccoon, then describes skins being removed, stretched,
+    dried, tanned, and completed as fine or beautiful work.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is interlinear and fragmentary; it is not fully clear how
+    many animals or bodies are involved.
+- id: motif:3
+  label: spoken sufficiency counts before animal processing
+  taxonomy_refs: []
+  basis: One speaker says that two will suffice, while the old person later mentions
+    eight in connection with raccoon before the skins are processed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The exact relation between the numbers two and eight is unclear in the
+    supplied OCR/interlinear passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 44311-44380, opening segment
+  quote_or_summary: The speaker says that two will suffice, brings the body down to
+    the earth, lays out a forehead strap, puts the body in a pile, makes a bundle,
+    and wraps it repeatedly.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 44381-44445, middle segment
+  quote_or_summary: He takes up his bundle or pack with the forehead strap, starts
+    homeward, and goes toward the place where the lodge of several spouses stands.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 44446-44520, middle segment
+  quote_or_summary: He arrives and places the burden indoors where the uncle or mother’s
+    brother is; the old person speaks, saying that perhaps eight will suffice and
+    mentioning raccoon.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 44521-44580, later segment
+  quote_or_summary: The old person removes skins for as many as are there, completes
+    that task, and stretches all of the skins.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 44581-44626, closing segment
+  quote_or_summary: When the skins dry, he tans them, completes the work, and the
+    result is described as very fine or beautiful, with wording that may indicate
+    use for wrapping.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is public domain but appears as OCR-heavy Seneca text with English
+    interlinear glosses, so literal extraction is possible only at a coarse level.
+    No comparison claims were added because the supplied passage does not itself support
+    cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include forehead strap, bundle, raccoon, skins, or number motifs.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-seneca-fiction-legends-myths-curtin-hewitt-archive__l44311-l44626
+  passage_sha256=cb455f79d088d872bf7c49caa649ca1651aa2fed79316d5187f207a1794d7832
+

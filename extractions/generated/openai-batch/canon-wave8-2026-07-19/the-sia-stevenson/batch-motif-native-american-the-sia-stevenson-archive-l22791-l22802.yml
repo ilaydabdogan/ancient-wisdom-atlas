@@ -1,0 +1,189 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l22791-l22802
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: CHAPTER V. / USE OF PAINT IN WORSHIP. / THE MYSTERY DANCE. / THK MINIWATU.;
+    lines 22791-22802
+  start: '22791'
+  end: '22802'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports that the Teton Dakota tell of Miniwatu, Wamnitu, and
+    Miniwasi'u, probably as names for the same class of monsters. Miniwasi'u is glossed
+    as meaning Water God or Guardian Spirit, and these powers are described as horned
+    water monsters with four legs each. Footnotes cite prior sources and an image
+    labeled Wah-Menitu, the spirit or god in the water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Teton Dakota are said to tell of the Miniwatu, Wamnitu, and Miniwasi'u.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The three names are presented as probably referring to the same class of monsters.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Miniwasi'u is glossed as meaning Water God or Guardian Spirit.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The powers are described as horned water monsters with four legs each.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A footnote mentions an image labeled Wah-Menitu, described as the spirit or
+    god in the water.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Miniwatu / Wamnitu / Miniwasi'u
+  description: Names probably referring to the same class of horned, four-legged water
+    monsters; Miniwasi'u is glossed as Water God or Guardian Spirit.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: monster class
+  assigned_to:
+  - fig:1
+  basis: The passage says the names are probably for the same class of monsters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: water god or guardian spirit
+  assigned_to:
+  - fig:1
+  basis: Miniwasi'u is glossed as meaning Water God or Guardian Spirit, and the beings
+    are called water monsters.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water in the gloss Water God or Guardian Spirit and in the phrase
+    water monsters.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: horns
+  literal_form: Horned bodies of the water monsters.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: four legs
+  literal_form: Four legs each.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Description of the Miniwatu class
+  summary: The passage names a Teton Dakota class of supernatural water monsters and
+    describes them as horned and four-legged.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: horned four-legged water monster
+  taxonomy_refs: []
+  basis: The beings are described as horned water monsters with four legs each.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a description, not a narrative episode.
+- id: motif:2
+  label: water god or guardian spirit
+  taxonomy_refs: []
+  basis: Miniwasi'u is glossed as Water God or Guardian Spirit and associated with
+    water monsters.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The gloss is brief, and the passage does not provide ritual or narrative
+    functions.
+comparison_claims:
+- id: claim:1
+  claim: Miniwatu, Wamnitu, and Miniwasi'u are probably names for the same class of
+    monsters.
+  claim_level: same_motif
+  target: The three named Teton Dakota water-monster labels in this passage.
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself marks the equivalence as probable, and no further
+    distinguishing narrative details are provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22793-22796
+  quote_or_summary: The passage says the Teton Dakota tell of Miniwatu, Wamnitu, and
+    Miniwasi'u, probably names for the same class of monsters; the last is glossed
+    as Water God or Guardian Spirit.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: quote
+  locator: lines 22796-22797
+  quote_or_summary: '"said to be horned water monsters with four legs each"'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; short quote used.
+- id: ev:3
+  type: summary
+  locator: lines 22798-22802
+  quote_or_summary: Footnotes cite prior sources and mention a picture of Wah-Menitu,
+    described as the spirit or god in the water.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and includes OCR irregularities and a sentence fragment
+    after the monster description; extraction is limited to the visible text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the available motif families do not include a precise water-monster category, and the passage does not identify the beings as serpents.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l22791-l22802
+  passage_sha256=745aa1a112d17d435c8b893aeb024d1fd948a4d00d7a2fa1a64ad477c7a1ef4a
+

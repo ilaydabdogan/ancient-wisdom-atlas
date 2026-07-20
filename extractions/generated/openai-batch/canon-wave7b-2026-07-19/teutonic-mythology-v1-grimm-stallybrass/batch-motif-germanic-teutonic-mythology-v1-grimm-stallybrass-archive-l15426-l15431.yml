@@ -1,0 +1,165 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l15426-l15431
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: HRUODA,   OSTARA.  289 / FRIKKA.     FKOUWA,  001 / FRIKKA.     FROUWA.  303
+    / EAIIANA.     HELLIA.  3 1 1; lines 15426-15431
+  start: '15426'
+  end: '15431'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage rejects an etymological affinity between Hel and Old Norse
+    or Gothic words for rock, and instead proposes a likelier connection with words
+    meaning hole or cave. It notes that both a cave and the nether world cover or
+    conceal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Hel has no affinity with Old Norse terms glossed as
+    rock and cave, or with a Gothic term glossed as rock.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage proposes a likelier connection between Hel and Germanic words
+    glossed as hole or cave.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that a cave covers and that the nether world also covers.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage links the proposed cave/nether-world connection to a root glossed
+    as conceal.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hel
+  description: Name discussed in relation to words for rock, hole, cave, and the nether
+    world.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Etymological subject associated with the nether world
+  assigned_to:
+  - fig:1
+  basis: The passage discusses Hel's proposed linguistic connection with words for
+    hole or cave and notes that the nether world covers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave / caverna / antrum
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: nether world as covering place
+  literal_form: nether world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Etymological comparison of Hel with cave and concealment terms
+  summary: The passage compares Hel with several Germanic terms, rejects a connection
+    with rock words, proposes a connection with hole or cave words, and explains the
+    connection by the shared idea of covering or concealing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Nether world as concealed or covering space
+  taxonomy_refs: []
+  basis: The passage explicitly connects cave imagery and the nether world through
+    the action of covering or concealing.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an etymological and symbolic association rather than a narrative
+    motif in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious linguistic comparison between Hel and Germanic
+    words for hole or cave, while rejecting comparison with words for rock.
+  claim_level: linguistic_similarity
+  target: Germanic words glossed as hole, cave, or caverna, contrasted with rock terms
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:1
+  confidence: medium
+  limitations: The claim is limited to the author's etymological argument in this
+    passage and does not establish a narrative or historical-contact motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15426-15427
+  quote_or_summary: The passage says Hel has no affinity with Old Norse hella, hellir,
+    or Gothic hallus, glossed in the passage as rock or cave/rock terms.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 15428-15430
+  quote_or_summary: The passage proposes a likelier connection with words glossed
+    as hole or cave, including OHG holi/hoi and a feminine form hulundi glossed as
+    caverna.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 15430-15431
+  quote_or_summary: '"a cave covers, and so does the nether world"; the passage connects
+    both with a root glossed as conceal.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily philological, so symbolic and motif extraction is
+    limited to the explicit cave/nether-world association.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR spellings in the provided passage were not normalized in quoted evidence except where summarized.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l15426-l15431
+  passage_sha256=e5e412ca3f2cf1b2bd96f80188501990c2f8207fe342d3f0afe867144a179270
+

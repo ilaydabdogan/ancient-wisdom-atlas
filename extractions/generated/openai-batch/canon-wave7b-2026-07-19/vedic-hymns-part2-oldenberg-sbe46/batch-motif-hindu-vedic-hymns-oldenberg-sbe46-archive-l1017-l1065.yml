@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l1017-l1065
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: IO VEDIC HYMNS. / MANDALA I, HYMN 13. II / I2 VEDIC HYMNS. / NOES:; lines
+    1017-1065
+  start: '1017'
+  end: '1065'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Agni is the father, the mortal whose sacrifice he performs, the son.
+  summary: 'Editorial and philological notes to a Vedic hymn: the hymn and collection
+    are ascribed to Sunaksepa Agigarti; the metre is identified; a proposed division
+    into Trikas is discussed with reference to a Sama-veda occurrence; terms such
+    as manmabhiz, vakas, and risaddas are glossed or analyzed; and a note to verse
+    3 identifies Agni as father and a mortal connected with sacrifice as son.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the hymn and the collection to which it belongs are
+    ascribed to Sunaksepa Agigarti, and that the metre is given as Gayatrit.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage reports Bergaigne's division of the hymn into Trikas with one
+    additional final verse, and says the editor does not find sufficient evidence
+    for this, citing a Sama-veda occurrence of verses 10, 6, and 7.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that manmabhiz may possibly mean “with thy (wise) thoughts,”
+    and compares another Agni passage involving thoughts or prayers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that vakas stands for vakasa and notes that Ludwig also
+    takes vakas as instrumental.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that Agni is the father, and that the mortal whose sacrifice
+    Agni performs is the son.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage asks whether risaddas can be explained as a Sanskrit compound
+    and mentions alternative scholarly connections.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sunaksepa Agigarti
+  description: The hymn and its collection are ascribed to this figure in the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Agni
+  description: Identified in the verse 3 note as the father and as the one who performs
+    the mortal's sacrifice.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: the mortal
+  description: The mortal whose sacrifice Agni performs is identified as the son.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ascribed source figure
+  assigned_to:
+  - fig:1
+  basis: The hymn and collection are said to be ascribed to Sunaksepa Agigarti.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father
+  assigned_to:
+  - fig:2
+  basis: The note states that Agni is the father.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: son
+  assigned_to:
+  - fig:3
+  basis: The note states that the mortal is the son.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: sacrifice performer
+  assigned_to:
+  - fig:2
+  basis: The note says Agni performs the mortal's sacrifice.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: mortal associated with sacrifice
+  assigned_to:
+  - fig:3
+  basis: The note describes the mortal as the one whose sacrifice Agni performs.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Agni, the mortal, and sacrifice
+  summary: In the note to verse 3, Agni is described as father, while the mortal whose
+    sacrifice Agni performs is described as son.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine father and mortal son relationship
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage explicitly identifies Agni as father and the mortal as son.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The relation is reported in an editorial note; the full underlying hymn
+    verse is not included in the supplied passage.
+- id: motif:2
+  label: Sacrifice performed by a divine figure for a mortal
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that Agni performs the mortal's sacrifice.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief note and does not provide the ritual sequence
+    or full narrative context.
+comparison_claims:
+- id: claim:1
+  claim: The note identifies a textual occurrence in the Sama-veda consisting of verses
+    10, 6, and 7 of this hymn, using it as evidence against a proposed Trika division.
+  claim_level: linguistic_similarity
+  target: Sama-veda II, 967-9 Trika of verses 10, 6, and 7
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a text-critical comparison of verse grouping, not a direct
+    mythological motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1019-1022
+  quote_or_summary: The hymn and whole collection are ascribed to Sunaksepa Agigarti;
+    the metre is stated as Gayatrit.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1022-1027
+  quote_or_summary: Bergaigne's proposed division into Trikas is discussed; the editor
+    rejects sufficient evidence and cites Sama-veda II, 967-9, where verses 10, 6,
+    and 7 appear as a Trika.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: Verse 2, Note 1; approximately lines 1030-1035
+  quote_or_summary: "“Manmabhiz may possibly mean, ‘with thy (wise) thoughts’”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: Verse 2, Note 2; approximately lines 1036-1041
+  quote_or_summary: Vakas is said to stand for vakasa, with references to Lanman,
+    Roth, Schmidt, and Ludwig; Ludwig also treats vakas as instrumental.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: Verse 3, Note 1; approximately lines 1043-1046
+  quote_or_summary: "“Agni is the father, the mortal whose sacrifice he performs,
+    the son.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: Verse 4, Note 1; approximately lines 1048-1065
+  quote_or_summary: The note asks whether risaddas can be explained as a compound
+    from Sanskrit elements and cites Aufrecht, Neisser, M. M., and Ludwig on related
+    explanations.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily editorial and philological notes rather than a full
+    mythic narrative. The divine parent-child and sacrifice motifs are directly supported
+    by one concise note to verse 3, but wider context is absent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol such as fire was assigned because the supplied passage names Agni but does not explicitly identify him as fire within this excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l1017-l1065
+  passage_sha256=f75a325947d65d16cecc770c9581e220f572968763cb9888b748a6681139bd21
+

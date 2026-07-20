@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l16457-l16503
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: FAMOUS RIYERS IN INDIA. / CANTO LTII. / FAMOUS RIVERS TN INDIA. / CANTO LYII.;
+    lines 16457-16503
+  start: '16457'
+  end: '16503'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage begins Canto LVII with a list of rivers and then gives translator's
+    notes on several river names, variant readings in other Purana texts, epic references,
+    and proposed geographical identifications in central and eastern India.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Canto LVII opens with a sequence of named rivers, including forms printed
+    as Nishadha-vati/Mshadha-vati, Venya, Vaicarani, and Sinibahu.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note on Nishadha-vati gives variant readings in the Vayu, Kurma, and Matsya
+    Puranas and suggests possible association with small tributaries of the Narmada
+    or Tapti rising in the Satpura Range.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note on Venya discusses variant forms, cites occurrences in the Hari-Vamsha
+    and Mahabharata, and identifies the river with the river joining the Godavari
+    and Varada, described as the modern Wain-ganga and its continuation the Pranhita.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note on Vaicarani identifies it with the modern Bytami, flowing through
+    northern Orissa, and links that classification to the Riksha Range and hills south
+    of Chuta Nagpore.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note on Sinibahu gives variant readings in the Vayu, Kurma, and Varaha
+    Puranas and states that the relevant river names are not found in the dictionary,
+    with one possible Mahabharata occurrence noted as uncertain.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Nishadha-vati / Mshadha-vati
+  description: A named river in the opening list, discussed with variant readings
+    and possible central Indian tributary identification.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Venya / Vena
+  description: A named river in the opening list, discussed with variant forms and
+    identified with a river joining the Godavari and Varada.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Vaicarani
+  description: A named river in the opening list, identified in the note with the
+    modern Bytami in northern Orissa.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Sinibahu
+  description: A named river in the opening list, discussed with variant readings
+    and uncertain identification.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: named river in catalogue
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Each figure is listed as a river name at the opening of the canto or discussed
+    in notes attached to that list.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: river given a proposed geographical identification
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The notes propose geographical identifications for Nishadha-vati, Venya,
+    and Vaicarani.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: river water
+  literal_form: named rivers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: River catalogue and geographical notes
+  summary: A canto section lists several rivers, followed by notes comparing their
+    names across Purana and epic sources and proposing modern geographical identifications
+    for some of them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: catalogue of rivers in sacred geography
+  taxonomy_refs: []
+  basis: The passage is structured as a list of named rivers with cross-references
+    and geographical identifications, rather than as a narrative episode.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy does not include a specific sacred-geography or
+    river-catalogue motif family; this is a descriptive passage pattern rather than
+    a mythic plot motif.
+comparison_claims:
+- id: claim:1
+  claim: The notes compare several river names in this Markandeya Purana passage with
+    variant forms in other Purana river lists.
+  claim_level: linguistic_similarity
+  target: parallel river-name readings in the Vayu, Kurma, Matsya, and Varaha Puranas
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  limitations: The comparison is limited to names and readings reported by the translator's
+    notes; several identifications are explicitly uncertain or not found elsewhere.
+- id: claim:2
+  claim: The Venya/Vena river name is compared with occurrences in nearby epic corpus
+    references and associated with a specific river system.
+  claim_level: linguistic_similarity
+  target: Hari-Vamsha and Mahabharata references to Vena/Venva as a river
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim follows the translator's note and remains a name-and-geography
+    comparison, not evidence for a shared narrative motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16457-16459
+  quote_or_summary: Canto LVII begins by listing river names, including printed forms
+    corresponding to Nishadha-vati, Venya, Vaicarani, and Sinibahu.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: 16463-16475
+  quote_or_summary: The note discusses Nishadha-vati, variant readings in the Vayu,
+    Kurma, and Matsya Puranas, possible connection with Nishadha, and a tentative
+    identification with tributaries of the Narmada or Tapti rising in the Satpura
+    Range.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: 16477-16495
+  quote_or_summary: The note discusses Venya/Vena variants, cites the Hari-Vamsha
+    and Mahabharata, and describes a river joining the Godavari and Varada, identified
+    as the modern Wain-ganga and continuation Pranhita, with mention of Krishna-vena
+    as a tributary.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: 16497-16499
+  quote_or_summary: The note identifies Vaicarani with the modern Bytami, flowing
+    through northern Orissa, and states that this classification would extend the
+    Riksha Range to hills south of Chuta Nagpore.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: 16501-16503
+  quote_or_summary: The note gives variant readings for Sinibahu in the Vayu, Kurma,
+    and Varaha Puranas, states that these river names are not found in the dictionary,
+    and mentions a possible but contextually uncertain Mahabharata occurrence of Baldha.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is chiefly a river catalogue with philological and geographical
+    notes. OCR corruption and the mid-sentence cutoff reduce certainty about exact
+    names and line-level segmentation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative mythic action is present in this excerpt; extraction emphasizes literal river names, water symbolism, and cautious cross-textual name comparisons supported by the notes.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l16457-l16503
+  passage_sha256=a8d042847a214c13bd1bce430eb3931a6f689f6d94eb7d728054251bcb6b49e6
+

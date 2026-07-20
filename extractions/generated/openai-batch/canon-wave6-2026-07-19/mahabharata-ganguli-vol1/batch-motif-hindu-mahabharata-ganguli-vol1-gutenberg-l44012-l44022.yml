@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l44012-l44022
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION CLXIII / SECTION CLXIV / SECTION CLXV / SECTION CLXVI; lines 44012-44022
+  start: '44012'
+  end: '44022'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: This must never be hurled at mortals.
+  summary: A god grants the speaker an eternal weapon, warns that it must not be hurled
+    at mortals because misuse could consume the universe, permits its use only under
+    extreme conditions, causes the celestial weapon to manifest beside the speaker,
+    commands the speaker to sit, and then vanishes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A figure grants the speaker an eternal weapon.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker is told that the weapon must never be hurled at mortals.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The warning states that if the weapon is discharged at a person of small energy,
+    it would consume the universe.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker is permitted to discharge the weapon only when hard pressed and
+    when all other weapons have been completely baffled.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A god is described as having a bull for his mark.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A celestial weapon stands manifest by the speaker's side.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The weapon is described as resistless, capable of baffling all weapons, destructive
+    of foes, a hewer of hostile forces, unrivalled, and difficult to bear even by
+    celestials, demons, and Rakshasas.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: At the command of the god, the speaker sits down, and the god vanishes from
+    the spot in the speaker's sight.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker / first-person narrator
+  description: The first-person figure who receives the weapon and instructions, sees
+    the weapon manifest, sits at the god's command, and witnesses the god vanish.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: god having the bull for his mark
+  description: A divine figure associated with a bull mark who grants and regulates
+    the weapon, commands the speaker, and vanishes.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: recipient of restricted celestial weapon
+  assigned_to:
+  - fig:1
+  basis: The speaker receives the granted eternal weapon and is instructed about its
+    restricted use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: divine grantor and instructor
+  assigned_to:
+  - fig:2
+  basis: The god grants the weapon and gives instructions and warnings about when
+    it may be discharged.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: commanding and vanishing deity
+  assigned_to:
+  - fig:2
+  basis: The god commands the speaker to sit and then vanishes from the spot.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: eternal celestial weapon
+  literal_form: An eternal weapon, later manifest as a celestial weapon of resistless
+    force.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: bull mark
+  literal_form: A bull used as the god's mark or sign.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Grant and restriction of the weapon
+  summary: The god grants the speaker an eternal weapon and warns that it must not
+    be hurled at mortals, since misuse against a person of small energy would consume
+    the universe; the weapon may be used only under extreme conditions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Manifest weapon and vanishing god
+  summary: After the god is gratified, the celestial weapon manifests beside the speaker.
+    At the god's command, the speaker sits, and the god vanishes from sight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine grant of a dangerous weapon under restriction
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A god grants an eternal weapon and imposes explicit limits on its use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage shows a divine grant or transfer, but it does not describe
+    a reciprocal exchange.
+- id: motif:2
+  label: conditional release of ultimate weapon after lesser weapons fail
+  taxonomy_refs: []
+  basis: The speaker may discharge the weapon only when hard pressed and after all
+    other weapons have been baffled.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level pattern; no broader taxonomy reference is directly
+    supplied.
+- id: motif:3
+  label: universe-consuming consequence of misuse
+  taxonomy_refs: []
+  basis: The weapon is said to be able to consume the universe if discharged at a
+    person of small energy.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states universal consumption but does not explicitly describe
+    fire or a named apocalypse motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 44012-44015
+  quote_or_summary: '"having granted that eternal weapon" and "This must never be
+    hurled at mortals"; misuse "would consume the universe."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 44015-44018
+  quote_or_summary: '"Shouldst thou ... be hard pressed" and when all weapons are
+    baffled, "thou mayst hurl it."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 44018-44021
+  quote_or_summary: The god with the bull for his mark is gratified; a celestial weapon
+    manifests by the speaker's side, described as resistless, able to baffle weapons,
+    destructive to foes, unrivalled, and hard for celestials, demons, and Rakshasas
+    to bear.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 44021-44022
+  quote_or_summary: At the god's command the speaker sits down, and the god vanishes
+    from the spot in the speaker's sight.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct. Motif labels are passage-level and cautious;
+    the sacred_exchange taxonomy mapping is broad because the passage describes a
+    grant rather than an explicit reciprocal exchange. No comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figure names beyond those present in the supplied passage were inferred.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l44012-l44022
+  passage_sha256=5f7a2f6aaf3b08032a7ffd46b446b05d422e49f63d7fc71fa75aefc7f25d09d6
+

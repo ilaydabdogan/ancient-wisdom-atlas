@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l14784-l14808
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE KNIGHT OF THE RED SHIELD. 469 / RIDIRE NA SGIATHA DEIRGE. / RIDIRE NA
+    SGIATHA DEIRGE. 471 / RIDIRE NA SC4IATHA DEIRGE. 473; lines 14784-14808
+  start: '14784'
+  end: '14808'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary Scottish Gaelic passage with repeated tale/page headings
+    for Ridire na Sgiatha Deirge. It includes a poetic star image, the departure of
+    two sons of the king, a named figure seen following them, brief dialogue about
+    willingness to act, a footnote glossing heather, and a later fragment mentioning
+    going over fire.
+  language: Scottish Gaelic with English header/footnote material
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage repeats the Gaelic title/header “RIDIRE NA SGIATHA DEIRGE.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A poetic line mentions a star among stars and “Earraich uaine ri Gaisge.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that two sons of the king went or departed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage names Ridire a Chiirn/Ridire Chuirn in connection with attention
+    after the departing figures.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Mac an Earraich uaine ri Gaisge is seen following the departing king’s sons.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: An “other man” says that he is willing to do something himself.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A footnote glosses “Fraghach” as the same as “fraoch,” heather.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A fragment mentions someone in the great world who goes over fire.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Ridire/Eidire Chuirn is credited with a question, “Cha'n athais e?”
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Ridire/Eidire Chuirn is credited with a later conditional statement beginning
+    “Na'm biodh scan againn...”
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: da mbac an righ
+  description: Two sons of the king; the passage says they went or departed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Ridire a Chiirn / Ridire Chuirn
+  description: A named knightly figure, appearing with OCR/spelling variation; associated
+    with looking or attending after the departing sons and with later speech attribution.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Mac an Earraich uaine ri Gaisge
+  description: Named figure seen following the two sons of the king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: am fear eile
+  description: An unspecified “other man” who says he is willing to do something himself.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ridire na Sgiatha Deirge
+  description: Figure named in the repeated title/header; no separate action is attributed
+    to this title figure within the excerpt.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: king’s sons
+  assigned_to:
+  - fig:1
+  basis: The phrase “da mbac an righ” identifies the pair as two sons of the king.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: named knight
+  assigned_to:
+  - fig:2
+  basis: The figure’s name includes “Ridire,” and later speech attribution names Ridire/Eidire
+    Chuirn.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: observer or speaker in dialogue
+  assigned_to:
+  - fig:2
+  basis: The passage associates this figure with attention after the departing sons
+    and with later spoken lines/questions.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:4
+  label: follower
+  assigned_to:
+  - fig:3
+  basis: Mac an Earraich uaine ri Gaisge is described as following the king’s sons.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: other speaker
+  assigned_to:
+  - fig:4
+  basis: The line attributes speech to “am fear eile,” the other man.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: title figure
+  assigned_to:
+  - fig:5
+  basis: The repeated title/header names Ridire na Sgiatha Deirge.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: red shield
+  literal_form: sgiatha deirge / red shield in the tale title
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: an teine
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: star among stars
+  literal_form: reul air na rionnagan
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: heather
+  literal_form: Fraghach / fraoch
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Title and poetic image
+  summary: The excerpt opens with repeated title/header material and a poetic image
+    involving a star among stars.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Departure and following
+  summary: Two sons of the king depart; Ridire a Chiirn is named in connection with
+    looking or attending after them; Mac an Earraich uaine ri Gaisge is seen following
+    them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Brief dialogue about acting
+  summary: An unspecified other man says he is willing to do something himself.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fragment concerning fire and reproach
+  summary: A later fragment mentions someone going over fire, followed by a question
+    attributed to Ridire/Eidire Chuirn and another conditional statement by him.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Departure of royal sons
+  taxonomy_refs:
+  - departure
+  basis: The passage states that two sons of the king went or departed.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The surrounding purpose of the departure is not included in this fragment.
+- id: motif:2
+  label: Follower after departing figures
+  taxonomy_refs: []
+  basis: Mac an Earraich uaine ri Gaisge is seen following the two sons of the king
+    after their departure.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The reason for following and the relationship between the figures are
+    not given.
+- id: motif:3
+  label: Going over fire
+  taxonomy_refs: []
+  basis: A fragmentary line mentions someone in the great world who goes over fire.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The line is incomplete/OCR-impaired and does not clearly establish whether
+    the fire crossing is an ordeal, test, feat, or other action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 14784-14788
+  quote_or_summary: Repeated title/header “RIDIRE NA SGIATHA DEIRGE” and poetic line
+    “Mar reul air na rionnagan, / Earraich uaine ri Gaisge.”
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 14790-14793
+  quote_or_summary: "“Dh' fhalbh da mbac an righ... faicear Mac an Earraich uaine
+    ri Gaisge 'gau leau-tuinn.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: '14795'
+  quote_or_summary: "“Tha mi toileach sean fheiu a dheanadh,” ors' am fear eile."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: '14797'
+  quote_or_summary: "“Fraghach, same as fraoch, heather.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 14801-14805
+  quote_or_summary: 'Fragment: “... anns an domhan mhor a theid thairis ... an teine,”
+    followed by “Cha''n athais e ?” attributed to Ridire/Eidire Chuirn.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 14807-14808
+  quote_or_summary: Ridire/Eidire Chuirn makes a conditional statement beginning “Na'm
+    biodh scan againn...” and saying that “tus'” would get it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by fragmentary context, OCR variation, and mixed
+    Gaelic/header material. Motif candidates are restricted to actions explicitly
+    visible in the provided lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the fragment itself does not support a cautious cross-text or cross-tradition comparison beyond local motif labeling.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l14784-l14808
+  passage_sha256=82b43485961227b806e80d7123be947d361f53b713b8c142874d4ad733ad2023
+

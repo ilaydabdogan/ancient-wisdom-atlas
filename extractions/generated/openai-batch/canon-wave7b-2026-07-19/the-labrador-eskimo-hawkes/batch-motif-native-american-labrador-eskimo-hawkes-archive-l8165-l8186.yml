@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l8165-l8186
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: THE   HEAVENLY    REGIONS. / THE    REGIONS    BELOW. / THE   PLACE  WHERE   THE    CARIBOU   LIVE.
+    / HOW  THE   TROUT  WAS  MADE.; lines 8165-8186
+  start: '8165'
+  end: '8186'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A great angekok walking by calm water uses his torngak to turn a dry willow
+    stick into a living fish; after the fish complains of wetness and cold, he wraps
+    it in seaweed, returns it to the water, tells it to be useful to all the Eskimo,
+    names it trout, and explains its side stripe as the seam where the seaweed folds
+    meet.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man described as a great angekok walks along the shore and looks at calm
+    water.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The angekok wishes to make something that can live in the water from something
+    that grows on land.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He sees willows nearby and breaks off a little dry stick.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: He tells his torngak to make the stick alive, throws the stick into the water,
+    and the stick sinks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After a short time a fish comes up and says it is wet and cold and would rather
+    grow on land again.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The man takes the fish out, folds seaweed around it, throws it back into the
+    water, tells it to be useful to all the Eskimo, and names it trout.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The trout's side stripe is explained as the seam where the folds of seaweed
+    meet.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: great angekok
+  description: A man described as a great angekok who initiates the making of the
+    trout and gives instructions to his torngak.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: torngak
+  description: The angekok's torngak, addressed by him and told to make the dry stick
+    alive.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: fish / trout
+  description: A fish that appears after the stick is thrown into the water, is wrapped
+    in seaweed, returned to the water, and named exa"lupik, the trout.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: all the Eskimo
+  description: The human community for whom the trout is told to be useful.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: shamanic maker or initiator
+  assigned_to:
+  - fig:1
+  basis: The passage calls the man a great angekok and shows him choosing the material,
+    commanding the torngak, wrapping the fish, and naming it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: spirit helper or life-giving agent
+  assigned_to:
+  - fig:2
+  basis: The torngak is told to make the stick into something alive.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: transformed and named animal
+  assigned_to:
+  - fig:3
+  basis: The fish appears after the stick is acted on, is modified with seaweed, and
+    is named trout.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: beneficiary community
+  assigned_to:
+  - fig:4
+  basis: The trout is instructed to be useful to all the Eskimo.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: The calm water beside the shore, into which the stick and then the
+    fish are thrown.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: willow stick
+  literal_form: A little dry stick broken from nearby willows and used as the material
+    for making the living fish.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: seaweed wrapping
+  literal_form: A piece of seaweed folded around the fish before it is returned to
+    the water.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: trout side stripe
+  literal_form: The stripe along the trout's side, identified as the seam where the
+    seaweed folds meet.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: shoreline intention and material choice
+  summary: The great angekok walks by calm water, wishes to make a water-dwelling
+    being from land-grown material, and selects a dry willow stick.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: spirit-assisted transformation
+  summary: The angekok commands his torngak to make the stick alive, throws it into
+    the water, and a fish later appears.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: fish complaint and seaweed wrapping
+  summary: The fish complains that it is wet and cold; the man removes it, wraps it
+    in seaweed, and returns it to the water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: naming and usefulness
+  summary: The man tells the fish to be useful to all the Eskimo and names it trout.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: stripe explanation
+  summary: The side stripe of the trout is explained as the seam left by the folded
+    seaweed.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: etiological origin of trout
+  taxonomy_refs: []
+  basis: The passage narrates how a trout is made and named from a willow stick transformed
+    into a fish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy list does not include a specific animal-origin
+    or etiological-tale family.
+- id: motif:2
+  label: plant or object transformed into aquatic animal through spirit aid
+  taxonomy_refs: []
+  basis: A dry willow stick is selected, the torngak is told to make it alive, and
+    a fish appears after the stick enters the water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The transformation is caused by the angekok and torngak; the passage does
+    not present the stick as a self-directed shapeshifter.
+- id: motif:3
+  label: visible animal marking explained as trace of manufacture
+  taxonomy_refs: []
+  basis: The trout's side stripe is explained as the seam where the folds of seaweed
+    meet.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a local etiological explanation of a physical feature; no broader
+    taxonomy reference is assigned.
+- id: motif:4
+  label: beneficial species made for the human community
+  taxonomy_refs:
+  - culture_hero
+  basis: The man tells the newly made trout to be useful to all the Eskimo.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage calls the actor a great angekok, not explicitly a culture
+    hero; the taxonomy reference is functional and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared functionally to etiological animal-origin and
+    body-marking patterns because it explains both how the trout came to be and why
+    it has a side stripe.
+  claim_level: same_function
+  target: etiological origin-and-body-marking pattern
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No historical contact, common inheritance, or comparison with a named
+    external text is indicated by the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8167-8172
+  quote_or_summary: A great angekok walks by the shore, wishes to make a water-dwelling
+    thing from land-grown material, sees willows, and breaks off a dry stick.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 8173-8174
+  quote_or_summary: The angekok tells his torngak to make the stick alive, throws
+    it into the water, and it sinks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 8176-8177
+  quote_or_summary: A fish comes up and says it is wet and cold and would rather grow
+    on land again.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 8179-8182
+  quote_or_summary: The man wraps the fish in seaweed, returns it to the water, tells
+    it to be useful to all the Eskimo, and names it exa"lupik, the trout.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 8184-8186
+  quote_or_summary: The trout's side stripe is identified as the seam where the folds
+    of seaweed meet.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence is clear. Broader motif labels are functional classifications
+    and require human review, especially the culture_hero taxonomy reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata; quotations were minimized in favor of summaries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l8165-l8186
+  passage_sha256=2087252178295fc95a998dd27b8eaf2403de940eb8d7b798dd06f8938eef59bd
+

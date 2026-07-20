@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l7210-l7276
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I I 1 / I I I II I / I I II / CHAPTER XI.; lines 7210-7276
+  start: '7210'
+  end: '7276'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces the Eleventh Division of the Tuat, named Re-en-Qeeert-Apt-Khatu,
+    traversed by the Sun-god during the Eleventh Hour of the night. The great god
+    enters through a named gate, takes position in a Circle, and addresses the gods
+    there. The middle register shows the Boat of the Sun with the god standing under
+    a canopy formed by the serpent Mehen, wearing horns and a disk; the prow bears
+    a disk encircled by a uraeus called Pestu.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the scene as the Eleventh Division of the Tuat, called
+    Re-en-Qeeert-Apt-Khatu.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sun-god passes through this division during the Eleventh Hour of the night.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The great god takes up his position in a Circle and addresses the gods who
+    are in it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gate of the City is named Seken-Tuatiu, the City is named Re-en-Qeeert-Apt-Khatu,
+    and the hour of the night that guides the god has a stated name.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the middle register, the Boat of the Sun contains the god standing under
+    a canopy formed by the body of the serpent Mehen.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The god in the boat has horns and a disk on his head.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The high prow of the boat bears a disk encircled by a uraeus called Pestu.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the great god / Sun-god
+  description: The deity who passes through the Eleventh Division during the Eleventh
+    Hour, enters the City, takes position in the Circle, addresses the gods, and stands
+    in the Boat of the Sun wearing horns and a disk.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: gods in the Circle
+  description: The gods who are in the Circle and are addressed by the great god.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: serpent Mehen
+  description: The serpent whose body forms a canopy over the god in the Boat of the
+    Sun.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: travelling deity in the Tuat division
+  assigned_to:
+  - fig:1
+  basis: The Sun-god passes through the Eleventh Division during the Eleventh Hour
+    and has entered the named City through a named gate.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: speaker addressing local gods
+  assigned_to:
+  - fig:1
+  basis: The great god takes position in the Circle and addresses words to the gods
+    in it.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: addressed gods of the Circle
+  assigned_to:
+  - fig:2
+  basis: The passage states that gods are in the Circle and receive the great god's
+    address.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: canopy-forming serpent
+  assigned_to:
+  - fig:3
+  basis: The serpent Mehen's body forms the canopy over the god in the boat.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Eleventh Division of the Tuat
+  literal_form: Named underworld division called Re-en-Qeeert-Apt-Khatu.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: gate of the City
+  literal_form: Gate named Seken-Tuatiu through which the great god entered.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: named guiding hour
+  literal_form: Hour of the night named Sebit-Nebt-Uaa-Khesfet-Seba-em-Peet-f, described
+    as guiding the great god.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - afterlife_journey_map
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Boat of the Sun
+  literal_form: Boat in the middle register in which the god stands.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Mehen serpent canopy
+  literal_form: The body of the serpent Mehen forming a canopy over the god.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: horns and disk on the god's head
+  literal_form: Horns and a disk placed on the head of the god in the boat.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: prow disk encircled by uraeus
+  literal_form: A disk on the high prow of the boat encircled by a uraeus and called
+    Pestu.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Entry and address in the Eleventh Division
+  summary: The great god enters the named City of the Eleventh Division through a
+    named gate, takes his position in the Circle, and addresses the gods who are there;
+    the guiding hour of the night is also named.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Solar boat in the middle register
+  summary: The middle register presents the Boat of the Sun with the god standing
+    beneath the body-canopy of the serpent Mehen, wearing horns and a disk; the high
+    prow displays a disk encircled by a uraeus called Pestu.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Mapped night journey through an afterlife division
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage gives a numbered Tuat division, a named city, a named gate, a
+    named guiding hour, and the Sun-god's passage through the region during the Eleventh
+    Hour.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is descriptive and does not narrate the full journey beyond
+    this division.
+- id: motif:2
+  label: Divine vessel in the underworld journey
+  taxonomy_refs:
+  - ark_vessel
+  basis: The middle register shows the Boat of the Sun with the god standing inside
+    it during the Tuat division scene.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The boat is explicit, but the broader ark/vessel motif function is inferred
+    only from its placement in the Sun-god's journey.
+- id: motif:3
+  label: Serpent-associated divine protection or enclosure
+  taxonomy_refs:
+  - serpent
+  basis: The serpent Mehen forms a canopy over the god, and the prow bears a disk
+    encircled by a uraeus.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage literally describes serpent forms; any protective meaning
+    of the canopy or uraeus is not stated in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: This passage can be cautiously classified with afterlife-journey-map material
+    because it organizes the Sun-god's movement by numbered division, hour, gate,
+    and city.
+  claim_level: same_motif
+  target: afterlife_journey_map motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to formal organization within this excerpt and
+    does not address other divisions or traditions.
+- id: claim:2
+  claim: The Boat of the Sun has the same vessel-conveyance function as the ark/vessel
+    motif family within this underworld scene.
+  claim_level: same_function
+  target: ark_vessel motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt shows the god standing in the boat but does not describe
+    the boat's motion or a complete transport episode.
+- id: claim:3
+  claim: The Mehen canopy and uraeus-encircled disk support a cautious comparison
+    to the serpent motif family at the level of recurring serpent imagery.
+  claim_level: visual_similarity
+  target: serpent motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supplies visual serpent imagery but does not explicitly
+    state a mythic interpretation of the serpents.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7210-7215
+  quote_or_summary: Chapter heading introduces the Eleventh Division of the Tuat and
+    gives its name as Re-en-Qeeert-Apt-Khatu.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 7216-7234
+  quote_or_summary: The division is passed through by the Sun-god during the Eleventh
+    Hour; the great god takes position in the Circle and addresses the gods in it.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7235-7254
+  quote_or_summary: The text names the gate as Seken-Tuatiu, the City as Re-en-Qeeert-Apt-Khatu,
+    and the guiding hour as Sebit-Nebt-Uaa-Khesfet-Seba-em-Peet-f.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7255-7271
+  quote_or_summary: The middle register contains the Boat of the Sun; the god stands
+    in it under a canopy formed by the serpent Mehen's body and wears horns and a
+    disk.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 7271-7276
+  quote_or_summary: The high prow of the boat has a disk encircled by a uraeus called
+    Pestu.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is partly OCR-corrupted and appears to end before the following
+    text is fully quoted, but the prose description of the division and middle register
+    is usable. Interpretive claims are kept close to the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l7210-l7276
+  passage_sha256=9970da62d1493d186ebf87676cd436c100f44b5aa8ab585d5443a11ad7cb721e
+

@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l1515-l1553
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: THE SONG OF THE PARTRIDGE / FOLK SONG / THE LILY OF SHAVARSHAN / CRADLE SONG;
+    lines 1515-1553
+  start: '1515'
+  end: '1553'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: And the boy lay hushed, and slumbered, / With the war-notes in his ear.
+  summary: 'A cradle song addresses several birds, asking each to soothe a crying
+    boy. The nightingale, jackdaw, and wild dove fail to quiet him and are linked
+    with rejected future roles: priest, merchant, and mourner. A falcon connected
+    with chase and war-notes finally hushes the boy and brings sleep.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker asks a nightingale to leave the garden and sing the speaker's
+    son to sleep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy does not sleep for the nightingale's chanting, and the speaker says
+    the child does not wish to be a priest.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker addresses a jackdaw as thievish and clever, associated with coin,
+    gold, and profit, and asks it to soothe the wailing boy.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The jackdaw's chatter does not lull the child, and the speaker says the child
+    will not choose the merchant's trade.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker asks a wild dove to come from fields and pastures and bring slumber
+    with its melancholy song.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The child continues to weep after the dove's song, and the speaker says he
+    loves not lamentations and will not be a mourner.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker calls on a brave-hearted falcon to leave its chase, and the boy
+    becomes hushed and sleeps with war-notes in his ear.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: cradle-song speaker
+  description: A first-person speaker who calls the boy 'my son,' 'my darling,' and
+    'my boy' while addressing birds to lull him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the boy
+  description: A crying child who rejects some songs or chatter but sleeps when the
+    falcon's war-notes are heard.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: nightingale
+  description: A melodious bird called from the garden to sing the boy to sleep; its
+    chanting does not stop the child's weeping.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: jackdaw
+  description: A bird described as thievish and clever, joyful in coin, with tales
+    of gold and profit; its chatter does not lull the boy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: wild dove
+  description: A plaintive bird called from fields and pastures, associated with grieving
+    and melancholy song; the child continues to weep.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: falcon
+  description: A brave-hearted bird called from the chase; its war-notes accompany
+    the boy's sleep.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: parental lullaby speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker repeatedly refers to the child as 'my son,' 'my darling,' and
+    'my boy' while trying to soothe him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: crying child whose response distinguishes songs
+  assigned_to:
+  - fig:2
+  basis: The boy remains awake and crying through the first three bird-songs but becomes
+    hushed and sleeps with the falcon's war-notes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: unsuccessful avian lullaby visitor
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The nightingale, jackdaw, and dove are each asked to lull or soothe the child,
+    but each fails to stop his crying.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: successful avian lullaby visitor associated with war
+  assigned_to:
+  - fig:6
+  basis: When the falcon is invoked, the boy lies hushed and sleeps with war-notes
+    in his ear.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: nightingale song
+  literal_form: nightingale with melodious litanies
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: jackdaw and coin
+  literal_form: thievish, clever jackdaw associated with coin, gold, and profit
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wild dove lament
+  literal_form: wild dove with melancholy song and lamentations
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: falcon war-notes
+  literal_form: brave-hearted falcon, chase, and war-notes
+  associated_figures:
+  - fig:6
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: garden blossoms and dews
+  literal_form: garden where soft dews steep blossoms
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: fields and pastures
+  literal_form: fields and pastures from which the wild dove is called
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: nightingale rejected
+  summary: The speaker invites the nightingale from the garden to sing the son to
+    sleep, but the child does not sleep and is said not to wish to be a priest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: jackdaw rejected
+  summary: The speaker invites the jackdaw, associated with coin, gold, and profit,
+    to soothe the child, but its chatter fails and the child is said not to choose
+    the merchant's trade.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: wild dove rejected
+  summary: The speaker invites the grieving wild dove to bring sleep with melancholy
+    song, but the child still weeps and is said not to be a mourner.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: falcon accepted
+  summary: The speaker calls the brave-hearted falcon from its chase, and the boy
+    is hushed and sleeps with war-notes in his ear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: cradle song tests future vocation through birds
+  taxonomy_refs: []
+  basis: 'The song presents successive birds whose sounds are linked to possible life
+    roles for the boy: priest, merchant, mourner, and finally a warlike role suggested
+    by falcon war-notes.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly state that the falcon predicts a profession;
+    it only shows the boy sleeping to war-notes after other roles are rejected.
+- id: motif:2
+  label: warrior affinity revealed in infancy
+  taxonomy_refs: []
+  basis: The child remains unsettled by priestly, mercantile, and lamenting associations
+    but sleeps when the falcon and war-notes appear.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The interpretation rests on contrast within the song; no explicit phrase
+    such as 'warrior' is used for the child.
+- id: motif:3
+  label: avian visitors as lullaby figures
+  taxonomy_refs: []
+  basis: The lullaby addresses four birds in sequence and asks them to affect the
+    child's sleep or crying.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level pattern rather than a supplied taxonomy motif
+    family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1515-1524
+  quote_or_summary: The nightingale is asked to leave the dewy garden and sing the
+    son to sleep; the boy does not sleep, and the speaker says he does not wish to
+    be a priest.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 1525-1533
+  quote_or_summary: The jackdaw is called 'thievish' and 'clever,' associated with
+    coin, gold, and profit; its chatter fails, and the child will not choose the merchant's
+    trade.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; concise summary with short quoted terms.
+- id: ev:3
+  type: quote
+  locator: lines 1534-1543
+  quote_or_summary: The wild dove is asked to bring slumber with melancholy song;
+    the child still weeps, and the speaker says he loves not lamentations and will
+    be no mourner.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 1544-1547
+  quote_or_summary: The speaker calls the brave-hearted falcon from the chase; the
+    boy lies hushed and slumbers 'With the war-notes in his ear.'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: citation
+  locator: lines 1515-1553
+  quote_or_summary: Passage titled 'CRADLE SONG,' attributed to Raphael Patkanian
+    and translated by Alice Stone Blackwell.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; bibliographic citation only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and figures are clear. Motif labels are candidate descriptions
+    based only on the passage; no external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol reference was applied because the passage's birds, cradle song, and war-notes are not among the available symbol refs and do not clearly match the listed motif families.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l1515-l1553
+  passage_sha256=e7a5b499711e47a30f01e2aa8c41cf72f95fc7a783c7fa8ee9fe120ba48109c9
+

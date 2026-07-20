@@ -1,0 +1,533 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l1616-l1668
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  19 / C    2 / THE   BAGANDA
+    / CHAP.; lines 1616-1668
+  start: '1616'
+  end: '1668'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: They took innumerable precautions to remove the body and destroy the ghost
+  summary: The passage describes clan and branch responsibilities in trials and burial,
+    procedures around murder accusations, fines and food taboos between clans, secret
+    killing and flight, lack of punishment for a man killing his wife or slave, and
+    precautions surrounding suicide bodies and ghosts, including felling a tree used
+    for hanging and removing corpse and tree.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A head of a branch was responsible in a murder charge for seeing that justice
+    was done to the accused member and that he was not killed before the case was
+    proved.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Deliberate murder is described as rare; men going to drink are described as
+    not usually taking weapons with them.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An accused murderer was put in stocks while awaiting trial; if the trial went
+    against him, the murdered man's clan might accept a heavy fine instead of requiring
+    his death.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: During the trial, near relations of the murdered man could not eat with members
+    of the accused man's clan; payment of all or part of the fine removed the taboo
+    and allowed free mixing.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A person deliberately intending to kill another could lie in wait, spear him
+    secretly, and escape into adjacent countries for years or until death.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: No punishment was inflicted on a man who speared his wife or slave to death;
+    the wife's relatives could investigate but not punish him, because the wife was
+    described as his property.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Baganda are described as taking many precautions to remove the body of
+    a suicide and destroy the ghost so that it would not cause further trouble.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A man who committed suicide is described as hanging himself on a tree in his
+    garden or in his house.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: When the hanging was from a tree, the body was cut down, the tree was felled,
+    and both tree and corpse were taken to a distant place, with the corpse tied to
+    a pole like an animal carcass.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: head of the branch
+  description: Branch authority responsible for justice in a murder case involving
+    a member.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: accused clan member
+  description: Person charged with murder, placed in stocks while awaiting trial and
+    potentially subject to death or release after a fine.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: murdered man
+  description: Victim whose clan may accept a fine and whose near relations are subject
+    to a temporary eating taboo.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: murdered man's clan and near relations
+  description: Group that may accept a heavy fine instead of the accused's death and
+    whose near relations cannot eat with the accused man's clan until fine payment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: accused man's clan
+  description: Clan whose members are temporarily excluded from eating with the murdered
+    man's near relations during the trial.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: secret killer
+  description: A deliberate killer who lies in wait, spears another secretly, and
+    flees to adjacent countries.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: man who spears wife or slave
+  description: Person who kills wife or slave by spearing and receives no punishment
+    in the passage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: wife or slave
+  description: Domestic or dependent victim whose killing by the man is not punished
+    in the passage.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: wife's relatives
+  description: Relatives who investigate the killing of a wife but are unable to punish
+    the husband.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: man who committed suicide
+  description: Person who hangs himself on a tree in his garden or in his house.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:11
+  name_or_label: ghost of the suicide
+  description: Ghost that the Baganda precautions aim to destroy to prevent further
+    trouble.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: clan or branch judicial protector
+  assigned_to:
+  - fig:1
+  basis: The head of the branch must see that justice is done and that the member
+    is not killed until the case is proved.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: accused homicide defendant
+  assigned_to:
+  - fig:2
+  basis: The accused is put in stocks, tried, and may face death or release after
+    payment of a fine.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: homicide victim
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the murdered man and the consequences for his clan
+    and near relations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: victim kin with compensation authority and taboo restrictions
+  assigned_to:
+  - fig:4
+  basis: The murdered man's clan may accept a heavy fine, and his near relations cannot
+    eat with the accused man's clan until payment removes the taboo.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: tabooed clan of accused
+  assigned_to:
+  - fig:5
+  basis: Members of the accused man's clan cannot eat with the murdered man's near
+    relations during the trial.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: fugitive secret killer
+  assigned_to:
+  - fig:6
+  basis: The deliberate killer lies in wait, spears secretly, and escapes to adjacent
+    countries.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: unpunished domestic killer
+  assigned_to:
+  - fig:7
+  basis: No punishment is inflicted on a man who spears his wife or slave to death.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: property-status victim
+  assigned_to:
+  - fig:8
+  basis: The passage states that the wife was the man's property, and it pairs wife
+    and slave as victims whose killing is not punished.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: investigating but powerless kin
+  assigned_to:
+  - fig:9
+  basis: The wife's relatives investigate but are powerless to punish the man.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: suicide dead
+  assigned_to:
+  - fig:10
+  basis: The man who commits suicide hangs himself and his body is subject to special
+    removal precautions.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:11
+  label: dangerous ghost
+  assigned_to:
+  - fig:11
+  basis: The ghost is to be destroyed to prevent it from causing further trouble.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: stocks
+  literal_form: stocks used to hold the accused before trial
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: heavy fine
+  literal_form: compensation payment accepted instead of the accused person's death
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: eating taboo
+  literal_form: prohibition on eating with members of the accused man's clan before
+    fine payment
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: spear
+  literal_form: weapon used in secret killing and in killing wife or slave
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: tree used for hanging
+  literal_form: tree in the garden on which a suicide may hang himself and which is
+    then felled
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: troublesome ghost
+  literal_form: ghost of the suicide targeted for destruction
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: corpse pole
+  literal_form: pole to which the corpse is tied like the carcass of an animal for
+    removal
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Murder accusation and adjudication
+  summary: The head of a branch protects the accused member until proof is established;
+    the accused is placed in stocks and may be released if the victim's clan accepts
+    a heavy fine instead of death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Temporary eating taboo and fine payment
+  summary: While the case is tried, the murdered man's near relations avoid eating
+    with the accused man's clan; fine payment removes the taboo and allows free mixing.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Secret murder and flight
+  summary: A deliberate killer lies in wait, spears the victim secretly, and flees
+    into adjacent countries for years or until death.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Unpunished killing of wife or slave
+  summary: A man who spears his wife or slave to death is not punished; the wife's
+    relatives may investigate but cannot punish because the wife is treated as his
+    property.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Precautions after suicide
+  summary: A suicide body and its ghost are treated as dangerous; if the man hanged
+    himself from a tree, the body is cut down, the tree is felled, and both tree and
+    corpse are removed to a distant place.
+  figure_refs:
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: clan-mediated homicide compensation
+  taxonomy_refs: []
+  basis: The murdered man's clan may accept a heavy fine instead of requiring the
+    accused man's death, and the accused may then be liberated.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is presented as a legal and social custom, not as a mythic narrative.
+- id: motif:2
+  label: commensality taboo lifted by compensation
+  taxonomy_refs: []
+  basis: The murdered man's near relations cannot eat with the accused man's clan
+    during the trial, but payment of all or part of the fine removes the taboo.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes a social taboo; no divine or ritual explanation
+    is provided in this excerpt.
+- id: motif:3
+  label: dangerous suicide ghost requiring destruction
+  taxonomy_refs: []
+  basis: The Baganda are described as taking precautions to remove the suicide body
+    and destroy the ghost to prevent further trouble.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe the ghost's actions beyond the feared possibility
+    of causing trouble.
+- id: motif:4
+  label: death-implicated tree removed with corpse
+  taxonomy_refs: []
+  basis: When a man hangs himself on a tree, the body is cut down, the tree is felled,
+    and both are taken away.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Although the tree is a literal object in the passage, the excerpt does
+    not call it sacred or cosmological.
+- id: motif:5
+  label: secret spearing followed by long exile
+  taxonomy_refs: []
+  basis: A deliberate killer may ambush and spear a victim secretly, then flee to
+    adjacent countries for years or until death.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is described as a possible behavior pattern, not a named mythic episode.
+- id: motif:6
+  label: property-status victim outside normal punishment
+  taxonomy_refs: []
+  basis: The passage states that no punishment is inflicted for spearing a wife or
+    slave to death and explains the wife's relatives' powerlessness by describing
+    the wife as property.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic social-legal pattern and should not be generalized
+    beyond the supplied passage without review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1616-1624
+  quote_or_summary: The passage states that a branch head has duties in murder charges
+    to ensure justice for a member and prevent the member from being killed until
+    the case is proved.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 1624-1634
+  quote_or_summary: Deliberate murder is described as rare; weapons were not usually
+    taken to drinking; an accused murderer was put in stocks, and the victim's clan
+    might accept a heavy fine instead of the accused's death.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 1634-1639
+  quote_or_summary: During trial, near relations of the murdered man could not eat
+    with the accused man's clan; once the fine or part of it was paid, the taboo was
+    removed and the groups could mix freely.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 1640-1644
+  quote_or_summary: A deliberate killer may lie in wait, spear the victim secretly,
+    and escape into adjacent countries for years or until death.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 1645-1651
+  quote_or_summary: No punishment is inflicted on a man who spears his wife or slave
+    to death; the wife's relatives may investigate but cannot punish because the wife
+    is described as his property.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: quote
+  locator: lines 1652-1658
+  quote_or_summary: The Baganda took precautions “to remove the body and destroy the
+    ghost,” so that the ghost would not cause further trouble; suicide from shame
+    for crime is described as rare.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: lines 1658-1668
+  quote_or_summary: A man who committed suicide hanged himself on a tree in his garden
+    or in his house; if on a tree, the body was cut down, the tree felled, and both
+    tree and corpse were taken to a distant place, with the corpse tied to a pole
+    like an animal carcass.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The legal and mortuary details are explicit in the passage. Motif labels
+    are cautious because the excerpt is ethnographic and not a mythic narrative. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Available taxonomy symbol ref 'tree' was applied to the literal suicide tree; no motif-family taxonomy refs were assigned because the passage does not support the listed families directly.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l1616-l1668
+  passage_sha256=53795661820908b11f01cc652dfafc4a059c6f2418cc79368f53e3977976f6e2
+

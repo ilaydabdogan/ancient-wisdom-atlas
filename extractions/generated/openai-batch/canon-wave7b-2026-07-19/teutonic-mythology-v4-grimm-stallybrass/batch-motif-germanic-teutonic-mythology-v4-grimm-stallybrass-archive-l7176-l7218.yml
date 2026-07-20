@@ -1,0 +1,484 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l7176-l7218
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: WIGHTS   AND    ELVES.  1415 / WIGHTS   AND   ELVES.  1417 / WIGHTS   AND   ELVES.  1419
+    / WIGHTS   AND   ELVES.  1  121; lines 7176-7218
+  start: '7176'
+  end: '7218'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage collects comparative notes on wights, elves, dwarfs, pixies,
+    giants, and changelings. It notes daylight vulnerability in several beings, lists
+    regional names and descriptions for changelings, describes child theft or child-changing
+    by supernatural figures, gives methods for causing a changeling to be removed,
+    recounts a story in which dwarfs reward a human mother for nursing their child,
+    and gives an example of a changeling revealing his age after seeing an impossible
+    brewing setup.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Norse dwarf is said to vanish at sunrise; Devonshire pixies are said to
+    do the same; Swedish giants are said to dread daylight.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists names from Old Norse, Icelandic, Helsingland, Smaland, Middle
+    High German, Devon, and Cornwall for a substituted child or changeling.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the Smaland note, the child exchanged by trolls is described as little,
+    misshapen, and malicious.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Scotch sithich is said to steal children and leave a changeling behind;
+    a Lithuanian Lannie is said to change children.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A Wendish instruction says to flog the changeling with drooping-birch boughs
+    so that he will be fetched away; a similar method uses a hunting-whip.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Dwarfs are said to want a human mother to put their baby to her breast and
+    to reward her richly for doing so.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A method for making the changeling reveal his age and real character involves
+    a dwarf seeing people brew in a hen's-egg pot and drain beer into a goose-egg
+    pot; he then exclaims about his age and the novelty of the sight.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: dwarfs
+  description: Supernatural beings associated in the passage with vanishing at sunrise,
+    substituting a creature for a child, and rewarding a human mother who nurses their
+    baby.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Devonshire pixies
+  description: Pixies in Devonshire are compared to the Norse dwarf in vanishing at
+    sunrise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Swedish giants
+  description: Giants in Swedish tales are said to dread daylight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: changeling or substituted child
+  description: A creature put in the place of a child, described through many regional
+    names; in one method it can be made to reveal its age and real character.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Scotch sithich
+  description: A being said to steal children and leave a changeling behind.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Lithuanian Lannie
+  description: A being said to change children.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: human mother
+  description: A mother whom the dwarfs want to put their baby to her breast, receiving
+    rich reward for it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: dwarfs' baby
+  description: The baby whom dwarfs want a human mother to nurse.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: daylight-vulnerable supernatural being
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage links dwarfs, pixies, and giants with vanishing at sunrise or
+    dreading daylight.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: child-stealer or child-changer
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:6
+  basis: Dwarfs put a creature in a child's place; the sithich steals children and
+    leaves a changeling; the Lannie changes children.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: substituted changeling child
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the changeling as the creature put in place of a child
+    and lists regional labels for it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: human nurse of otherworld child
+  assigned_to:
+  - fig:7
+  basis: The human mother is asked, or desired, to put the dwarfs' baby to her breast.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: hidden ancient being exposed by test
+  assigned_to:
+  - fig:4
+  basis: The changeling can be made to blurt out his age and real character after
+    seeing the strange brewing procedure.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: reward-giver
+  assigned_to:
+  - fig:1
+  basis: The dwarfs richly reward the human mother who nurses their baby.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: otherworld infant
+  assigned_to:
+  - fig:8
+  basis: The baby belongs to the dwarfs and is to be nursed by a human mother.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sunrise or daylight
+  literal_form: sunrise/daylight
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: changeling
+  literal_form: creature substituted for a human child
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: drooping-birch boughs
+  literal_form: boughs of drooping-birch used for flogging the changeling
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hunting-whip
+  literal_form: hunting-whip used in a similar flogging method
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: breastfeeding gesture
+  literal_form: human mother putting the dwarfs' baby to her breast
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: egg-pot brewing test
+  literal_form: brewing in a hen's-egg pot and draining beer into a goose-egg pot
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Supernatural beings and daylight
+  summary: The passage compares a Norse dwarf vanishing at sunrise with Devonshire
+    pixies doing the same and Swedish giants dreading daylight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Child substitution and changeling names
+  summary: A creature placed by dwarfs in the place of a child is identified through
+    multiple regional names and descriptions, with additional notes about child theft
+    or child-changing by the sithich and Lannie.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Flogging the changeling to have it removed
+  summary: A changeling is to be flogged with drooping-birch boughs so that he will
+    be fetched away; a similar account uses a hunting-whip.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Human mother nursing the dwarfs' baby
+  summary: Dwarfs wish for a human mother to nurse their baby and reward her richly
+    for doing so.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Impossible brewing exposes the changeling
+  summary: To make the changeling reveal his age and identity, people perform an absurd
+    brewing act using egg-sized vessels, prompting the dwarf or changeling to speak.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: child theft and changeling substitution
+  taxonomy_refs: []
+  basis: The passage describes dwarfs putting a creature in the place of a child,
+    a sithich stealing children and leaving a changeling, and a Lannie changing children.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a comparative note with cited terms and brief claims rather
+    than a single complete narrative.
+- id: motif:2
+  label: supernatural beings vulnerable to sunrise or daylight
+  taxonomy_refs: []
+  basis: Dwarfs vanish at sunrise, pixies are said to do likewise, and Swedish giants
+    dread daylight.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The beings differ by tradition and type; the passage supports similarity
+    of daylight vulnerability, not identity of the beings.
+- id: motif:3
+  label: expelling or retrieving a changeling by beating
+  taxonomy_refs: []
+  basis: The passage says flogging the changeling with drooping-birch boughs will
+    cause him to be fetched away, with a similar hunting-whip example.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the ritual action and expected result are summarized; the full narrative
+    context is not included.
+- id: motif:4
+  label: rewarded nursing of an otherworld child
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Dwarfs want a human mother to put their baby to her breast and will richly
+    reward her.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The exchange is with dwarfs and involves reward, but the passage does
+    not explicitly frame it as sacred.
+- id: motif:5
+  label: changeling exposed by impossible domestic test
+  taxonomy_refs: []
+  basis: A changeling can be made to reveal age and real character by seeing an impossible
+    brewing arrangement involving hen's-egg and goose-egg pots.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states the method is widely attested but provides only one
+    abbreviated example.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-motif comparison among Norse dwarfs,
+    Devonshire pixies, and Swedish giants as supernatural beings harmed by or fearful
+    of daylight.
+  claim_level: same_motif
+  target: Norse dwarf legend, Devonshire pixies, and Swedish giant tales
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to daylight vulnerability; the passage does
+    not claim the beings are otherwise equivalent.
+- id: claim:2
+  claim: The passage supports a same-motif comparison across several European traditions
+    for the changeling or substituted child pattern.
+  claim_level: same_motif
+  target: Old Norse, Icelandic, Helsingland, Smaland, Middle High German, Devon-Cornwall,
+    Scotch, and Lithuanian changeling references
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Many entries are lexical or bibliographic references, not full narrative
+    variants.
+- id: claim:3
+  claim: The passage supports a same-function comparison between drooping-birch flogging
+    and hunting-whip flogging as methods for making a changeling be removed or fetched
+    away.
+  claim_level: same_function
+  target: Wendish drooping-birch method and similar hunting-whip account
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited hunting-whip parallel is mentioned only briefly.
+- id: claim:4
+  claim: The passage supports a same-function comparison for the method of provoking
+    a changeling's self-disclosure through an absurd household act.
+  claim_level: same_function
+  target: The 'numberless accounts' of making a changeling reveal age and character,
+    exemplified by the egg-pot brewing story
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only one example is summarized in the passage, and the wider account
+    set is not reproduced.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7180-7182
+  quote_or_summary: The passage says a Norse dwarf vanishes at sunrise, Devonshire
+    pixies do likewise, and Swedish tales give dread of daylight to giants.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7183-7193
+  quote_or_summary: The creature that dwarfs put in the place of a child is named
+    in Old Norse and Icelandic forms and compared with Helsingland, Smaland, Middle
+    High German, Devon, and Cornwall changeling terms; the Smaland example is a troll-exchanged
+    child described as small, misshapen, and malicious.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7197-7201
+  quote_or_summary: The Scotch sithich steals children and leaves a changeling; in
+    Lithuania the Lannie changes children, producing a changeling term.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7201-7205
+  quote_or_summary: A Wendish note says to flog the changeling with drooping-birch
+    boughs and he will be fetched away; a similar flogging with a hunting-whip is
+    also cited.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7205-7208
+  quote_or_summary: The passage calls it a prettier story that dwarfs wish to see
+    a human mother put their baby to her breast and will richly reward her for it.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 7212-7218
+  quote_or_summary: A widely attested method for making the changeling reveal his
+    age and real character is exemplified by a dwarf seeing people brew in a hen's-egg
+    pot and drain beer into a goose-egg pot, then exclaiming about his great age and
+    never having seen such brewing.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a dense comparative note with OCR irregularities and abbreviated
+    citations. The main changeling and daylight-vulnerability motifs are clear, but
+    many cited parallels are not narrated in full.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or common-inheritance claims are made; comparison claims are limited to motif or function similarities stated or implied by the passage itself.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l7176-l7218
+  passage_sha256=9fd2d54057f7f106dc977470924b2070fb1ae1cb40454af8349301983d42190b
+

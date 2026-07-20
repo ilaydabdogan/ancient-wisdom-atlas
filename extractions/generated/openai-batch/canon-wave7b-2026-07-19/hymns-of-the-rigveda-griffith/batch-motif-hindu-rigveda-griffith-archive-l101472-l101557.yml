@@ -1,0 +1,415 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l101472-l101557
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 2. / KEITH S / ARANYAKA IV / ARANYAKA V; lines 101472-101557
+  start: '101472'
+  end: '101557'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives ritual prescriptions for the Mahavrata ceremony: verses
+    accompanying fire-kindling, an animal offering to Visvakarman, use of Sastras
+    from other rites, additions at morning and midday pressings, arrangement of strophe
+    and antistrophe verses, extension and ending of the Marutvatiya Sastra, and final
+    oblations by the Hotr in the Agnidh''s fire using an udumbara-wood ladle.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Mahavrata ceremony is said to have twenty-five verses accompanying the
+    kindling of the fire, with four verses inserted before the second-last verse.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bull is prescribed as an offering to Visvakarman, accompanied by muttering
+    verses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Ajya and Prauga Sastras are taken from the Visvajit, and the Sastras of
+    the Hotrakas are taken from the Caturvimsa rite.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Brahmanacchamsin is instructed to add specified verses at the morning
+    pressing and at the midday pressing.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A strophe and antistrophe are formed from tristichs made up of specified Rigvedic
+    verse incipits, including verses addressed to or naming Indra.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Marutvatiya Sastra is taken over from the Caturvimsa and extended by several
+    hymns, including hymns mentioning Soma, splendour, Indra, and the Maruts.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: At the end of the Marutvatiya Sastra, the Hotr leaves his place by an incomplete
+    route and offers three oblations in the Agnidh's fire with a ladle of udumbara
+    wood.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A note identifies the Hotrakas as the Maitrivaruna, Brahmanacchamsin, and
+    Achavaka.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Agni is named in the incipit of an inserted verse connected with fuel
+    and fire-kindling.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Visvakarman
+  description: Visvakarman is the divine recipient of the prescribed bull offering.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Brahmanacchamsin
+  description: A ritual officiant instructed to add verses at the morning and midday
+    pressings; also identified as one of the Hotrakas.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:4
+  name_or_label: Hotrakas
+  description: A group of ritual officiants whose Sastras are taken from the Caturvimsa
+    rite; a note identifies them as Maitrivaruna, Brahmanacchamsin, and Achavaka.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:5
+  name_or_label: Hotr
+  description: The priest who leaves his place and offers three oblations in the Agnidh's
+    fire with an udumbara-wood ladle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Agnidh
+  description: A ritual office associated with the fire in which the Hotr offers three
+    oblations.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Indra
+  description: Indra is named in several verse incipits used in the strophe, antistrophe,
+    and extended Marutvatiya Sastra.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Maruts
+  description: The Maruts are named with Indra in one of the hymns extending the Marutvatiya
+    Sastra.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: recipient of offering
+  assigned_to:
+  - fig:2
+  basis: The passage prescribes that a bull is to be offered to Visvakarman.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: verse-adding officiant
+  assigned_to:
+  - fig:3
+  basis: The Brahmanacchamsin is instructed to add verses at the morning and midday
+    pressings.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Hotraka ritual officiant
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Hotrakas' Sastras are mentioned, and a note identifies the Brahmanacchamsin
+    as one of the Hotrakas.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:4
+  label: oblation-offering priest
+  assigned_to:
+  - fig:5
+  basis: The Hotr offers three oblations in the Agnidh's fire.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: deity named in liturgical verses
+  assigned_to:
+  - fig:1
+  - fig:7
+  - fig:8
+  basis: Agni, Indra, and the Maruts are named in verse or hymn incipits used in the
+    ritual sequence.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:6
+  label: fire-associated ritual office
+  assigned_to:
+  - fig:6
+  basis: The oblations are offered in the Agnidh's fire.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: ritual fire
+  literal_form: the fire kindled in the Mahavrata and the Agnidh's fire receiving
+    oblations
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: bull offering
+  literal_form: a bull offered to Visvakarman
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: liturgical verses and Sastras
+  literal_form: twenty-five fire-kindling verses, inserted verses, Ajya and Prauga
+    Sastras, Hotraka Sastras, and Marutvatiya Sastra hymns
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: Soma pressing
+  literal_form: morning pressing, midday pressing, and a hymn incipit about drinking
+    Soma
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: three oblations
+  literal_form: three oblations offered in the Agnidh's fire
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: udumbara-wood ladle
+  literal_form: a ladle of udumbara wood used for oblations
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Fire-kindling verse sequence
+  summary: The Mahavrata ceremony is described as using twenty-five verses for the
+    kindling of the fire, including inserted verses beginning with an Agni incipit.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bull offering to Visvakarman
+  summary: A bull is prescribed as an offering to Visvakarman, with muttered verses
+    accompanying the act.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pressing and Sastra arrangement
+  summary: The passage assigns Sastras from other rites, directs the Brahmanacchamsin
+    to add verses at morning and midday pressings, and lists strophe, antistrophe,
+    and Marutvatiya hymn sequences.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Final oblations in the Agnidh's fire
+  summary: At the end of the Marutvatiya Sastra, the Hotr leaves by an incomplete
+    route and offers three oblations in the Agnidh's fire using an udumbara-wood ladle.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacrifice through animal offering and fire oblation
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage prescribes a bull offering to Visvakarman and three oblations
+    in the Agnidh's fire, both accompanied or framed by liturgical performance.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The passage is prescriptive ritual prose rather than a narrative myth;
+    the motif is extracted at the level of ritual pattern.
+comparison_claims:
+- id: claim:1
+  claim: The Mahavrata ritual sequence is presented as reusing or adapting liturgical
+    components from the Visvajit and Caturvimsa rites, including the Ajya, Prauga,
+    Hotraka, and Marutvatiya Sastras.
+  claim_level: same_function
+  target: Visvajit and Caturvimsa rites within Vedic ritual tradition
+  evidence_refs:
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a textual-liturgical relationship stated within the passage,
+    not a broader claim about mythic origin or historical transmission beyond the
+    cited ritual materials.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 101472-101478
+  quote_or_summary: The Mahavrata ceremony has twenty-five verses to accompany fire-kindling;
+    four are inserted before the second-last verse, beginning with an Agni incipit.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 101478-101480
+  quote_or_summary: A bull is to be offered to Visvakarman accompanied by muttering
+    the verses.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 101480-101482
+  quote_or_summary: The Ajya and Prauga Sastras are taken from the Visvajit, and the
+    Hotraka Sastras are taken from the Caturvimsa rite.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 101512-101516
+  quote_or_summary: At the morning pressing the Brahmanacchamsin adds verses beginning
+    with RV X.153.1, and at the midday pressing verses beginning with RV X.160.1.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 101516-101521
+  quote_or_summary: The strophe and antistrophe are formed from tristichs of specified
+    Rigvedic verse incipits, including lines beginning with a buffalo image and several
+    Indra-related incipits.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 101521-101527
+  quote_or_summary: The Marutvatiya Sastra is taken from the Caturvimsa and extended
+    by hymns including incipits about Soma, splendour, and Indra with the Maruts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 101527-101530
+  quote_or_summary: At the end of the Marutvatiya Sastra, the Hotr leaves by an incomplete
+    route and offers three oblations in the Agnidh's fire with a ladle of udumbara
+    wood.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 101532-101535
+  quote_or_summary: A note identifies the Hotrakas as the Maitrivaruna, Brahmanacchamsin,
+    and Achavaka.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The ritual structure is explicit, but the OCR contains irregular spellings
+    and the passage is liturgical instruction rather than narrative mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy references were limited to the explicit fire symbol and the sacrifice motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l101472-l101557
+  passage_sha256=bace57c0b2617e7060a38eec55c8c1430da74783ced9b19bd56f2ec7a9a223e3
+

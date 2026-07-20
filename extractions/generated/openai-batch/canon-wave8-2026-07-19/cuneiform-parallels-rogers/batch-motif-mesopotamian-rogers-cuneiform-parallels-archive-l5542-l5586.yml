@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l5542-l5586
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: TABLET NO. 3 / TABLET NO. 3 / TABLET NO. 3 / THE MYTH OF ADAPA; lines 5542-5586
+  start: '5542'
+  end: '5586'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary tablet section names Ea in transliteration. In the Adapa
+    continuation, an addressed person is told to come up to heaven and approach the
+    door of Anu, where Tammuz and Gishzida are standing.
+  language: English with Akkadian transliteration fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The fragmentary transliterated lines include the name Ea, with surrounding
+    broken wording.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An addressed person is told to come up to heaven.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressed person is told to approach the door of Anu.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Tammuz and Gishzida are standing at the door of Anu.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ea
+  description: Named in a fragmentary transliterated section; the precise action is
+    unclear because the surrounding text is broken.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed addressee
+  description: The person addressed as “thou,” instructed to come up to heaven and
+    approach Anu's door.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Anu
+  description: Named in the phrase “door of Anu.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Tammuz
+  description: Named as standing at the door of Anu.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Gishzida
+  description: Named as standing at the door of Anu.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named figure in fragmentary divine context
+  assigned_to:
+  - fig:1
+  basis: Ea's name appears in the damaged transliterated lines, marked with “(ilu)”
+    in the passage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed traveler to heaven
+  assigned_to:
+  - fig:2
+  basis: The passage addresses “thou” and describes coming up to heaven and approaching
+    Anu's door.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: deity associated with the door
+  assigned_to:
+  - fig:3
+  basis: The place to be approached is called the “door of Anu.”
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: standing figures at Anu's door
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Tammuz and Gishzida are explicitly said to be standing at the door of Anu.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: heaven
+  literal_form: heaven
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: door of Anu
+  literal_form: door
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fragmentary mention of Ea
+  summary: A damaged transliterated section names Ea; the surrounding action cannot
+    be securely determined from the excerpt.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Approach to Anu's door
+  summary: An unnamed addressee is instructed to come up to heaven and approach the
+    door of Anu, where Tammuz and Gishzida stand.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Ascent to heaven
+  taxonomy_refs:
+  - ascent
+  basis: The addressed person is told to come up to heaven.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt preserves the instruction to ascend, but not a completed ascent
+    sequence or its outcome.
+- id: motif:2
+  label: Divine threshold with standing figures
+  taxonomy_refs: []
+  basis: The passage centers on approaching the door of Anu, where Tammuz and Gishzida
+    are standing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly call Tammuz and Gishzida guards or describe
+    what they do beyond standing there.
+comparison_claims:
+- id: claim:1
+  claim: The instruction to come up to heaven can be cautiously compared to the atlas
+    motif family of ascent, because it describes upward movement toward a heavenly
+    divine setting.
+  claim_level: same_motif
+  target: ascent motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The surviving excerpt is short and fragmentary; it gives an approach
+    instruction rather than a full narrated ascent.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6-14
+  quote_or_summary: "“ana [(ilu) E-]a ...”; fragmentary transliterated lines include
+    Ea's name and broken surrounding wording."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 18-19
+  quote_or_summary: "“to heaven ... (When) thou comest up”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 19-20
+  quote_or_summary: "“approachest the door of Anu, / At the door of Anu,”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 20-21
+  quote_or_summary: "“Tammuz and Gishzida / are standing,”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The English portion is clear for the heaven-ascent and door scene, but the
+    preceding transliterated section is fragmentary and only minimally interpreted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include heaven or door.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l5542-l5586
+  passage_sha256=c53bb16e266f01142543a8a6229469504e255e94d1470692ced9838d8eb982e5
+

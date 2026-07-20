@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l8574-l8618
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: NOTES, / MANDALA 1, HYMN 148. / ASHTAKA II, ADHYAYA 2, VARGA 17. / NOTES.;
+    lines 8574-8618
+  start: '8574'
+  end: '8618'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Philological notes on Rigvedic Hymn 1.148 discuss textual variants and
+    conjectural emendations. The notes mention a possible reading in which Matarisvan
+    produces Agni by attrition, discuss uncertain epithets of Agni as Hotr, and state
+    that the pronoun in verse 2 seems to refer to Agni, while reporting Sāyaṇa's different
+    explanation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a set of scholarly notes on Mandala 1, Hymn 148, not a continuous
+    narrative passage.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note compares the first pāda of verse 1 with Rigveda 1.71.4 and reports
+    differing readings.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A conjectural translation proposes that Matarisvan, standing in different
+    places, produced Agni by attrition.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage identifies Agni with the ritual role Hotr in a discussion of an
+    uncertain epithet.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says the referent of “He” in verse 2 seems to be Agni, while also
+    noting Sāyaṇa's alternative explanation.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Matarisvan
+  description: Named figure in a conjectural reading; possibly the one who produced
+    Agni by attrition.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Agni
+  description: Named figure described as produced by attrition in a conjectural reading,
+    as Hotr in another note, and as the likely referent of “He” in verse 2.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Sāyaṇa
+  description: Commentator whose explanation of verse 2 is reported by the note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: producer by attrition
+  assigned_to:
+  - fig:1
+  basis: The passage gives a conjectural translation in which Matarisvan produces
+    Agni by attrition.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: produced figure
+  assigned_to:
+  - fig:2
+  basis: In the conjectural translation, the object produced by attrition is Agni.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Hotr
+  assigned_to:
+  - fig:2
+  basis: The passage calls the uncertain word an epithet of “Agni the Hotr.”
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: commentator
+  assigned_to:
+  - fig:3
+  basis: The passage cites Sāyaṇa's explanation of the verse.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Agni
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: attrition
+  literal_form: production by attrition
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: food or nourishment epithet
+  literal_form: possible readings such as “endowed with all food” or “all-nourishing”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Conjectural production of Agni
+  summary: The note offers a possible corrected reading in which Matarisvan, standing
+    in different places, produced Agni by attrition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Uncertain epithet of Agni as Hotr
+  summary: The note discusses a corrupt or uncertain epithet of Agni the Hotr and
+    proposes possible meanings related to food, nourishment, or works.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Identification of pronoun in verse 2
+  summary: The note states that “He” seems to be Agni and then reports Sāyaṇa's alternative
+    interpretation.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fire produced by attrition
+  taxonomy_refs: []
+  basis: A conjectural corrected reading explicitly describes Matarisvan producing
+    Agni by attrition.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This motif is based on a proposed emendation in a philological note, not
+    on a settled translation of the hymn text.
+- id: motif:2
+  label: ritual fire as priestly Hotr
+  taxonomy_refs:
+  - sacrifice
+  basis: The note identifies Agni as Hotr, a ritual officiant role associated with
+    sacrificial context.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage only discusses an epithet and does not narrate a sacrifice
+    or ritual action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8574-8618
+  quote_or_summary: The passage is headed as notes for Mandala 1, Hymn 148, Ashtaka
+    II, Adhyaya 2, Varga 17.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; quotation or summary allowed.
+- id: ev:2
+  type: summary
+  locator: lines 8578-8587
+  quote_or_summary: The note states that the first pāda is identical with the first
+    pāda of Rigveda 1.71.4 except for a variant word, and discusses the difficulty
+    of explaining the transmitted reading.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; quotation or summary allowed.
+- id: ev:3
+  type: quote
+  locator: lines 8588-8599
+  quote_or_summary: "“when Matarisvan, standing in different places, had produced
+    him by attrition”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short quotation from public domain text.
+- id: ev:4
+  type: summary
+  locator: lines 8604-8613
+  quote_or_summary: The note says an uncertain form is evidently an epithet of Agni
+    the Hotr and considers readings meaning “endowed with all food,” “all-nourishing,”
+    or “doing all works,” while denying certainty.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; quotation or summary allowed.
+- id: ev:5
+  type: quote
+  locator: lines 8615-8618
+  quote_or_summary: "“‘He’ seems to be Agni. Sdayawza, however, explains...”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short quotation from public domain text.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is mainly philological commentary with several uncertain or conjectural
+    readings; motif extraction is therefore limited and requires review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or cross-cultural comparison beyond internal textual parallels.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l8574-l8618
+  passage_sha256=682f65d085eadd4f38eea77847e5bc4ddd5eb43cf12eb2a3149197ca65abbe91
+

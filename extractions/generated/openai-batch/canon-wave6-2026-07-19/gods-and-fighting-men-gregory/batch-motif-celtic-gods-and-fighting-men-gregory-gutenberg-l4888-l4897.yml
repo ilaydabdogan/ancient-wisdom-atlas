@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.celtic-gods-and-fighting-men-gregory-gutenberg-l4888-l4897
+source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: CHAPTER XI. HIS THREE CALLS TO CORMAC / CHAPTER XII. CLIODNA'S WAVE / CHAPTER
+    XIII. HIS CALL TO CONNLA / CHAPTER XIV. TADG IN MANANNAN'S ISLANDS; lines 4888-4897
+  start: '4888'
+  end: '4897'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A party is led by birds to Fresen while asleep throughout the voyage. They
+    defeat foreigners, and Tadg kills Cathmann the king. Liban, Tadg's wife, comes
+    gladly to meet him. After resting, Tadg, Liban, his two brothers, and many treasures
+    go by sea and return safely to Ireland.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Birds lead the voyaging group to the country of Fresen.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The voyaging group is in deep sleep through the whole voyage.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The group attacks the foreigners and defeats them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tadg kills Cathmann, identified as the king, after a hard fight.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Liban is identified as Tadg's wife and comes to meet her husband and sweetheart
+    with gladness.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After resting, Tadg, Liban, Tadg's two brothers, and many treasures go by
+    sea and arrive home in Ireland safely.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tadg
+  description: Tadg kills Cathmann after a hard fight and later returns safely to
+    Ireland with Liban, his two brothers, and treasures.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Liban
+  description: Liban is Tadg's wife; she comes to meet her husband and sweetheart
+    and is glad to see him, then returns with him by sea.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Cathmann
+  description: Cathmann is identified as the king and is killed by Tadg after a hard
+    fight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the foreigners
+  description: The foreigners are attacked and defeated by the voyaging group.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Tadg's two brothers
+  description: Tadg's two brothers are named among those returning safely to Ireland
+    by sea.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: the birds
+  description: The birds lead the group to the country of Fresen.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: guides
+  assigned_to:
+  - fig:6
+  basis: The passage says the travellers came to Fresen by the leading of the birds.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victorious combatant
+  assigned_to:
+  - fig:1
+  basis: Tadg kills Cathmann the king after a hard fight.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: defeated opposing king
+  assigned_to:
+  - fig:3
+  basis: Cathmann is called the king and is killed by Tadg.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: wife who meets her husband and sweetheart
+  assigned_to:
+  - fig:2
+  basis: Liban is called Tadg's wife and comes gladly to meet him.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: returning companions
+  assigned_to:
+  - fig:5
+  basis: The two brothers are included among those who come home to Ireland safely.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: defeated opponents
+  assigned_to:
+  - fig:4
+  basis: The foreigners are attacked and overcome.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: guiding birds
+  literal_form: birds leading the travellers to Fresen
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sleeping voyage
+  literal_form: deep sleep through the whole voyage
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sea route
+  literal_form: the sea faced again for the return journey
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: treasures
+  literal_form: a great many other treasures brought along on the return
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bird-led voyage to Fresen
+  summary: The travellers are led by birds to the country of Fresen and remain in
+    deep sleep for the whole voyage.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Battle against the foreigners
+  summary: The travellers attack the foreigners and defeat them; Tadg kills Cathmann
+    the king after a hard fight.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Liban meets Tadg
+  summary: Liban, described as Tadg's wife, comes gladly to meet her husband and sweetheart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Return to Ireland
+  summary: After resting, Tadg, Liban, Tadg's two brothers, and many treasures go
+    by sea and come home safely to Ireland.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: bird-guided voyage with enchanted sleep
+  taxonomy_refs: []
+  basis: The travellers reach Fresen by the leading of birds and are asleep throughout
+    the voyage.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not identify the birds' nature or explain the sleep beyond
+    the literal voyage description.
+- id: motif:2
+  label: victory over a foreign king
+  taxonomy_refs: []
+  basis: The travellers defeat the foreigners, and Tadg kills Cathmann the king after
+    a hard fight.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The broader cause of the conflict is not stated within this excerpt.
+- id: motif:3
+  label: reunion of wife and husband-beloved
+  taxonomy_refs: []
+  basis: Liban comes to meet Tadg, who is described as her husband and sweetheart,
+    and she is glad to see him.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not state within this excerpt that Liban had been abducted
+    or lost.
+- id: motif:4
+  label: safe return home by sea with treasures
+  taxonomy_refs:
+  - return
+  basis: After resting, Tadg, Liban, his two brothers, and many treasures go by sea
+    and come home safely to Ireland.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: Only the return and the presence of treasures are explicit; the origin
+    and significance of the treasures are not explained in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4888-4889
+  quote_or_summary: '"by the leading of the birds they came to the country of Fresen"
+    and were in deep sleep through the whole voyage.'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: 4890-4892
+  quote_or_summary: They attacked and defeated the foreigners; Tadg killed Cathmann,
+    the king, after a hard fight.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 4892-4894
+  quote_or_summary: Liban, Tadg's wife, came to meet "her husband and her sweetheart"
+    and was glad to see him.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: 4895-4897
+  quote_or_summary: Tadg, Liban, his two brothers, and many treasures faced the sea
+    again and came home to Ireland safely.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited to patterns
+    directly visible in the passage. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Uses only the supplied passage and metadata; no external context added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-gods-and-fighting-men-gregory-gutenberg__l4888-l4897
+  passage_sha256=775aed37c9af82198e1e287dd65330ee48aaa1925a2f565ac950ebd684d71a7b
+

@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l6774-l6811
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: WOMAN-POSITION,    ETC.  113 / U4   IN  THE  SHADOW  OF  THE  BUSH / I   2
+    / CHAPTER   XI; lines 6774-6811
+  start: '6774'
+  end: '6811'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports Ekoi birth beliefs: little children are said to have
+    reincarnated into families, to require gentle and harmonious treatment, and to
+    leave the earth if the household is quarrelsome. It also describes a family celebrating
+    newly born twin sons with singing, tomtoms, and okan-kan so that the newborns
+    will feel welcomed and not go back whence they came.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The chapter introduces Ekoi birth customs and reports beliefs about the advent
+    and death of babes.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A stated superstition forbids quarrelling in a house where there are little
+    children.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Little children are said to love sweet words, kind looks, and gentle voices.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If such treatment is absent, the children are said to close their eyes, forsake
+    the earth, and wait for a chance to return to less quarrelsome surroundings.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In a hill town, singing accompanied by tomtoms and okan-kan is heard from
+    a nearby compound.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The head woman of the compound says twin sons have just been born to her.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The head woman says that if the family stops singing and playing to show joy,
+    the newborns will think themselves unwelcome and go back whence they came.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ekoi
+  description: The people whose birth beliefs and customs are being reported in the
+    passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: little children / babes
+  description: Children who are said to have reincarnated into a family and who may
+    forsake the earth if the household is quarrelsome.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: family or household with children
+  description: The household is expected not to quarrel and, in the birth celebration,
+    to continue singing and playing to show joy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: head woman of the compound
+  description: The woman who sends word that twin sons have just been born to her
+    and explains why the rejoicing should continue.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: twin sons / new-borns
+  description: Twin sons newly born to the head woman; they are said to be at risk
+    of feeling unwelcome if the music stops.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: bearers of reported birth beliefs
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the birth customs and beliefs to the Ekoi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: children capable of leaving and returning
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Children are described as reincarnated and able to forsake the earth or go
+    back whence they came.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: welcoming or harmony-providing household
+  assigned_to:
+  - fig:3
+  basis: The household is told not to quarrel around children and to keep singing
+    and playing for newborns.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: mother and household speaker
+  assigned_to:
+  - fig:4
+  basis: The head woman reports the birth of her twin sons and gives the reason for
+    the celebration.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: twin newborns
+  assigned_to:
+  - fig:5
+  basis: The passage identifies the newborns as twin sons.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: gentle household speech
+  literal_form: sweet words, kind looks, and gentle voices
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: welcoming music for newborns
+  literal_form: singing accompanied by tomtoms and okan-kan; singing and playing to
+    show joy
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: twin pair
+  literal_form: twin sons
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Children leave a quarrelsome household
+  summary: The passage states a belief that quarrelling should not occur in a house
+    with little children because they love gentle treatment and may forsake the earth
+    if the household is not harmonious.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Music welcomes newly born twin sons
+  summary: In a hill town, singing with tomtoms and okan-kan comes from a compound.
+    The head woman explains that twin sons have been born and that the family must
+    continue singing and playing so the newborns do not think themselves unwelcome
+    and go back whence they came.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Reincarnating children who may leave and later return
+  taxonomy_refs:
+  - death_rebirth
+  - return
+  basis: Children are described as having reincarnated into a family and as able to
+    forsake the earth until a chance comes to return elsewhere.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify where the children come from or go to; the
+    term reincarnated is the English wording of the ethnographer.
+- id: motif:2
+  label: Household harmony required for the child to remain
+  taxonomy_refs:
+  - sacred_birth
+  basis: A superstition forbids quarrelling in houses with little children because
+    children may leave if gentle words and treatment are absent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage frames this as a birth-related belief rather than a formal
+    ritual.
+- id: motif:3
+  label: Newborn welcomed through music to prevent departure
+  taxonomy_refs:
+  - sacred_birth
+  basis: The family sings and plays instruments to show joy so that the newborns will
+    not think themselves unwelcome and go back whence they came.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The exact ritual structure and duration are not given in this passage.
+- id: motif:4
+  label: Twin birth marked by special rejoicing
+  taxonomy_refs:
+  - sacred_twins
+  basis: The head woman states that twin sons have just been born and that the family
+    is singing and playing to show joy at their birth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage identifies twins and rejoicing, but the excerpt ends before
+    any fuller account of twin customs.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents the Ekoi newborn-welcoming practice as an equivalent
+    to the 'Song of the Mothers' welcoming the newborn in Maeterlinck's The Blue Bird,
+    suggesting a similar function of welcoming newly born children.
+  claim_level: same_function
+  target: M. Maeterlinck's The Blue Bird, 'Song of the Mothers' welcoming the new-born
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an authorial literary analogy within the passage; it does not
+    establish historical contact, common inheritance, or a shared mythic tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6774-6782
+  quote_or_summary: The passage opens Chapter XI, 'Birth Customs,' and says Ekoi beliefs
+    about causes of being and about the advent and death of babes persist especially
+    in the interior.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6783-6790
+  quote_or_summary: A superstition 'forbids all quarrelling in a house where there
+    are little children'; the children are said to love 'sweet words, kind looks,
+    and gentle voices.'
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short quoted evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6790-6794
+  quote_or_summary: If gentle household conditions are not found in the family into
+    which children have reincarnated, they are said to close their eyes, forsake the
+    earth, and wait to return in less quarrelsome surroundings.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6795-6807
+  quote_or_summary: The narrator introduces the example as an Ekoi equivalent to Maeterlinck's
+    'Song of the Mothers' welcoming the newborn, then describes hearing singing with
+    tomtoms and okan-kan from a nearby compound in a hill town.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized evidence with brief title reference
+    from passage.
+- id: ev:5
+  type: summary
+  locator: lines 6808-6811
+  quote_or_summary: A deputation from the head woman explains that twin sons have
+    just been born to her; if the family stops singing and playing to show joy, the
+    newborns will think themselves unwelcome and go back whence they came.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied English ethnographic passage. Motif
+    candidates are strongly supported where the passage explicitly states the beliefs;
+    the comparison claim is limited to the authorial analogy made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy references are limited to supplied motif families; no supplied symbol taxonomy item directly matches the passage objects or sounds.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l6774-l6811
+  passage_sha256=68b6be59f9556b5a7e81ea2f70b72dc93ba685b22a8c228055394ca889943640
+

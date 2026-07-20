@@ -1,0 +1,474 @@
+---
+record_id: batch.motif.caucasian-folk-tales-dirr-menzies-archive-l11167-l11238
+source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+passage_locator:
+  label: ABKHASIAN VARIANT 255 / ABKHASIAN VARIANT 257 / OSSETIAN VARIANT 259 / MINGRELIAN
+    VARIANT 263; lines 11167-11238
+  start: '11167'
+  end: '11238'
+  translation: Caucasian Folk-Tales
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a forest with enormous trees, a group of brothers are trapped in a giant
+    stone animal-building by a one-eyed giant. The giant roasts and eats sheep and
+    then the brothers one by one. The two remaining brothers heat the giant's roasting-spit,
+    blind his single eye, disguise themselves in sheep skins to pass through the guarded
+    doorway, take animals to their ship, evade the enraged giant at sea, and eventually
+    return home.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is a wood with extremely high trees and rushes, and an enormous
+    undressed-stone building divided into animal sections.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A one-eyed giant locks the brothers inside the building and later returns
+    with his herd.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The giant lights a fire with whole tree trunks and roasts a living sheep on
+    a spit before eating it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The giant roasts and eats the brothers one after another until only the narrator
+    and his youngest brother remain.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The two surviving brothers heat the roasting-spit until it is red-hot and
+    thrust it into the giant's one eye.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The blinded giant guards the exit by feeling the animals as they pass between
+    his legs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The brothers skin two sheep, cover themselves with the skins, and creep past
+    the giant through the doorway.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After escaping, the brothers go to their ship, take some of the giant's animals
+    aboard, cut the anchor rope, and sail away.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: From beyond the giant's reach, the brothers call out their names; the giant
+    strikes toward them so violently that the sea foams and the vessel nearly sinks.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: narrating brother
+  description: One of the two brothers who survive the giant's cannibalism and escape
+    by ship.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: youngest brother
+  description: The narrator's youngest brother, the other survivor who helps blind
+    the giant and escape.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: one-eyed giant
+  description: A giant with one eye who owns the animal building and herd, imprisons
+    the brothers, eats several of them, is blinded, and pursues the escapees.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: other brothers
+  description: The brothers eaten by the one-eyed giant before only the narrator and
+    youngest brother remain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: giant's herd animals
+  description: Goats, sheep, lambs, and kids housed in divisions of the stone building;
+    some are killed, used for disguise, or taken aboard the ship.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: captive victim
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: The brothers are locked inside the giant's building; several are roasted
+    and eaten.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: cannibal captor
+  assigned_to:
+  - fig:3
+  basis: The one-eyed giant imprisons the brothers and eats them one by one.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: escape trickster
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The two surviving brothers blind the giant and use sheep skins to get past
+    his guarded doorway.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: blinded pursuer
+  assigned_to:
+  - fig:3
+  basis: After being blinded, the giant searches for the brothers, guards the exit,
+    and later strikes toward their departing ship.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: returning survivor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The surviving brothers escape by ship and arrive home at last.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire used for roasting and for heating the spit red-hot
+  associated_figures:
+  - fig:3
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: roasting-spit
+  literal_form: spit used by the giant for roasting and by the brothers as a heated
+    weapon
+  associated_figures:
+  - fig:3
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: single eye
+  literal_form: the one eye of the giant, blinded by the red-hot spit
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sheep skins
+  literal_form: skins of two sheep worn as coverings to pass the giant's touch-test
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: ship
+  literal_form: ship lying at the same spot, used by the brothers to flee
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: sea
+  literal_form: the sea that foams under the giant's blows while the ship escapes
+  associated_figures:
+  - fig:3
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: trees
+  literal_form: very high trees and tree trunks used as fuel
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Imprisonment in the giant's animal building
+  summary: The brothers are locked in an enormous stone building divided for the giant's
+    herd animals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cannibal roasting
+  summary: The giant lights a large fire, roasts sheep, and then roasts and eats the
+    brothers one by one.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Blinding of the one-eyed giant
+  summary: The two remaining brothers heat the spit in the fire and thrust it into
+    the sleeping giant's single eye.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Escape through the guarded doorway
+  summary: The blinded giant feels the animals as they pass through the doorway, but
+    the brothers cover themselves with sheep skins and creep out undetected.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Flight by ship and giant's failed pursuit
+  summary: The brothers reach their ship, take selected animals, sail away, reveal
+    their names from beyond reach, and survive the giant's violent blows against the
+    sea before returning home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: One-eyed giant captivity and escape
+  taxonomy_refs: []
+  basis: A one-eyed giant imprisons brothers, eats several captives, is blinded by
+    survivors, and is evaded through a trick at the doorway.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No external tale-type number is supplied in the passage; label is descriptive.
+- id: motif:2
+  label: Blinding monster with heated implement
+  taxonomy_refs: []
+  basis: The surviving brothers heat the giant's roasting-spit until red-hot and thrust
+    it into his one eye.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The taxonomy list supplied does not include a specific monster-blinding
+    motif.
+- id: motif:3
+  label: Animal-skin disguise to cross a guarded boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The brothers skin two sheep, wear the skins, and pass through the doorway
+    while the blinded giant checks the animals by touch.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage shows disguise and boundary-crossing trickery, but the broader
+    taxonomy label is interpretive.
+- id: motif:4
+  label: Theft of captor's animals during escape
+  taxonomy_refs: []
+  basis: After escaping, the brothers select the finest animals from the one-eyed
+    giant's herd and take them onto their ship.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not mark the theft as sacred or ritual, so no sacred-theft
+    taxonomy reference is assigned.
+- id: motif:5
+  label: Return home after perilous monster encounter
+  taxonomy_refs:
+  - return
+  basis: The survivors flee by ship, endure the giant's final attack, and arrive home
+    at last.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Return is present as an outcome, but the passage excerpt does not give
+    the full journey frame.
+comparison_claims:
+- id: claim:1
+  claim: The passage is explicitly situated by an embedded heading within a 'POLYPHEMUS
+    SAGAS' grouping and displays the same descriptive pattern of a one-eyed giant,
+    captivity, blinding, animal-associated escape, and ship-flight.
+  claim_level: same_motif
+  target: Polyphemus sagas as an editorial motif family named in the supplied passage
+  evidence_refs:
+  - ev:7
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This claim relies on the passage heading and internal pattern only;
+    it does not infer historical contact, source dependence, or relation to any specific
+    external version.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11167-11238, opening setting and enclosure
+  quote_or_summary: The passage describes a wood with very high trees and rushes,
+    then an enormous undressed-stone building divided for goats, sheep, lambs, and
+    kids; the one-eyed giant locks the brothers in.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 11167-11238, first evening in the building
+  quote_or_summary: The giant lights a fire with whole tree trunks, puts a living
+    sheep on a roasting-spit, roasts it, and eats the whole sheep.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 11167-11238, cannibal sequence
+  quote_or_summary: The giant roasts and eats the fattest brother, then the other
+    brothers on following days, until only the narrator and his youngest brother remain.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 11167-11238, blinding episode
+  quote_or_summary: '"Then we thrust the red-hot spit into his one eye."'
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 11167-11238, guarded doorway escape
+  quote_or_summary: The blinded giant stands at the door and feels the animals as
+    they pass; the brothers skin two sheep, cover themselves with the skins, and creep
+    through between his legs.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 11167-11238, ship flight and return
+  quote_or_summary: The brothers reach their ship, take selected animals aboard, cut
+    the anchor rope, call out their names once out of reach, survive the giant's blows
+    that foam the sea and nearly sink the vessel, and finally arrive home.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: quote
+  locator: lines 11167-11238, embedded page heading
+  quote_or_summary: '"POLYPHEMUS SAGAS"'
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal episode extraction is strong because the passage is explicit. Motif-family
+    assignments are cautious where the supplied taxonomy lacks exact one-eyed-giant
+    or animal-skin-escape labels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no tale-type numbers or external Polyphemus parallels were added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:caucasian-folk-tales-dirr-menzies-archive__l11167-l11238
+  passage_sha256=ab217e1b55d3303ca0ed88cc5662a2e34b1aad59ba1b7252820144bc1b3fcb6a
+

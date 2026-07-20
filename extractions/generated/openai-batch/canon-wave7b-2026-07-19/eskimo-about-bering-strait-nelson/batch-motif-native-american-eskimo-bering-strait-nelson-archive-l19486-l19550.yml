@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l19486-l19550
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: MORTUARY    CUSTOMS / THE    ESKIMO    ABOUT    BERING    STRAIT / MORTUARY    CUSTOMS
+    / THE    ESKIMO    ABOUT    BERING    STRAIT; lines 19486-19550
+  start: '19486'
+  end: '19550'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes burial boxes and graveyards at several Bering Strait
+    villages. It notes a boy's body in a box with paddling implements nearby and a
+    work prohibition on his father, describes elevated grave boxes with posts, ornaments,
+    red paint, bone pegs, hunting figures, utensils placed with the dead, invitation
+    effigies for a feast to the dead, raised display boards with animal-skin figures,
+    and similar boxes at a nearby village.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A kaiak paddle and a pair of umiak oars were placed against the box containing
+    the body of a boy.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy was identified as the son of an old man in the village, and the father
+    was said to be prohibited from doing work for three moons after the son's death.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Posts with cross boards were erected at each end of the burial boxes and bore
+    ornaments or valuables belonging to the deceased.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The grave boxes were supported above the ground by corner posts that extended
+    above the tops of the boxes.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At Bazbinsky, the graveyard was immediately behind the kashim in the winter
+    village.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Bazbinsky grave boxes were roughly ranged in rows forming an irregular
+    square.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Bazbinsky boxes were made of hewn planks, raised on posts, painted red,
+    and ornamented with rows of bone pegs.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Some boxes bore black figures of a man shooting with bow and arrow at a deer
+    or bear.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: At Bazbinsky, most utensils of the deceased were placed in the boxes with
+    the bodies.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Old reindeer horns and posts bearing invitation effigies for the feast to
+    the dead were visible near the boxes.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Some boxes had raised hewn boards bearing figures of animal skins and other
+    objects on their fronts.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: At Starikwikhpak there were two grave boxes described as almost exactly like
+    those at Bazbinsky.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: One Starikwikhpak grave box had a large black figure of a man shooting with
+    bow and arrow at a reindeer.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: deceased boy
+  description: A boy whose body was contained in a burial box.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: old man, father of the boy
+  description: The father of the deceased boy; he was said to be prohibited from doing
+    any work for three moons after his son's death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: deceased persons at Bazbinsky
+  description: The deceased whose bodies and utensils were placed in the Bazbinsky
+    grave boxes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: painted hunter figure
+  description: A black figure on grave boxes representing a man shooting with bow
+    and arrow at a deer, bear, or reindeer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: deceased
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes bodies placed in burial boxes and possessions associated
+    with the deceased.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: bereaved parent under work prohibition
+  assigned_to:
+  - fig:2
+  basis: The father of the deceased boy was said to be prohibited from work for three
+    moons after the death.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: depicted hunter
+  assigned_to:
+  - fig:4
+  basis: The figure is represented as a man shooting with bow and arrow at animals.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: grave box
+  literal_form: Elevated wooden burial box containing a body and, in some cases, utensils
+    of the deceased.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: paddle and umiak oars
+  literal_form: A kaiak paddle and a pair of umiak oars placed against a boy's burial
+    box.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cross-board display of valuables
+  literal_form: A cross board fastened to a post and bearing ornaments or valuables
+    belonging to the deceased.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: red paint and bone pegs
+  literal_form: Red-painted boxes and posts ornamented with rows of bone pegs.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: hunting image
+  literal_form: Black painted figure of a man shooting with bow and arrow at deer,
+    bear, or reindeer.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:6
+  label: utensils of the deceased
+  literal_form: Utensils placed in grave boxes with the bodies.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: invitation effigies for feast to the dead
+  literal_form: Posts bearing invitation effigies for a feast to the dead.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: reindeer horns
+  literal_form: Old reindeer horns seen about the grave boxes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Boy's burial box and mourning restriction
+  summary: A boy's body is in a burial box, with paddling equipment placed against
+    it, and his father is said to be under a three-moon work prohibition after the
+    death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Elevated grave boxes with displayed possessions
+  summary: Burial boxes are elevated on posts, and cross boards at their ends bear
+    ornaments or valuables of the deceased.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bazbinsky graveyard arrangement and construction
+  summary: The Bazbinsky graveyard is immediately behind the kashim, with roughly
+    rowed grave boxes forming an irregular square; the boxes are red-painted and ornamented
+    with bone pegs.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Painted hunting figures on grave boxes
+  summary: Some grave boxes at Bazbinsky and one at Starikwikhpak bear black figures
+    of a man shooting animals with bow and arrow.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: scene:5
+  label: Objects associated with Bazbinsky grave boxes
+  summary: Utensils are placed with bodies in the boxes, while reindeer horns, posts
+    with invitation effigies for a feast to the dead, and raised boards with animal-skin
+    figures appear near some boxes.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Starikwikhpak grave boxes
+  summary: Two grave boxes at Starikwikhpak are described as almost exactly like those
+    at Bazbinsky, with one bearing a black hunting image.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: burial with personal implements and utensils
+  taxonomy_refs: []
+  basis: The passage notes paddling implements placed against a boy's burial box and
+    states that most utensils of the deceased were placed in boxes with bodies at
+    Bazbinsky.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The passage records the placement of objects but does not explicitly state
+    their ritual meaning.
+- id: motif:2
+  label: elevated grave box with displayed valuables
+  taxonomy_refs: []
+  basis: The burial boxes are raised above ground, with posts and cross boards bearing
+    ornaments or valuables of the deceased.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a documented mortuary pattern in the passage, not an interpreted
+    mythic motif.
+- id: motif:3
+  label: mourning work prohibition
+  taxonomy_refs: []
+  basis: The father of the deceased boy was said to be prohibited from doing any work
+    for three moons after the boy's death.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Only one example is given in this passage.
+- id: motif:4
+  label: feast to the dead with invitation effigies
+  taxonomy_refs: []
+  basis: The passage mentions posts bearing invitation effigies for a feast to the
+    dead near Bazbinsky grave boxes.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage names the objects and feast but does not describe the feast
+    procedure or the effigies' form in detail.
+- id: motif:5
+  label: hunting scene painted on burial container
+  taxonomy_refs: []
+  basis: Grave boxes bear black figures of a man shooting with bow and arrow at deer,
+    bear, or reindeer.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage does not state whether the hunting image represents the deceased,
+    a desired activity, or another meaning.
+comparison_claims:
+- id: claim:1
+  claim: The Starikwikhpak grave boxes are presented as closely similar in form to
+    the Bazbinsky grave boxes.
+  claim_level: visual_similarity
+  target: grave boxes at Bazbinsky and Starikwikhpak
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the passage's statement that the boxes
+    were almost exactly like those just described and to one shared hunting-image
+    feature.
+- id: claim:2
+  claim: The Bazbinsky boxes share a general plan of bone-peg ornamentation while
+    varying in number and arrangement of pegs.
+  claim_level: visual_similarity
+  target: bone-peg ornamentation on Bazbinsky grave boxes
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not compare this pattern beyond the described boxes
+    at the site.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 19486-19491
+  quote_or_summary: A kaiak paddle and umiak oars were placed against the box containing
+    a boy's body; the boy's father was said to be prohibited from work for three moons
+    after the death.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: 19492-19498
+  quote_or_summary: Posts with cross boards at the ends of boxes bore ornaments or
+    valuables of the deceased, and the boxes were raised above ground by corner posts
+    extending above their tops.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 19500-19509
+  quote_or_summary: At Bazbinsky the graveyard was immediately behind the kashim in
+    the winter village; about thirty grave boxes were roughly arranged in rows forming
+    an irregular square.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 19510-19529
+  quote_or_summary: Bazbinsky grave boxes were made of hewn planks, raised on posts
+    and tree-root supports, painted red, and decorated with rows of bone pegs; the
+    posts were also ornamented.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 19531-19536
+  quote_or_summary: Some boxes bore black figures of a man shooting with bow and arrow
+    at a deer or bear; the bone-peg number and arrangement varied, but the general
+    plan was the same.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 19537-19545
+  quote_or_summary: At Bazbinsky, most utensils of the deceased were placed in boxes
+    with bodies; old reindeer horns, posts bearing invitation effigies for a feast
+    to the dead, and raised boards with animal-skin and object figures were seen near
+    some boxes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 19546-19550
+  quote_or_summary: At Starikwikhpak were two grave boxes almost exactly like those
+    just described; one had a large black figure of a man shooting with bow and arrow
+    at a reindeer.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and supports extraction of mortuary objects, settings,
+    and visual patterns. Motif labels are kept literal because the passage does not
+    explain symbolic meanings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was applied because the passage documents mortuary practices but does not explicitly describe an afterlife journey, resurrection, sacrifice, or other listed motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l19486-l19550
+  passage_sha256=50a53bec422336d7f4bb51cbc70a94cebe00336707bc93fb010233fe94734fd7
+

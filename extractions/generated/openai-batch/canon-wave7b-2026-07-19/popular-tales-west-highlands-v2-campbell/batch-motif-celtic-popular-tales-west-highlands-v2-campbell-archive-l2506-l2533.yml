@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l2506-l2533
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: XA FEINNE. / NA FEINNE. 91 / NA FEINNE. 93 / THE TWO SHEPHEEDS.; lines 2506-2533
+  start: '2506'
+  end: '2533'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Two shepherd-neighbors live on opposite sides of a river between Lochaber
+    and Badenach. The west-side shepherd visits the east-side shepherd in the evening,
+    stays late, and refuses the host's urging to remain overnight. The host's strong
+    son, accompanied by a herding dog, escorts the visitor across the river. On returning
+    with the dog, the son reaches the river and chooses to remove his foot-clothes
+    rather than use the stepping-stones.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two shepherds are described as neighbors between Lochaber and Badenach, with
+    one living on the east side of a river and the other on the west side.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shepherd from the west side visits the house of the shepherd on the east
+    side in the evening and stays until late.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The host urges the visitor to stay overnight because it is late.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The visitor refuses to stay and says that if he were over the river he would
+    not care more.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The houseman has a strong son who offers to go with the visitor and set him
+    over the river, while also saying that the visitor had better stay.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The son calls a herding dog, and the dog goes with him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The son sets the visitor on the other side of the river.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After being set across, the visitor tells the son to return and says he is
+    far in the son's debt.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The strong lad returns with the dog.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: At the river on the return journey, the son considers whether to use the stepping-stones
+    or remove his foot-clothes and cross below; he removes the foot-clothes because
+    he fears the stepping-stones.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: West-side shepherd / evening visitor
+  description: A shepherd living on the west side of the river who visits the east-side
+    shepherd and insists on going home late at night.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: East-side shepherd / houseman host
+  description: A shepherd living on the east side of the river whose house is visited;
+    he urges the visitor to stay overnight.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Strong son of the houseman
+  description: The houseman's strong son, who offers to accompany the visitor, sets
+    him over the river, and then returns.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Herding dog
+  description: A dog owned or used by the son for herding; it accompanies the son
+    when he goes with the visitor and returns with him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Neighboring shepherd
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies the two shepherds as neighbors living on opposite
+    sides of a river.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Late-night visitor
+  assigned_to:
+  - fig:1
+  basis: The west-side shepherd comes to the east-side shepherd's house for an evening
+    visit and later wishes to go home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Host urging overnight stay
+  assigned_to:
+  - fig:2
+  basis: The east-side houseman tells the visitor to stay that night because it is
+    late.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: River-crossing escort
+  assigned_to:
+  - fig:3
+  basis: The strong son offers to go with the visitor and set him over the river,
+    then does so.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: Animal companion
+  assigned_to:
+  - fig:4
+  basis: The dog is called by the son and goes with him on the river-crossing errand.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: River boundary
+  literal_form: River separating the two shepherds' homes, with one on the east side
+    and one on the west.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Stepping-stones
+  literal_form: Stepping-stones considered as one possible way for the son to cross
+    the river on his return.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Foot-clothes removed for crossing
+  literal_form: Foot-clothes that the son removes before crossing below rather than
+    using the stepping-stones.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Neighboring shepherds divided by a river
+  summary: The passage sets two neighboring shepherds between Lochaber and Badenach,
+    living on opposite sides of a river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Late visit and refusal to stay
+  summary: The west-side shepherd visits the east-side shepherd's house, stays late,
+    is urged to stay overnight, but refuses and wants to cross the river home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Escort across the river with dog
+  summary: The houseman's strong son calls a herding dog, accompanies the visitor,
+    and sets him on the other side of the river.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Return crossing decision
+  summary: On the way back with the dog, the strong son reaches the river, weighs
+    stepping-stones against crossing below, and removes his foot-clothes because he
+    fears the stepping-stones.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Late-night departure despite advice to stay
+  taxonomy_refs:
+  - departure
+  basis: The visitor wishes to go home late at night and refuses repeated advice to
+    stay overnight.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link to departure is broad; the passage gives an ordinary
+    homeward departure rather than a full mythic quest departure.
+- id: motif:2
+  label: Water boundary crossing between neighboring households
+  taxonomy_refs: []
+  basis: The two shepherds live on opposite sides of a river, and the visitor's return
+    requires crossing that river.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage segment does not yet show supernatural consequences or a complete
+    tale outcome.
+- id: motif:3
+  label: Helper escorts traveler across a river
+  taxonomy_refs: []
+  basis: The strong son accompanies the visitor and sets him over the river after
+    the visitor refuses to remain overnight.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify the escort as supernatural or ritual; this
+    is a literal assistance scene.
+- id: motif:4
+  label: Animal companion accompanies night journey
+  taxonomy_refs: []
+  basis: The son calls a herding dog, and the dog accompanies him on the journey with
+    the visitor and on the return.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The dog is present as a companion, but no special action or symbolic function
+    is shown in this passage segment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2506-2511
+  quote_or_summary: Two shepherd-neighbors between Lochaber and Badenach live on opposite
+    sides of a river, one east and one west.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2511-2517
+  quote_or_summary: The west-side shepherd comes to the east-side shepherd's house
+    for an evening visit, stays late, and is urged to stay the night because it is
+    late.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2517-2522
+  quote_or_summary: The visitor refuses to stay and says he only wants to be over
+    the river; the houseman's strong son offers to go with him and set him over the
+    river.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2522-2524
+  quote_or_summary: The son calls a dog that he had herding, and the dog goes with
+    him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2524-2528
+  quote_or_summary: The son sets the man on the other side of the river; the man tells
+    him to return and acknowledges a debt; the strong lad returns with the dog.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2528-2533
+  quote_or_summary: At the river on his return, the son considers the stepping-stones
+    or crossing below after removing foot-clothes; he removes the foot-clothes out
+    of fear of the stepping-stones.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range, which ends mid-sentence
+    and contains OCR irregularities. No comparison claims are made because the passage
+    itself does not explicitly support a cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All observations and motifs are limited to the supplied passage segment; no subsequent events from the tale are inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l2506-l2533
+  passage_sha256=d17425d325ad6bfd89371127e66a44e8e636965f976c2740cb3c75799b1a0db8
+

@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l9523-l9541
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: ELEVENTH DIVISION OF THE TUAT 201 / TWELFTH DIVISION OF THE TUAT / FIRST
+    HOUR OF THE NIGHT 205 / BOOK OF THE UNDERWORLD; lines 9523-9541
+  start: '9523'
+  end: '9541'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the nocturnal form of a solar figure in the underworld
+    material: by night he is called Af, “Flesh,” and is treated as a dead god or dead
+    body with a ram head and solar disk. It contrasts his daytime travel in the Atet
+    boat with his nighttime journey along the river of the Tuat in the Sektet boat.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented under underworld and night-hour headings, including
+    “Book of the Underworld” and “The First Hour of the Night.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The figure is described as different from what he was in the daytime: not
+    the sun of day, but the sun of night.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The figure is described as a dead god and a dead body called Af, translated
+    in the passage as “Flesh.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dead body is represented with the head of a ram surmounted by a solar
+    disk.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the daytime the figure traveled in the Atet boat.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At night the figure journeys along the river of the Tuat in the Sektet boat.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Sektet boat is identified as the same boat in which he sailed over the
+    sky from noon to sunset.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Af, the sun of night
+  description: A nocturnal solar figure described as a dead god or dead body called
+    Af, “Flesh,” represented with a ram head and solar disk, and associated with boat
+    travel by day and night.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: sun of night
+  assigned_to:
+  - fig:1
+  basis: The passage contrasts the figure with the daytime sun and calls him the sun
+    of night.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: dead god or dead body
+  assigned_to:
+  - fig:1
+  basis: The passage calls the nocturnal figure a dead god and a dead body named Af,
+    “Flesh.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: boat traveler
+  assigned_to:
+  - fig:1
+  basis: The passage says he traveled by the Atet boat in the daytime and journeys
+    in the Sektet boat at night.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: ram head with solar disk
+  literal_form: The head of a ram surmounted by a solar disk.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Atet boat
+  literal_form: The boat in which the figure traveled during the daytime.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Sektet boat
+  literal_form: The boat in which the figure makes his nighttime journey along the
+    river of the Tuat.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: river of the Tuat
+  literal_form: A river in the Tuat along which the nighttime journey is made.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Nocturnal dead form of the solar figure
+  summary: Under the underworld and first-night-hour headings, the figure is described
+    as the sun of night, a dead god or dead body named Af, “Flesh,” with a ram head
+    and solar disk.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Boat travel by day and by night
+  summary: The passage contrasts the figure’s daytime travel in the Atet boat with
+    his nighttime journey along the river of the Tuat in the Sektet boat, which is
+    also linked to his sky voyage from noon to sunset.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Night journey through the Tuat
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage is set in underworld night-hour material and describes a journey
+    at night along the river of the Tuat.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The excerpt gives only a short segment of the journey and does not provide
+    the full map of the Tuat.
+- id: motif:2
+  label: Boat-borne divine passage
+  taxonomy_refs:
+  - ark_vessel
+  basis: 'The figure’s motion is explicitly associated with named boats: Atet by day
+    and Sektet by night.'
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy label is broad; the passage describes boats but does not
+    call either vessel an ark.
+- id: motif:3
+  label: Nocturnal dead form of a deity
+  taxonomy_refs: []
+  basis: The nighttime solar figure is described as a dead god and dead body called
+    Af, “Flesh.”
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt describes death or dead embodiment but does not describe resurrection
+    or return within the quoted range.
+- id: motif:4
+  label: Day and night dual form of the solar figure
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly contrasts the figure as sun of day with his nocturnal
+    state as sun of night, and also contrasts daytime and nighttime boats.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage provides contrast rather than an extended theological explanation
+    of duality.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9523-9532
+  quote_or_summary: The passage appears under “Book of the Underworld” and “The First
+    Hour of the Night” headings.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 9524-9528
+  quote_or_summary: 'The figure is described as different from his daytime state:
+    he is the sun of night, a dead god, and a dead body called Af, translated as “Flesh.”'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 9527-9528
+  quote_or_summary: Af is represented with a ram head surmounted by a solar disk.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 9528-9530
+  quote_or_summary: In the daytime he traveled in the Atet boat.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 9534-9541
+  quote_or_summary: At night he journeys along the river of the Tuat in the Sektet
+    boat, identified as the same boat in which he sailed over the sky from noon to
+    sunset.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and partly affected by OCR/transliteration artifacts,
+    but the main figures, vessels, and journey statements are clear. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata; no external identifications of the solar figure were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l9523-l9541
+  passage_sha256=f25adb174d7a18c28225f6795056a654ae877f2dfea64d80d2ec6efdb7b1639b
+

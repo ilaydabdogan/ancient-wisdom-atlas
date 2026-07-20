@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.celtic-mythology-british-islands-squire-gutenberg-l208-l224
+source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+passage_locator:
+  label: XV. THE DECLINE AND FALL OF THE GODS          227 / THE BRITISH GODS AND
+    THEIR STORIES / XVI. THE GODS OF THE BRITONS                   251 / XVII. THE
+    ADVENTURES OF THE GODS OF HADES       278; lines 208-224
+  start: '208'
+  end: '224'
+  translation: The Mythology of the British Islands
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: XVII. THE ADVENTURES OF THE GODS OF HADES       278
+  summary: The passage is a table-of-contents excerpt listing chapters XII-XVIII,
+    including titles on the Irish Iliad, Gaelic love-stories, Finn and the Fenians,
+    the decline and fall of the gods, British gods, gods of the Britons, adventures
+    of the gods of Hades, and the wooing of Branwen and beheading of Brân.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a table-of-contents sequence for chapters XII through XVIII
+    with page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:2
+  text: Chapter XII is titled “The Irish Iliad.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Chapter XIII is titled “Some Gaelic Love-Stories.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Chapter XIV is titled “Finn and the Fenians.”
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Chapter XV is titled “The Decline and Fall of the Gods.”
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A section heading names “The British Gods and Their Stories,” and chapter
+    XVI is titled “The Gods of the Britons.”
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Chapter XVII is titled “The Adventures of the Gods of Hades.”
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Chapter XVIII title contains “The Wooing of Branwen” and “the Beheading of
+    Brân.”
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Finn
+  description: A named figure in the chapter title “Finn and the Fenians.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Fenians
+  description: A named group in the chapter title “Finn and the Fenians.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Gods
+  description: A collective divine group named in chapter and section titles concerning
+    their decline, fall, and stories.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Gods of Hades
+  description: A collective divine group named in the title “The Adventures of the
+    Gods of Hades.”
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Branwen
+  description: A named figure in the title phrase “The Wooing of Branwen.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Brân
+  description: A named figure in the title phrase “the Beheading of Brân.”
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named chapter-title subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The figures or groups are named directly in chapter titles or section headings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: wooed figure
+  assigned_to:
+  - fig:5
+  basis: The title phrase is “The Wooing of Branwen.”
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: beheaded figure
+  assigned_to:
+  - fig:6
+  basis: The title phrase is “the Beheading of Brân.”
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: divine collective
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage uses the term “gods” in these headings.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: Hades-associated divine group
+  assigned_to:
+  - fig:4
+  basis: The group is named as “the Gods of Hades.”
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Hades place-name
+  literal_form: Hades
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: table-of-contents chapter sequence
+  summary: The excerpt lists chapter headings and page numbers for chapters XII-XVIII.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+- id: scene:2
+  label: title-level Branwen and Brân episode
+  summary: A chapter title links the wooing of Branwen with the beheading of Brân,
+    without giving narrative details.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:3
+  label: title-level Hades adventures
+  summary: A chapter title names adventures of the gods of Hades, without giving narrative
+    details.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: epic analogy in chapter title
+  taxonomy_refs: []
+  basis: The title “The Irish Iliad” explicitly frames an Irish chapter through the
+    name Iliad.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an editorial title only; the excerpt gives no narrative details
+    about the comparison.
+- id: motif:2
+  label: love-story and wooing title cluster
+  taxonomy_refs: []
+  basis: The contents list includes “Some Gaelic Love-Stories” and “The Wooing of
+    Branwen.”
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The passage gives only titles, so the kind of love or wooing motif cannot
+    be further specified.
+- id: motif:3
+  label: beheading of a named figure
+  taxonomy_refs: []
+  basis: The chapter title includes “the Beheading of Brân.”
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: No narrative details about the beheading are present in the excerpt.
+- id: motif:4
+  label: decline and fall of gods
+  taxonomy_refs: []
+  basis: The chapter title is “The Decline and Fall of the Gods.”
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The title does not specify whether the decline involves death, defeat,
+    transformation, or another process.
+- id: motif:5
+  label: underworld-associated divine adventures
+  taxonomy_refs: []
+  basis: The title “The Adventures of the Gods of Hades” associates divine figures
+    with Hades and adventures.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage does not describe an actual underworld journey, descent, or
+    afterlife map.
+comparison_claims:
+- id: claim:1
+  claim: The heading “The Irish Iliad” supports a cautious claim that the author or
+    table of contents makes an explicit editorial analogy between an Irish narrative
+    chapter and the Iliad.
+  claim_level: linguistic_similarity
+  target: Iliad / Greek epic tradition
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies only the title; it does not state the basis, scope,
+    or narrative substance of the analogy.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 208-224
+  quote_or_summary: "“XII. THE IRISH ILIAD”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 208-224
+  quote_or_summary: "“XIII. SOME GAELIC LOVE-STORIES”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 208-224
+  quote_or_summary: "“XIV. FINN AND THE FENIANS”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: quote
+  locator: lines 208-224
+  quote_or_summary: "“XV. THE DECLINE AND FALL OF THE GODS”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: quote
+  locator: lines 208-224
+  quote_or_summary: "“THE BRITISH GODS AND THEIR STORIES” / “XVI. THE GODS OF THE
+    BRITONS”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: quote
+  locator: lines 208-224
+  quote_or_summary: "“XVII. THE ADVENTURES OF THE GODS OF HADES”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:7
+  type: quote
+  locator: lines 208-224
+  quote_or_summary: "“XVIII. THE WOOING OF BRANWEN AND THE BEHEADING OF BRÂN”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:8
+  type: summary
+  locator: lines 208-224
+  quote_or_summary: The excerpt lists chapters XII-XVIII with titles and page numbers
+    in a table-of-contents format.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: Extraction of titles and named figures is straightforward, but motif identification
+    is limited because the passage is a table of contents rather than a narrative
+    passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative events beyond chapter-title wording are present; motifs are treated as title-level candidates only.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-mythology-british-islands-squire-gutenberg__l208-l224
+  passage_sha256=adf74c0328f7e8b9861511386f0d23239e438fab5fca314fdd3312e6fcedcc8c
+

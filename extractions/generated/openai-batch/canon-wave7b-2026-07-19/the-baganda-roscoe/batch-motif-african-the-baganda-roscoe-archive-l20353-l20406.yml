@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l20353-l20406
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CHAP. / XI  INDUSTRIES  401 / XI  INDUSTRIES  403 / D  D  2; lines 20353-20406
+  start: '20353'
+  end: '20406'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists named kinds of barkcloth trees by district, then describes
+    their easy propagation, growth conditions, use for barkcloth, and associated household
+    labor responsibilities. Men plant and cultivate the trees and make barkcloth;
+    wives feed husbands, while husbands provide clothing, garden access, and a hoe.
+    Barkcloth is used for clothing, bedding, and house-wall draping.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists named kinds of barkcloth trees associated with the Mawokota,
+    Busiro, Kyagwe, Bulemezi, Budu, and Singo districts.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Barkcloth trees are described as growing readily; a stick placed in moist
+    ground seldom failed to grow.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If left to grow, barkcloth trees could become very large, sometimes about
+    forty feet high, but they required shelter because shallow roots made them vulnerable
+    to wind.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fruit of the barkcloth tree was not used by people, though birds and some
+    kinds of bats fed on it.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The tree was propagated by planting six-foot branches a few inches deep into
+    the ground around plantain-groves.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The trees were grown after two years and ready to yield the first bark in
+    the third year.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Planting and cultivating the barkcloth tree and making barkcloth are described
+    as men's work.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The wife fed her husband; the husband clothed his wife and supplied her with
+    a hoe for gardening.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Barkcloths were used for wearing, as bed-clothes, and for draping house walls.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Tree trunks ready for use were described as eight or ten feet high to the
+    fork and six inches in diameter; incisions were made around the trunk and lengthwise.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: men or husbands
+  description: Male household members who plant and cultivate barkcloth trees, make
+    barkcloth, and provide clothing, garden access, and a hoe.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: women or wives
+  description: Female household members described as receiving clothing and gardening
+    tools from husbands and feeding husbands.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: birds and some kinds of bats
+  description: Nonhuman animals that feed on barkcloth-tree fruit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: cultivator and barkcloth maker
+  assigned_to:
+  - fig:1
+  basis: The passage states that planting and cultivating the barkcloth tree and making
+    barkcloth were men's work.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: household provider of clothing and gardening implements
+  assigned_to:
+  - fig:1
+  basis: The husband is described as clothing his wife and supplying her with a hoe
+    for gardening.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: food provider within household relation
+  assigned_to:
+  - fig:2
+  basis: The wife is described as feeding her husband.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: fruit consumers
+  assigned_to:
+  - fig:3
+  basis: Birds and some kinds of bats are described as feeding on the fruit, unlike
+    people.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: barkcloth tree
+  literal_form: cultivated tree whose bark is harvested for cloth
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: barkcloth
+  literal_form: cloth made from bark, used for clothing, bedding, and wall draping
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: hoe
+  literal_form: gardening tool supplied by the husband to the wife
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: plantain-groves
+  literal_form: cultivated grove area around which barkcloth branches are planted
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Regional list of barkcloth-tree kinds
+  summary: Named kinds of barkcloth trees are grouped by districts including Mawokota,
+    Busiro, Kyagwe, Bulemezi, Budu, and Singo.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cultivation and propagation of the barkcloth tree
+  summary: The tree grows readily from sticks or branches placed in moist soil, is
+    planted around plantain-groves, and is ready for first bark in the third year.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Household division of provisioning
+  summary: Men are responsible for cultivating barkcloth trees and making barkcloth;
+    wives feed husbands, while husbands provide wives with clothing and a hoe for
+    gardening.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Barkcloth uses and trunk preparation
+  summary: Barkcloth is used for clothing, bedding, and wall draping, and the ready
+    tree trunk is cut with circular and lengthwise incisions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Vegetative propagation from a planted branch
+  taxonomy_refs: []
+  basis: The passage describes barkcloth trees growing from sticks or six-foot branches
+    planted shallowly in moist ground.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is presented as practical cultivation, not as a mythic or sacred
+    event.
+- id: motif:2
+  label: Tree transformed into clothing and domestic covering
+  taxonomy_refs: []
+  basis: The barkcloth tree yields bark used to make cloth for wearing, bedding, and
+    draping house walls.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not state any ritual or sacred meaning for the tree or
+    cloth.
+- id: motif:3
+  label: Reciprocal household provisioning between spouses
+  taxonomy_refs: []
+  basis: The passage states that the wife fed her husband and the husband clothed
+    his wife and supplied her gardening hoe.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic social pattern; the passage does not support labeling
+    it as sacred exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20353-20406
+  quote_or_summary: The passage gives regional lists of named barkcloth-tree kinds
+    for Mawokota, Busiro, Kyagwe, Bulemezi, Budu, and Singo.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 20353-20406
+  quote_or_summary: Barkcloth trees grow readily from sticks in moist ground, can
+    reach great size, need shelter because of shallow roots, and have fruit eaten
+    by birds and some bats rather than people.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 20353-20406
+  quote_or_summary: Propagation is by six-foot branches planted a few inches deep
+    around plantain-groves; trees are grown in two years and yield first bark in the
+    third year.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 20353-20406
+  quote_or_summary: Planting, cultivating, and making barkcloth are described as men's
+    work; wives feed husbands, while husbands clothe wives and provide hoes for gardening.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 20353-20406
+  quote_or_summary: Barkcloth is used for clothing, bed-clothes, and draping walls;
+    ready trunks have specified dimensions and are cut with circular and lengthwise
+    incisions.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is straightforward ethnographic description. Motif candidates
+    are treated as practical cultural patterns, not explicit mythic motifs. No comparison
+    claims are made because the supplied passage contains no comparative statement.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No sacred, mythic, or intertextual comparison is explicit in this excerpt; taxonomy use is limited to the literal tree symbol.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l20353-l20406
+  passage_sha256=b0537375966c4b737b37b2ba338694a63389f34a8582f154ac9b196d23cb5892
+

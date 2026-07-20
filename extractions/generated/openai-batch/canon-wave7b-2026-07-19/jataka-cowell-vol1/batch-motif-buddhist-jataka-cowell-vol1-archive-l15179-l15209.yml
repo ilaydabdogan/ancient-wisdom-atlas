@@ -1,0 +1,212 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol1-archive-l15179-l15209
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+passage_locator:
+  label: BAHIYA-JATAKA. / KUNDAKAPUVA-JATAKA. / SABBASAMHARAKA-PANHA, / GADRABHA-PANHA.;
+    lines 15179-15209
+  start: '15179'
+  end: '15209'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Thou think''st thyself a swan."'
+  summary: The passage gives brief notices for the All-embracing Question, the Question
+    as to the Ass, and the Question of Queen Amara, saying that fuller treatments
+    occur in the Ummagga-jataka. A footnote identifies Amara as wife of King Mahosadha
+    and states that the Bodhisatta was Mahosadha.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The All-embracing Question is introduced by the statement that there is no
+    All-embracing and is said to be set out at length in the Ummagga-jataka.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Question as to the Ass is introduced by the statement, “Thou think'st
+    thyself a swan,” and is also said to be set out at length in the Ummagga-jataka.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Amaradevi Question is introduced with a short OCR-corrupt phrase and is
+    said to be found in the same Jataka.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note identifies Amara as the wife of King Mahosadha.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A note states that the Bodhisatta was Mahosadha.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage does not give the expanded narratives of the questions; it only
+    gives brief notices and closing formulas.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Queen Amara
+  description: Named in the title of the Amaradevi Question and identified in a note
+    as wife of King Mahosadha.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: King Mahosadha / Bodhisatta
+  description: A note identifies Amara as wife of King Mahosadha and states that the
+    Bodhisatta was Mahosadha.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: queen
+  assigned_to:
+  - fig:1
+  basis: The entry refers to the “Question of Queen Amara.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: wife of Mahosadha
+  assigned_to:
+  - fig:1
+  basis: The note says Amara was the wife of King Mahosadha.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: king
+  assigned_to:
+  - fig:2
+  basis: The note calls Mahosadha a king.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Bodhisatta identification
+  assigned_to:
+  - fig:2
+  basis: The note states that the Bodhisatta was Mahosadha.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ass
+  literal_form: ass
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: swan
+  literal_form: swan
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Abridged notices of deferred questions
+  summary: Three brief entries identify questions and state that their fuller forms
+    are found or will be set out in the Ummagga-jataka; the passage adds a note connecting
+    Amara, Mahosadha, and the Bodhisatta.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom questions deferred to another tale
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly labels items as Questions and directs the reader to
+    the Ummagga-jataka for fuller treatment; the note connects the material with Mahosadha/Bodhisatta.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage contains only headings, opening phrases, cross-references,
+    and notes; it does not preserve the full riddles, answers, or narrative settings.
+- id: motif:2
+  label: animal self-comparison as mistaken status
+  taxonomy_refs: []
+  basis: The Ass Question opens with the line “Thou think'st thyself a swan,” pairing
+    an ass with a swan in a statement of self-comparison.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The broader story and moral are absent here, so the motif is only a tentative
+    reading of the title and opening line.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15179-15182
+  quote_or_summary: 'The All-embracing Question: “There is no All-embracing”; it will
+    be set out at length in the Ummagga-jataka.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: quote
+  locator: 15186-15191
+  quote_or_summary: 'The Question as to the Ass: “Thou think''st thyself a swan”;
+    it will also be set out at length in the Ummagga-jataka.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 15193-15200
+  quote_or_summary: The Amaradevi Question is introduced by a short OCR-corrupt phrase
+    and is said to be found in the same Jataka; the entry ends as the Question of
+    Queen Amara.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:4
+  type: summary
+  locator: 15202-15205
+  quote_or_summary: A note says Amara was wife of King Mahosadha and that the Bodhisatta
+    was Mahosadha.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The literal extraction is limited by the passage’s fragmentary, cross-referential
+    nature and OCR corruption in one phrase. Motif candidates are tentative because
+    the full narratives are not included. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external details about the Ummagga-jataka were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol1-archive__l15179-l15209
+  passage_sha256=d650be6663709a2ff0c3a99b14d9723cca6ebccca991dc3c3ea69ff297b471ba
+

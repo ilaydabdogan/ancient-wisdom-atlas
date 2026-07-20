@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l23790-l23800
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: CHAPTER XVII / METHODS OF OBTAINING WIVES / CHAPTER XVI H / MYTHS RELATING
+    TO SUN, MOON, ECLIPSES, ETC.; lines 23790-23800
+  start: '23790'
+  end: '23800'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“a blackfellow of the opossum totem carried the moon about with him in a
+    shield”"
+  summary: A myth from the Alcheringa tells of an opossum-totem man who carried the
+    moon in a shield, hid it by day in rocks, and left it on the ground while climbing
+    a tree to hunt. A Unchirka seed-totem man saw the light, took the shield with
+    the moon in it, and fled while the opossum man pursued him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: In the Alcheringa, a man of the opossum totem carried the moon in a shield
+    while going out to hunt opossums for food.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During the day he kept the moon hidden in a cleft in the rocks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One night a man of the Unchirka seed totem came by chance to a place where
+    he saw light shining on the ground.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The light was the moon lying in the opossum man's shield, which had been placed
+    on the ground while he climbed a tree looking for an opossum in the branches.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Unchirka man picked up the shield with the moon in it and ran away.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The opossum man came down from the tree and ran after the thief; the supplied
+    passage ends mid-sentence.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: opossum-totem man
+  description: A blackfellow of the opossum totem who carries the moon in a shield,
+    hides it in rocks, hunts opossums, and pursues the thief.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Unchirka seed-totem man
+  description: A blackfellow of the Unchirka, a seed totem, who sees the light, takes
+    the shield with the moon in it, and runs away.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: moon carrier and keeper
+  assigned_to:
+  - fig:1
+  basis: He carries the moon in a shield and hides it by day.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: hunter and pursuer
+  assigned_to:
+  - fig:1
+  basis: He hunts opossums, climbs a tree in search of one, and then runs after the
+    thief.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:3
+  label: chance discoverer
+  assigned_to:
+  - fig:2
+  basis: He comes by chance to a place where light is shining on the ground.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: thief of shield and moon
+  assigned_to:
+  - fig:2
+  basis: He picks up the shield with the moon in it and runs away.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: moon
+  literal_form: The moon carried in a shield and shining as light on the ground.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: shield
+  literal_form: A shield used to carry and hold the moon.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: cleft in the rocks
+  literal_form: A cleft in rocks where the moon is hidden during the day.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: tree
+  literal_form: A tree climbed by the opossum man while searching for an opossum in
+    the branches.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: light on the ground
+  literal_form: Light shining on the ground, later identified as the moon in the shield.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Moon carried and hidden
+  summary: In the Alcheringa, the opossum-totem man carries the moon in a shield while
+    hunting and hides it by day in a cleft in the rocks.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Chance discovery of the moon-light
+  summary: At night the Unchirka man sees light on the ground; it is the moon in the
+    shield, left there while the opossum man climbs a tree after an opossum.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Theft and pursuit
+  summary: The Unchirka man takes the shield with the moon in it and runs away; the
+    opossum man descends and pursues him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: theft of the moon
+  taxonomy_refs:
+  - sacred_theft
+  basis: The Unchirka man takes the shield containing the moon and runs away, and
+    the opossum man pursues him as a thief.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage explicitly presents a theft of the moon, but it does not itself
+    call the act sacred; the taxonomy link is therefore cautious.
+- id: motif:2
+  label: celestial body kept in a container
+  taxonomy_refs: []
+  basis: The moon is carried in a shield, hidden in rocks, and later lies in the shield
+    on the ground.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: Identified only at the literal pattern level from the supplied passage.
+- id: motif:3
+  label: hidden light discovered by chance
+  taxonomy_refs: []
+  basis: The Unchirka man comes by chance to a place where light shines on the ground,
+    which proves to be the moon in the shield.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No broader comparative claim is made.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23790-23792
+  quote_or_summary: "“in the Alcheringa a blackfellow of the opossum totem carried
+    the moon about with him in a shield” while hunting opossums."
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 23792-23793
+  quote_or_summary: "“All day long he kept it hidden in a cleft in the rocks.”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 23793-23795
+  quote_or_summary: A Unchirka seed-totem man comes by chance and sees light shining
+    on the ground.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 23795-23798
+  quote_or_summary: The light is the moon lying in the man's shield, placed on the
+    ground while he climbs a tree searching for an opossum in the branches.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 23798-23799
+  quote_or_summary: The Unchirka man picks up the shield with the moon in it and runs
+    away.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: line 23800
+  quote_or_summary: The opossum man comes down from the tree and runs after the thief;
+    the supplied excerpt ends mid-sentence.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the passage ends mid-sentence.
+    Motif labels are limited to patterns directly visible in the supplied lines. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Broader myth context from surrounding lines was not used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l23790-l23800
+  passage_sha256=151badc2167d15ecb125ded8f2b56e2321170fe8467e8b5f563a27a0af3d65ca
+

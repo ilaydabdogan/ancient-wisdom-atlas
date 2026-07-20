@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.celtic-more-celtic-fairy-tales-jacobs-gutenberg-l6746-l6778
+source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: XXXI. THE BLACK HORSE. / XXXII. THE VISION OF MACCONGLINNEY. / XXXIII. DREAM
+    OF OWEN O'MULREADY. / XXXIV. MORRAHA.; lines 6746-6778
+  start: '6746'
+  end: '6778'
+  translation: More Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial source, parallel, and remark notes for “Morraha” and “The Story
+    of the McAndrew Family,” including tale-collection attributions, variant parallels,
+    a sword-promise incident, Noodle Tale comparisons, and an Irish superstition about
+    ravens hovering over cattle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies “Morraha” as the second story in W. Larminie’s West
+    Irish Folk-tales, pp. 10-30.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The framework of “Morraha” is said to have been collected from P. McGrale
+    of Achill Island, and the story itself from Terence Davis of Rendyle, Co. Galway.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note says there is confusion in the introductory portion between Niall’s
+    mother and wife.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The parallels note links “Morraha” with Campbell’s No. 1, a similar tale collected
+    by Kennedy, and a West Munster version in the Gaelic Journal.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The evasion of the promise to give up the sword at the end is described as
+    a favourite incident in Achill folk-tales and as occurring in two other Larminie
+    stories.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The note author states that he has suggested the framework comes from the
+    East, ultimately from Buddha.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: "“The Story of the McAndrew Family” is said to have been supplied by Mrs.
+    Gale from the recitation of her mother, who left Ireland more than fifty years
+    earlier."
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The parallels note groups “The Story of the McAndrew Family” with European
+    “Noodle Tales,” compares its final “sell” with the “Wise Men of Gotham,” and cites
+    similar adventures in Kennedy’s Fireside Stories of Ireland.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The remarks report an Irish superstition that a raven hovering over cattle
+    signified a withering blight, with carrion birds imagined as waiting for carcasses.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Niall’s mother
+  description: A kin figure mentioned in the note as confused with Niall’s wife in
+    the introductory portion of “Morraha.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Niall’s wife
+  description: A kin figure mentioned in the note as confused with Niall’s mother
+    in the introductory portion of “Morraha.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Raven
+  description: A raven hovering over the head of cattle in the superstition reported
+    in the remarks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Cattle
+  description: Animals over whose heads a hovering raven was believed to indicate
+    a withering blight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: confused kin figures in introductory note
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that the introductory portion confuses Niall’s mother
+    and wife.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ominous carrion bird
+  assigned_to:
+  - fig:3
+  basis: The remarks describe a raven hovering over cattle as a sign of blight, and
+    carrion birds as waiting for carcasses.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: animals marked by alleged blight
+  assigned_to:
+  - fig:4
+  basis: The remarks state that cattle under a hovering raven were believed to have
+    a withering blight set upon them.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Sword to be given up
+  literal_form: A sword involved in a promise to give it up at the end of the tale.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Hovering raven
+  literal_form: A raven hovering over the head of cattle.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Blighted cattle
+  literal_form: Cattle believed to be under a withering blight, with carrion birds
+    waiting for carcasses.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: "“Morraha” source and parallel note"
+  summary: The note identifies source attributions for “Morraha,” reports confusion
+    between Niall’s mother and wife, lists close or similar tale parallels, mentions
+    an ending involving evasion of a promise to give up a sword, and records a suggested
+    Eastern/Buddhist origin for the framework.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: "“The Story of the McAndrew Family” source and parallel note"
+  summary: The note gives the story’s supplied oral source and compares the tale with
+    European Noodle Tales, the Wise Men of Gotham, and Kennedy’s Fireside Stories
+    of Ireland.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Raven over cattle superstition
+  summary: The remarks describe an Irish belief that a raven hovering above cattle
+    signified a withering blight, because carrion birds were thought to be waiting
+    for the animals’ carcasses.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Evasion of a promise to surrender a sword
+  taxonomy_refs: []
+  basis: The passage identifies the evasion of the promise to give up the sword at
+    the end as a favourite incident in Achill folk-tales.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The actual story episode is not narrated in this passage; only the editorial
+    note is present.
+- id: motif:2
+  label: Noodle-tale comic adventure pattern
+  taxonomy_refs: []
+  basis: The passage explicitly states that tales like “The Story of the McAndrew
+    Family” are “Noodle Tales” found throughout Europe.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The specific comic adventures are not described in this excerpt.
+- id: motif:3
+  label: Terminal “sell” or comic trick ending
+  taxonomy_refs: []
+  basis: The passage states that the “sell” at the end of “The Story of the McAndrew
+    Family” is similar to that in the “Wise Men of Gotham.”
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The term “sell” and the ending are not explained within the passage.
+- id: motif:4
+  label: Raven hovering over cattle as omen of blight or death
+  taxonomy_refs: []
+  basis: The remarks describe a common Irish superstition in which a raven hovering
+    over cattle indicates a withering blight and anticipates carcasses.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is presented as a superstition remark, not as a narrated episode
+    of the tale.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that Campbell’s No. 1 has a very close parallel to the
+    opening of “Morraha.”
+  claim_level: same_motif
+  target: Campbell’s No. 1, compared with the opening of “Morraha”
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No details of Campbell’s No. 1 or of the opening episode are included
+    in the passage.
+- id: claim:2
+  claim: The passage reports a similar Kennedy tale and another West Munster version
+    for “Morraha.”
+  claim_level: same_motif
+  target: Kennedy tale and West Munster version in the Gaelic Journal
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names parallels but does not summarize their contents.
+- id: claim:3
+  claim: The sword-promise evasion incident is presented as recurring in Achill folk-tales,
+    including two other Larminie stories.
+  claim_level: same_motif
+  target: Achill folk-tales and two other stories in Larminie’s collection
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the recurrence of the incident is stated; the actual variants
+    are not given.
+- id: claim:4
+  claim: The note author says he has suggested that the “Morraha” framework comes
+    from the East, ultimately from Buddha.
+  claim_level: historical_contact
+  target: Eastern or Buddhist tale-framework source proposed via the note on “Conal
+    Yellow claw”
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The claim is explicitly presented as a suggestion and depends on another
+    note not included in this passage.
+- id: claim:5
+  claim: The passage groups “The Story of the McAndrew Family” with European “Noodle
+    Tales.”
+  claim_level: same_motif
+  target: European Noodle Tales
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives a genre comparison but does not describe the tale’s
+    plot.
+- id: claim:6
+  claim: The final “sell” in “The Story of the McAndrew Family” is said to be similar
+    to that in the “Wise Men of Gotham.”
+  claim_level: same_function
+  target: The “Wise Men of Gotham” ending
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not specify the content or mechanics of either ending.
+- id: claim:7
+  claim: Kennedy’s Fireside Stories of Ireland is said to provide a similar set of
+    adventures to “The Story of the McAndrew Family.”
+  claim_level: same_motif
+  target: Kennedy, Fireside Stories of Ireland, p. 119 seq.
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited adventures are not summarized in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6746-6752; “XXXIV. MORRAHA.” Sources paragraph
+  quote_or_summary: "“Morraha” is sourced to Larminie’s West Irish Folk-tales; the
+    framework is attributed to P. McGrale of Achill Island and the story to Terence
+    Davis of Rendyle; the note mentions confusion between Niall’s mother and wife."
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6754-6761; “XXXIV. MORRAHA.” Parallels paragraph
+  quote_or_summary: The note cites Campbell’s No. 1, Kennedy, a West Munster version
+    in the Gaelic Journal, a recurring Achill incident involving evasion of a promise
+    to give up a sword, and a suggested Eastern/Buddhist origin for the framework.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6763-6766; “XXXV. THE STORY OF THE McANDREW FAMILY.” Sources paragraph
+  quote_or_summary: The McAndrew Family story was supplied by Mrs. Gale from the recitation
+    of her mother, who left Ireland over fifty years earlier.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6768-6772; “XXXV. THE STORY OF THE McANDREW FAMILY.” Parallels paragraph
+  quote_or_summary: The note compares the story to European “Noodle Tales,” Clouston’s
+    Book of Noodles, the “Wise Men of Gotham,” and a similar set of adventures in
+    Kennedy’s Fireside Stories of Ireland.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6774-6778; “XXXV. THE STORY OF THE McANDREW FAMILY.” Remarks paragraph
+  quote_or_summary: The remarks state that, in a common Irish superstition, a raven
+    hovering over cattle meant a withering blight had been set on the animals, and
+    carrion birds were thought to be waiting for carcasses.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly editorial source and parallels material rather than
+    a full tale narrative. Motif candidates are therefore based on reported incidents,
+    genre comparisons, and a superstition remark rather than directly narrated episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs were applied; none of the passage’s explicit symbols match the supplied symbol taxonomy. No motif-family taxonomy refs were assigned because the passage does not directly support them.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-more-celtic-fairy-tales-jacobs-gutenberg__l6746-l6778
+  passage_sha256=08cc7b0a56e0b7cf8aa0eec8f0191b8bae8d516fa480e8eedb4aa2241854a0b5
+

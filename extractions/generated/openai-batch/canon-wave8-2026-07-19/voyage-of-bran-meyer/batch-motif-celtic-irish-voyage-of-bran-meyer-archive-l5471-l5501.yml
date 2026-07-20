@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l5471-l5501
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: CHAPTER III / ISO OISIN / CHAPTER IV / I70 THE ISLE OF IMITATION; lines 5471-5501
+  start: '5471'
+  end: '5501'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a scholarly comparison of Bran, Connla, the Sick Bed of
+    Cuchulinn, and Maelduin. It argues that Bran and Connla remain tied to specific
+    Gaelic-romance persons and conditions, while Maelduin-type imrama move into an
+    indefinite high-seas and nameless-region mode, described as an artificial literary
+    genre and as a bypath rather than the main road of Gaelic mythic literary development.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage frames its discussion as a test of whether a conception appears
+    in Maelduin at a later stage of development than in Bran or Connla.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bran, Connla, and the Sick Bed of Cuchulinn are described as concerned with
+    persons and conditions found in Gaelic romance under a special aspect.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Maelduin is described as launched, as it were, on the high seas and as wandering
+    into a nameless, dateless, undetermined region.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The region associated with Maelduin is said to have only a few indefinite
+    points of contact with the rest of Gaelic legend.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage attributes this indefiniteness to an artificial literary genre
+    rather than to undifferentiated folklore material.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Maelduin-type imrama are described as a bypath, not the main road, in
+    the development of Gaelic mythic literature.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Works continuing the tradition of Bran and Connla are said to remain in a
+    world of mythic fantasy in which the imrama have little part.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bran
+  description: Named with Connla as part of a Gaelic-romance tradition connected with
+    a world of mythic fantasy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Connla
+  description: Named with Bran as part of a Gaelic-romance tradition connected with
+    a world of mythic fantasy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Maelduin
+  description: Named as the central contrast to Bran and Connla; described as launched
+    on the high seas and wandering into an undefined region, and as the type for imrama.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: exemplar of Bran-Connla Gaelic mythic-fantasy tradition
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says that following the main road of Gaelic mythic literature
+    leads to works continuing the tradition of Bran and Connla and remaining in mythic
+    fantasy.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: high-seas wanderer into an undefined region
+  assigned_to:
+  - fig:3
+  basis: Maelduin is described as launched on the high seas and wandering into a nameless,
+    dateless, undetermined region.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: type-example of imrama bypath
+  assigned_to:
+  - fig:3
+  basis: The imrama of which Maelduin is the type are described as a bypath rather
+    than the main road in Gaelic mythic literature.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: high seas
+  literal_form: high seas
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: nameless undetermined region
+  literal_form: nameless, dateless, undetermined region
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Maelduin wandering into an undefined sea-region
+  summary: Maelduin is characterized as launched on the high seas and wandering into
+    a nameless, dateless, undetermined region with limited connection to Gaelic legend.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Critical contrast between imrama and Bran-Connla tradition
+  summary: The passage contrasts Maelduin-type imrama as an artificial literary bypath
+    with the Bran and Connla tradition as part of the main world of Gaelic mythic
+    fantasy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sea-wandering into an undefined mythic region
+  taxonomy_refs:
+  - mystical_quest
+  basis: Maelduin is described as launched on the high seas and wandering into a nameless,
+    dateless, undetermined region.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is scholarly commentary rather than a direct narrative scene;
+    it does not specify a quest goal or an afterlife destination.
+- id: motif:2
+  label: Departure from an inherited mythic mould
+  taxonomy_refs:
+  - departure
+  basis: The passage says the artificial literary genre discarded the mould into which
+    the imagination of the race had previously been cast in order to gain freedom
+    and capacity.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is a meta-literary pattern, not a literal mythic departure episode.
+- id: motif:3
+  label: Main tradition versus bypath tradition
+  taxonomy_refs: []
+  basis: The passage states that Maelduin-type imrama are on a bypath, while works
+    continuing Bran and Connla remain in the main world of Gaelic mythic fantasy.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a scholarly classification pattern rather than a traditional narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Maelduin-type imrama with the Bran-Connla Gaelic romance
+    tradition, presenting them as related objects of discussion within Gaelic mythic
+    literature but emphasizing that Maelduin moves into a more indefinite high-seas
+    region.
+  claim_level: same_function
+  target: Bran and Connla tradition compared with Maelduin-type imrama
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  counter_evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  limitations: The claim concerns scholarly comparison of literary classes, not proof
+    that the same narrative motif occurs in all named texts.
+- id: claim:2
+  claim: The passage suggests that Maelduin-type imrama stand in relation to an earlier
+    Gaelic imaginative mould while also departing from it as an artificial literary
+    genre.
+  claim_level: common_inheritance
+  target: Earlier Gaelic mythic-romance mould
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: low
+  limitations: The passage offers a broad literary-historical characterization and
+    does not provide detailed transmission evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5471-5477
+  quote_or_summary: The author asks whether the conception appears in Maelduin at
+    a later stage than in Bran or Connla and introduces a main difference between
+    two classes of tales.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5478-5486
+  quote_or_summary: Bran, Connla, and the Sick Bed of Cuchulinn are said to concern
+    Gaelic-romance persons and conditions; Maelduin is described as launched on the
+    high seas and wandering into a nameless, dateless, undetermined region with few
+    indefinite contacts with Gaelic legend.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5487-5496
+  quote_or_summary: The indefiniteness is explained as that of an artificial literary
+    genre that discarded the earlier mould of racial imagination to gain freedom and
+    capacity; the author of Maelduin and related storytellers are said to have succeeded
+    in bringing such imaginings into wider literature.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5497-5501
+  quote_or_summary: In Gaelic mythic literary development, the Maelduin-type imrama
+    are called a bypath, while the main road leads to works continuing Bran and Connla
+    in a world of mythic fantasy where the imrama have little part.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is interpretive literary criticism rather than a direct mythic
+    episode. Named traditions and meta-literary patterns are clear, but motif extraction
+    is necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or taxonomy IDs beyond the supplied available taxonomy were introduced.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l5471-l5501
+  passage_sha256=d0c97e1274fc339a1202e4425f7b252d8985ca99f326b24ed29b80c3e46bfbcb
+

@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l4182-l4201
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: BUREAU    OF   AMERICAN    ETHNOLOGY / EIGHTEENTH   ANNUAL   REPORT     PL.   XX
+    / MEN'S    GLOVES / BELTS   AND   BELT   BUTTONS; lines 4182-4201
+  start: '4182'
+  end: '4201'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage catalogs several small carved cord fasteners or pierced carvings
+    from Sledge Island, Nunivak Island, Kushunuk, and Cape Nome, representing a white
+    bear, a walrus, a woman, a fish, and two polar bear heads.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A miniature carving from Sledge Island represents a white bear, is about one
+    inch long, and is pierced through the side for a cord.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fastener from Nunivak Island represents a walrus, is about two and a half
+    inches long, and is pierced vertically for a cord.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An unnumbered small carving from Kushunuk has on its front a grotesque figure
+    of a woman and is pierced on the back for a cord.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A small almond-shaped carving from Nunivak Island has a fish figure marked
+    on its upper surface, including a broad, deeply incised crescent-shaped mouth,
+    and is pierced vertically for a cord.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A fastener from Cape Nome is about one and a half inches long and represents
+    the heads of two polar bears.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: white bear
+  description: Animal represented by a miniature carving from Sledge Island.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: walrus
+  description: Animal represented by a fastener from Nunivak Island.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: grotesque woman figure
+  description: Human figure represented on the front of a small carving from Kushunuk.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: fish
+  description: Fish figure marked on the upper surface of a small Nunivak Island carving,
+    with a broad crescent-shaped mouth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: two polar bear heads
+  description: Paired animal heads represented by a fastener from Cape Nome.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: represented animal form
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: These figures are described as animal forms represented on or by carved fasteners
+    or carvings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: represented human form
+  assigned_to:
+  - fig:3
+  basis: The carving is described as showing a figure of a woman on its front.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: pierced carved cord fastener
+  literal_form: small carving or fastener pierced for passage of a cord
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: bear representation
+  literal_form: white bear carving and paired polar bear heads
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: walrus representation
+  literal_form: walrus-shaped fastener
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: woman representation
+  literal_form: grotesque figure of a woman on a small carving
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: fish representation
+  literal_form: fish figure with broad crescent-shaped mouth incised on a carving
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: animal-shaped or animal-marked cord fasteners
+  taxonomy_refs: []
+  basis: Several described objects are pierced for cords and represent animals or
+    animal heads, including a white bear, walrus, fish, and two polar bear heads.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is an artifact catalog rather than a mythic narrative; motif
+    status is limited to repeated visual/artifact patterning.
+- id: motif:2
+  label: human figure on cord-pierced carving
+  taxonomy_refs: []
+  basis: One small carving is pierced for a cord and bears a grotesque figure of a
+    woman on its front.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only one example is given in this passage, and no narrative or ritual
+    meaning is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4182-4184
+  quote_or_summary: 'Plate xxvii, 11: a miniature carving from Sledge Island representing
+    a white bear, one inch long, pierced through the side for a cord.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4186-4189
+  quote_or_summary: 'Plate xxvii, 8: a Nunivak Island fastener representing a walrus,
+    two and a half inches long, pierced vertically for a cord.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4191-4193
+  quote_or_summary: An unnumbered Kushunuk carving shows a grotesque figure of a woman
+    on the front and is pierced on the back for the cord.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4195-4200
+  quote_or_summary: 'Plate xxvii, 10: a small Nunivak Island almond-shaped carving
+    has a fish figure with a broad, deeply incised crescent-shaped mouth and is pierced
+    vertically for a cord.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4201-4201
+  quote_or_summary: 'Plate xxvii, 14: a Cape Nome fastener measures one and a half
+    inches and represents the heads of two polar bears.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Artifact descriptions are explicit, but motif candidates are limited because
+    the passage gives no mythic narrative, ritual interpretation, or cross-cultural
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l4182-l4201
+  passage_sha256=7127c281e231dc9d48df8bc1d253bb6a91d6d69f1aa92775a1bbb7afdec0a775
+

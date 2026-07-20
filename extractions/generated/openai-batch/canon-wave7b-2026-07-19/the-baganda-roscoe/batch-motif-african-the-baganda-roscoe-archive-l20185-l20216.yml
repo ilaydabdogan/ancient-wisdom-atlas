@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l20185-l20216
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CHAP. / XI  INDUSTRIES  399 / THE   BAGANDA / CHAP.; lines 20185-20216
+  start: '20185'
+  end: '20216'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: He rolled out a piece of clay into a long snake-like roll...
+  summary: 'The passage describes Baganda pottery manufacture: a potter uses a broken
+    pot on a pad as a rotating base, forms the pot from coils of clay, smooths and
+    shapes it with hands, a gourd-trowel, and a pointed stick, and begins to describe
+    decoration with plaited grass.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A piece of broken pot resting on a pad is used as a base or stand while the
+    potter fashions a new pot.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The base allows the potter to turn the pot freely while rounding its sides.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The potter rolls clay into a long snake-like roll several inches long and
+    about three-quarters of an inch thick.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The clay roll is coiled in the broken pot stand and smoothed with a gourd-trowel
+    to form the bottom of the new pot.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The potter builds the sides with further clay coils, smoothing the inside
+    with one hand while supporting the outside with the other.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A short pointed stick is used to remove traces of coil-joints from the outside
+    of the pot.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The potter enlarges the rounded part of the pot, narrows it after the bulge,
+    turns it to make it smooth, and pats it gently into shape.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The rim on the neck is formed by coiling a roll of clay around the top, smoothing
+    it inside, and shaping the lip with the pointed stick.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states that pottery decoration was done by rubbing short lengths
+    of plaited grass over the surface.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: potter
+  description: The craft worker who fashions, turns, coils, smooths, supports, shapes,
+    and decorates the pot.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: pottery craftsperson
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes the person as fashioning a pot and using
+    tools and clay coils in pottery production.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: broken pot base
+  literal_form: A piece of broken pot resting on a pad, used as a base or stand for
+    forming a new pot.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: snake-like clay roll
+  literal_form: A long roll of clay compared in shape to a snake, used to coil the
+    bottom and sides of a pot.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: gourd-trowel
+  literal_form: A gourd-trowel used to smooth coiled clay while forming the pot bottom.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: pointed stick
+  literal_form: A short pointed stick used to remove coil-joint traces and shape the
+    lip of the pot.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: plaited grass decoration tool
+  literal_form: Short lengths of grass plaited together and rubbed over pottery for
+    decoration.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: forming the pot bottom
+  summary: The potter uses a broken pot on a pad as a stand, rolls clay into a snake-like
+    length, coils it in the stand, and smooths it to form the bottom of a new pot.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: building and shaping the pot body
+  summary: The potter builds the sides with clay coils, smooths and supports the pot
+    by hand, removes joint marks with a pointed stick, turns and pats the vessel,
+    and shapes the rim and lip.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: decorating the pottery
+  summary: The passage begins to describe decoration by rubbing the pottery with short
+    lengths of plaited grass.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: coil-built clay vessel formation
+  taxonomy_refs: []
+  basis: The passage gives a sequential account of forming a pot from long coils of
+    clay, smoothing and shaping it with tools and hands.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic craft-production pattern, not a mythological motif
+    and not matched to the supplied motif-family taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20185-20190
+  quote_or_summary: A broken pot resting on a pad is used as a base while the potter
+    fashions a pot, enabling the pot to be turned freely as the sides are rounded.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 20190-20197
+  quote_or_summary: The potter rolls clay into a “long snake-like roll,” coils it
+    in the broken pot stand, and smooths it with a gourd-trowel to form the pot bottom.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short excerpt used from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 20197-20202
+  quote_or_summary: The sides are built up with clay coils; the potter smooths the
+    inside with one hand and supports the outside with the other.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 20202-20204
+  quote_or_summary: A short pointed stick is used to remove all traces of coil-joints
+    from the outside of the vessel.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 20204-20209
+  quote_or_summary: The potter enlarges the round part of the pot, narrows it after
+    the bulge, turns it to make it smooth, and pats it gently into shape.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 20209-20214
+  quote_or_summary: The rim on the neck is fashioned by coiling clay around the top,
+    smoothing it inside, and shaping the lip with the pointed stick.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 20214-20216
+  quote_or_summary: The passage states that pottery decoration was done by rubbing
+    over it short lengths of plaited grass.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The craft sequence and objects are clearly described. Motif classification
+    is limited because the passage is technical ethnography rather than myth narrative;
+    no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The word “snake-like” is treated as a literal shape comparison for a clay roll, not as evidence for a serpent motif or serpent-symbol taxonomy match.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l20185-l20216
+  passage_sha256=53832add2662138901d42d539d37dc898b45fabea577b3ab13801231e01aa2b2
+

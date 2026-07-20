@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1057-l1082
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 1057-1082
+  start: '1057'
+  end: '1082'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Dionysus says that an unnamed male figure is close by and sees what he
+    suffers. Pentheus cannot discern the figure. Dionysus says Pentheus's impurity
+    veils the figure from him. Pentheus insults Dionysus and orders him bound; soldiers
+    begin to bind him. Dionysus warns them not to bind him, saying that he has vision
+    while they are blind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dionysus says that an unnamed male figure is standing close by and sees all
+    that Dionysus suffers.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pentheus asks where the unnamed figure is and says that his eyes do not discern
+    him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dionysus answers that the figure is where Dionysus is, and says Pentheus's
+    own impurity veils the figure from him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pentheus calls Dionysus a dog, says Dionysus jeers at him and Thebes, and
+    orders him bound.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The soldiers begin to bind Dionysus.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Dionysus commands them not to bind him and contrasts his vision with their
+    blindness.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Named speaker who says an unseen figure is near, attributes Pentheus's
+    inability to see to impurity, and tells the soldiers not to bind him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Pentheus
+  description: Named speaker who cannot see the figure Dionysus describes and orders
+    Dionysus bound.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: soldiers
+  description: Stage-direction figures who begin to bind Dionysus after Pentheus's
+    command.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: unnamed male figure referred to as “he”
+  description: Figure Dionysus says stands close by and sees his suffering; Pentheus
+    says he cannot discern him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: speaker claiming vision
+  assigned_to:
+  - fig:1
+  basis: Dionysus says he has vision while others are blind.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: person being bound
+  assigned_to:
+  - fig:1
+  basis: Pentheus orders him bound, and the soldiers begin to bind him.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: unable observer
+  assigned_to:
+  - fig:2
+  basis: Pentheus says his eyes do not discern the figure Dionysus describes.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: commander of binding
+  assigned_to:
+  - fig:2
+  basis: Pentheus orders, “Bind him.”
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: agents of binding
+  assigned_to:
+  - fig:3
+  basis: The soldiers begin to bind Dionysus.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: unseen witness
+  assigned_to:
+  - fig:4
+  basis: Dionysus says the figure stands close and sees his suffering, while Pentheus
+    cannot see him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: veiling impurity
+  literal_form: Pentheus's own impurity is said to veil the unnamed figure from him.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: vision and blindness
+  literal_form: Pentheus cannot discern the figure; Dionysus says, “I having vision
+    and ye blind.”
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: binding
+  literal_form: The soldiers begin to bind Dionysus after Pentheus's order.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dispute over an unseen presence
+  summary: Dionysus says an unnamed male figure is close by and sees his suffering.
+    Pentheus cannot see the figure, and Dionysus attributes this failure to Pentheus's
+    impurity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Order to bind Dionysus
+  summary: Pentheus insults Dionysus and orders him bound. Soldiers begin to bind
+    Dionysus, who warns them not to bind him and contrasts his vision with their blindness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: obstructed perception of a present figure
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a figure said to be present and witnessing events, while
+    Pentheus cannot discern him; Dionysus explains the failure as a result of impurity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available passage does not identify the unnamed figure beyond the
+    pronoun “he,” and the taxonomy link to wisdom is broad.
+- id: motif:2
+  label: visionary figure threatened with binding
+  taxonomy_refs: []
+  basis: Dionysus claims vision, calls the others blind, and is being bound by soldiers
+    under Pentheus's order.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a local pattern in the passage; broader mythic framing is not
+    supplied within the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1057-1060
+  quote_or_summary: Dionysus says that “he” stands close and sees what Dionysus suffers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 1061-1064
+  quote_or_summary: Pentheus asks where the figure is and says that his eyes do not
+    discern him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 1065-1068
+  quote_or_summary: "“Where I am! 'Tis thine own impurity / That veils him from thee.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 1069-1074
+  quote_or_summary: Pentheus insults Dionysus, orders him bound, and the soldiers
+    begin to bind him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: 1075-1082
+  quote_or_summary: "“I charge ye, bind / Me not! I having vision and ye blind!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are local
+    and cautious because the excerpt is short and does not itself provide broader
+    comparative framing. No comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external context was used; figures and motifs are limited to what is supported by the supplied passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1057-l1082
+  passage_sha256=51095eb0e4f1c4381ca6e3c012f6b90430a6a46e7d5fb01593cddf2ecea11549
+

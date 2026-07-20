@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l13449-l13532
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: THE HUDSON HAY ESKIMO. / TURNEB.1 FOLK LORE. 263 / TCRWEE.1 RKLIGJON. 273
+    / OCCUPATIONS.; lines 13449-13532
+  start: '13449'
+  end: '13532'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes hunters tracking migrating deer, intercepting them
+    at water crossings with canoes, driving and spearing them, then processing carcasses
+    into skins, dried meat, fat, marrow, trade goods, food stores, and tanning materials.
+    It also describes a seasonal May deer crossing near Fort Chimo and the excitement
+    of the camp when the herds arrive.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hunting parties follow deer herds toward an assembling place, establish camps
+    near expected crossings, and prepare to intercept the deer at streams.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Deer enter the water, swim with the current in a compact body, and their antlers
+    are compared visually to tree branches floating with the current.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hunters use canoes, row quietly below and behind the herd, and drive the deer
+    toward the shore where the camp is located.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hunters spear deer in the water; wounded animals may reach shore, die in bushes,
+    or escape when the herd is large or becomes separated.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Carcasses are stripped of skins and fat, viscera are removed, and skins are
+    piled, dried, or reserved for tanning.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Meat is stripped from bones, dried over smoke and hot air from a fire, bundled,
+    and stored for later food.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: obs:7
+  text: Long bones are cracked to extract marrow, and fat and marrow are rendered
+    over fire; marrow is highly valued as food and trade material.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Female deer and young bucks migrate toward the Cape Chidley region; near Fort
+    Chimo in early May, the camp waits for the deer and reacts with excitement when
+    they are sighted.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: hunting parties / Indian hunters
+  description: People who track deer, prepare canoes, row, drive the herd, and spear
+    deer.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: deer herd
+  description: Deer traveling toward an assembling place, entering streams, swimming
+    in a compact group, and being pursued by hunters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: wounded deer
+  description: Animals struck by spears that attempt to regain land, die near shore
+    or in bushes, or sometimes escape if the band is large.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: women at the camp
+  description: Women who shout the direction of the game when the deer are sighted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: children at the camp
+  description: Children who run to higher places to watch the herds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: female deer and young bucks
+  description: Migrating deer described as traveling toward the Cape Chidley region
+    during a season of plenty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: pursuers and hunters
+  assigned_to:
+  - fig:1
+  basis: They follow the deer, establish camps, row canoes, drive the herd, and spear
+    animals.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: game animals / prey
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:6
+  basis: The deer are tracked, driven, speared, processed, and described as seasonal
+    game.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:9
+- id: role:3
+  label: carcass processors and resource preparers
+  assigned_to:
+  - fig:1
+  basis: The passage describes Indians stripping skins, drying meat, rendering fat
+    and marrow, and preparing materials for storage, trade, food, and tanning.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: direction callers
+  assigned_to:
+  - fig:4
+  basis: Women shout the direction of the game when the herd appears.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: watchers
+  assigned_to:
+  - fig:5
+  basis: Children run to higher eminences to watch the herds.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: water crossing
+  literal_form: streams, river bank, and water crossed by swimming deer
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: canoe
+  literal_form: canoes used by hunters to approach and drive swimming deer
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: spear
+  literal_form: spear used to thrust at deer in the water
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: fire for drying and rendering
+  literal_form: fire used to dry meat and render fat or marrow
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: tree-branch antler image
+  literal_form: deer antlers appearing at a distance like branches of a tree floating
+    with the current
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: marrow and fat
+  literal_form: marrow extracted from cracked bones and fat rendered in pots or kettles
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Tracking and locating the deer crossing
+  summary: Hunters follow deer herds, infer where they will gather, establish camps,
+    and watch hillsides and river banks for deer approaching the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Canoe drive and spear hunt
+  summary: Deer swim in a compact body; hunters quietly launch canoes, move behind
+    the herd, drive the animals toward shore, and spear them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Processing deer bodies for food, storage, trade, and tanning
+  summary: After the hunt, carcasses are skinned and butchered; meat is dried over
+    fire, fat and marrow are rendered, and materials are stored or used for food,
+    trade, and tanning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Seasonal arrival of deer near Fort Chimo
+  summary: In early May, people wait for migrating females and young bucks; when deer
+    are sighted, the camp becomes excited, with men getting guns, women calling directions,
+    and children watching from higher places.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: seasonal communal deer hunt at a water crossing
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links a recurring seasonal deer migration and crossing with collective
+    camp preparation, pursuit, and hunting activity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:9
+  confidence: medium
+  cautions: This is an ethnographic subsistence description, not a mythic narrative;
+    the seasonal-cycle taxonomy reference is limited to the literal seasonal pattern
+    in the passage.
+- id: motif:2
+  label: animal body transformed into stored food and useful materials
+  taxonomy_refs: []
+  basis: The passage describes deer bodies being converted into dried meat, skins,
+    rendered fat, marrow, trade goods, and tanning materials.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No sacred or ritual interpretation is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13449-13456
+  quote_or_summary: Hunting parties follow deer herds toward an assembling place,
+    establish camps, prepare canoes, and watch for deer approaching the river bank.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13457-13461
+  quote_or_summary: Deer enter the water and swim compactly with the current; their
+    antlers are visually compared to tree branches floating with the current.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13462-13471
+  quote_or_summary: Hunters crouch, launch a canoe silently, row below and behind
+    the herd, and drive the deer upstream and toward the camp shore.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13472-13485
+  quote_or_summary: Hunters thrust spears at deer; wounded animals struggle toward
+    land or die nearby, while some escape if the herd is large or separated.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13487-13492
+  quote_or_summary: Deer carcasses are stripped of skins and fat, viscera are removed,
+    and skins are piled or hung to dry with flesh side upward.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13494-13504
+  quote_or_summary: Meat is stripped from bones, dried by smoke and hot air over fire,
+    and described in terms of color, flavor, and portions.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13506-13519
+  quote_or_summary: Long bones are cracked for marrow; fat and marrow are rendered
+    over fire, valued for food and trade, and fat is also used in tanning.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 13520-13527
+  quote_or_summary: Dried flesh is bundled in packages, wrapped in tissue, stored,
+    inspected, and used as a food supply for weeks at a time.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 13528-13532
+  quote_or_summary: Female deer and young bucks move toward Cape Chidley; near Fort
+    Chimo in early May, people await the game, and the camp becomes excited when deer
+    are sighted.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a literal ethnographic description of hunting and processing
+    practices rather than a mythic or ritual narrative. Motif candidates are therefore
+    limited to observable recurring patterns, with no comparative claims added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact, inheritance, archetypal, or cross-tradition comparison is asserted by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l13449-l13532
+  passage_sha256=cffd7686e9641df19feba32c39f9ce7ffa2b57b6a838f510c1b95aef7c985e3e
+

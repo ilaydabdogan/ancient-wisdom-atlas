@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l16496-l16631
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: M F M-F F-F F MF, / M F M-F F-F F, / M-F-F M M-M-M, / M-F-F MF M,; lines
+    16496-16631
+  start: '16496'
+  end: '16631'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a transcription containing repeated M/F pitch or performance
+    notation, a cylinder marker, numbered sections IV-VI, and Akan-language lyric
+    lines with several named forms, question-marked lines, and repeated refrains.
+  language: Akan/Twi lyric lines with musical pitch notation; English editorial markers
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with repeated sequences made from the letters M and F, often
+    joined by hyphens.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The transcription includes the marker “(Cylinder No. 2)” and numbered sections
+    marked IV, V, and VI.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A lyric segment names “Esono,” “OcLomankoma ’Kyerema,” and “Osunna.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Section IV includes the name “Obofunu Ampasakyi,” followed by the question-marked
+    line “Wo wo he ?” and the phrase “Odomankoma 'Kyerema se.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Section V includes “Ofema dunsene,” “Gyaanadu Asare nsoa,” “Wo wo he ?,” and
+    “Odomankoma 'Kyerema se.”
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The line pair “Ye re kyere wo” and “Nso wo be hu” is repeated consecutively
+    in the lyric section.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The lines “Akoko bon anopa,” “Akoko tua bon,” and “Nhima hima hima” recur
+    in the lyric portions.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Esono
+  description: Named form appearing at the start of a lyric segment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: OcLomankoma ’Kyerema
+  description: Named form appearing after “Esono” in the lyric segment; the passage
+    writes this form with initial “OcLomankoma.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Osunna
+  description: Named form appearing after the “OcLomankoma ’Kyerema” line.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Obofunu Ampasakyi
+  description: Named form at the beginning of section IV, preceding “Wo wo he ?”
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Odomankoma 'Kyerema
+  description: Named form occurring in the repeated phrase “Odomankoma 'Kyerema se”
+    in sections IV and V.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Ofema dunsene
+  description: Named form at the start of section V, preceding “Gyaanadu Asare nsoa”
+    and “Wo wo he ?”
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Gyaanadu Asare nsoa
+  description: Named phrase following “Ofema dunsene” in section V and preceding “Wo
+    wo he ?”
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named lyric referent
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Each assigned form appears as a named or name-like item in the lyric lines.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: name linked with following “se” line
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The passage places “se” after “OcLomankoma ’Kyerema” and repeats “Odomankoma
+    'Kyerema se” in later sections.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: name preceding question-marked line
+  assigned_to:
+  - fig:4
+  - fig:6
+  - fig:7
+  basis: These names or name-like phrases occur immediately before the question-marked
+    line “Wo wo he ?”
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: M/F performance notation
+  literal_form: Repeated letter groups such as “M F,” “M-F-F,” “F-F,” “MF,” and “FF.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: recording cylinder marker
+  literal_form: "“(Cylinder No. 2)”"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: M/F notation and cylinder marker
+  summary: The passage presents repeated M/F notation, followed by an editorial marker
+    identifying Cylinder No. 2 and numbered sections.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lyric segment with Esono, OcLomankoma, and Osunna
+  summary: A lyric segment lists the named forms Esono, OcLomankoma ’Kyerema, and
+    Osunna, followed by repeated phrases and a refrain-like pair of lines.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Section IV named question sequence
+  summary: Section IV gives the name Obofunu Ampasakyi, a question-marked line, and
+    a phrase naming Odomankoma 'Kyerema, followed by recurring lyric lines.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Section V named question sequence
+  summary: Section V gives the names or name-like phrases Ofema dunsene and Gyaanadu
+    Asare nsoa, then a question-marked line and the repeated phrase naming Odomankoma
+    'Kyerema.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: refrain following named invocations
+  taxonomy_refs: []
+  basis: Named forms are followed by recurring lyric lines, including the repeated
+    pair “Ye re kyere wo” and “Nso wo be hu.”
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The passage is untranslated and largely musical or performance notation;
+    the mythic or ritual function of the refrain cannot be determined from this excerpt
+    alone.
+- id: motif:2
+  label: question addressed after named forms
+  taxonomy_refs: []
+  basis: The question-marked line “Wo wo he ?” appears after named forms in sections
+    IV and V.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: No translation is provided, so the semantic content and narrative role
+    of the question cannot be established here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 16496-16517
+  quote_or_summary: "“M F M-F F-F F, / M-F-F M M-M-M, / M-F-F MF M,”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 16518-16528
+  quote_or_summary: "“(Cylinder No. 2) / IV”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 16553-16563
+  quote_or_summary: "“Esono , OcLomankoma ’Kyerema / se, / Osunna, / Wa ma ne-ho mene
+    so,”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 16582-16596
+  quote_or_summary: "“Obofunu Ampasakyi, / Wo wo he ? / Odomankoma 'Kyerema se,”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 16608-16624
+  quote_or_summary: "“Ofema dunsene, / Gyaanadu Asare nsoa, / Wo wo he ? / Odomankoma
+    'Kyerema se,”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: 16570-16579
+  quote_or_summary: "“Ye re kyere wo, / Nso wo be hu, / Ye re kyere wo, / Nso wo be
+    hu.”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: 16564-16630
+  quote_or_summary: The lines “Akoko bon anopa,” “Akoko tua bon,” and “Nhima hima
+    hima” occur in the lyric portions and recur later.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the absence of a translation for the Akan
+    lyric lines and by apparent OCR variation between “OcLomankoma” and “Odomankoma.”
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available taxonomy symbols such as cave, fire, milk, mountain, serpent, tree, and water are not present in the supplied passage. Motif labels are descriptive performance-pattern candidates only, not taxonomy assignments.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l16496-l16631
+  passage_sha256=b80fb4013d12d041d12b5da069cbbc11647a7363bd9840d4c21c665644fe8c98
+

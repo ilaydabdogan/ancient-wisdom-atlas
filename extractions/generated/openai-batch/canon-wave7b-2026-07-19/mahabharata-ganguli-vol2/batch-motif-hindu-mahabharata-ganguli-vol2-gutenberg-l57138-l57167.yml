@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l57138-l57167
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION CLXXXI / SECTION CLXXXII / SECTION CLXXXIII / SECTION CLXXXIV; lines
+    57138-57167
+  start: '57138'
+  end: '57167'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the battle once more commenced on earth, for the destruction of the earth's
+    population
+  summary: The passage describes wounded Kshatriyas asleep on elephants on the battlefield,
+    a richly imaged moonrise in the east, the moon's rays dispelling darkness and
+    illuminating the world, nocturnal creatures reacting to the light, and the army
+    awakening so that battle resumes among men seeking heaven.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Wounded Kshatriyas, ornamented with ear-rings and described as youthful, are
+    asleep with limbs injured by shafts and lying on the coronal globes of elephants.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The moon rises in the direction presided over by Indra and is described through
+    several similes and attributes, including lord of lilies, a lion emerging from
+    the Udaya hills, and a hare-marked luminary.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The moon is depicted as issuing from an eastern cave and tearing apart the
+    gloom of night, which is compared to a herd of elephants.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The moon sheds bright rays and a far-reaching halo; its rays dispel darkness
+    and spread over the quarters, the sky, and the earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the world is illuminated almost like daylight by the moon, some night-wandering
+    creatures continue roaming while others stop.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The host of troops awakens under the moonlight and is compared to lotuses
+    opening and to the ocean swelling at the moon's rise.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Battle begins again on earth for the destruction of the earth's population
+    among men who desire to attain heaven.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kshatriyas / host of troops
+  description: Wounded warriors sleeping on elephants, later awakened by moonlight
+    and returning to battle.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Moon / hare-marked luminary
+  description: The rising moon, described as lord of lilies and divine lord, whose
+    rays dispel darkness and awaken the host.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Creatures that wander at night
+  description: Night-roaming beings that either continue or cease roaming after the
+    moon illuminates the world.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Elephants
+  description: Battlefield elephants whose coronal globes serve as the resting place
+    for sleeping Kshatriyas; the gloom of night is also compared to a herd of elephants.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: sleeping wounded warriors
+  assigned_to:
+  - fig:1
+  basis: The passage says the Kshatriyas are mangled by shafts, immersed in sleep,
+    and lying on elephants.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: celestial illuminator and awakener
+  assigned_to:
+  - fig:2
+  basis: The moon rises, dispels darkness with rays, illuminates the world, and is
+    linked to the army's awakening.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: night-wandering creatures
+  assigned_to:
+  - fig:3
+  basis: The passage identifies creatures that wander at night and describes their
+    behavior after moonrise.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: battlefield animals and resting surface
+  assigned_to:
+  - fig:4
+  basis: The sleeping Kshatriyas lie on the coronal globes of elephants.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: reawakened combatants seeking heaven
+  assigned_to:
+  - fig:1
+  basis: The host awakens under moonlight, battle resumes, and the combatants are
+    described as desiring heaven.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: moon
+  literal_form: Rising moon / hare-marked luminary
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: eastern cave
+  literal_form: Cave in the east from which the moon is compared to emerging
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: darkness torn apart
+  literal_form: Thick gloom of night compared to an extensive herd of elephants
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: lilies and lotuses opening under light
+  literal_form: Lilies loved by the moon and lotuses used as an image for the awakening
+    army
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: sea or ocean of troops
+  literal_form: Host compared to a sea of troops and to the ocean swelling at the
+    moon's rise
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: heaven as desired attainment
+  literal_form: Heaven desired by men returning to battle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sleeping wounded warriors on elephants
+  summary: Wounded, ornamented Kshatriyas sleep on the coronal globes of elephants,
+    with their bodies compared to a painted image and to men lying on the bosoms of
+    women.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Moonrise and the flight of darkness
+  summary: The moon rises in the east with elaborate similes, emerges like a lion
+    from a cave, and its rays dispel the darkness across sky and earth.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: World illuminated and beings respond
+  summary: Moonlight makes the world almost like daylight; night-wandering creatures
+    alter or continue their activity, and the army awakens like lotuses or the ocean
+    at moonrise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Battle resumes under moonlight
+  summary: After the army awakens, battle begins again on earth, associated with destruction
+    and with men desiring heaven.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: celestial light dispels darkness and awakens an army
+  taxonomy_refs: []
+  basis: The moon rises, disperses the darkness, illuminates the world, and the host
+    awakens under its rays.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents this through epic battlefield description and simile
+    rather than as an independent mythic episode.
+- id: motif:2
+  label: battle as a hoped-for path to heaven
+  taxonomy_refs:
+  - ascent
+  basis: The battle resumes between men described as desiring to attain heaven.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states the desire to attain heaven but does not narrate an
+    actual afterlife journey or ascent.
+- id: motif:3
+  label: lunar stirring of waters and flowers
+  taxonomy_refs: []
+  basis: The army's awakening is compared both to lotuses opening under light and
+    to the ocean swelling at the moon's rise.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a poetic comparison in the passage; no separate ritual or mythic
+    action involving actual water or flowers is narrated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 57138-57143
+  quote_or_summary: Wounded, youthful Kshatriyas wearing ear-rings are asleep with
+    shaft-mangled limbs, lying on the coronal globes of elephants and described through
+    visual similes.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: 57143-57154
+  quote_or_summary: The moon rises in the eastern direction associated with Indra,
+    is described as lord of lilies, as a lion from the Udaya hills emerging from a
+    cave, and as tearing the gloom of night like an elephant herd.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: 57154-57160
+  quote_or_summary: The hare-marked moon emits a bright golden halo; its rays dispel
+    darkness and spread over all directions, the sky, and the earth until the world
+    is illuminated.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: 57160-57163
+  quote_or_summary: When moonlight illuminates the world almost like daylight, some
+    creatures that wander at night continue roaming and some stop.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: 57163-57167
+  quote_or_summary: The host or sea of troops awakens under the moon, compared to
+    lotuses opening and the ocean swelling; battle begins again on earth for destruction
+    among men desiring heaven.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    are cautious because much of the material is poetic battlefield simile rather
+    than a self-contained myth narrative. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external taxonomy IDs or comparative traditions were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l57138-l57167
+  passage_sha256=77c79badcb34a2213f2a24e7f0fba2d696f5cd7eeb93516472842e115428fab6
+

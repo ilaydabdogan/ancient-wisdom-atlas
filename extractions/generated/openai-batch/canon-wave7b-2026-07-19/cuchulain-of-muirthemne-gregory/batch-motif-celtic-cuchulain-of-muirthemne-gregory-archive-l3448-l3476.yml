@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.celtic-cuchulain-of-muirthemne-gregory-archive-l3448-l3476
+source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+passage_locator:
+  label: THETHREECUPS  73 / THE   GREAT   SHADOW  75 / UATH,   THE   STRANGER  79
+    / THE   HIGH   KING   OF   IRELAND; lines 3448-3476
+  start: '3448'
+  end: '3476'
+  translation: Cuchulain of Muirthemne
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Eochaid Feidlech as a king over Ireland and grandfather
+    of Conaire the Great. While crossing the green of Bri Leith, Eochaid sees a richly
+    adorned woman by a well, washing with a silver basin and comb. The rest of the
+    excerpt gives an extended description of her clothing, ornaments, hair, radiance,
+    and bodily beauty.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Eochaid Feidlech is identified as a king over Ireland and as grandfather to
+    Conaire the Great.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eochaid goes over the fair green of Bri Leith.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Eochaid sees a woman at the side of a well.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman has a bright comb of silver and gold and is washing in a silver
+    basin decorated with four golden birds and purple stones.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The woman wears a purple cloak with silver fringes, a gold brooch, a green
+    silk dress, and gold and silver clasps.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sunlight falls on the woman so that the gold and green silk shine.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The woman's hair is arranged in two plaits with locks and beads, and its color
+    is compared to yellow flags in summer and rubbed red gold.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The woman lets down her hair to wash it, with her arms through the sleeve-holes
+    of her shift.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The woman's hands, eyes, lips, body, and face are described through comparisons
+    with snow, a blue flower, rowan berries, wave foam, and moonlight.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eochaid Feidlech
+  description: A king over Ireland, named as grandfather to Conaire the Great; he
+    travels over Bri Leith and sees the woman at the well.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: woman at the well
+  description: A richly adorned woman seen by Eochaid at the side of a well, washing
+    with a silver basin and letting down her hair.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Conaire the Great
+  description: Named only as the grandson of Eochaid Feidlech.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: king over Ireland
+  assigned_to:
+  - fig:1
+  basis: The passage directly states that Eochaid Feidlech was a king over Ireland.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: traveler and observer
+  assigned_to:
+  - fig:1
+  basis: Eochaid is described going over Bri Leith and seeing the woman by the well.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: woman washing at a well
+  assigned_to:
+  - fig:2
+  basis: The woman is located beside a well and is washing with a basin, later letting
+    down her hair to wash it.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: richly adorned radiant figure
+  assigned_to:
+  - fig:2
+  basis: The passage catalogs her precious objects, colorful garments, jewelry, shining
+    appearance, and beauty comparisons.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: named grandson in genealogy
+  assigned_to:
+  - fig:3
+  basis: Conaire the Great is mentioned as Eochaid's grandson.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: well
+  literal_form: well at the fair green of Bri Leith
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: silver basin with golden birds
+  literal_form: silver basin with four golden birds and purple stones on its rim
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: silver-and-gold comb
+  literal_form: bright comb of silver and gold
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: precious garments and clasps
+  literal_form: purple cloak, silver fringes, gold brooch, green silk dress, red-gold
+    embroidery, and gold and silver clasps
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: plaited golden hair
+  literal_form: two plaits of hair with locks and beads, colored like yellow flags
+    or rubbed red gold
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: sunlight and moonlight imagery
+  literal_form: sunlight shining on gold and green silk; bright light of the moon
+    in her face
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:7
+  label: natural beauty comparisons
+  literal_form: snow, blue flower, rowan berries, and wave foam used as comparisons
+    for bodily features
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Royal and genealogical introduction
+  summary: Eochaid Feidlech is introduced as a king over Ireland and as grandfather
+    to Conaire the Great.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Encounter at the well on Bri Leith
+  summary: Eochaid travels over the fair green of Bri Leith and sees a woman beside
+    a well, washing with a silver basin and associated with precious objects.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Description of the woman's adornment and beauty
+  summary: The passage describes the woman's garments, jewelry, sunlight on her clothing,
+    plaited hair, hair-washing, and bodily beauty through natural and light imagery.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Royal genealogical framing
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage frames Eochaid by kingship over Ireland and by his genealogical
+    relationship to Conaire the Great.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt states royal identity and genealogy but does not narrate a
+    succession contest, inauguration, or explicit legitimation ritual.
+- id: motif:2
+  label: Encounter with an adorned woman at a well
+  taxonomy_refs: []
+  basis: A king traveling over Bri Leith sees a richly adorned woman beside a well,
+    where she is washing with precious objects.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt ends during description and does not show the outcome or significance
+    of the encounter.
+- id: motif:3
+  label: Radiant beauty catalogue
+  taxonomy_refs: []
+  basis: The passage gives an extended visual catalogue of the woman's garments, jewelry,
+    hair, shining appearance, and beauty comparisons.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports the descriptive pattern, but it does not by itself
+    identify the woman as divine or assign a narrative function to her beauty.
+- id: motif:4
+  label: Hair washing at a water source
+  taxonomy_refs: []
+  basis: The woman is shown beside a well, washing with a basin, and letting down
+    her hair to wash it.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The ritual or symbolic significance of the washing is not stated in this
+    excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3448-3452
+  quote_or_summary: Eochaid Feidlech is introduced as a king over Ireland and as grandfather
+    to Conaire the Great.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 3454-3460
+  quote_or_summary: Eochaid travels over the fair green of Bri Leith and sees a woman
+    beside a well, with a silver-and-gold comb and a silver basin decorated with four
+    golden birds and purple stones.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 3460-3467
+  quote_or_summary: The woman is described with a purple cloak, silver fringes, gold
+    brooch, green silk dress, red-gold embroidery, gold and silver clasps, and sunlight
+    shining on the gold and silk.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 3467-3472
+  quote_or_summary: Her hair is described in two plaits with locks and beads, with
+    color compared to yellow flags in summer and rubbed red gold.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 3473-3476
+  quote_or_summary: She lets down her hair to wash it, and her hands, eyes, lips,
+    body, and face are described through natural and light comparisons including snow,
+    a blue flower, rowan berries, wave foam, and moonlight.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is descriptive. Motif assignments
+    are cautious because the excerpt ends mid-description and gives little narrative
+    outcome. No comparison claims are made because the passage itself does not support
+    an explicit comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The excerpt appears to end during an unfinished descriptive sentence, so no outcome after the beauty description is inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-cuchulain-of-muirthemne-gregory-archive__l3448-l3476
+  passage_sha256=77b46ab094281880623fed1b5c002ab39f4f76073d0d94d418dff201f6adf655
+

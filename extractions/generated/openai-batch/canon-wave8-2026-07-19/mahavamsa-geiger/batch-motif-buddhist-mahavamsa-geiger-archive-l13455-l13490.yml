@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l13455-l13490
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: CHAPTER XXVI / CHAPTER XXVII / THE CONSECRATING OF THE LOHAPASADA / CHAPTER
+    XXVIII; lines 13455-13490
+  start: '13455'
+  end: '13490'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A note locates Uruvela near the mouth of the Kala-oya. In the main passage,
+    four splendid gems are found in a cave opening on the Pelivapikagama tank; a hunter
+    with dogs sees them and reports them to the king. The king hears that bricks and
+    other treasures have appeared for the Great Thupa, rewards the informants, appoints
+    watchers, and has the treasures brought to him. The passage closes with a moral
+    statement that merit performed with believing heart brings many happy results,
+    and identifies the chapter as concerning the wherewithal to build the Great Thupa.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The translator note says the site of Uruvela seems to be near the mouth of
+    the Kala-oya, about forty miles from Anuradhapura.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Four splendid gems had formed in a cave opening on the Pelivapikagama tank,
+    above on the sand.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The gems are described as small mill-stone-sized, flax-flower-coloured, and
+    radiantly beautiful.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A hunter accompanied by dogs saw the gems and went to tell the king that he
+    had seen precious stones.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: On the same day, the king heard that bricks and other treasures had appeared
+    for the Great Thupa.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The king rewarded the people, appointed them as watchers, and had the treasures
+    brought to him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator states that merit heaped up with believing heart brings many
+    happy results and urges the doing of works of merit.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: hunter with dogs
+  description: A hunter, accompanied by dogs, who sees the precious stones and reports
+    them to the king.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: king / lord of the land
+  description: The ruler described as rich in merit; he hears of the treasures for
+    the Great Thupa, rewards people, appoints watchers, and gathers the treasures.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: rewarded people appointed as watchers
+  description: People rewarded by the king and appointed to watch over the treasures.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: discoverer and messenger
+  assigned_to:
+  - fig:1
+  basis: The hunter sees the gems and tells the king about the precious stones.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: royal collector and patron of the Great Thupa materials
+  assigned_to:
+  - fig:2
+  basis: The king hears that materials have appeared for the Great Thupa, rewards
+    the people, appoints watchers, and has the treasures brought to him.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: watchers of treasures
+  assigned_to:
+  - fig:3
+  basis: The king appoints the rewarded people as watchers.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cave opening
+  literal_form: A cave opening on the Pelivapikagama tank where the gems had formed.
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: four splendid gems / precious stones
+  literal_form: Four gems, small mill-stone-sized and flax-flower-coloured, described
+    as radiantly beautiful precious stones.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: bricks and other treasures
+  literal_form: Bricks and other treasures said to have appeared for the Great Thupa.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Great Thupa
+  literal_form: The sacred monument for which the bricks, gems, and other treasures
+    are obtained.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: Pelivapikagama / Pelivapi tank
+  literal_form: A tank named as the place on which the cave opens; a note identifies
+    Pelivapi with present Vavunik-kulam.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:7
+scenes:
+- id: scene:1
+  label: Formation and discovery of gems near the tank
+  summary: Four splendid gems are described as formed in a cave opening on the Pelivapikagama
+    tank; a hunter with dogs sees them.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Royal securing of treasures for the Great Thupa
+  summary: The king hears that bricks and other treasures have appeared for the Great
+    Thupa, rewards the relevant people, appoints them as watchers, and has the treasures
+    brought to him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Merit moral and chapter closure
+  summary: The narrator generalizes that merit performed with believing heart produces
+    many happy results, and the chapter colophon names the theme as obtaining the
+    wherewithal to build the Great Thupa.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Auspicious discovery of materials for a sacred monument
+  taxonomy_refs: []
+  basis: The passage describes gems, bricks, and other treasures appearing or being
+    found for the Great Thupa, followed by their collection under royal direction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not name a divine agent for the appearance or formation
+    of the materials.
+- id: motif:2
+  label: Merit producing religious and material benefit
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The king is described as rich in merit, the treasures appear for the Great
+    Thupa, and the narrator explicitly states that merit done with believing heart
+    brings many happy results.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage frames causation through
+    merit and karmic result, not through a negotiated exchange with a named deity.'
+- id: motif:3
+  label: Meritorious ruler as sponsor of sacred construction
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The ruler is called rich in merit and organizes the acquisition, guarding,
+    and collection of treasures for the Great Thupa.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: low
+  cautions: The passage supports royal patronage and merit, but it does not explicitly
+    make a succession or legitimacy argument.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared at the level of function to a sacred-exchange
+    pattern, because accumulated merit is linked to the appearance and acquisition
+    of valuable materials for a sacred monument.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents merit and result rather than an explicit reciprocal
+    bargain with a deity; the comparison is functional and taxonomic, not a claim
+    of historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13455-13458, note 2
+  quote_or_summary: The note says Uruvela seems to be near the mouth of the Kala-oya,
+    about forty miles from Anuradhapura.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13460-13464 / Mahavamsa XXVIII.40-41
+  quote_or_summary: Four splendid gems had formed in a cave opening on the Pelivapikagama
+    tank, on the sand; they are described as small mill-stone-sized, flax-flower-coloured,
+    and radiantly beautiful.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13464-13466 / Mahavamsa XXVIII.41
+  quote_or_summary: A hunter with dogs saw the gems, came to the king, and reported
+    that he had seen precious stones.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13467-13472 / Mahavamsa XXVIII.42-43
+  quote_or_summary: The lord of the land, rich in merit, heard on the same day that
+    bricks and other treasures had appeared for the Great Thupa; he rewarded the people,
+    appointed watchers, and had the treasures brought to him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13473-13477 / Mahavamsa XXVIII.44
+  quote_or_summary: The narrator states that merit heaped up with believing heart
+    brings many happy results and urges the doing of works of merit.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13479-13482, chapter colophon
+  quote_or_summary: The chapter is titled as the obtaining of the wherewithal to build
+    the Great Thupa.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13484-13490, note 1
+  quote_or_summary: The note identifies Pelivapi with present Vavunik-kulam and mentions
+    the river Pali-aru associated with the tank.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is clear, but the motif taxonomy mapping is interpretive.
+    The passage does not name the king in the supplied excerpt and does not state
+    a divine agent for the treasures.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Figures are labeled from the passage without adding names from broader Mahavamsa context.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l13455-l13490
+  passage_sha256=a08f8e0b342f1b609982dc56ce36ad7801cbf41af1200ece7ab0e07a9f5e2362
+

@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l23771-l23796
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION CLXII / SECTION CLXIII / SECTION CLXIV / SECTION CLXV; lines 23771-23796
+  start: '23771'
+  end: '23796'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists many principal kings and states that a person who, with
+    purity and attention, recites their names at dawn and at the two twilights gains
+    religious merit. The person is instructed to praise deities, celestial Rishis,
+    and royal sages, and to ask that these lords of creation ordain growth, long life,
+    fame, freedom from calamity and sin, victory, and an auspicious end.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A sequence of named kings is recited, including figures such as Nriga, Yayati,
+    Nahusha, Sagara, Bharata, Rama, Bhagiratha, Harischandra, Kuru, Manu, Santanu,
+    and Ikshwaku, along with many others not named.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that a man should rise at early dawn and take the names of
+    these kings at sunset and sunrise.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The recitation is to be performed with a pure body and mind and without distracted
+    attention.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that this practice brings great religious merit.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The person is instructed to hymn the praises of deities, celestial Rishis,
+    and royal sages.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The prescribed speech asks for growth, long life, fame, absence of calamity,
+    freedom from sin, absence of opponents or enemies, victory, and an auspicious
+    end.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the man who recites
+  description: A person who rises early, recites the kings' names, and performs the
+    praise with purity and attention.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: principal kings
+  description: A collective list of principal kings named in the passage, including
+    Nriga, Yayati, Nahusha, Sagara, Bharata, Rama, Bhagiratha, Harischandra, Kuru,
+    Manu, Santanu, Ikshwaku, and others.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: deities
+  description: The deities whose praises are to be hymned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: celestial Rishis
+  description: Celestial Rishis whose praises are to be hymned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: royal sages
+  description: Royal sages whose praises are to be hymned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: lords of the creation
+  description: The beings addressed in the prescribed speech as ordaining growth,
+    long life, and fame.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ritual reciter
+  assigned_to:
+  - fig:1
+  basis: The figure rises early, recites the kings' names at specified times, and
+    seeks merit and blessing.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: remembered royal exemplars
+  assigned_to:
+  - fig:2
+  basis: The kings are named as a group whose names are to be taken in recitation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: praised sacred beings
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage instructs that their praises should be hymned.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: ordainers of blessing
+  assigned_to:
+  - fig:6
+  basis: The prescribed speech says these lords of creation will ordain growth, long
+    life, and fame.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: recited royal names
+  literal_form: the names of the principal kings
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: two twilights
+  literal_form: sunset and sunrise
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pure body and mind
+  literal_form: pure body and mind and undistracted attention
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: auspicious end
+  literal_form: an auspicious end hereafter
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Listing of principal kings
+  summary: The passage enumerates a long series of royal names and notes that many
+    others are not named.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dawn and twilight recitation for merit
+  summary: A person is told to recite the royal names at early dawn and at sunset
+    and sunrise, with purity and attention, in order to gain great religious merit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Praise and petition for blessing
+  summary: The reciter is instructed to praise deities, celestial Rishis, and royal
+    sages, and to utter a petition for growth, long life, fame, protection, victory,
+    and an auspicious end.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: recitation of sacred or royal names for merit and protection
+  taxonomy_refs: []
+  basis: The passage links the disciplined recitation of royal names at dawn and twilight
+    with the acquisition of great religious merit and desired protection or blessing.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage presents a prescribed practice rather than a narrative episode.
+- id: motif:2
+  label: praise offered to sacred beings for worldly and auspicious benefits
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The reciter is instructed to praise deities, celestial Rishis, and royal
+    sages and to ask for long life, fame, freedom from calamity and sin, victory,
+    and an auspicious end.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The term 'exchange' is interpretive; the passage explicitly states praise
+    and requested benefits, not a negotiated transaction.
+- id: motif:3
+  label: ritual purity and attentiveness as conditions for efficacy
+  taxonomy_refs: []
+  basis: The practice is specified as requiring a pure body and mind and undistracted
+    attention.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader initiation or purification narrative is given in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23771-23791
+  quote_or_summary: The passage lists many principal kings, including Nriga, Yayati,
+    Nahusha, Sagara, Bharata, Rama, Bhagiratha, Harischandra, Kuru, Manu, Santanu,
+    Ikshwaku, and many others not named.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 23791-23795
+  quote_or_summary: A man who rises early and takes the names of these kings at sunset
+    and sunrise, with pure body and mind and undistracted attention, “acquires great
+    religious merit.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 23795-23796
+  quote_or_summary: "“One should hymn the praises of the deities, the celestial Rishis,
+    and the royal sages.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 23796
+  quote_or_summary: The prescribed utterance asks the lords of creation to ordain
+    growth, long life, and fame, and asks for no calamity, no sin, no enemies, victory,
+    and an auspicious end.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is prescriptive and devotional rather than a developed mythic narrative.
+    No external comparison claims are made from this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external figures or comparisons added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l23771-l23796
+  passage_sha256=4712bee3225658ae1e1401a357dfa20fd7c005c3f1643e20a4fb9a6efe470bcd
+

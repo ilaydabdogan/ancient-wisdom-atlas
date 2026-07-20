@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l19289-l19379
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUREAU  OF  AMERICAN  ETHNOLOQV / MEDICINE  BAQ / BUBEAU  OF  AMEBICAN  ETHNOLOGY
+    / CBULL.  61; lines 19289-19379
+  start: '19289'
+  end: '19379'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"something sacred"; "you will eat"; "now"; "you will walk"'
+  summary: The passage analyzes a song, describes a medicinal herb prepared as tea
+    for heart or stomach pain, records Eagle Shield's spoken assurance that the patient
+    will soon walk, and gives the words of a song sung while the herb was administered.
+  language: English with Lakota/Dakota transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The musical analysis says the song has nearly equal upward and downward intervals,
+    begins on the octave, ends on the tonic, and uses an initial phrase that later
+    renditions omit; the author notes this as a custom observed among both Chippewa
+    and Sioux.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An herb named cante' yazay'pi icu'vxi was prepared as a tea for people suffering
+    from heart trouble or stomach pain, and was identified as Astragalus sp. or loco
+    weed.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Before singing, Eagle Shield said that although the addressed person may think
+    it will be a long time before walking, they will be able to walk in only a short
+    time.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The song was sung while the herb was administered.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The song is titled No. 86, "You Will Walk," and is attributed as sung by Eagle
+    Shield.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The song words glossed in the passage say that the addressed person will eat
+    something sacred now and will walk.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note compares the words with another cited song whose words promise recovery
+    and walking again through the speaker's power and a white shell.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eagle Shield
+  description: Named speaker before the song and named singer of No. 86, "You Will
+    Walk."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: addressed patient or recipient
+  description: The person addressed as "you" who is told they will eat something sacred
+    and will walk; the herb is described as used for sufferers of heart trouble or
+    stomach pain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: speaker and singer
+  assigned_to:
+  - fig:1
+  basis: Eagle Shield speaks before singing and is listed as the singer of the song.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: healing recipient addressed by the song
+  assigned_to:
+  - fig:2
+  basis: The passage describes sufferers receiving the herb and the song directly
+    addresses a person who will eat something sacred and walk.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: medicinal herb tea
+  literal_form: cante' yazay'pi icu'vxi, prepared as tea and identified as Astragalus
+    sp. or loco weed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: something sacred to be eaten
+  literal_form: the song phrase glossed as "something sacred" and "you will eat"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: walking after treatment
+  literal_form: the repeated assurance that the addressed person will walk
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preparation of medicinal tea
+  summary: A named herb is prepared as tea and used for people with heart trouble
+    or stomach pain.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Assurance before singing
+  summary: Before singing, Eagle Shield tells the addressed person that they will
+    be able to walk after only a short time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Song during herb administration
+  summary: As the herb is administered, Eagle Shield sings a song whose gloss says
+    the recipient will eat something sacred now and will walk.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred ingestion linked to restored walking
+  taxonomy_refs: []
+  basis: The song sung during herb administration says that the recipient will eat
+    something sacred and will walk.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives a song text and treatment context but does not explain
+    the theological meaning of "something sacred."
+- id: motif:2
+  label: healing assurance through spoken formula and song
+  taxonomy_refs: []
+  basis: Eagle Shield first speaks an assurance that the patient will soon walk, and
+    the following song repeats the walking outcome.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a local ceremonial-healing pattern in the passage, not a broad
+    comparative claim.
+- id: motif:3
+  label: medicinal plant administered with song
+  taxonomy_refs: []
+  basis: The passage identifies an herb tea used for heart or stomach pain and states
+    that the song was sung as the herb was administered.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not specify the full ritual sequence or who physically
+    administered the herb.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the words of "You Will Walk" with a cited song
+    No. 47 that also promises recovery and walking again.
+  claim_level: same_function
+  target: words of song No. 47 cited in the note to the passage
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the excerpted comparison note is provided; the full context of
+    song No. 47 is not included in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19289-19305
+  quote_or_summary: 'Musical analysis: upward and downward progressions are nearly
+    equal; the song begins on the octave and ends on the tonic; later renditions omit
+    the first four measures, noted as an introductory-phrase custom among Chippewa
+    and Sioux.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:2
+  type: quote
+  locator: 19306-19310
+  quote_or_summary: '"An herb called cante'' yazay''pi icu''vxi was prepared as a
+    tea" and used for "heart trouble or pain in the stomach"; it was identified as
+    Astragalus sp. or loco weed.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; short excerpt from provided passage.
+- id: ev:3
+  type: quote
+  locator: 19311-19316
+  quote_or_summary: 'Before singing, Eagle Shield says in translation: "A long time
+    before I can walk you may think, but (in) only a short time you shall be able
+    to walk."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; short excerpt from provided passage.
+- id: ev:4
+  type: summary
+  locator: 19317-19327
+  quote_or_summary: The passage states that the following song was sung as the herb
+    was administered; the song is No. 86, "You Will Walk," sung by Eagle Shield.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; summary generated from provided passage.
+- id: ev:5
+  type: quote
+  locator: 19328-19357
+  quote_or_summary: 'Interlinear gloss of the song: "something sacred"; "you will
+    eat"; "now"; "you will walk."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; short excerpt from provided passage.
+- id: ev:6
+  type: quote
+  locator: 19358-19362
+  quote_or_summary: 'Note compares song No. 47: "You will recover, you will walk again"
+    and says, "Through our white shell I will enable you to walk again."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; short excerpt from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is ethnomusicological and gives limited ritual explanation. The only
+    comparison claim is the passage's own note comparing another song.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif reference was applied because the passage does not clearly instantiate any supplied taxonomy item beyond a local healing-song pattern.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l19289-l19379
+  passage_sha256=575258dd0f2c6ff9b97689889c59a8f53753c972a8d22a0e7a998303a95884b0
+

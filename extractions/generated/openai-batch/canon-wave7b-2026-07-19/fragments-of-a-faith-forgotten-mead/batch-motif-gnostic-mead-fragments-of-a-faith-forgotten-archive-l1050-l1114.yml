@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.gnostic-mead-fragments-of-a-faith-forgotten-archive-l1050-l1114
+source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+passage_locator:
+  label: HIPPOLYTUS'  ACCOUNT  OP  ONE  OF  THE  VARIANTS / XX11.  FRAGMENTS   OF   A    FAITH    FORGOTTEN.
+    / SYNOPSIS    OF    CONTENTS.  XX111. / SOME  TRACES  OF  THE   GNOSIS  IN  THE;
+    lines 1050-1114
+  start: '1050'
+  end: '1114'
+  translation: Fragments of a Faith Forgotten
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A synopsis of contents lists a section on traces of Gnosis in uncanonical
+    Acts, including subsections from the Acts of Thomas, Acts of John, and Acts of
+    Andrew. The listed topics include a hymn to Wisdom, sacramental invocations, a
+    palace built by Thomas, Christ speaking with Jesus, a miracle, a mystery and initiation
+    of the Cross, higher and lower selves, prayers to Christ, John's farewell and
+    last prayer, and an address to the Cross.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a table-of-contents synopsis for material on traces of Gnosis
+    in uncanonical Acts.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Acts of Thomas section lists a hymn to Wisdom, sacramental invocations,
+    and a palace that Thomas built.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Acts of John section lists topics including Christ speaking with Jesus,
+    a great miracle, a ritual from the mysteries, the mystery and initiation of the
+    Cross, higher and lower selves, prayers to Christ, John's farewell, John's last
+    prayer, and a story of John and the bugs.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Acts of Andrew section lists an address to the Cross.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Thomas
+  description: Named in the heading for the Acts of Thomas and in the title of a palace
+    he built.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: John
+  description: Named in the heading for the Acts of John and in titles for his farewell
+    address, last prayer, and story with the bugs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Andrew
+  description: Named in the heading for the Acts of Andrew.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Jesus
+  description: Named in a title where Christ speaks with Jesus.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Christ
+  description: Named in titles where Christ speaks with Jesus and receives a prayer
+    of praise.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Wisdom
+  description: Named as the subject of a hymn in the Acts of Thomas section.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: builder of palace
+  assigned_to:
+  - fig:1
+  basis: A title refers to the palace that Thomas built.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: speaker and prayer figure
+  assigned_to:
+  - fig:2
+  basis: The contents list John's farewell address and John's last prayer.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: associated apostolic figure
+  assigned_to:
+  - fig:3
+  basis: Andrew is named in the Acts of Andrew section heading.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: recipient of praise and speaking figure
+  assigned_to:
+  - fig:5
+  basis: The contents list Christ speaking with Jesus and a prayer of praise to Christ.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: hymn subject
+  assigned_to:
+  - fig:6
+  basis: The contents list a hymn to Wisdom.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Cross
+  literal_form: Cross
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Palace
+  literal_form: Palace built by Thomas
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Wisdom
+  literal_form: Wisdom named as the subject of a hymn
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Acts of Thomas contents
+  summary: The section headings name a hymn to Wisdom, sacramental invocations, and
+    Thomas's palace.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Acts of John contents
+  summary: The section headings name Christ and Jesus, a miracle, ritual mysteries,
+    the Cross, higher and lower selves, prayers, John's farewell and last prayer,
+    and a story of John and bugs.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Acts of Andrew contents
+  summary: The section heading names an address to the Cross within the Acts of Andrew
+    material.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Wisdom hymn
+  taxonomy_refs:
+  - wisdom
+  basis: The contents list a hymn to Wisdom in the Acts of Thomas section.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only a contents synopsis; it does not provide the hymn
+    text or narrative details.
+- id: motif:2
+  label: Initiation and mystery ritual
+  taxonomy_refs:
+  - initiation
+  basis: The Acts of John contents list a ritual from the mysteries and the initiation
+    of the Cross.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage supplies headings only, not the ritual sequence or doctrinal
+    interpretation.
+- id: motif:3
+  label: Cross as mystery object
+  taxonomy_refs: []
+  basis: The contents list the mystery of the Cross, the interpretation of the Cross,
+    the initiation of the Cross, and an address to the Cross.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy list has no cross-specific symbol or motif reference;
+    the passage gives only titles.
+- id: motif:4
+  label: Higher and lower selves
+  taxonomy_refs:
+  - duality
+  basis: The Acts of John contents list a section titled higher and lower selves.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The heading suggests a dual structure of selfhood, but no details are
+    provided in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1050-1063
+  quote_or_summary: The synopsis lists a section on traces of the Gnosis in the uncanonical
+    Acts, with foreword topics including the Gnostic Acts and Catholic over-working.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 1064-1078
+  quote_or_summary: 'From the Acts of Thomas: headings include “A Hymn to Wisdom,”
+    “Two Sacramental Invocations,” and “The Palace that Thomas built.”'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 1079-1112
+  quote_or_summary: 'From the Acts of John: headings include Christ speaking with
+    Jesus, a great miracle, a ritual from the mysteries, the mystery and initiation
+    of the Cross, higher and lower selves, prayers to Christ, John''s farewell and
+    last prayer, and a story of John and bugs.'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 1113-1114
+  quote_or_summary: 'From the Acts of Andrew: “Address to the Cross.”'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The excerpt is a synopsis of contents rather than a primary narrative passage.
+    Named topics support only cautious identification of motifs and symbols.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not substantiate cross-textual or historical comparison beyond listing sections from several uncanonical Acts.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:gnostic-mead-fragments-of-a-faith-forgotten-archive__l1050-l1114
+  passage_sha256=47f922d85215052a5b4ba0a540a7188c5743606377f65eba71eb0fb810d40c33
+

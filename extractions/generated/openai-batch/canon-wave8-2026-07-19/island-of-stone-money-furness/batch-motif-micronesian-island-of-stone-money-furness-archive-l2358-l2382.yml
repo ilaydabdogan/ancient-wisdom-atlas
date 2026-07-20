@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l2358-l2382
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: MONEY AND CUERENOY / MONEY AND CUERENCY / MONET AND CURRENCY / THE ISLAND
+    OP STONE MONET; lines 2358-2382
+  start: '2358'
+  end: '2382'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator says he obtained a thauei through old Ronoboi, who claimed
+    to have paid for it with pearl shells. The passage then describes ripe coconuts
+    as a medium of exchange between traders and natives, gives sample prices, and
+    recounts Ronoboi paying twenty thousand coconuts for an imported cooking stove.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator obtained an excellent thauei through old Ronoboi.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ronoboi said he paid ten hotha-ayar, glossed as seventy pearl shells, for
+    the thauei.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Between traders and natives, ripe coconuts are used as the medium of exchange.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The passage gives rough coconut-based prices for common trade goods: a large
+    pilot biscuit costs three coconuts, while tobacco with Japanese safety matches
+    costs six coconuts.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ronoboi paid twenty thousand coconuts for a German-made thin sheet-iron cooking
+    stove.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ronoboi expressed great satisfaction with the stove bargain and said he intended
+    to make bread in it.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: narrator
+  description: First-person speaker who says he obtained an excellent thauei through
+    Ronoboi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: old Ronoboi
+  description: An old man, later called royal old Ronoboi, who paid for the thauei
+    and later paid twenty thousand coconuts for a cooking stove.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: traders
+  description: One side of the exchange relationship in which ripe coconuts serve
+    as the medium of exchange.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: natives
+  description: The other side of the exchange relationship in which ripe coconuts
+    serve as the medium of exchange.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recipient-observer
+  assigned_to:
+  - fig:1
+  basis: The first-person speaker reports obtaining the thauei and describes exchange
+    practices and Ronoboi’s purchase.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: payer and notable bargainer
+  assigned_to:
+  - fig:2
+  basis: Ronoboi is said to have paid pearl shells for the thauei and twenty thousand
+    coconuts for a stove.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: exchange participants
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage states that ripe coconuts are the medium of exchange between
+    traders and natives.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: thauei as valued acquisition
+  literal_form: An excellent thauei obtained by the narrator and said to have been
+    paid for with ten hotha-ayar or seventy pearl shells.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pearl shells as payment
+  literal_form: Ten hotha-ayar, glossed as seventy pearl shells, used to pay for the
+    thauei.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: coconuts as exchange medium
+  literal_form: Ripe coconuts used as the medium of exchange between traders and natives.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: imported cooking stove as high-priced good
+  literal_form: A German-made thin sheet-iron cooking stove bought for twenty thousand
+    coconuts.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Ronoboi pays for a thauei
+  summary: The narrator reports obtaining a thauei through old Ronoboi, who claimed
+    to have paid for it with hotha-ayar or pearl shells.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coconut-based exchange standards
+  summary: The passage describes ripe coconuts as the medium of exchange between traders
+    and natives and lists sample prices for trade goods.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ronoboi’s extravagant stove purchase
+  summary: Ronoboi pays twenty thousand coconuts for an imported cooking stove, is
+    satisfied with the bargain, and says he will make bread in it.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: commodity medium of exchange
+  taxonomy_refs: []
+  basis: Ripe coconuts are explicitly described as the medium of exchange, and the
+    passage gives coconut-denominated prices for goods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic description of currency practice, not a mythic
+    narrative.
+- id: motif:2
+  label: valuable object purchased through prestige payment
+  taxonomy_refs: []
+  basis: A thauei is acquired through Ronoboi after payment in pearl shells, and Ronoboi
+    later makes a conspicuously large coconut payment for an imported stove.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly explain the social or ritual meaning of
+    these payments.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2358-2364
+  quote_or_summary: The narrator says he obtained an excellent thauei through old
+    Ronoboi, who claimed to have paid ten hotha-ayar, or seventy pearl shells, for
+    it.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 2365-2374
+  quote_or_summary: Ripe coconuts are described as the exchange medium between traders
+    and natives, with rough values such as three coconuts for a large pilot biscuit
+    and six for tobacco plus Japanese safety matches.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 2374-2382
+  quote_or_summary: Ronoboi is said to have paid twenty thousand coconuts for a thin
+    sheet-iron German cooking stove, to have been very pleased with the bargain, and
+    to have vowed to make bread in it.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is primarily descriptive and economic rather than mythological. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external identifications or taxonomy assignments added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l2358-l2382
+  passage_sha256=2bd0ea2d26fe08b310050c6ba4a442b3379afac6bfecfcbae34556ae2be6a20a
+

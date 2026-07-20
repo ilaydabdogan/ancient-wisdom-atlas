@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l24079-l24087
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    ESKIMO    ABOUT    BERING    STRAIT / III            1 / DOLL   FESTIVAL
+    / BLADDER   FEASTS; lines 24079-24087
+  start: '24079'
+  end: '24087'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the kashim shall never be left entirely vacant
+  summary: During the festival, the kashim must not be left empty. At Pastolik, men
+    forgot this observance and went to another kashim. One returned and heard shades
+    in the bladders speaking; the hanging line had come untied, and the bladders had
+    moved toward the doorway as if to leave because the shades were angry at being
+    neglected.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: During the festival, it is a necessary observance that the kashim not be left
+    entirely vacant.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An old man at St Michael reported an incident at Pastolik during one of these
+    festivals.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The men forgot the observance and went for a short time to an adjacent kashim.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One man remembered that their kashim had been left vacant and hurried back.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The returning man heard the shades in the bladders talking to one another.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One end of the line from which the bladders were hung had become untied.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The bladders had moved near the doorway and were said to be ready to leave.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The shades were described as angry at the neglect.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: old man at St Michael
+  description: Informant who told the narrator about the Pastolik incident.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: men at the Pastolik festival
+  description: Men who forgot the observance and went to an adjacent kashim.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: man who remembered and returned
+  description: One of the men who remembered the vacant kashim, hurried back, and
+    heard the shades talking.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: shades in the bladders
+  description: Shades located in the bladders; they talked to one another and were
+    angry at the neglect.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: informant
+  assigned_to:
+  - fig:1
+  basis: The old man at St Michael is the reported source of the account.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: festival participants who neglected the observance
+  assigned_to:
+  - fig:2
+  basis: The men forgot that the kashim must not be left vacant and went to another
+    kashim.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: returning witness
+  assigned_to:
+  - fig:3
+  basis: One man remembered the vacant kashim, hurried back, and heard the shades
+    speaking.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: offended shades in ritual bladders
+  assigned_to:
+  - fig:4
+  basis: The shades in the bladders spoke and were described as angry at the neglect.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: kashim kept occupied
+  literal_form: kashim
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bladders containing shades
+  literal_form: bladders
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: hanging line
+  literal_form: line to which the bladders were hung
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: doorway as exit point
+  literal_form: doorway
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: festival observance
+  summary: The passage states that during the festival the kashim must never be left
+    entirely vacant.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: observance forgotten
+  summary: At Pastolik, the men leave their kashim vacant and go briefly to an adjacent
+    kashim; one man remembers and returns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: shades and bladders at the doorway
+  summary: The returning man hears the shades in the bladders talking. The line is
+    untied, the bladders have moved near the doorway, and the shades are angry at
+    the neglect.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual house must not be left empty
+  taxonomy_refs: []
+  basis: The passage explicitly states that the kashim must never be left entirely
+    vacant during the festival.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Motif label is passage-level and does not assert wider distribution.
+- id: motif:2
+  label: spirits in ritual bladders speak when neglected
+  taxonomy_refs: []
+  basis: When the kashim is left vacant, the returning man hears the shades in the
+    bladders talking to one another.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage reports the event within an ethnographic anecdote; no broader
+    comparison is made here.
+- id: motif:3
+  label: offended spirits attempt to depart from ritual space
+  taxonomy_refs: []
+  basis: The bladders are said to have moved near the doorway ready to leave, and
+    the shades are angry at their neglect.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage says the bladders were 'said to have moved' and were ready
+    to leave; the exact mechanism is not specified.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 24079-24081
+  quote_or_summary: During the festival, it is necessary that the kashim shall never
+    be left entirely vacant.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 24081-24084
+  quote_or_summary: An old man at St Michael told of a Pastolik festival where the
+    men forgot the rule, went briefly to an adjacent kashim, and one of them remembered
+    and hurried back.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 24084-24085
+  quote_or_summary: The returning man arrived in time to hear “the shades in the bladders
+    talking to one another.”
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 24085-24087
+  quote_or_summary: One end of the line holding the bladders had become untied; the
+    bladders had moved near the doorway ready to leave, and the shades were angry
+    at the neglect.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    local candidates only. No comparison claims are made because the passage itself
+    does not support a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs apply directly to the literal objects in this passage; candidate motifs are not mapped to motif-family refs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l24079-l24087
+  passage_sha256=62d7692fe08eb998a9b282af43817e695d2c47d0d374a098745ee7ff259c0442
+

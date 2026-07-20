@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l15488-l15545
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: VILLAGES  AXD  HOUSES / THE    ESKIMO    ABOUT    BERING    STRAIT / ST    MICHAEL    DWELLINGS
+    / OT   T; lines 15488-15545
+  start: '15488'
+  end: '15545'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Ethnographic description of kashim construction and use: distribution
+    among Eskimo and adjacent Thine, driftwood materials, log-and-earth building structure,
+    roof smoke hole, central floor and fire pit, sweat-bath heating, seasonal entrances,
+    room dimensions, and interior bench.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kashims are described as common among the Eskimo and as adopted by the adjacent
+    Thine of the lower Yukon and Kuskokwim rivers.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The size of a kashim varies according to the number of inhabitants in the
+    village.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The material used for kashims is driftwood, including logs and poles brought
+    by rivers or scattered along the coast; spruce is the most common variety mentioned.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In construction, logs are laid in a square to a height of about 7 or 8 feet,
+    then drawn inward in alternate courses toward the roof opening.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A square opening in the roof is placed over the middle of the room and forms
+    a frame for a smoke hole about 2 to 2.5 feet wide.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Small kashims are covered with a heavy layer of earth; large ones may have
+    crib-work around them forming a double wall filled with earth.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The central floor is usually made of close-laid hewed planks and covers about
+    one-third of the room area.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Below the central planks is a pit 3 to 4 feet deep where fire is built to
+    heat the room for sweat baths or occasionally in winter.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage states that occupants' body heat usually keeps the room warm enough
+    that they remain nude or partly nude much of the time, even in winter.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The entrance includes a long, roofed, earth-covered log passage with an outer
+    doorway that in summer is closed only by a bearskin curtain.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: In winter the above-ground entrance is closed, and people pass through a floor
+    hole and low tunnel on hands and knees to the fire pit and then into the middle
+    of the room.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The rooms are described as 12 to 25 feet square, with a bench extending around
+    the inside about 4 feet from the floor.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eskimo communities
+  description: Communities among whom kashims are described as common.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Adjacent Thine of the lower Yukon and Kuskokwim rivers
+  description: Neighboring group said to have adopted kashims.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Kashim occupants or people
+  description: People occupying the room, providing body heat, and using the winter
+    tunnel entrance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: kashim-associated community
+  assigned_to:
+  - fig:1
+  basis: Kashims are stated to be common among the Eskimo.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: neighboring adopters of kashims
+  assigned_to:
+  - fig:2
+  basis: The passage states that adjacent Thine have adopted kashims.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: occupants and entrance users
+  assigned_to:
+  - fig:3
+  basis: The occupants' body heat warms the room, and people pass through the winter
+    tunnel into the room.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: kashim
+  literal_form: Log-and-earth communal structure with central room, roof smoke hole,
+    floor pit, and seasonal entrance arrangements.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: driftwood building material
+  literal_form: Logs and poles of driftwood, often spruce, gathered from riverbanks
+    or coastlines.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: smoke hole
+  literal_form: Square opening in the roof over the center of the room, framed by
+    shortened logs.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: central fire pit and fire
+  literal_form: Pit beneath the central planked floor where fire is built for heat
+    and sweat baths.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: seasonal entrance passage and tunnel
+  literal_form: Long roofed passage with summer doorway and winter floor-hole tunnel
+    requiring people to crawl on hands and knees.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: bearskin curtain
+  literal_form: Bearskin curtain used to close the summer doorway.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Distribution and materials of kashims
+  summary: Kashims are described as widespread among Eskimo, adopted by adjacent Thine,
+    sized by village population, and built from driftwood logs and poles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Log frame and roof construction
+  summary: Logs are built up in a square and then drawn inward to form a roof opening
+    used as a smoke hole; earth covering or double-wall crib-work surrounds the structure.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Interior floor, pit, and heating
+  summary: A central planked floor covers a pit where fire is built for sweat baths
+    or occasional winter heating, while occupants' body heat normally keeps the room
+    warm.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Summer and winter entrance routes
+  summary: In summer the outer doorway is closed by a bearskin curtain; in winter
+    the above-ground entrance is sealed and people crawl through a floor hole and
+    low tunnel toward the fire pit and central room.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Room size and interior bench
+  summary: The rooms are 12 to 25 feet square, with an interior bench extending around
+    the room about 4 feet above the floor.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Kashim communal-house architectural pattern
+  taxonomy_refs: []
+  basis: 'The passage presents a recurring architectural form: a kashim made from
+    driftwood logs and earth, with central room, smoke hole, fire pit, sweat-bath
+    heating, and seasonal entrance arrangements.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic architectural pattern, not a narrative mythic
+    motif in this passage.
+- id: motif:2
+  label: Seasonal alternate-entry pattern
+  taxonomy_refs: []
+  basis: The passage contrasts a summer doorway with bearskin curtain against a winter
+    route through a floor hole and low tunnel, entered on hands and knees.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The text gives practical seasonal use and does not state ritual or symbolic
+    meaning.
+- id: motif:3
+  label: Central fire-pit sweat-bath pattern
+  taxonomy_refs: []
+  basis: A pit beneath the central planked floor contains a fire used to heat the
+    room for sweat baths or occasional winter heating.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No initiation, purification, or mythic interpretation is stated in the
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a cautious distribution/contact claim: kashims are
+    common among the Eskimo and are said to have been adopted by the adjacent Thine
+    of the lower Yukon and Kuskokwim rivers.'
+  claim_level: historical_contact
+  target: Adjacent Thine of the lower Yukon and Kuskokwim rivers
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe the mechanism, chronology, or details
+    of adoption; it only states adoption.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15488-15508
+  quote_or_summary: Kashims are common among Eskimo and adopted by adjacent Thine;
+    their size varies with village population; they are built from driftwood logs
+    and poles, especially spruce.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 15509-15522
+  quote_or_summary: Kashim logs are laid square, drawn inward toward a central roof
+    opening, and covered with earth or enclosed by crib-work forming a double wall.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 15523-15534
+  quote_or_summary: The central planked floor covers a 3- to 4-foot pit where fire
+    is built for sweat baths or occasional winter heat; occupants' body heat usually
+    keeps the room warm.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 15535-15543
+  quote_or_summary: The entrance is a long roofed log passage; in summer a doorway
+    is closed by bearskin, while in winter people crawl through a floor hole and low
+    tunnel to the fire pit and room.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 15544-15545
+  quote_or_summary: The rooms are 12 to 25 feet square, with an inside bench about
+    4 feet from the floor, hewed from a single log.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive ethnography of architecture and use, not a myth
+    narrative. Motif candidates are therefore treated as architectural or practice
+    patterns. OCR artifacts in the heading are not interpreted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage appears to end mid-description of the bench; no details beyond the supplied line range are inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l15488-l15545
+  passage_sha256=b3d252f9ad8d6fc36f78f8d00d4d1193385b46aea9bd46a0eda88db190cf7126
+

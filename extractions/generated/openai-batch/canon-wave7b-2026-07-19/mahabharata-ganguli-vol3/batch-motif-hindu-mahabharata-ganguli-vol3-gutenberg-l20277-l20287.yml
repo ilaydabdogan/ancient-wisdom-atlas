@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l20277-l20287
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12 / BOOK 8 / BOOK 9; lines 20277-20287'
+  start: '20277'
+  end: '20287'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Earth trembling and the directions becoming murky
+    after the king's lamentations. Messengers go to Drona's son, report the mace-encounter
+    and the king's fall, remain thoughtful, and then leave grief-stricken.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage mentions lamentations of the king.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The whole Earth, including forests, seas, and mobile and immobile creatures,
+    trembles violently and produces a loud noise.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: All points of the compass become murky.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Messengers go to Drona's son.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The messengers report what happened regarding the mace-encounter and the fall
+    of the king.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After reporting, the messengers remain thoughtful for a long while and then
+    return grief-stricken to the place from which they came.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: A king whose lamentations are mentioned and whose fall is reported
+    by the messengers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the messengers
+  description: A group who go to Drona's son, report the events, remain thoughtful,
+    and leave grief-stricken.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Drona's son
+  description: The recipient of the messengers' report.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: fallen and lamenting king
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the king's lamentations and to the report of the king's
+    fall.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: messengers reporting calamity
+  assigned_to:
+  - fig:2
+  basis: The messengers go to Drona's son and report the mace-encounter and the fall
+    of the king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: recipient of report
+  assigned_to:
+  - fig:3
+  basis: The messengers repair to Drona's son and represent to him what happened.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: trembling Earth
+  literal_form: The whole Earth with forests, seas, and mobile and immobile creatures
+    trembles and produces a loud noise.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: murky compass directions
+  literal_form: All points of the compass become murky.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mace-encounter
+  literal_form: The reported conduct of a mace-encounter associated with the king's
+    fall.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cosmic disturbance around the king's calamity
+  summary: After the king's lamentations are mentioned, the Earth trembles loudly
+    and the directions become murky.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Messengers report the king's fall
+  summary: Messengers go to Drona's son and report the mace-encounter and the fall
+    of the king; afterward they remain thoughtful and leave grief-stricken.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Cosmic disorder accompanying a royal fall
+  taxonomy_refs:
+  - chaos
+  basis: The Earth trembles violently, the compass directions become murky, and the
+    surrounding narrative concerns the king's lamentations and fall.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage places the cosmic disturbance near the king's lamentations
+    and reported fall, but it does not explicitly state a causal relation.
+- id: motif:2
+  label: Messenger report of defeat after single combat
+  taxonomy_refs: []
+  basis: Messengers report the conduct of the mace-encounter and the fall of the king
+    to Drona's son.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives only the aftermath and report, not the details of the
+    combat itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: '20277'
+  quote_or_summary: The passage opens with a reference to the lamentations of the
+    king.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 20277-20280
+  quote_or_summary: The whole Earth, with forests, seas, and all mobile and immobile
+    creatures, trembles violently and makes a loud noise; all directions become murky.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 20280-20284
+  quote_or_summary: Messengers go to Drona's son and report everything about the mace-encounter
+    and the fall of the king.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 20284-20287
+  quote_or_summary: After making their report, the messengers remain thoughtful for
+    a long time and then go away grief-stricken to their place of origin.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied lines. Motif candidates are cautious
+    because the passage gives aftermath and omens but limited explicit interpretation.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only provided passage text and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l20277-l20287
+  passage_sha256=0bf6f3b19e83a1f89b457b0adb092eff64e081c2c54518a37eb9888c823c6cfb
+

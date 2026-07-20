@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l4651-l4672
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: THE  WILD  CAT  AND  THE  GAZELLE. / THE   CRAFTY   WOMAN   OVERREACHES   HERSELF.  87
+    / XXII. / HOW  THE   FETISH   SUNGA   PUNISHED   BASA.  89; lines 4651-4672
+  start: '4651'
+  end: '4672'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Then Sunga deprived him of the power of speech, that he might lie no more”"
+  summary: Basa is brought through a miraculously cleared riverbed to a town in a
+    great lake, welcomed with ceremony, fed by Sunga, and then deprived of speech
+    so that he can no longer lie.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: When the travelers enter the river, the waters dry up, the fish disappear,
+    and the riverbed becomes a road with obstacles removed for Basa.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the watershed, Basa sees a large and beautiful town in a great lake.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Many people meet Basa, welcome him warmly, lead him to a chair, and ask him
+    to sit; Basa is alarmed by the ceremony.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sunga lays a table before Basa, loads it with food and wine, and asks him
+    to eat and drink.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Basa is afraid and says that the smell of the feast alone has satisfied him;
+    after Sunga presses him, he eats and drinks all the wine.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Sunga deprives Basa of speech so that he may lie no more, tells him to depart
+    to his town, and afterward he can communicate his wants only by signs.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Basa
+  description: A male figure for whom the river road is cleared; he is welcomed, fed,
+    deprived of speech, and sent back to his town.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Sunga
+  description: A female figure identified in the title as a fetish; she provides food
+    and wine, presses Basa to eat and drink, and removes his power of speech.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Many people of the lake town
+  description: A group who meet Basa, welcome him warmly, and lead him to a chair.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ceremonially received visitor
+  assigned_to:
+  - fig:1
+  basis: Basa is welcomed, led to a chair, and offered a feast.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: host of the feast
+  assigned_to:
+  - fig:2
+  basis: Sunga sets out food and wine and asks Basa to eat and drink.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: punisher of lying
+  assigned_to:
+  - fig:2
+  basis: Sunga removes Basa’s power of speech so that he may lie no more.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: one punished by loss of speech
+  assigned_to:
+  - fig:1
+  basis: Basa is deprived of speech and afterward can make wants known only by signs.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: welcoming townspeople
+  assigned_to:
+  - fig:3
+  basis: The people meet Basa, welcome him, and lead him to a chair.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: opened waterway
+  literal_form: River waters drying up so the riverbed forms a road
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: town in the great lake
+  literal_form: A large and beautiful town seen in a great lake at the watershed
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ceremonial feast
+  literal_form: A table loaded with food and wine
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: loss of speech
+  literal_form: Basa’s power of speech removed, leaving him to communicate by signs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Riverbed becomes a road
+  summary: The waters dry, fish disappear, and the riverbed becomes an unobstructed
+    road for Basa.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival at the lake town
+  summary: Basa reaches the watershed, sees a town in the great lake, and is welcomed
+    by many people.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sunga’s feast
+  summary: Sunga presents Basa with food and wine; after initial fear and refusal,
+    he eats and drinks all the wine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Punishment and return
+  summary: Sunga removes Basa’s speech to prevent further lying, orders him home,
+    and he thereafter communicates only by signs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Miraculous water passage cleared as a road
+  taxonomy_refs: []
+  basis: The river dries, fish vanish, and obstacles are removed so that Basa can
+    travel without difficulty.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives no explicit explanation of who causes the river to dry
+    in this excerpt.
+- id: motif:2
+  label: Supernatural hospitality before punishment
+  taxonomy_refs: []
+  basis: Basa is ceremonially welcomed and fed by Sunga before Sunga punishes him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text does not state that the feast itself is a test; it only precedes
+    the punishment.
+- id: motif:3
+  label: Punishment by loss of speech for lying
+  taxonomy_refs:
+  - divine_judgment
+  basis: Sunga removes Basa’s speech explicitly so that he may lie no more.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Sunga is called a fetish rather than explicitly a deity in the supplied
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The punishment of Basa by Sunga has the same function as a divine-judgment
+    motif: a supernatural authority imposes a penalty for lying.'
+  claim_level: same_function
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage identifies Sunga as a fetish, not explicitly as a god or
+    formal judge; the comparison is functional and limited to this episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4653-4657
+  quote_or_summary: When the travelers step into the river, the waters dry, fish disappear,
+    the riverbed forms a road, and fallen trees are removed so Basa meets no difficulty.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4657-4661
+  quote_or_summary: At the watershed, Basa sees a large and beautiful town in the
+    great lake; many people welcome him, lead him to a chair, and he is alarmed by
+    the ceremony.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4663-4664
+  quote_or_summary: Sunga lays a table before Basa, loads it with food and wine, and
+    asks him to eat and drink.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 4665-4668
+  quote_or_summary: Basa remains afraid, says the feast’s smell alone has satisfied
+    him, then eats and drinks all the wine after Sunga presses him.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 4670-4672
+  quote_or_summary: "“Then Sunga deprived him of the power of speech, that he might
+    lie no more,” and he thereafter can make his wants known only by signs."
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear about the sequence of travel, hospitality, and punishment.
+    Motif classification is limited because only this excerpt and the supplied taxonomy
+    were used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used; no external parallels or unstated narrative context were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l4651-l4672
+  passage_sha256=f04b7877f1ad77e7d342f2e80d0f2060c50e420ab1c3d2d646d0bd7a8543f56d
+

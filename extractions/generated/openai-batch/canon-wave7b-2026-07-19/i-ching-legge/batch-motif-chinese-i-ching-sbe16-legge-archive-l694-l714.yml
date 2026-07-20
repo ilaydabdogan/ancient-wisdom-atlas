@@ -1,0 +1,210 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l694-l714
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: XIV PREFACE. / PREFACE. XV / XX PREFACE. / PREFACE. XXI; lines 694-714
+  start: '694'
+  end: '714'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“patiently pursuing his search for the meaning of the most difficult passages”"
+  summary: The preface describes a previous owner’s annotated copy, acknowledges the
+    writer’s debt to that owner and to the X au Yi Keh Kung imperial edition, and
+    praises the Khang-hsi editors for making interpretation of the Yi more systematic.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A previous owner is described as a ripe scholar who used a pencil in the course
+    of study.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The previous owner’s punctuation, interlineations, and marginal notes allowed
+    the writer to follow the owner’s search for difficult meanings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The writer states an obligation to the previous owner and to the X au Yi Keh
+    Kung, a great imperial edition first published in 1715.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The authors of the imperial edition are called the Khang-hsi editors by the
+    writer.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Khang-hsi editors’ discussions and decisions are said to help raise interpretation
+    of the Yi to a science.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The preface is dated at Oxford on 16 March 1882.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: previous owner
+  description: A prior owner of the book, described as a ripe scholar who marked the
+    text with pencil, punctuation, interlineations, and marginal notes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: preface writer
+  description: The first-person speaker who says he is under obligation to the previous
+    owner and to the imperial edition.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Khang-hsi editors
+  description: The authors of the X au Yi Keh Kung as named by the writer; their discussions
+    and decisions concern interpretation of the Yi.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: scholarly annotator
+  assigned_to:
+  - fig:1
+  basis: The previous owner is described as a scholar whose pencil marks and notes
+    record study of difficult passages.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: acknowledging interpreter
+  assigned_to:
+  - fig:2
+  basis: The first-person speaker acknowledges obligations to earlier scholarship
+    and editions.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: editorial interpreters
+  assigned_to:
+  - fig:3
+  basis: The Khang-hsi editors are credited with discussions and decisions about the
+    meaning of the Yi.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: scholarly marginalia
+  literal_form: punctuation, interlineations, and many marginal notes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: imperial edition
+  literal_form: the X au Yi Keh Kung, the great imperial edition of the present dynasty,
+    first published in 1715
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Following the annotations of a previous scholar
+  summary: The writer describes how the previous owner’s markings make it possible
+    to trace that owner’s study of difficult passages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Acknowledging editorial authorities
+  summary: The writer acknowledges debt to the imperial edition and identifies its
+    authors as the Khang-hsi editors, whose interpretive work is praised.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wisdom through textual interpretation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes patient pursuit of difficult meaning and systematic
+    editorial interpretation of the Yi.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is a preface about scholarship rather than a mythic narrative; the
+    motif label is limited to the passage’s explicit concern with interpretive wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 694-700
+  quote_or_summary: "“previous owner had been a ripe scholar” with “punctuation, interlineations,
+    and many marginal notes” used to follow his search for difficult meanings."
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 700-704
+  quote_or_summary: The writer says he is under great obligations to the previous
+    owner and to the X au Yi Keh Kung, described as the great imperial edition first
+    published in 1715.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 704-708
+  quote_or_summary: The writer calls the authors “the Khang-hsi editors” and says
+    their discussions and decisions “go far to raise the interpretation of the Yi
+    to a science.”
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 712-714
+  quote_or_summary: "“OxForD, 16th March, 1882.”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is tentative because
+    the passage is scholarly preface material, not a mythic episode. No comparison
+    claims are made because the passage does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological figures or narrative comparisons are present in the supplied passage; extraction focuses on scholarly roles, objects, and the wisdom-related interpretive pattern.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l694-l714
+  passage_sha256=c58b87e2b1498223631093b743eac347d3aeced4056e7023e932dc78f8133054
+

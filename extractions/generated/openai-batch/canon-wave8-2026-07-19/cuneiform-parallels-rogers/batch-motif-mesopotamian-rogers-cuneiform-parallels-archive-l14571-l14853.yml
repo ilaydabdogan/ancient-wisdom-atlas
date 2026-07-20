@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l14571-l14853
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: OTHER EARLY BABYLONIAN AND / ASSYRIAN RULERS1 / BABYLONIAN CHRONICLE 2X3
+    / II. ASSYRIAN; lines 14571-14853
+  start: '14571'
+  end: '14853'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary Assyrian chronicle/eponym list records annual entries naming
+    officials, kings, campaigns against lands and cities, several tablet breaks, two
+    movements of a “great god” connected with Der, repeated revolts, and a plague.
+  language: English with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is arranged as annalistic entries by year, often using the formula
+    “in the eponym year of” followed by an official or place.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: An early entry states that Shalmaneser, son of Ashurnasirpal, sat on the throne.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Many entries record campaigns or movements “against” named lands and cities,
+    including Rasappa, Danabi, Tabali, Melidi, Namri, Que, Urartu, Unki, Ullaba, Manna,
+    Media, Der, and Khubushkia.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: obs:4
+  text: The text explicitly notes breaks in the tablet and unintelligible remains.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In the 834 entry, the passage says that the great god went out from Der.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: In the 815 entry, the passage says that the great god went to Der.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The entries for 829 through 824 are summarized as repeated revolts.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The 803 entry records a campaign against the sea coast and mentions a plague.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The 810 entry names Adad-nirari as king of Assyria and records action against
+    Media.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Shalmaneser
+  description: Named as son of Ashurnasirpal and as having sat on the throne.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ashurnasirpal
+  description: Named as the father of Shalmaneser in the accession notice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The great god
+  description: An unnamed “great god” is said to go out from Der and later to go to
+    Der.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Adad-nirari
+  description: Named as king of Assyria in the 810 entry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Eponym officials and named officeholders
+  description: The passage lists annual eponyms, governors, commanders-in-chief, major-domos,
+    and other officials associated with yearly entries.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: Assyrian king
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: One figure is described as sitting on the throne; another is explicitly called
+    king of Assyria.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: royal father
+  assigned_to:
+  - fig:2
+  basis: Ashurnasirpal is named as the father of Shalmaneser in the accession notice.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine figure in movement to or from Der
+  assigned_to:
+  - fig:3
+  basis: The unnamed great god is twice described as moving in relation to Der.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: annual eponym or administrative officeholder
+  assigned_to:
+  - fig:5
+  basis: The chronicle repeatedly identifies years by named officials and offices.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: throne
+  literal_form: throne / kussi
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Der
+  literal_form: city of Der
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: great god
+  literal_form: unnamed great god
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: plague
+  literal_form: plague / mutanu
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Royal accession notice
+  summary: Shalmaneser, son of Ashurnasirpal, is reported to have sat on the throne.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eponym-year listing and campaigns
+  summary: The chronicle names annual officials and records campaigns against multiple
+    lands and cities.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Divine movement from Der
+  summary: During the 834 entry, the passage records action against Que and says the
+    great god went out from Der.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Divine movement to Der and royal campaign
+  summary: The 815 entry records action against Der and says the great god went to
+    Der; nearby entries include campaigns, and the 810 entry names Adad-nirari as
+    king of Assyria acting against Media.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Revolts and plague in the annual record
+  summary: A sequence of entries records repeated revolts, and a later entry mentions
+    a plague during a campaign toward the sea coast.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: royal accession and kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage records a royal son sitting on the throne and later names Adad-nirari
+    as king of Assyria.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage is annalistic and does not elaborate a mythic ideology of
+    kingship; the taxonomy assignment rests on the throne and explicit royal title.
+- id: motif:2
+  label: divine departure from a cult city
+  taxonomy_refs:
+  - departure
+  basis: The passage states that the great god went out from Der.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The god is unnamed, the cultic context is not explained, and the tablet
+    is fragmentary.
+- id: motif:3
+  label: divine return or arrival at a cult city
+  taxonomy_refs:
+  - return
+  basis: The passage states that the great god went to Der after an entry against
+    the city of Der.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The text does not explicitly call this a return; it only records movement
+    to Der.
+- id: motif:4
+  label: recurring rebellion in an annalistic sequence
+  taxonomy_refs: []
+  basis: The years 829 through 824 are repeatedly marked as revolt.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The entries are terse historical notices, not a developed mythic narrative.
+- id: motif:5
+  label: plague in a campaign record
+  taxonomy_refs: []
+  basis: The 803 entry combines action against the sea coast with the note of a plague.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The text gives no cause or theological interpretation for the plague.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14571-14853; accession notice near beginning of passage
+  quote_or_summary: "“Sulmanu-asaridu | mar Assur-nasir-aplu | ina kussi ...”; rendered
+    as Shalmaneser, son of Ashurnasirpal, sat on the throne."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 14571-14853; entries 853-848
+  quote_or_summary: The entries repeatedly use “in the eponym year of” and name officials
+    or places such as Shamash-abua of Nasibina, Shamash-bel-usur of Kalkha, Bel-bana,
+    Khadil-ebushu, Nergal-alik-makhri, and Bir-Ramana.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14571-14853; entries 842-836
+  quote_or_summary: After a tablet break, entries record campaigns against lands and
+    cities including Rasappa, Danabi, Tabali, Melidi, and Namri.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 14571-14853; tablet-break notes
+  quote_or_summary: "“A break in the tablet begins here” and later “A break in the
+    tablet, with only the scanty remains of portions of words, which are unintelligible.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 14571-14853; entry 834
+  quote_or_summary: "“Against the land of Que. Against the land of Que. The great
+    god went out from Der.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 14571-14853; entries 816-810
+  quote_or_summary: Entries include Sharpati-Bel against Zarati, Bel-balat against
+    Der with the great god going to Der, further campaigns, and “Adad-nirari, King
+    of Assyria. Against Media.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source text; summarized with a short phrase.
+- id: ev:7
+  type: summary
+  locator: lines 14571-14853; entries 829-824
+  quote_or_summary: The years 829, 828, 827, 826, 825, and 824 are each marked as
+    “a revolt.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 14571-14853; entries 809-792, especially 803
+  quote_or_summary: Entries continue with named officials and campaigns against Guzana,
+    Manna, Arpad, Khazazu, Balu, the sea coast, Khubushkia, Media, Lusia, Namri, Mancuate,
+    Der, and other places; the 803 entry notes a plague.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a fragmentary chronicle/eponym list with many broken or OCR-corrupted
+    forms. Literal extraction of annalistic events is moderately secure; mythic motif
+    assignment is limited because the text is terse and mostly historical-administrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare these entries with another tradition or motif family.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l14571-l14853
+  passage_sha256=ddb500818e87187fd12ffaa9afcbdbc7f11846cfdbfb3f9157e521bc449ef09c
+

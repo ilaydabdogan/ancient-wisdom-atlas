@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l37611-l37760
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION CXXII / SECTION CXXIII / SECTION CXXIV / FOOTNOTES; lines 37611-37760
+  start: '37611'
+  end: '37760'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The supplied passage consists of translator footnotes and textual notes.
+    Mythically relevant notes identify the Vaitarani as a fabulous river separating
+    this world from the next; gloss Aklishtakarman as divine action by fiat when applied
+    to Krishna or a divine personage; summarize Vishnu as the Three-stepped Lord becoming
+    Vamana/the dwarf to take Vali's dominions through a three-step request and cosmic
+    expansion; and mention a fabulous aquatic animal and a hawk-shaped form.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Vaitarani is described as a fabulous river separating this world from
+    the next.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The term Aklishtakarman is glossed as one who is not tired by actions and,
+    when applied to Krishna or any divine personage, as one acting by fiat without
+    ordinary means.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Vishnu, called the Three-stepped Lord, became Vamana or the dwarf in order
+    to take the Asura Vali's dominions.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In dwarf disguise, Vishnu asked Vali for three steps of land, and Vali gave
+    it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The dwarf expanded his form and covered the heavens and the earth with two
+    steps, leaving no space for the third step.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Vali was seized, bound as a promise-breaker, and sent to reside in the nether
+    regions.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note identifies a fabulous aquatic animal as resembling an alligator.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A note identifies a form as shaped like a hawk.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vishnu / Three-stepped Lord in Vamana form
+  description: Vishnu is described as becoming Vamana, the dwarf, asking for three
+    steps of land, then expanding to cover heaven and earth with two steps.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Asura Vali
+  description: Vali is the Asura whose dominions are taken; he grants the three steps
+    of land and is then seized, bound, and sent to the nether regions as a promise-breaker.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Krishna
+  description: Krishna is named as an example of a divine personage to whom the epithet
+    Aklishtakarman may apply.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Deity in dwarf disguise
+  assigned_to:
+  - fig:1
+  basis: The note says Vishnu became Vamana or the dwarf and was disguised in that
+    shape.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Cosmic strider and land-claimer
+  assigned_to:
+  - fig:1
+  basis: The dwarf asks for three steps of land and then expands to cover heaven and
+    earth with two steps.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Asura grantor of requested land
+  assigned_to:
+  - fig:2
+  basis: Vali gives the requested three steps of land.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Bound promise-breaker sent below
+  assigned_to:
+  - fig:2
+  basis: The note states that Vali was seized and bound as a promise-breaker and sent
+    to reside in the nether regions.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Divine exemplar of action by fiat
+  assigned_to:
+  - fig:3
+  basis: The note says Aklishtakarman, when applied to Krishna or any divine personage,
+    means one who does everything by fiat without ordinary means.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Vaitarani boundary river
+  literal_form: Fabulous river separating this world from the next
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Three steps of land
+  literal_form: Measured gift/request of three steps of land
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Dwarf form
+  literal_form: Vamana, the dwarf disguise of Vishnu
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Heavens and earth
+  literal_form: Cosmic spaces covered by two steps
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Nether regions
+  literal_form: Place where Vali is sent to reside
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Fabulous aquatic animal
+  literal_form: Aquatic animal resembling an alligator
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Hawk shape
+  literal_form: A form shaped like a hawk
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Afterlife boundary identified
+  summary: A footnote identifies the Vaitarani as a fabulous river separating this
+    world from the next.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vamana asks Vali for three steps
+  summary: Vishnu becomes the dwarf Vamana, asks the Asura Vali for three steps of
+    land, and Vali grants the request.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Cosmic expansion and Vali's removal
+  summary: The dwarf expands his form, covers the heavens and earth with two steps,
+    leaves no room for a third, and Vali is seized, bound, and sent to the nether
+    regions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Divine action by fiat glossed
+  summary: A footnote explains that Aklishtakarman can denote a divine personage,
+    such as Krishna, acting by fiat rather than ordinary means.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Boundary river between this world and the next
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The Vaitarani is explicitly described as a fabulous river separating this
+    world from the next.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage defines an afterlife boundary but does not narrate a journey
+    across it.
+- id: motif:2
+  label: Disguised deity obtains dominion through a small measured request
+  taxonomy_refs:
+  - shapeshifter
+  - sacred_theft
+  basis: Vishnu becomes the dwarf Vamana, asks Vali for three steps of land, and thereby
+    takes Vali's dominions after expanding cosmically.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The note is a compressed explanatory summary; it does not provide the
+    full narrative context or moral framing.
+- id: motif:3
+  label: Cosmic expansion measured in strides
+  taxonomy_refs:
+  - shapeshifter
+  basis: The dwarf expands his form and covers the heavens and the earth with two
+    steps.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No specific taxonomy entry for world-striding is supplied, so the taxonomy
+    reference is limited to the supported form-change element.
+- id: motif:4
+  label: Binding and netherworld removal after failed pledge
+  taxonomy_refs:
+  - divine_judgment
+  basis: After no space remains for the third step, Vali is seized, bound as a promise-breaker,
+    and sent to the nether regions.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The agent of seizure is not explicitly named in the footnote, though the
+    action follows the encounter with Vishnu/Vamana.
+- id: motif:5
+  label: Effortless divine action by fiat
+  taxonomy_refs: []
+  basis: Aklishtakarman is glossed, for Krishna or a divine personage, as doing everything
+    by fiat without dependence on ordinary means.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a lexical-theological gloss rather than a narrated mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: footnote 373 within lines 37611-37760
+  quote_or_summary: '"The Vaitarani is the fabulous river that separate this world
+    from the next."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public-domain Project Gutenberg text; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: footnote 385 within lines 37611-37760
+  quote_or_summary: '"When applied to Krishna or any divine personage it means one
+    who does everything by a fiat of his will, without being dependent on means like
+    ordinary persons."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public-domain Project Gutenberg text; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: footnote 388 within lines 37611-37760
+  quote_or_summary: '"The Three-stepped Lord, Vishnu became vamana or the dwarf for
+    robbing the Asura Vali of his dominions."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public-domain Project Gutenberg text; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: footnote 388 within lines 37611-37760
+  quote_or_summary: In dwarf disguise, Vishnu asks Vali for three steps of land; Vali
+    grants it; the dwarf expands and covers heaven and earth with two steps; Vali
+    is seized, bound as a promise-breaker, and sent to the nether regions.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public-domain Project Gutenberg text; summarized.
+- id: ev:5
+  type: quote
+  locator: footnote 391 within lines 37611-37760
+  quote_or_summary: '"A fabulous aquatic animal resembling an alligator."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public-domain Project Gutenberg text; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: footnote 392 within lines 37611-37760
+  quote_or_summary: '"Formed after the shape of the hawk."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public-domain Project Gutenberg text; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based only on supplied footnotes, not the full surrounding
+    epic narrative. Evidence locators cite footnote numbers because the supplied passage
+    does not provide line-by-line text markers internally. No comparison claims are
+    made beyond candidate taxonomy alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only mythic or symbolically relevant content present in the supplied footnotes was extracted; textual-variant notes without motif relevance were not modeled.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l37611-l37760
+  passage_sha256=c9738cecf12357738bdd1289c0b44b8d295731325b72d5b026d1fccabaee4926
+

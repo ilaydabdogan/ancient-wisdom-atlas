@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l409-l520
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: PART I / INTRODUCTION / COHTEN TS, / INTRODUCTION.; lines 409-520
+  start: '409'
+  end: '520'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A scholarly introduction discusses principles of translating the Rig-veda
+    and compares renderings of Rig-veda I.165. Within that discussion, it summarizes
+    an old legend cited from Brahmana texts: Agastya made offerings to the Maruts,
+    Indra seized them, the Maruts threatened Indra with lightning, and Agastya and
+    Indra pacified the Maruts with the hymn.'
+  language: English, with quoted German and Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the text under discussion as the 165th hymn of the
+    first Mandala.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the beginning verses are argued to belong to the poet, while
+    the rest of the hymn is distributed among the singer, the Maruts, and Indra according
+    to the Anukramani.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old legend says Agastya made offerings to the Maruts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old legend says Indra seized the offerings, with Agastya’s consent left
+    uncertain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The old legend says the Maruts tried to frighten Indra away with lightning.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The old legend says Agastya and Indra pacified the Maruts with the hymn.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A later lexical discussion in the passage connects the Maruts with being joined
+    with splendour.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Agastya
+  description: Named in the old legend as making offerings to the Maruts and later
+    pacifying them with Indra by means of the hymn.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Maruts
+  description: A divine group receiving Agastya’s offerings, threatening Indra with
+    lightning, and later being pacified; also included among the hymn speakers in
+    the discussion of verse distribution.
+  role_refs:
+  - role:2
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Indra
+  description: A deity included among the hymn speakers, said in the old legend to
+    seize the offerings and later pacify the Maruts with Agastya.
+  role_refs:
+  - role:3
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: poet/singer voice
+  description: Textual voice or voices to whom parts of the hymn are assigned in the
+    passage’s discussion of hymn attribution.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: maker of offerings
+  assigned_to:
+  - fig:1
+  basis: Agastya is said to have made offerings to the Maruts.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipients of offerings
+  assigned_to:
+  - fig:2
+  basis: The Maruts are named as the recipients of Agastya’s offerings.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seizer of offerings
+  assigned_to:
+  - fig:3
+  basis: Indra is said to have seized the offerings, with Agastya’s consent uncertain.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: lightning threateners
+  assigned_to:
+  - fig:2
+  basis: The Maruts are said to have tried to frighten Indra away with lightning.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: pacifiers
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Agastya and Indra are said to have pacified the Maruts with the hymn.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: hymn speakers
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage discusses assignment of hymn verses among the poet or singer,
+    the Maruts, and Indra.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: offerings
+  literal_form: Offerings made by Agastya to the Maruts and then seized by Indra.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lightning
+  literal_form: Lightning used by the Maruts in an attempt to frighten Indra away.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hymn
+  literal_form: The hymn used by Agastya and Indra to pacify the Maruts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: splendour
+  literal_form: Splendour with which the Maruts are said to be joined in the lexical
+    discussion.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Hymn voice distribution
+  summary: The passage reports a scholarly distribution of hymn verses among the poet
+    or singer, the Maruts, and Indra.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Offerings seized
+  summary: In the summarized old legend, Agastya offers to the Maruts, and Indra seizes
+    the offerings, with Agastya’s consent left uncertain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Lightning threat and hymn pacification
+  summary: The Maruts try to frighten Indra away with lightning, after which Agastya
+    and Indra pacify the Maruts with the hymn.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Ritual offering as divine transaction
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: Agastya makes offerings to the Maruts, and the offerings become the focus
+    of divine action and conflict.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief summary of the legend and does not describe
+    the ritual details.
+- id: motif:2
+  label: Seized sacred offering
+  taxonomy_refs:
+  - sacred_theft
+  basis: Indra seizes offerings intended for the Maruts, though the passage explicitly
+    leaves Agastya’s consent uncertain.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Because consent is uncertain, the action is best treated as seizure or
+    appropriation rather than definitely as theft.
+- id: motif:3
+  label: Divine conflict pacified by sacred hymn
+  taxonomy_refs: []
+  basis: The Maruts threaten Indra with lightning, and Agastya with Indra pacifies
+    them by means of the hymn.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family exactly names hymn-mediated pacification.
+- id: motif:4
+  label: Lightning as divine intimidation
+  taxonomy_refs: []
+  basis: The Maruts attempt to frighten Indra away with lightning.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The episode is summarized briefly and not elaborated as a full storm or
+    combat scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports that the same old legend about Agastya, Indra, the Maruts,
+    offerings, lightning, and pacification by hymn is quoted from both the Taittiriya
+    Brahmana and the Tandya Brahmana.
+  claim_level: same_motif
+  target: Taittiriya Brahmana II, 7, 11; Tandya Brahmana XXI, 14, 5
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only reports the Brahmana citations and summarizes the
+    legend; it does not reproduce the cited Brahmana passages directly.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 460-476
+  quote_or_summary: The author identifies the discussion as concerning the 165th hymn
+    of the first Mandala and discusses assigning its verses to the poet or singer,
+    the Maruts, and Indra.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 478-484
+  quote_or_summary: 'The passage says Ludwig quotes an old legend from Taittiriya
+    Brahmana II, 7, 11 and Tandya Brahmana XXI, 14, 5: Agastya made offerings to the
+    Maruts; Indra seized them with or without Agastya’s consent; the Maruts tried
+    to frighten Indra away with lightning; Agastya and Indra pacified the Maruts with
+    the hymn.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 508-512
+  quote_or_summary: The passage states that a phrase can mean being joined with splendour
+    and says this is applied to the Maruts in another cited Rigvedic passage.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extractable myth material is embedded in a secondary scholarly introduction
+    and is given as a concise summary of an old legend, not as a full narrative passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Non-mythological discussion of translation method and scholarly disagreement was not treated as motif evidence except where it supplies context for hymn attribution and the cited Agastya-Indra-Maruts legend.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l409-l520
+  passage_sha256=755f0215b5e96c2011ab84d5d0f316ddf03df1e35df2607a1e5143f42cbdbfd5
+

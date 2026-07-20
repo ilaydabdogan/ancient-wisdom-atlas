@@ -1,0 +1,518 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l5321-l5380
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: THE FISHERMAN AND HIS SONS. / MAHISTRUBA, THE MASTER MARINER. / DRAGON. /
+    EZKABI-FIDEL.; lines 5321-5380
+  start: '5321'
+  end: '5380'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A young lady imposes night-long tasks on male visitors: one cannot keep
+    his washed feet clean, and her husband cannot keep a light extinguished. At daybreak
+    she reveals herself as the wife he forgot after leaving to fetch a priest. She
+    says he and his friends have done enough penance, sends him for a priest, is baptized,
+    and goes with him to his country, where she creates a palace and garden by touching
+    the earth with her stick. They live happily and die well.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A young lady tells a man to wash his feet in water in a big copper before
+    coming to bed.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Each time the man washes one foot, the other foot becomes black and dirty
+    again, keeping him occupied until daylight.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The young lady tells the man at daylight that she cannot remain in bed because
+    people will begin to come.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The husband is served supper and goes to the young lady's room when it is
+    time for bed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The young lady tells the husband to put out the light, but it lights again
+    each time he extinguishes it, and he spends the night unable to put it out.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: At daylight the young lady asks whether he recognizes her and recalls leaving
+    his wife to fetch a priest.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The husband says he has only now remembered and attributes his forgetting
+    to an old aunt kissing him twice without his knowing it.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The young lady says the husband and his friends have done enough penance and
+    that the friends did not sleep with her.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The young lady instructs the husband to go to his country and bring a priest
+    to baptize her, after which they will go to his country.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The husband returns with the priest, she is baptized, and they set out for
+    his country.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: After arriving, she touches the earth with her stick and commands that a beautiful
+    palace with needed contents and a garden appear.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The palace and garden appear immediately, and the couple live richly and happily
+    with the lad's old mother before dying well.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: young lady / wife
+  description: A woman who sets the night tasks, reveals herself as the husband's
+    wife, asks to be baptized, and later creates a palace and garden with a stick.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:9
+  - ev:11
+- id: fig:2
+  name_or_label: man washing his feet
+  description: A male visitor told to wash his feet before bed; he cannot finish because
+    the washed feet become dirty again.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: husband
+  description: The young lady's husband; he fails to put out the relighting lamp,
+    remembers his wife at daybreak, fetches a priest, and returns with her to his
+    country.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: priest
+  description: A priest brought by the husband to baptize the young lady.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: old aunt
+  description: A woman whom the husband says kissed him twice without his knowing
+    it, which he gives as the reason he forgot his wife.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: friends
+  description: The husband's friends, described by the young lady as having done penance;
+    one spent the night getting powder out of his head, and another spent the night
+    washing his feet.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: old mother of the lad
+  description: The lad's old mother, with whom the couple live richly and happily.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: setter of night-long tasks
+  assigned_to:
+  - fig:1
+  basis: She instructs the men to wash their feet or put out the light, resulting
+    in tasks that last until daybreak.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: forgotten wife
+  assigned_to:
+  - fig:1
+  basis: She identifies herself by asking whether the husband remembers leaving his
+    wife to fetch a priest.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: maker of palace and garden
+  assigned_to:
+  - fig:1
+  basis: She touches the earth with her stick and commands a palace and garden to
+    appear.
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: role:4
+  label: penitent visitor
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The foot-washing man is delayed all night, and the young lady later calls
+    the friends' ordeals penance.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:5
+  label: remembering husband
+  assigned_to:
+  - fig:3
+  basis: At daybreak he remembers that he had a wife after she prompts him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: fetcher of priest
+  assigned_to:
+  - fig:3
+  basis: He is told to bring a priest and then returns with one.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:7
+  label: baptizer
+  assigned_to:
+  - fig:4
+  basis: The priest is brought so that he shall baptize the young lady, and she is
+    baptized after the husband returns with him.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:8
+  label: cause named for forgetting
+  assigned_to:
+  - fig:5
+  basis: The husband says his old aunt kissed him twice without his knowing it, explaining
+    why he had forgotten his wife.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: household elder
+  assigned_to:
+  - fig:7
+  basis: The final household includes the old mother of the lad.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: washing water in big copper
+  literal_form: water in a big copper used for foot washing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: feet that become dirty again
+  literal_form: feet that turn black and dirty after being washed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: self-relighting light
+  literal_form: a light that lights again whenever the husband puts it out
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: baptism
+  literal_form: baptism performed by a priest
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:5
+  label: stick touching earth
+  literal_form: the young lady's stick touching the earth before a spoken command
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: created palace and garden
+  literal_form: a beautiful palace with everything needed inside it and a garden before
+    the house
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+scenes:
+- id: scene:1
+  label: Foot-washing ordeal
+  summary: The young lady orders a man to wash his feet before bed; the task cannot
+    be completed because each washed foot becomes dirty again, and the night passes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Husband's relighting-lamp ordeal and recognition
+  summary: The husband is told to put out the light, but it relights through the night;
+    at daylight the young lady reveals that she is his wife, and he remembers her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Penance declared complete and baptism requested
+  summary: The young lady says the husband and friends have done enough penance and
+    instructs the husband to bring a priest to baptize her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:4
+  label: Return and creation of dwelling
+  summary: After the baptism, the couple go to the husband's country, where the young
+    lady touches the earth with her stick and causes a palace and garden to appear;
+    they live happily with the lad's old mother.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: night-long impossible tasks as penance before reunion
+  taxonomy_refs:
+  - initiation
+  basis: The visitors and husband are subjected to tasks that last the night, and
+    the young lady explicitly describes these ordeals as sufficient penance.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage gives only the end of a larger tale, so the full function
+    of the ordeals requires review against surrounding context.
+- id: motif:2
+  label: forgotten spouse recognized after enchantment-like forgetfulness
+  taxonomy_refs: []
+  basis: The husband fails to recognize his wife until she reminds him; he says he
+    had been as if he had never had a wife and blames the forgetting on his old aunt's
+    kisses.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage reports the husband's explanation but does not directly describe
+    the earlier event or its mechanism beyond his speech.
+- id: motif:3
+  label: baptism enabling departure to husband's country
+  taxonomy_refs:
+  - return
+  basis: The young lady requires the husband to fetch a priest to baptize her before
+    they go to his country, and after baptism they set out there.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The religious or social meaning of the baptism is not explained in this
+    passage.
+- id: motif:4
+  label: magic creation of palace and garden by spoken command
+  taxonomy_refs: []
+  basis: On arrival, the young lady touches the earth with her stick and commands
+    a palace and garden to exist; the narration says it is done immediately.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: No available taxonomy reference directly matches this palace-creation
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5321-5326
+  quote_or_summary: The young lady tells the man that before bed he must wash his
+    feet using water in a big copper.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5327-5331
+  quote_or_summary: As he washes one foot, the other becomes black and dirty again,
+    and the repeated washing lasts a long time.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5331-5339
+  quote_or_summary: At daybreak the young lady says he did not come before day and
+    that people will begin to come; the young man withdraws.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5339-5343
+  quote_or_summary: It becomes the husband's turn; he is served supper and goes with
+    the young lady to her room at bedtime.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5343-5350
+  quote_or_summary: The young lady tells him to put out the light; each time he does,
+    it lights again, and he spends all night unable to extinguish it.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 5350-5353
+  quote_or_summary: '"You do not know me then? You do not remember how you left your
+    wife to go and fetch a priest?"'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source.
+- id: ev:7
+  type: summary
+  locator: lines 5354-5360
+  quote_or_summary: The husband says he now remembers, was formerly as if he had never
+    had a wife, and says his old aunt kissed him twice without his knowing it.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5361-5366
+  quote_or_summary: The young lady says he is now there, that he and his friends have
+    done enough penance, and that the friends did not sleep with her.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 5366-5369
+  quote_or_summary: '"At present you must go into your country, and you must get a
+    priest. He shall baptize me, and then we will go into your country."'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source.
+- id: ev:10
+  type: summary
+  locator: lines 5371-5373
+  quote_or_summary: The husband returns with the priest, she is baptized, and they
+    set out for his country.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: lines 5373-5377
+  quote_or_summary: She touched the earth with her stick and commanded a beautiful
+    palace with everything needed inside it and a beautiful garden before the house.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source.
+- id: ev:12
+  type: summary
+  locator: lines 5378-5380
+  quote_or_summary: As soon as it is said, it is done; they live richly and happily
+    with the lad's old mother and die well.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied passage. Motif labels are cautious
+    because the passage is the end of a larger tale and gives limited prior context.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and only where directly supportable.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l5321-l5380
+  passage_sha256=e497465e2adcbaef96405cc7899f1c1b51bba309be9821da8f5307235d063334
+

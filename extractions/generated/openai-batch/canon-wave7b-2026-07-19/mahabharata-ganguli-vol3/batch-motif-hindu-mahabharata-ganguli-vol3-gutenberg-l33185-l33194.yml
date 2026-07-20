@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l33185-l33194
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION LXXXVIII / SECTION LXXXIX / SECTION XC / SECTION XCI; lines 33185-33194
+  start: '33185'
+  end: '33194'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that when a king fails to protect himself and his subjects,
+    destruction comes first upon the subjects and then upon the king. It describes
+    escalating theft, sexual violation of maidens, and the end of property rights
+    as consequences of the king’s faults and abandonment of righteousness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: If the king does not take measures for his own safety and does not protect
+    his subjects, the subjects are destroyed first and destruction then reaches the
+    king.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two persons acting together snatch the wealth of one person.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Many persons acting together rob the two.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Maidens are deflowered.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The described state of affairs is attributed to the king's faults.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: All rights of property among men end when the king abandons righteousness
+    and acts heedlessly.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: A ruler whose failure to seek safety, protect subjects, and maintain
+    righteousness is linked to social disorder.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: subjects
+  description: The king's subjects, described as meeting with destruction before destruction
+    reaches the king.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: cooperating plunderers
+  description: Persons who combine together to seize wealth, including two who rob
+    one and many who rob the two.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: maidens
+  description: Maidens who are described as being deflowered in the state of disorder.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: men with property rights
+  description: Men among whom all rights of property come to an end.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: heedless unrighteous ruler
+  assigned_to:
+  - fig:1
+  basis: The king is described as failing to protect and as abandoning righteousness
+    and acting heedlessly.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: unprotected subjects
+  assigned_to:
+  - fig:2
+  basis: The subjects suffer destruction when the king does not protect them.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: collective robbers
+  assigned_to:
+  - fig:3
+  basis: The passage describes people combining together to snatch wealth and rob
+    others.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: violated maidens
+  assigned_to:
+  - fig:4
+  basis: The passage states that maidens are deflowered.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: property-rights holders affected by disorder
+  assigned_to:
+  - fig:5
+  basis: The passage says all property rights among men come to an end.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Social disorder caused by failed kingship
+  summary: The king fails to protect and abandons righteousness; subjects are destroyed,
+    the king is overtaken by destruction, theft escalates through collective action,
+    maidens are violated, and property rights collapse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Social chaos from failed kingship
+  taxonomy_refs:
+  - chaos
+  basis: The passage links the king's failure and faults to destruction, robbery,
+    sexual violation, and the end of property rights.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a didactic political statement rather than a developed
+    mythic narrative scene.
+- id: motif:2
+  label: Righteous kingship as condition of social order
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king's protection of subjects and adherence to righteousness are presented
+    as necessary to prevent social collapse.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe succession, coronation, or formal legitimation;
+    the motif is inferred only from the stated relation between royal righteousness
+    and social order.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 33185-33188
+  quote_or_summary: '"If the king does not take measures for his own safety and does
+    not protect his subjects, the latter first meet with destruction and then destruction
+    seizes the king himself."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 33188-33190
+  quote_or_summary: '"Two persons combining together snatch the wealth of one, and
+    many acting in concert rob the two."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: quote
+  locator: line 33190
+  quote_or_summary: '"Maidens are deflowered."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 33190-33193
+  quote_or_summary: The passage states that such a state arises from the king's faults
+    and that property rights end when the king abandons righteousness and acts heedlessly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; summarized from public domain source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied lines. Motif labels
+    are candidate classifications based on the passage's political-ethical pattern.
+    No comparison claims were made because the passage itself does not compare traditions
+    or explicitly invoke a broader corpus pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol is directly present in the passage; symbols were therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l33185-l33194
+  passage_sha256=dda4a9671df9100446b5b54ad9fcfa4153154230f11a6eb6933a4fb17a121902
+

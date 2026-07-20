@@ -1,0 +1,175 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l746-l833
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: THE PRAISERS OF RA / I I I I / ADDRESS OF RA TO THE GODS / A.WSAA,; lines
+    746-833
+  start: '746'
+  end: '833'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ADDRESS OF RA TO THE GODS
+  summary: The passage is a section containing a heading that identifies an address
+    by Ra to gods, with the locator label also identifying “The Praisers of Ra.” Most
+    of the supplied passage consists of hieroglyphic/OCR sign layout and fragmentary
+    transliteration, including “A.WSAA,” rather than continuous translated prose.
+  language: English heading with Egyptian transliteration/hieroglyphic-OCR transcription
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The supplied locator labels the section as “THE PRAISERS OF RA.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contains the heading “ADDRESS OF RA TO THE GODS.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage includes the string “A.WSAA,” after the heading material.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Most of the passage is presented as hieroglyphic or OCR sign layout rather
+    than continuous English translation.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ra
+  description: Named in the heading as the figure whose address is directed to the
+    gods.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the gods
+  description: Collective divine recipients named in the heading of Ra’s address.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Praisers of Ra
+  description: Group identified in the supplied passage locator as “THE PRAISERS OF
+    RA.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine speaker or addresser
+  assigned_to:
+  - fig:1
+  basis: The heading states that the passage is an address of Ra.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine addressees
+  assigned_to:
+  - fig:2
+  basis: The heading states that the address is directed to the gods.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: praising group
+  assigned_to:
+  - fig:3
+  basis: The locator identifies a group as “THE PRAISERS OF RA.”
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Ra addresses the gods
+  summary: A section heading identifies a speech or address by Ra directed to the
+    gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Praisers of Ra section
+  summary: The supplied locator identifies the passage as belonging to a section titled
+    “THE PRAISERS OF RA.”
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: deity addressing a divine group
+  taxonomy_refs: []
+  basis: The passage heading identifies an address by Ra to the gods.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The supplied passage does not preserve a continuous translated speech,
+    so the content and function of the address cannot be extracted.
+- id: motif:2
+  label: praise of Ra
+  taxonomy_refs: []
+  basis: The supplied locator labels the passage as “THE PRAISERS OF RA.”
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage text itself is mostly OCR/hieroglyphic layout; details of
+    the praise are not available in the supplied excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: passage locator label; lines 746-833
+  quote_or_summary: The supplied locator labels the section “THE PRAISERS OF RA /
+    I I I I / ADDRESS OF RA TO THE GODS / A.WSAA.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; concise citation from provided metadata.
+- id: ev:2
+  type: quote
+  locator: lines 746-833
+  quote_or_summary: ADDRESS OF RA TO THE GODS
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 746-833
+  quote_or_summary: A.WSAA,
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 746-833
+  quote_or_summary: The body of the supplied passage is largely hieroglyphic/OCR sign
+    layout and fragmentary sign strings, not continuous translated prose.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; neutral summary of supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited because the passage contains headings and OCR/hieroglyphic
+    layout but no continuous translated narrative or speech content. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the supplied passage does not clearly attest any listed symbol. No comparative claims were generated.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l746-l833
+  passage_sha256=d885b3c427d4ec9cd86da86d87d3d3efccee56d23fb841d8b88f73bf23833c87
+

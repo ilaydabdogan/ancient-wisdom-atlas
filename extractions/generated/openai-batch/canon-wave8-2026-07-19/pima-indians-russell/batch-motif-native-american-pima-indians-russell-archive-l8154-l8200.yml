@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l8154-l8200
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: MUSICAL INSTRUMENTS / SCRAPING STICK / RATTLES / MUSICAL INSTRUMENTS; lines
+    8154-8200
+  start: '8154'
+  end: '8200'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a ceremony involving sung services, rewards, and
+    reciprocal visit etiquette; Pima and Papago entertainment exchanges; and athletic
+    practices, especially foot races and a women’s stick-and-double-ball goal game.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When many people participate in the ceremony, its performance may consume
+    nearly the entire day.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When some resident villagers are destitute, only the names of villagers with
+    plentiful crops are used.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Visitors provide singing services, receive substantial rewards, and are expected
+    by etiquette to receive a return visit within a reasonable time.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Papagos come to entertain the Pimas; the Pimas receive them cordially
+    but rarely return the visits, so the gifts are described as more like barter exchanges
+    favoring the Papagos.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Pima men received training in speed and endurance during raids into Apache
+    country, but few sports for physical improvement are mentioned apart from foot
+    races.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In one kind of contest, a woman throws a double ball with a long stick while
+    a man keeps a kicking ball before him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Women seldom ran in foot races, but outdoor tasks kept them physically fit,
+    and they had an athletic running game.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: In the women’s game, two of the swiftest women choose two groups, and two
+    goals are fixed about 400 yards apart, identified in the example as a trail and
+    a mesquite.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The ball is tossed up, propelled with sticks toward the opponent’s goal, and
+    the game is won when it is driven beyond the goal.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Touching the ball with the hands disqualifies the player from further play.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage states that the women’s game was abandoned about 1885.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The figure caption identifies an alder stick and a double ball.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: resident villagers
+  description: Villagers whose names may be used in the ceremony, with destitute villagers
+    excluded when only names of those with plentiful crops are used.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: visitors as singers
+  description: Visitors who provide singing services and receive substantial rewards.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Papagos
+  description: Nomadic Papagos who come to give the Pimas entertainment and whose
+    visits are rarely returned by the Pimas.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Pimas
+  description: People who receive Papago visitors cordially and rarely return visits
+    to Papagueria; they are also the group whose men and women’s sports are described.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: men runners and contestants
+  description: Men trained in speed and endurance and participated in foot races or
+    kicking-ball contests.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: women players
+  description: Women who sometimes contest against men and who play an athletic running
+    game using sticks and a ball.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: two swiftest women runners
+  description: Two women runners who act as leaders and choose players into two groups.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ceremonial name subjects
+  assigned_to:
+  - fig:1
+  basis: The passage says names of villagers with plentiful crops are used in the
+    ceremony when some residents are destitute.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: visiting entertainers or singers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Visitors provide singing services; Papagos come to give the Pimas entertainment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: rewarded exchange partners
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Visitors receive substantial rewards, and Papago visits are associated with
+    gifts described as barter-like exchanges.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: hosts and rare reciprocal visitors
+  assigned_to:
+  - fig:4
+  basis: The Pimas receive Papagos cordially but seldom return visits, with only two
+    name-song visits to Suijotoa in fifty years.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: runners and trained athletes
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage describes men’s speed and endurance training and women’s running-related
+    athletic activity.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: team leaders and selectors
+  assigned_to:
+  - fig:7
+  basis: Two of the swiftest women runners act as leaders and choose players alternately
+    into groups.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: ball-game contestants
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage describes men and women using balls in contests, including the
+    women’s stick-propelled ball game.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: ceremonial names
+  literal_form: Names of villagers with plentiful crops used in the ceremony.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: singing service or name song
+  literal_form: Visitors’ services as singers and the Pimas’ name song visits in Papagueria.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: gifts and rewards
+  literal_form: Substantial rewards to visitors and gifts described as barter-like
+    exchanges.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: double ball
+  literal_form: A double ball thrown by women with a long stick; also identified in
+    the figure caption.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: stick or alder stick
+  literal_form: A long stick used to throw the double ball; the caption identifies
+    an alder stick.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:6
+  label: kicking ball
+  literal_form: A ball kept before a male contestant by kicking.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: goals marked by trail and mesquite
+  literal_form: Two goals about 400 yards apart, described by players as the trail
+    and a mesquite.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ceremonial singing, rewards, and reciprocal visit etiquette
+  summary: A ceremony may last most of a day; visitors provide singing services and
+    receive rewards, and etiquette requires a later return visit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pima-Papago entertainment exchange
+  summary: Papagos visit the Pimas to provide entertainment; the Pimas receive them
+    cordially but rarely reciprocate, making the gifts resemble barter exchanges.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Training and mixed ball contest
+  summary: Men’s running ability is linked to raiding training and foot races; a mixed
+    contest is described in which a woman throws a double ball with a stick while
+    a man kicks a ball.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Women’s stick-and-double-ball goal game
+  summary: Women leaders select teams, goals are set about 400 yards apart, the ball
+    is propelled with sticks toward the opposing goal, hand contact disqualifies a
+    player, and the game is said to have ended about 1885.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: reciprocal ceremonial service and gift exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes visitors providing singing services, receiving rewards,
+    and being owed a return visit; Papago-Pima entertainment visits are described
+    as involving gift exchanges resembling barter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is ethnographic and does not explicitly call the exchange
+    sacred; the taxonomy alignment is based on ceremonial context and reciprocal exchange
+    structure.
+- id: motif:2
+  label: competitive goal game using stick-propelled ball
+  taxonomy_refs: []
+  basis: The passage gives a structured account of a women’s game with leaders, teams,
+    goals, sticks, a ball, a winning condition, and a rule barring hand contact.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a social or athletic pattern rather than a mythological motif.
+- id: motif:3
+  label: gendered parallel ball contest
+  taxonomy_refs: []
+  basis: A contest is described in which a woman uses a long stick to throw a double
+    ball while a man keeps a kicking ball before him.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief description and does not state a ritual
+    or mythic meaning.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison between Pima and Papago entertainment
+    or name-song visiting practices, since Papagos visit the Pimas to entertain them
+    and the Pimas are said to have sung the name song in Papagueria on rare occasions.
+  claim_level: same_function
+  target: Pima-Papago visiting entertainment and name-song exchange practice
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: 'The comparison is limited to a single ethnographic passage and is
+    asymmetrical: the Pimas rarely returned Papago visits, and the exchange is described
+    as barter-like rather than fully reciprocal.'
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8154-8162
+  quote_or_summary: Ceremony with many participants can take nearly all day; names
+    of prosperous villagers may be used; visitors provide singing services, receive
+    rewards, and should receive a return visit within a reasonable time.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8163-8171
+  quote_or_summary: Nomadic Papagos come to entertain the Pimas; return visits are
+    rare, gifts are described as barter-like exchanges favoring the Papagos, and the
+    Pimas have sung the name song in Papagueria only twice in fifty years, both visits
+    to Suijotoa.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8172-8184
+  quote_or_summary: 'The passage introduces athletic sports: men’s speed and endurance
+    training, foot races, an occasional woman-versus-man contest using different balls,
+    and women’s physical fitness and running game.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8185-8193
+  quote_or_summary: Two swift women leaders choose players into two groups; goals
+    are fixed about 400 yards apart, with example goal references to a trail and a
+    mesquite, and two lines are formed about 25 yards apart.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8194-8199
+  quote_or_summary: The ball is tossed up and thrown with sticks toward the opponent’s
+    goal; driving it beyond the goal wins, touching it with the hands bars further
+    play, and the game was abandoned about 1885.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: figure caption near lines 8191-8195
+  quote_or_summary: "“Fig. 86. a, Alder stick; b, double ball.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an ethnographic description of ceremony, exchange, and sport
+    rather than a myth narrative. OCR artifacts and the uncertain game title were
+    not normalized beyond cautious summary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage label mentions musical instruments, but the actual passage text chiefly concerns ceremony, Papago-Pima visiting exchanges, and athletic games. The game title appears with OCR corruption and was not used as a stable label.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l8154-l8200
+  passage_sha256=49c5f2685481b770d01a3bfe124c8bfdc1ccf675f31cd12aad15ac8295cc9e1b
+

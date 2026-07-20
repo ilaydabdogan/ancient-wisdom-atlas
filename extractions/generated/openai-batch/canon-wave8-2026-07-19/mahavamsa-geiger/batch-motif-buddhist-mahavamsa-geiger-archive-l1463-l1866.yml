@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l1463-l1866
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: Y. M. D. / XXXVM / Y. M. D. / Y. M. D.; lines 1463-1866
+  start: '1463'
+  end: '1866'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a chronological table rather than a narrative episode. It
+    lists numbered ruler names or ruling entries, cross-references to Dip. and Mah.
+    passages, lengths of reign, Buddhist Era ranges, and Christian Era ranges, with
+    brief footnotes on manuscript or chronological variants.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as a table with headings for number, name, Dip.,
+    Mah., length of reign, Buddhist Era, Christian Era, and Y. M. D. subdivisions.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The table associates named ruler entries with regnal lengths and chronological
+    ranges in Buddhist Era and Christian Era columns.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: The early portion of the table includes Devanampiyatissa followed by entries
+    including Uttiya, Vlahasiva, Suratissa, Sena, Guttika, and other ruler names.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The middle portion of the table includes Vattagamani, the Five Damilas, named
+    short-reign entries such as Pulahattha, Bahiya, Panayamava, Pilayamava, and Dathika,
+    and then another Vattagamani entry followed by additional rulers.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The later portion lists Anula followed by Kutakannatissa, Bhatikabhaya, Mahadathikamaha-naga
+    as printed in fragmented form, Amandagamani, Kanirajanutissa, Culabhaya, Slvali,
+    and an interregnum entry.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Two footnotes comment on chronological figures, including a Burmese manuscript
+    variant of twelve years and a cross-reference to Nik. samgr. 1014.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Devanampiyatissa
+  description: Listed as entry no. 6 in the chronological table with a forty-year
+    reign and associated Buddhist Era and Christian Era ranges.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Vattagamani
+  description: Listed in the chronological table in more than one entry, including
+    one before the Five Damilas and another after Dathika.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Five Damilas
+  description: Listed as a collective ruling entry following Vattagamani in the table.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Anula
+  description: Listed in the table near entries for Niliya and Kutakannatissa, with
+    numerical reign data in adjacent columns.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Other named ruler entries in the table
+  description: Additional names in the table include Uttiya, Vlahasiva, Suratissa,
+    Sena, Guttika, Saddhatissa, Thulathana, Lanjatissa, Khallatanaga, Pulahattha,
+    Bahiya, Panayamava, Pilayamava, Dathika, MahaculiMahatissa, Coranaga, Tissa, Siva,
+    Vatuka, Darubhatikatissa, Niliya, Kutakannatissa, Bhatikabhaya, Amandagamani,
+    Kanirajanutissa, Culabhaya, and Slvali, along with several OCR-fragmented names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: ruler or regnal-table entry
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: The names appear under the table's name column alongside reign lengths and
+    chronological ranges.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: collective ruling entry
+  assigned_to:
+  - fig:3
+  basis: The table lists the Five Damilas as a named entry with reign data.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Chronological ruler table
+  summary: The passage presents a tabular chronology of rulers and ruling groups,
+    correlating names with source references, reign durations, and date ranges. It
+    contains no narrative action, ritual episode, or symbolic scene.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1463-1866; table headings
+  quote_or_summary: The passage is a table headed by columns for number, name, Dip.,
+    Mah., length of reign, Buddhist Era, Christian Era, and Y. M. D. subdivisions.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:2
+  type: summary
+  locator: 1463-1866; early table rows
+  quote_or_summary: Early rows list Devanampiyatissa with a forty-year reign and subsequent
+    entries including Uttiya, Vlahasiva, Suratissa, Sena, Guttika, and other names
+    with regnal numbers and date data.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:3
+  type: summary
+  locator: 1463-1866; middle table rows
+  quote_or_summary: Middle rows list Vattagamani, the Five Damilas, Pulahattha, Bahiya,
+    Panayamava, Pilayamava, Dathika, another Vattagamani entry, MahaculiMahatissa,
+    Coranaga, Tissa, Siva, Vatuka, Darubhatikatissa, Niliya, and Anula.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:4
+  type: summary
+  locator: 1463-1866; later table rows
+  quote_or_summary: Later rows list Kutakannatissa, Bhatikabhaya, a fragmented Mahadathikamaha-naga
+    entry, Amandagamani, Kanirajanutissa, Culabhaya, Slvali, and an interregnum entry
+    with reign and date data.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:5
+  type: summary
+  locator: 1463-1866; footnotes
+  quote_or_summary: Footnotes state that Burmese manuscripts give only twelve years
+    in one case and refer to the same figure in Nik. samgr. 1014.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain according to supplied source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a fragmented OCR-like chronological table, so extraction of
+    names and row relationships needs review. No symbolic, mythic, or comparative
+    motif claim is supported by the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs or motif family refs were assigned because the passage is a regnal chronology table and does not present narrative motifs or symbolic objects from the available taxonomy.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l1463-l1866
+  passage_sha256=f4b0627efbd577fe4b5cce6abe26dba406f39a20ff029675a9532f3cf1b803a3
+

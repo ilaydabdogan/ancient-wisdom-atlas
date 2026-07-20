@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.hermetic-mead-thrice-greatest-hermes-archive-v1-l8058-l8091
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+passage_locator:
+  label: A PROTOTYPE OF THE POSMANDRES' COSMOGONY 131 / A PROTOTYPE OF THE PCEMANDRES'
+    COSMOGONY 135 / THAT OF ITS PROTOTYPE / A PROTOTYPE OF THE PCEMANJDRES' COSMOGONY
+    137; lines 8058-8091
+  start: '8058'
+  end: '8091'
+  translation: 'Thrice-Greatest Hermes, Vol. I: Prolegomena'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Mino'ides Mynas's discovery of a manuscript on Mount
+    Athos, the loss of several books from the work, the contents of the missing books
+    concerning Egyptian and Chaldaean doctrines and mysteries, Hippolytus's claim
+    to have divulged mysteries and secrets, and the author's suggestion that the missing
+    portions may indicate deliberate removal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mino'ides Mynas, described as a learned Greek sent by the French Government
+    on a literary mission, discovered a manuscript in one of the monasteries on Mount
+    Athos.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The manuscript is described as the only manuscript possessed of the work and
+    as generally ascribed to the fourteenth century.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The work was originally in ten books, but the first three books and the beginning
+    of the fourth are missing from the manuscript.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The first book had already been known, had previously been erroneously ascribed
+    to Origen, and was prefixed by Emmanuel Miller to the editio princeps of the work.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The missing Books II and III are said to have dealt respectively with the
+    doctrines and mysteries of the Egyptians and the Chaldaeans.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hippolytus is said to boast that he has divulged their mysteries and the secrets
+    of Christian mystics whom he stigmatizes as heretics.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The books in which the divulging of mysteries was attempted are described
+    as missing, and their summaries are also omitted from the epitome at the beginning
+    of Book X.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The author states that the pattern of omission seems almost to point to deliberate
+    removal.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mino'ides Mynas
+  description: A learned Greek sent on a literary mission by the French Government;
+    he discovered the manuscript on Mount Athos.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: French Government
+  description: The body that sent Mino'ides Mynas on a literary mission.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Emmanuel Miller
+  description: The editor who prefixed the already known first book to the editio
+    princeps of the work at Oxford in 1851.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Hippolytus
+  description: A writer said to boast in the Prooemium that he divulged mysteries
+    and secrets and devoted Books V-IX to Christian mystics whom he stigmatized as
+    heretics.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Egyptians
+  description: A collective group whose doctrines and mysteries were the subject of
+    missing Book II.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Chaldaeans
+  description: A collective group whose doctrines and mysteries were the subject of
+    missing Book III.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Christian mystics stigmatized as heretics
+  description: A collective group whose secrets Hippolytus is said to have divulged
+    and to whom he devoted Books V-IX.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: manuscript discoverer
+  assigned_to:
+  - fig:1
+  basis: Mino'ides Mynas is explicitly said to have discovered the manuscript on Mount
+    Athos.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mission sponsor
+  assigned_to:
+  - fig:2
+  basis: The French Government is said to have sent Mynas on a literary mission.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: editor of the first printed edition
+  assigned_to:
+  - fig:3
+  basis: Emmanuel Miller is named in connection with the editio princeps and the prefixed
+    first book.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divulger of mysteries and secrets
+  assigned_to:
+  - fig:4
+  basis: Hippolytus is said to boast that he has divulged mysteries and secrets.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: subjects or holders of mysteries and secrets
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage identifies Egyptian and Chaldaean doctrines and mysteries and
+    Christian mystic secrets as materials treated or divulged by Hippolytus.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Mount Athos
+  literal_form: monasteries on Mount Athos
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: missing books
+  literal_form: Books II and III, along with other missing portions of the manuscript
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: mysteries and secrets
+  literal_form: doctrines, mysteries, and secrets described as divulged or omitted
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Discovery of the manuscript on Mount Athos
+  summary: Mino'ides Mynas, sent by the French Government, discovers the only known
+    manuscript of the work in a monastery on Mount Athos.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of the manuscript's incomplete state
+  summary: The passage explains that the work once had ten books, but the first three
+    and the beginning of the fourth are missing; the first book had been known separately
+    and was prefixed to the printed edition.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Missing mysteries and suggested removal
+  summary: The missing books are identified as treating Egyptian and Chaldaean mysteries,
+    while Hippolytus is described as claiming to disclose mysteries and secrets; the
+    author notes that the books and their summaries are absent and suggests possible
+    deliberate removal.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divulged mysteries and secrets
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage repeatedly frames certain doctrines, mysteries, and secrets as
+    hidden materials that Hippolytus claims to have divulged.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is a scholarly discussion of manuscript transmission and polemical
+    disclosure, not a mythic narrative episode.
+- id: motif:2
+  label: Suppressed or lost esoteric books
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The books concerning mysteries are missing, their summary is omitted, and
+    the author suggests this may point to deliberate removal.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The wording is tentative, and the passage breaks off after the phrase
+    'deliberate removal of just'; the reason for removal is not fully supplied in
+    the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage groups Egyptian, Chaldaean, and stigmatized Christian mystical
+    materials under a shared pattern of mysteries or secrets that Hippolytus claims
+    to disclose.
+  claim_level: same_function
+  target: Egyptian and Chaldaean mysteries and Christian mystic or heretical secrets
+    within Hippolytus's work
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a comparison made within the passage's own scholarly/polemical
+    framing; it does not establish historical contact, common inheritance, or shared
+    doctrinal content.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8058-8063
+  quote_or_summary: Mino'ides Mynas, a learned Greek sent by the French Government,
+    discovered the only known manuscript of the work in a monastery on Mount Athos;
+    it is generally ascribed to the fourteenth century.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 8063-8066
+  quote_or_summary: The work originally consisted of ten books, but the first three
+    and the beginning of the fourth are missing from the manuscript.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 8066-8071
+  quote_or_summary: The first book was already known, had been erroneously ascribed
+    to Origen, and was prefixed by Emmanuel Miller to the 1851 Oxford editio princeps.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 8072-8075
+  quote_or_summary: The missing Books II and III dealt respectively with the doctrines
+    and mysteries of the Egyptians and the Chaldaeans.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 8075-8080
+  quote_or_summary: Hippolytus is said to boast in the Prooemium that he divulged
+    mysteries and the secrets of Christian mystics whom he stigmatized as heretics,
+    devoting Books V-IX to them.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 8081-8086
+  quote_or_summary: The books in which the divulging of the mysteries was attempted
+    are precisely those now missing, and the epitome at the beginning of Book X omits
+    their contents as well.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 8086-8091
+  quote_or_summary: The author says this omission seems almost to point to deliberate
+    removal, though the excerpt ends before the thought is completed.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage supplies clear manuscript and polemical details. Motif extraction
+    is less certain because the excerpt is scholarly prose about lost esoteric material
+    rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unsupported taxonomy identifiers were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hermetic-mead-thrice-greatest-hermes-archive-v1__l8058-l8091
+  passage_sha256=bd4d324a4e17253e8b1ce105b28b8351e090790cb80ea51a1436202ef4db3871
+

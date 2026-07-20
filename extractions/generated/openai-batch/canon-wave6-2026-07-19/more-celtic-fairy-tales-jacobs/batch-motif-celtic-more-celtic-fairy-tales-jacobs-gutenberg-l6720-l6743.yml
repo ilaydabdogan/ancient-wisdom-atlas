@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.celtic-more-celtic-fairy-tales-jacobs-gutenberg-l6720-l6743
+source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: XXX. PADDY O'KELLY AND THE WEASEL. / XXXI. THE BLACK HORSE. / XXXII. THE
+    VISION OF MACCONGLINNEY. / XXXIII. DREAM OF OWEN O'MULREADY.; lines 6720-6743
+  start: '6720'
+  end: '6743'
+  translation: More Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Owen's problem is to get in the Land of Dreams.
+  summary: The passage is editorial material for “Dream of Owen O'Mulready.” It identifies
+    the source, notes a partial parallel with Croker's “Daniel O'Rourke,” and remarks
+    that Owen seeks the Land of Dreams, clears the hearth, and has his bed made in
+    it. The remarks connect Dreamland with souls and spirits and the hearth with spirit
+    life and ancestor worship.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The source note says the tale was translated by Mr. Leland L. Duncan from
+    the Gaelic Journal, volume iv, page 57 and following.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The parallels note says Croker's “Daniel O'Rourke” may be compared in part.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The remarks state that Owen's problem is to get into the Land of Dreams.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The remarks state that Owen clears the hearth and has his bed made in it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The remarks state that associations with spirit life are clustered around
+    the hearth and cite scholarship on ancestor worship localized on the hearth.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The remarks state that the story is not known elsewhere than in Ireland.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Owen O'Mulready / Owen
+  description: Named figure whose problem is described as getting into the Land of
+    Dreams and who clears the hearth and has his bed made in it.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: seeker of the Land of Dreams
+  assigned_to:
+  - fig:1
+  basis: The remarks say Owen's problem is to get into the Land of Dreams.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: hearth sleeper
+  assigned_to:
+  - fig:1
+  basis: The remarks say Owen clears the hearth and has his bed made in it.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Land of Dreams / Dreamland
+  literal_form: A named dream realm described in the remarks as Owen's goal and associated
+    there with souls and spirits.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: hearth
+  literal_form: The hearth that Owen clears and in which his bed is made.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: world of spirits
+  literal_form: A spirit world mentioned in the remarks as the realm with which Owen
+    seeks closest contact.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Seeking Dreamland through the hearth
+  summary: The remarks present Owen as seeking the Land of Dreams, or contact with
+    the world of spirits, and describe him clearing the hearth and having his bed
+    made in it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: quest for entry into Dreamland or the spirit world
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage states that Owen's problem is to get into the Land of Dreams
+    and interprets this as seeking closest contact with the world of spirits.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is drawn from editorial remarks rather than the full tale narrative;
+    the taxonomy link is approximate.
+- id: motif:2
+  label: hearth as place of contact with spirits or ancestors
+  taxonomy_refs: []
+  basis: The passage says Owen clears the hearth and has his bed made in it, and the
+    remarks explicitly associate the hearth with spirit life and ancestor worship.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The spirit-contact interpretation is supplied by the editor's remarks,
+    not by a quoted narrative episode.
+- id: motif:3
+  label: dream-seeking by sleeping at a ritually significant household place
+  taxonomy_refs: []
+  basis: The remarks connect Owen's attempt to obtain dreams with having a bed made
+    in the cleared hearth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not provide the full tale or the outcome of Owen's action.
+comparison_claims:
+- id: claim:1
+  claim: The passage's parallels note says Croker's “Daniel O'Rourke” may be compared
+    in part with this tale.
+  claim_level: same_motif
+  target: Croker's “Daniel O'Rourke”
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives no details about the shared elements or the basis
+    of comparison.
+- id: claim:2
+  claim: The remarks compare the hearth's spirit associations in Owen's action with
+    hearth-localized ancestor worship in Greek, Roman, and wider Aryan household traditions
+    as cited by the editor.
+  claim_level: same_function
+  target: Greek, Roman, and wider Aryan hearth-centered ancestor worship traditions
+    cited in the remarks
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an editorial comparative interpretation and the passage provides
+    no primary examples from those other traditions.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 6722-6724
+  quote_or_summary: 'Source note: translated by Mr. Leland L. Duncan from Gaelic Journal,
+    vol. iv, p. 57 seq.'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short bibliographic summary used.
+- id: ev:2
+  type: quote
+  locator: lines 6725-6726
+  quote_or_summary: "“Croker's Daniel O'Rourke may be compared in part.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 6728-6733
+  quote_or_summary: The remarks say Owen's problem is to get into the Land of Dreams
+    and connect Dreamland with the source and origin of belief in souls and spirits.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 6733-6734
+  quote_or_summary: "“he clears the hearth and has his bed made in it.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 6734-6740
+  quote_or_summary: The remarks say spirit-life associations cluster around the hearth
+    and cite Fustel de Coulanges and Hearn on ancestor worship and the Aryan household.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6741-6743
+  quote_or_summary: The remarks state that the story is not known elsewhere than in
+    Ireland and mention applying the method of survivals.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is short and mostly editorial commentary rather than the tale
+    itself. Literal extraction is straightforward, but motif and comparison assignments
+    depend on the editor's remarks and need review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external details about the tale or Croker's “Daniel O'Rourke” were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-more-celtic-fairy-tales-jacobs-gutenberg__l6720-l6743
+  passage_sha256=f8c4158190660b92af8347f92940f57fb12119ecb7640a67979efe43c027edd4
+

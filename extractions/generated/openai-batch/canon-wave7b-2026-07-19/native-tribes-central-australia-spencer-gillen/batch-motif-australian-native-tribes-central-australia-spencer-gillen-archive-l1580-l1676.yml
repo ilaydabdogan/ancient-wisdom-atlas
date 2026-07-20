@@ -1,0 +1,468 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l1580-l1676
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: ERRATUM / LIST OF ILLUSTRATIONS / IXTRODLXTIOX / INTRO DLXTIOX; lines 1580-1676
+  start: '1580'
+  end: '1676'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: everything which is edible is used for food
+  summary: 'The passage describes Central Australian food use and preparation: edible
+    plants are eaten raw or roasted, Munyeru seeds are gathered and processed, and
+    various animals are butchered, cooked in ashes or pits, and divided for consumption,
+    with tendons also saved for practical uses.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that, subject to certain restrictions applying to groups
+    or to individuals at particular life stages, edible things are used for food.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some vegetables are eaten raw, while others are roasted in hot ashes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Acacia pods are gathered, laid on hot ashes, partly covered with ashes, and
+    then shelled and eaten.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Munyeru, identified as the seed of a species of Claytonia, is gathered by
+    women, winnowed, ground on stones with water added, and eaten raw or baked in
+    ashes.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Larger animals are generally cooked in shallow pits in the ground.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: obs:6
+  text: Opossum, rock wallaby, and echidna are prepared by removing intestines and
+    by plucking, singeing, scraping, moistening, or covering with ashes depending
+    on the animal.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When a euro or kangaroo is killed, its hind legs are dislocated, the abdomen
+    is opened, the intestines are removed, and the opening is closed with a wooden
+    skewer.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Tendons are extracted from the hind limbs of kangaroo or euro and stored under
+    the waist girdle or in the hair for later use.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: The extracted tendons are used for attaching barbed spear points, splicing
+    spears, and mending spear-throwers.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A cooked kangaroo or euro may be laid on green boughs to keep it from touching
+    the earth before it is cut up.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: During carving, the carver may eat the heart and kidneys, and accumulated
+    body juices are drunk.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Central Australian native groups described in the passage
+  description: The collective group whose food restrictions, edible foods, cooking
+    methods, and plant and animal preparation practices are described.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Women gathering Munyeru
+  description: Women who gather large quantities of Munyeru seeds and winnow them
+    before grinding.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Man extracting tendons
+  description: A man described as cutting around the foot, pulling loose the tendon,
+    holding it in the teeth, cutting it free, and storing it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Carver
+  description: The person cutting the cooked animal into joints and eating selected
+    morsels during the process.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Game animals prepared as food
+  description: Opossum, rock wallaby, echidna, euro, and kangaroo are described as
+    animals prepared, cooked, and eaten.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: seed gatherers and processors
+  assigned_to:
+  - fig:2
+  basis: Women are said to gather Munyeru seeds, winnow them, and prepare them for
+    grinding.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: cooks and consumers
+  assigned_to:
+  - fig:1
+  basis: The passage describes the group using edible foods, roasting plants, cooking
+    animals, and consuming meat and juices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:3
+  label: tendon extractor and tool-material keeper
+  assigned_to:
+  - fig:3
+  basis: The man extracts tendons from the hind limbs and stores them for later practical
+    use.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: meat carver
+  assigned_to:
+  - fig:4
+  basis: The carver cuts the body into joints and eats heart and kidneys during carving.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: food animals
+  assigned_to:
+  - fig:5
+  basis: The listed animals are treated as hunted or killed animals that are prepared,
+    cooked, divided, and eaten.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire and hot ashes
+  literal_form: Fire, flames, hot ashes, and ash heaps used for roasting, singeing,
+    and pit-cooking.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: water
+  literal_form: Water poured onto ground seeds and sprinkled into a cooking hole for
+    echidna preparation.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: grinding stones
+  literal_form: A larger grinding stone and a smaller hand-held stone used to grind
+    Munyeru seeds.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: flint cutting edge
+  literal_form: A piece or bit of flint, including one attached to the spear-thrower,
+    used for scraping, cutting, and dividing animal bodies.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: ground cooking pit
+  literal_form: A shallow pit or small hole in the ground used for cooking animals
+    with fire, sand, earth, or ashes.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: kangaroo or euro tendons
+  literal_form: Tendons extracted from hind limbs, twisted up, stored, and used for
+    spear and spear-thrower repairs.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: green boughs
+  literal_form: Green boughs placed beneath the cooked animal to keep it from contact
+    with the earth.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: General food use and plant roasting
+  summary: The passage introduces food restrictions, states broad use of edible foods,
+    and describes vegetables and acacia pods eaten raw or roasted in hot ashes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Munyeru seed processing
+  summary: Women gather Munyeru seeds, winnow away husks, grind the seeds with stones,
+    add water, and prepare the mixture for raw eating or baking in ashes.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Preparation of smaller animals
+  summary: Opossum, rock wallaby, and echidna are prepared through removal of intestines
+    and by plucking, singeing, scraping, moistening, covering, and cooking in ashes
+    or pits.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Kangaroo or euro butchery and tendon extraction
+  summary: After a euro or kangaroo is killed, the legs are dislocated, the intestines
+    removed and cooked, fat separated, and hind-limb tendons extracted and saved for
+    practical uses.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Kangaroo or euro roasting, carving, and consumption
+  summary: The animal is singed or scraped, cut, placed in a fire pit with hot ashes,
+    cooked, laid on green boughs, cut up, and partly consumed during and after carving.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:7
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: fire-and-ash food preparation
+  taxonomy_refs: []
+  basis: Vegetables, acacia pods, small animals, and kangaroo or euro are repeatedly
+    prepared by roasting, singeing, covering, or cooking with fire and hot ashes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an ethnographic subsistence pattern in the passage, not a mythic
+    motif; no available motif-family taxonomy reference is directly supported.
+- id: motif:2
+  label: staple-seed gathering and grinding
+  taxonomy_refs: []
+  basis: 'Munyeru seeds are described as a standard vegetable diet: women gather and
+    winnow them, grind them on stones with water, and eat the resulting mixture raw
+    or baked.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents a food-processing pattern rather than a mythic or
+    ritual motif.
+- id: motif:3
+  label: post-hunt transformation of animal body into food and tool material
+  taxonomy_refs: []
+  basis: The kangaroo or euro body is butchered for food while tendons are extracted,
+    stored, and later used to attach spear points, splice spears, or mend spear-throwers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a practical material-use pattern; symbolic or mythological significance
+    is not stated in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Munyeru among the described Central Australian
+    groups as functionally comparable to Nardoo in the Barcoo district and other interior
+    parts of Australia as a staple food.
+  claim_level: same_function
+  target: Nardoo, identified in the passage as the spore cases of Marsilea quadrifolia
+    and as a staple article of food in the Barcoo district and other parts of interior
+    Australia.
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns dietary function only; the passage does not
+    support a mythological, ritual, historical-contact, or common-inheritance claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1580-1588
+  quote_or_summary: With certain restrictions by group or life stage, edible things
+    are used for food; vegetables may be eaten raw or roasted in hot ashes.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; neutral summary.
+- id: ev:2
+  type: summary
+  locator: lines 1589-1604
+  quote_or_summary: Acacia pods are roasted in hot ashes and eaten; Munyeru is described
+    as a standard vegetable diet, and women gather and winnow its small black seeds.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; neutral summary.
+- id: ev:3
+  type: summary
+  locator: lines 1605-1614
+  quote_or_summary: Munyeru seeds are ground on stones with water and eaten raw or
+    baked; the passage compares Munyeru's place among these tribes to Nardoo in the
+    Barcoo district and other interior regions.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; neutral summary.
+- id: ev:4
+  type: summary
+  locator: lines 1615-1628
+  quote_or_summary: Larger animals are cooked in shallow ground pits; opossum, rock
+    wallaby, and echidna preparations include removing intestines, plucking or singeing,
+    scraping with flint, sprinkling water, covering with earth or sand, and cooking
+    with ashes.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; neutral summary.
+- id: ev:5
+  type: summary
+  locator: lines 1629-1643
+  quote_or_summary: For euro or kangaroo, the hind legs are dislocated, intestines
+    removed, fat treated as a delicacy, and tendons extracted from the hind limbs
+    using flint, a stick, foot pressure, and the teeth.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; neutral summary.
+- id: ev:6
+  type: summary
+  locator: lines 1644-1662
+  quote_or_summary: Extracted tendons are stored and used for spear points, splicing
+    spears, and mending spear-throwers; a pit fire is made, the animal may be singed
+    and scraped, and limbs or tail are cut before roasting.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; neutral summary.
+- id: ev:7
+  type: summary
+  locator: lines 1663-1676
+  quote_or_summary: The animal is laid in the pit on its back, covered with hot ashes,
+    cooked, placed on green boughs to avoid touching earth, cut up, and the carver
+    eats heart and kidneys while accumulated juices are drunk.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; neutral summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is concrete and descriptive, making literal extraction reliable.
+    Candidate motifs are better treated as ethnographic food-processing patterns rather
+    than mythological motifs. The single comparison claim is explicitly supported
+    by the passage but is limited to dietary function.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic narrative, ritual explanation, or symbolic interpretation is stated in the supplied passage; symbol entries record recurring literal objects and materials only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l1580-l1676
+  passage_sha256=2451678526c6f5bfe5d52855c88fe596d3b8d1299e5aeb3d7ad699ec2fa5107a
+

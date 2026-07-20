@@ -1,0 +1,218 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l3468-l3485
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: PHYSICAL CHARACTERISTICS / PT. I / PHYSICAL CHARACTERISTICS / REPAIRING THE
+    IMPUMBE.; lines 3468-3485
+  start: '3468'
+  end: '3485'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The patient writhes under this treatment, and groans, "Ndu lono lumamba"
+  summary: 'The passage describes repairing the impumbe coiffure: an operator ties
+    material around a stem, burns remaining fluff from the isusu with a flaming wisp
+    of grass, and continues despite the patient''s pain. It then notes that these
+    coiffures are worn only briefly because they become uncomfortable and are removed.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An operator ties an unspecified material around the stem as part of repairing
+    the impumbe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The operator lights a wisp of grass and uses it to burn fluff remaining on
+    the isusu.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The flame is drawn over strained skin at the base of the isusu.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The patient writhes and groans during the treatment.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The patient says, “This is where the war comes in.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The operator laughs and continues the procedure.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The coiffures are worn only for a short time, described as perhaps two or
+    three months.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The coiffures become uncomfortable and have to be removed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: operator
+  description: The person performing the repair of the impumbe, lighting grass, burning
+    off fluff, laughing, and continuing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: patient
+  description: The person receiving the treatment, writhing and groaning during the
+    burning process.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: coiffure repairer
+  assigned_to:
+  - fig:1
+  basis: The figure performs the tying and burning actions in the impumbe repair process.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: recipient of painful treatment
+  assigned_to:
+  - fig:2
+  basis: The figure is called the patient and is described as writhing and groaning
+    under the treatment.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire used in bodily grooming
+  literal_form: flame from a lighted wisp of grass
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: impumbe coiffure
+  literal_form: characteristic coiffure being repaired and later removed because uncomfortable
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: isusu
+  literal_form: the worked hair or coiffure element from which fluff is burned, with
+    strained skin at its base
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: repairing the impumbe with flame
+  summary: An operator ties material around a stem, lights grass, and burns remaining
+    fluff from the isusu, drawing flame over strained skin while the patient reacts
+    in pain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: short duration and removal of coiffures
+  summary: The passage states that these coiffures are worn for only two or three
+    months because they become uncomfortable and must be removed.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: painful bodily adornment maintained by fire
+  taxonomy_refs: []
+  basis: The passage describes a coiffure-repair procedure in which flame is applied
+    near strained skin, causing the patient to writhe and groan while the operator
+    continues.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic description of grooming or bodily adornment, not
+    a mythic narrative; no broader comparative motif family is asserted.
+- id: motif:2
+  label: temporary uncomfortable coiffure
+  taxonomy_refs: []
+  basis: The coiffures are described as characteristic but worn only briefly because
+    they become uncomfortable and have to be removed.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not provide ritual, mythological, or symbolic interpretation
+    for the temporary duration.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3468-3475
+  quote_or_summary: The operator lights grass and “burns off all the fluff remaining
+    on the isusu,” drawing flame over strained skin.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3474-3477
+  quote_or_summary: The patient writhes and groans, “This is where the war comes in”;
+    the operator laughs and goes on.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3478-3483
+  quote_or_summary: The coiffures are said to be worn only for perhaps two or three
+    months because they become uncomfortable and must be removed.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source summarized for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif labeling is limited because
+    the passage is a fragmentary ethnographic description and gives no explicit mythic
+    interpretation. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The line range appears truncated at the end after “Balu-”; no completion of that sentence is inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l3468-l3485
+  passage_sha256=4156569e46b565b10a97b0485fc74d93f7fbe01c054dfe5a2bacee4277c04ccc
+

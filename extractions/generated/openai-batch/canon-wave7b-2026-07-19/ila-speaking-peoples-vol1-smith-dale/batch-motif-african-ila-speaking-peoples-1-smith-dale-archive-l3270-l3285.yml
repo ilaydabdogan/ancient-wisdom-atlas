@@ -1,0 +1,180 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l3270-l3285
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: PHYSICAL CHARACTERISTICS / PHYSICAL CHARACTERISTICS / A DU'AKK. / A MIXED
+    ILA-LUBA TYPE.; lines 3270-3285
+  start: '3270'
+  end: '3285'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports medical observations linking the custom of knocking
+    out upper teeth with gingivitis among Ba-ila and Batonga labourers, including
+    percentages of gingivitis cases and effects on remaining teeth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage refers to a custom of knocking out the upper teeth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On one date, 53 percent of gingivitis cases lacked the six front upper teeth;
+    others lacked fewer teeth or had filed teeth; no case then showed unmutilated
+    teeth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Among Ba-ila and Batonga labourers, who are described as all knocking out
+    the teeth, 13.3 percent suffered from gingivitis.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Among the rest, 5.40 percent suffered from gingivitis, and the condition was
+    described as worse and harder to cure among those who had the teeth out.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The condition was found not only in adults but also in young boys who had
+    the teeth out.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that loss of the upper incisors can strongly affect the
+    remaining teeth, with lower incisors growing.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ba-ila and Batonga labourers
+  description: A labourer group described as all knocking out the teeth and having
+    a reported gingivitis rate of 13.3 percent.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: young boys with teeth out
+  description: Young boys mentioned as having the teeth out and being found with the
+    condition.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: adults
+  description: Adults mentioned as also having the condition.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: participants in upper-tooth removal custom
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says Ba-ila and Batonga labourers all knock out the teeth and
+    mentions young boys who had the teeth out.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: people affected by gingivitis or related dental condition
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage reports gingivitis among Ba-ila and Batonga labourers and says
+    the condition was found in adults and young boys.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Dental custom and gingivitis observations
+  summary: The passage presents observations about missing or filed upper teeth and
+    compares gingivitis rates and severity among labourers who knock out teeth and
+    others.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Age range and dental effects
+  summary: The passage states that the condition appears in adults and young boys
+    with teeth removed, and notes effects of losing upper incisors on remaining lower
+    incisors.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3270-3276
+  quote_or_summary: The section is headed “A MIXED ILA-LUBA TYPE” and discusses the
+    custom of knocking out upper teeth; among gingivitis cases on one date, many lacked
+    the six front upper teeth, had fewer missing, or had filed teeth, and none showed
+    unmutilated teeth.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3276-3280
+  quote_or_summary: Among Ba-ila and Batonga labourers, described as all knocking
+    out the teeth, 13.3 percent suffered from gingivitis; among the rest the rate
+    was 5.40 percent, and the condition was worse and harder to cure among the former.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3280-3282
+  quote_or_summary: The observer found the condition in adults and in young boys who
+    had the teeth out.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3282-3285
+  quote_or_summary: The passage states that loss of the upper incisors can have an
+    extraordinary effect on remaining teeth, and that the lower incisors grow.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is medical and ethnographic rather than mythic or narrative;
+    no supported mythology motifs or comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the passage does not present mythic symbols, narrative motifs, or comparative claims.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l3270-l3285
+  passage_sha256=0b2807b01218e0b30c5cd606fe842b8b08012b04240747bb9b99587f81723eaf
+

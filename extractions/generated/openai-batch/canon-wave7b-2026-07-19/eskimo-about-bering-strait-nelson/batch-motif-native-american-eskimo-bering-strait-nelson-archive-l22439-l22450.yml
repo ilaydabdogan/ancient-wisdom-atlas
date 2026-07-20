@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l22439-l22450
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: CALENDAR    OF   FESTIVALS / THE    TKADING  FESTIVAL / FEASTS    TO    THE   DEAD
+    / MORTUARY  FEASTS  IN  GENERAL; lines 22439-22450
+  start: '22439'
+  end: '22450'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a mortuary feast, small portions of food and water are offered, and
+    the spiritual essence of the whole quantity is believed to go mysteriously to
+    the shades, supplying them until the next festival. Afterward the festival maker
+    distributes the remaining food to those present, who eat. Songs and dances close
+    the feast, and the shades are dismissed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Small portions of food and water are offered from a larger quantity.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The spiritual essence of the entire quantity of food and water is said to
+    go to the shade.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The essence of the offerings is believed to be transported mysteriously to
+    the abodes of the shades.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The offerings are described as supplying the wants of the shades until the
+    next festival.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the offerings, the festival maker distributes the remaining food among
+    the people present.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The people present eat heartily.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Songs and dances end the feast, and the shades are dismissed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the shade / shades
+  description: Dead or spirit recipients of the offerings, described as having abodes
+    and wants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: festival maker
+  description: Person who distributes the food left after the offerings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: people present
+  description: People at the feast who receive and eat the remaining food.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: recipient shades
+  assigned_to:
+  - fig:1
+  basis: The essence of the food and water offerings goes to the shade and supplies
+    the shades' wants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ritual distributor
+  assigned_to:
+  - fig:2
+  basis: After the offerings, the festival maker distributes leftover food among the
+    people present.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: feast participants
+  assigned_to:
+  - fig:3
+  basis: The people present receive the remaining food and eat heartily.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: food offering
+  literal_form: food offered in small portions, with remaining food distributed afterward
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: water offering
+  literal_form: water offered in small portions, whose spiritual essence is said to
+    go to the shade
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: abodes of the shades
+  literal_form: dwelling places to which the essence of the offerings is believed
+    to be transported
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: songs and dances
+  literal_form: songs and dances used at the end of the feast
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Offerings to the shades
+  summary: Small portions of food and water are offered, and the essence of the full
+    quantity is believed to reach the shades and sustain them until the next festival.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Communal eating after offerings
+  summary: After the offerings, the festival maker distributes the remaining food
+    to the people present, and they eat.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Closing and dismissal
+  summary: Songs and dances close the feast, and the shades are dismissed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: offerings sustain the dead
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage says the spiritual essence of food and water offerings goes to
+    the shades and supplies their wants until the next festival.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes provisioning rather than an explicit exchange or
+    reciprocal return from the dead.
+- id: motif:2
+  label: mortuary food and water offering
+  taxonomy_refs:
+  - sacrifice
+  basis: Small portions of food and water are offered to shades in a mortuary feast.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The text uses offering language but does not describe killing, destruction,
+    or renunciation beyond setting aside portions.
+- id: motif:3
+  label: periodic renewal of offerings to the dead
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The offerings supply the shades until the time of the next festival, implying
+    a recurring festival cycle.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The supplied lines mention the next festival but do not specify the full
+    calendar cycle or season.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22439-22442
+  quote_or_summary: '"the spiritual essence of the entire quantity of food and water
+    from which the small portions are offered goes to the shade"'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 22442-22446
+  quote_or_summary: The essence of the offerings is believed to be transported mysteriously
+    to the abodes of the shades and to supply their wants until the next festival.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 22446-22448
+  quote_or_summary: After the offerings, the festival maker distributes the food that
+    is left among the people present, and they eat heartily.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 22448-22450
+  quote_or_summary: '"with songs and dances, the feast is ended and the shades are
+    dismissed"'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly describes the ritual sequence and participants. Motif
+    labels are candidate interpretations based only on the supplied passage and available
+    taxonomy; no explicit cross-tradition comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR artifacts in the supplied passage header and trailing line were not treated as content.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l22439-l22450
+  passage_sha256=d16acb195a31c81b197b3c4390c1b385e0f850d7ebd46b99e72cc4a2b6545e00
+

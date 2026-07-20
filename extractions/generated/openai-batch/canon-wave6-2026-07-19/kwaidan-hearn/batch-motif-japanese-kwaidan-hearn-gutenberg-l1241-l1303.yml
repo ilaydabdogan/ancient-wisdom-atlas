@@ -1,0 +1,361 @@
+---
+record_id: batch.motif.japanese-kwaidan-hearn-gutenberg-l1241-l1303
+source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+passage_locator:
+  label: DIPLOMACY / OF A MIRROR AND A BELL / JIKININKI / MUJINA; lines 1241-1303
+  start: '1241'
+  end: '1303'
+  translation: 'Kwaidan: Stories and Studies of Strange Things'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: All because of a Mujina that used to walk there.
+  summary: A lonely slope in Tokyo is said to be haunted by a Mujina. An old merchant
+    encounters a weeping young woman by a moat; when she reveals a featureless face,
+    he flees to a soba seller, who then reveals his own face becoming egg-like as
+    the light goes out.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The setting is Kii-no-kuni-zaka on the Akasaka Road in Tokyo, bordered by
+    an ancient moat on one side and imperial palace walls on the other.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before street-lamps and jinrikishas, the neighborhood was lonesome after dark,
+    and pedestrians avoided the slope at night.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that people avoided the slope because of a Mujina said
+    to walk there.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An old merchant hurrying up the slope late at night sees a woman crouching
+    alone by the moat and weeping bitterly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The woman appears slight, graceful, handsomely dressed, and with hair arranged
+    like that of a young girl of good family.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The merchant fears the woman may intend to drown herself and repeatedly offers
+    assistance or consolation.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The woman hides her face with her sleeve, rises, turns, drops the sleeve,
+    strokes her face, and is seen to have no eyes, nose, or mouth.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The merchant screams, runs away up the slope, sees a distant lantern, and
+    goes toward it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: The lantern belongs to an itinerant soba seller who has set down his stand
+    by the roadside.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The soba seller asks whether the woman showed something like what he displays;
+    he strokes his own face, which becomes egg-like, and the light goes out.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mujina
+  description: A being named as the reason the slope was avoided; it is said to have
+    walked there.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: old merchant of Kyōbashi
+  description: The last man said to have seen the Mujina; he hurries up the slope,
+    tries to help the weeping woman, flees, and encounters the soba seller.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: weeping woman / O-jochū
+  description: A young-looking, handsomely dressed woman crouching by the moat and
+    weeping; when she reveals her face, it has no eyes, nose, or mouth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: itinerant soba seller
+  description: A roadside peddler with a lantern; after hearing the merchant’s account,
+    he strokes his own face, which becomes egg-like, and the light goes out.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: local haunting figure
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says the slope was avoided because of a Mujina that
+    used to walk there.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: human witness
+  assigned_to:
+  - fig:2
+  basis: The old merchant is identified as the last man who saw the Mujina and as
+    the teller of the story.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: would-be helper
+  assigned_to:
+  - fig:2
+  basis: He stops because he fears the woman may drown herself and offers help.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: faceless roadside woman
+  assigned_to:
+  - fig:3
+  basis: She appears as a weeping young woman but reveals a face without eyes, nose,
+    or mouth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: roadside peddler with second faceless revelation
+  assigned_to:
+  - fig:4
+  basis: The soba seller appears as a source of light and human company, then displays
+    an egg-like face.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: lonely night slope
+  literal_form: Kii-no-kuni-zaka, a slope on the Akasaka Road after dark
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: moat
+  literal_form: ancient, deep, wide moat beside the slope
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: lantern and extinguished light
+  literal_form: the soba seller’s lantern, first seen from far away and then going
+    out
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: featureless face
+  literal_form: a face without eyes, nose, or mouth; an egg-like face
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: haunted slope introduction
+  summary: The passage describes Kii-no-kuni-zaka as a lonely night road avoided because
+    of a Mujina.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: merchant finds the weeping woman
+  summary: The old merchant sees a young-looking woman weeping by the moat and stops
+    to offer help.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: first faceless revelation and flight
+  summary: The woman reveals a face without features; the merchant screams and runs
+    away.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: soba seller’s second revelation
+  summary: The merchant reaches a lantern and soba seller, but the peddler displays
+    an egg-like face and the light goes out.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: faceless supernatural encounter
+  taxonomy_refs: []
+  basis: 'Two figures encountered at night display faces lacking ordinary human features:
+    the woman has no eyes, nose, or mouth, and the soba seller’s face becomes egg-like.'
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage does not explain the nature or origin of the faceless appearances
+    beyond naming a Mujina as the local cause.
+- id: motif:2
+  label: apparent helper or refuge becomes renewed terror
+  taxonomy_refs: []
+  basis: After fleeing the faceless woman, the merchant seeks light and human company
+    from a soba seller, who then reveals an inhuman face as the light goes out.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level pattern; no broader taxonomy reference is asserted.
+- id: motif:3
+  label: shape-changing apparition
+  taxonomy_refs:
+  - shapeshifter
+  basis: The soba seller strokes his own face and it becomes egg-like; the story is
+    framed as an encounter with a Mujina.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage shows a transformed face and names a Mujina, but it does not
+    explicitly describe the mechanism as shapeshifting or state whether the woman
+    and soba seller are the same being.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1243-1251
+  quote_or_summary: Kii-no-kuni-zaka is described as a Tokyo slope bordered by a deep
+    moat and palace walls, lonely after dark and avoided by pedestrians.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: line 1253
+  quote_or_summary: "“All because of a Mujina that used to walk there.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 1255-1264
+  quote_or_summary: An old merchant hurrying late at night sees a woman crouching
+    alone by the moat, weeping; she appears slight, graceful, well dressed, and like
+    a young girl of good family.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1265-1279
+  quote_or_summary: The merchant repeatedly offers help; the woman hides her face,
+    rises, turns, drops her sleeve, strokes her face, and is seen to have no eyes,
+    nose, or mouth.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1281-1288
+  quote_or_summary: The merchant runs away, sees a distant lantern, and reaches an
+    itinerant soba seller whose light and company seem welcome after the encounter.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1290-1303
+  quote_or_summary: The soba seller questions the frightened merchant, asks whether
+    the woman showed something like this, strokes his face, and his face becomes like
+    an egg as the light goes out.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are passage-level candidates;
+    the shapeshifter taxonomy reference is plausible but should be reviewed because
+    the passage does not explicitly define Mujina behavior.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not provide an explicit comparative link beyond the named Mujina and the local sequence of faceless encounters.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:japanese-kwaidan-hearn-gutenberg__l1241-l1303
+  passage_sha256=1ad2d9726f635805eec5d9a73c692778a773ddaae6945ccb90678457ab9ac9d4
+

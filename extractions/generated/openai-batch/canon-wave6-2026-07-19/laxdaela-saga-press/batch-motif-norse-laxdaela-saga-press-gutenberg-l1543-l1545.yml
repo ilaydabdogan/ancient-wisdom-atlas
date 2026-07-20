@@ -1,0 +1,101 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l1543-l1545
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. XVIII / CHAP. XIX / CHAP. XX / CHAP. XXI; lines 1543-1545
+  start: '1543'
+  end: '1545'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Olaf the Peacock goes to Ireland, A.D. 955
+  summary: A chapter heading states that Olaf the Peacock goes to Ireland in A.D.
+    955.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as CHAP. XXI.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chapter heading states that Olaf the Peacock goes to Ireland.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The heading gives the date as A.D. 955.
+  category: setting
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Olaf the Peacock
+  description: Named person in the chapter heading who goes to Ireland.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: traveler to Ireland
+  assigned_to:
+  - fig:1
+  basis: The heading states that Olaf the Peacock goes to Ireland.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Olaf the Peacock goes to Ireland
+  summary: The heading presents Olaf the Peacock's movement to Ireland in A.D. 955.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: departure or journey to another land
+  taxonomy_refs:
+  - departure
+  basis: The passage heading states that Olaf the Peacock goes to Ireland.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only a chapter heading and does not provide narrative details
+    about cause, ritual framing, danger, or return.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 1543
+  quote_or_summary: CHAP. XXI
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: line 1545
+  quote_or_summary: Olaf the Peacock goes to Ireland, A.D. 955
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by the brevity of the passage; motif identification
+    rests only on the chapter heading.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols or comparison claims were extracted because the passage contains only a chapter heading and travel statement.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l1543-l1545
+  passage_sha256=5f1ebd994e942ed3db4a26cf7aae9e9b7de5af5c34eeecb2ed54e8b5c804e318
+

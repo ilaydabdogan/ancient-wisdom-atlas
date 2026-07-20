@@ -1,0 +1,198 @@
+---
+record_id: batch.motif.hindu-minor-upanishads-narayanasvami-aiyar-archive-l7096-l7105
+source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+passage_locator:
+  label: UPADES'A  IV / NAEAPAPARIVRAJAKA-UPANISHA9  147 / UPAPES'A  V / NARADAPARIVRAJAKA-UPANISHAD  159;
+    lines 7096-7105
+  start: '7096'
+  end: '7105'
+  translation: Thirty Minor Upanishads
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes one who knows himself as Brahman, regards the staff
+    as certitude of mind, has no desire, is naked, has abandoned samsara through mind,
+    speech, and body, and attains salvation through realization of Reality, explained
+    by the analogy of the wasp and the worm.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A described person abides in bliss and thinks himself to be Brahman alone.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The staff is regarded as no other than the certitude of the mind.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The described person has no desire, is naked, and has abandoned all samsara
+    through actions done by mind, speech, and body.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The described person attains salvation through the practice of realization
+    of Reality, without seeing the universe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The attainment of salvation is described as occurring according to the analogy
+    of the wasp and the worm.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: the knower-renunciant
+  description: A person who has known thus, thinks himself Brahman alone, has no desire,
+    is naked, abandons samsara, and attains salvation through realization of Reality.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: renunciant knower
+  assigned_to:
+  - fig:1
+  basis: The passage describes one who has known thus, lacks desire, is naked, and
+    has abandoned samsara through mind, speech, and body.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: attainer of salvation
+  assigned_to:
+  - fig:1
+  basis: The passage says this person attains salvation through the practice of realization
+    of Reality.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: staff as certitude of mind
+  literal_form: staff
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wasp-and-worm analogy
+  literal_form: wasp and worm
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Renunciant realization and salvation
+  summary: The passage presents a renunciant knower who identifies with Brahman, treats
+    the staff as an inward certitude, abandons samsara, and attains salvation through
+    realization of Reality, with the process linked to the wasp-and-worm analogy.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Renunciant abandonment of samsara
+  taxonomy_refs: []
+  basis: The person is described as having no desire, being naked, and abandoning
+    all samsara through actions of mind, speech, and body.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is doctrinal rather than narrative; the motif is extracted
+    as an ascetic pattern.
+- id: motif:2
+  label: Salvation through realization of Reality
+  taxonomy_refs:
+  - wisdom
+  basis: Salvation is said to occur through the practice of realization of Reality,
+    and the person is described as having known thus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy link is limited to liberating knowledge or realization as
+    stated in the passage.
+- id: motif:3
+  label: Nondual identification with Brahman
+  taxonomy_refs:
+  - annihilation_union
+  basis: The person thinks himself to be Brahman alone and attains salvation while
+    no longer seeing the universe.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage states identification with Brahman and salvation, but does
+    not narrate a separate dramatic union or annihilation event.
+- id: motif:4
+  label: Outer ascetic object reinterpreted as inner certainty
+  taxonomy_refs: []
+  basis: The staff is explicitly treated as no other than the certitude of the mind.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because no supplied symbol category
+    matches the staff.
+- id: motif:5
+  label: Transformation or attainment by wasp-and-worm analogy
+  taxonomy_refs: []
+  basis: The passage says salvation occurs according to the analogy of the wasp and
+    the worm.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage names the analogy but does not explain its mechanics within
+    this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7096-7101
+  quote_or_summary: The passage describes one in bliss who thinks himself Brahman
+    alone, regards the staff as certitude of mind, has no desire, is naked, and has
+    abandoned samsara through mind, speech, and body.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 7101-7105
+  quote_or_summary: The passage says the person attains salvation according to the
+    wasp-and-worm analogy through the practice of realization of Reality, without
+    seeing the universe, and closes the Upanishad.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignments involving nondual
+    union and wasp-and-worm transformation are interpretive and require human review.
+    No separate comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No symbol taxonomy references were assigned because the available symbol list does not include staff, wasp, or worm.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-minor-upanishads-narayanasvami-aiyar-archive__l7096-l7105
+  passage_sha256=cee4c0030e0c038be1097ce7a3a52efbe4541c6c8f69682bd80e4bfe69a4eca1
+

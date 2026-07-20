@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l15117-l15140
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: VOL.    IV.  X / POETRY. / CHAPTER    XXXI. / SPECTRES.; lines 15117-15140
+  start: '15117'
+  end: '15140'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces spectres and notes classifications of the living
+    and dead, unresting souls that return and wander near graves, worship and feasts
+    for the dead, prayers for souls, offerings of food and drink to near ancestors,
+    water-libations and other poured offerings for the dead, blood drunk by souls
+    to restore their senses, and Lithuanian and Samogitian references connected with
+    figures of the dead.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cited source divides people into living, hovering, doubtful, and dead.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A cited Platonic passage is said to mention souls that cannot find rest in
+    Hades and return to wander about the grave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the dead were worshipped.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that feasts were held in honor of the dead, including Persian
+    and Russian examples.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that souls were prayed for and refers to soul-masses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that near ancestors received offerings of food and drink
+    in cited Indian practice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage identifies udaka-karman as a water-libation for the dead and compares
+    it with meal, wine, and water poured into a hole in the Odyssey.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that souls eagerly drink the blood of victims and that
+    this restores them to their senses; it also says shades live on libations.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage states that Lithuanian weles means figures of the dead and mentions
+    the Samogitian goddess Vielona.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unresting souls
+  description: Souls unable to find rest in Hades that return and wander about the
+    grave.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the dead, souls, shades, and near ancestors
+  description: Collective dead who are worshipped, feasted for, prayed for, offered
+    food and drink, and sustained by libations or blood in the cited examples.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Vielona
+  description: A Samogitian goddess mentioned after the Lithuanian term for figures
+    of the dead.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: unresting grave-wanderer
+  assigned_to:
+  - fig:1
+  basis: The souls cannot find rest in Hades and return to wander around the grave.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of mortuary veneration
+  assigned_to:
+  - fig:2
+  basis: The dead are worshipped, honored with feasts, prayed for, and offered food
+    and drink.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: libation-sustained shade
+  assigned_to:
+  - fig:2
+  basis: Souls drink blood that restores their senses, and shades are said to live
+    on libations.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: named Samogitian goddess
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly names Vielona as a Samogitian goddess.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: grave
+  literal_form: The grave around which returning souls wander.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Hades
+  literal_form: The afterlife place where some souls cannot find rest.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: water-libation
+  literal_form: Water offered to the dead; also meal, wine, and water poured into
+    a hole in the Odyssey example.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: blood of victims
+  literal_form: Blood drunk by souls, said to restore their senses.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: hole for poured offerings
+  literal_form: A hole into which meal, wine, and water are poured in the cited Odyssey
+    passage.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: unresting souls near the grave
+  summary: Souls that do not rest in Hades return and wander around the grave.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: veneration of the dead
+  summary: The dead are described as receiving worship, commemorative feasts, and
+    prayers.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: offerings and libations for the dead
+  summary: Near ancestors and shades receive food, drink, water-libations, poured
+    meal, wine, water, and blood; these offerings are described as sustaining or restoring
+    the dead.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Lithuanian and Samogitian dead-related terms
+  summary: The passage notes the Lithuanian term weles for figures of the dead and
+    mentions the Samogitian goddess Vielona.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: unresting dead wandering near graves
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage reports souls that cannot rest in Hades, return, and wander about
+    the grave.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage cites Plato as an example within a secondary comparative note;
+    it does not narrate a full mythic episode.
+- id: motif:2
+  label: mortuary offerings feed or restore the dead
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The dead and near ancestors receive food and drink, water-libations, meal,
+    wine, water, and blood; shades are said to live on libations and souls regain
+    senses from blood.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The examples are compiled from multiple cited traditions and may not share
+    identical ritual meanings.
+- id: motif:3
+  label: ancestor and dead veneration through feasts and prayers
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage says the dead were worshipped, feasts were held in their honor,
+    and souls were prayed for.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives brief references rather than detailed ritual contexts.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself juxtaposes Persian, Russian, Indian, Greek, Lithuanian,
+    and Samogitian references as examples of rites or terms concerning the dead, supporting
+    a cautious same-function comparison around honoring or sustaining the dead through
+    feasts, prayers, offerings, and libations.
+  claim_level: same_function
+  target: cross-traditional mortuary veneration and offerings for the dead within
+    the cited examples
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a secondary comparative compilation and does not establish
+    historical contact, common inheritance, or identical meanings across the cited
+    traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15117-15122
+  quote_or_summary: A cited source divides people into living, hovering, doubtful,
+    and dead; another cited passage mentions souls unable to rest in Hades that return
+    and wander about the grave.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 15122-15127
+  quote_or_summary: The passage says the dead were worshipped, feasts were held in
+    their honor, and souls were prayed for.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 15127-15134
+  quote_or_summary: Near ancestors receive food and drink; udaka-karman is glossed
+    as water-libation for the dead; meal, wine, and water are poured into a hole in
+    the Odyssey example.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 15134-15138
+  quote_or_summary: "“The souls eagerly drink up the blood of victims, which restores
+    them to their senses”; the passage also says shades live on libations."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 15138-15140
+  quote_or_summary: The Lithuanian term weles is said to mean figures of the dead,
+    and the Samogitian goddess Vielona is mentioned.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but motif mapping is limited because
+    the passage is a compact secondary compilation of references rather than a continuous
+    primary myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the provided lists.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l15117-l15140
+  passage_sha256=1ddeb62ca604dbac84ee3a1c6581330894c54cc32bd8b812833405110217ed5f
+

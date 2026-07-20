@@ -20,7 +20,7 @@ provenance:
   publication_year: 1880
   publisher: Internet Archive
   source_url: https://archive.org/details/cu31924020443218
-  access_date: '2026-07-17'
+  access_date: '2026-07-19'
 rights:
   status: public_domain
   jurisdiction: US
@@ -83,9 +83,6 @@ Henrg W. Sag*
 Hu^nic, c,.\>a\ \%.
 
 
-5931
-
-
 The date shows when this volume was taken.
 
 To renew this book copy the callNb'. and Rive td
@@ -103,7 +100,7 @@ J953 H y A " Books subject to Recall
 
 i BP>rafi
 
-4OT 2 '5  !W*
+4OT 2 '5 <!W*
 
 
 Books not in. use for
@@ -111,8 +108,7 @@ Books not in. use for
 are returnable within
 4 Weeks.
 
-Volumes of periodi-
-cals and of pamphlets
+Volumes of periodicals and of pamphlets
 are held in the library
 as much as possible.
 Fop special purposes
@@ -121,11 +117,9 @@ a limited time.
 
 Borrowers should
 not use their library
-privileges for the bene-
-fit of other persons, i
+privileges for the benefit of other persons, i
 
-Students must re-
-turn all books before
+Students must return all books before
 leaving town. Officers
 should arrange for
 the return of books
@@ -149,8 +143,7 @@ circulate.
 
 Readers are asked
 to report all cases of
-books marked or muti-
-lated. .
+books marked or mutilated. .
 
 
 Do not deface books by marks and writing:.
@@ -184,9 +177,6 @@ the Cornell University Library.
 
 There are no known copyright restrictions in
 the United States on the use of the text.
-
-
-http://www.archive.org/details/cu31924020443218
 
 
 LEGENDS AND MYTHS
@@ -285,16 +275,10 @@ PACK
 Legends of the Waraus
 
 
-49
-
-
 PART III.
 
 
 Legends ofthe Caribs
-
-
-87
 
 
 PART IV.
@@ -308,9 +292,6 @@ PART V.
 
 
 Fanciful Legends
-
-
-163
 
 
 LIST OF ILLUSTRATIONS.
@@ -354,43 +335,22 @@ Frontispiece
 ...
 
 
-39
-
-
 5 1
 
 
 ...
 
 
-68
-
-
-89
+...
 
 
 ...
 
 
-97
-
-
 ...
 
 
-125
-
-
 ...
-
-
-150
-
-
-...
-
-
-165
 
 
 ...
@@ -448,45 +408,18 @@ PAGE
 
 /
 
-8
-
 
 IO-
-
-
-14
 
 
 IS
 
 
-22
-
-
-26
-
-
 3°
 
 
-35
-
-
-39
-
-
-44
-
-
-46
-
-
-47
-
-
 The Arawaks formerly inhabited the whole of the West Indian islands.
-Those in the Lesser Antilles were exterminated by the Caribs, before the dis-
-covery of America by Columbus. The inhabitants of the larger islands
+Those in the Lesser Antilles were exterminated by the Caribs, before the discovery of America by Columbus. The inhabitants of the larger islands
 perished soon after that event, under the oppression of the Spaniards.
 
 The few Arawaks who dwell near the coast of Guiana, and whose legends
@@ -508,8 +441,6 @@ And palms wave gently in the grove,
 
 As pleasant breezes blow.
 
-
-LEGENDS AND MYTHS OF THE
 
 I see, as natives pass me there,
 Bright copper skins and jet black hair ;
@@ -548,8 +479,6 @@ A "patois " I could daily hear
 From an old negress living near,
 
 
-ABORIGINAL TRIBES OF GUIANA.
-
 And could reply to, right or wrong.
 
 But when he spoke his own sweet tongue,
@@ -571,9 +500,6 @@ Of sorcerers and warriors bold ;
 But chief, this legend, grave and old,
 
 Of HIM who all things made.
-
-
-LEGENDS AND MYTHS OF THE
 
 
 I.
@@ -613,9 +539,6 @@ To Him for succour none can fly,
 He is so high above !
 
 1 Aiomun Kondi. ' IfilicL W'acinaci. 3 W'amurreti-kwonci.
-
-
-ABORIGINAL TRIBES OF GUIANA.
 
 
 ORIGIN OF LIVING CREATURES.
@@ -663,8 +586,6 @@ Water, air, and solid ground !
 
 1 The Ceiba, or silk-cotton tree.
 
-
-LEGENDS AND MYTHS OF THE
 
 Those which fell upon the stream
 Found a pleasant shelter there ;
@@ -716,8 +637,6 @@ To that legend, grave and old ;
 Since our fathers here surveyed
 
 
-ABORIGINAL TRIBES OF GUIANA.
-
 Steel-clad white men, strong and bold.
 They, with blood-hounds, we are told,
 Hunted men — and all for gold !
@@ -762,9 +681,6 @@ Mild revenge ! which poor men found,
 Who escaped, in swamps around,
 
 Spanish " arcabuz " and hound !
-
-
-LEGENDS AND MYTHS OF THE
 
 
 THE FIRE AND THE FLOOD.
@@ -819,8 +735,6 @@ Then on earth, his wrath prevailing,
 Came the burning flame.
 
 
-ABORIGINAL TRIBES OF GUIANA.
-
 Timely warning came from heaven :
 " Fire shall sweep the land ! "
 
@@ -866,8 +780,6 @@ Onward comes the blazing torrent ; '
 That burnt " clearing " stays its current :
 There — the flames expire.
 
-
-LEGENDS AND MYTHS OF THE
 
 Thither, from that danger flying,
 
@@ -920,8 +832,6 @@ For his wife and children fearing,
 Made a great canoe.
 
 
-ABORIGINAL TRIBES OF GUIANA. . 13
-
 Some among his nearest neighbours
 
 Said he was to blame ;
@@ -966,8 +876,6 @@ Moor to that — thy craft shall bear thee
 
 Safely near thy home ! "
 
-
-14 LEGENDS AND MYTHS OF THE
 
 Then, with lengthened bush-ropes mooring,
 
@@ -1022,8 +930,6 @@ And scarcely different from his we deem
 Their knowledge of one Lord, Eternal and Supreme.
 
 
-ABORIGINAL TRIBES OF GUIANA. 15
-
 Why did not they then on their "Father " call,
 Until the Christian teachers summoned all
 To join in prayer unto the common Lord ?
@@ -1062,8 +968,6 @@ With hundreds of voices from parrots there blending,
 
 As homeward green parrots now fly.
 
-
-16 LEGENDS AND MYTHS OF THE
 
 The bright macaw's scream may be heard in the chorus,
 
@@ -1108,8 +1012,6 @@ They are soon on the bank, and assisting to land
 Their two aged parents, with kind, loving hand.
 
 
-ABORIGINAL TRIBES OF GUIANA. 17
-
 And tall is that patriarch, chief of his clan,
 Though he leans on his staff as a feeble old man ;
 What he bears, wrapped in palm-leaves, I cannot well see,
@@ -1147,10 +1049,6 @@ This rattle, when demons you charm or abuse ? "
 
 Being urged by his sons and some friends who were near,
 He told a tradition they all longed to hear.
-3
-
-
-1 8 LEGENDS AND MYTHS OF THE
 
 
 THE LEGEND.
@@ -1196,8 +1094,6 @@ legend is the only one I know in which their former possession of the
 West India islands is mentioned.
 
 
-ABORIGINAL TRIBES OF GUIANA. 19
-
 " Tis for the dead,'' the chieftain said,
 
 " For whom I nought could do,
@@ -1242,8 +1138,6 @@ O'erlooks this pleasant sea.
 
 1 " Yauhahu simaira," a common expression denoting severe pain.
 
-
-LEGENDS AND MYTHS OF THE
 
 " When fruit is found, full large and round
 
@@ -1336,8 +1230,6 @@ But ne'er were taught to Him to flee,
 Whatever might befall."
 
 
-22 LEGENDS AND MYTHS OF THE
-
 'Twas so. The heathen all
 Said, " God, above the sky,
 
@@ -1379,8 +1271,6 @@ In a story we know
 Of what really happened a few years ago.
 
 
-ABORIGINAL TRIBES OF GUIANA. 23
-
 Two white men through our backwoods went, the Indian
 
 life to see,
@@ -1410,8 +1300,7 @@ They all forthwith fled like the wind, too much afraid to
 
 stay.
 He then made up his sacred fire, to burn the sacred weed,
-His patient thought, " I like a smoke, but this is waste in-
-deed ! "
+His patient thought, " I like a smoke, but this is waste indeed ! "
 
 
 His incantations then commenced, most terrible to hear,
@@ -1424,9 +1313,6 @@ curse ;
 'Twas all in vain ; the patient groaned, and said, " I'm
 
 getting worse ! "
-
-
-24 LEGENDS AND MYTHS OF THE
 
 
 He next inhaled tobacco smoke, much as his mouth could
@@ -1477,8 +1363,6 @@ And said, " From this sick man I've drawn what Yauhahu
 put in ! "
 
 
-ABORIGINAL TRIBES OF GUIANA. 25
-
 Now when our white friend's flesh was sucked, he strove to
 
 turn away,
@@ -1522,9 +1406,6 @@ He's shut up, and half-starved ; then, to take his degree,
 Drinks tobacco decoction, as strong as can be,
 
 Till he sinks in a trance : and revives — an M.D. !
-
-
-26 LEGENDS AND MYTHS OF THE
 
 
 The Moral.
@@ -1571,9 +1452,6 @@ male relative or friend, held some time after his death. It differs from
 the purely festive dance mentioned above.
 
 
-ABORIGINAL TRIBES OF GUIANA. 27
-
-
 THE LEGENDS.
 
 " Adaili is the glorious sun "
@@ -1615,9 +1493,6 @@ Then smote, to make the reptile yield,
 With that rJferd club he well could wield,
 
 Upon his head and tail.
-
-
-28 LEGENDS AND MYTHS OF THE
 
 
 " ' Oh, Arawidi, slay me not ! '
@@ -1672,16 +1547,13 @@ heroic personages of their national folk-lore.
 In the foregoing tale of Arawidi, those of the alligator's per-
 
 
-ABORIGINAL TRIBES OF GUIANA. 29
-
 sonal appearance are accounted for. In other legends, those of
 monkeys, jaguars, &c, were treated of. The fragmentary tale
 of the " Royal Vultures," of which the following outline was told
 to the writer by the Arawaks of Tapacuma, will show how they
 dealt with birds — real or fictitious.
 
-" A bold young Arawak hunter captures a beautiful royal vul-
-ture. She is the daughter of Anuanima, sovereign of a race
+" A bold young Arawak hunter captures a beautiful royal vulture. She is the daughter of Anuanima, sovereign of a race
 which has its country above the sky. When at home there,
 they cease to be birds, and assume the form and habits of human
 beings. The captive, smitten with love for her handsome captor,
@@ -1719,15 +1591,11 @@ The "kiskedee," though a valiant little bird, disliked the war,
 and bandaged his head with white cotton, pretending to be sick.
 
 
-30 LEGENDS AND MYTHS OF THE
-
-
 Being detected by more resolute warriors, as the hawk, &c, he
 was sentenced to wear the bandage continually. In time it
 marked his plumage ; and the white band is still conspicuous
 on the heads of his descendants. They are also noted for their
-hostility to hawks and other large birds, whom they attack in-
-cessantly when on the wing.
+hostility to hawks and other large birds, whom they attack incessantly when on the wing.
 
 The " warracobba " (trumpeter bird) and another quarrelled
 over the spoil, and knocked each other over into the ashes of
@@ -1747,8 +1615,7 @@ fertility and boldness of invention, with here and there touches
 of romantic beauty— were the mythical tales of the Arawak race
 in the days of yore. When the piai system began slowly to fade
 before Christianity, those legends, in their pure and connected
-shape, were no longer preserved. Their few remaining frag-
-ments are now distorted, intermixed, and in no two districts told
+shape, were no longer preserved. Their few remaining fragments are now distorted, intermixed, and in no two districts told
 alike.
 
 
@@ -1767,8 +1634,6 @@ Whose strange motley crews oars and paddles are plying ;
 They come from the sea, where a vessel is lying,
 
 
-ABORIGINAL TRIBES OF GUIANA. 31
-
 Which has from our city run down.
 Their course they are steering
 To this mission " clearing,"
@@ -1780,8 +1645,7 @@ And multitudes welcome the Governor landing,
 Whose uniform glitters with gold.
 His " aides " there attendant
 In helmets resplendent ;
-Their smart handsome belts, and bright scabbards de-
-pendent,
+Their smart handsome belts, and bright scabbards dependent,
 The red men, delighted, behold.
 Then come other gentlemen, welcomed with cheering ;
 But most the good Bishop — all hail his appearing
@@ -1809,8 +1673,6 @@ A cutting runs through it, which some men are clearing,
 
 Whilst others are gazing inside.
 
-
-32 LEGENDS AND MYTHS OF THE
 
 # * s£ sfc ♦ *
 
@@ -1861,9 +1723,6 @@ School-children with banners their teachers precede,
 And the old people bring up the rear.
 
 
-ABORIGINAL TRIBES OF GUIANA. 33.
-
-
 Soon, the beautiful strain
 Of " Jesus shall reign "
 
@@ -1905,10 +1764,7 @@ Some had said 'twas " a gun : "
 And — though he would not run —
 To have it aimed at him seemed very queer fun ;
 And he kept getting out of the way.
-4
 
-
-34 LEGENDS AND MYTHS OF THE
 
 Yet he was a wise elder upon his own ground,
 
@@ -1953,10 +1809,7 @@ And none with slayers, or with slain, would kindred claim
 or show.
 
 
-ABORIGINAL TRIBES OF GUIANA. 35
-
-Then said he, "When the Meyanow had all been over-
-thrown,
+Then said he, "When the Meyanow had all been overthrown,
 
 The Caribs came, and little peace by any race was known.
 
@@ -1995,8 +1848,6 @@ And made them cry, ' O let us die, 'tis more than man can,
 
 bear ! '
 
-
-36 LEGENDS AND MYTHS OF THE
 
 " Our fathers then a war chief made, whom all men should
 
@@ -2043,9 +1894,6 @@ house behold.
 on the shore of the southern continent were Arawaks, armed with bows
 and arrows, and bucklers. I have heard no other legend, however, of
 any aboriginal tribe, in which the latter are mentioned.
-
-
-ABORIGINAL TRIBES OF GUIANA. 37
 
 
 The barricade there makes them pause — still they will not
@@ -2146,12 +1994,6 @@ On land too, at the midnight hour,
 At dawn or close of day.
 
 
-ABORIGINAL TRIBES OF GUIANA.
-
-
-39
-
-
 " Brave men," they sang, " our fathers were,
 And we their fame and valour share ;
 Your lives are ours, your daughters fair
@@ -2169,8 +2011,6 @@ There is no need to tell again what has been told before ;
 Of how we suffered, from the Caribs, wrongs both deep and
 
 
-40 LEGENDS AND MYTHS OF THE
-
 They who oppressed our fathers here from Orinoco came,
 
 Through Barima and Waiini, as we those rivers' name.
@@ -2181,8 +2021,7 @@ rivers swept ;
 Poor captive women paddled them ; and as they worked
 they wept.
 
-Long time the Waraus, who lived there, their stern oppres-
-sion felt ;
+Long time the Waraus, who lived there, their stern oppression felt ;
 
 Until they fled to " ita " swamps, where more secure they
 dwelt.
@@ -2218,8 +2057,6 @@ We, who are men, will meet our foes down at the river's
 
 side."
 
-
-ABORIGINAL TRIBES OF GUIANA. 41
 
 So to the river down they went, and there the captain
 
@@ -2268,9 +2105,6 @@ And sore displeased those Caribs were, because the birds
 had flown. .
 
 
-42 LEGENDS AND MYTHS OF THE
-
-
 Yet still they paddle on and on, but no canoes can see ;
 Until a fishing craft appears, with young men two or three.
 " O strive to catch that light canoe, which skims along so
@@ -2296,8 +2130,7 @@ And here they have to wind about beneath the trees so high ;
 Yet still they onward rush and shout, nor think an ambush
 nigh.
 
-The small craft slackens speed at length — it is not under-
-stood —
+The small craft slackens speed at length — it is not understood —
 
 But they tear on with all their strength, and strike the sunken
 wood.
@@ -2318,8 +2151,6 @@ A third, a fourth, a fifth, a sixth — the small stream winding
 round —
 Allows no sight of that fierce fight, they only hear the sound.
 
-
-ABORIGINAL TRIBES OF GUIANA. 43
 
 " Now, forward with your long hooked poles ! let no foe
 
@@ -2356,9 +2187,6 @@ Exposing groups of human bones — sad relics of that fray.
 
 
 1 A common name or title among Carib chiefs.
-
-
-44 LEGENDS AND MYTHS OF THE
 
 
 THE FIGHT ON THE WAIINI.
@@ -2404,8 +2232,6 @@ Said, " What must be Manarwa's doom ? shall he alive
 remain ? "
 
 
-ABORIGINAL TRIBES OF GUIANA. 45
-
 So warriors and elders grave in council met next day,
 Where the old chieftain, wounded sore, was asked what he
 
@@ -2450,9 +2276,6 @@ Whatever cause may be assigned, we found their inroads
 cease,
 And since those fights, of which I tell, this region has had
 ■; - peace.
-
-
-46 LEGENDS AND MYTHS OF THE
 
 
 ALLIANCE AND INTERCOURSE WITH WHITE MEN.
@@ -2542,8 +2365,6 @@ Their ancient legends told.
 
 1 Lit., " beautiful hair ; " name given in infancy.
 
-
-48 LEGENDS AND MYTHS OF THE
 
 And came alone, Christ's word to hear,
 
@@ -2664,9 +2485,6 @@ came, to his surprise, on the wildly romantic mythological legends which
 are here given.
 
 
-52 LEGENDS AND MYTHS OF THE
-
-
 Legends of the Waraus.
 
 
@@ -2703,8 +2521,6 @@ boards.
 ' The mauritia (or morische) palm, called by the ArawSks "ite."
 
 
-ABORIGINAL TRIBES OF GUIANA. 53
-
 Yet some provision grounds those Waraus have,
 Where land appears above the tidal wave ;
 And from their swampy refuges they come,
@@ -2740,8 +2556,6 @@ Then, at last, a friend told me to send for "McLeod,"
 
 1 Warau — pronounce the latter syllable like "row," a quarrel.
 
-
-54 LEGENDS AND MYTHS OF THE
 
 Who to be their most learned by all was allowed.
 And that Warau of fame
@@ -2789,8 +2603,6 @@ Above yonder blue sky,
 Ere they came down the good things of this world to try.
 
 
-ABORIGINAL TRIBES OF GUIANA. 55
-
 Such, such is the tale of our forefathers given,
 Who thus rashly lost their high station in heaven ! "
 
@@ -2832,8 +2644,6 @@ But still, as it saw him, the bird flew away,
 Till (surely some evil one brought it to pass)
 He saw it alight in a clump of high grass.
 
-
-56 LEGENDS AND MYTHS OF THE
 
 Then, lying flat down, he slid over the ground,
 Like tiger or snake which some victim has found;
@@ -2923,8 +2733,6 @@ Strong-limbed, and brave-hearted, then ventured below.
 By a ladder so frail, which light currents could move.
 
 
-58 LEGENDS AND MYTHS OF THE
-
 And when he was down, he stood gazing around
 In utter amazement at all things he found ;
 The life, so abundant, he saw with surprise,
@@ -2970,8 +2778,6 @@ So they asked no permission, but said, " We will go ! "
 And came down the rope ladder to this world below.
 
 
-ABORIGINAL TRIBES OF.GUIANA. 59
-
 All things then were young — no old people were found ;
 Small children they carried, and all reached the ground
 In safety, save one — a poor woman, the last,
@@ -3008,8 +2814,6 @@ Consider how you, in that case, can hold on ?
 You must be swept off, and our best men be gone."
 
 
-60 LEGENDS AND MYTHS OF THE
-
 So the woman remains (though the ladder gave way),
 And will always remain there, our old Waraus say.
 She fills up the hole ; and, good friends, that is why
@@ -3045,8 +2849,6 @@ Savage beasts of prey abound.
 Reptiles coil in trees around,
 Or lurk, deadly, on the ground.
 
-
-ABORIGINAL TRIBES OF GUIANA. 61
 
 One thing then filled all with fear,
 
@@ -3087,8 +2889,6 @@ All things are at Thy command ;
 Seeking water vainly now
 
 
-62 LEGENDS AND MYTHS OF THE
-
 We may roam through this dry land.
 Must we perish 'neath Thy hand ?
 Wretched, miserable band ! "
@@ -3125,8 +2925,6 @@ Years rolled on, and men, grown hateful,
 Ceased their passions to restrain ;
 Took their Maker's gifts ; ungrateful,
 
-
-ABORIGINAL TRIBES OF GUIANA. 63
 
 Thanked him not for sun and rain ;
 But forsook Him once again,
@@ -3171,8 +2969,6 @@ Yet of that he said, " Beware !
 Shun its waters, bathe not there ! "
 
 
-64 LEGENDS AND MYTHS OF THE
-
 Well our sires obeyed the warning ;
 
 Some to guard that lake they chose,
@@ -3212,8 +3008,6 @@ From these clear waters have refrained ;
 
 Come, sister, bathe with me.
 
-
-ABORIGINAL TRIBES OF GUIANA. 65
 
 " For what is here to do us harm ?
 
@@ -3257,10 +3051,7 @@ And broke the mighty charm.
 They saw a man-like form arise,
 And Korobona was his prize,
 Held by a powerful arm.
-6
 
-
-66 LEGENDS AND MYTHS OF THE .
 
 (A water spirit, 'neath the wave,
 
@@ -3347,12 +3138,6 @@ Steals to the lake, and watches there,
 Resolved the truth to find.
 
 
-68
-
-
-LEGENDS AND MYTHS OF THE
-
-
 And long she waits beneath the trees
 Filled with strange hope and fear ;
 Whilst he, who can her presence spy,
@@ -3368,8 +3153,6 @@ The tail, like filmy scum, is near
 
 No other part is shown.
 
-
-ABORIGINAL TRIBES OF GUIANA. 69
 
 Why, Korobona, dost thou stoop,
 
@@ -3413,8 +3196,6 @@ For eyes and ears cannot be sealed)
 
 Hath faithfully been kept.
 
-
-79 LEGENDS AND MYTHS OF THE
 
 One, passing by, the infant's cry
 
@@ -3461,8 +3242,6 @@ Till sorrow, by their talk beguiled,
 Would seem to pass away.
 
 
-ABORIGINAL TRIBES OF GUIANA. 71
-
 But Korobona. quite forgot
 
 That some her track might know —
@@ -3503,8 +3282,6 @@ The woes you fear will now be sent —
 
 And come through you, not me !
 
-
-72 Legends and myths of the
 
 il See here your Korobona lie !
 
@@ -3548,8 +3325,6 @@ For that great change which waits all men
 
 Touched not the serpent child.
 
-
-ABORIGINAL TRIBES OF GUIANA. 73
 
 At length that heap, with flowers bedecked^
 
@@ -3635,8 +3410,6 @@ Each charged his children when he died
 To place his weapons at his side.
 
 
-ABORIGINAL TRIBES OF GUIANA. 75
-
 " Lay bow and arrows in my grave,
 
 That I may keep at bay
@@ -3680,8 +3453,6 @@ must have listened to the legend of " the humming birds "—the sweetest
 myth of the western world.
 
 
-76 LEGENDS AND MYTHS OF THE
-
 VI.
 
 LEGEND OF ABORE
@@ -3722,8 +3493,6 @@ Men must hunt for wild bees while the sun says they
 may."
 
 
-ABORIGINAL TRIBES OF GUIANA. 77
-
 She who thus chid the youth was a fine, handsome dame,
 Who from childhood had reared him. — Wowtah was her
 name.
@@ -3763,8 +3532,6 @@ But what canst thou see
 In that huge hollow tree,
 Where serpents and scorpions hiding may be ? "
 
-
-73 LEGENDS AND MYTHS OF THE
 
 " I search these old trees
 For the nests of wild bees,
@@ -3809,8 +3576,6 @@ When Wowtali is much pleased she will croak with delight.
 
 She croaks at the honey, she croaks upon me ;
 
-
-ABORIGINAL TRIBES OF GUIANA. 79.
 
 But bride to Abord she never will be !
 Oh, tell me, kind spirit, and I will obey ;
@@ -3894,8 +3659,6 @@ Or danced over the waves of that great rolling flood,
 And he saw that for his purpose they were not good.
 
 
-ABORIGINAL TRIBES OF GUIANA. 81
-
 The half of a gourd he could readily float,
 But its shape, he soon found, would not do for a boat.
 From an oblong seed-pod his best model he drew,
@@ -3932,10 +3695,6 @@ Abore" then thought, " If Wowtih chance to spy
 Our flight, she will stay me with her evil eye.
 I must prevent that, or, at least, I will try."
 
-7
-
-
-82 LEGENDS AND MYTHS OF THE
 
 So he took, her a nest of fine honey to see,
 Which was deep in the heart of a large hollow tree ;
@@ -3981,8 +3740,6 @@ In that huge hollow tree, began loudly to moan.
 Some passers-by heard her, and, finding her plight,
 
 
-ABORIGINAL TRIBES OF GUIANA. 83
-
 They would not let her out, for they said, " She's served
 right.
 
@@ -4025,9 +3782,6 @@ She came. We all knew by the sad croak she gave ;
 And we said, " She still grieves for her runaway slave !
 
 
-84 LEGENDS AND MYTHS OF THE
-
-
 SEQUEL TO THE ANCIENT LEGEND.
 
 We offered our thanks to our old Warau friend,
@@ -4064,8 +3818,6 @@ From a nail to a gun. —
 But you owe to Abort: the things you have 'done !)
 
 
-ABORIGINAL TRIBES OF GUIANA.. 85
-
 And to this pray attend !
 
 To the whole world a friend,
@@ -4101,8 +3853,6 @@ Were the price of assistance to Indians paid.
 When slavery ceas'd their help was not required,
 So the custom of annual "presents" expired.
 
-
-86 ABORIGINAL TRIBES OF GUIANA.
 
 No loss to the Indians, but great moral gain ;
 For now they must work for the goods they obtain.
@@ -4187,14 +3937,12 @@ PAGE
 ■■ 92
 
 ■• 95
-99
 . 102
 .. 103
 .. 104
 .. 106
 .. no
 . "5
-117
 . 120
 
 
@@ -4202,8 +3950,7 @@ The Caribs, when discovered by Columbus, were in possession of the
 smaller West Indian islands, and had begun to attack the larger.
 
 Of their origin nothing certain is known. Humboldt states that the
-opinion common amongst Europeans in the sixteenth and seventeenth cen-
-turies was that they came from the vicinity of Darien, and that more recently
+opinion common amongst Europeans in the sixteenth and seventeenth centuries was that they came from the vicinity of Darien, and that more recently
 they were supposed to have come from the northern continent.
 
 But the constant tradition of the Caribs themselves, both in the islands
@@ -4258,8 +4005,6 @@ In Cuba — as in fair Hayti —
 Enslaved by Spanish cruelty,
 
 
-ABORIGINAL TRIBES OF GUIANA. 91
-
 Or slain — all passed away !
 But Caribs made a fiercer stand :
 Fighting till death, that for their land
@@ -4298,9 +4043,6 @@ And long they kept the flag he gave,
 That they his ships might know. 1
 
 Bancroft (1769) mentions it as still preserved by them.
-
-
-92 LEGENDS AND MYTHS OF THE
 
 
 STRUGGLES WITH EARLY COLONISTS.
@@ -4348,8 +4090,6 @@ For trifling acts the white man bleeds ;
 Most cruel was his sway.
 
 
-ABORIGINAL TRIBES OF GUIANA. 93
-
 The natives, too, he dared oppress.
 Then Caribs vowed, in stern redress,
 That tyrant chief to slay !
@@ -4390,8 +4130,6 @@ Her crew have halberd, sword, and gun ;
 
 All Frenchmen, strong and bold !
 
-
-94 LEGENDS AND MYTHS OF THE
 
 " They gain the shore. Then, in pursuit,
 Bretigny lands — for without fruit
@@ -4434,8 +4172,6 @@ Wherever colonists are found ;
 Destroying all white men.
 
 
-ABORIGINAL TRIBES OF GUIANA. 95.
-
 The Frenchmen come again, but fail ;
 Tis twenty years ere they prevail
 And settle in Cayenne." '
@@ -4476,11 +4212,9 @@ Around — the heavy hand had felt —
 Of Caribs, fierce and brave.
 
 1 In 1664, under M. de La Barre. The English had by that time
-made a settlement on the Coma, or Surinam, which, in 1667, was ex-
-changed with the Dutch for "New Holland," the present New York.
+made a settlement on the Coma, or Surinam, which, in 1667, was exchanged with the Dutch for "New Holland," the present New York.
 Essequibo and Berbice (now English) were colonised by the Dutch in
-the early part of the seventeenth century, and remained in their posses-
-sion nearly two hundred years. Demerara was also founded by them,
+the early part of the seventeenth century, and remained in their possession nearly two hundred years. Demerara was also founded by them,
 though at a much later period.
 
 
@@ -4527,8 +4261,6 @@ Such as come downward with the tide.
 Woe to the victims they surprise !
 
 
-98 LEGENDS AND MYTHS OF THE
-
 All adults slain, each girl a prize
 
 Must in their hands remain.
@@ -4568,9 +4300,6 @@ The stern war summons to obey.
 Burning their enemies to slay,
 
 None could in peace repose.
-
-
-ABORIGINAL TRIBES OF GUIANA. 99
 
 
 THE WAR ON THE ORINOCO.
@@ -4613,8 +4342,6 @@ Of the succeeding night.
 thus spared.
 
 
-LEGENDS AND MYTHS OF THE
-
 He then was forced to climb a tree,
 That thence he might the better see
 The savage victors eat the slain ;
@@ -4656,8 +4383,6 @@ They found the memory of that night
 
 Was heavy then to bear.
 
-
-ABORIGINAL TRIBES OF GUIANA. 101
 
 They saw the numbers of their foe,
 Which seemed continually to grow ;
@@ -4702,9 +4427,6 @@ the Cabres (as stated above), of various other inland tribes, and of the
 Caribs of the islands in former days.
 
 
-LEGENDS AND MYTHS OF THE
-
-
 III.
 
 MYTHOLOGICAL LEGENDS
@@ -4739,8 +4461,6 @@ Men beat the drum, or sound the flute
 But all at length are hushed and mute,
 And empty is the large canoe.
 
-
-ABORIGINAL TRIBES OF GUIANA. 103
 
 The feast is o'er ; but old men stay,
 
@@ -4789,8 +4509,6 @@ But their cakes, when they were " done,"
 Were like sand, or crumbling stone.
 
 
-104 LEGENDS AND MYTHS OF THE
-
 Tamosi * had there provided
 
 Wild fruits, suiting beast or bird.
@@ -4838,8 +4556,6 @@ Which we now (in gardens) meet.
 '"Tamosi Kabo-tano " (Ancient one of Heaven), the Supreme
 Being.
 
-
-ABORIGINAL TRIBES OF GUIANA. 105
 
 Golden maize, so fresh and fair,
 Waved its plumy tresses there.
@@ -4935,8 +4651,6 @@ Of still greater ills to men.
 Some a sacred grot could see.
 
 
-ABORIGINAL TRIBES OF GUIANA. [07
-
 Saw they there the Water-Mother
 
 Bathing in her loved abode ?
@@ -4980,8 +4694,6 @@ You at will may cast them from you,
 
 Youth renewing, bright and fair :
 
-
-108 . LEGENDS AND MYTHS OF THE
 
 As the serpent glideth clear
 
@@ -5028,8 +4740,6 @@ Terrifies the stoutest one.
 ' I-arreka-ru (Acawoio, "Iwarreka"), the monkey.
 
 
-ABORIGINAL TRIBES OF GUIANA. 109
-
 And these words, in solemn tone,
 Issue from the outraged stone :
 
@@ -5068,10 +4778,8 @@ Sink, as rocks, beneath the wave. 1
 
 1 There is an episode, usually given here, of a "cocorite" palm,
 which mankind strove to ascend, because its top reached the heavens.
-A poor woman, not in a condition to climb, led the way. When half-
-way up she was turned into stone by terror and exhaustion. None could
-help her, and none could pass over her. All who tried to do so be-
-came rocks likewise. The terrified survivors then climbed the komoo,
+A poor woman, not in a condition to climb, led the way. When halfway up she was turned into stone by terror and exhaustion. None could
+help her, and none could pass over her. All who tried to do so became rocks likewise. The terrified survivors then climbed the komoo,
 and were saved.
 
 
@@ -5168,8 +4876,6 @@ Overcoming all resistance,
 Smooth and gentle slopes he made.
 
 
-LEGENDS AND MYTHS OF THE
-
 Many rocks and cliffs, men say,
 By their power were charmed away.
 
@@ -5215,8 +4921,6 @@ Now exert thy wondrous skill —
 Strive to remedy this ill."
 
 
-ABORIGINAL TRIBES OF GUIANA. 113
-
 Then he spent much toil and trouble
 
 On great Orinoco's flood ;
@@ -5257,7 +4961,6 @@ And from fruitless labour turned.
 
 When he from this land departed,
 Having done what he could do,
-9
 
 
 H4 LEGENDS AND MYTHS OF THE ,
@@ -5300,9 +5003,6 @@ solved, even in part, it is at present impossible to say. In the interest
 of science, it is desirable that a collection of photographs of the most
 remarkable — not only on the Orinoco, but (if possible) from the Rio
 Negro to the Corentyn — should be made and compared.
-
-
-ABORIGINAL TRIBES OF GUIANA. 115
 
 
 LEGEND OF MANAROWA.
@@ -5476,8 +5176,6 @@ And white men said, ' Manarowy,
 The Caribisi King ! '"
 
 
-ABORIGINAL TRIBES OF GUIANA. 1 19
-
 In Demerara 'twas the same ;
 When he before White rulers came,
 
@@ -5518,8 +5216,6 @@ Yet glory is but for a day,
 Prosperity will pass away,
 Old age must still come on.
 
-
-120 LEGENDS AND MYTHS OF THE
 
 And when Great Britain, with a frown,
 Viewed the slave-trade, and put it down,
@@ -5563,8 +5259,6 @@ Walk by his pastor's side,
 
 With that broad crescent on his breast
 
-
-ABORIGINAL TRIBES OF GUIANA. 12 1
 
 His grandsire wore of old.
 In sad procession came the rest
@@ -5665,8 +5359,7 @@ subdivisions.
 
 Of the history of those races we know very little beyond what their family
 traditions may supply. Schomburgk thought that the Macusis formerly
-lived on the Orinoco. He states also, on historic evidence, that the Are-
-cunas formerly dwelt on the Uaupes, or Ucayari, a tributary of the Rio
+lived on the Orinoco. He states also, on historic evidence, that the Arecunas formerly dwelt on the Uaupes, or Ucayari, a tributary of the Rio
 Negro. All beyond is enveloped in the mist of ages.
 
 
@@ -5691,8 +5384,6 @@ Have sprung, which we the " Kapohn-yamu " call.
 One, whose forefathers were their chiefs of old,
 At my request, their ancient legends told ;
 
-
-126 LEGENDS AND MYTHS OF THE
 
 Their quaint mythology — (its op'ning page
 
@@ -5739,8 +5430,6 @@ Glad his loving call to hear.
 ' Homage paid to man — their king.
 
 
-ABORIGINAL TRIBES OF GUIANA. 127
-
 No great trouble or disaster
 
 Could oppress them or annoy ; •
@@ -5782,8 +5471,6 @@ Though differing widely now, the ancient traditions, as well as the
 languages spoken by these two nations, and some others, now widely
 spread, point to a common origin at some remote period.
 
-
-128 LEGENDS AND MYTHS OF THE
 
 To the spirit of play
 
@@ -5827,8 +5514,6 @@ For what purpose thy wonderful waters now swell ? "
 And he found that those waters, ere next rise of sun,
 O'er the world, all around, were preparing to run.
 
-
-ABORIGINAL TRIBES OF GUIANA. 129
 
 Then with dexterous hands a wide basket he made,
 Which, inverted, he over the hollow stump laid ; ' "
@@ -5874,8 +5559,6 @@ And the land disappears as the waters flow round.
 And thou for the safety of all must provide."
 
 
-1 30 - LEGENDS AND MYTHS OF THE '
-
 So the -man leads the way, till before him he sees
 A tall hill, with high rocks, and some cocorite trees.
 Then says, " We may find a last refuge in these.
@@ -5894,8 +5577,7 @@ There the queer spider monkey, with long limbs, is seen,
 The red-bearded one, which " Arowta" 1 we call ;
 The marmosets small — and, in fact, monkeys all,
 There sit, in the palm, to be kept safe from harm,
-With their tails round their neck, curled, to keep them-
-selves warm.
+With their tails round their neck, curled, to keep themselves warm.
 
 Such a rain then succeeded as none before knew,
 Nor has such been experienced by me or by you.
@@ -5913,8 +5595,6 @@ Then they ate of the palm-fruits, and welcomed the dawn.
 
 " Arawata, " in the Caribi ; Spanish, " Araguato."
 
-
-ABORIGINAL TRIBES OF GUIANA, 131
 
 . , i,
 
@@ -5963,9 +5643,6 @@ And the trumpeter bird
 
 With the others then heard,
 Yet he would not from getting down first be deterred.
-
-
-132 LEGENDS AND MYTHS OF THE
 
 
 " Yahgahmi, beware ! " said the man, with a frown,
@@ -6019,8 +5696,6 @@ tongue ! *
 2 The tongue of the alligator, previous to this calamity, is supposed
 to have been long and flexible.
 
-
-ABORIGINAL TRIBES 'OF GUIANA. 133
 
 O sad were the mishaps of that fatal day —
 
@@ -6169,8 +5844,6 @@ Some Caribs there were slain.
 Nought could their comrades' wrath assuage,
 
 
-136 .LEGENDS AND MYTHS OF THE
-
 Who killed their captives in their rage ;
 
 Then, seeing boys remain,
@@ -6214,9 +5887,6 @@ While others propped the roof, they say,
 To make it safe and sound.
 
 
-ABORIGINAL TRIBES OF GUIANA. 137
-
-
 2. THE SURPRISE ON THE CUYUNI.
 
 While they were all assembled there,
@@ -6258,8 +5928,6 @@ At once to their flotilla fly ;
 
 Their weapons all are there I
 
-
-138 .LEGENDS AND MYTHS OF THE
 
 No valour can regain the day,
 
@@ -6307,8 +5975,6 @@ Full dearly, with their warriors dead.
 For what they get this day ! "
 
 
-ABORIGINAL TRIBES OF GUIANA. 159
-
 Then to the women : " Ye shall live ;
 
 Wait till the fight is high,
@@ -6354,8 +6020,6 @@ There entered but to die !
 Amazed at such resistance, then
 
 
-140 LEGENDS AND MYTHS OF THE
-
 The Carib chiefs' called off their men
 
 Not to retreat or fly —
@@ -6396,8 +6060,6 @@ All said, " 'Tis sorcery indeed,
 
 Such as none knew before ! "
 
-
-ABORIGINAL TRIBES OF GUIANA. 141
 
 The chiefs then — while the numerous dead
 They buried — to their warriors said,
@@ -6483,8 +6145,6 @@ To turn him from his wrath, and said,
 " Koe" is not to blame :
 
 
-ABORIGINAL TRIBES OF GUIANA. 143
-
 He grieved when our good father died J
 If you assail him, you provide
 For all deep grief and shame 1 "
@@ -6523,8 +6183,6 @@ Or you the bloody fate shall share
 
 Of those before you slain ! "
 
-
-144 LEGENDS AND MYTHS OF THE
 
 Ekahruwa, by sorcery led,:
 
@@ -6569,8 +6227,6 @@ And all Puruni men make speed
 To view their slaughtered dead.
 
 
-ABORIGINAL TRIBES OF GUIANA, 145
-
 Young men to save the maidens fly,
 And every forest path they try,
 
@@ -6614,8 +6270,6 @@ In swiftness, strength, or archery,
 In sport or bloody fray ?
 ji
 
-
-146 LEGENDS AND MYTHS OF THE
 
 " Now hear, Puruni people, all !
 Nine men I've seen around me fall,
@@ -6662,8 +6316,6 @@ Our countrymen of every clan
 Came, and the chieftains all.
 
 
-ABORIGINAL TRIBES OF GUIANA. 147,
-
 The chiefs to mediate drew near,
 Called on the aggressor to appear,
 
@@ -6705,8 +6357,6 @@ He said, " O Kapohn-yamu all !
 No man for me shall fight, and fall
 By this proud boaster's hand !
 
-
-148 LEGENDS AND MYTHS OF THE
 
 I here forbid my friends the fight :
 This hand, though weak, may do me right ;
@@ -6750,8 +6400,6 @@ Are from their course by sorcery bent ! —
 
 My club I now will try."
 
-
-ABORIGINAL TRIBES OF GUIANA. 149
 
 Swift he comes on, with fell design :
 
@@ -6801,9 +6449,6 @@ heightened by superstition.
 'i 5 o
 
 
-LEGENDS AND MYTHS' OF THE-
-
-
 Shot through the breast, he groans and dies ;
 
 The chieftains all draw near ;
@@ -6821,8 +6466,6 @@ Yet fpr, my brother came to fight, "
 For.'.though'his deeds were far from right,
 He was my brother still I ■
 
-
-ABORIGINAL TRIBES OF GUIANA. 151
 
 " He now is in fair battle slain :
 And ere we home return again,
@@ -6866,8 +6509,6 @@ Barahma they could see.
 Some sought the Demerara Fall,
 The Arawaks there welcomed all, -
 
-
-152 LEGENDS AND MYTHS OF THE
 
 And gave to them a warrior tall,
 
@@ -6914,8 +6555,6 @@ Still around his victim's way,
 
 Hovering night and day to slay.
 
-
-ABORIGINAL TRIBES OF GUIANA. 153
 
 If the victim, warned of danger,
 
@@ -7015,9 +6654,6 @@ Christians all he vowed to kill !
 threatening signification.
 
 
-ABORIGINAL TRIBES OF GUIANA. 155
-
-
 BLOOD REVENGE.
 1.
 
@@ -7064,9 +6700,6 @@ To his nieces, secretly.
 Following his evil nature,
 
 ' I,' said' he, ' the chief must be.
-
-
-156 LEGENDS AND MYTHS OF THE
 
 
 Men approve my strength and stature,
@@ -7210,8 +6843,6 @@ Those were the days of." Joe Smith's" early Mormon successes, and
 our impostor seemed to imitate him as far as he could.
 
 
-ABORIGINAL TRIBES OF GUIANA. 159
-
 To Bowruma's giant tree :
 'Neath its shade our rest shall be.'
 
@@ -7255,8 +6886,6 @@ With them children of the slain.
 Came his sons, now tall of stature,
 Came his grandsons, active band.
 
-
-160 LEGENDS AND MYTHS OF THE
 
 Sorcerers said, ' Revenge is nature.
 
@@ -7308,8 +6937,6 @@ Twice the other struck — and fled.
 Oh, what else in that great danger,
 Could the destined victim do ?
 
-
-ABORIGINAL TRIBES OF GUIANA. 161
 
 You would strike if some fell stranger
 
@@ -7396,9 +7023,6 @@ Conclusion 206
 As we haul the boat o'er."
 
 
-1 66 LEGENDS AND MYTHS OF THE
-
-
 Fanciful Legends.
 
 
@@ -7431,8 +7055,6 @@ Such are not malignant, though sometimes, perchance,
 Human beings they sorely affright.
 
 
-ABORIGINAL TRIBES OF GUIANA. 167
-
 Of some pillar-like rocks, which the traveller sees,
 They will say, " They were trees
 Which once waved in the breeze."
@@ -7463,12 +7085,9 @@ And pretending to show how it rose."
 THE LEGEND.
 " Come with us, O Bahmoo, to hunt the huge frogs,
 Which are found nowhere else in our rivers and bogs :
-Good food ; though in size they approach the bush-
-hogs :
+Good food ; though in size they approach the bushhogs :
 Some excellent sport you may find."
 
-
-168 LEGENDS AND MYTHS OF THE
 
 Thus our young men addressed
 
@@ -7516,8 +7135,6 @@ As from each monstrous throat
 Pealed the long rolling note ;
 
 
-ABORIGINAL TRIBES OF GUIANA. 169.
-
 And he heard it resound,
 
 Far and near, all around,
@@ -7564,8 +7181,6 @@ They all merrily sing —
 " Boro-ohk, boro-ohk, boro-00 ! "
 
 
-170 LEGENDS AND MYTHS OF THE
-
 But meanwhile, Bahmoo's comrades, pray what have they
 
 done?
@@ -7606,8 +7221,6 @@ Adieu, my good Bahmoo, adieu ! "
 He then dived below ; the man saw him no more,
 But remained there alone on that desolate shore.
 
-
-ABORIGINAL TRIBES OF GUIANA. 171
 
 When the young men had finished their frog-hunt, they
 
@@ -7653,11 +7266,7 @@ When tempted to boast of what you " mean to do,"
 Pray remember the frog, and vain-glorious Bahmoo.
 
 
-1 The frog chorus in this legend, when taken up by the native audi-
-tence, all admirable mimics, has a most amusing effect.
-
-
-172 LEGENDS AND MYTHS OF THE
+1 The frog chorus in this legend, when taken up by the native auditence, all admirable mimics, has a most amusing effect.
 
 
 LEGEND OF THE HAIARRI ROOT.
@@ -7690,8 +7299,7 @@ And fatal, was that of the deadly sting-ray.
 When the father his son through the forest was bearing,
 The dying youth saw his blood drop on the ground ;
 
-And he said, " Father, watch for strange plants here ap-
-pearing ;
+And he said, " Father, watch for strange plants here appearing ;
 My blood will take root, and avengers abound."
 
 
@@ -7700,9 +7308,6 @@ In pools or small streams, makes the fishes our prey.
 
 Think on what the fish gained, when the roots you are using,.
 Or when anger tempts you a foeman to slay !
-
-
-ABORIGINAL TRIBES OF GUIANA. 173
 
 
 THE GREAT SERPENT'S SKIN.
@@ -7750,8 +7355,6 @@ But he had to give in ; and was finally skinned,
 'Midst the shouts and wild cries of them all.
 
 
-174 LEGENDS AND MYTHS OF THE
-
 That struggle took place on the Cako, men say,
 
 Where the snake's length is marked on the rocks to this day.
@@ -7790,9 +7393,6 @@ Which he placed on his shoulders to bear safely home.
 Then a wonder ensued ! Birds of soberest hue
 Became of those colours,white, yellow, and blue !
 Parrots then were first seen dressed in red and in green,
-
-
-ABORIGINAL TRIBES OF GUIANA. 175
 
 
 ieen.
@@ -7837,12 +7437,9 @@ Who caught great snakes with slender cord. 2
 * The tiger slayer, a Carib, and the snake-catcher, an Arawak, are
 not mythical personages. They belonged to the last generation, and
 both became Christian converts. The former would attack any jaguar,
-and cleave his skull with axe or cutlass. Of the skill and daring dis-
-played by the latter in the capture of a kolokonaro snake, with only a
+and cleave his skull with axe or cutlass. Of the skill and daring displayed by the latter in the capture of a kolokonaro snake, with only a
 cord and forked stick, the writer was an eye-witness.
 
-
-176 LEGENDS AND MYTHS OF THE
 
 * * V * *
 
@@ -7890,8 +7487,6 @@ those of human beings. Pahndun, a captive, undertook to gratify him,
 with the above result.
 
 
-ABORIGINAL TRIBES OF GUIANA. 177
-
 " Oh, father ! " she cried, " he has no one to cheer him,
 That lonely young hunter — so brave and so free !
 
@@ -7930,10 +7525,7 @@ He counted his dogs, and he found there but three ;
 
 Then he said, " Till I find what your comrade is doing,
 I leave you here tied to the trunk of a tree ! "
-13
 
-
-178 LEGENDS AND MYTHS OF THE
 
 Then — silent and swift — to his cottage returning,
 
@@ -7983,8 +7575,6 @@ The names of those families all descend in the female line, and no
 individual was permitted to marry another of the same family name.
 
 
-ABORIGINAL TRIBES OF GUIANA. 179
-
 Then said her father, " None would dare
 
 (No man has been so brave)
@@ -8013,8 +7603,7 @@ family — the " Korobohana."
 
 These latter have a strange legend of their own. They believe that
 they originally came from above the clouds. The weight of a heavy
-woman broke the rope by which they were descending ; and com-
-munication was thus cut off between those who had reached the
+woman broke the rope by which they were descending ; and communication was thus cut off between those who had reached the
 ground and those remaining above. The Great Spirit, pitying the
 latter, supplied them with wings and plumage ; and they came down,
 to colonise the trees above the heads of their brethren — -still privileged
@@ -8026,8 +7615,6 @@ This legend, though grotesque, affords another instance of the belief
 universal amongst the aboriginal races of Guiana : of a discent ixoxa. a
 higher region, or state of existence.
 
-
-180 LEGENDS AND MYTHS OF THE
 
 ORIGIN OF THE AMAZONS.
 
@@ -8073,9 +7660,6 @@ See, in that disguise, my lover !
 Men like him can soon swim over,
 
 And will set us free !
-
-
-ABORIGINAL TRIBES OF GUIANA. 181
 
 
 " Call his name ! Let Walyarima
@@ -8124,8 +7708,6 @@ respectively. The proper names seem to have been lost in the lapse of
 jears.
 
 
-1 82 LEGENDS AND MYTHS OF THE
-
 While each bow lay near for slaughter ;
 Walyarima came.
 
@@ -8170,8 +7752,6 @@ Bread for five days we must carry."
 
 " Be it so,'' she said.
 
-
-ABORIGINAL TRIBES OF GUIANA. 183,
 
 " Bring the meat ; and strong paiwdri,
 
@@ -8222,8 +7802,6 @@ Then a calabash each woman
 Filled up to the brim,
 
 
-1 84 LEGENDS AND MYTHS OF THE
-
 To her husband meekly handed,
 (So To-eyza had commanded)
 Fatal draught to him !
@@ -8265,8 +7843,6 @@ lor a weary march preparing,
 
 To some distant land.
 
-
-ABORIGINAL TRIBES OF GUIANA. 185
 
 To their leader, tall To-eyza,
 
@@ -8323,8 +7899,6 @@ They preferred to die.
 ^
 
 
-180 LEGENDS AND MYTHS OF THE
-
 Soon they came to dark green forests,
 
 Saw their bravest fall ;
@@ -8371,9 +7945,6 @@ would often draw away all the males in a district capable of bearing
 arms, and sometimes they never returned. The women, left by them-
 
 
-ABORIGINAL TRIBES OF GUIANA. 187
-
-
 But whenever girls we bear them,
 Joyfully we all must rear tliem ;
 Our successors they ! "
@@ -8407,8 +7978,7 @@ rejection of marital authority, in the legend before us. Whether that
 tale ever had any foundation in fact, it is impossible to say. Wild and
 unnatural as it is, it has deeply impressed the minds of the Aborigines ;
 and the writer has, in his researches, come upon various legends (both
-tragical and comical) founded on the scarcity of wives, after their (sup-
-posed) terrible Exodus.
+tragical and comical) founded on the scarcity of wives, after their (supposed) terrible Exodus.
 
 
 1 The spotted " arua " (or harua) of the Arawaks, spelt jaguar by the
@@ -8416,8 +7986,6 @@ Spanish discoverers, is commonly called "tiger" by the colonists who
 frequent the bush. It is called " tobi " by the Waraus, and " kaikusi "
 by the Caribs and Acawoios.
 
-
-LEGENDS AND MYTHS OF THE
 
 Amidst the branches green.
 His son came hunting there alone,
@@ -8462,8 +8030,6 @@ Beyond ; each glade seems, like the tomb,
 In deep, impenetrable gloom,
 Save where the fire-fly sheds his light,
 
-
-ABORIGINAL TRIBES OF GUIANA. 189*
 
 Pale flashes, quickly lost in night.
 On. every side strange sounds are heard
@@ -8542,12 +8108,9 @@ ours. For instance, the Southern Cross is supposed, by many clans, to
 represent a "paui " bird resting on a tree. The star, Beta Centauri, is
 a hunter stealthily approaching it. Alpha Centauri is the hunter's
 torch (or firebrand), held behind him, so as not to alarm the bird by its
-glare. Some call it another hunter, lighting the first. Other constel-
-lations have narratives connected with them; of these, "Serikoai,"
+glare. Some call it another hunter, lighting the first. Other constellations have narratives connected with them; of these, "Serikoai,"
 the legend given here, is the most interesting specimen.
 
-
-ABORIGINAL TRIBES OF GUIANA. 191
 
 LEGEND OF SERIKOAI.
 I.
@@ -8593,8 +8156,6 @@ And, where this wide earth meets the sky,
 My country thou shalt see.
 
 
-192 LEGENDS AND MYTHS OF THE
-
 " 'Tis there I reign in manly form :
 There thou shalt be my bride ! "
 " Alas ! " she cried, " if I should fly,
@@ -8635,8 +8196,6 @@ The word " Sahtai," in threatening tone,
 
 Seemed borne upon the wind.
 
-
-ABORIGINAL TRIBES OF GUIANA. 193
 
 " Dost thou not hear, Serikoai,
 
@@ -8680,10 +8239,7 @@ Why do thy handsome features frown ?
 Slay not thy husband coming down ;
 
 For good and true is he !
-14
 
-
-194 LEGENDS AND MYTHS OF THE
 
 Alas ! — inspired by direful charm,
 
@@ -8724,8 +8280,6 @@ And straightway to the mother flew.;
 
 And called, " Serikoai ! "
 
-
-ABORIGINAL TRIBES OF GUIANA. 195
 
 " Why call my son, ' Serikoai ? '
 
@@ -8818,8 +8372,6 @@ Then brighter shone his eye.
 He still keeps moving on."
 
 
-LEGENDS AND MYTHS OF THE
-
 His hope of finding them revived,
 And served his heart to warm :
 For she had said who saved his life,
@@ -8860,8 +8412,6 @@ Then cut his wicked head away ;
 And all the ground on which he lay
 With his heart's blood was warm.
 
-
-ABORIGINAL TRIBES OF GUIANA. 199
 
 Then cried the husband, " He is dead,
 Whose charms bewitched thee sore.
@@ -8905,9 +8455,6 @@ Upon the husband near.
 * The Pleiades.
 
 2 The Hyades represent the tapir's head. The red eye is Aldebaran.
-
-
-200 LEGENDS AND MYTHS OF THE
 
 
 As, bright with stars, his mighty form
@@ -8957,9 +8504,6 @@ In the forests — now dripping with dew.
 
 1 The constellation Orion : Rigel indicating the upper part of the
 sound limb.
-
-
-ABORIGINAL TRIBES OF GUIANA.
 
 
 See, the rivers gleam white
@@ -9013,8 +8557,6 @@ From the face of the " Old Man's Fall ! "
 upper part is 741 feet perpendicular.
 
 
-202 LEGENDS AND MYTHS OF THE
-
 II.
 
 "The Old Man's Fall!"—
@@ -9064,9 +8606,6 @@ Take offence at that word,
 And express it with more or less vigour.
 
 
-ABORIGINAL TRIBES OF GUIANA. 203
-
-
 We would give no offence,
 So, in the same sense,
 Will use " insect," and banish the-
@@ -9111,8 +8650,6 @@ So we send him away the next world to begin,
 But will not send him empty, for that were a sin."
 
 
-204 LEGENDS AND MYTHS OF THE
-
 The young men obeyed. They soon brought a wood-skin,
 
 Put the old man and his little property in ;
@@ -9156,8 +8693,6 @@ That he doth appear.
 " He's perhaps washed away.
 Strong currents wear rocks very fast, people say.
 
-
-ABORIGINAL TRIBES OF GUIANA. 205
 
 First his ears and his nose,
 

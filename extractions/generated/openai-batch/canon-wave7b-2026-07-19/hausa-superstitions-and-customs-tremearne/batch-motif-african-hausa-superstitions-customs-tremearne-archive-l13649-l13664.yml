@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l13649-l13664
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: THE    TWO    WIVES  295 / THE    TWO    WIVES  297 / THE  FOOLISH   WIFE  299
+    / THE   TWO   HUSBANDS; lines 13649-13664
+  start: '13649'
+  end: '13664'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A husband gives fruits to his wife. The next morning she gives some diniya
+    fruits to her husband's friend's wife and asks whether that woman's husband brought
+    her any. The other woman says he did not. This leads a wife and husband to quarrel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A husband gave fruits to his wife, and she ate all but a few.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the morning, the wife went to the house of her husband's friend's wife.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The wife took some diniya fruits and gave them to the husband's friend's wife.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wife asked the other woman whether her husband had brought her any fruits.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The other woman replied that her husband had not brought her any fruits.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The exchange caused a wife and husband to begin quarrelling.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: husband who brings fruits
+  description: A husband gives fruits to his wife.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: wife who receives fruits
+  description: She receives fruits from her husband, eats most of them, and later
+    gives some diniya fruits to another wife.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: husband's friend's wife
+  description: The wife visits her house, gives her diniya fruits, and asks whether
+    her husband brought her any.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: husband of the husband's friend's wife
+  description: He is mentioned in the women's dialogue as not having brought fruits
+    to his wife.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: fruit-giving husband
+  assigned_to:
+  - fig:1
+  basis: He gives fruits to his wife.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient wife
+  assigned_to:
+  - fig:2
+  basis: She receives and eats the fruits.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: messenger or sharer of fruits
+  assigned_to:
+  - fig:2
+  basis: She takes some diniya fruits and gives them to another wife.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: wife without a fruit-gift
+  assigned_to:
+  - fig:3
+  basis: She says her husband did not bring her any fruits.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: non-giving husband in reported speech
+  assigned_to:
+  - fig:4
+  basis: He is identified in dialogue as not having brought fruits to his wife.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: diniya fruits
+  literal_form: diniya fruits
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fruits as domestic gift
+  literal_form: fruits given by a husband to his wife
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Husband gives fruits to his wife
+  summary: A husband gives fruits to his wife, and she eats nearly all of them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wife shares diniya fruits with another wife
+  summary: The wife goes to the house of her husband's friend's wife, gives her diniya
+    fruits, and asks whether her husband brought her any.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Quarrel caused by unequal gifts
+  summary: The conversation about one husband not bringing fruits causes a wife and
+    husband to begin quarrelling.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: unequal gift provoking marital quarrel
+  taxonomy_refs: []
+  basis: One wife receives fruits, another wife reports that her husband did not bring
+    her any, and the difference causes a quarrel between wife and husband.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is fragmentary and does not include the beginning or resolution
+    of the tale.
+- id: motif:2
+  label: food gift as trigger of domestic comparison
+  taxonomy_refs: []
+  basis: Diniya fruits are passed between wives, and the question of whether a husband
+    brought such fruits becomes the immediate cause of conflict.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No broader symbolic interpretation of the fruits is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13649-13652
+  quote_or_summary: A husband gave fruits to his wife, and she ate all but a few.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13652-13656
+  quote_or_summary: In the morning, the wife went to the house of her husband's friend's
+    wife, gave her some diniya fruits, and asked whether her husband had brought her
+    any.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 13657-13659
+  quote_or_summary: '"Oh no," the other replied, "he did not bring me any."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:4
+  type: summary
+  locator: lines 13661-13664
+  quote_or_summary: The situation caused the wife and husband to begin quarrelling,
+    with the wife asking what she had done.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short fragment; some identities and the full
+    narrative function are uncertain because the beginning and ending of the tale
+    are outside the provided lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the available taxonomy list does not include an exact match for fruit-gifts, domestic comparison, or quarrelling spouses.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l13649-l13664
+  passage_sha256=d1f1487eb6042308d99f79e43b8e0b1035921ff8355a8296e6964954f41e31ad
+

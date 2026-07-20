@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l36163-l36303
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: VEDIC HYMNS. / I, 114, 6. / INDEX OF / WORDS. 509; lines 36163-36303
+  start: '36163'
+  end: '36303'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An English index section listing Sanskrit words, brief glosses, and Vedic
+    hymn references. The entries include boar imagery connected with Rudra, Varuna
+    and his snare, protection and shield terminology, road/path terms, rain and spring
+    terms, tree bark, wool clothing, Vasishthas, Vasus, and wealth or treasure.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index of words with glosses and hymn references rather than
+    a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entry for varaha glosses the word as boar and includes the phrase translated
+    as the red boar of the sky, identified parenthetically with Rudra.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Varuna entry lists Aryaman, Mitra, and Varuna together and includes a
+    phrase glossed as from the snare of Varuna.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index includes entries glossed as protection and shield.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index includes entries glossed as road and path.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes entries glossed as rain, clothed in rain, bark of trees,
+    and spring.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: A clothing entry gives a phrase translated as they clothed themselves in wool.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The Vasishtha entry says the Vasishthas are kapardina.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The Vasu entry describes Vasus as gods and gives a phrase identifying Rudra
+    as the best Vasu among the gods.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: The index gives vasu as wealth or treasure.
+  category: object
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Rudra
+  description: Named parenthetically as the red boar of the sky and as the best Vasu
+    among the gods.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:10
+- id: fig:2
+  name_or_label: Varuna
+  description: Named in the Varuna index entry; the passage includes the snare of
+    Varuna.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Aryaman
+  description: Named together with Mitra and Varuna in the Varuna entry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Mitra
+  description: Named together with Aryaman and Varuna in the Varuna entry.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Vasishthas
+  description: The index says the Vasishthas are kapardina.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Vasus
+  description: The index lists vasavah and identifies the Vasus as gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: figure identified with an animal image
+  assigned_to:
+  - fig:1
+  basis: Rudra is parenthetically identified with the red boar of the sky.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: possessor of a snare
+  assigned_to:
+  - fig:2
+  basis: The entry includes a phrase glossed as from the snare of Varuna.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: group called gods
+  assigned_to:
+  - fig:6
+  basis: The Vasu entry glosses vasavah with a parenthetical note indicating gods.
+  evidence_refs:
+  - ev:10
+- id: role:4
+  label: named member of a listed triad
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Aryaman, Mitra, and Varuna are listed together in the Varuna entry.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: group described as kapardina
+  assigned_to:
+  - fig:5
+  basis: The Vasishtha entry states that the Vasishthas are kapardina.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: best Vasu among the gods
+  assigned_to:
+  - fig:1
+  basis: The Vasu entry gives a phrase glossed as the best Vasu among the gods, with
+    Rudra in parentheses.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: red boar of the sky
+  literal_form: boar
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: snare of Varuna
+  literal_form: snare
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: shield
+  literal_form: shield
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: rain
+  literal_form: rain; clothed in rain
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: road or path
+  literal_form: road; path
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: bark of trees
+  literal_form: bark of trees
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: spring
+  literal_form: spring
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: wool clothing
+  literal_form: wool
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: wealth or treasure
+  literal_form: wealth; treasure
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: divine figure associated with boar imagery
+  taxonomy_refs: []
+  basis: The index glosses a phrase as the red boar of the sky and identifies it with
+    Rudra.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage is an index entry, not a mythic narrative; it does not describe
+    transformation or action.
+- id: motif:2
+  label: divine snare or binding object
+  taxonomy_refs: []
+  basis: The Varuna entry includes a phrase glossed as from the snare of Varuna.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only a lexical citation is present; no narrative use of the snare is described.
+- id: motif:3
+  label: protection through shield or covering
+  taxonomy_refs: []
+  basis: The index lists terms glossed as protection and shield.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The entries are lexical and do not describe a ritual, battle, or mythic
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 36163-36303
+  quote_or_summary: '"INDEX OF WORDS. 509" followed by Sanskrit word entries, glosses,
+    and hymn references.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 36163-36303, varaha entry
+  quote_or_summary: '"varaha, boar"; "the red boar of the sky (Rudra), I, 114, 5."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 36163-36303, Varuna entry
+  quote_or_summary: '"Aryaman, Mitra, and Varuna"; "from the snare of Varuna".'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 36163-36303, vartitha and varman entries
+  quote_or_summary: '"vartitha, protection"; "varman, shield".'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: lines 36163-36303, vartani and vartman entries
+  quote_or_summary: '"vartaní, road"; "vartman, path".'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: quote
+  locator: lines 36163-36303, varsha entries
+  quote_or_summary: '"varsha, rain"; "varsha-nirnig, clothed in rain".'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:7
+  type: quote
+  locator: lines 36163-36303, valkala and vavra entries
+  quote_or_summary: '"valkala, bark of trees"; "vavra, spring".'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:8
+  type: quote
+  locator: lines 36163-36303, vas 'to clothe' entry
+  quote_or_summary: '"they clothed themselves in wool".'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:9
+  type: quote
+  locator: lines 36163-36303, Vasishtha entry
+  quote_or_summary: '"the Vasishthas are kapardina".'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:10
+  type: quote
+  locator: lines 36163-36303, Vasu entry
+  quote_or_summary: '"Vasu" entry includes "vasavah" marked as "(gods)" and "the best
+    Vasu among the gods (Rudra)".'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:11
+  type: quote
+  locator: lines 36163-36303, vasu entry
+  quote_or_summary: '"vasu, wealth, treasure".'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The extraction is limited because the passage is an index with OCR irregularities
+    and abbreviated citations, not a continuous mythic passage. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All motifs are treated as low-confidence candidates because the passage supplies lexical attestations and glosses only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l36163-l36303
+  passage_sha256=70a77664b498def6e530bf2defac1942e1c53030913292f363d5a00209741210
+

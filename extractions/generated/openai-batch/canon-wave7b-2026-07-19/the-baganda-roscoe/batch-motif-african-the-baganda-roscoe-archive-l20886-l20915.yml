@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l20886-l20915
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CHAPTER  XII / THE   KEEPING  OF   COWS   AND  OTHER  DOMESTIC   ANIMALS
+    / THE   BAGANDA / CHAP.; lines 20886-20915
+  start: '20886'
+  end: '20915'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: girls and women were forbidden by custom to do this work, and no woman was
+    allowed to milk cows.
+  summary: 'The passage describes Baganda cattle-keeping practices: cows fed mainly
+    on grass from pasture, sometimes grazed at night under moonlight and guarded against
+    wild animals, boys rather than women herded cows, women were not allowed to milk
+    cows, herdsmen treated cattle sickness with medicinal herbs, and cattle disease
+    was limited by restricted exchange and raiding.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Cows were brought in from pasture at nightfall without being given additional
+    food, except occasional plantain peelings saved by a peasant for one animal.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cows grazed during the day and fasted from sunset until the next morning before
+    returning to pasture.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In hot weather with troublesome flies, herdsmen sometimes grazed cattle by
+    night when there was a moon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several men joined together at night to guard cows against wild animals.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Peasants sent boys to herd cows they possessed.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Custom forbade girls and women from herding cows, and no woman was allowed
+    to milk cows.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Many herdsmen knew medicinal herbs and treated animals during sickness.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says cattle plagues were formerly uncommon because cattle exchange
+    with other nations was absent and raids were limited in area.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: cows
+  description: Domestic cattle kept by peasants, grazed on pasture, guarded, milked,
+    and treated during sickness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: herdsmen
+  description: Men who took cattle to graze, guarded them, and often knew medicinal
+    herbs for animal sickness.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: peasants
+  description: Cattle owners who might save plantain peelings for an animal and sent
+    boys to herd cows.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: boys
+  description: Boys were sent by peasants to herd cows.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: girls and women
+  description: Girls and women were forbidden by custom to herd cows, and women were
+    not allowed to milk cows.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: wild animals
+  description: Animals against which men guarded cattle during night grazing.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: domestic cattle
+  assigned_to:
+  - fig:1
+  basis: The passage discusses cows as animals kept, pastured, guarded, milked, and
+    treated for sickness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: herder
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Herdsmen and boys are described as taking or being sent with cows for grazing
+    and herding.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: animal healer
+  assigned_to:
+  - fig:2
+  basis: Many herdsmen knew medicinal herbs and treated sick animals.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: cattle-owning peasant
+  assigned_to:
+  - fig:3
+  basis: Peasants could possess cows and send boys to herd them.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: excluded from cattle herding and milking by custom
+  assigned_to:
+  - fig:5
+  basis: The passage explicitly says girls and women were forbidden to herd cows and
+    women were not allowed to milk them.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: threat to cattle
+  assigned_to:
+  - fig:6
+  basis: Wild animals are the danger against which the cows were guarded at night.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: milk
+  literal_form: milk from cows; milking as an activity prohibited to women
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: moonlit night grazing
+  literal_form: moonlight enabling night grazing in hot weather
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: medicinal herbs
+  literal_form: herbs used by herdsmen to treat animal sickness
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: daily grazing and fasting cycle
+  summary: Cows fed on pasture during the day, were brought in at nightfall without
+    regular food, fasted overnight, and returned to pasture in the morning.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: moonlit night herding and guarding
+  summary: During hot weather and troublesome flies, herdsmen grazed cattle at night
+    by moonlight and several men guarded them against wild animals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: customary division of cattle work
+  summary: Peasants sent boys to herd cows, while girls and women were forbidden to
+    herd, and women were not allowed to milk cows.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: herdsmen treating cattle sickness
+  summary: Herdsmen with knowledge of medicinal herbs treated cattle during sickness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: gendered prohibition around cattle herding and milking
+  taxonomy_refs: []
+  basis: The passage states that boys herd cows while girls and women are forbidden
+    by custom to herd, and women are not allowed to milk cows.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic custom rather than a mythic narrative motif in
+    the provided passage.
+- id: motif:2
+  label: specialist herdsman as animal healer
+  taxonomy_refs: []
+  basis: Herdsmen are described as knowing medicinal herbs and treating sick cattle.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports practical veterinary knowledge and does not present
+    a mythic or ritual explanation.
+- id: motif:3
+  label: communal night guarding of cattle from wild animals
+  taxonomy_refs: []
+  basis: Several men joined together to guard cows during moonlit night grazing.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a practical herding pattern, not explicitly a mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20886-20896
+  quote_or_summary: Cows fed during the day on pasture and fasted from sunset until
+    morning; occasional plantain peelings might be saved for one animal.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 20896-20903
+  quote_or_summary: In hot weather with troublesome flies, herdsmen grazed animals
+    by night when there was a moon, and several men guarded the cows against wild
+    animals.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: quote
+  locator: lines 20906-20910
+  quote_or_summary: "“girls and women were forbidden by custom to do this work, and
+    no woman was allowed to milk cows.”"
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 20910-20912
+  quote_or_summary: Many herdsmen were expert in medicinal herbs and could treat animals
+    during sickness.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 20912-20915
+  quote_or_summary: Cattle plagues were formerly rare; no exchange with other nations
+    and limited cattle raids restricted disease spread.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal cattle-keeping practices are clearly described. Motif candidates
+    are framed as practical ethnographic patterns rather than mythic motifs. No passage-supported
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact, common-inheritance, or cross-tradition comparison is supported by the passage itself.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l20886-l20915
+  passage_sha256=fdffe0a29737cdd3900c9dbcd57c4de49716d8f455aadb8de2ca6db79abc1f07
+

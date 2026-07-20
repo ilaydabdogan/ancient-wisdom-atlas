@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l19915-l19962
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    ESKIMO    ABOUT    BERING    STRAIT / METHODS    OF    BURIAL / TOTEMS  AXD  FAMILY  MARKS
+    / TOTEM    MARKS; lines 19915-19962
+  start: '19915'
+  end: '19962'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes marks and animal representations on an arrowpoint
+    and on walrus-ivory spearheads. It notes an incised line-and-barb design on an
+    arrowpoint, identifies its Nunivak Island provenance and Malemut maker-user, and
+    describes wolf totem spearheads from Norton Sound to the Kuskokwim River, including
+    carved open jaws, teeth, eyes, nostrils, ears, sockets, pegs, and bead inlays.
+    Captions also identify spearheads representing an otter and an ermine.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The base of an arrowpoint is described as having an incised line about an
+    inch long on the bone surface, with two short parallel incised lines projecting
+    from it.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The arrowpoint was obtained on Nunivak Island and was made and used by a Malemut
+    from the vicinity of Kotzebue Sound.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf totem is said to be exhibited on numerous walrus-ivory spearheads
+    obtained from Norton Sound southward to the Kuskokwim River.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wolf spearheads usually show the wolf mouth open, a raised line of teeth
+    around the open jaws, and a front hole lined with a wooden socket for the conical
+    butt of the spearpoint.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The wolf's nostrils and eyes may be represented by blackened incised lines,
+    circular pits with wooden pegs, or pits filled with a black substance.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The wolf's ears are described as carved in relief or made from sharp-pointed
+    ivory pegs; in some examples, eyes are round ivory pegs or blue or black beads,
+    and nostril holes are plugged with wooden pins.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Figure captions identify spearheads representing a wolf, an otter, and an
+    ermine.
+  category: object
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Wolf
+  description: Animal represented as a totem on numerous walrus-ivory spearheads;
+    the described form includes open jaws, teeth, nostrils, eyes, and ears.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Otter
+  description: Animal identified in a caption as represented by a spearhead.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Ermine
+  description: Animal identified in a caption as represented by a spearhead.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Unnamed Malemut maker-user
+  description: A Malemut from the vicinity of Kotzebue Sound who made and used the
+    arrowpoint described in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Totem animal represented on spearheads
+  assigned_to:
+  - fig:1
+  basis: The passage states that the wolf totem is exhibited on numerous walrus-ivory
+    spearheads and then describes the carved wolf features.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Captioned animal representation on spearhead
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Captions identify spearheads representing an otter and an ermine.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: Maker and user of arrowpoint
+  assigned_to:
+  - fig:4
+  basis: The passage states that the arrowpoint was made and used by a Malemut from
+    near Kotzebue Sound.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Incised arrowpoint mark
+  literal_form: An incised line about an inch long on a bone arrowpoint base, with
+    two short parallel incised lines projecting from it.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Wolf totem spearhead
+  literal_form: Walrus-ivory spearhead representing a wolf, with open jaws, teeth,
+    nostrils, eyes, ears, and a socket for the spearpoint.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Otter spearhead representation
+  literal_form: Spearhead identified in a caption as representing an otter.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Ermine spearhead representation
+  literal_form: Spearhead identified in a caption as representing an ermine.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Arrowpoint mark and provenance
+  summary: The passage describes an incised design on a bone arrowpoint and notes
+    that the illustrated arrowpoint was obtained on Nunivak Island but made and used
+    by a Malemut from near Kotzebue Sound.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animal totem spearheads
+  summary: The passage presents animal representations on spearheads, especially wolf
+    totem spearheads of walrus ivory with carved and inlaid features, and captions
+    identify additional otter and ermine spearheads.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Animal totem marks on weapons
+  taxonomy_refs: []
+  basis: The passage explicitly describes a wolf totem exhibited on many walrus-ivory
+    spearheads and includes captioned spearheads representing wolf, otter, and ermine.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is descriptive ethnography rather than a narrative myth; no
+    broader mythic function is stated.
+- id: motif:2
+  label: Animal body integrated into spearhead form
+  taxonomy_refs: []
+  basis: The wolf spearheads incorporate animal anatomy into the weapon form, including
+    open jaws, teeth, eyes, nostrils, ears, and a socket holding the spearpoint.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a material-design pattern; the passage does not explain ritual
+    meaning beyond the term totem.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19915-19927
+  quote_or_summary: The arrowpoint base has an incised line about an inch long with
+    two short parallel incised lines projecting from it; the illustrated arrowpoint
+    was obtained on Nunivak Island and made and used by a Malemut from near Kotzebue
+    Sound.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 19929-19934
+  quote_or_summary: The wolf totem is described as appearing on numerous walrus-ivory
+    spearheads obtained from Norton Sound southward to the Kuskokwim River.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 19934-19937
+  quote_or_summary: Wolf spearheads are described with open mouths, raised teeth around
+    the jaws, and a front hole lined with a wooden socket for the spearpoint butt.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 19941-19951
+  quote_or_summary: Wolf nostrils, eyes, and ears are represented with blackened incisions,
+    pits, pegs, black filling, relief carving, ivory pegs, wooden pins, and blue or
+    black bead inlays.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: Fig. 109 and Fig. 110 within 19915-19962
+  quote_or_summary: Spearhead representing a wolf.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short caption excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: Fig. 111 within 19915-19962
+  quote_or_summary: Spearhead representing an otter.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short caption excerpt from supplied passage.
+- id: ev:7
+  type: quote
+  locator: Fig. 112 within 19915-19962
+  quote_or_summary: Spearhead representing an ermine.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short caption excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on explicit descriptive statements and captions. Motif
+    labeling is cautious because the passage gives material totem-mark descriptions
+    but no mythic narrative or comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif-family reference is directly supported by this passage; taxonomy reference arrays are therefore empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l19915-l19962
+  passage_sha256=53f42d27760ac1c40d870e99f56c3209330421ad5998ac8b63524c4d34a5b32b
+

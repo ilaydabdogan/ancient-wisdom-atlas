@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l18952-l18989
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'ASHTAKA IV, ADHYAYA 1, VARGA 5. / NOTES: / MANDALA V, HYMN I4. 397 / NOTES:;
+    lines 18952-18989'
+  start: '18952'
+  end: '18989'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The notes discuss textual and grammatical issues in verses of the hymn.
+    For verse 4, Agni is said to be treated as performing deeds usually belonging
+    to Indra; Indra is described as conqueror of the cows and waters, while both Agni
+    and Indra may be said to have acquired the sun for mankind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says Agni is treated as performing deeds frequently associated with
+    Indra.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Indra is described as the conqueror of the cows and of the waters.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says that both Agni and Indra may be described as having acquired
+    the sun for mankind.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Other notes in the passage concern readings and grammatical interpretation
+    of words in verses 1 and 5.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: A divine figure treated in the note as performing deeds otherwise associated
+    with Indra.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Indra
+  description: A divine figure described as conqueror of the cows and waters and as
+    one who may have acquired the sun for mankind.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: mankind
+  description: The human collective for whom the sun is said to have been acquired.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: performer of another deity's deeds
+  assigned_to:
+  - fig:1
+  basis: The note states that Agni is considered as performing deeds that properly
+    belong to Indra.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: conqueror of cows and waters
+  assigned_to:
+  - fig:2
+  basis: The note explicitly identifies Indra as conqueror of the cows and waters.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: acquirer of the sun for mankind
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The note says the sun may be said of both gods to have been acquired for
+    mankind.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: beneficiary collective
+  assigned_to:
+  - fig:3
+  basis: Mankind is named as the recipient or beneficiary of the acquired sun.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cows
+  literal_form: cows
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: waters
+  literal_form: waters
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sun
+  literal_form: sun
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Attribution of Indra-like deeds to Agni
+  summary: The note explains that Agni is here considered to perform deeds normally
+    proper to Indra.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Conquest and acquisition of cosmic resources
+  summary: Indra is described as conquering cows and waters, and both Agni and Indra
+    are associated with acquiring the sun for mankind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Divine acquisition of the sun for humankind
+  taxonomy_refs:
+  - culture_hero
+  basis: The note says Agni and Indra may each be said to have acquired the sun for
+    mankind.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a scholarly note rather than a full narrative; the manner
+    of acquisition is not described.
+- id: motif:2
+  label: Divine conquest of cows and waters
+  taxonomy_refs: []
+  basis: Indra is explicitly described as conqueror of the cows and of the waters.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage only names the conquest and does not give a narrative sequence
+    or adversary.
+- id: motif:3
+  label: Transfer or overlap of divine heroic functions
+  taxonomy_refs: []
+  basis: Agni is said to perform deeds that properly belong to Indra.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an interpretive note on attribution within the hymn, not an independent
+    mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18966-18969
+  quote_or_summary: "“Agni is considered here ... as the performer of deeds which
+    properly belong to Indra.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 18969-18970
+  quote_or_summary: "“Indra is the conqueror of the cows and of the waters.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 18970-18972
+  quote_or_summary: "“as to the sun, it may be said of both gods ... that they have
+    acquired it for mankind.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 18952-18989
+  quote_or_summary: The surrounding notes discuss variant readings, whether to write
+    bodhaya, and the grammatical case of me in relation to havam.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mainly philological commentary. Mythic content is limited
+    to a brief note on Agni, Indra, cows, waters, sun, and mankind.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison beyond internal attribution between Agni and Indra.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l18952-l18989
+  passage_sha256=a7b3dd1011a3799c47b8010eb35b7838bff1f0da748afef95bcc8df9680a430b
+

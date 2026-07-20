@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l31218-l31227
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION LXXIX / SECTION LXXX / SECTION LXXXI / SECTION LXXXII; lines 31218-31227
+  start: '31218'
+  end: '31227'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Vijaya, the son of Pritha, checking enemy weapons
+    with many arrows, wounding opposing forces, and causing struck warriors to seek
+    Bhishma’s protection. Bhishma is described as rescuing them like men sinking in
+    a fathomless deep, while broken ranks are compared to a storm-agitated sea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vijaya’s prowess is described as wonderful because showers of weapons shot
+    by foes were checked by his myriads of arrows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Among thousands of kings, steeds, and elephants, none is said to have remained
+    unwounded.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The son of Pritha pierced others, each with two or three arrows.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Those struck by Pritha sought the protection of Bhishma, the son of Santanu.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Bhishma became the rescuer of warriors who are compared to men sinking in
+    a fathomless deep.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Warriors fled and mixed with the addressed king’s troops, and the broken ranks
+    are compared to the vast deep agitated by a tempest.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vijaya / son of Pritha
+  description: A warrior whose arrows check the weapons of foes and who pierces others
+    with arrows.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Foes shooting weapons
+  description: Opponents who shoot showers of weapons at Vijaya.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Thousands of kings, steeds, and elephants
+  description: Battlefield participants among whom none is said to be unwounded.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Warriors struck by Pritha
+  description: Warriors wounded or struck by Pritha who seek Bhishma’s protection
+    and flee into the troops.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Bhishma, son of Santanu
+  description: A warrior who becomes the rescuer of those seeking protection.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: The addressed king’s troops / broken ranks
+  description: Troops into which fleeing warriors mix, resulting in broken ranks compared
+    to a storm-agitated deep.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: overwhelming archer-combatant
+  assigned_to:
+  - fig:1
+  basis: Vijaya checks weapon-showers with myriads of arrows and pierces others with
+    two or three arrows each.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: attacking foes
+  assigned_to:
+  - fig:2
+  basis: The foes shoot showers of weapons.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wounded battlefield participants
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage says none among the kings, steeds, and elephants was unwounded,
+    and that warriors were struck by Pritha.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: protection-seekers
+  assigned_to:
+  - fig:4
+  basis: The struck warriors seek the protection of Bhishma.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: rescuer-protector
+  assigned_to:
+  - fig:5
+  basis: Bhishma is explicitly described as becoming the rescuer of the warriors.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: disordered formation
+  assigned_to:
+  - fig:6
+  basis: The troops’ broken ranks are agitated after fleeing warriors mix with them.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: showers of weapons
+  literal_form: Weapons described as showers shot by foes.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: myriads of arrows
+  literal_form: Many arrows used by Vijaya to check enemy weapons.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fathomless deep and tempestuous vast deep
+  literal_form: 'Water imagery: men sinking in a fathomless deep and ranks agitated
+    like the vast deep with a tempest.'
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Vijaya checks enemy weapons
+  summary: Vijaya’s arrows stop the showers of weapons fired by his foes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Opponents wounded by arrows
+  summary: Kings, steeds, elephants, and other combatants are wounded, and the son
+    of Pritha pierces others with two or three arrows each.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Warriors seek Bhishma’s protection
+  summary: Warriors struck by Pritha seek Bhishma, who becomes their rescuer, compared
+    to saving men sinking in a fathomless deep.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Broken ranks compared to a stormy deep
+  summary: Fleeing warriors mix with the addressed king’s troops, and the broken ranks
+    are compared to a vast deep agitated by a tempest.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: overwhelming archer checks an enemy weapon-shower
+  taxonomy_refs: []
+  basis: Vijaya’s myriads of arrows check the showers of weapons shot by his foes.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a martial battle pattern rather than a named taxonomy motif in
+    the supplied list.
+- id: motif:2
+  label: rescuer of routed warriors likened to rescuing men from deep water
+  taxonomy_refs: []
+  basis: Bhishma becomes the rescuer of warriors compared to men sinking in a fathomless
+    deep.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The deep-water image is explicitly simile; the passage does not narrate
+    an actual water rescue.
+- id: motif:3
+  label: battlefield disorder as tempestuous sea
+  taxonomy_refs:
+  - chaos
+  basis: Broken ranks are described as agitated like the vast deep with a tempest
+    after fleeing warriors mix with the troops.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The comparison supports an image of disorder, but not a full cosmogonic
+    or theological chaos episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 31218-31220
+  quote_or_summary: "“showers of weapons shot by his foes were checked by his myriads
+    of arrows”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: 31220-31222
+  quote_or_summary: "“among those thousands of kings and steeds and elephants, was
+    none ... that was not wounded”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: 31222-31223
+  quote_or_summary: "“the son of Pritha pierced, each with two or three arrows”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: 31223-31224
+  quote_or_summary: Warriors struck by Pritha seek the protection of Bhishma, the
+    son of Santanu.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 31224-31225
+  quote_or_summary: "“Bhishma then became the rescuer of those warriors who were like
+    men sinking in the fathomless deep”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:6
+  type: quote
+  locator: 31226-31227
+  quote_or_summary: "“flying away and mixing with thy troops ... broken ranks ...
+    were agitated like the vast deep with a tempest”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for figures, actions, and imagery. Motif labeling
+    is cautious because the passage is primarily a battle description with similes
+    rather than an explicit mythic motif sequence. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy use is limited to the supplied refs, with water used for explicit deep-water imagery and chaos used cautiously for the storm-agitated broken-ranks image.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l31218-l31227
+  passage_sha256=44a102c2294d9fbd1d397c983ff393b0bcd290ee475f3487134ec089a5cbaed0
+

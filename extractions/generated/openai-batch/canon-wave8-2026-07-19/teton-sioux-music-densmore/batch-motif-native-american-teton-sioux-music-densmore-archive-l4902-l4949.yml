@@ -1,0 +1,224 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l4902-l4949
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUREAU   OP  AMEBICAN  ETHNOLOGY / TETOK  SIOUX  MUSIC / TETON  BIOTJX  MUSIC
+    / ANALYSIS  OF  SIOITX  AND  CHIPPEWA  SONGS; lines 4902-4949
+  start: '4902'
+  end: '4949'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage cites music-theory sources, explains part of the overtone series
+    with C as a fundamental tone, and applies interval analysis to a corpus of Indian
+    songs. It reports percentages of songs beginning on the octave, twelfth, and fifth
+    above the keynote, while noting vocal range and octave equivalence as reasons
+    for grouping fifth and twelfth openings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening notes cite Helmholtz's The Sensations of Tone and refer to analyses
+    of songs numbered 175, 177, and 187.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage uses C, second-space bass clef, as a fundamental tone for explaining
+    a portion of the overtone series.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The first overtone is described as an octave above the fundamental, and the
+    second overtone as twelve tones above the fundamental, corresponding to a fifth
+    in the first higher octave.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fourth overtone is said to supply the major third, completing the tones
+    of the triad or common chord of C.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Figure 3 is described as indicating the intervals on which the analyzed songs
+    begin, excluding groups of less than 1 percent from Table 2A.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage reports that 21 percent of the songs begin on the octave and 23
+    percent, in songs with a compass of twelve tones above the keynote, begin on the
+    twelfth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The author notes that tones an octave apart may be perceived as the same tone,
+    and that not all voices have a twelve-tone range.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Songs beginning on the fifth are grouped with those beginning on the twelfth
+    because the fifth may represent the lower-octave counterpart of the twelfth.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage reports that 24 percent of the songs begin on the fifth, producing
+    a total of 47 percent beginning on that interval grouping.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The excerpt begins a statement that few voices have a two-octave range and
+    names songs Nos. 195 and 202, but the supplied passage ends before the statement
+    is completed.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: C fundamental/keynote example
+  literal_form: C used as the fundamental tone or keynote in the musical explanation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Overtone interval set
+  literal_form: octave, twelfth/fifth, and major third as intervals related to the
+    fundamental
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: First-note interval diagram
+  literal_form: Figure 3, a diagram of first notes of songs in relation to the keynote
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Overtone-series explanation
+  summary: The author frames the analysis with a music-theory explanation of the overtone
+    series, using C as the fundamental and identifying the octave, twelfth/fifth,
+    and major third as chord-related tones.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Song-opening interval analysis
+  summary: The author turns to the analyzed Indian songs, classifying first notes
+    by their intervals above the keynote and grouping fifth and twelfth openings in
+    light of octave equivalence and vocal range.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Song-opening interval pattern relative to a keynote
+  taxonomy_refs: []
+  basis: The passage groups song beginnings by their relation to the keynote, especially
+    octave, twelfth, and fifth openings, and gives percentages for these interval
+    groupings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a music-analytical pattern, not a mythological narrative motif;
+    no supplied taxonomy motif family applies.
+comparison_claims:
+- id: claim:1
+  claim: The author compares the opening intervals of the analyzed Indian songs with
+    interval relationships derived from the overtone series.
+  claim_level: same_function
+  target: overtone-series interval framework from cited acoustic theory
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports an analytical comparison of musical intervals
+    only; it does not support historical contact, common inheritance, or a mythological
+    motif comparison.
+evidence:
+- id: ev:1
+  type: citation
+  locator: 4902-4906
+  quote_or_summary: Bibliographic notes cite Helmholtz's The Sensations of Tone, translated
+    by A. J. Ellis, and refer to analyses of songs Nos. 175, 177, and 187.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4907-4917
+  quote_or_summary: With C as a fundamental, the passage explains that the first overtone
+    is an octave above, the second is a twelfth/fifth above, and the fourth supplies
+    the major third completing the C triad.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4918-4930
+  quote_or_summary: The author turns to the Indian songs under analysis; Figure 3
+    shows initial intervals, with 21 percent beginning on the octave and 23 percent
+    on the twelfth in songs with twelve-tone compass above the keynote.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4931-4944
+  quote_or_summary: The passage notes octave equivalence and limits of human vocal
+    range, then includes fifth-opening songs with twelfth-opening songs, reporting
+    24 percent on the fifth and a combined 47 percent for that interval grouping.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: note
+  locator: 4945-4949
+  quote_or_summary: The excerpt begins but does not complete a statement about few
+    voices having a two-octave range and mentions songs Nos. 195 and 202.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is technical ethnomusicological analysis rather than mythic narrative.
+    OCR noise and the truncated final sentence reduce extraction certainty. No supplied
+    mythological motif or symbol taxonomy reference is directly applicable.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological figures, ritual actions, or named sacred symbols appear in the supplied passage. Technical musical diagrams and interval relationships were recorded as non-taxonomic symbols/patterns only.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l4902-l4949
+  passage_sha256=65d95596d20b8e1db922234566c9922791bd406eaabb418c8feb5147a7330a90
+

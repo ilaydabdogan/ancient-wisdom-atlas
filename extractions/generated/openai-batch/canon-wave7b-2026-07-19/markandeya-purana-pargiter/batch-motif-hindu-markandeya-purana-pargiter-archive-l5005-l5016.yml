@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l5005-l5016
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: PUNISHMENTS FOB VARIOUS SINS. / CANTO XV. / Hirita ; see note ** p. 28. /
+    CANTO XV.; lines 5005-5016
+  start: '5005'
+  end: '5016'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker says that he and others were released from torments and then
+    entered other earthly existences according to their own actions. He summarizes
+    that the hells and the descents caused by particular sins have been fully recounted,
+    based on knowledge gained from prior experience.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker and others who were present were released from torments.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After release, they entered other earthly existences determined by the results
+    of their own actions.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says that the hells have been reckoned up for the addressee.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says that the descent of a man to a particular kind of creature
+    for a particular sin has been recounted in detail.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker bases the account on what he saw formerly and on accurate knowledge
+    from previous experience.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person narrator who was released from torments and recounts what
+    he saw formerly.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: others who were there
+  description: Other beings present with the speaker, also released from torments.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: brahman / noble sir
+  description: The addressee to whom the hells and descents have been recounted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: a man
+  description: A generic person described as descending to a particular kind of creature
+    for a particular sin.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: released sufferer
+  assigned_to:
+  - fig:1
+  basis: The speaker says he was among those released from torments.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: released companions
+  assigned_to:
+  - fig:2
+  basis: The others present were released from torments along with the speaker.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: addressee
+  assigned_to:
+  - fig:3
+  basis: The speaker addresses a brahman and asks what else to tell him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: witness-recounter
+  assigned_to:
+  - fig:1
+  basis: The speaker says he saw these things formerly and recounts them from previous
+    experience.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: sinner subject to descent
+  assigned_to:
+  - fig:4
+  basis: The passage states that a man descends to a particular kind of creature for
+    a particular sin.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: hells
+  literal_form: hells where torments occur
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: other earthly existences
+  literal_form: earthly existences entered after release from torments
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: particular kind of creature
+  literal_form: creature-form to which a man descends for a particular sin
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: heaven-world
+  literal_form: heaven-world mentioned at the start of the passage
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Release from torments and entry into earthly existences
+  summary: The speaker and others are released from torments and then enter other
+    earthly existences according to the results of their own actions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Summary of recounted hells and sinful descents
+  summary: The speaker tells the brahman that the hells and the descents to particular
+    creatures for particular sins have been recounted in detail, based on what he
+    saw formerly.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: post-mortem torments followed by rebirth according to actions
+  taxonomy_refs:
+  - divine_judgment
+  - death_rebirth
+  basis: The passage states that beings are released from torments and then enter
+    other earthly existences as determined by the results of their actions.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage summarizes prior material and does not describe the judging
+    agent or detailed rebirth process in this excerpt.
+- id: motif:2
+  label: sin-specific descent into creature-form
+  taxonomy_refs:
+  - divine_judgment
+  basis: The speaker says that the account has detailed which particular sin causes
+    a man to descend to which particular kind of creature.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The specific sins and creature-forms are not included in this passage.
+- id: motif:3
+  label: witness account of hells from previous experience
+  taxonomy_refs:
+  - afterlife_journey_map
+  - wisdom
+  basis: The speaker frames the account of hells as something he saw formerly and
+    knows through previous experience.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This excerpt gives a retrospective summary rather than a mapped journey
+    through named hells.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5005-5008
+  quote_or_summary: The speaker says he and others present were released from torments
+    and then entered other earthly existences according to the results of their own
+    actions.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 5010-5011
+  quote_or_summary: "“Thus these hells have been reckoned up, O brahman!”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 5011-5014
+  quote_or_summary: The passage says that it has been recounted in detail for what
+    particular sin a man descends to what particular kind of creature.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5014-5016
+  quote_or_summary: The speaker says he saw these things formerly and gained accurate
+    knowledge from previous experience, then asks what else to tell the noble addressee.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: quote
+  locator: line 5005
+  quote_or_summary: "“heaven-world”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a short retrospective summary. Literal elements are clear,
+    but motif classification is limited by absence of the detailed preceding list
+    of punishments.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no comparison claims added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l5005-l5016
+  passage_sha256=e9005fff1fb3c03e11de5f7fb7f14163ee954a94597064aaf062e29e51601b27
+

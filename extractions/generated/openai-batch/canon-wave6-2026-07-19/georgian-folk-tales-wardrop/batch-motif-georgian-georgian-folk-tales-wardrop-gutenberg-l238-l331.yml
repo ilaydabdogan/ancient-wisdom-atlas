@@ -1,0 +1,576 @@
+---
+record_id: batch.motif.georgian-georgian-folk-tales-wardrop-gutenberg-l238-l331
+source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+passage_locator:
+  label: GURIAN TALES / PART I / GEORGIAN FOLK TALES / MASTER AND PUPIL; lines 238-331
+  start: '238'
+  end: '331'
+  translation: Georgian Folk Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A poor peasant takes his son to find a trade-master. At a rivulet, a devil
+    named Vakhraca appears and offers to teach the son for one year, with the condition
+    that the father must recognize him afterward or lose him. The son helps his father
+    identify him during a dove-transformation test and leaves the devil. The son then
+    repeatedly changes into valuable hunting animals and escapes after being sold,
+    but when he becomes a horse, the father ignores his warning and sells him with
+    the bridle to a variegated-eyed man, who regains power over the pupil and locks
+    him in a dark room.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The peasant's wife urges him to have their son learn a trade so that he will
+    not remain ignorant.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The peasant drinks from a rivulet, praises it, and Vakhraca, described as
+    a devil in the form of a man, comes forth from the water.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Vakhraca offers to teach the son for one year, after which the father may
+    take him back only if he recognizes him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The devil has other boys under the same conditions and usually wins because
+    the children change over the year.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The son tells his father that the master will turn the pupils into doves and
+    instructs him how to identify him by his flight order.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The master turns the pupils into doves; the father identifies his son, and
+    the son leaves with him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The son changes into a hound, catches a hare before nobles, is sold by his
+    father, and later changes back into a boy after escaping the nobles' sight.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The son changes into a falcon, catches a pheasant before nobles, is sold by
+    his father, and later changes back into a boy after escaping the nobles' sight.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The son says he will change into a horse and warns his father not to sell
+    him to a man with variegated eyes, or at least not to give that man the bridle.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The father sells the horse and bridle to the variegated-eyed man because the
+    buyer offers more money than the others.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The variegated-eyed buyer rejoices at having the pupil again, takes him home,
+    locks the horse in a dark room, and the pupil cannot find a means of escape.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: poor peasant father
+  description: A poor peasant with one son; he seeks a master for the son, identifies
+    him after the dove test, and later sells the son's animal forms.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: peasant's son / pupil
+  description: The peasant's son becomes Vakhraca's pupil, gives his father instructions,
+    and changes into a dove, hound, falcon, horse, and back into a boy.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:11
+- id: fig:3
+  name_or_label: Vakhraca / devil / master / variegated-eyed man
+  description: A devil named Vakhraca appears from the water in human form, teaches
+    pupils under a recognition condition, transforms them into doves, and later appears
+    as the variegated-eyed buyer who regains power over the pupil.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:4
+  name_or_label: peasant's wife
+  description: The wife of the poor peasant urges that their son should learn a trade.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: other pupils / boys
+  description: Other boys are being brought up by the devil under the same conditions
+    and are transformed into doves with the son.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: noble hunters
+  description: Groups of nobles hunting hare and pheasant who buy the son's hound
+    and falcon forms.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: father seeking instruction for child
+  assigned_to:
+  - fig:1
+  basis: He takes his son to seek a master after his wife urges trade instruction.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: pupil under supernatural instruction
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The son and other boys are described as pupils or children taught by the
+    devil under conditions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: shapeshifting son
+  assigned_to:
+  - fig:2
+  basis: The son changes into hunting animals, a horse, and back into a boy; he also
+    participates in the dove transformation.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:4
+  label: supernatural master and captor
+  assigned_to:
+  - fig:3
+  basis: Vakhraca is called a devil, teaches the son, sets a condition under which
+    the son may be lost, and later imprisons him in horse form.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:11
+- id: role:5
+  label: seller of transformed animals
+  assigned_to:
+  - fig:1
+  basis: The father sells the son in hound, falcon, and horse forms.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+- id: role:6
+  label: variegated-eyed buyer
+  assigned_to:
+  - fig:3
+  basis: The buyer with variegated eyes purchases the horse and bridle and is said
+    to have the pupil in his power again.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+- id: role:7
+  label: urging parent
+  assigned_to:
+  - fig:4
+  basis: The wife repeatedly urges the peasant to have their son learn a trade.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: hunters and buyers
+  assigned_to:
+  - fig:6
+  basis: The nobles hunt hare and pheasant and pay high prices for the hound and falcon.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: rivulet water
+  literal_form: A rivulet from which the peasant drinks before Vakhraca comes forth
+    from the water.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: dove transformation
+  literal_form: The master turns the pupils into doves for the recognition test.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: hound form
+  literal_form: The son changes into a hound that catches a hare.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: falcon form
+  literal_form: The son changes into a falcon that brings down a pheasant.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: horse form
+  literal_form: The son changes into a splendid, spirited horse to be sold in town.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+- id: sym:6
+  label: bridle
+  literal_form: A bridle given with the horse despite the son's warning that it would
+    prevent him from freeing himself.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:7
+  label: variegated eyes
+  literal_form: The distinguishing eyes of the man whom the son warns his father not
+    to sell the horse to.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:8
+  label: dark room
+  literal_form: A dark room in which the horse-form pupil is shut and locked.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: search for a master and bargain at the rivulet
+  summary: The peasant takes his son to seek instruction, drinks from a rivulet, encounters
+    Vakhraca, and agrees to a one-year teaching bargain with a recognition condition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: dove recognition test
+  summary: The son secretly tells his father how to recognize him after the master
+    transforms the pupils into doves; the father identifies him and the son leaves
+    the devil.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: hound sale and escape
+  summary: The son becomes a hound, catches a hare for noble hunters, is sold for
+    a high price, then escapes by changing back into a boy out of sight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: falcon sale and escape
+  summary: The son becomes a falcon, catches a pheasant for noble hunters, is sold
+    for a high price, then changes back into a boy and rejoins his father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: horse sale and captivity
+  summary: The son becomes a horse and warns his father about a variegated-eyed buyer
+    and the bridle, but the father sells both; the buyer takes the horse home and
+    locks him in a dark room.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: dangerous supernatural apprenticeship with recognition condition
+  taxonomy_refs:
+  - initiation
+  basis: The devil-master agrees to teach the boy for a year but requires the father
+    to recognize him afterward or lose him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage frames this as teaching and a bargain; an initiation reading
+    is plausible but not explicitly named as a rite.
+- id: motif:2
+  label: shapeshifting pupil
+  taxonomy_refs:
+  - shapeshifter
+  basis: The son participates in a dove transformation and independently changes into
+    a hound, falcon, horse, and back into a boy.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage does not explain how the son acquired the power beyond his
+    year with the master.
+- id: motif:3
+  label: devil outwitted by pupil's secret instructions
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The son gives his father the key to the dove recognition test, causing the
+    devil-master to lose the boy despite the bargain.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The outwitting is directly supported in the episode, though broader trickster
+    classification remains interpretive.
+- id: motif:4
+  label: sale of transformed animal followed by escape
+  taxonomy_refs:
+  - shapeshifter
+  - trickster_boundary
+  basis: The son repeatedly assumes valuable animal forms, is sold, and then escapes
+    by returning to boy form when out of the buyers' sight.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage gives two successful repetitions before the failed horse episode.
+- id: motif:5
+  label: ignored warning and capture through binding object
+  taxonomy_refs: []
+  basis: The son warns against selling him to the variegated-eyed man and against
+    giving the bridle, but the father sells both, after which the buyer controls and
+    confines him.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The bridle's binding effect is stated in the son's warning and borne out
+    by the capture, but no explicit symbolic explanation is supplied.
+- id: motif:6
+  label: greed overcomes protective instruction
+  taxonomy_refs: []
+  basis: The father disregards the son's warning because the variegated-eyed man offers
+    more money.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage explicitly says love of money conquered the peasant; no further
+    moral interpretation is added here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 238-331, opening family setup
+  quote_or_summary: A poor peasant has one son; the wife urges that the son should
+    learn a trade, and the father takes the child to seek a master.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 238-331, rivulet encounter
+  quote_or_summary: The peasant drinks from a rivulet, praises it, and a devil named
+    Vakhraca comes forth from the water in the form of a man.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 238-331, teaching bargain
+  quote_or_summary: Vakhraca offers to teach the son for one year; if the father recognizes
+    him afterward, the boy may leave, but otherwise he belongs to the devil.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 238-331, other pupils
+  quote_or_summary: The devil has other children under the same conditions and usually
+    wins because children change during the year.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 238-331, son's recognition instructions
+  quote_or_summary: The son tells his father that the master will turn the pupils
+    into doves; he will fly first on departure and be last on return, allowing the
+    father to identify him.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 238-331, dove test outcome
+  quote_or_summary: The master turns the pupils into doves and orders them to fly;
+    the father points out his son, the devil is enraged, and the boy leaves.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 238-331, hound episode
+  quote_or_summary: The son changes into a hound, catches a hare for nobles, is sold
+    for a high price, and later changes back into a boy once out of sight.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 238-331, falcon episode
+  quote_or_summary: The son changes into a falcon, brings down a pheasant before nobles,
+    is sold, and later changes back into a boy and rejoins his father.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: lines 238-331, horse warning
+  quote_or_summary: The son proposes to become a splendid horse and warns his father
+    not to sell him to a man with variegated eyes, or at least not to give him the
+    bridle.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:10
+  type: summary
+  locator: lines 238-331, sale to variegated-eyed man
+  quote_or_summary: A variegated-eyed man bids far more than others; love of money
+    overcomes the peasant, who sells him the horse and bridle.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:11
+  type: summary
+  locator: lines 238-331, captivity
+  quote_or_summary: The buyer rides away rejoicing that he has his pupil in his power
+    again, reaches home, locks the horse in a dark room, and the pupil cannot find
+    an escape.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative sequence and figures are explicit in the passage. Motif labels
+    are candidate classifications based only on the supplied text and available taxonomy
+    references. No comparison claims are made because the passage itself does not
+    provide external comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; comparison claims intentionally left empty.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:georgian-georgian-folk-tales-wardrop-gutenberg__l238-l331
+  passage_sha256=292936448529dd2d4bb495385dd1cfa2da4e1a9cc9422188abc920f3673dfa6f
+

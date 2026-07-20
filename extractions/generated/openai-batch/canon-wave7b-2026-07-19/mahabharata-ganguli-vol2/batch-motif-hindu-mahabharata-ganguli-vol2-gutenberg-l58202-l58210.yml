@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l58202-l58210
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION CXC / SECTION CXCI / SECTION CXCII / SECTION CXCIII; lines 58202-58210
+  start: '58202'
+  end: '58210'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Bhimasena, the son of Pandu, filled with transports of joy, caused the earth
+    to tremble with slaps on his armpits.
+  summary: Bhimasena expresses joy after speaking of the future slaying of the Suta's
+    son and Duryodhana; his armpit slaps make the earth tremble, frightening the troops
+    into flight, while the Pandavas rejoice as victors over their foes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage names Bhimasena as the son of Pandu.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Bhimasena says that the Suta's son and Duryodhana shall be slain in battle.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bhimasena is described as filled with joy.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bhimasena slaps his armpits, and the earth is said to tremble from this act.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The troops are terrified by the sound and run away from battle.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The fleeing troops forget the duties of the Kshatriyas and set their hearts
+    on flight.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Pandavas become victors and feel happiness from the destruction of their
+    foes in battle.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bhimasena, son of Pandu
+  description: A warrior who speaks of enemy deaths, rejoices, and causes the earth
+    to tremble by slapping his armpits.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: son of Prishata
+  description: A figure addressed or referred to as one crowned with victory.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Suta's son
+  description: A foe whom Bhimasena says shall be slain in battle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Duryodhana
+  description: A foe whom Bhimasena says shall be slain in battle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: thy troops
+  description: Troops terrified by Bhimasena's sound who run away from battle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Pandavas
+  description: Group described as victors who rejoice after the destruction of their
+    foes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: monarch
+  description: The addressee marked by the phrase 'O monarch.'
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: joyful speaker
+  assigned_to:
+  - fig:1
+  basis: Bhimasena has just spoken and is described as filled with transports of joy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: earth-shaking warrior
+  assigned_to:
+  - fig:1
+  basis: He causes the earth to tremble with slaps on his armpits.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: victory-associated figure
+  assigned_to:
+  - fig:2
+  basis: The son of Prishata is described as one crowned with victory.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: anticipated slain foe
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both the Suta's son and Duryodhana are named as persons who shall be slain
+    in battle.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: terrified fleeing troops
+  assigned_to:
+  - fig:5
+  basis: The troops are terrified by the sound and run away from battle.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: victors
+  assigned_to:
+  - fig:6
+  basis: The Pandavas are described as having become victors and glad.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: addressee
+  assigned_to:
+  - fig:7
+  basis: The narration addresses a monarch directly.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: earth-trembling victory gesture
+  literal_form: Slaps on the armpits that make the earth tremble
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: terrifying battle sound
+  literal_form: The sound that terrifies the troops into flight
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Bhimasena rejoices and produces an earth-trembling sound
+  summary: After saying that the Suta's son and Duryodhana shall be slain, Bhimasena
+    is filled with joy and slaps his armpits so powerfully that the earth trembles.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Troops flee and the Pandavas rejoice
+  summary: The troops are terrified by the sound and flee from battle, while the Pandavas
+    become glad as victors after the destruction of their foes.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: heroic victory boast over destined slain foes
+  taxonomy_refs: []
+  basis: Bhimasena speaks of the future slaying of the Suta's son and Duryodhana in
+    battle and then rejoices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is brief and gives only the end of the speech, so the wider
+    narrative context of the boast is not included.
+- id: motif:2
+  label: earth-shaking warrior gesture
+  taxonomy_refs: []
+  basis: Bhimasena's armpit slaps are described as causing the earth to tremble.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The extraction treats the epic description literally without deciding
+    whether it is hyperbole or supernatural action.
+- id: motif:3
+  label: terrifying sound causes battlefield rout
+  taxonomy_refs: []
+  basis: The troops are frightened by the sound and run away from battle, abandoning
+    their warrior duties.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No specific external motif taxonomy reference is asserted.
+- id: motif:4
+  label: victors rejoice in destruction of foes
+  taxonomy_refs: []
+  basis: The Pandavas are described as glad and happy after becoming victors through
+    the destruction of their foes in battle.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a common battle outcome pattern rather than a distinctive mythic
+    motif in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 58202-58204
+  quote_or_summary: '"that wretch of a Suta''s son shall be slain in battle, as also
+    that other wretch, viz., Duryodhana."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 58204-58206
+  quote_or_summary: '"Bhimasena, the son of Pandu, filled with transports of joy,
+    caused the earth to tremble with slaps on his armpits."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 58206-58209
+  quote_or_summary: The troops are terrified by the sound, flee from battle, and forget
+    the duties of the Kshatriyas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: 58209-58210
+  quote_or_summary: The Pandavas become victors, are very glad, and feel happiness
+    from the destruction of their foes in battle.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied lines. Motif labels
+    are descriptive and not linked to a formal taxonomy. No external comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no identification of unnamed figures beyond the passage wording is asserted.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l58202-l58210
+  passage_sha256=216c3f9c24c3aa6870074bd767e1be84b9e8d37746d06246933bc478634c8803
+

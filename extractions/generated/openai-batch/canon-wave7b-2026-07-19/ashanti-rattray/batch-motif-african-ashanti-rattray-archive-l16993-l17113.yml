@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l16993-l17113
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: M-MM F-M-F, / M-M-M-M M-MF-M, / M-MM F-FF, / M-M M M-M-M-M,; lines 16993-17113
+  start: '16993'
+  end: '17113'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of rhythmic M/F notation followed by Akan lines arranged
+    under headings XIV and XV. It names Akuamoa Firampon, Otieku Amosoansan, Atakora,
+    Mampon Kontonkyi, Odomankoma, Amoagye-associated names, Esene, Ogya, and Asumgyima
+    'Birempon. The passage uses question-and-answer formulas, repeated list forms,
+    and repeated exclamations such as “Damirifa!”
+  language: Akan/Twi with M/F rhythmic notation and English section numerals
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage pairs extended M/F notation with later Akan text and uses the
+    section headings XIV and XV.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A formula containing “Wo firi Mampon Kontonkyi” and “akuma” appears before
+    the name Akuamoa Firampon and again in section XIV after a question addressed
+    to Atakora.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: Section XIV names Otieku Amosoansan and Atakora Panyin, then includes a question
+    line addressed to Atakora.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The exclamation “Damirifa !” occurs repeatedly after named formulas.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Section XV begins with repeated “Kra hi” lines that repeat syllables such
+    as “gede,” “ka,” “kata,” and “kre.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Section XV names Odomankoma and then gives a question line followed by several
+    lines beginning with “Obo.”
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Section XV lists multiple names or name-labels, including Konimsi Amoagye,
+    Gyaneampon Amoagye, Esene Konini Amoagye, Esene, Ogya, Gyaneampon Sakyi Amponsa,
+    and Asumgyima 'Birempon.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Akuamoa Firampon
+  description: Named immediately before repeated “Damirifa !” exclamations in the
+    passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Atakora
+  description: Appears as “Atakora Panyin,” is addressed in a question, and later
+    appears as “Atakora Firampon.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Otieku Amosoansan
+  description: Named at the start of the Akan text under section XIV.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Odomankoma
+  description: Named in section XV in the line “Odomankoma boo adie.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Amoagye-associated names
+  description: Konimsi Amoagye, Gyaneampon Amoagye, Esene Konini Amoagye, and Gyaneampon
+    Sakyi Amponsa are listed in section XV.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Esene
+  description: Named in “Esene Konini Amoagye” and directly addressed in “Esene, bra
+    begye wo fokyee.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Ogya
+  description: Appears as a repeated capitalized term or name-label in a question
+    line and two following lines in section XV.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Asumgyima 'Birempon
+  description: Listed near the end of section XV.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: subject of origin-style question
+  assigned_to:
+  - fig:2
+  basis: Atakora is named in the question line “Atakora wo firi he ni ?” followed
+    by a response beginning “Wo firi Mampon Kontonkyi.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: named figure in invocation or list
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:8
+  basis: These names occur as stand-alone named lines or in the list-like sequence
+    of the passage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: named figure preceding Obo sequence
+  assigned_to:
+  - fig:4
+  basis: Odomankoma is named immediately before “Obo die ben ?” and the following
+    “Obo” lines.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: directly addressed figure
+  assigned_to:
+  - fig:6
+  basis: The line “Esene, bra begye wo fokyee” directly addresses Esene by name.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: subject of repeated question-answer lines
+  assigned_to:
+  - fig:7
+  basis: "“Ogya” appears in the question “Ogya wo die ben ?” and in two following
+    lines beginning with “Ogya.”"
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: M/F rhythmic notation
+  literal_form: Repeated strings of M and F separated by hyphens before the Akan text
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Mampon Kontonkyi
+  literal_form: Place-name or locative name in the repeated “Wo firi Mampon Kontonkyi”
+    formula
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Kra hi refrain
+  literal_form: Repeated lines beginning “Kra hi” with repeated syllables
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Obo list formula
+  literal_form: Question line “Obo die ben ?” followed by lines beginning “Obo”
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: akuma term
+  literal_form: The term “akuma” in the formula “daamere obo hi akuma”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Notated rhythmic introduction
+  summary: The passage opens with M/F notation under section headings XIV and XV before
+    the Akan text begins.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Akuamoa formula and exclamation
+  summary: A formula mentioning Mampon Kontonkyi and akuma is followed by “Kon!,”
+    the name Akuamoa Firampon, and repeated “Damirifa !” exclamations.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Atakora origin-style question
+  summary: Section XIV names Otieku Amosoansan and Atakora Panyin, asks a question
+    addressed to Atakora, then repeats the Mampon Kontonkyi formula and ends with
+    Atakora Firampon and “Damirifa !”
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Kra hi refrain
+  summary: Section XV opens with repeated “Kra hi” lines using repeated syllables
+    and parallel forms.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Odomankoma and Obo sequence
+  summary: Odomankoma is named, followed by a question line and several “Obo” lines
+    that introduce additional labels.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Closing names and Ogya question
+  summary: The passage lists Amoagye-associated names, directly addresses Esene, then
+    gives a question and repeated lines beginning with Ogya before ending with further
+    names.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Origin-question refrain
+  taxonomy_refs: []
+  basis: The section XIV lines ask Atakora a question and follow with “Wo firi Mampon
+    Kontonkyi,” forming a repeated origin-style formula within the passage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No translation is provided in the passage; the extraction treats the repeated
+    question-and-response form literally and does not assign a broader taxonomy family.
+- id: motif:2
+  label: Enumerative question-and-answer naming sequence
+  taxonomy_refs: []
+  basis: Section XV includes “Odomankoma boo adie,” the question “Obo die ben ?,”
+    and a series of “Obo” lines and listed names.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The meanings of “boo,” “adie,” and “Obo” are not supplied in the passage;
+    this is recorded as a formal sequence rather than a translated creation motif.
+- id: motif:3
+  label: Formulaic exclamation after named figure
+  taxonomy_refs: []
+  basis: "“Damirifa !” appears after formulas naming Akuamoa Firampon and Atakora
+    Firampon."
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The term is not translated here; it is treated only as a repeated exclamatory
+    refrain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16993-17042; notated headings XIV-XV
+  quote_or_summary: The opening portion gives repeated M/F sequences under headings
+    XIV and XV before the Akan text begins.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:2
+  type: quote
+  locator: lines 17043-17055; formula before XIV
+  quote_or_summary: "“Wo firi Mampon Kontonkyi / daamere obo hi akuma. / Kon! / Akuamoa
+    Firampon, / Damirifa !”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 17056-17072; section XIV Akan text
+  quote_or_summary: "“Otieku Amosoansan, / Atakora Panyin, / Atakora wo firi he ni
+    ? / Wo firi Mampon Kontonkyi”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 17073-17088; section XV opening refrain
+  quote_or_summary: "“Kra hi gede gede gede gede gede / kra hi ka, / Kra hi kata kata
+    kata kata kata / kra hi ka”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 17089-17100; Odomankoma and Obo lines
+  quote_or_summary: "“Odomankoma boo adie, / Obo die ben ? / Obo 'Sen', / Obo 'Kyerema,”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 17101-17106; names following Obo sequence
+  quote_or_summary: "“Obo Kwawuakwa, 'Brafo tiri, / Ye nyina nyina se ye firi tebena,
+    / Konimsi Amoagye, / Gyaneampon Amoagye,”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 17107-17113; closing names and question lines
+  quote_or_summary: "“Esene, bra begye wo fokyee, / Ogya wo die ben ? / Ogya wo kabuo,
+    / Ogya wo atopere, / Gyaneampon Sakyi Amponsa, / Asumgyima 'Birempon,”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal names, repeated formulas, and sequence structures are clear, but
+    no translation is supplied for the Akan terms. No cross-tradition comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Names and terms are retained as they appear in the passage. No external translations or taxonomy assignments were applied.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l16993-l17113
+  passage_sha256=d08d22c5b13805b45b599d1e000d719fa5d94917a9bb05d9bca18e8593730906
+

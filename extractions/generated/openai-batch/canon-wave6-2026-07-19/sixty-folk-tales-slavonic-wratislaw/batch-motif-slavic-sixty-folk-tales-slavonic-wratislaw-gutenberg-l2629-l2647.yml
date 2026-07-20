@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l2629-l2647
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: VII.--GEORGE WITH THE GOAT. / VIII.--GODMOTHER DEATH. / IX.--THE FOUR BROTHERS.
+    / X.--THE THREE LEMONS.; lines 2629-2647
+  start: '2629'
+  end: '2647'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A melancholy young king encounters a white dove in the garden. He finds
+    and removes a pin from the dove's head, whereupon the dove becomes his wife again.
+    She reports that the gipsy deluded her and stuck the pin into her head. The king
+    has the gipsy and an old woman apprehended and burnt, and thereafter lives and
+    reigns happily with his wife.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The young king is agitated and melancholy while walking in a garden.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A beautiful white dove flies from a high tree onto the king's hand and looks
+    mournful.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king speaks to and strokes the dove, asking whether its mate has been
+    transformed like his wife.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The king finds the head of a pin under the dove's feathers and extracts the
+    pin.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Immediately after the pin is extracted, the mourning dove changes into the
+    king's wife.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The wife tells the king that the gipsy deluded her and stuck the pin into
+    her head.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The king orders the gipsy and the old woman to be apprehended and burnt.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Afterward, the king lives with his wife in peace and love and reigns prosperously.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: young king
+  description: A melancholy ruler who encounters the dove, removes the pin, restores
+    his wife, punishes the gipsy and old woman, and later reigns prosperously.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: beautiful wife / mourning dove
+  description: The king's wife appears as a beautiful white or mourning dove with
+    a pin in her head; after the pin is removed, she returns to human form and explains
+    what happened.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the gipsy
+  description: A figure whom the wife says deluded her and stuck the pin into her
+    head; the king later has this figure apprehended and burnt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: old woman
+  description: An old woman apprehended and burnt by the king together with the gipsy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: royal husband and restorer
+  assigned_to:
+  - fig:1
+  basis: The king grieves, handles the dove, discovers and removes the pin, and thereafter
+    lives with his restored wife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: transformed spouse
+  assigned_to:
+  - fig:2
+  basis: The dove is changed into the king's wife after the pin is removed, and she
+    reports the pin's insertion into her head.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: deceiver and pin-inserter
+  assigned_to:
+  - fig:3
+  basis: The wife states that the gipsy deluded her and stuck the pin into her head.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: apprehended and burnt figure
+  assigned_to:
+  - fig:4
+  basis: The old woman is apprehended and burnt by order of the king together with
+    the gipsy.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: white mourning dove
+  literal_form: beautiful white dove / beautiful mourning dove
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: pin in the head
+  literal_form: head of a pin concealed under feathers and stuck into the head
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: high tree
+  literal_form: high tree from which the dove flies
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: garden
+  literal_form: garden where the king walks and encounters the dove
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: garden encounter with the dove
+  summary: The melancholy king walks in the garden, and a white dove flies from a
+    high tree onto his hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: pin removed and wife restored
+  summary: The king finds a pin in the dove's head, removes it, and the dove changes
+    into his wife, who explains the deception.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: punishment and restored happiness
+  summary: The king has the gipsy and old woman apprehended and burnt, then lives
+    and reigns peacefully with his wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: enchanted spouse in bird form restored by removing a concealed pin
+  taxonomy_refs:
+  - shapeshifter
+  basis: The wife appears as a dove; when the king removes the pin from the dove's
+    head, the dove immediately becomes his wife again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy label 'shapeshifter' is used broadly here; the
+    passage describes an imposed transformation rather than voluntary shape-shifting.
+- id: motif:2
+  label: concealed object as transformation device
+  taxonomy_refs: []
+  basis: The pin hidden in the dove's head is removed immediately before the dove
+    becomes the wife again, and the wife says the pin had been stuck into her head.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No more specific supplied taxonomy reference is available for the pin
+    device.
+- id: motif:3
+  label: deceiver punished after victim's restoration
+  taxonomy_refs: []
+  basis: After the wife reports the gipsy's deception and insertion of the pin, the
+    king has the gipsy and old woman apprehended and burnt.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives no procedural details or further explanation for the
+    old woman's role.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously grouped with a broad transformation or shapeshifter
+    motif family because a human wife appears in bird form and is restored when an
+    enchantment-object is removed.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The text does not describe voluntary shape-changing and does not support
+    any claim of historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2629-2634
+  quote_or_summary: The agitated king walks in the garden; a beautiful white dove
+    flies from a high tree to his hand, and he addresses it as a sad dove with a possibly
+    transformed mate.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2634-2638
+  quote_or_summary: The king finds a protuberance, discovers the head of a pin, extracts
+    the pin, and the mourning dove immediately changes into his wife.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2638-2640
+  quote_or_summary: The restored wife narrates what happened, including that the gipsy
+    deluded her and stuck the pin into her head.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2640-2642
+  quote_or_summary: The king immediately causes the gipsy and the old woman to be
+    apprehended and burnt.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2644-2647
+  quote_or_summary: From then on nothing interferes with the king's happiness; he
+    lives with his wife in peace and love and reigns prosperously.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence is clear. Motif taxonomy mapping is partly broad because
+    the supplied list lacks a specific enchantment-object or bird-spouse category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Source term 'gipsy' is retained only as a passage label for the figure.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l2629-l2647
+  passage_sha256=776017658fd9b7e74637e9d7fd29e0352cd8757f43b1f6001408bf345ccf34bd
+

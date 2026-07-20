@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l7023-l7144
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: BASKETRY / THE VTMA INDIANS / ABTIFACTS / AKTIFACTS; lines 7023-7144
+  start: '7023'
+  end: '7144'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Pima textile implements and methods: a spindle,
+    cotton drying and storage, spinning and weaving labor, blanket use and barter,
+    limited wool information, dyeing materials, repair by weaving rather than sewing,
+    and the setup and operation of a horizontal ground loom.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The collected spindle is made of arrowwood, with a cactus-rib crossbar and
+    stated measurements.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cotton was picked, dried on arbor roofs, separated from pods, and stored in
+    large ollas until later use.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In winter, women spun cotton into thread and men wove it into square cloths
+    used as day robes, night blankets, waist girdles, and smaller head bands.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some Pimas who could not weave obtained blankets through barter, including
+    produce or horses, with one horse described as equivalent to two blankets.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:5
+  text: Bartlett’s account describes warp attached to sticks, a cane used like a sley,
+    a pointed-stick shuttle, a wooden beating instrument, and weaving generally done
+    by old men.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage reports references to wool in earlier accounts but says little
+    information was available and that no sheep were on the reservation during the
+    writer’s visit.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The only dye described for native cotton was a dark buff ocher obtained from
+    the Papagos; later, scarlet thread was obtained by unraveling bayeta after trade
+    relations with Mexicans.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Sewing is said to have been unknown, and holes were patched by weaving in
+    a new piece.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The loom was set horizontally with four stakes, river-bed sand under the work,
+    saguaro-rib yarn beams, cords, warp, binding thread, and arrowwood rods.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The weaver sat low to the ground or on the finished cloth and used rods, a
+    shuttle, a mesquite batten, a peg, and selvage threads to weave the fabric.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage explicitly compares the Pima loom to those of surrounding tribes
+    and notes that a division of labor differs from that of the Hopis and Zunis.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Pima people
+  description: The group whose cotton, blankets, weaving practices, barter, and textile
+    uses are described.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:2
+  name_or_label: Pima women
+  description: Women are described as spinning stored cotton into thread during winter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Pima men and weavers
+  description: Men are described as weaving cloth; Bartlett’s account says weaving
+    was generally done by old men, and the passage describes the weaver’s actions
+    at the loom.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: Papagos
+  description: Named as the group from whom dark buff ocher was bartered.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Mexicans
+  description: Named in relation to later trade relations after which bayeta was unraveled
+    for scarlet thread.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: cotton spinners
+  assigned_to:
+  - fig:2
+  basis: The passage states that women spun cotton into threads in winter.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: cloth weavers
+  assigned_to:
+  - fig:3
+  basis: The passage states that men wove cloth and describes weavers operating the
+    loom; Bartlett says old men generally did the weaving.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: role:3
+  label: textile users and exchangers
+  assigned_to:
+  - fig:1
+  basis: The passage describes Pimas using cloth as robes, blankets, girdles, and
+    head bands, and obtaining blankets by barter.
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: role:4
+  label: ocher trade source
+  assigned_to:
+  - fig:4
+  basis: The passage says dark buff ocher was bartered from the Papagos.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: later trade partners for bayeta
+  assigned_to:
+  - fig:5
+  basis: The passage links bayeta-derived scarlet thread to the inauguration of trade
+    relations with Mexicans.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: spindle
+  literal_form: Arrowwood spindle with cactus-rib crossbar.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cotton and cotton cloth
+  literal_form: Cotton dried, stored in ollas, spun into thread, and woven into cloth
+    squares.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: horizontal ground loom
+  literal_form: Four-stake horizontal loom with saguaro-rib beams, cords, warp, binding
+    thread, lease rod, and heald rod.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: clean white river-bed sand
+  literal_form: A deep layer of clean white sand spread below the loom to keep the
+    fabric from becoming soiled.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: ocher and scarlet thread
+  literal_form: Dark buff ocher used on selvage thread and scarlet thread obtained
+    from unraveled bayeta.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: weaving tools
+  literal_form: Arrowwood shuttle, mesquite batten, sharpened rod, and short peg used
+    in weaving.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Cotton preparation and textile production
+  summary: Cotton is dried, stored, spun by women, and woven by men into cloth used
+    for clothing and bedding functions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Blanket and material exchange
+  summary: Blankets and textile materials are obtained through exchange, including
+    produce or horses for blankets, ocher from Papagos, and bayeta-associated scarlet
+    thread after trade with Mexicans.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: scene:3
+  label: Horizontal loom setup and weaving operation
+  summary: A horizontal loom is set up with stakes, sand, beams, rods, warp, and binding
+    thread, and the weaver passes the shuttle, beats the weft with a batten, adjusts
+    warp threads, and turns selvage threads.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Repair by weaving
+  summary: Instead of sewing, holes in fabric are repaired by weaving in a new piece.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: cotton textile production cycle
+  taxonomy_refs: []
+  basis: The passage describes cotton being dried, stored, spun, woven, and used as
+    cloth for robes, blankets, girdles, and head bands.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic material-culture pattern, not a mythic or sacred
+    motif; no available taxonomy reference is assigned.
+- id: motif:2
+  label: horizontal ground-loom weaving
+  taxonomy_refs: []
+  basis: The passage gives a detailed sequence for a horizontal ground loom, including
+    stakes, sand, beams, rods, warp, shuttle, batten, peg, and selvage handling.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The pattern is technological and procedural; the passage does not assign
+    symbolic or ritual meaning to the loom.
+- id: motif:3
+  label: textile exchange and adopted materials
+  taxonomy_refs: []
+  basis: The passage describes blankets obtained by barter, ocher bartered from Papagos,
+    and scarlet thread obtained from bayeta after trade relations with Mexicans.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: Although exchange is present, the passage does not describe it as sacred,
+    so the available sacred_exchange taxonomy is not used.
+- id: motif:4
+  label: gendered and age-marked textile labor
+  taxonomy_refs: []
+  basis: Women are described as spinning cotton, men as weaving, and Bartlett’s quoted
+    account says weaving was generally done by old men.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage also notes comparison with Hopi and Zuni labor division but
+    does not provide details of those other systems.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports historical contact or exchange in textile materials
+    by naming Papagos as the source of bartered ocher and Mexicans in connection with
+    later bayeta-derived scarlet thread.
+  claim_level: historical_contact
+  target: Papago and Mexican trade relations involving dye or thread materials
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This supports material exchange only; it does not establish shared
+    mythic symbolism or a sacred exchange motif.
+- id: claim:2
+  claim: The passage explicitly compares Pima loom construction with that of surrounding
+    tribes, saying the Pima loom was simpler and horizontal rather than upright.
+  claim_level: same_function
+  target: weaving technologies of surrounding Southwest tribes
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The surrounding tribes are not named in this comparison, and the passage
+    gives no detailed description of their looms.
+- id: claim:3
+  claim: The passage notes that the described division of textile labor differs from
+    that of the Hopis and Zunis.
+  claim_level: same_function
+  target: Hopi and Zuni textile labor divisions
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not describe the Hopi or Zuni labor divisions, so
+    the comparison cannot be specified beyond stated difference.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7023-7024
+  quote_or_summary: '"The spindle collected is of arrowwood, the cross bar is of cactus
+    rib." Measurements are also provided.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 7023-7144, cotton drying and winter spinning/weaving paragraph
+  quote_or_summary: Cotton was picked, dried on arbor roofs, stored in ollas, spun
+    by women in winter, and woven by men into square cloths used as robes, blankets,
+    girdles, and head bands.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 7023-7144, Bartlett weaving quotation
+  quote_or_summary: Bartlett describes warp stretched on the ground, alternate warp
+    threads passed around cane, a pointed-stick shuttle, a hard-wood beating instrument,
+    slow work, high blanket prices, and weaving generally done by old men.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 7023-7144, wool paragraph
+  quote_or_summary: Earlier accounts mention wool as well as native cotton, but little
+    information was available about wool, and the writer found no sheep on the reservation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 7023-7144, dyeing paragraph
+  quote_or_summary: The passage says no dyes were used except dark buff ocher bartered
+    from the Papagos; no mordant was used; the color was used only on selvage thread;
+    bayeta was later unraveled for scarlet thread after trade relations with Mexicans.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: 7023-7144, sewing sentence
+  quote_or_summary: '"Sewing was unknown, and holes were patched by weaving in a new
+    piece."'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: '7023-7144, Implements and methods: loom setup'
+  quote_or_summary: The loom was horizontal and set with four stakes, clean white
+    river-bed sand beneath the work, saguaro-rib yarn beams, side cords, warp thread,
+    binding thread, and arrowwood lease and heald rods.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 7023-7144, weaver operation paragraph
+  quote_or_summary: The weaver sat on the ground or finished cloth, manipulated rods
+    and upper warp threads, passed an arrowwood shuttle, beat the weft with a mesquite
+    batten, adjusted irregular warp threads with a peg, and turned heavy selvage threads.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 7023-7144, blanket barter paragraph
+  quote_or_summary: Some Pimas lacked blankets; those unable to weave but well-to-do
+    obtained blankets by bartering corn, beans, other produce, or horses, with one
+    horse exchanged for two blankets.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:10
+  type: quote
+  locator: 7023-7144, comparison sentences and note
+  quote_or_summary: The passage says, "The loom was simpler than that used by the
+    surrounding tribes and was spread horizontally instead of being set upright";
+    a note states that this division of labor differs from that of the Hopis and Zunis.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; short excerpt and summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is descriptive. Motif candidates
+    are treated as ethnographic patterns rather than mythic motifs. Comparison claims
+    are limited to explicit comparisons or contacts stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage contains OCR noise and is primarily technological and ethnographic, not narrative mythology. No available mythic motif-family taxonomy reference was assigned.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l7023-l7144
+  passage_sha256=31659ef08824568df6f1ac9e3b23e7c59b65c629ab9a29d9d513a5edd227eb0b
+

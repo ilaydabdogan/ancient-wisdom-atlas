@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.buddhist-sutta-nipata-sbe10-fausboll-archive-l273-l322
+source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+passage_locator:
+  label: PREFACE / TO NEW EDITION. / NEW EDITION. XI / X1V - PREFACE TO; lines 273-322
+  start: '273'
+  end: '322'
+  translation: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: he could point to no one as his teacher, but that he was his own teacher
+  summary: 'A preface passage discusses meanings of Pali terms, cites Suttanipata
+    210 in Fausböll’s translation, and reports a commentarial story: Buddha, on the
+    way to Benares, meets Upagivaka, is asked who ordained him and whose doctrine
+    he teaches, and declares that he has no teacher but himself. The passage then
+    says Lalita-vistara XXVI confirms the story through a corresponding question about
+    Gautama’s authorization to become a bhikshu or pabbagita.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage distinguishes upadis as meaning teaching and uddis as meaning
+    to point to.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage cites Suttanipata 210 and reports Fausböll’s translation of a
+    man described as overcoming everything, knowing everything, having good understanding,
+    being undefiled, abandoning all things, liberated in the destruction of desire,
+    and called a Muni by the wise.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the event that gave rise to the verse has disappeared from
+    the verse itself, but is supplied by the commentator.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentator’s story places Buddha on the way to Benares, where he meets
+    Upagivaka.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Upagivaka asks Buddha who ordained him and whose teacher’s doctrine he teaches.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Buddha declares that he can point to no one as his teacher and that he is
+    his own teacher.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that Lalita-vistara XXVI confirms the commentator’s story
+    and gives a corresponding question about who gave Gautama leave to become a bhikshu
+    or pabbagita.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Buddha / Gautama
+  description: The reported utterer of the verse; he is described as meeting Upagivaka
+    on the way to Benares and declaring that he has no teacher but himself.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Upagivaka
+  description: A person who meets Buddha on the way to Benares and asks who ordained
+    him and whose doctrine he teaches.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Muni described in Suttanipata 210
+  description: A man described in the cited translation as overcoming everything,
+    knowing everything, having good understanding, being undefiled, abandoning all
+    things, and liberated in the destruction of desire; the wise call him a Muni.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: utterer of the verse
+  assigned_to:
+  - fig:1
+  basis: The commentator says the verse was originally uttered by Buddha.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: teacherless self-teacher
+  assigned_to:
+  - fig:1
+  basis: Buddha declares that he can point to no teacher and that he is his own teacher.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: questioner about ordination and doctrine
+  assigned_to:
+  - fig:2
+  basis: Upagivaka asks who ordained Buddha and whose teacher’s doctrine he teaches.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: liberated Muni
+  assigned_to:
+  - fig:3
+  basis: The translated verse says the wise call the liberated man a Muni.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Description of the Muni in Suttanipata 210
+  summary: The cited verse, as translated by Fausböll, describes a man of complete
+    knowledge, purity, renunciation, and liberation whom the wise call a Muni.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Buddha questioned on the way to Benares
+  summary: In the commentator’s reported story, Buddha meets Upagivaka while traveling
+    to Benares. Upagivaka asks who ordained him and whose doctrine he teaches. Buddha
+    replies that he has no teacher and is his own teacher.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Teacherless wisdom or self-authorized sage
+  taxonomy_refs:
+  - wisdom
+  basis: The cited verse describes a Muni marked by knowledge, understanding, purity,
+    renunciation, and liberation; the commentarial context reports Buddha declaring
+    that he has no teacher and is his own teacher.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a scholarly preface summarizing a commentary, not a full
+    narrative; the motif is inferred from the reported episode and translated verse.
+- id: motif:2
+  label: Questioned ordination or authorization of renunciation
+  taxonomy_refs:
+  - initiation
+  basis: Upagivaka asks who ordained Buddha, and the Lalita-vistara comparison is
+    presented as a corresponding question about who gave Gautama leave to become a
+    bhikshu or pabbagita.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage reports questions about authorization but does not narrate
+    an initiation rite.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats Lalita-vistara XXVI as preserving a corresponding version
+    of the story in which Gautama is asked about the authority for his renunciation
+    or ordination.
+  claim_level: same_motif
+  target: Lalita-vistara XXVI
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage summarizes the Lalita-vistara correspondence and quotes
+    only a short phrase; the full parallel narrative is not provided in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 275-277
+  quote_or_summary: The passage says upadis means teaching, while uddis means to point
+    to.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 277-288
+  quote_or_summary: Suttanipata 210 is cited and translated as describing a man who
+    has overcome and knows everything, is undefiled, has abandoned all things, is
+    liberated through destruction of desire, and is called a Muni by the wise.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 290-298
+  quote_or_summary: The commentator says the verse was uttered by Buddha when, on
+    the way to Benares, he met Upagivaka, who asked who ordained him and whose doctrine
+    he taught; Buddha declared he had no teacher and was his own teacher.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; concise excerpt/summary from public domain text.
+- id: ev:4
+  type: summary
+  locator: lines 299-303
+  quote_or_summary: The passage says Lalita-vistara XXVI confirms the commentator’s
+    story, with a phrase corresponding to the question of who gave Gautama leave to
+    become a bhikshu or pabbagita.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is in English and clearly reports the episode and cross-reference.
+    Motif identification is limited because this is prefatory commentary rather than
+    a primary narrative passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol such as cave, fire, milk, mountain, serpent, tree, or water appears in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-sutta-nipata-sbe10-fausboll-archive__l273-l322
+  passage_sha256=b4510f37933f807669b534456caf450980f6707884b821ae6c3bcc5f5c84b7ba
+

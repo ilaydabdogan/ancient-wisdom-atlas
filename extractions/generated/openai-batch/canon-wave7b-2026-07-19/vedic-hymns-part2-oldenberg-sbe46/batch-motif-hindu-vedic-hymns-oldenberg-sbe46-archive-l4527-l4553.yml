@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l4527-l4553
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'ASHTAKA I, ADHYAYA 5, VARGA 17-18. / NOTES: / MANDALA I, HYMN 72. 35 / MANDALA
+    I, HYMN 72. 87; lines 4527-4553'
+  start: '4527'
+  end: '4553'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“These are the two eyes of the sacrifice, the (oblations of butter called)
+    Agyabhagas.”"
+  summary: The passage is a set of notes on Mandala I, Hymn 72. It identifies the
+    Agyabhagas, oblations of butter, as the “two eyes of the sacrifice,” discusses
+    a conjectural reading about streams flowing downward, and considers whether “the
+    red ones” and “those which are directed downwards” refer to dawns, libations of
+    Ghrta, or, in Max Müller’s rendering, red netherward mares associated with Agni.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Agyabhagas are described as two eyes of the sacrifice and as oblations
+    of butter.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the subject seems to be streams of sacrificial libations.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says the expressions “the red ones” and “those which are directed
+    downwards” are feminine.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note proposes that “the red ones” may be dawns, but marks this as uncertain.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note asks whether “those which are directed downwards” could be libations
+    of Ghrta and similar offerings seen by the dawns.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A cited translation by Prof. Max Müller addresses Agni and interprets the
+    phrase as “the red netherward mares” of Agni.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: A figure addressed in Max Müller’s quoted translation as “O Agni.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: the dawns
+  description: A possible referent for “the red ones” in the editor’s note; the note
+    treats this identification as uncertain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: addressed figure
+  assigned_to:
+  - fig:1
+  basis: Max Müller’s quoted rendering includes the address “O Agni.”
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: possible seers of libations
+  assigned_to:
+  - fig:2
+  basis: The note asks whether the dawns see libations of Ghrta and similar offerings.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: eyes of the sacrifice
+  literal_form: the Agyabhagas, two oblations of butter
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sacrificial libations
+  literal_form: streams of sacrificial libations
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: downward-directed offerings
+  literal_form: libations of Ghrta and the like, described as directed downwards
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: red netherward mares
+  literal_form: red netherward mares associated with Agni in Max Müller’s translation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Commentarial interpretation of sacrificial offerings
+  summary: The notes interpret expressions in Hymn 72 as referring to butter oblations,
+    sacrificial libation streams, possibly dawns, and possibly downward-directed Ghrta
+    libations.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Alternative translation involving Agni
+  summary: The note reports Max Müller’s alternative rendering in which people recognize
+    red netherward mares associated with Agni.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacrificial offering and libation
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly discusses sacrifice, butter oblations, and streams
+    of sacrificial libations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is commentary on a hymn rather than a continuous mythic narrative.
+- id: motif:2
+  label: sacred vision through ritual offerings
+  taxonomy_refs:
+  - sacrifice
+  basis: The Agyabhagas are called the two eyes of the sacrifice, and the note considers
+    offerings seen by dawns.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The identification of dawns and downward-directed libations is presented
+    as uncertain by the note.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly directs comparison with another passage, “below, 73,
+    4,” but gives no motif-level details in this excerpt.
+  claim_level: linguistic_similarity
+  target: Mandala I, Hymn 73.4
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The target passage is not included here, so only the presence of the
+    editorial comparison can be recorded.
+- id: claim:2
+  claim: The note cites V, 50, 6 in connection with Max Müller’s grammatical or lexical
+    interpretation of the phrase involving red mares.
+  claim_level: linguistic_similarity
+  target: Mandala V, Hymn 50.6
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The cited passage is not included, and the comparison concerns wording
+    rather than a demonstrated shared mythic motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4527-4530
+  quote_or_summary: "“These are the two eyes of the sacrifice, the (oblations of butter
+    called) Agyabhagas.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4534-4539
+  quote_or_summary: The note says a conjecture meaning “they stream downwards” is
+    not improbable and says the subject seems to be the streams of sacrificial libations.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4540-4549
+  quote_or_summary: The note says “the red ones” and “those which are directed downwards”
+    are feminine; it suggests the red ones may be dawns, but questions whether the
+    downward-directed ones are Ghrta libations and similar offerings seen by the dawns.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4549-4552
+  quote_or_summary: 'The note reports Prof. Max Müller’s translation: people recognized
+    the red netherward mares of Agni; it also says he supplies a term or takes arushiz
+    as mares, with comparison to V, 50, 6.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: line 4532
+  quote_or_summary: The note says to compare below, 73, 4.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; citation summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is mainly philological commentary, with several identifications
+    explicitly presented as uncertain. Motif extraction is strongest for sacrifice
+    and libation imagery.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. No external taxonomy IDs beyond the supplied motif family list were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l4527-l4553
+  passage_sha256=a95d5bd4a260d386f47249fed8db6984b5db3e40a8a65266d220ab71aa1841d2
+

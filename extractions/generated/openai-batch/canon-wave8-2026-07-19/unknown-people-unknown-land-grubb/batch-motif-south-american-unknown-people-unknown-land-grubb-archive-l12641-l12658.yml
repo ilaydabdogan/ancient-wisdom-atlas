@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l12641-l12658
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: APPENDIX I / APPENDIX I / APPENDIX I / PART I.; lines 12641-12658
+  start: '12641'
+  end: '12658'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“a night-long incantation, to drive away the evil spirits from their sick
+    ones.”"
+  summary: 'The passage describes the Chaco at night: summer insect sounds, winter
+    silence broken by animal cries, and human night chanting that may be a war-song,
+    a lament for the dead, or an incantation intended to drive evil spirits away from
+    sick people.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The explorer is described as becoming especially impressed at night by the
+    presence of animal life in the Chaco.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In summer, the night air is filled with insect sounds, including mosquitoes,
+    crickets, beetles, and cicadas.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In winter, the nights are described as excessively cold and mostly silent,
+    with occasional cries, roars, and screams of animals or birds.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says that human inhabitants may be heard chanting at dead of night.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The described night chanting may be a war-song, a lament for the dead, or
+    a night-long incantation intended to drive evil spirits away from sick people.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: explorer
+  description: Observer who is said to become most impressed with Chaco animal life
+    at night.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: human inhabitants of the Chaco
+  description: People whose voices are heard chanting at dead of night.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the dead
+  description: Those for whom a wild lament may be chanted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: sick ones
+  description: Sick people from whom evil spirits are to be driven away by a night-long
+    incantation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: evil spirits
+  description: Supernatural beings named as the target of the incantation’s expulsion.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: observer
+  assigned_to:
+  - fig:1
+  basis: The explorer is described as becoming impressed by night animal life.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: night chanters
+  assigned_to:
+  - fig:2
+  basis: The human inhabitants are heard chanting at dead of night.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: subjects of lament
+  assigned_to:
+  - fig:3
+  basis: The passage mentions a wild lament for their dead.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: sick recipients of ritual protection
+  assigned_to:
+  - fig:4
+  basis: The incantation is said to drive evil spirits from their sick ones.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: harmful supernatural agents
+  assigned_to:
+  - fig:5
+  basis: The evil spirits are named as beings to be driven away from sick people.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: evil spirits
+  literal_form: evil spirits
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: dead of night
+  literal_form: nighttime setting for chanting
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Chaco night soundscape
+  summary: The passage contrasts summer nights filled with insect sounds with winter
+    nights marked by cold silence and occasional animal cries.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Human chanting at dead of night
+  summary: Human inhabitants are heard at night chanting war-songs, laments for the
+    dead, or incantations to drive evil spirits away from sick people.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Night-long incantation to expel evil spirits from the sick
+  taxonomy_refs: []
+  basis: The passage explicitly describes a night-long incantation whose purpose is
+    to drive evil spirits away from sick people.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic description, not a narrated myth; the ritual
+    form and beliefs are only briefly described.
+- id: motif:2
+  label: Lament for the dead
+  taxonomy_refs: []
+  basis: The passage states that a wild lament for the dead may be chanted at night.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not give the lament’s words, ritual sequence, or mythic
+    context.
+- id: motif:3
+  label: Nocturnal war-song
+  taxonomy_refs: []
+  basis: The passage lists a war-song as one form of chanting heard at dead of night.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No details are given about the song’s performers, purpose, or associated
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12641-12647
+  quote_or_summary: At night the explorer is especially impressed by Chaco animal
+    life; in summer the air is filled with insect sounds, including mosquitoes, crickets,
+    beetles, and cicadas.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12647-12653
+  quote_or_summary: In winter the nights are extremely cold and silent, broken at
+    intervals by cries, roars, and screams of animals or birds.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 12653-12658
+  quote_or_summary: The wildest night sound is the voice of human inhabitants chanting
+    “a war-song,” “a wild lament for their dead,” or “a night-long incantation, to
+    drive away the evil spirits from their sick ones.”
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the described soundscape and ritual actions.
+    Motif identification is limited because the passage gives only brief ethnographic
+    description and no mythic narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage does not explicitly match the supplied controlled taxonomy terms.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l12641-l12658
+  passage_sha256=8441fdc424700d855a19f48f6114632fcbf9b71ff6c4eabe52d76edf6fc51ef9
+

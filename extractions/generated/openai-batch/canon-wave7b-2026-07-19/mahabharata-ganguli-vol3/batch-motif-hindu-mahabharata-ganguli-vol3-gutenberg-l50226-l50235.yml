@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l50226-l50235
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCLV / SECTION CCLVI / SECTION CCLVII / SECTION CCLVIII; lines 50226-50235
+  start: '50226'
+  end: '50235'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"The tears she had shed become diseases"'
+  summary: The speaker explains that gods may be born as mortals when merit ends,
+    and mortals may attain divine status through sufficient merit. The king is told
+    not to grieve because his son has reached heaven. Death is said to have been created
+    by the Self-born, to cut off living beings at their appointed time; Death's tears
+    became diseases that take beings when their last hour arrives.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Gods, when their merits cease, must take birth as mortal creatures on earth.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mortal creatures, when they acquire sufficient merit, can attain the status
+    of gods.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The addressed king is told not to grieve for his son because the son has attained
+    heaven and is happy there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Death was created by the Self-born and cuts off all living creatures when
+    their appointed hours come.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Death's tears became diseases, and those diseases take away living beings
+    when their last hours come.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the gods
+  description: Divine beings who must take birth as mortal creatures when their merits
+    cease.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: mortal creatures
+  description: Beings who may attain the status of gods when they acquire sufficient
+    merit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the king's son
+  description: The son of the addressed king, said to have attained heaven and to
+    be enjoying happiness there.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Death
+  description: A female figure created by the Self-born, who cuts off living creatures
+    when their hours come.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: the Self-born
+  description: The creator of Death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: diseases
+  description: Entities formed from Death's tears that snatch away living beings at
+    their last hours.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: the addressed king
+  description: A monarch addressed as a lion among kings and instructed not to grieve
+    for his son.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine beings subject to birth as mortals
+  assigned_to:
+  - fig:1
+  basis: The passage says gods take birth as mortal creatures when their merits cease.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mortals capable of divine status through merit
+  assigned_to:
+  - fig:2
+  basis: The passage says mortal creatures attain the status of gods when they acquire
+    sufficient merit.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: heaven-attaining deceased son
+  assigned_to:
+  - fig:3
+  basis: The passage says the king's son has attained heaven and enjoys happiness
+    there.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: appointed agent of death
+  assigned_to:
+  - fig:4
+  basis: Death is said to cut off living creatures when their hours come.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: creator of Death
+  assigned_to:
+  - fig:5
+  basis: The passage states that Death was created by the Self-born.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: disease-agents of life removal
+  assigned_to:
+  - fig:6
+  basis: Diseases are said to arise from Death's tears and to snatch away living beings
+    at the last hour.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: bereaved royal addressee
+  assigned_to:
+  - fig:7
+  basis: The speaker addresses a monarch and tells him not to grieve for his son.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: heaven
+  literal_form: Heaven as the place attained by the king's son.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Death's tears
+  literal_form: Tears shed by Death that become diseases.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: diseases
+  literal_form: Diseases that arise from Death's tears and remove living beings at
+    their last hour.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: merit
+  literal_form: Merit as the condition governing movement between divine and mortal
+    states.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Cycle between divine and mortal status
+  summary: The passage describes gods taking mortal birth when merit ceases and mortals
+    attaining divine status when merit is sufficient.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Consolation of the bereaved king
+  summary: The addressed monarch is told not to grieve because his son has attained
+    heaven and happiness.
+  figure_refs:
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Creation and operation of Death
+  summary: Death is said to be created by the Self-born and to end living creatures
+    at their appointed times.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Diseases from Death's tears
+  summary: Death's tears become diseases, which remove living beings when their last
+    hours arrive.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Merit-governed movement between mortal and divine births
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage states that gods can be born as mortals when merit ceases and
+    mortals can attain divine status when merit is sufficient.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a doctrinal cycle of status and birth rather than a
+    single narrated death-and-return episode.
+- id: motif:2
+  label: Afterlife consolation through heavenly attainment
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The king is told not to grieve because his son has attained heaven and enjoys
+    happiness there.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage names heaven as an afterlife destination but does not provide
+    a detailed journey map.
+- id: motif:3
+  label: Personified Death created to end lives at the appointed time
+  taxonomy_refs: []
+  basis: Death is described as created by the Self-born and as cutting off living
+    creatures when their hours come.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly names personified Death as an
+    appointed agent.
+- id: motif:4
+  label: Diseases originating from Death's tears
+  taxonomy_refs: []
+  basis: The passage states that Death's tears became diseases that snatch away living
+    beings at their last hour.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives an etiological statement but no extended narrative beyond
+    this origin and function.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared with the death_rebirth motif family
+    because it presents movement between divine and mortal states governed by merit.
+  claim_level: same_motif
+  target: death_rebirth motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage emphasizes karmic or merit-based status transition rather
+    than a specific hero's death and return.
+- id: claim:2
+  claim: The son's heavenly attainment has a limited functional similarity to afterlife-journey
+    patterns as a stated postmortem destination used for consolation.
+  claim_level: same_function
+  target: afterlife_journey_map motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: No route, guide, judgment scene, or detailed geography of the afterlife
+    is described.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 50226-50230
+  quote_or_summary: Gods whose merit ceases take birth as mortals on earth; mortals
+    with sufficient merit attain the status of gods.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 50230-50232
+  quote_or_summary: The addressed king is told not to grieve for his son because the
+    son has attained heaven and is happy there.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 50232-50234
+  quote_or_summary: Death was created by the Self-born and cuts off all living creatures
+    when their appointed hours come.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 50234-50235
+  quote_or_summary: '"The tears she had shed become diseases"; these diseases snatch
+    away living beings when their last hours come.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is direct from the supplied passage. Motif assignment
+    is cautious because the excerpt is doctrinal and etiological, not an extended
+    myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l50226-l50235
+  passage_sha256=35b5916159454165d2e5ad90c44356666ddd6ffd6be4e8fa9e3c3c08b447d02f
+

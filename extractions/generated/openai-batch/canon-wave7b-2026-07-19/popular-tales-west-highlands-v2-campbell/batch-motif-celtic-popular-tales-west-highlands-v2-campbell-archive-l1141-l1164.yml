@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l1141-l1164
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE THREE WISE MEN. 31 / TOIMIISEACIIAN. 35 / THE RIDERE (KNIGHT) OF RIDDLES.
+    37 / AN TULMAN.; lines 1141-1164
+  start: '1141'
+  end: '1164'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"a woman of peace (a fairy)"'
+  summary: A fairy woman comes to the house of a man on the island of Pabaidh while
+    suffering from the hunger of motherhood. The man gives her food, she stays the
+    night, and on leaving she wishes that no one of the island should die in childbed.
+    The passage states that inhabitants and later dwellers on the island did not die
+    in childbed thereafter.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A woman of peace, identified parenthetically as a fairy, came to the house
+    of a man in the island of Pabaidh.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fairy woman is described as having the hunger of motherhood on her.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man gave the fairy woman food, and the passage says this went well with
+    her.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fairy woman stayed in the house that night.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When leaving, the fairy woman said she desired that none of the island's people
+    should go in childbed after that.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that neither those people nor later dwellers on the island
+    departed in childbed from that time.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: woman of peace / fairy
+  description: A female supernatural visitor described as a woman of peace, identified
+    as a fairy, hungry with the hunger of motherhood, fed by the man, and speaker
+    of the departing desire.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: man in the island of Pabaidh
+  description: A man at whose house the fairy woman arrives and who gives her food.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: people of the island of Pabaidh
+  description: The island community, including later dwellers, named as those who
+    would not depart in childbed after the fairy woman's desire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: supernatural visitor
+  assigned_to:
+  - fig:1
+  basis: The passage calls her a woman of peace and identifies her as a fairy who
+    comes to the man's house.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker of protective desire
+  assigned_to:
+  - fig:1
+  basis: On leaving, she states a desire that no people of the island should go in
+    childbed after this.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: human host and provider of food
+  assigned_to:
+  - fig:2
+  basis: The man receives the fairy woman at his house and gives her food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: protected island community
+  assigned_to:
+  - fig:3
+  basis: The fairy woman's desire and the narrator's result concern the people of
+    the island and later dwellers there.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: food given to fairy visitor
+  literal_form: food
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: childbed
+  literal_form: childbed
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: island of Pabaidh
+  literal_form: island
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fairy visitor fed at a Pabaidh house
+  summary: A fairy woman comes to a man's house on Pabaidh with the hunger of motherhood;
+    the man gives her food and she stays the night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Departure and lasting childbed protection
+  summary: When leaving, the fairy woman declares a desire that the island's people
+    not die in childbed; the passage reports this as continuing for inhabitants and
+    later dwellers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Hospitality to a fairy rewarded by a lasting communal boon
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A human host gives food to a fairy visitor, after which she pronounces a
+    lasting benefit for the island community.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents a fairy desire or
+    blessing rather than an explicit formal exchange contract.
+- id: motif:2
+  label: Supernatural protection from death in childbirth
+  taxonomy_refs: []
+  basis: The fairy woman's departing speech concerns freedom from dying in childbed,
+    and the narrator states that this held for the island's people and later dwellers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe a birth event or mechanism of protection
+    beyond the fairy woman's stated desire and the reported outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1153-1156
+  quote_or_summary: '"There came a woman of peace (a fairy) the way of the house of
+    a man in the island of Pabaidh, and she had the hunger of motherhood on her."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1156-1157
+  quote_or_summary: '"He gave her food, and that went well with her. She staid that
+    night."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1157-1160
+  quote_or_summary: On going away, she said, "I am making a desire that none of the
+    people of this island may go in childbed after this."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1160-1162
+  quote_or_summary: The narrator reports that none of those people, nor later dwellers
+    on the island, departed in childbed from that time.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and literal narrative actions are clear. Motif assignment
+    is cautious because the available taxonomy contains only broad families and the
+    passage gives no explicit comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this tale to another text, tradition, or motif family beyond the extractable fairy-hospitality pattern.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l1141-l1164
+  passage_sha256=490c38fe387185127e24bb26b0c7831043e3dc33bd0f5bbd1c075e298d9d367c
+

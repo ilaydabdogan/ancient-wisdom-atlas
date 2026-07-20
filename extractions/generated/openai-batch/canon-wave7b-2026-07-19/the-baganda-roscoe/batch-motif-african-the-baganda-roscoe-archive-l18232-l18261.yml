@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l18232-l18261
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: X  .  WARFARE  351 / WARFARE / THE   BAGANDA / CHAP.; lines 18232-18261
+  start: '18232'
+  end: '18261'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In the general's camp, fetiches sent by the King with the army are placed
+    before the general's hut and treated as a guarded boundary. Chiefs arrive with
+    followers, take an oath of allegiance to the general, and receive assigned places
+    in camp and marching order. Huts are built according to rank, retainers position
+    themselves to protect their chiefs, and the general may send a runner to the King
+    for reinforcements. The passage begins to note that kings formerly commanded the
+    army personally.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fetiches sent by the King with the army are brought out in the general's camp
+    and stuck into the ground in front of the general's hut.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fetiches have long iron spikes for fixing them into the ground.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: No one is allowed to pass the fetiches without special permission from the
+    general; the stated penalty is death.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The general sits outside his hut behind the fetiches to receive arriving chiefs
+    and their followers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Each arriving chief takes an oath of allegiance to the general.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The general tells the chiefs where they are to be stationed in camp and their
+    order of march during the expedition.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Each chief's hut is built with size and workmanship corresponding to his rank.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Retainers build their own huts in places where they can best protect their
+    chief if needed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: If the general judges the army inadequate, he sends a special runner to the
+    King to ask for reinforcements.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage states that kings formerly took command of the army in person,
+    but the sentence continues into a note about danger in battle and is incomplete
+    in the supplied excerpt.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: King
+  description: The King sends fetiches with the army and may be asked by the general
+    for reinforcements.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: General
+  description: The general is in command at the camp, controls passage past the fetiches,
+    receives chiefs, assigns stations and marching order, and may request reinforcements.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Chiefs
+  description: Chiefs arrive with followers, take the oath of allegiance to the general,
+    receive stations and marching order, and have huts built according to rank.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Followers
+  description: Followers accompany chiefs as they arrive in camp.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Retainers
+  description: Retainers build huts in positions selected to protect their chief if
+    needed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Special runner
+  description: A runner may be sent by the general to the King to ask for reinforcements.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Kings formerly commanding in person
+  description: The passage states that kings at one time took command of the army
+    in person.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: royal sender and reinforcement authority
+  assigned_to:
+  - fig:1
+  basis: The King sends fetiches with the army and is the person to whom the general
+    sends for reinforcements.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: camp commander
+  assigned_to:
+  - fig:2
+  basis: The general receives chiefs, controls permission to pass the fetiches, and
+    assigns stations and marching order.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: requester of reinforcements
+  assigned_to:
+  - fig:2
+  basis: If the army is inadequate, the general sends a runner to ask the King for
+    reinforcements.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: oath-taking subordinates
+  assigned_to:
+  - fig:3
+  basis: Each chief takes an oath of allegiance to the general.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: ranked camp occupants
+  assigned_to:
+  - fig:3
+  basis: Each chief's hut is built according to his rank.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: accompanying followers
+  assigned_to:
+  - fig:4
+  basis: Chiefs arrive in camp with their followers.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: protective retainers
+  assigned_to:
+  - fig:5
+  basis: Retainers build huts where they can best protect their chief.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: military messenger
+  assigned_to:
+  - fig:6
+  basis: A special runner is sent to the King to ask for reinforcements.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: former personal army commanders
+  assigned_to:
+  - fig:7
+  basis: The passage says that at one time kings took command of the army in person.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: King-sent war fetiches
+  literal_form: Fetiches sent by the King with the army, brought forth and stuck into
+    the ground before the general's hut.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Iron spikes on fetiches
+  literal_form: Long iron spikes attached to the fetiches so they can be stuck into
+    the ground.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Oath of allegiance
+  literal_form: Each chief takes an oath of allegiance to the general upon arriving
+    in camp.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Ranked huts in camp
+  literal_form: Chiefs' huts are built in size and workmanship according to rank;
+    retainers' huts are placed for protection.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fetiches installed before the general's hut
+  summary: In the general's camp, the King's fetiches are brought out, fixed in the
+    ground before the general's hut, and made a boundary that cannot be passed without
+    the general's permission.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Chiefs arrive and swear allegiance
+  summary: Chiefs arrive with followers; the general sits behind the fetiches to receive
+    them, and each chief takes an oath of allegiance to him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Camp and marching order assigned
+  summary: The general assigns chiefs to places in the camp and specifies the order
+    in which they will march during the expedition.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ranked and protective hut arrangement
+  summary: Chiefs' huts are built according to rank, and retainers build their huts
+    in places chosen to protect their chiefs.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Request for reinforcements
+  summary: If the general considers the army insufficient, he sends a special runner
+    to the King to ask for reinforcements.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ritual military boundary marked by royal fetiches
+  taxonomy_refs: []
+  basis: The King's fetiches are placed before the general's hut and no one may pass
+    them without permission on penalty of death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes a military custom ethnographically; it does not
+    explicitly state the fetiches' theological or mythic meaning.
+- id: motif:2
+  label: Oath of military allegiance before authoritative objects
+  taxonomy_refs: []
+  basis: The general receives chiefs while seated behind the fetiches, and each chief
+    takes an oath of allegiance to him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state whether the oath is made directly upon, by,
+    or to the fetiches; it only places the oath-taking scene behind them.
+- id: motif:3
+  label: Ranked war camp organization
+  taxonomy_refs: []
+  basis: The general assigns camp stations and marching order, while chiefs' huts
+    are built according to rank and retainers camp where they can protect chiefs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a social and military organization pattern rather than a mythic
+    motif in the narrow sense.
+- id: motif:4
+  label: Royal authority mediated through military command
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The King sends the fetiches with the army, the general commands beneath that
+    royal authorization, and the general appeals to the King for reinforcements.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: low
+  cautions: The available taxonomy reference is broad; the passage concerns delegated
+    military practice, not an explicit royal legitimacy myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 18232-18238
+  quote_or_summary: The fetiches which the King sent with the army are brought out
+    in the general's camp and stuck into the ground in front of the general's hut;
+    they are shod with long iron spikes.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; excerpt summarized/briefly quoted.
+- id: ev:2
+  type: quote
+  locator: 18238-18243
+  quote_or_summary: No one may pass the fetiches on pain of death without the general's
+    special permission; the general sits outside his hut behind the fetiches to receive
+    chiefs and followers.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; excerpt summarized/briefly quoted.
+- id: ev:3
+  type: summary
+  locator: 18243-18247
+  quote_or_summary: Each chief takes an oath of allegiance to the general, who then
+    assigns camp station and marching order for the expedition.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 18247-18252
+  quote_or_summary: Chiefs' huts are built in size and workmanship according to rank,
+    and retainers build their own huts where they can best protect their chief.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 18252-18255
+  quote_or_summary: If the general finds the army inadequate, he sends a special runner
+    to the King asking for reinforcements.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 18256-18261
+  quote_or_summary: The passage begins a statement that kings formerly took command
+    of the army in person, followed by mention of dangers in battle; the excerpt breaks
+    off mid-thought.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is ethnographic and does not elaborate the symbolic meaning of the
+    fetiches or oath.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support comparison to an external motif family, text, or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l18232-l18261
+  passage_sha256=7af5965add9870361e221037a3aed3578e344d01a14c15826553562f807c76fc
+

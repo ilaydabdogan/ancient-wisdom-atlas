@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.celtic-more-celtic-fairy-tales-jacobs-gutenberg-l7008-l7167
+source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: XLIII. HOW FIN WENT TO THE KINGDOM OF THE BIG MEN. / XLIV. HOW CORMAC MAC
+    ART WENT TO FAERY. / XLV. RIDERE OF RIDDLES. / XLVI. THE TAIL.; lines 7008-7167
+  start: '7008'
+  end: '7167'
+  translation: More Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"If the bowl had been stronger, / My song would have been longer."'
+  summary: The passage gives the closing item titled “The Tail,” cites Campbell as
+    its source, and notes that many storytellers use formulaic endings. It gives parallels
+    from Italian popular tales and English examples, including “Jack a Nory” and “The
+    Three Wise Men of Gotham” going to sea in a bowl. The remainder is publisher imprint
+    and advertisements for other Joseph Jacobs fairy-tale collections.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The item is titled “XLVI. THE TAIL.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The source note cites Campbell, number lvii.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The parallels note states that most storytellers have a formula of this kind
+    to conclude their narrations.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The parallels note cites examples in Prof. Crane’s Italian Popular Tales,
+    pages 155-7.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage lists English examples including “Jack a Nory” and “The Three
+    Wise Men of Gotham” who went to sea in a bowl.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The quoted couplet says that if the bowl had been stronger, the song would
+    have been longer.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the closing item, the passage includes a printer imprint and advertisements
+    for other fairy-tale books by Joseph Jacobs.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Most story-tellers
+  description: A collective group described as having formulas to conclude narrations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Prof. Crane
+  description: Named in the parallels note as giving examples in Italian Popular Tales.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Jack a Nory
+  description: Named as an English example of a story-ending formula.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: The Three Wise Men of Gotham
+  description: Named as an English example; the passage says they went to sea in a
+    bowl.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Formula-using storytellers
+  assigned_to:
+  - fig:1
+  basis: The note says most storytellers have some formula of this kind to conclude
+    narrations.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Comparative source cited in note
+  assigned_to:
+  - fig:2
+  basis: The passage cites Prof. Crane for examples in Italian Popular Tales.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Example from English closing formula
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage identifies these as English examples of concluding formulas.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Bowl used as sea vessel
+  literal_form: bowl
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Song length tied to vessel strength
+  literal_form: song
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial note on tale-ending formulas
+  summary: The closing item explains that storytellers often use concluding formulas
+    and gives comparative examples from Italian and English traditions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Publisher end matter
+  summary: The text moves from the closing item to printer information and advertisements
+    for other fairy-tale collections.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Formulaic tale-ending tail
+  taxonomy_refs: []
+  basis: The passage explicitly describes “some formula of this kind” used by storytellers
+    to conclude narrations and gives English examples.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an editorial/parallels note rather than a narrative episode.
+- id: motif:2
+  label: Impossible or comic voyage in an inadequate vessel
+  taxonomy_refs: []
+  basis: The English example mentions the Three Wise Men of Gotham going to sea in
+    a bowl, followed by a couplet about the bowl being insufficiently strong.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage only quotes this as an example of a closing formula; it does
+    not narrate the full tale.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the closing formula to examples in Italian popular
+    tales and to English tale-ending formulas.
+  claim_level: same_function
+  target: Italian Popular Tales examples and English formulas such as “Jack a Nory”
+    and “The Three Wise Men of Gotham”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage indicates functional similarity as tale conclusions; it
+    does not argue historical contact or shared origin.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7008-7012
+  quote_or_summary: "“XLVI. THE TAIL.” Source note: “Campbell, No. lvii.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 7014-7016
+  quote_or_summary: The parallels note says most storytellers have some formula of
+    this kind to conclude narrations and cites Prof. Crane’s Italian Popular Tales,
+    pp. 155-7.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 7016-7022
+  quote_or_summary: 'English examples include “Jack a Nory” and “The Three Wise Men
+    of Gotham” who went to sea in a bowl; the couplet says: “If the bowl had been
+    stronger, / My song would have been longer.”'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 7024-7167
+  quote_or_summary: The remaining passage gives the printer imprint and advertisements/reviews
+    for other Joseph Jacobs fairy-tale collections, including English Fairy Tales,
+    Celtic Fairy Tales, and Indian Fairy Tales.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The relevant motif material is limited to an editorial note about story-ending
+    formulas; most of the line range is publisher end matter.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol ref was assigned because the passage’s formulaic tale-ending material does not clearly match the supplied taxonomy list.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-more-celtic-fairy-tales-jacobs-gutenberg__l7008-l7167
+  passage_sha256=56d8d044fbfb00a1093e1c02b8bea11e07a1adac84ee8aa4ad1e7801f0b82493
+

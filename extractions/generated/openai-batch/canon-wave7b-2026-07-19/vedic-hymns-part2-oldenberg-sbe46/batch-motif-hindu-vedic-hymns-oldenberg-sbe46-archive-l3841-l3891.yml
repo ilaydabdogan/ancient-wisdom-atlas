@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l3841-l3891
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA I, HYMN 69. 69 / ASHTAKA I, ADHVAYA 5, VARGA 14. / MANDALA I, HYMN
+    70. 71 / MANDALA I, HYMN 70. 73; lines 3841-3891
+  start: '3841'
+  end: '3891'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: All men have brought tribute to thee, O sun-hero!
+  summary: The passage is a set of philological notes on verses 8-11 of Mandala I,
+    Hymn 70. It discusses grammatical readings, cross-references other Vedic passages,
+    proposes that tribute was brought to Agni rather than to human worshippers, offers
+    a possible translation addressing a “sun-hero,” cites a parallel involving Agni
+    and house-to-house wording, and notes that verse 11 may be a later addition.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note on verse 9 asks whether tribute was brought to Agni rather than to
+    human worshippers.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note on verse 9 proposes an emended reading that would translate the line
+    as all men bringing tribute to an addressed sun-hero.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note on verse 10 cites another Vedic passage containing a form of Agni
+    and a house-to-house phrase.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note on verse 11 states that the verse may possibly be a later addition.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The notes on verse 8 are philological and cite comparisons for the locative
+    sVar and another Sanskrit phrase.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named as the more probable recipient of tribute in the verse 9 note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: all men
+  description: 'The collective subject in the proposed translation: all men have brought
+    tribute.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: human worshippers
+  description: Mentioned as the less probable recipients of tribute in the verse 9
+    note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: sun-hero
+  description: The addressed figure in the possible translation proposed for verse
+    9.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: proposed recipient of tribute
+  assigned_to:
+  - fig:1
+  basis: The note asks whether tribute was brought to Agni.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tribute-bringing collective
+  assigned_to:
+  - fig:2
+  basis: The proposed translation says that all men have brought tribute.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: less probable tribute recipients
+  assigned_to:
+  - fig:3
+  basis: The note contrasts Agni with human worshippers as possible recipients of
+    tribute.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: emended vocative addressee
+  assigned_to:
+  - fig:4
+  basis: The proposed translation addresses the recipient as “O sun-hero.”
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: tribute
+  literal_form: tribute brought to Agni or to the addressed sun-hero
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sun-hero address
+  literal_form: "“O sun-hero”"
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Agni name
+  literal_form: Agni / agnim
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Proposed tribute scene
+  summary: The verse 9 note reconstructs the passage as a scene in which all men bring
+    tribute to Agni, or under the proposed emendation to an addressed sun-hero, while
+    human worshippers are treated as a less probable recipient.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: tribute offered to a named sacred addressee
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The note explicitly discusses tribute being brought to Agni and gives a possible
+    translation in which all men bring tribute to the addressed sun-hero.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is extracted from a philological note rather than from the full hymn
+    text; the sun-hero reading is presented as a possible emendation.
+comparison_claims:
+- id: claim:1
+  claim: The commentary cites Rigveda V, 1, 10 as a comparison for the reading in
+    which tribute is brought to Agni.
+  claim_level: same_function
+  target: Rigveda V, 1, 10, as cited in the verse 9 note
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The parallel passage is cited but not quoted or translated here, so
+    the claim is limited to the commentator’s explicit cross-reference.
+- id: claim:2
+  claim: The commentary cites Rigveda V, 11, 4 as a comparison involving Agni and
+    house-to-house wording.
+  claim_level: linguistic_similarity
+  target: Rigveda V, 11, 4, as cited in the verse 10 note
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The cited Sanskrit phrase is not translated in the passage, so no broader
+    motif-level equivalence is asserted.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3854-3863; Verse 9, Note 1
+  quote_or_summary: 'Verse 9 note asks whether tribute was brought to Agni rather
+    than to human worshippers, proposes an emendation, and gives the possible translation:
+    “All men have brought tribute to thee, O sun-hero!”'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 3865-3868; Verse 10, Note 1
+  quote_or_summary: Verse 10 note cites Rigveda V, 11, 4 and gives a Sanskrit phrase
+    containing “agnim” and “grzhé-grthe.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 3872-3875; Verse 11, Note 1
+  quote_or_summary: Verse 11 note says that the verse may possibly be a later addition.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 3843-3852; Verse 8, Notes 1-2
+  quote_or_summary: Verse 8 notes discuss the locative sVar and cite comparative Vedic
+    and scholarly references, including a comparison to X, 61, 14 and X, 53, 2.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is mostly commentary and philological annotation. Motif extraction
+    is therefore limited to the explicit tribute-to-Agni/sun-hero reading and to explicit
+    cross-references supplied by the note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or motifs beyond those directly supported by the supplied passage were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l3841-l3891
+  passage_sha256=147de2e2555ba8f911e48640337adc6bf0239fc0d2b9abeb447435d5dbba5d9a
+

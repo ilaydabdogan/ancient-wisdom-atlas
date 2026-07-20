@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l7995-l8018
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: BUREAU   OF  AMERICAN    ETHNOLOGY / EIGHTEENTH   ANNUAL   REPORT     PL.    L
+    / SKIN-CLEANING    TOOLS    (ONE-FOURTH) / TRAPS    AND    SNARES; lines 7995-8018
+  start: '7995'
+  end: '8018'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A weaponless hunter on the ice avoids an approaching white bear by lying
+    still and holding his breath while it sniffs him. The bear then goes toward the
+    other hunter, who is killed. The next day armed villagers and the dead hunter's
+    wife find the bear at the remains; the wife fires first, the group kills the bear,
+    and the wife slashes its sides with a hunting knife until exhausted.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two hunters are setting seal nets at some distance from each other when one
+    hears snow cracking under the feet of an approaching white bear.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hunter has no weapons, cannot see the animal because it is dark, and lies
+    flat on his back on the ice hoping to escape notice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The bear smells along the hunter's body and presses its cold muzzle against
+    the hunter's nose and mouth while sniffing several times.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The hunter holds his breath until his head swims.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The bear hears the other hunter moving, sniffs the first hunter's face again,
+    and trots toward the other man.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the bear leaves, the prostrate hunter gets up and flees toward shore
+    while hearing his comrade's death cry.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The next day the villagers arm themselves and go out on the ice with the missing
+    hunter's wife.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The villagers and the wife find the bear still feeding on the hunter's remains.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The wife fires the first shot at the bear, the others also fire, and the bear
+    falls.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The wife draws a hunting knife and slashes the bear's sides until the skin
+    hangs in shreds, then stops from exhaustion.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: weaponless hunter
+  description: The hunter who hears the approaching white bear, lies still without
+    weapons, and later flees toward shore.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: white bear
+  description: A white bear that approaches on the ice, sniffs the weaponless hunter,
+    goes toward the other hunter, is later found feeding on remains, and is killed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: other hunter / comrade
+  description: The second hunter, set apart from the first, whose movement attracts
+    the bear and whose death cry is heard.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: villagers
+  description: Villagers who arm themselves, go out on the ice, and shoot the bear
+    after the wife fires first.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: wife of the missing hunter
+  description: The wife who accompanies the armed villagers, fires the first shot
+    at the bear, and slashes the bear with a hunting knife.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: surviving hunted person
+  assigned_to:
+  - fig:1
+  basis: He is unarmed, hides by lying still, survives the bear's inspection, and
+    flees.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: dangerous animal attacker
+  assigned_to:
+  - fig:2
+  basis: The white bear approaches the hunters, inspects one hunter, goes to the other,
+    and is found feeding on remains.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: killed comrade
+  assigned_to:
+  - fig:3
+  basis: The bear moves toward him; the survivor hears his death cry, and his remains
+    are later found.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: armed communal responders
+  assigned_to:
+  - fig:4
+  basis: The villagers arm themselves, go out on the ice, and shoot after the wife
+    fires first.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: avenging wife
+  assigned_to:
+  - fig:5
+  basis: She accompanies the villagers, fires the first shot at the bear, and cuts
+    the bear's body with a hunting knife.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: white bear predator
+  literal_form: white bear
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: dark ice setting
+  literal_form: dark ice where the hunters are setting nets
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: withheld breath
+  literal_form: the hunter holding his breath while the bear sniffs his face
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hunting knife
+  literal_form: hunting knife used by the wife to slash the bear
+  associated_figures:
+  - fig:5
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: shore as flight direction
+  literal_form: shore toward which the surviving hunter flees
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bear approaches hunters setting seal nets
+  summary: Two hunters are separated while setting nets for seals, and one hears an
+    approaching white bear in the dark.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Weaponless hunter lies still while bear sniffs him
+  summary: The unarmed hunter lies on his back on the ice and holds his breath while
+    the bear smells his body and face.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Bear turns to the other hunter
+  summary: The bear hears the other hunter, goes toward him, and the surviving hunter
+    runs toward shore while hearing his comrade's death cry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Villagers and wife find and shoot the bear
+  summary: The next day, armed villagers and the missing hunter's wife go onto the
+    ice, find the bear at the remains, and shoot it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Wife slashes the fallen bear
+  summary: After the bear falls, the wife uses a hunting knife to slash its sides
+    until exhausted.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Survival by feigned stillness before a dangerous animal
+  taxonomy_refs: []
+  basis: The weaponless hunter lies flat in the dark and holds his breath while the
+    bear sniffs him, then escapes after the bear leaves.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: Plain passage-level pattern label; no supplied taxonomy motif directly
+    fits this incident.
+- id: motif:2
+  label: Predator turns from hidden survivor to second victim
+  taxonomy_refs: []
+  basis: The bear leaves the motionless hunter after hearing the other hunter and
+    the survivor hears his comrade's death cry while fleeing.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The second attack is inferred from the death cry and later remains, not
+    described in direct detail.
+- id: motif:3
+  label: Kin-led revenge against an animal killer
+  taxonomy_refs: []
+  basis: The wife of the missing hunter accompanies the armed villagers, fires the
+    first shot at the bear, and then slashes the bear with a knife.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not explicitly state her motive as revenge, though her
+    actions follow the killing of her husband.
+- id: motif:4
+  label: Communal armed retaliation after fatal animal attack
+  taxonomy_refs: []
+  basis: After the hunter is killed, villagers arm themselves, go to the ice, find
+    the bear at the remains, and shoot it.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a descriptive motif candidate rather than a named taxonomy category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7995-7997
+  quote_or_summary: Two hunters are setting nets for seals some distance apart; one
+    hears snow cracking under the feet of an approaching white bear.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7997-8000
+  quote_or_summary: The hunter is without weapons, it is too dark to see the animal,
+    and he lies flat on his back on the ice hoping not to be noticed.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8000-8004
+  quote_or_summary: The bear smells along the hunter's body, presses its muzzle to
+    his nose and mouth, and sniffs; the hunter holds his breath until his head swims.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8004-8008
+  quote_or_summary: The bear hears the other hunter, sniffs the first hunter again,
+    trots toward the other man, and the first hunter flees toward shore while hearing
+    his comrade's death cry.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8008-8011
+  quote_or_summary: The next day, when the sun reaches the horizon, villagers arm
+    themselves and go out on the ice with the missing hunter's wife.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8011-8012
+  quote_or_summary: They find the bear still feeding on the hunter's remains.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8012-8013
+  quote_or_summary: The wife fires the first shot at the bear, the others follow,
+    and the bear falls.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8013-8015
+  quote_or_summary: The wife draws a hunting knife, rushes at the bear, and slashes
+    its sides until the skin hangs in shreds; she stops from exhaustion.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative actions and figures are explicit. Motif labels are descriptive
+    candidates only. No comparison claims are made because the passage itself does
+    not support a comparison to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif or symbol reference was assigned; literal symbols are passage-internal only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l7995-l8018
+  passage_sha256=4489a33bc03bec9aed89fe56a9b6e7bb529aa76d34c1714ce497376c79b3b760
+

@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l3144-l3209
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: NATURE OF THE EVENTS / THE FOOD SUPPLY / PREPARATION OF FOOD / PLANTS USED
+    FOR FOOD; lines 3144-3209
+  start: '3144'
+  end: '3209'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: the event marks the beginning of the new year in the Pima calendar
+  summary: The passage describes Pima uses of saguaro fruit, yucca, and corn, including
+    saguaro harvesting in June as a new-year marker, preservation and food preparation
+    methods, fermentation into an intoxicating liquor, and footnoted observations
+    of saguaro or pitahaya harvest-season feasting, drunkenness, performances, and
+    gendered behavior.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The fruit of the giant cactus or saguaro is gathered in June, and the harvest
+    marks the beginning of the new year in the Pima calendar.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Saguaro seeds and dried fruit may be preserved; seeds that passed through
+    the body are sometimes gathered from dried feces, washed, and treated like seeds
+    taken directly from the fruit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ripe saguaro fruit is eaten without preparation; it is described as crimson
+    and containing many black seeds about the size of fig seeds.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Boiling and fermenting fresh saguaro fruit produces an intoxicating liquor
+    that the passage says was highly esteemed and made the new-year season one of
+    debauchery.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Saguaro fruit is dried in large balls; syrup is extracted by boiling fresh
+    or dried fruit, and the residue is ground on a metate into an oily paste.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Saguaro seeds may be separated from pulp, eaten raw, ground into meal, mixed
+    with water as pinole, or combined with other meal for bread.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Yucca fruit is boiled, dried, ground, and boiled with flour; it is also eaten
+    raw as a cathartic, and yucca stems are used as soap.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Corn is described as less valuable to the Pimas than wheat in recent years;
+    women bring husked corn, which is roasted over burning brush, cut from the cob,
+    dried, and stored.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A diary excerpt reports Pima feasting, singing, shouting, and drunkenness;
+    the Pima governor says such excess happens only a few times, in the saguaro season,
+    and says it makes people vomit yellow and keeps them healthy.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The same diary excerpt says no women became drunk and describes women leading
+    the horses of intoxicated husbands and gathering scattered clothes and beads.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A quoted description of California pitahaya months describes feasting, dancing,
+    entertainments of neighboring rancherias, buffooneries, comedies, and actors selected
+    for imitation.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Another quoted description says the pitahaya harvest is treated as the harvest
+    of the native inhabitants and that some people become corpulent after eating the
+    fruit for several weeks.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Pima people
+  description: The people for whom the saguaro harvest marks the new year and who
+    prepare, preserve, eat, and ferment saguaro fruit.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Pima women
+  description: Women who bring husked corn for preparation and, in the diary excerpt,
+    remain sober during drinking and manage horses and scattered belongings.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Pima men or husbands in the diary excerpt
+  description: Men described in the diary excerpt as affected by drinking, mounted
+    on horses, and scattering clothes and beads.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Governor of the Pimas
+  description: Local governor who speaks to the diarist about the drinking excesses
+    and their occurrence in the saguaro season.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Visiting diarist called the old man
+  description: Observer in the diary excerpt who hears the singing and uproar, receives
+    greetings, and complains to the governor about drunkenness.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Native inhabitants in the California pitahaya harvest descriptions
+  description: People described in quoted sources as taking part in pitahaya-month
+    feasting, dancing, entertainments, and abundant fruit eating.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Actors in the California pitahaya entertainments
+  description: Performers selected for talent of imitation and described as executing
+    their parts well.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: saguaro harvesters and food preparers
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Pimas gathering saguaro fruit, preserving fruit
+    and seeds, drying fruit, boiling syrup, grinding residue, and preparing seeds
+    as food.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: saguaro-season celebrants and drinkers
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage and diary excerpt associate the saguaro new-year season with
+    fermented fruit liquor, feasting, singing, shouting, and drunkenness.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: corn preparers
+  assigned_to:
+  - fig:2
+  basis: Women bring husked corn, after which it is roasted over brush, cut from the
+    cob, dried, and stored.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: sober caretakers during drinking episode
+  assigned_to:
+  - fig:2
+  basis: The diary excerpt says no woman became drunk and describes women leading
+    husbands' horses and collecting scattered clothes and beads.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: local authority and informant
+  assigned_to:
+  - fig:4
+  basis: The Pima governor explains to the diarist that the excesses happen only a
+    few times in the saguaro season and states their supposed health effect.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: visiting observer and complainant
+  assigned_to:
+  - fig:5
+  basis: The diarist reports the feast, songs, shouts, drunkenness, greetings, and
+    later complaint to the governor.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: pitahaya harvest celebrants
+  assigned_to:
+  - fig:6
+  basis: Quoted California descriptions depict native inhabitants feasting, dancing,
+    visiting neighboring rancherias, and eating pitahayas during the harvest period.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: comic or imitative performers
+  assigned_to:
+  - fig:7
+  basis: The quoted description says actors are selected for talent of imitation and
+    perform during pitahaya-month entertainments.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: saguaro or pitahaya fruit
+  literal_form: Fruit of the giant cactus, gathered in June and described in related
+    quoted material as pitahaya harvest fruit.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: sym:2
+  label: recovered saguaro seeds
+  literal_form: Seeds that have passed through the body, gathered from dried feces,
+    washed, and reused as food seeds.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fermented saguaro liquor
+  literal_form: Intoxicating liquor obtained from fresh saguaro fruit by boiling and
+    fermentation.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: roasting fire for corn
+  literal_form: Burning brush used to roast husked corn before it is cut, dried, and
+    stored.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: yucca fruit and stems
+  literal_form: Yucca fruit prepared as food or cathartic and stems reduced to pulp
+    for soap.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Saguaro harvest as new-year marker
+  summary: The Pima gather saguaro fruit in June; the harvest begins the new year
+    in the Pima calendar, and fruit and seeds are preserved for later use, including
+    seeds recovered after passing through the body.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Saguaro food and liquor preparation
+  summary: Ripe fruit is eaten fresh; fruit is also dried, boiled for syrup, fermented
+    into liquor, and processed into paste, meal, pinole, or bread.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Yucca and corn preparation
+  summary: Yucca fruit and stems are used for food, cathartic, and soap, while corn
+    brought by women is roasted over burning brush, cut from the cob, dried, and stored.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Saguaro-season drinking and social management
+  summary: A diary excerpt reports a Pima feast with singing, shouting, greetings,
+    and drunkenness; the governor links such events to the saguaro season, while women
+    are described as soberly managing horses and belongings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: California pitahaya-month celebrations
+  summary: Quoted descriptions of California pitahaya months present the harvest period
+    as a time of feasting, dancing, neighboring entertainments, comic performances,
+    abundant fruit eating, and temporary corpulence for some participants.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: New-year harvest marked by cactus fruit
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly states that the June saguaro harvest marks the beginning
+    of the Pima new year and describes preservation for use through the year.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic seasonal-calendar pattern rather than a myth narrative
+    in this passage.
+- id: motif:2
+  label: Seasonal harvest feast with intoxicating drink
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links fermented saguaro fruit liquor to the new-year season and
+    the diary excerpt describes saguaro-season feasting, singing, shouting, and drunkenness.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The ritual or religious meaning is not explained; the source frames it
+    as debauchery and reported behavior.
+- id: motif:3
+  label: Recovered seeds as a secondary harvest
+  taxonomy_refs: []
+  basis: Seeds that passed through the body are gathered from dried feces, washed,
+    and treated like other seeds, with the passage suggesting that special value may
+    be ascribed to them.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The statement is tentative in the source and the referenced 'second harvest'
+    is not explained within the passage.
+- id: motif:4
+  label: Gendered sobriety and caretaking during harvest intoxication
+  taxonomy_refs: []
+  basis: In the diary excerpt, women do not become drunk but lead husbands' horses
+    and gather scattered clothing and beads during the men's drinking episode.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a social pattern reported by one observer, not a mythic motif.
+- id: motif:5
+  label: Harvest abundance producing bodily change
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: A quoted description says some people become corpulent after eating pitahayas
+    freely for several weeks during the harvest period.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This appears as an observational note about diet and abundance; no symbolic
+    interpretation is stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously compares the special value of saguaro seeds recovered
+    after passing through the body to a 'second harvest' associated with the Sen.
+  claim_level: same_function
+  target: "'second harvest' of the Sen"
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The term 'Sen' and the 'second harvest' practice are not explained
+    in this passage, and the source itself phrases the comparison tentatively.
+- id: claim:2
+  claim: The passage's quoted California pitahaya descriptions support a cautious
+    same-function comparison with the Pima saguaro season as an annual cactus-fruit
+    harvest period associated with feasting and heightened social activity.
+  claim_level: same_function
+  target: California pitahaya-month harvest descriptions quoted in the passage
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not establish historical contact, common inheritance,
+    or identical ritual meaning; it only places similar harvest-season behaviors side
+    by side.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3144-3153
+  quote_or_summary: Saguaro fruit is gathered in June; the harvest begins the Pima
+    new year; seeds and dried fruit are preserved, including washed seeds recovered
+    from dried feces, with possible special value compared to a 'second harvest.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:2
+  type: summary
+  locator: 3158-3162
+  quote_or_summary: Ripe saguaro fruit is eaten fresh, is crimson with many black
+    seeds, and can be boiled and fermented into an intoxicating liquor associated
+    with new-year debauchery.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:3
+  type: summary
+  locator: 3163-3170
+  quote_or_summary: Saguaro fruit is dried in balls, boiled for syrup, ground as residue
+    into oily paste, and its seeds are eaten raw or ground into meal, pinole, or bread.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:4
+  type: summary
+  locator: 3171-3174
+  quote_or_summary: Yucca fruit is boiled, dried, ground, boiled with flour, or eaten
+    raw as a cathartic; yucca stems are pulped and used as soap.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:5
+  type: summary
+  locator: 3175-3181
+  quote_or_summary: Corn is less valuable to the Pimas than wheat in recent years;
+    women bring husked corn, which is roasted over burning brush, cut off the cob,
+    dried, and stored.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:6
+  type: summary
+  locator: 3182-3203
+  quote_or_summary: Garcés's diary excerpt describes a Pima feast with singing, shouting,
+    greetings, and drunkenness; the governor links such excess to the saguaro season
+    and says it promotes vomiting and health; women are described as not drunk and
+    as managing horses and belongings.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+- id: ev:7
+  type: summary
+  locator: 3204-3209
+  quote_or_summary: Quoted accounts of California pitahaya months describe a carnival-like
+    harvest period of feasting, dancing, visiting neighboring rancherias, comic performances
+    by imitators, free fruit eating, and some people becoming corpulent.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source metadata; quotation and summary permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal food-use and seasonal observations are direct. Motif candidates are
+    less certain because the passage is ethnographic and agricultural rather than
+    a myth narrative, and comparisons are brief or source-mediated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The line range includes main ethnographic prose and extended footnotes. No sacred narrative is present; extracted motifs are candidate seasonal, food-processing, and social-pattern motifs only.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l3144-l3209
+  passage_sha256=f812b5b54693dcdd7968bcf3b77565a4632e373b224ffb74df4c437afee181cb
+

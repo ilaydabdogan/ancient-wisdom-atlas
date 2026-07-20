@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l12836-l12862
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: MAOL A CHLIOBAIX. 265 / MAOL A CHLIOBAIN. 267 / MAOL A CHLIOBAIN. 269 / MAOL
+    A CHLIOBAIN. 271; lines 12836-12862
+  start: '12836'
+  end: '12862'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives two fox anecdotes: one explains how a fox removes fleas
+    by carrying wool into water until the fleas move into the wool and are washed
+    away; the other explains a saying in which a hungry fox eats a bagpipe bag and
+    calls it both meat and music when the drone sounds.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The fox is described as troubled by fleas.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fox finds a lock of wool and takes it to a river while holding it in his
+    mouth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The fox enters the water gradually, beginning with the end of his brush.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The fleas move away from the water and finally pass over the fox's nose into
+    the wool.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The fox dips his nose under water and lets the wool go downstream.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The account is presented by the collector as something told as a fact, with
+    a reported sighting place mentioned by an informant.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A hungry fox finds a bagpipe and eats the bag, which is described as made
+    of hide.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: When the fox bites the bag, remaining breath in it causes the drone to make
+    a groan.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The fox says, in translation, that there is meat and music present.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: fox removing fleas
+  description: A fox troubled by fleas who uses wool and water to get rid of them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: hungry fox with bagpipe
+  description: A hungry fox who finds a bagpipe, eats the bag, and comments on the
+    sound it makes.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: informant
+  description: An unnamed informant who mentioned the place where an old grey fellow
+    was reportedly seen performing the flea-removal feat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: resourceful animal
+  assigned_to:
+  - fig:1
+  basis: The fox deliberately uses wool, water, and the stream to remove fleas.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hungry animal
+  assigned_to:
+  - fig:2
+  basis: The fox is explicitly described as hungry before finding and eating the bagpipe
+    bag.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: speaker of proverb-like saying
+  assigned_to:
+  - fig:2
+  basis: The fox utters the saying translated as 'Here is meat and music.'
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: source witness or reporter
+  assigned_to:
+  - fig:3
+  basis: The passage says an informant mentioned the place where the feat was seen.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water used to displace fleas
+  literal_form: river water and stream; also a reported sea location
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: lock of wool
+  literal_form: a lock of wool held in the fox's mouth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bagpipe bag
+  literal_form: a bagpipe bag made of hide, still holding breath
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: music from eaten object
+  literal_form: the bagpipe drone groaning when the bag is bitten
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: fox removes fleas with wool and water
+  summary: A flea-ridden fox carries wool into water; the fleas retreat into the wool,
+    and the fox releases it into the stream.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: reported sighting of the fox feat
+  summary: The collector notes that the fox flea-removal episode is told as fact and
+    that an informant named a place where it was supposedly observed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: fox eats a bagpipe bag
+  summary: A hungry fox eats a hide bagpipe bag; the remaining breath makes the drone
+    groan, and the fox remarks that it has both food and music.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: clever animal removes parasites by transferring them to an object
+  taxonomy_refs: []
+  basis: The fox uses wool and immersion in water to cause fleas to move off his body
+    and then releases the wool into the stream.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents this as an anecdotal natural-history claim rather
+    than a full narrative episode.
+- id: motif:2
+  label: animal obtains food and unexpected music from the same object
+  taxonomy_refs: []
+  basis: The hungry fox eats the bagpipe bag and, when it sounds, declares it to be
+    both meat and music.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is attached to a saying and is very brief; no broader narrative context
+    is supplied.
+- id: motif:3
+  label: resourceful fox as trickster-like animal
+  taxonomy_refs:
+  - trickster_boundary
+  basis: 'The fox is represented as clever and adaptive in both anecdotes: one uses
+    water and wool to solve a problem, and the other turns an unexpected sound into
+    a witty saying.'
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: low
+  cautions: The passage does not show deception, boundary-crossing, or social trickery;
+    the taxonomy reference is only a loose fit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12838-12847
+  quote_or_summary: A flea-troubled fox finds a lock of wool, carries it to a river,
+    enters the water slowly, causes the fleas to move into the wool, then dips his
+    nose and lets the wool float away.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 12849-12852
+  quote_or_summary: The collector says the episode is told as fact, and that an informant
+    named a place where an 'old grey fellow' was seen doing this near the sea by the
+    Caithness hills.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized with brief phrase.
+- id: ev:3
+  type: summary
+  locator: 12854-12860
+  quote_or_summary: A saying is introduced, and the attached story says a hungry fox
+    found a bagpipe and began eating the hide bag.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 12860-12862
+  quote_or_summary: A remnant of breath in the bag causes the drone to groan when
+    the fox bites it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 12854-12862
+  quote_or_summary: '"Here is meat and music !"'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate-level because
+    the passage gives brief anecdotes and sayings rather than a full tale. No cross-tradition
+    comparison is made because the passage itself supplies no adequate comparative
+    target beyond noting multiple sources.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available terms and used cautiously.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l12836-l12862
+  passage_sha256=0ea32de412c6b3aebd6e9ccec143fd0c91ddcf5a06d0ea92503ce91fcb608cb6
+

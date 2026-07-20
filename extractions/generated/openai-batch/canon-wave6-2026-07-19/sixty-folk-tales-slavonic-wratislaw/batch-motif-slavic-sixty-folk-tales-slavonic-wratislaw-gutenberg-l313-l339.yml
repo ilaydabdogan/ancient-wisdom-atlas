@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l313-l339
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: LITTLE RUSSIAN STORIES FROM GALICIA                              142 / LITTLE
+    RUSSIAN STORIES FROM SOUTH RUSSIA                         156 / GREAT RUSSIAN
+    STORIES                                            164 / BULGARIAN STORIES                                                175;
+    lines 313-339
+  start: '313'
+  end: '339'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents passage lists two Great Russian story entries, introduces
+    a Southern Slavonian section, and then lists Bulgarian story entries XXXV-XXXIX
+    with titles, source attributions, and page numbers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as a table of contents with section headings, numbered
+    story entries, source attributions, and page numbers.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: obs:2
+  text: The Great Russian section includes an entry titled The Lime-Tree with the
+    transliterated title Lipa.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Great Russian section includes an entry titled Ilya of Murom and Nightingale
+    the Robber.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage introduces a Southern Slavonian division and a Bulgarian Stories
+    heading.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Bulgarian entries include The Lord God as an Old Man, Bulgarian Hospitality,
+    Cinderella, The Golden Apples and the Nine Peahens, and The Language of Animals.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: obs:6
+  text: One Bulgarian title names golden apples and nine peahens.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: One Bulgarian title names the language of animals.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ilya of Murom
+  description: Named figure in the title Ilya of Murom and Nightingale the Robber.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Nightingale the Robber
+  description: Named figure in the same title, described by the title as a robber.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The Lord God as an Old Man
+  description: Title figure in the Bulgarian entry The Lord God as an Old Man.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Cinderella
+  description: Named title figure in the entry Cinderella.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named in story title
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Each assigned figure is named in a listed story title.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: robber
+  assigned_to:
+  - fig:2
+  basis: The title names the figure as Nightingale the Robber.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine figure
+  assigned_to:
+  - fig:3
+  basis: The title names the figure as The Lord God.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: old-man form
+  assigned_to:
+  - fig:3
+  basis: The title specifies The Lord God as an Old Man.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: lime-tree
+  literal_form: lime-tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: old man form
+  literal_form: old man
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: golden apples
+  literal_form: golden apples
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: nine peahens
+  literal_form: nine peahens
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: animals
+  literal_form: animals
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Cinderella tale title
+  taxonomy_refs: []
+  basis: The table of contents lists a Bulgarian entry titled Cinderella.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only the title is present; no narrative actions or tale-type details are
+    given in this passage.
+- id: motif:2
+  label: divine figure in old-man guise
+  taxonomy_refs: []
+  basis: The Bulgarian entry is titled The Lord God as an Old Man.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only the title, so it does not show whether this is
+    disguise, transformation, visitation, or another narrative function.
+- id: motif:3
+  label: golden apples and nine peahens
+  taxonomy_refs: []
+  basis: The table of contents lists a Bulgarian entry titled The Golden Apples and
+    the Nine Peahens.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The title identifies objects and animals but gives no narrative role for
+    them.
+- id: motif:4
+  label: language of animals
+  taxonomy_refs: []
+  basis: The table of contents lists a Bulgarian entry titled The Language of Animals.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The title supports an animal-language motif candidate, but the passage
+    provides no plot details about acquisition, use, or consequences.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 315-316
+  quote_or_summary: XXXIII. The Lime-Tree (_Lipa_). J. A. Kuljakof, 'Great Russian
+    Stories,' i. 132
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 318-319
+  quote_or_summary: XXXIV. Ilya of Murom and Nightingale the Robber (_Ilya Muromets
+    i Solovei-razboinik_).
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 321-323
+  quote_or_summary: _C.--SOUTHERN SLAVONIANS._ / BULGARIAN STORIES
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 325-326
+  quote_or_summary: XXXV. The Lord God as an Old Man (_Dyedo-Gospod_). G. S. Rakovski,
+    the 'Pokazalets,' Odessa, 1859, i. 137
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 328-329
+  quote_or_summary: XXXVI. Bulgarian Hospitality (_Blugarsko Gostopriyemstvo_). Konstantin
+    Pavlof
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: line 331
+  quote_or_summary: XXXVII. Cinderella (_Pepelezhka_). Konstantin Pavlof
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 333-334
+  quote_or_summary: XXXVIII. The Golden Apples and the Nine Peahens (_Zlata yabluka
+    i devat paunky_). Konstantin Pavlof
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:8
+  type: quote
+  locator: lines 336-337
+  quote_or_summary: XXXIX. The Language of Animals (_Gadinski yazyk_). Konstantin
+    Pavlof
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction of titles and listed figures is straightforward, but motif
+    candidates are based only on table-of-contents titles, not on narrative passages.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes were extracted because the passage contains catalogue entries rather than story text.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l313-l339
+  passage_sha256=83daedd8cc30a5f3821b0c441609928d22dda32aaaafa1daafa0429f5ffd2666
+

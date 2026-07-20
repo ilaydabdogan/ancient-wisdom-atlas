@@ -1,0 +1,470 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol3-archive-l5624-l5697
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+passage_locator:
+  label: JAMBUKA-JATAKA. / BKAHACHATTA-JATAKA. / THUSA-JATAKA. / J.  III.  6; lines
+    5624-5697
+  start: '5624'
+  end: '5697'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. III
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“You thought, no one knows what I am about.”"
+  summary: A prince repeatedly attempts to kill his father the king, first with poison
+    and then with a sword. The king’s speeches cause the prince to fear that his plots
+    are known. After hiding beneath the king’s couch, the prince surrenders and is
+    imprisoned. After the king dies, the prince is released and enthroned. The Master
+    presents the episode as a lesson about justified suspicion and identifies the
+    far-famed teacher at Takkasila as himself in a former birth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The prince thinks he has been discovered and does not administer poison in
+    a bowl of rice.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prince and his attendants conceal themselves in the garden and discuss
+    killing the king with a sword at the great levee.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At the great levee, the armed prince looks for a chance to strike the king,
+    and the king recites a stanza saying that secret counsel and a whispered village
+    plot are known to him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prince interprets the king’s words as proof that his father knows he is
+    an enemy and runs away to tell his attendants.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After further urging by his attendants, the prince takes a sword and stands
+    at the top of the stairs in the royal closet; the king speaks a stanza about a
+    monkey harming its offspring, and the prince flees in fear.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The prince later enters the upper royal chamber and hides beneath the couch,
+    intending to slay the king when he comes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The king sends away his retinue, enters the royal chamber, stands at the threshold,
+    and recites a stanza saying he knows the hidden person below.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The prince comes out from beneath the couch, throws his sword at the king’s
+    feet, asks pardon, and lies grovelling before him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The king rebukes the prince and orders him to be bound in chains, placed in
+    the prison house, and guarded.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After the king’s death and funeral rites, the young prince is taken out of
+    prison and placed on the throne.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The Master says that kings of old suspected in cases where suspicion was justified
+    and identifies the far-famed teacher at Takkasila as himself.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the prince
+  description: The king’s son, who plots to kill his father, fears discovery, surrenders,
+    is imprisoned, and later becomes king.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the king / father
+  description: The prince’s father and intended victim; he speaks stanzas that expose
+    or allude to the prince’s plots, rebukes him, imprisons him, and later dies.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the attendants
+  description: The prince’s attendants, who receive his reports, hide with him, and
+    urge him to kill the king.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the Master
+  description: The narrator-teacher who ends the lesson and identifies the birth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: the far-famed teacher at Takkasila / the Bodhisatta
+  description: A figure whose virtues the king meditates on; the Master identifies
+    this teacher as himself in the former birth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: would-be royal assassin
+  assigned_to:
+  - fig:1
+  basis: The prince plans and attempts to kill the king with poison and with a sword.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: threatened king and father
+  assigned_to:
+  - fig:2
+  basis: The king is the father whom the prince repeatedly seeks to kill.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: accomplices and advisers
+  assigned_to:
+  - fig:3
+  basis: The attendants discuss plans with the prince and repeatedly tell him to put
+    the king to death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: teacher associated with moral instruction
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Master frames the episode as a lesson, and the far-famed teacher at Takkasila
+    is identified as the Master in the former birth.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: exposer of hidden plot
+  assigned_to:
+  - fig:2
+  basis: The king speaks stanzas that cause the prince to believe his concealed plots
+    and hiding place are known.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: imprisoned heir and later successor
+  assigned_to:
+  - fig:1
+  basis: The prince is bound and imprisoned, then released after the funeral rites
+    and set on the throne.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: poisoned rice bowl
+  literal_form: poison in the bowl of rice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sword
+  literal_form: sword carried by the prince and later thrown at the king’s feet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: garden hiding place
+  literal_form: garden where the prince and attendants lie concealed and consult in
+    whispers
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: couch hiding place
+  literal_form: the couch beneath which the prince lies hidden in the royal chamber
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: chains and prison house
+  literal_form: chains, prison house, and guard imposed on the prince
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: throne
+  literal_form: the throne on which the prince is set after the king’s funeral rites
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Abandoned poisoning attempt
+  summary: The prince believes he is discovered and refrains from giving the king
+    poison in a bowl of rice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Garden conspiracy and levee attempt
+  summary: The prince and attendants hide in the garden, plan a sword attack at the
+    great levee, and the king speaks as if secret counsel and whispered plots are
+    known.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Staircase attempt
+  summary: The prince waits with a sword at the top of the stairs in the royal closet,
+    but the king’s stanza causes him to flee.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hidden beneath the couch
+  summary: The prince hides beneath the couch in the upper royal chamber to kill the
+    king. The king’s words expose the hidden presence, and the prince surrenders.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Imprisonment and succession
+  summary: The king rebukes the prince and has him chained, imprisoned, and guarded.
+    After the king dies and funeral rites are held, the prince is released and enthroned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Lesson and birth identification
+  summary: The Master states the moral about justified suspicion by ancient kings
+    and identifies the far-famed teacher at Takkasila as himself in that birth.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Hidden plot exposed by knowing speech
+  taxonomy_refs:
+  - wisdom
+  basis: The king’s stanzas repeatedly cause the prince to conclude that his concealed
+    plots, hostile intent, or hiding place are known.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The excerpt does not fully explain how the king knows the plots; the motif
+    label describes the passage-level pattern only.
+- id: motif:2
+  label: Repeated failed attempt to kill the king-father
+  taxonomy_refs: []
+  basis: The prince first abandons a poisoning attempt, then attempts sword attacks
+    at the levee, stairs, and royal chamber.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a literal plot pattern in the excerpt, not assigned to a specific
+    supplied taxonomy family.
+- id: motif:3
+  label: Fearful self-exposure of a guilty plotter
+  taxonomy_refs: []
+  basis: The prince repeatedly interprets the king’s words as discovery; in the chamber
+    scene he emerges from hiding, throws down the sword, and begs pardon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The extraction does not infer psychological states beyond those directly
+    stated as fear, terror, and belief that he has been found out.
+- id: motif:4
+  label: Justified royal suspicion as wisdom lesson
+  taxonomy_refs:
+  - wisdom
+  basis: The Master explicitly concludes that kings of old suspected in cases where
+    suspicion was justified.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The moral lesson is stated in the frame, but the larger narrative context
+    before this excerpt may refine it.
+- id: motif:5
+  label: Imprisoned royal heir later enthroned
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The prince is imprisoned after his assassination attempt but is later released
+    and placed on the throne after the king’s death and funeral rites.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage reports succession but does not explicitly discuss legitimacy
+    beyond the act of enthronement.
+- id: motif:6
+  label: Former-birth identity revealed by teacher
+  taxonomy_refs:
+  - death_rebirth
+  basis: The Master identifies the far-famed teacher at Takkasila as himself in that
+    birth.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a birth identification but does not narrate the process
+    of death and rebirth in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5624-5629
+  quote_or_summary: The prince thinks, “I am discovered,” and does not administer
+    “the poison in the bowl of rice.”
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 5630-5645
+  quote_or_summary: The prince and attendants hide in the garden and plan a sword
+    attack at the great levee. At the levee the armed prince seeks an opportunity,
+    and the king recites a stanza saying that secret counsel in the wood and a whispered
+    village plot are understood and heard by him.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; neutral summary.
+- id: ev:3
+  type: summary
+  locator: 5646-5656
+  quote_or_summary: After the attendants again urge him to kill the king, the prince
+    takes a sword and stands at the top of the stairs in the royal closet. The king
+    speaks a stanza about a monkey harming its offspring, and the prince flees in
+    terror.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; neutral summary.
+- id: ev:4
+  type: quote
+  locator: 5657-5679
+  quote_or_summary: The prince hides beneath the couch to slay the king. The king’s
+    stanza says, “who thou art that lurkest here below, / This too I know.” The prince
+    then comes out, throws down his sword, and says, “Pardon me, my lord.”
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 5680-5688
+  quote_or_summary: The king rebukes the prince, orders him bound in chains and put
+    in the prison house under guard, meditates on the virtues of the Bodhisatta, later
+    dies, and after funeral rites the prince is released from prison and set on the
+    throne.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; neutral summary.
+- id: ev:6
+  type: quote
+  locator: 5689-5697
+  quote_or_summary: 'The Master says that kings of old suspected where suspicion was
+    justified and identifies the birth: “the far-famed teacher at Takkasila was I
+    myself.”'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range. Motif candidates are
+    strongest for the repeated exposure of hidden plots and the stated wisdom lesson;
+    taxonomy links for royal legitimacy and death/rebirth are cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself compare the episode to another text or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol3-archive__l5624-l5697
+  passage_sha256=33c5ae876ee50d6e6a20ae52c376e630ca998da252f04e1716c5c3cec235363d
+

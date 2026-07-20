@@ -1,0 +1,160 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l18154-l18176
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA V, HYMN 6. 379 / MANDALA V, HYMN 6. / ASH7JAKA III, ADHYAYA 8, VARGA
+    22-23. / NOTES.; lines 18154-18176
+  start: '18154'
+  end: '18176'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A notes passage for Mandala V, Hymn 6 gives metrical and cross-reference
+    information, then discusses Verse 3 as a philological problem. It mentions a conjectural
+    reading by Bohtlingk-Roth and Grassmann, rejects it in favor of the traditional
+    text, and argues that certain terms refer to a racer.
+  language: English with transliterated Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a notes section that identifies the metre as Pankti and lists
+    verse correspondences with abbreviated Vedic sources.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note attributes the conjectural reading “rayim” to Bohtlingk-Roth and
+    Grassmann.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The annotator states that closer examination supports the traditional text.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says that “Sa pritaz” refers to the racer, glossed as “vagin,” and
+    that “su-abhuvam” also refers to the racer.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that “rayé” is the correct reading in light of cited parallels.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Bohtlingk-Roth and Grassmann
+  description: Named scholars associated with the conjectural reading “rayim.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the racer (vagin)
+  description: The referent to which the note assigns “Sa pritaz” and “su-abhuvam.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: textual conjecturers
+  assigned_to:
+  - fig:1
+  basis: The note says the conjecture “rayim” is by Bohtlingk-Roth and Grassmann.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: referent of debated terms
+  assigned_to:
+  - fig:2
+  basis: The note says the racer is the referent of “Sa pritaz” and “su-abhuvam.”
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Philological note on Verse 3
+  summary: The annotator weighs a conjectural reading against the traditional text
+    and uses cited parallels to assign several terms to the racer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The notes report textual correspondences between verses of Mandala V, Hymn
+    6 and abbreviated Vedic sources such as SV, VS, and AV.
+  claim_level: linguistic_similarity
+  target: Verse correspondences to SV, VS, AV, and other abbreviated collections listed
+    in the notes
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The references are abbreviated and partly OCR-corrupted; this is a
+    textual-parallel claim, not a motif comparison.
+- id: claim:2
+  claim: The annotation supports its preferred reading by citing internal Vedic parallels
+    for the terms associated with the racer and with “rayé.”
+  claim_level: linguistic_similarity
+  target: Internal parallels cited as I, 66, 4=69, 5; X, 101, 7; I, 100, 16; III,
+    53, 16
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the annotator’s cited parallels are provided; the underlying Sanskrit
+    passages are not included in this line range.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18154-18164
+  quote_or_summary: The notes introduce the hymn with “The same Azshi,” identify the
+    metre as Pankti, and list verse correspondences with abbreviated sources including
+    SV, VS, and AV.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 18166-18171
+  quote_or_summary: "“At first sight the conjecture of Bohtlingk-Roth and Grassmann,
+    rayim, is very tempting … I believe, nevertheless, that on closer examination
+    the traditional text will prove correct.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 18171-18176
+  quote_or_summary: "“Sa pritaz evidently refers to the racer (vagin) … then it follows
+    that su-abhuvam also refers to the racer, and rayé … will be quite right.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is a philological notes section, not a narrative mythic passage.
+    OCR corruption and abbreviated references limit certainty. No candidate mythic
+    motif or available taxonomy symbol is directly supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No motif-family taxonomy reference was assigned because the passage provides textual notes and linguistic parallels rather than narrative mythic content.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l18154-l18176
+  passage_sha256=3177882819cc90db59398742d4d76bdaf126495655d6b1aec2cfda470b90f9a8
+

@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l8677-l8714
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: DIAGRAM OF TIME RECKONING. / CH. XXIV / MISCELLANEOUS NOTIONS / CHIDIMO;
+    lines 8677-8714
+  start: '8677'
+  end: '8714'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists named moons or time divisions associated with grass and
+    leaves, rain stages, women's weeding, men's hunting, food abundance, the lessening
+    of rain, the Pleiades, long grass, hartebeeste calving, warmth, wind, first veld
+    fires, the bimbe bird, and first leaves. It adds that several moons have more
+    than one name and that the names are not constant.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening entries name times of new grass and leaves, full grass and leaves,
+    and fully developed rains.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kukazhi is identified as the women's month, when women are busy weeding.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kuyoba is associated with continued rain, Kulumi with men's hunting, and Itaano
+    with an invitation to pass by and get food because there is plenty.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Chisangule and Chibuantimba are associated with the rains lessening and with
+    little rain, and Inkombolabulezhi is associated with the breaking of the Pleiades.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Later entries associate named times with the breaking of long grass, hartebeeste
+    calving, warming, much wind, first veld fires, the appearance of the bimbe bird,
+    and the shooting of first leaves.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that several moons have more than one name and that these
+    names are not constant, unlike fixed month names such as January and June.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: women
+  description: Women are named in the entry for Kukazhi, the women's month, when they
+    are busy weeding.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: men
+  description: Men are named in the entry for Kulumi, the men's month, when they hunt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: hartebeeste
+  description: Hartebeeste are named in the entry Kazhalakonze, when the hartebeeste
+    calves.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: bimbe bird
+  description: The bimbe bird is named in the entry Kasangabimbe, when the bird appears.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: weeding women
+  assigned_to:
+  - fig:1
+  basis: Kukazhi is glossed as the women's month, when women are busy weeding.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: hunting men
+  assigned_to:
+  - fig:2
+  basis: Kulumi is glossed as the men's month, when men hunt.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: calving animal seasonal marker
+  assigned_to:
+  - fig:3
+  basis: Kazhalakonze is glossed as the time when the hartebeeste calves.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: appearing bird seasonal marker
+  assigned_to:
+  - fig:4
+  basis: Kasangabimbe is glossed as the time when the bimbe bird appears.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: seasonal vegetation
+  literal_form: new grass and leaves; full grass and leaves; long grass; first leaves
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: rain stages
+  literal_form: fully developed rains; continued rain; lessening rain; little rain
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Pleiades
+  literal_form: the breaking of the Pleiades
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: food abundance
+  literal_form: 'come and get food: there is plenty'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: hartebeeste calving
+  literal_form: when the hartebeeste calves
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: wind
+  literal_form: the time of much wind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: first veld fires
+  literal_form: the time of the first veld fires
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: bimbe bird appearance
+  literal_form: when the bimbe bird appears
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Named moons keyed to seasonal signs
+  summary: The passage presents a sequence of named moons or time divisions keyed
+    to vegetation, rains, human labor, food abundance, celestial signs, animal behavior,
+    warming, wind, fires, and leafing, followed by a note that the moon names vary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal-cycle time reckoning
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: 'The named moons are organized around recurring seasonal phenomena: rains
+    and their decline, grass and leaves, weeding, hunting, food plenty, Pleiades,
+    animal and bird signs, wind, warmth, and first veld fires.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic calendrical list rather than a mythic narrative;
+    the motif identification is limited to seasonal-cycle patterning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8677-8683
+  quote_or_summary: Entries under CHIDIMO/MAINZA include times of new grass and leaves,
+    full grass and leaves, and fully developed rains.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; full text use allowed per metadata.
+- id: ev:2
+  type: summary
+  locator: lines 8684-8686
+  quote_or_summary: Kukazhi is glossed as the women's month, when they are busy weeding.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; full text use allowed per metadata.
+- id: ev:3
+  type: summary
+  locator: lines 8687-8692
+  quote_or_summary: Kuyoba is the time of continued rain; Kulumi is the men's month
+    when they hunt; Itaano means to pass by and get food because there is plenty.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; full text use allowed per metadata.
+- id: ev:4
+  type: summary
+  locator: lines 8693-8698
+  quote_or_summary: Chisangule marks a change as rains lessen; Chibuantimba marks
+    little rain; Inkombolabulezhi is glossed as the breaking of the Pleiades.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; full text use allowed per metadata.
+- id: ev:5
+  type: summary
+  locator: lines 8699-8708
+  quote_or_summary: Entries mention breaking long grass, hartebeeste calving, the
+    beginning of warmth, much wind, first veld fires, the appearance of the bimbe
+    bird, and first leaves.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; full text use allowed per metadata.
+- id: ev:6
+  type: summary
+  locator: lines 8709-8714
+  quote_or_summary: The passage says several moons have more than one name and that
+    the names are not constant, unlike fixed names such as January and June.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; full text use allowed per metadata.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based on an explicit ethnographic calendar list. No cross-tradition
+    comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage is primarily calendrical and ethnographic; symbolic entries are recorded as literal seasonal markers without added mythic interpretation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l8677-l8714
+  passage_sha256=2051a7662ee15f105e327dae4c3fb30769c5133431a2b74cff0f2072ff0c3605
+

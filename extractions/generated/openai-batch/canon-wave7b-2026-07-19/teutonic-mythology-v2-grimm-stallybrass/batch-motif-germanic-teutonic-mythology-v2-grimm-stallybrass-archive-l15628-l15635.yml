@@ -1,0 +1,199 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l15628-l15635
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: WINTER.  761 / HEEALDS    OF    SUMMEE.  763 / EXPULSION   OF   WINTEE.  765
+    / EXPULSION    OF   DEATH.  767; lines 15628-15635
+  start: '15628'
+  end: '15635'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage cites a line about carrying Krodo into the water, but notes
+    that Herri later admitted inserting the dubious name by conjecture. It then cites
+    a suspicious strophe about carrying an 'althor' or fool out behind an old shepherd's
+    house, winning summer, and Krodo's power being ended; the author comments that
+    the final line appears to be a recent invention.
+  language: English with quoted German
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cited line says, in German, that Krodo is carried into the water.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Herri later confessed that he inserted the dubious name into
+    the text by conjecture.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A cited strophe says that an 'althor' or fool is carried out behind the old
+    shepherd's house.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The same strophe says that summer has now been won.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The strophe includes a line glossed as Krodo's power being at an end.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author says the expressions in the last line seem like recent invention.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Krodo / K.
+  description: A named figure or power in the cited material; the passage explicitly
+    treats the name as dubious or suspicious.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: althor, the fool
+  description: The figure called 'althor (fool)' in the quoted strophe, carried out
+    behind the old shepherd's house.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: conjectural named figure
+  assigned_to:
+  - fig:1
+  basis: The passage says the name Krodo was inserted into the text on pure conjecture.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: carried-out fool
+  assigned_to:
+  - fig:2
+  basis: The strophe says the fool is carried out behind the old shepherd's house.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: power declared ended
+  assigned_to:
+  - fig:1
+  basis: The passage glosses the final line as Krodo's power being at an end, while
+    also warning that it appears recently invented.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: wasser / water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: summer won
+  literal_form: summer
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Carrying Krodo into water in a cited line
+  summary: A cited line presents Krodo as being carried into the water, but the passage
+    immediately notes that the name was conjecturally inserted.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Carrying out the fool and winning summer
+  summary: A quoted strophe describes carrying a fool out behind an old shepherd's
+    house, says summer has been won, and adds that Krodo's power is gone; the author
+    treats the last line as suspicious.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Seasonal victory after carrying out a figure
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The strophe links carrying out the fool with the statement that summer has
+    now been won.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The surrounding passage is source-critical and calls the strophe suspicious,
+    especially the final line about Krodo.
+- id: motif:2
+  label: Removal or immersion of a named figure in water
+  taxonomy_refs: []
+  basis: A cited line says that Krodo is carried into the water.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage states that the name Krodo was introduced by conjecture, so
+    the figure and wording are not secure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15628-15631
+  quote_or_summary: Herri has the line 'wir tragen den Krodo in's wasser,' but later
+    confesses that he put the dubious name into the text by pure conjecture.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 15631-15634
+  quote_or_summary: 'Hellbach''s strophe is cited: ''wir tragen den althor (fool)
+    hinaus, hinter''s alte hirtenhaus, wir haben nun den sommer gewonnn.'''
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 15634-15635
+  quote_or_summary: The passage glosses the final line as 'K.'s power is at an end'
+    and says its expressions 'smack of recent invention.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is brief, partly OCR-corrupted, and primarily evaluates the reliability
+    of cited German lines rather than narrating a secure ritual or myth. Motif candidates
+    are therefore cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were extracted because the passage does not itself support a specific cross-traditional comparison beyond the candidate seasonal-cycle pattern.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l15628-l15635
+  passage_sha256=f1760fa76cc53ad7fd40977b67f41e189f844ae08c739fda14ed9ab8676b0711
+

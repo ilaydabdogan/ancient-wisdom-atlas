@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l8963-l9088
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: BUREAU OF ETHNOLOGY / BUREAU OF ETHNOLOGY / ELEVENTH ANNUAL REPORT PL. KAKIX
+    / BIRCH-BARK CANOE, NENENOT, KOKSOAK RIVER PATTERN; lines 8963-9088
+  start: '8963'
+  end: '9088'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes practical travel technology: portaging and repairing
+    birch-bark canoes, the importance of canoes for livelihood, paddle forms, and
+    the use and construction of Nenenot/Indian toboggans for carrying loads over snow.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A canoe is carried overland by a porter using a forehead attachment and side
+    thongs that prevent it from slipping from the shoulders.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The portage route may be narrow, wooded, uneven, and rough; the porter may
+    make long detours while others in the party take a shorter route to where the
+    canoe will be put back into water.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Canoe-trip repair equipment includes pieces of bark, root threads, and gum
+    for damage from contact with stones or snags.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The birch-bark canoe is described as highly necessary for obtaining a living,
+    more necessary than the sled and nearly as useful as the snowshoe.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Canoe paddles are described by length, blade size, knobbed handle, and a special
+    flattened-spoon form used for applying gum and grease to canoe seams.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Heated gum or wax is poured along seams or used with a bark patch; a fire
+    may be made to heat the wax, and additional coating is applied after cooling.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Large sleds called ta-bas-kin, glossed as equivalent to the name toboggan,
+    are used for carrying loads over snow.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The sleds vary greatly in size according to their intended use.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Toboggan construction involves selecting a relatively knot-free tree, making
+    thin boards, shaving them with a crooked knife, heating the front end until flexible,
+    bending it upward, and fastening transverse bars with deerskin thongs and sinew.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: porter
+  description: The person who carries the canoe over the rough narrow pathway during
+    portage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: rest of the party
+  description: The people accompanying the porter who may take a shorter path to the
+    place where the canoe will be placed in water again.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Indians of this region
+  description: The collective group described as depending on birch-bark canoes and
+    using large sleds/toboggans for loads over snow.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: canoe portage carrier
+  assigned_to:
+  - fig:1
+  basis: The porter carries the canoe through rough and uneven wooded terrain.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: accompanying travelers
+  assigned_to:
+  - fig:2
+  basis: The rest of the party may travel by a shorter path while the porter detours
+    with the canoe.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: canoe-dependent subsistence users
+  assigned_to:
+  - fig:3
+  basis: The passage states that without the birch-bark canoe the Indian would have
+    difficulty obtaining a living.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: snow-load sled users
+  assigned_to:
+  - fig:3
+  basis: The passage states that all the Indians of this region use large sleds for
+    carrying loads over snow.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: birch-bark canoe
+  literal_form: Birch-bark canoe used for water travel, portage, and subsistence.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: canoe repair materials
+  literal_form: Pieces of bark, root threads, gum, wax, and bark patches used to repair
+    canoe damage.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: paddle and seam applicator
+  literal_form: Canoe paddles and a flattened-spoon-shaped paddle used to apply gum
+    and grease to seams.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fire for heating repair material
+  literal_form: A fire made to heat wax or gum during canoe repair.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: water as canoe medium
+  literal_form: Water into which the canoe is placed again after portage; hot water
+    also used to soften sled boards.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:6
+  label: toboggan / ta-bas-kin
+  literal_form: Large sled used to carry loads over snow.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: tree and wood boards
+  literal_form: A relatively knot-free tree selected and split or hewed into boards
+    for sled construction.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Canoe portage through rough wooded terrain
+  summary: A porter carries the canoe along a rough, uneven, wooded pathway while
+    the rest of the party may take a shorter route to the place where the canoe will
+    be returned to water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Canoe repair with heated gum and bark patches
+  summary: Canoe repair supplies are carried on trips; heated gum or wax is applied
+    to seams or patches, sometimes after making a fire to heat the material.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Paddles and seam-applying tool
+  summary: The passage describes ordinary canoe paddles and a special paddle shaped
+    like a flattened spoon for applying gum and grease to seams.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Toboggan use and construction
+  summary: Large sleds called ta-bas-kin are used to carry loads over snow, and their
+    construction from prepared bent wooden boards, bars, thongs, and sinew is described.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: portaged birch-bark canoe as essential travel and subsistence technology
+  taxonomy_refs: []
+  basis: The passage links overland canoe portage, return to water, and the canoe's
+    importance for obtaining a living.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a material-culture pattern, not a mythological motif, and no supplied
+    motif-family taxonomy is directly supported.
+- id: motif:2
+  label: field repair of bark canoe with heated gum and patching materials
+  taxonomy_refs: []
+  basis: The passage lists repair materials and describes applying hot gum or wax
+    and bark patches to seams and fractures.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a practical repair pattern rather than a symbolic or narrative
+    motif.
+- id: motif:3
+  label: bent-wood toboggan for snow transport
+  taxonomy_refs: []
+  basis: The passage describes sleds used to carry loads over snow and gives a construction
+    sequence involving heated and bent wood, bars, thongs, and sinew.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic technology pattern; no mythological taxonomy reference
+    is assigned.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that ta-bas-kin is a word equivalent to the well-known
+    name “toboggan.”
+  claim_level: linguistic_similarity
+  target: the name “toboggan”
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is only a lexical equivalence reported by the passage; it does
+    not establish a mythological comparison or historical-contact claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8963-8983
+  quote_or_summary: A porter carries the canoe by a forehead-and-thong arrangement
+    through a narrow rough pathway; the rest of the party may take a shorter path
+    to where the canoe is placed in water again.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 8984-8999
+  quote_or_summary: Canoe-trip equipment includes bark, root threads, and gum for
+    repairs; the birch-bark canoe is described as necessary for obtaining a living,
+    more necessary than the sled and nearly as useful as the snowshoe.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 9000-9014
+  quote_or_summary: The passage describes canoe paddle dimensions and a special flattened-spoon-shaped
+    paddle for applying gum and grease to seams.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 9015-9043
+  quote_or_summary: Hot gum is poured along seams and pressed into stitches; bark
+    patches may be attached with gum, a fire heats the wax, and a second coat is added
+    after cooling.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 9044-9054
+  quote_or_summary: For carrying loads over snow, all the Indians of the region use
+    large sleds called ta-bas-kin, described as equivalent to the well-known name
+    “toboggan,” and their sizes vary by use.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 9055-9088
+  quote_or_summary: Toboggan construction uses thin boards from a knot-free tree,
+    a crooked knife, heating or steaming in hot water to bend the front, transverse
+    bars, deerskin thongs, and sinew to hold the curve.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal material-culture extraction is well supported by the passage. Motif
+    candidates are framed as practical ethnographic patterns, not mythological motif-family
+    assignments. One comparison claim is included only for the passage's explicit
+    lexical equivalence between ta-bas-kin and toboggan.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied mythological motif-family taxonomy was assigned. The passage appears to contain OCR/layout artifacts, so observations rely on the recoverable wording of the supplied line range.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l8963-l9088
+  passage_sha256=c424114310e89d0e1829960b7919e31e8d45996181f923ee35b9b806074e7351
+

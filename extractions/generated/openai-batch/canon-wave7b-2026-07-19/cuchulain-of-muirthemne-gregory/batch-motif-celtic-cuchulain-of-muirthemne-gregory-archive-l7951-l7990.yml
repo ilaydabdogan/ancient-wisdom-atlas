@@ -1,0 +1,469 @@
+---
+record_id: batch.motif.celtic-cuchulain-of-muirthemne-gregory-archive-l7951-l7990
+source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+passage_locator:
+  label: FEDELM'S    FORETELLING         183 / CRUNDEN'S    WIFE  185 / THE    GAILIANA  187
+    / SUALTIM    AND   CUCHULAIN       189; lines 7951-7990
+  start: '7951'
+  end: '7990'
+  translation: Cuchulain of Muirthemne
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Fergus, made leader of the army, delays its northward movement and sends
+    messengers to warn Ulster. Maeve notices and challenges him. Near the Ulster border,
+    Fergus warns the army to beware Cuchulain. The Connaught host travels east and
+    kills a large herd of deer, with the Gailiana killing almost all of them. Cuchulain
+    and his father Sualtim, having received Fergus's warning, stop at the pillar-stone
+    of Ardcullin; their horses graze on opposite sides, and Cuchulain says the Connaught
+    army is near and orders Sualtim to carry a warning, though the passage ends mid-command.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fergus is made leader of the whole army.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fergus turns the army southward instead of continuing northward and sends
+    messengers into Ulster with warning and news of the army's coming.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Maeve watches Fergus, questions why the army has turned south, and the army
+    turns back only as far as Cuilsilinne.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Fergus remembers that the army is near the borders of Ulster and warns the
+    army to guard itself against Cuchulain, called the Hound of Muirthemne.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The men of Connaught set out eastward and reach Monecolthan.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The army sees eight-score deer in one herd, surrounds them, and all the deer
+    are killed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Gailiana kill all but five of the deer; the rest of the men of Ireland
+    kill only those five.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Cuchulain and his father Sualtim come to the pillar-stone at Ardcullin after
+    receiving Fergus's warning.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Sualtim's horses graze north of the pillar-stone and crop the grass to the
+    earth, while Cuchulain's horses graze south of it and crop the grass to the bare
+    flags.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Cuchulain says that the Connaught army is likely near and tells Sualtim to
+    bring a warning; the supplied passage ends before the destination is given.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Fergus
+  description: Leader of the army who turns it southward, sends messengers to Ulster,
+    and later warns the host about Cuchulain.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Maeve
+  description: A watchful figure who notices Fergus's change of direction and questions
+    him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Army / men of Connaught
+  description: The army led by Fergus; it moves through the places named and participates
+    in the deer hunt.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Messengers sent into Ulster
+  description: Messengers sent by Fergus to carry warning and news of the army's coming.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Cuchulain / Hound of Muirthemne
+  description: A warrior feared by the army; he is later at the pillar-stone with
+    Sualtim and says the Connaught army is near.
+  role_refs:
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: The Gailiana
+  description: A subgroup among the men of Ireland who kill nearly all the deer in
+    the herd.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Deer herd
+  description: Eight-score deer in one herd, surrounded and killed by the army.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Sualtim
+  description: Cuchulain's father, present with him at the pillar-stone at Ardcullin
+    and addressed by him.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: Sualtim's horses
+  description: Horses that graze north of the pillar-stone and crop the grass to the
+    earth.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Cuchulain's horses
+  description: Horses that graze south of the pillar-stone and crop the grass to the
+    bare flags.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: army leader
+  assigned_to:
+  - fig:1
+  basis: The passage states that Fergus was made leader of the whole army.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: warning sender or carrier
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Fergus sends messengers into Ulster to give warning and news of the army's
+    coming.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: watcher and questioner
+  assigned_to:
+  - fig:2
+  basis: Maeve keeps watch on Fergus and asks why the army has turned south.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: protective delayer
+  assigned_to:
+  - fig:1
+  basis: Fergus's love for his province and home leads him to delay the army and send
+    warning.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: marching host
+  assigned_to:
+  - fig:3
+  basis: The army moves south, turns again, sets out eastward, and surrounds the deer.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: feared border opponent
+  assigned_to:
+  - fig:5
+  basis: Fergus warns the army near Ulster that Cuchulain may fall on them and destroy
+    them.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: exceptional hunters
+  assigned_to:
+  - fig:6
+  basis: The Gailiana kill all but five of the eight-score deer.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: warner giving command
+  assigned_to:
+  - fig:5
+  basis: Cuchulain says the Connaught army is near and tells Sualtim to bring a warning.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: father and warning-bearer addressed
+  assigned_to:
+  - fig:8
+  basis: Sualtim is identified as Cuchulain's father and is told by Cuchulain to bring
+    a warning.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: pillar-stone at Ardcullin
+  literal_form: Pillar-stone where Cuchulain and Sualtim stop and let their horses
+    graze.
+  associated_figures:
+  - fig:5
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: eight-score deer herd
+  literal_form: A single herd of eight-score deer seen at Monecolthan, surrounded,
+    and killed.
+  associated_figures:
+  - fig:3
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: north and south grazing sides
+  literal_form: Sualtim's horses graze north of the pillar-stone; Cuchulain's horses
+    graze south of it, with different degrees of cropping.
+  associated_figures:
+  - fig:5
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Hound of Muirthemne epithet
+  literal_form: Cuchulain is called the Hound of Muirthemne in Fergus's warning.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fergus delays the army and warns Ulster
+  summary: After being made leader, Fergus turns the army southward out of love for
+    his province and home and sends messengers to Ulster with warning and news.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Maeve detects the delay
+  summary: Maeve watches Fergus, questions the army's southward turn, and the army
+    turns again only to its earlier stopping-place, Cuilsilinne.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fergus warns the host about Cuchulain
+  summary: Near the borders of Ulster, Fergus tells the army to be careful in case
+    the Hound of Muirthemne attacks and destroys them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The deer hunt at Monecolthan
+  summary: The men of Connaught encounter a herd of eight-score deer and kill them
+    all, with the Gailiana killing all but five.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Cuchulain and Sualtim at Ardcullin
+  summary: Cuchulain and Sualtim stop at the pillar-stone at Ardcullin after receiving
+    Fergus's warning; their horses graze on opposite sides, and Cuchulain tells Sualtim
+    the Connaught army is near and to bring a warning.
+  figure_refs:
+  - fig:5
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: covert warning sent to a threatened homeland
+  taxonomy_refs: []
+  basis: Fergus delays the army's movement and sends messengers into Ulster with warning
+    and news of the army's coming.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Descriptive motif only; no specific supplied taxonomy family directly
+    matches it.
+- id: motif:2
+  label: watchful ruler detects strategic delay
+  taxonomy_refs: []
+  basis: Maeve is keeping watch on Fergus and challenges the army's unexplained southward
+    turn.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives the action but does not state Maeve's status in this
+    excerpt beyond her named presence and surveillance.
+- id: motif:3
+  label: hero feared as destroyer at the border
+  taxonomy_refs:
+  - culture_hero
+  basis: As the army nears Ulster, Fergus warns that Cuchulain, the Hound of Muirthemne,
+    may fall on them and destroy them.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link to culture_hero is broad; the passage supports a feared
+    heroic defender but does not elaborate a full culture-hero pattern.
+- id: motif:4
+  label: exceptional warrior band outperforms the host in the hunt
+  taxonomy_refs: []
+  basis: The Gailiana kill all but five of the eight-score deer, while all the rest
+    of the men of Ireland kill only five.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents the feat literally; it does not explain whether the
+    hunt has ritual or symbolic meaning.
+- id: motif:5
+  label: boundary marker with differentiated horse-grazing
+  taxonomy_refs: []
+  basis: Cuchulain and Sualtim stop at the pillar-stone at Ardcullin, and their horses
+    crop the grass differently on the north and south sides.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage records the contrast but does not explain its significance.
+- id: motif:6
+  label: second warning relay from the hero's side
+  taxonomy_refs: []
+  basis: Cuchulain says the Connaught army is near and orders Sualtim to bring a warning,
+    though the destination is cut off in the supplied passage.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The command is incomplete because the supplied passage ends mid-sentence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7951-7959
+  quote_or_summary: Fergus is made leader, turns south out of love for his province
+    and home, and sends messengers into Ulster to give warning and news of the army's
+    coming.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 7959-7966
+  quote_or_summary: Maeve watches Fergus, asks why the army has turned south, and
+    the army turns again only to Cuilsilinne, the place left that morning.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 7967-7974
+  quote_or_summary: Fergus warns the army to mind themselves, "lest the Hound of Muirthemne
+    should fall on them and destroy them."
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; short quotation from public domain passage.
+- id: ev:4
+  type: summary
+  locator: 7975-7983
+  quote_or_summary: At Monecolthan the men of Connaught see eight-score deer in one
+    herd; the army surrounds and kills them, with the Gailiana killing all but five.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 7984-7989
+  quote_or_summary: Cuchulain and his father Sualtim, having received Fergus's warning,
+    come to the pillar-stone at Ardcullin; Sualtim's horses graze to the north and
+    Cuchulain's to the south, cropping the grass differently.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: 7989-7990
+  quote_or_summary: Cuchulain says, "the army of Connaught is not far away from us
+    now," and tells Sualtim to bring a warning; the excerpt ends mid-command.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; short quotation from public domain passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied excerpt. Motif labels are mostly
+    descriptive; the passage does not support broader comparison claims, so none are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage ends mid-sentence after Cuchulain orders Sualtim to bring a warning; no destination for that warning is inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-cuchulain-of-muirthemne-gregory-archive__l7951-l7990
+  passage_sha256=5cb0bae3e698bedf7ba14c0081e8d7c58e2b2be788675d99d1dce2a0612e0477
+

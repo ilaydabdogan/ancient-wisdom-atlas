@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.polynesian-samoa-hundred-years-ago-turner-gutenberg-l1896-l1907
+source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+passage_locator:
+  label: CHAPTER III. / A FUTURE STATE--RELIGION, ETC. / CHAPTER IV. / GODS SUPERIOR--WAR
+    AND GENERAL VILLAGE GODS.; lines 1896-1907
+  start: '1896'
+  end: '1907'
+  translation: Samoa, A Hundred Years Ago And Long Before
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Vave preventing other gods from raising a precipice
+    between a village and the ocean, after which the gods form a high iron-bound shore
+    in another district. It then describes Vave elsewhere as a household god incarnate
+    in an eel, whose presence or absence among family property after prayer during
+    illness indicates death or recovery.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A number of gods came to raise a rocky precipice between the village and the
+    ocean.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vave opposed the gods and drove them for miles along the coast into another
+    district.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the other district, the gods made the beach into a great high iron-bound
+    shore said to remain to the present day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In another place, Vave was named as a household god and was incarnate in the
+    eel.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When a family member was sick, Vave was prayed to in the evening, and the
+    next morning a search was made among mats and other property.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Finding an eel among the property was a sign of death; not finding one was
+    a sign of recovery.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Vave
+  description: A god whose power is shown by driving away other gods; elsewhere named
+    as a household god incarnate in the eel.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: number of gods
+  description: Gods who came to raise a rocky precipice between the village and the
+    ocean and later made a high iron-bound shore in another district.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: family with a sick member
+  description: A household or family group that prays to Vave when one member is sick
+    and searches among mats and property the next morning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: opponent of precipice-raising gods
+  assigned_to:
+  - fig:1
+  basis: Vave was immediately up in arms against the gods and drove them off along
+    the coast.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: precipice-raising gods
+  assigned_to:
+  - fig:2
+  basis: The gods came to raise a rocky precipice between the village and the ocean.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: household god incarnate in an eel
+  assigned_to:
+  - fig:1
+  basis: The passage states that in another place Vave was the name of a household
+    god and was incarnate in the eel.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: petitioners and searchers during illness
+  assigned_to:
+  - fig:3
+  basis: When someone in the family was sick, Vave was prayed to and a morning search
+    was made among mats and other property.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: rocky precipice and high iron-bound shore
+  literal_form: rocky precipice; great high iron-bound shore
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ocean and coast
+  literal_form: ocean; coast; beach
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: eel as incarnation and omen
+  literal_form: eel found or not found among mats and property
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: mats and other property as search place
+  literal_form: bundles of mats and other property
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Vave prevents a precipice near the village
+  summary: Other gods attempt to raise a rocky precipice between a village and the
+    ocean. Vave drives them away along the coast, and they form a high iron-bound
+    shore in another district.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sickness prayer and eel omen
+  summary: In another place, Vave is a household god incarnate in the eel. During
+    illness, the family prays to Vave in the evening and searches property in the
+    morning; the presence or absence of an eel indicates death or recovery.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Deity prevents an unwanted landscape formation
+  taxonomy_refs: []
+  basis: Vave drives away gods who are attempting to raise a precipice between the
+    village and the ocean, causing the landscape formation to occur elsewhere.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is brief and does not explain Vave's motive beyond opposition
+    to the other gods.
+- id: motif:2
+  label: Household god embodied as an animal
+  taxonomy_refs: []
+  basis: Vave is described as a household god incarnate in the eel.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states incarnation in the eel but does not narrate a transformation
+    event.
+- id: motif:3
+  label: Animal omen of death or recovery after prayer
+  taxonomy_refs: []
+  basis: After prayer to Vave during illness, the discovery of an eel among property
+    signifies death, while not finding one signifies recovery.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The omen is described specifically for this household-god context and
+    should not be generalized without further evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1896-1901
+  quote_or_summary: Vave's power is shown when other gods come to raise a rocky precipice
+    between the village and the ocean; Vave drives them off along the coast, and they
+    make a high iron-bound shore in another district.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:2
+  type: quote
+  locator: lines 1903-1904
+  quote_or_summary: "“Vave was the name of a household god, and incarnate in the eel.”"
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 1904-1907
+  quote_or_summary: When someone in the family was sick, Vave was prayed to in the
+    evening; next morning the family searched among mats and other property, with
+    an eel found indicating death and no eel indicating recovery.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain; source metadata permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    descriptive and not tied to external taxonomy except the literal water symbol
+    for ocean/coast. No comparison claims were added because the passage itself does
+    not support comparative linkage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:polynesian-samoa-hundred-years-ago-turner-gutenberg__l1896-l1907
+  passage_sha256=ff73a6afc42e0f69e569107bc6b4b92dfe70c7662c6157789c5cfcc269264dea
+

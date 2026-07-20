@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l48886-l48939
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXXXIX / SECTION CCXL / SECTION CCXLI / SECTION CCXLII; lines 48886-48939
+  start: '48886'
+  end: '48939'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The four modes of life constitute a ladder or flight of steps. That flight
+    is attached to Brahma.
+  summary: Vyasa teaches that the four modes of life, if properly observed, lead to
+    a high end and to understanding Brahma. He describes the student life of the Brahmacharin
+    under a preceptor, including service, restraint, study, reverence, completion
+    of duties, payment of the final fee, and transition into domestic life with spouses
+    and the domestic fire.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Vyasa is the named speaker of the instruction.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The passage lists four modes of life: Brahmacharin, domesticity, forest recluse,
+    and religious mendicancy.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Vyasa says observers of the duties of their respective modes of life reach
+    the same high end.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Vyasa says one person, free from desire and aversion, may practice all four
+    modes of life one after another and thereby be fitted to understand Brahma.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The four modes of life are described as a ladder or flight of steps attached
+    to Brahma, and ascending it leads to the region of Brahma.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Brahmacharin is instructed to live with the preceptor or the preceptor's
+    son, sleep after the preceptor, rise before him, and perform duties of a disciple
+    and menial servant.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The disciple studies at the preceptor's feet, behaves simply, avoids evil
+    speech, takes lessons when invited, and maintains purity and sense-restraint.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The disciple is instructed not to eat, drink, sit, or sleep before the preceptor
+    has done so.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The disciple touches the preceptor's feet with upturned palms and asks to
+    be taught and commanded.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: After completing the student period, vows, fasts, and final fee, the disciple
+    takes leave, returns home, obtains spouses, establishes the domestic fire, and
+    becomes a householder.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vyasa
+  description: Named speaker who gives the instruction on the four modes of life and
+    the duties of the Brahmacharin.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Brahmacharin / disciple
+  description: A religious student who lives under a preceptor, serves, studies, observes
+    vows and fasts, gives the final fee, and later enters domestic life.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Preceptor
+  description: Teacher in whose household the Brahmacharin lives and studies, and
+    whose commands and precedence the disciple observes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: instructing speaker
+  assigned_to:
+  - fig:1
+  basis: The passage opens with Vyasa speaking and giving prescriptive instruction.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: religious student under discipline
+  assigned_to:
+  - fig:2
+  basis: The Brahmacharin lives with the preceptor, serves, studies, observes restraint,
+    vows, and fasts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: preceptor and teacher
+  assigned_to:
+  - fig:3
+  basis: The preceptor houses the disciple, teaches him, receives his service, and
+    issues commands.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: entrant into householder life
+  assigned_to:
+  - fig:2
+  basis: After the student period and final fee, the disciple returns home, takes
+    spouses, establishes the domestic fire, and becomes a householder.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: ladder or flight of steps
+  literal_form: The four modes of life as a ladder or flight of steps attached to
+    Brahma.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - ascent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: domestic fire
+  literal_form: The domestic fire established when entering householder life.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: touching the preceptor's feet
+  literal_form: The disciple gently touches the preceptor's feet with upturned palms.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Instruction on the four modes as a path to Brahma
+  summary: Vyasa states that the four life-modes, whether followed by different persons
+    or successively by one person, lead to a high end and are imaged as a ladder attached
+    to Brahma.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Brahmacharin's service and study under the preceptor
+  summary: The student lives in the preceptor's household, performs service, studies
+    at the preceptor's feet, observes precedence rules, and asks to be taught and
+    commanded.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Transition from student life to domesticity
+  summary: After completing study, vows, fasts, and the final fee, the disciple leaves
+    the preceptor, returns home, obtains spouses, establishes the domestic fire, and
+    becomes a householder.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ascent through ordered life-stages
+  taxonomy_refs:
+  - ascent
+  basis: The passage explicitly describes the four modes of life as a ladder or flight
+    of steps attached to Brahma, ascended to reach Brahma's region.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The ascent is a didactic metaphor for disciplined religious life, not
+    a narrated physical ascent.
+- id: motif:2
+  label: discipleship through service and restraint
+  taxonomy_refs:
+  - initiation
+  - wisdom
+  basis: The Brahmacharin gains instruction through residence with the preceptor,
+    service, study, restraint, vows, and completion of duties before moving to the
+    next life-stage.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage gives normative instruction rather than a dramatic initiation
+    episode.
+- id: motif:3
+  label: householder transition marked by fire
+  taxonomy_refs: []
+  basis: The disciple's movement into domestic life includes taking spouses and establishing
+    the domestic fire.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage mentions the domestic fire briefly and does not elaborate
+    a fire ritual.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 48886-48894
+  quote_or_summary: Vyasa says that the Brahmacharin, householder, forest recluse,
+    and religious mendicant all reach the same high end by observing their duties,
+    and that one person practicing all four modes may understand Brahma.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 48894-48898
+  quote_or_summary: '"The four modes of life constitute a ladder or flight of steps.
+    That flight is attached to Brahma. By ascending that flight one succeeds in reaching
+    the region of Brahma."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 48898-48908
+  quote_or_summary: The Brahmacharin should live with the preceptor or preceptor's
+    son, sleep and rise according to the preceptor's schedule, perform the acts of
+    disciple and servant, and stand humbly near the preceptor.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 48908-48924
+  quote_or_summary: The disciple studies at the preceptor's feet, observes simplicity
+    and restraint, avoids eating, drinking, sitting, or sleeping before the preceptor,
+    touches the preceptor's feet, and asks to be taught and commanded.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 48924-48933
+  quote_or_summary: The disciple offers himself to the preceptor, completes the preceptor's
+    tasks, observes the rules for Brahmacharins, remains near the preceptor, and then
+    passes into the other modes of life.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 48934-48939
+  quote_or_summary: After a fourth part of life in Vedic study, vows, and fasts, and
+    after giving the final fee, the disciple takes leave, returns home, obtains spouses,
+    establishes the domestic fire, and becomes a householder.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is explicit and didactic.
+    Motif labels are cautious because the passage presents rules and metaphors rather
+    than narrative mythic episodes. No comparison claims were generated because the
+    passage itself does not compare this material to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l48886-l48939
+  passage_sha256=04292e17436a32b5f27b61445311f899ca9679e2edfb736b5d227e6bb8045975
+

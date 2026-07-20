@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l100101-l100166
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 5. / ADHYAYA 7, / ARANYAKA III / ADHYAYA 1.; lines 100101-100166
+  start: '100101'
+  end: '100166'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The central passage describes every man as egg-like, with two halves corresponding
+    to earth and heaven. Ether lies between the halves as it lies between earth and
+    heaven, and breath fixed in this inner ether is compared with air fixed in the
+    outer ether. Much of the surrounding text is philological and editorial commentary.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Every man is described as egg-like.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The egg-like man is said to have two halves.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The two halves are linked with earth and heaven.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ether is located between the halves, with an explicit comparison to ether
+    between earth and heaven.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Breath is fixed in the inner ether, as air is fixed in the outer ether.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: every man
+  description: A generic human figure described as egg-like and divided into two halves.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: egg-like subject of cosmological comparison
+  assigned_to:
+  - fig:1
+  basis: The figure is described as egg-like, and its halves and inner ether are compared
+    with earth, heaven, and cosmic ether.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: egg-like form
+  literal_form: egg-like shape of every man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: two halves
+  literal_form: two halves of the egg-like man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: earth
+  literal_form: earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: heaven
+  literal_form: heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: ether between halves
+  literal_form: ether between the two halves
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: breath
+  literal_form: breath fixed in the inner ether
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: air
+  literal_form: air in the outer ether
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Egg-like man mapped to earth, heaven, ether, and breath
+  summary: A generic man is presented as egg-like, divided into two halves corresponding
+    to earth and heaven. Ether is placed between those halves, and breath within that
+    ether is compared to air in the wider ether.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: egg-like human form mapped to cosmos
+  taxonomy_refs:
+  - cosmic_egg
+  basis: The passage describes every man as egg-like and divides that form into two
+    halves associated with earth and heaven.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not narrate a creation from a cosmic egg; it uses an
+    egg-like human form as an analogy.
+- id: motif:2
+  label: earth-heaven paired halves
+  taxonomy_refs:
+  - duality
+  basis: The passage states that there are two halves and links them with earth and
+    heaven, with ether between them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The duality is structural rather than explicitly conflictual or moral.
+- id: motif:3
+  label: human-cosmos correspondence through breath and air
+  taxonomy_refs: []
+  basis: The breath in the inner ether of the human figure is compared with air in
+    the outer ether between earth and heaven.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this correspondence pattern.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage can be cautiously compared to a cosmic-egg motif family at the
+    level of image: an egg-like form has two halves correlated with earth and heaven.'
+  claim_level: visual_similarity
+  target: cosmic_egg motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage concerns every man as egg-like and does not state that
+    the world is born from an egg.
+- id: claim:2
+  claim: The breath-air analogy supports comparison to a human-cosmos correspondence
+    pattern within the passage.
+  claim_level: same_function
+  target: human-cosmos correspondence pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a structural comparison drawn only from the supplied passage,
+    not a claim of historical contact or shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 100101-100166; central excerpt
+  quote_or_summary: The passage states that every man is egg-like and that there are
+    two halves.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 100101-100166; central excerpt
+  quote_or_summary: The two halves are identified in the passage with earth and heaven.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 100101-100166; central excerpt
+  quote_or_summary: The passage places ether between the halves and compares this
+    with the ether between earth and heaven.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 100101-100166; central excerpt
+  quote_or_summary: The passage says that breath is fixed in this inner ether, as
+    air is fixed in the other ether.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 100101-100166; surrounding notes
+  quote_or_summary: The surrounding prose consists largely of philological notes and
+    discussion of textual witnesses, grammar, and dating.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The central extract is short and clear, but the passage is embedded in editorial
+    and philological material, and the cosmic-egg classification is only analogical
+    rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or common-inheritance claims are made.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l100101-l100166
+  passage_sha256=09b43285bc6b3d0b7448491fdc8b858010be957d4e6dc52dd763899cd437a4aa
+

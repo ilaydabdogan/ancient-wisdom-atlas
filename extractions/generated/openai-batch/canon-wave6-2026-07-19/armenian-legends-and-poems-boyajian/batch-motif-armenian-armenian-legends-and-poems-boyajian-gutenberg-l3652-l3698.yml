@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l3652-l3698
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: BALLAD / THE NIGHTINGALE OF AVARAIR / THOU ART SO SWEET / THE WANDERING ARMENIAN
+    TO THE SWALLOW; lines 3652-3698
+  start: '3652'
+  end: '3698'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A first-person wandering Armenian addresses a swallow and asks it to fly
+    to his birthplace, Ashdarag, and to his father’s house. He describes his father
+    waiting vainly for his only son, asks the bird to convey greetings and news of
+    his suffering, and portrays himself as impoverished, sleepless, tearful, and like
+    a flower uprooted from native soil.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The title frames the poem as an address by a wandering Armenian to a swallow.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker addresses the swallow as a gentle, lovely bird of spring and asks
+    where it is flying.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker asks the swallow to fly to Ashdarag, identified as his birthplace
+    and beloved place.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker asks the swallow to build a nest beneath his father’s roof-tree.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker says his father lives far away, is mournful and grey, and waits
+    vainly for his only son’s return.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker asks the swallow, if it sees the father, to greet him and tell
+    him to mourn his son’s sad destiny.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The speaker says his days pass in poverty and loneliness, that his life is
+    only half a life, and that his tears fall.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The speaker says the sun is dark at noon for him and that sleep does not come
+    to his wet eyes at midnight.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The speaker compares himself to a beautiful flower struck by cruel doom, uprooted
+    from native soil, and withering before bloom.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The speaker again urges the swallow to fly swiftly across the earth and seek
+    the village of his birth in Armenia.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: wandering Armenian / first-person son
+  description: The first-person speaker, titled as a wandering Armenian, speaks of
+    his father and identifies himself as the absent only son whose return is awaited.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: swallow
+  description: A gentle swallow and lovely bird of spring addressed by the speaker
+    and asked to fly to Armenia, nest at the father’s house, and convey greetings
+    and news.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:9
+- id: fig:3
+  name_or_label: father
+  description: The speaker’s father, described as far away, mournful, grey, and waiting
+    vainly for his only son’s return.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: first-person speaker
+  assigned_to:
+  - fig:1
+  basis: The poem is presented as an address, and the voice speaks in the first person
+    to the swallow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: absent only son
+  assigned_to:
+  - fig:1
+  basis: The father is said to wait for his only son’s return, and the speaker calls
+    him his father.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: avian messenger
+  assigned_to:
+  - fig:2
+  basis: The swallow is instructed to fly to the birthplace, greet the father, and
+    report the speaker’s condition.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+- id: role:4
+  label: waiting father
+  assigned_to:
+  - fig:3
+  basis: The father is described as waiting vainly for the return of his only son.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: mourner
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The speaker describes his own tears, and the father is mournful and instructed
+    to mourn with tears.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: swallow
+  literal_form: gentle swallow, lovely bird of spring, flying on gleaming wing
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:9
+- id: sym:2
+  label: birthplace and homeland
+  literal_form: Ashdarag, fair Armenia, and the village of birth
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: sym:3
+  label: nest beneath father’s roof-tree
+  literal_form: a swallow’s nest beneath the father’s roof-tree
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dark sun at noon
+  literal_form: the sun is dark at noon amid bright daylight
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: uprooted flower
+  literal_form: a beautiful flower struck by cruel doom, uprooted from native soil,
+    withering before bloom
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: tears and wet eyes
+  literal_form: falling tears and wet eyes at midnight
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Address to the swallow
+  summary: The speaker addresses the swallow as a spring bird and asks where it is
+    flying.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Commission to fly home
+  summary: The speaker asks the swallow to fly to Ashdarag, his birthplace, and to
+    build a nest beneath his father’s roof-tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Father waiting and message requested
+  summary: The speaker describes his distant father as mournful and waiting, then
+    asks the swallow to greet him and tell him to mourn the son’s fate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Self-report of suffering
+  summary: The speaker reports poverty, loneliness, a half-life, tears, darkened daylight,
+    and sleepless wet eyes at midnight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Uprooted flower and renewed dispatch
+  summary: The speaker compares himself to an uprooted flower withering before bloom
+    and again urges the swallow to seek his birth village in Armenia.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: bird messenger to distant kin and homeland
+  taxonomy_refs: []
+  basis: The swallow is asked to fly to the speaker’s birthplace, greet his father,
+    and convey information about the speaker’s condition.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: The passage itself presents the messenger function, but no supplied taxonomy
+    reference names this specific motif.
+- id: motif:2
+  label: exile separated from birthplace and desired return
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The speaker is titled as wandering, his father waits for his return, he says
+    he is uprooted from native soil, and he asks the swallow to seek his birth village.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage expresses separation and longing for return; an actual return
+    journey by the speaker is not narrated.
+- id: motif:3
+  label: waiting parent for absent child
+  taxonomy_refs: []
+  basis: The father is described as mournful and grey, waiting vainly for his only
+    son’s return, and as the intended recipient of the message.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a lyric situation rather than a developed narrative episode.
+- id: motif:4
+  label: uprooted flower as image of life cut short
+  taxonomy_refs: []
+  basis: The speaker likens himself to a beautiful flower uprooted from native soil
+    and withering before bloom.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The flower is an explicit simile, not a literal event in the passage.
+- id: motif:5
+  label: grief darkens the daily world
+  taxonomy_refs: []
+  basis: The speaker describes bright daylight as darkened at noon and says sleep
+    does not come to his wet eyes at midnight.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is lyrical imagery and may not function as a narrative mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 3652-3654
+  quote_or_summary: Title and attribution identify the poem as “The Wandering Armenian
+    to the Swallow” by C. A. Dodochian.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3656-3659
+  quote_or_summary: The speaker addresses a gentle swallow, a lovely bird of spring,
+    and asks where it is flying swiftly.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3661-3664
+  quote_or_summary: The speaker asks the swallow to fly to his birthplace, Ashdarag,
+    and build its nest beneath his father’s roof-tree.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 3666-3669
+  quote_or_summary: The speaker says his father lives far away, mournful and grey,
+    and waits vainly for his only son’s return.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 3671-3674
+  quote_or_summary: The speaker asks the swallow to greet the father and bid him mourn
+    with tears for his son’s sad destiny.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 3676-3679
+  quote_or_summary: The speaker says his days pass in poverty and loneliness, his
+    life is only half a life, and his tears are falling.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 3681-3684
+  quote_or_summary: The speaker says the sun is dark at noon for him and that sleep
+    does not come to his wet eyes at midnight.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 3686-3689
+  quote_or_summary: The speaker compares himself to a beautiful flower struck by doom,
+    uprooted from native soil, and withering before bloom.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 3691-3694
+  quote_or_summary: The speaker urges the swallow to fly across the quickening earth
+    and seek the village of his birth in fair Armenia.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based entirely on the supplied English poem. Motif candidates
+    are mostly lyric-pattern identifications; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself provide an explicit comparison to another text, tradition, or named motif family beyond broad candidate motifs.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l3652-l3698
+  passage_sha256=01627fdf2551b8b5a48ead6858c461d4a779727e0c750bb8caacfec8fad9468f
+

@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l22747-l22763
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: MARKETS    AND   CURRENCY / CHAPTER  XVI / WELLS / CH.  XVI  WELLS  459;
+    lines 22747-22763
+  start: '22747'
+  end: '22763'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes ceremonies connected with a renovated well or shrine
+    area: a chief kills an animal, a sacred meal is eaten, beer is poured at the shrine,
+    and the chief then jumps over his wife. It also records restrictions on women
+    visiting wells while menstruating, fears that such violation or drawing with dirty
+    hands would dry up the water and bring sickness or spirit displeasure, and handwashing
+    practices before drawing water.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A chief killed a cow or goat under an antecedent referred to as "it" in the
+    excerpt.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A sacred meal was cooked and eaten at the site, and beer was poured out by
+    the shrine after renovation work was finished.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the ceremonies, the chief went home and jumped over his wife.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Women were not allowed to visit a well while menstruating.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If a menstruating woman visited a well, it was feared that the water would
+    dry up and that she would become sick and die unless she confessed and a medicine-man
+    made atonement for her.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Drawing water with dirty hands was thought to cause the water to dry up and
+    to incur the spirit's displeasure.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Women washed their hands before going to the well, or stopped at a distance
+    and asked a friend to bring water so they could wash before drawing water.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: chief
+  description: The chief kills a cow or goat, participates in the ceremonies, returns
+    home, and jumps over his wife.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: chief's wife
+  description: The wife over whom the chief jumps after the ceremonies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: women drawing or visiting the well
+  description: Women are subject to restrictions around menstruation and handwashing
+    before visiting or drawing water from the well.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: medicine-man
+  description: The medicine-man makes atonement for a woman who has violated the menstruation
+    restriction, if she confesses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: spirit
+  description: The spirit is described as being displeased if someone draws water
+    with dirty hands.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: friend
+  description: A friend may bring water to a woman waiting at a distance so she can
+    wash her hands before drawing water.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ceremonial chief
+  assigned_to:
+  - fig:1
+  basis: The chief kills the animal, is associated with the sacred meal and beer pouring
+    context, and performs the post-ceremony jump over his wife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: wife in post-ceremony action
+  assigned_to:
+  - fig:2
+  basis: The passage states that the chief jumped over his wife after the ceremonies.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: restricted well visitor and water drawer
+  assigned_to:
+  - fig:3
+  basis: Women are forbidden to visit while menstruating and are described washing
+    before drawing water.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: atonement specialist
+  assigned_to:
+  - fig:4
+  basis: The medicine-man makes atonement for the woman after confession.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: offended spirit
+  assigned_to:
+  - fig:5
+  basis: Drawing water with dirty hands is said to incur the spirit's displeasure.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: water-bringing helper
+  assigned_to:
+  - fig:6
+  basis: A friend is asked to bring water for handwashing before the woman draws water.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: well water
+  literal_form: water at the well
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: shrine
+  literal_form: shrine beside which beer is poured
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: animal killed in ceremony
+  literal_form: cow or goat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: beer poured by the shrine
+  literal_form: beer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: handwashing before drawing water
+  literal_form: washing hands before going to or drawing from the well
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Renovation ceremony at shrine or well site
+  summary: A chief kills a cow or goat; a sacred meal is cooked and eaten; beer is
+    poured by the shrine after the renovation is finished; afterward the chief goes
+    home and jumps over his wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Menstruation restriction at the well
+  summary: A menstruating woman is not allowed to visit the well; if she does, the
+    water is feared to dry up and she is feared to become sick and die unless she
+    confesses and the medicine-man makes atonement.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Handwashing before drawing water
+  summary: Drawing water with dirty hands is thought to dry up the water and displease
+    the spirit; women wash before approaching the well or ask a friend to bring water
+    for washing before drawing.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrifice at a renovated well or shrine site
+  taxonomy_refs:
+  - sacrifice
+  basis: The chief kills a cow or goat in the ceremony, a sacred meal is eaten, and
+    beer is poured at the shrine after renovation.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt does not explicitly state the recipient or full purpose of
+    the killing, and the antecedent of "it" is outside the supplied passage.
+- id: motif:2
+  label: offering at a shrine after completed work
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Beer is poured by the shrine as soon as the renovation work is finished,
+    in a passage that also describes well-related spirit displeasure and atonement.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage records the action but does not explicitly frame it as an
+    exchange or state the expected return.
+- id: motif:3
+  label: ritual purity restrictions at a water source
+  taxonomy_refs: []
+  basis: The passage links menstruation and dirty hands with prohibited approach to
+    or drawing from the well, feared drying of the water, sickness, death, and spirit
+    displeasure.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied motif-family taxonomy ref directly names ritual purity or
+    pollution at water sources.
+- id: motif:4
+  label: atonement after well taboo violation
+  taxonomy_refs: []
+  basis: A woman who violates the menstruation restriction must confess and have a
+    medicine-man make atonement for her to avoid the feared consequences.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe the atonement procedure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22747-22751
+  quote_or_summary: The chief kills a cow or goat; a sacred meal is cooked and eaten
+    there; beer is poured by the shrine after the renovation work is finished.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: quote
+  locator: 22751-22753
+  quote_or_summary: '"After the ceremonies the chief went home, and jumped over his
+    wife."'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 22753-22758
+  quote_or_summary: A menstruating woman may not visit a well; violation is feared
+    to dry the water and cause her sickness and death unless she confesses and the
+    medicine-man makes atonement.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: 22758-22760
+  quote_or_summary: Drawing water with dirty hands is thought to dry up the water
+    and bring the spirit's displeasure.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: 22760-22763
+  quote_or_summary: Women wash their hands before going to the well, or wait at a
+    distance and ask a friend to bring water for washing before drawing water.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear about actions and taboos, but the supplied excerpt begins
+    mid-sentence, leaving the antecedent of "it" and some ceremony context uncertain.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy refs are limited to those supplied in the request.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l22747-l22763
+  passage_sha256=4a5f58ad88097c66462194f9c030c56a908004205d78e0fb4b522232c5716a43
+

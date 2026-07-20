@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2905-l2931
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: AGAVE. / DIONYSUS. / AGAVE. / DIONYSUS.; lines 2905-2931
+  start: '2905'
+  end: '2931'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Ye mocked me, being God; this is your wage.”"
+  summary: Agave beseeches Dionysus and admits wrongdoing. Dionysus answers that recognition
+    has come too late and frames the punishment as the consequence of mocking him
+    as a god, in accordance with Zeus’s prior will. Agave questions whether a god
+    should act like an angry proud man, then turns away and tells the Old Man they
+    must go.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Agave addresses Dionysus directly and says that she and others have sinned.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus replies that it is too late and says they did not know him when there
+    was time.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Agave says they have confessed and describes Dionysus’s hand as too hot.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dionysus says they mocked him while he was God and calls the result their
+    wage.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Agave asks whether God should resemble a proud man in rage.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Dionysus says the matter was willed long ago by his sire, Zeus.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Agave turns from Dionysus almost with disdain and tells the Old Man that the
+    word is spoken and they must go.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Agave
+  description: Speaker who beseeches Dionysus, admits sin and confession, questions
+    his rage, turns from him, and addresses the Old Man.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Dionysus
+  description: Speaker addressed by Agave; identifies himself as God, says he was
+    not known in time, names mockery of him as the offense, and cites Zeus’s will.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Zeus
+  description: Named by Dionysus as his sire and as the one who willed the outcome
+    long ago.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Old Man
+  description: Person addressed by Agave when she says the word is spoken and they
+    must go.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: supplicant and confessor
+  assigned_to:
+  - fig:1
+  basis: Agave beseeches Dionysus, says she and others have sinned, and says they
+    have confessed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: offended god
+  assigned_to:
+  - fig:2
+  basis: Dionysus says he was mocked while being God and was not known when there
+    was time.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: pronouncer of punishment
+  assigned_to:
+  - fig:2
+  basis: Dionysus says the consequence is their wage and that it is too late.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: questioner of divine rage
+  assigned_to:
+  - fig:1
+  basis: Agave asks whether God should be like a proud man in rage.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: divine sire and prior authority
+  assigned_to:
+  - fig:3
+  basis: Dionysus calls Zeus his sire and says Zeus willed it long ago.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: addressed companion
+  assigned_to:
+  - fig:4
+  basis: Agave addresses the Old Man and says they must go.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: hot hand
+  literal_form: Dionysus’s hand described as too hot
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: spoken word
+  literal_form: the word is spoken
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Agave’s plea and Dionysus’s refusal
+  summary: Agave beseeches Dionysus and admits sin; Dionysus replies that recognition
+    has come too late.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Divine punishment named as wage
+  summary: Agave says they have confessed and describes Dionysus’s hand as too hot.
+    Dionysus answers that they mocked him as God and names the result as their wage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Questioning divine rage and departure
+  summary: Agave questions whether a god should act like a proud man in rage. Dionysus
+    attributes the outcome to Zeus’s old will. Agave turns away almost with disdain
+    and tells the Old Man they must go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine judgment after failure to recognize a god
+  taxonomy_refs:
+  - divine_judgment
+  basis: Dionysus says they did not know him when there was time, that they mocked
+    him while he was God, and that the consequence is their wage.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage states the punishment as deserved consequence but does not
+    describe the earlier offense or the full punishment within this excerpt.
+- id: motif:2
+  label: late confession unable to avert punishment
+  taxonomy_refs: []
+  basis: Agave admits sin and confession, but Dionysus answers that it is too late.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a local pattern in the dialogue; no broader taxonomy reference
+    is asserted beyond the immediate passage.
+- id: motif:3
+  label: divine parent-child authorization
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Dionysus identifies Zeus as his sire and says Zeus willed the outcome long
+    ago.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The parent-child relation is explicit, but the excerpt gives only a brief
+    authorization formula rather than a developed parent-child episode.
+- id: motif:4
+  label: human questioning of divine rage
+  taxonomy_refs: []
+  basis: Agave asks whether God should be like a proud man in rage.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The line raises a challenge to divine conduct, but the excerpt does not
+    expand it into a sustained motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2905-2907
+  quote_or_summary: 'AGAVE: “Dionysus, we beseech thee! We have sinned!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2909-2911
+  quote_or_summary: 'DIONYSUS: “Too late! When there was time, ye knew me not!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2913-2915
+  quote_or_summary: 'AGAVE: “We have confessed. Yet is thine hand too hot.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 2917-2919
+  quote_or_summary: 'DIONYSUS: “Ye mocked me, being God; this is your wage.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 2921-2923
+  quote_or_summary: 'AGAVE: “Should God be like a proud man in his rage?”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 2925-2927
+  quote_or_summary: 'DIONYSUS: “’Tis as my sire, Zeus, willed it long ago.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 2929-2931
+  quote_or_summary: 'AGAVE, turning from him almost with disdain: “Old Man, the word
+    is spoken; we must go.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied dialogue and stage direction. Motif
+    candidates are limited to patterns directly supported by the excerpt. No comparison
+    claims are made because the passage itself does not supply a comparative target.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external context used; the Old Man is not identified beyond the label in the supplied passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2905-l2931
+  passage_sha256=ebdefe4609cf873a7cd2f57b149c380b759df9e616e39ceb3994bab4af4a8056
+

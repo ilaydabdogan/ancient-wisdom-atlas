@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l18966-l18988
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: DAN-KUCHINGAYA  AND  THE  WITCH. / DAN-KUCHINGAYA  AND  THE  WITCH  429 /
+    FIG.  92. / FIG.  93.; lines 18966-18988
+  start: '18966'
+  end: '18988'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt includes captions for a saddle and a stirrup. In the narrative
+    fragment, boys arrive and greet a mother and daughter; the mother loosens her
+    daughter's head, the boys sit down, food is brought to them in the evening, and
+    that night a witch cannot sleep.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Figure captions identify a saddle made of wood, iron, and leather and a stirrup
+    with leather.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrative mentions looking for lice immediately before the boys arrive.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boys come up and say, "Peace be upon you."
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the greeting, the mother looses her daughter's head and the boys sit
+    down.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When evening comes, food is brought to the boys and they eat it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: That night, the witch is unable to sleep.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Boys
+  description: A group of boys who come up, greet the others, sit down, and later
+    eat food brought to them.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Mother
+  description: A mother who looses her daughter's head after the boys greet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Daughter
+  description: The mother's daughter, whose head is loosed by the mother.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Witch
+  description: A witch who is unable to sleep that night.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: arriving greeters
+  assigned_to:
+  - fig:1
+  basis: The boys come up and say a greeting of peace.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: fed visitors
+  assigned_to:
+  - fig:1
+  basis: Food is brought to the boys in the evening and they eat it.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: mother
+  assigned_to:
+  - fig:2
+  basis: The passage identifies her as the Mother and says she looses her Daughter's
+    head.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: daughter
+  assigned_to:
+  - fig:3
+  basis: The passage identifies her as the Daughter whose head is loosed by the Mother.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: sleepless witch
+  assigned_to:
+  - fig:4
+  basis: The passage says the Witch was unable to sleep that night.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: saddle
+  literal_form: 'Figure 92: saddle of wood, iron, and leather, covered with skins'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stirrup
+  literal_form: 'Figure 93: stirrup and leather'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: captions for riding equipment
+  summary: The passage captions illustrations of a saddle and a stirrup with leather.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: boys arrive and greet
+  summary: After a mention of looking for lice, the boys come up, give a greeting
+    of peace, the mother looses her daughter's head, and the boys sit down.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: evening meal for the boys
+  summary: In the evening, food is brought to the boys and they eat it.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: witch unable to sleep
+  summary: That night, the witch is unable to sleep.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: hospitality to arriving visitors
+  taxonomy_refs: []
+  basis: The boys arrive, greet those present, sit down, and are later given food
+    to eat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The fragment does not identify who provides the food or explain the broader
+    narrative function of the hospitality.
+- id: motif:2
+  label: sleepless witch at night
+  taxonomy_refs: []
+  basis: The passage states that the Witch was unable to sleep that night.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The excerpt ends before giving the cause or consequence of the witch's
+    sleeplessness.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18966-18972
+  quote_or_summary: Figure 92 is captioned as a saddle made of wood, iron, and leather
+    and covered with skins; Figure 93 is captioned as a stirrup and leather.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: 18973-18977
+  quote_or_summary: '"and looking for lice (3), and the Boys came up and said \" Peace
+    be upon you.\" Then the Mother loosed her Daughter''s head"; the boys then came
+    and sat down.'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 18977-18979
+  quote_or_summary: When evening came, food was brought to the boys and they ate it.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 18981-18982
+  quote_or_summary: '"Now that night, the Witch was unable to sleep"'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited by the fragmentary passage. Motif candidates are provisional
+    and no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied; the supplied taxonomy symbols do not match the literal objects in this excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l18966-l18988
+  passage_sha256=d4f8aca2d8f95308ef115d23d6d4fd5cb69a31a85d2939897af86c7bddac2672
+

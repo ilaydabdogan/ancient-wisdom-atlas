@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l2332-l2355
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: MONEY AND CUREENCY / MONEY AND CUERENOY / MONEY AND CUERENCY / MONET AND
+    CURRENCY; lines 2332-2355
+  start: '2332'
+  end: '2355'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes umhul rolls as exchange objects valued by diameter
+    measured in deh and compared with yar-nu-hetchrek or white fei. It also describes
+    red shell necklaces, thauei, as currency-like objects whose owners usually do
+    not sell them outright but allow temporary use as payment for labor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator states that an umhul was brought from Uap to Philadelphia and
+    that the description is based on hearsay pending possible museum verification.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Umhuls vary somewhat in roll diameter and very little in width.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When umhuls are used in exchange, their value is computed by diameter measured
+    in spans of index finger and thumb called deh.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Umhuls are ordinarily valued as equivalent to the largest yar-nu-hetchrek
+    or to a good white fei three deh in diameter.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Red shell necklaces called thauei are described as possible currency.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Owners of thauei rarely sell them outright but allow their use for stated
+    periods as payment for work or labor.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The narrator reports trying to buy a thauei and finding that many men wore
+    them but would not sell them because they had only bought temporary permission
+    to wear them.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: narrator or collector
+  description: The first-person speaker who brought away an umhul from Uap, describes
+    it with a hearsay caveat, and tried to buy a red shell necklace.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: future museum curator
+  description: A hypothetical curator of the Free Museum of Science and Art in Philadelphia
+    who might unroll the umhul and check the narrator's description.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: owners of thauei
+  description: People who own red shell necklaces and rarely sell them outright, instead
+    permitting use for stated periods as payment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: men wearing thauei
+  description: Men observed wearing red shell necklaces who refused to part with them
+    because they had purchased only temporary privilege of wearing them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: observer and attempted buyer
+  assigned_to:
+  - fig:1
+  basis: The passage uses first-person statements about bringing away the umhul and
+    attempting to buy a thauei.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: potential verifier
+  assigned_to:
+  - fig:2
+  basis: The narrator hopes a future curator will correct or corroborate the umhul
+    description.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: owners permitting temporary use
+  assigned_to:
+  - fig:3
+  basis: Thauei owners are said to permit use for stated periods instead of selling
+    outright.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: temporary wearers
+  assigned_to:
+  - fig:4
+  basis: The men wore the necklaces but had only bought temporary privilege to adorn
+    themselves.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: umhul roll
+  literal_form: Roll-like exchange object called an umhul
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: deh measurement
+  literal_form: Span of index finger and thumb used to measure diameter
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: yar-nu-hetchrek
+  literal_form: Object or currency term used as a value equivalent for umhul
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: white fei
+  literal_form: Good white fei, three deh in diameter, used as a value equivalent
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: thauei red shell necklaces
+  literal_form: Red shell necklaces treated as currency-like objects and worn as adornment
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hearsay description of an umhul awaiting verification
+  summary: The narrator says an umhul was taken from Uap to a Philadelphia museum
+    and that a curator might later verify the hearsay-based description.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Valuation of umhul by measured diameter
+  summary: Umhuls are described as exchange objects valued according to diameter measured
+    in deh and compared with yar-nu-hetchrek or white fei.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Temporary use of thauei as payment
+  summary: Thauei necklaces are treated as currency-like objects whose owners lend
+    use-rights for fixed periods, while wearers may have only purchased temporary
+    permission to adorn themselves.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: measured exchange object
+  taxonomy_refs: []
+  basis: The passage presents the umhul as an object used in exchange, with value
+    calculated by physical diameter measured in deh.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an economic or ethnographic pattern in the passage; no explicit
+    mythic or sacred meaning is stated.
+- id: motif:2
+  label: temporary transfer of adornment use-rights as payment
+  taxonomy_refs: []
+  basis: Thauei necklaces are not usually sold outright; owners permit their use for
+    fixed periods as payment, and some wearers have bought only the temporary privilege
+    of wearing them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports a social exchange pattern but does not explicitly
+    frame the necklaces as sacred objects.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2332-2340
+  quote_or_summary: The narrator says an umhul was brought from Uap to the Free Museum
+    of Science and Art in Philadelphia and that the current description is based only
+    on hearsay, awaiting possible correction or corroboration.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 2341-2346
+  quote_or_summary: Umhuls vary in roll diameter more than width; when used in exchange,
+    value is computed by diameter measured in deh, the span of index finger and thumb.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 2346-2348
+  quote_or_summary: Umhuls are ordinarily valued as equivalent to the largest yar-nu-hetchrek
+    or to a good white fei three deh in diameter.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 2349-2352
+  quote_or_summary: Red shell necklaces called thauei might also be listed as currency,
+    but their owners rarely, if ever, sell them outright.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 2352-2355
+  quote_or_summary: Owners allow thauei use for stated periods as payment for labor;
+    the narrator found men wearing them who refused sale because they had bought only
+    temporary privilege to adorn themselves.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for currency and temporary-use practices. Motif
+    labeling is cautious because the passage is ethnographic and does not state mythic
+    or sacred significance. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs apply directly to the objects in this passage; sacred_exchange was not assigned because sacred status is not explicit in the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l2332-l2355
+  passage_sha256=af7231befb77a63dc6f4394a00095b79c065cd597449d7647dbab3464dff0277
+

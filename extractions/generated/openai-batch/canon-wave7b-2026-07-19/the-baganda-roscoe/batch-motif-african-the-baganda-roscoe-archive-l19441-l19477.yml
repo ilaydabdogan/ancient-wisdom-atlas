@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l19441-l19477
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: XI  INDUSTRIES  381 / XI  INDUSTRIES  383 / THE    BAGANDA / CHAP.; lines
+    19441-19477
+  start: '19441'
+  end: '19477'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a distinction between the Baganda and the Basese,
+    identifies the Basese as island people, notes sleeping sickness as a barrier to
+    study, and explains the former economic and transport importance of the islands,
+    fish, tribute, canoes, and canoe-borne commerce around the Nyanza.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that there was a marked separation between the Baganda
+    and the Basese, and identifies the Basese as people of the islands.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sleeping sickness is described as prevalent on the islands and along the lake
+    shores, creating a barrier to further study of differences between the peoples.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Before the outbreak of sleeping sickness, the islands are said to have been
+    thickly populated.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The islands formed a source of revenue to the King through fish supplied and
+    yearly tribute paid.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Canoes are described as the principal means for commerce with nations south
+    of the Nyanza and for connecting the east-coast road with the capital of Uganda.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Basese are described as important to the country, and Baganda influence
+    is said to have extended through their means.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Many canoes were kept on the mainland shores and islands, and a fleet of one
+    hundred could be collected within two or three days.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Baganda
+  description: People distinguished from the Basese; their influence is described
+    as having extended through the means of the Basese.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Basese
+  description: People of the islands; described as important because of canoe-based
+    commerce and connection, and as instrumental in extending Baganda influence.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: King
+  description: Royal recipient of revenue from the islands through fish and yearly
+    tribute.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Arab traders
+  description: External traders mentioned as first discovering the lake at the time
+    Baganda influence had become extended.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: nations to the south of the Nyanza
+  description: Trading destinations or partners reached by canoe-borne commerce.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: people or polity with extended regional influence
+  assigned_to:
+  - fig:1
+  basis: The passage says Baganda influence had become extended through the means
+    of the Basese.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: island people
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the Basese as the people of the islands.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: canoe-commerce intermediaries
+  assigned_to:
+  - fig:2
+  basis: The Basese are described as important in the context of canoe commerce and
+    connections across the Nyanza region.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: royal revenue recipient
+  assigned_to:
+  - fig:3
+  basis: The islands supplied fish and paid yearly tribute as revenue to the King.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: external traders and chronological marker
+  assigned_to:
+  - fig:4
+  basis: Arab traders are mentioned in connection with the time when they first discovered
+    the lake.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: southern commerce partners or destinations
+  assigned_to:
+  - fig:5
+  basis: Canoes carried commerce with nations to the south of the Nyanza.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: islands
+  literal_form: islands of the lake
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: canoes
+  literal_form: canoes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: fish and yearly tribute
+  literal_form: fish supplied; yearly tribute paid
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hundred-canoe fleet
+  literal_form: a fleet of a hundred canoes collected in two or three days
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Separation and disease barrier
+  summary: The passage distinguishes the Baganda from the Basese and states that sleeping
+    sickness prevented further study of the differences between them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Island population and royal revenue
+  summary: Before the outbreak, the islands were thickly populated and supplied the
+    King with revenue through fish and yearly tribute.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Canoe commerce and political influence
+  summary: Canoes enabled commerce south of the Nyanza and connected the east-coast
+    road with Uganda's capital; the Basese are described as important in this network
+    and linked to the extension of Baganda influence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: canoe-mediated commerce and political extension
+  taxonomy_refs: []
+  basis: The passage presents canoes as principal means of commerce and connection,
+    and links the Basese to the expansion of Baganda influence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic and economic pattern, not a mythological narrative
+    motif in the passage.
+- id: motif:2
+  label: island tribute to a royal center
+  taxonomy_refs: []
+  basis: The islands are described as producing revenue for the King through fish
+    and yearly tribute.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not state a sacred or ritual dimension for the tribute.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19441-19447
+  quote_or_summary: The passage says there was a marked separation between the Baganda
+    and the Basese, identifies the Basese as island people, and states that sleeping
+    sickness on islands and lake shores prevented further study.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: 19448-19454
+  quote_or_summary: Before sleeping sickness, the islands were thickly populated and
+    supplied revenue to the King through fish and yearly tribute.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: 19455-19464
+  quote_or_summary: Canoes are described as the principal means for commerce with
+    nations south of the Nyanza and for linking the east-coast road with Uganda's
+    capital.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: 19464-19470
+  quote_or_summary: The Basese are said to have been important to the country, and
+    Baganda influence is said to have extended through them when Arab traders first
+    discovered the lake.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: 19470-19477
+  quote_or_summary: The passage states that many canoes were kept on the mainland
+    shores and islands, and that a fleet of one hundred could be assembled in two
+    or three days.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are treated as ethnographic
+    material patterns rather than mythological motifs. No passage-supported comparative
+    claims were identified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage is from an ethnographic discussion of industries, transport, and island populations; no sacred taxonomy references or comparative mythology claims are directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l19441-l19477
+  passage_sha256=60754e6a588f2d1b5cecf8c05ff264ee02fecfb3f6e8682bdde50c017025c161
+

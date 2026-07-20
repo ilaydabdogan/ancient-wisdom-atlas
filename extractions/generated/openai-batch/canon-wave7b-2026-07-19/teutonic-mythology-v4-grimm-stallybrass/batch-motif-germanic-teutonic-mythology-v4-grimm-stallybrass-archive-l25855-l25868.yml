@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l25855-l25868
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SUPERSTITIONS.      I.  1779 / SUPERSTITIONS.      I.  1781 / SUPERSTITIONS.      I.  1783
+    / SUPERSTITIONS.      I.  1787; lines 25855-25868
+  start: '25855'
+  end: '25868'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A numbered list of superstitions states that bell sounds foretell death
+    or a wedding; bridal weather is linked to crying or laughing; counting churn hoops
+    prevents butter from coming; looking over one's fingers or hand is bad; and a
+    baby's first food of red baked apple gives red cheeks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Thick ringing bells are said generally to indicate that someone is about to
+    die, while a clear church-bell indicates a wedding.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rain during a bride's journey to church is linked with her having cried; sunshine
+    is linked with her having laughed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If a person comes where a woman is churning and counts the churn hoops upward
+    and downward, the butter will not come.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says it is not good to look over one's fingers or the flat of
+    one's hand.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Giving a baby part of a red baked apple as its first food instead of pap is
+    said to result in red cheeks.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed person about to die
+  description: A person described as just going to die when bells ring thick.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: bride
+  description: A bride on her way to church whose weather conditions are interpreted
+    as signs of crying or laughing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: woman churning
+  description: A woman who is churning when another person arrives and counts the
+    churn hoops.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: person counting churn hoops
+  description: Someone who comes to the churning place and counts the hoops on the
+    churn first up and then down.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: baby
+  description: A baby given red baked apple as a first food instead of pap.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: death-bound person
+  assigned_to:
+  - fig:1
+  basis: The person is described as just going to die in connection with thick bell-ringing.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bride in churchward procession
+  assigned_to:
+  - fig:2
+  basis: The passage specifies a bride on her way to church.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: churner
+  assigned_to:
+  - fig:3
+  basis: The woman is explicitly described as churning.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: counting visitor
+  assigned_to:
+  - fig:4
+  basis: The person comes to the churning place and counts the churn hoops.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: infant recipient of first food
+  assigned_to:
+  - fig:5
+  basis: The baby receives a first food of red baked apple instead of pap.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: bell sound omen
+  literal_form: bells ringing thick; church-bell ringing clear
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rain on bridal journey
+  literal_form: rain while a bride is on her way to church
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sunshine on bridal journey
+  literal_form: sun shining while a bride is on her way to church
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: counted churn hoops
+  literal_form: hoops on the churn counted first up and then down
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: looking over hand or fingers
+  literal_form: looking over the fingers or the flat of the hand
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: red baked apple and red cheeks
+  literal_form: part of a red baked apple given to a baby; red cheeks
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Bell sounds as event signs
+  summary: Different qualities of bell ringing are said to indicate either an approaching
+    death or a wedding.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Weather during bride's journey
+  summary: Rain or sunshine while a bride goes to church is interpreted as indicating
+    whether she has cried or laughed.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Counting disrupts churning
+  summary: A visitor's counting of churn hoops up and down is said to stop butter
+    from coming.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Prohibited hand-looking gesture
+  summary: Looking over the fingers or flat of the hand is described as not good.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: First food affects complexion
+  summary: A baby's first food of red baked apple instead of pap is said to produce
+    red cheeks.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Bell sound as omen of death or wedding
+  taxonomy_refs: []
+  basis: The passage directly links thick bell ringing with someone about to die and
+    clear church-bell ringing with a wedding.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a descriptive superstition motif; no supplied taxonomy family
+    directly matches it.
+- id: motif:2
+  label: Weather on bridal procession interpreted as emotional sign
+  taxonomy_refs: []
+  basis: Rain and sunshine during a bride's journey to church are tied to crying and
+    laughing respectively.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a local belief formula, not a narrative episode.
+- id: motif:3
+  label: Counting as harmful interference with churning
+  taxonomy_refs: []
+  basis: Counting the churn hoops first up and then down is said to prevent butter
+    from coming.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No agent such as a witch or magical specialist is specified in the passage.
+- id: motif:4
+  label: Taboo against looking over fingers or hand
+  taxonomy_refs: []
+  basis: The passage states that looking over one's fingers or the flat of one's hand
+    is not good.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The consequence is not specified, so the motif remains minimally defined.
+- id: motif:5
+  label: First infant food determines bodily appearance
+  taxonomy_refs: []
+  basis: The baby given red baked apple as first food is said to acquire red cheeks.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage only specifies red cheeks and does not give a broader theory
+    of infant fate or character.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25855-25856; item 284
+  quote_or_summary: Bell ringing 'thick' generally means someone is about to die;
+    a clear church-bell means a wedding.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 25858-25859; item 285
+  quote_or_summary: When a bride is on her way to church, rain indicates she has been
+    crying and sunshine indicates laughing.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 25861-25863; item 286
+  quote_or_summary: If someone comes where a woman is churning and counts the churn
+    hoops up and down, the butter will not come.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: line 25865; item 287
+  quote_or_summary: It is said not to be good to look over one's fingers or the flat
+    of one's hand.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 25867-25868; item 288
+  quote_or_summary: Giving a baby red baked apple as its first food instead of pap
+    is said to give it red cheeks.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a clear list of short superstitions. Motif labels are descriptive
+    and not mapped to most supplied motif-family taxonomy refs. No comparison claims
+    are made because the passage itself provides no explicit comparative linkage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Literal superstition formulas were treated as separate scenes; no figures or comparisons were added beyond the passage evidence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l25855-l25868
+  passage_sha256=6c8aceeb0580fea3810984cf32d73d1d9c101f8bf8078f59d1771999deb4aff7
+

@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l708-l725
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: CHORUS. / CADMUS. / PENTHEUS. / TEIRESIAS.; lines 708-725
+  start: '708'
+  end: '725'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Teiresias rebukes Pentheus as blind and mad, urges Cadmus to go with him
+    and pray for Pentheus and the city so the righteous God will not act in anger,
+    asks for mutual help with an ivy rod, affirms service to Bacchios, and the two
+    old men depart toward the Mountain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Teiresias addresses Pentheus as hard-hearted, ignorant of what he is setting
+    in motion, blind, and mad.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Teiresias tells Cadmus that they should go and pray for Pentheus and for the
+    city, so that the righteous God will not move in anger.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Teiresias asks Cadmus to take an ivy rod and says the two old men should help
+    one another's steps.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Teiresias says that, whatever happens, their service will be done to Bacchios,
+    described as the All-Father's mystic son.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Teiresias addresses Pentheus as named of sorrow and links the name to possible
+    fulfillment in Cadmus's house.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Teiresias says he is not speaking from his art but from what he sees, then
+    calls the words and heart blind.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The two old men go off toward the Mountain.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Teiresias
+  description: Speaker who rebukes Pentheus, directs Cadmus, proposes prayer, and
+    affirms service to Bacchios.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Cadmus
+  description: Companion addressed by Teiresias; asked to take the ivy rod and help
+    Teiresias as they go.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Pentheus
+  description: Addressed as hard-hearted, blind, mad, a persecutor, and named of sorrow;
+    an object of prayer.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Bacchios
+  description: Deity to whom service is owed; described as the All-Father's mystic
+    son, and associated in the speech with fear of divine anger.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: the city
+  description: Called a poor city and included as an object of prayer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: All-Father
+  description: Named only in the epithet identifying Bacchios as the All-Father's
+    mystic son.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: admonishing speaker
+  assigned_to:
+  - fig:1
+  basis: Teiresias rebukes Pentheus and describes his blindness, madness, and hard
+    heart.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: elder companions in mutual support
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Teiresias says two old men should not fall and that each should help the
+    other's steps.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: persecutor named in prayer
+  assigned_to:
+  - fig:3
+  basis: Teiresias calls Pentheus 'our persecutor' when proposing prayer for him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: object of intercessory prayer
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Teiresias proposes prayer for Pentheus and for the city.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: deity served and feared in anger
+  assigned_to:
+  - fig:4
+  basis: The speech asks that the righteous God not move in anger and says service
+    will be done to Bacchios.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: divine parent named in epithet
+  assigned_to:
+  - fig:6
+  basis: Bacchios is called the All-Father's mystic son.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ivy rod
+  literal_form: ivy rod
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Mountain
+  literal_form: Mountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: seed sown
+  literal_form: seed as a speech image for what Pentheus sows
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: blind words and blind heart
+  literal_form: blindness as a speech image applied to words and heart
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Teiresias rebukes Pentheus
+  summary: Teiresias speaks against Pentheus, calling him hard-hearted, blind, mad,
+    and unaware of the seed he sows.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prayer and departure toward the Mountain
+  summary: Teiresias urges Cadmus to pray for Pentheus and the city, to support one
+    another with the ivy rod, to perform service to Bacchios, and the two old men
+    depart toward the Mountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: intercession to avert divine anger
+  taxonomy_refs:
+  - divine_judgment
+  basis: Teiresias proposes prayer for Pentheus and the city so that the righteous
+    God will not move in anger.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states the prayer and feared anger, but not the outcome.
+- id: motif:2
+  label: elder devotees' ritual departure with sacred implement
+  taxonomy_refs: []
+  basis: Two old men are to assist one another with an ivy rod, continue service to
+    Bacchios, and go toward the Mountain.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe the ritual beyond service, the ivy rod,
+    and movement toward the Mountain.
+- id: motif:3
+  label: warning speech using blindness and sowing imagery
+  taxonomy_refs:
+  - wisdom
+  basis: Teiresias rebukes Pentheus with images of sowing, blindness, and a blind
+    heart, while saying he speaks from what he sees.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The mapping to the broad wisdom family is interpretive; the literal passage
+    is an admonitory speech.
+- id: motif:4
+  label: ominous name linked to household sorrow
+  taxonomy_refs: []
+  basis: Teiresias addresses Pentheus as named of sorrow and asks whether he will
+    claim fulfillment of that name from Cadmus's house.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The line frames the fulfillment as a question; the passage does not narrate
+    the fulfillment.
+- id: motif:5
+  label: divine parent-child epithet
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Bacchios is described as the All-Father's mystic son.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only an epithet is given here; no extended parent-child action occurs
+    in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 708-711
+  quote_or_summary: '"Hard heart"; Pentheus knows little of the seed he sows and is
+    called blind and mad.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: 711-714
+  quote_or_summary: Teiresias urges Cadmus to go and pray for their persecutor and
+    for the city, so the righteous God will not move in anger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 714-718
+  quote_or_summary: Teiresias tells Cadmus to take the ivy rod, says the two old men
+    should help one another, and says their service will be done.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 718-722
+  quote_or_summary: Service is to Bacchios, called the All-Father's mystic son; Teiresias
+    addresses Pentheus as named of sorrow and asks about fulfillment from Cadmus's
+    house.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 722-725
+  quote_or_summary: Teiresias says he speaks not from his art but as he sees, mentions
+    blind words and a blind heart, and the two Old Men go toward the Mountain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied lines. Motif taxonomy assignments are
+    cautious, especially where based on brief epithets or imagery. No passage-supported
+    comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty because the passage itself makes no explicit comparative claim.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l708-l725
+  passage_sha256=93aafc0c2b2206f058064cd8116fd654c60878f2818fd5d7e7b243e961708a34
+

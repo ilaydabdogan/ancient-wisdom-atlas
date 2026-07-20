@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l19627-l19782
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: THK GREAT LEARNING / THE DOCTRINE OF / THE MEAN / THE DOCTRINE 01' THE MEAN;
+    lines 19627-19782
+  start: '19627'
+  end: '19782'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: He took hold of their two extremes, determined the Mean, and employed it
+    in his government of the people.
+  summary: The passage presents sayings on the difficulty of practicing the Mean.
+    It uses eating and drinking as an illustration of ordinary but poorly discerned
+    experience, laments that the path of the Mean is untrodden, presents Shun as a
+    wise ruler who questioned others and governed by the Mean, contrasts self-professed
+    wisdom with inability to escape traps or keep the Mean, presents Hui as one who
+    held fast to the good, and states that even great public achievements are easier
+    than attaining the Mean.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says everyone eats and drinks, but few can distinguish flavors.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary says the flavor illustration is used to explain that the Mean
+    belongs to ordinary actions of life and may be discerned and practiced there.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Master laments that the path of the Mean is untrodden.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Shun is called greatly wise and is said to have loved questioning others and
+    studying their words, even when shallow.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Shun is said to have concealed what was bad in others' words and displayed
+    what was good.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Shun is said to have taken hold of two extremes, determined the Mean, and
+    used it in governing the people.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Men are described as saying that they are wise, yet when driven forward and
+    caught in a net, trap, or pitfall, they do not know how to escape.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Men are described as saying they are wise, yet when they choose the course
+    of the Mean, they cannot keep it for a round month.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Hui is described as choosing the Mean and holding firmly to whatever good
+    he obtained, as if wearing it on his breast.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage says a kingdom, states, and families may be ruled, dignities and
+    emoluments may be declined, and naked weapons may be trampled underfoot, but the
+    course of the Mean cannot be attained to.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: The Master
+  description: Speaker of the sayings on the Mean in the cited chapters.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Shun
+  description: A figure called greatly wise who questions others, studies their words,
+    determines the Mean, and governs the people by it.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Men who say 'We are wise'
+  description: A collective group who claim wisdom but are unable to escape snares
+    and unable to keep the Mean for a month.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Hui
+  description: A figure who chooses the Mean and holds firmly to the good.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: teacher-speaker
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly introduces statements with 'The Master said.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:2
+  label: wise exemplar
+  assigned_to:
+  - fig:2
+  basis: Shun is explicitly called greatly wise and is described as determining the
+    Mean.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: ruler using the Mean in government
+  assigned_to:
+  - fig:2
+  basis: Shun is said to have employed the Mean in governing the people.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: self-professed wise but unable practitioners
+  assigned_to:
+  - fig:3
+  basis: They say they are wise but cannot escape the snare imagery or maintain the
+    Mean for a month.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: steadfast holder of the good
+  assigned_to:
+  - fig:4
+  basis: Hui chooses the Mean and clasps the good firmly without losing it.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: flavors
+  literal_form: distinguishable flavors in eating and drinking
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: path or course of the Mean
+  literal_form: the path/course of the Mean
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: two extremes
+  literal_form: two extremes taken hold of by Shun
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: net, trap, and pitfall
+  literal_form: a net, a trap, or a pitfall
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: good clasped on the breast
+  literal_form: the good clasped firmly as if worn on the breast
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: naked weapons underfoot
+  literal_form: naked weapons trampled under the feet
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Flavor illustration of discernment
+  summary: Eating and drinking are presented as universal actions, but the ability
+    to distinguish flavors is rare; the commentary connects this to discerning the
+    Mean in ordinary life.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The untrodden path
+  summary: The Master laments that the path of the Mean is not being trodden.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Shun determines the Mean
+  summary: The Master presents Shun as greatly wise because he questions others, selects
+    what is good, takes hold of two extremes, determines the Mean, and uses it in
+    government.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Claimed wisdom and failure
+  summary: People who say they are wise are described as unable to escape a net, trap,
+    or pitfall, and unable to keep the Mean for a month.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Hui holds fast to the good
+  summary: The Master describes Hui as choosing the Mean and firmly holding whatever
+    good he obtains.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:6
+  label: The Mean as harder than great feats
+  summary: The Master states that ruling polities, declining rewards, and trampling
+    weapons can be done, but attaining the course of the Mean cannot be done.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: discernment of wisdom in ordinary life
+  taxonomy_refs:
+  - wisdom
+  basis: The flavor illustration and commentary connect ordinary eating and drinking
+    with the ability to discern and practice the Mean in everyday actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is philosophical and didactic rather than mythic narrative;
+    the taxonomy link to wisdom is broad.
+- id: motif:2
+  label: wise ruler weighs extremes and governs by the Mean
+  taxonomy_refs:
+  - wisdom
+  basis: Shun is called greatly wise, gathers others' words, takes hold of two extremes,
+    determines the Mean, and applies it in government.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents an ethical exemplar; it does not narrate a supernatural
+    episode.
+- id: motif:3
+  label: false claim to wisdom exposed by danger and inconstancy
+  taxonomy_refs:
+  - wisdom
+  basis: People claim to be wise but cannot escape a net, trap, or pitfall and cannot
+    keep the Mean for a month.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The snare imagery functions as an illustration within moral teaching;
+    no external motif parallel is asserted.
+- id: motif:4
+  label: holding fast to the good
+  taxonomy_refs:
+  - wisdom
+  basis: Hui chooses the Mean and holds firmly to the good as if wearing it on his
+    breast.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The imagery is ethical and metaphorical; classification under wisdom should
+    be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The commentary explicitly directs comparison with Analects IX, vii while
+    discussing how Shun examined received answers.
+  claim_level: linguistic_similarity
+  target: Analects IX, vii
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage gives only the cross-reference and does not provide
+    the Analects passage itself, so no stronger motif or historical claim is supported
+    here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19627-19628
+  quote_or_summary: '"There is no body but eats and drinks. But they are few who can
+    distinguish flavors."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: commentary following Chapter IV, within lines 19627-19782
+  quote_or_summary: The commentary says the flavor example illustrates that people
+    may discern and practice the Mean in the actions of ordinary life without seeking
+    extraordinary things.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:3
+  type: quote
+  locator: Chapter V, within lines 19627-19782
+  quote_or_summary: '"Alas! How is the path of the Mean untrodden!"'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: Chapter VI, within lines 19627-19782
+  quote_or_summary: The Master says Shun was greatly wise, loved to question others
+    and study their words, concealed what was bad and displayed what was good, took
+    hold of two extremes, determined the Mean, and employed it in governing the people.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: commentary on Chapter VI, within lines 19627-19782
+  quote_or_summary: The commentary says Shun invited opinions, found value in simple
+    sayings, determined the Mean, encouraged free speech, and includes an explicit
+    comparison reference to Analects IX, vii.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:6
+  type: summary
+  locator: Chapter VII, within lines 19627-19782
+  quote_or_summary: The Master says men all claim wisdom, but if driven into a net,
+    trap, or pitfall they do not know how to escape; likewise, if they choose the
+    Mean, they cannot keep it for a round month.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:8
+  type: summary
+  locator: Chapter VIII, within lines 19627-19782
+  quote_or_summary: The Master says Hui chose the Mean and, whenever he got hold of
+    what was good, clasped it firmly as if wearing it on his breast and did not lose
+    it.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:9
+  type: summary
+  locator: Chapter IX, within lines 19627-19782
+  quote_or_summary: The Master says kingdoms, states, and families may be ruled; dignities
+    and emoluments may be declined; naked weapons may be trampled underfoot; but the
+    course of the Mean cannot be attained to.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear enough for literal extraction, though OCR artifacts
+    and the philosophical rather than mythic character of the text make motif classification
+    broad and in need of review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the provided list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l19627-l19782
+  passage_sha256=a7cc3a8e2178ffdfb8780e30a40a8519db8582d07dcda44b193bd50be439f83d
+

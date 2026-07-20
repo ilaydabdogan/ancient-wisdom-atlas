@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l3492-l3522
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: NGOMBA'S   BALLOON. / NGOMBA'S  BALLOON.  51 / NGOMBA'S  BALLOON.  53 / THE   WICKED  HUSBAND.;
+    lines 3492-3522
+  start: '3492'
+  end: '3522'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A husband complains that his wife uses too many palm-nuts. The wife says
+    his relations ask her for them until they are gone. He orders her to accompany
+    him to the distant palm-trees and carry nuts back, despite her refusal and her
+    household work. He drags her into the woods, places her on a rough table, cuts
+    off her arms and legs, leaves her there, and returns to town claiming she has
+    gone to visit her relations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The husband complains that he continually cuts palm-nuts and asks what his
+    wife does with them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wife says the husband's relations come one after another asking for palm-nuts
+    until they are all gone.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The husband says the palm-trees are far away and tells his wife she can come
+    with him and carry palm-nuts back.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The wife refuses to go, saying she has just put mandioca in the water.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The husband insists that the wife must go and drags her after him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the woods, the husband places the wife on a rough table he had constructed
+    and cuts off her arms and legs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the mutilation, the wife wriggles her body and sings that if she had
+    never married she would not have come to this.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The husband leaves the wife and returns to his town, telling people that she
+    has gone to visit her relations.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: husband
+  description: The wife's husband; he complains about palm-nuts, forces his wife into
+    the woods, mutilates her, leaves her, and gives a false explanation in town.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: wife
+  description: The husband's wife; she distributes palm-nuts to his relations, refuses
+    the distant trip because of mandioca in water, is dragged into the woods, mutilated,
+    and sings a lament.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: husband's relations
+  description: A group described by the wife as repeatedly coming to ask her for palm-nuts.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: people in the husband's town
+  description: People whom the husband tells that his wife has gone to visit her relations.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: complaining husband
+  assigned_to:
+  - fig:1
+  basis: He complains about repeatedly cutting palm-nuts and questions what his wife
+    does with them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: coercer and assailant
+  assigned_to:
+  - fig:1
+  basis: He insists his wife must go, drags her, and cuts off her arms and legs in
+    the woods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: deceiver of the town
+  assigned_to:
+  - fig:1
+  basis: He returns to town and says his wife has gone to visit her relations after
+    leaving her in the woods.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: resource distributor
+  assigned_to:
+  - fig:2
+  basis: She says she gives palm-nuts to the husband's relations when they ask.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: coerced wife
+  assigned_to:
+  - fig:2
+  basis: She refuses the trip, but the husband drags her after him.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: mutilated victim and lamenter
+  assigned_to:
+  - fig:2
+  basis: Her arms and legs are cut off, and she sings a lament about having married.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: requesting relatives
+  assigned_to:
+  - fig:3
+  basis: They are described as coming one after another to ask for palm-nuts.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: town audience
+  assigned_to:
+  - fig:4
+  basis: They receive the husband's statement about his wife's absence.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: palm-nuts and palm-trees
+  literal_form: Palm-nuts requested and consumed; palm-trees located far away.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: mandioca in water
+  literal_form: Mandioca placed in water as ongoing household work.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: woods
+  literal_form: Woods where the husband takes the wife and attacks her.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: rough table
+  literal_form: A rough table constructed by the husband and used to place the wife
+    on before mutilating her.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: argument over palm-nuts
+  summary: The husband complains about cutting many palm-nuts, and the wife explains
+    that his relations take them when they ask.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: forced journey toward the palm-trees
+  summary: The husband tells the wife to go with him to the distant palm-trees and
+    carry the nuts back; she refuses because of mandioca in water, but he drags her
+    along.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: mutilation in the woods and lament
+  summary: In the woods, the husband puts the wife on a rough table, cuts off her
+    arms and legs, and she sings a lament about marriage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: false report in town
+  summary: The husband leaves the wife and returns to his town, telling people that
+    she has gone to visit her relations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: resource dispute leading to coerced journey
+  taxonomy_refs: []
+  basis: A dispute over palm-nuts leads the husband to force the wife to go with him
+    to the distant place where palm-trees grow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly identifies this motif; label is descriptive.
+- id: motif:2
+  label: spouse mutilated and abandoned in the woods
+  taxonomy_refs: []
+  basis: The husband takes the wife into the woods, cuts off her arms and legs, and
+    leaves her there.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage excerpt ends after the husband's false report, so any later
+    outcome is not included.
+- id: motif:3
+  label: victim's lament after marital violence
+  taxonomy_refs: []
+  basis: After being mutilated, the wife sings that if she had never married she would
+    not have come to this condition.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The lament is explicit, but broader ritual or symbolic significance is
+    not stated in the passage.
+- id: motif:4
+  label: false explanation for a missing wife
+  taxonomy_refs: []
+  basis: After leaving his wife in the woods, the husband tells townspeople that she
+    has gone to visit her relations.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not show whether the deception is believed or later exposed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3494-3497
+  quote_or_summary: The husband says he is forever cutting palm-nuts and asks what
+    his wife does with them, saying one day's cutting should keep her for a week.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3499-3503
+  quote_or_summary: The wife replies that the husband's relations come one after another
+    asking for palm-nuts until they are gone, and asks whether she can refuse them.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3505-3515
+  quote_or_summary: The husband says the palm-trees are far away and tells the wife
+    to come and carry nuts back; she says she cannot because she has put mandioca
+    in the water, refuses to go, and he drags her after him.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3517-3519
+  quote_or_summary: In the woods, the husband places the wife on a rough table he
+    had constructed and cuts off her arms and legs.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 3519-3521
+  quote_or_summary: 'The wife wriggles her body and sings: "Oh, if I had never married,
+    I could never have come to this."'
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short quote.
+- id: ev:6
+  type: summary
+  locator: lines 3521-3522
+  quote_or_summary: The husband leaves her, returns to his town, and tells people
+    that his wife has gone to visit her relations.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal events and roles are explicit in the passage. Motif labels are descriptive
+    and not mapped to supplied motif-family taxonomy. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied line range was used; the excerpt appears to be the opening portion of a longer tale.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l3492-l3522
+  passage_sha256=6fe07171c57228075e6410c988a12265438164b6b53c4efee109eb548e0e690e
+

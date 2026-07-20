@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l10780-l10792
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: MAC IAIN DIREACH. 351 / MAC IAIN DIREACH. 353 / HIAC IAIN DIREACII. 355 /
+    SGEULACHD MIC IAIN DIRICH. 357; lines 10780-10792
+  start: '10780'
+  end: '10792'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Keep thou thy herds to thyself"'
+  summary: A speaker offers permission to take from the flock and promises that servants
+    will not harm the addressee or his race. Gille Mairtean refuses the herds, saying
+    he can find flesh elsewhere. The Fox blesses the son of Upright John, who departs,
+    and the tale ends.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker says the addressee may take one of the flock and that servants will
+    be told not to shoot or kill him or any of his race.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gille Mairtean tells the speaker to keep the herds and says he can obtain
+    flesh elsewhere without troubling the speaker.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Fox gives a blessing to the son of Upright John.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The son of Upright John goes away, and the tale ends.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed herd-owner speaker
+  description: A figure with servants, herds, and a flock, who offers permission to
+    take from the flock and promises non-harm.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gille Mairtean
+  description: A named speaker who refuses the herds and says he will obtain flesh
+    elsewhere.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the Fox
+  description: An animal figure who gives a blessing to the son of Upright John.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: son of Upright John
+  description: The recipient of the Fox's blessing; he goes away at the end of the
+    tale.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: servants
+  description: Servants whom the unnamed speaker says he will instruct not to shoot
+    or kill the addressee or his race.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: offer-maker and protector through command
+  assigned_to:
+  - fig:1
+  basis: The figure offers access to the flock and says servants will be instructed
+    not to shoot or kill.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: refuser of offered herds
+  assigned_to:
+  - fig:2
+  basis: Gille Mairtean rejects the herds and says food can be obtained elsewhere.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: blessing-giver
+  assigned_to:
+  - fig:3
+  basis: The Fox gives a blessing to the son of Upright John.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: blessing-recipient and departing figure
+  assigned_to:
+  - fig:4
+  basis: The son of Upright John receives the blessing and goes away.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: restrained potential attackers
+  assigned_to:
+  - fig:5
+  basis: The servants are described as people who might otherwise let an arrow fly
+    or kill, but will be ordered not to.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: flock and herds
+  literal_form: herds, wethers, sheep, and flock
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: arrow
+  literal_form: an arrow that servants are told not to let at the addressee
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: blessing
+  literal_form: the Fox's blessing given to the son of Upright John
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Offer of flock and protection
+  summary: An unnamed herd-owning speaker permits the addressee to take an animal
+    from the flock and promises that servants will not shoot or kill him or his race.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Refusal of herds
+  summary: Gille Mairtean refuses the offered herds and says he can obtain flesh elsewhere
+    without troubling the speaker.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fox's blessing and departure
+  summary: The Fox blesses the son of Upright John, who then departs as the tale concludes.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: refusal of offered livestock
+  taxonomy_refs: []
+  basis: Gille Mairtean explicitly refuses the herds and says he can obtain flesh
+    elsewhere.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The broader narrative reason for the refusal is not present in this excerpt.
+- id: motif:2
+  label: animal figure blesses human protagonist
+  taxonomy_refs: []
+  basis: The Fox gives a blessing to the son of Upright John before he leaves.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the Fox's status, prior actions, or why it
+    blesses the protagonist.
+- id: motif:3
+  label: safe passage promised by command over servants
+  taxonomy_refs: []
+  basis: The unnamed speaker promises to command servants not to shoot or kill the
+    addressee or his race.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The addressee of the promise is not named within the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10780-10784
+  quote_or_summary: A speaker says the addressee may take one from the flock and promises
+    to tell servants not to shoot or kill him or any of his race.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 10786-10790
+  quote_or_summary: Gille Mairtean says, "Keep thou thy herds to thyself," and adds
+    that he can get flesh elsewhere without troubling the speaker.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 10790-10792
+  quote_or_summary: The Fox gives a blessing to the son of Upright John; he goes away,
+    and the tale ends.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    by the short closing passage and lack of wider narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt does not itself establish a comparison to another named tradition, corpus, or motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l10780-l10792
+  passage_sha256=ba8ae00e6bc455e32ce54115ce952d8795ea2385c9fd618f3f1fa062cc342eaa
+

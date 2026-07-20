@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l17204-l17321
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: HIEROGLYPHIC TEXT WITH TRANSLITERATION AND / TRANSLATION / A I I I I / T
+    III; lines 17204-17321
+  start: '17204'
+  end: '17321'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a transliterated Egyptian text with English translation.
+    A divine speaker asks that his children, the gods, be brought to him, describing
+    them as powerful and skilled in speech. The gods come to him amid weeping. Isis
+    comes with power, a skilled mouth, the breath of life, and incantations that destroy
+    diseases and make dead throats live. She addresses the father god and the passage
+    ends with mention of a snake.
+  language: English translation with transliterated Egyptian
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker asks that his children, identified as gods, be brought to him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The children-gods are described as mighty of words, skilful with their mouths,
+    and as having powers that reach to heaven.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker's children, described as every god there, come to him with cries
+    of weeping.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Isis comes with her power, her skilled mouth, the breath of life, and incantations.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Isis's incantations destroy diseases and that her word makes
+    dead throats live.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Isis addresses the father god with questions, and the passage then mentions
+    a snake.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Unnamed father god / divine speaker
+  description: A divine figure who asks for his children, the gods, to be brought
+    and is addressed by Isis as father god.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Children, the gods
+  description: The speaker's divine children, described as mighty of words, skilful
+    with their mouths, and powerful; they come to him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Isis
+  description: Isis comes with power, a skilled mouth, the breath of life, and incantations
+    that destroy diseases and make dead throats live.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Snake
+  description: A snake is mentioned at the end of Isis's speech in the provided passage.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Father god receiving summoned gods
+  assigned_to:
+  - fig:1
+  basis: The speaker asks that his children, the gods, be brought, and Isis addresses
+    him as father god.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Summoned divine children skilled in speech
+  assigned_to:
+  - fig:2
+  basis: The children-gods are summoned and described as mighty of words and skilful
+    with their mouths.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Life-giving ritual speaker and healer
+  assigned_to:
+  - fig:3
+  basis: Isis is described with a skilled mouth, the breath of life, incantations
+    that destroy diseases, and a word that makes dead throats live.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Life-giving speech and breath
+  literal_form: Isis's skilled mouth, breath of life, incantations, and word
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Snake
+  literal_form: A snake
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Summoning of the divine children
+  summary: A divine speaker asks for his children, the gods, to be brought to him;
+    they are described as powerful and skilled in speech, and they come with weeping
+    cries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Arrival and speech of Isis
+  summary: Isis comes with power, skilled speech, life-giving breath, and disease-destroying
+    incantations, then addresses the father god; the passage ends with mention of
+    a snake.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine children summoned to a father god
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The speaker calls for his children, the gods, and Isis later addresses him
+    as father god.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not identify the father god by name or give the full
+    narrative context.
+- id: motif:2
+  label: Life-giving incantation and healing speech
+  taxonomy_refs:
+  - resurrection
+  basis: Isis's incantations destroy diseases, and her word is said to make dead throats
+    live.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a strong life-restoring formula, but it does not narrate
+    a completed resurrection within the excerpt.
+- id: motif:3
+  label: Snake associated with divine crisis or inquiry
+  taxonomy_refs:
+  - serpent
+  basis: Isis questions the father god and the passage ends by mentioning a snake.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The excerpt breaks off immediately after the mention of the snake, so
+    the snake's role is not fully established here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17204-17321, opening invocation
+  quote_or_summary: The speaker asks that his children, the gods, be brought to him;
+    they are mighty of words, skilful with their mouths, and their powers reach to
+    heaven.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: 17204-17321, arrival of the gods
+  quote_or_summary: The children, every god there, come to him with cries of weeping.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: 17204-17321, arrival of Isis
+  quote_or_summary: Isis comes with her power, her skilled mouth, the breath of life,
+    and incantations; her incantations destroy diseases and her word makes dead throats
+    live.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: quote
+  locator: 17204-17321, closing speech
+  quote_or_summary: '"She said, What is this, 0 father god ? What is it ? A snake"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; short quotation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by the fragmentary line range and mixed transliteration/translation
+    format. No comparison claims are made because the passage itself does not compare
+    traditions or explicitly invoke an external motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to available refs and are applied cautiously.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l17204-l17321
+  passage_sha256=9871589fbcc60746d97f1fed481890bd22ca8412d2d61bbd89ea16efb1f78df3
+

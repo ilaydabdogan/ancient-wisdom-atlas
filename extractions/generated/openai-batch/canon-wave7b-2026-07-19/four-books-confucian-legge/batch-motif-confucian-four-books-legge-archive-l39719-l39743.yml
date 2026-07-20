@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l39719-l39743
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: 'PIRE BY THE GIFT OF HEAVEN. VOX / THE WORKS OF MKNCIUS / J- 5: THE WORKS
+    OF MENCIUS / THE WORKS OF MEKCIUS 811; lines 39719-39743'
+  start: '39719'
+  end: '39743'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage compares wisdom to skill and sageness to strength through
+    the example of shooting at a mark a thousand paces away: strength makes the shot
+    reach the mark, but hitting it is not attributed to strength. The surrounding
+    note discusses concerted music, blended instruments, signals of commencement and
+    close, and a comment contrasting other worthies with Confucius, who is described
+    as complete and as a harmonious air of heaven.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Wisdom is likened to skill, and sageness is likened to strength.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The example used is shooting at a mark a thousand paces distant.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Reaching the mark is attributed to strength, while hitting the mark is said
+    not to be owing to strength.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A note describes a concert in which the separate music of various instruments
+    is blended together, with signals marking commencement and close.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A quoted observation says the other three worthies carried one point to an
+    extreme, while Confucius was complete in everything.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The other worthies are compared to seasons, while Confucius is compared to
+    the grand harmonious air of heaven.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: generic shooter
+  description: A person in the analogy who shoots at a mark a thousand paces distant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the other three worthies
+  description: A group described as having carried one point to an extreme and compared
+    to seasons.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Confucius
+  description: Described as complete in everything and compared to the grand harmonious
+    air of heaven.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: archer in analogy
+  assigned_to:
+  - fig:1
+  basis: The figure shoots at a mark a thousand paces distant in the illustrative
+    comparison.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: partial worthies in comparison
+  assigned_to:
+  - fig:2
+  basis: They are described as carrying one point to an extreme and as comparable
+    to seasons.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: complete exemplar
+  assigned_to:
+  - fig:3
+  basis: Confucius is described as complete in everything and compared to a harmonious
+    air of heaven.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: distant mark
+  literal_form: a mark a thousand paces distant
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: concert of blended instruments
+  literal_form: the separate music of the various instruments blended together
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: opening and closing signals
+  literal_form: signals of commencement and close
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: seasons
+  literal_form: the seasons
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: harmonious air of heaven
+  literal_form: the grand harmonious air of heaven
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Shooting analogy for wisdom and sageness
+  summary: Wisdom and sageness are explained by comparison to skill and strength in
+    shooting at a very distant mark; strength accounts for reaching the mark, but
+    not for hitting it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Musical and exemplary comparison in note
+  summary: The note describes a concert of blended instruments with opening and closing
+    signals, then contrasts other worthies with Confucius through images of seasons
+    and a harmonious air of heaven.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wisdom and sageness differentiated through skill and strength
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly likens wisdom to skill and sageness to strength, then
+    distinguishes reaching a target from hitting it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a philosophical analogy rather than a narrative mythic episode.
+- id: motif:2
+  label: complete sage as cosmic or musical harmony
+  taxonomy_refs:
+  - wisdom
+  basis: The note says Confucius was complete in everything and compares him to the
+    grand harmonious air of heaven, near a discussion of concerted music.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The wording appears in a commentary or note with OCR/transcription noise,
+    so its relation to the main aphorism should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 39719-39725
+  quote_or_summary: "“As a comparison for wisdom, we may liken it to skill, and as
+    a comparison for sageness, we may liken it to strength”; the example is shooting
+    at a mark a thousand paces distant."
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 39726-39737
+  quote_or_summary: A note explains a concert as the blended separate music of various
+    instruments and describes certain items as signals of the concert’s commencement
+    and close.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 39737-39743
+  quote_or_summary: A note says “the other three worthies” carried one point to an
+    extreme, while “Confucius was complete in every thing,” comparing them to seasons
+    and Confucius to “the grand harmonious air of heaven.”
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main wisdom/sageness analogy is clear. The surrounding commentary is
+    fragmentary and includes OCR or transcription noise, so symbols and motifs drawn
+    from those notes need review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external comparison claims were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l39719-l39743
+  passage_sha256=6543637dc57635d585aafba0a4874353be69aeb2ce55c0e961c0083dc551826f
+

@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l8781-l8860
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BULLETIN  E1      PLATE  V / E-BUFFALO-WALKINQ / BUREAU  OF  AMERICAN  ETHNOLOOV  BULLETIN  61     PLATE  13
+    / TETON   BIOUX  MUSIC; lines 8781-8860
+  start: '8781'
+  end: '8860'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A song titled “The Many Lands You Fear,” sung by Siya'ka, addresses friends
+    and says that the singer has walked without fear in the many lands they fear and
+    seeks black face-paint. The passage also gives musical notation, drum rhythm,
+    word glosses, and a brief analysis of intervals, scale, and rhythmic units.
+  language: English with transcribed Lakota/Dakota terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The song is identified as No. 8, “The Many Lands You Fear,” Catalogue No.
+    450.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The song is attributed as sung by Siya'ka.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The song text addresses “friends.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The glossed text refers to “the many lands” that the addressees fear.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The first-person speaker says he has walked in those lands without fear.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The first-person speaker says he seeks black face-paint.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The musical analysis says the song contains many minor thirds, a five-toned
+    scale, a tonic triad in one measure, and two rhythmic units.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Siya'ka
+  description: Named singer of the song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: first-person speaker
+  description: The “I” of the glossed song text, who has walked without fear and seeks
+    black face-paint.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: friends
+  description: Addressees named in the glossed song text.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The passage states that the song was sung by Siya'ka.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fearless walker
+  assigned_to:
+  - fig:2
+  basis: The first-person speaker says he has walked without fear in the feared lands.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seeker of black face-paint
+  assigned_to:
+  - fig:2
+  basis: The first-person speaker says he seeks the black face-paint.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: addressed friends
+  assigned_to:
+  - fig:3
+  basis: The gloss begins with “friends” and speaks to those who fear the many lands.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: many lands
+  literal_form: the many lands feared by the addressees
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: black face-paint
+  literal_form: black face-paint sought by the first-person speaker
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fearless walking in feared lands
+  summary: The first-person speaker tells friends that he has walked without fear
+    in the many lands they fear.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Seeking black face-paint
+  summary: The first-person speaker states that he seeks black face-paint.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Musicological analysis
+  summary: The passage analyzes the song’s intervals, scale material, tonic triad,
+    and rhythmic units.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: fearless passage through feared lands
+  taxonomy_refs: []
+  basis: The song contrasts the addressees’ fear of many lands with the speaker’s
+    claim to have walked in them without fear.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a short song text and does not provide a fuller narrative
+    journey or ritual context.
+- id: motif:2
+  label: quest for black face-paint
+  taxonomy_refs: []
+  basis: The speaker explicitly says he seeks black face-paint.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not explain the function, ritual use, or symbolic meaning
+    of the face-paint.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8781-8784
+  quote_or_summary: 'Song heading: No. 8, “The Many Lands You Fear” / Catalogue No.
+    450; sung by Siya''ka.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short citation/summary used.
+- id: ev:2
+  type: quote
+  locator: lines 8800-8813
+  quote_or_summary: "“friends”; “the many lands”; “you fear”; “in them without fear
+    I have walked.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 8815-8817
+  quote_or_summary: "“the black face-paint”; “I seek.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 8819-8841
+  quote_or_summary: The analysis describes the number of minor thirds, the fourth
+    five-toned scale, the brief appearance of the tonic triad, and two rhythmic units.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage provides a brief song text with glosses and musical analysis.
+    Motif interpretation is limited because the passage gives little narrative or
+    ritual context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include lands or face-paint. No comparison claims were added because the passage itself does not support cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l8781-l8860
+  passage_sha256=a05a777663492affb0f45875ba6b80451a9675ba66e1a73c04e5b8e2f195aa2a
+

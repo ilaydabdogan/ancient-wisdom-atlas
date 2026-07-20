@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol6-archive-l14350-l14418
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+passage_locator:
+  label: J.  VI.  12 / J.  VI.  13 / J.  VI.  10 / J.  VI.  16; lines 14350-14418
+  start: '14350'
+  end: '14418'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. VI
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A female ascetic privately tests the king with a hypothetical question
+    about sacrificing companions to a water-demon at sea. The king says he would give
+    up kin, friend, brahmin, and himself before giving up Mahosadha. The ascetic repeats
+    the test publicly, praises the king's mother, and the king replies by acknowledging
+    her merits but naming faults for which he would give her to the water-demon.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ascetic chooses to ask the king privately in order to discover whether
+    he has goodwill toward the wise man.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ascetic's question imagines seven people voyaging on the ocean, a demon
+    seeking a human sacrifice seizing the ship, and an order in which people would
+    be surrendered to a water-demon.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The king answers that he would give up his mother, wife, brother, friend,
+    brahmin, and himself, but not Mahosadha.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ascetic interprets the answer as revealing the king's goodwill toward
+    the Great Being, then repeats the exchange before the inner palace residents.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The ascetic praises the king's mother as one who bore and reared him, was
+    kind to him, and saved him from harm by putting a counterfeit in his place.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A note explains that Queen Talata deceived the brahmin who wanted to kill
+    the boy and devised a plan to save him.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The king acknowledges his mother's merits but says her faults include wearing
+    unsuitable ornaments, mocking doorkeepers and guards, and sending messages unbidden
+    to rival kings.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: female ascetic
+  description: A female ascetic who questions the king, first privately and then before
+    the inner palace residents.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: the king
+  description: The ruler who answers the ascetic's question and ranks whom he would
+    surrender to the water-demon.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Mahosadha / the wise man / the Great Being
+  description: The wise man whom the king says he would not give up to the water-demon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: the king's mother / Queen Talata
+  description: The king's mother, praised for bearing, rearing, and saving him, but
+    also named by the king as first in the order of surrender.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: water-demon
+  description: A demon in the hypothetical question who seeks a human sacrifice and
+    seizes the ship.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: wife, brother, friend, and brahmin
+  description: Other persons named by the king in his ordered list of those he would
+    surrender before Mahosadha.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: denizens of the inner palace
+  description: The audience gathered by the ascetic when she repeats the question
+    publicly.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Chambhi / the brahmin
+  description: The chaplain or brahmin in the explanatory note who fears the boy and
+    plans to kill him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: questioner and tester
+  assigned_to:
+  - fig:1
+  basis: She asks the king a carefully chosen private question to discover his goodwill
+    toward the wise man, then repeats it publicly.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: ruler and respondent
+  assigned_to:
+  - fig:2
+  basis: He receives the ascetic, sends attendants away, and answers her question.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: protected wise man
+  assigned_to:
+  - fig:3
+  basis: The king says he would not give up Mahosadha even after naming others and
+    himself.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: proposed surrender to the water-demon
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:6
+  basis: The king names his mother, wife, brother, friend, brahmin, and himself in
+    the order he would give them up.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: mother and rescuer
+  assigned_to:
+  - fig:4
+  basis: The ascetic says the mother bore, reared, and saved the king by putting a
+    counterfeit in his place; the note names Queen Talata's deception of the brahmin.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: demanding demon
+  assigned_to:
+  - fig:5
+  basis: The question describes a demon seeking a human sacrifice and a water-demon
+    to whom people might be given.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: public audience
+  assigned_to:
+  - fig:7
+  basis: The ascetic collects the denizens of the inner palace and repeats the question
+    in their presence.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: background threatener
+  assigned_to:
+  - fig:8
+  basis: The note says the brahmin decided to kill the boy because he feared the boy
+    would later take the kingdom.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: ocean water
+  literal_form: The ocean and the water-demon in the ascetic's hypothetical question.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ship at sea
+  literal_form: A ship carrying seven voyagers and seized by a demon.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: number seven
+  literal_form: Seven persons voyaging on the ocean in the hypothetical question.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: counterfeit substitute
+  literal_form: A counterfeit put in the king's place to save him from harm.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: private test of the king
+  summary: The ascetic asks the king in private how he would respond if a water-demon
+    demanded a human sacrifice from seven voyagers at sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: king's ordered answer
+  summary: The king states an order of surrender that includes his mother, wife, brother,
+    friend, brahmin, and himself, but excludes Mahosadha.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: public repetition and praise
+  summary: The ascetic repeats the question before the inner palace residents, receives
+    the same answer, and praises the king's mother for her past care and rescue of
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: mother's faults stated
+  summary: The king acknowledges his mother's claims but lists faults that he says
+    justify giving her to the water-demon.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: human sacrifice demanded by a water-demon
+  taxonomy_refs:
+  - sacrifice
+  basis: The embedded question explicitly describes a demon seeking a human sacrifice
+    and asks whom the king would give to the water-demon.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The sacrifice scenario is hypothetical within the passage rather than
+    an enacted event.
+- id: motif:2
+  label: wisdom figure tested through a dilemma question
+  taxonomy_refs:
+  - wisdom
+  basis: The ascetic uses a hypothetical dilemma to discover and publicly reveal the
+    king's goodwill toward Mahosadha, the wise man.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the test as a strategy by the ascetic; it does not
+    define a formal initiation or trial category.
+- id: motif:3
+  label: wise counselor valued above kin and self
+  taxonomy_refs:
+  - wisdom
+  basis: The king says he would surrender close kin and even himself but would not
+    give up Mahosadha.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a value-ranking in response to a hypothetical question, not an
+    actual sacrifice.
+- id: motif:4
+  label: substitute used to save a threatened child or prince
+  taxonomy_refs: []
+  basis: The ascetic says the mother saved the king by putting a counterfeit in his
+    place, and the note explains that she deceived the brahmin who planned to kill
+    the boy.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The substitution episode is summarized as background in the passage and
+    note, not narrated in full here.
+comparison_claims:
+- id: claim:1
+  claim: The embedded water-demon dilemma can be compared at motif-family level to
+    sacrifice because the demon explicitly seeks a human sacrifice.
+  claim_level: same_motif
+  target: sacrifice
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives this as a hypothetical test question rather than
+    as an actual ritual or completed sacrifice.
+- id: claim:2
+  claim: 'The questioning scene has the same broad function as wisdom-test patterns:
+    a dilemma question reveals the king''s judgment and loyalty toward a wise figure.'
+  claim_level: same_function
+  target: wisdom
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports functional similarity only; it does not itself
+    compare this scene with another text or tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14350-14359
+  quote_or_summary: The ascetic decides not to act as a spy and asks to speak privately
+    with the king to discover whether he has goodwill toward the wise man.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 14360-14365
+  quote_or_summary: "“If there were seven of you voyaging on the ocean, and a demon
+    seeking for a human sacrifice should seize the ship,” the king is asked in what
+    order he would give them up to save himself from the water-demon."
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 14367-14370
+  quote_or_summary: "“First I would give my mother, next my wife, next my brother,
+    fourth my friend, fifth my brahmin, sixth myself, but I would not give up Mahosadha.”"
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 14371-14379
+  quote_or_summary: The ascetic discovers the king's goodwill toward the Great Being,
+    gathers the inner palace denizens, asks the same question, and receives the same
+    answer.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 14380-14387
+  quote_or_summary: The ascetic praises the king's mother for bearing and rearing
+    him, being kind, acting wisely when Chambhi offended, and saving him by putting
+    a counterfeit in his place.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 14390-14411
+  quote_or_summary: A note identifies the mother as Queen Talata and says she deceived
+    the brahmin who wanted to kill the boy after fearing he would later take the kingdom.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 14413-14418
+  quote_or_summary: The king says his mother's virtues are many but her faults are
+    more numerous, including unsuitable ornaments, mocking guards, and sending messages
+    to rival kings; for these he would give her to the water-demon.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the questioning scene and the king's answer.
+    Motif labeling is limited by the fact that the demon-sacrifice episode is a hypothetical
+    dilemma within the narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to supplied lists.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol6-archive__l14350-l14418
+  passage_sha256=11e9518e3ea10cd0bc8bd345cdbadd2f34ad902481ffaded9365784727dfae92
+

@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l7302-l7319
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: CHAPTER V / CHAPTER VI / CHAPTER VII / CHAPTER VIII; lines 7302-7319
+  start: '7302'
+  end: '7319'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage cites a Book of Leinster notice about Connla's seafaring to
+    the Land of Promise and Art Oil remaining alone, notes a retelling of Cormac's
+    adventures at Manannan's court that calls the mystic country tir tairngeri, and
+    argues that this supports the early, pre-Christian character of the Irish Elysium
+    while excluding Irish-Christian vision texts from the investigation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A history of Ireland preserved in the Book of Leinster is said to mention
+    Connla's seafaring to the Land of Promise and Art Oil remaining alone afterward.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Connla is identified as the ruddy son of Conn.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A late retelling of Cormac's adventures at Manannan's court is said to describe
+    the mystic country as tir tairngeri.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author states that the evidence supports Professor Zimmer's contention
+    about the early and pre-Christian nature of the Irish Elysium.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author says that Irish-Christian texts such as the Vision of Fursa, Tundale's
+    Vision, and The Purgatory of Patrick are intentionally not cited in order to focus
+    on the origin of the account found in Bran.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Connla
+  description: Named as the ruddy son of Conn who undertook seafaring to the Land
+    of Promise.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Conn
+  description: Named as Connla's father in the phrase identifying Connla as son of
+    Conn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Art Oil
+  description: Said to have remained alone after Connla's seafaring.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Cormac
+  description: Named as the subject of adventures at Manannan's court.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Manannan
+  description: Named in connection with the court where Cormac's adventures occur.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: seafarer to the Land of Promise
+  assigned_to:
+  - fig:1
+  basis: Connla is described as making a seafaring to the Land of Promise.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: son of Conn
+  assigned_to:
+  - fig:1
+  basis: Connla is called the ruddy son of Conn.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named father
+  assigned_to:
+  - fig:2
+  basis: Conn is named as Connla's father.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: one left alone
+  assigned_to:
+  - fig:3
+  basis: Art Oil is said to have remained alone after Connla's seafaring.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: adventurer at Manannan's court
+  assigned_to:
+  - fig:4
+  basis: Cormac's adventures at Manannan's court are referenced.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: court-associated figure
+  assigned_to:
+  - fig:5
+  basis: The court is identified as Manannan's court.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Land of Promise / tir tairngire / tir tairngeri
+  literal_form: A promised or mystic country named as cotir tairngire and tir tairngeri,
+    and discussed as the Irish Elysium.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: seafaring route
+  literal_form: Connla's seafaring to the Land of Promise.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Manannan's court
+  literal_form: The court where Cormac's adventures occur.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Connla's seafaring and Art Oil left alone
+  summary: The cited Book of Leinster notice presents Connla as going by sea to the
+    Land of Promise, after which Art Oil remains alone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cormac's adventures at Manannan's court
+  summary: A later retelling is said to describe Cormac's adventures at Manannan's
+    court and to call the mystic country tir tairngeri.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Sea voyage to a promised or mystic otherworld
+  taxonomy_refs:
+  - afterlife_journey_map
+  - mystical_quest
+  basis: The passage cites Connla's seafaring to the Land of Promise and discusses
+    the evidence under the heading of an early Irish Elysium.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is a scholarly summary and does not narrate the voyage in
+    detail; the afterlife/otherworld classification depends on the passage's term
+    Irish Elysium.
+- id: motif:2
+  label: Adventures at an otherworldly court
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage refers to Cormac's adventures at Manannan's court and describes
+    the associated country as mystic.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not provide the episode's narrative content beyond the
+    court setting and the name of the mystic country.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats Connla's Land of Promise notice and Cormac's Manannan-court
+    adventures as evidence relevant to the early Irish Elysium and to the origin of
+    the account found in Bran.
+  claim_level: same_motif
+  target: Bran's account of the Irish Elysium / Land of Promise pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides a scholarly linkage rather than parallel narrative
+    details, and it explicitly excludes Irish-Christian vision texts from this line
+    of investigation.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7302-7305
+  quote_or_summary: '"after the seafaring of Connla, the ruddy son of Conn, to the
+    land of promise {cotir tairngire), Art Oil remained alone"'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:2
+  type: quote
+  locator: 7305-7308
+  quote_or_summary: '"Cormac''s adventures at Manannan''s court" are said to describe
+    "the mystic country as tir tairngeri."'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:3
+  type: summary
+  locator: 7310-7313
+  quote_or_summary: The author says the evidence generally supports Professor Zimmer's
+    contention about the early and pre-Christian nature of the Irish Elysium.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7315-7319
+  quote_or_summary: The author says Irish-Christian vision texts, including the Vision
+    of Fursa, Tundale's Vision, and The Purgatory of Patrick, are not cited so that
+    the investigation stays focused on what is needed to explain the origin of the
+    account found in Bran.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is secondary analysis with only brief references to narrative
+    episodes, so motif extraction is necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy IDs beyond the supplied available references were introduced.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l7302-l7319
+  passage_sha256=e68aaa9da346a1ca3d65effb1d00731c6bb1ec2a4f64b6783ef4fa6c5e860e81
+

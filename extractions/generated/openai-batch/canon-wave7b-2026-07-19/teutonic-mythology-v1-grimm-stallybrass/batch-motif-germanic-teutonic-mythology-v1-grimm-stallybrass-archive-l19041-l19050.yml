@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l19041-l19050
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: EIGIL.      TOKI.      IIEMIXG.      TELL.  381 / TELL.      EIGIL.  383
+    / HEROES.  385 / FIGUEK  387; lines 19041-19050
+  start: '19041'
+  end: '19050'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Unborn children, namely those that have been cut out of the womb, usually
+    grow up heroes.
+  summary: The passage states that children cut from the womb often become heroes,
+    gives examples from Persian, Tristan, Russian, and Scottish materials, and then
+    emphasizes Volsungr, who spoke and vowed before birth and kissed his mother after
+    being cut out before she died. A footnote cites printed vitae of Offa.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that children cut out of the womb usually grow up to be heroes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Examples named for this pattern include Rustem, Tristan, Dobrunii Nikititch,
+    and Macduff.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Volsungr is singled out as more relevant to the discussion.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Volsungr is described as speaking and making vows while still unborn.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After being cut out, Volsungr had time to kiss his mother before she died.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Children cut out of the womb
+  description: Unborn children who have been cut out of the womb and are said usually
+    to grow up as heroes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rustem
+  description: A famous Persian example named for the pattern of such children growing
+    up as heroes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Tristan
+  description: An example according to the old story in Eilhart.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Dobrunii Nikititch
+  description: A Russian hero named as an example.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Macduff
+  description: A Scottish example named in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Volsungr
+  description: A figure who spoke and made vows while unborn, was cut out, and kissed
+    his mother before she died.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Volsungr's mother
+  description: The mother whom Volsungr kissed after being cut out and before she
+    died.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: hero associated with birth by being cut from the womb
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage links being cut out of the womb with growing up as heroes and
+    names these figures as examples.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: unborn speaker
+  assigned_to:
+  - fig:6
+  basis: Volsungr is said to have spoken while yet unborn.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: unborn vow-maker
+  assigned_to:
+  - fig:6
+  basis: Volsungr is said to have made vows while yet unborn.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: dying mother
+  assigned_to:
+  - fig:7
+  basis: The passage says Volsungr kissed his mother before she died.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Heroic pattern of children cut from the womb
+  summary: The passage identifies a recurring pattern in which children cut out of
+    the womb are associated with later heroic status and names several examples.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Volsungr before and just after birth
+  summary: Volsungr speaks and vows while unborn; after being cut out, he kisses his
+    mother before her death.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: hero born by being cut from the womb
+  taxonomy_refs:
+  - miraculous_child
+  - sacred_birth
+  basis: The passage states that children cut out of the womb usually become heroes
+    and lists multiple heroic examples.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames the pattern comparatively, but the supplied taxonomy
+    has no exact caesarean-birth motif; taxonomy references are approximate.
+- id: motif:2
+  label: unborn child speaks and makes vows
+  taxonomy_refs:
+  - miraculous_child
+  basis: Volsungr is described as speaking and making vows before birth.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Only Volsungr is described with this specific feature in the passage.
+- id: motif:3
+  label: heroic newborn farewell to dying mother
+  taxonomy_refs:
+  - miraculous_child
+  basis: After being cut out, Volsungr kisses his mother before she dies.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives this detail only briefly and does not elaborate its
+    wider narrative function.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents Rustem, Tristan, Dobrunii Nikititch, Macduff,
+    and Volsungr as examples of a shared pattern in which a child cut from the womb
+    is connected with heroic identity.
+  claim_level: same_motif
+  target: Cross-traditional heroic birth by being cut from the womb
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage lists parallels but does not provide the full narratives
+    or argue historical contact, common inheritance, or direct dependence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 19041-19042
+  quote_or_summary: "“Unborn children, namely those that have been cut out of the
+    womb, usually grow up heroes.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 19042-19045
+  quote_or_summary: The passage names the Persian Rustem, Tristan in Eilhart's old
+    story, the Russian hero Dobrunii Nikititch, and the Scottish Macduff as examples.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 19045-19048
+  quote_or_summary: Volsungr is said to have spoken and made vows while unborn; after
+    being cut out, he had time to kiss his mother before she died, with citation to
+    Volsungasaga chapters 2 and 5.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: note
+  locator: 19049-19050
+  quote_or_summary: A footnote states that vitae of Offa the first and second are
+    printed after Watts's Matthew Paris.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward. Motif taxonomy mapping is approximate
+    because the available taxonomy does not include an exact 'cut from the womb' or
+    caesarean heroic birth category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols were extracted because the passage contains no concrete symbolic object from the supplied symbol taxonomy.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l19041-l19050
+  passage_sha256=8d6db9a4b702f86dc93897793411a2e1a3f2d6dd0a2df559d573dc082467951c
+

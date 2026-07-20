@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l27523-l27706
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 27523-27706
+  start: '27523'
+  end: '27706'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index page lists Egyptian names and cross-references beginning with
+    Kh-, including entries for Khenti-Tuat, Khepera, Khepesh, Kheti, Khnemu, Khu,
+    Khut, and related forms. The passage is an index, not a narrative episode.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index listing names and page references rather than a continuous
+    mythic narrative.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Khenti-Tuat is equated with Thoth in an index entry.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:3
+  text: Kheti is explicitly identified as a serpent.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Khepesh is explicitly identified as a constellation.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:5
+  text: Khnemu is listed with many related compound forms and with a separate entry
+    for seven forms of Khnemu.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: obs:6
+  text: Khu is indexed as a god of Light, as a ka of Ea, as a spirit, and as a Dekan.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Khut is indexed as a goddess, as Isis, as a magical ceremony, and in the place-name
+    Khut-Aten, city of.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kheti
+  description: Index entry identifies Kheti as a serpent.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Khu
+  description: Index entries associate Khu with Light, a ka of Ea, spirit, and Dekan.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Khut / Isis
+  description: Index entries name Khut as a goddess and identify Khut with Isis; the
+    same name is also used for a magical ceremony and in Khut-Aten.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Khnemu
+  description: Index entries list Khnemu, multiple compound forms of Khnemu, and the
+    seven forms of Khnemu.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:5
+  name_or_label: Khenti-Tuat / Thoth
+  description: Index entry equates Khenti-Tuat with Thoth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: serpent being
+  assigned_to:
+  - fig:1
+  basis: The entry glosses Kheti as a serpent.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: god of Light
+  assigned_to:
+  - fig:2
+  basis: The entry reads Khu as god of Light.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: spirit or ka-associated entry
+  assigned_to:
+  - fig:2
+  basis: The index lists Khu as a spirit and as the ka of Ea.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: goddess or Isis-associated name
+  assigned_to:
+  - fig:3
+  basis: The index lists Khut as goddess and as Isis.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: subject with seven forms
+  assigned_to:
+  - fig:4
+  basis: The index includes an entry for the seven forms of Khnemu.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: name equated with Thoth
+  assigned_to:
+  - fig:5
+  basis: The index states Khenti-Tuat equals Thoth.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: Kheti, identified as a serpent
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: constellation
+  literal_form: Khepesh, identified as a constellation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: seven forms
+  literal_form: The seven forms of Khnemu
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Light
+  literal_form: Light in the entry for Khu, god of Light
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: serpent figure indexed
+  taxonomy_refs:
+  - serpent
+  basis: The index explicitly identifies Kheti as a serpent.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage supplies only an index gloss; it gives no action, mythic function,
+    or episode involving the serpent.
+- id: motif:2
+  label: sevenfold manifestation or forms
+  taxonomy_refs: []
+  basis: The index includes an entry for the seven forms of Khnemu.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not describe the seven forms or narrate their function.
+- id: motif:3
+  label: divine name equivalence or identification
+  taxonomy_refs: []
+  basis: The index equates Khenti-Tuat with Thoth and separately identifies Khut with
+    Isis.
+  evidence_refs:
+  - ev:7
+  - ev:5
+  confidence: low
+  cautions: These are index cross-references or identifications, not a developed narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 27523-27706
+  quote_or_summary: Index page headed INDEX, listing entries from Khenti-ment through
+    Khut-Aten with volume and page references.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 27523-27706; entry for Kheti
+  quote_or_summary: '"Kheti (a serpent), i. 192"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 27523-27706; entry for Khnemu, the seven forms of
+  quote_or_summary: The index includes an entry for the seven forms of Khnemu, with
+    references to volume ii, pages 54 and 55.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 27523-27706; entries for Khu
+  quote_or_summary: Khu is indexed as a Dekan, god of Light, ka of Ea, and spirit.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 27523-27706; entries for Khut and Khut-Aten
+  quote_or_summary: Khut is indexed as a goddess, as Isis, and as a magical ceremony;
+    Khut-Aten is indexed as a city.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 27523-27706; entry for Khepesh
+  quote_or_summary: '"Khepesh, constellation, ii. 249"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 27523-27706; entry for Khenti-Tuat
+  quote_or_summary: '"Khenti - Tuat = Thoth, i. 226"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 27523-27706; entries for Khnemu and compound forms
+  quote_or_summary: The index lists Khnemu with many references and includes related
+    forms such as Khnemu-Ba-neb-Tet, Khnemu-Hapi, Khnemu-Nu, Khnemu-Osiris, Khnemu-Seb,
+    and Khnemu-Shu.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is limited to explicit index descriptors and cross-references.
+    Motif confidence is low because the passage is not a narrative and gives no mythic
+    actions or functions beyond brief labels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were extracted because the passage itself does not compare traditions or develop motif functions; it only provides index entries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l27523-l27706
+  passage_sha256=2493d9cb5a8eec4cb1633cab1b8ab39cb4989e5368a3ff7f460f46a18b5086c7
+

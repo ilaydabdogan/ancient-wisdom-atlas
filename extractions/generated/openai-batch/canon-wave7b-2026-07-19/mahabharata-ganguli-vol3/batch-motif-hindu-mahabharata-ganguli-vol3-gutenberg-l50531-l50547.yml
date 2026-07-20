@@ -1,0 +1,203 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l50531-l50547
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCLIX / SECTION CCLX / SECTION CCLXI / SECTION CCLXII; lines 50531-50547
+  start: '50531'
+  end: '50547'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: How hast thou succeeded in acquiring a certitude or stability of understanding?
+  summary: In a framed narration, Jajali asks Tuladhara, a trader who sells juices,
+    scents, and plant products, how he gained stable understanding and knowledge.
+    Bhishma then reports that Tuladhara, a Vaisya acquainted with morality, discoursed
+    to the ascetic Jajali on moral ways.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Bhishma frames the exchange by saying that Jajali replied after being addressed
+    by Tuladhara.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jajali is described as highly intelligent and as a foremost ascetic.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jajali says that Tuladhara sells juices, scents, materials from large trees,
+    herbs, fruits, and roots.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jajali asks Tuladhara how he obtained stability of understanding and where
+    his knowledge came from.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Bhishma describes Tuladhara as of the Vaisya order, acquainted with truths
+    concerning morality, and contented with knowledge.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Tuladhara discourses to Jajali, who had undergone severe penances, on the
+    ways of morality.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Bhishma
+  description: Speaker who frames and continues the narration of the exchange.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Jajali
+  description: A Brahmana and foremost ascetic of great intelligence who questions
+    Tuladhara about knowledge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Tuladhara
+  description: A trader of the Vaisya order, described as intelligent, knowledgeable,
+    and acquainted with morality.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: frame narrator
+  assigned_to:
+  - fig:1
+  basis: Bhishma introduces and continues the narration of Jajali and Tuladhara's
+    exchange.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: questioning ascetic
+  assigned_to:
+  - fig:2
+  basis: Jajali, described as an ascetic and Brahmana, asks Tuladhara about the origin
+    of his knowledge.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: knowledgeable trader and moral instructor
+  assigned_to:
+  - fig:3
+  basis: Tuladhara is associated with trade goods and is said to discourse on morality
+    with knowledge.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: tree-derived and herbal trade goods
+  literal_form: Juices, scents, barks and leaves of large trees, herbs, fruits, and
+    roots sold by Tuladhara.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Jajali questions Tuladhara about knowledge
+  summary: Jajali names Tuladhara's trade goods and asks how he gained stable understanding
+    and knowledge.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Tuladhara begins a moral discourse
+  summary: Bhishma reports that Tuladhara, described as knowledgeable about morality,
+    discoursed to the ascetic Jajali on moral ways.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wisdom found in a trader and moral discourse to an ascetic
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on Jajali's question about the source of Tuladhara's
+    stable understanding and on Tuladhara's ensuing discourse on morality.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt introduces the wisdom discourse but does not include the substantive
+    teaching, so the motif assignment is limited to the framing situation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: SECTION CCLXII, lines 50531-50534
+  quote_or_summary: Bhishma says that, after Tuladhara addressed him, Jajali, described
+    as very intelligent and a foremost ascetic, spoke to Tuladhara.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: SECTION CCLXII, lines 50536-50541
+  quote_or_summary: Jajali says Tuladhara sells juices, scents, tree products, herbs,
+    fruits, and roots, then asks how he gained 'a certitude or stability of understanding'
+    and where the knowledge came from.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief excerpt and summary.
+- id: ev:3
+  type: summary
+  locator: SECTION CCLXII, lines 50543-50547
+  quote_or_summary: Bhishma states that Tuladhara, a Vaisya acquainted with moral
+    truth and contented with knowledge, discoursed to Jajali, who had undergone severe
+    penances, on morality.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    this short passage mainly frames a discourse rather than presenting its full content.
+    No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unstated comparisons used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l50531-l50547
+  passage_sha256=d5eeb076c33490ac23a758b6bd6df7fb14572a7edda5330c304751abb4d4a752
+

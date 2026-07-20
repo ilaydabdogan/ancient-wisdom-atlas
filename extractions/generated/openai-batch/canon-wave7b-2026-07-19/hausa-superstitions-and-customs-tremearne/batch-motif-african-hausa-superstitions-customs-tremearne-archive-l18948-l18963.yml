@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l18948-l18963
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: THE  POOR   MAID   BECOMES   RICH     425 / THE  POOR   MAID   BECOMES   RICH     427
+    / DAN-KUCHINGAYA  AND  THE  WITCH. / DAN-KUCHINGAYA  AND  THE  WITCH  429; lines
+    18948-18963
+  start: '18948'
+  end: '18963'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A tale opens with Dan-Kuchingaya and his two brothers courting maidens
+    who are daughters of a witch, though the boys do not know this. The boys go to
+    the maidens' house, food is prepared for them, they go outside while it is being
+    cooked, and they come upon the witch combing the plaits of one daughter.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed “Dan-Kuchingaya and the Witch.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'There are three boys: Dan-Kuchingaya and his two brothers.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The boys are courting maidens.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The maidens are daughters of a witch, and the boys do not know this.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The boys go to the maidens' house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After the boys arrive, food is prepared for them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The boys go outside to walk about while the food is being cooked.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The boys come upon the witch combing the plaits of one of her daughters.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dan-Kuchingaya
+  description: A named boy, one of three boys, who is courting maidens with his two
+    brothers.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Dan-Kuchingaya's two brothers
+  description: The two brothers of Dan-Kuchingaya, included among the three boys courting
+    the maidens.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: The maidens / daughters of the witch
+  description: Maidens courted by the boys; they are daughters of a witch. One daughter
+    is present when the witch is combing her plaits.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: The witch
+  description: The mother of the maidens; the boys come upon her combing the plaits
+    of one of her daughters.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: named suitor
+  assigned_to:
+  - fig:1
+  basis: Dan-Kuchingaya is named among the boys who are courting maidens.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: brother-suitors
+  assigned_to:
+  - fig:2
+  basis: The two brothers are included among the boys who are courting maidens.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: courted daughters of a witch
+  assigned_to:
+  - fig:3
+  basis: The maidens are courted by the boys and are identified as the daughters of
+    a witch.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: witch and mother
+  assigned_to:
+  - fig:4
+  basis: The maidens are called daughters of a witch, and the witch is later seen
+    combing one daughter's plaits.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: unaware visitors
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The boys do not know the maidens are daughters of a witch and go to the maidens'
+    house.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: three boys
+  literal_form: the number three applied to the boys
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: maidens' house
+  literal_form: the house of the maidens
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: prepared food
+  literal_form: food prepared for the arriving boys
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: combing plaits
+  literal_form: the witch combing the plaits of one daughter
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Courtship setup
+  summary: Dan-Kuchingaya and his two brothers are courting maidens who are daughters
+    of a witch, though the boys do not know this.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Visit to the maidens' house
+  summary: The boys go to the maidens' house; after they arrive, food is prepared
+    for them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Encounter with the witch
+  summary: While walking outside during the cooking, the boys come upon the witch
+    combing the plaits of one of her daughters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Suitors unknowingly court daughters of a witch
+  taxonomy_refs: []
+  basis: The boys court maidens who are daughters of a witch, and the text states
+    that the boys do not know this.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives only the opening situation and not the outcome of the
+    courtship.
+- id: motif:2
+  label: Brothers acting together as suitors
+  taxonomy_refs: []
+  basis: Dan-Kuchingaya and his two brothers are presented as three boys courting
+    the maidens together.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Not mapped to the available sibling_pair taxonomy because the passage
+    specifies three boys rather than a pair.
+- id: motif:3
+  label: Encounter with witch during a household visit
+  taxonomy_refs: []
+  basis: The boys visit the maidens' house, food is prepared for them, and they later
+    come upon the witch combing a daughter's plaits.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not yet state whether the food, visit, or encounter is
+    harmful or transformative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18948-18953
+  quote_or_summary: "“Once there were certain Boys, three of them, one named Dan-Kuchingaya
+    ... and his two Brothers ... they were courting Maidens.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 18955-18959
+  quote_or_summary: The maidens are identified as daughters of a witch; the boys do
+    not know this and go to the maidens' house.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 18960-18962
+  quote_or_summary: After the boys arrive, food is prepared for them, and they go
+    outside to walk about while it is being cooked.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 18962-18963
+  quote_or_summary: The boys come upon the witch combing the plaits of one of her
+    daughters.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and appears to be the opening of a longer tale. Literal
+    figures and actions are clear, while motif identification is limited by the absence
+    of later plot developments.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol was assigned because the passage does not clearly support one of the supplied taxonomy references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l18948-l18963
+  passage_sha256=e21a220eebd26d7482eedd4e8ca5885a3a924653f4dfce4eb654a308e266e5e1
+

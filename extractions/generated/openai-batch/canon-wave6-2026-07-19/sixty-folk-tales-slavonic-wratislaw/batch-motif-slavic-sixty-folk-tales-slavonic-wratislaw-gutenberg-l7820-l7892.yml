@@ -1,0 +1,474 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l7820-l7892
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: XLIII.--THE DRAGON AND THE PRINCE. / XLIV.--FATE. / XLV.--THE BIRDCATCHER.
+    / XLVI.--THE TWO BROTHERS.; lines 7820-7892
+  start: '7820'
+  end: '7892'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A hunter is cheated in a wagered game of draughts and imprisoned. His similar-looking
+    brother, made golden after crossing a lake, is mistaken for him at the king's
+    tower, then searches for him. The second brother follows the same stag to the
+    draught-playing damsel's tower, resists her distractions, wins back the lost animals
+    and the damsel herself, and frees his brother. The freed brother suspects him
+    over his wife, but the misunderstanding is resolved; the brothers reconcile and
+    each obtains a wife and kingdom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hunter wagers his hound against a stag in a game of draughts at a tower.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Singing damsels distract the hunter while the draught-playing damsel alters
+    the draughtsmen and wins successive stakes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After winning the third game, the draught-playing damsel binds the hunter
+    with a cord and puts him in a dungeon.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The other brother fords a lake and emerges golden, along with his horse and
+    hound.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the king's tower, the second brother is welcomed and treated as if he were
+    the first brother; the king's daughter kisses and embraces him, but he repulses
+    her.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The second brother follows a stag to the same tower and finds a hound and
+    horse in the basement; the animals recognize each other.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: During the game, the second brother ignores the distracting song, keeps his
+    eye on the draughtsmen, and prevents the damsel's winking and making eyes from
+    helping her cheat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The second brother wins the games, takes back the hound and horse, wins the
+    damsel as the final stake, and releases his brother from the dungeon.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:9
+  text: The released brother suspects that his wife may prefer his brother and draws
+    his sword to kill him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The wife embraces and scolds her husband affectionately, explaining the previous
+    night's coldness; he repents of suspecting his brother.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The brothers kiss, reconcile, and end with separate wives and kingdoms.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: imprisoned hunter brother
+  description: A hunter who loses his hound, horse, and himself in cheated draughts
+    games, is bound and imprisoned, and later suspects his rescuer brother before
+    reconciling with him.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: golden rescuer brother
+  description: The brother who takes the upper road, crosses a lake and becomes golden
+    with his horse and hound, is mistaken for his brother, wins the draughts contest,
+    and frees him.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: draught-playing damsel
+  description: A damsel at the tower who claims the stag, proposes wagered draughts
+    games, cheats by distraction and winking, imprisons the first brother, and is
+    won by the second brother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: king's daughter and wife
+  description: The first brother's wife, who mistakes the second brother for her husband,
+    shows affection to him, and later helps reveal the misunderstanding.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: singing damsels
+  description: Damsels whose song distracts players during the draughts games.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: deceived wagerer and prisoner
+  assigned_to:
+  - fig:1
+  basis: He is distracted, cheated in draughts, bound with a cord, and placed in a
+    dungeon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rescuer through counter-contest
+  assigned_to:
+  - fig:2
+  basis: He repeats the game sequence without being cheated, wins the stakes, and
+    releases his brother.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: deceptive game opponent
+  assigned_to:
+  - fig:3
+  basis: She proposes draughts for stakes and uses distraction or gestures to cheat.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: mistaken wife
+  assigned_to:
+  - fig:4
+  basis: She treats the similar-looking second brother as her husband and later clarifies
+    the misunderstanding.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: jealous suspecter
+  assigned_to:
+  - fig:1
+  basis: After release, he wonders whether his wife prefers his brother and draws
+    his sword.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: forgiving brother
+  assigned_to:
+  - fig:2
+  basis: After the attempted attack is regretted, he forgives his brother.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: distracting chorus
+  assigned_to:
+  - fig:5
+  basis: Their repeated song causes the first hunter to look away and is also attempted
+    during the second brother's game.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: stag as lure and wager object
+  literal_form: stag driven to the tower and claimed by the draught-playing damsel
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: hound as wagered companion
+  literal_form: hound staked in draughts and later found with another hound in the
+    tower basement
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: horse as wagered mount
+  literal_form: horse staked after the hound and later recognized by another horse
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: tower and dungeon
+  literal_form: tower with balcony, basement, and dungeon where the first brother
+    is confined
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: lake crossing with golden change
+  literal_form: lake forded by the second brother, after which he, his horse, and
+    his hound come out golden
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: draughts game for stakes
+  literal_form: wagered game of draughts in which hound, horse, and persons are staked
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:7
+  label: distracting song
+  literal_form: song announcing a gained king during the draughts game
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cheated draughts game and imprisonment
+  summary: The first hunter follows the stag to a tower, plays draughts for escalating
+    stakes, is repeatedly distracted by singing, loses through cheating, and is put
+    in a dungeon.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Golden brother mistaken for husband
+  summary: The second brother crosses the lake and becomes golden with his horse and
+    hound, then arrives at the king's tower where people mistake him for the first
+    brother.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Counter-game and rescue
+  summary: The second brother follows the stag to the tower, notices the lost animals,
+    resists distraction in the draughts games, wins the stakes and the damsel, and
+    releases his brother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Suspicion, clarification, and reconciliation
+  summary: The freed brother nearly attacks his brother from jealousy, but his wife
+    clarifies the mistaken-identity episode, leading to repentance, forgiveness, reconciliation,
+    and two marriages with kingdoms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Similar sibling pair mistaken for one another
+  taxonomy_refs:
+  - sibling_pair
+  basis: The second brother is very like the first; the court and wife treat him as
+    the first brother, and this resemblance causes later suspicion.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage identifies them as brothers and stresses resemblance, but
+    broader twin or birth details are outside this excerpt.
+- id: motif:2
+  label: Cheated contest causing captivity
+  taxonomy_refs: []
+  basis: The draught-playing damsel wins by distraction and cheating, then binds and
+    imprisons the loser.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this game-contest pattern.
+- id: motif:3
+  label: Rescue by repeating and winning the captor's contest
+  taxonomy_refs: []
+  basis: The second brother recognizes signs of his brother's captivity, plays the
+    same wagered games without falling for the tricks, wins, and releases him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supports the rescue pattern, but not a specific external tale-type
+    identification.
+- id: motif:4
+  label: Transforming water crossing
+  taxonomy_refs: []
+  basis: After fording the lake, the second brother, his horse, and his hound come
+    out golden.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the transformation but gives no explanation of the
+    lake's nature or function.
+- id: motif:5
+  label: Jealous suspicion resolved by recognition and reconciliation
+  taxonomy_refs:
+  - sibling_pair
+  basis: The freed brother suspects his rescuer over his wife, but the wife's greeting
+    reveals the misunderstanding and the brothers reconcile.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The sibling aspect is explicit; the jealousy-resolution pattern is local
+    to this episode.
+- id: motif:6
+  label: Kingdom gained through victorious contest and marriage
+  taxonomy_refs: []
+  basis: After winning the draught-playing damsel, the second brother takes her and
+    her kingdom, while the first brother retains his wife and kingdom.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt presents the outcome as fortune, not as a formal legitimacy
+    rite.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7820-7834
+  quote_or_summary: The first hunter plays draughts at the tower for escalating stakes;
+    singing damsels distract him, the damsel cheats, wins hound, horse, and the hunter
+    himself, then binds him and puts him in a dungeon.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 7836-7851
+  quote_or_summary: The other brother fords a lake and comes out golden with his horse
+    and hound; at the king's tower he is recognized as if he were his brother, and
+    the king's daughter treats him affectionately while he realizes his similar-looking
+    brother must have married there.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 7852-7869
+  quote_or_summary: The second brother follows a stag to the tower, finds a hound
+    and horse in the basement, understands that his brother has been imprisoned, ignores
+    the distracting song, watches the draughtsmen, resists the damsel's gestures,
+    and wins the games.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 7869-7873
+  quote_or_summary: After winning the final game with himself and the damsel as stakes,
+    the second brother takes possession of her, brings his brother out of the dungeon,
+    and they go to town.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 7874-7890
+  quote_or_summary: The formerly imprisoned brother suspects his wife may prefer the
+    rescuer and draws his sword; his wife embraces him and explains his apparent coldness,
+    after which he repents, the brothers reconcile, and each ends with a wife and
+    kingdom.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are conservative and limited to the provided taxonomy where directly supported.
+    No comparison claims were made because the passage itself does not compare traditions
+    or tale families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used; no external tale-type or comparative claims were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l7820-l7892
+  passage_sha256=caa705a86cd47829f16d75ad27f5920d7eeb0248cb22e842b17b62e78a8f03fc
+

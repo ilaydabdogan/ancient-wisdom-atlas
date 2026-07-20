@@ -1,0 +1,516 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l1762-l1808
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: THE   BAGANDA / CHAP. / I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  21 /
+    I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  23; lines 1762-1808
+  start: '1762'
+  end: '1808'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes restraint in stocks, marital conflict and retaliation
+    by house-burning, travel and road-passing customs involving defense and weapons,
+    and several taboos or precautions involving shadows, food, dropped food, and sneezing
+    before a meal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A restrained man was kept in stocks with food and shelter, but his captors
+    avoided actively killing him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Wives could be put in stocks when they displeased husbands, were accused of
+    immorality, or repeatedly fled from the husband.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some wives retaliated by setting fire to the house at midnight while the husband
+    was asleep, intending to kill both themselves and the husband.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When travelling, the wife customarily carried the bedding, while the husband
+    walked behind to defend her and the property.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Two people passing on a road kept the left arm on the inner side and the right
+    weapon arm away from the other person, leaving it free if attacked.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: People avoided having another person tread on or spear their shadow.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Children were warned not to let fire cast their shadow onto the wall, because
+    seeing themselves as a shadow was associated with death.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: At meals, people avoided sitting so that their shadow fell over the food,
+    which was considered dangerous to all eating.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: If a person dropped a piece of food while taking it up, he said that Death
+    wished to rob him, then threw the food over his shoulder to break the spell.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: If a person sneezed just before a meal, he left the group and stood apart
+    until invited back to eat.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: restrained man
+  description: A man put in stocks and kept under restraint with food and shelter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: wives
+  description: Women described as being put in stocks by husbands in cases of displeasure,
+    accusation, rebellion, or flight.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: husbands
+  description: Men described as restraining wives in stocks and as potential targets
+    of house-burning retaliation.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: travelling wife
+  description: A wife carrying bedding during travel.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: travelling husband
+  description: A husband walking behind the wife in order to defend her and the property.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: road passers
+  description: Two people passing one another on a road with weapon arms kept away
+    from the other person.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: children
+  description: Children warned not to let fire cast their shadow on the house wall.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: meal participants
+  description: People at a meal who avoid shadow over food and follow precautions
+    after dropped food or sneezing.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:9
+  name_or_label: Death
+  description: 'Named in the utterance made when dropped food is interpreted as a
+    threat: “Death wishes to rob me.”'
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: restrained dependent captive
+  assigned_to:
+  - fig:1
+  basis: The man is kept in stocks with food and shelter while captors avoid actively
+    ending his life.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: restrained spouse
+  assigned_to:
+  - fig:2
+  basis: Wives are described as being put into stocks by husbands under specified
+    circumstances.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: retaliating spouse
+  assigned_to:
+  - fig:2
+  basis: Wives are described as taking revenge by setting fire to the house while
+    the husband sleeps.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: domestic restrainer
+  assigned_to:
+  - fig:3
+  basis: Husbands are described as putting wives in stocks after bringing them back
+    and paying return fees.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: sleeping target
+  assigned_to:
+  - fig:3
+  basis: The husband is described as asleep at midnight when the house is set on fire.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: load carrier
+  assigned_to:
+  - fig:4
+  basis: The wife customarily carries the bedding load while travelling.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: rear defender
+  assigned_to:
+  - fig:5
+  basis: The husband walks behind ready to defend the wife and property.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: armed passer-by
+  assigned_to:
+  - fig:6
+  basis: Road passers arrange their bodies so that the right arm with the weapon remains
+    free in case of attack.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: warned child
+  assigned_to:
+  - fig:7
+  basis: Children are warned against letting fire cast their shadow on the wall.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: ritual meal participant
+  assigned_to:
+  - fig:8
+  basis: Meal participants follow shadow avoidance, dropped-food, and sneezing precautions.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:11
+  label: personified threat in speech
+  assigned_to:
+  - fig:9
+  basis: Death is directly named as wishing to rob the speaker when food is dropped.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: stocks
+  literal_form: stocks used to confine a person
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: house fire
+  literal_form: fire set to the house at midnight
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: weapon arm
+  literal_form: right arm holding or associated with a weapon while passing on the
+    road
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: shadow
+  literal_form: a person’s shadow that may be trodden on, speared, cast on a wall,
+    or cast over food
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: fire casting a shadow
+  literal_form: fire casting a child’s shadow on the wall of the house
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: meal food
+  literal_form: food over which a shadow may fall, or a dropped piece of food thrown
+    over the shoulder
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: sneeze before meal
+  literal_form: sneezing immediately before a meal
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: confinement in stocks
+  summary: A man is restrained in stocks and sustained with food and shelter, while
+    active killing is avoided.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: marital restraint and retaliation
+  summary: Wives may be placed in stocks after conflict or flight; in revenge, wives
+    may set a house on fire while the husband sleeps.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: travel and guarded road encounter
+  summary: During travel the wife carries bedding and the husband follows as defender;
+    strangers passing on a road keep the weapon arm free.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: shadow dangers
+  summary: 'The passage describes dangers or prohibitions involving shadows: a shadow
+    should not be trodden on, speared, cast on the wall by fire, or cast over meal
+    food.'
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: meal omens and precautions
+  summary: A dropped piece of food prompts a statement about Death and an over-the-shoulder
+    disposal to break a spell; a sneeze before a meal requires withdrawal until reinvited.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: shadow as vulnerable extension of the person
+  taxonomy_refs: []
+  basis: The passage treats the shadow as something that can be trodden on, speared,
+    dangerously seen on a wall, or dangerously cast over food.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage reports practices and warnings but does not provide an explanatory
+    myth.
+- id: motif:2
+  label: meal impurity or danger from shadow contact
+  taxonomy_refs: []
+  basis: A person should not sit so that his shadow falls across food, because this
+    endangers the meal participants.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The exact nature of the danger is not explained in the passage.
+- id: motif:3
+  label: dropped food as death omen requiring counter-action
+  taxonomy_refs: []
+  basis: Dropping food is accompanied by the utterance that Death wishes to rob the
+    person, followed by throwing the food over the shoulder to break the spell.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage gives the action and formula but not a fuller cosmological
+    account.
+- id: motif:4
+  label: sneeze before eating as temporary exclusion omen
+  taxonomy_refs: []
+  basis: A sneeze just before a meal causes the person to stand apart until invited
+    back by the company.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage does not state why sneezing has this effect.
+- id: motif:5
+  label: defensive body orientation in road encounter
+  taxonomy_refs: []
+  basis: Passing strangers keep the weapon arm free and away from the encountered
+    person in case of attack.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a social custom rather than a mythic narrative motif.
+- id: motif:6
+  label: house-burning as retaliatory self-and-spouse destruction
+  taxonomy_refs: []
+  basis: The passage describes wives retaliating by burning the house at midnight
+    with the intent of killing both themselves and their sleeping husbands.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic report of conduct, not a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1764-1768
+  quote_or_summary: A man is put in stocks, given food and shelter, and kept confined
+    until he dies; his captors avoid actively taking his life.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1770-1778
+  quote_or_summary: Wives may be placed in stocks for displeasing husbands, accusations
+    of immorality, rebellion, or repeated flight after return from relatives.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1779-1785
+  quote_or_summary: In revenge, wives try to kill themselves and their husbands by
+    setting the house on fire at midnight while the husband sleeps.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1787-1790
+  quote_or_summary: When travelling, the wife carries bedding, and the husband walks
+    behind ready to defend her and his property.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1791-1795
+  quote_or_summary: People passing on the road keep the left arm inside and the right
+    weapon arm away and free for defense if attacked.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1797-1800
+  quote_or_summary: People dislike another treading on or spearing their shadow; children
+    are warned not to let fire cast their shadow on the wall, lest they die from seeing
+    themselves as a shadow.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1801-1803
+  quote_or_summary: At meals no one sits so that his shadow falls over the food, because
+    this is considered dangerous to everyone at the meal.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 1803-1806
+  quote_or_summary: When food is dropped, the person says, “Death wishes to rob me,”
+    then throws the food over his shoulder to break the spell.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:9
+  type: summary
+  locator: lines 1806-1808
+  quote_or_summary: A person who sneezes just before a meal stands at a distance until
+    one of the company asks him to return and eat.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is ethnographic and contains several customs and taboos but no
+    extended mythic narrative. Some line references are approximate within the supplied
+    range because the excerpt includes page/header artifacts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparative connection to another corpus or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l1762-l1808
+  passage_sha256=e7bebe64f163a1f2fa8beac3f027a4b65de21f9b975d4d6036a0b73bc31938c2
+

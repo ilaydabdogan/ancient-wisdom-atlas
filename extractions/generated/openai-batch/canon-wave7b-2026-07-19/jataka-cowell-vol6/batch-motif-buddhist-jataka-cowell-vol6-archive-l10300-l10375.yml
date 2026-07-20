@@ -1,0 +1,438 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol6-archive-l10300-l10375
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+passage_locator:
+  label: J.   VI. / MAHANARADAKASSAPA-JATAKA. / VIDHURAPANDITA- JATAKA. / J.  VI.  9;
+    lines 10300-10375
+  start: '10300'
+  end: '10375'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. VI
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of five tests is posed to the villagers or people of East Market-town.
+    The sage identifies male and female snakes by bodily signs, interprets a riddle-description
+    as a cock, rethreads an octagonal gem by using honey, wool, and ants, answers
+    the impossible demand that a royal bull deliver a calf by an analogous claim that
+    a man is in labor, and solves a demand for boiled rice under eight negated conditions
+    by substitutions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male and a female snake are brought for identification, and the sage distinguishes
+    them by tail, head, eye, and head-shape signs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A message demands a white bull with horns on its legs, a hump on its head,
+    and an unfailing threefold voice; the sage says the requested creature is a cock,
+    identifying spurs, crest, and crowing as the described features.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An octagonal gem once given by Sakka to King Kusa has a broken thread that
+    no one can remove or replace.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The sage smears the gem holes and a woollen thread with honey, places the
+    gem where ants pass, and the ants remove the old thread and pull the new thread
+    through.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A royal bull is fattened and sent to East Market-town with an order to deliver
+    its calf and return both bull and calf.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The sage instructs a bold man to lament before the king that his son is in
+    labor, then answer the king's objection by applying the same impossibility to
+    the royal bull.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'A message requires boiled rice cooked under eight conditions: without rice,
+    water, pot, oven, fire, firewood, a road, or a male or female carrier.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The sage supplies substitutes for the rice challenge, including broken rice,
+    snow, an earthen bowl, chopped wood-blocks, fire kindled by rubbing, leaves, a
+    eunuch carrier, and a footpath.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mahosadha / the sage / the Great Being
+  description: The sage consulted by the villagers or people of East Market-town;
+    he solves each posed problem.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Villagers / people of East Market-town
+  description: The community receives or faces the tasks and asks the sage for help.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The king
+  description: The ruler sends demands or receives the solutions, and is pleased when
+    he hears how the problems were solved.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Male and female snakes
+  description: A pair of snakes brought for the villagers to decide which is male
+    and which is female.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Cock
+  description: The animal identified by the sage as fitting the riddle of a white
+    bull with leg-horns, a head-hump, and a threefold voice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Ants
+  description: Ants attracted by honey eat away the old thread in the gem and pull
+    the new woollen thread through.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Royal bull
+  description: A fattened royal bull is falsely presented as being in calf for the
+    purpose of testing the villagers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Bold man
+  description: A man chosen to approach the palace gate and deliver the sage's counter-quip
+    to the king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: problem-solving sage
+  assigned_to:
+  - fig:1
+  basis: The sage is repeatedly asked for help and supplies solutions to the snake,
+    cock, gem, bull, and rice challenges.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: tested community
+  assigned_to:
+  - fig:2
+  basis: The villagers or people of East Market-town receive the tasks and consult
+    the sage in their difficulty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: royal challenger and evaluator
+  assigned_to:
+  - fig:3
+  basis: The king's messages impose fines or demands, and he is pleased when the solutions
+    are reported.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: riddle or test animal
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:7
+  basis: The snakes, cock, and bull are used as objects of identification, riddle
+    interpretation, or impossible demand.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:5
+  label: instrumental small animals
+  assigned_to:
+  - fig:6
+  basis: The ants perform the physical work of removing the old thread and pulling
+    the woollen thread through the gem.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: counter-quip performer
+  assigned_to:
+  - fig:8
+  basis: The bold man is instructed to act out a complaint before the king in order
+    to expose the impossibility of the bull's calving.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: snake pair
+  literal_form: male and female snakes distinguished by bodily signs
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cock as riddle-answer
+  literal_form: cock with spurs, crest, and crowing voice
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: octagonal gem with thread
+  literal_form: octagonal gem whose old thread must be removed and replaced
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: royal bull in calf
+  literal_form: fattened royal bull described as pregnant and needing delivery
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fire by rubbing
+  literal_form: fire kindled by rubbing, used as a substitute for a proper fire in
+    the rice task
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: water negated by snow
+  literal_form: snow used under the condition of cooking without water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: eight negated conditions
+  literal_form: the rice must be cooked without eight named ordinary requirements
+    or routes of delivery
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Identification of the snakes
+  summary: A male and female snake are brought for decision; the sage identifies the
+    sex of each by visible bodily signs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The cock riddle
+  summary: The king's riddle describes a strange bull, and the sage explains that
+    the features correspond to a cock.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Threading the octagonal gem
+  summary: The sage uses honey, woollen thread, and ants to remove the old thread
+    from the gem and draw the new thread through.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The calving bull counter-quip
+  summary: The impossible command to deliver a bull's calf is answered by staging
+    an equally impossible claim that a man's son is in labor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Boiled rice under eight conditions
+  summary: The sage solves the demand for rice cooked without ordinary materials,
+    implements, fuel, road, or male/female carrier by substituting alternative materials
+    and routes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: riddle-test of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents repeated tests or riddling demands, each resolved by
+    the sage's quick discernment, practical ingenuity, or verbal counter-question.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The specific taxonomy supplied has a broad wisdom category but no separate
+    riddle-test category.
+- id: motif:2
+  label: impossible command resolved by clever substitution
+  taxonomy_refs:
+  - wisdom
+  basis: The cock, calving bull, and boiled rice episodes use impossible or paradoxical
+    wording that the sage answers by reinterpretation, analogy, or substitutions.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a passage-level pattern; the available taxonomy does not supply
+    a precise impossible-task motif family.
+- id: motif:3
+  label: small animals perform an otherwise difficult task
+  taxonomy_refs: []
+  basis: In the gem episode, ants attracted with honey eat away the old thread and
+    pull the new woollen thread through the gem.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as a practical stratagem rather than explicitly
+    as a supernatural or animal-helper motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10300-10306
+  quote_or_summary: A male and a female snake are brought for identification; the
+    sage distinguishes them by differences in tails, heads, eyes, and head shape.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10308-10320
+  quote_or_summary: The king's message asks for a white bull with horns on its legs,
+    a hump on its head, and a threefold voice; the sage says this describes a cock,
+    with spurs, crest, and crowing.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10321-10337
+  quote_or_summary: An octagonal gem with a broken thread is sent to be rethreaded;
+    the sage uses honey, woollen thread, and ants so that the ants remove the old
+    thread and pull the new one through.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10338-10363
+  quote_or_summary: A fattened royal bull is sent with an order to deliver its calf;
+    the sage instructs a bold man to complain that his son is in labor, prompting
+    the reply that men do not bear children and exposing the parallel impossibility.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10364-10375
+  quote_or_summary: A message demands boiled rice cooked under eight negated conditions;
+    the sage proposes substitutions such as broken rice, snow, an earthen bowl, fire
+    by rubbing, leaves, a eunuch carrier, and a footpath.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif labels are cautious
+    because the available taxonomy contains only a broad wisdom category for these
+    riddle and impossible-task episodes. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unsupported comparative claims used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol6-archive__l10300-l10375
+  passage_sha256=dc65796861298820eb1344b26f938afe6d6dbe9321757cd493fa2d6f1422c1c5
+

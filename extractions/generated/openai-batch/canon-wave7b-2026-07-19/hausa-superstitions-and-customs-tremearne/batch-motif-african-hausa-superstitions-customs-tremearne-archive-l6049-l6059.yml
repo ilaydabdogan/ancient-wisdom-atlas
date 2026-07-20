@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l6049-l6059
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: CHAPTER  VI. / GODS  AND  SPIRITS  111 / NATURE   MYTHS  113 / NATURE   MYTHS;
+    lines 6049-6059
+  start: '6049'
+  end: '6059'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces nature myths and summarizes part of a story in which
+    a hyasna and a bitch make an agreement involving meals from the bitch’s six puppies
+    and later six cubs from the hyasna. The bitch mistrusts the hyasna, kills the
+    cubs first, hides her puppies in a tree, and gives them a rope-ladder to lower
+    for her when needed. The passage breaks off mid-sentence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented under the heading “NATURE MYTHS” and mentions myths
+    of the sun and moon before turning to other myths.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A story is identified as the story of the hyasna and the bitch, with a parenthetical
+    reference to “F.-L. 22.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The bitch agrees to provide meals with all six of her puppies after the hyasna
+    promises to give her six cubs later.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bitch mistrusts the hyasna and kills the cubs first.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The bitch hides her puppies in a tree.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The bitch gives the puppies a rope-ladder to let down for her when necessary.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: hyasna
+  description: Animal figure who promises to give six cubs later.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: bitch
+  description: Animal figure who agrees to provide meals with her puppies, mistrusts
+    the hyasna, kills the cubs, and hides her puppies in a tree.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: six puppies
+  description: The bitch’s six puppies; they are to provide meals, then are hidden
+    in a tree and given a rope-ladder.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: six cubs
+  description: Cubs promised by the hyasna to the bitch and killed first by the bitch.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: promising exchange partner
+  assigned_to:
+  - fig:1
+  basis: The hyasna promises to give six cubs later.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: mistrustful actor
+  assigned_to:
+  - fig:2
+  basis: The bitch mistrusts the hyasna and acts first against the cubs.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: protector of puppies
+  assigned_to:
+  - fig:2
+  basis: The bitch hides her puppies in a tree and provides them with a rope-ladder.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: hidden offspring
+  assigned_to:
+  - fig:3
+  basis: The puppies are hidden in a tree.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: promised offspring killed first
+  assigned_to:
+  - fig:4
+  basis: The cubs are promised in the exchange and are killed first by the bitch.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: tree refuge
+  literal_form: tree
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: rope-ladder
+  literal_form: rope-ladder
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: six puppies
+  literal_form: six puppies
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: six cubs
+  literal_form: six cubs
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Bargain involving offspring
+  summary: The bitch agrees to provide meals with her six puppies in return for the
+    hyasna’s later gift of six cubs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Mistrust and concealment
+  summary: Because she mistrusts the hyasna, the bitch kills the cubs first, hides
+    her puppies in a tree, and gives the puppies a rope-ladder to lower for her when
+    needed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: exchange promise involving offspring
+  taxonomy_refs: []
+  basis: The animals’ agreement concerns meals involving the bitch’s six puppies and
+    a later return of six cubs from the hyasna.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is fragmentary and does not show the outcome or full narrative
+    function of the bargain.
+- id: motif:2
+  label: offspring hidden in a tree refuge
+  taxonomy_refs: []
+  basis: The bitch hides her puppies in a tree after mistrusting the hyasna.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify whether the tree has a sacred, cosmic, or
+    ritual function.
+- id: motif:3
+  label: rope-ladder access to hidden refuge
+  taxonomy_refs: []
+  basis: The puppies are given a rope-ladder to let down for the bitch when necessary.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage breaks off immediately after this detail, so its later narrative
+    role is unknown.
+- id: motif:4
+  label: preemptive killing due to mistrust
+  taxonomy_refs: []
+  basis: The bitch mistrusts the hyasna and kills the cubs first.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The full causal sequence and consequences are not available in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6049-6052
+  quote_or_summary: Under the heading “NATURE MYTHS,” the passage notes myths of the
+    sun and moon and introduces the story of the hyasna and the bitch, referenced
+    as “F.-L. 22.”
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt/summary permitted.
+- id: ev:2
+  type: summary
+  locator: lines 6052-6056
+  quote_or_summary: The bitch agrees to provide meals with all six puppies after the
+    hyasna promises to give her six cubs later.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt/summary permitted.
+- id: ev:3
+  type: summary
+  locator: lines 6056-6058
+  quote_or_summary: Mistrusting the hyasna, the bitch kills the cubs first and hides
+    her puppies in a tree.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt/summary permitted.
+- id: ev:4
+  type: summary
+  locator: lines 6058-6059
+  quote_or_summary: The puppies are given a rope-ladder to let down for the bitch
+    when necessary.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt/summary permitted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by the excerpt ending mid-sentence. Literal actions
+    and objects are clear, but motif functions and comparisons require the continuation
+    of the story.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt does not itself support a specific comparative claim beyond the candidate motifs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l6049-l6059
+  passage_sha256=0a9a8bfb9b1bb9ccb4731ce425f7ca6d30b6ad6f518ac56d7a88d3f52f69ef08
+

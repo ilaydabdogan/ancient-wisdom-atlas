@@ -1,0 +1,496 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l20219-l20306
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: XI  INDUSTRIES  399 / THE   BAGANDA / CHAP. / XI  INDUSTRIES  401; lines
+    20219-20306
+  start: '20219'
+  end: '20306'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Baganda pottery manufacture: forming, drying, polishing,
+    baking, glazing, decorating, gender restrictions during drying, and market exchange.
+    It notes that potters timed baking to the new moon and avoided baking after the
+    full moon because they believed the pots would fail.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cooking-pots were easier to make than other pots and were intended for kitchen
+    use rather than ornament.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Water-pots required more care in shaping the neck and mouth-piece.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Small pots called kibya were used as drinking-pots or receptacles for vegetables
+    or gravy, and were thinner, better finished, decorated carefully, and glazed.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Milk-pots were described as the most decorative and most difficult vessels
+    to make because of their narrow necks.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After shaping, pots were dried in shade to prevent cracking from strong sun.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Some pots were polished by rubbing them with a smooth stone before baking.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Pots were baked over layers of grass, reeds or papyrus stems, and wood, and
+    were heated until red hot.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Potters waited for the new moon, about four days old, before baking pots.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: No potter baked pots after the full moon because he believed the pots would
+    crack, break, or otherwise fail in burning.
+  category: other
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Imperfect baked pots were set aside for home use, while good pots were kept
+    for the potter's master or for sale.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Small pots and milk-pots were glazed by smoking them over a smoky fire of
+    dry plantain leaves or grass, then rubbing them with bark-cloth.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: White markings were made from powdered snail-shell mixed with water, and red
+    markings from red clay used for painting canoes.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: During drying, women were not permitted to touch the pots; men carried them
+    in and out of the house for drying.
+  category: relationship
+  evidence_refs:
+  - ev:13
+- id: obs:14
+  text: Women gathered grass and firewood for baking pots.
+  category: action
+  evidence_refs:
+  - ev:14
+- id: obs:15
+  text: Cooking-pots were sold for cowry-shells or exchanged for salt or meat.
+  category: action
+  evidence_refs:
+  - ev:15
+figures:
+- id: fig:1
+  name_or_label: potter
+  description: A male craft worker who makes, dries, bakes, examines, glazes, decorates,
+    and sells or supplies pots.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+  - ev:12
+- id: fig:2
+  name_or_label: women
+  description: Women are not permitted to touch drying pots but are sent to gather
+    grass and firewood for baking them.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:13
+  - ev:14
+- id: fig:3
+  name_or_label: master
+  description: The potter may keep good pots for his master.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: craft specialist
+  assigned_to:
+  - fig:1
+  basis: The passage describes the potter forming, drying, baking, glazing, and decorating
+    pots.
+  evidence_refs:
+  - ev:7
+  - ev:11
+  - ev:12
+- id: role:2
+  label: observer of lunar timing for baking
+  assigned_to:
+  - fig:1
+  basis: The potter waits for the new moon and avoids baking after the full moon.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:3
+  label: restricted from touching drying pots
+  assigned_to:
+  - fig:2
+  basis: Women are not permitted to touch pots during drying.
+  evidence_refs:
+  - ev:13
+- id: role:4
+  label: gatherers of fuel materials
+  assigned_to:
+  - fig:2
+  basis: Women gather grass and firewood used in baking pots.
+  evidence_refs:
+  - ev:14
+- id: role:5
+  label: recipient of good pots
+  assigned_to:
+  - fig:3
+  basis: Good pots may be kept for the potter's master.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: fire used in baking
+  literal_form: baking fire made with grass, reeds or papyrus stems, and wood
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+  - ev:14
+- id: sym:2
+  label: smoky glazing fire
+  literal_form: smoky fire of dry plantain leaves or grass used to blacken and glaze
+    pots
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:11
+- id: sym:3
+  label: new moon timing
+  literal_form: new moon about four days old
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: full moon avoidance
+  literal_form: moon past the full
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: milk-pot
+  literal_form: decorative vessel with narrow neck used as a milk-pot
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: sym:6
+  label: water-pot
+  literal_form: water-pot with carefully fashioned neck and mouth-piece
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: snail-shell white pigment
+  literal_form: powdered snail-shell mixed with water for white markings
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:12
+scenes:
+- id: scene:1
+  label: forming and finishing pottery types
+  summary: The passage distinguishes cooking-pots, water-pots, kibya, and milk-pots
+    by difficulty, finish, decoration, and use.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: drying and polishing before baking
+  summary: Pots are dried in shade, sometimes polished with a smooth stone, and kept
+    until ready for fire.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: lunar-timed firing of pots
+  summary: The potter builds a fuel bed, places pots on it, covers them with grass
+    and wood, and bakes them when the new moon is about four days old, avoiding the
+    period after the full moon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:14
+- id: scene:4
+  label: sorting after firing
+  summary: After cooling overnight, the potter removes and examines the pots, setting
+    aside imperfect ones for home use and keeping good ones for his master or for
+    sale.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+- id: scene:5
+  label: smoke glazing and colored decoration
+  summary: Small pots and milk-pots are smoke-glazed over a pungent smoky fire, polished
+    with bark-cloth, and optionally marked with white snail-shell pigment or red clay.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: scene:6
+  label: gender restriction during drying
+  summary: Women are barred from touching pots while they dry, while men carry the
+    pots in and out of the house; women gather grass and firewood for baking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:13
+  - ev:14
+- id: scene:7
+  label: market exchange of cooking-pots
+  summary: Cooking-pots are sold for cowry-shells or exchanged for salt or meat.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:15
+candidate_motifs:
+- id: motif:1
+  label: craft production timed to the new moon
+  taxonomy_refs: []
+  basis: The passage states that potters wait for the new moon, about four days old,
+    before baking vessels.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage records a craft practice and belief; it does not present a
+    mythic narrative or explain the cosmological reason for the timing.
+- id: motif:2
+  label: avoidance of craft work after the full moon
+  taxonomy_refs: []
+  basis: The passage says potters do not bake after the full moon because they believe
+    the pots would fail by cracking or breaking.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The belief is limited to pottery firing in this passage; broader ritual
+    or mythic significance is not stated.
+- id: motif:3
+  label: gender restriction around vulnerable crafted objects
+  taxonomy_refs: []
+  basis: Women are not allowed to touch pots while drying, though they gather fuel
+    for baking.
+  evidence_refs:
+  - ev:13
+  - ev:14
+  confidence: medium
+  cautions: The passage gives a restriction but does not explain its rationale or
+    connect it to a named ritual system.
+- id: motif:4
+  label: fire and smoke transform clay vessels
+  taxonomy_refs: []
+  basis: The passage describes baking pots until red hot and smoke-glazing selected
+    vessels until smoke penetrates the clay and hardens into a black glaze.
+  evidence_refs:
+  - ev:7
+  - ev:11
+  confidence: medium
+  cautions: This is a literal craft transformation; symbolic or mythic interpretation
+    is not supplied by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20219-20231
+  quote_or_summary: Cooking-pots are described as easiest to make, less carefully
+    finished, used in the kitchen, and not made for ornament.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 20232-20237
+  quote_or_summary: Water-pots receive more care, especially in the neck and mouth-piece,
+    though they are not glazed.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20238-20245
+  quote_or_summary: Kibya are small pots used for drinking, vegetables, or gravy;
+    they are thinner, better finished, carefully decorated, and glazed.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 20246-20249
+  quote_or_summary: '"The milk-pots were the most decorative vessels, and the most
+    difficult to make" because of their narrow necks.'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 20250-20253
+  quote_or_summary: After being fashioned, pots are placed in shade to dry so that
+    strong sun does not crack them.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 20254-20257
+  quote_or_summary: Pots to be polished are rubbed with a smooth stone until they
+    have an even smooth surface.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 20262-20273
+  quote_or_summary: Dry grass, reeds, sometimes papyrus stems, and wood are layered
+    around pots; the fire is lit and pots are baked until red hot.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 20273-20277
+  quote_or_summary: '"Potters waited for the new moon to appear" and baked vessels
+    when it was about four days old.'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: summary
+  locator: lines 20277-20283
+  quote_or_summary: No potter bakes after the full moon because he believes the pots
+    will fail, crack, or break in burning.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 20284-20289
+  quote_or_summary: After cooling overnight, the potter examines the pots; imperfect
+    ones are kept for home use, and good ones are kept for his master or for sale.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 20290-20302
+  quote_or_summary: Small pots and milk-pots are glazed by holding them over a pungent
+    smoky fire; smoke hardens in the clay and the vessels are rubbed with bark-cloth
+    for polish.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 20303-20314
+  quote_or_summary: White decoration is made from ground snail-shell mixed with water;
+    red decoration is made from red clay rubbed into indentations.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: quote
+  locator: lines 20314-20318
+  quote_or_summary: '"During the time that pots were drying, no woman was permitted
+    to touch them"; men carried them in and out for drying.'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation.
+- id: ev:14
+  type: summary
+  locator: lines 20319-20321
+  quote_or_summary: Women are sent to gather grass and firewood for baking the pots.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:15
+  type: summary
+  locator: lines 20321-20324
+  quote_or_summary: Cooking-pots are sold in markets for cowry-shells or exchanged
+    for salt or meat.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The technical pottery sequence is explicit. Motif candidates are limited
+    because the passage is ethnographic craft description, not a myth narrative; lunar
+    timing and gender restriction are recorded but not explained mythologically.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare the practices to another corpus, motif family, or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l20219-l20306
+  passage_sha256=3285523381c76a845b36fa216df6a31ba9296514b61240148cbb5ebf91af05ec
+

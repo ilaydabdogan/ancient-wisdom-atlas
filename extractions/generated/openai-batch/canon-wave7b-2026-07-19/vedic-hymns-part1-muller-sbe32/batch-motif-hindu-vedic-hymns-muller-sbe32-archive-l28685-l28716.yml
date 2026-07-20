@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l28685-l28716
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: MANDALA X, HYMN 168. 449 / NOTES. / MANDALA X, HYMN 186. 451 / NOTES.; lines
+    28685-28716
+  start: '28685'
+  end: '28716'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A short hymn to Vata asks the wind deity to bring medicine and life, addresses
+    him as father, brother, and friend, and asks him to grant life from an immortal
+    treasure in his distant house. The notes ascribe the hymn to Ula Vatayana and
+    identify Vata with Vayu.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The hymn is addressed to Vata.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vata is asked to waft medicine that is healthful and delightful to the speakers'
+    heart and to prolong their lives.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Vata is addressed as the speakers' father, brother, and friend.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Vata is asked to grant the speakers life.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speakers refer to a treasure of the immortal placed in Vata's house yonder
+    and ask him to give them life from it.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The notes state that the hymn is ascribed to Ula Vatayana and addressed to
+    Vayu under the name Vata.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Vata / Vayu
+  description: The addressed deity, named Vata in the hymn and identified in the notes
+    as Vayu under the name Vata.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hymnic speakers
+  description: The collective first-person speakers who ask Vata for medicine and
+    life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Ula Vatayana
+  description: The figure to whom the notes ascribe the hymn.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Addressed deity
+  assigned_to:
+  - fig:1
+  basis: The heading says the hymn is to Vata, and the notes say it is addressed to
+    Vayu under the name Vata.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: Life-prolonging healer
+  assigned_to:
+  - fig:1
+  basis: Vata is asked to waft medicine and prolong lives.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Divine kin and friend
+  assigned_to:
+  - fig:1
+  basis: Vata is addressed as father, brother, and friend.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Supplicants for life
+  assigned_to:
+  - fig:2
+  basis: The speakers ask that their lives be prolonged and that Vata grant them life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: Ascribed hymn figure
+  assigned_to:
+  - fig:3
+  basis: The notes ascribe the hymn to Ula Vatayana.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Medicine borne by Vata
+  literal_form: medicine, healthful and delightful, wafted to the heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Treasure of the immortal
+  literal_form: treasure of the immortal placed in Vata's house yonder
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Vata's house yonder
+  literal_form: Vata's distant house containing the treasure of the immortal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Petition for healing wind and long life
+  summary: The speakers ask Vata to bring medicine to their heart and prolong their
+    lives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Kinship address to Vata
+  summary: The speakers call Vata their father, brother, and friend and ask him to
+    grant them life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Request from the immortal treasure
+  summary: The speakers ask Vata to give them life from the treasure of the immortal
+    in his distant house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Life-giving wind deity
+  taxonomy_refs: []
+  basis: Vata is asked to carry medicine and prolong the speakers' lives.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is hymnic petition rather than a narrative episode.
+- id: motif:2
+  label: Divine kinship as source of protection and life
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Vata is addressed as father, brother, and friend, and is asked to grant life.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The text uses kinship address; it does not narrate an actual divine birth
+    or parent-child genealogy.
+- id: motif:3
+  label: Life requested from an immortal treasure in a divine house
+  taxonomy_refs: []
+  basis: The speakers refer to a treasure of the immortal in Vata's house and ask
+    Vata to give them life from it.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the treasure or describe how it grants life.
+comparison_claims:
+- id: claim:1
+  claim: The notes identify parallel Vedic attestations for verses of this hymn, suggesting
+    the healing and life-giving address to Vata circulated in nearby Vedic textual
+    corpora.
+  claim_level: linguistic_similarity
+  target: Sama-veda, Taittiriya Brahmana, and Taittiriya Aranyaka parallels cited
+    in the notes
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives citation references only; it does not quote the parallel
+    versions, and the OCR in the note is imperfect.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Hymn 186 heading
+  quote_or_summary: '"To VATA."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: Hymn 186, verse 1
+  quote_or_summary: '"May Vata waft medicine, healthful, delightful to our heart;
+    may he prolong our lives!"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: Hymn 186, verse 2
+  quote_or_summary: '"Thou, O Vata, art our father, and our brother, and our friend;
+    do thou grant us to live!"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: Hymn 186, verse 3
+  quote_or_summary: '"O Vata, from that treasure of the immortal which is placed in
+    thy house yonder, give us to live!"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: Hymn 186 notes
+  quote_or_summary: The notes say the hymn is ascribed to Ula Vatayana, addressed
+    to Vayu under the name Vata, give the metre as Gayatri, and cite parallels for
+    verses 1 and 3 in other Vedic texts.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The hymn is short and clear, but motif classification is limited because
+    the passage is a petitionary hymn rather than a developed narrative. The comparison
+    claim rests only on the notes' cited textual parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l28685-l28716
+  passage_sha256=abcbbf8831b3fa444fe0ae041c6471d2c29ccf5be774b6cbbb6f503f21521860
+

@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.georgian-georgian-folk-tales-wardrop-gutenberg-l5145-l5162
+source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+passage_locator:
+  label: TEETH AND NO-TEETH / THE QUEEN'S WHIM / THE FOOL'S GOOD FORTUNE / TWO LOSSES;
+    lines 5145-5162
+  start: '5145'
+  end: '5162'
+  translation: Georgian Folk Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a storm at sea, a scholar criticizes a skipper for speaking in an ungrammatical
+    mother tongue. When a later storm causes the ship to founder, the captain learns
+    that the scholar cannot swim and says that the scholar will lose his whole life
+    while the crew swims ashore.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A great storm occurs at sea, and a learned man hears the skipper giving orders
+    but cannot understand the words.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the danger passes, the scholar asks what language the skipper used,
+    and the skipper answers that it was his mother tongue.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The scholar says it is regrettable that the skipper has wasted half his life
+    without learning grammatical and intelligible speech.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A later storm arises; the ship springs a leak and begins to founder.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The captain asks whether the scholar can swim, and the scholar says he has
+    never learned.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The captain says the scholar will lose his whole life because the ship will
+    sink and the captain and crew will swim ashore.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: learned man / scholar / man of books
+  description: A learned man aboard the ship who criticizes the skipper's speech and
+    later admits he has never learned to swim.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: skipper / sailor / captain
+  description: The ship's commander, described as skipper, sailor, and captain; he
+    gives orders, speaks in his mother tongue, asks whether the scholar can swim,
+    and says the crew will swim ashore.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: crew
+  description: The captain refers to his crew as people who will swim ashore with
+    him when the ship sinks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: book-learned critic
+  assigned_to:
+  - fig:1
+  basis: The figure is called a learned man and scholar and criticizes the skipper
+    for not speaking grammatically and intelligibly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ship commander
+  assigned_to:
+  - fig:2
+  basis: The figure is called skipper and captain and gives orders during the storm.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: non-swimmer in danger
+  assigned_to:
+  - fig:1
+  basis: The scholar says he has never learned to swim while the ship is foundering.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: practical skill-holder
+  assigned_to:
+  - fig:2
+  basis: The captain contrasts the scholar's lack of swimming skill with the captain
+    and crew's ability to swim ashore.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: swimming crew
+  assigned_to:
+  - fig:3
+  basis: The captain says that his crew and he will swim ashore.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: stormy sea water
+  literal_form: A great storm at sea, a leaking ship, and swimming ashore.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: foundering ship
+  literal_form: The ship springs a leak, begins to founder, and is expected to go
+    to the bottom.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: mother tongue
+  literal_form: The skipper says he spoke in his mother tongue.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: First storm and rebuke over language
+  summary: During a storm, the learned man cannot understand the skipper's orders.
+    Afterward, he asks what language was spoken and criticizes the skipper for lacking
+    grammatical speech.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Second storm and rebuke over swimming
+  summary: A later storm causes the ship to leak and founder. The captain asks the
+    scholar if he can swim; when the scholar says no, the captain says the scholar
+    will lose his whole life while the crew swims ashore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: practical survival skill outweighs book learning
+  taxonomy_refs:
+  - wisdom
+  basis: The scholar values grammatical learning and pities the skipper for lacking
+    it, but in the shipwreck situation the captain's practical swimming skill becomes
+    life-saving while the scholar's learning does not save him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as a moral anecdote rather than an explicitly
+    mythic episode.
+- id: motif:2
+  label: reversal of rebuke
+  taxonomy_refs: []
+  basis: The scholar first says the skipper has wasted half his life; later the captain
+    says the scholar will lose his whole life because he cannot swim.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a narrative pattern within the passage, not a claim of relation
+    to an external motif index.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5145-5148
+  quote_or_summary: During a great storm at sea, a learned man hears the skipper giving
+    orders but cannot understand the words.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain.
+- id: ev:2
+  type: summary
+  locator: lines 5148-5153
+  quote_or_summary: After the danger passes, the scholar asks what language was used;
+    the sailor says it was his mother tongue, and the scholar regrets that he has
+    wasted half his life without grammatical and intelligible speech.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain.
+- id: ev:3
+  type: summary
+  locator: lines 5153-5156
+  quote_or_summary: A few hours later another storm arises, and the ship springs a
+    leak and begins to founder.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain.
+- id: ev:4
+  type: summary
+  locator: lines 5156-5158
+  quote_or_summary: The captain asks the scholar if he can swim, and the man of books
+    replies that he has never learned.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain.
+- id: ev:5
+  type: quote
+  locator: lines 5158-5162
+  quote_or_summary: The captain says the scholar will lose his whole life, because
+    the ship will sink and "my crew and I shall swim ashore."
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and explicit, supporting reliable extraction of figures,
+    scenes, and moral pattern. Motif-family mapping to wisdom is plausible but should
+    be reviewed. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:georgian-georgian-folk-tales-wardrop-gutenberg__l5145-l5162
+  passage_sha256=44cfada6ced607489510add46a95f9781faa687c9e914740e5bf9d8e3eccc5c2
+

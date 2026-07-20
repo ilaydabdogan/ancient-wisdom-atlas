@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l3032-l3364
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: CO (1) / S 'O X3 / P P P / JO JO JO CO; lines 3032-3364
+  start: '3032'
+  end: '3364'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a highly fragmented, table-like excerpt. The intelligible
+    portions list Ashanti kinship relationship pairs and associated terms, including
+    entries for son’s wife and husband’s father, daughter’s husband and wife’s father,
+    elder brother’s son and father’s younger brother, and elder brother’s son’s wife
+    and husband’s father’s younger brother.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is mostly tabular or OCR-fragmented material rather than continuous
+    narrative prose.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One intelligible table row pairs “Son’s wife” with “Husband’s father” and
+    gives “Ase” for both associated terms.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One intelligible table row pairs “Daughter’s husband” with “Wife’s father”
+    and gives “Ase” for both associated terms.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One intelligible table row pairs “Elder brother’s son” with “Father’s younger
+    brother” and gives the terms “’Nua panyin 'ba” and “Agya (’nua kuma).”
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One intelligible table row pairs “Elder brother’s son’s wife” with “Husband’s
+    father’s younger brother” and gives “Ase” for both associated terms.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Son’s wife
+  description: Kinship relation listed in a table row paired with husband’s father.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Husband’s father
+  description: Kinship relation listed in a table row paired with son’s wife.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Daughter’s husband
+  description: Kinship relation listed in a table row paired with wife’s father.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Wife’s father
+  description: Kinship relation listed in a table row paired with daughter’s husband.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Elder brother’s son
+  description: Kinship relation listed in a table row paired with father’s younger
+    brother.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Father’s younger brother
+  description: Kinship relation listed in a table row paired with elder brother’s
+    son.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Elder brother’s son’s wife
+  description: Kinship relation listed in a table row paired with husband’s father’s
+    younger brother.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Husband’s father’s younger brother
+  description: Kinship relation listed in a table row paired with elder brother’s
+    son’s wife.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: listed kinship relation
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Each figure is named as a relationship category in the tabular passage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: relation associated with the term Ase
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  basis: The rows for these relations include the term “Ase.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: relation associated with ’Nua panyin 'ba or Agya (’nua kuma)
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The row for elder brother’s son and father’s younger brother gives these
+    associated terms.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Kinship terminology table excerpt
+  summary: The passage presents fragmented tabular entries pairing kin relations with
+    corresponding terms. No narrative action is present in the supplied excerpt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3032-3364
+  quote_or_summary: The supplied excerpt contains many isolated letters, repeated
+    syllables, and tabular fragments surrounding a small number of legible kinship
+    rows.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 3032-3364
+  quote_or_summary: "“Son’s wife Husband’s father Ase Ase”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 3032-3364
+  quote_or_summary: "“Daughter’s husband Wife’s father Ase Ase”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 3032-3364
+  quote_or_summary: "“Elder brother’s son Father’s younger brother ’Nua panyin 'ba
+    Agya (’nua kuma )”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 3032-3364
+  quote_or_summary: The passage gives an entry for “Elder brother’s son’s wife” and
+    “Husband’s father’s younger brother,” followed by “Ase Ase,” though line breaks
+    interrupt the row.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: Only a few kinship table entries are legible. The excerpt does not provide
+    mythic narrative, symbolic imagery, or a supported comparative motif claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs or comparison claims were extracted because the supplied passage contains kinship terminology rather than narrative mythic material.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l3032-l3364
+  passage_sha256=006ee53556778c7eb61e61b7b735e5f6e28c0a3064f1e1f691b6f4641b2a5b09
+

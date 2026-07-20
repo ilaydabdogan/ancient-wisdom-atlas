@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.siberian-mongol-journey-in-southern-siberia-curtin-archive-l1501-l1597
+source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+passage_locator:
+  label: MY JOUBNEY TO THE BXJRIATS / MY JOURNEY TO THE BURIATS 19 / MY JOURNEY TO
+    THE BURIATS 21 / MY JOURNEY TO THE BURIATS 23; lines 1501-1597
+  start: '1501'
+  end: '1597'
+  translation: A Journey in Southern Siberia, the Mongols, Their Religion and Their
+    Myths
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A travel episode describes Nikolai racing an opposing driver on a hilly
+    road, the rival blocking the way, Nikolai overtaking him, and a dangerous downhill
+    run that nearly dislodges the carriage king-bolt. The carriage is temporarily
+    repaired and then secured by a blacksmith at Homutooka. The passage then describes
+    Russian post stations, travelers waiting there, and the use of a samovar for boiling
+    water for tea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A driver behind the travelers suddenly urges his horses ahead at the foot
+    of a long hill and then drives more slowly in front of them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nikolai asks whether he should go ahead of the other driver and says that
+    he knows his horses.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nikolai attempts to pass the equipage ahead, and the opposing driver lashes
+    his horses up the hill.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Both equipages in the uphill race are drawn by three horses abreast.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At a second narrow point in the road, the opposing driver guides his horses
+    so as to block Nikolai's animals.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When the road widens near the hilltop, Nikolai's carriage passes the other
+    carriage and gains a lead.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Nikolai drives the three horses downhill at full speed while the other driver
+    remains behind at a normal traveling pace.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: After the narrator calls for reduced speed and a halt, the king-bolt is found
+    to be almost out of the front axle.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A stone and ropes are used for a temporary repair, and a blacksmith at Homutooka
+    later secures the king-bolt with iron.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Post stations are described as places where travelers wait for horses, drink
+    tea, eat, and obtain a samovar for boiling water.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person narrator-passenger
+  description: The traveler narrating the episode, riding in Nikolai's carriage and
+    calling for speed to be slackened after the downhill race.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Nikolai
+  description: The driver who handles the travelers' horses, asks to overtake the
+    rival, races uphill and downhill, and halts after the narrator calls out.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: opposing driver
+  description: The driver who moves ahead, slows the travelers, lashes his horses,
+    blocks the narrow road, loses the race, and does not approach again.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Nikolai's three horses
+  description: The three-horse team pulling the narrator's carriage in the uphill
+    and downhill race.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: opponent's horse team
+  description: The opposing driver's horse team, lashed during the race and later
+    seen traveling at the usual pace.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: blacksmith at Homutooka
+  description: A blacksmith found at the Homutooka post station who secures the king-bolt
+    with an iron strip and charges fifteen copecks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: post-station travelers
+  description: People usually found at post stations waiting for horses, drinking
+    tea, or eating.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: passenger-observer
+  assigned_to:
+  - fig:1
+  basis: The narrator observes the race from the carriage and intervenes by calling
+    for Nikolai to slow and halt.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: driver and road competitor
+  assigned_to:
+  - fig:2
+  basis: Nikolai asks to overtake, urges his horses, races the opponent, and controls
+    the carriage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: rival driver and blocker
+  assigned_to:
+  - fig:3
+  basis: The opposing driver moves ahead, lashes his horses, and blocks the road at
+    a narrow point.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: draft horse teams
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both equipages are drawn by teams of three horses that perform the uphill
+    race.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: vehicle repairer
+  assigned_to:
+  - fig:6
+  basis: The Homutooka blacksmith fixes the carriage king-bolt securely with iron.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: waiting station users
+  assigned_to:
+  - fig:7
+  basis: The passage describes people at post stations waiting for horses and taking
+    tea or lunch.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: three-horse equipage
+  literal_form: Two carriages, each drawn by three horses abreast.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: king-bolt
+  literal_form: The carriage king-bolt, nearly out of the front axle after the downhill
+    race.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: repair implements
+  literal_form: A large stone, ropes, and a firm strip of iron used to restore or
+    secure the king-bolt.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: post station
+  literal_form: Homutooka and other post stations where horses, repairs, waiting,
+    tea, and food are available.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: samovar
+  literal_form: An urn-shaped self-boiler with a central tube and charcoal-heated
+    lower space for boiling water.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Uphill road contest
+  summary: After being slowed by a driver ahead, Nikolai attempts to pass. The two
+    three-horse equipages race uphill, and the rival blocks the road at a narrow place
+    before Nikolai later gains the lead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Downhill run and near accident
+  summary: Nikolai drives down the road at full speed. The narrator calls for the
+    speed to be slackened and discovers that the king-bolt is almost out, creating
+    danger for the carriage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Temporary and blacksmith repair
+  summary: The king-bolt is driven back with a stone and fastened with ropes, then
+    fixed securely by a blacksmith at the Homutooka post station.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Post-station life and samovar use
+  summary: The passage describes post stations as places where travelers wait for
+    horses and take tea or lunch, with boiling water supplied by a charcoal-heated
+    samovar.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: road rivalry and overtaking contest
+  taxonomy_refs: []
+  basis: The passage centers on a hostile encounter between two drivers, including
+    an uphill race, blocking at a narrow road, and eventual overtaking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a travel-memoir episode, not an explicitly mythic narrative motif.
+- id: motif:2
+  label: dangerous journey and near vehicle failure
+  taxonomy_refs: []
+  basis: The downhill race nearly dislodges the king-bolt, creating a risk that the
+    horses would run off with the front wheels and axle.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is literal and practical; no supernatural or ritual meaning
+    is stated.
+- id: motif:3
+  label: waystation service and tea preparation
+  taxonomy_refs: []
+  basis: The passage describes stopping at Homutooka for repair and then generalizes
+    about post stations, travelers, tea, and samovar use.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is ethnographic/travel description rather than a narrative mythic
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1501-1519
+  quote_or_summary: A driver ahead annoys the travelers by controlling the pace; Nikolai
+    asks whether he should go ahead and says he knows his horses.
+  source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1520-1552
+  quote_or_summary: Nikolai tries to pass; both equipages are drawn by three horses
+    abreast; the rival blocks the road at a narrow place; Nikolai later overtakes
+    and leads by about two lengths.
+  source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1553-1574
+  quote_or_summary: Nikolai drives downhill at full speed; the narrator calls for
+    slowing and stopping; the carriage king-bolt is found nearly out of the front
+    axle, threatening a serious accident.
+  source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1575-1585
+  quote_or_summary: A stone and ropes are used to hold the king-bolt temporarily;
+    the beaten driver does not approach again; at Homutooka a blacksmith fixes the
+    king-bolt with iron for fifteen copecks.
+  source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1586-1597
+  quote_or_summary: Post stations are described as places with travelers waiting for
+    horses, tea or lunch, and a samovar that boils water by means of ignited charcoal
+    in a central tube.
+  source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage supports literal travel-narrative patterns and ethnographic objects
+    but does not provide internal grounds for comparative mythology claims or taxonomy
+    mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage gives no explicit mythic, ritual, or comparative framing.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:siberian-mongol-journey-in-southern-siberia-curtin-archive__l1501-l1597
+  passage_sha256=503be725702ef59b1c36ad2599e0fed706b12d11e433d220a6335930776e2c65
+

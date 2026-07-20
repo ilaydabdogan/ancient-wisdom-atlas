@@ -1,0 +1,578 @@
+---
+record_id: batch.motif.georgian-georgian-folk-tales-wardrop-gutenberg-l2875-l2983
+source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+passage_locator:
+  label: THE TWO BROTHERS / THE PRINCE / THE SHEPHERD AND THE CHILD OF FORTUNE / THE
+    TWO THIEVES; lines 2875-2983
+  start: '2875'
+  end: '2983'
+  translation: Georgian Folk Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Two thieves meet, become partners, test one another’s skill, and rob the
+    king’s treasury. After the king’s council sets a pitch-barrel trap, the Big Thief
+    is caught and the Little Thief cuts off his head to prevent identification. The
+    king uses the headless body to expose mourners; the Big Thief’s wife, coached
+    by the Little Thief, breaks a water jar and pretends to mourn it while actually
+    mourning her husband. The king then sends the corpse outside the town as further
+    bait.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Big Thief meets an unknown man who identifies himself as the Little Thief,
+    and the two agree to become partners.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Big Thief removes a pigeon’s tail from a plane tree, while the Little
+    Thief secretly removes the Big Thief’s drawers during the same action.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The two thieves decide to break into the king’s treasury at night and carry
+    away money in two bags.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After discovering the theft, the king and his council have a large barrel
+    filled with pitch placed at the treasury entrance.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: On the next attempt, the Big Thief is caught in the pitch up to his neck,
+    and the Little Thief cuts off his head with a dagger and hides it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Little Thief warns the Big Thief’s wife not to reveal any connection to
+    the dead man.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The king orders the headless body placed in the market place under guard,
+    with instructions to seize anyone who weeps at the sight of it.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Little Thief instructs the wife to carry a water jar, break it near the
+    body, and appear to weep for the broken pitcher rather than for her husband.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: 'The wife follows the plan: she breaks the jar near the corpse and weeps,
+    and the sentinels interpret her grief as mourning for the broken pitcher.'
+  category: sequence
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:10
+  text: The king recognizes the trick after the sentinels report it, has the sentinels
+    executed, and then has the corpse placed outside the town under guard as bait.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Big Thief
+  description: A thief who joins partnership with the Little Thief, demonstrates skill
+    by stealing a pigeon’s tail, participates in robbing the king’s treasury, is caught
+    in pitch, and is decapitated by his companion.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Little Thief
+  description: A thief who becomes the Big Thief’s partner, secretly steals the Big
+    Thief’s drawers during the skill test, helps rob the treasury, cuts off and hides
+    the Big Thief’s head, and devises the wife’s water-jar ruse.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: King
+  description: The ruler whose treasury is robbed; he consults his council, orders
+    guards and traps around the thief’s body, and punishes the sentinels after they
+    fail to seize the woman.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: King’s council
+  description: A council called by the king after the treasury theft; they devise
+    the pitch-barrel trap.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Big Thief’s wife
+  description: The dead thief’s wife, warned by the Little Thief, who goes near the
+    body with a water jar and publicly weeps in a disguised way.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: Sentinels
+  description: Guards posted over the thief’s body; they report the woman’s apparent
+    mourning for the broken jar and are later executed by the king.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: thief-partner
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both men identify thieving as their trade and agree to join partnership.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: stealth-skill contestant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The two test one another’s thieving skill through the pigeon-tail and drawers
+    episode.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: royal respondent to theft
+  assigned_to:
+  - fig:3
+  basis: The king responds to the treasury theft with council deliberation, public
+    traps, guards, and punishment.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:9
+  - ev:10
+- id: role:4
+  label: trap-planning council
+  assigned_to:
+  - fig:4
+  basis: The council devises the scheme of placing a pitch-filled barrel at the treasury
+    entrance.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: trapped and concealed dead accomplice
+  assigned_to:
+  - fig:1
+  basis: The Big Thief is caught in pitch, decapitated, and later displayed as a headless
+    body.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: ruse-maker and identity concealer
+  assigned_to:
+  - fig:2
+  basis: The Little Thief cuts off and hides the head, warns the wife, and instructs
+    the water-jar ruse.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:7
+  label: bereaved wife using disguised mourning
+  assigned_to:
+  - fig:5
+  basis: The wife weeps near her husband’s body while making it appear that she mourns
+    a broken pitcher.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: corpse guards
+  assigned_to:
+  - fig:6
+  basis: Sentinels are posted to guard the body and observe mourners or corpse-stealers.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: plane tree
+  literal_form: A plane tree where a pigeon is sitting and where both thieves climb
+    during the skill test.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: pigeon tail
+  literal_form: The tail pulled from a pigeon by the Big Thief as proof of skill.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stolen drawers
+  literal_form: The Big Thief’s drawers, secretly removed by the Little Thief during
+    the pigeon-tail theft.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: king’s treasury
+  literal_form: The royal treasury broken into by the thieves at night and later guarded
+    by a pitch trap.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: two money bags
+  literal_form: Two bags used by the thieves to carry money away from the treasury.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: barrel of pitch
+  literal_form: A large barrel filled with pitch and set at the entrance to the treasury,
+    catching the Big Thief up to the neck.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: headless corpse
+  literal_form: The Big Thief’s body without its head, placed in the market place
+    and later outside the town under guard.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:10
+- id: sym:8
+  label: water jar or broken pitcher
+  literal_form: A water jar carried by the wife and deliberately broken so that her
+    mourning can appear to be for the jar.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Meeting and partnership of the thieves
+  summary: The Big Thief meets the Little Thief, learns that both are thieves, and
+    forms a partnership with him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Skill test under the plane tree
+  summary: The Big Thief steals a pigeon’s tail from a tree, while the Little Thief
+    secretly steals the Big Thief’s drawers, causing the Big Thief to acknowledge
+    his skill.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Night theft from the king’s treasury
+  summary: The two thieves decide to rob the king’s treasury, take two bags, enter
+    at night, fill the bags with money, and leave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Pitch trap and decapitation
+  summary: After the king’s council places a pitch barrel at the treasury entrance,
+    the Big Thief is caught; the Little Thief cannot free him, cuts off his head,
+    hides it, and warns the wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Market-place body and water-jar ruse
+  summary: The king uses the headless body to detect mourners, but the wife, following
+    the Little Thief’s plan, breaks a water jar near the corpse and appears to mourn
+    the vessel.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Corpse placed outside the town as bait
+  summary: After the market-place ruse fails, the king has the corpse left outside
+    town under guard to catch anyone who comes to steal it.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Two thieves form a partnership after identifying their shared trade
+  taxonomy_refs: []
+  basis: The Big Thief and Little Thief state that both are thieves and agree to become
+    partners.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local episode pattern; no specific provided taxonomy family
+    directly names it.
+- id: motif:2
+  label: Contest of stealth between thieves
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Big Thief performs a theft from a pigeon, while the Little Thief secretly
+    steals from him during the act.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is a broad motif-family fit for deceptive boundary-crossing
+    skill, not a catalog number.
+- id: motif:3
+  label: Night robbery of a royal treasury followed by a counter-trap
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The thieves enter the king’s treasury at night, and the king’s side responds
+    by placing a pitch-filled barrel at the entrance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The treasury is royal rather than explicitly sacred; no sacred-theft classification
+    is asserted.
+- id: motif:4
+  label: Trapped accomplice decapitated to prevent identification
+  taxonomy_refs: []
+  basis: When the Big Thief is caught in pitch and cannot be freed, the Little Thief
+    cuts off and hides his head; the king later finds only a headless body.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No provided taxonomy family directly matches decapitation for concealment.
+- id: motif:5
+  label: Guarded corpse used to identify mourners
+  taxonomy_refs: []
+  basis: The king places the headless body in the market under guard and orders seizure
+    of anyone who weeps for it.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The episode is extracted only from the supplied passage range.
+- id: motif:6
+  label: Feigned mourning over a broken water jar conceals true grief
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The wife deliberately breaks a water jar and publicly weeps as if for the
+    jar while actually mourning her husband.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The trickster-boundary taxonomy reference is functional and broad.
+- id: motif:7
+  label: Corpse set outside town as bait for a thief
+  taxonomy_refs: []
+  basis: After the first public-body trap fails, the king has the corpse left outside
+    town under guard to catch whoever comes to steal it.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The outcome of this baited-corpse episode is not included in the supplied
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines approx. 2875-2885
+  quote_or_summary: The tale opens with the Big Thief meeting an unknown man who names
+    himself Little Thief; they identify thieving as their trade and become partners.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines approx. 2886-2905
+  quote_or_summary: During a proof of skill, the Big Thief pulls out a pigeon’s tail
+    from a plane tree, while the Little Thief secretly removes the Big Thief’s drawers
+    and displays them.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines approx. 2906-2924
+  quote_or_summary: The thieves decide to rob the king’s treasury at night, take two
+    bags, assign inside and outside roles, fill the bags with money, and go home.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines approx. 2925-2931
+  quote_or_summary: The king discovers the theft, calls his council, and they arrange
+    for a large barrel filled with pitch to be placed at the treasury entrance.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines approx. 2932-2940
+  quote_or_summary: The thieves return; the Big Thief enters and is caught up to the
+    neck in pitch. Unable to free him, the Little Thief cuts off his head with a dagger
+    and hides it.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines approx. 2941-2945
+  quote_or_summary: The Little Thief tells the dead man’s wife what happened and warns
+    her not to reveal their connection to the dead thief.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines approx. 2946-2954
+  quote_or_summary: The king sees the headless thief’s body and orders it placed in
+    the market under sentinels, with instructions to bring in anyone who weeps at
+    the sight.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines approx. 2955-2970
+  quote_or_summary: The Little Thief tells the wife to carry a water jar, break it
+    near the body, and sit down to weep as though mourning the broken pitcher; she
+    follows these instructions.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines approx. 2971-2979
+  quote_or_summary: The sentinels report that only one woman wept, apparently over
+    her broken water jar; the king sees the trick, becomes angry, and orders the sentinels
+    beheaded.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines approx. 2980-2983
+  quote_or_summary: The king tries another ruse by sending the thief’s corpse outside
+    the town, leaving it under guard so that anyone attempting to steal it can be
+    seized.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The supplied text gives clear narrative events and objects. Motif labels
+    are descriptive and broad; no historical or cross-tradition comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction is limited to the supplied passage and source metadata; no external tale-type or motif-index identifications were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:georgian-georgian-folk-tales-wardrop-gutenberg__l2875-l2983
+  passage_sha256=3ae5e71f865cde9f899b63f63e146d87f022d6087966cb22972d57bf49aaa2bb
+

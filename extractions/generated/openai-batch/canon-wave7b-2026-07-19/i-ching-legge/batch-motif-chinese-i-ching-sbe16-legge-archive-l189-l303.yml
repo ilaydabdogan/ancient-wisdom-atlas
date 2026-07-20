@@ -1,0 +1,151 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l189-l303
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: HEXAGRAM / CONTENTS. / SECTION II. / THE APPENDIXES.; lines 189-303
+  start: '189'
+  end: '303'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents excerpt lists hexagram numbers and transliterated names,
+    then gives appendix headings for treatises on the Thwan and on hexagram symbolism,
+    including references to King Wan's explanations and the Duke of XAvu's explanations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists Roman-numeral hexagram entries with associated transliterated
+    names.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage includes the headings CONTENTS, SECTION II, and THE APPENDIXES.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Appendix I is described as a treatise on the Thwan concerning King Wan's explanations
+    of the entire hexagrams.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The table gives two sections for the Thwan treatise with page ranges.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Another treatise heading concerns the symbolism of the hexagrams and the Duke
+    of XAvu's explanations of the several lines.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: King Wan
+  description: Named in the contents heading as associated with explanations of the
+    entire hexagrams.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Duke of XAvu
+  description: Named in the contents heading as associated with explanations of the
+    several lines.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: attributed explainer of the entire hexagrams
+  assigned_to:
+  - fig:1
+  basis: The treatise title states that it concerns King Wan's explanations of the
+    entire hexagrams.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: attributed explainer of the several lines
+  assigned_to:
+  - fig:2
+  basis: The treatise heading connects the Duke of XAvu with explanations of the several
+    lines.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: hexagrams
+  literal_form: hexagrams
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: several lines
+  literal_form: the several lines
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 189-243
+  quote_or_summary: The excerpt lists hexagram numerals and names, including entries
+    around XXVIII-XLIX and labels such as Khan, Li, Hsien, Hang, Thun, and others.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 244-252
+  quote_or_summary: 'The excerpt transitions into table-of-contents headings: CONTENTS,
+    SECTION II, and THE APPENDIXES.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 253-300
+  quote_or_summary: Appendix I is titled as a treatise on the Thwan, on King Wan's
+    explanations of the entire hexagrams; it lists Section I, Khien to Li, pages 213-237,
+    and Section II, Hsien to Wei 87, pages 238-266.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 301-303
+  quote_or_summary: A following treatise heading is on the symbolism of the hexagrams
+    and the Duke of XAvu's explanations of the several lines.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a fragmentary, OCR-noisy table of contents rather than a narrative
+    passage. No comparative mythology motif candidates or comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic episode is present in this passage; extraction is limited to named textual figures, hexagram-related symbolic objects, and contents-structure observations.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l189-l303
+  passage_sha256=c43de3aa42bc685933ea1b61a00f5d509501aab5d5e35b739cfd4b3879ea1063
+

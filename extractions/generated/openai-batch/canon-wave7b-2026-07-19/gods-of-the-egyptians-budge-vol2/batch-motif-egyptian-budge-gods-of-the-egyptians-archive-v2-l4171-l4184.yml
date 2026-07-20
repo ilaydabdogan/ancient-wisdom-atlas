@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l4171-l4184
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: THI   AND   AMEN-HETEP   III. / AMEN-HETEP    IV.    (KHU-EN-ATEN)  71 /
+    ATEN    WORSHIP / HYMN   TO   ATEN; lines 4171-4184
+  start: '4171'
+  end: '4184'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a hymn addressed to Aten, the deity is said to cause conception, form
+    a human being from seed, sustain the child in the mother’s body, give breath,
+    enable speech at birth, and provide necessities. The deity is also said to give
+    air to a chick within an egg, bring it to completion, and enable it to break the
+    shell and emerge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The addressed deity causes male seed to enter women and causes liquid seed
+    to become a human being.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The deity makes a male child live in the body of his mother and keeps him
+    silent so that he does not cry.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The deity is described as a nurse to the child in the womb and gives breath
+    to vivify every part of him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: When the child comes forth from the belly on the day of birth, the deity opens
+    his mouth so that he may speak and provides what is necessary for him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A chick is described as being inside an egg, making a sound within the shell.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The deity gives air inside the egg, brings the chick to perfection, and the
+    chick splits the eggshell and comes forth.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: After coming forth from the egg, the chick runs.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Aten / addressed deity
+  description: The deity addressed as “thou” in the Hymn to Aten, credited with causing
+    conception, sustaining unborn life, giving breath or air, enabling speech, and
+    providing necessities.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Human child
+  description: A male child formed in the mother’s body, sustained in the womb, born
+    from the belly, and enabled to speak.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Women / mother
+  description: Women receive male seed; the mother’s body and belly are the place
+    in which the child lives and from which he is born.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Chick in the egg
+  description: A chick within an eggshell, making sound, receiving air, becoming complete,
+    breaking the shell, coming forth, and running.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: divine life-giver and nurturer
+  assigned_to:
+  - fig:1
+  basis: The addressed deity causes conception, sustains fetal life, gives breath
+    and air, provides for the newborn, and completes the chick in the egg.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: unborn and newborn human child
+  assigned_to:
+  - fig:2
+  basis: The child lives in the mother’s body, is in the womb, comes forth from the
+    belly on the day of birth, and has his mouth opened to speak.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: gestating mother
+  assigned_to:
+  - fig:3
+  basis: The passage refers to women receiving seed and to the child living in the
+    body and belly of his mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: embryonic hatchling
+  assigned_to:
+  - fig:4
+  basis: The chick is inside the egg, makes a sound in the shell, receives air, splits
+    the shell, emerges, and runs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: womb
+  literal_form: the body of the mother / womb
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: breath and air
+  literal_form: breath given to the human child; air given inside the egg
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: egg and eggshell
+  literal_form: egg, shell, and eggshell enclosing the chick before it emerges
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: opened mouth
+  literal_form: the deity opens the newborn child’s mouth so that he may speak
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Human conception, gestation, and birth under divine care
+  summary: The deity causes human conception, forms the child, sustains him in the
+    mother’s body, gives breath, and at birth enables speech and provides necessities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Chick developing and hatching under divine provision
+  summary: A chick sounds within the egg; the deity gives it air, brings it to completion,
+    and it breaks the shell, emerges, and runs.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine agency in conception, gestation, and birth
+  taxonomy_refs:
+  - sacred_birth
+  basis: The deity is credited with causing seed to become a human being, sustaining
+    the child in the womb, giving breath, and aiding birth and speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes divine care for ordinary human birth generally,
+    not a single named miraculous birth.
+- id: motif:2
+  label: divine nurturer in the womb
+  taxonomy_refs: []
+  basis: The deity is explicitly described as a nurse to the unborn child in the womb
+    and as giving breath that vivifies him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No specific taxonomy reference is assigned because the available list
+    has no exact womb-nursing motif.
+- id: motif:3
+  label: life-giving breath or air to unborn creatures
+  taxonomy_refs: []
+  basis: The deity gives breath to the human child and air inside the egg so the chick
+    may remain alive.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a recurrent pattern within the passage, but no available taxonomy
+    reference directly names it.
+- id: motif:4
+  label: divinely enabled hatching from the egg
+  taxonomy_refs: []
+  basis: The deity gives air to the chick, brings it to perfection, and the chick
+    splits the eggshell and emerges.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The egg is an ordinary bird egg in this passage; it should not be identified
+    with a cosmic egg motif from the available taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4171-4172
+  quote_or_summary: The deity makes male seed enter women and causes liquid seed to
+    become a human being.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 4173-4175
+  quote_or_summary: The deity makes the male child live in his mother’s body, keeps
+    him silent, and is called a nurse to him in the womb.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 4175-4179
+  quote_or_summary: The deity gives breath to vivify the child; when he is born, the
+    deity opens his mouth for speech and provides necessary things.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 4179-4181
+  quote_or_summary: The chick is in the egg, making sound within the shell, and the
+    deity gives it air inside so it may live.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 4182-4184
+  quote_or_summary: The deity brings the chick to perfection so it may split the eggshell;
+    it comes forth from the egg and runs.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the supplied passage. Motif taxonomy mapping
+    is cautious because the passage presents general divine life-giving rather than
+    a named mythic birth episode. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage treated as an English translation/excerpt of the Hymn to Aten in Budge’s public-domain work. Taxonomy references are limited to supplied available references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l4171-l4184
+  passage_sha256=d5bfd51040f51354516b1614cb276204996bebe14bf1ac9b26da9bd903f760b9
+

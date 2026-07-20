@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l33023-l33029
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XCV / SECTION XCVI / SECTION XCVII / SECTION XCVIII; lines 33023-33029
+  start: '33023'
+  end: '33029'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: As darkness made the battle no longer visible, the Kuru and Pandava forces
+    withdrew their armies, rested for the night, and retired to their respective tents.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The battle could no longer be seen.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Both the Kurus and the Pandavas withdrew their armies when a pitch-dark night
+    came.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After withdrawing their troops, both sides took rest for the night.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Kurus and the Pandavas retired to their respective tents.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the Kurus
+  description: One of the two opposing forces named in the passage; they withdraw
+    their army, rest, and retire to their tents.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the Pandavas
+  description: One of the two opposing forces named in the passage; they withdraw
+    their army, rest, and retire to their tents.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: opposing army
+  assigned_to:
+  - fig:1
+  basis: The Kurus are named as one side whose army withdraws from the battle area.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: opposing army
+  assigned_to:
+  - fig:2
+  basis: The Pandavas are named as the other side whose army withdraws from the battle
+    area.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: night-resting combatants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both sides take rest for the night and retire to their respective tents.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: pitch-dark night
+  literal_form: awful night of pitchy darkness
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: respective tents
+  literal_form: tents used by each side after withdrawal
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Night withdrawal from battle
+  summary: The battle becomes invisible in deep darkness; both the Kuru and Pandava
+    armies withdraw.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rest in separate tents
+  summary: After withdrawing troops, both sides rest for the night in their respective
+    tents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Nightfall halts battle
+  taxonomy_refs: []
+  basis: The battle can no longer be seen because of pitch darkness, and both armies
+    withdraw.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief battlefield transition, not an expanded
+    mythic episode.
+- id: motif:2
+  label: Opposing forces retire to separate camps
+  taxonomy_refs: []
+  basis: Both named sides withdraw troops, take night rest, and go to their respective
+    tents.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a repeated epic-war action pattern rather than a clearly marked
+    mythological motif in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 33023-33024
+  quote_or_summary: '"battle could no longer be seen."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 33023-33025
+  quote_or_summary: Both the Kurus and the Pandavas withdrew their armies when the
+    awful pitch-dark night came.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 33025-33028
+  quote_or_summary: After withdrawing their troops, both sides rested for the night
+    and retired to their respective tents.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain translation; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward; motif labeling is cautious because
+    the passage is short and mostly narrates battlefield logistics.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or cross-tradition comparison was assigned because the supplied passage only supports a local battlefield-night pattern.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l33023-l33029
+  passage_sha256=8317e7ba22f1deea609bbee95f07fdbf9ee881fa05004d267c59b9f2c9832486
+

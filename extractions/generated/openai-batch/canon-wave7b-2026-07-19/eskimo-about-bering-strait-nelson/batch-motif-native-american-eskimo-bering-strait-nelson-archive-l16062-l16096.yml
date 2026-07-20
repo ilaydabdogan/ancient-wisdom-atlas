@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l16062-l16096
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    ESKIMO    ABOUT    BERING    STRAIT / VARIOUS    FORMS    OF    HOUSES
+    / THE    ESKIMO    ABOUT    BERING    STRAIT / THE    ESKIMO    ABOUT    BERING    STRAIT;
+    lines 16062-16096
+  start: '16062'
+  end: '16096'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes summer houses, storage practices, and architectural
+    differences between King Island and larger Diomede Island settlements, including
+    walrus-hide structures, cliff storage accessible from water, stone-walled summer
+    houses, arched entrances, and raised storehouses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A longer outer room is described as a general sitting and work room and as
+    a receptacle for dried fish and other stores.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Translucent walrus hides made the houses light, and the houses were kept clean.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In summer, fresh meat and fish were kept in a large cleft in a cliff near
+    the landing place, accessible only from the water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Elevated frameworks near the landing place were used for storing boats.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On larger Diomede Island, villages are said to have differed in several respects
+    from those of the King Islanders.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Diomede summer houses were built among winter dwellings, above ground, with
+    stone walls and gravel-covered roofs.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An arched stone passage, like those of winter houses but shorter, led to the
+    living room.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Diomede summer houses were similar to winter houses, except that they were
+    less carefully built to exclude water.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A storehouse was raised on four posts over or very near the entrance to each
+    Diomede summer house.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Diomede storehouse posts and framework were made from driftwood, while
+    the sides and roofs were made from walrus hide, like elevated houses on King Island.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: King Island summer houses
+  description: Walrus-hide summer houses associated with light interior conditions,
+    cleanliness, and storage areas.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cliff cleft food cache
+  description: A large cleft in a cliff near the landing place where fresh meat and
+    fish were kept in summer, reachable only from the water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Diomede summer houses
+  description: Above-ground summer houses among winter dwellings, with stone walls,
+    gravel-covered roofs, and an arched stone passage to the living room.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Raised Diomede storehouses
+  description: Storehouses raised on four posts over or near summer-house entrances,
+    made with driftwood supports and walrus-hide sides and roofs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: King Island elevated houses
+  description: Elevated houses on King Island used as the comparison for the walrus-hide
+    sides and roofs of Diomede storehouses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seasonal dwelling
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage identifies these structures as summer houses and compares some
+    to winter dwellings.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: summer food storage place
+  assigned_to:
+  - fig:2
+  basis: The cleft held fresh meat and fish during summer.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: raised storage structure
+  assigned_to:
+  - fig:4
+  basis: The passage calls the structure a storehouse raised on four posts over or
+    near each summer-house entrance.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: architectural comparison point
+  assigned_to:
+  - fig:5
+  basis: The passage says the Diomede storehouses had walrus-hide sides and roofs
+    like elevated houses on King Island.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: walrus hide covering
+  literal_form: translucent walrus hides; walrus-hide sides and roofs
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: cliff cleft cache
+  literal_form: great cleft in the cliff
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water-only access
+  literal_form: water
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: raised four-post storehouse
+  literal_form: storehouse raised on four posts
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: arched stone passage
+  literal_form: arched stone passage leading to the living room
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: King Island house and storage arrangement
+  summary: The passage describes King Island houses with walrus-hide light, interior
+    work and storage space, summer food storage in a cliff cleft, and elevated frameworks
+    for boats.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Diomede summer houses among winter dwellings
+  summary: The passage describes Diomede summer houses as above-ground structures
+    among winter dwellings, with stone walls, gravel roofs, and a shorter arched passage
+    to the living room.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Raised storehouse at Diomede summer-house entrance
+  summary: Each Diomede summer house has a storehouse raised on four posts over or
+    near the entrance, with driftwood supports and walrus-hide sides and roof.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal dwelling and storage cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly distinguishes summer houses, winter dwellings, summer
+    food storage, and storage structures.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic architectural passage, not a mythic narrative;
+    the motif label identifies a practical seasonal pattern rather than a sacred cycle.
+- id: motif:2
+  label: elevated storage and protected access
+  taxonomy_refs: []
+  basis: Food is stored in a cliff cleft accessible only from water, boats are stored
+    on elevated frameworks, and Diomede storehouses are raised on four posts near
+    entrances.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage supports a storage pattern, but does not state ritual or symbolic
+    significance.
+- id: motif:3
+  label: architectural threshold passage
+  taxonomy_refs: []
+  basis: The Diomede summer houses have an arched stone passage leading to the living
+    room, similar to winter-house passages but shorter.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage describes a literal house entrance; no initiatory or mythic
+    threshold meaning is stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage directly compares larger Diomede Island villages with those of
+    the King Islanders, stating that they differed in several respects.
+  claim_level: same_function
+  target: King Island settlement architecture
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage introduces the comparison but only details selected architectural
+    features.
+- id: claim:2
+  claim: Diomede summer houses are described as structurally similar to winter houses,
+    with a shorter arched passage and less careful exclusion of water.
+  claim_level: visual_similarity
+  target: Diomede winter houses
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: high
+  limitations: The same evidence also states differences, so the claim is limited
+    to broad structural similarity.
+- id: claim:3
+  claim: Diomede raised storehouses are compared to elevated houses on King Island
+    because their sides and roofs are likewise made of walrus hide.
+  claim_level: visual_similarity
+  target: King Island elevated houses
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to materials and elevated form; the passage
+    does not establish identical use or origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16062-16067
+  quote_or_summary: A longer outer room served for sitting, work, and storing dried
+    fish and other stores; translucent walrus hides made the houses light and clean.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 16067-16070
+  quote_or_summary: In summer, fresh meat and fish were stored in a cliff cleft near
+    the landing place, accessible only from water; elevated frameworks stored boats.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 16071-16073
+  quote_or_summary: On larger Diomede Island, villages differed in several respects
+    from those of the King Islanders.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 16082-16088
+  quote_or_summary: Diomede summer houses were built among winter dwellings, above
+    ground, with stone walls, gravel-covered roofs, and a shorter arched stone passage;
+    they were similar to winter houses but less carefully built to exclude water.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 16089-16096
+  quote_or_summary: A storehouse stood on four posts over or near each Diomede summer-house
+    entrance, with driftwood supports and walrus-hide sides and roofs like elevated
+    houses on King Island.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The architectural details are explicit. Motif labels are cautious because
+    the passage is ethnographic and practical rather than mythic or ritual in content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or unsupported mythological interpretations were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l16062-l16096
+  passage_sha256=421635be7151df609d0c46e21fffc788d075a1abe5e49417c4e1472acf4225d7
+

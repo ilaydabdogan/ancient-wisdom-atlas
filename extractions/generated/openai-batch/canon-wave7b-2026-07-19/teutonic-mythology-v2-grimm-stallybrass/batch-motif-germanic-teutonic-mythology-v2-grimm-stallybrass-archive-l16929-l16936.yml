@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l16929-l16936
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: TIME.  791 / VOL.  II.  A   A / WORLD.  793 / WORLD.  795; lines 16929-16936
+  start: '16929'
+  end: '16936'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The squirrel, is still an essential feature in the popular notion of a forest...
+    The eagle's friend... means a hidden counsellor.
+  summary: The passage discusses etymological and literary references connected with
+    the squirrel, describes the squirrel as part of the popular idea of a forest,
+    notes squirrel-catching at Easter as possibly connected to old heathen uses, and
+    explains a phrase for an avian figure as meaning a hidden counsellor.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage links a word containing rata with meanings such as slipping through
+    or permeating, and compares this with Gothic vraton and related forms.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Wolfram's Parzival is cited for the expression translated as dodging like
+    a squirrel.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The squirrel is described as an essential feature in the popular notion of
+    a forest.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage mentions the catching of squirrels at Easter and says this was
+    perhaps for old heathen uses.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The phrase rendered as the eagle's friend, or hawk in the corner, is explained
+    as meaning a hidden counsellor.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: squirrel
+  description: A squirrel appears in a comparison for dodging and is described as
+    an essential feature in the popular notion of a forest; squirrels are also mentioned
+    as caught at Easter.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: eagle's friend / hawk in the corner
+  description: An avian phrase explained as meaning a hidden counsellor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dodging animal
+  assigned_to:
+  - fig:1
+  basis: The passage quotes a comparison meaning dodging like a squirrel.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: forest-associated animal
+  assigned_to:
+  - fig:1
+  basis: The squirrel is said to be essential to the popular notion of a forest.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: hidden counsellor
+  assigned_to:
+  - fig:2
+  basis: The phrase hawk in the corner is glossed as a hidden counsellor.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: squirrel
+  literal_form: squirrel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: hawk in the corner
+  literal_form: hawk in the corner
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Lexical and customary notes on squirrel and avian counsellor
+  summary: The passage collects philological notes, a literary comparison to a squirrel,
+    a statement about the squirrel's place in the idea of a forest, a possible Easter
+    custom of catching squirrels, and a gloss of an avian phrase as a hidden counsellor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal as hidden counsellor
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly glosses the eagle's friend or hawk in the corner as
+    a hidden counsellor.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage is a brief lexical note, not a full narrative episode; the
+    wisdom taxonomy link is based only on the counsellor function.
+- id: motif:2
+  label: seasonal animal-catching custom
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage mentions catching squirrels at Easter and cautiously suggests
+    a possible connection with old heathen uses.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The author marks the connection as only possible, and no detailed ritual
+    or narrative context is provided.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16929-16930
+  quote_or_summary: The text gives philological forms connected with meanings such
+    as slipping through or permeating.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 16930-16931
+  quote_or_summary: Wolfram in Parz. 651, 13 has 'wenken als ein eichorn,' dodging
+    like a squirrel.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 16931-16932
+  quote_or_summary: The squirrel, is still an essential feature in the popular notion
+    of a forest.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 16932-16933
+  quote_or_summary: The text refers to catching squirrels at Easter, perhaps for old
+    heathen uses.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: quote
+  locator: lines 16935-16936
+  quote_or_summary: The eagle's friend, for haukr i horni (hawk in the corner) means
+    a hidden counsellor.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but the passage is philological
+    and antiquarian rather than narrative, so motif candidates are tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-textual comparison beyond lexical and customary notes.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l16929-l16936
+  passage_sha256=a48ec83728498273d6cfc32ecdc36e9b8fc68ba61eb4e94d9c921a4d77f978da
+

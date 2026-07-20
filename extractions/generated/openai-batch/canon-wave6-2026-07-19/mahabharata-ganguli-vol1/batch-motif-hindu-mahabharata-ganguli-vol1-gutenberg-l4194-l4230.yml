@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l4194-l4230
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION XXXII / SECTION XXXIII / SECTION XXXIV / SECTION XXXV; lines 4194-4230
+  start: '4194'
+  end: '4230'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Sesha was born first, and then Vasuki.
+  summary: Saunaka asks Sauti to recite the names of the principal snakes. Sauti says
+    he will avoid naming all snakes because they are too numerous, then lists many
+    chief serpents beginning with Sesha and Vasuki, and concludes that the descendants
+    of the snakes are beyond calculation.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Saunaka asks Sauti to name the principal snakes after referring to earlier
+    accounts of curses, boons, and Vinata's sons.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sauti says he will not name all the snakes because the account would be lengthy,
+    but will recite the chief ones.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sauti states that Sesha was born first and Vasuki after him, followed by many
+    other named serpents.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage presents a long catalogue of principal serpents.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sauti says the sons and grandsons of the snakes are innumerable and that the
+    number of snakes in the world baffles calculation.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Saunaka
+  description: Speaker who asks Sauti to recite the names of the principal snakes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sauti
+  description: Narrator who answers Saunaka by naming the chief serpents and explaining
+    that the full number of snakes is too great to list.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Kadru
+  description: Named in Saunaka's recap as the mother by whom the snakes were cursed
+    and as one who received boons from her husband.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Vinata
+  description: Named in Saunaka's recap as cursed by her son, a recipient of boons
+    from her husband, and mother of sons previously named.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Sesha
+  description: The first-born among the listed principal serpents.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Vasuki
+  description: A principal serpent named as born after Sesha.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Principal serpents
+  description: Collective group of chief snakes listed by Sauti, including Sesha,
+    Vasuki, Airavata, Takshaka, Karkotaka, and many others.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Sons and grandsons of the snakes
+  description: Descendants of the named snakes, described as innumerable.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Saunaka asks to hear the names of the principal snakes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reciting narrator
+  assigned_to:
+  - fig:2
+  basis: Sauti states he will recite the names of the chief snakes and then does so.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: mother associated with serpent curse
+  assigned_to:
+  - fig:3
+  basis: Saunaka refers to the snakes being cursed by their mother and names Kadru
+    in the same recap of prior events.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: mother associated with sons and curse
+  assigned_to:
+  - fig:4
+  basis: Saunaka says Vinata was cursed by her son and refers to Vinata's sons.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: principal serpent
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Sauti identifies the listed beings as the chief or principal serpents.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: innumerable descendants
+  assigned_to:
+  - fig:8
+  basis: Sauti says the sons and grandsons of the snakes are innumerable.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: snakes / serpents
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Request for serpent names
+  summary: Saunaka asks Sauti to provide the names of the principal snakes, noting
+    that prior topics included curses, boons, and Vinata's sons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Catalogue of chief serpents
+  summary: Sauti says he will avoid naming all snakes, then recites a catalogue of
+    principal serpents beginning with Sesha and Vasuki.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Innumerability of serpent descendants
+  summary: Sauti concludes that the sons and grandsons of the snakes are innumerable
+    and that the world's snakes cannot be calculated.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Catalogue of principal serpents
+  taxonomy_refs:
+  - serpent
+  basis: The passage is centered on naming chief snakes or serpents and emphasizing
+    their vast number of descendants.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is primarily a genealogical or cataloguing passage; no extended
+    serpent episode is narrated here.
+- id: motif:2
+  label: Innumerable serpent lineage
+  taxonomy_refs:
+  - serpent
+  basis: Sauti says the sons and grandsons of the snakes are innumerable and that
+    their total number baffles calculation.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states abundance rather than narrating a full lineage story.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4194-4205
+  quote_or_summary: Saunaka asks Sauti to recite the names of the principal snakes,
+    after referring to earlier accounts of curses involving the snakes, Kadru, and
+    Vinata, boons given to Kadru and Vinata, and Vinata's sons.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4207-4210
+  quote_or_summary: Sauti says he will not name all the snakes for fear of being lengthy,
+    but will recite the names of the chief ones.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 4211-4223
+  quote_or_summary: '"Sesha was born first, and then Vasuki"; the passage then lists
+    many other principal serpents, including Airavata, Takshaka, Karkotaka, and others.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short excerpt quoted from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4225-4229
+  quote_or_summary: Sauti says he has named the principal serpents only; the sons
+    and grandsons of these snakes are innumerable, and the number of snakes in the
+    world is beyond calculation, with many thousands and millions.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is straightforward for speakers, serpent catalogue, and serpent
+    abundance. Motif labeling is limited because the passage is an enumeration rather
+    than a narrative episode. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the available serpent symbol/motif family.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l4194-l4230
+  passage_sha256=52765b602cd17ff13e07660c6399691a80478a44ea202917a7deceb3be3fed4e
+

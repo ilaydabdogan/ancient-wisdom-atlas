@@ -1,0 +1,169 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l905-l1017
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: ILLUSTRATIONS' / ILLUSTRATIONS1 / ILLUSTRATIONS / ILLUSTRATIONS  1  1; lines
+    905-1017
+  start: '905'
+  end: '1017'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An illustrations list gives plate captions, catalogue numbers, and page
+    references for tool and trinket boxes, handles, sewing and skin-working implements,
+    hunting and fishing equipment, seal-capturing implements, and a caption of a St
+    Michael hunter casting a seal spear.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an illustrations list organized by plate labels, numbered items,
+    catalogue numbers in parentheses, and page references.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: obs:2
+  text: The listed illustrated objects include storage or container-related items
+    such as tool and trinket boxes and bucket and box handles.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The listed illustrated objects include sewing, fastening, cutting, thread-making,
+    and skin-working implements.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The listed illustrated objects include hunting, fishing, trapping, seal-capturing,
+    spear, lance, float, line, and cord-attachment equipment.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:5
+  text: One plate caption identifies a St Michael hunter in the act of casting a seal
+    spear.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: St Michael hunter
+  description: The caption identifies a hunter from St Michael casting a seal spear.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The plate caption explicitly calls the figure a hunter.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: seal spear
+  literal_form: seal spear
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: hunting and fishing implements
+  literal_form: nets, snares, traps, braining clubs, seal-capturing implements, seal
+    spears and lines, spears, lances, floats, plugs, mouth pieces, cord attachers,
+    and lance points
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: sewing and skin-working implements
+  literal_form: thimble guards, needle-cases, boot-sole creasers, housewives, fastenings,
+    bodkins, fish and skinning knives, thread- and cord-making implements, skin scrapers,
+    and skin-cleaning tools
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Hunter casting a seal spear
+  summary: A plate caption presents a St Michael hunter casting a seal spear.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 905-914; plates XLII-XLIII
+  quote_or_summary: The illustrations list includes Plate XLII for tool and trinket
+    boxes and Plate XLIII for bucket and box handles, with numbered catalogue entries
+    and page references.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence permitted.
+- id: ev:2
+  type: summary
+  locator: lines 915-951; plates XLIV-XLVIII
+  quote_or_summary: Plates XLIV-XLVIII list thimble guards, needle-cases, boot-sole
+    creasers, housewives, fastenings, bodkins, fish and skinning knives, and thread-
+    and cord-making implements.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence permitted.
+- id: ev:3
+  type: summary
+  locator: lines 952-969; plates XLIX-LII
+  quote_or_summary: Plates XLIX-LII list skin scrapers, skin-cleaning tools, nets,
+    snares, traps, braining clubs, and seal-capturing implements.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence permitted.
+- id: ev:4
+  type: quote
+  locator: lines 970-974; plate LIII
+  quote_or_summary: "“St Michael hunter casting a seal spear”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation permitted.
+- id: ev:5
+  type: summary
+  locator: lines 975-1017; plates LIV-LVII
+  quote_or_summary: Plates LIV-LVII list small seal spears and lines, spears and lances,
+    hunting and fishing apparatus including floats, float-plugs, mouth pieces and
+    cord attachers, and objects used in hunting such as lance points.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence permitted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a non-narrative illustrations list, so material objects and
+    one action caption can be extracted literally, but no mythological motif or comparison
+    claim is assigned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbolic or mythological interpretation is implied for the extracted object categories; they are recorded as literal illustrated objects from the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l905-l1017
+  passage_sha256=34010f2febd51acd26922b097db228f72111573ec5fd0a6b6e2296b758c27b09
+

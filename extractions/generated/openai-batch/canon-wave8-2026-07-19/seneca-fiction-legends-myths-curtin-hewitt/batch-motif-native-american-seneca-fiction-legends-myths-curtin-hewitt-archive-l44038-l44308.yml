@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.native-american-seneca-fiction-legends-myths-curtin-hewitt-archive-l44038-l44308
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: LBQBKDS / SENEOA FICTION, LBOEKDB, AND MYTHS / CUBTIN,! / LEOEKDS; lines
+    44038-44308
+  start: '44038'
+  end: '44308'
+  translation: Seneca Fiction, Legends, and Myths
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Fragmentary interlinear passage: a male figure descends or stands on earth,
+    says he is strong enough to bear a body away, bundles and wraps the body with
+    a forehead strap, returns home to an indoor fire, sets down the bundle, asks his
+    uncle to care for it, and hears the old uncle express gratitude and recall caring
+    for the nephew when he was small. The final fragment mentions task completion,
+    raccoon, skin, and making a pouch.'
+  language: English with Seneca transliteration/interlinear gloss
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male figure is described as descending or having a body descend and then
+    standing on earth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After standing on earth, the figure says that it is enough or sufficient and
+    that he is strong enough to bear the body away.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The figure makes a bundle, lays out or arranges the body, wraps it carefully,
+    and bears it with a forehead strap.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bundle is described as taking form or standing out, and the figure completes
+    the task.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The figure starts again and returns home.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At an indoor place where a fire is kindled, the figure sets or casts down
+    his bundle and addresses his uncle.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The figure asks his uncle to care for the bundle with both hands.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The old uncle attends to the bundle.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The uncle calls the other figure his nephew and says he is thankful, recalling
+    that he cared for him when he was small, pitied him, and helped him grow up.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The final fragment mentions the old one, raccoon, completion of a task, skin,
+    and making a pouch.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed male body-bearer
+  description: A male figure who stands on earth, says he is strong enough to carry
+    a body away, bundles it, bears it with a forehead strap, returns home, and addresses
+    an uncle.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: old uncle
+  description: A figure addressed as uncle, described as old, who attends to the bundle
+    and calls the carrier his nephew while recalling past care for him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: body-bearer
+  assigned_to:
+  - fig:1
+  basis: He says he is strong enough to bear the body away and then bundles, wraps,
+    and carries it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: nephew
+  assigned_to:
+  - fig:1
+  basis: The old uncle addresses him as nephew.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: uncle and former caregiver
+  assigned_to:
+  - fig:2
+  basis: He is addressed as uncle and recalls caring for the nephew when he was small.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: attendant to the bundle
+  assigned_to:
+  - fig:2
+  basis: After the bundle is set down, the old uncle attends to it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: wrapped body-bundle
+  literal_form: A body arranged, wrapped carefully, and made into a bundle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: forehead strap
+  literal_form: A carrying strap used at the forehead to bear the bundle.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: indoor kindled fire
+  literal_form: A fire kindled indoors at the home to which the carrier returns.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: skin and pouch
+  literal_form: Skin mentioned in connection with making a pouch in the final fragment.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Standing on earth and declaring strength
+  summary: The male figure stands on earth and says it is sufficient because he is
+    strong enough to bear the body away.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bundling and carrying the body
+  summary: The figure makes a bundle of the body, wraps it carefully, uses a forehead
+    strap, and completes the carrying preparation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Return home to the fire
+  summary: The figure returns home to an indoor place with a kindled fire and sets
+    down the bundle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Uncle attends and speaks gratitude
+  summary: The carrier asks his uncle to care for the bundle; the old uncle attends
+    to it and tells the nephew he is thankful, recalling earlier caregiving.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Fragmentary pouch-making ending
+  summary: The final fragment refers to the old one, raccoon, task completion, skin,
+    and making a pouch.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: return home after completing a burden-bearing task
+  taxonomy_refs:
+  - return
+  basis: After bundling and bearing the body, the figure starts again and returns
+    home, where he sets down the bundle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The surrounding narrative context is not included, so the larger function
+    of the return is uncertain.
+- id: motif:2
+  label: carrying a wrapped body-bundle
+  taxonomy_refs: []
+  basis: The passage emphasizes arranging a body, wrapping it carefully, and carrying
+    it away with a forehead strap.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The identity of the body and the purpose of transporting it are not clear
+    in the excerpt.
+- id: motif:3
+  label: reciprocal caregiving between uncle and nephew
+  taxonomy_refs: []
+  basis: The uncle cares for the bundle after the nephew asks him to do so, and the
+    uncle recalls having cared for the nephew when he was small.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports a relationship of care, but the wider social or ritual
+    meaning is not explicit.
+- id: motif:4
+  label: skin made into a pouch
+  taxonomy_refs: []
+  basis: The closing fragment mentions skin and making a pouch after the old one completes
+    a task.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The wording is fragmentary and includes unclear references to raccoon
+    and the old one.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 44038-44074
+  quote_or_summary: A male figure's body descends or is caused to descend; when he
+    stands on earth, he says it is enough or sufficient and that he is strong enough
+    to bear the body away.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 44075-44130
+  quote_or_summary: He makes a bundle, arranges or lays out the body, wraps it carefully,
+    takes it up, and bears it with a forehead strap.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 44131-44176
+  quote_or_summary: The bundle is described as formed or standing out; he lays out
+    the strap, completes the task, starts again, and returns home.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 44177-44219
+  quote_or_summary: At an indoor place where a fire is kindled, he casts down his
+    bundle and says to his uncle that it lies there and should be cared for with two
+    hands.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 44220-44286
+  quote_or_summary: The old uncle attends to the bundle and tells his nephew he is
+    thankful, saying he cared for and pitied him when he was small and as he grew
+    up.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 44287-44308
+  quote_or_summary: The closing fragment mentions the old one, raccoon, completion
+    of a task, skin, and making a pouch.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an OCR-like interlinear text with fragmented English glosses.
+    Literal actions and relationships are extractable, but figure identities and the
+    final raccoon/skin/pouch sequence need human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or clearly support a comparison to another text or tradition.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-seneca-fiction-legends-myths-curtin-hewitt-archive__l44038-l44308
+  passage_sha256=b47efe2f54e0acde3c8ed3046a36dc5ced8cc90de92fd6c47df0e8ce30be92d5
+

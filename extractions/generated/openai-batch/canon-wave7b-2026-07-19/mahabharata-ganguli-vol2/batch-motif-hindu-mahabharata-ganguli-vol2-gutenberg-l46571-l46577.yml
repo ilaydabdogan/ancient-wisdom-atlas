@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l46571-l46577
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XCIV / SECTION XCV / SECTION XCVI / SECTION XCVII; lines 46571-46577
+  start: '46571'
+  end: '46577'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Dhritarashtra asks Sanjaya what Drona did in battle to Yuyudhana after
+    Drona's shafts were cut off and Dhrishtadyumna was rescued by Yuyudhana.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dhritarashtra addresses Sanjaya with a question about what happened next in
+    battle.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Drona's shafts had been cut off.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dhrishtadyumna had been rescued by Yuyudhana.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Yuyudhana is described as foremost of the Vrishni race and as the grandson
+    of Sini.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Drona is described as a great bowman and foremost of all wielders of weapons.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Dhritarashtra asks what Drona did in battle unto Yuyudhana.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Dhritarashtra
+  description: Speaker who asks Sanjaya about Drona's next action in battle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Sanjaya
+  description: Person addressed by Dhritarashtra's question.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Drona
+  description: Warrior whose shafts had been cut off; described as a great bowman
+    and foremost wielder of weapons; subject of the question about what he did to
+    Yuyudhana.
+  role_refs:
+  - role:3
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Dhrishtadyumna
+  description: Warrior who had been rescued by Yuyudhana.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Yuyudhana
+  description: Rescuer of Dhrishtadyumna; identified as foremost of the Vrishni race
+    and grandson of Sini; named as the one toward whom Drona's next battle action
+    is queried.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: The passage begins with Dhritarashtra speaking and asking what happened.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed listener
+  assigned_to:
+  - fig:2
+  basis: Dhritarashtra directly addresses Sanjaya in the question.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: warrior with cut-off shafts
+  assigned_to:
+  - fig:3
+  basis: The passage says the shafts of Drona had been cut off.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: rescued combatant
+  assigned_to:
+  - fig:4
+  basis: The passage says Dhrishtadyumna was rescued by Yuyudhana.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: battlefield rescuer
+  assigned_to:
+  - fig:5
+  basis: The passage attributes Dhrishtadyumna's rescue to Yuyudhana.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: agent of queried next action
+  assigned_to:
+  - fig:3
+  basis: Dhritarashtra asks what Drona did in battle.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: recipient of queried battle action
+  assigned_to:
+  - fig:5
+  basis: Dhritarashtra asks what Drona did unto Yuyudhana.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: renowned weapon-wielder
+  assigned_to:
+  - fig:3
+  basis: Drona is described as a great bowman and foremost wielder of weapons.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cut-off shafts
+  literal_form: Drona's shafts, stated to have been cut off before the rescue.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Question after battlefield rescue
+  summary: Dhritarashtra asks Sanjaya what Drona did to Yuyudhana after Drona's shafts
+    were cut off and Yuyudhana rescued Dhrishtadyumna.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: battlefield rescue of an endangered warrior
+  taxonomy_refs: []
+  basis: Dhrishtadyumna is said to have been rescued by Yuyudhana after Drona's shafts
+    had been cut off.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage only summarizes the rescue aftermath, not the full rescue
+    episode.
+- id: motif:2
+  label: renewed confrontation after an interrupted attack
+  taxonomy_refs: []
+  basis: After Drona's shafts are cut off and Dhrishtadyumna is rescued, the question
+    turns to what Drona did in battle to Yuyudhana.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage asks about Drona's next action but does not narrate the action
+    itself.
+- id: motif:3
+  label: battle report framed as royal inquiry
+  taxonomy_refs: []
+  basis: Dhritarashtra asks Sanjaya to report the next event in battle.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is a narrative framing pattern rather than a standalone mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 46571-46577
+  quote_or_summary: Dhritarashtra asks Sanjaya about what happened after Drona's shafts
+    were cut off and Dhrishtadyumna was rescued by Yuyudhana.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 46571-46577
+  quote_or_summary: The passage describes Yuyudhana as foremost of the Vrishni race
+    and grandson of Sini, and Drona as a great bowman and foremost wielder of weapons.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 46571-46577
+  quote_or_summary: Dhritarashtra asks what Drona did in battle unto Yuyudhana.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from a short passage. Motif candidates
+    are limited because the excerpt is a question summarizing prior events rather
+    than a full narrated action. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the passage does not clearly invoke one of the supplied taxonomy categories.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l46571-l46577
+  passage_sha256=727fc37c68ce9c14a72ab7160f17d13117d70d71d3deda9af853ad3c80dcb8dd
+

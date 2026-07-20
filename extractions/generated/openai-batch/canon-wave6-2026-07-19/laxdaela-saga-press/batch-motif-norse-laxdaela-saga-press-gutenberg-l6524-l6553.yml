@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l6524-l6553
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. LXXV / CHAP. LXXVI / CHAP. LXXVII / CHAP. LXXVIII; lines 6524-6553
+  start: '6524'
+  end: '6553'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"Hangs a wet hood on the wall; / It knoweth of a trick;"'
+  summary: An editorial note interprets a ditty about a wet hood that knows one or
+    two “tricks.” The note explains the tricks as Snorri giving Audgisl a chased axe
+    and secretly prompting Audgisl to kill Thorgils Hallason, the hood-owner. It glosses
+    “dry” as free from or ignorant of such knowledge and states that Thorgils’ Fylgja,
+    or Fetch, speaks through the cloak.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The interpreted ditty describes a wet hood hanging on a wall and knowing a
+    trick, then says that although it is usually “dry,” it now knows two.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the ditty points to Snorri having given Audgisl Thorarinson
+    a chased axe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says Audgisl was, at Snorri’s secret behest, on the eve of taking
+    the life of Thorgils Hallason, identified as the hood-owner.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note glosses “dry” as clear of, free from, or ignorant of such “tricks”
+    threatening Thorgils’ life.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that Thorgils’ Fylgja, or Fetch, speaks through the cloak.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note cites a Sturlunga passage as a comparison for the use of a word meaning
+    “dry” in relation to being clear of knowledge or complicity.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Snorri
+  description: A person said to have given Audgisl Thorarinson a chased axe and to
+    have secretly prompted Audgisl’s intended killing of Thorgils Hallason.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Audgisl Thorarinson
+  description: Recipient of the chased axe and the person said to be on the eve of
+    taking Thorgils Hallason’s life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Thorgils Hallason
+  description: The hood-owner whose life is threatened in the note’s interpretation
+    of the ditty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Thorgils’ Fylgja (Fetch)
+  description: A fetch associated with Thorgils that the note says speaks through
+    the cloak.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: secret instigator and giver of axe
+  assigned_to:
+  - fig:1
+  basis: Snorri is said to have given Audgisl the chased axe and to have acted by
+    secret behest in relation to the threatened killing.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: intended killer
+  assigned_to:
+  - fig:2
+  basis: Audgisl is described as being on the eve of taking Thorgils Hallason’s life.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: hood-owner and threatened victim
+  assigned_to:
+  - fig:3
+  basis: Thorgils is identified as the hood-owner whose life is threatened by the
+    “tricks” described in the note.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: supernatural speaker through cloak
+  assigned_to:
+  - fig:4
+  basis: The note says Thorgils’ Fylgja, or Fetch, speaks through the cloak.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wet hood or cloak
+  literal_form: A wet hood hanging on a wall; also called the cloak through which
+    the Fylgja speaks.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: chased axe
+  literal_form: A chased axe given by Snorri to Audgisl Thorarinson.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dryness as lack of knowledge
+  literal_form: The word “dry,” glossed as clear of, free from, or ignorant of knowledge
+    or complicity.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: one and two tricks
+  literal_form: The ditty’s count of one trick and two tricks known by the hood.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Ditty of the knowing hood
+  summary: A short interpreted verse presents a wet hood on a wall as knowing a trick
+    and, despite usually being “dry,” knowing two.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of the two tricks
+  summary: The note explains the first trick as Snorri’s gift of a chased axe to Audgisl
+    and the second as Audgisl’s impending killing of Thorgils at Snorri’s secret behest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Gloss of dryness and fetch speech
+  summary: The note explains “dry” as meaning free from or ignorant of knowledge,
+    compares this usage to Sturlunga, and states that Thorgils’ Fylgja speaks through
+    the cloak.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: speaking garment as supernatural medium
+  taxonomy_refs: []
+  basis: The hood or cloak is treated as speaking or knowing, and the note explicitly
+    attributes the speech to Thorgils’ Fylgja speaking through the cloak.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage is an editorial interpretation of a verse, not a full narrative
+    episode.
+- id: motif:2
+  label: concealed plot encoded as riddle
+  taxonomy_refs: []
+  basis: The note interprets the ditty’s “one” and “two” tricks as veiled references
+    to an axe gift and a secret plan for Audgisl to kill Thorgils.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The motif label abstracts from the note’s interpretation; the passage
+    does not present an extended riddle contest or formal prophecy.
+- id: motif:3
+  label: dryness as innocence or ignorance of complicity
+  taxonomy_refs: []
+  basis: The note explains “dry” as being clear of, free from, or ignorant of knowledge
+    or complicity in harmful deeds.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is primarily a lexical-symbolic pattern rather than a mythological
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly compares the use of “dry” in the ditty with a Sturlunga
+    passage where a related word denotes being free from knowledge or complicity.
+  claim_level: linguistic_similarity
+  target: Sturlunga citation in the note
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is semantic and lexical only; it does not establish
+    a shared motif, historical contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6524-6553, interpreted ditty
+  quote_or_summary: '"Hangs a wet hood on the wall; / It knoweth of a trick; / Though
+    it be at most times ''dry,'' / I hide not now it knoweth two."'
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 6524-6553, explanation after ditty
+  quote_or_summary: The note explains that Snorri gave Audgisl Thorarinson a chased
+    axe and that, at Snorri’s secret behest, Audgisl was about to take the hood-owner
+    Thorgils Hallason’s life.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6524-6553, gloss of “dry”
+  quote_or_summary: The note says “dry” means clear of, free from, or ignorant; the
+    hood is normally ignorant of tricks threatening Thorgils’ life but now knows one
+    or two.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 6524-6553, final sentence
+  quote_or_summary: '"Of course it is Thorgils'' ''Fylgja'' (Fetch) that speaks through
+    the cloak."'
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6524-6553, Sturlunga comparison
+  quote_or_summary: The note cites Sturlunga as a comparison for a usage of a word
+    translated “dry,” in a context concerning whether someone was clear of knowledge
+    or complicity in misdeeds.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is itself an explanatory note; literal extraction is clear, while
+    motif labels remain cautious because the note interprets rather than narrates
+    the event directly.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No taxonomy IDs were assigned because the available motif and symbol references do not directly match the passage-specific patterns.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l6524-l6553
+  passage_sha256=59213f7c48ae0b20c5975b3768cd86d515db40cbb5e33c97f8cdd1ae266dcf2e
+

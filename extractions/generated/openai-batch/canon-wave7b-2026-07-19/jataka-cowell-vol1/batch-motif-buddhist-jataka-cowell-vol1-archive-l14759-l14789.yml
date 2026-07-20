@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol1-archive-l14759-l14789
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+passage_locator:
+  label: PAROSATA-JATAKA. / PANNIKA-JATAKA. / VERI-JATAKA. / MITTAVINDA-JATAKA.; lines
+    14759-14789
+  start: '14759'
+  end: '14789'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A Jataka frame story says the Master at Jetavana tells of an unruly Brother.
+    In a past setting associated with Buddha Kassapa, a damned man wearing a tormenting
+    circlet asks the Bodhisatta what sin he committed. The Bodhisatta explains his
+    evil deeds and recites a verse describing insatiable greed increasing from four
+    to eight, sixteen, and thirty-two, ending in the misery of the circlet. The Bodhisatta
+    returns to the Realm of Devas, while the man remains in hell until his sin is
+    purged and then goes on according to his deserts. The Master identifies the unruly
+    Brother as Mittavindaka and himself as the Deva.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Master tells the story at Jetavana concerning an unruly Brother.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the incidents are the same as those in a previous
+    story of Mittavindaka, but placed in the days of Buddha Kassapa.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A damned man who has put on a circlet is suffering tortures in hell.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The damned man asks the Bodhisatta what sin he has committed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Bodhisatta details the man's evil deeds and recites a stanza about insatiate
+    greed increasing through a numbered sequence and ending in the circlet's misery.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After speaking, the Bodhisatta returns to the Realm of Devas.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The damned man remains in hell until his sin is purged and then passes on
+    according to his deserts.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Master identifies the unruly Brother as Mittavindaka and himself as the
+    Deva.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Master
+  description: Teacher at Jetavana who tells the story and later identifies the birth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Unruly Brother
+  description: A Brother in the present frame, identified with Mittavindaka in the
+    past birth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Bodhisatta / Deva
+  description: The Bodhisatta answers the damned man's question, explains his evil
+    deeds, recites the stanza, and returns to the Realm of Devas; the Master identifies
+    himself with this Deva.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Damned man / Mittavindaka
+  description: A damned man wearing the circlet and suffering in hell; identified
+    by the Master as Mittavindaka and with the unruly Brother.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Buddha Kassapa
+  description: Named as the Buddha in whose days the past incidents belong.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: storyteller and identifier of the birth
+  assigned_to:
+  - fig:1
+  basis: The Master tells the story and ends by identifying the past birth.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: unruly figure linked across births
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The present unruly Brother is identified as Mittavindaka, the damned figure
+    in the past narrative.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: moral explainer
+  assigned_to:
+  - fig:3
+  basis: The Bodhisatta details the man's evil deeds and recites the explanatory stanza.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: deva identity
+  assigned_to:
+  - fig:3
+  basis: The Bodhisatta returns to the Realm of Devas, and the Master identifies himself
+    as the Deva.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: punished sinner in hell
+  assigned_to:
+  - fig:4
+  basis: The man is described as damned, wearing the circlet, suffering hell-tortures,
+    and remaining there until his sin is purged.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: past-era marker
+  assigned_to:
+  - fig:5
+  basis: The incidents are said to belong to the days of Buddha Kassapa.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: tormenting circlet
+  literal_form: circlet worn by the damned man
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hell
+  literal_form: place of torture where the damned man remains until sin is purged
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Realm of Devas
+  literal_form: realm to which the Bodhisatta returns
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: numbered increase of greed
+  literal_form: sequence from four to eight, sixteen, and thirty-two
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Frame setting at Jetavana
+  summary: The Master tells a story at Jetavana concerning an unruly Brother and notes
+    its relation to an earlier Mittavindaka story and to the days of Buddha Kassapa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Question in hell
+  summary: A damned man wearing a circlet and suffering tortures of hell asks the
+    Bodhisatta what sin he has committed.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Explanation of greed and punishment
+  summary: The Bodhisatta explains the man's evil deeds and gives a stanza in which
+    insatiate greed increases by stages and leads to the grinding misery of the circlet.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Return and purgation
+  summary: The Bodhisatta returns to the Realm of Devas, while the other remains in
+    hell until his sin is purged and then goes on according to his deserts.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Birth identification
+  summary: The Master identifies the unruly Brother as Mittavindaka and himself as
+    the Deva.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: insatiable greed leading to punitive torment
+  taxonomy_refs: []
+  basis: The Bodhisatta's stanza links escalating insatiate greed with the circlet's
+    grinding misery.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only the stanza's compressed moral explanation, not
+    the full earlier narrative of the greed sequence.
+- id: motif:2
+  label: karmic purgation in hell
+  taxonomy_refs:
+  - divine_judgment
+  basis: The damned man suffers in hell for sin until purged and then fares according
+    to his deserts.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage frames punishment in terms of sin and deserts, but does not
+    describe a judging deity; the taxonomy reference is approximate.
+- id: motif:3
+  label: past-birth identification of present conduct
+  taxonomy_refs: []
+  basis: The Master connects the present unruly Brother with the past figure Mittavindaka
+    and identifies himself as the Deva.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a Jataka frame pattern within the passage rather than a named
+    taxonomy motif from the supplied list.
+- id: motif:4
+  label: moral instruction by a deva or Bodhisatta
+  taxonomy_refs:
+  - wisdom
+  basis: The Bodhisatta explains the sinner's evil deeds through a moralizing stanza
+    about greed and suffering.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents instruction, but the broader doctrinal context is
+    not expanded in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly says its incidents are the same as those in the previous
+    story of Mittavindaka, while assigning them to the days of Buddha Kassapa.
+  claim_level: same_motif
+  target: previous story of Mittavindaka in the same source context
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt does not include the previous story's details, so the shared
+    elements cannot be independently enumerated from this passage alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14759-14764
+  quote_or_summary: The story is told by the Master at Jetavana concerning an unruly
+    Brother; the incidents are said to be the same as in the previous Mittavindaka
+    story but set in the days of Buddha Kassapa.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 14765-14768
+  quote_or_summary: A damned man who has put on the circlet and is suffering hell-tortures
+    asks the Bodhisatta what sin he has committed.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 14768-14775
+  quote_or_summary: The Bodhisatta explains the man's evil deeds and recites a stanza
+    in which greed goes from four to eight, sixteen, and thirty-two, pressing on until
+    it wins the circlet's grinding misery.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 14777-14780
+  quote_or_summary: After speaking, the Bodhisatta returns to the Realm of Devas;
+    the other remains in hell until his sin is purged, then goes on according to his
+    deserts.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 14781-14784
+  quote_or_summary: 'The Master identifies the birth: the unruly Brother was then
+    Mittavindaka, and the Master was the Deva.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif taxonomy mapping is cautious
+    because the passage uses Buddhist karmic punishment rather than an explicit divine
+    judge. The comparison claim is based on the passage's own statement of sameness
+    with the previous Mittavindaka story, but the previous story is not included here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the provided lists.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol1-archive__l14759-l14789
+  passage_sha256=d59e2d9898f161a2c5bd44615c2e7cc88b78deb9e191137f56fea1d82a413295
+

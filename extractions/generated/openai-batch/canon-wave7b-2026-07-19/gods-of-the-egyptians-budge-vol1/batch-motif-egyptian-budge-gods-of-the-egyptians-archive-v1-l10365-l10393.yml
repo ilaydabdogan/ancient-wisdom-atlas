@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l10365-l10393
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: THE SEVENTH HOUR / THE SEVENTH HOUR / THE EIGHTH HOUR / THE CIRCLES OF THE
+    THAT; lines 10365-10393
+  start: '10365'
+  end: '10393'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In an Eighth Hour context, named circles or doors of the Tuat enclose images
+    of deities. Ra speaks to the enclosed images, and their replies are described
+    through sounds resembling weeping, moaning, or lamentation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tuat is called Tes-aha-Ta-thenen and is said to shut in the images of Tefnut,
+    Seb, and Nut.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When Ra speaks to the images of Tefnut, Seb, and Nut, they answer in a voice
+    resembling that of weeping women.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The door of the third Circle, As-neteru, is called Tes-khem-baiu and shuts
+    in the images of Osiris, Isis, and Horus.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When Ra speaks to the images of Osiris, Isis, and Horus, they answer in a
+    voice resembling that of men who moan.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage names the fourth Circle, Aakebi, and a door called Tes-shetai,
+    but the surrounding text is damaged or incomplete.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A sound associated with the fourth Circle passage is described as like bulls
+    and men making lamentation.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ra
+  description: Ra speaks to enclosed divine images in the described Tuat circles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Tefnut, Seb, and Nut
+  description: Images of Tefnut, Seb, and Nut are shut in Tuat/Tes-aha-Ta-thenen and
+    answer Ra with a weeping-like voice.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Osiris, Isis, and Horus
+  description: Images of Osiris, Isis, and Horus are shut in the third Circle door
+    and answer Ra with a moaning-like voice.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: addressing speaker
+  assigned_to:
+  - fig:1
+  basis: Ra is explicitly said to speak to the enclosed images.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: enclosed divine images
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says these named divine images are shut in Tuat or in a circle
+    door.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: audible responders
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The enclosed images answer Ra with voices compared to weeping or moaning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: Tuat circles
+  literal_form: Tuat; third Circle As-neteru; fourth Circle Aakebi
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: circle doors
+  literal_form: Door of the third Circle called Tes-khem-baiu; door of the fourth
+    Circle called Tes-shetai
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: enclosed divine images
+  literal_form: Images of Tefnut, Seb, Nut, Osiris, Isis, and Horus shut in the Tuat
+    or circle doors
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ra addresses images in Tuat
+  summary: Tuat/Tes-aha-Ta-thenen encloses images of Tefnut, Seb, and Nut; when Ra
+    speaks to them, they answer with a voice compared to weeping women.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ra addresses images behind the third Circle door
+  summary: The third Circle door is named and encloses images of Osiris, Isis, and
+    Horus; when Ra speaks to them, they answer with a voice compared to moaning men.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fourth Circle lamentation sound
+  summary: The fourth Circle and its door are named, and the text describes a sound
+    like bulls and men making lamentation, though the damaged passage does not clearly
+    identify the enclosed figures.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: mapped Tuat circles and doors
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage enumerates named circles and doors of the Tuat in an Eighth Hour
+    context, with divine images enclosed within them and addressed by Ra.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The source text in this excerpt is OCR-damaged and partially truncated,
+    so only the clearly legible circles, doors, figures, and actions are used.
+- id: motif:2
+  label: divine images enclosed in underworld compartments
+  taxonomy_refs: []
+  basis: Named divine images are described as shut within Tuat or a circle door and
+    respond when addressed by Ra.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a literal description of enclosure and response but
+    does not explain the ritual or theological meaning in this excerpt.
+- id: motif:3
+  label: lamenting voices in the Tuat
+  taxonomy_refs: []
+  basis: The responses or sounds in the passage are compared to weeping women, moaning
+    men, and bulls and men making lamentation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The fourth Circle wording is damaged, and the speakers or figures associated
+    with the last lamentation comparison are not clearly preserved.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'lines 10365-10393: Tuat/Tes-aha-Ta-thenen sentence'
+  quote_or_summary: Tuat is called Tes-aha-Ta-thenen, shuts in images of Tefnut, Seb,
+    and Nut, and when Ra speaks to them they answer with a voice like weeping women.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: 'lines 10365-10393: third Circle passage'
+  quote_or_summary: The door of the third Circle, As-neteru, is called Tes-khem-baiu,
+    shuts in images of Osiris, Isis, and Horus, and their answer to Ra sounds like
+    men who moan.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: 'lines 10365-10393: fourth Circle / Eighth Hour passage'
+  quote_or_summary: The excerpt names the Eighth Hour, the fourth Circle Aakebi, and
+    a door called Tes-shetai; the damaged text says a sound is like bulls and men
+    making lamentation.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is legible enough to identify named circles, doors, deities,
+    Ra's speech, and described voices, but OCR corruption and truncation limit certainty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external identifications or unstated relationships among the named deities were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l10365-l10393
+  passage_sha256=4c6992eb51c9641ee72c2e468f4fa696c1bdaf5a14d39dc3402e29663bf237e1
+

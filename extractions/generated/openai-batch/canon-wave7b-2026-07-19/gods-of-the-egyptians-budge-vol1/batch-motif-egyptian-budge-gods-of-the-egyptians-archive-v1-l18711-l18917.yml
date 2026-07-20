@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l18711-l18917
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: I I I I I I / I AAAAAA / DESTRUCTION OF MANKIND / III I III; lines 18711-18917
+  start: '18711'
+  end: '18917'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents part of the Egyptian ''Destruction of Mankind'' episode:
+    Nu and Ra are named in divine speech; humans who have spoken wrongly flee into
+    a mountain in fear; an Eye is sent forth in the form of Hathor to destroy blasphemers;
+    the goddess goes out and slays mankind on the mountain.'
+  language: English with Egyptian transliteration fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speech attributed to Nu refers to a great divine throne, fear of the deity,
+    and the deity's Eye being placed upon those who blaspheme.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ra says that people are fleeing into the mountain and that their hearts are
+    afraid because of what they have said.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An utterance before the majesty asks that the Eye go forth and destroy those
+    who blaspheme with wickedness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Eye is described as being in the form of Hathor.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A goddess goes forth and slays mankind on the mountain.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Nu
+  description: Named as a majesty who speaks in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ra
+  description: Named as a majesty who speaks; the passage also refers to the Eye associated
+    with the deity addressed before his majesty.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Eye in the form of Hathor / the goddess
+  description: The Eye is to go forth in the form of Hathor; the goddess then goes
+    forth and slays mankind.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Those who blaspheme / mankind
+  description: Humans described as blaspheming, fleeing into the mountain in fear,
+    and being slain there.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: divine speaker
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Nu and Ra are each introduced in the passage with speech attributed to their
+    majesty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: deity whose Eye is invoked
+  assigned_to:
+  - fig:2
+  basis: The utterance before the majesty asks that 'thine Eye' go forth to destroy
+    blasphemers in the context of Ra's speech.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: destroying divine agent
+  assigned_to:
+  - fig:3
+  basis: The Eye is told to destroy the blasphemers and the goddess goes forth and
+    slays mankind.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: human offenders and victims
+  assigned_to:
+  - fig:4
+  basis: The humans are described as blasphemers, as fearful fugitives, and as mankind
+    slain on the mountain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Eye
+  literal_form: The deity's Eye, sent forth in the form of Hathor to destroy blasphemers.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Mountain
+  literal_form: The mountain into which the people flee and on which mankind is slain.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Divine speech concerning blasphemers
+  summary: Nu speaks in a divine setting and refers to the deity's Eye being directed
+    against those who blaspheme.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fearful flight into the mountain
+  summary: Ra observes that the people are fleeing into the mountain, afraid because
+    of what they have said.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Eye of Hathor destroys mankind
+  summary: The Eye is sent forth in the form of Hathor to destroy blasphemers, and
+    the goddess slays mankind on the mountain.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine punishment of blasphemers
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that those who blaspheme are targeted by the deity's Eye
+    and that mankind is slain by the goddess.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage excerpt does not include the full cause or aftermath of the
+    judgment.
+- id: motif:2
+  label: Destructive divine Eye manifesting as a goddess
+  taxonomy_refs: []
+  basis: The Eye is sent out in the form of Hathor and the goddess carries out the
+    slaughter.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt identifies the Eye with the form of Hathor but does not elaborate
+    the theological relationship between Eye, Hathor, and goddess.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18711-18917, opening speech attributed to Nu
+  quote_or_summary: Nu is named as speaking; the speech refers to a great throne,
+    fear of the deity, and the Eye being upon those who blaspheme.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; neutral summary.
+- id: ev:2
+  type: quote
+  locator: lines 18711-18917, speech of Ra beginning 'Behold ye them'
+  quote_or_summary: 'Ra says: ''Behold ye them fleeing into the mountain, their hearts
+    are afraid because of what they have said.'''
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 18711-18917, utterance requesting the Eye
+  quote_or_summary: The utterance asks that the Eye go forth and destroy those who
+    blaspheme with wickedness, and says it acts in the form of Hathor.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; neutral summary.
+- id: ev:4
+  type: quote
+  locator: lines 18711-18917, closing action of excerpt
+  quote_or_summary: "'Went forth then this goddess, she slew mankind on the mountain.'"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied excerpt, which is fragmentary and
+    includes OCR/interlinear formatting. Motif candidates are limited to patterns
+    directly visible in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt itself does not explicitly compare this episode with another corpus or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l18711-l18917
+  passage_sha256=2ac11bb3c1cda58e8cb29865b8d238ff214dbb8e9fbc189743d1237cce441623
+

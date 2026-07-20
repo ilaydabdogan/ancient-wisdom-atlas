@@ -1,0 +1,220 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l4587-l5303
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: TRIBE. METHOD OF TYING THE HAIR UP. / SHOWING THE CURLY NATURE OF THE HAIR.
+    / CHAPTER III / SOCIAL ORGANISATION OF THE TRIBES; lines 4587-5303
+  start: '4587'
+  end: '5303'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents tabular kinship terminology, mapping native terms
+    to actual relationships in English and to broader English kin categories. It includes
+    an opening relationship table, followed by relationship-term tables for the Umbaia
+    Tribe and the Tjingilli Tribe. Several entries specify forms used by a woman speaking.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is organized as relationship-term tables with columns for native
+    terms, actual relationships in English, and English terms included wholly or partly
+    in the native terms.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The opening table maps native kinship terms to English relationship categories
+    including father, uncle, aunt, grandparents, spouse, siblings, cousins, in-laws,
+    children, nephews, nieces, and grandchildren.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A single native term may correspond to multiple actual relationships in English,
+    including lineal, collateral, and affinal relations.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: The Umbaia Tribe section lists native terms for relationships including father,
+    siblings, parents’ siblings, grandparents, spouse, in-laws, children, descendants,
+    cousins, and daughter-in-law.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Tjingilli Tribe section lists native terms for relationships including
+    father, siblings, parents’ siblings, grandparents, spouse, in-laws, children,
+    descendants, cousins, and daughter-in-law.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some entries are explicitly marked as forms used by a woman speaking.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In both the Umbaia and Tjingilli tables, terms for father include father’s
+    brother, and terms for elder brother include father’s elder brother’s son.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Umbaia Tribe
+  description: Named as the heading of a table of relationship terms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Tjingilli Tribe
+  description: Named as the heading of a table of relationship terms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: women speakers
+  description: Several kinship terms are labelled as used by a woman speaking.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named tribe associated with a relationship-term table
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage gives separate headings for the Umbaia Tribe and the Tjingilli
+    Tribe relationship-term tables.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: marked speech category
+  assigned_to:
+  - fig:3
+  basis: Multiple entries identify terms with the parenthetical label “woman speaking.”
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: classificatory kinship terminology
+  taxonomy_refs: []
+  basis: The tables repeatedly show native terms grouping multiple actual relationships,
+    including lineal, collateral, and affinal relations, under shared kin categories.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a social-organization pattern rather than a mythic narrative motif;
+    no supplied taxonomy reference directly matches it.
+- id: motif:2
+  label: gender-marked kinship speech forms
+  taxonomy_refs: []
+  basis: Several entries in the relationship tables are explicitly marked as forms
+    used by a woman speaking.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage marks selected entries but does not explain the full rule
+    or scope of gender-conditioned usage.
+comparison_claims:
+- id: claim:1
+  claim: The Umbaia and Tjingilli relationship tables exhibit the same functional
+    pattern in which a term for father includes father’s brother, and a term for elder
+    brother includes father’s elder brother’s son.
+  claim_level: same_function
+  target: Umbaia and Tjingilli relationship-term tables
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the listed relationships and does not imply
+    lexical identity, historical contact, or common inheritance.
+- id: claim:2
+  claim: The opening table, the Umbaia table, and the Tjingilli table all include
+    entries marked for a woman speaking, indicating a repeated table pattern of gender-marked
+    kinship terminology.
+  claim_level: same_function
+  target: woman-speaking kinship-term entries across the passage
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives examples of marked usage but does not provide a full
+    comparative analysis of gendered speech systems.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4587-5303; relationship-term table structure
+  quote_or_summary: The tables use headings for native terms, actual relationships
+    in English terms, and English terms included wholly or partly in the native terms.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 4587-5303; opening relationship table before the Umbaia Tribe section
+  quote_or_summary: The opening table lists native kinship terms and English equivalents
+    for parents, grandparents, siblings, cousins, spouses, in-laws, children, nephews,
+    nieces, and grandchildren; several terms cover more than one actual relationship.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 4587-5303; “Table of Relationship Terms. Umbaia Tribe”
+  quote_or_summary: The Umbaia Tribe table lists terms such as Ita for father and
+    father’s brother, Pappa for elder brother and father’s elder brother’s son, and
+    other terms for parents’ siblings, grandparents, spouse, in-laws, descendants,
+    cousins, and daughter-in-law.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: 4587-5303; “Relationship Terms. Tjingilli Tribe”
+  quote_or_summary: The Tjingilli Tribe table lists terms such as Kita for father
+    and father’s brother, Pauerla or pappa for elder brother and father’s elder brother’s
+    son, and other terms for parents’ siblings, grandparents, spouse, in-laws, descendants,
+    cousins, and daughter-in-law.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: 4587-5303; entries labelled “woman speaking”
+  quote_or_summary: The passage includes multiple entries labelled “woman speaking,”
+    including forms in the opening table, the Umbaia table, and the Tjingilli table.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The tabular kinship data are clear, but the passage contains social-organization
+    material rather than myth narrative; motif labels are therefore treated as broad
+    passage-level patterns requiring human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic figures, narrative scenes, or taxonomy-listed symbols are present in the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l4587-l5303
+  passage_sha256=6ad277385346f3081859f69067434c0cb8852aa88e59432013900417b7e44527
+

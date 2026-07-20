@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l25087-l25170
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: CHANGE  OF  TIME / RHYTHMIC  UNIT / COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM
+    / SONGS  OF  WHITE  EARTH  RESERVATION; lines 25087-25170
+  start: '25087'
+  end: '25170'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces songs collected on White Earth Reservation, presents
+    song No. 168, “We Have Salt,” sung by Henry Selkirk, gives the song vocabulary
+    indicating that the singers have salt and live beyond a belt of timber, and adds
+    historical notes on the earlier lack of salt among Minnesota Chippewa and a treaty
+    provision for annual salt distribution to the Pillager Band of Chippewa.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section is described as containing songs of several classes collected
+    on White Earth Reservation, excluding war-related songs treated elsewhere.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Song No. 168 is titled “We Have Salt” and is attributed as sung by Henry Selkirk.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The translated song vocabulary includes phrases meaning “let them despise
+    us,” “salt,” “we have,” “here, beyond the belt of timber,” and “we live.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentary states that in early days the Minnesota Chippewa had no salt.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentary states that some older Indians had not yet acquired a taste
+    for salt.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A treaty called the “Salt Treaty” is said to have been concluded at Leech
+    Lake on August 21, 1847, with the Pillager Band of Chippewa.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The treaty provision summarized in the passage states that the Indians should
+    receive five barrels of salt annually for five years.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Henry Selkirk
+  description: Named singer of song No. 168, “We Have Salt.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: first-person plural speakers in the song
+  description: The song text uses a first-person plural voice that says the group
+    has salt and lives beyond the belt of timber.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Minnesota Chippewa
+  description: Group described in the commentary as having had no salt in early days.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: older Indians
+  description: People described as not yet having acquired a taste for salt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Pillager Band of Chippewa
+  description: Named band with whom the “Salt Treaty” was concluded at Leech Lake
+    in 1847.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The passage states that No. 168 was sung by Henry Selkirk.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: song speakers asserting possession of salt
+  assigned_to:
+  - fig:2
+  basis: The translated vocabulary says “we have” salt and “we live” beyond the belt
+    of timber.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: historical group lacking salt
+  assigned_to:
+  - fig:3
+  basis: The commentary says that in early days the Minnesota Chippewa had no salt.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: people without acquired taste for salt
+  assigned_to:
+  - fig:4
+  basis: The commentary says some older Indians had not yet acquired a taste for salt.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: treaty party
+  assigned_to:
+  - fig:5
+  basis: The “Salt Treaty” is described as concluded with the Pillager Band of Chippewa.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: stipulated salt recipients
+  assigned_to:
+  - fig:5
+  basis: The passage says the treaty stipulated that the Indians should receive five
+    barrels of salt annually for five years; the named Indigenous treaty party is
+    the Pillager Band of Chippewa.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: salt
+  literal_form: salt
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: belt of timber
+  literal_form: belt of timber
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: five barrels of salt annually for five years
+  literal_form: 5 barrels of salt annually for five years
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: White Earth song collection introduced
+  summary: The passage identifies the group of songs as material collected on White
+    Earth Reservation, apart from war songs.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Song No. 168, “We Have Salt”
+  summary: Henry Selkirk is named as the singer, and the song text presents a first-person
+    plural group saying they have salt and live beyond the belt of timber despite
+    being despised.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Historical note on salt and the Salt Treaty
+  summary: The commentary explains that the Minnesota Chippewa formerly had no salt,
+    notes that some older Indians lacked a taste for it, and cites an 1847 treaty
+    provision for annual salt distribution to the Pillager Band of Chippewa.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: asserted possession of a scarce resource
+  taxonomy_refs: []
+  basis: The song title and translated vocabulary center on the claim that the speakers
+    have salt, while the commentary explains that salt was formerly unavailable to
+    Minnesota Chippewa.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic song and historical note; the passage does not
+    present the resource as sacred or mythic.
+- id: motif:2
+  label: resource distribution through treaty obligation
+  taxonomy_refs: []
+  basis: The commentary describes the “Salt Treaty” provision that the Indians should
+    receive five barrels of salt annually for five years.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a legal-historical pattern, not a mythological motif in the passage.
+- id: motif:3
+  label: dwelling beyond a landscape boundary
+  taxonomy_refs: []
+  basis: The song vocabulary locates the speakers as living “here, beyond the belt
+    of timber.”
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage gives only a brief locative phrase and does not elaborate
+    a journey, boundary-crossing, or cosmological geography.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25087-25090
+  quote_or_summary: The section contains songs of several classes collected on White
+    Earth Reservation, except war-related songs treated elsewhere.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 25092-25096
+  quote_or_summary: No. 168 is titled “We Have Salt” and is marked “Sung by Henry
+    Selkirk.”
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: song vocabulary within lines 25087-25170
+  quote_or_summary: 'The vocabulary glosses include: “let them despise us,” “salt,”
+    “we have,” “here, beyond the belt of timber,” and “we live.”'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:4
+  type: summary
+  locator: historical note within lines 25087-25170
+  quote_or_summary: The note says the Minnesota Chippewa had no salt in early days
+    and that some older Indians had not acquired a taste for it.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: treaty note within lines 25087-25170
+  quote_or_summary: The note cites the “Salt Treaty,” concluded at Leech Lake on August
+    21, 1847, with the Pillager Band of Chippewa, stipulating five barrels of salt
+    annually for five years.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is primarily a song transcription and historical commentary
+    rather than a mythic narrative. No comparison claims are made because the passage
+    itself does not support cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied; salt is central in the passage but is not included in the supplied symbol taxonomy.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l25087-l25170
+  passage_sha256=bf44be6bfa88f45f81fe449cfe3c5785dcdbf3d787a57aea3c7e2ac36da63384
+

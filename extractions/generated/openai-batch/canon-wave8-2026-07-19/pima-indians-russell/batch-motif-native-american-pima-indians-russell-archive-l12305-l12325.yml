@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l12305-l12325
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: COYOTE AND THE QUAILS / THE WOMAN AND COYOTE / THE PIMA BOY AND THE APACHES
+    / THE BIRDS AND THE FLOOD; lines 12305-12325
+  start: '12305'
+  end: '12325'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: When the waters covered all the earth two birds were hanging onto the sky
+    with their beaks.
+  summary: The passage describes two birds surviving while waters cover the earth
+    by clinging to the sky; the smaller bird encourages the larger one to be brave
+    and trust in God. After the waters go down, Elder Brother warns Coyote not to
+    touch a black bug or eat mesquite beans because it is dangerous to harm anything
+    that survived the flood. Coyote eats the bug and all the beans, and the beans
+    swell in his stomach and kill him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Waters covered all the earth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two birds hung onto the sky with their beaks during the flood.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The larger bird is described as gray with a long tail and beak; the smaller
+    bird is described as tiny and as building an olla-like nest with a very small
+    entrance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The larger bird cried, while the smaller bird held on tightly and told it
+    not to cry, saying it was brave and trusted in God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: After the waters went down, Elder Brother warned Coyote not to touch a black
+    bug or eat mesquite beans, saying it was dangerous to harm anything that came
+    safely through the flood.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Coyote ate the black bug despite the warning.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Coyote said he would taste one mesquite bean, but he ate until all the beans
+    were gone.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The mesquite beans swelled in Coyote's stomach and killed him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: larger bird
+  description: A gray bird with a long tail and beak; it cried while hanging onto
+    the sky during the flood.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: smaller bird
+  description: A tiny bird that builds an olla-like nest with a very small opening;
+    it held on tightly and encouraged the larger bird.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: God
+  description: Named in the smaller bird's speech as the one who will take care of
+    those in danger if they trust in Him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Elder Brother
+  description: After the waters went down, he warned Coyote not to touch the black
+    bug or eat mesquite beans.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Coyote
+  description: He received Elder Brother's warning, ate the black bug and mesquite
+    beans, and died when the beans swelled in his stomach.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: black bug
+  description: A black bug that Elder Brother told Coyote not to touch; Coyote ate
+    it.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: flood survivor clinging to the sky
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both birds hang onto the sky with their beaks while waters cover the earth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: distressed companion
+  assigned_to:
+  - fig:1
+  basis: The larger bird cried during the flood episode.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: brave encourager
+  assigned_to:
+  - fig:2
+  basis: The smaller bird holds on tightly and tells the larger bird not to cry, describing
+    itself as brave and trusting in God.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: invoked protector
+  assigned_to:
+  - fig:3
+  basis: The smaller bird says God will take care of those in danger if they trust
+    in Him.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: giver of prohibition
+  assigned_to:
+  - fig:4
+  basis: Elder Brother tells Coyote not to touch the bug or eat the beans.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: violator of prohibition
+  assigned_to:
+  - fig:5
+  basis: Coyote eats the prohibited bug and mesquite beans after being warned.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: prohibited post-flood being
+  assigned_to:
+  - fig:6
+  basis: The black bug is singled out in Elder Brother's warning not to touch anything
+    that came safe through the flood.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: flood waters
+  literal_form: waters covering all the earth and later going down
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sky as place of refuge
+  literal_form: sky held by the birds with their beaks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: black bug
+  literal_form: black bug that Coyote is warned not to touch and then eats
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: mesquite beans
+  literal_form: mesquite beans that Coyote is warned not to eat; they swell in his
+    stomach and kill him
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Birds during the flood
+  summary: While waters cover the earth, two birds cling to the sky with their beaks.
+    The larger bird cries, and the smaller bird encourages it to hold on and trust
+    in God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coyote after the waters go down
+  summary: Elder Brother warns Coyote not to harm post-flood survivors, specifically
+    a black bug and mesquite beans. Coyote eats the bug and beans, and the beans kill
+    him.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: world-covering flood and survival
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage states that waters covered all the earth and later went down,
+    with birds and other things having come safely through the flood.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not give the cause of the flood or a full account of
+    world renewal.
+- id: motif:2
+  label: paired birds surviving by clinging to the sky
+  taxonomy_refs:
+  - survivor_pair
+  basis: Two birds survive the flood episode by hanging onto the sky with their beaks,
+    with one encouraging the other.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The birds function as a pair in this scene, but the passage does not state
+    that they repopulate or restore the world.
+- id: motif:3
+  label: fatal violation of a post-flood prohibition
+  taxonomy_refs: []
+  basis: Elder Brother prohibits Coyote from touching the black bug or eating mesquite
+    beans, but Coyote eats both, and the beans kill him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents the warning and death but does not explicitly frame
+    the death as divine punishment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12305-12313
+  quote_or_summary: Waters cover all the earth; two birds hang onto the sky with their
+    beaks. The larger bird cries, and the smaller bird encourages it not to cry and
+    to trust in God.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: 12315-12319
+  quote_or_summary: After the waters go down, Elder Brother warns Coyote not to touch
+    the black bug or eat mesquite beans because it is dangerous to harm anything that
+    came safely through the flood.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: 12320-12325
+  quote_or_summary: Coyote eats the black bug, then eats all the mesquite beans after
+    saying he will taste only one; the beans swell in his stomach and kill him.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to patterns directly visible in the excerpt. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR artifacts in the supplied passage were not treated as separate evidence; summaries preserve the passage meaning without relying on corrected spellings beyond readability.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l12305-l12325
+  passage_sha256=13cabe699f2d09883da5c902f910d0bd4a85beb21b23e12c65ae4962ce963959
+

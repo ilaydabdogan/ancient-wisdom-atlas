@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l5470-l5515
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: METAMORPHOSIS  85 / METAMORPHOSIS  87 / OBAN    TO    NIAJI  91 / OBAN    TO    NIAJI  93;
+    lines 5470-5515
+  start: '5470'
+  end: '5515'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the sole survivors of a world overwhelmed in some mighty convulsion of Nature
+  summary: After a sudden lightning strike on Niaji Peak, the narrator, his wife,
+    and Bimba recover with pain and bodily marks. The storm repeatedly returns over
+    the peak. After it moves away, they walk the ridge and see an apparently uninhabited,
+    mist-filled landscape described as chaotic and wave-like.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A companion realized she was still alive and sat up; Bimba also revived shortly
+    afterward.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group suffered intense pain after the blow; the narrator could not stand
+    upright for a long time, the narrator's wife retained scarlet zigzag marks for
+    weeks, and Bimba's left arm became white and crinkled.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Niaji Peak is described as the centre of a huge amphitheatre of hills, with
+    a storm that receded, returned, and broke overhead in crashes and flashes.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The lightning blow came suddenly; afterward the group counted flash-to-crash
+    intervals while expecting the returning storm might complete its destruction.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator notes needle-pointed peaks, ironstone, severe storms, and a reported
+    nearby death of a carrier struck by lightning.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the storm moved away, the group walked along the topmost ridge and saw
+    no sign of human habitation.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The ridge walk gave the sensation of being on shipboard as sole survivors
+    of a world overwhelmed by a convulsion of nature.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: White mists lay around them, described as billowing and breaking like angry
+    waves, with dark hills, a sombre grey sky, orange breaks, and the distant sound
+    of the dying storm.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first-person narrator
+  description: The narrator is one of those felled by the sudden blow, suffers intense
+    pain, later walks the ridge, and describes the scene.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the narrator's wife
+  description: The narrator's wife suffers after the strike and bears scarlet zigzag
+    marks for weeks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Bimba
+  description: Bimba revives after the strike and later has a left arm described as
+    white and crinkled.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed carrier
+  description: A carrier employed by a surveying party is reported to have been struck
+    and killed on a nearby hill.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: lightning-strike survivor
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage describes the narrator's group as felled or injured by the blow
+    and then alive or revived afterward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: summit observer and narrator
+  assigned_to:
+  - fig:1
+  basis: The first-person narrator recounts walking the ridge and interpreting the
+    post-storm landscape.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: reported fatal lightning victim
+  assigned_to:
+  - fig:4
+  basis: The passage reports that a nearby carrier had been struck and killed by lightning.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Niaji Peak
+  literal_form: Mountain peak, topmost ridge, and centre of an amphitheatre of hills
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: storm and lightning
+  literal_form: Downpour, thunder crashes, lightning flashes, and a sudden destructive
+    blow
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: scarlet zigzag marks
+  literal_form: Scarlet zigzags left on the narrator's wife's body after the strike
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: white mists and wave-like landscape
+  literal_form: White mists described as billowing and breaking like angry waves around
+    the ridge
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: shipboard sensation
+  literal_form: A sensation of being on shipboard on the long narrow summit
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Recovery after lightning strike
+  summary: After a sudden blow, members of the group are alive or revive and experience
+    pain and visible injuries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Storm over Niaji Peak
+  summary: The group sits amid heavy rain while the storm recedes, returns, and breaks
+    overhead with flashes and crashes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Post-storm ridge vision
+  summary: After the storm moves away, the group walks the summit ridge and sees a
+    mist-filled, apparently uninhabited landscape that gives the sensation of shipboard
+    survival after world-convulsion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Reported nearby fatal strike
+  summary: The narrator reports that a carrier in a surveying party had previously
+    been struck and killed by lightning on a nearby hill.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Revival after a destructive lightning blow
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage describes people as felled by a sudden blow, then alive or revived
+    afterward, with continuing bodily marks and pain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage describes literal survival and recovery from lightning injury,
+    not ritual death, actual death, or explicit rebirth.
+- id: motif:2
+  label: Chaotic storm-world landscape
+  taxonomy_refs:
+  - chaos
+  basis: The narrator explicitly says chaos reigned after the storm and describes
+    mists, dark hills, storm-coloured sky, and continuing thunder.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a travel description using heightened imagery, not a cosmogonic
+    myth.
+- id: motif:3
+  label: Survivors after imagined world-convulsion
+  taxonomy_refs: []
+  basis: The ridge walk produces the sensation of being on shipboard as sole survivors
+    of a world overwhelmed by a mighty natural convulsion.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage frames this as a sensation or simile; it does not narrate
+    an actual world destruction or a survivor-pair episode.
+- id: motif:4
+  label: Mountain summit as isolated vantage after catastrophe
+  taxonomy_refs: []
+  basis: Niaji Peak is presented as a high central ridge within hills, from which
+    the observers see no human habitation and perceive a world-like aftermath of storm.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The passage does not present the mountain as sacred, cosmic, or ritually
+    central.
+comparison_claims:
+- id: claim:1
+  claim: The post-storm summit scene has visual similarity to a catastrophe-survivor
+    pattern, because the narrator explicitly imagines the group as sole survivors
+    after a world-overwhelming natural convulsion.
+  claim_level: visual_similarity
+  target: general survivor-after-catastrophe pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports a subjective sensation and uses simile; it does
+    not establish a mythic narrative, historical contact, or common inheritance.
+- id: claim:2
+  claim: The mist-filled landscape after the storm can be cautiously compared at motif-family
+    level to chaos imagery, because the passage says chaos reigned and depicts a disorienting,
+    wave-like world without visible habitation.
+  claim_level: visual_similarity
+  target: chaos motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The description is literary and observational rather than a formal
+    mythic account of primordial chaos.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5470-5475
+  quote_or_summary: A companion realizes she is still alive and sits up; a few minutes
+    later Bimba also revives.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 5476-5482
+  quote_or_summary: The group suffers intense pain; the narrator cannot stand upright
+    for a long time, his wife has scarlet zigzag marks for weeks, and Bimba's left
+    arm becomes white and crinkled.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 5483-5491
+  quote_or_summary: Niaji Peak is the centre of a huge amphitheatre of hills; while
+    the group sits in wet chairs, the storm recedes, returns, and breaks overhead
+    with crashes and flashes.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5492-5505
+  quote_or_summary: The actual blow came suddenly; the group tracks the storm by flash
+    and crash and expects renewed destruction. The narrator notes needle-pointed peaks,
+    ironstone, severe storms, and a nearby carrier reportedly struck and killed.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 5506-5512
+  quote_or_summary: After the storm moved away, they walked the topmost ridge; there
+    was no sign of human habitation, and the narrator felt like being on shipboard,
+    "the sole survivors of a world overwhelmed in some mighty convulsion of Nature."
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 5513-5515
+  quote_or_summary: White mists billow and break like angry waves toward dark hills;
+    above is a sombre grey sky with stormy orange patches, and the dying storm is
+    still heard in the distance.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a first-person travel account with vivid catastrophe imagery,
+    not a myth narrative. Motif and comparison fields are therefore limited to cautious
+    visual or pattern-level identifications supported by the wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to supplied available refs and applied cautiously.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l5470-l5515
+  passage_sha256=055ed36c4477950a6bcf806dfffe8124100d7cbefe16d764e0b70d5bbf4f748d
+

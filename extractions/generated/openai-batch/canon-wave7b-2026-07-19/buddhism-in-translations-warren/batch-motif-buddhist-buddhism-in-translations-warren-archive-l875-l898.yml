@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.buddhist-buddhism-in-translations-warren-archive-l875-l898
+source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+passage_locator:
+  label: CHAPTER  V. / THE   ORDER. / ABBREVIATIONS. / THE   THREE   CHARACTERISTICS.;
+    lines 875-898
+  start: '875'
+  end: '898'
+  translation: Buddhism in Translations (Harvard Oriental Series, Vol. 3)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A discourse titled “The Three Characteristics” states that whether Buddhas
+    arise or not, the constitution of being remains fixed: constituents are transitory,
+    constituents are misery, and elements lack an Ego. A Buddha discovers and masters
+    each fact and then announces and explains it to priests.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is titled “The Three Characteristics” and is translated from the
+    Anguttara-Nikaya.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage repeatedly addresses priests.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: The passage says that whether Buddhas arise or do not arise, the constitution
+    of being remains fixed.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: The first stated fact is that all constituents of being are transitory.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The second stated fact is that all constituents of being are misery.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The third stated fact is that all elements of being lack an Ego.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: For each stated fact, a Buddha discovers and masters it, then announces, teaches,
+    proclaims, discloses, explains, and makes it clear.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Buddha / Buddhas
+  description: Generic Buddhas are mentioned as arising or not arising; a Buddha is
+    described as discovering, mastering, and teaching the stated facts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: priests
+  description: The addressed audience of the discourse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: discoverer and teacher of fixed facts
+  assigned_to:
+  - fig:1
+  basis: The Buddha discovers and masters each fact, then announces and explains it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: addressed audience
+  assigned_to:
+  - fig:2
+  basis: Each section begins with an address to priests.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: three characteristics
+  literal_form: 'three stated characteristics of being: transitory, misery, and lacking
+    an Ego'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Teaching of the three characteristics
+  summary: A doctrinal address to priests presents three fixed facts about being and
+    says that a Buddha discovers, masters, and teaches each one.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: discovery and proclamation of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes a Buddha discovering, mastering, and clearly teaching
+    fixed facts about being.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is doctrinal exposition rather than narrative myth; the taxonomy
+    match is broad.
+- id: motif:2
+  label: unchanging truth independent of divine or enlightened appearance
+  taxonomy_refs: []
+  basis: The passage says the stated facts remain the fixed constitution of being
+    whether Buddhas arise or do not arise.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No supplied taxonomy family directly names this pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 875-878
+  quote_or_summary: 'Title and source: “THE THREE CHARACTERISTICS”; translated from
+    the Anguttara-Nikaya.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source metadata; short citation/quote allowed.
+- id: ev:2
+  type: quote
+  locator: lines 879-886
+  quote_or_summary: "“Whether Buddhas arise, O priests, or whether Buddhas do not
+    arise,” the passage states that all constituents are transitory; a Buddha discovers,
+    masters, and teaches this fact."
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source metadata; short quote allowed.
+- id: ev:3
+  type: quote
+  locator: lines 887-892
+  quote_or_summary: The passage states that all constituents of being are misery and
+    that a Buddha discovers, masters, announces, teaches, and explains this fact.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source metadata; summarized public domain passage.
+- id: ev:4
+  type: quote
+  locator: lines 893-898
+  quote_or_summary: The passage states that all elements of being are lacking in an
+    Ego and that a Buddha discovers, masters, announces, teaches, and explains this
+    fact.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source metadata; summarized public domain passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct. Motif assignment is cautious because the passage
+    is a doctrinal formula, not a narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison beyond broad wisdom-pattern classification.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-buddhism-in-translations-warren-archive__l875-l898
+  passage_sha256=854c3d664e1fd34a401ca10f9c4124bb6bef958b12afe0040f2e551879ae4ebe
+

@@ -1,0 +1,512 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l22758-l22895
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: II. A CERTIFICATE OF ADOPTION1 / IV. THE CODE OF HAMMURAPI / LITERATURE /
+    PROLOGUE1; lines 22758-22895
+  start: '22758'
+  end: '22895'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: If the river-god have declared that man to be innocent and have saved him...
+  summary: The passage presents early laws from the Code of Hammurapi concerning unsupported
+    capital accusations, a sorcery accusation tested by the river-god, penalties for
+    false testimony, punishment of a judge who alters a sealed judgment, penalties
+    for theft or illicit receipt of property, and procedures for disputed lost property.
+  language: English with Akkadian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man who lays a capital charge against another man and does not justify it
+    is put to death.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man accused of sorcery must go to the river-god and plunge into the river-god.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If the river-god overcomes the accused man, the accuser takes his house; if
+    the river-god declares the man innocent and saves him, the accuser is put to death
+    and the accused man takes the accuser's house.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A witness in a capital case who does not justify his statement is put to death;
+    a witness who lies about corn or money bears the sentence of that case.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A judge who has judged a case, issued a sealed sentence, and later altered
+    the judgment must pay twelvefold the penalty and is expelled from the judgment
+    seat.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A man who steals the goods of a god or palace, and a man who receives the
+    stolen thing from his hand, are put to death.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A man who buys specified goods, slaves, or animals from a gentleman's son
+    or slave without witness or contract is treated as a thief and put to death.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: For theft of an ox, sheep, ass, pig, or ship, restitution differs according
+    to whether it belonged to a god, palace, or freedman; a thief unable to pay is
+    put to death.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: When lost property is found in another man's possession, seller, purchaser,
+    owner, witnesses, judges, and testimony before the god are involved; the seller
+    is put to death as a thief, the owner recovers the property, and the purchaser
+    recovers his payment from the seller's estate.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Accuser
+  description: A man who lays a capital charge or a suspicion of sorcery against another
+    man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Accused man
+  description: The man upon whom a charge of sorcery is laid and who plunges into
+    the river-god.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: River-god
+  description: The divine river named as the agent that may overcome, save, or declare
+    the accused man innocent.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Witness
+  description: A person who speaks in a pending case or in matters of corn, money,
+    or disputed property.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Judge
+  description: A judge who renders a judgment, issues a sealed sentence, and may be
+    punished for altering the judgment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Thief or illicit receiver
+  description: A man who steals goods or receives stolen property and is subject to
+    death or restitution penalties.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Purchaser or possessor of lost property
+  description: The man in whose hands lost property is found and who says he bought
+    it from a seller before witnesses.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Owner of lost property
+  description: The person who says he will bring witnesses who know his lost property.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Seller of disputed property
+  description: The person said to have sold the lost property to the purchaser and
+    who is put to death as a thief if the evidence establishes the case.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Judges or tribunal
+  description: The judges who consider evidence and the judicial body from which a
+    judge can be barred.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: Accuser liable if charge is unjustified
+  assigned_to:
+  - fig:1
+  basis: The accuser who fails to justify a capital or sorcery charge is punished.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Subject of river ordeal
+  assigned_to:
+  - fig:2
+  basis: The accused man must go to and plunge into the river-god.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Divine determining agent
+  assigned_to:
+  - fig:3
+  basis: The river-god overcomes the accused or declares him innocent and saves him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Legal witness
+  assigned_to:
+  - fig:4
+  basis: Witnesses give statements in cases and can incur penalties if their words
+    are not justified or are false.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: Judge accountable for altered judgment
+  assigned_to:
+  - fig:5
+  basis: A judge who alters a sealed judgment pays a penalty and loses his seat.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Thief or party treated as thief
+  assigned_to:
+  - fig:6
+  - fig:9
+  basis: The thief, illicit receiver, and seller of lost property are described as
+    subject to death or restitution penalties.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: Purchaser defending possession
+  assigned_to:
+  - fig:7
+  basis: The possessor says a seller sold the item to him and that he bought it before
+    witnesses.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: Owner claiming lost property
+  assigned_to:
+  - fig:8
+  basis: The owner offers witnesses who know the lost property and receives the property
+    back if the case is established.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: Judicial tribunal
+  assigned_to:
+  - fig:10
+  basis: Judges consider evidence in disputed property cases and are the body with
+    whom a removed judge may no longer sit.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: River ordeal
+  literal_form: The river-god or river into which the accused man plunges
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: House as adjudicated property
+  literal_form: The house taken by the accuser if the river-god overcomes the accused,
+    or taken by the accused if the river-god saves him
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Sealed sentence
+  literal_form: A sealed sentence granted by a judge after judgment
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Judgment seat
+  literal_form: The judge's seat from which the judge is expelled after altering judgment
+  associated_figures:
+  - fig:5
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Goods of god or palace
+  literal_form: Goods belonging to a god or palace that are stolen
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Witness and contract attestation
+  literal_form: Witnesses and contract required for valid purchase, and witnesses
+    who testify before the god
+  associated_figures:
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Unsupported capital accusation
+  summary: A capital accusation that is not justified results in the accuser's death.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sorcery accusation and river-god ordeal
+  summary: The accused man plunges into the river-god; the outcome determines whether
+    the accuser or the accused dies or receives the other's house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Witness liability
+  summary: A witness who fails to justify testimony in a capital case is put to death,
+    and a witness who lies in a property matter bears the sentence of that case.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Altered judgment and removal from office
+  summary: A judge who changes a sealed judgment is fined twelvefold, expelled from
+    the judgment seat, and barred from sitting with judges.
+  figure_refs:
+  - fig:5
+  - fig:10
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Theft and invalid purchase
+  summary: The laws prescribe death or restitution for theft, receipt of stolen goods,
+    or purchase without witness or contract.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Lost property hearing
+  summary: A possessor, owner, seller, witnesses, and judges present evidence; testimony
+    is given before the god, the seller is punished as thief, and property and payment
+    are redistributed.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: River ordeal as divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The sorcery accusation is tested by plunging into the river-god, whose action
+    determines innocence, guilt, death, and transfer of property.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is legal rather than narrative; the motif is identified from
+    the legal procedure itself.
+- id: motif:2
+  label: False accusation punished by reversal
+  taxonomy_refs: []
+  basis: Unsupported capital accusation, failed sorcery accusation, and unjustified
+    capital testimony bring severe penalties upon the accuser or witness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this legal retaliation pattern.
+- id: motif:3
+  label: Judge loses seat for corrupt or altered judgment
+  taxonomy_refs: []
+  basis: A judge who alters a sealed sentence must pay twelvefold and is removed from
+    the judgment seat.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a legal accountability pattern, not a mythic narrative episode.
+- id: motif:4
+  label: Theft from a god or sacred property
+  taxonomy_refs:
+  - sacred_theft
+  basis: The laws specify death for stealing the goods of a god or palace and restitution
+    for stolen animals or ships belonging to a god or palace.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage treats sacred theft as a legal offense and pairs divine property
+    with palace property.
+- id: motif:5
+  label: Witnessed transfer proves rightful possession
+  taxonomy_refs: []
+  basis: Purchases without witness or contract are treated as theft, while disputed
+    lost property is adjudicated by bringing seller, owner, and witnesses before judges
+    and the god.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy reference directly covers documentary or testimonial
+    proof.
+comparison_claims:
+- id: claim:1
+  claim: 'The river-god ordeal performs the same function as a divine-judgment motif:
+    a divine or sacral agent determines truth and fixes the legal outcome.'
+  claim_level: same_function
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a comparison to a motif family only; the passage does not cite
+    another specific myth or legal tradition.
+- id: claim:2
+  claim: The law concerning stolen goods of a god aligns with the sacred-theft motif
+    family at the level of subject matter.
+  claim_level: same_motif
+  target: sacred_theft motif family
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is statutory and includes palace property alongside divine
+    property; it does not narrate a sacred theft episode.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 22758-22760; § 1 (26)-(32)
+  quote_or_summary: If a man lays a capital charge and has not justified it, "he that
+    accused him shall be put to death."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; brief excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 22761-22770; § 2 (33)-(55)
+  quote_or_summary: A man accused of sorcery goes to the river-god and plunges into
+    the river-god; if the river-god overcomes him, the accuser takes his house, but
+    if the river-god declares him innocent and saves him, the accuser is put to death
+    and the accused takes the accuser's house.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; neutral summary of provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 22772-22780; §§ 3-4
+  quote_or_summary: A witness in a capital case who does not justify his statement
+    is put to death; a witness who lies about corn or money bears the sentence of
+    the case.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; neutral summary of provided passage.
+- id: ev:4
+  type: summary
+  locator: within lines 22758-22895; § 5
+  quote_or_summary: A judge who renders judgment, grants a sealed sentence, and later
+    alters it is called to account, pays twelvefold the penalty, is expelled from
+    the judgment seat, and may not sit with judges at judgment.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; neutral summary of provided passage.
+- id: ev:5
+  type: summary
+  locator: within lines 22758-22895; §§ 6-8
+  quote_or_summary: The laws punish theft of goods of a god or palace, receipt of
+    stolen goods, purchase without witness or contract, and theft of animals or ships
+    with death or specified restitution.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; neutral summary of provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 22866-22895; § 9
+  quote_or_summary: In a lost-property dispute, the possessor invokes a seller and
+    witnesses, the owner brings witnesses who know the property, judges consider the
+    evidence, witnesses testify before the god, the seller is put to death as thief,
+    the owner recovers the property, and the purchaser recovers payment from the seller's
+    estate.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; neutral summary of provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The legal procedures and named agents are explicit. Motif assignments are
+    limited to available taxonomy where directly supported, especially river-god judgment
+    and theft of divine property.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Akkadian transliteration is present in the passage but the extraction relies on the accompanying English translation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l22758-l22895
+  passage_sha256=1c5d4cfca5d86dcd7c0d94a626744c996d82add2881a8590151dd69c33ab6c4a
+

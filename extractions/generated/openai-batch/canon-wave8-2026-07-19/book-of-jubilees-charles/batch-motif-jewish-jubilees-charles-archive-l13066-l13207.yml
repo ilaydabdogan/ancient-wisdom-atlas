@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l13066-l13207
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER XIII. 4-20 99 / CHAPTER XIII. 21-29 / CHAPTER XIV. 1-14 103 / CHAPTERS
+    XIV. 15-XV. 1 105; lines 13066-13207
+  start: '13066'
+  end: '13207'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Abram offers sacrificial pieces, birds, fruit-offerings, and drink-offerings,
+    and fire consumes them. A covenant is made with Abram, likened to the covenant
+    with Noah, and Abram renews a festival ordinance. Abram tells Sarai of his hope
+    for seed; Sarai, who has not borne, gives Hagar her Egyptian maid to Abram as
+    wife. Hagar conceives and bears Ishmael, whom Abram names. The next chapter opening
+    places Abram’s celebration of the first-fruits of grain in the third month.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Abram offered pieces, birds, fruit-offerings, and drink-offerings, and fire
+    devoured them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A covenant was made with Abram on that day, explicitly compared with a covenant
+    previously made with Noah in the same month.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Abram renewed a festival and ordinance for himself forever.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Abram rejoiced, told Sarai these things, and believed he would have seed,
+    while Sarai had not borne.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sarai advised Abram to go in to Hagar, her Egyptian maid, and then gave Hagar
+    to Abram to be his wife.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hagar conceived and bore Abram a son, and Abram named him Ishmael; the passage
+    dates this to Abram’s eighty-sixth year.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: At the opening of chapter XV, Abram celebrates the feast of the first-fruits
+    of grain in the third month, in the middle of the month.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Abram
+  description: Recipient of the covenant; offerer of the sacrificial materials; husband
+    of Sarai; later husband of Hagar; father and namer of Ishmael; celebrant of first-fruits.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Noah
+  description: Named as the earlier covenant figure whose covenant is compared with
+    Abram’s covenant.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Sarai
+  description: Abram’s wife; she has not borne, advises Abram concerning Hagar, and
+    gives Hagar to Abram as wife.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Hagar
+  description: Sarai’s Egyptian maid; given to Abram as wife; conceives and bears
+    Ishmael.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Ishmael
+  description: Son born to Abram and Hagar and named by Abram.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: unnamed covenant-making “we”
+  description: A collective speaker says that it made a covenant with Abram.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: sacrificial offerer
+  assigned_to:
+  - fig:1
+  basis: Abram offers pieces, birds, fruit-offerings, and drink-offerings.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: covenant recipient and festival renewer
+  assigned_to:
+  - fig:1
+  basis: The covenant is made with Abram, and Abram renews the festival and ordinance.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: father and namer
+  assigned_to:
+  - fig:1
+  basis: Hagar bears Abram a son, and Abram names him Ishmael.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: precedent covenant figure
+  assigned_to:
+  - fig:2
+  basis: The Abram covenant is compared to the covenant with Noah in the same month.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: wife and adviser
+  assigned_to:
+  - fig:3
+  basis: Sarai advises Abram and gives Hagar to him as wife.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: maid, wife, and mother
+  assigned_to:
+  - fig:4
+  basis: Hagar is Sarai’s Egyptian maid, is given to Abram as wife, and bears Ishmael.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: newborn son
+  assigned_to:
+  - fig:5
+  basis: Ishmael is born to Hagar and Abram and named by Abram.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: covenant-making speaker
+  assigned_to:
+  - fig:6
+  basis: The collective voice states, “we made a covenant with Abram.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire consuming offerings
+  literal_form: fire devouring the offerings
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sacrificial offerings
+  literal_form: pieces, birds, fruit-offerings, and drink-offerings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: first-fruits of grain
+  literal_form: feast of the first-fruits of grain
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Abram’s offering and fire consumption
+  summary: Abram offers the sacrificial materials, and fire devours them.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Covenant and festival renewal
+  summary: A covenant is made with Abram, compared to the covenant with Noah, and
+    Abram renews the festival ordinance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sarai gives Hagar to Abram
+  summary: After Abram expresses belief in future seed, Sarai advises him to go to
+    Hagar and gives Hagar to him as wife.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Birth and naming of Ishmael
+  summary: Hagar conceives and bears a son to Abram, and Abram names him Ishmael.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: First-fruits celebration
+  summary: Abram celebrates the feast of the first-fruits of grain in the third month,
+    in the middle of the month.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: covenant renewal linked to an earlier covenant
+  taxonomy_refs:
+  - covenant
+  basis: The passage says a covenant was made with Abram according as the speakers
+    had covenanted with Noah, and Abram renewed a festival ordinance for himself forever.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not describe the Noah covenant in detail.
+- id: motif:2
+  label: fire-consumed sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: Abram offers sacrificial materials and the fire devours them.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: festival observance in sacred calendar time
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Abram renews a festival ordinance and later celebrates the feast of first-fruits
+    in the third month, in the middle of the month.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The long calendrical discussion in the excerpt is editorial note material;
+    the motif basis here uses only the narrative statements about festival renewal
+    and first-fruits.
+- id: motif:4
+  label: lineage sought through a maidservant made wife
+  taxonomy_refs: []
+  basis: Sarai, not bearing, gives Hagar to Abram as wife so that seed may be built
+    up through her; Hagar conceives and bears Ishmael.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No direct available taxonomy family precisely matches this kinship pattern,
+    and the excerpt does not frame Ishmael’s birth as miraculous.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Abram’s covenant as analogous to the earlier
+    covenant with Noah by saying it was made according as the speakers had covenanted
+    with Noah in the same month.
+  claim_level: same_motif
+  target: Noah covenant referenced within the passage
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage; the excerpt gives no details
+    of the Noah covenant beyond the reference.
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER XIV.19 within lines 13066-13207
+  quote_or_summary: Abram offered the pieces, birds, fruit-offerings, and drink-offerings,
+    and the fire devoured them.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: CHAPTER XIV.20 within lines 13066-13207
+  quote_or_summary: A covenant was made with Abram on that day, as with Noah in the
+    same month; Abram renewed the festival and ordinance for himself forever.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: CHAPTER XIV.21-23 within lines 13066-13207
+  quote_or_summary: Abram rejoiced and told Sarai; he believed he would have seed
+    though Sarai had not borne. Sarai advised him to go to Hagar her Egyptian maid
+    and gave Hagar to him as wife.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: CHAPTER XIV.24 within lines 13066-13207
+  quote_or_summary: Hagar conceived and bore Abram a son; Abram named him Ishmael;
+    the passage dates this to Abram’s eighty-sixth year.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: CHAPTER XV.1 within lines 13066-13207
+  quote_or_summary: In the fifth year of the jubilee, in the third month and the middle
+    of the month, Abram celebrated the feast of the first-fruits of the grain.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Named figures and actions are explicit. Motif assignment is strongest for
+    covenant and sacrifice; the seasonal-cycle and lineage-through-maidservant patterns
+    are more descriptive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied line range includes extensive editorial and footnote material on calendrical interpretation. This extraction prioritizes the narrative and direct festival statements, not the full editorial discussion.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l13066-l13207
+  passage_sha256=44732915af00e23d88d4331e185186789c39dc94a7bc86bcbd1bb09ad777936c
+

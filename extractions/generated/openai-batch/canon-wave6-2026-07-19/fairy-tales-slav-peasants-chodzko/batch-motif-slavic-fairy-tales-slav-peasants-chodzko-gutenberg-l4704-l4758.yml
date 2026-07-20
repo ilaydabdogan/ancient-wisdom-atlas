@@ -1,0 +1,418 @@
+---
+record_id: batch.motif.slavic-fairy-tales-slav-peasants-chodzko-gutenberg-l4704-l4758
+source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+passage_locator:
+  label: THE SPIRIT OF THE STEPPES / THE SPIRIT OF THE STEPPES / THE PRINCE WITH THE
+    GOLDEN HAND / THE PRINCE WITH THE GOLDEN HAND; lines 4704-4758
+  start: '4704'
+  end: '4758'
+  translation: Fairy Tales of the Slav Peasants and Herdsmen
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"Now they are all guessed," said she, and gave her hand to the young prince.'
+  summary: The Princess with the Golden Hair restates her vow to marry only the man
+    who can answer six enigmas. The prince answers all six riddles correctly, receives
+    her hand, and the royal blessing follows. Three weddings and a feast are celebrated;
+    a messenger rides a winged horse to notify the young princes' parents. The passage
+    ends with a first-person guest remark about eating and drinking while his throat
+    remains dry.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Princess with the Golden Hair says she vowed, when carried off by the
+    hurricane, to give her hand only to someone who could answer her six enigmas.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prince tells the princess to speak and says he is listening.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The princess poses six riddles, and the prince answers them as scissors, a
+    glass of wine, an echo, sunshine, time including day and night, and a girdle.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: After the six answers are accepted, the princess gives her hand to the young
+    prince.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The couple kneels before the king and queen to receive their blessing.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Three weddings are celebrated the same evening.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A messenger mounts the winged horse to take the news to the parents of the
+    young princes and bring them back as guests.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A feast is prepared, invitations are sent, and the guests feast, drink, and
+    dance until morning.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: The first-person narrator says he was a guest, but the wine ran down his beard
+    and his throat remained dry.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Princess with the Golden Hair
+  description: A princess who speaks to her father, restates her vow about six enigmas,
+    poses the riddles, and gives her hand to the young prince after he answers them.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: young prince / bridegroom
+  description: The prince who listens to the princess's riddles, answers all six,
+    and receives her hand.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: king / father of the princess
+  description: The princess addresses him as her father and lord; he is silent during
+    her statement and later gives blessing with the queen.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: queen
+  description: The queen is present with the king when the couple kneels to receive
+    blessing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: messenger
+  description: A messenger mounts the winged horse to carry good news and bring back
+    the young princes' parents as guests.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: winged horse
+  description: A horse described as winged and mounted by the messenger.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: parents of the young princes
+  description: The parents are to receive the news and be brought back as guests.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: first-person narrator as guest
+  description: The narrator says he too was a guest at the feast and describes eating
+    and drinking without his throat being satisfied.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: vow-bound riddle-giver
+  assigned_to:
+  - fig:1
+  basis: The princess says her word cannot be broken and poses the six enigmas required
+    by her vow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: riddle-answering bridegroom
+  assigned_to:
+  - fig:2
+  basis: The prince accepts the riddles and answers all six correctly before being
+    accepted as bridegroom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: wedding couple receiving acceptance
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: After the riddles are answered, the princess gives her hand to the young
+    prince and they kneel for blessing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: royal blessing-givers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The king and queen are approached by the couple to receive their blessing.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: mounted news-bearer
+  assigned_to:
+  - fig:5
+  basis: The messenger mounts the winged horse to carry good news to the parents of
+    the young princes.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: winged mount
+  assigned_to:
+  - fig:6
+  basis: The horse is described as winged and is used by the messenger.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: parents to be notified and brought as guests
+  assigned_to:
+  - fig:7
+  basis: The messenger is sent to tell the parents the good news and bring them back
+    as guests.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: first-person feast guest
+  assigned_to:
+  - fig:8
+  basis: The narrator states that he was a guest and ate and drank with the rest.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: six enigmas
+  literal_form: Six riddles required by the princess's vow; answers include scissors,
+    a glass of wine, an echo, sunshine, time including day and night, and a girdle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: ring-serpent girdle image
+  literal_form: 'The sixth riddle: by day a ring, by night a serpent; the answer is
+    a girdle.'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: hand given after riddles
+  literal_form: The princess gives her hand to the young prince after all six riddles
+    are guessed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: winged horse
+  literal_form: The messenger mounts the winged horse.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dry-throated feast image
+  literal_form: The narrator says the wine ran down his beard and his throat remained
+    dry.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The vow and six riddles
+  summary: The princess explains her vow to marry only the solver of six enigmas,
+    then poses the riddles while the prince answers each correctly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Acceptance, blessing, and weddings
+  summary: After the last answer, the princess gives her hand to the prince. They
+    kneel before the king and queen for blessing, and three weddings are celebrated.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: News-bearing, feast, and closing guest remark
+  summary: A messenger rides the winged horse to bring the news to the young princes'
+    parents. A feast is held with drinking and dancing, and the narrator adds that
+    he was present but remained dry-throated.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: riddle test as condition for marriage
+  taxonomy_refs: []
+  basis: The princess's vow requires correct answers to six enigmas before she will
+    give her hand; the prince answers all six and receives her hand.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage supplies the test and its outcome, but no external tale-type
+    identification is made here.
+- id: motif:2
+  label: vow recalled from abduction by hurricane
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The princess says the vow was made when she was carried off by the hurricane.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The carrying-off is only mentioned retrospectively in this passage; the
+    agent, circumstances, and full abduction episode are not narrated here.
+- id: motif:3
+  label: multiple weddings and royal feast as resolution
+  taxonomy_refs: []
+  basis: The couple receives blessing, three weddings are celebrated, and a feast
+    with guests, drinking, and dancing follows.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a concluding celebration, but the wider tale context
+    is needed to confirm its full narrative function.
+- id: motif:4
+  label: first-person impossible feast attendance at tale close
+  taxonomy_refs: []
+  basis: The narrator claims to have been a guest at the feast while the wine only
+    ran down his beard and his throat remained dry.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The phrasing appears as a closing comic image within this passage; identifying
+    it as a broader formula requires comparison beyond the supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4704-4713
+  quote_or_summary: The Princess with the Golden Hair kisses her father and states
+    that, after being carried off by the hurricane, she vowed to give her hand only
+    to the one who could answer her six enigmas; the prince invites her to speak.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 4714-4739
+  quote_or_summary: 'The first five riddles are posed and answered: scissors, a glass
+    of wine, an echo, sunshine, and time including day and night.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: quote
+  locator: 4740-4745
+  quote_or_summary: '"By day a ring, by night a serpent"; the prince answers "a girdle,"
+    and after all are guessed the princess gives him her hand.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:4
+  type: summary
+  locator: 4746-4753
+  quote_or_summary: The couple kneels before the king and queen for blessing; three
+    weddings are celebrated that evening; a messenger rides the winged horse to notify
+    the young princes' parents and bring them as guests; a feast and invitations are
+    prepared.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: 4753-4758
+  quote_or_summary: The guests feast, drink, and dance until morning; the first-person
+    narrator says he too was a guest, but the wine ran down his beard and his throat
+    remained dry.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for literal action, figures, and riddle sequence. Motif
+    labels are candidate-level and should be reviewed, especially the retrospective
+    hurricane abduction and tale-closing formula. No comparison claims are made because
+    the supplied passage does not itself establish a cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Line subdivisions within the supplied range are approximate.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-fairy-tales-slav-peasants-chodzko-gutenberg__l4704-l4758
+  passage_sha256=d2fa08ceababbb40ea9c2fb4d05be6a47366f9858986e609069f9c93c0bd432c
+

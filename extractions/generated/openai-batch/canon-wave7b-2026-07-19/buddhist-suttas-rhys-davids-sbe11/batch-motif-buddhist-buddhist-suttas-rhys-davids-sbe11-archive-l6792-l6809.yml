@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.buddhist-buddhist-suttas-rhys-davids-sbe11-archive-l6792-l6809
+source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+passage_locator:
+  label: MAHA-PARINIBBANA-SUTTA. / I08 THE BOOK OF THE GREAT DECEASE. CH. / IIO THE
+    BOOK OF THE GREAT DECEASE. CH. / MAHA-FARINIBBANA-SUTTA.; lines 6792-6809
+  start: '6792'
+  end: '6809'
+  translation: Buddhist Suttas (Sacred Books of the East, Vol. 11)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed male figure accepts something, walks in a quiet part of a grove,
+    meditates, overcomes the Evil Spirit, attains Arahatship and discriminating knowledge
+    of the Scriptures, then returns and sits beside the Blessed One. An editorial
+    note states that no set ordination ceremony appears to have taken place in this
+    account and suggests such ceremony may not have been usual in the earliest days
+    of Buddhism.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed male figure accepted something previously mentioned outside the
+    supplied passage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The figure walked up and down in a quiet part of a grove.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The figure thought and meditated there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The figure overcame the Evil Spirit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The figure acquired Arahatship and discriminating knowledge of all the Scriptures.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The figure returned and took a seat beside the Blessed One.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The note says no set ceremony for ordination, as laid down in the Vinaya,
+    took place in this account.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed male meditator
+  description: A male figure referred to as 'he' who accepts something, meditates,
+    overcomes the Evil Spirit, attains Arahatship and knowledge, and returns to sit
+    beside the Blessed One.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the Blessed One
+  description: The figure beside whom the unnamed meditator sits after returning.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the Evil Spirit
+  description: A being or force overcome by the unnamed meditator during meditation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: meditating seeker
+  assigned_to:
+  - fig:1
+  basis: The figure walks in a quiet part of the grove and thinks and meditates.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: attainer of Arahatship and scriptural knowledge
+  assigned_to:
+  - fig:1
+  basis: The figure acquires Arahatship and discriminating knowledge of all the Scriptures.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: teacher or revered presence
+  assigned_to:
+  - fig:2
+  basis: The unnamed figure returns and sits beside the Blessed One; the passage does
+    not specify further action by the Blessed One here.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: spiritual adversary overcome
+  assigned_to:
+  - fig:3
+  basis: The Evil Spirit is overcome during the unnamed figure's meditation and attainment.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: quiet grove
+  literal_form: a quiet part of the grove
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Scriptures as knowledge object
+  literal_form: all the Scriptures
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: seat beside the Blessed One
+  literal_form: took his seat beside the Blessed One
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Meditation and attainment in the grove
+  summary: After accepting something, the unnamed figure walks in a quiet part of
+    the grove, meditates, overcomes the Evil Spirit, and attains Arahatship with discriminating
+    knowledge of the Scriptures.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return to the Blessed One
+  summary: The unnamed figure returns and sits beside the Blessed One.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Editorial note on ordination ceremony
+  summary: The passage notes that no set ordination ceremony as prescribed in the
+    Vinaya occurs in this account and suggests such ceremony may not have been usual
+    in the earliest period of Buddhism.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: meditation leading to spiritual attainment and knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The figure meditates and thereby acquires Arahatship and discriminating knowledge
+    of all the Scriptures.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states attainment and knowledge directly, but the wider narrative
+    context and identity of the figure are not present in the supplied excerpt.
+- id: motif:2
+  label: overcoming a spiritual adversary before attainment
+  taxonomy_refs: []
+  basis: The figure overcomes the Evil Spirit before acquiring Arahatship and scriptural
+    knowledge.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not elaborate the Evil Spirit's actions or identify the
+    being beyond this label.
+- id: motif:3
+  label: informal entry into spiritual status without set ceremony
+  taxonomy_refs:
+  - initiation
+  basis: The editorial note observes that no set ordination ceremony took place in
+    this account, while the narrative describes attainment after meditation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The initiation framing is cautious because the passage is partly editorial
+    and specifically discusses absence of formal ordination rather than a ritual initiation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6792-6801
+  quote_or_summary: The passage says the unnamed male figure accepted something, walked
+    in a quiet part of the grove, thought and meditated, overcame the Evil Spirit,
+    and acquired Arahatship and discriminating knowledge of all the Scriptures.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 6801-6802
+  quote_or_summary: The figure returned and took his seat beside the Blessed One.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 6804-6809
+  quote_or_summary: The note says that no set ceremony for ordination, as laid down
+    in the Vinaya, took place, and suggests that such ceremony may not have been usual
+    in the earliest days of Buddhism.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The core sequence is clear, but the passage begins mid-context and does not
+    name the unnamed male figure or specify what he accepted. No comparison claims
+    are made because the supplied passage does not itself support a cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external identification of figures or taxonomy beyond supplied references was added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-buddhist-suttas-rhys-davids-sbe11-archive__l6792-l6809
+  passage_sha256=3bfb9657e6116802351a36d2b053602289ddcf25cad0a1b2ad2c5dff58b731ea
+

@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l2468-l2506
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE FOURTH BOOKE / THE EIGHTEENTH CHAPTER / THE NINETEENTH CHAPTER / THE
+    TWENTIETH CHAPTER; lines 2468-2506
+  start: '2468'
+  end: '2506'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Thrasileon, enclosed in a beast form, is attacked by dogs and armed men
+    and dies without betraying his companions. A butcher cuts open the beast and reveals
+    a thief inside. The surviving robbers hide treasure in a sepulchre, return home,
+    commemorate their dead with gold cups and hymns to Mars, and then sleep while
+    the old woman feeds the animals and the narrator eats bread.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Thrasileon is surrounded and torn by many dogs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A tall man with a spear pierces Thrasileon, and others with swords help kill
+    him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator tries to assist Thrasileon by speaking to the gathered people,
+    but the words do not prevent the killing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Thrasileon dies without revealing the league between himself and his companions.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Although torn by dogs and wounded by weapons, Thrasileon gives a cry described
+    as more beast-like than human.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After Thrasileon is dead, people are afraid to touch him until day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A butcher opens the belly of the beast and cuts out a thief.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The surviving group packs up treasure and commits it to a sepulchre for safekeeping.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The group states that there is more fidelity among the dead than among the
+    living because the stolen goods are securely kept in the sepulchre.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The group reports returning home after long travel, heavy burdens, and the
+    loss of three soldiers.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The speakers commemorate their slain companions, take gold cups, sing hymns
+    to Mars, and go to sleep.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The old woman gives fresh barley in abundance, the horse eats it, and the
+    narrator eats household bread.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Thrasileon
+  description: A captain and companion who is killed while enclosed in a beast form
+    and who does not reveal his league with the others.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Narrating companion
+  description: The first-person speaker who tries to aid Thrasileon with words and
+    later eats bread.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Dogs
+  description: Many dogs that surround, tear, and rend Thrasileon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Tall man with a spear
+  description: An armed man who thrusts Thrasileon through with a spear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: People with swords and assembly
+  description: People standing by who draw swords, help kill Thrasileon, and are afraid
+    to touch him after his death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: Butcher
+  description: A butcher who opens the beast's belly and reveals the thief inside.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Surviving companions or robbers
+  description: The group that loses Thrasileon, hides treasure in a sepulchre, returns
+    home, commemorates slain companions, and sings hymns to Mars.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: Slain companions
+  description: Companions remembered by the surviving group after the return.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Mars
+  description: The god to whom the companions sing hymns.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Old woman
+  description: A woman who gives fresh barley without measure.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Horse
+  description: An animal fed abundantly with fresh barley.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: slain loyal captain
+  assigned_to:
+  - fig:1
+  basis: Thrasileon is called the group's good captain and dies without betraying
+    their league.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: narrating helper
+  assigned_to:
+  - fig:2
+  basis: The first-person speaker runs among the people and tries to aid Thrasileon
+    with words.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: attackers
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Dogs tear Thrasileon, the spear-bearing man pierces him, and others with
+    swords kill him.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: revealer of hidden body
+  assigned_to:
+  - fig:6
+  basis: The butcher opens the beast and cuts out a thief.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: treasure carriers
+  assigned_to:
+  - fig:7
+  basis: The surviving group packs up treasure and commits it to a sepulchre.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: mourners or commemorators
+  assigned_to:
+  - fig:7
+  basis: The group speaks in memory of slain companions, takes gold cups, and sings
+    hymns to Mars.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: commemorated dead
+  assigned_to:
+  - fig:8
+  basis: The companions are explicitly remembered as slain companions.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: recipient of hymns
+  assigned_to:
+  - fig:9
+  basis: The group sings hymns to the god Mars.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: food provider
+  assigned_to:
+  - fig:10
+  basis: The old woman gives fresh barley without measure.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: fed animal
+  assigned_to:
+  - fig:11
+  basis: The horse feeds abundantly on the barley.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: beast body containing a thief
+  literal_form: The belly of the beast is opened and a thief is cut out.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: dogs
+  literal_form: Many dogs surround, tear, and rend Thrasileon.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: spear and swords
+  literal_form: A spear and swords are used to kill Thrasileon.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: sepulchre
+  literal_form: The treasure is committed to a sepulchre to keep.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: gold cups
+  literal_form: The companions take cups of gold during their remembrance of the slain.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: hymns to Mars
+  literal_form: The companions sing hymns to the god Mars.
+  associated_figures:
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: barley and bread
+  literal_form: Fresh barley is given for feeding, and loaves of bread are eaten by
+    the narrator.
+  associated_figures:
+  - fig:2
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Thrasileon attacked and killed
+  summary: Thrasileon is surrounded by dogs, pierced with a spear, struck by swords,
+    and killed while the narrator's verbal attempt to help fails.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death without betrayal
+  summary: Thrasileon endures tearing and wounds, gives a beast-like cry, and dies
+    without disclosing the league between himself and his companions.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Butcher reveals the thief inside the beast
+  summary: After others fear to touch the dead beast, a butcher opens its belly and
+    cuts out the thief inside.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Treasure hidden in the sepulchre
+  summary: The surviving group packs up treasure, places it in a sepulchre, and comments
+    that the dead keep faith better than the living.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Commemoration with gold cups and hymns
+  summary: The group remembers slain companions, takes gold cups, sings hymns to Mars,
+    and lies down to sleep.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Feeding after the return
+  summary: The old woman gives plentiful barley, the horse eats it, and the narrator
+    eats bread from a corner of the house.
+  figure_refs:
+  - fig:2
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: human concealed in an animal body and revealed after death
+  taxonomy_refs:
+  - shapeshifter
+  basis: Thrasileon is treated as a beast during the attack, gives a beast-like cry,
+    and a butcher opens the beast to reveal a thief inside.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports concealment or enclosure in a beast form, but it
+    does not state a supernatural transformation.
+- id: motif:2
+  label: loyal silence under violent death
+  taxonomy_refs: []
+  basis: Thrasileon does not reveal the league between himself and his companions
+    despite being torn by dogs and wounded by weapons.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a narrative loyalty pattern rather than a named taxonomy motif
+    in the provided list.
+- id: motif:3
+  label: treasure entrusted to the dead
+  taxonomy_refs: []
+  basis: The group commits treasure to a sepulchre and says there is more fidelity
+    among the dead than among the living.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a practical reason for hiding treasure in the sepulchre;
+    no explicit sacred or afterlife function is stated.
+- id: motif:4
+  label: martial remembrance of slain companions
+  taxonomy_refs: []
+  basis: The surviving companions remember the slain, take gold cups, and sing hymns
+    to Mars.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage records commemoration and hymns to Mars, but it does not describe
+    a formal rite beyond these actions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2468-2476
+  quote_or_summary: Thrasileon is surrounded by dogs; the narrator tries to help with
+    words; a tall man pierces him with a spear and others draw swords and kill him.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2476-2485
+  quote_or_summary: Thrasileon dies patiently without revealing the league, crying
+    more like a beast than a man, and the assembly is afraid to touch him until day.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2485-2487
+  quote_or_summary: '"opening the panch of the beast, slit out an hardy and ventrous
+    theefe"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 2491-2499
+  quote_or_summary: The group packs up treasure, commits it to a sepulchre, reasons
+    that the dead are more faithful than the living, and returns home after heavy
+    travel and losses.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2501-2503
+  quote_or_summary: The companions remember their slain, take gold cups, sing hymns
+    to Mars, and lie down to sleep.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 2503-2506
+  quote_or_summary: The old woman gives fresh barley; the horse eats abundantly; the
+    narrator finds household loaves and fills himself with bread.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal events are clear in the supplied passage. The shapeshifter taxonomy
+    reference is cautious because the passage shows a human concealed in a beast form
+    rather than an explicit supernatural transformation. No comparison claims are
+    asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All interpretations are limited to the supplied passage and metadata.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l2468-l2506
+  passage_sha256=0f569ae8c1456f8b5052aa1c586503856165f9403effc8f4c9186849fbb2a9f9
+

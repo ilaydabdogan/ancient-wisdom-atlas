@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l28508-l28517
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SUPERSTITIONS.      I.  1817 / SUPERSTITIONS.      I.  1819 / SUPERSTITIONS.      I.  1821
+    / SPPERSTITIONS.      I.  1823; lines 28508-28517
+  start: '28508'
+  end: '28517'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Three numbered superstitions describe: a St Walpurg''s eve practice of
+    wearing clothes wrong side out and creeping backward to a cross-way to enter witches''
+    company; childbirth omens involving a reel, thread, and knife predicting a child''s
+    death; and a box placed before a childbirth bed whose self-closing after someone
+    sits on it predicts that the woman will not bear again.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: St Walpurg's eve is the specified time for the first practice.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person puts all his clothes on wrong side out.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The person creeps backwards to a cross-way.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The stated result is that the person will get into witches' company.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: At a child's birth, a reel hanging awry with the thread dangling downward
+    is said to foretell that the child will hang itself.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: At a child's birth, a knife lying edge upward is said to foretell that the
+    child will die by the sword.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The smallest box in the house is usually placed before the childbirth bed.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: If someone sits on the box and it snaps shut by itself, the woman is said
+    never to be brought to bed again.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: person on St Walpurg's eve
+  description: A person who wears clothes wrong side out and creeps backwards to a
+    cross-way.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: witches' company
+  description: The company into which the person is said to get.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: child at birth
+  description: A child whose future death is predicted by the position of a reel,
+    thread, or knife at birth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: woman at childbirth bed
+  description: The woman associated with the childbirth bed and the box omen.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: person sitting on the box
+  description: Anyone who sits on the smallest box before the childbirth bed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual actor
+  assigned_to:
+  - fig:1
+  basis: The person performs the prescribed actions on St Walpurg's eve.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: supernatural company
+  assigned_to:
+  - fig:2
+  basis: The passage names witches' company as the group reached by the practice.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: child omen subject
+  assigned_to:
+  - fig:3
+  basis: The child's future death is predicted by object positions at birth.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: childbirth omen subject
+  assigned_to:
+  - fig:4
+  basis: The woman is the subject of the omen concerning whether she will be brought
+    to bed again.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: omen-triggering sitter
+  assigned_to:
+  - fig:5
+  basis: The person sitting on the box is part of the condition that triggers the
+    stated omen.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: inside-out clothing
+  literal_form: All clothes put on wrong side out.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: backward creeping
+  literal_form: Creeping backwards.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cross-way
+  literal_form: A cross-way approached by creeping backwards.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: reel and downward thread
+  literal_form: A reel hung awry with the thread dangling downward.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: knife edge upward
+  literal_form: A knife lying edge upwards.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: smallest box before childbirth bed
+  literal_form: The smallest box in the house placed before the childbirth bed, snapping
+    shut by itself after someone sits on it.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: St Walpurg's eve cross-way practice
+  summary: On St Walpurg's eve, a person wears clothes wrong side out and creeps backwards
+    to a cross-way, with the stated result of entering witches' company.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: birth omens of reel, thread, and knife
+  summary: At a child's birth, the positions of a reel, thread, and knife are read
+    as signs of the child's later death by hanging or sword.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: box omen at childbirth bed
+  summary: The smallest box is placed before a childbirth bed; if someone sits on
+    it and it snaps shut by itself, the woman is said not to be brought to bed again.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: inverted dress and backward movement to reach witches
+  taxonomy_refs: []
+  basis: The passage describes wearing clothing wrong side out and creeping backward
+    to a cross-way on St Walpurg's eve as a means of entering witches' company.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a superstition formula, not a developed narrative episode.
+- id: motif:2
+  label: birth omens predicting violent death
+  taxonomy_refs: []
+  basis: Household object positions at a child's birth are said to predict death by
+    hanging or sword.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader mythic explanation is supplied in the passage.
+- id: motif:3
+  label: childbirth bed box omen ending future childbearing
+  taxonomy_refs: []
+  basis: A self-closing box before the childbirth bed after someone sits on it is
+    said to predict that the woman will not be brought to bed again.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The result may imply no future childbirth, but the passage does not explain
+    the mechanism or cause.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1082; lines 28508-28510
+  quote_or_summary: On St Walpurg's eve, whoever wears all clothes wrong side out
+    and creeps backwards to a cross-way will get into witches' company.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 1083; lines 28511-28514
+  quote_or_summary: At a child's birth, a reel hung awry with thread dangling downward
+    foretells hanging, while a knife lying edge upward foretells death by the sword.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 1084; lines 28515-28517
+  quote_or_summary: The smallest box is placed before the childbirth bed; if someone
+    sits on it and it snaps shut by itself, the woman will never be brought to bed
+    again.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is brief and formulaic, allowing high confidence for literal
+    extraction; no passage-internal comparative claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned because the passage's motifs are specific superstitions and do not clearly match the supplied motif-family or symbol taxonomy without interpretation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l28508-l28517
+  passage_sha256=6cca11a1ee605e05289dc506b34be538495d13e7c49df9f156bdd31dc04d557f
+

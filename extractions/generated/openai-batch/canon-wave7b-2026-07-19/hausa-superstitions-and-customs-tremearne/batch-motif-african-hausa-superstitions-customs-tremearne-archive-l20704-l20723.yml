@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l20704-l20723
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: XXII. / XXIII. / XXIV. / NOTES   ON   THE   TALES  471; lines 20704-20723
+  start: '20704'
+  end: '20723'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on tales mention pursuit after a killing, drums used for
+    alarm, the francolin being called bush-fowl, variants involving Spider or Hare
+    and eating at the house or town of parents-in-law, and lot drawing using unequal
+    grass pieces or cowrie shells as dice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed male figure is said to be pursued because he killed one member
+    of a group.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Drums are described as always used to give the alarm.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The francolin is identified as being called “bush-fowl” in British West Africa.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In one story Spider eats in the house of his Parents-in-Law; in a variant
+    he does not go there.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A Kagoro tale is said to feature Hare objecting to eating even in the town
+    of his Parents-in-Law.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Lots are drawn by holding out grass pieces of unequal lengths.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In a variant where Hare is the hero, cowrie shells are used as dice for drawing
+    the lot, and they are sometimes loaded.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed pursued figure
+  description: A male figure who is to be pursued after killing one of a group’s members.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed group
+  description: The group from whose number one member was killed; pursuit is implied
+    by the note.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Spider
+  description: A tale figure who, in one story, eats in the house of his Parents-in-Law,
+    while a variant has him not go there.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Parents-in-Law
+  description: Affinal relatives whose house or town is associated with the eating
+    or avoidance motif.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hare
+  description: A figure who objects to eating in the town of his Parents-in-Law in
+    a Kagoro tale and is the hero in another variant using cowrie shells as dice.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: pursued killer
+  assigned_to:
+  - fig:1
+  basis: The note says he was to be pursued for having killed one of their number.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victimized pursuing group
+  assigned_to:
+  - fig:2
+  basis: The phrase “one of their number” identifies a group affected by the killing,
+    with pursuit following.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: visitor or eater in affinal household
+  assigned_to:
+  - fig:3
+  basis: Spider is described as eating in the house of his Parents-in-Law in one story
+    and not going there in a variant.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: affinal relatives or hosts
+  assigned_to:
+  - fig:4
+  basis: The Parents-in-Law are associated with a house or town where eating is accepted,
+    avoided, or objected to.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: affinal eating avoider
+  assigned_to:
+  - fig:5
+  basis: Hare objects to eating even in the town of his Parents-in-Law in the cited
+    Kagoro tale.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: variant hero
+  assigned_to:
+  - fig:5
+  basis: The note explicitly describes a variant in which Hare is the hero.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: alarm drums
+  literal_form: drums used to give the alarm
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: francolin or bush-fowl
+  literal_form: francolin called bush-fowl
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: unequal grass pieces
+  literal_form: pieces of grass of unequal lengths used to draw lots
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: cowrie-shell dice
+  literal_form: cowrie shells used as dice, sometimes loaded
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: parents-in-law’s house or town
+  literal_form: house or town of the Parents-in-Law
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Pursuit and alarm after killing
+  summary: A figure is marked for pursuit after killing one member of a group, and
+    drums are noted as the alarm instrument.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eating or avoidance at parents-in-law’s place
+  summary: Spider’s conduct at his Parents-in-Law’s house differs between versions,
+    and a cited Kagoro Hare tale intensifies the avoidance by objecting to eating
+    even in the parents-in-law’s town.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Drawing lots by grass or cowries
+  summary: Lots are drawn with unequal grass pieces, while a Hare-hero variant uses
+    cowrie shells as dice, sometimes loaded.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: pursuit after killing a group member
+  taxonomy_refs: []
+  basis: The note states that an unnamed figure was to be pursued for killing one
+    of a group’s number.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The full tale context is not included in the passage.
+- id: motif:2
+  label: drum alarm
+  taxonomy_refs: []
+  basis: The note says drums are always used to give the alarm.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states the alarm usage but does not describe the alarm scene
+    in detail.
+- id: motif:3
+  label: eating taboo or avoidance at parents-in-law’s place
+  taxonomy_refs: []
+  basis: The passage contrasts Spider eating at his Parents-in-Law’s house, a variant
+    where he does not go there, and a Kagoro Hare tale where Hare objects to eating
+    in the parents-in-law’s town.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly call this a taboo; it only records eating,
+    non-attendance, and objection to eating.
+- id: motif:4
+  label: drawing lots with unequal grass pieces
+  taxonomy_refs: []
+  basis: The note describes lot drawing by holding out pieces of grass of unequal
+    lengths.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No narrative outcome of the lot drawing is provided in this excerpt.
+- id: motif:5
+  label: cowrie shells used as loaded dice
+  taxonomy_refs: []
+  basis: A variant uses cowrie shells as dice for the same purpose, and the shells
+    are said to be loaded sometimes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify who loads the shells or the exact stakes
+    of the dice use.
+- id: motif:6
+  label: animal hero substitution across variants
+  taxonomy_refs: []
+  basis: The notes juxtapose Spider in one story, Hare in a Kagoro tale, and a variant
+    where Hare is the hero.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not label Spider or Hare as tricksters, so no trickster
+    taxonomy reference is assigned.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares a Kagoro Hare tale with a Hausa tale pattern
+    involving eating or avoiding eating at the Parents-in-Law’s place and states that
+    the Kagoro tale was probably borrowed from Hausa.
+  claim_level: historical_contact
+  target: Kagoro tale cited in R.A.I. Journal, 1912, vol. xlii, page 190
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The borrowing claim is reported only as a brief editorial note and
+    is qualified by “probably”; the passage gives limited details of the Kagoro tale.
+- id: claim:2
+  claim: The grass-piece lot and cowrie-shell dice variant serve the same lot-drawing
+    function in different versions.
+  claim_level: same_function
+  target: M.H. 77 variant where Hare is the hero
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports the shared purpose but not the surrounding tale
+    episodes or outcomes.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20704-20709
+  quote_or_summary: The note says a male figure is pursued for killing one of a group,
+    drums are used for alarms, and the francolin is called bush-fowl in British West
+    Africa.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 20710-20716
+  quote_or_summary: The note contrasts Spider eating in the house of his Parents-in-Law
+    with a variant where he does not go there, and cites a probably borrowed Kagoro
+    Hare tale about objecting to eating in the parents-in-law’s town.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 20718-20723
+  quote_or_summary: The note describes drawing lots with unequal grass pieces and
+    a Hare-hero variant in which cowrie shells are used as dice for the purpose, sometimes
+    loaded.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of brief editorial notes rather than full tales, so
+    extraction is limited to explicitly stated figures, objects, variant relations,
+    and comparative remarks.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage does not explicitly support the listed taxonomy categories.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l20704-l20723
+  passage_sha256=cfaec525484a699af1ceb4286a815835a716c9910fdc87bd00b11968d3d5f929
+

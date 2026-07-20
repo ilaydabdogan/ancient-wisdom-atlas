@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l31143-l31181
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE  RAVEN  AND  THE  MARMOT / MIGRATION   LEGEND / ORIGIN   OF   THE   PEOPLE   OF   DIOMEDE   ISLANDS,  AND  AT   EAST   CAPE,
+    / SIBERIA; lines 31143-31181
+  start: '31143'
+  end: '31181'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“the ten dolls had become transformed into ten people”"
+  summary: The passage gives two origin accounts. In one, a man and woman descend
+    from the sky to Big Diomede; after remaining childless, the man makes five ivory
+    and five wooden images that become ten people, ancestors of the islanders. In
+    another, the first East Cape Eskimo are a man and woman who arrive by kayak from
+    St Lawrence Island; their kayaks turn to stone, and from the pair come the Siberian
+    Eskimo. A final note says another mutually unintelligible people once lived there
+    but later left.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Diomede old man reports a belief that the first human beings on Big Diomede
+    were a man and a woman who came down from the sky, lived on the island for a long
+    time, and had no children.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man took walrus ivory and carved five images of people, then made five
+    more images from wood and set them aside.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: By the next morning the ten dolls had become ten people.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people from the ivory dolls were men described as hardy and brave; the
+    people from the wooden dolls were women described as soft and timid.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The inhabitants of the Diomede islands are said to have come from the ten
+    transformed people.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: An East Cape informant reports that the first Eskimo at East Cape were a man
+    and a woman who came from St Lawrence Island in two kayaks.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The two kayaks turned to stone when the pair landed, and two unusually shaped
+    stones on either side of the cape are identified as those kayaks.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: All Siberian Eskimo are said to have come from the East Cape founding pair.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage says two kinds of people once lived on East Cape, could not understand
+    one another, and that the other people later went away, leaving only the Eskimo.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Diomede sky-descended man
+  description: A male member of the first human pair on Big Diomede, said to have
+    come down from the sky; he later carves and makes images of people.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Diomede sky-descended woman
+  description: A female member of the first human pair on Big Diomede, said to have
+    come down from the sky and lived with the man without children.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ten transformed people
+  description: Five male people from ivory dolls and five female people from wooden
+    dolls, transformed from images made by the Diomede man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Inhabitants of the Diomede islands
+  description: The people said to descend from the ten transformed people.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: East Cape founding pair
+  description: A man and a woman said to be the first Eskimo at East Cape, arriving
+    in two kayaks from St Lawrence Island.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Siberian Eskimo
+  description: The people said to descend from the East Cape founding pair.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Other East Cape people
+  description: Another kind of people formerly at East Cape who could not understand
+    the Eskimo and later went away.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sky-descended first pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The first human beings on Big Diomede are described as a man and woman who
+    came down from the sky.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: maker of human images
+  assigned_to:
+  - fig:1
+  basis: The man makes five ivory images and five wooden images of people.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: transformed ancestor group
+  assigned_to:
+  - fig:3
+  basis: The ten dolls become ten people, from whom the island inhabitants descend.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: descendant island population
+  assigned_to:
+  - fig:4
+  basis: The inhabitants of the islands are said to come from the ten transformed
+    people.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: migrant founding pair
+  assigned_to:
+  - fig:5
+  basis: The first Eskimo at East Cape are described as a man and woman arriving from
+    St Lawrence Island in two kayaks.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: descendant regional population
+  assigned_to:
+  - fig:6
+  basis: All Siberian Eskimo are said to come from the East Cape pair.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: departing other people
+  assigned_to:
+  - fig:7
+  basis: The other people at East Cape could not understand the Eskimo and later went
+    away.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sky
+  literal_form: The sky as the place from which the first Diomede man and woman descend.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: walrus ivory images
+  literal_form: Five carved images of people made from walrus ivory.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wooden images
+  literal_form: Five images of people made from wood.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ten dolls
+  literal_form: The combined five ivory and five wooden images that become ten people.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: two kayaks
+  literal_form: Two kayaks used by the East Cape founding pair to come from St Lawrence
+    Island.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: petrified kayaks
+  literal_form: Two peculiarly shaped stones, one on each side of East Cape, identified
+    as the kayaks after they turned to stone.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sky descent to Big Diomede
+  summary: A man and woman come down from the sky to Big Diomede, live there a long
+    time, and have no children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Making and transformation of images
+  summary: The man makes five ivory and five wooden images, sets them aside, and by
+    morning they have become ten people with gendered material origins and attributes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Descent of Diomede inhabitants
+  summary: The inhabitants of the Diomede islands are traced to the ten people transformed
+    from dolls.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: East Cape arrival and stone kayaks
+  summary: A man and woman arrive at East Cape from St Lawrence Island in two kayaks;
+    when they land, the kayaks turn to stone and are identified with two stones at
+    the cape.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Descent and departure at East Cape
+  summary: The Siberian Eskimo are traced to the East Cape pair; another mutually
+    unintelligible people are said to have gone away, leaving only the Eskimo.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sky-descended founding pair
+  taxonomy_refs: []
+  basis: The first human beings on Big Diomede are a man and woman who come down from
+    the sky and live on the island.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage calls them first human beings, not deities.
+- id: motif:2
+  label: Artificial images transformed into human ancestors
+  taxonomy_refs: []
+  basis: Five ivory and five wooden dolls or images become ten people, from whom the
+    island inhabitants descend.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not describe the mechanism or agent of the transformation
+    beyond the next-morning change.
+- id: motif:3
+  label: Gendered people from contrasting materials
+  taxonomy_refs: []
+  basis: Ivory dolls become men described as hardy and brave, while wooden dolls become
+    women described as soft and timid.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The attributes are reported in the source and should not be generalized
+    beyond this passage.
+- id: motif:4
+  label: Migrant founding pair arriving by boat
+  taxonomy_refs: []
+  basis: The first East Cape Eskimo are a man and woman arriving from St Lawrence
+    Island in two kayaks, and all Siberian Eskimo descend from them.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a migration origin account rather than a creation from nothing.
+- id: motif:5
+  label: Vessels transformed into landscape stones
+  taxonomy_refs: []
+  basis: The kayaks turn to stone after landing, and two stones at East Cape are identified
+    as those kayaks.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents the stones as locally pointed out objects but gives
+    no ritual or further symbolic explanation.
+- id: motif:6
+  label: Replacement after departure of another people
+  taxonomy_refs: []
+  basis: Two mutually unintelligible kinds of people once lived at East Cape, but
+    the other people went away and only the Eskimo remained.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives little detail about the other people or the cause of
+    departure.
+comparison_claims:
+- id: claim:1
+  claim: The Diomede and East Cape accounts both use a male-female founding pair to
+    explain the origin of a named population, though their narrative mechanisms differ.
+  claim_level: same_function
+  target: Within-passage comparison of Diomede islander and East Cape/Siberian Eskimo
+    origin accounts
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  limitations: The Diomede account adds sky descent and transformed images, while
+    the East Cape account emphasizes migration by kayak and petrified vessels; this
+    supports functional similarity, not a claim of shared historical origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 31147-31150
+  quote_or_summary: A Diomede informant says the first human beings on Big Diomede
+    were a man and woman who came down from the sky, lived there a long time, and
+    had no children.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; concise summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 31150-31156
+  quote_or_summary: The man makes five walrus-ivory images and five wooden images;
+    by the next morning the ten dolls become ten people. The ivory figures become
+    men described as hardy and brave, the wooden figures women described as soft and
+    timid, and the island inhabitants descend from them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; concise summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 31160-31165
+  quote_or_summary: An East Cape informant says the first Eskimo at East Cape were
+    a man and woman who came in two kayaks from St Lawrence Island; the kayaks turned
+    to stone at landing, and two stones at the cape are identified as them. All Siberian
+    Eskimo descend from the pair.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; concise summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 31167-31169
+  quote_or_summary: The passage says two kinds of people once lived at East Cape,
+    could not understand each other, and that the other people went away, leaving
+    only the Eskimo.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; concise summary from supplied passage.
+- id: ev:5
+  type: note
+  locator: 31171-31181
+  quote_or_summary: The line range ends with library return/circulation text, treated
+    here as extraneous to the origin traditions.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; note based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative content is brief and explicit. Motif labels are descriptive
+    and mostly left without taxonomy references because the supplied taxonomy does
+    not contain exact matches for image-to-human transformation or petrified kayaks.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the origin-tradition material in the supplied passage was used for figures, symbols, scenes, and motifs; the library circulation text at the end of the range was not treated as narrative content.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l31143-l31181
+  passage_sha256=c5262257d3760f836b83850af6ca98394371e043bf23fce4f4179dc6e69a9be5
+

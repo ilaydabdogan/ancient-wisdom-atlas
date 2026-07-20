@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l22611-l22621
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: CH. XVI MAKING AND POWERS OF MEDICINE MEN 523 / XVI MAKING AND POWERS OF
+    .MEDICINE MEN 525 / XVI MAKING AND POWERS OF MEDICINE MEN 529 / XVI .MAKING AND
+    POWERS OF MEDICINE MEN 531; lines 22611-22621
+  start: '22611'
+  end: '22621'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Ullinka as a special hooked form of Irna used
+    by Iruntarinia. It is treated as a charm by malevolent spirits, projected into
+    a victim’s body, and pulled by an attached string to cause pain. A very able medicine
+    man is required to remove it completely.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Ullinka is always used by the Iruntarinia and is described as a special
+    form of Irna with a hooked end instead of a lump of resin.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ullinka is supposed to be a favourite charm used by malevolent spirits
+    to annoy and often kill men against whom they have a special grudge.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Ullinka is projected into the body of the victim.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A string attached to the Ullinka is pulled by the Iruntarinia to increase
+    the victim’s annoyance and pain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A very able medicine man is required to abstract the Ullinka and ensure that
+    no part remains in the victim’s body.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Iruntarinia
+  description: Malevolent spirits who use the Ullinka, project it into the victim,
+    and pull its attached string.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: victim or man
+  description: The man into whose body the Ullinka is projected and who experiences
+    annoyance and pain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: very able medicine man
+  description: A medicine man able to abstract the Ullinka from the victim’s body
+    so that no part remains.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: malevolent spirit attacker
+  assigned_to:
+  - fig:1
+  basis: The Iruntarinia are associated with the malevolent use of the Ullinka against
+    grudged victims.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: afflicted victim
+  assigned_to:
+  - fig:2
+  basis: The man receives the projected Ullinka in his body and suffers annoyance
+    and pain.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: medicine-man extractor
+  assigned_to:
+  - fig:3
+  basis: The medicine man abstracts the Ullinka and must remove it completely.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Ullinka charm
+  literal_form: A special form of Irna with a hooked end, attached to a string and
+    projected into a victim’s body.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: attached string
+  literal_form: The string attached to the Ullinka, pulled by the Iruntarinia to increase
+    pain.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Iruntarinia attack with the Ullinka
+  summary: Malevolent Iruntarinia use the Ullinka as a charm, project it into a victim’s
+    body, and pull its attached string to intensify the victim’s pain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Medicine-man extraction
+  summary: A very able medicine man is needed to remove the Ullinka completely from
+    the victim’s body.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: harmful charm projected into a victim’s body
+  taxonomy_refs: []
+  basis: The passage states that the Ullinka is projected into the victim’s body by
+    malevolent spirits and causes annoyance, pain, and sometimes death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives an ethnographic description of a particular charm and
+    does not provide a broader narrative cycle.
+- id: motif:2
+  label: medicine-man removal of an intrusive harmful object
+  taxonomy_refs: []
+  basis: The passage says that a very able medicine man must abstract the Ullinka
+    and ensure that none of it remains in the victim’s body.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly matches this extraction-healing
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22611-22615
+  quote_or_summary: The Ullinka is described as a special hooked form of Irna, always
+    used by Iruntarinia, and as a charm used by malevolent spirits against men they
+    especially begrudge.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 22616-22619
+  quote_or_summary: The Ullinka is projected into the victim’s body, and its attached
+    string is pulled by the Iruntarinia to add annoyance and pain.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 22619-22621
+  quote_or_summary: A very able medicine man is required to abstract the Ullinka and
+    ensure that no part remains in the victim’s body.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive rather
+    than tied to a supplied taxonomy. No comparison claims are made because the passage
+    itself does not support a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references left empty where no supplied taxonomy item directly matched the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l22611-l22621
+  passage_sha256=24425808d65e456b84481f44b7fa81aa23af8f0c489083d387b4cc35ce870ec2
+

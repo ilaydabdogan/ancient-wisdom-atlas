@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l699-l752
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: FROM BIRTH TO PUBERTY / FOUR BA-ILA CHILDREN. / ENJOYING HER BREAKFAST. /
+    GIRLS CARRYING WATER.; lines 699-752
+  start: '699'
+  end: '752'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes lenient Ba-ila treatment of children, mild disciplinary
+    responses to refusal of domestic tasks, a proverb about honoring children, the
+    belief that a mistreated child may return to the spirit world, threats using named
+    bogey creatures, and food taboos imposed on children because of feared sexual
+    or reproductive bodily effects.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Children are described as largely exempt from punishment; a mother rarely
+    beats her child, and parental discipline is said to extend no further than mild
+    measures.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If a girl refuses to stamp grain, her mother eats alone without offering her
+    food; if she refuses to fetch water, she must go thirsty.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If a girl breaks a calabash while drawing water, the mother sends her a longer
+    distance with a new and perhaps larger calabash.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A proverb says to honor a child so that it will honor you, and it is interpreted
+    as a reason not to be severe with naughty children.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Children are described as precious, and adults are said to fear that a child
+    may decide to return to the spirit world from which it came if not treated properly.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Children are intimidated by named fearsome creatures; a mother may warn a
+    child not to cry because Pompo will bite.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Boys and girls are forbidden to eat several foods, including fat, eggs, mukamu,
+    katongola, unground corn grains, and bufufu, because these are said to endanger
+    the genital passages or organs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Some fish are taboo because their softness is linked to feared softness in
+    future children or male genitalia; girls are also forbidden to eat the Miseza
+    root because of a stated genital consequence.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ba-ila children
+  description: Children described as precious, leniently treated, threatened with
+    bogeys, and subject to food taboos.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Mother or parent
+  description: A mother rarely beats her child, uses mild disciplinary consequences,
+    may invoke Pompo to stop crying, and is part of the parental discipline described.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Girl child
+  description: A girl is specifically described in examples of refusing to stamp grain
+    or fetch water, breaking a calabash while drawing water, and being subject to
+    girl-specific food restrictions.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Bogey creatures
+  description: Named fearsome creatures include Pompo, Shezhimwe, Pumpa, Shilombamudilo,
+    and Momba; Pompo is specifically said to bite a crying child.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: precious child at risk of spirit-world return
+  assigned_to:
+  - fig:1
+  basis: The passage states that children are precious and that adults fear a child
+    may return to the spirit world if mistreated.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: lenient caregiver and disciplinarian
+  assigned_to:
+  - fig:2
+  basis: The mother rarely beats the child and instead uses deprivation or additional
+    errands as mild discipline.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: domestic-task child
+  assigned_to:
+  - fig:3
+  basis: The girl is used in examples of stamping grain, fetching water, and drawing
+    water with a calabash.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: child-frightening bogey
+  assigned_to:
+  - fig:4
+  basis: Named fearsome creatures are invoked to intimidate children, including the
+    warning that Pompo will bite.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipient of food taboos
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Boys and girls, and in some cases girls specifically, are said to be forbidden
+    particular foods because of feared bodily effects.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Fetching water, drawing water, and going thirsty
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: calabash water vessel
+  literal_form: A calabash broken while drawing water, replaced by a new and perhaps
+    larger one
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: prohibited foods
+  literal_form: Fat, eggs, mukamu, katongola, unground corn grains, bufufu, certain
+    fish, and Miseza root
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: bogey creatures
+  literal_form: Pompo, Shezhimwe, Pumpa, Shilombamudilo, and Momba
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: spirit world
+  literal_form: The spirit world from which the child is said to have come and to
+    which it may return
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Mild discipline for domestic refusal
+  summary: A mother responds to a girl's refusal to stamp grain or fetch water by
+    withholding shared food or allowing thirst, and responds to a broken water calabash
+    by sending her farther with a new one.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Child honored to prevent spirit-world return
+  summary: A proverb about honoring a child is used to justify lenient treatment,
+    linked with the fear that a badly treated child may return to the spirit world.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Bogey warning to crying child
+  summary: A mother may warn a child not to cry by saying that Pompo will bite, and
+    several other fearsome creatures are named.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Food taboos for children
+  summary: Children are forbidden particular foods because the foods are said to cause
+    genital obstruction, splitting, softness, or other reproductive consequences.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Child may return to spirit world if mistreated
+  taxonomy_refs: []
+  basis: The passage states that adults fear a child may return to the spirit world
+    from which it came if not treated properly.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is presented as an ethnographic belief about children, not as a narrative
+    episode.
+- id: motif:2
+  label: Bogey threat used to discipline children
+  taxonomy_refs: []
+  basis: The passage gives a direct example of a mother threatening a crying child
+    with Pompo and lists several named fearsome creatures used to intimidate children.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage names the bogeys but gives no extended mythic narratives about
+    them.
+- id: motif:3
+  label: Food taboos tied to future sexual and reproductive harm
+  taxonomy_refs: []
+  basis: The passage lists foods forbidden to children and explains the prohibitions
+    through feared effects on genital organs, genital passages, future children, or
+    sexual development.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage records taboo explanations; it does not describe a ritual
+    performance.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Ba-ila child-frightening bogeys with a broader
+    pattern of children being intimidated by awesome bogeys.
+  claim_level: same_function
+  target: widespread child-disciplining bogey pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the author's brief general remark and
+    does not provide external examples or evidence for historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 699-706
+  quote_or_summary: Children are described as largely exempt from punishment; a mother
+    rarely beats her child, and parental discipline is limited.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 706-712
+  quote_or_summary: Examples of discipline include withholding food when a girl refuses
+    to stamp grain, letting her go thirsty if she refuses to fetch water, and sending
+    her farther with a new or larger calabash if she breaks one while drawing water.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 713-722
+  quote_or_summary: The proverb 'Honour a child and it will honour you' is interpreted
+    as requiring non-severity; children are precious, and adults fear the child may
+    return to the spirit world whence it came if improperly treated.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; contains a short quotation from public domain
+    text.
+- id: ev:4
+  type: summary
+  locator: lines 723-729
+  quote_or_summary: Children are said to be intimidated by awesome bogeys; a mother
+    may say, 'Do not cry, or Pompo will bite you,' and other named creatures include
+    Shezhimwe, Pumpa, Shilombamudilo, and Momba.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; contains a short quotation from public domain
+    text.
+- id: ev:5
+  type: summary
+  locator: lines 730-744
+  quote_or_summary: Children may not eat fat, eggs, mukamu, katongola, unground corn
+    grains, or bufufu because these are said to affect the genital organs or passages.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 744-752
+  quote_or_summary: Certain soft fish are taboo because of feared softness in future
+    children or male pudenda; girls may not eat Miseza root because of a stated genital
+    effect.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are cautious because the passage is ethnographic description rather than a myth
+    narrative. The single comparison claim rests only on the passage's own broad remark.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unsupported taxonomy identifiers were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l699-l752
+  passage_sha256=934a61c3d044ea11ba4143333754424bba9edcf3ed15e988409d0c1df354f62b
+

@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l10762-l10771
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION LXVIII / SECTION LXIX / SECTION LXX / SECTION LXXI; lines 10762-10771
+  start: '10762'
+  end: '10771'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that meeting with a good person can rescue someone from
+    hell, contrasts the merit produced by gifts with the demerit caused by spoliation,
+    urges avoidance of injury to kine, and has Yudhishthira ask for more detail about
+    the merits of gifting kine.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person is described as having been rescued from hell through meeting with
+    one who is good.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that a gift produces merit, while an act of spoliation
+    leads to demerit.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker instructs Yudhishthira to avoid doing injury to kine.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Yudhishthira asks the addressed teacher to explain in greater detail the merits
+    attainable by making gifts of kine.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Yudhishthira says he is never satiated with the addressed speaker's words.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named addressee in the prior instruction and speaker who asks for further
+    discourse on gifts of kine.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: unnamed teacher addressed as sinless one and mighty-armed one
+  description: The figure addressed by Yudhishthira and asked to discourse further
+    on the merits of gifting kine.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: one that is good
+  description: A good person whose meeting is said to rescue someone from hell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioner and recipient of instruction
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira is addressed with a moral instruction and then asks for more
+    detail about gifts of kine.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: moral instructor
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira asks this addressed figure to discourse further on the merits
+    of gifting kine.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: beneficial good person
+  assigned_to:
+  - fig:3
+  basis: Meeting this good person is said to rescue someone from hell.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: kine
+  literal_form: kine, as recipients of non-injury and objects involved in meritorious
+    gifts
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: hell
+  literal_form: hell, as the condition from which someone is rescued
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: gift
+  literal_form: gift, especially gifts of kine
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Instruction on gifts, demerit, and non-injury to kine
+  summary: An unnamed speaker tells Yudhishthira that gifts produce merit, spoliation
+    produces demerit, and injury to kine should be avoided.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Yudhishthira asks for further discourse
+  summary: Yudhishthira asks the addressed teacher to explain more fully the merits
+    attainable through gifts of kine and praises the teacher's words.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Rescue from hell through meeting a good person
+  summary: The passage refers to someone being rescued from hell through meeting a
+    good person.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Meritorious sacred gift
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage explicitly states that a gift produces merit and asks about the
+    merits obtained by gifts of kine.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage frames gift-giving as meritorious but does not describe a
+    ritual exchange in detail.
+- id: motif:2
+  label: Moral consequence of giving versus spoliation
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage contrasts merit from gifts with demerit from spoliation and links
+    moral action with hell-rescue context.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The text mentions merit, demerit, and hell, but does not narrate a formal
+    judgment scene.
+- id: motif:3
+  label: Non-injury to sacred cattle
+  taxonomy_refs: []
+  basis: The instruction specifically says to avoid injury to kine and connects kine
+    with meritorious gift-giving.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly names cattle or non-injury.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10762-10763
+  quote_or_summary: '"was rescued from hell through meeting with one that is good."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 10763-10764
+  quote_or_summary: '"As a gift is productive of merit even so an act of spoliation
+    leads to demerit."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 10764-10765
+  quote_or_summary: '"one should avoid doing any injury to kine."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 10769-10771
+  quote_or_summary: Yudhishthira asks for discourse "upon the merits that are attainable
+    by making gifts of kine."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: line 10771
+  quote_or_summary: '"I am never satiated with thy words!"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the short supplied passage. Motif candidates
+    are limited because the passage is mostly transitional and doctrinal rather than
+    a full narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l10762-l10771
+  passage_sha256=9b1d5b3bc09155c4930c70fc6d8ea4025774165b2e5aea597d9cbe225ba16e3b
+

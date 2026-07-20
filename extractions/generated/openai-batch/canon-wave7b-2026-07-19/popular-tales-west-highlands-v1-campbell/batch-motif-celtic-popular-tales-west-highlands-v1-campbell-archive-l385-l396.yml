@@ -1,0 +1,194 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l385-l396
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: INTRODUCTION. / THE FAIRY EGG, AND WHAT CAME OUT OF IT. / INTRODUCTION. V
+    / INTRODUCTION.; lines 385-396
+  start: '385'
+  end: '396'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage uses the drift of flotsam and jetsam to western shores as an
+    analogy for cultural traces left by a supposed westward human migration. It proposes
+    that if Asian plains sent migrants both eastward and westward, the tales and languages
+    of the far East and far West should resemble each other and older source forms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Flotsam and jetsam from American rivers and the Gulf Stream are described
+    as drifting northward and eastward and resting on a western shore.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Traces of a supposed westward-flowing human stream are expected to be found
+    in greatest abundance at the western sea.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states a conditional hypothesis that migrations from the plains
+    of Asia went both eastward and westward.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Under that hypothesis, tales and languages of the far East and far West should
+    most resemble each other and should resemble older forms of the myths and languages
+    from which they sprang.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: migratory hordes / great human stream
+  description: A collective human migration is described metaphorically as a great
+    human stream and conditionally as migratory hordes from the plains of Asia moving
+    eastward and westward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: migrating collective
+  assigned_to:
+  - fig:1
+  basis: The passage speaks of a supposed human stream flowing westward and of migratory
+    hordes from Asia moving eastward and westward.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: flotsam and jetsam
+  literal_form: Drifting flotsam and jetsam from American rivers and the Gulf Stream
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: human stream
+  literal_form: The great human stream supposed to have flowed westwards
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: western sea and shore
+  literal_form: A western shore and the western sea where drift or traces are said
+    to be stranded
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Natural drift analogy
+  summary: The passage describes waterborne debris drifting northward and eastward
+    and coming to rest on a western shore.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Migration and cultural resemblance hypothesis
+  summary: The passage applies the drift analogy to a supposed human migration and
+    proposes that far eastern and far western tales and languages would resemble each
+    other and older source forms.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: cultural traces stranded at a western edge
+  taxonomy_refs: []
+  basis: The passage likens accumulated traces of a westward human stream to flotsam
+    and jetsam stranded on a western shore.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an introductory comparative analogy, not a narrated mythic episode;
+    no supplied taxonomy motif directly matches it.
+- id: motif:2
+  label: east-west resemblance from common migratory source
+  taxonomy_refs: []
+  basis: The passage conditionally proposes that migrations from Asia in both directions
+    would make far eastern and far western tales and languages resemble each other
+    and older source forms.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The claim is hypothetical and does not provide specific tale examples
+    in this passage.
+comparison_claims:
+- id: claim:1
+  claim: Under the stated migration hypothesis, tales and languages of the far East
+    and far West should show especially strong resemblance to each other and to older
+    source forms.
+  claim_level: common_inheritance
+  target: tales and languages of the far East and far West
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states a conditional model only; it gives no specific parallel
+    tales, languages, or historical evidence in this line range.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 385-389
+  quote_or_summary: Flotsam and jetsam from American rivers and the Gulf Stream drift
+    northward and eastward and find a resting place on a western shore.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 389-392
+  quote_or_summary: The traces of a supposed westward-flowing human stream should
+    be found most abundantly stranded at the western sea.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 392-396
+  quote_or_summary: If the plains of Asia sent migratory groups eastward as well as
+    westward, the tales and languages of the far East and West should most resemble
+    each other and older forms from which they sprang.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear as a comparative-historical argument, but it is not
+    itself a myth narrative; motif labels are therefore treated as tentative patterns
+    rather than established tale motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No named mythic figures or specific tale episodes occur in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l385-l396
+  passage_sha256=478fc89426dc65bc7301fdda0bd15e0c3304f54aefc90d9028e50da112649c05
+

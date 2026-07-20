@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l10751-l10776
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: LEECHCRAFT / A BAMBALA DOCTOR. / VOL. I T / A DOCTOR'S OUTFIT.; lines 10751-10776
+  start: '10751'
+  end: '10776'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"It is enough to show with what suspicion a doctor is to be regarded when
+    he professes to let a stranger into his secrets."'
+  summary: The passage describes an ethnographic attempt to verify a doctor's list
+    of medicinal drugs. The doctor names and describes many drugs, appears to accept
+    an invented name as genuine, but later correctly identifies many numbered drugs
+    and their uses, leading the authors to suspect partial deception connected with
+    professional secrecy.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The authors state that they do not guarantee the absolute accuracy of the
+    doctor's drug list and present it as illustrative of ideas.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The doctor brought about fifty drugs to the authors, who then asked for additional
+    drugs whose names they already knew.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The doctor counted names off on his fingers and, after hesitation, asked the
+    authors to read over the list.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the authors invented the name "Mukombo," the doctor affirmed it as a
+    drug name and said it cured lukombo, glossed as umbilical hernia.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After being told the name had been invented and accused of cheating, the doctor
+    continued to maintain that the drug was Mukombo.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In a later test, the authors selected numbered drugs from the heap and asked
+    their names again; the doctor was able to give names and uses matching what had
+    previously been recorded.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The authors infer that the doctor probably deceived them only at the end and
+    conclude that a doctor should be regarded with suspicion when professing to reveal
+    secrets to a stranger.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the doctor
+  description: A doctor who supplied and named drugs and described their uses to the
+    authors.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the authors
+  description: Observers who collected drug names, tested the doctor's identifications,
+    and judged the reliability of his answers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: medical specialist
+  assigned_to:
+  - fig:1
+  basis: The passage calls him a doctor and lists drugs used by him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: keeper of professional secrets
+  assigned_to:
+  - fig:1
+  basis: The conclusion refers to a doctor professing to let a stranger into his secrets.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: questioning observers
+  assigned_to:
+  - fig:2
+  basis: The authors ask for drug names, invent a test name, accuse the doctor of
+    cheating, and retest numbered drugs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: drugs
+  literal_form: A heap/list of drugs used by the doctor, with names and medicinal
+    uses.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: invented drug name
+  literal_form: The made-up name "Mukombo," accepted by the doctor as a cure for lukombo.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: numbered drug list
+  literal_form: Drugs carefully numbered according to the authors' list and used for
+    retesting names and uses.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Collection of the doctor's drugs
+  summary: The doctor brings about fifty drugs, and the authors ask him for additional
+    known drug names while noting his responses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Test with invented name
+  summary: The authors invent the drug name Mukombo; the doctor accepts the name and
+    gives a curative use, then maintains the claim after being accused of cheating.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Retesting numbered drugs
+  summary: After several days, the authors test the doctor with numbered drugs from
+    the heap, and he correctly repeats names and uses previously recorded.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Judgment about secrecy and suspicion
+  summary: The authors conclude that the doctor probably deceived them only at the
+    end and use this to warn that doctors should be treated with suspicion when claiming
+    to reveal secrets to strangers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: specialist's secret knowledge withheld from outsiders
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage frames the doctor's medical knowledge as 'secrets' and concludes
+    that a doctor claiming to reveal them to a stranger should be treated with suspicion.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is ethnographic commentary rather than a mythic narrative;
+    the taxonomy link to forbidden knowledge is approximate because the text says
+    'secrets' but does not state that the knowledge is ritually forbidden.
+- id: motif:2
+  label: deceptive or guarded informant under testing
+  taxonomy_refs: []
+  basis: The doctor appears to accept an invented name, is accused of cheating, but
+    also later demonstrates accurate recall of many drug names and uses.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a narrative pattern in fieldwork reporting, not a formal mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10751-10754
+  quote_or_summary: The passage begins with a list of drugs used by the doctor and
+    states that the list's absolute accuracy is not guaranteed but is given to illustrate
+    ideas.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 10754-10760
+  quote_or_summary: The doctor brought about fifty drugs; the authors asked for others
+    they already knew, noted names, and he counted them off on his fingers before
+    hesitating and asking them to read the list.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: quote
+  locator: 10760-10767
+  quote_or_summary: The authors invented "Mukombo" as a test; the doctor replied that
+    this was the name and that it cured lukombo, then maintained the claim after being
+    accused of cheating.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short quoted term from public domain passage.
+- id: ev:4
+  type: summary
+  locator: 10767-10772
+  quote_or_summary: The authors retested the doctor with numbered drugs after some
+    days; he gave the names and uses as previously written down, suggesting he had
+    not invented all the names.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: quote
+  locator: 10772-10776
+  quote_or_summary: '"Probably, therefore, it was only at the end that he had deceived
+    us"; the passage concludes that suspicion is warranted when a doctor professes
+    to let a stranger into his secrets.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt from public domain passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is direct. Motif candidates are limited because the
+    passage is ethnographic fieldwork commentary, not a mythic tale, and it supplies
+    no explicit cross-cultural comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another tradition or motif family beyond the tentative local pattern of guarded specialist knowledge.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l10751-l10776
+  passage_sha256=a0c9f7a2466fccd5d75c7d4bd7cdbe2068b70ce0d4f775d89ea642f952d34a62
+

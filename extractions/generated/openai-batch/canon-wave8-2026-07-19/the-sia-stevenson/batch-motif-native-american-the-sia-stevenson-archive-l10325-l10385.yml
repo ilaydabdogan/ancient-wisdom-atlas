@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l10325-l10385
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: AUULETS. / OUTDOOR LIFE. / OUTDOOR LIFE. 203 / TURKEB.1 OUTDOOR LIFE. 205;
+    lines 10325-10385
+  start: '10325'
+  end: '10385'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a family expedition by umiak, shore foraging and
+    hunting, camp life, the processing of birds, seals, and reindeer skins, and the
+    preparation of winter clothing using hides, sinew thread, needles, thimbles, and
+    knives.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The entire family accompanies the expeditions, and women often row the umiak
+    while the party travels and stops along shore.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The traveling party becomes animated when an object such as a half-fledged
+    bird appears and pursues it until captured.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At camp, men seek larger game while women and children search the shore for
+    living creatures.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the party sometimes kills more animals than needed and leaves
+    the remainder to putrefy on rocks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Women skin seals and birds obtained on the trip; bird skins are turned inside
+    out, cleaned of grease, dried, and preserved for footwear or for cleansing hands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: During the reindeer-skin hunting season, women prepare flesh and bring wood
+    and water, while men watch for deer herds on land or crossing water.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Reindeer skins are dried over poles, rolled, stored, returned to the permanent
+    winter camp, and selected for winter garments.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Skins are moistened, scraped, wetted with urine for pliability, dried, worked,
+    and cut into apparel shapes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: Sewing uses sinew thread, metal or bone needles, and a sealskin thimble; the
+    passage notes that metal needles have largely superseded bone needles.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: Women are described as highly dexterous with knives when cutting and trimming
+    skins.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: family expedition party
+  description: The group that accompanies the expeditions by umiak and camps along
+    the route.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: women
+  description: Women row the umiak, search shore with children, skin seals and birds,
+    prepare flesh, carry wood and water, dry and store skins, and cut or sew garments.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: men
+  description: Men go in quest of larger game and watch for reindeer herds on land
+    or crossing water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: children
+  description: Children remain with women at camp and search the shore for living
+    creatures.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: animals and game
+  description: Half-fledged birds, seals, birds, reindeer, and other living creatures
+    are pursued, killed, skinned, or processed for food, skins, and clothing materials.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: expedition participants
+  assigned_to:
+  - fig:1
+  basis: The passage states that the entire family accompanies the expeditions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shore foragers
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Women and children search the shore for living creatures while men seek larger
+    game.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: larger-game hunters
+  assigned_to:
+  - fig:3
+  basis: Men go in quest of larger game and watch for herds of deer.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: hide and skin processors
+  assigned_to:
+  - fig:2
+  basis: Women skin seals and birds, dry hides, and process skins for later use.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: garment makers and cutters
+  assigned_to:
+  - fig:2
+  basis: Women prepare skins for winter garments and are described as dexterous with
+    knives in cutting and trimming skins.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:6
+  label: prey and clothing material source
+  assigned_to:
+  - fig:5
+  basis: Birds, seals, and reindeer are captured or killed, and their skins are preserved
+    for footwear, cleaning, or winter garments.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: umiak
+  literal_form: skin boat used for expedition travel
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: animal skins and hides
+  literal_form: skins of birds, seals, and reindeer used for footwear, cleaning, and
+    winter garments
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: knife
+  literal_form: knife used to remove fleshy particles, cut skins, and trim strips
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: sinew thread and needles
+  literal_form: sinew strips, metal needles, and occasional bone needles used in sewing
+    garments
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: water
+  literal_form: water crossed by deer, carried for camp, and used to moisten skins
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: winter camp
+  literal_form: permanent camp to which the party returns for winter and where suitable
+    skins are selected for garments
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: expedition travel by umiak
+  summary: The family travels by umiak, with women rowing and the party periodically
+    stopping on shore and pursuing objects such as young birds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: camp hunting and shore foraging
+  summary: At camp, men seek larger game, while women and children search the shore;
+    the passage describes heavy killing and unused surplus.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: bird and seal skinning
+  summary: Women remove and preserve skins from seals and birds, using a method in
+    which bird skins are worked through incisions at the wings, cleaned, dried, and
+    kept for use.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: reindeer-skin season and winter preparation
+  summary: During reindeer hunting season, men watch for herds and women handle camp
+    tasks and skin preservation; skins are stored and later selected at the permanent
+    winter camp for garments.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: hide preparation and sewing tools
+  summary: Skins are wetted, scraped, treated for pliability, dried, cut, and sewn
+    with sinew thread, needles, thimbles, and knives.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seasonal hunting and winter clothing preparation
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly links the arrival of the reindeer-hunting season with
+    the collection, drying, storage, return to winter camp, and selection of skins
+    for winter garments.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic subsistence and craft pattern, not a mythic narrative
+    motif in the passage itself.
+- id: motif:2
+  label: gendered division of labor in expedition subsistence
+  taxonomy_refs: []
+  basis: The passage repeatedly distinguishes women’s rowing, foraging, skinning,
+    carrying, and garment work from men’s pursuit of larger game and watching for
+    deer herds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: This is a social-practice pattern rather than a named comparative mythology
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10325-10334
+  quote_or_summary: The entire family accompanies expeditions; women row the umiak,
+    the party stops along shore, and they pursue and capture objects such as half-fledged
+    birds.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 10334-10344
+  quote_or_summary: At camp, men seek larger game; women and children search the shore
+    for living creatures; the passage says surplus killed animals may be left to putrefy
+    on rocks.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 10345-10356
+  quote_or_summary: Women skin seals and birds; bird skins are worked through wing
+    incisions, turned inside out, cleaned of grease by scraping and chewing, dried,
+    and saved for footwear or cleaning hands.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 10357-10368
+  quote_or_summary: When reindeer are hunted for winter clothing skins, women prepare
+    flesh and bring wood and water; men watch for herds; women dry, roll, and store
+    skins before the return to the permanent winter camp.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 10369-10376
+  quote_or_summary: Skins are moistened with water, cleaned of fleshy particles with
+    a knife, scraped, wetted with urine to make them pliable, and dried with the hair
+    left on.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 10376-10382
+  quote_or_summary: Prepared skins are cut for apparel; sinew strips serve as thread;
+    metal needles from traders and occasional bone needles are used, with metal replacing
+    bone in most cases.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 10382-10385
+  quote_or_summary: A stiff sealskin ring serves as a thimble; needles point toward
+    the operator; knives are used for furred skins, scissors for store textiles, and
+    women are described as skillful with knives.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward but the supplied passage appears
+    to contain OCR noise and headings, and its content seems inconsistent with the
+    stated source title and Southwest tradition metadata. Motif candidates are limited
+    to practical seasonal and social patterns visible in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No cross-tradition comparison claims were made because the passage itself provides no comparative claim or nearby-corpus linkage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l10325-l10385
+  passage_sha256=6c7bd8b59cf43c5a9e55ae4cc7211c288d2a17dad251fc14dc44253c93ece97e
+

@@ -1,0 +1,214 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l12928-l12938
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION LXXXIII / SECTION LXXXIV / SECTION LXXXV / SECTION LXXXVI; lines
+    12928-12938
+  start: '12928'
+  end: '12938'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Do thou tell me now how Taraka met with destruction.
+  summary: Yudhishthira addresses his grandsire, recalls prior discourse on the gift
+    and origin of gold, and asks to hear in detail how Taraka, an Asura said to have
+    become unslayable by the gods, was destroyed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira addresses a grandsire and says the grandsire has already discoursed
+    on the merits of giving gold and narrated the origin of gold.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira asks how Taraka met with destruction.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Taraka is identified as an Asura who had become unslayable by the gods.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Yudhishthira asks for the details of Taraka's slaughter and says his curiosity
+    is great.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: The speaker who questions his grandsire about Taraka's destruction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: grandsire / king / perpetuator of Kuru's race
+  description: The addressee whom Yudhishthira says previously discoursed on gold
+    and from whom he requests the details of Taraka's slaughter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Taraka
+  description: An Asura whose destruction and slaughter Yudhishthira asks to hear
+    about; said to have become unslayable by the gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: the gods
+  description: A divine collective in relation to whom Taraka is said to have become
+    unslayable.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioner seeking narrative details
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira repeatedly asks to be told how Taraka was destroyed and slaughtered.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: elder instructor and addressee
+  assigned_to:
+  - fig:2
+  basis: The addressee is called grandsire and is credited with prior discourse and
+    narration.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Asura subject of destruction narrative
+  assigned_to:
+  - fig:3
+  basis: Taraka is called an Asura, described as unslayable by the gods, and made
+    the subject of a requested slaughter narrative.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: divine collective unable to slay the Asura
+  assigned_to:
+  - fig:4
+  basis: Taraka is said to have become unslayable by the gods.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: gold
+  literal_form: gold
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Yudhishthira requests the account of Taraka's destruction
+  summary: In a dialogue setting, Yudhishthira recalls the grandsire's prior teaching
+    on gold and asks to hear the detailed narrative of how the Asura Taraka, said
+    to be unslayable by the gods, was destroyed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: seeking mythic knowledge from an elder instructor
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira asks his grandsire to explain a mythic event in detail and frames
+    the request as a desire to hear the narrative.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage contains the request for knowledge, not the ensuing explanation.
+- id: motif:2
+  label: destruction of an otherwise unslayable Asura
+  taxonomy_refs: []
+  basis: Taraka is described as an Asura who had become unslayable by the gods, yet
+    Yudhishthira asks how his destruction and slaughter occurred.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not narrate the actual means or agent of destruction;
+    it only introduces the requested narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12928-12938
+  quote_or_summary: Yudhishthira says the grandsire has discoursed on the merits of
+    the gift of gold and narrated the origin of gold.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 12928-12938
+  quote_or_summary: '"Do thou tell me now how Taraka met with destruction."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 12928-12938
+  quote_or_summary: Yudhishthira says that the Asura had become unslayable by the
+    gods.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: lines 12928-12938
+  quote_or_summary: Yudhishthira asks for the details of Taraka's slaughter and says
+    his curiosity to hear the narrative is great.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The speaker, addressee labels, Taraka, and gods are explicit in the supplied
+    passage. Motif extraction is limited because the passage is a request for a narrative
+    rather than the narrative itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l12928-l12938
+  passage_sha256=f7470ee3925d821c911b7eb4ca146d7ffd7b985b6792956d3722b5fd56cf7651
+

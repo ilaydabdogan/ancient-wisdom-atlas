@@ -1,0 +1,184 @@
+---
+record_id: batch.motif.hindu-minor-upanishads-narayanasvami-aiyar-archive-l65-l117
+source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+passage_locator:
+  label: THIRTY / MINOR   UPANISHADS / TRAHSLATEP  ET / WHO    BY    TREADING    THE    PATH;
+    lines 65-117
+  start: '65'
+  end: '117'
+  translation: Thirty Minor Upanishads
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is title-page and dedication material for Thirty Minor Upanishads,
+    naming K. Narayanasvami Aiyar as translator. It dedicates the work to the Rshis
+    of India, described as having followed the path of the Upanishads, perfected themselves,
+    and realized the goal. The work is presented as an effort to spread ancient teachings
+    in a modern form.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The work is identified as Thirty Minor Upanishads and as translated by K.
+    Narayanasvami Aiyar.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dedication is addressed to the Rshis of India.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Rshis are described as having trodden the path of the Upanishads, perfected
+    themselves, and realized the goal.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The effort is described as spreading ancient teachings in a modern garb.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: K. Narayanasvami Aiyar
+  description: Named as translator of Thirty Minor Upanishads.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rshis of India
+  description: Dedication recipients who are said to have followed the path of the
+    Upanishads, perfected themselves, and realized the goal.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: translator
+  assigned_to:
+  - fig:1
+  basis: The passage states that the work was translated by K. Narayanasvami Aiyar.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dedication recipients
+  assigned_to:
+  - fig:2
+  basis: The passage dedicates the effort to the Rshis of India.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: realized sages
+  assigned_to:
+  - fig:2
+  basis: The Rshis are described as having perfected themselves and realized the goal
+    by following the path of the Upanishads.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: path of the Upanishads
+  literal_form: path
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ancient teachings in a modern garb
+  literal_form: garb
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dedication to the Rshis
+  summary: The front matter dedicates the work to the Rshis of India and characterizes
+    them as perfected figures who realized the goal through the Upanishadic path.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Presentation of the translator’s effort
+  summary: The work is framed as a humble effort to spread ancient teachings in modern
+    form.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: spiritual path to realized wisdom
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  basis: The passage describes the Rshis as treading the path of the Upanishads, perfecting
+    themselves, and realizing the goal.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is dedicatory front matter rather than a mythic narrative; the motif
+    is inferred from devotional-philosophical phrasing.
+- id: motif:2
+  label: transmission of ancient wisdom in renewed form
+  taxonomy_refs:
+  - wisdom
+  basis: The work is described as an effort to spread ancient teachings in a modern
+    garb.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames textual transmission, not a narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 65-89
+  quote_or_summary: '"THIRTY MINOR UPANISHADS"; "TRANSLATED BY K. NARAYANASVAMI AIYAR"'
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 100-110
+  quote_or_summary: '"TO THE RSHIS OF INDIA WHO BY TREADING THE PATH OF THE UPANISHADS
+    HAVE PERFECTED THEMSELVES AND REALISED THE GOAL"'
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 112-117
+  quote_or_summary: '"THIS HUMBLE EFFORT To SPREAD THEIE ANCIENT TEACHINGS IN A MODERN
+    GARB IS DEDICATED"'
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as bibliographic and dedicatory material. Motif identification
+    is limited because no narrative mythic episode occurs in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR spellings such as "RSHIS," "THEIE," and title-page irregularities were treated as given in the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-minor-upanishads-narayanasvami-aiyar-archive__l65-l117
+  passage_sha256=5eb377b76f280063a069951f804f9b207f3c9ad63f97d2b8ed2a71491b7f51af
+

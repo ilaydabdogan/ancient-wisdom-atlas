@@ -1,0 +1,115 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l5264-l5266
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. LX / CHAP. LXI / CHAP. LXII / CHAP. LXIII; lines 5264-5266
+  start: '5264'
+  end: '5266'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: The Description of his Enemies brought to Helgi
+  summary: The passage is a chapter heading stating that a description of Helgi's
+    enemies is brought to him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as Chapter LXIII.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A description of Helgi's enemies is said to be brought to Helgi.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Helgi is named as the recipient of the description.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The enemies are mentioned but not named in the passage.
+  category: attribute
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Helgi
+  description: Named person to whom the description of enemies is brought.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Helgi's enemies
+  description: Unspecified enemies described in the chapter heading.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: recipient of report
+  assigned_to:
+  - fig:1
+  basis: The description is brought to Helgi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: unnamed adversaries
+  assigned_to:
+  - fig:2
+  basis: The heading refers to Helgi's enemies without naming them.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Description of enemies brought to Helgi
+  summary: A chapter heading announces that information describing Helgi's enemies
+    is brought to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: report describing enemies delivered to a named figure
+  taxonomy_refs: []
+  basis: The heading states that a description of enemies is brought to Helgi.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is only a chapter heading and gives no narrative details about
+    the messenger, content, setting, or outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5264-5266
+  quote_or_summary: CHAP. LXIII — The Description of his Enemies brought to Helgi
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The extraction is limited because the supplied passage contains only a chapter
+    heading.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or symbol reference is assigned because the heading does not support one directly.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l5264-l5266
+  passage_sha256=09712b883ad67436aa07080e2c53c2c53513fd47672d5d1f9ecf052d2329ca1c
+

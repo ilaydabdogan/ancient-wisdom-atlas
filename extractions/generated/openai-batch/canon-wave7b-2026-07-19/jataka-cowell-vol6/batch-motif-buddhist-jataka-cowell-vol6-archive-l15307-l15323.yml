@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol6-archive-l15307-l15323
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+passage_locator:
+  label: J.  VI.  13 / J.  VI.  10 / J.  VI.  16 / VESSANTARA-JATAKA.; lines 15307-15323
+  start: '15307'
+  end: '15323'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. VI
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“In our fair home, you will forget that ever you were king.”"
+  summary: Repeated stanzas say that seeing and hearing the addressee’s boys playing,
+    prattling, dancing, and bringing flowers at home will make the addressee forget
+    that he was once king.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a repeated second-person address to an unnamed addressee.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The repeated refrain says that in “our fair home” the addressee will forget
+    that he was king.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The addressee’s boys are described as pretty, gay-bedecked, playing, prattling,
+    and dancing.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The boys are described as bringing flowers or wreaths of flowers.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: An editorial note states that the last two stanzas are repeated, with a difference,
+    from an earlier verse reference.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: second-person addressee
+  description: The person addressed as “you,” associated with having been king and
+    with “your boys.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the addressee’s boys
+  description: The boys of the addressee, described as prattling, playing, dancing,
+    and bringing flowers or wreaths.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed speaker
+  description: An implied speaker addressing the addressee and referring to “our fair
+    home.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: former king or kingly addressee
+  assigned_to:
+  - fig:1
+  basis: The refrain says the addressee will forget that he was king.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: children or boys of the addressee
+  assigned_to:
+  - fig:2
+  basis: The boys are repeatedly called “your boys.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: speaker sharing the home
+  assigned_to:
+  - fig:3
+  basis: The utterance uses direct address and the phrase “our fair home.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: flowers and wreaths
+  literal_form: flowers; wreaths of flowers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: fair home
+  literal_form: "“our fair home”"
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: imagined boys at play in the home
+  summary: A speaker repeatedly imagines the addressee seeing or hearing his boys
+    at home, where their play, prattle, dancing, and flowers will make him forget
+    former kingship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: forgetting kingship through domestic joy
+  taxonomy_refs: []
+  basis: The refrain repeatedly states that seeing and hearing the boys in the shared
+    home will make the addressee forget that he was king.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this local pattern.
+- id: motif:2
+  label: children with flowers in a joyful home scene
+  taxonomy_refs: []
+  basis: The passage repeatedly presents the boys as playing, dancing, and bringing
+    flowers or wreaths in the home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this as speech or imagined anticipation rather than
+    a narrated completed event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15307-15308
+  quote_or_summary: "“When you shall see your pretty boys, and hear their prattle
+    ring / In our fair home, you will forget that ever you were king.”"
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 15310-15320
+  quote_or_summary: Subsequent stanzas repeat that seeing the addressee’s boys at
+    play, gay-bedecked, dancing, and bringing flowers in the fair home will make the
+    addressee forget having been king.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:3
+  type: quote
+  locator: lines 15319-15320
+  quote_or_summary: "“When you behold your dancing boys their wreaths of flowers bring
+    / In our fair home, you will forget that ever you were king.”"
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:4
+  type: note
+  locator: lines 15322-15323
+  quote_or_summary: The note says the last two stanzas are repeated, with a difference,
+    from an earlier verse reference.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal imagery and repeated refrain are clear. Motif labels are local
+    descriptive candidates only, with no direct supplied taxonomy match. No comparison
+    claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata; available taxonomy references were not applied because no listed symbol or motif family was directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol6-archive__l15307-l15323
+  passage_sha256=387ec151fe171600e3a037ca40e70ffa1781bb9d758123a48374500bd218d493
+

@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1555-l1571
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / MESSENGER. / LEADER. / PENTHEUS.; lines 1555-1571
+  start: '1555'
+  end: '1571'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The Leader, trembling before the king, declares Dionyse to be the truest
+    and highest god. Pentheus responds by calling the Bacchic women’s frenzy like
+    a smothered fire, says they mock his land, and orders armed men gathered at the
+    Electran Gate for war against them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Leader says he trembles and can scarcely speak his thought to a king,
+    but will not hide it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Leader declares that Dionyse is God and no god is more true or higher.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pentheus describes the frenzy of the Bacchic women as bursting nearby like
+    a smothered fire.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pentheus says his whole land has been made a mockery by the Bacchic women.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Pentheus orders a Captain to gather armed men at the Electran Gate.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Pentheus calls for riders, shield-bearers, and archers, and announces a march
+    to war.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Pentheus frames the issue as women daring deeds against him or his side.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Leader
+  description: Speaker who trembles before the king and declares Dionyse to be God.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Pentheus
+  description: Speaker who describes the Bacchic women’s frenzy, says his land is
+    mocked, and commands military mobilization.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Dionyse
+  description: Named by the Leader as God, with no god more true or higher.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Bacchic women
+  description: Women whose frenzy Pentheus compares to a smothered fire and whose
+    actions he says mock his land.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Captain
+  description: Person commanded by Pentheus to gather armed forces at the Electran
+    Gate.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Men-at-arms
+  description: Armed forces Pentheus orders to be gathered, including riders, shield-bearers,
+    and archers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: trembling truth-speaker before a king
+  assigned_to:
+  - fig:1
+  basis: The Leader says he trembles and will not hide his thought to a king’s face.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal military commander
+  assigned_to:
+  - fig:2
+  basis: Pentheus is addressed in context as the king and issues commands for armed
+    mobilization.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: declared high god
+  assigned_to:
+  - fig:3
+  basis: The Leader explicitly declares Dionyse to be God and no god higher.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: frenzied Bacchic opponents
+  assigned_to:
+  - fig:4
+  basis: Pentheus calls them Bacchic women in frenzy and prepares to march to war
+    over their deeds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: military subordinates
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The Captain is ordered to gather men-at-arms, and the armed men are summoned
+    for war.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: smothered fire
+  literal_form: A smothered fire used as an image for the nearby burst of Bacchic
+    frenzy.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Electran Gate
+  literal_form: The gate where Pentheus orders his armed men to gather.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: martial equipment
+  literal_form: Charger, orbèd targe, and bow named in the call to arms.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Leader declares Dionyse before the king
+  summary: The Leader, though trembling, says he will not conceal his thought and
+    declares Dionyse the highest and truest god.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pentheus orders war against the Bacchic women
+  summary: Pentheus describes Bacchic frenzy as a smothered fire, says his land is
+    mocked, and orders armed forces to gather at the Electran Gate for war.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: human ruler opposes a god’s ecstatic cult
+  taxonomy_refs: []
+  basis: The Leader affirms Dionyse as a supreme god, while Pentheus immediately frames
+    the Bacchic women’s frenzy as a threat requiring armed suppression.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt presents opposition and divine affirmation, but does not by
+    itself show the outcome or divine response.
+- id: motif:2
+  label: religious frenzy as dangerous spreading fire
+  taxonomy_refs: []
+  basis: Pentheus explicitly compares the nearby frenzy of Bacchic women to a smothered
+    fire bursting out.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The fire is a simile in the speech, not a literal fire event.
+- id: motif:3
+  label: militarized response to female ritual disorder
+  taxonomy_refs: []
+  basis: Pentheus identifies Bacchic women as the source of intolerable deeds and
+    commands riders, shield-bearers, and archers to gather for war.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives Pentheus’s characterization; it does not independently
+    describe the women’s actions in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1555-1560
+  quote_or_summary: 'The Leader says he trembles before the king but will not hide
+    his thought: “Dionyse is God, no God more true nor higher!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1561-1564
+  quote_or_summary: Pentheus says the frenzy of the Bacchic women “bursts hard by
+    us, like a smothered fire” and that all his land is made their mock.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1564-1571
+  quote_or_summary: Pentheus calls for an iron hand, commands the Captain to gather
+    men-at-arms at the Electran Gate, summons riders, shield-bearers, and archers,
+    announces war, and objects that women dare such deeds.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied lines. Motif candidates are based on
+    explicit speech and action in the excerpt; no cross-text comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage text and metadata; taxonomy reference applied only to the explicit fire image.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1555-l1571
+  passage_sha256=0c3ce3ccaacd2a239cd2d1fe1cd03f1210b91d15809e887a8b329284030948ed
+

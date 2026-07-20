@@ -1,0 +1,192 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l22162-l22181
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: APPENDIX    E / E  E   2 / APPENDIX   E  421 / APPENDIX    E  423; lines
+    22162-22181
+  start: '22162'
+  end: '22181'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Ododop numerical usage: their system is said to
+    be based chiefly on groups of three and four; they lack proper ordinals and instead
+    use phrases for ordered cows; numeral adverbs are formed with the word “ntimm.”'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ododop are described as having built their numerical system principally on
+    groups of three and four.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts Ododop numerical usage with that of neighbouring tribes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that there are no proper ordinals and gives phrase-based
+    ordinal examples using cows from first through fifth.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Numeral adverbs are formed with the word “ntimm,” with examples for once,
+    twice, and thrice.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ododop
+  description: Group whose numerical system and ordinal/adverbial expressions are
+    described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: neighbouring tribes
+  description: Groups mentioned only as a contrast to Ododop numerical usage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: described linguistic group
+  assigned_to:
+  - fig:1
+  basis: The passage presents Ododop numerical, ordinal, and numeral-adverb forms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: comparative reference group
+  assigned_to:
+  - fig:2
+  basis: The neighbouring tribes are mentioned to contrast with the Ododop numerical
+    system.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: groups of three and four
+  literal_form: numerical system principally on groups of three and four
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ordinal cow examples
+  literal_form: first through fifth cow expressed by descriptive phrases
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ntimm numeral-adverb marker
+  literal_form: ntimm used for once, twice, thrice, etc.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Description of Ododop numerical forms
+  summary: The passage gives an ethnographic-linguistic description of Ododop number
+    structure, ordinal phrasing, and numeral-adverb formation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Numerical grouping by three and four
+  taxonomy_refs: []
+  basis: The passage explicitly says the Ododop numerical system is principally built
+    on groups of three and four.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a linguistic or structural number pattern in an appendix, not
+    a narrative myth motif.
+- id: motif:2
+  label: Ordinal rank expressed through descriptive position phrase
+  taxonomy_refs: []
+  basis: The passage states that there are no proper ordinals and gives ordered cow
+    phrases, including a first cow described as the leader on the road.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The evidence supports a grammatical pattern; symbolic or mythic significance
+    is not stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that Ododop numerical structure differs from that of neighbouring
+    tribes by being built principally on groups of three and four.
+  claim_level: linguistic_similarity
+  target: neighbouring tribes’ numerical systems
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only a brief contrast and does not describe the
+    neighbouring tribes’ systems in detail.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22162-22165
+  quote_or_summary: "“Ododop, unlike neighbouring tribes, have built up their numerical
+    system principally on groups of three and four.”"
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 22166-22173
+  quote_or_summary: The passage says there are no proper ordinals and lists phrase
+    examples for the first through fifth cow.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 22174-22179
+  quote_or_summary: The passage says numeral adverbs are formed with “ntimm,” giving
+    examples for once, twice, and thrice.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The linguistic observations are explicit. Motif classification is tentative
+    because the passage is grammatical/ethnographic rather than myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned; the passage does not support mythic symbol or motif-family mapping beyond linguistic number-pattern observations.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l22162-l22181
+  passage_sha256=36534b194443a24c75f5afd42cdab112489474ba8bbfa422be5c2a4c043fc2cc
+

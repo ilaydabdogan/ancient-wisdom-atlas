@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l30662-l30712
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: XXIII WEAPONS AND IMPLEMENTS 663 / FIG. 221. SPEAK-THROWER, / DURING A CEREMONY.
+    / NORTHERN TRIBES. TRIBE. TRIBE.; lines 30662-30712
+  start: '30662'
+  end: '30712'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes northern Australian coastal boats: dug-out canoes
+    said to be obtained by exchange from Malays, and an indigenous Australian bark
+    boat made from sewn gum-tree bark strips. It notes the absence of outriggers,
+    gives dimensions and construction details, and includes a caption of a young man
+    making twine from bark shreds.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'Along the Gulf coast, Cape York, and westward toward Port Darwin, two distinct
+    kinds of superior boats are reported: dug-outs and boats built from sheets of
+    bark sewn together.'
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that no trace of an outrigger was met with.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dug-outs are described as not apparently indigenous to the Gulf country
+    and not made by the local natives.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Local natives are said to obtain dug-out canoes by exchange from Malays who
+    periodically come down the coast seeking tortoise-shell and trepang.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The dug-out canoes may be twenty or more feet long, three feet in beam, hollowed
+    from a single log, and have raised ends forming bow and stern.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dug-outs are propelled by simple single-bladed paddles.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The indigenous Australian bark boat described measures seventeen feet long,
+    slightly more than two feet in beam, has raised ends, and lacks a keel.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The bark for the indigenous boat is taken from a gum-tree species that peels
+    in long broad strips; the outer rough portion is scraped off before use.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The drawn bark boat is made from seven bark pieces sewn together to form the
+    bow, stern, sides, and lower joining lines.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A figure caption identifies a young man making twine from long shreds of bark.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Local Gulf coast natives
+  description: People described as obtaining dug-out canoes by exchange from Malays
+    rather than making them locally.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Malays
+  description: Visitors who periodically come down the coast in search of tortoise-shell
+    and trepang and from whom dug-out canoes are obtained by exchange.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Young man making bark twine
+  description: A young man shown in a figure caption making twine out of long shreds
+    of bark.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: canoe recipients through exchange
+  assigned_to:
+  - fig:1
+  basis: The passage says the natives secure dug-out canoes by exchange from Malays.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: coastal exchange partners
+  assigned_to:
+  - fig:2
+  basis: The Malays are said to come periodically down the coast for tortoise-shell
+    and trepang, and dug-outs are obtained from them by exchange.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: bark-twine maker
+  assigned_to:
+  - fig:3
+  basis: The caption describes the young man making twine from long shreds of bark.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: dug-out canoe
+  literal_form: A canoe hollowed out of a single log, with slightly raised ends forming
+    bow and stern.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: sewn bark boat
+  literal_form: An indigenous Australian boat made from multiple sheets of bark sewn
+    together.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: gum-tree bark strips
+  literal_form: Long broad bark strips from a gum-tree, scraped before use in boat
+    construction.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: single-bladed paddle
+  literal_form: A simple paddle with a single blade used to propel dug-outs.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: bark twine
+  literal_form: Twine made from long shreds of bark.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Northern coastal boat types
+  summary: 'The passage surveys two kinds of boats found on the Gulf coast, Cape York,
+    and west toward Port Darwin: dug-outs and sewn bark boats, with no outriggers
+    observed.'
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dug-out canoes obtained by exchange
+  summary: The passage reports that local natives obtain dug-out canoes from Malays
+    by exchange, especially in connection with tortoise-shell, while Malays come down
+    the coast seeking tortoise-shell and trepang.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Construction of the indigenous bark boat
+  summary: The indigenous boat is described as made from prepared gum-tree bark strips
+    sewn into a seventeen-foot vessel with raised ends and no keel.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Bark twine making
+  summary: A caption identifies a young man making twine from long shreds of bark.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: watercraft acquired through coastal exchange
+  taxonomy_refs: []
+  basis: The passage explicitly says dug-out canoes are obtained by exchange from
+    Malays who visit the coast for tortoise-shell and trepang.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a material-culture exchange pattern, not a mythic or sacred exchange
+    motif in the passage.
+- id: motif:2
+  label: indigenous bark boat assembled from sewn strips
+  taxonomy_refs: []
+  basis: The passage gives detailed construction of a bark boat from gum-tree bark
+    pieces sewn together into the vessel.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a technological pattern rather than a narrative motif.
+- id: motif:3
+  label: paired contrast between imported dug-out and indigenous bark boat
+  taxonomy_refs: []
+  basis: The passage distinguishes dug-outs, said not to be indigenous and obtained
+    from Malays, from the true indigenous Australian bark boat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The contrast is ethnographic and functional; no mythological interpretation
+    is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The passage attributes dug-out canoe availability in the Gulf country to
+    exchange with Malays, supporting a limited historical-contact claim at the level
+    of coastal material culture.
+  claim_level: historical_contact
+  target: Malay coastal visitors and Gulf coast Aboriginal canoe exchange
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based only on the passage’s ethnographic report and does
+    not establish mythic motif transmission, chronology, or wider distribution beyond
+    the described coast.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 30662-30670
+  quote_or_summary: 'Along the Gulf coast, Cape York, and westward toward Port Darwin,
+    two boat types are reported: dug-outs and bark-sheet boats sewn together; no outrigger
+    was found.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 30671-30680
+  quote_or_summary: Dug-outs are described as not apparently indigenous or locally
+    made; natives say they obtain them by exchange from Malays who periodically visit
+    for tortoise-shell and trepang.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 30681-30688
+  quote_or_summary: The dug-outs may be twenty or more feet long and three feet in
+    beam, are hollowed from a single log with raised bow and stern, and are propelled
+    by single-bladed paddles.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 30690-30699
+  quote_or_summary: The indigenous Australian boat is described as seventeen feet
+    long, slightly more than two feet in beam, with raised ends, no keel, and bark
+    taken from gum-trees in long strips after scraping.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 30700-30710
+  quote_or_summary: 'The drawn boat has seven bark pieces: narrow strips for the bow,
+    smaller pieces for the stern, and three main pieces sewn together along bow, stern,
+    keel area, and one side.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: quote
+  locator: '30712'
+  quote_or_summary: "“YOUNG MAN MAKING TWINE OUT OF LONG SHREDS OF BARK.”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short quotation from figure caption.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily ethnographic and technological rather than mythological;
+    motif candidates are therefore treated as material-culture patterns requiring
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No sacred or mythic taxonomy references were assigned because the passage does not present the exchange or boat construction as sacred or mythological.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l30662-l30712
+  passage_sha256=07d7c638ac9b4fbb66465a546fbf94a2cffda0b4c6fb6480a677c531c0c53464
+

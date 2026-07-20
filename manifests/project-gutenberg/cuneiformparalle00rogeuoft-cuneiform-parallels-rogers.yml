@@ -1,8 +1,8 @@
 ---
 manifest_version: '1'
 batch_id: auto-ingestion-queue
-created_date: '2026-07-17'
-updated_date: '2026-07-17'
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
 artifacts:
 - id: artifact.gutenberg_cuneiformparalle00rogeuoft
   work_id: mesopotamian.rogers.cuneiform_parallels_archive
@@ -20,14 +20,14 @@ artifacts:
     path: imports/converted/project-gutenberg/cuneiformparalle00rogeuoft-cuneiform-parallels-rogers.md
     checksum:
       algorithm: sha256
-      value: a2574e1ade1c28587579df6f2d348df2a23667cb9460c4fccf38782ddb687a9a
+      value: cdd39d4ecf2cde54791076a11789067ee576ce81dd78229ab82a93940df8cd30
     media_type: text/markdown
     notes: Intermediate Markdown draft after removing distributor packaging.
   canonical:
     path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
     checksum:
       algorithm: sha256
-      value: e629fdc2f15fc1f8cf247da54b15f45ba1455ab82e8419452321414dc487a597
+      value: 834576cbb81c3f25ff74acdca0803a4acef0240f9918115b06dab2b20cbe203e
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -60,7 +60,7 @@ artifacts:
   review:
     status: auto_promoted_from_rights_cleared_queue
     reviewer: Codex
-    review_date: '2026-07-17'
+    review_date: '2026-07-19'
     notes: Auto-promoted from a queue item whose rights fields explicitly allowed
       full-text and training use. Human spot review is still recommended.
   extraction:

@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.greek-modern-greek-folklore-lawson-gutenberg-l11798-l11894
+source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+passage_locator:
+  label: THE SURVIVAL OF PAGAN DEITIES. / GELLOUDES. / STRIGES. / FOOTNOTES:; lines
+    11798-11894
+  start: '11798'
+  end: '11894'
+  translation: 'Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses two Greek lines about lofty trees called precincts
+    of immortals and not cut by mortals. Lawson argues that the lines do not call
+    each tree the precinct of an immortal nymph; rather, groups of trees, each inhabited
+    by a nymph, may collectively form the precinct of an immortal god. A sanctuary
+    of Artemis surrounded by trees harboring attendant nymphs is given as an example.
+    A footnote adds that some districts hold a Nereid to be safer when seen first
+    than when seeing first, comparing this with an ancient belief about wolves.
+  language: English with Ancient Greek quotation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The quoted Greek lines state that lofty trees are called precincts of immortals
+    and are not cut by mortals with iron.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author says the lines should not be read as meaning that each tree is
+    the precinct of an immortal nymph.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author says that several trees, each inhabited by a nymph, can together
+    form the precinct of an immortal god.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author gives a sanctuary of Artemis as an example of a place surrounded
+    by trees, each harboring one of her attendant nymphs.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage mentions an objection based on nymphs being described as intermediate
+    between mortals and immortals, and the author rejects that objection as a misreading.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A footnote says the belief is not universal in Greece and that in some districts
+    a Nereid is safer when seen first than when seeing first.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: nymphs
+  description: Beings described in the discussion as intermediate between mortals
+    and immortals; individual nymphs may inhabit trees, and in the Artemis example
+    they are attendant nymphs.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Artemis
+  description: Named as the deity whose sanctuary might be surrounded by trees harboring
+    her attendant nymphs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Nereid
+  description: A being mentioned in a footnoted belief about whether it is safer for
+    her to be seen first or to see first.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: tree inhabitant
+  assigned_to:
+  - fig:1
+  basis: The author says each tree in the group is inhabited by a nymph.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sanctuary patron
+  assigned_to:
+  - fig:2
+  basis: Artemis is named as the deity whose sanctuary may be surrounded by nymph-inhabited
+    trees.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine attendant
+  assigned_to:
+  - fig:1
+  basis: The nymphs in the Artemis example are called her attendant nymphs.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: being in sight-contingent encounter belief
+  assigned_to:
+  - fig:3
+  basis: The footnote says a Nereid may be safer when seen first than when seeing
+    first.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacred trees
+  literal_form: Lofty trees; a group of trees each inhabited by a nymph and not cut
+    by mortals with iron.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: temenos or divine precinct
+  literal_form: The τέμενος, described as a precinct formed collectively by nymph-inhabited
+    trees for an immortal god.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: iron cutting implement
+  literal_form: Iron, named as the material with which mortals do not cut the trees.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: priority of sight
+  literal_form: Being seen first versus seeing first in an encounter involving a Nereid.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Nymph-inhabited trees forming a divine precinct
+  summary: The author interprets the lines as describing multiple trees, each with
+    a nymph, collectively forming the precinct of an immortal god.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Artemis sanctuary surrounded by attendant nymphs
+  summary: A sanctuary of Artemis is presented as an example where surrounding trees
+    each harbor one of her attendant nymphs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Regional Nereid sight-encounter belief
+  summary: A footnote reports that in some districts a Nereid is safer if she is seen
+    first rather than if she sees first.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: nymph-inhabited sacred trees
+  taxonomy_refs: []
+  basis: The passage states that individual trees may be inhabited by nymphs and may
+    stand together in a sacred precinct.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is an interpretive comment on quoted lines rather than a full
+    narrative episode.
+- id: motif:2
+  label: sacred grove as divine precinct
+  taxonomy_refs: []
+  basis: The author says a number of nymph-inhabited trees can form the temenos of
+    an immortal god, with Artemis given as an example.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state world-tree or axis symbolism; no available
+    motif-family taxonomy ref is assigned.
+- id: motif:3
+  label: protected trees not cut with iron
+  taxonomy_refs: []
+  basis: The quoted lines say mortals do not cut the trees with iron.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the non-cutting detail but not a narrative cause, sanction,
+    or ritual rule.
+- id: motif:4
+  label: sight precedence in Nereid encounter
+  taxonomy_refs: []
+  basis: A footnote says that in some districts a Nereid is safer when seen first
+    than when seeing first.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The note is brief, explicitly says the belief is not universal in Greece,
+    and refers to context outside this passage.
+comparison_claims:
+- id: claim:1
+  claim: The footnote explicitly compares a modern regional belief about a Nereid
+    being safer when seen first with an ancient belief about a wolf under the same
+    sight condition.
+  claim_level: same_function
+  target: ancient wolf sight-belief
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The comparison is only a one-sentence footnote in this passage; the
+    same evidence also limits the claim by saying the belief is not universal in Greece.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 11798-11799
+  quote_or_summary: "“τεμένη ... ἀθάνατων” and “οὔτι βροτοὶ κείρουσι σιδήρῳ”: the
+    lines describe trees as precincts of immortals and not cut by mortals with iron."
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 11801-11807
+  quote_or_summary: Lawson says the lines do not mean each tree is the temenos of
+    an immortal nymph, but that several trees, each inhabited by a nymph, can together
+    form the temenos of an immortal god.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11807-11809
+  quote_or_summary: Lawson gives the example of a sanctuary of Artemis surrounded
+    by trees, each harboring one of her attendant nymphs.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11815-11817
+  quote_or_summary: A footnote says the belief is not universal in Greece; in some
+    districts a Nereid now, like a wolf in ancient times, is safer seen first than
+    seeing first.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized with brief phrase.
+- id: ev:5
+  type: summary
+  locator: 11801-11804
+  quote_or_summary: The author notes an objection that the word for immortals conflicts
+    with nymphs’ intermediate position between mortals and immortals, and rejects
+    that objection as careless reading.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The central tree, nymph, and sanctuary pattern is explicit. Motif labels
+    are candidate-level because the passage is explanatory rather than narrative.
+    The Nereid comparison is explicit but very brief and context-limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Bibliographic footnotes without substantive motif content were not extracted.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-modern-greek-folklore-lawson-gutenberg__l11798-l11894
+  passage_sha256=77afbd65bc769e0884dcb50e12d0ecc9d37163569ebb70f389a9211cd81f6713
+

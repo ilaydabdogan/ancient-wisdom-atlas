@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.native-american-jicarilla-apache-texts-goddard-archive-l3552-l3583
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md
+passage_locator:
+  label: Jicarilla Apache Texts / TRANSLATIONS. / TALES. / TRADITIONS  AND  PERSONAL  EXPERIENCES.;
+    lines 3552-3583
+  start: '3552'
+  end: '3583'
+  translation: Jicarilla Apache Texts
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A first-person account describes repeated hunting trips by Jicarilla groups,
+    the killing of deer and antelope, drying and packing meat in parfleches, returning
+    to Ruidosa, and giving meat to Mescalero people who ask for it and line up at
+    the tent.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator's group traveled in another direction, killed two bucks, and
+    brought back a large amount of meat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group moved camp to the lakes, hunted in different directions, brought
+    back antelope and deer, dried much meat, packed it in parfleches, and later camped
+    at Rio Bonito.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Some Jicarilla were camped at Ruidosa with the Mescalero, and a hunting camp
+    was established near plains below a ridge where there were many deer.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hunters went in different directions, returned with meat including white-tailed
+    deer, killed many animals, dried the meat, placed it in parfleches, and returned
+    to Ruidosa.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Seven men rode south to Tsemtc’icI, where there were many elk tracks and many
+    deer; they killed many animals and brought the meat home.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When the hunters returned among the Mescalero, the Mescalero asked for meat,
+    formed a line to the tent, received meat, and stopped asking once the party reached
+    the tipi with the meat.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jicarilla hunting parties
+  description: The first-person narrator's group, the Jicarilla camped at Ruidosa,
+    and the seven men who travel on horseback to hunt and bring back meat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Mescalero at Ruidosa
+  description: Mescalero people camped with the Jicarilla at Ruidosa who ask for and
+    receive meat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Game animals
+  description: Bucks, antelope, deer, white-tailed deer, and animals associated with
+    elk tracks and deer signs in hunting areas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: hunters and provisioners
+  assigned_to:
+  - fig:1
+  basis: They travel to hunting areas, kill animals, dry and pack meat, and give meat
+    to the Mescalero.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: requesters and recipients of meat
+  assigned_to:
+  - fig:2
+  basis: They ask the returning hunters for meat, form a line to the tent, receive
+    meat, and stop asking after meat has been brought to the tipi.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: hunted game
+  assigned_to:
+  - fig:3
+  basis: The animals are described as deer, antelope, bucks, and white-tailed deer
+    that hunters kill or seek in hunting areas.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: meat
+  literal_form: A large amount of meat, dried meat, and meat requested and given at
+    camp.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: parfleches
+  literal_form: Containers in which dried meat is packed or placed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: line to the tent
+  literal_form: The Mescalero make a line all the way to the tent while asking for
+    meat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: water-place camps
+  literal_form: The lakes and Rio Bonito as camping locations during the hunting sequence.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Initial hunt, drying, and camp movement
+  summary: The narrator's group kills bucks, moves camp to the lakes, hunts in different
+    directions, dries meat, packs it in parfleches, and camps at Rio Bonito.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ruidosa hunting camp
+  summary: Jicarilla people camped with the Mescalero at Ruidosa establish a hunting
+    camp near plains with many deer, hunt deer and antelope, dry and pack meat, and
+    return to Ruidosa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Tsemtc’icI hunt and meat distribution
+  summary: Seven men ride south to Tsemtc’icI, find abundant tracks and deer, kill
+    many animals, return with meat, and give meat to Mescalero people who line up
+    and ask for it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: abundant hunt and preservation of meat
+  taxonomy_refs: []
+  basis: The passage repeatedly describes hunters killing many animals, drying much
+    meat, and packing the dried meat in parfleches.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a literal subsistence and travel account; no ritual or supernatural
+    meaning is stated.
+- id: motif:2
+  label: food request and redistribution at camp
+  taxonomy_refs: []
+  basis: The Mescalero ask the returning hunters for meat, form a line to the tent,
+    and are given meat.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage does not state that the exchange is sacred, ceremonial, or
+    mythic.
+- id: motif:3
+  label: outward hunting journey and return with provisions
+  taxonomy_refs: []
+  basis: The passage repeats a pattern of traveling out to hunting locations, bringing
+    back meat, and returning to camp or Ruidosa.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: Although the structure resembles a departure-and-return sequence, the
+    passage presents it as personal experience rather than a mythic journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3552-3557
+  quote_or_summary: The narrator says the group killed bucks, moved camp to the lakes,
+    hunted deer and antelope, dried much meat, packed it in parfleches, and camped
+    at Rio Bonito.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:2
+  type: quote
+  locator: 3558-3560
+  quote_or_summary: "“70. The Mescalero Beg for Me.at.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:3
+  type: summary
+  locator: 3562-3566
+  quote_or_summary: Some Jicarilla were camped at Ruidosa with the Mescalero; a group
+    established a hunting camp by plains below a ridge where there were many deer.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:4
+  type: summary
+  locator: 3567-3571
+  quote_or_summary: Hunters went in different directions, brought back meat including
+    white-tailed deer, killed many animals, dried the meat, put it in parfleches,
+    and returned to Ruidosa.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:5
+  type: summary
+  locator: 3572-3576
+  quote_or_summary: Seven men rode south to Tsemtc’icI, “rock nose,” found many elk
+    tracks and deer, killed many animals, and brought the meat home.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:6
+  type: summary
+  locator: 3576-3580
+  quote_or_summary: After the hunters came back among the Mescalero, the Mescalero
+    asked for meat, formed a line to the tent, were given meat, and ceased asking
+    after the party reached the tipi with the meat.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md
+  rights_note: Public domain source metadata; summary allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif candidates are limited to
+    repeated narrative patterns in the passage. No comparison claims were extracted
+    because the passage contains no comparative framing or explicit mythic parallel.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Trailing publication/page matter in the supplied lines was not treated as narrative content. The taxonomy reference to water is used only for literal water-place settings, not as evidence of symbolic interpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-jicarilla-apache-texts-goddard-archive__l3552-l3583
+  passage_sha256=4d954a86401c12913e7c130b5923e613cebc69436536df30217c3b15a6a22e20
+

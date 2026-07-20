@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.celtic-gods-and-fighting-men-gregory-gutenberg-l10296-l10304
+source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: CHAPTER XII. THE RED WOMAN / CHAPTER XIII. FINN AND THE PHANTOMS / CHAPTER
+    XIV. THE PIGS OF ANGUS / CHAPTER XV. THE HUNT OF SLIEVE CUILINN; lines 10296-10304
+  start: '10296'
+  end: '10304'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After Finn drinks everything in a vessel, the vessel falls into loosened
+    earth and disappears. A tree grows where it entered the earth; looking at its
+    branches in the morning while fasting gives knowledge of the day’s future events.
+    The passage explains Finn’s grey hair as caused by Miluchradh of the Sidhe’s jealousy
+    because Finn loved her sister Aine instead of her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Finn drank all that was in the vessel.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The vessel slipped from Finn’s hand into loosened earth and was no longer
+    seen by him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A tree grew at the place where the vessel entered the earth.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Anyone who looked at the tree’s branches in the morning while fasting would
+    know all that was to happen that day.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that Finn got his grey hair through the jealousy of Miluchradh
+    of the Sidhe.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Miluchradh’s jealousy is explained as arising because Finn loved Aine, Miluchradh’s
+    sister, rather than Miluchradh.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Finn
+  description: A figure who drinks the vessel’s contents and is said to have gained
+    grey hair through Miluchradh’s jealousy.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Miluchradh of the Sidhe
+  description: A Sidhe woman whose jealousy is said to be the cause of Finn’s grey
+    hair.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Aine
+  description: Miluchradh’s sister, whom Finn loved instead of Miluchradh.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: drinker of the vessel’s contents
+  assigned_to:
+  - fig:1
+  basis: Finn drinks all that is in the vessel.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of grey hair
+  assigned_to:
+  - fig:1
+  basis: The passage explains how Finn came by his grey hair.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: jealous Sidhe woman
+  assigned_to:
+  - fig:2
+  basis: Miluchradh of the Sidhe is named as jealous because Finn did not give his
+    love to her.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: beloved sister
+  assigned_to:
+  - fig:3
+  basis: Aine is identified as Miluchradh’s sister and the one Finn loved.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: disappearing vessel
+  literal_form: vessel that Finn empties and that slips into the earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: foreknowledge tree
+  literal_form: tree whose branches grant knowledge of that day’s events when viewed
+    fasting in the morning
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: loosened earth
+  literal_form: earth loosened with digging, into which the vessel disappears
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: grey hair
+  literal_form: Finn’s grey hair
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Vessel disappears and tree grows
+  summary: Finn empties a vessel; it slips into loosened earth and is lost from sight.
+    A tree then grows from the place where the vessel entered the earth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Tree grants knowledge of the day
+  summary: The tree’s branches provide knowledge of all that will happen that day
+    to a person who looks at them in the morning while fasting.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Jealousy explains Finn’s grey hair
+  summary: The passage gives an origin explanation for Finn’s grey hair, linking it
+    to Miluchradh’s jealousy over Finn’s love for Aine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Knowledge-giving tree
+  taxonomy_refs:
+  - wisdom
+  basis: A tree grows from the place where the vessel entered the earth, and its branches
+    give knowledge of the day’s future events under specified fasting and morning
+    conditions.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage supports a wisdom or foreknowledge motif, but does not describe
+    a broader cosmological tree or world-axis function.
+- id: motif:2
+  label: Object entering earth and producing a tree
+  taxonomy_refs: []
+  basis: The emptied vessel disappears into loosened earth, and a tree grows where
+    it entered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives the sequence but does not explicitly state causal mechanics
+    beyond the tree growing at the same spot.
+- id: motif:3
+  label: Jealous supernatural woman causes bodily change
+  taxonomy_refs: []
+  basis: Finn’s grey hair is attributed to the jealousy of Miluchradh of the Sidhe
+    after Finn loved Aine instead of her.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The immediate method by which the jealousy caused the grey hair is not
+    included in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10296-10298
+  quote_or_summary: "“when Finn had drunk all that was in the vessel it slipped from
+    his hand into the earth”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 10298-10301
+  quote_or_summary: "“a tree grew up,” and looking at its branches in the morning
+    while fasting gave “knowledge of all that was to happen on that day.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 10303-10304
+  quote_or_summary: 'The passage says this is how Finn got grey hair: through Miluchradh
+    of the Sidhe’s jealousy, because Finn loved her sister Aine instead of her.'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source; summarized from passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the excerpt is brief and does not include wider narrative context. No comparison
+    claims were made because the passage itself does not support an explicit comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to available refs directly supported by the text.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-gods-and-fighting-men-gregory-gutenberg__l10296-l10304
+  passage_sha256=c53b28c09e44734198a3aa6a2ba03d59a7cf631495c9e99caccc89d2261301f8
+

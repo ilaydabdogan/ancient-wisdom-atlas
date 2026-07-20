@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.buddhist-sutta-nipata-sbe10-fausboll-archive-l2633-l2726
+source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+passage_locator:
+  label: 'DHAMMAPADA. / DHAMMAPADA. / CHAPTERS: / THE TWIN-VERSES.; lines 2633-2726'
+  start: '2633'
+  end: '2726'
+  translation: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt opens the Dhammapada section headed “The Twin-Verses.” It presents
+    verses stating that what one is results from thought; speech or action from evil
+    thought is followed by pain, compared to a wheel following the foot of an ox drawing
+    a carriage; speech or action from pure thought is followed by happiness, compared
+    to a shadow that never leaves. A third verse says that people who harbor thoughts
+    of having been abused, beaten, defeated, or robbed will not cease from hatred.
+    Interleaved translator notes discuss the rendering of dharma and mind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as Dhammapada and “The Twin-Verses.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Verse 1 states that what one is results from thought and is founded on and
+    made up of thoughts.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Verse 1 states that when a man speaks or acts with evil thought, pain follows
+    him like a wheel following the foot of an ox drawing a carriage.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Verse 2 states that when a man speaks or acts with pure thought, happiness
+    follows him like a shadow that never leaves him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Verse 3 quotes the thoughts “He abused me, he beat me, he defeated me, he
+    robbed me” and says hatred will never cease in those who harbor such thoughts.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Translator notes say dharma is difficult to translate and discuss both moral
+    and technical interpretations of the first verse.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: generic man who speaks or acts
+  description: A generic man described as speaking or acting with either evil thought
+    or pure thought.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: those who harbor such thoughts
+  description: A group described as harboring thoughts of abuse, beating, defeat,
+    and robbery.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: ox drawing a carriage
+  description: An ox in the verse 1 simile, drawing a carriage while the wheel follows
+    its foot.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed remembered offender
+  description: The unnamed “he” in the grievance formula, described as having abused,
+    beaten, defeated, and robbed the speaker.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: agent acting from evil thought
+  assigned_to:
+  - fig:1
+  basis: The verse says that if a man speaks or acts with evil thought, pain follows
+    him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: agent acting from pure thought
+  assigned_to:
+  - fig:1
+  basis: The verse says that if a man speaks or acts with pure thought, happiness
+    follows him.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: harborer of grievance thoughts
+  assigned_to:
+  - fig:2
+  basis: The verse identifies those who harbor thoughts of abuse, beating, defeat,
+    and robbery as people in whom hatred will not cease.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: draught animal in simile
+  assigned_to:
+  - fig:3
+  basis: The ox draws the carriage in the simile of the wheel following its foot.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: object of grievance formula
+  assigned_to:
+  - fig:4
+  basis: The quoted thoughts refer to an unnamed “he” as the one who abused, beat,
+    defeated, and robbed.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wheel following the ox’s foot
+  literal_form: The wheel follows the foot of the ox that draws the carriage.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: shadow that never leaves
+  literal_form: A shadow that never leaves him.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: ox-drawn carriage image
+  literal_form: An ox draws a carriage whose wheel follows its foot.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Evil thought followed by pain
+  summary: A generic man speaks or acts with evil thought, and pain is said to follow
+    him like a carriage wheel following an ox’s foot.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Pure thought followed by happiness
+  summary: A generic man speaks or acts with pure thought, and happiness is said to
+    follow him like a shadow that never leaves.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Harbored grievance and unceasing hatred
+  summary: Those who hold thoughts that another person abused, beat, defeated, and
+    robbed them are described as unable to end hatred.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: thoughts shape being and consequence
+  taxonomy_refs:
+  - wisdom
+  basis: Verses 1 and 2 state that what one is results from thought and that speech
+    or action from evil or pure thought is followed by pain or happiness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is didactic rather than narrative
+    myth.
+- id: motif:2
+  label: moral duality of evil and pure thought
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The paired verses contrast evil thought leading to pain with pure thought
+    leading to happiness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The duality is moral and didactic; no personified opposing beings appear
+    in the passage.
+- id: motif:3
+  label: consequences that follow the actor
+  taxonomy_refs:
+  - wisdom
+  basis: Pain is compared to a wheel following an ox’s foot, and happiness is compared
+    to a shadow that never leaves.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an image of moral consequence rather than a developed journey
+    or fate narrative.
+- id: motif:4
+  label: harbored grievance perpetuates hatred
+  taxonomy_refs:
+  - wisdom
+  basis: Verse 3 says hatred will never cease in those who harbor thoughts that they
+    were abused, beaten, defeated, and robbed.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No external comparison is made in the passage; the motif is extracted
+    as a moral pattern only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2637-2643
+  quote_or_summary: "“DHAMMAPADA.” / “CHAPTERS:” / “THE TWIN-VERSES.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain according to supplied source metadata; short excerpt
+    used.
+- id: ev:2
+  type: quote
+  locator: lines 2645-2648
+  quote_or_summary: "“All that we are is the result of what we have thought... If
+    a man speaks or acts with an evil thought, pain follows him, as the wheel follows
+    the foot of the ox that draws the carriage.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain according to supplied source metadata; short excerpt
+    used.
+- id: ev:3
+  type: quote
+  locator: lines 2677-2681
+  quote_or_summary: "“If a man speaks or acts with a pure thought, happiness follows
+    him, like a shadow that never leaves him.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain according to supplied source metadata; short excerpt
+    used.
+- id: ev:4
+  type: quote
+  locator: lines 2683-2685
+  quote_or_summary: "“‘He abused me, he beat me, he defeated me, he robbed me,’—in
+    those who harbour such thoughts hatred will never cease.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain according to supplied source metadata; short excerpt
+    used.
+- id: ev:5
+  type: summary
+  locator: lines 2650-2706
+  quote_or_summary: Translator notes discuss the difficulty of translating dharma
+    and compare moral and technical interpretations of the first Dhammapada verse.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain according to supplied source metadata; summary generated
+    from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main verses are clear, but the passage includes OCR artifacts and interleaved
+    translator notes. Motif assignments use broad taxonomy categories and require
+    human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or cross-tradition comparison claims were extracted from this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-sutta-nipata-sbe10-fausboll-archive__l2633-l2726
+  passage_sha256=b987da8e975003d11d6dbf2ac8ad6d08660f24c9752250706ecc4fcc1eb7d962
+

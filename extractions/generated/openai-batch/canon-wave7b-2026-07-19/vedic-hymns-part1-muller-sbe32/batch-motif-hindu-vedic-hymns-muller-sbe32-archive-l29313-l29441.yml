@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l29313-l29441
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: X, 186, 3. / INDEX OF WORDS. / VEDIC HYMNS. / INDEX OF WORDS.; lines 29313-29441
+  start: '29313'
+  end: '29441'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index-of-words section listing transliterated Vedic/Sanskrit headwords
+    with English glosses and hymn references. The entries include terms glossed as
+    infinite, without form, Apsaras, cloud, water-giving, assault, adversary, victory,
+    slayer of the demon, fiend, immortal, rein or bridle, and sickness.
+  language: English with transliterated Vedic/Sanskrit headwords
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section rather than a continuous narrative passage.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Apsaras is listed as an index headword with parenthetical references, but
+    no action or description is given in this passage.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several entries concern clouds, including words glossed as cloud, cloud-shower,
+    belonging to the cloud, the voice of the clouds, and streams from clouds.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One entry glosses a form as wishing to give water.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'The passage includes conflict-related glosses: assault, adversary, victory,
+    conqueror or victorious, slayer of the demon, fiend, and onslaught.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage includes abstract or bodily-state glosses such as infinite, without
+    form, immortal, and sickness.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A rein or bridle is listed as an indexed object.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: One gloss is explicitly marked uncertain between meanings such as hastening
+    and heaven-directed.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Apsaras
+  description: Listed as an index headword with references only; the passage gives
+    no narrative role or description.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: demon or fiend
+  description: A supernatural hostile being is present only through glosses such as
+    slayer of the demon and fiend.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hostile being named in conflict vocabulary
+  assigned_to:
+  - fig:2
+  basis: The indexed glosses include slayer of the demon and fiend, alongside assault,
+    adversary, victory, and onslaught.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cloud
+  literal_form: cloud, cloud-shower, voice of the clouds, streams from clouds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: water
+  literal_form: water; streams from clouds
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: rein or bridle
+  literal_form: rein, bridle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: demon-slayer vocabulary
+  taxonomy_refs: []
+  basis: The index includes a headword glossed as slayer of the demon and another
+    as fiend, in a cluster of conflict terms.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is an index entry, not a narrative episode; it does not identify
+    a specific slayer, demon, action sequence, or mythic context.
+- id: motif:2
+  label: cloud and water imagery
+  taxonomy_refs: []
+  basis: The passage lists multiple cloud-related terms and a water-giving gloss,
+    including streams from clouds.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage supplies lexical glosses only; it does not present a mythic
+    scene of rainmaking, storm combat, or cosmic waters.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 29313-29441
+  quote_or_summary: '"INDEX OF WORDS." The passage consists of alphabetized lexical
+    entries with glosses and hymn references.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 29313-29441
+  quote_or_summary: '"Apsaras : (307; 308.)"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 29313-29441
+  quote_or_summary: Cloud and water entries include abda glossed as cloud, abda-ya
+    as wishing to give water, abdi-mat as with clouds, abhra as cloud, abhra-prish
+    as cloud-shower, and abhriya as connected with the voice of the clouds and streams
+    from clouds.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 29313-29441
+  quote_or_summary: Conflict-related entries include abhi-iti glossed as assault,
+    abhi-matin as adversary, abhishéi as victory, abhish/t as conqueror or victorious,
+    abhok-han as slayer of the demon, abhva as fiend, and ama as onslaught.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 29313-29441
+  quote_or_summary: Abstract or state-related entries include apard glossed as infinite,
+    apesas as without form, amartya as immortal, and amiva as sickness.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 29313-29441
+  quote_or_summary: '"abhisu, rein, bridle"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:7
+  type: quote
+  locator: lines 29313-29441
+  quote_or_summary: '"abhi-dyu, hastening, or, heaven-directed. [It is doubtful which
+    is the right meaning]"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The extraction is reliable for literal index entries. Motif candidates are
+    low-confidence because the passage is lexical and does not contain a mythic narrative
+    or scene. No comparison claims are made because the passage itself does not support
+    comparative links.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the passage provides glossary entries rather than narrative evidence for a listed motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l29313-l29441
+  passage_sha256=3376603bb4cbf2de0c61f6a5b17bff472c4c41e61b8bbed6d0e3bb330a1a6bae
+

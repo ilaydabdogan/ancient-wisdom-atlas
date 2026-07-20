@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l16146-l16251
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: CAITTO LYIT. / CANTO LVIT. / FAMOUS RIVERS IN INDIA. / CANTO LVir.; lines
+    16146-16251
+  start: '16146'
+  end: '16251'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: with the Paripatra mountains.
+  summary: The passage is a catalogue of famous Indian rivers, especially rivers said
+    to be connected with the Paripatra mountains, with editorial notes identifying
+    variant names, possible modern river courses, and related readings in other Purāṇic
+    texts.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage appears under the heading concerning famous rivers in India.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The main text lists rivers including Venva, Anandini, Sada-nira, Mahi, Para,
+    C'arman-vati, Napi, Vidisa, Vetra-vati, S'ipra, and Avarni.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The listed rivers are described as connected with the Paripatra mountains.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note glosses Sada-nira as a river whose name means that it is always filled
+    with water.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The notes discuss Sada-nira as a boundary between Kosala and Videha and evaluate
+    possible identifications with North Indian rivers.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The notes identify several rivers with modern or regional courses, including
+    Mahi, Para or Parbati, C'arman-vati or Chambal, Vetra-vati or Betwa, and S'ipra
+    at Ujjain.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The main text names S'ona and Maha-nada as additional rivers, and the notes
+    describe their courses and possible source regions.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The notes cite variant readings from the Vayu, Kurma, and Varaha Puranas for
+    several river names in the list.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A note reports that Devavridha is said to have married one of these rivers,
+    while also indicating uncertainty about which river is meant.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Devavridha
+  description: A person mentioned in an editorial note as having married one of the
+    rivers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: one of these rivers
+  description: An unnamed river referred to in the note as Devavridha's marriage partner;
+    the passage does not securely identify which river.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: reported spouse of a river
+  assigned_to:
+  - fig:1
+  basis: The note says Devavridha married one of these rivers.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: reported river spouse
+  assigned_to:
+  - fig:2
+  basis: The note describes one of the rivers as Devavridha's marriage partner, but
+    does not settle the identification in this passage.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: river water
+  literal_form: The named rivers of India, including Sada-nira, Mahi, Vetra-vati,
+    S'ipra, S'ona, and Maha-nada.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: Paripatra mountains
+  literal_form: The Paripatra mountains as the mountain range with which the listed
+    rivers are connected.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: boundary river
+  literal_form: Sada-nira described in the notes as the boundary between Kosala and
+    Videha.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Catalogue of rivers connected with Paripatra
+  summary: The passage lists a group of famous rivers and states that they are connected
+    with the Paripatra mountains.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Editorial identifications and variants
+  summary: The notes discuss meanings, variant readings, regional identifications,
+    and river courses for the names in the catalogue; one note also reports a marriage
+    tradition involving Devavridha and an unnamed river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Rivers associated with a mountain range
+  taxonomy_refs: []
+  basis: The main text presents a set of famous rivers as connected with the Paripatra
+    mountains.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a geographic-sacred catalogue pattern rather than a narrative
+    myth episode.
+- id: motif:2
+  label: River as territorial boundary
+  taxonomy_refs: []
+  basis: The note states that Sada-nira was the boundary between Kosala and Videha
+    and discusses its likely identification.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The boundary interpretation appears in editorial commentary and cited
+    Brahmana discussion, not in the main verse itself.
+- id: motif:3
+  label: River as marriage partner
+  taxonomy_refs: []
+  basis: A note reports that Devavridha married one of the rivers.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The reference is brief, secondary within the note, and the passage does
+    not identify the river or supply a narrative context.
+comparison_claims:
+- id: claim:1
+  claim: The annotations place this river catalogue within a nearby Purāṇic river-listing
+    tradition by citing variant readings in the Vayu, Kurma, and Varaha Puranas for
+    several river names.
+  claim_level: same_function
+  target: Vayu, Kurma, and Varaha Purana river-name lists
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies editorial summaries of variants rather than full
+    parallel passages, so the comparison should be limited to list function and name
+    variation.
+- id: claim:2
+  claim: The note on Sada-nira says the Kurma Purana places that river in the same
+    Paripatra group, supporting a cautious comparison of the same river-grouping pattern.
+  claim_level: same_function
+  target: Kurma Purana placement of Sada-nira among Paripatra rivers
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the translator's note and does not quote the Kurma
+    Purana passage directly.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 16146-16251, heading
+  quote_or_summary: The passage is headed as a canto section on famous rivers in India.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; citation only.
+- id: ev:2
+  type: quote
+  locator: lines 16146-16251, main text vv. 19-20
+  quote_or_summary: The main list names rivers and says they are "connected\nwith
+    the Paripatra mountains."
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 16146-16251, note to Sada-nira
+  quote_or_summary: The note glosses Sada-nira as 'always filled with water,' remarks
+    on its inclusion among rivers rising in the Paripatra mountains, says the Kurma
+    Purana places it in the same group, and discusses its role as the boundary between
+    Kosala and Videha.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16146-16251, notes to Mahi through Avarni
+  quote_or_summary: The notes identify several rivers with regional or modern rivers,
+    including Mahi, Para or Parbati, C'arman-vati or Chambal, Vetra-vati or Betwa,
+    S'ipra at Ujjain, and possible Avarni or Avanti readings.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 16146-16251, note to Venva / Varnasa-Parnasa
+  quote_or_summary: The note discusses variant river names and says Devavridha is
+    said to have married one of these rivers, probably the second, while expressing
+    uncertainty in identification.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 16146-16251, main text v. 21 and notes to S'ona and Maha-nada
+  quote_or_summary: The passage names S'ona and Maha-nada; the notes describe S'ona
+    as rising near the source of the Narbada and flowing into the Ganges, and discuss
+    Maha-nada or Mahanadi and a branch rising near the source of the Sone.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 16146-16251, multiple editorial notes
+  quote_or_summary: The notes cite Vayu, Kurma, and Varaha Purana variant readings
+    for multiple river names in the catalogue, including Venva, Anandini, Sada-nira,
+    Mahi, Vetra-vati, Avarni, and Maha-nada.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily a geographic river catalogue with dense editorial
+    notes. Motif extraction is therefore limited to river, mountain, boundary, and
+    brief personified-river marriage patterns explicitly present in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported taxonomy motif IDs were assigned. Symbol taxonomy references are limited to water and mountain, both directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l16146-l16251
+  passage_sha256=48d6f3810e75cd913ec6632b3e196185f61434ef79773d6fc332e7dab0cd4bcf
+

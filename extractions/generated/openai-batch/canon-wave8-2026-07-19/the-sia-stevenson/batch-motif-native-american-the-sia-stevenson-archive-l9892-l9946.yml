@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l9892-l9946
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: TURNBB. 1 RELIGION. 193 / RSUGION. / RELIGION. 195 / THE TALISMANS.; lines
+    9892-9946
+  start: '9892'
+  end: '9946'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a hunting talisman: a shaman erects on a pole an
+    image representing a noted conjurer-hunter, with attached paraphernalia meant
+    to help control deer movement. The object includes clothing, a polar-bear-skin
+    belt, beads, amulets, a small wooden doll, wooden pieces with bead and lead attachments,
+    three bullets, and a semicircular wooden ''hastener'' associated with supernatural
+    hunting speed. The whole hanging object is identified as a materialization of
+    a Tung ak.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A shaman is said to erect an image on a pole in a favorable position to cause
+    deer to move toward a desired locality.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The image represents the power of a hunter-conjurer, and its attached paraphernalia
+    are said to assist in controlling animal movements.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The described object was obtained at Fort Chimo and represents a celebrated
+    conjurer living on the eastern shore of Hudson Bay.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The represented conjurer is described as having a reputation as a hunter and
+    as occasionally visiting Fort Chimo.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The image is dressed in a complete suit of woolen stuff called 'strouds,'
+    trimmed with black and fancy tartan gartering.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A polar-bear-skin belt holds strings of colored beads and various amulets.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: One attached amulet is a wooden doll called a little man, hung so that it
+    faces outward and is always on the alert.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Other attached items include two bits of wood with strands of beads and lead
+    drops, a string of three bullets, and a semicircular wooden piece decorated with
+    bead strings.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The three bullets are said to symbolize the hunter's readiness when game approaches.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The semicircular wooden piece is called the hastener and is held by the hunter
+    when he sights game.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The tighter the hunter grasps the hastener, the faster he is supposed to get
+    over the ground.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: Use of the hastener is said to allow travel faster than the wind, without
+    touching the earth, so that the hunter overtakes deer in a moment.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: The entire object hanging on the pole is called a materialization of a Tung
+    ak.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: The object remained hanging for several days.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: shaman
+  description: Ritual specialist who erects the image on a pole to influence deer
+    movement.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: celebrated conjurer-hunter
+  description: A noted conjurer from the eastern shore of Hudson Bay, described as
+    having a hunter's reputation and being represented by the image.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: deer or game animals
+  description: Animals whose movements are to be controlled and whom the hunter seeks
+    to overtake.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: hunter using the hastener
+  description: Hunter who holds the hastener after sighting game and is thereby supposed
+    to move with extraordinary speed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Tung ak
+  description: Entity or category named in the passage as what the whole pole-hung
+    object materializes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ritual arranger of hunting talisman
+  assigned_to:
+  - fig:1
+  basis: The shaman erects the image on a pole to make deer move toward a desired
+    locality.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: represented conjurer power
+  assigned_to:
+  - fig:2
+  basis: The image is said to represent the power of a conjurer-hunter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: hunter
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The represented person has a hunting reputation, and the hastener is described
+    as an implement held by the hunter when game is sighted.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: target game
+  assigned_to:
+  - fig:3
+  basis: The deer are the animals whose movements are influenced and who are overtaken
+    by the hunter.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: spiritual or named power materialized by object
+  assigned_to:
+  - fig:5
+  basis: The entire hanging object is called a materialization of a Tung ak.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: pole-mounted image
+  literal_form: image erected on a pole
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: attached paraphernalia
+  literal_form: various paraphernalia attached to the image
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: polar-bear-skin belt
+  literal_form: belt of polar-bear skin with strings of colored beads and amulets
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: little-man wooden doll
+  literal_form: wooden doll hung to face outward and be on the alert
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wood pieces with beads and lead drops
+  literal_form: two bits of wood with strands of beads and lead drops
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: three bullets
+  literal_form: string of three bullets
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: hastener
+  literal_form: semicircular wooden piece ornamented with bead strings
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:8
+  label: wind-speed travel
+  literal_form: travel faster than the wind without touching the earth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Erection of a hunting image
+  summary: A shaman places an image on a pole in order to draw deer toward a desired
+    place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of the talismanic figure
+  summary: The object obtained at Fort Chimo is described as an elaborate image of
+    a noted Hudson Bay conjurer-hunter, dressed and equipped with a belt, beads, and
+    amulets.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Use of the hastener
+  summary: When the hunter sights game, he holds the hastener; gripping it tightly
+    is said to increase his speed until he can overtake deer almost immediately.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Materialized Tung ak on a pole
+  summary: The entire pole-hung assemblage is identified as a materialization of a
+    Tung ak and remains hanging for several days.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: hunting talisman controls animal movement
+  taxonomy_refs: []
+  basis: The passage states that a shaman erects the image so deer move toward a desired
+    locality and that attached paraphernalia help control animal movements.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage describes a ritual technology but does not provide a narrative
+    episode beyond the object's intended function.
+- id: motif:2
+  label: effigy materializes a conjurer's power
+  taxonomy_refs: []
+  basis: The image represents the power of a hunter-conjurer, and the complete assemblage
+    is called a materialization of a Tung ak.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The exact nature of 'Tung ak' is not explained in the supplied passage,
+    and OCR corruption affects some terms.
+- id: motif:3
+  label: amulet grants supernatural hunting speed
+  taxonomy_refs: []
+  basis: The hastener is held when game is sighted, and its use is said to let the
+    hunter travel faster than the wind and overtake deer in a moment.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage reports a belief about the object rather than an enacted story
+    of a hunt.
+- id: motif:4
+  label: weapon tokens signify readiness for game
+  taxonomy_refs: []
+  basis: A string of three bullets attached to the belt is explicitly said to symbolize
+    the hunter's readiness when game approaches.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a local symbolic explanation; no broader taxonomy reference is
+    supplied by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9892-9898
+  quote_or_summary: A shaman erects an image on a pole in a favorable position to
+    make deer move toward a desired place; the image represents a conjurer's power
+    and its paraphernalia help control animal movements.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 9899-9907
+  quote_or_summary: The described object was obtained at Fort Chimo and represents
+    a celebrated conjurer from the eastern shore of Hudson Bay who sometimes visited
+    Fort Chimo and was reputed as a hunter.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 9908-9915
+  quote_or_summary: The figure is clothed in woolen 'strouds' with trim and gartering,
+    and a polar-bear-skin belt carries strings of colored beads and amulets.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 9916-9928
+  quote_or_summary: The belt attachments include a little-man wooden doll facing outward,
+    wood pieces with beads and lead drops, three bullets symbolizing readiness, and
+    a semicircular beaded wooden piece.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 9929-9937
+  quote_or_summary: The semicircular piece is called the hastener; the hunter grasps
+    it when sighting game, and it is supposed to allow travel faster than the wind
+    without touching earth so the deer are overtaken immediately.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 9938-9944
+  quote_or_summary: The entire hanging assemblage is called a materialization of a
+    Tung ak and remains on the pole for several days.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by significant OCR corruption and possible metadata
+    mismatch between the source title/path and the passage content. Motif candidates
+    are based only on explicitly described functions of the talisman.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol reference was assigned because the available taxonomy list does not include a close match for hunting talismans, effigy power, or supernatural speed amulets.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l9892-l9946
+  passage_sha256=1132c9f47d9b263a20abd3bd2146a1d0d010b7d0896eecb59174ff700a77b5fb
+

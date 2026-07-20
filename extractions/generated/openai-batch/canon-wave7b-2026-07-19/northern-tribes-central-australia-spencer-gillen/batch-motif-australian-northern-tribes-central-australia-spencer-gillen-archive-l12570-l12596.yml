@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l12570-l12596
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: VI CEREMONIES CONNECTED WITH THE TOTEMS 179 / CEREMONIES CONNECTED WITH THE
+    TOTEMS 185 / VI CEREMONIES CONNECTED WITH THE TOTEMS 187 / VI CEREMONIES CONNECTED
+    WITH THE TOTEMS 189; lines 12570-12596
+  start: '12570'
+  end: '12596'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a Kaitish totem ceremony in which a euro performer
+    emerges from concealment, faces the audience, and is approached by four men who
+    are represented as trying to kill him and then being killed by him. Afterward
+    the audience dances and shouts around the seated men and their heads are pressed
+    down. The passage also notes that Kaitish ceremonies for various totems are performed
+    in close succession at separate spots, and captions identify an emu totem ceremony
+    and a method of bringing a sacred ceremony to a close.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A euro performer first runs in from a place where he had been concealed in
+    the scrub and stands a short distance in front of the audience.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Four men run toward the euro performer one after another.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each of the four men is represented as attempting to kill the euro and then
+    being killed by the euro, falling to the ground, and retiring to one side.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the four men have performed, they sit together on the ground.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The audience, described as excited and demonstrative, comes up, dances, and
+    shouts around the seated men.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The heads of the seated men are finally pressed down in the usual way.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:7
+  text: In the Kaitish tribe, ceremonies concerned with various totems are performed
+    closely one after another, each on a separate spot.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage reports that six such ceremonies were seen on one afternoon.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A figure caption identifies a performance of a ceremony of the emu totem in
+    the Kaitish tribe.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: euro performer
+  description: A man designated as the euro man; he enters from concealment, stands
+    before the audience, and is represented as killing the four men who approach him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: four men
+  description: Four male performers who approach the euro one after another, are represented
+    as trying to kill him and then being killed by him, fall to the ground, retire
+    to one side, and later sit together.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: audience
+  description: The audience watches the performance, is described as excited and demonstrative,
+    and later dances and shouts around the seated men.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: central totemic performer
+  assigned_to:
+  - fig:1
+  basis: The euro performer enters first, takes position before the audience, and
+    is the one by whom the other men are represented as being killed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: sequential challengers and defeated performers
+  assigned_to:
+  - fig:2
+  basis: The four men approach the euro one by one, are represented as attempting
+    to kill him, and then fall as if killed by him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: audience and closing participants
+  assigned_to:
+  - fig:3
+  basis: The audience observes the performance and later joins in by dancing and shouting
+    around the seated men.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: euro
+  literal_form: The named euro, represented by the euro man in the ceremonial performance.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: emu totem
+  literal_form: A captioned ceremony of the emu totem in the Kaitish tribe.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: head-pressing closure gesture
+  literal_form: The heads of the seated men are pressed down at the end of the audience’s
+    dance and shouting.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Euro performer enters before the audience
+  summary: The euro performer runs from concealment in the scrub, stands before the
+    audience, and waits while four men run toward him in sequence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sequential staged killing
+  summary: Each of the four men is represented as trying to kill the euro and then
+    being killed by him, falling down and moving aside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Audience dance and ceremonial close
+  summary: After the four men sit together, the audience dances and shouts around
+    them, and the men’s heads are pressed down in the usual closing manner.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Successive totem ceremonies at separate spots
+  summary: The text states that Kaitish ceremonies for various totems are performed
+    close together in time, each on a separate spot, with six seen in one afternoon.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Totemic ceremonial enactment
+  taxonomy_refs: []
+  basis: The passage frames the actions as ceremonies connected with totems, includes
+    a caption for an emu totem ceremony, and describes Kaitish ceremonies for various
+    totems.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage gives only a short excerpt of the ceremonial sequence and
+    does not explain the wider mythic narrative behind the totems.
+- id: motif:2
+  label: Staged combat and killing within ceremony
+  taxonomy_refs: []
+  basis: The four men are represented as attempting to kill the euro and then being
+    killed by him, falling down and retiring to one side.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is explicitly a performance; the passage does not describe an actual
+    killing or sacrifice.
+- id: motif:3
+  label: Ceremonial closure by collective dance and head-pressing
+  taxonomy_refs: []
+  basis: After the staged action, the audience dances and shouts around the seated
+    men, and their heads are pressed down; a caption identifies a method of bringing
+    a sacred ceremony to a close.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The meaning of the head-pressing gesture is not explained in the excerpt.
+- id: motif:4
+  label: Series of totem ceremonies at separate places
+  taxonomy_refs: []
+  basis: The text states that Kaitish ceremonies concerned with various totems follow
+    closely upon one another and that each is carried out on a separate spot.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify the full set of six ceremonies or the reasons
+    for their spatial separation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12570-12576
+  quote_or_summary: The euro man emerges from concealment in the scrub, stands before
+    the audience, and watches as four men run toward him one after another.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 12576-12580
+  quote_or_summary: Each approaching man is represented as trying to kill the euro
+    and then being killed by the euro, falling to the ground and retiring to one side.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: quote
+  locator: caption after line 12580
+  quote_or_summary: "“FIG. 52. — PERFORMANCE OF A CEREMONY OF THE EMU TOTEM. KAITISH
+    TRIBE.”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 12583-12587
+  quote_or_summary: After the four men are seated together, the excited audience dances
+    and shouts around them, and their heads are pressed down in the usual way.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 12588-12594
+  quote_or_summary: In the Kaitish tribe, ceremonies for various totems are performed
+    close one after another; each occurs on a separate spot, and six were seen in
+    one afternoon.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: quote
+  locator: caption at lines 12595-12596
+  quote_or_summary: "“FIG. 53. — METHOD OF BRINGING A SACRED CEREMONY TO A CLOSE.
+    KAITISH TRIBE.”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The action sequence is clearly described, but the passage begins mid-sentence
+    and contains an apparent OCR artifact in the phrase concerning the euro. No comparison
+    claims are made because the excerpt itself does not support a specific cross-textual
+    or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The opening fragment “lightning.” was not used for motif extraction because the relevant surrounding sentence is outside the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l12570-l12596
+  passage_sha256=f54c2461ff152ec3228559fce50b54b24b25dfa3e9d09cddb908c2ef7ba194b6
+

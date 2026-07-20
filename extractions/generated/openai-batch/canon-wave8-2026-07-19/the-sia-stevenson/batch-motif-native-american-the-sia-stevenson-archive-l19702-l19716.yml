@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l19702-l19716
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: THE WINDS AS WAKANDAS. / KANSA SACRIFICE TO THE WINDS. / OSAGE CONSECRATION
+    OP MYSTIC FIREPLACES. / THE THUNDEBBEING A WAKANDA.; lines 19702-19716
+  start: '19702'
+  end: '19716'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"by your striking (with your club) you are frightening us, your grandchildren,
+    who are here. Depart on high."'
+  summary: The passage labels the Thunder-being a wakanda and describes an Omaha and
+    Ponka spring ritual response to the first thunder, in which Black Bear people
+    go to the sacred tent of the Elk gens and assist in invoking the Thunder-being.
+    A Ponka invocation addresses the being as a venerable figure whose club-striking
+    frightens its grandchildren and asks it to depart on high.
+  language: English, with a quoted Omaha/Ponka-language invocation phrase and English
+    translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage heading labels the Thunder-being as a wakanda.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The described ritual occasion begins when the first thunder is heard in spring.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Black Bear people go to the sacred tent of the Elk gens.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Black Bear people assist the Elk people in invoking the Thunder-being.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At a Ponka gathering, the Ponka Black Bear people speak an invocation to the
+    Thunder-being.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The invocation says that the being's striking with a club frightens the speakers,
+    who call themselves its grandchildren, and asks it to depart on high.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Thunder-being
+  description: A being labeled as a wakanda, invoked when the first thunder is heard,
+    and addressed as striking with a club.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Black Bear people
+  description: Omaha and Ponka ritual participants who go to the sacred tent, assist
+    the Elk people, and, in the Ponka example, speak the invocation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Elk people / Elk gens
+  description: The group associated with the sacred tent where the invocation of the
+    Thunder-being is performed with assistance from the Black Bear people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: invoked wakanda
+  assigned_to:
+  - fig:1
+  basis: The heading calls the Thunder-being a wakanda, and the passage describes
+    invocation of the Thunder-being.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ritual assistants and speakers
+  assigned_to:
+  - fig:2
+  basis: The Black Bear people assist in the invocation, and the Ponka Black Bear
+    people speak the translated invocation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: ritual host group associated with sacred tent
+  assigned_to:
+  - fig:3
+  basis: The sacred tent belongs to the Elk gens, and the Black Bear people assist
+    the Elk people there.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: first spring thunder
+  literal_form: The first thunder heard in spring
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sacred tent of the Elk gens
+  literal_form: A sacred tent belonging to the Elk gens
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: club-striking of the Thunder-being
+  literal_form: The Thunder-being's striking with a club
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: departure on high
+  literal_form: The request that the Thunder-being depart on high
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: First-thunder invocation gathering
+  summary: When the first thunder is heard in spring, Black Bear people go to the
+    sacred tent of the Elk gens and assist the Elk people in invoking the Thunder-being.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ponka Black Bear invocation speech
+  summary: At a similar Ponka gathering, the Ponka Black Bear people address the Thunder-being,
+    saying that its club-striking frightens its grandchildren and asking it to depart
+    on high.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: first-thunder spring invocation
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The first thunder in spring triggers a ritual gathering and invocation of
+    the Thunder-being.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The seasonal-cycle taxonomy mapping is broad; the passage describes a
+    ritual occasion, not a full seasonal myth cycle.
+- id: motif:2
+  label: thunder as a powerful being's club-striking
+  taxonomy_refs: []
+  basis: The translated invocation attributes the frightening sound/action to the
+    being's striking with a club.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief invocation and does not elaborate a full
+    narrative about the club or the production of thunder.
+- id: motif:3
+  label: ritual kinship address to a powerful being
+  taxonomy_refs: []
+  basis: The speakers address the Thunder-being in a kinship relation by calling themselves
+    its grandchildren.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The kinship phrasing is present in the translation, but the passage does
+    not explain its ritual or theological meaning.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Omaha and Ponka first-thunder gatherings as similar
+    ritual contexts for invoking the Thunder-being, with Black Bear people involved
+    in the practice.
+  claim_level: same_function
+  target: Omaha and Ponka first-thunder invocation practices
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is brief; it gives more detail for the Ponka speech than
+    for the Omaha/Ponka ritual as a whole, so exact equivalence of ritual form is
+    not established.
+evidence:
+- id: ev:1
+  type: citation
+  locator: 19702-19703
+  quote_or_summary: 'Heading: the Thunder-being is identified as a wakanda, followed
+    by a subheading on Omaha and Ponka invocation of the Thunder-being.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; short heading summarized.
+- id: ev:2
+  type: summary
+  locator: 19704-19710
+  quote_or_summary: Among the Omaha and Ponka, when the first thunder was heard in
+    spring, the Black Bear people went to the sacred tent of the Elk gens and assisted
+    the Elk people in invoking the Thunder-being.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: quote
+  locator: 19711-19716
+  quote_or_summary: 'At a similar Ponka gathering, the Ponka Black Bear people say:
+    "by your striking (with your club) you are frightening us, your grandchildren,
+    who are here. Depart on high."'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ritual actions and speech are explicit, but motif-family mapping is limited
+    by the short excerpt and OCR irregularities in the source text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No fire-related or wind-related material from the broader locator label was extracted because it is not present in the supplied passage text.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l19702-l19716
+  passage_sha256=9fe007d270e017995240f35b3f1396b3cbb85ee1bbda9e143a54ab686d9521d6
+

@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.celtic-mabinogion-guest-gutenberg-l9548-l9571
+source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: THE DREAM OF MAXEN WLEDIG / HERE IS THE STORY OF LLUDD AND LLEVELYS / TALIESIN
+    / FOOTNOTES; lines 9548-9571
+  start: '9548'
+  end: '9571'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial footnotes mention a Welsh Graal manuscript, gloss Hades, explain
+    that Pryder or Pryderi means anxiety, describe a Greal variant in which fairy
+    or dwarf money appears to be good coin but later turns into fungus, note untranslatable
+    wordplay, identify Taliesin, and mark a mention of Gwyddno Garanhir instead of
+    Elphin ab Gwyddno as a likely scribal error.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote states that the Hengwrt Library reportedly held a Welsh manuscript
+    containing the Graal, dated as early as Henry I, but the editor could not obtain
+    access to it after Col. Vaughan's death and other circumstances.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A footnote gives the gloss “Hades.”
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A footnote states that the word “Pryder” or “Pryderi” means anxiety.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A footnote says that the Greal version adds that the coin was fairy money,
+    literally dwarf’s money.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The same note explains that this money appeared to be good coin when received,
+    but if kept turned into pieces of fungus and similar matter.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A footnote says a dialogue consists of repartees involving wordplay that cannot
+    be followed in translation.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A footnote identifies “Taliesin.”
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A footnote says that mentioning Gwyddno Garanhir instead of Elphin ab Gwyddno
+    at that point is evidently a manuscript transcriber’s error.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Col. Vaughan
+  description: Person from whom the editor sought access to the Welsh Graal manuscript;
+    his death is named as one reason access was not obtained.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Pryder / Pryderi
+  description: Name or word glossed in the footnote as meaning anxiety.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Taliesin
+  description: Name identified by a footnote.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Gwyddno Garanhir
+  description: Name mentioned in a place where the footnote says the manuscript has
+    an evident transcriber’s error.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Elphin ab Gwyddno
+  description: Name that the footnote implies should appear instead of Gwyddno Garanhir.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: manuscript-access intermediary
+  assigned_to:
+  - fig:1
+  basis: The editor applied to Col. Vaughan for access to the manuscript, but his
+    death prevented access.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: glossed name
+  assigned_to:
+  - fig:2
+  basis: The footnote glosses Pryder or Pryderi as meaning anxiety.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: identified named figure or title
+  assigned_to:
+  - fig:3
+  basis: The footnote consists of the identification “Taliesin.”
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: apparently erroneous manuscript mention
+  assigned_to:
+  - fig:4
+  basis: The footnote says the mention of Gwyddno Garanhir in that place is evidently
+    a transcriber’s error.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: apparently expected manuscript reading
+  assigned_to:
+  - fig:5
+  basis: The footnote contrasts Gwyddno Garanhir with Elphin ab Gwyddno as the apparently
+    correct name for that place.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fairy or dwarf money
+  literal_form: Money which appears to be good coin when received but, if kept, turns
+    into pieces of fungus and similar matter.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Hades
+  literal_form: The word “Hades,” supplied as a footnote gloss.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Welsh Graal manuscript
+  literal_form: A manuscript in the Hengwrt Library said to contain the Graal in Welsh,
+    dated as early as the time of Henry I.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: deceptive fairy money that reverts to worthless matter
+  taxonomy_refs: []
+  basis: The footnote describes a Greal variant where fairy or dwarf money seems to
+    be good coin when received but changes into fungus if kept.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This motif is reported in an editorial footnote as an addition in the
+    Greal version, not as a narrative episode in the supplied main text.
+- id: motif:2
+  label: underworld gloss
+  taxonomy_refs: []
+  basis: A footnote glosses an annotated term simply as “Hades.”
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The supplied passage gives only the gloss and no surrounding underworld
+    episode, journey, or narrative function.
+- id: motif:3
+  label: name-etymology gloss connected with anxiety
+  taxonomy_refs: []
+  basis: A footnote states that Pryder or Pryderi means anxiety.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a lexical note rather than a narrative motif in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself points to a nearby textual variant: the Greal version
+    adds the fairy or dwarf money detail in which apparent coin later becomes fungus.'
+  claim_level: same_motif
+  target: Greal version of the annotated passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The footnote reports only the added detail; the supplied passage does
+    not provide the full Greal context or enough evidence to infer historical transmission
+    beyond the named textual variant.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9550-9555
+  quote_or_summary: A footnote reports a Welsh Graal manuscript in the Hengwrt Library
+    from as early as Henry I; the editor hoped to include it but could not access
+    it after Col. Vaughan’s death and other circumstances.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: line 9557
+  quote_or_summary: "“Hades.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: line 9559
+  quote_or_summary: "“The word ‘Pryder’ or ‘Pryderi’ means anxiety.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 9561-9564
+  quote_or_summary: 'The Greal version adds that the coin was fairy money, literally
+    dwarf’s money: it looked like good coin when received, but if kept turned into
+    fungus and similar matter.'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9566-9568
+  quote_or_summary: A footnote says a dialogue is made of repartees and wordplay that
+    cannot be followed in translation.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: line 9570
+  quote_or_summary: "“Taliesin.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 9570-9571
+  quote_or_summary: A footnote states that mentioning Gwyddno Garanhir instead of
+    Elphin ab Gwyddno in that place is evidently a transcriber’s error.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial footnote section rather than a narrative episode.
+    The fairy-money motif is clear but belongs to a reported Greal variant; other
+    motif candidates are lexical or glossarial and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was assigned because the supplied taxonomy list lacks an exact category for fairy money, deceptive coin, fungus transformation, or a simple Hades gloss.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-mabinogion-guest-gutenberg__l9548-l9571
+  passage_sha256=882ef9e9374bb547c89660b71a7a8ec07c20177d8b157d9b8645c9b971fd03fb
+

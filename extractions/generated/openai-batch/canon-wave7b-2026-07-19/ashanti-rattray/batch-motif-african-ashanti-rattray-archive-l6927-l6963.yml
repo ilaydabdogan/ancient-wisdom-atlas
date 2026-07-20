@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l6927-l6963
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: NTORO EXOGAM OUS DIVISIONS / NTORO EX0GAM0US DIVISIONS / APPENDIX A / APPENDIX
+    B; lines 6927-6963
+  start: '6927'
+  end: '6963'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A signed assay-office letter reports examination of two mud samples from
+    Lake Bosomtwe. The writer describes their composition, notes no detected free
+    sulphur, mentions a possible fish scale, reports absence of rock chips and useful
+    minerals, and concludes the mud is likely suspended matter accumulating on the
+    lake bottom with little bearing on periodic disturbances. A stream mud sample
+    from Obuasi is said to be similar.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as a letter from the A.G.C. Assay Office dated 24
+    November 1921 and addressed to Captain Rattray.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The writer reports receiving and examining two mud samples from Lake Bosomtwe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The mud is described as mainly decomposed organic matter, with a small quantity
+    of finely divided inorganic matter from weathered rocks.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The writer states that no free sulphur was detected and notes that sulphur
+    would indicate volcanic action, while its absence does not necessarily disprove
+    volcanic action.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Sample No. C from the eighth sounding is said to contain what appears to be
+    a small fish scale.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Chips of rocks and minerals useful for determining the probable cause of periodic
+    disturbances are reported absent.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The writer concludes that the mud is likely suspended matter from the supernatant
+    water gradually accumulating on the lake bottom and has little bearing on the
+    origin of periodic disturbances.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A mud sample from a stream in Obuasi is described as very similar in composition
+    to the Lake Bosomtwe mud.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: R. Drew
+  description: Signer of the assay-office letter reporting the examination and conclusions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: Captain Rattray
+  description: Addressee of the letter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: assay report writer or examiner
+  assigned_to:
+  - fig:1
+  basis: The letter states that the writer examined the samples and is signed by R.
+    Drew.
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: role:2
+  label: letter recipient
+  assigned_to:
+  - fig:2
+  basis: The letter is addressed to Captain Rattray.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Lake Bosomtwe mud samples
+  literal_form: two samples of mud from Lake Bosomtwe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Lake water
+  literal_form: supernatant water of Lake Bosomtwe
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: possible fish scale
+  literal_form: small fish scale in Sample No. C from the eighth sounding
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Obuasi stream mud
+  literal_form: mud sample from a stream in Obuasi
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Assay-office examination of Lake Bosomtwe mud
+  summary: In a dated letter to Captain Rattray, R. Drew reports on two Lake Bosomtwe
+    mud samples, describing their organic and inorganic composition, absence of free
+    sulphur, a possible fish scale, absence of useful rock or mineral evidence, and
+    a conclusion that the mud likely accumulated from suspended matter in the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:2
+  label: Comparison with Obuasi stream mud
+  summary: The writer adds that a mud sample taken from a stream in Obuasi was very
+    similar in composition to the mud from Lake Bosomtwe.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6927-6933
+  quote_or_summary: '"A.G.C. Assay Office, 24th November 1921. Captain Rattray,"'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6934-6936
+  quote_or_summary: '"I have received two samples of mud from Lake Bosomtwe, which
+    I have examined."'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6937-6941
+  quote_or_summary: The mud is described as mostly decomposed organic matter such
+    as leaves and plants, plus a small amount of finely divided inorganic matter from
+    rock weathering.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6942-6945
+  quote_or_summary: The writer reports no detected free sulphur and explains that
+    sulphur would indicate volcanic action, though absence of sulphur does not prove
+    the contrary.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 6946-6948
+  quote_or_summary: '"Sample No. C from 8th sounding contains what appears to be a
+    small fish scale."'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 6949-6952
+  quote_or_summary: Chips of rocks and minerals that would help determine the probable
+    cause of periodic disturbances are reported absent.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 6953-6959
+  quote_or_summary: The writer concludes that the mud is suspended matter from supernatant
+    water accumulating at the lake bottom and likely has little bearing on the origin
+    of periodic disturbances.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: quote
+  locator: lines 6960-6962
+  quote_or_summary: '"A sample of mud which I took from a stream in Obuasi was very
+    similar in composition to that from the Lake."'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:9
+  type: quote
+  locator: line 6963
+  quote_or_summary: '"(Sgd.) R. Drew."'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a scientific assay-office report rather than a mythic or ritual
+    narrative. Literal extraction is strong, but no passage-supported motif or comparative
+    claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy reference to water is literal and based on the passage's mention of supernatant water, not on a symbolic interpretation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l6927-l6963
+  passage_sha256=5452a549119dc5063c9b982fb985bc9c0c24d95d486be911669981e216cfce35
+

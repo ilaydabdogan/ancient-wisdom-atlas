@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l17102-l17128
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: RELIGION. / SPIRITUAL BEINGS, / OA ROVE. / OMENS.; lines 17102-17128
+  start: '17102'
+  end: '17128'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists omen beliefs: animal appearances in a village, a sudden
+    gale during voyaging, a voyage-related house fire, dreams of sorcery, and bodily
+    aches are all treated as signs of death, ill luck, or news.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces the examples as beliefs in omens reported by Dr Haddon
+    on Father Cochard's authority.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A hauba bird entering a village and crying at night is said to indicate that
+    someone will die.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A kangaroo hopping into a village while the men are hunting is said to indicate
+    that someone will die.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dr Haddon adds that the kangaroo was probably interpreted as the spirit of
+    the dead hunter.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A sudden gale while men are voyaging is understood as the passage of a spirit
+    and as knowledge that someone has died.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A fire must be kept alight in the house of each captain of the au nohi while
+    the craft is away on a sago-trading expedition to the Gulf.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: If the required fire goes out, ill luck may befall the au nohi.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Dreaming of being bewitched by a sorcerer is described as an evil omen, and
+    people are said to have sickened and died after such dreams.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: 'Slight shoulder aches may be read as omens: the right shoulder indicates
+    good news, while the left shoulder indicates bad news or even news of friends''
+    deaths.'
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: hauba bird
+  description: A bird whose nighttime cry in a village is treated as a death omen.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: kangaroo
+  description: A kangaroo entering a village during the men's hunt is treated as a
+    death omen and is interpreted by Haddon as probably the spirit of the dead hunter.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: spirit of the dead person
+  description: A spirit whose passage is identified with a sudden gale during voyaging.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: captains of the au nohi
+  description: The houses of these captains must keep a fire alight while the au nohi
+    is away trading for sago.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: sorcerer in a dream
+  description: A sorcerer who bewitches the dreamer in an evil-omen dream.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: death-omen animal
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both animal appearances are explicitly said to foretell that someone will
+    die.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: dead person's spirit
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The kangaroo is explained as probably the spirit of the dead hunter, and
+    the sudden gale is described as the passage of the spirit.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: voyage-associated captain
+  assigned_to:
+  - fig:4
+  basis: The fire is required in each captain's house for the whole time the au nohi
+    is away.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: dream bewitcher
+  assigned_to:
+  - fig:5
+  basis: The evil omen is specifically a dream of being bewitched by a sorcerer.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: night cry of hauba bird
+  literal_form: hauba bird entering a village and crying at night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: kangaroo entering village
+  literal_form: kangaroo hopping into a village while men are hunting
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: sudden gale
+  literal_form: gale of wind suddenly springing up during a voyage
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: kept-alight fire
+  literal_form: fire kept alight in each au nohi captain's house during the voyage
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dream of sorcery
+  literal_form: dream of being bewitched by a sorcerer
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: right shoulder ache
+  literal_form: ache in the right shoulder
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: left shoulder ache
+  literal_form: ache in the left shoulder
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: animal death omens in the village
+  summary: A hauba bird crying at night in the village and a kangaroo entering the
+    village during a hunt are each treated as signs that someone will die.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: gale as passage of a spirit
+  summary: When men are voyaging and a gale suddenly rises, the mariners understand
+    that someone has died because the gust is the passage of the spirit.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: fire maintained for the au nohi voyage
+  summary: During the au nohi's sago-trading expedition, fires must remain alight
+    in the captains' houses; if a fire goes out, ill luck may befall the craft.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: dream and bodily omens
+  summary: A dream of sorcery is an evil omen associated with sickness and death,
+    while right and left shoulder aches are read as signs of good or bad news.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal appearance as death omen
+  taxonomy_refs: []
+  basis: The passage states that a hauba bird crying in a village at night and a kangaroo
+    entering a village during a hunt both indicate that someone will die.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives examples of omen belief but does not provide a narrative
+    myth or ritual context beyond the omen statements.
+- id: motif:2
+  label: wind as passage of a dead person's spirit
+  taxonomy_refs: []
+  basis: A sudden gale during voyaging is understood as a sign that someone has died
+    because the gust is the passage of the spirit.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The destination or fuller afterlife geography of the spirit is not described.
+- id: motif:3
+  label: maintained fire guarding voyage luck
+  taxonomy_refs: []
+  basis: A fire must be kept burning in each captain's house during the au nohi's
+    absence, and the fire going out may bring ill luck to the craft.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exact mechanism linking the house fire to the vessel's luck is not
+    explained in the passage.
+- id: motif:4
+  label: dream of sorcery as evil omen
+  taxonomy_refs: []
+  basis: Dreaming of being bewitched by a sorcerer is described as an evil omen, and
+    sickness or death is said to have followed such dreams.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage reports the belief but does not narrate a specific individual
+    case.
+- id: motif:5
+  label: right-left bodily omen polarity
+  taxonomy_refs:
+  - duality
+  basis: The right shoulder ache is associated with good news, while the left shoulder
+    ache is associated with bad news or death-news.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The duality taxonomy fit is based only on the right/left good/bad contrast
+    in this short omen list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17102-17106
+  quote_or_summary: The section introduces the material as examples of belief in omens
+    reported by Dr Haddon on Father Cochard's authority.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; user-provided passage.
+- id: ev:2
+  type: summary
+  locator: 17107-17109
+  quote_or_summary: A hauba bird entering a village and crying at night, or a kangaroo
+    hopping into a village while men are hunting, is said to mean that someone will
+    die.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; user-provided passage.
+- id: ev:3
+  type: summary
+  locator: 17110-17114
+  quote_or_summary: Haddon adds that the kangaroo was probably the spirit of the dead
+    hunter; a sudden gale during voyaging is understood as the passage of the spirit
+    and as evidence that someone has died.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; user-provided passage.
+- id: ev:4
+  type: summary
+  locator: 17115-17119
+  quote_or_summary: A fire must be kept alight in each captain's house while the au
+    nohi is away on a sago-trading expedition to the Gulf; if it goes out, ill luck
+    may befall the craft.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; user-provided passage.
+- id: ev:5
+  type: summary
+  locator: 17121-17123
+  quote_or_summary: It is an evil omen to dream of being bewitched by a sorcerer,
+    and men are said to have sickened and died after such dreams.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; user-provided passage.
+- id: ev:6
+  type: summary
+  locator: 17125-17128
+  quote_or_summary: 'Slight bodily aches may be omens: the right shoulder signals
+    good news, while the left shoulder signals bad news or even news of friends''
+    deaths.'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; user-provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal omen statements are clear. Motif labels are descriptive and should
+    be reviewed for taxonomy alignment. No comparison claims were made because the
+    passage does not itself support cross-textual or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Terms such as au nohi and Motu lakatoi were retained without adding external interpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l17102-l17128
+  passage_sha256=ca765cdcf52f03f22252724a6685778c044ed271b8a97b8d81c61b86c8a6ec4d
+

@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l10844-l10863
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: DEATH, THE DELIVERER 317 / DEATH, THE DELIVERER 319 / DEATH, THE DELIVERER
+    321 / DEATH, THE DELIVERER 32 J; lines 10844-10863
+  start: '10844'
+  end: '10863'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"he shall gain the great Deliverance"; "this Great Peace, is Death"'
+  summary: The passage states that a believer who lives according to the religious
+    tenets will die happily, enter a next life with diminishing sin and attachment
+    to life, and eventually gain Deliverance described as perfect peace, rest, and
+    happiness in a heaven where his teacher has already gone. It then asks whether
+    calling this Deliverance from life, or Great Peace, Death matters if it is truly
+    Peace.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A believer is said to die happily if he lives according to the stated tenets.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The believer is said to enter a next life after death.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the next life, the believer is described as becoming less troubled by sin
+    and less attached to the lust of life.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At a distant future time, the believer is said to gain the great Deliverance.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Deliverance is described as perfect Peace, perfect rest, and perfect happiness
+    in heaven.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The heaven is described as the place where the believer's teacher went before
+    him long ago.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage explicitly asks whether Deliverance from life, or Great Peace,
+    may be called Death if it is indeed Peace.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage heading names Death as the Deliverer.
+  category: attribute
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: believer
+  description: A believer who lives according to the tenets, dies happily, enters
+    a next life, becomes less troubled by sin and attachment, and eventually gains
+    Deliverance.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the believer's teacher
+  description: The teacher is described as having gone before the believer long ago
+    to the heaven associated with perfect Peace, rest, and happiness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: religious adherent
+  assigned_to:
+  - fig:1
+  basis: The figure is called a believer and is described as living according to tenets.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: future recipient of Deliverance
+  assigned_to:
+  - fig:1
+  basis: The passage says the believer will eventually gain the great Deliverance
+    and perfect Peace.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: preceding teacher
+  assigned_to:
+  - fig:2
+  basis: The teacher is said to have gone before the believer long ago.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Death as deliverer or peace
+  literal_form: Death
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: heaven as destination of peace
+  literal_form: heaven
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Happy death and next life
+  summary: The believer, by living according to the tenets, is said to die happily
+    and enter a next life in which sin and attachment to life decrease.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Eventual Deliverance in heaven
+  summary: The believer is said to eventually gain the great Deliverance, described
+    as perfect Peace, rest, and happiness in the heaven where his teacher previously
+    went.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Deliverance identified with Death
+  summary: The passage frames Deliverance from life, or Great Peace, as something
+    that may be called Death if it is indeed Peace.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: death as deliverance and peace
+  taxonomy_refs: []
+  basis: The heading names Death as the Deliverer, and the passage asks whether Deliverance
+    from life or Great Peace may be called Death if it is Peace.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This motif is extracted from the passage's own framing; no external comparative
+    tradition is asserted.
+- id: motif:2
+  label: progressive rebirth toward liberation
+  taxonomy_refs:
+  - death_rebirth
+  basis: The believer is described as dying happily, entering a next life, becoming
+    less troubled by sin and attachment, and eventually gaining the great Deliverance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a compressed doctrinal summary rather than a detailed
+    narrative of rebirth.
+- id: motif:3
+  label: teacher precedes follower to blessed destination
+  taxonomy_refs: []
+  basis: The believer's heaven of peace is described as the place where his teacher
+    went before him long ago.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The teacher is not named in the passage, and the passage does not elaborate
+    the journey or relationship.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10844-10845
+  quote_or_summary: 'Heading: "DEATH, THE DELIVERER".'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 10846-10850
+  quote_or_summary: A believer living according to the tenets will die happily and
+    enter a next life in which he is less troubled by sin and less attached to the
+    lust of life.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10850-10853
+  quote_or_summary: The believer will eventually gain the great Deliverance, described
+    as perfect Peace, rest, and happiness in heaven where his teacher went before
+    him long ago.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 10855-10857
+  quote_or_summary: '"this Deliverance from life, this Great Peace, is Death" if it
+    is indeed Peace.'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and doctrinal rather than narrative. Literal extraction
+    is straightforward; motif assignment is cautious and limited to themes directly
+    present in the passage. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy reference used only where directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l10844-l10863
+  passage_sha256=b80f0407121032d8ba6f13f988f7efa480dbd0d7975f7f5bb9040f5bc668a6e6
+

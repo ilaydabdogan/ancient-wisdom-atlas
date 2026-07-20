@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l3758-l3782
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: OISEAN AN DEIGH NA FEINNE. / OSEAN AFTER THE FP:EN. 117 / OSEAN AFTER THE
+    FEEN. 119 / THE BARRA WIDOW'S SON. 123; lines 3758-3782
+  start: '3758'
+  end: '3782'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A woman asks a man to go on a journey according to her will. She instructs
+    him to take clothing from a shop, obtain a cargo of herring, sail with it to Spain,
+    and return to her before departure. After the cargo is aboard, he returns. She
+    gives further instructions: wear a dress on the first Sunday after reaching Spain,
+    go to church, carry a whistle, ring, and book, be accompanied by a horse and servant,
+    place the ring on his finger, read the book, observe three seats in the church,
+    and leave first unless met by the King or Queen.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman asks the man whether he is thinking that he will go yet.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man replies that he thinks he has had enough of the world with that same
+    matter.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman says he went before by his own will and asks him to go now by her
+    will; he agrees.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The woman instructs him to go to a shop, take a coat, a brigis, and a waistcoat,
+    obtain a cargo of herring, and go with it to Spain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The woman tells him to return to her before departing once the cargo is in.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: After the cargo is on board, he goes back to the woman and confirms that it
+    is aboard.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The woman provides a dress and tells him to put it on the first Sunday after
+    reaching Spain and go to church.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The woman gives or identifies a whistle, a ring, and a book for him.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The woman says that a horse and a servant should be with him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The woman instructs him to put the ring on his finger and have the book in
+    his hand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: 'The woman says he will see three seats in the church: two twisted chairs
+    of gold and a chair of silver.'
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:12
+  text: The woman instructs him to read the book, leave the church before anyone else,
+    and wait for no living person unless the King or Queen meets him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the woman
+  description: A woman who questions the man, directs his journey, and gives detailed
+    instructions and objects.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the man addressed by the woman
+  description: A man who agrees to go according to the woman's will, loads the cargo,
+    returns to her, and receives instructions for Spain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: servant
+  description: A servant who is to accompany the man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: King
+  description: A royal figure named as an exception to the instruction not to wait
+    for anyone.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Queen
+  description: A royal figure named as an exception to the instruction not to wait
+    for anyone.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: instructor
+  assigned_to:
+  - fig:1
+  basis: The woman gives the man detailed commands about preparation, travel, objects,
+    church conduct, and departure.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: giver of objects
+  assigned_to:
+  - fig:1
+  basis: The woman provides or identifies the dress, whistle, ring, and book used
+    in the next stage of the journey.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: instructed traveler
+  assigned_to:
+  - fig:2
+  basis: The man accepts the woman's direction, obtains the cargo, returns to her,
+    and is instructed to go to Spain and then church.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: attendant
+  assigned_to:
+  - fig:3
+  basis: The servant is specified as one who should be with the man.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: royal exception to waiting rule
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The King or Queen is named as the only exception to the command that the
+    man wait for no living person.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: travel garments from the shop
+  literal_form: coat, brigis, and waistcoat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: herring cargo
+  literal_form: cargo of herring to be taken to Spain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: dress for church
+  literal_form: a dress to be worn on the first Sunday after reaching Spain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: whistle
+  literal_form: whistle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ring
+  literal_form: ring to be put on the man's finger
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: book
+  literal_form: book to be held and read in church
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: horse
+  literal_form: horse to accompany the man
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: church
+  literal_form: church in Spain to be visited on the first Sunday
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: three seats in the church
+  literal_form: 'three seats: two twisted chairs of gold and one chair of silver'
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:10
+  label: first Sunday timing
+  literal_form: the first Sunday after reaching Spain
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: woman commissions the journey to Spain
+  summary: The woman asks the man to go according to her will, tells him to take clothing
+    from a shop, obtain a herring cargo, and travel with it to Spain, while returning
+    to her before leaving.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: cargo loaded and report made
+  summary: The man loads the cargo on board, returns to the woman, and confirms that
+    the cargo is aboard.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: instructions for the church in Spain
+  summary: The woman gives directions involving a dress, whistle, ring, book, horse,
+    servant, church attendance on the first Sunday in Spain, three seats, reading
+    the book, and leaving first unless met by the King or Queen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: commissioned departure to a distant land
+  taxonomy_refs:
+  - departure
+  basis: A woman directs the man to go by her will, prepare clothing and cargo, and
+    travel with the herring cargo to Spain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt contains the commissioning and preparation, but not the outcome
+    of the journey.
+- id: motif:2
+  label: special objects given before a directed task
+  taxonomy_refs: []
+  basis: Before the church episode, the woman identifies a dress, whistle, ring, and
+    book and gives precise directions for their use.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state whether the objects are magical or explain
+    their effects.
+- id: motif:3
+  label: ritualized church visit with strict timing and exit rule
+  taxonomy_refs: []
+  basis: The man must wear the dress on the first Sunday after reaching Spain, go
+    to church, hold and read the book, observe three seats, leave first, and wait
+    for no one except the King or Queen.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The function of the church visit and seating arrangement is not explained
+    in this excerpt.
+- id: motif:4
+  label: royal encounter as exception to a prohibition
+  taxonomy_refs: []
+  basis: The woman commands him not to wait for any living person unless the King
+    or Queen meets him.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage only names the possible royal encounter; it does not show
+    the encounter occurring.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage has the same narrative function as a departure motif: a directing
+    figure sends a traveler away with preparations and instructions for a distant
+    destination.'
+  claim_level: same_function
+  target: departure motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the departure and preparation are present in the excerpt; later
+    journey events are not included.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3758-3767
+  quote_or_summary: The woman questions the man about going, asks him to go now according
+    to her will, and instructs him to take a coat, brigis, and waistcoat from a shop,
+    obtain a herring cargo, go to Spain, and return to her before departing.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 3768-3772
+  quote_or_summary: After getting the cargo on board, the man goes to the woman and
+    confirms that the cargo is aboard.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 3773-3782
+  quote_or_summary: The woman gives instructions about a dress to wear on the first
+    Sunday in Spain, going to church, a whistle, ring, and book, having a horse and
+    servant, wearing the ring, holding and reading the book, seeing three church seats
+    of gold and silver, leaving first, and waiting only if met by the King or Queen.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage gives clear actions, objects, and instructions. Motif labels
+    remain provisional because the excerpt does not provide the outcome or explain
+    the purpose of the objects and church episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy symbol refs were assigned because the salient objects in the excerpt are not among the provided symbol taxonomy entries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l3758-l3782
+  passage_sha256=5bbff09aa2d1ebcff6626cdc3c8f030ef13bff1fe87623068ffcd07a12b52f2a
+

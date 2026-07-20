@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l17291-l17327
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: 'REGULATION OF THE COMMUNAL LIFE / VOL. I / CHAPTER XIV / ETIQUETTE : THE
+    LAWS OF POLITE BEHAVIOUR; lines 17291-17327'
+  start: '17291'
+  end: '17327'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Ila rules of polite speech in which spouses, children,
+    and near relations avoid speaking personal names or ordinary words contained within
+    those names. Substitute terms are used instead; breach of the rule is described
+    as cursing or despising and may incur a small fine. The rule is also applied in
+    polite address to Europeans with native names.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man gives his bride a new name and may not call her by her maiden name,
+    at least before the birth of the first child.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A wife may not speak her husband's name; the passage says doing so is to curse
+    him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Spouses may not use ordinary words that occur in each other's names; substitute
+    expressions are used for such words.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Children and near relations on both sides are also said to follow the avoidance
+    rule with substitute terms.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Offending against the rule is described with terms glossed as cursing or despising,
+    and a person could claim a fine of one or two hoes for a breach.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage presents the avoidance of pointed references to things contained
+    in an addressee's name as an act of politeness, including in the case of Europeans
+    with native names.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: husband or man named Shamatanga
+  description: A husband or man in the example whose name contains the word for melons.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: wife or bride named Kalubi
+  description: A wife or bride in the example whose name is a shortened form of the
+    name of a kind of mushroom.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: children
+  description: Children of the couple who must use substitute terms for objects connected
+    with the parents' names.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: near relations on both sides
+  description: The wife's father, mother, and sisters, and the man's brother, father,
+    and mother are included in the avoidance rule.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: person addressed by a native name such as Kandiata
+  description: A European friend named Kandiata, glossed as Mr. Kicker, is given as
+    an example of someone in whose presence a related word is avoided.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: spouse under reciprocal name-avoidance rule
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the husband may not call the bride by her maiden name and
+    the wife may not speak the husband's name; each avoids ordinary words contained
+    in the other's name.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: kin bound by extended avoidance rule
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The rule extends to the children and to near relations on both sides.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: person whose name governs polite substitutions
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:5
+  basis: Words entering into a person's name are avoided in speech addressed to or
+    around that person, with substitute terms used instead.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: avoided name or name-component
+  literal_form: Personal names and ordinary words contained within them, such as matanga
+    for melons, kalubilubi for a mushroom, and Kandiata connected with kicking.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: substitute speech term
+  literal_form: Replacement expressions such as “my husbands,” “my wives,” “father's
+    namesakes,” “mother's namesakes,” and a substituted verb meaning “to beat.”
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: fine for breach
+  literal_form: One or two hoes claimed as a fine for breaking the rule.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Spousal name avoidance
+  summary: The passage states that a husband and wife avoid speaking each other's
+    names and avoid ordinary words contained in those names.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Extension of rule to children and relatives
+  summary: Children and near relations on both sides use substitute terms for the
+    objects whose names enter into the names of their parents or relatives.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Breach and fine
+  summary: Breaking the avoidance rule is described as cursing or despising and may
+    result in a claim for a fine of one or two hoes.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Polite substitution in address
+  summary: The passage generalizes the rule as politeness and gives an example in
+    which a word connected to a person's native name is replaced by another word in
+    his presence.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: name avoidance within marriage and kinship
+  taxonomy_refs: []
+  basis: The passage repeatedly describes rules preventing spouses, children, and
+    near relations from speaking personal names or ordinary words embedded in those
+    names.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic etiquette pattern rather than a narrative myth
+    motif; no direct available taxonomy reference fits it.
+- id: motif:2
+  label: euphemistic substitution to avoid curse or disrespect
+  taxonomy_refs: []
+  basis: The text links prohibited speech with cursing or despising and gives multiple
+    substitute expressions used in place of avoided words.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes social politeness and sanction; it does not present
+    a mythic episode or supernatural narrative beyond the gloss of cursing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17291-17296
+  quote_or_summary: A man gives his bride a new name and may not call her by her maiden
+    name before the first child; the wife may not speak the husband's name, which
+    is glossed as cursing him.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 17296-17305
+  quote_or_summary: In the Shamatanga and Kalubi example, the wife avoids the word
+    for melons and the husband avoids the proper name of the mushroom; children use
+    terms glossed as father's or mother's namesakes.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence with brief terms.
+- id: ev:3
+  type: summary
+  locator: lines 17305-17310
+  quote_or_summary: The rule extends to near relations on both sides, including the
+    wife's parents and sisters and the man's brother and parents, who use substitute
+    namesake terms.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 17311-17316
+  quote_or_summary: Offending against the rule is named with terms glossed as to curse
+    or to despise; although the rule is sometimes broken, it remains a fault and can
+    lead to a fine of one or two hoes.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 17317-17327
+  quote_or_summary: Avoiding pointed reference to a thing whose name enters into an
+    addressee's name is called polite; a person named Kandiata, Mr. Kicker, reports
+    that speakers replace the word for kicking with a word meaning to beat in his
+    presence.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence with brief terms.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is well supported by the passage. Motif labels are
+    descriptive because the supplied taxonomy has no direct name-taboo or speech-avoidance
+    family. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references left empty where unsupported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l17291-l17327
+  passage_sha256=a61202e8f6a14fa4efabb7f5d97c03e395509b3238450a395a8af93f9359de2a
+

@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l2785-l2827
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE TWO SHEPHERDS. 97 / THE TWO SHEPHERDS. 99 / THE TWO SHEPHERDS. 101 /
+    AATEST HIGHLAND TALES.; lines 2785-2827
+  start: '2785'
+  end: '2827'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Ian receives advice and a blessing from an Oracle before setting out to
+    avenge his friend. After sunset on the Mile Reith he battles the Coluinn, a being
+    that cannot be seen in daylight, wins, and carries him toward light. The Coluinn
+    asks to be released, promises never to be seen there again, swears on named objects,
+    and is freed. He flies away singing a lament that the passage says is still sung
+    by women to children in that country.
+  language: English with Scottish Gaelic quoted speech and song
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ian seeks advice before undertaking the exploit and receives a blessing before
+    departure.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The adviser tells him to go and avenge the blood of his friend.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ian sets out on a circuitous journey and meets the Coluinn after sunset on
+    the Mile Reith.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A battle occurs, and the Coluinn must be away before sunrise because he cannot
+    be seen in daylight.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ian wins and carries the Coluinn under his arm toward the nearest light to
+    get a sight of him and prove the victory.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Coluinn had not been heard to speak before, but while captured he asks
+    to be let go.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Ian repeatedly refuses to let the Coluinn go.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Coluinn promises that if released he will never be seen there again.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Ian requires the Coluinn to swear on the book, the candle, and the black stocking.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: After the Coluinn makes the promise on his knees, Ian releases him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The Coluinn flies away singing a doleful lament about being far from the hill
+    of Ben Hederin and the pass of murmuring.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The passage states that the lament is still sung by women in that country
+    to their children, with a tune attributed to tradition.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ian
+  description: Named protagonist who seeks advice, journeys, defeats the Coluinn,
+    compels an oath, and releases him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the Coluinn
+  description: Opponent encountered after sunset; cannot be seen in daylight; is captured,
+    asks for release, swears not to return, and flies away singing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: female adviser / Oracle
+  description: A female figure whose advice Ian seeks and whose blessing accompanies
+    his departure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ian's friend
+  description: Friend whose blood Ian is advised to avenge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: women in that country
+  description: Women said to sing the Coluinn's lament to their children.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: victorious combatant and oath-enforcer
+  assigned_to:
+  - fig:1
+  basis: Ian fights the Coluinn, wins, carries him toward light, and releases him
+    only after an oath.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: night-bound opponent and captive
+  assigned_to:
+  - fig:2
+  basis: The Coluinn is met after sunset, cannot be seen in daylight, is captured,
+    and negotiates release.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: adviser and blesser
+  assigned_to:
+  - fig:3
+  basis: Ian seeks her advice, and the passage mentions a blessing from the Oracle
+    before he sets out.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: motive for vengeance
+  assigned_to:
+  - fig:4
+  basis: The adviser tells Ian to avenge the blood of his friend.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: bearers of song tradition
+  assigned_to:
+  - fig:5
+  basis: The passage says women in that country still sing the lament to children.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: daylight and nearest light
+  literal_form: daylight; nearest light
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: oath objects
+  literal_form: the book, the candle, and the black stocking
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hill of Ben Hederin
+  literal_form: the hill of Ben Hederin named in the lament
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: pass of murmuring
+  literal_form: the pass of murmuring named in the lament
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: kneeling promise
+  literal_form: the Coluinn makes the promise on his knees
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: consultation and departure
+  summary: Ian asks a female adviser or Oracle for counsel, is told to avenge his
+    friend, receives a blessing, and sets out.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: night battle on the Mile Reith
+  summary: Ian meets the Coluinn after sunset on the Mile Reith; they fight, and the
+    Coluinn must leave before sunrise because he cannot be seen in daylight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: capture, speech, oath, and release
+  summary: Ian carries the defeated Coluinn toward light. The Coluinn asks for release
+    and promises never to appear there again; Ian requires an oath on the book, candle,
+    and black stocking, after which he releases him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: departure lament and later singing
+  summary: The Coluinn flies away singing a lament about distant places, and the passage
+    links the lament to a children's song tradition among local women.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: oracle-guided revenge expedition
+  taxonomy_refs:
+  - wisdom
+  basis: Ian consults an Oracle-like adviser, receives a blessing, and sets out to
+    avenge his friend's blood.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is fragmentary at the beginning, and the identity of the female
+    adviser and the Oracle is inferred from close wording rather than fully explained.
+- id: motif:2
+  label: night-bound being defeated and threatened with daylight exposure
+  taxonomy_refs: []
+  basis: The Coluinn cannot be seen in daylight, must depart before sunrise, and is
+    carried by Ian toward the nearest light after defeat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not define what kind of being the Coluinn is beyond these
+    stated attributes.
+- id: motif:3
+  label: release obtained through oath of nonreturn
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Coluinn secures release by promising never to be seen there again and
+    swearing on the book, candle, and black stocking.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The oath objects are named, but the passage does not explain their ritual
+    meaning.
+- id: motif:4
+  label: lamenting departure preserved as local children's song
+  taxonomy_refs:
+  - departure
+  basis: After release the Coluinn flies away singing a lament, and the passage says
+    the same words and air are still sung by women to children.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The continuity of the tune is reported as tradition within the passage
+    and is not externally verified here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2785-2791
+  quote_or_summary: Ian seeks advice before an exploit; the adviser tells him to avenge
+    his friend's blood, and he departs with a blessing from the Oracle.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2791-2797
+  quote_or_summary: After sunset on the Mile Reith Ian meets the Coluinn; a battle
+    follows, and the Coluinn must leave before sunrise because he cannot be seen in
+    daylight. Ian is victorious.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2797-2804
+  quote_or_summary: Ian carries the Coluinn under his arm toward the nearest light
+    in order to see him and prove the victory; the previously silent Coluinn asks
+    to be let go, and Ian refuses.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2804-2812
+  quote_or_summary: The Coluinn promises never to be seen there again; Ian demands
+    an oath on the book, the candle, and the black stocking; after the Coluinn promises
+    on his knees, Ian frees him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2812-2827
+  quote_or_summary: The Coluinn flies off singing a doleful lament about the hill
+    of Ben Hederin and the pass of murmuring; the passage says the words are still
+    sung by women to their children with the traditional air.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range. The opening is fragmentary,
+    so the adviser/Oracle relationship and immediate narrative context need review.
+    No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; all interpretive motif labels are provisional.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l2785-l2827
+  passage_sha256=ca072314ac0ff1fe30f636b6d4b55a4aa5cb7238bac398840a979c8b421ac18e
+

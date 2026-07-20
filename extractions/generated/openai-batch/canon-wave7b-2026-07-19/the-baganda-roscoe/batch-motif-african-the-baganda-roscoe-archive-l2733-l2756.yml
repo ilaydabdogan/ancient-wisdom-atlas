@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l2733-l2756
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  39 / I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  41
+    / I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  43 / I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  45;
+    lines 2733-2756
+  start: '2733'
+  end: '2756'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Baganda forms of thanks for favours or gifts, including
+    spoken words, kneeling, hand movements, prostration for profuse thanks, women’s
+    less vigorous performance of the gesture, and communal participation by those
+    present.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that, unlike many Bantu tribes as described by the author,
+    people in Uganda had forms and words for expressing gratitude and pleasure for
+    even small gifts or favours.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When an inferior received a favour from a superior, he knelt, put his hands
+    together, moved them over the right shoulder and down to the knees, slightly parted
+    them, and repeated the action.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The duration of the repeated gesture varied according to the value of the
+    gift and the recipient’s pleasure in it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: During the gesture, the recipient said words translated as “Thank you,” given
+    as nyanze or webale.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: For profuse thanks, the recipient put his face to the floor to show adoration
+    of the giver.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Women thanked husbands or friends for gifts in the same manner, but their
+    movements are described as less demonstrative or vigorous than men’s.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When someone thanked another for benefits received, all present joined the
+    recipient in a chorus of thanks.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: inferior recipient
+  description: A person of lower status receiving a favour from a superior and performing
+    thanks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: superior giver
+  description: A higher-status person who gives a favour to an inferior and receives
+    thanks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: women recipients
+  description: Women who thank a husband or friend for a gift in the described manner,
+    though less vigorously than men.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: husband or friend
+  description: A person thanked by a woman for a gift.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: all present
+  description: People present who join the recipient in a chorus of thanks.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: recipient of favour or gift
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes people receiving favours, benefits, or gifts and performing
+    thanks.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: giver or benefactor
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The passage describes a superior, husband, or friend as the person who gives
+    a favour or gift and is thanked.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: communal participants in thanks
+  assigned_to:
+  - fig:5
+  basis: The passage states that all present joined the recipient in a chorus of thanks.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: kneeling thanksgiving gesture
+  literal_form: Kneeling with hands together, moving them over the right shoulder
+    and down to the knees, then repeating the movement.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: spoken thanks
+  literal_form: Words translated as “Thank you,” given as nyanze or webale.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: face-to-floor prostration
+  literal_form: Putting the face to the floor during profuse thanks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: chorus of thanks
+  literal_form: All present join the recipient in thanks.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: inferior thanks superior for favour
+  summary: An inferior who receives a favour from a superior kneels, performs repeated
+    hand movements, and speaks words of thanks; the intensity and duration correspond
+    to the gift’s value and the recipient’s pleasure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: profuse thanks by prostration
+  summary: When thanks are profuse, the recipient places his face to the floor to
+    show adoration of the giver.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: women thank husband or friend
+  summary: Women thank a husband or friend for gifts using the same general manner,
+    but with movements described as less demonstrative or vigorous than men’s.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: communal chorus of thanks
+  summary: When a person thanks another for benefits, those present join the recipient
+    and make a chorus of thanks.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ritualized thanksgiving after a favour or gift
+  taxonomy_refs: []
+  basis: The passage describes a patterned sequence of spoken thanks, kneeling, hand
+    movements, and sometimes prostration after receiving a favour or gift.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is ethnographic description rather than a mythic narrative.
+- id: motif:2
+  label: communal amplification of gratitude
+  taxonomy_refs: []
+  basis: The passage states that all present join the recipient, forming a chorus
+    of thanks when benefits are acknowledged.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only one brief sentence supports this pattern.
+- id: motif:3
+  label: hierarchical gratitude between recipient and benefactor
+  taxonomy_refs: []
+  basis: The described thanksgiving is framed in terms of an inferior receiving a
+    favour from a superior, with gestures of kneeling and prostration directed toward
+    the giver.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not present a mythic or sacred context for the hierarchy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2737-2743
+  quote_or_summary: The author contrasts many Bantu tribes with Uganda, stating that
+    Baganda have forms and words expressing gratitude and pleasure even for small
+    trifles.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 2744-2751
+  quote_or_summary: An inferior receiving a favour from a superior kneels, places
+    hands together, moves them over the right shoulder and down to the knees, parts
+    them slightly, and repeats the action for a duration tied to the gift’s value
+    and his pleasure.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: quote
+  locator: lines 2751-2752
+  quote_or_summary: he said " Thank you," nyanze or webale.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 2752-2754
+  quote_or_summary: When thanks were profuse, the recipient put his face to the floor
+    to show adoration of the giver.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 2754-2756
+  quote_or_summary: Women thanked husbands or friends for gifts in this manner, but
+    with movements described as less demonstrative or vigorous than men’s.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 2756-2756
+  quote_or_summary: When a person thanked another for benefits, all present joined
+    the recipient in a chorus of thanks.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The customary actions and speech are explicit in the passage. Motif labels
+    are descriptive and not linked to broader taxonomy because the passage is ethnographic
+    and not explicitly mythological.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another corpus or motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l2733-l2756
+  passage_sha256=c4b581058649a9f1b0e02752187fb3697e54b6d1a7b2cd3cbfecdab96cca38f9
+

@@ -1,0 +1,182 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l10705-l10720
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: PT. V / THE INGOMANTAMBWE AND INDANDALA. / CH. XXV / THE BA-ILA AT PLAY;
+    lines 10705-10720
+  start: '10705'
+  end: '10720'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: They abound in words and phrases of not a bit more meaning than "Hi-tiddeley-hi-ti"
+    or "Ta-ra-ra-boom-de-ay."
+  summary: The passage introduces an ethnographic comment on Ba-Ila songs at play.
+    It says the songs are hard to translate, include many nonsemantic words or phrases,
+    and contain grammatical forms absent from ordinary Ila speech but recognizable
+    in other Bantu languages.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage appears under the chapter heading “THE BA-ILA AT PLAY.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the songs are not easy to translate, even for someone well
+    acquainted with the language.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The songs are described as containing many words and phrases with no more
+    meaning than English-style nonsense refrains.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says Ila songs contain grammatical forms not found in ordinary
+    speech.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says a philologist can recognize some of those grammatical forms
+    in other Bantu languages.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ba-Ila
+  description: The people named in the chapter heading and associated with the play
+    songs discussed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: philologist
+  description: A linguistic specialist mentioned as finding the song forms especially
+    interesting and recognizing them in other Bantu languages.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: people associated with the songs
+  assigned_to:
+  - fig:1
+  basis: The chapter heading names the Ba-Ila at play, and the passage refers specifically
+    to Ila songs.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: linguistic observer
+  assigned_to:
+  - fig:2
+  basis: The passage says a philologist finds the songs interesting because of grammatical
+    forms that can be recognized in other Bantu languages.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Ethnographic note on Ba-Ila songs
+  summary: The passage comments on Ba-Ila songs, emphasizing their difficulty of translation,
+    their nonsemantic refrains, and their preservation of grammatical forms comparable
+    to other Bantu languages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Nonsemantic refrain in song
+  taxonomy_refs: []
+  basis: The passage says the songs abound in words and phrases with no more meaning
+    than nonsense refrains such as “Hi-tiddeley-hi-ti” or “Ta-ra-ra-boom-de-ay.”
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a song-pattern observation, not a mythological motif in the supplied
+    taxonomy.
+- id: motif:2
+  label: Song preserving nonordinary or archaic grammatical forms
+  taxonomy_refs: []
+  basis: The passage says Ila songs contain grammatical forms not used in ordinary
+    speech but recognizable in other Bantu languages.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no specific forms or complete linguistic examples in
+    this line range.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious linguistic comparison between forms found
+    in Ila songs and forms recognized in other Bantu languages.
+  claim_level: linguistic_similarity
+  target: other Bantu languages
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names no specific Bantu languages and provides no full
+    examples of the grammatical forms in this excerpt.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 10705-10707
+  quote_or_summary: 'Chapter heading: “CH. XXV / THE BA-ILA AT PLAY.”'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 10707-10710
+  quote_or_summary: "“It is not easy, even for one well acquainted with the language,
+    to translate these songs.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 10710-10712
+  quote_or_summary: "“They abound in words and phrases of not a bit more meaning than
+    ‘Hi-tiddeley-hi-ti’ or ‘Ta-ra-ra-boom-de-ay.’”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 10713-10719
+  quote_or_summary: "“one finds in Ila songs” grammatical forms “not in the ordinary
+    speech” but recognizable “in other Bantu languages.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short, ethnographic rather than narrative, and appears partially
+    interrupted by a photo caption. Motif candidates are cultural or linguistic song-patterns
+    rather than mythic motifs from the supplied taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy symbol or motif family is directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l10705-l10720
+  passage_sha256=335bbcb2b7aa5b4b4f66f18107313dd800662a398640b79e86b45c6845201f7f
+

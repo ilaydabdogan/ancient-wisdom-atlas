@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l21435-l21442
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: SWAN-MAIDENS.  429 / WOOD-WIVES.  431 / WOOD-WIVES.      MENNI.  433 / MENXI.      MERIMANNI.  435;
+    lines 21435-21442
+  start: '21435'
+  end: '21442'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives lexical notes on sudice, parca, and parka; notes lichoplezi
+    as a group of three compared with sirens and mermaids; states that the Bulgarian
+    samodiva or samovila corresponds to the Servian vila; and describes a wounded
+    Pomak calling a samodiva his sister, after which she comes and cures him. It also
+    says samodivy carry off children.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Bohemian sudice translates parca but simply means a female
+    judge, and that Russians adopt the word parka.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lichoplezi in Hanka's Glosses are said to be three, like sirens and mermaids.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Bulgarian samodiva or samovila is said to correspond to the Servian vila.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A wounded Pomak cries to his 'sister' samodiva; she comes and cures him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The samodivy carry off children.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: lichoplezi
+  description: A group mentioned from Hanka's Glosses, said to be three and compared
+    with sirens and mermaids.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: sirens and mermaids
+  description: Comparative figures used as a reference for the lichoplezi being three.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: samodiva / samovila / samodivy
+  description: Bulgarian being corresponding to the Servian vila; one is addressed
+    as 'sister' by a wounded Pomak, comes, and cures him; the plural samodivy carry
+    off children.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Servian vila
+  description: Figure to which the Bulgarian samodiva or samovila is said to correspond.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: wounded Pomak
+  description: A wounded person who cries to his 'sister' samodiva and is cured by
+    her.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: children
+  description: Children are said to be carried off by the samodivy.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: triadic group
+  assigned_to:
+  - fig:1
+  basis: The lichoplezi are said to be three.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: comparative triadic reference
+  assigned_to:
+  - fig:2
+  basis: Sirens and mermaids are invoked as beings that are three, like the lichoplezi.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: healer
+  assigned_to:
+  - fig:3
+  basis: The samodiva comes and cures the wounded Pomak.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: child-carrier-off
+  assigned_to:
+  - fig:3
+  basis: The samodivy are said to carry off children.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: corresponding vila figure
+  assigned_to:
+  - fig:4
+  basis: The Servian vila is named as corresponding to the Bulgarian samodiva or samovila.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: wounded supplicant
+  assigned_to:
+  - fig:5
+  basis: The wounded Pomak cries to his 'sister' samodiva before being cured.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: carried-off children
+  assigned_to:
+  - fig:6
+  basis: Children are the objects carried off by the samodivy.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: threefold number
+  literal_form: three
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sister address
+  literal_form: "'sister'"
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Lexical and comparative notes
+  summary: The passage gives terms for sudice, parca, and parka, then notes the lichoplezi
+    as three like sirens and mermaids.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: South Slavic correspondence
+  summary: The Bulgarian samodiva or samovila is identified as corresponding to the
+    Servian vila.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Samodiva heals the wounded Pomak
+  summary: The wounded Pomak addresses the samodiva as his sister; she comes and cures
+    him.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Samodivy carry off children
+  summary: The samodivy are said to carry off children.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: triadic supernatural female or liminal beings
+  taxonomy_refs: []
+  basis: The lichoplezi are said to be three and are compared with sirens and mermaids.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage only states the number and comparison; it does not describe
+    actions or attributes of the lichoplezi.
+- id: motif:2
+  label: supernatural healer summoned as sister
+  taxonomy_refs: []
+  basis: A wounded Pomak calls to his 'sister' samodiva; she comes and cures him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The wider kinship or ritual meaning of the 'sister' address is not explained
+    in the passage.
+- id: motif:3
+  label: supernatural beings carrying off children
+  taxonomy_refs: []
+  basis: The passage states that the samodivy carry off children.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the destination, motive, or outcome of the
+    carrying off.
+- id: motif:4
+  label: regional correspondence of vila-type beings
+  taxonomy_refs: []
+  basis: The passage explicitly says the Bulgarian samodiva or samovila corresponds
+    to the Servian vila.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a comparative identification rather than a narrative motif in
+    the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly identifies the Bulgarian samodiva or samovila as corresponding
+    to the Servian vila.
+  claim_level: linguistic_similarity
+  target: Servian vila
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt gives no further traits of the Servian vila beyond the
+    asserted correspondence.
+- id: claim:2
+  claim: The lichoplezi are cautiously comparable to sirens and mermaids as a threefold
+    group.
+  claim_level: same_motif
+  target: sirens and mermaids as triadic beings
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is limited to the stated threefold number; no shared
+    narrative function is supplied.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21435-21436
+  quote_or_summary: '"The Bohem. sudice translates parca, but it simply means judge
+    (fem.)"; Russians adopt the word parka.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 21436-21438
+  quote_or_summary: The lichoplezi in Hanka's Glosses "are said to be three, like
+    the sirens and mermaids."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 21440-21440
+  quote_or_summary: '"The Bulgarian samodiva or samovila corresponds to the Servian
+    vila."'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 21441-21442
+  quote_or_summary: When the wounded Pomak cries to his "sister" samodiva, "she comes
+    and cures him."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 21442-21442
+  quote_or_summary: '"The samodivy carry off children"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and partly lexical; the final sentence is truncated
+    after an additional clause, so only complete statements are used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the available motif and symbol lists do not directly match the attested details in this excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l21435-l21442
+  passage_sha256=55063656fe8326eb7a07d2de4f5e48c380bcd03a8c73a1f69c8b8c759a99dd1f
+

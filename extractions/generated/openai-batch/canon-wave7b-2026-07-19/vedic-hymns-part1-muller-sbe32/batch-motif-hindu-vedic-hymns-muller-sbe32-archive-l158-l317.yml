@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l158-l317
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: F. MAX MULLER / PART I / INTRODUCTION / COHTEN TS,; lines 158-317
+  start: '158'
+  end: '317'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    HYMNS TO THE MARUTS, RUDRA,
+    VAYU, AND VATA
+  summary: The passage is front matter and a contents listing for Part I of the volume.
+    It names hymns to the Maruts, Rudra, Vayu, and Vata, and lists hymn headings involving
+    the Unknown God, Indra, Agni, the Maruts, Agastya, Soma, and Rudra. One contents
+    entry identifies Rudra as the Father of the Maruts.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents Part I as containing hymns to the Maruts, Rudra, Vayu,
+    and Vata.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list several Mandala X hymn headings, including the Unknown God,
+    Indra and the Maruts, Agni and the Maruts, the Maruts, and the Maruts and Indra.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A contents entry names a dialogue between Indra and Agastya.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Later contents entries list hymns involving Agni and the Maruts, the Maruts,
+    Rudra, Soma and Rudra, and Vata.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One contents entry explicitly describes Rudra as the Father of the Maruts.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Maruts
+  description: Named repeatedly as subjects in the Part I title and contents entries.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Rudra
+  description: Named in the Part I title and contents entries; one entry calls Rudra
+    the Father of the Maruts.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Vayu
+  description: Named in the Part I title as a hymn subject.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Vata
+  description: Named in the Part I title and in a Mandala X contents entry.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: Unknown God
+  description: Named as a Mandala X hymn heading.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Indra
+  description: Named in contents entries with the Maruts and in a dialogue heading
+    with Agastya.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:7
+  name_or_label: Agni
+  description: Named in contents entries with the Maruts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:8
+  name_or_label: Agastya
+  description: Named in a contents entry for a dialogue with Indra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Soma
+  description: Named in a contents entry with Rudra.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hymn or contents-entry subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  basis: These figures are named in the Part I title or in hymn headings in the contents
+    list.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: dialogue participant
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: The contents list a dialogue between Indra and Agastya.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: father
+  assigned_to:
+  - fig:2
+  basis: A contents entry identifies Rudra as the Father of the Maruts.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: figures related to named father
+  assigned_to:
+  - fig:1
+  basis: The same contents entry identifies the Maruts as those of whom Rudra is father.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Referenced dialogue between Indra and Agastya
+  summary: The contents list a hymn section as a dialogue between Indra and Agastya,
+    but the passage does not include the dialogue itself.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Divine parent-child relationship
+  taxonomy_refs:
+  - divine_parent_child
+  basis: A contents entry identifies Rudra as the Father of the Maruts.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The evidence is a table-of-contents heading rather than a narrative passage
+    or hymn text, so it establishes a named relationship but gives no episode or developed
+    motif context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 158-317; Part I title block
+  quote_or_summary: '"HYMNS TO THE MARUTS, RUDRA, VAYU, AND VATA"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:2
+  type: summary
+  locator: lines 158-317; Mandala X contents entries
+  quote_or_summary: The contents list Mandala X headings including the Unknown God,
+    Indra and the Maruts, Agni and the Maruts, the Maruts, and the Maruts and Indra.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 158-317; Mandala X contents entries
+  quote_or_summary: '"Dialogue between Indra and Agastya"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:4
+  type: summary
+  locator: lines 158-317; later contents entries
+  quote_or_summary: The contents list additional entries for Agni and the Maruts,
+    the Maruts, Rudra, Soma and Rudra, Vata, and the heading "Rudra, the Father of
+    the Maruts."
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized evidence with brief quoted
+    title.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily title and contents material, so named figures and
+    a parent-child relationship can be extracted, but narrative motifs are limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols were extracted because the passage lists names and headings but does not present literal symbolic objects from the available symbol taxonomy.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l158-l317
+  passage_sha256=22588c68a77f2ac1c439440e47bef8a3cd7c54d8c14f7533bac2ced0fac98178
+

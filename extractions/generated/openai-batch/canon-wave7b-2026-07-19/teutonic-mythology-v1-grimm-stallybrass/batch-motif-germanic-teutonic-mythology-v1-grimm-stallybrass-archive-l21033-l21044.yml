@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l21033-l21044
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: KORNI.      WALACHUKIUN.  417 / UILD.      GUND.      DRUD.  423 / WALACHURIUN.  425
+    / SWAN-MAIDENS.  427; lines 21033-21044
+  start: '21033'
+  end: '21044'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Footnotes list lexical references around Sigelint/Sigeline and Latin fel
+    draconis; cite tale and legend sources for “the swan-chain”; and compare Schwanring/Swaneflngel
+    examples involving a swan’s wing, a ring, a scutcheon, and a phrase about removing
+    a ring and mask from a pseudonym.
+  language: English with German and Latin terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says a “jilant” is named, the author supposes, from Sigelint, and lists
+    forms including cigelinta, cigelinde, sigeline, and Latin fel draconis.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage cites Kindermärchen no. 49, Deutsche Sagen 2, 292-5, and Adalb.
+    Kuhn p. 164 in connection with “the swan-chain.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A comparison reference identifies “the Schwanrings of Plesse” as carrying
+    a swan’s wing and a ring on their scutcheon.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A document of 1441 names Johannes Swaneflngel with legal and ecclesiastical
+    titles.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A pamphlet of 1617 is said to contain a phrase about tearing the ring and
+    mask off a pseudonym.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sigelint
+  description: Name from which a “jilant” is supposed to be named in the lexical note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Schwanrings of Plesse
+  description: Group or family named in a comparison reference; they carry a swan’s
+    wing and ring on their scutcheon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Johannes Swaneflngel
+  description: Person named in a document of 1441 as decretorum doctor and decanus
+    ecclesiae majoris Hildesemensis.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: lexical name referent
+  assigned_to:
+  - fig:1
+  basis: The passage treats Sigelint as the presumed source of a named “jilant.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bearers of swan wing and ring on scutcheon
+  assigned_to:
+  - fig:2
+  basis: The Schwanrings of Plesse are described as carrying a swan’s wing and ring
+    on their scutcheon.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named historical officeholder in cited document
+  assigned_to:
+  - fig:3
+  basis: The passage cites a 1441 document naming Johannes Swaneflngel and giving
+    his titles.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dragon gall lexical phrase
+  literal_form: cigelinta fel draconis
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: swan-chain
+  literal_form: the swan-chain
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: swan wing
+  literal_form: a swan’s wing on a scutcheon
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ring
+  literal_form: a ring on a scutcheon; a ring in the 1617 phrase about a pseudonym
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: mask
+  literal_form: mask in the phrase about tearing the ring and mask off a pseudonym
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: scutcheon
+  literal_form: heraldic scutcheon bearing a swan’s wing and ring
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Lexical note on Sigelint-related forms
+  summary: The passage gives a lexical note connecting a named “jilant” with Sigelint
+    and related forms, including fel draconis.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bibliographic note on the swan-chain
+  summary: The passage lists several references for “the swan-chain.”
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Swan-ring heraldic and name references
+  summary: The passage compares Schwanring heraldry, a Swaneflngel document name,
+    and a 1617 phrase involving a ring and mask.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: swan-chain
+  taxonomy_refs: []
+  basis: The passage explicitly names “the swan-chain” and cites folklore/legend sources
+    for it.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt supplies only a motif label and bibliographic references;
+    it gives no narrative details about the chain.
+- id: motif:2
+  label: swan wing and ring as heraldic emblem
+  taxonomy_refs: []
+  basis: The Schwanrings of Plesse are described as bearing both a swan’s wing and
+    a ring on their scutcheon.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a heraldic object pattern in the excerpt, not a narrated mythic
+    episode.
+- id: motif:3
+  label: ring and mask removed from a pseudonym
+  taxonomy_refs: []
+  basis: The passage cites a 1617 phrase about tearing the ring and mask off a pseudonym.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The wording is metaphorical or polemical in a pamphlet; the excerpt does
+    not present it as a mythological motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage places “the swan-chain” in a comparative source cluster by citing
+    Kindermärchen no. 49, Deutsche Sagen 2, 292-5, and Adalb. Kuhn p. 164.
+  claim_level: same_motif
+  target: swan-chain references in Kindermärchen, Deutsche Sagen, and Adalb. Kuhn
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only citations and the motif label are given; no episode or function
+    is described in this excerpt.
+- id: claim:2
+  claim: The Schwanrings of Plesse are offered as a comparison involving swan and
+    ring imagery through their heraldic scutcheon.
+  claim_level: visual_similarity
+  target: Schwanrings of Plesse in Deutsche Sagen no. 540
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is visual and nominal; the excerpt does not state a
+    narrative or historical connection to the swan-chain.
+- id: claim:3
+  claim: The 1441 name Johannes Swaneflngel is included as an additional swan-related
+    name attestation near the Schwanring comparison.
+  claim_level: linguistic_similarity
+  target: Johannes Swaneflngel in a 1441 document
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt gives a documentary name only and does not connect the
+    person to a mythic narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21033-21035
+  quote_or_summary: The note says a “jilant” is supposedly named from Sigelint and
+    lists cigelinta fel draconis, cigelinde, and sigeline among lexical references.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 21037-21039
+  quote_or_summary: "“Kinderm. no. 49. Deutsche sagen 2, 292-5. Adalb. Kuhn p. 164,
+    the swan-chain.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 21041-21043
+  quote_or_summary: A comparison is made to Deutsche Sagen no. 540, “the Schwanrings
+    of Plesse,” who carry a swan’s wing and ring on their scutcheon.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 21043-21044
+  quote_or_summary: A document of 1441 is said to name Johannes Swaneflngel, decretorum
+    doctor and dean of the major church of Hildesheim.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 21044-21044
+  quote_or_summary: A 1617 pamphlet uses the phrase “to tear the ring and mask off
+    this pseudonym.”
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a dense set of footnotes and bibliographic references, with
+    some OCR uncertainty such as “jilant” and “Swaneflngel.” Motif extraction is limited
+    because little narrative content is provided.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif-family reference was assigned because the excerpt does not explicitly describe swan-maiden transformation, shapeshifting, or a narrative action.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l21033-l21044
+  passage_sha256=21339fc2c83457f7380aedeb964d646b67b61b5a60329a70a61a804430ba717a
+

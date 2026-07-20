@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l9106-l9253
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: DEN SMOKE  I / ^» ^- / WOIJDS / I  HULL.; lines 9106-9253
+  start: '9106'
+  end: '9253'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives song texts and analysis for two Chippewa war-related
+    songs. One song describes men coming across the prairie with the noise of passing
+    feet and playing a game. A narrated account says a warrior became exhausted while
+    a war party was returning home; his companions stayed because of the danger from
+    enemies. The warrior used his medicine, rose, composed and sang a song, and continued
+    with the party. A following song text voices inability to travel and the intention
+    to borrow a means of arriving.
+  language: English with transcribed Ojibwe song words and English glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Song No. 35 is titled "They are Playing a Game" and its gloss describes the
+    noise of passing feet on the prairie, men playing a game as they come.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Odjibwe is named as the singer of Song No. 35 and as the person who stated
+    the narrative about the exhausted warrior.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: A warrior sank exhausted while a war party was returning home.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The other warriors stayed with the exhausted warrior because they were reluctant
+    to leave him vulnerable to a wandering enemy.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The exhausted warrior used his medicine and, after a time, sprang to his feet.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The warrior sang a song that he composed at that time; the war party resumed
+    its journey and he accompanied them while still singing.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Song No. 36 is titled "Song of the Exhausted Warrior" and its gloss includes
+    the speaker saying he cannot travel, but will borrow that by which he can arrive.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Odjibwe
+  description: Named as singer of Song No. 35 and as the source of the narrative about
+    the exhausted warrior.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: exhausted warrior
+  description: A warrior who sank exhausted on the return journey, used medicine,
+    rose, composed and sang a song, and continued with the war party.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: returning war party / other warriors
+  description: The war party returning home; the other warriors stayed with the exhausted
+    man and later resumed the journey.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: wandering enemy
+  description: A possible enemy threat mentioned as the danger if the exhausted warrior
+    were left behind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: men in Song No. 35
+  description: Men described in the song gloss as coming across the prairie, their
+    feet making noise, and playing a game as they come.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: named singer and narrative source
+  assigned_to:
+  - fig:1
+  basis: The passage says Song No. 35 was sung by Odjibwe and later states that Odjibwe
+    gave the account of the exhausted warrior.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: exhausted returning warrior
+  assigned_to:
+  - fig:2
+  basis: The narrative identifies a warrior who sank exhausted while the war party
+    was returning home.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: protective companions
+  assigned_to:
+  - fig:3
+  basis: The other warriors stayed with the exhausted warrior rather than leave him
+    exposed to an enemy.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: potential enemy threat
+  assigned_to:
+  - fig:4
+  basis: The wandering enemy is mentioned as the danger facing the abandoned warrior.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: arriving players
+  assigned_to:
+  - fig:5
+  basis: The song gloss describes men playing a game as they come across the prairie.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: crisis song composer and singer
+  assigned_to:
+  - fig:2
+  basis: The narrative says the warrior sang and composed the song at the time he
+    rose and resumed travel.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: medicine
+  literal_form: medicine used by the exhausted warrior
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: new song
+  literal_form: song composed and sung by the warrior after using medicine and rising
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: prairie passing feet
+  literal_form: noise of passing feet on the prairie
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: game while coming
+  literal_form: men playing a game as they come
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: borrowed means of arrival
+  literal_form: the unnamed thing to be borrowed by means of which the speaker can
+    arrive
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Men coming across the prairie
+  summary: The song text presents men coming on the prairie, with audible passing
+    feet, while playing a game.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exhaustion on the return journey
+  summary: A warrior becomes exhausted while a war party is returning home; the other
+    warriors stay because leaving him would expose him to enemy danger.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Medicine, rising, and resumed travel
+  summary: The exhausted warrior uses medicine, springs to his feet, sings a song
+    he composes at that moment, and continues with the war party.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Voice of the exhausted warrior
+  summary: The following song text voices inability to travel and a plan to borrow
+    an unnamed means of arriving.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: War-party return interrupted by exhaustion
+  taxonomy_refs:
+  - return
+  basis: The narrative is explicitly set during the war party's return home, and the
+    journey is interrupted when a warrior sinks exhausted.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a historical song account
+    rather than a full mythic return narrative.
+- id: motif:2
+  label: Companions refuse to abandon a vulnerable warrior
+  taxonomy_refs: []
+  basis: The other warriors stay with the exhausted man because they do not want him
+    left as prey to an enemy.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a narrative action pattern; the passage does not identify it as
+    a named traditional motif.
+- id: motif:3
+  label: Medicine restores mobility
+  taxonomy_refs: []
+  basis: After using his medicine, the exhausted warrior is able to rise and continue
+    the journey.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the kind of medicine or the mechanism of
+    its effect.
+- id: motif:4
+  label: Crisis song composed during recovery
+  taxonomy_refs: []
+  basis: The warrior sings and composes the song at the moment he rises and resumes
+    travel.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage supports the event but does not state a general rule about
+    crisis-song composition.
+- id: motif:5
+  label: Borrowing a means to arrive
+  taxonomy_refs: []
+  basis: The glossed words of Song No. 36 say the speaker cannot travel but will borrow
+    that by means of which he can arrive.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The borrowed object or power is unnamed, so the motif remains indeterminate.
+- id: motif:6
+  label: Arriving men at play on the prairie
+  taxonomy_refs: []
+  basis: Song No. 35 describes men coming on the prairie with the sound of passing
+    feet and playing a game as they come.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The lyric is brief and the passage gives no explanatory narrative for
+    the game image.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9106-9253, Song No. 35 title, singer line, and gloss
+  quote_or_summary: Song No. 35, "They are Playing a Game," is sung by Odjibwe; the
+    gloss includes "noise of passing feet," "on the prairie," "they are playing a
+    game as they come," and "those men."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 9106-9253, narrative before Song No. 36
+  quote_or_summary: Odjibwe stated that a warrior sank exhausted while the war party
+    was returning home; the other warriors stayed because they did not want to leave
+    him as prey to a wandering enemy.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 9106-9253, narrative before Song No. 36
+  quote_or_summary: The exhausted warrior used his medicine, later sprang to his feet,
+    sang a song he composed at that time, and accompanied the war party when it resumed
+    its journey.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:4
+  type: quote
+  locator: lines 9106-9253, Song No. 36 title and gloss
+  quote_or_summary: Song No. 36 is "Song of the Exhausted Warrior"; its gloss includes
+    "alas," "I can not travel," "but I will borrow that," and "by means of which I
+    can arrive."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain according to supplied source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Core narrative and song glosses are clear, though the excerpt contains OCR
+    irregularities. Motif labels are descriptive and should be reviewed by a human
+    specialist, especially the relation between the narrative and Song No. 36.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No cross-tradition comparison claims were made because the passage itself does not provide explicit comparative evidence. Available taxonomy refs were used only where directly supported by the return-journey setting.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l9106-l9253
+  passage_sha256=6a81c21842c640649809cdcc53731ad59698f35775d65ff9bb13720828fd7b00
+

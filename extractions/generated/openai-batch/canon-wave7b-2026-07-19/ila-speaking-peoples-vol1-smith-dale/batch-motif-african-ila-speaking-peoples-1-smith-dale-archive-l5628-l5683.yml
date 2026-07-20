@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l5628-l5683
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: AGRICULTURE ; FOODS ; NARCOTICS / FILLING THE GRAIN BIN. / GRAIN BINS (MATALA).
+    / VOL. I L; lines 5628-5683
+  start: '5628'
+  end: '5683'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Ba-ila food consumption and preparation: eating
+    among relatives and friends in times of plenty, use of earthenware pots rather
+    than ovens or frying-pans, boiling, stewing, and roasting on embers, boiling whole
+    grain when traveling or unable to prepare flour, preparing meal by stamping or
+    grinding, making porridge by adding flour to boiling water over a fire, and boiling
+    vegetables. The passage ends with an incomplete sentence on fish preparation.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: People eat at home and then may move among friends and relatives, partaking
+    of food being eaten there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In times of plenty, fresh food supplies are described as constantly ready
+    somewhere, making daily consumption hard to estimate.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Three pounds of grain is described as an ample ration for employees.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Ba-ila are described as having no ovens or frying-pans; their only cooking
+    utensil is the earthenware pot.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The described cooking methods are boiling, stewing, and roasting on embers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: On journeys, or when flour cannot readily be prepared, they often boil and
+    eat grain whole; this preparation is called musozha.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Meal is prepared either by stamping, called kutwa, or by grinding, called
+    kuzhia.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Stamping uses a large wooden mortar and pestle, named inkidi and munsha.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Grinding is done between two stones on a platform under the eaves of the hut.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A woman grinds corn by holding an upper cylindrical stone in both hands and
+    moving it backward and forward until meal falls into a clay basin around the lower
+    stone.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Porridge is made by gradually adding flour to boiling water in a pot over
+    the fire and stirring it until the stirring-stick stands upright in the mass.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Beans, small marrows, leaves, and other vegetables are boiled.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The passage begins an incomplete description of fish being spitchcocked by
+    means of a stick.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ba-ila
+  description: The collective group whose cooking utensils and methods are described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Women preparing meal
+  description: Women are described as stamping and grinding grain to prepare flour
+    or meal.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: People on a journey
+  description: People traveling, or lacking time, energy, or facilities for flour
+    preparation, boil and eat whole grain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Friends and relatives
+  description: Friends and relatives among whom people move and with whom they partake
+    of food being eaten.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: collective food-preparation subject
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Ba-ila as lacking ovens and frying-pans and using
+    earthenware pots with limited cooking methods.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: grain processor
+  assigned_to:
+  - fig:2
+  basis: Women are described preparing fine flour and grinding corn with stones.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: traveler using simplified food preparation
+  assigned_to:
+  - fig:3
+  basis: When on a journey or unable to prepare flour, people boil and eat whole grain.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: communal eating partners
+  assigned_to:
+  - fig:4
+  basis: People move among friends and relatives and partake of food being eaten.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: cooking fire
+  literal_form: fire used for boiling water in a pot; embers used for roasting
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: Eating in time of plenty
+  summary: After eating at home, people may visit friends and relatives and partake
+    of food being eaten there; fresh supplies are described as readily available in
+    times of plenty.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ba-ila cooking methods
+  summary: The Ba-ila use earthenware pots and cook by boiling, stewing, or roasting
+    on embers rather than using ovens or frying-pans.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Whole grain boiled on journeys
+  summary: When traveling or unable to prepare flour, people boil and eat whole grain,
+    a preparation called musozha.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Meal preparation by stamping and grinding
+  summary: Meal is prepared by stamping with a wooden mortar and pestle or by grinding
+    corn between stones on a platform under the hut eaves.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Porridge cooked over fire
+  summary: Flour is added gradually to boiling water in a pot over the fire and stirred
+    until the stirring-stick stands upright, marking the porridge as ready.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5628-5635
+  quote_or_summary: After eating at home, people move among friends and relatives
+    and partake of food being eaten; in plenty, supplies are constantly ready, and
+    three pounds of grain is considered an ample ration for employees.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5636-5642
+  quote_or_summary: The Ba-ila have no ovens or frying-pans; the earthenware pot is
+    described as their only cooking utensil, and methods are boiling, stewing, or
+    roasting on embers.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5643-5650
+  quote_or_summary: When on a journey, or lacking time, energy, or facilities for
+    making flour, they boil and eat whole grain called musozha; the author comments
+    that it is not wholesome because the hard grain covering is not digested.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5651-5658
+  quote_or_summary: Meal is prepared by stamping, kutwa, or grinding, kuzhia; stamping
+    uses a large wooden mortar and pestle, inkidi and munsha, and fine flour preparation
+    involves winnowing and restamping.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5658-5670
+  quote_or_summary: Grinding is done between two stones on a platform under the hut
+    eaves; the lower stone has a clay basin around it, and the woman moves the upper
+    cylindrical stone back and forth until meal falls into the basin.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5671-5677
+  quote_or_summary: Porridge is made by adding flour gradually to boiling water in
+    a pot over the fire and stirring until the stirring-stick stands upright in the
+    mass.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5680-5681
+  quote_or_summary: Beans, small marrows, leaves, and other vegetables are boiled.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5682-5683
+  quote_or_summary: The passage begins an incomplete sentence stating that fish are
+    spitchcocked by means of a stick.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is ethnographic and practical rather than mythological. No candidate
+    myth motifs or passage-supported comparison claims were extracted. The only taxonomy
+    symbol retained is literal fire, used for cooking; no symbolic interpretation
+    is inferred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Source metadata label mentions grain bins, but the provided passage text concerns foods and cooking methods; extraction follows only the provided passage text.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l5628-l5683
+  passage_sha256=64cf8631e740b945bd2d4e7eac55fa2be57272d54f21dd6a7fce20f1df40fce2
+

@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l6969-l6994
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: I70 THE ISLE OF IMITATION / CHAPTER V / CHAPTER VI / CHAPTER VII; lines 6969-6994
+  start: '6969'
+  end: '6994'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“the two worlds sought to kiss each other”"
+  summary: A scholarly passage interprets the legend as combining possibly earlier
+    non-Christian narrative machinery with intensely Christian sentiment, emphasizing
+    the attempted reconciliation of opposed ideals in Irish tradition and noting parallels
+    and differences within Ossianic and Welsh-related materials.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author says he does not wish to prejudge whether the legend's machinery
+    is borrowed from an earlier non-Christian world, while describing its sentiment
+    as intensely Christian.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author locates the legend's pathos and beauty in the meeting and attempted
+    reconciliation of two opposed ideals.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author says Irish mythic literature includes scorn and aversion toward
+    the new faith.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The author contrasts Irish aversion with the protest of classic or Scandinavian
+    Paganism, saying the Irish grounds appeal more forcibly to him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says that, in the Irish mind, two worlds sought to kiss each other.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage describes a Christian monk hearing the wailing cry of the birds
+    of Faery as they await an apostle.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The footnote places ballad Ossianic literature, in worn-down condition, in
+    the Book of the Dean of Lismore, a late-fifteenth-century Scotch Gaelic manuscript.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The author reports remarkable parallels between utterances attributed to Oisin
+    and utterances assigned to Llywarch Hen.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The author distinguishes prose and ballad forms of the Ossianic legend as
+    Christian and Pagan in spirit respectively.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Christian monk
+  description: A monk who is said to have heard the wailing cry of the birds of Faery.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: birds of Faery
+  description: Birds that wail and await the advent of the apostle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: apostle
+  description: The apostle whose advent the birds of Faery await.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Oisin
+  description: A named figure in the Ossianic material; utterances are described as
+    being placed in his mouth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Llywarch Hen
+  description: A Welsh warrior poet to whom utterances are assigned in the author's
+    comparison.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Christian hearer
+  assigned_to:
+  - fig:1
+  basis: The monk hears the wailing cry of the birds of Faery.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: Wailing Faery birds awaiting apostle
+  assigned_to:
+  - fig:2
+  basis: The birds of Faery wail and await the advent of the apostle.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Awaited apostolic figure
+  assigned_to:
+  - fig:3
+  basis: The apostle is described as the one whose advent is awaited.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Ossianic attributed speaker
+  assigned_to:
+  - fig:4
+  basis: The author refers to utterances placed in Oisin's mouth.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Welsh warrior poet and attributed speaker
+  assigned_to:
+  - fig:5
+  basis: The author identifies Llywarch Hen as a Welsh warrior poet to whom utterances
+    are assigned.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Two worlds
+  literal_form: two worlds
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Wailing Faery birds
+  literal_form: birds of Faery
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Kiss between worlds
+  literal_form: kiss
+  associated_figures: []
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Commentarial framing of Christian and non-Christian elements
+  summary: The author frames the legend as possibly using earlier non-Christian machinery
+    while expressing intensely Christian sentiment, and emphasizes a meeting and attempted
+    reconciliation of opposed ideals.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Christian-Faery encounter image
+  summary: The author says that in the Irish mind two worlds seek to kiss, and depicts
+    a Christian monk hearing the wailing birds of Faery as they await an apostle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Ossianic comparison note
+  summary: The footnote situates ballad Ossianic literature in the Book of the Dean
+    of Lismore, notes parallels between Oisin and Llywarch Hen utterances, and distinguishes
+    prose and ballad forms of the Ossianic legend as Christian and Pagan in spirit.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Reconciliation of opposed religious worlds
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly describes the legend through the meeting and attempted
+    reconciliation of two opposed ideals and the image of two worlds seeking to kiss.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a scholarly interpretive passage rather than a full narrative
+    episode.
+- id: motif:2
+  label: Otherworld beings awaiting Christian apostle
+  taxonomy_refs: []
+  basis: The passage describes the birds of Faery wailing while awaiting the advent
+    of an apostle, heard by a Christian monk.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The statement is metaphorical and generalized; no named apostle or full
+    episode is given in this passage.
+- id: motif:3
+  label: Christian and Pagan forms of the same legend cycle
+  taxonomy_refs:
+  - duality
+  basis: The author distinguishes prose and ballad forms of the Ossianic legend as
+    Christian and Pagan in spirit.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is presented as a literary-historical classification, not as a plot
+    motif within the legend itself.
+comparison_claims:
+- id: claim:1
+  claim: The author reports remarkable parallels between utterances attributed to
+    Oisin and utterances assigned to the Welsh warrior poet Llywarch Hen.
+  claim_level: linguistic_similarity
+  target: Ossianic ballad literature and Welsh Llywarch Hen material
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide the actual utterances or specify the nature
+    of the parallels.
+- id: claim:2
+  claim: The author compares Irish mythic literature's aversion to the new faith with
+    protests associated with classic or Scandinavian Paganism, while stressing a difference
+    in grounds and appeal.
+  claim_level: same_function
+  target: Irish mythic literature, classic Paganism, and Scandinavian Paganism as
+    responses to Christianity or the new faith
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is broad and supplies no specific non-Irish texts or
+    episodes in this passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6969-6972
+  quote_or_summary: "“machinery be borrowed from an earlier non-Christian world” while
+    “the sentiment is intensely Christian.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 6973-6977
+  quote_or_summary: "“the meeting and attempted reconciliation of the two opposed
+    ideals”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 6977-6982
+  quote_or_summary: The passage says Irish mythic literature contains scorn and aversion
+    toward the new faith and contrasts this with classic or Scandinavian Paganism.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summary used for evidence.
+- id: ev:4
+  type: quote
+  locator: 6982-6985
+  quote_or_summary: "“the two worlds sought to kiss each other” and the monk heard
+    “the wailing cry of the birds of Faery.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: 6987-6989
+  quote_or_summary: The footnote locates ballad Ossianic literature in the Book of
+    the Dean of Lismore, a late-fifteenth-century Scotch Gaelic manuscript.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summary used for evidence.
+- id: ev:6
+  type: quote
+  locator: 6989-6992
+  quote_or_summary: "“remarkable parallels between the utterances” attributed to Oisin
+    and to “the Welsh warrior poet Llywarch Hen.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: 6992-6994
+  quote_or_summary: The author distinguishes prose and ballad forms of the Ossianic
+    legend, calling one Christian and the other Pagan in spirit.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summary used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly commentary with figurative language, not a self-contained
+    mythic narrative; motif candidates therefore require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy refs are limited to supplied available refs where directly supported.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l6969-l6994
+  passage_sha256=0e7b99dce08762a2a4af89aa4bf29c5fcd626087023a957013ca22d67762a71d
+

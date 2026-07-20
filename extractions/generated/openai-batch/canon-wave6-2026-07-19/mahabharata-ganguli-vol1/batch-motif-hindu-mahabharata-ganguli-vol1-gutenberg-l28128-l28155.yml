@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l28128-l28155
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION LXVI / SECTION LXVIII / SECTION LXIX / SECTION LXX; lines 28128-28155
+  start: '28128'
+  end: '28155'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Draupadi asks Dhritarashtra for boons that free Yudhishthira and then her
+    other husbands from slavery and bondage. Dhritarashtra grants the requests and
+    offers a third boon, but Draupadi refuses it, citing the danger of covetousness,
+    rules about how many boons different persons may ask, and confidence that her
+    freed husbands can regain prosperity through virtuous acts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Draupadi asks for Yudhishthira to be freed from slavery as a boon.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Draupadi says her child Prativindhya should not be called the son of a slave,
+    because Yudhishthira had been a prince and was nurtured by kings.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dhritarashtra grants Draupadi's first request and invites her to ask another
+    boon.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Draupadi asks that Bhimasena, Dhananjaya, and the twins be freed from bondage
+    and regain liberty with their cars and bows.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dhritarashtra grants the second request, offers a third boon, and praises
+    Draupadi as virtuous and foremost among his daughters-in-law.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Draupadi refuses to ask a third boon, saying covetousness brings loss of virtue
+    and citing a rule about the number of boons different persons may ask.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Draupadi says her husbands, once freed from bondage, will be able to achieve
+    prosperity through their own virtuous acts.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Draupadi
+  description: Speaker who asks for two boons, secures freedom for her husbands, and
+    refuses a third boon.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Dhritarashtra
+  description: King who grants Draupadi's requests and offers additional boons.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Yudhishthira
+  description: Described as handsome, obedient to duty, formerly a prince, nurtured
+    by kings, and requested to be freed from slavery.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Prativindhya
+  description: Draupadi's child, whom she does not want called the son of a slave.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Bhimasena
+  description: One of Draupadi's husbands requested to be freed from bondage and restored
+    to liberty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Dhananjaya
+  description: One of Draupadi's husbands requested to be freed from bondage and restored
+    to liberty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:7
+  name_or_label: the twins
+  description: Two unnamed figures requested by Draupadi to be freed from bondage
+    and restored to liberty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: boon requester
+  assigned_to:
+  - fig:1
+  basis: Draupadi asks Dhritarashtra for boons freeing Yudhishthira and the other
+    named husbands.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: boon-granting king
+  assigned_to:
+  - fig:2
+  basis: Dhritarashtra grants the first and second requests and offers further boons.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: freed from slavery or bondage
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Draupadi requests that Yudhishthira be freed from slavery and that Bhimasena,
+    Dhananjaya, and the twins be freed from bondage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: child whose status is protected
+  assigned_to:
+  - fig:4
+  basis: Draupadi frames her first request by saying Prativindhya should not be called
+    the son of a slave.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: virtuous refuser of excess boon
+  assigned_to:
+  - fig:1
+  basis: Draupadi refuses a third boon, says covetousness causes loss of virtue, and
+    is called virtuous by Dhritarashtra.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: boon
+  literal_form: requested and granted boon
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: cars and bows
+  literal_form: cars and bows restored with liberty
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: numbered boons
+  literal_form: one boon, two boons, three boons, and a hundred boons
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: First boon frees Yudhishthira
+  summary: Draupadi asks that Yudhishthira be released from slavery so that Prativindhya
+    will not bear the stigma of being called the son of a slave; Dhritarashtra grants
+    the request and offers another boon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Second boon frees the other husbands
+  summary: Draupadi asks that Bhimasena, Dhananjaya, and the twins be freed from bondage
+    and restored to liberty with their cars and bows; Dhritarashtra grants the request
+    and offers a third boon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Third boon refused
+  summary: Draupadi declines a third boon, explaining that covetousness destroys virtue,
+    citing rules about boon limits, and saying her freed husbands can regain prosperity
+    by virtuous acts.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: boon exchange securing release from bondage
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage centers on requested and granted boons that free Draupadi's husbands
+    from slavery or bondage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The exchange is royal and ethical within the passage; it is not explicitly
+    described as divine or ritual.
+- id: motif:2
+  label: virtuous refusal of excess gift
+  taxonomy_refs:
+  - wisdom
+  basis: Draupadi declines the offered third boon and gives a moral explanation that
+    covetousness causes loss of virtue.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to wisdom is thematic rather than named in the passage.
+- id: motif:3
+  label: restoration of royal status after enslavement
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Draupadi asks that Yudhishthira be freed so Prativindhya is not called the
+    son of a slave, emphasizing Yudhishthira's princely status and upbringing among
+    kings.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage concerns social status and stigma; it does not explicitly
+    discuss succession or kingship legitimacy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 28128-28134
+  quote_or_summary: Draupadi asks that Yudhishthira be freed from slavery and says
+    Prativindhya should not be called the son of a slave because Yudhishthira had
+    been a prince nurtured by kings.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source text; Project Gutenberg/Ganguli translation metadata
+    indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: 28135-28139
+  quote_or_summary: Dhritarashtra grants the request and invites Draupadi to ask a
+    second boon.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source text; Project Gutenberg/Ganguli translation metadata
+    indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: 28140-28142
+  quote_or_summary: Draupadi asks that Bhimasena, Dhananjaya, and the twins be freed
+    from bondage and regain liberty with their cars and bows.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source text; Project Gutenberg/Ganguli translation metadata
+    indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: 28143-28146
+  quote_or_summary: Dhritarashtra grants the second request, offers a third boon,
+    and calls Draupadi virtuous and foremost among his daughters-in-law.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source text; Project Gutenberg/Ganguli translation metadata
+    indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: 28147-28155
+  quote_or_summary: Draupadi refuses a third boon, says covetousness brings loss of
+    virtue, cites limits on boons by social category, and says her freed husbands
+    can achieve prosperity by virtuous acts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source text; Project Gutenberg/Ganguli translation metadata
+    indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage directly supports the extraction of figures, requests, granted
+    boons, and the refusal of a third boon. Motif assignments are cautious because
+    the available taxonomy is broader than the passage's explicit language. No comparison
+    claims are made because the passage itself does not compare this episode to another
+    tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. No external identifications or aliases were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l28128-l28155
+  passage_sha256=25cd51c95a8ee57834bc25c27e1e577b6d17805a2c2d3aec036d2c5ca6e06b8f
+

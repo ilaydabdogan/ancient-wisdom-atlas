@@ -1,4 +1,70 @@
+---
+id: south_american.unknown_people_unknown_land.grubb_archive
+title: 'An Unknown People in an Unknown Land: An Account of the Life and Customs of
+  the Lengua Indians of the Paraguayan Chaco'
+alternate_titles:
+- An Unknown People in an Unknown Land
+text_status: complete
+tradition: chaco_amerindian
+culture: lengua_enxet_chaco_ethnography
+region: south_america_gran_chaco
+source_language: Lengua (Enxet) oral traditions mediated through English
+text_language: English
+date_range: living oral traditions; missionary residence in the Chaco 1889-1910ish,
+  fluent in Lengua; published 1911
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.unknownpeopleinu00grub
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1911 Seeley & Co. London
+    edition
+  translator: W. Barbrooke Grubb
+  editor: H. T. Morrey Jones
+  publication_year: 1911
+  publisher: Internet Archive
+  source_url: https://archive.org/details/unknownpeopleinu00grub
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1911, US public domain. Recording context - decades-long resident
+    fluent in Lengua; chapters on soul-beliefs, dreams, kilyikhama spirits, and folklore
+    are close paraphrase from informants within a missionary frame (handle source-critically).
+    Rare pre-1930 English record of an isolated Chaco lineage; stands in for the unobtainable
+    Tierra del Fuego target.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- chaco
+- lengua
+- enxet
+- paraguay
+- isolated_lineage
+- holdout_priority
+motifs:
+- soul_journey
+- spirit_beings
+- dream_lore
+- afterlife
+figures: []
+---
+
 # An Unknown People in an Unknown Land: An Account of the Life and Customs of the Lengua Indians of the Paraguayan Chaco
+
 PREFACE
 
 
@@ -7415,7 +7481,7 @@ was more troublesome to adjust, owing to my short hair, but
 o >
 
 
- u «*.
+<u «*.
 
 
 <
@@ -7429,7 +7495,7 @@ v o
 z
 
 
- L> ^
+‹L› ^
 
 ^C. .3
 
@@ -13402,3 +13468,4 @@ esteem and respect for him.
 “ Herbert Gibson.
 
 September , 1909P
+

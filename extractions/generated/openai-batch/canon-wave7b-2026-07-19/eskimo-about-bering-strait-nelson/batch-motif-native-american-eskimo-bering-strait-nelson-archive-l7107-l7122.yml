@@ -1,0 +1,200 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l7107-l7122
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: BUREAU   OF   AMERICAN    ETHNOLOGY / EIGHTEENTH   ANNUAL   REPORT     PL.    XLIII
+    / BUCKET    AND    BOX    HANDLES    (ABOUT  ONE-FOURTH) / NEEDLES   AND   BODKINS;
+    lines 7107-7122
+  start: '7107'
+  end: '7122'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Eskimo needles and bodkins: formerly bone needles
+    were used, stitch holes were pierced with bodkins or awls of bone, ivory, or deerhorn,
+    and increased contact with white men introduced steel needles and iron for needle-making.
+    It also notes ivory needles from St Michael used for coarse sewing such as boat
+    covers, and begins mention of a small flat wooden tablet in the collection.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Formerly, bone needles were used exclusively by the Eskimo.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Holes for stitches were pierced with a fine-pointed bodkin or awl made of
+    bone, ivory, or deerhorn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After more frequent intercourse with white men, the Eskimo obtained steel
+    needles and pieces of iron from which they made needles themselves.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Many bodkins are described as iron-pointed, while a majority in use are still
+    made from bone, ivory, or horn.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Figures 1 and 2 on the cited plate are ivory needles from St Michael.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The ivory needles are used for sewing coarse seams in making boat covers or
+    similar heavy work.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The collection includes a small, flat, wooden tablet numbered 44204, but the
+    passage excerpt breaks off before describing its use.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Eskimo needle and bodkin users
+  description: The passage refers generally to the Eskimo as users of bone needles,
+    bodkins or awls, steel needles, and iron for making needles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: White men
+  description: The passage mentions white men in connection with increased intercourse
+    through which steel needles and iron were obtained.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: tool users and makers
+  assigned_to:
+  - fig:1
+  basis: The passage says the Eskimo used bone needles and bodkins and made needles
+    from pieces of iron.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: source of introduced materials through contact
+  assigned_to:
+  - fig:2
+  basis: The passage links more frequent intercourse with white men to obtaining steel
+    needles and iron.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: bone needle
+  literal_form: Needle formerly made of bone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bodkin or awl
+  literal_form: Fine-pointed implement made of bone, ivory, deerhorn, horn, or iron-pointed
+    material for piercing stitch holes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: steel needle and iron for needle-making
+  literal_form: Introduced steel needles and pieces of iron used to make needles
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: ivory needle from St Michael
+  literal_form: Ivory needle used for coarse seams in boat covers or similar heavy
+    work
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: small flat wooden tablet
+  literal_form: Small, flat, wooden tablet in the collection, number 44204
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Description of needles and bodkins
+  summary: The passage presents a material-culture description of sewing tools, including
+    older bone needles, bodkins or awls, later steel and iron needles, and ivory needles
+    used for heavy sewing work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7107-7115
+  quote_or_summary: Formerly bone needles were used exclusively; stitch holes were
+    pierced with bodkins or awls of bone, ivory, or deerhorn; later, through more
+    frequent contact with white men, steel needles and iron for making needles were
+    obtained, though most bodkins remained bone, ivory, or horn.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7117-7120
+  quote_or_summary: Figures 1 and 2 on the cited plate are ivory needles from St Michael
+    used for sewing coarse seams in boat covers or similar heavy work.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7121-7122
+  quote_or_summary: The collection contains a small, flat, wooden tablet, number 44204;
+    the excerpt ends before its purpose is described.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an ethnographic description of sewing tools rather than a
+    mythic narrative. No taxonomy motif family or supported comparison claim is present
+    in the provided excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological motif is assigned; listed symbols are literal material objects from the passage, with no taxonomy symbol refs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l7107-l7122
+  passage_sha256=e499317e8590f4917cd9bdfc3bf71e8db8c98e51472123ee441ee2c058ae20d2
+

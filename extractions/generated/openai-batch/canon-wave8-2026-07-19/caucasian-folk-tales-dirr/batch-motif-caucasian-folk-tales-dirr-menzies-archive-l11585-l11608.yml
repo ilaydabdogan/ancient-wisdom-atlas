@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.caucasian-folk-tales-dirr-menzies-archive-l11585-l11608
+source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+passage_locator:
+  label: SOLOMON THE WISE 269 / SOLOMON THE WISE 27I / SOLOMON THE WISE 273 / ALEXANDER
+    THE GREAT 275; lines 11585-11608
+  start: '11585'
+  end: '11608'
+  translation: Caucasian Folk-Tales
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Alexander of Macedonia, having conquered three-quarters of the world, seeks
+    to conquer the remaining quarter inhabited by the Just Poor beyond a sea. An angel
+    of God forbids war on them and warns him to send his army first if he will not
+    retreat. The army crosses a bridge over the sea and loses its heads; Alexander
+    crosses and loses his head; the Just Poor then stone him and the army.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Alexander of Macedonia is presented as a king from long ago.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Alexander has conquered three-quarters of the world.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The fourth quarter of the world remains unconquered and is inhabited by the
+    Just Poor.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The land of the Just Poor is separated from the rest of the world by a sea
+    named after that people.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Alexander wants to conquer the fourth quarter, gathers a great army, and goes
+    toward the sea.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Alexander throws a bridge over the sea and is about to cross it with his army.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: An angel of God appears to Alexander and tells him that, by God’s command,
+    he must not make war on the Just Poor.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The angel tells Alexander that if he will not retreat, he should let his army
+    cross first and watch whether any man arrives with his head still on his shoulders.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: Alexander sends his army over the bridge and sees that every man loses his
+    head.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Alexander crosses the bridge himself, driven by pride, and loses his head.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: The Just Poor assemble and stone Alexander and his whole army.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Alexander of Macedonia
+  description: A king who has conquered three-quarters of the world and attempts to
+    conquer the fourth quarter inhabited by the Just Poor.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the Just Poor
+  description: A people inhabiting the unconquered fourth quarter of the world beyond
+    a sea; they later assemble and stone Alexander and his army.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: angel of God
+  description: A divine messenger who appears to Alexander and delivers God’s command
+    not to make war on the Just Poor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Alexander’s army
+  description: A great army gathered by Alexander; it crosses the bridge first and
+    every man loses his head.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: God
+  description: The divine authority whose command is reported by the angel.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: conquering king
+  assigned_to:
+  - fig:1
+  basis: Alexander is called a king and is said to have conquered three-quarters of
+    the world.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: warned transgressor
+  assigned_to:
+  - fig:1
+  basis: Alexander is warned not to make war but continues the crossing and loses
+    his head.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: unconquered protected people
+  assigned_to:
+  - fig:2
+  basis: The Just Poor inhabit the only unconquered quarter, and an angel says God
+    commands that Alexander must not make war on them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: divine messenger
+  assigned_to:
+  - fig:3
+  basis: The angel appears to Alexander and speaks a command attributed to God.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: army of attempted conquest
+  assigned_to:
+  - fig:4
+  basis: Alexander gathers the army for the campaign, sends it across the bridge,
+    and it is destroyed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: source of divine command
+  assigned_to:
+  - fig:5
+  basis: The angel states that the prohibition against war is by command of God.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: separating sea
+  literal_form: A sea separating the land of the Just Poor from the rest of the world.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bridge over the sea
+  literal_form: A bridge thrown by Alexander over the separating sea.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: head on shoulders / loss of head
+  literal_form: The angel’s test concerns whether any man arrives with his head on
+    his shoulders; the army and Alexander lose their heads after crossing.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: divided world quarters
+  literal_form: Three conquered quarters of the world and one unconquered fourth quarter.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Alexander’s prior conquests and the remaining quarter
+  summary: Alexander is introduced as king of Macedonia who has conquered three-quarters
+    of the world, while the fourth quarter belongs to the Just Poor beyond a sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Campaign to the sea and divine warning
+  summary: Alexander gathers a great army, builds a bridge over the sea, and is confronted
+    by an angel who forbids war on the Just Poor by God’s command.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fatal crossing of the bridge
+  summary: Alexander sends his army over the bridge and sees them lose their heads;
+    he then crosses himself and also loses his head.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Stoning by the Just Poor
+  summary: The Just Poor assemble and stone Alexander and his whole army.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine prohibition against conquest
+  taxonomy_refs:
+  - divine_judgment
+  basis: An angel of God tells Alexander that by God’s command he must not make war
+    on the Just Poor.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states the prohibition clearly, but does not elaborate the
+    theological reason for protecting the Just Poor.
+- id: motif:2
+  label: fatal transgression after warning
+  taxonomy_refs:
+  - divine_judgment
+  basis: Alexander receives a warning, sees his army lose their heads after crossing,
+    but crosses anyway from pride and loses his head.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The exact mechanism of decapitation is not explained in the passage.
+- id: motif:3
+  label: dangerous boundary crossing over water
+  taxonomy_refs: []
+  basis: The Just Poor are separated by a sea; Alexander bridges and crosses that
+    boundary, after which the army and Alexander are destroyed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a structural motif candidate; the passage does not explicitly
+    call the sea otherworldly or sacred.
+- id: motif:4
+  label: world conqueror humbled at the last unconquered realm
+  taxonomy_refs: []
+  basis: Alexander has conquered three-quarters of the world but is unable to conquer
+    the final quarter inhabited by the Just Poor and is killed in the attempt.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this conquest-limit pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11585-11608; opening paragraph
+  quote_or_summary: Alexander of Macedonia is a king who conquered three-quarters
+    of the world; the remaining fourth quarter is inhabited by the Just Poor beyond
+    a sea named after them.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; metadata permits full-text use.
+- id: ev:2
+  type: summary
+  locator: lines 11585-11608; second paragraph, campaign and warning
+  quote_or_summary: Alexander seeks to conquer the fourth quarter, gathers an army,
+    bridges the sea, and is warned by an angel of God not to make war on the people;
+    the angel says to send the army first if he will not retreat.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 11585-11608; second paragraph, crossing
+  quote_or_summary: Alexander lets the army cross and sees every man lose his head;
+    then, spurred by pride, Alexander crosses and loses his head.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; metadata permits full-text use.
+- id: ev:4
+  type: summary
+  locator: lines 11585-11608; final sentence
+  quote_or_summary: The Just Poor assemble and stone Alexander and his whole army.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; metadata permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are conservative
+    and limited to patterns directly visible in the narrative; no external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support historical, linguistic, or cross-tradition comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:caucasian-folk-tales-dirr-menzies-archive__l11585-l11608
+  passage_sha256=fb586ef2ecf349f4c85b12f63df32e06a85ab00cdca9e8f4db17543c51183c39
+

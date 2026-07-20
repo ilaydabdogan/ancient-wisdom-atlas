@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l1871-l1905
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  23 / THE    BAGANDA / CHAP.
+    / I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  25; lines 1871-1905
+  start: '1871'
+  end: '1905'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The drum was indeed put to a multitude of uses, quite apart from music.
+  summary: The passage describes Baganda drums as the foremost musical instruments
+    and as instruments for announcing births, mourning, war alarms, victories, and
+    ceremonies. It then describes the royal drums, called the Mujaguzo, their number
+    and sizes, and the officials and drummers responsible for them under the king.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Among Baganda musical instruments, drums are given first place and are described
+    as having many uses beyond music.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The drum announces both joy and sorrow, including the birth of children and
+    mourning for the dead.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The drum gives the alarm for war and announces the return of victorious warriors.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The drum has a place in both solemn and joyous national ceremonies.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The royal drums are called the Mujaguzo and number ninety-three: two very
+    large, forty large diminishing in size, and fifty-one small.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Mujaguzo are guarded by Kawuka with Wakimwomera as assistant; chiefs supply
+    drummers, and the named officials are responsible to the king.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Baganda
+  description: The people whose musical instruments include drums and whose national
+    ceremonies use them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Kawuka
+  description: A chief who guards the royal drums.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Wakimwomera
+  description: Assistant to Kawuka in relation to the royal drums.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: King
+  description: The royal authority to whom the officials responsible for the drums
+    answer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: chiefs of the country
+  description: Chiefs who each supply a drummer and replace him if needed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: drummers
+  description: Men supplied by chiefs to serve in connection with the royal drums.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: victorious warriors
+  description: Warriors whose triumphant return is announced by the drum.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: community using drums for music, announcements, and ceremony
+  assigned_to:
+  - fig:1
+  basis: The passage situates drums among Baganda instruments and in national ceremonies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: guardian of royal drums
+  assigned_to:
+  - fig:2
+  basis: Kawuka is named as the chief guarding the royal drums.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: assistant guardian
+  assigned_to:
+  - fig:3
+  basis: Wakimwomera is named as Kawuka's assistant.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: royal authority over drum officials
+  assigned_to:
+  - fig:4
+  basis: The officials are described as directly responsible to the king.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: suppliers of drummers
+  assigned_to:
+  - fig:5
+  basis: Every chief in the country supplies a drummer and fills the place if needed.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: royal drum personnel
+  assigned_to:
+  - fig:6
+  basis: Drummers are supplied by chiefs for the drum institution.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: drum
+  literal_form: Drum used as musical instrument, announcement instrument, war alarm,
+    victory signal, and ceremonial object.
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: royal drums / Mujaguzo
+  literal_form: A royal set of ninety-three drums, organized by size and guarded by
+    named officials under the king.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Drums as public announcement and ceremonial instruments
+  summary: The passage describes drums as central instruments that communicate births,
+    death mourning, war alarm, victory, and solemn or joyful ceremonies.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Organization of the royal drums
+  summary: The passage identifies the Mujaguzo as the royal drums, lists their number
+    and sizes, and describes their guardians, supplied drummers, and responsibility
+    to the king.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: drum as communal messenger for life-cycle, war, victory, and ceremony
+  taxonomy_refs: []
+  basis: The drum is described as announcing births, mourning, war alarm, victorious
+    return, and both solemn and joyful ceremonies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic functional pattern, not a narrative myth episode.
+- id: motif:2
+  label: royal drum regalia under named custodians
+  taxonomy_refs: []
+  basis: The royal drums are named, counted, organized by size, guarded by named officials,
+    supplied with drummers by chiefs, and placed under responsibility to the king.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage shows royal association and institutional custody but does
+    not explicitly state a mythic origin or legitimating story.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1871-1882
+  quote_or_summary: "“Among the musical instruments of the Baganda drums must be given
+    the first place.” The passage adds that the drum had many uses beyond music."
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 1882-1896
+  quote_or_summary: The drum announces joy and sorrow, births, mourning for the dead,
+    war alarm, victorious warriors' return, and solemn and joyous national ceremonies.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:3
+  type: quote
+  locator: lines 1897-1902
+  quote_or_summary: "“The most important drums were the royal ones, called the Mujaguzo;
+    they numbered ninety-three in all.” The passage lists two very large, forty large,
+    and fifty-one small drums."
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 1902-1905
+  quote_or_summary: The royal drums are guarded by Kawuka, assisted by Wakimwomera;
+    every chief supplies a drummer and replaces him if needed; the named officials
+    are directly responsible to the king.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal institutional and ceremonial details are clear. Motif labels
+    are descriptive and should be reviewed because the passage is ethnographic rather
+    than a myth narrative. No comparison claims are made because the passage itself
+    provides no comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The fragment at the start concerning menstruation and fits appears to belong to a preceding section and was not used for motif extraction.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l1871-l1905
+  passage_sha256=b693b3ab32990903e0e37f99359c9106e4e672d24feb6ac71f6ce022bff91a26
+

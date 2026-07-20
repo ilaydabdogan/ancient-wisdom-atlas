@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l99903-l99981
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH Q / ADHYAYA 4, / ADHYAYA 5. / ADHYAYA 7,; lines 99903-99981
+  start: '99903'
+  end: '99981'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: My speech rests on mind, my mind on speech. Be thou revealed to me.
+  summary: The passage gives an invocation in which speech and mind are mutually grounded,
+    lore is asked not to forsake the speaker, day and night are joined with what has
+    been learned, the real and true are to be proclaimed, and protection is requested
+    for the speaker and teacher. The surrounding notes discuss textual variants, parallels
+    in other Vedic or ritual texts, and an uncertain doctrinal question about knowledge,
+    world-guidance, and creation by self or god.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says that speech rests on mind and mind rests on speech, and asks
+    for revelation.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee is called the two pins of the Veda, with a request that the
+    speaker's lore not forsake him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says he joins day and night with what he has learned.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says he will proclaim the real and the true.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Protection is requested for both the speaker and the teacher.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The notes state an uncertainty over whether the doctrine means that knowledge
+    alone exists, that the world is guided by knowledge, or that all originates from
+    knowledge.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The notes state that the self, or god, is conceived as creating the material
+    world, while the exact creation and the relation of brahman and atman are left
+    vague.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The notes compare the passage with a Manava Grhya Sutra formula and mention
+    a parallel version in Sankhayana Aranyaka.
+  category: relationship
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: first-person speaker or reciter
+  description: The speaker refers to my speech, my mind, my lore, what has been learned,
+    and the intention to proclaim the real and true.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: teacher
+  description: The teacher is named as one for whom protection is requested.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: self, or god
+  description: The notes describe the self, or god, as conceived as creating the material
+    world as a reality, while leaving the exact nature of creation vague.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: reciter seeking revelation, retained lore, and truth-proclamation
+  assigned_to:
+  - fig:1
+  basis: The first-person speaker asks for revelation, asks that lore not forsake
+    him, joins day and night with learning, and vows to proclaim the real and true.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: teacher protected by invocation
+  assigned_to:
+  - fig:2
+  basis: The protection formula explicitly includes the teacher.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: vaguely described creator figure in commentary
+  assigned_to:
+  - fig:3
+  basis: The notes say the self, or god, is conceived as creating the material world,
+    but that the exact creation is vague.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: speech resting on mind and mind on speech
+  literal_form: Mutual resting or grounding of speech and mind.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: two pins of the Veda
+  literal_form: The addressee is described as the two pins of the Veda.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: day and night joined with learning
+  literal_form: Day and night are joined with what the speaker has learned.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: speech and mind invocation
+  summary: The speaker declares a mutual relation between speech and mind and asks
+    that the addressed reality be revealed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: lore, truth, and protection formula
+  summary: The speaker invokes the two pins of the Veda, asks that lore not depart,
+    joins day and night with learning, vows to proclaim the real and true, and asks
+    protection for himself and the teacher.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: doctrinal and textual commentary
+  summary: The notes discuss uncertain interpretations of knowledge and creation,
+    along with parallels and textual readings in related Vedic or ritual sources.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: speech and mind as foundations of sacred learning
+  taxonomy_refs:
+  - wisdom
+  basis: The invocation centers on speech, mind, lore, learning, and proclamation
+    of the real and true.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy reference is broad; the passage is an invocation
+    rather than a narrative myth.
+- id: motif:2
+  label: continuous day-and-night learning or recitation
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker joins day and night with what has been learned and says he will
+    proclaim the real and true.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The phrase may be liturgical or formulaic; no extended narrative action
+    is present.
+- id: motif:3
+  label: student and teacher protected by sacred utterance
+  taxonomy_refs: []
+  basis: The speaker asks that both himself and the teacher be protected.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No exchange, ordeal, or narrative episode is described beyond the protective
+    formula.
+- id: motif:4
+  label: knowledge as cosmic principle or origin
+  taxonomy_refs:
+  - wisdom
+  basis: The notes debate whether the doctrine means knowledge alone exists, the world
+    is guided by knowledge, or all originates from knowledge.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The note explicitly frames the doctrine as uncertain and allows an alternative
+    dualist reading.
+- id: motif:5
+  label: vague creator self or god producing the material world
+  taxonomy_refs: []
+  basis: The notes say the self, or god, is conceived as creating the material world
+    as a reality.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The note says the exact nature of creation and the relation of brahman
+    and atman are left vague.
+comparison_claims:
+- id: claim:1
+  claim: The notes cautiously compare a possible doctrine of the origin of all from
+    knowledge with a later Bhagavata view and perhaps Badarayana's view of reality.
+  claim_level: same_function
+  target: later Bhagavata view and perhaps Badarayana concerning the nature of reality
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  limitations: The comparison is presented as probable but disputed; the notes also
+    state that a weaker doctrine of world-guidance by knowledge is possible and that
+    creation is vague.
+- id: claim:2
+  claim: The notes identify a comparable speech-and-mind formula in Manava Grhya Sutra
+    I, 4, 4.
+  claim_level: linguistic_similarity
+  target: Manava Grhya Sutra I, 4, 4
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on the commentator's note; the passage discusses
+    corruptions and variant readings.
+- id: claim:3
+  claim: The notes mention a parallel version in Sankhayana Aranyaka VI, 1.
+  claim_level: linguistic_similarity
+  target: Sankhayana Aranyaka VI, 1
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the existence of a parallel version is summarized in the supplied
+    passage; the full parallel text is not provided.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 99903-99905
+  quote_or_summary: '"My speech rests on mind, my mind on speech. Be thou revealed
+    to me."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: 99956-99958
+  quote_or_summary: '"You are the two pins? of the Veda. May my lore forsake? me not."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: 99958-99960
+  quote_or_summary: The first-person speaker says he joins day and night with what
+    has been learned and will proclaim the real and the true.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: 99960-99961
+  quote_or_summary: '"May this protect me, may this protect the teacher. May it protect
+    me, may it protect the teacher."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: 99908-99917
+  quote_or_summary: The note asks whether the doctrine asserts that knowledge alone
+    exists, only that the world is guided by knowledge, or more strongly that all
+    originates from knowledge, and compares the stronger option to later Bhagavata
+    thought.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 99917-99922
+  quote_or_summary: The notes state that the self, or god, is conceived as creating
+    the material world as a reality, but that the exact nature of creation and the
+    relation of brahman and atman are vague.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 99942-99950
+  quote_or_summary: The note says the whole should be compared with Manava Grhya Sutra
+    I, 4, 4, which contains related wording about speech, mind, life, and recitation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: 99973-99978
+  quote_or_summary: The notes list related Vedic sources and state that there is also
+    a parallel version in Sankhayana Aranyaka VI, 1.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is heavily affected by OCR noise and mixes translated formulae
+    with scholarly notes. Literal formulae are relatively clear, but doctrinal and
+    comparative claims require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No unsupported taxonomy identifiers were added beyond the provided available taxonomy references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l99903-l99981
+  passage_sha256=8941cc85ed75693bb8f033cf951eecda3e1b725720def1674bc71a20c51555b9
+

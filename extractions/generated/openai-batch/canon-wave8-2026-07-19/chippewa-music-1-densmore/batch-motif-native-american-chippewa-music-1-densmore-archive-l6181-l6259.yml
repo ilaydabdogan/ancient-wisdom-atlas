@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l6181-l6259
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: C3   .2 / P.-S  33 / CO       U / S  S  5!  S; lines 6181-6259
+  start: '6181'
+  end: '6259'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage compares musical features of Mide' songs with other Chippewa
+    song groups, emphasizing tone material, downward melodic motion, rapid unaccented
+    drumbeat, rhythmic units, and possible links to motive and mental state. It then
+    introduces Dream Songs, described as songs that come to mind in a dream or trance
+    after isolation and fasting, and notes a comparison with Ghost Dance songs reported
+    by James Mooney.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mide' songs are compared with other song groups by scale type, melodic structure,
+    interval patterns, meter, and direction of first progression.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group is reported to have a high proportion of first progressions that
+    are downward intervals and a generally downward melodic trend.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:3
+  text: All of these Mide' songs are said to have a rapid, unaccented drum beat; the
+    passage states that this occurs in no other group except the war songs.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The proportion of songs containing a rhythmic unit is reported as larger in
+    this group than in any other group.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The passage states that the songs are used to accomplish a purpose: securing
+    a definite effect, usually on a person other than the singer, by supernatural
+    power.'
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author presents possible connections between musical features of Mide'
+    songs and the singer's motive or mental state.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Dream Songs are described as not composed in the usual sense but as coming
+    to the mind of an Indian when he was in a dream.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says isolation and fasting could induce a condition in which the
+    person saw a vision and composed a song.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A comparative note attributed to James Mooney says Ghost Dance participants
+    voluntarily sought trance and often made the story of the vision into a song after
+    emerging.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mide' singer
+  description: The singer associated with Mide' songs, whose songs are described as
+    seeking an effect by supernatural power.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: person affected by song
+  description: A person other than the singer on whom the definite effect is usually
+    secured.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: dream-song recipient/composer
+  description: The Indian who, through isolation and fasting, enters a condition,
+    sees a vision, and composes a song.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Ghost Dance trance participants
+  description: Persons in Mooney's report who seek trance and embody a vision in song.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ritual singer seeking an effect
+  assigned_to:
+  - fig:1
+  basis: Mide' songs are described as a means of securing a definite effect by supernatural
+    power, usually on someone other than the singer.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: target of supernatural effect
+  assigned_to:
+  - fig:2
+  basis: The effect of the song is said usually to be on a person other than the singer.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: visionary song composer
+  assigned_to:
+  - fig:3
+  basis: Dream Songs are said to come to mind in a dream; isolation and fasting lead
+    to vision and song composition.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: trance visionary singer
+  assigned_to:
+  - fig:4
+  basis: Mooney's report describes Ghost Dance participants seeking trance and embodying
+    the story of their vision in song.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: rapid unaccented drumbeat
+  literal_form: rapid, unaccented drum beat; in some songs a drumbeat faster than
+    the metric unit of the voice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: rhythmic unit
+  literal_form: recurring rhythmic unit within the songs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: dream or trance vision
+  literal_form: dream or trance condition in which a vision is seen
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: fasting and isolation
+  literal_form: isolation and fasting before vision and song composition
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: song as supernatural instrument
+  literal_form: Mide' song used to secure an effect by supernatural power
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Analytical comparison of Mide' songs
+  summary: The passage compares Mide' songs statistically with other groups by scale,
+    melodic motion, interval type, meter, rhythmic unit, and drum rhythm.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mide' song used for supernatural effect
+  summary: The passage describes Mide' songs as a means to secure a definite effect,
+    usually on another person, by supernatural power.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Dream-song acquisition
+  summary: Dream Songs are said to come to mind in a dream; by isolation and fasting,
+    a person enters a condition in which he sees a vision and composes a song.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Ghost Dance trance-song example
+  summary: A comparative note reports that Ghost Dance participants sought trance
+    and, after emerging, often embodied the story of their vision in a song.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ritual song as instrument of supernatural effect
+  taxonomy_refs: []
+  basis: Mide' songs are described as used to secure a definite effect, usually on
+    another person, by supernatural power.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnomusicological and does not narrate a mythic episode;
+    the supernatural function is reported as a use of songs.
+- id: motif:2
+  label: vision- or dream-received song after fasting and isolation
+  taxonomy_refs:
+  - mystical_quest
+  basis: Dream Songs are said to come to mind in a dream, and isolation and fasting
+    are described as inducing a state in which vision and song composition occur.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The text does not use the term quest or describe a broader initiation
+    sequence; the taxonomy link is functional and should be reviewed.
+- id: motif:3
+  label: trance vision converted into song
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Ghost Dance note says participants sought trance and embodied the story
+    of the vision in a song.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The example is a secondary comparative note outside the Chippewa Mide'
+    song corpus.
+- id: motif:4
+  label: drumbeat as marker of controlled excitement
+  taxonomy_refs: []
+  basis: The author associates a rapid drumbeat faster than the voice with controlled
+    excitement in Mide' songs and other song contexts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a musical and psychological pattern rather than a mythological
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Chippewa Dream Songs with a broader pattern among other
+    Indian tribes in which songs are composed during or immediately after an abnormal
+    mental state.
+  claim_level: same_function
+  target: song composition during or after trance among other Indian tribes
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is general and does not provide detailed cases beyond
+    the cited Ghost Dance example.
+- id: claim:2
+  claim: Mooney's Ghost Dance example and the Chippewa Dream Songs share the function
+    of trance or vision as a source for songs.
+  claim_level: same_function
+  target: Ghost Dance vision songs as reported by James Mooney
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a secondary report and does not claim historical
+    contact, common inheritance, or a shared mythic narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6181-6207
+  quote_or_summary: Mide' songs are statistically compared with other song groups
+    by five-toned scales, octave forms, melodic structure, downward first progressions,
+    minor thirds, average interval, and meter.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:2
+  type: summary
+  locator: 6208-6216
+  quote_or_summary: The drum rhythm of these songs is described as a rapid, unaccented
+    beat; the group also has a high proportion of rhythmic units and many songs in
+    which the drum is faster than the voice.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:3
+  type: summary
+  locator: 6217-6229
+  quote_or_summary: The passage says Mide' songs are used to accomplish a purpose
+    by supernatural power, usually affecting someone other than the singer, and lists
+    musical traits such as major tonality, indirect opening, rhythmic unit, downward
+    melodic trend, minor third, and fast drumbeat.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:4
+  type: summary
+  locator: 6230-6239
+  quote_or_summary: The author proposes that rhythmic unit, major tonality, preference
+    for dominant, unaccented initial tone, freely melodic form, and rapid drumbeat
+    may be connected with the motive and mental state of the singer.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:5
+  type: summary
+  locator: 6244-6255
+  quote_or_summary: Dream Songs are introduced as songs not composed in the usual
+    sense but said to come to mind in a dream; isolation and fasting are described
+    as inducing a condition in which the person saw a vision and composed a song.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized by extractor.
+- id: ev:6
+  type: summary
+  locator: 6255-6259
+  quote_or_summary: The passage notes that song composition during or after an abnormal
+    mental state has been observed among other Indian tribes; James Mooney is cited
+    on Ghost Dance participants seeking trance and making the vision story into song.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized by extractor.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily ethnomusicological rather than narrative mythology.
+    Motif extraction is based on reported ritual functions, dream/trance song acquisition,
+    and the passage's own comparative note. No available taxonomy symbol references
+    occur literally in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the supplied available taxonomy list.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l6181-l6259
+  passage_sha256=3286780b35bb7752e2331169f40478d2e49f5836de0f59db36d8efa79b74c6bc
+

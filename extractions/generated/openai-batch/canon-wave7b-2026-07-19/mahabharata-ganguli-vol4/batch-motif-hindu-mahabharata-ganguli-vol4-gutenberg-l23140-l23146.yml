@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l23140-l23146
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION CLVII / SECTION CLVIII / SECTION CLIX / SECTION CLX; lines 23140-23146
+  start: '23140'
+  end: '23146'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"that knowledge which thou hast acquired through the grace of Durvasa"'
+  summary: Yudhishthira asks the addressee, called the slayer of Madhu, to expound
+    knowledge gained through Durvasa's grace and to describe in detail the blessedness
+    and names of a high-souled one.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira is the speaker in the passage.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee is called the slayer of Madhu and foremost among intelligent
+    persons.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Yudhishthira asks the addressee to expound knowledge acquired through the
+    grace of Durvasa.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yudhishthira says he wants to know the high blessedness and all the names
+    of a high-souled one truly and in detail.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Speaker who requests an exposition of knowledge and names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: slayer of Madhu
+  description: Addressee praised as foremost among intelligent persons; said to have
+    acquired knowledge through Durvasa's grace.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Durvasa
+  description: Named as the one through whose grace the addressee acquired knowledge.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the high-souled one
+  description: Unnamed figure whose blessedness and names Yudhishthira wants to know.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioner seeking knowledge
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks for knowledge to be expounded and says he desires to know
+    details.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: addressed teacher or expositor
+  assigned_to:
+  - fig:2
+  basis: The speaker asks the addressee to expound knowledge.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient or holder of grace-acquired knowledge
+  assigned_to:
+  - fig:2
+  basis: The knowledge is described as acquired through Durvasa's grace.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: source of grace
+  assigned_to:
+  - fig:3
+  basis: Durvasa is named as the one through whose grace the knowledge was acquired.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: subject of blessedness and names
+  assigned_to:
+  - fig:4
+  basis: Yudhishthira asks to know the high blessedness and all the names of this
+    high-souled one.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Request for exposition of grace-acquired knowledge
+  summary: Yudhishthira addresses the slayer of Madhu and asks him to explain knowledge
+    gained through Durvasa's grace, including the blessedness and names of a high-souled
+    one.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: request for sacred or authoritative wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on a speaker asking an authoritative addressee to expound
+    knowledge acquired by grace and to give detailed names and blessedness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The short passage presents a request for knowledge but does not yet include
+    the actual teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23140-23146
+  quote_or_summary: Yudhishthira said, addressing the addressee as "O slayer of Madhu"
+    and "O foremost of all persons endued with intelligence."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public-domain Project Gutenberg/Ganguli translation; short excerpt
+    used.
+- id: ev:2
+  type: quote
+  locator: lines 23140-23146
+  quote_or_summary: '"expound to me that knowledge which thou hast acquired through
+    the grace of Durvasa"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public-domain Project Gutenberg/Ganguli translation; short excerpt
+    used.
+- id: ev:3
+  type: quote
+  locator: lines 23140-23146
+  quote_or_summary: '"I desire to know everything about the high blessedness and all
+    the names of that high-souled one truly and in detail"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public-domain Project Gutenberg/Ganguli translation; short excerpt
+    used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but the passage is brief and does
+    not identify the high-souled one within the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied taxonomy are explicitly present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l23140-l23146
+  passage_sha256=8fd4e5627db38613b4f2debaf677e987ef7948580e230a8cda088fbc8d1d4f34
+

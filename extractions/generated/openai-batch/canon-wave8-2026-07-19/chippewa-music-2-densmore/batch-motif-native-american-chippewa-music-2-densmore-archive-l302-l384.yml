@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l302-l384
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: Chippewa Music II / ANALYSIS  OF  CHIPPEWA  MUSIC; lines 302-384
+  start: '302'
+  end: '384'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes tonal, harmonic, melodic, and intervallic features
+    of Chippewa songs, emphasizing diatonic tone material, predominantly melodic rather
+    than harmonic structure, a downward melodic trend, and frequent use of the minor
+    third. It also cites comparisons with observations about other musical traditions
+    and natural calls.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Most of the analyzed songs are described as diatonic, with 85 percent containing
+    no accidentals.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When accidentals occur, the sixth degree is most frequently affected, and
+    accidentals are reported as more frequent in love songs than in other groups.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Songs are classified as harmonic, melodic, or intermediate according to the
+    chord-relation, or lack of chord-relation, between contiguous accented tones.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The analysis reports 83 songs, or 24 percent, as harmonic; 222 songs, or 66
+    percent, as melodic; and 35 songs, or 10 percent, as intermediate or melodic with
+    harmonic framework.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The author notes that the boundaries of melodies and persistence of the third
+    and fifth suggest chord relations, while the proportion of songs classified as
+    harmonic remains small.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The first melodic progression is downward in 70 percent of the songs; 65 percent
+    of all progressions are downward; and in 90 percent of the songs the last tone
+    is the lowest tone.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The second is the most frequent interval, followed by the minor third, which
+    comprises 34 percent of downward and 29 percent of upward progressions.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage cites writers who observed minor-third, flat-third, third-range,
+    or non-major interval features in Asaba, Australian Aboriginal, Sumatran, Irish,
+    and Bengal music, and in notated bird and beetle calls.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage cautions that intervals heard by travelers cannot be assumed to
+    have been accurate minor thirds, but may have been heard as non-major thirds by
+    ears trained in Western musical standards.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: In the Chippewa songs, minor thirds in both ascending and descending progressions
+    are reported as more than twice as frequent as major thirds.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The author states that the relation of tones in the songs appears to be an
+    interval-relation rather than a key-relation, and that the interval is the melodic
+    nucleus of Chippewa song.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Predominant downward melodic movement
+  taxonomy_refs: []
+  basis: The passage reports a downward first progression in most songs, a majority
+    of total progressions as downward, and the final tone as lowest in most songs.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a musical pattern, not a narrative or mythic motif from the supplied
+    taxonomy.
+- id: motif:2
+  label: Minor third as prominent melodic interval
+  taxonomy_refs: []
+  basis: The minor third is identified as the next most frequent interval after the
+    second and as more than twice as frequent as the major third in both ascending
+    and descending progressions.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is an intervallic musicological pattern; no symbolic or mythological
+    interpretation is stated in the passage.
+- id: motif:3
+  label: Melodic structure over harmonic structure
+  taxonomy_refs: []
+  basis: The passage classifies most songs as melodic rather than harmonic and adds
+    an intermediate category for melodic songs with harmonic framework.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an analytical musical-structure pattern, not a mythic motif.
+- id: motif:4
+  label: Interval-relation as melodic nucleus
+  taxonomy_refs: []
+  basis: The author explicitly states that the songs suggest interval-relation rather
+    than key-relation, and that the interval is the melodic nucleus of Chippewa song.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is the author’s analytical conclusion from the musical data; it should
+    not be extended beyond the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the prominence or perceived prominence of minor-third
+    or non-major-third intervals in Chippewa songs with reported observations from
+    Asaba, Australian Aboriginal, Sumatran, Irish, and Bengal music, as well as with
+    notated natural calls.
+  claim_level: same_motif
+  target: Minor-third or non-major-third musical interval pattern across cited music
+    traditions and natural calls
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The comparison is musical and intervallic, not mythological. The passage
+    itself cautions that the intervals reported by travelers may not have been accurate
+    minor thirds, and it does not claim historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 302-306
+  quote_or_summary: Most songs are described as diatonic; 85 percent contain no accidentals.
+    In songs with accidentals, the sixth is most often raised or lowered, and love
+    songs show accidentals most frequently.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:2
+  type: summary
+  locator: lines 308-330
+  quote_or_summary: 'Songs are classified by relations among contiguous accented tones:
+    24 percent harmonic, 66 percent melodic, and 10 percent intermediate or melodic
+    with harmonic framework.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:3
+  type: summary
+  locator: lines 332-336
+  quote_or_summary: The author notes that melodic boundaries and the persistence of
+    the third and fifth suggest chord relation, yet the proportion of songs classified
+    as harmonic is small.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:4
+  type: summary
+  locator: lines 338-345
+  quote_or_summary: 'Tables are said to show a downward tendency: first progressions
+    are downward in 70 percent of songs, 65 percent of all progressions are downward,
+    and the last tone is lowest in 90 percent of songs.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:5
+  type: summary
+  locator: lines 347-359
+  quote_or_summary: The second is the most frequent interval; the minor third follows,
+    making up 34 percent of downward and 29 percent of upward progressions.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:6
+  type: summary
+  locator: lines 360-373
+  quote_or_summary: The passage cites Day on Asaba songs, Torrance on Australian Aboriginal
+    songs, Marsden on Sumatran tunes resembling Irish tunes and sharing a flat third
+    also observed in Bengal, and Gardiner’s notation of plover and beetle calls as
+    descending minor thirds. It cautions that travelers’ intervals may not have been
+    exact minor thirds.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:7
+  type: summary
+  locator: lines 375-384
+  quote_or_summary: For Chippewa songs, minor thirds are reported as more than twice
+    as frequent as major thirds. The author interprets this as evidence of interval-relation
+    rather than key-relation and calls the interval the melodic nucleus of Chippewa
+    song.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is musicological analysis rather than myth narrative. Extracted
+    motifs are musical patterns only; no narrative figures, mythic symbols, or scenes
+    are present in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif-family or symbol reference is directly supported by this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l302-l384
+  passage_sha256=7960241350f7f9503c7d093c3ac2255949f7111664f37dd785fd864bdab6d1a9
+

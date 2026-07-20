@@ -1,4 +1,71 @@
+---
+id: native_american.teton_sioux_music.densmore_archive
+title: Teton Sioux Music
+alternate_titles:
+- Teton Sioux Music (BAE Bulletin 61)
+text_status: complete
+tradition: native_american_plains
+culture: lakota_ceremonial_song_tradition
+region: north_america_northern_plains
+source_language: Lakota (Teton Sioux)
+text_language: English
+date_range: living song tradition; recorded 1911-1914 at Standing Rock from named
+  singers including Sun Dance and Heyoka participants; published 1918 (BAE Bulletin
+  61)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.tetonsiouxmusic00densgoog
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1918 Government Printing
+    Office edition (Google scan)
+  translator: Frances Densmore
+  editor: ''
+  publication_year: 1918
+  publisher: Internet Archive
+  source_url: https://archive.org/details/tetonsiouxmusic00densgoog
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: US government publication (BAE), public domain. Recording context - Sun Dance,
+    dream society, sacred stone, and healing songs recorded from named Lakota singers
+    with Lakota words and English translations; includes first-person vision narratives
+    by the singers - exceptional experiential material.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- lakota
+- sioux
+- plains
+- sun_dance
+- song_texts
+- verbatim_texts
+- holdout_priority
+motifs:
+- vision_quest
+- sun_dance
+- sacred_stone
+- dream_society
+- heyoka
+figures: []
+---
+
 # Teton Sioux Music
+
 By  FRANCES  DENSMORE
 
 
@@ -38,7 +105,7 @@ Huron  and  Dakota  from  the  Iroquois  proper,  whom  they  designated
 Nadowe  'wok, '  the  adders '  or '  the  enemies ' .'  A  similar  interpretation
 is  given  by  Warren,  the  native  historian  of  the  Chippewa  tribe.'
 
-t  Riggs,  StephoQ  R.,  Orammar  and  Dictionary  of  the  Dakota  Language,  In  SmUk9 m.  OotUr.,  xv,  pp.
+t  Riggs,  StephoQ  R.,  Orammar  and  Dictionary  of  the  Dakota  Language,  In  SmUk9<m.  OotUr.,  xv,  pp.
 XV,  48,  Washbigton,  1852.
 I  See  Handbook  of  American  Indians  (Bull.  SO,  Bur.  Afner.  Ethn.),  pt..l,  p.  376,  1907.
 » Warren,  Wflliani  W.,  History  of  the  OJIbways.  in  QjU.  Minn.  Jlitt.  Soe.,  vol.  5,  p.  ?2,  1885
@@ -884,7 +951,7 @@ XKLODIC
 -continaed
 
 
-Tablm  jL^^nnfBER  OF  TOXES  COMPRISINQ  COKPASS  OF  SOXG~- aBtiiRMd
+Tablm  jL^^nnfBER  OF  TOXES  COMPRISINQ  COKPASS  OF  SOXG~-<aBtiiRMd
 
 
 Old
@@ -950,7 +1017,7 @@ Mt^artrtedflmdamalb
 
 M^jor  triid  and  sixth
 
-M«M<)"'^^   H><1  »CBB<'
+M«M<)"'^^  ‹H›<1  »CBB<'
 
 MUBMCferiiia
 
@@ -977,7 +1044,7 @@ OcUvu   LH)mplaU   awapt   saTaath   and
 
 rourU»«
 
-1  H U\  u  coiuploLo  ajicapt  savaath  and  third
+1  H<U\  u  coiuploLo  ajicapt  savaath  and  third
 ocUvv  I'omplttU)  tMi.*apt  *M»vaBth  and
 
 ou»l
@@ -1115,7 +1182,7 @@ Octave  complete  except  third  and  second .
 Octave  complete  except  second
 
 
-Minor  th w1  f»nd  foiirth
+Minor  th<w1  f»nd  foiirth
 
 Ffrst.  fourth,  and  fifth  tones
 
@@ -2327,7 +2394,7 @@ Total :
 
 »
 
-1  Excliide l  in  computing  percentage.
+1  Excliide<l  in  computing  percentage.
 4840*»— Bull.  61—18 4
 
 
@@ -3736,7 +3803,7 @@ Niunber.
 
 Percent.
 
-Interval  of  ft- xmtd.
+Interval  of  ft-<xmtd.
 Major  sixth
 
 
@@ -4236,7 +4303,7 @@ MO
 !•
 
 
-'-•»!.♦  ? w»    ^fl'^-'^mii  x*r  pnt  M»
+'-•»!.♦  ?<w»    ^fl'^-'^mii  x*r  pnt  M»
 
 
 ♦lilfin"tn
@@ -4245,7 +4312,7 @@ MO
 "^itmKrf-    ■*»*i'  ftv    Vmr/hP'     '•♦»♦  i»wm    V-mriWr    Vtr  nw?fi    Vnnihir    rvr  r*  t
 
 
-'4Mmiin i«wi»*uim-
+'4Mmiin<i«wi»*uim-
 
 
 *  igr%n
@@ -4742,7 +4809,7 @@ ANALYSIS  OF  SIOITX  AND  CHIPPEWA  SONGS
 Tho  purpoHO  of  IIuh  chapter  is  to  present  in  descriptive  and  diagrammatic fonn '  the  more  important  data  contained  in  the  tabulated
 analyMOH  immediately  pn>coding.
 
-Table  lA.  In  this  table  the  songs  are  groupe i  according  to  tonality,
+Table  lA.  In  this  table  the  songs  are  groupe<i  according  to  tonality,
 which  is  defined  as  *'the  quality  or  peculiarity  of  a  tonal  system."
 (See  p.  12,  footnote.)  The  first  step  in  analyzing  a  song  is  the  detern\ination  of  the  keynote  or  tonic  by  observing  the  tones  which  occur
 in  the  song  and  their  general  progressions.  The  next  step  in  the
@@ -4775,7 +4842,7 @@ in  the  mind  of  the  Indians.  It  setmis  morv  pr\>bable  that  a  prefeivn
 for  the  major  t^nxaluy  shv^^ti  in  many  grvniixs  of  s*^>ngs  may  W  due  to
 the  fact  that  the  majv^r  ihirvl  is  one  of  the  more  proniinoiu  overtones
 of  a  fuudat\UH\ial  tone  v-*v  iv  4 1  \  lU  Imlu  Itz  stares  that  t  ::e  •  — n -^r
-triad  is  vw^>-  deinde^Uv  k^  hanuvHi:v>iis  than  the  maj.r  trad,  in  ivns^ueiuvof  the  c^nubii\at:vn.al  tones,  whi/n  mu>t  cv-> x;ut:.::y  l-e  .  .
+triad  is  vw^>-  deinde^Uv  k^  hanuvHi:v>iis  than  the  maj.r  trad,  in  ivns^ueiuvof  the  c^nubii\at:vn.al  tones,  whi/n  mu>t  cv-><x;ut:.::y  l-e  .  .
 taken  ml o cv^usivlerativ^n    .    a*>v^  •^.a ^- ^^  **.......*><_.
 
 
@@ -5812,10 +5879,10 @@ with  reference  to  both  these  standunls.
 In  the  phonographic  reconling  of  about  1,000  Indi:.n  sonjrs  and  in
 contact  with  a  large  number  of  Indian  singers  the  writer  has  found
 
-I  This  dk^Ur  w«s  rMd  by  •  d«t€|pftt  ion  of  Sioux  who  w«rp  m  W^ ih.incton  on  tribal  busm^ts^^.  The  del»>
+I  This  dk^Ur  w«s  rMd  by  •  d«t€|pftt  ion  of  Sioux  who  w«rp  m  W^<ih.incton  on  tribal  busm^ts^^.  The  del»>
 fitioil  w»s  compoMd  of  flv«  iiM>n,  oii«  each  frooi  th«»  S:a  :!.-..:  Uv>  k.  I  4  le  Ivii:«^.  Ko^^V.i.  Crow  Creek,
 Uid  Low  Bruto  AfViciat.  Ttiey  |>ronouai.^  thi»  5tJi:iii^d5  oi  IiKiLia  nij>K^ii  iTitivL>ai  to  b«  correctly
-Ml  brUi,  Mid inc only  that  in  order  to  be  a  ixxmI  muv.cu::  jus.^af  the  IndLins  a  man  mu t  be  Abte  to  learn
+Ml  brUi,  Mid inc only  that  in  order  to  be  a  ixxmI  muv.cu::  jus.^af  the  IndLins  a  man  mu<t  be  Abte  to  learn
 •  melody  qokkiy ,  and  that  a  food  inttslcia&  oMiid  su^:  a  ctivMy  ^\kt^  t  ly  ±i\  er  beurm^  u  two  or  three  timea
 
 
@@ -5895,7 +5962,7 @@ musical  standing  aciv^cg  their  own  people  b  not  so  high.  An  instance
 cf  this  b  i^  folk^vs:  On  the  twkscription  of  a  song  recorded  by  an  old
 man  it  w»  found  that  the  melody  showed  no  feeling  for  a  keynote,
 loquirr  acK^cg  the  Indiazks  disckxsed  the  fact  that  the  man  was  not
-cv'ttsidtfied  by  iheci  to  be  a  svxkI  si^ser.  Tne  same  song  was  acc mlin^  obtained  from  a  nian  of  a^-knowied^!?d  musical  pn>nciency.  and
+cv'ttsidtfied  by  iheci  to  be  a  svxkI  si^ser.  Tne  same  song  was  acc<mlin^  obtained  from  a  nian  of  a^-knowied^!?d  musical  pn>nciency.  and
 on  cociP^riEg  the  rec-iiuv  os  it  was  found  that  by  s%ht  alteratiois
 in  pitch  the  scc^  had  becon.e  iiiaionic  in  character,  the  interrak
 ck^elv  reseciblini:  iho^^e  of  ihe  soile  anvi  erivlir^  on  a  keynote.  Exc^enence  in  bstemr:^  to  the  ni^koiess  cf  Chirp^  wa  anvi  Sioux  niakes  it
@@ -7076,7 +7143,7 @@ spirit  bundle  would  rest  when  they  were  in  the  lodge.  Such  a  robe
 signified  that  the  spirit  being  kept  was  pure,  and  that  all  the  articles
 coimected  with  it  had  been  purified.  No  one  was  allowed  to  touch
 the  robe  with  bare  hands  nor  pass  between  it  and  the  fire.  The  onbr
-person  penmtt Hi  to  touch  it  was  a  medicine-oian  who  was  known  to
+person  penmtt<Hi  to  touch  it  was  a  medicine-oian  who  was  known  to
 be  qualified  for  the  act.  Bear  Face  said  that  he  had  such  a  robe  when
 he  kept  the  spirit  of  his  son,  and  that  the  only  peison  aUowed  to  touch
 or  move  it  wa»  a  man.  whom  he  engaged,  who  was  noted  for  this
@@ -7569,7 +7636,7 @@ dancing  in  the  Sun  dance,  and  as  he  looked  steadily  at  the  sun  he  
 I  One  of  the  most  Important  of  the  Interoessor's  duties  was  considered  to  be  the  offering  of  prayers  as
 lepcmentatlve  of  the  people,  and  for  this  reason  the  term  "Intercessor"  was  adopted  by  Mr.  Iliirheagle
 to  designate  this  office.  A  majority  of  English  words  expressing  religious  ideas  are  associatpd  ^  itb  the
-t M>^hf"eif  of  Christianity.  In  many  instances,  therefore,  the  native  idea  must  be  gained  largely  from  the
+t‹M›^hf"eif  of  Christianity.  In  many  instances,  therefore,  the  native  idea  must  be  gained  largely  from  the
 connection  in  which  a  word  is  used.
 
 
@@ -8152,7 +8219,7 @@ it  on  the  prairie  and  rolled  their  great  bodies  on  its  fragrant  leav
 The  sage  used  in  this  connection  was  identified  as  Artemisia  gnaphalodes
 Nutt.
 
-A  month  before  the  Sun  dance  the  vxjJca^'h it)  (medicine-men;  see
+A  month  before  the  Sun  dance  the  vxjJca^'h<it)  (medicine-men;  see
 p.  245)  prayed  for  fair  weather,  singing,  burning  sweet  grass,  and  offering their  pipes  to  the  sky,  the  earth,  and  the  cardinal  points.  Before
 burning  the  sweet  grass,  a  medicine-man  prepared  a  spot  of  bare
 groimd,  placing  a  few  coals  in  the  middle  of  it.  Then,  taking  a
@@ -8730,7 +8797,7 @@ he-na  ko-
 ^:f  f  'Lfii^f  "r^
 
 
-ki   -  pe     finl    o   -    ma  -wa-ni         e       m      ite-sa-    bye     Sa   o-wale
+ki   -  pe     finl    o   -    ma  -wa-ni         e       m      ite-sa-    bye    <Sa   o-wale
 •Drum-rhytlim
 
 4        #
@@ -9339,14 +9406,14 @@ The  Sun-dance  pole  was  usually  about  35  feet  in  length  and  6  to
 4840*»— Bull.  61—18 10
 
 
-118  nVHKAV  or  AMEBICAK  ETHKOLOOY  [bclu i
+118  nVHKAV  or  AMEBICAK  ETHKOLOOY  [bclu<i
 
 on  i}u>  polo,  }mnf(  H^rmroly  fantoned  to  the  short  branch  left  for  the
 ptir[Hmrn  At  i}u^  intc^niection  of  the  pole  and  the  crossbar  there
 witM  tiixl  with  rawhide  thongs  a  bag,  which  constituted  one  of  the
 offorintpi  tundi^  by  the  I^eader  of  the  Dancers.  This  bag  was  about
 2  foiit  Mfjuans  made  of  rawhide  decorated  with  beads,  tassels,  and
-frinice,  Mid  wim«  wrapp Hl  in  cherry  branches  4  or  5  feet  long  which
+frinice,  Mid  wim«  wrapp<Hl  in  cherry  branches  4  or  5  feet  long  which
 eoitipIeU^y  concimled  it.  Inside  the  bag  was  a  smaller  bag  of  tanned
 buffalo  hide  containing  the  offering,  which  consisted  of  a  large  piece
 of  btiffah)  hump,  on  a  sharpened  stick  painted  red.  The  stick  was
@@ -9649,7 +9716,7 @@ No.  17.  Song  of  PrepAring  the  Sacred  Place    (Catalogue  No.  500)
 Sung  by  Red  Bird
 
 
-VOXCB  J= M>
+VOXCB  J=‹M›
 Dbum  not  recorded
 
 
@@ -10778,7 +10845,7 @@ haijye^  wi  kig the  moon
 
 kola^  waye^o is  my  friend
 
-pehai)^  wai)  i  crane
+pehai)^  wai) <i  crane
 
 koyag'  maye^o it  has  made  me  wear
 
@@ -11137,7 +11204,7 @@ Dxuic  J=176
 Drom-rhythm  similar  to  No.  6
 
 
-[BULt,.   i
+[BULt,.  <i
 
 
 0)
@@ -12476,7 +12543,7 @@ Dnim-rhythm  similar  to  No.  6
 lie  a  -  ki  -  6i  -  ta
 
 
-6a  wa  -  mi- ioi]    -    ze  -  lo
+6a  wa  -  mi-<ioi]    -    ze  -  lo
 
 
 he    a  -  ki-  6i  -  ta
@@ -16189,7 +16256,7 @@ kii)    -   yaq      ye    wa  -  ye  -  lo   he
 pe  -
 
 
- u  -  ta  wai)    ko  -  yag       wa  -  ki       ye  -  lo     kii)    -    yarj     ye    wa  -  ye
+<u  -  ta  wai)    ko  -  yag       wa  -  ki       ye  -  lo     kii)    -    yarj     ye    wa  -  ye
 
 
 ^^^Mtfeg^^^^as
@@ -17583,7 +17650,7 @@ mitaVuyo is  mine  (I  claimed)
 
 wahu''  noQ^pa  wag (to)  a  man
 
-.  h /ye a  voice
+.  h</ye a  voice
 
 waki^ye  ^ig I  sent
 
@@ -18953,7 +19020,7 @@ and  was  sung  when  the  patient  began  to  improve.
 Bbum  not  recorded
 
 
-No.  82.  < I  Am  Sitting"
+No.  82.  <<I  Am  Sitting"
 
 Sung  by  Eagle  Shield
 
@@ -19158,7 +19225,7 @@ he  tu'wa some  one
 
 hiyu^ye "come  here"
 
-eya'  6ey / has  said
+eya'  6ey</ has  said
 
 
 DBNqifOBE]
@@ -19292,7 +19359,7 @@ kahaq^tuke now  ^
 
 ma^ni  yelo you  will  walk
 
->  Compare  words  of  sonp  No.  47,  Iinll«»t  In  4.'>: '« You  will  re y)ver,  you  will  walk  apiin.    It  is  I  who  say  It.
+>  Compare  words  of  sonp  No.  47,  Iinll«»t  In  4.'>: '« You  will  re<y)ver,  you  will  walk  apiin.    It  is  I  who  say  It.
 My  power  is  great.    Tlirougli  our  white  shell  I  will  enable  you  to  walk  again."
 
 
@@ -20536,7 +20603,7 @@ Drum  J:^132
 Drum-rhythm  similar  to  Ko.  19
 
 
-No.  94.    < May  This  be  the  Day''
+No.  94.    <<May  This  be  the  Day''
 
 SimgbyTwo  Shiblds
 
@@ -21287,7 +21354,7 @@ WO      -
 m
 
 
-12    >:  ^  s?.  M.  'c.  yj.  >-   JN  <5J  a:.  »:  ^a
+12    >:  ^  s?.  M.  'c.  yj.  >-  <JN  <5J  a:.  »:  ^a
 
 
 Toe*:
@@ -21728,7 +21795,7 @@ first  part  of  the  song  the  drum  precedes  the  voice,  but  in  the  clos
 measures  the  drum  and  voice  coincide.
 
 
-No.  99.  « A«raliist  the  Wind"
+No.  99.  «<A«raliist  the  Wind"
 
 ^ucgby  Gray  Hawk
 
@@ -22092,7 +22159,7 @@ VoiCB  J  -  69
 Drum  not  recorded
 
 
-No.  106.  < My  Life  Is  Such
+No.  106.  <<My  Life  Is  Such
 
 Simg  by  Shooter'
 
@@ -22638,7 +22705,7 @@ until  the  first  few  measures  of  the  song  had  been  sung,  after  which
 it  was  steadily  maintained.
 
 
-[Brix.   a
+[Brix.  <a
 
 
 Dbdm  not  recorded
@@ -22767,7 +22834,7 @@ hel    i  -  to-  he-ya
 
 pef  u'ta  (contraction  of  peii^huta) .  a  root  of  herb
 
-wakar)' 8acre l
+wakar)' 8acre<l
 
 ^a it  is
 
@@ -23185,7 +23252,7 @@ Total  number  of  semitones
 Average  number  of  semitones  in  an  interval
 
 
-4 M
+4<M
 
 1,436
 
@@ -26203,7 +26270,7 @@ ni4ii]}-6i-ya    yo     o
 ni - hb)  -  fi  -  ya      jo        ht
 
 
- v  -ra
+<v  -ra
 
 
 le      m-ayas
@@ -26212,7 +26279,7 @@ le      m-ayas
 t.  s-ift .  nmi-yiiij  ijj4«;.  -  *S' >  y*    y^^yo
 
 
-1  TteftBB  PTfifeM»  of  tbIS  W f*xl  V«.«<1Wltl^'.  M
+1  TteftBB  PTfifeM»  of  tbIS  W<f*xl  V«.«<1Wltl^'.  M
 
 
 DBNSMOBE]
@@ -26390,7 +26457,7 @@ The  following  song  was  simg  during  or  after  a  fight:
 DSMSUOBE]
 
 
-No.  142.  < The  Earth  Only  Endures"    (Catalogue  No.  617)
+No.  142.  <<The  Earth  Only  Endures"    (Catalogue  No.  617)
 Sung  by  Used-as-a-Shield
 
 
@@ -26870,7 +26937,7 @@ BUREAU  OF  AMERICAN  ETHNOLOOY
 Drum  not  recorded
 
 
-No.  146.  ' He  Is  Returning'
+No.  146.  '<He  Is  Returning'
 
 Sung  by  Eabth-Medicine  Woman
 
@@ -27684,7 +27751,7 @@ No.  5.)
 4840O— Bull.  61—18 26
 
 
-No.  154.  < Tou  Should  Glre  Up  the  Warpath"       (Catalogue  No.  576)
+No.  154.  <<Tou  Should  Glre  Up  the  Warpath"       (Catalogue  No.  576)
 
 Sung  by  Shootbb
 
@@ -28722,7 +28789,7 @@ This  was  because  I  asked  Wakai)'tai)ka  to  give  me  success."
 «At  that  time  the  following  song  was  sung:
 
 
-No.  161.  ' !  Wish  to  Boam"
+No.  161.  '<!  Wish  to  Boam"
 
 Sung  by  Jaw
 
@@ -28979,7 +29046,7 @@ The  following  was  said  to  be  a  characteristic  song  of  the  Kai)gi'yuha
 The  words  express  reproof.
 
 
-No.  164..' STeii  the  Eagle  Dies"
+No.  164..'<STeii  the  Eagle  Dies"
 
 Sung  by  Eagle  Shield
 
@@ -29212,9 +29279,9 @@ fioi.Uj')')/')  of(J  illiV/      .mIoiI//       words
 
 *iii.)ii'^iyyki'A  jL'J'rA  'Mk'I  .  1'/!  Xi Ui . .  captives
 
-jxi'»'>  teKf.  i i:  .t'jv. , v-Uii}JHjJ .  iui.  iu .  also
+jxi'»'>  teKf.  i<i:  .t'jv. , v-Uii}JHjJ .  iui.  iu .  also
 
-*)-U{  v W4'feWW(-f-i-  f*-!-  ^-M-'M-.^-  vliMi-  -  -  I  am  bringing  home
+*)-U{  v<W4'feWW(-f-i-  f*-!-  ^-M-'M-.^-  vliMi-  -  -  I  am  bringing  home
 
 *)iiy  'U:iU Tte'iaiiiiArof  Wrf^'fe^<^lfett bj" the  Sloax  6mpB'  sa'pa  wl,  'black-cherry  moon.'
 
@@ -30340,7 +30407,7 @@ ta^'ku sdmething
 
 ote^ka difficult
 
-owa'^le  yel / I  seek
+owa'^le  yel</ I  seek
 
 Analysis, — This  is  a  particularly  interesting  melody.  It  contains
 only  the  tones  A,  B,  C,  and  E^  these  being  the  tonic  triad  and  second
@@ -33056,7 +33123,7 @@ DEXQMORE]
 
 hena^pila are  gone
 
-yel /  he so
+yel</  he so
 
 miyef  kakeiS^  e6\iT^^   uwa'tahe
 we I  myself  will  try  it
@@ -33325,7 +33392,7 @@ J=n2
 m^
 
 
-Car)  -  na    Ma-  to  -  noij  -  pa         wi  -   Ja  -  la     fini    wa  -  ni   -•  6e
+Car)  -  na    Ma-  to  -  noij  -  pa         wi  -  <Ja  -  la     fini    wa  -  ni   -•  6e
 
 
 42.
@@ -33373,7 +33440,7 @@ fur  hunter,  who  married  into  the  Kaposia,  or  Little  Raven  band  of  th
 1  Robinson,  De  Lorme  W.,  in  South  Dakoij  Himrieal  OMeeUofu,  vol.  1,  p.  126^  Aberdeen,  S.  Dak.,  1902.
 
 
-[BULL.   I
+[BULL.  <I
 
 
 result  of  this  union  waa  two  half-breed  sons,  Joseph  and  Victor,  father  of  Gabriel.
@@ -35597,7 +35664,7 @@ op.  cit.,  xm,  pt.  1,  pp.  59-61,  New  York,  1913.
 4840*--B011.  61—18 33
 
 
-rBnix. i
+rBnix.<i
 
 
 No.  206.  Song  of  the  Moccasin  Game  (a)     (Catalogue  No.  551)
@@ -36434,7 +36501,7 @@ wakta'  yai)ka^  yo watch
 
 o^ugke  6m the  poor
 
- /taye are  many
+</taye are  many
 
 beya'pi  ^ai)^na whenever  this  is  said
 
@@ -36689,7 +36756,7 @@ classified  as  melodic  with  harmonic  framework.
 •  [BULL,  ei
 
 
-No.  224.  ' The  White  Horse  Riders  Said  This"        (Catalogue  No.  477)
+No.  224.  '<The  White  Horse  Riders  Said  This"        (Catalogue  No.  477)
 
 Sung  by  Siya^ka
 
@@ -36805,7 +36872,7 @@ BUREAU   OP  AMERICAN  JITHNOLOGY
 ff
 
 
-No.  226.  < The  TritM  Tou  Help
+No.  226.  <<The  TritM  Tou  Help
 
 Sung  by  Haka'^la  (Youngest  Gaild)
 
@@ -37416,7 +37483,7 @@ was  unifonnly  given  in  the  several  renditions.  The  song  is  melodic
 in  structure  and  has  a  range  of  an  octave.
 
 
-No.  286.  ' I  HftTe  Been  Helping
+No.  286.  '<I  HftTe  Been  Helping
 
 Sung  by  Holt-facb  Bbab
 YoicB  J=7S
@@ -37466,7 +37533,7 @@ iwoldy;!  w;iOr ' I  hiv^  Iv^^n  h^ipiag
 
 
 Anc^.sU. — ^This  is  a  rhvtiuiiLO  moKxlv.  The  rhythmic  unit
-only  twice,  but  its  cv^uii:- iivi>k>us  apivAr  fnxjuonrly  througboat  the
+only  twice,  but  its  cv^uii:-‹iivi›k>us  apivAr  fnxjuonrly  througboat  the
 song-  Of  the  prv^irrvt^Lons  7\^  per  cent  aiv  either  minor  thirds  or
 ma jor  secoHiis,  The  niekxly  ton^^  arv  those  of  the  second  five-toiied
 sc^le^  and  the  soiig  has  a  conipdt^s  of  an  octave.
@@ -39365,7 +39432,7 @@ f>!JiA  .
 114.  -— 1    r  ^^  ^4-1      it  Sij — il   » »
 
 
->   g     i  ^
+>  <g     i  ^
 
 
 (O
@@ -39991,7 +40058,7 @@ No»l^
 No^l$l4
 
 
-N K  ISC
+N<K  ISC
 
 
 :  _4^
@@ -40517,5 +40584,4 @@ Societies  and  dance   associations  of  the  Blackfoot  Indians.    Ibid.,  pt
 United  States  Office  of  Indian  Affairs.    (Department  of  the  Interior.)    Reports
 
 of  the  Commissioners.     For  the  years  1874,  1875,  1882,  1886.
-
 

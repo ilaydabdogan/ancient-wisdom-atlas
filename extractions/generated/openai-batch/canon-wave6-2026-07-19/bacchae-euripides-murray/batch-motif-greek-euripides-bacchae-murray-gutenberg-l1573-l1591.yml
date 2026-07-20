@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1573-l1591
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 1573-1591
+  start: '1573'
+  end: '1591'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Better to yield him prayer and sacrifice / Than kick against the pricks...”"
+  summary: Dionysus warns Pentheus not to raise a spear against a god or frighten
+    the god’s chosen people from the hills. Pentheus answers by threatening to bind
+    Dionysus again. Dionysus replies that Pentheus should offer prayer and sacrifice
+    because Dionysus is a god and Pentheus is mortal.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus addresses Pentheus as king and says Pentheus does not heed his solemn
+    words.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus warns Pentheus not to lift a spear against a god and to fear the
+    god’s wrath.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dionysus says the god will not tolerate Pentheus frightening the god’s chosen
+    people from the hills.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Pentheus tells Dionysus to be silent and threatens to bind his arms again
+    with a chain.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Dionysus says prayer and sacrifice are better than resisting, because Dionysus
+    is a god and Pentheus is mortal.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Dionysus / Dionyse
+  description: The speaker who warns Pentheus; the passage identifies Dionyse as God.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Pentheus
+  description: Addressed as king and described as mortal; he threatens to bind Dionysus
+    again.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the god’s Chosen
+  description: A collective group associated with the hills of their delight, whom
+    Pentheus is warned not to frighten.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: god and divine warner
+  assigned_to:
+  - fig:1
+  basis: Dionysus warns against opposing a god, and the final speech states that Dionyse
+    is God.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: mortal king opposing the god
+  assigned_to:
+  - fig:2
+  basis: Pentheus is addressed as king, threatens renewed binding, and is contrasted
+    with Dionysus as mortal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: chosen devotees in the hills
+  assigned_to:
+  - fig:3
+  basis: The passage calls them the god’s Chosen and locates them in the hills.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: spear raised against a god
+  literal_form: spear
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: chain and binding
+  literal_form: chain; knotted arms
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hills of the chosen
+  literal_form: hills
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: prayer and sacrifice
+  literal_form: prayer and sacrifice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dionysus warns Pentheus against resisting the god
+  summary: Dionysus warns Pentheus not to attack or defy a god and not to frighten
+    the god’s chosen people from the hills. Pentheus threatens renewed restraint,
+    and Dionysus answers that prayer and sacrifice are the proper response to the
+    god.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: mortal warned not to challenge a god
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage centers on a warning that Pentheus should not raise a spear against
+    a god and should fear divine wrath.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage contains a warning of wrath, not the enacted judgment itself.
+- id: motif:2
+  label: appeasing a god with prayer and sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: Dionysus explicitly says Pentheus should yield the god prayer and sacrifice
+    rather than resist.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage advises sacrifice but does not depict the ritual being performed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1573-1580
+  quote_or_summary: Dionysus addresses the king, warns him not to lift a spear against
+    a god, and says the god will not tolerate him frightening the god’s Chosen from
+    the hills.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1582-1585
+  quote_or_summary: Pentheus tells Dionysus to be silent, says he has slipped his
+    chain, and threatens to knot his arms again.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 1587-1591
+  quote_or_summary: "“Better to yield him prayer and sacrifice / Than kick against
+    the pricks, since Dionyse / Is God, and thou but mortal.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; brief quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to explicit warning, divine-mortal contrast, and stated prayer/sacrifice; no comparison
+    claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unstated comparisons were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1573-l1591
+  passage_sha256=0d4a8b73484d80baeebb58ee361916a3c7b3c9106aa33bbd0f6156229d80b238
+

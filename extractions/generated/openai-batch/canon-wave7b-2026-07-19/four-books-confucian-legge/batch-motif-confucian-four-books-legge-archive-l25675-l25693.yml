@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l25675-l25693
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: THE WORKS OF MENCTUS / CIUS WITH KINO SEANG. BY WHOM / THE WORKS OF MEKCIUS
+    / CH. 4. A RULER'S PROSPERITY; lines 25675-25693
+  start: '25675'
+  end: '25693'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“open his granaries to supply the wants of the people”"
+  summary: A prince is urged to pursue his course. Duke King is pleased, issues a
+    proclamation across his state, occupies a border shed, opens his granaries for
+    the people, and commissions music for a prince and minister pleased with each
+    other; the named Che-shaou and Keo-shaou are then made.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker says that it is for the prince to pursue his course.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Duke King is described as pleased.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Duke King issues a proclamation throughout his state.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Duke King goes out and occupies a shed in the borders.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Duke King begins to open his granaries to supply the wants of the people.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Duke King calls the grand music master and asks him to make music suited to
+    a prince and minister pleased with each other.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Che-shaou and Keo-shaou are said to have been made at that time.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Duke King
+  description: A duke who is pleased, proclaims throughout his state, occupies a border
+    shed, opens granaries for the people, and commissions music.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the prince
+  description: The addressed prince in the counsel to pursue his course; also part
+    of the prince-minister relation named in the musical commission.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: the people
+  description: The people whose wants are to be supplied from opened granaries.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: grand music master
+  description: The music official called by Duke King and instructed to make music.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: the minister
+  description: An unnamed minister mentioned as part of the phrase describing a prince
+    and his minister pleased with each other.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ruler or prince
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage addresses a prince and then names Duke King as the acting ruler
+    over a state.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: issuer of proclamation
+  assigned_to:
+  - fig:1
+  basis: Duke King issues a proclamation throughout his state.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: provider of grain relief
+  assigned_to:
+  - fig:1
+  basis: Duke King opens his granaries to supply the wants of the people.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipients of supply
+  assigned_to:
+  - fig:3
+  basis: The people are named as those whose wants are supplied from the granaries.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: commissioned music official
+  assigned_to:
+  - fig:4
+  basis: The grand music master is called and told to make music.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: minister in harmonious relation
+  assigned_to:
+  - fig:5
+  basis: The commissioned music is to suit a prince and his minister pleased with
+    each other.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: granaries opened for relief
+  literal_form: granaries opened to supply the wants of the people
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: border shed
+  literal_form: a shed in the borders occupied by Duke King
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: music of prince-minister concord
+  literal_form: music commissioned for a prince and minister pleased with each other;
+    Che-shaou and Keo-shaou are made
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Counsel to the prince
+  summary: A prince is told that it is for him to pursue his course.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Duke King’s public response
+  summary: Duke King is pleased, proclaims throughout his state, occupies a shed in
+    the borders, and opens granaries for the people.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Commissioning of music
+  summary: Duke King calls the grand music master and asks him to make music fitting
+    a pleased prince-minister relationship; the Che-shaou and Keo-shaou are then made.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: benevolent rulership through public relief
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The ruler is shown responding positively, issuing a proclamation, and opening
+    granaries to supply the people's wants.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents political and ethical rulership rather than explicit
+    divine kingship; the royal_legitimacy taxonomy link is functional and should be
+    reviewed.
+- id: motif:2
+  label: harmonious prince-minister relationship celebrated in music
+  taxonomy_refs: []
+  basis: Duke King commissions music specifically suited to a prince and his minister
+    being pleased with each other.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not provide further ritual or mythic context for the
+    named music.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 25675-25676
+  quote_or_summary: "“It is for you, my prince, to pursue your course.”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 25678-25680
+  quote_or_summary: Duke King is pleased, issues a proclamation throughout his state,
+    and goes out to occupy a shed in the borders.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 25680-25682
+  quote_or_summary: "“he began to open his granaries to supply the wants of the people”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 25682-25685
+  quote_or_summary: "“Make for me music to suit a prince and his minister pleased
+    with each other.”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 25685-25693
+  quote_or_summary: The Che-shaou and Keo-shaou are said to have been made; the note
+    identifies che and keo as two notes in the Chinese scale.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and partly affected by OCR or formatting noise. Literal
+    extraction is mostly clear, while motif classification is tentative because the
+    passage is ethical-political rather than overtly mythological.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not support a specific cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l25675-l25693
+  passage_sha256=1f69540ae515cca1fc8192b2891d23545e94ade9fde53316fa0e7f1309c81676
+

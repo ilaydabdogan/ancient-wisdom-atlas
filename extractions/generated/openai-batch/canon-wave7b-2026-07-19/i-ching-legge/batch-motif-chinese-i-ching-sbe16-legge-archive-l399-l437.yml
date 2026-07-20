@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l399-l437
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: 'V. TREATISE OF REMARKS ON THE TRIGRAMS. / CONTENTS. / PREFACE: / XIV PREFACE.;
+    lines 399-437'
+  start: '399'
+  end: '437'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The preface explains why the edition separates the Text and Appendixes
+    of the Yi, describes concordance-based evidence about their vocabulary, questions
+    Confucian authorship of the Appendixes, notes agreement between the translator’s
+    interpretations and Chinese commentators, and emphasizes the difficulty of translating
+    the Yi.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The imperial edition of 1715 is said to keep the Text and the Appendixes separate.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Eight different concordances were formed: one for the Text and one for each
+    Appendix.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The concordances showed that many characters found in the Appendixes do not
+    occur in the Text.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator states that the greater part of the Appendixes was not from Confucius,
+    and that there is no evidence any part was his except possibly passages introduced
+    as sayings of “the Master.”
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator reports substantial agreement between his interpretations of
+    the hexagrams and lines and those of noted commentators from the Han dynasty to
+    the present.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator says the commentators were constrained by their belief in Confucian
+    authorship of the Appendixes.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator says the Yi’s style makes it especially difficult to translate
+    into an intelligible version.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: preface narrator / translator
+  description: The first-person speaker who describes studying, interpreting, and
+    translating the Yi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Confucius
+  description: Named as the figure to whom authorship of the Appendixes had been attributed,
+    though the narrator questions that attribution.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: compiler or compilers
+  description: Unspecified compilers who are said to have introduced paragraphs as
+    sayings of “the Master.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: noted commentators from the Han dynasty to the present
+  description: Commentators whose interpretations of the hexagrams and lines are said
+    to agree substantially with the narrator’s interpretations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: textual interpreter and translator
+  assigned_to:
+  - fig:1
+  basis: The narrator discusses studying the Text, forming a view of its meaning,
+    comparing interpretations, and translating the Yi.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: disputed attributed author
+  assigned_to:
+  - fig:2
+  basis: The passage says there is sufficient evidence that most of the Appendixes
+    were not from Confucius and no evidence that any part was his except possibly
+    sayings of “the Master.”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: attributing compiler
+  assigned_to:
+  - fig:3
+  basis: The passage refers to paragraphs introduced by the compiler or compilers
+    as sayings of “the Master.”
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: commentarial interpreters
+  assigned_to:
+  - fig:4
+  basis: The commentators are described as interpreting the hexagrams and lines and
+    as sharing the same general opinion about the Text.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: hexagrams and lines
+  literal_form: hexagrams and their several lines
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: separation of Text and Appendixes
+  summary: The preface justifies keeping the Text and Appendixes separate and describes
+    concordances that distinguish their vocabularies.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: authorship assessment of the Appendixes
+  summary: The narrator uses the style and vocabulary of the Appendixes to question
+    Confucian authorship, while allowing that some paragraphs may have been introduced
+    as sayings of “the Master.”
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: interpretation of the Yi and comparison with commentators
+  summary: The narrator reports that his interpretations of the hexagrams and lines
+    agree substantially with those of notable Chinese commentators, though those commentators
+    retained belief in Confucian authorship of the Appendixes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: difficulty of translation
+  summary: After finding a clue to the Yi’s meaning, the narrator identifies translation
+    as the remaining difficulty because of the text’s peculiar style.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 399-404
+  quote_or_summary: The narrator says the imperial edition of 1715 keeps the Text
+    and the Appendixes separate.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 405-411
+  quote_or_summary: Eight concordances were formed, one for the Text and one for each
+    Appendix; these showed that many characters in the Appendixes were not found in
+    the Text.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 411-418
+  quote_or_summary: The narrator says acquaintance with the Appendixes’ tone and style
+    supports the view that most were not from Confucius, with no evidence for any
+    Confucian part except possibly passages introduced as sayings of “the Master.”
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 419-433
+  quote_or_summary: The narrator says his view of the Yi’s meaning agreed substantially
+    with interpretations of the hexagrams and lines by commentators from the Han dynasty
+    onward, though they believed in Confucian authorship of the Appendixes.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: quote
+  locator: lines 434-437
+  quote_or_summary: "“The peculiarity of its style makes it the most difficult of
+    all the Confucian classics to present in an intelligible version.”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is a scholarly preface about textual separation, authorship,
+    interpretation, and translation, not a mythic narrative passage. No candidate
+    mythology motifs or comparative motif claims are proposed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family is applied; the ordinary phrase about the “wisdom” of an editorial course is not treated as the wisdom motif.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l399-l437
+  passage_sha256=ed92a29043b16cc2f414a754fad1cbdbdb2c2501dcc71c10724b81fff74827cc
+

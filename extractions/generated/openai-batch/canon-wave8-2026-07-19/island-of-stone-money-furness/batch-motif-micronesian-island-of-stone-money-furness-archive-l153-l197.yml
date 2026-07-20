@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l153-l197
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: INTEODUCTORY / THE ISLAND OF STONE MONET / INTRODUCTORY / INTRODUCTORY; lines
+    153-197
+  start: '153'
+  end: '197'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The narrator describes approaching Yap through fog, currents, reefs, and
+    surf, narrowly avoiding wreck as the fog lifts and reveals the harbor entrance.
+    The passage then comments that Yap''s dangerous reef-barrier limited outside trade,
+    explains the local pronunciation and reported meaning of Uaap as ''the Land,''
+    and gives brief geographic details: western Caroline location, volcanic origin,
+    surrounding coral reefs, and Tomil Bay harbor.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Currents or waters carried the vessel faster than the log indicated, leaving
+    it nearly on top of the reef ahead of expected time while land remained hidden.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dense fog alternately concealed and revealed danger; the surf was audible
+    near the reefs.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When the fog lifted, land appeared ahead and the harbor entrance and deep-blue
+    channel became visible.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator states that a few more minutes of fog would have left the vessel
+    pounding on the reefs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator presents the narrow and dangerous entrance as a reason that outside
+    trade had not already overrun the islands and displaced the aboriginal inhabitants.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage reports that the local pronunciation is Uaap and that, in the
+    old language, it was said to mean 'the Land.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator supposes that 'the Land' meant the whole world to the aboriginal
+    inhabitants.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Yap/Uap is described as the westernmost Caroline island group location, about
+    nine degrees north of the equator, volcanic rather than an atoll, encircled by
+    coral reefs, and having a harbor in Tomil Bay.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: narrator's party or vessel
+  description: The first-person plural voyagers approaching Yap through fog, currents,
+    surf, and reefs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: aboriginal inhabitants of Yap/Uap
+  description: The passage refers to aboriginal inhabitants in relation to the meaning
+    of Uaap as 'the Land' and to possible dispossession by trade.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: outside trade
+  description: A generalized outside commercial force that the narrator says might
+    have overrun the islands if the harbor gates were more open.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: voyagers at reef threshold
+  assigned_to:
+  - fig:1
+  basis: The narrator's group is carried near the reef in fog and then sees the harbor
+    entrance when the fog lifts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: local inhabitants associated with land-name
+  assigned_to:
+  - fig:2
+  basis: The passage links the aboriginal inhabitants with the old-language name Uaap,
+    'the Land,' and the narrator's supposition that this meant the whole world.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: external encroaching force
+  assigned_to:
+  - fig:3
+  basis: The passage says outside trade would have overrun the islands and dispossessed
+    the aboriginal inhabitants if access were easier.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: dangerous surrounding water
+  literal_form: waters, sea, deep-blue harbor channel, surf near reefs
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: fog as concealing veil or eyelid
+  literal_form: dense fog described as an impenetrable veil and as a great eyelid
+    that lifts and lowers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: reef barrier and nearly closed gates
+  literal_form: coral reefs and the harbor entrance imagined as garden gates dangerously
+    ajar or impenetrably closed
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: breakers as rattlesnake warning
+  literal_form: thunder and hissing swish of breakers compared to warnings of a rattlesnake
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Uaap as 'the Land'
+  literal_form: the island name Uaap reported to mean 'the Land,' which the narrator
+    supposes meant the whole world to the aboriginal inhabitants
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fog-bound approach to Yap's reef and harbor
+  summary: The vessel is driven near the reef ahead of time while land is hidden;
+    the fog lifts and reveals the land, harbor entrance, and deep-blue channel before
+    the vessel wrecks.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Reef-gated island resisting overrun by trade
+  summary: The narrator interprets the dangerous, narrow access as a practical barrier
+    that has helped prevent outside trade from overrunning the islands and dispossessing
+    the aboriginal inhabitants.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Naming and geographic placement of Uaap
+  summary: The passage reports the pronunciation and meaning of Uaap as 'the Land,'
+    speculates that it meant the whole world to the aboriginal inhabitants, and describes
+    Yap's volcanic origin, reefs, and harbor.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dangerous threshold to an enclosed island
+  taxonomy_refs: []
+  basis: The passage repeatedly presents Yap as enclosed by reefs and accessible through
+    a narrow harbor entrance that the narrator imagines as gates that may open or
+    close.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is an introductory travel description with figurative language, not
+    a narrated myth; motif status requires human review.
+- id: motif:2
+  label: land-name equated with the whole world
+  taxonomy_refs:
+  - world_center
+  basis: The passage reports Uaap as meaning 'the Land' and adds the narrator's supposition
+    that this meant the whole world to the aboriginal inhabitants.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The world-center taxonomy link is tentative because the passage gives
+    an etymological and colonial-era interpretation, not an explicit mythic world-center
+    doctrine.
+- id: motif:3
+  label: natural barrier preserving local society from outside encroachment
+  taxonomy_refs: []
+  basis: The narrator says that if the gates were wider open, outside trade would
+    have overrun the islands and dispossessed the aboriginal inhabitants.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The motif is social-geographic rather than mythic; it is based on the
+    narrator's interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 153-160
+  quote_or_summary: Currents or waters carried the vessel faster than expected; the
+    land was hidden and the vessel was nearly on top of the reef ahead of time.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 161-176
+  quote_or_summary: The narrator compares the situation to a fever-dream; fog acts
+    like an eyelid, breakers warn like a rattlesnake, then the fog lifts and reveals
+    land, the harbor entrance, and a deep-blue channel; otherwise the vessel would
+    have struck the reefs.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 177-181
+  quote_or_summary: '"were the gates wider open" outside trade would have "overrun
+    these imprisoned little lands" and dispossessed the aboriginal inhabitants.'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 183-190
+  quote_or_summary: Uaap is reported to mean "the Land," which the narrator supposes
+    meant "the whole world" to the aborigines.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: lines 190-197
+  quote_or_summary: Yap/Uap is described as the westernmost Caroline group island,
+    about nine degrees north of the equator, volcanic rather than an atoll, encircled
+    by coral reefs three to five miles wide, and having a harbor in Tomil Bay.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is tentative
+    because the passage is a travel introduction using metaphor rather than a mythic
+    narrative. No comparison claims were added because the passage itself does not
+    support a comparison to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage contains figurative descriptions of fog, reefs, surf, gates, and the island-name Uaap; these have been separated from literal travel observations and marked cautiously.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l153-l197
+  passage_sha256=4bd48efc5db525e26fd1b3fe7503fc90fdea98b7b0488c0afa1adb8778ccd821
+

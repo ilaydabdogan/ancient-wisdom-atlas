@@ -1,0 +1,201 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l28648-l28682
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. / NOTES. I, 134, 4. 447 / MANDALA X, HYMN 168. 449 / NOTES.; lines
+    28648-28682
+  start: '28648'
+  end: '28682'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes identify the hymn as ascribed to Anila Vatayana and addressed
+    to Vayu, here called Vata. The notes mention lightning colours, a chariot-related
+    grammatical interpretation, a dancing phrase, and explain Vata as the garbha of
+    the world in the sense of its source or life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The hymn is ascribed to Anila Vatayana and addressed to Vayu, who is here
+    called Vata.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hymn's metre is identified as Trishtubh, and the note says the hymn does
+    not occur in the other Vedas.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A word is explained as referring to the reddish colours of lightning.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note interprets ratha as the subject of the first verse.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A cited interpretation renders a phrase as going together to a dance.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Vata is said to be called the garbha of the world, explained as its source
+    or life.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Anila Vatayana
+  description: Named as the person to whom the hymn is ascribed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Vayu / Vata
+  description: The deity addressed by the hymn; the note says Vayu is here called
+    Vata and that Vata is called the garbha of the world.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: ascribed hymn seer or authorial figure
+  assigned_to:
+  - fig:1
+  basis: The notes state that the hymn is ascribed to Anila Vatayana.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed deity
+  assigned_to:
+  - fig:2
+  basis: The notes state that the hymn is addressed to Vayu, here called Vata.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: world-source or life principle
+  assigned_to:
+  - fig:2
+  basis: The notes explain Vata as the garbha of the world, meaning its source or
+    life.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: lightning colours
+  literal_form: reddish colours of lightning
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ratha
+  literal_form: chariot
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: garbha of the world
+  literal_form: garbha of the world
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hymn addressed to Vayu as Vata
+  summary: The notes frame the hymn as addressed to Vayu under the name Vata.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vata as garbha of the world
+  summary: The note explains that Vata is called the garbha of the world, understood
+    as the world's source or life.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wind deity as world-source or life
+  taxonomy_refs: []
+  basis: The passage explicitly explains Vata as the garbha of the world, in the sense
+    of being its source or life.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is derived from an editorial note rather than the hymn text itself;
+    no supplied taxonomy motif is an exact match.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 28648-28653
+  quote_or_summary: "“Ascribed to Anila Vatayana, and addressed to Vayu, here called
+    Vata. The metre is Trishtubh. This hymn does not occur in the other Vedas.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 28658-28660
+  quote_or_summary: A note says Aruvadni is explained as the reddish colours of lightning.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 28663-28666
+  quote_or_summary: A note explains Vish##a as kind or variety and says anu seems
+    to refer to ratha, taken as the subject of the first verse.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: line 28668
+  quote_or_summary: "“Sie gehn mit einander zum Tanz,” cited from Geldner and Kaegi."
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 28679-28682
+  quote_or_summary: "“Vata seems to be called the garbha of the world, in the sense
+    of being its source or life.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a set of editorial notes, so the extraction is limited to
+    explicit statements in the notes. No comparison claims are made because the passage
+    does not itself support one beyond bibliographic remarks.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy reference was assigned because the available motif and symbol lists do not contain an exact match for Vata as world-source/life or for garbha of the world.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l28648-l28682
+  passage_sha256=b7e0d1f9324163c012e5625b7c5ce9106f462ae9eb444673948988adfd74b16f
+

@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l7879-l7893
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE SON OF THE SCOTTISH YEOMAN. 259 / THE SON OF THE SCOTTISH YEOMAN. 2G1
+    / THE SON OF THE SCOTTISH YEOMAN. 2G3 / MAC AN TUATHANAICII ALP.ANATCTT. 2G5;
+    lines 7879-7893
+  start: '7879'
+  end: '7893'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A Scottish Gaelic dialogue fragment presents a discussion about whether
+    an animal can be bought, a lad proposing a wager about having or stealing it,
+    and the Bishop staking five hundred marks and accepting the bargain. A speaker
+    warns that the Bishop will prevent the horse from being stolen. A man agrees to
+    do something, and a speaker asks where to find a large, long, strong object called
+    “ball” in the text.
+  language: Scottish Gaelic
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker asks what animal belonging to the addressee or to another person
+    could not be bought.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lad asks what wager will be put up that he will not have it or steal it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Bishop says he will put five hundred marks into the wager.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Bishop says that it is a bargain.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A speaker warns the addressee to take care, calls the addressee foolish, and
+    says the Bishop will ensure that neither the addressee nor another man steals
+    the horse.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The warning speech also says that something will be kept or provided for the
+    addressee’s labor; the wording is fragmentary.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A man says, “I will do that.”
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A speaker asks where to find a large, long, strong object named in the text
+    as “ball.”
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: an gille / the lad
+  description: A speaker identified as “an gille” asks about the wager and about whether
+    he will have or steal the object.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: an t-Easbuig / the Bishop
+  description: The Bishop stakes five hundred marks, accepts the bargain, and is said
+    to be able to prevent the horse from being stolen.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: am fear / the man
+  description: A male figure identified as “am fear” says he will do something. The
+    fragment does not clearly establish whether he is distinct from the lad.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: speaker referred to as “esan”
+  description: A pronominal speaker gives the warning and later asks where to find
+    a large, long, strong object; the fragment does not clearly identify whether this
+    speaker is one of the other named figures.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: wager challenger
+  assigned_to:
+  - fig:1
+  basis: The lad asks what wager will be placed that he will not have or steal the
+    object.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: wager staker
+  assigned_to:
+  - fig:2
+  basis: The Bishop says he will put five hundred marks into the wager and calls the
+    arrangement a bargain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: protector or guard against horse theft
+  assigned_to:
+  - fig:2
+  basis: A speaker says that the Bishop will take care that neither the addressee
+    nor another man steals the horse.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: assenting man
+  assigned_to:
+  - fig:3
+  basis: The man says, “I will do that.”
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: warning and preparation speaker
+  assigned_to:
+  - fig:4
+  basis: The speaker warns the addressee about the Bishop preventing theft and asks
+    where to find a large, long, strong object.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: horse targeted for theft
+  literal_form: an t-each / the horse
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: wager of five hundred marks
+  literal_form: coig ceud marg / five hundred marks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: large long strong object
+  literal_form: ball mor fad, laidir
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: animal that may or may not be bought
+  literal_form: beathach / animal or beast
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Wager over obtaining or stealing an animal
+  summary: A speaker asks about an animal that cannot be bought; the lad asks what
+    wager will be placed that he will not have or steal it; the Bishop stakes five
+    hundred marks and says the bargain is made.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Warning against stealing the horse
+  summary: A speaker warns that the Bishop will prevent the addressee or anyone else
+    from stealing the horse, and mentions recompense or provision for labor in a fragmentary
+    clause.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Agreement and request for an object
+  summary: A man says he will do something, and a speaker asks where to find a large,
+    long, strong object called “ball” in the text.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Wager over an impossible or guarded theft
+  taxonomy_refs: []
+  basis: The lad frames a wager about whether he can have or steal the object, and
+    the Bishop stakes five hundred marks against him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is fragmentary and does not yet show the attempted theft itself.
+- id: motif:2
+  label: Guarded horse as target of theft
+  taxonomy_refs: []
+  basis: A speaker states that the Bishop will ensure neither the addressee nor another
+    man steals the horse.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The text does not clearly state ownership of the horse or the larger narrative
+    outcome.
+- id: motif:3
+  label: Preparation by seeking a special implement
+  taxonomy_refs: []
+  basis: A speaker asks where to find a large, long, strong object immediately after
+    the theft warning and agreement.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The object term “ball” is left untranslated here, and its function is
+    not given in this fragment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7879-7882
+  quote_or_summary: A speaker asks what animal belonging to the addressee or to another
+    person could not be bought.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7883-7885
+  quote_or_summary: The lad asks what wager will be put up that he will not have it,
+    or that he will not steal it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 7885-7886
+  quote_or_summary: "“Cuiridh mi coig ceud marg riut,” said the Bishop."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: line 7887
+  quote_or_summary: "“Is bargan e,” said the Bishop."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 7887-7891
+  quote_or_summary: A speaker warns the addressee, calls him foolish, and says the
+    Bishop will ensure that neither he nor another man steals the horse; the passage
+    also mentions something kept or provided for the addressee’s labor.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: lines 7891-7892
+  quote_or_summary: "“Ni mi sin,” said the man."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:7
+  type: quote
+  locator: lines 7892-7893
+  quote_or_summary: "“c' aite am faigh mi ball mor fad, laidir?”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short, fragmentary, and has OCR-like spelling. The broad wager
+    and horse-theft elements are clear enough for candidate motifs, but speaker identities,
+    object identity, and narrative outcome require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another named tradition or motif family. Available taxonomy references such as sacred_theft were not applied because the passage supports theft/wager elements but not a sacred object or sacred theft context.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l7879-l7893
+  passage_sha256=da408c1e53a862cef98437fd0cc2de6be4a73d6085840ec951a8fb72fb0995ec
+

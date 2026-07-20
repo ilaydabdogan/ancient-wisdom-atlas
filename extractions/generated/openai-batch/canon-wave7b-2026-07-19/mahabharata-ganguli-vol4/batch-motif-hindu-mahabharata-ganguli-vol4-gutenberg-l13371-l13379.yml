@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l13371-l13379
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION LXXXVIII / SECTION LXXXIX / SECTION XC / SECTION XCI; lines 13371-13379
+  start: '13371'
+  end: '13379'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Yudhishthira asks the grandsire about the origin, timing, essence, establishment,
+    and proper restrictions of Sraddha, including offerings of fruits and roots and
+    types of paddy to avoid.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yudhishthira asks who first conceived Sraddha and at what time.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira asks what the essence of Sraddha is.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage refers to a time when the world was peopled only by descendants
+    of Bhrigu and Angiras.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yudhishthira asks which muni established Sraddha.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Yudhishthira asks what acts should not be done at Sraddha.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Yudhishthira asks which Sraddhas involve offerings of fruits and roots, and
+    which species of paddy should be avoided.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Yudhishthira addresses the hearer as grandsire and asks him to tell all this.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who asks questions about Sraddha.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: grandsire
+  description: Addressee asked to explain the matters concerning Sraddha.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: descendants of Bhrigu and Angiras
+  description: The people said to have peopled the world in the referenced time.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed muni
+  description: A muni whose identity is requested as the one who established Sraddha.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Bhrigu and Angiras
+  description: Named forebears whose descendants are mentioned as peopling the world.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ritual inquirer
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks multiple questions about the origin and rules of Sraddha.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: requested informant
+  assigned_to:
+  - fig:2
+  basis: The speaker says, “Do thou tell me all this, O grandsire.”
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: early-world population
+  assigned_to:
+  - fig:3
+  basis: The passage says the world was peopled only by descendants of Bhrigu and
+    Angiras at the time under discussion.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ritual establisher under inquiry
+  assigned_to:
+  - fig:4
+  basis: Yudhishthira asks who the muni was that established Sraddha.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named lineage forebears
+  assigned_to:
+  - fig:5
+  basis: Bhrigu and Angiras are named as ancestors of the people in the referenced
+    time.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Sraddha
+  literal_form: rite named Sraddha
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: fruits and roots
+  literal_form: fruits and roots offered in certain Sraddhas
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: paddy to be avoided
+  literal_form: species of paddy mentioned as unsuitable for Sraddhas
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Yudhishthira asks about Sraddha
+  summary: Yudhishthira asks the grandsire to explain Sraddha’s first conception,
+    timing, essence, establishment by a muni, prohibited acts, proper offerings, and
+    paddy to be avoided.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: inquiry into ritual origins
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker seeks instruction about who first conceived Sraddha, when it
+    began, its essence, and which muni established it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The excerpt contains the questions but not the answer or doctrinal explanation.
+- id: motif:2
+  label: ritual prescriptions for offerings and prohibitions
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The questions concern prohibited acts at Sraddha, offerings of fruits and
+    roots, and paddy species to avoid.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage asks about ritual rules but does not describe a completed
+    rite or specify recipients of the offerings.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13371-13375
+  quote_or_summary: Yudhishthira asks who first conceived Sraddha, when it was conceived,
+    and what its essence is.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 13375-13377
+  quote_or_summary: The question refers to a time when the world was peopled only
+    by descendants of Bhrigu and Angiras, and asks which muni established Sraddha.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 13377-13379
+  quote_or_summary: Yudhishthira asks what acts should not be done at Sraddha, which
+    Sraddhas use fruits and roots as offerings, and which paddy species should be
+    avoided.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: '13379'
+  quote_or_summary: "“Do thou tell me all this, O grandsire!”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and primarily consists of questions. Literal extraction
+    is high-confidence; motif labels are cautious because the excerpt does not include
+    the response.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage is represented. The addressee is kept as “grandsire” because no personal name is supplied in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l13371-l13379
+  passage_sha256=78cec41315a175db664c107e6541f963bd4fe7686704d2ff049b64cb477f53ae
+

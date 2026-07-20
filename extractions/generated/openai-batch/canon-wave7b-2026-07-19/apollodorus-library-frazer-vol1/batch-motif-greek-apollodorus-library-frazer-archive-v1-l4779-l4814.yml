@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.greek-apollodorus-library-frazer-archive-v1-l4779-l4814
+source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+passage_locator:
+  label: J. G, FRAZER. / VOL, I. D / VOL. I, E / VOL. I. G; lines 4779-4814
+  start: '4779'
+  end: '4814'
+  translation: The Library, Volume I (Apollodorus), with an English Translation by
+    James George Frazer
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: at the prow Athena fitted in a speaking timber from the oak of Dodona
+  summary: The passage describes the building and naming of the fifty-oared ship Argo,
+    Athena’s installation of a speaking timber from Dodona in its prow, an oracle-authorized
+    departure, and the assembly of a roster of Greek nobles for the voyage. Editorial
+    notes point to other ancient accounts and lists of the Argonauts.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A ship of fifty oars is built and named Argo after its builder.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Athena fits a speaking timber from the oak of Dodona into the prow of the
+    ship.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the ship is built, an inquiry is made of the oracle, and the god gives
+    permission to assemble the nobles of Greece and sail away.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage supplies a roster of those who assembled, mostly by giving each
+    name with a parentage.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Tiphys, son of Hagnias, is specifically described as the one who steered the
+    ship.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Several listed voyagers are identified as children of divine figures, including
+    sons of Zeus, Boreas, Hermes, Poseidon, Dionysus, and the Sun.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Athena
+  description: A goddess who fits the speaking timber into the prow of Argo.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: builder of Argo
+  description: The unnamed builder after whom the ship Argo is said to be named.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: god of the oracle
+  description: The unnamed god who gives leave to assemble the nobles of Greece and
+    sail away.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: assembled nobles of Greece
+  description: The group assembled for the voyage, enumerated in a roster of named
+    participants and parentages.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Tiphys, son of Hagnias
+  description: A listed participant who steered the ship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ship builder and name source
+  assigned_to:
+  - fig:2
+  basis: The ship is named Argo after its builder.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine installer of speaking timber
+  assigned_to:
+  - fig:1
+  basis: Athena fits the speaking timber from Dodona into the prow.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: oracular authorizer
+  assigned_to:
+  - fig:3
+  basis: The god gives permission after the oracle is consulted.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: assembled voyagers
+  assigned_to:
+  - fig:4
+  basis: The god permits the assembly of nobles of Greece to sail away, and the passage
+    lists those assembled.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: helmsman
+  assigned_to:
+  - fig:5
+  basis: Tiphys is described as steering the ship.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Argo
+  literal_form: a ship of fifty oars named after its builder
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: speaking timber from Dodona
+  literal_form: a speaking timber from the oak of Dodona fitted in the prow
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: oracle
+  literal_form: an oracle consulted after the ship was built
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Construction and divine equipping of Argo
+  summary: A fifty-oared ship is built, named Argo after its builder, and fitted by
+    Athena with a speaking timber from the oak of Dodona.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Oracle authorizes departure
+  summary: After the ship is built, the oracle is consulted; the god permits the assembly
+    of Greek nobles and the sailing away.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Assembly of the voyaging roster
+  summary: The passage lists the nobles who assembled for the voyage, including Tiphys
+    as steersman and many figures identified by parentage.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: oracularly sanctioned departure by ship
+  taxonomy_refs:
+  - departure
+  basis: The ship is built, the oracle is consulted, and the god gives permission
+    to assemble voyagers and sail away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not state the destination or the full quest purpose.
+- id: motif:2
+  label: divinely endowed speaking vessel-prow
+  taxonomy_refs: []
+  basis: Athena places a speaking timber from the oak of Dodona in the prow of Argo.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states that the timber speaks but does not show the timber
+    speaking or explain its function.
+- id: motif:3
+  label: heroic company identified by genealogy
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The voyagers are enumerated with parentage, including several figures identified
+    as children of gods.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a roster rather than a developed parent-child episode.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note links this Argo voyage narrative with the Argonautic voyage
+    tradition in Apollonius Rhodius and other named ancient sources.
+  claim_level: same_motif
+  target: Argonautic voyage accounts in Apollonius Rhodius, Pindar, Diodorus Siculus,
+    Orphica, Tzetzes, Hyginus, Ovid, and Valerius Flaccus
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The support is an editorial bibliographic note, not a direct comparison
+    of episodes in the quoted narrative.
+- id: claim:2
+  claim: The editorial note treats the roster in this passage as part of a wider ancient
+    list tradition for the Argonauts.
+  claim_level: same_function
+  target: ancient lists of Argonauts in Pindar, Apollonius Rhodius, Orphica, Valerius
+    Flaccus, and Hyginus
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not quote the other lists, so differences among rosters
+    cannot be assessed here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4779-4782
+  quote_or_summary: A fifty-oared ship is built and named Argo after its builder;
+    Athena fits a speaking timber from the oak of Dodona into its prow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source; concise summary with short quoted wording reflected
+    in canonical quote.
+- id: ev:2
+  type: summary
+  locator: 4782-4785
+  quote_or_summary: After the ship is built, an oracle is consulted, and the god gives
+    permission to assemble the nobles of Greece and sail away.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4785-4807
+  quote_or_summary: The passage lists those who assembled, including Tiphys as steersman
+    and many named figures identified by parentage, including divine parentage for
+    several voyagers.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: note
+  locator: 4808-4814
+  quote_or_summary: Editorial notes say the Argo voyage narrative is based mainly
+    on Apollonius Rhodius and refer to further accounts and lists in several ancient
+    authors.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source; summarized editorial note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but motif labels beyond departure
+    and roster-pattern are cautious because this excerpt does not include the voyage
+    goal or later events. Comparison claims rely only on the supplied editorial notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage includes OCR and footnote artifacts; bibliographic notes are used only for cautious comparison claims.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:greek-apollodorus-library-frazer-archive-v1__l4779-l4814
+  passage_sha256=bfa49102f9652b84de72394d179cb28f8e2c4d809a9eb65c4c7bf364f493701a
+

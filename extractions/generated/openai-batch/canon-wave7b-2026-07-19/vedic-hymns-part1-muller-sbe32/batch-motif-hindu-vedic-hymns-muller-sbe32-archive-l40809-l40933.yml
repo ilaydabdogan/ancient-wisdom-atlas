@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l40809-l40933
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: VARIOUS ORIENTAL SCHOLARS / AND EDITED BY / FIRST SERIES. / EDITED BY F,
+    MAX MULLER. 3; lines 40809-40933
+  start: '40809'
+  end: '40933'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a catalogue-style list of Sacred Books of the East volumes
+    and translators, including brief descriptions of Zoroastrian, Hindu, Buddhist,
+    Confucian, and Vedic-related texts. It mentions Parsis as so-called fire-worshippers,
+    Pahlavi theological literature, Buddhist moral and canonical texts, Vedic legal
+    and sacrificial literature, and notes that the Satapatha-Brahmana contains an
+    early Indian account of the Deluge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes the Parsis as the present-day custodians of a sacred
+    book associated with Zoroaster’s religion and calls them so-called fire-worshippers.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Pahlavi Texts comprise theological literature from
+    the revival of Zoroaster’s religion beginning with the Sassanian dynasty.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage describes the Satapatha-Brahmana as giving a minute account of
+    sacrificial ceremonies of the Vedic age.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the Satapatha-Brahmana contains the earliest account
+    of the Deluge in India.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage describes the Dhammapada as containing the quintessence of Buddhist
+    morality and the Sutta-Nipata as presenting authentic teaching of Buddha on fundamental
+    principles of religion.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Parsis
+  description: A religious community described as the present-day holders of a sacred
+    book and as so-called fire-worshippers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Zoroaster
+  description: Named as the religious figure whose religion is associated with the
+    sacred book of the Parsis and with Pahlavi theological literature.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Buddha
+  description: Named as the source of teachings presented in the Sutta-Nipata.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: religious community associated with fire-worship
+  assigned_to:
+  - fig:1
+  basis: The passage calls the Parsis the so-called fire-worshippers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: religious founder associated with a textual tradition
+  assigned_to:
+  - fig:2
+  basis: The passage refers to Zoroaster’s religion and texts preserving or reviving
+    it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: religious teacher
+  assigned_to:
+  - fig:3
+  basis: The passage says the Sutta-Nipata gives Buddha’s teaching on fundamental
+    principles of religion.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire-worshippers
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: sacrifice or sacrificial ritual
+  taxonomy_refs:
+  - sacrifice
+  basis: The catalogue description says the Satapatha-Brahmana gives a detailed account
+    of Vedic sacrificial ceremonies.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is bibliographic description rather than a narrated ritual
+    scene.
+- id: motif:2
+  label: deluge account
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The catalogue description says the Satapatha-Brahmana contains the earliest
+    account of the Deluge in India.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions the Deluge but does not narrate flood events, renewal,
+    survivors, or divine action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 40809-40933
+  quote_or_summary: The passage says the sacred book remains with the Parsis, described
+    as the so-called fire-worshippers, and refers to what is left of Zoroaster’s religion.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 40809-40933
+  quote_or_summary: The Pahlavi Texts are described as theological literature of the
+    revival of Zoroaster’s religion beginning with the Sassanian dynasty.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 40809-40933
+  quote_or_summary: The Satapatha-Brahmana is described as a minute account of Vedic
+    sacrificial ceremonies and as containing the earliest account of the Deluge in
+    India.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 40809-40933
+  quote_or_summary: The Dhammapada is described as containing Buddhist morality, while
+    the Sutta-Nipata is said to give Buddha’s teaching on fundamental principles of
+    religion.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The line range is catalogue/front-matter material, not a primary mythic or
+    ritual passage. Motif candidates are based only on explicit bibliographic descriptions
+    and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No scenes or comparison claims were extracted because the passage does not narrate mythic action and does not itself support cross-traditional comparison beyond catalogue descriptions.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l40809-l40933
+  passage_sha256=1eac4aa0708c80e0e36795b8e0964f4f970904ed360a82e8006e12b3dc565617
+

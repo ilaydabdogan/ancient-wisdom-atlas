@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.buddhist-buddhism-in-translations-warren-archive-l25300-l25391
+source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+passage_locator:
+  label: TABLE    OF    THE    EI( / MERITORIOUS  CONSCIOUSNESSES. / TY-NINE    CONSCIOUSNESSES.
+    / INDETERMINATE  CONSCIOUSNESSES.; lines 25300-25391
+  start: '25300'
+  end: '25391'
+  translation: Buddhism in Translations (Harvard Oriental Series, Vol. 3)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: This repeats itself, as does the stream of a river
+  summary: The passage classifies types of consciousness that arise at conception,
+    in the continuing existence-substratum, and during sensory and mental cognition.
+    It explains rebirth in different realms as conditioned by meritorious or demeritorious
+    consciousnesses and by karmic objects present at death, then describes the interruption
+    of the existence-substratum by sense contact and the sequence of attention, sense-consciousness,
+    noticing, cognizing, and defining.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Living beings are described as being born in the worlds of gods and men through
+    the power of eight meritorious consciousnesses belonging to the realm of sensual
+    pleasure.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At conception, fruition-consciousnesses may have as their object karma, karma-reflex,
+    or destiny-reflex that was present at the time of death.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Beings are described as being born in the realms of form and formlessness
+    through meritorious consciousnesses belonging to those realms.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Beings are described as being born in hell through the power of demeritorious
+    consciousnesses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that nineteen fruition-consciousnesses occur in conception.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When conception-consciousness ceases, a similar existence-substratum-consciousness
+    arises as the fruition of the same karma and with the same object.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The existence-substratum process is compared to the stream of a river and
+    is said to continue during dreamless sleep and similar occasions unless interrupted
+    by another thought.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When sense-apertures become able to grasp objects, sense contact interrupts
+    the existence-substratum and action-mind arises to perform attention.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After attention, eye-consciousness, ear-consciousness, nose-consciousness,
+    tongue-consciousness, and body-consciousness perform sight, hearing, smelling,
+    tasting, and touching.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After sense-consciousnesses, fruition-mind notices their objects, and fruition-mind-consciousness
+    cognizes what has been noticed.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: After cognizing, action-mind-consciousness arises and defines the object.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: living beings
+  description: Beings subject to birth in the worlds of gods and men, realms of form
+    and formlessness, or hell according to the described consciousnesses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: rebirth subject
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes living beings as being born in various realms
+    through the power of meritorious or demeritorious consciousnesses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: river-stream simile
+  literal_form: stream of a river
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: karma at death
+  literal_form: karma, karma-reflex, or destiny-reflex present at the time of death
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: realms of rebirth
+  literal_form: world of gods and men; realms of form and formlessness; hell
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: karma-conditioned conception in different realms
+  summary: The passage describes living beings as conceived in gods’ and humans’ worlds,
+    form and formless realms, or hell, with differing fruition-consciousnesses conditioned
+    by meritorious or demeritorious consciousnesses and by karmic objects present
+    at death.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: continuity of existence-substratum
+  summary: After conception-consciousness ceases, a similar existence-substratum-consciousness
+    continues with the same karmic object, repeating like a river-stream until interrupted.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: arising of sense and mental cognition
+  summary: When sense-apertures become competent, objects stimulate the senses, interrupt
+    the existence-substratum, and initiate a sequence of attention, sense-consciousness,
+    noticing, cognizing, and defining.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: karma-conditioned rebirth across realms
+  taxonomy_refs:
+  - death_rebirth
+  - afterlife_journey_map
+  basis: The passage connects death-time karmic objects and meritorious or demeritorious
+    consciousnesses with conception or birth in gods’ and humans’ worlds, form and
+    formless realms, or hell.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is doctrinal and classificatory rather than a narrative of
+    a journey; the taxonomy links are functional rather than story-based.
+- id: motif:2
+  label: continuing stream of consciousness
+  taxonomy_refs:
+  - water
+  basis: The existence-substratum-consciousness is explicitly said to repeat like
+    the stream of a river.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a simile within a technical psychological explanation, not an
+    independent mythic water episode.
+- id: motif:3
+  label: ordered cognition sequence
+  taxonomy_refs:
+  - wisdom
+  basis: The passage lays out an ordered process by which attention, sense-consciousness,
+    noticing, cognizing, and defining arise in relation to sense objects.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: The available taxonomy term 'wisdom' only loosely fits; the passage concerns
+    cognitive classification rather than a wisdom quest or wisdom figure.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared in function to an afterlife-destination
+    schema, because it classifies post-death conception or birth in multiple realms
+    according to karmic and consciousness conditions.
+  claim_level: same_function
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not narrate travel through an afterlife; it gives
+    an Abhidhamma-style classification of rebirth consciousness.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25300-25311
+  quote_or_summary: Through meritorious consciousnesses of the sensual realm, living
+    beings are born in the world of gods and men; at conception, fruition-consciousnesses
+    arise with karma, karma-reflex, or destiny-reflex from the time of death as object.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 25312-25318
+  quote_or_summary: Through meritorious consciousnesses of the realms of form and
+    formlessness, beings are born in those realms, with fruition-consciousnesses having
+    as object a karma-reflex present at death.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 25318-25326
+  quote_or_summary: Through demeritorious consciousnesses, beings are born in hell;
+    at conception a demeritorious fruition-mind-consciousness occurs, and the passage
+    concludes that nineteen fruition-consciousnesses occur in conception.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 25327-25338
+  quote_or_summary: When conception-consciousness ceases, a similar existence-substratum-consciousness
+    arises; it "repeats itself, as does the stream of a river" and continues during
+    dreamless sleep and similar occasions.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 25341-25355
+  quote_or_summary: When sense-apertures become able to grasp objects, form entering
+    the visual field stimulates the eye; existence-substratum is interrupted and action-mind
+    arises to perform attention, with a similar account for other apertures and the
+    mind-aperture.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 25357-25368
+  quote_or_summary: After attention, the five sense-consciousnesses arise and perform
+    sight, hearing, smelling, tasting, and touching; they are meritorious or demeritorious
+    fruitions according to the desirability of their objects.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 25369-25385
+  quote_or_summary: After sense-consciousness, fruition-mind notices the objects;
+    afterward fruition-mind-consciousness cognizes what has been noticed, with meritorious
+    or demeritorious classification depending on the preceding consciousness and object.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 25386-25391
+  quote_or_summary: After cognizing, action-mind-consciousness without a cause and
+    coupled with indifference arises and defines the object.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is technical doctrinal prose with limited narrative content.
+    Literal sequence extraction is strong; motif mapping is necessarily cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures beyond the generic living beings were added. Candidate motifs emphasize doctrinal rebirth classification and the explicit river-stream simile.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-buddhism-in-translations-warren-archive__l25300-l25391
+  passage_sha256=0e92526e8ef1a271bc0ff576758022a050d2ddfc3dc91a943b742b232033f950
+

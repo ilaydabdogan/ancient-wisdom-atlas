@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l836-l856
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I I I I / ADDRESS OF RA TO THE GODS / A.WSAA, / I I I A I; lines 836-856
+  start: '836'
+  end: '856'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"Open ye to me your doors, and let me come into your Courts!"'
+  summary: Ra, identified in the passage label, stands in a Court and addresses the
+    gods there. He asks them to open their doors, admit him into their Courts, give
+    him light, and guide him. He describes the gods as beings who came into being
+    from his members and were made or fashioned from his bodies and soul.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker stands up after taking his position in a Court.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker addresses words to the gods who are in the Court.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker asks the gods to open their doors and let him come into their
+    Courts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker asks the gods to give him light and make themselves guides to
+    him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The addressed gods are described by the speaker as having come into being
+    from his members.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker says the gods are made of his bodies and that he made, fashioned,
+    and created them from his soul.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ra / the Majesty of this god
+  description: The divine speaker who stands in the Court and addresses the gods;
+    the passage label identifies the address as by Ra.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: gods in the Court
+  description: The gods addressed by the speaker, asked to open doors, give light,
+    guide him, and described as made from his members, bodies, and soul.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: divine speaker entering Courts
+  assigned_to:
+  - fig:1
+  basis: The speaker stands in a Court and asks the gods to open their doors so he
+    may come into their Courts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: creator of addressed gods
+  assigned_to:
+  - fig:1
+  basis: The speaker says he made, fashioned, and created the gods from his members,
+    bodies, and soul.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: addressed gods within the Court
+  assigned_to:
+  - fig:2
+  basis: The passage states that the speaker addresses the gods who are in the Court.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: guides and light-givers requested by the speaker
+  assigned_to:
+  - fig:2
+  basis: The speaker asks the gods to give him light and make themselves guides to
+    him.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: doors
+  literal_form: doors of the gods or their Courts
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Courts
+  literal_form: divine Courts entered by the speaker
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: light
+  literal_form: light requested from the gods
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: members, bodies, and soul of the speaker
+  literal_form: the speaker's members, bodies, and soul as the stated source or substance
+    of the gods
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ra addresses the gods in the Court
+  summary: Ra, described as the Majesty of this god in the passage and identified
+    by the passage label, stands in a Court and speaks to the gods within it. He asks
+    them to open doors, admit him into their Courts, give him light, and guide him,
+    then states that they came into being from his members and were made from his
+    bodies and soul.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: passage through divine doors and Courts
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The speaker asks divine beings to open their doors, let him enter their Courts,
+    give light, and serve as guides, fitting a mapped movement through divine spaces
+    in an afterlife text.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is short and does not itself describe the larger itinerary
+    beyond this request for admission and guidance.
+- id: motif:2
+  label: divine beings generated from a god's body and soul
+  taxonomy_refs: []
+  basis: The speaker tells the gods that they came into being from his members and
+    were made, fashioned, and created from his bodies and soul.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No specific available taxonomy reference directly names this motif.
+- id: motif:3
+  label: request for divine light and guidance
+  taxonomy_refs: []
+  basis: The speaker asks the addressed gods to give him light and make themselves
+    guides to him.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify whether the light is literal, ritual, or
+    cosmological within this short excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 836-842
+  quote_or_summary: The Majesty of this god stands after taking his position in a
+    Court and addresses the gods who are there.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 842-844
+  quote_or_summary: '"Open ye to me your doors, and let me come into your Courts!"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 844-847
+  quote_or_summary: '"Give ye light unto me, and make ye yourselves guides to me"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 847-856
+  quote_or_summary: The speaker addresses the gods as beings who came into being from
+    his members, says they are made of his bodies, and says he made, fashioned, and
+    created them from his soul.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: citation
+  locator: passage label, lines 836-856
+  quote_or_summary: The supplied passage label identifies the section as an address
+    of Ra to the gods.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied excerpt and passage
+    label. Motif assignment to afterlife_journey_map is plausible from the request
+    for entry, light, and guidance in divine Courts, but the excerpt is brief.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt alone does not support a specific historical or cross-traditional comparison beyond internal motif identification.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l836-l856
+  passage_sha256=1eff4d7c3e0e533fbf853fe99500376fcabd1b387c8541e315d10c7184cc87e8
+

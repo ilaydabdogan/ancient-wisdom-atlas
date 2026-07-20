@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l10734-l10763
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: HYMNS AND PRAYERS / HYMNS AND PRAYERS / PRAYER OF THE RAISING OF THE HAND
+    TO ISHTAR / NIN GA8AN HAR-8AG-KALAM-MA BAR-ZU; lines 10734-10763
+  start: '10734'
+  end: '10763'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains transliterated hymn or prayer lines associated by
+    the locator with a raised-hand prayer to Ishtar, including a line naming Inanna.
+    It then introduces a fragment of wisdom literature called the so-called Babylonian
+    Job, the second tablet of the Wisdom of Tabi-utul-Ellil. A short first-person
+    translated line and a footnote about a possible suffering hero or ancient king
+    are included.
+  language: English with cuneiform transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage locator identifies the passage context as a “Prayer of the Raising
+    of the Hand to Ishtar.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The supplied passage includes transliterated lines and a line containing the
+    divine marker with “innina-ge.”
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:3
+  text: A section heading identifies a fragment of wisdom literature, the so-called
+    Babylonian Job, as the second tablet of the Wisdom of Tabi-utul-Ellil.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A translated first-person line says “I attained” and “I moved beyond,” with
+    unclear supplied wording around “aplife, pointed time.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A footnote says the suffering hero seems to have been an ancient king named
+    Tabi-utul-Beli, whose name is preserved in a philological commentary on the text.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ishtar / Inanna
+  description: 'A deity addressed or named in the prayer context: the locator names
+    Ishtar, and the transliterated line includes “innina-ge.”'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: first-person speaker
+  description: The speaker of the translated line using “I.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Tabi-utul-Ellil
+  description: Name appearing in the heading as part of “the Wisdom of Tabi-utul-Ellil.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Tabi-utul-Beli
+  description: Named in the footnote as a possible ancient king and suffering hero;
+    spelling differs from Tabi-utul-Ellil in the supplied text and is not merged here.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine addressee or named deity
+  assigned_to:
+  - fig:1
+  basis: The locator identifies a prayer to Ishtar, and a transliterated line names
+    Inanna.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: first-person speaker
+  assigned_to:
+  - fig:2
+  basis: The translated line is spoken in the first person.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: eponymous wisdom-text figure
+  assigned_to:
+  - fig:3
+  basis: The heading names the text as the Wisdom of Tabi-utul-Ellil.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: possible suffering hero and ancient king
+  assigned_to:
+  - fig:4
+  basis: The footnote states that the suffering hero seems to have been an ancient
+    king named Tabi-utul-Beli.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: raised-hand prayer gesture
+  literal_form: raising of the hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Raised-hand prayer context
+  summary: The passage is identified as a raised-hand prayer to Ishtar, with transliterated
+    prayer material and a deity name in the passage.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Wisdom fragment introduction
+  summary: A heading introduces a wisdom-literature fragment called the so-called
+    Babylonian Job and links it with the Wisdom of Tabi-utul-Ellil.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: First-person life or time statement and suffering-hero note
+  summary: A first-person line reports attaining and moving beyond an unclear life/time
+    phrase; a footnote identifies a possible suffering hero and ancient king.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: raised-hand prayer to a goddess
+  taxonomy_refs: []
+  basis: The passage locator explicitly identifies the text as a Prayer of the Raising
+    of the Hand to Ishtar.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The actual prayer action is supplied by the title/locator; the excerpted
+    transliteration is fragmentary and not translated here.
+- id: motif:2
+  label: wisdom text with a suffering hero
+  taxonomy_refs:
+  - wisdom
+  basis: The heading identifies the material as wisdom literature and the so-called
+    Babylonian Job; the footnote refers to a suffering hero.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The narrative content of the suffering is not present in this excerpt,
+    and the hero identification is phrased cautiously in the footnote.
+comparison_claims:
+- id: claim:1
+  claim: The editorial phrase “so-called Babylonian Job” supports a cautious functional
+    comparison between this wisdom fragment and the Job-like pattern of a suffering
+    figure in wisdom literature.
+  claim_level: same_function
+  target: Job tradition / suffering figure in wisdom literature
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt provides an editorial label and a footnote about a suffering
+    hero, but it does not include enough narrative detail to establish shared plot
+    structure, historical contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: citation
+  locator: passage label; lines 10734-10763
+  quote_or_summary: The locator identifies the passage as “PRAYER OF THE RAISING OF
+    THE HAND TO ISHTAR.”
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short citation/summary.
+- id: ev:2
+  type: quote
+  locator: lines 10734-10763; section heading within passage
+  quote_or_summary: "“FRAGMENT OF WISDOM LITERATURE, THE SO-CALLED BABYLONIAN JOB,
+    SECOND TABLET OF THE WISDOM OF TABI-UTUL-ELLIL”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 10734-10763; translated line within passage
+  quote_or_summary: "“I attained unto (long) I moved beyond the aplife, pointed time,”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 10734-10763; footnote within passage
+  quote_or_summary: "“The suffering hero seems to have been an ancient king, fobi-utul-Beli,
+    whose name is preserved in a philological commentary on this text.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 10734-10763; transliterated line within passage
+  quote_or_summary: "“er-Sem-ma (dingir) innina-ge”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is fragmentary and includes garbled/OCR-corrupted wording. It
+    also crosses from a prayer context into a wisdom-literature heading and footnote,
+    so figure identities and motif candidates require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage text, locator, source metadata, and available taxonomy references. No unsupported taxonomy symbol refs were assigned.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l10734-l10763
+  passage_sha256=d5226bdbd9d5c2f12d21f55f8dce85cf19b6925f31bb5e7160eb25dcf3103bca
+

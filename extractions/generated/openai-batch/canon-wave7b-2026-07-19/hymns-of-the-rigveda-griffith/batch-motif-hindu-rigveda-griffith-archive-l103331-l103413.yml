@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l103331-l103413
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ARANYAKA IV / ARANYAKA V / ADHYAYA 2. / KRULE U; lines 103331-103413
+  start: '103331'
+  end: '103413'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is mainly ritual commentary and notes. It describes a sacrificial
+    sequence in which a cry is uttered, a usual stanza is used, breath is held back
+    during a secondary vasat, the Adhvaryu brings a vessel of libation with three
+    bowls, and the Hotr descends from a swing toward the east when he perceives food.
+    Notes compare the procedure and formulas with other Vedic ritual texts and cite
+    an Indra-Soma stanza.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cry translated as “We who sacrifice” accompanies the offering of sacrifice
+    with a usual stanza.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Breath is held back while a secondary vasat is repeated.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Adhvaryu brings up a vessel containing libation and three named bowls.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After perceiving food, the Hotr descends from a swing toward the east.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note cites a stanza addressed to Indra drinking Soma and describes additional
+    vasat-related cries after the yayya.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The notes explicitly compare parts of the ritual wording and action with Vedic
+    ritual texts such as the Aśvalāyana Śrauta Sūtra and Aitareya Brāhmaṇa.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: obs:7
+  text: A note explains the bowls as being drawn “over and above” in connection with
+    the term ati.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Adhvaryu
+  description: A ritual officiant who brings the vessel containing the libation and
+    the three bowls.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Hotr
+  description: A ritual officiant who descends from the swing toward the east after
+    perceiving food; a note also refers to the Hotr speaking after the yayya.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Indra
+  description: A deity addressed in a cited stanza to drink Soma.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: libation-bearing ritual officiant
+  assigned_to:
+  - fig:1
+  basis: The Adhvaryu brings the vessel containing the libation and the three bowls.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Hotr ritual officiant
+  assigned_to:
+  - fig:2
+  basis: The Hotr descends from the swing toward the east after perceiving food, and
+    the note identifies the Hotr as speaking in the ritual sequence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: invoked Soma-drinking deity
+  assigned_to:
+  - fig:3
+  basis: The note cites a stanza addressed to Indra with Soma drinking.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacrificial cry and vasat
+  literal_form: the cry “We who sacrifice” and a secondary vasat utterance
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: libation vessel
+  literal_form: vessel containing the libation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: three ritual bowls
+  literal_form: the three named bowls, OCR-obscured in the passage as “afgrahva” and
+    glossed in a note as drawn “over and above”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: food perceived by the Hotr
+  literal_form: food perceived before the Hotr descends
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: swing
+  literal_form: the swing from which the Hotr descends
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: eastward direction
+  literal_form: movement toward the east
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: Soma
+  literal_form: Soma in the cited Indra stanza and ritual formula discussion
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sacrificial utterance with breath restraint
+  summary: A sacrificial act is accompanied by the cry “We who sacrifice,” a usual
+    stanza, and a secondary vasat repeated while breath is held back.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Libation vessel and Hotr’s eastward descent
+  summary: The Adhvaryu brings a libation vessel and three bowls; when the Hotr perceives
+    food, he descends from the swing toward the east.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cited Indra-Soma ritual formula
+  summary: The notes cite a Rigvedic stanza in which Indra is addressed in connection
+    with Soma drinking and discuss related vasat cries.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacrificial offering accompanied by ritual utterance
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes offering sacrifice with a cry, stanza, and secondary
+    vasat.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is procedural ritual commentary rather than a narrative myth.
+- id: motif:2
+  label: libation and food presentation in ritual vessels
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The Adhvaryu brings a vessel containing libation and bowls; the surrounding
+    notes cite Soma formulas addressed to divine recipients.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The main prose focuses on officiants and implements; the divine recipient
+    is explicit chiefly in the cited formula to Indra.
+- id: motif:3
+  label: breath restraint during sacred speech
+  taxonomy_refs:
+  - sacrifice
+  basis: The rite includes holding back breath while repeating a secondary vasat,
+    and the notes compare related breath and speech formulas in Vedic ritual texts.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: This is a ritual-technical pattern; no broader mythic interpretation is
+    established by the passage.
+- id: motif:4
+  label: eastward descent from a swing in ritual sequence
+  taxonomy_refs: []
+  basis: The Hotr descends from the swing toward the east after perceiving food.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The single procedural detail is not enough to classify it under a broader
+    ascent, descent, or journey motif.
+comparison_claims:
+- id: claim:1
+  claim: The commentary links the vasat-related ritual procedure and formulas with
+    nearby Vedic ritual texts, especially the Aśvalāyana Śrauta Sūtra and Aitareya
+    Brāhmaṇa.
+  claim_level: same_function
+  target: Vedic śrauta ritual-text parallels for vasat and related formulas
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the commentary’s citations within this excerpt;
+    the parallel passages themselves are not included here.
+- id: claim:2
+  claim: The note connects the sacrificial formulaic setting with a Rigvedic Indra-Soma
+    stanza, indicating a nearby Vedic formulaic parallel rather than an independent
+    mythic narrative comparison.
+  claim_level: linguistic_similarity
+  target: Rigveda VII.23.1 Indra-Soma stanza
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a brief cited formula is present, and the passage is focused on
+    ritual usage rather than narrative content.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 103359-103361
+  quote_or_summary: A cry, “We who sacrifice,” accompanies offering sacrifice with
+    the usual stanza; breath is held back while a secondary vasat is repeated.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise excerpt and summary used.
+- id: ev:2
+  type: quote
+  locator: 103361-103362
+  quote_or_summary: "“The Adhvaryu brings up the vessel containing the libation and
+    the (three) afgrahva bowls.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: quote
+  locator: 103363-103364
+  quote_or_summary: "“As soon as he perceives the food, the Hotr descends from the
+    swing towards the east.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: summary
+  locator: 103366-103376
+  quote_or_summary: A note cites RV VII.23.1 with an Indra-Soma formula and discusses
+    vasat cries after the yayya, including words glossed around Soma and Agni.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary used because the OCR is noisy.
+- id: ev:5
+  type: summary
+  locator: 103385-103390
+  quote_or_summary: A note cites Aśvalāyana Śrauta Sūtra and Aitareya Brāhmaṇa as
+    direct references for a formula involving strength, power, speech, and the breaths
+    in relation to the Hotr.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary used because the OCR is noisy.
+- id: ev:6
+  type: summary
+  locator: 103401-103403
+  quote_or_summary: A note cites śrauta sources for the bowls and explains that they
+    are drawn “over and above” with reference to ati.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 103355-103357
+  quote_or_summary: A note says the Adhvaryu utters the praisa twice and compares
+    the phrasing with Aśvalāyana Śrauta Sūtra and other ritual scholarship.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The core ritual sequence is clear, but the excerpt is OCR-noisy and heavily
+    commentarial. Some Sanskrit terms and bowl names are uncertain, so technical identifications
+    require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not directly match the passage’s libation, Soma, bowls, swing, or eastward movement. The sacrifice motif family is directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l103331-l103413
+  passage_sha256=f8ad5c3cfe7290a1e6935bf10de62a2361273972d1ed8535a3399bae491fc5ba
+

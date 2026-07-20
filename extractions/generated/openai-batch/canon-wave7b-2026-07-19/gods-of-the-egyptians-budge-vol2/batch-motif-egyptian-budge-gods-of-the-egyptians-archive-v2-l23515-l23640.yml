@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l23515-l23640
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: GRASSHOPPER,    BEETLE  379 / BEETLE  381 / FISHES  383 / INDEX; lines 23515-23640
+  start: '23515'
+  end: '23640'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Abydos, the goal of souls
+  summary: The passage is an index segment listing alphabetized names, places, objects,
+    and cross-references. It includes entries for Thoth, Isis, Osiris, Seb, Tefnut,
+    Ra, Aaru and its lake, an Ab sceptre, the Abtu Fish, and Abydos as the goal of
+    souls.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is an index segment made up of alphabetic entries and volume/page
+    cross-references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index states an equivalence between “A” and Thoth.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index lists Aaru and a lake associated with Aaru.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index contains entries linking Aat or Aats with Isis, Osiris, Seb, Tefnut,
+    and Ra.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: The passage lists an Ab sceptre as an indexed object.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The passage lists the Abtu Fish as an indexed animal or object-name.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The passage lists Abydos and describes it as the goal of souls.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Thoth
+  description: Named in the index through the equivalence “A = Thoth.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Isis
+  description: Named parenthetically in the index entry “Aat (Isis).”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Osiris
+  description: Named in the index phrase “Aats of Osiris, the Fifteen.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Seb
+  description: Named in the index phrase “Aat of Seb.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Tefnut
+  description: Named in entries for “Aat of Tefnut” and “Aat-Tefnut.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Ra
+  description: Named in the index phrase “Aat of Ra.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: indexed equivalent name
+  assigned_to:
+  - fig:1
+  basis: The index states “A = Thoth.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: parenthetical indexed identification
+  assigned_to:
+  - fig:2
+  basis: The index gives “Aat (Isis).”
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: figure associated by an “of” index phrase
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The index includes entries formed as “Aat/Aats of” these named figures.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Lake of Aaru
+  literal_form: lake
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Ab sceptre
+  literal_form: sceptre
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Abtu Fish
+  literal_form: fish
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Abydos as goal of souls
+  literal_form: place described as goal of souls
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: Fifteen Aats of Osiris
+  literal_form: 'numbered group/name: the Fifteen Aats'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Abydos as destination for souls
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The index entry explicitly describes Abydos as “the goal of souls.”
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage is an index entry only; it gives no narrative journey, ritual
+    sequence, or doctrinal explanation.
+comparison_claims:
+- id: claim:1
+  claim: The phrase “Abydos, the goal of souls” supports a cautious functional comparison
+    with an afterlife-destination or afterlife-journey endpoint pattern.
+  claim_level: same_function
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage is an index, not a mythic narrative; it does not describe
+    stages, agents, judgment, or travel through the afterlife.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23515-23640; index heading and entries
+  quote_or_summary: "“INDEX” followed by alphabetized entries and cross-references."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; brief excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 23515-23640; entry for A
+  quote_or_summary: "“A  =  Thoth,  i.  402”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; brief excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 23515-23640; entry for Aaru
+  quote_or_summary: "“Aaru,  ii.   120 ;    Lake  of”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; brief excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 23515-23640; entries for Aat/Aats
+  quote_or_summary: "“Aat  (Isis),  ii.  213” and “Aats  of  Osiris,  the  Fifteen”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; brief excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 23515-23640; entries for Aat of named figures
+  quote_or_summary: Entries include “Aatof  Seb,” “Aat  of  Tefnut,” “Aat  of  Ra,”
+    and “Aat-Tefnut.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; brief excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 23515-23640; entry for Ab sceptre
+  quote_or_summary: "“Ab  sceptre,  i.  162  ;  ii.  8”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; brief excerpt used.
+- id: ev:7
+  type: quote
+  locator: lines 23515-23640; entry for Abtu Fish
+  quote_or_summary: "“Abtu   Fish, i. 324; ii. 209, 383”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; brief excerpt used.
+- id: ev:8
+  type: quote
+  locator: lines 23515-23640; entry for Abydos
+  quote_or_summary: "“Abydos,  the  goal  of  souls”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; brief excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward because the passage is an index. Motif
+    and comparison assignments are limited by the lack of narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes are present in the supplied passage; scene extraction is therefore empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l23515-l23640
+  passage_sha256=54ee720a384acc6ee212bf7890d655b97bead2d32e1c6829d76312b5b6a6b863
+

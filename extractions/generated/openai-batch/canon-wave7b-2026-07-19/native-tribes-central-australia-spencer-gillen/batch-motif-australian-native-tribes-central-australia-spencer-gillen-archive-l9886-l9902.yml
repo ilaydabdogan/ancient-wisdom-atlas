@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l9886-l9902
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: VI INTICHIU.MA CEREMONIES 193 / IXTICHIUMA CEREMONIES / IXTICHIUMA CEREMONIES
+    197 / VI INTICHIU.MA CEREMONIES 199; lines 9886-9902
+  start: '9886'
+  end: '9902'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After painting is completed, selected young men from named groups sit on
+    a ledge, open veins in their arms, and let blood run over a ceremonial stone while
+    men below watch and sing chants for increasing kangaroo numbers. Afterward old
+    men return to camp while young men hunt game and present it to them; sacred Ouabara
+    are performed at night.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After the painting is done, a number of young men go to the top of a ledge.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The young men include perhaps two or three Panunga and Bulthara and five or
+    six Purula and Kumara.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Panunga and Bulthara sit on the left side, and the Purula and Kumara sit
+    on the right side.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The young men open veins in their arms and allow blood to spurt over the edge
+    of the ceremonial stone on which they are seated.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Men below sit still, watch the performers, and sing chants about increasing
+    kangaroo numbers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The ceremony is said to be supposed to ensure an increase in kangaroo numbers.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the blood-letting, the old men go back to camp and remain there.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Young men spend the rest of the day on the rocks and plains searching for
+    game.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The game is brought in and presented to the old men.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The hunting and presentation may continue over several days.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: At night, sacred Ouabara are performed in camp.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: young men on the ledge
+  description: Selected young men who sit on the ledge and perform the blood-letting.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Panunga and Bulthara young men
+  description: Two or three young men named as Panunga and Bulthara, seated on the
+    left side.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Purula and Kumara young men
+  description: Five or six young men named as Purula and Kumara, seated on the right
+    side.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: men below
+  description: Men below the ledge who sit still, watch the performers, and sing chants.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: old men
+  description: Old men who return to camp after the blood-letting and receive game
+    brought by the young men.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: kangaroos
+  description: Animals whose numbers the chants and ceremony are said to increase.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: blood-letting ritual performers
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: They sit on the ledge, open veins in their arms, and let blood run over the
+    ceremonial stone.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: watchers and chanters
+  assigned_to:
+  - fig:4
+  basis: They sit below, watch the performers, and sing chants about increasing kangaroos.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipients of game
+  assigned_to:
+  - fig:5
+  basis: The old men remain in camp while game is brought in and presented to them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: target animals of increase ceremony
+  assigned_to:
+  - fig:6
+  basis: The chants refer to increasing the numbers of kangaroos, which the ceremony
+    is supposed to ensure.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: hunters after blood-letting
+  assigned_to:
+  - fig:1
+  basis: After the blood-letting, young men search for game on the rocks and plains.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ceremonial stone
+  literal_form: stone on the ledge over which blood is allowed to spurt
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: blood from arms
+  literal_form: blood from opened arm veins spurting over the ceremonial stone
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: kangaroo increase
+  literal_form: kangaroos whose numbers are the subject of the chants and ceremony
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: game presented to old men
+  literal_form: game hunted on rocks and plains and brought to the old men
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: sacred Ouabara
+  literal_form: sacred Ouabara performed at night in camp
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: camp
+  literal_form: camp where old men remain and where sacred Ouabara are performed at
+    night
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: blood-letting on ceremonial stone
+  summary: Selected young men sit on the ledge in left and right groupings, open veins
+    in their arms, and let blood spurt over the edge of the ceremonial stone while
+    men below watch and chant for kangaroo increase.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: hunting and presentation of game
+  summary: After the blood-letting, old men return to camp while young men search
+    for game on rocks and plains and present it to the old men; this may continue
+    for several days.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: night camp performances
+  summary: At night, sacred Ouabara are performed in camp.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ritual blood-letting to increase game animals
+  taxonomy_refs: []
+  basis: Blood is deliberately released over a ceremonial stone while chants refer
+    to increasing kangaroo numbers, which the ceremony is supposed to ensure.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage reports the rite as an ethnographic description and does not
+    explain the underlying symbolism.
+- id: motif:2
+  label: sacrificial blood rite
+  taxonomy_refs:
+  - sacrifice
+  basis: The young men open veins in their arms and spill blood in a ceremonial context
+    linked to desired increase of kangaroos.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage calls the action blood-letting, not explicitly sacrifice;
+    the taxonomy link is functional and should be reviewed.
+- id: motif:3
+  label: ritual distribution of hunted game to elders
+  taxonomy_refs: []
+  basis: After the blood-letting, young men hunt game and present it to the old men
+    in camp, possibly over several days.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage states the presentation but does not specify its ceremonial
+    meaning beyond its sequence after the blood-letting.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9886-9891
+  quote_or_summary: After painting is completed, a number of young men, including
+    Panunga, Bulthara, Purula, and Kumara, go to the top of a ledge and sit in left
+    and right groups.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 9891-9894
+  quote_or_summary: They "open veins in their arms" and let blood spurt over the edge
+    of the ceremonial stone on which they sit.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 9894-9898
+  quote_or_summary: Men below sit still, watch the performers, and sing chants referring
+    to increasing kangaroo numbers, which the ceremony is supposed to ensure.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9899-9900
+  quote_or_summary: After the blood-letting is over, the old men go back to camp and
+    remain there.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9900-9902
+  quote_or_summary: Young men spend the day searching for game on the rocks and plains;
+    the game is brought in and presented to the old men, and this may extend over
+    several days.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: line 9902
+  quote_or_summary: At night-time sacred Ouabara are performed in camp.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage gives clear ritual actions and sequence. Motif labels are limited
+    to what the passage states; the sacrifice taxonomy reference is tentative because
+    the text describes blood-letting but not explicit sacrifice.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare the rite to another tradition or motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l9886-l9902
+  passage_sha256=46966149b5f7e5388ab34c43710eb7604eff1b97d59227ff58fbe350b11df80d
+

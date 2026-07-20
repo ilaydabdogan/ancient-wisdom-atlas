@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l29435-l29506
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUREAU  OP  AMEBICAN  ETHNOLOGY / BUREAU  OF  AMERICAN  ETHNOLOGV / IMPLEMENTS  USED
+    / BUREAU   OF  AMEBICAN   ETHNOLOGY; lines 29435-29506
+  start: '29435'
+  end: '29506'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes cooking meat in boiling water, caring for a wounded
+    man with broth, leaving him with a young man, his later recovery and safe return
+    with another war party, Eagle Shield's professional description of the wound,
+    and a separate incident in which Eagle Shield was pursued by Crow Indians while
+    carrying a friend whose horse had been shot. It also presents a song titled "One
+    of Them Will Be Killed" and a note on a Sioux cooking outfit using heated stones
+    and sticks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Meat is put into boiling water and cooked without difficulty.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A wounded man is refreshed by broth, made comfortable, and left with a young
+    man after more meat is cooked.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Eight days later another war party finds the wounded man able to travel, and
+    he and his companion join that party and reach home safely.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Eagle Shield is identified as the narrator and as a medicine-man specializing
+    in wounds and fractures.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Eagle Shield describes the injury as severe, with protruding bones and buckshot
+    emerging from the wound before the leg healed.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Eagle Shield says he was once pursued by Crow Indians while carrying a friend
+    whose horse had been shot.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A song titled "One of Them Will Be Killed" is said to have been sung at the
+    time of the pursuit, though the meaning of the words in that connection is unclear.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A footnote describes a Sioux cooking outfit using heated stones, forked sticks,
+    a blunt stick, and a short stirring stick.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: wounded man
+  description: A man with a severe leg injury who is fed broth, left with a young
+    man, later becomes able to travel, and reaches home safely.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: young man companion
+  description: A young man left in charge of the wounded man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: another war party
+  description: A war party passing the place eight days later that finds the wounded
+    man able to travel and brings him and his companion home safely.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Eagle Shield
+  description: Narrator of the account, a medicine-man specializing in wounds and
+    fractures, and singer associated with the song in the passage.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Crow Indians
+  description: Pursuers of Eagle Shield in the incident he recounts.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: friend carried by Eagle Shield
+  description: A friend whose horse had been shot and whom Eagle Shield was carrying
+    during pursuit.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: wounded survivor
+  assigned_to:
+  - fig:1
+  basis: The man has a severe wound, is tended, later travels, and reaches home safely.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: recipient of care
+  assigned_to:
+  - fig:1
+  basis: He is refreshed by broth and made comfortable.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: caretaker companion
+  assigned_to:
+  - fig:2
+  basis: He is left in charge of the wounded man.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: rescuing or returning party
+  assigned_to:
+  - fig:3
+  basis: This party finds the wounded man able to travel, and he and his companion
+    join it and reach home safely.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: medicine-man narrator
+  assigned_to:
+  - fig:4
+  basis: The passage says Eagle Shield gave the narrative and specialized in treating
+    wounds and fractures.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: song performer
+  assigned_to:
+  - fig:4
+  basis: The song is listed as sung by Eagle Shield.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: pursuers
+  assigned_to:
+  - fig:5
+  basis: Eagle Shield says Crow Indians pursued him.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: carried friend
+  assigned_to:
+  - fig:6
+  basis: Eagle Shield was carrying this friend after the friend's horse had been shot.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: boiling water
+  literal_form: water boiling for cooking meat
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: broth
+  literal_form: broth given to refresh the wounded man
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: heated stones and fire
+  literal_form: stones heated in a fire and placed in water for cooking
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: song of threatened killing
+  literal_form: song titled "One of Them Will Be Killed"
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cooking and care for the wounded man
+  summary: Meat is cooked in boiling water, broth refreshes the wounded man, and he
+    is made comfortable before the group leaves him with a young man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Recovery and safe return
+  summary: After eight days, another war party finds the wounded man able to travel;
+    he and his companion join the party and reach home safely.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Medicine-man's wound account
+  summary: Eagle Shield describes the wound professionally, including protruding bones,
+    buckshot, and eventual healing of the leg.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Pursuit while carrying a friend
+  summary: Eagle Shield recounts being pursued by Crow Indians while carrying a friend
+    whose horse had been shot.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Documented cooking implement use
+  summary: A note reports the writer's observation of a Sioux cooking outfit in which
+    stones were heated in a fire and moved into water with sticks to cook meat.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wounded warrior tended and returned home
+  taxonomy_refs:
+  - return
+  basis: The passage describes a severely wounded man being nourished and left in
+    care, then found able to travel and brought safely home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is general; the passage is an historical or ethnographic
+    narrative rather than an explicit mythic return pattern.
+- id: motif:2
+  label: companion carried during enemy pursuit
+  taxonomy_refs: []
+  basis: Eagle Shield reports being pursued by Crow Indians while carrying a friend
+    whose horse had been shot.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The incident is brief and no wider symbolic or narrative outcome is given
+    in this passage.
+- id: motif:3
+  label: song linked to danger in pursuit
+  taxonomy_refs: []
+  basis: A song titled "One of Them Will Be Killed" is said to have been sung at the
+    time of the pursuit, though the editor notes the meaning is unclear.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage explicitly states that the meaning of the words in this context
+    is not clear.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29435-29438
+  quote_or_summary: Water is boiling; meat is put into it and the cooking is accomplished
+    without difficulty.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 29440-29445
+  quote_or_summary: The wounded man is refreshed by broth, left with a young man,
+    and eight days later joins another war party with his companion and reaches home
+    safely.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 29447-29454
+  quote_or_summary: Eagle Shield, a medicine-man specializing in wounds and fractures,
+    describes the severe injury, protruding bones, buckshot from the wound, and healing
+    after one moon and the first quarter of the next.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 29456-29458
+  quote_or_summary: Eagle Shield says that he was pursued by Crow Indians while carrying
+    a friend whose horse had been shot.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 29460-29469
+  quote_or_summary: 'The following song was said to have been sung at this time, but
+    the meaning of the words in this connection is not clear: No. 168, "One of Them
+    Will Be Killed," sung by Eagle Shield.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:6
+  type: summary
+  locator: footnote within lines 29483-29506
+  quote_or_summary: A Sioux camp cooking outfit observed by the writer used stones
+    heated in a fire near a tripod, moved with forked sticks into water, with blunt
+    and short sticks used for pushing and stirring.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The narrative details are clear, but motif extraction is limited because
+    the passage is ethnographic and historical rather than an explicit mythic episode.
+    No passage-supported comparative claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR irregularities in the supplied passage were not normalized except in summaries. No comparisons were inferred beyond the supplied passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l29435-l29506
+  passage_sha256=4114a23baa483a554dfdc0ffa4388e970940ec21ab227710195c9baaac061d32
+

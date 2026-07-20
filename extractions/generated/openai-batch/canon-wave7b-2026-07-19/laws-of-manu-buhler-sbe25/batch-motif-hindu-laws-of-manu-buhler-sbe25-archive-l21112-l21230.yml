@@ -1,0 +1,418 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l21112-l21230
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: VIII,  125. / VIII,  139.      CIVIL  AND  CRIMINAL  LAW;  PROCEDURE.       2;  J
+    / VIII,  149-        CIVIL  AND  CRIMINAL  LAW;  DEBTS.  279 / VIII,  156.        CIVIL  AND  CRIMINAL  LAW
+    ;    DEBTS.  28 1; lines 21112-21230
+  start: '21112'
+  end: '21230'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Verses VIII.154-164 give civil-law rules on renewing unpaid debts, interest,
+    payment for carriage or voyages, sureties, inherited liability, contractual capacity,
+    and agreements contrary to law or settled usage.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A debtor unable to pay at the fixed time may renew the agreement after paying
+    the interest due.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If the debtor cannot pay the interest, it may be inserted into the renewed
+    agreement, and the due interest remains payable.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A person contracted to carry goods by wheeled carriage for money forfeits
+    the reward if the stipulated place and time are not kept.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rates fixed by men expert in sea-voyages, calculated according to place, time,
+    and objects carried, have legal force for payment in those cases.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A surety for a debtor's appearance who does not produce the debtor must pay
+    the debt from his own property.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A son is not obliged to pay money due by a surety, idle promises, gambling
+    losses, liquor debts, unpaid fines, or taxes or duties owed by the party owing
+    them.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The special rule for a surety applies only to a surety for appearance; if
+    a surety for payment dies, the judge may compel the heirs to discharge the debt.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: If a surety other than for payment had received money from the principal and
+    had enough money to pay, the heir of the receiver must pay the debt from that
+    property.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Contracts made by intoxicated, insane, gravely disordered, wholly dependent,
+    infant, very aged, or unauthorized persons are invalid.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: An agreement contrary to law or settled virtuous usage has no legal force,
+    even if established by proofs.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The translator's notes record differing commentator explanations of the term
+    rendered as a wheeled-carriage contract, including an interpretation as compound
+    interest.
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: debtor
+  description: A person unable to pay a debt at the fixed time, or the person whose
+    appearance is guaranteed by a surety.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: creditor
+  description: The party who may in some cases demand the debt after the death of
+    a surety.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: carrier by wheeled carriage
+  description: A person contracted to carry goods by wheeled carriage for payment,
+    under a stipulated place and time.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: men expert in sea-voyages
+  description: Persons able to calculate payment rates according to the place, time,
+    and objects carried.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: surety for appearance
+  description: A surety who guarantees the appearance of a debtor and is liable if
+    the debtor is not produced.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: son of the owing party
+  description: The son is named as not obliged to pay specified categories of debt
+    owed by the party.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: surety for payment
+  description: A surety whose payment obligation may pass to heirs if he dies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: judge
+  description: The authority who may compel heirs of a surety for payment to discharge
+    a debt.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: heirs
+  description: Heirs who may be compelled to discharge a surety's debt in specified
+    circumstances.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:10
+  name_or_label: persons lacking contractual capacity
+  description: Persons described as intoxicated, insane, grievously disordered, wholly
+    dependent, infants, very aged, or unauthorized parties.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: debtor
+  assigned_to:
+  - fig:1
+  basis: The passage describes a person owing a debt who may renew an agreement or
+    whose appearance is guaranteed.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: creditor
+  assigned_to:
+  - fig:2
+  basis: The passage describes a creditor who may demand a debt from heirs in some
+    cases.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: contracted carrier
+  assigned_to:
+  - fig:3
+  basis: The passage describes a person who contracts to carry goods for money under
+    stipulated place and time.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: expert rate-setter
+  assigned_to:
+  - fig:4
+  basis: The passage gives legal force to rates fixed by experts in sea-voyages who
+    calculate by place, time, and objects carried.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: surety for appearance
+  assigned_to:
+  - fig:5
+  basis: The passage states that this surety must pay if he does not produce the debtor.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: non-liable son for specified debts
+  assigned_to:
+  - fig:6
+  basis: The passage states that the son is not obliged to pay certain categories
+    of debts.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: surety for payment
+  assigned_to:
+  - fig:7
+  basis: The passage distinguishes a surety for payment and allows heirs to be compelled
+    if such a surety dies.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: compelling legal authority
+  assigned_to:
+  - fig:8
+  basis: The judge may compel heirs to discharge the debt of a deceased surety for
+    payment.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: potentially liable heirs
+  assigned_to:
+  - fig:9
+  basis: Heirs may have to pay when a surety for payment dies or when a surety received
+    money and had means to pay.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:10
+  label: invalid contracting party
+  assigned_to:
+  - fig:10
+  basis: Contracts by listed incapacitated or unauthorized persons are declared invalid.
+  evidence_refs:
+  - ev:8
+symbols: []
+scenes:
+- id: scene:1
+  label: Renewal of unpaid debt
+  summary: A debtor who cannot pay at the fixed time may renew the agreement, with
+    interest either paid or included in the renewed obligation.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Payment rules for transport and voyage commerce
+  summary: A carrier loses payment if stipulated place and time are not kept, while
+    expert-calculated voyage rates have legal force.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Surety liability and inheritance limits
+  summary: The passage distinguishes sureties for appearance from sureties for payment,
+    limits a son's liability for certain debts, and identifies cases where heirs can
+    be compelled to pay.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Invalid agreements
+  summary: Contracts made by incapacitated or unauthorized persons are invalid, and
+    agreements contrary to law or settled virtuous usage lack legal force.
+  figure_refs:
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The notes explicitly place the surety rules of VIII.158-160 beside other
+    Dharmashastra legal passages, indicating a nearby-corpus parallel in legal function
+    rather than a mythological motif.
+  claim_level: same_function
+  target: Gautama XII.42; Vishnu VI.41; Yajnavalkya II.47 and II.53-54
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only cites the parallel sources and does not quote their
+    contents; the comparison is legal-functional, not mythological.
+evidence:
+- id: ev:1
+  type: summary
+  locator: VIII.154-155; lines 21112-21230
+  quote_or_summary: A person unable to pay a debt may renew the agreement after paying
+    due interest; unpaid interest may be inserted into the renewed agreement.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: VIII.156; lines 21112-21230
+  quote_or_summary: A contracted carrier of goods by wheeled carriage does not receive
+    the reward if he does not keep the stipulated place and time.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: VIII.157; lines 21112-21230
+  quote_or_summary: Rates fixed by experts in sea-voyages, calculated by place, time,
+    and objects carried, have legal force for payment.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: VIII.158; lines 21112-21230
+  quote_or_summary: A surety for a debtor's appearance who does not produce the debtor
+    must pay the debt from his own property.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: VIII.159; lines 21112-21230
+  quote_or_summary: 'A son is not obliged to pay certain debts: surety debts, idle
+    promises, gambling losses, liquor debts, unpaid fines, and taxes or duties.'
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: VIII.160; lines 21112-21230
+  quote_or_summary: The rule just mentioned applies only to a surety for appearance;
+    when a surety for payment dies, the judge may compel heirs to discharge the debt.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: VIII.161-162; lines 21112-21230
+  quote_or_summary: A creditor may in some cases demand a debt from heirs after the
+    death of a non-payment surety; if that surety received money and had means to
+    pay, his heir must pay from his property.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: VIII.163; lines 21112-21230
+  quote_or_summary: Contracts made by intoxicated, insane, grievously disordered,
+    dependent, infant, very aged, or unauthorized persons are invalid.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: VIII.164; lines 21112-21230
+  quote_or_summary: An agreement contrary to law or settled virtuous usage has no
+    legal force, even if established by proofs.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: note
+  locator: Translator's note on VIII.156-157; lines 21112-21230
+  quote_or_summary: The note reports that some commentators understand the term explained
+    as a wheeled-carriage contract as compound interest, and that interpretations
+    of the following verse differ accordingly.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation and notes; summarized.
+- id: ev:11
+  type: citation
+  locator: Translator's note on VIII.158-160; lines 21112-21230
+  quote_or_summary: The note cites Gautama XII.42, Vishnu VI.41, and Yajnavalkya II.47
+    and II.53-54 as related passages for the surety rules.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation and notes; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: The passage is primarily legal prose on debts and contracts. Literal legal
+    actors and rules are clear, but mythological motifs or symbols are not explicit;
+    therefore motif candidates and symbols are left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif family was applied, because the passage does not explicitly present mythic-symbolic imagery or a narrative motif. A limited nearby-corpus comparison is included only because the translator's note cites parallel Dharmashastra passages.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l21112-l21230
+  passage_sha256=e633197d3d2ba69965391011272fe6d1bf19e8e3e83ae8a3e760179229298dd5
+

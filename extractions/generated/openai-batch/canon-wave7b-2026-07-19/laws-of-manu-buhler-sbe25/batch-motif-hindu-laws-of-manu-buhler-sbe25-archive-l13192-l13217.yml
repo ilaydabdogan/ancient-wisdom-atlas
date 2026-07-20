@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l13192-l13217
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: IIO  LAWS    OF   MANU.  111,184. / I    2 / LAWS    OF    MANU. / LAWS    OF    MANU.;
+    lines 13192-13217
+  start: '13192'
+  end: '13217'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies the manes of fathers, grandfathers, and great-grandfathers
+    with Vasus, Rudras, and Adityas according to the eternal Veda. It also instructs
+    daily consumption of vighasa and amrita, defining these as leftovers from Brahmana
+    guests' meals and the remainder of a sacrifice, and closes a section on the five
+    daily great sacrifices.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The manes of fathers are called Vasus.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The manes of grandfathers are called Rudras.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The manes of great-grandfathers are called Adityas.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage attributes the ancestor classifications to the eternal Veda.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The instructed person is told to partake daily of vighasa and eat daily amrita.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Vighasa is defined as what remains from the meal of Brahmana guests.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Amrita is defined as the remainder of a sacrifice.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The passage states that ordinances relating to the five daily great sacrifices
+    have been declared.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: manes of fathers
+  description: Ancestor manes of fathers, called Vasus in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: manes of grandfathers
+  description: Ancestor manes of grandfathers, called Rudras in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: manes of great-grandfathers
+  description: Ancestor manes of great-grandfathers, called Adityas in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: instructed householder or ritual participant
+  description: The person addressed by the injunction to partake daily of vighasa
+    and eat amrita.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Brahmana guests
+  description: Guests whose meal leaves the remainder called vighasa.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ancestral manes classified by divine group names
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage identifies fathers' manes with Vasus, grandfathers' with Rudras,
+    and great-grandfathers' with Adityas.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of ritual dietary injunction
+  assigned_to:
+  - fig:4
+  basis: The passage says to partake daily of vighasa and eat amrita.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Brahmana meal guests
+  assigned_to:
+  - fig:5
+  basis: Vighasa is defined as what remains from the meal of Brahmana guests.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: vighasa
+  literal_form: Remainder from the meal of Brahmana guests.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: amrita
+  literal_form: Remainder of a sacrifice, glossed in the translation as ambrosia.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: five daily great sacrifices
+  literal_form: A set of five daily great sacrifices whose ordinances have just been
+    declared.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Classification of ancestral manes
+  summary: The passage names three generations of ancestor manes and associates them
+    with Vasus, Rudras, and Adityas, citing the eternal Veda.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Daily consumption of ritual remainders
+  summary: The instructed person is told to consume vighasa and amrita daily, with
+    the terms defined as remainders from Brahmana guests' meals and from sacrifice.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Conclusion of five-sacrifice ordinances
+  summary: The passage says the ordinances for the five daily great sacrifices have
+    been declared and transitions to rules for Brahmanas' manner of living.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sacred remainder as daily food
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage defines amrita as the remainder of a sacrifice and instructs
+    daily eating of it, alongside vighasa from Brahmana guests' meals.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is prescriptive legal material rather than a narrative myth;
+    the motif label is based on ritual pattern rather than story action.
+- id: motif:2
+  label: ancestor generations mapped to divine classes
+  taxonomy_refs: []
+  basis: The passage maps fathers, grandfathers, and great-grandfathers among the
+    manes to Vasus, Rudras, and Adityas.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a doctrinal classification and does not elaborate a
+    mythic episode.
+- id: motif:3
+  label: five daily great sacrifices
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly refers to ordinances concerning the five daily great
+    sacrifices.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Only the closing reference to the set of sacrifices appears in this excerpt;
+    details of the five sacrifices are outside the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13192-13195; verse 284
+  quote_or_summary: The manes of fathers are called Vasus, those of grandfathers Rudras,
+    and those of great-grandfathers Adityas; the eternal Veda is cited as the authority.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 13205-13209; verse 285
+  quote_or_summary: The passage instructs daily partaking of vighasa and eating of
+    amrita, defining vighasa as the remains from Brahmana guests' meal and amrita
+    as the remainder of a sacrifice.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 13211-13217; verse 286
+  quote_or_summary: The passage states that all ordinances concerning the five daily
+    great sacrifices have been declared and introduces the law for Brahmanas' manner
+    of living.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is a prescriptive dharmashastra excerpt, not a narrative myth. No
+    comparison claims are made because the supplied passage does not itself support
+    cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy references are limited to explicitly supported sacrifice-related items.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l13192-l13217
+  passage_sha256=de40573365d354e55cd6a5496799dfa1128ad44ba73be4fcbf44fb16e91e67bf
+

@@ -1,0 +1,556 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-baffin-hudson-1-boas-archive-l5173-l5272
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+passage_locator:
+  label: CUMBERLAND SOUND. / WEST COAST OF HUDSON BAY. / V. TRADITIONS. / TALES FROM
+    CUMBERLAND SOUND.; lines 5173-5272
+  start: '5173'
+  end: '5272'
+  translation: The Eskimo of Baffin Land and Hudson Bay, Part I
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A blind boy and his sister are mistreated by their stepmother after the
+    boy unknowingly kills a bear. The sister secretly feeds him. Speaking birds on
+    a lake carry the boy through repeated underwater dives and restore his sight.
+    He later takes revenge on the stepmother during a whale hunt; she is pulled under
+    water and transformed into a narwhal. The siblings travel onward, survive an attack
+    by long-nailed people in a snow house, and are later received kindly by the Ikingan,
+    who have unusual eating habits and no anuses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'A woman north of Padli has two stepchildren: a blind boy and a girl.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bear comes to the house; the woman aims a bow for the blind boy, who shoots
+    and kills the bear, but she tells him his arrow only struck the window.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman skins the bear, tells the girl not to mention it, and withholds
+    meat from the blind boy while the girl secretly gives him pieces of meat.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At a lake, one of two birds tells the blind boy to sit on its kayak, dives
+    with him repeatedly under water, and after the dives the boy gains keen eyesight.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After regaining sight, the boy sees a bear-skin drying outside the dwelling
+    and asks his stepmother about it; she says she got it from passing people in a
+    boat.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: During a white-whale hunt, the boy has his stepmother fasten the harpoon-line
+    around her waist; after he harpoons a large white whale, the whale pulls her under
+    water.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: While in the water, the woman appeals to her stepson, twists her hair into
+    the form of a horn, and is transformed into a narwhal.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The boy and his sister travel away, encounter people with very long fingernails
+    in a snow house, and the sister is scratched until her skin is torn; the boy kills
+    those people and tends the sister with rabbit-skins until she heals.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The siblings later meet the Ikingan, who are kind to them; these people identify
+    caribou-fat lying outside as dirt, provide meat inside, chew and spit out fat,
+    and have no anuses.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: blind boy / stepson
+  description: A blind male stepchild who kills a bear, has his sight restored by
+    a lake bird, hunts white whales, causes his stepmother to be pulled under water,
+    protects his sister, and travels onward.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: sister / girl stepchild
+  description: The blind boy's sister, who secretly feeds him, leads him to the lake,
+    is wounded by long-nailed people, and travels with him.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: stepmother / woman transformed into narwhal
+  description: The woman who withholds bear meat from the blind boy, is later pulled
+    under water during the whale hunt, twists her hair into a horn, and becomes a
+    narwhal.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: bear
+  description: A bear that looks in at the window of the house and is killed by the
+    blind boy's arrow.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: speaking lake bird
+  description: One of two birds on the lake; it speaks to the blind boy, carries him
+    on a kayak, dives under water with him repeatedly, and asks whether he can see.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: large white whale
+  description: A large white whale harpooned by the boy; it pulls the stepmother under
+    water and later swims away with the narwhal.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: long-nailed snow-house people
+  description: People in a snow house with very long fingernails; they fear the strangers,
+    scratch the girl until her skin is torn, and are killed by the boy.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Ikingan
+  description: People who are kind to the siblings; they offer food in a hut, chew
+    and spit out fat, and have no anuses.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: sibling pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies the blind boy and girl as stepchildren and presents
+    them travelling and surviving together.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: restored-sight hunter
+  assigned_to:
+  - fig:1
+  basis: The boy begins blind, gains keen eyesight after the lake dives, and later
+    prepares hunting implements and hunts white whales.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: secret helper sibling
+  assigned_to:
+  - fig:2
+  basis: The girl hides meat and gives it to her brother when the mother is absent.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: protector of sister
+  assigned_to:
+  - fig:1
+  basis: When he hears his sister crying, the boy kills the long-nailed people and
+    keeps her wrapped in rabbit-skins until her wounds heal.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: deceptive withholding caretaker
+  assigned_to:
+  - fig:3
+  basis: The woman denies the boy killed the bear, hides the bear meat from him, and
+    gives a false explanation for the bear-skin.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:6
+  label: transformed victim
+  assigned_to:
+  - fig:3
+  basis: During the whale-hunt episode she is pulled under water and transformed into
+    a narwhal.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: speaking animal helper
+  assigned_to:
+  - fig:5
+  basis: The bird speaks to the blind boy, carries him on a kayak, and its repeated
+    dives are followed by the restoration of his sight.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: animal that pulls a person under water
+  assigned_to:
+  - fig:6
+  basis: The white whale pulls the stepmother under water after being harpooned.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: hostile long-nailed people
+  assigned_to:
+  - fig:7
+  basis: They scratch the girl until her skin is torn.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: kind hosts with unusual bodies and food practice
+  assigned_to:
+  - fig:8
+  basis: The Ikingan are kind, offer food, chew and spit out fat, and are said to
+    have no anuses.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: lake water
+  literal_form: A small lake and underwater dives
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: kayak carried by bird
+  literal_form: The bird's kayak on which the blind boy sits before the dives
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bear-skin
+  literal_form: A bear-skin drying outside the house
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: harpoon-line around waist
+  literal_form: The end of the white-whale harpoon-line fastened around the stepmother's
+    waist
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: hair twisted into horn
+  literal_form: The woman takes her hair in her hands and twists it into the form
+    of a horn before becoming a narwhal
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: long fingernails
+  literal_form: Very long fingernails of the snow-house people
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: rabbit-skins for healing
+  literal_form: Rabbit-skins used to wrap the wounded sister until her wounds heal
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: caribou-fat called dirt
+  literal_form: Caribou-fat lying outside, which the Ikingan say is dirt
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Bear killing and concealment of meat
+  summary: The blind boy kills a bear after the woman aims his arrow, but the woman
+    denies his success, skins the bear, hides the matter from him, and withholds meat
+    while the sister secretly feeds him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lake dives and restoration of sight
+  summary: The sister leads the blind boy to a lake where two birds are present. One
+    bird carries him on its kayak, dives with him several times, asks whether he can
+    see, and after the final dive he has keen eyesight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Discovery of the bear-skin
+  summary: The boy returns after gaining sight, sees a bear-skin drying outside, and
+    receives the woman's explanation that it came from people passing in a boat.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: White-whale hunt and narwhal transformation
+  summary: The boy brings the stepmother to the floe-edge, tells her to fasten the
+    line around her waist, harpoons a large white whale, and allows the whale to pull
+    her under water. She appeals to him, twists her hair into a horn, becomes a narwhal,
+    and swims away with the whale.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Attack in the snow house
+  summary: After leaving with his sister, the boy comes to a place with a snow house.
+    Long-nailed people send the girl to take water, scratch her until her skin is
+    torn, and are then killed by the boy, who cares for the sister with rabbit-skins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:1
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Arrival among the Ikingan
+  summary: The siblings meet the Ikingan, who are kind and offer food in a hut. The
+    girl observes their treatment of caribou-fat, their eating practice, and their
+    lack of anuses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: mistreated sibling pair survives and travels together
+  taxonomy_refs:
+  - sibling_pair
+  basis: The two stepchildren are a brother and sister; the sister secretly feeds
+    the boy, later he protects and heals her, and they leave together to travel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The passage presents a sibling pair clearly, but the broader tale type
+    is not identified in the supplied data.
+- id: motif:2
+  label: animal helper restores sight through repeated underwater journeys
+  taxonomy_refs: []
+  basis: A speaking bird carries the blind boy on a kayak and dives with him repeatedly;
+    after these immersions he can see keenly.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No supplied taxonomy reference directly names healing by animal helper
+    or sight restoration; connection to initiation or descent patterns would require
+    outside comparison.
+- id: motif:3
+  label: human transformed into narwhal after underwater ordeal
+  taxonomy_refs:
+  - shapeshifter
+  basis: The stepmother is pulled under water, twists her hair into a horn, and is
+    transformed into a narwhal.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The transformation is explicit; the taxonomy term 'shapeshifter' is used
+    broadly because the change is imposed or occurs during the ordeal rather than
+    being voluntary shape-changing.
+- id: motif:4
+  label: revenge through hunting-line trap
+  taxonomy_refs: []
+  basis: The boy has the stepmother fasten the harpoon-line around her waist and then
+    harpoons a large white whale so that she is pulled under water.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state revenge as a motive, though the
+    sequence follows her deception and starvation of the boy.
+- id: motif:5
+  label: dangerous strangers with abnormal bodily feature
+  taxonomy_refs: []
+  basis: The snow-house people have very long fingernails and scratch the sister until
+    her skin is torn.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: No supplied taxonomy reference directly covers the long-nailed hostile
+    people.
+- id: motif:6
+  label: hospitality by people with unusual anatomy and food practice
+  taxonomy_refs: []
+  basis: The Ikingan are kind hosts, provide food, chew and spit out fat, and are
+    said to have no anuses.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage gives the details but no explicit interpretation or comparative
+    taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5173-5272; opening bear episode
+  quote_or_summary: A woman north of Padli has two stepchildren, a blind boy and a
+    girl. A bear looks in at the window; the woman aims the blind boy's arrow, he
+    kills the bear, and she tells him the arrow only struck the window.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5173-5272; concealment and feeding episode
+  quote_or_summary: The woman skins the bear, instructs the girl not to tell her brother,
+    keeps the boy starving despite having meat, and the girl secretly gives him meat
+    when the mother is absent.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5173-5272; lake-bird episode
+  quote_or_summary: The boy asks his sister to lead him to a lake with birds. One
+    bird tells him to sit on its kayak, dives under water with him several times,
+    and after repeated questions about his sight the boy can see keenly.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5173-5272; bear-skin discovery
+  quote_or_summary: The boy sees a bear-skin drying outside the dwelling and asks
+    where it came from; the woman says she got it from people passing in a boat.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5173-5272; white-whale hunt
+  quote_or_summary: The boy prepares hunting implements, takes his stepmother to the
+    floe-edge, has her fasten the line around her waist, harpoons a large white whale,
+    and the whale pulls her under water while she appeals to him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5173-5272; narwhal transformation
+  quote_or_summary: When the whale rises again, the woman lies on her back, twists
+    her hair into the form of a horn, calls to her stepson, and is transformed into
+    a narwhal; the white whale and narwhal swim away.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5173-5272; snow-house attack
+  quote_or_summary: The siblings travel, find a snow house, and the sister asks its
+    long-nailed inhabitants for water. They make her remove clothing and scratch her
+    until her skin is torn; her brother kills them, wraps her in rabbit-skins until
+    healed, and carries her as they travel.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5173-5272; Ikingan episode
+  quote_or_summary: The siblings meet the Ikingan, who are kind. They tell the girl
+    not to eat caribou-fat lying outside, call it dirt, provide meat in the hut, chew
+    and spit out fat, and have no anuses.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif labels are
+    cautious and limited to available taxonomy where directly supported. No external
+    comparative claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy IDs were added beyond the supplied available taxonomy references.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:arctic-inuit-eskimo-baffin-hudson-1-boas-archive__l5173-l5272
+  passage_sha256=9a21299382f19421ba18c87d4fe0075174310b079e41e1f1c05dde2af4deffbc
+

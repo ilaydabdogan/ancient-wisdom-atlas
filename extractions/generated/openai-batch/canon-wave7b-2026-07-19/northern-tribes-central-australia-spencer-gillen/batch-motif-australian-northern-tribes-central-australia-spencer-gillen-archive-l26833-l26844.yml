@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l26833-l26844
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: CHAP. XIX / WELCOMING DANCE / WELCOMING DANCE / WELCOMING DANCE; lines 26833-26844
+  start: '26833'
+  end: '26844'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After damper is divided and eaten, visitors are led to camp. In the evening
+    an ordinary corrobboree dance is performed in honor of their arrival. Over the
+    next two or three days the visitors may witness sacred ceremonies. Older men may
+    freely enter the ceremonial ground, while two recently initiated youths remain
+    in the men's camp and approach the ceremonial ground only by special invitation
+    during an actual ceremony.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Damper is divided up and eaten before the visitors are led to the camp.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During the evening, an ordinary corrobboree dance is performed in honor of
+    the visitors' arrival.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: For the next two or three days, the visitors are allowed to witness sacred
+    ceremonies that are being performed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Older men are permitted to come freely onto the ceremonial ground.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Two recently initiated youths stay in the men's camp and approach the ceremonial
+    ground only by special invitation when a ceremony is actually being performed.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage distinguishes the camp, the men's camp, and the ceremonial ground
+    as relevant settings.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: visitors
+  description: Visitors are led to the camp, honored by a dance, and later allowed
+    to witness sacred ceremonies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: older men
+  description: Older men are permitted to come freely onto the ceremonial ground.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: two recently initiated youths
+  description: Two recently initiated youths stay in the men's camp and approach the
+    ceremonial ground only by special invitation during an actual ceremony.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: honored visiting witnesses
+  assigned_to:
+  - fig:1
+  basis: The visitors are honored with an evening dance and are allowed to witness
+    sacred ceremonies over the following days.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: older men with free ceremonial-ground access
+  assigned_to:
+  - fig:2
+  basis: The passage states that older men may come freely onto the ceremonial ground.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: recently initiated youths with restricted access
+  assigned_to:
+  - fig:3
+  basis: The youths are described as recently initiated and are allowed near the ceremonial
+    ground only by special invitation during performance.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: shared damper
+  literal_form: damper divided up and eaten
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ceremonial ground
+  literal_form: ceremonial ground
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: men's camp
+  literal_form: men's camp
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Food sharing and arrival at camp
+  summary: After damper is divided and eaten, the visitors are led to the camp.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Evening welcoming dance
+  summary: An ordinary corrobboree dance is performed during the evening in honor
+    of the visitors' arrival.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sacred ceremonies and access rules
+  summary: Visitors are allowed to witness sacred ceremonies; older men may freely
+    enter the ceremonial ground, while recently initiated youths remain in the men's
+    camp unless specially invited during a ceremony.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: welcoming dance for arriving visitors
+  taxonomy_refs: []
+  basis: A corrobboree dance is performed in honor of the visitors' arrival.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents an ethnographic ritual event, not a mythic narrative.
+- id: motif:2
+  label: shared food before ritual welcome
+  taxonomy_refs: []
+  basis: The damper is divided and eaten before the visitors are led to camp and honored
+    with a dance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly state a symbolic meaning for the damper-sharing
+    sequence.
+- id: motif:3
+  label: initiation-status access to sacred ceremonies
+  taxonomy_refs:
+  - initiation
+  basis: The passage contrasts free ceremonial-ground access for older men with restricted
+    access for recently initiated youths.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage describes access rules around ceremonies rather than narrating
+    an initiation rite itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 26833-26836
+  quote_or_summary: '"After the damper had been divided up and eaten, the visitors
+    were led to the camp"'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 26836-26838
+  quote_or_summary: '"one of the ordinary corrobboree dances was performed in honour
+    of their arrival"'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 26838-26840
+  quote_or_summary: During the following two or three days, the visitors were allowed
+    to witness sacred ceremonies then being performed.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 26840-26844
+  quote_or_summary: Older men were allowed freely onto the ceremonial ground, while
+    two recently initiated youths remained in the men's camp and approached only by
+    special invitation during an actual ceremony.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a short public-domain ethnographic passage. Motif
+    candidates are limited to directly described ritual patterns. No comparison claims
+    were made because the passage itself does not compare traditions or motif families
+    beyond the available initiation taxonomy match.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available taxonomy symbol refs such as fire, water, tree, serpent, cave, milk, and mountain are not present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l26833-l26844
+  passage_sha256=b3cac8d0fc43fb3b3d3949326a0ae10f068c1c653e605b4e760d6e5c3a74da75
+

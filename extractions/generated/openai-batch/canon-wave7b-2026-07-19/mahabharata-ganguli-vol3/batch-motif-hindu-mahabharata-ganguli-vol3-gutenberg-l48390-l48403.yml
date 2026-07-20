@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l48390-l48403
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXXXIV / SECTION CCXXXV / SECTION CCXXXVI / SECTION CCXXXVII; lines
+    48390-48403
+  start: '48390'
+  end: '48403'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Borne up and down in life's ocean, he that is capable of meditation seizes
+    the raft of Knowledge
+  summary: Vyasa describes a meditator in life's ocean using Knowledge as a raft toward
+    Emancipation. Suka asks what this Knowledge is, considering learning that reveals
+    truth, prescribed acts, and abstention from acts, and asks how birth and death
+    may be avoided.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Vyasa speaks first and describes a person capable of meditation as being borne
+    up and down in life's ocean.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The meditator seizes the raft of Knowledge and adheres to Knowledge for achieving
+    Emancipation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Suka asks Vyasa to identify what Knowledge is.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Suka proposes several possible meanings of Knowledge: learning that dispels
+    error and reveals truth, duties involving acts, and abstention from acts connected
+    with an extension of the Soul.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Suka asks for instruction so that birth and death may be avoided.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Vyasa
+  description: Speaker who gives the initial teaching about Knowledge as a raft for
+    Emancipation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Suka
+  description: Speaker who asks what Knowledge is and how birth and death may be avoided.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: person capable of meditation
+  description: General figure described as borne in life's ocean and able to seize
+    the raft of Knowledge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: teacher-speaker
+  assigned_to:
+  - fig:1
+  basis: Vyasa states the teaching about Knowledge, meditation, and Emancipation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioner-disciple
+  assigned_to:
+  - fig:2
+  basis: Suka asks what Knowledge is and asks to be told how birth and death may be
+    avoided.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: meditator-seeker
+  assigned_to:
+  - fig:3
+  basis: The figure is described as capable of meditation and as adhering to Knowledge
+    for Emancipation.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: life's ocean
+  literal_form: ocean image
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: raft of Knowledge
+  literal_form: raft image joined to Knowledge
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Knowledge
+  literal_form: Knowledge described as a support or means toward Emancipation
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: birth and death
+  literal_form: paired conditions named as birth and death
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Vyasa's teaching on Knowledge as raft
+  summary: Vyasa says that a meditator in life's ocean takes hold of the raft of Knowledge
+    and adheres to Knowledge for Emancipation rather than seeking other supports.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Suka's question about liberating Knowledge
+  summary: Suka asks what Knowledge is, listing possible definitions, and asks to
+    be taught how birth and death may be avoided.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: salvific knowledge as a raft across life's ocean
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly presents Knowledge as the raft seized by a meditator
+    in life's ocean for achieving Emancipation.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The ocean and raft are rhetorical images in the teaching, not narrated
+    physical objects.
+- id: motif:2
+  label: instruction sought to avoid birth and death
+  taxonomy_refs:
+  - death_rebirth
+  - wisdom
+  basis: Suka asks what Knowledge is and requests instruction so that birth and death
+    may be avoided.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage names birth and death but does not elaborate a full rebirth
+    narrative within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 48392-48395
+  quote_or_summary: Vyasa says that one borne in life's ocean who is capable of meditation
+    seizes the raft of Knowledge and adheres to Knowledge for Emancipation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; concise quoted/summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 48397-48402
+  quote_or_summary: Suka asks what Knowledge is, asking whether it is learning that
+    dispels error, duties involving acts, or abstention from acts by which an extension
+    of the Soul is sought.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 48402-48403
+  quote_or_summary: Suka asks to be told what Knowledge is so that “birth and death,
+    may be avoided.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; brief quote from public domain passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for speakers, images, and questions.
+    Motif labeling is cautious because the passage is philosophical discourse rather
+    than narrative action. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l48390-l48403
+  passage_sha256=0110a44acf520efc606ec22e924d59b9e6509ae001d45a0579dd9a1e91d02138
+

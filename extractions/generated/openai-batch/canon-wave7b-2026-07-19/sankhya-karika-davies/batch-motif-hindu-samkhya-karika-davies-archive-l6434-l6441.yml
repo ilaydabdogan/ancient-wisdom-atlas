@@ -1,0 +1,176 @@
+---
+record_id: batch.motif.hindu-samkhya-karika-davies-archive-l6434-l6441
+source_text_path: texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md
+passage_locator:
+  label: NOTES. 145 / NOTES. 147 / NOTES. 149 / NOTES. 151; lines 6434-6441
+  start: '6434'
+  end: '6441'
+  translation: 'Hindu Philosophy: The Sankhya Karika of Iswara Krishna'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: absorption of all personal, conscious life in its primal source
+  summary: The note states that personal conscious life can only be put away by absorption
+    into its primal source. It says two philosophical systems separated by more than
+    two thousand years speak similarly, offering no hope because the only refuge from
+    misery is the permanent destruction of personality.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage describes personal, conscious life as being absorbed into its
+    primal source.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says two philosophical systems, separated by more than two thousand
+    years, speak with the same voice.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the systems give no hope to man.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that man's highest ambition or only refuge from misery
+    lies in his personality being destroyed for ever.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: man
+  description: A generic human subject whose hope, ambition, refuge from misery, and
+    personality are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: oldest and latest system of philosophy
+  description: Two philosophical systems described as separated in time by more than
+    two thousand years and speaking with the same voice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: human subject seeking refuge from misery
+  assigned_to:
+  - fig:1
+  basis: The passage speaks of man having a highest ambition or only refuge from misery.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: paired philosophical witnesses
+  assigned_to:
+  - fig:2
+  basis: The passage says the oldest and latest system of philosophy speak with the
+    same voice despite temporal separation.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Absorption and destruction of personality
+  summary: The note presents absorption of personal conscious life into its primal
+    source as the means by which personal life is put away, and describes permanent
+    destruction of personality as man's refuge from misery.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Agreement across philosophical systems
+  summary: The note compares two philosophical systems separated by more than two
+    thousand years and says they speak with the same voice while offering no hope
+    to man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Absorption into primal source through loss of personality
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage explicitly links absorption of personal conscious life into a
+    primal source with the permanent destruction of personality.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy label is interpretive; the passage is philosophical commentary
+    rather than narrative myth.
+- id: motif:2
+  label: Release from misery by destruction of selfhood
+  taxonomy_refs: []
+  basis: The passage states that man's only refuge from misery lies in personality
+    being destroyed for ever.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No narrative agents or ritual actions are present in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares an oldest and a latest philosophical system as
+    having the same view despite more than two thousand years of separation.
+  claim_level: same_function
+  target: the oldest and latest system of philosophy mentioned in the note
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name the two systems in the supplied excerpt,
+    so the comparison cannot be specified further from the provided text.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6434-6436
+  quote_or_summary: '"absorption of all personal, conscious life in its primal source"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 6436-6439
+  quote_or_summary: The oldest and latest system of philosophy, separated by more
+    than two thousand years, are said to speak with the same voice and to give no
+    hope to man.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6439-6441
+  quote_or_summary: Man's highest ambition or only refuge from misery is described
+    as his personality being destroyed for ever.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about absorption, destruction of personality, and
+    comparison between philosophical systems, but motif classification remains interpretive
+    because the excerpt is abstract philosophical commentary rather than a mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol is directly present in the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-samkhya-karika-davies-archive__l6434-l6441
+  passage_sha256=d3de17297c357d4297d913620af64091c8f84332e6c4b4f3c5f6c14e296249c7
+

@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l48391-l48443
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: THE WORKS OF MKXCIUS / CH. 27. THE -JUST EXACTIONS OF / THE WORKS OF MEXCIUS
+    / THE WORKS OV MENCTUS; lines 48391-48443
+  start: '48391'
+  end: '48443'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Their aim led them to talk magniloquently, saying, 'The ancients!' 'The ancients!'
+    But their actions, compared with their words, did not come up to them.
+  summary: Mencius is asked what sort of men were called “ambitious.” He names K'in
+    Chang, Tsang Seih, and Muh P'ei as men Confucius so described, explaining that
+    they spoke grandly of the ancients, but their conduct did not match their words.
+    The accompanying note links the passage to the Analects and discusses identifications
+    of K'in Chang.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A question asks what kind of men could be styled “The ambitious.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mencius replies by naming K'in Chang, Tsang Seih, and Muh P'ei as men whom
+    Confucius styled “ambitious.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The explanation says these men spoke magniloquently of “The ancients.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The explanation says their actions did not come up to their words.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note says Wan Chang was quoting from memory and refers the reader to the
+    Confucian Analects, XIII, xxi.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mencius
+  description: Speaker who answers the question about “The ambitious.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Confucius
+  description: Authority said to have styled K'in Chang, Tsang Seih, and Muh P'ei
+    as “ambitious.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: K'in Chang
+  description: One of the named men styled “ambitious.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Tsang Seih
+  description: One of the named men styled “ambitious.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Muh P'ei
+  description: One of the named men styled “ambitious.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Wan Chang
+  description: Person whom the note says was quoting from memory.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: answering teacher
+  assigned_to:
+  - fig:1
+  basis: Mencius gives the reply identifying and explaining “The ambitious.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: classifying authority
+  assigned_to:
+  - fig:2
+  basis: Confucius is said to have styled the named men “ambitious.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ambitious men whose actions fall short of words
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The named men are classified as “ambitious,” and the explanation says such
+    men spoke grandly but their actions did not match their words.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: memory-quoter
+  assigned_to:
+  - fig:6
+  basis: The note states that Wan Chang was quoting from memory.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: the ancients
+  literal_form: Repeated invocation of “The ancients!” in speech
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: words and actions
+  literal_form: Comparison between speech and conduct
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Inquiry about the ambitious
+  summary: A questioner asks Mencius what kind of men were called “The ambitious.”
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Naming and evaluation of ambitious men
+  summary: Mencius names K'in Chang, Tsang Seih, and Muh P'ei as men Confucius called
+    ambitious, and explains that their grand words about the ancients exceeded their
+    deeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Commentarial cross-reference
+  summary: The note says Wan Chang quoted from memory and points to a related Analects
+    passage.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Grand speech contrasted with insufficient action
+  taxonomy_refs: []
+  basis: The passage explicitly contrasts magniloquent invocation of the ancients
+    with actions that do not match the words.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an ethical-discursive pattern rather than a mythic narrative motif.
+- id: motif:2
+  label: Sage classification of moral types
+  taxonomy_refs:
+  - wisdom
+  basis: Mencius reports Confucius's classification of named men and gives an evaluative
+    explanation of the category.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage is moral instruction,
+    not a mythic wisdom tale.
+- id: motif:3
+  label: Ancients as exemplary standard
+  taxonomy_refs: []
+  basis: The ambitious men invoke “The ancients,” and their conduct is measured against
+    the standards implied by their speech.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not narrate the ancients themselves; they function as
+    a cited moral ideal.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly links this passage to Analects XIII, xxi, supporting
+    a cautious comparison within the Confucian corpus concerning the classification
+    of “ambitious” persons.
+  claim_level: same_function
+  target: Confucian Analects XIII, xxi
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The provided passage gives only a brief cross-reference and does not
+    quote the Analects passage itself.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 48391-48443
+  quote_or_summary: "“I venture to ask what sort of men they were who could be styled
+    'The ambitious'?”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 48391-48443
+  quote_or_summary: "“Such,” replied Mencius, “as K'in Chang, Tsang Seih, and Muh
+    P'ei, were those whom Confucius styled * ambitious.”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 48391-48443
+  quote_or_summary: "“Their aim led them to talk magniloquently, saying, 'The ancients!'
+    'The ancients!' But their actions, compared with their words, did not come up
+    to them.”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 48391-48443
+  quote_or_summary: "“Wan Chang was quoting from memory. 2. See Con. Ana., XIII, xxi.”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear enough for ethical roles and patterns, but the OCR is
+    noisy and the extract contains commentary fragments. Motif assignments should
+    be reviewed because the content is primarily philosophical rather than mythological.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic objects from the available symbol taxonomy are present in the passage; symbols listed are passage-specific ethical and rhetorical forms.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l48391-l48443
+  passage_sha256=cbd5e1f935447a43b00832279132ee51cf3903442ef81cd4e50cb42da4fec7a7
+

@@ -1,0 +1,224 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l5420-l5481
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: TABLET NO. 2 / THE MYTH OF ADAPA / TABLET NO. 3 / TABLET NO. 3; lines 5420-5481
+  start: '5420'
+  end: '5481'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary passage reports that Anu hears something, becomes angry,
+    and sends his messenger. Another continuation says Ea dresses Adapa in a mourning
+    garment, gives him counsel, and tells him to go before Anu, the king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Anu hears something and reacts with anger of heart.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Anu sends his messenger.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A figure is described as knowing the heart of the great gods.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Ea causes someone to wear a mourning garment and garbs him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ea gives counsel to Adapa.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Ea tells Adapa that he is to go before the face of Anu, the king.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Anu
+  description: A divine king who hears something, is angry, sends a messenger, and
+    before whose face Adapa is to go.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ea
+  description: A divine figure who garbs Adapa in a mourning garment and gives him
+    counsel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Adapa
+  description: The recipient of Ea's counsel; he is told to go before Anu the king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Messenger
+  description: The messenger sent by Anu.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Great gods
+  description: A collective group whose heart is said to be known by an unnamed or
+    fragmentary figure.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine king
+  assigned_to:
+  - fig:1
+  basis: The passage calls Anu the king.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: angered sender of a messenger
+  assigned_to:
+  - fig:1
+  basis: Anu hears something, is angry, and sends his messenger.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: counsel-giver
+  assigned_to:
+  - fig:2
+  basis: Ea garbs Adapa and gives him counsel.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: summoned or instructed petitioner
+  assigned_to:
+  - fig:3
+  basis: Adapa is told to go before the face of Anu the king.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: messenger
+  assigned_to:
+  - fig:4
+  basis: The passage states that Anu sent his messenger.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: mourning garment
+  literal_form: mourning garment
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: face of the king
+  literal_form: going before the face of Anu the king
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Anu hears and sends
+  summary: Anu hears something, becomes angry, and sends his messenger.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ea prepares and counsels Adapa
+  summary: Ea dresses Adapa in a mourning garment, gives him counsel, and tells him
+    to go before Anu the king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: divine anger and summons before a divine king
+  taxonomy_refs:
+  - divine_judgment
+  basis: Anu reacts in anger, sends a messenger, and Adapa is instructed to go before
+    Anu the king.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The fragment does not preserve a complete judgment scene or verdict; the
+    motif identification is based on the anger, messenger, and instruction to appear
+    before the king.
+- id: motif:2
+  label: divine counsel before approaching a higher god
+  taxonomy_refs:
+  - wisdom
+  basis: Ea gives Adapa counsel before Adapa goes before Anu.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The content of the counsel is not preserved in this passage segment, so
+    the wisdom motif is limited to the act of counsel-giving.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5420-5445
+  quote_or_summary: Anu hears something, is angry in his heart, sends his messenger,
+    and the fragment refers to one who knows the heart of the great gods.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5468-5481
+  quote_or_summary: Ea causes him to wear a mourning garment, garbs him, gives counsel,
+    and says that Adapa is to go before the face of Anu the king.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and contains duplicated tablet headings and transliteration;
+    extraction is limited to directly visible narrative statements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l5420-l5481
+  passage_sha256=2c5e4d02d7f2eded6b53046830fa536fe16f3f54ae29f6837dda6877a03b7724
+

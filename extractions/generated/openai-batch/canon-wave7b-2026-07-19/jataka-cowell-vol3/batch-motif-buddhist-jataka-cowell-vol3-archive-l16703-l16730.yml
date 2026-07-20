@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol3-archive-l16703-l16730
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+passage_locator:
+  label: SULASA-JATAKA. / CETIYA-JATAKA. / INDRIYA-JATAKA. / ATTHANA-JATAKA.; lines
+    16703-16730
+  start: '16703'
+  end: '16730'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. III
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A panther accuses a she-goat of spoiling his food by flying through the
+    air and frightening deer. The she-goat pleads for her life, but the panther kills
+    and eats her. Moral stanzas describe the bad as lacking right conduct and courtesy.
+    A holy ascetic witnesses the matter, and the Master identifies the former births
+    of the animals and himself.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male speaker says that the she-goat came through the air and spoiled his
+    food by the manner of her coming.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stanza says the sight of the goat flying on high frightened a herd of
+    deer, resulting in spoiled food.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The she-goat, fearing death, asks the other figure not to act cruelly and
+    to spare her life.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The other figure seizes the she-goat by the shoulder, kills her, and eats
+    her.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A stanza says the she-goat cried for grace, but that blood must satisfy the
+    beast gripping her throat.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A moral stanza says that a bad man will not display conduct, right, or courtesy,
+    hates the good, and is best faced in open fray.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The two moral stanzas are described as inspired by Perfect Wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A holy ascetic saw the whole matter of the two animals.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the lesson, the Master identifies the she-goat and panther of the former
+    birth with the she-goat and panther of the present, and identifies the holy ascetic
+    as himself.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: she-goat
+  description: The she-goat is addressed as having flown through the air, pleads for
+    her life, and is killed and eaten.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: panther / beast
+  description: The panther accuses the she-goat of spoiling his food, ignores her
+    plea, kills her, and eats her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: herd of deer
+  description: A herd of deer is said to have been frightened by the sight of the
+    she-goat flying through the air.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: holy ascetic
+  description: A holy ascetic sees the whole matter of the two animals and is later
+    identified by the Master as himself in that birth.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Master
+  description: The Master gives the lesson and identifies the figures of the former
+    birth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: pleading prey / victim
+  assigned_to:
+  - fig:1
+  basis: The she-goat asks to be spared and is then killed and eaten.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: accuser-predator
+  assigned_to:
+  - fig:2
+  basis: The panther accuses the she-goat of spoiling his food and then kills and
+    eats her.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:3
+  label: frightened herd
+  assigned_to:
+  - fig:3
+  basis: The deer are described as frightened by the sight of the flying she-goat.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: witnessing ascetic
+  assigned_to:
+  - fig:4
+  basis: The ascetic is said to have seen the whole matter of the two animals.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: birth-identifying teacher
+  assigned_to:
+  - fig:5
+  basis: The Master identifies the former-birth identities after the lesson.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: identified former self of the Master
+  assigned_to:
+  - fig:4
+  basis: The Master states that the holy ascetic was himself.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: aerial passage
+  literal_form: The she-goat is described as coming or flying through the air, on
+    high.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blood satisfying the beast
+  literal_form: The verse states that blood must satisfy the beast gripping the she-goat's
+    throat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Accusation over the spoiled food
+  summary: The panther says the she-goat's passage through the air frightened deer
+    and spoiled his food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Plea and killing
+  summary: The she-goat begs for her life, but the panther seizes, kills, and eats
+    her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Moral stanzas and witnessing ascetic
+  summary: Verses describe the merciless beast and generalize the lesson about the
+    conduct of a bad man; the ascetic is said to have witnessed the matter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Identification of the Birth
+  summary: 'The Master identifies the former-birth figures: the she-goat and panther
+    correspond to present figures, and the holy ascetic was the Master himself.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Predator blames prey as pretext for killing
+  taxonomy_refs: []
+  basis: The panther claims the she-goat spoiled his food by frightening deer, then
+    ignores her plea and kills and eats her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly call the accusation false; the motif is
+    based on the narrative sequence and moral framing.
+- id: motif:2
+  label: Moral wisdom about the bad person who rejects right conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The passage includes stanzas described as inspired by Perfect Wisdom, stating
+    that the bad man lacks conduct, right, and courtesy and hates the good.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; no more specific comparative motif type
+    is asserted.
+- id: motif:3
+  label: Former-birth identity disclosure
+  taxonomy_refs: []
+  basis: The Master identifies the figures in the animal story with figures of the
+    present and identifies the holy ascetic as himself.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a Jataka narrative framing pattern; no external comparison or
+    taxonomy match is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16703-16709
+  quote_or_summary: The speaker says the she-goat came through the air and spoiled
+    his food; the stanza says her flying frightened deer and spoiled the food.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+- id: ev:2
+  type: quote
+  locator: lines 16710-16712
+  quote_or_summary: "“Uncle, do not commit such cruelty; spare my life.”"
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 16712-16713
+  quote_or_summary: Despite the she-goat's plea, the other figure seizes her by the
+    shoulder, kills her, and eats her.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+- id: ev:4
+  type: summary
+  locator: lines 16715-16720
+  quote_or_summary: Two stanzas say the she-goat cried for grace, the beast required
+    blood, and a bad man shows neither conduct, right, nor courtesy and hates the
+    good.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+- id: ev:5
+  type: summary
+  locator: lines 16722-16724
+  quote_or_summary: The stanzas are described as inspired by Perfect Wisdom, and a
+    holy ascetic is said to have seen the whole matter of the two animals.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+- id: ev:6
+  type: summary
+  locator: lines 16726-16730
+  quote_or_summary: After the lesson, the Master identifies the she-goat, the panther,
+    and the holy ascetic in the former birth, saying the ascetic was himself.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain translation; supplied metadata permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif candidates
+    are descriptive and passage-level; no external comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata; no external taxonomy IDs or comparative parallels added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol3-archive__l16703-l16730
+  passage_sha256=1082297ba364a78d848fa8fb5be7878e01c22cd588c9171846fc3fb3b6960a70
+

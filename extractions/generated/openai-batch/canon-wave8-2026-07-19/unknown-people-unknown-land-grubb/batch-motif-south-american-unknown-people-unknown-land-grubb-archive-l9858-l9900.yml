@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l9858-l9900
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: GROWING INFLUENCE / DRUNKENNESS / DRUNKENNESS / SICKNESS; lines 9858-9900
+  start: '9858'
+  end: '9900'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator describes care for a sick woman who refused nourishment but
+    recovered after forced feeding and nursing. He then generalizes about difficulty
+    treating sick Indians because of resistance to nontraditional remedies, gives
+    an example from an influenza epidemic, notes a later strong reliance on mission
+    remedies, and ends by describing linguistic difficulty in conveying religious
+    abstractions such as Deity and sin to a people said to take things literally.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed sick woman was moved to the narrator’s house for nourishment, but
+    she refused it and said efforts to revive her were useless because she wanted
+    to die.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The caregivers forced the woman to take food; after careful nursing she recovered
+    and survived for twelve years.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator states that many lives are prematurely cut short for want of
+    care.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The narrator says sick Indians had a deep-rooted aversion to methods contrary
+    to their long-practised ways.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: During an influenza epidemic, the narrator and his colleagues made nourishing
+    soup from sheep and goats, but few sick people would take it because they believed
+    it was bad for sick people.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When the narrator and his colleagues tried to give medicine, the sick people
+    were not satisfied unless the caregivers also took it.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator says the people later developed an exaggerated belief in the
+    mission remedies and sought medicine for slight ailments.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The narrator says ordinary language learning was comparatively easy, but conveying
+    religious truth and abstract ideas was difficult because the people tended to
+    take things literally.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The narrator says there was no suitable word for Deity, sin had to be expressed
+    by a phrase about evil thought, words, and actions, and ideas of time were crude.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed sick woman
+  description: A sick woman who refused nourishment, said she wanted to die, was forced
+    to take food, recovered, and lived twelve more years.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: narrator and colleagues
+  description: Missionary caregivers who moved the sick woman, supplied food and nursing,
+    made soup during an epidemic, administered medicine, and tried to communicate
+    religious ideas.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: sick Indians in the village
+  description: People affected by an influenza epidemic who were largely helpless,
+    mostly refused the soup, and wanted the caregivers to take medicine too.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Lengua/Indian people described by narrator
+  description: The broader community described as resisting nontraditional methods,
+    later seeking mission remedies, and posing difficulties for religious translation
+    because of literal interpretation and vocabulary gaps.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: sick patient
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The woman is sick and given nourishment; the village people are incapacitated
+    by influenza.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: caregiver and medical helper
+  assigned_to:
+  - fig:2
+  basis: The narrator and colleagues move, feed, nurse, prepare soup, and administer
+    medicine.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: resistant recipient of nontraditional care
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  basis: The woman refuses nourishment; epidemic patients refuse soup; the narrator
+    describes a general aversion to contrary methods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: later seeker of mission remedies
+  assigned_to:
+  - fig:4
+  basis: The narrator says the people later apply to the mission for medicine even
+    for slight ailments.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: literal-minded religious-language audience
+  assigned_to:
+  - fig:4
+  basis: The narrator says they take everything literally and that abstract religious
+    ideas are difficult to impart.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: translator or teacher of religious ideas
+  assigned_to:
+  - fig:2
+  basis: The narrator discusses trying to express religious truth, Deity, sin, and
+    time in the local language.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: nourishment as attempted healing aid
+  literal_form: suitable nourishment, forced food, and nourishing soup made from sheep
+    and goats
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: medicine and remedies
+  literal_form: medicine, remedies, and a salt-and-coffee concoction credited with
+    curing minor ailments
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Refused nourishment and recovery
+  summary: A sick woman refuses nourishment and expresses a wish to die; the caregivers
+    force her to take food, nurse her, and she recovers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Influenza epidemic and refusal of soup
+  summary: During an influenza epidemic, the narrator and colleagues make nourishing
+    soup, but few sick people accept it because they believe it is bad for the sick.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Medicine accepted only with reciprocal proof and later overvalued
+  summary: Sick people want the caregivers to take medicine too; later, the community
+    becomes very confident in mission remedies and seeks them for minor ailments.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Difficulty translating religious abstraction
+  summary: The narrator describes problems expressing religious ideas, especially
+    Deity and sin, in a language and cultural setting he characterizes as literal-minded.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Refusal of life-preserving care during sickness
+  taxonomy_refs: []
+  basis: The sick woman refuses nourishment and says she wants to die; sick people
+    during the epidemic refuse nourishing soup.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic medical-care pattern, not a mythic narrative motif
+    in the passage.
+- id: motif:2
+  label: Contested foreign remedy becoming trusted cure
+  taxonomy_refs: []
+  basis: The passage moves from resistance to food and medicine, including requiring
+    caregivers to take medicine too, to later exaggerated trust in mission remedies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The account is filtered through the narrator’s missionary perspective
+    and does not present an indigenous mythic explanation.
+- id: motif:3
+  label: Sacred concepts constrained by language and literal interpretation
+  taxonomy_refs: []
+  basis: The narrator reports difficulty conveying religious truth, no suitable word
+    for Deity, a circumlocution for sin, and crude ideas of time.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a cultural-translation pattern rather than a traditional narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9858-9867
+  quote_or_summary: A sick woman is taken into the narrator’s house, refuses nourishment
+    and says she wants to die; she is forced to eat, nursed, recovers, and survives
+    twelve years.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9868-9878
+  quote_or_summary: The narrator says sick Indians resist contrary methods; during
+    an influenza epidemic, missionaries make soup from sheep and goats, but few accept
+    it because they believe it is bad for sick people.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9878-9887
+  quote_or_summary: When medicine is administered, patients want the missionaries
+    to take it too; later they strongly trust mission remedies and seek medicine for
+    minor ailments, including salt-and-coffee concoctions.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9888-9900
+  quote_or_summary: The narrator says ordinary language learning is easier than imparting
+    religious abstractions; no suitable word is found for Deity, sin is paraphrased,
+    and ideas of time are described as crude.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear as an ethnographic account of sickness, remedy use,
+    and religious-language translation. Motif candidates are treated as local narrative
+    patterns only; no cross-cultural comparison claims are made because the passage
+    itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied; none is directly supported by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l9858-l9900
+  passage_sha256=18dcb40962ed5fcf97da6f71da9d0fc157546a259330711ce1b921951b423f93
+

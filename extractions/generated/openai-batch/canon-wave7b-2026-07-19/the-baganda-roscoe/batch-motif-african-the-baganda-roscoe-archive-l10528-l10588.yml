@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l10528-l10588
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: V     . / S     -2 / CHAPTER  VII / THE   KING; lines 10528-10588
+  start: '10528'
+  end: '10588'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: From Kintu the royal family trace their descent
+  summary: The passage introduces Kintu as the first king of Uganda, describes pre-Kintu
+    inhabitants as isolated clans with independent chiefs, states that Kintu came
+    from the north or north-east and unified the clans into a nation, and says the
+    royal family traces descent from him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that Uganda had a king, called kabaka, from the earliest
+    times described, and that the first king was Kintu.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before Kintu, the country is described as inhabited by aborigines living in
+    isolated communities or clans.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Each pre-Kintu clan is described as governed by its own chief, with allegiance
+    owed to no other chief.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Kintu is said to have come either from the north or north-east.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Kintu is said to have subdued and amalgamated the clans and formed them into
+    a nation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The people who came with Kintu are described as holding him in high esteem
+    and viewing him as belonging to a different race from themselves.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The royal family is said to trace its descent from Kintu, and the country's
+    history and traditions are said to commence with him.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that from Kintu to the present king there were thirty-two
+    generations, estimated as about a thousand years.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage reports and rejects a claim that kings married Bahima women, stating
+    instead that custom made it impossible for a king to marry any woman but a Muganda.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Kintu
+  description: The first king, said to have come from the north or north-east, unified
+    the clans, and became the ancestor from whom the royal family traces descent.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Pre-Kintu aboriginal clans
+  description: Inhabitants living in isolated communities or clans before Kintu.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Clan chiefs
+  description: Chiefs governing individual clans before Kintu, each owing no allegiance
+    to another chief.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Royal family
+  description: The royal family is described as tracing descent from Kintu and differing
+    in appearance from most clans.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: first king
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Kintu as the first king.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: nation-forming ruler
+  assigned_to:
+  - fig:1
+  basis: Kintu is described as subduing and amalgamating clans into a nation.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: royal ancestor
+  assigned_to:
+  - fig:1
+  basis: The royal family is said to trace descent from Kintu.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: pre-Kintu inhabitants
+  assigned_to:
+  - fig:2
+  basis: The passage describes inhabitants before Kintu as isolated communities or
+    clans.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: independent local rulers
+  assigned_to:
+  - fig:3
+  basis: Each clan chief is described as owing allegiance to no other chief.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: descendant royal lineage
+  assigned_to:
+  - fig:4
+  basis: The royal family is said to trace its descent from Kintu.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Pre-Kintu clan landscape
+  summary: Before Kintu, the country is described as inhabited by isolated clans,
+    each governed by its own chief without allegiance to a higher chief.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Kintu's arrival and unification
+  summary: Kintu comes from the north or north-east and begins to subdue and amalgamate
+    the clans into a nation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Royal descent from Kintu
+  summary: The royal family traces its descent from Kintu, and the passage presents
+    national history and tradition as beginning with him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: royal legitimacy through descent from a founding king
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage states that the royal family traces descent from Kintu, identified
+    as the first king and the point from which the country's history and traditions
+    commence.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage is an ethnographic-historical account rather than a full mythic
+    narrative.
+- id: motif:2
+  label: culture-founding ruler who forms a nation from separate clans
+  taxonomy_refs:
+  - culture_hero
+  basis: Kintu is described as arriving from outside the existing clan landscape,
+    subduing and amalgamating clans, and forming them into a nation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe supernatural deeds; the culture-hero classification
+    is based only on the founding and nation-forming role.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10528-10540
+  quote_or_summary: The chapter introduces the king and states that the first king
+    was Kintu.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10541-10548
+  quote_or_summary: Before Kintu, a few aborigines lived in isolated communities or
+    clans, each governed by its own chief and owing no allegiance to another chief.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10549-10558
+  quote_or_summary: Kintu is said to have come from the north or north-east and to
+    have subdued and amalgamated the clans into a nation.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10559-10568
+  quote_or_summary: Kintu is described as of different stock and superior intellect,
+    and the people who came with him held him in great esteem.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10569-10578
+  quote_or_summary: The royal family traces descent from Kintu, and the country's
+    history and traditions are said to commence with him; earlier history is lost
+    except that the country was inhabited.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10579-10583
+  quote_or_summary: From Kintu to the present king, the passage counts thirty-two
+    generations, roughly estimated as about a thousand years.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10584-10588
+  quote_or_summary: The passage discusses the royal family's appearance and rejects
+    the claim that kings married Bahima women, saying custom required a king to marry
+    only a Muganda woman.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are limited to royal descent and founding-ruler patterns directly supported by
+    the passage. No comparison claims are made because the passage does not itself
+    provide a comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were applied because the passage does not present one of the supplied literal symbol forms as a symbolic object or image.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l10528-l10588
+  passage_sha256=90024cdb9e219ee6de4914f9e2bc46b0dae13a8b5d0ce7af6dd386169cad16ce
+

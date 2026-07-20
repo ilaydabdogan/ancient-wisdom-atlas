@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l2604-l2613
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE EIGHTEENTH CHAPTER / THE NINETEENTH CHAPTER / THE TWENTIETH CHAPTER /
+    THE TWENTY-FIRST CHAPTER; lines 2604-2613
+  start: '2604'
+  end: '2613'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“But I will tell thee a pleasant tale, to put away all thy sorrow”"
+  summary: An old woman comforts a daughter, explains that dreams may signify the
+    opposite of their apparent content, and offers to tell a pleasant tale to dispel
+    sorrow.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An old woman sighs and begins speaking to a daughter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old woman tells the daughter not to be afraid of strange visions and dreams.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old woman states that daytime visions are accounted false and that nighttime
+    visions often change to the contrary.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old woman says dreams of weeping, beating, and killing are tokens of good
+    luck and prosperous change.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The old woman says dreams of laughing, carnal dalliance, and good cheer are
+    signs of sadness, sickness, loss of substance, and displeasure.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The old woman offers to tell a pleasant tale to remove sorrow and revive the
+    daughter’s spirits.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: old woman
+  description: A woman who sighs, speaks to the daughter, interprets dreams, and begins
+    a tale.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: daughter
+  description: The addressee whom the old woman urges to take heart and not fear visions
+    and dreams.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: comforter
+  assigned_to:
+  - fig:1
+  basis: She urges the daughter to take heart and not be afraid, and says the tale
+    will put away sorrow.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: dream interpreter
+  assigned_to:
+  - fig:1
+  basis: She explains the significance of dreams and visions, including contrary omens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: storyteller
+  assigned_to:
+  - fig:1
+  basis: She says she will tell a pleasant tale and begins it.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: distressed listener
+  assigned_to:
+  - fig:2
+  basis: She is told not to fear visions and dreams, and the tale is intended to remove
+    her sorrow.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: visions and dreams
+  literal_form: feigned and strange visions and dreams
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: misfortune dream images as favorable tokens
+  literal_form: dreams of weeping, beating, and killing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: pleasure dream images as unfavorable signs
+  literal_form: dreams of laughing, carnal dalliance, and good cheer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: pleasant tale
+  literal_form: a pleasant tale told to remove sorrow and revive spirits
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Old woman interprets dreams and offers a tale
+  summary: The old woman consoles the daughter by teaching that dreams may signify
+    contrary outcomes, then begins a pleasant tale intended to relieve sorrow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: inverted dream omen
+  taxonomy_refs: []
+  basis: The passage states that dreams of weeping, beating, and killing signify good
+    luck, while dreams of laughing, carnal dalliance, and good cheer signify misfortune.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives local dream-lore statements but does not connect them
+    to a named external motif system.
+- id: motif:2
+  label: comfort through storytelling
+  taxonomy_refs:
+  - wisdom
+  basis: The old woman uses interpretive counsel and promises a pleasant tale to dispel
+    the daughter’s sorrow.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy reference 'wisdom' is broad; the passage supports
+    counsel and storytelling but not a more specific taxonomy label.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2604-2606
+  quote_or_summary: "“My daughter take a good heart unto you, and bee not afeared
+    at feigned and strange visions and dreams”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: 2606-2608
+  quote_or_summary: The old woman says daytime visions are accounted false and nighttime
+    visions often change contrary.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 2608-2610
+  quote_or_summary: "“to dream of weeping, beating, and killing, is a token of good
+    luck and prosperous change”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: 2610-2612
+  quote_or_summary: The old woman says dreams of laughing, carnal dalliance, and good
+    cheer signify sadness, sickness, loss of substance, and displeasure.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 2612-2613
+  quote_or_summary: "“I will tell thee a pleasant tale, to put away all thy sorrow,
+    and to revive thy spirits.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The figures, actions, and dream-omen content are explicit. Motif labels are
+    descriptive and should be reviewed for taxonomy alignment. No comparison claims
+    were made because the passage itself does not support a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the provided passage and metadata.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l2604-l2613
+  passage_sha256=86193c3ce9c9f5d2a74c1b60d1b296ea696b4e6ce9248bc6a9b9c9ea21a17803
+

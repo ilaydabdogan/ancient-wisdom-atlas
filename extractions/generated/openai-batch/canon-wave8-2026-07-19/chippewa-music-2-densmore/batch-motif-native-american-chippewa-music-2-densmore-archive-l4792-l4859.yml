@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l4792-l4859
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: OM   . / T-(        (N / S  3  5!  2 / MOCCASIN     GAME    DRUM; lines 4792-4859
+  start: '4792'
+  end: '4859'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes two groups of songs: songs that accompany gifts,
+    usually a pony, and are sung by gift participants with singers at the drum in
+    social dances; and songs for the entertainment of children, described as humorous
+    pieces that often mimic tribal interests and occupations, including songs about
+    child war games and war between animals. The passage also gives musical statistics
+    and comparisons among song groups.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A group of songs accompanies gifts, usually the gift of a pony.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gift songs are sung by the recipient or giver together with singers at
+    the drum.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The gift-song group is used in social dances.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The drum rhythm for the gift-song group is identified as the rhythm of the
+    social dance.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Songs for the entertainment of children are described, except for the lullaby,
+    as having a marked sense of humor and as usually mimicking the interests and occupations
+    of the tribe.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Three of the children's entertainment songs are concerned with a child's game
+    of war, and one is concerned with war between animals.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The rendering of the children's entertainment songs is described as having
+    a high degree of excitement; most of the songs were recorded without the drum.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: gift recipient or giver
+  description: The person who receives or gives the gift and may sing the gift song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: singers at the drum
+  description: Singers who perform with the gift recipient or giver at the drum.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: children
+  description: Children are named in the song-group title as the people for whose
+    entertainment the songs are performed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the tribe
+  description: The tribal collective whose interests and occupations are said to be
+    mimicked in the children's entertainment songs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: animals in war song topic
+  description: Animals appear as participants in one children's song topic described
+    as war between animals.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: gift-song participant-performer
+  assigned_to:
+  - fig:1
+  basis: The songs are sung by the recipient or giver of a gift.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: drum-singer ensemble
+  assigned_to:
+  - fig:2
+  basis: The singers at the drum perform together with the recipient or giver.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named audience or beneficiaries of entertainment songs
+  assigned_to:
+  - fig:3
+  basis: The song group is titled as songs for the entertainment of children.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: source of mimicked social interests and occupations
+  assigned_to:
+  - fig:4
+  basis: The passage says the songs usually mimic the interests and occupations of
+    the tribe.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: combatants in song topic
+  assigned_to:
+  - fig:5
+  basis: One song is described as concerning war between animals.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: gift or pony
+  literal_form: A gift, usually a pony, accompanied by song.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: drum
+  literal_form: The drum used with singers in performance; the passage also discusses
+    drum rhythm and voice-drum metric relation.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: child's game of war
+  literal_form: A child's game of war used as the concern of three children's songs.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: war between animals
+  literal_form: War between animals as the concern of one children's song.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: gift song in social dance setting
+  summary: Songs accompany gifts, usually a pony, and are sung by the recipient or
+    giver together with singers at the drum; the songs are used in social dances.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: children's entertainment songs with mimicry and war topics
+  summary: The children's entertainment songs are described as humorous and as usually
+    mimicking tribal interests and occupations; some songs concern a child's game
+    of war and war between animals.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: gift exchange accompanied by communal song
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes songs that accompany gifts, usually a pony, and are
+    performed by the giver or recipient with singers at the drum in a social dance
+    setting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is ethnomusicological and social-ritual rather than mythic
+    narrative; the taxonomy alignment is functional and should be reviewed.
+- id: motif:2
+  label: humorous mimicry of communal life in songs for children
+  taxonomy_refs: []
+  basis: The passage states that, except for a lullaby, the children's entertainment
+    songs have a marked sense of humor and usually mimic the interests and occupations
+    of the tribe.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No mythic narrative details or named culture-hero figures are supplied.
+- id: motif:3
+  label: war play and animal war as children's song topics
+  taxonomy_refs: []
+  basis: The passage says three children's songs concern a child's game of war and
+    one concerns war between animals.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only topical labels, not the plots or words of the songs.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats the gift/social-dance song group as musically allied with
+    moccasin game, woman's dance, and begging dance song groups.
+  claim_level: same_function
+  target: moccasin game, woman's dance, and begging dance song groups in the same
+    corpus
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a musicological comparison of song groups, not evidence for
+    a shared mythic motif or historical contact.
+- id: claim:2
+  claim: The passage compares children's entertainment songs with war songs and moccasin
+    game songs through musical or performance features, including average interval
+    and high excitement in rendering.
+  claim_level: same_function
+  target: war songs and moccasin game songs in the same corpus
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns musical/performance qualities and does not
+    establish shared narrative content.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4792-4797
+  quote_or_summary: This group includes songs that accompany gifts, usually a pony,
+    sung by the recipient or giver together with singers at the drum, and used in
+    social dances.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 4797-4824
+  quote_or_summary: The passage gives musical features of the gift/social-dance song
+    group, including tonality, scale, melodic structure, intervals, meter, voice-drum
+    relation, and states that allied groups include moccasin game, woman's dance,
+    and begging dance; the drum rhythm is that of the social dance.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 4827-4837
+  quote_or_summary: The children's entertainment song group is introduced; the passage
+    notes different versions of one song and says that, except for the lullaby, these
+    songs have marked humor and usually mimic tribal interests and occupations.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 4838-4856
+  quote_or_summary: The passage analyzes the children's entertainment songs and notes
+    that three concern a child's game of war and one war between animals; it also
+    says high excitement prevails in rendering these songs and that most were recorded
+    without the drum.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward despite OCR noise. Motif candidates
+    are limited because the passage is primarily ethnomusicological, not a myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs are directly supported by this passage; only the motif-family ref sacred_exchange is tentatively applied to the gift-accompanying song pattern.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l4792-l4859
+  passage_sha256=2e59e8b4c18fbfe7d002290c0a44b4548e7b9ebacb7c1f5e65b1685977c1d6f1
+

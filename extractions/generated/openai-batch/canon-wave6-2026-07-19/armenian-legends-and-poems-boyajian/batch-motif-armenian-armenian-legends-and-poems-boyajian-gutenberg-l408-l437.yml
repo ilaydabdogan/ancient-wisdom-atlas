@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l408-l437
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: LIST OF ILLUSTRATIONS / REPROACHES / A TRIAL OF ORTHODOXY / FOLK SONG; lines
+    408-437
+  start: '408'
+  end: '437'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Oh that the wind might waft me there / Where my belovèd’s vineyard lies!”"
+  summary: A first-person speaker in a folk song mourns separation from a beloved,
+    longs for home, and wishes to be wind, cloud, or bird in order to reach the beloved’s
+    vineyard and vines.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker addresses a beloved and says he roams while tossed and swayed
+    by whirlwinds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The speaker hears a stranger’s accents and says these stir burning thoughts
+    that wander home.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker wishes the wind would carry him to the place where the beloved’s
+    vineyard lies.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The speaker wishes to be a zephyr or wind that bends the beloved’s vines and
+    roses.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The speaker describes himself as piteous and forlorn, comparing himself to
+    a night-haunting bird that mourns when its rose is absent from sight.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says he gazes in vain over earth and ocean with weary eyes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker wishes he were a light cloud, a cloudlet driven before the wind,
+    or a swift-winged bird so that he could find his heart’s true way.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The voice of the song; a wandering, longing speaker separated from
+    the beloved.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: beloved one
+  description: The person addressed by the speaker; associated with a vineyard, vines,
+    and roses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: night-haunting bird
+  description: A bird used in comparison to the speaker’s forlorn mourning when its
+    rose is out of sight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: swift-winged bird
+  description: A bird the speaker wishes to be in order to find his heart’s true way.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: longing wanderer
+  assigned_to:
+  - fig:1
+  basis: The speaker roams, hears stranger’s accents, longs for home, and wishes to
+    reach the beloved’s vineyard.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: beloved destination figure
+  assigned_to:
+  - fig:2
+  basis: The beloved is the addressee and is linked to the place the speaker wishes
+    the wind would carry him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: mourning simile figure
+  assigned_to:
+  - fig:3
+  basis: The bird is invoked as a comparison for the speaker’s piteous and forlorn
+    state.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: desired swift form
+  assigned_to:
+  - fig:4
+  basis: The speaker wishes to be the swift-winged bird so he could find his way.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wind and zephyr
+  literal_form: wind, zephyr, whirlwinds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: beloved’s vineyard
+  literal_form: vineyard, vines, roses
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: rose
+  literal_form: rose absent from the bird’s sight; roses bent by the zephyr
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: bird
+  literal_form: night-haunting bird; swift-winged bird
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: cloud
+  literal_form: light cloud, cloudlet driven before the wind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: earth and ocean
+  literal_form: earth and ocean
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: wandering speaker longs for the beloved’s vineyard
+  summary: The speaker addresses the beloved, describes roaming amid whirlwinds and
+    foreign speech, and wishes the wind would carry him to the beloved’s vineyard.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: forlorn comparison to a mourning bird
+  summary: The speaker says he is piteous and forlorn like a night-haunting bird mourning
+    when its rose is absent, and he gazes vainly over earth and ocean.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: wished-for forms of cloud, bird, and wind
+  summary: The speaker wishes to become a cloud, cloudlet, swift-winged bird, or wind
+    so he could find his way and bend the beloved’s vines and roses.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: longing to return to the beloved
+  taxonomy_refs:
+  - return
+  basis: The speaker’s thoughts wander home, and he repeatedly wishes the wind would
+    carry him to the beloved’s vineyard.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage expresses desire for return or arrival, not an actual completed
+    return narrative.
+- id: motif:2
+  label: wished transformation into swift natural forms
+  taxonomy_refs:
+  - shapeshifter
+  basis: The speaker wishes to be a zephyr, cloud, cloudlet, bird, or wind in order
+    to reach or affect the beloved’s place.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: low
+  cautions: The passage states wishes or comparisons only; no literal supernatural
+    transformation occurs.
+- id: motif:3
+  label: mourning bird separated from rose
+  taxonomy_refs: []
+  basis: The speaker compares his forlorn state to a night-haunting bird mourning
+    whenever its rose is out of sight.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The bird-and-rose image appears as a lyric comparison within this passage;
+    no wider tradition is asserted here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 408-437
+  quote_or_summary: The passage is a folk song in which a first-person speaker longs
+    for a beloved and imagines wind, cloud, and bird forms as ways to reach the beloved’s
+    vineyard.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 410-419
+  quote_or_summary: "“By whirlwinds tossed and swayed I roam”; “The stranger’s accents”
+    awaken thoughts that “wander home”; the speaker wishes the wind would carry him
+    where the beloved’s vineyard lies and wishes to be the zephyr bending her vines
+    and roses."
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; short excerpt and summary.
+- id: ev:3
+  type: quote
+  locator: lines 421-430
+  quote_or_summary: The speaker is “piteous and forlorn” like a night-haunting bird
+    that mourns when “his rose” is absent; he gazes over “earth and ocean” and repeats
+    the wish to be wafted to the beloved’s vineyard.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; short excerpt and summary.
+- id: ev:4
+  type: quote
+  locator: lines 431-436
+  quote_or_summary: The speaker wishes to be “yon cloud,” a “cloudlet driven before
+    the wind,” or a “bird with swift-winged flight,” and again wishes to be the wind
+    bending the beloved’s vines and roses.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; short excerpt and summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal lyric imagery is clear. Motif labels are cautious because the
+    passage presents wishes and similes rather than a narrative event sequence. No
+    comparison claims are made beyond the provided passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied available refs and marked cautiously where only partly supported.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l408-l437
+  passage_sha256=8ca1436aa4fc042e8968b4b05192ca43cbbff0f2635b823688a4734b4022aad5
+

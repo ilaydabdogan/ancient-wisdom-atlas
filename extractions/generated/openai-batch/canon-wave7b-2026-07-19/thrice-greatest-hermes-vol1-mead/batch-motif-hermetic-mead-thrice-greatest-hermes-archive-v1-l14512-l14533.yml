@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.hermetic-mead-thrice-greatest-hermes-archive-v1-l14512-l14533
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+passage_locator:
+  label: PHILO OF ALEXANDRIA 247 / PHILO OF ALEXANDRIA . 249 / PHILO OF ALEXANDRIA
+    251 / PHILO OF ALEXANDRIA 253; lines 14512-14533
+  start: '14512'
+  end: '14533'
+  translation: 'Thrice-Greatest Hermes, Vol. I: Prolegomena'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Our initiated philosopher is on the side neither of atheism or pure physicism,
+    nor on that of superstition...
+  summary: The passage presents Plutarch as offering an instructive exposition of
+    an ancient conflict between physical reason and formal theology. It says the initiated
+    philosopher rejects both atheism or pure physicism and superstition, takes a middle
+    ground, and seeks refuge in a vision of the Logos with humility.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Plutarch is said to give a most instructive exposition.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes an ancient struggle between physical reason and formal
+    theology.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the conflict has been renewed on a larger scale in recent
+    centuries and continues in the author's own day.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The initiated philosopher is said to be on neither the side of atheism or
+    pure physicism nor the side of superstition.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The initiated philosopher takes a middle ground and seeks final refuge in
+    the fair vision of the Logos.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The initiated philosopher is described as humble and aware that his speech
+    is limited.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Plutarch
+  description: Named as the person who gives an instructive exposition.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: initiated philosopher
+  description: Described as rejecting both atheism or pure physicism and superstition,
+    taking a middle ground, and seeking refuge in the Logos.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: expositor
+  assigned_to:
+  - fig:1
+  basis: Plutarch is said to give an instructive exposition.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mediating philosopher
+  assigned_to:
+  - fig:2
+  basis: The initiated philosopher is described as taking neither extreme side but
+    a middle ground.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: humble seeker of Logos
+  assigned_to:
+  - fig:2
+  basis: The philosopher seeks refuge in the fair vision of the Logos and is described
+    as humble about what he can say.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Logos
+  literal_form: the fair vision of the Logos
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Plutarch's exposition of a religious-philosophical conflict
+  summary: Plutarch is presented as offering an exposition that allows readers to
+    review an ancient conflict between physical reason and formal theology.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The initiated philosopher's middle ground
+  summary: The initiated philosopher avoids both atheism or pure physicism and superstition,
+    adopts a middle position, and turns toward the Logos with humility.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: middle path toward Logos
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes rejection of opposing extremes and a turn toward the
+    Logos as a final refuge.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a philosophical-theological exposition rather than a narrative
+    myth episode; the wisdom taxonomy link is broad and should be reviewed.
+- id: motif:2
+  label: conflict between rational explanation and formal theology
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly describes an ancient struggle between physical reason
+    and formal theology.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage frames the opposition historically and intellectually, not
+    as a mythic dualism between personified powers.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the ancient struggle between physical reason and formal
+    theology with a renewed and enlarged conflict in recent centuries and the author's
+    own day.
+  claim_level: same_function
+  target: modern renewal of the reason-versus-formal-theology conflict
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage and reflects the author's
+    historical framing; it does not establish a specific transmission history or mythic
+    genealogy.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14512-14514
+  quote_or_summary: "“Plutarch accordingly gives a most instructive exposition”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 14514-14520
+  quote_or_summary: The exposition is said to help review an ancient struggle between
+    physical reason and formal theology, a conflict renewed on a larger scale in recent
+    centuries and continuing in the author's day.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:3
+  type: quote
+  locator: lines 14522-14525
+  quote_or_summary: "“Our initiated philosopher is on the side neither of atheism
+    or pure physicism, nor on that of superstition”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:4
+  type: quote
+  locator: lines 14526-14529
+  quote_or_summary: "“he takes a middle ground, and seeks final refuge in the fair
+    vision of the Logos”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 14529-14531
+  quote_or_summary: The philosopher is described as acting in humility, knowing that
+    whatever he can say is limited.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source text supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward, but the passage is expository
+    prose and the motif-family assignments are broad. The relationship between Plutarch
+    and the unnamed 'initiated philosopher' should be reviewed in context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraneous hosting text at the end of the provided passage was not treated as passage content.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hermetic-mead-thrice-greatest-hermes-archive-v1__l14512-l14533
+  passage_sha256=4758b8dcbfb75d0033b5a2fab7e271a831eb62ab434edf9ff0ab38a9c2cc2430
+

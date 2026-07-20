@@ -1,0 +1,176 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l1396-l1510
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: CANTO V. / Canto YI. / CAHTO VI, / CANTO VI.; lines 1396-1510
+  start: '1396'
+  end: '1510'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“He, Yadn’s descendant, saw these and other trees”"
+  summary: The passage opens Canto VI and presents a catalogue of many trees seen
+    by an unnamed descendant of Yadn/Yadu. The accompanying notes identify the trees
+    botanically and describe fruits, flower colors, fragrances, habitats, and one
+    note about deodar being out of place in a Gujarat scene.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed descendant, printed in the OCR text as “Yadn’s descendant,” sees
+    the trees being listed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists numerous named trees, including fruit-bearing trees and
+    myrobalans.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage continues with additional named trees, including jasmines, parijata,
+    kovidara, mandara, jujube, Bignonia, deodar, sal, and palmyra palm.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The notes describe many blossoms by color and fragrance, including orange-red,
+    white, yellow, scarlet, reddish-purple, and dark crimson flowers.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A botanical note says the deodar is native to mountains north of Rohilkhand
+    and comments that it is out of place in the Gujarat scene.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yadn’s descendant
+  description: An unnamed descendant who sees the many trees in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: observer of a tree-filled landscape
+  assigned_to:
+  - fig:1
+  basis: The passage says that the descendant saw these and other trees.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: tree-filled landscape
+  literal_form: A catalogue of many named trees, including fruit trees, flowering
+    trees, and fragrant blossoms.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: mountain habitat in botanical note
+  literal_form: Mountains north of Rohilkhand are named in the deodar note; another
+    note refers to mountainous parts of India.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sighting of many trees
+  summary: The unnamed descendant sees a landscape or catalogue filled with many named
+    trees; the notes elaborate their botanical identities, fruits, blossoms, colors,
+    and fragrances.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: luxuriant grove or named-tree catalogue
+  taxonomy_refs: []
+  basis: The passage is organized around the sighting and enumeration of many trees,
+    with notes emphasizing flowers, fruits, and fragrance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly present a sacred tree, world-axis tree,
+    ritual use, transformation, or developed mythic action; this is best treated as
+    a setting pattern rather than a strong mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1396-1401
+  quote_or_summary: "“He, Yadn’s descendant, saw these and other trees”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1396-1428
+  quote_or_summary: The early list includes gab trees bearing large fruits, almond
+    trees, karamcha trees, yellow and beleric myrobalans, asokas, punnagas, screw-pines,
+    vakulas, and champakas.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1430-1508
+  quote_or_summary: The later list includes saptaparnas, karnikaras, Spanish jasmines,
+    parijata trees, kovidaras, mandaras, jujube trees, Bignonia trees in blossom,
+    deodar trees, sal trees, and palmyra palms.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1403-1508
+  quote_or_summary: The botanical notes repeatedly describe the trees’ flowers, colors,
+    and fragrances, including asoka, screw-pine, vakula, champaka, jasmine, parijata,
+    kovidara, and Bignonia.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: note
+  locator: lines 1494-1500
+  quote_or_summary: The deodar note identifies it as native to mountains north of
+    Rohilkhand and says it is out of place in this Gujarat scene.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by OCR noise and by the passage being chiefly
+    a botanical/tree catalogue with commentary. No external comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the passage does not clearly support a listed mythological motif family beyond the literal symbol of trees.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l1396-l1510
+  passage_sha256=4dd3d247ec5b1eff58c9fd4af7ff9ebe6b9a60727590ec4c4af5c508e7d35854
+

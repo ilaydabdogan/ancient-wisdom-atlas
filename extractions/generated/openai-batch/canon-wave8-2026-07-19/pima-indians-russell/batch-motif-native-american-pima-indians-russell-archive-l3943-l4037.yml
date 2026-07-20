@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l3943-l4037
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: MEDICINAL PIJINTS / ANIMALS USED FOR FOOD / DOMESTICATION OF ANIMALS / METHODS;
+    lines 3943-4037
+  start: '3943'
+  end: '4037'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Ethnographic description of Pima irrigation agriculture: fertile Gila
+    River silt, ancient Hohokam canals, Pima canal maintenance, management of alkali
+    soils by repeated flooding, farm allotment and fencing practices, agricultural
+    tools, and crop storage bins.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Gila River in flood carries a large amount of suspended mud, and the bottom
+    land used for fields is described as built from this material.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The soil is described as rich from periodically deposited river silt, and
+    the Pimas are said not to practice crop rotation.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Hohokam are said to have practiced irrigation for unknown centuries, and
+    the courses of their large canals could still be traced.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage presumes that the Pimas initially used canals already constructed
+    by predecessors and states that early writers described their canals as larger
+    than required.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Water from the Gila and Salt rivers is described as strongly impregnated with
+    alkali that can leave salt deposits on the land surface.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Pimas are said to have dealt with alkali soil by repeatedly flooding the
+    tract to wash the alkali out.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Pima farms are described as rectangular, arranged with reference to the supplying
+    canal, and carefully fenced.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When a tract was newly brought under irrigation, a committee of six men was
+    chosen to allot land to those who helped dig the ditches.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The allotment committee chose the best land for themselves, and plot width
+    varied according to family size.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Canals were dug with a digging stick and shovel; other agricultural implements
+    included a hoe-like wooden tool, a later wooden plow, and a hybrid spade-hoe obtained
+    from Mexicans.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Crops are described as stored in circular bins made of willow, arrow bush,
+    and wheat straw, in a manner compared with prehistoric storage practice.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pimas
+  description: The people described as cultivating irrigated fields, maintaining canals,
+    flooding alkali-affected land, allotting farms, using agricultural implements,
+    and storing crops.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hohokam
+  description: Earlier canal builders said to have practiced irrigation for unknown
+    centuries and left large canal courses traceable across river bottoms and mesas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: six-man allotment committee
+  description: A committee chosen when new land was brought under irrigation to allot
+    plots to ditch diggers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: families cultivating farms
+  description: Families are described as cultivating from one to five acres, with
+    plot width adjusted according to family size.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: irrigating agriculturalists
+  assigned_to:
+  - fig:1
+  basis: The Pimas cultivate irrigated fields, maintain canals, wash alkali from soil
+    by flooding, use agricultural implements, and store crops.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: predecessor canal builders
+  assigned_to:
+  - fig:2
+  basis: The passage attributes centuries of irrigation and extensive canal construction
+    to the Hohokam.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: land allotters
+  assigned_to:
+  - fig:3
+  basis: The six men are chosen to allot newly irrigated land to people who helped
+    dig ditches.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: farm holders
+  assigned_to:
+  - fig:4
+  basis: Families cultivate individual holdings and receive plots sized according
+    to family number.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: irrigation water
+  literal_form: Gila and Salt river water carried through canals and used for field
+    flooding
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: canal system
+  literal_form: ancient and maintained irrigation canals supplying rectangular fields
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: agricultural tools
+  literal_form: digging stick, shovel, hoe-like wooden implement, wooden plow, and
+    hybrid spade-hoe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: crop storage bin
+  literal_form: circular bins made of willow, arrow bush, and wheat straw
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: fertility from river silt
+  summary: The Gila River deposits mud during floods, building rich bottom land used
+    for Pima fields and reducing perceived need for crop rotation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: predecessor canals and Pima irrigation
+  summary: Ancient Hohokam canals are described as still traceable, and the Pimas
+    are presumed to have used and maintained predecessor canal systems.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: washing alkali from fields
+  summary: Alkali deposits from river water threaten field usability, and the Pimas
+    repeatedly flood affected tracts to wash the alkali out.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: farm layout and allotment
+  summary: Rectangular farms are arranged by canal access and fenced; a six-man committee
+    allots newly irrigated plots to ditch workers, with plot width related to family
+    size.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: implements and storage
+  summary: Pima canals and fields are worked with digging sticks, shovels, and other
+    implements, while crops are stored in circular plant-material bins.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: land renewal through controlled flooding
+  taxonomy_refs: []
+  basis: The passage describes repeated flooding as a practical means of washing alkali
+    out of affected tracts so the land can continue to be used.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a literal agricultural practice, not a mythic flood-renewal narrative;
+    no flood_and_renewal taxonomy reference is assigned.
+- id: motif:2
+  label: irrigation system inherited from predecessors
+  taxonomy_refs: []
+  basis: The passage links Hohokam canal construction with the presumption that Pimas
+    initially used predecessor canals and maintained sufficient irrigation systems.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The text states this as a presumption and does not prove direct cultural
+    continuity or transmission.
+- id: motif:3
+  label: communal ditch labor followed by land allotment
+  taxonomy_refs: []
+  basis: Newly irrigated tracts are allotted by a six-man committee to those who assisted
+    in digging the ditches.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic social-agricultural pattern rather than a mythological
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison between Hohokam
+    canal works and Pima irrigation, since both are described in relation to canal-based
+    watering of agricultural land.
+  claim_level: same_function
+  target: Hohokam canal irrigation and Pima irrigation systems
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames Pima use of predecessor canals as presumed; it does
+    not establish historical contact, ethnic continuity, or mythic inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3943-3958
+  quote_or_summary: The Gila River carries much suspended mud in flood; bottom land
+    fields are built from this material; rich silt deposits are said to explain why
+    crop rotation did not occur to the Pimas.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3959-3980
+  quote_or_summary: Hohokam irrigation is described as centuries old, with great canals
+    still traceable; the passage presumes Pimas first used predecessor canals and
+    notes early reports of large Pima canals.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3981-3995
+  quote_or_summary: Gila and Salt river water can deposit alkali salts on land; the
+    Pimas repeatedly flooded affected tracts to wash the alkali out and said they
+    never abandoned land because of it.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3996-4020
+  quote_or_summary: Families cultivate small holdings; farms are rectangular, canal-oriented,
+    and fenced; a six-man committee allots newly irrigated land to ditch workers,
+    choosing the best land for themselves; plot size varies by family.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4021-4037
+  quote_or_summary: Canals were dug with digging stick and shovel; other tools included
+    a hoe-like wooden implement, later wooden plow, Mexican-derived spade-hoe, and
+    modern implements; crops are stored in circular plant-material bins.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is ethnographic and technical rather than mythological. Motif
+    candidates are treated as cultural patterns, with no mythic taxonomy motif assigned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic narrative figures or divine symbols are present in the supplied passage; water is recorded only as a literal agricultural resource.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l3943-l4037
+  passage_sha256=2de9d0227b297023a99817533d62acda4c9ca0cecc08026b8c33e0b3eced3060
+

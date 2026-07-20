@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l23640-l23776
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: PART  OF  MEASURE  ON  WHICH  SONG  BEGINS / RHYTHM  OF  FIRST  MEASURE /
+    RHYTHMIC  UNIT / COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND   BRUM; lines 23640-23776
+  start: '23640'
+  end: '23776'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rhythmic-analysis tables for songs, comparing rhythmic
+    units, voice and drum metric units, and changes of time. It then introduces Mide'
+    songs, stating that the song at hand and the following song belonged to a ceremony
+    held soon after the death of a Mide'wiwin member, with the direction of the spirit
+    on its journey as one object. It identifies No. 154, "The Noise of the Village,"
+    sung by Ki^miwun, with voice and drum notation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage classifies songs by whether they contain a rhythmic unit, two
+    rhythmic units, or no rhythmic unit, and lists serial numbers for the categories.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage compares the metric unit of voice and drum, listing songs in which
+    these units are the same and songs in which they are different.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A continued rhythmic analysis section lists songs as containing a change of
+    time.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that this song and the following song were part of a ceremony
+    held soon after the death of a member of the Mide'wiwin, or Grand Medicine Society.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One stated object of the ceremony was the direction of the spirit on its journey.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage identifies No. 154 as "The Noise of the Village," Catalogue No.
+    306, sung by Ki^miwun, with accompanying voice and drum notation.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: member of the Mide'wiwin
+  description: A member of the Mide'wiwin, described in the passage in connection
+    with death before the ceremony.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: spirit
+  description: The spirit whose journey the ceremony is said to help direct.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ki^miwun
+  description: Named singer of song No. 154, "The Noise of the Village."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deceased society member
+  assigned_to:
+  - fig:1
+  basis: The ceremony is described as held soon after the death of a member of the
+    Mide'wiwin.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: journeying spirit
+  assigned_to:
+  - fig:2
+  basis: The ceremony has as one object the direction of the spirit on its journey.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: singer
+  assigned_to:
+  - fig:3
+  basis: The song is identified as sung by Ki^miwun.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: spirit journey
+  literal_form: the spirit on its journey
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: drum
+  literal_form: drum metric unit and drum notation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: voice
+  literal_form: voice metric unit and voice notation
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: village noise
+  literal_form: 'song title: "The Noise of the Village"'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rhythmic analysis of songs
+  summary: The passage tabulates song serial numbers according to rhythmic-unit categories,
+    voice-and-drum metric-unit comparison, and change of time.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Mide' post-death ceremonial song
+  summary: 'The passage introduces a Mide'' song context: this song and the next are
+    said to belong to a ceremony soon after a Mide''wiwin member''s death, intended
+    in part to direct the spirit on its journey; No. 154 is then named and attributed
+    to Ki^miwun.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Direction of a spirit after death
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage explicitly says the ceremony has as one object the direction
+    of the spirit on its journey after the death of a Mide'wiwin member.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe a route, map, destination, obstacles, or
+    stages of the journey; the taxonomy reference is therefore a broad fit rather
+    than a detailed match.
+- id: motif:2
+  label: Ritual song in a post-death ceremony
+  taxonomy_refs: []
+  basis: The passage states that this and the following song formed part of a ceremony
+    held soon after a death, and then identifies song No. 154 with singer and notation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a ritual-musical pattern stated in the passage, not a named taxonomy
+    motif in the supplied list.
+- id: motif:3
+  label: Voice and drum metric relationship
+  taxonomy_refs: []
+  basis: The rhythmic-analysis table explicitly compares the metric unit of voice
+    and drum as same or different across song serial numbers.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an analytical musical pattern rather than a mythological narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The stated ceremonial function of directing a spirit on its journey after
+    death cautiously aligns with the supplied afterlife-journey motif family.
+  claim_level: same_function
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only the function of directing the spirit; it does
+    not provide narrative details of an afterlife path, guide, map, trials, or destination.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23640-23658
+  quote_or_summary: The rhythmic-unit table lists categories for songs containing
+    a rhythmic unit, songs containing two rhythmic units, and songs containing no
+    rhythmic unit, with serial numbers.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 23659-23683
+  quote_or_summary: '"Metric unit of voice and drum the same" and "Metric unit of
+    voice and drum different" are listed as comparison categories.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: 23684-23708
+  quote_or_summary: The continued analysis section is headed "CHANGE OF TIME" and
+    lists "Songs containing change of time."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: 23709-23717
+  quote_or_summary: '"This and the following song were said to form part of a ceremony
+    which is held soon after the death of a member of the Mide''wiwin (Grand Medicine
+    Society), and which has for one of its objects the direction of the spirit on
+    its journey."'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 23718-23732
+  quote_or_summary: The passage identifies No. 154 as "The Noise of the Village" (Catalogue
+    No. 306), says it was sung by Ki^miwun, and gives voice and drum notation including
+    drum tempo marking.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The death-ceremony and spirit-journey statement is clear, but the surrounding
+    passage is largely tabular musical analysis with OCR irregularities. Motif interpretation
+    is therefore limited to the explicit ceremonial function stated in the text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unsupplied taxonomy IDs were used. Available symbol taxonomy refs were not assigned because none of the supplied symbol refs are explicitly present in this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l23640-l23776
+  passage_sha256=3638d424296efcdbd258c451f047587822b3b725d72dbfe19610977be95c4b32
+

@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l20613-l20632
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: NOTES   ON   THE   TALES  467 / XVIII. / HAUSA  SUPERSTITIONS / NOTES   ON   THE   TALES  469;
+    lines 20613-20632
+  start: '20613'
+  end: '20632'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The notes describe a wild-cat realizing that an attempted action involving
+    the cock would lead to the wild-cat's own death because the cock is living with
+    the dog. A variant attributed to Major Edgar says the cock failed to understand
+    the wild-cat's sarcasm and took the remark literally as an intention to attend
+    a funeral and meet the dog. A later note denies that an action refers to charm
+    preparation, but adds that an infusion of bazere root is often drunk as a charm.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The wild-cat hears that the cock is living with the dog and concludes that
+    attempting the unspecified action would cause the wild-cat's own death, described
+    as the third death.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cock is described as living with the dog.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In a variant, the cock misses the sarcasm in the wild-cat's remark and takes
+    it literally.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cock interprets the wild-cat's remark to mean that the cat is coming with
+    him to a funeral and will meet the cock's friend, the dog.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note says the referenced action is not, in the writer's opinion, preparation
+    of a charm, but is instead to save the wild-cat the trouble of flavouring his
+    victim.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An infusion of the root of the bazere is often drunk as a charm.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: cock
+  description: Animal character who lives with the dog; in the variant, he takes the
+    wild-cat's sarcastic remark literally.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: dog
+  description: Animal character with whom the cock is living; called the cock's friend
+    in the variant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: wild-cat / cat
+  description: Animal character whose remark is sarcastic in the variant; the wild-cat
+    anticipates being killed if he attempts the unspecified action after learning
+    of the dog.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: literal-minded hearer
+  assigned_to:
+  - fig:1
+  basis: The variant says the cock misses the sarcasm and takes the remark quite literally.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: co-resident friends
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The cock is living with the dog, and the dog is called the cock's friend.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: sarcastic speaker
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the sarcasm of the wild-cat's remark.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: threatened would-be actor
+  assigned_to:
+  - fig:3
+  basis: The wild-cat knows he would be killed if he attempted the unspecified action.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: funeral
+  literal_form: funeral attended by the cock and, in the cock's literal interpretation,
+    by the cat
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bazere-root charm infusion
+  literal_form: infusion of the root of the bazere drunk as a charm
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: third death
+  literal_form: the wild-cat's anticipated death counted as the third death
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Wild-cat deterred by dog association
+  summary: After hearing that the cock lives with the dog, the wild-cat concludes
+    that attempting the unspecified action would lead to his own death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cock misunderstands sarcastic invitation or remark
+  summary: In a variant, the cock misunderstands the wild-cat's sarcasm and expects
+    the cat to come to the funeral and meet the dog.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Comment on charm and flavouring victim
+  summary: The note rejects a charm-preparation interpretation for the immediate item,
+    explains it as flavouring the wild-cat's victim, and adds that bazere-root infusion
+    is often drunk as a charm.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Dangerous companion deters attack
+  taxonomy_refs: []
+  basis: The wild-cat decides he would be killed if he attempted the action after
+    learning that the cock lives with the dog.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The antecedent of the attempted action is outside the supplied fragment,
+    so the exact intended act cannot be specified.
+- id: motif:2
+  label: Sarcasm taken literally
+  taxonomy_refs: []
+  basis: The variant says the cock misses the wild-cat's sarcasm and interprets the
+    remark literally.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The full wording of the sarcastic remark is not included in the supplied
+    passage.
+- id: motif:3
+  label: Plant-root infusion used as charm
+  taxonomy_refs: []
+  basis: The passage states that an infusion of bazere root is often drunk as a charm.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The same note says the immediate tale item is probably not a charm preparation,
+    so this motif applies to the ethnographic aside rather than necessarily to the
+    tale action.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly identifies a variant, attributed to Major Edgar, in
+    which the cock misunderstands the wild-cat's sarcastic remark and treats it as
+    literal.
+  claim_level: same_motif
+  target: Major Edgar's variant of the cock, wild-cat, and dog episode
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the note's brief description of the variant is supplied; the full
+    variant text is not present in this passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20613-20617
+  quote_or_summary: "“when he heard that the cock was living with the dog, he knew
+    that he himself would be killed if he attempted it — that would be the third death.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:2
+  type: summary
+  locator: lines 20619-20625
+  quote_or_summary: Major Edgar's variant says the cock missed the sarcasm of the
+    wild-cat's remark and took it literally as the cat coming with him to the funeral
+    and meeting his friend, the dog.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20629-20632
+  quote_or_summary: The note says the item is not thought to refer to charm preparation,
+    but to flavouring the wild-cat's victim; it adds that bazere-root infusion is
+    often drunk as a charm.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a fragment of notes on tales rather than a full tale. Several
+    references, including the action the wild-cat might attempt and the item discussed
+    as not being charm preparation, depend on context outside the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied because the passage does not clearly support one of the supplied motif-family or symbol identifiers.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l20613-l20632
+  passage_sha256=1bb44711767dc32a652fe4c02f1f32b6912eb6006b4135fe3f5d5578b00e0bf2
+

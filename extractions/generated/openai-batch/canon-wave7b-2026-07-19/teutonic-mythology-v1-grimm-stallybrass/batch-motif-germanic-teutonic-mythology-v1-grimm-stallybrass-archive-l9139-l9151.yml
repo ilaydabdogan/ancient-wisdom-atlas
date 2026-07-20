@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l9139-l9151
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: THUNAR.  175 / THUNAR.  177 / THUNAR.  179 / THUNAR.  181; lines 9139-9151
+  start: '9139'
+  end: '9151'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists Germanic and regional curse or protestation formulas
+    involving a hammer, thunder, holy thunderstorm, a Christian cross-thunder expression,
+    and euphemistic variants. It interprets these durable curses as evidence that
+    worship of the god had taken deep root among the people.
+  language: English with Germanic and Dutch dialect examples
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A curse formula invokes a hammer, or a great hammer, striking the addressee.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage connects hammer-related curse language with thunder, devil, and
+    cursed-language glosses.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author states that almost ineradicable curses, once solemn protestations,
+    prove that worship of the god had taken root among the people.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thunder-related exclamations are listed, including thunder, thunder-weather,
+    and holy thunderstorm.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One thunder-weather formula is described as adding the Christian symbol of
+    the cross.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage lists euphemistically disguised forms of the curse or protestation
+    language.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage gives Hessian and Flemish regional examples involving hammer-related
+    wording.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the god
+  description: A god whose worship the passage says had taken deep root among the
+    people.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the people
+  description: The people among whom the god's worship is said to have taken root
+    and among whom the cited curses persisted.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: worshiped deity recalled in curse formulas
+  assigned_to:
+  - fig:1
+  basis: The passage treats the cited curses and protestations as evidence for the
+    rooted worship of the god.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: community preserving curse-protestation formulas
+  assigned_to:
+  - fig:2
+  basis: The passage says the curses were almost ineradicable among the people and
+    had once been solemn protestations.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: hammer
+  literal_form: hammer; great hammer; hammer-related regional forms
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: thunder and thunderstorm
+  literal_form: donner; donnerwetter; heiliges gewitter
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Christian cross
+  literal_form: kreuz in the formula kreuz donnerwetter
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: euphemistic disguise
+  literal_form: dummer, dumstig, dunnstig, and related disguised forms
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hammer-strike curse formula
+  summary: The passage cites a curse in which a hammer or great hammer is called upon
+    to strike the person addressed.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Persistence and adaptation of thunder-hammer protestations
+  summary: The passage presents hammer, thunder, Christianized, euphemistic, Hessian,
+    and Flemish expressions as durable curse or protestation formulas connected with
+    rooted worship of the god.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine hammer invoked in curse
+  taxonomy_refs: []
+  basis: A curse formula calls for a hammer or great hammer to strike the addressee,
+    and the passage links such curses to worship of the god.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage discusses formulaic speech, not a narrative myth episode;
+    no exact supplied taxonomy reference matches the hammer motif.
+- id: motif:2
+  label: survival of divine worship in folk curses and protestations
+  taxonomy_refs: []
+  basis: The passage explicitly says almost ineradicable curses, once solemn protestations,
+    demonstrate the deep roots of the god's worship.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is the author's antiquarian interpretation of linguistic survivals
+    rather than direct ritual description.
+- id: motif:3
+  label: Christianized thunder curse formula
+  taxonomy_refs: []
+  basis: 'The passage lists thunder exclamations and then notes a form that adds the
+    Christian symbol: cross-thunder-weather.'
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage provides the formula but does not narrate a full syncretic
+    rite or mythic event.
+- id: motif:4
+  label: euphemistic disguise of sacred or curse language
+  taxonomy_refs: []
+  basis: The passage identifies several thunder or hammer expressions as euphemistically
+    disguised forms.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exact linguistic development of each form is not detailed in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats hammer-strike formulas and thunder-weather exclamations
+    as serving the same curse or solemn-protestation function.
+  claim_level: same_function
+  target: hammer curse formulas and thunder/thunderstorm exclamations in the same
+    passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage asserts functional connection through linguistic examples;
+    it does not provide separate ritual contexts for each formula.
+- id: claim:2
+  claim: The passage presents Hessian and Flemish hammer expressions as regional variants
+    within the same cluster of hammer/thunder curse formulas.
+  claim_level: same_motif
+  target: Hessian and Flemish hammer-related curse expressions
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The regional forms are listed briefly and not translated or analyzed
+    in detail within this passage.
+- id: claim:3
+  claim: The passage presents the cross-thunder-weather expression as a Christian-symbol
+    addition to the thunder curse formula.
+  claim_level: same_function
+  target: non-Christian thunder-weather exclamations and the cross-thunder-weather
+    expression
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to formulaic wording; it does not by itself establish
+    a broader historical process beyond the addition noted in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9139-9141
+  quote_or_summary: 'A curse formula is glossed as: “the hammer, or a great hammer
+    strike you!”'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 9141-9144
+  quote_or_summary: The passage connects hammer, thunder, devil, and cursed-language
+    glosses, then says the god's deeply rooted worship is proved by almost ineradicable
+    curses that were once solemn protestations.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 9144-9146
+  quote_or_summary: Examples include “donner,” “donnerwetter,” “heiliges gewitter,”
+    and, with the Christian symbol, “kreuz donnerwetter.”
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: 9146-9149
+  quote_or_summary: The passage lists euphemistically disguised forms, including dummer,
+    dummer hammer, dumstig, and dunnstig expressions.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 9149-9150
+  quote_or_summary: The passage cites Hessian and Flemish regional examples, including
+    a Hessian hammer expression and the Flemish form “bi Vids morkel hamer.”
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a short antiquarian discussion of curse formulas
+    rather than a narrative myth. Motif labels are therefore formulaic and linguistic,
+    with no exact supplied taxonomy match.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy symbol directly matches hammer, thunder, cross, or euphemistic disguise; taxonomy_refs are left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l9139-l9151
+  passage_sha256=b9b9c44d0cb5ce7ce79d775085ef0bc2d0217ea1e6ab71fe1de5a4ddf2c94c27
+

@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l48585-l48666
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: THE WORKS OF MEXCIUS / THE WORKS OV MENCTUS / THE WORKS OF / THE WORKS OF;
+    lines 48585-48666
+  start: '48585'
+  end: '48666'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"In these circumstances, is there no one to transmit his doctrines? Yea,
+    is there no one to do so?"'
+  summary: The passage lists intervals between T'ang, King Wan, Confucius, and the
+    present, emphasizing that doctrines were known either by direct acquaintance with
+    an earlier figure or by transmission. It ends by asking who will transmit the
+    sage's doctrines in the present generation.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: T'ang is said to have heard doctrines as transmitted and thereby known them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that more than five hundred years elapsed from T'ang to
+    King Wan.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: E Yin and Lac Choo are said to have seen T'ang and known his doctrines, while
+    King Wan heard them as transmitted and knew them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that more than five hundred years elapsed from King Wan
+    to Confucius.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: T'ae-kung Wang and San E-sang are said to have seen King Wan and known his
+    doctrines, while Confucius heard them as transmitted and knew them.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that from Confucius to the present is only a little more
+    than one hundred years.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker says the time-distance from the sage is not remote and the sage's
+    residence was near at hand.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker asks whether there is no one to transmit the sage's doctrines.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: An editorial note says that Mencius is understood as taking on the duty and
+    responsibility of handing down the doctrines of the sage.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: T'ang
+  description: A prior figure whose doctrines are said to have been known by E Yin
+    and Lac Choo; T'ang also heard earlier doctrines as transmitted.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: E Yin
+  description: A figure said to have seen T'ang and known his doctrines.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Lac Choo
+  description: A figure said to have seen T'ang and known his doctrines.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: King Wan
+  description: A later figure said to have heard T'ang's doctrines as transmitted
+    and known them; also a figure whose doctrines were later known by others.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: T'ae-kung Wang
+  description: A figure said to have seen King Wan and known his doctrines.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: San E-sang
+  description: A figure said to have seen King Wan and known his doctrines.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Confucius
+  description: A figure said to have heard King Wan's doctrines as transmitted and
+    known them; the passage then measures the present distance from Confucius.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: Mencius / present speaker
+  description: The speaker who asks whether anyone will transmit the sage's doctrines;
+    an editorial note identifies Mencius as taking this responsibility upon himself.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: receiver of transmitted doctrines
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:7
+  basis: These figures are described as hearing doctrines as transmitted and knowing
+    them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: source of doctrines for later transmission
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:7
+  basis: The passage treats T'ang, King Wan, and Confucius as figures whose doctrines
+    are known or need to be transmitted by later persons.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: direct witness who knows doctrines
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  basis: These figures are described as having seen T'ang or King Wan and known that
+    figure's doctrines.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: prospective transmitter of the sage's doctrines
+  assigned_to:
+  - fig:8
+  basis: The speaker asks whether anyone will transmit the doctrines, and the note
+    says Mencius takes on this responsibility.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: transmitted doctrines
+  literal_form: doctrines heard as transmitted and known
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: five-hundred-year interval
+  literal_form: five hundred years and more
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: one-hundred-year interval
+  literal_form: one hundred years and somewhat more
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Transmission from T'ang to King Wan
+  summary: After an interval of more than five hundred years, E Yin and Lac Choo are
+    presented as direct knowers of T'ang's doctrines, while King Wan knows them through
+    transmission.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Transmission from King Wan to Confucius
+  summary: After an interval of more than five hundred years, T'ae-kung Wang and San
+    E-sang are presented as direct knowers of King Wan's doctrines, while Confucius
+    knows them through transmission.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Present call to transmit the sage's doctrines
+  summary: The speaker notes that the present is only a little more than one hundred
+    years after Confucius, says the distance is not remote, and asks whether anyone
+    will transmit the sage's doctrines.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Transmission of sage wisdom across generations
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly contrasts direct acquaintance with later transmission
+    of doctrines and frames the present as another moment requiring transmission.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is philosophical and historiographical rather than mythic
+    narrative; the motif label is limited to the documented pattern of wisdom transmission.
+- id: motif:2
+  label: Succession of doctrinal custodians after a sage
+  taxonomy_refs:
+  - wisdom
+  basis: Named figures serve as direct witnesses or later receivers of doctrines,
+    and the speaker raises the need for a present custodian to continue the chain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text does not explicitly describe formal succession rites or institutional
+    authorization; it only implies responsibility for transmission.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 48585-48593
+  quote_or_summary: T'ang is described as hearing earlier doctrines as transmitted
+    and knowing them; the preceding wording is affected by OCR noise.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: 48594-48600
+  quote_or_summary: '"From T''ang to King Wan were five hundred years and more. As
+    to E Yin and Lac Choo, they saw T''ang and knew his doctrines, while King Wan
+    heard them as transmitted, and so knew them."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: summary
+  locator: 48601-48608
+  quote_or_summary: From King Wan to Confucius is described as more than five hundred
+    years; T'ae-kung Wang and San E-sang saw Wan and knew his doctrines, while Confucius
+    heard them as transmitted and knew them.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: 48624-48643
+  quote_or_summary: '"From Confucius downwards until now ... only one hundred years
+    and somewhat more. The distance in time from the sage is so far from being remote
+    ... is there no one to transmit his doctrines?"'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:5
+  type: note
+  locator: 48658-48666
+  quote_or_summary: The editorial note says that Mencius takes upon himself the duty
+    and responsibility of handing down the doctrines of the sage.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized editorial note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by OCR noise and by the presence of editorial material
+    mixed with translated text. The central transmission pattern is clear, but some
+    names and wording may require human verification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added; taxonomy use is limited to the supplied wisdom motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l48585-l48666
+  passage_sha256=fdae29559a65afcbb8b8ed65beeb10f7ce8a3e78bc563362aacff3d0e911b831
+

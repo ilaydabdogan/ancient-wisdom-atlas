@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l16438-l16469
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: GRSITT / SUMMER    CAMP    OX    HOTHAM    INLET / THE    ESKIMO    ABOUT    BERING    STRAIT
+    / UNIVERSITY; lines 16438-16469
+  start: '16438'
+  end: '16469'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes winter houses near Cape Lisburne, summer camps of
+    Point Barrow people near Icy Cape and toward Point Barrow, lookout posts used
+    to watch for whales and ships, men signaling from the posts, Point Barrow winter
+    houses framed partly with whale bones, meat storehouses, raised storage platforms,
+    and August residence in conical lodges.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: North of Cape Lisburne, three or four winter houses were seen, but their occupancy
+    could not be determined.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Near Icy Cape there were several summer camps of Point Barrow people living
+    in conical lodges, many covered with canvas from wrecked whaling vessels.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In front of each camp stood a stout post 12 to 20 feet high, notched on the
+    sides for climbing, with a crossbar near the top used as a seat or perch.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Because the coast was flat and low, the posts were used as lookout points
+    for seeing whale blowing or approaching ships.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: As the observing party passed along the shore, each post was usually occupied
+    by a man who waved his shirt to induce them to stop.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Between Icy Cape and Point Barrow there were several similar summer camps,
+    each containing from two to ten lodges.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: At Point Barrow, winter houses were half-underground structures with long
+    tunnel-like entrances, and scarcity of driftwood led to use of whale ribs and
+    jawbones in their framing.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Meat storehouses at Point Barrow were built nearly like the winter houses,
+    but with roof trapdoors as the only entrances, making them half-underground cellars.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Near the winter houses stood platforms 6 to 8 feet above the ground, used
+    to store spears, nets, and hunting and household paraphernalia.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: During the August visit, the inhabitants were living in conical lodges.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Point Barrow people
+  description: People with summer camps near Icy Cape, living in conical lodges.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Men on lookout posts
+  description: Men occupying the camp-front posts and waving shirts toward the passing
+    party.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Point Barrow inhabitants
+  description: Inhabitants associated with winter houses, platforms, and August residence
+    in conical lodges at Point Barrow.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:4
+  name_or_label: Observing party
+  description: The narrating party passing by shore and visiting in August.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:9
+roles:
+- id: role:1
+  label: camp residents
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage says Point Barrow people and inhabitants were living in conical
+    lodges at the summer camps and during the August visit.
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: role:2
+  label: lookouts and signalers
+  assigned_to:
+  - fig:2
+  basis: Men occupied the elevated posts and waved shirts to induce the passing party
+    to stop.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: users of winter-house settlement features
+  assigned_to:
+  - fig:3
+  basis: Winter houses, storehouses, and storage platforms are described at Point
+    Barrow in connection with the inhabitants.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:4
+  label: visitors or observers
+  assigned_to:
+  - fig:4
+  basis: The passage uses first-person references to passing by shore and visiting
+    in August.
+  evidence_refs:
+  - ev:5
+  - ev:9
+symbols:
+- id: sym:1
+  label: notched lookout post with crossbar
+  literal_form: A stout post 12 to 20 feet high, notched for climbing, with a crossbar
+    near the top for a seat or perch.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: conical lodge
+  literal_form: Conical lodges used in summer camps and by inhabitants during the
+    August visit.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:3
+  label: canvas covering from wrecked whaling vessels
+  literal_form: Canvas taken from wrecked whaling vessels and used to cover many conical
+    lodges.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: half-underground winter house
+  literal_form: Winter house of ordinary half-underground type with a long tunnel-like
+    entrance.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: whale ribs and jawbones as house framing
+  literal_form: Whale ribs and jawbones used in framing winter houses because of driftwood
+    scarcity.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: roof-trapdoor meat storehouse
+  literal_form: A half-underground meat storehouse resembling a winter house, with
+    entry only by trapdoor in the roof.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: raised storage platform
+  literal_form: Platforms 6 to 8 feet above the ground holding spears, nets, hunting
+    gear, and household paraphernalia.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Uncertain winter-house occupation north of Cape Lisburne
+  summary: Three or four winter houses are seen north of Cape Lisburne, but whether
+    they are occupied remains unknown.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Icy Cape summer camps with lookout posts
+  summary: Point Barrow people live in conical lodges near Icy Cape. Each camp has
+    a high notched post with a crossbar, used as a lookout over the flat coast for
+    whales and ships.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Men signal from shore posts
+  summary: As the observing party passes the shore, men occupy the lookout posts and
+    wave shirts to encourage the party to stop.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Similar camps along the route to Point Barrow
+  summary: Several similar summer camps, each with two to ten lodges, are present
+    between the Icy Cape area and Point Barrow.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Point Barrow winter-house and storage architecture
+  summary: At Point Barrow, winter houses are half underground with tunnel-like entrances
+    and whale-bone framing. Meat storehouses are half-underground cellars with roof
+    trapdoors, and raised platforms hold hunting and household equipment.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: seasonal habitation pattern
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage contrasts summer camps and August conical-lodge residence with
+    winter houses at Cape Lisburne and Point Barrow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: This is an ethnographic settlement pattern rather than a mythic or ritual
+    narrative motif.
+- id: motif:2
+  label: elevated watch post for whales and ships
+  taxonomy_refs: []
+  basis: Each camp has a tall notched post with a crossbar, explicitly used as a lookout
+    for whale blowing or approaching ships; men also signal from the posts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No sacred, cosmological, or comparative significance is stated in the
+    passage.
+- id: motif:3
+  label: adaptive coastal architecture using salvaged and animal materials
+  taxonomy_refs: []
+  basis: The passage notes lodge coverings made from canvas taken from wrecked whaling
+    vessels and winter-house framing made from whale ribs and jawbones due to scarcity
+    of driftwood.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: This is a practical material-use pattern, not a stated symbolic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16438-16442
+  quote_or_summary: North of Cape Lisburne, three or four winter houses were seen,
+    but occupancy was uncertain.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 16443-16446
+  quote_or_summary: Near Icy Cape, several summer camps of Point Barrow people had
+    conical lodges, many covered with canvas from wrecked whaling vessels.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 16446-16450
+  quote_or_summary: Each camp had a stout 12- to 20-foot post, notched for climbing,
+    with a crossbar near the top used as a seat or perch.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 16450-16453
+  quote_or_summary: The flat, low coast made the posts useful as lookout points for
+    seeing whale blowing or approaching ships.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 16453-16455
+  quote_or_summary: As the party passed by shore, each post was usually occupied by
+    a man waving his shirt to induce them to stop.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 16456-16458
+  quote_or_summary: From that area to Point Barrow were several similar summer camps
+    of two to ten lodges each.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 16458-16462
+  quote_or_summary: At Point Barrow, winter houses were half underground with long
+    tunnel-like entrances; whale ribs and jawbones were used for framing because driftwood
+    was scarce.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: 16462-16465
+  quote_or_summary: Meat storehouses were built nearly like winter houses but entered
+    only by roof trapdoor, making them half-underground cellars.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: 16466-16469
+  quote_or_summary: Platforms 6 to 8 feet above ground stored spears, nets, hunting
+    and household gear; during the August visit the inhabitants lived in conical lodges.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive ethnography with clear architectural and settlement
+    details. Motif candidates are practical patterns rather than mythic motifs. No
+    passage-supported comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs were applied; terms such as post, lodge, storehouse, platform, whale bones, and canvas are treated as literal passage objects rather than sacred symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l16438-l16469
+  passage_sha256=f7bfde8388f1338caf2aef98e092356cc266e6e06382ddb3bd6d9512363ab1c0
+

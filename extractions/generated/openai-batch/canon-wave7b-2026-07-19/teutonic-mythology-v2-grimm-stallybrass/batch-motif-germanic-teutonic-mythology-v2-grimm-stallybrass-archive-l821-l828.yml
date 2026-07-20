@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l821-l828
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: ELVES,   DWARFS.  447 / ELVES,   DWARFS.  .  449 / ELVES,   DWARFS.  451
+    / ELVES,   DWAEFS.  453; lines 821-828
+  start: '821'
+  end: '828'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists names and local traditions for earth-men or subterranean
+    spirits in several northern and eastern European contexts. It describes Wendish
+    gorzoni as hill-associated subterranean spirits who borrow baking utensils invisibly
+    from humans, return them in the evening, knock at the window, and leave a loaf
+    as thanks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage mentions earth-men called by the name ancefigers in Kindorm, while
+    noting uncertainty about the name.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In Prussian Samogitia, beings called “de underhordschkes” are mentioned, with
+    tales about them said to have been collected by Reusch.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Wends of Lüneburg called subterranean spirits gorzoni, glossed as hill-mannikins
+    from gora, meaning hill.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The hills haunted by the Wendish subterranean spirits are said to still be
+    shown.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the Wendish subterranean spirits wished to borrow baking utensils from
+    humans, they gave an unseen sign, and people placed the utensils outside the door.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the evening, the beings brought the utensils back, knocked at the window,
+    and added a loaf as thanks.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Esthonian mythology is said to have subterraneans called ma allused, described
+    as under ground.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: ancefigers / earth-men
+  description: Earth-men named ancefigers in Kindorm, though the author states uncertainty
+    about the name.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: de underhordschkes
+  description: Prussian Samogitian beings named in connection with collected tales.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: gorzoni
+  description: Wendish subterranean spirits of Lüneburg, glossed as hill-mannikins
+    and associated with haunted hills.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: ma allused
+  description: Esthonian subterraneans described as under ground.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: subterranean or earth beings
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage groups these named beings as earth-men, subterranean spirits,
+    or beings under ground.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: unseen borrowers of human utensils
+  assigned_to:
+  - fig:3
+  basis: The Wendish spirits give an unseen sign when they wish to borrow baking utensils
+    from people.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: returners with a thank-gift
+  assigned_to:
+  - fig:3
+  basis: The beings return the utensils in the evening and add a loaf by way of thanks.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: haunted hills
+  literal_form: hills haunted by the subterranean spirits
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: baking utensils
+  literal_form: baking utensils borrowed from humans
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: unseen sign
+  literal_form: a sign given without the beings being seen
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: door threshold
+  literal_form: utensils placed outside the door
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: window knock
+  literal_form: knocking at the window when returning the utensils
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: loaf of thanks
+  literal_form: a loaf added by way of thanks
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Names and locations of subterranean beings
+  summary: The passage lists several names for earth-men or subterranean beings across
+    Kindorm, Prussian Samogitia, Wendish Lüneburg, and Esthonian mythology.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Unseen borrowing and repayment
+  summary: The Wendish gorzoni invisibly signal to borrow baking utensils, humans
+    leave the utensils outside the door, and the beings return them in the evening
+    with a window knock and a loaf as thanks.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: subterranean or hill-haunting spirits
+  taxonomy_refs: []
+  basis: Multiple named beings are described as earth-men, subterranean spirits, hill-mannikins,
+    or under-ground beings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is comparative and lexical rather than a single full narrative.
+- id: motif:2
+  label: unseen supernatural borrowing from humans
+  taxonomy_refs: []
+  basis: The Wendish beings request baking utensils by giving a sign without being
+    seen, and people leave the utensils outside the door.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: Only one brief custom is described; no wider narrative context is supplied.
+- id: motif:3
+  label: reciprocal exchange with hidden beings
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The beings borrow human baking utensils, return them, and add a loaf as thanks.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy term is broad; the passage describes reciprocal
+    repayment but does not explicitly call the exchange sacred.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously aligns several local traditions by presenting earth-men,
+    Prussian Samogitian underhordschkes, Wendish gorzoni, and Esthonian ma allused
+    as named examples of subterranean or under-ground beings.
+  claim_level: same_function
+  target: subterranean beings in Kindorm, Prussian Samogitian, Wendish Lüneburg, and
+    Esthonian traditions
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives names, glosses, and one brief custom, but it does
+    not establish shared origin, historical contact, or full narrative equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 821-823
+  quote_or_summary: The author cannot yet explain the name ancefigers, by which earth-men
+    are called in Kindorm, and notes that ON. drvakr is hardly the same.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 823-824
+  quote_or_summary: The passage mentions Prussian Samogitian “de underhordschkes”
+    and refers to tales about them collected by Reusch.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 824-825
+  quote_or_summary: The Wends of Lüneburg called subterranean spirits gorzoni, glossed
+    as hill-mannikins from gora, hill; the hills they haunted are still shown.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 825-828
+  quote_or_summary: When the spirits wished to borrow baking utensils, they signaled
+    without being seen; people placed the utensils outside the door, and in the evening
+    the spirits brought them back, knocked at the window, and added a loaf as thanks.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: line 828
+  quote_or_summary: Esthonian mythology is also said to have subterraneans, ma allused,
+    meaning under ground.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief but clear about names, subterranean identity, hill association,
+    and the borrowing-repayment custom. Motif taxonomy mapping is limited because
+    most details do not correspond exactly to the supplied taxonomy refs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no historical-contact or common-inheritance claim is inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l821-l828
+  passage_sha256=ebecc5983ab5f8b48d831c2abdf647ae49c6adcccd0bbbc4d616c4c7b189a98b
+

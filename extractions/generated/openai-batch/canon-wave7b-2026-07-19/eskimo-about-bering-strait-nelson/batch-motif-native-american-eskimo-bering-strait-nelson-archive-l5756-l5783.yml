@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l5756-l5783
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: TRAYS    AND     BUCKETS    (ONE-FIFTH) / BUREAU   OF   AMERICAN    ETHNOLOGY
+    / EIGHTEENTH   ANNUAL   REPORT      PL.    XXXIII / IMPLEMENTS    AND    UTENSILS;
+    lines 5756-5783
+  start: '5756'
+  end: '5783'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Figure 6, from Norton sound, has one end terminating in a figure representing
+    the head of some animal
+  summary: 'A plate or section on implements and utensils describes three illustrated
+    specimens: one from Norton Sound with an animal-head terminal and etched side
+    patterns; another from Norton Sound made from curved deer antler and etched on
+    three sides; and one from Point Hope with a triangular cross section and scalloped
+    angles.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage belongs to a Bureau of American Ethnology annual report plate
+    or section headed as implements and utensils.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Figure 6 is from Norton Sound and has one end terminating in a representation
+    of an animal head, with etched lines and patterns along two sides.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Figure 4 is from Norton Sound and is described as a curved piece of deer antler,
+    quadrangular in outline, etched on three sides.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Figure 8 is from Point Hope and is triangular in cross section, with its angles
+    cut into scalloped outlines.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Figure 6 from Norton Sound
+  description: An illustrated specimen with one end shaped as a representation of
+    an animal head and etched lines and patterns along two sides.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Figure 4 from Norton Sound
+  description: An illustrated curved piece of deer antler, quadrangular in outline
+    and etched on three sides.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Figure 8 from Point Hope
+  description: An illustrated specimen triangular in cross section, with angles cut
+    into scalloped outlines.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: described plate specimen
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Each item is identified by figure number and described as part of a plate
+    or section on implements and utensils.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: animal-head-terminal decorated specimen
+  assigned_to:
+  - fig:1
+  basis: The specimen has an end terminating in a figure representing an animal head
+    and etched lines or patterns on two sides.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: etched deer-antler specimen
+  assigned_to:
+  - fig:2
+  basis: The specimen is a curved piece of deer antler and is etched on three sides.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: scalloped triangular specimen
+  assigned_to:
+  - fig:3
+  basis: The specimen is triangular in cross section and has scalloped outlines at
+    its angles.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: animal head representation
+  literal_form: figure representing the head of some animal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: etched lines and patterns
+  literal_form: etched lines and patterns along sides of specimens
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: deer antler
+  literal_form: curved piece of deer antler
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: scalloped outline
+  literal_form: angles cut into scalloped outlines
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Descriptive plate entries for implements and utensils
+  summary: The passage gives brief descriptive entries for three illustrated specimens,
+    noting their place associations, materials or forms, and decorative features.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal-head terminal on an implement or utensil specimen
+  taxonomy_refs: []
+  basis: One specimen is described as ending in a figure representing the head of
+    an animal.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage provides only a material description and does not state the
+    animal species, function, or symbolic meaning.
+- id: motif:2
+  label: etched and scalloped surface ornament on utilitarian specimens
+  taxonomy_refs: []
+  basis: The described specimens include etched lines or patterns on sides and scalloped
+    outlines at angles.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: This is a visual-pattern candidate only; the passage does not connect
+    these designs to a mythic motif or named symbolic tradition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5756-5768
+  quote_or_summary: Headings identify the material as from the Bureau of American
+    Ethnology, Eighteenth Annual Report, Plate XXXIII, under “IMPLEMENTS AND UTENSILS.”
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation or summary used for extraction.
+- id: ev:2
+  type: quote
+  locator: 5770-5773
+  quote_or_summary: "“Figure 6, from Norton sound, has one end terminating in a figure
+    representing the head of some animal and with etched lines and patterns along
+    two sides.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:3
+  type: quote
+  locator: 5775-5777
+  quote_or_summary: "“Figure 4, from Norton sound, is a curved piece of deer antler,
+    quadrangular in outline and etched on three of its sides.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:4
+  type: quote
+  locator: 5779-5781
+  quote_or_summary: "“Figure 8, from Point Hope, is triangular in cross section, with
+    the angles cut into scalloped outlines.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The artifact descriptions are clear, but the passage contains no mythic narrative
+    and gives no explicit symbolic interpretation or comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by the passage; taxonomy reference arrays are therefore empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l5756-l5783
+  passage_sha256=7cf9887809464ef9fdf464b0ee354ea1f01ca2a5667d45acd395367e8ff1bf0e
+

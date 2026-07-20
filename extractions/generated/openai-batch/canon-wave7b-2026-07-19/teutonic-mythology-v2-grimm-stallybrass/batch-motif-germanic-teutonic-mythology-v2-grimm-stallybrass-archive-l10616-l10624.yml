@@ -1,0 +1,199 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l10616-l10624
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: TSEES.  653 / ANIMALS.  655 / HORSES.  657 / HORSES.  659; lines 10616-10624
+  start: '10616'
+  end: '10624'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage links the turning of an eagle's head on a house with an attempt
+    to shift the wind, and states that a heathen practice of fastening up animals'
+    heads explains old place names in Germany and France, including horse-head place
+    names. It also rejects a later hagiographic explanation of one such horse-head
+    name as false and notes interpolations in the Life of St. Magnus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An eagle's head is described as being turned on a house, with the purpose
+    of shifting the wind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A heathen practice is described as fastening up animals' heads.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The practice is said to explain many old place names in Germany and France.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Examples of place names or cited place designations include Berhaupten, Tierhaupten,
+    Roshaupten, caput caballinum, and caput equi.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: A later explanation says the place was called horse's head because hunters
+    had left their horses there and gone hunting on foot.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author calls the later explanation false and notes interpolations in the
+    Life of St. Magnus.
+  category: other
+  evidence_refs:
+  - ev:4
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: eagle's head
+  literal_form: an eagle's head on a house
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fastened animal heads
+  literal_form: animals' heads fastened up
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: horse head place-name
+  literal_form: caput caballinum / caput equi; horse-head place designation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Turning an eagle's head to shift wind
+  summary: An eagle's head on a house is turned as an action thought to alter the
+    wind.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animal-head place-name explanation
+  summary: The passage connects a heathen practice of fastening up animals' heads
+    with old German and French place names, especially horse-head designations.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal head used in weather-working
+  taxonomy_refs: []
+  basis: The passage says an eagle's head on a house was turned in order to shift
+    the wind.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage reports the practice briefly and does not describe ritual
+    procedure beyond turning the head.
+- id: motif:2
+  label: fastened animal heads as place-name origin
+  taxonomy_refs: []
+  basis: The passage states that fastening up animals' heads explains old place names
+    in Germany and France, including horse-head designations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an antiquarian interpretation and does not provide direct
+    narrative context for the original practice.
+- id: motif:3
+  label: rejected later etiological explanation of horse-head place name
+  taxonomy_refs: []
+  basis: A later account explains a horse-head place name by hunters leaving horses
+    there, but the author rejects this as a false later interpretation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a motif of textual explanation or etiology rather than a mythic
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats German and French place names involving animal or horse
+    heads as belonging to a shared naming pattern connected with fastened animal heads.
+  claim_level: same_motif
+  target: German and French animal-head or horse-head place-name pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The comparison is made within the antiquarian argument of the passage;
+    the cited hagiographic horse-name explanation is explicitly rejected as a later
+    false interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10616-10617
+  quote_or_summary: An eagle's head on a house was turned and thereby thought to shift
+    the wind.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10617-10619
+  quote_or_summary: The passage describes a heathen practice of fastening up animals'
+    heads and says it explains many very old place names in Germany and France, listing
+    Berhaupten, Tierhaupten, and Roshaupten.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10619-10622
+  quote_or_summary: The passage cites Latin place designations meaning horse's head,
+    including caput caballinum and caput equi, and reports an added explanation that
+    the place was so called because hunters left their horses there and went hunting
+    on foot.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 10622-10624
+  quote_or_summary: "“Obviously a false later interpretation”; the passage also states
+    that the Life of St. Magnus has many interpolations."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear about animal-head practices and place-name interpretation,
+    but the broader ritual or mythic context is not fully described in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference directly matches eagle heads, horse heads, or animal-head place-name practices, so taxonomy_refs are left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l10616-l10624
+  passage_sha256=04dd061c31963f00cdfa6d4ff73611b9980e643e4329b02b7a256b4b0cbdafb9
+

@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l8202-l8216
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: SCRAPING STICK / RATTLES / MUSICAL INSTRUMENTS / KICKING-BALX. RACES; lines
+    8202-8216
+  start: '8202'
+  end: '8216'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Pima kicking-ball foot races as often intertribal,
+    especially against Papago competitors, and says the practice is widespread in
+    the Southwest, with some races exceeding twenty miles. It also describes the kicking
+    ball as wood, croquet-ball sized, and commonly coated with creosote gum, followed
+    by a corrupted note about a willow stick and paired balls connected by a leather
+    thong.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kicking-ball races are described as frequently intertribal.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In contests with the Papagos, the Pimas are said to have nearly always won.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The use of balls in foot races is described as very widespread in the Southwest.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some reported races exceed twenty miles in length.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A wooden kicking ball is described as resembling a croquet ball in size and
+    as usually coated with creosote gum.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage includes a note-like description of a willow stick in a collection,
+    with measurements given.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The same note-like passage describes balls in pairs, separated by a short
+    distance and connected by a four-strand, two-ply leather thong, with the balls
+    as knotty enlargements of the thong.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pimas
+  description: A named people participating in kicking-ball race contests and described
+    as usually winning against the Papagos.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Papagos
+  description: A named people who competed with the Pimas in kicking-ball race contests.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: intertribal kicking-ball race competitors and frequent winners
+  assigned_to:
+  - fig:1
+  basis: The passage says Pima contests with the Papagos were frequent and that the
+    Pimas nearly always won.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: intertribal kicking-ball race competitors
+  assigned_to:
+  - fig:2
+  basis: The passage names the Papagos as competitors in contests with the Pimas.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: kicking ball
+  literal_form: Wooden ball used in foot races, compared in size to a croquet ball
+    and usually coated with creosote gum.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: creosote gum coating
+  literal_form: Creosote gum applied as a coating to the wooden kicking ball.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: willow stick in collection
+  literal_form: A willow stick described with length and diameter measurements in
+    the note-like portion of the passage.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: paired thong-connected balls
+  literal_form: Balls in pairs connected by a four-strand, two-ply leather thong,
+    described as knotty enlargements of the thong.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Intertribal and regional kicking-ball foot races
+  summary: The passage presents kicking-ball foot races as frequent intertribal contests,
+    names Pima contests with Papagos, and notes the wider Southwestern distribution
+    of the practice and long race distances.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Material description of race objects and related collection items
+  summary: The passage describes the wooden kicking ball’s size and creosote gum coating,
+    then gives a corrupted note-like description of a willow stick and paired balls
+    connected by a leather thong.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: intertribal kicking-ball foot race
+  taxonomy_refs: []
+  basis: The passage describes kicking-ball races as frequently intertribal and identifies
+    Pima-Papago contests.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic sport or game pattern rather than a mythic narrative
+    motif in the supplied passage.
+- id: motif:2
+  label: long-distance ball race
+  taxonomy_refs: []
+  basis: The passage says balls are used in foot races across the Southwest and that
+    some races exceed twenty miles.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives no mythological interpretation or ritual function for
+    the race.
+- id: motif:3
+  label: specialized race object with gum coating
+  taxonomy_refs: []
+  basis: The kicking ball is described as a wooden, croquet-ball-sized object usually
+    covered with creosote gum.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a material-culture pattern; symbolic significance is not stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents kicking-ball foot racing as a shared Southwestern
+    practice and includes Pima contests with Papagos as a specific intertribal example.
+  claim_level: same_function
+  target: Papago and wider Southwestern kicking-ball foot-race practices
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only a brief ethnographic generalization and does
+    not supply detailed parallel narratives, ritual contexts, or historical transmission
+    evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8202-8205
+  quote_or_summary: The section introduces kicking-ball races, says they were frequently
+    intertribal, and states that the Pimas nearly always won contests with the Papagos.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 8205-8208
+  quote_or_summary: The passage states that using balls in foot races is widespread
+    in the Southwest and that races exceeding twenty miles are still reported.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 8210-8212
+  quote_or_summary: The wooden kicking ball is described as about the size of a croquet
+    ball and usually coated with creosote gum.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 8212-8216
+  quote_or_summary: A corrupted note describes a willow stick with measurements and
+    paired balls connected by a four-strand, two-ply leather thong, with the balls
+    formed as knotty enlargements.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized; text appears OCR-corrupted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core race details are clear, but the final note-like object description contains
+    OCR corruption and may refer to nearby material-culture entries rather than the
+    kicking-ball race itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol refs were assigned because the passage does not support the listed mythic categories such as serpent, flood, tree, or sacred exchange.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l8202-l8216
+  passage_sha256=77e49b44c6afc1c8ca3e34099ba1cdde3e5bef90e20b19d145251937ca6abb38
+

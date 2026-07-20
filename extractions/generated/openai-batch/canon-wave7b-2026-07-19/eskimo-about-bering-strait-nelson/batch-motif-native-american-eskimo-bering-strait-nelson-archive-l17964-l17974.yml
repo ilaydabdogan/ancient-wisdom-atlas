@@ -1,0 +1,198 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l17964-l17974
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: SWEAT   BATHS / THE    ESKIMO    ABOUT    BERING    STRAIT / DWELLING   HOUSES
+    / NATAL    CUSTOMS  '289; lines 17964-17974
+  start: '17964'
+  end: '17974'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes domestic provisions stored at one side of a platform
+    or in a room corner. When a meal is to be prepared, a fire is made in the middle
+    of the room, food is prepared, and each woman puts portions into wooden dishes,
+    carries them to the kashim, and sets them beside the husband, father, or other
+    person for whom she has provided.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Seal oil, dried salmon, and other domestic articles are stored at one side
+    of a platform or in a room corner reserved for that purpose.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For meal preparation, a fire is built in the middle of the room.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Food is made ready after the fire is built.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Each woman places a quantity of food into one or more wooden dishes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Each woman takes the prepared food to the kashim and sets it beside her husband,
+    father, or another person for whom she has provided.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: women
+  description: Women place portions of prepared food in wooden dishes and carry them
+    to the kashim.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: husband, father, or other provided-for person
+  description: Recipients beside whom the women set the prepared food in the kashim.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: food preparer and provider
+  assigned_to:
+  - fig:1
+  basis: The passage says each woman places prepared food in dishes and takes it to
+    the kashim for a specified person.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: meal recipient
+  assigned_to:
+  - fig:2
+  basis: The passage names the husband, father, or whoever the woman has provided
+    for as the person beside whom the food is set.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: A fire built in the middle of the room for preparing a meal.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wooden dishes
+  literal_form: One or more wooden dishes used to carry portions of prepared food.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: kashim
+  literal_form: The destination to which women bring the prepared food and where it
+    is set beside recipients.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: storage of domestic provisions
+  summary: Foodstuffs and domestic articles are kept at one side of the platform or
+    in a corner of the room reserved for storage.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: meal preparation and delivery to the kashim
+  summary: A fire is made in the middle of the room, food is prepared, and women carry
+    portions in wooden dishes to the kashim for husbands, fathers, or other provided-for
+    persons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: kin-based meal provisioning in a communal place
+  taxonomy_refs: []
+  basis: The passage presents a repeated custom in which each woman prepares and carries
+    food to the kashim and places it beside the husband, father, or other person she
+    has provided for.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic domestic custom rather than a myth narrative;
+    no broader mythological taxonomy match is directly supported by the passage.
+- id: motif:2
+  label: central hearth for food preparation
+  taxonomy_refs: []
+  basis: Meal preparation begins with a fire built in the middle of the room, after
+    which the food is made ready.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a practical domestic sequence and does not state a ritual
+    or cosmological meaning for the central fire.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17964-17968
+  quote_or_summary: Seal oil, dried salmon, and other domestic articles are kept at
+    one side of the platform or in a room corner reserved for that purpose.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: quote
+  locator: lines 17969-17971
+  quote_or_summary: "“a fire is built in the middle of the room and the food made
+    ready”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 17971-17974
+  quote_or_summary: Each woman puts a portion of food into one or more wooden dishes,
+    takes it to the kashim, and sets it beside her husband, father, or other provided-for
+    person.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are conservative
+    because the passage is ethnographic and practical, with no explicit mythic or
+    comparative interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a comparative link to another motif family, text, or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l17964-l17974
+  passage_sha256=ab84053a07292b4cc2752876f3bcf898b49c8fa66d8fe7f4228d077b4cc74b78
+

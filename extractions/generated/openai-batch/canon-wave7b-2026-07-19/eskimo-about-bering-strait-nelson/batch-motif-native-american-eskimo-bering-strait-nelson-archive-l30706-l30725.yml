@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l30706-l30725
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE   STRANGE   BOY / THE    OWL,    GIRL / TALE    OF   AK'-CHIK-CHU'-GUK
+    / THE   DISCONTENTED    GRASS   PLANT; lines 30706-30725
+  start: '30706'
+  end: '30725'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"You are no more my brother."'
+  summary: On a calm day, the householder and Chim-uh'-luk paddle kaiaks far out to
+    sea and race back to shore. After they reach the beach together, the householder
+    angrily disowns him as a brother and they separate. As they go, one changes into
+    a Wolverine and the other into a Gray Wolf; they are said still to wander in the
+    same country but never together.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The day is described as calm and bright.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The householder asks Chim-uh'-luk whether he can paddle a kaiak, and Chim-uh'-luk
+    says he thinks he can.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The householder leads Chim-uh'-luk to kaiaks on the shore, and each gets into
+    one.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Chim-uh'-luk initially has trouble keeping his kaiak steady but soon controls
+    it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The two paddle far out to sea and then turn back when the shore is very distant.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The householder proposes a race to see who can reach the shore first.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The two kaiaks reach shore at nearly the same moment, and the two figures
+    spring up the beach together.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The householder angrily tells Chim-uh'-luk that he is no longer his brother
+    and directs them to go in different directions.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The two turn their backs to each other and separate angrily.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: As they go, Chim-uh'-luk changes into a Wolverine and his brother becomes
+    a Gray Wolf.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage states that Wolverine and Gray Wolf are still found in the same
+    country but never together.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Chim-uh'-luk / Chuii-uh'-luk
+  description: A figure named with variant spellings in the passage, who learns to
+    control a kaiak, races the householder, is disowned as a brother, separates angrily,
+    and changes into a Wolverine.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: householder / brother
+  description: The householder asks Chim-uh'-luk to paddle, races him, angrily says
+    he is no longer his brother, separates from him, and becomes a Gray Wolf.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: kaiak paddler
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures get into kaiaks and paddle far out to sea and back.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: rival in race
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The householder proposes a race to shore, and the passage calls them rivals
+    as they reach the beach together.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: brother
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The householder says Chim-uh'-luk is no longer his brother, and the narration
+    later calls the householder his brother.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: transformed into Wolverine
+  assigned_to:
+  - fig:1
+  basis: The passage says Chim-uh'-luk changed into a Wolverine.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: transformed into Gray Wolf
+  assigned_to:
+  - fig:2
+  basis: The passage says his brother became a Gray Wolf.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: kaiak
+  literal_form: kaiak
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: sea
+  literal_form: sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: shore / beach
+  literal_form: shore and beach
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Wolverine
+  literal_form: Wolverine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Gray Wolf
+  literal_form: Gray Wolf
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: turned backs
+  literal_form: turning their backs to each other
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Kaiaks on a calm day
+  summary: The householder asks whether Chim-uh'-luk can paddle, leads him to kaiaks
+    on the shore, and both set out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Paddling far out and racing back
+  summary: After Chim-uh'-luk learns to control his kaiak, the two paddle far out
+    to sea and race back to the shore, arriving together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Brotherhood broken
+  summary: The householder angrily tells Chim-uh'-luk he is no longer his brother;
+    they turn away from each other and separate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Transformation into animals
+  summary: As they go, Chim-uh'-luk becomes a Wolverine and his brother becomes a
+    Gray Wolf; the passage explains their continued separation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: human figures transformed into animals
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage states that Chim-uh'-luk changes into a Wolverine and his brother
+    becomes a Gray Wolf.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the transformation directly but does not explain its
+    mechanism.
+- id: motif:2
+  label: estranged brothers
+  taxonomy_refs:
+  - sibling_pair
+  basis: The householder disowns Chim-uh'-luk as a brother, and the two turn their
+    backs and separate angrily.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The exact nature of their kinship before the disowning is not elaborated
+    in this passage.
+- id: motif:3
+  label: contest ending in rupture
+  taxonomy_refs: []
+  basis: A race back to shore ends in a tie or simultaneous arrival, followed by anger
+    and separation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly state why the race result causes the rupture.
+- id: motif:4
+  label: etiology of animal separation
+  taxonomy_refs: []
+  basis: After the two figures become Wolverine and Gray Wolf, the passage says they
+    are still found in the same country but never together.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No specific taxonomy reference for etiological animal behavior was supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30706-30710
+  quote_or_summary: On a calm bright day, the householder asks Chim-uh'-luk if he
+    can paddle a kaiak, leads him to kaiaks on the shore, and gets into one while
+    telling him to follow in another.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 30710-30713
+  quote_or_summary: Chim-uh'-luk first has trouble steadying his kaiak, then learns
+    to control it; the two paddle far out to sea and turn back when shore is distant.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 30713-30717
+  quote_or_summary: The householder proposes a race to shore; the kaiaks alternately
+    gain advantage and finally run ashore together, with the rivals springing up the
+    beach at the same moment.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 30717-30722
+  quote_or_summary: The householder says, "You are no more my brother," tells him
+    to go in one direction while he goes in another, and they turn their backs to
+    each other and separate angrily.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 30722-30725
+  quote_or_summary: As they go, Chim-uh'-luk changes into a Wolverine and his brother
+    becomes a Gray Wolf; they are said to wander in the same country but never together.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The basic sequence and figures are explicit. Motif classification is cautious,
+    especially for the contest and etiology motifs. No external comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. OCR variants in the figure name were preserved in a combined label rather than normalized beyond the passage evidence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l30706-l30725
+  passage_sha256=d3a45a905151063be8dda52c1b188bac375b8ae3121ee2215ea0b5bebbf9d77b
+

@@ -1,0 +1,200 @@
+---
+record_id: batch.motif.greek-modern-greek-folklore-lawson-gutenberg-l23243-l23412
+source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+passage_locator:
+  label: 'FOOTNOTES: / CHAPTER VI. / THE BENEFIT OF DISSOLUTION. / FOOTNOTES:; lines
+    23243-23412'
+  start: '23243'
+  end: '23412'
+  translation: 'Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The author states that Greek treatment of the dead, from the Pelasgian
+    age to the present, has sought to benefit the dead through dissolution of their
+    bodies, understood as enabling body and soul to reunite and bodily life to resume
+    after death had suspended it. The remainder of the passage is a footnote block
+    citing ancient, Christian, and modern sources used in the chapter.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author describes a trend of religious thought guiding Greek treatment
+    of the dead from the Pelasgian age to the author's present.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The benefit sought for the dead is said to be achieved by dissolution of their
+    bodies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stated purpose of bodily dissolution is the reunion of body with soul.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Death is described as having suspended active bodily life for a time.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The footnotes cite ancient Greek authors, Christian patristic sources, and
+    modern ethnographic or linguistic sources concerning death, future life, offerings,
+    and funeral customs.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Greek people
+  description: Collective group whose treatment of the dead is described as guided
+    by a long-standing religious trend.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the dead
+  description: Collective recipients of the intended benefit of bodily dissolution.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: funerary actors
+  assigned_to:
+  - fig:1
+  basis: The passage says the Greek people acted in their treatment of the dead.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beneficiaries of funerary treatment
+  assigned_to:
+  - fig:2
+  basis: The passage says the benefit of dissolution was sought for the dead.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: body
+  literal_form: bodies of the dead
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: soul
+  literal_form: soul reunited with body
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Benefit of dissolution
+  summary: The author summarizes a funerary conception in which bodily dissolution
+    benefits the dead by allowing body and soul to reunite and active bodily life
+    to resume.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Body-soul reunion after death
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly says bodily dissolution is intended to reunite body
+    and soul and restore active bodily life after death.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives this as the author's interpretive synthesis rather than
+    as a narrated mythic episode.
+- id: motif:2
+  label: Funerary dissolution as benefit to the dead
+  taxonomy_refs: []
+  basis: The passage states that dissolution of the body is a benefit sought for the
+    dead.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No detailed ritual procedure is described in this excerpt.
+- id: motif:3
+  label: Death as temporary suspension of life
+  taxonomy_refs:
+  - death_rebirth
+  basis: Death is characterized as having suspended active bodily life only for a
+    time, with resumption anticipated through body-soul reunion.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage uses this framing in a funerary-theological argument, not
+    in a full death-and-rebirth narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the same funerary function—benefiting the dead by enabling
+    body-soul reunion and resumed bodily life—as extending across Greek tradition
+    from the Pelasgian age to the author's present.
+  claim_level: same_function
+  target: Greek treatment of the dead from the Pelasgian age to modern Greek practice
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a broad authorial synthesis in the passage; the excerpt itself
+    does not provide separate narrated examples for each period.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23243-23248
+  quote_or_summary: The author states that Greek treatment of the dead from the Pelasgian
+    age to the present sought, through bodily dissolution, to reunite body and soul
+    and resume bodily life after death's temporary suspension.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 23250-23334
+  quote_or_summary: Footnotes cite Plato, Homer, Pindar, Herodotus, Aristophanes,
+    Euripides, and other sources concerning soul, future life, lower-world imagery,
+    and ancient Greek evidence.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 23335-23412
+  quote_or_summary: Footnotes cite sources on offerings to the dead, funeral meals,
+    Christian practices, modern Greek terminology, and commemorative rites.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main claim is explicit, but the passage is primarily a conclusion plus
+    footnotes rather than a narrative myth or detailed ritual description.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional taxonomy symbols were assigned because the passage does not mention the available symbol refs such as cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-modern-greek-folklore-lawson-gutenberg__l23243-l23412
+  passage_sha256=034a43b38b2b33ef90a286bddd183a492a66a063385a9f7e8a01d9e0f3be316c
+

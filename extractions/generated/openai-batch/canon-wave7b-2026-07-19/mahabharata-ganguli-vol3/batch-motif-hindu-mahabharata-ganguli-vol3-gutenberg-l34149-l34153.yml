@@ -1,0 +1,146 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l34149-l34153
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION XCIX / SECTION C / SECTION CI / SECTION CII; lines 34149-34153
+  start: '34149'
+  end: '34153'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Yudhishthira said. "What are the well-known indications... of the (future)
+    success of an army? I desire to know them."
+  summary: Yudhishthira asks an addressee called “bull of Bharata's race” to explain
+    the well-known signs that indicate an army’s future success.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies Yudhishthira as the speaker.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira asks about well-known indications of an army’s future success.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressee is addressed by the epithet “bull of Bharata's race.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yudhishthira states that he desires to know these indications.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who asks about signs of future military success.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Unnamed addressee, called “bull of Bharata's race”
+  description: The person addressed by Yudhishthira with an honorific epithet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioner seeking knowledge
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks what the indications of future army success are and says
+    he desires to know them.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: honored addressee
+  assigned_to:
+  - fig:2
+  basis: The addressee is directly addressed as “O bull of Bharata's race.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bull epithet
+  literal_form: "“bull of Bharata's race”"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: army
+  literal_form: army
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Yudhishthira asks about signs of military success
+  summary: Yudhishthira asks an honored addressee to tell him the recognized indications
+    that predict the future success of an army.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: request for prognostic knowledge about victory
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on a question seeking knowledge of recognized signs that
+    foretell an army’s success.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only a question; it does not yet provide the signs or describe
+    their interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 34149-34151
+  quote_or_summary: SECTION CII; “Yudhishthira said.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: 34151-34153
+  quote_or_summary: "“What are the well-known indications, O bull of Bharata's race,
+    of the (future) success of an army? I desire to know them.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but the passage is very brief
+    and contains only the question, so motif assignment is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external context was used; the addressee is left unnamed because the supplied passage does not identify them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l34149-l34153
+  passage_sha256=89c4a21de649e1c60d2d6f5b9da0ecfa04412f65d3736118d517fe5ad49fa787
+

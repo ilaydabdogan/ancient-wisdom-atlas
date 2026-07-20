@@ -1,0 +1,482 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l8942-l9123
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER VI. 5-16 51 / CHAPTER VI. 17-23 53 / CHAPTER VI. 24-31 55 / CHAPTER
+    VI. 32-36 57; lines 8942-9123
+  start: '8942'
+  end: '9123'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: on the heavenly tables the division of days is ordained
+  summary: The passage describes a 364-day year as the correct complete year, warns
+    that neglecting this order will disturb seasons and feasts, grounds the calendar
+    in a written book and heavenly tables, opposes lunar observation for determining
+    seasons, and commands the addressee to testify to future generations.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A complete year is described as three hundred and sixty-four days, preserving
+    days and feasts without disturbance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If the commandment is neglected, the seasons and years are said to be disturbed
+    and dislodged from their order.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The children of Israel are said to forget the path of the years, new moons,
+    seasons, and sabbaths, and to go wrong regarding the yearly order.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says the teaching is not self-devised but written in a book before
+    him and ordained on heavenly tables.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the heavenly division of days is meant to prevent forgetting
+    the feasts of the covenant and following Gentile feasts.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Those who observe the moon are said to disturb the seasons because the moon
+    comes in ten days too soon from year to year.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says calendar disturbance will confound holy and unclean days,
+    months, sabbaths, feasts, and jubilees.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The speaker commands and testifies to the addressee so that the addressee
+    may testify to others.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage predicts that after the addressee's death, the addressee's children
+    will fail to make the year three hundred and sixty-four days only and will eat
+    blood with flesh.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The speaker declares knowledge, says it is not of his own devising,
+    and commands and testifies to the addressee.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: addressee
+  description: The addressee is commanded to testify to others about the calendrical
+    teaching.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: children of Israel
+  description: The children of Israel are described as future forgetters of the correct
+    order of years, seasons, sabbaths, and feasts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Gentiles
+  description: Gentiles are associated with feasts followed in error and ignorance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: observers of the moon
+  description: A future group is described as making observations of the moon, thereby
+    disturbing the seasons.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: children of the addressee
+  description: After the addressee's death, his children are predicted to disturb
+    the calendar and fail to keep the 364-day year.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: revealing witness and commander
+  assigned_to:
+  - fig:1
+  basis: The speaker declares the teaching, cites written and heavenly authority,
+    and commands the addressee to testify.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:2
+  label: recipient and future testifier
+  assigned_to:
+  - fig:2
+  basis: The addressee receives the command so that he may testify to others.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: community at risk of forgetting sacred time
+  assigned_to:
+  - fig:3
+  basis: The children of Israel are said to forget the path of years and go wrong
+    regarding calendrical order.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: foreign calendrical model
+  assigned_to:
+  - fig:4
+  basis: The passage contrasts the feasts of the covenant with the feasts of the Gentiles
+    in error and ignorance.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: lunar-calendar practitioners
+  assigned_to:
+  - fig:5
+  basis: Those making observations of the moon are said to disturb the seasons.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: future transgressing descendants
+  assigned_to:
+  - fig:6
+  basis: After the addressee's death, his children are predicted to disturb the 364-day
+    year and go wrong regarding sacred times.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: 364-day year
+  literal_form: numbered calendrical year of three hundred and sixty-four days
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: heavenly tables
+  literal_form: heavenly tablets or tables on which the division of days is ordained
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: written book
+  literal_form: book written before the speaker
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: moon
+  literal_form: moon observed for calendrical reckoning
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: covenant feasts and sacred times
+  literal_form: new moons, seasons, sabbaths, feasts, festivals, and jubilees
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: holy and unclean days
+  literal_form: days classified as holy, unclean, abominable, or feast days
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ordained complete year
+  summary: The passage states that a 364-day year preserves its days and feasts without
+    disturbing their appointed times.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Forgetting the order of years
+  summary: Neglect of the commandment is followed by disturbed seasons, dislodged
+    years, and Israel's forgetting of new moons, seasons, sabbaths, and yearly order.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Heavenly written authority for the calendar
+  summary: The speaker grounds the division of days in a written book and heavenly
+    tables and contrasts covenant feasts with Gentile feasts.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Moon observation and calendrical confusion
+  summary: Future moon observation is said to disturb the seasons, confound holy and
+    unclean days, and lead to error in months, sabbaths, feasts, and jubilees.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Command to testify before future disturbance
+  summary: The speaker commands the addressee to testify because the addressee's children
+    are predicted to disturb the 364-day calendar after his death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: covenantal sacred calendar
+  taxonomy_refs:
+  - covenant
+  - seasonal_cycle
+  basis: The passage treats the 364-day calendar as commanded, tied to covenant feasts,
+    and necessary for preserving sabbaths, feasts, and jubilees.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage is primarily calendrical admonition rather than a narrative
+    myth episode.
+- id: motif:2
+  label: heavenly tablets as authority for sacred order
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker says the teaching is not self-devised but comes from a written
+    book and heavenly tables where the division of days is ordained.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no specific 'heavenly tablets' symbol; classification
+    under wisdom is broad.
+- id: motif:3
+  label: lunar reckoning as disruption of sacred time
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage says observation of the moon causes the seasons to be disturbed
+    and leads to confusion between holy and unclean days.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a polemical calendrical claim within the text, not an independent
+    astronomical description.
+- id: motif:4
+  label: boundary between covenant feasts and foreign error
+  taxonomy_refs:
+  - covenant
+  - duality
+  basis: The passage contrasts feasts of the covenant with feasts of the Gentiles
+    and contrasts holy and unclean days.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The duality classification is limited to the passage's ritual contrast,
+    not a developed cosmic dualism.
+- id: motif:5
+  label: flood chronology as calendar authority
+  taxonomy_refs:
+  - flood_and_renewal
+  - seasonal_cycle
+  basis: The editorial note states that the authors of Enoch or Jubilees may have
+    found the 364-day year in the Genesis flood account and that the flood would last
+    one solar year.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: This motif is based on the edition's commentary, not on the primary verse
+    text in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note compares this passage's 364-day year with the Genesis
+    flood chronology, suggesting the flood account functioned as an inspired authority
+    for the solar year scheme.
+  claim_level: same_function
+  target: Genesis flood account as calendrical authority
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is presented in commentary as a scholarly reconstruction,
+    not as an explicit statement in the primary verses.
+- id: claim:2
+  claim: The editorial note links the passage with Enochic calendrical material and
+    describes a shared or contested tradition about the 364-day year and the role
+    of sun and moon in determining sacred times.
+  claim_level: same_function
+  target: Ethiopic Enoch calendrical passages, especially Enoch 82:4-6 and 73-74
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison depends on the editor's textual and interpretive notes;
+    the primary passage itself names neither Enoch nor the cited chapters.
+- id: claim:3
+  claim: The editorial note contrasts this text's solar reckoning with a Samaritan
+    Chronicle position that reckoning should use both sun and moon.
+  claim_level: same_function
+  target: Samaritan Chronicle calendrical interpretation of Genesis 1:14
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an editorial comparison to a later interpretive tradition and
+    is not part of the primary Jubilees speech.
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER VI.32
+  quote_or_summary: A 364-day year is said to constitute a complete year, preserving
+    days and feasts without disturbance.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: CHAPTER VI.33-34
+  quote_or_summary: Neglect of the commandment will disturb seasons and dislodge years;
+    Israel will forget the path of years, new moons, seasons, and sabbaths.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: CHAPTER VI.35
+  quote_or_summary: '"the book (lies) written before me, and on the heavenly tables
+    the division of days is ordained"'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: CHAPTER VI.35
+  quote_or_summary: The heavenly tables are cited so that the people do not forget
+    the feasts of the covenant or walk according to the feasts of the Gentiles in
+    error and ignorance.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: CHAPTER VI.36
+  quote_or_summary: Future observers of the moon are said to disturb the seasons because
+    the moon comes in from year to year ten days too soon.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: CHAPTER VI.37
+  quote_or_summary: Calendar disturbance will make an abominable day a day of testimony,
+    an unclean day a feast day, and will confound holy and unclean days, months, sabbaths,
+    feasts, and jubilees.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: CHAPTER VI.38
+  quote_or_summary: The speaker commands and testifies to the addressee so the addressee
+    may testify; after the addressee's death, his children will disturb the 364-day
+    year and go wrong regarding sacred times and eating blood.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: editorial note following CHAPTER VI.35
+  quote_or_summary: The editor states that Enoch or Jubilees may have derived the
+    364-day year from the Genesis flood account and that the flood would last one
+    solar year from beginning to close.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized commentary.
+- id: ev:9
+  type: summary
+  locator: editorial note on CHAPTER VI.36
+  quote_or_summary: The editor says the author opposes using the moon to determine
+    seasons and feasts, compares Enochic calendrical passages, notes a lunar year
+    of 354 days, and mentions a Samaritan Chronicle position using both sun and moon.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized commentary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Primary observations are clear for Jubilees VI.32-38. Motif labels are strongest
+    for covenantal sacred calendar and lunar disruption. Comparison claims rely on
+    supplied editorial notes and therefore need review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Commentary-based evidence is explicitly marked as editorial rather than primary verse text.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l8942-l9123
+  passage_sha256=073a41af150160991ad1cd5c4cdb3546c715b5f822c1279cad20ce8688383039
+

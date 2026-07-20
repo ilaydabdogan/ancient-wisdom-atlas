@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l34836-l34862
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: METRIC  UNIT  OF  DRUM  (TEMPO) / COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM
+    / SONGS  CONNECTED  WITH  DANCES  AND  GAMES / THE    GRASS  DANCE; lines 34836-34862
+  start: '34836'
+  end: '34862'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a photograph of an older form of a dance identified
+    by Mr. Higheagle, noting that some older dance features have changed. It then
+    describes an instrument connected with the dance, called an elk whistle, gives
+    alternate Santee and Yanktonais naming information as reported by Mr. Higheagle,
+    and states that the whistle was made from small straight branches of a tree with
+    large pith.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A view from a photograph taken several years earlier on the reservation was
+    identified by Mr. Higheagle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The view is said to present older features of the dance that had been changed
+    by the present generation.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An instrument used with the dance is called an elk whistle.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mr. Higheagle reports that the Santee and Yanktonais call the instrument by
+    a name glossed as referring to large pith.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The whistle was made from small, straight branches of a tree having large
+    pith.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mr. Higheagle
+  description: Person who identified the photograph and supplied information about
+    the instrument name.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Santee and Yanktonais
+  description: Groups named as using an alternate term for the elk whistle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: identifier and informant
+  assigned_to:
+  - fig:1
+  basis: The passage says Mr. Higheagle identified the photograph and states naming
+    information for the instrument.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: groups associated with instrument name
+  assigned_to:
+  - fig:2
+  basis: The passage reports that the instrument is called by a particular term by
+    the Santee and Yanktonais.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: elk whistle
+  literal_form: Instrument used in connection with the dance, called an elk whistle.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: large-pith tree branch
+  literal_form: Small, straight branches of a tree having large pith, used to make
+    the whistle.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Photograph of older dance features
+  summary: A photograph taken years earlier on the reservation is identified by Mr.
+    Higheagle and presented as preserving older features of the dance that had changed.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of the elk whistle
+  summary: The passage identifies an elk whistle as an instrument connected with the
+    dance, reports alternate naming among the Santee and Yanktonais, and describes
+    its manufacture from large-pith tree branches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dance-associated whistle made from tree branch
+  taxonomy_refs: []
+  basis: The passage describes a whistle used in connection with a dance and made
+    from small straight branches of a tree with large pith.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic object-pattern rather than a narrative myth motif;
+    no broader taxonomy family is directly supported by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 34836-34840
+  quote_or_summary: A photograph taken several years earlier on the reservation was
+    identified by Mr. Higheagle and is said to show older features of the dance that
+    had changed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 34841-34843
+  quote_or_summary: "“An instrument used in connection with this dance is called an
+    elk whistle.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 34842-34845
+  quote_or_summary: Mr. Higheagle states that the instrument is called by the Santee
+    and Yanktonais by a term glossed as meaning large pith.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 34845-34847
+  quote_or_summary: The whistle was made from small, straight branches of a tree with
+    large pith.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is fragmentary and includes OCR noise, but the main descriptive
+    claims about the photograph, instrument name, and construction material are clear.
+    No comparison claims are made because the passage itself does not support a comparative
+    mythology claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned. The available symbol taxonomy term 'tree' was not applied because the passage treats the tree as construction material rather than as an explicit symbolic tree.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l34836-l34862
+  passage_sha256=5d7fc9abac798eed7f5df1510bfe54dd3aabb25061a5b1e62a5118a627904036
+

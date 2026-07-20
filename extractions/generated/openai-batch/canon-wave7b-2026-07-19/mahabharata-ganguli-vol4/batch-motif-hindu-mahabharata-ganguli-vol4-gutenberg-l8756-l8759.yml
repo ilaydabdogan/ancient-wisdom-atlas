@@ -1,0 +1,160 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l8756-l8759
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION L / SECTION LI / SECTION LII / SECTION LIII; lines 8756-8759
+  start: '8756'
+  end: '8759'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"After the Rishi had disappeared, what did the king do"'
+  summary: Yudhishthira asks his grandsire what the king and the highly blessed spouse
+    did after the Rishi disappeared.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira asks a question about events after a Rishi disappeared.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Rishi is described as having disappeared before the actions being asked
+    about.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The question concerns what the king and his highly blessed spouse did.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Yudhishthira addresses the listener as grandsire.
+  category: speech
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Speaker who asks what happened after the Rishi disappeared.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rishi
+  description: A Rishi who had disappeared before the actions under discussion.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the king
+  description: A king whose subsequent action is requested by Yudhishthira.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: highly blessed spouse
+  description: The king's spouse, described as highly blessed, whose subsequent action
+    is requested by Yudhishthira.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: grandsire
+  description: The person addressed by Yudhishthira as the intended respondent.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira is explicitly introduced as speaking and asking a question.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: disappeared Rishi
+  assigned_to:
+  - fig:2
+  basis: The Rishi is described as having disappeared.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: subject of inquiry
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Yudhishthira asks what the king and the highly blessed spouse did.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: addressed respondent
+  assigned_to:
+  - fig:5
+  basis: Yudhishthira asks the grandsire to tell him the answer.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Inquiry after the Rishi's disappearance
+  summary: Yudhishthira asks his grandsire what the king and the king's highly blessed
+    spouse did after the Rishi disappeared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: disappearance or departure of a holy figure
+  taxonomy_refs:
+  - departure
+  basis: The passage states that a Rishi had disappeared before the next actions are
+    asked about.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage only mentions the disappearance retrospectively and does not
+    narrate the disappearance itself or its significance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8756-8759
+  quote_or_summary: 'Yudhishthira asks: after the Rishi disappeared, what did the
+    king and his highly blessed spouse do, and asks his grandsire to tell him.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; concise quoted/summarized evidence used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is very short and framed as a question; literal extraction is
+    straightforward, while motif identification is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the available symbol taxonomy are explicitly present in this short passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l8756-l8759
+  passage_sha256=549549f4fb7aede7db789da4204a9104ee5a3dee16010025f75b5dae6d565bda
+

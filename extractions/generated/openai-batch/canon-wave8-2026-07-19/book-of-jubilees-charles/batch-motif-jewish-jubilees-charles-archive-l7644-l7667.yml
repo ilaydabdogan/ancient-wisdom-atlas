@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l7644-l7667
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER IV. 15, 16 35 / CHAPTER IV. 17, 18 37 / CHAPTER IV. 19-26 / CHAPTER
+    IV. 27-31 41; lines 7644-7667
+  start: '7644'
+  end: '7667'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a textual note on names and kinship ordering. It explains
+    the name ‘Emzdrd by reference to the days of the Flood, notes an emendation of
+    “Brother,” lists Shem, Ham, and Japhet, and discusses interpretations of Genesis
+    x.21 concerning whether Shem or Japhet is the elder brother.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The name ‘Emzdrd is said to be found in the Syriac Fragment and Lagarde’s
+    LAX MS 7.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Frankel is reported to derive the name ‘Emzdrd from words connected with living
+    in the days of the Flood.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The word “Brother” is noted as emended as in verse 15.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Shem, Ham, and Japhet are listed together.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that Shem is represented as the eldest in x.14 and in the
+    author’s understanding of Genesis x.21.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The note contrasts this interpretation with readings attributed to the Massoretes,
+    Symmachus, Rashi, the LXX, Bereshit rabba, and the Book of Jashar.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sanhedrin 69b is cited as saying that Shem is two years older than Japhet.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: "‘Emzdrd"
+  description: A named woman whose name is discussed and associated with living in
+    the days of the Flood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Shem
+  description: One of the three listed sons or brothers; represented in the note as
+    eldest and as two years older than Japhet in a cited Sanhedrin passage.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Ham
+  description: Listed between Shem and Japhet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Japhet
+  description: Listed with Shem and Ham; discussed in relation to Shem’s elder-brother
+    status.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Flood-era named figure
+  assigned_to:
+  - fig:1
+  basis: The note connects the derivation of ‘Emzdrd’s name with living in the days
+    of the Flood.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Eldest brother
+  assigned_to:
+  - fig:2
+  basis: The note says Shem is represented as the eldest and as the elder brother
+    of Japhet.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: Sibling or brother-group member
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage lists Shem, Ham, and Japhet together and discusses brotherly
+    ordering.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Younger brother in relation to Shem
+  assigned_to:
+  - fig:4
+  basis: The note cites readings in which Shem is the elder brother of Japhet and
+    says Shem is two years older than Japhet.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Flood
+  literal_form: the Flood
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Name explained by Flood-era setting
+  summary: The note explains the name ‘Emzdrd through an association with living in
+    the days of the Flood.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Genealogical birth-order interpretation
+  summary: The note discusses Shem, Ham, and Japhet and compares interpretations of
+    which brother is eldest, especially Shem’s relation to Japhet.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Flood as temporal marker for a named figure
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: "‘Emzdrd’s name is explained because she lived in the days of the Flood."
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage only mentions the Flood as a chronological or etymological
+    marker; it does not narrate a flood, survival, destruction, or renewal episode.
+- id: motif:2
+  label: Sibling birth-order dispute or clarification
+  taxonomy_refs:
+  - sibling_pair
+  basis: The note discusses whether Shem should be understood as the elder brother
+    of Japhet and contrasts several interpretive traditions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is textual commentary rather than a narrative scene; Ham is
+    listed but the birth-order discussion focuses mainly on Shem and Japhet.
+comparison_claims:
+- id: claim:1
+  claim: The passage says the author’s interpretation of Genesis x.21 treats Shem
+    as the elder brother of Japhet, aligning this with the Vulgate against other listed
+    interpreters.
+  claim_level: linguistic_similarity
+  target: Genesis x.21 and Vulgate interpretation of Shem and Japhet
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The comparison is limited to a textual or grammatical interpretation
+    of kinship order, not to a full narrative motif.
+- id: claim:2
+  claim: The passage cites Sanhedrin 69b as another tradition in which Shem is older
+    than Japhet.
+  claim_level: same_function
+  target: Sanhedrin 69b tradition on Shem and Japhet
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports only the age relation and does not provide broader
+    narrative context from Sanhedrin.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7644-7649
+  quote_or_summary: "“‘Emzdrd. This name is found in the Syriac Fragment and Lagarde’s
+    LAX MS 7... because she lived in the days of the Flood.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 7651-7652
+  quote_or_summary: "“Brother. Emended as in ver. 15.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7654-7657
+  quote_or_summary: "“Shem . Ham . Japhet. Cf. x. 14, where again Shem is represented
+    as the eldest.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7657-7665
+  quote_or_summary: The note says the author understood Genesis x.21 as meaning Shem
+    was the elder brother of Japhet, contrasting this with interpretations attributed
+    to the Massoretes, Symmachus, Rashi, the LXX, Bereshit rabba, and the Book of
+    Jashar.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 7665-7667
+  quote_or_summary: "“in Sanhedrin 69 b Shem is said to be two years older than Japhet.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is primarily editorial commentary and textual comparison rather
+    than narrative mythic material. Motif candidates are therefore limited and require
+    human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Greek and Hebrew/Aramaic details in the passage were not normalized beyond the provided English note.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l7644-l7667
+  passage_sha256=5748306760c3cb4953ccf5ddb4b9e6af7be24d6ff12fb5818a19246ff3e678c0
+

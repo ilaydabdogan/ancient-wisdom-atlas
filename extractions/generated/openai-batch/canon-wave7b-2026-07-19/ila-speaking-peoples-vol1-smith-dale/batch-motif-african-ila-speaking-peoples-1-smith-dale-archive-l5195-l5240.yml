@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l5195-l5240
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: CH. V / DOMESTIC ANIMALS / CATTLE ON THE KAFUE PLAIN. / AGRICULTURE ; FOODS
+    ; NARCOTICS; lines 5195-5240
+  start: '5195'
+  end: '5240'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In an ethnographic section on agriculture, the authors contrast market-supported
+    food supply with subsistence vulnerability, state that crop failure from drought
+    or flood brings direct hunger, describe appeals to reputed rain-makers, summarize
+    Ba-ila agricultural knowledge and resistance to new methods, and describe household
+    selection of bush land for cultivation with freely granted permission when land
+    lies in another district.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that crop failure from drought or flood can lead quickly
+    to actual hunger where outside food supplies cannot make up the deficiency.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says people seek help from someone reputed to be a rain-maker
+    and may submit to deception by a pretender.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Travellers in Central Africa are said to have commonly been asked for rain,
+    while most deny any connection with occult arts.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Ba-ila are described as knowing little of fallowing, crop rotation, manuring,
+    and seed selection, but as cultivating simple crops by experience.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: Attempts to induce the Ba-ila to improve agricultural methods are described
+    as so far unsuccessful, though the authors note a growing tendency to observe
+    and enquire.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: A man and his wife select bush land for a garden, reasoning that land able
+    to grow timber should also grow grain.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: If selected land lies within another kraal or district, permission to cultivate
+    is asked and freely granted; the passage says rent is not customary.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ba-ila
+  description: The people whose agricultural knowledge and cultivation practices are
+    being described in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: reputed rain-maker
+  description: A person reputed to be able to provide aid connected with rain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: pretender
+  description: A person described as deceiving those who seek rain-making aid.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Central African travellers
+  description: Travellers who are said to have been appealed to for rain and who mostly
+    deny occult arts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ila cultivator and wife
+  description: A man and his wife who select land for hoeing a garden.
+  role_refs:
+  - role:5
+  - role:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: cultivators of simple crops
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage describes the Ba-ila cultivating simple crops and a household
+    selecting land for a garden.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:2
+  label: rain-making specialist
+  assigned_to:
+  - fig:2
+  basis: The passage refers to one who has obtained a reputation as a rain-maker.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceptive claimant to rain-making or occult power
+  assigned_to:
+  - fig:3
+  basis: The passage says seekers may be gulled by a pretender.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: outsiders appealed to for rain
+  assigned_to:
+  - fig:4
+  basis: The passage says travellers in Central Africa have been appealed to for rain.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: household selectors of garden land
+  assigned_to:
+  - fig:5
+  basis: The passage describes a man and his wife selecting a piece of bush land for
+    hoeing a garden.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: rain sought in agricultural crisis
+  literal_form: rain requested from a reputed rain-maker or from travellers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: cultivable land
+  literal_form: a piece of land, preferably in the bush, selected for a garden
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: timber as sign of grain-growing potential
+  literal_form: timber growing on bush land, taken as evidence that grain will grow
+    there
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Crop failure and hunger
+  summary: The passage explains that, without substitute food supplies, crop failure
+    caused by drought or flood leads directly to hunger.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Appeal to rain-making power
+  summary: In the face of agricultural vulnerability, people seek aid from a reputed
+    rain-maker; the passage also says travellers in Central Africa are asked for rain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ba-ila agricultural knowledge and change
+  summary: The Ba-ila are described as lacking several formal agricultural principles
+    while working from experience, and as not yet adopting improvements despite some
+    growing curiosity.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Garden site selection and permission
+  summary: A man and his wife choose bush land for cultivation because timber suggests
+    fertility, and permission is freely obtained if the land belongs to another kraal
+    or district.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Appeal to rain-maker under threat of crop failure
+  taxonomy_refs: []
+  basis: The passage links drought or deluge, crop failure, hunger, and eagerness
+    to seek aid from a reputed rain-maker.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Presented as colonial-era ethnographic explanation, not as a myth narrative;
+    no ritual procedure or indigenous terminology is given.
+- id: motif:2
+  label: Vegetation as practical sign of soil fertility
+  taxonomy_refs: []
+  basis: The household selects bush land on the reasoning that land growing timber
+    should also grow grain.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is described as practical agricultural reasoning rather than a sacred
+    or mythic symbol.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself generalizes rain requests beyond the Ba-ila by saying
+    that few travellers in Central Africa have not been appealed to for rain; this
+    supports a cautious same-function comparison to a broader Central African pattern
+    of appealing to perceived rain-making power.
+  claim_level: same_function
+  target: broader Central African appeals to perceived rain-making ability
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison rests on a broad authorial generalization and gives
+    no named neighboring traditions, ritual details, dates, or evidence for historical
+    contact.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5195-5240, paragraph contrasting food supply and crop failure
+  quote_or_summary: '"if, whether from a drought or a deluge, the crops fail... hunger
+    is speedily and actually felt."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 5195-5240, paragraph on rain-makers
+  quote_or_summary: '"a native will seek for the aid of one who has obtained reputation
+    as a rain-maker" and may be "gulled by the pretender."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 5195-5240, paragraph on travellers and rain
+  quote_or_summary: '"Few travellers in Central Africa have not been appealed to for
+    rain"; most "disavow any connection with the occult arts."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 5195-5240, paragraph beginning "The acquaintance of the Ba-ila"
+  quote_or_summary: '"The acquaintance of the Ba-ila with the principles of agriculture
+    is very slight"; fallowing, rotation, manuring, and seed selection are listed
+    as unknown to them.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 5195-5240, paragraph beginning "The acquaintance of the Ba-ila"
+  quote_or_summary: '"they have... learnt by experience the best way of cultivating
+    the simple crops they grow" and work in light of that experience.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 5195-5240, paragraph beginning "Many endeavours"
+  quote_or_summary: Efforts to induce improved methods have not yet succeeded; the
+    authors note a growing tendency to observe and enquire and expect imitation after
+    one person begins.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 5195-5240, paragraph beginning "Their present methods"
+  quote_or_summary: A man and his wife select land "preferably in the bush," reasoning
+    that "if it will grow timber it will surely grow grain."
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:8
+  type: summary
+  locator: lines 5195-5240, paragraph beginning "Should the land fall"
+  quote_or_summary: If the chosen land is within another kraal or district, permission
+    to cultivate is simply asked and freely given; paying rent is said not to be customary.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal ethnographic details are explicit. Motif identification is limited
+    because the passage is practical ethnography rather than a myth narrative; rain-making
+    is treated as a belief/practice pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage contains colonial-era terminology and framing; extraction uses neutral descriptions where possible while preserving evidence-based content.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l5195-l5240
+  passage_sha256=8b4c40465ad6bcdf736c7827d3009062c4816dda77cc11e6ff507f24949f1efb
+

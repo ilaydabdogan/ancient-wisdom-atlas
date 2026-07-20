@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l25132-l25307
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: INDEX OF WORDS. / V 040, 80.0 / HYMNS. / INDEX OF WORDS.; lines 25132-25307
+  start: '25132'
+  end: '25307'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A lexical index segment listing transliterated Sanskrit terms, English
+    glosses, and hymn citations. The entries include proper names, terms of abundance
+    and antiquity, a sacrificial cake, purification forms, Pûshan-related entries,
+    and forms meaning to bring or lead across.
+  language: English with transliterated Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index of words, not a narrative hymn passage; it gives word
+    entries, glosses, and textual citations.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries gloss forms related to abundance or manifoldness, including
+    meanings such as many, rich in food, rich in splendour, with many faces, manifold-shaped,
+    and praised by many.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:3
+  text: One entry identifies a sacrificial cake and gives a citation for it.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index lists a verbal entry glossed as to purify and related forms glossed
+    as purified or pure.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index lists a verbal entry glossed as to bring across, with examples involving
+    leading forward and helping across enemies.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage includes entries for named figures or names, including Puru-nîtha,
+    Purûravas, and Pûshan, and an entry glossed as accompanied by Pûshan.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A gloss in the passage refers to the liberality of the gods.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pûshan
+  description: A named index entry; a related entry is glossed as accompanied by Pûshan.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Puru-nîtha
+  description: An index entry marked as a proper name.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Purûravas
+  description: A named index entry with a citation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the gods
+  description: A divine collective mentioned in the gloss 'Liberality of the gods.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: indexed named figure or proper name
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage presents these names as lexical index entries, with Puru-nîtha
+    explicitly marked as a proper name and Pûshan appearing in an accompanying-form
+    entry.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine collective in gloss
+  assigned_to:
+  - fig:4
+  basis: The gloss explicitly refers to 'the gods.'
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sacrificial cake
+  literal_form: puro/ds, glossed as sacrificial cake
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: sacrificial offering object
+  taxonomy_refs:
+  - sacrifice
+  basis: The index explicitly includes an entry glossed as a sacrificial cake.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is only an index entry and does not describe a complete sacrificial
+    scene or ritual action.
+- id: motif:2
+  label: ritual or sacred purification
+  taxonomy_refs: []
+  basis: The index groups forms glossed as to purify, purified, and pure powers.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The entry gives lexical meanings only; it does not specify a ritual context
+    in this passage.
+- id: motif:3
+  label: being brought safely across enemies
+  taxonomy_refs: []
+  basis: The index glosses a verbal form as to bring across and includes an example
+    meaning that one may help the speakers across enemies.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The evidence is a glossary example rather than a narrated crossing episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25132-25307
+  quote_or_summary: The passage is headed 'INDEX OF WORDS' and presents transliterated
+    Sanskrit word entries with English glosses and hymn/book citations.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 25132-25307, entries for Puru-nîtha, Purûravas, Pûshan, and pûshan-vat
+  quote_or_summary: The entries include Puru-nîtha marked as a proper name, Purûravas,
+    Pûshan, and pûshan-vat glossed as accompanied by Pûshan.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short summary generated from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 25132-25307, entry for puro/ds
+  quote_or_summary: "“puro/ds, sacrificial cake, III, 28, 1-6.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; brief quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 25132-25307, entries for purification forms
+  quote_or_summary: The index gives a root glossed as 'to purify' and related entries
+    glossed as purified and pure powers.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 25132-25307, entry for pri/par
+  quote_or_summary: The entry for pri or par is glossed as 'to bring across'; examples
+    include leading forward and helping the speakers across enemies.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short summary generated from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 25132-25307, early index entry
+  quote_or_summary: "“Liberality of the gods”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; brief quotation from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 25132-25307, puru-/pura-/purva entry group
+  quote_or_summary: The index lists many entries glossed with abundance or multiplicity,
+    including many, rich in food, rich in splendour, with many faces, manifoldly adorned,
+    manifold-shaped, and praised by many.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The line range is an OCR-noisy lexical index rather than a mythic or ritual
+    narrative. Literal extraction is possible, but motif interpretation is limited
+    to glossary-level terms.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another text, tradition, or motif family beyond local candidate tagging.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l25132-l25307
+  passage_sha256=b47fe2b50aef71a652424c5d923cb2ee55314fc9138d985b9ab808bf720b7587
+

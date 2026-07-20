@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l22435-l22493
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: II USH, X GAR / II US X GAR / II. A CERTIFICATE OF ADOPTION1 / IV. THE CODE
+    OF HAMMURAPI; lines 22435-22493
+  start: '22435'
+  end: '22493'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the discovery at Susa of fragments of a black diorite
+    stele bearing the Code of Hammurapi. Its upper relief shows the seated sun god
+    Shamash presenting the laws to Hammurapi. The text then summarizes the inscription’s
+    physical arrangement, damage, probable earlier location at Sippar, removal to
+    Susa, duplicate fragments, and later Assyrian copying and scholarly identification
+    of the code.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three large fragments of a black diorite block were found at Susa and joined
+    to form a stele.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The upper front of the stele has a bas-relief showing the seated sun god Shamash
+    presenting the code of laws to Hammurapi.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The inscription begins below the relief and runs beltwise around the stele
+    in parallel columns.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several lower columns on the front side had been chiseled off and the stone
+    repolished.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The stele was originally set up at Sippar and later carried to Susa, probably
+    as a trophy.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A large fragment of a duplicate stele was also found at Susa.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that the Hammurapi code influenced the ancient Orient and
+    that Ashurbanapal’s scribes made copies of the laws.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Shamash
+  description: The seated sun god represented in the stele relief as presenting the
+    code of laws.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hammurapi
+  description: The ruler to whom the code of laws is represented as being presented
+    in the relief; the laws are called the judgments of Hammurapi in later copies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Scribes of Ashurbanapal
+  description: Later scribes said to have made copies of the laws and formed a series
+    called the judgments of Hammurapi.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine presenter of laws
+  assigned_to:
+  - fig:1
+  basis: The relief represents Shamash presenting the code of laws.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal recipient associated with the law code
+  assigned_to:
+  - fig:2
+  basis: The relief shows Hammurapi receiving the code, and later copies name the
+    laws as his judgments.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: later copyists and transmitters
+  assigned_to:
+  - fig:3
+  basis: The passage says Ashurbanapal’s scribes made copies of the laws.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: law stele
+  literal_form: Black diorite stele bearing a relief and a long cuneiform inscription
+    of laws.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: divine law-giving relief
+  literal_form: Bas-relief of seated Shamash presenting the code of laws to Hammurapi.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: copied judgments
+  literal_form: Series of copied laws named the judgments of Hammurapi.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Discovery and reconstruction of the stele
+  summary: Excavators at Susa found three large black diorite fragments that fit together
+    as a stele.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shamash presents the law code
+  summary: The upper relief of the stele depicts the seated sun god Shamash presenting
+    the code of laws to Hammurapi.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Inscription, damage, and movement
+  summary: The inscription runs around the stele in columns; some columns were removed,
+    and the stele is said to have been set up at Sippar before being taken to Susa.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Later copying of the laws
+  summary: Ashurbanapal’s scribes copied the laws into a series called the judgments
+    of Hammurapi, though the copies survive only in fragments.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine presentation of law to a ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  - divine_judgment
+  - wisdom
+  basis: The relief represents the sun god Shamash presenting the code of laws to
+    Hammurapi.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage reports an image on a monument rather than narrating a full
+    mythic episode.
+- id: motif:2
+  label: Authoritative judgments preserved on a monument and copied by later scribes
+  taxonomy_refs:
+  - wisdom
+  - divine_judgment
+  basis: The passage describes the law inscription on the stele and later copies called
+    the judgments of Hammurapi.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is primarily documentary and legal-historical evidence; the motif
+    framing is interpretive and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22435-22449
+  quote_or_summary: At Susa, three black diorite fragments were joined into a stele;
+    its upper relief shows seated Shamash presenting the code of laws to Hammurapi.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: 22450-22463
+  quote_or_summary: The inscription begins below the relief, runs beltwise in parallel
+    columns, and has preserved and chiseled-off column sections.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: 22464-22468
+  quote_or_summary: The stele was originally set up at Sippar and carried to Susa,
+    probably as a trophy; a large duplicate fragment was also found at Susa.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: 22469-22485
+  quote_or_summary: The Hammurapi code is said to have influenced the ancient Orient;
+    Ashurbanapal’s scribes copied the laws as the judgments of Hammurapi.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: 22486-22493
+  quote_or_summary: Scheil recognized Meissner’s copied sections as part of the original
+    code and used them to help restore lost columns.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The physical description, figures, and transmission details are explicit.
+    Motif identification is limited because the passage describes a legal monument
+    and its relief rather than a narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself make a specific comparative claim to another mythic corpus or motif family beyond the described divine presentation of law.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l22435-l22493
+  passage_sha256=a4f0a041b2f6d268e845ef702d24e8869c968b07c6c27e76d7b2c60280578fb7
+

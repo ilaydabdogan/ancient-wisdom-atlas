@@ -1,0 +1,426 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l6488-l6529
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: MARRIAGE. / MORALITY. / DEATH. / BURIAL.; lines 6488-6529
+  start: '6488'
+  end: '6529'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Labrador Eskimo burial locations, grave construction,
+    treatment of the body, deposition and breaking of the deceased's effects, winter
+    burial expedients, and a precaution against contamination from the corpse.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'Burial places are described as varying by season: hillside graves near the
+    village for winter deaths and seashore graves near camping sites for summer deaths.'
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Isolated graves on high hills are said to be reserved for distinguished headmen,
+    and the old chief at Cape Chidley was buried on a neighboring mountain.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Old graves appear as cluttered heaps of stones, while newly made graves show
+    an enclosing wall.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A grave is built by piling stones into an oval or oblong wall two or three
+    feet high, leaving only enough space for the body.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The grave space is lined with moss, and the body is wrapped in heavy winter
+    deerskins and placed on the soft bed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Flat stones or later pieces of wood cover the enclosure, and rocks are added
+    to keep wild beasts and birds from the body.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The deceased's effects are laid on or inside the grave, including women's
+    lamps, kettles, and dishes, men's kayaks and weapons, and smaller utensils such
+    as firestones, toys, knives, and needles.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The deceased's effects are broken so that the spirit residing in them may
+    be liberated and useful to the owner's shade.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: When stones are buried deep under snow in winter, bodies are laid out on the
+    snow.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Persons present at a burial must stop the left nostril with reindeer moss
+    to avert contamination from the corpse.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Deceased person or body
+  description: The body is placed in the grave or, in winter conditions, laid on snow;
+    effects of the deceased are placed with or on the grave.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Distinguished headmen / old chief at Cape Chidley
+  description: Distinguished headmen are associated with isolated high-hill graves;
+    the old chief at Cape Chidley was buried on a neighboring mountain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Persons present at a burial
+  description: People present at the burial are required to stop the left nostril
+    with reindeer moss.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Shade of the owner
+  description: The owner's shade is described as the recipient for whom liberated
+    object-spirits may be useful.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Spirit residing in the effects
+  description: A spirit is said to reside in the deceased's effects and to be liberated
+    when the effects are broken.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deceased owner
+  assigned_to:
+  - fig:1
+  basis: The passage describes the body, the deceased's effects, and the owner's shade
+    in the burial context.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: high-status deceased headman
+  assigned_to:
+  - fig:2
+  basis: High-hill burial is said to be reserved for distinguished headmen, with the
+    Cape Chidley old chief as an example.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: burial attendee observing corpse-contamination precaution
+  assigned_to:
+  - fig:3
+  basis: Persons present at a burial must plug the left nostril with reindeer moss
+    to avert corpse contamination.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: post-mortem shade of the owner
+  assigned_to:
+  - fig:4
+  basis: The liberated spirit of the effects is said to become useful to the shade
+    of the owner.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: object-spirit liberated by breaking
+  assigned_to:
+  - fig:5
+  basis: The passage says the spirit residing in the deceased's effects is liberated
+    when the effects are broken.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: mountain or high-hill burial place
+  literal_form: Tops of high hills and a neighboring mountain used for graves of distinguished
+    headmen.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stone grave enclosure
+  literal_form: Oval or oblong stone wall with flat stone covering and rocks over
+    the grave box.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: moss in burial practice
+  literal_form: Moss lining the grave bottom and reindeer moss used to stop the left
+    nostril.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:4
+  label: winter deerskin wrapping
+  literal_form: Heavy winter deerskins wrapped around the body.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: grave goods
+  literal_form: Lamp, kettle, dishes, kayak, weapons, firestones, toys, knives, needles,
+    and other effects of the deceased.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: broken personal effects
+  literal_form: Torn clothes, split dishes, and soapstone lamps and kettles with holes
+    bored in them.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: left nostril stopping
+  literal_form: The left nostril stopped with reindeer moss by those present at burial.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: snow-surface burial
+  literal_form: Bodies laid out on the snow when stones are deep under snow.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Seasonal and status-marked burial placement
+  summary: Grave locations are associated with season, settlement or camp setting,
+    and high status for distinguished headmen buried on high hills or a mountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Stone grave construction and interment
+  summary: Stones form an oval or oblong enclosure; moss lines the bottom; the deerskin-wrapped
+    body is placed inside and covered with stones or wood and rocks.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Deposition and breaking of effects
+  summary: The deceased's effects are placed on or inside the grave and broken so
+    that the spirit within them may be useful to the owner's shade.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Winter expedient and corpse-contamination precaution
+  summary: When stones are inaccessible under snow, bodies are laid on the snow, and
+    burial attendees stop the left nostril with reindeer moss to avert contamination.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Elevated burial for distinguished dead
+  taxonomy_refs: []
+  basis: The passage states that isolated graves on high hills are reserved for distinguished
+    headmen and gives the old chief at Cape Chidley as a mountain-burial example.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No broader comparative claim is made by the passage.
+- id: motif:2
+  label: Stone enclosure burial protecting the corpse
+  taxonomy_refs: []
+  basis: The grave is built as a stone wall and covered with stones or wood and rocks
+    to protect the body from wild beasts and birds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is extracted as a burial-pattern candidate, not as a taxonomy-linked
+    mythic motif.
+- id: motif:3
+  label: Grave goods accompanying the deceased
+  taxonomy_refs: []
+  basis: The deceased's effects are laid on top of or inside the grave, with examples
+    given for women and men.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes ethnographic practice rather than a narrative episode.
+- id: motif:4
+  label: Breaking objects to release their spirits for the dead
+  taxonomy_refs: []
+  basis: All effects of the deceased are broken to liberate the spirit residing there,
+    making it useful to the owner's shade.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Available taxonomy has no precise object-spirit or grave-goods category;
+    no taxonomy reference is assigned.
+- id: motif:5
+  label: Corpse contamination averted by nostril-stopping
+  taxonomy_refs: []
+  basis: Burial attendees must stop the left nostril with reindeer moss to avert contamination
+    from the corpse.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the mechanism beyond averting contamination.
+- id: motif:6
+  label: Snow-surface burial when stone burial is impracticable
+  taxonomy_refs: []
+  basis: In winter, when stones are deep under snow, bodies are simply laid out on
+    the snow.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This may be a practical seasonal expedient rather than a symbolic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6488-6496
+  quote_or_summary: Graves are located on hillsides near villages in winter, near
+    seashore camping sites in summer, and on high hills for distinguished headmen;
+    the old chief at Cape Chidley was buried on a neighboring mountain.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6497-6502
+  quote_or_summary: Old graves look like cluttered heaps of stones, while new graves
+    show the construction of an enclosing wall.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6503-6515
+  quote_or_summary: Stones are piled into an oval or oblong wall two or three feet
+    high; the space is lined with moss; the deerskin-wrapped body is placed inside
+    and covered with flat stones, wood, and rocks to protect it from animals and birds.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 6516-6522
+  quote_or_summary: Effects of the deceased are placed on top of the grave or inside
+    it, including lamps, kettles, dishes, kayaks, weapons, firestones, toys, knives,
+    and needles.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 6523-6527
+  quote_or_summary: The deceased's effects are broken to liberate the spirit residing
+    in them so it may be useful to the owner's shade; examples include torn clothes,
+    split dishes, and perforated lamps and kettles.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 6528-6529
+  quote_or_summary: In winter, when stones are buried under snow, bodies are laid
+    out on the snow.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 6528-6529
+  quote_or_summary: Persons present at burial must stop the left nostril with reindeer
+    moss to avert contamination from the corpse.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal burial practices and associated objects are explicit in the passage.
+    Motif labels are cautious because the passage is ethnographic rather than myth-narrative
+    and no external comparison is supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support comparison to another text, tradition, or explicit motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l6488-l6529
+  passage_sha256=53085363602d52586763a3e3b6ce77e6bcb73baee1228e4898655f008f948773
+

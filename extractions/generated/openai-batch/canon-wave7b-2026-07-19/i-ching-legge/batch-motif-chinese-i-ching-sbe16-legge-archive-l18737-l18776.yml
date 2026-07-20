@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l18737-l18776
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: HEX, . / APPENDIX III. / CHAP. I, APPENDIX III. 349 / CHAP. II. APPENDIX
+    III. 371; lines 18737-18776
+  start: '18737'
+  end: '18776'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that six component lines appear through addition;
+    strong and weak lines exchange places, producing changes in the diagrams. The
+    appended explanations assign good or ill to each form and determine divinatory
+    movements. Fortune, misfortune, repentance, and regret arise from these movements.
+    Strong and weak lines have proper places, but their changes accord with the time.
+    Good and ill oppose one another by an exact rule, and the same rule is said to
+    govern heaven and earth, the sun and moon, and all movements under the sky. A
+    later editorial note says natural phenomena are exhibited in the Yi and describes
+    the sage makers as virtuous and wise enough to stand between Heaven and humankind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Six component lines are said to have appeared by a process of addition.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The strong line and the weak line push into one another's places, causing
+    changes in the diagrams.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Appended explanations attach a good or ill character to each diagrammatic
+    form and determine the divinatory movements accordingly.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Good fortune, ill fortune, repentance, and regret arise from the movements
+    described in the diagrams.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Strong and weak lines have fixed proper places, while their changes vary according
+    to the requirements of the time.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Good fortune and ill fortune continually prevail against each other by an
+    exact rule.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Heaven and earth, the sun and moon, and all movements under the sky are described
+    as subject to the same rule.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The imperial editors are said to find natural phenomena exhibited in the Yi,
+    and the sage makers are described as virtuous and wise enough to stand between
+    Heaven and the mass of men.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: sage makers
+  description: The concluding note describes them as distinguished for virtuous conduct
+    and wisdom and as proper men to stand between Heaven and the mass of men.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: wise and virtuous makers
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls them sage makers and says they were distinguished
+    for virtuous conduct and wisdom.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: mediators between Heaven and humankind
+  assigned_to:
+  - fig:1
+  basis: The passage says they were proper men to stand between Heaven and the mass
+    of men.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: strong and weak lines
+  literal_form: paired strong and weak diagrammatic lines
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: six component lines
+  literal_form: six component lines of the diagram
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: divinatory diagrams
+  literal_form: diagrams whose forms receive appended explanations of good or ill
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: heaven and earth
+  literal_form: heaven and earth as a paired cosmic field
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: sun and moon
+  literal_form: sun and moon emitting light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: exact rule
+  literal_form: one rule governing auspicious opposition and cosmic movement
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Diagrammatic line changes determine auspices
+  summary: Six component lines appear; strong and weak lines exchange places, causing
+    diagram changes; appended explanations assign good or ill and determine divinatory
+    movements.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: One rule governs auspices and cosmic motions
+  summary: Good and ill prevail against each other by an exact rule, and the same
+    rule is applied to heaven and earth, the sun and moon, and all movements under
+    the sky.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Sage makers placed between Heaven and people
+  summary: An editorial note interprets the Yi as exhibiting natural phenomena and
+    describes the sage makers as virtuous and wise figures positioned between Heaven
+    and humankind.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: paired opposites producing change
+  taxonomy_refs:
+  - duality
+  basis: The strong and weak lines exchange places, good and ill oppose one another,
+    and paired cosmic terms such as heaven and earth and sun and moon are placed under
+    one rule.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is philosophical and divinatory rather than a narrative myth;
+    the motif is a structural pattern, not a story episode.
+- id: motif:2
+  label: cosmic order mirrored in divinatory diagrams
+  taxonomy_refs: []
+  basis: The passage links the rule governing diagrammatic changes and auspices with
+    the rule governing heaven, earth, sun, moon, and all movements under the sky;
+    the editors also say natural phenomena are exhibited in the Yi.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No specific taxonomy reference exactly matches this divinatory-cosmological
+    pattern.
+- id: motif:3
+  label: sage wisdom mediating Heaven and humankind
+  taxonomy_refs:
+  - wisdom
+  basis: The sage makers are described as virtuous and wise, and as the proper men
+    to stand between Heaven and the mass of men.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a commentarial characterization rather than an extended
+    mythic narrative about the sages.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18737-18739
+  quote_or_summary: A process of addition is said to result in the appearance of six
+    component lines.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 18741-18745
+  quote_or_summary: The strong and weak lines move into each other's places; changes
+    of the diagrams occur, and appended explanations assign good or ill to each form
+    and determine divinatory movements.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 18747-18748
+  quote_or_summary: Good fortune, ill, repentance, and regret arise from these movements.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 18750-18752
+  quote_or_summary: Strong and weak lines have fixed proper places, while their changes
+    vary according to the requirements of the time.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 18754-18761
+  quote_or_summary: Good fortune and ill continually prevail against each other by
+    an exact rule; by the same rule heaven and earth give forth lessons, the sun and
+    moon emit light, and all movements under the sky are subject to one rule.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 18770-18776
+  quote_or_summary: The imperial editors interpret paragraphs 80 and 81 as showing
+    natural phenomena exhibited in the Yi; the concluding sentence declares that the
+    sage makers were distinguished for virtue and wisdom and fit to stand between
+    Heaven and the mass of men.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    conceptual and structural because the passage is commentarial/divinatory rather
+    than narrative. No cross-tradition comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR irregularities in the passage include garbled text near the opening and spellings such as 'Yf' and 'K( Hsi'; these were not normalized beyond neutral summary.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l18737-l18776
+  passage_sha256=c61e82e1e18a5e1dbba69a01b3f5a3ef572ce4af8804cf3c99eefea7fd54145e
+

@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.celtic-celtic-fairy-tales-jacobs-gutenberg-l5906-l5932
+source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: JACK AND HIS MASTER / BETH GELLERT / THE TALE OF IVAN / ANDREW COFFEY; lines
+    5906-5932
+  start: '5906'
+  end: '5932'
+  translation: Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Andrew Coffey, identified as the narrator's grandfather, flees through
+    a stormy night wood, reaches a light and a hearth, hears a voice call his name
+    and ask for a story, recognizes the cabin as one where he first met Patrick, tells
+    the events of the night, falls asleep, and wakes outdoors on a hillside with his
+    horse grazing beside him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Andrew Coffey runs into a night wood where stones, branches, brambles, rain,
+    and a cold March wind impede and injure him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He sees a light and soon kneels by a hearth, wet and dazed, while brushwood
+    burns and warms him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A voice calls Andrew Coffey by name and asks him to tell a story.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Andrew recognizes the place as the same cabin where he had first met Patrick.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Andrew tells the story of what had happened to him throughout that night.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After apparently falling asleep, Andrew wakes on a hillside under the open
+    sky, with his horse grazing beside him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Andrew Coffey / narrator's grandfather
+  description: The man who flees through the wood, reaches the hearth, is addressed
+    by name, tells the tale, and wakes on the hillside.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Unidentified caller or voice
+  description: An unnamed speaker calls Andrew Coffey by name and asks him to tell
+    a story.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Patrick
+  description: A person whom Andrew Coffey had first met in the cabin; Patrick is
+    mentioned but does not act in this passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Andrew Coffey's horse
+  description: The horse is present beside Andrew when he wakes and is grazing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: distressed night traveler
+  assigned_to:
+  - fig:1
+  basis: Andrew flees through the night wood in rain and cold wind and arrives drenched
+    at the hearth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: storyteller and witness
+  assigned_to:
+  - fig:1
+  basis: After being asked for a story, Andrew recounts what had happened to him that
+    night.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: story requester
+  assigned_to:
+  - fig:2
+  basis: The unidentified voice calls Andrew's name and asks him to tell a story.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: previously encountered person associated with the cabin
+  assigned_to:
+  - fig:3
+  basis: The cabin is identified as the place where Andrew had first met Patrick.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: animal present at waking
+  assigned_to:
+  - fig:4
+  basis: The horse is beside Andrew and grazing when he wakes outdoors.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hearth fire
+  literal_form: burning brushwood at the hearth side
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: night wood and storm
+  literal_form: night wood with stones, branches, brambles, rain, and cold March wind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cabin of prior encounter
+  literal_form: the cabin where Andrew first met Patrick
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hillside under open heavens
+  literal_form: outdoor hillside beneath the open sky
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: flight through the night wood
+  summary: Andrew Coffey runs through a hostile night wood in rain and cold March
+    wind, stumbling and being struck or scratched by natural obstacles.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: arrival at the hearth and summoned storytelling
+  summary: Andrew sees a light, comes to a hearth, warms himself by burning brushwood,
+    hears a voice call his name, and recognizes the cabin as one where he had first
+    met Patrick.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: sleep and outdoor awakening
+  summary: After telling the story of his night, Andrew apparently falls asleep and
+    wakes on a hillside under the open sky with his horse grazing beside him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: flight through a hostile night landscape
+  taxonomy_refs: []
+  basis: The passage describes Andrew's rapid flight through a night wood where stones,
+    branches, brambles, rain, and wind oppose him.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no external motif taxonomy
+    identifier is assigned.
+- id: motif:2
+  label: refuge at a hearth after exposure
+  taxonomy_refs: []
+  basis: After exposure to rain and cold wind, Andrew sees a light and warms himself
+    by a flaming hearth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The hearth and fire are literal in this passage; broader symbolic interpretation
+    is not asserted.
+- id: motif:3
+  label: unseen or unidentified voice demands a story
+  taxonomy_refs: []
+  basis: An unidentified caller addresses Andrew Coffey by name and asks him to tell
+    a story, after which he recounts the night's events.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The identity and nature of the caller are not explained in the passage.
+- id: motif:4
+  label: uncanny displacement after sleep
+  taxonomy_refs: []
+  basis: Andrew is in the cabin when he tells the story and apparently falls asleep,
+    but he wakes outdoors on a hillside with his horse beside him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives no explicit cause for the change of location; the displacement
+    is inferred only from the sequence of settings.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5906-5910
+  quote_or_summary: Andrew Coffey runs into the night wood, stumbling against stones
+    and being struck or torn by branches and brambles while rain and a cold March
+    wind continue.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: 5911-5915
+  quote_or_summary: He was "kneeling, dazed, drenched, and bedraggled by the hearth
+    side" while "The brushwood flamed" and he began to feel warm and dry.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 5916-5924
+  quote_or_summary: A voice calls "ANDREW COFFEY!" and asks him to tell a story; when
+    he looks around, he finds himself in the very cabin where he had first met Patrick.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; short excerpt and summary used for evidence.
+- id: ev:4
+  type: summary
+  locator: 5925-5930
+  quote_or_summary: Andrew says he will tell the story if the listener can explain
+    it, and he recounts what had befallen him from first to last that night.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: quote
+  locator: 5930-5932
+  quote_or_summary: '"when he awoke he lay on the hill-side under the open heavens,
+    and his horse grazed at his side."'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal actions, settings, and figures are explicit. Motif labels are descriptive
+    and passage-level; no explicit comparative claim is made by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external tale context or taxonomy IDs beyond the supplied fire symbol were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-celtic-fairy-tales-jacobs-gutenberg__l5906-l5932
+  passage_sha256=5121debd3c8b4e6f8733a49564d3fa25d98c01a5819add2bd6d593495a8e4792
+

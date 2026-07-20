@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l12822-l12871
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: SORROWS   OF   ISIS  223 / SORROAVS    OF   ISIS / I  I         I         I
+    / AAAAAA    M-; lines 12822-12871
+  start: '12822'
+  end: '12871'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: she closed her doors upon me... They decreed about it... they placed their
+    poison... on the tail of Tefen.
+  summary: A female figure closes her doors against the speaker and is angry at those
+    with the speaker. An unspecified group decrees concerning the matter and places
+    their poison all at once on the tail of Tefen. The final fragment says something
+    was opened to the speaker.
+  language: English with Egyptian transliteration/OCR fragments
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A female figure closes her doors upon the speaker.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The female figure is described as angry in her heart at those who were with
+    the speaker.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An unspecified group decrees about the matter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The unspecified group places their poison all at one time on the tail of Tefen.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage fragment ends with the phrase that something was opened to the
+    speaker.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person figure referred to as “me.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: female door-closer
+  description: A female figure who closes her doors upon the speaker and is angry
+    in her heart.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: those with the speaker
+  description: Companions or associated persons described as being with the speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: unspecified decreeing group
+  description: A group identified only by the pronoun “they,” who decree and place
+    poison.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Tefen
+  description: Named figure or being whose tail receives the poison.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: first-person recipient
+  assigned_to:
+  - fig:1
+  basis: The speaker is the one upon whom the doors are closed and to whom something
+    is opened.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: angry door-closer
+  assigned_to:
+  - fig:2
+  basis: The passage says she closes her doors upon the speaker and is angry in her
+    heart.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: companions of the speaker
+  assigned_to:
+  - fig:3
+  basis: They are described only as those who were with the speaker.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: poison-placing group
+  assigned_to:
+  - fig:4
+  basis: The passage says “they” decreed and placed their poison on Tefen’s tail.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: bearer of poisoned tail
+  assigned_to:
+  - fig:5
+  basis: Tefen is named as the possessor of the tail on which poison is placed.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: closed doors
+  literal_form: doors closed against the speaker
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: poison
+  literal_form: poison placed all at one time
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tail of Tefen
+  literal_form: tail of Tefen
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Exclusion by closed doors
+  summary: A female figure closes her doors upon the speaker and is angry toward those
+    with the speaker.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Poison placed on Tefen’s tail
+  summary: An unspecified group decrees about the matter and places their poison all
+    at one time on Tefen’s tail.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: closed doors against a supplicant or speaker
+  taxonomy_refs: []
+  basis: The passage presents a first-person speaker shut out by a female figure who
+    closes her doors.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The fragment does not explain the larger narrative reason for the closed
+    doors.
+- id: motif:2
+  label: poison empowered or placed on an animal-like body part
+  taxonomy_refs: []
+  basis: The passage states that poison is placed all at one time on the tail of Tefen.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not identify what kind of being Tefen is; no serpent
+    or scorpion identification is made from this excerpt alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12822-12871
+  quote_or_summary: "“she closed her doors upon me, she was angry in her heart at
+    those who were with me.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 12822-12871
+  quote_or_summary: "“They decreed about it (and) they placed their poison all at
+    one time on the tail of Tefen.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 12822-12871
+  quote_or_summary: "“Opened to me”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and contains OCR/transliteration material. Figures
+    and actions are extracted only from the supplied English glosses; broader mythological
+    identification is not inferred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt itself does not support a specific comparative claim beyond its immediate actions and objects.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l12822-l12871
+  passage_sha256=d76583261d6c79a41addcd99fc5de63953b6f71a8bbddb48f967582be8db36dd
+

@@ -1,0 +1,383 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l12145-l12224
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: THE HUDSON BAT ESKIMO. / HUNTINO. / TURNER. 1 / HUNTING DEER. 251; lines
+    12145-12224
+  start: '12145'
+  end: '12224'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives an ethnographic description of deer being speared in
+    water, dragged ashore, skinned, butchered, and processed for food and materials.
+    It notes the removal and drying of sinew, the tongue as a prized food, caching
+    meat under stones for winter use, and moving to another hunting station when deer
+    stop crossing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hunters spear deer in or near shallow water and try to prevent wounded deer
+    from returning to the shore from which they came.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Wounded deer attempt to regain land and may stand trembling before dying.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Killed deer lying in the water are dragged onto land and skinned.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The body is opened, viscera removed, stomach cleaned, and blood collected
+    for food.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Heart, liver, other flesh, and especially tongue are taken as food.
+  category: object
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: obs:6
+  text: Sinew from the lumbar region is removed, cleaned, washed, spread out, and
+    dried.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Some deer bodies are cached near the place of slaughter or elsewhere for later
+    winter supplies.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: Caches are made with stones or boulders, with meat covered to protect it from
+    scavenging animals.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: When deer stop crossing at one locality, the hunter moves to another station
+    and repeats the process.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: hunters
+  description: People who spear, dispatch, butcher, and cache deer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: deer
+  description: Animals hunted, speared, killed, butchered, eaten, and cached.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: scavenging animals
+  description: Ravens, gulls, foxes, wolves, and wolverines are named as animals from
+    which cached meat is protected.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The passage describes hunters spearing deer, preventing their return, processing
+    carcasses, and moving between stations.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:10
+- id: role:2
+  label: food processor and cacher
+  assigned_to:
+  - fig:1
+  basis: The hunters or people remove organs, sinew, tongue, and meat, and place meat
+    in caches for later use.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:3
+  label: hunted animal and food source
+  assigned_to:
+  - fig:2
+  basis: Deer are speared, killed, butchered, and used for meat, organs, tongue, sinew,
+    and possible horn material.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: threat to stored meat
+  assigned_to:
+  - fig:3
+  basis: The cache is built to hide meat from ravens, gulls, foxes, wolves, and wolverines.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: water crossing
+  literal_form: shallow water or shore where deer are speared and attempt to regain
+    land
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: spear
+  literal_form: weapon used to wound or kill deer during the hunt
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: deer body as food and material source
+  literal_form: carcass, viscera, blood, heart, liver, tongue, sinew, flesh, head,
+    and horns
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: stone meat cache
+  literal_form: stones or boulders placed under and over meat to conceal it from animals
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: winter food supply
+  literal_form: cached deer meat reserved for later winter use
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Spearing deer at water
+  summary: Hunters spear deer at or near shallow water, seeking to wound them so they
+    cannot escape far or return to their starting shore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Butchering and processing carcasses
+  summary: Killed deer are dragged ashore, skinned, opened, and processed for organs,
+    blood, flesh, tongue, sinew, and other usable parts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Caching meat for later use
+  summary: Meat is placed near the slaughter site or at other remembered spots and
+    covered with stones to protect it from scavengers until needed in winter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Moving between hunting stations
+  summary: After deer stop crossing at one locality, the hunter moves to another station
+    and repeats the hunting process.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: water-based deer hunt
+  taxonomy_refs: []
+  basis: The passage centers on hunters using a deer water crossing or shoreline setting
+    to spear deer and prevent their escape.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is presented as practical hunting description, not as mythic narrative
+    or ritual symbolism.
+- id: motif:2
+  label: complete animal processing after the kill
+  taxonomy_refs: []
+  basis: The passage details skinning, opening the body, preserving blood and organs,
+    removing sinew, and using tongue and other parts for food or materials.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not frame the processing as ceremonial sacrifice.
+- id: motif:3
+  label: stone-covered cache for winter provisions
+  taxonomy_refs: []
+  basis: The passage describes placing deer meat on stones and covering it with a
+    rough wall of stones to protect it until winter supplies are needed.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The motif is subsistence-related and not explicitly cosmological.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12145-12162
+  quote_or_summary: Hunters aim at a vital spot with the spear so that wounded deer
+    reach shallow water or shore but do not wander off; they try to prevent deer from
+    returning to the shore from which they came.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12150-12157
+  quote_or_summary: The passage describes wounded deer dreading the water, struggling
+    to regain land, standing trembling, and dying after a convulsive struggle.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12166-12170
+  quote_or_summary: Killed deer lying in the water are dragged onto land and skinned,
+    with ears and head skin left on.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12170-12176
+  quote_or_summary: The body is opened; viscera are removed; intestines are freed
+    from fat; the stomach is cleaned; collected blood is ladled into the stomach and
+    reserved for food.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12176-12179
+  quote_or_summary: Heart and liver are taken to camp, and other portions of the flesh
+    are also consumed.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12179-12190
+  quote_or_summary: Sinew along the lumbar region is exposed, loosened, pulled free,
+    cleaned, washed to remove blood, spread out, and dried.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12196-12200
+  quote_or_summary: The tongue is always taken out whole and is considered the greatest
+    delicacy, whether frozen, raw, cooked, dried, or smoked.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 12202-12212
+  quote_or_summary: Hindquarters may be placed in the thoracic cavity and cached near
+    the slaughter scene or transported by kayak to places where supplies can later
+    be taken for winter food.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 12210-12220
+  quote_or_summary: Bodies of deer may be placed along the bank at marked or remembered
+    spots; meat is set on stones or boulders and covered with stones to protect it
+    from ravens, gulls, foxes, wolves, and wolverines.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 12221-12224
+  quote_or_summary: When the hunter thinks deer have stopped crossing at a locality,
+    he moves to another station and repeats the process; early kills in warm weather
+    may be reserved as dog food if meat would spoil.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a practical ethnographic hunting description rather than a
+    mythological narrative. Literal extraction is strong; motif labeling is limited
+    to observable hunting, processing, and caching patterns. No comparison claims
+    are made because the passage itself does not support comparative interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned; the available symbol taxonomy supports only the literal water element.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l12145-l12224
+  passage_sha256=65d36e61b11a7bf455b48cbc679413b178e72d627b043d2884d391d21c49d0f3
+

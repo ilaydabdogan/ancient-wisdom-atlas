@@ -1,0 +1,193 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l6385-l6885
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: SHOWING THE CURLY NATURE OF THE HAIR. / CHAPTER III / SOCIAL ORGANISATION
+    OF THE TRIBES / RUNTA TRIBE; lines 6385-6885
+  start: '6385'
+  end: '6885'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A set of tabulated Runta kinship classifications arranges named subclasses
+    and kin terms by moiety and by generation. The tables include entries for a male
+    ego and a female ego, with kin categories such as grandparents, parents, siblings,
+    spouses, children, and grandchildren.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as material for the Runta tribe and presents moiety
+    labels, including Moiety B and Moiety A.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists named subclass labels and places them within generational
+    columns such as grandparents’ generation, parents’ generation, contemporary generation,
+    children’s generation, and grandchildren’s generation.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: A male ego is explicitly marked in one of the Runta kinship tables.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: A female ego is explicitly marked in a later Runta kinship table.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Kin terms are associated with relations by descent and marriage, including
+    parents, grandparents, siblings, wife or husband, in-laws, children, and grandchildren.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: EGO (man)
+  description: A male ego or reference person appears in the Runta kinship classification
+    table.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: EGO (woman)
+  description: A female ego or reference person appears in a later Runta kinship classification
+    table.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Moiety A
+  description: One of the moiety labels used in the Runta tabular classification.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Moiety B
+  description: One of the moiety labels used in the Runta tabular classification.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: male ego or reference person
+  assigned_to:
+  - fig:1
+  basis: The table explicitly labels an entry as “EGO (man).”
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: female ego or reference person
+  assigned_to:
+  - fig:2
+  basis: The later table explicitly labels an entry as “EGO (woman).”
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: moiety category
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The table uses the labels Moiety A and Moiety B to organize the Runta material.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Runta kinship classification tables
+  summary: The passage presents tabular social-organization data for the Runta tribe,
+    arranging moieties, subclasses, and kin terms across generations for male and
+    female reference persons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dual moiety organization
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly organizes part of the Runta social classification
+    under two moiety labels, Moiety A and Moiety B.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This is an ethnographic kinship table rather than a mythic narrative;
+    the taxonomy reference is only a structural pattern match to dual organization,
+    not evidence of a myth motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6385-6885, Runta tribe heading and moiety labels
+  quote_or_summary: The passage is headed “RUNTA TRIBE” and includes the labels “Moiety
+    B” and “Moiety A.”
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 6385-6885, first Runta table
+  quote_or_summary: A table lists subclass names and kin terms, including an entry
+    labeled “EGO (man),” with relations such as father, mother, siblings, wife, wife’s
+    kin, children, and grandchildren.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6385-6885, generational subclass table for male ego
+  quote_or_summary: A further table lists subclasses such as Tjambin, Thakomara, Thungalla,
+    Tjupilla, Thapungarti, Tjapeltjeri, Tjunguri, and Thapanunga across generation
+    headings, with an “EGO (man)” entry.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6385-6885, generational subclass table for female ego
+  quote_or_summary: A later table uses similar subclass and generation headings and
+    includes an entry labeled “EGO (woman),” with kin terms for husband, siblings,
+    parents, children, and affinal relatives.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The kinship-table content is extractable at a high level, but OCR-like formatting
+    and table disruption limit precise row-by-row reconstruction. No comparison claims
+    are made. The single motif candidate is cautious because the passage is not a
+    mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic actions, named mythic beings, ritual scenes, or listed symbol-taxonomy items are present in the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l6385-l6885
+  passage_sha256=00eb57238281aad18d8535017559d6d63cdace458068351847360463a87eb5b4
+

@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l9601-l9613
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: OLD PERSONS AND THEIR TREATMENT / VIEWS CONCERNING DEATH / MODE OF BURIAL
+    / THK PIMA INDIANS; lines 9601-9613
+  start: '9601'
+  end: '9613'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: The dead are never cremated, as they are by the adjoining tribes on the west.
+  summary: The passage describes Pima mortuary practice as normally excluding cremation,
+    notes an occasional cremation exception while on the warpath, reports no known
+    disinterment for removal, and contrasts Pima burial practice with Hohokam floor
+    burial.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the Pima dead are never cremated under ordinary practice.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts Pima non-cremation with cremation among adjoining tribes
+    to the west.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An occasional cremation while on the warpath is described as an apparent exception
+    to the non-cremation rule.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The writer says he cannot account for the warpath cremation exception except
+    by possible Maricopa influence or a possible survival indicating western affinities
+    of Piman stock.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says no disinterment for removal had been ascertained among the
+    Pimas.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says the Pimas did not bury beneath floors, unlike the Hohokam.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pimas
+  description: The group whose mortuary practices are described in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the dead
+  description: Deceased persons whose treatment by burial or cremation is discussed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: adjoining tribes on the west
+  description: Neighboring groups said to cremate their dead.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Maricopas
+  description: A group named by the writer as a possible influence on occasional Pima
+    warpath cremation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Hohokam
+  description: A group said to have buried beneath floors, in contrast to the Pimas.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: the writer
+  description: The ethnographic narrator who comments on uncertainty about the cremation
+    exception.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: group with described mortuary customs
+  assigned_to:
+  - fig:1
+  basis: The passage describes Pima practices concerning cremation, disinterment,
+    and floor burial.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: deceased persons receiving mortuary treatment
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the dead as the persons cremated or not cremated.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: comparison group practicing cremation
+  assigned_to:
+  - fig:3
+  basis: The passage says adjoining tribes on the west cremate the dead, unlike the
+    Pimas.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: possible source of mortuary influence
+  assigned_to:
+  - fig:4
+  basis: The writer offers possible Maricopa influence as one explanation for occasional
+    warpath cremation.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: comparison group practicing floor burial
+  assigned_to:
+  - fig:5
+  basis: The passage contrasts Pima practice with Hohokam burial beneath floors.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: ethnographic commentator
+  assigned_to:
+  - fig:6
+  basis: The writer explicitly states uncertainty about the cause of the cremation
+    exception.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Description of Pima mortuary practice and exceptions
+  summary: The passage presents Pima non-cremation as the ordinary rule, notes occasional
+    cremation on the warpath, and reports no known disinterment or floor burial among
+    the Pimas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Comparisons with neighboring or earlier groups
+  summary: The passage contrasts Pima mortuary practice with cremation by adjoining
+    western tribes and floor burial by the Hohokam, while naming the Maricopas as
+    a possible influence on an exception.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Mortuary non-cremation rule
+  taxonomy_refs: []
+  basis: The passage explicitly states that Pima dead are not cremated as a general
+    practice.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic mortuary pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: Exceptional cremation during warfare
+  taxonomy_refs: []
+  basis: The passage describes occasional cremation while on the warpath as an apparent
+    exception to the ordinary rule.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The writer states uncertainty about the cause of this exception and offers
+    more than one possible explanation.
+- id: motif:3
+  label: Avoidance of disinterment and floor burial
+  taxonomy_refs: []
+  basis: The passage reports no known disinterment for removal and states that the
+    Pimas did not bury beneath floors.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a mortuary custom pattern and has no specific taxonomy reference
+    among the supplied motif families.
+comparison_claims:
+- id: claim:1
+  claim: The passage contrasts Pima non-cremation with cremation by adjoining tribes
+    to the west, indicating a nearby mortuary-practice comparison.
+  claim_level: same_function
+  target: adjoining western tribes' cremation of the dead
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a brief contrast and does not identify the adjoining
+    western tribes by name.
+- id: claim:2
+  claim: The passage presents Maricopa influence as one possible explanation for occasional
+    Pima warpath cremation.
+  claim_level: historical_contact
+  target: Maricopas as possible influence on Pima warpath cremation
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: low
+  limitations: The writer explicitly says he is unable to account for the practice
+    and gives this only as one possibility.
+- id: claim:3
+  claim: The passage contrasts Pima refusal of floor burial with Hohokam burial beneath
+    floors.
+  claim_level: same_function
+  target: Hohokam floor burial as mortuary practice
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the contrast stated in the passage; no broader
+    cultural relationship is established.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9601-9605
+  quote_or_summary: "“The dead are never cremated, as they are by the adjoining tribes
+    on the west.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9605-9607
+  quote_or_summary: 'The passage describes an apparent exception: occasional cremation
+    practiced while on the warpath.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 9607-9610
+  quote_or_summary: The writer says he cannot explain the warpath cremation except
+    as possibly due to Maricopa influence or to a survival suggesting western affinities
+    of Piman stock.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 9610-9612
+  quote_or_summary: The passage says no disinterment for removal had been ascertained
+    among the Pimas.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 9612-9613
+  quote_or_summary: The passage says the Pimas never buried beneath floors, unlike
+    the Hohokam.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal mortuary practices are clearly stated. Motif labeling is limited
+    because the passage is ethnographic rather than a mythic narrative and no supplied
+    taxonomy motif directly matches burial practice.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied symbol taxonomy item is directly supported by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l9601-l9613
+  passage_sha256=8be5a597f2d669018ba083d3f8f628a9f21a67219b2c734d029bc6a58c4a2466
+

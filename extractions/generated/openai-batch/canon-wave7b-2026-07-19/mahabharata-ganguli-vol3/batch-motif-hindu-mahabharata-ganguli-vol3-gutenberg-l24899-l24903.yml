@@ -1,0 +1,150 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l24899-l24903
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION VI / SECTION VII / SECTION VIII / SECTION IX; lines 24899-24903
+  start: '24899'
+  end: '24903'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Abandoning it, O king, to what other path wouldst thou betake thyself?
+  summary: The fragment contains the name or label Dasaratha, then gives a quoted
+    question addressed to a king about abandoning something and taking another path.
+    A new section heading follows.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The fragment contains the name or label “Dasaratha.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The quoted speech addresses someone as “O king.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The question concerns abandoning “it” and going to another path.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The quoted passage is followed by the heading “SECTION IX.”
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unidentified speaker
+  description: A voice in quoted speech asks the king a question; the passage does
+    not name the speaker.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: king
+  description: The addressee is addressed as “O king.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Dasaratha
+  description: A name or label appearing immediately before the quoted question; the
+    fragment does not specify the referent.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: The direct speech asks a question.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: royal addressee
+  assigned_to:
+  - fig:2
+  basis: The addressee is called “O king.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: unresolved named referent
+  assigned_to:
+  - fig:3
+  basis: The passage only states the name or label Dasaratha without further context.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: other path
+  literal_form: path
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Fragmentary quoted question about a path
+  summary: A fragment names or labels something Dasaratha; in adjacent quoted speech,
+    an unidentified speaker addresses a king and asks what other path he would take
+    if he abandoned “it.”
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 24899
+  quote_or_summary: called Dasaratha.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt quoted for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 24899-24900
+  quote_or_summary: Abandoning it, O king, to what other path wouldst thou betake
+    thyself?
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt quoted for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: line 24903
+  quote_or_summary: SECTION IX
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt quoted for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The line range is extremely fragmentary and crosses a section boundary. Literal
+    extraction is possible, but motif identification and comparison are not supported
+    by the supplied passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No motif-family or comparative claims were recorded because the supplied passage does not provide enough narrative context.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l24899-l24903
+  passage_sha256=3c959136e50b843f03c486670e6ae130a775eb8123b2c29f8b256eefc25f2b8e
+

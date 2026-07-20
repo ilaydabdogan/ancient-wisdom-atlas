@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l8267-l8311
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: DRINK / DRINK 243 / DRINK 245 / DRINK 247; lines 8267-8311
+  start: '8267'
+  end: '8311'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator reflects on an earlier interview involving liquor and states
+    that he never again offered liquor to a Burman. He describes Burmese Buddhist
+    opposition to stimulants and opium, rejects reports that King Thibaw drank, cites
+    a palace-connected merchant as denying those reports, and presents Burmese society
+    as committed to total abstinence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator says that after the remembered interview he has never offered
+    liquor to a Burman since.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the people believe their religion and believe it is
+    not good to drink stimulants or smoke opium.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage reports that tales had circulated calling King Thibaw a drunkard
+    and describing palace orgies, but the narrator says those reports were untrue.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that abstinence was enforced in the palace more strictly
+    than elsewhere.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A merchant with palace experience told the narrator that English reports that
+    the king drank contained no truth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage describes the society, from king to peasant, as a nation of total
+    abstainers.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says the best Burmans hope and strive that the people may remain
+    abstinent and escape the curse associated with drink.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: narrator
+  description: First-person speaker who recalls the interview and later abstains from
+    offering liquor to Burmans.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: prince
+  description: A prince whom the narrator had lectured and warned during the remembered
+    interview.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Burmans / Burmese people
+  description: The people described as religious believers who disapprove of stimulants
+    and opium and are characterized as total abstainers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: King Thibaw
+  description: The king about whom reports of drunkenness circulated; the passage
+    denies those reports.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: merchant
+  description: A merchant, much in the palace in former days, who told the narrator
+    the reports about the king drinking were untrue.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: English
+  description: Group named by the merchant as having invented the reports about palace
+    drinking.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: first-person observer and recollector
+  assigned_to:
+  - fig:1
+  basis: The passage is narrated in the first person and includes the narrator's remembered
+    conduct regarding liquor.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: interviewed prince
+  assigned_to:
+  - fig:2
+  basis: The narrator describes having lectured and warned the prince in the interview.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: religious abstainers
+  assigned_to:
+  - fig:3
+  basis: The people are described as believing their religion and rejecting stimulants
+    and opium.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: falsely accused ruler
+  assigned_to:
+  - fig:4
+  basis: The passage reports allegations that King Thibaw drank but says the reports
+    were not true.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: palace-connected informant
+  assigned_to:
+  - fig:5
+  basis: The merchant is described as having been much in the palace and as knowing
+    officials there.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: alleged source of false reports
+  assigned_to:
+  - fig:6
+  basis: The merchant says the English invented the reports about the king drinking.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: liquor and stimulants
+  literal_form: liquor, stimulants, whisky, drink
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: opium
+  literal_form: smoke opium
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Remembered interview and later restraint
+  summary: The narrator recalls lecturing and warning a prince, feeling uncertain
+    who had prevailed in the exchange, and subsequently never offering liquor to a
+    Burman again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Religious disapproval of intoxicants
+  summary: The passage describes the people as accepting their religion and rejecting
+    stimulants and opium.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Refutation of palace-drinking reports
+  summary: The passage denies reports that King Thibaw drank, says abstinence was
+    stricter in the palace than elsewhere, and cites a palace-connected merchant who
+    attributes the reports to the English.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Hope for continued abstinence
+  summary: The passage characterizes the society from king to peasant as total abstainers
+    and says leading Burmans hope and strive that this condition will continue.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: religious abstinence from intoxicants
+  taxonomy_refs: []
+  basis: The passage repeatedly frames abstinence from liquor, stimulants, and opium
+    as a religiously grounded social norm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic and moral-social pattern in the passage, not a
+    mythic narrative motif.
+- id: motif:2
+  label: royal abstinence defended against hostile rumor
+  taxonomy_refs: []
+  basis: Reports that the king drank are presented as false, and a palace-connected
+    informant denies English reports about royal drinking.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as historical correction rather than as a traditional
+    tale or mythic episode.
+- id: motif:3
+  label: foreign misunderstanding corrected by local norm
+  taxonomy_refs: []
+  basis: The narrator’s experience with offering liquor leads him to remember and
+    respect the Burmese norm against drink.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly formalize this as a recurring narrative
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8267-8282
+  quote_or_summary: The narrator recalls having lectured and warned a prince, reflects
+    on the interview, and states that he has never offered a Burman liquor since.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8283-8287
+  quote_or_summary: The passage states that the people believe their religion and
+    believe it is not good to drink stimulants or smoke opium.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8287-8295
+  quote_or_summary: The passage mentions old tales that King Thibaw was a drunkard
+    with palace orgies, then says these reports were untrue and that abstinence was
+    enforced in the palace even more strictly than elsewhere.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8295-8307
+  quote_or_summary: A merchant with extensive palace knowledge told the narrator that
+    the English had invented the reports and that English reports that the king drank
+    contained no truth.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8307-8311
+  quote_or_summary: The passage says that from the king to the humblest peasant the
+    people were a nation of total abstainers, and that the best Burmans hope and strive
+    that they may remain so and escape the terrible curse.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear for social and religious observations about abstinence,
+    but it is not a mythic narrative; candidate motifs are therefore treated as cultural
+    patterns without taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another motif family, pattern, or corpus tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l8267-l8311
+  passage_sha256=9028217f8af3c50275e2178a195af12f171e77af397f2d00048be95ac0c7384e
+

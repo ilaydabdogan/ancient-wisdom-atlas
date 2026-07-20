@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.gnostic-mead-fragments-of-a-faith-forgotten-archive-l20410-l20434
+source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+passage_locator:
+  label: PTOLEMY.  389 / HERACLEON.  391 / HERACLEON. / BARDESANES.; lines 20410-20434
+  start: '20410'
+  end: '20434'
+  translation: Fragments of a Faith Forgotten
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"the Gnosis was still studied in secret for centuries"'
+  summary: The passage introduces Bardesanes as the final subject in Mead's sketches
+    of Christian theosophists. It reports Hilgenfeld's label for Bardesanes as “the
+    last of the Gnostics,” qualifies that label as referring to public propaganda
+    among common Christianity, states that Gnosis continued secretly and reappeared
+    in other guises such as Manichaeism, and gives Bardesanes' name origin, birthplace,
+    dates, and parents.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author says he will treat of Bardesanes and thereby end his sketches of
+    Christian theosophists reconstructed from Patristic fragments.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hilgenfeld is reported as calling Bardesanes “the last of the Gnostics.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage qualifies “last of the Gnostics” as meaning the last person who
+    attempted propaganda for this phase of Gnosis among Common Christianity.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that Gnosis continued to be studied secretly for centuries
+    and appeared again in other guises, with the Manichaean movement given as an example.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bardesanes is also named Bar-daisan, a name connected with the river Daisan,
+    on whose banks he is said to have been born.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Bardesanes is said to have been born at Edessa on July 11, 155 A.D., and to
+    have died probably in the same city in 233 at age 78.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage names Bardesanes' parents as Nuhama and Nahashirama.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bardesanes / Bar-daisan
+  description: A Gnostic teacher or Christian theosophist introduced as the subject
+    of the section; described through Hilgenfeld's label as “the last of the Gnostics,”
+    with biographical details supplied.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hilgenfeld
+  description: A cited scholar who calls Bardesanes “the last of the Gnostics.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Nuhama
+  description: Named as one of Bardesanes' parents.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Nahashirama
+  description: Named as one of Bardesanes' parents.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: biographical subject
+  assigned_to:
+  - fig:1
+  basis: The passage opens a section devoted to Bardesanes and gives his life details.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: last public propagator of this phase of Gnosis
+  assigned_to:
+  - fig:1
+  basis: The passage explains the label “last of the Gnostics” as referring to the
+    last who tried to spread this phase of Gnosis among Common Christianity.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cited scholarly authority
+  assigned_to:
+  - fig:2
+  basis: Hilgenfeld is cited for the phrase “the last of the Gnostics.”
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: parent of Bardesanes
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage names Nuhama and Nahashirama as Bardesanes' parents.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Daisan river
+  literal_form: The river Daisan, glossed as “the Leaper,” on whose banks Bardesanes
+    is said to have been born.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Introduction of Bardesanes
+  summary: The author introduces Bardesanes as the next and final subject in a series
+    of sketches of Christian theosophists.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Qualified claim about the persistence of Gnosis
+  summary: The text explains that Bardesanes was “last” only in the sense of public
+    propaganda, while Gnosis continued secretly and later appeared in other forms
+    such as the Manichaean movement.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Name origin and biographical data
+  summary: The passage connects Bardesanes' alternate name with the Daisan river and
+    gives his birth, death, age, and parentage.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: secret preservation of wisdom or gnosis
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that Gnosis continued to be studied in secret for centuries
+    after Bardesanes' public activity.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a historical-theological claim in modern scholarship rather than
+    a mythic narrative scene; the motif label should be reviewed before comparative
+    use.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Manichaean movement as an example of Gnosis reappearing
+    in another historical guise.
+  claim_level: common_inheritance
+  target: the so-called Manichaean movement
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt gives only a brief assertion and does not provide doctrinal
+    or narrative details establishing the relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 20410-20417
+  quote_or_summary: The author says he will treat Bardesanes, “the last of the Gnostics,”
+    as Hilgenfeld calls him, and end sketches of Christian theosophists reconstructed
+    from Patristic scraps.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: 20418-20423
+  quote_or_summary: Bardesanes is called “last” in the sense of being the last to
+    attempt propaganda for this phase of Gnosis among Common Christianity.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: quote
+  locator: 20423-20430
+  quote_or_summary: "“the Gnosis was still studied in secret for centuries” and “often
+    reappeared ... in other guises,” with the Manichaean movement named as an example."
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: 20431-20433
+  quote_or_summary: Bardesanes, or Bar-daisan, is said to be named from the river
+    Daisan, “the Leaper,” on whose banks he was born.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: 20433-20434
+  quote_or_summary: The passage states that Bardesanes was born at Edessa on July
+    11, 155 A.D., died probably there in 233 at age 78, and names his parents as Nuhama
+    and Nahashirama.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Biographical and historical observations are direct. Motif and comparison
+    material is limited because the excerpt is modern scholarly prose rather than
+    a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional figures, symbols, or motifs were inferred beyond the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:gnostic-mead-fragments-of-a-faith-forgotten-archive__l20410-l20434
+  passage_sha256=746506a1df28bfe5c262656f85d647ff7d97e7fa74e541f87d3a38ab585838bc
+

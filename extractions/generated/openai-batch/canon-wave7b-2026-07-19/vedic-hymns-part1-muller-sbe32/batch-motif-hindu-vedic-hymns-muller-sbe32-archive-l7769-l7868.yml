@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l7769-l7868
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. I, 6, I. 23 / NOTES. I, 6, I. 25 / NOTES. 1, 6, 2. 29 / NOTES. 1,
+    6, 4. 31; lines 7769-7868
+  start: '7769'
+  end: '7868'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“O mortal, i.e. O sun (dying daily), thou hast been born with the dawn.”"
+  summary: The passage is a set of notes on a Vedic hymn. It records an ancient explanation
+    of a verse in which the daily dying sun is born with the dawn; gives variant translations
+    of a verse involving the Maruts, rain, pregnancy or embryo imagery, clouds, and
+    Prishni; and explains svadha as one’s own place or nature, interpreting the Maruts
+    as born again whenever Indra appears with the dawn.
+  language: English, with Sanskrit transliteration and German translation excerpts
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An ancient explanation addresses a “mortal” as the sun, describes the sun
+    parenthetically as dying daily, and says it has been born with the dawn.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Wilson’s translation identifies the Maruts as figures who bear names invoked
+    in holy rites.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In Wilson’s translation, the Maruts see rain about to be engendered.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In Wilson’s translation, the Maruts instigate an unnamed “him” to resume an
+    embryo condition in the clouds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Benfey’s and Ludwig’s translations render the same verse with pregnancy or
+    womb-fruit language.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note explains svadha as one’s own place or nature, and applies it to the
+    Maruts being born again when Indra appears with the dawn according to their wont.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: sun addressed as mortal
+  description: A commentator’s explanation equates the addressed mortal with the sun,
+    described as dying daily and born with the dawn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Maruts
+  description: Named in Wilson’s translation as bearers of names invoked in holy rites;
+    later explained as born again according to their wont when Indra appears.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: unnamed figure returned to embryo condition
+  description: Wilson’s translation has the Maruts instigate an unnamed “him” to resume
+    embryo condition in the clouds; the antecedent is not identified in the supplied
+    passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Indra
+  description: Indra is said to appear with the dawn; the Maruts are born as soon
+    as Indra appears.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Prishni
+  description: In Ludwig’s German translation, Prishni is connected with “leibesfrucht,”
+    womb-fruit or fruit of the body.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: daily dying and dawn-born solar figure
+  assigned_to:
+  - fig:1
+  basis: The gloss describes the sun as dying daily and as born with the dawn.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: holy-rite-named divine group
+  assigned_to:
+  - fig:2
+  basis: Wilson’s translation describes the Maruts as bearing names invoked in holy
+    rites.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cyclically reborn group according to wont
+  assigned_to:
+  - fig:2
+  basis: The note says the Maruts are born again and are always born when Indra appears,
+    according to their nature or wont.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: embryo-state recipient
+  assigned_to:
+  - fig:3
+  basis: Wilson’s translation says the Maruts instigate “him” to resume embryo condition
+    in the clouds.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: dawn-appearing deity
+  assigned_to:
+  - fig:4
+  basis: The note states that Indra appears with the dawn.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: figure associated with womb-fruit in translation
+  assigned_to:
+  - fig:5
+  basis: Ludwig’s translation connects Prishni with “leibesfrucht.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: dawn
+  literal_form: dawn
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: engendered rain
+  literal_form: rain about to be engendered
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: embryo condition in clouds
+  literal_form: embryo condition in the clouds
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: pregnancy or womb-fruit
+  literal_form: Schwangerschaft; Prishni leibesfrucht
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ritual names
+  literal_form: names invoked in holy rites; sacrifice-deserving names
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: svadha as nature or wont
+  literal_form: one’s own place; one’s own nature; according to wont
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sun born with dawn
+  summary: A commentary gloss addresses a mortal as the daily dying sun and says it
+    has been born with the dawn.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Maruts, rain, and cloud embryo
+  summary: Wilson’s translation has the Maruts, bearing names invoked in holy rites,
+    see rain being engendered and instigate an unnamed male figure to resume embryo
+    condition in the clouds.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pregnancy and Prishni rendering
+  summary: Benfey and Ludwig render the verse with pregnancy or womb-fruit language;
+    Ludwig connects the womb-fruit with Prishni and with sacrifice-worthy names.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Maruts born when Indra appears
+  summary: The note interprets the passage to mean that the Maruts are born again
+    according to their nature whenever Indra appears with the dawn.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: daily solar death and dawn birth
+  taxonomy_refs:
+  - death_rebirth
+  basis: The gloss explicitly describes the sun as dying daily and being born with
+    the dawn.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is presented as an ancient explanation of a verse, not necessarily
+    as the only interpretation of the hymn.
+- id: motif:2
+  label: rain-cloud pregnancy and embryo return
+  taxonomy_refs:
+  - sacred_birth
+  basis: Wilson’s translation describes rain being engendered and an unnamed figure
+    resuming embryo condition in the clouds; other translations use pregnancy or womb-fruit
+    language.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage reports multiple translations, and the antecedent of the embryo-recipient
+    is not identified within the supplied excerpt.
+- id: motif:3
+  label: repeated birth of a divine group at a dawn appearance
+  taxonomy_refs:
+  - death_rebirth
+  - sacred_birth
+  basis: The commentary states that the Maruts are born again, and are always born
+    as soon as Indra appears with the dawn, according to their nature.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an explanatory note on the verse rather than a continuous narrative
+    scene.
+- id: motif:4
+  label: sacred or ritual names of divine actors
+  taxonomy_refs:
+  - sacrifice
+  basis: The Maruts are described as bearing names invoked in holy rites, and Ludwig’s
+    rendering mentions names deserving sacrifice.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The evidence supports ritual naming language, but the excerpt gives little
+    narrative development for this as a motif.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly compares Sanskrit svadha with Greek and Germanic terms
+    to explain the sense of one’s nature or wont.
+  claim_level: linguistic_similarity
+  target: Greek ethos and German sitte / Old High German situ / Gothic sidu
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a philological comparison only; it does not by itself establish
+    a mythological motif, historical contact, or shared narrative pattern.
+evidence:
+- id: ev:1
+  type: quote
+  locator: opening note within lines 7769-7868
+  quote_or_summary: "“O mortal, i.e. O sun (dying daily), thou hast been born with
+    the dawn.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:2
+  type: quote
+  locator: Verse 4, Wilson translation within lines 7769-7868
+  quote_or_summary: 'Wilson: the Maruts, “having seen the rain about to be engendered,”
+    instigated him “to resume his embryo condition (in the clouds).”'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: Verse 4, Benfey and Ludwig translations within lines 7769-7868
+  quote_or_summary: Benfey’s German rendering uses pregnancy language; Ludwig’s German
+    rendering refers to Prishni’s “leibesfrucht” and to names deserving sacrifice.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: Note 2 on svadha, interpretive sentence within lines 7769-7868
+  quote_or_summary: "“The Maruts are born again ... according to their wont; they
+    are always born as soon as Indra appears.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: summary
+  locator: Note 2 on svadha, comparative philology paragraph within lines 7769-7868
+  quote_or_summary: The note says Benfey postulated Sanskrit svadha as corresponding
+    to Greek and Germanic words including Greek ethos and German sitte, Old High German
+    situ, and Gothic sidu.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on a commentary passage with variant translations
+    and some OCR/transliteration noise. Motif candidates are strongest where the passage
+    explicitly states daily dying/birth or repeated birth; pregnancy and ritual-name
+    motifs are more tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Grammar-only material in the passage was not extracted except where it directly affected mythic or symbolic interpretation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l7769-l7868
+  passage_sha256=6ca06e168bc0fe8498dcaf8329f43ea42d496ae78f5d2f6c61d144b582d3b61e
+

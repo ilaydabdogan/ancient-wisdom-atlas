@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l15476-l15515
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: AFTER  THE   BULLETS  ARE   HIDDEN / MOCCASIN     GAME    AT    WHITE     EARTH,     MINN.
+    / SIGNAL       I   GUESSED  WRONG / MOCCASIN    GAME    AT    WHITE    EARTH,     MINN.;
+    lines 15476-15515
+  start: '15476'
+  end: '15515'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes rules and scoring for a moccasin game at White Earth,
+    Minnesota. Bullets are hidden under moccasins until the guessing side guesses
+    correctly. A guesser uses a striking-stick and counting-sticks, and scoring depends
+    on the hidden marked bullet’s position and the guesses made. At the end of each
+    game, a stick is placed in the ground by the blanket, and stakes are settled after
+    an agreed number of games.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is identified as a moccasin game at White Earth, Minnesota.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One side continues hiding the bullets until the guessing side guesses correctly,
+    after which the score is counted.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The guesser holds a striking-stick in the right hand and counting-sticks in
+    the left hand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The counting-sticks initially number twenty, and each side receives sticks
+    according to its score.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When three or fewer counting-sticks remain, the man holding the bullets does
+    not guess, and the outcome depends on the player with the striking-stick.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If the marked bullet is under an end moccasin and the striking-stick player
+    guesses correctly, he wins the game.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: If the marked bullet is under a middle moccasin and the striking-stick player
+    fails to locate it, his opponents win the game.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The score depends on the marked bullet’s position, the number of guesses required,
+    and whether two guessers agree or disagree in their choice.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: At the conclusion of each game, a stick about ten inches long is stuck into
+    the ground at the edge of the blanket.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Stakes are settled after a previously agreed number of consecutive games.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: side hiding the bullets
+  description: A side in the moccasin game that hides the bullets until the opposing
+    side guesses correctly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: guessing side
+  description: The opposing side that attempts to guess the location of the hidden
+    marked bullet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: guesser with the striking-stick
+  description: A player who holds the striking-stick in his right hand and counting-sticks
+    in his left hand.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: partner of the guesser
+  description: A partner whose agreement or disagreement with the striking-stick player
+    affects scoring.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: opponents
+  description: Players who may win if the marked bullet is in a middle moccasin and
+    the striking-stick player fails to locate it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hider of concealed bullets
+  assigned_to:
+  - fig:1
+  basis: The passage states that one side continues to hide the bullets until the
+    guessing side guesses correctly.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: guesser
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage refers to the guessing side and to guessers attempting to locate
+    the marked bullet.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: holder of striking-stick and counting-sticks
+  assigned_to:
+  - fig:3
+  basis: The guesser is described as holding the striking-stick and counting-sticks.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: opposing winners under failed middle-location guess
+  assigned_to:
+  - fig:5
+  basis: The passage says the opponents win if the marked bullet is under a middle
+    moccasin and the player fails to locate it.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: hidden marked bullet
+  literal_form: marked bullet hidden under a moccasin
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: moccasins in a row
+  literal_form: moccasins under which the marked bullet may be hidden, including end
+    and middle positions
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: striking-stick
+  literal_form: stick held in the right hand by the guesser
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: counting-sticks
+  literal_form: twenty sticks initially held by the guesser and distributed according
+    to score
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: game-conclusion stick
+  literal_form: stick about ten inches long stuck into the ground at the edge of the
+    blanket after each game
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: blanket edge
+  literal_form: edge of the blanket where the concluding stick is placed
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Hidden-bullet guessing sequence
+  summary: One side hides bullets under moccasins until the guessing side locates
+    the hidden marked bullet correctly, after which scoring occurs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Endgame conditions with few counting-sticks
+  summary: When only three or fewer counting-sticks remain, the man holding the bullets
+    does not guess; the result depends on the player with the striking-stick and the
+    marked bullet’s position under an end or middle moccasin.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Scoring calculation
+  summary: The score is determined by the marked bullet’s location, the number of
+    guesses needed, and whether the two guessers agree or disagree.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Conclusion of a game
+  summary: After each game, a short stick is placed in the ground at the blanket’s
+    edge, and stakes are settled after an agreed number of consecutive games.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: concealed object guessing contest
+  taxonomy_refs: []
+  basis: The passage centers on a competitive procedure in which one side hides a
+    marked bullet under moccasins and the other side must guess its location.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic game-rule passage, not a mythic narrative; no
+    supplied taxonomy motif family directly matches the pattern.
+- id: motif:2
+  label: scored contest using counters and stakes
+  taxonomy_refs: []
+  basis: The passage describes counting-sticks, score allocation, endgame conditions,
+    and settlement of stakes after an agreed number of games.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is a social game pattern rather than a mythological motif; symbolic
+    or ritual significance is not stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 15476-15515
+  quote_or_summary: Headings identify the passage as a signal or arrangement in a
+    moccasin game at White Earth, Minnesota.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 15476-15515
+  quote_or_summary: One side continues to hide the bullets until the guessing side
+    guesses correctly, after which the score is counted.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; short excerpt/paraphrase from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 15476-15515
+  quote_or_summary: The guesser holds the striking-stick in his right hand and twenty
+    counting-sticks at first in his left hand; each side receives sticks according
+    to score.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15476-15515
+  quote_or_summary: When three or fewer counting-sticks remain, the man holding the
+    bullets does not guess; if the marked bullet is under an end moccasin and the
+    striking-stick player guesses correctly, he wins, while failure to locate it under
+    a middle moccasin gives the game to his opponents.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 15476-15515
+  quote_or_summary: Scoring depends on whether the marked bullet is under an end or
+    middle moccasin, the number of guesses required, and whether the player and partner
+    agree in their choice; examples assign eight or six counting-sticks in specified
+    cases.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 15476-15515
+  quote_or_summary: At the conclusion of each game, a stick about ten inches long
+    is placed in the ground at the edge of the blanket, and stakes are settled after
+    an agreed number of consecutive games.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The procedural details are clear despite OCR noise. Motif candidates are
+    limited because the passage describes game rules rather than a mythic episode
+    or explicit symbolic interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol reference was assigned because none of the provided taxonomy items is directly supported by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l15476-l15515
+  passage_sha256=e80153bc838a7c62c9d3dedb6fcd44d09057ef65a07436906e93f22cdaddd4cd
+

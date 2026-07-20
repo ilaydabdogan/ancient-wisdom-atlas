@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l9353-l9386
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: BURFAU OF ETHNOLOGY ELEVENTH ANNUAL REPORT PL. XL / TURNER. SNOW SHOES. 311
+    / THE HUDSON BAY ESKIMO. / WEAPONS,; lines 9353-9386
+  start: '9353'
+  end: '9386'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes former exclusive use of bows and arrows by the referenced
+    Indians, their later replacement by trader-obtained guns, and the continued use
+    of bows and arrows for small game because ammunition is costly. It also gives
+    construction details for bows and arrows.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The referenced Indians formerly used bows and arrows exclusively.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They have nearly discarded bows and arrows in favor of guns obtained from
+    traders.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bows and arrows are still used to kill ptarmigan, hares, and rabbits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bow is described as a larch or spruce wood piece, 4 to 6 feet long, with
+    a twisted or rolled deerskin strand for the string.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: If a bow breaks, another can be fashioned from wood obtained from the forest.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The arrows are usually 2 feet or 30 inches long and feathered with three ptarmigan
+    feathers.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The arrow head is usually an egg-shaped knob ending in a slender point that
+    soon breaks off.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Ammunition is described as too costly to spend on small game that is readily
+    procured.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: referenced Indians
+  description: Human group described as former exclusive users of bows and arrows
+    and later users of trader-obtained guns.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: traders
+  description: People from whom guns are procured.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: ptarmigan
+  description: Small game killed with bow and arrow; ptarmigan feathers are also used
+    on arrows.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: hares and rabbits
+  description: Small game killed with bow and arrow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: weapon users and small-game hunters
+  assigned_to:
+  - fig:1
+  basis: They formerly used bows and arrows, later procured guns, and still use bows
+    and arrows for small game.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: gun suppliers
+  assigned_to:
+  - fig:2
+  basis: The passage states that guns are procured from traders.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: small-game animals hunted with bow and arrow
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Ptarmigan, hares, and rabbits are named as animals killed with bow and arrow.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: arrow-feather source
+  assigned_to:
+  - fig:3
+  basis: Arrows are feathered with three ptarmigan feathers.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bow
+  literal_form: A 4-to-6-foot larch or spruce wood bow with a twisted or rolled deerskin
+    string.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: arrow
+  literal_form: A 2-foot or 30-inch arrow feathered with three ptarmigan feathers
+    and fitted with an egg-shaped knob head ending in a slender point.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: gun and ammunition
+  literal_form: Guns procured from traders; ammunition is costly and not used for
+    readily procured small game.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: forest wood for replacement bow
+  literal_form: Wood from the forest used to fashion another bow if one breaks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Shift from bow and arrow to trader-obtained guns
+  summary: The referenced Indians formerly used bow and arrow exclusively but have
+    nearly replaced them with guns obtained from traders.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Continued bow-and-arrow use for small game
+  summary: Bows and arrows remain in use for ptarmigan, hares, and rabbits, partly
+    because ammunition is too costly for such readily obtained game.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: scene:3
+  label: Weapon construction and repair
+  summary: The passage describes bow and arrow materials, dimensions, feathering,
+    and the ability to replace a broken bow using forest wood.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Traditional weapon replaced by trade firearm
+  taxonomy_refs: []
+  basis: The passage states that bows and arrows were formerly used exclusively but
+    have been nearly discarded for guns procured from traders.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a material-culture pattern, not a mythological narrative motif
+    in the supplied passage.
+- id: motif:2
+  label: Older weapon retained for economical small-game hunting
+  taxonomy_refs: []
+  basis: The passage states that bow and arrow are still used for small game because
+    ammunition is too costly for readily procured game.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic subsistence pattern; no symbolic or mythic interpretation
+    is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9353-9357
+  quote_or_summary: "“In former times these Indians used the bow and arrow exclusively,”
+    but have “nearly discarded” them for guns procured from traders."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 9358-9361
+  quote_or_summary: Bow and arrow are still used to kill ptarmigan, hares, and rabbits;
+    the bow is made from larch or spruce wood and is 4 to 6 feet long.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9361-9369
+  quote_or_summary: The bow is described as thick and elastic, easy to replace from
+    forest wood if broken, and strung with a twisted or rolled deerskin strand.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 9371-9374
+  quote_or_summary: Arrows are usually 2 feet or 30 inches long, feathered with three
+    ptarmigan feathers, and have an egg-shaped knob head ending in a slender point.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 9376-9378
+  quote_or_summary: The weapon is used for small game because ammunition costs too
+    much to spend on game that is readily procured.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ethnographic extraction is well supported. Motif candidates are limited
+    to material-culture patterns because the passage contains no mythological narrative,
+    ritual symbolism, or explicit cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family is directly supported by this passage; available symbol taxonomy refs were not applied because the objects are described as practical weapons and materials rather than symbolic items.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l9353-l9386
+  passage_sha256=ada5a821ed198ac4b0ffc3addf32ddc6eef2afda35b33c39cbabbb4d911d439d
+

@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l27381-l27395
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    ESKIMO    ABOUT    BERING    STRAIT / CONCEPTION   OF   NATURAL   PHENOMENA
+    / TRADITIONAL    SHOWERS   OF   ASHES / ANIMAL    SYMBOLISM; lines 27381-27395
+  start: '27381'
+  end: '27395'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes animal-based signs used to predict winter severity
+    or timing, and gives examples of expressive animal names based on appearance or
+    sound.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When the first foxes caught in fall are lean, old men predict a hard winter.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If white geese begin flying south early in autumn, an early winter is expected.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Names of birds and other animals used among the people are described as often
+    expressive.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The term for the emperor goose means "the hooded one."
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The grass snipe is called "the walrus talker" because its booming note is
+    similar to that of the walrus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: old men
+  description: Elders who predict winter conditions from animal signs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: first foxes caught in fall
+  description: Foxes whose leanness is treated as a sign of a hard winter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: white geese
+  description: Geese whose early southward flight in autumn is treated as a sign of
+    early winter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: emperor goose
+  description: Bird named with a term meaning "the hooded one."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: grass snipe
+  description: Bird called "the walrus talker" because of its booming note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: walrus
+  description: Animal whose sound is compared to the booming note of the grass snipe.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: seasonal omen interpreter
+  assigned_to:
+  - fig:1
+  basis: The old men predict a hard winter when the first fall foxes are lean.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: animal sign of winter conditions
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Lean fall foxes and early southward flight of white geese are described as
+    signs used to expect winter severity or timing.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: expressively named animal
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The emperor goose and grass snipe are given as examples of expressive animal
+    names.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: sound comparator in animal naming
+  assigned_to:
+  - fig:6
+  basis: The grass snipe's note is said to be similar to that of the walrus.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: lean fall foxes as winter omen
+  literal_form: The first foxes caught in fall are lean.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: early southward flight of white geese as winter omen
+  literal_form: White geese commence to fly southward early in autumn.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hooded-one name
+  literal_form: The emperor goose is named with a term meaning "the hooded one."
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: walrus-talker name
+  literal_form: The grass snipe is called "the walrus talker" from a booming note
+    like a walrus.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Animal signs used for winter prediction
+  summary: Old men interpret lean first foxes in fall as a sign of hard winter, and
+    early southward migration of white geese as a sign of early winter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Expressive animal naming
+  summary: 'The passage gives examples of animal names based on appearance and sound:
+    the emperor goose as "the hooded one" and the grass snipe as "the walrus talker."'
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: animal omens of seasonal change
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Animal condition and migration are used to anticipate the severity or early
+    arrival of winter.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The available taxonomy has no specific animal-omen category; the broader
+    seasonal_cycle family is the closest supported reference.
+- id: motif:2
+  label: expressive animal naming by visible or audible traits
+  taxonomy_refs: []
+  basis: 'Animal names are explained through salient traits: hooded appearance for
+    the emperor goose and walrus-like sound for the grass snipe.'
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a naming pattern rather than a narrative motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 27381-27385
+  quote_or_summary: The passage states that lean first foxes caught in fall lead old
+    men to predict a hard winter, and that early southward flight of white geese in
+    autumn leads to expectation of early winter.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 27387-27394
+  quote_or_summary: The passage says animal names are frequently expressive, giving
+    the emperor goose as "the hooded one" and the grass snipe as "the walrus talker"
+    because its booming note resembles that of the walrus.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; brief quotations from passage included.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is ethnographic description rather than a narrative tale, and available
+    taxonomy does not include a specific animal-omen category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make cross-traditional comparisons.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l27381-l27395
+  passage_sha256=e4526c7f893caa427150f8c70ee0ae32e5ca70777f660913396be29de2d1bdb4
+

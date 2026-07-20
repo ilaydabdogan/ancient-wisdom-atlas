@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.greek-pindar-odes-myers-gutenberg-l5279-l5338
+source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+passage_locator:
+  label: FOR CHROMIOS OF AITNA, / WINNER IN THE CHARIOT-RACE. / FOR THEAIOS OF ARGOS,
+    / WINNER IN THE WRESTLING-MATCH.; lines 5279-5338
+  start: '5279'
+  end: '5338'
+  translation: The Extant Odes of Pindar
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: half thy time thou shalt be alive beneath the earth, and half in the golden
+    house of heaven
+  summary: 'Zeus tells Polydeukes that he is Zeus''s son while his brother was begotten
+    by mortal seed. Zeus offers Polydeukes either undying life in Olympus or an equal
+    share with his brother: half his time alive beneath the earth and half in heaven.
+    Polydeukes chooses the shared lot, and Zeus unseals Kastor''s eye and tongue.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Zeus comes, stands before the addressed figure, and speaks to him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Zeus says the addressed figure is his son, while the addressed figure's brother
+    was begotten by mortal seed in their mother by the hero who was her husband.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:3
+  text: Zeus offers a choice between avoiding death and old age by dwelling in Olympus
+    with Athene and Ares, or sharing equally with the brother.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The equal share is described as half the time alive beneath the earth and
+    half in the golden house of heaven.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Polydeukes does not doubt which counsel he should choose.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Zeus unseals the eye and then the tongue of Kastor, who is described as wearing
+    brazen mail.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A footnote identifies the brothers as Kastor and Polydeukes.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Zeus
+  description: He comes, stands before Polydeukes, speaks as father, offers two lots,
+    and unseals Kastor's eye and tongue.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Polydeukes
+  description: The addressed son of Zeus and brother of Kastor; he chooses the counsel
+    involving equal share with his brother.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Kastor
+  description: Brother of Polydeukes; described as begotten by mortal seed and as
+    having his eye and tongue unsealed by Zeus.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Athene
+  description: Named as one of the divine figures with whom Polydeukes may dwell in
+    Olympus if he chooses that lot.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Ares
+  description: Named as one of the divine figures with whom Polydeukes may dwell in
+    Olympus; described with a shadowing spear.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Tyndareus
+  description: Named in a footnote as the nominal father of both brothers, though
+    only Kastor is said there to be really his son.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine father
+  assigned_to:
+  - fig:1
+  basis: Zeus says to Polydeukes, 'Thou art my son,' and the narration calls Zeus
+    his father.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: giver of choice and restorer
+  assigned_to:
+  - fig:1
+  basis: Zeus offers two possible lots and later unseals Kastor's eye and tongue.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: chooser of shared lot
+  assigned_to:
+  - fig:2
+  basis: Polydeukes chooses without doubt after Zeus offers the alternatives.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: brother in paired relationship
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage and footnote identify Kastor and Polydeukes as brothers.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: mortal brother restored by Zeus
+  assigned_to:
+  - fig:3
+  basis: Kastor is associated with mortal begetting, and Zeus unseals his eye and
+    tongue.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:6
+  label: Olympian co-dweller in offered lot
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Athene and Ares are named as figures with whom Polydeukes may dwell in Olympus.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: nominal mortal father
+  assigned_to:
+  - fig:6
+  basis: The footnote says both brothers were nominally sons of Tyndareus, but really
+    only Kastor was.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: two lots
+  literal_form: choice of two lots
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Olympus
+  literal_form: dwelling in Olympus with Athene and Ares
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: beneath the earth
+  literal_form: half the time alive beneath the earth
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: golden house of heaven
+  literal_form: half the time in the golden house of heaven
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: unsealed eye and tongue
+  literal_form: Zeus unsealed the eye and then the tongue of Kastor
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: brazen mail
+  literal_form: Kastor of the brazen mail
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Zeus offers Polydeukes two lots
+  summary: Zeus appears before Polydeukes, identifies him as his son, distinguishes
+    his brother's mortal begetting, and offers him either Olympian life free from
+    death and old age or an equal share with his brother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Divided existence between earth and heaven
+  summary: Zeus describes the shared lot as half the time alive beneath the earth
+    and half the time in the golden house of heaven.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Polydeukes chooses and Kastor is restored
+  summary: Polydeukes chooses without doubt, and Zeus unseals Kastor's eye and tongue.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine parent and mortal-linked child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Zeus directly identifies Polydeukes as his son and contrasts him with a brother
+    begotten by mortal seed.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The passage focuses on the father's offer rather than a birth narrative.
+- id: motif:2
+  label: brothers sharing fate
+  taxonomy_refs:
+  - sibling_pair
+  basis: The choice is framed around Polydeukes' concern for his brother and his willingness
+    to share an equal lot with him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage identifies the relation as brotherhood; it does not itself
+    use the word 'twin' in the provided excerpt.
+- id: motif:3
+  label: divided life between under-earth and heaven
+  taxonomy_refs:
+  - dying_and_returning
+  basis: The shared lot alternates between being alive beneath the earth and dwelling
+    in the golden house of heaven.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The text states a divided allotment of time rather than narrating a full
+    repeated death-and-return cycle.
+- id: motif:4
+  label: restoration of bodily powers by a god
+  taxonomy_refs:
+  - resurrection
+  basis: After Polydeukes chooses, Zeus unseals Kastor's eye and tongue.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The immediate action restores eye and tongue; complete bodily resurrection
+    is only indirectly suggested by the surrounding choice between earth and heaven.
+- id: motif:5
+  label: renunciation of solitary immortality for a beloved brother
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Polydeukes is offered deathless Olympian dwelling but chooses the lot that
+    gives him an equal share with his brother.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a divine choice, but does not explicitly call the
+    act an exchange or sacrifice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5279-5284
+  quote_or_summary: 'Zeus comes and says: ''Thou art my son,'' while the brother was
+    begotten ''by mortal seed'' in their mother by her husband.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 5284-5289
+  quote_or_summary: 'Zeus offers two choices: to shun death and hateful old age and
+    dwell in Olympus with Athene and Ares, or to share equally with the brother.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 5289-5292
+  quote_or_summary: "'half thy time thou shalt be alive beneath the earth, and half
+    in the golden house of heaven.'"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: 5294-5298
+  quote_or_summary: Polydeukes does not doubt which counsel to choose; Zeus then unseals
+    the eye and tongue of Kastor of the brazen mail.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: Footnote 14
+  quote_or_summary: "'Kastor and Polydeukes.'"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: Footnote 19
+  quote_or_summary: The footnote states that both brothers were nominally sons of
+    Tyndareus, but really only Kastor was, while Polydeukes was a son of Zeus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based on a short, explicit passage. Motif assignments
+    are plausible but should be reviewed, especially resurrection and sacred exchange
+    classifications. No comparison claims were made because the excerpt itself does
+    not compare this episode to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Footnotes included in the supplied passage were used only where directly relevant to the relationships and parentage in the excerpt.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-pindar-odes-myers-gutenberg__l5279-l5338
+  passage_sha256=95a8978270f24a0ff7c7d6ddfb7ae27ee9f4f8a0eebf0a902e7bc82c9753943f
+

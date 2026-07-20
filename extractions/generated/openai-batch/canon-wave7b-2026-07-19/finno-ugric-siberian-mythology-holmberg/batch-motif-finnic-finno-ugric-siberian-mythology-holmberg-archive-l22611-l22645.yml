@@ -1,0 +1,452 @@
+---
+record_id: batch.motif.finnic-finno-ugric-siberian-mythology-holmberg-archive-l22611-l22645
+source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+passage_locator:
+  label: J  A  . / OF  ME / PLATE  LXII / OF  THE; lines 22611-22645
+  start: '22611'
+  end: '22645'
+  translation: Finno-Ugric, Siberian Mythology
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains shamanic implements and costume parts as means enabling
+    shamanic flight and travel. It describes soul or shadow images on Tungus and Yenisei
+    Ostiak shaman costumes, then recounts a tale in which the first shaman Doh drops
+    his shadow during a skyward flight; evil spirits take it to the land of the dead,
+    where Khosadam, female ruler of the dead, attempts to devour it. The passage ends
+    mid-sentence with textual/scanning artifacts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Shamanic implements are described as mysterious means of communication that
+    make it possible for the shaman to fly and travel.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A long iron chain on the deer-type costume and a leather band on the bird
+    costume are explained as handholds for the shaman soul during rapid flights on
+    the animal’s back.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Tungus on the Yenisei have a leather image on the skirt point of the shaman
+    costume, and the image represents the shaman’s soul.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Yenisei Ostiak shaman costume has a similar thin copper-plate image in
+    the same place, and the people call the human-like figure the shaman’s shadow.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In a tale about Doh, the first shaman, Doh shamanizes and flies high toward
+    the sky, then lets his shadow fall from the skirt of the tunic.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Evil spirits capture the fallen shadow and take it to the land of the dead.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Khosadam, the female ruler of the dead, attempts to devour the soul; the passage
+    states that the great shaman’s soul was not easy to destroy, but the continuation
+    is truncated.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the shaman
+  description: A ritual practitioner whose implements and costume enable flying and
+    traveling.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the shaman’s soul or shadow
+  description: A soul-double represented by a leather or copper human-like image on
+    the shaman costume; in Doh’s tale it can fall, be captured, and be taken to the
+    land of the dead.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Tungus on the Yenisei
+  description: A people described as having a leather image on the point of the skirt
+    of the shaman costume representing the shaman’s soul.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Yenisei Ostiak
+  description: A people described as having a similar copper-plate image on the shaman
+    costume and as calling the human-like figure the shaman’s shadow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Doh
+  description: The first shaman in a Yenisei Ostiak tale; while shamanizing and flying
+    high toward the sky, he drops his shadow.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: evil spirits
+  description: Beings that capture Doh’s fallen shadow and carry it to the land of
+    the dead.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Khosadam
+  description: The female ruler of the dead who attempts to devour the shaman’s soul.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: shamanic traveler
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The shaman is said to fly and travel with implements; Doh shamanizes while
+    flying high toward the sky.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: detachable soul or shadow
+  assigned_to:
+  - fig:2
+  basis: The costume image is said to represent the shaman’s soul and is called the
+    shaman’s shadow; in the tale it falls from the tunic.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: costume tradition group
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage attributes specific shaman costume images and terminology to
+    the Tungus on the Yenisei and the Yenisei Ostiak.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: spirit captors
+  assigned_to:
+  - fig:6
+  basis: The evil spirits capture the fallen shadow and take it to the land of the
+    dead.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: female ruler of the dead and soul-devourer
+  assigned_to:
+  - fig:7
+  basis: Khosadam is named as the female ruler of the dead and is said to attempt
+    to devour the soul.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: captured soul-object
+  assigned_to:
+  - fig:2
+  basis: The fallen shadow is captured, transported to the land of the dead, and threatened
+    with devouring.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: first shaman
+  assigned_to:
+  - fig:5
+  basis: The tale is explicitly described as concerning the first shaman, Doh.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: shamanic implements as communication means
+  literal_form: Shaman’s implements described as mysterious means of communication.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: flight handholds
+  literal_form: A long iron chain on the crown of the deer-type costume and a leather
+    band on the back of the bird costume.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: animal-back costume
+  literal_form: Deer-type and bird costumes understood as an animal’s back during
+    the soul’s rapid flights.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: soul or shadow image
+  literal_form: A leather or thin copper-plate human-like image attached to the skirt
+    point of the shaman costume.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: skyward flight
+  literal_form: Doh flying high toward the sky while shamanizing.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: land of the dead
+  literal_form: The place to which evil spirits take the captured shadow.
+  associated_figures:
+  - fig:2
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Implements enable shamanic travel
+  summary: The passage states that the shaman’s implements function as mysterious
+    means of communication enabling the shaman to fly and travel.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Costume parts secure the soul in flight
+  summary: A chain on a deer-type costume and a leather band on a bird costume are
+    described as grips for the shaman soul during rapid flight on the animal’s back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Soul-shadow images on shaman costumes
+  summary: The passage compares a Tungus leather soul image with a Yenisei Ostiak
+    copper shadow image, both placed on the skirt point of a shaman costume.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Doh’s shadow is lost and taken to the dead
+  summary: Doh, the first shaman, drops his shadow during a skyward shamanic flight;
+    evil spirits capture it and take it to the land of the dead, where Khosadam attempts
+    to devour it.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: shamanic flight aided by ritual implements
+  taxonomy_refs:
+  - ascent
+  basis: The passage explicitly says the shaman’s implements make it possible to fly
+    and travel, and the tale has Doh flying high toward the sky while shamanizing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference captures the upward flight aspect, not the full
+    shamanic-technical context.
+- id: motif:2
+  label: detachable soul or shadow represented by a costume image
+  taxonomy_refs: []
+  basis: The soul is represented by a leather image and a similar copper image called
+    the shaman’s shadow; Doh’s shadow falls from the costume in the tale.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names an external soul or detachable
+    shadow motif.
+- id: motif:3
+  label: soul captured and carried to the land of the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Evil spirits capture the shaman’s fallen shadow and take it to the land of
+    the dead.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage names an afterlife destination but does not provide a detailed
+    journey map; the movement is forced capture rather than voluntary travel.
+- id: motif:4
+  label: ruler of the dead attempts to devour a shaman’s soul
+  taxonomy_refs: []
+  basis: Khosadam is named as female ruler of the dead and is said to attempt to devour
+    the soul according to her custom.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage is truncated immediately after stating that the great shaman’s
+    soul was not easy to destroy, so the outcome is not available here.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious visual and functional comparison between
+    the Tungus leather soul image and the Yenisei Ostiak copper shadow image on shaman
+    costumes.
+  claim_level: visual_similarity
+  target: Tungus and Yenisei Ostiak shaman costume soul/shadow images
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the passage’s brief description of similar
+    placement and soul/shadow significance; it does not by itself establish historical
+    contact or origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22611-22614
+  quote_or_summary: Shamanic implements are described as mysterious means of communication
+    that stimulate the shaman’s imagination and make it possible for him to fly and
+    travel.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: 22614-22618
+  quote_or_summary: A long iron chain on the deer-type costume and a leather band
+    on the bird costume are necessary for the shaman soul to grasp during rapid flights
+    on the animal’s back.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: 22618-22621
+  quote_or_summary: The Tungus on the Yenisei have a leather image on the point of
+    the shaman costume skirt; the image represents the shaman’s soul.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: 22621-22625
+  quote_or_summary: The Yenisei Ostiak shaman costume has a similar thin copper-plate
+    image in the same location, and the human-like figure is called the shaman’s shadow.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: 22625-22628
+  quote_or_summary: In a tale of the first shaman Doh, he shamanizes while flying
+    high toward the sky and lets his shadow fall from the skirt of his tunic.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:6
+  type: summary
+  locator: 22628-22630
+  quote_or_summary: Evil spirits capture Doh’s fallen shadow and take it to the land
+    of the dead.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:7
+  type: summary
+  locator: 22630-22634
+  quote_or_summary: Khosadam, the female ruler of the dead, attempts to devour the
+    soul according to her custom; the passage says the great shaman’s soul was not
+    easy to destroy.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:8
+  type: note
+  locator: 22634-22645
+  quote_or_summary: The supplied passage ends mid-sentence after the phrase that Khosadam
+    broke something, followed by scanning or plate artifacts; no continuation is available
+    in the provided text.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core costume, soul/shadow, flight, and capture elements are explicit. Confidence
+    is reduced because the passage is truncated and includes scanning artifacts at
+    the end.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No continuation beyond the supplied passage has been inferred. Taxonomy references are limited to supplied available terms and used only where directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:finnic-finno-ugric-siberian-mythology-holmberg-archive__l22611-l22645
+  passage_sha256=4174721478f984c783503f9f377fd16593478f9b23f22252dc0ef7082b5dbeba
+

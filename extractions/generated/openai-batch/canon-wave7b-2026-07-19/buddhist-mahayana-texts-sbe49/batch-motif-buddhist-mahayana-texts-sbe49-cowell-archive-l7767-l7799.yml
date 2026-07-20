@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.buddhist-mahayana-texts-sbe49-cowell-archive-l7767-l7799
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+passage_locator:
+  label: BOOK XV, 9-24. 161 / BOOK XV, 43-60. 165 / BOOK XV, 61-77. 167 / BOOK XVI.;
+    lines 7767-7799
+  start: '7767'
+  end: '7799'
+  translation: Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The omniscient lion of the Sakyas causes the assembled congregation, led
+    by the company of Maitriya, to turn the wheel of the Law. He addresses the company
+    and mendicants, saying his proclamation follows that of past arch-saints. He identifies
+    two extremes in ascetic self-control: devotion to sensual joys and excessive self-inflicted
+    mortification. He says these extremes are unworthy, useless, unrelated to true
+    asceticism or deliverance, and not conducive to knowledge, wisdom, or Nirvana.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The omniscient lion of the Sakyas causes the whole assembly, led by those
+    of the company of Maitriya, to turn the wheel of the Law.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker addresses the company belonging to Maitriya as one vast congregation.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says the present proclamation accords with what was proclaimed
+    by past arch-saints.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Two extremes in the self-control of the religious ascetic are named: devotion
+    to joys of desire and excessive pursuit of self-inflicted pain.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Both extremes are described as unworthy and useless.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The extremes are said not to belong to true asceticism, renunciation, self-control,
+    indifference, suppression of pain, or means of attaining deliverance.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The extremes are said not to tend toward spiritual forms of knowledge, wisdom,
+    or Nirvana.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: omniscient lion of the Sakyas
+  description: The speaker who causes the assembly to turn the wheel of the Law and
+    proclaims the teaching.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: assembly
+  description: The whole assembly, headed by those belonging to the company of Maitriya.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: company of Maitriya
+  description: A company belonging to Maitriya, addressed by the speaker as one vast
+    congregation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: mendicants
+  description: The addressees in the instruction on the two extremes of ascetic practice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: past arch-saints
+  description: Earlier authoritative proclaimers whose proclamation is said to match
+    the present one.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: teacher and proclaimer
+  assigned_to:
+  - fig:1
+  basis: The figure speaks to the congregation and presents instruction on ascetic
+    extremes, deliverance, wisdom, and Nirvana.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: addressed congregation
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The assembly, company of Maitriya, and mendicants are addressed or caused
+    to participate in turning the wheel of the Law.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: prior authoritative proclaimers
+  assigned_to:
+  - fig:5
+  basis: The speaker refers to past arch-saints as having previously proclaimed the
+    same teaching.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: wheel of the Law
+  literal_form: wheel of the Law
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: two extremes
+  literal_form: two extremes of ascetic self-control
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Assembly turns the wheel of the Law
+  summary: The omniscient lion of the Sakyas causes the assembly, led by the company
+    of Maitriya, to turn the wheel of the Law.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Proclamation to the company of Maitriya
+  summary: The speaker addresses the company of Maitriya as a vast congregation and
+    frames the proclamation as continuous with that of past arch-saints.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Teaching on the two ascetic extremes
+  summary: The speaker identifies sensual indulgence and excessive self-mortification
+    as two unworthy and useless extremes that do not lead to deliverance, knowledge,
+    wisdom, or Nirvana.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: turning the wheel of the Law before an assembly
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a teaching event in which the speaker causes the assembly
+    to turn the wheel of the Law and addresses them with a doctrinal proclamation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has no specific reference for the Buddhist image
+    of turning the wheel of the Law; the broad wisdom category is used because the
+    passage explicitly concerns proclamation and instruction.
+- id: motif:2
+  label: rejection of two ascetic extremes
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The passage organizes ascetic error into two opposed extremes and teaches
+    that neither extreme leads to knowledge, wisdom, deliverance, or Nirvana.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage names only the rejected extremes; it does not explicitly name
+    a middle path within this excerpt.
+- id: motif:3
+  label: authoritative repetition of earlier holy proclamation
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker says the current proclamation is the same as what past arch-saints
+    proclaimed.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not identify the past arch-saints or quote their earlier
+    proclamation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly frames the present proclamation as functionally continuous
+    with an earlier proclamation by past arch-saints.
+  claim_level: same_function
+  target: proclamation by past arch-saints within the same religious lineage or corpus
+    context
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison supported by the passage itself; it
+    does not establish details about the earlier proclamation or any external historical
+    relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7767-7771; Book XVI.1
+  quote_or_summary: The omniscient lion of the Sakyas causes the entire assembly,
+    headed by the company of Maitriya, to turn the wheel of the Law.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 7772-7777; Book XVI.2
+  quote_or_summary: The speaker addresses the company belonging to Maitriya as a vast
+    congregation and says that what past arch-saints proclaimed is now proclaimed
+    by him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 7778-7787; Book XVI.3-4
+  quote_or_summary: 'The speaker identifies two extremes of religious ascetic self-control:
+    devotion to the joys of desire and excessive pursuit of self-inflicted pain; each
+    is called unworthy and useless.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 7788-7793; Book XVI.5
+  quote_or_summary: The two extremes are said to have nothing to do with true asceticism,
+    renunciation, self-control, indifference, suppression of pain, or means of deliverance.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 7794-7799; Book XVI.6
+  quote_or_summary: The two extremes are said not to tend toward spiritual forms of
+    knowledge, wisdom, or Nirvana; one should know the uselessness of inflicting pain
+    and weariness on the body.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and doctrinally explicit. Motif mapping is somewhat
+    broad because the available taxonomy lacks a specific Middle Way or Dharma-wheel
+    motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Footnote text in the supplied passage was not treated as part of the main narrative or teaching.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-mahayana-texts-sbe49-cowell-archive__l7767-l7799
+  passage_sha256=dc05092d5629b8152b313503cb017fe14101a74285552fcef319fe787cb3564f
+

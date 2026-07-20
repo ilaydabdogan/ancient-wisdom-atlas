@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l3741-l3762
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: V.--WITCHCRAFT AND SORCERY. / THE WITCHES AND THE IDIOTS. / THE WITCH AND
+    THE NEW-BORN INFANT. / THE CHANGELING.; lines 3741-3762
+  start: '3741'
+  end: '3762'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A male figure is let out, kills Malbrouk's wife, puts her in a cauldron
+    over a fire, and leaves with a violin. Old Malbrouk hears the violin and assumes
+    his wife has killed Malbrouk, but then finds his wife half-boiled in the cauldron.
+    Young Malbrouk goes to the king's house, marries the princess, receives the crown
+    from the aged king, and makes his two brothers kings. The passage ends with an
+    informant attribution.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female figure lets a male figure out.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The male figure takes a large piece, strikes the wife of Malbrouk, and kills
+    her.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The male figure makes a large fire, puts the dead woman in a cauldron to boil,
+    takes a violin, and leaves the house.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Old Malbrouk hears the violin and concludes that his wife has killed Malbrouk
+    and is playing the violin to show joy.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Old Malbrouk approaches the house, sees a cauldron on the fire, notices long
+    hairs, and discovers his wife half-boiled inside.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Young Malbrouk goes to the king's house and marries the princess, followed
+    by rejoicing.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Because the king is aged, he gives his crown to Malbrouk and says Malbrouk
+    has gained it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Malbrouk makes his two brothers kings also.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage is followed by an attribution to Laurentine, about thirty-five
+    years old, who learned it from her mother.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: young Malbrouk / male actor
+  description: The passage first refers to a male actor as 'him' and 'he'; later it
+    names 'the young Malbrouk' as going to the king's house.
+  role_refs:
+  - role:1
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: wife of Malbrouk
+  description: A woman identified as Malbrouk's wife is killed and placed in the cauldron;
+    old Malbrouk later recognizes her there.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: old Malbrouk
+  description: He hears the violin, interprets it as a sign from his wife, and later
+    discovers her in the cauldron.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: princess
+  description: She is described as Malbrouk's well-beloved princess and marries him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: king
+  description: The king is described as somewhat aged and gives his crown to Malbrouk.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: two brothers of Malbrouk
+  description: Malbrouk makes his two brothers kings also.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: killer
+  assigned_to:
+  - fig:1
+  basis: The male actor kills the wife of Malbrouk.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victim placed in cauldron
+  assigned_to:
+  - fig:2
+  basis: The wife of Malbrouk is killed and put in the cauldron to boil.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: mistaken observer
+  assigned_to:
+  - fig:3
+  basis: Old Malbrouk hears the violin, forms a wrong conclusion, and then discovers
+    his wife in the cauldron.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: bridegroom
+  assigned_to:
+  - fig:1
+  basis: Young Malbrouk marries the princess.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: royal bride
+  assigned_to:
+  - fig:4
+  basis: The princess marries young Malbrouk.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: crown giver and crown recipient
+  assigned_to:
+  - fig:5
+  - fig:1
+  basis: The aged king gives his crown to Malbrouk, saying he has gained it.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: brothers elevated to kingship
+  assigned_to:
+  - fig:6
+  basis: Malbrouk makes his two brothers kings.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: A great fire under or near the cauldron.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: cauldron
+  literal_form: A cauldron used to boil the wife of Malbrouk.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: violin
+  literal_form: A violin taken by the male actor and later heard by old Malbrouk.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: crown
+  literal_form: The king's crown given to Malbrouk.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: long hairs
+  literal_form: Long hairs seen by old Malbrouk in the cauldron before he recognizes
+    his wife.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Killing and boiling in the cauldron
+  summary: After being let out, the male actor kills Malbrouk's wife, makes a fire,
+    puts her in the cauldron, takes the violin, and leaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Violin misunderstanding and discovery
+  summary: Old Malbrouk hears the violin and assumes his wife is celebrating Malbrouk's
+    death, but at the house he finds his wife half-boiled in the cauldron.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Marriage and royal succession
+  summary: Young Malbrouk marries the princess; the aged king gives him the crown,
+    and Malbrouk makes his two brothers kings.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Enemy killed and boiled in a cauldron
+  taxonomy_refs: []
+  basis: The male actor kills Malbrouk's wife and places her in a cauldron over a
+    fire; old Malbrouk later finds her half-boiled there.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The broader narrative context before this excerpt is not included.
+- id: motif:2
+  label: Misleading sound signal
+  taxonomy_refs: []
+  basis: The male actor takes a violin and leaves; old Malbrouk hears it and draws
+    a false conclusion about what has happened.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives the sequence and old Malbrouk's interpretation, but
+    does not explicitly state the actor's intention in taking the violin.
+- id: motif:3
+  label: Marriage to princess and transfer of kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Young Malbrouk marries the princess, receives the aged king's crown, and
+    is said to have gained it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the reward and succession, but the earlier deeds by
+    which Malbrouk 'gained' the crown are only partly visible in this excerpt.
+- id: motif:4
+  label: Elevation of brothers to kingship
+  taxonomy_refs: []
+  basis: After receiving the crown, Malbrouk makes his two brothers kings also.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe how or where the brothers rule.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3741-3744
+  quote_or_summary: A female figure lets a male figure out; he kills the wife of Malbrouk,
+    makes a fire, puts her in a cauldron to boil, takes a violin, and leaves the house.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 3744-3749
+  quote_or_summary: Old Malbrouk hears the violin and thinks his wife has killed Malbrouk
+    and is playing the violin to show joy.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 3750-3753
+  quote_or_summary: Old Malbrouk approaches the house, sees the cauldron on the fire,
+    notices long hairs, and recognizes his wife half-boiled inside.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 3754-3757
+  quote_or_summary: Young Malbrouk goes to the king's house, marries the princess,
+    receives the crown from the aged king, and makes his two brothers kings.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: citation
+  locator: 3759-3760
+  quote_or_summary: 'Informant attribution: Laurentine, about thirty-five years old,
+    learned the tale from her mother.'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by the excerpt's opening pronouns and missing preceding
+    context. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references were limited to supplied available references.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l3741-l3762
+  passage_sha256=97cf014c724e9ca52977ae6c1949cb33add751efaa4f0b9ad9b006df05f11871
+

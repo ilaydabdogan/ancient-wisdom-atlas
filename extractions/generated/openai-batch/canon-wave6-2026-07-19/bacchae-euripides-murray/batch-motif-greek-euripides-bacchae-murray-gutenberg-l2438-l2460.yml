@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2438-l2460
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: LEADER. / AGAVE. / LEADER. / LEADER.; lines 2438-2460
+  start: '2438'
+  end: '2460'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Agave says that a Mountain Thorn from a newly shorn trunk is being carried
+    and asks Asia-born Bacchanals to bless the chase. The Leader says he sees and
+    has welcomed her. Agave, described as calm and peaceful, says she caught a young
+    lion in the wildwood without nets. The Leader asks where in the wildwood it was
+    brought from.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Agave says that a Mountain Thorn from a newly shorn trunk is being carried
+    hither.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Agave addresses Asia-born Bacchanals and asks them to bless the chase.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Leader says that he sees and asks whether he has welcomed Agave.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stage direction describes Agave as very calm and peaceful.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Agave says that a young lion was in the wildwood and that she caught him without
+    nets.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Agave tells others to look without fear on the lion she says she has taken.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Leader asks where in the wildwood the figure called him was brought from.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agave
+  description: Speaker who says a Mountain Thorn is being carried, asks Bacchanals
+    to bless the chase, and says she caught a young lion without nets; the stage direction
+    describes her as very calm and peaceful.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Leader
+  description: Speaker who says he sees, refers to welcoming Agave, and asks where
+    the captured figure was brought from.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Asia-born Bacchanals
+  description: Group addressed by Agave and asked to bless the chase.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: The Lion
+  description: A young figure in the wildwood whom Agave says she caught without nets
+    and has taken.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: speaker and claimed captor
+  assigned_to:
+  - fig:1
+  basis: Agave speaks of bearing the Mountain Thorn and claims to have caught the
+    young lion without nets.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: witness and questioner
+  assigned_to:
+  - fig:2
+  basis: The Leader says he sees and later asks where the captured figure was brought
+    from.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: addressed Bacchanal group
+  assigned_to:
+  - fig:3
+  basis: Agave directly calls on the Asia-born Bacchanals to bless the chase.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: captured quarry
+  assigned_to:
+  - fig:4
+  basis: Agave calls the figure a young lion and says she caught him in the wildwood
+    without nets.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Mountain Thorn
+  literal_form: A Mountain Thorn from a newly shorn trunk, said to be carried hither.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wildwood
+  literal_form: The wildwood where Agave says the young lion was and from which the
+    Leader asks it was brought.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: lion
+  literal_form: The animal label Agave applies to the young figure she says she caught
+    and has taken.
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: nets absent
+  literal_form: Agave says she caught the young lion without nets.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Agave addresses the Bacchanals with the Mountain Thorn
+  summary: Agave says a Mountain Thorn from a newly shorn trunk is being carried and
+    asks the Asia-born Bacchanals to bless the chase.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Leader acknowledges Agave
+  summary: The Leader says that he sees and asks whether he has welcomed Agave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Agave claims a netless capture in the wildwood
+  summary: Agave, described as calm and peaceful, says she caught a young lion in
+    the wildwood without nets and tells others to look without fear; the Leader asks
+    where it was brought from.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritually blessed chase
+  taxonomy_refs: []
+  basis: Agave asks the Bacchanals to bless the chase while presenting or carrying
+    objects associated with it.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage invokes a chase but does not describe the full hunt or its
+    ritual context.
+- id: motif:2
+  label: netless capture of wild quarry
+  taxonomy_refs: []
+  basis: Agave says she caught a young lion in the wildwood without nets.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage provides Agave's claim but does not independently verify the
+    capture.
+- id: motif:3
+  label: processional carrying of a cut tree or thorn
+  taxonomy_refs: []
+  basis: Agave says a Mountain Thorn from a newly shorn trunk is being carried hither.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The text names the carried plant object but gives limited detail about
+    its function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2438-2443
+  quote_or_summary: 'Agave: “Hither a Mountain Thorn / Bear we! ... Bacchanals, bless
+    this chase!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 2445-2448
+  quote_or_summary: 'Leader: “I see. Yea; I see. / Have I not welcomed thee?”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 2450-2456
+  quote_or_summary: 'Agave is described as “very calmly and peacefully” and says,
+    “He was young in the wildwood: / Without nets I caught him! ... The Lion; I have
+    ta''en him!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 2458-2460
+  quote_or_summary: 'Leader: “Where in the wildwood? / Whence have ye brought him?”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied passage. Motif candidates are descriptive
+    and not mapped to broader motif families because the passage alone gives little
+    comparative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were extracted because the passage itself does not state or clearly support a comparison to another tradition or motif family.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2438-l2460
+  passage_sha256=481feee0bc9467caaab565fb3c3ced339ae8d5c6fd3c952052157ba9e6e2ac29
+

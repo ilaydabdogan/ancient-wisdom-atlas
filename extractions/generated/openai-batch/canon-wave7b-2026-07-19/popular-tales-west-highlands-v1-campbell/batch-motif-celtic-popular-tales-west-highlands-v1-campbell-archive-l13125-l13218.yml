@@ -1,0 +1,559 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l13125-l13218
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: FABLES. 277 / FABLES. 279 / FABLES. 281 / FABLES. 283; lines 13125-13218
+  start: '13125'
+  end: '13218'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Other creatures, also, not mentioned in stories, are gifted with speech,
+    but their speech is generally but a translation of their notes into Gaelic.
+  summary: The passage surveys animal fables and animal speech in Scottish Gaelic
+    tale material. It lists several animals that appear as speaking creatures, gives
+    examples of bird and frog speech rendered in Gaelic, recounts a hoodie deceiving
+    and eating a frog, and comments on hoodies or crows as wise, soothsaying birds
+    whose observed habits include dropping shellfish on stones and being trapped by
+    keepers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Several animals are identified as appearing as talking creatures in cited
+    stories, and other creatures are said to have speech rendered as translations
+    of their notes into Gaelic.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Oyster-catchers are said to call out a phrase glossed as “be wise” when a
+    stranger comes near their haunts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hoodie is said to utter a word glossed as “silly” while sitting on a hillock
+    by the wayside and bowing at passengers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the crow-and-frog dialogue, the hoodie tells the frog to put up his paw
+    and promises him a blue coat and a shirt.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After the frog puts up his hand, the hoodie takes him to a hillock and begins
+    to eat him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The frog asks where the good promise is, and the hoodie answers that they
+    had been drinking on that day.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The hoodie and the crow family are described as soothsayers and as having
+    a character for wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Hoodies are described as flying up and dropping stranded mussels or other
+    shells onto stones until the shell cracks and the inhabitant can be extracted.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Keepers trap hoodies by placing bait in a pool of water, setting a trap on
+    a knoll, and allowing the reconnoitering hoodie to settle on the trap.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage begins the next numbered item by stating that the grouse cock
+    and his wife are always disputing.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Catalogued talking animals
+  description: Animal types named as appearing with speech in cited stories, including
+    fox, bear, wolf, falcon, dog, sheep, cat, cock, goose, bull, frog, mouse, rat,
+    lion, and dove.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Oyster-catchers
+  description: Birds whose call is rendered as a Gaelic phrase meaning “be wise” when
+    a stranger approaches.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hoodie
+  description: A crow-like bird that speaks in the examples, deceives a frog, is associated
+    with wisdom and soothsaying, cracks shells on stones, and is trapped by keepers.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Frog / Gilchrist MacDugald
+  description: The frog in the crow-language dialogue; he speaks, raises his hand
+    after a promise, is carried to a hillock, and protests when the hoodie begins
+    eating him.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Keepers
+  description: Human trappers who catch hoodies by using bait, a pool of water, and
+    a trap placed on a knoll.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Grouse cock and wife
+  description: A bird couple introduced as always disputing at the end of the supplied
+    passage.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: speaking animal
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage lists animals with speech and gives bird and frog utterances
+    rendered in Gaelic and English.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: warning or admonishing bird
+  assigned_to:
+  - fig:2
+  basis: The oyster-catchers say a phrase glossed as “be wise” when a stranger approaches.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mocking roadside speaker
+  assigned_to:
+  - fig:3
+  basis: The hoodie is described as saying “silly” while sitting by the way and bowing
+    at passengers.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: deceptive predator
+  assigned_to:
+  - fig:3
+  basis: The hoodie promises clothing to the frog, then takes him to a hillock and
+    begins eating him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: deceived prey and protester
+  assigned_to:
+  - fig:4
+  basis: The frog complies with the hoodie’s request and later asks where the promised
+    reward is.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: soothsaying wise bird
+  assigned_to:
+  - fig:3
+  basis: The hoodie and crows are described as soothsayers with a character for wisdom.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: skillful shell-cracking forager
+  assigned_to:
+  - fig:3
+  basis: Hoodies are said to drop shellfish on stones until they crack and can be
+    eaten.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: human trapper
+  assigned_to:
+  - fig:5
+  basis: Keepers set bait and traps to catch hoodies.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: disputing spouse
+  assigned_to:
+  - fig:6
+  basis: The grouse cock and his wife are introduced as always disputing.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: animal speech
+  literal_form: Animal calls and utterances rendered as Gaelic speech and English
+    glosses
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: hillock or knoll
+  literal_form: Hillock by the wayside; hillock where the frog is eaten; knoll where
+    the trap is set
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: promised clothing
+  literal_form: A blue coat and a shirt promised to the frog
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: stone for breaking shells
+  literal_form: Stones on the beach used by hoodies to crack stranded mussels and
+    other shells
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: pool of water
+  literal_form: A pool of water where keepers place bait while setting a trap
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: bait and trap
+  literal_form: Bait hidden in a pool and a trap set on a knoll
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Survey of animal speech in tales
+  summary: The passage lists several animals that appear as talking creatures in Campbell’s
+    cited stories and notes that other animals’ speech is often treated as a Gaelic
+    translation of their natural notes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bird calls interpreted as words
+  summary: Oyster-catchers are said to call “be wise” near strangers, and the hoodie
+    is said to call “silly” while bowing from a hillock by the road.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hoodie deceives the frog
+  summary: The hoodie promises the frog a blue coat and shirt if he raises his paw;
+    after the frog complies, the hoodie carries him to a hillock and begins eating
+    him, then dismisses the promise when challenged.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hoodie as wise and soothsaying bird
+  summary: The narrator comments that hoodies and crows have long been treated as
+    soothsayers and suggests that the hoodie’s natural cleverness may explain this
+    role.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Hoodies crack shellfish on stones
+  summary: Hoodies are described as dropping stranded mussels and other shells on
+    beach stones until the shells crack and the contents can be eaten.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: scene:6
+  label: Keepers trap the hoodie
+  summary: Keepers imitate the hoodie’s tactics by placing bait in a pool and setting
+    a trap on a knoll; the hoodie cautiously approaches, surveys the place, and is
+    caught.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Introduction of disputing grouse pair
+  summary: The next item begins by saying the grouse cock and his wife are always
+    disputing, but the supplied passage ends before the fable continues.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Speaking animals whose calls are rendered as human language
+  taxonomy_refs: []
+  basis: The passage explicitly identifies multiple animals as talking creatures and
+    gives bird and frog utterances treated as Gaelic speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is partly an editorial survey rather than a single complete
+    tale episode.
+- id: motif:2
+  label: Wise or soothsaying crow-like bird
+  taxonomy_refs:
+  - wisdom
+  basis: The hoodie and crows are described as soothsayers with a longstanding reputation
+    for wisdom, and the narrator links this to the bird’s observed cleverness.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The soothsaying function is asserted by the narrator rather than enacted
+    in a full divinatory scene within the supplied passage.
+- id: motif:3
+  label: Deceptive promise used by predator to capture prey
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The hoodie promises the frog clothing, induces him to raise his paw, then
+    carries him off and begins eating him while evading the promise.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage supports deception
+    and predation but not a more elaborate boundary-crossing episode.
+- id: motif:4
+  label: Clever bird drops hard-shelled prey onto stone
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes hoodies repeatedly dropping mussels and other shells
+    on stones until they crack, and explicitly relates this to an old fable about
+    a bird dropping a tortoise on a stone.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The described behavior is presented as natural observation as well as
+    fable comparison.
+- id: motif:5
+  label: Human trappers outwit a clever animal by imitating its tactics
+  taxonomy_refs: []
+  basis: Keepers are said to trap hoodies successfully by beating them at their own
+    weapons, using bait, water, a knoll, and a trap.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is presented as practical trapping lore rather than as a complete
+    mythic narrative.
+- id: motif:6
+  label: Quarreling animal spouses
+  taxonomy_refs: []
+  basis: The passage introduces the grouse cock and his wife as always disputing.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The supplied passage cuts off immediately after introducing this item,
+    so the motif cannot be developed from the available text.
+comparison_claims:
+- id: claim:1
+  claim: The hoodie’s shell-dropping behavior is explicitly compared in the passage
+    to the old fable of a bird dropping a tortoise on a stone.
+  claim_level: same_function
+  target: Old fable of the bird that dropped a tortoise on a stone
+  evidence_refs:
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The old fable is mentioned only briefly; no full version or cultural
+    attribution is supplied in the passage.
+- id: claim:2
+  claim: The passage places hoodie and crow soothsaying within a broader, unspecified
+    pattern of crows as soothsayers in many lands.
+  claim_level: same_function
+  target: Crow or corvid soothsayer traditions in many lands
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is broad and lacks named external texts, regions, or
+    examples.
+- id: claim:3
+  claim: The passage groups multiple Campbell tale references as sharing the pattern
+    of animals that speak or whose calls are interpreted as speech.
+  claim_level: same_motif
+  target: Animal-speech episodes across the cited stories in the same collection
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The listed tale numbers are not summarized in detail in the supplied
+    passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13125-13218, opening paragraph on talking creatures
+  quote_or_summary: The passage lists the fox, bear, wolf, falcon, dog, sheep, cat,
+    cock, goose, bull, frog, mouse, rat, lion, dove, and other creatures as appearing
+    with speech or as having their notes translated into Gaelic.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 13125-13218, numbered item 11
+  quote_or_summary: "“Bi Glic, Bi Glic ... be wise, say the Oyster-catchers, when
+    a stranger comes near their haunts.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 13125-13218, numbered item 12
+  quote_or_summary: "“Gorach ... ‘silly,’ says the Hoodie, as he sits on a hillock
+    by the way side and bows at the passengers.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 13125-13218, numbered item 13 crow and frog dialogue
+  quote_or_summary: In a crow-language dialogue, the hoodie promises the frog a blue
+    coat and shirt if he puts up his paw; the frog does so, the hoodie carries him
+    to a hillock and begins eating him, and the frog asks where the promise has gone.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 13125-13218, paragraph after frog dialogue
+  quote_or_summary: "“The Hoodie ... and his family, the Crows, have been soothsayers
+    time out of mind, and in many lands”; the narrator adds that the hoodie deserves
+    “his character for wisdom.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 13125-13218, paragraph on shell-dropping hoodies
+  quote_or_summary: Hoodies on Western Isles shores at low tide fly up and drop stranded
+    mussels and other shells onto stones until the shell cracks and the inhabitant
+    can be extracted.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 13125-13218, paragraph on keepers trapping hoodies
+  quote_or_summary: Keepers trap hoodies by putting bait into a pool of water, making
+    a show of hiding it, setting a trap on a knoll, and waiting as the hoodie reconnoiters
+    and settles on the trap.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: quote
+  locator: lines 13125-13218, paragraph introducing shell-dropping comparison
+  quote_or_summary: "“The old fable of the bird which dropped a tortoise on a stone,
+    is enacted every day by Hoodies.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: lines 13125-13218, numbered item 14 opening
+  quote_or_summary: "“The Grouse Cock and his wife are always disputing”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the animal-speech, hoodie-frog, wisdom,
+    shell-dropping, and trapping material. Motif mapping is more tentative where broad
+    taxonomy labels such as wisdom or trickster_boundary are applied to short editorial
+    examples.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. The final grouse item is included minimally because the passage ends before the fable continues.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l13125-l13218
+  passage_sha256=109544891562ffb263876d88feb44f121ec9a3e3ec8b8643cabf544387895a3e
+

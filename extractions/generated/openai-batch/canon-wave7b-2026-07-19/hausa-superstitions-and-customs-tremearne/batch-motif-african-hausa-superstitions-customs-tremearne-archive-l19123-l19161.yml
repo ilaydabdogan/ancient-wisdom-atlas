@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l19123-l19161
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: HAUSA  SUPERST1TIO / DAN-KUCHINGAYA  AND  THE  WITCH  431 / HAL'S  A  SUPERSTITIONS
+    / THE    WONDERFUL  HORSE  433; lines 19123-19161
+  start: '19123'
+  end: '19161'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman boils acha in a jar, beats her body so that mouths appear all over
+    it, feeds the mouths, and then restores them to one mouth. A boy hidden in a tree
+    sees her, is questioned by her, denies seeing anything, then goes to the city
+    gate and publicly announces that he saw a woman with many mouths. The woman hears
+    him and says he has shamed her in the city.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Woman boils food in a large jar, adds a sackful of acha, stirs it, and
+    takes it off the fire.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After beating her body, mouths appear over the whole of the Woman's body,
+    and she feeds them with the cooked food.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mouths address the Woman as Mother and ask for food; when the food is
+    finished, she beats her body again and the mouths become one mouth.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Woman spreads a mat at the foot of the tree where the Boy is sitting and
+    lies down there.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Boy breaks off a branch and throws it down on the Woman.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Woman sees the Boy, tells him to descend, asks whether he saw her, and
+    he denies seeing her.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: At the gate of the city, the Boy blows horns and trumpets and says he saw
+    a woman with many mouths.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Woman hears the Boy's announcement, bites her fingers or hands, and says
+    that he has shamed her in the city.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Woman
+  description: A woman who cooks acha, causes many mouths to appear on her body, feeds
+    them, questions the Boy, and later feels shamed by his public announcement.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Boy
+  description: A boy sitting in a tree who sees the Woman, denies seeing her when
+    questioned, and later announces what he saw at the city gate.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: many-mouthed woman
+  assigned_to:
+  - fig:1
+  basis: The passage describes mouths appearing over the Woman's body and her feeding
+    them before returning them to one mouth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hidden observer
+  assigned_to:
+  - fig:2
+  basis: The Boy is sitting in the tree above the Woman and is asked whether he saw
+    her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: public revealer
+  assigned_to:
+  - fig:2
+  basis: The Boy announces at the city gate that he saw a woman with many mouths.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: many mouths
+  literal_form: Mouths appearing over the whole of the Woman's body, eating and speaking
+    before becoming one mouth again.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tree
+  literal_form: The tree in which the Boy sits and at whose foot the Woman spreads
+    her mat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire
+  literal_form: The fire used to boil the jar of acha before the Woman feeds the mouths.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Feeding the mouths
+  summary: The Woman cooks acha, causes many mouths to appear on her body, feeds them,
+    and restores them to one mouth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Boy discovered in the tree
+  summary: The Woman lies under the tree where the Boy is sitting; he throws down
+    a branch, she sees him, calls him down, and asks whether he saw her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Public announcement and shame
+  summary: The Boy announces at the city gate that he saw a woman with many mouths,
+    and the Woman hears him and says he has shamed her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: many-mouthed body fed by one person
+  taxonomy_refs: []
+  basis: The Woman's body becomes covered with mouths, each of which eats and speaks,
+    and she feeds them until the food is gone.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the cause or larger meaning of the many mouths
+    within this excerpt.
+- id: motif:2
+  label: temporary bodily transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Woman beats her body, gains many mouths, and later beats her body again
+    so that the mouths become one.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The transformation is limited to the multiplication and restoration of
+    mouths; it is not a full change of identity or animal form.
+- id: motif:3
+  label: secret sight publicly exposed
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The Boy observes the Woman, denies seeing her when questioned, then publicly
+    announces that he saw her many mouths, causing her shame.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage implies secrecy and shame, but it does not state an explicit
+    prohibition against seeing the act.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19123-19136
+  quote_or_summary: The Woman boils acha, beats her body so that mouths appear over
+    it, feeds the mouths as they address her as Mother, and then makes the mouths
+    become one again.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 19136-19146
+  quote_or_summary: The Woman spreads a mat at the foot of the tree where the Boy
+    is sitting; the Boy throws down a branch, and the Woman looks up and sees him.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 19146-19158
+  quote_or_summary: The Woman tells the Boy to descend and asks whether he saw her;
+    he denies it, but at the city gate he announces that he saw a woman with many
+    mouths.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 19159-19161
+  quote_or_summary: The Woman hears the Boy's announcement, bites her fingers or hands,
+    and says that he has shamed her in the city.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied passage. Motif labels are provisional
+    because the excerpt begins mid-story and does not provide full narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode with another text, tradition, or motif family beyond provisional taxonomy alignment.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l19123-l19161
+  passage_sha256=e316c1d3799cc5c81ddc1b188d96cf8897b97269e1b2078711534eb055cd86bb
+

@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.hermetic-mead-thrice-greatest-hermes-archive-v1-l5048-l5063
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+passage_locator:
+  label: THOTH THE MASTER OP WISDOM 75 / THOTH THE MASTER OF WISDOM 11 / THOTH THE
+    MASTER OP WISDOM 79 / THOTH THE MASTER OF WISDOM 81; lines 5048-5063
+  start: '5048'
+  end: '5063'
+  translation: 'Thrice-Greatest Hermes, Vol. I: Prolegomena'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Under the heading identifying Thoth as master of wisdom, the passage argues
+    that Mr Adams should not simply be treated as inventing a grandiose religion.
+    It presents critics with a dilemma: either regard him as a sublime inventor or
+    admit that ancient texts inspired his ideas. The passage closes by suggesting
+    that continued sympathetic study may reveal more of what Egypt has preserved.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section heading identifies Thoth as the master of wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mr Adams is discussed as someone whom critics might call the inventor of a
+    grandiose religion.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The passage says a student of inner nature knows the material is not an invention,
+    while also regretting that Mr Adams omitted references.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Critics are presented with two alternatives: declare the material invented
+    by Mr Adams or admit that ancient texts inspired him.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Egypt is described as having preserved material that future continued study
+    and sympathetic interpretation may reveal.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Thoth
+  description: Named in the heading as the master of wisdom.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mr Adams
+  description: A modern author discussed as either a possible inventor of the ideas
+    or as someone inspired by ancient texts.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: student of inner nature
+  description: A type of student who knows the material is not invention and regrets
+    the omission of references.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: critics
+  description: Those whom the passage says must choose between two explanations for
+    Mr Adams's ideas.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: master of wisdom
+  assigned_to:
+  - fig:1
+  basis: The heading explicitly calls Thoth the master of wisdom.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: putative inventor
+  assigned_to:
+  - fig:2
+  basis: The passage says critics may declare that Mr Adams invented the material
+    and then honor his genius.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipient of inspiration from ancient texts
+  assigned_to:
+  - fig:2
+  basis: The alternative presented is that ancient texts inspired Mr Adams with the
+    ideas.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: knower that the material is not invention
+  assigned_to:
+  - fig:3
+  basis: The passage states that the student of inner nature knows it is not an invention.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: adjudicators of a dilemma
+  assigned_to:
+  - fig:4
+  basis: The critics are said to face two horns of a dilemma concerning invention
+    versus ancient textual inspiration.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Dilemma over invention or ancient textual inspiration
+  summary: 'The passage frames Thoth as master of wisdom and then presents an argumentative
+    choice about Mr Adams: either his account is an extraordinary invention or ancient
+    texts have inspired his ideas, with Egypt holding further material for future
+    study.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Wisdom preserved in ancient texts
+  taxonomy_refs:
+  - wisdom
+  basis: The passage identifies Thoth with wisdom and describes ancient texts, and
+    Egypt more broadly, as sources that inspire or preserve ideas awaiting future
+    study.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a scholarly interpretive passage rather than a mythic narrative;
+    it does not present a discrete myth episode or ritual action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 5048
+  quote_or_summary: 'Heading: “THOTH THE MASTER OF WISDOM 81.”'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 5051-5056
+  quote_or_summary: The passage says the student of inner nature knows the material
+    is not an invention and regrets that Mr Adams omitted his references.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5056-5061
+  quote_or_summary: 'Critics are said to face a dilemma: either declare that the author
+    invented everything and honor his genius, or admit that ancient texts inspired
+    him with these ideas.'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5061-5063
+  quote_or_summary: The passage asks what continued study and sympathetic interpretation
+    may reveal if this is a foretaste of what Egypt has preserved.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is reflective prose about sources and interpretation, not
+    a narrative myth passage. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols or comparison claims were extracted because the passage does not provide specific symbolic imagery or a supported cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hermetic-mead-thrice-greatest-hermes-archive-v1__l5048-l5063
+  passage_sha256=2a586d40b266087a573128d5ed9a575b0dfb21590464a12d78137cbd03f61063
+

@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.micronesian-caroline-islands-christian-archive-l4909-l4923
+source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+passage_locator:
+  label: THE BEACH AT LOT / RUIZ SURROUNDED WITH BUNCHES OF KARRAT OR GIANT PLANTAINS
+    / CHAPTER VII / RETURN FROM METALANIM I2I; lines 4909-4923
+  start: '4909'
+  end: '4923'
+  translation: 'The Caroline Islands: Travel in the Sea of the Little Lands'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator says some creditors in the garrison awaited a man's return
+    to Ponape, but news later came that he had returned to Manila, joined a rebellion,
+    was captured in a skirmish, tried by court-martial, and shot by the Spanish on
+    the waterfront with other rebels. The narrator then closes the story of his first
+    four months in Ponape.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some creditors in the garrison were left awaiting the unnamed man's return
+    to Ponape.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: News later reported that the man returned to Manila and joined a rebellion.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man was taken prisoner in a skirmish.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A court-martial was held before the execution.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Spanish shot the man on the waterfront along with a group of fellow rebels.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator states that this ends the story of his first four months in Ponape.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed man
+  description: A man whose creditors awaited his return to Ponape; he later returned
+    to Manila, joined a rebellion, was captured, tried, and executed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: creditors in the garrison
+  description: People in the garrison who awaited the unnamed man's return to Ponape
+    with interest and anxiety.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Spanish
+  description: The executing authority described as shooting the unnamed man and other
+    rebels after a court-martial.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: fellow rebels
+  description: Other rebels shot with the unnamed man on the waterfront.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: narrator
+  description: Speaker who reports the news and closes the account of his first four
+    months in Ponape.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: debtor or obligated returnee
+  assigned_to:
+  - fig:1
+  basis: Creditors in the garrison awaited his return to Ponape.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rebel prisoner executed
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The man joined a rebellion, was captured, and was shot with fellow rebels.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: waiting creditors
+  assigned_to:
+  - fig:2
+  basis: They awaited the man's return to Ponape with interest and anxiety.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: military executioners or authority
+  assigned_to:
+  - fig:3
+  basis: A court-martial was held and the Spanish shot the man and other rebels.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: reporting narrator
+  assigned_to:
+  - fig:5
+  basis: The speaker says he left creditors awaiting the return and later marks the
+    end of his story.
+  evidence_refs:
+  - ev:1
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Creditors await an absent man's return
+  summary: The narrator recalls that some creditors in the garrison were waiting anxiously
+    for the man's return to Ponape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rebellion, capture, and execution in Manila
+  summary: News reaches the narrator that the man went back to Manila, joined a rebellion,
+    was captured in a skirmish, court-martialed, and shot by the Spanish on the waterfront
+    with other rebels.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Narrative closure
+  summary: The narrator concludes the story of his first four months in Ponape.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: anticipated return that does not occur
+  taxonomy_refs:
+  - return
+  basis: The passage contrasts creditors awaiting the man's return to Ponape with
+    the report that he instead returned to Manila and died there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is a historical travel narrative episode, not presented as a mythic
+    or ritual motif; the taxonomy link is broad and should be reviewed.
+- id: motif:2
+  label: capture, judgment, and execution after rebellion
+  taxonomy_refs: []
+  basis: The man joins a rebellion, is captured in a skirmish, subjected to a court-martial,
+    and shot with fellow rebels.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: No supplied taxonomy family directly fits this historical sequence; it
+    is recorded as a narrative pattern rather than a comparative mythology claim.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4909-4915
+  quote_or_summary: The narrator says some creditors in the garrison were left awaiting
+    the man's return to Ponape with lively interest and anxiety, but he did not come.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 4915-4918
+  quote_or_summary: News later says the man returned to Manila and joined a rebellion
+    that had just broken out.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 4918-4919
+  quote_or_summary: The man was taken prisoner in a skirmish.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 4919-4920
+  quote_or_summary: A court-martial was held.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 4920-4922
+  quote_or_summary: One morning the Spanish shot him on the waterfront with a group
+    of fellow rebels.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: quote
+  locator: lines 4922-4923
+  quote_or_summary: "“And here ends the story of my first four months in Ponape.”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; brief quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are weak because
+    the passage is a historical anecdote rather than a mythic narrative. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols were extracted; the waterfront is treated as a literal setting rather than a symbolic water motif.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-caroline-islands-christian-archive__l4909-l4923
+  passage_sha256=9c433b21ddc37417c1f75de4d5345a2d8a3abe02b4d5ef38f4f3269937e4011b
+

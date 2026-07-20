@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l2431-l2473
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: PRIMITIVE INDIAN LIFE / PRIMITIVE INDIAN LIFE / PRIMITIVE INDIAN LIFE / PRIMITIVE
+    INDIAN LIFE; lines 2431-2473
+  start: '2431'
+  end: '2473'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: As soon as a place becomes haunted he must move.
+  summary: The passage describes dry-season hardship, renewed aquatic life after rains,
+    the Lengua Indian habit of wandering, fear of ghosts and spirits as a cause of
+    moving, sociable inter-clan feasting, children’s play, and simple outdoor sleeping
+    arrangements near a fire.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: During drought, gardens stop producing, swamps and rivers dry up, and fish
+    become unobtainable.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some aquatic creatures bury themselves in mud during drought, deposit eggs,
+    and multiply again when rains return.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The passage says the Indian wanders not only for livelihood but also from
+    a restless habit formed by generations of circumstances.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dread of ghosts and spirits is described as a force causing movement from
+    a place when it becomes haunted.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When food is available, the Indian is described as moving from clan to clan
+    for feasting and merrymaking.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator compares this inter-clan feasting to the sons of Job going to
+    and fro feasting in each other’s houses.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: At night, unless there is unusual activity, the Indian generally goes to rest
+    between 9 and 10 p.m.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The sleeping preparation includes making up the fire, pulling a skin mat toward
+    it, joining mats together, and using a palm-log as a pillow.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Unless it is raining, people are said to sleep in the open with the sky above
+    them.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the Indian
+  description: 'The Lengua Indian as described collectively by the narrator: mobile,
+    sociable, fearful of ghosts and spirits, and sleeping outdoors with simple preparations.'
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: children
+  description: Children are mentioned as enjoying life and playing games resembling
+    those of children at home.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: ghosts and spirits
+  description: Unseen beings whose feared presence can make a place haunted and require
+    movement away from it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: sons of Job the Patriarch
+  description: Biblical figures used by the narrator as an analogy for going to and
+    fro feasting in one another’s houses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wanderer
+  assigned_to:
+  - fig:1
+  basis: The passage says the Indian is forced and habituated to wander and cannot
+    remain long in one place.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: haunting-avoider
+  assigned_to:
+  - fig:1
+  basis: The passage states that when a place becomes haunted, he must move.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: inter-clan feast participant
+  assigned_to:
+  - fig:1
+  basis: The passage says he moves from clan to clan, feasting and making merry when
+    food is obtainable.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: players
+  assigned_to:
+  - fig:2
+  basis: The passage says the children enjoy life and play games.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: feared unseen presence
+  assigned_to:
+  - fig:3
+  basis: Ghosts and spirits are described as a source of dread and as making a place
+    haunted.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: comparative feast-goers
+  assigned_to:
+  - fig:4
+  basis: The narrator uses the sons of Job as an analogy for repeated feasting in
+    one another’s houses.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: returning rains
+  literal_form: rains after drought
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire by sleeping place
+  literal_form: fire made up before lying down
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: open sky
+  literal_form: blue vault of heaven above outdoor sleepers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: haunted place
+  literal_form: place made haunted by ghosts or spirits
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: mud refuge
+  literal_form: mud in which creatures bury themselves during drought
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Drought and renewed aquatic life
+  summary: Drought dries gardens, swamps, and rivers; some creatures retreat into
+    mud and later multiply when rains fall.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wandering and haunted places
+  summary: The Indian is described as wandering from necessity, habit, and fear of
+    ghosts and spirits; a haunted place must be left.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Inter-clan feasting
+  summary: When food is available, the Indian moves from clan to clan for feasting
+    and merrymaking, with an analogy to the sons of Job.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Night rest outdoors
+  summary: The Indian prepares for sleep by making up the fire, arranging mats and
+    a palm-log pillow, covering himself if needed, and sleeping outside unless it
+    rains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Drought followed by rain-renewed life
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage presents a recurring environmental sequence in which drought
+    dries the landscape and later rains restore and multiply aquatic life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic and ecological description, not a narrated mythic
+    episode.
+- id: motif:2
+  label: Haunted place causes departure
+  taxonomy_refs:
+  - departure
+  basis: The passage states that dread of ghosts and spirits is a major force and
+    that a place must be left when it becomes haunted.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes a social practice or belief rather than a mythic
+    journey narrative.
+- id: motif:3
+  label: Communal movement for feasting
+  taxonomy_refs: []
+  basis: The passage describes movement from clan to clan for feasting and merrymaking
+    when food is available.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No formal taxonomy reference is supplied for this social pattern.
+comparison_claims:
+- id: claim:1
+  claim: The narrator explicitly compares Lengua inter-clan feasting to the sons of
+    Job going to and fro feasting in one another’s houses.
+  claim_level: same_function
+  target: Biblical sons of Job as feast-goers
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a narrator’s literary analogy only; it does not support historical
+    contact, common inheritance, or a shared mythic tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2431-2435
+  quote_or_summary: Gardens cease producing, swamps and rivers dry, fish are unavailable,
+    and some kinds bury themselves in mud as drought approaches.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 2435-2438
+  quote_or_summary: "“not till much-wished-for rains fall do they once more spring
+    into life, multiply rapidly”"
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 2440-2448
+  quote_or_summary: The Indian is described as driven to wander by livelihood, by
+    a restless spirit, and by inherited habit, making it difficult to remain long
+    in one place.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 2448-2452
+  quote_or_summary: "“As soon as a place becomes haunted he must move.”"
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 2452-2462
+  quote_or_summary: The passage describes sociability, moving from clan to clan for
+    feasting and merrymaking, compares this to the sons of Job, and notes children’s
+    play.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 2464-2471
+  quote_or_summary: Unless there is a feast, ghost scare, visitors, or sickness, the
+    Indian retires between 9 and 10 p.m., makes up the fire, arranges skin mats and
+    a palm-log pillow, and sleeps without changing clothing.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: 2472-2473
+  quote_or_summary: "“Unless it is raining, they invariably sleep out in the open,
+    with nothing but the blue vault of heaven above them.”"
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong. Motif labeling is cautious because the passage
+    is ethnographic prose rather than a myth narrative. The comparison claim is based
+    only on the narrator’s explicit Biblical analogy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All figures and motifs are limited to the supplied passage. No historical-contact inference is made.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l2431-l2473
+  passage_sha256=8d73f15aa11ae4165fa70bdde194f62eff481edf5609e566812c1324cb73942e
+

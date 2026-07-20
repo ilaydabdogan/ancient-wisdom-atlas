@@ -1,0 +1,391 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l9549-l9639
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: NENENOT / SNOWSHOE / TURNER.) WEAPONS. 815 / HUNTING,; lines 9549-9639
+  start: '9549'
+  end: '9639'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the scarcity of beaver in the Ungava district, explains
+    that their limited distribution is attributed to lack of food, and records several
+    methods used to capture them: opening lodges after blocking underwater exits,
+    draining water away from a lodge, shooting beavers on moonlit water, and setting
+    a deerskin purse-net at an exit. It also notes the danger of beaver bites and
+    the value of beaver flesh as food.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Beaver are described as not plentiful in the Ungava district and generally
+    found only near the headwaters of the Koksoak and lakes near the source of George's
+    River, apart from occasional stragglers.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The scarcity of beaver north of latitude 55 degrees is attributed to limited
+    food supply.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When beaver dams and structures are discovered, people devise ways to capture
+    the animal.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One method closes underwater holes leading to the beaver structure with a
+    stick and makes an opening in the top of the hut.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The hunter catches the beaver by the hind legs or tail, lifts it out, and
+    kills it with a blow to the head.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage warns that if the hunter pauses after taking hold of the beaver,
+    the animal may bite severely with sharp, powerful teeth.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Another method drains water from the pond or lake containing the beaver hut
+    by damming off the supply, leaving the house high and dry so the occupant emerges
+    and is killed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Beavers are sometimes shot while on the water during moonlight nights.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A beaver-capturing net is made of fine deerskin thongs in a circle nearly
+    two feet in diameter, with small meshes, an outer thong, and a spruce-root ring
+    strengthened with sinew.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The net is spread over the mouth of the beaver exit to form a purse; as the
+    animal leaves, the purse tightens and strangles or drowns it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The net is said to remain effective when the beaver has become too wary to
+    be shot on the water's surface.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Beaver flesh is considered valuable food, and the flesh of the female is preferred
+    to that of the male.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Indians / people / hunters
+  description: The people who discover beaver structures and use several methods to
+    capture beavers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Beaver
+  description: An animal scarce in the district, captured for food by lodge-opening,
+    drainage, shooting, or netting methods.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: beaver hunter or trapper
+  assigned_to:
+  - fig:1
+  basis: The people close holes, open huts, drain water, shoot beavers, and set nets
+    to capture them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: captured game animal
+  assigned_to:
+  - fig:2
+  basis: The beaver is the target of multiple capture methods described in the passage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: valued food source
+  assigned_to:
+  - fig:2
+  basis: The passage states that beaver flesh is valuable food and that female flesh
+    is preferred.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water, pond, lake, and water surface
+  literal_form: Water associated with beaver lodges, underwater exits, drainage, drowning,
+    and moonlight shooting.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: beaver dam, structure, hut, or lodge
+  literal_form: The constructed beaver dwelling and its underwater entrances or exits.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: stick used to close underwater holes
+  literal_form: A stick of wood used to block holes leading to the beaver structure.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: deerskin purse-net
+  literal_form: A circular net of fine deerskin thongs with small meshes, set over
+    a beaver exit.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: spruce-root ring and tightening thong
+  literal_form: A small ring of spruce root wound with sinew, used with the net's
+    thong so the purse tightens.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: moonlight nights
+  literal_form: Night setting in which beavers are sometimes shot while on the water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Beaver scarcity and habitat
+  summary: The passage locates beaver mainly near certain headwaters and lakes and
+    explains their scarcity by limited food supply north of latitude 55 degrees.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Opening the lodge after blocking exits
+  summary: Hunters close underwater holes with a stick, open the top of the hut, pull
+    the beaver out by the hind legs or tail, and kill it, while risking severe bites
+    if they hesitate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Draining the water and moonlight shooting
+  summary: Hunters may dam off the water supply so the beaver house is left dry and
+    the occupant emerges, or they may shoot beavers on the water during moonlit nights.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Constructing and setting the purse-net
+  summary: A circular deerskin net with an outer thong and spruce-root ring is placed
+    over an underwater exit so that the departing beaver enters a purse that tightens
+    and kills it by strangling or drowning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Beaver as food
+  summary: The passage concludes that beaver flesh is highly prized food, especially
+    that of the female.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Animal extracted from lodge after underwater exits are blocked
+  taxonomy_refs: []
+  basis: The passage describes blocking holes leading to the beaver structure, opening
+    the hut, pulling the animal out, and killing it.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic hunting pattern, not a mythological motif in the
+    passage.
+- id: motif:2
+  label: Water-level manipulation flushes hidden animal from dwelling
+  taxonomy_refs: []
+  basis: The passage describes damming off the water supply and allowing water to
+    drain so the beaver hut is left dry and the occupant emerges.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a practical trapping technique; no symbolic or mythic meaning
+    is stated.
+- id: motif:3
+  label: Purse-net at dwelling exit tightens on departing animal
+  taxonomy_refs: []
+  basis: The passage describes a net spread over the exit so the beaver enters it
+    and the purse tightens, causing strangling or drowning.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a technological hunting pattern rather than a narrative motif.
+- id: motif:4
+  label: Moonlight shooting of aquatic prey
+  taxonomy_refs: []
+  basis: The passage says beavers are sometimes shot while on the water during moonlight
+    nights.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The detail is brief and functional; it should not be treated as symbolic
+    without further evidence.
+- id: motif:5
+  label: Gendered preference in game-animal flesh
+  taxonomy_refs: []
+  basis: The passage notes that beaver flesh is highly valued and that female flesh
+    is preferred to male flesh.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a food-preference pattern, not a mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9549-9567
+  quote_or_summary: Beaver are scarce in the Ungava district, generally appearing
+    near the Koksoak headwaters and lakes near George's River; scarcity is attributed
+    to limited food supply north of latitude 55 degrees.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 9568-9586
+  quote_or_summary: When beaver structures are found, hunters may block underwater
+    holes with a stick, open the hut, pull the animal out by the hind legs or tail,
+    and kill it with a head blow; hesitation risks a severe bite.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 9587-9595
+  quote_or_summary: Where possible, hunters drain the pond or lake by damming the
+    supply, leaving the beaver house dry so the occupant emerges and is killed; beavers
+    may also be shot on moonlit water.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 9596-9613
+  quote_or_summary: A special beaver net is made of fine deerskin thongs in a circle
+    nearly two feet across, with small meshes, an outer thong, and a spruce-root ring
+    strengthened with sinew.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 9614-9627
+  quote_or_summary: The net is set over the mouth of a lodge exit as a purse; when
+    the beaver leaves, the ring and cord tighten the mouth and the animal is strangled
+    or drowned.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 9628-9639
+  quote_or_summary: The net is said to work after beavers become too wary to shoot;
+    beaver flesh is prized as food, with female flesh preferred to male flesh.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a descriptive ethnographic account of beaver hunting and food
+    use. Extracted candidate motifs are practical patterns only; no mythological narrative
+    or passage-supported comparison claims appear.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact, common-inheritance, archetypal, or cross-tradition comparison is supported by the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l9549-l9639
+  passage_sha256=3fdee2541efc81c07f4f596a0cdf28cbd0aba8b7877cce2ac815ddb884d4800e
+

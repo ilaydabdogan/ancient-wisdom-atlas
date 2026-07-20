@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l14125-l14568
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: OTHER EARLY BABYLONIAN AND / ASSYRIAN RULERS1 / BABYLONIAN CHRONICLE 2X3
+    / II. ASSYRIAN; lines 14125-14568
+  start: '14125'
+  end: '14568'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents an Assyrian eponym chronology with annual name entries,
+    several rulers explicitly labeled as kings, accession notices involving taking
+    the throne, administrative office notes, and editorial notes about variants, dividing
+    lines, and missing lines.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as an Assyrian section and contains an Assyrian eponym
+    list.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The main list is arranged by years and gives personal names for eponym years,
+    with some early and later entries marked as wanting or damaged.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: obs:3
+  text: Several year entries explicitly identify the named person as “the king.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: One entry says that Esarhaddon took his seat on the throne.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The notes section says that Shulman-asharidu, identified as Shalmaneser and
+    as son of Asshurnazirpal, took his seat on the throne.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The notes section identifies some eponyms by offices such as commander-in-chief,
+    chief bi-lub, and major-domo.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage records variant readings, dividing lines in manuscript copies,
+    and places where lines are wanting.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Named Assyrian eponyms
+  description: A collective set of annual name-holders listed year by year in the
+    Assyrian eponym list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: Entries labeled “the king”
+  description: Named entries marked as kings include Tukulti-Ninib, Asshur-nasir-apli,
+    Shulman-asharidu or Shulmanu-asharidu, Shamshi-Adad, Adad-nirari, Asshur-dan,
+    Asshur-nirari, Tukulti-apal-esharra, and, in one copy, Sin-akhe-irba or Sennacherib.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Shulman-asharidu / Shalmaneser, son of Asshurnazirpal
+  description: The notes say that Shulman-asharidu, identified as Shalmaneser and
+    son of Asshurnazirpal, took his seat on the throne; another note calls Shulman-asharidu
+    King of Assyria.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: Esarhaddon
+  description: Esarhaddon is named in an entry that says he took his seat on the throne.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Officeholders named in the notes
+  description: The notes name figures such as Asshur-bel-ukin, Asshur-bana-usur, Asshur-ina-ekalli-lilbur,
+    and Dain-Asshur with administrative or military titles.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: annual eponym or year-name holder
+  assigned_to:
+  - fig:1
+  basis: The list gives year-by-year entries headed as eponym years and names the
+    relevant persons.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: king or ruler
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Multiple entries explicitly use the label “the king,” and accession notices
+    describe taking the throne.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: enthroned ruler
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both Shalmaneser and Esarhaddon are described as taking a seat on the throne.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: administrative or military officeholder
+  assigned_to:
+  - fig:5
+  basis: The notes identify named eponyms as commander-in-chief, chief bi-lub, and
+    major-domo.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: throne
+  literal_form: throne
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Assyrian eponym chronology
+  summary: The passage lists Assyrian years with named eponyms and includes some entries
+    explicitly marked as kings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Accession by taking the throne
+  summary: Shalmaneser and Esarhaddon are each described in connection with taking
+    a seat on the throne.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Administrative offices in eponym notes
+  summary: The notes section associates some eponym years with offices such as commander-in-chief,
+    chief bi-lub, and major-domo.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: royal accession by taking the throne
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage twice uses throne-seating language for royal accession, once
+    for Shalmaneser and once for Esarhaddon.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is an administrative chronological list, not a mythic narrative;
+    the motif is limited to royal legitimation language in accession notices.
+- id: motif:2
+  label: kingship embedded in annual chronology
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The eponym list organizes time by named annual figures and repeatedly marks
+    some entries as kings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: This is a chronographic pattern rather than an explicit mythological symbol
+    or story motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14125-14568; heading and main eponym list
+  quote_or_summary: The section is headed “II. ASSYRIAN” and “THE ASSYRIAN EPONYM
+    LIST,” then gives year entries beginning with years 911-894 as wanting and continuing
+    with named eponyms.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: main eponym list, years 889-858 within lines 14125-14568
+  quote_or_summary: "“889 Tukulti-Ninib, the king”; “883 Asshur-nasir-apli, the king”;
+    “858 Shulman-asharidu (Shalmaneser), the king.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: summary
+  locator: main eponym list, years 828-781 within lines 14125-14568
+  quote_or_summary: The list labels Shulmanu-asharidu or Shalmaneser as king in year
+    828, Shamshi-Adad as king in year 823, Adad-nirari as king in year 810, and Shulmanu-asharidu
+    or Shalmaneser as king in year 781.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: main eponym list, years 771-743 within lines 14125-14568
+  quote_or_summary: The list labels Asshur-dan as king in year 771 and Asshur-nirari
+    as king in year 753; the year 743 entry names Tukulti-apal-esharra, with an editorial
+    note that the word “king” is found only in one copy.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized with brief quoted term.
+- id: ev:5
+  type: summary
+  locator: main eponym list, years 723-681 within lines 14125-14568
+  quote_or_summary: The list labels Shulman-asharidu as king in year 723, names Sharru-ukin
+    or Sargon in year 719, records that one copy reads Sin-akhe-irba or Sennacherib
+    as king in year 705, lists Sin-akhe-erba or Sennacherib in year 687, and states
+    that Esarhaddon took his seat on the throne in year 681.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: Assyrian Eponym List with Notes, years 860-854 within lines 14125-14568
+  quote_or_summary: The notes state that in year 860 Shulman-asharidu, Shalmaneser
+    son of Asshurnazirpal, took his seat on the throne; year 858 names Shulman-asharidu
+    as King of Assyria; years 857, 856, 855, and 854 identify officeholders as commander-in-chief,
+    chief bi-lub, major-domo, and commander-in-chief.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: editorial notes throughout lines 14125-14568
+  quote_or_summary: The passage includes editorial notes about variant readings, dividing
+    lines in copies, years or lines wanting, and some damaged or uncertain names.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The chronological and royal-accession data are explicit. Motif extraction
+    is limited because the passage is an administrative eponym list rather than a
+    narrative mythic text. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the only extracted symbol-like object, the throne, is not among the supplied symbol taxonomy refs.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l14125-l14568
+  passage_sha256=b451bdc700b4c0a37a122b557ecb014c36448c655dd2c468d19ea95ff268a253
+

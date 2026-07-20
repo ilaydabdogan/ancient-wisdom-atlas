@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l7104-l7129
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: 'SECT, 1. THE WO WANG HEXAGRAM. 109 / LEAT... SEBGRION : II, / SECT. II,
+    THE HANG HEXAGRAM. 125 / SECT. IJ. THE THUN HEXAGRAM. 127; lines 7104-7129'
+  start: '7104'
+  end: '7129'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: strength should be held in subordination to the idea of right
+  summary: The passage gives line statements for the fourth, fifth, and sixth lines,
+    using images of a fence, horns, a ram, and a wagon to describe strength, obstruction,
+    repentance, and good fortune. The commentary says the hexagram shows abundant
+    strength and vigor, but that strength should be governed by rightness.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The fourth undivided line presents firm correctness as leading to good fortune
+    and the disappearance of occasion for repentance.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fourth-line image shows a fence opened without horns becoming entangled.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The strength in the fourth-line statement is compared to the wheel-spokes
+    of a large waggon.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fifth divided line shows a person losing ram-like strength in the ease
+    of his position, with no occasion for repentance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sixth divided line shows a person compared to a ram butting against a
+    fence and unable either to retreat or advance.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The sixth-line statement says there is no advantage in any respect, but that
+    realizing the difficulty of the position will bring good fortune.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The commentary says that strong lines predominate in the hexagram and suggest
+    abundance of strength and vigor.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The commentary says king W&n saw in the figure that strength should be subordinated
+    to right and exerted only in harmony with it.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed fifth-line subject
+  description: A person shown as losing ram-like strength in the ease of his position.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed sixth-line subject
+  description: A person compared to a ram butting against a fence, unable to retreat
+    or advance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: king W&n
+  description: The named king to whom the hexagram suggested abundance of strength
+    and the need to subordinate strength to right.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: subject of divinatory line image
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The fifth and sixth line statements each describe an unnamed person through
+    the ram-strength image.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: reader of the hexagram figure
+  assigned_to:
+  - fig:3
+  basis: The commentary says the hexagram suggested meanings to king W&n and that
+    he saw a lesson in the figure.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: fence
+  literal_form: opened fence; fence against which the ram butts
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: horns
+  literal_form: horns not entangled in the opened fence
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wheel-spokes of a large waggon
+  literal_form: wheel-spokes of a large waggon used as a comparison for strength
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ram-like strength
+  literal_form: ram-like strength; ram butting against a fence
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: strong lines of the hexagram
+  literal_form: predominant strong lines in T& Awang
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: fourth-line opened fence and wagon strength
+  summary: The fourth line links firm correctness with good fortune, depicts an opened
+    fence with horns not entangled, and compares strength to wheel-spokes of a large
+    waggon.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: fifth-line loss of ram-like strength
+  summary: The fifth line shows an unnamed person losing ram-like strength in ease,
+    without occasion for repentance.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: sixth-line ram at the fence
+  summary: The sixth line compares an unnamed person to a ram butting against a fence
+    and unable to advance or retreat; recognizing the difficulty leads to good fortune.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: commentary on strength and right
+  summary: The commentary says the hexagram’s strong lines indicate abundance of strength
+    and vigor, but king W&n sees that strength should be subordinate to right.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: strength restrained by rightness
+  taxonomy_refs:
+  - wisdom
+  basis: The commentary explicitly denies that strength alone is enough and states
+    that strength should be subordinated to right and harmony.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The mapping to the broad taxonomy ref 'wisdom' is interpretive; the passage
+    itself phrases the pattern as right governance of strength.
+- id: motif:2
+  label: obstruction at a boundary
+  taxonomy_refs: []
+  basis: 'The line images repeatedly use fence imagery: horns do not become entangled
+    in one case, while a ram butting the fence cannot advance or retreat in another.'
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The image is part of divinatory line language rather than a continuous
+    narrative episode.
+- id: motif:3
+  label: recognition of difficulty brings good fortune
+  taxonomy_refs:
+  - wisdom
+  basis: The sixth line says there is no advantage in any respect, but good fortune
+    follows if the person realizes the difficulty of his position.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wisdom classification is broad; the passage states a practical divinatory
+    outcome rather than an explicit didactic tale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7104-7106
+  quote_or_summary: The fourth undivided line shows a case in which firm correctness
+    leads to good fortune and occasion for repentance disappears.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:2
+  type: quote
+  locator: lines 7106-7109
+  quote_or_summary: "“the fence opened without the horns being entangled” and strength
+    like “the wheel-spokes of a large waggon.”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 7111-7113
+  quote_or_summary: The fifth divided line shows one who loses “his ram(-like strength)”
+    in ease, with no occasion for repentance.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:4
+  type: quote
+  locator: lines 7115-7120
+  quote_or_summary: The sixth divided line compares one to “the ram butting against
+    the fence,” unable to retreat or advance; realizing the difficulty brings good
+    fortune.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:5
+  type: summary
+  locator: lines 7122-7124
+  quote_or_summary: The commentary says strong lines predominate in T& Awang and suggest
+    to king W&n abundance of strength and vigour.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: quote
+  locator: lines 7124-7127
+  quote_or_summary: Strength alone is not enough; king W&n saw that strength “should
+    be held in subordination to the idea of right” and exerted in harmony with it.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt or summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate patterns
+    derived from line imagery and commentary. No cross-tradition comparison claims
+    were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no taxonomy symbol refs were assigned because none of the available symbol refs match the passage images.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l7104-l7129
+  passage_sha256=f9134dc7a1eebf9187a33924be2e3412a34dfcda5e8c02948e921ad00175ace9
+

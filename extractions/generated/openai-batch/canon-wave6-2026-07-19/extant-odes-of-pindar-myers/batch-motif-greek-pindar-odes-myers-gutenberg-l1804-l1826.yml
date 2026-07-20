@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.greek-pindar-odes-myers-gutenberg-l1804-l1826
+source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+passage_locator:
+  label: FOR ALKIMEDON OF AIGINA, / WINNER IN THE WRESTLING-MATCH OF BOYS. / FOR EPHARMOSTOS
+    OF OPOUS, / WINNER IN THE WRESTLING-MATCH.; lines 1804-1826
+  start: '1804'
+  end: '1826'
+  translation: The Extant Odes of Pindar
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of translator footnotes. One note discusses an interpretation
+    in which Herakles contends with gods and is helped by other gods, while an alternative
+    reading rejects that story because valour is divine in source. Another note proposes
+    that a story of stones arose from the similar sounds of Greek words. Further notes
+    gloss the names Protogeneia, Lokros, and Patroklos, identify the Isthmus as a
+    gate between two seas, identify a cloak as the prize, and mark the section with
+    the numeral X.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote reports a common interpretation that Herakles, when contending
+    with the gods mentioned, must have been helped by other gods.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same footnote offers an alternative translation in which valour comes
+    from a divine source and therefore could not be used against gods, so the story
+    would be rejected.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A footnote proposes that the story of the stones may have arisen from the
+    similar sound of the Greek words rendered as Laos and Laas.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Separate footnotes gloss the names Protogeneia, Lokros, and Patroklos.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: A footnote identifies the Isthmus as the gate between the two seas.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: A footnote identifies a cloak as the prize.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Herakles
+  description: Named in a footnote as contending with gods under the common interpretation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: gods here mentioned
+  description: Group of gods with whom Herakles is said to contend in the common interpretation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: other gods
+  description: Group of gods said to help Herakles under the common interpretation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Protogeneia
+  description: Name supplied in a footnote.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Lokros
+  description: Name supplied in a footnote.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Patroklos
+  description: Name supplied in a footnote.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: contestant against gods
+  assigned_to:
+  - fig:1
+  basis: The footnote describes Herakles as contending with the gods under a common
+    interpretation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine opponents
+  assigned_to:
+  - fig:2
+  basis: The footnote refers to gods with whom Herakles is contending.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine helpers
+  assigned_to:
+  - fig:3
+  basis: The footnote says Herakles must have been helped by other gods under the
+    common interpretation.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: stones
+  literal_form: the story of the stones
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: two seas at the Isthmus
+  literal_form: the Isthmus, the gate between the two seas
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: prize cloak
+  literal_form: a cloak, the prize
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Footnoted interpretation of Herakles' divine combat
+  summary: A footnote summarizes a common interpretation in which Herakles contends
+    with gods and receives aid from other gods; it also offers an alternative reading
+    that rejects the story because valour is divine in source.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Etymological note on a stone story
+  summary: A footnote suggests that a story of stones may have arisen from a similarity
+    between two Greek words.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Glosses of names, place, and prize
+  summary: Footnotes identify three names, describe the Isthmus as a gate between
+    two seas, and identify a cloak as the prize.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: heroic contest with gods requiring divine aid
+  taxonomy_refs: []
+  basis: The footnote reports a common interpretation in which Herakles contends with
+    gods and must have been helped by other gods.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a translator's explanatory footnote, not the full narrative passage;
+    the note also offers an alternative that may reject the story.
+- id: motif:2
+  label: divinely sourced valour cannot oppose gods
+  taxonomy_refs: []
+  basis: The alternative translation described in the footnote states that valour
+    comes from a divine source and could not be used against gods.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The motif candidate depends on a proposed translation and interpretation
+    rather than an explicit narrated episode.
+- id: motif:3
+  label: stone story explained by wordplay
+  taxonomy_refs: []
+  basis: A footnote proposes that the story of the stones arose from the similar sound
+    of two Greek words.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not give the actual stone story, only a speculative explanation
+    for its origin.
+- id: motif:4
+  label: isthmus as a gate between seas
+  taxonomy_refs: []
+  basis: A footnote identifies the Isthmus as the gate between the two seas.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage provides only a place gloss; broader symbolic or mythic function
+    is not supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1804-1810
+  quote_or_summary: Footnote 1 discusses Herakles contending with gods, possible help
+    from other gods, and an alternative reading in which divinely sourced valour cannot
+    be used against gods.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: 1812-1814
+  quote_or_summary: Footnote 2 says the story of the stones may have arisen from the
+    similar sound of the Greek words Laos and Laas.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: quote
+  locator: '1816'
+  quote_or_summary: "[Footnote 3: Protogeneia.]"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: quote
+  locator: '1818'
+  quote_or_summary: "[Footnote 4: Lokros.]"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: quote
+  locator: '1820'
+  quote_or_summary: "[Footnote 5: Patroklos.]"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: quote
+  locator: '1822'
+  quote_or_summary: "[Footnote 6: The Isthmus, the gate between the two seas.]"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:7
+  type: quote
+  locator: '1824'
+  quote_or_summary: "[Footnote 7: A cloak, the prize.]"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The supplied passage is a short footnote-only excerpt, so literal extraction
+    is relatively stable but motif identification is limited and tentative. No comparative
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to the explicitly supported water symbol for the two seas.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-pindar-odes-myers-gutenberg__l1804-l1826
+  passage_sha256=94234e267b4373101d918e71d1fd5e1912434570449758a4d53d564e8e058e4f
+

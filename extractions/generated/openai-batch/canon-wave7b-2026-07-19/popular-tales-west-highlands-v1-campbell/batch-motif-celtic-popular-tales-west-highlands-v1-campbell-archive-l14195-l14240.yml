@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l14195-l14240
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: THE SLIM SWARTHY CHAMPION, 305 / THE SLIM SWARTHY CHAMPION. 307 / AN CEATHAIRNEACH
+    CAOL, RIABHACH. / AN ( KATIIAIRNEACH CAOL, RIABHACH. 309; lines 14195-14240
+  start: '14195'
+  end: '14240'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage, printed in Scottish Gaelic, names the Slim Swarthy Champion,
+    describes movement through high places toward O Domhnuill, includes speech by
+    O Domhnuill, and then has the Champion ask to hear harpers. The harpers begin,
+    and their music is described as sending the whole great world into slumber.
+  language: Scottish Gaelic
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the titled figure as “An Ceathairneach Caol, Riabhach.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes movement through valleys and over high places toward
+    the court or city of O Domhnuill.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: O Domhnuill speaks directly and says “Chad'theid thu 'mach,” followed by a
+    condition introduced with “gus an innis” and a list of places or origin details.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Ceathairneach asks to hear singing or playing, and the harpers begin.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage refers to strings, tunes, and harpers, and says their melodies
+    would put the whole great world into slumber.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: An Ceathairneach Caol, Riabhach
+  description: The named Slim Swarthy Champion; he is explicitly named in the title
+    and later speaks to request music or singing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: O Domhnuill
+  description: A named speaker associated in the passage with a court or city; he
+    says that someone will not go out until something is told.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: na clarsairean
+  description: The harpers who begin after the Ceathairneach asks to hear music or
+    singing; their tunes are described as producing slumber.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: named champion requesting music
+  assigned_to:
+  - fig:1
+  basis: The title names the Ceathairneach, and the speech tag attributes the request
+    to hear singing or playing to him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: named interlocutor who bars departure
+  assigned_to:
+  - fig:2
+  basis: O Domhnuill is the speaker of the line beginning “Chad'theid thu 'mach.”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: harpers or musical performers
+  assigned_to:
+  - fig:3
+  basis: The harpers begin after the request, and the following stanza describes their
+    strings, tunes, and effects.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: harp music and strings
+  literal_form: clarsairean; teudan; port
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: well or flood-well
+  literal_form: tobair dhilinn
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: high summit or mountain face
+  literal_form: ard-mhullach; aodann monaidh
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Movement toward O Domhnuill
+  summary: The passage describes a vigorous movement or leap through valleys, high
+    places, and over court or city features toward O Domhnuill.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: O Domhnuill's condition before departure
+  summary: O Domhnuill speaks directly and says that someone will not go out until
+    something is told, naming a well and several places or origin details.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Harpers begin and induce slumber
+  summary: The Ceathairneach requests to hear music or singing; the harpers begin,
+    and their melodies are described as capable of sending the whole world into sleep.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: music that induces universal sleep
+  taxonomy_refs: []
+  basis: The stanza about the harpers says their melodies would place the whole great
+    world into slumber.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy list does not include a specific music-induced-sleep
+    motif family, so no taxonomy reference is assigned.
+- id: motif:2
+  label: barred departure until a condition is fulfilled
+  taxonomy_refs:
+  - departure
+  basis: O Domhnuill's speech begins with a statement that the addressee will not
+    go out, followed by “until” language.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage fragment does not provide the full narrative context, and
+    the exact condition is partly uncertain from the untranslated Gaelic/OCR text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14195-14199
+  quote_or_summary: "“AN CEATHAIRNEACH CAOL, RIABHACH.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 14200-14208
+  quote_or_summary: "“Ti id ghleanntann as ard-mhullach ... Cuirt agus cathair / O
+    Domhnuill.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 14209-14228
+  quote_or_summary: "“Chad'theid thu 'mach,” ors' O Domhnuill, “gus an innis ... O
+    bhun an tobair dhilinn ... An aodann monaidh ... Rugadh mi.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 14229-14231
+  quote_or_summary: "“Cluinneam a' seinn eud,” urs' an Ceathairneach. “Thoisich na
+    clarsairean.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 14232-14240
+  quote_or_summary: "“Chuireadh eud 'nan sion sioram suain / An saoghal mor gu leir
+    ... A sheinneadh na clarsairean.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is conservative because the passage is largely untranslated Scottish
+    Gaelic with possible OCR noise. The music-induced sleep motif is clear from the
+    passage context; other motifs are less certain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added; candidate taxonomy use is limited to refs present in the supplied available taxonomy list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l14195-l14240
+  passage_sha256=b0d2617e11b75adbb3d141f9e37384a0fc4a445d24be98fde34be815c6df317b
+

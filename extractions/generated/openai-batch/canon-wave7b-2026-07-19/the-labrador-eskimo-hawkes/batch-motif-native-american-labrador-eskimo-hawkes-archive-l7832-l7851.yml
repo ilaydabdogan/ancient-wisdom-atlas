@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l7832-l7851
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: WHALING   FESTIVAL. / MYTHOLOGY. / THE  MIGRATION  LEGEND. / THE   TUNNIT.;
+    lines 7832-7851
+  start: '7832'
+  end: '7851'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage argues that the Tunnit can be understood as an Eskimo tribe
+    by comparing their stone houses, stone weapons, and forgotten technologies with
+    Central, Alaskan, Asiatic, and Polar Eskimo examples. It also notes that Eskimo
+    stories tend to exaggerate Tunnit stupidity and Eskimo cleverness in overcoming
+    them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author judges that the Tunnit were not very different from older tribes
+    in Hudson Bay and Alaska, based on scanty descriptions of their culture.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Old stone houses with whalebone ribs for roofs are reported as parallels among
+    Central, Alaskan, and Asiatic Eskimo groups.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Tunnit stone weapons are said to have parallels in archaeological collections
+    from different Eskimo tribes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Tunnit are described as having forgotten or not understood kayak construction.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Polar Eskimo are cited as a parallel case of forgetting the use of the
+    bow and arrow.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The use of the bow and arrow is said to have been reintroduced to the Tunnit
+    by immigrant Eskimo from the south.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Eskimo stories about the Tunnit are said to exaggerate Tunnit stupidity and
+    Eskimo cleverness in overcoming them.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Tunnit
+  description: A group discussed as probably an Eskimo tribe, associated with stone
+    weapons, forgotten or misunderstood kayak construction, and stories portraying
+    them as stupid.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Eskimo
+  description: The broader group compared with the Tunnit and described as telling
+    stories that exaggerate their own cleverness in overcoming the Tunnit.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Immigrant Eskimo from the south
+  description: A group said to have reintroduced the use of the bow and arrow to the
+    Tunnit.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Central, Alaskan, Asiatic, and Polar Eskimo groups
+  description: Comparative groups cited as parallels for stone houses, stone weapons,
+    or forgotten technologies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: discussed ancestral or neighboring people
+  assigned_to:
+  - fig:1
+  basis: The passage treats the Tunnit as the people whose cultural traits are being
+    evaluated and compared.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: comparative cultural parallel
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Other Eskimo groups are cited as parallels for houses, weapons, and forgotten
+    technologies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: portrayed as lacking knowledge
+  assigned_to:
+  - fig:1
+  basis: The Tunnit are described as forgetting kayak construction and being depicted
+    in stories as stupid.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: clever victors in stories
+  assigned_to:
+  - fig:2
+  basis: Eskimo stories are said to exaggerate Eskimo cleverness in overcoming the
+    Tunnit.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: technology reintroducers
+  assigned_to:
+  - fig:3
+  basis: Immigrant Eskimo from the south are said to have reintroduced bow and arrow
+    use.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: stone houses with whalebone ribs
+  literal_form: old stone houses with whalebone ribs for roofs
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: stone weapons
+  literal_form: stone weapons
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: kayak construction
+  literal_form: construction of the kayak
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: bow and arrow
+  literal_form: the bow and arrow
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ethnographic comparison of the Tunnit
+  summary: The author compares Tunnit material culture and lost technologies with
+    several Eskimo groups to argue that the Tunnit should not be excluded from being
+    considered an Eskimo tribe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Story-pattern of Tunnit stupidity and Eskimo cleverness
+  summary: The passage states that Eskimo stories tend to exaggerate the stupidity
+    of the Tunnit and the cleverness of the Eskimo in overcoming them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: rival people portrayed as foolish and overcome by clever insiders
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The passage explicitly describes stories in which Eskimo narrators exaggerate
+    Tunnit stupidity and their own cleverness in overcoming them.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage reports a narrative tendency rather than giving a full story;
+    the taxonomy link is approximate because no individual trickster figure is named.
+- id: motif:2
+  label: loss and reintroduction of practical technology
+  taxonomy_refs: []
+  basis: The Tunnit are said to have forgotten or not understood kayak construction,
+    and bow-and-arrow use is said to have been reintroduced by immigrant Eskimo from
+    the south.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic pattern in the passage, not a developed mythic
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Tunnit material culture and technological loss with
+    Central, Alaskan, Asiatic, and Polar Eskimo examples to support treating the Tunnit
+    as culturally parallel to Eskimo groups.
+  claim_level: same_function
+  target: Central, Alaskan, Asiatic, and Polar Eskimo ethnographic parallels
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  limitations: The passage itself notes scanty descriptions and identifies Tunnit
+    skin-dressing knowledge as a difficulty; it is an authorial ethnographic comparison
+    rather than a direct mythic parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7832-7835
+  quote_or_summary: The author says the interpretation that the Tunnit were an Eskimo
+    group is correct and that their scantily described culture was not very different
+    from older tribes in Hudson Bay and Alaska.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 7835-7839
+  quote_or_summary: Old stone houses with whalebone ribs for roofs are described as
+    existing, more or less ruinously, among Central, Alaskan, and Asiatic Eskimo groups.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 7839-7841
+  quote_or_summary: The passage says Tunnit stone weapons can be paralleled in archaeological
+    collections from different Eskimo tribes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 7841-7843
+  quote_or_summary: The passage says the Tunnit had forgotten or did not understand
+    kayak construction, but argues this should not count against identifying them
+    as an Eskimo tribe.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 7843-7848
+  quote_or_summary: Rasmussen is cited for the Polar Eskimo forgetting the bow and
+    arrow, and the passage says the Tunnit also lacked it until immigrant Eskimo from
+    the south reintroduced its use.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 7848-7851
+  quote_or_summary: The passage says Eskimo stories about the Tunnit exaggerate Tunnit
+    stupidity and Eskimo cleverness in overcoming them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly ethnographic commentary with a brief reference to story
+    patterns; motif extraction is therefore limited and marked cautiously.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy item directly matches the passage objects; symbol taxonomy references are therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l7832-l7851
+  passage_sha256=d841a700e9967c1b48671757723e597a3af4365cd9a94c1bbf8324506804f197
+

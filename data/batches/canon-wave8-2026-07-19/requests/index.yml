@@ -1,0 +1,113 @@
+---
+batch_request_index_version: '1'
+run_id: canon-wave8-2026-07-19
+created_at: '2026-07-19T23:16:25Z'
+updated_at: '2026-07-20T11:28:56Z'
+endpoint: "/v1/responses"
+model: gpt-5.5
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/canon-wave8-2026-07-19/passages.jsonl
+request_map_path: data/batches/canon-wave8-2026-07-19/request-map.jsonl
+skip_ingested_from_run_id: canon-wave8-2026-07-19
+skipped_ingested_count: 0
+shards:
+- shard_id: shard-0001
+  path: data/batches/canon-wave8-2026-07-19/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 16315555
+  sha256: 5958b3d401f3f5955cdd81ad26c0bc83ad5e76a66fab872534e35085b3c62521
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: completed_with_errors
+  output_path: data/batches/canon-wave8-2026-07-19/results/shard-0001.output.jsonl
+  output_sha256: 9a47ecfe74c36cc8da01d44c2e0da850aebf1414dd25a2d3a3d318436fdf0369
+  errors_path: data/batches/canon-wave8-2026-07-19/results/shard-0001.errors.jsonl
+  errors_sha256: 3a365aedcd489868d70b76977b7dc1f0ccb6c4b5e2ade11ac0d4c78bd41b763d
+  runtime: realtime
+  error_count: 9
+  last_checked_at: '2026-07-20T08:16:46Z'
+- shard_id: shard-0002
+  path: data/batches/canon-wave8-2026-07-19/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 16421499
+  sha256: 46c8e59386430ac7d0057af66b7120ef73d685ae9de19541d056b52a84885a6e
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: completed_with_errors
+  output_path: data/batches/canon-wave8-2026-07-19/results/shard-0002.output.jsonl
+  output_sha256: 4e73d12b55853b0b9b2d27699d806a9de7d318ec6a2bb374b0b3d343bba35693
+  errors_path: data/batches/canon-wave8-2026-07-19/results/shard-0002.errors.jsonl
+  errors_sha256: c1d906a21eae9412c8a4f715b9f542b6a281ee59fb4fdd6e7b88f4ed93b51777
+  runtime: realtime
+  error_count: 7
+  last_checked_at: '2026-07-20T09:14:32Z'
+- shard_id: shard-0003
+  path: data/batches/canon-wave8-2026-07-19/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 16303212
+  sha256: 7c0efe40a10e1f486a8c64b0b6009429042c2ef9e6d2d6542383bbd2c5521cec
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: completed_with_errors
+  output_path: data/batches/canon-wave8-2026-07-19/results/shard-0003.output.jsonl
+  output_sha256: 98df20680b3bd6a083c25435c271bfb43ddc41616937ce0348d9366d637eff89
+  errors_path: data/batches/canon-wave8-2026-07-19/results/shard-0003.errors.jsonl
+  errors_sha256: f2c6e07cbf6b08aa737db4ee9c4d43d47930e2ef3875bad6a110e53aeb12596b
+  runtime: realtime
+  error_count: 2
+  last_checked_at: '2026-07-20T10:05:16Z'
+- shard_id: shard-0004
+  path: data/batches/canon-wave8-2026-07-19/requests/shard-0004.jsonl
+  request_count: 1000
+  bytes: 16832785
+  sha256: a9f3bf8129524fd5cbabab19fe62b73c33a3ebe081301e1ea31aea58cb74a1f2
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: completed_with_errors
+  output_path: data/batches/canon-wave8-2026-07-19/results/shard-0004.output.jsonl
+  output_sha256: 9241c7f11859138d63acb5632de60f3f85e4edbfeaf40603f4245a1d2237e7df
+  errors_path: data/batches/canon-wave8-2026-07-19/results/shard-0004.errors.jsonl
+  errors_sha256: 9f53c12c4a1e4633c1b440f941a6a05489b2695cf7330dddbd6d048e74e51a60
+  runtime: realtime
+  error_count: 1
+  last_checked_at: '2026-07-20T10:49:58Z'
+- shard_id: shard-0005
+  path: data/batches/canon-wave8-2026-07-19/requests/shard-0005.jsonl
+  request_count: 1000
+  bytes: 16123718
+  sha256: 77d95dad54c97c70c46654d400203d704fc8c13e8c8f5edb1f7e1331dcde0988
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: completed_with_errors
+  output_path: data/batches/canon-wave8-2026-07-19/results/shard-0005.output.jsonl
+  output_sha256: 17a40d2308ae7d486a1dbc19330dff5c0e54e415110e29fe1ff426376071a772
+  errors_path: data/batches/canon-wave8-2026-07-19/results/shard-0005.errors.jsonl
+  errors_sha256: '089a86d4ac9b29dbac48bd8af2fabe1de8c0dfaf6d2c60add14681ace2e497cd'
+  runtime: realtime
+  error_count: 1
+  last_checked_at: '2026-07-20T11:28:56Z'
+- shard_id: shard-0006
+  path: data/batches/canon-wave8-2026-07-19/requests/shard-0006.jsonl
+  request_count: 1000
+  bytes: 16435740
+  sha256: 8d1e804076d0fc1ddba8bf33592fc58e2583cd5249e5efc094016fc15c552cc9
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: prepared
+- shard_id: shard-0007
+  path: data/batches/canon-wave8-2026-07-19/requests/shard-0007.jsonl
+  request_count: 1000
+  bytes: 15418435
+  sha256: 752526e5fd8f835cc4c07e2fd88d7dda3b9dc7b6f79fc276f33bf99a040458a7
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: prepared
+- shard_id: shard-0008
+  path: data/batches/canon-wave8-2026-07-19/requests/shard-0008.jsonl
+  request_count: 356
+  bytes: 5296621
+  sha256: 59e5d25cd835f1f8023e14e94a0ad0f9029a7ad563fe6249734d9cfc78d4ad44
+  endpoint: "/v1/responses"
+  model: gpt-5.5
+  status: prepared
+

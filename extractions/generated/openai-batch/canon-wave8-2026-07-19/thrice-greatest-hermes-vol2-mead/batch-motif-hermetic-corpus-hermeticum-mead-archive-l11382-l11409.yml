@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l11382-l11409
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: COMMENTAEY / ASCLEPIUS AND TAT / LETTEE OF HERMES TO ASCLEPIUS 265 / COEPUS
+    HEEMETICUM (XVI.); lines 11382-11409
+  start: '11382'
+  end: '11409'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Opening headings identify Corpus Hermeticum XVI as the Definitions or Perfect
+    Sermon of Asclepius to King Ammon. The first-person speaker sends a great logos
+    to the King as a digest of other teachings, says it is not designed for the prejudices
+    of the many, and cites Hermes, his master, on how readers may misperceive the
+    books as simple and clear.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as Corpus Hermeticum XVI and identifies the material
+    as the Definitions or Perfect Sermon of Asclepius addressed to King Ammon.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A first-person speaker sends a great sermon or logos to the King and describes
+    it as a summing up and digest of the rest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says the work is not composed to suit the prejudice of the many
+    and contains much that refutes them.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says the work may sometimes seem to contradict the speaker's other
+    sermons.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker calls Hermes his master and reports Hermes's comments from conversations,
+    some of which occurred when Tat was present.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hermes is reported to have said that readers may find the speaker's books
+    simple and clear, although the composition is described as unclear and having
+    an inner aspect; the supplied passage breaks off at that point.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Asclepius
+  description: Named in the headings as associated with the definitions and perfect
+    sermon addressed to King Ammon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: King Ammon
+  description: Named as the royal addressee of the definitions or perfect sermon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Hermes
+  description: Called the speaker's master and reported as having spoken in conversations
+    about how the books will appear to readers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Tat
+  description: Named as sometimes present during Hermes's conversations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: the many
+  description: A collective audience whose prejudice the sermon is not composed to
+    suit and whom it refutes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: those who come across the books
+  description: Unspecified future readers of the speaker's books.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named authorial source and sender of the sermon
+  assigned_to:
+  - fig:1
+  basis: The headings name Asclepius in connection with the sermon to the King, and
+    the opening says a first-person speaker sends the sermon to the King.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: royal addressee
+  assigned_to:
+  - fig:2
+  basis: The headings and opening address identify the recipient as King Ammon or
+    the King.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: master and cited teacher
+  assigned_to:
+  - fig:3
+  basis: The speaker calls Hermes 'my master' and reports his teaching about how the
+    books will appear to readers.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: occasional participant in Hermes's conversations
+  assigned_to:
+  - fig:4
+  basis: Tat is named as sometimes present when Hermes held conversations.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: collective audience being refuted
+  assigned_to:
+  - fig:5
+  basis: The speaker says the sermon is not composed to suit the many's prejudice
+    and contains much that refutes them.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: future readers of the books
+  assigned_to:
+  - fig:6
+  basis: Hermes is reported as speaking about those who come across the speaker's
+    books.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: summative sermon or logos
+  literal_form: A sermon/logos sent to the King and described as a summing up and
+    digest of all the rest.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: books with an inner or unclear composition
+  literal_form: The speaker's books or composition, said to seem simple and clear
+    to readers but described as unclear and as having an '[inner]' aspect; the supplied
+    passage breaks off there.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Asclepius's sermon is addressed to the King
+  summary: The opening frame presents a sermon or logos associated with Asclepius
+    and sent to King Ammon as a digest of teachings; the speaker says it refutes the
+    many rather than matching their prejudice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Hermes comments on readers' perception of the books
+  summary: The speaker reports Hermes, his master, as saying that future readers may
+    consider the books simple and clear, although their composition is unclear and
+    has an inner aspect; Tat was sometimes present in such conversations.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: condensed wisdom sermon sent to a ruler
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames the logos as a great sermon sent to the King and as a
+    summing up or digest of prior teachings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The supplied passage is an introductory frame rather than a complete narrative
+    episode.
+- id: motif:2
+  label: esoteric or difficult teaching not suited to the many
+  taxonomy_refs:
+  - wisdom
+  basis: The sermon is said not to suit the many's prejudice, to refute them, and
+    to appear clear to readers while actually being unclear and possessing an inner
+    aspect.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage breaks off at '[inner]' and does not explicitly describe prohibition,
+    initiation, or concealment.
+- id: motif:3
+  label: master-disciple wisdom lineage
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker cites Hermes as master and reports teachings given in conversations,
+    sometimes with Tat present.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The relationship to Tat is limited to presence during some conversations;
+    no explicit disciple role for Tat is stated in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared at the functional level to the wisdom motif family
+    because it frames a teaching text as a distilled logos transmitted through a masterly
+    Hermetic discourse and addressed to a king, while distinguishing its meaning from
+    the understanding of the many.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Supported only by the introductory framing passage; it does not provide
+    a full mythic narrative, ritual setting, or explicit cross-cultural comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11382-11390
+  quote_or_summary: Headings identify 'COEPUS HEEMETICUM (XVI.)', 'THE DEFINITIONS
+    OF ASCLEPIUS UNTO KING AMMON', and the Perfect Sermon of Asclepius unto the King.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: 11392-11394
+  quote_or_summary: The first-person speaker calls the sermon/logos great, says it
+    is sent to the King, and describes it as 'the summing up and digest' of all the
+    rest.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 11396-11400
+  quote_or_summary: The speaker says the work is not composed to suit the prejudice
+    of the many, contains much that refutes them, and may seem to contradict the speaker's
+    other sermons.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 11402-11409
+  quote_or_summary: The speaker reports that Hermes, 'my master,' said in conversations,
+    sometimes with Tat present, that the speaker's books may seem simple and clear
+    to readers but are actually unclear and have an '[inner]' aspect; the supplied
+    passage breaks off there.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a short introductory frame and ends mid-thought after '[inner]'.
+    Named figures and textual framing are clear, but motif classification is limited
+    by the fragmentary scope.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, locator metadata, source metadata, and available taxonomy references.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l11382-l11409
+  passage_sha256=7c91e1e03bb087791d1c4a1f363b185d18b0c8294b9e9d8153381ca7e1b7f38c
+

@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l15742-l15829
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA IV, HYMN 2. 319 / MANDALA IV, HYMN 2. 323 / MANDALA IV, HYMN 5. 327
+    / NOTES.; lines 15742-15829
+  start: '15742'
+  end: '15829'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on Vedic hymn verses discuss an identification of Agni
+    with Rudra, the pressing-stone as a speaking/praising ritual object, sacrifice
+    as a manifestation of Rzta, fire burning on eight Dhishzya altars at the Soma
+    sacrifice, the singular occurrence of nasatya, and Rudra as a giver or possible
+    eater of offerings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes state an identification of Agni with Rudra and cite scholarly and
+    Rig-veda references for comparison.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The pressing-stone, called gravan, is said to be frequently considered as
+    speaking and as praising the gods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A sacrifice is described as one of the chief manifestations of Rzta.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At the Soma sacrifice, fire is said to burn on eight altars called Dhishzya.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The notes describe it as strange that Rudra is designated as a giver of offerings
+    and mention, but treat as too bold, an explanation as eater of offerings.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The notes state that nasatya occurs in the singular only in this Rig-veda
+    passage.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Vedic deity named in a note on identification with Rudra.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rudra
+  description: Vedic deity identified with Agni in one note and described elsewhere
+    in the notes as giver of offerings, with a possible eater of offerings interpretation
+    mentioned.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: pressing-stone (gravan)
+  description: Ritual pressing-stone described as being considered capable of speaking
+    and praising the gods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: gods
+  description: Divine recipients of praise from the speaking pressing-stone.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: nasatya
+  description: Name or term noted as occurring in the singular in this Rig-veda passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: identified deities
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage notes the identification of Agni with Rudra.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaking ritual object
+  assigned_to:
+  - fig:3
+  basis: The pressing-stone is said to be considered as speaking and praising.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: praised deities
+  assigned_to:
+  - fig:4
+  basis: The pressing-stone is said to praise the gods.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: offering-associated deity
+  assigned_to:
+  - fig:2
+  basis: Rudra is described as designated giver of offerings, with an eater of offerings
+    reading discussed.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: singularly attested divine name or term
+  assigned_to:
+  - fig:5
+  basis: The note says nasatya occurs in the singular only in this Rig-veda passage.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire burning on eight Dhishzya altars at the Soma sacrifice
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sacrifice
+  literal_form: sacrifice; Soma sacrifice
+  associated_figures: []
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: eight altars
+  literal_form: eight altars called Dhishzya
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: pressing-stone
+  literal_form: gravan pressing-stone considered as speaking and praising gods
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: offerings
+  literal_form: offerings connected with Rudra as giver or possible eater
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Agni-Rudra identification note
+  summary: The notes report an identification of Agni with Rudra and point to cited
+    comparanda.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Personified pressing-stone
+  summary: The pressing-stone is described as frequently treated as speaking and praising
+    the gods.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Soma sacrifice with altar fire
+  summary: The notes describe the Soma sacrifice as a ritual context where fire burns
+    on eight Dhishzya altars; sacrifice is also described as a manifestation of Rzta.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Rudra and offerings
+  summary: The notes observe the unusual designation of Rudra as giver of offerings
+    and mention an alternative eater of offerings interpretation.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sacrificial fire and offerings
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly discusses sacrifice, Soma sacrifice, fire on ritual
+    altars, and offerings associated with Rudra.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is an editorial note rather than a full narrative or liturgical
+    text.
+- id: motif:2
+  label: Personified ritual implement praising gods
+  taxonomy_refs: []
+  basis: The pressing-stone is said to be frequently considered as speaking and praising
+    gods.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The note states the pattern generally but does not quote the underlying
+    hymn verse.
+- id: motif:3
+  label: Identification of deities
+  taxonomy_refs: []
+  basis: The notes explicitly mention the identification of Agni with Rudra.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a scholarly note and citations, not a developed mythic
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The notes support a cautious comparison between Agni and Rudra by explicitly
+    referring to their identification in the cited Vedic context.
+  claim_level: same_function
+  target: Agni and Rudra
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not provide the hymn verse itself or explain the grounds
+    of the identification.
+- id: claim:2
+  claim: The note supports a cautious recurring-pattern comparison in which the Vedic
+    pressing-stone is treated as a speaking, praising ritual object.
+  claim_level: same_motif
+  target: Vedic treatments of the gravan pressing-stone as speaking and praising gods
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says the pattern is frequent but does not quote parallel
+    passages.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15750-15752
+  quote_or_summary: "“On the identification of Agni with Rudra” with cited Vedic and
+    scholarly references."
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 15778-15780
+  quote_or_summary: "“The pressing-stone (gravan) is frequently considered as speaking,
+    as praising the gods.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 15787-15789
+  quote_or_summary: "“this sacrifice, which is considered as one of the chief manifestations
+    of Rzta.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 15793-15795
+  quote_or_summary: "“At the Soma sacrifice fire burns on eight altars called Dhishzya.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 15810-15813
+  quote_or_summary: The note says it is strange that Rudra is designated as giver
+    of offerings and says an eater of offerings explanation would be too bold.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 15799-15800
+  quote_or_summary: "“This is the only passage in the Rig-veda in which nasatya occurs
+    in the singular.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage consists of editorial notes with some OCR noise. Explicit
+    ritual and deity-identification statements are clear, but narrative motif reconstruction
+    is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used; extraction is limited to the supplied passage and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l15742-l15829
+  passage_sha256=a7eec2f7fb3161dc2aa0bb28b8aa22debedc3dd6e71fca6b717f27eb363595d4
+

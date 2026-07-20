@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l19186-l19298
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: III I / DESTRUCTION OF MANKIND / W III / DESTRUCTION OF MANKIND; lines 19186-19298
+  start: '19186'
+  end: '19298'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Fragmentary passage from the Egyptian “Destruction of Mankind” section:
+    beer vessels are made in great number; the beer is associated with the blood of
+    men; Ra, described as king of South and North, comes with gods to see the beer
+    at dawn after men have been slaughtered.'
+  language: English with transliterated Egyptian terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that beer vessels were made, numbering seven thousand.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The beer or contents of the vessels are described as becoming or being blood
+    of men.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ra is called the majesty of the king of the South and North.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ra comes with gods to see the beer.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The seeing of the beer occurs when it is dawn.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage refers to men having been slaughtered.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ra
+  description: Ra is identified as the majesty of the king of the South and North
+    and comes to see the beer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: gods
+  description: A group of gods accompanies Ra.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: men
+  description: Men are associated with blood and are said to have been slaughtered.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: king of South and North
+  assigned_to:
+  - fig:1
+  basis: The passage calls Ra the majesty of the king of the South and North.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: divine observer of the beer
+  assigned_to:
+  - fig:1
+  basis: Ra comes to see the beer.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine attendants
+  assigned_to:
+  - fig:2
+  basis: The gods accompany Ra.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: slaughtered humans
+  assigned_to:
+  - fig:3
+  basis: The passage says men had been slaughtered and links their blood with the
+    beer.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: beer
+  literal_form: beer in vessels
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: blood of men
+  literal_form: blood of men
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: seven thousand vessels
+  literal_form: seven thousand beer vessels
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: dawn
+  literal_form: dawn
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Beer vessels prepared
+  summary: Seven thousand beer vessels are made, and the contents are associated with
+    the blood of men.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ra and the gods inspect the beer at dawn
+  summary: Ra, described as king of South and North, comes with gods to see the beer
+    when it is dawn, after men have been slaughtered.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: destruction or slaughter of mankind under divine presence
+  taxonomy_refs:
+  - divine_judgment
+  basis: The section title is “Destruction of Mankind”; the fragment refers to men
+    being slaughtered, while Ra and gods are present in the scene.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The fragment does not state the reason for the slaughter or explicitly
+    identify the slaughtering agent in the quoted lines.
+- id: motif:2
+  label: beer identified with human blood
+  taxonomy_refs: []
+  basis: The passage associates beer in vessels with the blood of men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The text is fragmentary and OCR/transliteration-heavy; the exact ritual
+    or narrative function of the beer is not fully stated in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19186-19298
+  quote_or_summary: The passage says that seven thousand beer vessels had been made.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 19186-19298
+  quote_or_summary: "“[they became] blood of men”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 19186-19298
+  quote_or_summary: Ra, styled as king of South and North, comes with the gods to
+    see the beer.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 19186-19298
+  quote_or_summary: The viewing occurs at dawn after men had been slaughtered.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: citation
+  locator: passage heading
+  quote_or_summary: The passage is headed “DESTRUCTION OF MANKIND.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; passage title cited.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The source passage is fragmentary and contains OCR/transliteration artifacts.
+    Literal elements are clear enough for cautious extraction, but motif interpretation
+    is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage fragment itself does not support a specific cross-textual comparison beyond candidate motif classification.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l19186-l19298
+  passage_sha256=ff9b523c449cda8b23c87d5d54ca19f4c5b8b4373afb65f4ac1bc6673a84636d
+

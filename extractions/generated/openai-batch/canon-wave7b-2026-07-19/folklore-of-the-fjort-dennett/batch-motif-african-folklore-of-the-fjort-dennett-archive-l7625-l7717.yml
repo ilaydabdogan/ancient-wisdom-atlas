@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l7625-l7717
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: THE  SONG  OF   HUNGER.  163 / INDEX. / INDEX. / I.,  146; lines 7625-7717
+  start: '7625'
+  end: '7717'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index excerpt listing topics and cross-references, including descent
+    into Hell, divination, dreams, drowning rescue, Earth Mother and Earth Spirit,
+    a food taboo concerning eggs, February as sacred to Nkissi nsi, festivals, fetish
+    tales and rites, Sunga punishing Basa, a fight between two fetishes, fire’s descent
+    and first use, fish and fishermen, Fjort beliefs and religion, and forest superstitions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index lists “Descent into Hell” and cross-references “Brothers, The Twin.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists divination, dreams, and exorcism as topics with page references.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index lists rescue from drowning as a topic.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index lists Earth as Mother and Earth as Spirit with page references.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index notes that eggs are not eaten.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index says February is sacred to Nkissi nsi and also lists festivals.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index lists fetish-related topics, including fetishes in tales, the fetish
+    of Chilunga, fetish religion, and fetish rites and belief.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index includes a story title in which Sunga punished Basa, identified
+    as the speaker’s great-uncle’s twin brother.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The index lists a story of a fight between two fetishes.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The index lists the descent of fire and a legend of the first use of fire.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The index lists fish and fishermen, Fjort agriculture, beliefs, religion,
+    songs, and tribes.
+  category: other
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: The index lists superstitions concerning forests.
+  category: setting
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Nkissi nsi
+  description: Named entity to whom February is described as sacred in the index.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: Sunga
+  description: Named actor in an indexed story title about punishing Basa.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: Basa
+  description: Named as the speaker’s great-uncle’s twin brother and as the one punished
+    by Sunga in an indexed story title.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Earth Mother
+  description: Index entry for Earth as Mother.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Earth Spirit
+  description: Index entry for Earth as Spirit.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: The Two Fetishes
+  description: Two fetishes named collectively in an indexed story title about their
+    fight.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: sacred recipient or sacred entity
+  assigned_to:
+  - fig:1
+  basis: The index states that February is sacred to Nkissi nsi.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: punisher
+  assigned_to:
+  - fig:2
+  basis: The indexed story title says Sunga punished Basa.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: punished figure
+  assigned_to:
+  - fig:3
+  basis: The indexed story title says Basa was punished by Sunga.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: twin brother
+  assigned_to:
+  - fig:3
+  basis: Basa is identified as the speaker’s great-uncle’s twin brother.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: mother figure
+  assigned_to:
+  - fig:4
+  basis: The index entry names Earth as Mother.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: spirit figure
+  assigned_to:
+  - fig:5
+  basis: The index entry names Earth as Spirit.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: combatants
+  assigned_to:
+  - fig:6
+  basis: The index lists a story of a fight between two fetishes.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire, including its descent and first use.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:10
+- id: sym:2
+  label: Earth as Mother and Spirit
+  literal_form: Earth named as Mother and as Spirit.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: eggs not eaten
+  literal_form: Eggs described as not eaten.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: fetish or fetishes
+  literal_form: Fetish in tales, fetish of Chilunga, fetish rites and belief, and
+    two fetishes in combat.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:5
+  label: sacred month
+  literal_form: February described as sacred to Nkissi nsi.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: forest
+  literal_form: Forests as the subject of superstitions.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: descent into Hell
+  taxonomy_refs:
+  - hero_descent
+  - afterlife_journey_map
+  basis: The index explicitly lists “Descent into Hell” and cross-references twin
+    brothers.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an index entry, not the narrative itself; no agent or sequence
+    is supplied here.
+- id: motif:2
+  label: twin brother pattern
+  taxonomy_refs:
+  - sibling_pair
+  basis: The index cross-references “Brothers, The Twin,” and separately identifies
+    Basa as a twin brother in a story title.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The passage supports twin-brother indexing but does not provide a full
+    twin narrative.
+- id: motif:3
+  label: Earth as mother or spirit
+  taxonomy_refs:
+  - mother_goddess
+  basis: The index lists Earth as Mother and Earth as Spirit.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The taxonomy reference is tentative because the passage says “Mother”
+    and “Spirit” but does not explicitly call Earth a goddess.
+- id: motif:4
+  label: food taboo concerning eggs
+  taxonomy_refs: []
+  basis: The index states that eggs are not eaten.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only an index note and no explanation for the restriction.
+- id: motif:5
+  label: sacred calendrical period
+  taxonomy_refs: []
+  basis: The index says February is sacred to Nkissi nsi.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: No ritual description is included in the index excerpt.
+- id: motif:6
+  label: fetish conflict or fetish agency
+  taxonomy_refs: []
+  basis: The index lists fetish topics and a story of a fight between two fetishes.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: medium
+  cautions: The passage gives titles and subject entries only; it does not describe
+    the fetishes’ nature or actions beyond fighting.
+- id: motif:7
+  label: punishment by a named figure
+  taxonomy_refs:
+  - divine_judgment
+  basis: The index includes a story title in which Sunga punished Basa.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The passage does not identify Sunga as divine or judicial; the taxonomy
+    reference is therefore tentative.
+- id: motif:8
+  label: descent and first use of fire
+  taxonomy_refs: []
+  basis: The index lists both the descent of fire and a legend of the first use of
+    fire.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The index does not provide the mythic agent, acquisition method, or narrative
+    context.
+- id: motif:9
+  label: rescue from drowning
+  taxonomy_refs: []
+  basis: The index lists rescue from drowning.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not identify who is rescued or how the rescue occurs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7625-7717, index entry “Descent into Hell”
+  quote_or_summary: "“Descent into Hell, ii., and see Brothers, The Twin”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 7625-7717, index entries “Divination,” “Dreams,” and “Exorcism”
+  quote_or_summary: The index lists divination, the influence of dreams, and exorcism
+    with page references.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 7625-7717, index entry “Drowning”
+  quote_or_summary: "“Drowning, rescue from, 8”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:4
+  type: quote
+  locator: lines 7625-7717, index entries “Earth”
+  quote_or_summary: "“Earth, Mother, 4, 118, 119, 131, 132”; “Spirit, 5, 118”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:5
+  type: quote
+  locator: lines 7625-7717, index entry “Eggs”
+  quote_or_summary: "“Eggs, not eaten, xxix.”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:6
+  type: quote
+  locator: lines 7625-7717, index entries “February” and “Festivals”
+  quote_or_summary: "“February sacred to Nkissi nsi, 136”; “Festivals, 24, 137”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:7
+  type: summary
+  locator: lines 7625-7717, index entries “Fetish”
+  quote_or_summary: The index lists fetish in tales, the fetish of Chilunga, fetish
+    religion, and fetish rites and belief with page references.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 7625-7717, index entry under “Fetish” naming Sunga and Basa
+  quote_or_summary: "“Sunga punished my great-uncle’s twin brother Basa”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:9
+  type: quote
+  locator: lines 7625-7717, index entry “Fetishes”
+  quote_or_summary: "“Fetishes, story of the Fight between the Two”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:10
+  type: quote
+  locator: lines 7625-7717, index entry “Fire”
+  quote_or_summary: "“Fire, descent of, ii., 7, 74”; “legend of the first use of,
+    18”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:11
+  type: summary
+  locator: lines 7625-7717, index entries “Fish and fishermen” and “Fjort”
+  quote_or_summary: The index lists fish and fishermen, Fjort agriculture, beliefs,
+    language, religion, songs, and tribes.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: quote
+  locator: lines 7625-7717, index entry “Forests”
+  quote_or_summary: "“Forests, superstitions as to, 9”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for identification.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an index excerpt, so extraction of listed topics is straightforward,
+    but motif interpretation is limited by lack of narrative context. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All entries are based only on the supplied index passage and metadata; no outside details about Fjort traditions or the referenced stories have been added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l7625-l7717
+  passage_sha256=1d702f6c6401d6cc86035261c2670b130c4de7343c2348c8781947709f9af87e
+

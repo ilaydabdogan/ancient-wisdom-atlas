@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.finnic-finno-ugric-siberian-mythology-holmberg-archive-l18842-l18856
+source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+passage_locator:
+  label: THE  STARS / THE  STARS / ORION / THE  PLEIADES; lines 18842-18856
+  start: '18842'
+  end: '18856'
+  translation: Finno-Ugric, Siberian Mythology
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage surveys several interpretations of the Pleiades: as openings
+    or a sieve through which cold upper air passes, as a group of animals, as a bird
+    or duck nest among northern Siberian peoples, and as monkeys or a monkey among
+    some Central Asian peoples. It then begins an Altai Tatar story in which Metshin
+    lived on earth in a time of severe cold, leading the camel and the cow to decide
+    to kill him.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some peoples imagine the Pleiades as air holes, a ventilator, or a sieve through
+    which a cold draught comes from the upper air.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For other peoples, the constellation suggests a group of animals.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The most northern peoples of Siberia, including Yakuts, Voguls, and Koriaks,
+    call the Pleiades a bird’s nest or a duck’s nest.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some Central Asian peoples call the Pleiades “monkeys” or “monkey,” with the
+    forms metshit and met-shin/metshin noted in the passage.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage notes that monkeys are unknown in the district where this Central
+    Asian naming occurs, and that stories are connected with the naming.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the Altai Tatar account, Metshin lived on earth in olden times.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The earth was terribly cold, and for this reason the camel and the cow determined
+    to kill Metshin.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Metshin
+  description: A named being in an Altai Tatar story who lived upon the earth in olden
+    times; the name is presented in connection with Central Asian terms for “monkey”
+    applied to the Pleiades.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: camel
+  description: An animal that, together with the cow, determined to kill Metshin because
+    the earth was terribly cold.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: cow
+  description: An animal that, together with the camel, determined to kill Metshin
+    because the earth was terribly cold.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: terrestrial named being in olden times
+  assigned_to:
+  - fig:1
+  basis: The Altai Tatar account says Metshin lived upon the earth in olden times.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: animals deciding to kill Metshin
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The camel and the cow determine to kill Metshin because of the terrible cold
+    on earth.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: target of killing decision
+  assigned_to:
+  - fig:1
+  basis: The camel and the cow determined to kill him, referring to Metshin.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Pleiades
+  literal_form: constellation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: sky openings or sieve
+  literal_form: air holes, ventilator, or sieve through which cold upper-air draught
+    streams
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: animal images for the Pleiades
+  literal_form: group of animals; bird’s nest or duck’s nest; monkeys or monkey
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Survey of Pleiades identifications
+  summary: The Pleiades are described as being imagined by different peoples as upper-air
+    openings, a group of animals, a bird or duck nest, and monkeys or a monkey.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Metshin on the cold earth
+  summary: In an Altai Tatar story, Metshin lived on earth in olden times; because
+    the earth was terribly cold, the camel and the cow decided to kill him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Constellation as openings in the sky
+  taxonomy_refs: []
+  basis: Some peoples imagine the Pleiades as air holes, a ventilator, or a sieve
+    allowing a cold draught from the upper air.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a survey statement rather than a full narrative.
+- id: motif:2
+  label: Pleiades as animal cluster or nest
+  taxonomy_refs: []
+  basis: The Pleiades are identified as a group of animals, as a bird or duck nest
+    among northern Siberian peoples, and as monkeys or a monkey among some Central
+    Asian peoples.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The specific images differ by group; no single origin or transmission
+    is stated.
+- id: motif:3
+  label: Animals plot to kill a named being because of extreme cold
+  taxonomy_refs: []
+  basis: The Altai Tatar story says Metshin lived on earth when it was terribly cold,
+    and that the camel and cow decided to kill him for this reason.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is only the beginning of the story and does not explain whether
+    Metshin causes the cold or what follows.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, northern Siberian and Central Asian groups share a broad
+    pattern of treating the Pleiades as an animal-related image, although the specific
+    forms differ between nests and monkeys.
+  claim_level: same_motif
+  target: Pleiades animal-image identifications among northern Siberian and Central
+    Asian peoples
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a secondary survey and does not argue for historical
+    contact, common inheritance, or independent recurrence.
+- id: claim:2
+  claim: The passage contrasts aperture or ventilator interpretations of the Pleiades
+    with animal-image interpretations, showing that the same constellation is given
+    different object or image functions across peoples.
+  claim_level: same_function
+  target: Pleiades identification patterns across surveyed peoples
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the author’s brief summary; the underlying
+    narratives are not fully presented here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18844-18846
+  quote_or_summary: Some peoples imagine the Pleiades as “air holes, a ventilator,
+    or a sieve” through which comes “a cold draught from the upper air.”
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 18846-18849
+  quote_or_summary: The constellation suggests “a group of animals”; northern Siberian
+    peoples call it “a bird’s nest, or a duck’s nest.”
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 18849-18852
+  quote_or_summary: Some Central Asian peoples call the Pleiades “monkeys” or “monkey”
+    using forms given as metshit and met-shin/metshin; the passage notes that monkeys
+    are unknown in that district and that stories are connected with this naming.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; summarized with minimal quotation.
+- id: ev:4
+  type: quote
+  locator: lines 18854-18856
+  quote_or_summary: The Altai Tatars relate that Metshin once lived on earth; it was
+    terribly cold, so “the camel and the cow determined to kill him.”
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but the passage is a survey plus
+    a fragmentary narrative opening. No available taxonomy motif or symbol reference
+    is assigned because none directly matches the attested Pleiades images or the
+    Metshin episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or common-inheritance claim is made; comparison claims are limited to patterns explicitly juxtaposed in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:finnic-finno-ugric-siberian-mythology-holmberg-archive__l18842-l18856
+  passage_sha256=0f5bcbae1a77c339505c667a19fa2f527ec050475249c551cf7ce7ace6c6e8bf
+

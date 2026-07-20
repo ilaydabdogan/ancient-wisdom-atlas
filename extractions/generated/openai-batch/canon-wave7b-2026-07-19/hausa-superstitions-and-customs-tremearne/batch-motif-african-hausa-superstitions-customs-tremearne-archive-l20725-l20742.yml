@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l20725-l20742
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: XXIII. / XXIV. / NOTES   ON   THE   TALES  471 / XXVI.; lines 20725-20742
+  start: '20725'
+  end: '20742'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes to tale XXVI identify a large fruit-bearing tree, comment
+    that a monkey was still in the tree despite a narrative difficulty, explain that
+    Kimba fruit is used as an aperient and that the monkey’s speech was impolite,
+    identify an unnamed figure as the Malamin daji, and discuss but reject an inference
+    about ancient native trials and prisoners appearing free.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes describe a large tree with many branches bearing sweet edible fruit.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The monkey is said to have still been in the tree, and the note says the narrator
+    does not consider this difficulty important.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fruit of the Kimba is said to be used to make an aperient, and this explains
+    why the monkey’s speech is described as impolite.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An unnamed male antecedent is identified as the Malamin daji, with a cross-reference
+    to Chapter II.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note says a detail might indicate that, in ancient native trials, a prisoner
+    appeared to be free so that no prejudice would be raised against him.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The author states that he believes this inferred trial practice was not actually
+    the case.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: monkey
+  description: A monkey said to be still in the tree and associated with speech judged
+    impolite in the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Malamin daji
+  description: An unnamed male figure in the tale is identified by the note as the
+    Malamin daji.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: prisoner
+  description: A generic prisoner mentioned in the author’s inference about ancient
+    native trials.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: tree-occupying animal speaker
+  assigned_to:
+  - fig:1
+  basis: The monkey is still in the tree, and the note discusses the impoliteness
+    of the monkey’s speech.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: identified as Malamin daji
+  assigned_to:
+  - fig:2
+  basis: The note explicitly identifies an unnamed 'He' as the Malamin daji.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: apparently free prisoner in inferred trial custom
+  assigned_to:
+  - fig:3
+  basis: The note describes a possible ancient trial setting in which a prisoner appeared
+    free to avoid prejudice.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fruit-bearing tree
+  literal_form: A large tree with many branches and sweet edible fruit.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sweet edible fruit
+  literal_form: Sweet edible fruit borne by the large tree.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Kimba fruit
+  literal_form: Fruit of the Kimba, used to make an aperient.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Monkey still in the fruit tree
+  summary: The note comments that the monkey remains in the tree and that the narrator
+    overlooks or disregards the resulting narrative difficulty.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Kimba fruit and impolite speech
+  summary: The note explains that Kimba fruit is used as an aperient and links this
+    fact to the impoliteness of the monkey’s speech.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Speculation about ancient trials
+  summary: The author suggests that a tale detail might imply ancient native trials
+    in which a prisoner appeared free to prevent prejudice, but then says he does
+    not believe that inference is correct.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal remaining in a fruit tree despite narrative difficulty
+  taxonomy_refs: []
+  basis: The note explicitly says the monkey was still in the tree and that the narrator
+    treats the difficulty as unimportant.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This is an editorial comment on a missing tale context, so it may be a
+    narrative inconsistency rather than a recurrent motif.
+- id: motif:2
+  label: purgative fruit as basis for insulting or impolite speech
+  taxonomy_refs: []
+  basis: The note says Kimba fruit is used to make an aperient and that, for this
+    reason, the monkey’s speech was hardly polite.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The actual speech is not included in the passage, limiting interpretation.
+- id: motif:3
+  label: apparently free prisoner to avoid prejudicial appearance
+  taxonomy_refs: []
+  basis: The author states that a tale detail might indicate trials where the prisoner
+    appeared free so that no prejudice would arise.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The author immediately doubts the inference, so this should be treated
+    as a tentative social-pattern observation rather than an established motif.
+comparison_claims:
+- id: claim:1
+  claim: The note cautiously compares an inferred ancient native trial practice with
+    contemporary trials in which a prisoner appears free to avoid prejudice, but the
+    author immediately rejects or doubts the inference.
+  claim_level: same_function
+  target: contemporary trials referred to as 'ours to-day'
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: low
+  limitations: The comparison is made only as an authorial speculation in an editorial
+    note, and the author states that he believes the inferred practice was not actually
+    the case.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20727-20728, note [1]
+  quote_or_summary: '"A large tree with many branches, bearing a sweet edible fruit."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 20730-20732, note [2]
+  quote_or_summary: The note says the monkey was still in the tree and comments that
+    the narrator does not consider the difficulty worth attention.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20734-20736, note [3]
+  quote_or_summary: The note explains that an aperient is made from the fruit of the
+    Kimba, making the monkey’s speech hardly polite.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: line 20738, note [4]
+  quote_or_summary: '"He is the Malamin daji, see Chapter II."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 20740-20742, note [5]
+  quote_or_summary: The author says a detail might suggest that in ancient native
+    trials, as in contemporary ones, the prisoner appeared free to avoid prejudice.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 20740-20742, note [5]
+  quote_or_summary: The author adds that he believes this was not actually the case.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage consists of brief editorial notes rather than the tale itself,
+    so literal extraction is fairly secure but motif identification is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available motif-family taxonomy reference was assigned; the only supported supplied symbol taxonomy reference is tree.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l20725-l20742
+  passage_sha256=148ceb805d82c5ebe654359af1939a02299967f4588a70a9a4ebf93971142237
+

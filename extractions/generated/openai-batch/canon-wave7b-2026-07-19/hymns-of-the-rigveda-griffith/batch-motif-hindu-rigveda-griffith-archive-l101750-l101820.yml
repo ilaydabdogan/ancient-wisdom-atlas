@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l101750-l101820
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 2. / KEITH S / ARANYAKA IV / ARANYAKA V; lines 101750-101820
+  start: '101750'
+  end: '101820'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives ritual instructions: water is cast in three locations;
+    an officiant moves around and honors parts of a fire/fire altar identified in
+    a note as bird-shaped; then he returns to a seat and prepares and places swing
+    apparatus made with specified woods.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'Water is to be cast in three places: on the northern altar, on the marjaliya
+    altar, and the remainder within the enclosure.'
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The officiant moves so as to keep the marjaliya fire on his right, stands
+    before the sacrificial post in front of the fire, and faces west.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The officiant worships the head of the fire with a formula honoring the Gayatra
+    as its head.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The officiant worships the right side of the fire with Rathantara language
+    and the left side with Brhat language, using directional movements and changes
+    of facing.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note states that the fire altar is in a simple bird shape with head, two
+    wings, tail, and body.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The officiant worships the tail of the fire as Bhadra and the body as Rajana.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the fire worship, the officiant returns to the seat; the swing has already
+    been made ready, and its posts, ropes, and cross-beam are cleansed and placed
+    in relation to the altars.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The swing planks are specified as udumbara or palasa wood, or both; the passage
+    also mentions two or three planks and a like number of sharp-pointed sticks.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: ritual officiant or worshipper
+  description: The figure designated by the pronoun “he” moves around the fire, worships
+    the parts of the fire, returns to the seat, and handles the swing implements.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: fire / fire altar
+  description: The fire is worshiped as having a head, right side, left side, tail,
+    support, and body; a note describes the fire altar as bird-shaped.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: ritual actor
+  assigned_to:
+  - fig:1
+  basis: The figure moves through prescribed positions, speaks worship formulas, returns
+    to the seat, and handles ritual implements.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: embodied sacred recipient
+  assigned_to:
+  - fig:2
+  basis: The fire/fire altar receives honors addressed to its head, sides, tail, support,
+    and body, and is described as bird-shaped.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water cast in three ritual locations
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: marjaliya fire and the worshiped fire/fire altar
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: bird-shaped altar body
+  literal_form: fire altar with head, two wings, tail, and body
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sacrificial post
+  literal_form: post before which the officiant stands in front of the fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: ritual altars and enclosure
+  literal_form: northern altar, marjaliya altar, Agnidh’s altar, all altars, and enclosure
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:6
+  label: wooden swing apparatus
+  literal_form: two posts, ropes, cross-beam, planks of udumbara or palasa, and sharp-pointed
+    sticks
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: oriented ritual movement
+  literal_form: keeping the fire on the right, facing west/north/east, passing west
+    of the tail, and going round to the left of an altar
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: triple water casting
+  summary: At the requested singing, water is cast on two named altars and the rest
+    within the enclosure.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: directional worship of the fire altar
+  summary: The officiant moves around the fire and honors its head, right side, left
+    side, tail, and body with named formulas; a note identifies the altar shape as
+    that of a bird.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: preparation and placement of the swing
+  summary: The officiant returns to the seat, and the already prepared swing apparatus
+    is cleansed, carried by a named road, moved around the Agnidh’s altar, and placed
+    to the left of the altars; its planks are made of udumbara or palasa.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: embodied bird-shaped sacrificial fire altar
+  taxonomy_refs:
+  - sacrifice
+  basis: The fire/fire altar is worshiped part by part, and a note describes the altar
+    as a bird shape with head, two wings, tail, and body.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy has no specific bird-altar family; the sacrifice
+    reference is broad.
+- id: motif:2
+  label: directional circumambulation with verbal honors to altar parts
+  taxonomy_refs:
+  - sacrifice
+  basis: The officiant follows prescribed movements and orientations while speaking
+    honor formulas to the fire’s body parts.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is extracted as a ritual sequence only; no broader mythic interpretation
+    is inferred.
+- id: motif:3
+  label: triple placement of water in ritual space
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage prescribes casting water in three places connected with altars
+    and an enclosure.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The fragment states the action and locations but does not explain the
+    purpose of the water placement.
+- id: motif:4
+  label: ritual swing apparatus of named woods
+  taxonomy_refs: []
+  basis: The passage describes a prepared swing, cleansing of its parts, ritual placement,
+    and planks made from udumbara or palasa.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage fragment gives preparation and materials but not the full
+    ritual function of the swing.
+comparison_claims:
+- id: claim:1
+  claim: A note in the passage cautiously aligns the described movements with the
+    Satarudriya ceremony and says that ceremony has analogies to the Mahavrata.
+  claim_level: same_function
+  target: Satarudriya ceremony; Mahavrata ritual pattern
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a commentator’s comparison within the supplied passage; it
+    says “on the whole” and “analogies,” not identity, historical contact, or direct
+    derivation.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 101750-101753
+  quote_or_summary: "“cast down the water in three places, on the northern altar,
+    on the marjaliya altar, and the rest within the enclosure”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 101753-101760
+  quote_or_summary: The officiant keeps the marjaliya fire on his right, stands before
+    the sacrificial post in front of the fire, faces west, honors the fire’s head
+    as Gayatra, then honors the right side as Rathantara and the left side as Brhat
+    with prescribed orientations.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: note within lines 101760-101780
+  quote_or_summary: "“the worship of the fire altar in its simplest bird shape, head,
+    two wings, tail, and body”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 101800-101804
+  quote_or_summary: The officiant worships the tail of the fire as Bhadra, calling
+    it the tail and support, and then worships the body as Rajana.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 101804-101814
+  quote_or_summary: 'After returning to the seat, the already prepared swing is addressed
+    through its implements: two posts, ropes, and cross-beam are cleansed, taken by
+    the road called tirtha, brought around the Agnidh’s altar, and placed to the left
+    of the altars.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 101814-101820
+  quote_or_summary: "“The planks of the swing are made of udumbara or of palasa, or
+    of both.” The same passage specifies two or three planks and a like number of
+    sharp-pointed sticks."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt and summary used.
+- id: ev:7
+  type: quote
+  locator: note within lines 101780-101800
+  quote_or_summary: "“This account of his movements corresponds on the whole with
+    that of the ceremony of the Satarudriya, which has analogies to the Mahavrata”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ritual sequence is clear, but the supplied passage is fragmentary, includes
+    notes and OCR irregularities, and ends mid-sentence. Motif labels are kept close
+    to the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. The record follows the supplied source path and line range.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l101750-l101820
+  passage_sha256=e47ea40a6d8c0fae198098f33f0547657516ea7bfc950accef9150ac5ef99765
+

@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l8330-l8366
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: WODAN.  1G3 / WODAN. / CHAPTEE  VIII. / DONAE,  THUNAE,  (THOEE).; lines
+    8330-8366
+  start: '8330'
+  end: '8366'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens a chapter on Donar/Thunar/Thor, identifying the god with
+    clouds, rain, lightning, thunder, and the lightning-bolt. It then explains several
+    Germanic and Scandinavian terms for thunder as connected with the god’s wagon
+    or driving, compares thunder to the rumbling of a wagon, gives Greek, Carniolan,
+    and Russian peasant parallels for thunder as divine driving or related sound-making,
+    and notes the Eddic title Oku-Thorr, “Waggon-Thorr,” whose wagon is drawn by two
+    he-goats.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes a god who rules clouds and rain, is made known in lightning
+    and thunder, and has a bolt that strikes the earth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The god is identified through names including Donar, Thunar, Thunor, and Thor/Thorr
+    in different Germanic languages.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several terms for thunder are explained as compounds or derivatives involving
+    the god’s name, a word for thunder, or the god’s wagon or driving.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Old Norse word reid is said to mean both vehicle and thunder, with related
+    compounds meaning thunderclap and lightning.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that a wagon rumbling over a vaulted space closely resembles
+    the rattling and crashing of thunder.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The passage gives non-Germanic parallels: in Carniola thunder is described
+    as god driving, and for the Russian peasant it is prophet Ilia driving his chariot
+    or grinding corn.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the Edda, Thor is described as Oku-Thorr, glossed as Waggon-Thorr, and
+    his wagon is drawn by two he-goats.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Donar / Thunar / Thunor / Thor / Thorr
+  description: The storm and thunder god described as ruling clouds and rain, appearing
+    in lightning and thunder, and associated with a wagon or driving.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Prophet Ilia
+  description: A figure in the Russian peasant explanation of thunder, described as
+    driving his chariot or grinding his corn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: storm and thunder deity
+  assigned_to:
+  - fig:1
+  basis: The passage says the god rules over clouds and rain and is known in lightning,
+    thunder, and the striking bolt.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wagon-associated thunder figure
+  assigned_to:
+  - fig:1
+  basis: The passage explains thunder terms as the god’s wagon or driving and cites
+    Eddic Oku-Thorr as Waggon-Thorr.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: chariot-driving or grinding thunder figure
+  assigned_to:
+  - fig:2
+  basis: The passage says that to the Russian peasant thunder is prophet Ilia driving
+    his chariot or grinding corn.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: lightning bolt
+  literal_form: the god’s bolt that cleaves the sky and strikes the earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: divine wagon or driving
+  literal_form: waggon, vehicle, driving, and related thunder terms
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: two he-goats
+  literal_form: two he-goats drawing Thor’s wagon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: chariot
+  literal_form: prophet Ilia’s chariot
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Storm-god manifestation
+  summary: The god is characterized by control over clouds and rain, manifestation
+    in lightning and thunder, and a sky-cleaving bolt.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Thunder as divine wagon-rumble
+  summary: Germanic and Scandinavian terms for thunder are interpreted through the
+    god’s wagon or driving, supported by the analogy of a wagon rumbling over a vaulted
+    space.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Eddic Waggon-Thorr
+  summary: Thor is called Oku-Thorr or Waggon-Thorr, and his wagon is drawn by two
+    he-goats.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Carniolan and Russian thunder parallels
+  summary: The passage gives parallels in which thunder is explained as god driving
+    in Carniola and as prophet Ilia driving a chariot or grinding corn among Russian
+    peasants.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Thunder as divine vehicle-driving
+  taxonomy_refs: []
+  basis: The passage repeatedly links thunder with a god’s wagon, driving, vehicle
+    terminology, and the rumbling sound of a wagon, and it cites Thor as Waggon-Thorr.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents linguistic and comparative explanation rather than
+    a full narrative episode.
+- id: motif:2
+  label: Storm god with lightning bolt
+  taxonomy_refs: []
+  basis: The opening describes the deity as ruler of clouds and rain, manifest in
+    lightning and thunder, and armed with a deadly bolt.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an attributed divine profile, not a complete mythic plot.
+- id: motif:3
+  label: Animal-drawn vehicle of the thunder god
+  taxonomy_refs: []
+  basis: The passage states that Eddic Thor’s wagon is drawn by two he-goats.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief citation and no extended story about the
+    goats.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself supports a cautious comparison of thunder-as-divine-driving
+    across Germanic/Old Norse material and examples it cites from Greek, Carniolan,
+    and Russian peasant traditions.
+  claim_level: same_function
+  target: Thunder explained as the sound or action of a divine or sacred figure’s
+    vehicle-driving, with the Russian example also allowing grinding corn as an alternative
+    sound explanation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage asserts a widespread natural comparison but does not establish
+    historical contact, common inheritance, or a precise shared narrative structure;
+    the Greek example is only briefly cited.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8330-8338
+  quote_or_summary: The god is described as ruling “over clouds and rain,” being known
+    in “the lightning’s flash and the rolling thunder,” and having a bolt that cleaves
+    the sky and strikes the earth; the names Donar, Thunar, Thunor, and Thorr are
+    then given.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt and summary from provided passage.
+- id: ev:2
+  type: summary
+  locator: 8343-8352
+  quote_or_summary: The passage explains Swedish/Danish and Gotland terms for thunder
+    through the god’s name and driving or wagon; it also says Old Norse reid means
+    both vehicle and thunder, with compounds for thunderclap and lightning.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summary from provided passage.
+- id: ev:3
+  type: summary
+  locator: 8352-8355
+  quote_or_summary: The passage compares thunder to a wagon rumbling over a vaulted
+    space and says this comparison is natural and found among many nations, introducing
+    a Greek example from Hesychius.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summary from provided passage.
+- id: ev:4
+  type: summary
+  locator: 8355-8358
+  quote_or_summary: The passage says that in Carniola thunder is still described as
+    god driving, and that to the Russian peasant it is prophet Ilia driving his chariot
+    or grinding corn.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summary from provided passage.
+- id: ev:5
+  type: summary
+  locator: 8358-8360
+  quote_or_summary: The passage states that in the Edda Thor, besides Asathorr, is
+    described as Oku-Thorr, glossed as Waggon-Thorr, and that his wagon is drawn by
+    two he-goats.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summary from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main literal content is clear. Motif labels are cautious because the
+    passage is primarily comparative philology and natural-symbolic explanation rather
+    than a continuous myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the supplied taxonomy list does not include thunder, lightning, wagon, chariot, or goat-specific entries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l8330-l8366
+  passage_sha256=2213c38a3f5d3add07862a2d68d72276e40601c0addd5f13e1a41eff303c07e4
+

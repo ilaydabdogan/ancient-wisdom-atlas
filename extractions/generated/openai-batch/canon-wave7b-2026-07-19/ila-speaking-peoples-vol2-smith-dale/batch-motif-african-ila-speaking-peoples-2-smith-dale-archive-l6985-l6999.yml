@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l6985-l6999
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: THE DIVINITIES / A NEAR VIEW OF THE SACRED ENCLOSURE AT THE GATEWAY. / CH.
+    XXII / THE DIVINITIES; lines 6985-6999
+  start: '6985'
+  end: '6999'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes post-funeral rites involving the disposal of ashes
+    from mourners' fires, a beer rite connected with breaking the deceased's spear
+    shafts, and a later beer rite described as bringing the deceased back into the
+    house and welcoming the ghost home.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ashes left from fires made by mourners are swept up, carefully gathered, and
+    thrown away into the veld.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After some time, participants meet for a rite called funku owa nsako, glossed
+    as “beer of the shafts.”
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The shafts are identified as the shafts of the deceased's spears, which are
+    broken and thrown away.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A later rite is called funku owa kuzhola munganda mufu, glossed as “beer to
+    bring back the deceased into the house.”
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The rite of bringing back the deceased into the house is described as a kind
+    of welcome home to the ghost.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A month or two after the funeral there is another rite called funku owa mapai,
+    glossed in the passage only partially as “beer of the offer-”.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: mourners
+  description: Persons whose fires leave ashes that are later swept up and discarded.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: deceased / ghost
+  description: The deceased is associated with spears whose shafts are broken; the
+    ghost is welcomed home in a later beer rite.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: ritual participants
+  description: Unspecified participants who meet for successive beer rites after the
+    funeral.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: mourners
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly mentions fires made by mourners.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceased associated with discarded spears
+  assigned_to:
+  - fig:2
+  basis: The spear shafts are described as belonging to the deceased and are broken
+    and thrown away.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ghost welcomed home
+  assigned_to:
+  - fig:2
+  basis: The rite to bring back the deceased into the house is described as a welcome
+    home to the ghost.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: post-funeral ritual participants
+  assigned_to:
+  - fig:3
+  basis: The passage repeatedly says that “they” meet for beer rites after the funeral.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: ashes from mourners' fires
+  literal_form: ashes from fires
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: beer rites
+  literal_form: funeral-associated beer gatherings
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: deceased's spear shafts
+  literal_form: shafts of the deceased's spears
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: house of return
+  literal_form: house into which the deceased is brought back
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: veld disposal place
+  literal_form: veld where ashes are thrown away
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Sweeping and disposal of mourners' ashes
+  summary: Ashes from fires made by mourners are gathered and thrown into the veld.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beer of the shafts
+  summary: After some time, participants meet for a beer rite in which the shafts
+    of the deceased's spears are broken and thrown away.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Beer to bring the deceased into the house
+  summary: A subsequent beer rite is described as bringing the deceased into the house
+    and as welcoming the ghost home.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Later beer of mapai
+  summary: A month or two after the funeral, another beer rite called funku owa mapai
+    is introduced, but the excerpt cuts off before the gloss is complete.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: post-funeral return of the ghost to the house
+  taxonomy_refs:
+  - return
+  basis: The passage identifies a beer rite as bringing the deceased into the house
+    and welcoming the ghost home.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is used only for the literal return of a deceased
+    person's ghost in a funerary rite; the passage does not present a broader narrative
+    return motif.
+- id: motif:2
+  label: ritual disposal of mourning remains and the deceased's possessions
+  taxonomy_refs: []
+  basis: Ashes from mourners' fires are thrown into the veld, and the deceased's spear
+    shafts are broken and thrown away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage states the actions but does not explain their symbolic meaning.
+- id: motif:3
+  label: beer rites marking stages after a funeral
+  taxonomy_refs: []
+  basis: The passage lists multiple named beer rites occurring after the funeral and
+    associates them with specific actions toward the deceased or ghost.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The final rite in the excerpt is incomplete because the passage cuts off
+    mid-gloss.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6985-6989
+  quote_or_summary: Ashes left from fires made by mourners are carefully gathered
+    and thrown away into the veld.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6989-6993
+  quote_or_summary: Participants later meet for funku owa nsako, “beer of the shafts,”
+    referring to the deceased's spear shafts, which are broken and thrown away.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6993-6997
+  quote_or_summary: The next rite, funku owa kuzhola munganda mufu, is glossed as
+    beer to bring the deceased into the house and is described as welcoming the ghost
+    home.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6997-6999
+  quote_or_summary: A month or two after the funeral there is funku owa mapai, but
+    the excerpt ends while giving its gloss as “beer of the offer-”.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and based
+    on the excerpt; taxonomy mapping to “return” is limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage is a truncated excerpt from a discussion of post-funeral rites; no comparison claims were added because the passage itself does not support cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l6985-l6999
+  passage_sha256=f20780cbd2bfcd4459475afa28300766aef7546a24ff7b0bc082ba3631910902
+

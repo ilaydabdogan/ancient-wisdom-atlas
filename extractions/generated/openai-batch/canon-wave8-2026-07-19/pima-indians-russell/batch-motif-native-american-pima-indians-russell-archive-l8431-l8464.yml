@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l8431-l8464
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: SWIMMING / GAMES / KIKTS / HAEYO; lines 8431-8464
+  start: '8431'
+  end: '8464'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Haeyo, a stone-throwing game in which successful
+    players may be carried on opponents' backs between two holes, and Vapĭtai, a guessing
+    game using a concealed bean or mesquite-gum ball hidden in reed joints filled
+    with sand under a blanket. It also describes the named reeds used in the game,
+    including an 'old man' reed with spot rows and an unmarked 'old woman' reed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In Haeyo, four men use moderately large stones and throw them between two
+    holes about 50 feet apart.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Players stand at one hole and try in succession to throw a stone into the
+    other hole.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If only one player succeeds, he and his partner are carried on the backs of
+    their opponents to the opposite goal.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If both partners succeed, they are carried to the opposite goal and back,
+    while the carriers imitate a horse's gallop.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Vapĭtai is a guessing game with several assistants and two leaders.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In Vapĭtai, the Papagos use a small bean, while the Pimas use a ball of black
+    mesquite gum.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The hidden object is placed in one of four reed joints; the reeds are filled
+    with sand, concealed under a blanket, and opponents guess which reed contains
+    the ball.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The reeds are called laying implements; one reed is called 'old man' and bears
+    rows of spots, while another is called 'old woman' and is unmarked.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: four Haeyo players
+  description: Four men who provide themselves with stones and take turns throwing
+    them between two holes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: successful Haeyo player and partner
+  description: The player or pair who succeed in throwing into the hole and are carried
+    by opponents.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: opponents as carriers
+  description: Opposing players who carry successful players on their backs and imitate
+    a horse's gallop.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Vapĭtai leaders
+  description: Two leaders in the guessing game.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Vapĭtai assistants and opponents
+  description: Players who act as assistants to the leaders and opponents who guess
+    which reed contains the ball.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Papagos
+  description: Group identified as using a small bean in the guessing game.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Pimas
+  description: Group identified as using a ball of black mesquite gum in the guessing
+    game.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: game participants
+  assigned_to:
+  - fig:1
+  basis: They provide stones and throw them between the holes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: winners or successful throwers
+  assigned_to:
+  - fig:2
+  basis: They succeed in throwing into the hole and are carried by opponents.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: carriers or 'horses'
+  assigned_to:
+  - fig:3
+  basis: They carry opponents on their backs and imitate a horse's gallop.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: guessing-game leaders
+  assigned_to:
+  - fig:4
+  basis: The game has two leaders assisted by other players.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: assistants
+  assigned_to:
+  - fig:5
+  basis: A number of players act as assistants to the two leaders.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: guessers
+  assigned_to:
+  - fig:5
+  basis: Opponents guess which reed contains the ball.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: groups with variant game pieces
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The passage distinguishes the Papago bean from the Pima mesquite-gum ball
+    in the same guessing game.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Haeyo stones
+  literal_form: moderately large stones, called hayakttt
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: two holes or goals
+  literal_form: two holes set about 50 feet apart
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: carrying on backs
+  literal_form: successful players carried on opponents' backs
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: horse-gallop imitation
+  literal_form: carriers imitate the gallop of the horse
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: hidden bean or gum ball
+  literal_form: small bean used by Papagos; black mesquite-gum ball used by Pimas
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: four reed joints
+  literal_form: four joints of reed used to conceal the object
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: sand and blanket concealment
+  literal_form: reeds filled with sand and concealed under a blanket
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: named reeds
+  literal_form: laying implements including 'old man' and 'old woman' reeds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Haeyo stone-throwing contest
+  summary: Four men take turns throwing stones from one hole toward another hole about
+    50 feet away.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Winners carried between goals
+  summary: Successful Haeyo throwers are carried by opponents; if both partners succeed,
+    they are carried out and back while the carriers imitate a horse's gallop.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Vapĭtai hidden-object guessing game
+  summary: A bean or mesquite-gum ball is hidden in one of four reed joints filled
+    with sand under a blanket, and opponents guess its location.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Description of Vapĭtai reeds
+  summary: 'The passage names the reeds as laying implements and describes at least
+    two: an ''old man'' reed with rows of spots and an unmarked ''old woman'' reed.'
+  figure_refs: []
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: competitive throwing game with carried winners
+  taxonomy_refs: []
+  basis: Haeyo combines stone throwing at a goal with a consequence in which winners
+    are carried on opponents' backs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic game description, not a mythic narrative motif;
+    no supplied taxonomy family directly applies.
+- id: motif:2
+  label: hidden-object guessing game with concealed implements
+  taxonomy_refs: []
+  basis: Vapĭtai centers on concealing a small object in one of several reed joints
+    under a blanket and having opponents guess its location.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives game mechanics but does not attach explicit symbolic
+    or mythic interpretation.
+- id: motif:3
+  label: gendered or personified game implements
+  taxonomy_refs: []
+  basis: The passage names reeds as 'old man' and 'old woman,' with contrasting markings.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The terms are reported as names of implements; the passage does not explain
+    their symbolic meaning.
+comparison_claims:
+- id: claim:1
+  claim: Within the same guessing game, the Papagos and Pimas use different small
+    hidden objects that serve the same game function.
+  claim_level: same_function
+  target: Papago small bean and Pima black mesquite-gum ball in Vapĭtai
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports only a functional comparison of game pieces, not
+    a broader historical or mythological relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8431-8437
+  quote_or_summary: Haeyo is described as an amusing game in which four men use moderately
+    large stones and throw them between two holes about 50 feet apart.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 8437-8442
+  quote_or_summary: If one or both partners throw into the hole, they are carried
+    by opponents to the opposite goal; if both succeed, they are carried back while
+    the carriers imitate a horse's gallop.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 8443-8449
+  quote_or_summary: Vapĭtai is a guessing game with assistants and two leaders; the
+    Papagos use a small bean and the Pimas use a black mesquite-gum ball.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 8449-8453
+  quote_or_summary: The object is placed in one of four reed joints; the reeds are
+    filled with sand, hidden under a blanket, and opponents guess which reed contains
+    the ball.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 8454-8464
+  quote_or_summary: The reeds are called laying implements; one reed called 'old man'
+    has longitudinal rows of spots, while another called 'old woman' is unmarked;
+    a collection note gives one set's dimensions.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized with brief public-domain terms.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a clear ethnographic description of games and equipment. Motif
+    identification is limited because the passage does not present a mythic narrative
+    or explicit symbolic interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was directly supported by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l8431-l8464
+  passage_sha256=7b37fb7fabf473d9dbcd9829ee91bd30f03f83125f87f05cc99e80f9cc0e6393
+

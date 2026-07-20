@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.greek-homeric-hymns-lang-gutenberg-l3654-l3669
+source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+passage_locator:
+  label: XXIV.  TO THE MUSES AND APOLLO / XXV.  TO DIONYSUS / XXVI.  TO ARTEMIS /
+    XXVII.  TO ATHENE; lines 3654-3669
+  start: '3654'
+  end: '3669'
+  translation: The Homeric Hymns
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A hymn to Athene praises her epithets, recounts Zeus begetting her from
+    his head fully armed, describes the gods and cosmos reacting in awe, and closes
+    by hailing her as child of aegis-bearing Zeus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker begins to sing of Athene using epithets including Grey-eyed, wise,
+    relentless-hearted, revered maiden, succour of cities, and strong Tritogeneia.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Zeus the counsellor begets Athene from his holy head, and she is armed for
+    war in shining golden mail.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The other gods behold the event in awe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Athene leaps from the immortal head, stands before Zeus, and shakes a sharp
+    spear.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Olympus trembles, earth rings, and the sea boils with dark waves and foam.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The glorious son of Hyperion checks his swift steeds until Athene removes
+    her divine armour from her shoulders.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Zeus rejoices, and the speaker hails Athene as the child of aegis-bearing
+    Zeus.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Athene / Pallas Athene / Tritogeneia
+  description: Renowned grey-eyed goddess, wise maiden, succour of cities, strong
+    Tritogeneia; begotten from Zeus's head and appearing armed for war.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Zeus the counsellor / aegis-bearing Zeus
+  description: Divine figure who begets Athene from his holy head and rejoices after
+    her appearance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Other gods
+  description: Gods who behold Athene's emergence in awe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Glorious son of Hyperion
+  description: Figure who checks his swift steeds for a long time during Athene's
+    armed emergence.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hymned goddess
+  assigned_to:
+  - fig:1
+  basis: The speaker begins to sing of Athene and closes by hailing her.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: divine child of Zeus
+  assigned_to:
+  - fig:1
+  basis: Athene is begotten by Zeus and is hailed as child of aegis-bearing Zeus.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: armed maiden and city succour
+  assigned_to:
+  - fig:1
+  basis: She is called a revered maiden and succour of cities and appears armed for
+    war with spear and armour.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: divine begetter and rejoicing parent
+  assigned_to:
+  - fig:2
+  basis: Zeus begets Athene from his head and rejoices after her emergence.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: divine witnesses
+  assigned_to:
+  - fig:3
+  basis: The other gods behold the event in awe.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: figure who halts steeds
+  assigned_to:
+  - fig:4
+  basis: The son of Hyperion checks his swift steeds until Athene removes her armour.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Zeus's head
+  literal_form: Holy or immortal head from which Athene is begotten and leaps forth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: war gear
+  literal_form: Shining golden mail, sharp spear, and divine armour on Athene's shoulders.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Olympus
+  literal_form: High Olympus trembling beneath Athene's strength.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sea and foam
+  literal_form: Sea boiling with dark waves and foam breaking forth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: swift steeds
+  literal_form: Steeds checked by the glorious son of Hyperion.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Invocation and epithets of Athene
+  summary: The hymn opens by naming and praising Athene with several attributes, including
+    wisdom, maidenhood, city protection, and strength.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Athene begotten from Zeus's head
+  summary: Zeus begets Athene from his holy head; she appears armed for war while
+    the gods witness in awe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Cosmic reaction to Athene's emergence
+  summary: Athene leaps forth, stands before Zeus, and shakes her spear as Olympus,
+    earth, and sea respond with trembling, sound, boiling waves, and foam.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Steeds halted and armour removed
+  summary: The son of Hyperion halts his steeds until Athene removes her divine armour;
+    Zeus rejoices and the speaker hails her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine parent and child
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Athene is begotten by Zeus and explicitly hailed as the child of aegis-bearing
+    Zeus.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage gives only Athene's relation to Zeus, not an extended parent-child
+    interaction.
+- id: motif:2
+  label: sacred birth from a god's head
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: Athene is begotten from Zeus's holy head and leaps from the immortal head
+    fully armed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents the event hymnicly and briefly; it does not narrate
+    pregnancy or infancy.
+- id: motif:3
+  label: armed divine emergence
+  taxonomy_refs: []
+  basis: Athene appears armed for war in golden mail, shakes a sharp spear, and later
+    removes divine armour from her shoulders.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names an armed-birth or warrior-emergence
+    motif.
+- id: motif:4
+  label: cosmic disturbance at divine manifestation
+  taxonomy_refs: []
+  basis: At Athene's emergence, Olympus trembles, earth rings, and the sea boils with
+    waves and foam.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports cosmic reaction but does not frame it as destruction
+    or creation.
+- id: motif:5
+  label: wisdom goddess epithet
+  taxonomy_refs:
+  - wisdom
+  basis: Athene is called wise among other opening epithets.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Wisdom is stated as an attribute rather than developed through a narrative
+    act.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3654-3658
+  quote_or_summary: 'The hymn begins to sing of Athene and lists epithets: renowned,
+    grey-eyed, wise, relentless-hearted, revered maiden, succour of cities, strong
+    Tritogeneia.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 3658-3659
+  quote_or_summary: '"Zeus the counsellor himself beget from his holy head, all armed
+    for war in shining golden mail"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 3659-3661
+  quote_or_summary: The other gods behold in awe; Athene leaps from the immortal head,
+    stands before Zeus, and shakes a sharp spear.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3661-3664
+  quote_or_summary: High Olympus trembles beneath the grey-eyed Maiden's strength;
+    earth rings; the sea boils with dark waves and foam breaks forth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3664-3666
+  quote_or_summary: The glorious son of Hyperion checks his swift steeds until Athene
+    removes her divine armour from her shoulders.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3666-3669
+  quote_or_summary: Zeus rejoices; the speaker hails Athene as the child of aegis-bearing
+    Zeus and promises to be mindful of her and another lay.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied English passage. Motif
+    candidates use only supplied taxonomy labels where clearly supported. No external
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or comparisons beyond the supplied passage were added; 'glorious son of Hyperion' is left under the passage's wording without further identification.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-homeric-hymns-lang-gutenberg__l3654-l3669
+  passage_sha256=8b4e00fa683f027b6b21d65529931222a91bacbe706ffcc7dab6b8ad74b0dc39
+

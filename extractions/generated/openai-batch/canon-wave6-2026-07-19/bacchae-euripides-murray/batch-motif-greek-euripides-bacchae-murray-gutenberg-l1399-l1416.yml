@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1399-l1416
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / MESSENGER. / PENTHEUS.; lines 1399-1416
+  start: '1399'
+  end: '1416'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: I come from high Kithaeron
+  summary: Dionysus tells Pentheus to wait for someone coming from the mountain with
+    news. A messenger enters in haste from Kithaeron, addresses Pentheus as lord of
+    Thebes, and Pentheus asks what important matter he brings.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus says someone is hastening from the mountain side with news for Pentheus
+    and that they will wait rather than flee.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A messenger from the mountain enters suddenly and in haste.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The messenger addresses Pentheus as lord of all the Theban land.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The messenger says he comes from high Kithaeron, where cold snow gleams continually.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Pentheus asks what important matter the messenger's coming brings.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Named speaker who tells Pentheus to wait for the approaching news-bearer
+    from the mountain side.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Messenger from the Mountain
+  description: A messenger who enters suddenly and in haste, coming from high Kithaeron.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Pentheus
+  description: Addressed as great Pentheus and lord of all the Theban land; asks what
+    important news the messenger brings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: speaker urging delay
+  assigned_to:
+  - fig:1
+  basis: Dionysus tells Pentheus to abide until the person from the mountain arrives
+    and says they will wait.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: urgent mountain messenger
+  assigned_to:
+  - fig:2
+  basis: The stage direction identifies a messenger from the mountain entering suddenly
+    and in haste, and the messenger says he comes from Kithaeron.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Theban lord and recipient of news
+  assigned_to:
+  - fig:3
+  basis: The messenger calls Pentheus lord of the Theban land, and Pentheus asks what
+    important matter is being brought.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: the mountain side; high Kithaeron
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: cold gleaming snow
+  literal_form: frore snow spangles on high Kithaeron
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Waiting for the mountain news-bearer
+  summary: Dionysus instructs Pentheus to remain until the person coming from the
+    mountain side with news arrives.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Messenger arrives from Kithaeron
+  summary: A messenger enters in haste from high Kithaeron, addresses Pentheus as
+    Theban lord, and is asked what important matter he brings.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: urgent messenger from the mountain
+  taxonomy_refs: []
+  basis: The passage anticipates a person coming from the mountain with news, then
+    shows a messenger from high Kithaeron entering suddenly and in haste.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not include the content of the news or the wider consequences
+    of the report.
+- id: motif:2
+  label: ruler receives important report
+  taxonomy_refs: []
+  basis: Pentheus is addressed as lord of Thebes and asks what matter of import the
+    messenger's arrival brings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The motif is formal and situational; the passage alone does not specify
+    the report's substance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1399-1404
+  quote_or_summary: Dionysus says to wait until the one hastening from the mountain
+    side with news arrives, and says they will not fly but wait on Pentheus' command.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: stage direction before line 1408
+  quote_or_summary: Enter suddenly and in haste a Messenger from the Mountain.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 1408-1413
+  quote_or_summary: The messenger addresses Pentheus as lord of Theban land and says
+    he comes from high Kithaeron, where cold snow gleams continually.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: line 1416
+  quote_or_summary: Pentheus asks what matter of import the messenger's coming may
+    bring.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal figures, setting, and actions are explicit. Motif labels are descriptive
+    rather than taxonomy-linked because the excerpt does not support a stronger mythological
+    motif-family assignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or tradition-level comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1399-l1416
+  passage_sha256=1a5b00b1e58dcf812b9c8a2091bf4947b5b5bb096fc6a604e571806b43aeb010
+

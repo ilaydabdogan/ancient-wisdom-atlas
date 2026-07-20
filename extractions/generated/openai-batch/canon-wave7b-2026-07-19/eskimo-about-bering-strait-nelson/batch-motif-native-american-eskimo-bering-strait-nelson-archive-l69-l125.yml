@@ -1,0 +1,162 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l69-l125
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: WASHINGTON / SMITHSONIAN    INSTITUTION / BUREAU    OF  AMERICAN    ETHNOLOGY
+    / WASHINGTON,; lines 69-125
+  start: '69'
+  end: '125'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter and a covering letter identify the work as Edward William
+    Nelson's The Eskimo about Bering Strait, an extract from the Bureau of American
+    Ethnology's eighteenth annual report, printed by the Government Printing Office
+    in Washington in 1900. A Smithsonian/Bureau of American Ethnology letter says
+    a copy of the memoir is being sent to the Library of the University of California,
+    Berkeley, at the author's request.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage gives the title The Eskimo about Bering Strait.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Edward William Nelson is named as the author.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The work is described as an extract from the eighteenth annual report of the
+    Bureau of American Ethnology and as printed by the Government Printing Office
+    in Washington in 1900.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage includes a Smithsonian Institution / Bureau of American Ethnology
+    letterhead from Washington.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The covering letter says that, at the author's request, a copy of the memoir
+    is being sent to the Library of the University of California, Berkeley.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Edward William Nelson
+  description: Named author of The Eskimo about Bering Strait.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Smithsonian Institution / Bureau of American Ethnology
+  description: Institutional letterhead associated with the covering letter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The Library, University of California, Berkeley
+  description: Institutional recipient named at the end of the letter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named author
+  assigned_to:
+  - fig:1
+  basis: The title page names Edward William Nelson after the word 'BY,' and the letter
+    refers to the author's request.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: letterhead institution
+  assigned_to:
+  - fig:2
+  basis: The letter section is headed with the Smithsonian Institution and Bureau
+    of American Ethnology in Washington.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient institution
+  assigned_to:
+  - fig:3
+  basis: The letter names The Library, University of California, Berkeley as the addressed
+    recipient.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Title and publication front matter
+  summary: The passage identifies the title, author, source report, publishing office,
+    place, and year of the memoir.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Covering letter sending a copy
+  summary: A Smithsonian/Bureau of American Ethnology letter states that a copy of
+    Nelson's memoir is being sent to the University of California Library at the author's
+    request.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 69-93
+  quote_or_summary: Title/front matter identifies The Eskimo about Bering Strait,
+    by Edward William Nelson, as an extract from the eighteenth annual report of the
+    Bureau of American Ethnology, printed in Washington by the Government Printing
+    Office in 1900.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 96-125
+  quote_or_summary: A Smithsonian Institution / Bureau of American Ethnology letter
+    from Washington states that a copy of Nelson's memoir is being sent, at the author's
+    request, to the Library of the University of California, Berkeley.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic front matter and a covering letter, not a mythic
+    or ethnographic narrative passage. No motif, symbol, or comparison claim is supported
+    by the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied because the passage contains no mythic narrative content or symbolic episode.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l69-l125
+  passage_sha256=fd101a9b34b7125329525fbbd517a473abf57a11906e2429e3a896937cd6db7c
+

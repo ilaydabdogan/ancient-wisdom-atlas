@@ -1,0 +1,438 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l6360-l6398
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: IV  SICKNESS,  DEATH,  AND   BURIAL  125 / IV  SICKNESS,  DEATH,  AND  BURIAL  127
+    / CHAPTER   V / RELATIONSHIP; lines 6360-6398
+  start: '6360'
+  end: '6398'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Baganda rules of relationship, descent, clan membership,
+    totems, royal exceptions to ordinary descent, treatment of a married woman by
+    her natal clan, avoidance and adoption of parental totems by children, and restrictions
+    on marriage or communication with certain kin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Under ordinary rules, descent is reckoned through the father, and each child
+    belongs to the father's clan and takes the father's totems.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A child born to a man is counted as his legitimate child if the child has
+    passed the test called kwalula.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'Royal descent is described as an exception: every prince belongs to the mother''s
+    clan rather than the father''s and takes the mother''s totems.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lion and Leopard clans claim descent from princes and claim to include
+    all princes among their members.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Every prince and king has the lion and leopard as additional totems, and also
+    claims the eagle as a totem, although no Eagle clan is said to exist.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Clans are said to speak of having given birth to particular kings and to claim
+    those kings as clan members.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Under ordinary circumstances a woman is lost to her clan when she marries,
+    but her clan members still see that she is well treated and receives justice when
+    in trouble.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A married woman's children are taught in infancy to respect and avoid her
+    totems; when grown, they adopt their father's totems and rarely mention the mother's.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A man is forbidden to marry a woman from his mother's clan because members
+    of that clan are regarded as his near relations.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage introduces a following table stating that a man might not have
+    communications with his father's sisters' daughters.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Child under ordinary descent
+  description: A child belongs to the father's clan, takes the father's totems, and
+    may be counted legitimate after the kwalula test.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Prince or king
+  description: Royal persons belong to the mother's clan and totems and also have
+    lion, leopard, and eagle as additional totems.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Father
+  description: The father supplies ordinary clan membership and totems to his children.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Mother
+  description: The mother supplies clan membership and totems for princes; in ordinary
+    families her totems are respected and avoided by children in infancy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Married woman
+  description: A woman is said to be lost to her clan when she marries, while her
+    natal clan still watches over her treatment and justice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Man subject to marriage restrictions
+  description: A man may not marry a woman from his mother's clan and is introduced
+    as subject to communication restrictions with father's sisters' daughters.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Clan members
+  description: Clan members claim kings, protect married women from their clan, and
+    define near relations for marriage restriction.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:8
+  name_or_label: Father's sisters' daughters
+  description: Female relatives named as persons with whom a man might not have communications
+    according to a following table.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ordinary descent recipient
+  assigned_to:
+  - fig:1
+  basis: The child belongs to the father's clan and takes the father's totems under
+    the ordinary rule.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal exception to ordinary descent
+  assigned_to:
+  - fig:2
+  basis: Princes and kings follow special maternal clan rules and have additional
+    royal totems.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: paternal clan and totem source
+  assigned_to:
+  - fig:3
+  basis: Ordinary children take the father's clan and totems and later adopt the father's
+    totems.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: maternal clan and totem source
+  assigned_to:
+  - fig:4
+  basis: Princes take the mother's clan and totems; ordinary children initially respect
+    and avoid the mother's totems; the mother's clan is treated as near kin.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: married woman under residual natal-clan protection
+  assigned_to:
+  - fig:5
+  basis: A married woman is lost to her clan, except that clan members ensure good
+    treatment and justice for her.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: marriage-restricted male
+  assigned_to:
+  - fig:6
+  basis: A man is forbidden to marry from his mother's clan and is introduced as barred
+    from communications with father's sisters' daughters.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: kin group claimant and protector
+  assigned_to:
+  - fig:7
+  basis: Clans claim kings as members, protect married women, and define near relations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:8
+  label: communication-restricted female kin
+  assigned_to:
+  - fig:8
+  basis: Father's sisters' daughters are named in a communication restriction introduced
+    by the passage.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: father's totems
+  literal_form: totems inherited or adopted from the father
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: mother's totems
+  literal_form: totems inherited from or associated with the mother
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: lion totem
+  literal_form: lion
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: leopard totem
+  literal_form: leopard
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: eagle totem
+  literal_form: eagle
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ordinary paternal descent and legitimacy
+  summary: The ordinary rule assigns a child to the father's clan and totems, with
+    legitimacy linked to passing the kwalula test.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Royal maternal descent and animal totems
+  summary: Royal persons are assigned to the mother's clan and totems and also carry
+    lion, leopard, and eagle as additional totems; some clans claim kings as members.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Marriage, natal clan protection, and children's totem practice
+  summary: A married woman leaves her clan under ordinary circumstances, though clan
+    members continue to protect her interests; her children initially respect and
+    avoid her totems, then later adopt the father's totems.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Marriage and communication restrictions among kin
+  summary: A man is barred from marrying a woman from his mother's clan, and the passage
+    introduces a further restriction on communications with father's sisters' daughters.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: patrilineal clan descent and totem inheritance
+  taxonomy_refs: []
+  basis: Ordinary children belong to the father's clan and take or later adopt the
+    father's totems.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a kinship rule in an ethnographic account, not a narrative myth
+    episode.
+- id: motif:2
+  label: royal legitimacy through exceptional descent and extra totems
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Princes and kings are exceptions to ordinary paternal descent, belonging
+    to the mother's clan and additionally claiming lion, leopard, and eagle totems;
+    clans claim to have given birth to kings.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a social descent rule and clan claim; it does not provide
+    a mythic origin story or divine sanction.
+- id: motif:3
+  label: totemic avoidance by children
+  taxonomy_refs: []
+  basis: Children are taught in infancy to respect and avoid their mother's totems
+    before later adopting their father's totems.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe the ritual details or consequences of violating
+    the avoidance.
+- id: motif:4
+  label: maternal-clan marriage prohibition
+  taxonomy_refs: []
+  basis: A man is forbidden to marry a woman from his mother's clan because its members
+    are regarded as near relations.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is stated as a kinship and marriage rule rather than a mythological
+    narrative.
+- id: motif:5
+  label: communication avoidance with certain female kin
+  taxonomy_refs: []
+  basis: The passage introduces a table indicating that a man might not communicate
+    with his father's sisters' daughters.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The actual table and details are outside the supplied passage, so the
+    scope and conditions of the restriction are unclear.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6360-6368
+  quote_or_summary: 'Ordinary male-line descent: a child belongs to the father''s
+    clan, takes the father''s totems, and is legitimate if it has passed the test
+    called kwalula.'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 6368-6378
+  quote_or_summary: 'Royalty is an exception: every prince belongs to the mother''s
+    clan and totems; Lion and Leopard clans claim descent from princes; princes and
+    kings have lion, leopard, and eagle totems, although there is no Eagle clan; clans
+    claim kings as members.'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 6379-6388
+  quote_or_summary: A married woman is ordinarily lost to her clan, though clan members
+    protect her treatment and justice; her children respect and avoid her totems in
+    infancy, then later adopt the father's totems.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 6388-6392
+  quote_or_summary: A man may not marry a woman from his mother's clan because that
+    clan's members are regarded as his near relations.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 6394-6398
+  quote_or_summary: The text introduces a following table stating that a man might
+    not have communications with his father's sisters' daughters.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The kinship rules are clear despite OCR and pagination artifacts. Motif labeling
+    is cautious because the passage is ethnographic and normative rather than narrative.
+    No comparison claims were made because the passage itself does not compare these
+    rules to another tradition or text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy mapping was limited to royal_legitimacy where directly relevant to royal descent and totem claims.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l6360-l6398
+  passage_sha256=2f95732761250e0b29aa3ab37c9dadd35a61686c620b9d49c93d15a90473c3c6
+

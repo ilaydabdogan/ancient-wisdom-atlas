@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l3035-l3046
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: HOW   A   NATIVE  STORY   IS  TOLD.  31 / HOW  THE  WIVES  RESTORED   THEIR  HUSBAND
+    / TO  LIFE. / HOW   JNSASS1    (GAZELLE)    GOT   MARRIED.  37; lines 3035-3046
+  start: '3035'
+  end: '3046'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Buite goes fishing daily, and his wife sends one of the little ones or
+    one of her boys to help carry the fish. Passersby are astonished by Buite's generous
+    treatment and wonder where his wife and riches came from. Buite's brother Swarmi
+    disbelieves his prosperity and decides to visit. Buite becomes tired of always
+    cutting off the fishes' heads, and one day he does not cut them off.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Each day when Buite goes fishing, his wife sends one of the little ones with
+    him to carry fish.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People passing by are astonished at the liberal treatment they receive from
+    Buite and wonder about the source of his wife and riches.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Swarmi is identified as Buite's brother; he does not believe in Buite's prosperity
+    and decides to visit him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Buite regularly goes fishing with one of his wife's boys.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Buite becomes tired of always cutting off the fishes' heads.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: On one day, Buite does not cut off the fishes' heads.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Buite
+  description: A man who goes fishing daily, is treated as prosperous, gives liberal
+    treatment to passersby, and usually cuts off fishes' heads.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Buite's wife
+  description: Unnamed wife of Buite who sends little ones or boys with him to carry
+    fish; passersby wonder where Buite obtained his wife and riches.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: The little ones / wife's boys
+  description: Children or boys sent with Buite when he goes fishing, to carry the
+    fish.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Swarmi
+  description: Buite's brother, who disbelieves Buite's prosperity and determines
+    to visit him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: People who passed that way
+  description: Passersby who are astonished by Buite's liberal treatment and wonder
+    about the source of his wife and riches.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Fisherman
+  assigned_to:
+  - fig:1
+  basis: Buite goes fishing daily.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Wife who sends helpers
+  assigned_to:
+  - fig:2
+  basis: Buite's wife sends one of the little ones or boys with him when he fishes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: Fish-carriers
+  assigned_to:
+  - fig:3
+  basis: The little ones or boys accompany Buite to carry the fish.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: Skeptical brother and intended visitor
+  assigned_to:
+  - fig:4
+  basis: Swarmi does not believe Buite's prosperity and decides to visit him.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Prosperous host or giver
+  assigned_to:
+  - fig:1
+  basis: Passersby are astonished at the liberal treatment bestowed on them by Buite
+    and wonder about his riches.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: Observers of prosperity
+  assigned_to:
+  - fig:5
+  basis: The passersby observe Buite's treatment of them and wonder about his wife
+    and riches.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Fish
+  literal_form: Fish caught or carried during Buite's fishing trips.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: Fishes' heads
+  literal_form: The heads of fish that Buite usually cuts off but on one day does
+    not cut off.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Wife and riches
+  literal_form: Buite's wife and riches, whose source is wondered about by passersby.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Daily fishing and visible prosperity
+  summary: Buite goes fishing each day, accompanied by one of his wife's children
+    or boys to carry fish. Passersby are astonished by his generous treatment and
+    wonder where he obtained his wife and riches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Swarmi's disbelief
+  summary: Swarmi, Buite's brother, does not believe Buite's prosperity and determines
+    to visit him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Failure to cut off fish heads
+  summary: Buite grows tired of repeatedly cutting off the fishes' heads and, on one
+    day, does not cut them off.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Sudden prosperity arouses wonder and kin skepticism
+  taxonomy_refs: []
+  basis: Passersby wonder where Buite's wife and riches came from, while his brother
+    Swarmi disbelieves his prosperity and decides to visit.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt does not explain the origin of the wife or riches, so the
+    motif remains only a local pattern in this passage.
+- id: motif:2
+  label: Spouse's children assist in daily subsistence work
+  taxonomy_refs: []
+  basis: Buite's wife sends one of the little ones or one of her boys with him on
+    fishing trips to carry the fish.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage states the repeated action but does not yet give its narrative
+    consequence.
+- id: motif:3
+  label: Neglected repeated preparation of fish
+  taxonomy_refs: []
+  basis: Buite usually cuts off the fishes' heads, becomes tired of doing so, and
+    one day does not cut them off.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt ends before any consequence of failing to cut off the heads
+    is shown.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3035-3036
+  quote_or_summary: '"when he went out fishing, she would send one of the little ones
+    with him"'
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 3036-3039
+  quote_or_summary: Passersby are astonished at Buite's liberal treatment and wonder
+    where his wife and riches came from.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source text; summary used.
+- id: ev:3
+  type: summary
+  locator: 3039-3041
+  quote_or_summary: Swarmi, Buite's brother, does not believe Buite's prosperity and
+    determines to visit him.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source text; summary used.
+- id: ev:4
+  type: quote
+  locator: 3042-3044
+  quote_or_summary: '"Buite each day went fishing, taking one of his wife''s boys
+    with him."'
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 3044-3045
+  quote_or_summary: '"he got tired of always cutting off the fishes'' heads."'
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: '3046'
+  quote_or_summary: '"one day that he did not cut off the heads"'
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source text; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the excerpt ends before the consequence of the fish-head action is given. No comparison
+    claims are made from this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references assigned because the supplied passage does not directly support any available motif-family or symbol taxonomy item.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l3035-l3046
+  passage_sha256=95729fabdfbb27dd9f9f7d542240eff782f9ddf9efaee17cc0a4df7c07a9f7e0
+

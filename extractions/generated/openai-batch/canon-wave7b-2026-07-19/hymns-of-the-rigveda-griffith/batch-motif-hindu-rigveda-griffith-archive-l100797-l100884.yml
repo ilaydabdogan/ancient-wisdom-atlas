@@ -1,0 +1,543 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l100797-l100884
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ARANYAKA III / ADHYAYA 1. / KEITH R / ADHYAYA 2.; lines 100797-100884
+  start: '100797'
+  end: '100884'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“a man should know that his self is gone and that he will not have long
+    to live”"
+  summary: 'The passage and notes discuss signs interpreted as omens of imminent death:
+    altered sun and sky, distorted shadow or reflection, abnormal eye perceptions,
+    missing or present inner sounds, anomalous fire and lightning, burning ground,
+    and a subsequent list of dreams involving dark figures, animals, wind, gold, honey,
+    stalks, and a lotus. The passage also prescribes doing what must be done and reciting
+    specified Rigvedic verses.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A note states that the connection of sun and self is used elsewhere to provide
+    omens of death, and cites a case in which the sun appears white only to a man
+    about to die.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note characterizes the remaining signs as old folklore ideas pressed into
+    service and points to literature on Vedic superstitions.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The translation lists red sky, wind not retained, and a head smelling like
+    a raven’s nest as signs after which a man should know that his self is gone and
+    that he will not have long to live.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After recognizing the signs, the man is instructed to do whatever he considers
+    must be done and to recite specified Rigvedic verses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Seeing the sun as pierced and like the nave of a cart-wheel, or seeing one’s
+    shadow pierced, is presented as another sign of the same condition.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Seeing oneself in a mirror or in water with a crooked head or without a head,
+    or seeing pupils inverted or crooked, is presented as another sign.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The man is told to cover his eyes and look; threads may be seen as if falling
+    together, and not seeing them is also treated as significant.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The man is told to cover his ears and listen; there may be a sound like burning
+    fire or a chariot, and not hearing that sound is also treated as significant.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The visible signs include blue fire like a peacock’s neck, lightning in a
+    cloudless sky, no lightning in a cloudy sky, bright rays in a great cloud, and
+    ground that appears to be burning.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage explicitly marks a transition from visible signs to dreams.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The dreams include seeing a black man with black teeth, a killing action,
+    a boar killing him, and a monkey jumping on him.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: The dreams also include the wind carrying him swiftly along, swallowing gold
+    and spitting it out, eating honey, chewing stalks, and carrying a single lotus.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the man observing the signs
+  description: An unnamed man whose perceptions, body, reflection, shadow, environment,
+    and dreams are described as signs indicating that his self is gone and that he
+    will not have long to live.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: black man with black teeth
+  description: A black man with black teeth seen in the dream list; the excerpt associates
+    this figure with a killing action, though the pronoun sequence is terse.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:3
+  name_or_label: boar
+  description: A boar in the dream list that kills the man.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: monkey
+  description: A monkey in the dream list that jumps on the man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: subject of death signs
+  assigned_to:
+  - fig:1
+  basis: The signs are said to show that his self is gone and that he will not have
+    long to live.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ritual responder
+  assigned_to:
+  - fig:1
+  basis: After the signs, he is told to do what must be done and recite named verses.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: dream death-omen figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: These figures occur in the dream sequence that follows the visible signs.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:4
+  label: dream animal killer
+  assigned_to:
+  - fig:3
+  basis: The dream list says that a boar kills him.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: altered sun and sky
+  literal_form: red sky; sun seen as pierced and like the nave of a cart-wheel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: pierced shadow
+  literal_form: the man’s shadow seen as pierced
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: distorted reflection in mirror or water
+  literal_form: self seen in a mirror or in water with a crooked head or without a
+    head
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: inverted or crooked pupils
+  literal_form: pupils seen inverted or crooked
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: falling threads
+  literal_form: threads seen as if falling together when the eyes are covered
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: sound of burning fire or chariot
+  literal_form: a sound heard as of a burning fire or of a chariot when the ears are
+    covered
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: blue fire and burning ground
+  literal_form: fire appearing blue like a peacock’s neck; ground appearing as though
+    burning
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: lightning and cloud anomalies
+  literal_form: lightning in a cloudless sky, no lightning in a cloudy sky, or bright
+    rays in a great cloud
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: black man with black teeth
+  literal_form: a black man with black teeth seen in a dream
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:10
+  label: boar and monkey dream animals
+  literal_form: a boar that kills him; a monkey that jumps on him
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:11
+  label: wind carrying the dreamer
+  literal_form: the wind carries him swiftly along in a dream
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:12
+  label: dream objects and foods
+  literal_form: gold swallowed and spat out; honey eaten; stalks chewed; a single
+    lotus carried
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:13
+  label: prescribed recitations
+  literal_form: seven verses and named single or grouped Rigvedic verses to be recited
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Recognition of imminent death through visible signs
+  summary: The man is told that red sky, failure of wind retention, and a raven-nest
+    smell from his head mean that his self is gone and that he will not have long
+    to live.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Ritual response by action and recitation
+  summary: After the signs, the man is instructed to do what must be done and to recite
+    specified Rigvedic verses.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:13
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ominous distortions of sun, shadow, reflection, and eyes
+  summary: The man sees the sun or his shadow as pierced, his mirror or water reflection
+    as crooked or headless, and his pupils as inverted or crooked.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Eye and ear tests
+  summary: The man covers his eyes and looks for falling threads, then covers his
+    ears and listens for a sound like burning fire or a chariot; absence of the expected
+    perception is also significant.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Fire, lightning, cloud, and ground omens
+  summary: Anomalies in fire, lightning, cloud, and ground appearance are listed as
+    visible signs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Dream omens
+  summary: The dream sequence includes a black man with black teeth, a boar, a monkey,
+    wind carrying the dreamer, and actions involving gold, honey, stalks, and a lotus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:9
+  - sym:10
+  - sym:11
+  - sym:12
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: visible omens of imminent death
+  taxonomy_refs: []
+  basis: The passage repeatedly lists visual, bodily, environmental, and auditory
+    anomalies and says the man should know that his self is gone and that he will
+    not have long to live.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is a translation embedded in notes; some details may depend
+    on the underlying Sanskrit and the OCR quality of the excerpt.
+- id: motif:2
+  label: distorted self-image as death sign
+  taxonomy_refs: []
+  basis: The mirror or water image with a crooked or missing head, pierced shadow,
+    and crooked or inverted pupils function as signs within the death-omen sequence.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage treats these as omens, but does not provide a narrative explanation
+    for why the distortions signify death.
+- id: motif:3
+  label: ritual recitation after ominous signs
+  taxonomy_refs: []
+  basis: After recognizing the signs, the man is instructed to perform necessary actions
+    and recite specified Rigvedic verses.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt lists the recitations but does not explain the intended ritual
+    effect in detail.
+- id: motif:4
+  label: dream omens of death
+  taxonomy_refs: []
+  basis: The text explicitly moves from visible signs to dreams and then lists dream
+    events involving a black man, animals, wind, and symbolic objects or foods.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The dream list is truncated at the end of the supplied passage, so the
+    full sequence may continue beyond the range.
+- id: motif:5
+  label: fire and light anomalies as omens
+  taxonomy_refs: []
+  basis: Blue fire, sounds like burning fire, lightning in the wrong sky condition,
+    bright rays in a cloud, and burning ground are all included among the signs.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy includes fire as a symbol but does not provide
+    a precise death-omen motif family for this pattern.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly compares the sun-and-self death-omen pattern with Brhadaranyaka
+    Upanisad V.5.2, where the sun appears white only to a man about to die.
+  claim_level: same_function
+  target: Brhadaranyaka Upanisad V.5.2
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is reported in the note; the full Brhadaranyaka passage
+    is not included in the supplied excerpt.
+- id: claim:2
+  claim: The note identifies Sankhayana Aranyaka VIII.7 and XI.3-4 as parallel passages
+    for the omen material.
+  claim_level: same_function
+  target: Sankhayana Aranyaka VIII.7 and XI.3-4
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt names the parallels but does not quote their contents.
+- id: claim:3
+  claim: The note places the signs within a broader Vedic folklore or superstition
+    pattern by calling the rest of the signs old folklore ideas and citing Vedic superstition
+    literature.
+  claim_level: same_function
+  target: Vedic folklore and superstition literature cited in the note, including
+    Atharvaveda, Kausika Sutra, and Adbhuta Brahmana
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a broad contextual comparison based on the note’s characterization
+    rather than on detailed parallel passages within the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 100813-100820
+  quote_or_summary: The note says Sāyana connects the passage with attainment of brahman
+    and omens about length of life; it adds that the connection of sun and self is
+    elsewhere used for death omens and cites Brhadaranyaka Upanisad and Sankhayana
+    parallels.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: 100821-100828
+  quote_or_summary: The note says the rest of the signs are clearly old folklore ideas
+    pressed into service and refers to literature on Vedic superstitions, including
+    Atharvaveda, Kausika Sutra, and Adbhuta Brahmana.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: 100832-100837
+  quote_or_summary: "“the sky is red like madder,” the wind is not retained, the head
+    smells like “a raven’s nest,” and the man should know “that his self is gone”
+    and recite named Rigvedic verses after doing what must be done."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 100837-100842
+  quote_or_summary: The passage lists seeing the sun pierced like a cart-wheel nave,
+    seeing one’s shadow pierced, seeing oneself in a mirror or water with a crooked
+    or missing head, and seeing the pupils inverted or crooked.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:5
+  type: summary
+  locator: 100842-100847
+  quote_or_summary: The man covers his eyes and looks; threads are seen as if falling
+    together, and if he does not see them he should know that the omen applies.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:6
+  type: summary
+  locator: 100869-100872
+  quote_or_summary: The man covers his ears and listens; a sound like burning fire
+    or a chariot may be heard, and if it is not heard he should know the omen applies.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:7
+  type: summary
+  locator: 100872-100877
+  quote_or_summary: The passage lists blue fire like a peacock’s neck, lightning in
+    a cloudless sky, no lightning in a cloudy sky, bright rays in a great cloud, and
+    ground seen as though burning; it then says these are the visible signs.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:8
+  type: quote
+  locator: '100877'
+  quote_or_summary: "“So far as regards the visible signs. Then come the dreams.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:9
+  type: summary
+  locator: 100878-100884
+  quote_or_summary: The dream list includes a black man with black teeth and a killing
+    action, a boar killing him, a monkey jumping on him, wind carrying him swiftly,
+    swallowing gold and spitting it out, eating honey, chewing stalks, and carrying
+    a single lotus.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The main motif extraction is well supported by the supplied translation,
+    but the excerpt contains OCR noise and scholarly notes. Some dream pronouns are
+    terse, and the comparison claims rely on the passage’s notes rather than quoted
+    parallel texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available motif-family taxonomy reference precisely matches death omens or dream omens; symbol taxonomy references were used only for fire and water where directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l100797-l100884
+  passage_sha256=eaf846b4b341f80bb0e7c1d4af1fb72e7b7289986423ef34e0adbd5138afe3a9
+

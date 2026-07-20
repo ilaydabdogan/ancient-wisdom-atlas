@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l26331-l26346
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SUPERSTITIONS. / VOL.    IV.  L   L / SUPERSTITIONS.      I.  1791 / SUPERSTITIONS.      I.  1793;
+    lines 26331-26346
+  start: '26331'
+  end: '26346'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of numbered superstitions gives conditional rules about Christmas-Eve
+    crumbs as physic, a coat not being tried on by another, two people eating from
+    one plate, a match lit at both ends, moving a baking oven during a house fire,
+    and new shoes for a woman going to be churched.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Crumbs saved on the three Christmas Eves are said to be good physic for one
+    who is disappointed.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If someone else tries on a coat while it is being made, the coat is said not
+    to fit the intended wearer.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If two people eat from one plate, they are said to become enemies.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Lighting a match at both ends is described as putting brands into witches'
+    hands.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When a house catches fire, sliding out the baking oven is said to make the
+    flame follow it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A woman going to be churched is told to wear new shoes, otherwise her child
+    is said to risk a bad fall after learning to run alone.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: one who is disappointed
+  description: Recipient for whom Christmas-Eve crumbs are used as physic.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: intended coat wearer
+  description: The person for whom the coat is being made.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: another person trying on the coat
+  description: Someone other than the intended wearer who tries on the coat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: two people eating from one plate
+  description: Two persons who eat off one plate and are predicted to become enemies.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: witches
+  description: Witches into whose hands brands are said to be put when a match is
+    lit at both ends.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: house-fire responder
+  description: The implied person who slides the baking oven out when fire breaks
+    out in a house.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: woman going to be churched
+  description: A woman instructed to wear new shoes when going to be churched.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: her child
+  description: The child said to risk a bad fall after learning to run alone if the
+    woman lacks new shoes.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: recipient of physic
+  assigned_to:
+  - fig:1
+  basis: Christmas-Eve crumbs are described as good physic for this person.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: intended wearer
+  assigned_to:
+  - fig:2
+  basis: The coat is being made for this person and may fail to fit them.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: prohibited tryer-on
+  assigned_to:
+  - fig:3
+  basis: The passage says no one else should try the coat on.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: future enemies
+  assigned_to:
+  - fig:4
+  basis: Two people eating from one plate are said to become enemies.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: receivers of brands
+  assigned_to:
+  - fig:5
+  basis: Lighting a match at both ends is said to put brands in the witches' hands.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: fire-diversion actor
+  assigned_to:
+  - fig:6
+  basis: The implied actor slides the baking oven out during a house fire.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: churching woman subject to rule
+  assigned_to:
+  - fig:7
+  basis: The woman going to be churched is instructed to wear new shoes.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: child at risk of falling
+  assigned_to:
+  - fig:8
+  basis: The child is said to have a bad fall if the woman lacks new shoes.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Christmas-Eve crumbs
+  literal_form: crumbs saved on the three Christmas Eves
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: coat being made
+  literal_form: a coat under construction that no one else should try on
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: one plate
+  literal_form: one plate shared by two eaters
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: match lit at both ends
+  literal_form: a match lit at both ends, associated with brands in witches' hands
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: baking oven
+  literal_form: the baking oven slid out when fire breaks out in a house
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: house flame
+  literal_form: the flame from a house fire that is said to follow the oven
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: new shoes
+  literal_form: new shoes worn by a woman going to be churched
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Saving Christmas-Eve crumbs as physic
+  summary: Crumbs saved over three Christmas Eves are kept for use as physic for a
+    disappointed person.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Protecting the fit of a coat
+  summary: A coat being made should not be tried on by someone else, or it will not
+    fit the intended wearer.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Two people sharing one plate
+  summary: Two people eating from one plate are said to become enemies.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Match lit at both ends and witches
+  summary: Lighting a match at both ends is linked with putting brands in witches'
+    hands.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Baking oven moved during house fire
+  summary: When fire breaks out in a house, sliding the baking oven out is said to
+    cause the flame to follow it.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: New shoes for a woman going to be churched
+  summary: A woman going to be churched should wear new shoes to avoid a later bad
+    fall for her child.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: holiday-saved food used as remedy
+  taxonomy_refs: []
+  basis: Crumbs saved on three Christmas Eves are described as useful physic for a
+    disappointed person.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the rule but does not explain the mechanism or wider
+    tradition.
+- id: motif:2
+  label: another's contact spoils a garment's fit
+  taxonomy_refs: []
+  basis: A coat being made must not be tried on by anyone else, or it will not fit
+    the intended wearer.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader comparative identification is supplied in the passage.
+- id: motif:3
+  label: shared dish produces enmity
+  taxonomy_refs: []
+  basis: Two people eating from one plate are predicted to become enemies.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a brief superstition without narrative context.
+- id: motif:4
+  label: improper fire-kindling empowers witches
+  taxonomy_refs: []
+  basis: Lighting a match at both ends is described as putting brands in witches'
+    hands.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wording may be proverbial; the passage does not clarify whether witches
+    are literal agents or formulaic figures.
+- id: motif:5
+  label: fire diverted by moving a domestic object
+  taxonomy_refs: []
+  basis: During a house fire, sliding the baking oven out is said to make the flame
+    follow it.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not state whether this is ritual, practical advice, or
+    a sympathetic action.
+- id: motif:6
+  label: mother's churching apparel affects child's safety
+  taxonomy_refs: []
+  basis: A woman going to be churched should wear new shoes, or her child will later
+    have a bad fall.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The relationship between the woman's shoes and the child's fall is asserted
+    but not explained.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26331-26332
+  quote_or_summary: Entry 446 says to save all crumbs on the three Christmas Eves;
+    they are good as physic for one who is disappointed.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 26334-26335
+  quote_or_summary: Entry 447 says that if a coat is being made, no one else should
+    try it on, or it will not fit the wearer.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: line 26337
+  quote_or_summary: Entry 448 says that if two people eat from one plate, they will
+    become enemies.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 26339-26340
+  quote_or_summary: Entry 449 says that lighting a match at both ends puts brands
+    in witches' hands.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 26342-26343
+  quote_or_summary: Entry 450 says that when fire breaks out in a house, sliding the
+    baking oven out will make the flame follow it.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 26345-26346
+  quote_or_summary: Entry 451 says that a woman going to be churched should wear new
+    shoes, or her child will have a bad fall after learning to run alone.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the numbered superstitions. Motif
+    labels are candidate pattern labels only; no external comparison claims are made
+    from this passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All entries are brief superstition rules; taxonomy symbol reference is applied only to explicit fire imagery.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l26331-l26346
+  passage_sha256=8378af735bc134849ae338303296adbc369b3060944948870fb51388bc97f2e8
+

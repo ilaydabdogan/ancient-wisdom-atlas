@@ -1,0 +1,172 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l9776-l9802
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: CHAPTER XIV / THE ENTRY INTO THE CAPITAL / CHAPTEE XV / THE ACCEPTANCE OF
+    THE MAHAVIHARA; lines 9776-9802
+  start: '9776'
+  end: '9802'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that a wise king, whose name contains the words “beloved
+    of the gods,” patronized the thera Mahinda and first built the Mahavihara in Lanka.
+    It then closes the chapter called “The Acceptance of the Mahavihara.” A note glosses
+    Mahavihara as “the great monastery” and identifies it henceforth with the Mahameghavanarama.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The king is described as wise, and his name is said to contain the words “beloved
+    of the gods.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king patronizes the great thera Mahinda, who is described as having a
+    spotless mind.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king is said to have first built the Mahavihara in Lanka.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The chapter ending names the chapter “The Acceptance of the Mahavihara” and
+    says the Mahavamsa was compiled for the serene joy and emotion of the pious.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note glosses Mahavihara as “the great monastery” and says it is henceforth
+    the name for the Mahameghavanarama.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: wise king whose name contains “beloved of the gods”
+  description: A king described as wise and as patronizing Mahinda before building
+    the Mahavihara in Lanka.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mahinda
+  description: A great thera described as having a spotless mind and being patronized
+    by the king.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: royal patron and monastery founder
+  assigned_to:
+  - fig:1
+  basis: The passage says the king patronized Mahinda and first built the Mahavihara
+    in Lanka.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: patronized thera
+  assigned_to:
+  - fig:2
+  basis: Mahinda is called a great thera of spotless mind and is the recipient of
+    the king’s patronage.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Mahavihara
+  literal_form: The Mahavihara, glossed in a note as “the great monastery” and identified
+    henceforth with the Mahameghavanarama.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Foundation of the Mahavihara in Lanka
+  summary: The wise king patronizes Mahinda and is credited with first building the
+    Mahavihara in Lanka.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Royal patronage and foundation of a sacred monastery
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: A king described with an auspicious divine-beloved name patronizes a thera
+    and founds the Mahavihara in Lanka.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage records royal religious patronage and foundation, but it does
+    not explicitly state a theory of royal legitimacy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9776-9778
+  quote_or_summary: The king is described as wise, his name as containing “beloved
+    of the gods,” and Mahinda as a great thera of spotless mind whom the king patronizes.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: '9778'
+  quote_or_summary: The king is said to have first built the Mahavihara in Lanka.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 9779-9781
+  quote_or_summary: The chapter closes as “The Acceptance of the Mahavihara” in the
+    Mahavamsa, compiled for the joy and emotion of the pious.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 9801-9802
+  quote_or_summary: A note explains that Mahavihara means “the great monastery” and
+    is henceforth the name for the Mahameghavanarama.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and supports a clear extraction of figures and foundation
+    action. The motif assignment to royal_legitimacy is cautious because the passage
+    implies royal-sacred association but does not state a legitimating doctrine.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l9776-l9802
+  passage_sha256=772787b4f55cc4534b685f2ac411d0e26cbd1dcad99f29df12c7ba7ae7158228
+

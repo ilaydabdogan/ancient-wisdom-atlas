@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l3209-l3245
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: TO ASCLEPIUS 61 / TO ASCLEPIUS 63 / TO ASCLEPIUS 65 / VOL. II. 5; lines 3209-3245
+  start: '3209'
+  end: '3245'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a dialogue, Asclepius asks what God is. Hermes answers that God is not
+    the named principles themselves, but the cause by which they are. He distinguishes
+    being from non-being, says God is not Mind, Spirit, or Light but the cause of
+    each, and teaches that God alone should be honored as Good and Father.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Asclepius asks what God is.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hermes says God is not any one of the previously named things, but causes
+    all things to be.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Hermes distinguishes things-that-are from things-that-are-not, saying non-beings
+    have no power of being and beings do not have the nature of not-being.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hermes says God is not Mind, Spirit, or Light, but is the cause that Mind,
+    Spirit, and Light exist.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hermes says God should be honored with the names Good and Father.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hermes says no other gods, men, or daimones can be Good in any measure; God
+    alone is Good.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Hermes says the rest of things are soul and body and are separable from the
+    Good's nature.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Asclepius
+  description: Interlocutor who asks what God is.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Hermes
+  description: Speaker who answers Asclepius with a doctrinal account of God, being,
+    Mind, Spirit, Light, Good, and Father.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: God
+  description: Described as cause of all things, not Mind, Spirit, or Light, but the
+    cause of each; honored as Good and Father; alone Good.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: other gods, men, and daimones
+  description: Grouped beings said not to be Good in any measure.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: questioning interlocutor
+  assigned_to:
+  - fig:1
+  basis: Asclepius asks what God is.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: doctrinal respondent
+  assigned_to:
+  - fig:2
+  basis: Hermes answers the questions and gives the passage's teaching.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: first cause
+  assigned_to:
+  - fig:3
+  basis: God is said to cause all things to be and to cause Mind, Spirit, and Light.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: unique Good and Father
+  assigned_to:
+  - fig:3
+  basis: God is to be honored with the names Good and Father, and God alone is Good.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: beings excluded from divine goodness
+  assigned_to:
+  - fig:4
+  basis: Other gods, men, and daimones are said not to be Good in any measure.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Light
+  literal_form: Light
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Good
+  literal_form: 'name or title: Good'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Father
+  literal_form: 'name or title: Father'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Question about God and Hermes' first answer
+  summary: Asclepius asks what God is, and Hermes replies that God is not one of the
+    named things but the cause of all things; he also contrasts being with non-being.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: God as cause of Mind, Spirit, and Light
+  summary: Asclepius asks again what Hermes says God is, and Hermes states that God
+    is not Mind, Spirit, or Light, but the cause of each.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Names and unique goodness of God
+  summary: Hermes teaches that God should be honored as Good and Father, and that
+    no other gods, men, or daimones can be Good in any measure.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom dialogue on the nature of God
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is structured as Asclepius' questions and Hermes' doctrinal answers
+    concerning what God is.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is philosophical-theological
+    instruction rather than narrative myth.
+- id: motif:2
+  label: transcendent first cause beyond named principles
+  taxonomy_refs: []
+  basis: God is repeatedly defined not as Mind, Spirit, or Light, but as the cause
+    by which these and all things are.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No external motif-family comparison is asserted.
+- id: motif:3
+  label: exclusive divine goodness
+  taxonomy_refs: []
+  basis: Hermes says God alone is Good and that no other gods, men, or daimones can
+    be Good in any measure.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is extracted as a passage-level doctrinal pattern, not as a claim
+    about historical relationship to other traditions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3209-3215
+  quote_or_summary: Opening material names Good, Truth's Light beyond light, and the
+    Archetype of soul; Asclepius asks what God is.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3216-3228
+  quote_or_summary: Hermes says God is not any one of the named things, but causes
+    all and each to be; he distinguishes things-that-are from things-that-are-not.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3229-3235
+  quote_or_summary: Asclepius asks what Hermes says God is; Hermes says God is not
+    Mind, Spirit, or Light, but the cause that each is.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3235-3238
+  quote_or_summary: Hermes says God should be honored with the two names Good and
+    Father, which pertain to God alone.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3239-3245
+  quote_or_summary: Hermes says no other gods, men, or daimones can be Good; God alone
+    is Good, while the rest are soul and body, separable from the Good's nature.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The speaker roles and doctrinal statements are explicit. Motif candidates
+    are conservative and passage-level; no external comparison claims are made because
+    the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage text and metadata. Taxonomy assignment is limited to the broad available 'wisdom' motif family.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l3209-l3245
+  passage_sha256=621f4cc9456ea55bc8a74ab6fcfc60caec0505154b031831979349a1b0bc60f1
+

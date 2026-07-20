@@ -1,0 +1,171 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l70-l115
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat / EGYPTIAN
+    HEAVEN AND HELL / LONDON; lines 70-115'
+  start: '70'
+  end: '115'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter identifies the work as The Egyptian Heaven and Hell, Volume
+    I, The Book Am-Tuat, by E. A. Wallis Budge. It gives publication and printing
+    information and includes a note stating that this volume is the first of three,
+    containing the hieroglyphic text of the Book Am-Tuat with translations and illustrations,
+    with broader chapters on Books of the Other World and an index to appear in the
+    third volume.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents the title as The Egyptian Heaven and Hell and identifies
+    Volume I as The Book Am-Tuat.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: E. A. Wallis Budge is named in the byline and described as Keeper of the Egyptian
+    and Assyrian Antiquities in the British Museum.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The front matter states that the volume includes illustrations.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Publication and printing information places the work in London and names Kegan
+    Paul, Trench, Trubner & Co. Ltd. and Gilbert and Rivington Limited.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note states that this is the first of three volumes and that it contains
+    the complete hieroglyphic text of the Book Am-Tuat with translations and reproductions
+    of illustrations.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note states that chapters on the origin and contents of Books of the Other
+    World and a full index will be found in the third volume.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: E. A. Wallis Budge
+  description: Named author of the work; described with academic titles and as Keeper
+    of the Egyptian and Assyrian Antiquities in the British Museum.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kegan Paul, Trench, Trubner & Co. Ltd.
+  description: Named in the London publication information.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Gilbert and Rivington Limited
+  description: Named as the printer in the front matter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named author
+  assigned_to:
+  - fig:1
+  basis: The byline introduces the work as being by E. A. Wallis Budge.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: museum office holder
+  assigned_to:
+  - fig:1
+  basis: The front matter describes Budge as Keeper of the Egyptian and Assyrian Antiquities
+    in the British Museum.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named publisher
+  assigned_to:
+  - fig:2
+  basis: The London publication line names Kegan Paul, Trench, Trubner & Co. Ltd.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: named printer
+  assigned_to:
+  - fig:3
+  basis: The front matter states that the book was printed by Gilbert and Rivington
+    Limited.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Other World / afterlife textual framing
+  taxonomy_refs: []
+  basis: The title uses the phrase Egyptian Heaven and Hell, and the note says the
+    series discusses Books of the Other World.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: low
+  cautions: This line range is front matter and does not narrate a mythic episode,
+    describe an afterlife journey, or present symbolic imagery in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 70-91
+  quote_or_summary: "“EGYPTIAN HEAVEN AND HELL ... BY E. A. WALLIS BUDGE ... VOL.
+    I. THE BOOK AM-TUAT”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain per supplied metadata; concise excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 92-102
+  quote_or_summary: The front matter gives London publication information for Kegan
+    Paul, Trench, Trubner & Co. Ltd., and states that the book was printed by Gilbert
+    and Rivington Limited.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain per supplied metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 103-115
+  quote_or_summary: "“This volume is the first of a series of three volumes” and contains
+    the text, translations, and illustrations of the Book Am-Tuat, with chapters on
+    “Books of the Other World” in the third volume."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain per supplied metadata; concise excerpt and summary.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Bibliographic and editorial information is explicit. Motif extraction is
+    limited because the passage is front matter rather than a mythological narrative
+    passage. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological figures, narrative scenes, or concrete symbols are described in this line range.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l70-l115
+  passage_sha256=4e484805b672bc92fe06f8b092faf9c2354a8e98b14b0d3973f9742868e493c6
+

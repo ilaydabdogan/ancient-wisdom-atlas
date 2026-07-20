@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2078-l2111
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: DIONYSUS. / PENTHEUS. / DIONYSUS. / PENTHEUS.; lines 2078-2111
+  start: '2078'
+  end: '2111'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Thou shalt be borne on high!”"
+  summary: Dionysus tells Pentheus he will be seen, borne on high, and that his mother's
+    hands will share in carrying him. Pentheus responds that he goes for being seen,
+    resists the idea of soft care, and exits toward the Mountain.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus says Pentheus will be marked by every eye.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pentheus says he goes for that reason.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dionysus says Pentheus shall be borne on high.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pentheus responds that being borne on high would be like pride.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Dionysus says Pentheus' mother's hands shall share in carrying him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Pentheus says he does not need such soft care.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Pentheus exits toward the Mountain.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Speaker who tells Pentheus he will be seen, borne on high, and carried
+    with his mother's hands sharing in the act.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Pentheus
+  description: Speaker who says he goes to be seen, responds to Dionysus' statements
+    about being borne and carried, and exits toward the Mountain.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Pentheus' mother
+  description: Mentioned by Dionysus as one whose hands shall share in carrying Pentheus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: announcing speaker
+  assigned_to:
+  - fig:1
+  basis: 'Dionysus states what will happen to Pentheus: being seen, being borne on
+    high, and being carried with his mother''s hands participating.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: departing figure
+  assigned_to:
+  - fig:2
+  basis: Pentheus exits toward the Mountain.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: figure to be borne or carried
+  assigned_to:
+  - fig:2
+  basis: Dionysus says Pentheus shall be borne on high and that his mother's hands
+    will share in carrying him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: predicted carrier
+  assigned_to:
+  - fig:3
+  basis: Dionysus says the mother's hands shall share Pentheus' carrying.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Mountain
+  literal_form: the Mountain toward which Pentheus exits
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: being borne on high
+  literal_form: Dionysus' statement that Pentheus shall be borne on high
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mother's hands carrying
+  literal_form: the mother's hands sharing Pentheus' carrying
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Pentheus' departure toward the Mountain
+  summary: Dionysus and Pentheus exchange remarks about Pentheus being seen, borne
+    on high, and carried with his mother's hands sharing the act; Pentheus then exits
+    toward the Mountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: departure toward a mountain
+  taxonomy_refs:
+  - departure
+  basis: The scene ends with Pentheus exiting toward the Mountain.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the departure direction but not the outcome of the journey.
+- id: motif:2
+  label: ascent or elevation by being borne
+  taxonomy_refs:
+  - ascent
+  basis: Dionysus says Pentheus shall be borne on high.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage only states the predicted elevation; it does not show the
+    act occurring.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2078-2084
+  quote_or_summary: 'Dionysus: “Marked of every eye.” Pentheus: “For that I go!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: 2086-2091
+  quote_or_summary: 'Dionysus: “Thou shalt be borne on high!” Pentheus: “That were
+    like pride!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: 2093-2106
+  quote_or_summary: Dionysus says Pentheus' mother's hands shall share in carrying
+    him; Pentheus says he does not need such soft care.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: '2111'
+  quote_or_summary: 'Stage direction: Pentheus exits “towards the Mountain.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward from a short passage. Motif candidates
+    are limited to passage-internal departure and elevation language; no external
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata; no external context added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2078-l2111
+  passage_sha256=fb5c3c27f74cd9be211f4f22b6761a5903272c034db657ef37262322dd5b2bd9
+

@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l14734-l14811
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUREAU   OP  AMEEICAN   ETHNOLOGY / DREAM  OF  THE   CROW   AND  OWL / SOXGS   CONCERNING  THE   BEAR
+    / I    I; lines 14734-14811
+  start: '14734'
+  end: '14811'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"from the north"; "he comes to attack"; "dust I threw upon myself"'
+  summary: The song text presents a first-person speaker who observes a male figure
+    coming from the north to attack, says to behold him in that direction, throws
+    dust upon himself, and says he came with a different heart. A note explains that
+    the phrase about a different heart indicates anger in the usage of medicine-men.
+    The surrounding analysis describes recorded renditions, melodic features, and
+    the song's placement among songs concerning personal dreams.
+  language: English with Lakota/Dakota interlinear terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A figure described as "he" comes from the north to attack.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker directs attention toward that direction with the instruction to
+    behold the approaching figure.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first-person speaker says that he threw dust upon himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker says he came with a heart that is different.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A footnote states that, in the usage of medicine-men, the phrase about a different
+    heart indicates anger.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The analysis says two renditions of the song were recorded, both with wavering
+    intonation, and that the transcription should be regarded as approximate for many
+    smaller intervals.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The analysis notes that the fourth is prominent, many intervals are larger
+    than a major third, and a tempo change occurs in both renditions.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage situates the item among dream songs and under the heading of old
+    songs concerning personal dreams.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person song speaker
+  description: The "I" voice who throws dust upon himself and says he came with a
+    different heart.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: approaching attacker from the north
+  description: A male figure described as coming from the north to attack.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: medicine-men
+  description: The footnote names medicine-men as the usage context in which the phrase
+    indicates anger.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Charging Thunder
+  description: Named in the analysis as associated with the first song recorded.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: first-person ritual or song voice
+  assigned_to:
+  - fig:1
+  basis: 'The passage uses first-person forms: the speaker threw dust upon himself
+    and came with a different heart.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: attacking figure
+  assigned_to:
+  - fig:2
+  basis: The figure is described as coming from the north to attack.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: specialist usage context for anger phrase
+  assigned_to:
+  - fig:3
+  basis: The note says the phrase indicates anger in the usage of medicine-men.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recording-associated named person
+  assigned_to:
+  - fig:4
+  basis: The analysis says it was the first song recorded by Charging Thunder.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: dust thrown upon oneself
+  literal_form: dust
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: north as direction of approach
+  literal_form: north
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: different heart indicating anger
+  literal_form: heart that is different
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Song speech about an attack from the north
+  summary: The song voice reports that a figure comes from the north to attack, directs
+    attention toward him, throws dust upon himself, and says he came with a different
+    heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanatory note on anger expression
+  summary: A note explains that the phrase about a different heart indicates anger
+    in the usage of medicine-men.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Musicological analysis and corpus placement
+  summary: The passage analyzes two recorded renditions, describes melodic and tempo
+    features, and places the song among dream songs and songs concerning personal
+    dreams.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: personal dream song
+  taxonomy_refs: []
+  basis: The surrounding text identifies this material as dream songs and places it
+    under old songs concerning personal dreams.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not narrate the dream itself; it only classifies the
+    song in relation to dreams.
+- id: motif:2
+  label: attacker approaching from a cardinal direction
+  taxonomy_refs: []
+  basis: The song text says a male figure comes from the north to attack and directs
+    the listener to behold him in that direction.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives no further narrative context for the attacker or the
+    significance of the north.
+- id: motif:3
+  label: self-applied dust with angry or altered heart
+  taxonomy_refs: []
+  basis: The speaker throws dust upon himself and says he came with a different heart;
+    the note says the phrase indicates anger in medicine-men's usage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the function of throwing dust or whether
+    it is symbolic, ritual, or descriptive.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports only a local corpus-level comparison between this item
+    and other dream-song groups in the same work.
+  claim_level: same_function
+  target: other groups of dream songs referenced in Teton Sioux Music
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage mentions other dream-song groups but provides no details
+    about their words, scenes, symbols, or melodies in this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14734-14771, song text and interlinear translation
+  quote_or_summary: 'Short phrases in the interlinear translation include: "from the
+    north," "he comes to attack," "in that direction," "behold him," "dust I threw
+    upon myself," and "with a heart that is different ... I came."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 14772-14775, footnote
+  quote_or_summary: The footnote states that in the usage of the medicine-men, the
+    phrase indicates anger.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise quotation/paraphrase used.
+- id: ev:3
+  type: summary
+  locator: lines 14777-14806, Analysis
+  quote_or_summary: The analysis reports two recorded renditions with wavering intonation,
+    an approximate transcription for smaller intervals, numerous intervals larger
+    than a major third, prominence of the fourth, minor thirds, and a tempo change
+    in both renditions; it also names Charging Thunder in the recording context.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 14807-14809
+  quote_or_summary: The passage says that analyses of two other groups of dream songs
+    are elsewhere in the work.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise paraphrase used.
+- id: ev:5
+  type: quote
+  locator: lines 14810-14811, heading
+  quote_or_summary: 'Heading: "Old Songs — Songs Concerning Personal Dreams."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short heading quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The song text is fragmentary and interlinear, with OCR irregularities. Narrative
+    extraction is limited to the explicit translated phrases and the accompanying
+    note and analysis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the excerpt does not clearly support mapping to the provided controlled categories.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l14734-l14811
+  passage_sha256=2a670b18310dc96d96fa1c3b8e6344d4617158988046302df6dc950007d7ec89
+

@@ -1,0 +1,431 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l4928-l4980
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION LXI / SECTION LXII / SECTION LXIII / SECTION LXIV; lines 4928-4980
+  start: '4928'
+  end: '4980'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Turn back, show me thy face, O son of Dhritarashtra, and bear in thy mind
+    the behaviour of kings.
+  summary: Duryodhana wounds Arjuna in battle; Arjuna retaliates, kills the elephant
+    ridden by Vikarna, wounds Duryodhana, and rebukes Duryodhana as he flees the field.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: After Bhishma has fled from the van of battle, Duryodhana raises his flag,
+    approaches Arjuna with bow in hand, and roars loudly.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Duryodhana pierces Arjuna on the forehead with a spear-headed shaft tipped
+    with gold, causing blood to flow down Arjuna's body.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Arjuna retaliates in anger with arrows described as having the energy of poisonous
+    snakes, and Duryodhana and Arjuna attack one another.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Vikarna advances against Arjuna while mounted on an infuriated elephant described
+    as huge as a mountain and supported by four cars.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Arjuna shoots the elephant in the head with an iron arrow; the elephant falls,
+    and Vikarna flees to Vivinsati's car.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Arjuna strikes Duryodhana in the breast with another thunder-like arrow, after
+    which Duryodhana's supporters and other warriors flee.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Duryodhana turns his car away and flees in the direction where Arjuna is not,
+    while wounded and vomiting blood.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Arjuna censures the fleeing Duryodhana, asking why he flees after sacrificing
+    fame and glory and urging him to show his face and remember kingly behaviour.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Arjuna identifies himself as an obedient servant of Yudhishthira and as the
+    third son of Pritha.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Duryodhana / son of Dhritarashtra
+  description: The Kuru king who wounds Arjuna, is wounded by Arjuna, and flees the
+    battlefield.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Arjuna / Dhananjaya / Partha / Jishnu / Kiritin
+  description: The son of Pritha and Kunti who is wounded on the forehead, retaliates,
+    kills Vikarna's elephant, wounds Duryodhana, and rebukes him.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Bhishma
+  description: A warrior said to have fled, leaving the van of battle, before Duryodhana
+    approaches Arjuna.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Vikarna
+  description: A warrior who charges Arjuna on a huge elephant and flees after the
+    elephant is slain.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Vivinsati
+  description: The person whose car Vikarna ascends after fleeing from the fallen
+    elephant.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Yudhishthira
+  description: Named by Arjuna as the lord whose obedient servant he is.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Indra
+  description: A deity invoked in a simile comparing Arjuna's arrow to Indra's thunderbolt
+    splitting a mountain.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: mutual combatant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Duryodhana and Arjuna are described as attacking one another in combat.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: wounded warrior
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Arjuna is pierced in the forehead, and Duryodhana is later pierced and flees
+    while bleeding.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: battlefield attacker
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Vikarna rushes against Arjuna on an elephant; Arjuna strikes the elephant
+    and then Duryodhana.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: fleeing warrior
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  basis: Bhishma is said to have fled; Vikarna flees after dismounting; Duryodhana
+    flees after being wounded.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:5
+  label: speaker of battlefield rebuke
+  assigned_to:
+  - fig:2
+  basis: Arjuna verbally censures Duryodhana for fleeing and invokes kingly conduct.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: acknowledged superior
+  assigned_to:
+  - fig:6
+  basis: Arjuna calls himself an obedient servant of Yudhishthira.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: divine simile reference
+  assigned_to:
+  - fig:7
+  basis: Indra is referenced only in the comparison between Arjuna's arrow and a thunderbolt
+    hurled by Indra.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mountain and hill imagery
+  literal_form: Arjuna's wounded forehead is compared to a hill with one peak; the
+    elephant is repeatedly compared to a mountain, hill, or mountain peak.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: serpent-energized arrows
+  literal_form: Arjuna's arrows are described as endued with the energy of snakes
+    of virulent poison.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: thunderbolt-like arrow
+  literal_form: Arjuna's arrow is compared to Indra's thunderbolt splitting a mountain
+    and later called thunder-like.
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: flowing blood as ornament
+  literal_form: Arjuna's blood trickling down his body is compared to a wreath of
+    golden flowers.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: flag and trumpets of battle
+  literal_form: Duryodhana approaches with his flag raised; Arjuna later asks why
+    the trumpets are not sounded as when Duryodhana set out from his kingdom.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Duryodhana wounds Arjuna and the duel begins
+  summary: Duryodhana approaches Arjuna after Bhishma's flight, wounds Arjuna in the
+    forehead, and Arjuna retaliates with serpent-energized arrows as the two attack
+    each other.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Vikarna's elephant is slain
+  summary: Vikarna charges Arjuna on a mountain-like elephant; Arjuna shoots the elephant
+    with an arrow likened to Indra's thunderbolt, the elephant falls, and Vikarna
+    flees to Vivinsati's car.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Duryodhana's rout and Arjuna's rebuke
+  summary: Arjuna wounds Duryodhana, the supporting warriors flee, Duryodhana turns
+    away, and Arjuna rebukes him for flight while invoking fame, kingly conduct, and
+    his own service to Yudhishthira.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: reciprocal heroic combat with visible wounding
+  taxonomy_refs: []
+  basis: Duryodhana and Arjuna wound and attack one another directly, with Arjuna's
+    forehead wound described in detail.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a battle episode rather than a mythic transformation or ritual
+    motif.
+- id: motif:2
+  label: serpent-charged weapon imagery
+  taxonomy_refs:
+  - serpent
+  basis: Arjuna's retaliatory arrows are explicitly described as bearing the energy
+    of virulently poisonous snakes.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage uses serpent imagery for arrows; no literal serpent appears.
+- id: motif:3
+  label: thunderbolt-like projectile felling a mountain-like foe
+  taxonomy_refs: []
+  basis: Arjuna's arrow is likened to Indra's thunderbolt splitting a mountain, and
+    it brings down an elephant repeatedly described through mountain imagery.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The mountain and thunderbolt are comparative images in a battlefield simile.
+- id: motif:4
+  label: flight from battle followed by honor-shaming rebuke
+  taxonomy_refs: []
+  basis: After Duryodhana flees, Arjuna challenges his loss of fame, asks him to turn
+    back and show his face, and invokes the behaviour of kings.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is ethical and martial; the passage does not develop a broader
+    ritual or cosmological frame.
+- id: motif:5
+  label: royal conduct tested on the battlefield
+  taxonomy_refs: []
+  basis: Arjuna's speech frames Duryodhana's flight in terms of fame, his name, battle
+    persistence, and the behaviour expected of kings.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage critiques kingly conduct but does not explicitly address succession,
+    consecration, or formal royal legitimacy.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Arjuna's elephant-slaying arrow to Indra's
+    thunderbolt splitting a mountain, aligning the weapon's battlefield effect with
+    divine thunderbolt imagery.
+  claim_level: same_function
+  target: Indra's thunderbolt splitting a mountain
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal simile within the passage; it does not by itself
+    establish historical contact, common inheritance, or a separate mythic episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: SECTION LXIV, lines 4928-4939
+  quote_or_summary: After Bhishma's flight, Duryodhana raises his flag and approaches
+    Arjuna, then pierces Arjuna's forehead with a golden-pointed shaft; Arjuna's bleeding
+    body is compared to a hill and a wreath of golden flowers.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: SECTION LXIV, lines 4940-4945
+  quote_or_summary: Arjuna, enraged, returns Duryodhana's attack with arrows described
+    as having the energy of virulently poisonous snakes; the two warriors attack each
+    other.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: SECTION LXIV, lines 4946-4962
+  quote_or_summary: Vikarna charges on a huge elephant; Arjuna shoots it in the head
+    with an iron arrow likened to Indra's thunderbolt splitting a mountain, the elephant
+    falls like a riven mountain peak, and Vikarna flees to Vivinsati's car.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: SECTION LXIV, lines 4963-4970
+  quote_or_summary: Arjuna kills the elephant, wounds Duryodhana in the breast with
+    another thunder-like arrow, routs the surrounding warriors, and Duryodhana turns
+    his car away and flees while bleeding.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: SECTION LXIV, lines 4971-4980
+  quote_or_summary: 'Arjuna rebukes Duryodhana for fleeing, asks why the trumpets
+    are not sounding, identifies himself as Yudhishthira''s servant and Pritha''s
+    third son, and says: “Turn back, show me thy face... and bear in thy mind the
+    behaviour of kings.”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main actions and figures are explicit. Motif labels are descriptive and
+    require human review for taxonomy alignment; the only comparison claim is based
+    on an explicit simile in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were applied only to explicit serpent and mountain imagery, and no external comparative claims were added beyond the passage's own Indra simile.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l4928-l4980
+  passage_sha256=7821c34ebffa237b99aa45c3f43d12fbcbd44c3c48690f738710c02c67629823
+

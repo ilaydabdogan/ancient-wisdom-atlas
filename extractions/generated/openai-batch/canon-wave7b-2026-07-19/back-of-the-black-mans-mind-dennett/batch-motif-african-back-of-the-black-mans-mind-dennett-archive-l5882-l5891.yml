@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.african-back-of-the-black-mans-mind-dennett-archive-l5882-l5891
+source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+passage_locator:
+  label: BAVILI  PHILOSOPHY / BAVILI  PHILOSOPHY / CHAPTER  XI / BIBILA,  THE  PHILOSOPHY  OF  THE  GROVES;
+    lines 5882-5891
+  start: '5882'
+  end: '5891'
+  translation: At the Back of the Black Man's Mind; or, Notes on the Kingly Office
+    in West Africa
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that Mpungu is used with Zambi when missionaries translate
+    the expression as almighty, and that NZAMBI Mpungu is associated with the sky
+    and rain. It then identifies Senza as the west wind and says the Bavili connect
+    the western sea, Mbu, with fatherhood, spirit, and motion, relating this to westward-originating
+    rolling waves and to Se as father.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mpungu is used with the word Zambi when missionaries translate the expression
+    as almighty.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: NZAMBI Mpungu is associated with the sky and, by extension, with rain.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Senza is identified as the west wind.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sea lies to the west of Luango.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Bavili connect the sea, named Mbu, with ideas of fatherhood, spirit, and
+    motion.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage relates this connection to the general direction of great rolling
+    waves from the west and notes Se as father.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: NZAMBI Mpungu
+  description: A divine name or expression associated by missionaries with almightiness
+    and associated in the passage with sky and rain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: missionaries
+  description: Translators who render Zambi with Mpungu as almighty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bavili
+  description: The people said to connect the sea, Mbu, with fatherhood, spirit, and
+    motion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: sky-and-rain-associated divine name
+  assigned_to:
+  - fig:1
+  basis: The passage says missionaries associate NZAMBI Mpungu with the sky and therefore
+    with rain.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: translator-interpreter
+  assigned_to:
+  - fig:2
+  basis: Missionaries are described as translating Zambi with Mpungu as almighty.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: community associating sea with fatherhood, spirit, and motion
+  assigned_to:
+  - fig:3
+  basis: The passage states that the Bavili connect Mbu, the sea, with fatherhood,
+    spirit, and motion.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sky
+  literal_form: sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rain
+  literal_form: rain
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: west wind
+  literal_form: Senza, the west wind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sea
+  literal_form: Mbu, the sea west of Luango
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: rolling waves from the west
+  literal_form: great rolling waves from the west
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: father
+  literal_form: Se = father
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Divine name associated with sky and rain
+  summary: Mpungu is joined with Zambi in a missionary translation as almighty, and
+    NZAMBI Mpungu is associated with the sky and rain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: West wind and sea associations
+  summary: Senza is identified as the west wind; the sea west of Luango, Mbu, is connected
+    by the Bavili with fatherhood, spirit, and motion, with reference to rolling waves
+    from the west and Se as father.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Divine name linked to sky and rain
+  taxonomy_refs: []
+  basis: The passage links NZAMBI Mpungu with the sky and, through that association,
+    with rain.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is explanatory and ethnographic rather than narrative; no
+    specific mythic episode is given.
+- id: motif:2
+  label: Western sea as fatherhood, spirit, and motion
+  taxonomy_refs: []
+  basis: The passage states that the Bavili connect Mbu, the sea west of Luango, with
+    fatherhood, spirit, and motion, and relates this to waves coming from the west
+    and Se as father.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an association of concepts and natural features, not a developed
+    narrative motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5882-5885
+  quote_or_summary: Mpungu is used with Zambi when missionaries translate it as almighty;
+    NZAMBI Mpungu is associated with the sky and therefore with rain.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 5887-5891
+  quote_or_summary: Senza is the west wind; the sea, Mbu, lies west of Luango and
+    is connected by the Bavili with fatherhood, spirit, and motion, in relation to
+    rolling waves from the west and Se as father.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal associations are explicit in the passage. Motif labels are candidate
+    abstractions from a short ethnographic explanation and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison beyond its immediate Bavili terminology and associations.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-back-of-the-black-mans-mind-dennett-archive__l5882-l5891
+  passage_sha256=1d959d14a599dccc132533f109bc7ed61b30e618ab1e4ed9a610b848d8100fac
+

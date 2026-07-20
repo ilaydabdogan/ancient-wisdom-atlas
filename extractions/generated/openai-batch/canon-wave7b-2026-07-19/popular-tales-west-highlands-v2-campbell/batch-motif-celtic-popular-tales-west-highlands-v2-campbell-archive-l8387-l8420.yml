@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l8387-l8420
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: MAC AN TUATHANAICH ALBANAICH. 271 / THE SON OF THE SCOTTISH YEOMAX. 273 /
+    THE SON OF THE SCOTTISH YEOIVIAN. 275 / THE SON OF THE SCOTTISH YEOINLIN. 277;
+    lines 8387-8420
+  start: '8387'
+  end: '8420'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A king or prospective husband goes hunting after giving a woman keys and
+    forbidding her to open one small chamber. She opens it, finds her two sisters
+    dead, and gets blood on her feet that she cannot clean. A tiny cat cleans the
+    blood in exchange for milk. When the king returns, he tests her by asking to see
+    her feet and, finding them clean, says she has behaved well. The next day, the
+    cat advises her to use three old chests in a plan involving her mother's house.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The man says that if the woman behaves as a good woman until he returns from
+    hunting, they will be married in a few days.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He gives her keys and permits her to open every chamber except one little
+    chamber, which he explicitly forbids her to open.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman opens the other chambers and then opens the forbidden chamber because
+    she wonders what is in it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Inside the forbidden chamber she sees her two sisters dead and goes down to
+    her knees in blood.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After leaving the chamber, she tries to clean her feet but cannot remove the
+    blood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A tiny cat offers to clean her feet in exchange for a tiny drop of milk, and
+    she agrees to give the cat milk if it cleans her feet.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The cat licks her feet until they are as clean as before.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When the king returns, he asks whether she was a good woman that day and asks
+    to see her feet.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After seeing her feet, the king says she has been a good woman and says they
+    will be married if she continues so for a few days.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The next day, after the king goes hunting again, the little cat tells the
+    woman a way to be married to him most quickly involving three old chests to be
+    cleaned and sent to her mother's house.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed woman
+  description: A woman entrusted with keys, forbidden to open one chamber, who opens
+    it, sees her dead sisters, has blood on her feet, receives help from the cat,
+    and is questioned by the king.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: king or prospective husband
+  description: The man who goes hunting, gives the woman keys, forbids one chamber,
+    questions her behavior, inspects her feet, and promises marriage if she continues
+    as before.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: two dead sisters
+  description: The woman's two sisters, seen dead inside the forbidden chamber.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: tiny or little cat
+  description: A tiny cat that asks for milk in exchange for cleaning the woman's
+    feet, licks the blood away, and later advises her about the old chests.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: the woman's mother
+  description: An absent figure referenced through the instruction that the three
+    chests should be left at her house.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: prohibitor and tester
+  assigned_to:
+  - fig:2
+  basis: He gives the keys, names a forbidden chamber, later asks whether the woman
+    behaved well, and inspects her feet.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: forbidden-room opener and discoverer
+  assigned_to:
+  - fig:1
+  basis: She opens the chamber she was told not to open and discovers her dead sisters
+    and blood.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: dead kin in hidden chamber
+  assigned_to:
+  - fig:3
+  basis: The two sisters are found dead inside the forbidden chamber.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: animal helper and bargainer
+  assigned_to:
+  - fig:4
+  basis: The cat offers to clean the blood for milk, performs the cleaning, and later
+    gives strategic advice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: absent family destination
+  assigned_to:
+  - fig:5
+  basis: The cat's instructions refer to leaving the three chests in the mother's
+    house.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: keys
+  literal_form: Keys given to the woman for the chambers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: forbidden little chamber
+  literal_form: A little chamber that the woman is told not to open.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: blood on feet
+  literal_form: Blood reaching the woman's knees and remaining on her feet until the
+    cat cleans it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: milk payment
+  literal_form: A tiny drop or desired amount of milk promised to the cat for cleaning
+    the woman's feet.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: three old chests
+  literal_form: Three old chests that the cat instructs the woman to take out, clean,
+    and have sent to her mother's house.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: departure, keys, and prohibition
+  summary: Before going hunting, the king or prospective husband promises marriage
+    if the woman behaves well, gives her keys, and forbids one little chamber.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: opening of the forbidden chamber
+  summary: The woman opens the forbidden chamber and finds her two sisters dead, while
+    blood covers her up to the knees and marks her feet.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: cat cleans the blood for milk
+  summary: The tiny cat bargains for milk and then licks the woman's feet clean.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: return and inspection
+  summary: The king returns, asks whether the woman has behaved well, asks to see
+    her feet, and accepts the clean feet as evidence of good behavior.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: cat's chest plan
+  summary: After the king goes hunting again, the cat advises the woman to clean three
+    old chests and arrange for them to be left at her mother's house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: forbidden chamber opened
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The woman is allowed to open every chamber except one, then opens the forbidden
+    chamber out of curiosity about what it contains.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the prohibition and transgression clearly, but the larger
+    narrative context is outside this excerpt.
+- id: motif:2
+  label: hidden murdered kin discovered
+  taxonomy_refs: []
+  basis: The forbidden chamber contains the woman's two sisters dead.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not state who killed the sisters or how they died.
+- id: motif:3
+  label: blood as incriminating bodily trace
+  taxonomy_refs: []
+  basis: The woman gets blood on her feet after entering the chamber, cannot remove
+    it herself, and the king later tests her by asking to see her feet.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The excerpt shows the blood functioning as a sign for inspection, but
+    does not state the king's intended consequence if blood were visible.
+- id: motif:4
+  label: animal helper rewarded with food
+  taxonomy_refs: []
+  basis: The tiny cat asks for milk in exchange for cleaning the woman's feet, cleans
+    them, and later gives advice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the cat's origin, powers, or motives beyond
+    the milk bargain and advice.
+- id: motif:5
+  label: planned removal through chests
+  taxonomy_refs: []
+  basis: The cat instructs the woman to prepare three old chests and ask that they
+    be left at her mother's house.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage ends before the plan is completed, so the function of the
+    chests remains uncertain within this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'The episode can be cautiously aligned in function with a forbidden-knowledge
+    or forbidden-chamber pattern: an authority grants access broadly but prohibits
+    one room, the woman opens the restricted room, and the discovery creates a bodily
+    trace later tested by the authority.'
+  claim_level: same_function
+  target: forbidden_knowledge motif family / forbidden chamber pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional motif comparison only. The excerpt alone does
+    not establish historical contact, full tale-type identity, or the complete narrative
+    outcome.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8387-8392
+  quote_or_summary: Before hunting, he promises marriage if she behaves well, gives
+    her keys, and says she may open every chamber except one little chamber.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: 8392-8397
+  quote_or_summary: She opens the forbidden chamber, sees her two sisters dead there,
+    and goes down to her knees in blood.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: 8397-8402
+  quote_or_summary: She cannot remove the blood from her feet. A tiny cat offers to
+    clean them for milk, and she agrees.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: 8403-8411
+  quote_or_summary: The cat licks her feet clean. The king returns, asks if she was
+    good, asks to see her feet, and says she was good when they are clean.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: 8412-8420
+  quote_or_summary: The next day the king goes hunting again, and the little cat tells
+    the woman to clean three old chests and have them left at her mother's house.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The immediate actions and figures are clear. Some motif labeling is limited
+    because the excerpt starts mid-sentence and ends before the chest plan is fulfilled.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references. No historical-contact claim is made.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l8387-l8420
+  passage_sha256=26bac9b293e613a69986d9b826f844b3536ed9caf2102b50399e64d5a1082fa0
+

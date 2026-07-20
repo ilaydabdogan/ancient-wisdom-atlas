@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l4288-l4402
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: BUREAJ OF ETHNOLOGY ELEVENTH ANNUAL REPORT PL. XXXVII / ESKIMO TENT. / HOUSEHOLD
+    ARTICLES, / POAME NIRS:; lines 4288-4402
+  start: '4288'
+  end: '4402'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Hudson Bay Eskimo household articles and their use:
+    preparation of lamp wicks, heat and light from oil lamps, frames for drying wet
+    clothing over lamps, soapstone kettles formerly used for cooking, wooden dishes,
+    sealskin buckets and cups, and wooden baskets, with notes on some native-made
+    vessels being replaced by manufactured utensils.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Matted fiber pieces are cut, dried, compressed with the teeth, trimmed, set
+    in oil, and lit as lamp wicks.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lamp wick is said to give strong light and great heat; larger or paired
+    wicks are used for cooking.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A wooden bow-like frame with sinew or sealskin netting is placed over the
+    lamp to dry wet boots, mittens, and similar articles.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Soapstone kettles were formerly used for cooking over lamps and also for cooking
+    by putting heated stones into water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Soapstone kettles are described as having whalebone strip handles and capacities
+    ranging roughly from a pint to a gallon.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Oblong shallow wooden dishes for oil or food are carved from larch knots.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Buckets and cups for water and other fluids are made from tanned sealskin
+    sewn with sinew.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Wooden baskets are made from bent spruce strips, fastened at the ends, and
+    fitted to a separate pegged bottom.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Native-manufactured vessels are described as being rapidly displaced by tin
+    cups and small kettles.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: woman preparing wick
+  description: A woman is described as squeezing wick fibers together with her teeth,
+    trimming the wick, setting it in oil, and lighting it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: narrating collector
+  description: The narrator states that he collected two full-sized stone kettles
+    and one small toy kettle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wick preparer and lamp lighter
+  assigned_to:
+  - fig:1
+  basis: The passage states that the woman prepares the fibers, sets the wick in oil,
+    and lights it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: collector of household articles
+  assigned_to:
+  - fig:2
+  basis: The narrator reports collecting two full-sized stone kettles and one small
+    one made as a child's toy.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: lamp flame and heat
+  literal_form: lit oil wick producing light and heat
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: drying frame over lamp
+  literal_form: semicircular wooden frame with sinew or sealskin netting used above
+    a lamp
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: soapstone kettle
+  literal_form: soapstone cooking vessel with whalebone-strip handles
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: heated stones in cooking water
+  literal_form: heated stones placed into water in a soapstone kettle
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wooden oil or food dish
+  literal_form: oblong shallow dish carved from larch knots
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: sealskin bucket and cup
+  literal_form: tanned sealskin vessel sewn with sinew for water and other fluids
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: wooden basket
+  literal_form: bent spruce strip vessel with separate pegged bottom
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Preparing and lighting the oil wick
+  summary: A woman prepares dried fibers into a wick, places it in oil, and lights
+    it; the resulting flame is described as bright and hot.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Drying clothing above the lamp
+  summary: A netted wooden frame supported over the lamp holds wet boots, mittens,
+    and similar items for drying.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Former cooking with stone kettles
+  summary: Soapstone kettles are described as former cooking vessels used over lamps
+    and with heated stones placed into water.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Native-made household containers
+  summary: The passage lists wooden dishes, sealskin buckets and cups, and wooden
+    baskets, noting their materials, construction, uses, and replacement by manufactured
+    vessels.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4288-4304
+  quote_or_summary: Dried matted fiber pieces are prepared by a woman with her teeth,
+    trimmed, set in oil, and lit as wicks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4304-4309
+  quote_or_summary: The wick is described as producing strong light and great heat;
+    larger or paired wicks are used for cooking.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4309-4325
+  quote_or_summary: A frame over the lamp dries boots, mittens, and similar things;
+    it is a wooden bow with sinew or sealskin netting and snow-hut supports.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4326-4332
+  quote_or_summary: Formerly cooking over lamps was done in soapstone kettles, and
+    heated stones were also put into water for cooking.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4332-4345
+  quote_or_summary: The narrator collected two full-sized stone kettles and one toy
+    kettle; handles are whalebone strips and capacities ranged from about a pint to
+    a gallon.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4346-4352
+  quote_or_summary: Oblong shallow dishes for oil or food are carved from larch knots.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 4353-4365
+  quote_or_summary: Buckets and cups of various sizes for water and other fluids are
+    made of tanned sealskin sewn with sinew, sometimes with a bail or wooden handle.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 4366-4389
+  quote_or_summary: Wooden baskets are made from bent spruce strips fastened with
+    wire and attached to a separate bottom with wooden pegs.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 4390-4402
+  quote_or_summary: The vessels usually hold no more than a couple of quarts, are
+    used mainly to ladle water into cooking kettles, and are being displaced by tin
+    cups and small kettles.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is descriptive ethnography of household articles and contains
+    no explicit myth narrative or supported comparative motif claim. Symbols are recorded
+    as literal recurring objects/images rather than inferred sacred meanings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs or comparison claims were entered because the passage does not itself support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l4288-l4402
+  passage_sha256=dfcdb7d2190b5677298c66a35de4b0f3ba247dc0076fe9c7bc7ae85c693d1326
+

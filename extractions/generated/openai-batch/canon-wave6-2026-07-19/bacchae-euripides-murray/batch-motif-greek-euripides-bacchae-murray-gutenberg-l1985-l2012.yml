@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1985-l2012
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / PENTHEUS. / DIONYSUS. / PENTHEUS.; lines 1985-2012
+  start: '1985'
+  end: '2012'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“In the hollow of thy hand / I lay me. Deck me as thou wilt.”"
+  summary: Pentheus submits to being arranged or adorned by Dionysus. Dionysus notes
+    flaws in Pentheus’ dress, tends him, and asks what thanks he will receive if he
+    proves the reported madness true. Pentheus, not listening, asks how to hold a
+    wand so as to resemble an unnamed group.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Pentheus places himself in Dionysus’ hand and asks to be decked as Dionysus
+    wishes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus observes that Pentheus’ zone is loosened and that the folded gown
+    is not falling evenly to the feet.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dionysus tends Pentheus while speaking to him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Dionysus asks what love and thanks Pentheus will have for him if he proves
+    the reported madness true.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Pentheus is described as not listening to Dionysus.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Pentheus asks whether he should bear the wand in his right hand or otherwise
+    in order to be most like an unnamed group.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: Speaker who submits to being decked, comments on his garment, and asks
+    how to carry a wand.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Dionysus
+  description: Speaker who comments on and tends Pentheus’ clothing and asks about
+    future thanks.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: unnamed group referred to as “them” or “their”
+  description: A group whose madness Dionysus refers to and whom Pentheus wants to
+    resemble.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: adorned or costumed person
+  assigned_to:
+  - fig:1
+  basis: Pentheus asks Dionysus to deck him and discusses the arrangement of his gown.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: dresser or attendant
+  assigned_to:
+  - fig:2
+  basis: Dionysus notes the loosened zone and uneven gown while tending Pentheus.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: imitator of an unnamed group
+  assigned_to:
+  - fig:1
+  basis: Pentheus asks how to bear the wand to be most like “them.”
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: questioner seeking gratitude
+  assigned_to:
+  - fig:2
+  basis: Dionysus asks what love and thanks Pentheus will have for him if he proves
+    the madness true.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: model for imitation
+  assigned_to:
+  - fig:3
+  basis: Pentheus wants to carry the wand so as to be most like the group referred
+    to as “them.”
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: gown
+  literal_form: folded gown falling to the feet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: zone
+  literal_form: loosened zone
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wand
+  literal_form: wand to be borne in the right hand or otherwise
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: right hand
+  literal_form: right hand as the possible hand for bearing the wand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dionysus adjusts Pentheus’ dress
+  summary: Pentheus submits to Dionysus’ arrangement. Dionysus remarks that the zone
+    is loose and the gown falls unevenly, while Pentheus comments on how it falls
+    by the right foot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Question about proof and imitation
+  summary: Dionysus asks what thanks Pentheus will give if the madness is proved true.
+    Pentheus, not listening, focuses on how to hold the wand in order to resemble
+    the unnamed group.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: costuming to resemble another group
+  taxonomy_refs: []
+  basis: Pentheus is being decked and discusses how to carry a wand so as to be most
+    like the unnamed group.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage does not name the group within the excerpt or state the broader
+    purpose beyond resemblance.
+- id: motif:2
+  label: guided dressing with ritual-like objects
+  taxonomy_refs:
+  - initiation
+  basis: One figure tends another’s dress and the dressed figure asks how to carry
+    a wand in imitation of a group, suggesting a preparatory dressing sequence.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt itself does not explicitly call the action an initiation or
+    define the wand’s ritual status; the taxonomy link is only a cautious candidate.
+- id: motif:3
+  label: distracted fixation on appearance or role performance
+  taxonomy_refs: []
+  basis: Pentheus is said not to listen to Dionysus and instead asks about the correct
+    way to carry the wand so as to resemble others.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a behavioral motif candidate rather than a named mythic motif
+    family in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1985-1988
+  quote_or_summary: "“In the hollow of thy hand / I lay me. Deck me as thou wilt.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1989-1992
+  quote_or_summary: "“Thy zone / Is loosened likewise; and the folded gown / Not evenly
+    falling to the feet.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1993-1996
+  quote_or_summary: Pentheus says the garment issue is by the right foot and that
+    elsewhere the folds seem to run in a straight line to the heel.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1997-2001
+  quote_or_summary: Dionysus is described as tending Pentheus and asks what love and
+    thanks Pentheus will give if he proves the reported madness true.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 2002-2012
+  quote_or_summary: Pentheus is “not listening” and asks, “In my right hand / Is it,
+    or thus, that I should bear the wand, / To be most like to them?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal actions and objects are clear in the supplied passage. Motif labels
+    are cautious because the excerpt does not provide the broader plot context or
+    identify the unnamed group.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage text and metadata. No comparison claims were added because the passage alone does not explicitly support a cross-text or historical comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1985-l2012
+  passage_sha256=c67b2d32cf383764a7075313f26147d2d97034f1541695110c03698a59008d84
+

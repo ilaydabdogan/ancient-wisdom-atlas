@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l22708-l22758
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. II, 34, 13. 309 / NOTES. II, 34, 15. 311 / MANDALA V, HYMN 52. 313
+    / NOTES.; lines 22708-22758
+  start: '22708'
+  end: '22758'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Scholarly notes identify the hymn's attribution and metre, discuss renderings
+    of selected verses, identify the Maruts as singers, and cite a translation in
+    which heroes hurl spears while lightning and heaven's brightness rise after the
+    Maruts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note ascribes the hymn to Sydvasva Atreya and lists its metres as Anushṭubh
+    and Pankti, with a correction concerning verse 16.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that no verse of the hymn occurs in several listed Vedic sources
+    or collections.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The verse 1 note says the instrumental construction leads to the translation
+    of singing with the Maruts, who are famous as singers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The verse 2 note says Dhrishadvinas may also refer to the Maruts.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A cited translation of verse 6 presents heroes hurling spears and, after the
+    Maruts, lightning like laughter and the brightness of heaven rising.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note says Rishvak seems to refer to the Maruts here and in verse 13, while
+    comparable usage elsewhere can refer to Indra or to weapons.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sydvasva Atreya
+  description: Person to whom the hymn is ascribed in the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Maruts
+  description: Named group described as famous singers; possible referent of Dhrishadvinas
+    and Rishvak; present in the cited verse-6 rendering.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Indra
+  description: Named in a lexical comparison where a term in another Vedic verse refers
+    to Indra.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: heroes in the cited translation
+  description: Figures in Benfey's cited rendering who hurl spears.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: attributed hymn figure
+  assigned_to:
+  - fig:1
+  basis: The note states that the hymn is ascribed to Sydvasva Atreya.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: famous singers
+  assigned_to:
+  - fig:2
+  basis: The note translates the verse as singing with the Maruts, who are themselves
+    famous as singers.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: possible referent of discussed terms
+  assigned_to:
+  - fig:2
+  basis: The notes say Dhrishadvinas may refer to the Maruts and that Rishvak seems
+    to refer to the Maruts.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: spear-hurling heroes
+  assigned_to:
+  - fig:4
+  basis: Benfey's cited translation says the heroes have hurled their spears.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: deity in lexical comparison
+  assigned_to:
+  - fig:3
+  basis: The note cites another Vedic passage where a comparable form refers to Indra.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: spears
+  literal_form: spears hurled by heroes
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: laughing lightning
+  literal_form: lightning described as like laughter
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: heaven's brightness
+  literal_form: the brightness or glow of heaven rising
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: song with the Maruts
+  literal_form: singing with the Maruts
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Singing with the Maruts
+  summary: The note explains verse 1 as calling for song with the Maruts, who are
+    themselves famous as singers.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Spears, lightning, and heaven's light
+  summary: A cited rendering of verse 6 has heroes hurl spears; after the Maruts,
+    laughing lightning and the brightness of heaven rise.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine singers invited into song
+  taxonomy_refs: []
+  basis: The note renders the verse as singing with the Maruts and explicitly describes
+    them as famous singers.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt is a philological note rather than the full hymn text; the
+    motif label is a candidate abstraction from the translation note.
+- id: motif:2
+  label: martial storm imagery around the Maruts
+  taxonomy_refs: []
+  basis: The cited verse-6 rendering places spear-hurling heroes, the Maruts, lightning
+    like laughter, and the brightness of heaven in one sequence.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage discusses a scholarly translation and uncertain referents;
+    it does not provide the full original verse context.
+comparison_claims:
+- id: claim:1
+  claim: The note compares the verse-1 construction with other cited Vedic passages
+    for the linguistic point involving the Maruts as singers.
+  claim_level: linguistic_similarity
+  target: Ṛgveda I, 6, 8 and V, 60, 8
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt cites but does not quote the parallel passages; the claim
+    is limited to a lexical or translation comparison, not motif identity.
+- id: claim:2
+  claim: The note compares the referent of Rishvak or a similar form with Vedic occurrences
+    where it refers to Indra or to weapons.
+  claim_level: linguistic_similarity
+  target: Ṛgveda IV, 19, 1 and VI, 18, 10
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a philological comparison only; it does not establish historical
+    contact, common inheritance, or the same mythic motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22708-22714
+  quote_or_summary: The notes ascribe the hymn to Sydvasva Atreya, list Anushṭubh
+    and Pankti metres, correct Sayana on verse 16, and state that no verse occurs
+    in several listed Vedic sources.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 22716-22721
+  quote_or_summary: "“Sing with the Maruts, who are themselves famous as singers.”
+    The note cites I, 6, 8 and V, 60, 8."
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 22725-22726
+  quote_or_summary: "“Dhrishadvinas may also refer to the Maruts.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 22736-22750
+  quote_or_summary: Benfey's cited translation of verse 6 has heroes hurling spears;
+    after the Maruts, lightning like laughter and the brightness of heaven rise.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 22751-22758
+  quote_or_summary: The note says Rishvak seems here and in verse 13 to refer to the
+    Maruts, while comparable usage elsewhere can refer to Indra or to weapons.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a commentary passage with some OCR irregularities
+    and philological uncertainty; motifs are candidate abstractions from notes and
+    cited translations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned because the passage supports storm, song, spear, lightning, and heavenly-light imagery but not the supplied controlled motif or symbol labels directly.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l22708-l22758
+  passage_sha256=2e5dd529debdbced1cec6ccf0f0e951d9144f2fafa3532c2dbff9764f793b624
+

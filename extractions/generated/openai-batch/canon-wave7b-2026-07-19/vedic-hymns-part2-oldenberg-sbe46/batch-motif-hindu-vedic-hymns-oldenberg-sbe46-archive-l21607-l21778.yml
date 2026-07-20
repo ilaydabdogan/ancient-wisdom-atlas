@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l21607-l21778
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: FOL V5 38, 2 / INDEX OF WORDS. 433 / HYMNS. / INDEX OF WORDS. 435; lines
+    21607-21778
+  start: '21607'
+  end: '21778'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index-of-words passage lists Vedic terms and glosses, including entries
+    connected with water, sacrificial action, lap or support, wide space, guarding
+    or deliverance, a firebrand, burning, the Usigs as mythical priests, and Dawn
+    as a goddess.
+  language: English with transliterated Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index glosses a term as “of water.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index identifies a sacrificer as one who raises the spoon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index includes an entry for support or pillar.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index glosses a term as wide or wide space.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index glosses a verb as guarding, delivering, keeping off, and escaping
+    into wide space.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index lists a firebrand.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index glosses a verb as burning down.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index identifies the Usigs as mythical priests.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The index identifies Dawn as a goddess.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the sacrificer who raises the spoon
+  description: A ritual actor glossed in the index as the sacrificer who raises the
+    spoon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the Usigs
+  description: A group glossed as mythical priests.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: Dawn
+  description: Dawn is identified as a goddess in the index.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: sacrificial ritual actor
+  assigned_to:
+  - fig:1
+  basis: The entry defines the figure as a sacrificer raising a spoon.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: mythical priests
+  assigned_to:
+  - fig:2
+  basis: The entry explicitly glosses the Usigs as mythical priests.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: goddess
+  assigned_to:
+  - fig:3
+  basis: The entry explicitly calls Dawn a goddess.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: firebrand
+  literal_form: firebrand
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: burning down
+  literal_form: burning
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: raised spoon
+  literal_form: spoon raised by the sacrificer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: support or pillar
+  literal_form: supporting; pillar
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: wide space
+  literal_form: wide space
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: sacrificial ritual action
+  taxonomy_refs:
+  - sacrifice
+  basis: The index includes a gloss for the sacrificer who raises the spoon, indicating
+    sacrificial ritual vocabulary rather than a narrative episode.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an index, not a hymn narrative; it supports only the presence
+    of sacrificial terminology.
+- id: motif:2
+  label: divine dawn figure
+  taxonomy_refs: []
+  basis: The index identifies Dawn as a goddess.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: No dawn myth or action is narrated in this line range.
+- id: motif:3
+  label: mythical priestly group
+  taxonomy_refs: []
+  basis: The Usigs are explicitly glossed as mythical priests.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The passage provides only an index gloss and hymn references, not a mythic
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21607-21778, entry “udanyā”
+  quote_or_summary: "“udanyā, of water”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 21607-21778, entry “udyata-sruc”
+  quote_or_summary: "“the sacrificer who raises the spoon”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:3
+  type: quote
+  locator: lines 21607-21778, entry “upa-mit”
+  quote_or_summary: "“supporting ... pillar”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:4
+  type: quote
+  locator: lines 21607-21778, entry “uri”
+  quote_or_summary: "“wide ... wide space”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:5
+  type: summary
+  locator: lines 21607-21778, entry “urushy”
+  quote_or_summary: The entry glosses the verb as guarding or delivering, keeping
+    off, and escaping into wide space.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: quote
+  locator: lines 21607-21778, entry “ulkā”
+  quote_or_summary: "“firebrand”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:7
+  type: quote
+  locator: lines 21607-21778, entry “ush, to burn down”
+  quote_or_summary: "“to burn down”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:8
+  type: quote
+  locator: lines 21607-21778, entry “Uśig”
+  quote_or_summary: "“the Usigs, mythical priests”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:9
+  type: quote
+  locator: lines 21607-21778, entry “uṣas”
+  quote_or_summary: "“Dawn, the goddess”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for identification.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The line range is an index of words with OCR noise, not a continuous mythic
+    passage. Literal lexical items are extractable, but motif identification is limited
+    and requires review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage itself does not support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l21607-l21778
+  passage_sha256=ecb234f880b6eb87d11462dcca2d942c2fd630dc815286fde38280ba299288a3
+

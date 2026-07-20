@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l27096-l27102
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION XXVIII / SECTION XXIX / SECTION XXX / SECTION XXXI; lines 27096-27102
+  start: '27096'
+  end: '27102'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"I desire to hear of the birth of the child whose excreta were gold."'
+  summary: Yudhishthira asks Narada to tell of the birth of a child whose excreta
+    were gold, and Narada begins the narration.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Vaisampayana reports that the royal son of Pandu addressed Narada.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira says he wants to hear about the birth of a child whose excreta
+    were gold.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Narada begins to narrate what had occurred in connection with that child.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Vaisampayana
+  description: Speaker who reports the exchange.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yudhishthira, royal son of Pandu
+  description: King described as just; he asks Narada about the child’s birth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Narada
+  description: Holy sage addressed by Yudhishthira; he begins the narration.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: child whose excreta were gold
+  description: A child identified by the unusual feature that his excreta were gold.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: reporting narrator
+  assigned_to:
+  - fig:1
+  basis: Vaisampayana is named as the speaker who reports the episode.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioning king
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira asks to hear about the birth of the child.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sage-narrator
+  assigned_to:
+  - fig:3
+  basis: Narada is addressed as holy and begins to narrate the matter.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: wondrous child
+  assigned_to:
+  - fig:4
+  basis: The child is identified by golden excreta and becomes the subject of Narada’s
+    narration.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: golden excreta
+  literal_form: gold associated with the child’s excreta
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Yudhishthira requests Narada’s account
+  summary: Vaisampayana frames an exchange in which Yudhishthira asks Narada to recount
+    the birth of a child marked by golden excreta, and Narada begins the narration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wondrous child with gold-producing body
+  taxonomy_refs: []
+  basis: The passage centers the forthcoming story on a child whose excreta were gold.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Only the framing request is present; the passage gives no details of the
+    child’s life or origin beyond the noted trait.
+- id: motif:2
+  label: miraculous child
+  taxonomy_refs:
+  - miraculous_child
+  basis: The child is marked by an extraordinary bodily feature, golden excreta, and
+    the passage introduces a story about the child’s birth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not itself describe the birth event, parentage, or divine
+    causation; the taxonomy link is based only on the child’s wondrous attribute and
+    birth framing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 27096-27098
+  quote_or_summary: Vaisampayana says that the royal son of Pandu addressed Narada.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 27098-27100
+  quote_or_summary: '"I desire to hear of the birth of the child whose excreta were
+    gold."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 27100-27102
+  quote_or_summary: Yudhishthira’s request is followed by Narada beginning to narrate
+    what had occurred in connection with the child of golden excreta.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and primarily frames a narrative to follow. Literal
+    figures and actions are clear; motif assignment is tentative beyond the directly
+    stated wondrous child feature.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l27096-l27102
+  passage_sha256=c19cc488468eca6d5848eb49e9c6c30515f6671ac1049db927ed601f4a4b4244
+

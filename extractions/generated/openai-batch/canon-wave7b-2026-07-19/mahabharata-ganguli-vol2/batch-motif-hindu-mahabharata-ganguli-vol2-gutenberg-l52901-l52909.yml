@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l52901-l52909
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION CXLV / SECTION CXLVI / SECTION CXLVII / SECTION CXLVIII; lines 52901-52909
+  start: '52901'
+  end: '52909'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the son of Pandu ... embraced both Yuyudhana and Vrikodara ... and shed tears
+    of joy.
+  summary: A son of Pandu welcomes Yuyudhana and Vrikodara back safely from battle,
+    praises their martial feat and loyalty, embraces them with tears of joy, and the
+    Pandava host becomes joyful and renews its resolve for battle.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker addresses two warriors as having returned from battle safe and
+    sound and as foremost car-warriors skilled in battle.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says the two warriors forded a sea of troops in obedience to his
+    command and went to battle out of a desire to honour him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says the two warriors are as life to him and that he sees them
+    both by good luck.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The son of Pandu embraces Yuyudhana and Vrikodara and sheds tears of joy.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The entire host of the Pandavas becomes cheerful and filled with joy.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: All of them once more set their hearts on battle.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: son of Pandu
+  description: The speaker who welcomes the two warriors, states that they acted under
+    his command, embraces them, and sheds tears of joy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Yuyudhana
+  description: One of the two warriors who returned from battle and is embraced by
+    the son of Pandu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Vrikodara
+  description: One of the two warriors who returned from battle and is embraced by
+    the son of Pandu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: host of the Pandavas
+  description: The army or collective host that becomes cheerful and joyful, then
+    renews its intention for battle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: welcoming commander or kinsman
+  assigned_to:
+  - fig:1
+  basis: The son of Pandu says the warriors fought in obedience to his command, welcomes
+    them back, embraces them, and weeps with joy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: returning battle-heroes
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Yuyudhana and Vrikodara are described as safe returnees from battle, foremost
+    car-warriors, and those who forded a sea of troops.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: joyful host renewing battle resolve
+  assigned_to:
+  - fig:4
+  basis: The Pandava host becomes cheerful and joyful and sets its heart on battle
+    again.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sea of troops
+  literal_form: A figurative image of a sea made of troops that the two warriors are
+    said to have forded.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tears of joy
+  literal_form: Tears shed by the son of Pandu while embracing the two warriors.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: welcome after battle
+  summary: The son of Pandu praises Yuyudhana and Vrikodara for returning safely from
+    battle after obeying his command and confronting a mass of enemy troops.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: embrace and renewed morale
+  summary: The son of Pandu embraces the two warriors and cries tears of joy; the
+    Pandava host becomes joyful and renews its battle resolve.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: safe return of warriors from battle
+  taxonomy_refs:
+  - return
+  basis: The passage centers on two warriors coming back from battle safely and being
+    welcomed with joy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a local martial return scene, not a complete homecoming narrative.
+- id: motif:2
+  label: heroic crossing through overwhelming troops
+  taxonomy_refs: []
+  basis: The warriors are praised for having 'forded' a sea of troops, presenting
+    their battle passage as a crossing through a vast hostile mass.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The 'sea of troops' is a figurative battlefield image in this passage;
+    no literal water-crossing is described.
+- id: motif:3
+  label: communal joy restoring battle resolve
+  taxonomy_refs: []
+  basis: The embrace and tears of joy are followed by the whole Pandava host becoming
+    joyful and setting their hearts on battle again.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a narrative pattern in the scene rather than a named taxonomy
+    motif from the provided list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 52901-52903
+  quote_or_summary: '"back from battle safe and sound"; the speaker calls the addressees
+    foremost car-warriors and skilled in battle.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: 52903-52906
+  quote_or_summary: The speaker says the heroes "have forded that sea of troops" in
+    obedience to his command and from a desire to honour him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: summary
+  locator: 52906-52908
+  quote_or_summary: The son of Pandu says he sees them both, embraces Yuyudhana and
+    Vrikodara, and sheds tears of joy.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 52908-52909
+  quote_or_summary: The Pandava host becomes cheerful and joyful, and all once more
+    set their hearts on battle.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and clear for literal extraction. Motif labels are limited
+    to local patterns evident in the scene; no broader comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No external identifications of the son of Pandu were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l52901-l52909
+  passage_sha256=9c70648af124e5e9662519ace338e8afc6a5990bf999259d68c28f3bf667e952
+

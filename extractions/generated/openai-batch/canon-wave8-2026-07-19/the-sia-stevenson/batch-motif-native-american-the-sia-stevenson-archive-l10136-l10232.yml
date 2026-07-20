@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l10136-l10232
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: THE TALISUANB. / AUULETS. / OUTDOOR LIFE. / OUTDOOR LIFE. 203; lines 10136-10232
+  start: '10136'
+  end: '10232'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives an ethnographic annual routine: spring river and bay
+    ice breakup, movement of families and equipment, coastal hunting and egg gathering,
+    July white-whale driving for a company, salmon-net work, reindeer hunting, movement
+    to winter quarters, trapping, trading, and hired hauling with dog teams.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The annual routine is organized from the spring breakup of the Koksoak River
+    ice, whose timing varies with bay ice, winds, and weather upriver.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Families gather their belongings and move them by sled to the edge of remaining
+    ice, storing tents, dogs, umiak, kaiak, and personal property on shore until outside
+    ice is free.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Men hunt land game, waterfowl, and seals, then move alongshore by umiak and
+    kaiak as weather, floating ice, and food supply allow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Women and children search islets and coves for edible items and collect eggs
+    from accessible bird nests during the seabird nesting season.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the white-whale season, natives are summoned to a whaling station, encamp
+    there, drive whales into a net enclosure, spear them, drag them ashore, skin them,
+    and help transport oil and skins.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After whaling, some of the same natives attend salmon nets, then go upriver
+    to spear reindeer crossing the river.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When ice begins forming and snow falls, the head of a family chooses winter
+    quarters; the group moves there, may build a sled, constructs a snow house, sets
+    traps, and hunts ptarmigan.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Furs are sold to the company in exchange for provisions, clothing, and ammunition,
+    and Eskimo dog teams are hired to haul company wood to the riverbank.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eskimo families / natives
+  description: Collective groups of families or natives who move camps, hunt, assist
+    in whaling, attend nets, winter, trap, trade, and haul wood.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Men / adult male Eskimo / hunters
+  description: Men hunt land game and seals; adult male Eskimo occupy localities for
+    salmon-net work with relatives.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Women and children
+  description: Women and children search islets and coves for edible items and collect
+    eggs from bird nests.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Head of the family
+  description: The person who decides where winter is to be passed and moves the party
+    there.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: The company and its white employees
+  description: The company summons natives for whaling, employs them for salmon nets
+    and hauling, buys furs, and its white employees cut wood for the next year's fuel.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: seasonal household movers
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Families move belongings with the spring ice conditions, and the family head
+    later chooses winter quarters.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: hunters and animal processors
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Men and native groups hunt land game and seals, spear whales, attend salmon
+    nets, and spear reindeer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: egg and shoreline foragers
+  assigned_to:
+  - fig:3
+  basis: Women and children search islets and coves and collect eggs from accessible
+    nests.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: winter-quarters decision-maker
+  assigned_to:
+  - fig:4
+  basis: The head of the family decides where winter will be passed.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: employer and trading counterpart
+  assigned_to:
+  - fig:5
+  basis: The company summons and employs natives, buys furs, exchanges supplies, and
+    hires dog teams for wood hauling.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: ice and thaw as seasonal marker
+  literal_form: Koksoak River ice, Ungava Bay shore ice, floating ice, freezing river,
+    and edge of water
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: seasonal transport equipment
+  literal_form: sleds, dogs, umiak, kaiak, and dog teams
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: whaling enclosure
+  literal_form: nets forming the sides of an enclosure into which white whales are
+    driven
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: winter shelter and camp
+  literal_form: winter quarters and snow house
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Spring ice breakup and movement to the ice edge
+  summary: The yearly account begins with the river ice breaking up; families move
+    their belongings, transport equipment, dogs, and tents downriver, and wait for
+    the outside ice to clear.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Early coastal hunting and egg gathering
+  summary: Men hunt land game, waterfowl, and seals while women and children search
+    islets, coves, and bird nests for food; the group proceeds alongshore by boat
+    as conditions allow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: White-whale drive at the whaling station
+  summary: Natives are summoned to the whaling station, encamp, and help drive white
+    whales into a net enclosure, then spear, beach, skin, and transport the products.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Salmon-net work and reindeer crossing hunt
+  summary: After whaling, the same natives attend salmon nets at named localities,
+    then move upriver in time to spear reindeer crossing the river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Winter quarters, trapping, exchange, and hauling
+  summary: As ice forms and snow falls, the head of the family chooses winter quarters;
+    the group builds or uses sleds and snow houses, hunts ptarmigan, traps fur-bearing
+    animals, exchanges furs for goods, and may haul company wood with dog teams.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: annual seasonal round
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly sketches an annual routine from spring thaw through
+    coastal hunting, whaling, salmon-net work, reindeer hunting, winter quarters,
+    trapping, trading, and hauling.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic livelihood pattern, not a mythic narrative or
+    ritual explanation in the supplied passage.
+- id: motif:2
+  label: thaw-to-winter migration sequence
+  taxonomy_refs: []
+  basis: 'Movement follows environmental thresholds: river and bay ice clearing, coastal
+    travel by boat, later ice formation, descent or relocation, and establishment
+    of winter quarters.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage presents practical mobility; no sacred geography or mythic
+    journey is stated.
+- id: motif:3
+  label: cooperative animal drive into enclosure
+  taxonomy_refs: []
+  basis: White whales are driven into a net enclosure by natives assisting the company,
+    then speared and processed.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a subsistence and labor practice only; no symbolic or
+    ceremonial meaning is supplied.
+- id: motif:4
+  label: subsistence labor and trade exchange
+  taxonomy_refs: []
+  basis: Natives work at whaling, salmon nets, trapping, and wood hauling; furs and
+    labor are exchanged with the company for goods or wages.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This should not be mapped to sacred exchange without additional ritual
+    or mythic evidence.
+comparison_claims:
+- id: claim:1
+  claim: The passage matches the broad seasonal_cycle pattern at the level of function
+    because human movements and labor are ordered by recurring seasonal signs and
+    animal availability.
+  claim_level: same_function
+  target: seasonal_cycle motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is ethnographic and practical; it does not present a myth,
+    divine actors, ritual symbolism, or a cosmological explanation for the cycle.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10136-10153
+  quote_or_summary: The annual routine begins with spring ice breakup on the Koksoak
+    River and Ungava Bay; families move belongings by sled to the ice edge and store
+    tents, dogs, umiak, kaiak, and other property on shore until outside ice is free.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain per provided metadata.
+- id: ev:2
+  type: summary
+  locator: 10154-10170
+  quote_or_summary: Men hunt reindeer, ptarmigan, hares, waterfowl, and seals, travel
+    alongshore by boat, while women and children search islets and coves for edible
+    items and collect eggs from accessible nests before returning after the June egg
+    supply is exhausted.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain per provided metadata.
+- id: ev:3
+  type: summary
+  locator: 10171-10185
+  quote_or_summary: Around the white-whale season, natives are summoned to a whaling
+    station, encamp there, wait for nets forming an enclosure, then spear whales in
+    the pound, drag them ashore, skin them, and help transport oil and skins.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain per provided metadata.
+- id: ev:4
+  type: summary
+  locator: 10186-10198
+  quote_or_summary: The same natives attend salmon nets from late July to early September,
+    occupy named localities with relatives, and after the salmon runs go upriver to
+    spear reindeer crossing the river.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain per provided metadata.
+- id: ev:5
+  type: summary
+  locator: 10199-10213
+  quote_or_summary: Reindeer hunting lasts until the rut and loss of fat; ice forms
+    alongshore, travel becomes urgent, the family head chooses winter quarters, snow
+    permits snow houses, and traps are set while ptarmigan are hunted and sold.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain per provided metadata.
+- id: ev:6
+  type: summary
+  locator: 10214-10232
+  quote_or_summary: People subsist on ptarmigan until sleds can bring fall-killed
+    meat; furs are sold to the company for flour, tea, sugar, molasses, biscuit, clothing,
+    and ammunition, and Eskimo dog teams are hired to haul wood cut by company employees.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain per provided metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied passage. Motif and comparison
+    confidence is limited because the passage is a practical ethnographic seasonal
+    routine rather than a mythic or ritual narrative. The supplied source label/title
+    metadata appears inconsistent with the passage content, which describes Eskimo
+    life around Koksoak/Ungava; no external correction has been applied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Symbols listed here are literal recurring objects or environmental markers in the passage; symbolic meanings are not asserted unless directly supported.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l10136-l10232
+  passage_sha256=1fc1f2e3e9c836777dec81814c34f027ddeae2be4becf62fa21492e8bee67fa4
+

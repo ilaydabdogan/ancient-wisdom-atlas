@@ -1,0 +1,201 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l12443-l12457
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: Prakyiti. t Prakyita. J Purusha. § Paresa. / CANTO XLTI. / THE COMPUTATION
+    OP BRAHMANS LIFE. / CANTO XLvrr.; lines 12443-12457
+  start: '12443'
+  end: '12457'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains the reckoning of Brahma''s life: creation begins
+    again, one of Brahma''s years passes, one hundred of his years make a Para, fifty
+    years make a Parardha, one Parardha has elapsed, and the present second Parardha
+    begins with the Varaha kalpa after the Padma Mahakalpa.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that creation begins again.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One hundred of Brahma's years are denominated a Para.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Parardha, or half-Para, is composed of fifty years.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One Parardha of Brahma's life is said to have elapsed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At the close of the elapsed Parardha occurred the Mahakalpa famed as the Padma.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage identifies the current cycle in the second Parardha as the Varaha
+    kalpa.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Brahma
+  description: A being whose years, life-span, and cosmic cycles are being computed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: brahman addressee
+  description: The addressee addressed as "O brahman" during the explanation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: cosmic lifespan subject
+  assigned_to:
+  - fig:1
+  basis: The passage measures years, Para, Parardha, and kalpas in relation to Brahma's
+    life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: listener or addressee
+  assigned_to:
+  - fig:2
+  basis: The explanation is addressed with the vocative phrase "O brahman."
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: one hundred years
+  literal_form: one hundred of Brahma's years
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fifty years
+  literal_form: fifty years making a Parardha
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: kalpa
+  literal_form: cosmic cycle named Padma or Varaha
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Computation of Brahma's cosmic life
+  summary: The speaker explains the units of Brahma's life and locates the present
+    creation cycle within the second Parardha, after the Padma Mahakalpa and in the
+    Varaha kalpa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cyclical creation and cosmic time reckoning
+  taxonomy_refs: []
+  basis: The passage says creation begins again and frames cosmic history through
+    repeating kalpas and large-scale units of Brahma's lifespan.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt is primarily calendrical and does not narrate a full creation,
+    destruction, or renewal episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12443-12444
+  quote_or_summary: '"creation begins again" and one of Brahma''s years passes.'
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 12444-12447
+  quote_or_summary: One hundred of Brahma's years are called a Para.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12446-12449
+  quote_or_summary: A Parardha, or half-Para, is said to consist of fifty years.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12449-12453
+  quote_or_summary: One Parardha of Brahma's life has elapsed, and at its close occurred
+    the Mahakalpa famed as the Padma.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12454-12457
+  quote_or_summary: The second Parardha is now passing, and its first ordained kalpa
+    is the one called Varaha.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal calendrical content is explicit. Motif identification is cautious
+    because the passage names cyclic creation and cosmic periods but does not provide
+    a narrative episode or explicit comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another text or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l12443-l12457
+  passage_sha256=f2577fee98bb0834ee6bdc474e40cc233b465e8ffff716adeacc9feadf005ed5
+

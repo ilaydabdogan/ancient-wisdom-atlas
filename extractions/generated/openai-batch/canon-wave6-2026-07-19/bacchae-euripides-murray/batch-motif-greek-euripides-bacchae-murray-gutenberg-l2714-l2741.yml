@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2714-l2741
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: AGAVE. / CADMUS. / CADMUS. / AGAVE.; lines 2714-2741
+  start: '2714'
+  end: '2741'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Thou bearest in thine arms an head--what head?” ... “Ah! But what is it?
+    What am I carrying here?”"
+  summary: Agave names Echion and identifies Pentheus as born of her love and his
+    father. Cadmus asks what head she carries. Agave trembles, avoids looking at it,
+    says it is a lion's because others said so in the chase, and then, after Cadmus
+    tells her to turn and gaze, asks what she is carrying.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Agave names Echion and says men called him the Child of Earth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cadmus asks what child was born in Echion's house.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Agave identifies Pentheus as bred of her love and his father's.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Cadmus states that Agave bears a head in her arms and asks what head it is.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A stage direction says Agave begins to tremble and does not look at what she
+    carries.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Agave says the head is a lion's, as all said in the chase.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Cadmus tells Agave to turn to the object and gaze at it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Agave asks what the object is and what she is carrying.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agave
+  description: Speaker who names Echion, identifies Pentheus as bred of her love and
+    his father's, bears a head, trembles, first says it is a lion's, and then asks
+    what she is carrying.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Cadmus
+  description: Speaker who asks Agave about Echion's child, asks what head she bears,
+    and tells her to turn and gaze.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Echion
+  description: Named by Agave as the Child of Earth; associated with the house in
+    which Cadmus asks what child was born.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Pentheus
+  description: Named by Agave as bred of her love and his father's, in response to
+    Cadmus's question about the child born in Echion's house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Bearer of the head
+  assigned_to:
+  - fig:1
+  basis: Cadmus says Agave bears a head in her arms; Agave later asks what she is
+    carrying.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Questioner and prompter to gaze
+  assigned_to:
+  - fig:2
+  basis: Cadmus asks about the child and the head, then tells Agave to turn and gaze.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: Parent-child relation stated
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Agave states that Pentheus was bred of her love and his father's.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Named Child of Earth
+  assigned_to:
+  - fig:3
+  basis: Agave says men named Echion the Child of Earth.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: House and father associated with Pentheus
+  assigned_to:
+  - fig:3
+  basis: Cadmus asks about a child born in Echion's house, and Agave answers with
+    Pentheus as bred of her love and his father's.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Carried head
+  literal_form: A head borne in Agave's arms.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Lion's head as reported identification
+  literal_form: The head described by Agave as a lion's because others said so in
+    the chase.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Genealogical questioning
+  summary: Agave names Echion as Child of Earth, Cadmus asks what child was born in
+    Echion's house, and Agave answers with Pentheus and his parentage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Questioning the carried head
+  summary: Cadmus points out the head Agave carries; Agave trembles, avoids looking,
+    calls it a lion's head on hearsay from the chase, then follows Cadmus's prompting
+    toward recognition by asking what it is.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Unrecognized carried head
+  taxonomy_refs: []
+  basis: The passage centers on a head carried by Agave that she does not look at,
+    initially identifies as a lion's, and then questions after Cadmus urges her to
+    gaze.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt ends before the head is explicitly identified within this
+    supplied passage.
+- id: motif:2
+  label: Prompted recognition through looking
+  taxonomy_refs: []
+  basis: Cadmus asks about the object Agave carries and instructs her to turn and
+    gaze; Agave then asks what the object is.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage shows the prompting and Agave's uncertainty, but not the completed
+    recognition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2714-2722
+  quote_or_summary: "“Echîon, whom men named the Child of Earth.” ... “Pentheus, of
+    my love and his father's bred.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:2
+  type: quote
+  locator: 2724-2726
+  quote_or_summary: "“Thou bearest in thine arms an head--what head?”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:3
+  type: quote
+  locator: 2728-2734
+  quote_or_summary: "“(_beginning to tremble, and not looking at what she carries_).”
+    ... “A lion's--so they all said in the chase.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:4
+  type: quote
+  locator: 2736-2741
+  quote_or_summary: "“Turn to it now--'tis no long toil--and gaze.” ... “Ah! But what
+    is it? What am I carrying here?”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the supplied excerpt does not complete the recognition or identify the head. No
+    passage-supported comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the excerpt alone does not directly support one.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2714-l2741
+  passage_sha256=8d6d1637d6f7b1e451fe16382500d1d54374839c01be89d504a6595c1a252eb0
+

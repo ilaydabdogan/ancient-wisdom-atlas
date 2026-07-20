@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l49057-l49068
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXLI / SECTION CCXLII / SECTION CCXLIII / SECTION CCXLIV; lines
+    49057-49068
+  start: '49057'
+  end: '49068'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Bhishma tells Yudhishthira that, after hearing about the duties of domestic
+    life, he should listen to the duties of the next mode of life: gradually abandoning
+    domesticity and entering the excellent third mode associated with austerities,
+    forest recluses, sacred spots, and deliberate observance.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bhishma addresses Yudhishthira and says he has already been told the duties
+    of domesticity.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bhishma instructs that one should gradually abandon the domestic mode and
+    enter a third mode described as excellent.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The third mode is described as one in which wives afflict themselves by means
+    of austerities.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The third mode is described as practiced by those who live as forest recluses.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Bhishma says the mode is associated with denizens of sacred spots who have
+    resorted to it after deliberation.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bhishma
+  description: Speaker who instructs Yudhishthira about duties beyond domesticity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Yudhishthira
+  description: Addressee who is told to listen to the duties of the next mode of life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: wives practicing austerities
+  description: Wives in the third mode who afflict themselves by means of austerities.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: forest recluses
+  description: Those who live as forest recluses and practice the third mode of life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: denizens of sacred spots
+  description: Those associated with sacred spots who have resorted to this mode after
+    proper deliberation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: teacher of duties
+  assigned_to:
+  - fig:1
+  basis: Bhishma tells Yudhishthira to listen to duties of the next mode of life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: recipient of instruction
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira is directly addressed and asked to listen.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: austerity practitioner
+  assigned_to:
+  - fig:3
+  basis: The passage says wives afflict themselves by means of austerities in this
+    mode.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: forest recluse
+  assigned_to:
+  - fig:4
+  basis: The passage identifies the mode as practiced by those living as forest recluses.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: resident of sacred places
+  assigned_to:
+  - fig:5
+  basis: The passage mentions denizens of sacred spots who have resorted to this mode.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sacred spots
+  literal_form: sacred spots
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Instruction on the forest-recluse mode
+  summary: Bhishma shifts from discussing domestic duties to explaining the next mode
+    of life, characterized by gradual abandonment of domesticity, austerities, forest
+    reclusion, and residence in sacred spots.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: transition from domestic life to ascetic withdrawal
+  taxonomy_refs:
+  - departure
+  - initiation
+  basis: The passage describes gradually abandoning domesticity and entering a third
+    mode of life practiced by forest recluses.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is instructional and normative, not a narrative departure
+    scene; taxonomy links are broad.
+- id: motif:2
+  label: instruction in sacred duties
+  taxonomy_refs:
+  - wisdom
+  basis: Bhishma teaches Yudhishthira the duties associated with the next mode of
+    life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a didactic passage rather than a mythic episode.
+- id: motif:3
+  label: austerity as religious practice
+  taxonomy_refs:
+  - sacrifice
+  basis: The mode is described as involving self-affliction through austerities.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions austerities but does not describe a formal sacrificial
+    rite.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 49057-49060
+  quote_or_summary: Bhishma said that Yudhishthira had been told the duties of domesticity
+    and should now listen to the duties next spoken of.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 49060-49062
+  quote_or_summary: "“Gradually abandoning the domestic mode, one should enter the
+    third mode which is excellent.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: quote
+  locator: lines 49062-49064
+  quote_or_summary: "“It is the mode in which wives afflict themselves by means of
+    Austerities.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: quote
+  locator: lines 49064-49065
+  quote_or_summary: "“It is the mode practised by those that live as forest recluses.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source.
+- id: ev:5
+  type: summary
+  locator: lines 49065-49068
+  quote_or_summary: Bhishma asks Yudhishthira to listen to the duties of those who
+    are denizens of sacred spots and have taken up this mode after deliberation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif taxonomy assignments are broad
+    because the passage is a normative teaching on life-stage duties rather than a
+    narrative mythic episode. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l49057-l49068
+  passage_sha256=5e67acda17498d1f78b51f1b0999d3627cad8d273ead0f6515cd3350f7710eb7
+

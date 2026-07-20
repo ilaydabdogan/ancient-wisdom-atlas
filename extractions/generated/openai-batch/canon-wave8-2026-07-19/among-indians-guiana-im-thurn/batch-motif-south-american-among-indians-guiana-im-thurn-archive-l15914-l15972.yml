@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.south-american-among-indians-guiana-im-thurn-archive-l15914-l15972
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: INDIAN ANTIQUITIES. / PICTURED ROCKS. / PLATE IX, / RAVED ROCKS AT WARRATOOTA
+    FAL.; lines 15914-15972
+  start: '15914'
+  end: '15972'
+  translation: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic
+    from the Interior of British Guiana'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"a peculiar, complex, and not very obvious figure occurs in many examples"'
+  summary: The passage argues that recurrent, unusual figures in rock-engravings are
+    unlikely to be idle marks. It compares a repeated coiled line in Northumberland
+    rock-engravings with a repeated figure in the shallow engravings of Guiana, and
+    notes a visually similar figure in Mexican picture-writings. The author suggests
+    that understanding the Mexican figure might help interpret the Guiana engravings,
+    while rejecting the view that such engravings are equivalent to schoolboy scribbles.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Northumberland rock-engravings are described as containing a peculiar, much-coiled
+    line that occurs abundantly and almost exclusively.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that repeated, peculiar, complex, and non-obvious engraved
+    figures may be assumed to have some ulterior object and meaning.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: 'The Guiana shallow engravings are said to contain a recurring figure of the
+    same general kind: peculiar, complex, and not likely to be an idle invention.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says Indians very seldom draw straight lines except in these particular
+    figures.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says several figures in Mexican picture-writings are strikingly
+    like the shallow-engraving figure of Guiana.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The author suggests that a clue to the meaning of the Mexican figures might
+    help decipher the hieroglyphic writings of Guiana.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The author rejects Andrée’s conclusion that rock-engravings have the same
+    kind of intention, or lack of intention, as schoolboy scribblings, while still
+    using Andrée’s comparative material.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Northumberland coiled line
+  description: A peculiar, much-coiled line occurring abundantly and almost exclusively
+    in Northumberland rock-engravings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Guiana shallow-engraving figure
+  description: A peculiar, complex, and not very obvious figure occurring repeatedly
+    in the shallow engravings of Guiana; it is associated with straight-line drawing.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Mexican picture-writing figures
+  description: Several figures in Mexican manuscripts in the Bodleian/Selden group,
+    reproduced in Kingsborough, described as very similar to the Guiana shallow-engraving
+    figure.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: recurrent intentional sign
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage treats repeated, unusual figures as unlikely to be idle marks
+    and as probably meaningful.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: Guiana hieroglyphic comparison object
+  assigned_to:
+  - fig:2
+  basis: The Guiana figure is the sign whose meaning the author hopes might be clarified
+    through comparison with Mexican figures.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: possible interpretive key
+  assigned_to:
+  - fig:3
+  basis: The author states that a clue to the Mexican figures might serve as a key
+    to decipher the writings of Guiana.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: coiled engraved line
+  literal_form: A peculiar, much-coiled line carved or engraved on rock.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: recurrent Guiana shallow-engraving sign
+  literal_form: A peculiar, complex, non-obvious figure in shallow rock engravings,
+    involving straight lines.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Mexican picture-writing counterpart
+  literal_form: Manuscript picture-writing figures described as strikingly like the
+    Guiana engraved figure.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Northumberland comparison
+  summary: The passage describes the repeated coiled line in Northumberland rock-engravings
+    and presents its recurrence as evidence that it likely had intention or meaning.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Guiana repeated figure argument
+  summary: The author argues that the peculiar figure in the shallow engravings of
+    Guiana is unlikely to have been invented idly or copied without purpose, especially
+    given the stated rarity of straight-line drawing among Indians outside such figures.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mexican manuscript comparison
+  summary: The passage compares the Guiana figure to figures in Mexican picture-writings
+    and suggests that understanding the Mexican examples might help interpret Guiana’s
+    hieroglyphic writings.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Rejection of scribbling analogy
+  summary: The author rejects Andrée’s comparison between rock-engravings and schoolboy
+    scribblings, while retaining Andrée’s evidence for common features among rock-engravings
+    of Guiana and elsewhere.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: recurrent non-obvious engraved sign as intentional mark
+  taxonomy_refs: []
+  basis: The passage repeatedly argues that abundant recurrence of a peculiar, complex
+    figure suggests use, intention, or meaning rather than idle drawing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The actual meaning of the sign is not given in the passage; intentionality
+    is the author’s inference from repetition and form.
+- id: motif:2
+  label: cross-regional visual correspondence between engraved and manuscript signs
+  taxonomy_refs: []
+  basis: The Guiana shallow-engraving figure is said to be strikingly like figures
+    in Mexican picture-writings.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage asserts likeness and possible connection but does not provide
+    the images or specify the nature of the connection.
+- id: motif:3
+  label: decipherable rock writing through comparative key
+  taxonomy_refs: []
+  basis: The author suggests that a clue to Mexican picture-writing figures might
+    serve as a key for deciphering Guiana hieroglyphic writings.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is framed conditionally; no decipherment or confirmed meaning is
+    supplied.
+comparison_claims:
+- id: claim:1
+  claim: The Guiana shallow-engraving figure is described as visually similar to figures
+    in Mexican picture-writings.
+  claim_level: visual_similarity
+  target: Mexican picture-writings in Bodleian and Selden manuscripts, as reproduced
+    in Lord Kingsborough’s Antiquities of Mexico
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies the author’s assertion and bibliographic note
+    but no reproduced image within the supplied text; it does not establish the mechanism
+    or direction of any connection.
+- id: claim:2
+  claim: The Northumberland coiled line and the Guiana shallow-engraving figure are
+    compared as recurrent unusual signs whose repetition suggests intention or meaning.
+  claim_level: same_function
+  target: Northumberland rock-engravings with a repeated coiled-line figure
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The forms are not presented as identical; the shared function is inferred
+    from recurrence and complexity rather than demonstrated meaning.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15914-15925
+  quote_or_summary: '"in the rock-engravings of Northumberland, a peculiar, much coiled
+    line occurs in great abundance and almost exclusively"; the passage says its abundance
+    suggests it had a use or intention.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; short quotation used for scholarly extraction.
+- id: ev:2
+  type: summary
+  locator: 15925-15936
+  quote_or_summary: The cited Andrée passage is summarized as saying that the Northumberland
+    engravings are executed according to a definite system and distinguished by regular
+    repetition of one form, and therefore probably have meaning.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 15937-15952
+  quote_or_summary: The author says the Guiana shallow-engraving figure is "peculiar,
+    complex, and not very obvious" and argues it is unlikely to be idle invention
+    or repeated copying; he adds that Indians seldom draw straight lines except in
+    these figures.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; short quotation and summary used for scholarly
+    extraction.
+- id: ev:4
+  type: quote
+  locator: 15952-15961
+  quote_or_summary: '"a figure strikingly like the one in question, if indeed it is
+    not identical, occurs in certain Mexican picture-writings"; the passage says several
+    Bodleian Mexican manuscript figures are so similar that the author sees little
+    doubt of connection.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; short quotation used for scholarly extraction.
+- id: ev:5
+  type: quote
+  locator: 15962-15969
+  quote_or_summary: '"If it were possible to obtain a clue to the meaning of the Mexican
+    figures, it might serve as a key to decipher the hieroglyphic writings of Guiana."
+    The footnote cites Lord Kingsborough’s Antiquities of Mexico, vol. i, with Bodley
+    and Selden manuscript pages.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; short quotation and citation summary used for
+    scholarly extraction.
+- id: ev:6
+  type: summary
+  locator: 15970-15972
+  quote_or_summary: The author rejects Andrée’s conclusion about identity of intention
+    or non-intention between rock-engravings and schoolboy scribblings, while stating
+    that Andrée shows other common features of Guiana rock-engravings and those elsewhere.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive and comparative rather than narrative myth. Extracted
+    motifs are therefore limited to sign-patterns and interpretive claims made explicitly
+    in the text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage concerns rock-engraved and manuscript signs rather than the supplied motif families or symbols.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-among-indians-guiana-im-thurn-archive__l15914-l15972
+  passage_sha256=c1d8e04ef1bfc5678e16f08f22e6c02096f598bea2cdc1bf715e04f1da5f9adb
+

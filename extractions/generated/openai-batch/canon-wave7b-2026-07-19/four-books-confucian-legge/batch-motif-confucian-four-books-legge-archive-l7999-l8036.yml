@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l7999-l8036
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: 'IT. THI: RARITY OF A SINCERE / BOOK X. HEANG TANG / CONFUC.1AN ANALECTS
+    / ANALECTS; lines 7999-8036'
+  start: '7999'
+  end: '8036'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents commentary and text describing Confucius''s conduct
+    in relation to his prince: he treats gifts of food and animals with ritual care,
+    refrains from offering cooked meat to ancestral spirits if it may have already
+    been offered by the prince, tastes food reverently, arranges himself in court
+    robes when ill and visited by the prince, and responds immediately when summoned
+    by the prince.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A ruler's stable is described as fitted to accommodate 216 horses.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Confucius would not offer cooked meat to ancestral spirits when he did not
+    know whether it had already been offered by the prince to the prince's ancestral
+    spirits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Confucius reverently tasted cooked meat as if he were in the prince's presence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says Confucius honored cooked food, glorified undressed food,
+    and was kind to a living animal.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When ill and visited by the prince, Confucius placed his head to the east,
+    spread court robes over himself, and drew his girdle across them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When summoned by the prince's order, Confucius went at once without waiting
+    for his carriage to be yoked.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Confucius
+  description: The person whose conduct toward his prince, ancestral rites, gifts,
+    illness, and summons is described.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the prince
+  description: The ruler in whose presence, gift-giving, visit, and order Confucius
+    responds.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: spirits of Confucius's ancestors
+  description: Ancestral spirits to whom Confucius would not offer cooked meat under
+    the stated uncertainty.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: spirits of the prince's ancestors
+  description: Ancestral spirits to whom the cooked meat might previously have been
+    offered by the prince.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: living animal
+  description: A living animal described as receiving kind treatment from Confucius
+    in the context of the prince's gift.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ritually careful recipient
+  assigned_to:
+  - fig:1
+  basis: Confucius refrains from a potentially improper ancestral offering and treats
+    food gifts reverently.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: responsive minister or subject
+  assigned_to:
+  - fig:1
+  basis: Confucius arranges himself properly for a princely visit and goes at once
+    when called by the prince's order.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: prince or ruler
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly identifies the prince as the giver, visitor, and issuer
+    of an order.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:4
+  label: ancestral spirits
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage refers to spirits of Confucius's ancestors and spirits of the
+    prince's ancestors in connection with offerings.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: animal recipient of kindness
+  assigned_to:
+  - fig:5
+  basis: The passage says Confucius was kind to the living animal.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cooked meat offering
+  literal_form: cooked meat
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: court robes and girdle
+  literal_form: court robes spread over Confucius, with his girdle drawn across them
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: eastward head position
+  literal_form: head to the east
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: unyoked carriage
+  literal_form: carriage not yet yoked
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: ruler's stable and horses
+  literal_form: a ruler's stable accommodating 216 horses
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Possible prior offering of cooked meat
+  summary: Confucius does not offer cooked meat to his own ancestral spirits because
+    it may already have been offered by the prince to the prince's ancestral spirits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Reverent handling of gifts from the prince
+  summary: Confucius tastes cooked food reverently and the commentary describes his
+    different respectful treatment of cooked food, undressed food, and a living animal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Illness and princely visit
+  summary: When the prince visits Confucius during illness, Confucius positions his
+    head eastward, covers himself with court robes, and draws his girdle across them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Immediate response to princely command
+  summary: When ordered by the prince, Confucius departs immediately without waiting
+    for his carriage to be yoked.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ritual propriety in relation to ruler and ancestors
+  taxonomy_refs:
+  - wisdom
+  basis: Confucius's conduct is presented as careful observance of proper behavior
+    regarding ancestral offerings, gifts from the prince, illness etiquette, and response
+    to command.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is primarily ethical and ritual instruction, not a narrative
+    myth; the taxonomy reference to wisdom is broad and should be reviewed.
+- id: motif:2
+  label: immediate obedience to ruler's summons
+  taxonomy_refs: []
+  basis: Confucius goes at once when called by the prince's order, without waiting
+    for the carriage to be yoked.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a behavioral motif within a didactic passage rather than a mythic
+    episode.
+- id: motif:3
+  label: reverent treatment of ritual food and living animal
+  taxonomy_refs: []
+  basis: The passage distinguishes Confucius's treatment of cooked food, undressed
+    food, and a living animal in relation to the prince's gift.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The wording comes from commentary and may require review against the surrounding
+    canonical text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7999-8005
+  quote_or_summary: '"A ruler''s ... was fitted to accommodate 216 horses."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 8009-8017
+  quote_or_summary: '"He would not offer the cooked meat to the spirits of his ancestors,
+    not knowing but it might previously have been offered by the prince to the spirits
+    of his."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 8017-8019
+  quote_or_summary: '"But he reverently tasted it, as if he had been in the prince''s
+    presence."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 8019-8023
+  quote_or_summary: '"He ... ''honored'' the gift of cooked food, ''glorified'' the
+    undressed, and ''was kind'' to the living animal."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 8031-8034
+  quote_or_summary: '"When he was ill and the prince came to visit him, he had his
+    head to the east, made his court robes be spread over him, and drew his girdle
+    across them."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 8035-8036
+  quote_or_summary: '"When the prince''s order called him, without waiting for his
+    carriage to be yoked, he went at once."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage includes OCR artifacts and commentary mixed with canonical material.
+    Literal conduct is clear in several sentences, but the exact object in the ruler's-stable
+    note is corrupted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-traditional comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l7999-l8036
+  passage_sha256=b186a992e4987ea6f8c13a0cc3d2d71d7a98ab06dcd454488df797241d14260e
+

@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l9821-l9837
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: THE BA-ILA AT PLAY / BOYS PLAYING WITH CLAY OXEN. / VERY MUCH A MAN. / PLAYING
+    INTULULU OR CHOMBOMBO.; lines 9821-9837
+  start: '9821'
+  end: '9837'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a game called Intululu or Chombombo in which participants
+    dance around one another and sing a call-and-response song about escaping spears,
+    work that brings them, and a home in the Batwa country. It then begins describing
+    another boys' game in which the boys represent a reedbuck wounded by a hunter
+    and stand in line with their legs apart.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The named game is Intululu or Chombombo.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Participants dance around one another until all are dancing around each other.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The participants sing during the dancing game.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The song uses a solo-and-chorus form.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The solo line is translated as “To escape the spears!”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The chorus refers to work that brings the speakers and to a home in the Batwa
+    country.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In another game, boys represent a reedbuck wounded by a hunter.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In the second game, the boys stand in line with their legs apart.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: participants in Intululu or Chombombo
+  description: People playing the named game dance around one another and sing.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: solo singer
+  description: A solo voice sings the line translated as “To escape the spears!”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: chorus
+  description: The chorus responds with lines translated as referring to work and
+    home in the Batwa country.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: boys in the second game
+  description: Boys represent a reedbuck wounded by a hunter and stand in line with
+    their legs apart.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: reedbuck
+  description: An animal represented by the boys as wounded by the hunter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: hunter
+  description: A hunter is named as the one who wounds the reedbuck in the represented
+    game action.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: game participant
+  assigned_to:
+  - fig:1
+  basis: The passage describes people playing Intululu or Chombombo.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: dancer-singer
+  assigned_to:
+  - fig:1
+  basis: The participants dance around one another and sing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: solo voice
+  assigned_to:
+  - fig:2
+  basis: The song is printed with repeated solo lines.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: responding chorus
+  assigned_to:
+  - fig:3
+  basis: The song is printed with chorus responses.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: boys enacting an animal in a game
+  assigned_to:
+  - fig:4
+  basis: The boys represent a reedbuck wounded by a hunter.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: wounded animal represented in play
+  assigned_to:
+  - fig:5
+  basis: The reedbuck is described as wounded by the hunter and represented by the
+    boys.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: hunter in represented action
+  assigned_to:
+  - fig:6
+  basis: The hunter is the figure who wounds the reedbuck in the represented game.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: spears
+  literal_form: spears mentioned in the song line about escape
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Batwa country
+  literal_form: home in the Batwa country mentioned in the chorus
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: reedbuck
+  literal_form: reedbuck represented by boys in a game
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hunter
+  literal_form: hunter who wounds the reedbuck in the represented game
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dancing and singing Intululu or Chombombo
+  summary: Participants in the named game dance around one another and sing a solo-and-chorus
+    song about escaping spears, work that brings them, and home in the Batwa country.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Boys represent a wounded reedbuck
+  summary: In another game, boys represent a reedbuck wounded by a hunter and stand
+    in line with their legs apart.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: circle-like reciprocal dancing with call-and-response song
+  taxonomy_refs: []
+  basis: The game involves participants dancing around one another while singing solo-and-chorus
+    lines.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is ethnographic description of play rather than a mythic narrative;
+    the exact dance formation is only partly described in the excerpt.
+- id: motif:2
+  label: escape from spears in game song
+  taxonomy_refs: []
+  basis: The repeated solo line is translated as “To escape the spears!”
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain whether the spears refer to warfare, hunting,
+    or another context.
+- id: motif:3
+  label: children’s hunting enactment of wounded animal
+  taxonomy_refs: []
+  basis: The boys represent a reedbuck wounded by a hunter in another game.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: Only the opening action of the second game is present in the provided
+    excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 9821-9822
+  quote_or_summary: Heading names the game as “PLAYING INTULULU OR CHOMBOMBO.”
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; brief excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 9823-9825
+  quote_or_summary: One participant dances around another, and the action continues
+    until all dance around each other; the passage says they sing.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 9826-9835
+  quote_or_summary: 'Solo: “To escape the spears!” Chorus lines are translated as
+    “That''s the work that brings us!” and “There at our home in the Batwa country.”'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 9836-9837
+  quote_or_summary: In another game, boys represent a reedbuck wounded by a hunter
+    and stand in line with their legs apart.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive because
+    the available taxonomy does not contain a clear matching family and the passage
+    is about play rather than mythic narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references assigned; available symbol taxonomy does not include the passage's literal symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l9821-l9837
+  passage_sha256=11c8986e5df84adb7c7faab30e9bc133252ff25d86fda579dbf5e3b27d52765e
+

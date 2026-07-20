@@ -1,0 +1,418 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l8041-l8068
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: XLVI.--THE TWO BROTHERS. / XLVII.--THE ORIGIN OF MAN. / XLVIII.--GOD'S COCK.
+    / XLIX.--KURENT THE PRESERVER.; lines 8041-8068
+  start: '8041'
+  end: '8068'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Mankind perished by the flood, and there was only one who survived, and this
+    was Kranyatz.
+  summary: A flood destroys mankind except for Kranyatz, who survives by clinging
+    to a vine that Kurent lengthens above the clouds. After nine years the flood ends.
+    Kurent tells Kranyatz to thank the vine and bind his descendants to praise it
+    and love its wine; Kranyatz agrees, and his descendants continue the custom.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Mankind perishes in a flood, and Kranyatz is the only survivor named in the
+    passage.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kranyatz flees higher and higher until the water covers the last mountain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A single vine remains dry, and Kranyatz seizes it in terror.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The vine is identified as Kurent's walking stick.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Kurent is described as a great joker, kindly, and glad to deliver anyone from
+    distress.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Kurent hears Kranyatz lamenting and lengthens the vine until it is higher
+    than the clouds.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The flood ceases after nine years, and the earth becomes dry again.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Kranyatz survives by hanging on the vine and nourishing himself with its grapes
+    and wine.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Kurent tells Kranyatz to thank the vine and make a covenant binding himself
+    and his posterity under a curse to praise the vine and love its wine above other
+    food and drink.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Kranyatz makes the engagement for himself and his posterity, and his descendants
+    are said to keep faith by loving wine and commemorating Kurent.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Kranyatz
+  description: The sole named survivor of the flood, who clings to the vine, survives
+    until the earth dries, and makes the covenant requested by Kurent.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Kurent
+  description: A joker and kindly deliverer whose walking-stick vine preserves Kranyatz;
+    he is remembered as an ancient benefactor.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Kranyatz's descendants
+  description: The posterity bound by Kranyatz's engagement, said to keep faith by
+    loving wine and commemorating Kurent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: flood survivor
+  assigned_to:
+  - fig:1
+  basis: Kranyatz is the only named survivor after mankind perishes in the flood,
+    and he survives by hanging on the vine.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: preserver and benefactor
+  assigned_to:
+  - fig:2
+  basis: Kurent lengthens the vine that saves Kranyatz and is later commemorated as
+    an ancient benefactor.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: joker-helper
+  assigned_to:
+  - fig:2
+  basis: The passage states that Kurent was a great joker but also kindly and glad
+    to deliver anyone from distress.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: covenant maker
+  assigned_to:
+  - fig:1
+  basis: Kranyatz agrees to bind himself and his posterity to praise the vine and
+    love its wine.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: covenant-bound posterity
+  assigned_to:
+  - fig:3
+  basis: The descendants of Kranyatz are said to continue keeping the promise by loving
+    wine and commemorating Kurent.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: flood waters
+  literal_form: water flooding the earth and covering the last mountain
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: last mountain
+  literal_form: the final mountain reached and then flooded by the water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: saving vine
+  literal_form: a single dry vine, also Kurent's walking stick, lengthened higher
+    than the clouds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: grapes and wine
+  literal_form: the vine's grapes and wine that sustain Kranyatz and become the preferred
+    drink of his descendants
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: nine-year flood duration
+  literal_form: nine years before the flood ceases
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Deluge and flight upward
+  summary: Mankind perishes in the flood; Kranyatz alone survives and flees upward
+    as the waters cover the last mountain, finding one dry vine.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Kurent lengthens the vine
+  summary: Kurent, whose stick is the vine, hears Kranyatz lamenting and lengthens
+    the vine above the clouds, enabling Kranyatz to survive the nine-year flood with
+    its grapes and wine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Covenant with the vine and wine custom
+  summary: After the earth dries, Kranyatz thanks Kurent, but Kurent directs him to
+    thank the vine and bind his posterity to praise it and love its wine; the descendants
+    continue this observance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: flood destruction and renewal after survival
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage states that mankind perished by a flood, one survivor remained,
+    and after nine years the flood ceased and the earth became dry again.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage has no ark or survivor pair; the survival mechanism is a vine.
+- id: motif:2
+  label: ascent to escape flood waters
+  taxonomy_refs:
+  - ascent
+  - flood_and_renewal
+  basis: Kranyatz flees higher as the water rises and survives when Kurent extends
+    the vine higher than the clouds.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The ascent is literal flight upward and suspension on a vine, not a formal
+    celestial journey.
+- id: motif:3
+  label: trickster-like benefactor preserves a human survivor
+  taxonomy_refs:
+  - culture_hero
+  - trickster_boundary
+  basis: Kurent is described as a great joker but kindly; he delivers Kranyatz from
+    distress and is commemorated as an ancient benefactor.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage calls Kurent a joker, but does not describe deception or boundary-crossing
+    actions in this episode.
+- id: motif:4
+  label: covenant establishing devotion to vine and wine
+  taxonomy_refs:
+  - covenant
+  basis: Kurent instructs Kranyatz to make a covenant binding himself and his posterity
+    under a curse to praise the vine and love its wine; Kranyatz accepts, and descendants
+    keep faith.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The covenant is directed toward the vine and wine custom rather than toward
+    a deity named as covenant partner.
+- id: motif:5
+  label: sky-reaching plant as life-saving support
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The vine is lengthened until it becomes higher than the clouds and serves
+    as the support by which Kranyatz survives the flood.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage identifies the support as a vine and Kurent's stick, not explicitly
+    as a sacred tree or formal world axis.
+comparison_claims:
+- id: claim:1
+  claim: The episode fits a flood-and-renewal motif family in which a deluge destroys
+    humanity, a single human survives, and the earth becomes dry again afterward.
+  claim_level: same_motif
+  target: flood_and_renewal motif family
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage's details differ from ark-centered or survivor-pair flood
+    narratives; only one survivor and a vine support are described.
+- id: claim:2
+  claim: 'The episode has the same function as an etiological covenant pattern: a
+    rescue leads to a binding obligation explaining a continuing communal preference
+    for wine and commemoration of Kurent.'
+  claim_level: same_function
+  target: covenant-based origin of a custom
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself explains the custom but does not compare it with
+    another named tradition or text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8041-8045
+  quote_or_summary: Mankind perishes by the flood; Kranyatz alone survives and flees
+    higher until the water floods the last mountain.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 8045-8047
+  quote_or_summary: A single vine remains dry, and Kranyatz seizes it in excessive
+    terror.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 8047-8053
+  quote_or_summary: Kurent observes Kranyatz; the vine is Kurent's walking stick,
+    and Kurent is described as a great joker but kindly and glad to deliver anyone
+    from distress.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 8053-8056
+  quote_or_summary: Kurent hears Kranyatz lamenting and straightens and lengthens
+    the vine until it becomes higher than the clouds.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 8056-8059
+  quote_or_summary: After nine years the flood ceases and earth dries; Kranyatz preserves
+    himself by hanging on the vine and living on its grapes and wine.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 8059-8064
+  quote_or_summary: Kranyatz thanks Kurent, but Kurent says the vine rescued him and
+    tells him to thank the vine and make a covenant binding himself and his posterity
+    under a curse to praise it and love its wine.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 8064-8068
+  quote_or_summary: Kranyatz makes the engagement for himself and his posterity; his
+    descendants still keep faith, love wine above all things, and commemorate Kurent
+    as ancient benefactor.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence is clear. Motif taxonomy assignments are strongest for flood_and_renewal
+    and covenant; culture_hero, trickster_boundary, and sacred_tree_axis require review
+    because the passage uses a joker-benefactor and a vine rather than fully explicit
+    comparative categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external parallels added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l8041-l8068
+  passage_sha256=cf18e8df8a36ed40e7496ae63f5458b9762505c3ce4b7945398d2658c5b1d15b
+

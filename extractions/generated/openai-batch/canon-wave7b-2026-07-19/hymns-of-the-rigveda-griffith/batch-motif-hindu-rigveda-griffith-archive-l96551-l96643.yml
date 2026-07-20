@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l96551-l96643
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH M / ADHYAYA 2. / I, 2, 2- / KEM N ,; lines 96551-96643
+  start: '96551'
+  end: '96643'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Let him reply, ‘Mind and speech.’
+  summary: 'In a ritual instruction, anonymous speakers ask what begins the day. The
+    answer is mind and speech: desires rest on mind because humans conceive desires
+    with mind, and speech yields desires because humans express desires through speech.
+    The instruction then says not to begin the day with a rc, yajus, or saman verse,
+    but to say the three preliminary utterances first; these are identified with the
+    three Vedas.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Anonymous speakers ask what the beginning of the day is, and the instructed
+    reply is “Mind and speech.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that all desires rest on the mind because a person conceives
+    desires with the mind.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that speech yields all desires because a person expresses
+    desires by speech.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage instructs that one should not begin the day with a rc, yajus,
+    or saman verse, nor start from such a verse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says the three preliminary utterances are bhih/bhuh, bhuvah, and
+    svar, and identifies them with the three Vedas.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage maps bhih/bhuh to the Rgveda, bhuvah to the Yajurveda, and svar
+    to the Samaveda, though the supplied text contains OCR irregularities in these
+    terms.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: anonymous ritual speakers
+  description: Unidentified speakers who ask and state the ritual questions and rules.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: instructed respondent or knower
+  description: The person told how to reply and how to begin the day; the passage
+    also refers to one who knows this teaching.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: generic human person
+  description: A generic person who conceives desires with the mind and expresses
+    desires by speech.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: ritual questioner or instructor
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly uses “They say” before the question and the instruction.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: ritual respondent or practitioner
+  assigned_to:
+  - fig:2
+  basis: The passage says “Let him reply” and later says that one should say the preliminary
+    utterances first.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: knower who receives efficacy
+  assigned_to:
+  - fig:2
+  basis: The passage says desires rest on, and speech yields desires to, the one who
+    knows this.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: desiring and speaking human
+  assigned_to:
+  - fig:3
+  basis: The passage says a person conceives desires with mind and expresses desires
+    by speech.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: mind as seat of desire
+  literal_form: mind
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: speech as expression and yielding of desire
+  literal_form: speech
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: all desires
+  literal_form: all desires
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: three preliminary utterances
+  literal_form: bhih/bhuh, bhuvah, and svar
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: three Vedas
+  literal_form: Rgveda, Yajurveda, and Samaveda
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Beginning the day with mind and speech
+  summary: The ritual speakers ask what begins the day, and the reply names mind and
+    speech. The passage explains that mind contains conceived desires and speech expresses
+    or yields them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Preliminary utterances before Vedic verses
+  summary: The instruction says not to begin with rc, yajus, or saman verses, but
+    to say the three preliminary utterances first; these utterances are then equated
+    with the three Vedas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Mind and speech as ritual sources of desire
+  taxonomy_refs:
+  - wisdom
+  basis: 'The passage states that knowing the relation of mind, speech, and desire
+    gives efficacy: desires rest on the knower, and speech yields desires to the knower.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference “wisdom” is broad; the passage is ritual and didactic
+    rather than a narrative myth.
+- id: motif:2
+  label: Sacred utterance opens the ritual sequence
+  taxonomy_refs: []
+  basis: The passage directs the practitioner to say the three preliminary utterances
+    before beginning with rc, yajus, or saman verses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a liturgical pattern rather than a full mythic episode.
+- id: motif:3
+  label: Tripartite formula mapped to tripartite sacred corpus
+  taxonomy_refs: []
+  basis: The three utterances bhih/bhuh, bhuvah, and svar are identified with the
+    three Vedas and individually mapped to Rgveda, Yajurveda, and Samaveda.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The supplied passage has OCR irregularities in the Sanskrit terms; the
+    structural correspondence is still explicit.
+comparison_claims:
+- id: claim:1
+  claim: A note links the passage’s statement about mind and desire to nearby Vedic
+    or Upanishadic material where mind is likewise connected with desire.
+  claim_level: same_function
+  target: Brhadaranyaka Upanisad III,2 and Aitareya Brahmana VI,2,3 as cited in the
+    supplied note
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on the translator’s note and partial citation;
+    the full parallel passages are not provided here.
+- id: claim:2
+  claim: A note places the three-utterance triad in a later Upanishadic history and
+    says the Taittiriya Upanisad elaborates it.
+  claim_level: same_motif
+  target: Jaiminiya Upanisad Brahmana and Taittiriya Upanisad as cited in the supplied
+    note
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note identifies related textual history but does not reproduce
+    the full parallel passages.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 96551-96643; translation paragraph beginning “2. They say”
+  quote_or_summary: "“What is the beginning of this day?” — “Mind and speech.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain text; supplied metadata allows full text use.
+- id: ev:2
+  type: summary
+  locator: lines 96551-96643; translation paragraph beginning “2. They say”
+  quote_or_summary: The passage says all desires rest on mind because a person conceives
+    all desires with the mind, and that all desires rest on the one who knows this.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain text; supplied metadata allows full text use.
+- id: ev:3
+  type: summary
+  locator: lines 96551-96643; translation paragraph beginning “2. They say”
+  quote_or_summary: The passage says speech yields all desires because a person expresses
+    all desires by speech, and that speech yields desires to the one who knows this.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain text; supplied metadata allows full text use.
+- id: ev:4
+  type: summary
+  locator: lines 96551-96643; translation paragraph beginning “Then they say” and
+    continuation at page 181
+  quote_or_summary: The passage instructs that one should not begin the day with a
+    rc, yajus, or saman verse, nor start from one.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain text; supplied metadata allows full text use.
+- id: ev:5
+  type: summary
+  locator: lines 96551-96643; translation paragraph on preliminary utterances
+  quote_or_summary: The passage says the preliminary utterances are bhih/bhuh, bhuvah,
+    and svar, identifies them as the three Vedas, and maps them respectively to Rgveda,
+    Yajurveda, and Samaveda; OCR irregularities appear in the supplied text.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain text; supplied metadata allows full text use.
+- id: ev:6
+  type: summary
+  locator: lines 96551-96643; note numbered 2 beneath translation paragraph
+  quote_or_summary: The note says Sayana explains desires as phases of mind, cites
+    Brhadaranyaka Upanisad III,2 with a mind/desire phrase, and also cites Aitareya
+    Brahmana VI,2,3.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain text; supplied metadata allows full text use.
+- id: ev:7
+  type: summary
+  locator: lines 96551-96643; note on later history of the triad
+  quote_or_summary: The note refers to the later history of the triad, citing Jaiminiya
+    Upanisad Brahmana and Taittiriya Upanisad, and says Taittiriya Upanisad shows
+    later origin by elaboration.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain text; supplied metadata allows full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The central ritual instructions are clear, but the supplied text contains
+    OCR corruption in Sanskrit terms and a visible passage header for Aitareya Aranyaka
+    despite source metadata pointing to a Rigveda Griffith file.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No available symbol taxonomy item was directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l96551-l96643
+  passage_sha256=eb4fd313e0166f308991f6ff9e6ac1ff0bd782214a7d08e691ffa526517f8118
+

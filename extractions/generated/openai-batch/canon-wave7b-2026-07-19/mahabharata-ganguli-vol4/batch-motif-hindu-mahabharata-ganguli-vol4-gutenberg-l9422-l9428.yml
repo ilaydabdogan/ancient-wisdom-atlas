@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l9422-l9428
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION LVI / SECTION LVII / SECTION LVIII / SECTION LIX; lines 9422-9428
+  start: '9422'
+  end: '9428'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Do thou discourse to me also of that gift which follows the giver into the
+    next world.
+  summary: In Section LIX, Yudhishthira asks an addressed Kuru elder or authority
+    which gift, among those described in non-Vedic treatises, is most distinguished,
+    and requests instruction about the gift that follows the giver into the next world.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira is identified as the speaker.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:2
+  text: Yudhishthira asks which gift, among gifts mentioned in treatises other than
+    the Vedas, is most distinguished in the addressee's opinion.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Yudhishthira states that he feels great curiosity about the matter.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Yudhishthira asks the addressee to discourse about a gift that follows the
+    giver into the next world.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The addressee is addressed as "chief of Kuru's race" and "puissant one."
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who asks about the highest gift and requests discourse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: unnamed addressee called chief of Kuru's race
+  description: The person addressed by Yudhishthira as "chief of Kuru's race" and
+    "puissant one," from whom discourse is requested.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: generic giver
+  description: A generalized giver mentioned in Yudhishthira's question as the person
+    into whose next world a gift may follow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaker and inquirer
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira is named as speaker and asks questions about gifts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: requested discourse-giver
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira asks the addressee to discourse on the gift that follows the
+    giver into the next world.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: hypothetical donor
+  assigned_to:
+  - fig:3
+  basis: The passage refers to "the giver" in the context of a gift following that
+    person into the next world.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: gift
+  literal_form: A gift, including gifts mentioned in treatises other than the Vedas
+    and a gift said to follow the giver into the next world.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: next world
+  literal_form: '"the next world" as the destination associated with the giver.'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Yudhishthira asks about the highest gift
+  summary: Yudhishthira addresses an unnamed Kuru figure and requests instruction
+    on which gift is most distinguished and which gift follows the giver into the
+    next world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Gift following the giver into the next world
+  taxonomy_refs:
+  - afterlife_journey_map
+  - sacred_exchange
+  basis: The passage explicitly asks about a gift that "follows the giver into the
+    next world," linking gift-giving with post-mortal continuation.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage contains only the question, not the answer or doctrinal explanation.
+- id: motif:2
+  label: Seeking authoritative wisdom about the highest gift
+  taxonomy_refs:
+  - wisdom
+  - sacred_exchange
+  basis: Yudhishthira asks an addressed authority which gift is most distinguished
+    and requests a discourse on the matter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The teaching itself is not present in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9423-9424
+  quote_or_summary: '"Amongst all those gifts that are mentioned in the treatises
+    other than the Vedas"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 9424-9426
+  quote_or_summary: '"which gift, O chief of Kuru''s race, is the most distinguished
+    in thy opinion?"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 9426-9427
+  quote_or_summary: '"great is the curiosity I feel with respect to this matter."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 9427-9428
+  quote_or_summary: '"Do thou discourse to me also of that gift which follows the
+    giver into the next world."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 9424-9427
+  quote_or_summary: The addressee is described through the address-terms "chief of
+    Kuru's race" and "puissant one."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; brief summary with short quoted terms.
+- id: ev:6
+  type: quote
+  locator: lines 9422-9423
+  quote_or_summary: '"Yudhishthira said"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The speaker, question, and key terms are explicit. Motif labels are tentative
+    because the passage is a question without the subsequent answer. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external identifications were added for the unnamed addressee beyond the address-terms in the provided passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l9422-l9428
+  passage_sha256=c1faa695226f7afdf332ee9219eff5e3a339992c7e4b52b4127718397c8b64f2
+

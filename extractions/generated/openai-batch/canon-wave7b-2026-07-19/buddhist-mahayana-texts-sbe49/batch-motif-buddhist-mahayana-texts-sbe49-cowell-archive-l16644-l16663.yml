@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.buddhist-mahayana-texts-sbe49-cowell-archive-l16644-l16663
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+passage_locator:
+  label: XXIV. / XXVI, / OR DIAMOND-CUTTER. I4I / XXVITI.; lines 16644-16663
+  start: '16644'
+  end: '16663'
+  translation: Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: A Buddha is to be seen (known) from the Law; for the Lords (Buddhas) have
+    the Law-body
+  summary: The passage states that a Buddha is known from the Law, that Buddhas have
+    the Law-body, and that the nature of the Law cannot be understood or made understood.
+    It then addresses Subhuti, denying that the Tathagata knows highest perfect knowledge
+    through signs and denying that Bodhisattva-path entrants proclaim destruction
+    or annihilation of anything.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Buddha is said to be seen or known from the Law.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lords, identified parenthetically as Buddhas, are said to have the Law-body.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The nature of the Law is said not to be understood and not to be made understood.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Subhuti is directly addressed in a question about the Tathagata and highest
+    perfect knowledge.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage denies that the highest perfect knowledge is known by the Tathagata
+    through possession of signs.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says no one should say that destruction or annihilation of anything
+    is proclaimed by those who have entered the path of the Bodhisattvas.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Buddha(s) / Lords
+  description: Buddhas are described as being known from the Law and as having the
+    Law-body.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Subhuti
+  description: Subhuti is the addressee of the spoken question and instruction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Tathagata
+  description: The Tathagata is named in relation to highest perfect knowledge and
+    the denial that it is known through possession of signs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Those who have entered the path of the Bodhisattvas
+  description: This group is identified as not proclaiming destruction or annihilation
+    of anything.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Law-body possessor
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Lords or Buddhas have the Law-body.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Addressee
+  assigned_to:
+  - fig:2
+  basis: Subhuti is directly addressed in the quoted instruction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Knower not through signs
+  assigned_to:
+  - fig:3
+  basis: The passage denies that the Tathagata knows highest perfect knowledge through
+    possession of signs.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Non-annihilation proclaimers
+  assigned_to:
+  - fig:4
+  basis: The passage says those on the Bodhisattva path do not proclaim destruction
+    or annihilation of anything.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Law-body
+  literal_form: Law-body
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Signs
+  literal_form: signs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Buddha known from the Law
+  summary: A verse states that a Buddha is known from the Law, that Buddhas have the
+    Law-body, and that the nature of the Law cannot be understood or made understood.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Instruction to Subhuti about signs and annihilation
+  summary: Subhuti is told not to think that the Tathagata knows highest perfect knowledge
+    through signs and not to accept that Bodhisattva-path entrants proclaim destruction
+    or annihilation of anything.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Knowledge beyond signs
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links highest perfect knowledge with the Tathagata while denying
+    that it is known through possession of signs; it also says the nature of the Law
+    cannot be understood or made understood.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is doctrinal and aphoristic rather than narrative; the motif
+    label is a cautious abstraction from the stated contrast between knowledge, Law,
+    and signs.
+- id: motif:2
+  label: Buddha known through the Law-body
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says a Buddha is known from the Law and that Buddhas have the
+    Law-body.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The wording supports a doctrinal-symbolic pattern, but the passage does
+    not provide a developed mythic narrative.
+- id: motif:3
+  label: Rejection of annihilation as Bodhisattva teaching
+  taxonomy_refs: []
+  basis: The passage explicitly denies that those who have entered the Bodhisattva
+    path proclaim destruction or annihilation of anything.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference precisely matches this negative formulation;
+    it is retained without a taxonomy mapping.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 16644-16650
+  quote_or_summary: "“A Buddha is to be seen (known) from the Law; for the Lords (Buddhas)
+    have the Law-body; And the nature of the Law cannot be understood, nor can it
+    be made to be understood.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source metadata; excerpt permitted.
+- id: ev:2
+  type: quote
+  locator: 16654-16660
+  quote_or_summary: "“O Subhuti, the highest perfect knowledge would not be known
+    by the Tathagata through the possession of signs.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source metadata; excerpt permitted.
+- id: ev:3
+  type: quote
+  locator: 16660-16663
+  quote_or_summary: "“Nor should anybody, O Subhati, say to you that the destruction
+    or annihilation of any thing is proclaimed by those who have entered on the path
+    of the Bodhisattvas.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source metadata; excerpt permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the passage. Motif candidates are cautious
+    because the passage is doctrinal, brief, and non-narrative. No comparison claims
+    are made beyond candidate taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external context was added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-mahayana-texts-sbe49-cowell-archive__l16644-l16663
+  passage_sha256=8ba6e8b264ca52c4f2ce204c2a75bb18a63de3b0982dcef553f2337e87432715
+

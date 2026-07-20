@@ -1,0 +1,220 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l1383-l1397
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: THE ENVIRONMENT / ON THE NANSENGA RIVEK. / CH. I / THE ENVIRONMENT; lines
+    1383-1397
+  start: '1383'
+  end: '1397'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: All along the reed-beds fringing the river the attention is arrested by a
+    succession of water-birds
+  summary: 'The passage describes birdlife in a river environment: geese, ducks, widgeon,
+    and teal frequent sandbanks, while many water-birds are seen along reed-beds fringing
+    the river.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A bird called the “wood goose” is described by an early writer as roosting
+    in trees.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Egyptian geese, knob-nosed duck, whistling duck, white-marked duck, and other
+    ducks, widgeon, and teal frequent sandbanks.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sandbanks are described as often hidden by the birds that frequent them.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Reed-beds fringe the river.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Many water-birds are seen along the reed-beds, including egrets, herons, pelicans,
+    clatterbills, hammerwings, darters, kingfishers, ibises, plovers, sea-swallows,
+    and gulls.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Egrets are noted for handsome plumes, herons are described as blue and white,
+    and kingfishers are noted for wonderful plumage.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: wood goose
+  description: A bird described as roosting in trees.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: sandbank-frequenting geese, ducks, widgeon, and teal
+  description: Birds listed as frequenting sandbanks, including Egyptian geese and
+    several kinds of duck.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: water-birds along the river reed-beds
+  description: A group of water-birds seen along the reed-beds, including egrets,
+    herons, pelicans, kingfishers, ibises, plovers, sea-swallows, and gulls.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: tree-roosting bird
+  assigned_to:
+  - fig:1
+  basis: The passage says the “wood goose” was so described from its habit of roosting
+    in trees.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sandbank-frequenting birds
+  assigned_to:
+  - fig:2
+  basis: The listed geese, ducks, widgeon, and teal are said to frequent and often
+    hide the sandbanks.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: river reed-bed birds
+  assigned_to:
+  - fig:3
+  basis: The listed water-birds are seen along reed-beds fringing the river.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: water setting
+  literal_form: river, reed-beds, and water-birds
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: tree roost
+  literal_form: trees
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sandbanks
+  literal_form: sandbanks frequented by birds
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Birds on sandbanks
+  summary: Geese, ducks, widgeon, and teal are described as frequenting sandbanks
+    in such numbers that the sandbanks are often hidden.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Water-birds along river reed-beds
+  summary: A succession of water-birds is observed along reed-beds fringing the river.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Tree-roosting wood goose
+  summary: The “wood goose” is identified by an early writer with reference to its
+    habit of roosting in trees.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1383-1385
+  quote_or_summary: "“wood goose,” as an early writer described it, from its habit
+    of roosting in trees"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1385-1389
+  quote_or_summary: Egyptian geese, knob-nosed duck, whistling duck, white-marked
+    duck, and other ducks, widgeon, and teal are said to frequent and often hide the
+    sandbanks.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1389-1391
+  quote_or_summary: "“All along the reed-beds fringing the river” a succession of
+    water-birds is seen."
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1391-1397
+  quote_or_summary: The water-birds listed include egrets with handsome plumes, blue
+    and white herons, pelicans, clatterbills, hammerwings, darters, kingfishers of
+    wonderful plumage, ibises, plovers, sea-swallows, and gulls.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is descriptive environmental prose about river birdlife. Literal
+    ecological elements are clear, but no mythic narrative, ritual action, or explicit
+    comparative motif is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythological motifs or comparison claims were extracted from this environmental description.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l1383-l1397
+  passage_sha256=cc3d08fb1f03d8546044ee9fc735f605d70e105a0a281bfccdc6a34d9b07b166
+

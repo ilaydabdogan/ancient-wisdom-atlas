@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l31151-l31169
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: CLOTHING AND ORNAMENT / CLOTHING AND ORNAMENT / BONES FIXED IN RESIN AND
+    RABBIT BANDICOOT / FIG. 265. NECK-BAND OF SINGLE; lines 31151-31169
+  start: '31151'
+  end: '31169'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a neck-band made from human hair-string with resin
+    ornaments holding eagle-hawk claws. The object is traded to southern tribes and
+    used as a magic article. The same object is reported among the Binbinga, Anula,
+    and Mara tribes, where it is used as a waist-band and also worn by men as a neck-band.
+    The neck-band form includes strands enclosed by bees’-wax and wax rings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Figure 265 is identified as a neck-band made of a single strand of human hair-string,
+    with resin ornaments into which eagle-hawk claws are fixed.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The object is traded away to southern tribes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The southern tribes use the object as an article of magic.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The same object is reported in the Binbinga, Anula, and Mara tribes.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The object is used as a waist-band and is also often worn by men as a neck-band.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When used as a neck-band, the strands are enclosed at one part in a bees’-wax
+    knob, with a wax ring at the opposite end, and the object is placed around the
+    neck.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: southern tribes
+  description: Groups to whom the object is traded and by whom it is used as an article
+    of magic.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Binbinga, Anula, and Mara tribes
+  description: Tribes in which the same object is reported.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: men
+  description: Male wearers who often wear the object as a neck-band.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: users of magic article
+  assigned_to:
+  - fig:1
+  basis: The passage says the object is traded to southern tribes and used by them
+    as an article of magic.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: tribes with the same object
+  assigned_to:
+  - fig:2
+  basis: The passage states that the same object is found in the Binbinga, Anula,
+    and Mara tribes.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: neck-band wearers
+  assigned_to:
+  - fig:3
+  basis: The passage says the object is often worn by men as a neck-band.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: human hair-string neck-band or waist-band
+  literal_form: Neck-band or waist-band made from human hair-string strands.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: resin ornaments with eagle-hawk claws
+  literal_form: Resin ornaments into which eagle-hawk claws are fixed.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bees’-wax knob and wax rings
+  literal_form: A bees’-wax knob enclosing strands and wax rings associated with the
+    neck-band form.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description and cross-tribal use of a hair-string ornament
+  summary: A hair-string ornament with resin and eagle-hawk claws is described. It
+    is traded to southern tribes for magical use and is also found among the Binbinga,
+    Anula, and Mara, where it can be worn as a waist-band or neck-band.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: magical ornament traded and worn
+  taxonomy_refs: []
+  basis: The passage presents an ornament that is traded to other tribes and used
+    as an article of magic, while also functioning as a waist-band or neck-band.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an ethnographic object description rather than a narrative
+    myth; no ritual episode or mythic explanation is included in the supplied text.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage directly reports a shared object and function across named and
+    unnamed neighboring tribal groups: it is traded to southern tribes for magical
+    use and is also found among the Binbinga, Anula, and Mara.'
+  claim_level: same_function
+  target: southern tribes; Binbinga, Anula, and Mara tribes
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not identify the southern tribes by name and does
+    not describe a myth narrative, ceremony, or historical route beyond the statement
+    that the object is traded.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 31151-31155
+  quote_or_summary: "“NECK-BAND OF SINGLE STRAND OF HUMAN HAIR-STRING AND ORNAMENTS
+    OF RESIN INTO WHICH EAGLE-HAWK CLAWS ARE FIXED.”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 31156-31158
+  quote_or_summary: "“it is traded away to the southern tribes, and used by them as
+    an article of magic.”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 31158-31162
+  quote_or_summary: The passage says the same object occurs in the Binbinga, Anula,
+    and Mara tribes and is used not only as a waist-band but also often worn by men
+    as a neck-band.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 31162-31168
+  quote_or_summary: The neck-band form is described as having strands enclosed in
+    a bees’-wax knob at one part and a wax ring at the opposite end, after which it
+    is placed around the neck.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The material details and cross-tribal statements are explicit. Motif identification
+    is limited because the passage is descriptive ethnography rather than a narrative
+    myth passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs are directly applicable. No motif-family taxonomy ref was assigned because the passage does not clearly support a listed mythic motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l31151-l31169
+  passage_sha256=0011f47b45dafb471a3ed0ab3c54e287532c5ec7856370831c8db1e930ec9bfb
+

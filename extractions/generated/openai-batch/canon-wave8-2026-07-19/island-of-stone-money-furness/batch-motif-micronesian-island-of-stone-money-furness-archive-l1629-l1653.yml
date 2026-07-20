@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l1629-l1653
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: SONGS AND INCANTATIONS / SONGS AND INCANTATIONS / THE ISLAND OP STONE MONET
+    / SONGS AND INCANTATIONS; lines 1629-1653
+  start: '1629'
+  end: '1653'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"merely one of the songs sung only in the failu."'
+  summary: The narrator describes an occasion in which a song associated with the
+    failu is heard by women. The women look down and laugh with embarrassment, Lian
+    withdraws, and the men laugh and then busy themselves with coconuts. The narrator
+    says he had unintentionally allowed the women to hear a secret failu song, but
+    he and Priedlander could not learn its meaning or why it was kept from women.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A song is performed with low humming and plaintive cadences.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The women cast their eyes on the ground and laugh while appearing ashamed
+    to laugh.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Lian smiles weakly, shakes his head, and retreats into the obscurity of the
+    house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The men in the background laugh, then stoop down and begin splitting coconut
+    husks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The narrator states that he had unintentionally allowed the women to hear
+    one of the secret songs of the failu.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The narrator and Priedlander question others but cannot elicit the song's
+    meaning or why men wished to keep it from women.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The only explanation given is that the song is sung only in the failu.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: narrator
+  description: The first-person observer who says he had innocently allowed women
+    to hear a secret failu song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: women
+  description: Women present during the song who look down, laugh, and appear embarrassed
+    or ashamed to laugh.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lian
+  description: A named person who smiles weakly, shakes his head, and retreats into
+    the house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: men in the background
+  description: Men who laugh and then busy themselves splitting coconut husks.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Priedlander
+  description: A named person who joins the narrator in questioning others about the
+    secret song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: unidentified explainers
+  description: Unidentified people who answer only that the song is sung in the failu.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioner about secret song
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The narrator says that his and Priedlander's questioning failed to elicit
+    the song's meaning or reason for secrecy.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: hearers of restricted song
+  assigned_to:
+  - fig:2
+  basis: The narrator says women heard one of the secret songs of the failu.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: embarrassed withdrawer
+  assigned_to:
+  - fig:3
+  basis: Lian gives a weak smile, shakes his head, and retreats into the obscurity
+    of the house.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: male onlookers reacting with embarrassment
+  assigned_to:
+  - fig:4
+  basis: The men laugh, stoop to hide embarrassment, and begin splitting coconut husks.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: withholders of explanation
+  assigned_to:
+  - fig:6
+  basis: The only explanation obtained is that the song is sung only in the failu.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: secret failu song
+  literal_form: song sung only in the failu
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: failu
+  literal_form: failu as the named setting or institution to which the song is restricted
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: coconut husks
+  literal_form: husks of some coconuts split by the men
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Embarrassed reactions to the song
+  summary: During or after the song, women look down and laugh with shame, Lian withdraws
+    into the house, and men laugh before turning to coconut husks.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Unsuccessful inquiry into restricted song
+  summary: The narrator explains that the women had heard a secret failu song and
+    that questioning by the narrator and Priedlander does not reveal its meaning or
+    the reason for excluding women from hearing it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: gender-restricted ritual song or knowledge
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage identifies the song as secret, says it is sung only in the failu,
+    and states that men wanted to keep it from women's ears, while outsiders could
+    not elicit its meaning.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an ethnographic anecdote rather than a mythic narrative,
+    and it does not explain the song's meaning or the nature of the prohibition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1629-1641
+  quote_or_summary: The song includes low humming and plaintive cadences; women look
+    down and laugh shamefacedly; Lian withdraws into the house; men laugh and then
+    split coconut husks.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1642-1650
+  quote_or_summary: The narrator says he had innocently allowed women to hear a secret
+    failu song, and that he and Priedlander could not learn its meaning or why men
+    wished to keep it from women.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1650-1652
+  quote_or_summary: '"merely one of the songs sung only in the failu."'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports extraction of a restricted-song pattern, but
+    it gives no meaning for the song and little cultural context for the failu in
+    this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare the practice to another tradition or motif family beyond the evident restricted-knowledge pattern.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l1629-l1653
+  passage_sha256=71600c870756dad3dca3735f10d09e17fe4d6cdbc713ee0a7406ab97568d0230
+

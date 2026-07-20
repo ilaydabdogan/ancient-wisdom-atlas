@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.celtic-celtic-fairy-tales-jacobs-gutenberg-l7742-l7762
+source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: XV. SHEE AN GANNON AND GRUAGACH GAIRE. / XVI. THE STORY-TELLER AT FAULT.
+    / XVII. SEA-MAIDEN. / XVIII. LEGEND OF KNOCKMANY.; lines 7742-7762
+  start: '7742'
+  end: '7762'
+  translation: Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes for “Legend of Knockmany” identify W. Carleton as source,
+    Kennedy’s “Fion MacCuil and the Scotch Giant” as a parallel, and discuss the tale
+    as a grotesque or parodic use of the names Finn and Cucullin/Cuchulain. The notes
+    highlight Finn’s future-presaging wisdom-tooth and Cucullin’s power-finger as
+    a life-index or external soul.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage names W. Carleton’s Traits and Stories of the Irish Peasantry
+    as the source for “Legend of Knockmany.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists Kennedy’s “Fion MacCuil and the Scotch Giant” as a parallel.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The remarks state that the names Finn and Cucullin/Cuchulain are attached
+    to the story’s heroes, probably to add external interest.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The remarks state that Cuchulain and Finn could not have appeared together
+    in an early form of their sagas because their reputed dates differ.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage characterizes the legend as grotesque and says this removes it
+    from the region of the hero-tale.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says Finn has a wisdom-tooth that presaged the future to him.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says Cucullin has a power-finger and identifies it as an instance
+    of the life-index or external soul.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage reports that parodies of Irish sagas occur as early as the sixteenth
+    century and says the present tale may be regarded as a specimen.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Finn
+  description: A heroic name attached to one of the story’s heroes; the passage also
+    associates Finn with a future-presaging wisdom-tooth and a reputed third-century
+    date.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Cucullin / Cuchulain
+  description: A heroic name attached to one of the story’s heroes; the passage also
+    associates Cucullin with a power-finger described as a life-index or external
+    soul and gives Cuchulain a reputed first-century date.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: heroic name attached to the story
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The remarks say the names Finn and Cucullin/Cuchulain are attached to the
+    heroes of the story.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: holder of future-presaging wisdom-tooth
+  assigned_to:
+  - fig:1
+  basis: The remarks mention Finn’s wisdom-tooth and say it presaged the future to
+    him.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: holder of power-finger as life-index/external soul
+  assigned_to:
+  - fig:2
+  basis: The remarks identify Cucullin’s power-finger as another instance of the life-index
+    or external soul.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: wisdom-tooth
+  literal_form: tooth
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: power-finger
+  literal_form: finger
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: future-presaging wisdom-tooth
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that Finn’s wisdom-tooth presaged the future to him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is an editorial note and does not narrate the use of the tooth
+    in an episode.
+- id: motif:2
+  label: external soul or life-index in a body part
+  taxonomy_refs: []
+  basis: The passage explicitly identifies Cucullin’s power-finger as an instance
+    of the life-index or external soul.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference exactly matches “external soul” or “life-index”;
+    the passage gives no narrative details here.
+- id: motif:3
+  label: parodic use of saga heroes in a grotesque legend
+  taxonomy_refs: []
+  basis: The remarks say the tale attaches venerable heroic names, is grotesque rather
+    than a hero-tale, and may be regarded as a specimen of Irish saga parody.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: This is based on the editor’s interpretive remarks rather than on the
+    tale’s narrative action in the provided excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly lists Kennedy’s “Fion MacCuil and the Scotch Giant”
+    as a parallel to “Legend of Knockmany.”
+  claim_level: same_motif
+  target: Kennedy’s “Fion MacCuil and the Scotch Giant,” Legendary Fictions, 203-5
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt provides only a bibliographic parallel and does not describe
+    the shared narrative elements.
+- id: claim:2
+  claim: The passage compares Cucullin’s power-finger to the life-index or external-soul
+    pattern and cross-refers to remarks on “Sea-Maiden.”
+  claim_level: same_motif
+  target: life-index or external soul motif; remarks on “Sea-Maiden”
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states the motif identification but does not provide the
+    relevant “Sea-Maiden” details in this excerpt.
+- id: claim:3
+  claim: The passage connects Finn’s wisdom-tooth with other discussions of the same
+    item in Celtic scholarship.
+  claim_level: same_motif
+  target: Finn’s wisdom-tooth as cited in Revue Celtique, Joyce, and MacDougall
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt supplies citations but not the contents of those parallel
+    treatments.
+- id: claim:4
+  claim: The passage frames the present tale as a possible specimen of Irish saga
+    parody, rather than as an early hero-tale.
+  claim_level: same_function
+  target: Irish saga parody tradition
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim reflects the editor’s assessment; the actual narrative episode
+    is not included in the provided passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7742-7744
+  quote_or_summary: "“_Source_.--W. Carleton, _Traits and Stories of the Irish Peasantry_.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:2
+  type: quote
+  locator: lines 7746-7747
+  quote_or_summary: "“_Parallels_.--Kennedy's ‘Fion MacCuil and the Scotch Giant,’
+    _Legend. Fict._, 203-5.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:3
+  type: summary
+  locator: lines 7749-7754
+  quote_or_summary: The remarks say the names Finn and Cucullin/Cuchulain are attached
+    to the heroes probably for extrinsic interest, and that their reputed dates would
+    prevent their meeting in an early saga form.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summary of public domain text.
+- id: ev:4
+  type: quote
+  locator: lines 7755-7756
+  quote_or_summary: "“the grotesque form of the legend is enough to remove it from
+    the region of the hero-tale.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:5
+  type: summary
+  locator: lines 7756-7758
+  quote_or_summary: The remarks note “Finn’s wisdom-tooth,” which “presaged the future
+    to him,” with references to Revue Celtique, Joyce, and MacDougall.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short quotation and summary permitted.
+- id: ev:6
+  type: quote
+  locator: lines 7759-7760
+  quote_or_summary: "“Cucullin's power-finger is another instance of the life-index
+    or external soul”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:7
+  type: summary
+  locator: lines 7761-7762
+  quote_or_summary: Mr. Nutt is cited as saying parodies of Irish sagas occur as early
+    as the sixteenth century, and the present tale may be regarded as a specimen.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summary of public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial note rather than a narrative episode. Motifs
+    explicitly named in the note are high confidence; broader claims about parody
+    and parallel texts depend on the editor’s summary and citations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No narrative scenes were extracted because the excerpt contains source, parallel, and remarks notes rather than an episode.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-celtic-fairy-tales-jacobs-gutenberg__l7742-l7762
+  passage_sha256=174cb3f9532ef24fd13c8e87725a0d032bd8d92784ccfb036bdb6bf39f209037
+

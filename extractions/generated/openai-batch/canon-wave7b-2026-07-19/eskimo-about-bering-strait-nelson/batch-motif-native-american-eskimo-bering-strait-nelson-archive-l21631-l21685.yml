@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l21631-l21685
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: TOY    IMAGES SNOW    KNIVES / THE    ESKIMO    ABOUT    BERING    STKAIT
+    / MUSIC  AND   DANCES / DRUMS; lines 21631-21685
+  start: '21631'
+  end: '21685'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes several drum handles and frames: an object carved
+    in the form of a walrus, Point Hope ivory drum handles with human faces, a St
+    Michael reindeer-horn handle representing the head and neck of a sandhill crane,
+    a Sledge Island drum with a plain deerhorn handle and spruce frame, and a Cape
+    Vancouver drum frame of spruce wood.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One described object is carved in the form of a walrus, with the head at the
+    inner end, flippers represented at the rear, etched lines for bristly hairs, and
+    four diagonal finger-rest grooves on the lower side.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Point Hope ivory drum handle has a carved human face at one end, small blue
+    beads inlaid for eyes, an incised mouth, four finger-grooves, and a slot fitted
+    with an ivory strip for the drum-frame ends.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Another Point Hope specimen is described as similar to the preceding handle,
+    but with a distorted face and a wooden patch fastened by five wooden pegs at the
+    tip.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A St Michael reindeer-horn drum handle represents the head and neck of a sandhill
+    crane, with an open beak, incised eyes and ears, incised wing lines, and short
+    parallel incisions for quill feathers.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A Sledge Island drum has an unornamented deerhorn handle and a slightly pear-shaped
+    spruce frame fastened with sinew cord and fitted with a groove for the braided
+    sinew cord that fastens the cover.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A Cape Vancouver drum frame is made of spruce wood, bent in a circle of twenty-eight
+    inches in diameter, with overlapping ends sewed together with rawhide cord.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Walrus representation
+  description: A carved walrus form on a drum-related object, including head, flippers,
+    and etched hair marks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Human face representation
+  description: A carved human face on an ivory drum handle, with blue bead eyes and
+    an incised mouth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Distorted human face representation
+  description: A similar Point Hope handle face described as curiously distorted.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Sandhill crane representation
+  description: A drum handle representing the head and neck of a sandhill crane, with
+    open beak and incised bird features.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Zoomorphic carved form
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage describes drum-handle or drum-related carvings in the forms of
+    a walrus and a sandhill crane.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Anthropomorphic face ornament
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage describes Point Hope ivory handles bearing carved human faces,
+    including one distorted face.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Walrus image
+  literal_form: Carved walrus form with head, flippers, and etched bristly hair lines.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Human face on drum handle
+  literal_form: Carved human face with bead eyes and incised mouth; a related specimen
+    has a distorted face.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Sandhill crane image
+  literal_form: Reindeer-horn handle representing a crane head and neck, with open
+    beak and incised wings and feathers.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Drum frame and fastening
+  literal_form: Spruce drum frames fastened with sinew or rawhide cord, including
+    grooves and pegs for attaching the cover or handle.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Description of carved drum handles
+  summary: The passage presents drum handles decorated with animal and human forms,
+    including a walrus, human faces, and a sandhill crane.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Description of drum-frame construction
+  summary: The passage describes Sledge Island and Cape Vancouver drum frames made
+    of spruce, with sinew or rawhide fastenings and related structural details.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Zoomorphic drum-handle carving
+  taxonomy_refs: []
+  basis: The passage describes drum handles or related objects carved as a walrus
+    and as a sandhill crane.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is a material-art design motif, not a narrative mythic motif in the
+    passage.
+- id: motif:2
+  label: Anthropomorphic face on drum handle
+  taxonomy_refs: []
+  basis: Two Point Hope ivory drum handles are described with human faces, one with
+    bead eyes and one described as distorted.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No mythic role or ritual interpretation is stated in the passage.
+- id: motif:3
+  label: Finger-grooved drum handle
+  taxonomy_refs: []
+  basis: The walrus-form object and the Point Hope ivory handle both include four
+    finger grooves or finger-rests.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This may be primarily functional rather than symbolic.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly presents a visual comparison between two Point Hope
+    ivory handles: the second is similar to the preceding handle but has a distorted
+    face.'
+  claim_level: visual_similarity
+  target: Point Hope ivory drum handle and Point Hope specimen number 63798
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to appearance and shared place of collection;
+    it does not establish broader tradition, origin, or meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21631-21638
+  quote_or_summary: An object is carved as a walrus, with the head at the inner end,
+    four diagonal finger-rest grooves, rear flippers, and etched lines for bristly
+    hairs.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 21639-21646
+  quote_or_summary: A Point Hope ivory handle is four inches long, with a carved human
+    face, blue bead eyes, incised mouth, four finger-grooves, and a slot for the drum
+    frame ends.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 21647-21652
+  quote_or_summary: Another Point Hope specimen is similar to the preceding one, but
+    the face is distorted and the handle tip is patched with wood fastened by five
+    wooden pegs.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 21653-21663
+  quote_or_summary: A St Michael reindeer-horn handle represents a sandhill crane
+    head and neck, with an open beak, incised eyes and ears, wing lines, and quill-feather
+    marks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 21664-21679
+  quote_or_summary: A Sledge Island drum has a deerhorn handle without ornamentation
+    and a slightly pear-shaped spruce frame, fastened with sinew cord and grooved
+    for the braided sinew cover cord.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 21680-21685
+  quote_or_summary: A Cape Vancouver drum frame is made of spruce wood, bent into
+    a twenty-eight-inch circle, with overlapping ends sewed with rawhide cord.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Object-level details are explicit in the passage. Motif candidates are restricted
+    to design patterns because the passage does not provide narrative or ritual interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif-family or symbol reference was applied; none of the supplied taxonomy entries is directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l21631-l21685
+  passage_sha256=2692f7529c0ba02f9bcdfcdaf919ae21797b3dfce438aa284cb30a9f15fe7d17
+

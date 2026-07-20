@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l23562-l23580
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: MAGIC / MAGIC / MAGIC / MAGIC; lines 23562-23580
+  start: '23562'
+  end: '23580'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that human hair is widely used among the described tribes
+    for objects such as waist-girdles and string, that its disposal is strictly regulated
+    and valued, and that people present hair to others at stated times. Although a
+    malicious person could locate the recipient and steal hair-string from a desired
+    victim, the passage says people do not fear others possessing their hair and do
+    not practice the hair-burning or hair-charm injury magic said to be common elsewhere.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Human hair is used extensively to make articles including waist-girdles and
+    string.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The disposal of each individual's hair, whether the individual is dead or
+    alive, is governed by strict rules and the hair is valued.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Everyone presents his or her hair to someone else at stated times.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A hypothetical malicious person could find out who received someone’s hair
+    and steal string made from that person’s hair.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The passage states that no one fears another person possessing his or her
+    hair.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that no attempt is made among these tribes to injure a
+    person by burning or performing a charm on hair cut from that person.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The passage says this hair-burning or hair-charm form of magic is common among
+    other groups, including other parts of Australia.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: people of the described tribes
+  description: Members of the tribes among whom human hair is used, valued, regulated,
+    and presented to others at stated times.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: evil-minded person
+  description: A hypothetical person who could secure a clipping or steal string made
+    from another person’s hair.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: person desired to injure
+  description: The person whose hair or hair-string could hypothetically be stolen
+    and used in harmful magic.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: recipient of hair
+  description: The person to whom someone’s hair has been given and whose identity
+    could be ascertained.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: hair users and makers
+  assigned_to:
+  - fig:1
+  basis: The passage says human hair is largely used in making waist-girdles, string,
+    and other articles.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hair donors or sources
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage says each individual’s hair is regulated and that everyone presents
+    hair to someone else.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: hypothetical hair-stealer
+  assigned_to:
+  - fig:2
+  basis: The passage describes an evil-minded person who could secure a clipping or
+    steal hair-string.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: potential victim of hair magic
+  assigned_to:
+  - fig:3
+  basis: The passage describes the person whom the malicious actor desires to injure
+    and the person from whom the hair has been cut.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: hair recipient or custodian
+  assigned_to:
+  - fig:4
+  basis: The passage says hair is given to someone else and that a malicious person
+    could learn to whom it was given.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: human hair
+  literal_form: Human hair, including hair of each individual dead or alive and possible
+    clippings.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: string made from hair
+  literal_form: A bit of string made from the hair of the person whom someone desires
+    to injure.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: burning or charm performed on hair
+  literal_form: Burning hair or performing a magic charm on hair cut from a person.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: regulated use and circulation of hair
+  summary: Human hair is used for manufactured articles, its disposal is strictly
+    regulated and valued, and people give hair to others at stated times.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: hypothetical theft of hair-string
+  summary: A malicious person could identify the recipient of another person’s hair
+    and steal string made from the intended victim’s hair.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: absence of harmful hair magic among the described tribes
+  summary: Despite the possibility of acquiring another person’s hair, people are
+    not afraid of hair possession and do not attempt to injure others by burning or
+    charming the hair.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: regulated exchange and custody of hair
+  taxonomy_refs: []
+  basis: The passage describes strict rules over hair disposal, high value placed
+    on hair, and regular presentation of hair to others.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic practice pattern rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: theft of a personal substance as a possible means of harm
+  taxonomy_refs: []
+  basis: The passage describes how a malicious person could locate the recipient of
+    someone’s hair and steal string made from the target’s hair.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The act is described as an easy hypothetical possibility, not as an actual
+    reported occurrence among the described tribes.
+- id: motif:3
+  label: hair-based injuring magic
+  taxonomy_refs: []
+  basis: The passage identifies a form of magic in which hair is burned or charmed
+    with the idea of injuring the person from whom it was cut, while stating that
+    this is not attempted among the described tribes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The motif is explicitly negated for the described tribes and is attributed
+    generally to other groups without named examples.
+comparison_claims:
+- id: claim:1
+  claim: The passage contrasts the described tribes with other groups, including other
+    parts of Australia, by stating that hair-burning or hair-charm injury magic is
+    common elsewhere but not attempted among these tribes.
+  claim_level: same_function
+  target: Hair-based injuring magic among other groups, including other parts of Australia,
+    as stated by the passage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name the other groups, provide a specific parallel
+    text, or document particular cases outside the described tribes.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23562-23566
+  quote_or_summary: Human hair is widely used to make articles such as waist-girdles
+    and string; disposal of each individual's hair is strictly regulated and valued.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 23566-23569
+  quote_or_summary: People present their hair to someone else at stated times, making
+    it comparatively easy for a malicious person to secure a clipping.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 23569-23574
+  quote_or_summary: A malicious person could learn to whom the hair was given and
+    steal string made from the hair of the person he wants to injure.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 23574-23576
+  quote_or_summary: The passage says no one fears another person possessing his or
+    her hair and that no such magic is attempted among these tribes.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 23576-23580
+  quote_or_summary: The passage describes a form of magic, said to be common elsewhere,
+    in which hair is burned or charmed to injure the person from whom it was cut.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is direct. Motif and comparison confidence is limited
+    because the passage mostly describes a negated or hypothetical magical practice
+    and gives only a broad comparison to unnamed other groups.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family fits the hair-magic pattern directly; taxonomy references are therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l23562-l23580
+  passage_sha256=cc858cc9592869259c1e375e68b23f8bed9de2fc3d7f82ec466d2b7e9c70a905
+

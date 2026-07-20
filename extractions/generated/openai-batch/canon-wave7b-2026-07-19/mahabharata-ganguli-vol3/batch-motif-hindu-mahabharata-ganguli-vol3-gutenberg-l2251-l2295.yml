@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l2251-l2295
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12 / BOOK 8; lines 2251-2295'
+  start: '2251'
+  end: '2295'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the brother against the brother
+  summary: Sanjaya narrates a fierce battlefield duel between Sahadeva and Duhshasana.
+    They exchange arrows, cut down each other's weapons, and hurl swords. Sahadeva
+    finally pierces Duhshasana with a powerful shaft, causing him to swoon; Duhshasana's
+    driver removes him from battle, and Sahadeva turns against Duryodhana's division.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Duhshasana advances against Sahadeva while Sahadeva is attacking the host.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The combat is explicitly described as brother against brother.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Both warriors use bows and arrows, and both cut or intercept incoming weapons.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Sahadeva hurls a large sword that cuts off Duhshasana's bow before falling
+    to the earth with a snake simile.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Duhshasana hurls a sword at Sahadeva, but Sahadeva cuts it down with shafts.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sahadeva shoots a terrible shaft that pierces Duhshasana's armour and body
+    and enters the earth with a snake-entering-ant-hill simile.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Duhshasana swoons, and his driver removes his car from the field while under
+    arrow-strikes.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After defeating Duhshasana, Sahadeva begins to crush Duryodhana's division,
+    compared to a wrathful man crushing a swarm of ants.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sanjaya
+  description: Narrator of the battle episode.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sahadeva
+  description: A son of Pandu who fights Duhshasana, wounds him, and then attacks
+    Duryodhana's division.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Duhshasana
+  description: A Kuru warrior and son of the addressed king; he fights Sahadeva, is
+    pierced, and swoons.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Duhshasana's driver
+  description: The charioteer who removes Duhshasana's car after Duhshasana loses
+    consciousness.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Duryodhana's division
+  description: The military division attacked by Sahadeva after Duhshasana is vanquished.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Kaurava host
+  description: The host crushed by Sahadeva after the duel.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: battle narrator
+  assigned_to:
+  - fig:1
+  basis: The passage opens with Sanjaya reporting the battle events.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Pandu-side combatant
+  assigned_to:
+  - fig:2
+  basis: Sahadeva is called a mighty son of Pandu and fights Duhshasana.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: Kuru-side combatant
+  assigned_to:
+  - fig:3
+  basis: Duhshasana is identified as the king's son and a Kuru warrior fighting Sahadeva.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: victor in duel
+  assigned_to:
+  - fig:2
+  basis: Sahadeva's shaft pierces Duhshasana, and the passage says Sahadeva vanquished
+    the Kuru warrior.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: defeated warrior
+  assigned_to:
+  - fig:3
+  basis: Duhshasana swoons and is taken away after being pierced.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: rescuing charioteer
+  assigned_to:
+  - fig:4
+  basis: The driver removes Duhshasana's car when Duhshasana is deprived of senses.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: defeated or attacked host
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: After the duel, Sahadeva turns upon Duryodhana's division and the Kaurava
+    host.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpent-like falling sword
+  literal_form: A large sword falling to earth like a snake from the firmament.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: serpent-like penetrating shaft
+  literal_form: A shaft entering the earth like a snake penetrating an ant-hill.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: death-like weapon
+  literal_form: A shaft bright as the rod of Death and a terrible shaft resembling
+    the Destroyer.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: ant swarm image
+  literal_form: The Kaurava host compared to a swarm of ants crushed by a wrathful
+    man.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Kin duel begins
+  summary: Duhshasana advances against Sahadeva, and the assembled warriors react
+    as the two engage in combat described as brother against brother.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exchange and interception of weapons
+  summary: The warriors wound one another with arrows, cut bows and shafts, and hurl
+    swords that are intercepted or cut down.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Sahadeva pierces Duhshasana
+  summary: Sahadeva shoots a terrible shaft through Duhshasana's armour and body;
+    Duhshasana swoons and is removed by his driver.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Attack on Duryodhana's division
+  summary: After defeating Duhshasana, Sahadeva attacks Duryodhana's division and
+    the Kaurava host, which is likened to ants being crushed.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: kin-against-kin battlefield combat
+  taxonomy_refs:
+  - sibling_pair
+  basis: The duel is framed as brother against brother, with Sahadeva and Duhshasana
+    fighting directly on the battlefield.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage uses the phrase brother against brother, but the wider genealogical
+    relationship is not established within this excerpt; the taxonomy link is therefore
+    broad and should be reviewed.
+- id: motif:2
+  label: serpent imagery for weapons in battle
+  taxonomy_refs:
+  - serpent
+  basis: A falling sword and a penetrating shaft are both compared to snakes.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a recurring image within the passage rather than a full narrative
+    motif by itself.
+- id: motif:3
+  label: single warrior routs a host after duel
+  taxonomy_refs: []
+  basis: After vanquishing Duhshasana, Sahadeva attacks and crushes Duryodhana's division
+    and the Kaurava host.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives a brief summary of the rout without extended narrative
+    development.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2251-2258
+  quote_or_summary: Sanjaya reports that Duhshasana proceeds against Sahadeva; the
+    encounter is described as brother against brother, and warriors shout and wave
+    garments as the combat begins.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2258-2268
+  quote_or_summary: Duhshasana strikes Sahadeva with arrows; Sahadeva wounds Duhshasana
+    and his driver; Duhshasana cuts Sahadeva's bow; Sahadeva hurls a sword that cuts
+    off Duhshasana's bow and falls like a snake from the firmament.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2268-2278
+  quote_or_summary: Sahadeva shoots a deadly shaft; Duhshasana cuts it into two fragments,
+    hurls a sword, and Sahadeva cuts down the sword with shafts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2269-2287
+  quote_or_summary: 'The warriors continue arrow exchanges: Duhshasana sends many
+    shafts; Sahadeva cuts them down; Duhshasana cuts Sahadeva''s arrows and shouts;
+    Duhshasana then strikes Sahadeva and his driver.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2287-2292
+  quote_or_summary: Sahadeva fixes a terrible shaft resembling the Destroyer on his
+    bow-string and shoots it; it pierces Duhshasana's armour and body and enters the
+    earth like a snake penetrating an ant-hill.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 2292-2295
+  quote_or_summary: Duhshasana swoons; his driver carries away the car while being
+    struck with arrows; Sahadeva, having vanquished him, attacks Duryodhana's division
+    and crushes the Kaurava host like ants.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main actions, figures, and images are explicit in the supplied passage.
+    Motif labels beyond the literal martial episode are cautious, especially the sibling-pair
+    taxonomy reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added because the passage itself does not support a specific comparison beyond its internal imagery and available taxonomy references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l2251-l2295
+  passage_sha256=e4823d49420d0e90658b0f568b795dad68df554a4b19cc03d4ee6a41536d5b3b
+

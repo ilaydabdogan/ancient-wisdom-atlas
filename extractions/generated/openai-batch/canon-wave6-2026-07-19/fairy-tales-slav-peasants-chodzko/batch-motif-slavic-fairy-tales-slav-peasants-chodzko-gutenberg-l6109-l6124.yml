@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.slavic-fairy-tales-slav-peasants-chodzko-gutenberg-l6109-l6124
+source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+passage_locator:
+  label: THE PRINCE WITH THE GOLDEN HAND / THE PRINCE WITH THE GOLDEN HAND / IMPERISHABLE
+    / OHNIVAK; lines 6109-6124
+  start: '6109'
+  end: '6124'
+  translation: Fairy Tales of the Slav Peasants and Herdsmen
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"I alone have succeeded in obtaining the Fire-Bird, the Horse with the Golden
+    Mane, and the Maid with the Golden Hair."'
+  summary: The youngest prince identifies himself to his father the king, recounts
+    his adventures, and names the magical prizes he obtained. Zlato-Vlaska reports
+    that the wicked brothers threatened her. The king has the brothers executed. The
+    prince marries Zlato-Vlaska, receives half the kingdom, and later succeeds the
+    old king.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The prince addresses the king as his father and sovereign and asks why he
+    has not recognized his youngest son.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prince says that he alone obtained the Fire-Bird, the Horse with the Golden
+    Mane, and the Maid with the Golden Hair.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The prince relates all his adventures.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Zlato-Vlaska says the wicked brothers had threatened to kill her if she betrayed
+    them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The wicked brothers tremble, and the indignant king orders them executed immediately.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The youngest prince marries Zlato-Vlaska, receives half the kingdom as a wedding
+    present, and later reigns after the old king dies.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: youngest prince
+  description: The king's youngest son, who says he obtained the Fire-Bird, the Horse
+    with the Golden Mane, and the Maid with the Golden Hair; he later marries Zlato-Vlaska
+    and reigns.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: king
+  description: The prince's father and sovereign; he orders the wicked brothers executed,
+    gives the youngest prince half the kingdom, and later dies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Zlato-Vlaska
+  description: A woman who reports that the wicked brothers threatened to kill her;
+    she later marries the youngest prince and is called the princess.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: wicked brothers
+  description: The men who threatened Zlato-Vlaska and tremble before being ordered
+    executed by the king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: successful youngest son
+  assigned_to:
+  - fig:1
+  basis: He identifies himself as the king's youngest son and claims sole success
+    in obtaining the three named prizes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father-sovereign and judge
+  assigned_to:
+  - fig:2
+  basis: The prince calls him father and sovereign; he orders the wicked brothers
+    executed and grants half the kingdom.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: threatened witness and bride
+  assigned_to:
+  - fig:3
+  basis: She reports the brothers' threat and later marries the youngest prince.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: condemned wicked brothers
+  assigned_to:
+  - fig:4
+  basis: They threatened Zlato-Vlaska, tremble when exposed, and are ordered executed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: royal successor
+  assigned_to:
+  - fig:1
+  basis: He receives half the kingdom and later reigns in the old king's stead.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Fire-Bird
+  literal_form: the Fire-Bird
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Horse with the Golden Mane
+  literal_form: the Horse with the Golden Mane
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Maid with the Golden Hair
+  literal_form: the Maid with the Golden Hair
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: half of the kingdom
+  literal_form: half of his kingdom as a wedding present
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Recognition before the king
+  summary: The prince addresses the king as father and sovereign, identifies himself
+    as the youngest son, and states that he obtained the three named prizes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Exposure and punishment of the brothers
+  summary: The prince recounts his adventures; Zlato-Vlaska reports the brothers'
+    threat; the brothers tremble and the king orders their execution.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Marriage and succession
+  summary: The youngest prince marries Zlato-Vlaska, receives half the kingdom, and
+    later reigns after the old king's death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal recognition and succession of the youngest son
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The prince is identified as the youngest son before the king, receives part
+    of the kingdom, and later reigns after the old king dies.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage gives the recognition and succession outcome but not the full
+    earlier narrative context.
+- id: motif:2
+  label: quest prizes as proof of achievement
+  taxonomy_refs:
+  - mystical_quest
+  basis: The prince says he alone obtained the Fire-Bird, the Horse with the Golden
+    Mane, and the Maid with the Golden Hair, and then recounts all his adventures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The actual quest episodes are only summarized in this passage.
+- id: motif:3
+  label: treacherous brothers exposed and punished
+  taxonomy_refs: []
+  basis: Zlato-Vlaska reports that the wicked brothers threatened to kill her; they
+    tremble and are ordered executed by the king.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage identifies their threat and punishment but does not restate
+    the full wrongdoing from earlier events.
+- id: motif:4
+  label: marriage reward with kingdom grant
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The youngest prince marries Zlato-Vlaska and receives half the kingdom as
+    a wedding present.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The marriage is royal and consequential, but the passage does not frame
+    it as a sacred or ritual marriage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6109-6113
+  quote_or_summary: The prince asks the king why he has not recognized his youngest
+    son and says he alone obtained the Fire-Bird, the Horse with the Golden Mane,
+    and the Maid with the Golden Hair.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 6115-6117
+  quote_or_summary: The prince relates all his adventures, and Zlato-Vlaska says the
+    wicked brothers had threatened to kill her if she betrayed them.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 6117-6120
+  quote_or_summary: The wicked brothers tremble, and the indignant king orders them
+    executed then and there.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 6122-6124
+  quote_or_summary: The youngest prince marries Zlato-Vlaska, receives half of the
+    kingdom as a wedding present, and later reigns after the old king's death.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited to what
+    is present in this closing passage; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not provide comparative evidence beyond local motif candidates.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-fairy-tales-slav-peasants-chodzko-gutenberg__l6109-l6124
+  passage_sha256=a2e472eb7e6b52ad72596ef653b818ee1b27b3fe97fcbec87167fd0c416d1975
+

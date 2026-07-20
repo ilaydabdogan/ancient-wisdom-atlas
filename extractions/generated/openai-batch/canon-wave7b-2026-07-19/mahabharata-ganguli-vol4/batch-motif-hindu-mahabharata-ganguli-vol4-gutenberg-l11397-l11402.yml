@@ -1,0 +1,160 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l11397-l11402
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION LXXIII / SECTION LXXIV / SECTION LXXV / SECTION LXXVI; lines 11397-11402
+  start: '11397'
+  end: '11402'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Yudhishthira said, "I desire, O king, to hear thee discourse in detail upon
+    those high ordinances which regulate gifts of kine..."
+  summary: Yudhishthira asks a king to explain in detail the high ordinances governing
+    gifts of kine, saying that gifts made according to those ordinances lead to innumerable
+    regions of eternal felicity.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira speaks and expresses a desire to hear a discourse in detail.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The requested topic is high ordinances regulating gifts of kine.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that making gifts of kine according to the ordinances leads
+    one to innumerable regions of eternal felicity.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yudhishthira addresses the listener as king.
+  category: relationship
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Speaker who requests instruction about the ordinances governing gifts
+    of kine.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: king addressed by Yudhishthira
+  description: Addressee from whom Yudhishthira wishes to hear a detailed discourse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioner requesting instruction
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira says he desires to hear a detailed discourse.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed king and intended teacher
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira addresses the figure as king and asks to hear him discourse.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: kine as gift objects
+  literal_form: kine given as gifts according to ordinances
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: regions of eternal felicity
+  literal_form: innumerable regions of eternal felicity attained through properly
+    regulated gifts
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Request for discourse on gifts of kine
+  summary: Yudhishthira asks the addressed king to explain the ordinances for gifts
+    of kine and states the promised attainment connected with following those ordinances.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: ritually regulated gift leading to blessed regions
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage connects gifts of kine made according to prescribed ordinances
+    with attaining regions of eternal felicity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage frames the exchange in didactic religious terms, but gives
+    no narrative episode of an actual gift being performed.
+- id: motif:2
+  label: request for wisdom about sacred ordinances
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira requests a detailed discourse on high ordinances.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt contains only the request for instruction, not the subsequent
+    teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11397-11402
+  quote_or_summary: Yudhishthira says he desires, “O king,” to hear a detailed discourse
+    on high ordinances regulating gifts of kine.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 11397-11402
+  quote_or_summary: The passage states that gifts of kine made according to those
+    ordinances lead to innumerable regions of eternal felicity.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The speaker, topic, and stated reward are explicit. Motif labeling is limited
+    by the brevity of the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself compare this pattern with another text or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l11397-l11402
+  passage_sha256=dcf3536715be313e243a9def0a20bf11fdee3826db9415c8341c7c1c735f0e63
+

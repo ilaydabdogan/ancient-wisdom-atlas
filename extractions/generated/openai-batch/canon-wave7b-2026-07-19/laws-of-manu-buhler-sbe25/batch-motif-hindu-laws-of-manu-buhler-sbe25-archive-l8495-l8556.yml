@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l8495-l8556
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: II,  S3-  SACRAMENTS.  35 / D   2 / LAWS    OF    MANU. / II,  34-; lines
+    8495-8556
+  start: '8495'
+  end: '8556'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage prescribes timings for early childhood sacraments: first leaving
+    the house in the fourth month, first feeding with rice in the sixth month, tonsure
+    in the first or third year, and upanayana initiation at class-specific years after
+    conception. It also gives optional earlier initiation timings linked to aims such
+    as sacred learning, power, or business, and includes notes citing related ritual
+    and legal sources.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The child's first leaving of the house is prescribed for the fourth month.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The child's first feeding with rice is prescribed for the sixth month.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage permits optional auspicious ceremonies required by family custom.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:4
+  text: The tonsure rite is prescribed for all twice-born men in the first or third
+    year, for spiritual merit and according to revealed texts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Upanayana initiation is prescribed in the eighth year after conception for
+    a Brahmana, the eleventh for a Kshatriya, and the twelfth for a Vaisya.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'Alternative earlier initiation timings are given according to desired outcomes:
+    fifth year for a Brahmana linked with sacred learning, sixth year for a Kshatriya
+    linked with power, and eighth year for a Vaisya linked with business success.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note states that the person who has the special wish in the preceding rule
+    is the father, not the boy.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Editorial notes cite other ritual and legal texts in connection with these
+    sacrament and initiation rules.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the child
+  description: Recipient of the first leaving of the house, first feeding with rice,
+    and optional family auspicious ceremonies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: twice-born men
+  description: Those for whom the tonsure rite is prescribed in the first or third
+    year.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Brahmana
+  description: A Brahmana is assigned an upanayana timing in the eighth year after
+    conception, with an alternative fifth-year timing when sacred learning is desired.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Kshatriya
+  description: A Kshatriya is assigned an upanayana timing in the eleventh year after
+    conception, with an alternative sixth-year timing when power is desired.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Vaisya
+  description: A Vaisya is assigned an upanayana timing in the twelfth year after
+    conception, with an alternative eighth-year timing when business success is desired.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: father
+  description: Identified in the note as the person who has the particular wish related
+    to the alternative initiation timing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: recipient of early childhood sacraments
+  assigned_to:
+  - fig:1
+  basis: The child receives prescribed rites in the fourth and sixth months, with
+    optional family ceremonies.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: subject of tonsure obligation
+  assigned_to:
+  - fig:2
+  basis: The tonsure must be performed for all twice-born men in the first or third
+    year.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: class-specific initiate
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage assigns upanayana timings by Brahmana, Kshatriya, and Vaisya
+    status, including alternative timings by desired outcome.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: holder of desired outcome
+  assigned_to:
+  - fig:6
+  basis: The note says the person with the particular wish is the father rather than
+    the boy.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: rice at first feeding
+  literal_form: rice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: house in first-leaving rite
+  literal_form: house
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Early infant sacraments by month
+  summary: The passage prescribes the child's first departure from the house in the
+    fourth month, first feeding with rice in the sixth month, and optional auspicious
+    ceremonies according to family custom.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Tonsure in the first or third year
+  summary: The passage prescribes tonsure for twice-born men in the first or third
+    year for spiritual merit.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Upanayana timing by class and aim
+  summary: The passage prescribes upanayana initiation timings for Brahmana, Kshatriya,
+    and Vaisya recipients, and gives alternate earlier timings tied to desired outcomes;
+    a note attributes the wish to the father.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Childhood sacrament sequence
+  taxonomy_refs: []
+  basis: 'The passage lays out a chronological sequence of childhood rites: leaving
+    the house, first rice feeding, and tonsure.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a normative ritual prescription rather than a mythic narrative
+    episode.
+- id: motif:2
+  label: Initiation timed by social class and desired outcome
+  taxonomy_refs:
+  - initiation
+  basis: Upanayana initiation is explicitly named and assigned to Brahmana, Kshatriya,
+    and Vaisya recipients at different years, with alternate timings tied to aims
+    such as sacred learning, power, and business success.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives rules for timing; it does not narrate an initiation
+    performance.
+- id: motif:3
+  label: Family-custom adaptation of auspicious rites
+  taxonomy_refs: []
+  basis: The passage allows other auspicious ceremonies required by family custom,
+    and a note says the family-custom clause applies to all sacraments.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: This is a legal-ritual flexibility pattern, not a symbolic narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The editorial notes place these sacrament and initiation prescriptions in
+    relation to nearby ritual and legal corpus sources, supporting a cautious same-function
+    comparison for rite timing rules.
+  claim_level: same_function
+  target: Grhya-sutra and Dharmasutra sources cited in the notes, including A^v. Grz'hya-sutra,
+    Paraskara, Ap., Gaut., Vas., Baudh., Vi., and Yagn.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The notes provide citations rather than quoted parallel passages, so
+    this claim is limited to cited functional proximity and does not establish exact
+    motif identity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: II.34 within lines 8495-8556
+  quote_or_summary: The child's first leaving of the house is to be performed in the
+    fourth month, first feeding with rice in the sixth month, and optionally other
+    auspicious family ceremonies.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:2
+  type: summary
+  locator: II.35 within lines 8495-8556
+  quote_or_summary: According to revealed texts, the tonsure must be performed for
+    all twice-born men in the first or third year for spiritual merit.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:3
+  type: summary
+  locator: II.36 within lines 8495-8556
+  quote_or_summary: Upanayana initiation is prescribed in the eighth year after conception
+    for a Brahmana, the eleventh for a Kshatriya, and the twelfth for a Vaisya.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:4
+  type: summary
+  locator: II.37 within lines 8495-8556
+  quote_or_summary: 'Alternative timings are given: fifth year for a Brahmana when
+    sacred learning is desired, sixth year for a Kshatriya when power is desired,
+    and eighth year for a Vaisya when business success is desired.'
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:5
+  type: note
+  locator: note to II.37 within lines 8495-8556
+  quote_or_summary: The note says commentators explain that the person with the particular
+    wish is the father, not the boy.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:6
+  type: citation
+  locator: notes to II.34-35 within lines 8495-8556
+  quote_or_summary: The notes cite A^v. Grz'hya-sutra and Paraskara in connection
+    with the early sacraments and tonsure, and state that the family-custom clause
+    refers to all sacraments according to named commentators.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:7
+  type: citation
+  locator: note to II.36-37 within lines 8495-8556
+  quote_or_summary: The note cites Ap., Gaut., Vas., Baudh., Vi., and Yagn. in connection
+    with the initiation timing rules.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main ritual prescriptions are clear, but the supplied passage contains
+    OCR/transliteration artifacts and an incomplete opening of verse II.38; no substantive
+    extraction was made from the incomplete verse.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Literal ritual prescriptions are separated from motif candidates and comparison claims.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l8495-l8556
+  passage_sha256=6f827e6e8787a692885b0bc2705f7565caaf6fcf4f3938742ff8bcff03fa1bae
+

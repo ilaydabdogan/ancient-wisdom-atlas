@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l1100-l1115
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: BACHELORS' HOUSES / BACHELORS' HOUSES / BACHELORS' HOUSES / BACHELORS' HOUSES;
+    lines 1100-1115
+  start: '1100'
+  end: '1115'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that if a mispil becomes pregnant, one of the men of
+    the failu must take her as wife, build her a house, and raise a separate family.
+    The author says this arrangement is socially adjustable and not disgraceful in
+    that community. The wife of Lian, Chief of Dulukan, is described as bearing a
+    telltale tattoo on her hands and legs while maintaining high social standing with
+    her husband. The author concludes that this feature of the failu seems less immoral
+    because it lacks grossness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: If a mispil becomes pregnant, responsibility falls to one of the men of the
+    failu to marry her.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man who marries the pregnant mispil is expected to build a house for her
+    and raise his own separate family.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the community's social relations and morality make the compulsory
+    marriage adjustable and not a disgrace.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wife of Lian, Chief of Dulukan, is described as having a telltale tattoo
+    on her hands and legs.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Lian and his wife are described as holding high social standing in the community.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author comments that this feature of the failu loses part of its perceived
+    immorality because it lacks grossness.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: mispil
+  description: A female person described as capable of becoming pregnant and then
+    being taken as wife by a man of the failu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: one of the men of the failu
+  description: A man from the failu who must take a pregnant mispil as wife, build
+    a house for her, and raise a separate family.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: wife of Lian
+  description: The wife of Lian, described as having a telltale tattoo on her hands
+    and legs and high community standing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Lian, Chief of Dulukan
+  description: The author's friend and Chief of Dulukan, husband of the tattooed woman
+    mentioned in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: pregnant mispil subject to compulsory marriage
+  assigned_to:
+  - fig:1
+  basis: The passage says that if a mispil becomes enceinte, one of the men of the
+    failu must take her as wife.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: obligated husband and house-builder
+  assigned_to:
+  - fig:2
+  basis: The man of the failu must marry the pregnant mispil, build her a house, and
+    raise a separate family.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: tattooed wife with high social standing
+  assigned_to:
+  - fig:3
+  basis: She is described as bearing tattoos on hands and legs and holding her social
+    head high in the community.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: chief and husband
+  assigned_to:
+  - fig:4
+  basis: Lian is identified as Chief of Dulukan and associated with his wife in the
+    community-standing statement.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: telltale tattoo
+  literal_form: tattoo on hands and legs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: house for the wife
+  literal_form: house built for the pregnant mispil after marriage
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Compulsory marriage after pregnancy
+  summary: A pregnant mispil is to be taken as wife by one of the men of the failu;
+    he must build her a house and establish a separate family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Tattooed wife of Lian as social example
+  summary: The wife of Lian, Chief of Dulukan, is presented as having a telltale tattoo
+    and still sharing high standing with her husband in the community.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: pregnancy leading to socially mandated marriage
+  taxonomy_refs: []
+  basis: The passage describes pregnancy of a mispil triggering an obligation for
+    a man of the failu to marry her and create a household.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic social custom in the passage rather than a narrated
+    mythic episode; no supplied taxonomy family clearly applies.
+- id: motif:2
+  label: tattoo as visible social marker
+  taxonomy_refs: []
+  basis: The passage notes a telltale tattoo on the wife of Lian's hands and legs
+    and connects her to high standing in the community.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the tattoo's origin, ritual meaning, or symbolic
+    function beyond its visible and telltale character.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1100-1105
+  quote_or_summary: If a mispil becomes pregnant, one man of the failu must take her
+    as wife, build her a house, and raise a separate family.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1105-1108
+  quote_or_summary: The author says the local scheme of social relations and morality
+    makes such a compulsory marriage adjustable and not a disgrace.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1108-1113
+  quote_or_summary: Lian's wife is described as showing an unmistakable telltale tattoo
+    on hands and legs, while both she and Lian maintain high standing in the community.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 1114-1115
+  quote_or_summary: The author concludes that this feature of the failu appears less
+    immoral to austere observers because it lacks grossness.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal social details are explicit. Motif labeling is cautious because the
+    passage is ethnographic description rather than mythic narrative, and no supported
+    comparison claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif reference was assigned because the passage does not clearly support one from the supplied lists.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l1100-l1115
+  passage_sha256=654d8438a2bb1d50e18b9e1d239c924d38400b4859079f64f5e43d1a78e4aabc
+

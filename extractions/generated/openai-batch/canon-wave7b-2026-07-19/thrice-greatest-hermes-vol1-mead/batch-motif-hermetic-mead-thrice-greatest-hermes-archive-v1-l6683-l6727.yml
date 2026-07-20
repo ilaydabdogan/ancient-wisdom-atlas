@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.hermetic-mead-thrice-greatest-hermes-archive-v1-l6683-l6727
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+passage_locator:
+  label: MAIN SOURCE OF TRISMEGISTIC LITERATURE 105 / MAIN SOURCE OF TRISMEGISTIC
+    LITERATURE 107 / MAIN SOURCE OF TRISMEGISTIC LITERATURE 109 / MAIN SOURCE OF TRISMEGISTIC
+    LITERATURE 113; lines 6683-6727
+  start: '6683'
+  end: '6727'
+  translation: 'Thrice-Greatest Hermes, Vol. I: Prolegomena'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“underground galleries and passages full of windings”"
+  summary: The passage quotes Ammianus Marcellinus on underground winding galleries
+    in pyramids or temples, made by adepts who foresaw a flood and engraved hieroglyphic
+    animal and otherworldly figures to preserve sacred ceremonies. Mead then connects
+    these monuments with traditions of books or records preserved from the Flood and
+    references to Sanchuniathon and Manetho. A quoted statement also links ancient
+    monuments of Hermes with Plato and Pythagoras.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Ammianus Marcellinus is presented as preserving a report about a construction
+    feature of some pyramids or temples.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The reported structures include underground galleries and winding passages
+    distributed inside buildings and mined or hewn with labor.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The builders are described as adepts in ancient rites who knew a flood was
+    coming and feared the memory of sacred ceremonies would be obliterated.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The adepts leveled walls and engraved them with many birds, animals, and varieties
+    of otherworldly creatures.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The engraved figures are identified in the quoted passage as hieroglyphic
+    characters.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Mead identifies the account as another feature of Seriadic monuments and connects
+    it with traditions of books preserved from the Flood.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says that Sanchuniathon and Manetho refer to these records.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A quoted statement says philosophical problems could be resolved according
+    to ancient monuments of Hermes and that Plato and Pythagoras founded their philosophy
+    on studying them.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ammianus Marcellinus
+  description: Historian named as preserving the report about the construction of
+    some pyramids or temples.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: adepts in the ancient rites
+  description: Builders who, knowing a flood was coming, constructed underground galleries
+    and engraved the walls.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Sanchuniathon and Manetho
+  description: Named authorities said to make reference to the records connected with
+    the Flood-preserved books tradition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Plato and Pythagoras
+  description: Philosophers said in the quoted statement to have founded their philosophy
+    on studying ancient monuments of Hermes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Hermes
+  description: Named in connection with ancient monuments used as a source for philosophical
+    resolution and study.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: reporting historian
+  assigned_to:
+  - fig:1
+  basis: The passage says Ammianus Marcellinus preserved the cited construction detail.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual adepts as builders
+  assigned_to:
+  - fig:2
+  basis: The adepts are said to have constructed underground galleries and passages
+    in buildings.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: preservers of sacred ceremonial memory
+  assigned_to:
+  - fig:2
+  basis: They feared sacred ceremonies would be forgotten and engraved signs on walls
+    before the flood.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: referenced record authorities
+  assigned_to:
+  - fig:3
+  basis: The passage says Sanchuniathon and Manetho refer to these records.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: philosophers linked to ancient Hermetic monuments
+  assigned_to:
+  - fig:4
+  basis: The quoted statement says Plato and Pythagoras founded their philosophy on
+    thorough study of the monuments.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: eponym of ancient monuments
+  assigned_to:
+  - fig:5
+  basis: The quoted statement names the monuments as monuments of Hermes.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: coming flood
+  literal_form: flood
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: underground winding passages
+  literal_form: underground galleries and passages full of windings
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: hieroglyphic animal and otherworldly engravings
+  literal_form: wall engravings of birds, animals, and creatures of another world
+    called hieroglyphic characters
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: books preserved from the Flood
+  literal_form: Books preserved from the Flood; records associated with Seriadic monuments
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: ancient monuments of Hermes
+  literal_form: ancient monuments of Hermes
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Subterranean preservation before the flood
+  summary: Adepts in ancient rites, expecting a flood, construct underground winding
+    galleries inside monuments and engrave walls with hieroglyphic animal and otherworldly
+    figures to preserve sacred ceremonial memory.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Seriadic monuments and Flood-preserved records
+  summary: The author connects the described monuments with traditions of books or
+    records preserved from the Flood and with references by Sanchuniathon and Manetho.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Hermes monuments as philosophical authority
+  summary: A quoted statement presents ancient monuments of Hermes as a source for
+    resolving philosophical problems and as the basis studied by Plato and Pythagoras.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred knowledge preserved against flood destruction
+  taxonomy_refs:
+  - flood_and_renewal
+  - wisdom
+  basis: The adepts foresee a flood, fear loss of sacred ceremonies, and inscribe
+    hieroglyphic records; the author explicitly connects the account with books preserved
+    from the Flood.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage emphasizes preservation of ritual memory, not survival of
+    people or a full post-flood renewal narrative.
+- id: motif:2
+  label: subterranean monument as hidden archive
+  taxonomy_refs:
+  - wisdom
+  basis: The record-preserving signs are placed in underground winding galleries and
+    passages within monumental buildings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes architectural concealment and preservation; it does
+    not narrate an initiation journey through the passages.
+- id: motif:3
+  label: ancient Hermetic monuments as source of philosophy
+  taxonomy_refs:
+  - wisdom
+  basis: A quoted statement presents monuments of Hermes as a source for resolving
+    philosophical problems and as foundational for Plato and Pythagoras.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The immediate context of the quoted statement is fragmentary in the supplied
+    passage, and the claim is reported rather than demonstrated.
+comparison_claims:
+- id: claim:1
+  claim: The author explicitly associates the Seriadic monument account with traditions
+    of “Books preserved from the Flood,” indicating a shared motif of preserving sacred
+    records against flood destruction.
+  claim_level: same_motif
+  target: Books preserved from the Flood traditions; records referenced by Sanchuniathon
+    and Manetho
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an authorial comparison within an antiquarian discussion; the
+    passage does not provide the separate Sanchuniathon or Manetho texts.
+- id: claim:2
+  claim: The quoted statement presents ancient monuments of Hermes as a source tradition
+    for Platonic and Pythagorean philosophy.
+  claim_level: historical_contact
+  target: Platonic and Pythagorean philosophical traditions
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage supplies only the assertion; no external corroborating
+    detail is included, and the context is fragmentary.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6683-6727
+  quote_or_summary: Ammianus is cited on “underground galleries and passages full
+    of windings” in the interior of buildings, mined out with great labor.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 6683-6727
+  quote_or_summary: Adepts in ancient rites, knowing a flood was coming and fearing
+    the memory of sacred ceremonies would be obliterated, constructed the galleries
+    in various places.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 6683-6727
+  quote_or_summary: They engraved the walls with “birds and animals” and “creatures
+    of another world,” called hieroglyphic characters.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 6683-6727
+  quote_or_summary: Mead says these are another peculiarity of the Seriadic monuments
+    and of the “Books preserved from the Flood,” records to which Sanchuniathon and
+    Manetho refer.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized with short title phrase.
+- id: ev:5
+  type: summary
+  locator: lines 6683-6727
+  quote_or_summary: A quoted statement says philosophical problems may be resolved
+    according to the ancient monuments of Hermes, on which Plato and Pythagoras founded
+    their philosophy after thorough study.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The core flood-preservation motif is explicit in the quoted Ammianus passage
+    and Mead’s commentary. Some surrounding material is fragmentary, so claims involving
+    Hermes, Plato, and Pythagoras require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata; no external validation of Mead’s historical claims has been added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hermetic-mead-thrice-greatest-hermes-archive-v1__l6683-l6727
+  passage_sha256=c7b7744162a76282690b4d617baf47e6cab9319df688cfcbecbb428752a68d7c
+

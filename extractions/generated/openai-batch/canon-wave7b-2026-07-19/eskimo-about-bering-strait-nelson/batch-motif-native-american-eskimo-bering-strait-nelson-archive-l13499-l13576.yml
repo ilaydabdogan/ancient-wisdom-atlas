@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l13499-l13576
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: BREAST    YOKES / THE    ESKIMO    ABOUT    BERING    STRAIT / SNOWSHOES
+    / SNOWSHOES; lines 13499-13576
+  start: '13499'
+  end: '13576'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes several forms of snowshoes from Cape Darby, Icy Cape,
+    St Lawrence Island, and the Asiatic coast, emphasizing frame shape, lashings,
+    netting, and uses on land, frozen snow, and rough sea ice. It then describes ice
+    staffs carried during sea-ice travel or hunting to test thin places concealed
+    by drifted snow before stepping.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Cape Darby snowshoe is described with a rim tapering backward to a point
+    at the heel, rawhide lashing, crosscords near the upturned toe, and a rawhide-cord
+    foot-rest.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Icy Cape snowshoe is roughly oval, pointed at the heel, filled before and
+    behind the crossbars with fine babiche netting, and described as intermediate
+    between land-use and sea-ice snowshoes.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A St Lawrence Island snowshoe is short and stout, with an oblong framework,
+    an abruptly upturned toe, whalebone lashing, and coarse rectangular and diagonal
+    netting.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The coarsely netted St Lawrence Island shoes are intended for frozen snow
+    or rough sea ice, where broken ice has openings large enough for a foot to pass
+    through.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that these shoes enable hunters to travel safely and sometimes
+    pass over weak places where new ice would not otherwise support them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Eskimo on the Asiatic coast are said to use snowshoes similar to those from
+    St Lawrence Island, as well as somewhat more elongated shoes with a similar general
+    pattern.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Traveling or hunting on sea ice is described as risky because thin places
+    may be concealed by drifted snow.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: An ice staff is described as a stout wooden staff with an ivory or bone point,
+    sinew wrapping, a hoop of bone or deerhorn, a ring of bone or horn, and rawhide
+    cross-lashings forming netting.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When walking over suspicious ice, the traveler plants the staff before taking
+    a step; if the ice is thin, the point goes through and the hoop prevents the staff
+    from sinking farther.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hunters and travelers on sea ice
+  description: People traveling or hunting on sea ice who use snowshoes and ice staffs
+    for safer movement over rough, weak, or thin ice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Eskimo on the Asiatic coast
+  description: A group described as using snowshoes similar to the St Lawrence Island
+    type, including some more elongated examples of similar general pattern.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sea-ice traveler or hunter
+  assigned_to:
+  - fig:1
+  basis: The passage refers to traveling or hunting on sea ice and describes tools
+    used to reduce the danger of weak or thin ice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: users of similar regional snowshoes
+  assigned_to:
+  - fig:2
+  basis: The passage states that Eskimo on the Asiatic coast use snowshoes similar
+    to those from St Lawrence Island.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Cape Darby snowshoe
+  literal_form: Snowshoe with tapered heel, rawhide lashing, upturned toe cords, crosscords,
+    and rawhide-cord foot-rest.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Icy Cape snowshoe
+  literal_form: Roughly oval snowshoe with pointed heel, babiche netting, rectangular
+    foot-rest netting, and intermediate land/sea-ice character.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: St Lawrence Island sea-ice snowshoe
+  literal_form: Short stout coarsely netted snowshoe used on frozen snow and rough
+    sea ice.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ice staff
+  literal_form: Stout wooden staff with ivory or bone point, hoop, ring, and rawhide
+    netting, used to test suspicious ice.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: thin sea ice concealed by snow
+  literal_form: Thin places in sea ice hidden by drifted snow, posing danger during
+    travel or hunting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Description of snowshoe forms
+  summary: The passage describes structural features of snowshoes from Cape Darby
+    and Icy Cape, including rim shape, heel point, toe construction, crossbars, netting,
+    and foot-rests.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Snowshoes used for travel on rough or weak ice
+  summary: St Lawrence Island snowshoes are described as suited to frozen snow and
+    rough sea ice, helping hunters avoid foot-sized openings and cross weak new ice;
+    similar snowshoes are also noted on the Asiatic coast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Testing suspicious ice with a staff
+  summary: During sea-ice travel or hunting, people carry an ice staff and plant it
+    before stepping; the point penetrates thin ice while the hoop prevents deeper
+    sinking.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: assisted travel across dangerous ice
+  taxonomy_refs: []
+  basis: Snowshoes are said to help hunters travel safely over frozen snow, rough
+    sea ice, broken ice openings, and weak newly made ice.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic material-culture pattern, not an explicitly mythic
+    or sacred motif in the passage.
+- id: motif:2
+  label: testing an unsafe path before stepping
+  taxonomy_refs: []
+  basis: The traveler plants the ice staff before taking a step; the point reveals
+    thin ice and the hoop prevents the staff from sinking farther.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a practical travel-safety sequence; no symbolic or ritual interpretation
+    is stated.
+- id: motif:3
+  label: regional variation in travel equipment
+  taxonomy_refs: []
+  basis: The passage contrasts Cape Darby, Icy Cape, St Lawrence Island, and Asiatic
+    coast snowshoes by form, netting, and intended use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a regional artifact pattern but does not present
+    a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: Icy Cape snowshoes are described as intermediate in character between land-use
+    snowshoes and those intended for sea-ice service.
+  claim_level: visual_similarity
+  target: land-use snowshoes and sea-ice snowshoes
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not give a full typology of land-use or sea-ice snowshoes
+    beyond this comparison.
+- id: claim:2
+  claim: Snowshoes used by Eskimo on the Asiatic coast are described as similar in
+    general pattern to the St Lawrence Island snowshoes, though some are more elongated.
+  claim_level: visual_similarity
+  target: St Lawrence Island snowshoes and Asiatic coast Eskimo snowshoes
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to material form and general pattern; no
+    historical contact or origin claim is made in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13499-13510
+  quote_or_summary: 'Cape Darby snowshoe details: heel rim tapers to a point and is
+    held by rawhide lashing; toe and crosscords replace toe netting; rawhide cord
+    forms the foot-rest.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: lines 13511-13522
+  quote_or_summary: 'Icy Cape snowshoe: roughly oval, pointed at heel, with fine babiche
+    netting and rectangular foot-rest; described as intermediate between land and
+    sea-ice shoes.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: lines 13523-13549
+  quote_or_summary: 'St Lawrence Island snowshoe: short, stout, upturned toe, whalebone
+    lashing, coarse rectangular and diagonal netting; intended for frozen snow and
+    rough sea ice, enabling safer travel over openings and weak ice; Asiatic coast
+    snowshoes are similar in general pattern.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: lines 13550-13568
+  quote_or_summary: Sea-ice travel or hunting risks breaking through thin places concealed
+    by drifted snow; people carry a stout wooden staff with ivory or bone point, sinew
+    wrapping, hoop, ring, and rawhide netting.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: lines 13569-13576
+  quote_or_summary: The traveler plants the staff before stepping on suspicious ice;
+    if the ice is thin, the point goes through but the hoop contacts a broader surface
+    and prevents further sinking.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a descriptive ethnographic account of snowshoes and ice staffs.
+    Literal artifact and travel-safety patterns are clear, but mythological or sacred
+    symbolism is not stated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family is directly supported by the passage. The symbols listed are literal artifacts or settings, with no inferred sacred meaning.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l13499-l13576
+  passage_sha256=a6071b2b49986fe7e72d50302644c349ef176193371514796ba232639bc6d672
+

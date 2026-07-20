@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l898-l921
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 898-921
+  start: '898'
+  end: '921'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Pentheus asks Dionysus how a god or divine figure came to him, whether
+    by day or night vision. Dionysus says the figure appeared clearly, examined his
+    soul, and placed emblems in his hand. When asked what the emblems are like, Dionysus
+    says they may not be revealed or known except by the Elect.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pentheus asks whether the referenced figure descended upon Dionysus in daylight
+    or in a night vision.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus says the figure stood clearly before him and scanned his soul.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dionysus says the figure gave emblems into his hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dionysus says the emblems may not be revealed or known except by the Elect.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The referenced figure is associated in Dionysus' speech with Thebes and Semelê.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: Speaker who questions Dionysus about the manner of a divine or visionary
+    descent and about the emblems.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Dionysus
+  description: Speaker who reports that a figure appeared clearly, scanned his soul,
+    gave him emblems, and that these emblems are restricted to the Elect.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Referenced figure whose seal was set on Semelê
+  description: Figure described as associated with Thebes and Semelê, as descending
+    upon Dionysus, standing clearly, scanning his soul, and giving emblems.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: the Elect
+  description: Group named as the only ones permitted to know or have the emblems
+    revealed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Pentheus asks how the figure descended and what the emblems are like.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: recipient of appearance and emblems
+  assigned_to:
+  - fig:2
+  basis: Dionysus reports that the figure stood before him, scanned his soul, and
+    gave emblems to his hand.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: keeper of restricted knowledge
+  assigned_to:
+  - fig:2
+  basis: Dionysus refuses to reveal the emblems except to the Elect.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: giver of emblems
+  assigned_to:
+  - fig:3
+  basis: The referenced figure is said to have given emblems to Dionysus' hand.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: authorized knowers
+  assigned_to:
+  - fig:4
+  basis: The Elect alone may have the emblems revealed or know them.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: emblems
+  literal_form: emblems given to Dionysus' hand
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: vision of night
+  literal_form: night vision proposed by Pentheus as one possible mode of descent
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: seal on Semelê
+  literal_form: seal said to have been set in Thebes on Semelê
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Question about descent and vision
+  summary: Pentheus asks Dionysus whether the figure descended upon him in daylight
+    or as a night vision.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Appearance and giving of emblems
+  summary: Dionysus reports that the figure appeared clearly, scanned his soul, and
+    gave emblems into his hand.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Restricted knowledge of emblems
+  summary: Pentheus asks what the emblems are like, and Dionysus says they cannot
+    be revealed or known except by the Elect.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: initiation through restricted sacred tokens
+  taxonomy_refs:
+  - initiation
+  basis: The passage describes emblems given by a divine or visionary figure and says
+    knowledge of them is limited to the Elect.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly describe a full initiation rite; the motif
+    is inferred from restricted emblems and the term Elect.
+- id: motif:2
+  label: secret or forbidden sacred knowledge
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Dionysus states that the emblems may not be revealed or known except by the
+    Elect.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage emphasizes restricted revelation rather than a transgression
+    involving forbidden knowledge.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 898-906
+  quote_or_summary: Pentheus asks Dionysus how the figure descended upon him, whether
+    in full day or in a night vision.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 907-912
+  quote_or_summary: Dionysus says the figure stood clearly, scanned his soul, and
+    gave emblems into his hand.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 913-921
+  quote_or_summary: Pentheus asks what the emblems are like; Dionysus says none may
+    reveal or know them except the Elect alone.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 898-901
+  quote_or_summary: Dionysus refers to a figure whose seal was set in Thebes on Semelê.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal dialogue is clear, but motif assignment is cautious because the passage
+    gives only a brief exchange and does not define the ritual status of the emblems.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims added because the passage itself does not support a specific comparison beyond candidate motif families.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l898-l921
+  passage_sha256=27cfad7f3a48170cff0d12b5bb2c0103671f05b47499ca2ef733e8f8365a004e
+

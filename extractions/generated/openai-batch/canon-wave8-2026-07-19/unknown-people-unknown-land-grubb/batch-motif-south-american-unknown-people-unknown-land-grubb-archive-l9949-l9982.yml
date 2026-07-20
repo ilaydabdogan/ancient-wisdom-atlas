@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l9949-l9982
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: DRUNKENNESS / SICKNESS / LANGUAGE DIFFICULTIES / IRREVERENCE; lines 9949-9982
+  start: '9949'
+  end: '9982'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“I did not think the Spirit would see me”"
+  summary: The passage describes mission instruction in orderly behavior, an elderly
+    man smoking during a discourse and attempting to conceal it under a blanket, and
+    later language-use misunderstandings in which station Indians learn English expressions,
+    including one man replacing “Amen” with “Good-night” at the end of prayer.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The instructors sought to create a meeting place for instruction as a first
+    step toward a church and told the people to behave in an orderly and respectful
+    manner.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator characterizes the people as generally reverent and says little
+    difficulty was found in securing orderly behavior.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An elderly man found the discourse long and lit his pipe during the meeting.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A more advanced native told the elderly man that smoking in that setting was
+    unseemly, and the elderly man extinguished the pipe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The elderly man later covered his head with a blanket and smoke rose through
+    the blanket.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When cautioned again, the elderly man replied that he did not think the Spirit
+    would see him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The station Indians acquired some expressions used by the instructors without
+    attempting to learn the instructors’ language systematically.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The instructors used handshaking, movement toward the door, and the phrase
+    “Good-night” to signal that a conversation was finished, regardless of the time
+    of day.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The people were taught to say “Amen” at the close of prayer.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The elderly man persisted for a time in saying “Good-night” rather than “Amen”
+    at the end of his prayer.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: mission instructors / narrator’s group
+  description: The group described as “we,” who instruct the station Indians, manage
+    visits, and teach prayer responses.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: station Indians
+  description: The local people in regular contact with the instructors, described
+    as learning some expressions and using “Amen” at prayer.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: elderly man
+  description: An elderly man, later described as a sincere Christian, who smokes
+    during instruction, hides under a blanket, and later says “Good-night” instead
+    of “Amen.”
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: more advanced native
+  description: A native described as more advanced who tells the elderly man that
+    smoking during the discourse is unseemly.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: religious instructors
+  assigned_to:
+  - fig:1
+  basis: They conduct instruction, establish expectations for conduct, and teach prayer
+    usage.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: learners in mission setting
+  assigned_to:
+  - fig:2
+  basis: They attend instruction and acquire expressions from the instructors.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: boundary-testing congregant
+  assigned_to:
+  - fig:3
+  basis: He smokes during a discourse, stops when warned, then conceals himself under
+    a blanket and smokes again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: partial user of learned formulas
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The station Indians use learned expressions, while the elderly man substitutes
+    “Good-night” for “Amen.”
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: corrector of conduct
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The instructors set rules of orderly conduct, and the more advanced native
+    cautions the elderly man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: pipe
+  literal_form: smoking pipe
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: blanket covering
+  literal_form: blanket over the head
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: smoke
+  literal_form: smoke rising through the blanket
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: prayer closing words
+  literal_form: "“Amen” and “Good-night” as spoken formulas"
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: Spirit as observer
+  literal_form: the Spirit invoked as one who might see the act
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Instructional meeting and smoking
+  summary: During a long discourse in a mission-instruction setting, an elderly man
+    lights his pipe; after being corrected, he extinguishes it, then covers his head
+    with a blanket and smokes again until smoke is visible.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Borrowed expressions and prayer formula
+  summary: The station Indians learn some expressions from the instructors; “Good-night”
+    becomes a dismissal cue, while “Amen” is taught as a prayer ending, and the elderly
+    man repeatedly uses “Good-night” in that prayer position.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: concealed breach of ritual decorum
+  taxonomy_refs: []
+  basis: In a religious instruction setting, the elderly man first stops smoking when
+    admonished, then covers his head with a blanket and smokes again, explaining that
+    he did not think the Spirit would see him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic anecdote rather than a myth narrative; the motif
+    label describes a local narrative pattern in the passage, not a formal taxonomy
+    identification.
+- id: motif:2
+  label: misapplied borrowed sacred formula
+  taxonomy_refs: []
+  basis: The passage contrasts the taught prayer ending “Amen” with the elderly man’s
+    persistent use of the conversational dismissal “Good-night” at the end of prayer.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage frames the event as a language-use anecdote; no broader comparative
+    motif is explicitly claimed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9949-9956
+  quote_or_summary: The instructors establish a meeting place for instruction, urge
+    orderly and respectful conduct, and say the people are generally reverent.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: public_domain; full_text allowed
+- id: ev:2
+  type: summary
+  locator: lines 9956-9963
+  quote_or_summary: An elderly man lights his pipe during a long discourse; a more
+    advanced native corrects him, and he extinguishes the pipe.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: public_domain; full_text allowed
+- id: ev:3
+  type: quote
+  locator: lines 9963-9970
+  quote_or_summary: The man covers his head with a blanket, smoke rises through it,
+    and when cautioned he replies, “I did not think the Spirit would see me.”
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: public_domain; full_text allowed
+- id: ev:4
+  type: summary
+  locator: lines 9971-9974
+  quote_or_summary: Station Indians in contact with the instructors acquire a few
+    of their expressions without trying to learn the language.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: public_domain; full_text allowed
+- id: ev:5
+  type: summary
+  locator: lines 9974-9979
+  quote_or_summary: The instructors use handshaking, movement toward the door, and
+    “Good-night” to end visits, and the Indians learn that this means the conversation
+    is finished.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: public_domain; full_text allowed
+- id: ev:6
+  type: summary
+  locator: lines 9979-9982
+  quote_or_summary: The instructors teach “Amen” for the close of prayer, but the
+    elderly man persists in saying “Good-night” instead.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: public_domain; full_text allowed
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif candidates are descriptive
+    and passage-local because the text is ethnographic anecdote rather than a mythic
+    narrative. No comparison claims are made because the passage itself does not support
+    a cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy refs were assigned; the passage does not directly support the supplied mythic motif-family or symbol taxonomy labels.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l9949-l9982
+  passage_sha256=ee0da7c88714e4f351a0094667ec9b907f3c6e04aa8e9ca8ba1352425e8c6d4c
+

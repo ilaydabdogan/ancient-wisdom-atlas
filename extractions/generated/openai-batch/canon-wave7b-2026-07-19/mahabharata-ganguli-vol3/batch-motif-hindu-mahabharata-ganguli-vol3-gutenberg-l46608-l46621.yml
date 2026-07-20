@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l46608-l46621
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXXI / SECTION CCXXII / SECTION CCXXIII / SECTION CCXXIV; lines
+    46608-46621
+  start: '46608'
+  end: '46621'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Formerly, all the worlds were under thy sway... dost thou or dost thou
+    not indulge in grief now”"
+  summary: Bhishma narrates that Sakra, laughing at Vali, addresses him. Sakra contrasts
+    Vali’s former splendid power over the worlds with his present desertion by kinsmen
+    and friends, and asks whether Vali grieves over the fall of his external splendour.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Bhishma introduces the speech and says Sakra addressed Vali while laughing
+    at him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vali is described as sighing like a snake.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sakra says Vali formerly moved with thousands of vehicles and kinsmen.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sakra says Vali formerly scorched all the worlds with his splendour and regarded
+    Sakra’s side as insignificant.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sakra says Vali is now deserted by both kinsmen and friends.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sakra asks whether Vali grieves over his miserable plight and fall in external
+    splendour.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Sakra says all the worlds were formerly under Vali’s sway.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bhishma
+  description: Narrator of the episode who reports Sakra’s address to Vali.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sakra
+  description: Speaker who laughs at Vali and questions him about his former and present
+    condition.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Vali
+  description: Addressee described as sighing like a snake; formerly powerful and
+    splendid, now deserted and fallen in external splendour.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: kinsmen and friends
+  description: Groups said to have formerly accompanied Vali or now deserted him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: frame narrator
+  assigned_to:
+  - fig:1
+  basis: Bhishma introduces and reports the exchange.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioning speaker
+  assigned_to:
+  - fig:2
+  basis: Sakra addresses Vali and asks whether he grieves over his fall.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: fallen former ruler
+  assigned_to:
+  - fig:3
+  basis: Vali is said to have formerly held all the worlds under his sway and to have
+    now lost external splendour and companions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: former companions or absent supporters
+  assigned_to:
+  - fig:4
+  basis: Kinsmen formerly attended Vali, while kinsmen and friends are now said to
+    have deserted him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: snake simile
+  literal_form: Vali sighing like a snake
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: external splendour
+  literal_form: splendour that formerly scorched all the worlds and later fell
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: all the worlds
+  literal_form: all the worlds formerly under Vali’s sway
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sakra questions fallen Vali
+  summary: Bhishma reports Sakra laughing at Vali and contrasting Vali’s former world-spanning
+    splendour and retinue with his present abandonment and loss of external splendour.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: fall from former universal sway
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage emphasizes that Vali formerly had all worlds under his sway but
+    now suffers a fall in external splendour and loss of supporters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes a fall from power, but it does not explicitly discuss
+    legitimacy or restoration.
+- id: motif:2
+  label: taunting interrogation of the fallen rival
+  taxonomy_refs: []
+  basis: Sakra laughs at Vali and repeatedly asks whether he grieves over the contrast
+    between past splendour and present misery.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a local narrative pattern rather than a supplied taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 46608-46611
+  quote_or_summary: Bhishma says Sakra, laughing at Vali who was “sighing like a snake,”
+    addressed him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 46612-46616
+  quote_or_summary: Sakra says Vali formerly made progresses attended by thousands
+    of vehicles and kinsmen, scorching the worlds with splendour and regarding Sakra’s
+    side as nought.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 46616-46621
+  quote_or_summary: Sakra says Vali is now deserted by kinsmen and friends and asks
+    whether he grieves over his miserable plight and fall in external splendour.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 46618-46620
+  quote_or_summary: Sakra says, “Formerly, all the worlds were under thy sway.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly identifies the speakers and the contrast between Vali’s
+    former power and present loss. Motif labels are cautious because the short passage
+    gives limited narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l46608-l46621
+  passage_sha256=2aa045ac9d5fcb2e0153c5bfdbee402c344b06df80765491e467f400fe7773a3
+

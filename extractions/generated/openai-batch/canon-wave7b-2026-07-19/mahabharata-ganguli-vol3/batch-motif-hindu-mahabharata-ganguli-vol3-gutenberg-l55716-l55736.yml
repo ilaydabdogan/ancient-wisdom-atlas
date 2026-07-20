@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l55716-l55736
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXCVII / SECTION CCXCVIII / SECTION CCXCIX / SECTION CCC; lines
+    55716-55736
+  start: '55716'
+  end: '55736'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Yudhishthira asks Bhishma for his view on truth, self-restraint, forgiveness,
+    and wisdom. Bhishma introduces an old narrative in which Brahman, in the form
+    of a golden Swan, wanders through the three worlds and is questioned by the Sadhya
+    deities about Emancipation, the highest object, and the foremost act by which
+    one may be freed from bonds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yudhishthira asks Bhishma for his opinion concerning truth, self-restraint,
+    forgiveness, and wisdom.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bhishma says he will recite an old narrative about a discourse between the
+    Sadhyas and a Swan.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Brahman is described as the Unborn and eternal Lord of all creatures and assumes
+    the form of a golden Swan.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The golden Swan wanders through the three worlds and comes upon the Sadhyas.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Sadhyas identify themselves as deities and ask the Swan about the religion
+    of Emancipation.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Sadhyas say the bird is learned, eloquent, and wise, and ask what is highest,
+    what pleases his mind, and what act frees one from all bonds.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Speaker who asks Bhishma about praised virtues.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bhishma
+  description: The grandsire addressed by Yudhishthira; he introduces an old narrative.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Brahman as golden Swan
+  description: The Unborn and eternal Lord of all creatures who assumes the form of
+    a golden Swan and wanders through the three worlds.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Sadhyas
+  description: Deities who question the Swan about Emancipation and the foremost liberating
+    act.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: questioner about virtues
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks for Bhishma’s opinion of truth, self-restraint, forgiveness,
+    and wisdom.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reciter of an old narrative
+  assigned_to:
+  - fig:2
+  basis: Bhishma answers by saying he will recite an old narrative about the Sadhyas
+    and a Swan.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine being in assumed avian form
+  assigned_to:
+  - fig:3
+  basis: Brahman is said to assume the form of a golden Swan.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine seekers of instruction
+  assigned_to:
+  - fig:4
+  basis: The Sadhyas ask the Swan questions about Emancipation and liberation from
+    bonds.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: golden Swan form
+  literal_form: golden Swan
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: three worlds
+  literal_form: three worlds
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bonds to be freed from
+  literal_form: all bonds
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Yudhishthira asks about virtues
+  summary: Yudhishthira asks Bhishma to give his opinion on truth, self-restraint,
+    forgiveness, and wisdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Brahman appears as a wandering Swan
+  summary: Bhishma introduces an old narrative in which Brahman, in the form of a
+    golden Swan, wanders through the three worlds and reaches the Sadhyas.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: The Sadhyas question the Swan
+  summary: The Sadhyas identify themselves as deities and ask the wise bird about
+    Emancipation, the highest object, and the act that frees one from all bonds.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine teacher in assumed animal form
+  taxonomy_refs:
+  - shapeshifter
+  basis: Brahman assumes the form of a golden Swan and is approached as a wise speaker
+    by the Sadhyas.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage states an assumed form but does not narrate a detailed transformation
+    sequence.
+- id: motif:2
+  label: wisdom discourse prompted by questions
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira questions Bhishma about virtues, and the Sadhyas question the
+    Swan about Emancipation and the foremost liberating act.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives the questions and frame of instruction, but not the
+    Swan’s answer within this excerpt.
+- id: motif:3
+  label: seeking liberation from bonds
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Sadhyas ask about the religion of Emancipation and the act by which one
+    may soon be freed from all bonds.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt presents doctrinal inquiry rather than a narrated journey
+    or completed quest.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 55716-55720
+  quote_or_summary: 'Yudhishthira asks: “learned men praise truth, self-restraint,
+    forgiveness, and wisdom. What is thy opinion of these virtues?”'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: 55721-55724
+  quote_or_summary: Bhishma says he will recite “an old narrative” of “the discourse
+    between the Sadhyas and a Swan.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: 55724-55727
+  quote_or_summary: Brahman, “assuming the form of a golden Swan, wandered through
+    the three worlds” and came upon the Sadhyas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: 55728-55731
+  quote_or_summary: The Sadhyas say, “we are the deities called Sadhyas,” and ask
+    about “the religion of Emancipation.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: 55731-55736
+  quote_or_summary: The Sadhyas describe the bird as learned, eloquent, and wise,
+    and ask what is highest, what his mind delights in, and what foremost act frees
+    one from all bonds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; neutral summary used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction relies only on the supplied excerpt. Motif candidates are limited
+    because the excerpt sets up the discourse but does not include the Swan’s answer.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available taxonomy references were used only where directly supported by the excerpt; no symbol taxonomy reference matches the golden Swan, three worlds, or bonds.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l55716-l55736
+  passage_sha256=f6823ff1162db18efe0c0df1bb391361a65fa03ae86c5ebc5fa9686336241793
+

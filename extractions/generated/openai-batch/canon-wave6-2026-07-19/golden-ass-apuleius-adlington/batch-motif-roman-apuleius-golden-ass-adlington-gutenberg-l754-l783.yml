@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l754-l783
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE SECOND CHAPTER / THE THIRD CHAPTER / THE FOURTH CHAPTER / THE FIFTH CHAPTER;
+    lines 754-783
+  start: '754'
+  end: '783'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: the wound in his throat opened wide, and the Sponge suddenly fell out into
+    the water
+  summary: At a clear river, Socrates attempts to drink; his throat wound reopens,
+    a sponge falls into the water, blood follows, and he dies. Aristomenus catches
+    the body, laments, buries him in sand by the river, then flees his country and
+    family for Etolia. The tale is challenged as false by one hearer, while the addressed
+    traveler says he believes it and treats the tale as having shortened the journey.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Socrates is called to clear water, rises, comes to the river, and kneels on
+    the bank to drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: As Socrates touches the water with his lips, the wound in his throat opens,
+    a sponge falls into the water, blood issues out, and his body is described as
+    without life.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Aristomenus catches Socrates by the leg to prevent the body from falling into
+    the river.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Aristomenus laments Socrates and buries him in the sands beside the river.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Aristomenus, fearing culpability for Socrates' death, travels through outways
+    and desert places, forsakes his country, wife, and children, and comes to Etolia
+    where he marries another wife.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After Aristomenus tells the tale, his fellow refuses credit, calls it foolish
+    and absurd, and asks the addressed traveler whether he believes it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The addressed traveler says he believes the tale, appeals to what the fates
+    appoint, thanks Aristomenus for the pleasant relation, and says the tale shortened
+    the journey.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The journey ends with the two companions turning left toward nearby villages
+    while the addressed traveler rides into the city.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Socrates
+  description: A companion who comes to the river to drink; his throat wound opens,
+    the sponge falls out, blood issues, and his body becomes lifeless.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Aristomenus
+  description: The teller of the tale; he calls Socrates to the water, catches the
+    body, laments and buries him, then flees and later tells the story.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Unnamed fellow hearer
+  description: A companion who refuses credit to Aristomenus' tale, calls it foolish
+    and absurd, and asks whether the addressed traveler believes it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Apuleius / addressed traveler
+  description: The traveler addressed by the skeptical fellow; he says he believes
+    the tale, thanks the teller, and rides into the city.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Horse
+  description: The addressed traveler says his horse was also delighted by the tale
+    and brought him to the city gate without pain.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dying companion at the river
+  assigned_to:
+  - fig:1
+  basis: Socrates tries to drink at the river and dies when the throat wound opens.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: witness, rescuer of body, and burier
+  assigned_to:
+  - fig:2
+  basis: Aristomenus catches Socrates by the leg, laments him, and buries him beside
+    the river.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: fear-driven fugitive and tale-teller
+  assigned_to:
+  - fig:2
+  basis: He flees after the death and is later named as the one who told the tale.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: skeptical hearer
+  assigned_to:
+  - fig:3
+  basis: He refuses credit to the tale and calls it an absurd lie.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: accepting hearer and traveler
+  assigned_to:
+  - fig:4
+  basis: He answers that he believes the tale and continues to the city.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: mount carrying the traveler
+  assigned_to:
+  - fig:5
+  basis: The horse is said to have carried the traveler to the city gate.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: clear river water
+  literal_form: clear water at a river where Socrates kneels to drink
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sponge from the throat wound
+  literal_form: a sponge that falls from Socrates' opened throat wound into the water
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sands by the river
+  literal_form: the sands beside the river where Socrates is buried
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Death at the river
+  summary: Socrates comes to clear river water to drink; when his lips touch the water,
+    his throat wound opens, the sponge falls out, blood follows, and he dies while
+    Aristomenus catches him by the leg.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Burial and flight
+  summary: Aristomenus laments and buries Socrates in the river sand, then flees in
+    fear, abandoning country and family and going to Etolia.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Reception of the tale and end of the journey
+  summary: A fellow hearer rejects Aristomenus' tale as false, while the addressed
+    traveler accepts it, invokes fate, thanks the teller for shortening the journey,
+    and then the travelers separate at the city and nearby villages.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fatal attempt to drink at water
+  taxonomy_refs: []
+  basis: The death occurs at the moment Socrates attempts to drink from the river,
+    when his throat wound opens and the sponge falls into the water.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a local narrative motif in the passage; no broader taxonomy family
+    is asserted beyond the literal water symbol.
+- id: motif:2
+  label: companion burial beside a river
+  taxonomy_refs: []
+  basis: After Socrates dies, Aristomenus laments and buries him in the sands by the
+    river.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a brief burial action without ritual detail.
+- id: motif:3
+  label: fear-driven departure after death
+  taxonomy_refs:
+  - departure
+  basis: Aristomenus leaves his country, wife, and children after fearing blame for
+    Socrates' death, then relocates to Etolia.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The departure is caused by fear and suspected culpability, not by a stated
+    quest or formal initiation.
+- id: motif:4
+  label: contested marvelous tale accepted through fate
+  taxonomy_refs: []
+  basis: One hearer calls the tale absurd, while the addressed traveler says he believes
+    it because whatever the fates appoint will happen.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a narrative-frame pattern within the passage rather than a confirmed
+    cross-cultural motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 754-761
+  quote_or_summary: Socrates comes to the river to drink; when he touches the water,
+    “the wound in his throat opened wide,” the sponge falls into the water, blood
+    issues, and his lifeless body is caught by the leg.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt and summary from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 761-763
+  quote_or_summary: Aristomenus laments the death of his companion and buries him
+    in the sands by the river.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; neutral summary from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 765-769
+  quote_or_summary: In fear and as if culpable for Socrates' death, Aristomenus rides
+    through outways and desert places, forsakes country, wife, and children, and comes
+    to Etolia where he marries another wife.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; neutral summary from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 771-775
+  quote_or_summary: After Aristomenus tells the tale, his fellow refuses credit, calls
+    it foolish and absurd, and asks the addressed traveler Apuleius whether he believes
+    it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; neutral summary from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 776-783
+  quote_or_summary: The addressed traveler says he believes the tale because what
+    the fates appoint will happen, thanks the teller for shortening the journey, says
+    his horse was delighted, and rides into the city as the other two turn toward
+    nearby villages.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; neutral summary from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is directly grounded in the supplied passage. Motif labels
+    are cautious and mostly passage-local; no explicit cross-text comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external context or additional taxonomy identifiers were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l754-l783
+  passage_sha256=a93009b121271b8c5c61cc5334ffa523b986b480c96a7fd21226e97253b22ee8
+

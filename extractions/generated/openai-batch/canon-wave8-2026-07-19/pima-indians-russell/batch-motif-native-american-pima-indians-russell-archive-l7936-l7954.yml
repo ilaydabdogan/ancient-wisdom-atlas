@@ -1,0 +1,169 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l7936-l7954
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: ORNAMENTATION / ORNAMENTS / FLUTE / MUSICAL INSTRUMENTS; lines 7936-7954
+  start: '7936'
+  end: '7954'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Pima musical instruments: a flute with three finger
+    holes and low, plaintive notes; flutes ornamented with geometric designs and sometimes
+    cloth or ribbon; and a shallow household basket used as a drum by turning it over
+    and beating it with hands or a stick.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The flute described has three finger holes, a limited range of notes, and
+    low, plaintive tones.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The instruments are usually ornamented with geometric designs that the passage
+    says have no symbolic significance among the Pimas at the present time.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A bit of cloth or ribbon is sometimes attached to the middle of the flute.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A shallow household basket can be made into a drum by turning it bottom up
+    and beating it with the hands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: For accompanying certain songs, the basket drum is struck with a stick in
+    rapid glancing blows.
+  category: action
+  evidence_refs:
+  - ev:4
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: geometric ornamentation
+  literal_form: Geometric designs on musical instruments, stated to have no present
+    symbolic significance among the Pimas.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: cloth or ribbon on flute
+  literal_form: A bit of cloth or ribbon attached to the middle of the flute.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: basket drum
+  literal_form: A shallow household basket turned bottom up and used as a drum.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of flute construction and ornamentation
+  summary: The passage describes a flute with three finger holes, low plaintive notes,
+    geometric ornamentation without present symbolic significance, and sometimes a
+    cloth or ribbon attached at its middle.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Household basket used as drum
+  summary: A shallow basket used in households for grain or prepared food can be turned
+    upside down and beaten with hands or a stick to function as a drum for songs.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ordinary household object transformed into musical instrument
+  taxonomy_refs: []
+  basis: The passage states that a shallow household basket can become a drum when
+    turned bottom up and beaten.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic functional pattern rather than a mythological
+    motif, and no available taxonomy reference directly matches it.
+- id: motif:2
+  label: ornamented musical instrument without current symbolic reading
+  taxonomy_refs: []
+  basis: The passage notes geometric ornamentation on instruments but explicitly says
+    it has no symbolic significance among the Pimas at the present time.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage denies present symbolic significance; this should not be interpreted
+    as a symbolic motif without additional evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7936-7940
+  quote_or_summary: The flute section says there are three finger holes, with a limited
+    range of low and plaintive notes.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7942-7946
+  quote_or_summary: The instruments are usually ornamented with geometric designs,
+    said to have no symbolic significance at the present time among the Pimas; cloth
+    or ribbon may be attached to the middle of the flute.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7948-7952
+  quote_or_summary: A shallow household basket used for grain or prepared food may
+    be turned bottom up and beaten with the hands to make a drum.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7952-7954
+  quote_or_summary: When accompanying certain songs, the drum is struck with a stick
+    in rapid glancing blows.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif confidence is low because the
+    passage is descriptive ethnography of instruments and explicitly denies present
+    symbolic significance for the geometric designs. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied; none of the supplied motif families or symbols directly match the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l7936-l7954
+  passage_sha256=e7bbc2f2e48b5cfaa71ac5506449aef577b5f791731ccfd66a0e339f8ae4775d
+

@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.buddhist-mahayana-texts-sbe49-cowell-archive-l14111-l14209
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+passage_locator:
+  label: P. 40. / DESCRIPTION OF SUKHAVATI. / INDEX OF WORDS. / XXVI; XXVIII; XXIX;;
+    lines 14111-14209
+  start: '14111'
+  end: '14209'
+  translation: Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index/glossary segment around a heading for the Description of Sukhavati.
+    It lists transliterated terms, brief English definitions, section/page cross-references,
+    named Tathagatas, worlds or places such as Sukhavati, Saha, and Sumeru, and doctrinal
+    terms related to knowledge and omniscience.
+  language: English with transliterated Sanskrit/Pali terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is arranged as index or glossary entries with cross-references
+    rather than as a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Sukhavati appears as an index entry and also in the heading for a description
+    of Sukhavati.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several entries define or reference knowledge-related terms, including perfect
+    knowledge, knowledge of omniscience, omniscience, learning, and being strong in
+    argument.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: obs:4
+  text: One entry defines a compound as being together with Sramanas and Brahmans.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One entry identifies Sahalokadhatu as the world Saha.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage lists multiple names identified as names of Tathagatas.
+  category: other
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: obs:7
+  text: Sumeru appears as an indexed term with cross-references.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The term simhanada is glossed as the lion's voice.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Later entries define terms including a room for women, elder, learning, and
+    strong in argument.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Named Tathagatas in the index
+  description: A collective listing of names identified as names of Tathagatas, including
+    entries such as Sagaramerucandra, Sagaravarabuddhivikriditabhigza, Simha, Simhamati,
+    Simhasagarakritavinanditaraga, Sumerukalpa, Suvarnagarbha, Suvarnaprabha, and
+    Suryodana as represented in the OCR text.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Sramanas and Brahmans
+  description: Religious groups mentioned together in a glossary definition.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Tathagata
+  assigned_to:
+  - fig:1
+  basis: Several proper-name entries are explicitly identified as names of a Tathagata.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:2
+  label: Religious groups mentioned together
+  assigned_to:
+  - fig:2
+  basis: The glossary definition says the term means together with Sramanas and Brahmans.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Sukhavati
+  literal_form: Named place or realm appearing as an index entry and heading.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: World Saha
+  literal_form: Sahalokadhatu, glossed as the world Saha.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Sumeru
+  literal_form: Indexed term with cross-references.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Lion's voice
+  literal_form: simhanada, glossed as the lion's voice.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Knowledge, omniscience, and learning
+  taxonomy_refs:
+  - wisdom
+  basis: The passage includes glossary entries for perfect knowledge, knowledge of
+    omniscience, omniscience, learning, and being strong in argument.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The passage is an index/glossary excerpt, not a narrative scene; the motif
+    function is therefore limited to recurring terminology.
+- id: motif:2
+  label: Named sacred worlds and places
+  taxonomy_refs: []
+  basis: The passage includes Sukhavati, the world Saha, and Sumeru as indexed places
+    or world terms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: low
+  cautions: The excerpt provides names and cross-references but does not describe
+    their mythic geography or narrative role.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14111-14209, entries samyagag#a through sarvagfata
+  quote_or_summary: '"samyagag#a, perfect knowledge"; "Seryaptaseina: the knowledge
+    of omniscience"; "sarvagfata, omniscience"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 14111-14209, Sukhavati entry and heading
+  quote_or_summary: '"Sukhavati"; "DESCRIPTION OF SUKHAVaTI."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 14111-14209, entries sasramanabrahmazika and Sahalokadhatu
+  quote_or_summary: '"sasramanabrahmazika, together with Sramazas and Brahmans"; "Sahdlokadhatu,
+    the world Saha"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain; short excerpt; OCR spellings retained.
+- id: ev:4
+  type: summary
+  locator: lines 14111-14209, Tathagata-name entries before the Sukhavati heading
+  quote_or_summary: Several entries are identified as names of a Tathagata, including
+    Sagaramerucandra, Sagaravarabuddhivikriditabhigza, Simha, Simhamati, and Simhasagarakritavinanditaraga
+    in the OCR text.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 14111-14209, Sumeru entry
+  quote_or_summary: '"Sumeru, XVII, p. 37; X XXVIII, p. 59, plur.; XX XIX, p. 63."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 14111-14209, simhanada entry
+  quote_or_summary: '"simhanada, the lion’s voice"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain; short excerpt.
+- id: ev:7
+  type: summary
+  locator: lines 14111-14209, Tathagata-name entries after the Sukhavati heading
+  quote_or_summary: Additional entries identify Sumerukalpa, Suvarnagarbha, Suvarnaprabha,
+    and Suryodana as names of Tathagatas in the OCR text.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 14111-14209, concluding glossary entries
+  quote_or_summary: The concluding entries include definitions for stryagara as a
+    room for women, Sthavira as elder, svadhyaya as learning, and hetubalika as strong
+    in argument.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The source excerpt is an OCR-affected index/glossary segment with few narrative
+    or descriptive details. Literal term extraction is more reliable than motif inference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were extracted because the passage itself does not present an explicit comparison or enough narrative context for one.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-mahayana-texts-sbe49-cowell-archive__l14111-l14209
+  passage_sha256=2ba16526343e55e0a87e9ac12738d59411c6ad8a114c29660a5c74e8ca03ac09
+

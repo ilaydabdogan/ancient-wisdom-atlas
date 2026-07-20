@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l9768-l9810
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: SGEULACHD CHONAILL. 153 / SGEULACHD CHONAILL. 155 / THE TALE OF CONNAL. 157
+    / THE TALE OF CONNAL. 159; lines 9768-9810
+  start: '9768'
+  end: '9810'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Voorachai seeks a sequence of aids or objects so that a rod can be obtained
+    and used on Meenachaig, who is said to be eating his share of fruit. Each requested
+    figure or object refuses unless another is first obtained: water requires a deer,
+    the deer requires a dog, the dog requires butter, the butter requires a mouse,
+    and the mouse requires a cat. The passage ends when Voorachai reaches the cat.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Voorachai tells the water that he is seeking water, stone, an axe, and a rod
+    to lay on Meenachaig because she is eating his share of fruit.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The water says Voorachai will not get it until he gets a deer to swim it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Voorachai reaches the deer and repeats the cumulative list of what he is seeking.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The deer says Voorachai will not get it until he gets a dog to run it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Voorachai reaches the dog and repeats the cumulative list with the dog added
+    before the deer and water.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dog says Voorachai will not get it until he gets butter to be rubbed to
+    the dog’s feet.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Voorachai reaches the butter and repeats the cumulative list with butter added
+    before the dog.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The butter says Voorachai will not get it until he gets a mouse to scrape
+    it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Voorachai reaches the mouse and repeats the cumulative list with mouse added
+    before butter.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The mouse says Voorachai will not get it until he gets a cat to hunt it, and
+    Voorachai reaches the cat.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Voorachai
+  description: The named seeker who asks each being or object for aid and repeats
+    the cumulative list of needed links.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: water
+  description: A speaking requested element that refuses to be obtained until a deer
+    is brought to swim it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: deer
+  description: A speaking animal reached by Voorachai; it is needed to swim the water
+    and requires a dog to run it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: dog
+  description: A speaking animal reached by Voorachai; it is needed to run the deer
+    and requires butter to be rubbed to its feet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: butter
+  description: A speaking object reached by Voorachai; it is needed for the dog’s
+    feet and requires a mouse to scrape it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: mouse
+  description: A speaking animal reached by Voorachai; it is needed to scrape the
+    butter and requires a cat to hunt it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: cat
+  description: An animal named as the next required agent to hunt the mouse; Voorachai
+    reaches it at the end of the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Meenachaig
+  description: A named figure said to be eating Voorachai’s share of fruit and named
+    as the person on whom the rod is to be laid.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: cumulative seeker
+  assigned_to:
+  - fig:1
+  basis: Voorachai repeatedly states that he is seeking a chain of aids and moves
+    from one requested figure or object to the next.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: conditional link in the seeking chain
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Each assigned figure or object refuses to be obtained until another specified
+    figure or object is first secured.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: next sought agent
+  assigned_to:
+  - fig:7
+  basis: The mouse requires a cat to hunt it, and the narration says Voorachai reached
+    the cat.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: cause of grievance
+  assigned_to:
+  - fig:8
+  basis: Voorachai’s repeated explanation says Meenachaig is eating his share of fruit
+    and that the rod is to be laid on her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rod
+  literal_form: rod to lay on Meenachaig
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: tool-making sequence
+  literal_form: stone to smooth axe; axe to reap rod
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: fruit share
+  literal_form: share of fruit
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: butter for dog’s feet
+  literal_form: butter to be rubbed to the dog’s feet
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: animal pursuit links
+  literal_form: deer, dog, mouse, and cat linked by swimming, running, scraping, and
+    hunting
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Voorachai asks the water
+  summary: Voorachai states his grievance and asks for water as the first link in
+    a chain that will lead to a rod; the water requires a deer to swim it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Voorachai asks the deer
+  summary: Voorachai reaches the deer and repeats the growing chain; the deer requires
+    a dog to run it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Voorachai asks the dog
+  summary: Voorachai reaches the dog and repeats the chain; the dog requires butter
+    to be rubbed to its feet.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Voorachai asks the butter
+  summary: Voorachai reaches the butter and repeats the chain; the butter requires
+    a mouse to scrape it.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Voorachai asks the mouse and reaches the cat
+  summary: Voorachai reaches the mouse and repeats the chain; the mouse requires a
+    cat to hunt it, and Voorachai reaches the cat.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cumulative conditional quest chain
+  taxonomy_refs: []
+  basis: The passage advances by repeated requests in which each desired link requires
+    another prior link, producing an expanding repeated formula.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The broader tale context is not included; this label describes the passage
+    pattern only.
+- id: motif:2
+  label: escalating chain to obtain an instrument of punishment
+  taxonomy_refs: []
+  basis: Voorachai’s repeated purpose is to obtain water, stone, axe, and rod so the
+    rod can be laid on Meenachaig for eating his share of fruit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not show whether the rod is ultimately obtained or used.
+- id: motif:3
+  label: animal and object dependency sequence
+  taxonomy_refs: []
+  basis: Water, deer, dog, butter, mouse, and cat form a dependency sequence in which
+    animals and objects are required to act on one another.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a structural motif candidate, not a claim of historical relationship
+    to another tale type.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9768-9775
+  quote_or_summary: Water asks Voorachai for news; Voorachai says he seeks water,
+    stone, axe, and rod to lay on Meenachaig because she is eating his share of fruit.
+    Water says he must first get a deer to swim it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 9775-9783
+  quote_or_summary: 'Voorachai reaches the deer and repeats the chain: deer to swim
+    water, water to stone, stone to smooth axe, axe to reap rod, rod to lay on Meenachaig.
+    The deer requires a dog to run it.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 9783-9791
+  quote_or_summary: Voorachai reaches the dog and repeats the chain with the dog added.
+    The dog requires butter to be rubbed to its feet.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 9791-9802
+  quote_or_summary: Voorachai reaches the butter and repeats the chain with butter
+    added before the dog. The butter requires a mouse to scrape it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 9802-9810
+  quote_or_summary: Voorachai reaches the mouse and repeats the chain with mouse added
+    before butter. The mouse requires a cat to hunt it, and Voorachai reaches the
+    cat.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The chain structure is explicit in the passage. Motif labels are descriptive
+    and not tied to external tale-type comparisons. No comparison claims are made
+    because the passage alone does not support historical or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy reference applied only to the explicit water symbol.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l9768-l9810
+  passage_sha256=fe3c4cfd21cbf53f856609ee8ff61c81c4bf2048baca007ba14f94a3b833c7e2
+

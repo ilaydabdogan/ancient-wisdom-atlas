@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l6414-l6460
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: PRECEPTS OF KHENSU-HETEP / PRECEPTS OF KHENSU-HETEP / PRECEPTS OF KHENSU-HETEP
+    / ONENESS OF THE GODS; lines 6414-6460
+  start: '6414'
+  end: '6460'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"God One, who came into being in primeval time"'
+  summary: The passage is a modern scholarly discussion of Egyptian texts that ascribe
+    oneness or unity to several great gods. It states that earlier passages imply
+    divine exclusivity without explicitly saying so, then lists epithets for Ta-tunen,
+    Ea-Tem, the great Khu created by Tem, and Osiris. Ea-Tem is especially described
+    as a creator of heaven, earth, beings, the Nile, waters, mountains, people, animals,
+    and life. The passage also notes a case where attributes of Ra are transferred
+    to Amen-Ra.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that earlier quoted passages do not distinctly say that
+    the God alluded to is God alone, though this is said to be implied.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage turns to texts where oneness or unity is ascribed to one or more
+    great gods.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ta-tunen is called one and is described as maker of mortals and of the company
+    of the gods.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ea-Tem is called lord of heaven, lord of earth, and God One who came into
+    being in primeval time.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ea-Tem is described as maker or creator of celestial and terrestrial beings,
+    the world, rational beings, Nu/the sky, the Nile, what is in the waters, mountains,
+    men and women, animals, cattle, heavens, and earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The great Khu, described as a Spirit created by Tem, is called the only One
+    in Nu.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Osiris is said to be lord of the gods and god One.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says the attributes of the Sun-a-od Ra have been transferred to
+    Amen-Ra.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Amen-Ra is described at the beginning of the quoted statement as the holy
+    or venerable Soul.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ta-tunen
+  description: A god called one and maker of mortals and of the company of the gods.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Ea-Tem
+  description: A god called lord of heaven, lord of earth, God One, and maker or creator
+    of many cosmic and living things.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Great Khu / Spirit
+  description: A Spirit created by Tem and described as the only One in Nu.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Tem
+  description: The deity said to have created the great Khu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Osiris
+  description: A god described as lord of the gods and god One.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Amen-Ra
+  description: A god to whom the passage says the attributes of Ra were transferred;
+    described as the holy or venerable Soul.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Sun-a-od Ra
+  description: The figure whose attributes are said to have been transferred to Amen-Ra.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: maker or creator
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: Ta-tunen is called maker; Ea-Tem is repeatedly called maker or creator; Tem
+    is said to have created the great Khu.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: deity described as one
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  basis: The passage applies the language of one, God One, or only One to these figures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: lord
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Ea-Tem is called lord of heaven and earth; Osiris is called lord of the gods.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: created spirit
+  assigned_to:
+  - fig:3
+  basis: The great Khu is identified as a Spirit created by Tem.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipient of transferred attributes
+  assigned_to:
+  - fig:6
+  basis: The attributes of Ra are said to have been transferred to Amen-Ra.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: source of transferred attributes
+  assigned_to:
+  - fig:7
+  basis: The passage identifies Ra as the figure whose attributes are transferred.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: holy or venerable Soul
+  assigned_to:
+  - fig:6
+  basis: Amen-Ra is said to be the holy or venerable Soul at the start of the quoted
+    statement.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Oneness
+  literal_form: One; God One; only One
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Waters and Nile
+  literal_form: Nile; whatsoever is in the waters
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Mountains
+  literal_form: mountains
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Sky, heaven, and earth
+  literal_form: Nu (the sky); heaven; earth
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Primeval time
+  literal_form: primeval time
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Turn to texts on divine unity
+  summary: The passage moves from earlier implied statements about divine exclusivity
+    to texts that explicitly ascribe oneness or unity to great gods.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Catalogue of gods called one
+  summary: Ta-tunen, Ea-Tem, the great Khu created by Tem, and Osiris are listed with
+    epithets of oneness; Ea-Tem is also given extensive creator epithets.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Transfer of Ra attributes to Amen-Ra
+  summary: The passage notes a remarkable passage in which attributes of Ra are transferred
+    to Amen-Ra, who is introduced as a holy or venerable Soul.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Multiple great gods described as one
+  taxonomy_refs: []
+  basis: The passage explicitly frames its examples as texts where oneness or unity
+    is ascribed to one or more great gods and then lists several such divine epithets.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a secondary scholarly compilation of epithets rather than a single
+    continuous mythic narrative.
+- id: motif:2
+  label: Creator deity makes cosmos and living beings
+  taxonomy_refs: []
+  basis: Ta-tunen is called maker of mortals and gods, and Ea-Tem is described as
+    maker or creator of cosmic regions, waters, mountains, people, animals, and life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives epithets and summaries, not a full creation narrative.
+- id: motif:3
+  label: Transfer of divine attributes between gods
+  taxonomy_refs: []
+  basis: The passage states that the attributes of Ra have been transferred to Amen-Ra.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The quoted statement is incomplete in the provided passage, so the transferred
+    attributes are not fully described here.
+comparison_claims:
+- id: claim:1
+  claim: Within the cited Egyptian material, Ta-tunen, Ea-Tem, the great Khu, and
+    Osiris share a textual pattern in which divine oneness is applied to different
+    great gods.
+  claim_level: same_motif
+  target: Egyptian divine-oneness epithets across the cited texts
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage and depends on Budge's secondary
+    presentation; the original contexts of the cited texts are not supplied in full.
+- id: claim:2
+  claim: Amen-Ra is compared with Ra through the stated transfer of Ra's attributes
+    to Amen-Ra.
+  claim_level: same_function
+  target: Ra's attributes as applied to Amen-Ra
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only begins the quoted Amen-Ra statement and does not provide
+    the complete attribute list.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6414-6421
+  quote_or_summary: Earlier passages are said not to distinctly state that God is
+    alone, though this is implied; the author turns to texts where oneness or unity
+    is ascribed to great gods.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: 6421-6424
+  quote_or_summary: Ta-tunen is called "One, maker of mortals, and of the company
+    of the gods."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:3
+  type: summary
+  locator: 6424-6435
+  quote_or_summary: Ea-Tem is called lord of heaven and earth, maker of celestial
+    and terrestrial beings, God One from primeval time, maker of the world, creator
+    of rational beings, maker of Nu/the sky, creator of the Nile, giver of life to
+    what is in the waters, knitter of mountains, maker of people and animals, and
+    creator of heavens and earth.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: 6435-6437
+  quote_or_summary: The great Khu, whom Tem created, is described as the "only One
+    in Nu."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:5
+  type: quote
+  locator: 6437-6438
+  quote_or_summary: Osiris is said to be "lord of the gods, god One."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:6
+  type: summary
+  locator: 6438-6442
+  quote_or_summary: A remarkable passage is said to transfer the attributes of the
+    Sun-a-od Ra to Amen-Ra, where Amen-Ra is described as the holy or venerable Soul.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on the provided English passage, which is a modern
+    scholarly compilation with visible OCR or line-break artifacts and an incomplete
+    quotation at the end. Literal divine epithets are clear, but broader motif interpretation
+    remains limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy refs were included only where the provided available symbol list directly matched literal passage elements.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l6414-l6460
+  passage_sha256=01ac413a398953d3dbec381fee2a19bcf2b22b0f64996c8752e2bb2cd8349b3c
+

@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l9037-l9053
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: INTICHIU.MA CEREMONIES / IXTICHIU.MA CEREMONIES / VI INTICHIUMA CEREMONIES
+    179 / INTICHIU.MA CEREMONIES; lines 9037-9053
+  start: '9037'
+  end: '9053'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A group of men sit with Churinga during an Intichiuma ceremony. An unnamed
+    man explains parts of a drawing during intervals in a long chant; the drawing
+    is then covered, and the men return to a meeting place and chant around the Churinga
+    through the night. Three large wooden Churinga are decorated with concentric designs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed man placed the Churinga to one side and squatted down; the other
+    men followed his example.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A monotonous chant lasted for about half an hour, with intervals during which
+    the unnamed man explained parts of a drawing.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The drawing was covered again after being explained.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The men returned to the original meeting place and chanted for the rest of
+    the night while sitting around the Churinga.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: During the night, three large wooden Churinga, each about four feet long,
+    were decorated with series of concentric designs.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A figure caption refers to a group sitting around the Churinga, though the
+    OCR text of the caption is partly unclear.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed leading man
+  description: A man who placed the Churinga to one side, squatted down, and explained
+    parts of the drawing during intervals in the chant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: rest of the men
+  description: The other men followed the leading man's example, returned to the meeting
+    place, and chanted while sitting around the Churinga.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: ritual explainer
+  assigned_to:
+  - fig:1
+  basis: He explained the different parts of the drawing during intervals in the chant.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ritual participants
+  assigned_to:
+  - fig:2
+  basis: They followed the leading man's posture and chanted around the Churinga during
+    the night.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Churinga
+  literal_form: Churinga placed to one side and later used as the focus around which
+    the men sat and chanted; three large wooden Churinga were also decorated.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: covered drawing
+  literal_form: A drawing whose parts were explained during the chant and then covered
+    again.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: concentric designs
+  literal_form: Series of concentric designs used to decorate three large wooden Churinga.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: chant and explanation beside the Churinga
+  summary: The leading man places the Churinga aside, the men squat, and a chant proceeds
+    with intervals in which the leading man explains parts of a drawing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: return to meeting place and night chanting
+  summary: After the drawing is covered, the men return to the original meeting place
+    and chant for the rest of the night while sitting around the Churinga.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: decoration of large wooden Churinga
+  summary: During the night, three large wooden Churinga, each about four feet long,
+    are decorated with concentric designs.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual chanting around sacred objects
+  taxonomy_refs: []
+  basis: The passage describes men chanting through the night while sitting around
+    the Churinga.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the full meaning of the Churinga or the chant
+    in this fragment.
+- id: motif:2
+  label: ritual explanation and concealment of a drawing
+  taxonomy_refs: []
+  basis: A drawing is explained during intervals in the chant and then covered again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The content and ritual purpose of the drawing are not given in the provided
+    passage.
+- id: motif:3
+  label: ceremonial decoration of wooden Churinga
+  taxonomy_refs: []
+  basis: Three large wooden Churinga are decorated during the night with concentric
+    designs.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage fragment does not describe who decorated them or the completed
+    designs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9037-9040
+  quote_or_summary: "“placing the Churinga on one side, squatted down, all the rest
+    of the men following his example.”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 9040-9044
+  quote_or_summary: During a monotonous chant lasting about half an hour, the unnamed
+    man explained different parts of the drawing.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 9044-9045
+  quote_or_summary: "“the drawing, which was then again covered up”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 9045-9048
+  quote_or_summary: The men returned to the original meeting place and, for the rest
+    of the night, chanted while sitting around the Churinga.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9050-9053
+  quote_or_summary: During the night, three large wooden Churinga, each about four
+    feet long, were decorated with series of concentric designs.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: figure caption after line 9053
+  quote_or_summary: 'The OCR-rendered caption reads in part: “FIG. 29. — GROUl ...
+    lOTEM SITTING ROUND THE CHURINGA,” with uncertain words.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt from figure caption used with OCR
+    uncertainty noted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the short passage and OCR corruption in
+    the figure caption. Candidate motifs are descriptive only and not mapped to supplied
+    taxonomy families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another tradition or motif family. Supplied symbol taxonomy terms were not used because none are directly present.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l9037-l9053
+  passage_sha256=67e315b4183598f45073b88a2e666e89cc415cccc6194f599f4cfa1ddfa7278d
+

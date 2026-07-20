@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l2297-l2346
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: ORIGIN OF THE CHACO TRIBES / PRIMITIVE INDIAN LIFE / PRIMITIVE INDIAN LIFE
+    / PRIMITIVE INDIAN LIFE; lines 2297-2346
+  start: '2297'
+  end: '2346'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes evening life in a Chaco Indian village with fires,
+    cooking, painted bodies, and ostrich-feather adornment; then describes the same
+    village later abandoned after a death because of fear of the departed spirit.
+    It then shifts to an island village in a large swamp, emphasizing water depth,
+    dense vegetation, native paths, danger from snakes and alligators, and a method
+    for conveying goods across the swamp using a tied cow-hide raft steadied with
+    palms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fires placed to windward produce smoke, and people are busy cooking or eating
+    after having had little food during the day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Refed fires illuminate painted and specially attired people wearing white
+    ostrich feathers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A later visitor would find the village abandoned, with charred booth remains
+    left after a death.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people are described as fleeing after a death because they fear the spirit
+    of the departed and want to avoid ghostly visitants.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A similar village stands on an island in a large swamp near the swamp edge.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The swamp water is generally waist-deep, but in places a traveller must swim
+    through tangled vegetation.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Bulrush, papyrus, and other water-plants form an impenetrable mass, and some
+    thorny plants lacerate flesh.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Progress through the swamp is described as possible only along narrow paths
+    made by the natives; tall reeds obscure sight, so the uninitiated would lose their
+    way.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Large water snakes, alligators, and occasionally venomous snakes occur in
+    the swamp; some snakes are difficult to distinguish from the vegetation.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A raw cow-hide with tied corners serves as a raft for conveying goods across
+    the swamp, with palms attached to steady heavy loads.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The swamps are said to contain alligators, fish, water-snakes, frogs, birds,
+    and insects, and to disappear entirely during prolonged droughts.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: village inhabitants
+  description: People in the village who cook, eat, wear paint and white ostrich feathers,
+    and later flee after a death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: spirit of the departed
+  description: The feared spirit of a dead person, associated with ghostly visitants
+    after a death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: traveller or uninitiated person
+  description: A person moving through the swamp who may be forced to swim and who
+    would lose the way away from native paths.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: settlement inhabitants who relocate after death
+  assigned_to:
+  - fig:1
+  basis: The passage describes village people in daily activity and says that after
+    a death they flee to another place.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: feared dead spirit
+  assigned_to:
+  - fig:2
+  basis: The abandoned village is explained by fear of the spirit of the departed
+    and of ghostly visitants.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: uninitiated swamp traveller
+  assigned_to:
+  - fig:3
+  basis: The passage says the traveller may have to swim and that the uninitiated
+    would lose the way among reeds.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire and smoke
+  literal_form: Fires placed to windward, refed to throw glare around the village.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: white ostrich feathers
+  literal_form: White ostrich-feathers worn by painted village inhabitants.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: charred booth remains after death
+  literal_form: Charred skeletons of booths in an abandoned village.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: swamp water and reeds
+  literal_form: Waist-deep swamp water, islands, bulrush, papyrus, tangled water-plants,
+    and tall reeds.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: snakes in the swamp
+  literal_form: Large water snakes and occasional venomous snakes, some camouflaged
+    among vegetation.
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: cow-hide raft
+  literal_form: Raw cow-hide with tied corners serving as a raft, steadied by palms
+    for heavy loads.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: evening village fires
+  summary: In an evening village scene, smoke from fires, cooking, eating, paint,
+    feathers, forest, palms, and stars are described.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: abandoned village after a death
+  summary: A later visitor would find the village abandoned and its booth frames charred
+    because the people fled after a death in fear of the departed spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: island village in a dangerous swamp
+  summary: A similar village stands on an island in a large swamp where dense vegetation,
+    deep water, narrow native paths, and obscuring reeds make travel difficult.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: swamp animals and hidden danger
+  summary: The swamp contains large water snakes, alligators, and occasional venomous
+    snakes that may be hard to distinguish from vegetation.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: conveying goods across a swamp
+  summary: A caption describes transporting goods across the swamp by using a raw
+    cow-hide raft steadied with palms, amid typical Chaco swamp vegetation and animal
+    life.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: settlement abandonment after death because of feared spirit
+  taxonomy_refs: []
+  basis: The passage explicitly says the village is abandoned after a death because
+    the people fear the spirit of the departed and ghostly visitants.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is presented as ethnographic observation rather than a narrated myth.
+- id: motif:2
+  label: dangerous water-wilderness passage
+  taxonomy_refs: []
+  basis: The swamp is described as deep, tangled, path-dependent, visually disorienting,
+    and inhabited by snakes and alligators.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes practical travel hazards; no ritual journey or mythic
+    quest is stated.
+- id: motif:3
+  label: hide raft for crossing or transporting goods over swamp water
+  taxonomy_refs: []
+  basis: The passage states that a raw cow-hide with tied corners serves as a raft,
+    steadied by palms for heavy loads.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a material-culture pattern, not a mythological motif in the passage
+    itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2297-2307
+  quote_or_summary: 'Evening village scene: smoke from windward fires, cooking and
+    eating, refed fires illuminating painted and attired people with white ostrich
+    feathers, with forest, palms, and stars behind them.'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2308-2314
+  quote_or_summary: A later visitor finds the village abandoned, with charred booth
+    remains, because after a death the people fled for fear of the departed spirit
+    and ghostly visitants.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2315-2328
+  quote_or_summary: The scene shifts to an island village in a large swamp with waist-deep
+    water, tangled plants, thorny growth, narrow native paths, tall reeds, and danger
+    of losing the way.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2329-2334
+  quote_or_summary: The swamp contains large water snakes, alligators, and occasional
+    venomous snakes, some difficult to distinguish from the surrounding vegetation.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2335-2346
+  quote_or_summary: A raw cow-hide with tied corners is used as a raft for conveying
+    goods across a swamp, steadied with palms for heavy loads; the caption also notes
+    Chaco swamp vegetation, animals, and drought disappearance.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is ethnographic description rather than mythic narrative. No comparison
+    claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Offensive period terminology in the source has been avoided in labels except where neutralized in summary. No taxonomy motif-family references were assigned because the passage does not clearly state a mythic motif family from the available list.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l2297-l2346
+  passage_sha256=673a0930cead1315408fefbcae1e7d2c26dadca68a025cfb0b97315dbc68e1df
+

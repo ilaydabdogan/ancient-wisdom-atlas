@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.greek-plutarch-morals-shilleto-gutenberg-l2758-l2893
+source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+passage_locator:
+  label: PLUTARCH'S MORALS. / ON EDUCATION. / ON LOVE TO ONE'S OFFSPRING. / ON LOVE.;
+    lines 2758-2893
+  start: '2758'
+  end: '2893'
+  translation: Plutarch's Morals
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of scholarly notes to Plutarch's Morals. It cites
+    classical sources and explains details including an Alcaean statement that Love
+    was the child of the Rainbow and the West Wind, the Greek term iris, the obscurity
+    of ancient burnished-bronze mirrors, and the keeping of a Festival of Love.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says that lines from Alcaeus make Love the child of the Rainbow and
+    the West Wind.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note glosses Greek iris as Rainbow.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note says that the Festival of Love was being kept at the time under discussion.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note says ancient mirrors were burnished bronze and would have given an
+    obscure view.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Love
+  description: Personified Love is described as the child of the Rainbow and the West
+    Wind and as the focus of a festival.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Rainbow / Iris
+  description: The Rainbow is named as one parent of Love; Greek iris is glossed as
+    Rainbow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: West Wind
+  description: The West Wind is named as one parent of Love.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: personified child
+  assigned_to:
+  - fig:1
+  basis: The note says Love was the child of the Rainbow and the West Wind.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: natural parent figures
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Rainbow and the West Wind are named as the parents of Love in the note's
+    summary of Alcaeus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: festival honoree
+  assigned_to:
+  - fig:1
+  basis: The note says the Festival of Love was being kept.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Rainbow / Iris
+  literal_form: Rainbow, glossed from Greek iris
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: West Wind
+  literal_form: West Wind
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ancient mirror
+  literal_form: burnished bronze mirror giving an obscure view
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Alcaean genealogy of Love
+  summary: The note reports that Alcaeus' lines present Love as the child of the Rainbow
+    and the West Wind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Festival of Love setting
+  summary: The note identifies the surrounding occasion as a time when the Festival
+    of Love was being kept.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ancient mirror explanation
+  summary: The note explains that ancient mirrors were burnished bronze and therefore
+    produced an obscure reflection.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Love as child of natural powers
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage's note says Love was the child of the Rainbow and the West Wind,
+    making a personified power the offspring of personified natural phenomena.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is reported in an editorial note summarizing Alcaeus' lines; the
+    passage does not give a full narrative.
+- id: motif:2
+  label: festival devoted to Love
+  taxonomy_refs: []
+  basis: A note states that the Festival of Love was being kept at the time under
+    discussion.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only the existence and timing of the festival, not ritual
+    details.
+- id: motif:3
+  label: obscure reflection in a bronze mirror
+  taxonomy_refs: []
+  basis: The note describes ancient mirrors as burnished bronze objects producing
+    an obscure view.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage presents this primarily as a material explanation for textual
+    references, not as a mythic scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly connects the obscurity of ancient burnished-bronze
+    mirrors with several New Testament mirror passages.
+  claim_level: visual_similarity
+  target: 1 Corinthians 13:12; 2 Corinthians 3:18; James 1:23
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note supports a visual or material explanation only; it does not
+    establish a shared mythic motif or historical transmission.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2758-2893, note [126]
+  quote_or_summary: "“Love was the child of the Rainbow and the West Wind.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 2758-2893, note [127]
+  quote_or_summary: The note glosses Greek iris as Rainbow.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2758-2893, note [143]
+  quote_or_summary: "“The Festival of Love was being kept at this very time.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 2758-2893, note [128]
+  quote_or_summary: Ancient mirrors are described as burnished bronze, producing at
+    best an obscure view; the note says this explains 1 Cor. 13:12, 2 Cor. 3:18, and
+    James 1:23.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a set of notes rather than a continuous mythic narrative,
+    so motifs are limited to explicitly stated genealogical, ritual, and visual-pattern
+    details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include rainbow, wind, or mirror.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-plutarch-morals-shilleto-gutenberg__l2758-l2893
+  passage_sha256=a219e11165bab21642f45e5a7d8632f399f0d7895b6cd9f30ae264d915d2f68e
+

@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l2008-l2026
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE FOURTEENTH CHAPTER / THE FIFTEENTH CHAPTER / THE SIXTEENTH CHAPTER /
+    THE SEVENTEENTH CHAPTER; lines 2008-2026
+  start: '2008'
+  end: '2026'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: I perceived that I was no bird, but a plaine Asse.
+  summary: The first-person narrator, Apuleius, rubs his body and expects to be transformed
+    into a bird like Pamphiles, but instead his body changes into that of an ass.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Apuleius rubs every part and member of his body.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Apuleius moves his arms and waits to be changed into a bird.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Pamphiles is mentioned as someone who was changed into a bird.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: No feathers appear on Apuleius during the transformation.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Apuleius's hair becomes rugged, his skin becomes tough and hard, his fingers
+    and toes change into hoofs, a tail grows, and his face, nostrils, lips, and ears
+    alter.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Apuleius concludes that he has become an ass rather than a bird.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Apuleius
+  description: First-person speaker who undergoes an attempted bird transformation
+    and becomes an ass.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Pamphiles
+  description: Figure mentioned as having been changed into a bird.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: first-person transformed figure
+  assigned_to:
+  - fig:1
+  basis: The speaker describes his own body changing form.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: unsuccessful bird-transformee
+  assigned_to:
+  - fig:1
+  basis: He expects to become a bird but observes that he becomes an ass.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: bird-transformee precedent
+  assigned_to:
+  - fig:2
+  basis: Pamphiles is cited as having been changed into a bird.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bird form
+  literal_form: Bird; feathers expected but absent
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: ass form
+  literal_form: Asse; hoofs, tail, altered face, nostrils, lips, and ears
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: hoofs and tail
+  literal_form: Fingers and toes changed into hoofs; a great tail grows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Failed bird transformation into an ass
+  summary: After rubbing his body, Apuleius expects to become a bird like Pamphiles,
+    but his body changes into an ass, with hoofs, a tail, and altered animal features.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Human transformed into animal
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage describes a human speaker undergoing bodily transformation into
+    an ass.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage shows transformation but not voluntary repeated shape-changing;
+    the taxonomy reference is therefore to the broader animal-transformation family.
+- id: motif:2
+  label: Failed or unintended metamorphosis
+  taxonomy_refs: []
+  basis: Apuleius intends or expects a bird transformation but receives an ass form
+    instead.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The cause of the error is not given in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Apuleius's expected bird transformation with
+    Pamphiles's stated bird transformation, while distinguishing Apuleius's actual
+    result as an ass.
+  claim_level: same_function
+  target: Pamphiles's bird transformation mentioned in the passage
+  evidence_refs:
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Pamphiles's transformation is only briefly referenced; the excerpt
+    does not narrate its circumstances.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2008-2026
+  quote_or_summary: '"After that I had well rubbed every part and member of my body"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 2008-2026
+  quote_or_summary: '"looking still when I should bee changed into a Bird as Pamphiles
+    was"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 2008-2026
+  quote_or_summary: '"neither feathers nor appearance of feathers did burgen out"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 2008-2026
+  quote_or_summary: Apuleius's hair, skin, fingers, toes, tail, face, nostrils, lips,
+    and ears change into animal features.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 2008-2026
+  quote_or_summary: '"I perceived that I was no bird, but a plaine Asse"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage gives clear evidence for bodily animal transformation and an
+    explicit contrast between intended bird form and actual ass form. Broader comparative
+    interpretation is limited by the short excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage text and metadata.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l2008-l2026
+  passage_sha256=6b1986ba20e359e997aec87b95e779dd2f0610e36cd8f4d08a3ac68411a27242
+

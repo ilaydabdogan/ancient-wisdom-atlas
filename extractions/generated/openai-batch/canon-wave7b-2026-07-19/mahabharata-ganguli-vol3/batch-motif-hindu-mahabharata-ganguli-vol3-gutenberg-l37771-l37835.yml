@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l37771-l37835
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CXXXV / SECTION CXXXVI / SECTION CXXXVII / SECTION CXXXVIII; lines
+    37771-37835
+  start: '37771'
+  end: '37835'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: I am thy food. Thou art the eater. I am weak. Thou art strong.
+  summary: The mouse Palita refuses renewed friendship with the cat Lomasa after a
+    temporary mutual rescue, arguing that natural enmity, hunger, unequal power, and
+    self-preservation make further trust dangerous. The cat, rebuked, blushes with
+    shame and replies.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says peace, war, friendship, and enmity change according to circumstance
+    and time.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he and the cat each freed the other from a great danger,
+    so each has served the other.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The mouse identifies himself as food and weak, and identifies the cat as eater
+    and strong.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The mouse says the cat was entangled in a net and then rescued from it.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:5
+  text: The mouse says the hungry cat is looking toward him as prey and has wives
+    and children who might also eat him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The mouse refuses to unite again in friendship with the cat because the reason
+    for such union no longer exists.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:7
+  text: The mouse states that one should protect oneself even by giving up children,
+    kingdom, jewels, wealth, wives, and all possessions.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: After the mouse's rebuke, the cat blushes with shame and begins to address
+    the mouse.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Palita
+  description: A mouse who speaks to the cat, refuses renewed friendship, and emphasizes
+    self-protection.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Lomasa
+  description: A cat addressed by the mouse; described as strong, hungry, formerly
+    trapped in a net, and later blushing with shame.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Lomasa's spouse and children
+  description: The cat's family, mentioned by the mouse as potential eaters of the
+    mouse if they saw him with the cat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: cautious weak party
+  assigned_to:
+  - fig:1
+  basis: The mouse calls himself weak, refuses to place himself under a stronger foe's
+    power, and argues for self-protection.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: strong hungry predator
+  assigned_to:
+  - fig:2
+  basis: The cat is called strong, eater, hungry, and looking for prey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: former temporary ally
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The mouse says each rescued the other from danger and that the previous reason
+    for friendship has passed away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: potential consumers of the mouse
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The mouse says the cat would make him a meal and that the cat's spouse and
+    children might cheerfully eat him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: speaker of policy counsel
+  assigned_to:
+  - fig:1
+  basis: The mouse states maxims about unstable alliances, stronger foes, and protecting
+    one's own life.
+  evidence_refs:
+  - ev:1
+  - ev:6
+symbols:
+- id: sym:1
+  label: net
+  literal_form: A net in which the cat had been entangled and from which he was freed.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: food and eater relation
+  literal_form: The mouse's formulation that he is food and the cat is eater.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: life to be protected
+  literal_form: One's own self or life, to be protected even at the cost of wealth
+    and family.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Refusal of renewed alliance
+  summary: The mouse argues that friendship with the cat existed only while circumstances
+    required it, and that natural enmity has returned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Predator-prey risk after rescue
+  summary: The mouse recalls the mutual rescue but refuses to enter the cat's power
+    again, saying the cat is strong, hungry, and likely to eat him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Maxims of self-preservation
+  summary: The mouse gives counsel that life should be protected even by surrendering
+    possessions and family, and that the weak should recognize the stronger as dangerous.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Cat shamed by rebuke
+  summary: After the mouse's speech, the cat blushes with shame and begins to respond.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: prudential wisdom about unstable alliances
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents explicit counsel that alliances shift with circumstances
+    and that one should not trust a naturally hostile and stronger party once the
+    reason for alliance is gone.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is specifically political
+    and prudential rather than metaphysical wisdom.
+- id: motif:2
+  label: temporary alliance between natural enemies
+  taxonomy_refs: []
+  basis: The mouse says he and the cat were foes by nature, became friends because
+    of circumstances, mutually benefited, and should not renew friendship after the
+    danger passed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy entry directly names this animal-fable pattern.
+- id: motif:3
+  label: weak prey refuses trust in hungry predator
+  taxonomy_refs: []
+  basis: The mouse identifies himself as food and weak, the cat as eater and strong,
+    and refuses friendship because the cat is hungry and seeking prey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a local narrative and didactic pattern; no historical comparison
+    is asserted.
+- id: motif:4
+  label: self-preservation over possessions and kin
+  taxonomy_refs:
+  - wisdom
+  basis: The mouse teaches that one should protect one's life even by giving up children,
+    kingdom, jewels, wealth, wives, and all else.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states this as policy counsel; broader ethical implications
+    require context outside the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37771-37788
+  quote_or_summary: The mouse says peace, war, friendship, and enmity shift with time
+    and circumstance; a former foe became friend and enemy again.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: lines 37789-37797
+  quote_or_summary: The mouse says the cat freed him from great danger and he freed
+    the cat from similar danger, so both have served each other and need not unite
+    again.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: quote
+  locator: lines 37797-37803
+  quote_or_summary: '"I am thy food. Thou art the eater. I am weak. Thou art strong."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 37803-37815
+  quote_or_summary: The mouse says the cat was entangled in the net for food, is now
+    freed, feels hunger, seeks prey, and has wives and children who might eat the
+    mouse.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 37815-37825
+  quote_or_summary: The mouse refuses friendship because its reason no longer exists
+    and says a wise person should not place himself under the power of a hungry, unrighteous
+    foe seeking prey.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 37825-37833
+  quote_or_summary: The mouse states that one should protect oneself by giving up
+    children, kingdom, jewels, wealth, wives, and all else; weak persons recognize
+    the stronger as a foe.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 37834-37835
+  quote_or_summary: The passage says the mouse Palita rebuked the cat, and the cat
+    blushed with shame before addressing him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The figures, relationship, and didactic counsel are explicit. Motif classification
+    is limited to broad supplied taxonomy terms; no comparison claims are made because
+    the passage itself does not support an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage text and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l37771-l37835
+  passage_sha256=f862d9e6cf2709ddcfc2b70c13b3d78dcfd0473ab4640e0a22ab074bbc8ab6ab
+

@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l20163-l20214
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: II,  S3- / VIII,  39-  CIVIL   AND    CRIMINAL    LAW.  259 / VIII,  46.  CIVIL    AND    CRIMINAL    LAW.  26
+    1 / VIII,  57-  CIVIL  AND  CRIMINAL  LAW;    DEBTS.  2-63; lines 20163-20214
+  start: '20163'
+  end: '20214'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives rules for a denied debt in court: the complainant must
+    produce a witness present at the loan or other evidence, and a plaintiff fails
+    in his suit through inconsistent statements, improper dealings with witnesses,
+    refusal to answer, leaving court, failure to prove allegations, or confusion about
+    the order of points. Notes record variant readings and cite Yagn. II, 16 as a
+    parallel for verses 53-56.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When a debtor denies a debt after being required in court to pay, the complainant
+    must call a witness present when the loan was made or adduce other evidence.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A plaintiff fails if he calls a witness not present at the transaction, retracts
+    statements, overlooks confusion or contradiction, varies his case, or does not
+    abide by a fact he had stated.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A plaintiff also fails if he converses with witnesses in an improper place,
+    refuses to answer a proper question, leaves court, does not answer when ordered
+    to speak, does not prove his allegation, or does not know what comes first and
+    second.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The supplied passage begins an additional rule about someone who says that
+    he has witnesses, but the continuation is not present in the supplied excerpt.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A note cites Yagn. II, 16 in connection with verses 53-56.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: debtor
+  description: A debtor required in court to pay a debt and denying it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: complainant or plaintiff
+  description: The litigant who must provide a witness or other evidence and whose
+    suit can fail through specified procedural faults.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: witness or witnesses
+  description: Persons called in support of the complainant’s case; the text distinguishes
+    a witness present at the loan from a witness not present at the transaction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: debtor denying a claim
+  assigned_to:
+  - fig:1
+  basis: The debtor denies a debt after being required in court to pay.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: litigant bearing burden of proof
+  assigned_to:
+  - fig:2
+  basis: The complainant must call an appropriate witness or adduce evidence; the
+    plaintiff fails through listed procedural faults.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: evidentiary witness
+  assigned_to:
+  - fig:3
+  basis: A witness present at the loan may be called, while calling an absent witness
+    or improperly conversing with witnesses is treated as a fault.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Denied debt and required proof
+  summary: A debtor denies a debt in court, and the complainant is required to support
+    the claim with a witness present at the loan or other evidence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Procedural failures ending a suit
+  summary: 'The passage lists conduct by which a plaintiff fails: contradictory or
+    shifting statements, improper contact with witnesses, refusal or failure to answer,
+    leaving court, failure to prove allegations, and confusion over the sequence of
+    points.'
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: debt dispute resolved by witness or evidence
+  taxonomy_refs: []
+  basis: A denied debt in court must be supported by a witness present at the loan
+    or by other evidence.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a legal-procedural pattern rather than a mythic narrative motif.
+- id: motif:2
+  label: loss of suit through procedural inconsistency or nonresponse
+  taxonomy_refs: []
+  basis: The plaintiff fails through inconsistent statements, changing the case, improper
+    witness contact, refusal to answer, leaving court, failure to prove, or inability
+    to order the points.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The pattern is confined to juridical instruction in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note links the rules in VIII.53-56 with Yagn. II, 16, supporting
+    a cautious claim of a parallel legal-procedural pattern within a nearby Dharmashastra
+    corpus.
+  claim_level: same_function
+  target: Yagn. II, 16
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a citation is supplied in the passage; the parallel text is not
+    quoted, so wording, dependence, and historical relationship cannot be assessed
+    from this excerpt alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: VIII.52; lines 20163-20168
+  quote_or_summary: A debtor denies a debt after being required in court to pay; the
+    complainant must call a witness present when the loan was made or adduce other
+    evidence.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: VIII.53-54; lines 20169-20177
+  quote_or_summary: A plaintiff fails if he calls a witness not present, retracts
+    statements, ignores confusion or contradiction, varies his case, or does not abide
+    by a stated fact.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: VIII.55-56; lines 20178-20186
+  quote_or_summary: A plaintiff fails if he converses improperly with witnesses, refuses
+    to answer, leaves court, does not answer when ordered, does not prove his allegation,
+    or cannot distinguish first and second points.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: quote
+  locator: VIII.57; line 20187
+  quote_or_summary: "“Him also who says ‘I have witnesses,’ and,”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; short excerpt quoted.
+- id: ev:5
+  type: citation
+  locator: note to VIII.53-56; line range within 20163-20214
+  quote_or_summary: The note gives the parallel citation “Yagn. II, 16” for verses
+    53-56.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain editorial note; summarized with short citation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal legal-procedural content is clear. Motif labeling is cautious because
+    the passage is juridical rather than mythic. The comparison claim rests only on
+    the supplied editorial citation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol was supported by the passage. No mythic figures or divine actions appear in the supplied excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l20163-l20214
+  passage_sha256=8e05dbd2f5c0d0afd4c6e6100c85e33f1b17f3c2446e0fffc9ecef3242cd398a
+

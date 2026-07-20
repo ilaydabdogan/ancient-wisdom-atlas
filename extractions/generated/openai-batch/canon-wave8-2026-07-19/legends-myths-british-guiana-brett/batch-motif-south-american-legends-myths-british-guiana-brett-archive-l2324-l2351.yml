@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l2324-l2351
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: THE FIGHT ON THE HAIMARA-CABURA. / THE FIGHT ON THE WAIINI. / ALLIANCE AND
+    INTERCOURSE WITH WHITE MEN. / ABORIGINAL TRIBES OR GUIANA. 47; lines 2324-2351
+  start: '2324'
+  end: '2351'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Moravians and then English bringing the Christian
+    message, called the Saviour's word or word of peace, to Indigenous communities
+    in Berbice and Essequibo. Some oppose it while a few accept and spread it. The
+    speakers carry words of peace to former foes, the Caribisce, and then carry the
+    red cross by sea to the Waraus, hoping that all Indigenous people become Christians
+    and that peace abounds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Moravians in Berbice are described as the source from whom the speakers' brethren
+    heard the word of peace before trouble ended the missions.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The English came to Essequibo and made the Saviour's name known to red men
+    there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Saviour's word came to the speakers; most opposed it, but a few heard
+    and helped spread it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The speakers paddled to their old foes, the Caribisce, with words of peace,
+    and the message found acceptance there.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speakers went along the sea to the Waraus with the red cross waving, intending
+    to plant it on new ground.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states a desired outcome that all red men might become Christians
+    and blessed peace might abound.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Moravians
+  description: Missionaries in Berbice from whom the speakers' brethren heard the
+    word of peace.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the speakers and their brethren
+  description: A collective first-person group that hears the Saviour's word and later
+    helps spread it.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: English
+  description: A group said to have come to Essequibo and made the Saviour's name
+    known.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the Saviour
+  description: The named sacred figure whose name and word are made known and received
+    or opposed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: red men
+  description: Collective Indigenous recipients for whom the Saviour's name is made
+    known and for whom Christian conversion is desired.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: Caribisce
+  description: The speakers' old foes, reached by paddling with words of peace; the
+    message is accepted there.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Waraus
+  description: A group reached along the sea when the red cross is carried to new
+    ground.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: missionary transmitters
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Moravians are linked with the word of peace in Berbice, and the English make
+    the Saviour's name known at Essequibo.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: recipients of the Christian message
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage describes the word or name being brought to the speakers, red
+    men, the Caribisce, and the Waraus.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: subsequent messengers of peace
+  assigned_to:
+  - fig:2
+  basis: Some who heard helped spread the word, paddled to the Caribisce with words
+    of peace, and went to the Waraus with the red cross.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: sacred referent of the message
+  assigned_to:
+  - fig:4
+  basis: The passage refers to the Saviour's name and the Saviour's word as the content
+    being made known.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: former foes receiving peace words
+  assigned_to:
+  - fig:6
+  basis: The Caribisce are explicitly called old foes, and words of peace are carried
+    to them.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: word of peace / Saviour's word
+  literal_form: spoken or taught Christian message described as word of peace and
+    Saviour's word
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: red cross
+  literal_form: red cross waving and planted on new ground
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sea route
+  literal_form: sea crossed or followed on the way to the Waraus
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Moravian mission in Berbice
+  summary: The speakers' brethren hear the word of peace from Moravians in Berbice
+    until trouble causes the missions to cease.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: English arrival at Essequibo
+  summary: The English arrive at Essequibo and make the Saviour's name known; the
+    Saviour's word reaches the speakers, with mixed response.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Peace mission to the Caribisce
+  summary: After some hear and help spread the word, the speakers paddle to the Caribisce,
+    described as old foes, carrying words of peace that are accepted.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Red cross carried to the Waraus
+  summary: The speakers go by sea to the Waraus with the red cross, intending to plant
+    it on new ground so that all red men may become Christians and peace may abound.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacred message transmitted between peoples
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage repeatedly presents the Christian word or name as something received
+    from one group and carried to others, including former foes and the Waraus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is a missionary verse retelling; the motif is based on the
+    internal presentation of message transmission, not on independent oral narrative
+    structure.
+- id: motif:2
+  label: peace mission to former enemies
+  taxonomy_refs: []
+  basis: The speakers identify the Caribisce as old foes and say they paddled to them
+    with words of peace, which were accepted.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the available motif
+    families do not contain a precise reconciliation category.
+- id: motif:3
+  label: planting a sacred emblem on new ground
+  taxonomy_refs: []
+  basis: The red cross is carried to the Waraus along the sea and is to be planted
+    on new ground.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states the act plainly but does not elaborate ritual details
+    or local symbolic interpretation.
+- id: motif:4
+  label: water journey carrying a sacred sign
+  taxonomy_refs: []
+  basis: The speakers travel along the sea to the Waraus while carrying the red cross.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The water journey is literal and brief; no explicit mythic voyage framework
+    is given in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2324-2327
+  quote_or_summary: Moravians in Berbice are said to have taught the speakers' brethren
+    the word of peace until trouble ended the missions.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2329-2335
+  quote_or_summary: The English come to Essequibo, make the Saviour's name known to
+    red men, and the Saviour's word comes to the speakers, though most oppose it and
+    some hear it.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2336-2343
+  quote_or_summary: Some who hear help spread the word; the speakers paddle to the
+    Caribisce, called old foes, with words of peace, and acceptance is found there.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2344-2351
+  quote_or_summary: With the red cross waving, the speakers go along the sea to the
+    Waraus to plant it on new ground, hoping that all red men become Christians and
+    peace abounds.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is limited because
+    the passage is a Christian missionary verse passage rather than a developed myth
+    narrative, and no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All entries are based only on the supplied passage and metadata.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l2324-l2351
+  passage_sha256=f4fc816ad3696ca9946f2bacc536065148bfcfa0db2ebfcf79c38d4232e38f1d
+

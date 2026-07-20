@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l32589-l32667
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: NORTP / FIG. 293. / FIG. 294. / FIG. 295.; lines 32589-32667
+  start: '32589'
+  end: '32667'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes several churinga or churinga nanja associated with
+    particular persons, totems, and tribes. It notes arrangements of chippings, bands,
+    circles, spirals, and incised designs. One rain or water totem churinga is said
+    to show a creek and ancestral marchings along its banks. Another wooden churinga
+    nanja of a Kumara woman of the yam totem has circles joined by bands, a design
+    said on frog-totem churinga to indicate trees and tracks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Chippings are described as arranged in rows roughly following the length of
+    an object and associated with straight or curved bands, circles, and spirals.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A stone churinga from the Warramunga tribe is flattened, pear-shaped, and
+    has its narrower end tipped with resin.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Warramunga stone churinga has a roughly cut band of lines following the
+    outline near the margin, five bands running across the flat surface, and shorter
+    bands at right angles radiating toward the edge.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A churinga associated with the rain totem in the Arunta tribe is represented
+    with more carefully incised lines than the preceding example.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: On the rain or water totem churinga, the central slightly curved band represents
+    a creek.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On the rain or water totem churinga, short straight side bands indicate ancestral
+    marchings from one spot to another along the banks of the creek.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A design usually met with on frog-totem churinga in the Arunta tribe is described
+    in connection with a particular churinga nanja.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The particular wooden churinga nanja is associated with a Kumara woman named
+    Litji-litji, belonging to the yam totem.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: On the convex side of Litji-litji's wooden churinga nanja are circles connected
+    by straight or slightly curved bands.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The same design, when on a frog-totem churinga, indicates trees and tracks.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ilpa-yimbika
+  description: A Kumara woman of the same tribe, named Ilpa-yimbika, who belongs to
+    the Latjia or yam totem and whose churinga nanja is referenced in the passage
+    opening.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: Litji-litji
+  description: A Kumara woman named Litji-litji, belonging to the yam totem, whose
+    wooden churinga nanja is described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: ancestors
+  description: Ancestors whose marchings from one spot to another along the banks
+    of a creek are indicated by short straight bands on a churinga.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: totem-affiliated woman associated with a churinga nanja
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both named women are identified as Kumara women belonging to the yam totem
+    and associated with churinga nanja.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: ancestral travelers represented in design
+  assigned_to:
+  - fig:3
+  basis: The passage says straight short bands indicate the marchings of ancestors
+    from one spot to another along the creek banks.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: churinga
+  literal_form: Stone or wooden churinga / churinga nanja with incised bands, circles,
+    spirals, and other markings.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: water or creek
+  literal_form: Central slightly curved band representing a creek on a rain or water
+    totem churinga.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: trees
+  literal_form: Design on a frog-totem churinga said to indicate trees.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: tracks
+  literal_form: Design on a frog-totem churinga said to indicate tracks.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: bands and circles
+  literal_form: Straight or curved bands, circles, spirals, and connected circles
+    used as churinga designs.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of Warramunga stone churinga
+  summary: A flattened pear-shaped stone churinga from the Warramunga tribe is described,
+    including resin at the narrow end and bands of incised lines around and across
+    its surface.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Rain or water totem churinga as creek and ancestral route
+  summary: An Arunta rain or water totem churinga is described as having a curved
+    central band representing a creek and short side bands marking ancestral movements
+    along the creek banks.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Yam-totem woman's wooden churinga nanja with frog-totem style design
+  summary: A wooden churinga nanja of Litji-litji, a Kumara woman of the yam totem,
+    is described with connected circles and bands; the passage notes that this style
+    is usually found on frog-totem churinga and there indicates trees and tracks.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: inscribed churinga as totemic identity object
+  taxonomy_refs: []
+  basis: The passage repeatedly associates churinga or churinga nanja with named persons,
+    tribes, and totems, including yam, rain or water, frog, emu, and Warramunga examples.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage is descriptive and does not explain the ritual use of the
+    objects within this excerpt.
+- id: motif:2
+  label: surface design as landscape and ancestral movement map
+  taxonomy_refs: []
+  basis: The Arunta rain or water totem churinga is described as using a curved band
+    for a creek and short side bands for ancestors' marchings along its banks.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage identifies only this particular design's meanings; broader
+    generalization beyond the excerpt should be reviewed.
+- id: motif:3
+  label: shared design conventions across totemic objects
+  taxonomy_refs: []
+  basis: The passage says a design usually found on frog-totem churinga appears on
+    the churinga nanja of a Kumara woman of the yam totem, and gives the design's
+    indicated meanings as trees and tracks in the frog-totem context.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt does not explain why a frog-totem style appears on a yam-totem
+    woman's churinga nanja.
+comparison_claims:
+- id: claim:1
+  claim: A design style usually associated with Arunta frog-totem churinga is compared
+    within the passage to the design on Litji-litji's yam-totem churinga nanja.
+  claim_level: visual_similarity
+  target: Arunta frog-totem churinga design conventions
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports visual and contextual comparison only; it does
+    not establish historical transmission, identical meaning in the yam-totem case,
+    or a wider comparative motif family.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32589-32667
+  quote_or_summary: The passage states that chippings may be arranged in rows along
+    the object and associated with straight or curved bands, circles, and spirals.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 32589-32667; Fig. 299 description
+  quote_or_summary: A Warramunga stone churinga is described as flattened, pear-shaped,
+    resin-tipped at the narrow end, with bands of lines following the outline and
+    crossing or radiating across the surface.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: lines 32589-32667; Fig. 300 description
+  quote_or_summary: "“the central, slightly curved band represents a creek,” and the
+    short side bands “indicate the marchings of the ancestors” along its banks."
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 32589-32667; Fig. 301 description
+  quote_or_summary: A style usually met with on Arunta frog-totem churinga is described
+    on the wooden churinga nanja of a Kumara woman named Litji-litji, of the yam totem,
+    with circles connected by straight or slightly curved bands on its convex side.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:5
+  type: quote
+  locator: lines 32589-32667; end of passage
+  quote_or_summary: "“This design on a Churinga of the frog totem indicates trees
+    and tracks”."
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 32589-32667; opening and Fig. 298 caption
+  quote_or_summary: The opening identifies a Kumara woman named Ilpa-yimbika, belonging
+    to the Latjia or yam totem, and the caption identifies a churinga nanja of a Kumara
+    woman of the yam totem.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a passage that begins and ends mid-discussion
+    and includes OCR or layout artifacts. Figure captions and descriptions are clear
+    enough for object, symbol, and design extraction, but broader ritual interpretation
+    is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy symbol refs were applied only for explicitly mentioned water/creek and trees; no motif-family taxonomy ref was assigned.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l32589-l32667
+  passage_sha256=3f9921b7b0cb23b617bd56b61475f793fdef2179ba2fa8435bc6fec40a30fa74
+

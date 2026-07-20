@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l19301-l19504
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: DESTRUCTION OF MANKIND / III I / U ' AAAAAA / DESTRUCTION OF MANKIND; lines
+    19301-19504
+  start: '19301'
+  end: '19504'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In this fragment of the Destruction of Mankind episode, Ra approves a plan
+    to protect mankind from a goddess. The goddess has slain people at a specified
+    place. By Ra's will, sleep-causing beer is poured out at night and heavenly fields
+    are filled with water. In the morning the goddess, identified parenthetically
+    as Sekhet, finds the place flooded, is pleased, and drinks.
+  language: English with Egyptian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ra says that the plan is good and that he is acting to protect mankind against
+    the goddess.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage refers to the place where the goddess slew mankind.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ra causes vases of sleep-causing beer to be poured out during the night.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The fields of heaven, described as four fields, are filled with water by the
+    will of the god.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the morning the goddess, identified as Sekhet, comes and finds the heaven
+    or field-space flooded.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The goddess's face is joyful because of what she finds, and she drinks.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ra
+  description: Divine figure called the majesty of Ra; he speaks in favor of protecting
+    mankind and causes the beer and water action by his will.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the goddess / Sekhet
+  description: Goddess identified in the passage as Sekhet; she had slain mankind,
+    later finds the flooded place, is joyful, and drinks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: mankind
+  description: Human collective whom Ra says he will protect against the goddess,
+    and whom the passage says she slew in a place.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: divine protector and commander
+  assigned_to:
+  - fig:1
+  basis: Ra says he is protecting mankind against the goddess and causes the night
+    pouring and flooding.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: destructive goddess and drinker
+  assigned_to:
+  - fig:2
+  basis: The goddess is associated with slaying mankind and later with joyfully drinking
+    after finding the flood.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: threatened human collective
+  assigned_to:
+  - fig:3
+  basis: Mankind is the group Ra seeks to protect and the group the goddess slew.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: sleep-causing beer
+  literal_form: vases of sleep-causing beer poured out at night
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: water and flood
+  literal_form: heavenly fields filled with water; the goddess finds the place flooded
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: fields of heaven
+  literal_form: the fields of heaven, called the four fields
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ra protects mankind against the goddess
+  summary: Ra approves the plan and states that he is protecting mankind against the
+    goddess; the passage also refers to the place where she slew mankind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Night pouring and flooding
+  summary: By Ra's will, sleep-causing beer is poured out during the night, and the
+    fields of heaven are filled with water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sekhet finds the flood and drinks
+  summary: In the morning the goddess Sekhet finds the flooded heavenly place, becomes
+    joyful, and drinks.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine protection of mankind from a destructive goddess
+  taxonomy_refs: []
+  basis: Ra explicitly says he is protecting mankind against the goddess, while the
+    passage also says she slew mankind.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The broader cause of the goddess's attack is outside this excerpt.
+- id: motif:2
+  label: destructive deity diverted by sleep-causing drink and flood
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: Sleep-causing beer is poured out, water fills the heavenly fields, and Sekhet
+    finds the flood joyfully and drinks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not explicitly state the final effect of the drinking
+    or a renewal outcome; the flood_and_renewal taxonomy link is therefore cautious.
+- id: motif:3
+  label: destruction of mankind by divine agency
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage title and narrative state that the goddess slew mankind, while
+    Ra responds to protect mankind against her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not give the reason for the destruction, so the divine_judgment
+    taxonomy link is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 19301-19504
+  quote_or_summary: 'Ra says: “It is good, it is good. I am for protecting mankind
+    against her.”'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 19301-19504
+  quote_or_summary: The passage mentions carrying or bringing things to the place
+    where the goddess slew mankind.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 19301-19504
+  quote_or_summary: Ra causes vases of sleep-causing beer to be poured out at night;
+    the fields of heaven, the four fields, are filled with water by the will of the
+    god.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 19301-19504
+  quote_or_summary: In the morning the goddess, identified as Sekhet, comes, finds
+    the heaven or field-space flooded, is joyful, and drinks.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a fragmentary OCR-like passage with interleaved
+    transliteration and translation. No comparison claims are made beyond cautious
+    motif-family tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied available taxonomy terms.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l19301-l19504
+  passage_sha256=8652bb5bf05bb2feb2f7f85531a9f738db38b7c4ecfff9b1712729f7d4d81637
+

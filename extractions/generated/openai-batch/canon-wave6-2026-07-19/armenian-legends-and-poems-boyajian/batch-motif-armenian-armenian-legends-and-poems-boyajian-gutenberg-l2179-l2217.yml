@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l2179-l2217
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: THE ROCK / THE CRANE / THE HAWK AND THE DOVE / FOLK SONG; lines 2179-2217
+  start: '2179'
+  end: '2217'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An English folk song in which the Hawk asks why the Dove weeps. The Dove
+    laments that spring is gone, autumn has arrived, streams have ceased, leaves and
+    flowers are dead, birds are silent, and she fears for her babies' food. The Hawk
+    tells her not to weep, promises that spring will return, and offers to carry her
+    to high trees and mountains to make a nest-like dwelling. The song ends with autumn
+    giving way to spring, flowing rills, flowers, birdsong, lambs, and a call to God
+    for love and care.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed "THE HAWK AND THE DOVE" and labeled "FOLK SONG."
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Hawk speaks to the Dove and asks why she sheds repeated tears that swell
+    a clear streamlet.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Dove says spring is gone and autumn is present; rills have ceased, leaves
+    and flowers are dead, and partridges are no longer heard.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Dove says she will continue weeping in despair and asks how she will find
+    food for her babies.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Hawk tells the Dove not to weep, says spring will come another year, and
+    says sunshine and hope will appear.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Hawk says he will carry the Dove on his pinions to tall trees and bare
+    mountains, build a nest and dwelling, and make a hearth in a rocky lair with a
+    chimney and smoke.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narration says autumn gives place to spring; rills flow into the streamlet,
+    hills bear flowers and violets, birds fill the air with music, and lambs call
+    to God.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hawk
+  description: A speaking bird who questions the Dove, tells her not to weep, promises
+    spring's return, and offers to carry her and build a dwelling.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Dove
+  description: A speaking bird who weeps, laments autumn's arrival, and worries about
+    feeding her babies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Dove's babies
+  description: The young for whom the Dove fears she cannot find fare.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Partridges
+  description: Birds that the Dove says are no longer heard during autumn.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Birds in spring
+  description: Birds that fill the air with music after autumn gives way to spring.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Bleating lambs
+  description: Lambs that call everywhere to God for His love and care.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: God
+  description: Named as the one to whom the lambs call for love and care.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: The Hawk asks the Dove why she is shedding tears.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: grieving parent
+  assigned_to:
+  - fig:2
+  basis: The Dove weeps, speaks of despair, and asks how she will find food for her
+    babies.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: comforting helper and shelter-builder
+  assigned_to:
+  - fig:1
+  basis: The Hawk tells the Dove not to weep, promises to carry her on his pinions,
+    and says he will build her a nest and dwelling.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: dependent young
+  assigned_to:
+  - fig:3
+  basis: The Dove's concern is how to find her babies' fare.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: seasonal animal markers
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The partridges' absence is part of the Dove's autumn lament, while spring
+    is marked by birdsong and bleating lambs.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: divine addressee
+  assigned_to:
+  - fig:7
+  basis: The lambs call to God for His love and care.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: tears and flowing water
+  literal_form: The Dove's tears swell a clear streamlet; later rills flow into the
+    streamlet.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: autumn barrenness
+  literal_form: Autumn, ceased rills, dead leaves and flowers, and absent partridge
+    calls.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: spring renewal
+  literal_form: Spring's return with sunshine, flowing rills, flowers, violets, birdsong,
+    and lambs.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: tall trees
+  literal_form: Tall trees where the Hawk says he will bear the Dove.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: high mountains and rocky lair
+  literal_form: Bare mountains, a rocky lair, and boulders in the spring landscape.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: nest-dwelling with hearth and smoke
+  literal_form: A nest, dwelling, hearth, chimney open to the air, and smoke rising
+    to the clouds.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: South Wind
+  literal_form: The South Wind named as the direction or recipient to which care will
+    fly.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: divine care
+  literal_form: Bleating lambs call to God for His love and care.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dove's autumn lament
+  summary: The Hawk asks why the Dove weeps, and the Dove answers that autumn has
+    replaced spring, rills have ceased, plants are dead, partridges are silent, and
+    she fears for her babies' food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Hawk's promise of hope and refuge
+  summary: The Hawk tells the Dove not to weep, announces that spring will return
+    with sunshine and hope, and promises to carry her to high trees and mountains
+    to make a nest-like dwelling in a rocky lair.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Spring restoration
+  summary: Autumn gives way to spring; water flows, flowers cover the hills, birds
+    sing, and lambs call to God for love and care.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal loss followed by spring renewal
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Dove's autumn lament describes ceased waters, dead plants, and scarce
+    food, while the ending narrates spring's return with flowing rills, flowers, birdsong,
+    and lambs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents the pattern poetically in a folk song; it does not
+    provide ritual or calendrical context.
+- id: motif:2
+  label: bird-borne movement to a high refuge
+  taxonomy_refs:
+  - ascent
+  basis: The Hawk promises to carry the Dove on his pinions to tall trees and bare
+    mountains, where he will build a nest and dwelling.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The flight and construction are promised in speech rather than narrated
+    as completed; the passage does not frame the movement as a spiritual ascent.
+- id: motif:3
+  label: parental anxiety over feeding young
+  taxonomy_refs: []
+  basis: The Dove asks how she will find food for her babies after describing autumn
+    scarcity.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a domestic animal-care motif in the song and is not tied here
+    to a supplied taxonomy family.
+- id: motif:4
+  label: lamenting tears that swell a stream
+  taxonomy_refs: []
+  basis: The Hawk describes the Dove's repeated tears as going to swell the clear
+    streamlet.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The wording may be poetic rather than a literal transformation or supernatural
+    causation.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a seasonal-cycle motif pattern because autumn scarcity and
+    grief are followed by the promised and then narrated return of spring abundance.
+  claim_level: same_motif
+  target: seasonal_cycle motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a pattern-level comparison only; the passage does not support
+    claims about historical contact, common inheritance, or a specific parallel text.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 2179-2181
+  quote_or_summary: 'Title and genre label: "THE HAWK AND THE DOVE"; "FOLK SONG."'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 2183-2186
+  quote_or_summary: The Hawk asks the Dove why she sheds "tear after tear" that swell
+    a clear streamlet.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; brief quotation and summary.
+- id: ev:3
+  type: summary
+  locator: lines 2186-2193
+  quote_or_summary: The Dove says spring is gone and autumn is here; rills have ceased,
+    leaves and flowers are dead, partridges are no longer heard, and she asks how
+    she will find fare for her babies.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2194-2206
+  quote_or_summary: The Hawk tells the Dove not to weep, says spring will come another
+    year with sunshine and hope, and promises to bear her on his pinions to tall trees
+    and bare mountains, where he will build a nest, dwelling, hearth, and chimney
+    in a rocky lair with smoke rising and care flying to the South Wind.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2207-2217
+  quote_or_summary: Autumn gives place to spring; rills flow into the streamlet like
+    blood-drops from boulders, flowers and violets cover the hills, birds fill the
+    air with music, and bleating lambs call to God for His love and care.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear for literal extraction and the seasonal-cycle pattern
+    is strongly supported. Other motif candidates, especially ascent, require review
+    because they are based on promised action within a lyric folk song.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction is limited to the supplied passage text. Although the locator label mentions neighboring items, no details from outside the supplied Hawk and Dove folk song were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l2179-l2217
+  passage_sha256=fc19debd8665952a0ac89f2a86a9048d10435d48b053310323cd85dce1605a1e
+

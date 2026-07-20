@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.gnostic-mead-fragments-of-a-faith-forgotten-archive-l1812-l1976
+source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+passage_locator:
+  label: GNOSTIC     WORKS      MENTIONED      BY      ANCIENT / WRITERS / INDEX.
+    / XXXIV.         FRAGMENTS    OF    A    FAITH    FORGOTTEN.; lines 1812-1976
+  start: '1812'
+  end: '1976'
+  translation: Fragments of a Faith Forgotten
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetic index segment from Mead's Fragments of a Faith Forgotten,
+    listing entries from 'Ancient of days' through 'Birth' with page references. The
+    entries include named figures, places, works, ritual terms, baptismal variants,
+    Barbelo and Barbelo-Gnostics, and several birth-related headings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an alphabetic index segment with entries and page references
+    rather than a continuous narrative.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An entry lists an 'Ascension of pleroma.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The baptism entry includes mysteries of baptism, baptism associated with fire,
+    incense, Jesus, the Holy Spirit, water, life, and a dove myth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A separate entry lists baptismal consecration.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage lists Barbelo and also lists Barbelo-Gnostics.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The birth entry lists new birth, birth of Horus, second birth, and birth of
+    the spiritual man.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage lists a great bird and a basilisk as indexed entries.
+  category: object
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Jesus
+  description: Named in the baptism entry as part of the phrase 'baptism of Jesus.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Holy Spirit
+  description: Named in the baptism entry as part of the phrase 'baptism of Holy Spirit.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Horus
+  description: Named in the birth entry as the figure whose birth is indexed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Barbelo
+  description: Named as an index entry; a related group label, Barbelo-Gnostics, is
+    also listed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: baptism-associated named figure
+  assigned_to:
+  - fig:1
+  basis: The index includes 'baptism of Jesus' within the baptism entry.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: spirit associated with baptism entry
+  assigned_to:
+  - fig:2
+  basis: The index includes 'baptism of Holy Spirit' within the baptism entry.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: birth-associated named figure
+  assigned_to:
+  - fig:3
+  basis: The birth entry includes 'of Horus.'
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: indexed named entity linked to a group label
+  assigned_to:
+  - fig:4
+  basis: The index lists both 'Barbelo' and 'Barbelo-Gnostics.'
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Baptism of fire; fires of baptism.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: water
+  literal_form: Baptism of water, including a parenthetical 'of life.'
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: incense
+  literal_form: Baptism of incense.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dove
+  literal_form: Myth of dove within the baptism entry.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: pleroma
+  literal_form: Pleroma in the entry 'Ascension of pleroma.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: great bird
+  literal_form: Bird, great.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: basilisk
+  literal_form: Basilisk.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: baptismal mystery and consecration
+  taxonomy_refs:
+  - initiation
+  basis: The index lists baptism, mysteries of baptism, multiple baptismal forms,
+    and baptismal consecration.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is an index, so it confirms indexed ritual topics but does
+    not provide a full ritual narrative or doctrinal explanation.
+- id: motif:2
+  label: elemental baptism by fire and water
+  taxonomy_refs:
+  - initiation
+  basis: The baptism entry specifically includes baptism of fire and baptism of water,
+    with water also linked parenthetically to life.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The index does not explain whether these are separate rites, symbolic
+    categories, or textual headings.
+- id: motif:3
+  label: ascension of the pleroma
+  taxonomy_refs:
+  - ascent
+  basis: The index contains the entry 'Ascension of pleroma.'
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The indexed phrase does not clarify the agent, sequence, or cosmological
+    setting of the ascension.
+- id: motif:4
+  label: new, second, or spiritual birth
+  taxonomy_refs:
+  - sacred_birth
+  basis: The birth entry lists new birth, second birth, birth of Horus, and birth
+    of the spiritual man.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The index provides headings only; it does not narrate the birth events
+    or their theological interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1812-1976
+  quote_or_summary: Alphabetic index segment with headings and page references, beginning
+    with entries under A and continuing into B through the entry for Birth.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source text; summary used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 1812-1976, entry 'Ascension of pleroma'
+  quote_or_summary: '"Ascension of pleroma, 478."'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source text; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 1812-1976, entry 'Baptism'
+  quote_or_summary: '"Baptism ... mysteries of ... (fires of) ... myth of dove ...
+    of fire ... of incense ... of Jesus ... of Holy Spirit ... of water ... (of life)"'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source text; abbreviated excerpt used for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 1812-1976, entry 'Baptismal consecration'
+  quote_or_summary: '"Baptismal consecration, 380."'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source text; short excerpt used for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 1812-1976, entries 'Barbelo' and 'Barbelo-Gnostics'
+  quote_or_summary: '"Barbelo" and "Barbelo-Gnostics" are listed as index entries
+    with page references.'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source text; short excerpt and summary used for extraction.
+- id: ev:6
+  type: quote
+  locator: lines 1812-1976, entry 'Birth'
+  quote_or_summary: '"Birth, new ... of Horus ... second ... of spiritual man"'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source text; abbreviated excerpt used for extraction.
+- id: ev:7
+  type: quote
+  locator: lines 1812-1976, entry 'Bird'
+  quote_or_summary: '"Bird, great, 473."'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source text; short excerpt used for extraction.
+- id: ev:8
+  type: quote
+  locator: lines 1812-1976, entry 'Basilisk'
+  quote_or_summary: '"Basilisk, 474."'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source text; short excerpt used for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an index rather than a narrative or doctrinal passage. Extraction
+    is limited to indexed terms and should not be treated as evidence for full mythic
+    episodes without consulting the indexed pages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative claim; it only lists index entries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:gnostic-mead-fragments-of-a-faith-forgotten-archive__l1812-l1976
+  passage_sha256=5fbda6bd73eb2d8e4c6c7bc8791295453a8bd90255913f86d6cde2877d28a23f
+

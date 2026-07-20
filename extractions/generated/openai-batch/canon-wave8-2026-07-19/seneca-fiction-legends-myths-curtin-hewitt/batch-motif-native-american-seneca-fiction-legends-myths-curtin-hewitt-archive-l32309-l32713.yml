@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.native-american-seneca-fiction-legends-myths-curtin-hewitt-archive-l32309-l32713
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: BKWITTJ / BIWITTJ / BIWITTJ / CURTIN,!; lines 32309-32713
+  start: '32309'
+  end: '32713'
+  translation: Seneca Fiction, Legends, and Myths
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens a story titled with a gloss referring to the Spirit of
+    the Tides. In ancient time an uncle and nephew live in a large lodge. The ancient
+    uncle lies supine, with a large tree and several roots on his body so that he
+    cannot rise. After a long time he speaks to his nephew, directs him to plant food
+    crops, and then tells him to fetch a basket of seed-grain from under the bed or
+    couch.
+  language: English with Seneca transcription and interlinear glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed with a story title glossed as referring to the Spirit
+    of the Tides.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An uncle and nephew are described as living in a large lodge in ancient time.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ancient uncle lies supine, and a large tree with several roots is on his
+    body, preventing him from rising.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After a long time, the ancient uncle speaks to his nephew.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The ancient uncle directs the nephew to go yonder and plant beans, corn, squash,
+    and another food item glossed as savory or delicious.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The ancient uncle says the planted food may grow, ripen, be eaten or used
+    for living, and be harvested.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The ancient uncle tells the nephew to fetch a large basket from under the
+    bed or couch.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The basket is said to contain seed-grain.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The nephew, described as a youth, fetches the basket; the ancient uncle then
+    tells him to come, fetch it from under the couch, gird himself with it, and says
+    he needs it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: ancient uncle
+  description: An ancient male figure and uncle who lies supine in the lodge, cannot
+    rise because tree roots are on his body, and gives instructions to his nephew.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: nephew / youth
+  description: The nephew of the ancient uncle; he is instructed to plant crops and
+    to fetch a basket from under the bed or couch.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: uncle and ancient one
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the figure as the uncle and as the ancient one.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: instructor and speaker
+  assigned_to:
+  - fig:1
+  basis: He speaks to the nephew, instructs him to plant crops, and directs him to
+    fetch the seed basket.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: nephew
+  assigned_to:
+  - fig:2
+  basis: The passage describes the second figure as the ancient one's nephew.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: helper or errand-doer
+  assigned_to:
+  - fig:2
+  basis: He receives the planting instructions and fetches the basket as directed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: large tree with roots
+  literal_form: A large tree, with several roots, lies or stands with its roots on
+    the ancient uncle's body.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: basket of seed-grain
+  literal_form: A large basket kept under the bed or couch and containing seed-grain.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: cultivated food crops
+  literal_form: Beans, corn, squash, and another food item glossed as savory or delicious,
+    to be planted, grown, ripened, eaten, and harvested.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: large lodge and bed or couch
+  literal_form: The dwelling place of the uncle and nephew, with a bed or couch under
+    which the basket is kept.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ancient lodge and immobilized elder
+  summary: In ancient time an uncle and nephew dwell in a large lodge. The ancient
+    uncle lies supine and cannot rise because the roots of a large tree are on his
+    body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Instruction to plant crops
+  summary: The ancient uncle speaks to his nephew and tells him to go to another place
+    and plant food crops so that they may grow, ripen, be eaten, sustain life, and
+    be harvested.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Fetching the seed basket
+  summary: The ancient uncle tells the nephew to fetch a basket from under the bed
+    or couch. The basket contains seed-grain, and the nephew retrieves it as directed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Immobile ancient figure pinned by tree roots
+  taxonomy_refs: []
+  basis: The ancient uncle lies supine with a large tree's roots on his body and cannot
+    rise.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain why the tree is on his body or assign a cosmological
+    function to the tree.
+- id: motif:2
+  label: Elder directs younger relative in crop planting
+  taxonomy_refs: []
+  basis: The ancient uncle instructs his nephew to plant food crops and describes
+    their growth, ripening, use for life, and harvest.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not state that this is the first origin of agriculture
+    or a public cultural institution.
+- id: motif:3
+  label: Stored seed basket beneath sleeping place
+  taxonomy_refs: []
+  basis: A basket containing seed-grain is kept under the bed or couch and must be
+    fetched by the nephew.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text is interlinear and OCR-affected; the exact size and handling
+    of the basket are partly uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 32309-32713; title and opening setting
+  quote_or_summary: The passage title is glossed as referring to the Spirit of the
+    Tides, and the opening places an uncle and nephew in a large lodge in ancient
+    time.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 32309-32713; description of ancient one
+  quote_or_summary: The ancient one lies supine; a large tree with several roots is
+    on his body, and he is unable to arise.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 32309-32713; speech about planting
+  quote_or_summary: The ancient one speaks to his nephew, telling him to go yonder
+    and plant beans, corn, squash, and another savory food item so the food will grow,
+    ripen, be used for living, and be harvested.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 32309-32713; instruction to fetch basket
+  quote_or_summary: The ancient one tells the nephew to fetch a large basket from
+    under the bed or couch; the basket contains seed-grain.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 32309-32713; basket retrieval
+  quote_or_summary: The youth/nephew fetches the basket, and the ancient one further
+    tells him to fetch it from under the couch, gird himself with it, and says he
+    needs it.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is OCR-affected and interlinear; the main actions are reasonably
+    clear, but several glosses and object details remain uncertain. No passage-internal
+    comparison claim was extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to the clearly present symbol 'tree'; motif-family taxonomy assignments are left empty because broader functions are not explicit in this excerpt.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-seneca-fiction-legends-myths-curtin-hewitt-archive__l32309-l32713
+  passage_sha256=41ff5b4929885168edf319bc6a07c86e988e830f0f3f303f2e7526d0d17752b8
+

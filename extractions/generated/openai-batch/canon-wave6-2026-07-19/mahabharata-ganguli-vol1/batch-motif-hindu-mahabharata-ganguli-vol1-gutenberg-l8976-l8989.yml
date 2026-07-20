@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l8976-l8989
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION LXXX / SECTION LXXXI / SECTION LXXXII / SECTION LXXXIII; lines 8976-8989
+  start: '8976'
+  end: '8989'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: thou art competent to transfer this thy decrepitude to another
+  summary: Yayati, cursed by the angry Usanas, loses his youth and is overcome by
+    decrepitude. He asks Sukra for relief because he has not been satiated with youth
+    or Devayani. Sukra says the condition is real but permits Yayati to transfer his
+    decrepitude to another. Yayati asks that the son who gives him youth inherit the
+    kingdom and gain virtue and fame; Sukra confirms that such a son will become successor
+    and receive long life, wide fame, and numerous progeny.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yayati is identified as the son of Nahusha.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The angry Usanas curses Yayati, after which Yayati is divested of youth and
+    overcome by decrepitude.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yayati asks the son of Bhrigu for grace so that decrepitude might not touch
+    him, saying he has not been satiated with youth or Devayani.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sukra states that he never speaks untruth and that Yayati is already attacked
+    by decrepitude.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sukra says Yayati may transfer his decrepitude to another if he wishes.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Yayati asks that the son who gives him youth should enjoy his kingdom and
+    achieve virtue and fame.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sukra says Yayati may transfer decrepitude to whomever he likes, and that
+    the son who gives youth will become successor to the throne and have long life,
+    wide fame, and numerous progeny.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yayati
+  description: Son of Nahusha; cursed, deprived of youth, overcome by decrepitude,
+    and seeking to transfer that decrepitude in exchange for youth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Usanas / Sukra
+  description: The angry Usanas who curses Yayati; also addressed and named as Sukra,
+    the son of Bhrigu and a Brahmana who authorizes the transfer of decrepitude.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Devayani
+  description: Named by Yayati as someone with whom he has not been satiated.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Unnamed son of Yayati
+  description: A prospective son who may give youth to Yayati and receive the kingdom,
+    succession, long life, fame, and progeny.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: cursed king seeking relief from decrepitude
+  assigned_to:
+  - fig:1
+  basis: Yayati is cursed, loses youth, becomes decrepit, and asks for decrepitude
+    not to touch him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: curse-giver and authorizer of transfer
+  assigned_to:
+  - fig:2
+  basis: Usanas curses Yayati; Sukra then states the curse cannot be false but permits
+    transfer of decrepitude.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: figure named in Yayati's unsatisfied desire
+  assigned_to:
+  - fig:3
+  basis: Yayati says he has not yet been satiated with youth or Devayani.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: prospective youth donor and royal successor
+  assigned_to:
+  - fig:4
+  basis: Yayati and Sukra describe a son who would give youth and become successor
+    to the throne.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: youth
+  literal_form: Youth as a bodily condition that Yayati lacks and that a son may give
+    to him.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: decrepitude
+  literal_form: Decrepitude as a bodily condition imposed by curse and made transferable
+    to another.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: kingdom and throne
+  literal_form: Yayati's kingdom and the successor's throne promised to the son who
+    gives youth.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Curse and loss of youth
+  summary: The angry Usanas curses Yayati, and Yayati is immediately deprived of youth
+    and overcome by decrepitude.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Request for mitigation
+  summary: Yayati asks the Brahmana for grace, and Sukra says the decrepitude cannot
+    be denied but may be transferred to another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Youth exchange and succession promise
+  summary: Yayati requests that the son who gives him youth inherit the kingdom and
+    gain virtue and fame; Sukra authorizes the transfer and promises the son succession,
+    long life, wide fame, and numerous progeny.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: curse-imposed premature decrepitude
+  taxonomy_refs: []
+  basis: Yayati's youth is removed and decrepitude immediately overtakes him as the
+    result of Usanas's anger and curse.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the effect of the curse but not the full prior cause
+    within this line range.
+- id: motif:2
+  label: transfer of old age in exchange for youth
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Sukra allows Yayati to transfer decrepitude to another, and the contemplated
+    recipient is a son who gives youth to Yayati.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The actual transfer is authorized and proposed here, but not completed
+    within the supplied passage.
+- id: motif:3
+  label: succession granted to the filial donor
+  taxonomy_refs:
+  - royal_legitimacy
+  - sacred_exchange
+  basis: Yayati asks, and Sukra confirms, that the son who gives youth will become
+    successor to the throne and gain fame, long life, and progeny.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The son is not identified in this passage, and the promise is conditional.
+comparison_claims:
+- id: claim:1
+  claim: Within the supplied taxonomy, the passage functionally fits a sacred exchange
+    pattern because bodily states, youth and decrepitude, are made transferable under
+    Sukra's authorization and are tied to rewards.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional taxonomy comparison only; it is not evidence for
+    historical contact or for a completed exchange within this passage.
+- id: claim:2
+  claim: The passage functionally fits a royal legitimacy pattern because succession
+    to Yayati's throne is assigned to the son who provides youth.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents a conditional promise and does not yet narrate
+    the son's acceptance or enthronement.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8976-8978
+  quote_or_summary: "“Yayati, the son of Nahusha, thus cursed by the angry Usanas,
+    was then divested of his youth and immediately overcome by decrepitude.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source text; quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: 8978-8981
+  quote_or_summary: Yayati says he has not been satiated with youth or Devayani and
+    asks the son of Bhrigu to be gracious so decrepitude might not touch him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 8981-8984
+  quote_or_summary: Sukra says he never speaks untruth, that Yayati is attacked by
+    decrepitude, and that Yayati may transfer his decrepitude to another.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 8984-8986
+  quote_or_summary: Yayati asks that the son who gives him youth should enjoy his
+    kingdom and achieve virtue and fame.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 8987-8989
+  quote_or_summary: Sukra says Yayati may transfer decrepitude to whomever he likes,
+    and that the son who gives youth will be successor to the throne with long life,
+    wide fame, and numerous progeny.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main actions and speeches are explicit. Motif and comparison assignments
+    are functional matches to the provided taxonomy and should be reviewed by a human
+    editor.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unprovided context were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l8976-l8989
+  passage_sha256=911cdeca2dc8588577add915630afff7a2a3e725378eec6f95a6ee074ca51a1c
+

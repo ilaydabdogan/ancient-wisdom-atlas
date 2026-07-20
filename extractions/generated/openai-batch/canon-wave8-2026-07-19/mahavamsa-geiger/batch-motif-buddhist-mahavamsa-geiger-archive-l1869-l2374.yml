@@ -1,0 +1,450 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l1869-l2374
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: Y. M. D. / XXXV111 / Y. M. D. / Y. M. D.; lines 1869-2374
+  start: '1869'
+  end: '2374'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a scholarly introduction section giving chronological tables
+    for Ceylonese kings, discussing the approximate value of the dates, listing successors
+    of Mahasena, and citing Chinese and other sources for synchronisms involving Sri-Meghavanna/Sri-Meghavarman,
+    Samudragupta, and Kassapa. It also introduces a comparison of Indian royal lists
+    from Bimbisara to Asoka across Ceylonese, Burmese, Nepalese, and Jaina traditions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage gives a chronological table of Ceylonese kings from Ijanaga through
+    Mahasena, including chronicle references, reign lengths, Buddhist-era dates, Christian-era
+    dates, and totals.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the dates in the table can only be regarded as approximate
+    because the chronicles mostly give reigns rounded off in whole years.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists the immediate successors of Mahasena, from Siri-Meghavanna
+    through Kassapa, with reign lengths and A.D. date ranges.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A Chinese account is said to report that the Ceylonese king Sri-Meghavarman
+    sent two bhiksus to India to a monastery erected by Asoka near the sacred tree
+    of the Buddha in Bodh Gaya.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The two bhiksus found no lodging, reported this to their king, and the king
+    sent an embassy to Samudragupta seeking permission to build a monastery at the
+    sacred spot for Ceylonese pilgrims.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The passage states that Chinese sources report another embassy from Ceylon
+    to China, sent by King Kia-che or Kasyapa in 527 A.D., and identifies this with
+    Kassapa I.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The passage introduces a comparison of royal lists from Bimbisara to Asoka
+    in Ceylonese, Burmese, Nepalese, and Jaina traditions.
+  category: relationship
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Siri-Meghavanna / Sri-Meghavarman
+  description: Ceylonese king, successor of Mahasena, associated with the sending
+    of two bhiksus to India and an embassy to Samudragupta.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Two bhiksus
+  description: Two Buddhist monks sent by the Ceylonese king to India; they found
+    no lodging and reported this to their king.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Asoka
+  description: Named as the builder of a monastery near the sacred tree of the Buddha
+    in Bodh Gaya and as an endpoint in the Indian royal lists discussed in the next
+    section.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: The Buddha
+  description: The sacred tree in Bodh Gaya is described as belonging to or associated
+    with the Buddha.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Samudragupta
+  description: The king then ruling over India, addressed by the Ceylonese embassy
+    seeking permission to build a monastery at the sacred spot.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Kia-che / Kasyapa / Kassapa I
+  description: Ceylonese king connected with an embassy to China in 527 A.D.; the
+    passage identifies him with Kassapa I.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:7
+roles:
+- id: role:1
+  label: Ceylonese king
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: Both figures are named as kings of Ceylon in chronological or diplomatic
+    contexts.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:2
+  label: Monastic envoys or pilgrims
+  assigned_to:
+  - fig:2
+  basis: The two bhiksus are sent from Ceylon to India and encounter the need for
+    lodging at Bodh Gaya.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Royal patron of Buddhist monastic construction
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Asoka is said to have erected a monastery near the sacred tree, and Sri-Meghavarman
+    seeks permission to build a monastery for Ceylonese pilgrims.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: Sacred figure associated with the Bodh Gaya tree
+  assigned_to:
+  - fig:4
+  basis: The passage calls the Bodh Gaya tree the sacred tree of the Buddha.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Indian ruler addressed for permission
+  assigned_to:
+  - fig:5
+  basis: The Ceylonese king sends an embassy to Samudragupta seeking permission to
+    build at the sacred spot.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Sacred tree of the Buddha
+  literal_form: The sacred tree of the Buddha in Bodh Gaya.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Monastery at the sacred spot
+  literal_form: A monastery erected by Asoka near the sacred tree and a proposed monastery
+    for Ceylonese pilgrims.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Royal embassy
+  literal_form: An embassy sent by a Ceylonese king to another ruler for religious
+    or diplomatic purposes.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: Bodh Gaya sacred spot
+  literal_form: The sacred spot near the sacred tree of the Buddha in Bodh Gaya.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Chronological accounting of Ceylonese kings
+  summary: The introduction presents regnal tables and date calculations for Ceylonese
+    kings, while cautioning that the dates are approximate.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ceylonese pilgrimage lodging at Bodh Gaya
+  summary: Sri-Meghavarman sends two bhiksus to India; after they find no lodging
+    near Asoka's monastery by the sacred tree of the Buddha, he sends an embassy to
+    Samudragupta seeking permission to build a monastery for Ceylonese pilgrims.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Kassapa embassy to China
+  summary: Chinese sources are said to report an embassy from Ceylon to China in 527
+    A.D., sent by King Kia-che or Kasyapa, whom the passage identifies with Kassapa
+    I.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Comparison of royal-list traditions
+  summary: The passage introduces a table comparing the kings from Bimbisara to Asoka
+    in Ceylonese, Burmese, Nepalese, and Jaina traditions, and comments on dependence
+    or intermediate position among these traditions.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Sacred tree pilgrimage and monastic foundation
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage centers the Bodh Gaya episode on the sacred tree of the Buddha
+    and on the construction or proposed construction of monasteries for pilgrims at
+    that sacred spot.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage explicitly names a sacred tree and sacred spot but does not
+    develop a cosmological axis symbolism.
+- id: motif:2
+  label: Royal patronage of pilgrimage infrastructure
+  taxonomy_refs: []
+  basis: Asoka is described as having erected a monastery near the sacred tree, and
+    Sri-Meghavarman seeks permission to build a monastery for Ceylonese pilgrims.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a historical-diplomatic pattern in the passage, not a developed
+    mythic narrative.
+- id: motif:3
+  label: Chronicle validation through cross-cultural synchronism
+  taxonomy_refs: []
+  basis: The passage uses Chinese reports and Indian-Ceylonese synchronisms involving
+    Sri-Meghavanna, Samudragupta, and Kassapa to confirm or test chronological reckoning.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a historiographical pattern rather than a symbolic myth motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Ceylonese chronology with a Chinese-reported Indian-Ceylonese
+    synchronism, aligning Siri-Meghavanna or Sri-Meghavarman with Samudragupta.
+  claim_level: historical_contact
+  target: Chinese Wang Hiuen ts'e account and Gupta-era chronology
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The synchronism is presented through scholarly interpretation, and
+    the passage separately cautions that the chronicle dates are approximate.
+- id: claim:2
+  claim: The passage identifies a Chinese report of a Ceylonese embassy by Kia-che
+    or Kasyapa in 527 A.D. with Kassapa I, whose reign is listed as beginning about
+    527.
+  claim_level: historical_contact
+  target: Chinese sources on a Ceylonese embassy to China
+  evidence_refs:
+  - ev:3
+  - ev:7
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The identification is described as evident by the editor, but the broader
+    Chinese source context is not included in the supplied passage.
+- id: claim:3
+  claim: The passage presents the Burmese royal-chronology tradition as dependent
+    on the Ceylonese tradition and says Buddhaghosa agrees with the Mahavamsa.
+  claim_level: historical_contact
+  target: Burmese tradition and Buddhaghosa in relation to the Ceylonese Dipavamsa
+    and Mahavamsa
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The statement is an editorial assessment; the comparative table itself
+    is only introduced in the supplied excerpt.
+- id: claim:4
+  claim: The passage describes the Nepalese Asokavadana list as perhaps standing between
+    the Ceylonese and Jaina traditions.
+  claim_level: same_function
+  target: Nepalese Asokavadana royal list compared with Ceylonese and Jaina traditions
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The sentence is cut off soon after the claim, so supporting details
+    are not available in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1869-2074, chronological table in Introduction XXXVIII-XXXIX
+  quote_or_summary: The passage presents a table of Ceylonese kings from Ijanaga through
+    Mahasena with Dipavamsa and Mahavamsa references, reign lengths, Buddhist-era
+    dates, Christian-era dates, and total sums.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 2075-2082, note after chronological table
+  quote_or_summary: '"Of course the dates set down can only be regarded as having
+    an approximate value."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2090-2116, list of Mahasena's successors
+  quote_or_summary: 'The passage states that 609 years elapsed from Devanampiyatissa
+    to Mahasena''s death according to later sources, then lists Mahasena''s immediate
+    successors: Siri-Meghavanna, Jetthatissa, Buddhadasa, Upatissa, Mahanama, rulers
+    from Sotthisena to Pithiya, Dhatusena, and Kassapa, with reign lengths and A.D.
+    dates.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2117-2124, synchronism introduction
+  quote_or_summary: The passage says that for the later period there is an Indian-Ceylonese
+    synchronism which appears to confirm the reckoning that uses 483 B.C. as point
+    of departure, and introduces a passage communicated by Sylvain Levi from the Chinese
+    Wang Hiuen ts'e.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2124-2137, Wang Hiuen ts'e account
+  quote_or_summary: The Chinese account says the king of Ceylon, Chi-mi-kia-po-mo
+    or Sri-Meghavarman, sent two bhiksus to India to the monastery erected by Asoka
+    near the sacred tree of the Buddha in Bodh Gaya.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2137-2151, embassy to Samudragupta
+  quote_or_summary: The two bhiksus found no lodging and told their king; he sent
+    an embassy to Samudragupta seeking permission to build a monastery at the sacred
+    spot for Ceylonese pilgrims, and the passage says this confirms the synchronism
+    of Siri-Meghavanna with Samudragupta.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 2152-2161, Chinese report of Kasyapa embassy
+  quote_or_summary: The passage states that Chinese sources report another embassy
+    from Ceylon to China, sent by king Kia-che or Kasyapa in 527 A.D., and identifies
+    this with Kassapa I, whose reign began about 527 in the author's list.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 2162-2174, section on Indian kings from Bimbisara to Asoka
+  quote_or_summary: The passage introduces a table comparing kings from Bimbisara
+    to Asoka according to Ceylonese, Burmese, Nepalese, and Jaina traditions, and
+    states that the Burmese tradition is dependent on the Ceylonese tradition as represented
+    by the Dipavamsa and Mahavamsa; Buddhaghosa is said to agree with the Mahavamsa.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 2175-2180, Nepalese list note
+  quote_or_summary: The passage says that the Nepalese list of the Asokavadana perhaps
+    comes midway between the Ceylonese and the Jaina tradition.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal chronology and diplomatic episodes are explicit. Motif interpretation
+    is limited because the passage is primarily historiographical and scholarly rather
+    than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs and used cautiously.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l1869-l2374
+  passage_sha256=90f6a9c83f51333c53fcc4cdb1f57277c8dc5b3f5970e1b1a5669044ef08185d
+

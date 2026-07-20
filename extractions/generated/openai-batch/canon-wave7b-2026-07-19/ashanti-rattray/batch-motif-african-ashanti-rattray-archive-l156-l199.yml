@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l156-l199
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: Ashanti / PREFACE / PREFACE / PREFACE; lines 156-199
+  start: '156'
+  end: '199'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The preface explains why the investigator chose direct personal fieldwork
+    among Ashanti elders. It states that valuable knowledge is held by comparatively
+    few older men and women, that interpreters can inhibit communication, and that
+    trusted direct conversation can elicit ancient lore for preservation and future
+    research.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first-person speaker chose to investigate the beliefs and customs directly
+    and, after a year, judged the decision correct.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Valuable anthropological information and accurate knowledge are attributed
+    to comparatively few older men and women.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The older knowledge holders are described as having few dealings with foreigners,
+    living secluded lives in remote villages, and being indifferent to European-driven
+    social and religious changes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When asked to converse through an interpreter, these elders are described
+    as becoming reticent, suspicious, uninterested, or likely to withhold knowledge.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Trusted direct conversation without an interpreter is presented as the condition
+    under which the elders are likely to share ancient lore and thoughts.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker says he possessed the trust of many old people, could converse
+    directly with them, and attempted to secure and preserve their material for future
+    investigation.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The speaker expects the Department's present activities to aid future investigators
+    and increase the value of their work.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first-person investigator
+  description: The speaker who chose direct investigation, had the confidence of many
+    old people, and sought to preserve material for future research.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: older men and women / 'ancients'
+  description: Older Ashanti knowledge holders described as possessing accurate knowledge
+    and ancient lore, often living secluded lives in remote villages.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: interpreter
+  description: A possible linguistic intermediary described as often not knowing English
+    well and being unable to render many vernacular words into English.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: colleagues and future investigators
+  description: People expected later to assist the new Department and benefit from
+    its present activities.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: direct field investigator
+  assigned_to:
+  - fig:1
+  basis: The speaker chooses direct investigation, converses personally with elders,
+    and preserves material for future research.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: elder knowledge holders
+  assigned_to:
+  - fig:2
+  basis: The passage says accurate knowledge and ancient lore are held by older men
+    and women described as 'ancients'.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: linguistic intermediary
+  assigned_to:
+  - fig:3
+  basis: The interpreter is the medium through which elders may be asked to converse,
+    though the passage emphasizes the interpreter's limitations.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: future research collaborators
+  assigned_to:
+  - fig:4
+  basis: Colleagues are expected to step in later, and future investigators are expected
+    to be aided by the Department's work.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Choice of direct field investigation
+  summary: The speaker chooses to begin direct investigation of Ashanti beliefs and
+    customs and later affirms that choice.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Conditions for receiving elder knowledge
+  summary: The passage contrasts communication through an interpreter, which may cause
+    withholding, with trusted direct conversation, which may lead elders to share
+    ancient lore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Preservation for future research
+  summary: The speaker presents direct personal contact as a means of securing valuable
+    material as groundwork for future investigation and departmental work.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: elder-held wisdom preserved through trusted transmission
+  taxonomy_refs:
+  - wisdom
+  basis: The passage locates accurate knowledge and ancient lore among older people
+    and says trusted direct conversation can elicit and preserve that knowledge for
+    later research.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: This is methodological preface prose rather than a mythic narrative; the
+    wisdom taxonomy reference is a cautious thematic candidate and requires human
+    review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 158-164
+  quote_or_summary: The speaker says he chose direct investigation into Ashanti beliefs
+    and customs and felt after a year that the choice was correct; valuable information
+    is said to be held by few inhabitants.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 165-168
+  quote_or_summary: Accurate knowledge is attributed to older men and women with few
+    dealings with foreigners, secluded lives in remote villages, and indifference
+    to European-introduced changes.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 169-174
+  quote_or_summary: When the elders converse through an interpreter, the passage says
+    they usually become reticent, suspicious, uninterested, or likely to withhold
+    knowledge.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 175-180
+  quote_or_summary: If elders can speak freely without an interpreter to someone trusted
+    who understands their language and thought, they are likely to share ancient lore
+    and thoughts.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 181-187
+  quote_or_summary: The speaker says he had the trust of many old people, could converse
+    directly with them, and sought to secure and preserve valuable material for future
+    research.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 188-192
+  quote_or_summary: The speaker hopes a delay before colleagues assist the new Department
+    will not be misunderstood and says departmental activities should aid future investigators.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is clear as ethnographic-methodological prose. Motif extraction
+    is limited because it is not a mythic episode; only a cautious wisdom-related
+    thematic candidate is recorded. No comparison claims are supported by the passage
+    itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No literal mythic symbols from the supplied symbol list are present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l156-l199
+  passage_sha256=f1424e31c5cefd066d239a8f25eeb68d205b859e25a9a1355b9c2e7c400af2ed
+

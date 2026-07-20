@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l12416-l12432
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: THE  LAZY  FROG  269 / THE  SNAKE  AND  THE  SCORPION. / THE   SPIDER'S    SLAVE  271
+    / FIG.  64.  FIG.  65.  FIG.  66.  FIG  67.; lines 12416-12432
+  start: '12416'
+  end: '12432'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A stinging speaker explains that it stung after being squashed, then the
+    Snake orders the speaker out of its hut and refuses to give it poison because
+    it would kill everybody. The passage also includes captions for figures showing
+    wooden spoons used for stirring food, including burnt-pattern examples with measurements.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker says it was squashed, felt movement, and stung the other party.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Snake orders the other speaker to leave its hut.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Snake refuses to give any of its poison to the other speaker.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Snake says the other speaker would kill everybody if given the poison.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Figures 64 and 67 are identified as wooden spoons for stirring food while
+    it is being cooked.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Figures 65 and 66 are identified as wooden spoons with burnt patterns and
+    listed lengths.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Snake
+  description: A speaking snake with a hut and poison, who refuses to share the poison.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: stinging interlocutor
+  description: An unnamed speaker who says it stung after being squashed and feeling
+    movement.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: poison-holder and refuser
+  assigned_to:
+  - fig:1
+  basis: The Snake says it will not give any of its poison and orders the other speaker
+    out of the hut.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: stinger responding to being squashed
+  assigned_to:
+  - fig:2
+  basis: The speaker describes being squashed, feeling movement, and stinging.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: Snake
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: poison
+  literal_form: the Snake's poison
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hut
+  literal_form: the Snake's hut
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wooden spoons
+  literal_form: wooden spoons for stirring food while being cooked, including burnt-pattern
+    examples
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sting explained and poison refused
+  summary: A stinging speaker explains the sting as a response to being squashed;
+    the Snake expels the speaker from the hut and refuses to share poison because
+    it would be lethal to everybody.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wooden spoon figure captions
+  summary: The passage lists captions for figures 64 through 67, identifying wooden
+    spoons used for stirring food and examples with burnt patterns and lengths.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: serpent associated with dangerous poison
+  taxonomy_refs:
+  - serpent
+  basis: The Snake possesses poison and refuses to give it to another because it would
+    kill everybody.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt is fragmentary and does not provide the whole tale context;
+    the serpent association rests only on the Snake's speech and poison.
+- id: motif:2
+  label: withholding a lethal substance
+  taxonomy_refs: []
+  basis: The Snake refuses to give poison to the other speaker, explaining that it
+    would be used to kill everybody.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No broader ritual, cosmological, or comparative framework is present in
+    the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12417-12418
+  quote_or_summary: '"you squashed me, and as I felt a movement I stung you"'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 12419-12422
+  quote_or_summary: The Snake says to leave its hut and refuses to give poison, saying
+    the recipient would kill everybody.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 12426-12427
+  quote_or_summary: Figures 64 and 67 are captioned as wooden spoons for stirring
+    food while being cooked.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 12428-12429
+  quote_or_summary: Figures 65 and 66 are captioned as wooden spoons with burnt patterns
+    and listed lengths.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary, beginning mid-sentence and containing both narrative
+    text and figure captions. Motif identification is limited to directly stated snake,
+    poison, and withholding elements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or cross-tradition comparison is asserted.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l12416-l12432
+  passage_sha256=6e5412f5db60cc1a68976bd36f645dacd02f1d3ce1133fcda51f1f874d8d8b0e
+

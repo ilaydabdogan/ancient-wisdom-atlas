@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l826-l841
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: THE TARTARO. / M. D'ABBADIE'S VERSION. / ERRUA, THE MADMAN. / VARIATIONS
+    OF ERRUA.; lines 826-841
+  start: '826'
+  end: '841'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes several variants of the Errua tale. Some are compared
+    to Grimm and Campbell tale collections. One variant has two brothers, one failing
+    in service and the other outwitting a master and the Tartaro, including burning
+    out the Tartaro's eye with a red-hot spit. Other variants include frightening
+    the Tartaro with cracked walnuts described as bones, and winning a water-carrying
+    wager by threatening to take away an entire fountain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that there are several variations of the tale.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some variations are described as very similar to Grimm's "Valiant Little Tailor,"
+    and others as like Campbell's "Highland Tales."
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One variant includes two brothers described as an idiot and a fool, named
+    Enuchenta and Ergela.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The idiot brother goes out to service first and is sent back for stupidity.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The fool goes to service after the idiot and outwits both his master and the
+    Tartaro.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The fool burns out the Tartaro's eye with a red-hot spit.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: In another variant, a servant frightens the Tartaro by cracking two walnuts
+    and saying they are bones of Christians.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Another wager concerns which contestant can carry the most water from a fountain.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Tartaro fills two hogsheads to carry water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The lad says he will take the whole fountain and begins stirring the water
+    with a stick.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The Tartaro gives up because he fears having no water left to drink if the
+    fountain is carried away.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: idiot brother / Enuchenta
+  description: One of two brothers in a variant; he goes out to service first and
+    is sent back for stupidity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: fool brother / Ergela
+  description: One of two brothers in a variant; he goes to service after the idiot,
+    outwits his master and the Tartaro, and burns out the Tartaro's eye with a red-hot
+    spit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: master
+  description: The master whom the fool outwits in one variant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Tartaro
+  description: 'A figure opposed or challenged in the variants: outwitted by the fool,
+    blinded with a red-hot spit, frightened by the servant, and made to give up in
+    the water wager.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: servant
+  description: In another variant, a servant frightens the Tartaro by cracking walnuts
+    and claiming they are bones of Christians.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: lad
+  description: In the water-carrying wager, the lad says he will take the whole fountain
+    and stirs the water with a stick.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: failed service-seeker
+  assigned_to:
+  - fig:1
+  basis: He goes out to service first and is sent back for stupidity.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: successful outwitter
+  assigned_to:
+  - fig:2
+  basis: He outwits both his master and the Tartaro and blinds the Tartaro with a
+    red-hot spit.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: outwitted master
+  assigned_to:
+  - fig:3
+  basis: The master is one of the figures whom the fool outwits.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Tartaro as challenged opponent
+  assigned_to:
+  - fig:4
+  basis: The Tartaro is outwitted, frightened, blinded, and finally concedes the water
+    wager in the summarized variants.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: frightening servant
+  assigned_to:
+  - fig:5
+  basis: The servant frightens the Tartaro with cracked walnuts and a claim about
+    bones.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: wagering lad
+  assigned_to:
+  - fig:6
+  basis: The lad responds to the water-carrying wager by saying he will take the whole
+    fountain.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: red-hot spit
+  literal_form: A red-hot spit used to burn out the Tartaro's eye.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: walnuts described as bones
+  literal_form: Two walnuts cracked by the servant while he says they are bones of
+    Christians.
+  associated_figures:
+  - fig:5
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fountain water
+  literal_form: Water from a fountain, at stake in a wager over who can carry the
+    most.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: two hogsheads
+  literal_form: Two hogsheads filled by the Tartaro to carry water.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: stick stirring the fountain
+  literal_form: A stick used by the lad to stir the fountain water.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Overview of tale variations and external parallels
+  summary: The passage introduces multiple variations of the Errua tale and says some
+    resemble Grimm's "Valiant Little Tailor" while others resemble Campbell's "Highland
+    Tales."
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Two brothers in service and the Tartaro's eye burned
+  summary: In one variant, an idiot brother fails in service, while the fool brother
+    goes afterward, outwits the master and the Tartaro, and burns out the Tartaro's
+    eye with a red-hot spit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Walnut fright
+  summary: In another variant, a servant frightens the Tartaro by cracking two walnuts
+    and claiming that they are bones of Christians.
+  figure_refs:
+  - fig:5
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Water-carrying wager at the fountain
+  summary: In a wager over carrying water from a fountain, the Tartaro fills two hogsheads,
+    but the lad says he will take the whole fountain, stirs the water with a stick,
+    and the Tartaro gives up because he wants water left to drink.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: clever fool or servant outwits stronger opponents
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fool outwits both his master and the Tartaro; other variants show a servant
+    or lad defeating the Tartaro through deceptive or strategic speech and action.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage summarizes variants briefly and does not give full narrative
+    context.
+- id: motif:2
+  label: sibling contrast between failed fool and successful fool
+  taxonomy_refs:
+  - sibling_pair
+  basis: One variant explicitly has two brothers, an idiot and a fool; the first fails
+    in service, while the second succeeds by outwitting opponents.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a compressed account of the brothers and does not
+    develop their relationship beyond sequence and contrast.
+- id: motif:3
+  label: blinding the Tartaro with a heated spit
+  taxonomy_refs: []
+  basis: The fool burns out the Tartaro's eye with a red-hot spit.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage notes this occurs "as in the first instance," but that earlier
+    instance is outside the supplied passage.
+- id: motif:4
+  label: false display of power using walnuts as bones
+  taxonomy_refs:
+  - trickster_boundary
+  basis: A servant frightens the Tartaro by cracking two walnuts while saying they
+    are bones of Christians.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not state whether the Tartaro believes the claim, only
+    that he is frightened.
+- id: motif:5
+  label: winning a strength wager by threatening to take the whole water source
+  taxonomy_refs:
+  - trickster_boundary
+  basis: In the water-carrying wager, the lad counters the Tartaro's two hogsheads
+    by claiming he will carry away the whole fountain, causing the Tartaro to give
+    up.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The episode is summarized, and the practical mechanics of the lad's threat
+    are not explained beyond stirring the water with a stick.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that some variations of the Errua tale are very similar
+    to Grimm's "Valiant Little Tailor."
+  claim_level: same_motif
+  target: Grimm's "Valiant Little Tailor"
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides the comparison but does not specify which elements
+    of the variants match Grimm's tale.
+- id: claim:2
+  claim: The passage states that other variations of the Errua tale are like Campbell's
+    "Highland Tales."
+  claim_level: same_motif
+  target: Campbell's "Highland Tales"
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The target is a collection rather than a specific named tale, and the
+    passage does not identify the shared episode or motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 826-830
+  quote_or_summary: The passage introduces several variations of the tale and says
+    some are very similar to Grimm's "Valiant Little Tailor" while others are like
+    Campbell's "Highland Tales."
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 830-834
+  quote_or_summary: One variant has two brothers, an idiot and a fool. The idiot goes
+    to service first and is sent back; the fool then goes, outwits his master and
+    the Tartaro, and burns out the Tartaro's eye with a red-hot spit.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 834-836
+  quote_or_summary: In another variant, a servant frightens the Tartaro by cracking
+    two walnuts and saying they are bones of Christians.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 836-840
+  quote_or_summary: A wager asks who can carry the most water from a fountain. The
+    Tartaro fills two hogsheads, but the lad says he will take the whole fountain,
+    stirs the water with a stick, and the Tartaro gives up because he needs water
+    left to drink.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a short passage that explicitly summarizes variants
+    and gives two external comparisons. Motif labels are cautious because the narratives
+    are compressed and partly refer to earlier material outside the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No external tale-type or motif-index identifiers were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l826-l841
+  passage_sha256=49167b8ad7326766965181357009e3dde3235a4002bca82f14b0b0d4362c4d08
+

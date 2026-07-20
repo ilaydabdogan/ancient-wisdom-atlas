@@ -1,0 +1,571 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l3887-l4004
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: THE WITCHES AND THE IDIOTS. / THE WITCH AND THE NEW-BORN INFANT. / THE CHANGELING.
+    / THE FISHERMAN AND HIS SONS.; lines 3887-4004
+  start: '3887'
+  end: '4004'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A first and then a second brother go to a beautiful castle despite warnings,
+    enter through a hidden small door, eat food pressed on them by an old woman, and
+    become terrible monsters unable to leave. Boiling water at home signals each misfortune.
+    A third brother goes after them, receives a cooked pigeon and instructions from
+    another old woman, refuses the castle old woman's food, compels her to eat the
+    pigeon, threatens her with his dog, and forces her to restore his brothers and
+    their animals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first brother or husband goes to the beautiful castle with a horse, dog,
+    and sword despite his wife's reluctance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He finds a very small, half-hidden door after circling the castle, and an
+    old woman admits him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Inside the castle, the old woman presses him to eat from a splendidly set
+    table; after the first mouthful he becomes a terrible monster and cannot leave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Water boiling at home is treated by the family as a sign that misfortune has
+    happened to the absent son or brother.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:5
+  text: The second brother sets out to help, follows the same pattern of visiting
+    the princess and then the castle, eats at the old woman's insistence, and also
+    becomes a terrible monster unable to leave.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The princess warns that people who go to the beautiful castle do not return,
+    but the brothers still decide to go.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: Before the third brother enters, an old woman outside warns him and gives
+    him a cooked pigeon, instructing him not to eat the castle food and to make the
+    inner old woman eat the pigeon.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The third brother takes his dog inside, refuses the old woman's food, and
+    compels her to eat the pigeon.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The third brother threatens to have his dog strangle the old woman unless
+    she tells him what happened to his brothers.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The old woman shows him terrible monsters and then restores the brothers,
+    their horses, and their dogs to their former state.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: First brother / first husband
+  description: A married brother who enters the castle, eats the old woman's food,
+    becomes a terrible monster, and is later restored.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: Princess / wife
+  description: The woman identified as the brothers' wife or the princess; she prays
+    in the evening and warns against going to the castle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Castle old woman
+  description: An old woman inside or at the door of the castle who admits visitors,
+    urges them to eat, denies knowledge of the brothers, and later restores them under
+    compulsion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Advising old woman outside the castle
+  description: An old woman who appears to the third brother before he enters, warns
+    him, and gives him a cooked pigeon with instructions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Second brother
+  description: A brother who sets out after the first signal of misfortune, reaches
+    the same castle, eats at the old woman's urging, becomes a terrible monster, and
+    is later restored.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:6
+  name_or_label: Third brother
+  description: A brother who sets out after the second signal of misfortune, receives
+    instructions and a cooked pigeon, enters the castle with his dog, compels the
+    old woman, and secures restoration of the others.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: Family at home / parents
+  description: Those at home who observe the water boiling and grieve; the parents
+    give the departing brothers money.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:8
+  name_or_label: Third brother's dog
+  description: The dog taken by the third brother into the castle and used in his
+    threat against the old woman.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Brothers' horses and dogs
+  description: The horses and dogs belonging to the transformed brothers, restored
+    along with them.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Transformed captive
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The first and second brothers eat the castle food, become terrible monsters,
+    and cannot leave until restored.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+- id: role:2
+  label: Rescuing sibling
+  assigned_to:
+  - fig:6
+  basis: The third brother goes after the first two, follows the helper's instructions,
+    confronts the old woman, and forces restoration.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: Warning spouse
+  assigned_to:
+  - fig:2
+  basis: The princess or wife warns that those who go to the castle do not return
+    and asks the brothers not to go.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Enchanting captor and food-forcing host
+  assigned_to:
+  - fig:3
+  basis: The castle old woman admits visitors, presses food on them, and is associated
+    with their monstrous transformation and captivity.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:5
+  label: Counter-charm helper
+  assigned_to:
+  - fig:4
+  basis: The outside old woman gives the third brother a cooked pigeon and tells him
+    how to gain power over the castle old woman.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Home omen observers
+  assigned_to:
+  - fig:7
+  basis: The family at home sees the water boil and understands it as a sign of misfortune.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:7
+  label: Threatening animal companion
+  assigned_to:
+  - fig:8
+  basis: The third brother brings the dog inside and threatens to make it strangle
+    the old woman unless she speaks.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: Restored animal companions
+  assigned_to:
+  - fig:9
+  basis: The old woman restores the brothers' horses and dogs as well as the brothers.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: No-return castle
+  literal_form: A beautiful castle, palace, or house from which entrants are said
+    not to return.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Half-hidden small door
+  literal_form: A very small or little door, half hidden, found only after circling
+    the castle.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: Splendid table and compelled food
+  literal_form: A table splendidly laid with every kind of food, from which the old
+    woman urges visitors to eat.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: Boiling water omen
+  literal_form: Water at home that begins to boil when misfortune happens to an absent
+    brother.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: Cooked pigeon
+  literal_form: A pigeon, cooked and prepared for eating, carried by the third brother
+    and made the old woman eat.
+  associated_figures:
+  - fig:4
+  - fig:6
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: Dog used in threat
+  literal_form: The dog brought into the castle and threatened as an instrument to
+    strangle the old woman.
+  associated_figures:
+  - fig:6
+  - fig:8
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Monster form
+  literal_form: The terrible monster form taken by the brothers after eating the old
+    woman's food.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+scenes:
+- id: scene:1
+  label: First brother transformed in the castle
+  summary: The first brother enters the beautiful castle through a half-hidden door,
+    eats food pressed on him by the old woman, becomes a terrible monster, and cannot
+    leave.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Second brother repeats the failed visit
+  summary: After water boils at home as a sign of misfortune, the second brother goes
+    out, is warned by the princess, enters the same castle, eats the old woman's food,
+    and becomes a terrible monster.
+  figure_refs:
+  - fig:5
+  - fig:7
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Third brother sets out and receives instructions
+  summary: The third brother leaves after another boiling-water sign, is warned by
+    the princess and by an old woman outside the castle, and receives a cooked pigeon
+    with instructions to avoid the castle food.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Third brother turns the food compulsion against the old woman
+  summary: The third brother enters with his dog, refuses the old woman's food, compels
+    her to eat the cooked pigeon, and threatens her with the dog until she answers
+    him.
+  figure_refs:
+  - fig:6
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Restoration of the brothers and animals
+  summary: The old woman shows the third brother the terrible monsters and restores
+    the brothers, their horses, and their dogs to their former state.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:3
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Food-induced transformation and captivity
+  taxonomy_refs:
+  - shapeshifter
+  basis: Eating even a first mouthful of the old woman's food changes the first and
+    second brothers into terrible monsters who cannot leave the castle.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy ref is broad; the transformation is imposed by
+    food rather than voluntary shapeshifting.
+- id: motif:2
+  label: Distant household omen of misfortune
+  taxonomy_refs: []
+  basis: Water boiling at home alerts the family that an absent brother has suffered
+    misfortune.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The earlier explanation by the fish is only alluded to in this passage,
+    not fully included here.
+- id: motif:3
+  label: Third sibling succeeds after two failed attempts
+  taxonomy_refs: []
+  basis: Two brothers fall into the same danger, while the third brother goes after
+    them, follows counter-instructions, and brings about their restoration.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage identifies him as the third brother but does not state that
+    he is the youngest.
+- id: motif:4
+  label: Dangerous no-return place sought despite warning
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The princess and the outside old woman warn that people who go to the castle
+    do not return, yet the brothers enter because they wish to see or know what is
+    inside.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The castle is not explicitly called forbidden; the link to forbidden knowledge
+    rests on the stated desire to see or know the interior despite danger.
+- id: motif:5
+  label: Counter-enchantment by refusing enchanted food and forcing the captor to
+    eat prepared food
+  taxonomy_refs:
+  - wisdom
+  basis: The helper tells the third brother that if he is wise he will not eat the
+    castle food, but will make the old woman eat the cooked pigeon, after which he
+    gains power over her.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The wisdom taxonomy is a broad fit; the passage presents a practical countermeasure
+    rather than an abstract wisdom teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3887-3901
+  quote_or_summary: The first brother or husband goes to the beautiful castle, finds
+    a very small half-hidden door, is admitted by an old woman, eats from a splendid
+    table at her urging, becomes a terrible monster at the first mouthful, and cannot
+    leave.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: lines 3902-3910
+  quote_or_summary: Water begins to boil at home as the fish had said; the household
+    grieves that misfortune has happened, and a brother sets out with a horse and
+    dog to help.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: lines 3911-3934
+  quote_or_summary: The second brother reaches the same situation, is warned by the
+    princess that those who go to the castle never return, finds the hidden small
+    door, enters, eats at the old woman's insistence, becomes a terrible monster,
+    and cannot get out.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: lines 3935-3952
+  quote_or_summary: The water at home boils again, and the third brother sets out,
+    saying he may save them; the princess warns him that no one returns from the beautiful
+    house, but he insists on going.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: lines 3953-3964
+  quote_or_summary: An old woman outside the castle warns the third brother, gives
+    him a cooked pigeon, and instructs him not to eat inside but to make the inner
+    old woman eat some of the pigeon so that he will have power over her.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: lines 3965-3976
+  quote_or_summary: The third brother enters with his dog, refuses the castle old
+    woman's food, says she must eat the pigeon, compels her to do so, and threatens
+    to have his dog strangle her unless she tells him about his brothers.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: public_domain
+- id: ev:7
+  type: summary
+  locator: lines 3977-4004
+  quote_or_summary: The frightened old woman shows the third brother some terrible
+    monsters; he orders her to restore them, and she changes the brothers back as
+    they were, along with their horses and dogs.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Passage-level events and figures are explicit. Motif taxonomy assignments
+    are cautious because the available taxonomy is broad and not all local tale motifs
+    have exact refs. No comparison claims were made beyond candidate motif labeling.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; comparison_claims intentionally left empty because the passage does not itself make an external comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l3887-l4004
+  passage_sha256=5b2745c785d6f2d003e8279c852be3f9b0acf140431647b9dacbaa114da48371
+

@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l640-l661
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: NATIVE HOUSES / NATIVE HOUSES / CHAPTER III / BACHELORS' HOUSES; lines 640-661
+  start: '640'
+  end: '661'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Uap village men's houses called failu on the coast
+    and pabai inland. These houses belong exclusively to men, serve as places for
+    councils and community discussion, and are also used by men and boys for song
+    and dance while women are excluded. The passage adds that such houses may take
+    years to build and may be occupied before ceremonial completion when only the
+    framework and roof are finished.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Large houses called failu are situated on the coast, while pabai are built
+    inland beyond the coconut groves; such houses are found in all Uap villages.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The failu and pabai pertain exclusively to men, whether married or single.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Councils are held in these houses, and community affairs are discussed there
+    without women's intervention.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Men and boys use the houses for song and dance, while women do not join.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The houses are often years in building, but men may occupy them before final
+    completion and ceremonial opening if the framework and roof are finished.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: men of Uap villages
+  description: Married or single men who exclusively use the failu or pabai, hold
+    councils there, discuss community affairs, entertain themselves, and may occupy
+    the house before it is complete.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: boys
+  description: Boys who join men in entertainment with song and dance in the failu
+    or pabai.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: women
+  description: Women are excluded from intervention in councils and do not join the
+    song and dance activities in the failu or pabai.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: exclusive male house members
+  assigned_to:
+  - fig:1
+  basis: The houses are described as pertaining exclusively to men, married or single.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: council and community-affairs participants
+  assigned_to:
+  - fig:1
+  basis: Councils and discussion of community affairs take place in these houses.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: song and dance participants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Men and boys entertain themselves with song and dance in the houses.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: excluded women
+  assigned_to:
+  - fig:3
+  basis: The passage says council discussion is free from women's intervention and
+    that women do not join the song and dance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: failu or pabai men's house
+  literal_form: Large village house called failu when on the coast and pabai when
+    inland beyond the belt of coconut groves.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: unfinished but occupied house frame
+  literal_form: Framework and roof of a failu or pabai sufficient for men to make
+    it their home before final completion and ceremonial opening.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Naming and placement of Uap men's houses
+  summary: The passage distinguishes coastal failu from inland pabai and states that
+    such houses occur in all Uap villages.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Council inside the men's house
+  summary: Men hold councils and discuss community affairs in the failu or pabai,
+    with women absent from intervention.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Song and dance without women
+  summary: Men and boys entertain themselves in the men's house through song and dance,
+    while women do not participate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Occupation before completion
+  summary: A failu or pabai may take years to build, yet men may occupy it before
+    the formal completion and ceremonial opening if the framework and roof are ready.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: male-exclusive communal and council house
+  taxonomy_refs: []
+  basis: The failu or pabai is a village house belonging exclusively to men and used
+    for councils and community affairs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is ethnographic rather than a mythic narrative; no explicit
+    sacred or initiation function is stated.
+- id: motif:2
+  label: gender-segregated performance space
+  taxonomy_refs: []
+  basis: Men and boys perform song and dance in the house while women do not join.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a social explanation but does not present a mythic origin
+    or ritual symbolism for the exclusion.
+- id: motif:3
+  label: house occupied before ceremonial completion
+  taxonomy_refs: []
+  basis: Men may make the house their home before final completion and ceremonial
+    opening, once the framework and roof are finished.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a material and social practice in the passage; symbolic meaning
+    is not specified.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 640-646
+  quote_or_summary: Large houses are called failu when on the coast and pabai when
+    built inland beyond the coconut groves; they are found in all Uap villages.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain; supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 646-651
+  quote_or_summary: The houses pertain exclusively to men, married or single; councils
+    are held there and community affairs are discussed without women's intervention.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain; supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 651-656
+  quote_or_summary: Men and boys entertain themselves with song and dance in the houses,
+    and women do not join; the passage reports decorum as the stated reason and notes
+    the author's interpretation concerning feminine criticism.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain; supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 656-661
+  quote_or_summary: A failu or pabai is often years in building, but men may occupy
+    it before final completion and ceremonial opening when the framework and roof
+    are finished.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain; supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The basic ethnographic details are explicit. Motif candidates are limited
+    because the passage does not give a mythic narrative, origin story, or explicit
+    symbolic interpretation. No comparison claims were extracted because the passage
+    itself does not compare this pattern to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The provided passage ends in a truncated word after the statement that every post and beam is selected; that incomplete sentence was not used for extraction.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l640-l661
+  passage_sha256=4ae4e97ff910741af356c9bac143f7c71cbae1933ed1c166b9d8cffb28446c84
+

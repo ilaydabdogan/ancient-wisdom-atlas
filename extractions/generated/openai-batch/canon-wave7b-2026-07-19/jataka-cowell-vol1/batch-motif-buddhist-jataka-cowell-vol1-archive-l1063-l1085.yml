@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol1-archive-l1063-l1085
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+passage_locator:
+  label: THE    TRANSLATOR / C,  J. / CONTENTS. / I  10,      SABBASAMHARAKA-PANHA  254;
+    lines 1063-1085
+  start: '1063'
+  end: '1085'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A contents-list passage summarizes three Jataka entries: a jackal deceives
+    a greedy brahmin with a false promise of buried treasure to be carried safely
+    out of a city; two foolish fishes are caught in a net and rescued by a wiser fish;
+    and a greedy bird who warns other birds away from a food-bearing road is killed
+    by a carriage on that road.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A jackal is belated in a city and makes a lying promise to reveal buried treasure.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The jackal induces a brahmin to carry him safely out of the city.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The brahmin is described as greedy and receives indignities from the ungrateful
+    beast.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Of three fishes, two are caught in a net through folly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The third and wiser fish rescues the two caught fishes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A greedy bird warns other birds against the dangers of the high road where
+    she found food.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The greedy bird is crushed to death by a carriage on that road.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: jackal
+  description: A jackal belated in a city who uses a lying promise about buried treasure
+    to get carried safely out.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: brahmin
+  description: A greedy brahmin induced by the jackal to carry him out of the city
+    and later subjected to indignities.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: two foolish fishes
+  description: Two of three fishes who through folly are caught in a net.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: third wiser fish
+  description: The wiser third fish who rescues the two fishes caught in the net.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: greedy bird
+  description: A bird who warns other birds against a road where she found food and
+    is then crushed by a carriage on that road.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: other birds
+  description: Birds warned by the greedy bird against the dangers of the high road.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: deceptive animal seeking safe passage
+  assigned_to:
+  - fig:1
+  basis: The jackal uses a lying promise of buried treasure to induce the brahmin
+    to carry him safely out of the city.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: greedy deceived carrier
+  assigned_to:
+  - fig:2
+  basis: The brahmin is described as greedy and is induced to carry the jackal out
+    of the city.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: foolish trapped companions
+  assigned_to:
+  - fig:3
+  basis: Two fishes are caught in a net through folly.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: wise rescuer
+  assigned_to:
+  - fig:4
+  basis: The third fish is described as wiser and rescues the two caught fishes.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: self-serving warner and victim
+  assigned_to:
+  - fig:5
+  basis: The greedy bird warns others away from the road where she found food and
+    is then crushed there by a carriage.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: warned group
+  assigned_to:
+  - fig:6
+  basis: The other birds are warned against dangers of the high road by the greedy
+    bird.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: false buried treasure promise
+  literal_form: buried treasure
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: city as place of confinement or delay
+  literal_form: city
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: net trapping fishes
+  literal_form: net
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: dangerous high road with food
+  literal_form: high road
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: death-dealing carriage
+  literal_form: carriage
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Jackal deceives brahmin for escape
+  summary: A jackal delayed in a city lies about buried treasure so that a greedy
+    brahmin will carry him safely out; the brahmin then receives indignities from
+    the ungrateful animal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wiser fish rescues trapped fishes
+  summary: Two foolish fishes are caught in a net, and the third wiser fish rescues
+    them.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Greedy bird killed on the road
+  summary: A greedy bird warns other birds away from a food-bearing road and is herself
+    crushed by a carriage on that road.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: deceptive animal gains safe passage across a boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The jackal uses a lie about buried treasure to get carried safely out of
+    the city.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is only a contents summary; it does not provide the full narrative
+    context.
+- id: motif:2
+  label: wise animal rescues foolish companions
+  taxonomy_refs:
+  - wisdom
+  basis: The third and wiser fish rescues two fishes caught in a net through folly.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief summary of the episode.
+- id: motif:3
+  label: greedy self-protection backfires
+  taxonomy_refs: []
+  basis: The greedy bird warns others away from the road where she found food and
+    is herself killed by a carriage on that road.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No specific available taxonomy family exactly names greed punished or
+    ironic reversal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1069-1074
+  quote_or_summary: 'Entry 113, Sigala-Jataka: a jackal delayed in a city lies about
+    buried treasure to persuade a greedy brahmin to carry him safely out; the brahmin
+    receives indignities from the ungrateful beast.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1076-1079
+  quote_or_summary: 'Entry 114, Mitacinti-Jataka: of three fishes, two foolish fishes
+    are caught in a net, and the third wiser fish rescues them.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 1081-1085
+  quote_or_summary: 'Entry 115, Anusasika-Jataka: a greedy bird warns other birds
+    against the dangers of the high road where she found food, and is herself crushed
+    to death by a carriage on that road.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based on concise contents summaries. Motif labels are
+    provisional because the full story texts are not present in the supplied passage.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage is a table-of-contents segment containing brief summaries for three Jataka entries, not the full narrative passages.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol1-archive__l1063-l1085
+  passage_sha256=b5aafc03a4a08228421392cdbf516f5f6a1c77b925e8b16867fac6231d7d1897
+

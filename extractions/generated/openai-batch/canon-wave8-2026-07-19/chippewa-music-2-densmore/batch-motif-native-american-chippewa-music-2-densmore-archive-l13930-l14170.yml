@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l13930-l14170
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: DBN'SMOUEI / Part  1 / Part  2 / BUREAU    OF    AMERICAX    ETHNOLOGY; lines
+    13930-14170
+  start: '13930'
+  end: '14170'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents several Chippewa song texts with glosses and musical
+    analyses: a song in which a first-person voice walks in the sky with a bird; No.
+    86, in which a warrior is expected to answer; No. 87, in which birds are heard
+    singing in the south; and two war songs analyzed for rhythm, tonality, and performance
+    character.'
+  language: English with Ojibwe/Chippewa song words and glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One song gloss has a first-person speaker walking in the sky and accompanying
+    a bird.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The analysis of that song states that its rhythmic unit occurs five times
+    in the opening measures and that the drum is slightly faster than the voice.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:3
+  text: No. 86 states conditionally that if someone is a warrior, he will answer the
+    speaker.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note derives the warrior term in No. 86 from a Sioux word meaning warrior
+    plus a Chippewa suffix.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: No. 87 places singing birds in the south.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The analysis of No. 87 says the singer strikes a tone above the proper pitch
+    and descends glissando as an embellishment.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:7
+  text: No. 88 is described as a war song with definite tonality and forceful rhythm,
+    seeming to retain the spirit of warriors who sang it long ago.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: No. 89 is analyzed as eight three-measure phrases with a rhythmic unit repeated
+    except in the third and last phrase.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first-person sky walker
+  description: The speaker of the song who says they are walking in the sky.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: bird companion
+  description: A bird accompanied by the first-person speaker in the sky song.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: conditional warrior
+  description: A person described conditionally as a warrior who will answer the speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: birds in the south
+  description: Birds located in the south and heard singing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: warriors who sang long ago
+  description: Past warriors associated with the war song’s remembered spirit.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: E'niwub'e
+  description: The named singer for several songs in the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: sky-walking speaker
+  assigned_to:
+  - fig:1
+  basis: The gloss states that the speaker is walking in the sky.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bird companion
+  assigned_to:
+  - fig:2
+  basis: The gloss states that the speaker accompanies a bird.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: warrior respondent
+  assigned_to:
+  - fig:3
+  basis: The gloss says that if he is a warrior, he will answer the speaker.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: singing birds
+  assigned_to:
+  - fig:4
+  basis: The gloss says the birds in the south are heard singing.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: remembered warrior singers
+  assigned_to:
+  - fig:5
+  basis: The analysis says the war song seems to retain the spirit of warriors who
+    sang it long ago.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: recorded singer
+  assigned_to:
+  - fig:6
+  basis: Song headings identify E'niwub'e as the singer.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: sky
+  literal_form: sky
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bird or birds
+  literal_form: bird; birds
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: south
+  literal_form: the south
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: warrior
+  literal_form: warrior; warriors
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: walking in the sky with a bird
+  summary: A first-person voice says they are walking in the sky and accompanying
+    a bird.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: warrior answer condition
+  summary: The song states that if the addressed person is a warrior, he will answer
+    the speaker.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: birds heard in the south
+  summary: Birds in the south are heard singing.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: war song and remembered warriors
+  summary: A war song is analyzed as rhythmically forceful and as seeming to retain
+    the spirit of warriors who sang it long ago.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sky walking with bird companion
+  taxonomy_refs: []
+  basis: The gloss combines a first-person sky-walking action with accompanying a
+    bird.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a song image, not a surrounding narrative or explicit
+    explanation.
+- id: motif:2
+  label: warrior recognized by answering
+  taxonomy_refs: []
+  basis: No. 86 frames warrior identity through the expected act of answering the
+    speaker.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The text is very brief and conditional; the social or ritual context is
+    not supplied in the passage.
+- id: motif:3
+  label: birds singing in the south
+  taxonomy_refs: []
+  basis: No. 87 explicitly locates singing birds in the south.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No seasonal, directional, or cosmological interpretation is stated in
+    the passage.
+- id: motif:4
+  label: war song preserving the spirit of past warriors
+  taxonomy_refs: []
+  basis: The analysis of No. 88 says the song seems to retain some of the spirit of
+    warriors who sang it long ago.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is an analytical characterization of musical effect rather than a
+    narrative motif in the song text.
+comparison_claims:
+- id: claim:1
+  claim: The passage gives a lexical comparison for the warrior term in No. 86, deriving
+    it from a Sioux word meaning warrior plus a Chippewa suffix.
+  claim_level: linguistic_similarity
+  target: Sioux word for 'warrior' noted in the No. 86 footnote
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This supports a linguistic contact or borrowing note only; it does
+    not establish shared narrative motif transmission.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13930-14170; opening song gloss before No. 86
+  quote_or_summary: "“in the sky”; “I am walking”; “a bird”; “I accompany.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 13930-14170; No. 86 gloss
+  quote_or_summary: "“if he is a warrior”; “he will answer me.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 13930-14170; No. 86 footnote
+  quote_or_summary: The note says the term is from Sioux, meaning “warrior,” plus
+    a Chippewa suffix.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; concise summary of supplied public-domain note.
+- id: ev:4
+  type: quote
+  locator: lines 13930-14170; No. 87 gloss
+  quote_or_summary: "“in the south”; “the birds”; “are heard singing.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 13930-14170; No. 88 analysis
+  quote_or_summary: The war song is described as “forceful in rhythm” and as seeming
+    to retain “the spirit of the warriors who sang it long ago.”
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 13930-14170; No. 89 analysis
+  quote_or_summary: No. 89 is analyzed as eight three-measure phrases, with the rhythmic
+    unit repeated except in the third and last phrase.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; neutral summary of supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 13930-14170; analysis of opening song before No. 86
+  quote_or_summary: The analysis says the rhythmic unit occurs five times in the opening
+    measures, the song is minor in tonality, and the drum is slightly faster than
+    the voice.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; neutral summary of supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 13930-14170; No. 86 analysis
+  quote_or_summary: No. 86 is analyzed by scale, descending intervals, and repeated
+    rhythmic unit occurrences.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; neutral summary of supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 13930-14170; No. 87 analysis
+  quote_or_summary: The analysis notes that the singer strikes a tone above the proper
+    pitch and descends glissando, apparently as an embellishment.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; neutral summary of supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 13930-14170; song headings for Nos. 86-89
+  quote_or_summary: The headings identify E'niwub'e as the singer of several songs
+    in the passage.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; neutral summary of supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The song glosses are clear enough for literal imagery, but the passage is
+    OCR-noisy and provides little narrative or ritual context; motif labels should
+    be reviewed by a human specialist.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family was assigned because the passage does not explicitly support those broader categories.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l13930-l14170
+  passage_sha256=ac21b74c47a6ab490ffea35dcd25c7bedbf870dca75075a86c22d12736ab2442
+

@@ -1,4 +1,68 @@
+---
+id: arctic_inuit.across_arctic_america.rasmussen_archive
+title: 'Across Arctic America: Narrative of the Fifth Thule Expedition'
+alternate_titles:
+- Across Arctic America
+text_status: complete
+tradition: arctic_inuit
+culture: iglulik_netsilik_caribou_copper_inuit_oral_traditions
+region: arctic_canada_alaska
+source_language: Inuktitut dialects via Danish, translated into English
+text_language: English
+date_range: living oral traditions; recorded 1921-1924 during the Fifth Thule Expedition
+  across Arctic Canada and Alaska; English edition 1927
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.acrossarcticamer006641mbp
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1927 G. P. Putnam's Sons
+    edition (Million Books Project scan)
+  translator: Knud Rasmussen
+  editor: ''
+  publication_year: 1927
+  publisher: Internet Archive
+  source_url: https://archive.org/details/acrossarcticamer006641mbp
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1927, now US public domain (95-year term expired). Recording context
+    - expedition narrative embedding many verbatim-translated songs, tales, and shamanic
+    testimony from named Iglulik, Netsilik, Caribou, and Copper Inuit informants (Aua,
+    Igjugarjuk, Orpingalik and others); separate the travel narrative from the quoted
+    native material during extraction.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- inuit
+- netsilik
+- iglulik
+- shamanism
+- isolated_lineage
+motifs:
+- sea_woman
+- shamanic_journey
+- song_power
+- moon_spirit
+figures: []
+---
+
 # Across Arctic America: Narrative of the Fifth Thule Expedition
+
 INTRODUCTION
 
 IT is early morning on the summit of East Cape, the
@@ -1043,7 +1107,7 @@ the tribes of Eskimos I intended to visit uncontaminated by white civilization, 
 swampy tundras, unaltered in all their primitive
 character.
 
-We were now able to plan  mr first year's work in
+We were now able to plan <mr first year's work in
 these regions. Near our headquarters we found a
 few old cairns and rough stone shelters built by the
 Eskimos of earlier days for the purpose of hunting
@@ -1605,7 +1669,7 @@ of wind that is no discredit to this windy region.
 So dense was the whirling snow that the whole of
 the last day's journey was accomplished with bent
 backs and bowed heads; we had literally to creep
-along, following the well-wo£n sledge track ^ith  mr
+along, following the well-wo£n sledge track ^ith <mr
 noses almost to the ground. It was the only way
 we could be sure of crossing Gore Bay from Qajugfit
 without missing the little island that was our goal.
@@ -1859,7 +1923,7 @@ the eternal hunting grounds rather than live on
 growing feebler under the burden of days.
 
 The time passed rapdly BOW, and our sole object
-was to get  m as far ES p6ssibl& W^ took short cuts
+was to get <m as far ES p6ssibl& W^ took short cuts
 Tfrlierever we could, though tmveffing ov^fend was
 always an anxious business, trnacccistomecl as we
 were at first to the use of this delicate ice-shoeing.
@@ -1898,7 +1962,7 @@ coastal race with their kayaks end umiaks, must
 have been identical with the Eskimos that came into
 Greenland from these regions a thousand years ago.
 Both Miteq and Arnarultik felt thoroughly at home
-ia these surroun fingsl Much of what they had met
+ia these surroun<fingsl Much of what they had met
 with among the living natives of the present day was
 strange to them, but these relics of the dead from a
 bygone age were such as they knew from their own
@@ -1986,7 +2050,7 @@ women of normal Eskimo type.
 It is often almost a pity to have mysteries explained; the whole thisg seems so natural once you
 know how it came about, that there is nothing
 marveHotis or tariffing afcont it afterward.. The
-oldest of the wotneii carae tip  te tis at -om® aad
+oldest of the wotneii carae tip <te tis at -om® aad
 asfced who we were. When we had mtoodte^a ourselves as lucidly as possible, she explained thai her
 husband and those of the other two women were
 out hunting, but should be back in the course of
@@ -4067,7 +4131,7 @@ and catch a few fish.
 This indifference to the abundance offered them
 by the sea was not due to laziness however, but rather
 a peculiarity of their inland culture itself. They
-could not  ispeese with their caribou; and it was a
+could not <ispeese with their caribou; and it was a
 principle handed down through gesemt&oes that OIK
 could not mingle sea bunting with tfaat of the laad
 without losing the latter altogether.
@@ -4128,7 +4192,7 @@ crossed in a day as far as Kurd Channel, Here
 again we were held up for twelve days. We used the
 interval in hunting meat for our dogs, and other
 employments. Then we crossed at a favorable
-moment to Vansittart Island, and three  Jays later
+moment to Vansittart Island, and three <Jays later
 got through to headquarters.
 
 We found an empty house. Whereas we fead
@@ -5074,7 +5138,7 @@ sledge, looking ahead aad says:
 
 I speak with the month of Qeqertaanaq, and say:
 
-I wffl walk with kg mtisdes strong as the sinews  m
+I wffl walk with kg mtisdes strong as the sinews <m
 the shin of a Httie caribou catf .
 
 I mil walk with leg muscles strong as the sinews on
@@ -5366,7 +5430,7 @@ wben ersFeryone was getting ready to go up country
 hunting caribou, One of the women had just given
 birth to a child before her time, and could not go
 with the rest, so my mother went instead, and took
-me with her. We stayed up  xmntryalll3iatsiimmer.
+me with her. We stayed up <xmntryalll3iatsiimmer.
 The hunting was good, and we helped the men to pile
 up the meat in store places or cot it up into thin
 slices and laid it out on stones to dry- It was a
@@ -5429,7 +5493,7 @@ to death; for he only got two seal the whole of that
 time. To see him, sdfering himself from cold and
 hunger, out day after day m the bitterest weather,
 and all m vain, to seeten gra^fting thfameraiMl weaker
-all the tame— oh, it wa&  tecrfHet"
+all the tame— oh, it wa& <tecrfHet"
 
 "And wliat was t&e meest thing caf all you
 remember?"
@@ -5946,7 +6010,7 @@ as the magic would take no harm when it was a white
 man who acted as the medium of conveyance.
 
 jaani spefls asae rltffireilt to
-late, as the words themselves asne  rftea
+late, as the words themselves asne <rftea
 the actual context; they have to be uttered in a
 peculiar way, with great distinctness aad sometimes
 with pauses here and there; the virtue Ees to a great
@@ -6350,7 +6414,7 @@ early in the winter by a man named Avdlilugtoq, who
 was out hunting seal. On perceiving the great ship
 standing up like a rocky island in a little bay, he
 moved cautiously towards it, as something he had not
-seen before. The sight of' its  taH' masts, however,
+seen before. The sight of' its <taH' masts, however,
 convinced him that it nrast be a great spirit, and he
 
 
@@ -6798,7 +6862,7 @@ that for? Very sweetly ami shyly the girl cast down
 her eyies a&d answered : "That I may have a maacfe&l for my fost-boni/7
 
 '•that tl^B was the head of a ptarmigan, with a
-fo^tdftfeesasobe bin! tied  m; this was to give the boy
+fo^tdftfeesasobe bin! tied <m; this was to give the boy
 speed and e^israoee in hunting caribou. A bear's
 toolb gate powraful faws and sound digestion; the
 pelt of an ermine, witti §fctjM attached, gave strength
@@ -7144,7 +7208,7 @@ this and the following month most of the winter's
 store of «eat is procured.
 
 August m the moirtii of fledglings. Seabirds are
-now caugbt in gf§a& iirafeeis; many of tlie islasklei st
+now caugbt in gf§a& iirafeeis; many of tlie islasklei<st
 however, prefer to go faartib&r afield, catching marmots for fur or gathering belies.
 
 
@@ -7550,7 +7614,7 @@ The ice almost hides the Eskimo village from view,
 and we can barely make it out. Anyhow, there is
 no shelter here,, so we sha|>e our course for Emmatown, seme miles Jarther south. Captain Bernard,
 aa experienced navigator, knows that the coast there
-will be dear of ice with this wind, and give us anchorage under shelter of a spit of laa L There is a small
+will be dear of ice with this wind, and give us anchorage under shelter of a spit of laa<L There is a small
 township there consisting of a few TchtikcM families,
 some traders, and the Soviet representative. We are
 not particularly anxious to run right into the arms
@@ -8194,7 +8258,7 @@ against tie rest of his tribe. And against all white
 men as welL He had already killed several people,
 whim he was captured by a ruse and brought in to
 Norse, Here he was Jcept in prison for a year, and
-fepd jtist been refeasedipr ki&ctf ^evidence to  x>n,vict
+fepd jtist been refeasedipr ki&ctf ^evidence to ‹x›n,vict
 him. Opinions wefe. divided as to the rights of the
 case; some declared he was simply half^iiffiad, and a
 to the community; others regarded him as
@@ -8372,3 +8436,4 @@ round and the great moments of life — they spoke of
 all with true and simple feeling. So here; face to
 face with a chaos and confusion of marvels, Anarulunguaq found the very words for all it meant :
 Nature is great; but man is greater still.
+

@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l1205-l1249
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: YE MOUNTAIN BLUEBELLS / THE SUN WENT DOWN / BIRTHDAY SONG / MORNING; lines
+    1205-1249
+  start: '1205'
+  end: '1249'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains two short poems. “Birthday Song” contrasts birth and
+    death, advises separation from fools, and compares fools to burning fire and the
+    wise to sweet water that makes deserts into gardens. “Morning” describes dawn
+    as scarlet flame, the sun’s colored beams embroidering clouds, and the sun rising
+    over a mountain as a royal protector against Gloom and Night.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At birth, others are glad while the newborn is wailing; at leaving the earth,
+    the addressee is urged to be glad while others bewail.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker advises the addressee to listen with understanding and keep apart
+    from fools and their flatteries.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fool is compared to fire and heat that scorch and burn everything.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The wise are compared to sweet water that turns deserts into gardens.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dawn is described with scarlet flame rising into the sky and the heavens becoming
+    crimson.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The sun’s fiery beams are described as colored threads embroidering the clouds
+    with gold, blue, green, and red.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The sun rises over the mountain and is called Nature’s great Monarch.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The sun is described as an eternal foe of Gloom and Night, raising an arm
+    and sheltering the world with a shining golden shield.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: speaker of “Birthday Song”
+  description: A first-person speaker addresses another person and gives moral counsel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: addressee of “Birthday Song”
+  description: The person addressed concerning birth, death, understanding, and conduct
+    toward fools.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the fool
+  description: A generalized figure compared to fire and heat that scorch and burn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the wise
+  description: A generalized figure compared to sweet water that transforms deserts
+    into gardens.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the sun
+  description: A personified sun with fiery beams, called Nature’s great Monarch and
+    foe of Gloom and Night.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Gloom and Night
+  description: Personified opponents of the sun.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: moral speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker addresses the heart of the addressee and gives counsel about
+    fools and understanding.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: counseled addressee
+  assigned_to:
+  - fig:2
+  basis: The addressee is instructed how to regard life, death, fools, and flattery.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: destructive foolish figure
+  assigned_to:
+  - fig:3
+  basis: The fool is likened to fire and heat that scorch and burn.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: life-giving wise figure
+  assigned_to:
+  - fig:4
+  basis: The wise are likened to sweet water that makes deserts into gardens.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: solar monarch
+  assigned_to:
+  - fig:5
+  basis: The sun is called Nature’s great Monarch and rises from a royal-blue tent.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: world-protecting opponent of night
+  assigned_to:
+  - fig:5
+  basis: The sun is called the eternal foe of Gloom and Night and shelters the world
+    with a golden shield.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: personified adversaries
+  assigned_to:
+  - fig:6
+  basis: Gloom and Night are named as the sun’s foes.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire as destructive foolishness
+  literal_form: fire and heat
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: water as beneficent wisdom
+  literal_form: sweet water
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: desert transformed into garden
+  literal_form: deserts and gardens
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dawn flame
+  literal_form: scarlet flame in the sky
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: colored solar beams
+  literal_form: fiery beams like colored thread
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: mountain of sunrise
+  literal_form: mountain
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: golden shield
+  literal_form: shield of gold
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Birth and leaving the earth
+  summary: The speaker contrasts the addressee’s birth, when others were glad and
+    the addressee wailed, with the hoped-for moment of leaving the earth, when the
+    addressee should be glad and others should bewail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Counsel about fools and the wise
+  summary: The speaker counsels the addressee to keep apart from fools, then contrasts
+    the destructive fool with the life-giving wise through images of fire and water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Dawn and the colored sky
+  summary: Day dawns with scarlet flame in the sky, crimson heavens, and the sun’s
+    fiery colored beams decorating the clouds.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Solar monarch protects the world
+  summary: The sun rises over the mountain as Nature’s great Monarch, opposes Gloom
+    and Night, and shelters the world with a shining golden shield.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wisdom contrasted with folly through elemental images
+  taxonomy_refs:
+  - wisdom
+  - duality
+  basis: The poem contrasts fools and the wise, mapping the fool to destructive fire
+    and the wise to sweet water that makes deserts into gardens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy references are broad; the passage is moral and poetic rather
+    than narrative myth.
+- id: motif:2
+  label: good departure from life reversing birth sorrow
+  taxonomy_refs:
+  - departure
+  basis: The addressee is urged to be glad when leaving the earth, reversing the initial
+    condition of birth when the newborn wailed and others were glad.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage mentions leaving the earth but does not describe an afterlife
+    journey or rebirth.
+- id: motif:3
+  label: sun as royal protector against night
+  taxonomy_refs:
+  - duality
+  - ascent
+  basis: The sun rises over the mountain, is called a monarch, opposes Gloom and Night,
+    and shelters the world with a golden shield.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The motif is inferred from poetic personification; the passage does not
+    present an extended mythic combat narrative.
+- id: motif:4
+  label: dawn as fiery transformation of the sky
+  taxonomy_refs:
+  - ascent
+  basis: Dawn is described as scarlet flame rising into the sky, followed by the sun’s
+    fiery beams coloring the clouds.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a natural and poetic dawn scene; no explicit mythic episode is
+    narrated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1205-1212
+  quote_or_summary: In “Birthday Song,” the speaker says others were glad while the
+    addressee wailed at birth, and urges the addressee to be glad when leaving the
+    earth while others bewail.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1213-1218
+  quote_or_summary: The speaker tells the addressee to listen with understanding,
+    keep apart from fools, and withstand their flatteries.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1219-1224
+  quote_or_summary: "“For the fool, like fire and heat, / Scorcheth everything, and
+    burneth; / But the wise, like water sweet, / Deserts into gardens turneth.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: summary
+  locator: lines 1227-1234
+  quote_or_summary: In “Morning,” day dawns with bright scarlet flame rising into
+    the sky and the heavens becoming a crimson sea.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1235-1240
+  quote_or_summary: The sun unrolls fiery beams like colored thread and embroiders
+    the clouds with gold, blue, green, and red.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1241-1246
+  quote_or_summary: The sun rises over the mountain, is called Nature’s great Monarch,
+    and comes from a royal-blue tent.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1247-1249
+  quote_or_summary: The sun is described as the eternal foe of Gloom and Night, raising
+    an arm and sheltering the world from harm with a shining golden shield.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate readings
+    of poetic imagery and moral instruction, not evidence of a full narrative myth.
+    No comparison claims were made because the passage itself does not establish external
+    parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to provided motif families and symbol list.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l1205-l1249
+  passage_sha256=3906839ba807f8cd85ab106b3a6c4ce2892be3757197935d4192f9323631eb44
+

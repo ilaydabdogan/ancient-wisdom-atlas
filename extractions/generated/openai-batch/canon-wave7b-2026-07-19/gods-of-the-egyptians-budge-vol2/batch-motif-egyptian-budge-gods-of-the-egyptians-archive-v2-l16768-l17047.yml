@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l16768-l17047
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: BES  287 / FOREIGX    GODS  289 / CHAPTER   XIX / MISCELLANEOUS    GODS;
+    lines 16768-17047
+  start: '16768'
+  end: '17047'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A non-narrative catalogue in the chapter 'Miscellaneous Gods' lists deities
+    associated with the twenty-eight finger-breadths of the Royal Cubit, deities associated
+    with hours and days of the lunar month, and deities associated with months of
+    the year.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a chapter on miscellaneous gods.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One section is titled as a list of the gods of the twenty-eight finger-breadths
+    of the Royal Cubit.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Royal Cubit section is numbered from 1 to 28 and assigns a named deity
+    to each numbered position.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Named deities in the Royal Cubit list include Ra, Shu, Khent, Seb, Nut, Asar,
+    Ast, Set, Xebt-het, Heru, Tehuti, Amsu or Min, and Uu, among others.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A second section is titled as a list of gods and goddesses of the days of
+    the month.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The days-of-the-month section associates named deities with numbered hours
+    and days of the Moon.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The first hour of the first day of the Moon is assigned to Shu in the days-of-the-month
+    section.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A third section is titled as a list of gods and goddesses of the months of
+    the year.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The first listed month is associated with the goddess Tekhi, with a related
+    form Tekh-heb also given in the entry.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gods of the twenty-eight finger-breadths of the Royal Cubit
+  description: Collective list of deities assigned to the twenty-eight numbered finger-breadths
+    of the Royal Cubit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Gods and goddesses of the days of the month
+  description: Collective list of deities assigned to hours and days of the Moon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Gods and goddesses of the months of the year
+  description: Collective list of deities assigned to months of the year.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Shu
+  description: A named deity listed both among the gods of the Royal Cubit and as
+    assigned to the first hour of the first day of the Moon.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Tekhi
+  description: A goddess associated with the first listed month in the section on
+    months of the year.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deity assigned to a cubit subdivision
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The section names gods for the twenty-eight finger-breadths of the Royal
+    Cubit.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: deity assigned to a lunar day or hour
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The section lists gods and goddesses for hours and days of the Moon, including
+    Shu for the first hour of the first day.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: deity assigned to a month of the year
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The section lists gods and goddesses of the months of the year, beginning
+    with the goddess Tekhi for the first listed month.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Royal Cubit
+  literal_form: Royal Cubit
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: twenty-eight finger-breadths
+  literal_form: twenty-eight numbered finger-breadths
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Moon and lunar days
+  literal_form: days and hours of the Moon
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: months of the year
+  literal_form: months of the year
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Catalogue of Royal Cubit deities
+  summary: The passage presents a numbered catalogue of twenty-eight deities corresponding
+    to the finger-breadths of the Royal Cubit.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Catalogue of lunar day and hour deities
+  summary: The passage presents deities assigned to hours and days of the Moon within
+    the days-of-the-month section.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Catalogue of month deities
+  summary: The passage begins a section assigning deities to months of the year, with
+    the first listed month associated with Tekhi.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deities assigned to units of measurement
+  taxonomy_refs: []
+  basis: The passage lists gods for the twenty-eight finger-breadths of the Royal
+    Cubit.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is a catalogue rather than a narrative myth; the motif is
+    a structural/religious correspondence pattern.
+- id: motif:2
+  label: deities assigned to calendrical units
+  taxonomy_refs: []
+  basis: The passage lists gods and goddesses for lunar days and hours and for months
+    of the year.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain ritual use or mythic episodes attached to
+    these assignments.
+- id: motif:3
+  label: sacralized numerical ordering
+  taxonomy_refs: []
+  basis: The catalogue organizes divine names by numbered cubit divisions and by numbered
+    lunar hours and days.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage shows a numbered divine catalogue, but does not itself state
+    a symbolic interpretation of the numbers.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16768-17047; chapter heading
+  quote_or_summary: The passage opens Chapter XIX under the heading 'Miscellaneous
+    Gods'.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 16768-17047; section I
+  quote_or_summary: Section I is titled 'The Gods of the Twenty-eight finger-breadths
+    of the Royal Cubit' and gives a numbered list from 1 to 28 with deity names such
+    as Ra, Shu, Khent, Seb, Nut, Asar, Ast, Set, Heru, Tehuti, Amsu or Min, and Uu.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 16768-17047; section II, opening entries
+  quote_or_summary: Section II is titled 'The Gods and Goddesses of the Days of the
+    Month' and begins by assigning the first hour of the first day of the Moon to
+    Shu, followed by further hour/day entries with named deities.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 16768-17047; section II, continuation
+  quote_or_summary: The days-of-the-month list continues with night and day entries
+    for later days of the Moon, including the thirteenth through eighteenth days,
+    with names such as Tefnut, Seb, Nut, Anpet, and Khent appearing in the visible
+    text.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 16768-17047; section III
+  quote_or_summary: Section III is titled 'The Gods and Goddesses of the Months of
+    the Year' and begins with the first listed month, eouoYT, associated with the
+    goddess Tekhi and the related name Tekh-heb.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a damaged or OCR-heavy catalogue with many deity names and
+    signs; extraction is limited to clear headings, numbering, and visible name associations.
+    No external comparisons are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied, because the passage primarily presents deity catalogues mapped to measures and calendar units rather than the supplied motif families such as ascent, serpent, or sacred tree.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l16768-l17047
+  passage_sha256=0bbdb72bcc167172ca60c72b8a1ebd1ce3941ac3c30d962a300ded5a5dd9adab
+

@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l13397-l13427
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    ESKIMO    ABOUT    BERING    STRAIT / BUREAU   OF   AMERICAN    ETHNOLOGY
+    / EIGHTEENTH    ANNUAL   REPORT      PL.    LXXVI / DO(I   HARNESS   AND    ACCOTJTERMENTS;
+    lines 13397-13427
+  start: '13397'
+  end: '13427'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes small double-eye blocks used on dog harnesses, their
+    materials, shapes, holes, and regional occurrence from Alaska across Bering Strait.
+    It also describes a summer travel practice in which dogs on shore pull a boat
+    by a long line attached to the bow while a person drives them along the beach.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Small double-eye blocks are commonly used on dog harnesses and are made from
+    bone, deerhorn, or ivory, with holes passing through them in two directions.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Blocks of this character were collected from localities between Norton Sound
+    and Point Hope, across Bering Strait to the Siberian coast, and on St. Lawrence
+    Island.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One St. Lawrence Island ivory block is described as pear-shaped, with one
+    hole surrounded by a lip or bead-like elevation, side grooves for a permanent
+    cord, and a larger transverse hole for temporary attachment.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Another St. Lawrence Island block has an incised groove forming a neck between
+    the two holes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some blocks are rudely shaped, including a St. Lawrence Island example with
+    unrounded corners and a plain specimen from Unalaklit.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Dogs are used for hauling sleds and, in summer travel, may be harnessed on
+    shore to a long line attached to a boat’s bow so that they pull the boat along
+    the beach while one person drives them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The described use of dogs to pull boats is said to save much labor.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eskimo travelers
+  description: People described as using dogs for hauling sleds and for pulling boats
+    during summer travel.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Dogs
+  description: Animals used for hauling sleds and for pulling boats from shore when
+    harnessed to a long line.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dog-harness users
+  assigned_to:
+  - fig:1
+  basis: The passage describes a common practice among the Eskimo of harnessing dogs
+    for travel tasks.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: traction animals
+  assigned_to:
+  - fig:2
+  basis: Dogs haul sleds and pull boats by means of a harness and line.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: shore driver
+  assigned_to:
+  - fig:1
+  basis: One member of the traveling party remains on shore to drive the dogs as they
+    pull the boat.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: double-eye harness block
+  literal_form: Small block of bone, deerhorn, or ivory with holes in two directions,
+    used on dog harnesses.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: long boat towline
+  literal_form: A long line attached to the bow of a boat and harnessed to dogs on
+    shore.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: dog harness
+  literal_form: Harness equipment used to connect dogs to sleds or to a line for pulling
+    a boat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Description and distribution of double-eye dog-harness blocks
+  summary: The passage identifies small double-eye blocks used on dog harnesses, names
+    their materials, and notes their occurrence across several Arctic and Bering Strait
+    localities.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Examples of St. Lawrence Island and Unalaklit harness blocks
+  summary: Several individual blocks are described by shape and finish, including
+    pear-shaped, grooved, rudely shaped, and plain examples.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Dogs towing a boat from shore
+  summary: During summer travel, dogs are put ashore and harnessed to a long line
+    attached to a boat’s bow; one person drives them along the beach as they pull
+    the boat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: working dogs as transport aids
+  taxonomy_refs: []
+  basis: The passage describes dogs hauling sleds and towing boats from shore to reduce
+    human labor.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a practical ethnographic pattern rather than a mythological narrative
+    motif; no provided motif-family taxonomy reference is directly supported.
+- id: motif:2
+  label: material-culture pattern of double-eye harness connector
+  taxonomy_refs: []
+  basis: The passage describes recurring dog-harness blocks with two-directional holes,
+    similar use, and examples from multiple Bering Strait-region localities.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports artifact recurrence and function, not symbolic or
+    mythological meaning.
+comparison_claims:
+- id: claim:1
+  claim: Similar double-eye dog-harness blocks are reported across multiple localities
+    from Norton Sound and Point Hope across Bering Strait to the Siberian coast and
+    St. Lawrence Island.
+  claim_level: visual_similarity
+  target: Bering Strait-region dog-harness double-eye blocks
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports distribution of similar artifacts only; it does
+    not establish origin, diffusion route, historical contact, or mythic significance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13397-13400
+  quote_or_summary: Small double-eye blocks are commonly used on dog harnesses; they
+    are cut from bone, deerhorn, or ivory and have holes through them in two directions.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13402-13405
+  quote_or_summary: Blocks of this character were obtained from localities between
+    Norton Sound and Point Hope, across Bering Strait to the Siberian coast, and on
+    St. Lawrence Island.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13407-13416
+  quote_or_summary: A St. Lawrence Island ivory block is pear-shaped with holes and
+    grooves for permanent and temporary cords; another St. Lawrence Island block has
+    an incised neck-like groove between two holes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13418-13422
+  quote_or_summary: Some blocks are rudely shaped; one St. Lawrence Island example
+    has unrounded corners, and another plain specimen came from Unalaklit.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13424-13427
+  quote_or_summary: In summer travel, dogs may be put ashore and harnessed to a long
+    line attached to the bow of a boat; one person drives the dogs along the beach
+    as they pull the boat, saving labor.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive ethnography of equipment and travel practice.
+    Literal extraction is strong, while motif labeling is limited because no mythic
+    or ritual symbolism is stated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No direct taxonomy motif-family or symbol references from the supplied lists are supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l13397-l13427
+  passage_sha256=103846c1a067a09118e64ac93efc5544bd650a1897463fdc4ff79db9fbd1c1fd
+

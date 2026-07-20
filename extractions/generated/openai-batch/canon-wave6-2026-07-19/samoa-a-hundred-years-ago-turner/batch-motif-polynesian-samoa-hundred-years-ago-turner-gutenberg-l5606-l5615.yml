@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.polynesian-samoa-hundred-years-ago-turner-gutenberg-l5606-l5615
+source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+passage_locator:
+  label: NOVEMBER. / DECEMBER. / CHAPTER XIX. / THE ORIGIN OF FIRE, AND OTHER STORIES.;
+    lines 5606-5615
+  start: '5606'
+  end: '5615'
+  translation: Samoa, A Hundred Years Ago And Long Before
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains two Samoan proverbial comparisons: helping a weak
+    person carry a burden is likened to prompting a public speaker in difficulty,
+    and a pigeon covering its dead mate is likened to a brother risking death to reach
+    a wounded brother among troops.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person may run in and stretch out a hand to ease the shoulder of a weak
+    person struggling under a load.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Prompting a public speaker in difficulty is described as helping with the
+    burden.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If a pigeon sees its mate fall dead, it drops down and covers the body with
+    its wings, even at the risk of being killed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Samoans compare the pigeon’s action to a brother rushing among troops after
+    his wounded brother even if he may be killed.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: weak person under a load
+  description: A weak person struggling under a load.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: helper with the burden
+  description: A person who runs in and stretches out a hand to ease the shoulder
+    of the weak person.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: public speaker in difficulty
+  description: A public speaker who needs prompting.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: prompter of the public speaker
+  description: A person who prompts a public speaker in a difficulty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: pigeon
+  description: A pigeon that sees its mate fall dead and covers the body with its
+    wings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: dead pigeon mate
+  description: The mate of the pigeon, fallen dead.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: brother rushing among troops
+  description: A brother who rushes in among troops after his wounded brother even
+    at risk of death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: wounded brother
+  description: The wounded brother whom another brother rushes to reach.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: troops
+  description: Troops among whom the brother rushes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: burdened recipient of aid
+  assigned_to:
+  - fig:1
+  basis: The figure is weak, struggling under a load, and has the shoulder eased by
+    another person.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: helper or supporter
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: One figure eases a physical burden; another prompts a speaker in difficulty.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: speaker needing assistance
+  assigned_to:
+  - fig:3
+  basis: The public speaker is described as being in difficulty and needing a prompt.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: self-endangering protector
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The pigeon covers its dead mate even if killed; the brother rushes among
+    troops after the wounded brother even if killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: fallen or wounded beloved/kin
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: The pigeon’s mate is dead, and the human brother is wounded.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: dangerous surrounding force
+  assigned_to:
+  - fig:9
+  basis: The troops form the dangerous setting into which the brother rushes.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: burden
+  literal_form: a load carried by a weak person; the phrase 'helping with the burden'
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: covering with wings
+  literal_form: a pigeon covering the dead mate’s body with its wings
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dead bird
+  literal_form: the fallen dead mate of a pigeon
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wounded brother among troops
+  literal_form: a wounded brother located among troops
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Helping with the burden
+  summary: A physical example of easing the shoulder of a weak person under a load
+    is used to explain prompting a public speaker in difficulty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Covering the dead bird
+  summary: A pigeon covers its dead mate with its wings even though it may be killed
+    too.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Brother rushing to wounded brother
+  summary: A brother rushes among troops after his wounded brother despite the possibility
+    of being killed.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: help as burden-sharing
+  taxonomy_refs: []
+  basis: The passage explicitly uses carrying or easing a load as the model for prompting
+    a public speaker in difficulty.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a proverbial analogy rather than a full mythic narrative.
+- id: motif:2
+  label: self-endangering loyalty to mate or kin
+  taxonomy_refs:
+  - sacrifice
+  - sibling_pair
+  basis: The pigeon risks death by covering its dead mate, and the human parallel
+    is a brother risking death for a wounded brother.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy references only partly fit; the passage describes
+    risk and loyalty, not a completed sacrificial death.
+- id: motif:3
+  label: animal behavior as model for human conduct
+  taxonomy_refs: []
+  basis: The pigeon’s action is explicitly compared to a brother’s action in battle
+    or troop conflict.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The comparison is local to the passage and should not be generalized beyond
+    this evidence without review.
+comparison_claims:
+- id: claim:1
+  claim: The passage equates easing a physical burden with prompting a public speaker,
+    presenting both as the same kind of assistance in difficulty.
+  claim_level: same_function
+  target: prompting a speaker as burden-sharing aid
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is confined to the proverb and does not establish broader
+    historical or cross-cultural links.
+- id: claim:2
+  claim: The passage explicitly compares the pigeon covering its dead mate with a
+    brother risking death to reach a wounded brother.
+  claim_level: same_function
+  target: self-endangering loyalty to a mate or brother
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports a functional analogy, not a claim of historical
+    contact, common inheritance, or identity with an external motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5606-5609
+  quote_or_summary: The saying 'Helping with the burden' is explained by a person
+    easing a weak load-bearer’s shoulder; prompting a public speaker in difficulty
+    is called the same thing.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5611-5613
+  quote_or_summary: The saying 'Covering the dead bird' describes a pigeon covering
+    its dead mate with its wings even if it may be killed.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5613-5615
+  quote_or_summary: Samoans compare the pigeon’s action to a brother rushing among
+    troops after his wounded brother even if he may be killed.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and explicit about its analogies. Motif taxonomy mapping
+    is less certain because the material is proverbial rather than a narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or unsupported taxonomy IDs were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:polynesian-samoa-hundred-years-ago-turner-gutenberg__l5606-l5615
+  passage_sha256=c788596e5b4416a2a460a1d137fe89b445e5fe0415c193873b85cbaed9270c4a
+

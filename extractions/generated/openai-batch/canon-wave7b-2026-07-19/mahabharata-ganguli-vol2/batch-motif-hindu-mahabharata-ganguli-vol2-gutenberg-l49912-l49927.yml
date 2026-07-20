@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l49912-l49927
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION CXXII / SECTION CXXIII / SECTION CXXIV / SECTION CXXV; lines 49912-49927
+  start: '49912'
+  end: '49927'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A grieving elder speaker, unable to see a warrior's standard and fearing
+    that warriors including Satyaki have been slain, commands an addressed son of
+    Kunti/Pritha/Pandu to go to where Dhananjaya and Satyaki are. He invokes elder-brother
+    authority, emphasizes Satyaki's importance, and asks for a leonine roar as a message
+    if the two Krishnas and Satyaki are found safe.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says his grief increases like a blazing fire fed with clarified-butter
+    libations.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he does not see a warrior's standard and is stupefied with
+    sorrow.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker states that a warrior has been slain and that Krishna, skilled
+    in battle, is fighting.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker says Satwata/Satyaki is slain and that Satyaki followed in the
+    wake or track of another mighty car-warrior, identified later as Arjuna.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:5
+  text: The speaker instructs the addressed son of Kunti to go where Dhananjaya and
+    Satyaki are, if he thinks it his duty to obey.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker tells the addressee to remember that the speaker is his eldest
+    brother.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker tells the addressee that Satyaki should be considered dearer than
+    Arjuna himself.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The speaker asks the addressee to send a message by uttering a leonine roar
+    if he sees the two Krishnas and Satyaki sound and whole.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed speaker / eldest brother
+  description: First-person speaker who grieves, gives commands, and identifies himself
+    as the addressee's eldest brother.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: addressed son of Kunti/Pritha/Pandu
+  description: Second-person addressee described by matronymic and patronymic labels;
+    commanded to go to Dhananjaya and Satyaki and to report by a leonine roar.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: unnamed warrior whose standard is missing
+  description: A warrior referred to by pronouns and by the unseen standard; the speaker
+    concludes that he has been slain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Krishna
+  description: Named warrior described as skilled in battle and fighting.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Satyaki / Satwata
+  description: Warrior of the Satwata race; feared slain, absent from sight, said
+    to have gone in Arjuna's track for the speaker's good, and desired to be found
+    sound and whole.
+  role_refs:
+  - role:3
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Dhananjaya
+  description: Named as a figure at whose location the addressee is told to go, together
+    with Satyaki.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Arjuna
+  description: Named as a warrior whom Satyaki followed in track and as a measure
+    of comparison for Satyaki's dearness.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: the two Krishnas
+  description: A pair or group referred to as 'the two Krishnas,' whom the addressee
+    is asked to behold along with Satyaki as sound and whole.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: grieving elder commander
+  assigned_to:
+  - fig:1
+  basis: The speaker expresses grief, gives an order, and says he is the addressee's
+    eldest brother.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: commanded addressee and messenger
+  assigned_to:
+  - fig:2
+  basis: The addressee is ordered to go to Dhananjaya and Satyaki and to send a message
+    by roaring.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: missing or feared slain warrior
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The speaker cannot see the standard of one warrior and says he has been slain;
+    the speaker also says Satyaki/Satwata is slain and absent from sight.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: battle fighter
+  assigned_to:
+  - fig:4
+  basis: Krishna is described as skilled in battle and fighting.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: loyal follower on heroic track
+  assigned_to:
+  - fig:5
+  basis: Satyaki is said to have gone for the speaker's good in the track of Arjuna.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: to be verified safe
+  assigned_to:
+  - fig:5
+  - fig:8
+  basis: The addressee is asked to behold the two Krishnas and Satyaki sound and whole.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: target or reference warrior
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Dhananjaya is the destination figure to be found; Arjuna is named as the
+    warrior whose track Satyaki followed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: grief as blazing fire
+  literal_form: a blazing fire fed with libations of clarified butter
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: missing standard
+  literal_form: the absent standard of a warrior
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: heroic track
+  literal_form: Arjuna's track, described as incapable of being trod by persons of
+    vile souls
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: leonine roar as message
+  literal_form: a leonine roar uttered as a message
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Grief over unseen standard and feared deaths
+  summary: The speaker describes grief with a fire image, says he cannot see a warrior's
+    standard, and states that warriors including Satyaki are slain while Krishna fights.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Command to seek Dhananjaya and Satyaki
+  summary: The speaker commands the addressed son of Kunti to go to where Dhananjaya
+    and Satyaki are, invoking duty and elder-brother authority.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Satyaki's loyal pursuit of Arjuna
+  summary: The speaker says Satyaki should be considered especially dear because he
+    went for the speaker's good in Arjuna's difficult track.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Requested roar-message of safety
+  summary: The speaker asks the addressee to report by a leonine roar if he sees the
+    two Krishnas and Satyaki safe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: missing banner interpreted as warrior's death
+  taxonomy_refs: []
+  basis: The speaker cannot see a warrior's standard and concludes that the warrior
+    has been slain.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the speaker's fearful inference, not an omniscient confirmation.
+- id: motif:2
+  label: kinsman sent to verify absent warriors
+  taxonomy_refs:
+  - departure
+  basis: The speaker sends the addressed son of Kunti/Pritha/Pandu to where Dhananjaya
+    and Satyaki are, invoking duty and elder-brother authority.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a tactical battlefield errand rather than a full departure-cycle
+    narrative.
+- id: motif:3
+  label: loyal warrior follows a perilous heroic track
+  taxonomy_refs: []
+  basis: Satyaki is said to have gone for the speaker's good in Arjuna's track, described
+    as inaccessible to persons of vile souls.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not narrate the journey itself, only the speaker's report
+    of it.
+- id: motif:4
+  label: animal-like roar as battlefield message
+  taxonomy_refs: []
+  basis: The speaker asks for a message to be sent by uttering a leonine roar after
+    seeing the desired warriors safe.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No broader comparative animal-signal pattern is asserted in the passage.
+- id: motif:5
+  label: grief figured as sacrificially fed fire
+  taxonomy_refs: []
+  basis: The speaker compares increasing grief to a blazing fire fed with clarified-butter
+    libations.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The fire is a simile for grief in this excerpt, not an enacted ritual
+    fire scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 49912-49915
+  quote_or_summary: The speaker says grief increases like 'a blazing fire fed with
+    libations of clarified butter,' cannot see a standard, and says the warrior has
+    been slain while Krishna fights.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 49915-49918
+  quote_or_summary: The speaker says Satwata/Satyaki is slain, has followed another
+    mighty car-warrior, and that the speaker is stupefied by not seeing Satyaki.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 49918-49921
+  quote_or_summary: The speaker tells the son of Kunti to go where Dhananjaya and
+    Satyaki are, if he thinks it his duty to obey, and reminds him that the speaker
+    is his eldest brother.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 49921-49924
+  quote_or_summary: The speaker says Satyaki should be dearer than Arjuna and that
+    Satyaki went for the speaker's good in Arjuna's difficult track.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: quote
+  locator: lines 49925-49927
+  quote_or_summary: The speaker asks that, after beholding 'the two Krishnas and Satyaki'
+    sound and whole, the addressee send a message by 'uttering a leonine roar.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear about grief, command, Satyaki, and the roar-message,
+    but it begins mid-sentence and leaves some identities ambiguous within the provided
+    excerpt. No comparison claims were extracted because the passage itself does not
+    make an explicit comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references were limited to the available 'fire' symbol and the tentative 'departure' motif family for the commanded errand.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l49912-l49927
+  passage_sha256=b6363ae0cb3456f49fae372664487609aea233461be23da084ed9b7bbe016274
+

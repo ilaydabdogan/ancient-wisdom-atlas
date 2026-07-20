@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l23706-l24031
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: FTO PANG / INDEX OF WORDS. / HYMNS, / INDEX OF WORDS.; lines 23706-24031
+  start: '23706'
+  end: '24031'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an index of Sanskrit words with English glosses and hymn
+    references. It includes entries for offering and worship, heaven and divine paths,
+    milk and milking, gates or doors of heaven, Agni as messenger, gods and divine
+    beings, worship due to gods, drawing gods hither, and feast of the gods.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index of words, giving lexical glosses and hymn references
+    rather than a continuous narrative scene.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An entry glosses a root as meaning to offer or worship, and another glosses
+    a worshipper as a liberal giver.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several entries use heaven-related glosses, including dwelling in heaven,
+    going to heaven, heaven-aspiring sacrifice, and attaining to Heaven.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Entries mention milking and milk, including a phrase glossed with amrita in
+    connection with milking.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An entry glosses a word as gate or door and includes the doors of heaven.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An entry identifies Agni as a messenger, and a related entry refers to the
+    work or status of a messenger.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The entry for deva glosses gods and divine beings and includes references
+    to a divine world or host of gods.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Entries describe worship as due to the gods, ways which the gods go, drawing
+    the gods hither, and a feast of the gods.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Some entries use flame imagery, including flaming through long life and a
+    flame to which men do not get accustomed.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named in the index as a messenger.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: gods / devas
+  description: Collective divine beings listed under deva and related compounds.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: worshipper / liberal giver
+  description: A lexical figure-class glossed as worshipper and liberal giver.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: messenger
+  assigned_to:
+  - fig:1
+  basis: The index glosses duta as messenger and explicitly associates it with Agni.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: divine beings
+  assigned_to:
+  - fig:2
+  basis: The deva entry glosses god, gods, and divine.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: recipients or destination of ritual approach
+  assigned_to:
+  - fig:2
+  basis: Related entries refer to worship due to the gods, drawing the gods hither,
+    the ways gods go, and feast of the gods.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: worshipper and giver
+  assigned_to:
+  - fig:3
+  basis: The index glosses dasvams as worshipper and liberal giver.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: milk
+  literal_form: milk and milking
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: doors of heaven
+  literal_form: gate, door; doors of heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: heavenward divine path
+  literal_form: going to heaven, attaining to Heaven, ways which the gods go
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: flame
+  literal_form: flaming and flame imagery in lexical glosses
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: offering and worship directed to gods
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The index includes terms for offering and worship, a worshipper or liberal
+    giver, worship due to gods, and feast of the gods.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: This is a lexical index, not a narrative or ritual description; the motif
+    is inferred only as a recurring ritual vocabulary pattern.
+- id: motif:2
+  label: divine messenger mediating with gods
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Agni is glossed as messenger, and related entries mention messengership and
+    drawing the gods hither.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage does not narrate an episode of mediation; it only indexes
+    terms and references.
+- id: motif:3
+  label: heavenward path and heavenly threshold
+  taxonomy_refs:
+  - ascent
+  basis: The passage lists going to heaven, attaining to Heaven, heaven-aspiring sacrifice,
+    ways which gods go, and doors of heaven.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: low
+  cautions: No actual journey, ascent episode, or afterlife map is described in this
+    index passage.
+- id: motif:4
+  label: sacred milk or milking
+  taxonomy_refs: []
+  basis: The index includes milk, milking, and a gloss involving amrita in connection
+    with milking.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not describe a rite or myth involving milk; it only preserves
+    lexical evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23706-23736; entries for das and dasvams
+  quote_or_summary: The index glosses das as to offer or worship and dasvams as worshipper,
+    liberal giver.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 23737-23772; heaven-related div entries
+  quote_or_summary: Glosses include shining from heaven, dwelling in heaven, going
+    to heaven, heaven-aspiring sacrifice, and attaining to Heaven.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:3
+  type: quote
+  locator: lines 23810-23839; entries for duh, dugdha, and dar
+  quote_or_summary: 'Entries include: to milk; milk; gate, door; and the doors of
+    heaven.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt summarized from the passage.
+- id: ev:4
+  type: quote
+  locator: lines 23840-23865; entries for duta and dutya
+  quote_or_summary: The index gives messenger (Agni) and the work of a messenger or
+    messengership.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt summarized from the passage.
+- id: ev:5
+  type: summary
+  locator: lines 23875-23930; entry for deva
+  quote_or_summary: The deva entry glosses god, gods, and divine, and includes divine
+    world or host of gods and secret names of gods.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:6
+  type: summary
+  locator: lines 23931-24010; deva-compound entries
+  quote_or_summary: Related entries gloss worship due to the gods, ways which the
+    gods go, drawing hither the gods, and feast of the gods.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:7
+  type: quote
+  locator: lines 23773-23814; flame-related entries
+  quote_or_summary: Entries include flaming through long life and he to whose flame
+    men do not get accustomed.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt summarized from the passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is relatively secure, despite OCR noise, because the passage
+    is an index with explicit glosses. Motif candidates are cautious because the passage
+    is lexical rather than narrative. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  This record treats the passage as lexical evidence for recurrent ritual and symbolic vocabulary rather than as a standalone mythic episode.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l23706-l24031
+  passage_sha256=830a22ff69fbd1c8e6609c68b07623776c59c7debd2926506ef79063c88cc278
+

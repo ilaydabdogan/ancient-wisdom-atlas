@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l31369-l31379
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SPELLS.  1861 / SPELLS.  18G3 / SPELLS.  1865 / SPELLS.  18G7; lines 31369-31379
+  start: '31369'
+  end: '31379'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: 'The same incidents, the same turns of expression, re-appear in different
+    countries: a sign of long and wide diffusion.'
+  summary: The passage notes repeated spell incidents and expressions across countries,
+    gives examples involving a mischievous elf or devil being stopped, meetings of
+    remedy-seekers as a prelude, and a formula of successive casting-out through body
+    layers. A footnote mentions unpublished spells from a 15th-century parchment at
+    Trier and possible material in the Book of Romanus.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the same incidents and turns of expression reappear
+    in different countries.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage interprets this recurrence as a sign of long and wide diffusion.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An elf or devil, bound on a mischievous errand, is described as being met
+    and baulked.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The meeting of those in search of remedies is described as forming a prelude.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A successive casting-out is described from marrow to bone, from bone to flesh,
+    and from flesh to skin.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A footnote says Horst obtained a number of spells from a 15th-century parchment
+    at Trier but did not print them in his book.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The footnote states that the little Book of Romanus probably contains available
+    matter.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: elf or devil
+  description: A being bound on a mischievous errand and then met and baulked.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: those in search of remedies
+  description: Unspecified persons whose meeting forms a prelude.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: mischievous errand-runner
+  assigned_to:
+  - fig:1
+  basis: The figure is described as bound on a mischievous errand.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: baulked supernatural figure
+  assigned_to:
+  - fig:1
+  basis: The figure is met and baulked.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: remedy-seeker
+  assigned_to:
+  - fig:2
+  basis: The figures are described as in search of remedies.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: elf or devil
+  literal_form: supernatural being named as elf or devil
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: body-layer casting-out sequence
+  literal_form: marrow, bone, flesh, skin
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mischievous being stopped
+  summary: A mischievous elf or devil is encountered and prevented from completing
+    its errand.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Remedy-seekers meet
+  summary: Persons seeking remedies meet, and this meeting functions as a prelude.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Successive casting-out
+  summary: Something is cast out in a sequence moving from marrow to bone, bone to
+    flesh, and flesh to skin.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mischievous supernatural being met and baulked
+  taxonomy_refs: []
+  basis: The passage identifies a recurring incident in which an elf or devil on a
+    mischievous errand is met and baulked.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt names referenced spell numbers but does not quote those spells.
+- id: motif:2
+  label: meeting of remedy-seekers as prelude
+  taxonomy_refs: []
+  basis: The passage describes the meeting of those in search of remedies as a prelude
+    recurring in referenced spells.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The specific remedy narratives are not included in the excerpt.
+- id: motif:3
+  label: successive casting-out through body layers
+  taxonomy_refs: []
+  basis: The passage lists a formulaic progression of casting-out from marrow to bone,
+    bone to flesh, and flesh to skin.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The object or condition being cast out is not specified in this excerpt.
+- id: motif:4
+  label: wide diffusion of repeated spell incidents and expressions
+  taxonomy_refs: []
+  basis: The passage states that repeated incidents and turns of expression appear
+    in different countries and treats this as a sign of long and wide diffusion.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt does not identify the countries or provide full parallel texts.
+comparison_claims:
+- id: claim:1
+  claim: The passage claims that similar spell incidents and turns of expression recur
+    in different countries and are evidence of long and wide diffusion.
+  claim_level: historical_contact
+  target: spell incidents and expressions across different countries
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt gives the author's diffusion claim but does not identify
+    the countries or provide the full parallel passages.
+- id: claim:2
+  claim: The passage treats the elf or devil being met and baulked as a recurring
+    incident across several numbered spells.
+  claim_level: same_motif
+  target: Spells XXXVIII, LII, LIII, and LVI
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the cross-references are present here; the referenced spell texts
+    are not included in the passage.
+- id: claim:3
+  claim: The passage treats the meeting of remedy-seekers as a repeated prelude in
+    two numbered spells.
+  claim_level: same_motif
+  target: Spells XXXI and XXXIX
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not provide the full contents of the referenced spells.
+- id: claim:4
+  claim: The passage compares Spells VI and LII by their shared successive casting-out
+    sequence and describes this as showing oneness.
+  claim_level: same_motif
+  target: Spells VI and LII casting-out formula
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The broader context of the two spells is not included in the excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 31369-31370
+  quote_or_summary: "“The same incidents, the same turns of expression, re-appear
+    in different countries: a sign of long and wide diffusion.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:2
+  type: summary
+  locator: lines 31370-31372
+  quote_or_summary: An elf or devil on a mischievous errand is met and baulked; referenced
+    to numbered spells XXXVIII, LII, LIII, and LVI.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized for concision.
+- id: ev:3
+  type: summary
+  locator: lines 31372-31373
+  quote_or_summary: The meeting of those in search of remedies forms a prelude; referenced
+    to spells XXXI and XXXIX.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized for concision.
+- id: ev:4
+  type: quote
+  locator: lines 31373-31375
+  quote_or_summary: "“The successive casting-out from marrow to bone, fr. bone to
+    flesh, fr. flesh to skin” is noted for spells VI and LII."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:5
+  type: summary
+  locator: lines 31376-31379
+  quote_or_summary: A note reports that Horst obtained spells from a 15th-century
+    parchment at Trier but did not give them in his book, and adds that the little
+    Book of Romanus probably contains available material.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized for concision.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage explicitly identifies recurrent spell patterns, but most referenced
+    spells and countries are not included in the excerpt, limiting motif and comparison
+    detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif-family or symbol references were assigned because the passage does not clearly support any listed taxonomy IDs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l31369-l31379
+  passage_sha256=8eb57624c3e908edfd682b39af0754f6c550b82bf2b4c114d4a51cf5960460fd
+

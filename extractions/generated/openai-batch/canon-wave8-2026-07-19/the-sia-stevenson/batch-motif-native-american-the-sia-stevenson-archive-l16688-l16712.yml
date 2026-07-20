@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l16688-l16712
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: DOLL, INDIAN WOMAN, FULL DRESS, NENENOT. / POLKIX)RR. / POLKLORK. / POLKLORR.;
+    lines 16688-16712
+  start: '16688'
+  end: '16712'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A wolverene runs along the seashore and sees geese, brant, ducks, and loons
+    sitting in the water. He calls them brothers, says he has found a pretty bees'
+    nest, and promises to give it to them if they come ashore and dance. The birds
+    go on land. The wolverene says he will sing and instructs them to keep their eyes
+    shut until the dance is over. A footnote describes people making loud clamor at
+    flocks of brant, frightening them so that they fall and are killed, especially
+    during spring migrations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wolverene is running along the seashore.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wolverene sees geese, brant, ducks, and loons sitting in water a short
+    distance away.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolverene addresses the birds as brothers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wolverene says he has found a pretty bees' nest and will give it to the
+    birds if they come ashore and dance.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: All the birds go on land.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The wolverene says they should have a dance and that he will sing.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The wolverene instructs the birds to shut their eyes and not open them until
+    the dancing is done.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The wolverene begins to sing a refrain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The footnote says people make a loud clamor when they perceive a flock of
+    brant.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The footnote says the frightened birds lose their senses, fall to the ground,
+    and are killed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The footnote says these birds are seen in great numbers during spring migrations
+    and rarely in fall.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: wolverene
+  description: An animal figure running along the seashore, speaking to birds, offering
+    a bees' nest, directing a dance, and singing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: water birds
+  description: Geese, brant, ducks, and loons sitting in the water; they come onto
+    land after the wolverene speaks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: people described in the footnote
+  description: The footnote describes people making loud clamor when they see a flock
+    of brant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: brant flock described in the footnote
+  description: A flock of brant frightened by loud clamor, losing their senses, falling,
+    and being killed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: animal speaker and lurer
+  assigned_to:
+  - fig:1
+  basis: The wolverene addresses the birds, offers them a bees' nest if they come
+    ashore and dance, and then directs the dance and singing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: summoned dance participants
+  assigned_to:
+  - fig:2
+  basis: The birds are called by the wolverene, come onto land, and are instructed
+    to dance with their eyes shut.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: human noisemakers or hunters in note
+  assigned_to:
+  - fig:3
+  basis: The footnote says people make loud clamor at a flock of brant, after which
+    the birds fall and are killed.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: frightened quarry in note
+  assigned_to:
+  - fig:4
+  basis: The footnote says the brant lose their senses, fall to the ground, and are
+    killed after the loud clamor.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water and shore boundary
+  literal_form: seashore, water, and land
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: promised bees' nest
+  literal_form: a pretty bees' nest offered in exchange for coming ashore and dancing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: closed-eye dance and song
+  literal_form: dance with eyes shut while the wolverene sings
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: loud clamor
+  literal_form: loud clamor made at a flock of brant
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Seashore sighting
+  summary: A wolverene runs along the seashore and notices several kinds of water
+    birds sitting offshore in the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invitation to shore and dance
+  summary: The wolverene calls the birds brothers, promises a bees' nest if they come
+    ashore and dance, directs them to keep their eyes shut, and begins singing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Footnote on brant and clamor
+  summary: A note explains that people make loud clamor at flocks of brant, frightening
+    the birds so that they fall and are killed; it also notes their spring migration
+    abundance and fall rarity.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal lure across the water-land boundary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The wolverene summons water birds from the water to land by promising a bees'
+    nest and directing a dance with closed eyes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage fragment does not state the result of the wolverene's action
+    or explicitly say that the offer is deceptive.
+- id: motif:2
+  label: closed-eye dance under a singer's command
+  taxonomy_refs: []
+  basis: The wolverene tells the birds to dance, shut their eyes, and keep them closed
+    until the dance is done while he sings.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The ritual or narrative function of the closed eyes is not revealed in
+    the supplied passage.
+- id: motif:3
+  label: birds felled by frightening noise
+  taxonomy_refs: []
+  basis: The footnote states that loud clamor frightens a flock of brant so that they
+    lose their senses, fall, and are killed.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is presented in a footnote as an explanatory or ethnographic note
+    rather than as part of the main wolverene narrative.
+comparison_claims:
+- id: claim:1
+  claim: 'The wolverene episode has the same broad function as a trickster-boundary
+    pattern: an animal speaker manipulates other animals at a boundary between water
+    and land through a lure and performance instructions.'
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The supplied passage is fragmentary and does not show the outcome,
+    punishment, or explicit trickery; the comparison is functional only and does not
+    imply historical contact or full motif identity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16688-16690
+  quote_or_summary: A wolverene runs along the seashore and sees geese, brant, ducks,
+    and loons sitting in nearby water.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; evidence summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 16690-16693
+  quote_or_summary: The wolverene calls the birds brothers and says he will give them
+    a pretty bees' nest if they come ashore and dance.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; evidence summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 16693-16697
+  quote_or_summary: The birds go onto land; the wolverene proposes a dance, says he
+    will sing, tells them to keep their eyes shut until the dance is done, and begins
+    singing.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; evidence summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 16698-16712
+  quote_or_summary: A footnote says people make loud clamor at flocks of brant, frightening
+    them so that they lose their senses, fall, and are killed; the note also mentions
+    spring migration abundance and fall rarity.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; evidence summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal details are mostly clear, though the OCR is damaged and the supplied
+    locator label appears inconsistent with the passage title. Motif interpretation
+    is limited because the narrative fragment ends before an outcome is given.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the provided passage and metadata. No historical-contact or inheritance claim is made.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l16688-l16712
+  passage_sha256=dad894572f2a4bbe49b958f654475831dc40e5cd0901a92b948397226bbac457
+

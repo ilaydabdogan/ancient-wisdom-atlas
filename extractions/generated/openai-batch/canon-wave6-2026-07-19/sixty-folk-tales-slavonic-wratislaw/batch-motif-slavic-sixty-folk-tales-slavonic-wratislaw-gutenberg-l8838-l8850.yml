@@ -1,0 +1,357 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l8838-l8850
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: L.--KURENT AND MAN. / LI.--THE HUNDRED-LEAVED ROSE. / LII.--KRALJEVITCH MARKO.
+    / LIII.--THE DAUGHTER OF THE KING OF THE VILAS.; lines 8838-8850
+  start: '8838'
+  end: '8850'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: During a pursuit, a mare passes through steps that open with a gust of
+    wind and close again, preventing the king from following. The king calls to his
+    son-in-law and throws a wish-granting girdle over the steps as a gift for his
+    daughter. The king returns; the others remain happy. A male figure thanks the
+    storm-mare, commands the girdle to place them at his house, and a banquet follows.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A mare approaches steps that open from a gust of wind, passes through them,
+    and the steps close again.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king is pursuing the group but cannot continue through the steps after
+    they close.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king addresses a figure as son-in-law and says his daughter should not
+    complain that he has given her nothing.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king throws his girdle over the steps because he has nothing else to give.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The girdle is described as giving its owner whatever the owner wanted.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The king returns, and the remaining group is said to remain happy.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A male figure thanks the storm-mare and commands the girdle to place them
+    at his house.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A grand banquet is prepared because they have plenty, and the first-person
+    narrator says he was at the banquet and feasted.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: The pursuer who is stopped at the steps, calls out to his son-in-law,
+    and throws his girdle over the steps as a gift for his daughter.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: son-in-law
+  description: A male figure addressed by the king as son-in-law; after the king returns,
+    a male figure thanks the storm-mare and uses the girdle to return home.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: the king's daughter
+  description: A female figure identified in the king's speech as his daughter; the
+    king says she should not complain that he has given her nothing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: mare / storm-mare
+  description: The mare carries the group through the opening steps and is later thanked
+    as the storm-mare.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: first-person narrator
+  description: The speaker who says he was at the banquet and feasted.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: blocked pursuer
+  assigned_to:
+  - fig:1
+  basis: The king pursues but cannot proceed through the steps after they close.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed son-in-law
+  assigned_to:
+  - fig:2
+  basis: The king directly calls out to a figure as son-in-law.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: paternal gift-giver
+  assigned_to:
+  - fig:1
+  basis: The king explains that his daughter should not complain of receiving nothing
+    and throws the girdle over the steps.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: daughter and intended gift-recipient
+  assigned_to:
+  - fig:3
+  basis: The king refers to 'my daughter' in connection with the gift he throws over
+    the steps.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: home-returning girdle user
+  assigned_to:
+  - fig:2
+  basis: After the king returns, a male figure thanks the storm-mare and bids the
+    girdle place them at his house; the son-in-law is the named male figure in the
+    preceding speech.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: transporting mare-helper
+  assigned_to:
+  - fig:4
+  basis: The mare passes through the steps before they close and is later thanked
+    courteously.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:7
+  label: banquet witness
+  assigned_to:
+  - fig:5
+  basis: The first-person narrator states that he attended and feasted at the banquet.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: opening and closing steps
+  literal_form: steps that open from a gust of wind and then close again
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wish-granting girdle
+  literal_form: a girdle whose owner obtains whatever is wanted
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: storm-mare
+  literal_form: mare called the storm-mare
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: banquet of plenty
+  literal_form: a grand banquet prepared because they had plenty
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Escape through the steps
+  summary: The mare carrying the group reaches the steps; the steps open with a gust
+    of wind, the mare passes through, and the steps close, stopping the king's pursuit.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Girdle thrown over the boundary
+  summary: Unable to follow, the king calls to his son-in-law and throws his girdle
+    over the steps as the only gift he can give his daughter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Return home and banquet
+  summary: The king returns, the others remain happy, a male figure thanks the storm-mare
+    and commands the girdle to place them at his house, and a banquet of plenty is
+    held.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Pursuit halted at an opening-and-closing threshold
+  taxonomy_refs: []
+  basis: The mare passes through steps that open and close, while the pursuing king
+    cannot proceed through them.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explain the nature or origin of the steps, so the
+    threshold motif should remain descriptive.
+- id: motif:2
+  label: Wish-granting girdle
+  taxonomy_refs: []
+  basis: The girdle is said to give its owner whatever the owner wanted, and it is
+    later commanded to place the group at a house.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly matches a wish-granting belt
+    or girdle.
+- id: motif:3
+  label: Magical animal helper in escape
+  taxonomy_refs: []
+  basis: The mare enables passage through the steps during pursuit and is later thanked
+    as the storm-mare.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage names the animal as a storm-mare but does not describe its
+    powers beyond this escape scene.
+- id: motif:4
+  label: Return home by supernatural aid
+  taxonomy_refs:
+  - return
+  basis: A male figure bids the girdle place them at his house, after which a grand
+    banquet is prepared.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The broader return context is limited to this short ending passage.
+- id: motif:5
+  label: Gift cast across an impassable boundary
+  taxonomy_refs: []
+  basis: The king cannot cross the steps, so he throws his girdle over them as a gift
+    associated with his daughter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not state that the exchange is ritual or sacred; it is
+    recorded only as a paternal gift under pursuit conditions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8838-8842
+  quote_or_summary: The king pursues the group; the mare nears the steps, the steps
+    open with a gust of wind, the mare passes through, the steps close, and the king
+    cannot continue.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8842-8846
+  quote_or_summary: The king calls to his son-in-law, says his daughter should not
+    complain that she has received nothing, and throws his girdle over the steps because
+    he has nothing else to give.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8846-8847
+  quote_or_summary: '"whatsoever its owner wanted, he obtained"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain; brief excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 8847-8850
+  quote_or_summary: The king returns; the others remain happy. A male figure thanks
+    the storm-mare, commands the girdle to place them at his house, and a grand banquet
+    of plenty is held, with the first-person narrator claiming attendance.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main actions and objects are clear. Some pronoun antecedents are inferred
+    from the immediate passage, especially the male figure who thanks the storm-mare
+    and uses the girdle. No comparison claims were extracted because the passage itself
+    provides no explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Available symbol taxonomy did not include steps, girdle, mare, or banquet.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l8838-l8850
+  passage_sha256=6369a2e4047720cec7e62a23e79795a14dba920e682f0a2f5531b2584bb2660c
+

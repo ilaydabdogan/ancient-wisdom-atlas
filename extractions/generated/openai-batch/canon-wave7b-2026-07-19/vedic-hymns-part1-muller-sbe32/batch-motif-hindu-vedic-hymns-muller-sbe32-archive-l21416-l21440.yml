@@ -1,0 +1,198 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l21416-l21440
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. I, 168, I. 281 / NOT ES; / NOTES. I, 168, 6. 283 / NOTES. I, 168,
+    9. 285; lines 21416-21440
+  start: '21416'
+  end: '21440'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The notes identify Prishni as mother of the Maruts, mention epithets applied
+    to them, explain svadha as food, and gloss Abhva as the dark gathering of clouds
+    before a storm, with a possible masculine conception elsewhere as a monster-like
+    being.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Prishni is identified as the mother of the Maruts.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Maruts are said to be often called by maternal epithets including forms
+    rendered in the note as Prishni-matarah, go-matarah, and sindhu-matarah.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Svadha is explained in the sense of food.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Abhva is glossed as more than dark clouds: the dark gathering of clouds before
+    a storm.'
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says Abhva may be conceived as masculine in another passage, where
+    it is compared to an untranslatable monster-like term.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Prishni
+  description: Identified in the note as the mother of the Maruts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Maruts
+  description: A group identified as children of Prishni and associated with maternal
+    epithets.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Abhva
+  description: A term glossed as the dark gathering of clouds before a storm; possibly
+    conceived as masculine elsewhere.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: mother
+  assigned_to:
+  - fig:1
+  basis: The note explicitly calls Prishni the mother of the Maruts.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: children of Prishni
+  assigned_to:
+  - fig:2
+  basis: The Maruts are described as having Prishni as mother and as bearing maternal
+    epithets.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: storm-cloud formation or possible masculine being
+  assigned_to:
+  - fig:3
+  basis: Abhva is glossed as a dark gathering of storm clouds and possibly masculine
+    in another cited passage.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: food
+  literal_form: svadha as food
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: storm clouds
+  literal_form: dark gathering of clouds before a storm
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Genealogical note on Prishni and the Maruts
+  summary: The note states that Prishni is the mother of the Maruts and lists maternal
+    names applied to them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lexical note on Abhva
+  summary: The note explains Abhva as a storm-cloud gathering and mentions a possible
+    masculine conception elsewhere.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divine mother and divine children
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Prishni is explicitly identified as mother of the Maruts, a named group in
+    the Vedic hymn notes.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a commentary note rather than a narrative scene; it gives
+    a relationship but no developed mythic action.
+- id: motif:2
+  label: storm-cloud threat or being
+  taxonomy_refs:
+  - chaos
+  basis: Abhva is described as the dark gathering of clouds before a storm and possibly
+    as a masculine monster-like being in another cited hymn.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The note is primarily lexical; the monster-like reading is conditional
+    and refers to another passage not provided here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21426-21428
+  quote_or_summary: The note states that Prishni is the mother of the Maruts and that
+    they are often called by maternal epithets.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 21430-21431
+  quote_or_summary: The note explains svadha in the sense of food and points to other
+    references.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 21433-21438
+  quote_or_summary: The note glosses Abhva as the dark gathering of clouds before
+    a storm and mentions a masculine conception in another passage as a monster-like
+    term.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is commentary/notes rather than a full mythic narrative. Genealogical
+    and lexical features are clear, but motif identification is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself establish a substantive comparative relationship beyond internal lexical cross-reference.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l21416-l21440
+  passage_sha256=bde430336a89052483e6f9e56a1b2a04c828331badc5d6b7a0e469a59cf9c222
+

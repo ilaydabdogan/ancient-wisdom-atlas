@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l5896-l5965
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: EGYPTIAN MONOTHEISM 119 / OSIRIS AS GOD 121 / CONCEPTION OF GOD / CONCEPTION
+    OF GOD; lines 5896-5965
+  start: '5896'
+  end: '5965'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A set of didactic sayings instructs a human addressee to make his son pleasing
+    to God, satisfy dependants through action, and practice obedience, which God loves.
+    Disobedience is said to be hated by God, and a good son is described as one of
+    God's gifts. The passage then begins an incomplete exhortation from the Prisse
+    Papyrus about becoming great or rich after low status or poverty.
+  language: English with Egyptian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The addressee is told that, to be a perfect man, he should make his son pleasing
+    to God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressee is told to satisfy his dependants by his actions.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the action should be done by one who is favoured by God.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that God loves obedience.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that God hates disobedience.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A good son is described as one of the gifts of God.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage begins to quote an exhortation from the Prisse Papyrus about a
+    person who has become great after being of no account and rich after being poor,
+    but the excerpt is incomplete.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The deity described as one to whom a son may be pleasing, who favours
+    a person, loves obedience, hates disobedience, and gives a good son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Human addressee
+  description: The implied person addressed by the instructions to make his son pleasing
+    to God and satisfy his dependants.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Son
+  description: The son whom the addressee should make pleasing to God; a good son
+    is also called a gift of God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Dependants
+  description: Those whom the addressee is told to satisfy by his actions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: deity and moral evaluator
+  assigned_to:
+  - fig:1
+  basis: God is described as favouring, loving obedience, hating disobedience, and
+    giving a good son.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: instructed human recipient
+  assigned_to:
+  - fig:2
+  basis: The imperatives are addressed to a second-person human addressee.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: offspring and divine gift
+  assigned_to:
+  - fig:3
+  basis: The son is to be made pleasing to God, and a good son is called a gift of
+    God.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: dependants of the addressee
+  assigned_to:
+  - fig:4
+  basis: The passage names dependants as recipients of the addressee's satisfying
+    actions.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: good son as divine gift
+  literal_form: good son
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Didactic instruction on conduct pleasing to God
+  summary: 'The passage presents moral instruction: the addressee should guide his
+    son toward pleasing God, care for dependants through action, and value obedience
+    because it is loved by God, while disobedience is hated.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Opening of Prisse Papyrus exhortation
+  summary: An exhortation begins by addressing someone who has become great after
+    obscurity and rich after poverty, but the quoted passage breaks off before completing
+    the instruction.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom instruction about pious conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The passage consists of didactic exhortations defining proper human behavior
+    in relation to God, dependants, and family.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt is short and presented through Budge's translation and commentary;
+    the original context is only partly visible.
+- id: motif:2
+  label: good offspring as a divine gift
+  taxonomy_refs: []
+  basis: A good son is explicitly described as one of the gifts of God.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states the idea briefly and does not develop a narrative of
+    divine granting or birth.
+- id: motif:3
+  label: deity approves obedience and rejects disobedience
+  taxonomy_refs: []
+  basis: God is said to love obedience and hate disobedience.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an ethical-theological statement rather than a developed mythic
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5896-5906
+  quote_or_summary: '"If thou wouldst be a man perfect make thou [thy] son ... to
+    be pleasing unto God."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 5908-5918
+  quote_or_summary: '"Satisfy thy dependants by thy actions"; it should be done "by
+    him that is favoured by God."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 5920-5937
+  quote_or_summary: '"What is loved of God is obedience" and "disobedience" God "hateth."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 5939-5946
+  quote_or_summary: '"Verily a son good [is] of the gifts of God."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 5948-5965
+  quote_or_summary: The text introduces an exhortation from the Prisse Papyrus about
+    a person who was once of no account or poor and has become great or rich; the
+    provided excerpt stops mid-sentence.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main ethical statements are clear, but the passage is fragmentary, includes
+    transliteration noise, and the final Prisse Papyrus quotation is incomplete.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself make a sustained comparison to another tradition or corpus beyond naming the Prisse Papyrus as a source.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l5896-l5965
+  passage_sha256=385f6b53e14850b21e112cdff40214c0d10ef5def30ef9022417092e418c9c77
+

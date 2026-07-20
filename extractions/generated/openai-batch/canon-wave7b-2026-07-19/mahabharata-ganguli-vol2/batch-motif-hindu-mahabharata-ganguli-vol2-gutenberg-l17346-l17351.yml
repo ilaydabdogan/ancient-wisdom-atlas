@@ -1,0 +1,198 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l17346-l17351
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION CXXX / SECTION CXXXI / SECTION CXXXII / SECTION CXXXIII; lines 17346-17351
+  start: '17346'
+  end: '17351'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Kunti said ... is cited an old story of the conversation between Vidula and
+    her son.
+  summary: Kunti invokes an old story about a conversation between Vidula and her
+    son and tells the addressed person to convey to Yudhishthira whatever useful counsel
+    can be drawn from it, or anything even more beneficial.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Kunti speaks and introduces an old story in connection with the present matter.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old story is described as a conversation between Vidula and her son.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Kunti tells the addressed person to say something to Yudhishthira based on
+    the old story, or something more beneficial.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Kunti
+  description: Speaker who cites the old story and gives instruction concerning Yudhishthira.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed addressee, addressed as “O chastiser of foes”
+  description: Person addressed by Kunti and told to speak to Yudhishthira.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Vidula
+  description: Figure in the cited old story, named in relation to her son.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Vidula’s son
+  description: Figure in the cited old story who converses with Vidula.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Yudhishthira
+  description: Intended recipient of the counsel to be conveyed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: speaker and citer of precedent
+  assigned_to:
+  - fig:1
+  basis: Kunti speaks and cites an old story as relevant.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: instructed addressee
+  assigned_to:
+  - fig:2
+  basis: Kunti addresses this person and says it is fitting for them to speak to Yudhishthira.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: mother in cited conversation
+  assigned_to:
+  - fig:3
+  basis: The story is identified as a conversation between Vidula and her son.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: son in cited conversation
+  assigned_to:
+  - fig:4
+  basis: The story is identified as a conversation between Vidula and her son.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: recipient of counsel
+  assigned_to:
+  - fig:5
+  basis: Kunti directs that something beneficial be said to Yudhishthira.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Kunti introduces the Vidula story as counsel
+  summary: Kunti cites an old conversation between Vidula and her son and urges the
+    addressee to convey to Yudhishthira counsel drawn from it or something even more
+    beneficial.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: ancient dialogue used as instructive counsel
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames an old story as a source from which useful or beneficial
+    speech for Yudhishthira may be gathered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage only introduces the old story and does not provide the content
+    of its wisdom or advice.
+- id: motif:2
+  label: mother-son conversation as exemplary precedent
+  taxonomy_refs: []
+  basis: The cited old story is specifically a conversation between Vidula and her
+    son, introduced as relevant to the present counsel.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives no details of the conversation beyond the relationship
+    and its use as precedent.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats the old conversation of Vidula and her son
+    as an analogous source of instruction for what should be said to Yudhishthira.
+  claim_level: same_function
+  target: old story of Vidula and her son as precedent for counsel to Yudhishthira
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an intrapassage functional comparison only; the excerpt does
+    not support claims about historical contact, common inheritance, or broader cross-cultural
+    parallels.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 17346-17350
+  quote_or_summary: "“Kunti said ... is cited an old story of the conversation between
+    Vidula and her son.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 17350-17351
+  quote_or_summary: "“It behoveth thee to say unto Yudhishthira anything that can
+    be gathered from this or anything more beneficial than that.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and explicit about figures and rhetorical function,
+    but it does not include the content of the cited old story.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied symbol list are present in this excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l17346-l17351
+  passage_sha256=c167e63652fda50cf11655e39e39723669923fc531f2b21856b10b2dfee06ec6
+

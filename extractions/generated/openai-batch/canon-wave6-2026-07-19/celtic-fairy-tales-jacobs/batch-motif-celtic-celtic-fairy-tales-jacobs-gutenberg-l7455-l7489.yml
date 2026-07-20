@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.celtic-celtic-fairy-tales-jacobs-gutenberg-l7455-l7489
+source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: VII. SHEPHERD OF MYDDVAI. / VIII. THE SPRIGHTLY TAILOR. / IX. DEIRDRE. /
+    X. MUNACHAR AND MANACHAR.; lines 7455-7489
+  start: '7455'
+  end: '7489'
+  translation: Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A source, parallels, and remarks note for “Munachar and Manachar” says
+    the tale text combines Irish and Scotch versions, identifies related English and
+    wider European/Eastern variants of a cumulative jingle, cites an early Don Quixote
+    allusion and Bengali folktale-ending use, and discusses but questions proposed
+    ritual origins in the Jewish Hagada and Greek Bouphonia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The source note says the version combines an Irish version given by Dr. Hyde
+    and a Scotch version given by Campbell.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The parallels note identifies two English versions, “The Old Woman and her
+    Pig” and “The Cat and the Mouse,” and mentions other variants in the isles.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says M. Cosquin drew attention to many parallels scattered through
+    Europe and the East.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage cites Don Quixote as an early allusion to a jingle involving a
+    linked sequence of cat, rat, cord, and stick.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Bengali women use the jingle at the end of each folktale
+    they recite.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The remarks introduce two origin suggestions for the jingle, both connecting
+    it with religious ceremonies.
+  category: other
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The passage says a similar Chaldaic item at the end of the Jewish Hagada was
+    not in early manuscripts or editions and was likely a late translation or adaptation
+    of a current German form.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage reports a suggestion that the jingle survives a Greek Bouphonia
+    custom in which responsibility for killing the sacred beast is transferred from
+    priest to axe to handle and onward, but says this explanation does not account
+    for the jingle’s wider diffusion.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bengali women
+  description: Women said to use the jingle at the end of each folktale they recite.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Bouphonia priest
+  description: A priest in the proposed Greek custom who contends that he had not
+    slain the sacred beast.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: children after the Passover service
+  description: Children said to have been amused by the late-added Hagada ending.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: folktale reciters using the jingle
+  assigned_to:
+  - fig:1
+  basis: The passage says Bengali women use the jingle at the end of each folktale
+    they recite.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ritual participant denying direct responsibility
+  assigned_to:
+  - fig:2
+  basis: In the Bouphonia comparison, the priest is said to contend that he had not
+    slain the sacred beast.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: audience for a late ritual-text addition
+  assigned_to:
+  - fig:3
+  basis: The passage says the Hagada item was added to amuse children after the service.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cumulative jingle chain
+  literal_form: cat, rat, cord, stick, followed by a linked striking sequence in the
+    Don Quixote allusion
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: sacrificial blame-transfer implements
+  literal_form: sacred beast, axe, handle, and further transferred guilt in the Bouphonia
+    explanation
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Source and parallels note
+  summary: The passage identifies Irish and Scotch source versions and lists English,
+    European, Eastern, Don Quixote, and Bengali parallels or uses of the jingle.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Proposed ritual-origin explanations
+  summary: The remarks discuss a Hagada comparison and a Bouphonia comparison, while
+    noting limits to both as explanations of the jingle’s origin or diffusion.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cumulative chain jingle
+  taxonomy_refs: []
+  basis: The passage repeatedly refers to a jingle with linked elements, gives a Don
+    Quixote example, and identifies many parallels and variants.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a scholarly note rather than the full tale narrative, so
+    only the jingle pattern is visible here.
+- id: motif:2
+  label: folktale-closing jingle
+  taxonomy_refs: []
+  basis: The passage says Bengali women use the jingle at the end of each folktale
+    they recite.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the usage is stated; the passage does not give the Bengali wording
+    or narrative context.
+- id: motif:3
+  label: sacrificial blame-transfer chain
+  taxonomy_refs:
+  - sacrifice
+  basis: The Bouphonia comparison describes blame for killing a sacred beast being
+    passed from the priest to the axe to the handle and onward.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is presented as an ingenious suggestion for origin, and the passage
+    explicitly says it fails to explain the jingle’s diffusion.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats “The Old Woman and her Pig” and “The Cat and the Mouse”
+    as English parallels to “Munachar and Manachar.”
+  claim_level: same_motif
+  target: English fairy-tale versions “The Old Woman and her Pig” and “The Cat and
+    the Mouse”
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The note names the parallels but does not reproduce their plots in
+    this passage.
+- id: claim:2
+  claim: The passage supports a cautious claim that the jingle pattern has parallels
+    across Europe and the East.
+  claim_level: same_motif
+  target: European and Eastern parallels noted by Cosquin and others
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports the existence of many parallels but gives no detailed
+    list or textual comparison here.
+- id: claim:3
+  claim: The Don Quixote allusion and the Bengali folktale-ending use are presented
+    as examples of the same or closely related cumulative jingle pattern in different
+    contexts.
+  claim_level: same_function
+  target: Don Quixote allusion and Bengali folktale-recitation endings
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief Don Quixote excerpt and a brief statement
+    of Bengali usage.
+- id: claim:4
+  claim: A comparison is reported between the jingle and a Chaldaic item at the end
+    of the Jewish Hagada, but the passage limits its value as an origin claim by saying
+    the item was a late adaptation from a German form.
+  claim_level: linguistic_similarity
+  target: Jewish Hagada Passover-night ending and current German form of the jingle
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: Similarity is reported, but early textual absence and late addition
+    weaken any claim of ritual origin.
+- id: claim:5
+  claim: A comparison is reported between the jingle and the Greek Bouphonia blame-transfer
+    custom, but the passage questions this as an explanation of widespread diffusion.
+  claim_level: same_function
+  target: Greek Bouphonia sacrifice blame-transfer custom
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: low
+  limitations: The passage calls the suggestion ingenious but says it fails to explain
+    diffusion in places without historic connection to classical Greece.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7455-7461
+  quote_or_summary: The section is titled “X. Munachar and Manachar”; the source note
+    says the text combines an Irish version from Dr. Hyde and a Scotch version from
+    Campbell.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7463-7471
+  quote_or_summary: The parallels note names two English versions, cites notes on
+    variants in the isles, and says Cosquin noted many parallels through Europe and
+    the East.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 7471-7477
+  quote_or_summary: 'Short excerpt: “el gato al rato ... la cuerda al palo”; the same
+    note says Bengali women use the jingle at the end of each folktale they recite.'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:4
+  type: summary
+  locator: lines 7479-7485
+  quote_or_summary: The remarks say a similar Chaldaic item occurs at the end of the
+    Jewish Hagada but was not in early manuscripts or editions and was likely added
+    to amuse children after the service as a German-form adaptation.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7485-7489
+  quote_or_summary: The remarks report Basset’s suggestion connecting the jingle with
+    the Bouphonia, where guilt for slaying the sacred beast is transferred from priest
+    to axe to handle and onward, but state that this does not explain wider diffusion.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage contains editorial source, parallels, and remarks rather than
+    the full tale. Motif extraction is strongest for the explicitly discussed cumulative
+    jingle and weaker for proposed ritual-origin interpretations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No underlying story episode from “Munachar and Manachar” is included in this line range; extraction is limited to the comparative jingle discussion provided.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-celtic-fairy-tales-jacobs-gutenberg__l7455-l7489
+  passage_sha256=cdb3e1c2a0dc8eb56791c0466ab769c754f2786dabfe3a64bec320aaa3895173
+

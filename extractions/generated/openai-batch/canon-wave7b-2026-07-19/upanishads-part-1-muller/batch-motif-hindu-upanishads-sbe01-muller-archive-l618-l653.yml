@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.hindu-upanishads-sbe01-muller-archive-l618-l653
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+passage_locator:
+  label: SACRED BOOKS OF THE EAST. XIX / XX PREFACE TO THE / SACRED BOOKS OF THE EAST.
+    XXI / XXIV PREFACE TO THE; lines 618-653
+  start: '618'
+  end: '653'
+  translation: The Upanishads, Part I (Sacred Books of the East, Vol. 1)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: repeating the syllable Om
+  summary: The passage discusses ekagrata, one-pointed intensity of thought, as a
+    Hindu condition for philosophical and religious speculation. It describes practices
+    for withdrawing attention from disturbances, the repetition of Om to attain mental
+    tranquility, and interpretations of Om as the beginning or essence of Vedic scripture,
+    connected with speech, breath, and life.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contrasts modern interruptions such as telegrams, letters, newspapers,
+    reviews, pamphlets, and books with the difficulty of attaining intense thought.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ekagrata is described as an intensity of thought that Hindus regarded as an
+    indispensable condition for philosophical and religious speculation.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hindus are said to have used contrivances to draw thoughts away from disturbing
+    impressions and fix them on one subject.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The repetition of the syllable Om is described as a means by which mental
+    tranquility was reached.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says that various answers were given to the question of what Om
+    meant, in a process of leading the mind to higher objects.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Om is identified in the cited passage as the beginning of the Veda, specifically
+    the beginning of the Sama-veda in the Upanishadic context discussed.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says that one who meditates on Om may be understood as meditating
+    on the whole Sama-veda.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Om is said to be the essence of the Sama-veda, and the Sama-veda is connected
+    with the Rig-veda; the Rig-veda is said to stand for all speech, while the Sama-veda
+    stands for all breath or life.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hindus
+  description: A collective group described as valuing ekagrata and adopting practices
+    to withdraw thought from disturbances and fix it on one subject.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: meditator on Om
+  description: A generic person described as meditating on Om and thereby being understood
+    to meditate on the whole Sama-veda.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: practitioners of one-pointed concentration
+  assigned_to:
+  - fig:1
+  basis: The passage says Hindus regarded ekagrata as necessary and used contrivances
+    to withdraw thought from disturbing impressions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: contemplative meditator
+  assigned_to:
+  - fig:2
+  basis: The passage describes a person meditating on Om and thereby meditating on
+    the whole Sama-veda.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Om as sacred syllable
+  literal_form: the syllable Om
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Om as beginning of Vedic scripture
+  literal_form: Om
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Om as essence of Sama-veda and Rig-veda
+  literal_form: Om
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Rig-veda as speech
+  literal_form: Rig-veda
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Sama-veda as breath or life
+  literal_form: Sama-veda
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Difficulty of concentration amid modern interruptions
+  summary: The passage frames modern communications and print media as disturbances
+    that make intense thought difficult, contrasting this with the Hindu ideal of
+    ekagrata.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Withdrawal of thought to one subject
+  summary: Hindus are described as using practices to remove attention from disturbing
+    impressions and focus on a single subject.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Meditation on Om and expanding interpretation
+  summary: The passage describes repetition of Om leading to tranquility, followed
+    by interpretations of Om as the beginning and essence of Vedic scripture and as
+    linked to speech, breath, and life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: One-pointed concentration as path to religious-philosophical wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Ekagrata is described as the indispensable condition for philosophical and
+    religious speculation, and Hindu practices are described as supporting fixed attention
+    on one subject.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a philosophical and contemplative pattern in a preface, not a
+    narrative myth episode.
+- id: motif:2
+  label: Sacred syllable as condensed totality of scripture
+  taxonomy_refs:
+  - wisdom
+  basis: Om is described as the beginning of the Veda or Sama-veda and as representing
+    meditation on the whole Sama-veda.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports interpretive doctrine rather than narrating ritual
+    action in full.
+- id: motif:3
+  label: Contemplative ascent through higher objects of meditation
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  basis: The passage says that varied answers about Om were given as the mind was
+    led up to higher and higher objects.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The ascent is mental or interpretive, not a literal journey upward.
+- id: motif:4
+  label: Scriptural correspondences with speech, breath, and life
+  taxonomy_refs:
+  - wisdom
+  basis: The Rig-veda is said to stand for all speech, and the Sama-veda for all breath
+    or life, in connection with the interpretation of Om.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt cuts off after 'Om may be conceived again as the,' so the
+    final formulation is incomplete in this passage range.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the Vedic materials discussed in the passage, Om is presented as
+    serving a similar totalizing function across multiple levels: beginning of the
+    Veda or Sama-veda, meditation on the whole Sama-veda, and essence of the Sama-veda
+    and Rig-veda.'
+  claim_level: same_function
+  target: Veda, Sama-veda, and Rig-veda correspondences in the passage
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal comparison within the passage's reported exegesis;
+    it does not establish historical contact, common inheritance beyond the Vedic
+    context, or a cross-cultural parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 620-627
+  quote_or_summary: Modern communications and printed materials are said to interrupt
+    thought, making it difficult to attain ekagrata, described as an indispensable
+    condition for philosophical and religious speculation among Hindus.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 628-634
+  quote_or_summary: Hindus are described as adopting contrivances to withdraw thought
+    from disturbing impressions and fix it on one subject.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 636-640
+  quote_or_summary: '"When by means of repeating the syllable Om" they reached "a
+    certain degree of mental tranquillity," the question arose what Om meant.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source metadata; short excerpt from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 641-648
+  quote_or_summary: Various answers about Om are said to lead the mind to higher objects;
+    Om is first described as the beginning of the Veda or Sama-veda, so that meditating
+    on Om may be understood as meditating on the whole Sama-veda.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 649-653
+  quote_or_summary: Om is said to be the essence of the Sama-veda and, through it,
+    of the Rig-veda; the Rig-veda stands for all speech, and the Sama-veda for all
+    breath or life.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about concentration, Om, and Vedic correspondences,
+    but it is prefatory exposition rather than a narrative myth. Motif assignments
+    are therefore interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unsupported taxonomy references were used. The passage ends mid-sentence, so claims based on the final clause are limited to the text available in lines 618-653.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-upanishads-sbe01-muller-archive__l618-l653
+  passage_sha256=8a54c4b8dc23471441b767d5cd28e319cbc8094a2a16928b181161a2e89015d9
+

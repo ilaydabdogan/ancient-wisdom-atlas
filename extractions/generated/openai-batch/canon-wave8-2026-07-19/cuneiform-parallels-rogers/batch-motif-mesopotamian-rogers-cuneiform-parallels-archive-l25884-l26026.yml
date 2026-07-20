@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l25884-l26026
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: IV. THE CODE OF HAMMURAPI / LITERATURE / PROLOGUE1 / INDEX; lines 25884-26026
+  start: '25884'
+  end: '26026'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment listing names, topics, and page references, including
+    entries for myths, divine figures, underworld judges, creator deities, the Deluge,
+    destruction by fire, a boundary stone, and a building inscription with cosmology.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section containing alphabetized entries and page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Adapa is indexed with a reference to a myth.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Anunnaki are described as judges in Hades.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Aruru is indexed as a creator.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ashur is identified with Anshar and is also indexed as a creator god.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Berosso8 is indexed in connection with early myths and early kings.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Berosso8 is indexed in connection with the Deluge.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Berosso8 is indexed in connection with destruction by fire.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A boundary stone, identified as a Kudurru, is listed as an index topic.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A building inscription with cosmology is listed as an index topic.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Adapa
+  description: A named figure whose entry is labeled as a myth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Anunnaki
+  description: A group described as judges in Hades.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Aruru
+  description: A figure indexed as creator.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Ashur
+  description: A god identified with Anshar and described as creator.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Anshar
+  description: A figure with whom Ashur is identified in the index.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Berosso8
+  description: A named source or authorial figure indexed in connection with early
+    myths, the Deluge, and destruction by fire.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: subject of a myth entry
+  assigned_to:
+  - fig:1
+  basis: The index entry names Adapa and labels the entry as a myth.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: underworld judges
+  assigned_to:
+  - fig:2
+  basis: The Anunnaki are explicitly described as judges in Hades.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: creator figure
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Aruru is listed as creator, and Ashur is listed as a god as creator.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: identified divine counterpart
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The entry states that Ashur is identified with Anshar.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: source associated with mythic and catastrophic topics
+  assigned_to:
+  - fig:6
+  basis: The index links Berosso8 with early myths, the Deluge, and destruction by
+    fire.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Hades
+  literal_form: Hades as the place where the Anunnaki are judges
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Deluge
+  literal_form: the Deluge
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: Fire destruction
+  literal_form: destruction by fire
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: Boundary stone
+  literal_form: Boundary stone (Kudurru)
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: Cosmological building inscription
+  literal_form: Building inscription with cosmology
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Underworld judgment by divine or semi-divine judges
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Anunnaki are explicitly called judges in Hades.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The index gives only the role and location, not a full judgment scene.
+- id: motif:2
+  label: Creator deity or creator figure
+  taxonomy_refs: []
+  basis: Aruru is indexed as creator, and Ashur is indexed as a god as creator.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The index does not describe the creation act or cosmological sequence.
+- id: motif:3
+  label: Deluge catastrophe tradition
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: Berosso8 is indexed as writing or being cited on the Deluge.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage mentions the Deluge but does not describe renewal, survivors,
+    divine cause, or narrative details.
+- id: motif:4
+  label: Destruction by fire
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: Berosso8 is indexed in connection with destruction by fire.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The index does not specify the scale of destruction or whether it is world-ending.
+- id: motif:5
+  label: Cosmology embedded in an inscription
+  taxonomy_refs: []
+  basis: The index lists a building inscription with cosmology.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage does not provide the cosmological content of the inscription.
+comparison_claims:
+- id: claim:1
+  claim: The description of the Anunnaki as judges in Hades supports a cautious function-level
+    comparison with underworld or divine judgment motif patterns.
+  claim_level: same_function
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The entry is an index note only and gives no narrative trial, verdict,
+    or moral framework.
+- id: claim:2
+  claim: The Deluge entry supports a cautious motif-family comparison with flood catastrophe
+    traditions.
+  claim_level: same_motif
+  target: flood_and_renewal motif family
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the topic 'Deluge' is named; the renewal element and narrative
+    details are not present in this passage.
+- id: claim:3
+  claim: The entry on destruction by fire supports a cautious comparison with fire-destruction
+    catastrophe motifs.
+  claim_level: same_motif
+  target: world_destroying_fire motif family
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not specify whether the fire destroys a city, region,
+    world, or other target.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25884-26026; index section
+  quote_or_summary: The passage is an index listing entries and page references from
+    Abdi-Khiba through chronology materials.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 25884-26026; entry 'Adapa'
+  quote_or_summary: Adapa, myth of, 67
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 25884-26026; entry 'Anunnaki'
+  quote_or_summary: Anunnaki, judges in Hades, 129
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 25884-26026; entry 'Aruru'
+  quote_or_summary: Aruru, as creator, 82
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 25884-26026; entry 'Ashur'
+  quote_or_summary: Ashur, identified with Anshar, 54; god as creator, 57
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 25884-26026; entry 'Berosso8'
+  quote_or_summary: Berosso8, on early myths, 76; on early kings, 78
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 25884-26026; entry 'Berosso8'
+  quote_or_summary: on the Deluge, 109
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: quote
+  locator: lines 25884-26026; entry 'Berosso8'
+  quote_or_summary: on destruction by fire, 112
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: lines 25884-26026; entry 'Boundary stone'
+  quote_or_summary: Boundary stone (Kudurru), 387
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: quote
+  locator: lines 25884-26026; entry 'Building inscription with cosmology'
+  quote_or_summary: Building inscription with cosmology, 58
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is limited because the passage is an index rather than
+    a narrative. Motif candidates are based on index labels and should be checked
+    against the referenced pages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No full mythic scenes are narrated in this passage; therefore scenes are left empty.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l25884-l26026
+  passage_sha256=1e804d3554f836a54bd0cc3c16b1a4e2eabd29ea3b1007064eff607a01e0c698
+

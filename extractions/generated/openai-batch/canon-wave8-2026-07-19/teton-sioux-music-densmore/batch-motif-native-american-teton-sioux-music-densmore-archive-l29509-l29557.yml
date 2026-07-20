@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l29509-l29557
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: IMPLEMENTS  USED / BUREAU   OF  AMEBICAN   ETHNOLOGY / BULLETIN  61    PLATE  68
+    / WOBD8; lines 29509-29557
+  start: '29509'
+  end: '29557'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives song words referring to Crow Indians attacking and one
+    being killed, followed by a musical analysis. It then recounts an incident in
+    which Eagle Shield led a Sioux war party against the Crows, entered the Crow village
+    as a scout with a companion, found horses picketed inside a circle of tents, took
+    two horses despite his companion's hesitation, escaped undetected, and returned
+    to camp at daybreak. The Crows then became more watchful, preventing the rest
+    of the Sioux war party from securing horses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The song words refer to the Crow Indians coming attacking and state that one
+    of them will be killed.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The musical analysis says the song contains two rhythmic units used alternately
+    in the middle of the song, is based on the second five-toned scale, has a compass
+    of 12 tones, and is melodic with harmonic framework.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Eagle Shield led a war party against the Crows.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Crows had picketed their horses within the circle of tents.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Eagle Shield and a companion entered the village as scouts and saw the horses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Eagle Shield proposed taking horses; his companion resisted and then told
+    Eagle Shield to do it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Eagle Shield crept into the circle of tents, took two horses, one black and
+    one brown, and escaped without detection.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Eagle Shield and his companion mounted the horses and reached their camp about
+    daybreak.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the loss was discovered, the Crows increased their watchfulness, and
+    the other Sioux war party members were unable to secure horses.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Eagle Shield and his companion were the only members of the war party who
+    returned on horseback.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eagle Shield
+  description: A Sioux war party leader who entered the Crow village as a scout, took
+    two horses, and escaped undetected.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Eagle Shield's companion
+  description: A companion who entered the village as a scout with Eagle Shield, hesitated
+    to take horses, and returned mounted on one of the captured horses.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: The Crows
+  description: The opposing group whose camp contained picketed horses and who increased
+    watchfulness after the loss of the horses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Sioux war party
+  description: The party led by Eagle Shield against the Crows; its other members
+    were unable to secure horses and returned on foot.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: war party leader
+  assigned_to:
+  - fig:1
+  basis: The passage states that Eagle Shield led a war party against the Crows.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: scout
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Eagle Shield and his companion entered the village as scouts.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: horse taker
+  assigned_to:
+  - fig:1
+  basis: Eagle Shield crept into the circle of tents and took two horses.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: hesitating companion
+  assigned_to:
+  - fig:2
+  basis: The companion objected to taking horses and then told Eagle Shield to do
+    it.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: opposing camp occupants
+  assigned_to:
+  - fig:3
+  basis: The Crows had the horses in their camp and increased watchfulness after the
+    horses were taken.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:6
+  label: unsuccessful raiders
+  assigned_to:
+  - fig:4
+  basis: The other members of the Sioux war party were unable to secure any horses
+    and had to walk back.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: picketed horses
+  literal_form: horses picketed within the circle of tents
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: circle of tents
+  literal_form: circle of tents in the Crow village
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: black and brown horses
+  literal_form: two horses, a black and a brown
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: daybreak return
+  literal_form: reached their camp about daybreak
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Song words and musical analysis
+  summary: The passage presents song words about Crow Indians attacking and one being
+    killed, then analyzes the song's rhythmic units, intervals, scale, compass, and
+    structure.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Scouting the Crow village
+  summary: Eagle Shield leads a war party against the Crows. He and a companion enter
+    the Crow village as scouts and see horses picketed inside the circle of tents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Taking two horses
+  summary: After a brief exchange with his companion, Eagle Shield creeps into the
+    circle of tents, takes a black horse and a brown horse, and escapes undetected.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Return and aftermath
+  summary: Eagle Shield and his companion return to camp mounted at daybreak. The
+    Crows discover the loss and become more watchful, preventing the rest of the Sioux
+    war party from obtaining horses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: stealth entry into enemy camp
+  taxonomy_refs: []
+  basis: Eagle Shield and his companion enter the Crow village as scouts, and Eagle
+    Shield creeps into the circle of tents without detection.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a biographical war-party incident, not as
+    a supernatural or explicitly sacred episode.
+- id: motif:2
+  label: successful horse taking during a raid
+  taxonomy_refs: []
+  basis: Eagle Shield takes two horses from the Crow camp, escapes, and returns with
+    his companion mounted while the rest of the party fails to secure horses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader comparative or ceremonial meaning is stated in the passage.
+- id: motif:3
+  label: single decisive actor succeeds where group fails
+  taxonomy_refs: []
+  basis: Eagle Shield's action results in his and his companion's mounted return,
+    while the other members of the war party are unable to secure horses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a narrative pattern inferred from the reported sequence; the passage
+    does not explicitly formulate it as a motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29517-29523
+  quote_or_summary: Song words identify the Crow Indians as coming attacking and say
+    that one of them will be killed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 29525-29536
+  quote_or_summary: The analysis describes two rhythmic units, whole-tone melodic
+    progressions, a second five-toned scale, a 12-tone compass, and a melodic structure
+    with harmonic framework.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 29538-29543
+  quote_or_summary: Eagle Shield led a war party against the Crows; he and a companion
+    entered the Crow village as scouts and saw horses picketed within the circle of
+    tents.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 29543-29549
+  quote_or_summary: Eagle Shield says, "Let us each take one horse"; after his companion
+    replies "You do it," Eagle Shield creeps into the circle of tents, takes two horses,
+    and escapes without detection.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt from public domain text.
+- id: ev:5
+  type: summary
+  locator: lines 29549-29557
+  quote_or_summary: Eagle Shield and his companion mount the horses and reach camp
+    about daybreak; the Crows increase their watchfulness, preventing the rest of
+    the Sioux war party from securing horses, so only Eagle Shield and his companion
+    return on horseback.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Narrative actions and figures are explicit. Motif labels are descriptive
+    and not tied to taxonomy families because the passage does not state a sacred,
+    supernatural, or comparative frame. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR artifacts in the passage were not normalized beyond neutral summarization.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l29509-l29557
+  passage_sha256=eb02e12f52ccc3a19c53ffcf0bfaa78804c3a4ad036686cc644169348dafbe29
+

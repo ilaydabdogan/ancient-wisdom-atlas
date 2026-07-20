@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l9027-l9058
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: LII.--KRALJEVITCH MARKO. / LIII.--THE DAUGHTER OF THE KING OF THE VILAS.
+    / LIV.--THE WONDER-WORKING LOCK. / LV.--THE SHE-WOLF.; lines 9027-9058
+  start: '9027'
+  end: '9058'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Skin down! skin down! skin down!”"
+  summary: An enchanted mill is haunted by a she-wolf. A soldier hides above the parlour,
+    watches the she-wolf remove her skin and become a damsel, then nails the skin
+    to the mill-wheel. He marries her and they have two children. Their elder son
+    learns where the skin is and tells his mother; she thanks him for rescuing her,
+    leaves, and is never heard from again.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The mill is described as enchanted and as a place where no one could stay
+    because a she-wolf haunted it.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A soldier enters the mill to sleep, makes a fire in the parlour, hides in
+    the garret above, bores a hole in the floor, and watches the parlour.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The she-wolf enters the mill seeking something to eat, finds nothing, goes
+    to the fire, commands her skin to come down, and sheds it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After the wolf-skin falls, a damsel comes out of the wolf and falls asleep
+    by the fire.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The soldier takes the wolf-skin and nails it to the mill-wheel so it cannot
+    come down when called.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The soldier greets the damsel; she calls for her skin to come onto her, but
+    it cannot come down because it is nailed fast.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The soldier and the damsel marry and have two children.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The elder son asks whether his mother is a wolf; the mother denies it, but
+    the father later tells him that it is true.
+  category: speech
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:9
+  text: The father tells the son that the mother's skin is on the mill-wheel.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The son tells his mother that he knows she is a wolf and where her skin is;
+    she thanks him for rescuing her, goes away, and is never heard of again.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: soldier
+  description: A soldier who sleeps in the enchanted mill, observes the she-wolf,
+    fastens her skin to the mill-wheel, marries the damsel, and later tells his son
+    where the skin is.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: she-wolf / damsel / mother
+  description: A being who appears as a she-wolf, removes a skin and becomes a damsel,
+    marries the soldier, bears two children, and leaves after learning where the skin
+    is.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:10
+- id: fig:3
+  name_or_label: elder son
+  description: The elder son of the soldier and damsel; he asks about his mother's
+    wolf identity and tells her where the skin is.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: younger child
+  description: One of the two children of the soldier and damsel; no individual action
+    is described.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: human observer
+  assigned_to:
+  - fig:1
+  basis: The soldier hides in the garret and watches the she-wolf through a hole in
+    the floor.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: skin-changing figure
+  assigned_to:
+  - fig:2
+  basis: The she-wolf sheds a skin and a damsel comes out of the wolf.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: holder of the skin
+  assigned_to:
+  - fig:1
+  basis: The soldier takes the skin and nails it to the mill-wheel.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: wife and mother
+  assigned_to:
+  - fig:2
+  basis: The pair marry and have two children.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: departing rescued figure
+  assigned_to:
+  - fig:2
+  basis: After learning the skin's location, she thanks the son for rescuing her,
+    leaves, and is never heard of again.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: revealer of hidden skin
+  assigned_to:
+  - fig:3
+  basis: The elder son learns where the skin is and tells his mother.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:7
+  label: child of the pair
+  assigned_to:
+  - fig:4
+  basis: The couple have two children; the younger child has no further described
+    role.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: enchanted mill
+  literal_form: mill
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fire
+  literal_form: fire in the parlour
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: wolf-skin
+  literal_form: skin shed by the she-wolf and later nailed fast
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+  - ev:10
+- id: sym:4
+  label: mill-wheel
+  literal_form: mill-wheel used to hold the skin
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:9
+  - ev:10
+- id: sym:5
+  label: wolf form
+  literal_form: she-wolf
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+  - ev:10
+scenes:
+- id: scene:1
+  label: Haunted enchanted mill
+  summary: The setting is an enchanted mill haunted by a she-wolf so that no one can
+    stay there.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Soldier observes the transformation
+  summary: A soldier hides above the parlour and watches the she-wolf remove her skin
+    by the fire and become a sleeping damsel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Skin fastened to the mill-wheel
+  summary: The soldier takes the discarded skin, nails it to the mill-wheel, and prevents
+    the damsel from putting it back on.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Marriage and children
+  summary: The soldier and damsel marry and have two children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Son reveals the skin's location
+  summary: The elder son learns from his father that his mother is a wolf and that
+    her skin is on the mill-wheel, then tells his mother; she thanks him for rescuing
+    her and leaves permanently.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: skin-dependent shapeshifter
+  taxonomy_refs:
+  - shapeshifter
+  basis: The she-wolf becomes a damsel by shedding a skin, and the skin appears necessary
+    for returning to wolf form because she calls for it to come onto her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage describes the mechanism but does not explain the origin or
+    nature of the enchantment.
+- id: motif:2
+  label: captured animal bride through withheld skin
+  taxonomy_refs:
+  - shapeshifter
+  basis: The soldier withholds the she-wolf/damsel's skin by nailing it to the mill-wheel;
+    the pair then marry and have children.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage states the marriage but does not explicitly state coercion,
+    consent, or the terms connecting the withheld skin to the marriage.
+- id: motif:3
+  label: hidden skin revealed by child enables departure
+  taxonomy_refs:
+  - shapeshifter
+  basis: The elder son learns where the mother's skin is, tells her, and she thanks
+    him for rescuing her before leaving permanently.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The actual act of retrieving or putting on the skin is not narrated, only
+    her thanks and departure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9027-9030
+  quote_or_summary: "“There was an enchanted mill, so that no one could stay there,
+    because a she-wolf always haunted it.”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 9030-9034
+  quote_or_summary: A soldier enters the mill to sleep, makes a fire in the parlour,
+    goes to the garret above, bores a hole in the floor, and looks down.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 9034-9038
+  quote_or_summary: The she-wolf finds nothing to eat, goes to the fire, says “Skin
+    down! skin down! skin down!”, rises on her hind legs, and her skin falls down.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 9038-9040
+  quote_or_summary: "“out of the wolf came a damsel”; the damsel goes to the fire
+    and falls asleep there."
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 9040-9042
+  quote_or_summary: The soldier comes down, takes the skin, and nails it fast to the
+    mill-wheel.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 9042-9046
+  quote_or_summary: The soldier greets the damsel; she cries “Skin on me! skin on
+    me! skin on me!”, but the skin cannot come down because it is nailed fast.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: lines 9046-9047
+  quote_or_summary: "“The pair married, and had two children.”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: lines 9047-9051
+  quote_or_summary: The elder son tells his mother he has heard she is a wolf; she
+    denies it as nonsense.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 9051-9055
+  quote_or_summary: When the father goes to plough, the son goes with him and asks
+    whether their mother is a wolf; the father says yes and says her skin is on the
+    mill-wheel.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: quote
+  locator: lines 9055-9058
+  quote_or_summary: The son tells his mother he knows where her skin is; she asks
+    where, he says “on the mill-wheel,” and she says, “Thank you, sonny, for rescuing
+    me,” then leaves and is never heard of more.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and explicit about the skin-shedding transformation,
+    withheld skin, marriage, revelation, and departure. Motif labels beyond shapeshifting
+    require caution because the tale gives limited explanation of consent, enchantment,
+    or rescue mechanics.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external tale-type or motif-index identifiers added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l9027-l9058
+  passage_sha256=5c9f08b3cbb03297d21b8bcbe79c0bd5f33d130328d894272c07450ddaa6737b
+

@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l6891-l6924
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: NT0R0 EX0GAM0US DIVISIONS / NTORO EXOGAM OUS DIVISIONS / NTORO EX0GAM0US
+    DIVISIONS / APPENDIX A; lines 6891-6924
+  start: '6891'
+  end: '6924'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The appendix describes sacred Lake Bosumtwi in central Ashanti: its geography,
+    uncertain depth, lack of outlet, freshwater character, suggested formation by
+    subsidence, local sacred status, beliefs about a powerful spirit manifesting on
+    the lake surface, prohibitions on certain objects near the lake, and a fishing
+    method using reed traps and logs rather than canoes or hooks.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lake Bosumtwi is described as the only real lake in the country, a sacred
+    freshwater lake in central Ashanti about 18 miles south-east of Coomassie.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lake is described as roughly circular, about 4 miles in diameter, with
+    an area of about 13 square miles, lying in a deep depression with steep sides
+    rising 600 to 700 feet above its surface.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lake's depth is unknown; a sounding attempt was abandoned after 500 feet
+    of line broke.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Although the lake has no outlet and only a few small annual streams flowing
+    into it, its water is fresh.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says the available evidence suggests the lake was formed by subsidence
+    rather than by volcanic origin.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Ashantis regard the lake as sacred and as a great fetish.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Ashantis believe the lake is the seat of a powerful and energetic spirit
+    that manifests intermittently on the open surface by flashing lights, artillery-like
+    noises, and other ways.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Canoes, paddles, fish-hooks, and brass pans are not allowed on or near the
+    lake.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Fish are abundant in the lake and are caught using plaited reed mats with
+    gaping mouths, carried by men lying face downward on cigar-shaped logs of wood.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The fishermen set and anchor the traps, withdraw for a time, return almost
+    noiselessly, close the trap parts, capture the fish, and tow the fish and trap
+    ashore.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Lake Bosumtwi
+  description: Sacred freshwater lake in central Ashanti, described as roughly circular,
+    deep, without outlet, and fresh.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Powerful and energetic spirit
+  description: Spirit believed by the Ashantis to be seated in the lake and to manifest
+    on its open surface through lights, loud noises, and other ways.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ashantis
+  description: People who regard Lake Bosumtwi as sacred and as a great fetish, and
+    who hold beliefs about the lake spirit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Fishermen or natives fishing on the lake
+  description: Men who catch fish by taking reed traps out from shore while lying
+    face downward on logs and paddling with their hands.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: sacred freshwater lake
+  assigned_to:
+  - fig:1
+  basis: The passage calls Lake Bosumtwi a sacred freshwater lake and says it is sacred
+    to the Ashantis.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: seat of spirit
+  assigned_to:
+  - fig:1
+  basis: The lake is believed to be the seat of a powerful and energetic spirit.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: manifesting lake spirit
+  assigned_to:
+  - fig:2
+  basis: The spirit is said to manifest intermittently on the lake surface by flashing
+    lights, artillery-like noises, and other ways.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: community venerating the lake
+  assigned_to:
+  - fig:3
+  basis: The Ashantis are described as regarding the lake as sacred and as a great
+    fetish.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: canoeless fishers using reed traps and logs
+  assigned_to:
+  - fig:4
+  basis: The fishers use plaited reed mats and logs, paddling with their hands, rather
+    than canoes or hooks.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: sacred lake water
+  literal_form: Freshwater Lake Bosumtwi, a sacred lake with no outlet.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: surface manifestations
+  literal_form: Flashing lights and noises like the discharge of artillery on the
+    lake's open surface.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: prohibited lake objects
+  literal_form: Canoes, paddles, fish-hooks, and brass pans forbidden on or near the
+    lake.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: reed fish trap and log
+  literal_form: Plaited reed mats with gaping mouths and cigar-shaped logs used in
+    fishing.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Description of Lake Bosumtwi
+  summary: The passage gives the lake's location, shape, size, setting in a deep depression,
+    uncertain depth, freshwater character despite no outlet, and suggested formation
+    by subsidence.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Sacred status and spirit manifestations
+  summary: The Ashantis regard the lake as sacred and as a great fetish, and believe
+    a powerful spirit seated there manifests on the surface through lights, loud noises,
+    and other signs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Lake prohibitions
+  summary: Specific objects—canoes, paddles, fish-hooks, and brass pans—are prohibited
+    on or near the lake.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Fishing by traps and logs
+  summary: Fishers use plaited reed traps taken out on logs, set and anchor the traps,
+    withdraw, then return quietly to close the traps and tow the catch ashore.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacred lake as dwelling or seat of a spirit
+  taxonomy_refs: []
+  basis: The passage says Lake Bosumtwi is sacred and is believed to be the seat of
+    a powerful and energetic spirit.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports a local belief but does not narrate a mythic episode
+    involving the spirit.
+- id: motif:2
+  label: spirit signaled by lights and loud sounds on water
+  taxonomy_refs: []
+  basis: The spirit is said to manifest intermittently on the lake's open surface
+    by flashing lights and noises like artillery.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives reported manifestations but no detailed ritual or narrative
+    context.
+- id: motif:3
+  label: tabooed implements at a sacred lake
+  taxonomy_refs: []
+  basis: Canoes, paddles, fish-hooks, and brass pans are explicitly forbidden on or
+    near the sacred lake.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The reason for each prohibition is not explained in the passage.
+- id: motif:4
+  label: fishing method adapted to sacred-lake restrictions
+  taxonomy_refs: []
+  basis: The passage describes fishing with reed traps and logs, while also stating
+    that canoes, paddles, and fish-hooks are prohibited on or near the lake.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly state that the fishing method exists because
+    of the prohibitions; the connection is contextual.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6891-6898
+  quote_or_summary: Lake Bosumtwi is identified as a sacred freshwater lake in central
+    Ashanti, about 18 miles south-east of Coomassie, roughly circular, about 4 miles
+    across and 13 square miles in area, lying in a deep depression.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6898-6907
+  quote_or_summary: The lake has steep sides, unknown depth, an abandoned sounding
+    attempt after 500 feet of line broke, no outlet, few small annual streams entering
+    it, and fresh water.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6907-6914
+  quote_or_summary: The passage says volcanic origin had been suggested, but lack
+    of young volcanic rocks makes that view hardly tenable, and available evidence
+    suggests formation by subsidence.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6914-6920
+  quote_or_summary: The lake is sacred to the Ashantis, regarded as a great fetish,
+    and believed to be the seat of a powerful spirit manifesting on the open surface
+    by flashing lights, artillery-like noises, and other ways.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 6920-6921
+  quote_or_summary: "“No canoes, paddles, fish-hooks, or brass pans are allowed on
+    or near it.”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 6921-6926
+  quote_or_summary: Fish abound and are caught using plaited reed mats with gaping
+    mouths; men take the mats from shore while lying face downward on cigar-shaped
+    logs and paddling by hand.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6926-6932
+  quote_or_summary: The fishers set and anchor the traps with their mouths open and
+    the lower platform just submerged, withdraw, then return almost noiselessly, close
+    the trap, capture the fish, and tow them ashore.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is an ethnographic/geographical note rather than a mythic narrative.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy supports tagging the sacred lake as water; no supplied motif-family taxonomy was applied.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l6891-l6924
+  passage_sha256=f1b44faa9e610ea4df7555dbb5c6e4a89200a9fe7b6ff1070553359fe274d238
+

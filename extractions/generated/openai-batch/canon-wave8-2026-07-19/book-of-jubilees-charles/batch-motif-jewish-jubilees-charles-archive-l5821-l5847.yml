@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l5821-l5847
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER II. 12-23 17 / CHAPTER II. 24-29 19 / CHAPTERS II. 309-111 4 21 /
+    CHAPTER III. 5-9; lines 5821-5847
+  start: '5821'
+  end: '5847'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: the heavenly tables are the divine statute book of the Theocracy
+  summary: 'The passage is an editorial note discussing the expression “heavenly tables,”
+    its attestations in related Jewish pseudepigraphal texts, and the range of meanings
+    assigned to it: determinism, prediction, divine statute book, earthly legal counterpart,
+    and heavenly record of events. A preceding note attributes earlier statements
+    to Pinchas.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that preceding statements are attributed to Pinchas and
+    are said to go back ultimately to the text under discussion.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note is headed “The heavenly tables.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The phrase “heavenly tables” is listed as occurring in Ethiopic Enoch and
+    in the Testament of the Twelve Patriarchs, specifically Levi and Asher.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says the conception is not fixed and that in Enoch and the Testament
+    of the Twelve Patriarchs it varies between absolute determinism and prediction.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In the text under discussion, the heavenly tables are described as the divine
+    statute book of the Theocracy, with the Mosaic law as its earthly reproduction.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage also says the heavenly tables can function as a contemporary heavenly
+    record of events.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pinchas
+  description: A named figure to whom preceding statements are attributed in the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: attributed source of preceding statements
+  assigned_to:
+  - fig:1
+  basis: The passage states that the above statements are attributed to Pinchas.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: heavenly tables
+  literal_form: heavenly tables
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: divine statute book
+  literal_form: divine statute book of the Theocracy
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Mosaic law as earthly reproduction
+  literal_form: Mosaic law
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: heavenly record of events
+  literal_form: contemporary heavenly record of events
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Attribution note concerning Pinchas
+  summary: The note says earlier statements are attributed to Pinchas and ultimately
+    derive from the text under discussion.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of the heavenly tables
+  summary: The note surveys the phrase “heavenly tables” in related texts and explains
+    its possible meanings as determinism, prediction, divine statute book, Mosaic
+    law’s heavenly model, and heavenly record.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: celestial tablets as divine record and law book
+  taxonomy_refs: []
+  basis: The passage identifies the heavenly tables as a divine statute book, an earthly
+    model for Mosaic law, and a heavenly record of events.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is an editorial note rather than a narrative episode, and
+    the final sentence is truncated in the supplied range.
+- id: motif:2
+  label: heavenly writing as determinism or prediction
+  taxonomy_refs: []
+  basis: The passage says the conception of the heavenly tables in related texts ranges
+    between absolute determinism and prediction.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This characterization is reported by the editor and is not developed with
+    a narrative example in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison between Jubilees and related Jewish
+    pseudepigraphal texts for the named motif or expression “heavenly tables,” while
+    also noting that the conception varies across texts.
+  claim_level: same_motif
+  target: Ethiopic Enoch xlvii.3, lxxxi.1-2, xciii.2, ciii.2; Testament of the Twelve
+    Patriarchs, Levi v and Asher ii, vii
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage lists textual attestations and conceptual variation but
+    does not demonstrate historical contact or a single fixed meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5821-5826
+  quote_or_summary: The note says the preceding statements are attributed to Pinchas
+    and ultimately go back to the text; it also mentions references to Pinchas listed
+    by Eppstein.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:2
+  type: quote
+  locator: 5827-5831
+  quote_or_summary: "“10. The heavenly tables.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 5832-5837
+  quote_or_summary: The note lists the phrase as found in Ethiopic Enoch and in the
+    Testament of the Twelve Patriarchs, including Levi and Asher.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:4
+  type: quote
+  locator: 5837-5841
+  quote_or_summary: "“The conception is not a hard and fixed one” and in Enoch and
+    the Testament of the Twelve Patriarchs “wavers between an absolute determinism
+    and prediction pure and simple.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:5
+  type: quote
+  locator: 5841-5845
+  quote_or_summary: "“the heavenly tables are the divine statute book of the Theocracy
+    of which the Mosaic law is the reproduction on earth”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:6
+  type: quote
+  locator: 5845-5847
+  quote_or_summary: "“a mere contemporary record of events”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage is an editorial or scholarly note, not a narrative passage,
+    and the final line is cut off. Extraction is therefore limited to explicit statements
+    about the heavenly tables and cited related texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was assigned because the supplied taxonomy list does not include a direct celestial-tablets or heavenly-record category.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l5821-l5847
+  passage_sha256=1c5dc78aff010e7e29bfe61f57a84d6f2fdd4b2b44845baaa22b1dde6842ffd1
+

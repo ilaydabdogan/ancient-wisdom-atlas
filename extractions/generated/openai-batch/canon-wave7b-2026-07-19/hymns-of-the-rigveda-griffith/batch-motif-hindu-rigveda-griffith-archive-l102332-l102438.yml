@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l102332-l102438
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 2. / KEITH S / ARANYAKA IV / ARANYAKA V; lines 102332-102438
+  start: '102332'
+  end: '102438'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives ritual instructions and notes for arranging recitations:
+    a verse is to be repeated three times; the Udgitrs may sing Rajana Saman verses,
+    while the Hotr keeps a fixed Sastra opening with RV X.120.1-3; displaced verses
+    are placed before the sadadohas verse; the Adhvaryu reply is not altered; a sadadohas
+    verse begins with ''Of that milk yielder''; and notes compare Sankhayana and Aitareya
+    orders of body-associated verse groups.'
+  language: English with transliterated Sanskrit
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A verse is instructed to be repeated three times.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If the Udgitrs sing other verses as the Rajana Saman and those verses occur
+    in the enumerated hymns, the Hotr recites them in their own place while still
+    reciting RV X.120.1-3 at the beginning of the Sastra.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If the other verses do not occur in the listed hymns, substitutes are taken
+    from the mentioned hymns; removed verses are placed before the sadadohas verse,
+    while RV X.120.1-3 remains at the opening.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: obs:4
+  text: The Sastra is said always to begin with the verse incipit 'That was the oldest
+    in the worlds' from RV X.120.1.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Adhvaryu's reply is stated not to be altered in this setting.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After the Adhvaryu reply, the sadadohas verse is introduced with the incipit
+    'Of that milk yielder' from RV VIII.69.3.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An editorial note compares Sankhayana and Aitareya orders for groups such
+    as head-verses, neck-verses, right and left side, back, and other body-associated
+    verse categories.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The note states that the exact anatomical divisions for some side-related
+    terms are doubtful, mentioning skandha and aksa or aksa-related forms.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Udgitrs
+  description: Ritual singers who may sing the Rajana Saman using verses from the
+    enumerated hymns or other verses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:2
+  name_or_label: Hotr
+  description: Ritual reciter who recites verses in their proper place and keeps the
+    prescribed opening of the Sastra with RV X.120.1-3.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:3
+  name_or_label: Adhvaryu
+  description: Ritual officiant whose reply is stated not to be altered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Saman singers
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Udgitrs as singing the Rajana Saman and choosing
+    verses for that singing.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:2
+  label: Sastra reciter and keeper of fixed commencement
+  assigned_to:
+  - fig:2
+  basis: The Hotr recites verses in their place but must retain RV X.120.1-3 and the
+    fixed Sastra beginning.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: role:3
+  label: Responding officiant
+  assigned_to:
+  - fig:3
+  basis: The Adhvaryu is associated with a reply that is not altered.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Thrice repetition
+  literal_form: A verse is repeated three times.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Milk-yielder
+  literal_form: The sadadohas verse beginning 'Of that milk yielder'.
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Body-part verse labels
+  literal_form: Head-verses, neck-verses, right side, left side, back, vertebrae-verses,
+    right wing, and left wing as labels in ritual verse ordering.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Opening Sastra recitation arrangement
+  summary: The passage lays out how the opening of the Sastra is maintained with RV
+    X.120.1-3 while handling Rajana Saman verse choices and possible substitutions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+- id: scene:2
+  label: Adhvaryu reply and sadadohas placement
+  summary: The Adhvaryu's reply remains unaltered, and the sequence then proceeds
+    to the sadadohas verse beginning 'Of that milk yielder'.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Comparison of body-associated verse orders
+  summary: The notes compare Sankhayana and Aitareya arrangements of body-associated
+    verse groups and then discuss uncertainty in the anatomical terminology.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Liturgical sacrifice and regulated recitation
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage regulates ritual recitation involving the Sastra, Rajana Saman,
+    Udgitrs, Hotr, Adhvaryu, sadadohas verse, and named rites or ritual contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The excerpt is procedural ritual instruction rather than a narrative myth
+    episode.
+- id: motif:2
+  label: Ritual triple repetition
+  taxonomy_refs: []
+  basis: A verse is explicitly prescribed to be repeated three times.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explain the symbolism of the number three.
+- id: motif:3
+  label: Ritual body mapping of verses
+  taxonomy_refs: []
+  basis: The notes arrange verse groups with body-part labels such as head, neck,
+    side, back, vertebrae, and wings, and compare variant orders.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage gives ritual and anatomical terminology but does not state
+    a broader cosmological or mythic interpretation.
+comparison_claims:
+- id: claim:1
+  claim: Sankhayana and Aitareya are presented as having comparable body-associated
+    verse groupings, but the passage states that their order differs.
+  claim_level: same_function
+  target: Sankhayana and Aitareya ritual sequences for body-associated verse groups
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is an editorial ritual-text comparison within the passage;
+    it does not establish historical contact or a mythic equivalence.
+- id: claim:2
+  claim: The unchanged Adhvaryu reply in this setting is contrasted with a form altered
+    in the Sodasin rite.
+  claim_level: same_function
+  target: Sodasin rite and the corresponding reply or pratikara form
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief note and does not describe the Sodasin
+    alteration in detail.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 102332-102438, paragraph beginning 'The verse should be thrice repeated'
+  quote_or_summary: '"The verse should be thrice repeated."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 102332-102438, main ritual instruction after transliterated verses
+  quote_or_summary: If the Udgitrs sing other Rajana Saman verses occurring in enumerated
+    hymns, the Hotr recites them in their own place but recites RV X.120.1-3 at the
+    beginning of the Sastra; if not, substitute verses are taken from mentioned hymns.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 102332-102438, main ritual instruction on Sastra opening
+  quote_or_summary: '"The Sastra always begins with the verses commencing, ''That
+    was the oldest in the worlds'' (RV., X, 120, 1)."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: 102332-102438, sentence following Adhvaryu reply note
+  quote_or_summary: '"Then comes) the sadadohas verse, beginning, ''Of that milk yielder''
+    (RV., VIII, 69, 3)."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: 102332-102438, note on the Adhvaryu reply and Sodasin rite
+  quote_or_summary: The passage says the Adhvaryu reply is not altered and notes that
+    the form used in the prakrti is not altered as it is in the Sodasin rite.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 102332-102438, table beginning 'After the body-verses the order in Sankhayana
+    and the Aitareya differs'
+  quote_or_summary: The note says the order after the body-verses differs in Sankhayana
+    and Aitareya and lists groups including head-verses, neck-verses, right side,
+    left side, back, Afitis, Vasa hymn, and later Aitareya categories such as vertebrae-verses
+    and right and left wing.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 102332-102438, final note on anatomical divisions
+  quote_or_summary: The final note says the adopted division is doubtful for the two
+    sides and discusses terms including skandha, aksa or aksa-related forms, shoulder,
+    cervical column, collar-bone, arm, and hand.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: 102332-102438, footnote explaining Udgatrs and Hotr choices
+  quote_or_summary: The footnote states that the Udgatrs may adopt a beginning or
+    use other or new verses, but the Hotr must keep the fixed commencement and not
+    follow the strophe of the Rajana Saman; new verses are inserted before the sadadohas
+    verse.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Ritual structure is clear, but the passage has OCR noise, mixed transliteration,
+    editorial notes, and a supplied source path/title that differs from the internal
+    Aitareya Aranyaka labeling. Motif readings are therefore limited to procedural
+    ritual patterns explicitly present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic narrative figures or cross-cultural claims were added beyond the ritual participants and explicit intra-corpus comparisons present in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l102332-l102438
+  passage_sha256=0f539f8c56b6fa411cd197c23b8339367babea699ba8bb631d4ba9fcfe16f692
+

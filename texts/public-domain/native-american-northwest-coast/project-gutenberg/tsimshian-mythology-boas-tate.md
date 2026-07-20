@@ -1,4 +1,67 @@
+---
+id: native_american.tsimshian_mythology.boas_tate_archive
+title: Tsimshian Mythology
+alternate_titles:
+- Tsimshian Mythology (Bureau of American Ethnology 31st Annual Report)
+text_status: complete
+tradition: native_american_northwest_coast
+culture: tsimshian_texts_recorded_by_native_writer
+region: north_america_northwest_coast
+source_language: Tsimshian (Sm'algyax)
+text_language: English
+date_range: living oral traditions; texts written down 1902-1914 in Tsimshian by Henry
+  W. Tate of Port Simpson; published 1916 (BAE 31st Annual Report)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.tsimshianmytholo00boas
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1916 Government Printing
+    Office edition
+  translator: Franz Boas
+  editor: ''
+  publication_year: 1916
+  publisher: Internet Archive
+  source_url: https://archive.org/details/tsimshianmytholo00boas
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: US government publication (BAE), public domain. Recording context - near-verbatim;
+    the myths were written down in Tsimshian by a native Tsimshian writer (Tate) and
+    translated by Boas, with an exhaustive comparative-motif appendix. Very large
+    volume (~1000 pages, 3.5 MB OCR).
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- tsimshian
+- northwest_coast
+- raven_cycle
+- verbatim_texts
+- holdout_priority
+motifs:
+- raven_cycle
+- transformation
+- sky_world
+- animal_spouse
+figures: []
+---
+
 # Tsimshian Mythology
+
 I. TSIMSHIAN MYTHS
 1. Txa'msem (The Raven Legend)*
 
@@ -1243,7 +1306,7 @@ country, he found a httle hut in which were two women — a widow
 and her daughter; and the widow was very kind to him, and fed him
 with many kinds of food. Mter TxamsEm had eaten, he said to the
 widow, "I wiU marry your daughter, " and the widow agreed. Then
-TxamsEm was gla l that the widow's daughter was to marry him,
+TxamsEm was gla<l that the widow's daughter was to marry him,
 for the widow's house was full of all kinds of food. The young
 woman who was the Avife of TxamsEm was very beautiful. After
 a while TxamsEm said to his young wife, "Now, my dear, you know
@@ -2001,7 +2064,7 @@ alog that floated a little way out on the water. He flew, and alighted
 on it. Then the Wolves went away with the carcasses, but TxiimsEm
 paddled to the north country on the floating log. He drifted to
 Cape Fox with the tide. Therefore the canoes do not capsize in
-stormy weather when they cross over there. We  all tlie place
+stormy weather when they cross over there. We <all tlie place
 "Alouth Of Nass River" up to this time.
 
 (37) TXA'mSEM invites THE MONSTERS '
@@ -2206,7 +2269,7 @@ everything from liis staff, he gave part of the meal to the peoi)l(', and
 some fat, and he told them his story.
 
 "I went wandering among the mountains; and when 1 passed all
-the mountains and rivers ami lakes, I came to a great plain. I di l
+the mountains and rivers ami lakes, I came to a great plain. I di<l
 not see any trees or any lulls, just nice green grass and all kinds of
 flowers. Then I found a narrow trail, which I followed," said he.
 Some one asked him, "How long did you walk after you reached the
@@ -4459,7 +4522,7 @@ her; and when the bear lay on the grass, the man went on and took
 up his arrow with wMch he had shot the she-bear. He went to the
 top of the mountain, as Ms two brothers had done before him, and
 looked down on the other side of the mountain. There he saw the
-lar re villaore on the other side of the mountain. He slid down on
+lar<re villaore on the other side of the mountain. He slid down on
 his snowshocs, and soon reached the side of the first house. He went
 around and looked through the knot-hole, and saw a beautiful young
 woman sitting alone in the house. She saw him and smiled, and
@@ -5242,7 +5305,7 @@ Now we will go back to the young woman's own home on the
 morning when she left. When no one in the house made a noise, the
 old woman thought that her young daughter was stUl asleep. Therefore she ordered every one in the house to keep quiet until her daughter
 
-J Original: Ada wiladi-Ia'lga txan!ilu-tgu-wa'lbdawildi-nfi,'kgEsgawi-sEm'a.'g"idga,daaIgikgoi' lEksga
+J Original: Ada wiladi-Ia'lga txan!ilu-tgu-wa'lbdawildi-nfi,'kgEsgawi-sEm'a.'g"idga,daaIgikgoi'<lEksga
 su-p!a'sEm ylo'^ta da gik wila n&'ka da awa'«t, da la sEmt si'*»p!Entga hana'*»ga.
 
 
@@ -5357,7 +5420,7 @@ the deep valley. Three days after his companions had left him he
 put on the eagle form that he had made and flew down into the
 valley. AVlien he reached the bottom, he did not see any one on the
 streets of the %'illage. He walked down straight toward the large
-li iuse in the middle of the village and stood by the door. Without
+li<iuse in the middle of the village and stood by the door. Without
 looking through the door, he saw his sister sitting in one corner of
 the large house, and he also saw the large animals lying around the
 fire asleep. Then the young woman looked toward the door, and saw
@@ -5474,7 +5537,7 @@ cousin, lest you get sick, for you stiU feel chiUy." Then the giil said,
 "Yes, I will go home with him."
 
 Mter midnight the young man said to his companion, "Let us go
-ba k home now!" Then the young princess went aboard the canoe,
+ba<k home now!" Then the young princess went aboard the canoe,
 and the friend of the young man made a bed for them in the canoe.
 "Xow lie down there, lest you get wet!" They lay down, and he
 spread mats of cedar bark over them. They went down the river,
@@ -5512,7 +5575,7 @@ The young woman crept to the foot of a tree on the island; and
 whUe she was sittuig there, a little Otter was l)orn. Mtcr a whUe the
 Mouse Woman came to her, and said, "I shall bring you a fire." She
 went and brought her a fire. Then the woman started a fire. She
-gathered bark that had fallen fr nn a tree. After three days had
+gathered bark that had fallen fr<nn a tree. After three days had
 passed she felt better. She took the little Otter ami threw him mto the
 water. Then the little Otter swam ashore and crept to his mother.
 She took him again and throw liim into the water, and tlie Httle Otter
@@ -6488,7 +6551,7 @@ narrow trad. He walked along it, and saw a small hut away off.
 He went toward it. Before it was evening he reached there; and
 when he was near, he walked up to it quietly. He stood outside and
 looked through a small hole. Behold! a woman was sitting there by
-the side of a fireplace. She said, "Come in,  Iear prince, if it is you
+the side of a fireplace. She said, "Come in, <Iear prince, if it is you
 who was rejected by his own cousin!'' So the young man went in,
 and the woman made him sit down on the other side of the fire.
 She gave him to eat. When he started from home, four young
@@ -6931,7 +6994,7 @@ fire. Then he went to a brook, where he drank. Then he went home
 well satisfied. After a little while, some one came to the house,
 crying, "Alas, my rib is sore! Alas, my rib is sore!" He cried
 bitterly. When the young prince heard it, he went (juickly to the
-place where he had roasted the spring salmon. He searche l all
+place where he had roasted the spring salmon. He searche<l all
 around, and found a little rib under the chips. He cast it into the
 fire and went home, and the boy was well.
 
@@ -7017,10 +7080,10 @@ will you go?" The fourth company rephed, "We will go to the
 canyon of the G"its!ala'sEr." Then the first three companies rephed,
 "Go there! Your ears shall be full of maggots."
 
-1 TrauslaTion not certain: SEm-ga  izEt wil ^algaldza'sEm; ada dEm sa^oi ia'ras xdzilaga'sEm.
+1 TrauslaTion not certain: SEm-ga <izEt wil ^algaldza'sEm; ada dEm sa^oi ia'ras xdzilaga'sEm.
 
 
-The chief was very glad, for many  if his company wore going with
+The chief was very glad, for many <if his company wore going with
 him to the canyon of G'itsIala'sEr. Then the four companies separated, each going to its own camp. All the Spring Salmon went on
 their way.
 
@@ -7632,7 +7695,7 @@ animals and the fishes to then- chief; and the chief invited all his
 people, to teU them that his son-m-law was to leave tlic followuig
 mornhxg for his own native land; and he also said to his daughter,
 "Wlien you have no food in winter, tell your husband to ask his
-wood-(^^-aiver3 to make a good long cane six fathoms long of  ash.
+wood-(^^-aiver3 to make a good long cane six fathoms long of <ash.
 You will need six digging-sticks.' Also let them make a large board
 four fathoms long and two fathoms wide."
 
@@ -7750,7 +7813,7 @@ she had come. She took one of the long digging-sticks and put it
 down into the sand very deep. She took another one and put it
 do^^^l in the sanie way as the first one, and she did so with the rest
 of the six sticks. Then she leaned on the first stick. Behold! there
-was a large whale pierce l through the back by the stick. She went
+was a large whale pierce<l through the back by the stick. She went
 to another one, leaned against it, and it had speared a great sea Uon.
 She went to the next one, leaned on it, and there was a seal; another
 one, and there was a large halibut; another one, and there was a
@@ -10156,7 +10219,7 @@ could cast his spear, his valuable hat fell off, and he lost sight of the
 1 Notes, p. S32.
 
 
-trout. Then he put on his hat a cain and looked down. Ho saw
+trout. Then he put on his hat a<cain and looked down. Ho saw
 another large trout commg up, and he tried to spear it; but before
 he could do so, the trout was gone, for his hat fell down agam, and
 he lost sight of it. Then he became angry, took off his valuable
@@ -15523,7 +15586,7 @@ to the young man, who gave it to Haimas. The great cMef took it,
 and said, "Oh, my brother-in-law is a warrior! — jSso you going to kill
 any one with this dagger?" The chief was laughing when he saw
 the dagger, and he said to one of Ms warriors, calling Mm by name,
-"Take tMs dagger and throw it intf> the fire!" S i Ms attendant
+"Take tMs dagger and throw it intf> the fire!" S<i Ms attendant
 tM'ew the small dagger into the fii'e. He said, "I \\t11 give daggers to
 my brother-in-law and Ms men;" and he called one of his first warriors by name, and said, "Come and show me your dagger!" and he
 who was called came to Mm. He gave Mm his war-kmfe, saying,
@@ -15729,7 +15792,7 @@ canoes stopped ui front of the village, and they wanted Haimas to
 50633°— 31 ETH— 16 24
 
 
-atone for those whom he had slain in his house years a i;o. Then he
+atone for those whom he had slain in his house years a<i;o. Then he
 made atonement for each of the princes and warriors whom he had
 killed in his house.
 
@@ -16818,7 +16881,7 @@ took their canoes and pursued them. All of the people in one of the
 large canoes were slain; and they pursued them to Dundas Island;
 
 
-and many canoes were left on the way, and a  ji"eat many wore slain
+and many canoes were left on the way, and a <ji"eat many wore slain
 in the canoes.
 
 Chief LEg'e'^x still kept one of the Haida princes and two other
@@ -16853,3 +16916,4 @@ before the white man came to this coast. Two villages of the Haida
 were kUled off in this great battle at Rose Island. They were all slain
 in tliis battle; and so they did not come again, because there were
 VL'Ty few.
+

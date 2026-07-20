@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l769-l902
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: The Mahavamsa, or The Great Chronicle of Ceylon / THUS THERE RESULTS AS THE
+    PROBABLE YEAH, OF THE; lines 769-902
+  start: '769'
+  end: '902'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a scholarly chronological discussion about calculating
+    the probable year of the Buddha's death and birth, emphasizing uncertainty in
+    the calculations. It compares dates derived from Asoka's coronation, Candragupta's
+    accession, the reign lengths of Candragupta and Bindusara, Ceylonese and other
+    Buddhist chronologies, the so-called dotted Record, and alternative scholarly
+    positions, concluding that different assumptions yield 486 or 483 B.C. for the
+    Buddha's Nirvana.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage calculates the Buddha's death as 483 B.C. from 321 plus 162, and
+    gives 563 B.C. as the implied year of birth if he died at age eighty.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the calculation is hypothetical and approximate rather
+    than exact.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the calculation depends on accepting the authenticity of
+    the date 218 for Asoka's abhiseka.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage treats Candragupta's accession date of 321 as an approximate chronological
+    support for the hypothesis.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage discusses the reported reign lengths of Candragupta and Bindusara
+    as factors that can shift the calculated date.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says the chronology current in Ceylon, Burma, and Siam starts
+    from the middle of 544 B.C. as the date of the Nirvana, while also stating that
+    this date is now generally considered wrong by roughly sixty years.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage discusses the so-called dotted Record, which counted annual dots
+    from the Buddha onward and reached 975 dots in 489 A.D., yielding 486 B.C. as
+    a starting point.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage concludes that allowing Bindusara twenty-five years gives 486
+    B.C. for the Nirvana, while allowing twenty-eight years gives 483 B.C.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Buddha
+  description: The person whose death, birth, and Nirvana date are being calculated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Asoka
+  description: A ruler whose abhiseka or coronation date is used as a chronological
+    anchor.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:3
+  name_or_label: Candragupta / Candagutta
+  description: A ruler whose accession date and reign length are used in the chronological
+    calculation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Bindusara
+  description: A ruler whose reign length is disputed between twenty-five and twenty-eight
+    years and affects the resulting Nirvana date.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: dated deceased religious figure
+  assigned_to:
+  - fig:1
+  basis: The passage centers on calculating the Buddha's death, birth, and Nirvana
+    dates.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: role:2
+  label: chronological anchor ruler
+  assigned_to:
+  - fig:2
+  basis: The date of Asoka's abhiseka is presented as a necessary assumption and used
+    to compute later results.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:3
+  label: ruler in chronological sequence
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage uses the accession or reign lengths of Candragupta and Bindusara
+    to calculate the Buddha's death or Nirvana date.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+symbols: []
+scenes:
+- id: scene:1
+  label: Chronological calculation of the Buddha's death and Nirvana
+  summary: The passage weighs several chronological assumptions and traditions to
+    estimate the date of the Buddha's death or Nirvana, while emphasizing the hypothetical
+    nature of the result.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 769-773
+  quote_or_summary: '"BUDDHA''S DEATH (321 + 162) = 483 B.C."; the passage adds that
+    if he died at eighty, his birth should be put at 563 B.C.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 774-779
+  quote_or_summary: The author states that the calculation is hypothetical and gives
+    only an approximate, not exact, result, and notes a contradiction in the Ceylon
+    Chronicles.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 799-808
+  quote_or_summary: The author says the whole calculation rests on the supposition
+    that the date 218 for Asoka's abhiseka is authentic, and argues that skepticism
+    is least necessary on this point.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 809-813
+  quote_or_summary: The passage says the date 321 for Candragupta's accession supports
+    the hypothesis but is only approximately correct, allowing possible shifting.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 814-823
+  quote_or_summary: The passage discusses whether Candagutta's twenty-four-year reign
+    and Bindusara's twenty-eight-year reign are certain, noting northern and southern
+    agreement for the former and a three-year difference for Bindusara.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 828-837
+  quote_or_summary: The passage says the chronology current in Ceylon, Burma, and
+    Siam begins from the middle of 544 B.C. as the date of the Nirvana, but that this
+    date is generally admitted to be wrong by roughly sixty years and is not based
+    on continuous early tradition.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 855-866
+  quote_or_summary: The passage describes the so-called dotted Record, continued in
+    Canton to 489 A.D., marking each year from the Buddha onward with a dot; 975 dots
+    in 489 A.D. would imply 486 B.C. as the starting point, though the author doubts
+    its reliability.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 892-902
+  quote_or_summary: The passage states that the difference depends on whether Bindusara
+    is assigned a twenty-five-year reign, giving 486 B.C. for the Nirvana, or a twenty-eight-year
+    reign, giving 483 B.C.; using the 219th year after the Nirvana gives corresponding
+    dates for Asoka's abhiseka.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a scholarly chronological discussion rather than a mythic
+    or narrative episode. No symbols, motif candidates, or comparison claims were
+    extracted because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol was applied; references to death and Nirvana are chronological, not presented here as a mythic narrative motif.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l769-l902
+  passage_sha256=b7f6e4faf663f0a8cee92722ddac69449ce7dc9ded08566f469c551b37813037
+

@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l481-l546
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: LIVING BELIEFS / LIVING BELIEFS / LIVING BELIEFS / LIVING BELIEFS 13; lines
+    481-546
+  start: '481'
+  end: '546'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: He looks to acts as proofs of beliefs, to lives as the ultimate effects of
+    thoughts.
+  summary: The passage argues that an outsider cannot judge a religion by accepting
+    its own doctrinal claims or sacred books alone. Instead, the outsider should infer
+    real belief from lived conduct. It distinguishes professed creed, ritual forms,
+    and sacred texts from the beliefs that actually guide action, and notes that newer
+    creeds may overlay older faiths and more diffuse fears. Examples include knowledge
+    that fire burns and ritual forms such as dipping in water or shaving the head.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contrasts the believer's internal view of a faith with the outsider's
+    external view.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The outsider is described as trying to learn what people really believe and
+    judging the religion by their lives and acts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sacred books are said to show real beliefs only approximately.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that beneath a newer creed the outsider may find older
+    faiths and other beliefs associated with fear.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A person's beliefs are said to be knowable from acts rather than from profession
+    alone.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A belief is described as continuously guiding action and coloring the whole
+    life.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'Fire is used as an example: after learning that fire burns, a person remembers
+    this and does not put hands into flames.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Belief is compared to a strand in the cord of life running through every part
+    of it.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Ritual forms such as being dipped in water, shaving the head, or wearing long
+    hair are described as insufficient by themselves to show real belief.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: believer
+  description: A person who views the faith from within and regards certain landmarks
+    as central.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: outsider or onlooker
+  description: A person who views a faith from outside and judges beliefs by acts,
+    lives, and effects rather than by accepting doctrinal claims.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: adherents of a creed
+  description: People whose stated definitions, forms, and ceremonies are not accepted
+    by the onlooker as sufficient evidence of real belief.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: internal religious adherent
+  assigned_to:
+  - fig:1
+  basis: The passage describes how landmarks of a faith appear to one within the circle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: external evaluator of belief
+  assigned_to:
+  - fig:2
+  basis: The outsider is said to judge religion by learning beliefs and observing
+    acts and lives.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: professing ritual participant
+  assigned_to:
+  - fig:3
+  basis: Adherents speak of forms and ceremonies, but these are not accepted as real
+    manifestations of creed without more important results.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire as tested practical knowledge
+  literal_form: fire and flames that burn
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: water-dipping ritual form
+  literal_form: being dipped in water
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: cord of life metaphor
+  literal_form: a belief as a strand in the cord of life
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Outsider assesses a religion by conduct
+  summary: The outsider rejects beginning from revealed truth and instead looks at
+    acts and lives as evidence for what people actually believe.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Layered belief beneath formal creed
+  summary: The passage describes sacred books and new creeds as only approximate evidence,
+    under which older faiths and diffuse fears may remain visible.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Belief as practical guide
+  summary: Belief is defined as something that governs conduct continuously; the example
+    is knowing that fire burns and therefore avoiding flames.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Ritual forms judged insufficient
+  summary: The onlooker treats ritual actions such as dipping in water or hair practices
+    as insufficient manifestations of creed unless they produce more important results.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: belief verified by action
+  taxonomy_refs: []
+  basis: The passage repeatedly states that real belief is known from acts and lives
+    rather than from professions, books, or ceremonies.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an analytical religious pattern rather than a narrative myth motif.
+- id: motif:2
+  label: older faith beneath newer creed
+  taxonomy_refs: []
+  basis: The passage says the outsider may find the foundation of an older faith beneath
+    the embroidery of a new creed.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage asserts a general pattern but does not narrate a specific
+    mythic episode.
+- id: motif:3
+  label: practical wisdom from dangerous element
+  taxonomy_refs:
+  - wisdom
+  basis: The example of learning that fire burns is used to show belief as remembered
+    practical knowledge that guides action.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage uses fire as an analogy,
+    not as part of a mythic wisdom tale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 481-500
+  quote_or_summary: The passage contrasts internal and external views of religion
+    and states that the outsider learns what people believe by judging from their
+    lives and acts.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 501-512
+  quote_or_summary: Sacred books are said to show real belief only approximately;
+    beneath a newer creed may lie older faiths and other beliefs arising from fear.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: 513-530
+  quote_or_summary: The passage says a person's beliefs are known from acts only,
+    and that a real belief guides every action and colors the whole life.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: quote
+  locator: 531-538
+  quote_or_summary: "“When we have learnt that fire burns,” people do not put the
+    belief away or put their hands in the flames, but remember it as a daily guiding
+    principle."
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:5
+  type: summary
+  locator: 539-546
+  quote_or_summary: Belief is compared to a strand in the cord of life; the onlooker
+    does not accept forms and ceremonies, such as being dipped in water or hair practices,
+    as real manifestations of creed by themselves.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is discursive and analytical rather than narrative; extracted
+    motifs are therefore broad belief-pattern candidates, not myth episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage and metadata. No comparison claims added because the passage does not itself make a specific comparative claim to another named tradition or motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l481-l546
+  passage_sha256=b19e86b44e3e647364468cfd6f3049713e6026eee5c55c4668857087c532c76f
+

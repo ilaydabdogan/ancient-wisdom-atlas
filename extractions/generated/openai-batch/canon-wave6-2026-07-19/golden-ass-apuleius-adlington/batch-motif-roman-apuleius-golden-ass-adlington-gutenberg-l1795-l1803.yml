@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l1795-l1803
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE THIRD BOOKE / THE TWELFTH CHAPTER / THE THIRTEENTH CHAPTER / THE FOURTEENTH
+    CHAPTER; lines 1795-1803
+  start: '1795'
+  end: '1803'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Milo takes the first-person narrator by the hand and leads him toward a
+    nearby bath. The narrator crouches under or close to Milo to hide from public
+    view because he has become an occasion for laughter. After washing and returning
+    home, he remains ashamed at others' gestures. He eats a meager supper with Milo,
+    claims a headache from sobbing and weeping, asks leave to go to his chamber, and
+    goes to bed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Milo takes the speaker by the hand and leads him toward the next bath.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker crouches under or close to Milo in order to hide from the sight
+    of men.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says he has given an occasion for laughter.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker washes, wipes himself, and returns home.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker is ashamed because every person nods and points.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker goes to supper with Milo, where the meal is described as meager.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The speaker claims that his head aches because he has been sobbing and weeping
+    all day, asks permission to depart to his chamber, and goes to bed.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first-person narrator
+  description: The speaker who is led by Milo, hides from public sight, washes, feels
+    ashamed, attends supper, claims a headache, and retires to his chamber and bed.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Milo
+  description: A named figure who takes the narrator by the hand, leads him toward
+    the bath, and is present at supper.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: men / every person
+  description: A collective group from whose sight the narrator hides and whose nodding
+    and pointing shame him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: escorted person
+  assigned_to:
+  - fig:1
+  basis: The narrator is taken by the hand and led toward the bath by Milo.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: escort and supper companion
+  assigned_to:
+  - fig:2
+  basis: Milo takes the narrator by the hand, leads him to the bath, and later appears
+    with him at supper.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: public observers
+  assigned_to:
+  - fig:3
+  basis: The narrator hides from the sight of men and is ashamed at the nodding and
+    pointing of every person.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: shamed retiree
+  assigned_to:
+  - fig:1
+  basis: The narrator is ashamed by public gestures and withdraws to his chamber and
+    bed after claiming illness.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: bath and washing
+  literal_form: the next Baine; washed and wiped himself
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: crouching to hide
+  literal_form: couching under him to hide from the sight of men
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: public gestures of ridicule or notice
+  literal_form: nodding and pointing of every person
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: private chamber and bed
+  literal_form: depart to my Chamber, and so I went to bed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Milo leads the narrator toward the bath
+  summary: Milo takes the narrator by the hand and leads him toward a nearby bath
+    while the narrator hides from public view.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Washing and public shame
+  summary: The narrator washes and returns home, still ashamed by the nodding and
+    pointing of others.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Meager supper and retreat to bed
+  summary: The narrator eats a poor supper with Milo, claims a headache caused by
+    weeping, asks to leave for his chamber, and goes to bed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: public ridicule and shame
+  taxonomy_refs: []
+  basis: The narrator hides from men's sight because he has caused laughter and later
+    remains ashamed at public nodding and pointing.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: Plain narrative pattern only; no supplied taxonomy motif is directly assigned.
+- id: motif:2
+  label: washing after humiliation
+  taxonomy_refs: []
+  basis: After being led toward the bath, the narrator washes and wipes himself following
+    the episode of laughter and hiding.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state that the washing is ritual, purifying, or transformative.
+- id: motif:3
+  label: feigned illness as excuse for withdrawal
+  taxonomy_refs: []
+  basis: The narrator says he feigns a headache in order to obtain leave to depart
+    to his chamber and bed.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: Recorded as a local narrative device; no broader comparative claim is
+    made.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1795-1796
+  quote_or_summary: '"Milo tooke me by the hand, and led me towards the next Baine"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: 1796-1798
+  quote_or_summary: '"I went couching under him, to hide my selfe from the sight of
+    men" because he had "ministred such an occasion of laughter."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: 1799-1800
+  quote_or_summary: '"when I had washed and wiped my selfe, and returned home againe"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:4
+  type: quote
+  locator: 1800-1801
+  quote_or_summary: '"so greatly was I abashed at the nodding and pointing of every
+    person."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:5
+  type: quote
+  locator: 1801-1802
+  quote_or_summary: '"Then went I to supper with Milo, where God wot we fared but
+    meanly."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:6
+  type: quote
+  locator: 1802-1803
+  quote_or_summary: '"feigning that my head did ake by reason of my sobbing and weeping
+    all day, I desired license to depart to my Chamber, and so I went to bed."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt used for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied line range. Motif candidates are
+    plain local narrative patterns without broader taxonomy assignment. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available motif-family taxonomy reference was assigned because the passage presents a social-humiliation and withdrawal episode rather than a clear mythological motif from the supplied list.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l1795-l1803
+  passage_sha256=585ca7d9aee468218727ff1665cbf0eb0ac255a642d79a9f87d4d9e565334b93
+

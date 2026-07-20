@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l17236-l17313
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: M-MF M-F M, / M-F-F M-M-FM, / M-F-F M-M-M, / M-MF M-F M.; lines 17236-17313
+  start: '17236'
+  end: '17313'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    Damirifa !
+
+    Damirifa !
+
+    Damirifa !
+  summary: The passage presents multiple lines of hyphenated M/F notation around roman-numeral
+    headings XVIII, XIX, and XVII. The final section gives Akan/Twi lines naming or
+    addressing several Pepra-labeled figures or phrases, includes a question, mentions
+    Mampon Kontonkyi, repeats “ako,” and ends with three repetitions of “Damirifa!”
+  language: Akan/Twi with M/F notational sequences
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage includes extended hyphenated sequences composed mainly of the
+    letters M and F.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Roman-numeral headings XVIII, XIX, and XVII divide portions of the passage.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The final section contains the labels or names “Asiase Pepra,” “Okwawuo,”
+    “Okyerema Pepra,” and “Pepra Firampon.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The line “Wo wo he ni ?” is presented as a question.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The phrase “Mampon Kontonkyi” appears in the final section.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The word-form “ako” is repeated five times in one line, and “Damirifa !” is
+    repeated three times at the end.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Asiase Pepra
+  description: Named or addressed in the final Akan/Twi section.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Okwawuo
+  description: Named in the line “Okwawuo odi awuo,” in the final section.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Okyerema Pepra
+  description: Named or addressed in the final Akan/Twi section before a question
+    line.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Pepra Firampon
+  description: Named in the final Akan/Twi section before the repeated “Damirifa !”
+    lines.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named figure or address-form in chant text
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: These labels occur as capitalized names or address-forms in the final chant-like
+    section.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: M/F notational pattern
+  literal_form: Hyphenated sequences of the letters M and F
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: threefold final refrain
+  literal_form: "“Damirifa !” repeated three times"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fivefold repeated word-form
+  literal_form: "“ako” repeated five times in one line"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: M/F notation sections
+  summary: The passage gives repeated M/F sequences, including sections marked XVIII
+    and XIX, without an explicit narrative action in the supplied text.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Final named chant section
+  summary: Section XVII gives Akan/Twi lines with named labels, a question, a Mampon
+    Kontonkyi phrase, repeated “ako,” and a threefold “Damirifa !” ending.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: invocation or address with repeated refrain
+  taxonomy_refs: []
+  basis: The final section presents named address-forms followed by repeated verbal
+    forms, ending with a threefold refrain.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is not translated in the supplied excerpt, so the ritual or
+    narrative function of the refrain cannot be determined from the provided text
+    alone.
+- id: motif:2
+  label: question within chant sequence
+  taxonomy_refs: []
+  basis: A question line appears after named lines in the final section.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Without translation or surrounding context, the addressee and function
+    of the question remain uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17236-17271
+  quote_or_summary: Opening material and section XVIII consist of hyphenated M/F sequences
+    such as “M-FM-M MM-FF” and further letter-pattern lines.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 17273-17289
+  quote_or_summary: Section XIX continues the M/F notation and includes repeated forms
+    such as “M-MF M-F M.”
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 17291-17313
+  quote_or_summary: Section XVII includes “Asiase Pepra,” “Okwawuo odi awuo,” “Okyerema
+    Pepra,” “Wo wo he ni ?,” “Wo firi Mampon Kontonkyi,” “Boafo ako, ako, ako, ako,
+    ako,” “Pepra Firampon,” and three repetitions of “Damirifa !”.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the absence of translation for the Akan/Twi
+    lines and by the predominance of musical or tonal notation. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the supplied passage does not clearly support one without translation or additional context.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l17236-l17313
+  passage_sha256=50392956d58897a13f6ac1090fbc26cac43fc6d8924be3c899c47b1275169277
+

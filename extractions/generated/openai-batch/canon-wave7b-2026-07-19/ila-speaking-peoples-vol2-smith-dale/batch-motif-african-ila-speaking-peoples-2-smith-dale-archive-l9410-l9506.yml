@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l9410-l9506
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: CHAPTER XXV / THE BA-ILA AT PLAY / PLAYING CHISOLO. / DIAGRAM OF SUNTULA
+    MOVE.; lines 9410-9506
+  start: '9410'
+  end: '9506'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: 'B therefore wins : Wamwanga ("he ties him up").'
+  summary: The passage explains a diagrammed Suntula move in the game Chisolo, then
+    records a sequence of moves by players A and B involving taking stones from holes,
+    dropping them into successive holes, eating opposing stones, snatching stones,
+    performing Suntula moves, and ending with B winning after A has no stones left.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A diagram is described with a top row showing holes before a Suntula move
+    and a lower row showing holes after the move.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the diagrammed move, a player takes stones from one hole, drops one stone
+    into each successive hole, then continues from a later hole until reaching an
+    empty hole and stopping.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The culmination point of the diagrammed move is marked with X.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The recorded game begins with holes arranged for play, and B moves first.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Players A and B take stones out of named or numbered holes and put one stone
+    into each of several other holes.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The account describes capturing as eating stones from opposing holes and snatching
+    stones from other holes.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: Some turns are called Suntula moves, in which stones are taken out of a hole
+    and redistributed into following holes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that a player cannot eat in some situations, including
+    when not immediately opposite the relevant hole.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: At the end of the game, A has no stones left, while B still has stones and
+    wins.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The victory is glossed with the Ila term Wamwanga, translated in the passage
+    as "he ties him up."
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: A
+  description: One of the two players in the recorded Chisolo game; A follows B in
+    the move sequence and has no stones left at the end.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: B
+  description: One of the two players in the recorded Chisolo game; B moves first
+    and wins at the end.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: first mover
+  assigned_to:
+  - fig:2
+  basis: The passage states that B moves first.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: following player
+  assigned_to:
+  - fig:1
+  basis: The passage states that A follows after B's first move.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: winner
+  assigned_to:
+  - fig:2
+  basis: The final move summary states that B wins.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: player with no stones left
+  assigned_to:
+  - fig:1
+  basis: The final move summary states that A has no stones left.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: game holes
+  literal_form: arranged holes labeled by numbers and letters
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: stones
+  literal_form: stones moved, eaten, snatched, and remaining in holes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: X mark
+  literal_form: X marking the point where the diagrammed move culminates
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Wamwanga phrase
+  literal_form: the victory phrase Wamwanga, glossed as "he ties him up"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Diagrammed Suntula move
+  summary: The passage explains a sample Suntula move by showing holes before and
+    after the move, describing the movement of stones through successive holes, and
+    marking the culmination point with X.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Opening recorded moves
+  summary: The recorded game starts from arranged holes; B moves first, distributes
+    stones, eats stones in opposing holes, and snatches stones; A then makes a corresponding
+    move.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Alternating play with captures and Suntula moves
+  summary: A and B continue alternating moves, redistributing stones, eating and snatching
+    stones, sometimes being unable to eat, and performing named Suntula moves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Conclusion of the game
+  summary: A has no stones left, while B has stones remaining and is declared the
+    winner with the phrase Wamwanga.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sowing-and-capture board-game pattern
+  taxonomy_refs: []
+  basis: The passage repeatedly describes players taking stones from a hole, dropping
+    one into successive holes, and capturing by eating and snatching stones.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a play/game pattern in an ethnographic description, not a mythic
+    narrative motif.
+- id: motif:2
+  label: named Suntula redistribution move
+  taxonomy_refs: []
+  basis: The passage names and demonstrates Suntula moves in which stones are removed
+    from a hole and redistributed into later holes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: No supplied mythology taxonomy reference directly corresponds to this
+    game move.
+- id: motif:3
+  label: victory by exhausting the opponent's stones
+  taxonomy_refs: []
+  basis: The final state records that A has no stones left and B wins.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The associated phrase Wamwanga is glossed literally, but the passage does
+    not provide broader symbolic interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9410-9422
+  quote_or_summary: The diagram explanation says the top row shows holes before the
+    move and the lower row after; a player takes stones from one hole, drops one into
+    successive holes, continues from a later hole, stops on an empty hole, and the
+    culminating point is marked X.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 9423-9434
+  quote_or_summary: The passage says the following plan shows actual moves in a game
+    recorded on the spot; holes are arranged for playing; B moves first by distributing
+    stones and then eating stones in opposite holes and snatching stones; A follows
+    with a corresponding move.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9435-9470
+  quote_or_summary: Several turns by A and B are listed, with players taking stones
+    from specified holes, putting one into other holes, eating stones, snatching stones,
+    and sometimes being unable to eat because the player is not immediately opposite
+    the relevant hole or because of the player's own stones.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 9471-9494
+  quote_or_summary: Moves XI, XII, and XIV explicitly call a turn 'suntula's' or 'suntula's,
+    i.e.' and describe taking two stones from a hole and putting one into each of
+    following holes; the surrounding turns continue the alternating redistribution
+    and capture sequence.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 9501-9506
+  quote_or_summary: '"A has now no stones left : B has i in 3 ; i in 10 ; 2 in n.
+    B therefore wins : Wamwanga (\"he ties him up\")."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short quotation from supplied public-domain passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a concrete description of game play rather than a myth narrative.
+    Literal extraction is strong; motif candidates are limited to observable game-pattern
+    labels and do not use the supplied mythological taxonomy refs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself compare Chisolo or Suntula to another motif family, corpus tradition, or historical pattern. Available taxonomy refs were not applied.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l9410-l9506
+  passage_sha256=976e7fdea476b59239f3fd93941b36988b2a5c941200aeaefea5b30722f6f115
+

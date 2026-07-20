@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l14209-l14247
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: GOVERN WITHOUT PERSONAL EFFORT. / CHAPTER X. 1. Yen Yuan asked how the government
+    of a country should be administered. / U. THE WAY TO WARD OFF KE- / BOOK XVI.
+    KE SHE; lines 14209-14247
+  start: '14209'
+  end: '14247'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A fragment ranks dull people who learn above dull people who do not learn.
+    Confucius then teaches that the superior man reflects on nine matters: clear seeing,
+    distinct hearing, benign countenance, respectful demeanor, sincere speech, careful
+    conduct of business, asking about doubts, considering the consequences of anger,
+    and thinking of righteousness when gain appears. A note discusses wording and
+    interpretation of a term related to not thoroughly understanding.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening fragment distinguishes people who are dull or stupid but still
+    learn from people who are dull or stupid and do not learn.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Confucius says the superior man has nine matters that are subjects of thoughtful
+    consideration.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: 'The first two matters concern the use of the eyes and ears: seeing clearly
+    and hearing distinctly.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: 'Other matters concern countenance, demeanor, speech, and conduct of business:
+    benign appearance, respectful behavior, sincere speech, and reverently careful
+    action.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'The final matters concern doubt, anger, and gain: questioning others about
+    doubts, considering difficulties caused by anger, and thinking of righteousness
+    when gain is available.'
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The appended commentary note discusses a term explained as not thoroughly
+    understanding and rejects an interpretation that joins it with learning by painful
+    effort.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Confucius
+  description: Named speaker who states the teaching about the superior man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the superior man
+  description: The exemplary person described as having nine subjects of thoughtful
+    consideration.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: dull and stupid people who learn
+  description: A class of people described as dull and stupid, yet able to compass
+    learning.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: dull and stupid people who do not learn
+  description: A class of people described as dull and stupid and not learning, called
+    the lowest of the people.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: speaker and teacher
+  assigned_to:
+  - fig:1
+  basis: The passage introduces the statement with 'Confucius said.'
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ethical exemplar under instruction
+  assigned_to:
+  - fig:2
+  basis: The superior man is the subject whose nine reflective concerns are enumerated.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: lower learning category
+  assigned_to:
+  - fig:3
+  basis: They are described as dull and stupid but still learning, and are ranked
+    above the lowest class.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: lowest non-learning category
+  assigned_to:
+  - fig:4
+  basis: They are described as dull and stupid and not learning, and are called the
+    lowest of the people.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: ninefold list
+  literal_form: nine things / nine subjects of thought
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: faculties and conduct as listed concerns
+  literal_form: eyes, ears, countenance, demeanor, speech, business, doubts, anger,
+    gain
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: fragmentary ranking of learners
+  summary: The passage fragment ranks dull people who learn above dull people who
+    do not learn.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Confucius enumerates nine concerns of the superior man
+  summary: Confucius lists nine areas of reflection for the superior man, moving from
+    perception and outward conduct to questioning, anger, and gain in relation to
+    righteousness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ninefold ethical self-cultivation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a numbered teaching in which the superior man disciplines
+    perception, conduct, speech, inquiry, anger, and response to gain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage is didactic rather than narrative; the motif is a wisdom-instruction
+    pattern rather than a mythic episode.
+- id: motif:2
+  label: righteousness preferred over gain
+  taxonomy_refs:
+  - wisdom
+  basis: One of the nine considerations requires thinking of righteousness when gain
+    is available.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is one item within a larger list, not a separate narrative scene.
+- id: motif:3
+  label: learning distinguishes human ranks
+  taxonomy_refs:
+  - wisdom
+  basis: The opening fragment ranks those who learn above those who do not, even among
+    people described as dull or stupid.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The beginning of the classification is fragmentary in the provided passage,
+    so the full ranking context is incomplete.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14209-14213
+  quote_or_summary: '"stupid, and yet compass the learning" are one class, while those
+    who are "dull and stupid and yet do not learn" are "the lowest of the people."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 14214-14217
+  quote_or_summary: '"Confucius said, ''The superior man ... has nine things which
+    are subjects with him of thoughtful consideration.''"'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: citation
+  locator: lines 14214-14247
+  quote_or_summary: Chapter X is headed in the surrounding editorial material as concerning
+    nine subjects of thought.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; citation/summary only.
+- id: ev:4
+  type: summary
+  locator: lines 14217-14231
+  quote_or_summary: The nine matters are clear seeing, distinct hearing, benign countenance,
+    respectful demeanor, sincere speech, careful business, questioning doubts, considering
+    difficulties when angry, and thinking of righteousness when gain is seen.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 14232-14246
+  quote_or_summary: A commentary note discusses a term explained as not thoroughly
+    understanding and says it should not be joined to mean learning with painful effort.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: line 14247
+  quote_or_summary: '"10. NINE SUBJECTS OF THOUGHT"'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The central Chapter X teaching is clear. Confidence is reduced by OCR noise,
+    fragmentary preceding material, and editorial/commentary text mixed into the passage.
+    No comparison claims were made because the passage itself does not support cross-traditional
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy reference applied only to the broad wisdom family where directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l14209-l14247
+  passage_sha256=3d16d324319c1dc67cea96808f7a629b629488864b277383ca95b4cee7552dfc
+

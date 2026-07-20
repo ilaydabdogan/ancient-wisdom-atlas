@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l9738-l9744
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION LIX / SECTION LX / SECTION LXI / SECTION LXII; lines 9738-9744
+  start: '9738'
+  end: '9744'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“What, however, O grandsire, is the best or foremost of all gifts.”"
+  summary: Yudhishthira asks his grandsire which gift is the best or foremost, after
+    noting scriptural declarations about giving and the practice of kings making gifts
+    to various men.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira is the speaker in the passage.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says people accept with affection declarations of the Srutis about
+    things to be given.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says kings make gifts of various things to various men.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker addresses the listener as “grandsire.”
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker asks what is the best or foremost of all gifts.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who asks about the foremost gift.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: grandsire
+  description: Addressee of Yudhishthira’s question, addressed as “O grandsire.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: people
+  description: General group said to accept the declarations of the Srutis with affection.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: kings
+  description: General group said to make gifts of various things to various men.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: various men
+  description: General recipients to whom kings give various things.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioner about the foremost gift
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks what is the best or foremost of all gifts.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: addressed grandsire
+  assigned_to:
+  - fig:2
+  basis: The addressee is called “O grandsire.”
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: acceptors of Sruti declarations
+  assigned_to:
+  - fig:3
+  basis: People are said to accept with affection the declarations of the Srutis about
+    what is to be given.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: donors of gifts
+  assigned_to:
+  - fig:4
+  basis: Kings are said to make gifts of various things.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: recipients of gifts
+  assigned_to:
+  - fig:5
+  basis: Kings are said to make gifts unto various men.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: gifts
+  literal_form: things to be given; various things given by kings
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Sruti declarations about giving
+  literal_form: declarations saying “This is to be given” and “This other thing is
+    to be given”
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Question about the foremost gift
+  summary: Yudhishthira notes that people accept Sruti declarations about giving and
+    that kings make gifts to various men; he asks his grandsire which gift is best
+    or foremost.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Inquiry into the foremost gift
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage centers on declarations about what should be given, royal gift-giving,
+    and a question about the best gift.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage contains only the question and does not provide the answer
+    or specify the gift.
+- id: motif:2
+  label: Seeking instruction from an elder
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira addresses a grandsire and asks him to judge which gift is foremost.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the request for instruction but not the teaching that
+    follows.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9738-9744
+  quote_or_summary: "“Yudhishthira said”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 9738-9744
+  quote_or_summary: "“People accept with affection the declarations of the Srutis
+    which say, ‘This is to be given.’ ‘This other thing is to be given!’”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 9738-9744
+  quote_or_summary: "“As regards kings, again, they make gifts of various things unto
+    various men.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 9738-9744
+  quote_or_summary: "“What, however, O grandsire, is the best or foremost of all gifts.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and explicit about speaker, addressee, and topic. Motif
+    assignment to sacred exchange and wisdom is plausible but limited because the
+    passage contains only the opening question. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used; no identification of the grandsire beyond the passage wording is supplied.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l9738-l9744
+  passage_sha256=04ef9e5059ba4efa8a7a00dead2ff08b8c063b7c33d62fce626b9e956a78f083
+

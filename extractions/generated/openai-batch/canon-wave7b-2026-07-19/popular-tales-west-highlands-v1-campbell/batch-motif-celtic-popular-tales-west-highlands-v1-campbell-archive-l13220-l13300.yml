@@ -1,0 +1,548 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l13220-l13300
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: FABLES. 279 / FABLES. 281 / FABLES. 283 / FABLES. 285; lines 13220-13300
+  start: '13220'
+  end: '13300'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives several short animal fables and proverbial notes: a
+    hen and cock quarrel over food; the Eagle and Wren compete to fly highest for
+    kingship of birds, with the Wren winning by riding on the Eagle; ravens are linked
+    with unusual knowledge and compared with Odin''s ravens; a Wren says the sea is
+    lessened when he dips his beak in it; and two foxes trick a man carrying herrings
+    by feigning death and stealing the fish from his creel.'
+  language: English with Scottish Gaelic phrases
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hen and a cock are described as quarrelling and scolding about a stock of
+    food, each speaking a short Gaelic line that is translated into English.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Eagle and the Wren agree to a flying contest in which the bird that flies
+    highest will become king of the birds.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Wren first flies upward, then settles on the Eagle's back when tired;
+    after the Eagle stops, the Wren says he is above the Eagle and wins the match.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The phrase translated as 'Thou hast ravens' knowledge' is said to children
+    who seem to know things without an evident source of knowledge.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that Odin had two ravens, whose names meant Mind and Memory,
+    and that these ravens told him everything that passed in the world.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: 'A short verse gives a raven calendar: nest at Candlemas, egg at Inid, bird
+    at Pash, with death if the raven does not have these.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The Wren says the sea is lessened by his action when he dips his beak into
+    it.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The larger of two foxes tells the other to follow a man while he runs ahead
+    and pretends to be dead.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: The man places the apparently dead fox into his creel of herrings; the fox
+    throws the herrings out, the other fox gathers them, and the first fox escapes
+    when the creel is empty.
+  category: sequence
+  evidence_refs:
+  - ev:9
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Hen
+  description: A speaking bird involved in a food quarrel with the cock.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cock
+  description: A speaking bird who replies to the hen in the food quarrel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Eagle
+  description: A bird contestant who flies in great circles in the contest to determine
+    the king of the birds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Wren
+  description: A small bird who competes with the Eagle, wins by being above him,
+    and appears again in a saying about dipping his beak in the sea.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:5
+  name_or_label: Raven
+  description: A bird associated with unusual knowledge in a Gaelic saying and with
+    a calendar verse about nest, egg, and bird.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:6
+  name_or_label: Children with ravens' knowledge
+  description: Children to whom the saying about ravens' knowledge is applied when
+    they are unusually knowing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Odin
+  description: A figure said to have two ravens who report events in the world to
+    him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Odin's two ravens
+  description: Two ravens whose names meant Mind and Memory and who told Odin what
+    passed in the world.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Larger fox
+  description: The bigger of two foxes, who devises the plan, feigns death, enters
+    the creel, throws out herrings, and escapes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:10
+  name_or_label: Second fox
+  description: The fox who follows the man and picks up the herrings thrown from the
+    creel.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:11
+  name_or_label: Man carrying herrings
+  description: A man walking on the road with a creel of herrings on his back, deceived
+    into picking up the feigned-dead fox.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: food-quarrelling speaker
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The hen and cock are said to quarrel and scold about the stock of food and
+    each speaks a line.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: contestant for bird kingship
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Eagle and Wren try who can fly highest, with the victor to be king of
+    the birds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: small victor by stratagem
+  assigned_to:
+  - fig:4
+  basis: The Wren rests on the Eagle's back and then declares himself above the Eagle,
+    winning the match.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: speaker diminishing the sea
+  assigned_to:
+  - fig:4
+  basis: The Wren speaks after dipping his beak into the sea.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: knowledge-associated raven figure
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:8
+  basis: Ravens' knowledge is applied to knowing children, and Odin's ravens report
+    worldly events.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: holder of reporting ravens
+  assigned_to:
+  - fig:7
+  basis: Odin is described as having two ravens that told him what passed in the world.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: deceptive planner and thief
+  assigned_to:
+  - fig:9
+  basis: The larger fox proposes the trick, pretends to be dead, empties the creel,
+    and escapes.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:8
+  label: accomplice gatherer
+  assigned_to:
+  - fig:10
+  basis: The second fox follows and picks up the herrings thrown from the creel.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:9
+  label: deceived carrier of food
+  assigned_to:
+  - fig:11
+  basis: The man carrying herrings believes the fox is a fine dead beast and puts
+    it in the creel.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: position above the eagle
+  literal_form: The Wren perched on the Eagle's back and later speaking from above
+    the Eagle's head.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: ravens' knowledge
+  literal_form: The phrase 'ravens' knowledge' and the reporting ravens named Mind
+    and Memory.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: sea
+  literal_form: The sea into which the Wren dips his beak.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: creel of herrings
+  literal_form: A creel of herrings carried on the man's back and emptied by the foxes.
+  associated_figures:
+  - fig:9
+  - fig:10
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:5
+  label: raven nest-egg-bird sequence
+  literal_form: Nest at Candlemas, egg at Inid, bird at Pash.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Hen and cock quarrel over food
+  summary: A hen and cock are represented as scolding about the stock of food and
+    speaking in paired lines about days and hills.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eagle and Wren compete for kingship
+  summary: The Eagle and Wren contest who can fly highest; the Wren rests on the Eagle's
+    back and wins by being above him at the end.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Raven knowledge and raven calendar
+  summary: The passage explains a saying about ravens' knowledge, compares it to Odin's
+    world-reporting ravens, and gives a seasonal verse about raven nest, egg, and
+    bird.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: scene:4
+  label: Wren dips beak in the sea
+  summary: The Wren says that the sea is lessened when he dips his beak into it.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Foxes steal herrings by feigned death
+  summary: 'Two foxes coordinate a trick: one feigns death and is placed in the man''s
+    herring creel, throws the herrings out to the other, and then escapes.'
+  figure_refs:
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: small bird wins kingship contest by using larger bird
+  taxonomy_refs:
+  - ascent
+  - royal_legitimacy
+  - trickster_boundary
+  basis: The Wren wins a highest-flight contest for kingship of birds by settling
+    on the Eagle's back and ending above him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy refs are functional approximations; the passage itself gives
+    the tale as a bird fable rather than a ritual kingship myth.
+- id: motif:2
+  label: raven as bearer of hidden or far-reaching knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: A Gaelic saying links ravens with knowledge beyond ostensible means, and
+    the passage adds Odin's ravens as world-reporting birds.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The Odin material is a collector's comparative note within the passage,
+    not presented as part of the Gaelic saying itself.
+- id: motif:3
+  label: raven seasonal life-cycle omen
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The raven verse sets nest, egg, and bird at named seasonal/religious dates
+    and associates failure with death.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage says this may be popular natural history rather than a narrative
+    fable.
+- id: motif:4
+  label: tiny bird diminishes the sea by a beak-dip
+  taxonomy_refs: []
+  basis: The Wren says the sea is lessened when he dips his beak into it.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: Only a single proverbial saying is supplied; the wider narrative context
+    is not included.
+- id: motif:5
+  label: foxes obtain food through feigned death and coordinated theft
+  taxonomy_refs:
+  - trickster_boundary
+  basis: One fox feigns death to enter the creel, throws herrings out, and the other
+    fox gathers them while the man is deceived.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The stolen food is ordinary herrings, so sacred-theft readings are not
+    supported by the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Eagle and Wren highest-flight contest
+    with Grimm's 'King Wren,' supporting a cautious same-motif comparison.
+  claim_level: same_motif
+  target: Grimm's 'King Wren'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names Grimm's tale and says it is a better version, but
+    it gives no detailed summary of the Grimm version beyond the title and general
+    comparison.
+- id: claim:2
+  claim: The Gaelic saying about ravens' knowledge and the note on Odin's ravens share
+    the function of raven-mediated knowledge of otherwise unseen events.
+  claim_level: same_function
+  target: Odin's two ravens, whose names meant Mind and Memory
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not assert historical contact or common inheritance;
+    the Odin note appears as a collector's comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13220-13300; opening hen/cock note
+  quote_or_summary: The hen and cock are described as 'quarrelling and scolding about
+    the stock of food'; their lines are translated as 'See thou yonder day...' and
+    'See thou yonder hill...'.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 13220-13300; fable 15
+  quote_or_summary: The Eagle and the Wren try who can fly highest, with the victor
+    to be king of the birds; the Wren flies straight up, the Eagle circles, and the
+    tired Wren settles on the Eagle's back.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 13220-13300; fable 15 dialogue
+  quote_or_summary: "'Where art thou, Wren?' said the Eagle. 'I am here above thee,'
+    said the Wren. And so the Wren won the match."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 13220-13300; fable/proverb 16
+  quote_or_summary: "'Thou hast ravens' knowledge' is said to children who are 'unusually
+    knowing' about things of which they have no ostensible means of gaining knowledge."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 13220-13300; note after fable/proverb 16
+  quote_or_summary: Odin is said to have had two ravens whose names meant Mind and
+    Memory and which told him everything that passed in the world.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 13220-13300; note after fable 15
+  quote_or_summary: The collector says there is a much better version of the Eagle
+    and Wren story in Grimm's 'King Wren' and notes hearing the story in Skye.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 13220-13300; raven verse and commentary
+  quote_or_summary: "'Nest at Candlemas, egg at Inid, bird at Pash. If that hath not
+    the Raven, death he hath.' The collector calls it popular natural history and
+    says the raven is important among Celts."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:8
+  type: quote
+  locator: lines 13220-13300; fable/proverb 18
+  quote_or_summary: "'Thou'rt lessened by that,' said the Wren, when he dipped his
+    beak in the sea."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 13220-13300; fable 19 opening
+  quote_or_summary: A man walks with a creel of herrings; two foxes see him, and the
+    larger tells the other to follow while he runs ahead and pretends to be dead.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 13220-13300; fable 19 theft
+  quote_or_summary: The man puts the fox into the creel; the fox throws out the herrings,
+    the other fox picks them up, and when the creel is empty the larger fox leaps
+    out and runs away.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summary of supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the supplied fables and sayings. Motif taxonomy
+    assignments are cautious because the passage consists of brief fables, proverbs,
+    and collector notes rather than extended mythic narratives.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No external tale-type numbers or unsupplied source details were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l13220-l13300
+  passage_sha256=ba5a77ec37a729ba5aacbe710ac5cb17dcc9e7538a6328f7b89dc105f4094cac
+

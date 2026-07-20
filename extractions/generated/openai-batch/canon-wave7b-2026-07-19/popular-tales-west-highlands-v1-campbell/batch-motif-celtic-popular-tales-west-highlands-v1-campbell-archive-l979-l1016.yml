@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l979-l1016
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: INTRODUCTION. XXI / XX11 INTRODUCTION. / INTRODUCTION. XX111 / XXIV INTRODUCTION.;
+    lines 979-1016
+  start: '979'
+  end: '1016'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The author describes stories of ghosts, fairies, apparitions, and dreams;
+    argues that fairy belief is becoming fairy tale and may later become romance;
+    says modern transport, media, and tourism are driving out romance but not belief
+    in supernaturals; praises Highland peasants for hospitality and tact; and notes
+    that Celts may leave linguistic and cultural traces in Canada and Australia.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage names stories about ghosts, fairies, apparitions, and dreams.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author says fairy belief is becoming a fairy tale and may become a romance
+    in another generation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Railways, roads, newspapers, and tourists are described as driving out romance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The author states that the popular creed about supernaturals will survive
+    after romance is banished.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Superstition is described as present in towns and among hills, and not limited
+    to the ignorant.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The author praises Scotch Highlanders for tact, good taste toward guests,
+    and willingness to share with strangers.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Celts are said to have played a part in history and to have a future part
+    in Canada and Australia, where their language and character may leave a trace.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: ghosts, fairies, apparitions, and dreams
+  description: Supernatural subjects named as the content of stories.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: railways, roads, newspapers, and tourists
+  description: Forces named by the author as slowly driving out romance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Scotch Highlanders
+  description: A people praised by the author for hospitality, tact, and courtesy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Celts
+  description: A people said to have historical importance and possible future influence
+    in Canada and Australia.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: supernatural story subjects
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies ghosts, fairies, apparitions, and dreams
+    as subjects of stories.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: agents of modern displacement of romance
+  assigned_to:
+  - fig:2
+  basis: The passage states that railways, roads, newspapers, and tourists are driving
+    out romance.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: hospitable Highland peasantry
+  assigned_to:
+  - fig:3
+  basis: The passage describes Highlanders as tactful hosts who share with strangers.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: diasporic cultural bearers
+  assigned_to:
+  - fig:4
+  basis: The passage links Celts with Canada and Australia and says their language
+    and character may leave traces there.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: ghosts and fairies
+  literal_form: ghosts, fairies, apparitions, and dreams
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: roads and railways
+  literal_form: railways, roads, newspapers, and tourists
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: towns and hills
+  literal_form: towns and hills
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fairy belief changes literary form
+  summary: The author describes fairy belief as shifting into fairy tale and predicts
+    that it may develop into romance, as similar material has in the work of poets
+    elsewhere.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Modern forces drive out romance but not supernatural belief
+  summary: Railways, roads, newspapers, and tourists are said to drive out romance,
+    while the popular creed concerning supernaturals is expected to remain.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Highland hospitality
+  summary: The author reports favorable impressions of Highland peasants, emphasizing
+    tact, guest-care, and sharing with strangers.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Celtic language and character abroad
+  summary: The author says Celts may leave linguistic and cultural traces in Canada
+    and Australia.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: fairy belief becoming tale and romance
+  taxonomy_refs: []
+  basis: The passage explicitly presents fairy belief as becoming fairy tale and then
+    potentially romance.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an authorial comment on folklore transmission rather than a narrative
+    motif within a tale.
+- id: motif:2
+  label: modernity displaces romance but not supernatural creed
+  taxonomy_refs: []
+  basis: The passage contrasts modernizing forces with the persistence of belief in
+    supernaturals.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a cultural-observational pattern, not a mythic episode.
+- id: motif:3
+  label: persistence of superstition across social settings
+  taxonomy_refs: []
+  basis: The passage states that superstition belongs to all periods and is present
+    in towns as well as hills.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The claim is general and sociological; no specific tale motif is narrated.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the anticipated development of Highland fairy belief
+    into romance with fairy material already shaped into romance by poets elsewhere.
+  claim_level: same_function
+  target: poetic romances elsewhere
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not identify the poets, texts, or traditions, so the
+    comparison remains general.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 979-983
+  quote_or_summary: '"stories about ghosts and fairies, apparitions, and dreams"'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 983-988
+  quote_or_summary: The author says fairy belief is becoming fairy tale; in another
+    generation it may grow into romance, as fairy material has done in the hands of
+    poets elsewhere.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 990-993
+  quote_or_summary: '"Railways, roads, newspapers, and tourists" are described as
+    "driving out romance."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 993-996
+  quote_or_summary: The author states that modern forces are not driving out the popular
+    creed concerning supernaturals and that it will survive when romance is gone.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 996-1000
+  quote_or_summary: Superstition is described as belonging to all periods of civilization,
+    occurring in towns and among hills, and not being confined to the ignorant.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1001-1011
+  quote_or_summary: The author praises Scotch Highlanders as tactful, courteous to
+    guests, and ready to share what they have with strangers.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 1012-1016
+  quote_or_summary: The author says Celts have played a historical part and may leave
+    traces of language and character in Canada and Australia.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is introductory commentary rather than a tale episode; extracted
+    motifs are cultural-transmission patterns explicitly stated by the author.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif-family or symbol reference was assigned because the passage does not directly support one of the supplied controlled refs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l979-l1016
+  passage_sha256=93d7ae3b928c969d8850715b656418494ffa470d5ce008d4d7ce6be85e880029
+

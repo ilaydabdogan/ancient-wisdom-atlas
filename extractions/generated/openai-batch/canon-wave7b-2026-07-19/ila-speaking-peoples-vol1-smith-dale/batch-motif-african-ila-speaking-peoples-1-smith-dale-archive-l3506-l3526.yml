@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l3506-l3526
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: 'PHYSICAL CHARACTERISTICS / REPAIRING THE IMPUMBE. / PHYSICAL CHARACTERISTICS
+    / AFTER REPAIRING THE IMPUMBE : SHAVING THE HEAD.; lines 3506-3526'
+  start: '3506'
+  end: '3526'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After an impumbe is tightened with rows of stitches around its base, the
+    head is shaved. The passage then describes hairdressing styles outside Bwila proper,
+    including a Bambala style called mampolombwe, long rolled hair, and Chibaluma's
+    mop-like hair with a shaven front and beads.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hairdresser tightens the impumbe by putting two or three rows of stitches
+    around its base.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After tightening the impumbe, the hairdresser shaves the head.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Outside Bwila proper, different hairdressing styles are said to prevail.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Bambala hairstyle shown in a photograph of Kakua is called mampolombwe by
+    the Ba-ila.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the described style, hair is allowed to grow long, nearly to the shoulders,
+    and is twisted into rolls.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Chibaluma is described as having hair in a large mop, shaven in front to give
+    the appearance of a lofty forehead.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The hair in Chibaluma's pictured style is often threaded with beads.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The caption identifies Chibaluma as a chief and as a mixed Ila and Luba type.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the hairdresser
+  description: A person who tightens the impumbe with rows of stitches and then shaves
+    the head.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kakua
+  description: A photographed person used as an example of a Bambala hairstyle called
+    mampolombwe by the Ba-ila.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Chibaluma
+  description: A chief shown with hair in a large mop, shaven in front; captioned
+    as mixed Ila and Luba type.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: hairdresser repairing and shaving
+  assigned_to:
+  - fig:1
+  basis: The passage says the hairdresser tightens the impumbe with stitches and then
+    shaves the head.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: photographic example of Bambala hair style
+  assigned_to:
+  - fig:2
+  basis: Kakua is named as the person in a photograph showing a Bambala style called
+    mampolombwe.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: chief and photographed hairstyle example
+  assigned_to:
+  - fig:3
+  basis: Chibaluma is named in the picture description and captioned as chief; his
+    hairstyle is described in the passage.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: impumbe
+  literal_form: A hair structure or dressing tightened by stitches around its base
+    before shaving the head.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: shaved head
+  literal_form: The head shaved after the impumbe is tightened.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mampolombwe hairstyle
+  literal_form: Long hair falling almost to the shoulders and twisted into rolls;
+    named as a Bambala style by the Ba-ila.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: beads in hair
+  literal_form: Beads threaded through the hair in the described style.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Tightening the impumbe and shaving the head
+  summary: The hairdresser secures the impumbe by stitching around its base and then
+    shaves the head.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of hairdressing styles outside Bwila proper
+  summary: The passage describes styles including Kakua's photographed Bambala mampolombwe
+    hairstyle, long rolled hair, and Chibaluma's mop-like hair with a shaven front
+    and beads.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3506-3510
+  quote_or_summary: The hairdresser tightens the impumbe with two or three rows of
+    stitches around the base and then shaves the head.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 3512-3517
+  quote_or_summary: Outside Bwila proper, different hairdressing styles are described;
+    a Bambala style shown in Kakua's photograph is called mampolombwe by the Ba-ila,
+    with long hair falling almost to the shoulders and twisted into rolls.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 3518-3522
+  quote_or_summary: Chibaluma is pictured with hair in a large mop, shaven in front
+    to suggest a lofty forehead, and the hair is often threaded with beads.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 3524-3526
+  quote_or_summary: The photograph is credited to E. W. Smith and captioned 'The Chief
+    Chibaluma. Mixed Ila and Luba Type.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is descriptive ethnographic material about hairdressing and contains
+    no explicit mythic narrative or supported comparative motif claim. Candidate motifs
+    and comparison claims are therefore left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied because the passage concerns literal hairdressing practices rather than the listed mythic motifs or symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l3506-l3526
+  passage_sha256=b07cde4380b00feb92d81a505ebc3256f2d561d49e62133a9587500eb097fa79
+

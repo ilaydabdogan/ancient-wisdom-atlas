@@ -1,0 +1,193 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l860-l898
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: INTRODUCTION. XV11 / XV111 INTRODUCTION. / XX INTRODUCTION. / INTRODUCTION.
+    XXI; lines 860-898
+  start: '860'
+  end: '898'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator reflects on hearing songs and old stories in Highland and
+    English social settings, then states that his work concerns visits to tellers
+    of old stories. He describes audiences gathering to enjoy these stories. He then
+    introduces MacPhie, an old story man in South Uist, and gives a literal description
+    of MacPhie's location and house, including its peat-and-boulder construction,
+    single room, doors, floor fire, chimney hole, and soot-darkened rafters.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator says his work involved visiting tellers of old stories, hearing
+    their stories, and observing audiences gather to enjoy them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The narrator presents MacPhie as an example of an old story man and says MacPhie
+    was polite to him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: MacPhie lives at the north end of South Uist, where the road ends at a sound
+    that must be forded at ebb tide to reach Benbecula.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: MacPhie's house is described as having double loose-boulder walls with a thick
+    peat layer between them, rounded ends, and a roof resting on the inner wall.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The house has one room, two low doors, a fire on the floor, a chimney hole
+    above it, and rafters hung with black peat reek.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator distinguishes occasional coarse words in storytelling from coarse
+    intention.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Narrator or collector
+  description: The speaker who visits tellers of old stories and hears their stories.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: MacPhie
+  description: An old story man living at the north end of South Uist, described as
+    polite to the narrator.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Story audience
+  description: A goodly audience that often gathered to share and enjoy the stories.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: collector-visitor
+  assigned_to:
+  - fig:1
+  basis: The speaker says he paid visits to tellers of old stories and heard the stories.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: old story man
+  assigned_to:
+  - fig:2
+  basis: MacPhie is introduced as a type of the old story men.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: listening audience
+  assigned_to:
+  - fig:3
+  basis: The passage says an audience often gathered to share the treat and enjoy
+    it.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: hearth fire
+  literal_form: Fire on the floor of MacPhie's one-room house.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Visits to old story tellers
+  summary: The narrator visits old story tellers, hears stories, and observes audiences
+    gathering to enjoy them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: MacPhie's house in South Uist
+  summary: The narrator introduces MacPhie and describes his location and the physical
+    arrangement of his house, including its walls, roof, doors, fire, chimney hole,
+    and rafters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 860-870
+  quote_or_summary: The narrator comments on obscene or coarse material in Highland
+    and English social settings, including hearing music in a parlour when other material
+    could not be obtained from villagers.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 871-880
+  quote_or_summary: The narrator says his work concerned visits to tellers of old
+    stories; he paid visits, heard stories, and audiences gathered and enjoyed them.
+    He adds that occasional coarse words were not coarsely meant.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 881-886
+  quote_or_summary: The narrator introduces MacPhie as an old story man, says he was
+    polite, and locates him at the north end of South Uist near a sound crossed at
+    ebb tide toward Benbecula.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 887-898
+  quote_or_summary: MacPhie's house is described as built with loose-boulder double
+    walls and peat between them, rounded ends, a roof resting on the inner wall, one
+    room, two low doors, a floor fire, a chimney hole, and rafters hung with black
+    peat reek.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is ethnographic and introductory rather than a mythic tale episode.
+    No candidate narrative motif or comparison claim was extracted; only literal figures,
+    setting details, and the attested fire object were recorded.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparative mythology claim is made from this passage because it describes collection context and a storyteller's dwelling rather than a narrative motif sequence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l860-l898
+  passage_sha256=864201257322d3d0b184252da1f73c58d1d101b8dc03cf90d873486c326a11ba
+

@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l4149-l4177
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CHAP. / BIRTH,   INFANCY,  AND    PUBERTY / THE   BAGANDA / CHAP.; lines
+    4149-4177
+  start: '4149'
+  end: '4177'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The national game was wrestling; this was indulged in by men and boys alike;
+    even the King frequently took part in it
+  summary: The passage describes a boys' stick-throwing game and then describes wrestling
+    as the national game, practiced by men and boys and sometimes by the King. Throwing
+    the King was forbidden and potentially punishable by death. Wrestling matches
+    included beer drinking, songs, clapping, and drumming, and a successful wrestler
+    might be rewarded by a chief with a wife.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: In the stick game, a player tried to strike an opponent's stick; failure allowed
+    the other boy to try to break the failed stick.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Skilled players sent their sticks far enough away to avoid danger from opponents.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Wrestling is described as the national game and was practiced by men and boys.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The King sometimes took part in wrestling, but it was not permissible to throw
+    him.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A person who threw the King in wrestling would have been in danger of being
+    put to death.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Wrestling was accompanied by beer drinking, songs, hand-clapping by onlookers,
+    and a drumbeat.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A chief might give a wife to a successful wrestler as a reward for his skill.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: boys playing stick game
+  description: Boys are described as opponents in a stick-throwing game.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: men and boys wrestlers
+  description: Men and boys who participate in wrestling.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: King
+  description: The King sometimes participates in wrestling, but must not be thrown.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: onlookers
+  description: Onlookers clap their hands in time with the drum during wrestling.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: chief
+  description: A chief may reward a successful wrestler with a wife.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: successful wrestler
+  description: A wrestler whose skill in the match has been proved successful.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: wife given as reward
+  description: A wife is given by a chief to a successful wrestler in appreciation
+    of his skill.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: game opponents
+  assigned_to:
+  - fig:1
+  basis: The boys strike at one another's sticks in a competitive game.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wrestling participants
+  assigned_to:
+  - fig:2
+  basis: The passage states that wrestling was practiced by men and boys.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: protected royal participant
+  assigned_to:
+  - fig:3
+  basis: The King may wrestle, but throwing him is forbidden and dangerous.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: rhythmic spectators
+  assigned_to:
+  - fig:4
+  basis: The onlookers clap in time to the drum during the match.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: reward-giving chief
+  assigned_to:
+  - fig:5
+  basis: A chief may give a wife to his successful wrestler.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: rewarded victor
+  assigned_to:
+  - fig:6
+  basis: The chief rewards the man who has proved successful in the match.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: marital reward
+  assigned_to:
+  - fig:7
+  basis: The wife is given in appreciation of the successful wrestler's skill.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sticks
+  literal_form: sticks used in a boys' throwing game
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: drum
+  literal_form: drum beaten during the wrestling match
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: beer
+  literal_form: beer drunk during wrestling
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: wife as reward
+  literal_form: wife given by a chief to a successful wrestler
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Boys' stick-throwing contest
+  summary: Boys throw sticks at opponents' sticks; a failed throw exposes the thrower's
+    stick to a counterblow that may break it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Communal wrestling match
+  summary: Men and boys wrestle, with the King sometimes participating under a rule
+    that he must not be thrown. The match includes beer, songs, clapping, and drumming.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Reward for successful wrestler
+  summary: A chief may reward a successful wrestler by giving him a wife in appreciation
+    of his demonstrated skill.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: competitive stick game with reciprocal risk
+  taxonomy_refs: []
+  basis: The stick game centers on attempting to strike another player's stick, with
+    failure allowing the opponent to retaliate against and possibly break the failed
+    stick.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic game description rather than an explicit mythic
+    motif.
+- id: motif:2
+  label: inviolable royal body in contest
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The King may participate in wrestling, but throwing him is forbidden and
+    potentially punished by death.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link is approximate; the passage states royal protection
+    in a sporting context, not a myth of royal legitimation.
+- id: motif:3
+  label: marital reward for athletic success
+  taxonomy_refs: []
+  basis: A chief may give a wife to the wrestler whose success demonstrates skill.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage presents this as a customary reward; no symbolic or mythic
+    interpretation is stated.
+- id: motif:4
+  label: wrestling accompanied by music, spectators, and drinking
+  taxonomy_refs: []
+  basis: The wrestling match includes beer drinking, songs, hand-clapping, and drumming.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a social performance pattern rather than a clearly mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4149-4155
+  quote_or_summary: In the stick game, one boy throws at an opponent's stick; if he
+    fails, the opponent strikes at the failed stick and tries to break it.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 4155-4158
+  quote_or_summary: '"Those who were the most skilled always sent their sticks flying
+    to a safe distance"'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: 4160-4162
+  quote_or_summary: '"The national game was wrestling; this was indulged in by men
+    and boys alike"'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 4162-4167
+  quote_or_summary: The King frequently took part in wrestling, but throwing him was
+    forbidden and would put the offender in danger of death.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 4168-4173
+  quote_or_summary: Wrestling was accompanied by beer drinking, songs, onlookers clapping,
+    and a drum beaten during the match.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 4173-4177
+  quote_or_summary: A chief whose man succeeded in a match might give him a wife in
+    appreciation of his skill.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a clear ethnographic description of games and wrestling customs.
+    Motif candidates are social-performance patterns rather than explicit mythological
+    motifs. No comparison claims are made because the passage does not itself support
+    cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs apply directly to the literal objects in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l4149-l4177
+  passage_sha256=7237eb0232fa2d9834aa92397e0cdf1b92bc5a342fed14acb5a90f8cc7f4b5b6
+

@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l760-l784
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: BACHELORS' HOUSES / BACHELORS' HOUSES / BACHELORS' HOUSES / BACHELORS' HOUSES;
+    lines 760-784
+  start: '760'
+  end: '784'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes rough-weather limitations of canoe travel, long-distance
+    drifting between island groups, the awe-filled reception of returning voyagers,
+    the narrator's view of such return as nearly miraculous without compass or sextant,
+    and the special laws surrounding such venturers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In rough weather, the passage says there is no alternative but to keep one
+    course until the wind abates or take in all sail and drift.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator connects drifting canoes with the mixture of inhabitants throughout
+    Polynesia and Micronesia.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Canoes full of fishermen are said to have drifted very long distances between
+    island regions, including from the Gilbert and Marshall Islands and from the Carolines
+    toward New Guinea and the Solomons.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A canoe returning with friends, fathers, and husbands after venturing beyond
+    sight of their small world is described as being greeted with emotions close to
+    awe.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator says the return seems almost miraculous because it is made without
+    compass or sextant.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that the lives of these venturers are surrounded by peculiar
+    laws.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: helpless fishermen in drifting canoes
+  description: Fishermen in canoes that have been known to drift long distances between
+    island groups.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: returning friends, fathers, and husbands
+  description: People in a returning canoe who have ventured onto the sea beyond sight
+    of their home world for the common good.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: islanders greeting the return
+  description: Islanders who hail the return of the canoe with emotions almost akin
+    to awe.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: drift-borne fishermen
+  assigned_to:
+  - fig:1
+  basis: The passage says canoes full of fishermen have drifted a thousand miles or
+    more and between island regions.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: sea venturers for the common good
+  assigned_to:
+  - fig:2
+  basis: The passage describes friends, fathers, and husbands who venture onto the
+    vast sea for the common good.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: returning voyagers
+  assigned_to:
+  - fig:2
+  basis: The passage focuses on the return of the canoe and notes that the return
+    is accomplished without compass or sextant.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: awe-filled welcomers
+  assigned_to:
+  - fig:3
+  basis: The islanders are described as hailing the return with emotions almost akin
+    to awe.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: sea or vasty deep
+  literal_form: vasty deep
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sail, mast, and rigging
+  literal_form: mast, rigging, and sail
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: compass and sextant absent from the voyage
+  literal_form: without compass or sextant
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: rough-weather drift and long-distance displacement
+  summary: Rough weather can force a canoe to hold one course or take in sail and
+    drift, and the passage gives examples of fishermen drifting great distances between
+    island regions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: awe-filled return of sea venturers
+  summary: A canoe full of friends, fathers, and husbands returns after venturing
+    beyond sight of home; islanders greet the return with awe, and the narrator calls
+    it nearly miraculous because it occurs without compass or sextant.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: special laws around venturers
+  summary: The narrator concludes that the lives of such sea venturers are surrounded
+    by peculiar laws.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: involuntary drift-voyage across the sea
+  taxonomy_refs: []
+  basis: The passage describes rough weather forcing canoes to drift and gives examples
+    of fishermen drifting long distances between island regions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic travel description rather than a mythic narrative,
+    so this is best treated as a passage-level travel pattern.
+- id: motif:2
+  label: departure beyond the visible home world
+  taxonomy_refs:
+  - departure
+  basis: The venturers are described as going forth on the vast sea beyond sight of
+    their small world for the common good.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes practical voyaging and social response; it does
+    not narrate a formal mythic departure episode.
+- id: motif:3
+  label: awe-marked return of voyagers
+  taxonomy_refs:
+  - return
+  basis: The return of the canoe with friends, fathers, and husbands is hailed with
+    awe and described as nearly miraculous without compass or sextant.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The return is not framed as supernatural within the passage, only as seeming
+    nearly miraculous to the narrator.
+- id: motif:4
+  label: special laws surrounding dangerous venturers
+  taxonomy_refs: []
+  basis: The passage states that the lives of these venturers are hedged about with
+    peculiar laws.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The line is fragmentary and does not specify the laws or their ritual
+    meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 760-765
+  quote_or_summary: "“keep on one course until the wind abates, or else take in all
+    sail and drift.”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 765-768
+  quote_or_summary: The narrator says this drifting helps account for the mixture
+    of inhabitants throughout Polynesia and Micronesia.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 768-773
+  quote_or_summary: Canoes full of fishermen are said to have drifted from the Gilbert
+    and Marshall Islands a thousand miles or more, and from the Carolines toward New
+    Guinea and the Solomons.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 773-779
+  quote_or_summary: The return of a canoe full of friends, fathers, and husbands who
+    ventured onto the sea beyond sight of their world is hailed by islanders with
+    emotions close to awe.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 779-782
+  quote_or_summary: "“little short of a miracle” because the return is effected “without
+    compass or sextant.”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: 782-784
+  quote_or_summary: "“the lives of these venturers should be hedged about with peculiar
+    laws”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is observational and ethnographic, not a myth narrative. Literal
+    extraction is relatively secure, while motif candidates are broad and require
+    human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material to another tradition or motif family beyond broad candidate motif tagging.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l760-l784
+  passage_sha256=b2cbc093252e5dbf03714d5936001a16fcc5b54d3d0451a3d148301ea4fc6dd5
+

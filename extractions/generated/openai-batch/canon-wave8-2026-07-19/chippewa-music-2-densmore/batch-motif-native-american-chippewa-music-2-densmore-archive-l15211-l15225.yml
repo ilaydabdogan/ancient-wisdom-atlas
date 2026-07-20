@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l15211-l15225
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: SONGS    CONCERNING    A    BOY  S    FAST / DENS MOKE 1 / GAME    SONGS
+    / E'NIWUB'E; lines 15211-15225
+  start: '15211'
+  end: '15225'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: the identical song which was taught by the manido' to the man who had been
+    dead
+  summary: The analysis states that the song was said to be the same song taught by
+    a manido' to a man who had been dead. No words were recorded. The passage describes
+    rhythmic relations between drum and voice and explains a game-song practice in
+    which the song stops when players make a guess, the drum beats rapidly while the
+    score is counted, and the song then resumes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The song is described as the identical song taught by the manido' to a man
+    who had been dead.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: No words were recorded for the song.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The drum and voice have the same metric unit, but the drum remains in advance
+    of the voice and seems to urge it forward.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The song may stop when players make a guess in the game, while the drum beats
+    rapidly and the score is counted.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The singer illustrated the practice by interrupting the song with an exclamation,
+    beating the drum rapidly, and then resuming the song from the first measure.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: manido'
+  description: A being said to have taught the song to the man who had been dead.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man who had been dead
+  description: A man to whom the manido' is said to have taught the song.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: singer
+  description: The singer who described and demonstrated the game-song interruption
+    practice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: players
+  description: Players in the game who make a guess, after which the song stops and
+    the score is counted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: supernatural song teacher
+  assigned_to:
+  - fig:1
+  basis: The manido' is said to have taught the song.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dead or formerly dead song recipient
+  assigned_to:
+  - fig:2
+  basis: The man is described as having been dead and as receiving the song from the
+    manido'.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: performer and demonstrator
+  assigned_to:
+  - fig:3
+  basis: The singer stated the custom and demonstrated it by interrupting and resuming
+    the song.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: game participants
+  assigned_to:
+  - fig:4
+  basis: The players make a guess in the game, triggering the stopping of the song
+    and rapid drumbeat.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: song
+  literal_form: A song said to have been taught by the manido' to the man who had
+    been dead.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: drum
+  literal_form: A drum that shares the voice's metric unit, stays in advance of the
+    voice, and is beaten rapidly while the score is counted.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: voice
+  literal_form: The sung voice in the performance, metrically paired with the drum.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: score counting
+  literal_form: The counting of the score after players make a guess, accompanied
+    by rapid drum beating.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Manido' teaches the song
+  summary: The passage reports that the song was said to be the same song taught by
+    a manido' to a man who had been dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Game-song interruption and scoring
+  summary: When players make a guess in the game, the song stops, the drum beats rapidly
+    while the score is counted, and the song may then resume.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: supernatural being teaches a song to a dead or formerly dead man
+  taxonomy_refs:
+  - death_rebirth
+  basis: The song is explicitly said to have been taught by a manido' to a man who
+    had been dead.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not narrate the death, return, or circumstances of instruction;
+    the death_rebirth taxonomy reference is therefore tentative.
+- id: motif:2
+  label: ritualized game performance with song interruption and rapid drumbeat
+  taxonomy_refs: []
+  basis: The singer states that in the game the song stops when players guess, the
+    drum beats rapidly while the score is counted, and the song resumes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a performance-pattern motif rather than a myth narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15211-15213
+  quote_or_summary: "“the identical song which was taught by the manido' to the man
+    who had been dead”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 15212-15213
+  quote_or_summary: "“No words were recorded.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 15213-15215
+  quote_or_summary: The drum and voice share the same metric unit, but the drum is
+    constantly ahead of the voice and appears to urge it forward.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 15219-15221
+  quote_or_summary: The singer said that when players make a guess in the game, the
+    song customarily stops at once and the drum beats rapidly while the score is counted.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 15221-15225
+  quote_or_summary: The singer demonstrated by interrupting the song with an exclamation,
+    rapidly beating the drum for several seconds, and then resuming the song at the
+    first measure; this appears in the phonographic record.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Mythic motif assignment is limited
+    because the passage provides only a brief reference to a manido' teaching a song
+    to a man who had been dead, without the surrounding narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material with another motif family, text, or tradition.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l15211-l15225
+  passage_sha256=8e5c08ea8f6828e78bc13de0159861cd90af16ce0cf138e2f9910ce7574de455
+

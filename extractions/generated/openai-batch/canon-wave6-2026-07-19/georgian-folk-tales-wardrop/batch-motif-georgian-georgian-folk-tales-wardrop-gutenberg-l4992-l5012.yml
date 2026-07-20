@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.georgian-georgian-folk-tales-wardrop-gutenberg-l4992-l5012
+source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+passage_locator:
+  label: THE STRONG MAN AND THE DWARF / THE COUNTRYMAN AND THE MERCHANT / THE KING
+    AND THE SAGE / THE KING'S SON; lines 4992-5012
+  start: '4992'
+  end: '5012'
+  translation: Georgian Folk Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A king''s infant son is sent to a smith''s wife to nurse. The woman substitutes
+    her own child for the king''s child by placing them in different cradles. Years
+    later, the king tests both boys'' reactions to his forest: the pretended son wants
+    to burn it for charcoal, while the other boy would guard it. The king recognizes
+    the deception and imprisons the smith''s wife.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A king sends his son to be nursed by a smith's wife.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The smith's wife places the king's child in a common cradle and her own son
+    in the royal cradle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Years later, the king takes the changeling to court and brings the changeling's
+    foster-brother too.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the king's forest, the pretended son says the wood should be burned to
+    make charcoal.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The other boy says the forest should not be injured and that guards should
+    be doubled.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The king concludes that the smith's wife tried to cheat him and has her imprisoned.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: king
+  description: A king with a son; he later tests the two boys in his favourite forest
+    and recognizes the attempted deception.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: king's son / other boy
+  description: The king's true child, placed in a common cradle by the smith's wife;
+    later called the other boy, he says the forest should be guarded from injury.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: smith's wife's son / changeling / pretended son
+  description: The smith's wife's own son, placed in the royal cradle and later taken
+    to court as the king's pretended son; he proposes burning the forest for charcoal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: smith's wife
+  description: A crafty woman who nurses the king's child, exchanges the two boys'
+    cradles, and is later imprisoned by the king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: king and father
+  assigned_to:
+  - fig:1
+  basis: He has a son and later acts as king over the court and forest.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: displaced royal child
+  assigned_to:
+  - fig:2
+  basis: He is the king's child placed in a common cradle instead of the royal cradle.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: changeling or pretended son
+  assigned_to:
+  - fig:3
+  basis: He is the smith's wife's son placed in the royal cradle and later called
+    the changeling and pretended son.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: prudent forest guardian
+  assigned_to:
+  - fig:2
+  basis: He says he would double the guards so that the forest should not be injured.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: tester and judge
+  assigned_to:
+  - fig:1
+  basis: He asks both boys what they would do with the forest, then recognizes the
+    attempted cheating.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: deceptive foster mother
+  assigned_to:
+  - fig:4
+  basis: She exchanges the children in the cradles and is said to have tried to cheat
+    the king.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: contrasting cradles
+  literal_form: a common cradle and a gorgeous royal cradle
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: king's forest
+  literal_form: the king's favourite forest / magnificent wood
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: charcoal from burned wood
+  literal_form: proposed burning of the forest to make charcoal
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: forest guards
+  literal_form: guards doubled so the forest should not be injured
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: infant substitution at the nurse's house
+  summary: The smith's wife nurses the king's son but puts him in a common cradle
+    and her own son in the royal cradle.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: forest test of the two boys
+  summary: The king asks each boy what he thinks of the forest. The pretended son
+    wants to burn it for charcoal, while the other boy would protect it with more
+    guards.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: recognition of deception and punishment
+  summary: After the boys' answers, the king sees that the smith's wife tried to cheat
+    him and puts her in prison.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal child substituted by foster mother's child
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The foster mother exchanges the king's child and her own son between common
+    and royal cradles, causing her son to be treated as the king's child.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief substitution episode and does not narrate
+    the true son's later restoration beyond the king recognizing the deceit.
+- id: motif:2
+  label: true status recognized through contrasting answers
+  taxonomy_refs:
+  - royal_legitimacy
+  - wisdom
+  basis: The king tests both boys with the same question about the forest; the pretended
+    son gives a destructive, trade-oriented answer, while the other boy gives a protective
+    answer, leading the king to identify the cheating.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text does not explicitly state that the boys' answers prove blood
+    identity; it only says the king then saw the attempted deception.
+- id: motif:3
+  label: deceiver punished after exposure
+  taxonomy_refs: []
+  basis: Once the king recognizes the smith's wife's attempted cheating, he puts her
+    in prison.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The punishment is brief and not elaborated into a larger judicial episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4992-4996
+  quote_or_summary: A king sends his son to be nursed by a smith's wife; she puts
+    the king's child in a common cradle and her own son in the royal cradle.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 4996-4998
+  quote_or_summary: Years later, the king takes the changeling to court and brings
+    his foster-brother with him.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 4998-5005
+  quote_or_summary: In the favourite forest, the king asks the pretended son about
+    the place; the boy says it would make a fine lot of charcoal if burned.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 5006-5010
+  quote_or_summary: The other boy says there could not be a better forest and that
+    he would double the guards so it should not be injured.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 5010-5011
+  quote_or_summary: The king sees that the smith's wife tried to cheat him and puts
+    her in prison.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the provided passage. Motif labels involving
+    legitimacy and wisdom require human review because the passage implies recognition
+    through the boys' answers but does not explicitly theorize the test.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself name an external parallel or nearby corpus tradition.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:georgian-georgian-folk-tales-wardrop-gutenberg__l4992-l5012
+  passage_sha256=77352a74d5b972d2a4f9fb265b6e29718e51e7ed77cf415766db9ac45bf3234a
+

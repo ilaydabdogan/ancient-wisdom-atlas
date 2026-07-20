@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.caucasian-folk-tales-dirr-menzies-archive-l1078-l1122
+source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+passage_locator:
+  label: CAUCASIAN FOLK-TALES / CINDER-STICK 7 / CINDER-STICK 9 / IO FAIRY TALES;
+    lines 1078-1122
+  start: '1078'
+  end: '1122'
+  translation: Caucasian Folk-Tales
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In the opening of the Io fairy tale “The Parasite,” a lazy beggar loses
+    the patience of his neighbours, appeals to God for sustenance, is mocked by local
+    boys, decides to climb a high mountain to be nearer God and away from ridicule,
+    and meets a wolf on the way.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man called the Parasite is described as lazy and stupid, owning nothing
+    and refusing to work.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Parasite begs food, drink, and other things from different people from
+    day to day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Good-natured neighbours help him despite disliking his begging, but eventually
+    become tired of him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Parasite complains that people have no sympathy and says he will turn
+    to one more gracious than they are.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: He hides himself, raises his hands toward heaven, and asks God, addressed
+    as Creator of the World, for something to live on.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Nothing comes to him after he repeats the prayer a second and third time.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Boys of the neighbourhood mock him, telling him to open his mouth wide and
+    laughing at him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Ashamed, the Parasite decides to climb a high mountain, reasoning that he
+    will be nearer God and away from mockery.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: On the way, he meets a wolf, and the wolf asks where he is going.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The Parasite
+  description: A lazy, stupid, propertyless man who refuses work, begs from others,
+    prays to God for sustenance, decides to climb a mountain, and encounters a wolf.
+  role_refs:
+  - role:1
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Neighbours
+  description: Good-natured neighbours who help the Parasite for a time but become
+    tired of his begging.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Boys of the neighbourhood
+  description: Boys who stand nearby, laugh at the Parasite, and tell him to open
+    his mouth wide.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: God / Creator of the World
+  description: The divine figure whom the Parasite addresses as the one who made him
+    and as Creator of the World.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Wolf
+  description: A wolf met by the Parasite on the way, who asks the man where he is
+    going.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: indigent beggar
+  assigned_to:
+  - fig:1
+  basis: He owns nothing, refuses work, and begs food, drink, and other items.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine supplicant
+  assigned_to:
+  - fig:1
+  basis: He raises his hands toward heaven and prays to God for something to live
+    on.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: reluctant helpers
+  assigned_to:
+  - fig:2
+  basis: They help him despite disliking his begging, then grow tired of him.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mockers
+  assigned_to:
+  - fig:3
+  basis: They laugh at the Parasite and mock his prayer.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: invoked divine provider
+  assigned_to:
+  - fig:4
+  basis: The Parasite turns from people to God, whom he calls Creator of the World,
+    seeking sustenance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: animal interlocutor
+  assigned_to:
+  - fig:5
+  basis: The wolf speaks to the man and asks where he is going.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: mountain-bound seeker
+  assigned_to:
+  - fig:1
+  basis: He decides to climb a high mountain to be nearer God and away from people
+    laughing at him.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: raised hands toward heaven
+  literal_form: Gesture of raising hands toward heaven during prayer
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: high mountain
+  literal_form: A high mountain to be climbed in order to be nearer God
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: The Parasite’s life among neighbours
+  summary: The Parasite lives by begging from neighbours and others, refuses work,
+    and eventually exhausts their patience.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prayer for sustenance
+  summary: After deciding people are useless to him, the Parasite hides, raises his
+    hands toward heaven, and asks God for something to live on, but nothing comes
+    after repeated prayers.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Mockery by local boys
+  summary: Boys nearby laugh at the Parasite and mock his prayer by telling him to
+    open his mouth wide.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Decision to climb the mountain and meeting the wolf
+  summary: Ashamed by the mockery, the Parasite resolves to climb a high mountain
+    to be nearer God and avoid ridicule; on the way he meets a speaking wolf.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: socially rejected beggar petitions deity for sustenance
+  taxonomy_refs: []
+  basis: The Parasite’s neighbours tire of his begging, after which he turns from
+    human help to God and asks for something to live on.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the opening of the tale and does not yet show the
+    outcome of the petition.
+- id: motif:2
+  label: ascent toward divine proximity
+  taxonomy_refs:
+  - ascent
+  basis: The Parasite decides to climb a high mountain because he believes he will
+    be nearer God there.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The ascent is stated as an intention at this point; the passage does not
+    show the climb completed.
+- id: motif:3
+  label: speaking animal encountered on a journey
+  taxonomy_refs: []
+  basis: On his way to the mountain, the Parasite meets a wolf who speaks and asks
+    where he is going.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage ends before the wolf’s function in the tale is developed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1078-1086
+  quote_or_summary: A man is introduced as lazy and stupid; he owns nothing, refuses
+    work, and begs food, drink, and other things from different people.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: lines 1087-1095
+  quote_or_summary: His good-natured neighbours help him although his begging displeases
+    them; eventually everyone becomes tired of him.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: public_domain
+- id: ev:3
+  type: quote
+  locator: lines 1096-1101
+  quote_or_summary: "“People are no use,” he complained, “they have not even sympathy
+    for a poor wretch. I will rather betake myself to Him who is more gracious than
+    they!”"
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: lines 1102-1106
+  quote_or_summary: He hides, raises his hands toward heaven, and asks God, whom he
+    addresses as his maker and Creator of the World, to give him something to live
+    on.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: lines 1107-1110
+  quote_or_summary: Nothing comes, and he repeats his prayer a second and a third
+    time.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: lines 1111-1115
+  quote_or_summary: Nearby boys laugh at him and tell him to open his mouth wide.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: public_domain
+- id: ev:7
+  type: summary
+  locator: lines 1115-1119
+  quote_or_summary: Ashamed, the Parasite decides to climb a high mountain, where
+    he thinks he will be nearer God and free from mockery.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: public_domain
+- id: ev:8
+  type: summary
+  locator: lines 1120-1122
+  quote_or_summary: On the way he meets a wolf, and the wolf asks the man where he
+    is going.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the supplied passage. Motif labels
+    are provisional because the passage is an opening fragment and does not yet reveal
+    outcomes or broader tale structure. No comparison claims are made because the
+    passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. The passage locator label appears to include neighbouring tale labels, but extraction is based on the provided text headed “IO FAIRY TALES / 3. THE PARASITE.”
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:caucasian-folk-tales-dirr-menzies-archive__l1078-l1122
+  passage_sha256=4f7e4dcee2f7aad852f441ee4d75cdf201cd81176213c7557ac8496c231a6239
+

@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l37775-l37956
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: TOTEM NAMES / MAMMALS / APPENDIX B / APPENDIX B; lines 37775-37956
+  start: '37775'
+  end: '37956'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Appendix passage cataloguing lizard, turtle, amphibian, fish, insect, mollusc,
+    and plant names associated with tribal or totemic groups, with notes on whether
+    they are eaten and on some non-food uses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an appendix catalogue arranged by natural classes, including
+    lizards, turtles, amphibia, fish, insects, molluscs, and plants.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:2
+  text: The lizard section lists multiple lizard, goanna, skink, and related names
+    associated with tribes such as Arunta, Unmatjera, Kaitish, Mara, Urabunna, Warramunga,
+    and Umbaia, and repeatedly marks them as eaten.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The turtle section states that freshwater turtles occur in water-holes along
+    creeks running into the Gulf of Carpentaria, and that the authors know of a freshwater
+    turtle totemic group in the Mara tribe; two salt-water turtles in the Mara tribe
+    also give names to totem groups and are eaten.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A common burrowing frog found in slightly damp river sand gives its name to
+    an important totemic group in the Arunta tribe and is eaten.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fish section lists barramunda, groper, freshwater fish, salt-water mullet,
+    sharks, and stingray with tribal associations, and marks these fish entries as
+    eaten.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The insect section distinguishes insects or insect-related foods that are
+    eaten from those not eaten; examples include bee not eaten while its honey is
+    eaten, larvae or grubs eaten, and several flies or mosquitoes not eaten.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The mollusc section states that Pindi-pindi, a pearl oyster in the Anula tribe,
+    gives its name to a totemic group, is eaten, and has a shell used for ornaments;
+    it also notes that mussels are important food in some places but were not found
+    by the authors as a totem group designation.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The plant section lists seeds, yams, berries, Hakea flowers, a bean tree,
+    and other plant resources associated with tribal names, with uses including food,
+    drink, and implement-making.
+  category: attribute
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Arunta tribe
+  description: Named in several catalogue entries; the passage explicitly says a common
+    frog gives its name to an important totemic group in the Arunta tribe.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Mara tribe
+  description: Explicitly named as the tribe in which the authors know of a freshwater
+    turtle totemic group and two salt-water turtle totem groups; also appears in fish,
+    insect, and plant entries.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Anula tribe
+  description: Named in fish entries and as the tribe with the Pindi-pindi pearl-oyster
+    totemic group; also appears in the Kulpu honeycomb entry.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Tribe containing named totemic group or groups
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage explicitly connects the Arunta tribe with a frog totemic group,
+    the Mara tribe with turtle totemic groups, and the Anula tribe with the Pindi-pindi
+    pearl-oyster totemic group.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: Tribe associated with listed edible species or resources
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The catalogue repeatedly links these tribes with animal, insect, mollusc,
+    or plant entries and notes edible status or resource use.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: Lizards and goannas
+  literal_form: Lizards, goannas, skinks, and related named species in the lizard
+    list.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Turtles
+  literal_form: Freshwater turtle and salt-water turtles named Nurtilan-'a and Thuriutu.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Burrowing frog
+  literal_form: A common frog found burrowing in slightly damp river sand.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Fish
+  literal_form: Barramunda, groper, freshwater fish, salt-water mullet, sharks, and
+    stingray.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Insects and insect products
+  literal_form: Bee, honey, blowfly, ants, flies, honeycomb, grubs, larvae, mosquitoes,
+    caterpillar, and related insect entries.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Pearl oyster and shell
+  literal_form: Pindi-pindi pearl oyster and its shell used for ornaments.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Plant foods and materials
+  literal_form: Acacia seeds, grass seeds, Hakea flowers, bean tree, fruits, yams,
+    berries, and other plant resources.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:8
+  label: Water and water-holes
+  literal_form: Water-holes along creeks, freshwater and salt-water distinctions,
+    and water used for steeping flowers to make a drink.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Totemic groups named from animal or plant species
+  taxonomy_refs: []
+  basis: The passage is presented as a totem-name catalogue and explicitly states
+    that turtle, frog, and pearl-oyster names give names to totemic groups; the surrounding
+    entries list further animals, insects, molluscs, and plants with tribal associations
+    and edible status.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The appendix is catalogic rather than narrative; it does not provide myths
+    explaining the origins or ritual meanings of the totemic names.
+- id: motif:2
+  label: Differentiated consumption of totem-named beings and their products
+  taxonomy_refs: []
+  basis: Many entries are marked eaten or not eaten, and the insect section gives
+    distinctions such as bee not eaten while honey is eaten, ant larvae eaten, and
+    several flies or mosquitoes not eaten.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage records dietary status but does not state whether non-consumption
+    is ritual taboo, practical preference, or ordinary diet classification.
+- id: motif:3
+  label: Natural species as food, drink, ornament, and implement resources
+  taxonomy_refs: []
+  basis: The passage notes pearl-oyster shell used for ornaments, Hakea flowers steeped
+    in water for drink, bean tree used for implements, and many animal or plant entries
+    as eaten.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: This is a resource-use pattern in the catalogue; the passage does not
+    frame it as a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 37775-37803
+  quote_or_summary: Lizards section under Appendix B lists many lizard/goanna/skink
+    entries with tribal associations, often including Arunta, Unmatjera, Kaitish,
+    Mara, Urabunna, Warramunga, and Umbaia, and marks the entries as eaten.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 37805-37811
+  quote_or_summary: Turtle section says freshwater turtles occur in water-holes along
+    creeks running to the Gulf of Carpentaria; a freshwater turtle totemic group is
+    known in the Mara tribe, and two salt-water turtles named Nurtilan-'a and Thuriutu
+    give names to totem groups and are eaten.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 37813-37817
+  quote_or_summary: A common frog, found burrowing in slightly damp river sand, gives
+    its name to an important totemic group in the Arunta tribe and is eaten.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 37819-37835
+  quote_or_summary: Fish section lists barramunda, groper, freshwater fish, salt-water
+    mullet, sharks, and stingray with associations including Anula, Mara, and Arunta,
+    and marks the fish entries as eaten.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 37837-37879
+  quote_or_summary: Insect section lists bees, flies, ants, honeycombs, grubs, larvae,
+    mosquitoes, caterpillars, and related entries; some are not eaten, while products
+    such as honey, honeycomb, larvae, or grubs are eaten in several entries.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 37881-37890
+  quote_or_summary: Mollusc section says the Pindi-pindi pearl oyster in the Anula
+    tribe gives its name to a totemic group, is eaten, and has a shell much used for
+    ornaments; mussels are important food in some places but were not found as a totem
+    group designation.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: 37892-37956
+  quote_or_summary: Plant section lists acacia seeds, grass seeds, yams, berries,
+    Hakea, bean tree, and other plants with tribal associations and uses, many being
+    marked eaten.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: 37901-37903; 37951-37953
+  quote_or_summary: The passage notes Hakea flowers used for making a drink and Unjiamba
+    flowers steeped in water to derive a favourite drink.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:9
+  type: summary
+  locator: 37902-37903
+  quote_or_summary: The Atjurita bean tree is described as much used for making implements.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The descriptive catalogue supports extraction of named species, tribal associations,
+    consumption status, and resource uses. Motif labels remain provisional because
+    the passage contains no narrative myth or ritual explanation, and it supports
+    no intertextual comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes or passage-supported comparison claims were extracted. Symbols are treated as literal beings, materials, or places named in the catalogue, not as inferred symbolic interpretations.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l37775-l37956
+  passage_sha256=685d7c02c1ef666703333c9991fb5840570a0ae78359ac2fb7950a9a7d6f1cd2
+

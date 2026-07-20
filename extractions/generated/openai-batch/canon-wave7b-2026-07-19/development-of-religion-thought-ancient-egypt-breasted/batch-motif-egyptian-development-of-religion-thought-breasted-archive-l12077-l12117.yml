@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.egyptian-development-of-religion-thought-breasted-archive-l12077-l12117
+source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+passage_locator:
+  label: UNTVERSAL SPLENDOR AND POWER OF ATON / NIGHT / THE IMPERIAL AGE AND MONOTHEISM
+    325 / DAY AND HAN; lines 12077-12117
+  start: '12077'
+  end: '12117'
+  translation: Development of Religion and Thought in Ancient Egypt
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts night, when lions emerge, serpents sting, darkness
+    and silence prevail, and the maker rests in the horizon, with day, when Aton rises,
+    shines, sends rays, drives away darkness, raises people, receives adoration, and
+    the world resumes work.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Lions come forth from their dens.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Serpents are described as stinging.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Darkness and silence characterize the world while the maker rests in the horizon.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The earth becomes bright when the addressed deity rises in the horizon and
+    shines as Aton by day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Aton drives away darkness by sending forth rays.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Two Lands are described as being in daily festivity after Aton's rising.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: People awake, stand on their feet, and are described as raised up.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: People bathe their limbs, take their clothing, lift their arms in adoration
+    to the dawning, and then do their work throughout the world.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Aton / addressed solar deity
+  description: The deity addressed as Aton rises in the horizon, shines by day, sends
+    rays, drives away darkness, raises people up, and is linked in the passage with
+    the maker resting in the horizon.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Lions
+  description: Lions come forth from their dens during the night section of the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Serpents
+  description: Serpents are described as stinging during the night section of the
+    passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: People of the Two Lands / the world
+  description: People awaken, stand, bathe, dress, raise their arms in adoration to
+    the dawning, and do their work.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: solar illuminator
+  assigned_to:
+  - fig:1
+  basis: Aton rises in the horizon, shines by day, sends rays, and drives away darkness.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: maker associated with the horizon
+  assigned_to:
+  - fig:1
+  basis: The passage states that the one who made them rests in the horizon, followed
+    by address to Aton rising in the horizon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: nocturnal dangerous creatures
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Lions emerge from dens and serpents sting in the night-darkness context.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: worshippers and workers
+  assigned_to:
+  - fig:4
+  basis: People lift their arms in adoration to the dawning and then do their work.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: horizon
+  literal_form: horizon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: rays of Aton
+  literal_form: rays
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: darkness
+  literal_form: darkness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: serpent
+  literal_form: serpents
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: uplifted arms
+  literal_form: arms uplifted in adoration
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Night danger and silence
+  summary: Lions emerge, serpents sting, darkness is present, the world is silent,
+    and the maker rests in the horizon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Aton's daybreak
+  summary: Aton rises in the horizon, shines by day, sends rays, and drives darkness
+    away.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Awakening, adoration, and work
+  summary: The Two Lands rejoice daily; people awake, stand, bathe, dress, adore the
+    dawning with uplifted arms, and perform their work in the world.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Night as danger and silence
+  taxonomy_refs:
+  - chaos
+  - serpent
+  basis: The night section associates darkness and silence with lions emerging and
+    serpents stinging.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a brief hymn-like description, not a full chaos-combat
+    narrative; the serpent reference is literal and limited.
+- id: motif:2
+  label: Solar dawn dispelling darkness
+  taxonomy_refs:
+  - duality
+  basis: Aton rises and shines by day, sends rays, and drives away darkness, contrasting
+    with the preceding dark and silent night.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference captures day/night opposition broadly; the passage
+    itself is specifically about Aton's daily rising.
+- id: motif:3
+  label: Solar rising restores human activity and worship
+  taxonomy_refs: []
+  basis: After Aton's rising, the Two Lands are festive; people awaken, stand, bathe,
+    dress, adore the dawning, and do their work.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader ritual sequence beyond the hymn's stated actions should be
+    inferred.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a functional comparison with a day/night duality pattern:
+    night is dark, silent, and dangerous, while Aton''s daybreak brings brightness,
+    worship, and activity.'
+  claim_level: same_function
+  target: duality motif family, especially day/night contrast
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a motif-level functional comparison only; the passage does
+    not provide evidence for historical contact, common inheritance, or a specific
+    external parallel.
+- id: claim:2
+  claim: The serpent element can be cautiously compared with a serpent-as-danger motif,
+    because serpents are explicitly described as stinging in the night section.
+  claim_level: same_function
+  target: serpent motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The serpent is not developed as a named antagonist or narrative agent;
+    it appears only as one nocturnal danger among others.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12080-12083
+  quote_or_summary: '"Every lion cometh forth from his den, / All serpents, they sting."'
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 12084-12090
+  quote_or_summary: '"Darkness . . . / The world is in silence, / He that made them
+    resteth in hb horizon."'
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 12094-12101
+  quote_or_summary: '"Bright is the earth when thou risest in the horizon. / When
+    thou shinest as Aton by day / Thou drivest away the darkness. / When thou sendest
+    forth thy rays."'
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 12102-12110
+  quote_or_summary: '"The Two Lands (Egypt) are in daily festivity. / Awake and standing
+    upon their feet / When thou hast raised them up."'
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 12111-12117
+  quote_or_summary: '"Their limbs bathed, they take their clothing. / Their arms uplifted
+    in adoration to thy dawning. / (Then) in all the world they do their work."'
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is brief and contains OCR-like irregularities, including 'hb
+    horizon' and the heading 'DAY AND HAN'. Literal extraction is relatively clear,
+    but motif and comparison assignments require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied available refs and are applied cautiously.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-development-of-religion-thought-breasted-archive__l12077-l12117
+  passage_sha256=ece65ced9092d793cfcf2858a98fc2f10887e29bdcbf8c4994737da833186576
+

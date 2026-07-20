@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l821-l858
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: INTRODUCTION. XV / INTRODUCTION. XV11 / XV111 INTRODUCTION. / XX INTRODUCTION.;
+    lines 821-858
+  start: '821'
+  end: '858'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The collector describes Gaelic storytelling practice in the West Highlands:
+    clergy in some places had condemned it, causing tales to fall into disuse, while
+    elsewhere a skilled storyteller’s house served as a winter evening gathering place.
+    He argues that popular romance is not harmful and lists recurring story patterns,
+    including a mother’s blessing leading to success, the poor becoming princes, the
+    weak and courageous overcoming giants, and wisdom excelling brute force.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In some places, clergy had condemned the practice of storytelling, and it
+    had fallen into disuse there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The collector says stories seemed almost exterminated in some islands, though
+    he believes they were only “buried alive.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In places where storytelling is not forbidden, a man famed as good at “sgialachdan”
+    is found in every cluster of houses.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The storyteller’s house is described as a winter evening resort.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The collector says he visited these storytellers and listened with wonder
+    at the memory of untaught old men.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage lists tale patterns in which a mother’s blessing, when well earned,
+    leads to success.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage lists tale patterns in which the poor rise to be princes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage lists tale patterns in which the weak and courageous overcome
+    giants.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The passage lists tale patterns in which wisdom excels brute force.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The collector contrasts storytelling with a solitary whisky bottle, sleep,
+    or grim silence as alternatives if tales are forbidden and Gaelic books are not
+    provided.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: clergy
+  description: Religious authorities who had condemned the storytelling practice in
+    some places.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man famed as good at sgialachdan
+  description: A local man in a cluster of houses known as skilled at stories, whose
+    house is a winter evening resort.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: untaught old men
+  description: Old men whose extraordinary memory the collector says he heard with
+    wonder.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: mother
+  description: A mother whose well-earned blessing is said to lead to success in stories.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: poor
+  description: Poor people in stories who rise to be princes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: weak and courageous
+  description: Weak and courageous figures in stories who overcome giants.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: giants
+  description: Giants overcome by the weak and courageous in stories.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: condemner of storytelling practice
+  assigned_to:
+  - fig:1
+  basis: The clergy are said to have condemned the practice in some places.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: oral storyteller or memory-bearer
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage describes men famed for stories and old men with extraordinary
+    memory.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: giver of blessing
+  assigned_to:
+  - fig:4
+  basis: The mother’s blessing is described as leading to success when well earned.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: socially elevated figure
+  assigned_to:
+  - fig:5
+  basis: The poor are described as rising to be princes in stories.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: underdog victor
+  assigned_to:
+  - fig:6
+  basis: The weak and courageous are described as overcoming giants.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: defeated giant opponent
+  assigned_to:
+  - fig:7
+  basis: Giants are described as overcome by the weak and courageous.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: suppression and survival of storytelling
+  summary: Storytelling is condemned by clergy in some places and falls into disuse,
+    while the collector believes the stories are not dead but hidden or inactive.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: winter evening storytelling gathering
+  summary: Where storytelling is allowed, a skilled storyteller’s house becomes a
+    winter evening gathering place, and the collector listens to old men with notable
+    memory.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: examples of popular romance patterns
+  summary: The collector summarizes tale patterns involving maternal blessing, social
+    elevation, underdogs overcoming giants, and wisdom surpassing brute force.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: well-earned maternal blessing leads to success
+  taxonomy_refs: []
+  basis: The passage explicitly says stories include cases where a mother’s blessing,
+    well earned, leads to success.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a collector’s generalized description of tales, not a full narrative
+    instance.
+- id: motif:2
+  label: poor person rises to princely status
+  taxonomy_refs: []
+  basis: The passage explicitly says stories include cases where the poor rise to
+    be princes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No specific tale episode is given in this passage.
+- id: motif:3
+  label: weak and courageous overcome giants
+  taxonomy_refs: []
+  basis: The passage explicitly says stories include cases where the weak and courageous
+    overcome giants.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage provides only a summary pattern without details of the contest.
+- id: motif:4
+  label: wisdom excels brute force
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly identifies stories in which wisdom exceeds brute force.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The form of wisdom and the narrative situation are not specified.
+- id: motif:5
+  label: oral storytelling preserved around a winter household gathering
+  taxonomy_refs: []
+  basis: The passage describes local storytelling continuing where not forbidden,
+    centered on a known storyteller’s house during winter evenings.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a social performance pattern rather than a mythic narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 821-826
+  quote_or_summary: "“The clergy, in some places, had condemned the practice, and
+    there it had fallen into disuse”; stories seemed “almost exterminated” in some
+    islands but “only buried alive.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 826-834
+  quote_or_summary: Where storytelling is not forbidden, “in every cluster of houses”
+    there is a man famed as “good at sgialachdan,” whose house is a “winter evening’s
+    resort”; the collector listened to “untaught old men” with extraordinary memory.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 847-853
+  quote_or_summary: Stories are described as ones “in which a mother's blessing, well
+    earned, leads to success”; “the poor rise to be princes”; “the weak and courageous
+    overcome giants”; and “wisdom excels brute force.”
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 853-858
+  quote_or_summary: The collector says such stories are a better pastime than a solitary
+    whisky bottle, sleep, or grim silence when tales are forbidden and Gaelic books
+    are absent.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit about several recurring tale patterns, but it is
+    introductory and generalized rather than a specific tale episode. No comparison
+    claims were added because the passage itself does not compare these patterns to
+    another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the provided available symbol list are directly present as motif-bearing literal forms in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l821-l858
+  passage_sha256=5d5e506161e43b9cec99eba97ada5ec8a379de56ccbc0bd731c1de477368e019
+

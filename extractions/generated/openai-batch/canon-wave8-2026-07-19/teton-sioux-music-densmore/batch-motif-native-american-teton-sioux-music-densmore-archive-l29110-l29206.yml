@@ -1,0 +1,231 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l29110-l29206
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUBEAU   OF  AMERICAN  ETHNOLOGY / IIS!  U  CJ / BUBEAU  OF  AMEBICAN  ETHNOLOGY
+    / BUREAU  OF  AMERICAN  ETHNOLOGY  BULLETIN  61    PLATE  65; lines 29110-29206
+  start: '29110'
+  end: '29206'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: Eagle Shield said that he sang the following song when he killed one of the
+    Crows, and that it is a song of the Miwa'tani society.
+  summary: The passage gives a war-related song attributed to Eagle Shield. It states
+    that Crows were pursued, surrounded, and mostly killed; Eagle Shield sang the
+    song after killing one Crow. The song is identified as a Miwa'tani society song,
+    titled "I Took Courage," with text glossed as Crow Indians rushing to fight and
+    the Miwa'tani taking courage. A musical analysis follows.
+  language: English with Lakota song text and English glosses
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the Crows were pursued, surrounded, and most were killed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eagle Shield said he sang the song when he killed one of the Crows.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The song is identified as a song of the Miwa'tani society.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The song is titled "I Took Courage" and is listed as No. 166, sung by Eagle
+    Shield.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The glossed song text refers to Crow Indians rushing to fight and to the Miwa'tani
+    taking courage.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The musical analysis describes the song's rhythmic units, interval content,
+    major tonality, and melody tones.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eagle Shield
+  description: Named singer who says he sang the song when he killed one of the Crows.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the Crows / Crow Indians
+  description: Group described as pursued, surrounded, mostly killed, and rushing
+    to fight in the song gloss.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Miwa'tani society
+  description: Society to which the song is said to belong; named in the song gloss
+    as taking courage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The song is listed as sung by Eagle Shield.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: warrior who killed an enemy
+  assigned_to:
+  - fig:1
+  basis: Eagle Shield says he sang the song when he killed one of the Crows.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: opposing group in battle context
+  assigned_to:
+  - fig:2
+  basis: The Crows are described as pursued, surrounded, mostly killed, and as rushing
+    to fight in the song gloss.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: war-song society or named ceremonial society
+  assigned_to:
+  - fig:3
+  basis: The song is explicitly identified as a song of the Miwa'tani society, and
+    the gloss says the Miwa'tani took courage.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Crows surrounded and killed
+  summary: In the narrative context, the Crows are pursued, surrounded, and most are
+    killed.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eagle Shield's song after killing a Crow
+  summary: Eagle Shield reports singing a Miwa'tani society song after killing one
+    of the Crows; the song is titled "I Took Courage."
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Song text and musical description
+  summary: The song text is glossed as referring to Crow Indians rushing to fight
+    and the Miwa'tani taking courage, followed by a technical musical analysis.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: warrior courage song after killing an enemy
+  taxonomy_refs: []
+  basis: The passage states that Eagle Shield sang the song when he killed one of
+    the Crows; the song title and gloss emphasize taking courage in a fight.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level pattern label rather than a match to one of the
+    supplied motif-family taxonomy references.
+- id: motif:2
+  label: society-affiliated battle song
+  taxonomy_refs: []
+  basis: The song is identified as belonging to the Miwa'tani society and its gloss
+    refers to a fighting context involving Crow Indians and Miwa'tani courage.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the society's ritual function beyond naming
+    it and associating it with the song.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29110-29115
+  quote_or_summary: The Crows were pursued; they were immediately surrounded, and
+    most were killed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 29116-29120
+  quote_or_summary: Eagle Shield said that he sang the song when he killed one of
+    the Crows, and that it is a song of the Miwa'tani society.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 29122-29130
+  quote_or_summary: The entry gives No. 166, titled "I Took Courage," sung by Eagle
+    Shield; the voice is noted and the drum was not recorded.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 29150-29167
+  quote_or_summary: 'The interlinear gloss gives: Crow Indians; rushing to fight;
+    Miwa''tani; took courage.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 29172-29206
+  quote_or_summary: The analysis describes two similar rhythmic units, an octave ascent
+    at the entrance of the words, interval distribution, major tonality, and melody
+    tones from the major triad and second.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The figures, actions, and song attribution are explicit. Motif labels are
+    descriptive and not linked to the supplied taxonomy because the passage does not
+    support a specific listed motif family. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR artifacts are present in the supplied passage; extraction relies only on readable text and glosses provided.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l29110-l29206
+  passage_sha256=3777a1a807f21de02fe91615fbeecc43d1895f6a33ebeafc60456b7f39f3262b
+

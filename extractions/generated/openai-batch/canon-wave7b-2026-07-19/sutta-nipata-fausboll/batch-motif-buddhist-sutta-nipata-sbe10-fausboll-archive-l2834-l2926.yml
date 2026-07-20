@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.buddhist-sutta-nipata-sbe10-fausboll-archive-l2834-l2926
+source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+passage_locator:
+  label: 'CHAPTERS: / THE TWIN-VERSES. / TWIN-VERSES. 5 / TWIN-VERSES. 7; lines 2834-2926'
+  start: '2834'
+  end: '2926'
+  translation: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Paired verses compare passion entering an unreflecting mind to rain entering
+    a poorly thatched house, contrast evil and virtuous persons in this world and
+    the next, and contrast mere recitation of the law with practiced renunciation,
+    knowledge, and serenity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rain breaks through an ill-thatched house but not a well-thatched house; passion
+    is said to break through an unreflecting mind but not a well-reflecting mind.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The evil-doer mourns and suffers in this world and in the next, especially
+    when seeing or thinking of the evil result of his own work and when going on the
+    evil path.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The virtuous man delights and is happy in this world and in the next, especially
+    when seeing the purity of his work, thinking of the good he has done, and going
+    on the good path.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note explains the evil path and good path as technical expressions for
+    a descending and ascending scale of worlds through which beings travel according
+    to deeds.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A thoughtless man who recites a large portion of the law but does not do it
+    is said to have no share in the priesthood and is compared to a cowherd counting
+    the cows of others.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A follower of the law may recite only a small portion, but if he has forsaken
+    passion, hatred, and foolishness and possesses true knowledge and serenity of
+    mind, he has a share in the priesthood.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The note explains 'caring for nothing' as the negative of Upadana, described
+    as clinging to or loving the world.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: evil-doer
+  description: A person whose own evil work leads to mourning and suffering in this
+    world and the next.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: virtuous man
+  description: A person whose pure or good work leads to delight and happiness in
+    this world and the next.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: thoughtless man
+  description: A person who recites much of the law but is not a doer of it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: follower of the law
+  description: A person who recites little but forsakes passion, hatred, and foolishness
+    and possesses true knowledge and serenity of mind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: cowherd
+  description: A simile figure who counts cows belonging to others.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: evil worker and sufferer
+  assigned_to:
+  - fig:1
+  basis: The verses state that the evil-doer mourns and suffers in both this world
+    and the next because of his own evil work.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: virtuous worker and rejoicer
+  assigned_to:
+  - fig:2
+  basis: The verses state that the virtuous man delights and is happy in both this
+    world and the next because of the purity and goodness of his work.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: reciter without practice
+  assigned_to:
+  - fig:3
+  basis: The thoughtless man can recite much law but does not do it and therefore
+    has no share in the priesthood.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: law-follower with renunciation and knowledge
+  assigned_to:
+  - fig:4
+  basis: The follower of the law forsakes passion, hatred, and foolishness, possesses
+    true knowledge and serenity, and is described as caring for nothing in this world
+    or the next.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: simile analogue for unearned religious status
+  assigned_to:
+  - fig:5
+  basis: The non-practicing reciter is compared to a cowherd counting other people's
+    cows.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: traveller on morally determined paths
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The verses speak of evil and good paths, and the note explains these as upward
+    or downward travel through worlds according to deeds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: rain
+  literal_form: rain
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: thatched house
+  literal_form: ill-thatched house; well-thatched house
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: passion breaking through
+  literal_form: passion breaking through an unreflecting mind or failing to break
+    through a well-reflecting mind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: evil path and good path
+  literal_form: evil path; good path
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: this world and next world
+  literal_form: this world; the next; that to come
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:6
+  label: cowherd counting others' cows
+  literal_form: a cowherd counting the cows of others
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rain, house, and mind simile
+  summary: The passage pairs an ill-thatched and a well-thatched house with an unreflecting
+    and well-reflecting mind to describe whether passion breaks through.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Two worlds and two paths
+  summary: The evil-doer and the virtuous man experience contrasting results in this
+    world and the next and proceed on evil or good paths understood in the note as
+    descending or ascending worlds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Recitation versus practiced law
+  summary: A thoughtless reciter who does not practice the law is denied a share in
+    the priesthood and likened to a cowherd, while the true follower of the law is
+    defined by renunciation, knowledge, serenity, and non-clinging.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Reflective mind as protected house
+  taxonomy_refs:
+  - wisdom
+  basis: The passage uses the thatched-house image to contrast the vulnerability of
+    an unreflecting mind with the protection of a well-reflecting mind against passion.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy link to wisdom is interpretive; the passage itself frames
+    the image as reflection and passion.
+- id: motif:2
+  label: Good and evil deeds leading through two worlds and paths
+  taxonomy_refs:
+  - afterlife_journey_map
+  - ascent
+  - duality
+  basis: The verses contrast evil and virtuous persons in this world and the next,
+    and the note explains the good and evil paths as ascending and descending worlds
+    through which beings travel according to deeds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No divine judge is described; the map of worlds is only summarized in
+    the note.
+- id: motif:3
+  label: Recitation without practice contrasted with embodied practice
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts a person who recites much law without doing it against
+    a law-follower who recites little but renounces defilements and possesses true
+    knowledge and serenity.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not present an initiation rite or narrative test; it
+    is a moral-didactic contrast.
+- id: motif:4
+  label: Renunciation and non-clinging across worlds
+  taxonomy_refs: []
+  basis: The law-follower is described as caring for nothing in this world or the
+    world to come, and the note connects this to the technical negation of clinging
+    to the world.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The technical meaning is supplied by the note rather than elaborated in
+    the verse itself.
+comparison_claims:
+- id: claim:1
+  claim: The editor's note points to Beal's Dhammapada for the rain, house, and mind
+    simile, supporting a cautious nearby-Buddhist parallel for this image.
+  claim_level: same_motif
+  target: Beal, Dhammapada, p. 65
+  evidence_refs:
+  - ev:1
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The cited Dhammapada passage is not included in the supplied text,
+    so the exact wording and scope of the parallel cannot be verified here.
+- id: claim:2
+  claim: The note treats the good and evil paths as part of a wider Buddhist technical
+    pattern of ascending and descending worlds determined by deeds.
+  claim_level: same_function
+  target: Buddhist technical good/evil path pattern; references cited in the note
+    to Bigandet, Burnouf, Lotus, and related verses
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the note's summary and citations are supplied; no external passages
+    are available for independent comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: TWIN-VERSES. 7, vv. 13-14; lines 2834-2926
+  quote_or_summary: Rain breaks through an ill-thatched house but not a well-thatched
+    house; passion likewise breaks through an unreflecting mind but not a well-reflecting
+    mind.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: TWIN-VERSES. 7, vv. 15-18; lines 2834-2926
+  quote_or_summary: The evil-doer mourns and suffers in this world and the next because
+    of evil work and the evil path; the virtuous man delights and is happy in both
+    because of pure or good work and the good path.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: Note to vv. 17-18; lines 2834-2926
+  quote_or_summary: The note says that 'the evil path and the good path' are technical
+    expressions for descending and ascending scales of worlds through which beings
+    travel upward or downward according to deeds; it also says Fausböll translates
+    them as heaven and hell.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: TWIN-VERSES. 7, vv. 19-20; lines 2834-2926
+  quote_or_summary: The thoughtless man who recites much law but does not do it has
+    no share in the priesthood and is like a cowherd counting others' cows; the true
+    follower may recite little but forsakes passion, hatred, and foolishness, possesses
+    true knowledge and serenity, and has a share in the priesthood.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: Note to v. 20; lines 2834-2926
+  quote_or_summary: The note explains 'caring for nothing' as the negative of Upadana,
+    defined there as clinging to the world or loving the world.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: citation
+  locator: Note to v. 13; lines 2834-2926
+  quote_or_summary: The note to v. 13 cites Beal, Dhammapada, p. 65.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; citation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The extraction is based only on the supplied verses and editorial notes.
+    Motif taxonomy assignments are cautious where the passage is didactic rather than
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Editorial footnotes in the supplied passage were treated as source evidence, but external cited works were not consulted.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-sutta-nipata-sbe10-fausboll-archive__l2834-l2926
+  passage_sha256=6f77f51f5eaeb2f5badf30e8fe65509eaed3aaa9a95fafc3fea8c2654728e9bc
+

@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l97499-l97581
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: I, 2, 2- / KEM N , / ADHYAYA 4. / KEITEL O; lines 97499-97581
+  start: '97499'
+  end: '97581'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is mainly commentary and notes. It discusses seven bodily openings
+    and Vac as speech or tongue; includes a ritual excerpt invoking heaven for glory
+    and linking Brahmin speech with glory; and adds interpretive notes on heaven,
+    higher worlds, and Brahmin speech in relation to other tongues.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary identifies a set of seven openings elsewhere as eyes, nostrils,
+    ears, and mouth.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the eighth as Vac likely refers to the tongue and also notes
+    that the tongue is specially mentioned.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A cited ritual sentence addresses heaven and asks it to give glory.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that wherever the speech of the Brahmin is uttered, this
+    is his glory.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage instructs that the person who knows should end with this verse.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note reports Sayana's interpretation relating heaven to worlds above heaven.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note contrasts the speech of Brahmins with non-Aryan tongues and discusses
+    Vedic, Sanskrit, and Prakritic forms.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Vac
+  description: Named as Vac; the note says the eighth as Vac likely refers to the
+    tongue and discusses it among openings or pranas.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Brahmin
+  description: A Brahmin whose uttered speech is described as his glory.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: One who knows
+  description: The person instructed to end with the cited verse.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Heaven
+  description: Addressed in the cited verse and asked to give glory.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: speech or tongue referent among openings/pranas
+  assigned_to:
+  - fig:1
+  basis: The note identifies Vac with the tongue and places it in discussion of openings
+    and pranas.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: possessor of efficacious speech
+  assigned_to:
+  - fig:2
+  basis: The passage says the Brahmin's uttered speech is his glory.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ritual knower instructed to conclude with verse
+  assigned_to:
+  - fig:3
+  basis: The passage says the one who knows should end with the verse.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: addressed giver of glory
+  assigned_to:
+  - fig:4
+  basis: The cited verse asks heaven to give glory.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Vac or speech
+  literal_form: speech/tongue
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Seven openings
+  literal_form: eyes, nostrils, ears, and mouth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Heaven and higher worlds
+  literal_form: heaven; worlds above heaven
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Glory
+  literal_form: glory requested from heaven and linked to Brahmin speech
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Commentarial mapping of openings and speech
+  summary: The commentary discusses seven bodily openings and explains Vac as probably
+    referring to the tongue, in relation to pranas.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invocation and concluding verse for glory
+  summary: Heaven is asked to give glory; Brahmin speech is called the Brahmin's glory;
+    and the knower is instructed to end with the verse.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Interpretation of heaven and Brahmin speech
+  summary: Notes gloss heaven in relation to worlds above heaven and discuss the speech
+    of Brahmins in contrast with other tongues.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sacred speech as glory
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links the uttered speech of the Brahmin with glory and instructs
+    the knower to conclude with the verse; the surrounding note also identifies Vac
+    with tongue or speech.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is brief and mostly commentarial; it does not narrate a full
+    mythic episode. The taxonomy link to wisdom is based on ritual knowledge and sacred
+    speech rather than an explicit wisdom tale.
+- id: motif:2
+  label: Body openings as ritual-symbolic map
+  taxonomy_refs: []
+  basis: The commentary gathers references to seven openings, pranas, and Vac/tongue,
+    treating bodily apertures as an ordered symbolic set.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This is an extracted pattern from commentary, not an explicit mythic narrative
+    or named taxonomy motif.
+comparison_claims:
+- id: claim:1
+  claim: The commentary itself connects the seven-openings and Vac/tongue pattern
+    with other Vedic and Upanisadic passages, including Atharvaveda, Brhadaranyaka
+    Upanisad, and Satapatha Brahmana references.
+  claim_level: same_motif
+  target: Nearby Vedic and Upanisadic discussions of seven openings, pranas, Vac,
+    and tongue/speech
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a scholarly cross-reference within notes, not a narrative parallel
+    in the passage itself; the note reports disputed interpretations of Vac and the
+    tongue.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 97499-97512
+  quote_or_summary: Notes discuss seven openings identified as eyes, nostrils, ears,
+    and mouth; the eighth as Vac is said likely to refer to the tongue, with pranas
+    also mentioned.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 97520-97527
+  quote_or_summary: A ritual excerpt invokes heaven to give glory, says the Brahmin's
+    uttered speech is his glory, and instructs the one who knows to end with this
+    verse.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 97529-97531
+  quote_or_summary: 'A note reports Sayana''s rendering: as in heaven, so in the worlds
+    above heaven.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 97533-97581
+  quote_or_summary: A note interprets the passage as referring to the speech of Brahmins,
+    likely in opposition to non-Aryan tongues, and discusses Vedic, Sanskrit, and
+    Prakritic language history.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is OCR-noisy and consists largely of scholarly notes rather than
+    mythic narration. Literal extraction is fairly secure for speech, glory, heaven,
+    and seven openings; motif identification requires review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported taxonomy symbols were assigned. Available symbol refs such as fire, water, serpent, mountain, tree, cave, and milk are not present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l97499-l97581
+  passage_sha256=c3bdc6d6e5cd1dea083d64d1a483fbbce7e75e0dacdbb19d2ab56ca09790436b
+

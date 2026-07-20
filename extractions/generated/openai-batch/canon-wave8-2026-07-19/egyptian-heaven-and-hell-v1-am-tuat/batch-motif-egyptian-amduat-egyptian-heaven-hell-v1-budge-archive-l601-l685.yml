@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l601-l685
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: EM-KHU-S, A / KHEFTIU / HEA, Y / NINE APES AND TWELVE FIERY SERPENTS I3;
+    lines 601-685
+  start: '601'
+  end: '685'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage catalogs three groups associated with the Tuat: nine apes
+    who sing to Ka as he enters; twelve serpents or uraei who emit fire and make light
+    in the darkness; and nine man-headed gods with raised hands who praise Ra.'
+  language: English with transliterated Egyptian names
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage is organized into three numbered groups: nine apes, twelve serpents
+    or uraei, and nine man-headed gods.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: The nine apes are described as singing to Ka as he enters the Tuat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The twelve serpents are described as throwing fire from their mouths.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The twelve serpents are also described as making light in the darkness in
+    the Tuat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The twelve serpents are identified in a caption as light-giving uraei.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The nine man-headed gods have their hands raised in adoration.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The nine man-headed gods are described as gods who praise Ra, called lord
+    of the company of the gods.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Nine singing apes
+  description: A collective of nine apes described as singing to Ka as he enters the
+    Tuat; individual names are listed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ka
+  description: Ka is named as entering the Tuat and as the one to whom the apes sing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Twelve fiery serpents or light-giving uraei
+  description: A collective of twelve serpents or uraei who emit fire from their mouths
+    and make light in the Tuat's darkness; individual names are listed in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Nine man-headed gods
+  description: A collective of nine man-headed gods with hands raised in adoration,
+    described as praising Ra; individual names are listed in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ra
+  description: Ra is named in brackets as the deity praised by the nine man-headed
+    gods and is called lord of the company of the gods.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: singers to Ka
+  assigned_to:
+  - fig:1
+  basis: The apes are described as those who sing to Ka as he enters the Tuat.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: entrant into the Tuat
+  assigned_to:
+  - fig:2
+  basis: Ka is described as entering into the Tuat.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fire-emitting light makers
+  assigned_to:
+  - fig:3
+  basis: The serpents throw fire from their mouths and make light in the darkness
+    of the Tuat.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: adoring gods who praise Ra
+  assigned_to:
+  - fig:4
+  basis: The man-headed gods raise their hands in adoration and are described as praising
+    Ra.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: praised lord of the company of gods
+  assigned_to:
+  - fig:5
+  basis: Ra is identified as the one praised and as lord of the company of the gods.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: serpent or uraeus
+  literal_form: twelve serpents; twelve light-giving uraei
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire from mouths
+  literal_form: fire thrown forth from the mouths of the twelve serpents
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Tuat
+  literal_form: the Tuat, entered by Ka and containing darkness illuminated by the
+    serpents
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: raised hands in adoration
+  literal_form: hands raised in adoration by the nine man-headed gods
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: numbered divine collectives
+  literal_form: nine apes, twelve serpents, and nine man-headed gods
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Nine apes sing as Ka enters the Tuat
+  summary: A group of nine apes is identified as singing to Ka at his entrance into
+    the Tuat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Twelve fiery serpents illuminate the Tuat
+  summary: Twelve serpents or uraei throw fire from their mouths and make light in
+    the darkness of the Tuat.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Nine man-headed gods adore and praise Ra
+  summary: Nine man-headed gods stand with hands raised in adoration and are described
+    as praising Ra, lord of the company of the gods.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Ordered groups within an afterlife journey map
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage catalogs numbered groups located in relation to the Tuat, including
+    Ka entering the Tuat and beings active in its darkness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is a catalogue segment and does not narrate the full journey
+    sequence.
+- id: motif:2
+  label: Fire-emitting serpents as underworld illuminators
+  taxonomy_refs:
+  - serpent
+  basis: The twelve serpents throw fire from their mouths and make light in the darkness
+    in the Tuat.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The fire is described as illuminating rather than destructive, so broader
+    fire-destruction motifs are not assigned.
+- id: motif:3
+  label: Divine praise and adoration of Ra
+  taxonomy_refs: []
+  basis: The nine man-headed gods raise their hands in adoration and are described
+    as praising Ra, lord of the company of the gods.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a brief description of praise and posture but does not
+    expand the ritual context.
+- id: motif:4
+  label: Singing at entry into the Tuat
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The nine apes sing to Ka as he enters the Tuat.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The function of the singing is not explained beyond the brief description.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 601-685, section I
+  quote_or_summary: The apes are described as those "who sing to Ka as he entereth
+    into the Tuat," and the caption calls them "The nine singing apes."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 601-685, section II
+  quote_or_summary: '"Twelve serpents, who throw fire forth from their mouths," described
+    as those who "make light" in "the darkness in the Tuat"; captioned as "The twelve
+    light-giving uraei."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 601-685, section III
+  quote_or_summary: '"Nine man-headed gods, with their hands raised in adoration,"
+    described as "gods who praise [Ra]" and "the lord of the company of the gods."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source metadata; short quotation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by OCR noise and fragmentary formatting in the supplied
+    passage. No cross-tradition comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references were limited to the supplied available taxonomy list.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l601-l685
+  passage_sha256=bda62be398dba4dfe2bd386ffe5c84ae39e6a388d899ae7e09aa06d64714dfc7
+

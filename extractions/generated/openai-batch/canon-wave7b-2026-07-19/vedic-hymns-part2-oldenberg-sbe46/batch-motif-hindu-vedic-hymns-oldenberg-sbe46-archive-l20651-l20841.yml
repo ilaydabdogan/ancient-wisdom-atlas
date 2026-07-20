@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l20651-l20841
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'FEN DEX / OF WORDS: / INDEX OF WORDS. / HYMNS.; lines 20651-20841'
+  start: '20651'
+  end: '20841'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A section of the index of words for hymns, listing Vedic lexical items,
+    English glosses, and hymn references. Several entries mention waters, darkness,
+    heaven, cloud, curses, enemies, sickness, immortality, ambrosia, a wheel part,
+    flame, and kindling-sticks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index of words under the heading “HYMNS,” with lexical entries
+    followed by glosses and hymn references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries concern water, including crossing the waters, living in the
+    water, and standing in the waters.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: One entry glosses a term as the approach of darkness.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: One entry glosses a term as striving for heaven.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Entries mention cloud, flame, a wheel part, and kindling-sticks.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+- id: obs:6
+  text: Entries mention enemies, attacks, hostile plots, curses, and protection against
+    imprecations.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: Entries gloss terms connected with immortality, including immortal Agni, immortal
+    gods, immortality, and ambrosia.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named in an index entry as “immortal (Agni).”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+- id: fig:2
+  name_or_label: immortal gods
+  description: A group mentioned in an index entry as “the immortal gods.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: immortal being or beings
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage glosses amrita as “immortal” in relation to Agni and to the gods.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: waters
+  literal_form: waters / water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: darkness
+  literal_form: approach of darkness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: heaven
+  literal_form: heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: cloud
+  literal_form: cloud
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: flame
+  literal_form: never-tiring flame
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: kindling-stick
+  literal_form: kindling-stick
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: ambrosia
+  literal_form: ambrosia
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: wheel part
+  literal_form: felly of a wheel
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: water crossing and water dwelling
+  taxonomy_refs: []
+  basis: The index includes entries glossed as crossing the waters, living in the
+    water, and standing in the waters.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an index, not a narrative hymn passage; it does not describe
+    a complete mythic episode.
+- id: motif:2
+  label: immortality and ambrosia
+  taxonomy_refs: []
+  basis: The index groups terms glossed as immortal, immortality, and ambrosia, including
+    references to Agni and the immortal gods.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The entry records lexical glosses and hymn references only; it does not
+    provide a narrative context for immortality.
+- id: motif:3
+  label: protection against curses and hostile forces
+  taxonomy_refs: []
+  basis: Entries include curse, dispeller of curses, protector against imprecations,
+    enemies, and attacks.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The index does not specify the actors or the ritual or mythic situation
+    behind these references.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20651-20654
+  quote_or_summary: "“HYMNS. apdsi ... apah ...”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 20672-20679
+  quote_or_summary: "“ap-tar, crossing the waters” and “ap-tirya, ... the waters.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 20684-20697
+  quote_or_summary: "“dpya, living ... in the water” and “apsu-sad ... in the waters.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 20661-20662
+  quote_or_summary: "“api-sarvara, approach of darkness.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 20702-20705
+  quote_or_summary: "“abhi-dyu, striving for heaven.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 20731-20732
+  quote_or_summary: "“abhr4, cloud.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 20712-20728, 20775-20786
+  quote_or_summary: Index entries include hostile plots, attack, curse, dispeller
+    of curses, protector against imprecations, enemy, deceiver of foes, and attacking
+    the enemies.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 20802-20817
+  quote_or_summary: The entries for amrita and amrita-tva give glosses including immortal
+    Agni, immortal gods, immortality, and ambrosia.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 20823-20824
+  quote_or_summary: "“never-tiring (flame).”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:10
+  type: summary
+  locator: lines 20828-20841
+  quote_or_summary: Entries include “felly of a wheel” and “arani, kindling-stick.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: This passage is an index of lexical items rather than a mythic narrative.
+    Extracted motifs are tentative and based only on repeated indexed themes and glosses.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l20651-l20841
+  passage_sha256=783c9b17ebb0c670221f0d057e2c872eb1e3062f53260aad682fcc0dacbf922f
+

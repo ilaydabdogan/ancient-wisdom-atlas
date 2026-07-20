@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l2316-l2394
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: AAAAAA AAAAAA / SLAYER AND EATER OF THE GODS / SLAYER AND EATER OF THE GODS
+    / IZSZI8; lines 2316-2394
+  start: '2316'
+  end: '2394'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Behold, Shesemu hath cut them up for Unas, he hath boiled pieces of them
+    in his cauldrons blazing.”"
+  summary: The passage describes Shesemu cutting up and boiling divine victims for
+    Unas. Unas eats their words of power and their spirits, and different groups among
+    them are assigned to his morning, sunset, and night meals.
+  language: English with Egyptian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Shesemu cuts up the victims for Unas.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Shesemu boils pieces of the victims in blazing cauldrons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Unas eats their words of power.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Unas eats their spirits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The victims are grouped as great ones, middle ones, little ones, and old ones
+    of both sexes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The victims are assigned to Unas’s morning, sunset, and night meals.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Shesemu
+  description: A named figure who cuts up the victims for Unas and boils their pieces
+    in blazing cauldrons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Unas
+  description: The figure for whom the victims are prepared and who eats their words
+    of power and spirits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the gods / divine victims
+  description: The passage title identifies the victims as gods; they are cut up,
+    boiled, and consumed by Unas in groups.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: cutter and boiler of victims
+  assigned_to:
+  - fig:1
+  basis: Shesemu cuts up the victims and boils their pieces in cauldrons for Unas.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: eater of divine power and spirits
+  assigned_to:
+  - fig:2
+  basis: Unas eats the victims’ words of power and their spirits, and receives them
+    as meals.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: slain and consumed gods
+  assigned_to:
+  - fig:3
+  basis: The title names the passage as concerning the slayer and eater of the gods,
+    and the body describes the victims being cut up, boiled, and eaten.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: blazing cauldrons
+  literal_form: cauldrons blazing
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: words of power
+  literal_form: words of power eaten by Unas
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: spirits
+  literal_form: spirits eaten by Unas
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: meals of the day and night
+  literal_form: morning meal, sunset meal, and night meal
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Preparation of divine victims
+  summary: Shesemu cuts up the victims for Unas and boils their pieces in blazing
+    cauldrons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Unas consumes power and spirits
+  summary: Unas eats the victims’ words of power and their spirits.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Distribution as meals
+  summary: The great, middle, little, and old ones among the victims are assigned
+    to Unas’s morning, sunset, and night meals.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: consumption of gods for power and spirit
+  taxonomy_refs:
+  - annihilation_union
+  basis: Unas consumes the victims’ words of power and spirits after they are prepared
+    for him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy label is interpretive; the passage directly states eating
+    words of power and spirits, but does not explicitly explain the theological mechanism.
+- id: motif:2
+  label: divine victims prepared as ritual meals
+  taxonomy_refs:
+  - sacrifice
+  basis: Shesemu cuts up and boils the victims, and their groups become meals for
+    Unas at morning, sunset, and night.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage describes slaughter, boiling, and meals, but does not use
+    the term sacrifice in the quoted translation.
+- id: motif:3
+  label: fire-heated cauldron preparation of supernatural victims
+  taxonomy_refs:
+  - fire
+  basis: The victims’ pieces are boiled in blazing cauldrons.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is primarily a symbol/object pattern rather than a broad narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2316-2394
+  quote_or_summary: "“Behold, Shesemu hath cut them up for Unas, he hath boiled pieces
+    of them in his cauldrons blazing.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:2
+  type: quote
+  locator: lines 2316-2394
+  quote_or_summary: "“Unas this hath eaten their words of power, [he] hath eaten their
+    spirits.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:3
+  type: summary
+  locator: lines 2316-2394
+  quote_or_summary: The passage assigns the great ones to Unas’s morning meal, the
+    middle ones to his sunset meal, the little ones to his night meal, and mentions
+    old ones male and female.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: citation
+  locator: passage title, lines 2316-2394
+  quote_or_summary: The passage is headed “SLAYER AND EATER OF THE GODS.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; brief title citation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is partly garbled/OCR-like and combines transliteration with
+    English translation. Extraction relies on the clearly legible English portions
+    and the passage title.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the provided passage does not itself support a specific cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l2316-l2394
+  passage_sha256=866a414a0a0381fcd28985c9ddd4229fae100128eabc863b37388871f90786e7
+

@@ -1,0 +1,189 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l18426-l18457
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA V, HYMN 8. 385 / MANDALA V, HYMN 8. / ASHTAKA III, ADHYAYA 8, VARGA
+    26. / NOES:; lines 18426-18457
+  start: '18426'
+  end: '18457'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Agni is, in the later ritual, worshipped as ‘separator’ (vivizi)
+  summary: 'The passage contains scholarly notes on Mandala V, Hymn 8: metrical and
+    cross-reference information, a Padapatha reading for verse 2, a note that later
+    ritual worships Agni as a separator when a sacrificer’s fires become mixed with
+    other fires, and a grammatical note on a supplied noun meaning “offering” or similar
+    in verse 4.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a set of notes for the same Ashi, giving metre and verse cross-reference
+    information.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For verse 2, the note states that the Padapa¢ha gives the reading “garat-visham”
+    and prefers it to “gara-dvisham,” glossed as “who hates decay.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: For verse 3, Agni is described as worshipped in later ritual as “separator”
+    when the sacrificer’s fires have become mixed with other fires.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note on verse 3 cites Taittiriya Brahmaza and Satapatha Brahmava, and
+    says this very verse is quoted in the Satapatha reference.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: For verse 4, the note says that a noun meaning “offering” or something similar
+    should be supplied with the adjective yasasa.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named figure described as worshipped in later ritual as “separator”
+    when fires become mixed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: the sacrificer
+  description: A sacrificer whose fires may become mixed with other fires.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual separator
+  assigned_to:
+  - fig:1
+  basis: The passage says Agni is worshipped as “separator” in later ritual.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: holder of ritual fires
+  assigned_to:
+  - fig:2
+  basis: The passage refers to “the sacrificer’s fires” becoming mixed with other
+    fires.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mixed fires
+  literal_form: the sacrificer’s fires mixed with other fires
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: offering
+  literal_form: a supplied noun meaning “offering” or the like
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Agni invoked as separator of mixed fires
+  summary: In a later ritual context described by the note, Agni is worshipped as
+    “separator” if the sacrificer’s fires have become mixed with other fires.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Ritual separation of mixed sacred fires
+  taxonomy_refs:
+  - sacrifice
+  basis: The note describes a ritual situation involving a sacrificer’s fires and
+    Agni’s worship as “separator” when those fires become mixed with other fires.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is commentary rather than a mythic narrative; the motif identification
+    rests on a ritual note only.
+comparison_claims:
+- id: claim:1
+  claim: The passage connects Agni’s later ritual function as “separator” with cited
+    nearby Vedic ritual texts, including a Satapatha passage said to quote the same
+    verse.
+  claim_level: same_function
+  target: Later ritual passages cited as Taittiriya Brahmaza ITI, 7, 3, 5 and Satapatha
+    Brahmava XII, 4, 4, 2
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports a textual and ritual connection within the cited
+    Vedic corpus, but it does not establish broader diffusion or an independent comparative
+    mythological pattern.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18428-18429
+  quote_or_summary: The notes identify the same Ashi, metre, and verse cross-references.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: quote
+  locator: 18433-18434
+  quote_or_summary: "“The Padapa¢ha gives garat-visham. I prefer this explanation
+    to gara-dvisham (‘who hates decay’).”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 18438-18442
+  quote_or_summary: "“Agni is, in the later ritual, worshipped as ‘separator’ (vivizi),
+    if the sacrificer’s fires have become mixed with other fires.” The note then cites
+    Taittiriya Brahmaza and Satapatha Brahmava, saying this verse is quoted in the
+    latter."
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt and summary used.
+- id: ev:4
+  type: summary
+  locator: 18446-18450
+  quote_or_summary: For verse 4, Bohtlingk-Roth’s conjecture is rejected; the note
+    says the adjective yasasa is right and that a noun meaning “offering” or similar
+    should be supplied.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is limited by OCR-style spellings and by the fact that the
+    passage is commentary on verses rather than the hymn text itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external normalization of names or citations was applied.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l18426-l18457
+  passage_sha256=a1fcd6eebe528929893ad1aae417db445e133c7e017699bc47750bd94cfd9ef6
+

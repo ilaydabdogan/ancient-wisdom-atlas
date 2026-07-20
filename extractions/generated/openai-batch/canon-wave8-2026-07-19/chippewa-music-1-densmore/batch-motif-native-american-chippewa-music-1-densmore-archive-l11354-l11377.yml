@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l11354-l11377
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: CHIPPEWA    WAR     BANNER / BUEEAU    OF   AMERICAN    ETHNOLOGY / DEN'S  MORE  J
+    / BUREAU    OF    AMEBICAN    ETHNOLOGY; lines 11354-11377
+  start: '11354'
+  end: '11377'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a brief song text line, followed by analysis of multiple
+    phonograph renditions, rhythmic and tonal features, and internal comparisons.
+    It then states that at the first camp after a fight the Chippewa composed a song
+    whose words refer to Sioux women coming from a village to drag back wounded men.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes a transcribed song word or phrase followed by the English
+    phrase “in the front of my body.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ten renditions of the song are reported on the phonograph cylinder, and the
+    transcription is from the eighth rendition.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The words vary across renditions; sometimes only one word is used or meaningless
+    syllables are sung.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The analysis states that the last three measures have uniform intonation and
+    that the rhythm of the entire song shows no variation.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A short rhythmic unit occurs five times without interruption, and the last
+    three measures are in a different rhythm.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the last three measures, the voice and drum exactly coincide.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The analysis describes alternation between A minor and C major harmonic material
+    and calls this alternation worthy of special note in connection with the song’s
+    origin.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: At the first camp after the fight, the Chippewa composed a song.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The words of the song refer to Sioux women who came from a village to drag
+    back wounded men.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Chippewa
+  description: The group said to have composed the song at the first camp after the
+    fight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Sioux women
+  description: Women referred to in the song words as coming from the village to drag
+    back wounded men.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: wounded men
+  description: Men described as wounded and dragged back by the Sioux women.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: song composers after a fight
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Chippewa composed the song at the first camp
+    after the fight.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: women retrieving wounded men
+  assigned_to:
+  - fig:2
+  basis: The song words refer to Sioux women coming from the village to drag back
+    the wounded men.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: wounded persons being recovered
+  assigned_to:
+  - fig:3
+  basis: The wounded men are the persons dragged back by the Sioux women.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: drum
+  literal_form: drum
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Analysis of recorded song renditions
+  summary: The passage analyzes ten phonograph renditions of the song, noting variation
+    in words, stable rhythm, repeated rhythmic units, voice-drum coincidence, and
+    alternation of A minor and C major material.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Song composed at first camp after fight
+  summary: After a fight, at the first camp, the Chippewa compose a song whose words
+    refer to Sioux women coming from the village to drag back wounded men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: commemorative war song composed after a fight
+  taxonomy_refs: []
+  basis: The passage states that the Chippewa composed the song at the first camp
+    after the fight.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a passage-level cultural and musical pattern, not a match to any
+    supplied mythological motif-family taxonomy.
+- id: motif:2
+  label: women retrieving wounded men after battle
+  taxonomy_refs: []
+  basis: The song words refer to Sioux women coming from the village to drag back
+    wounded men.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports the song’s subject matter but gives no wider narrative
+    or symbolic interpretation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly directs comparison with other numbered songs in the
+    same work and connects the song’s origin discussion with another numbered item.
+  claim_level: same_function
+  target: Nos. 4, 5, 19, 34, and 128 in Chippewa Music
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage provides internal cross-references and musical analysis,
+    but it does not state a shared mythological motif or explain the exact comparative
+    basis beyond rhythm, structure, and origin context.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '11354'
+  quote_or_summary: "“gna'sumi^kayau' in the front of my body”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 11356-11363
+  quote_or_summary: The analysis reports ten phonograph renditions, a transcription
+    from the eighth rendition, word variation across renditions, variation in intonation
+    on one tone, uniform intonation in the last three measures, and no rhythmic variation
+    in the song overall.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11363-11373
+  quote_or_summary: The song has a short rhythmic unit repeated five times, a different
+    rhythm in the last three measures, exact coincidence of voice and drum, harmonic
+    description involving A minor and C major, and a noted alternation of minor and
+    major in relation to the song’s origin.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11374-11377
+  quote_or_summary: At the first camp after the fight, the Chippewa composed a song
+    whose words refer to Sioux women coming from the village to drag back wounded
+    men.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 11364-11373
+  quote_or_summary: "“Compare Nos. 4, 5, 19, 34” and “See No. 128.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal musical and narrative extraction is well supported. Motif labels
+    are cautious because the passage is mainly ethnomusicological and historical rather
+    than mythic. The comparison claim is limited to explicit internal cross-references
+    in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol, except no-taxonomy literal drum object, is clearly matched by this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l11354-l11377
+  passage_sha256=7024ba8037f600e5caa55de9328d8501365ce454f724e5b3a71ffb8b4352253b
+

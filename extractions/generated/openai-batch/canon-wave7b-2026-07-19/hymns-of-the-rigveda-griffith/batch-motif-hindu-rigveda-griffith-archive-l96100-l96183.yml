@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l96100-l96183
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ARANYAKA I / KEITH M / ADHYAYA 2. / I, 2, 2-; lines 96100-96183
+  start: '96100'
+  end: '96183'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: By this hymn he drove away evil.
+  summary: The passage attributes a hymn to Bharadvaja, describes him as exceptionally
+    learned, long-lived, and austere among seers, and says that by the hymn he drove
+    away evil. It states that a man who recites Bharadvaja's hymn may become learned,
+    long-lived, and versed in asceticism through the driving away of evil. It then
+    identifies the recitation with RV I, 165, mentions the word “praises” in RV I,
+    165, 4, and connects the day with praise; the surrounding text includes extensive
+    philological notes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the hymn was composed by Bharadvaja.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bharadvaja is described as the most learned, longest lived, and greatest practitioner
+    of austerities among seers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says Bharadvaja drove away evil by means of the hymn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A man who recites Bharadvaja's hymn is said to be able to become learned,
+    long-lived, and versed in asceticism by the driving away of evil.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage directs the reciter to recite a hymn identified by the opening
+    words of RV I, 165.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage points to the word “praises” in RV I, 165, 4 and says that the
+    day is praise and has a perfect form as endowed with praise.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage names the hymn as the haydsubhiya hymn and says it is harmony;
+    the sentence is cut off in the provided range.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bharadvaja
+  description: A seer described as exceptionally learned, long-lived, and austere,
+    and as the composer of the hymn.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: a man who recites the hymn
+  description: A generic reciter of Bharadvaja's hymn who may receive the stated benefits.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: learned long-lived ascetic seer
+  assigned_to:
+  - fig:1
+  basis: Bharadvaja is described as the most learned, longest lived, and greatest
+    practitioner of austerities among seers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: composer and apotropaic user of the hymn
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the hymn to Bharadvaja and says that by it he drove
+    away evil.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ritual reciter and beneficiary
+  assigned_to:
+  - fig:2
+  basis: The passage says that a man who recites the hymn may become learned, long-lived,
+    and versed in asceticism.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Bharadvaja's hymn
+  literal_form: hymn / recited sacred speech
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: praise associated with the day
+  literal_form: the word “praises” and the day described as praise
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: haydsubhiya hymn as harmony
+  literal_form: named hymn described as harmony
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Bharadvaja's hymn drives away evil
+  summary: Bharadvaja, described as an exceptional seer, is said to have driven away
+    evil by means of his hymn.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Recitation of the hymn for acquired qualities
+  summary: A generic man recites Bharadvaja's hymn, identified with RV I, 165, so
+    that by the driving away of evil he may become learned, long-lived, and versed
+    in asceticism.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Praise and harmony interpretation
+  summary: The passage interprets the word “praises” in RV I, 165, 4 in relation to
+    the day, and then names the haydsubhiya hymn as harmony before the provided range
+    breaks off.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: evil averted by sacred recitation
+  taxonomy_refs: []
+  basis: The passage says Bharadvaja drove away evil by the hymn and that a later
+    reciter may become qualified through the driving away of evil.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is ritual-exegetical rather than a narrative myth; the motif
+    label describes function, not a full plot.
+- id: motif:2
+  label: sacred speech confers learnedness, long life, and ascetic capacity
+  taxonomy_refs:
+  - wisdom
+  basis: The reciter of Bharadvaja's hymn is said to be able to become learned, long-lived,
+    and versed in asceticism.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only learnedness aligns directly with the available “wisdom” taxonomy
+    ref; longevity and asceticism are passage-specific benefits.
+- id: motif:3
+  label: exemplary seer as source of ritual efficacy
+  taxonomy_refs:
+  - wisdom
+  basis: The hymn's efficacy is grounded in its attribution to Bharadvaja, who is
+    described as foremost in learning, long life, and austerity among seers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage states the association but does not narrate an extended origin
+    myth for the hymn.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the Aranyaka recitation instruction with the
+    Rigvedic hymn RV I, 165 by quoting its opening and RV I, 165, 4, supporting a
+    cautious same-tradition linkage between this ritual exposition and a cited Rigvedic
+    hymn.
+  claim_level: same_function
+  target: RV I, 165 as cited in the passage
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The provided range gives only quoted incipits and a ritual interpretation;
+    it does not describe the full original function or narrative context of RV I,
+    165.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 96100-96104
+  quote_or_summary: "“composed by Bharadvaja,” who was “of seers the most learned,
+    the longest lived,” and “By this hymn he drove away evil.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 96177-96180
+  quote_or_summary: "“he may become, by the driving away of evil, learned, long-lived,
+    and versed in asceticism” by reciting Bharadvaja's hymn."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 96180-96181
+  quote_or_summary: "“He recites the hymn, ‘With what splendour do ye who are of equal
+    age and dwell together?’ (RV., I, 165).”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 96181-96183
+  quote_or_summary: The passage cites “They call for me, the praises long for me”
+    from RV I, 165, 4, then says that this day is praise and that the form of this
+    day endowed with praise is perfect.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: line 96183
+  quote_or_summary: The passage calls this the haydsubhiya hymn and says it is harmony;
+    the sentence continues beyond or is cut off at the end of the provided range.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main ritual statements are explicit, but the provided range contains
+    OCR noise, extensive philological notes, and a truncated final sentence; motif
+    labels are therefore cautious and limited to the stated ritual functions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No cross-cultural comparison is inferred. Taxonomy refs are used only where the provided list supports a broad wisdom-related classification.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l96100-l96183
+  passage_sha256=b0218f1a9f49391c759b2e83aa156b0d0bb0694cec3edeb96f70e24ff9556df4
+

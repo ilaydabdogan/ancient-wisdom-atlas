@@ -1,0 +1,182 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l2608-l2760
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: THE ASHANTI CLASSIFICATORY SYSTEM 1 / KAKARI'S, GENERATION / CD CD / GENERATION
+    (II) OF ASCENDANTS; lines 2608-2760
+  start: '2608'
+  end: '2760'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A tabular extract from Rattray’s Ashanti kinship classificatory system
+    lists kin categories and terms involving mother’s sister, sister’s son, mother’s
+    sister’s husband, and wife’s sister’s son. It states that the first generation
+    of ascendants is complete, explains the abbreviations m.s. and w.s., and introduces
+    the section for Generation II of ascendants.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as part of an Ashanti classificatory kinship system
+    rather than as a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A table line pairs “Mother’s sister” with “Sister’s son (w.s.)” and gives
+    the associated terms “Ena” and “’Ba.”
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A table line pairs “Mother’s sister’s husband” with “Wife’s sister’s son”
+    and gives the associated terms “Agya (kuma)” and “’Ba, ’nua ’ba.”
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage marks the completion of the first generation of ascendants and
+    then introduces “GENERATION (II) OF ASCENDANTS.”
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note defines m.s. as “man speaking” and w.s. as “woman speaking.”
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mother’s sister
+  description: Kinship category listed in the table with the term “Ena.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Sister’s son (w.s.)
+  description: Kinship category listed in the table with the term “’Ba,” specified
+    as woman speaking.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Mother’s sister’s husband
+  description: Affinal kinship category listed in the table with the term “Agya (kuma).”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Wife’s sister’s son
+  description: Affinal kinship category listed in the table with the terms “’Ba, ’nua
+    ’ba.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: maternal aunt category
+  assigned_to:
+  - fig:1
+  basis: The table explicitly lists “Mother’s sister.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sister’s son category, woman speaking
+  assigned_to:
+  - fig:2
+  basis: The table explicitly lists “Sister’s son (w.s.),” with w.s. defined as woman
+    speaking.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: mother’s sister’s husband category
+  assigned_to:
+  - fig:3
+  basis: The table explicitly lists “Mother’s sister’s husband.”
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: wife’s sister’s son category
+  assigned_to:
+  - fig:4
+  basis: The table explicitly lists “Wife’s sister’s son.”
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: classificatory kinship terminology for ascendants and affinal relatives
+  taxonomy_refs: []
+  basis: The passage organizes kinship positions and terms under the first generation
+    of ascendants and introduces the second generation of ascendants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a social-classificatory pattern, not a mythological narrative
+    motif; the table is partially corrupted by OCR/layout artifacts.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2608-2760
+  quote_or_summary: The passage is a table-like extract from an Ashanti classificatory
+    kinship system, with layout/OCR artifacts and headings for generations of ascendants.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: lines 2608-2760
+  quote_or_summary: "“Mother’s sister Sister’s son (w.s.) Ena ’Ba”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: lines 2608-2760
+  quote_or_summary: "“Mother’s sister’s husband Wife’s sister’s son Agya ( kuma )
+    ’Ba, ’nua ’ba”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: lines 2608-2760
+  quote_or_summary: "“This completes first generation of ascendants.” / “GENERATION
+    (II) OF ASCENDANTS”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: quote
+  locator: lines 2608-2760
+  quote_or_summary: "“m.s. =man speaking ; w.s. = woman speaking.”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Extraction is limited by the fragmentary table layout and OCR artifacts.
+    No mythic symbols or comparative claims are supported by the provided passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs are supported by the passage; no comparison claims were generated.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l2608-l2760
+  passage_sha256=59def967d15088d337e63a6f15b88122c28acbac32f1c3055f2e593a93a1dc43
+

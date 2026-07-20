@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.buddhist-mahayana-texts-sbe49-cowell-archive-l16611-l16641
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+passage_locator:
+  label: XXIII. / OR DIAMOND-CUTTER. 139 / XXIV. / XXVI,; lines 16611-16641
+  start: '16611'
+  end: '16641'
+  translation: Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Subhiti says that, according to the Bhagavat's teaching, the Tathagata
+    is not to be known by possession of signs. The Bhagavat confirms this, explaining
+    that otherwise a wheel-turning king would also be a Tathagata. He then teaches
+    verses saying that those who seek him by form or sound engage in false efforts
+    and will not see him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Subhiti answers that the Tathagata is not to be seen or known by possession
+    of signs.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Bhagavat affirms Subhiti's answer and says that the Tathagata is not to
+    be seen or known by possession of signs.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The Bhagavat gives a reason: if possession of signs made the Tathagata known,
+    then a wheel-turning king would also be a Tathagata.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Bhagavat preaches two verses stating that those who see him by form or
+    hear him by sound are engaged in false endeavors and will not see him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note connects the passage with auspicious signs discovered in Sakyamuni
+    at birth.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Subhiti
+  description: Venerable interlocutor who states his understanding of the Bhagavat's
+    teaching.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bhagavat
+  description: Teacher who asks Subhiti about seeing or knowing the Tathagata by signs,
+    confirms the answer, and preaches verses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Tathagata
+  description: The one said not to be seen or known by possession of signs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: wheel-turning king
+  description: A royal figure used hypothetically by the Bhagavat in comparison with
+    the Tathagata regarding possession of signs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Sakyamuni
+  description: Named in the note as having auspicious signs discovered at birth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: responding disciple
+  assigned_to:
+  - fig:1
+  basis: Subhiti answers the Bhagavat and states his understanding of the teaching.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: doctrinal teacher
+  assigned_to:
+  - fig:2
+  basis: The Bhagavat asks the question, affirms Subhiti's answer, gives a reason,
+    and preaches verses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: not knowable by signs
+  assigned_to:
+  - fig:3
+  basis: The passage repeatedly says that the Tathagata is not to be seen or known
+    by possession of signs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: hypothetical royal counterexample
+  assigned_to:
+  - fig:4
+  basis: The wheel-turning king is introduced to show that possession of signs cannot
+    be sufficient for identifying a Tathagata.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: birth-sign figure in note
+  assigned_to:
+  - fig:5
+  basis: The note says the passage probably refers to auspicious signs discovered
+    in Sakyamuni at birth.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: signs
+  literal_form: possession of signs
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: form
+  literal_form: seeing by form
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sound
+  literal_form: hearing by sound
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wheel-turning kingship
+  literal_form: wheel-turning king
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: auspicious birth signs
+  literal_form: auspicious signs discovered in Sakyamuni at his birth
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Question about knowing the Tathagata by signs
+  summary: The Bhagavat asks whether the Tathagata is to be seen or known through
+    possession of signs, and Subhiti answers that he is not.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rejection of signs through royal counterexample
+  summary: The Bhagavat confirms the answer and argues that if signs made one a Tathagata,
+    a wheel-turning king would also be a Tathagata.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Verses against form and sound as means of seeing
+  summary: The Bhagavat teaches verses saying that those who seek him by form or sound
+    are engaged in false efforts and will not see him.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: true teacher not knowable by external signs
+  taxonomy_refs:
+  - wisdom
+  basis: The passage teaches that the Tathagata is not seen or known through signs,
+    form, or sound, but contrasts this with mistaken external recognition.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage is primarily doctrinal and
+    does not present a narrative myth episode.
+- id: motif:2
+  label: royal signs contrasted with spiritual realization
+  taxonomy_refs: []
+  basis: The Bhagavat uses the wheel-turning king as a counterexample to identifying
+    the Tathagata by possession of signs; the note links the issue to auspicious birth
+    signs.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage itself gives only a brief hypothetical comparison; the explanatory
+    note is incomplete in the supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16611-16619
+  quote_or_summary: The Bhagavat asks if the Tathagata is to be seen or known by possession
+    of signs; Subhiti replies that, as he understands the teaching, the Tathagata
+    is not known by signs.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 16619-16628
+  quote_or_summary: The Bhagavat says Subhiti is correct and explains that if the
+    Tathagata were known by signs, a wheel-turning king would also be a Tathagata;
+    therefore the Tathagata is not known by signs.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 16629-16636
+  quote_or_summary: Subhiti repeats his understanding, and the Bhagavat preaches verses
+    saying that those who seek him by form or sound pursue false endeavors and will
+    not see him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 16637-16641
+  quote_or_summary: A note says this probably refers to auspicious signs discovered
+    in Sakyamuni at his birth, leaving open whether he should become a king or a Buddh...
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source metadata; summarized from supplied public domain
+    passage; ending is truncated in supplied text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the dialogue and verses. Motif labeling
+    is cautious because the passage is doctrinal rather than narrative, and the footnote
+    is truncated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison beyond its own doctrinal contrast.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-mahayana-texts-sbe49-cowell-archive__l16611-l16641
+  passage_sha256=75cc1f840702a83d77fa4886ea54f3617383fddf95638abba312c88b34f5469b
+

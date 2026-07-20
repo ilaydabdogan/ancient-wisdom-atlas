@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l10571-l10609
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: BOXES   FOR   ARROW-   AND   SPEAR  POINTS / BUREAU   OF  AMERICAN    ETHNOLOGY
+    / EIGHTEENTH   ANNUAL   REPORT      PL.    LXII / BOXES    FOR    ARROWPOINTS    AND    PAINTS    (ONE-FIFTH);
+    lines 10571-10609
+  start: '10571'
+  end: '10609'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: This box is a kind of fetich in which are kept the small spear- and lance-points
+    used in killing whales.
+  summary: 'The passage describes animal-shaped boxes: a Diomede Islands wooden right-whale
+    box with a seal-shaped stopper for holding whale-hunting spear and lance points;
+    an exactly similar St Lawrence Island box; and a Cape Nome seal-shaped oval box
+    with a smaller seal forming the cover, bead eyes, and diagonal line decoration.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A box numbered G4220 from the Diomede Islands is described as a rude, heavily
+    made wooden figure of a right whale.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The whale figure has incised mouth and blowholes, and its lower body is excavated
+    into a rounded conical opening.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A stopper-like cover in the shape of a seal fits the lower opening of the
+    whale-shaped box.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A rawhide cord passes through holes in the whale and seal and is fastened
+    beneath; an additional cord loop passes through a hole in the whale's tail for
+    fastening.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Diomede Islands box is called a kind of fetich and contains small spear-
+    and lance-points used in killing whales.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A box numbered 632G8 from St Lawrence Island is described as exactly like
+    the preceding box.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Figure 27 on plate LXII shows a flattened oval box from Cape Nome representing
+    a seal with a smaller seal on its back.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The smaller seal on the Cape Nome box forms a long, pointed, oval cover.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The eyes of the larger seal on the Cape Nome box are indicated by blue beads.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The top of the Cape Nome box is crossed by parallel lines extending diagonally
+    backward from the middle toward the border.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: right-whale-shaped Diomede Islands box
+  description: A wooden box representing a right whale, with incised mouth and blowholes
+    and an excavated lower surface.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: seal-shaped stopper cover
+  description: A stopper-like cover in the shape of a seal fitted to the lower opening
+    of the whale-shaped box.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: larger seal on Cape Nome box
+  description: A flattened oval box from Cape Nome representing a seal, with blue
+    beads indicating its eyes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: smaller seal cover on Cape Nome box
+  description: A smaller seal on the larger seal's back, forming a long, pointed,
+    oval cover.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: animal-shaped box body
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes one box as a right-whale figure and another as a flattened
+    oval box representing a seal.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: animal-shaped cover
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The Diomede box has a seal-shaped stopper cover, and the Cape Nome box has
+    a smaller seal that forms the cover.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: fetich container for whale-hunting points
+  assigned_to:
+  - fig:1
+  basis: The Diomede whale-shaped box is explicitly called a kind of fetich containing
+    small spear- and lance-points used in killing whales.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: whale-shaped container
+  literal_form: Wooden right whale figure forming a box body
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: seal-shaped stopper
+  literal_form: Seal-shaped cover fitted into the whale-shaped box
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: rawhide fastening cord
+  literal_form: Rawhide cord passing through holes in the whale, seal, and whale tail
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: whale-hunting points
+  literal_form: Small spear- and lance-points kept in the box for killing whales
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: seal with smaller seal cover
+  literal_form: Larger seal-shaped box with a smaller seal on its back forming the
+    cover
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: blue bead eyes
+  literal_form: Blue beads indicating the eyes of the larger seal
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: diagonal parallel line decoration
+  literal_form: Parallel lines crossing the box top diagonally backward toward the
+    border
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Diomede whale-and-seal fetish box
+  summary: A Diomede Islands wooden box is shaped as a right whale, fitted with a
+    seal-shaped stopper cover, fastened with rawhide cord, and used to keep whale-killing
+    spear and lance points.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: St Lawrence Island parallel box
+  summary: A St Lawrence Island box numbered 632G8 is identified as exactly like the
+    previously described Diomede whale-and-seal box.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Cape Nome seal box with smaller seal cover
+  summary: A Cape Nome flattened oval box represents a seal with a smaller seal on
+    its back as the cover, blue bead eyes, and diagonal parallel line decoration across
+    the top.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal-shaped container for hunting or tool points
+  taxonomy_refs: []
+  basis: The passage describes boxes for projectile points, including a whale-shaped
+    box used to hold spear- and lance-points and a seal-shaped box shown in the same
+    plate context.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage is an artifact description rather than a narrative myth; the
+    Cape Nome box's exact contents are not specified in the excerpt.
+- id: motif:2
+  label: animal-shaped cover joined to animal-shaped container
+  taxonomy_refs: []
+  basis: The Diomede box uses a seal-shaped stopper on a whale-shaped body, while
+    the Cape Nome box uses a smaller seal on a larger seal as the cover.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain any symbolic meaning for the animal pairing.
+- id: motif:3
+  label: fetish container linked to whale hunting
+  taxonomy_refs: []
+  basis: The Diomede whale-shaped box is explicitly called a kind of fetich and contains
+    small spear- and lance-points used in killing whales.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe ritual use beyond naming the box a fetich
+    and stating its contents.
+comparison_claims:
+- id: claim:1
+  claim: The St Lawrence Island box numbered 632G8 is presented as the same object
+    pattern as the Diomede Islands whale-and-seal box.
+  claim_level: same_motif
+  target: St Lawrence Island box 632G8 compared with Diomede Islands box G4220
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The St Lawrence object is not separately described in detail; the claim
+    depends on the passage's statement that it was exactly like the preceding box.
+- id: claim:2
+  claim: The Diomede and Cape Nome boxes show a visual similarity in using an animal-shaped
+    box body with an animal-shaped cover.
+  claim_level: visual_similarity
+  target: Diomede whale-and-seal box compared with Cape Nome larger-seal-and-smaller-seal
+    box
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not state that the Cape Nome box had the same function
+    or meaning as the Diomede fetish box.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10583-10589
+  quote_or_summary: A Diomede Islands box numbered G4220 is a heavily made wooden
+    right-whale figure with incised mouth and blowholes; its lower body is excavated
+    to form an opening fitted with a seal-shaped stopper cover.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 10589-10594
+  quote_or_summary: A rawhide cord passes through holes in the whale and in the shoulders
+    of the seal cover and is fastened underneath; a cord loop near the seal's back
+    passes through a hole in the whale's tail for fastening.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 10594-10596
+  quote_or_summary: "“This box is a kind of fetich in which are kept the small spear-
+    and lance-points used in killing whales.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 10597-10599
+  quote_or_summary: A box numbered 632G8, exactly like the preceding box, was obtained
+    on St Lawrence Island.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 10600-10609
+  quote_or_summary: Figure 27, plate LXII, shows a flattened oval box from Cape Nome
+    representing a seal with a smaller seal on its back; the smaller seal forms a
+    long pointed oval cover, the larger seal's eyes are blue beads, and parallel lines
+    cross the top diagonally backward toward the border.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal artifact details are explicit. Motif labels are descriptive and require
+    review because the excerpt gives little explanation of symbolic or ritual meaning
+    beyond the word fetich.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was applied; animal, cord, and weapon-point symbols are recorded as passage-specific literal forms.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l10571-l10609
+  passage_sha256=dd859ac6249f5470d0cfff5b894d0214d2912295d1c2fd3977ee8169b632cb9d
+

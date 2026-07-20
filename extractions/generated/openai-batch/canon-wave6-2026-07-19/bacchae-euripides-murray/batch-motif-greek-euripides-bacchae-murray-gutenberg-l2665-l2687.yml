@@ -1,0 +1,224 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2665-l2687
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: CADMUS. / AGAVE. / AGAVE. / CADMUS.; lines 2665-2687
+  start: '2665'
+  end: '2687'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Raise me thine eyes to yon blue dome of air!
+  summary: Cadmus reflects that renewed knowledge of past actions would bring great
+    pain, considers whether ignorance might be preferable, and then asks Agave to
+    look up at the sky and say whether it appears the same or changed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Cadmus says that if the addressed people can know again the truth of what
+    they did, that truth will bring severe pain.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cadmus wonders whether it might be better for them to remain darkened forever,
+    not recognizing misery and not knowing happiness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Agave asks what Cadmus sees that should be blamed or not blessed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After hesitation, Cadmus tells Agave to raise her eyes to the blue dome of
+    air.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Agave says she has done so and asks what Cadmus wants her to seek there.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Cadmus asks whether what Agave sees is the same or changed in her sight.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cadmus
+  description: A speaking figure who reflects on the pain of knowing the truth and
+    directs Agave to look upward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Agave
+  description: A speaking figure who responds to Cadmus, looks where instructed, and
+    asks what she should seek.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: hesitant instructor
+  assigned_to:
+  - fig:1
+  basis: Cadmus hesitates, then instructs Agave to raise her eyes and questions her
+    perception.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: respondent directed to look
+  assigned_to:
+  - fig:2
+  basis: Agave answers Cadmus, follows his instruction to look, and asks what she
+    should seek.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: blue dome of air
+  literal_form: The sky or upper air described as a blue dome.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: darkened state
+  literal_form: A condition described as being darkened forevermore.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: raised eyes
+  literal_form: The action of lifting the eyes upward toward the blue dome of air.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cadmus prepares Agave for altered recognition
+  summary: Cadmus weighs the pain of renewed knowledge against continued ignorance,
+    then directs Agave to look upward and asks whether her sight perceives sameness
+    or change.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: painful return of knowledge
+  taxonomy_refs: []
+  basis: Cadmus states that knowing again the truth of what was done would bring intense
+    pain.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not identify the prior action or its wider cause within
+    these lines.
+- id: motif:2
+  label: merciful ignorance versus painful truth
+  taxonomy_refs: []
+  basis: Cadmus explicitly contrasts remaining darkened and unaware with knowing the
+    painful truth.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The language supports the contrast, but the passage alone does not resolve
+    whether ignorance is preferable.
+- id: motif:3
+  label: test or prompting of changed perception
+  taxonomy_refs: []
+  basis: Cadmus asks Agave to look at the sky and then asks whether it appears the
+    same or changed to her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a prompt about perception, but does not show Agave’s
+    answer or the result of the test.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2665-2672
+  quote_or_summary: Cadmus says that if they can know again the truth of what they
+    did, the truth will bring pain, and wonders whether it would be better to remain
+    darkened forevermore.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: '2675'
+  quote_or_summary: Agave asks, “What seest thou here to chide, or not to bless?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: quote
+  locator: 2679-2680
+  quote_or_summary: Cadmus, after hesitation, says, “Raise me thine eyes to yon blue
+    dome of air!”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: quote
+  locator: '2683'
+  quote_or_summary: Agave says she has done so and asks what Cadmus bids her seek
+    there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:5
+  type: quote
+  locator: 2686-2687
+  quote_or_summary: Cadmus asks whether it is the same or changed in Agave’s sight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal dialogue and perception imagery are clear. Motif labels are descriptive
+    and limited to the provided passage; no external comparisons are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the supplied passage does not directly support the available motif-family or symbol taxonomy labels.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2665-l2687
+  passage_sha256=943c1a8b177ec2a02e82846161f2092e2e3e1039a2ea60f84da75a569254e630
+

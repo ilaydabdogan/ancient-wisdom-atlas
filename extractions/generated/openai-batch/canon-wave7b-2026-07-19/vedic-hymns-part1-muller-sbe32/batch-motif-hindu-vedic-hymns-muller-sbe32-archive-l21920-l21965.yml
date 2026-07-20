@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l21920-l21965
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. / MANDALA II, HYMN 34. 295 / MANDALA II, HYMN 34. 207 / NOTES,; lines
+    21920-21965
+  start: '21920'
+  end: '21965'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on Rig Vedic Hymn II, 34 discuss its attribution, metre,
+    textual parallels, variant readings, and philological interpretations. The notes
+    mention the Maruts as sometimes represented as suitors, possibly of streams of
+    rain, and discuss terms connected with light, song, cloud, wind, and Agni.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The hymn is ascribed to Gvitsamada and its metre is specified in the note.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first verse is said to occur in the Taittiriya Brahmana with variant readings.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The word Dharavarah is described as doubtful in meaning, possibly meaning
+    wishing for rain or suitors of streams of rain.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Maruts are said to be sometimes represented as varas, or suitors.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A debated interpretation of arkinah is given as singers, but the note also
+    connects the form with arji, light.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Bhrimi is interpreted by the editor as a name of the cloud driven about by
+    the wind.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Agni is mentioned as a figure to whom a term may be applied in another passage.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Gvitsamada
+  description: Person to whom the hymn is ascribed in the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Maruts
+  description: Group described as sometimes represented as varas, or suitors.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Agni
+  description: Named in a philological comparison where a term is said to be applied
+    to Agni in another passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ascribed hymn author
+  assigned_to:
+  - fig:1
+  basis: The note says the hymn is ascribed to Gvitsamada.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine suitors
+  assigned_to:
+  - fig:2
+  basis: The note states that the Maruts are sometimes represented as varas, or suitors.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: named deity in lexical comparison
+  assigned_to:
+  - fig:3
+  basis: Agni is mentioned only as the figure to whom a term may be applied in another
+    passage.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: rain streams
+  literal_form: streams of rain
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: light
+  literal_form: light
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: cloud driven by wind
+  literal_form: cloud
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Philological note on rain and suitor imagery
+  summary: The note explains a doubtful word as possibly referring to wishing for
+    rain or to suitors of streams of rain, and adds that the Maruts may be represented
+    as suitors.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Philological note on light, song, and cloud terms
+  summary: The notes discuss whether a word means singers or relates to light, and
+    separately interpret a word as a cloud driven by wind.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine beings as suitors of rain streams
+  taxonomy_refs: []
+  basis: The passage explicitly says the Maruts are sometimes represented as suitors
+    and links the doubtful word with suitors of streams of rain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is an editorial note and does not quote or narrate the hymn
+    verse itself; the motif is inferred only from the note's description of wording
+    and representation.
+- id: motif:2
+  label: cloud driven by wind
+  taxonomy_refs: []
+  basis: The editor interprets bhrimi as a name of the cloud driven about by the wind.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: This is a lexical interpretation rather than a developed narrative motif
+    in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21920-21925
+  quote_or_summary: '"Hymn ascribed to Gvitsamada. Metre, 1-14 Gagati, 15 Trishṭubh"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 21925-21931
+  quote_or_summary: The note states that none of the verses occurs in SV, VS, or AV,
+    while the first verse is found in TB II, 5, 5, 4 with three variant readings.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 21932-21936
+  quote_or_summary: '"Dharavarah, a word of doubtful import, possibly meaning wishing
+    for rain, or the suitors of the streams of rain."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 21936-21938
+  quote_or_summary: '"The Maruts are sometimes represented as varas or suitors"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 21941-21950
+  quote_or_summary: The note reports Bergaigne's translation of arkinah as singers
+    from arka, then says this is disputed and that arkinah should be connected with
+    arji, light, unless the reading is changed.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 21958-21962
+  quote_or_summary: '"Bhrimi seems to me a name of the cloud, driven about by the
+    wind."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: summary
+  locator: lines 21962-21965
+  quote_or_summary: The note says that in another passage the term, as applied to
+    Agni, may mean quick, but that this meaning is impossible in the present passage.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The supplied passage is mostly editorial and philological rather than narrative
+    hymn text. Literal entities and symbols are extractable, but motif candidates
+    are tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison beyond internal textual and philological references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l21920-l21965
+  passage_sha256=074fc61bd08b89a0477ec5bc5a313ce9fceb1c66a37a798512eeba749b386d33
+

@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l10907-l10924
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: THE  SPIDER'S  VISIT  229 / THE  SPIDER'S  VISIT  231 / THE  'CUNNING  JERBOA
+    / THE  RUDE  MONKEY  235; lines 10907-10924
+  start: '10907'
+  end: '10924'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Cunning is better than strength, the Jerboa has killed the Lion.”"
+  summary: The Jerboa returns to the Beasts and says he has killed the Lion, allowing
+    them to feed peacefully in the forest, while he will live in a hole. The Beasts
+    praise him and repeat that cunning is better than strength. A note compares the
+    incidents with a Malayan story where a Tiger is killed and the Chevrotain is the
+    hero, adding that the Chevrotain is also a hero in Sierra Leone.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Jerboa returns to the place where the Beasts are gathered.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Jerboa tells the Beasts that he has killed the Lion.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Jerboa says the Beasts can feed in the forest in peace.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Jerboa says he is going to live in a hole.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The Beasts praise the Jerboa and state that cunning is better than strength.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage's comparative note says a Malayan story has almost identical incidents,
+    but with a Tiger killed and the Chevrotain as hero.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The comparative note says the Chevrotain is also the hero in Sierra Leone.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Jerboa
+  description: The animal who says he has killed the Lion and plans to live in a hole.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Beasts
+  description: The group addressed by the Jerboa; they praise him after hearing that
+    the Lion is dead.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lion
+  description: The powerful animal whom the Jerboa says he has killed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Tiger
+  description: In the cited Malayan comparison, the animal killed instead of the Lion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Chevrotain
+  description: In the cited Malayan comparison, the hero; the note also says he is
+    the hero in Sierra Leone.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: animal hero
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The Jerboa is praised for killing the Lion; the comparative note explicitly
+    calls the Chevrotain the hero in Malaya and Sierra Leone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: cunning victor
+  assigned_to:
+  - fig:1
+  basis: The Beasts connect the Jerboa's victory over the Lion with the statement
+    that cunning is better than strength.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: beneficiary community
+  assigned_to:
+  - fig:2
+  basis: The Jerboa says the Beasts can feed in the forest in peace after the Lion
+    is killed.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: defeated strong animal
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Lion is said to have been killed by the Jerboa; in the Malayan comparison,
+    a Tiger is killed instead.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: forest
+  literal_form: forest
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hole
+  literal_form: hole
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cunning over strength saying
+  literal_form: spoken proverb-like statement that cunning is better than strength
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Jerboa reports the Lion's death
+  summary: The Jerboa returns to the Beasts and announces that he has killed the Lion,
+    so they may feed peacefully in the forest; he adds that he will live in a hole.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beasts praise cunning
+  summary: The Beasts praise the Jerboa and repeat that cunning is better than strength
+    because the Jerboa has killed the Lion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Comparative note on parallel animal tales
+  summary: The passage notes an almost identical Malayan tale involving a Tiger and
+    Chevrotain, and adds that the Chevrotain is also a hero in Sierra Leone.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: cunning small animal defeats stronger predator
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Jerboa is associated with the maxim that cunning is better than strength
+    after he kills the Lion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt reports the outcome but does not include the actual trick
+    or killing episode, so the mechanism of cunning is not present in this line range.
+- id: motif:2
+  label: animal liberator enables peaceful feeding
+  taxonomy_refs: []
+  basis: The Jerboa says that because he has killed the Lion, the Beasts can feed
+    in the forest in peace.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only the concluding statement of the tale is present; broader social or
+    ritual meaning is not established by this excerpt.
+- id: motif:3
+  label: cross-regional animal hero variant
+  taxonomy_refs: []
+  basis: The comparative note identifies a Malayan story with almost identical incidents
+    but a Chevrotain hero and Tiger victim, and notes Chevrotain as hero in Sierra
+    Leone.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a brief bibliographic comparison and does not provide
+    the full parallel texts.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents the Malayan tale cited from Skeat as an almost
+    identical variant of the Jerboa-Lion episode, with Tiger replacing Lion and Chevrotain
+    replacing Jerboa as hero.
+  claim_level: same_motif
+  target: Malayan story in Skeat, Fables and Folk-Tales, page 28
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on the author's brief note rather than the
+    full Malayan text in this passage.
+- id: claim:2
+  claim: The passage links the Chevrotain's hero role in the Malayan story with a
+    similar hero role in Sierra Leone.
+  claim_level: same_function
+  target: Sierra Leone Chevrotain hero noted from Cronise and Ward, page 17
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note states similarity of hero role only; it does not say the Sierra
+    Leone incidents are almost identical to the Hausa or Malayan tale.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10907-10911
+  quote_or_summary: The Jerboa returns to the Beasts and says he has killed the Lion,
+    so they can feed in the forest in peace, and he will live in a hole.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 10912-10915
+  quote_or_summary: The Beasts say “Well done” and repeat, “Cunning is better than
+    strength, the Jerboa has killed the Lion.”
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quote used.
+- id: ev:3
+  type: summary
+  locator: lines 10916-10921
+  quote_or_summary: A Malayan story cited from Skeat is said to have almost identical
+    incidents, except that a Tiger is killed and the Chevrotain is the hero.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10921-10923
+  quote_or_summary: The note adds that the Chevrotain is also the hero in Sierra Leone,
+    citing Cronise and Ward.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and mostly contains the tale conclusion plus an authorial
+    comparative note. The outcome and stated maxim are clear, but the full trickster
+    action is outside the line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The heading in the supplied locator and passage includes neighboring tale titles, but the extracted content concerns the conclusion of the Jerboa-Lion tale and the following comparative note.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l10907-l10924
+  passage_sha256=d8f0f2554f38f8c2ebae92b6071a4b6f7eee30e9fc7d8ccdc465d1f67ffc6396
+

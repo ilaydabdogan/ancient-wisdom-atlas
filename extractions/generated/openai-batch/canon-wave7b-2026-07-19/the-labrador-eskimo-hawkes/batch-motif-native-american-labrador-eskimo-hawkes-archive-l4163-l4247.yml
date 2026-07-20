@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l4163-l4247
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: THE  KAYAK. / HUNTING  AND  FISHING. / HUNTING  WEAPONS, / S  .2; lines 4163-4247
+  start: '4163'
+  end: '4247'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: line is payed out as needed, and the kayaker attempts to get near enough
+    to the wounded animal to dispatch it with the killing lance.
+  summary: 'The passage describes kayak hunting equipment and procedures: harpoon
+    attachment, pursuit of a wounded animal, use of float and drag, final dispatch
+    with a lance, securing game with a sealing hook, and forms of bird-spear or bird-dart,
+    including regional parallels for an extra trident form.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Figure 16 is identified as showing the manner of attaching the two principal
+    parts of the harpoon, with the figure credited to Boas's The Central Eskimo.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During the hunt, line is paid out while the kayaker approaches a wounded animal
+    in order to dispatch it with a killing lance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If the struck animal dives deeply or struggles enough to endanger the kayak,
+    the float and drag are thrown overboard and the animal is allowed to tire before
+    the final blow.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The lance is called anyo'^iyuk, translated in the passage as "the killer,"
+    and is described as similar to the kayak harpoon except that it has a fixed head
+    and no line.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Lance heads are described as usually iron or ivory with a heavy iron point,
+    while old weapons used slate and flint; another longer, more slender variety is
+    said to be used for deer at river mouths and inlets.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: After game is dispatched with the lance, it is drawn along and secured with
+    a sealing hook consisting of a long wooden shaft, an iron hook, and a notched
+    handle.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The sealing hook rests on the back of the kayak together with the lance.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The bird-spear or bird-dart is placed at the hunter's left hand in front;
+    the modern form has a light wooden shaft and triple-pronged iron or ivory point,
+    while the old-style form had three notched or barbed ivory prongs.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: An extra trident at the middle of the spear is described as also appearing
+    in specimens from Baffin Island and Alaska.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: kayaker / hunter
+  description: The person in the kayak who pays out line, approaches the wounded animal,
+    uses the killing lance, and has the bird-spear at the left hand in front.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: wounded animal / game / quarry
+  description: The hunted animal is wounded, may dive or struggle, is allowed to tire,
+    is dispatched with a lance, and is then drawn and secured with a sealing hook.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: deer
+  description: Deer are said to be killed with a lance variety when crossing river
+    mouths and inlets.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: kayak hunter
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the kayaker or hunter as approaching the wounded animal
+    and handling hunting equipment.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:2
+  label: game animal / quarry
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage refers to the wounded animal or game being dispatched and secured,
+    and to deer killed while crossing river mouths and inlets.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: kayak harpoon and line
+  literal_form: Harpoon with two principal parts and a line paid out during the hunt;
+    the lance is compared to the kayak harpoon but lacks the line-fastening button.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: killing lance
+  literal_form: Fixed-head lance called anyo'^iyuk, with iron, ivory, slate, or flint
+    elements depending on form and age.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: float and drag
+  literal_form: Float and drag thrown overboard when the wounded animal dives or struggles.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sealing hook
+  literal_form: Long wooden shaft, 12 to 15 feet, with an iron hook and notched handle,
+    used to draw and secure game.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: bird-spear / bird-dart with trident prongs
+  literal_form: Light wooden shaft with triple-pronged iron or ivory point; old-style
+    bird-dart with three notched or barbed ivory prongs; an extra trident at the middle
+    of the spear is noted.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: kayak
+  literal_form: Kayak used by the hunter and carrying the lance and sealing hook on
+    its back.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:7
+  label: water setting
+  literal_form: Overboard water during kayak hunting and river mouths and inlets where
+    deer cross.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Kayak pursuit after harpoon strike
+  summary: The kayaker pays out line, approaches the wounded animal, and aims to dispatch
+    it with a killing lance; if the animal dives or struggles dangerously, the float
+    and drag are thrown overboard so it can tire before the final blow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Description and use of the killing lance
+  summary: The lance is defined as a fixed-head weapon called "the killer," made with
+    iron, ivory, slate, or flint elements; a longer slender variety is said to be
+    used for deer crossing river mouths and inlets.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Securing dispatched game
+  summary: After game is dispatched with the lance, it is drawn along and secured
+    with the sealing hook, a long hooked shaft with a notched handle that rests on
+    the kayak with the lance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Bird-spear forms and regional parallels
+  summary: The passage describes modern and old-style bird-spear forms with triple
+    prongs or barbed ivory prongs, and notes an extra trident form also seen in Baffin
+    Island and Alaska specimens.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Kayak hunting sequence of wound, pursuit, exhaustion, and final dispatch
+  taxonomy_refs: []
+  basis: The passage describes line being paid out, the kayaker approaching the wounded
+    animal, float and drag being deployed if the animal dives or struggles, and a
+    final blow with the killing lance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic hunting procedure, not a mythic narrative motif
+    in this passage.
+- id: motif:2
+  label: Auxiliary float and drag used to tire dangerous quarry
+  taxonomy_refs: []
+  basis: When the animal dives deeply or struggles in a way that may upset the kayak,
+    the float and drag are thrown overboard and the animal is allowed to wear itself
+    out.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only the practical hunting function; no symbolic interpretation
+    is stated.
+- id: motif:3
+  label: Post-kill retrieval and securing of game by hook
+  taxonomy_refs: []
+  basis: After the game is dispatched with the lance, it is drawn along and secured
+    with the sealing hook.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a technical sequence rather than a narrative episode.
+- id: motif:4
+  label: Multi-pronged bird-spear or trident-form weapon
+  taxonomy_refs: []
+  basis: The passage describes a triple-pronged bird-dart, an old-style three-pronged
+    barbed form, and an extra trident at the middle of the spear.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The evidence supports a material weapon pattern only; it does not establish
+    a broader symbolic trident motif.
+- id: motif:5
+  label: Hunting deer at water crossings
+  taxonomy_refs: []
+  basis: A lance variety is said to be used for deer killed when crossing river mouths
+    and inlets.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The statement is brief and reported as 'said to be'; no detailed scene
+    or mythic context is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The extra trident at the middle of the bird-spear is directly compared in
+    the passage to similar specimens from Baffin Island and Alaska.
+  claim_level: visual_similarity
+  target: Baffin Island and Alaska bird-spear specimens
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports visual or typological similarity only; it does
+    not demonstrate historical contact, common inheritance, or a mythological relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4163-4172
+  quote_or_summary: Figure 16 is captioned as showing the manner of attaching the
+    two principal parts of the harpoon and is credited to Boas, The Central Eskimo.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 4173-4178
+  quote_or_summary: '"line is payed out as needed, and the kayaker attempts to get
+    near enough to the wounded animal to dispatch it with the killing lance."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 4178-4188
+  quote_or_summary: If the struck animal dives deeply or struggles enough to risk
+    upsetting the kayak, the float and drag are thrown overboard and the animal is
+    allowed to tire before the final blow.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4190-4203
+  quote_or_summary: The lance, anyo'^iyuk or "the killer," is about the same size
+    and construction as the kayak harpoon but has a fixed head, no line, and no line-fastening
+    button; its head is usually iron or ivory with a heavy iron point, while older
+    weapons used slate and flint.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4203-4210
+  quote_or_summary: Another lance variety has a longer, more slender shaft and a long
+    point firmly lashed into the shaft; it is said to be used for deer killed while
+    crossing river mouths and inlets.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4212-4222
+  quote_or_summary: After game is dispatched with the lance, it is drawn along and
+    secured with the sealing hook, ne'tceq, a 12-to-15-foot wooden shaft with an iron
+    hook and notched handle; the hook rests on the back of the kayak with the lance.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4224-4237
+  quote_or_summary: The bird-spear is at the hunter's left hand in front; the modern
+    bird-dart has a light wooden shaft and a triple-pronged iron or ivory point, while
+    the old-style bird-dart had three notched or barbed ivory prongs.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4237-4247
+  quote_or_summary: Figure 19b shows an extra trident at the middle of the spear,
+    at the point of gravity, also seen in specimens from Baffin Island and Alaska.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a clear ethnographic description of hunting implements and
+    procedures. Motif candidates are treated as practical recurrent patterns rather
+    than mythic narrative motifs. Internal line subranges are approximate within the
+    supplied stable passage locator.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available motif-family taxonomy references are directly supported by the passage. The available symbol taxonomy reference 'water' is used only for the literal water setting of overboard kayak hunting and river/inlet crossings.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l4163-l4247
+  passage_sha256=b463e32176bf3a4bc9b2681905503076d58f43a379d9b559e671134c242ebe4b
+

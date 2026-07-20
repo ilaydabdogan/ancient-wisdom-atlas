@@ -1,4 +1,66 @@
+---
+id: native_american.pima_indians.russell_archive
+title: The Pima Indians
+alternate_titles:
+- The Pima Indians (BAE 26th Annual Report)
+text_status: complete
+tradition: native_american_southwest
+culture: akimel_oodham_ethnography_with_myths_and_songs
+region: north_america_sonoran_desert
+source_language: O'odham (Pima) oral traditions mediated through English
+text_language: English
+date_range: living oral traditions; fieldwork 1901-1902 on the Gila River; published
+  1908 (BAE 26th Annual Report, 1904-1905)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.pimaindians01russgoog
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1908 Government Printing
+    Office edition (Google Books scan)
+  translator: Frank Russell
+  editor: ''
+  publication_year: 1908
+  publisher: Internet Archive
+  source_url: https://archive.org/details/pimaindians01russgoog
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: US government publication (BAE), public domain. Recording context - includes
+    the Pima creation myth cycle taken from Thin Leather and other narrators plus
+    a large corpus of translated song texts; myths recorded through interpreters,
+    close paraphrase with some verbatim songs.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- pima
+- oodham
+- southwest
+- field_recorded
+motifs:
+- creation
+- flood
+- elder_brother
+- song_power
+figures: []
+---
+
 # The Pima Indians
+
 INTRODUCTION
 
 From November, 1901, until June, 1902, the writer made his headquarters at Sacaton (see pi. i), on the Gila River reservation, in southem Arizona, where he was engaged in a study of the Pima tribe. With
@@ -73,7 +135,7 @@ well as knowledge of facts pertaining to various customs, especially those pecul
 Antonio Azul (see pi. ii, o) was the head chief of the tribe, and from him much information concerning
 war customs and recent history was obtained.
 
-Ki'satc, Cheese, an old Santan pariah, had employed such wit as gnidging miture had ondowo l him
+Ki'satc, Cheese, an old Santan pariah, had employed such wit as gnidging miture had ondowo<l him
 with in practising the arts of the medicine-man. His contributions, while of a minor character, proved
 to be of interest.
 
@@ -352,7 +414,7 @@ Casa Blanea 315
 
 "There are 1.200 laboring Pimas and 1,000 warriors.'"
 
-James F. Rusling (The Great West and the Pacific Coast, 369), who visited the Pimas in 18 i7, also
+James F. Rusling (The Great West and the Pacific Coast, 369), who visited the Pimas in 18<i7, also
 states that there were then ten Pima villages.
 oPont mentions a Pima-Papago village in this vicinity, called "Cuitoa." Manuscript Diary, 3r>.
 
@@ -951,8 +1013,8 @@ This original survey contained 04,000 acres — much less than the Pimas claimed
 for their fields and grazing lands. The commissioners who negotiated with them assun»d the tril)e
 that the present boundaries were but temporary limits to protect the people in their rights, and that
 the Government would enlarge the reservation later. This promise was made good by a survey In 1809,
-which added 81,140.10 acres (U. S. Statutes at Large, 18 i0, ii, 401). In 1870 9,000 acres about the
-village of IJlackwater were adde l to the eastern end of the reservation.
+which added 81,140.10 acres (U. S. Statutes at Large, 18<i0, ii, 401). In 1870 9,000 acres about the
+village of IJlackwater were adde<l to the eastern end of the reservation.
 
 o " In August and September, 1857, the San .\ntonioand Sun Diego semimonthl5' stage line, under the
 direction of T. C. Woods, was established, James Burch acting as contractor. This continued till the
@@ -1322,7 +1384,7 @@ lS35-3e
 QUa Crossingj Salt River. One summer afternoon when only
 women and old men were at home, the Apaches came and killed two
 Pimas, a man who was irrigating his field and a boy who was hunting
-doves. That morning the younger men of the village of Rs&n ik had
+doves. That morning the younger men of the village of Rs&n<ik had
 planned to have a rabbit hunt toward the north, but when the crier
 gave the final announcement it was to hunt toward the south. Thus
 it was that one side of the village had been left unprotected, and when
@@ -4545,7 +4607,7 @@ of them at the end of a cliff ruin of eight or ten rooms in Aravaipa
 canyon. There are several in a rough hillock in Ilarshaw canyon,
 Patagonia mountains. The base of the conical hill at Tucson is well
 o There are two specimens in the collection. The larger is 1.450 ra. long; 10 cm. in diameter at the
-middle, with notches for ni !ck8: 30 cm. wide. The second specimen is 1.200 m. long.
+middle, with notches for ni<!ck8: 30 cm. wide. The second specimen is 1.200 m. long.
 
 ft The mortar ol the horizontal typo in the collection is perhaps a trifle smaller than the average.
 It measures 40 cm. in length, 27 cm. in height, and 22 cm. In thickness. A heavy specimen of this
@@ -5247,7 +5309,7 @@ purpoHo of expelling disease.
 
 » Till' Innt tiibli't In 122 nun. long by 50 mm. wide; It is 6 mm. thick at one side and tapers to 2 mm.
 Ml III*' othi-r. 'V\w lurK«'iit niMcimon la 151 mm. long by 94 mm. wide and 10 mm. thick; the border is 10
-iiuii. widi'. iiiarkrd thus: XXXX. The l)roken specimen ia87 mm. wide: its length can not bedeteriiiliH'd, Tin* .X patt« m at the ituirgin runs over to the surface of the reverse side.
+iiuii. widi'. iiiarkrd thus: XXXX. The l)roken specimen ia87 mm. wide: its length can not bedeteriiiliH'd, Tin* .X patt«<m at the ituirgin runs over to the surface of the reverse side.
 
 '• I^'MKlli. 4M nun.; liitiTmil diameter, 16 mm.; maximum external diameter, 26 mm.
 
@@ -6866,12 +6928,12 @@ They are woven in a diagonal pattern, each splint passing under
 three others before appearing again, and the wrong side being rough.*^
 The splints are softened by soaking at the time of weaving and
 become somewliat stifl' when dried. The warp and woof are alike,
-a Twenty-six cm. in  iijinii'ter at the top and 22 at the bottom. Then' an- 7 cdils in the rim, making
+a Twenty-six cm. in <iijinii'ter at the top and 22 at the bottom. Then' an- 7 cdils in the rim, making
 it 4 cm. deep.
 
 ft The willow .sieve in tho collection was made on request by Sala 1 Huh . as t here a re now none of the old
 style to be found. It is:iJcni. h>ng. the ends of the rods projecting 3c rn. l>eyon(i the hoop to fonn a sort
-of handle. The hoop is 2»» cm. wi le. There arc 4 cross-twisted strands to hold the rods in phice. The
+of handle. The hoop is 2»» cm. wi<le. There arc 4 cross-twisted strands to hold the rods in phice. The
 willow rods are 2 mm. apart and 2 mm. in tlLimeter.
 
 e Fig. 71 shows the detail of this, with the ends of the splints that have bwn doubled back, showing
@@ -6964,11 +7026,11 @@ The spindle collected is of arrowwood, the cross bar is of cactus rib. Length, 7
 o " I suppose that all are proWded with cotton blankets; but, o^^ing to the almost incesMint heat of
 the day, they seldom wear thoni,*' writ«'s Bartlett (Personal Narrative, ii,'-»29); but in fact there were
 many poor I'imas whohad no blankets and in winter they must havel>een nilsoral>le, indeed , despite the
-mildness of the climate. Those who wore unable to weave but were well to  io obtained l)Iankets by
+mildness of the climate. Those who wore unable to weave but were well to <io obtained l)Iankets by
 bartering corn. l)0«ns, and other produce, or horses at the rate of one horse for two blankets.
 
 b Bartlett (lo8cri]>es the rima method of weaving as follows: " In weaving, the wan> i.s attached to two
-sticks, an l strotehed upon the ground by means of stakes. Kach alternate thn»ad of the warp is passed
+sticks, an<l strotehed upon the ground by means of stakes. Kach alternate thn»ad of the warp is passed
 round a pietn^ of cane, whieh. being lifted, opens a passage for the shuttle in the manner of a sley. The
 operator sits in the fashion of a tailor, and, raising the sley with one hand, with the other passes the shuttle, which is simply a pointed stick ^^ith the thread wound upon it, iK'twiHjn the threads of the warp.
 The work is l>eaten up after the passage of each thread by the use of a sharp smooth-i'dged instrument
@@ -7222,7 +7284,7 @@ ft Length, 2.(KJ m.: width, «m mm. The fringe is 20 cm. in length and neatly br
 
 c Frobel, who viMited the Pimas half a century ago, says of their weaving. ■ Man w Qrdc sich al)erirren
 wenn man giaubtc. dass diese KUnste durt'h die Bekchnmg zum Christenthum ])ofordert worden seien.
-Im Gegentheilo sind sie  ladurch in V'crfjill gerathen. dcnn bei den heidnifK'hen Pimas findet uian dleselben in eincm hoheren (Jrade vou Vollkommenhelt." Aiis Amerika. li, 440.
+Im Gegentheilo sind sie <ladurch in V'crfjill gerathen. dcnn bei den heidnifK'hen Pimas findet uian dleselben in eincm hoheren (Jrade vou Vollkommenhelt." Aiis Amerika. li, 440.
 
 <*lt is worthy of note that the southern California Coahuilla [Kawia] similarly differ from other
 American Indians. In that tribe, also, the houses (jacals) aro built by the men. See D. P. Barrows in American Anthropologist, n. s., 1901, iii, 71)5.
@@ -7305,7 +7367,7 @@ Distance between arched willow ribs .20
 
 Height of door .81
 
-Width of d K)r .01
+Width of d<K)r .01
 
 The absence of a smoke hole is noteworthy, as it is almost universally present in primitive dwellings. Its absence can not be explained
 by the fact that the mildness of the cUmate permits the Pimas to
@@ -7335,7 +7397,7 @@ the sun.
 The fourth type of dwelling is the arbor, or, as some of the early
 writers termed it, ''the bower." It is a cottimwood framework supported by crotched posts, roofed with arrowwood and earth, affordmg a shade from the sun, from which protection is desirable during
 
- i Notes, p. tA.
+<i Notes, p. tA.
 
 
 the greater part of the year. The roof furnishes a convenient place
@@ -7604,7 +7666,7 @@ that the writer might photograph them.
 If in the pristine period of Pimerfan history the lines upon the rich
 brown skins were meant to symbolize the thought or fancy of the
 artists, no knowledge of the fact has survived the vicissitudes of war
-and strife through the centuries. To- lay they are meaningless and
+and strife through the centuries. To-<lay they are meaningless and
 to-morrow will have been forgotten.
 
 TATTOOING
@@ -7723,7 +7785,7 @@ FiQ. 7\h Runner's hair ornament.
 
 
 a Such an ornament was made for the writer's collection ])y Sika'tcu of arrowwood with four hooks
-of devils' claw attarhe l to it with sinew. The hooks arc arranged in the sarr.o plane and curved
+of devils' claw attarhe<l to it with sinew. The hooks arc arranged in the sarr.o plane and curved
 downward us shown in flgure 79. The upper pair are wound with blue strings terminating with
 b'lfl at the tips. Total length, 237 mm.; spread of hooks, 170 mm.
 
@@ -8115,7 +8177,7 @@ them, kept them in fit condition. However, they had an athletic
 game which corresponded in a measure to the races of the men and
 developed skill in running. This game was played as follows:
 
-Ai-D y
+Ai-D<y
 • •
 Two of the swiftest runners among the women acted as leaders
 and chose alternately from the players until all were selected in two
@@ -8379,7 +8441,7 @@ carried across and returned to the first hole,
 the "horses'' who carry them attempting to
 imitate the gallop of the horse.
 
-VAP !rTAI
+VAP<!rTAI
 
 A guessing game in which a number of
 players act as assistants to two leaders. A
@@ -8679,7 +8741,7 @@ PUBERTY DANCE
 
 B
 
-A girl reached the age of puberty at 11 or i^, flnmAfimflfl  ua Aorly
+A girl reached the age of puberty at 11 or i^, flnmAfimflfl <ua Aorly
 as 10. Th e acquirement by a young woman of the (to them) wholly
 mysterious functional characteristics of the age of puberty rendered her an object of concern and distrust to the elders. When
 'the fact was discovered her mother selected some favorite w^oman
@@ -9053,7 +9115,7 @@ Fog
 
 Shming-Star
 
-Coyote- Fo jtprint
+Coyote- Fo<jtprint
 
 Coyote-She(l
 
@@ -10503,7 +10565,7 @@ Ridge of Foam, because at its summit, which endsgradually and. iiccessi))leaft4�
 of a bastion, may be descried near the very top a white crest like a clilT. which follows horizontally
 along the ridge for u good space. The Indians say that this is a mark of the foam of the waters wliich
 reached that height. The Belnnior reuuiined above and left the dog below, so that ho might warn him
-when the waters reache l that height. When the waters rose to the crest of foam, the beast warned
+when the waters reache<l that height. When the waters rose to the crest of foam, the beast warned
 the Bobetlor (for in those days aniimils could speak) and the latter raised him up from below. A few
 
 
@@ -10540,8 +10602,8 @@ daya later the Bebedor «cnt the Iliimmlng-bini (Sheparosiis) and the coyote to 
 when it was brought he made from it various men, some of whom turned out pood iind others bad.
 These men spread over the land up and down the river. Not long afterwards he sent some of his men
 to see if those who dwelt up the stream could speak. They sot forth and shortly returned, saying that
-although they spoke, they could not understand what they sni l. At this the Bi«bedor was greatly
-incensed, namely, that those men should apeak without having reocivc l his permission. Thereupon
+although they spoke, they could not understand what they sni<l. At this the Bi«bedor was greatly
+incensed, namely, that those men should apeak without having reocivc<l his permission. Thereupon
 he sent other men downstrejim to look after those who were thrro. They returned, saying that they
 had been well received and that the people there spoke anothrr languiigr. which, however, they had
 been able to understand. Then the Bebedor told them that the men who dwelt downstream were the
@@ -10549,12 +10611,12 @@ good men, who extondod as far jts the Opas. with whom thoy were frit'iidiy: and 
 dwelt up.stream were the had men an«l were the Apjiches. their eneniit's. The n»>lM»ti()r once grew wrathful with the people. Hid sl»«w many of them, converting them into Sji^'uaros in thnt land. The Saguaros
 is a green trunk. a([iie(>us. of f;iir height, of uniform circuinferencr. and pcrfj'cTly .st might from its base
 to its top, with rows of thick thorns which extend along its whole length ami usually with two (»r three
-branches of thosanic shape which look like arms. Once again di«l the Ik'l'e lor luvonie wrathful against
+branches of thosanic shape which look like arms. Once again di«l the Ik'l'e<lor luvonie wrathful against
 men and caused the sun to descend to burn them. Thus they were on the point of being destroyed when
 the men entreated him earnestly not to burn them. Then the Belnvlor said he shouM not now btim
 them, and ordered tin* .sun to ascend once more, but not to such a distance as before, sajing that he
 left it lower down in order that he might burn them with it if they should jigain anger him. For this
-reason it is .so hot in that land during the sinnmer. At this j)oint he adde l that he knew other stories
+reason it is .so hot in that land during the sinnmer. At this j)oint he adde<l that he knew other stories
 which he could not relate becau.se the time did not |>ermit. and he agreed to relat«? them to us another
 day. But in:ismuch as we nuide some fun of his stories, which he told quite seriously, we could not
 afterwards persuade him to tell us anything else: for he kept Siiying that he knew no more. All this
@@ -10715,7 +10777,7 @@ fonned a ring round the fire to keep him away from the ('ori)se.
 
 "The Coyote ran round the ring until he came to the liadger. who was very short. The Coyote
 jumped over him. seized the heart of .Matyavela. which was Ihr only part not hunit up, and niadf oil
-with it. lie btiriit his mouth in  lo;ng this, and it's hhick to this day." John (J. Bourke. Nott's on the
+with it. lie btiriit his mouth in <lo;ng this, and it's hhick to this day." John (J. Bourke. Nott's on the
 Cosmogony and Theogony of the Mohave Indians of the Hio Colorado. Arizona. Journal ol American
 Folk- Lore, ll, 188.
 
@@ -10965,7 +11027,7 @@ there and found some green stones (stcu'-uttiik h&'tai'), which became
 very useful for necklaces and ear pendants.
 
 There were people living at some tanks on the east side of the
-mountains (Ta'-at ikam) north of Picacho, and among them was a
+mountains (Ta'-at<ikam) north of Picacho, and among them was a
 man named Tarsnamkam, Meet the Sun. He saw the beautiful stones
 used at Casa Grande and wished to get some of them ; but how was
 o" Mr J. D. Walkor. an old rrsidrnt of the \icinity of Casii Grande, who has boon to me personally
@@ -10982,7 +11044,7 @@ the asi.'ent. When the eagle came back Ci-ho slew him with a sword, and thus ]il
 from the scoui^ge.' " A. F. Bandelier, Papers Archeol. Inst., ser. iv, pt. u, 462-4G3.
 
 
-he to do it? He made a fine green bird, 8tcu-ut ik o'-oftk, parrot, and
+he to do it? He made a fine green bird, 8tcu-ut<ik o'-oftk, parrot, and
 sent it to Casa Grande, telling it to swallow all the green stones it
 could find about the houses. The parrot went to Casa Grande and
 was found one day by the daughter of Si'al Tcu'-utak Si'van''. The
@@ -11022,7 +11084,7 @@ either raw or cooked food. The people tried to ,kill her, because she
 killed and ate their children. She went to the moimtain Ta'-atdkam
 and lived there for a while in a cave. Then she went to Baboquivari
 for a time and then to Poso Verde, where she was killed by Elder
-Brother. As Elder Brother and the people were preparing to overcome the magic power of HtV&k they san i; together:
+Brother. As Elder Brother and the people were preparing to overcome the magic power of HtV&k they san<i; together:
 
 Dazzling power has Elder Brother,
 
@@ -11310,7 +11372,7 @@ It will be ditheult,
 It will bedilficiilt.
 To capture this pueblo
 
-With its magic pow T.
+With its magic pow<T.
 
 They then attacked Tco'tcdk Ta'tai Si'van>', who was the most
 powerful of all the chiefs who ventured to oppose them.
@@ -11390,7 +11452,7 @@ A'-an Ili'tftpakI Si'van^ they sang:
 The small Blue Eagle alights;
 
 The small Blue Eagle alights.
-Aft T emerging from the middh» of th(» land.
+Aft<T emerging from the middh» of th(» land.
 
 To and fro he moves before me
 .\s my staff already has foretold.
@@ -12210,7 +12272,7 @@ she saw him going along toward the camp. She also saw his mother,
 her daughter-in-law, out alone gathering seeds. She recognized her
 at a distance by the shining of her scars. The old woman ran after
 the boy, l)ut when she caught up with him he stepped aside and turned
-into a sa j:uaro. Then after she had turned around and gone back he
+into a sa<j:uaro. Then after she had turned around and gone back he
 resumed his form and went on to his mother.
 
 When she saw him she cried out, ''Don't come near me, the Aj)a('hes
@@ -12394,14 +12456,14 @@ he abu^icd the woman and in retaliation the magicians concealed all
 file useful nnlmals in a cave; thene released by Coyote.
 
 Vilntru supplied witli niagie gambling sticks by Feather-breathing
-Bi'van'. Elder Brother interferc i and causi^d Viintre to be turned
+Bi'van'. Elder Brother interferc<i and causi^d Viintre to be turned
 into an eagle. F^agle lived on mountain and preyed on the people
 until killed by Elder Brother.
 
 TarKnarnkam sent his parrot to steal turquoisea at Casa Grande;
 aent football tn diiugliter of Si' van' there; child bom from tlus
 became themonnter Ili-ftk, who killed and ate children until destroyed
-by Elder Brother* 'r ibftfH'o plant grew from grave of old woman
+by Elder Brother* 'r<ibftfH'o plant grew from grave of old woman
 Aio had stolen Iia-Ak^H blood-
 
 Elder Bmtlu^r Fell inli* disfavor with the people^ who killed him
@@ -12619,8 +12681,8 @@ that some, after they die. live like owls (Jecolbtrs; and finally they said that
 understand such things well, and tluit those who know it nil a n^ those who live in the sierra over
 there lieyond thi> Rio Colonido." (Jare^s' Diary in Coues. On the Trail of a Spanish Pioneer, i, 122.
 
-"After death Mohavcs Iw'i'onK' spiriis: thrn thry die again an l beeonu' a kind of an owl; a »<>cond
-tinn' th<'y turn iiitoa (liir<'n'iit kind of an owl. aii l a third tiineinto still aiiothor; fourthly, thoy f) x?ome
+"After death Mohavcs Iw'i'onK' spiriis: thrn thry die again an‹l beeonu' a kind of an owl; a »<›cond
+tinn' th<'y turn iiitoa (liir<'n'iit kind of an owl. aii<l a third tiineinto still aiiothor; fourthly, thoy f)<x?ome
 wut«'r Ix'ctles; iifter tluit Ihcy turn into air.
 
 •' If aiu'thing is l«'ft of tlirir l>odics. tli<> arms, the nuiscles of the upp<»r arms iMroineone kin«l of an
@@ -12666,7 +12728,7 @@ dreams.
 To dream of the dead causes sickness in the dreamer and if he
 dream of the dead for several nights in succession he will die. Dreams
 are not consulted for information concerning future action except in
-ish the corn in thf valleys nn l the grass on tho hills? Therefore it is that when we are in need we
+ish the corn in thf valleys nn<l the grass on tho hills? Therefore it is that when we are in need we
 pray to Estsamiltehi. th«' (Joddess of the Sunset Land.
 
 " But first man and first woman wen* angrj- lMX?ause they wen^ banlsheci to the east, and liefore
@@ -12801,7 +12863,7 @@ crops, the weather, and the wars are called Makai, Magicians.
 Only one or two women were ever admitted to this order among the
 Pinitus. Tliero were usually about five Makai in each village.
 These two chisses were the true rulers of the tribe, as their influence
-wavS much  i;roator than that of the chiefs. Their combined strength
+wavS much <i;roator than that of the chiefs. Their combined strength
 was for years turned a<^ainst the niissionary, Rev. C. H. Cook, but
 their inlhuMice is now fust waning and several medicine-men have
 boconie avowed Christians. From these converts information was
@@ -13495,5 +13557,4 @@ Urticaria
 
 
 Toothache
-
 

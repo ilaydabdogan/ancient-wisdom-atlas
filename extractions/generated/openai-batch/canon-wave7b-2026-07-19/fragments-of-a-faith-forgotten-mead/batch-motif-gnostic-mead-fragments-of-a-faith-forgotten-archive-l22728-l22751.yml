@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.gnostic-mead-fragments-of-a-faith-forgotten-archive-l22728-l22751
+source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+passage_locator:
+  label: FROM  THE  ACTS  OF  JOHN.  443 / FROM    THE    ACTS   OF   ANDREW.  445
+    / FROM   THE  ACTS   OF   ANDREW. / FROM    THE    TRAVELS    OF    PETER.; lines
+    22728-22751
+  start: '22728'
+  end: '22751'
+  translation: Fragments of a Faith Forgotten
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces a final speech attributed to Peter in the romance
+    of his Travels or Circuits, preserved in a fragment associated with the Martyrdom
+    of Peter. It states that Peter insisted on being crucified head downward. In the
+    speech, Peter addresses the Lord as the one crucified upright and as redeemer,
+    says he wishes to imitate the Lord's passion, but refuses to be hanged upright.
+    He contrasts humans born from Adam with the Lord as divine light and unstained
+    savior.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage frames the material as a final speech put into Peter's mouth in
+    a romance of his Travels or Circuits.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Peter insisted on being crucified head downward.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Peter addresses the Lord as having been stretched on the cross with head on
+    high.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Peter says he desires to imitate the Lord in the Lord's passion, but does
+    not wish to be hanged upright.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Peter distinguishes humans born from Adam from the Lord, who is called God
+    of God and Light of true Light.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Lord is described as becoming man without stain of man and as man's glorious
+    Saviour.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Peter
+  description: Figure to whom the final speech is attributed; he is said to have insisted
+    on crucifixion head downward.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Lord
+  description: Addressed by Peter as crucified with head on high, redeemer of the
+    world, God of God, Light of true Light, and man's Saviour.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Adam
+  description: Named as the one from whom pure men and sinners are born.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: pure men and sinners
+  description: Human group described as born from Adam.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: attributed speaker
+  assigned_to:
+  - fig:1
+  basis: The introduction says the final speech is put into Peter's mouth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: inverted crucifixion subject
+  assigned_to:
+  - fig:1
+  basis: The legend says Peter insisted on being crucified head downward.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: upright crucified redeemer
+  assigned_to:
+  - fig:2
+  basis: Peter addresses the Lord as stretched on the cross with head on high and
+    as redeemer of the world from sin.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine savior
+  assigned_to:
+  - fig:2
+  basis: The Lord is called God of God, Light of true Light, and man's glorious Saviour.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: human ancestor
+  assigned_to:
+  - fig:3
+  basis: The speech says pure men and sinners are born from Adam.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Adam-born humanity
+  assigned_to:
+  - fig:4
+  basis: The speech groups pure men and sinners as born from Adam.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cross
+  literal_form: cross
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: head-downward crucifixion
+  literal_form: being crucified head downwards
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: head-on-high crucifixion
+  literal_form: stretched on the cross with head on high
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Light of true Light
+  literal_form: Light of true Light
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Introduction of Peter's final speech
+  summary: The editor introduces a final speech attributed to Peter in the Travels
+    or Circuits and links it to a fragment called the Martyrdom of Peter.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of Peter's inverted crucifixion
+  summary: The legend says Peter insisted on crucifixion head downward, and the quoted
+    speech explains this through contrast with the Lord's upright crucifixion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Human and divine contrast in Peter's speech
+  summary: Peter contrasts Adam-born humans with the Lord, who is described as divine
+    light, pre-aeonic, unstained in becoming man, and savior.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: imitative martyrdom of a divine model
+  taxonomy_refs:
+  - sacrifice
+  basis: Peter says he desires to imitate the Lord in the Lord's passion, while the
+    frame concerns his martyrdom and crucifixion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage uses martyrdom and passion language, but does not explicitly
+    call Peter's death a sacrifice.
+- id: motif:2
+  label: inverted crucifixion distinguishing disciple from Lord
+  taxonomy_refs:
+  - duality
+  basis: Peter's head-down crucifixion is explained by contrast with the Lord's head-on-high
+    crucifixion and by a distinction between Adam-born humans and the divine Lord.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference captures contrast or opposition only broadly; the
+    passage's specific motif is inverted crucifixion.
+- id: motif:3
+  label: divine savior becomes human without stain
+  taxonomy_refs: []
+  basis: The Lord is described as God of God and Light of true Light who became man
+    without stain of man and stood forth as man's Saviour.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is fragmentary and does not provide the full doctrinal context.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly compares Peter''s intended crucifixion with the Lord''s
+    passion: Peter wishes to imitate the Lord, but changes the bodily orientation
+    to avoid being hanged upright like him.'
+  claim_level: same_motif
+  target: the Lord's upright crucifixion and passion
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage; it does not establish a
+    broader historical relationship beyond the text's own explanation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22728-22737
+  quote_or_summary: The section is headed from the Travels of Peter and introduces
+    a final speech put into Peter's mouth in the romance of his Travels or Circuits,
+    found in a fragment called the Martyrdom of Peter.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 22737-22742
+  quote_or_summary: '"Peter insisted on being crucified head downwards"'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 22742-22745
+  quote_or_summary: '"stretched on the cross with head on high, O Lord, who hast redeemed
+    all of the world from sin"'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 22745-22749
+  quote_or_summary: '"I have desired to imitate Thee in Thy passion too; yet would
+    I not take on myself to be hanged upright"'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 22749-22751
+  quote_or_summary: Peter says pure men and sinners are born from Adam, while the
+    Lord is God of God, Light of true Light, before and after all aeons, and became
+    man without stain as man's glorious Saviour.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and ends mid-sentence, but the main narrative frame
+    and Peter's explanation for inverted crucifixion are clear.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to available motif families and left empty where no supplied reference directly matched.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:gnostic-mead-fragments-of-a-faith-forgotten-archive__l22728-l22751
+  passage_sha256=4c373f65c6dd2fe734dd90608cfe1888236e9357c0f433b989c29efce05133d2
+

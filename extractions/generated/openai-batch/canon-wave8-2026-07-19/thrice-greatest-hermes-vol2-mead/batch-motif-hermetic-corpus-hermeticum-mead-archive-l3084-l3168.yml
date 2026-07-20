@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l3084-l3168
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: CORPUS HERMETICUM II. (III.) / TO ASCLEPIUS / TO ASCLEPIUS 61 / TO ASCLEPIUS
+    63; lines 3084-3168
+  start: '3084'
+  end: '3168'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Hermes, in dialogue with Asclepius, explains that motion comes from an
+    interior animate principle such as soul or spirit rather than from bodies alone.
+    He denies that existent things are void, rejects the example of empty vessels,
+    and identifies air as body.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hermes states that all motion is caused in station and by station.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hermes says the cosmos and every other hylic animal are moved by interior
+    causes such as soul, spirit, or something similar, not by exterior things.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hermes denies that a body by itself moves a living thing and says a lifeless
+    thing will not move another lifeless thing.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hermes describes the mover as animate and says the soul alone lifts two bodies.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Asclepius proposes that things moved must be moved in something void.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hermes replies that no things that are are void, and that only the is-not
+    is void and alien to subsistence.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Asclepius asks whether objects such as an empty cask, jar, cup, and vat count
+    as empty things.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Hermes calls the supposedly empty objects full and asks whether air is body;
+    Asclepius agrees that it is.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hermes / Thrice-greatest one
+  description: Speaker who teaches Asclepius about motion, the soul or spirit as interior
+    mover, the absence of void among existing things, and air as body.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Asclepius
+  description: Interlocutor who asks Hermes questions, proposes the void as the medium
+    of motion, names apparently empty vessels, and agrees that air is body.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Soul
+  description: Interior animate principle described as moving or lifting bodies.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Cosmos / hylic animal
+  description: The cosmos, grouped with every other hylic animal, is described as
+    moved by interior causes such as soul or spirit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Teacher of metaphysical doctrine
+  assigned_to:
+  - fig:1
+  basis: Hermes responds to Asclepius with doctrinal statements about motion, soul,
+    void, and air.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: Questioning interlocutor
+  assigned_to:
+  - fig:2
+  basis: Asclepius asks for clarification, proposes void, raises examples of empty
+    vessels, and answers Hermes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Animate mover
+  assigned_to:
+  - fig:3
+  basis: The soul is named among interior causes and is said to lift two bodies.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: Moved living material organism
+  assigned_to:
+  - fig:4
+  basis: The cosmos and other hylic animals are described as moved by interior causes.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Cosmos as hylic animal
+  literal_form: cosmos and every other hylic animal
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Interior soul or spirit
+  literal_form: soul, spirit, or another incorporeal thing in the body
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: Void / is-not
+  literal_form: void and the is-not
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Apparently empty vessels
+  literal_form: empty cask, empty jar, cup, vat, and similar objects
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Air as body
+  literal_form: air body
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Motion and the interior animate mover
+  summary: Hermes explains to Asclepius that the motion of the cosmos and other living
+    material organisms is caused from within by soul, spirit, or a similar principle,
+    and that the mover must be animate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Void, vessels, and air
+  summary: Asclepius suggests that motion occurs in a void and asks about empty vessels.
+    Hermes denies that existent things are void, calls such vessels full, and elicits
+    agreement that air is body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Wisdom instruction through dialogue
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is structured as Hermes teaching and correcting Asclepius through
+    questions and answers about metaphysical matters.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is philosophical dialogue rather than a mythic narrative episode.
+- id: motif:2
+  label: Interior animate principle as mover
+  taxonomy_refs: []
+  basis: Motion of the cosmos and other living material organisms is attributed to
+    interior causes such as soul or spirit, and the mover is described as animate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No external mythic parallel is asserted from the supplied passage.
+- id: motif:3
+  label: Plenum rather than void
+  taxonomy_refs: []
+  basis: Hermes denies that existing things are void, rejects the example of empty
+    vessels, and treats air as a body filling them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a metaphysical pattern, not a narrative motif with characters
+    acting in a plot.
+- id: motif:4
+  label: Cosmos as living material organism
+  taxonomy_refs: []
+  basis: The passage groups the cosmos with other hylic animals and explains its motion
+    through interior living principles.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states the association briefly; the broader cosmological context
+    is outside the supplied excerpt.
+- id: motif:5
+  label: Being and non-being opposition
+  taxonomy_refs:
+  - duality
+  basis: Hermes distinguishes things that are from the is-not, associating void only
+    with the is-not.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy ref is broad; the passage presents a philosophical
+    contrast rather than a developed dualistic myth.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison to the wisdom motif family because
+    it presents a named teacher explaining doctrine through dialogue with a questioning
+    interlocutor.
+  claim_level: same_motif
+  target: 'available taxonomy motif family: wisdom'
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This claim is based only on the passage's instructional dialogue form;
+    it does not assert historical contact or dependence on any external text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: TO ASCLEPIUS 63, opening motion discussion within lines 3084-3168
+  quote_or_summary: Hermes says all motion is caused in station and that the cosmos
+    and other hylic animals are moved by interior causes such as soul or spirit rather
+    than by exterior things.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; passage metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: TO ASCLEPIUS 63, §9 within lines 3084-3168
+  quote_or_summary: Hermes answers Asclepius by denying that lifeless bodies move
+    lifeless things and by identifying the mover as animate.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; passage metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: TO ASCLEPIUS 63, end of §9 within lines 3084-3168
+  quote_or_summary: Hermes says the soul is heavily laden because it alone lifts two
+    bodies, and adds that moved things are moved in something and by something.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; passage metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: TO ASCLEPIUS 63, §10 within lines 3084-3168
+  quote_or_summary: Asclepius says moved things must be moved in something void; Hermes
+    replies that no existent thing is void and that only the is-not is void and strange
+    to subsistence.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; passage metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: TO ASCLEPIUS 63, transition from §10 to §11 within lines 3084-3168
+  quote_or_summary: Asclepius asks about an empty cask, jar, cup, vat, and similar
+    objects; Hermes objects that such things are most full and replete.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; passage metadata permits full text use.
+- id: ev:6
+  type: quote
+  locator: TO ASCLEPIUS 63, §11 within lines 3084-3168
+  quote_or_summary: Hermes asks, "Is not air body?" Asclepius answers, "It is."
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; passage metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is clear from the dialogue. Motif classification is more
+    tentative because the excerpt is philosophical instruction rather than narrative
+    mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Editorial footnotes are not used for external comparison claims.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l3084-l3168
+  passage_sha256=be579b21c9253d12f6fe647df1f10c01af160b3f75d62b47447b0fa97108d26a
+

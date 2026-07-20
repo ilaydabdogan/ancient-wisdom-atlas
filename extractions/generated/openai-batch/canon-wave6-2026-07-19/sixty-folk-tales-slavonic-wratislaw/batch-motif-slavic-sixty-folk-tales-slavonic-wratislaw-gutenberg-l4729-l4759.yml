@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l4729-l4759
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: XXI.--THE FROST, THE SUN, AND THE WIND. / XXII.--LITTLE ROLLING-PEA. / XXIII.--THE
+    WONDERFUL BOYS. / XXIV.--GOD KNOWS HOW TO PUNISH MAN.; lines 4729-4759
+  start: '4729'
+  end: '4759'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A traveller with a letter stays again at a proprietor's house. The hosts
+    try to return money by hiding it in his knapsack. The traveller hangs the knapsack
+    on a tree while reaching for apples, then flees when he sees the proprietor. The
+    proprietor places the knapsack with the money on a bridge, but the traveller closes
+    his eyes to test crossing as if blind and unknowingly steps over it. The proprietor
+    concludes that the traveller has angered God.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man returns with a letter and stays overnight at the proprietor's house
+    as at an old acquaintance's.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hosts try to return money by wrapping it in a cloth and placing it in
+    the man's knapsack before dismissing him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The traveller notices apples, removes his knapsack, hangs it on a tree, and
+    reaches for the apples.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the traveller sees the proprietor, he flees and leaves the knapsack on
+    the tree.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The proprietor takes the knapsack down, places it on the bridge, and hides
+    nearby to watch what will happen.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The traveller comes to the bridge, closes his eyes to test whether he could
+    cross if blind, taps with his stick, steps over the money, and continues on his
+    way.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The proprietor says aloud that the traveller has angered God.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the man / traveller
+  description: A man carrying a letter who stays at the proprietor's house, leaves
+    with a knapsack, flees in the orchard, and later crosses the bridge with his eyes
+    closed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: the proprietor / host
+  description: The host who receives the traveller, finds the forgotten knapsack,
+    puts it on the bridge, watches from behind a bush, and comments on the event.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: the proprietor's household
+  description: The group described as receiving the man, being glad, and trying to
+    return the money by placing it in his knapsack.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: traveller with letter
+  assigned_to:
+  - fig:1
+  basis: He comes again with a letter, stays overnight, and proceeds on his way.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: host and proprietor
+  assigned_to:
+  - fig:2
+  basis: He is called the proprietor and host, and he manages the forgotten knapsack
+    after the traveller flees.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: attempted returners of money
+  assigned_to:
+  - fig:3
+  basis: They try to return the money by wrapping it in cloth and putting it in the
+    traveller's knapsack.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: observer and interpreter
+  assigned_to:
+  - fig:2
+  basis: He hides behind a bush to watch and then says that the traveller has angered
+    God.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: wrapped money
+  literal_form: Money wrapped in a cloth and put first in the traveller's knapsack,
+    then placed on the bridge.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: knapsack
+  literal_form: The traveller's knapsack, containing the hidden money and later left
+    on a tree and placed on the bridge.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: apple tree in the orchard
+  literal_form: A tree in the orchard on which the traveller hangs his knapsack while
+    reaching for apples.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bridge / foot-bridge
+  literal_form: The bridge where the proprietor places the knapsack and money, and
+    where the traveller walks with closed eyes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: closed eyes and stick
+  literal_form: The traveller closes his eyes and taps with his stick while crossing
+    the bridge.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Money hidden in the traveller's knapsack
+  summary: After receiving the traveller for the night, the hosts wrap money in cloth
+    and put it into his knapsack before sending him away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Knapsack abandoned in the orchard
+  summary: The traveller hangs his knapsack on a tree to pick apples, sees the proprietor,
+    flees, and leaves the knapsack behind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Money missed on the bridge
+  summary: The proprietor places the knapsack and money on the bridge and watches.
+    The traveller crosses with closed eyes as a test, steps over the money, and goes
+    on.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Proprietor's conclusion
+  summary: After seeing the traveller miss the money, the proprietor states that the
+    traveller has angered God.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Divine punishment inferred from thwarted recovery
+  taxonomy_refs:
+  - divine_judgment
+  basis: The traveller repeatedly fails to receive the money, and the proprietor explicitly
+    interprets the final missed opportunity by saying that the traveller has angered
+    God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The divine judgment is voiced by the proprietor; the passage does not
+    present direct divine speech or an explicit narrator's confirmation.
+- id: motif:2
+  label: Unknowingly stepping over a needed or returned object
+  taxonomy_refs: []
+  basis: The money is placed where the traveller should find it, but he closes his
+    eyes at the bridge and steps over it without taking it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local narrative pattern in the passage rather than a matched
+    taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4729-4736
+  quote_or_summary: The man returns with a letter, stays at the proprietor's house,
+    and the hosts wrap money in cloth and put it in his knapsack before dismissing
+    him.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4736-4743
+  quote_or_summary: On the footpath through the orchard, the traveller admires the
+    apples, hangs his knapsack on a tree, reaches for apples, sees the proprietor,
+    flees, and leaves the knapsack behind.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4743-4750
+  quote_or_summary: The proprietor finds the knapsack, reasons that the traveller
+    will pass by the foot-bridge, places it on the bridge, and hides behind a bush
+    to watch.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4751-4758
+  quote_or_summary: At the bridge the traveller wonders how he would cross if blind,
+    closes his eyes, taps with his stick, goes straight forward, steps over the money,
+    and continues on his way.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 4758-4759
+  quote_or_summary: '"He has angered God!"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the passage. Motif interpretation is limited
+    because the divine-punishment explanation is reported as the proprietor's statement,
+    not as direct narration.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage appears to be from the tale indicated by the heading 'GOD KNOWS HOW TO PUNISH MAN.' Prior context for why the money is being returned is outside this line range and has not been inferred.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l4729-l4759
+  passage_sha256=32a223dcb9527b2dabb9242cbf9184afb6d4e9b6c0f27f6b8af601167c585303
+

@@ -1,0 +1,499 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l628-l703
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: INTRODUCTION. IX / X INTRODUCTION. / INTRODUCTION. XI / INTRODUCTION. XV;
+    lines 628-703
+  start: '628'
+  end: '703'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The first step, then, towards the acquisition of a story is to establish
+    confidence.
+  summary: The passage describes social and linguistic boundaries between Highland
+    and Lowland communities, then gives examples of how a collector may gain or fail
+    to gain access to oral tales from a Highland fisherman, an elderly woman, a young
+    woman, and an itinerant tinker household. Shared Gaelic, kinship claims, persuasion,
+    and trusted company affect whether tales are told or recorded.
+  language: English with quoted Gaelic words and phrases
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that lack of a common language keeps Highlands and Lowlands,
+    Celt and Saxon, separate while still allowing slow mutual influence.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator states that establishing confidence is the first step toward
+    acquiring a story.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Highland fisherman initially sees the approaching collector as a stranger
+    and begins with a polite comment about the weather.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the stranger answers in Gaelic, the fisherman's manner changes, and he
+    asks where in the Gaeldom the stranger is from.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After conversation and persuasion, the fisherman tells a story while rowing
+    the Gaelic-speaking gentleman across a Highland loch.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At parting, the fisherman says he told the story to please a Gael and would
+    not have told it to a Gall; he is also shy when asked to repeat it for transcription
+    unless accompanied by a known neighbour.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An elderly woman named Mary may become friendly if kinship can be claimed,
+    and she may praise ancestors and tell of Rob Roy the Gregorach.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Mary calls Murachag and Mionachag an ursgeul and nonsense, while the narrator
+    concludes that she knows at least one tale and probably more.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A young woman reacts intelligently to catch-words but will not admit that
+    she knows tales condemned by the minister.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: An old wandering tinker lives with his tribe in a tent pitched in a quarry
+    under a giant fir whose roots form a hollow, with smoke curling among the blackened
+    roots.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: would-be collector / Gaelic-speaking stranger
+  description: A stranger or gentleman seeking to acquire and transcribe stories;
+    he approaches the fisherman and answers him in Gaelic.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Highland fisherman
+  description: A strapping west-country fisherman in rough blue clothing; initially
+    guarded toward the stranger, then responsive when addressed in Gaelic, and later
+    a narrator of a story.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: old dame / Mary
+  description: A seventy-year-old woman in a white mutch, red cloak, and white apron,
+    familiar with neighbouring families and potentially knowledgeable about tales.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: pretty lass
+  description: A young woman whose eye shows recognition at catch-words but who refuses
+    to admit knowledge of condemned tales.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: minister
+  description: A religious authority mentioned as having condemned the foolish tales
+    known by the young woman.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: old wandering tinker
+  description: An itinerant tinker with no roof except the tattered covering of his
+    tent, camped in a quarry under a giant fir.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: tinker's tribe
+  description: The tinker and his tribe are said to have nestled at odd times for
+    years in the hollow formed by the fir roots.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Rob Roy the Gregorach
+  description: A named figure whose adventures Mary may recount; the passage calls
+    him the last of the freebooters.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: known neighbour
+  description: A neighbour whose presence helps the shy fisherman repeat his story
+    for transcription.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: story collector
+  assigned_to:
+  - fig:1
+  basis: The figure seeks the acquisition and transcription of stories.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: guarded oral story-holder
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The fisherman tells only after trust is established; Mary is said to know
+    tales but resists; the young woman will not confess knowledge of condemned tales.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Gaelic-speaking trusted interlocutor
+  assigned_to:
+  - fig:1
+  basis: The stranger's Gaelic reply changes the fisherman's response, and the fisherman
+    later says he told the tale to please a Gael.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: kinship-linked elder informant
+  assigned_to:
+  - fig:3
+  basis: Mary knows neighbouring families for generations and becomes friendly if
+    cousinship can be claimed.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: subject of recounted adventures
+  assigned_to:
+  - fig:8
+  basis: Mary may tell of the adventures of Rob Roy the Gregorach.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: condemning religious authority
+  assigned_to:
+  - fig:5
+  basis: The young woman will not admit knowledge of tales the minister has condemned.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: trusted transcription companion
+  assigned_to:
+  - fig:9
+  basis: The fisherman's story is obtained on paper only when he is set with a neighbour
+    he knows.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: itinerant marginal dweller
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The tinker and his tribe live in a tent in a quarry hollow under a tree.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Gaelic as trust marker
+  literal_form: The Gaelic reply to the weather greeting and the fisherman's exclamation,
+    'You have Gaelic!'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: oil and water separation image
+  literal_form: Highlands and Lowlands, Celt and Saxon, are described as separate
+    like oil and water in the same glass.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: broken ice of confidence
+  literal_form: The narrator says that, after questions, 'the ice' is broken and confidence
+    is established.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Highland loch crossing
+  literal_form: The fisherman rows the Gaelic-speaking gentleman across a Highland
+    loch while telling the story.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: giant fir and root hollow
+  literal_form: A giant fir with knarled, half-bare roots forming a hollow or 'cos'
+    where the tinker and his tribe have stayed.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: smoke among blackened roots
+  literal_form: Thin blue smoke curling among the blackened roots and about the tree.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: tattered tent shelter
+  literal_form: The tattered covering of the tinker's tent, described as his only
+    roof.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Communities separated by language
+  summary: The narrator describes Highlands and Lowlands, Celt and Saxon, as mutually
+    aware and slowly affecting one another but kept separate by lack of common language.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gaelic greeting establishes confidence
+  summary: A collector approaches a guarded Highland fisherman; after answering in
+    Gaelic, the fisherman's suspicion turns to wonder and conversation opens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fisherman tells and restricts the tale
+  summary: After persuasion, the fisherman tells a story while rowing across a loch,
+    later explaining that he told it only for a Gael and not for a Gall, and needing
+    a known neighbour for transcription.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Mary's guarded knowledge of tales
+  summary: The collector may gain Mary's friendship through kinship, but she dismisses
+    a named tale as nonsense, while the narrator infers that she knows at least one
+    tale and likely more.
+  figure_refs:
+  - fig:3
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Young woman conceals condemned tales
+  summary: A young woman shows recognition at verbal prompts but refuses to admit
+    knowledge of tales condemned by the minister.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Tinker camp under the fir
+  summary: An itinerant tinker and his tribe occupy a quarry shelter under a giant
+    fir, with roots forming a hollow and smoke curling among them.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Trust-gated oral transmission
+  taxonomy_refs: []
+  basis: The passage repeatedly frames tale acquisition as dependent on confidence,
+    shared language, persuasion, kinship, or trusted company.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a collection-context pattern rather than a plot motif within a
+    traditional tale.
+- id: motif:2
+  label: Native language as social key
+  taxonomy_refs: []
+  basis: The fisherman's attitude changes when the stranger speaks Gaelic, and he
+    later says he told the tale to a Gael but would not have spoken to a Gall.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supports this as a social and linguistic access pattern, not
+    as a mythic supernatural key.
+- id: motif:3
+  label: Concealed or condemned tale knowledge
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Mary dismisses a tale as nonsense while being inferred to know tales, and
+    the young woman refuses to confess knowledge of tales condemned by the minister.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage concerns social or
+    religious disapproval of folk tales, not explicit esoteric or supernatural forbidden
+    knowledge.'
+- id: motif:4
+  label: Root-hollow encampment
+  taxonomy_refs: []
+  basis: The tinker and his tribe are described as nesting for years in a hollow formed
+    by the roots of a giant fir in a quarry.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This is primarily a vivid setting image; the passage does not identify
+    it as a recurrent narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 628-637
+  quote_or_summary: The passage says lack of common language keeps Highland/Lowland
+    and Celt/Saxon groups separate, using images of deer and herrings and of oil and
+    water in one glass.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 638-640
+  quote_or_summary: The first step toward acquiring a story is said to be establishing
+    confidence.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt/summarized.
+- id: ev:3
+  type: summary
+  locator: lines 641-660
+  quote_or_summary: A Highland fisherman greets the stranger about the fine day; the
+    stranger replies in Gaelic, after which the fisherman exclaims that he has Gaelic
+    and asks where in the Gaeldom he is from.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 661-674
+  quote_or_summary: After the ice is broken, the fisherman reveals that he knows a
+    story, tells it while rowing the Gaelic-speaking gentleman across a loch, says
+    he told it only to please a Gael and not a Gall, and is shy about transcription
+    unless with a known neighbour.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 675-691
+  quote_or_summary: An old woman named Mary knows local families, may be won by kinship,
+    recounts ancestors and Rob Roy, but calls Murachag and Mionachag an ursgeul and
+    nonsense; the narrator infers she knows at least one tale and probably more.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 692-697
+  quote_or_summary: A young woman reacts to catch-words but will not confess knowledge
+    of foolish tales condemned by the minister.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 698-703
+  quote_or_summary: An old wandering tinker has a tent in a quarry under a giant fir;
+    the roots form a hollow or cos where he and his tribe have stayed, with thin blue
+    smoke curling among blackened roots.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage is explicit. Motif candidates
+    are mostly social transmission patterns from an introduction, not mythic narrative
+    motifs; comparison claims were left empty because the passage does not itself
+    support a comparative mythology claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or comparisons were used; extraction is limited to the supplied passage and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l628-l703
+  passage_sha256=93dc2b631aa8721dbe9c74ab3ae79142993126189be938c878ec0398450131e3
+

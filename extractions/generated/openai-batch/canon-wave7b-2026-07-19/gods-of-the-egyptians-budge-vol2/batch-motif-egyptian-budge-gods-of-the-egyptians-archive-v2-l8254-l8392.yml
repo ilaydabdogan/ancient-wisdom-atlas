@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l8254-l8392
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: HYMN   TO    OSIRIS  159 / HYMN    TO    OSIRIS  161 / XVIIITH  DYNASTY,  ABOUT  B.C.   1500
+    / HYMN   TO    OSIRIS; lines 8254-8392
+  start: '8254'
+  end: '8392'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: HYMN   TO    OSIRIS
+  summary: A hymn segment praises Osiris with a sequence of divine epithets and sacred-place
+    associations. The praised figure is called a hidden soul, lord of Qerert, holy
+    one in White Wall, soul of Ra, recipient of offerings and praise, lord of the
+    Great House in Khemennu, lord of eternity, chief of Abydos, and seated in the
+    Land of holiness. The final visible fragment also names Tern as a divine god and
+    chief of the paut, though the context is damaged.
+  language: English with Egyptian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is labeled as a hymn to Osiris.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The praised figure is described as commemorated in Maati, a hidden soul, and
+    lord of Qerert.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The praised figure is called a holy one in White Wall and is identified with
+    the soul of Ra and Ra's body.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The figure is described as satisfied with offerings in Henen-suten and abundant
+    in praise in Nart.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The figure's soul is said to have become exalted as lord of the Great House
+    in Khemennu.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The figure is called a great one of terror in Shas-hetep, lord of eternity,
+    and chief of Abydos.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The figure is said to extend his seat in the Land of holiness.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The figure's name is described as established in the mouth of mankind and
+    associated with the two lands.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The final visible fragment names Tern as a divine god and chief of the paut,
+    but the surrounding context is fragmentary.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: The hymn addressee, praised through divine epithets, sacred-place associations,
+    offerings, praise, lordship, and a sacred seat.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Ra
+  description: A named deity in the epithet that calls the praised figure the soul
+    of Ra and of Ra's body.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Tern
+  description: A named divine figure in the final visible fragment, described as a
+    divine god and chief of the paut; the context is damaged.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: hymn recipient and praised deity
+  assigned_to:
+  - fig:1
+  basis: The title names the passage as a hymn to Osiris, and subsequent lines give
+    the praised figure's epithets.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: divine identity referent
+  assigned_to:
+  - fig:2
+  basis: Ra is named in the epithet 'the soul of Ra, of his very body.'
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: lord and chief of sacred places
+  assigned_to:
+  - fig:1
+  basis: The praised figure is called lord of Qerert, lord of the Great House in Khemennu,
+    lord of eternity, and chief of Abydos.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:4
+  label: recipient of offerings and praise
+  assigned_to:
+  - fig:1
+  basis: The passage states that the figure is satisfied with offerings and abundant
+    in praise.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: named divine figure in fragment
+  assigned_to:
+  - fig:3
+  basis: The final visible fragment names Tern as a divine god and chief of the paut.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Hidden soul
+  literal_form: soul hidden
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Soul of Ra
+  literal_form: the soul of Ra, of his very body
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Offerings
+  literal_form: offerings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Great House
+  literal_form: the Great House in Khemennu
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Sacred seat
+  literal_form: his seat in the Land of holiness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Two lands
+  literal_form: the two lands
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Hymnic praise through epithets and sacred places
+  summary: The hymn praises Osiris by naming sacred localities, soul-identifications,
+    offerings and praise, lordship, eternal authority, and a sacred seat; the final
+    fragment also names Tern as a divine god.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Deity localized across sacred places
+  taxonomy_refs: []
+  basis: The hymn associates the praised deity with Maati, Qerert, White Wall, Henen-suten,
+    Nart, Khemennu, Shas-hetep, Abydos, and the Land of holiness, using lordship and
+    holiness epithets.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a litany of epithets rather than a narrative episode.
+- id: motif:2
+  label: Offerings and praise to a deity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The figure is said to be satisfied with offerings and abundant in praise.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage shows offerings and praise directed toward the deity, but
+    it does not narrate an explicit reciprocal exchange.
+- id: motif:3
+  label: Hidden and exalted divine soul
+  taxonomy_refs: []
+  basis: The praised figure is described as a hidden soul, the soul of Ra, and as
+    having an exalted soul.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage gives epithets, not a developed account of transformation
+    or union.
+- id: motif:4
+  label: Sacred enthronement in a holy land
+  taxonomy_refs: []
+  basis: The figure is called lord of eternity and chief of Abydos and is said to
+    extend his seat in the Land of holiness.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The text describes divine status and seating; it does not explicitly describe
+    a coronation or human royal legitimation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8254-8392
+  quote_or_summary: HYMN   TO    OSIRIS
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: 8254-8392
+  quote_or_summary: who is commemorated in Maati, soul hidden, lord of Qerert
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: 8254-8392
+  quote_or_summary: holy one, in White Wall, the soul of Ra, of his very body
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: 8254-8392
+  quote_or_summary: satisfied with offerings in Henen-suten, abundant of praise in
+    Nart
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:5
+  type: quote
+  locator: 8254-8392
+  quote_or_summary: hath become exalted his soul [as] lord of the Great House in Khemennu
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:6
+  type: quote
+  locator: 8254-8392
+  quote_or_summary: great one of terror in Shas-hetep, lord of eternity, chief of
+    Abydos
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:7
+  type: quote
+  locator: 8254-8392
+  quote_or_summary: extendeth his seat in the Land of holiness
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:8
+  type: quote
+  locator: 8254-8392
+  quote_or_summary: established of name in the mouth of mankind, the two-fold paut
+    of the two lands
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; metadata permits full text use.
+- id: ev:9
+  type: quote
+  locator: 8254-8392
+  quote_or_summary: Tern the divine god of the has, chief of the paut
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is interlinear and OCR-damaged. Extraction is limited to the
+    visible English glosses and clear named elements; the final Tern fragment especially
+    needs review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external mythology or background assumptions were used beyond the supplied passage and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l8254-l8392
+  passage_sha256=01fcc2a178921026a2b8a61a50486a94bb0425430a99c71d0138184847523049
+

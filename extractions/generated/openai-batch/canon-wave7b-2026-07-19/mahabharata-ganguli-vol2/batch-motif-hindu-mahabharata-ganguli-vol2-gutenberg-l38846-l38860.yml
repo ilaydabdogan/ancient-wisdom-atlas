@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l38846-l38860
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION VII / SECTION VIII / SECTION IX / SECTION X; lines 38846-38860
+  start: '38846'
+  end: '38860'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After addressing the Suta's son, Dhritarashtra, overcome by grief and without
+    hope for his son's victory, falls senseless to the ground. Attendants sprinkle
+    him with perfumed cold water and fan him, while Bharata royal ladies surround
+    him, rub him, lift him to his seat, and weep. He remains motionless in a swoon,
+    trembles, slowly regains consciousness, and resumes questioning Gavalgana's son
+    about the battle events.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dhritarashtra is described as afflicted with excessive grief and hopeless
+    about his son's victory.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dhritarashtra falls down on the ground deprived of his senses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Attendants sprinkle Dhritarashtra with perfumed cold water and fan him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bharata royal ladies surround Dhritarashtra, rub him with their hands, raise
+    him from the ground, and seat him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The royal ladies' voices are choked with tears.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After being seated, Dhritarashtra remains in a swoon, motionless, while others
+    fan him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A tremor passes over Dhritarashtra's body before he slowly regains his senses.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After recovering, Dhritarashtra resumes questioning Gavalgana's son of the
+    Suta caste about the incidents of the battle.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vaisampayana
+  description: Speaker who narrates the episode.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dhritarashtra
+  description: King afflicted by grief, who falls senseless, is revived, and resumes
+    questioning about the battle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Gavalgana's son of the Suta caste
+  description: Person questioned by Dhritarashtra about the incidents in the battle;
+    also referred to as the Suta's son.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: Dhritarashtra's attendants
+  description: Attendants who sprinkle him with perfumed cold water and fan him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Bharata royal ladies
+  description: Ladies who surround Dhritarashtra, rub him, lift him, seat him, weep,
+    and stand around fanning him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: narrator
+  assigned_to:
+  - fig:1
+  basis: The passage opens with Vaisampayana speaking and recounting the event.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: grieving king and questioner
+  assigned_to:
+  - fig:2
+  basis: Dhritarashtra is identified as the king, overcome by grief, and later resumes
+    interrogating the battle reporter.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: battle informant
+  assigned_to:
+  - fig:3
+  basis: Dhritarashtra questions Gavalgana's son about incidents as they occurred
+    in battle.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: caretakers of the fallen king
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The attendants and royal ladies perform actions to revive, comfort, and support
+    Dhritarashtra after he falls senseless.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: reviving water
+  literal_form: perfumed cold water sprinkled on Dhritarashtra
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ground and seat
+  literal_form: Dhritarashtra falls to the ground and is raised back to his seat
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: fanning
+  literal_form: attendants and royal ladies fan the unconscious king
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dhritarashtra's collapse
+  summary: Dhritarashtra, grieving and hopeless about his son's victory, falls senseless
+    to the ground after addressing the Suta's son.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Care for the fallen king
+  summary: Attendants and Bharata royal ladies tend to Dhritarashtra with water, fanning,
+    rubbing, lifting, seating, and tears.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Recovery and renewed inquiry
+  summary: Dhritarashtra remains motionless in a swoon, trembles, slowly regains consciousness,
+    and resumes asking Gavalgana's son about the battle.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: grief-induced swoon and restoration
+  taxonomy_refs: []
+  basis: The king is overcome by grief, loses consciousness, is cared for by attendants
+    and royal women, then regains his senses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a narrative pattern in the passage but is not directly aligned
+    with the supplied motif-family taxonomy.
+- id: motif:2
+  label: revival through water and fanning
+  taxonomy_refs: []
+  basis: Attendants use perfumed cold water and fanning while the king is senseless,
+    and he later regains consciousness.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents these as care actions; it does not explicitly state
+    ritual or supernatural efficacy.
+- id: motif:3
+  label: renewed inquiry after collapse
+  taxonomy_refs: []
+  basis: After recovering from the swoon, Dhritarashtra resumes questioning Gavalgana's
+    son about the battle narrative.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a local narrative sequence rather than a broad mythic motif in
+    the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38846-38850
+  quote_or_summary: Vaisampayana says that after addressing the Suta's son, Dhritarashtra,
+    afflicted with excessive grief and hopeless of his son's victory, fell senseless
+    to the ground.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 38850-38852
+  quote_or_summary: Attendants, seeing Dhritarashtra fallen and senseless, sprinkled
+    him with perfumed cold water and fanned him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 38852-38855
+  quote_or_summary: Bharata ladies surrounded the fallen king, rubbed him with their
+    hands, raised him from the ground, and seated him, their voices choked with tears.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 38855-38857
+  quote_or_summary: After being seated, the king remained under the influence of the
+    swoon and perfectly motionless while they stood around fanning him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 38857-38858
+  quote_or_summary: A tremor passed over the monarch's body, and he slowly regained
+    his senses.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 38858-38860
+  quote_or_summary: Dhritarashtra again began to question Gavalgana's son of the Suta
+    caste about the battle incidents as they occurred.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif labels are limited to local
+    narrative patterns because the passage does not explicitly support broader comparative
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another tradition or motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l38846-l38860
+  passage_sha256=1e9750885a0c1ba4abbcc5588b132eca02fbe85b217e460ee23801a94c26a0a4
+

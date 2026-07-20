@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l9766-l9776
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: CHAPTER XIV / FUNERAL AND MOURNING CEREMONIES. / S. N. G. II / BOWA FEAST.;
+    lines 9766-9776
+  start: '9766'
+  end: '9776'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a Bozua/Motu Powa feast held shortly after a burial.
+    Members of the iduhu cook vegetable food and place it before the dead man's house;
+    friends and relatives from other villages also contribute. The nana and roro pay
+    the grave diggers, send part of the food to iduhu rohi of other iduhu, and divide
+    the remainder among those present.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A feast called Bozua, with Motu form Powa, is held on the first or second
+    day after a burial.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Members of all the iduhu cook as much spare vegetable food as they can in
+    their own houses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The cooked food is placed on the ground in front of the dead man's house.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Friends and relatives from other villages also contribute food, producing
+    a large collection.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The nana and roro first pay the grave diggers.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The nana and roro send a portion of the food to the iduhu rohi of other iduhu
+    and divide the rest among those present.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: dead man
+  description: The deceased person whose burial precedes the feast and whose house
+    is the place before which food is set.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: members of all the iduhu
+  description: Participants who cook vegetable food in their own houses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: friends and relatives from other villages
+  description: People from other villages who contribute food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: nana and roro
+  description: Persons who pay the grave diggers and distribute the collected food.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: grave diggers
+  description: Workers who are paid before the food is distributed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: iduhu rohi of other iduhu
+  description: Recipients of a portion of the food sent by the nana and roro.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: those present
+  description: People present among whom the remaining food is divided.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deceased person associated with the feast
+  assigned_to:
+  - fig:1
+  basis: The feast occurs after a burial and the food is placed before the dead man's
+    house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: food contributors
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Iduhu members cook food, and friends and relatives from other villages contribute
+    food.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: payment and distribution agents
+  assigned_to:
+  - fig:4
+  basis: The nana and roro pay the grave diggers, send a portion of food to other
+    iduhu rohi, and divide the rest.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: paid grave workers
+  assigned_to:
+  - fig:5
+  basis: The grave diggers are paid before food distribution.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: food recipients
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: A portion is sent to iduhu rohi of other iduhu, and the rest is divided among
+    those present.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: collected vegetable food
+  literal_form: vegetable food cooked, contributed, collected, portioned, and divided
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: dead man's house
+  literal_form: house of the deceased, with food placed on the ground in front of
+    it
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Post-burial feast and food placement
+  summary: On the first or second day after burial, a Bozua/Powa feast is held; iduhu
+    members cook vegetable food and place it before the dead man's house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Food contributions from other villages
+  summary: Friends and relatives from other villages add food to the collection.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Payment and redistribution
+  summary: The nana and roro pay the grave diggers, send part of the food to iduhu
+    rohi of other iduhu, and divide the remainder among those present.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: post-burial communal feast
+  taxonomy_refs: []
+  basis: A named feast is held on the first or second day after a burial, with multiple
+    groups contributing food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic description rather than mythic narrative.
+- id: motif:2
+  label: ritual food contribution and redistribution
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Food is contributed by iduhu members and outside friends and relatives, then
+    portioned out by the nana and roro after payment to grave diggers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage describes social-ritual
+    redistribution but does not explicitly state sacred exchange theology.
+- id: motif:3
+  label: payment of grave workers before communal distribution
+  taxonomy_refs: []
+  basis: The nana and roro first pay the grave diggers before sending and dividing
+    the food.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a procedural motif in a funeral custom, not a narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9766-9768
+  quote_or_summary: A feast called Bozua, Motu Powa, is held on the first or second
+    day after a burial.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; metadata indicates full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 9768-9771
+  quote_or_summary: Members of all the iduhu cook spare vegetable food in their own
+    houses and place it on the ground before the dead man's house.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; metadata indicates full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 9771-9773
+  quote_or_summary: Friends and relatives from other villages contribute food, making
+    a large collection.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; metadata indicates full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 9773-9776
+  quote_or_summary: The nana and roro pay the grave diggers, send part of the food
+    to the iduhu rohi of other iduhu, and divide the rest among those present.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; metadata indicates full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The procedural details are explicit. Motif labeling is cautious because the
+    passage is ethnographic and does not frame the feast as mythic narrative. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l9766-l9776
+  passage_sha256=abdb8b2000e1e9ef0348f1eaa4bcb2c1f476fe40bc771f3fda84b4d5cabf53c5
+

@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol6-archive-l1365-l1391
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+passage_locator:
+  label: W.  H.  D.  ROUSE. / ERRATA. / VOL.  IV. / CONTENTS.; lines 1365-1391
+  start: '1365'
+  end: '1391'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. VI
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"the assembly of the Mugapakkha birth is to-day extinct"'
+  summary: The passage lists several elders associated with Ceylon and says they are
+    called late comers in the assemblies of several Jataka births. A note explains
+    that a later addition describes certain priests as later than others in adopting
+    ascetic life. Another remark, made on the day of parinibbana, says the assembly
+    of the Mugapakkha birth is extinct; a first-person explanation says the speaker
+    had been addicted to drink, could not bring his drinking companions, and was last
+    to give up the world and become an ascetic.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: After coming to the island of Ceylon, a group of named elders is listed with
+    native or dwelling places.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed elders are called late comers in the assemblies of the Kuddalaka,
+    Mugapakkha, Ayoghara, and Hatthipala births.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note says a later addition describes certain priests as later than others
+    in adopting the ascetic life.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: On the day of parinibbana, Elder Mahanaga and Elder Maliyamakadeva are introduced
+    before a remark that the assembly of the Mugapakkha birth is extinct that day.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A first-person speaker says he had been passionately addicted to spirituous
+    drink.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker says he could not bring his liquor-drinking companions with him
+    and was last to give up the world and become an ascetic.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: listed elders called late comers
+  description: Elders Khuddakatissa, Mahavamsaka, Phussadeva, Maharakkhita, Mahatissa,
+    Mahasiva, and Mahamaliyadeva, listed after the arrival in Ceylon and called late
+    comers in several birth-assemblies.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Elder Mahanaga
+  description: An elder described as a native of Maddha and named before the parinibbana-day
+    remark.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Elder Maliyamakadeva
+  description: An elder named with Elder Mahanaga before the parinibbana-day remark.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: first-person speaker in the explanation
+  description: The speaker who says he was addicted to spirituous drink and was last
+    to give up the world and become an ascetic; the exact named attribution within
+    the preceding dialogue is not clear from this excerpt alone.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: liquor-drinking companions
+  description: People who used to drink liquor with the speaker and whom he says he
+    could not bring with him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: assembly of the Mugapakkha birth
+  description: A birth-assembly said to be extinct on the day of parinibbana.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: late comers in birth-assemblies
+  assigned_to:
+  - fig:1
+  basis: The passage says the listed elders are called late comers in the assemblies
+    of several named births.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: elder
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage repeatedly identifies the named persons as elders.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: participant in parinibbana-day remark
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Elder Mahanaga and Elder Maliyamakadeva are named immediately before the
+    remark made on the day of parinibbana.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: delayed renouncer and former drinker
+  assigned_to:
+  - fig:4
+  basis: The speaker says he was addicted to drink and was last to give up the world
+    and become an ascetic.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: drinking companions
+  assigned_to:
+  - fig:5
+  basis: The speaker describes people who used to drink liquor with him.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: extinct birth-assembly
+  assigned_to:
+  - fig:6
+  basis: The assembly of the Mugapakkha birth is said to be extinct that day.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: spirituous drink or liquor
+  literal_form: spirituous drink; liquor
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ceylon arrival and late-comer designation
+  summary: After the arrival in Ceylon, several named elders are listed and described
+    as late comers in multiple birth-assemblies.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: parinibbana-day extinction remark
+  summary: On the day of parinibbana, the assembly of the Mugapakkha birth is said
+    to be extinct that day.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: explanation of delayed ascetic renunciation
+  summary: A first-person speaker explains that attachment to drink and separation
+    from drinking companions preceded his being the last to give up the world and
+    become an ascetic.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: late adoption of ascetic life
+  taxonomy_refs:
+  - departure
+  basis: The note and the dialogue both describe someone or some priests as late in
+    adopting ascetic life or giving up the world.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to departure is broad; the passage is commentary-like
+    and gives limited narrative detail.
+- id: motif:2
+  label: attachment to drink delaying renunciation
+  taxonomy_refs: []
+  basis: The speaker says addiction to spirituous drink and inability to bring drinking
+    companions preceded his being last to become an ascetic.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the explanation in brief dialogue rather than a full
+    narrative episode.
+- id: motif:3
+  label: late-comer role repeated across birth-assemblies
+  taxonomy_refs: []
+  basis: The passage explicitly applies the late-comer designation to elders in the
+    assemblies of several named births.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: A footnote identifies this as a later addition, so human review should
+    check its relation to the main Jataka narrative.
+- id: motif:4
+  label: extinction of a birth-assembly at parinibbana
+  taxonomy_refs: []
+  basis: A remark on the day of parinibbana says the assembly of the Mugapakkha birth
+    is extinct that day.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain whether extinction means death of members,
+    end of a lineage, or another technical sense.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself groups the same late-comer designation across the Kuddalaka,
+    Mugapakkha, Ayoghara, and Hatthipala birth-assemblies, indicating a repeated role
+    or narrative function within the nearby Jataka corpus.
+  claim_level: same_function
+  target: late-comer role in the assemblies of the Kuddalaka, Mugapakkha, Ayoghara,
+    and Hatthipala births
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a passage-internal comparison only; the excerpt does not provide
+    the full episodes or demonstrate historical development.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1365-1371
+  quote_or_summary: After they had come to Ceylon, the passage lists Elders Khuddakatissa,
+    Mahavamsaka, Phussadeva, Maharakkhita, Mahatissa, Mahasiva, and Mahamaliyadeva
+    with associated places.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1371-1373
+  quote_or_summary: '"all these elders are called the late comers in the assembly
+    of the Kuddalaka birth ... the Mugapakkha birth ... the Ayoghara birth, and the
+    Hatthipala birth"'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: footnote within lines 1374-1375
+  quote_or_summary: A later addition is described as explaining how certain priests
+    were later than others in adopting the ascetic life in this birth.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1384-1387
+  quote_or_summary: 'Elder Mahanaga and Elder Maliyamakadeva are named, followed by
+    the remark on the day of parinibbana: "Sir, the assembly of the Mugapakkha birth
+    is to-day extinct."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 1387-1390
+  quote_or_summary: '"I was then passionately addicted to spirituous drink ... I was
+    the last of all to give up the world and become an ascetic."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited by the excerpt’s commentary/footnote character, line-wrapped
+    names, and unclear attribution of the first-person dialogue. Literal elements
+    are clear enough for draft motif candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy references were limited to the supplied available taxonomy list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol6-archive__l1365-l1391
+  passage_sha256=791f100d81fc39297d0c92bdd50029c005630e68f6d772f406016e53710ffb0e
+

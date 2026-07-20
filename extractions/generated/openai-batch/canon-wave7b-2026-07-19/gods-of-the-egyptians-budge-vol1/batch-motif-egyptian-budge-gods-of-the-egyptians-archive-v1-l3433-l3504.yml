@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l3433-l3504
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: THE WORD NETER 69 / THE WORD NETER 71 / THE WORD NETER / THE WORD NETER;
+    lines 3433-3504
+  start: '3433'
+  end: '3504'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A formula headed “THE WORD NETER” gives a recitation instruction and first-person
+    declarations of becoming neter, receiving or being associated with a crown of
+    netrdt, rising up, becoming pure, becoming a spirit, becoming strong, and becoming
+    a soul. It further states the subject’s being neter with the gods in the Neter-khertet
+    and ends with a third-person result concerning his whole body.
+  language: English with Egyptian transliterations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage begins with an instruction that the chapter shall be said over
+    something or someone not specified in the excerpt.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first-person speaker declares, “I have become neter.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A “crown of netrdt” is mentioned immediately after the declaration of becoming
+    neter.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The speaker declares a sequence of changed states: risen up, pure, neter,
+    spirit, strong, and soul.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the subject is neter with the gods in the Neter-khertet.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The final lines shift to a third-person formulation involving “He shall,”
+    “netrd/netrd,” and “his body all.”
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: ritual speaker or beneficiary
+  description: The first-person “I” who declares becoming neter, pure, spirit, strong,
+    and soul; the ending also refers to a third-person “he” and “his body.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: gods in the Neter-khertet
+  description: A group of gods with whom the subject is described as being neter in
+    the Neter-khertet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: transformed ritual subject
+  assigned_to:
+  - fig:1
+  basis: The subject speaks in the first person of becoming neter, pure, spirit, strong,
+    and soul, and the passage ends with a result concerning his whole body.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: divine company
+  assigned_to:
+  - fig:2
+  basis: The gods are named as those with whom the subject is neter in the Neter-khertet.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: crown of netrdt
+  literal_form: a crown of netrdt
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Neter-khertet
+  literal_form: place or realm named “Neter-khertet”
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: whole body
+  literal_form: his body all
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: recitation instruction
+  summary: The chapter is introduced as something to be said over an unspecified object
+    or person.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: first-person transformation declarations
+  summary: The speaker declares becoming neter, rising up, becoming pure, becoming
+    a spirit, becoming strong, and becoming a soul; a crown of netrdt is also mentioned.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: association with gods and bodily result
+  summary: The subject is described as being neter with the gods in the Neter-khertet,
+    and the closing wording concerns a result for his whole body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual self-divinization
+  taxonomy_refs: []
+  basis: The passage repeatedly has the subject declare becoming neter and describes
+    his being neter with the gods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The excerpt does not define neter beyond the given transliteration and
+    English glossing.
+- id: motif:2
+  label: purification and strengthening of the transformed soul
+  taxonomy_refs: []
+  basis: The subject declares becoming pure, a spirit, strong, and a soul in a sequence
+    of transformed states.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage lists states but does not narrate a separate ordeal or process
+    causing them.
+- id: motif:3
+  label: afterlife association with divine beings
+  taxonomy_refs: []
+  basis: The subject is said to be neter with the gods in the Neter-khertet.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage names the Neter-khertet but does not describe a journey, geography,
+    judgment, or detailed afterlife scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3433-3504
+  quote_or_summary: "“Shall be said this chapter over”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3433-3504
+  quote_or_summary: "“I have become neter. ... a crown of netrdt.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 3433-3504
+  quote_or_summary: "“I have risen up ... I have become pure ... I have become a spirit
+    (hhu) ... I have become strong, I have become a soul.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3433-3504
+  quote_or_summary: "“His being neter with the gods in the Neter-khertet.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3433-3504
+  quote_or_summary: 'The closing wording gives a third-person result: “He shall,”
+    followed by netrd/netrd and “his body all.”'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and includes transliterations and OCR-like irregularities.
+    Literal transformations are clear, but the exact grammatical relation of the final
+    lines and some terms should be checked against the source edition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt itself does not explicitly support a comparison beyond its own ritual formula.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l3433-l3504
+  passage_sha256=5c24b59ecbf0bd28c8f0a0141a21406bf4c121a38fd43e9296766e1dc871c99d
+

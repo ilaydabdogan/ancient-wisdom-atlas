@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l6259-l6283
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: PT. II / A QUICK CATCH. / VOL. I M / THE IVHUMBO FISH-TRAP.; lines 6259-6283
+  start: '6259'
+  end: '6283'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Make good, O Leza, and give to us crocodiles and many fish"'
+  summary: In a passage on the Ivhumbō fish-trap, a man places medicine in his mouth,
+    spits it around, and prays to Leza for crocodiles and many fish. When a crocodile
+    is enclosed while pushing the Iwando, it causes excitement and is treated as a
+    good omen for fishing because crocodiles are believed to indicate many fish nearby.
+  language: English with an Ila prayer and English translation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man fills his mouth with medicine and spits it around before praying.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prayer addresses Leza and asks for crocodiles and many fish.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: While pushing the Iwando, the fishers sometimes enclose a crocodile.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An enclosed crocodile causes excitement and provides sport.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The crocodile is regarded as a good omen for fishing.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The stated belief is that where a crocodile is present, many fish are also
+    present.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Fish-traps are said to be used largely by the Ba-ila.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed ritual actor
+  description: The man who fills his mouth with medicine, spits it around, and offers
+    the prayer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Leza
+  description: The being addressed in prayer for crocodiles and many fish.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ba-ila fishers
+  description: The people using fish-traps and pushing the Iwando in the fishing context.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: crocodile
+  description: An animal sometimes enclosed during fishing and treated as a good omen
+    for the catch.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: fish
+  description: The desired catch requested in prayer and believed to be numerous where
+    a crocodile is present.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: prayer-offering ritual actor
+  assigned_to:
+  - fig:1
+  basis: The passage says he spits medicine around and then offers a prayer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: deity addressed for fishing success
+  assigned_to:
+  - fig:2
+  basis: Leza is addressed in the prayer asking for crocodiles and many fish.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: fish-trap users
+  assigned_to:
+  - fig:3
+  basis: The passage says fish-traps are employed largely by the Ba-ila and describes
+    the pushing of the Iwando.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: omen of abundant fish
+  assigned_to:
+  - fig:4
+  basis: The crocodile is described as a good omen because many fish are believed
+    to be where a crocodile is.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: desired fishing catch
+  assigned_to:
+  - fig:5
+  basis: The prayer asks for many fish, and the crocodile is linked to the presence
+    of many fish.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: medicine-spitting ritual
+  literal_form: medicine placed in the mouth and spat around
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: crocodile omen
+  literal_form: crocodile enclosed during fishing
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: fish-trap
+  literal_form: Ivhumbō fish-trap / Iwando fishing apparatus
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ritual prayer before or during fishing
+  summary: A man uses medicine by filling his mouth and spitting it around, then prays
+    to Leza to grant crocodiles and many fish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Crocodile enclosed in the fish-trap operation
+  summary: During the pushing of the Iwando, a crocodile may be enclosed; this excites
+    the fishers and is interpreted as a favorable sign for fishing because crocodiles
+    are associated with many fish.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual appeal for successful fishing
+  taxonomy_refs: []
+  basis: The passage describes a medicine-spitting act followed by a prayer to Leza
+    requesting crocodiles and many fish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the full ritual context beyond the brief
+    action and prayer.
+- id: motif:2
+  label: animal omen of abundance
+  taxonomy_refs: []
+  basis: A crocodile enclosed during fishing is treated as a good omen because it
+    is believed to indicate the presence of many fish.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a local explanation for the omen but does not connect
+    it to a named mythic cycle or wider motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6259-6264
+  quote_or_summary: A man “fills his mouth with ‘medicine’ and spits it round about”;
+    he then offers a prayer.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 6264-6268
+  quote_or_summary: 'Prayer translation: “We are humble before Thee. Make good, O
+    Leza, and give to us crocodiles and many fish.”'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 6274-6278
+  quote_or_summary: While pushing the Iwando, the fishers sometimes enclose a crocodile;
+    this produces excitement and sport.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 6278-6281
+  quote_or_summary: The enclosed crocodile is regarded as a good omen for fishing
+    because people believe many fish are found where a crocodile is present.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: quote
+  locator: lines 6271-6283
+  quote_or_summary: The passage is captioned “THE IVHUMBO FISH-TRAP” and states that
+    “Fish-traps are employed largely by the Ba-ila.”
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based directly on the provided lines. Motif labels are
+    descriptive and not assigned to a taxonomy family because the passage does not
+    support a specific listed comparative motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l6259-l6283
+  passage_sha256=5fef671944bdf410b9459d18aa288a6cbb99163d9c5597c3a2b74a0898147b70
+

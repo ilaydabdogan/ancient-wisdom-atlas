@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l5692-l5703
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: JO.    SONGS    FOR  THE    ENTERTAINMENT   OF  CHILDREN / HOLE-IN-THE-DAY
+    / FRONT  BACK / ODJIBWE'S    WAR-HONOR     BADGE; lines 5692-5703
+  start: '5692'
+  end: '5703'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes preparation of a medicine from roots and herbs:
+    roots are washed, scraped, dried, and pounded; a principal ingredient is kept
+    separate while three other herbs are pounded together in equal parts. Main''gans
+    shows the writer his medicine pouch, which he always carries. A caption identifies
+    a dried root with feathers attached.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Only the roots are used in preparing the medicine.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The roots are washed, scraped, dried, and then pounded into a powder with
+    small shreds remaining.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The principal ingredient is prepared and kept separate from three other herbs.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The other three herbs are pounded together in equal parts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Main'gans shows the writer his medicine pouch.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Main'gans always carries the medicine pouch with him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A dried root is shown or identified with feathers attached.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Main'gans
+  description: Named person who shows the writer his medicine pouch and is said always
+    to carry it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: the writer
+  description: Recipient or observer to whom Main'gans shows the medicine pouch.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: carrier of medicine pouch
+  assigned_to:
+  - fig:1
+  basis: The passage says Main'gans showed his medicine pouch and always carries it
+    with him.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: observer of medicine pouch
+  assigned_to:
+  - fig:2
+  basis: The writer is the person to whom Main'gans showed the pouch.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: medicine roots
+  literal_form: Roots used in preparing medicine; washed, scraped, dried, and pounded.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: principal ingredient
+  literal_form: A main medicinal ingredient prepared and kept separate.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: three herbs
+  literal_form: Three herbs pounded together in equal parts.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: medicine pouch
+  literal_form: Main'gans's medicine pouch, which he always carries.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: dried root with feathers
+  literal_form: Dried root with feathers attached.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Preparation of root medicine
+  summary: The passage gives a procedure in which roots are processed into powder,
+    with a principal ingredient kept separate and three other herbs combined in equal
+    parts.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Display and carrying of medicine pouch
+  summary: Main'gans shows the writer his medicine pouch, which he always carries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Dried root with feathers attached
+  summary: A caption identifies a dried medicinal root with feathers attached.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Medicine prepared from roots and herbs
+  taxonomy_refs: []
+  basis: The passage describes roots being washed, scraped, dried, and pounded, with
+    ingredients separated and combined in a prescribed way.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a procedural ethnographic description rather than a narrative
+    mythic motif; no supplied taxonomy family directly matches it.
+- id: motif:2
+  label: Portable medicine pouch carried by a named person
+  taxonomy_refs: []
+  basis: Main'gans has a medicine pouch and is said always to carry it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the pouch's contents, ritual function, or
+    mythic associations.
+- id: motif:3
+  label: Feather-attached medicinal root
+  taxonomy_refs: []
+  basis: The caption identifies a dried root with feathers attached.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The detail appears only in a caption-like line; its meaning is not explained
+    in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5692-5694
+  quote_or_summary: Roots only are used for the medicine; they are washed, scraped,
+    dried, and pounded into powder with small shreds remaining.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 5694-5697
+  quote_or_summary: The principal ingredient is prepared and kept separate; three
+    other herbs are pounded together in equal parts.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 5697-5700
+  quote_or_summary: Main'gans showed the writer his medicine pouch, which he always
+    carries with him.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 5702-5703
+  quote_or_summary: Caption-like text identifies a dried root with feathers attached.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is partly affected by OCR noise and appears descriptive rather
+    than narrative. Object and action extraction is relatively secure; motif labeling
+    is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol was applied because the passage does not directly support those references.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l5692-l5703
+  passage_sha256=9a5b577efd7306e4262499829efb3fe641f2dc379c48b880018cb3320ab529e0
+

@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l1980-l2004
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: DANCE AND POSTURE SONGS / DANCE AND POSTURE SONGS / DANCE AND POSTURE SONGS
+    / DANCE AND POSTUEE SONGS; lines 1980-2004
+  start: '1980'
+  end: '2004'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A dance performance ends with howling, stamping, and elbow-claps. The audience
+    laughs, while the performers keep serious or hostile expressions. Tobacco and
+    tins of provisions are distributed, and the dances continue intermittently through
+    the night with voices, hand-clapping, and elbow-claps.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The performance ends with a loud prolonged howl, vigorous foot-stamping, and
+    elbow-claps.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The native audience laughs loudly at several points during the performance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The performers do not smile and maintain earnest, sometimes ferocious and
+    hostile expressions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Tobacco is freely available to spectators during the dance.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the dance, tobacco and a pile of tins of provisions are distributed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dances are renewed intermittently through the night, with voices, hand-clapping,
+    and elbow-claps heard by the narrator.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: performers
+  description: The dancers or performers who carry out the dance and maintain serious
+    or hostile expressions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: native audience or spectators
+  description: The people watching the dance, laughing at points and receiving tobacco.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: narrator-observer
+  description: The first-person observer whose interest fades after sunset and who
+    hears renewed dancing through the night.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dance performers
+  assigned_to:
+  - fig:1
+  basis: They perform the dance, conclude it with coordinated sounds and gestures,
+    and later renew the dances.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: audience or spectators
+  assigned_to:
+  - fig:2
+  basis: They laugh during the performance and receive tobacco during the dance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: observer
+  assigned_to:
+  - fig:3
+  basis: The passage uses first-person observation to report waning interest and sounds
+    heard through the night.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: elbow-claps
+  literal_form: percussive gesture or sound made with elbows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: tobacco
+  literal_form: tobacco distributed to spectators and others
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tins of provisions
+  literal_form: pile of tins of provisions of various descriptions
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: night-long clapping and voices
+  literal_form: minor drone of voices, hand-clapping, and elbow-claps heard through
+    the night
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: dance finale and audience reaction
+  summary: The dance ends with a howl, stamping, and elbow-claps; the audience laughs,
+    while the performers remain unsmiling and intense.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: distribution during and after the dance
+  summary: Tobacco is freely given to spectators during the dance, and afterward tobacco
+    and tins of provisions are distributed.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: renewed dances through the night
+  summary: After sunset the narrator hears intermittent renewed dancing, voices, hand-clapping,
+    and elbow-claps through the night.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: comic performance with serious performers
+  taxonomy_refs: []
+  basis: The audience laughs loudly, but the performers never smile and keep earnest
+    or hostile expressions.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage reports audience laughter but does not explain the dance’s
+    content or ritual meaning.
+- id: motif:2
+  label: dance accompanied by communal distribution of goods
+  taxonomy_refs: []
+  basis: Tobacco is offered during the dance, and tobacco plus tins of provisions
+    are distributed afterward.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state that the distribution is sacred, ceremonial
+    exchange, or payment.
+- id: motif:3
+  label: night-long continuation of dance and percussion
+  taxonomy_refs: []
+  basis: The dances are renewed intermittently through the night with voices, hand-clapping,
+    and elbow-claps.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a performance pattern in the passage; no broader mythological
+    interpretation is directly supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1980-1984
+  quote_or_summary: The performance winds up with a loud prolonged howl, vigorous
+    foot-stamping, and elbow-claps.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1985-1990
+  quote_or_summary: The audience laughs loudly at several points, while performers
+    remain unsmiling and keep earnest, sometimes ferocious or hostile expressions.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1991-1997
+  quote_or_summary: Tobacco is free to spectators during the dance; afterward tobacco
+    and a pile of tins of provisions are distributed.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1997-2004
+  quote_or_summary: The dancers continue interest after sunset; through the night
+    the narrator hears voices, hand-clapping, and elbow-claps as dances are renewed.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and supports extraction of performance actions,
+    objects, and local patterns. No cross-tradition comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was directly supported by this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l1980-l2004
+  passage_sha256=fc9a5fa2bfc794f71b0b6a17fb89f04f06c6f30ba00f6a41fa39014e9ef73243
+

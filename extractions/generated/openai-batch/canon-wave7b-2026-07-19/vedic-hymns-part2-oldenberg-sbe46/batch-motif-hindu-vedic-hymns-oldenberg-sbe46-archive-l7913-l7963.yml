@@ -1,0 +1,185 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l7913-l7963
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'MANDALA I, HYMN 142. 158 / NOTES: / NOTES: / MANDALA I, HYMN 143. 159; lines
+    7913-7963'
+  start: '7913'
+  end: '7963'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Agni is very frequently compared to a horse.”"
+  summary: The passage contains philological notes to Rigveda Mandala I, Hymn 143,
+    discussing grammatical points, translation of terms, scholarly disagreements,
+    and a note that Geldner interprets a word as meaning “horse,” with Agni frequently
+    compared to a horse.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A note on verse 4 states that “bhuvanasya” seems to depend on “magmana” and
+    compares another passage, VII, 82, 5.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note on verse 5 reports Pischel’s view that “séna” does not mean “Geschoss”
+    and gives a Latin translation, while noting differing opinions by von Bradke and
+    Bloomfield.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note on verse 7 says the text adds an ethical dative “vay,” translated as
+    “for you,” which can scarcely be translated into English.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note on verse 7 says Geldner argued that “akra” very probably means “horse.”
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The same note states that Agni is very frequently compared to a horse.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note on verse 8 compares Padas C-D with Rigveda VI, 8, 7.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note on verse 8 asks whether “ishfe” means “thou our wish” or “thou our
+    sacrifice.”
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named figure who is said to be very frequently compared to a horse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: figure compared to a horse
+  assigned_to:
+  - fig:1
+  basis: The note states that Agni is very frequently compared to a horse.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: horse comparison
+  literal_form: horse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sacrifice as possible translation
+  literal_form: sacrifice
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: divine figure compared to a horse
+  taxonomy_refs: []
+  basis: The note explicitly says that Agni is frequently compared to a horse.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is a commentary note rather than a narrative scene; it does
+    not provide the underlying hymn verse or details of the comparison.
+- id: motif:2
+  label: possible sacrifice reference in translation question
+  taxonomy_refs:
+  - sacrifice
+  basis: A note raises the possibility that a term may mean “thou our sacrifice.”
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: This is only a philological question in a note, not a clear mythic or
+    ritual action in the passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a cautious comparison within the Vedic corpus: Agni
+    is described as frequently being compared to a horse.'
+  claim_level: same_motif
+  target: recurring Vedic Agni-horse comparison pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note asserts recurrence but does not quote the relevant hymn passages
+    or explain the function of the horse comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7913-7917
+  quote_or_summary: 'Verse 4 note: “bhuvanasya” appears to depend on “magmana,” with
+    comparison to VII, 82, 5.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7919-7927
+  quote_or_summary: 'Verse 5 note: Pischel denies that “séna” means “Geschoss,” gives
+    another translation, and other scholars disagree.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7929-7934
+  quote_or_summary: 'Verse 7 note: the text adds ethical dative “vay,” “for you,”
+    which is difficult to translate.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:4
+  type: quote
+  locator: lines 7936-7943
+  quote_or_summary: "“Geldner ... has shown that akra very probably means ‘horse.
+    Agni is very frequently compared to a horse.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 7947-7951
+  quote_or_summary: 'Verse 8 note: Padas C-D are compared with Rigveda VI, 8, 7.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:6
+  type: quote
+  locator: lines 7953-7955
+  quote_or_summary: "“What is ishfe? Is it thou our wish, or thou our sacrifice?”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is primarily philological commentary, so mythic motif extraction
+    is limited. The Agni-horse comparison is explicit; other possible motif material
+    is uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes were extracted because the supplied passage contains notes rather than a mythic episode.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l7913-l7963
+  passage_sha256=7123122ade972dbe6a2de8e6e98b6572e6b6a3606b0ace0610e6b3b2d8e66986
+

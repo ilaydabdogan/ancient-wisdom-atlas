@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l8337-l8351
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: ATHLETIC SPORTS / RELAY RACES / SWIMMING / GAMES; lines 8337-8351
+  start: '8337'
+  end: '8351'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage introduces Pima games and describes a religious understanding
+    of gambling: the Pima are said to reject luck or chance, to feel aided or opposed
+    by supernatural beings, and to seek assistance through gifts and sacrifices at
+    hill altars. It also mentions Navitco as the deity who gave the gourd to humans
+    and names a ceremonial hill near Casa Blanca as a favored prayer place for gamblers.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The text says fear of provoking Navitco is a probable explanation in connection
+    with the gourd.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Navitco is identified as the deity who gave the gourd to humans.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Pima are described as knowing nothing of luck or chance, in common with
+    other American Indians.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Pima person described in the passage felt aided or opposed by supernatural
+    beings.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Assistance from supernatural beings was sought by gifts of beads and other
+    sacrifices deposited on altars in hill recesses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A ceremonial hill northeast of Casa Blanca, near the center of Pimeria, is
+    described as a favorite prayer place for gamblers.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage introduces games played by men and includes the figure caption
+    “Ki-tHkat.”
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Navitco
+  description: A deity identified as giving the gourd to humans and as one who might
+    be provoked.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Pima
+  description: The people described as rejecting luck or chance and as seeking supernatural
+    assistance in games or gambling contexts.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: supernatural beings
+  description: Beings described as aiding or opposing the Pima person in the context
+    of games or gambling.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: gamblers
+  description: People for whom the ceremonial hill northeast of Casa Blanca was a
+    favorite place of prayer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: men
+  description: The passage says the following games were played by the men.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: gourd-giving deity
+  assigned_to:
+  - fig:1
+  basis: Navitco is called the deity who gave the gourd to humans.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: community rejecting luck or chance
+  assigned_to:
+  - fig:2
+  basis: The passage says the Pima knew nothing of luck or chance.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: petitioners for supernatural assistance
+  assigned_to:
+  - fig:2
+  basis: The passage says assistance was sought through gifts and sacrifices at altars.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: supernatural helpers or opponents
+  assigned_to:
+  - fig:3
+  basis: The passage says the Pima person felt aided or opposed by supernatural beings.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: prayers at ceremonial hill
+  assigned_to:
+  - fig:4
+  basis: The ceremonial hill is named as a favorite prayer place for gamblers.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: game players
+  assigned_to:
+  - fig:5
+  basis: The passage introduces games played by men.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: gourd
+  literal_form: gourd
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bead gifts and sacrifices
+  literal_form: gifts of beads and other sacrifices
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: hill altars
+  literal_form: altars in the recesses of the hills
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ceremonial hill
+  literal_form: ceremonial hill northeast of Casa Blanca
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Ki-tHkat figure
+  literal_form: Fig. 80. Ki-tHkat.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Navitco and the gourd
+  summary: The fragmentary opening connects fear of provoking Navitco with the gourd,
+    which Navitco is said to have given to humans.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Supernatural causation in gambling
+  summary: The Pima are described as rejecting luck or chance and as understanding
+    aid or opposition in games through supernatural beings.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Offerings and prayer places for gamblers
+  summary: Assistance is sought by gifts and sacrifices deposited on hill altars,
+    and a ceremonial hill near Casa Blanca is named as a favored prayer place for
+    gamblers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Introduction to men’s games
+  summary: The passage introduces a list of games played by men and gives the figure
+    caption “Ki-tHkat.”
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: game outcomes governed by supernatural aid or opposition rather than chance
+  taxonomy_refs: []
+  basis: The passage explicitly says the Pima knew nothing of luck or chance and felt
+    aided or opposed by supernatural beings.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is ethnographic and does not provide a narrative episode of
+    a particular game outcome.
+- id: motif:2
+  label: offerings at hill altars to obtain supernatural assistance
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage says assistance was sought through gifts of beads and other sacrifices
+    deposited on altars in hill recesses.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The broad taxonomy reference is based on the exchange-like structure of
+    gifts for assistance; the passage does not use the term exchange.
+- id: motif:3
+  label: ceremonial hill as prayer place for gamblers
+  taxonomy_refs: []
+  basis: The ceremonial hill northeast of Casa Blanca is identified as a favorite
+    place of prayer for gamblers.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage names the ritual setting but gives no detailed prayer formula
+    or mythic episode.
+- id: motif:4
+  label: deity gives a gourd to humans
+  taxonomy_refs: []
+  basis: Navitco is identified as the deity who gave the gourd to humans.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The sentence is fragmentary in the supplied passage and does not explain
+    the full mythic context of the gourd.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents the Pima rejection of luck or chance, and reliance
+    on supernatural aid or opposition, as a pattern shared with other American Indians.
+  claim_level: same_function
+  target: other American Indians; supernatural causation in gaming or gambling rather
+    than luck/chance
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only the author’s general comparison and names no
+    specific neighboring group, text, or historical transmission route.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8337-8339
+  quote_or_summary: The fragment says fear of provoking Navitco is probable; Navitco
+    is called the deity who gave the gourd to humans.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 8341-8344
+  quote_or_summary: "“the Pima knew naught of *'hick'' or ''chance” and felt aided
+    or opposed by supernatural beings."
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; short excerpt from supplied passage, retaining apparent
+    OCR irregularities.
+- id: ev:3
+  type: summary
+  locator: lines 8344-8347
+  quote_or_summary: Assistance was sought through gifts of beads and other sacrifices
+    deposited on altars in the recesses of hills.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8347-8350
+  quote_or_summary: A ceremonial hill northeast of Casa Blanca, near the center of
+    Pimeria, is described as a favorite prayer place for gamblers.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 8350-8351
+  quote_or_summary: "“The following games were played by the men: Fig. 80. Ki-tHkat.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the passage is ethnographic and
+    partly fragmentary at the opening; motif labels are candidate patterns rather
+    than full narrative motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l8337-l8351
+  passage_sha256=0fb95f71f5ee6f5ef09374309c638f091bf496e5008c94df744e187aa941af05
+

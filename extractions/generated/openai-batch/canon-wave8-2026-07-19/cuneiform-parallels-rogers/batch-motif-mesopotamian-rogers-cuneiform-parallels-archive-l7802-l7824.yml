@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l7802-l7824
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: NINTH TABLET / TENTH TABLET / ELEVENTH TABLET / TWELFTH TABLET; lines 7802-7824
+  start: '7802'
+  end: '7824'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed subject says times are appointed for conflagration and deluge.
+    Earthly things are to be burned when the planets align in Cancer; a flood is to
+    occur when the same celestial bodies align in Capricorn. The passage connects
+    these signs with solstitial or seasonal changes of the year and includes a Latin
+    parallel restating the claim.
+  language: English and Latin
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that an unnamed male subject appoints times for both conflagration
+    and deluge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says earthly things will be burned when all the stars, clarified
+    in a note as planets, come together in Cancer so that a straight line could pass
+    through all of them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The passage says a flood will occur when the same group of celestial bodies
+    comes together in Capricorn.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The English paragraph links the former sign with a summer solstice and the
+    latter with a winter solstice, calling them signs of great moment because they
+    mark chief changes of the year.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A footnote identifies Cancer as the zodiacal sign of the spring solstice and
+    Capricorn as that of the winter solstice.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Latin parallel restates burning of earthly things when the celestial bodies
+    converge in Cancer, inundation when they converge in Capricorn, and the importance
+    of these signs at the change of the year.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed male subject
+  description: Referred to only as “he”; he appoints times for the conflagration and
+    deluge and argues for their occurrence under specified planetary alignments.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: arguer of cosmic catastrophe timings
+  assigned_to:
+  - fig:1
+  basis: The passage says he appoints times for conflagration and deluge and argues
+    when burning and flooding will happen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: conflagration
+  literal_form: burning of earthly things
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: deluge
+  literal_form: flood or inundation
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: planetary alignment
+  literal_form: all stars, clarified as planets, gathered so a straight line passes
+    through all
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: Cancer
+  literal_form: zodiacal sign in which the celestial bodies converge before burning
+    occurs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: Capricorn
+  literal_form: zodiacal sign in which the celestial bodies converge before flooding
+    occurs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: solstitial year-change points
+  literal_form: summer, spring, and winter solstitial references associated with Cancer
+    and Capricorn
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Conflagration under Cancer alignment
+  summary: The unnamed subject argues that earthly things will burn when the planets
+    align in Cancer in a single straight-line arrangement.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Flood under Capricorn alignment
+  summary: The unnamed subject argues that a flood will occur when the same planets
+    align in Capricorn, a sign connected with the winter solstice or seasonal change
+    of the year.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: world conflagration timed by planetary alignment
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The passage states that earthly things will be burned when the planets gather
+    in Cancer in a single aligned configuration.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage gives an astrological timing but does not explain moral cause,
+    divine judgment, or aftermath.
+- id: motif:2
+  label: deluge timed by planetary alignment
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage states that a flood or inundation will occur when the same celestial
+    bodies gather in Capricorn.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage supports a deluge motif, but it does not mention renewal after
+    the flood.
+- id: motif:3
+  label: paired cosmic destruction by fire and flood
+  taxonomy_refs:
+  - duality
+  - world_destroying_fire
+  - flood_and_renewal
+  basis: The passage treats conflagration and deluge as paired catastrophes, each
+    assigned to a different zodiacal alignment and seasonal turning point.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The pair is explicit, but broader cyclical or doctrinal interpretation
+    should not be inferred beyond the stated astronomical timing.
+- id: motif:4
+  label: astral signs determining catastrophic time
+  taxonomy_refs: []
+  basis: The catastrophes are tied to planetary convergence in zodiacal signs and
+    to major changes of the year.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No specific taxonomy reference for astrological timing is supplied in
+    the available taxonomy list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7802-7803
+  quote_or_summary: "“he appoints times for the conflagration / and for the deluge”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 7803-7808
+  quote_or_summary: Earthly things are said to be burned when all the stars, now moving
+    diverse courses, come together in Cancer so that a straight line could pass through
+    all of them.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: note
+  locator: note 1 after 7808
+  quote_or_summary: The note clarifies that “stars” here means planets.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short note summarized.
+- id: ev:4
+  type: summary
+  locator: 7808-7814
+  quote_or_summary: A flood is said to occur when the same stars come together in
+    Capricorn; the former and latter signs are associated with summer and winter solstice
+    points and chief changes of the year.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: note
+  locator: note 2 after 7814
+  quote_or_summary: The note states that Cancer is the zodiacal sign of the spring
+    solstice and Capricorn that of the winter solstice.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: Latin parallel, 7815-7824
+  quote_or_summary: The Latin parallel says terrestrial things will burn when all
+    the celestial bodies converge in Cancer, an inundation will occur when they converge
+    in Capricorn, and these signs have great power at the yearly change.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied English passage, notes, and
+    Latin parallel. Motif assignment is strongest for fire, flood, and astral timing;
+    the flood-and-renewal taxonomy is only partially supported because renewal is
+    not stated. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No named mythic figure is supplied in the passage. The unnamed “he” is retained only as a passage-internal figure because he performs the stated actions of appointing and arguing timings.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l7802-l7824
+  passage_sha256=2c147ecfee66de0ddce4cc5f8719b5da107b98dfa88a6a5485fbf44843720bdb
+

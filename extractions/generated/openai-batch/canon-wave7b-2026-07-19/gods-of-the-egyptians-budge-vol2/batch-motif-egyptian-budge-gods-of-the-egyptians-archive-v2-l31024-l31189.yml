@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l31024-l31189
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 31024-31189
+  start: '31024'
+  end: '31189'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index section listing Egyptian names, places, figures, and topics with
+    volume and page references. Notable entries include a tamarisk tree, Ta-thenen
+    as a serpent, a god of Taste, Tchefa as ka of Ea, Tcheft as Isis, tears of Khepera
+    as the origin of men, teeth equated with Souls of Annu, and Tefnut.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index list of names and topics with volume and page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes an entry for a tamarisk tree.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index includes an entry for Ta-thenen and notes a serpent association.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index includes an entry for a god of Taste.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index identifies Tchefa as the ka of Ea.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes Tcheft with Isis in parentheses.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index states that the tears of Khepera are the origin of men.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index equates teeth with the Souls of Annu.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The index includes an entry for Tefnut.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ta-thenen
+  description: Index entry with a noted serpent association.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Taste, god of
+  description: An indexed god associated with taste.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Tchefa
+  description: Identified in the index as ka of Ea.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Ea
+  description: Named in relation to Tchefa and Tcheftchef in the index.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: fig:5
+  name_or_label: Isis
+  description: Named parenthetically with Tcheft in the index.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Khepera
+  description: Named in an index entry about tears as the origin of men.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Souls of Annu
+  description: Named in an index equation with teeth.
+  role_refs: []
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Tefnut
+  description: Indexed name with volume and page references.
+  role_refs: []
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: serpent-associated figure
+  assigned_to:
+  - fig:1
+  basis: The index entry for Ta-thenen includes the parenthetical note “serpent.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: god of taste
+  assigned_to:
+  - fig:2
+  basis: The index entry explicitly labels Taste as a god.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: ka of Ea
+  assigned_to:
+  - fig:3
+  basis: The index identifies Tchefa as ka of Ea.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: divine source in human-origin note
+  assigned_to:
+  - fig:6
+  basis: The index entry links the tears of Khepera to the origin of men.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: tamarisk tree
+  literal_form: Tamarisk tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: serpent
+  literal_form: serpent
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tears
+  literal_form: tears of Khepera
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: teeth
+  literal_form: teeth
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: serpent-associated deity or form
+  taxonomy_refs:
+  - serpent
+  basis: The index notes Ta-thenen with a serpent association.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is an index entry only; it does not provide a narrative scene or
+    explain the serpent association.
+- id: motif:2
+  label: human origin from divine tears
+  taxonomy_refs: []
+  basis: The index states that the tears of Khepera are the origin of men.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage gives only an index summary, without the underlying mythic
+    context or wording.
+- id: motif:3
+  label: body-part equivalence with souls
+  taxonomy_refs: []
+  basis: The index equates teeth with the Souls of Annu.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The index gives an equation but no explanatory context or episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 31024-31189
+  quote_or_summary: Index section listing entries from “Ta” through “Tefnut” with
+    volume and page references.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 31024-31189
+  quote_or_summary: "“Tamarisk tree, ii. 189”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 31024-31189
+  quote_or_summary: "“Ta-thenen ... (serpent), i. 230”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 31024-31189
+  quote_or_summary: "“Taste, god of, ii. 299”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 31024-31189
+  quote_or_summary: "“Tchefa, ka of Ea, ii. 300”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 31024-31189
+  quote_or_summary: "“Tcheft (Isis), ii. 216”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 31024-31189
+  quote_or_summary: "“Tears of Khepera, the origin of men, i. 312”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:8
+  type: quote
+  locator: lines 31024-31189
+  quote_or_summary: "“Teeth = Souls of Annu, i. 109”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:9
+  type: quote
+  locator: lines 31024-31189
+  quote_or_summary: "“Tefnut, i. 58, 83, 305, 310, 341, 463, 515”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:10
+  type: quote
+  locator: lines 31024-31189
+  quote_or_summary: "“Tcheftchef, name of Ea, i. 344”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The extraction is limited by the passage being an index, not a mythic narrative.
+    Names and symbolic associations are explicit, but motif candidates are weak because
+    the index gives little context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No scenes or comparison claims were extracted because the provided passage supplies only index entries and does not narrate events or make comparisons.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l31024-l31189
+  passage_sha256=6671dc3cd032a1b8b9e5031cc5e432a7fadc11be4803305d8c4bf75381935388
+

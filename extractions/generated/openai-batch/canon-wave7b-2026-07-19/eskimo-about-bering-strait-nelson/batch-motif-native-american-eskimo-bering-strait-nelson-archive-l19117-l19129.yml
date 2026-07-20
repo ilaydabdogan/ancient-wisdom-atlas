@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l19117-l19129
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: PUBERTY / MARRIAGE / MORAL    CHARACTERISTICS / TREATMENT  OF  DISEASE; lines
+    19117-19129
+  start: '19117'
+  end: '19129'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes treatment of disease: shamans commonly use incantations,
+    while direct methods such as bloodletting are also practiced for inflamed or aching
+    body parts using small stone or iron lancets. The observer reports seeing a man
+    lance the scalp of his little girl repeatedly with a thin iron point.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Shamans commonly treat disease by performing incantations.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some cases use more direct treatment methods rather than only incantations.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Bloodletting is commonly practiced to relieve inflamed or aching parts of
+    the body.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Small lancets made of stone or iron are used for bloodletting.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator reports seeing a man lance the scalp of his little girl's head.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The instrument in the reported instance had a long, thin iron point that was
+    thrust twelve or fifteen times between the scalp and skull.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: shamans
+  description: Practitioners who commonly treat disease by performing incantations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man lancing the child’s scalp
+  description: A man observed lancing the scalp of his little girl's head with a thin
+    iron-pointed instrument.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: little girl
+  description: The little girl whose scalp was lanced in the observed treatment instance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: narrator-observer
+  description: The reporting observer who states that he saw the scalp-lancing instance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: incantation healer
+  assigned_to:
+  - fig:1
+  basis: Shamans are said to treat disease by performing incantations.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bloodletting practitioner
+  assigned_to:
+  - fig:2
+  basis: The man is described lancing the girl's scalp with an instrument.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: patient
+  assigned_to:
+  - fig:3
+  basis: The girl's scalp is the body part being lanced in the treatment instance.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: eyewitness reporter
+  assigned_to:
+  - fig:4
+  basis: The passage says the narrator saw the scalp-lancing instance.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: incantations
+  literal_form: spoken ritual formulas used in disease treatment
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lancets
+  literal_form: small lancets of stone or iron
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: bloodletting
+  literal_form: lancing or bleeding inflamed or aching body parts
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: General disease treatment methods
+  summary: Disease treatment is described as usually involving shamanic incantations,
+    with bloodletting also used for inflamed or aching body parts.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Observed scalp-lancing treatment
+  summary: The narrator reports seeing a man repeatedly thrust a thin iron-pointed
+    instrument between a little girl's scalp and skull.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: shamanic incantation for disease treatment
+  taxonomy_refs: []
+  basis: The passage states that the most common disease treatment method is for shamans
+    to perform incantations.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic healing practice description, not a narrative
+    myth episode.
+- id: motif:2
+  label: therapeutic bloodletting with stone or iron lancets
+  taxonomy_refs: []
+  basis: The passage describes bloodletting as a common direct method for relieving
+    inflamed or aching body parts and specifies the use of stone or iron lancets.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly matches this medical-treatment
+    pattern.
+- id: motif:3
+  label: repeated scalp lancing as treatment
+  taxonomy_refs: []
+  basis: The observer reports an instance in which a thin iron point was thrust twelve
+    or fifteen times between a child's scalp and skull.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a single observed instance and does not explicitly classify
+    it as ritual or symbolic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19117-19120
+  quote_or_summary: The most common method for treating disease is described as shamans
+    performing certain incantations.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 19120-19122
+  quote_or_summary: The passage notes that direct methods are sometimes used and that
+    bloodletting is commonly practiced to relieve inflamed or aching body parts.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 19122-19124
+  quote_or_summary: Small stone or iron lancets are used for bloodletting.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 19124-19129
+  quote_or_summary: The narrator saw a man lance his little girl's scalp, thrusting
+    a long, thin iron point twelve or fifteen times between scalp and skull.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about treatment practices and the observed instance.
+    Motif labels are descriptive and untaxonomized because the available taxonomy
+    does not contain a direct healing or bloodletting category. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy symbol or motif references were assigned.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l19117-l19129
+  passage_sha256=159788e51fa60bcb2115744c0232311970a3b97c858b0e1480b3a371fa63d191
+

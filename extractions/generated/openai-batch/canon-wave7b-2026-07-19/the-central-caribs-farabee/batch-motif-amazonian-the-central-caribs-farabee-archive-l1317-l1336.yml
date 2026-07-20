@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.amazonian-the-central-caribs-farabee-archive-l1317-l1336
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+passage_locator:
+  label: The Central Caribs / GEOGRAPHICAL ENVIRONMENT / THE MACUSIS1 / MATERIAL CULTURE;
+    lines 1317-1336
+  start: '1317'
+  end: '1336'
+  translation: The Central Caribs
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a Macusi peccary hunt: a hunter signals with repeated
+    horn blasts, men and dogs rush from the village, men first kill what they can
+    with spears and bows, dogs pursue scattered animals into refuges, and men later
+    dispatch or confine the trapped peccaries.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When a hunter finds peccaries, he sounds a horn in two blasts about ten seconds
+    apart, then repeats two-blast signals while following the game.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The horn signals inform men at the village which direction to run with the
+    dogs.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: All the men and dogs rush through the forest at great speed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dogs are not released until the men have killed as many peccaries as possible
+    using spears, bows, and arrows.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The peccary herd may range from half a dozen to half a hundred and becomes
+    scattered in all directions.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Dogs chase individual peccaries into hollow logs, tree trunks, or holes in
+    the ground.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Some peccaries may take refuge between the great flat roots of a tree and
+    turn to defend themselves.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Dogs hold such peccaries at bay rather than attack, until men arrive and dispatch
+    them with a spear.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: When a peccary enters a ground hole, men fasten the opening with sticks or
+    logs to prevent escape.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: hunter who finds peccaries
+  description: A hunter who locates peccaries and signals with a horn while following
+    the herd.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: men at the village / hunters
+  description: Men who respond to horn signals, run with dogs, kill peccaries with
+    weapons, dispatch bayed animals, and seal a ground-hole opening.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: dogs
+  description: Dogs used in the hunt; they run with the men, are released after the
+    initial killings, chase individual peccaries into refuges, and hold them at bay.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: peccaries
+  description: The hunted animals, identified in the passage as peccaries and once
+    as Dicotyles torquatus; they flee, scatter, enter natural refuges, and sometimes
+    defend themselves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: signal sender
+  assigned_to:
+  - fig:1
+  basis: The hunter uses horn blasts to communicate the direction of the game.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: human hunter
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The human participants pursue and kill peccaries with spears, bows, and arrows.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: hunting dogs
+  assigned_to:
+  - fig:3
+  basis: The dogs accompany the men, pursue individual peccaries into refuges, and
+    hold them at bay.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: quarry
+  assigned_to:
+  - fig:4
+  basis: The peccaries are the animals hunted, scattered, chased, trapped, or killed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: refuge-sealers
+  assigned_to:
+  - fig:2
+  basis: The men fasten the opening of a ground hole with sticks or logs to prevent
+    the peccary's escape.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: horn signal
+  literal_form: horn sounded in repeated pairs of blasts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hunting weapons
+  literal_form: spears, bows, and arrows
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: animal refuges
+  literal_form: hollow logs, tree trunks, and holes in the ground
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: flat tree roots
+  literal_form: great flat roots of a tree used as a refuge by peccaries
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: escape barrier
+  literal_form: sticks or logs fastened over a ground-hole opening
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Horn-signaled discovery of peccaries
+  summary: A hunter who finds peccaries blows repeated pairs of horn blasts while
+    following the herd so men at the village know which direction to run with dogs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rapid communal pursuit and first killings
+  summary: Men and dogs rush through the forest; the dogs are held back while men
+    kill as many peccaries as possible with spears, bows, and arrows, causing the
+    herd to scatter.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Dogs bay peccaries in refuges
+  summary: Dogs pursue scattered peccaries into logs, tree trunks, ground holes, or
+    between tree roots, then hold them at bay until men arrive to spear them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Ground-hole opening sealed
+  summary: When a peccary takes refuge in a hole in the ground, men fasten the opening
+    with sticks or logs to prevent escape.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: coordinated communal hunt by horn signal
+  taxonomy_refs: []
+  basis: The passage presents a repeated sequence in which horn blasts communicate
+    the game's direction and mobilize men and dogs from the village.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a literal ethnographic hunting practice, not a mythic narrative
+    motif in the passage.
+- id: motif:2
+  label: hunting dogs drive prey into natural refuges
+  taxonomy_refs: []
+  basis: Dogs chase individual peccaries into hollow logs, tree trunks, ground holes,
+    or tree-root refuges and hold them until men arrive.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The pattern is practical and descriptive; no symbolic or supernatural
+    meaning is stated.
+- id: motif:3
+  label: sealing a prey's refuge to prevent escape
+  taxonomy_refs: []
+  basis: When a peccary enters a ground hole, men close the opening with sticks or
+    logs to keep it from escaping.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage breaks off after this action, so any subsequent step is not
+    extracted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1317-1321
+  quote_or_summary: A hunter finding peccaries sounds a horn in two blasts, repeats
+    the signal while following the game, and thereby directs men at the village where
+    to run with dogs.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 1321-1322
+  quote_or_summary: All the men and dogs rush through the forest at great speed.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 1322-1325
+  quote_or_summary: Dogs are not released until men have killed as many peccaries
+    as possible with spears, bows, and arrows; the herd may be from half a dozen to
+    half a hundred and becomes scattered.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 1326-1327
+  quote_or_summary: Dogs chase individual peccaries into hollow logs, tree trunks,
+    or holes in the ground.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 1327-1330
+  quote_or_summary: Peccaries may take refuge between great flat tree roots and defend
+    themselves; dogs hold them at bay until men arrive and spear them.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 1331-1333
+  quote_or_summary: When a peccary enters a ground hole during flight, the men fasten
+    the opening with sticks or logs to prevent escape.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are treated as practical
+    hunting patterns rather than mythological motifs. No comparison claims are made
+    because the passage itself provides no comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage ends mid-sentence after the men fasten the ground-hole opening; no action beyond the provided text is inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:amazonian-the-central-caribs-farabee-archive__l1317-l1336
+  passage_sha256=d96618d9494aabd4946e38baa48c60fc2141d2d6f8901505071d431fa8e8eed3
+

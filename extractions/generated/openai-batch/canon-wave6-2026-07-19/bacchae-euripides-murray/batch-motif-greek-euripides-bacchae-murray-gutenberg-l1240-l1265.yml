@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1240-l1265
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: A MAIDEN. / LEADER. / CHORUS. / THE VOICE.; lines 1240-1265
+  start: '1240'
+  end: '1265'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Our God is in the house! Ye maids adore Him!
+  summary: A voice calls on an earthquake and then on lightning and fire against the
+    house. An earthquake shakes the castle pillars, a maiden fears the fall of Pentheus'
+    hall, the leader and chorus adore the god present in the house, and fire rises
+    on Semelê's tomb.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A voice addresses the “Spirit of the Chained Earthquake” and commands it to
+    awake.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An earthquake suddenly shakes the pillars of the castle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A maiden asks whether Pentheus' hall will fall in ruin.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The leader states that their god is in the house and tells the maids to adore
+    him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The chorus answers that they all adore him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The voice commands the unveiling of lightning's eye and the arousing of sleeping
+    fire against the house.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Fire leaps up on the tomb of Semelê.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Voice
+  description: A speaker who commands the earthquake and the fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Spirit of the Chained Earthquake
+  description: An entity addressed by the voice and told to awake.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: A Maiden
+  description: A speaker who reacts to the shaking and fears the ruin of Pentheus'
+    hall.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Leader
+  description: A speaker who announces that the god is in the house and calls for
+    adoration.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Chorus
+  description: A collective speaker that affirms adoration of the god.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Our God
+  description: A god said by the leader to be in the house and adored by the maids
+    and chorus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Pentheus
+  description: The hall threatened with ruin is identified as the hall of Pentheus.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Semelê
+  description: Named as the person whose tomb is the place where fire leaps up.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: element-commanding voice
+  assigned_to:
+  - fig:1
+  basis: The voice commands the earthquake to awake and commands lightning and fire
+    against the house.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: invoked earthquake spirit
+  assigned_to:
+  - fig:2
+  basis: The spirit is directly addressed and told to hear and awake.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fearful witness
+  assigned_to:
+  - fig:3
+  basis: The maiden responds to the event by asking whether the hall will fall in
+    ruin.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: proclaimer of divine presence
+  assigned_to:
+  - fig:4
+  basis: The leader declares that the god is in the house and directs the maids to
+    adore him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: adoring collective
+  assigned_to:
+  - fig:5
+  basis: The chorus says that they all adore the god.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: present deity
+  assigned_to:
+  - fig:6
+  basis: The leader says the god is in the house and the chorus adores him.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: associated house owner
+  assigned_to:
+  - fig:7
+  basis: The endangered hall is called the hall of Pentheus.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: tomb-associated named figure
+  assigned_to:
+  - fig:8
+  basis: The fire appears on the tomb of Semelê.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: earthquake
+  literal_form: An earthquake shaking the pillars of the castle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: castle pillars
+  literal_form: Pillars of the castle shaken by an earthquake
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: house or hall of Pentheus
+  literal_form: The hall of Pentheus and the house targeted by fire
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: lightning's eye
+  literal_form: Lightning's eye, commanded to be unveiled
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: fire
+  literal_form: Sleeping fire aroused against the house; fire leaping on Semelê's
+    tomb
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: tomb of Semelê
+  literal_form: The tomb of Semelê, where fire leaps up
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Voice summons earthquake
+  summary: The voice calls on the Spirit of the Chained Earthquake to hear and awaken,
+    and an earthquake shakes the castle pillars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Witnesses recognize danger and divine presence
+  summary: A maiden fears the ruin of Pentheus' hall; the leader announces the god's
+    presence in the house, and the chorus adores him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Voice summons fire against the house
+  summary: The voice calls for lightning and sleeping fire to be aroused against the
+    house, and fire rises on Semelê's tomb.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine presence manifested through earthquake and fire
+  taxonomy_refs: []
+  basis: The leader identifies a god as present in the house while earthquake and
+    fire occur in response to the voice's commands.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly name the god in this excerpt or explain
+    the full cause of the manifestations.
+- id: motif:2
+  label: destructive divine force against a house
+  taxonomy_refs:
+  - divine_judgment
+  basis: The voice calls for fire against the house, a maiden fears the fall of Pentheus'
+    hall, and the leader frames the event as involving the god's presence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt shows attack or threatened destruction, but it does not state
+    a formal judgment or sentence within the quoted lines.
+- id: motif:3
+  label: fire appearing at a sacred tomb
+  taxonomy_refs: []
+  basis: The stage direction states that fire leaps up on the tomb of Semelê after
+    the voice summons fire.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives the image clearly, but its ritual or theological meaning
+    is not explained within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1240-1242
+  quote_or_summary: "“Spirit of the Chained Earthquake, / Hear my word; awake, awake!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: stage direction after 1242
+  quote_or_summary: An earthquake suddenly shakes the pillars of the castle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: A MAIDEN, lines 1240-1265 passage
+  quote_or_summary: The maiden asks whether the hall of Pentheus will fall, racked
+    in ruin.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized with brief quoted wording.
+- id: ev:4
+  type: quote
+  locator: LEADER / CHORUS, lines 1240-1265 passage
+  quote_or_summary: "“Our God is in the house! Ye maids adore Him!”; the chorus answers,
+    “We adore Him all!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: THE VOICE, lines 1240-1265 passage
+  quote_or_summary: 'The voice commands: “Unveil the Lightning''s eye” and “arouse
+    / The fire that sleeps, against this house.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: final stage direction, lines 1240-1265 passage
+  quote_or_summary: Fire leaps up on the tomb of Semelê.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied excerpt. Motif labels
+    involving divine judgment are tentative because the passage does not state the
+    broader causal context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references. No comparison claims were added because the excerpt itself does not support a specific cross-text comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1240-l1265
+  passage_sha256=ef3026e1b8d222ec4197811f9a39e4f0995467a9dff9f8ab5c7178637e68668c
+

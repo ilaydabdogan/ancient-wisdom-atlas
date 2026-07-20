@@ -1,0 +1,474 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l99484-l99570
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH LP / See Aranyaka, I, 4, 2. / KEITH Q / ADHYAYA 4,; lines 99484-99570
+  start: '99484'
+  end: '99570'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed thinking figure considers the worlds and their guardians and
+    creates food for them by brooding over waters. The created food seeks to go away.
+    He repeatedly fails to grasp it by speech, scent, sight, hearing, touch, mind,
+    and the generative organ, but obtains it by down-breathing. Vayu is identified
+    as the one who lays hold of food and lives by food. The figure then asks how the
+    functions can exist without him, splits open the top of the skull, enters through
+    that door, and is associated with three dwelling-places and three dreams.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The unnamed figure thinks about existing worlds and the guardians of those
+    worlds and asks whether he should create food for them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He broods over waters; from the waters a form is born, and that form is identified
+    as food.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The created food seeks to go away.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: He tries and fails to grasp food by speech, scent, the eye, the ear, the skin,
+    the mind, and the generative organ.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states counterfactually that, if those failed means had succeeded,
+    man would have enjoyed food by naming, smelling, seeing, hearing, touching, thinking
+    of it, or sending it forth alone.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: He seeks to grasp food by down-breathing and obtains it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Vayu is said to lay hold of food and to live by food.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: He asks how the situation can be without him and by which way he should enter.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: He lists functions of speech, scent, the eye, the ear, the skin, the mind,
+    down-breathing, and the generative organ, and asks what he is.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: He splits open the top of the skull and enters by that door.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The skull-door is named adrt and is called the place of happiness.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: The passage says there are three dwelling-places and three dreams of him.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: After being born, he looks through all beings to see whether anyone wished
+    to proclaim something; the excerpt breaks off before completing the object of
+    proclamation.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unnamed thinking creator and entrant
+  description: The repeated subject called “he,” who thinks, creates food, tries to
+    grasp it, and later enters through the top of the skull.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Food
+  description: The form born from brooded waters; when created, it seeks to go away
+    and becomes the object of repeated attempts at grasping.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Vayu
+  description: Named as the one who lays hold of food and lives by food.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Worlds and guardians of worlds
+  description: The worlds and their guardians are mentioned as existing before the
+    creation of food and as the intended recipients of food.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Man
+  description: Human beings are mentioned in counterfactual statements about how food
+    would have been enjoyed if it had been grasped by various faculties.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: creator of food
+  assigned_to:
+  - fig:1
+  basis: He considers creating food for the worlds and guardians, broods over waters,
+    and food is born.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: seeker or attempted grasper of food
+  assigned_to:
+  - fig:1
+  basis: He repeatedly seeks to grasp food by multiple faculties and fails until down-breathing
+    is used.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: grasper and consumer of food through breath
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Food is obtained by down-breathing, and Vayu is identified as the one who
+    lays hold of food and lives by food.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: created fleeing food
+  assigned_to:
+  - fig:2
+  basis: The form born from waters is food, and the food when created seeks to go
+    away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: intended recipients of created food
+  assigned_to:
+  - fig:4
+  basis: The thinker asks whether he should create food for the worlds and guardians
+    of worlds.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: hypothetical enjoyer of food
+  assigned_to:
+  - fig:5
+  basis: The passage repeatedly states that man would have enjoyed food through a
+    given faculty if the grasping had succeeded.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: entrant through the skull-door
+  assigned_to:
+  - fig:1
+  basis: He asks by which way he will enter, splits open the top of the skull, and
+    enters by that door.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: waters
+  literal_form: waters brooded over before the birth of form/food
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: food
+  literal_form: food born as a form from the waters and later grasped by down-breathing
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: faculties of attempted grasping
+  literal_form: speech, scent, eye, ear, skin, mind, generative organ, and down-breathing
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: down-breathing
+  literal_form: down-breathing by which food is obtained and digested
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: skull-door
+  literal_form: the split-open top of the skull, called adrt and the place of happiness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: three dwelling-places and three dreams
+  literal_form: three dwelling-places and three dreams belonging to him
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: worlds and guardians
+  literal_form: worlds and the guardians of these worlds
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Creation of food from waters
+  summary: The unnamed figure sees the worlds and their guardians, decides to create
+    food for them, broods over waters, and the born form is food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Failed grasping of food by faculties
+  summary: The created food seeks to go away. The figure attempts to grasp it with
+    several faculties, but each attempt fails; the passage explains what human enjoyment
+    would have been like if each faculty had succeeded.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Food obtained by down-breathing
+  summary: The figure obtains food by down-breathing, and the passage identifies Vayu
+    as the one who lays hold of food and lives by food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Entry through the top of the skull
+  summary: The figure asks how the faculties can exist without him and by which way
+    he should enter. He splits open the top of the skull and enters by that door,
+    which is named as a place of happiness.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Looking through beings after birth
+  summary: After being born, the figure looks through all beings to see whether anyone
+    wished to proclaim something; the supplied passage ends before the statement is
+    completed.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: food born from brooded waters
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage says the figure broods over waters and that the born form is
+    food.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is tentative because the born entity is food/form
+    rather than a named divine or human child.
+- id: motif:2
+  label: created food flees from its maker
+  taxonomy_refs: []
+  basis: Food, once created, seeks to go away and becomes the object of attempts at
+    seizure.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage’s wording is affected by OCR and editorial notes, but the
+    supplied translation explicitly says the food sought to go away.
+- id: motif:3
+  label: failed sensory possession of nourishment
+  taxonomy_refs: []
+  basis: The figure cannot grasp food by speech, scent, sight, hearing, touch, mind,
+    or the generative organ, and the passage gives counterfactual results for each
+    failed mode.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level pattern rather than a named taxonomy motif.
+- id: motif:4
+  label: breath as the successful means of taking food
+  taxonomy_refs: []
+  basis: Food is obtained by down-breathing, and Vayu is identified with laying hold
+    of food and living by food.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The extraction keeps the identification literal and does not infer a broader
+    breath-soul doctrine beyond the passage.
+- id: motif:5
+  label: self or divine entrant entering by the skull-door
+  taxonomy_refs: []
+  basis: After asking by which way he should enter, the figure splits open the top
+    of the skull and enters through that door, which is called a place of happiness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not provide a proper name for the entering figure in
+    the supplied excerpt.
+- id: motif:6
+  label: three dwelling-places and three dreams of the entrant
+  taxonomy_refs: []
+  basis: Immediately after the entry through the skull-door, the passage states that
+    there are three dwelling-places and three dreams of him.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The supplied excerpt does not explain the three dwelling-places or dreams
+    in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 99484-99488
+  quote_or_summary: The figure thinks of the worlds and their guardians, asks whether
+    he should create food for them, broods over waters, and the born form is identified
+    as food.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 99488-99515
+  quote_or_summary: The created food seeks to go away. The figure tries unsuccessfully
+    to grasp it by speech, scent, eye, ear, skin, mind, and the generative organ;
+    each failure is paired with a counterfactual statement about how man would have
+    enjoyed food if that mode had succeeded.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 99542-99545
+  quote_or_summary: The figure seeks to grasp food by down-breathing and obtains it.
+    The passage says Vayu lays hold of food and lives by food.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 99545-99550
+  quote_or_summary: The figure asks how the situation can be without him, asks by
+    which way he should enter, and lists the functions of speech, scent, eye, ear,
+    skin, mind, down-breathing, and the generative organ before asking what he is.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 99550-99555
+  quote_or_summary: He splits open the top of the skull and enters by that door; the
+    door is called adrt and the place of happiness. The passage then mentions three
+    dwelling-places and three dreams of him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 99555-99557
+  quote_or_summary: After being born, he looks through all beings to see whether anyone
+    wished to proclaim something; the supplied passage cuts off before completing
+    the statement.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based only on the supplied passage. Confidence is limited
+    by OCR corruption, footnote interruptions, an incomplete final sentence, and a
+    metadata/path mismatch between the Rigveda file path and the passage label naming
+    Aitareya Aranyaka.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage excerpt itself does not provide enough direct comparative evidence beyond brief editorial references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l99484-l99570
+  passage_sha256=f590ff7a4b2ba793cdcb456d072db6bb54812cab31901c2ad58e301123f98731
+

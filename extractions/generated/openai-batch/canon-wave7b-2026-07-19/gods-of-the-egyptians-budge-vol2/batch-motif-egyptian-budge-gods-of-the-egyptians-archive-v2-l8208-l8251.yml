@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l8208-l8251
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: HYMN   TO   OSIRIS  157 / HYMN   TO    OSIRIS  159 / HYMN    TO    OSIRIS  161
+    / XVIIITH  DYNASTY,  ABOUT  B.C.   1500; lines 8208-8251
+  start: '8208'
+  end: '8251'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Homage to thee, Osiris, lord of eternity, king of the gods,
+  summary: A hymn passage offers homage to Osiris, naming him lord of eternity and
+    king of the gods, and listing cultic epithets involving many names, holy creations,
+    hidden forms in temples, a venerated ka, and associations with Tattu, Sekhem,
+    Athi, and Heliopolis. A note states that the text is inscribed on a stele preserved
+    in Paris.
+  language: English with Egyptian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage heading assigns the hymn context to the Eighteenth Dynasty, about
+    1500 B.C.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage addresses homage directly to Osiris.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Osiris is called lord of eternity and king of the gods.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Osiris is described as having many names, holy creations, and hidden forms
+    in temples.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Osiris's ka is said to be venerated, and he is associated with Tattu and the
+    temple of Sekhem.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Osiris is associated with praises in the nome Athi and with sacred food in
+    Heliopolis.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note identifies the text as inscribed on a stele preserved in the Bibliotheque
+    Nationale, Paris.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: The deity addressed in the hymn as lord of eternity, king of the gods,
+    many-named, hidden of forms, and associated with several cult places.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: recipient of homage
+  assigned_to:
+  - fig:1
+  basis: The hymn says, "Homage to thee, Osiris."
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: lord of eternity
+  assigned_to:
+  - fig:1
+  basis: Osiris is explicitly called lord of eternity.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: king of the gods
+  assigned_to:
+  - fig:1
+  basis: Osiris is explicitly called king of the gods.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: many-named hidden-form deity
+  assigned_to:
+  - fig:1
+  basis: The passage calls Osiris many of names and hidden of forms in temples.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: cult-center-associated deity
+  assigned_to:
+  - fig:1
+  basis: Osiris is linked with Tattu, the temple of Sekhem, Athi, and Heliopolis.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: venerated ka
+  literal_form: ka
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: hidden forms
+  literal_form: hidden forms in the temples
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: temples and cult places
+  literal_form: temples; Tattu; temple of Sekhem; nome Athi; Heliopolis
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: sacred food
+  literal_form: sacred food in Heliopolis
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hymnic address and epithet sequence
+  summary: The hymn addresses Osiris with homage and enumerates his divine titles,
+    hidden forms, venerated ka, and associations with named cult centers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hymnic praise through accumulated divine epithets
+  taxonomy_refs: []
+  basis: The passage consists of homage to Osiris followed by multiple titles and
+    attributes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a hymnic/cultic pattern rather than a narrative episode.
+- id: motif:2
+  label: deity with many names and hidden forms
+  taxonomy_refs: []
+  basis: Osiris is described as many of names and hidden of forms in temples.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe transformation or shapeshifting, only names
+    and hidden forms.
+- id: motif:3
+  label: divine sovereignty over eternity and gods
+  taxonomy_refs: []
+  basis: Osiris is called lord of eternity and king of the gods.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage concerns divine titulature, not a narrated act of kingship.
+- id: motif:4
+  label: sacred geography of a deity across cult centers
+  taxonomy_refs: []
+  basis: Osiris is linked with Tattu, Sekhem, Athi, and Heliopolis.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage names sacred places but does not narrate movement among them.
+- id: motif:5
+  label: cultic sacred food associated with a deity
+  taxonomy_refs: []
+  basis: Osiris is called chief of the sacred food in Heliopolis.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not specify the ritual action or exchange involving the
+    sacred food.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 8208
+  quote_or_summary: XVIIITH DYNASTY, ABOUT B.C. 1500
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source text; short excerpt used for scholarly extraction.
+- id: ev:2
+  type: quote
+  locator: lines 8208-8251, opening invocation
+  quote_or_summary: Homage to thee, Osiris, lord of eternity, king of the gods,
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source text; short excerpt used for scholarly extraction.
+- id: ev:3
+  type: quote
+  locator: lines 8208-8251, divine attributes
+  quote_or_summary: many of names, holy of creations, hidden of forms in the temples
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source text; short excerpt used for scholarly extraction.
+- id: ev:4
+  type: quote
+  locator: lines 8208-8251, cult-center epithets
+  quote_or_summary: whose ka is venerated, chief of Tattu, great one contained in
+    the temple of Sekhem
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source text; short excerpt used for scholarly extraction.
+- id: ev:5
+  type: quote
+  locator: lines 8208-8251, Athi and Heliopolis epithets
+  quote_or_summary: lord of praises in the nome Athi, chief of the sacred food in
+    Heliopolis
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source text; short excerpt used for scholarly extraction.
+- id: ev:6
+  type: quote
+  locator: lines 8208-8251, footnote
+  quote_or_summary: The stele on which the following text is inscribed is preserved
+    in the Bibliotheque Nationale, Paris.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source text; short excerpt used for scholarly extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short hymnic fragment with clear epithets but
+    little narrative action. No comparison claims were made because the passage itself
+    does not support a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy refs were not applied where the passage did not clearly support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l8208-l8251
+  passage_sha256=d3bdd9ff70148a44cf2fc43d92a2fdd19d5ab0d747ee5c1ba560d0f2f6e48c2f
+

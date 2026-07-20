@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l19271-l19440
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: THK GREAT LEARNING / THE DOCTRINE OF / THE MEAN / THE DOCTRINE 01' THE MEAN;
+    lines 19271-19440
+  start: '19271'
+  end: '19440'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: What Heaven has conferred is called THE NATURE; an accordance with this nature
+    is called THE PATH of duty; the regulation of this path is called INSTRUCTION.
+  summary: The passage opens The Doctrine of the Mean by defining Heaven-conferred
+    nature, the path of duty, and instruction. It says the path cannot be left even
+    briefly; the superior man is cautious and watchful, especially alone. It defines
+    equilibrium as the mind before pleasure, anger, sorrow, or joy are stirred, harmony
+    as those feelings acting in due degree, and states that perfected equilibrium
+    and harmony lead to happy order.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Heaven is said to confer what is called nature; accordance with that nature
+    is called the path of duty; regulation of that path is called instruction.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The path is described as something that may not be left for an instant; if
+    it could be left, it would not be the path.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The superior man is described as cautious and apprehensive without waiting
+    to see or hear things.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The superior man is said to be watchful over himself when alone, because what
+    is secret and minute is described as visible and manifest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The absence of stirrings of pleasure, anger, sorrow, or joy is called equilibrium.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When pleasure, anger, sorrow, and joy are stirred and act in their due degree,
+    the result is called harmony.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Equilibrium is called the great root from which human actings grow, and harmony
+    is called the universal path that human actings should pursue.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The text says that if equilibrium and harmony exist in perfection, a happy
+    order will prevail.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Heaven
+  description: Heaven is named as the source that confers nature.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: superior man
+  description: The superior man is described as cautious, apprehensive, and watchful
+    over himself when alone.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: wise and good men / sages
+  description: The commentary says wise and good men, called sages, appeared to explain
+    and regulate the path through instruction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: source of nature
+  assigned_to:
+  - fig:1
+  basis: The text states that Heaven confers what is called nature.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: vigilant ethical practitioner
+  assigned_to:
+  - fig:2
+  basis: The superior man does not wait for seeing or hearing to be cautious and is
+    watchful when alone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: instructors of the path
+  assigned_to:
+  - fig:3
+  basis: The commentary describes sages as explaining and regulating the path through
+    their instructions.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Heaven
+  literal_form: Heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: path of duty
+  literal_form: THE PATH of duty
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: great root
+  literal_form: great root from which grow all the human actings
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: universal path
+  literal_form: universal path
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Definitions of nature, path, and instruction
+  summary: Heaven-conferred nature, accordance with nature as the path of duty, and
+    regulation of the path as instruction are defined.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Watchfulness on the path
+  summary: The path is said never to be left, and the superior man is described as
+    cautious, apprehensive, and watchful over himself when alone.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Equilibrium and harmony
+  summary: The passage defines equilibrium before emotions are stirred and harmony
+    when emotions act in due degree, then links perfected equilibrium and harmony
+    with happy order.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Heaven-conferred moral nature and instructed path
+  taxonomy_refs:
+  - wisdom
+  basis: The text defines nature as conferred by Heaven, the path as accordance with
+    nature, and instruction as regulation of that path; the commentary connects instruction
+    with sages.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: This is a philosophical-ethical formulation rather than a narrative mythic
+    episode; the wisdom taxonomy is a broad fit.
+- id: motif:2
+  label: Watchfulness over the hidden self
+  taxonomy_refs:
+  - wisdom
+  basis: The superior man is cautious before seeing or hearing, and watchful when
+    alone because the secret and minute are described as visible and manifest.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents an ethical discipline, not a developed mythic scene.
+- id: motif:3
+  label: Inner equilibrium producing harmony and order
+  taxonomy_refs: []
+  basis: The passage defines equilibrium and harmony in relation to emotions, calls
+    equilibrium the great root and harmony the universal path, and says perfected
+    equilibrium and harmony bring happy order.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The line range ends before the full consequence may be completed, so the
+    extraction is limited to the supplied wording.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19280-19284
+  quote_or_summary: "“What Heaven has conferred is called THE NATURE; an accordance
+    with this nature is called THE PATH of duty; the regulation of this path is called
+    INSTRUCTION.”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 19332-19338
+  quote_or_summary: The path may not be left for an instant; therefore the superior
+    man does not wait to see things to be cautious or to hear things to be apprehensive.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 19340-19344
+  quote_or_summary: Nothing is more visible than what is secret, and nothing more
+    manifest than what is minute; therefore the superior man is watchful over himself
+    when alone.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 19404-19416
+  quote_or_summary: Before pleasure, anger, sorrow, or joy stir, the mind is in equilibrium;
+    when feelings are stirred and act in due degree, there is harmony. Equilibrium
+    is called the great root and harmony the universal path.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 19418-19420
+  quote_or_summary: "“Let the states of equilibrium and harmony exist in perfection,
+    and a happy order will prevail”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: commentary within lines 19301-19315
+  quote_or_summary: The commentary says moral nature is conferred by Heaven or God
+    and that wise and good men, sages, appeared to explain and regulate the path through
+    instruction.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is doctrinal and ethical rather than narrative. Motif candidates
+    are therefore broad conceptual patterns and should be reviewed by a human specialist.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied line range and metadata. No comparison claims were added because the passage does not itself support a specific comparative claim beyond broad motif-family classification.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l19271-l19440
+  passage_sha256=9ed719b8cb846418d5bf31f70109047196878b6c90111b446402befc25bd6cc2
+

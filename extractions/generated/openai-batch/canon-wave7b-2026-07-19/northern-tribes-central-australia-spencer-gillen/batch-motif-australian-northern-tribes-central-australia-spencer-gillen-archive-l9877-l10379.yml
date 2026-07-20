@@ -1,0 +1,185 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l9877-l10379
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: H H H H / I 2 3 4 / I .2 . .. 3 . 4 / I , . 1 I , I; lines 9877-10379
+  start: '9877'
+  end: '10379'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The woman numbered 38 on the genealogical tree applies the following names
+    to the individuals indicated in the genealogical tree
+  summary: The passage gives tabular kinship or relationship names assigned to numbered
+    and lettered positions on a genealogical tree. It includes one list with position
+    25 marked as Ego and a later list describing the names applied by the woman numbered
+    38, where position 38 is marked as Ego.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage consists chiefly of numbered and lettered entries paired with
+    names or kinship terms.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One list contains the entry numbered 25 as "Ego."
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The text states that the woman numbered 38 on the genealogical tree applies
+    the following names to the indicated individuals.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the woman numbered 38's list, the entry numbered 38 is "Ego."
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Terms such as Namimi, Muri-muri, Gnarali, Yallnali, Nirritja, Gnanirritja,
+    Nipari, Gnaiawati, Nitjari, and others recur across numbered entries.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: woman numbered 38
+  description: A woman identified by number 38 on the genealogical tree; the passage
+    reports the names she applies to other individuals, and her own entry is marked
+    Ego in that list.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: numbered and lettered individuals on the genealogical tree
+  description: Individuals indicated by numbers and letters in the genealogical tree
+    and paired with names or kinship terms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: entry numbered 25
+  description: In the earlier list, the entry numbered 25 is marked Ego.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: applier of genealogical names
+  assigned_to:
+  - fig:1
+  basis: The text says the woman numbered 38 applies the listed names to individuals
+    on the genealogical tree.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Ego
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Position 38 is marked Ego in the woman numbered 38's list; position 25 is
+    marked Ego in the earlier list.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: individuals indicated in genealogical tree
+  assigned_to:
+  - fig:2
+  basis: The text refers to individuals indicated in the genealogical tree and lists
+    names for numbered and lettered entries.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: genealogical tree
+  literal_form: genealogical tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Assignment of names on a genealogical tree
+  summary: The passage presents lists of names or kinship terms attached to positions
+    on a genealogical tree, including a specific list of names applied by the woman
+    numbered 38.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9877-10379, tabular entries
+  quote_or_summary: The passage gives numbered and lettered entries paired with terms
+    including Muri-muri, Namimi, Nipari, Gnagun, Katjirri, Umburnati, Umburnana, Nalaru/Naluru,
+    and many others.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 9877-10379, earlier list
+  quote_or_summary: '"25. Ego."'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 9877-10379, transition to woman 38 list
+  quote_or_summary: '"The woman numbered 38 on the genealogical tree applies the following
+    names to the individuals indicated in the genealogical tree"'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 9877-10379, woman 38 list
+  quote_or_summary: In the list attributed to the woman numbered 38, entries include
+    1-2 as Namimi, 3-4 as Muri-muri, multiple later entries with names such as Gnarali,
+    Yallnali, Nirritja, Gnanirritja, Nipari, Gnaiawati, Nitjari, and 38 as Ego.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a genealogical or kinship-term table rather than a narrative
+    mythic passage. Literal extraction is limited to the tabular relationships explicitly
+    stated. No candidate mythic motifs or comparison claims are supported by the passage
+    itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family is assigned because the provided passage does not present a mythic episode, ritual action, cosmological image, or comparative motif claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l9877-l10379
+  passage_sha256=f58f4e762e68689e40103dea4fe650ac4b005e296914500ba0982fe125566eee
+

@@ -1,0 +1,150 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l43250-l43254
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CXC / SECTION CXCI / SECTION CXCII / SECTION CXCIII; lines 43250-43254
+  start: '43250'
+  end: '43254'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Yudhishthira said... I desire to hear thee discourse to me... of the ordinances
+    about conduct.
+  summary: Yudhishthira addresses his grandsire as knowledgeable about duties and
+    asks to hear a discourse on the ordinances about conduct.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira speaks to his grandsire.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira says he thinks the grandsire is acquainted with everything and
+    conversant with duties.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Yudhishthira asks to hear a discourse about the ordinances concerning conduct.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Yudhishthira addresses the grandsire as sinless.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Speaker who asks his grandsire for instruction about conduct.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: grandsire addressed by Yudhishthira
+  description: Addressee described as acquainted with everything, conversant with
+    duties, and sinless.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: questioner seeking instruction
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira says he desires to hear a discourse about ordinances of conduct.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: addressed elder
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira addresses the addressee as grandsire.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: authority on duties
+  assigned_to:
+  - fig:2
+  basis: The addressee is described as acquainted with everything and conversant with
+    duties.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Request for discourse on conduct
+  summary: Yudhishthira addresses his grandsire, praises his knowledge of duties,
+    and asks him to discourse on ordinances about conduct.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: request for wisdom instruction from an elder
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on a speaker seeking a discourse on conduct from an elder
+    described as knowledgeable and conversant with duties.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is brief and contains only the request, not the subsequent
+    teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 43250-43254
+  quote_or_summary: '"Yudhishthira said... O grandsire"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 43250-43254
+  quote_or_summary: '"thou art acquainted with everything... conversant with duties"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 43250-43254
+  quote_or_summary: '"O sinless one... discourse to me... of the ordinances about
+    conduct"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal speech and roles are explicit. Motif identification is limited
+    by the short passage. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No literal symbols from the supplied symbol taxonomy are present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l43250-l43254
+  passage_sha256=81107a8188130daa0398b99f154868baa4cf4cfdf26142b203e2a0460a371785
+

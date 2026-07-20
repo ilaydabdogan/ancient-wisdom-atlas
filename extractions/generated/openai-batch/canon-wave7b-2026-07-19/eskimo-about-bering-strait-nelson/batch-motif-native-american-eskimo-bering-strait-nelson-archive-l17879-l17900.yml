@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l17879-l17900
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: 'EIGHTEENTH   ANNUAL   REPORT      PL.    XC / SNUFF    TUBES    ''ABOUT  NINE-SIXTEENTHS:
+    / HOUSE-LIFE  AXD    SOCIAL   CUSTOMS / SWEAT   BATHS; lines 17879-17900'
+  start: '17879'
+  end: '17900'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes winter sweat baths in the kashim: men and boys periodically
+    use a heated room, a pit fire beneath removable floor planks, stored urine as
+    a cleansing agent, and cold water, snow, or ice water afterward to cool their
+    bodies.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Men and boys take sweat baths in these buildings at intervals of a week or
+    ten days during winter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Each man keeps a small urine tub near his place, saving the liquid for bathing.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A removable plank section in the center of the floor exposes a pit beneath
+    the room.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A fire of drift logs is built in the pit and reduced to coals before the sweat
+    bath proceeds.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the smoke passes off, the smoke hole in the roof is covered.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Men sit naked around the room until they perspire heavily.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: They bathe in urine, which combines with body oil and is described as taking
+    the place of soap.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: They go outside and pour water over their bodies until they become cool.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The temperature in the kashim is high enough that their skin becomes shining
+    red and appears nearly blistered.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After the heat, they squat nude in the snow and appear to enjoy the contrasting
+    temperature.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: On some occasions they go from the sweat bath to holes in the ice on neighboring
+    streams and pour ice water over their bodies.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: men and boys
+  description: Male participants in the winter sweat baths; the men are described
+    sitting naked, perspiring, bathing, and cooling themselves afterward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: sweat bath participants
+  assigned_to:
+  - fig:1
+  basis: They are the people described as taking the sweat baths, sitting in the heated
+    kashim, bathing, and cooling outside.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: pit fire
+  literal_form: fire of drift logs reduced to coals in a pit beneath removable floor
+    planks
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: cooling water
+  literal_form: water poured over the body after the sweat bath, including ice water
+    from holes in stream ice
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: urine bath liquid
+  literal_form: stored urine kept in small tubs and used for bathing in place of soap
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: snow and ice holes
+  literal_form: snow outside the kashim and holes in the ice on neighboring streams
+    used during cooling
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: kashim sweat-bath room
+  literal_form: heated communal room or building where the bathers remain during the
+    sweat bath
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preparing the sweat-bath heat
+  summary: The central floor planks are removed to expose a pit, a drift-log fire
+    is built, and after the smoke clears and the logs become coals the roof smoke
+    hole is covered.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Sweating inside the kashim
+  summary: Men sit naked in the heated room until they perspire heavily; the heat
+    is described as making the skin red and nearly blistered.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Cleansing and cooling after heat
+  summary: The bathers wash with stored urine, then cool themselves outside with water,
+    snow, or ice water from holes in nearby streams.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: communal sweat bath cleansing cycle
+  taxonomy_refs: []
+  basis: The passage presents a repeated winter practice involving heating, sweating,
+    washing with stored urine, and cooling with water, snow, or ice water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic description of a social custom, not a mythic narrative;
+    no explicit sacred or initiatory meaning is stated in the passage.
+- id: motif:2
+  label: heat-to-cold bodily ordeal or contrast
+  taxonomy_refs: []
+  basis: The bathers endure very high heat and then deliberately cool themselves by
+    going into snow or using ice water, with the contrast specifically noted.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage describes enjoyment and cooling but does not state symbolic,
+    ritual, or initiatory interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '17879'
+  quote_or_summary: 'Section heading: Sweat Baths.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; brief citation only.
+- id: ev:2
+  type: summary
+  locator: 17880-17883
+  quote_or_summary: Men and boys take winter sweat baths every week or ten days; each
+    man saves urine in a small tub for bathing.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 17883-17887
+  quote_or_summary: Removable central floor planks expose a pit where drift logs are
+    burned; after smoke clears and coals remain, the roof smoke hole is covered.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 17887-17891
+  quote_or_summary: Men sit naked until sweating, bathe in urine that acts like soap
+    with body oil, then go outside and pour water over themselves to cool.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 17891-17896
+  quote_or_summary: The kashim becomes extremely hot; afterward the nude bathers squat
+    in snow and seem to enjoy the contrast in temperature.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 17896-17900
+  quote_or_summary: The observer saw bathers go to holes in stream ice and pour ice
+    water over themselves.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive only
+    because the passage does not state mythic, sacred, or initiatory interpretation.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Taxonomy symbol refs are limited to available terms directly present in the passage: fire and water.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l17879-l17900
+  passage_sha256=f852a8014dd66beee28b08c61607cf531ae532ea4bf68327ae9288e10b277b0c
+

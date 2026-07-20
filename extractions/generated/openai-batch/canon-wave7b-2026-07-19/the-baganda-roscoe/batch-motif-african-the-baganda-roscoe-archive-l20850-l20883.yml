@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l20850-l20883
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: INDUSTRIES / XI  INDUSTRIES  413 / CHAPTER  XII / THE   KEEPING  OF   COWS   AND  OTHER  DOMESTIC   ANIMALS;
+    lines 20850-20883
+  start: '20850'
+  end: '20883'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes cattle-keeping conditions in Uganda, social patterns
+    of cattle ownership and herding, precautions for distributing the king's herds,
+    and several breeds of cattle distinguished by horn form, colour, and humps.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Uganda is described as favourable for rearing cattle, with preferred herding
+    districts having long rolling plains, pools of brackish water, and short coarse
+    grass liked by cattle.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Poorer people originally herded and managed their own cattle, while at the
+    time described they placed them with a friendly chief.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The King and chiefs had special Bahima men as herdsmen.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The King possessed thousands of cows, chiefs had large numbers of cattle,
+    and peasants might possess one or two cows.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Peasants with many cattle are said to have risked being robbed by chiefs.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The King's chief herdsman controlled all the king's herds.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The king's herds were divided and sent to different parts of the country to
+    reduce risk from raids and disease contagion.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Three or four cattle breeds are listed, differentiated by horn size, colour,
+    hornlessness, and the presence or absence of a small hump.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: King
+  description: Owner of thousands of cows whose herds were managed by a chief herdsman
+    and distributed through the country.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Chiefs
+  description: Elite cattle owners with large herds; they employed special Bahima
+    herdsmen and are described as liable to rob peasants with many cattle.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Poorer people or peasants
+  description: People who might own one or two cows; poorer people formerly herded
+    their own cattle but later placed them with a friendly chief.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Bahima herdsmen
+  description: Special men of the Bahima tribe employed as herdsmen for the King and
+    chiefs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: King's chief herdsman
+  description: The person who controlled all of the King's herds.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Neighbouring tribes
+  description: Groups whose raids were a reason for dividing the King's herds among
+    different parts of the country.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Cattle
+  description: Domestic animals reared in several breeds, including Nganda, Nsoga,
+    red or red-and-white hornless cattle, and Nsagala long-horned cattle.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: cattle owner
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage distinguishes the King, chiefs, and peasants by the numbers of
+    cows or cattle they possessed.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: herdsman
+  assigned_to:
+  - fig:4
+  basis: Bahima men are described as special herdsmen for the King and chiefs.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: chief herdsman and herd controller
+  assigned_to:
+  - fig:5
+  basis: The King's chief herdsman is said to have control of all the King's herds.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: small-scale cattle holder
+  assigned_to:
+  - fig:3
+  basis: Peasants might possess one or two cows, and poorer people originally herded
+    their own cattle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: potential cattle robbers
+  assigned_to:
+  - fig:2
+  basis: Chiefs are described as potentially robbing peasants who possessed many cattle.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: raiding threat
+  assigned_to:
+  - fig:6
+  basis: Neighbouring tribes are mentioned as a source of raids against which herds
+    were distributed for security.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Cattle-rearing landscape
+  summary: The passage presents Uganda as suited to cattle-raising, especially in
+    districts with rolling plains, brackish water pools, and short coarse grass.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Social organization of cattle ownership and herding
+  summary: Poorer people, peasants, chiefs, the King, and Bahima herdsmen are described
+    in relation to cattle ownership and herd management.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Distribution of the King's herds
+  summary: The King's chief herdsman divided and sent the King's herds to different
+    parts of the country to protect them from raids and reduce disease contagion.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Enumeration of cattle breeds
+  summary: The passage lists cattle breeds by names and physical traits, including
+    Nganda, Nsoga, hornless red or red-and-white cattle, and Nsagala long-horned cattle.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20850-20857
+  quote_or_summary: Uganda is described as favourable to cattle rearing; preferred
+    districts have long rolling plains, brackish pools, and short coarse grass on
+    which cattle thrive.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 20857-20862
+  quote_or_summary: Poorer people originally managed their own cattle but later placed
+    them with a friendly chief; only the King and chiefs had special Bahima herdsmen.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 20862-20867
+  quote_or_summary: The King had cows by the thousand, chiefs also had many cattle,
+    and peasants might have one or two cows but risked chiefs' cupidity if they had
+    many.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 20867-20874
+  quote_or_summary: The King's chief herdsman controlled all royal herds, which were
+    divided and sent throughout the country for security against raids and to check
+    contagion in case of disease.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 20874-20883
+  quote_or_summary: The passage lists Nganda, Nsoga, hornless red or red-and-white
+    cattle, and Nsagala long-horned cattle, noting their colours, horn forms, and
+    the small humps of Nsoga cattle.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is primarily ethnographic and practical rather than mythic or
+    symbolic; no motif or comparison claims are supported by the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol references were applied because the passage does not present cattle, landscape, or ownership details as mythic symbols or comparative motifs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l20850-l20883
+  passage_sha256=a2fefea05822dff132e7c94aa765bea93f9ddf763c0bf97626671b9b3ff8bb71
+

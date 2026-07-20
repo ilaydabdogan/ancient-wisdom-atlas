@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l7113-l7147
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: FUNERAL   OF   OSIRIS / FUNERAL    OF   OSIRIS / FUNERAL   OF   OSIRIS /
+    FUNERAL   OF   OSIRIS; lines 7113-7147
+  start: '7113'
+  end: '7147'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"I am the resurrection."'
+  summary: The passage reports that Hathor was connected by Christians with the Christian
+    Resurrection, citing a lamp with a frog figure and a resurrection legend. It then
+    describes an image of Osiris lying mummified on a bier, attended by Anubis, Heqet,
+    Heru-netch-tef-f, Nephthys, and Isis. A following item begins another description
+    of Osiris wearing the White Crown with plumes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Hathor is said to have been connected by Christians with the Christian Resurrection.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A lamp described by Lanzone is said to show a frog figure and a legend translated
+    as “I am the resurrection.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Osiris is described as bearded, ithyphallic, in mummied form, wearing the
+    White Crown, and lying on his bier.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Anubis, described as jackal-headed, and Heqet, described as frog-headed, stand
+    beside the bier.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Heru-netch-tef-f stands at the head of the bier in the form of a hawk.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Nephthys kneels at the head of the bier, and Isis kneels at the foot.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A subsequent numbered item begins by describing Osiris as bearded and wearing
+    the White Crown with plumes.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hathor
+  description: Named figure said to have been connected by Christians with the Christian
+    Resurrection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Osiris
+  description: Bearded, ithyphallic, mummied figure wearing the White Crown and lying
+    on a bier; also named in the next item as bearded and wearing the White Crown
+    with plumes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Anubis
+  description: Jackal-headed figure standing by the side of Osiris’s bier.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Heqet
+  description: Frog-headed figure standing by the side of Osiris’s bier.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Heru-netch-tef-f
+  description: Figure in the form of a hawk standing at the head of Osiris’s bier.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Nephthys
+  description: Figure kneeling at the head of Osiris’s bier.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Isis
+  description: Figure kneeling at the foot of Osiris’s bier.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: figure in reported resurrection association
+  assigned_to:
+  - fig:1
+  basis: The passage says Hathor was connected by Christians with the Christian Resurrection.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: central deceased figure on bier
+  assigned_to:
+  - fig:2
+  basis: Osiris is described in mummied form, wearing the White Crown, and lying on
+    his bier.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: standing attendant beside the bier
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Anubis and Heqet are described as standing by the side of Osiris’s bier.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: attendant at the head of the bier
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Heru-netch-tef-f stands at the head, and Nephthys kneels there.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: attendant at the foot of the bier
+  assigned_to:
+  - fig:7
+  basis: Isis is described as kneeling at the foot of the bier.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: frog image
+  literal_form: A frog figure on a lamp; Heqet is also described as frog-headed.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: resurrection legend
+  literal_form: The lamp legend translated as “I am the resurrection.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bier
+  literal_form: The bier on which Osiris lies.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: White Crown
+  literal_form: The White Crown worn by Osiris; the next item mentions the White Crown
+    with plumes.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: mummied form
+  literal_form: Osiris represented in mummied form while lying on the bier.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: animal-headed or animal-form attendants
+  literal_form: Anubis is jackal-headed, Heqet is frog-headed, and Heru-netch-tef-f
+    appears in hawk form.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Christian resurrection association with Hathor and frog lamp
+  summary: The passage reports that Hathor was connected by Christians with the Christian
+    Resurrection and cites a lamp bearing a frog figure and a resurrection legend.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Osiris on his bier with attendants
+  summary: Osiris lies in mummied form on a bier while Anubis and Heqet stand beside
+    it, Heru-netch-tef-f and Nephthys are positioned at the head, and Isis kneels
+    at the foot.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: resurrection association through frog imagery
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly connects Hathor with the Christian Resurrection and
+    cites a lamp with a frog and the legend “I am the resurrection.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage reports an association and an object inscription, not a full
+    narrative of resurrection.
+- id: motif:2
+  label: deceased divine figure laid on a bier with ritual attendants
+  taxonomy_refs:
+  - death_rebirth
+  basis: Osiris is shown mummied on a bier with named attendants positioned beside,
+    at the head of, and at the foot of the bier.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a funerary image; rebirth is suggested only by the
+    broader resurrection context, not narrated in this scene.
+- id: motif:3
+  label: animal-form attendants around a funerary body
+  taxonomy_refs: []
+  basis: The passage describes jackal-headed Anubis, frog-headed Heqet, and hawk-form
+    Heru-netch-tef-f in attendance around Osiris’s bier.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a visual arrangement rather than a developed narrative motif in
+    the provided excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports a Christian interpretive connection between Hathor,
+    frog imagery, and the Christian Resurrection.
+  claim_level: historical_contact
+  target: Christian Resurrection
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt gives a reported association and a lamp inscription but
+    does not establish the origin, date, or extent of the connection.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7113-7117
+  quote_or_summary: The passage states that Hathor was connected by Christians with
+    the Christian Resurrection.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: 7118-7122
+  quote_or_summary: A lamp is described as bearing “a figure of a frog” and the legend
+    “I am the resurrection.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 7124-7130
+  quote_or_summary: No. 21 describes Osiris, bearded, ithyphallic, mummied, wearing
+    the White Crown, lying on a bier; Anubis is jackal-headed and Heqet frog-headed,
+    standing by the bier.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: 7131-7133
+  quote_or_summary: Heru-netch-tef-f stands at the head in hawk form; Nephthys kneels
+    at the head and Isis kneels at the foot.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: 7135-7137
+  quote_or_summary: No. 22 begins by describing Osiris as bearded and wearing the
+    White Crown with plumes.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main funerary scene is clear, but the excerpt begins mid-discussion and
+    ends with an incomplete numbered item. OCR spacing and the fragmentary context
+    limit certainty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Page numbers, headings, and footnote markers were not treated as mythic content.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l7113-l7147
+  passage_sha256=6a3ff5efdec562cb568dc8000fc4f0c31ab5f026405e15c2bba1dcd6e46549fa
+

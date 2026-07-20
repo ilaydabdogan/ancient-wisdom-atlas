@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.gnostic-mead-fragments-of-a-faith-forgotten-archive-l22951-l23028
+source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+passage_locator:
+  label: FROM   THE   TRAVELS   OF  PETER.  447 / FROM   THE   TRAVELS   OF   PETER.  449
+    / THE  ASKEW  AND  BRUCE  CODICES. / THE    ASKEW    AND    BRUCE    CODICES.  455;
+    lines 22951-23028
+  start: '22951'
+  end: '23028'
+  translation: Fragments of a Faith Forgotten
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the textual state, publication history, and scholarly
+    difficulty of the Bruce Codex and related Coptic Gnostic treatises. It notes lost
+    manuscript pages, jumbled leaves, titles preserved in the manuscripts, prior French
+    and German editions, Schmidt’s reconstruction and translation work, and Mead’s
+    decision to offer only a tentative English summary because the material remains
+    complex and untranslated in English.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One manuscript is described as having lost its first and last pages.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Another manuscript is described as containing fragments of at least two separate
+    books and preserving the title The Book of the Great Logos according to the Mystery.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Schmidt is reported to treat that title as a general title comprising two
+    parts, called the First and Second Book of Ieou.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The contents of the treatises are described as extremely complex, and the
+    passage says there was then no English translation of the Codex Brucianus.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Amelineau published a text and French translation of the Bruce Codex in 1891,
+    based on Woide’s copy, but is said not to have recognized that two distinct manuscripts
+    had been mixed together.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In 1892 Carl Schmidt collated copies with the Oxford original, separated the
+    two manuscripts, ordered their leaves, and published a critical text with German
+    translation and commentary.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Mead states that he will follow Schmidt’s translation rather than Amelineau’s
+    and emphasizes the continuing difficulty of the material.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Mead describes his own treatment as a tentative summary intended to give general
+    readers some notion of the contents of Coptic Gnostic treatises.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Carl Schmidt
+  description: A Coptic scholar credited with collating copies of the Bruce Codex,
+    separating two manuscripts, ordering their leaves, and publishing a critical text
+    with German translation and commentary.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Amelineau
+  description: A scholar who published a text and French translation of the Bruce
+    Codex in 1891, based on Woide’s copy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Woide
+  description: A copyist whose copy of the Codex was used by Amelineau and later collated
+    by Schmidt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Schwartze
+  description: A copyist whose copy of the Codex was collated by Schmidt with the
+    Oxford original.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Mead / the narrator
+  description: The authorial voice that reports following Schmidt’s translation and
+    offering a tentative English summary of the contents of Coptic Gnostic treatises.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: critical editor and translator
+  assigned_to:
+  - fig:1
+  basis: Schmidt is described as collating copies with the original, separating manuscripts,
+    arranging leaves, and publishing a critical text with German translation and commentary.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: earlier editor and French translator
+  assigned_to:
+  - fig:2
+  basis: Amelineau is described as publishing a text and French translation in 1891.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: manuscript copyist
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Woide and Schwartze are named as makers of copies of the Codex used in later
+    collation.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: summarizer and cautious interpreter
+  assigned_to:
+  - fig:5
+  basis: The narrator states that he will follow Schmidt and that his own sketch is
+    only a tentative summary for general readers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Manuscript condition and titles
+  summary: The passage describes damaged and fragmentary manuscript material, including
+    a manuscript with missing first and last pages and another preserving the title
+    The Book of the Great Logos according to the Mystery.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Nineteenth-century publication and reconstruction
+  summary: The passage contrasts Amelineau’s 1891 French edition based on Woide’s
+    copy with Schmidt’s 1892 critical reconstruction based on collation with copies
+    and the Oxford original.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Authorial statement of difficulty
+  summary: Mead states that the Codex Brucianus remains highly complex, that he will
+    follow Schmidt’s translation, and that his own account is only a tentative summary
+    for readers lacking English access to the material.
+  figure_refs:
+  - fig:5
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22951-22958
+  quote_or_summary: The passage says one manuscript has lost its first and last pages,
+    while another contains fragments of at least two separate books and preserves
+    the title The Book of the Great Logos according to the Mystery; Schmidt takes
+    this as a general title comprising the First and Second Book of Ieou.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 22960-22976
+  quote_or_summary: The contents of the treatises are described as marvellous and
+    complex; Mead says the Pistis Sophia and Extracts from the Books of the Saviour
+    can give only a partial idea, and that the Codex Brucianus had no English translation
+    at that time.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 22978-22987
+  quote_or_summary: Amelineau’s 1891 text and French translation of the Bruce Codex
+    are described as based on Woide’s earlier copy; the passage says he did not realize
+    that two distinct manuscripts had leaves jumbled together.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 22989-22997
+  quote_or_summary: Schmidt is described as collating Schwartze’s and Woide’s copies
+    with the Oxford original, separating two manuscripts, arranging their leaves,
+    and publishing a critical text with German translation and commentary in 1892.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 22999-23018
+  quote_or_summary: Mead states he will follow Schmidt’s translation rather than Amelineau’s,
+    praises Schmidt’s competence, and says that many problems in the Gnostic documents
+    remain unresolved.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 23020-23028
+  quote_or_summary: Mead explains that he has deferred a full commentary on Pistis
+    Sophia and is offering only tentative summaries so general readers can gain some
+    notion of Coptic Gnostic treatises, especially because nothing in English yet
+    covered the Bruce Codex contents.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is scholarly and bibliographic rather than mythic narrative.
+    Literal extraction is high confidence; no candidate mythological motifs or comparison
+    claims are asserted because the passage does not provide sufficient narrative
+    or symbolic content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol references were applied. Titles such as The Book of the Great Logos according to the Mystery and Pistis Sophia are treated here as textual titles only, not as extracted symbols or motifs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:gnostic-mead-fragments-of-a-faith-forgotten-archive__l22951-l23028
+  passage_sha256=37c04dd4cdd5bf40e2136140b6effe609f29fafcf74d92fd5c1102750f16bd01
+

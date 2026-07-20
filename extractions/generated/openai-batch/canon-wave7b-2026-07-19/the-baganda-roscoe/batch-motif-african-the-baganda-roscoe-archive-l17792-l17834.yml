@@ -1,0 +1,525 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l17792-l17834
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: IX  RELIGION  341 / THE   BAGANDA / CHAP. / IX  RELIGION  343; lines 17792-17834
+  start: '17792'
+  end: '17834'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes healing rites in which a medicine-man transfers a
+    sick person's illness to an animal, plantain-tree, clothing, doorway objects,
+    grass or herb bundle, or in some cases another human being. The animal may be
+    killed, its blood applied to the patient or doorway, and substituted objects are
+    carried away or discarded on waste land, while the patient is expected to recover.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A medicine-man may transfer sickness to an animal, drive the animal to waste
+    land, kill it there, take the meat, and the sick man is expected to recover.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A medicine-man may direct a sick man to provide an animal and promise to transfer
+    the sickness to that animal.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In one variant, the medicine-man kills the animal beside a selected plantain-tree
+    and anoints the sick man with the animal's blood on the forehead, chest, and legs
+    above the knees.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The selected plantain-tree must be about to bear fruit; its stem is split
+    lengthwise, with short unsplit sections left at the top and bottom, so the sick
+    man can step through it.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After stepping through the split plantain-tree, the sick man leaves his clothing
+    there, runs into the house without looking back, and receives new clothes inside.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The medicine-man carries away the plantain-tree, clothing, and meat; he deposits
+    the plantain-tree on waste land and keeps the meat and clothing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In another variant, the animal is killed near the hut, a stout stick is laid
+    across the threshold, and the doorway is partly narrowed with branches.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Blood is put on both sides of the narrow entrance, on the threshold stick,
+    and on the sick man, who is taken outside for that purpose.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The patient re-enters the house and lets his clothing fall off as he passes
+    through the doorway.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The medicine-man carries away the branches, stick, clothing, and meat; he
+    casts the branches and stick on waste land and keeps the meat and clothing.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: If a sick person is too poor to afford a goat or fowl as a scapegoat, the
+    medicine-man ties grass or herbs into a bundle, passes it over the patient, carries
+    it off, and throws it away on waste land.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: A small fee is given to the medicine-man when the patient recovers.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: The passage states that in other cases the sickness is transferred to another
+    human being.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: medicine-man
+  description: Ritual specialist who directs the rite, transfers sickness, kills the
+    animal, anoints the patient, removes ritual objects, discards some objects on
+    waste land, and keeps meat or clothing in some variants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: sick man / sick person / patient
+  description: Ill person undergoing the rite; provides an animal when directed, is
+    anointed with blood, passes through the split plantain-tree or doorway, sheds
+    clothing, receives new clothes, and is expected to recover.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: animal / scapegoat
+  description: Animal to which sickness is transferred; it is killed, and its blood
+    and meat are used in the rite. A goat or fowl is mentioned as an animal scapegoat
+    that a poorer patient may be unable to afford.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: another human being
+  description: A human being who, in other cases, receives the transferred sickness;
+    no further details are given in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: medicine-man / ritual officiant
+  assigned_to:
+  - fig:1
+  basis: The medicine-man directs the patient, promises to transfer sickness, kills
+    the animal, applies blood, removes objects, and disposes of them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: sick patient
+  assigned_to:
+  - fig:2
+  basis: The sick man or patient is the person whose illness is treated and who is
+    expected to recover.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: substitute recipient of sickness
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The sickness is transferred to an animal in the main variants and to another
+    human being in other cases.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:4
+  label: sacrificial animal
+  assigned_to:
+  - fig:3
+  basis: The animal is killed and its blood and meat are used or claimed in the rite.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: scapegoat animal
+  literal_form: animal, with goat or fowl named as examples of an unaffordable scapegoat
+    for a poor sick person
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: blood application
+  literal_form: animal blood applied to the patient's body, to both sides of a narrow
+    entrance, and to a stick across the threshold
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: split fruiting plantain-tree
+  literal_form: plantain-tree about to bear fruit, split open so the patient can step
+    through it
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: waste land disposal place
+  literal_form: waste land where the animal, plantain-tree, branches, stick, or grass/herb
+    bundle is killed, deposited, cast, or thrown away
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: discarded and renewed clothing
+  literal_form: old clothing left at the plantain-tree or falling off at the doorway;
+    new clothes given after entry into the house
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:6
+  label: narrowed threshold
+  literal_form: doorway narrowed with branches, with a stout stick laid across the
+    threshold
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: grass or herb bundle
+  literal_form: grass or herbs tied into a bundle, passed over the patient, carried
+    off, and thrown away on waste land
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Animal receives sickness and is removed
+  summary: A medicine-man transfers sickness to an animal, drives it to waste land,
+    kills it there, and takes the meat, while the sick man is expected to recover.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Plantain-tree passage rite
+  summary: The medicine-man kills the animal beside a fruiting plantain-tree, anoints
+    the sick man with blood, splits the plantain stem, and has the sick man step through
+    it, leave his clothing, enter the house without looking back, and receive new
+    clothes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Removal of plantain and old clothing
+  summary: The medicine-man carries away the plantain-tree, clothing, and meat, deposits
+    the plantain-tree on waste land, and keeps the meat and clothing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Threshold variant of the healing rite
+  summary: The medicine-man kills the animal near the hut, narrows the doorway with
+    branches, places a stick across the threshold, applies blood to the entrance,
+    stick, and patient, and has the patient re-enter while shedding clothing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Threshold objects discarded
+  summary: After the threshold rite, the medicine-man removes the branches, stick,
+    clothing, and meat, discards the branches and stick on waste land, and keeps the
+    meat and clothing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:6
+  label: Grass or herb substitute for a poor patient
+  summary: When a patient cannot afford a goat or fowl as a scapegoat, the medicine-man
+    ties grass or herbs into a bundle, passes it over the patient, removes it, and
+    throws it away on waste land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:7
+  label: Transfer to another human being
+  summary: The passage briefly states that in some cases sickness is transferred to
+    another human being.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: healing by transfer of sickness to a substitute
+  taxonomy_refs: []
+  basis: The sickness is transferred to an animal, to a grass or herb bundle, or in
+    other cases to another human being, and the substitute is removed or discarded.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage reports the ritual procedure but gives no indigenous term
+    or extended theological explanation for the transfer.
+- id: motif:2
+  label: substitutionary animal sacrifice in healing
+  taxonomy_refs:
+  - sacrifice
+  basis: An animal receives the sickness, is killed, and its blood is applied to the
+    patient or to the ritual entrance; its meat is taken by the medicine-man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage frames the killing as a healing transfer rite, not as an offering
+    to a named deity.
+- id: motif:3
+  label: expulsion of illness to waste land
+  taxonomy_refs: []
+  basis: Animals, the plantain-tree, branches, stick, or grass/herb bundle are taken
+    to or discarded on waste land after receiving or participating in the sickness-transfer
+    rite.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain whether waste land is ritually defined beyond
+    being the place of disposal.
+- id: motif:4
+  label: liminal passage with shedding of old clothing
+  taxonomy_refs: []
+  basis: The patient passes through a split plantain-tree or narrowed doorway, leaves
+    or sheds old clothing, and in one variant receives new clothes inside the house.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage describes a healing rite, not an initiation or explicit rebirth
+    narrative; renewal language is inferred only from the literal clothing sequence.
+- id: motif:5
+  label: ritual tree aperture in healing
+  taxonomy_refs: []
+  basis: A fruiting plantain-tree is split open so the sick man can step through it
+    during the rite, after which the tree is carried away and deposited on waste land.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state that the plantain-tree is sacred or cosmological;
+    the available tree taxonomy is used only for the literal symbol, not as a motif
+    family.
+comparison_claims:
+- id: claim:1
+  claim: The rite is functionally comparable to a scapegoat or substitutionary expulsion
+    pattern because sickness is transferred to an animal or bundle that is then removed,
+    discarded, or killed away from the patient.
+  claim_level: same_function
+  target: scapegoat / substitutionary expulsion pattern
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The word 'scapegoat' appears as the English author's gloss; the passage
+    alone does not establish historical contact, shared origin, or an indigenous comparative
+    category.
+- id: claim:2
+  claim: The patient's passage through a split plantain-tree or narrowed threshold
+    while shedding old clothing supports a cautious functional comparison to liminal
+    passage-and-renewal patterns.
+  claim_level: same_function
+  target: liminal passage and renewal pattern
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: low
+  limitations: The same evidence identifies the context as healing, not initiation
+    or rebirth; the comparison is limited to ritual form and sequence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17792-17796
+  quote_or_summary: Sickness is transferred to an animal; the animal is driven to
+    waste land and killed there; the medicine-man takes the meat and the sick man
+    is expected to recover.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 17796-17809
+  quote_or_summary: A medicine-man directs the sick man to provide an animal, kills
+    it by a fruiting plantain-tree, anoints the patient with blood, splits the plantain-tree,
+    and has the patient step through it, leave clothing, enter without looking back,
+    and receive new clothes.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 17810-17816
+  quote_or_summary: The medicine-man carries off the plantain-tree, clothing, and
+    meat, deposits the plantain-tree on waste land, and keeps the meat and clothing.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 17816-17828
+  quote_or_summary: In a doorway variant, the animal is killed near the hut; branches
+    narrow the doorway, a stick crosses the threshold, blood is applied to the entrance,
+    stick, and patient, the patient re-enters while shedding clothing, and the medicine-man
+    removes and disposes of or keeps the objects.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 17828-17832
+  quote_or_summary: For a patient too poor to afford a goat or fowl as a scapegoat,
+    grass or herbs are tied into a bundle, passed over the patient, carried off, and
+    thrown away on waste land; a small fee is given after recovery.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+- id: ev:6
+  type: summary
+  locator: lines 17833-17834
+  quote_or_summary: The passage states that in other cases the sickness is transferred
+    to another human being.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The ritual sequence and objects are explicit, but comparative motif labels
+    beyond sickness-transfer and scapegoat function require caution because the passage
+    is an English ethnographic description and gives little indigenous terminology
+    or explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference 'tree' is attached only to the literal plantain-tree symbol; 'sacrifice' is used for the animal killing and blood-use motif in a healing context.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l17792-l17834
+  passage_sha256=51dc22ca12aba7f196309e6cb24b7a4386a9cdf610f3c03573a95444fea90a1e
+

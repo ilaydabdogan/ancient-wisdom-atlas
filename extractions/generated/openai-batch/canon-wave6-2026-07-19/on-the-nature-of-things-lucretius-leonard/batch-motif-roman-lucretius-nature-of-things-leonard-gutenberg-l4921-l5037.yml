@@ -1,0 +1,452 @@
+---
+record_id: batch.motif.roman-lucretius-nature-of-things-leonard-gutenberg-l4921-l5037
+source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+passage_locator:
+  label: BOOK IV / PROEM / EXISTENCE AND CHARACTER OF THE IMAGES / THE SENSES AND
+    MENTAL PICTURES; lines 4921-5037
+  start: '4921'
+  end: '5037'
+  translation: On the Nature of Things
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains optical appearances: mirror reflections reverse left
+    and right, multiple mirrors relay images, curved mirrors alter reversal, bright
+    light and bodily conditions affect sight, dark and light air open or block vision,
+    distant square towers seem rounded, and a shadow appears to follow the body because
+    light is removed and restored across the ground.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In a mirror, the right part of the body is observed on the left because the
+    image is forced back in a direct line rather than returned unshifted.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage compares mirror reversal to a plaster mask dashed against a post
+    or beam and retaining a reversed shape facing the thrower.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An image can be handed from mirror to mirror until five or six idol-films
+    have been generated.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Things hidden farther back in a house may be shown through bending paths by
+    several mirrors, because things spring off at equal angles.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Curved mirrors can return images with the right side on the right, either
+    through double reflection or by turning the image back toward the observer.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Film-idols are described as stepping with the observer and imitating the observer's
+    carriage; no images return from the mirror part after the observer has withdrawn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The eyes shun brightness, and the sun can blind when gazed at because films
+    from above strike the eyes and disturb them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Piercing lustre is said to burn the eyes because it contains many seeds of
+    fire that work into the eyes and produce pain.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Jaundiced viewers see things as wan-yellow because yellow seeds flow from
+    their bodies and are mixed within their eyes.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: From dark recesses, things in light can be seen after luminous air purges
+    dark air from the eye paths; from light, objects in darkness cannot be seen because
+    denser dark air blocks the apertures.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Distant square city towers often seem rounded because their angles are not
+    perceived and the air blunts the image of the angle through many collisions.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: A shadow in sunlight appears to move with and follow the body's steps, but
+    the passage identifies it as air deprived of light while the ground is successively
+    darkened and refilled with sunlight.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: viewer or human observer
+  description: A human observer whose body, eyes, gait, and shadow are used in explanations
+    of vision and optical appearance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: film-idols or images
+  description: Visual films or images returned from mirrors, borne through air, passed
+    between mirrors, and able to strike or enter the eyes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: body's shadow
+  description: The body's shadow in sunlight appears to follow and imitate the observer,
+    while being explained as air deprived of light.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: perceiving body
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly frames visual effects through the observer's eyes,
+    body, position, gait, and relation to light or mirrors.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: role:2
+  label: reflected or transmitted image
+  assigned_to:
+  - fig:2
+  basis: Images are reflected by mirrors, passed from mirror to mirror, borne through
+    air, and thrown into or against the eyes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:3
+  label: apparent follower and imitator
+  assigned_to:
+  - fig:3
+  basis: The shadow appears to follow the observer's steps and imitate the observer's
+    carriage, though the passage gives a physical explanation.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: mirror or glass
+  literal_form: mirror's plane, glass, multiple mirrors, curved mirrors
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: reversed or relayed image
+  literal_form: image, idol-films, reflected vision
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: eye pathways
+  literal_form: eye-balls, open eyes, pathways and apertures of the eyes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: sun and light
+  literal_form: sun, bright light, shining air, luminous air, rays
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: fire and flame
+  literal_form: seeds of fire; wool drawn into the flame
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:6
+  label: dark air and shadow
+  literal_form: darkling air, sable shadows, black air, air deprived of light
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:7
+  label: distant squared towers
+  literal_form: squared towers of a city seen from far away
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: mirror reversal and multiplication
+  summary: The passage explains left-right reversal in mirrors, compares it to a reversed
+    plaster mask, and describes images being passed from mirror to mirror through
+    bending paths.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: curved mirror and moving image
+  summary: Curved mirrors return right-side images, and reflected film-idols seem
+    to step with and imitate the observer's movement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: eyes affected by brightness and bodily color
+  summary: Bright sun and piercing lustre affect the eyes, while jaundice colors what
+    is seen as wan-yellow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: dark and light air opening or blocking sight
+  summary: Luminous air clears dark air from the eye pathways so that lighted objects
+    are seen from darkness, while dense dark air blocks vision into darkness from
+    light.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: distant towers appearing rounded
+  summary: Square towers seen from far away seem rounded because the angles fail to
+    reach perception and the air blunts their images.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: shadow following the body
+  summary: The body's shadow appears to follow and imitate the observer, but the passage
+    explains it as a moving distribution of air deprived of light as sunlight is removed
+    and restored.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: mirror-reversed double
+  taxonomy_refs: []
+  basis: The mirror returns the right side on the left and the left on the right,
+    producing a reversed visual counterpart of the observer.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is presented as an optical explanation, not as a narrative episode
+    about a supernatural double.
+- id: motif:2
+  label: multiplying reflected images
+  taxonomy_refs: []
+  basis: Images can be handed from mirror to mirror, producing several idol-films
+    and revealing things through bending reflective paths.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The multiplication is mechanical and didactic rather than mythic in the
+    passage.
+- id: motif:3
+  label: image or shadow as apparent imitator
+  taxonomy_refs: []
+  basis: Film-idols are said to step with the observer, and the shadow appears to
+    follow and imitate the body's gait.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The passage immediately explains these appearances physically, so the
+    imitator language should not be treated as literal animation.
+- id: motif:4
+  label: vision altered by intervening medium or bodily condition
+  taxonomy_refs: []
+  basis: Brightness, fire-like seeds, jaundice, dark air, light air, and distance
+    all alter what the observer sees.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an epistemological and natural-philosophical pattern rather than
+    a mythic symbol sequence.
+- id: motif:5
+  label: light opening sight and darkness blocking sight
+  taxonomy_refs: []
+  basis: Luminous air is described as purging the eye pathways, while denser dark
+    air blocks the apertures and prevents images from entering.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage treats light and darkness as physical media, not as moral
+    or spiritual opposites.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4921-4935
+  quote_or_summary: "“The right part of our members is observed / Upon the left” and
+    “the right eye is the left, / The left the right.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request metadata.
+- id: ev:2
+  type: summary
+  locator: lines 4935-4950
+  quote_or_summary: An image may be passed from mirror to mirror, producing five or
+    six idol-films; hidden household things can be seen through bending paths and
+    equal-angle rebounds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request metadata.
+- id: ev:3
+  type: summary
+  locator: lines 4951-4966
+  quote_or_summary: Curved mirrors return images with the right on the right, and
+    film-idols are said to step with and imitate the observer because no images return
+    from a mirror part after withdrawal.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request metadata.
+- id: ev:4
+  type: summary
+  locator: lines 4967-4976
+  quote_or_summary: The eyes shun bright light; the sun can blind because films from
+    above strike the eyes; piercing lustre burns because it contains many seeds of
+    fire.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request metadata.
+- id: ev:5
+  type: summary
+  locator: lines 4977-4982
+  quote_or_summary: Jaundiced viewers see all things wan-yellow because yellow seeds
+    flow from their bodies and are mixed within the eye.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request metadata.
+- id: ev:6
+  type: summary
+  locator: lines 4983-5001
+  quote_or_summary: From dark recesses, luminous air purges black air from the eye
+    paths so lighted objects can be seen; from light, dense dark air blocks the apertures
+    and prevents images entering.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request metadata.
+- id: ev:7
+  type: summary
+  locator: lines 5002-5016
+  quote_or_summary: Distant square city towers appear rounded because their angles
+    are not perceived and the air blunts the idol of the angle through many collisions.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request metadata.
+- id: ev:8
+  type: summary
+  locator: lines 5017-5037
+  quote_or_summary: The body's shadow in sunlight appears to follow and imitate the
+    body, but the passage explains it as air deprived of light while the ground successively
+    loses and regains sunlight.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong because the passage is explicit. Motif labels
+    are descriptive image-patterns from an optical exposition and should be reviewed
+    before use in comparative mythology. No external comparison claims were recorded.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage is a natural-philosophical explanation of perception and optical appearances; extracted motifs are limited to recurring images and patterns present in the supplied passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-lucretius-nature-of-things-leonard-gutenberg__l4921-l5037
+  passage_sha256=2fde25f8bac6933f60cf1d9ca83857623ec9f2b602867e4f145ea33cb56579cb
+

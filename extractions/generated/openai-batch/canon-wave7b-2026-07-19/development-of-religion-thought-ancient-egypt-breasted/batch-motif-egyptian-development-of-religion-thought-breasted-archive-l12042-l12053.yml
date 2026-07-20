@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.egyptian-development-of-religion-thought-breasted-archive-l12042-l12053
+source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+passage_locator:
+  label: THE IMPERIAL AGE AND MONOTHEISM 319 / THE IMPERIAL AGE AND MONOTHEISM 321
+    / TEE IMPERIAL AGE AND MONOTHEISM 323 / UNTVERSAL SPLENDOR AND POWER OF ATON;
+    lines 12042-12053
+  start: '12042'
+  end: '12053'
+  translation: Development of Religion and Thought in Ancient Egypt
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Thy rays, they encompass the lands, even all that thou hast made.”"
+  summary: A hymn addresses the living Aton, praising his beautiful dawning, his rising
+    in the eastern horizon, his rays that fill and encompass every land, his identity
+    with Re, his power over all he has made, and his distant yet earthly presence
+    through rays and day.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage addresses Aton directly as a living being.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aton’s dawning is described as beautiful in the horizon of the sky.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Aton is called the beginning of life.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Aton rises in the eastern horizon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Aton fills every land with beauty.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Aton is described as beautiful, great, glittering, and high above every land.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Aton’s rays encompass the lands and all that he has made.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Aton is identified with Re.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Aton is said to carry all away captive and bind them by love.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Although Aton is far away and on high, his rays are upon earth and his footprints
+    are associated with the day.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Aton
+  description: The addressed living deity whose dawning, rising, rays, beauty, and
+    power over made things are praised.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Re
+  description: A divine name with which Aton is explicitly identified in the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: addressed deity
+  assigned_to:
+  - fig:1
+  basis: The hymn speaks directly to Aton using second-person address.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: source or beginning of life
+  assigned_to:
+  - fig:1
+  basis: Aton is called the “Beginning of life.”
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: solar rising presence
+  assigned_to:
+  - fig:1
+  basis: Aton dawns and rises in the eastern horizon, with rays upon earth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:4
+  label: maker and encompassing power
+  assigned_to:
+  - fig:1
+  basis: Aton’s rays encompass the lands and all that he has made.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: identified solar deity
+  assigned_to:
+  - fig:2
+  basis: The passage says to Aton, “Thou art Re.”
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dawning
+  literal_form: Aton’s beautiful dawning in the horizon of the sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: eastern horizon
+  literal_form: The eastern horizon where Aton rises
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rays
+  literal_form: Aton’s rays encompassing the lands and being upon earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: day as footprints
+  literal_form: Aton’s footprints described as the day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Aton’s rising and universal radiance
+  summary: The hymn praises Aton’s dawn and rising in the eastern horizon, his filling
+    of every land with beauty, and his rays that encompass the lands and all he has
+    made.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Aton identified with Re and present through rays
+  summary: Aton is identified with Re, described as carrying and binding all by love,
+    and portrayed as distant and high while his rays remain on earth and his footprints
+    are the day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: solar deity whose rays encompass all lands
+  taxonomy_refs: []
+  basis: The passage presents Aton rising in the eastern horizon, filling every land
+    with beauty, and extending rays over the lands.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No exact available taxonomy family names a solar-encompassing radiance
+    motif.
+- id: motif:2
+  label: distant high deity present on earth through light
+  taxonomy_refs: []
+  basis: The passage says Aton is far away and on high, yet his rays are upon earth
+    and his footprints are the day.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is extracted as a passage-level pattern, not assigned to a listed
+    taxonomy family.
+- id: motif:3
+  label: life-beginning maker deity
+  taxonomy_refs: []
+  basis: Aton is called the beginning of life and the maker of what his rays encompass.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage is hymnic and brief; it does not narrate a creation event.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly identifies Aton with Re, supporting a cautious comparison
+    of Aton’s role here with Re as a solar divine figure within the same Egyptian
+    religious corpus.
+  claim_level: same_function
+  target: Re
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states identity but does not explain the theological relationship
+    beyond the phrase “Thou art Re.”
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12042-12045
+  quote_or_summary: "“Thy dawning is beautiful in the horizon of the sky, / O living
+    Aton, Beginning of life!”"
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:2
+  type: quote
+  locator: lines 12046-12047
+  quote_or_summary: "“When thou risest in the eastern horizon, / Thou fillest every
+    land with thy beauty.”"
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:3
+  type: quote
+  locator: line 12048
+  quote_or_summary: "“Thou art beautiful, great, glittering, high above every land.”"
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:4
+  type: quote
+  locator: line 12049
+  quote_or_summary: "“Thy rays, they encompass the lands, even all that thou hast
+    made.”"
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:5
+  type: quote
+  locator: lines 12050-12051
+  quote_or_summary: "“Thou art Re, and thou earnest them all away captive; / Thou
+    bindest them by thy love.”"
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:6
+  type: quote
+  locator: lines 12052-12053
+  quote_or_summary: "“Though thou art far away, thy rays are upon earth; / Though
+    thou art on high, thy [footprints are the day].”"
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; excerpt supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied hymn excerpt. Motif
+    labels are passage-level descriptive candidates because the available taxonomy
+    does not include a specific solar radiance or Aton/Re category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage title spells “UNTVERSAL” as supplied. No unsupported taxonomy IDs were assigned.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-development-of-religion-thought-breasted-archive__l12042-l12053
+  passage_sha256=df3df17b20a66e1f7afb7fe607ba84629f3da8d3a93991a195a571c5f4954215
+

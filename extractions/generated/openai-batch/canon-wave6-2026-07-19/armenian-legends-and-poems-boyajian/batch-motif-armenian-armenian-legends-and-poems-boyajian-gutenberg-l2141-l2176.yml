@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l2141-l2176
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: THE ARRIVAL OF THE CRUSADERS / LIKE AN OCEAN IS THIS WORLD / THE ROCK / THE
+    CRANE; lines 2141-2176
+  start: '2141'
+  end: '2176'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A lyric speaker hears a crane lost in the stormy sky and compares the bird’s
+    wandering with his own exile. The speaker imagines the crane returning with spring
+    to its mate, young, and nest, while he remains displaced, wandering in darkness
+    and asking God where the dark path ends.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The crane is described as having lost its way across the heaven and crying
+    from a stormy cloud.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The crane is described as a traveller driven over an unknown pathway in a
+    cold world.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker asks God where the long dark pathway leads, when night will end,
+    and where his weary feet will rest.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: obs:4
+  text: The speaker says spring will return and bring the crane back with its mate
+    and young ones to its previous nest on a sycamore.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker says he is exiled from his ruined nest and roams from hill to
+    hill with faltering steps.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker says he envies motionless boulders and contrasts their fixed place
+    with his own tempest-tossed wandering.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The speaker contrasts birds that can trace their homeward way with his own
+    roaming in darkness, alone and lost.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The crane
+  description: A bird lost across the heaven, crying from a stormy cloud, imagined
+    as able to return in spring to its mate, young ones, and nest.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Lyric speaker
+  description: The first-person voice who hears the crane, addresses God, and describes
+    himself as exiled from a ruined nest and roaming in darkness.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: God
+  description: The divine addressee in the speaker’s repeated questions about the
+    pathway and rest.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: The crane’s mate and young ones
+  description: The family to whom the crane is imagined returning with spring.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Lost traveller-bird
+  assigned_to:
+  - fig:1
+  basis: The crane has lost its way and is called a traveller on an unknown pathway.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Seasonal returner
+  assigned_to:
+  - fig:1
+  basis: The speaker says spring will bring the crane back to its home and last year’s
+    nest.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Exiled wanderer
+  assigned_to:
+  - fig:2
+  basis: The speaker says he is exiled from his ruined nest and must wander.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: Questioner seeking rest
+  assigned_to:
+  - fig:2
+  basis: The speaker asks where the dark pathway ends and where his weary feet will
+    rest.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: Divine addressee
+  assigned_to:
+  - fig:3
+  basis: The speaker directly addresses God in his questions.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:6
+  label: Homeward family
+  assigned_to:
+  - fig:4
+  basis: The mate and young ones are named as companions in the crane’s return home.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Crane
+  literal_form: lost crane in the sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Long dark pathway
+  literal_form: unknown pathway; long and dark pathway
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: Stormy cloud and cold world
+  literal_form: stormy cloud; cold world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Nest and ruined nest
+  literal_form: last year’s nest; ruined nest
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Sycamore
+  literal_form: sycamore bearing the crane’s last year’s nest
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Boulders
+  literal_form: motionless boulders standing in place
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: Darkness and fading light
+  literal_form: night, day’s last glimmering spark, darkness
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Lost crane in the stormy sky
+  summary: The speaker hears a crane crying from a stormy cloud and describes it as
+    lost and driven along an unknown pathway.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Questions about the dark path
+  summary: The speaker addresses God, asking where the dark pathway leads, when night
+    will end, and where rest can be found.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: scene:3
+  label: Imagined return of the crane
+  summary: The speaker bids farewell to the bird and says spring will bring it back
+    with its mate and young ones to the nest on the sycamore.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Speaker’s exile from the ruined nest
+  summary: The speaker contrasts the crane’s possible return with his own exile from
+    a ruined nest, roaming from hill to hill and envying fixed boulders.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Fixed stones, homeward birds, and lost speaker
+  summary: Boulders remain in place and birds can find their homeward way, but the
+    speaker says he must wander in darkness, alone and lost.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Exiled wanderer without a homeward path
+  taxonomy_refs:
+  - departure
+  basis: The speaker describes exile from a ruined nest, wandering from place to place,
+    and roaming in darkness, alone and lost.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is lyric poetry rather than a narrative myth; the taxonomy
+    reference is approximate and based on explicit departure/exile language.
+- id: motif:2
+  label: Seasonal return to nest and family
+  taxonomy_refs:
+  - return
+  - seasonal_cycle
+  basis: The crane is imagined as returning with spring to its mate, young ones, home,
+    and previous nest.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The return is projected by the speaker rather than narrated as an event
+    within the poem.
+- id: motif:3
+  label: Lost bird as mirror of human displacement
+  taxonomy_refs: []
+  basis: The lost crane’s unknown pathway is set beside the speaker’s repeated questions
+    and his own exile and wandering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an interpretive motif candidate drawn from the poem’s comparison
+    between bird and speaker; no supplied taxonomy reference directly names it.
+- id: motif:4
+  label: Prayerful questioning on a dark path
+  taxonomy_refs: []
+  basis: The speaker repeatedly addresses God with questions about where the long
+    dark pathway ends and where rest will be found.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage gives questions and divine address, but no answer, revelation,
+    or explicit ritual frame.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2147-2150
+  quote_or_summary: "“The Crane has lost his way across the heaven”; the speaker hears
+    him cry from a stormy cloud and calls him a traveller on an unknown pathway."
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:2
+  type: quote
+  locator: 2152-2155
+  quote_or_summary: 'The speaker asks: “Ah, whither leads this pathway long and dark,”
+    and “Where shall my weary feet to-night find rest?”'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:3
+  type: quote
+  locator: 2157-2160
+  quote_or_summary: "“Spring shall return and bring thee back once more, / With thy
+    sweet mate and young ones, to thy home— / Thy last year’s nest upon the sycamore.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:4
+  type: quote
+  locator: 2162-2165
+  quote_or_summary: "“But I am exiled from my ruined nest,” and roam “from hill to
+    hill,” envying “the boulders motionless and still.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:5
+  type: quote
+  locator: 2167-2170
+  quote_or_summary: Each boulder stands in place, every bird can trace its homeward
+    way, but the speaker must “roam in darkness, lone and lost.”
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:6
+  type: quote
+  locator: 2172-2175
+  quote_or_summary: The poem repeats the questions about the long dark pathway, the
+    end of night, and where weary feet will find rest.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source metadata; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied poem. Motif candidates
+    are cautious because the passage is a modern lyric in an anthology and not a narrative
+    myth episode. No comparison claims were added because the passage itself does
+    not support historical or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references are limited to the provided available lists.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l2141-l2176
+  passage_sha256=84f6b2b55f7156de0e7a39efbf81cae4be06ff88268a671404c8c0b390b980f2
+

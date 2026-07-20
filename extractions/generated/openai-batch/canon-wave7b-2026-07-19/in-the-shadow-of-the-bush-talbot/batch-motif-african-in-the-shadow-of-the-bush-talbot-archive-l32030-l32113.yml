@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l32030-l32113
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: APPENDIX    I  467 / H  H  2 / APPENDIX    I / APPENDIX   I; lines 32030-32113
+  start: '32030'
+  end: '32113'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An appendix section lists birds, snakes, crocodiles, frogs, fish, reptiles,
+    gecko, chameleons, toads, fishes, and an insect collection. It states that a list
+    of fish and reptiles was supplied by Dr. Boulenger of the British Museum, and
+    that British Museum authorities reported many insect specimens new to science.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage begins with scientific names of birds followed by simple headings
+    for snakes, crocodiles, and frogs.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A section headed “FISH, REPTILES, Etc.” says the list was supplied by Dr.
+    Boulenger of the British Museum.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fish and reptile list includes named snakes, crocodilians, frogs or toads,
+    and fish.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage separately lists a gecko, chameleons, Rhampoleon, and an eroded
+    Cinixys specimen said to be in the Zoological Gardens.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An insect collection is said to have been made but not yet worked out; British
+    Museum authorities report that it contains many specimens new to science.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The final headings in the excerpt are “Toads” and “Fishes.”
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dr. Boulenger, F.R.S.
+  description: A British Museum figure named as the supplier of the fish, reptile,
+    and related list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: British Museum authorities
+  description: Institutional authorities reported information about the insect collection.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: supplier of zoological list
+  assigned_to:
+  - fig:1
+  basis: The passage says the fish, reptile, and related list was kindly supplied
+    by Dr. Boulenger of the British Museum.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: institutional informants about insect specimens
+  assigned_to:
+  - fig:2
+  basis: The passage says British Museum authorities informed the author that the
+    insect collection contains many specimens new to science.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: snakes / serpent animals
+  literal_form: Snakes; Tropidonotus ferox; Causus lichtensteini; Chlorophis heterodermus;
+    Bitis nasicornis.
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: crocodiles
+  literal_form: Crocodiles; Crocodilus niloticus ? (egg); Osteolemus tetraspis.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: frogs and toads
+  literal_form: Frogs; Rana oxyrhynchus; Arthrodeptis poecilonotus; Rappia tuberculatus;
+    Hylambatus rufus; Cardioglossa leucornystax; Bufo superciliaris; Bufo latifrons;
+    Toads.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: fish
+  literal_form: Marcusenius brachistius; Barbus ablabes; Haplochilus sexfasciatus;
+    Malopterurus electricus; Fishes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: gecko, chameleons, and Cinixys
+  literal_form: Gecko; Hemidactylius fasciatus; Chameleon cristatus; Rhampoleon sputicus;
+    eroded Cinixys.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: insects
+  literal_form: A large insect collection containing many specimens reported as new
+    to science.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Zoological appendix list
+  summary: The appendix lists animal groups and species, including birds, snakes,
+    crocodiles, frogs, fish, reptiles, gecko, chameleons, toads, and fishes; the fish
+    and reptile list is attributed to Dr. Boulenger.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Insect collection report
+  summary: The passage notes that a large insect collection has been made but not
+    yet worked out, and that British Museum authorities report many specimens new
+    to science.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 32030-32039
+  quote_or_summary: The appendix lists several bird scientific names and then headings
+    for snakes, crocodiles, and frogs.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:2
+  type: summary
+  locator: 32042-32071
+  quote_or_summary: Under “FISH, REPTILES, Etc.,” the text states that a list was
+    supplied by Dr. Boulenger of the British Museum and names snake, crocodilian,
+    frog or toad, and fish taxa.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: 32072-32082
+  quote_or_summary: The list continues with gecko, Hemidactylius fasciatus, chameleons,
+    Chameleon cristatus, Rhampoleon sputicus, and an eroded Cinixys specimen in the
+    Zoological Gardens.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:4
+  type: summary
+  locator: 32084-32108
+  quote_or_summary: The insect section says a large collection was made, has not yet
+    been worked out, and is reported by British Museum authorities to include many
+    specimens new to science.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:5
+  type: quote
+  locator: 32110-32113
+  quote_or_summary: "“Toads. Fishes.”"
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain; source metadata permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The excerpt is a zoological appendix rather than a mythic narrative. Literal
+    extraction is straightforward; no passage-supported motif or comparison claims
+    are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological actions, ritual scenes, or comparative motif claims are supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l32030-l32113
+  passage_sha256=f1cc5e1ad9b26690e519e7fb45da18387276374da2fc01d586b421e2c0c225a3
+

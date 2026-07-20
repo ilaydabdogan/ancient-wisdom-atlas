@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l713-l767
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: The Mahavamsa, or The Great Chronicle of Ceylon; lines 713-767
+  start: '713'
+  end: '767'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses the development of a Ceylonese Buddhist chronological
+    system and identifies the interval of 218 years between the Buddha's Nirvana and
+    Asoka's consecration as a foundational fixed date. It then derives Asoka's accession
+    and Candagutta's accession from regnal lengths, and includes a footnote comparing
+    a Jaina chronological interval used to date Mahavira.
+  language: English with Pali quotations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says a chronological system was developed from fixed points and
+    was already complete in the Dipavamsa; it was probably taken over from the Atthakatha
+    rather than created by the Chronicle's author.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The number 218 is identified as an early-established fixed date and as the
+    cornerstone of the system for Asoka's consecration.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Both the Dipavamsa citation and the Mahavamsa citation state an interval of
+    218 years between the Buddha's Nirvana and Asoka's consecration.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The passage interprets the 218-year interval as placing Asoka's consecration
+    sometime in the year 219 after the Buddha's death.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Because Asoka had already reigned four years before performing the abhiseka
+    ceremony, his accession is calculated as 214 years after the Nirvana.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The Ceylonese tradition gives Bindusara a reign of twenty-eight years and
+    Candagutta a reign of twenty-four years before Asoka; from these figures Candagutta's
+    accession is calculated as 162 years after the Nirvana.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:7
+  text: A footnote states that Jaina tradition dates Mahavira by using the number
+    155 as the total years between his death and the beginning of Candragupta's reign,
+    while noting a contradiction with a Buddhist reckoning in which Mahavira died
+    before the Buddha.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sambuddha / Conqueror / Buddha
+  description: The figure whose passing into Nirvana is used as the chronological
+    starting point for the calculations in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Piyadassano / Asoka
+  description: The ruler whose consecration is dated 218 years after the Buddha's
+    Nirvana and whose accession is calculated as 214 years after the Nirvana.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Bindusara
+  description: A ruler preceding Asoka in the Ceylonese tradition, with a reign of
+    twenty-eight years.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Candagutta / Candragupta
+  description: A ruler preceding Bindusara in the Ceylonese tradition, with a reign
+    of twenty-four years; his accession is calculated as 162 years after the Nirvana
+    and associated with about 321 B.C.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Mahavira / Nigantha Nataputta
+  description: A Jaina figure whose death is dated in the footnote by an interval
+    of 155 years before the beginning of Candragupta's reign; the footnote also notes
+    a Buddhist reckoning that he died before the Buddha.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: epochal reference figure
+  assigned_to:
+  - fig:1
+  basis: The Buddha's Nirvana is the point from which the 218-, 214-, and 162-year
+    calculations are measured.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: consecrated ruler and chronological anchor
+  assigned_to:
+  - fig:2
+  basis: Asoka's abhiseka is treated as the fixed date of 218 years after the Buddha's
+    Nirvana.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: preceding ruler in regnal calculation
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Bindusara's and Candagutta's reign lengths are subtracted from Asoka's accession
+    date to calculate Candagutta's accession.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: comparative Jaina chronological figure
+  assigned_to:
+  - fig:5
+  basis: The footnote compares the Buddhist chronological reckoning with the Jaina
+    dating of Mahavira by a fixed interval.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: externally datable historical ruler
+  assigned_to:
+  - fig:4
+  basis: The passage says Candagutta's accession is one of the few earlier Indian
+    historical events datable with some approach to certainty, around 321 B.C.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: 218-year interval
+  literal_form: number 218
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: abhiseka / royal consecration
+  literal_form: Asoka's consecration ceremony
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Nirvana as chronological marker
+  literal_form: the Buddha's passing into Nirvana
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: 155-year interval
+  literal_form: number 155 in the Jaina dating note
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Development of a chronological framework
+  summary: The passage describes a chronological system built from fixed points, present
+    already in the Dipavamsa and probably inherited from the Atthakatha.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Asoka's consecration dated after the Buddha's Nirvana
+  summary: The passage identifies 218 years after the Buddha's Nirvana as the fixed
+    interval before Asoka's consecration, citing both the Dipavamsa and the Mahavamsa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Regnal calculation back to Candagutta
+  summary: The passage calculates Asoka's accession from his consecration and then
+    subtracts the reigns of Bindusara and Candagutta to derive Candagutta's accession
+    162 years after the Nirvana.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Jaina chronological comparison
+  summary: A footnote compares the Buddhist chronological reckoning with a Jaina dating
+    of Mahavira based on 155 years between Mahavira's death and the beginning of Candragupta's
+    reign.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: fixed-number chronological cornerstone
+  taxonomy_refs: []
+  basis: The passage treats the number 218 as the cornerstone of the chronological
+    system and uses it to anchor Asoka's consecration relative to the Buddha's Nirvana.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a historiographical and chronological pattern rather than a narrative
+    myth motif.
+- id: motif:2
+  label: royal consecration as chronological anchor
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Asoka's abhiseka is the dated royal event from which subsequent regnal calculations
+    are made, and it is distinguished from his accession.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage uses consecration primarily as a date marker; it does not
+    narrate a royal legitimation episode.
+- id: motif:3
+  label: sacred death or Nirvana as epoch marker
+  taxonomy_refs: []
+  basis: The Buddha's passing into Nirvana functions as the epochal reference point
+    for dating Asoka's consecration, Asoka's accession, and Candagutta's accession.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not describe the Nirvana event itself; it only uses it
+    as a chronological reference.
+- id: motif:4
+  label: cross-tradition fixed interval for dating a religious figure
+  taxonomy_refs: []
+  basis: The footnote juxtaposes the Buddhist 218-year chronological anchor with a
+    Jaina interval of 155 years used to date Mahavira by reference to Candragupta's
+    reign.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The comparison is source-critical and chronological, not a claim of shared
+    mythic narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison between Buddhist
+    use of the 218-year interval from the Buddha's Nirvana to Asoka's consecration
+    and Jaina use of the 155-year interval from Mahavira's death to the beginning
+    of Candragupta's reign; both function as decisive chronological anchors within
+    their respective traditions.
+  claim_level: same_function
+  target: Jaina tradition dating of Mahavira by the number 155
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage also notes a contradiction between the Jaina-derived date
+    and Buddhist reckoning about whether Mahavira died before the Buddha. It does
+    not claim historical contact, common inheritance, or a shared narrative motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 713-720
+  quote_or_summary: A chronological system was developed from fixed points; it appears
+    complete in the Dipavamsa and was probably taken over from the Atthakatha rather
+    than created by the Chronicle's author.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:2
+  type: summary
+  locator: 722-731
+  quote_or_summary: The passage identifies the number 218 as an early fixed date and
+    cornerstone for Asoka's consecration; the Dipavamsa citation says Piyadassano
+    was consecrated 218 years after the Sambuddha passed into Nirvana.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:3
+  type: summary
+  locator: 732-739
+  quote_or_summary: The Mahavamsa citation states that after the Nirvana of the Conqueror
+    and before Asoka's consecration there were 218 years.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:4
+  type: summary
+  locator: 741-749
+  quote_or_summary: A footnote says the Jaina tradition uses the number 155 between
+    Mahavira's death and the beginning of Candragupta's reign; accepting 321 B.C.
+    gives 476 B.C. for Mahavira's death, which conflicts with a Buddhist reckoning
+    that Mahavira died before the Buddha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:5
+  type: summary
+  locator: 753-757
+  quote_or_summary: The passage restates that after 218 years, sometime in the year
+    219 after the Buddha's death, Asoka's consecration took place.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:6
+  type: summary
+  locator: 759-764
+  quote_or_summary: Asoka had already reigned four years before abhiseka, so his accession
+    is placed 214 years after Nirvana; the Ceylonese tradition gives Bindusara twenty-eight
+    years and Candagutta twenty-four years before Asoka.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:7
+  type: summary
+  locator: 764-767
+  quote_or_summary: Candagutta's accession is calculated as 162 years after Nirvana
+    and associated with about 321 B.C., within two years of that date.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: public domain; summarized from supplied passage
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily historiographical and chronological rather than
+    mythic narrative. Figures, dates, and comparison are explicit, but motif classification
+    should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs such as cave, fire, milk, mountain, serpent, tree, or water are literally present in this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l713-l767
+  passage_sha256=1d6ec1dfc603f42311932def1057c060ff34734e97ae2e5bcfbe48b3770c050c
+

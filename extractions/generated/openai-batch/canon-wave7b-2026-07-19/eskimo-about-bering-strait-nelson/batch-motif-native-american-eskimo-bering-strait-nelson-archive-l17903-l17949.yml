@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l17903-l17949
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: 'SNUFF    TUBES    ''ABOUT  NINE-SIXTEENTHS: / HOUSE-LIFE  AXD    SOCIAL   CUSTOMS
+    / SWEAT   BATHS / THE    ESKIMO    ABOUT    BERING    STRAIT; lines 17903-17949'
+  start: '17903'
+  end: '17949'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes male sweat-bath practice around Bering Strait, including
+    waterfowl-skin caps and respirators used against the heat of the fire pit. It
+    gives details on respirator materials, shape, mouthpiece, and a more elaborate
+    example from Shaktolik.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Men in the region visited are described as taking sweat baths.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Men taking sweat baths customarily wear a cap made from the skin of a waterfowl,
+    usually a red-throated or black-throated loon.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The waterfowl skin is cut open, removed with neck, wings, and legs absent,
+    dried, softened, and fastened so it can be worn on the head.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The bathers are described as always male and as using respirators to protect
+    their lungs from intense heat generated in the fire pit.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Respirators are made of fine willow or spruce shavings bound into an oblong
+    pad covering the mouth, chin, and part of the cheeks.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The respirator pads are convex externally and concave internally, with a small
+    wooden rod on the concave side for the wearer to hold in his teeth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Some respirators are simply made from shavings bound at each end and furnished
+    with a wooden holder; others are more elaborate.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: An elaborate Shaktolik respirator is described as oval, slightly over five
+    inches long and four inches broad, made of fine wood shavings, with a rounded
+    rope-like border and a soft mass of shavings inside.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: On the inner side of the Shaktolik example, loose shavings are held in place
+    by a horizontal rod or mouthpiece.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: male sweat-bath participants
+  description: Men taking sweat baths in the region described; the passage says the
+    bathers are always males.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: sweat-bath participants
+  assigned_to:
+  - fig:1
+  basis: The passage describes men taking sweat baths throughout the region visited.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wearers of protective sweat-bath gear
+  assigned_to:
+  - fig:1
+  basis: The bathers wear waterfowl-skin caps and use respirators against the fire-pit
+    heat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: waterfowl-skin sweat-bath cap
+  literal_form: cap made from the skin of a waterfowl, usually red-throated or black-throated
+    loon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire pit heat source
+  literal_form: fire pit generating intense heat in the sweat bath
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sweat-bath respirator
+  literal_form: oblong pad of willow or spruce shavings held by a wooden rod in the
+    teeth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Shaktolik oval respirator example
+  literal_form: oval respirator of fine wood shavings with rope-like border, cord,
+    soft shaving mass, and horizontal mouthpiece
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: male sweat bath with protective gear
+  summary: Men take sweat baths, wearing waterfowl-skin caps and using respirators
+    because of the heat from the fire pit.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: description of Shaktolik respirator construction
+  summary: The passage describes simple and elaborate respirator forms, focusing on
+    an oval Shaktolik example made of wood shavings, cord, a rounded border, and a
+    horizontal mouthpiece.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17906-17913
+  quote_or_summary: Men taking sweat baths use a cap made from waterfowl skin, usually
+    red-throated or black-throated loon; the skin is prepared and fastened so it can
+    be worn on the head.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 17913-17917
+  quote_or_summary: Because of intense heat from the fire pit, the always-male bathers
+    use respirators to protect their lungs.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 17917-17927
+  quote_or_summary: Respirators are made from fine willow or spruce shavings as an
+    oblong pad covering the mouth, chin, and cheeks; the pad is convex outside and
+    concave inside, with a rod held in the teeth.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 17931-17945
+  quote_or_summary: Some respirators are simple bundles of shavings with a holder;
+    an elaborate Shaktolik example is slightly over five inches by four inches, oval,
+    and made of fine wood shavings with a rounded rope-like border and an inner mass
+    of shavings.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 17945-17949
+  quote_or_summary: The inner side of the Shaktolik respirator has loosely packed
+    shavings held by the horizontal rod or mouthpiece.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The material culture and sweat-bath observations are explicit. No mythic
+    motif or comparative claim from the available taxonomy is clearly supported by
+    this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Ethnographic passage focused on sweat-bath equipment and practice; symbolic labels identify literal salient objects without asserting hidden meaning.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l17903-l17949
+  passage_sha256=4e78f02e83e32c815b9e132aabf7913ef8d284647e73fc518c02742325f51db3
+

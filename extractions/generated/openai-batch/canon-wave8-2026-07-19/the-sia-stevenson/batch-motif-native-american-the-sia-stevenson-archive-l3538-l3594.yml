@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l3538-l3594
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: COSMOGONY. / CULT SOCIETIES. / THEURGISTIC RITES. / BAIN CEREMONIAL OF THE
+    SNAKE SOOIETY.; lines 3538-3594
+  start: '3538'
+  end: '3594'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: Two women from the east end of the north line joined in the dance
+  summary: In a ceremonial dance setting, women join from different lines, three women
+    form a north-south line, and an aged woman at the west end of the south line dances
+    without leaving her place. She pulls a nearby young boy forward, but the supplied
+    text becomes unreadable after it says she was telling him something.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two women from the east end of the north line join the dance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A third woman from the south line joins the dance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Three women form a line running north and south.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: An aged woman at the west end of the south line dances but remains at her
+    place at the end of the line.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The aged woman pulls forward a young boy who had been sitting near her.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The text introduces speech by the aged woman, but the supplied passage becomes
+    unreadable or fragmentary immediately afterward.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage locator identifies the context as a theurgistic rite and as a
+    ceremonial of the Snake Society.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: two women from the east end of the north line
+  description: Two women who join the dance from the east end of the north line.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: third woman from the south line
+  description: A woman from the south line who joins after the two women from the
+    north line.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: three women in north-south line
+  description: The three women who form a line running north and south.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: aged woman at the west end of the south line
+  description: An aged woman who dances in place at the west end of the south line
+    and pulls a nearby young boy forward.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: young boy
+  description: A young boy sitting near the aged woman, whom she pulls forward.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: dance participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage describes these women as joining or performing the dance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: line-forming women
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Three women are said to form a line running north and south.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: stationary end-of-line dancer
+  assigned_to:
+  - fig:4
+  basis: The aged woman dances but does not leave her place at the west end of the
+    south line.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: elder who summons or pulls a boy forward
+  assigned_to:
+  - fig:4
+  basis: The aged woman pulls the young boy forward and begins telling him something,
+    though the speech is unreadable in the supplied excerpt.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: boy pulled forward
+  assigned_to:
+  - fig:5
+  basis: The boy is seated near the aged woman and is pulled forward by her.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: ceremonial dance
+  literal_form: dance
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: north-south dance line
+  literal_form: three women formed in line running north and south
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Snake Society heading
+  literal_form: passage locator names a ceremonial of the Snake Society
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Women enter and form a line in the dance
+  summary: Two women from the east end of the north line and a third woman from the
+    south line join the dance; three women form a line oriented north and south.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Aged woman pulls the boy forward
+  summary: An aged woman dances in place at the west end of the south line and pulls
+    a nearby seated young boy forward, apparently beginning to address him before
+    the excerpt becomes unreadable.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual dance formation
+  taxonomy_refs: []
+  basis: The passage emphasizes women joining a dance and forming an oriented line.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a literal ritual-performance motif; no broader mythic interpretation
+    is stated in the excerpt.
+- id: motif:2
+  label: elder draws a youth into ritual action
+  taxonomy_refs:
+  - initiation
+  basis: An aged woman pulls a young boy forward during the ceremonial dance context.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: low
+  cautions: The excerpt does not state that the boy is being initiated; the initiation
+    taxonomy is only a tentative candidate because a youth is drawn forward within
+    a rite.
+- id: motif:3
+  label: serpent-associated ceremonial society
+  taxonomy_refs:
+  - serpent
+  basis: The passage locator identifies the section as a ceremonial of the Snake Society.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: No snake or serpent appears in the visible passage text; the association
+    comes only from the heading/locator.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3538-3541
+  quote_or_summary: Two women from the east end of the north line join the dance,
+    then a third woman from the south line joins; three women form a north-south line.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 3541-3544
+  quote_or_summary: An aged woman at the west end of the south line dances without
+    leaving her place and pulls a nearby young boy forward.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: note
+  locator: lines 3544-3594
+  quote_or_summary: After the phrase introducing the aged woman's speech, the supplied
+    excerpt contains unreadable/OCR-fragmentary material and plate/report text.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; no extended quotation used.
+- id: ev:4
+  type: citation
+  locator: passage label, lines 3538-3594
+  quote_or_summary: The supplied passage label places the excerpt under cult societies,
+    theurgistic rites, and a ceremonial of the Snake Society.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Source metadata/locator supplied by requester.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is limited by severe OCR or plate-text noise after the
+    aged woman begins to speak. Motif candidates beyond ritual dance are tentative
+    because the visible passage gives little explanation of the ceremony.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were extracted because the supplied passage does not itself support a comparison to another tradition or motif family beyond tentative taxonomy mapping.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l3538-l3594
+  passage_sha256=551563029eed557f1ff9701337e9551f7ff7698992374e8b0154ba60e1922d4d
+

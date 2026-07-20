@@ -1,0 +1,218 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l260-l320
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: CORP. HERM. VIII. (IX.) / CONTENTS / CORP. HERM. IX. (X.) / ON THOUGHT AND
+    SENSE . 129-136; lines 260-320
+  start: '260'
+  end: '320'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“THAT NO ONE OF EXISTING THINGS DOTH PERISH”"
+  summary: The passage is a table-of-contents excerpt listing Corpus Hermeticum VIII/IX
+    headings and commentary topics. It names a discourse asserting that existing things
+    do not perish, but that humans mistakenly call changes destructions and deaths.
+    It also lists commentary headings on the cosmos as “Second God,” apokatastasis,
+    thought and sense, gnosis, the true gnostic, the goal of gnosis, and the possibility
+    of knowing God.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The heading states that no existing thing perishes.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heading states that humans in error speak of changes as destructions and
+    deaths.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A commentary heading identifies the cosmos as “Second God.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A commentary heading names the “Law of Apokatastasis.”
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A Corpus Hermeticum section is titled “On Thought and Sense.”
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Commentary headings include “Those in Gnosis,” “The True Gnostic,” “The Goal
+    of the Gnosis,” and “The Possibility of Knowing God.”
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cosmos
+  description: Named in a commentary heading as “Second God.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Men in error
+  description: The chapter heading says they speak of changes as destructions and
+    deaths.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: God
+  description: Named in the commentary heading “The Possibility of Knowing God.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Second God
+  assigned_to:
+  - fig:1
+  basis: The commentary heading explicitly calls the cosmos “Second God.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: mistaken speakers about change and death
+  assigned_to:
+  - fig:2
+  basis: The heading says men in error call changes destructions and deaths.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: object of possible knowledge
+  assigned_to:
+  - fig:3
+  basis: A commentary heading is titled “The Possibility of Knowing God.”
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Table-of-contents listing on non-perishing and transformation
+  summary: The contents list a discourse whose heading asserts that existing things
+    do not perish and that humans misname changes as destructions and deaths.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Commentary topics on cosmos, restoration, thought, sense, and gnosis
+  summary: The contents list commentary topics including the cosmos as “Second God,”
+    the Law of Apokatastasis, thought and sense, gnosis, the true gnostic, the goal
+    of gnosis, and the possibility of knowing God.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Existing things do not perish but undergo change
+  taxonomy_refs:
+  - death_rebirth
+  basis: The chapter heading denies perishing and says changes are wrongly described
+    as destructions and deaths.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is a contents listing, not the full discourse; rebirth is
+    not explicitly stated, so the taxonomy link is only a cautious thematic alignment.
+- id: motif:2
+  label: Gnosis and the possibility of knowing God
+  taxonomy_refs:
+  - wisdom
+  basis: The commentary headings refer to gnosis, the true gnostic, the goal of gnosis,
+    and the possibility of knowing God.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only headings are present; the passage does not provide the doctrine or
+    narrative development of gnosis.
+- id: motif:3
+  label: Cosmos as divine or secondary deity
+  taxonomy_refs: []
+  basis: The commentary heading calls the cosmos “Second God.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a topic heading only; the passage gives no further explanation
+    of the title.
+- id: motif:4
+  label: Restoration or return implied by apokatastasis
+  taxonomy_refs: []
+  basis: The commentary heading names the “Law of Apokatastasis.”
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage provides only the term in a heading and does not define the
+    law or narrate a restoration.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 260-320
+  quote_or_summary: "“THAT NO ONE OF EXISTING THINGS DOTH PERISH, BUT MEN IN ERROR
+    SPEAK OF THEIR CHANGES AS DESTRUCTIONS AND AS DEATHS”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:2
+  type: quote
+  locator: lines 260-320
+  quote_or_summary: "“The Cosmos as ‘Second God’”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:3
+  type: quote
+  locator: lines 260-320
+  quote_or_summary: "“The Law of Apokatastasis”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:4
+  type: quote
+  locator: lines 260-320
+  quote_or_summary: "“ON THOUGHT AND SENSE”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 260-320
+  quote_or_summary: Commentary headings list “Those in Gnosis,” “The True Gnostic,”
+    “The Goal of the Gnosis,” and “The Possibility of Knowing God.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; excerpt supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a table-of-contents excerpt rather than the full Hermetic
+    discourse. Literal heading extraction is straightforward, but motif candidates
+    are limited and should be reviewed against the full chapter.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy entries were directly supported by the passage. No comparison claims were made because the passage itself does not support comparison to another text or tradition.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l260-l320
+  passage_sha256=7d9250149b96337e2138fd6021fb2a2634d07a277f49433822eb70391edc7589
+

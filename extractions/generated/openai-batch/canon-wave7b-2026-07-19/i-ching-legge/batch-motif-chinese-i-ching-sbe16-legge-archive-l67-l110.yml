@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l67-l110
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: The Yi King (I Ching) (Sacred Books of the East, Vol. 16); lines 67-110
+  start: '67'
+  end: '110'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'An introductory contents passage summarizes topics concerning the Yi:
+    its existence in Confucius'' time, its Text and Appendixes, its survival through
+    the fires of Shin, evidence for the pre-Confucian Yi, lineal figures and their
+    sixty-fourfold arrangement, the River Map, King Wan in prison with the lineal
+    figures, Fi-hsi''s and King Wan''s trigrams, the Great Symbolism, changing lines
+    and external phenomena, and ancient divination.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an introductory chapter outline for the Yi King rather than
+    a continuous mythic narrative.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: The passage states that there was a Yi in the time of Confucius and that the
+    Yi is made up of a Text seen by Confucius and Appendixes ascribed to him.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the Yi escaped the fires of Shin.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that the Text is much older than the Appendixes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage states that the Yi consists of essays based on lineal figures.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage lists the origin of the lineal figures, their multiplication to
+    sixty-four, and the River Map as subjects for discussion.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage names King Wan and says Wan was in prison occupied with the lineal
+    figures.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The passage lists the last king of Shang and the lords of Kau, especially
+    King Wan, as topics in the discussion of the country in King Wan's time.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: The passage states that no Appendix bears a superscription of Confucius and
+    that the third and fourth Appendixes are evidently not from him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The passage lists Fi-hsi's trigrams and King Wan's trigrams as subjects of
+    the Appendixes chapter.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: The passage mentions harmony between ever-changing lines of the figures and
+    changes in external phenomena.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:12
+  text: The passage names ancient divination and its object as a subject for discussion.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Confucius
+  description: Named as living in the time when there was a Yi; said to have seen
+    the Text; Appendixes are ascribed to him, though the passage also notes authorship
+    doubts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: King Wan
+  description: Named in connection with the state of the country, the lords of Kau,
+    imprisonment while occupied with lineal figures, and trigrams associated with
+    him.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Fi-hsi
+  description: Named in connection with trigrams.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Last king of Shang
+  description: Named as a subject in the outline, specifically his character.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Lords of Kau
+  description: Named collectively as a subject in the outline, with King Wan singled
+    out especially.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: textual witness and ascribed appendix authority
+  assigned_to:
+  - fig:1
+  basis: The passage says Confucius saw the Text and that the Appendixes are ascribed
+    to him, while also noting doubts about that attribution.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: royal figure in confinement with lineal figures
+  assigned_to:
+  - fig:2
+  basis: The passage says Wan was in prison occupied with the lineal figures.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: trigram-associated figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage lists Fi-hsi's trigrams and King Wan's trigrams.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: dynastic ruler named for historical context
+  assigned_to:
+  - fig:4
+  basis: The passage lists the character of the last king of Shang as a subject.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: collective regional lords named for historical context
+  assigned_to:
+  - fig:5
+  basis: The passage lists the lords of Kau, especially King Wan, as a subject.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: The Yi
+  literal_form: A book or textual corpus made up of Text and Appendixes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Text and Appendixes
+  literal_form: The Text which Confucius saw and the Appendixes ascribed to him.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: Lineal figures
+  literal_form: Lineal figures on which the Yi's essays are based; the passage also
+    mentions changing lines of the figures.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Sixty-four figures
+  literal_form: The lineal figures are said to have been multiplied to sixty-four,
+    with a question about why they were not continued after sixty-four.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: River Map
+  literal_form: The form of the River Map is listed as a subject.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Fires of Shin
+  literal_form: Fires through which the Yi is said to have escaped.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:7
+  label: Prison
+  literal_form: The prison in which Wan is said to have been occupied with the lineal
+    figures.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: Trigrams
+  literal_form: Fi-hsi's trigrams and King Wan's trigrams.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: Great Symbolism
+  literal_form: A named subject in the chapter on the Appendixes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Transmission and survival of the Yi
+  summary: The outline says the Yi existed in Confucius' time, consists of the Text
+    and Appendixes, escaped the fires of Shin, and is discussed through pre-Confucian
+    evidence and later scholarship.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lineal figures and King Wan
+  summary: The outline describes the Yi as essays based on lineal figures, raises
+    questions about their origin and sixty-fourfold multiplication, mentions the River
+    Map, and says King Wan was in prison occupied with the figures.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Appendixes, trigrams, symbolism, and divination
+  summary: The outline lists questions about the Appendixes and Confucius' authorship,
+    Fi-hsi's and King Wan's trigrams, the Great Symbolism, changing lines and external
+    phenomena, and ancient divination.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Wisdom text preserved through destructive fires
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the Yi existed in Confucius' time, is composed of Text and
+    Appendixes, and escaped the fires of Shin.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an introductory outline; the fires are mentioned historically
+    and not elaborated as a mythic ordeal.
+- id: motif:2
+  label: Divination through structured changing signs
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the Yi consists of essays based on lineal figures, mentions
+    sixty-four figures and changing lines, and names ancient divination and its object.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a topical summary rather than the full divinatory procedure.
+- id: motif:3
+  label: Royal figure in confinement occupied with sacred signs
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says King Wan was in prison occupied with the lineal figures
+    and separately lists King Wan's trigrams.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No narrative details are given beyond the outline note; causal or revelatory
+    claims should not be inferred.
+- id: motif:4
+  label: River Map as divinatory diagram topic
+  taxonomy_refs: []
+  basis: The passage lists the form of the River Map among topics connected with the
+    lineal figures.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The River Map is only named; its form, function, and mythic associations
+    are not described in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 67-83
+  quote_or_summary: 'Chapter I outline: the Yi existed in Confucius'' time; the present
+    Yi consists of the Text seen by Confucius and Appendixes ascribed to him; the
+    Yi escaped the fires of Shin; the chapter treats evidence before Confucius and
+    later scholarship.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain; source metadata allows full-text use.
+- id: ev:2
+  type: summary
+  locator: lines 85-101
+  quote_or_summary: 'Chapter II outline: the Yi consists of essays based on lineal
+    figures; topics include their origin, multiplication to sixty-four, the River
+    Map, King Wan''s time, the last king of Shang, the lords of Kau, Wan in prison
+    occupied with lineal figures, and the seventh hexagram.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain; source metadata allows full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 102-110
+  quote_or_summary: 'Chapter III outline: topics include the number and nature of
+    the Appendixes, questions of Confucius'' authorship, Fi-hsi''s trigrams, King
+    Wan''s trigrams, the Great Symbolism, harmony between changing lines and external
+    phenomena, and ancient divination.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain; source metadata allows full-text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the passage's table-of-contents style and
+    OCR irregularities. Motif candidates are cautious because the passage names topics
+    rather than narrating them. No comparison claims are made because the passage
+    does not itself support an explicit cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied refs and applied only where directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l67-l110
+  passage_sha256=27a825f402a3bc7372903617933d8af0e636fbe72176ce6f79243fece59d3621
+

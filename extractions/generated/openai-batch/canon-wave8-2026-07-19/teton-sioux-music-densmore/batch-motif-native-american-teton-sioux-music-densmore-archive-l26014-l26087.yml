@@ -1,0 +1,196 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l26014-l26087
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BULLETIN  SI      PLATE  SO / TETON   STOUX   MUSIC / WOBDS / TETON   STOUX   MUSIC;
+    lines 26014-26087
+  start: '26014'
+  end: '26087'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"Clear the Way, I Come"'
+  summary: The passage gives song No. 186, sung by Bear Eagle, with Lakota/Dakota
+    words and English glosses. The words repeatedly command that the way be cleared,
+    state that the speaker comes in a sacred manner, and include the statement that
+    the earth is the speaker's. The passage also provides musical analysis describing
+    the melody, tonal material, descent, intonation, and recorded renditions.
+  language: English with transliterated Lakota/Dakota song text
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The song is identified as No. 186, titled "Clear the Way, I Come," Catalogue
+    No. 634, and is sung by Bear Eagle.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The drum was not recorded for this song.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The translated words include a command to clear the way.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The translated words state that the first-person speaker comes in a sacred
+    manner.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The translated words include the statement that the earth is the speaker's.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The song text repeats the phrases about clearing the way and coming in a sacred
+    manner.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The analysis says the melody is based on the minor triad A-C-E, begins on
+    the twelfth, descends steadily to the tonic, and is minor in tonality.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Three renditions were recorded and are described as uniform throughout.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bear Eagle
+  description: Named singer of song No. 186.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: First-person song speaker
+  description: The voice in the translated words that says it comes in a sacred manner
+    and that the earth is its own.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The passage states that the song was sung by Bear Eagle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: first-person sacred arriver and claimant
+  assigned_to:
+  - fig:2
+  basis: The translated words have a first-person speaker who comes in a sacred manner
+    and claims the earth.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cleared way
+  literal_form: the way to be cleared
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: earth
+  literal_form: the earth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sacred arrival proclaimed in song words
+  summary: The song voice commands that the way be cleared, declares that it comes
+    in a sacred manner, and states that the earth is its own.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sacred arrival with cleared way
+  taxonomy_refs: []
+  basis: The repeated words combine a command to clear the way with the statement
+    that the speaker comes in a sacred manner.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only song words and musical analysis, not a narrative
+    setting or ritual explanation.
+- id: motif:2
+  label: sacred claim to the earth
+  taxonomy_refs: []
+  basis: The translated words connect sacred arrival with the statement that the earth
+    is the speaker's.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The speaker's identity and the social or ceremonial meaning of the claim
+    are not explained in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 26014-26018
+  quote_or_summary: Song No. 186 is titled "Clear the Way, I Come" and is listed as
+    sung by Bear Eagle.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short quotation or summary used.
+- id: ev:2
+  type: quote
+  locator: lines 26020-26021
+  quote_or_summary: 'The passage states: "Drum not recorded."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 26048-26067
+  quote_or_summary: 'The glossed words translate repeated phrases: clear the way;
+    in a sacred manner; I come; the earth; is mine.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summary of passage used.
+- id: ev:4
+  type: summary
+  locator: lines 26069-26086
+  quote_or_summary: The analysis describes the melody as based on A-C-E, descending
+    from the twelfth to the tonic, minor in tonality, with good intonation and three
+    uniform recorded renditions.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summary of passage used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the glosses and analysis. Motif
+    labels are candidate descriptions only because the passage lacks wider ceremonial
+    or narrative context. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata; no external cultural or ceremonial context was used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l26014-l26087
+  passage_sha256=9f9c5b50754be4fe149c93dfd9f5c20df327d1ab396bc0701f78a3dade94f7e0
+

@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.georgian-georgian-folk-tales-wardrop-gutenberg-l5354-l5367
+source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+passage_locator:
+  label: THE STORY OF DERVISH / THE FATHER'S PROPHECY / THE HERMIT PHILOSOPHER / A
+    WITTY ANSWER; lines 5354-5367
+  start: '5354'
+  end: '5367'
+  translation: Georgian Folk Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A king imprisons one of his lords and will free him only if he brings a
+    horse of no possible named colour. The lord secures release by promising the horse,
+    then asks that the king send a groom on no day of the week, but on any other day
+    that suits him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is titled “A WITTY ANSWER.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A king is angry with one of his lords and puts him in prison.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The king says he will free the lord only if the lord brings a horse that is
+    neither any of the colours the king lists nor any possible horse colour.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The imprisoned lord promises to get such a horse if the king sets him free
+    at once.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After being freed, the lord asks the king to send a groom for the horse.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The lord specifies that the groom must come on none of the seven named days
+    of the week, but on any other day that suits the king.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The lord’s condition mirrors the king’s condition by excluding every ordinary
+    option in a named set.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: king
+  description: A king who is angry with one of his lords, imprisons him, and sets
+    a condition for his release.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: imprisoned lord
+  description: One of the king’s lords, imprisoned by the king, who promises to obtain
+    the impossible horse and then gives the king an impossible day condition.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: groom
+  description: A groom whom the king is asked to send for the horse, but only on a
+    day outside the seven named days of the week.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ruler imposing an impossible condition
+  assigned_to:
+  - fig:1
+  basis: The king imprisons the lord and conditions release on bringing a horse of
+    no possible listed colour.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: witty imprisoned respondent
+  assigned_to:
+  - fig:2
+  basis: The lord answers the king’s impossible horse demand with an impossible scheduling
+    condition after securing release.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: requested messenger or fetcher
+  assigned_to:
+  - fig:3
+  basis: The groom is the person the king is asked to send for the horse.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: impossible horse
+  literal_form: A horse that is neither grey, black, brown, bay, white, roan, dun,
+    chestnut, piebald, nor any other possible colour.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: excluded days of the week
+  literal_form: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday
+    are all excluded as possible arrival days for the groom.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Imprisonment and impossible horse condition
+  summary: The king imprisons a lord and declares that he will release him only if
+    the lord brings a horse outside all possible named colours.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Counter-condition after release
+  summary: The lord, once freed, asks the king to send a groom for the horse, but
+    only on a day outside the seven days of the week.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Impossible demand answered by an impossible counter-demand
+  taxonomy_refs:
+  - wisdom
+  basis: The passage’s title identifies a witty answer, and the narrative turns on
+    the lord answering the king’s impossible horse-colour condition with an impossible
+    day-of-week condition.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not provide an external tale-type number or explicit
+    cross-cultural comparison.
+- id: motif:2
+  label: Clever speech wins release from a ruler’s constraint
+  taxonomy_refs:
+  - wisdom
+  basis: The lord is imprisoned under a ruler’s condition and uses a logically parallel
+    verbal answer to undermine the condition after being released.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly state the final legal or practical outcome
+    beyond the lord’s answer.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously grouped with wisdom or clever-answer patterns
+    because its action depends on a concise verbal solution to an impossible demand.
+  claim_level: same_function
+  target: wisdom motif family / clever-answer pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional grouping based only on the provided passage; no
+    specific external parallel or historical relationship is supplied.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '5354'
+  quote_or_summary: "“A WITTY ANSWER”"
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 5356-5362
+  quote_or_summary: A king, angry with one of his lords, imprisons him and says he
+    will free him only if he brings a horse of no possible colour after enumerating
+    all horse colours.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5362-5367
+  quote_or_summary: The lord promises to obtain the horse if freed at once; after
+    release he asks the king to send a groom for it, but not on any named day of the
+    week, only on some other suitable day.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are limited to the supplied
+    taxonomy and passage-internal evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external tale-type index, historical-contact claim, or non-provided comparison has been added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:georgian-georgian-folk-tales-wardrop-gutenberg__l5354-l5367
+  passage_sha256=8d4683dd9046fb4b286ddc1ae08495e088b7dcc7fc6d573108c111b7afbd743a
+

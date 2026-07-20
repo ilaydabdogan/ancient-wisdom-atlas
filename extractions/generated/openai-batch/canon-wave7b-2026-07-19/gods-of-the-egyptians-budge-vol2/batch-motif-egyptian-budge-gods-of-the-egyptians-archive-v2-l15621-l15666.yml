@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l15621-l15666
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: ANUBIS  265 / CHAPTER    XVI / CIPPI    OF    HORUS / METTERNICH   STELE;
+    lines 15621-15666
+  start: '15621'
+  end: '15666'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage identifies the Metternich Stele as a late native Egyptian
+    monument and describes a front-scene: a solar disk contains the seated four-fold
+    god Khnemu, representing the gods of earth, air, fire, and water. The image rests
+    between a sign rendered in the text as “LJ,” supported on a lake of water. Four
+    apes stand on each side with paws stretched out in adoration. The passage adds
+    that the apes are unnamed on this stele but may be named in an Edfu text.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author dates the monument to the period of a late native Egyptian king
+    who reigned from B.C. 378 to B.C. 360.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage introduces a list of figures and scenes on the front of the stele.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A solar disk contains the seated four-fold god Khnemu.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Khnemu is said to represent the gods of the four elements: earth, air, fire,
+    and water.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The solar-disk scene is described as resting between a sign rendered as “LJ,”
+    which is supported on a lake of water.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Four apes stand on each side of the image with their paws stretched out in
+    adoration.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The apes are not named on the stele, but the passage says their names may
+    be found in a text at Edfu.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Khnemu
+  description: A seated four-fold god located within the solar disk and said to represent
+    the gods of the four elements.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Eight apes flanking the solar disk
+  description: Four apes stand on each side of the image with paws stretched out in
+    adoration; no names are given to them on the stele in this passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: seated deity in solar disk
+  assigned_to:
+  - fig:1
+  basis: Khnemu is described as seated within the solar disk.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: representative of the gods of the four elements
+  assigned_to:
+  - fig:1
+  basis: The passage says Khnemu represents the gods of earth, air, fire, and water.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: adoring flanking figures
+  assigned_to:
+  - fig:2
+  basis: The apes stand on each side with paws stretched out in adoration.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: solar disk
+  literal_form: The solar disk containing the seated four-fold god Khnemu.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: four elements
+  literal_form: Earth, air, fire, and water, represented through Khnemu’s four-fold
+    form.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lake of water
+  literal_form: A lake of water supporting the sign or arrangement beneath the solar-disk
+    scene.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: adoration gesture
+  literal_form: Apes with paws stretched out in adoration.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Front scene of the Metternich Stele
+  summary: A solar disk contains the seated four-fold Khnemu, who represents the gods
+    of earth, air, fire, and water. The image rests above or between a sign supported
+    on a lake of water, while four apes stand on each side in adoration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Cross-reference to Edfu names for the apes
+  summary: The passage states that the apes are unnamed on the Metternich Stele but
+    that their names may be found in a text at Edfu; the printed name list in the
+    provided passage is fragmentary.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Solar disk containing a seated deity
+  taxonomy_refs: []
+  basis: The described scene places the seated four-fold god Khnemu within a solar
+    disk.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage provides a visual description but does not state an explicit
+    mythic narrative for the image.
+- id: motif:2
+  label: Four-element divine representation
+  taxonomy_refs: []
+  basis: Khnemu is explicitly said to represent the gods of earth, air, fire, and
+    water.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Only fire and water match the supplied symbol taxonomy; earth and air
+    are not available taxonomy refs in the request.
+- id: motif:3
+  label: Adoring apes flanking a solar-divine image
+  taxonomy_refs: []
+  basis: Four apes stand on each side of the solar-disk image with paws outstretched
+    in adoration.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not provide the apes’ names on the stele and gives only
+    a partially legible Edfu name list.
+- id: motif:4
+  label: Sacred image supported by water
+  taxonomy_refs: []
+  basis: The arrangement beneath or around the solar disk is described as supported
+    on a lake of water.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The sign rendered as “LJ” is unclear in the supplied text, so the exact
+    iconographic structure should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The passage links the unnamed apes on the Metternich Stele with a named set
+    of apes in a text at Edfu.
+  claim_level: same_motif
+  target: Edfu text naming the apes associated with this scene
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Edfu text itself is not supplied here, and the names in the provided
+    passage are fragmentary or typographically corrupted; the claim rests only on
+    the author’s cross-reference.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15621-15630
+  quote_or_summary: The passage dates the stele to the period of a late native Egyptian
+    king reigning B.C. 378-360 and introduces the front figures and scenes.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 15631-15639
+  quote_or_summary: "“The solar disk wherein is seated the four-fold god Khnemu,”
+    representing “the gods of the four elements, earth, air, fire, and water.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 15640-15648
+  quote_or_summary: The solar-disk arrangement is described as resting between a sign
+    rendered “LJ,” supported on a lake of water; four apes stand on each side with
+    paws stretched out in adoration.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 15649-15666
+  quote_or_summary: The passage says the apes are not named on the stele, but that
+    their names may be found in an Edfu text; the provided name list is fragmentary.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main visual elements are explicit in the passage. Some iconographic details
+    are uncertain because the supplied text contains typographic/glyph corruption,
+    especially the sign rendered “LJ” and the Edfu ape-name list.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external identification of glyphs or ape names has been added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l15621-l15666
+  passage_sha256=4a25358549407df44fcfe9816f9e31102190df8163ba8ef160ed4b8cf157da76
+

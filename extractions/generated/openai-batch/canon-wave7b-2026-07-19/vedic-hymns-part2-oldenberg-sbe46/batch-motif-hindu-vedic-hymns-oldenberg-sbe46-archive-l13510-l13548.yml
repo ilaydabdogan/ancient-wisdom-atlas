@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l13510-l13548
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'NOW ES, / NOTES: / MANDALA III, HYMN IQ. 279 / NO LES:; lines 13510-13548'
+  start: '13510'
+  end: '13548'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Scholarly notes identify the Rishi and metre, discuss readings for verses,
+    and explain ritual imagery: Agni is represented as inviting the host of gods by
+    moving left-to-right around sacrificial food; many fires are described as faces
+    of Agni; alternative translations mention divine givers, the Vasus, and sacrifice.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Rishi is identified as Gathin Kausika, and the metre is Trishtubh.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Agni is represented as choosing or inviting the host of the gods by moving
+    around sacrificial food from left to right.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says the Paryagnikarana seems to be alluded to in connection with
+    Agni's movement around the sacrificial food.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An alternative rendering mentions divine givers and the Vasus.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Many fires have been inflamed, and each fire is described as a face of the
+    god Agni.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Another alternative rendering includes the phrase 'that thou mayest sacrifice'.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gathin Kausika
+  description: Named as the Rishi of the hymn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Agni
+  description: A god represented as inviting the host of gods by ritual movement,
+    and as having many fires as faces.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: host of the gods
+  description: The divine host whom Agni is represented as choosing or inviting.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: divine givers and Vasus
+  description: A divine group mentioned only in an alternative rendering.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Rishi of the hymn
+  assigned_to:
+  - fig:1
+  basis: The passage directly identifies Gathin Kausika as the Rishi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual inviter of the gods
+  assigned_to:
+  - fig:2
+  basis: Agni is said to choose or invite the host of gods by moving around sacrificial
+    food.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: invited divine host
+  assigned_to:
+  - fig:3
+  basis: The host of gods is described as being invited by Agni.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: deity manifested through many fires
+  assigned_to:
+  - fig:2
+  basis: The note describes each of many fires as a face of Agni.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: alternative named divine group
+  assigned_to:
+  - fig:4
+  basis: The Vasus and divine givers appear in an alternative rendering.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: many fires, each described as a face of Agni
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sacrificial food
+  literal_form: sacrificial food around which Agni moves
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: left-to-right ritual movement
+  literal_form: moving around the sacrificial food from left to right
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Agni moves around sacrificial food
+  summary: Agni is represented as moving from left to right around sacrificial food
+    in order to choose or invite the host of gods; the note connects this with Paryagnikarana.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Many fires as faces of Agni
+  summary: Many fires are inflamed, and the note states that each fire is a face of
+    Agni.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacrificial invitation of gods
+  taxonomy_refs:
+  - sacrifice
+  basis: Agni is represented as inviting the host of gods by moving left-to-right
+    around sacrificial food, with a ritual allusion to Paryagnikarana.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The evidence is from a commentary note rather than a full narrative hymn
+    passage.
+- id: motif:2
+  label: divine fire as multiple faces of one god
+  taxonomy_refs: []
+  basis: The note says many fires are inflamed and that each is a face of Agni.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a compact explanatory statement; the available motif taxonomy
+    includes fire as a symbol but not a dedicated motif family for divine manifestation
+    through many fires.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13510-13514
+  quote_or_summary: The notes state that the Rishi is Gathin Kausika and the metre
+    is Trishtubh.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 13520-13527
+  quote_or_summary: A note says Agni is represented as choosing or inviting the host
+    of gods by moving from left to right around sacrificial food; Paryagnikarana may
+    be alluded to.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 13529-13531
+  quote_or_summary: "“with the (divine) givers and with the Vasus.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 13540-13542
+  quote_or_summary: A note says many fires have been inflamed, each of which is a
+    face of Agni.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 13544-13546
+  quote_or_summary: "“that thou mayest sacrifice”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of scholarly notes with some OCR noise and compact ritual
+    explanations. Motif extraction is therefore limited to explicit ritual and fire
+    imagery. No broader comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact, common-inheritance, or cross-tradition comparison claims are made from this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l13510-l13548
+  passage_sha256=c448afb64949ac70aa79be080d0212cd33ace7db6734fac733eb34cfb0b30537
+

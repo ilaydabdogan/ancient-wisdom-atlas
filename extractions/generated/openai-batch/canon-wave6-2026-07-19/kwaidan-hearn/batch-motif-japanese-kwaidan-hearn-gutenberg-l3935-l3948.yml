@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.japanese-kwaidan-hearn-gutenberg-l3935-l3948
+source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+passage_locator:
+  label: INSECT STUDIES / BUTTERFLIES / MOSQUITOES / OSHIDORI; lines 3935-3948
+  start: '3935'
+  end: '3948'
+  translation: 'Kwaidan: Stories and Studies of Strange Things'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“these birds have been regarded as emblems of conjugal affection.”"
+  summary: 'The notes explain that oshidori have long been treated in the Far East
+    as emblems of conjugal affection. They also explain a double meaning in a verse:
+    the name Akanuma, “Red Marsh,” can be read as akanu-ma, meaning the time of an
+    inseparable or delightful relation, in a poem about an invited companion and the
+    misery of sleeping alone among rushes.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that these birds have been regarded from ancient time in
+    the Far East as emblems of conjugal affection.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the third verse has a pathetic double meaning.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The proper name Akanuma is glossed as “Red Marsh” and can also be read as
+    akanu-ma, meaning “the time of our inseparable (or delightful) relation.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the provided rendering of the poem, a first-person speaker says that when
+    the day began to fail, they had invited “him” to accompany them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The poem rendering describes misery after the time of a happy relation for
+    one who must slumber alone in the shadow of the rushes.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Makomo is described as a kind of large rush used for making baskets.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: oshidori birds
+  description: The birds named by the passage title and described as emblems of conjugal
+    affection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed first-person voice in the rendered poem
+  description: A speaker who says they invited him to accompany them and refers to
+    misery for one sleeping alone among rushes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: invited companion
+  description: An unidentified “him” whom the poem speaker had invited to accompany
+    them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: emblem of conjugal affection
+  assigned_to:
+  - fig:1
+  basis: The notes state that the birds have been regarded as emblems of conjugal
+    affection.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lamenting solitary speaker
+  assigned_to:
+  - fig:2
+  basis: The rendered poem uses a first-person voice and describes misery for one
+    who must sleep alone after a happy relation.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: invited companion
+  assigned_to:
+  - fig:3
+  basis: The rendered poem says the speaker had invited “him” to accompany them.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: oshidori as conjugal emblem
+  literal_form: birds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Akanuma / akanu-ma double reading
+  literal_form: proper name meaning “Red Marsh” and alternate reading meaning the
+    time of an inseparable or delightful relation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rushes as setting of solitary sleep
+  literal_form: shadow of the rushes; makomo rush
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: poetic lament of separation at day’s end
+  summary: In the rendered verse, a speaker recalls inviting an unnamed male companion
+    to accompany them as day failed, then speaks of misery for one left to sleep alone
+    among rushes after a happy relation.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: birds as emblems of conjugal affection
+  taxonomy_refs: []
+  basis: The passage explicitly says these birds have long been regarded in the Far
+    East as emblems of conjugal affection.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is explanatory rather than a full narrative episode; no specific
+    comparative taxonomy item is directly named.
+- id: motif:2
+  label: separation lament after an inseparable relation
+  taxonomy_refs: []
+  basis: The note explains that Akanuma can mean the time of an inseparable or delightful
+    relation, and the rendered poem contrasts that happy relation with solitary sleep
+    among rushes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a gloss and partial poetic rendering, not the full
+    surrounding story.
+- id: motif:3
+  label: place-name wordplay carrying emotional meaning
+  taxonomy_refs: []
+  basis: The note states that Akanuma means “Red Marsh” but can also be read as akanu-ma,
+    signifying the time of an inseparable or delightful relation.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is primarily a literary or linguistic pattern rather than a narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself situates oshidori within a broader Far Eastern pattern
+    in which these birds function as emblems of conjugal affection.
+  claim_level: same_motif
+  target: Far Eastern tradition of oshidori or paired birds as conjugal-affection
+    emblems
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a broad regional statement but does not name specific
+    cultures, texts, or transmission paths.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3935-3939
+  quote_or_summary: "“From ancient time, in the Far East, these birds have been regarded
+    as emblems of conjugal affection.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; passage supplied in request metadata.
+- id: ev:2
+  type: summary
+  locator: 3941-3945
+  quote_or_summary: 'The note says the third verse has a pathetic double meaning:
+    the proper name Akanuma, “Red Marsh,” may also be read as akanu-ma, meaning the
+    time of an inseparable or delightful relation.'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; passage supplied in request metadata.
+- id: ev:3
+  type: summary
+  locator: 3945-3947
+  quote_or_summary: The supplied rendering says the speaker invited him to accompany
+    them as day failed, and then describes misery after the happy relation for one
+    who must sleep alone in the shadow of the rushes.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; passage supplied in request metadata.
+- id: ev:4
+  type: summary
+  locator: '3948'
+  quote_or_summary: The note explains makomo as a kind of large rush used for making
+    baskets.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; passage supplied in request metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied footnotes and poetic rendering.
+    Motif candidates are limited because the passage is explanatory and fragmentary
+    rather than a complete narrative scene.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy refs were assigned because the available motif families and symbol list do not directly name bird-pair or conjugal-affection emblems; comparison is limited to the broad Far Eastern pattern explicitly stated in the passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:japanese-kwaidan-hearn-gutenberg__l3935-l3948
+  passage_sha256=58ed935b47bceadcb5e10454bea797646074282d896998b7f89a98e5a309c4b5
+

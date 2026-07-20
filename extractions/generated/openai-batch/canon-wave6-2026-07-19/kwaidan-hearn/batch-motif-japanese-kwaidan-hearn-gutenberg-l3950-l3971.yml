@@ -1,0 +1,195 @@
+---
+record_id: batch.motif.japanese-kwaidan-hearn-gutenberg-l3950-l3971
+source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+passage_locator:
+  label: BUTTERFLIES / MOSQUITOES / OSHIDORI / THE STORY OF O-TEI; lines 3950-3971
+  start: '3950'
+  end: '3971'
+  translation: 'Kwaidan: Stories and Studies of Strange Things'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: THE STORY OF O-TEI
+  summary: The excerpt consists of the section title and explanatory notes defining
+    Japanese address forms and Buddhist terms, including a heavenly term, life-name
+    and posthumous religious names, tomb and mortuary tablet inscriptions, a parish
+    temple, and a Buddhist household shrine.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage gives the section title as “THE STORY OF O-TEI.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: "“-sama” is defined as a polite suffix attached to personal names."
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An unnamed Buddhist term is described as commonly signifying a kind of heaven.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Buddhist term zokumyō is glossed as a personal name borne during life.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Kaimyō and homyō are glossed as religious posthumous appellations given after
+    death.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The posthumous appellations are said to be inscribed upon a tomb and upon
+    a mortuary tablet in the parish temple.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A Buddhist household shrine is mentioned in a note.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A Japanese form of address used toward young, unmarried women is mentioned.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: O-Tei
+  description: Named in the section title; no actions or attributes are given in this
+    excerpt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: title-named figure
+  assigned_to:
+  - fig:1
+  basis: O-Tei appears in the passage title only.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: heaven
+  literal_form: a kind of heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: tomb
+  literal_form: tomb
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: mortuary tablet
+  literal_form: mortuary tablet in the parish temple
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Buddhist household shrine
+  literal_form: Buddhist household shrine
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: posthumous religious naming and memorial inscription
+  taxonomy_refs: []
+  basis: A note contrasts the personal name borne during life with religious names
+    given after death and inscribed on a tomb and mortuary tablet.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt is paratextual commentary rather than narrative action; no
+    story sequence is present in the supplied lines.
+comparison_claims:
+- id: claim:1
+  claim: The notes explicitly connect the passage vocabulary to Buddhist religious
+    and mortuary terminology, including a heaven term, posthumous names, and a household
+    shrine.
+  claim_level: same_function
+  target: Buddhist mortuary and household devotional terminology
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional contextual comparison supported by explanatory
+    notes only; the supplied excerpt does not provide a narrative motif sequence or
+    evidence for historical transmission beyond the stated Buddhist terminology.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '3950'
+  quote_or_summary: "“THE STORY OF O-TEI”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: '3952'
+  quote_or_summary: A note defines “-sama” as a polite suffix attached to personal
+    names.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: '3954'
+  quote_or_summary: A note says a Buddhist term is commonly used to signify a kind
+    of heaven.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: 3956-3965
+  quote_or_summary: A note defines zokumyō as the personal name borne during life,
+    contrasted with kaimyō or homyō, religious posthumous names given after death
+    and inscribed on a tomb and mortuary tablet in the parish temple.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: '3967'
+  quote_or_summary: A note glosses an item as a Buddhist household shrine.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: 3969-3971
+  quote_or_summary: A note describes a direct translation of a Japanese form of address
+    used toward young, unmarried women.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The excerpt is brief and mostly consists of explanatory notes, so literal
+    extraction is strong but motif identification is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs are directly supported by the supplied passage; no narrative scene is present in the excerpt.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:japanese-kwaidan-hearn-gutenberg__l3950-l3971
+  passage_sha256=55df4b8f223416d71a9b91a47589f2b32803391d058560164c526ea9e1e2fc6b
+

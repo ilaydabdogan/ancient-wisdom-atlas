@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l30782-l30862
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: INHERITANCE. / CHAPTER XL / TRADE. / TRADING VOYAGES.; lines 30782-30862
+  start: '30782'
+  end: '30862'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Tubetube sea-going trading voyages by waga, including
+    craft suitability, wind and seasonal travel, daily harbor planning, island-based
+    navigation, storm response, and routes to Murua, Basilaki, the mainland, Salaoni,
+    and Milne Bay.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Waga are described as sea-going craft intended for offshore and deep-water
+    voyages and built to suit their expected work.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that shipwrecks were so rare that the oldest inhabitants
+    could not remember one.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Tubetube seamen tried to depart with a fair wind and could also work the waga
+    to windward, though slowly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Crews arranged itineraries so as to make a harbor every evening, though they
+    sometimes spent a night at sea.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At night they did not sail by the stars; in clear weather they used visible
+    land for guidance, and in thick darkness they lay to until daylight.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: During sudden north-west monsoon storms, if no haven was available, crews
+    lowered sail, kept the waga head to the sea, and rode out the storm.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Under favorable conditions the longest voyages to Duau and Murua could be
+    made in four days, but the Murua voyage could take two or three weeks because
+    of weather, business, or pleasure at ports.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The trade route to Murua is described as about 120 to 135 miles, with overnight
+    stages at Ore, Panamoti, Tokunu, and then Murua if weather allowed.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Basilaki could be reached from Tubetube in about a day; from there routes
+    continued by coasting to Sariba, Rogea, the mainland, Suau, or north by Salaoni
+    toward Milne Bay.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Tubetube seamen and crews
+  description: The people described as making and managing waga voyages, arranging
+    trade itineraries, navigating among islands, and handling storms.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: seafarers and waga handlers
+  assigned_to:
+  - fig:1
+  basis: They are described as putting out to sea, working waga to windward, and managing
+    the craft in storms.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: trading voyagers
+  assigned_to:
+  - fig:1
+  basis: Their voyages are explicitly presented as trading trips with routes to places
+    such as Murua.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: island-route navigators
+  assigned_to:
+  - fig:1
+  basis: They arranged harbor stops, used visible land for guidance, and followed
+    staged island routes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: waga
+  literal_form: Sea-going craft used for offshore and deep-water voyages.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: sea and deep water
+  literal_form: The offshore and deep-water environment in which the waga voyages
+    take place.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: wind and monsoon storms
+  literal_form: Fair winds, adverse winds, trade winds, monsoon winds, and sudden
+    storms affecting routes and travel time.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: harbors and island resting places
+  literal_form: Harbors and islands such as Ore, Panamoti, Tokunu, and Salaoni used
+    as nightly or route stops.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: visible land as guide
+  literal_form: Land seen in clear weather among the islands and used for night guidance.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Waga seaworthiness
+  summary: The passage introduces waga as craft suited to offshore and deep-water
+    travel and notes the rarity of remembered shipwrecks.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Departure with wind and daily harbor planning
+  summary: Tubetube seamen prefer fair winds, can travel between places in both seasons,
+    and plan routes to reach a harbor each evening.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Night navigation and waiting for daylight
+  summary: In clear weather the crew uses visible land rather than stars; in thick
+    darkness they stop and wait until daylight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Monsoon storm response
+  summary: When sudden monsoon storms occur and no haven is available, the crew lowers
+    sail, faces the waga toward the sea, and endures the storm.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Murua voyage route
+  summary: The Murua route is described as a long trade route with staged overnight
+    stops and variable duration depending on weather and activities at ports.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Basilaki, mainland, and Salaoni routes
+  summary: The passage describes routes from Tubetube to Basilaki, along neighboring
+    islands and the mainland, and by Salaoni toward Milne Bay.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sea-going trading voyage
+  taxonomy_refs: []
+  basis: The passage repeatedly frames the journeys as trading trips by sea-going
+    waga crews along named island routes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage describes ethnographic commercial travel, not a mythic or
+    ritual exchange episode.
+- id: motif:2
+  label: staged island itinerary with nightly harbor stops
+  taxonomy_refs: []
+  basis: Crews plan to reach a harbor each evening, and the Murua route is given as
+    a sequence of overnight island stops.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: This is a practical travel pattern in the passage; symbolic or ritual
+    meaning is not stated.
+- id: motif:3
+  label: land-sighting navigation in island-strewn waters
+  taxonomy_refs: []
+  basis: The passage says crews lacked sufficient star navigation at night but usually
+    used visible land in clear weather.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No celestial or mythological navigation system is described.
+- id: motif:4
+  label: survival of sudden sea storm by seamanship
+  taxonomy_refs: []
+  basis: The passage describes sudden north-west monsoon storms and a procedure of
+    lowering sail, facing the sea, and riding out the storm.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The account attributes survival to management or luck, not supernatural
+    aid.
+- id: motif:5
+  label: journey delayed by weather and port activities
+  taxonomy_refs: []
+  basis: The Murua voyage could extend from an ideal four days to two or three weeks
+    because of adverse winds, foul weather, business, or pleasure at ports.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The delay is described in practical terms, without an initiatory or quest
+    framing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30789-30793
+  quote_or_summary: Waga are sea-going craft for offshore and deep-water voyages;
+    they are suited to their work, and shipwrecks are said to be very rare.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 30795-30803
+  quote_or_summary: Tubetube seamen aim for fair winds, can travel between places
+    in both seasons, and can work the waga to windward when needed.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 30805-30815
+  quote_or_summary: The voyages are described as trading trips; crews aim to make
+    a harbor every evening and plan the itinerary around that goal, though they may
+    spend a night at sea.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 30815-30819
+  quote_or_summary: Without enough knowledge of the stars for night sailing, crews
+    use visible land in clear weather; in thick nights they wait for daylight.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 30819-30824
+  quote_or_summary: North-west monsoon storms are sudden and severe; if no haven is
+    found, crews lower sail, keep the waga head to sea, and ride out the storm.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 30826-30832
+  quote_or_summary: Voyages to Duau and Murua could ideally take four days, but the
+    Murua voyage could last two or three weeks due to weather, business, or pleasure
+    at ports.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 30834-30842
+  quote_or_summary: The trade route to Murua is about 120 to 135 miles; the staged
+    route names Ore, Panamoti, Tokunu, and Murua as successive stops if conditions
+    serve.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 30844-30861
+  quote_or_summary: Basilaki is reachable in a day from Tubetube; routes continue
+    via Sariba, Rogea, the mainland, Suau, Salaoni, and Milne Bay.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is high confidence. Motif candidates are practical voyage
+    and trade-route patterns rather than mythological claims. No comparison claims
+    were made because the passage itself does not support a cross-textual or cross-traditional
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage is an ethnographic description of Southern Massim/Tubetube trading voyages. Available taxonomy references were used only for the literal water/sea setting; mythic motif-family references were not applied because the passage does not present sacred, supernatural, or narrative-mythic content.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l30782-l30862
+  passage_sha256=af72e23bf951222acbaa1306f196135decd06c8695a5ce377941aa677bceda5a
+

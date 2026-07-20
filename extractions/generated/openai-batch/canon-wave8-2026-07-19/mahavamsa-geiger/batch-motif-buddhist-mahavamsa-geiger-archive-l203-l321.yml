@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l203-l321
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: The Mahavamsa, or The Great Chronicle of Ceylon; lines 203-321
+  start: '203'
+  end: '321'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses the dating and historical trustworthiness of the
+    Ceylonese chronicles, especially the Dipavamsa and Mahavamsa. It argues that although
+    the chronicles contain fables and miraculous tales, these are decorative elements
+    connected with events that celebrate the Buddhist Order, such as Mahinda's arrival
+    in Ceylon, the establishment of the Doctrine, the arrival of relics, and the planting
+    of the Bodhi-tree.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the Mahavamsa was composed around the beginning of the sixth
+    century after Christ, during or near the reign of Dhatusena.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the Ceylonese Chronicles should be judged with respect
+    to their value as historical sources and notes that the Dipavamsa and Mahavamsa
+    have been assessed differently.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage reports sceptical and cautious scholarly views concerning the
+    historical value of the Ceylonese Chronicles, alongside more favourable or defensive
+    assessments.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:4
+  text: The passage characterizes the presentation of the chronicles as modest, simple,
+    and dry, while acknowledging fables and marvellous tales.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:5
+  text: The passage says stories of miracles are connected with events that celebrate
+    the splendour and majesty of the Buddhist Order.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: Mahinda is said to arrive in Ceylon in marvellous fashion by flying through
+    the air.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:7
+  text: Miraculous phenomena are said to accompany the Establishment of the Doctrine,
+    the arrival of relics, and the planting of the Bodhi-tree.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The passage says tradition ornaments the victory of the Order and the true
+    faith with miracle and legend.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Mahinda
+  description: A named figure who arrives in Ceylon in marvellous fashion, flying
+    through the air.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:8
+- id: fig:2
+  name_or_label: Buddhist Order
+  description: The religious order whose splendour and majesty are said to be celebrated
+    by miracle stories.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: pious believer
+  description: The passage refers generally to the believer whose pious sentiment
+    sees the simple facts as great.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: marvellous aerial arriver
+  assigned_to:
+  - fig:1
+  basis: Mahinda is described as arriving in Ceylon by flying through the air.
+  evidence_refs:
+  - ev:8
+- id: role:2
+  label: institution celebrated by miracle stories
+  assigned_to:
+  - fig:2
+  basis: Miracle stories are said to occur when celebrating the splendour and majesty
+    of the Buddhist Order.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: reverent interpretive audience
+  assigned_to:
+  - fig:3
+  basis: The passage says that to the pious sentiment of the believer the facts seemed
+    great.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: airborne flight
+  literal_form: flying through the air
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:2
+  label: relics
+  literal_form: the arrival of the relics
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: Bodhi-tree
+  literal_form: the planting of the Bodhi-tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: miraculous phenomena
+  literal_form: miraculous phenomena accompanying religious events
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Critical discussion of the chronicles as historical sources
+  summary: The passage surveys differing judgments on the historical reliability of
+    the Ceylonese Chronicles and frames them as documents requiring criticism while
+    still potentially preserving tradition.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Miracle stories as decoration of Buddhist institutional events
+  summary: The passage says that fables and marvellous tales in the chronicles serve
+    as outward decoration and are especially connected with events celebrating the
+    Buddhist Order.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+- id: scene:3
+  label: Mahinda's aerial arrival and sacred foundation events
+  summary: Mahinda arrives in Ceylon by flying through the air, while miraculous phenomena
+    accompany the Establishment of the Doctrine, the arrival of relics, and the planting
+    of the Bodhi-tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Miraculous authentication of a religious order
+  taxonomy_refs: []
+  basis: The passage groups miracle stories with events that celebrate the splendour
+    and majesty of the Buddhist Order and ornament the victory of the Order and the
+    true faith.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage treats the miracles as literary or traditional decoration
+    rather than narrating the full events.
+- id: motif:2
+  label: Aerial arrival of a holy envoy
+  taxonomy_refs: []
+  basis: Mahinda is described as arriving in Ceylon in marvellous fashion by flying
+    through the air.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: Only a brief example is given; no full narrative sequence is included
+    in this passage.
+- id: motif:3
+  label: Miracles accompanying relic arrival
+  taxonomy_refs: []
+  basis: The arrival of relics is listed among events accompanied by miraculous phenomena.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage does not identify the relics or describe the phenomena in
+    detail.
+- id: motif:4
+  label: Miracles accompanying sacred tree planting
+  taxonomy_refs: []
+  basis: The planting of the Bodhi-tree is listed among events accompanied by miraculous
+    phenomena.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage mentions the Bodhi-tree but does not elaborate its cosmological
+    or ritual meaning here.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the passage, Mahinda''s aerial arrival, the Establishment of the
+    Doctrine, the arrival of relics, and the planting of the Bodhi-tree are presented
+    as sharing the same function: miraculous adornment of events that celebrate the
+    Buddhist Order and the true faith.'
+  claim_level: same_function
+  target: Miracle stories attached to Buddhist foundation and institutional-celebratory
+    events within the Ceylonese chronicles
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison made from the passage's own grouping;
+    it does not establish historical contact or compare with external mythological
+    corpora.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 203-210
+  quote_or_summary: The passage links a dipika composed by order of Dhatusena with
+    the Mahavamsa and dates the Mahavamsa to about the beginning of the sixth century
+    after Christ.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 212-220
+  quote_or_summary: The section turns to the trustworthiness of the Ceylon Chronicles
+    and says the Dipavamsa and Mahavamsa have been differently appreciated as historical
+    sources.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 222-234
+  quote_or_summary: Franke is described as highly sceptical, but the passage argues
+    that if the chronicles are based on the Atthakatha, the tradition recedes several
+    centuries and may contain historical recollections.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 236-255
+  quote_or_summary: Kern is presented as cautious, granting importance to the chronicles
+    for Ceylonese ecclesiastical history but hesitating to accept them for the most
+    ancient times.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 257-271
+  quote_or_summary: V. A. Smith is quoted as rejecting early Ceylonese chronology
+    but is later presented as calling for cautious criticism of Sinhalese stories.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 273-298
+  quote_or_summary: Rhys Davids is presented as more favourable toward the Ceylon
+    Chronicles, and H. C. Norman is said to defend them against exaggerated scepticism.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 300-309
+  quote_or_summary: The passage describes the chronicles as modest, simple, and dry,
+    while saying that fables and marvellous tales appear as outward decoration connected
+    with celebrating the splendour and majesty of the Buddhist Order.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 311-314
+  quote_or_summary: "“Mahinda arrives in Ceylon in marvellous fashion, flying through
+    the air”; miraculous phenomena accompany the Establishment of the Doctrine, the
+    arrival of relics, and the planting of the Bodhi-tree."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; short excerpt.
+- id: ev:9
+  type: summary
+  locator: lines 315-319
+  quote_or_summary: The passage says tradition decks out the victory of the Order
+    and the true faith with miracle and legend because the simple facts seemed great
+    to the pious believer.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The historiographical material is clear. Motif extraction is limited because
+    the passage only mentions miracle narratives briefly as examples rather than narrating
+    them fully.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unstated taxonomy identifiers were used. Motif candidates are based only on the passage's brief examples of miracle stories in the chronicles.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l203-l321
+  passage_sha256=aa10359b9798bb018fb6d75c8606c7455274a450cb442ef9c6b4c6af6dda5ac0
+

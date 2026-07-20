@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l9844-l9914
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: ALL LIFE IS ONE 289 / ALL LIFE IS ONE 291 / ALL LIFE IS ONE 293 / ALL LIFE
+    IS ONE 295; lines 9844-9914
+  start: '9844'
+  end: '9914'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“the blacksmith was tried, and he was condemned and sentenced to be burnt
+    alive by the river”"
+  summary: The king suspects the queen’s blacksmith brother and orders her to summon
+    him to the palace. The queen fears a trap and pleads for her brother, but the
+    king threatens her and swears the brother will not be harmed. The queen sends
+    the letter; the brother arrives, is seized and imprisoned, and is later condemned
+    to be burned alive by the river.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The king is disturbed by suspicions about the queen’s brother and orders the
+    queen to write to him to come to the palace.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The queen realizes she has fallen into a trap, delays sending the order, and
+    later falls at the king’s feet to plead that her brother be left in his village.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The king threatens the queen with punishment and forced arrest of the blacksmith
+    if she refuses, then swears that her brother will come to no harm.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The queen writes to her brother, asks him by his love for her to come to the
+    Golden City, and tells him the king has sworn no harm will come to him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A king’s messenger carries the letter; the blacksmith arrives and is immediately
+    seized and imprisoned to await trial.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The queen attempts to secure her brother’s release through tears, entreaties,
+    caresses, plotting, and bribery, but fails.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The blacksmith is tried, condemned, and sentenced to be burned alive by the
+    river on the following day.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage’s named places include the palace, the Golden City, the brother’s
+    village, a prison, and the river chosen for the execution.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: The ruler who suspects the blacksmith, commands the queen to summon
+    him, swears he will not be harmed, and later has him seized and tried.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: the queen
+  description: The king’s wife and the blacksmith’s sister; she fears for her brother,
+    pleads with the king, writes the summons, and later tries to gain her brother’s
+    release.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: the blacksmith / the queen’s brother
+  description: The queen’s brother, living in a village, who is summoned to the Golden
+    City, seized on arrival, imprisoned, tried, and sentenced to be burned alive by
+    the river.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: a king’s messenger
+  description: The messenger who carries the queen’s letter to her brother.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: suspicious ruler and command-giver
+  assigned_to:
+  - fig:1
+  basis: The king’s suspicions are described, and he orders the queen to send for
+    her brother.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sister, queen, and intercessor
+  assigned_to:
+  - fig:2
+  basis: The queen pleads for her brother, writes to him, and later tries to secure
+    his release.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: summoned kinsman, prisoner, and condemned man
+  assigned_to:
+  - fig:3
+  basis: The blacksmith is summoned by letter, seized, imprisoned, tried, condemned,
+    and sentenced to burning.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:4
+  label: royal messenger
+  assigned_to:
+  - fig:4
+  basis: The letter is sent by a king’s messenger.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: oath-giver whose promise is followed by harm
+  assigned_to:
+  - fig:1
+  basis: The king swears the blacksmith will come to no harm, but the blacksmith is
+    seized after arriving and later condemned.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: royal oath of safety
+  literal_form: The king swears that the queen’s brother should come to no harm.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: summoning letter
+  literal_form: A letter from the queen adjuring her brother to come to the Golden
+    City.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: prison
+  literal_form: The blacksmith is thrown into prison to await trial.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: fire as execution
+  literal_form: The blacksmith is sentenced to be burnt alive.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: river execution place
+  literal_form: The execution is to occur by the river.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: supplication at the king’s feet
+  literal_form: The queen falls at the king’s feet and begs for her brother.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Royal suspicion and order to summon the blacksmith
+  summary: The king, disturbed by suspicion concerning the queen’s brother, orders
+    the queen to write for him to come to the palace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Queen’s plea and coerced royal oath
+  summary: The queen fears her brother will be imprisoned or executed, pleads for
+    him, and agrees to write only after the king threatens her and swears he will
+    not harm him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Summons, arrival, and imprisonment
+  summary: The queen sends the letter by royal messenger; the blacksmith arrives and
+    is immediately seized and imprisoned.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Failed intercession and sentence by fire
+  summary: After the queen’s efforts to free her brother fail, he is tried, condemned,
+    and sentenced to be burned alive by the river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: deceptive summons under promise of safety
+  taxonomy_refs: []
+  basis: The queen is induced to summon her brother after the king swears he will
+    not be harmed; when he arrives, he is seized and imprisoned.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports the narrative pattern of a dangerous invitation,
+    but it does not name a formal motif or compare it to another tradition.
+- id: motif:2
+  label: broken royal oath or violated pledge
+  taxonomy_refs:
+  - covenant
+  basis: The king swears the brother will come to no harm, yet the brother is arrested,
+    tried, and sentenced to death.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy term 'covenant' is used broadly here for an oath
+    or pledge; the passage does not present a sacred or divine covenant.
+- id: motif:3
+  label: sisterly intercession for a condemned brother
+  taxonomy_refs: []
+  basis: The queen pleads with the king, summons her brother under distress, and later
+    tries unsuccessfully to secure his release.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level relational pattern, not a confirmed cross-cultural
+    motif family.
+- id: motif:4
+  label: condemnation to death by burning beside water
+  taxonomy_refs: []
+  basis: The blacksmith is sentenced to be burnt alive by the river on the following
+    day.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Fire and river imagery are explicit, but the passage does not explain
+    their ritual or symbolic function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9849-9858
+  quote_or_summary: The king is disturbed by suspicions and orders the queen to write
+    to her brother to come down to the palace.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9860-9876
+  quote_or_summary: The queen realizes she may have fallen into a trap, delays the
+    letter, and begs the king to leave her brother in peace in his village because
+    she fears he will be imprisoned or executed.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 9878-9889
+  quote_or_summary: The king insists on summoning the blacksmith, threatens punishment
+    if the queen refuses, and swears that her brother will come to no harm.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 9891-9896
+  quote_or_summary: The queen writes to her brother, adjures him by his love for her
+    to come to the Golden City, and says the king has sworn that no harm will come
+    to him.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 9898-9901
+  quote_or_summary: "“The letter was sent off by a king's messenger. In due time the
+    blacksmith arrived, and he was immediately seized and thrown into prison to await
+    his trial.”"
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 9903-9909
+  quote_or_summary: The queen sees she has been deceived and attempts by tears, entreaties,
+    caresses, plotting, and bribery to secure her brother’s release, but all efforts
+    fail.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 9909-9912
+  quote_or_summary: "“the blacksmith was tried, and he was condemned and sentenced
+    to be burnt alive by the river on the following day.”"
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the supplied lines. Motif labels are passage-level
+    candidates and should be reviewed, especially the broad use of the 'covenant'
+    taxonomy reference for a royal oath.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support a specific cross-traditional comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l9844-l9914
+  passage_sha256=75335d5f72c199033890eb63d029ed983417fb0b6d94e55bc2113388d4cafdec
+

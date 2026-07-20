@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l8866-l8939
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTERS V. 29-VI. 4 49 / CHAPTER VI. 5-16 51 / CHAPTER VI. 17-23 53 / CHAPTER
+    VI. 24-31 55; lines 8866-8939
+  start: '8866'
+  end: '8939'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a calendrical discussion of a 364-day year made up of exactly
+    52 weeks, used to keep Sabbaths and festivals fixed on the same weekdays and month-days.
+    It connects this calendar with the flood chronology, listing stages of the flood
+    and comparing the reckoning with Genesis, Jubilees, Enochic material, and a Babylonian
+    flood account.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that fixed festival observance required festivals to fall
+    on the same day of the month and the same day of the week from year to year.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage presents a 364-day year as consisting of exactly 52 weeks and
+    therefore able to keep the Sabbath as the seventh day in each week.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The passage gives examples of fixed festival dates and weekdays: Passover
+    on Nisan 14 as a Sabbath, the wave-sheaf on Nisan 22 as a Sunday, and the feast
+    of weeks on Sivan 15 as a Sunday.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the discussion of the true length of the year is brought
+    forward in connection with the account of the flood.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage lists flood epochs including beginning, climax, mountain tops
+    appearing, waters drying up, and the earth becoming dry.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that the flood in the Babylonian account lasted one year,
+    while the flood in the present reckoning runs from the seventeenth day of the
+    second month of one year to the twenty-seventh day of the second month of the
+    next.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage refers to Noah’s exit being assigned to the twenty-seventh rather
+    than the seventeenth day of the second month.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Noah
+  description: A named figure whose exit after the flood is dated in the calendrical
+    discussion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: figure whose flood exit is dated
+  assigned_to:
+  - fig:1
+  basis: The passage refers to “Noah’s exit” and discusses why it is assigned to a
+    specific date.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: 364-day year
+  literal_form: A year of 364 days, consisting of exactly 52 weeks.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sabbath as seventh day
+  literal_form: The Sabbath as the seventh day of each of the 52 weeks.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: flood waters
+  literal_form: Waters of the flood, later described as dried up.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mountain tops
+  literal_form: Mountain tops appearing during the flood chronology.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fixed sacred calendar
+  summary: A 364-day, 52-week year is described as a way to keep Sabbaths and major
+    festivals fixed on the same weekdays and month-days each year.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Flood chronology
+  summary: 'The passage lists dated stages of the flood: its beginning, climax, the
+    appearance of mountain tops, the drying of the waters, the dry earth, and Noah’s
+    exit.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Flood chronology and renewal of dry earth
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage explicitly discusses the flood, gives its chronological stages,
+    and ends the sequence with waters dried and earth dry.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is primarily calendrical commentary rather than a full flood
+    narrative.
+- id: motif:2
+  label: Fixed sacred annual cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage presents a 364-day year designed to keep Sabbaths and festivals
+    recurring on fixed days from year to year.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a calendrical pattern; the passage does not present it as a mythic
+    seasonal drama.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the flood duration in the present reckoning
+    with a Babylonian flood account, noting that the Babylonian account lasted one
+    year while the present chronology runs from the second month of one year to the
+    second month of the next.
+  claim_level: same_motif
+  target: Babylonian flood account
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the flood duration is compared; the passage gives no detailed
+    narrative parallels and makes no explicit historical-contact claim.
+- id: claim:2
+  claim: The passage states that the flood chronology in the Priestly narrative of
+    Genesis presupposes a 364-day year in the same connection as the present text.
+  claim_level: same_function
+  target: Priestly flood chronology in Genesis
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns calendrical function within flood chronology,
+    not the full narrative structure.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8866-8881
+  quote_or_summary: A 364-day year is described as exactly 52 weeks, making it possible
+    for each year to begin on the same weekday and for the Sabbath to remain the seventh
+    day of each week.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized by extractor.
+- id: ev:2
+  type: summary
+  locator: lines 8881-8893
+  quote_or_summary: 'The passage gives festival examples under this reckoning: Passover
+    on Nisan 14 as a Sabbath, wave-sheaf on Nisan 22 as Sunday, and feast of weeks
+    on Sivan 15 as Sunday.'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized by extractor.
+- id: ev:3
+  type: summary
+  locator: lines 8902-8910
+  quote_or_summary: The passage says the discussion of the year’s length is connected
+    with the flood account and that the Priestly Genesis narrative presupposes a 364-day
+    year in the same connection.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized by extractor.
+- id: ev:4
+  type: summary
+  locator: lines 8910-8921
+  quote_or_summary: 'The flood epochs are listed: beginning on the seventeenth day
+    of the second month, climax on the seventeenth day of the seventh month, mountain
+    tops appearing in the tenth month, waters dried up on the first day of the first
+    month, and earth dry on the twenty-seventh day of the second month.'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized by extractor.
+- id: ev:5
+  type: summary
+  locator: lines 8922-8928
+  quote_or_summary: The passage says the Babylonian flood account lasted one year,
+    while the present flood chronology runs from the seventeenth day of the second
+    month of one year to the twenty-seventh day of the second month of the next.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized by extractor.
+- id: ev:6
+  type: summary
+  locator: lines 8931-8939
+  quote_or_summary: The passage explains Noah’s exit date as the twenty-seventh rather
+    than the seventeenth day of the second month, in relation to a ten-day adjustment
+    between lunar and solar reckoning.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; summarized by extractor.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a calendrical note with OCR artifacts and only limited narrative
+    content. Flood-related motifs and comparisons are explicit but compressed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or objects beyond those explicitly mentioned or directly described in the supplied passage were added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l8866-l8939
+  passage_sha256=99dc39bf7d8c817bf1ecd4ea3f836dd42e486d8dec88be92dfa2e5d9f3c2134b
+

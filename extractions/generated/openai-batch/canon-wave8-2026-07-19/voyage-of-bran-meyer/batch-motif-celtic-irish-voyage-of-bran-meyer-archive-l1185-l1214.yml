@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l1185-l1214
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: INTRODUCTION / X THE VOYAGE OF BRAN / KUNO MEYER. / THE VOYAGE OF BRAN SON
+    OF FEBAL; lines 1185-1214
+  start: '1185'
+  end: '1214'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: his wanderings are not known
+  summary: A scholarly note discusses possible identifications of a place connected
+    with Bran, Mag Mell, Kerry, Lough Foyle, and dindsenchas evidence. A quatrain
+    mentions Nechtan, Collbran's son, age, and pure or holy water. The narrative then
+    says Bran told the gathered people all his wanderings, wrote the quatrains in
+    Ogam, bade farewell, and afterward his wanderings were unknown.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note says there are two places of the same name, one in west Kerry and
+    one near the entrance to Lough Foyle.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says ancient Irish people imagined Mag Mell to be in the south or
+    south-west of Ireland and reasons that Bran coming from there would naturally
+    arrive in Kerry.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note mentions Bran's connection with Lough Foyle, which is said to be
+    named from his father Febal.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The note says Srub Brain is explained as meaning 'Raven's Stream' in dindsenchas
+    material.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A note identifies Collbran's son as Nechtan mac Collbrain.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The quatrain says it was folly for Collbran's son to lift his hand against
+    age without anyone casting a wave of pure water over Nechtan.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:7
+  text: Bran told the gathered people all his wanderings from the beginning until
+    that time.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Bran wrote the quatrains in Ogam.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Bran bade the people farewell, and from that hour his wanderings are not known.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Bran son of Febal
+  description: Voyager who tells the gathered people all his wanderings, writes quatrains
+    in Ogam, and bids farewell.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Febal
+  description: Named as Bran's father in a note connected with Lough Foyle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Nechtan mac Collbrain / Collbran's son
+  description: Named in a note and quatrain as Collbran's son; the quatrain says pure
+    water was not cast over him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: people of the gathering
+  description: The audience to whom Bran tells his wanderings before bidding farewell.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: returning wanderer and narrator
+  assigned_to:
+  - fig:1
+  basis: Bran tells the gathered people all his wanderings from the beginning until
+    that time.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: inscriber of Ogam quatrains
+  assigned_to:
+  - fig:1
+  basis: The passage says Bran wrote the quatrains in Ogam.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named father
+  assigned_to:
+  - fig:2
+  basis: The note says Lough Foyle is connected with Bran's father Febal.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: subject of water rite reference
+  assigned_to:
+  - fig:3
+  basis: The quatrain refers to pure water not being cast over Nechtan, Collbran's
+    son.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: receiving audience
+  assigned_to:
+  - fig:4
+  basis: Bran tells the people of the gathering his wanderings and then bids them
+    farewell.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: pure or holy water
+  literal_form: wave of pure water; glossed as holy water
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Ogam writing
+  literal_form: quatrains written in Ogam
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Mag Mell as located otherworld place
+  literal_form: Mag Mell imagined in the south or south-west of Ireland
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Srub Brain / Raven's Stream
+  literal_form: place-name explained as 'Raven's Stream'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Scholarly localization of Bran's place of arrival
+  summary: The note weighs whether the relevant place-name refers to a site in west
+    Kerry or near Lough Foyle, using Mag Mell's imagined direction, Bran's link with
+    Febal, and dindsenchas references.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Quatrain on Nechtan, age, and pure water
+  summary: The quatrain says Collbran's son acted foolishly toward age and that no
+    wave of pure water was cast over Nechtan; the note glosses the water as holy water.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Bran recounts, writes, and departs
+  summary: Bran recounts all his wanderings to the gathered people, writes the quatrains
+    in Ogam, bids farewell, and his later wanderings are unknown.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: returning voyager recounts his wanderings before departure
+  taxonomy_refs:
+  - return
+  - departure
+  basis: Bran tells the gathered people all his wanderings, records quatrains, bids
+    farewell, and then disappears from known narrative.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only the closing report and does not include the earlier
+    journey episodes.
+- id: motif:2
+  label: otherworld journey mapped onto real geography
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The note connects Mag Mell's imagined location south or south-west of Ireland
+    with Bran's arrival at a real place, while also considering Lough Foyle and Kerry
+    identifications.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a scholarly localization note; it does not narrate Mag
+    Mell directly in this excerpt.
+- id: motif:3
+  label: ritual water associated with age or protection
+  taxonomy_refs: []
+  basis: The quatrain mentions the folly of lifting a hand against age without a wave
+    of pure water being cast over Nechtan, and a note glosses pure water as holy water.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The immediate narrative context for the action is not included, so the
+    rite's function remains uncertain.
+- id: motif:4
+  label: knowledge of the journey preserved in special writing
+  taxonomy_refs:
+  - wisdom
+  basis: Bran writes the quatrains in Ogam after telling all his wanderings to the
+    gathering.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the contents or intended use of the Ogam
+    inscription beyond recording the quatrains.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously links the Bran voyage material with dindsenchas place-lore
+    by discussing Srub Brain, its meaning as 'Raven's Stream,' and Kerry place references
+    in the Rennes Dindsenchas.
+  claim_level: same_function
+  target: Irish dindsenchas place-name traditions concerning Srub Brain and Kerry
+    locations
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on the scholarly note in the passage; it does not
+    demonstrate a shared narrative episode beyond place-name localization.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1185-1197
+  quote_or_summary: A note reports two possible places of the same name, one in west
+    Kerry and one near Lough Foyle; says Mag Mell was imagined south or south-west
+    of Ireland; links Lough Foyle to Bran's father Febal; and discusses dindsenchas
+    evidence for Srub Brain, 'Raven's Stream,' and Kerry references.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1199-1205
+  quote_or_summary: A note identifies Collbran's son as Nechtan mac Collbrain. The
+    quatrain says Collbran's son showed great folly in lifting his hand against age,
+    with no wave of pure water cast over Nechtan.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 1207-1213
+  quote_or_summary: Bran told the gathering all his wanderings, wrote the quatrains
+    in Ogam, bade farewell, and 'from that hour his wanderings are not known.'
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: '1214'
+  quote_or_summary: A note glosses the pure water as holy water.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif identification is partly limited
+    because the excerpt is a closing narrative segment plus scholarly notes rather
+    than the full voyage episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage text and metadata. Taxonomy references were limited to available motif families and symbols.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l1185-l1214
+  passage_sha256=69c0d26f03aabac6834f53f6c98cb5ce98727c77360a7742e073609a6917de28
+

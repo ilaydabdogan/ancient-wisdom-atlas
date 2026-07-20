@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l7020-l7064
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: SUPERSTITION / CHAPTER XVII / RESCUE OF A CHILD / RESCUE OF A CHILD; lines
+    7020-7064
+  start: '7020'
+  end: '7064'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: our custom is to place it in the grave with the mother.
+  summary: The narrator gives water to a dying woman, argues unsuccessfully against
+    her burial while she is still breathing, and then opposes the father and other
+    men when they prepare to place her living three-month-old child in the grave with
+    her according to their stated custom. Fire is placed in the woman's grave, and
+    the narrator threatens the men with the wrath of Higher Powers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator procures a drink of water for the woman, which annoys others
+    present.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two men arrive with a pole and announce that the grave is ready near sunset.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator argues against the woman's burial because she is still alive,
+    while the men, including her husband, want to proceed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Before burial, the woman appears unconscious but is still breathing.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The woman is carried off and buried without mutilation, with fire placed in
+    the grave.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A three-month-old child has been left in a hammock in the village.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The father and another man come and prepare to carry the child away.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The father states that the custom is to place the child alive in the grave
+    with the mother.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The narrator opposes the action, and other men become angry and threatening.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The narrator threatens the men with the wrath of Higher Powers.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: First-person observer who gives water to the woman, protests the burial,
+    soothes the child, opposes the child's removal, and invokes Higher Powers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Dying woman / mother
+  description: A woman described as unconscious but breathing; she is buried and is
+    the mother of the three-month-old child.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Three-month-old child
+  description: Infant left in a hammock and intended, according to the father's statement,
+    to be placed alive in the grave with the mother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Husband / father
+  description: The woman's husband and the child's father; part of the burial party
+    and speaker who identifies the child burial as customary.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Burial-party men
+  description: Men who prepare the grave, bring a pole, seek to proceed with the burial
+    rites, inquire about delay, and become angry and threatening.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:7
+roles:
+- id: role:1
+  label: intervening observer
+  assigned_to:
+  - fig:1
+  basis: The narrator gives water, protests the woman's burial, opposes the child's
+    removal, and invokes Higher Powers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+- id: role:2
+  label: dying mother
+  assigned_to:
+  - fig:2
+  basis: The woman is still breathing before burial and is identified as the mother
+    of the infant.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: endangered infant
+  assigned_to:
+  - fig:3
+  basis: The infant is to be placed alive in the grave with the mother according to
+    the stated custom.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: custom-asserting father
+  assigned_to:
+  - fig:4
+  basis: The father prepares to carry off the infant and states the custom of placing
+    it in the grave with its mother.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: burial enforcers
+  assigned_to:
+  - fig:5
+  basis: The men prepare and press forward the burial and later become angry and threatening
+    when opposed.
+  evidence_refs:
+  - ev:2
+  - ev:7
+symbols:
+- id: sym:1
+  label: water given to dying woman
+  literal_form: drink of water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire placed in grave
+  literal_form: fire in the grave
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: grave for mother and intended child
+  literal_form: grave
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Burial of the still-breathing woman
+  summary: Near sunset, men announce that the grave is ready; the narrator argues
+    that the woman is still alive, but she is carried off and buried with fire in
+    the grave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Planned removal of the infant
+  summary: The narrator returns to the village to soothe the three-month-old child
+    in a hammock, then the father and another man arrive intending to carry the child
+    away.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Dispute over placing the infant in the grave
+  summary: The father says the custom is to place the child alive in the mother's
+    grave; the narrator resists, other men become threatening, and the narrator invokes
+    the wrath of Higher Powers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Burial of a person who is not yet dead
+  taxonomy_refs: []
+  basis: The narrator reports that the woman is unconscious but still breathing and
+    is nevertheless carried off and buried.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The account is an outsider ethnographic narration and gives no indigenous
+    explanation for the practice in this excerpt.
+- id: motif:2
+  label: Living infant placed with deceased mother
+  taxonomy_refs: []
+  basis: The father states that the local custom is to place the infant in the grave
+    with the mother and confirms that this is done while the infant is alive.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage reports the custom through dialogue but does not provide a
+    fuller ritual rationale.
+- id: motif:3
+  label: Fire deposited in grave
+  taxonomy_refs: []
+  basis: The woman is buried without mutilation, and fire is placed in the grave.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the meaning or function of the fire.
+- id: motif:4
+  label: Intervention against ritualized child death
+  taxonomy_refs: []
+  basis: The narrator makes a stand against placing the child in the grave and continues
+    opposing the men despite their threatening attitude.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The excerpt shows opposition and threat but does not include the final
+    outcome of the child rescue.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7020-7064, opening fragment
+  quote_or_summary: The narrator procures a drink of water for the woman, to the annoyance
+    of the others.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 7020-7064, paragraph beginning 'Presently two men drew near'
+  quote_or_summary: Two men bring a pole and announce the grave is ready; the narrator
+    protests burial because the woman is still alive, while the men, including her
+    husband, want to proceed.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 7020-7064, paragraph beginning 'Presently two men drew near'
+  quote_or_summary: She appeared to be quite unconscious, but was still breathing.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 7020-7064, paragraph beginning 'Presently two men drew near'
+  quote_or_summary: burying her without mutilation, and only placing fire in the grave.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 7020-7064, paragraph beginning 'I did not wait at the grave-side'
+  quote_or_summary: The narrator returns to the village to soothe the three-month-old
+    child left in a hammock; the father and another man appear and prepare to carry
+    the child off.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 7020-7064, dialogue after 'You surely will not kill the infant?'
+  quote_or_summary: our custom is to place it in the grave with the mother.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 7020-7064, paragraph beginning 'However, I made a bold stand'
+  quote_or_summary: The narrator opposes the proceeding; other men arrive, become
+    extremely angry, and assume a threatening attitude.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:8
+  type: quote
+  locator: lines 7020-7064, final sentence of supplied passage
+  quote_or_summary: I threatened them with the wrath of Higher Powers
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the reported actions and dialogue. Motif
+    labels are cautious because the passage is an outsider ethnographic account and
+    supplies little indigenous interpretation. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage contains value-laden language from the source narrator; this extraction uses neutral wording where possible and separates reported actions from interpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l7020-l7064
+  passage_sha256=c85d7142658a8084fdd47a467f26cd64928240ff2298aca26bb6507647f8bf5b
+

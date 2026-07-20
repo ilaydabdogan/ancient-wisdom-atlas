@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2546-l2578
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: LEADER. / AGAVE. / LEADER. / AGAVE.; lines 2546-2578
+  start: '2546'
+  end: '2578'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Bless the spoils of the Lion!”"
+  summary: Agave anticipates praise from the land and from Pentheus, whom the Leader
+    identifies as her child. She speaks gladly of strange treasure, a strange taking,
+    dawn over the land, and the prize of her hand.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Agave says that the land will soon praise.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Leader asks about Pentheus and identifies him as Agave’s child.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Agave says that he will call on her name and bless the spoils of the Lion.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Leader calls Agave’s treasure strange.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Agave says that the taking was strange.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When asked whether she is glad, Agave answers that she is glad beyond measure.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Agave connects her gladness with dawn over the land and with the prize of
+    her hand.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agave
+  description: Speaker who anticipates praise, answers the Leader, and describes a
+    strange taking, treasure, and prize.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Leader
+  description: Interlocutor who questions Agave about Pentheus, comments on her treasure,
+    and asks whether she is glad.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Pentheus
+  description: Named by the Leader and identified as Agave’s child; the following
+    reply speaks of him as one who will call on Agave’s name.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: speaker anticipating praise
+  assigned_to:
+  - fig:1
+  basis: Agave says the land will praise and that another will call on her name.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: mother
+  assigned_to:
+  - fig:1
+  basis: The Leader addresses Agave as “Mother” in relation to Pentheus.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: holder or taker of prize
+  assigned_to:
+  - fig:1
+  basis: Agave speaks of a strange taking, her treasure, and the prize of her hand.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: questioning interlocutor
+  assigned_to:
+  - fig:2
+  basis: The Leader asks about Pentheus and later asks whether Agave is glad.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: child
+  assigned_to:
+  - fig:3
+  basis: The Leader calls Pentheus Agave’s child.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: anticipated praiser
+  assigned_to:
+  - fig:3
+  basis: In answer to the question about Pentheus, Agave says that he will call on
+    her name and bless the spoils.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: spoils of the Lion
+  literal_form: "“spoils of the Lion”"
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: strange treasure
+  literal_form: treasure described as strange
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: strange taking
+  literal_form: taking described as strange
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: prize of my hand
+  literal_form: "“the prize, the prize of my hand”"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dawn over the land
+  literal_form: dawn breaking upon all the land
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Agave’s expected praise and the question of Pentheus
+  summary: Agave says the land will praise; the Leader asks about Pentheus as her
+    child; Agave replies that he will call on her name and bless the spoils of the
+    Lion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Strange treasure and gladness
+  summary: The Leader calls the treasure strange and asks whether Agave is glad. Agave
+    says the taking was strange and declares herself glad beyond measure because of
+    dawn over the land and the prize of her hand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: boast over a strange trophy or prize
+  taxonomy_refs: []
+  basis: Agave expects praise and speaks of spoils, treasure, taking, and the prize
+    of her hand; the Leader marks the treasure as strange.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage names the trophy-like object in several ways but does not
+    fully explain what it is within this excerpt.
+- id: motif:2
+  label: mother-child relation invoked during a trophy display
+  taxonomy_refs: []
+  basis: The Leader identifies Pentheus as Agave’s child immediately before Agave
+    speaks of him praising her and blessing the spoils of the Lion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt juxtaposes the child relationship and the spoils, but it does
+    not explicitly state the full relation between Pentheus and the prize.
+- id: motif:3
+  label: joy after a strange taking
+  taxonomy_refs: []
+  basis: Agave agrees that the taking was strange and declares herself glad beyond
+    measure.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level pattern rather than a matched taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2546-2553
+  quote_or_summary: 'Agave: “Ah, soon shall the land praise!” The Leader asks: “And
+    Pentheus, O Mother, / Thy child?”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 2555-2559
+  quote_or_summary: 'Agave says: “He shall cry on / My name as none other, / Bless
+    the spoils of the Lion!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 2561-2567
+  quote_or_summary: The Leader calls Agave’s treasure strange; Agave replies that
+    the taking was strange.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 2569-2578
+  quote_or_summary: The Leader asks whether Agave is glad; Agave answers that she
+    is glad beyond measure, citing dawn over the land and the prize of her hand.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and speaker labels are clear. Motif candidates are limited
+    to patterns directly visible in the excerpt; no external Bacchae context is used.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were not assigned because the excerpt does not directly support a listed motif family or symbol taxonomy item.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2546-l2578
+  passage_sha256=79c7672c836cda203542617c7395e6b1aa9afd4a1e9b155b8962a0ad7dd5c6a4
+

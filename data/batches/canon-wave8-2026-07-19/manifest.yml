@@ -1,0 +1,898 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: canon-wave8-2026-07-19
+created_at: '2026-07-19T23:16:24Z'
+updated_at: '2026-07-20T11:29:44Z'
+artifacts:
+  passages_path: data/batches/canon-wave8-2026-07-19/passages.jsonl
+  requests_index_path: data/batches/canon-wave8-2026-07-19/requests/index.yml
+  request_map_path: data/batches/canon-wave8-2026-07-19/request-map.jsonl
+  results_dir: data/batches/canon-wave8-2026-07-19/results
+  ingested_results_path: data/batches/canon-wave8-2026-07-19/ingested-results.jsonl
+  generated_extractions_dir: extractions/generated/openai-batch/canon-wave8-2026-07-19
+openai: {}
+state:
+  last_realtime_run_at: '2026-07-20T11:11:40Z'
+  realtime_concurrency: 48
+  last_ingest_at: '2026-07-20T11:29:44Z'
+pipeline: motif_extraction
+status: results_downloaded
+config:
+  segmentation:
+    glob:
+    text_paths:
+    - texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+    - texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+    - texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+    - texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+    - texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+    - texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+    - texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+    - texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+    - texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+    - texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+    - texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+    - texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+    - texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+    - texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+    - texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+    - texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+    - texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+    - texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+    - texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+    - texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+    - texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+    - texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+    - texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+    - texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+    - texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+    - texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+    - texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+    - texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+    - texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+    - texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-mythology-boas-tate.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+    - texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+    - texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+    - texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+    - texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+    - texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+    - texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md
+    - texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+    - texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+    - texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+    - texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md
+    - texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+    coverage_path:
+    coverage_statuses: []
+    coverage_priorities: []
+    max_source_texts:
+    max_chars: 6000
+    min_chars: 500
+    limit:
+  motif_request_generation:
+    model: gpt-5.5
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 16000
+    temperature:
+    reasoning_effort: high
+    max_requests_per_shard: 1000
+    max_bytes_per_shard: 188743680
+    skip_ingested_from_run_id: canon-wave8-2026-07-19
+counts:
+  source_texts_segmented: 45
+  passages: 7356
+  requests_prepared: 7356
+  request_shards: 8
+  skipped_ingested_requests: 0
+  ingested_records: 4974
+  failed_ingestions: 6
+source_texts:
+- path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  source_text_id: andamanese.aboriginal_inhabitants_andaman.man_archive
+  title: On the Aboriginal Inhabitants of the Andaman Islands
+  tradition: andamanese
+  culture: great_andamanese_aka_bea_ethnography_with_legends
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1885, US public domain. Recording context - Man spent over a
+      decade among the Great Andamanese and spoke Aka-Bea; his accounts of Puluga,
+      the flood, and origin legends are close paraphrase from named informants, the
+      earliest substantial Andamanese mythology on record. Predates and complements
+      Radcliffe-Brown.
+  sha256: 2996d950b81903b114a0e91d1d6fa591708405aa12d483c211de1a9fd97d18e1
+  passage_count: 107
+- path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  source_text_id: arctic_inuit.across_arctic_america.rasmussen_archive
+  title: 'Across Arctic America: Narrative of the Fifth Thule Expedition'
+  tradition: arctic_inuit
+  culture: iglulik_netsilik_caribou_copper_inuit_oral_traditions
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1927, now US public domain (95-year term expired). Recording
+      context - expedition narrative embedding many verbatim-translated songs, tales,
+      and shamanic testimony from named Iglulik, Netsilik, Caribou, and Copper Inuit
+      informants (Aua, Igjugarjuk, Orpingalik and others); separate the travel narrative
+      from the quoted native material during extraction.
+  sha256: 2a4fa7c7dab1fee76c37134bdc1b5313f9b7c0c8f398e7258b2b0671cda96e32
+  passage_count: 83
+- path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  source_text_id: arctic_inuit.eskimo_baffin_hudson_1.boas_archive
+  title: The Eskimo of Baffin Land and Hudson Bay, Part I
+  tradition: arctic_inuit
+  culture: baffin_hudson_bay_inuit_oral_traditions
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1901, US public domain. Recording context - Boas edited tales
+      and traditions taken down on the spot by long-resident collectors (Comer, Mutch,
+      Peck); large tale section is close to verbatim in English translation with informant-community
+      attribution. Extends the already-ingested Boas Central Eskimo to new Inuit groups.
+  sha256: 7f35edb3e0ba5ec2564eca216701d8dabaee587613e4af837fb2df671034aae1
+  passage_count: 112
+- path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
+  source_text_id: australian.more_australian_legendary_tales.parker_archive
+  title: More Australian Legendary Tales
+  tradition: australian_aboriginal
+  culture: yuwaalaraay_euahlayi_oral_traditions_settler_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1898, US public domain. Same colonial recording context as Parker's
+      1896 volume - settler-recorded Yuwaalaraay Dreaming narratives from a living
+      restricted-knowledge tradition; handle with provenance framing. OCR text includes
+      library front matter to strip.
+  sha256: 4eaa8b95711ccc000ad5b1ff088a23db5afe37017a082122fe5e82e07fae11d8
+  passage_count: 35
+- path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  source_text_id: buddhist.mahavamsa.geiger_archive
+  title: The Mahavamsa, or The Great Chronicle of Ceylon
+  tradition: buddhist
+  culture: sinhala_theravada_chronicle_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1912, US public domain. Geiger's introduction precedes the chronicle;
+      extraction should separate apparatus from text.
+  sha256: ebf1a501cc00b8b233efad515b681805b139560c0e37f741c753c46b715be125
+  passage_count: 145
+- path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  source_text_id: caucasian.folk_tales.dirr_menzies_archive
+  title: Caucasian Folk-Tales
+  tradition: caucasian
+  culture: caucasus_oral_tradition_early_20th_century_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1925 (London and New York), US public domain (pre-1930). Community-uploaded
+      scan rather than a library scan; verify completeness against the printed edition
+      at conversion.
+  sha256: 55b1e655512088fbd388eb41c698afe7a16cec0e1b7dac64e3512f2716e47f72
+  passage_count: 156
+- path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  source_text_id: celtic_irish.voyage_of_bran.meyer_archive
+  title: The Voyage of Bran, Son of Febal, to the Land of the Living
+  tradition: celtic_irish
+  culture: early_medieval_irish_voyage_literature
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/voyageofbransono01scuoft
+    training_use: allowed
+    full_text: allowed
+    notes: 1895 publication predates 1930 and is public domain in the USA. OCR text
+      requires cleanup; Old Irish facing text and scholarly essay should be separated
+      from the translation during conversion.
+  sha256: 6fce38bf7b2aab6e2b0966b7a12bec1cf94192058906dd854e6c1f4a17595c29
+  passage_count: 114
+- path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  source_text_id: south_american.unknown_people_unknown_land.grubb_archive
+  title: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  tradition: chaco_amerindian
+  culture: lengua_enxet_chaco_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1911, US public domain. Recording context - decades-long resident
+      fluent in Lengua; chapters on soul-beliefs, dreams, kilyikhama spirits, and
+      folklore are close paraphrase from informants within a missionary frame (handle
+      source-critically). Rare pre-1930 English record of an isolated Chaco lineage;
+      stands in for the unobtainable Tierra del Fuego target.
+  sha256: 696a1e03ac5d738eb8715d127580c41a4e4144704707d7940c2247fc83399514
+  passage_count: 236
+- path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  source_text_id: egyptian.amduat.egyptian_heaven_hell_v1_budge_archive
+  title: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  tradition: egyptian
+  culture: ancient_egyptian_funerary_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1905, US public domain. OCR text renders interspersed hieroglyphic
+      transcriptions as noise; the English translation and hour-by-hour descriptions
+      remain readable and should be extracted during conversion.
+  sha256: 2abc44a5e64171f2dd4ece959e7832471b1c7ef600f1ce77b9ec183fd8610ca1
+  passage_count: 60
+- path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  source_text_id: ethiopian.kebra_nagast.budge_archive
+  title: The Queen of Sheba and Her Only Son Menyelek (Kebra Nagast)
+  tradition: ethiopian_christian
+  culture: ethiopian_geez_national_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1922, US public domain (pre-1930). Budge's introduction precedes
+      the translation; extraction should separate apparatus from text.
+  sha256: 17f9dce41eefec8cbf9b31197c25acb6afd6d4d6327175a12105ffa02b7daf52
+  passage_count: 123
+- path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  source_text_id: south_american.among_indians_guiana.im_thurn_archive
+  title: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic from the
+    Interior of British Guiana'
+  tradition: guiana_amerindian
+  culture: arawak_carib_warrau_ethnography_with_legends
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1883, US public domain. Recording context - firsthand ethnography
+      with chapters on animism, kenaima, and spirit beliefs plus paraphrased legends;
+      NOT verbatim texts. Complements the already-ingested Roth and Brett Guiana volumes
+      with earlier independent field observation.
+  sha256: 45338e5b8bc8ce8ba2176860b6367d370411276cba87212376b035f56d083753
+  passage_count: 176
+- path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  source_text_id: south_american.legends_myths_british_guiana.brett_archive
+  title: Legends and Myths of the Aboriginal Indians of British Guiana
+  tradition: guiana_amerindian
+  culture: guiana_amerindian_oral_traditions_missionary_verse_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1880, US public domain. Heavy mediation caveat - Brett was a
+      missionary who rendered the legends he collected into English verse; narrative
+      content is valuable but form and diction are entirely his. Cross-check motifs
+      against Roth's more literal 1915 corpus before relying on details.
+  sha256: 421e96823d15e49019993958c4e8de9b4628216cfcba903f58d43a98cb51c7ef
+  passage_count: 74
+- path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  source_text_id: hermetic.corpus_hermeticum.mead_archive
+  title: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  tradition: hermetic
+  culture: greco_egyptian_hermetism
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/thricegreatesth02meadgoog
+    training_use: allowed
+    full_text: allowed
+    notes: 1906 publication predates 1930 and is public domain in the USA; Google
+      scan header notes the book has entered the public domain. OCR text requires
+      cleanup of commentary and apparatus during conversion.
+  sha256: 68bec51a7ca9048d6e8e0bcb59917eafc8d510c43c7ccf6b025cc06926231df1
+  passage_count: 195
+- path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
+  source_text_id: native_american.traditions_of_the_hopi.voth_archive
+  title: The Traditions of the Hopi
+  tradition: hopi
+  culture: hopi_oral_traditions_ethnographic_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1905, US public domain. Significant cultural sensitivity - Voth,
+      a missionary, documented Hopi narratives and ceremonies in ways the Hopi have
+      long objected to, including material considered esoteric. Handle with explicit
+      provenance caveats; prefer non-ceremonial narrative tales for extraction and
+      flag contested material.
+  sha256: 55b11a86798f01c26395c5d8ad62fa562114ecf9aa04270d3c6fe23bb249df6a
+  passage_count: 165
+- path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  source_text_id: jewish.jubilees.charles_archive
+  title: The Book of Jubilees, or, The Little Genesis
+  tradition: jewish_pseudepigrapha
+  culture: second_temple_jewish_rewritten_scripture
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/cu31924060029984
+    training_use: allowed
+    full_text: allowed
+    notes: Item page states no known copyright restrictions in the United States;
+      1902 publication predates 1930. OCR text requires cleanup of scholarly apparatus
+      and footnotes during conversion.
+  sha256: 3583e5077cc093d40e4561711625a363bef73808541fca8fe9c59fba76ac3554
+  passage_count: 180
+- path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  source_text_id: malagasy.madagascar_before_conquest.sibree_archive
+  title: 'Madagascar Before the Conquest: The Island, the Country, and the People'
+  tradition: malagasy
+  culture: merina_betsileo_malagasy_folklore_and_ideas
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1896, US public domain. Recording context - chapters on folk-lore,
+      proverbs, ideas of the supernatural, and native oratory summarize material Sibree
+      and colleagues collected in Malagasy over three decades; paraphrase and translated
+      excerpts rather than full verbatim tales. Best available pre-1930 English Malagasy
+      folklore monograph (satisfies the Malagasy retry).
+  sha256: 819a4337c2c7686f482b444b04fb9491e273ffa805d867192d8e9828b893b0ea
+  passage_count: 174
+- path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  source_text_id: melanesian.melanesians_british_new_guinea.seligman_archive
+  title: The Melanesians of British New Guinea
+  tradition: melanesian
+  culture: massim_koita_motu_papuan_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1910, US public domain. Recording context - systematic field
+      ethnography with legend and spirit-belief chapters for several distinct coastal
+      Papuan groups; myth material is close paraphrase with group attribution, not
+      verbatim texts. Complements the already-ingested Codrington (island Melanesia)
+      with mainland New Guinea traditions.
+  sha256: 2a509f6a34484790978c20d23f01f9be0c0e9a0b57272736e9ae73ad4a9b6c62
+  passage_count: 424
+- path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  source_text_id: mesopotamian.rogers.cuneiform_parallels_archive
+  title: Cuneiform Parallels to the Old Testament
+  tradition: mesopotamian
+  culture: ancient_mesopotamian_anthology_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1912, US public domain. Hosted file is OCR text of a library
+      scan; includes transliterations alongside translations, so conversion should
+      target the English translation sections.
+  sha256: 834576cbb81c3f25ff74acdca0803a4acef0240f9918115b06dab2b20cbe203e
+  passage_count: 206
+- path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
+  source_text_id: mesopotamian.gilgamesh.epic_thompson_archive
+  title: The Epic of Gilgamish
+  tradition: mesopotamian
+  culture: ancient_mesopotamian_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1928 (pre-1930), so US public domain since 2024. Hosted file
+      is OCR text of a Google Books library scan; expect OCR noise and scan-frontmatter
+      that will need cleanup during conversion.
+  sha256: a3a7ce5bda1db12c3784b48880b7eed34dfdca527ede052b2dbe21d2d2273ed8
+  passage_count: 24
+- path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  source_text_id: micronesian.caroline_islands.christian_archive
+  title: 'The Caroline Islands: Travel in the Sea of the Little Lands'
+  tradition: micronesian
+  culture: pohnpei_yap_caroline_islands_traditions
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1899, US public domain. Recording context - Polynesian-languages
+      scholar traveling resident; records Pohnpei cosmogony, Nan-Matal (Nan Madol)
+      legends, deity lists, and folk-tales alongside travel narrative and vocabularies;
+      legend material is paraphrase with some translated passages. Satisfies the Micronesia
+      retry - one of the only pre-1930 English sources with real Carolinian myth content.
+  sha256: 74d744e577416e7072ccbfe93c9b1612918af110521a7d68e452b5feb0c91cf3
+  passage_count: 132
+- path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  source_text_id: micronesian.island_of_stone_money.furness_archive
+  title: 'The Island of Stone Money: Uap of the Carolines'
+  tradition: micronesian
+  culture: yapese_traditions_and_religion
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1910, US public domain. Recording context - chapters on Yapese
+      religion, afterlife (falraman), creation legends, and folk-tales collected through
+      a resident interpreter; short residence, paraphrased narratives - treat as secondary-grade
+      field record. Pairs with Christian for the Micronesia target.
+  sha256: 38365108188ff6cd584747f4b0fe19ed255701a8771be2bb606a717bfaa42f14
+  passage_count: 89
+- path: texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md
+  source_text_id: central_asian.gessar_khan.zeitlin_archive
+  title: Gessar Khan
+  tradition: mongol
+  culture: mongolian_gesar_epic_literary_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1927 in the US, public domain. Mediation caveat - this is a literary
+      English retelling based on Schmidt's 1839 German translation of the Mongolian
+      Geser xylograph, not a field-recorded oral text; treat as reception of the epic,
+      two removes from performance. The Geser/Gesar tradition also remains a living
+      sacred epic in Tibet and Mongolia.
+  sha256: 61d863739c27a8ff6c0e01aea8c73cbbfc10195c082baff001e8418369a66361
+  passage_count: 42
+- path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  source_text_id: native_american.chippewa_music_1.densmore_archive
+  title: Chippewa Music
+  tradition: native_american_great_lakes
+  culture: ojibwe_midewiwin_song_tradition
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - phonograph-recorded
+      songs from named singers with Ojibwe words and English translations, centered
+      on Midewiwin (Grand Medicine Society) ceremonial songs; song texts are verbatim,
+      surrounding analysis is musicological.
+  sha256: f52f051f3a1555c732fd3258d77cc2beee06cc1c5153ce8b0d4313d58aac6365
+  passage_count: 199
+- path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  source_text_id: native_american.chippewa_music_2.densmore_archive
+  title: Chippewa Music II
+  tradition: native_american_great_lakes
+  culture: ojibwe_dream_and_war_song_tradition
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - continuation
+      of Bulletin 45 with war songs, dream songs, love songs, and moccasin game songs;
+      bilingual song texts verbatim from named singers.
+  sha256: c34bd943fc1b7e199811925b5a64b58aa26e95b78cd4f64e366b8e3edf11c64c
+  passage_count: 188
+- path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  source_text_id: native_american.seneca_fiction_legends_myths.curtin_hewitt_archive
+  title: Seneca Fiction, Legends, and Myths
+  tradition: native_american_northeast_woodlands
+  culture: seneca_iroquois_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - large
+      corpus (over 100 narratives) taken down in the field from named Seneca tellers;
+      Hewitt was a native Iroquoian speaker; English renderings close to dictation.
+      Google-scan OCR - check hyphenation artifacts.
+  sha256: dbd3c1cbc2b2211b8feb7910c3b0deba1572115aa877a0fe110698c0f77c7bc7
+  passage_count: 386
+- path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-mythology-boas-tate.md
+  source_text_id: native_american.tsimshian_mythology.boas_tate_archive
+  title: Tsimshian Mythology
+  tradition: native_american_northwest_coast
+  culture: tsimshian_texts_recorded_by_native_writer
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - near-verbatim;
+      the myths were written down in Tsimshian by a native Tsimshian writer (Tate)
+      and translated by Boas, with an exhaustive comparative-motif appendix. Very
+      large volume (~1000 pages, 3.5 MB OCR).
+  sha256: 84d363ea3a9bcfe4c2fe28b7c86892073ff80dce3162d50b5755e9e13c14d520
+  passage_count: 168
+- path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  source_text_id: native_american.myths_traditions_crow.lowie_archive
+  title: Myths and Traditions of the Crow Indians
+  tradition: native_american_plains
+  culture: crow_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1918, US public domain. Recording context - texts collected through
+      interpreters from named narrators over nine field seasons, translations close
+      to dictation; Old Man Coyote creation cycle, Lodge Boy and Thrown Away, and
+      vision-quest origin narratives.
+  sha256: c80faa37a0a1ae2bdf1400f6bc1b79439740773021075a86c315822ee3efb114
+  passage_count: 155
+- path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  source_text_id: native_american.teton_sioux_music.densmore_archive
+  title: Teton Sioux Music
+  tradition: native_american_plains
+  culture: lakota_ceremonial_song_tradition
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - Sun
+      Dance, dream society, sacred stone, and healing songs recorded from named Lakota
+      singers with Lakota words and English translations; includes first-person vision
+      narratives by the singers - exceptional experiential material.
+  sha256: a8ac6ef3a03382e77e1e9f28e18c4f325c4d2ca2646bd5880f75045519c1fe27
+  passage_count: 346
+- path: texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md
+  source_text_id: native_american.jicarilla_apache_texts.goddard_archive
+  title: Jicarilla Apache Texts
+  tradition: native_american_southwest
+  culture: jicarilla_apache_verbatim_texts
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1911, US public domain. Recording context - Athabaskan texts
+      taken by dictation with facing English translation by the leading Athabaskanist
+      of the period; emergence myth, culture-hero cycle, and coyote stories.
+  sha256: 610a2f30ecab58fda905ba62f35d135337cba6d47e4455331b459d1fab5b6ab7
+  passage_count: 43
+- path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  source_text_id: native_american.pima_indians.russell_archive
+  title: The Pima Indians
+  tradition: native_american_southwest
+  culture: akimel_oodham_ethnography_with_myths_and_songs
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - includes
+      the Pima creation myth cycle taken from Thin Leather and other narrators plus
+      a large corpus of translated song texts; myths recorded through interpreters,
+      close paraphrase with some verbatim songs.
+  sha256: 1235038b4806879c403c66061f6d5bab27a0dab81a3c191cb084353ee9d9673e
+  passage_count: 169
+- path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  source_text_id: native_american.the_sia.stevenson_archive
+  title: The Sia
+  tradition: native_american_southwest
+  culture: zia_keresan_pueblo_cosmology_and_ritual
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - cosmogony
+      and creation narratives, rain and snake society rituals, and cult ceremonials
+      of a small Keresan pueblo; translated narrative close to dictation with paraphrased
+      ceremony description.
+  sha256: f746a3a54b3919e93ec176017065b5b7ab44058f1c446e4b29e0744a46d869b6
+  passage_count: 415
+- path: texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md
+  source_text_id: native_american.tusayan_migration_traditions.fewkes_archive
+  title: Tusayan Migration Traditions
+  tradition: native_american_southwest
+  culture: hopi_clan_migration_traditions
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - clan-by-clan
+      migration legends from named informants; close paraphrase of elder testimony
+      rather than interlinear verbatim text; complements Voth's Traditions of the
+      Hopi already in the corpus.
+  sha256: 67f5dcbd85c4560318a4c2a0eebc38b2067f25db8e3b75860a969807b9d629d1
+  passage_count: 39
+- path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  source_text_id: native_american.zuni_indians.stevenson_archive
+  title: 'The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies'
+  tradition: native_american_southwest
+  culture: zuni_ceremonial_ethnography_with_ritual_texts
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - two
+      decades of resident observation; creation myths, kiva ritual, esoteric fraternity
+      ceremonies with many translated prayer and song texts embedded in detailed ethnography;
+      mixture of verbatim ritual text and close paraphrase. Very large volume (~600
+      pages).
+  sha256: c969ea2f699877220390630881e95e7bf61599b1e5077866bb3cae8b9506fd11
+  passage_count: 385
+- path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  source_text_id: african.specimens_of_bushman_folklore.bleek_lloyd_archive
+  title: Specimens of Bushman Folklore
+  tradition: san
+  culture: xam_san_oral_traditions_verbatim_colonial_record
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1911, US public domain. Serious ethical recording context - the
+      |Xam narrators (including ||Kabbo and Han-kasso) were prisoners and ex-prisoners
+      of the Cape Colony living in the Bleek household; the |Xam language and community
+      were subsequently destroyed, making this near-verbatim bilingual record both
+      irreplaceable and inseparable from colonial violence. Present with full provenance
+      and narrator attribution. Use English columns; |Xam orthography OCR is unusable.
+  sha256: 0663c376a53268881b750dd28febd7b369849e2a1fdfc5f31ac5fc3aaec7f5e9
+  passage_count: 115
+- path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  source_text_id: siberian.koryak_texts.bogoras_archive
+  title: Koryak Texts
+  tradition: siberian
+  culture: koryak_oral_traditions_verbatim_ethnographic_record
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1917, US public domain. Recording context - Bogoras recorded
+      these texts verbatim from named Koryak narrators during the Jesup Expedition;
+      interlinear Koryak with facing English translation makes this unusually faithful,
+      but it remains an outsider-published record of a living tradition. OCR of the
+      Koryak-language portions is noisy - use the English translations.
+  sha256: f5b48e275a2b21f6ccaa7056e9864e51eafc50462476fca70a8920b43b126ec0
+  passage_count: 16
+- path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  source_text_id: siberian.tales_of_yukaghir_lamut.bogoras_archive
+  title: Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia
+  tradition: siberian
+  culture: yukaghir_lamut_oral_traditions_ethnographic_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1918, US public domain. Recording context - collected by Bogoras
+      during Siberian exile and the Jesup Expedition from small, now critically endangered
+      language communities; the Russianized-native tales show Russian contact influence
+      and should be flagged separately from the Yukaghir and Lamut material when making
+      isolation claims.
+  sha256: 9612940f02dd58e0a9250c4fae440dd83e8adb1913ba87839f58f0257e312e35
+  passage_count: 74
+- path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  source_text_id: sikh.sikh_religion.macauliffe_v1_archive
+  title: 'The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1'
+  tradition: sikh
+  culture: sikh_scripture_and_hagiography_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1909, US public domain. Volume 1 of 6 covers the life of Guru
+      Nanak and translates the Japji and many Adi Granth hymns; hagiographic narrative
+      interleaves with scripture translation and extraction should distinguish them.
+  sha256: 9c72af00c7249ecdd6c11514406b1aaefbb560de226ed11e95dda09b0da3ff96
+  passage_count: 169
+- path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  source_text_id: slavic.epic_songs_of_russia.hapgood_archive
+  title: The Epic Songs of Russia
+  tradition: slavic
+  culture: russian_oral_epic_tradition
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/details/epicsongsofrussi00hapguoft
+    training_use: allowed
+    full_text: allowed
+    notes: 1886 publication predates 1930 and is public domain in the USA. OCR text
+      requires cleanup during conversion.
+  sha256: 649e3fcc901331d71fccbef14542ec2865e287870ea4756bc3e25764358aca0e
+  passage_count: 98
+- path: texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+  source_text_id: sufi.attar.bird_parliament_fitzgerald_archive
+  title: Bird Parliament
+  tradition: sufi
+  culture: persian_sufi_later_english_verse_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: FitzGerald's translation published 1889, US public domain. The hosted item
+      is a 2015 re-typesetting of the public-domain translation text (verbatim reproduction,
+      no new copyrightable translation content); the same item also contains a separate
+      Persian-text file which should be ignored.
+  sha256: 19780bc52bcd1f097ad7402dfcc3e9e076d890d308d6a017da519c78317e3548
+  passage_count: 12
+- path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  source_text_id: sufi.rumi.masnavi_whinfield_archive
+  title: 'Masnavi i Ma''navi: Teachings of Rumi'
+  tradition: sufi
+  culture: persian_sufi_later_english_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Whinfield's translation was published 1887/1898 (pre-1930), US public domain;
+      the scanned printing is a straight reprint that adds no new copyright. OCR quality
+      verified as good. Abridged translation - selections from all six books with
+      linking prose summaries.
+  sha256: ebd8104722ad2d1cc609f2db36a775be5c05831409d942d4f710768cb7158faf
+  passage_count: 139
+- path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  source_text_id: zoroastrian.pahlavi.bundahis_west_archive
+  title: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  tradition: zoroastrian
+  culture: middle_persian_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1880, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  sha256: d12d398c89c6f0931b3dadc0ff8b027ac56ac06477d0c6da3489e07de8d062b1
+  passage_count: 275
+- path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  source_text_id: zoroastrian.avesta.vendidad_darmesteter_archive
+  title: 'The Zend-Avesta, Part I: The Vendidad'
+  tradition: zoroastrian
+  culture: ancient_iranian_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1880, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  sha256: fea45048576eca4377b00ba6fdbd015089f8806a70203730cccd9ef4543f0cb6
+  passage_count: 186
+- path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  source_text_id: zoroastrian.avesta.yasts_darmesteter_archive
+  title: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  tradition: zoroastrian
+  culture: ancient_iranian_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1883, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  sha256: 404ba09f6a9e6ec0ae7632345293fda243693c9a2200b05795ad0129da1139b1
+  passage_count: 188
+- path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  source_text_id: zoroastrian.avesta.yasna_gathas_mills_archive
+  title: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and Miscellaneous
+    Fragments'
+  tradition: zoroastrian
+  culture: ancient_iranian_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1887, US public domain. OCR text of a library scan; diacritics
+      are rendered inconsistently and will need cleanup during conversion.
+  sha256: 7d625d0a2c113b9098eaa7282d4200c7e591ea51fb5e6f743b2d23fa250f3105
+  passage_count: 273
+- path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  source_text_id: african.nursery_tales_zulus.callaway_archive
+  title: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own Words
+  tradition: zulu
+  culture: zulu_oral_traditions_missionary_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1868, US public domain. Recording context - Callaway was a missionary,
+      but he recorded narratives in Zulu from named narrators and printed the Zulu
+      text with facing English translation, making this one of the most faithful 19th-century
+      African collections; still a colonial-era publication of a living tradition.
+      Use the English columns; Zulu-language OCR is noisy.
+  sha256: 9f0dcb0123b543f6a879d967cbacfc91ce7d409e3ab8c40c99b779ab20e7cba6
+  passage_count: 266
+

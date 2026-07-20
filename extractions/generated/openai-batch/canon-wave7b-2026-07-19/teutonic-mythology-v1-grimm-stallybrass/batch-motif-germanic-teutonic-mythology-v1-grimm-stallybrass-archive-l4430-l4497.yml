@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l4430-l4497
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: BUILDINGS.  83 / BUILDINGS.  85 / TEMPLES.  87 / PRIESTS.  89; lines 4430-4497
+  start: '4430'
+  end: '4497'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses old Germanic terms for priests, sacrificing priests,
+    law-wardens, judges, and temple custodians; notes Christian loanwords for priestly
+    offices; and interprets Caesar’s statement about Germans lacking Druids and not
+    emphasizing sacrifices as a contrast with Gaul rather than proof that Germans
+    lacked priests or sacrifices.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A priest who sacrificed is identified by the term “loluostrari.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states a close connection between priestly and judicial offices
+    in older terminology.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The term “eiva” or “ea” is described as signifying both secular law and divine
+    law.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The term “ewart” is explained as a law-ward or administrator of law and is
+    also used synonymously with priest in cited examples.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Heliand uses “wihes ward” as a term for temple custodian and also uses
+    periphrases such as honoured man, prudent man, and godly man.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that Christianity brought in foreign words for priestly
+    offices, including forms derived from Latin sacerdos, episcopus, presbyter, and
+    papa.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Caesar is quoted or summarized as saying that the Germans did not have Druids
+    presiding over divine matters and did not devote themselves to sacrifices.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The author interprets Caesar’s statement as a contrast with the Gauls and
+    as meaning that Germans used sacrifices sparingly, not that they lacked priests
+    or sacrifices.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: sacrificing priest
+  description: A priest named by the term “loluostrari” in connection with sacrifice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: law-ward or ewart
+  description: An administrator of law, connected with both secular and divine law
+    and sometimes synonymous with priest.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: temple custodian
+  description: The “wihes ward” or “templi custos” mentioned in relation to the Heliand.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: German priests
+  description: Priests of the Germans whose existence is affirmed despite Caesar’s
+    contrast with the Gallic Druids.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Gallic Druids
+  description: Druids of the Gauls, described as having a more elaborate system and
+    a strong association with sacrifices.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ritual sacrificer
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage explicitly connects priests with sacrifice and states that Germans
+    did not lack sacrifices of their own.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: law administrator
+  assigned_to:
+  - fig:2
+  basis: The passage glosses “ewart” as law-ward and administrator of law.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: priest-judge nexus
+  assigned_to:
+  - fig:2
+  basis: The passage says priestly and judicial offices were closely connected and
+    gives terms overlapping priest, judge, and legislator.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: guardian of sacred building
+  assigned_to:
+  - fig:3
+  basis: The expression “wihes ward” is glossed as “templi custos,” temple custodian.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: organized divine-office specialist
+  assigned_to:
+  - fig:5
+  basis: The passage contrasts Germans with Gauls and refers to the Gallic Druid-system
+    and Druids who preside over divine matters.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: temple or sacred building
+  literal_form: wih / temple, as implied by “wihes ward” and “templi custos”
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: secular and divine law
+  literal_form: eiva / ea as law in both secular and divine senses
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sacrificing priest named
+  summary: The passage identifies an old term for a priest who performs sacrifice.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Priestly and judicial offices linked
+  summary: The passage explains terms in which priesthood, law administration, judging,
+    and divine law overlap.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Temple custodian and priestly periphrases in the Heliand
+  summary: The Heliand avoids heathen and foreign priestly terms by using expressions
+    such as temple custodian, honoured man, prudent man, and godly man.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Christian loanwords for priestly offices
+  summary: The passage describes the later adoption of foreign Christian terms for
+    priestly offices.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Caesar’s contrast of Germans and Gauls
+  summary: The passage interprets Caesar’s statement as contrasting German practice
+    with Gallic Druidic institutions, while maintaining that Germans had priests and
+    sacrifices of their own.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: priestly sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage names a sacrificing priest and concludes that Germans had sacrifices
+    of their own, though Caesar’s wording is interpreted as indicating sparse use
+    compared with the Gauls.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage is philological and comparative, not a narrative mythic episode;
+    the motif is an institutional ritual pattern rather than a story motif.
+- id: motif:2
+  label: sacred law and priest-judge authority
+  taxonomy_refs: []
+  basis: The passage states that secular and divine law were closely connected and
+    that priestly and judicial offices were linked in old terminology.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this institutional pattern.
+- id: motif:3
+  label: guardian of a sacred building
+  taxonomy_refs: []
+  basis: The Heliand expression “wihes ward” is glossed as temple custodian.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage provides a term and gloss, not a narrative account of temple
+    guardianship.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious functional comparison between Germanic priests
+    and Gallic Druids as ritual specialists associated with divine matters and sacrifice,
+    while emphasizing that the Germanic system was not the elaborately finished Druid-system
+    of the Gauls.
+  claim_level: same_function
+  target: Gallic Druids and sacrificial practice as contrasted with Germanic priests
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The comparison is mediated through Caesar as interpreted by Grimm;
+    it does not demonstrate identical institutions, historical contact, or common
+    inheritance.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4430-4434
+  quote_or_summary: "“A priest who sacrificed was named loluostrari.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 4435-4449
+  quote_or_summary: The passage says priest and judge were closely connected; “eiva/ea”
+    meant both secular and divine law; “ewart” was a law-ward and could be synonymous
+    with priest; similar terms stood for judge or legislator.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 4451-4460
+  quote_or_summary: The Heliand uses “wihes ward” glossed as temple custodian and
+    uses periphrases such as honoured man, prudent man, and godly man to avoid heathen
+    and foreign terms.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 4461-4482
+  quote_or_summary: The passage states that Christianity introduced foreign terms
+    for priestly offices, including forms derived from Latin sacerdos, episcopus,
+    presbyter, and papa.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 4483-4497
+  quote_or_summary: Caesar’s claim that Germans lacked Druids and did not devote themselves
+    to sacrifices is interpreted as a contrast with Gauls; the author says this means
+    sparse sacrifice and not lack of German priests or sacrifices.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is philological and historical rather than a myth narrative,
+    so motif extraction is limited to ritual and institutional patterns explicitly
+    discussed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol references were assigned because the available symbol list does not include temple, law, priest, or sacrifice.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l4430-l4497
+  passage_sha256=c7f41172ee86803293dc019e5e971dbcc574f1706805fdd9e4e6cae8b7a5fa5d
+

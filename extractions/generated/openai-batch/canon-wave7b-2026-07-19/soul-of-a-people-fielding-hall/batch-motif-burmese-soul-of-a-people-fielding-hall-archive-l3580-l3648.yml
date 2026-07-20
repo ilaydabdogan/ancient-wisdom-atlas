@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l3580-l3648
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: CRIME AND PUNISHMENT / CRIME AND PUNISHMENT 103 / I04 THE SOUL OF A PEOPLE
+    / CRIME AND PUNISHMENT 105; lines 3580-3648
+  start: '3580'
+  end: '3648'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    law here on earth is but a reflection of the heavenly
+    law ; the judge is the representative of his god.
+  summary: The passage contrasts a Burman servant's view that imprisonment has cleared
+    a theft with an English officer's view that imprisonment is degrading. The narrator
+    explains the disagreement as arising from different religious ideas of law, justice,
+    punishment, and sin, and describes earthly law as reflecting heavenly law.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Burman servant says that if he has stolen and has been in gaol for it,
+    the matter is now wiped out.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the boy and his master could not understand each other.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator states that the Burman and the Englishman have different meanings
+    for law, justice, and punishment, and that each takes his ideas from religion.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator states that earthly law is a reflection of heavenly law and that
+    the judge is the representative of his god.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator says that, for the Englishman, punishment is degradation, and
+    that the imprisonment is more disgraceful than the theft.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator describes the English view of punishment as revenge, deterrence,
+    and a warning to others rather than atonement or healing.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The punitive process is compared to pouring boiling lead into a wound.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Burman servant / boy
+  description: A servant who had been in gaol for theft and says that this has wiped
+    the matter out; he does not understand his master.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: English officer / master
+  description: The master who can forgive the theft but not the servant's being in
+    gaol; the narrator associates him with an English view of punishment as degradation
+    and deterrent revenge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Judge
+  description: In the narrator's general statement, the judge is described as the
+    representative of his god.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Magistrate
+  description: A magistrate is said to have increased the punishment so it would be
+    a warning to others.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: punished offender who regards gaol as clearing the offense
+  assigned_to:
+  - fig:1
+  basis: The servant says he has been in gaol for the theft and that it is now wiped
+    out.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: master who treats imprisonment as disgrace
+  assigned_to:
+  - fig:2
+  basis: The master is ready to forgive theft but not the servant's being in gaol;
+    the narrator says punishment is degradation to the Englishman.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: representative of divine justice
+  assigned_to:
+  - fig:3
+  basis: The passage states that the judge is the representative of his god and that
+    court justice should mirror heaven's justice.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: agent increasing punishment for deterrence
+  assigned_to:
+  - fig:4
+  basis: The magistrate is said to have increased the punishment so it would serve
+    as a warning to others.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Gaol as completed punishment
+  literal_form: gaol
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: Earthly law reflecting heavenly law
+  literal_form: law on earth, heavenly law, judge, court justice, justice of heaven
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Boiling lead in a wound
+  literal_form: pouring boiling lead into a wound
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Servant and master fail to understand each other
+  summary: After the servant says his imprisonment has wiped out the theft, the text
+    says he and his master cannot understand one another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Religious basis of law and punishment
+  summary: The narrator explains that Burman and English meanings of law, justice,
+    and punishment differ because their religions differ; earthly law is described
+    as reflecting heavenly law.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: English punitive model
+  summary: The narrator describes the English view of punishment as degradation, revenge,
+    deterrence, and warning to others, not as healing or atonement.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Earthly judgment mirrors heavenly judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly says earthly law reflects heavenly law, the judge
+    represents his god, and court justice should be as the justice of heaven.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is expository social commentary rather than a mythic narrative.
+- id: motif:2
+  label: Punishment as offense-clearing expiation
+  taxonomy_refs: []
+  basis: The Burman servant says that after being in gaol for theft, the matter is
+    wiped out.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only the servant's brief statement and the narrator's
+    framing, not a detailed doctrine.
+- id: motif:3
+  label: Punitive suffering as deterrent warning for others
+  taxonomy_refs: []
+  basis: The narrator says the sinner is made to suffer so others may be warned, and
+    formulates punishment of A as producing fear in B.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a legal-moral pattern, not a sacred narrative motif in the passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a cautious comparison to a wider divine-law pattern:
+    earthly courts and judges are understood as reflecting or representing heavenly
+    justice.'
+  claim_level: same_function
+  target: divine judgment / heaven-given law motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The narrator makes a broad generalization about many nations without
+    naming specific comparative texts or traditions in this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3582-3592
+  quote_or_summary: The master asks how he can forgive the servant's being in gaol;
+    the servant replies, "If I have stolen, I have been in gaol for it. That is wiped
+    out now."
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short quotation and summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3594-3620
+  quote_or_summary: The narrator says the Burman and Englishman attach different meanings
+    to law, justice, and punishment, and that each derives these ideas from religion.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 3599-3608
+  quote_or_summary: '"law here on earth is but a reflection of the heavenly law ;
+    the judge is the representative of his god"; court justice should be like heaven''s
+    justice, and many nations imagine law as heaven-given.'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short quotation and summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 3622-3625
+  quote_or_summary: For the Englishman, punishment is degradation; the servant's gaol
+    term seems more disgraceful than the theft, so the theft can be forgiven but not
+    the punishment.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 3626-3643
+  quote_or_summary: The narrator describes punishment as revenge by injured morality,
+    meant to cause suffering, frighten the offender, and warn others; the magistrate
+    increased it with that purpose, and atonement is said to be nearly absent from
+    this view.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 3644-3648
+  quote_or_summary: The process is compared to "pouring boiling lead into a wound";
+    the narrator adds that the intent is to make the offender suffer, not improve
+    him.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short quotation and summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear but primarily discursive and ethnographic; motif extraction
+    is therefore limited to explicit legal-religious images and patterns in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported taxonomy symbol refs were assigned; available taxonomy was used only for the explicit divine-judgment pattern.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l3580-l3648
+  passage_sha256=95a447dec7675d899bd1a30612030b80fb016530117b34b1c6aa9b46433ca28e
+

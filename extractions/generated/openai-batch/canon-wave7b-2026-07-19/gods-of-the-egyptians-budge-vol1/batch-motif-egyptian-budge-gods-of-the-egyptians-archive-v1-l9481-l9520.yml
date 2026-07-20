@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l9481-l9520
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: SEVENTH DIVISION OF THE TUAT 191 / ELEVENTH DIVISION OF THE TUAT 201 / TWELFTH
+    DIVISION OF THE TUAT / FIRST HOUR OF THE NIGHT 205; lines 9481-9520
+  start: '9481'
+  end: '9520'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the boat of Ra emerges every morning
+  summary: The passage describes the longer and abridged forms of a book concerning
+    the night journey through the Tuat. It explains that the complete work concerns
+    the western boundary and thick darkness at the extreme end of the Tuat, where
+    an opening allows Ra's boat to emerge each morning. It also names the First Hour
+    of the night and describes it as a hall or ante-chamber through which the god
+    passes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A complete version of the book existed, but an abridged form came into general
+    use before the end of the Twenty-First Dynasty because complete copies with vignettes
+    became difficult to obtain or pay for.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The abridged form was considered to contain what was necessary for the dead
+    and became popular throughout Egypt.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The tomb of Seti I contained a copy of the full text with vignettes for the
+    first eleven hours and also a copy of the abridgment.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The complete work is titled with reference to the beginning of the horn of
+    the West and the remote boundary of thick darkness.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The West is explained as the most westerly point where the sun sets.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Thick or solid darkness is identified with the extreme end of the Tuat, painted
+    like a black wall dotted with red spots.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The extreme end of the Tuat contains an opening through which the boat of
+    Ra emerges every morning.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The First Hour of the night is called Ushemet hatu khefti Ra, translated as
+    Crusher of the forehead of the enemies of Ra.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The place through which the god passes in the First Hour is described as a
+    hall or ante-chamber of the Tuat.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ra
+  description: A god whose boat emerges every morning and who passes through the First
+    Hour's hall or ante-chamber of the Tuat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Enemies of Ra
+  description: Opponents named in the translated title of the First Hour as the enemies
+    of Ra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: The dead
+  description: The people for whom the abridged form was supposed to contain all that
+    was necessary.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine traveler through the Tuat
+  assigned_to:
+  - fig:1
+  basis: Ra is described as passing through the hall or ante-chamber of the Tuat,
+    and his boat emerges from the opening at the extreme end of the Tuat every morning.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:2
+  label: divine enemies
+  assigned_to:
+  - fig:2
+  basis: The First Hour's name is translated as Crusher of the forehead of the enemies
+    of Ra.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: deceased beneficiaries of the text
+  assigned_to:
+  - fig:3
+  basis: The abridged book was supposed to contain what was necessary for the dead.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Boat of Ra
+  literal_form: boat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: The West
+  literal_form: the most westerly point where the sun sets
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Thick darkness at the end of the Tuat
+  literal_form: black wall dotted with red spots
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Opening at the end of the Tuat
+  literal_form: opening through which Ra's boat emerges
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: First Hour hall
+  literal_form: hall or ante-chamber of the Tuat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Abridged underworld book for the dead
+  summary: A shortened form of the longer book comes into general use and is described
+    as containing what was necessary for the dead.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Boundary of thick darkness and morning emergence
+  summary: At the extreme end of the Tuat, depicted as thick darkness like a black
+    wall with red spots, an opening allows the boat of Ra to emerge every morning.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: First Hour passage through the ante-chamber
+  summary: The First Hour of the night is named in relation to the enemies of Ra,
+    and the god passes through a hall or ante-chamber of the Tuat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Mapped night journey through the Tuat for the dead
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes a book organized by hours of the night, containing
+    necessary material for the dead, with places through which Ra passes in the Tuat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The passage is a modern scholarly description rather than a continuous
+    primary mythic narrative.
+- id: motif:2
+  label: Daily emergence from the dark underworld boundary
+  taxonomy_refs:
+  - return
+  basis: The passage states that the extreme end of the Tuat has an opening through
+    which the boat of Ra emerges every morning.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states emergence and recurrence but does not explicitly interpret
+    it as rebirth.
+- id: motif:3
+  label: Divine opposition named at the First Hour
+  taxonomy_refs: []
+  basis: The First Hour is translated as Crusher of the forehead of the enemies of
+    Ra.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: Only the title is provided; the passage does not narrate a conflict scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9481-9488
+  quote_or_summary: Before the end of the Twenty-First Dynasty, complete copies with
+    vignettes were difficult to obtain or pay for, so a shortened form came into general
+    use.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9488-9491
+  quote_or_summary: The shortened form was called an Abrege or Resume and was supposed
+    to contain what was absolutely necessary for the dead.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9491-9494
+  quote_or_summary: The tomb of Seti I included the full text with vignettes for the
+    first eleven hours and also an abridgment.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 9496-9498
+  quote_or_summary: The complete work is entitled, "The beginning of the horn of the
+    West, the remote boundary of thick darkness."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 9500-9501
+  quote_or_summary: The West is explained as the most westerly point where the sun
+    sets.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9501-9505
+  quote_or_summary: Thick or solid darkness refers to the extreme end of the Tuat,
+    painted like a black wall with red spots, containing an opening through which
+    Ra's boat emerges every morning.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 9508-9510
+  quote_or_summary: The First Hour of the night is called Ushemet hatu khefti Ra,
+    translated as "Crusher of the forehead of the enemies of Ra."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: lines 9510-9514
+  quote_or_summary: The place through which the god passes in the First Hour is described
+    as a hall or ante-chamber of the Tuat, unlike any other part of it.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage provides clear descriptions of objects, settings, and titles,
+    but it is excerpted from a modern scholarly discussion and the final sentence
+    is cut off. Motif candidates are therefore limited to patterns directly supported
+    by the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself provide an explicit external comparative target.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l9481-l9520
+  passage_sha256=8897f8f55cba651cc5d4bf21672bbf0a411d6012e6efe5214ee07a2aca0b5a05
+

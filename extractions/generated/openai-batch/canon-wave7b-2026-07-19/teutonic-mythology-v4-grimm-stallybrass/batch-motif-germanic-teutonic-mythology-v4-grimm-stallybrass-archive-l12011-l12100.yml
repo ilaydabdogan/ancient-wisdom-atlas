@@ -1,0 +1,385 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l12011-l12100
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: DAY  AND   NIGHT.  1517 / VOL.    IV.  B / DAY   AND   NIGHT. / DAY   AND    NIGHT.  1521;
+    lines 12011-12100
+  start: '12011'
+  end: '12100'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A comparative philological passage collects phrases and citations about
+    day and night: watchmen, the morning star, birds, and cock-crow announce day;
+    day is described as beautiful, joyous, and increasing in light; night is described
+    as breaking in, pressing in, coming upon people, sinking, bending, falling, or
+    climbing as day declines.'
+  language: English with cited German, Greek, French, and related vernacular examples
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A watchman, warder, or houseman is described as blowing in connection with
+    the coming or ending of day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Day is described as beautiful and joyful, and its light is said to increase.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The morning star is identified as a harbinger of day.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Birds are described as rejoicing or singing at the coming of day, and cock-crow
+    is said to announce day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Night is described through verbs of forceful approach, including breaking
+    in, pressing in, coming upon people, bumping against them, stepping in, striding,
+    and running.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Night is also described as sinking, bending, or falling.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Several cited phrases describe day as sinking, declining, ending, or going
+    away while night climbs or approaches.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The passage juxtaposes examples from classical Greek, Germanic vernacular,
+    French, and other cited literary or legal sources.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Day
+  description: Day is treated as coming on, beautiful, joyful, increasing in light,
+    and later sinking or declining.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Night
+  description: Night is treated as arriving with force, breaking or pressing in, coming
+    upon people, sinking, bending, falling, climbing, or approaching.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Morning star
+  description: The morning star is named as a harbinger of day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Birds
+  description: Birds are said to rejoice at day’s coming and to sing at morning.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Cock or rooster
+  description: Cock-crow is described as announcing day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Watchman or warder
+  description: A watchman, warder, or houseman blows in connection with the arrival
+    or marking of day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Announcer or harbinger of day
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage explicitly associates the morning star, birdsong, cock-crow,
+    and watchman’s blowing with the coming or announcement of day.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Luminous and joyful day-figure
+  assigned_to:
+  - fig:1
+  basis: Day is described as beautiful and joyful, with increasing light.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Advancing or intrusive night-figure
+  assigned_to:
+  - fig:2
+  basis: Night is repeatedly described as breaking in, pressing in, approaching, running,
+    or otherwise moving toward people.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Opposed member of day-night alternation
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The cited phrases describe day declining or ending while night comes, climbs,
+    or approaches.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Daylight
+  literal_form: day, light, morning shine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Nightfall
+  literal_form: night, evening, darkness
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Morning star
+  literal_form: day-star or morning star
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Birdsong and cock-crow
+  literal_form: birds singing; cock crowing
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Watchman’s blowing
+  literal_form: watchman or warder blowing
+  associated_figures:
+  - fig:6
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Dawn announced
+  summary: Day is marked or heralded by watchman’s blowing, the morning star, birdsong,
+    and cock-crow.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Night comes in with force
+  summary: Night is described as breaking in, pressing in, crowding from corners,
+    coming upon people, stepping in, striding, or running.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Day declines as night rises or approaches
+  summary: The passage gathers phrases in which day sinks, declines, goes away, or
+    ends while night sinks, falls, climbs, or approaches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Day and night as opposed alternating powers
+  taxonomy_refs:
+  - duality
+  basis: The passage systematically contrasts day’s arrival, light, beauty, and decline
+    with night’s forceful or descending arrival.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is primarily philological and metaphorical rather than a continuous
+    myth narrative.
+- id: motif:2
+  label: Dawn heralded by intermediary signs and calls
+  taxonomy_refs: []
+  basis: The morning star, birds, cock-crow, and watchman’s blowing all function as
+    signs or announcements of day.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No specific taxonomy reference for a dawn-herald motif is supplied.
+- id: motif:3
+  label: Personified motion of nightfall and day’s decline
+  taxonomy_refs:
+  - duality
+  basis: 'Night and day are described with animate or forceful motion: night breaks
+    in, presses in, runs, sinks, bends, or climbs while day sinks, declines, or ends.'
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The motif candidate rests on repeated poetic idioms; it should not be
+    treated as evidence for a discrete deity or narrative episode without further
+    support.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison between classical
+    Greek and Germanic or Dutch examples in which birds or cock-crow announce the
+    coming of day.
+  claim_level: same_function
+  target: Greek and Germanic/Dutch dawn-announcement phrases involving birds and cock-crow
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage lists literary and lexical parallels only; it does not
+    demonstrate historical contact, common inheritance, or ritual continuity.
+- id: claim:2
+  claim: The passage supports a cautious linguistic-similarity comparison among Germanic
+    and Romance examples that personify day and night through verbs of movement, decline,
+    and approach.
+  claim_level: linguistic_similarity
+  target: Germanic and French/Romance phrases for day declining and night approaching
+    or climbing
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence concerns idiomatic phrasing and imagery, not a shared
+    narrative myth.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12011-12020
+  quote_or_summary: The opening examples describe the day coming on and the watchman,
+    warder, or houseman blowing in connection with day.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12022-12028
+  quote_or_summary: Day is described as beautiful and joyful; light increases; the
+    morning star is called the harbinger of day.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12030-12043
+  quote_or_summary: Birds rejoice at day’s coming and sing at morning; cock-crow announces
+    day, with Greek, German, and Dutch examples cited.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12045-12075
+  quote_or_summary: The swift approach of night is described by phrases such as night
+    breaking in, pressing in, crowding forth, coming upon people, bumping against
+    them, stepping in, striding, and running.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12077-12090
+  quote_or_summary: Night is described as sinking, bending, or falling; in paired
+    phrases, day sinks while night climbs or approaches.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12091-12100
+  quote_or_summary: Further examples describe day declining, going toward evening,
+    ending, slipping away, or vanishing while night comes.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly supports day-night imagery and dawn-herald patterns,
+    but it is a comparative philological catalogue rather than a single mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported taxonomy IDs or historical-contact claims were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l12011-l12100
+  passage_sha256=22ca1c834cd6e24aff6f3734c5afe2772d18776fb6da318e44e9cdce628108e2
+

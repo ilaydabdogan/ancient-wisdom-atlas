@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l7691-l7743
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: INDEX TO FIRST LINES / AUTHOR.                     TRANSLATED BY         PAGE
+    / PROSE LEGENDS / NOTES; lines 7691-7743
+  start: '7691'
+  end: '7743'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of editorial notes. One note explicitly compares an
+    Armenian piece with a Persian poem by Essedi of Tus described as a dispute between
+    Day and Night. The note says Earth is victorious in the former and Day in the
+    latter, then quotes speeches in which Day and Night make claims about piety, feasts,
+    stars, color, the Sun, the moon, and a Great Shah.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes list translations of Moses of Khorene and other bibliographic or
+    historical information.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note explicitly invites comparison with a Persian poem by Essedi of Tus
+    called a dispute between Day and Night.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note states that Earth is victorious in the former work and Day is victorious
+    in the Persian poem.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the quoted Persian dialogue, Day says that the pious fast and pray by day
+    and that solemn feasts are held by day.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Night replies that Day can only paint the skies blue, while Night's starry
+    hosts amaze the view.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Day identifies itself as Moslem and white-vested, and calls Night a thief
+    dressed in sable.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Day contrasts the ruddy, strong Sun with the sickly, wan moon, and says the
+    moon's light is lent.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Day
+  description: Personified speaker in the quoted Persian poem; described by the note
+    as victorious in that poem.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Night
+  description: Personified speaker in the quoted Persian poem who answers Day and
+    is addressed by Day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Earth
+  description: Named in the note as victorious in the former compared work.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sun
+  description: Mentioned in Day's speech as ruddy, strong, and hale.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Moon
+  description: Mentioned in Day's speech as sickly, wan, pale, bowed, bent, and having
+    borrowed light.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Great Shah
+  description: Named at the end of Day's speech as one for whom the moon clears the
+    way.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: victor in the Persian dispute poem
+  assigned_to:
+  - fig:1
+  basis: The note says that in the latter poem, Day is victorious.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: speaker praising Day
+  assigned_to:
+  - fig:1
+  basis: Day speaks of daytime piety, feasts, whiteness, and the superiority of Sun
+    over moon.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: speaker praising Night
+  assigned_to:
+  - fig:2
+  basis: Night answers that starry hosts amaze the view.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: victor in the former compared work
+  assigned_to:
+  - fig:3
+  basis: The note says that in the former work the Earth is victorious.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: subordinate or dependent luminary in Day's speech
+  assigned_to:
+  - fig:5
+  basis: Day calls the moon a slave and says its light is lent.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Day
+  literal_form: Personified Day speaking in a poetic dispute
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Night
+  literal_form: Personified Night speaking in a poetic dispute
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Earth
+  literal_form: Earth named as victor in the former compared work
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Starry hosts
+  literal_form: Night's starry hosts that amaze the view
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: White vest and sable dress
+  literal_form: Day's white vest contrasted with Night's sable dress
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Sun and moon contrast
+  literal_form: Ruddy strong Sun contrasted with sickly wan moon whose light is lent
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Editorial comparison of Armenian and Persian dispute poems
+  summary: The note compares an Armenian piece with a Persian poem by Essedi of Tus,
+    stating that Earth wins in the former and Day in the latter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Quoted Day and Night exchange
+  summary: In the excerpted dialogue, Day praises daytime piety and feasts; Night
+    praises starry hosts; Day then contrasts its whiteness and the strong Sun against
+    Night, darkness, and the dependent moon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Personified dispute between cosmic or natural powers
+  taxonomy_refs:
+  - duality
+  basis: The passage identifies a Persian poem as a dispute between Day and Night
+    and contrasts its outcome with another work where Earth is victorious.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The present line range gives only an editorial note and excerpt, not the
+    full Armenian work or the full Persian poem.
+- id: motif:2
+  label: Day and Night opposition with moral and visual contrast
+  taxonomy_refs:
+  - duality
+  basis: The quoted speeches oppose Day's piety, feasts, whiteness, and Sun imagery
+    to Night's stars, sable dress, and moon imagery.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This motif is drawn from an excerpted Persian comparison quoted in notes
+    to the Armenian anthology, not from a complete narrative in this passage.
+- id: motif:3
+  label: Victory in a poetic contest of personified forces
+  taxonomy_refs:
+  - duality
+  basis: The note says Earth is victorious in the former work and Day is victorious
+    in the Persian poem.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe the contest procedure or provide the Armenian
+    text being compared.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself makes a cautious comparison between an Armenian work alluded
+    to as 'this' and a Persian poem by Essedi of Tus, both apparently involving personified
+    natural or cosmic forces and a victorious contestant.
+  claim_level: same_function
+  target: Persian poem by Essedi of Tus, described as a dispute between Day and Night,
+    compared with the preceding Armenian work alluded to in the note
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Armenian work being compared is not included in this line range,
+    and the passage supplies only a brief note and excerpt rather than both full poems.
+- id: claim:2
+  claim: The quoted Persian poem supports comparison to a broad duality pattern because
+    Day and Night are personified opponents whose attributes are contrasted.
+  claim_level: same_motif
+  target: duality motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is typological only; the passage does not assert historical
+    contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7691-7723
+  quote_or_summary: Editorial notes list translations of Moses of Khorene, a travel
+    and politics reference, Eghishé, Boyajian's metrical translations, first Christian
+    sovereigns, and Armenian Church clergy.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 7724-7730
+  quote_or_summary: '"It is interesting to compare this with a Persian poem by Essedi
+    of Tus called a dispute between Day and Night. In the former the Earth is victorious,
+    in the latter the Day."'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 7731-7733
+  quote_or_summary: '"Day. By day the pious fast and pray; / And solemn feasts are
+    held by day."'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: lines 7734-7735
+  quote_or_summary: '"Night. Day can but paint the skies with blue, / Night’s starry
+    hosts amaze the view."'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 7737-7740
+  quote_or_summary: '"Day. ... I am a Moslem—white my vest, / Thou a vile thief, in
+    sable drest."'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: quote
+  locator: lines 7741-7743 and following excerpt within supplied passage
+  quote_or_summary: Day says the Sun is "ruddy, strong, and hale" while the moon is
+    "sickly, wan, and pale," a slave whose light is lent, clearing the way for the
+    Great Shah.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short quotation and summary.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly editorial notes and a quoted excerpt. Motif extraction
+    is limited to the explicit comparison and the Day/Night poetic dialogue contained
+    in the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact claim is made. Taxonomy references are limited to the available motif family 'duality'; no available symbol taxonomy item matches Day, Night, Sun, Moon, or Earth.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l7691-l7743
+  passage_sha256=3adef6db44f4e085f6cca62c3092a98e6625aca06f836cfc16a1a41cae876e34
+

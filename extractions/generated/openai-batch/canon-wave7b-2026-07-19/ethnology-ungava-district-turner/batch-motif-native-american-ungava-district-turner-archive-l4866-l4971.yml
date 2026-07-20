@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l4866-l4971
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: 'POAME NIRS: / FOOD AND ITS PREPARATION / TURNER.) THE KAIAK. 239 / ON LAND;
+    lines 4866-4971'
+  start: '4866'
+  end: '4971'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Ethnographic description of land transportation by dog-drawn sled and
+    of sled construction: dog teams, wooden runners and crossbars, sealskin lashings,
+    iron runner shoes, and cold-weather frozen mud runner shoes polished and repaired
+    with water or ice.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the sled drawn by dogs as the universal means of transportation
+    on land, with team size varying by distance, terrain, animal condition, and load.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The common dog team for general purposes is described as seven or nine animals,
+    though from one to twenty dogs may be used.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sled construction varies slightly by region, especially where materials are
+    difficult to obtain or a heavy sled is unnecessary.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A suitable tree, generally larch because of its strength, is selected for
+    the sled runners.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Each runner is to be made from a single piece of timber, as free as possible
+    from knots and crossgrain because those defects make the wood brittle in cold
+    weather.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Crossbars or slats are fastened to parallel runners with heavy sealskin line
+    threaded through holes and notches.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The sealskin line is soaked in water to make it flexible and able to stretch;
+    as it dries, it shrinks tight around the slats and runners.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage says metal is not used for the slat bindings because it would
+    snap in cold weather, while thong bindings permit the sled to move over uneven
+    surfaces.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The bottom of the runner may be shod with trader-supplied hoop-iron fastened
+    by countersunk screws.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: For very cold weather, a different shoe is made from swampy decomposed vegetation
+    and fine soil that is boiled, stirred, and cleaned of debris.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The prepared mud is pressed by hand onto wetted runners and allowed to freeze
+    solid before shaping.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: After freezing, the owner planes the mud shoe to shape and smoothness.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The builder takes water in his mouth, sprays it along the mud shoe, and rubs
+    it with a reindeer-skin mitten until the runner resembles black glass.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:14
+  text: If part of the mud shoe breaks away, the piece may be frozen on again with
+    water; if it has crumbled, a shaped piece of ice may be frozen to the runner.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Eskimo sled maker or owner
+  description: Human maker, owner, or user described as selecting and preparing sled
+    materials, applying and finishing runner shoes, and repairing damage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Dog team
+  description: Dogs used to draw the sled; the number used varies according to travel
+    and load conditions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Traders
+  description: People identified as bringing the iron used for runner shoes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Sled constructor
+  assigned_to:
+  - fig:1
+  basis: The passage describes the human builder selecting timber, fastening slats,
+    preparing materials, applying mud, and polishing the runner shoe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: Sled owner or maintainer
+  assigned_to:
+  - fig:1
+  basis: The owner planes the frozen mud shoe, and damaged portions are refrozen or
+    replaced with ice.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:3
+  label: Draught animals
+  assigned_to:
+  - fig:2
+  basis: Dogs draw the land sled, with team size adjusted to circumstances.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Iron suppliers
+  assigned_to:
+  - fig:3
+  basis: The iron used to shoe the runner bottoms is said to be brought by traders.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Dog-drawn sled
+  literal_form: Sled used for transportation on land, drawn by dogs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Tree or larch timber
+  literal_form: Selected tree, generally larch, used for strong single-piece runners.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Sealskin line or thongs
+  literal_form: Heavy sealskin line soaked in water and threaded over and through
+    slats and runners.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Iron runner shoe
+  literal_form: Extra-wide hoop-iron fitted to the bottom of the runner and fastened
+    with screws.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Frozen mud runner shoe
+  literal_form: Mud made from decomposed vegetation and fine soil, applied to the
+    runner and frozen solid.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: Water
+  literal_form: Water used to soak line, wet the runner, glaze the mud shoe, and freeze
+    repairs in place.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: Reindeer-skin mitten
+  literal_form: Mitten used to rub sprayed water over the mud shoe until it appears
+    like black glass.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: Ice repair piece
+  literal_form: Piece of ice cut to shape and made to adhere to the runner by freezing
+    water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Land travel by dog-drawn sled
+  summary: Land transportation is described as taking place by sled drawn by dog teams
+    whose size varies with practical travel conditions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wooden sled frame construction
+  summary: The maker selects suitable timber, forms single-piece runners, places crossbars,
+    and lashes the structure with water-soaked sealskin line rather than metal fasteners.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Iron runner shoe fitting
+  summary: The bottom of the runner is fitted with trader-supplied hoop-iron and fastened
+    with countersunk screws.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Cold-weather mud shoe preparation and repair
+  summary: For very cold weather, mud made from decomposed vegetation and fine soil
+    is boiled, applied to wetted runners, frozen, planed, water-polished with a mitten,
+    and repaired with water or ice if damaged.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Dog-drawn sled land travel
+  taxonomy_refs: []
+  basis: The passage presents the dog-drawn sled as the universal means of land transportation
+    and describes practical variation in team size.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic transport pattern, not a mythological motif, and
+    it has no supported match to the supplied motif-family taxonomy.
+- id: motif:2
+  label: Cold-adapted flexible sled construction
+  taxonomy_refs: []
+  basis: The sled is constructed with single-piece wooden runners and sealskin lashings;
+    the passage explicitly contrasts flexible thongs with metal fastenings in cold
+    conditions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a material-culture construction pattern rather than a narrative
+    or sacred motif.
+- id: motif:3
+  label: Frozen mud and water-polished runner shoe
+  taxonomy_refs: []
+  basis: The passage gives a sequence for making, freezing, planing, water-glazing,
+    and repairing a mud or ice runner shoe for very cold weather.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a technical environmental adaptation; no comparative or mythic
+    meaning is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4866-4971, opening description of land transportation
+  quote_or_summary: The sled drawn by dogs is described as the universal land transport;
+    one to twenty dogs may be used, with seven or nine common for general purposes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4866-4971, description of timber and runners
+  quote_or_summary: The passage describes selecting a suitable tree, generally larch,
+    and making each runner from a single piece of knot-free, straight-grained timber
+    because defects make it brittle in cold weather.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4866-4971, description of crossbars and lashings
+  quote_or_summary: Crossbars are laid on the runners and lashed with soaked sealskin
+    line; drying tightens the line, metal is avoided for these bindings, and thongs
+    permit movement over uneven snow.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4866-4971, description of iron shoe
+  quote_or_summary: The bottom of the runner is shod with extra-wide hoop-iron brought
+    by traders and fastened with countersunk screws.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4866-4971, beginning of cold-weather shoe preparation
+  quote_or_summary: For very cold weather, material from swampy ground, decomposed
+    vegetation, humus, and fine soil is gathered, boiled, stirred, and cleaned of
+    sticks, grass, pebbles, and other debris.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4866-4971, mud application to runners
+  quote_or_summary: The sled is turned over, the runners are wetted, and prepared
+    mud is pressed onto them until built up; the sled is then set aside so the mud
+    freezes solid.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4866-4971, frozen mud finishing
+  quote_or_summary: After freezing, the owner planes the mud shoe smooth; the builder
+    sprays water from his mouth and rubs it with a reindeer-skin mitten until it looks
+    like black glass.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4866-4971, damage and repair
+  quote_or_summary: The passage advises avoiding rocks because they cut the polished
+    mud; broken mud may be frozen back with water, or a shaped piece of ice may be
+    frozen to the runner.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal technical extraction is well supported by the passage. Candidate
+    motifs are treated as ethnographic material-culture patterns rather than mythological
+    motif-family matches. No comparison claims are made because the passage itself
+    does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage is a practical ethnographic account of sled construction and use. Supplied mythological motif-family taxonomy has no direct supported match.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l4866-l4971
+  passage_sha256=4f0811e7ddee6ec272017f8b242fc9c7f054511abea1334e62409b968614298a
+

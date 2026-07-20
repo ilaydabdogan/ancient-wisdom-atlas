@@ -1,4 +1,69 @@
+---
+id: native_american.seneca_fiction_legends_myths.curtin_hewitt_archive
+title: Seneca Fiction, Legends, and Myths
+alternate_titles:
+- Seneca Fiction, Legends, and Myths (BAE 32nd Annual Report)
+text_status: complete
+tradition: native_american_northeast_woodlands
+culture: seneca_iroquois_field_recorded_myths
+region: north_america_northeast_woodlands
+source_language: Seneca (Iroquoian)
+text_language: English
+date_range: living oral traditions; collected 1883-1887 by Jeremiah Curtin and 1896-1900
+  by J. N. B. Hewitt (himself Iroquois) from named Seneca narrators; published 1918
+  (BAE 32nd Annual Report)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.senecafictionle00hewigoog
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1918 Government Printing
+    Office edition
+  translator: Jeremiah Curtin and J. N. B. Hewitt
+  editor: J. N. B. Hewitt
+  publication_year: 1918
+  publisher: Internet Archive
+  source_url: https://archive.org/details/senecafictionle00hewigoog
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: US government publication (BAE), public domain. Recording context - large
+    corpus (over 100 narratives) taken down in the field from named Seneca tellers;
+    Hewitt was a native Iroquoian speaker; English renderings close to dictation.
+    Google-scan OCR - check hyphenation artifacts.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- seneca
+- iroquois
+- northeast_woodlands
+- verbatim_texts
+- holdout_priority
+motifs:
+- sky_world
+- twin_heroes
+- flying_head
+- animal_spouse
+- orenda
+figures: []
+---
+
 # Seneca Fiction, Legends, and Myths
+
 SENECA FICTION, LEGENDS, AND MYTHS
 
 
@@ -19,7 +84,7 @@ slight alterations, from the article on that tribe in the Handbook of American I
 
 The Seneca (= Place of the Stone) are a noted and influential tribe of the
 Iroquois, or the ^o-called Fire Nations of New Tork. When first known they
-occupied a ^gion in c entral New York, lying between the western watershed
+occupied a ^gion in c<entral New York, lying between the western watershed
 of the Genesee r. and tlie lands of the Cayuga about Seneca lake, having their
 council fire at Tsonontowan, near Naples, in Ontario co. After the political
 destruction of the Erie and Neuters, about the middle of the 17th century, the Seneca and oth^r Iroquois people carried their settlements west-
@@ -132,7 +197,7 @@ denotlve of the third person; the intercalary -t- is merely euphonic, being empl
 that assime Is only another fbrm of a^sinni, * stone ',. cited above. Hence it
 appears that the Mohegan and Delaware names for the Oneida are cognate In
 derivation and Identical in signification. Heckewelder erroneously translated
-W*ias8 me by ' stone pipe makers.'
+W*ias8<me by ' stone pipe makers.'
 
 Thus, the Iroquois On^iute*d'gd\ the Mohegan Binnekens, and the Delaware
 W^tassone are synonymous and are homologous in derivation. But the Dutch,
@@ -145,7 +210,7 @@ its own proper native name became known to the Europeans. Obviously, the
 last remaining tribe of the group would finally acquire as its own the general
 name of the group. The Delaware name for the Seneca was Ifexoxtin'til (the
 Maechachtinni of Heckewelder), which signifies 'great mountain'; this Is, of
-course, a Delaware rendering of the Iroquois name for the Seneca, DjOonoMowdn&i'*akd\ or D/ ionoMoiodn^fl*rofl'no*', 'People of the Great Mountain.'
+course, a Delaware rendering of the Iroquois name for the Seneca, DjOonoMowdn&i'*akd\ or D/<ionoMoiodn^fl*rofl'no*', 'People of the Great Mountain.'
 This name appetirs disguised as Trudamani (Gartter, 1534-35), Bntouhonorons,
 Chowmtouarouon^Chonaniouaronon (C^amplain, 1615), Ouentouaronons
 (Ghamplain, 1027), and Tsonontauan or Bonontouan (Jes. Rel., passim).
@@ -608,7 +673,7 @@ us .is the nameless heroes who perished before Agamemnon. How much
 mythology is there in the Iliad and the Odyssey, in the .^^neid, in the Divine
 Comedy of Dante, in the works of the other three great Italian poets? How
 much in Paradise Lost? How could "King lA»ar " and "Midsummer Night's
-Dream," or the " Idylls of the King." have bc yi written without Keltic mythol-
+Dream," or the " Idylls of the King." have bc<yi written without Keltic mythol-
 <>?y? Many of these literary masterpieces have not morely myths In their composition as a sentence has words, but the earlier ones are enlarged or modified
 myth-tales of those ijeriods, while the latrt* ones are largely modeknl on and
 inspired by the earlier.*
@@ -869,7 +934,7 @@ nntold centuries to that epoch when man made the earliest collective and consist
 
 Occupying this vantage-ground, we can now throw a flood of light on all those
 mythologies and ethni- religions or systems of thought from which are lost in
-part, groM or small, the materials needed to prove the foiindati m and beglnulngs of each of them. In this condition are all ancient recorded religious,
+part, groM or small, the materials needed to prove the foiindati<m and beglnulngs of each of them. In this condition are all ancient recorded religious,
 whether of Greece, Rome, Egypt, Chaldea. Persia, or India.*
 
 Again, in speaking of the first people^ the micienfs^ or the manbeings of the oldest myth, or rather cycle of myths, in America. Mr.
@@ -2410,7 +2475,7 @@ and he went on his journey with a great load of meat on his back.
 In the village he found that some of the hunters had got home,
 while others came soon after. All told how much they had killed.
 This lone man said, " I will give each man all he wants if he will go to
-my camp and get it." A !cepting his offer, many went and brought
+my camp and get it." A<!cepting his offer, many went and brought
 back all they could carry. ,Still there was much meat left. Everyone who had a daughter or a granddaughter now asked him to come
 and live with the family. At last the chief came and asked him to
 marry his daughter. The orphan was afraid if he refused harm
@@ -2980,7 +3045,7 @@ your little brother." Then he brought a bowl of water and put
 feathers in it, saying, ^ If anything evil happens to me the feathers
 will be bloody."
 
-He started west. The first day he found the cubs and breasts  m
+He started west. The first day he found the cubs and breasts <m
 the ironwood tree, which he knew came from his wife.
 
 After leaving the cubs the woman went on until she came to a
@@ -5851,7 +5916,7 @@ youth killed the turkey, and taking the oil from it, rubbed it on the
 severed surface of the lower part of the body.
 
 After treating likewise the surface of the upper part he brought
-the two parts of her body dose together, whereup m they joined of
+the two parts of her body dose together, whereup<m they joined of
 themselves. Then the woman with her hands rubbed the place of
 juncture. Becoming then entirely whole, she arose and, standing,
 said, '' I am well now, and no one shall come to trouble us again. I
@@ -7433,7 +7498,7 @@ began to sing, ^^A tree must grow from tho hemlock leaf.** Soon a
 tree came in sight. Then he talked to the tree, saying, ^ Come near to
 me and have many limbs.** As the tree came to a level with the place
 on the rocks where the young man was sitting, it stopped growing.
-He' had seen al ing the n'arrow shelf on the rocks many other men.
+He' had seen al<ing the n'arrow shelf on the rocks many other men.
 He called to the nearest one, asking him to tell all to come, so they
 could escape. Slowly creeping up, one after another, they went down
 the hemlock tree.
@@ -7981,7 +8046,7 @@ part of the raccoon and made corn bread. While the meat was cooking she skimmed 
 for a long time. This oil she rubbed into her hair.
 
 The brother and sister had more meat from this Djoeaga than they
- x>uld eat, and some was left. The next morning, after breakfast,
+‹x›uld eat, and some was left. The next morning, after breakfast,
 they went out, the sister to plant and the brother to hunt. At parting
 she warned him, as she had done every day before. Hodadenon went
 this time a few steps farther than before. When he saw game coming
@@ -10280,7 +10345,7 @@ tree through the air. He called to his companion, '^ Throw down
 your bow and arrows and come up to see what a splendid trail I
 
 
-252 SENEGA FICTION, LBQE2 n)S, AND MYTHS [■TH.ANM.at
+252 SENEGA FICTION, LBQE2<n)S, AND MYTHS [■TH.ANM.at
 
 have found." The latter went up, and looking at the trail, said,
 ^^ Let us try it and see where it leads.'^ They looked in every direction but saw no woods in any direction. It had been necessary that
@@ -11446,7 +11511,7 @@ Long ago six men went out hunting many days' journey from
 home. For a long time they found no game. One of their number said that he was sick (in fact he was very lazy), so they had to
 make a litter of two poles and a skin, by means of which four men
 carried him. Each man had his own load to bear besides. The
-sixth member  ff the party came behind, carrying the kettle.
+sixth member <ff the party came behind, carrying the kettle.
 
 At last, when they were getting very hungry, they came on the
 track of a bear, whereupon they dropped their sick companion and
@@ -14879,7 +14944,7 @@ himself, " I had some fun with my uncle yesterday, so I must go to
 see what he will say this time." Soon he saw so many birds and
 was so much occupied in killing them that he had forgotton about
 the man in the sheaf of tree-tops. Suddenly he was halted with the
- jhallenge, " Oh, nephew ! I have caught you. What would you do
+<jhallenge, " Oh, nephew ! I have caught you. What would you do
 if I should send a shower of stones?" The youth replied. "We
 sihould be much pleased, for my grandmother often needs stones for
 pounding her com for meal." So saying, the young man fled homeward. Having arrived there^ he grasped his grandmother by the
@@ -15157,7 +15222,7 @@ into the woods. His mother, however, always 'Wamed him against
 going toward the northeast, saying that an evil woman lived there.
 
 One day while hunting the boy thought, ^^ I do not believe there is
-anyone who can ovcrc Mne me magically," whereupon he determined
+anyone who can ovcrc<Mne me magically," whereupon he determined
 to go toward the northeast. Starting thither, he soon came to an
 opening, where he saw a woman who sang out, ^ I have caught you,
 my brother," and at that moment the boy, feeling her in his body
@@ -16279,11 +16344,11 @@ then a youth and the youngest a lively little boy.
 
 
 One day the eldest said, ^^ I am going to look for mj father, and
-see where he is." The mother rejoined, ^^You will get lost  hi the
+see where he is." The mother rejoined, ^^You will get lost <hi the
 w^y." ^ Oh, no ! I will not get lost," he replied. At this the mother
 continued, ^' Then you may go." So he set out, traveling northward.
 While going across a rocl^ place he found a trail. ^ This looks just
-like my father's trail," said he, following it. So m he came to a
+like my father's trail," said he, following it. So<m he came to a
 cross-trail, and after examining it, he said: "I wonder where this
 path comes from and where it goes. Well, when I return, I shall
 find out." Not far from the cross-trail he came to a lodge, and as
@@ -21361,7 +21426,7 @@ the news of the intended attack she said to her grandson, '^ We must
 get your sister out of .the belly of the Yenonsgwa, for she is sitting
 within, crying for me all the time." So they set out from home, and
 when they reached the place where Yenonsgwa lay dead the old
-woman, having built a little fire, began to bum tobacco  m it for her
+woman, having built a little fire, began to bum tobacco <m it for her
 granddaughter, saying, ^ This is what we like; this is what we like.''
 She burned x>erhap8 half a pouch full and kept pushing the smoke
 toward the Yenonsgwa's body, saying, ^ This is what we like. Do
@@ -22262,7 +22327,7 @@ Next the lad blew on the kettle to increase its size, as he had seen
 his uncle do, and after it had become sufficiently large be put
 water into it and set it over the fire, muang to himself, *'So be it.
 I will now prepare food for my uncle, for he soon will return very
-hungry. The lad now blew  m the kettle the second time, whereupon
+hungry. The lad now blew <m the kettle the second time, whereupon
 it increased slightly only in size; so he continued to blow on it
 until finally it was large enough to suit him, when he said, " It is now
 large enough."
@@ -25572,7 +25637,7 @@ turned toward the berry picker. Now start on your way."
 With a light heart the woman again took up the trail of her husband, with the firm resolve to follow the instructions of the warder
 of the last passageway. Finally she reached the large field of strawberries, and taking oil out of the small gourd bottle and rubbing it
 on the palms of her hands, she held them up toward the elderly
-woman, wh Hn she hailed in a loud voice. The woman, who was
+woman, wh<Hn she hailed in a loud voice. The woman, who was
 picking berries, heaixl her call and stood attentive until the other
 woman came up to her, whereupon she said: ^^What do you here,
 seeing that you are not dead? " Answering the Mother *^ of Ghosts,
@@ -28173,7 +28238,7 @@ not far away fr(Hn here remembers the whole matter, for he has had
 an exceedingly long life, and so is probably familiar with the tradition about which yoa speak. Therefore you would b^ter visit Mm
 and oeek furtiier information from him."
 
-Thereupon Dehaenhjoweos and his companion again started  hi
+Thereupon Dehaenhjoweos and his companion again started <hi
 their quest for some one who knew them. On reaching their new
 destination they found the very old man of whom .the old woman
 had spoken, and they asked him : " Do you remember an affair, which
@@ -29440,7 +29505,7 @@ and when you depart you should take back with you your wife and
 your children. They are now your own people, although they are
 of our blood too."
 
-After making the ne !essary preparations by packing up their
+After making the ne<!essary preparations by packing up their
 small belongings, the man with his wife and children bade their
 kindred farewell and started for their future home. Passing through
 the mouth of the cavern they emerged into a dense forest of large
@@ -29529,7 +29594,7 @@ If the people saw the bears making their winter quarters of leaves
 early in the autunm they would infer that the approaching winter
 would be very severe.
 
-If much hail fell during the autumn and winter the people c hicluded that there would be much fruit and many nuts the coming
+If much hail fell during the autumn and winter the people c<hicluded that there would be much fruit and many nuts the coming
 season.
 
 Again, should a person traveling through the forest lose his way
@@ -32261,7 +32326,7 @@ hodi'no^'sot ne
 their (on.>lodge-8tands the
 
 
- /
+</
 
 
 yadadiwa'de**'
@@ -32321,7 +32386,7 @@ hls-(an.)-lx>dy-on, that truiy-(verily) not It-able (be) ever (sometime) oonld h
 
 Ne^ho's^hofi de'lini"dyo^', o'yonis'he't. Dygflgw&'s'holl
 
-There- mly (alone) two-they (nuue.) it-long-time-was. Suddenly-Just
+There-<mly (alone) two-they (nuue.) it-long-time-was. Suddenly-Just
 
 abode.
 
@@ -32421,7 +32486,7 @@ thou will it harvest (— unplant)."
 
 De'aonis'he"oii'
 
-Not-it-loog-tim» was)
+Not-it-loog-tim»<was)
 
 
 That
@@ -32779,7 +32844,7 @@ ne
 the
 
 
- /
+</
 
 
 gagwe'go"'
@@ -33124,7 +33189,7 @@ did he-iC-plmt DumbBrlng as it (sO-lilUs-niunbtr. So all at once,
 
 f«v, law mauj (then) luddanlf
 
-o'n6"' hot'hofl'de' da'tadBOnO'dfi"' ne" hono"Bfi'", GaSfinanow h»-ll-b nnl Uunoa be his loiui- the he-him-nuole. It(ii.)Miii-
+o'n6"' hot'hofl'de' da'tadBOnO'dfi"' ne" hono"Bfi'", GaSfinanow h»-ll-b<nnl Uunoa be his loiui- the he-him-nuole. It(ii.)Miii-
 
 (tb«o) attcttd (motber's brother), (iaj
 
@@ -33199,7 +33264,7 @@ hau" o'nfi"" di''8adye'6''k-9'hofl fi°'sya3"h6flda'k."
 
 Come DOW sheU-rou quial-juit keep shall ;ou«aplDe keep-
 
- thon) lying."
+<thon) lying."
 
 " 0'n6"' ne" hagS^'dji' wai'fifl', "Giwa'dfi"', ne"ho'
 
@@ -33395,7 +33460,7 @@ there
 
 hono^sS"*',
 
-he-taim-nn de
+he-taim-nn<de
 of (is),
 
 O'nfi'^'
@@ -33509,7 +33574,7 @@ ne
 the
 
 
- /
+</
 
 
 }t
@@ -33896,7 +33961,7 @@ now
 
 d&'no»^-
 
-hither hed&k'he',
+hither<hed&k'he',
 
 aboard'Was
 coming,
@@ -34156,7 +34221,7 @@ ne
 the
 
 
- /
+</
 
 
 h&ks&^'gdwa
@@ -34370,7 +34435,7 @@ Mt vtrlly, Uu (Itli)tru^ Uvt Uw
 
 no" oflgi&'&"'no"' 8'h&'de'io'dfi&
 
-Uut tti7-ni7-bo«(» ■Ukc-botli-tt ( i.)-
+Uut tti7-ni7-bo«(» ■Ukc-botli-tt (<i.)-
 
 bi-liinn (m)
 
@@ -34392,9 +34457,9 @@ Bo iffw tba-baniHi dlitb»«-Mkt the It (k.) cmo^Id lb*
 
 w&'ftfi'no"' g&"no'"-kho'. D&' o'nS"' diq' o'ti&&finoagfill'i8;
 
-It ODbow It (a.) wnw^nd. Sa nmr Mora- dld-«bg i4-bawCs)'0OB>
+It ODbow It (a.) wnw^nd. Sa nmr Mora- dld-«bg‹i4-bawCs)'0OB›
 
-(tbn) (ih m) arar pan (bduf tc«Mur)
+(tbn) (ih<m) arar pan (bduf tc«Mur)
 
 B'h&'de'io'dftlk gft"no'"-kho' s'h&'de'io'd&fi, agw&s' 8'h&'^'d&'
 
@@ -34416,7 +34481,7 @@ Bo DOW tb« aluvbara tbanca ba baa tlie hDmui' ilA-l»tlrma
 
 " Han", o'nfi"' diadenfi""gBfid i'wi s'hll'dediiinO'we'kho'
 
-"Come, DOW lat tbo i-I-lt«t(ampt lit- •qtul-batb-tbr-mr^Ma
+"Come, DOW lat tbo<i-I-lt«t(ampt lit- •qtul-batb-tbr-mr^Ma
 
 (than) teat UJok cwtft (li)aDd
 
@@ -34424,7 +34489,7 @@ ne"ho'." Da' o'ng°' wai'Sfl', " Dediio»gwag4'dftt ; i"kho'
 
 aaamattKot So now (then) dld-hB-It4*T, " Lot tbrni-l-lt-baai]; I-ud
 
-loot."  thvi)
+loot." <thvi)
 
 d6"gio;^Sg4'dat. Httu", ga'djl' ne'kho' dedi'di't, ne" ne"
 
@@ -34440,7 +34505,7 @@ hm"ySk. Ganio" B'klidiit'H', da' o'nBn' dfi°di8'"'dad o'nS°'.
 
 tbou-I-It Aa aoon wtU-thoii-I-lt-lgt ao now botb-wlU-Urau-I- now
 
-aboot. aa looaa, (tbm) ran  tlMi).
+aboot. aa looaa, (tbm) ran <tlMi).
 
 O'nfi"' na'e' wani"yak o'n6"'-fl'hofi'kho' o'di8""dad.
 
@@ -34470,7 +34535,7 @@ SENECA FICTION^ LEOENDB, AND MYTHS [BTa.AN3f.tt
 
 ne'^ho' degi'die' ne'' hni'no°''8'ho»'& s'h&'degada'die'. Ne^'ho'
 
-there two they the both-tbeIr aiTowB- eveo-both-lt-flew aloxi^. There
+there two they the both-tbeIr<aiTowB- eveo-both-lt-flew aloxi^. There
 
 (n. an.) several
 
@@ -34770,7 +34835,7 @@ ne
 the
 
 
- /
+</
 
 
 (/
@@ -34923,7 +34988,7 @@ ne
 the
 
 
- /
+</
 
 
 ofl'gwe' wai'W woO'wi' ne" hofi'gak, "Hau" o'nfi*' ne"ho'
@@ -34965,7 +35030,7 @@ hodSflnod&'die' he'niiowe' wai^'te".' he'ofiwe' hofhiu'wi
 
 hMWa-SDOR utUrim tbacMO-ltHU*- thar^dM-tW- thanwhtr* b»-II^IIIii(-kn>l
 
-wait rIodi tant  la) two uilvo
+wait rIodi tant <la) two uilvo
 
 hatganiea't'hA'. ^ . i.
 
@@ -34984,7 +35049,7 @@ o'nfi"' diq' wfty&d6'ntf"d&"go' he'ofiwe' gawS'not. O'ni"' ne"
 
 ofl'gwe' wai'ftfi', " Hau" o'nS"' age'8'hen6''"8'ho°', hofi'g&k,
 
-hniDU bvlng dU-h^-H-aay, "Com^ now {thai) bv- Ut« (■••mtmkI ttIII |nr«a.
+hniDU bvlng dU-h^-H-aay, "Com^ now {thai) bv-<Ut« (■••mtmkI ttIII |nr«a.
 
 gwadekhwi"B&khft'." O'nft"' diq' o'w8Qnade"go' o'tgofidld8"',
 
@@ -35091,7 +35156,7 @@ ne
 the
 
 
- /
+</
 
 
 kft''skw&'
@@ -35104,7 +35169,7 @@ ne
 the
 
 
- /
+</
 
 
 oft'gwe'
@@ -35445,7 +35510,7 @@ ne
 the
 
 
- /
+</
 
 
 o'neg&"ge*
@@ -35459,7 +35524,7 @@ dld-h»^ nor nun- tbsr* -ud too abo, dld-b»dlva,
 
 tbrow, (than) otbt
 
-dy&' io"yak o'negft"ge'. O'nfi"" diq' ne" gfi,"akwa'
+dy&'<io"yak o'negft"ge'. O'nfi"" diq' ne" gfi,"akwa'
 
 own*odr- It (•.) mtn-oa. Now
 
@@ -35479,7 +35544,7 @@ AHooiHw-Juat dld-bfrwU- tha b« (n.)-elilU- nov vcrllr, th«
 hoft'gwe, o'Vh&k ne" hocyoanyas"h&' ne" h&kBft"gOw&
 
 
-_ li«(a i.) ehOd
+_ li«(a<i.) ehOd
 
 HMD balDC taka up paat (ia)
 
@@ -35521,7 +35586,7 @@ waade'no»"da-kho'. O'nft"'
 
 lt(m.J«*DOa It (s.) watM-OD
 
- !»
+<!»
 
 dld-h^al^pat-mtoCtH-d. ^Now
 
@@ -35571,7 +35636,7 @@ ea&de'sgO'go'.
 
 nfe"' n&'e' deetka'tofi'mo"' de'g&tgft"ho' ne" ofl'gwe'
 
-ilow TOrllr both ho-hl» jwoa>u iut4ny*b«e- the human
+ilow TOrllr both ho-hl»‹jwoa›u iut4ny*b«e- the human
 
 Lhan) aroond aucnaaalTaly at-kll beln|
 
@@ -35619,7 +35684,7 @@ thlther-theT-lt-paddlfaiggo-ftfoDg
 
 h&'no°'dak'he' ne
 
-he  an. )-aboard- the
+he <an. )-aboard- the
 
 goes
 
@@ -35857,7 +35922,7 @@ ne
 the
 
 
- /
+</
 
 
 ne
@@ -35965,9 +36030,9 @@ now
 (thai)
 
 
-w6fi' io°' 6»8'h&' 'ny agg'^'t
+w6fi'<io°' 6»8'h&' 'ny agg'^'t
 
-'; when will-egata'he< escape
+'; when will-egata'he<<escape
 
 (get out o( hand)
 
@@ -36002,7 +36067,7 @@ ne
 the
 
 
- /
+</
 
 
 STiagoni"
@@ -36056,13 +36121,13 @@ stands, to.
 
 Da' ne"ho' waft'gS"' ne" oft'gwe' hay&3"h6°' 'A-'aQ"
 
-So than did b*-li-«n tlw human h* (aii.)- ap[De- alQl
+So than did b*-li-«n tlw human h* (aii.)-<ap[De- alQl
 
 (llwa) b«tns Ub
 
 hon'he' ne" b6""6'' hayft'di'ge' o'n6"' Sfge"'. DySflgwa's'hofi
 
-he->llT« tlut inttet, hlibodynui no* It-rotten Ba lden1y-]u. I
+he->llT« tlut inttet, hlibodynui no* It-rotten Ba<lden1y-]u.<I
 
 ^b) iDdWd (tben) (ta). C>U tt vic»-]iut>
 
@@ -36100,7 +36165,7 @@ to-b»«>uae. (tbao) . plaoe on
 gowe'notlift'. Da' djia'go" diq'. HeyogC'sot ne"ho' s&dyft'-
 gowinota. Bo (do) thnn mora- Thwe-lt (>■.)■ rtrOy tbr-omi-
 
- tb(D) be-bnva. otw. onr-iapa bodrdafko"'. Da' djia'go- diq'. ■ Dft' o'nfi"' diq' n6fl'd6
+<tb(D) be-bnva. otw. onr-iapa bodrdafko"'. Da' djia'go- diq'. ■ Dft' o'nfi"' diq' n6fl'd6
 
 potant-migl- Bo (do>-thoii- mon- Bo now mar*- thb
 
@@ -36113,7 +36178,7 @@ ao-wlll- ahalt-thod-Mm-omda- the Safowaiota. TMa Indeed
 nft-'aye' ne" o'nfi"' B"a4yo"d6'".
 ao-wUt- the DOW wOt4hoii-it-WDrk.
 
-thou-lt-do  thaa)
+thou-lt-do <thaa)
 
 Da' ne" diq' ne" o'ne"' heg&a'gwa"&' o'nft"' wai'
 
@@ -36173,7 +36238,7 @@ Do-thOQ-tt
 do-not
 
 
-wflt-thoofear- b6
+wflt-thoofear-<b6
 
 
 tofl'k
@@ -36582,7 +36647,7 @@ Kot-lt-limf-tlms ma now the bt (aii.)-boiiB-|TbK a>t Imt
 
 daas'nye't, od&"&"t' he-niodon'ho^S'nyftfl, wai'gfl', "He'oflwe'
 
-th«iM-hiftl- It (ii.l^lUfnl wb rMo4i»4uAmi( (1», dld4ie-lt- " Then «b re
+th«iM-hiftl- It (ii.l^lUfnl wb<rMo4i»4uAmi( (1», dld4ie-lt- " Then «b<re
 
 unwind, <£) nr.
 
@@ -36717,7 +36782,7 @@ o't'h8''ft'dftt"ho"'. Ne" diiui'wft' waay&'dofinya'DoU' ne"
 
 dld-ba ran locoaadmy. Tbal ao It (it.) r«a- dld-ho-doUs-maka- tba
 
-aon  ll) aevcnllj.
+aon <ll) aevcnllj.
 
 gay&"d&' B°ho'nigo°'g6ft'nI' ne" ofi'gwe' i'yas, ne" S'bagowB'not'hft', nO'nfi"' fi°8'hft'yo'" ne" o'n8°' 8''yo"ga'.
 
@@ -37036,7 +37101,7 @@ ne
 the
 
 
- /
+</
 
 
 ne*' he'ofiwe^
@@ -37198,7 +37263,7 @@ ne
 ths
 
 
- /
+</
 
 
 thither-didhe-go
@@ -37317,7 +37382,7 @@ dlcacU; lloau
 
 g&'hoii'w&' ne'ne" howfi'nSdS"
 
-It  ii.)-eaiKi« tbat-tha he^ni'iilanilhftk3&"g0wft, . ne"kho' . hot'hoQ'de' ne" dji'yA' onadi's'da',
+It <ii.)-eaiKi« tbat-tha he^ni'iilanilhftk3&"g0wft, . ne"kho' . hot'hoQ'de' ne" dji'yA' onadi's'da',
 
 ba(iii.)3>lld- Ihnt-wd he-lt-bavi tha dog(a) thalr rt.>4aU
 
@@ -37375,7 +37440,7 @@ being (Is) whatplaoe)
 
 hat'g&' ne'' honfis'kwaiyft*'' ne" dji'y&* o'u6"' wai'ftft',
 
-he-it- the hls-8lave(8)-owned the  lQg(s) now dkl he-It
+he-it- the hls-8lave(8)-owned the <lQg(s) now dkl he-It
 
 let go then say,
 
@@ -37429,7 +37494,7 @@ great (is) thing
 
 hag6»'dil. O'dwadI'dS"' o'n6»' ne" hofi'gak,
 
-h» a».) ancient Did-tliey (s.)-fly now the wild geese.,
+h»<a».) ancient Did-tliey (s.)-fly now the wild geese.,
 
 (is). away (then)
 
@@ -37471,7 +37536,7 @@ RDM, •ntn
 
 gaytt8"he"', ne" hodjl'ya' ne"kho' ne" iie"ho' heyo"88"'o'
 
-ttCi.> upli»l«r tb* UiHloc thatind tb» Umm tluc»K(a.Htl]«one" gft"iio°' he" gtts&'gain. Da' ne" diq' ne' S'hi^wg-
+ttCi.><upli»l«r tb* UiHloc thatind tb» Umm tluc»K(a.Htl]«one" gft"iio°' he" gtts&'gain. Da' ne" diq' ne' S'hi^wg-
 
 tbe tt (■.}-•(»* Tb«n It Ci.>-iiiantli4n. Bo tbkt mm- tlw Suo-
 
@@ -37507,7 +37572,7 @@ Isbuk&ic,
 ran", wau"," dyo'dofl, dfi' o'nS"' nft'e' ne"ho' waadak'he'
 
 
- tlMD) (UM)
+<tlMD) (UM)
 
 he'gwa. Agwas' o'n6"' doskM'ft' niyaftdftklio' o'nS°' a'e'
 
@@ -37550,7 +37615,7 @@ proliudwl bmn raaratOi)
 
 deknI'h&do'"t ne" ne" gayft'dofini g8yfi"da'. Da' ne" diq'
 
-twft-lnort«r Me«)d> ttal tb» U (w-HManfldit It (ii.>4oa, bodr. Bo tHat mem
+twft-lnort«r‹Me«)d› ttal tb» U (w-HManfldit It (ii.>4oa, bodr. Bo tHat mem
 
 
 SENECA FICTION, LEGENDS, AND MYTHS [BTH.AXsr.n
@@ -37864,7 +37929,7 @@ there It (».)-lake4)eBlde
 
 ga'hofi'wa' o'nega' 'ge*
 
-it (•i.)-oanoe It (n.)-WBt«r m
+it (•i.)-oanoe It (n.)-WBt«r<m
 
 "Ga'o' nonda'swet
 
@@ -37906,7 +37971,7 @@ lUpuUd
 
 Da' ne" hak8ft"gQwft ganio" waade'no''"da' o'nfi"' wai'ftfl',
 
-80 th* lu{aii.KIiUd- as soon  Ud-h»«*lf-iiut«biiVd now (Ud-h^-ll'
+80 th* lu{aii.KIiUd- as soon <Ud-h»«*lf-iiut«biiVd now (Ud-h^-ll'
 
 (Umd) |nM(li> u (tlLK) ny,
 
@@ -37947,13 +38012,13 @@ hat'hofiway£Ddftk'hw&' waa'g6°' ne" gft'hofl'w&' I'no"
 
 w&'o'dSfldyofi&fi'die' ganyadfte"ge' ne"ho' hE'no"'d&'die' ne"
 
-tbttber-lt-iDOTliv-wtnt Bkof tt Cii.Hiik» iD ttumm ha belnc ibcard tlw
+tbttber-lt-iDOTliv-wtnt Bkof tt Cii.Hiik»<iD ttumm ha belnc ibcard tlw
 
 hftks&'-gOwft, ne" daonoo'don'die', o'nS" o't'hs'et ne"
 
 b*(aii.>ohlld- that thaoea-ha-K-oonCrDltliv now did-ha- th*
 
-P Bt(f>) ouwalonf, (Uw) ihodt
+P‹Bt(f›) ouwalonf, (Uw) ihodt
 
 hagfi"'dil' wftfts'nyet wai'Sfl', "Dondas&"get dedyad&°non'de'.
 
@@ -37975,7 +38040,7 @@ not-bMonawta atawUd-ha-lt-Uslvi Ui. Bo now more- tba ha (ai>.)-ablld-inat
 
 dyeflgw&"B'hofi da&a'nye't wai'fifi', "O'nB"' nll'e' o'gwft'non
 
->add nly-Jliat(allat UHOcc-ha-lt- dld-b«4t- "Now vaOr dld-I^ni-Itonoa) apoke lari (tbu) ftraloaM
+>add<nly-Jliat(allat UHOcc-ha-lt- dld-b«4t- "Now vaOr dld-I^ni-Itonoa) apoke lari (tbu) ftraloaM
 
 he-ni'yofi o'wft" i'swas' lie" ganyod&'gofi 8wfi""dyo"
 
@@ -38032,7 +38097,7 @@ SEKEGA FICTION^ LEGENDS, AND MYTHS [BTH.AirH.tt
 
 wai'gfi', "H5', dagi'dSfi' dedyadgfinofi'de'. Dondas4"get."
 
-did-he-tt- "HO', thoo-me-do- both-thou-I-brotlun ara).
+did-he-tt- "HO', thoo-me-do- both-thou-I-brotlun<ara).
 
 aay, have pily on
 
@@ -38461,7 +38526,7 @@ ne
 th«
 
 
- /
+</
 
 
 o'nfi"' he'dyoft waa'gft"'
@@ -38618,7 +38683,7 @@ ihe(aii.)-woman
 fi°8»fid6»8t"he't,
 
 
- /
+</
 
 
 thenoe-dld-shearise
@@ -38747,7 +38812,7 @@ ne
 the
 
 
- /
+</
 
 
 (now the ma;
@@ -39082,7 +39147,7 @@ ne
 the
 
 
- /
+</
 
 
 deyagya'dl'. Dy&wft"''o»'
@@ -39502,7 +39567,7 @@ the wad lew* varilyi "8«" m, «a, an," II (ii.)4af«.
 
 Da' o'nfe" w&'o3tk&"t'ho' ne" eksft"g6wa ne" ye'a'hofl'ne'
 
-80 DOW  U(Mi»4oak the ihs (an.l-idilLd- the her (i«.}-back-at
+80 DOW <U(Mi»4oak the ihs (an.l-idilLd- the her (i«.}-back-at
 
 (then) (thai) great (la)
 
@@ -39544,7 +39609,7 @@ iSS "*■;««>""
 
 agwas' niyosno'we' hofl'we' wft'o'dl'
 
-■nry.ioit ao-lt (».> wlft la jaodm.lar dld4t-lt-
+■nry.ioit ao-lt (».><wlft la jaodm.lar dld4t-lt-
 ■a, away oaat
 
 ne" gahofl'wft' ne"
@@ -39712,7 +39777,7 @@ ne
 the
 
 
- /
+</
 
 
 eks&'^gow& w&'ontkat'lxo' ne"ho*
@@ -39974,7 +40039,7 @@ the
 he (aa.)-ch)ldgreat (is)
 
 
-hofifl'no"', kho" ne" o'Dfi"* ne"ho' wai ie"8yo6iiI' he'oflwe'
+hofifl'no"', kho" ne" o'Dfi"* ne"ho' wai<ie"8yo6iiI' he'oflwe'
 
 
 (tlMD)
@@ -39998,7 +40063,7 @@ So tbit aero- ttao K(a.)-MDo* hrnnr, dov thKh«r-dJdthm ova rood'i (Uuo) It-fo.
 
 DS' o'nft"' wao'sai'yS"' o'nfi"' hagoe'djofi'nyo" ne" hofl'-
 
-Bo Dov iUd-b»-iiiiika DOW li» ttMm] anwd-oD- tha wild
+Bo Dov iUd-b»-iiiiika DOW li»<ttMm] anwd-oD- tha wild
 
 (Uun) (Uun) but* (Uw] TtptibMj
 
@@ -40066,7 +40131,7 @@ It (i.) KUDfraiiliul nnmbns.
 
 na'e' de'awe"o"' ayagona^skwayfifl'da'k g8°8' na'"gS" ne"
 
-tvUt not H»-ll-d alciud ihotUd-oiiaj l^kTa-lo- vmrnUj tUl(ltb)
+tvUt not H»-ll-d<alciud ihotUd-oiiaj l^kTa-lo- vmrnUj tUl(ltb)
 
 ^'nyo'.
 
@@ -40691,7 +40756,7 @@ Their (an.) lodge It is That the Dooft'danS'gfi*' h« is called, the
 stands said. (it is) is named
 
 
- /
+</
 
 
 hag6°'dji. Da' ne" naV ne" haks&'^gOwa, ne" ne
@@ -40809,7 +40874,7 @@ tt
 
 ne'' Hotkwisdadeg8°'&'
 
-itisfaid, he started, departed, tlie HotkwisdBdeg H>'fi'-
+itisfaid, he started, departed, tlie HotkwisdBdeg‹H›'fi'-
 
 hE'ofLwe' dyogoflwan'de'. Da' de'aonis'he"ofl'^
 
@@ -40882,7 +40947,7 @@ ne
 tha
 
 
- /
+</
 
 
 Hotkwisdadeg6»"&'.
@@ -41259,7 +41324,7 @@ ne
 the
 
 
- /
+</
 
 
 now
@@ -41480,7 +41545,7 @@ y ad&diwa'' 'd6"' . Hofisaa 'yo"'
 onoe
 
 
-thqr ( wo) (ore) unde
+thqr (<wo) (ore) unde
 andn^khew
 
 
@@ -41652,7 +41717,7 @@ and, that4Uid the he elder one (is) now (then) it is said did he it say did
 
 has'nye't, "De" ne" de'gi'do"."
 
-hespeak, ' Not that not I it mean."
+hespeak, '<Not that not I it mean."
 
 Da' ne" diq' na'e' o'n«»' ne" haufi'w&°d6°' h5'gw&
 
@@ -41749,7 +41814,7 @@ ne
 the
 
 
- /
+</
 
 
 hauft'w4M6°'
@@ -41830,7 +41895,7 @@ ne
 the
 
 
- /
+</
 
 
 far awavtoihird.
@@ -41977,7 +42042,7 @@ Yes.
 ff
 
 
- /
+</
 
 
 Da'
@@ -42215,7 +42280,7 @@ tmt."
 
 Oagw6.'go" ne"ho' niyo"d6H' hono°'fii!"g6' ne" ne"
 
-It «atk« (If) thoB, po, K> It oaadltko (to) hli^iMd on tbat  tt) tlw
+It «atk« (If) thoB, po, K> It oaadltko (to) hli^iMd on tbat <tt) tlw
 
 08dft"8'hofl, ne" hfi»wfi°de»"a'hft'.
 
@@ -42365,7 +42430,7 @@ ianthrop.) stand
 
 Da' o'nfi"' diq' ne" dyegS^'djI o'nfi"' wa'a'gfi"', "Gw5',
 
-So now too the Bhe(aii ft.) now didtfieltsay, "Lo,
+So now too the Bhe(aii<ft.) now didtfieltsay, "Lo,
 
 (then) elder one
 
@@ -42471,7 +42536,7 @@ ne
 the
 
 
- /
+</
 
 
 degyaddfinon^de'
@@ -42908,7 +42973,7 @@ ne
 the
 
 
- /
+</
 
 
 Daanoa'do"*'
@@ -42960,7 +43025,7 @@ ne
 the
 
 
- /
+</
 
 
 ne'
@@ -43134,7 +43199,7 @@ gi'VS
 It is said.
 
 
- /
+</
 
 
 i'w&d ne"
@@ -43161,7 +43226,7 @@ ne
 tha
 
 
- f
+<f
 
 
 B'he' 'd&gofi waad&' 'go'
@@ -43414,7 +43479,7 @@ ne
 the
 
 
- /
+</
 
 
 tkwgMa"«fi'
@@ -43468,7 +43533,7 @@ ne
 the
 
 
- /
+</
 
 
 Bgat' of[ya"6fi'. Da'
@@ -43534,7 +43599,7 @@ d«'M;c'd&'t, da' ne" diq' gH'o
 
 
 ne"ho' nft'n'dfi.' nofi'
-tw th«« thla ltii) fabf
+tw th«« thla<ltii) fabf
 
 daftdyfifl't'ho'. Da' ne"ho'
 
@@ -44604,7 +44669,7 @@ ne
 the
 
 
- /
+</
 
 
 dye'gow&nS", ' ' Yondyftfldaye 'o°'
@@ -44734,7 +44799,7 @@ SHchadye'SH ne" seg5'wftnS°
 wOl you be first the you eldest (are
 
 
- /
+</
 
 
 ne
@@ -45160,7 +45225,7 @@ Now that the she maiden did she speak did she it say moreover,
 
 "A'gi, gSfl" awMdofl'ny&'t, o'n6°' wai" waakna»'khwa"d6»'
 
-X'gi, exceed- it discouraging (Is), now truly  Ud he me anger
+X'gi, exceed- it discouraging (Is), now truly <Ud he me anger
 
 togly
 
@@ -45350,7 +45415,7 @@ toplaoe
 
 gofiwa7&"di'8&k'h&'.
 
-the they ( / i»>) him to seek went
+the they ( /‹i»›) him to seek went
 
 
 doskfeft'o** hfi'^'onwe' nihodino'^'sot
@@ -45543,7 +45608,7 @@ ne
 the
 
 
- /
+</
 
 
 o'nS
@@ -45740,15 +45805,15 @@ ne" hakno"B€"."
 
 hO'gfifi." Dft' o'nS°', gi"o"', ft'e' wao&w&i'sa'gfi"', ne" ne"
 
-ngr thl^ki." Sa Dinr tlun) Itliiald, apin, Tlirt ibi him mmh. Ire him, that tha
+ngr thl^ki." Sa Dinr<tlun) Itliiald, apin, Tlirt ibi him mmh. Ire him, that tha
 
 hono°"fifige'. Dft*dji&"a'hofi o'nS"" il'e' wafi'dJl', da' o'n6°'
 
-hbbaadaa. BocO'jDrt ' now  Uu>i) a(aln did be Ul aalaqt, lo iMnr
+hbbaadaa. BocO'jDrt ' now ‹Uu›i) a(aln did be Ul aalaqt, lo iMnr
 
 diq' eayew&'ha'cyoD', o'nft"' &'e' wai" 8ayofltge"d&d ne"
 
-man- aptiisbalt wnpanp DOir tlMD) afaln
+man- aptiisbalt wnpanp DOir<tlMD) afaln
 
 orar rapeatadly,
 
@@ -45767,7 +45832,7 @@ th«a«b«a tbaratbar (/(».} dwill tba Uuf an ibtv* one with anotbar tbeir moUi
 
 kho', o'w&'^ondyfifigwft'a'hofi dondayS'yo"' Bgainod&'die'.
 
-^bA, dldlha7(/t ii,) beanmeanrprliad thenoa aha aland *caln aba aa ■ pack
+^bA, dldlha7(/t<ii,) beanmeanrprliad thenoa aha aland *caln aba aa ■ pack
 
 (tn ladfo) ratunii.
 
@@ -45807,7 +45872,7 @@ Hoond tbtn (UdihatttM itfmrjptaln wlxn tgilii iba mot
 
 ne" heofiwa'"&° ne" Doo&'danS'gS"'. O'nfi"' n&'e' wft'-
 
-tlu bowtdivhlm tbt "T«DF ailHn Now nrOj dtd
+tlu bowtdivhlm tbt "T«DF<ailHn Now nrOj dtd
 
 cuTlMl TonUiu."
 
@@ -46455,7 +46520,7 @@ rivers; these were known under the name Gaasyendiet'ha by the Seneca and
 other northern Iroquoian dialects; the Tuscarora name is kahdaWn^s, a
 corrupt form of the Mohawk word, Kdhd$en'n&$, '^ It-light-goes-abouthabitually."
 
-These firedragons  i. e., the meteors of nature) were forced by an inflexible
+These firedragons <i. e., the meteors of nature) were forced by an inflexible
 spell or enchantment, exercised by the orenda or magic power of the God of
 Life, to remain in these watery depths because the shedding of sparks of fire
 and lambent fiames by their bodies would otherwise set the world cm fire were
@@ -46631,7 +46696,7 @@ Blgntfy, " His belt is yellow ", which is the, name of a kind of bee.
 288. DJlhtkwahen Haos for nji'UvA-SiY H&6» Blgnlfy "His robe or blanket
 1b yellow," the name of a kind of bee.
 
-268. Hahnowft Tgawenot for Ba'mS'tca To ntifnot BlgDlty "At the Tnrtl*
+268. Hahnowft Tgawenot for Ba'mS'tca To<ntifnot BlgDlty "At the Tnrtl*
 Island."
 
 270. Uotio'ttigagfv^t, the correct fbrm. signifies "His teeth (are) Sharp;"
@@ -47123,5 +47188,4 @@ Sacred Scriptures.
 
 464. This Is the slavery or servitude Imposed by the evil use of orenda (or
 magic power) by a hostile person; In Its original sense the English "spellbound " had this signification.
-
 

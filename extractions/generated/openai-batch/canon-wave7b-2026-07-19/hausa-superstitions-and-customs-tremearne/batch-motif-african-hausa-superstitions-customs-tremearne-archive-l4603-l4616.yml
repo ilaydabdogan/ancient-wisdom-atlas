@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l4603-l4616
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: COURTSHIP  75 / INTIMACY  PREVIOUS  TO  MARRIAGE     77 / PROHIBITED   DEGREES  79
+    / CEREMONIES; lines 4603-4616
+  start: '4603'
+  end: '4616'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a youth secretly courting a girl, giving her presents,
+    and seeking her favor. If she accepts him, he tells his parents, who then approach
+    specified relatives of the girl. If those relatives consent, the suitor's parents
+    begin a further round of visits, but the provided excerpt ends before completing
+    the sentence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The youth courts the girl secretly, gives her presents, and tries to win her
+    favor.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If the girl accepts him, the youth tells his parents.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The youth's parents first go to the girl's father's younger brother, to her
+    mother, and to her mother's younger sister to tell them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The consent of those relatives precedes a further action by the suitor's parents;
+    the excerpt ends before the object of that action is fully stated.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: youth
+  description: A young man who courts the girl and later tells his parents if she
+    accepts him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: girl / fiancée
+  description: A girl courted by the youth; if she accepts him, she is later referred
+    to as the fiancée.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: youth's parents / suitor's parents
+  description: The youth's parents are told by him and then approach the girl's relatives.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: girl's father's younger brother
+  description: A relative of the girl whom the suitor's parents go to first.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: girl's mother
+  description: A relative of the girl whom the suitor's parents approach.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: girl's mother's younger sister
+  description: A relative of the girl whom the suitor's parents approach.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: suitor
+  assigned_to:
+  - fig:1
+  basis: He courts the girl, gives presents, seeks her favor, and tells his parents
+    after acceptance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: prospective bride / accepting girl
+  assigned_to:
+  - fig:2
+  basis: The sequence depends on whether she accepts the youth; she is later called
+    the fiancée.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: suitor's family negotiators
+  assigned_to:
+  - fig:3
+  basis: They go to specified relatives of the girl after the youth tells them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: consulted bride-side relatives
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The suitor's parents go to these relatives and act further only on their
+    consent.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: courtship presents
+  literal_form: presents given by the youth to the girl
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: secret courtship and gift-giving
+  summary: The youth courts the girl secretly, gives her presents, and tries to win
+    her favor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: disclosure to parents and approach to bride-side relatives
+  summary: After the girl's acceptance, the youth tells his parents, who approach
+    the girl's father's younger brother, her mother, and her mother's younger sister;
+    their consent is required before the next step.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: courtship by gifts
+  taxonomy_refs: []
+  basis: The suitor gives presents to the girl as part of seeking her favor before
+    formal family involvement.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic marriage custom in the excerpt, not a mythic narrative
+    motif.
+- id: motif:2
+  label: marriage negotiation through kin consent
+  taxonomy_refs: []
+  basis: After the girl's acceptance, the suitor's parents approach specified bride-side
+    relatives, and their consent precedes further action.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt is truncated and does not complete the next stage of the ceremony.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4607-4609
+  quote_or_summary: "“The youth would court the girl on the sly nowadays, and give
+    her presents, and try to win her favour generally.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4609-4610
+  quote_or_summary: After a time, if the girl accepts him, the youth tells his parents.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4610-4613
+  quote_or_summary: The youth's parents go first to the girl's father's younger brother,
+    then to her mother and the mother's younger sister, and tell them.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4613-4616
+  quote_or_summary: "“On their consenting, the suitor's parents would go the round
+    of the fiancee's whole” [excerpt ends mid-sentence]."
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif assignment is limited because
+    the passage is ethnographic and the provided excerpt ends mid-sentence. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs apply. Available mythic motif-family refs were not assigned because the passage describes courtship procedure rather than a clearly mythic motif.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l4603-l4616
+  passage_sha256=fd65b895bfdcc123320d53f432ef57d16c29a7f88823ef40833137664ba300b7
+

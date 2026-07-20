@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l5166-l5193
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: INTRODUCTION. CXXV / NEANACH. / CXXV1 INTRODUCTION. / POSTSCRIPT.; lines
+    5166-5193
+  start: '5166'
+  end: '5193'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: I have found no important variation in any instance.
+  summary: A postscript dated September 1860 explains editorial placement of some
+    stories, omission of tales thought probably derived from the Arabian Nights, and
+    the compiler's recent verification of oral versions in the Western Highlands by
+    comparing repeated Gaelic-derived tellings with the printed book.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Stories marked xvii.a, xvii.b, xvii.c, and xvii.d were intended for the second
+    volume but were placed in Volume I for convenience.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tales intended as specimens probably derived from the Arabian Nights were
+    omitted to make room for others.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In August and September 1860 the narrator again visited the Western Highlands
+    while carrying nearly all of the two volumes in print.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator repeatedly made men who had told stories to his collectors repeat
+    those stories while he compared their words with the book.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In two cases the narrator had men repeat stories that he had himself written
+    down in English from their Gaelic.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator reports finding no important variation in any instance.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator says the stories are generally much longer when told orally because
+    of added dialogue, often unrelated to incidents though sometimes worth preserving.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator says he had seen most of the named men and heard versions of
+    nearly every story from original tellers or from people living far from them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: John Mackinnon, a stableman at Broadford in Skye, told the narrator a version
+    of No. 18 in September.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: postscript narrator/compiler
+  description: The first-person speaker who edited the volumes, revisited the Western
+    Highlands, compared oral repetitions with the book, and had previously written
+    down some Gaelic stories in English.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: men who told the stories
+  description: Storytellers who had told stories to the narrator's collectors and
+    were asked to repeat them for comparison with the printed book.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: collectors
+  description: The narrator's collectors, to whom some men had originally told the
+    stories.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: John Mackinnon
+  description: A stableman at Broadford in Skye who told the narrator a version of
+    No. 18 in September.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: compiler and verifier of oral versions
+  assigned_to:
+  - fig:1
+  basis: The narrator describes editorial choices, revisiting the Western Highlands,
+    and comparing oral repetitions with the printed book.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: oral tale informant
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The men repeated stories for comparison, and John Mackinnon told a version
+    of No. 18.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: story collectors
+  assigned_to:
+  - fig:3
+  basis: The passage refers to men who told stories to the narrator's collectors.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: editorial postscript on volume arrangement
+  summary: The postscript explains that several stories were moved into Volume I and
+    that some tales thought probably derived from the Arabian Nights were omitted.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Western Highlands verification trip
+  summary: The narrator revisits the Western Highlands with printed volumes and has
+    storytellers repeat stories while he compares their words with the book.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: assessment of oral variants
+  summary: The narrator reports no important variation in repeated versions, notes
+    that oral tellings tend to be lengthened by dialogue, and mentions hearing versions
+    from original or distant tellers, including John Mackinnon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: stable oral transmission with expanded dialogue
+  taxonomy_refs: []
+  basis: The passage states that repeated oral versions showed no important variation,
+    while oral tellings were generally longer because of added dialogue.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a source-critical transmission pattern rather than a mythic narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The postscript reports that some omitted tale specimens were considered probably
+    derived from the Arabian Nights.
+  claim_level: historical_contact
+  target: Arabian Nights corpus
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no titles, plots, motifs, or evidence for the proposed
+    derivation; it only reports the compiler's editorial characterization of omitted
+    tales.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5166-5174
+  quote_or_summary: Postscript dated September 1860 says stories marked xvii.a-d were
+    placed in Volume I, and tales probably derived from the Arabian Nights were left
+    out to make room for others.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 5175-5179
+  quote_or_summary: In August and September 1860 the narrator again visited the Western
+    Highlands carrying nearly all of the two volumes in print.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 5179-5187
+  quote_or_summary: The narrator made the original storytellers repeat stories while
+    he compared their words with the book; in two cases he repeated stories he had
+    written in English from Gaelic and found no important variation.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 5187-5191
+  quote_or_summary: The narrator says oral versions are generally longer because of
+    dialogue, often with little relation to incidents though sometimes worth preserving.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 5191-5193
+  quote_or_summary: The narrator says he had seen most named men and heard versions
+    of nearly every story from original tellers or distant people; John Mackinnon
+    of Broadford in Skye told a version of No. 18.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly editorial and source-critical, with no narrative myth
+    episode or symbolic objects. The single candidate motif is a transmission pattern,
+    not a mythological motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs or motif-family refs were assigned because the passage does not present mythic symbols or narrative motifs from the available taxonomy.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l5166-l5193
+  passage_sha256=3dc45a0cc1615383a8c0432382e7bb5438b372958b85e86733a907b83a764d9f
+

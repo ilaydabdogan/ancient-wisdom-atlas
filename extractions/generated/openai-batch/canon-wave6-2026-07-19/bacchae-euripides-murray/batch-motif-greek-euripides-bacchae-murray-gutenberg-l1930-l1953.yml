@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1930-l1953
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: CHORUS. / LEADER. / DIONYSUS. / PENTHEUS.; lines 1930-1953
+  start: '1930'
+  end: '1953'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: O eye that cravest sights thou must not see
+  summary: Dionysus summons Pentheus to appear in a female Bacchic disguise and spy
+    on Dionysus' chosen women and Pentheus' mother. Pentheus enters in Bacchic clothing,
+    under madness, reports double vision, and sees Dionysus as a horned bull or man-beast.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus addresses Pentheus as craving sights he must not see and as thirsting
+    for something that does not satisfy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus calls Pentheus to come forth and be seen in the guise of a woman,
+    a Maenad, and a saint of Dionyse.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stated purpose of Pentheus' disguise is to spy on Dionysus' Chosen and
+    on Pentheus' own mother.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Pentheus enters dressed like a Bacchanal, strangely excited, with Bacchic
+    madness overshadowing him.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Dionysus says Pentheus' shape seems like one of Cadmus' royal maids.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Pentheus says his eye is bright and that he sees the sun, Thebes, and the
+    Wall of Seven Gates as twofold.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Pentheus sees or questions whether Dionysus is a wild bull with horns, asking
+    whether he is man or beast.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Speaker who summons Pentheus, comments on his appearance, and is perceived
+    by Pentheus as having a bull-like or horned form.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Pentheus
+  description: Person addressed and summoned by Dionysus; he appears in Bacchic female
+    disguise, under Bacchic madness, and reports altered vision.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: His Chosen
+  description: A collective group associated with Dionysus and named as a target of
+    Pentheus' spying.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Pentheus' mother
+  description: Pentheus' own mother, named as another target of his spying.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: summoning speaker
+  assigned_to:
+  - fig:1
+  basis: Dionysus directly calls Pentheus to come forth in disguise.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: disguised would-be spy
+  assigned_to:
+  - fig:2
+  basis: Pentheus is told to appear in a female Maenad guise in order to spy, and
+    he enters dressed like a Bacchanal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Bacchic-mad witness
+  assigned_to:
+  - fig:2
+  basis: The stage direction says Bacchic madness overshadows him, and he reports
+    double sight and a bull-like vision.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: spied-upon devotees
+  assigned_to:
+  - fig:3
+  basis: Dionysus says Pentheus is to spy upon His Chosen.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: mother named as spying target
+  assigned_to:
+  - fig:4
+  basis: Dionysus names Pentheus' own mother as one whom he is to spy upon.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: perceived bull or man-beast
+  assigned_to:
+  - fig:1
+  basis: Pentheus describes the figure before him as a wild bull with horns and asks
+    whether he is man or beast.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: forbidden sight
+  literal_form: sights thou must not see
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: female Bacchic disguise
+  literal_form: guise of woman, Maenad, saint of Dionyse; clad like a Bacchanal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: twofold vision
+  literal_form: sun, Thebes, and Wall of Seven Gates seen as twofold
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: horned wild bull
+  literal_form: Wild Bull with horns on the brow; man-or-beast ambiguity
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Summons into Bacchic disguise
+  summary: Dionysus calls Pentheus to appear in female Bacchic form so that he may
+    spy on Dionysus' Chosen and on his own mother; Pentheus enters dressed like a
+    Bacchanal and under Bacchic madness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Altered sight and bull perception
+  summary: Pentheus reports doubled vision of the sun and Thebes, then sees Dionysus
+    as a horned wild bull or ambiguous man-beast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Forbidden sight and illicit spying
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage explicitly describes sights Pentheus must not see and frames
+    his disguise as a way to spy on the Chosen and his mother.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: 'The available taxonomy term is approximate: the passage stresses prohibited
+    seeing and spying rather than explicit acquisition of knowledge.'
+- id: motif:2
+  label: Disguise for secret observation
+  taxonomy_refs: []
+  basis: Pentheus is summoned to appear in female Maenad/Bacchanal guise for the purpose
+    of spying.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the disguise and spying purpose, but not the outcome
+    of the spying.
+- id: motif:3
+  label: Ritual madness and altered perception
+  taxonomy_refs: []
+  basis: Pentheus is described as overshadowed by Bacchic madness and then reports
+    doubled sight and a horned bull-like vision.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents altered perception literally in speech and stage
+    direction; broader ritual interpretation would require surrounding context.
+- id: motif:4
+  label: Human figure perceived as animal or man-beast
+  taxonomy_refs:
+  - shapeshifter
+  basis: Pentheus sees the figure before him as a wild bull with horns and asks whether
+    he is man or beast.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage supports animal-form ambiguity in Pentheus' perception, but
+    does not confirm an actual transformation; Bacchic madness may account for the
+    vision.
+comparison_claims:
+- id: claim:1
+  claim: This passage can be cautiously compared to a forbidden-sight or forbidden-knowledge
+    motif family because it explicitly marks the desired sight as something Pentheus
+    must not see and links it to spying.
+  claim_level: same_motif
+  target: forbidden_knowledge motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage concerns prohibited sight and voyeuristic spying; it does
+    not explicitly name knowledge as the forbidden object.
+- id: claim:2
+  claim: The bull-like perception of Dionysus has a cautious visual similarity to
+    shapeshifter or animal-form ambiguity patterns.
+  claim_level: visual_similarity
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: low
+  limitations: The vision occurs while Pentheus is described as under Bacchic madness
+    and seeing double, so the passage does not establish an objective shapeshift.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1930-1940
+  quote_or_summary: 'Dionysus addresses Pentheus: “sights thou must not see,” calls
+    him “in guise / Of woman, Maenad,” and says he is “To spy upon His Chosen and
+    thine own / Mother.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: stage direction after line 1940
+  quote_or_summary: Pentheus enters “clad like a Bacchanal,” strangely excited, with
+    “Bacchic madness overshadowing him.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1941-1942
+  quote_or_summary: Dionysus says Pentheus' shape is “like to one / Of Cadmus' royal
+    maids.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1945-1948
+  quote_or_summary: 'Pentheus says: “Yon sun shines twofold in the sky, / Thebes twofold
+    and the Wall of Seven Gates.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1949-1953
+  quote_or_summary: Pentheus asks whether the figure before him is “a Wild Bull,”
+    sees “horns upon thy brow,” and asks, “man or beast?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is well supported by the supplied passage. Motif taxonomy
+    mappings are cautious, especially for shapeshifter, because the passage frames
+    the animal-form perception amid madness and double vision.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1930-l1953
+  passage_sha256=55e1317c71be22698c20553b49990369d3bb826073e646f5850a8f8a15cc3fb3
+

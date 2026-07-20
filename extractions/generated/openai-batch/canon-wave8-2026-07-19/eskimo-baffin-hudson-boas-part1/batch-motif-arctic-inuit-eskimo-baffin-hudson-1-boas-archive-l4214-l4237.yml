@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-baffin-hudson-1-boas-archive-l4214-l4237
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+passage_locator:
+  label: III. SOCIAL ORGANIZATION. / WEST COAST OF HUDSON BAY. / IV. CUSTOMS AND RELIGIOUS
+    IDEAS. / CUMBERLAND SOUND.; lines 4214-4237
+  start: '4214'
+  end: '4237'
+  translation: The Eskimo of Baffin Land and Hudson Bay, Part I
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes three days of prohibitions after a death, grave visits
+    in which relatives speak to the deceased as socially present, promises and food
+    left for the dead after successful hunting or fishing, and the leaving behind
+    of certain skins connected with a person who died during the year.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: For three days after a death, various kinds of work, movement of animal products,
+    lamp cleaning, women's hair-combing and face-washing, and sexual intercourse are
+    forbidden.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After burial, relatives visit the grave and talk among themselves as they
+    would at home, treating the dead person as if still among them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Relatives praise the deceased and say that if one of the women has a child,
+    the child would be named after the deceased.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Relatives promise to return after catching seal, caribou, or salmon and to
+    bring something to the deceased.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After catching game, relatives eat part of it at the grave and leave a portion
+    for the dead person.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When moving, people check for skins obtained by someone who died during the
+    year and leave such objects behind if they can do without them.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: relatives
+  description: Relatives of the deceased who visit the grave, speak there, promise
+    to return, bring food, and leave a portion for the dead.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: dead one / deceased
+  description: The person who has died and is addressed at the grave, praised, promised
+    offerings, and given a portion of food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: women
+  description: Women are subject to specific post-death restrictions on combing hair
+    and washing faces; one woman may name a future child after the deceased.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: people moving from one place to another
+  description: People who inspect property when moving and may leave behind skins
+    obtained by someone who died during the year.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: grave visitors and offerers
+  assigned_to:
+  - fig:1
+  basis: They visit the grave, speak there, promise to return, eat part of game at
+    the grave, and leave a portion for the dead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: socially addressed deceased recipient
+  assigned_to:
+  - fig:2
+  basis: The deceased is spoken of as if still present and receives praise, promised
+    gifts, and a portion of food.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: women under mourning restrictions and possible namers
+  assigned_to:
+  - fig:3
+  basis: Women must not comb or wash during the restricted period, and a future child
+    of one woman may be named after the deceased.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: movers managing property connected with the dead
+  assigned_to:
+  - fig:4
+  basis: When moving, they look for skins obtained by someone who died during the
+    year and may leave them behind.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: three-day death prohibition period
+  literal_form: three days after a death
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: grave
+  literal_form: grave visited after burial
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: food portion for the dead
+  literal_form: part of seal, caribou, salmon, or other game left at the grave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: child named after the deceased
+  literal_form: future child named after the deceased
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: skins connected with the deceased
+  literal_form: skins obtained by one who died during the year
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Three days of prohibitions after death
+  summary: After a death, several actions and kinds of work are forbidden for three
+    days, including women's grooming and sexual intercourse.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Relatives speak at the grave
+  summary: Relatives visit the grave after burial, speak as if at home, praise the
+    deceased, and discuss naming a future child after the dead person.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Food brought and left at the grave
+  summary: Relatives promise to return after obtaining seal, caribou, or salmon; after
+    catching game, they eat part at the grave and leave a portion for the deceased.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Leaving behind skins connected with the dead
+  summary: When people move, they look for skins obtained by someone who died during
+    the year and leave them behind if they can manage without them.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: post-death taboo period
+  taxonomy_refs: []
+  basis: The passage lists forbidden actions for three days after a death.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents rules but does not explain their rationale.
+- id: motif:2
+  label: grave visit treating the dead as socially present
+  taxonomy_refs: []
+  basis: Relatives talk at the grave as they would at home and as if the deceased
+    were still among them.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader doctrine of the dead is stated beyond this practice.
+- id: motif:3
+  label: food offering to the dead
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Relatives promise to bring something after catching game, eat part at the
+    grave, and leave a portion for the deceased to please him.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage describes giving food to the dead, but does not explicitly
+    frame it as reciprocal exchange or sacrifice.
+- id: motif:4
+  label: naming a child after the deceased
+  taxonomy_refs: []
+  basis: Relatives say that if one woman has a child, the child would be named after
+    the deceased.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not state reincarnation, rebirth, or transfer of identity.
+- id: motif:5
+  label: abandoning property associated with a recent death
+  taxonomy_refs: []
+  basis: When moving, people may leave behind skins obtained by a person who died
+    during the year.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain whether the act is avoidance, offering, disposal,
+    or another practice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4214-4220
+  quote_or_summary: For three days after a death, work involving animal products and
+    materials, lamp maintenance, women's grooming, and sexual intercourse are forbidden.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4221-4228
+  quote_or_summary: After burial, relatives visit the grave, speak as they would at
+    home as if the dead person were present, praise the deceased, and mention naming
+    a future child after the deceased.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4228-4232
+  quote_or_summary: Relatives promise to return after catching seal, caribou, or salmon;
+    after catching game, they eat part at the grave and leave a portion for the dead
+    person.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4233-4237
+  quote_or_summary: When moving, people look for skins obtained by someone who died
+    during the year and leave such objects behind if they can do without them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive; only
+    the food offering has a cautious available taxonomy reference. No comparison claims
+    are made because the passage does not itself compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unstated comparisons used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:arctic-inuit-eskimo-baffin-hudson-1-boas-archive__l4214-l4237
+  passage_sha256=00e6756961c177ebe159985b6ca68b3faa1007773c25786e2c39d2f8e1d96a80
+

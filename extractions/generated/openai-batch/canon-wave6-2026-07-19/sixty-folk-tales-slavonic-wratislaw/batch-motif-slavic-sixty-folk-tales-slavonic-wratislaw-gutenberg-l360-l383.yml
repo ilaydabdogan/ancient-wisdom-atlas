@@ -1,0 +1,185 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l360-l383
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: BULGARIAN STORIES                                                175 / SERBIAN
+    STORIES                                                  204 / SERBIAN STORIES
+    FROM BOSNIA                                      239 / SERBIAN STORIES FROM CARNIOLA                                    252;
+    lines 360-383
+  start: '360'
+  end: '383'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents passage lists Serbian stories from Bosnia and Serbian
+    stories from Carniola, giving tale numbers, English titles, transliterated Slavonic
+    titles in parentheses, source notes, and page numbers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents list rather than a narrative scene.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: 'Under the heading "Serbian Stories from Bosnia," the passage lists two tales:
+    "The Birdcatcher" and "The Two Brothers."'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'Under the heading "Serbian Stories from Carniola," the passage lists five
+    tales: "The Origin of Man," "God''s Cock," "Kurent the Preserver," "Kurent and
+    Man," and "The Hundred-Leaved Rose."'
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Each listed item includes a source note, chiefly naming J. F. Jukih in the
+    "Bosnian Friend" for the Bosnian tales and "The Neven" for the Carniolan tales.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Birdcatcher
+  description: Named in the tale title "The Birdcatcher"; no actions are described
+    in this passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Two Brothers
+  description: Named in the tale title "The Two Brothers"; no actions are described
+    in this passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Man
+  description: Named in the title "The Origin of Man" and also in "Kurent and Man";
+    no actions are described in this passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: God
+  description: Named possessively in the tale title "God's Cock"; no actions are described
+    in this passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Cock
+  description: Named in the tale title "God's Cock"; no actions are described in this
+    passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Kurent
+  description: Named in the tale titles "Kurent the Preserver" and "Kurent and Man";
+    the title "Kurent the Preserver" supplies the epithet "Preserver."
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: title subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The named figure appears in one or more tale titles in the contents list.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: preserver
+  assigned_to:
+  - fig:6
+  basis: The title "Kurent the Preserver" applies the epithet "Preserver" to Kurent.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: sibling pair named in title
+  taxonomy_refs:
+  - sibling_pair
+  basis: The contents list includes a tale titled "The Two Brothers." The passage
+    provides only the title, not a narrative episode.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Title evidence alone indicates a pair of brothers but does not establish
+    the tale's plot or motif function.
+- id: motif:2
+  label: human origin named in title
+  taxonomy_refs: []
+  basis: The contents list includes a tale titled "The Origin of Man."
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage gives no narrative details about how humanity originates;
+    no available taxonomy reference is directly assigned.
+- id: motif:3
+  label: preserver figure named in title
+  taxonomy_refs: []
+  basis: The contents list includes the title "Kurent the Preserver."
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The epithet suggests preservation, but the passage does not describe what
+    is preserved or by what action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 360-367
+  quote_or_summary: '"SERBIAN STORIES FROM BOSNIA" lists "The Birdcatcher" and "The
+    Two Brothers" with source notes in the "Bosnian Friend."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 369-383
+  quote_or_summary: '"SERBIAN STORIES FROM CARNIOLA" lists "The Origin of Man," "God''s
+    Cock," "Kurent the Preserver," "Kurent and Man," and "The Hundred-Leaved Rose"
+    with source notes in "The Neven."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for identification.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a table of contents, so literal title extraction is reliable,
+    while motif identification is necessarily limited and title-based.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative actions or scenes are present in the supplied passage; motif candidates are restricted to what the titles explicitly support.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l360-l383
+  passage_sha256=dc5e9df5c17ba2cbc03f280b64f55a18e7cd2bc1e8ee6a57944ccfd3ea4ca029
+

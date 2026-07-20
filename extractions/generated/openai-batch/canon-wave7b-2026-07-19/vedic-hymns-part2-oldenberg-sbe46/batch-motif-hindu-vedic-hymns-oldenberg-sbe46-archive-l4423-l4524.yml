@@ -1,0 +1,433 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l4423-l4524
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'MANDALA I, HYMN 7I. SI / ASHTAKA I, ADHYAYA 5, VARGA 17-18. / NOTES: / MANDALA
+    I, HYMN 72. 35; lines 4423-4524'
+  start: '4423'
+  end: '4524'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on Rig-veda I, Hymn 72 discuss alternating vigilance among
+    friends, the phrase 'three times seven' in relation to sacrifice, mystical numbering,
+    possible hidden words in Agni, a phrase for standing and moving beings, thoughts
+    or paths leading to gods, seven young rivers descending from heaven, a bird possibly
+    identified with Agni, and a tentative sun-and-moon interpretation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note explains that when one friend’s attention relaxed, another friend
+    watched in that friend’s place.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Sayana is reported as explaining ''three times seven'' as three groups of
+    seven sacrifices: Pakayagnas, Haviryagnas, and Somayagnas.'
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The editor states that the later system of twenty-one forms of sacrifice likely
+    did not exist at the time of the Rig-veda Samhita.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editor says that 'three times seven' is a favorite number in Rig-vedic
+    mysticism and notes multiple possible interpretations, including three times seven
+    pieces of wood.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A cited translation says that worshipful gods found twenty-one hidden words
+    in Agni and guard the immortal Agni with them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note discusses a phrase concerning what stands and what moves, with a
+    suggested interpretation involving stabled cattle and what moves in meadows.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note gives the image of seven young rivers coming down from heaven.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The bird mentioned in verse 9 is tentatively identified as Agni.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The sun and the moon are proposed tentatively as an explanation for verse
+    10.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: friends
+  description: Friends who take turns watching when one friend’s attention relaxes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: worshipful gods
+  description: Gods said in a cited translation to find hidden words in Agni and guard
+    immortal Agni with them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Agni
+  description: A being described as immortal in the cited translation and tentatively
+    identified with a bird in the note on verse 9.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: bird
+  description: A bird in verse 9, said by the note to seem to be Agni.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: alternating watcher
+  assigned_to:
+  - fig:1
+  basis: One friend watches when another friend’s attention relaxes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: finders and guardians
+  assigned_to:
+  - fig:2
+  basis: The gods are said to find hidden words in Agni and guard immortal Agni with
+    them.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: immortal guarded being
+  assigned_to:
+  - fig:3
+  basis: Agni is described as immortal and guarded by the gods in the cited translation.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: possible bird-identification
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The note says the bird seems to be Agni.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: three times seven / twenty-one
+  literal_form: 'Number pattern: three times seven, or twenty-one.'
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: three groups of sacrifices
+  literal_form: Seven Pakayagnas, seven Haviryagnas, and seven Somayagnas.
+  associated_figures: []
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pieces of wood
+  literal_form: Three times seven pieces of wood, mentioned as a possible interpretation.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hidden words
+  literal_form: Twenty-one words hidden in Agni in the cited translation.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - wisdom
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: seven young rivers
+  literal_form: Seven young rivers coming down from heaven.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: bird
+  literal_form: A bird tentatively identified with Agni.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: sun and moon
+  literal_form: The sun and the moon, proposed tentatively as an explanation.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Alternating watch among friends
+  summary: One friend’s relaxed attention is compensated by another friend watching
+    instead.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Three-times-seven interpretation and guarded Agni
+  summary: The notes discuss a 'three times seven' phrase, possible connections with
+    sacrifice or pieces of wood, and a cited rendering in which gods find twenty-one
+    hidden words in Agni and guard immortal Agni.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Descent of seven rivers
+  summary: Seven young rivers are described as coming down from heaven.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Bird and Agni
+  summary: The note states that the bird in verse 9 seems to be Agni.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Possible sun and moon explanation
+  summary: The note tentatively proposes the sun and moon as an explanation for verse
+    10.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: rotating vigilance among companions
+  taxonomy_refs: []
+  basis: The note describes friends taking over watch from one another when attention
+    relaxes.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The note is explanatory rather than a complete narrative episode.
+- id: motif:2
+  label: sacred three-times-seven number pattern
+  taxonomy_refs: []
+  basis: The passage emphasizes 'three times seven' as a recurring Rig-vedic mystical
+    number and connects it with twenty-one items.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The exact referent of the number is explicitly uncertain.
+- id: motif:3
+  label: sacrificial enumeration in groups of seven
+  taxonomy_refs:
+  - sacrifice
+  basis: Sayana explains the phrase as three sets of seven sacrifices, though the
+    editor doubts that this later system fits the Rig-vedic context.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage itself cautions that this may be an anachronistic later interpretation.
+- id: motif:4
+  label: hidden sacred words in Agni
+  taxonomy_refs:
+  - wisdom
+  basis: A cited translation says the gods found twenty-one words hidden in Agni and
+    guarded immortal Agni with them.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is presented as a cited translation, not as the editor’s settled
+    interpretation.
+- id: motif:5
+  label: celestial descent of rivers
+  taxonomy_refs: []
+  basis: The note refers to seven young rivers coming down from heaven.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only a brief translated phrase is provided, without the full verse context.
+- id: motif:6
+  label: deity identified with a bird
+  taxonomy_refs: []
+  basis: The note says the bird seems to be Agni.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The identification is tentative and no further description of the bird
+    is supplied.
+- id: motif:7
+  label: sun and moon pair as explanatory referent
+  taxonomy_refs: []
+  basis: The note proposes 'the sun and the moon?' as a natural explanation for verse
+    10.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The proposal is explicitly phrased as a question and lacks the following
+    passage context.
+comparison_claims:
+- id: claim:1
+  claim: The 'three times seven' pattern in this note is compared by the editor with
+    other Rig-vedic occurrences of the same favored mystical number.
+  claim_level: same_motif
+  target: Other cited Rig-vedic passages using 'three times seven' as a mystical number.
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The editor lists possible parallels but stresses that many interpretations
+    remain possible.
+- id: claim:2
+  claim: Sayana’s interpretation connects the phrase with a later twenty-onefold sacrifice
+    system, but the editor cautions that this system likely did not exist in the Rig-vedic
+    period.
+  claim_level: same_function
+  target: Later system of twenty-one forms of sacrifice.
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: low
+  limitations: The passage itself rejects or strongly limits a direct historical fit
+    with the Rig-veda Samhita.
+- id: claim:3
+  claim: The note compares the phrase about what stands and what moves with similar
+    phrasing elsewhere in the same hymn group.
+  claim_level: linguistic_similarity
+  target: Similar phrases cited at I, 69, 4 and I, 70, 3.7.
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is linguistic and does not by itself establish a shared
+    mythic motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4425-4429, Note 4
+  quote_or_summary: When the attention of one friend relaxed, another friend watched
+    instead.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4433-4439, Verse 6 Note 1
+  quote_or_summary: Sayana explains 'three times seven' as seven Pakayagnas, seven
+    Haviryagnas, and seven Somayagnas; the editor says this later twenty-onefold system
+    likely did not exist at the time of the Rig-veda Samhita.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4439-4448, Verse 6 Note 1
+  quote_or_summary: "'Three times seven' is described as a favorite number in Rig-vedic
+    mysticism; a possible interpretation is three times seven pieces of wood, but
+    many interpretations are possible."
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4448-4452, Verse 6 Note 1
+  quote_or_summary: "“The worshipful gods found in thee the twenty-one words which
+    are hidden in thee. They guard with them the immortal (Agni).”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 4455-4467, Verse 6 Note 2
+  quote_or_summary: The note discusses the phrase for what stands and what moves,
+    compares similar phrasing in nearby hymns, and records a suggestion about stabled
+    cattle and what moves in the meadows.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 4479-4481, Verse 8 Note 1
+  quote_or_summary: "“Beheld the seven young rivers coming down from heaven.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: quote
+  locator: line 4486, Verse 9 Note 1
+  quote_or_summary: "“The bird seems to be Agni.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: quote
+  locator: lines 4521-4524, Verse 10 Note 1
+  quote_or_summary: "“The sun and the moon? This very natural explanation...”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of scholarly notes and partial translated phrases rather
+    than a continuous mythic narrative. Several identifications are explicitly tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures, motifs, or comparisons beyond those directly supported by the supplied passage and metadata were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l4423-l4524
+  passage_sha256=6b0e26f45cad2f73dc9cdd705fa9475f19f5bff929db944cdaa485f759488bc8
+

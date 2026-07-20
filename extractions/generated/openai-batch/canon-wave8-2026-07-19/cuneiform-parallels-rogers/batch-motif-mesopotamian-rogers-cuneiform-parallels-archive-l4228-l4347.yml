@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l4228-l4347
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE SIXTH TABLET / THE SEVENTH TABLET / THE 8EVENTH TABLET / THE WORLD BY
+    MARDUK; lines 4228-4347
+  start: '4228'
+  end: '4347'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains a damaged fragment about the formation of beasts,
+    a brief mention of Gula and contrasting white and black forms, followed by an
+    incantation against toothache. The incantation gives a cosmogonic sequence from
+    Anu and the heavens down through earth, rivers, canals, and morass to the Worm.
+    The Worm weeps before Shamash and Ea, asks for food and something to destroy,
+    rejects figs, requests placement among teeth and gums to consume blood and cartilage,
+    and is cursed with Ea's smiting fist.
+  language: English translation with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A damaged fragment says that in an assembly of beasts a figure made their
+    form beautiful.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fragment mentions the goddess Gula and an incomplete contrast involving
+    one white and one black item or being.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The editorial note identifies the second text as an incantation against toothache
+    and says it gives the life history of the worm that causes toothache.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The incantation presents a creation sequence: Anu creates the heavens; the
+    heavens create earth; earth creates rivers; rivers create canals; canals create
+    morass; morass creates the Worm.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Worm comes weeping before Shamash and brings tears before Ea.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Worm asks what will be given for its food and what will be given for it
+    to destroy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A speaker offers the Worm ripe figs and jam of great figs.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Worm rejects the offered figs and asks to be set between the teeth and
+    the gums.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: The Worm says it wants to devour the blood of the teeth and gnaw the cartilage
+    of the gum.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The incantation ends this excerpt by invoking Ea to smite the Worm with the
+    might of his fist because of what the Worm has said.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: unidentified maker of beast forms
+  description: A damaged line refers to a figure who made the forms of beasts beautiful.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gula
+  description: A goddess named in the damaged fragment.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Anu
+  description: A deity said, in a restored line, to have created the heavens.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the Worm
+  description: A being created by the morass, described in the note as the worm causing
+    toothache, who speaks about food, destruction, teeth, and gums.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: Shamash
+  description: A deity before whom the Worm comes weeping.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Ea
+  description: A deity before whom the Worm's tears come and whose fist is invoked
+    to smite the Worm.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:7
+roles:
+- id: role:1
+  label: shaper of beast forms
+  assigned_to:
+  - fig:1
+  basis: The damaged fragment says that in the assembly of beasts he made their form
+    beautiful.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: goddess mentioned in damaged creation fragment
+  assigned_to:
+  - fig:2
+  basis: The fragment contains the phrase naming the goddess Gula, but the surrounding
+    action is incomplete.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: creator of the heavens
+  assigned_to:
+  - fig:3
+  basis: The incantation begins with Anu creating the heavens, though the line is
+    partly restored.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: cosmogonically produced toothache agent
+  assigned_to:
+  - fig:4
+  basis: The morass creates the Worm, and the note identifies the Worm as the cause
+    of toothache.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: speaker seeking destructive nourishment
+  assigned_to:
+  - fig:4
+  basis: The Worm asks for food and something to destroy, then asks to be placed among
+    teeth and gums to consume bodily material.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: divine recipient of the Worm's appeal
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The Worm weeps before Shamash and brings tears before Ea.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: invoked divine smiter
+  assigned_to:
+  - fig:6
+  basis: The incantation invokes Ea to smite the Worm with his fist.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: assembly of beasts
+  literal_form: beasts or creatures gathered in an assembly
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: white and black contrast
+  literal_form: one white and one black item or being in a damaged line
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: waters and wetland sequence
+  literal_form: rivers, canals, and morass in the chain that produces the Worm
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: teeth and gums
+  literal_form: teeth, gums, blood of the teeth, and cartilage of the gum
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: fig food offering
+  literal_form: ripe figs and jam of great figs offered to the Worm
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Ea's fist
+  literal_form: the might of Ea's fist invoked against the Worm
+  associated_figures:
+  - fig:6
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Damaged formation of beasts
+  summary: In a fragmentary creation passage, a figure makes the forms of beasts beautiful;
+    Gula and a white/black contrast are also mentioned in damaged context.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cosmogonic origin of the Worm
+  summary: A sequence of creations runs from Anu and the heavens through earth, rivers,
+    canals, and morass, ending with the creation of the Worm.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The Worm's appeal before deities
+  summary: The Worm weeps before Shamash and Ea and asks what it will be given for
+    food and destruction.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Rejected figs and desired place among teeth
+  summary: After ripe figs and fig jam are offered, the Worm rejects them and requests
+    placement between the teeth and gums so it can consume blood and cartilage.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Invocation against the Worm
+  summary: Because of the Worm's stated desire, the incantation invokes Ea to smite
+    it with the might of his fist.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine shaping of animal forms
+  taxonomy_refs: []
+  basis: The fragmentary opening describes a figure making the forms of beasts beautiful
+    in their assembly.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is damaged, and the actor is not securely named within the
+    excerpt.
+- id: motif:2
+  label: cosmic genealogy of a harmful being
+  taxonomy_refs: []
+  basis: The incantation traces the Worm's origin through a creation chain from Anu
+    and the heavens down to rivers, canals, morass, and finally the Worm.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives this genealogy for an incantatory purpose rather than
+    as a full independent cosmogony.
+- id: motif:3
+  label: harmful being petitions deities for food and destructive power
+  taxonomy_refs: []
+  basis: The Worm comes weeping before Shamash and Ea and asks what it will receive
+    as food and what it will receive to destroy.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exact speaker of the response offering figs is not explicit in the
+    excerpt.
+- id: motif:4
+  label: rejection of benign food for bodily consumption
+  taxonomy_refs: []
+  basis: The Worm rejects figs and asks instead to be placed among the teeth and gums
+    to consume blood and cartilage.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a disease-agent motif within a healing incantation, not a general
+    food-choice tale.
+- id: motif:5
+  label: divine smiting of a destructive creature
+  taxonomy_refs:
+  - divine_judgment
+  basis: After the Worm declares its desired attack on teeth and gums, the incantation
+    invokes Ea to smite it with the might of his fist.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The text is an incantatory curse rather than an explicit narrative trial
+    or formal judgment scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames the toothache text as magical literature that uses
+    a cosmological origin account of the disease-causing Worm, supporting a cautious
+    functional comparison with healing-incantation patterns in which naming an ailment's
+    origin enables ritual opposition to it.
+  claim_level: same_function
+  target: magical healing incantation pattern involving an origin story for a disease
+    agent
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based only on the excerpt's editorial note and internal
+    structure; no external parallel text is supplied in the prompt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4228-4255, fragment before incantation
+  quote_or_summary: Damaged lines refer to creatures and an assembly of beasts whose
+    forms are made beautiful; the goddess Gula and a white/black contrast are also
+    mentioned fragmentarily.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4256-4262, editorial note to incantation
+  quote_or_summary: The note identifies the text as an incantation against toothache
+    in magical literature and says it begins with a cosmological introduction giving
+    the life history of the worm causing toothache.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: incantation lines 1-6 within source lines 4263-4293
+  quote_or_summary: The creation chain proceeds from Anu creating the heavens to the
+    heavens creating earth, earth creating rivers, rivers creating canals, canals
+    creating morass, and morass creating the Worm.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: incantation lines 7-10 within source lines 4294-4315
+  quote_or_summary: The Worm comes weeping before Shamash and brings tears before
+    Ea, asking what will be given for its food and for its destruction.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: incantation lines 11-14 within source lines 4316-4330
+  quote_or_summary: A response offers ripe figs and jam of great figs; the Worm rejects
+    these offerings.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: incantation lines 15-18 within source lines 4331-4343
+  quote_or_summary: The Worm asks to be set between the teeth and gums so that it
+    may devour the blood of the teeth and gnaw the gum's cartilage.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt summarized from public domain translation.
+- id: ev:7
+  type: quote
+  locator: incantation lines 19-20 within source lines 4344-4347
+  quote_or_summary: '"Since thou hast said this, O Worm! May Ea smite thee with the
+    might of his fist."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The toothache incantation is relatively clear, but the preceding creation
+    fragment is damaged and several speakers or actors are uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Fragmentary or restored readings are treated cautiously.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l4228-l4347
+  passage_sha256=4f9e5bfbc5f96af19e0062fe7f3a266ed721a164601b5ac4dadf64252df2d956
+

@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.norse-heimskringla-laing-gutenberg-l15039-l15053
+source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+passage_locator:
+  label: KING OLAF TRYGVASON'S SAGA. / PRELIMINARY REMARKS. / SAGA OF OLAF HARALDSON.
+    (1) / PRELIMINARY REMARKS.; lines 15039-15053
+  start: '15039'
+  end: '15053'
+  translation: Heimskringla; Or, The Chronicle of the Kings of Norway
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Harek remains silent and cheerful after a matter is dropped. In spring
+    he outfits a well-equipped cutter and goes to the levy. At King Olaf's court,
+    Asmund is already present. The king summons Harek and Asmund, reconciles them,
+    and they leave the dispute to him. Asmund presents witnesses that Grankel owned
+    the rock; the king judges accordingly, awarding the rock to Grankel and requiring
+    no payment for Harek's house-servants. Harek states that obeying the king's decision
+    is no disgrace. The next section heading begins, 'Thorod's Story.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Harek did not speak about the dropped matter and appeared cheerful.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In spring, Harek fitted out a cutter with twenty seats of rowers and manned
+    it with his house-servants.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Harek went to the levy and found Asmund already with King Olaf.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: King Olaf summoned Harek and Asmund and reconciled them so that they left
+    the matter to him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Asmund produced witnesses to prove that Grankel had owned the rock.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The king gave judgment in accordance with the witnesses' proof.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: No mulct was paid for Harek's house-servants, and the rock was declared to
+    be Grankel's.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Harek said that it was no disgrace to obey the king's decision, regardless
+    of how the case was decided.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Harek
+  description: A man involved in the dispute; he outfits a cutter, goes to the levy,
+    appears before King Olaf, and accepts the king's decision.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Asmund
+  description: A man involved in the dispute; he is at King Olaf's court before Harek
+    and produces witnesses concerning the rock.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: King Olaf
+  description: The king who summons Harek and Asmund, reconciles them, and gives judgment
+    in the case.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Grankel
+  description: The person said by witnesses to have owned the rock; the rock is declared
+    to be his.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Harek's house-servants
+  description: House-servants who man Harek's cutter; the judgment includes that no
+    mulct is paid for them.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: Witnesses
+  description: Witnesses produced by Asmund to prove Grankel's ownership of the rock.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dispute party
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The king summons Harek and Asmund, reconciles them, and they leave the matter
+    to him.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ship outfitter and levy participant
+  assigned_to:
+  - fig:1
+  basis: Harek rigs out a cutter, mans it with house-servants, and goes to the levy.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: producer of legal witnesses
+  assigned_to:
+  - fig:2
+  basis: Asmund produces witnesses to prove Grankel's ownership of the rock.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: royal reconciler and judge
+  assigned_to:
+  - fig:3
+  basis: King Olaf summons and reconciles the parties and gives judgment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: recognized owner of contested rock
+  assigned_to:
+  - fig:4
+  basis: Witnesses prove Grankel had owned the rock, and the rock is declared to be
+    Grankel's.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: obedient subject accepting royal decision
+  assigned_to:
+  - fig:1
+  basis: Harek says it is no disgrace to obey the king's decision.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: serving crew and subject of unpaid mulct
+  assigned_to:
+  - fig:5
+  basis: Harek's house-servants man the cutter, and no mulct is paid for them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:8
+  label: legal proof-givers
+  assigned_to:
+  - fig:6
+  basis: The witnesses are produced to prove ownership of the rock.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: contested rock
+  literal_form: rock
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: well-equipped cutter
+  literal_form: cutter of twenty seats of rowers
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: twenty seats of rowers
+  literal_form: number twenty applied to rower seats in Harek's cutter
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Harek after the matter drops
+  summary: Harek does not speak about the dropped matter and remains cheerful.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Harek outfits a cutter and goes to the levy
+  summary: In spring Harek outfits a well-equipped twenty-seat cutter, mans it with
+    house-servants, and goes to the levy, where Asmund is already with King Olaf.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Royal reconciliation of the parties
+  summary: King Olaf summons Harek and Asmund, reconciles them, and the two leave
+    the matter to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Witnesses and judgment over the rock
+  summary: Asmund presents witnesses that Grankel owned the rock; King Olaf gives
+    judgment, the rock is declared Grankel's, and no mulct is paid for Harek's house-servants.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Harek accepts the king's decision
+  summary: Harek states that obeying the king's decision is not disgraceful, whatever
+    the case outcome.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: king as reconciler and legal judge
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: King Olaf reconciles the disputants, receives the matter from them, gives
+    judgment, and his decision is explicitly accepted as something to obey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents a legal-political saga episode rather than an overt
+    mythic or supernatural motif; the royal_legitimacy reference is based on the king's
+    accepted judicial authority.
+- id: motif:2
+  label: property claim established by witnesses
+  taxonomy_refs: []
+  basis: Asmund produces witnesses to prove Grankel's ownership of the rock, and the
+    king's judgment follows that proof.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a legal narrative pattern; no broader comparative taxonomy reference
+    is directly supplied by the passage.
+- id: motif:3
+  label: obedience to royal decision despite adverse outcome
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After the judgment goes one-sidedly against Harek's interests, Harek says
+    it is no disgrace to obey the king's decision.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The statement may reflect social and political norms in saga narrative;
+    the passage alone does not establish a wider mythological pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15039-15040
+  quote_or_summary: The matter drops; Harek never speaks about it but remains cheerful.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15040-15045
+  quote_or_summary: In spring Harek rigs out a cutter with twenty seats of rowers,
+    mans it with house-servants, and goes to the levy; Asmund is already with King
+    Olaf.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15045-15047
+  quote_or_summary: King Olaf summons Harek and Asmund, reconciles them, and they
+    leave the matter to him.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15047-15051
+  quote_or_summary: Asmund produces witnesses that Grankel owned the rock; the king
+    judges accordingly; no mulct is paid for Harek's house-servants, and the rock
+    is declared Grankel's.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 15051-15053
+  quote_or_summary: Harek observed it was no disgrace to obey the king's decision,
+    whatever way the case itself was decided.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: citation
+  locator: line 15053
+  quote_or_summary: 'Section heading: 151. THOROD''S STORY.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; citation only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal narrative details are straightforward. Motif candidates are limited
+    to legal-political patterns and should be reviewed for taxonomy fit. No comparison
+    claims were added because the passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available motif families and applied cautiously.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-heimskringla-laing-gutenberg__l15039-l15053
+  passage_sha256=15f1f127a17534996f676b24de13a95aaf4d424cfc1963c6ac55b95ab42b4b53
+

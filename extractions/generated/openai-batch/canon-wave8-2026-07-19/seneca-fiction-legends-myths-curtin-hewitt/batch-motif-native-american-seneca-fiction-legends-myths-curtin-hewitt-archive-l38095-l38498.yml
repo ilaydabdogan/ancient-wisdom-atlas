@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.native-american-seneca-fiction-legends-myths-curtin-hewitt-archive-l38095-l38498
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: BIWITTJ / BIWITTJ / CURTIN,! / SENECA FICTION, LEGENDS, AND MYTHS; lines
+    38095-38498
+  start: '38095'
+  end: '38498'
+  translation: Seneca Fiction, Legends, and Myths
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a heavily corrupted interlinear/glossed passage, a great child and several
+    servants arrive at a lodge associated with wild geese. The wild geese are told
+    to seek food and fly. A canoe is mentioned in connection with an ascent or boarding
+    and arrival nearby. Near the close, wild geese vocalize, are told to come away
+    at once, and a departure toward a bank or shore is described, where a lodge stands.
+  language: English with Seneca interlinear text and glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening dialogue includes a great child, instructions or discussion about
+    turning back, and repeated mention of Segowenota.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The great child is described as praying or pleading, and the request is glossed
+    as not obeyed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A lodge belonging to or associated with wild geese is present, and the great
+    child with several servants arrives or stops there.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wild geese or the group at the lodge are instructed to go seek food.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the instruction to seek food, they fly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A canoe is mentioned, followed by a gloss indicating that he ascends or boards
+    it and arrives nearby.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Near the end, wild geese vocalize, are addressed with a command to come away
+    at once, and a departure toward a bank or shore is described, with a lodge standing
+    there.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: great child
+  description: A figure glossed as a great child; he appears in the dialogue and later
+    arrives at the wild-geese lodge with servants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: several servants
+  description: Servants are mentioned with the great child when they arrive at the
+    lodge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: wild geese
+  description: A collective of wild geese associated with a lodge; they are instructed
+    to seek food, fly, vocalize, and are told to come away.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Segowenota
+  description: A named or titled figure repeatedly mentioned in the opening dialogue;
+    one glossed speech refers to being only a servant in relation to Segowenota.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: principal arriving figure
+  assigned_to:
+  - fig:1
+  basis: The great child is involved in the dialogue and arrives with servants at
+    the wild-geese lodge.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: attendants
+  assigned_to:
+  - fig:2
+  basis: Several servants accompany the great child at arrival.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: animal collective and lodge occupants
+  assigned_to:
+  - fig:3
+  basis: Wild geese have or are associated with a lodge, are commanded to seek food,
+    and later vocalize and are addressed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: named authority or referenced figure
+  assigned_to:
+  - fig:4
+  basis: Segowenota is repeatedly named in dialogue, but the exact relationship is
+    unclear in the OCR/glossed text.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wild geese
+  literal_form: wild geese
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: canoe
+  literal_form: canoe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: lodge
+  literal_form: lodge
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: bank or shore
+  literal_form: bank / shore
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dialogue about turning back and Segowenota
+  summary: The passage opens with dialogue involving a great child, turning back,
+    a plea or prayer, and reference to Segowenota.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arrival at the wild-geese lodge
+  summary: The great child and several servants arrive or stop at a lodge associated
+    with wild geese.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Instruction to seek food and flight
+  summary: Those at the lodge are told to go seek food, after which they fly.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Canoe movement and departure near a shore lodge
+  summary: A canoe is mentioned in connection with ascending or boarding and arriving
+    nearby; wild geese vocalize and are commanded to come away, and a departure toward
+    a bank or shore with a lodge is described.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: encounter at an animal lodge
+  taxonomy_refs: []
+  basis: The passage presents wild geese as associated with a lodge where the great
+    child and servants arrive.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The exact social relation between the visitors and the wild geese is uncertain
+    because of OCR and interlinear gloss corruption.
+- id: motif:2
+  label: birds sent out to seek food
+  taxonomy_refs: []
+  basis: The wild geese or group at the wild-geese lodge are instructed to seek food
+    and then fly.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The pronoun reference for who flies is not fully clear, though the surrounding
+    text centers on wild geese.
+- id: motif:3
+  label: canoe ascent or boarding
+  taxonomy_refs:
+  - ascent
+  basis: The canoe passage includes a gloss for a canoe and an action glossed as ascending
+    it before arrival nearby.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The glossed verb may mean ordinary boarding or mounting of a canoe rather
+    than a mythic ascent motif.
+- id: motif:4
+  label: departure from the wild-geese place
+  taxonomy_refs:
+  - departure
+  basis: Near the end, the wild geese are told to come away at once and a departure
+    toward a bank or shore is described.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The direction and participants in the departure are difficult to establish
+    from the damaged OCR text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 38095-38498, opening dialogue
+  quote_or_summary: Opening dialogue includes a great child, commands or discussion
+    about turning back, repeated mention of Segowenota, and a gloss indicating prayer
+    or pleading that is not obeyed.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:2
+  type: summary
+  locator: 38095-38498, wild-geese lodge arrival
+  quote_or_summary: A lodge of wild geese is described as standing; the great child
+    and several servants arrive or stop there.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: summary
+  locator: 38095-38498, food-seeking and flight
+  quote_or_summary: After arrival, a command is glossed as going to seek food, and
+    the following action is glossed as flying.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:4
+  type: summary
+  locator: 38095-38498, canoe segment
+  quote_or_summary: A canoe is named in the glosses; the action is glossed as ascending
+    it and arriving nearby.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:5
+  type: summary
+  locator: 38095-38498, closing departure segment
+  quote_or_summary: Wild geese vocalize, are told to come away at once, and a departure
+    is described toward a bank or shore where a lodge stands; surprise is also noted.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; passage summarized.
+confidence:
+  extraction: low
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The source passage is public-domain but the supplied text is heavily corrupted
+    OCR with interlinear Seneca and English glosses. Literal extraction is therefore
+    cautious, and motif labels should be reviewed against the canonical edition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or comparisons were used. Taxonomy refs were assigned only where the provided motif-family list loosely matched passage evidence, with cautions.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-seneca-fiction-legends-myths-curtin-hewitt-archive__l38095-l38498
+  passage_sha256=f840dbf7f5bfc52ad1860509248bd0516c8c8e70f830d046d2cd7e633dfdf4ce
+

@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l44771-l44781
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION LXXVII / SECTION LXXVIII / SECTION LXXIX / SECTION LXXX; lines 44771-44781
+  start: '44771'
+  end: '44781'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker tells a charioteer that Vibhatsu will succeed in slaying those
+    he tries to kill. Daruka replies that victory is certain for the one whose charioteership
+    has been taken by the addressee, pledges to obey the command given to him, and
+    says the night will bring an auspicious morning for Arjuna's victory.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker says Vibhatsu will certainly succeed in slaying all those whose
+    slaughter he strives for.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Daruka says victory is certain for the person whose charioteership has been
+    taken by the addressee.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Daruka says he will do what the addressee commanded him to do.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Daruka says the present night will bring an auspicious morning for Arjuna's
+    victory.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Vibhatsu / Arjuna
+  description: Named as Vibhatsu in the prediction of successful slaughter and as
+    Arjuna in Daruka's statement about the coming victory.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Daruka
+  description: Named speaker who says victory is certain, pledges to obey a command,
+    and anticipates an auspicious morning for Arjuna's victory.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed addressee
+  description: Person addressed by Daruka as the one who has taken charioteership
+    and whose command Daruka will obey.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: those targeted for slaughter
+  description: Unspecified group described as those whom Vibhatsu will strive to slay.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: predicted victor and slayer
+  assigned_to:
+  - fig:1
+  basis: The passage predicts Vibhatsu's successful slaying and Daruka speaks of Arjuna's
+    victory.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: obedient respondent
+  assigned_to:
+  - fig:2
+  basis: Daruka replies and says he will do what he has been commanded to do.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: charioteer and commander associated with certain victory
+  assigned_to:
+  - fig:3
+  basis: Daruka states that defeat cannot come to the one whose charioteership has
+    been taken by the addressee and refers to the addressee's command.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: intended victims or opponents
+  assigned_to:
+  - fig:4
+  basis: They are identified only as those whose slaughter Vibhatsu will strive for.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: charioteership
+  literal_form: The taking of the charioteer role by the addressee.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: auspicious morning after night
+  literal_form: The night bringing an auspicious morning for Arjuna's victory.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Assurance of Arjuna's victory
+  summary: A prediction of Vibhatsu's success is followed by Daruka's reply that victory
+    is certain because of the addressee's charioteership; Daruka accepts the command
+    and anticipates an auspicious morning for Arjuna.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: assured battlefield victory through charioteership
+  taxonomy_refs: []
+  basis: Daruka says defeat cannot come to the person whose charioteership has been
+    taken by the addressee, and the passage frames this as Arjuna's coming victory.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not name the addressee or give broader mythic context
+    within the provided lines.
+- id: motif:2
+  label: auspicious dawn before victory
+  taxonomy_refs: []
+  basis: Daruka says the night will bring an auspicious morning for Arjuna's victory.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The line supports an auspicious time-image, but the passage gives only
+    a brief prediction rather than an extended dawn motif.
+- id: motif:3
+  label: prophetic assurance of enemy-slaying
+  taxonomy_refs: []
+  basis: The passage contains direct assurances that Vibhatsu will slay those he strives
+    to kill and that Arjuna's victory will come.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a local narrative pattern; no external comparison is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 44771-44772
+  quote_or_summary: A speaker tells a charioteer that Vibhatsu will certainly succeed
+    in slaying all those for whose slaughter he strives.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 44774-44776
+  quote_or_summary: Daruka says that the one whose charioteership has been taken by
+    the addressee is certain to have victory and cannot be defeated.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 44777-44779
+  quote_or_summary: Daruka says he will obey the command given to him and that the
+    night will bring the auspicious morning of Arjuna's victory.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is limited to a short dialogue fragment. Motif labels are
+    descriptive and not mapped to supplied taxonomy families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l44771-l44781
+  passage_sha256=1e9938d5905fe57f0158d3688b9ccf1ecac353731eb1d34064f6a969886ce64b
+

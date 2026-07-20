@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l4708-l4761
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: THE MAHAVAMSA / CHAPTEE I / CHAPTER II / THE RACE OF MAHASAMMATA; lines 4708-4761
+  start: '4708'
+  end: '4761'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: SPRUNG of the race of king Mahasammata was the Great Sage.
+  summary: The passage opens a royal genealogy by saying that the Great Sage came
+    from the race of King Mahasammata. It then lists early kings and princes, describes
+    twenty-eight princes with immeasurably long lifetimes dwelling in several cities,
+    and adds later numbered royal successions and capitals in the note.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Great Sage is said to have sprung from the race of King Mahasammata.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mahasammata is identified as a king at the beginning of this age of the world.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage enumerates a sequence of named kings and princes after Mahasammata,
+    ending in the listed sequence with Accima.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sons and grandsons in the list are described as twenty-eight princes whose
+    lifetimes were immeasurably long.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The twenty-eight princes are said to have dwelt in KusavatI, Rajagaha, and
+    Mithila.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the twenty-eight princes, the passage states that further groups of
+    kings followed, counted as one hundred, fifty-six, and sixty.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The note describes additional dynastic data: numbers of princes, capital
+    cities, and the last king of each line for several dynasties.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Great Sage
+  description: A sage described as sprung from the race of King Mahasammata.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: King Mahasammata
+  description: A king named Mahasammata, placed at the beginning of this age of the
+    world and named as the race from which the Great Sage sprang.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Twenty-eight named princes
+  description: The sons and grandsons in the early royal sequence, described as twenty-eight
+    princes with immeasurably long lifetimes who dwelt in KusavatI, Rajagaha, and
+    Mithila.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Later dynastic kings
+  description: Subsequent groups of kings and dynasties counted after the twenty-eight
+    princes; the note lists numbers, capitals, and last kings for several lines.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: descendant of Mahasammata's race
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Great Sage was sprung from the race of King Mahasammata.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: primeval royal ancestor
+  assigned_to:
+  - fig:2
+  basis: Mahasammata is named as a king at the beginning of the age and as the race
+    from which the Great Sage came.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: long-lived royal successors
+  assigned_to:
+  - fig:3
+  basis: The sons and grandsons are called twenty-eight princes with immeasurably
+    long lifetimes.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: later dynastic successors
+  assigned_to:
+  - fig:4
+  basis: The text and note describe subsequent groups of kings and dynastic lines
+    after the early princes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Royal origin of the Great Sage
+  summary: The passage introduces the Great Sage as coming from the race of King Mahasammata,
+    who is placed at the beginning of this age of the world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Enumeration of early long-lived princes
+  summary: A sequence of early royal names is given, and the sons and grandsons are
+    described as twenty-eight princes with immeasurably long lives dwelling in three
+    cities.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Later royal successions and capitals
+  summary: The text moves from the twenty-eight princes to later numbered groups of
+    kings, and the note adds capitals and final kings for several dynastic lines.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Royal genealogy of a sacred figure
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Great Sage is introduced through descent from King Mahasammata and a
+    long royal succession.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states descent and genealogy, but it does not explicitly argue
+    political legitimacy; the taxonomy link is interpretive and needs review.
+- id: motif:2
+  label: Primeval long-lived rulers
+  taxonomy_refs: []
+  basis: The early princes are described as having immeasurably long lifetimes and
+    belonging to an early age of the world.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No specific supplied taxonomy family directly matches this motif.
+- id: motif:3
+  label: Dynastic succession by numbered royal lines and capitals
+  taxonomy_refs: []
+  basis: The passage and note organize rulers into counted successions and associate
+    dynastic lines with capitals and final kings.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a structural genealogical pattern rather than a symbolic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4708-4713
+  quote_or_summary: "“SPRUNG of the race of king Mahasammata was the Great Sage. For
+    in the beginning of this age of the world there was a king named Mahasammata”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4713-4725
+  quote_or_summary: The text lists a sequence of royal names after Mahasammata, including
+    Roja, Vararoja, the Kalyanakas, Uposatha, Mandhatar, Caraka, Upacara, Cetiya,
+    Mucala, Mahamucala, Mucalinda, Sagara, Sagaradeva, Bharata, Angirasa, Ruci, Suruci,
+    Patapa, Mahapatapa, the Panadas, Sudassana, Neru, and Accima.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4725-4728
+  quote_or_summary: "“His sons and grandsons, these twenty-eight princes whose lifetime
+    was immeasurably (long), dwelt in KusavatI, Rajagaha, and Mithila.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4728-4731
+  quote_or_summary: "“Then followed a hundred kings, and (then) fifty-six, and (then)
+    sixty”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4738-4761
+  quote_or_summary: The note says the dynasties from Accima to Kalarajanaka are treated
+    in detail in the Dipavamsa and lists, for several lines, the number of princes,
+    the capital city, and the last king.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is limited because
+    the passage is primarily genealogical and does not narrate a symbolic episode.
+    No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied symbol taxonomy item is literally present as a symbol in this passage; names such as Mucalinda were treated as personal names only.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l4708-l4761
+  passage_sha256=f993239e1b0a8228032da4feaaefe54682bd0c4d689dc6544a7c274ebb68bcbb
+

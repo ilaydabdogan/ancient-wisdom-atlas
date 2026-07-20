@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1213-l1238
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: ANOTHER. / THE VOICE. / A MAIDEN. / ANOTHER.; lines 1213-1238
+  start: '1213'
+  end: '1238'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Lo, it is I, / The Child of Zeus and Semelê.”"
+  summary: A voice from within calls to the damsels, names them as its chosen, identifies
+    itself as the child of Zeus and Semelê, and is answered by maidens who address
+    it as Master and Holy Voice.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A voice from within calls out and tells the damsels to awake and hear its
+    cry.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The voice refers to those it calls as its “Chosen.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One maiden asks who is speaking and what is echoing.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Another respondent identifies what is heard as a voice calling them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The voice tells the listeners to be of good cheer and identifies itself as
+    the child of Zeus and Semelê.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A maiden addresses the speaker as Master.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Another respondent addresses the speaker as Holy Voice and asks it to be with
+    them.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Voice within / Child of Zeus and Semelê
+  description: A voice heard from within that calls the damsels, calls them its chosen,
+    and identifies itself as the child of Zeus and Semelê.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: A Maiden
+  description: A responding maiden who asks who is speaking and later addresses the
+    speaker as Master.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Another respondent
+  description: Another speaker who identifies the sound as a voice calling them and
+    later addresses it as Holy Voice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Damsels / Chosen
+  description: The collective group addressed by the voice as damsels and as its chosen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Zeus
+  description: Named by the voice as one of its parents.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Semelê
+  description: Named by the voice as one of its parents.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: caller from within
+  assigned_to:
+  - fig:1
+  basis: The passage introduces the speaker as a voice within that calls to the damsels.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: self-identified divine child
+  assigned_to:
+  - fig:1
+  basis: The voice identifies itself as the child of Zeus and Semelê.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: addressed chosen group
+  assigned_to:
+  - fig:4
+  basis: The voice addresses the damsels and calls them its chosen.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: responding listeners
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The maiden and another respondent answer or comment on the voice.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: revered master and holy voice
+  assigned_to:
+  - fig:1
+  basis: The respondents address the speaker as Master and Holy Voice.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: named parents
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Zeus and Semelê are named in the voice’s parentage statement.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Voice summons the chosen damsels
+  summary: A voice from within calls to the damsels, tells them to awake, and refers
+    to them as its chosen.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Listeners recognize a calling voice
+  summary: A maiden asks who speaks, and another respondent says that a voice is calling
+    them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The voice identifies itself and is hailed
+  summary: The voice identifies itself as the child of Zeus and Semelê; the respondents
+    address it as Master and Holy Voice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine parent-child self-identification
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The voice identifies itself by saying it is the child of Zeus and Semelê.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a parentage formula but does not narrate interaction
+    between parent and child.
+- id: motif:2
+  label: Sacred voice summons chosen followers
+  taxonomy_refs: []
+  basis: A voice from within calls the damsels to awake, calls them its chosen, and
+    is addressed as Master and Holy Voice.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a summons by a revered voice, but it does not by
+    itself describe a full ritual sequence or initiation.
+comparison_claims:
+- id: claim:1
+  claim: The self-identification as the child of Zeus and Semelê supports comparison
+    at the motif-family level with divine parent-child patterns.
+  claim_level: same_motif
+  target: divine_parent_child motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the explicit parentage statement in this
+    short passage; broader narrative functions are not established here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1213-1217
+  quote_or_summary: "“Awake, ye damsels; hear my cry, / Calling my Chosen; hearken
+    ye!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1219-1223
+  quote_or_summary: A maiden asks who speaks; another replies, “A Voice, a Voice,
+    that calleth us!”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1225-1228
+  quote_or_summary: "“Be of good cheer! Lo, it is I, / The Child of Zeus and Semelê.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1230-1238
+  quote_or_summary: The respondents address the speaker as “Master” and “Holy Voice”
+    and ask it to be with them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt/summary used for extraction
+    evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal speaker labels, direct address, and parentage statement are explicit.
+    The sacred-voice motif is somewhat broader than the literal text and should be
+    reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy items are present in this passage; symbols array left empty.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1213-l1238
+  passage_sha256=c239d711fca30a50ff0f767bb62d3d7749f5c09b9a008125e509ab830b732873
+

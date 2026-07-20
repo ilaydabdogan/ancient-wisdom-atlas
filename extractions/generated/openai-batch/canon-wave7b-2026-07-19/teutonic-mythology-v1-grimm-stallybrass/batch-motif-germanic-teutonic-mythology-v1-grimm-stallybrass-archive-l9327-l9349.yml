@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l9327-l9349
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: THUNAR.  179 / THUNAR.  181 / THUNAR.  183 / THUNAT?.  185; lines 9327-9349
+  start: '9327'
+  end: '9349'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"the service of the god prevailed so long"'
+  summary: The passage surveys Donar/Thor-related personal and family names across
+    Germanic materials, noting that simple Donar is rare as a man's name and that
+    derivatives and compounds are uncommon in High German dialects, while Thor-name
+    formations are much more frequent in the North. A note adds that Icelandic settlers
+    consecrated a district to Thorr and named it Thorsmork.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that Donar in its simple form is rarely found as a man's
+    name, and gives a Rhine noble family named Bonner von Lorheim as an example.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Donar derivatives and compounds are not common in
+    High German dialects, but cites Donarad in a Carolingian document and Althonar
+    in the Fulda traditions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author identifies Donarad with an Old Norse Thor-name and Althonar with
+    an inverted Old Norse Thor-name.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that such name-formations are far more frequent in the
+    North, where the service of the god lasted long.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage lists northern masculine and feminine personal names containing
+    the Thor element.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note states that settlers in Iceland consecrated a district to Thorr and
+    named it Thorsmork.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note connects Donnersmark in the Hungarian county of Zips with the Silesian
+    family Henkel von Donnersmark.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Donar / Thorr / Thor
+  description: A god associated with personal-name formations and with a district
+    consecrated to Thorr.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Icelandic settlers
+  description: Settlers in Iceland who consecrated a district to Thorr and named it
+    Thorsmork.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: god receiving service and consecration
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the service of the god in the North and to a district
+    consecrated to Thorr.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: consecrating and naming agents
+  assigned_to:
+  - fig:2
+  basis: The note says Icelandic settlers consecrated a district to Thorr and named
+    it Thorsmork.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Thorsmork
+  literal_form: A district-name given after consecration to Thorr.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Donar/Thor theophoric name element
+  literal_form: The Donar or Thor element appearing in personal names and family or
+    place names.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Naming and consecration of Thorsmork
+  summary: Icelandic settlers consecrate a district to Thorr and give it the name
+    Thorsmork.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:2
+  label: Survey of Donar/Thor name formations
+  summary: The passage compares rare High German Donar-name formations with more frequent
+    northern Thor-name formations and connects the northern frequency with the service
+    of the god.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Theophoric naming from Donar/Thor
+  taxonomy_refs: []
+  basis: The passage collects personal names, family names, and related forms built
+    from Donar/Thor and notes their regional distribution.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an onomastic pattern rather than a narrative myth motif.
+- id: motif:2
+  label: Consecration of a district to a god with deity-derived place-name
+  taxonomy_refs: []
+  basis: The note says Icelandic settlers consecrated a district to Thorr and named
+    it Thorsmork.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief antiquarian note and does not describe
+    a ritual sequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats High German and Old Norse Donar/Thor name forms as linguistically
+    comparable theophoric formations.
+  claim_level: linguistic_similarity
+  target: High German Donar compounds and Old Norse Thor-name formations
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on the author’s philological identifications
+    within this passage; no independent linguistic evidence is provided here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9327-9329
+  quote_or_summary: '"As a man''s name, Donar in its simple form is rarely found";
+    the passage also names the Rhine family Bonner von Lorheim.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 9329-9333
+  quote_or_summary: The passage says Donar derivatives and compounds are uncommon
+    in High German dialects, cites Donarad in a Carolingian document, and cites Althonar
+    in the Fulda traditions, identifying them with Old Norse Thor-name forms.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 9333-9341
+  quote_or_summary: '"Such name-formations are far more frequent in the North, where
+    the service of the god prevailed so long"; the passage lists Thorarr, Thorir,
+    Thordr, Thorhallr, Thordalfr, Thoroddr, and feminine Thor-names.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 9346-9348
+  quote_or_summary: '"The settlers in Iceland, when they consecrated a district to
+    Thorr, named it Thorsmork".'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 9348-9349
+  quote_or_summary: The note states that Donnersmark in the Hungarian county of Zips
+    is connected with the Silesian family Henkel von Donnersmark.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily philological and antiquarian, so motif extraction
+    is limited to naming and consecration patterns rather than narrative mythic episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not clearly support one of the supplied taxonomy IDs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l9327-l9349
+  passage_sha256=64468ac580c7f528d57fb4b6c259409f7e7a6f61a21424d234ac891e787fc8f8
+

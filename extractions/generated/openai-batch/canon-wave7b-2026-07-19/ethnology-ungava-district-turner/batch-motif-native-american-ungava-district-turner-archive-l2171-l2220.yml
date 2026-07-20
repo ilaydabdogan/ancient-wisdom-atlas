@@ -1,0 +1,165 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l2171-l2220
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: TURNER / TURNER.) MARRIAGE. 189 / DREN. / TURN!; lines 2171-2220
+  start: '2171'
+  end: '2220'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that a newborn is not washed until six or eight hours
+    after birth, is then placed to the breast, and is rarely given drinking water
+    until old enough to get it independently. It also states that a child may be named
+    before birth, that names are not distinguished by sex, and that several names
+    may be acquired from trivial circumstances. The remainder of the supplied text
+    is fragmentary OCR output.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A newborn baby is not washed until six or eight hours have elapsed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After that interval, the baby is placed to the breast.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The child rarely receives water to drink until old enough to get it independently.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A child may be named while still in utero.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Names are described as having no sex distinction.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Several names may be acquired from trivial circumstances.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: newborn babe / child
+  description: The infant or child who is washed after a delay, placed to the breast,
+    given little water, and possibly named before birth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: recipient of infant care and naming practices
+  assigned_to:
+  - fig:1
+  basis: The passage describes washing, nursing, drinking-water restriction, and naming
+    in relation to the newborn or child.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: water for the infant
+  literal_form: water to drink
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: postnatal care sequence
+  summary: A newborn is left unwashed for six or eight hours, then placed to the breast,
+    and is rarely given drinking water until able to help itself.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: child naming practice
+  summary: A child may receive a name before birth; names are not sex-differentiated,
+    and multiple names may be gained from minor circumstances.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: delayed newborn washing and early nursing
+  taxonomy_refs: []
+  basis: The legible passage gives a sequence in which washing is delayed for six
+    or eight hours and nursing follows.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic child-care practice, not a myth narrative; no
+    broader mythic motif is implied by the passage alone.
+- id: motif:2
+  label: prenatal or early child naming without sex distinction
+  taxonomy_refs: []
+  basis: The passage says the child may be named in utero and that names have no sex
+    distinctions.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes a naming custom only; no comparative mythological
+    taxonomy link is supported by the supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2171-2174
+  quote_or_summary: A newborn is not washed until six or eight hours have passed;
+    it is then placed to the breast and rarely receives drinking water until able
+    to help itself.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 2176-2179
+  quote_or_summary: The child may be named in utero; names are not distinguished by
+    sex, and several names may be acquired from trivial circumstances.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: note
+  locator: 2180-2220
+  quote_or_summary: The remaining supplied lines are OCR-fragmentary and do not provide
+    reliably extractable narrative or ethnographic content.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; no substantive content quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the legible opening portion of the passage. The trailing
+    OCR fragments were not used for motif or symbol identification. No comparison
+    claims are supported by the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The water entry is recorded only as a literal object mentioned in the infant-care passage; no symbolic interpretation is inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l2171-l2220
+  passage_sha256=f4fb6a4d52b663a7b1a3065d9558d6ed38e812beff02c835194ed1f17f25be5f
+

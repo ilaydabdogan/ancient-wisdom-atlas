@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.celtic-more-celtic-fairy-tales-jacobs-gutenberg-l6568-l6585
+source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: XXVII. THE FATE OF THE CHILDREN OF LIR. / XXVIII. JACK THE CUNNING THIEF.
+    / XXIX. POWEL, PRINCE OF DYFED. / XXX. PADDY O'KELLY AND THE WEASEL.; lines 6568-6585
+  start: '6568'
+  end: '6585'
+  translation: More Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: The transformation of witches into hares is a frequent _motif_ in folk-lore.
+  summary: The passage consists of editorial source and parallels notes for “Powel,
+    Prince of Dyfed” and “Paddy O'Kelly and the Weasel.” It names sources and identifies
+    parallels involving torn-off hands, an enchanted hill and maiden, green hills
+    as fairy homes, and witches transformed into hares.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies “Powel, Prince of Dyfed” as a section and gives Lady
+    Guest's Mabinogion as its source, with names slightly anglicised and an opening
+    incident omitted.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The parallels note for “Powel, Prince of Dyfed” mentions an incident of tearing
+    off hands and compares it with “Morraha.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same parallels note says an enchanted hill and a maiden occur at the beginning
+    of “Tuairisgeul Mor.”
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies “Paddy O'Kelly and the Weasel” as a section and gives
+    Hyde's Beside the Fire, pages 73-91, as its source.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The parallels note for “Paddy O'Kelly and the Weasel” refers to green hills
+    as homes of fairies and points to a note on “Childe Roland.”
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that witches transforming into hares is a frequent folklore
+    motif.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Powel, Prince of Dyfed
+  description: Named in the section heading as prince of Dyfed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: maiden
+  description: A maiden mentioned together with an enchanted hill in a parallels note.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: fairies
+  description: Beings whose homes are associated with green hills in the parallels
+    note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: witches
+  description: Beings said to transform into hares in a frequent folklore motif.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Paddy O'Kelly
+  description: Named in the section heading “Paddy O'Kelly and the Weasel.”
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: the Weasel
+  description: Named in the section heading “Paddy O'Kelly and the Weasel.”
+  role_refs: []
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Prince of Dyfed
+  assigned_to:
+  - fig:1
+  basis: The section heading names Powel as prince of Dyfed.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: maiden associated with enchanted hill
+  assigned_to:
+  - fig:2
+  basis: The parallels note mentions “the enchanted hill and maiden.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: fairy inhabitants of green hills
+  assigned_to:
+  - fig:3
+  basis: The note refers to green hills as homes of fairies.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: witches transformed into hares
+  assigned_to:
+  - fig:4
+  basis: The passage states that witches transform into hares in a frequent folklore
+    motif.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: enchanted hill
+  literal_form: enchanted hill
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: green hills as fairy homes
+  literal_form: green hills
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hare transformation form
+  literal_form: hares
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: tearing off hands
+  taxonomy_refs: []
+  basis: The parallels note explicitly names an incident of tearing off hands and
+    compares it with “Morraha.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only an editorial motif reference is present; the passage gives no narrative
+    details of the incident.
+- id: motif:2
+  label: enchanted hill and maiden
+  taxonomy_refs: []
+  basis: The parallels note states that an enchanted hill and maiden occur at the
+    beginning of “Tuairisgeul Mor.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage provides only a brief comparative note, not a narrative episode.
+- id: motif:3
+  label: green hills as homes of fairies
+  taxonomy_refs: []
+  basis: The parallels note describes green hills as the homes of fairies and refers
+    readers to a note on “Childe Roland.”
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe an actual scene in the tale; it only records
+    the motif as a parallel.
+- id: motif:4
+  label: witches transformed into hares
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage directly states that the transformation of witches into hares
+    is a frequent folklore motif.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No particular episode or transformation mechanics are described in this
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares an incident of tearing off hands with “Morraha.”
+  claim_level: same_motif
+  target: Morraha
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The note gives no details beyond the named incident and comparison.
+- id: claim:2
+  claim: The passage states that the enchanted hill and maiden pattern also occurs
+    at the beginning of “Tuairisgeul Mor.”
+  claim_level: same_motif
+  target: "“Tuairisgeul Mor” in Scottish Celtic Review, i. 61"
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is editorial and brief; no full episode is included
+    in the passage.
+- id: claim:3
+  claim: The passage connects the pattern of green hills as fairy homes with a note
+    on “Childe Roland.”
+  claim_level: same_function
+  target: note on “Childe Roland,” English Fairy Tales, p. 241
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage points to a note rather than presenting a detailed comparison
+    with the tale itself.
+- id: claim:4
+  claim: The passage identifies witches transforming into hares as a frequent folklore
+    motif.
+  claim_level: same_motif
+  target: general folklore motif of witches becoming hares
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The target is a broad folklore pattern, not a named parallel text in
+    this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6568-6571
+  quote_or_summary: 'Section heading: “XXIX. POWEL, PRINCE OF DYFED.” Source note
+    gives Lady Guest''s Mabinogion, with names slightly anglicised and the opening
+    incident omitted.'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source metadata; summary and short title quotation allowed.
+- id: ev:2
+  type: summary
+  locator: lines 6573-6576
+  quote_or_summary: 'Parallels note: the incident of tearing off the hands is compared
+    with “Morraha”; the enchanted hill and maiden occur at the beginning of “Tuairisgeul
+    Mor” and are commented on by Mr. Nutt.'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6578-6580
+  quote_or_summary: 'Section heading: “XXX. PADDY O''KELLY AND THE WEASEL.” Source
+    note gives Hyde, Beside the Fire, pp. 73-91.'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source metadata; summary and short title quotation allowed.
+- id: ev:4
+  type: summary
+  locator: lines 6582-6583
+  quote_or_summary: Parallels note refers to green hills as homes of the fairies and
+    points to a note on “Childe Roland,” English Fairy Tales, p. 241.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 6583-6585
+  quote_or_summary: "“The transformation of witches into hares is a frequent _motif_
+    in folk-lore.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source metadata; short quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial source-and-parallels note rather than a narrative
+    episode. Directly stated motifs and comparisons are clear, but narrative context
+    is absent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes were extracted because the passage contains headings, source notes, and parallels notes only.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-more-celtic-fairy-tales-jacobs-gutenberg__l6568-l6585
+  passage_sha256=6d2d0c87d72b98073f51da5b9bb7ad276db3e11e5e483e85089dc40933782768
+

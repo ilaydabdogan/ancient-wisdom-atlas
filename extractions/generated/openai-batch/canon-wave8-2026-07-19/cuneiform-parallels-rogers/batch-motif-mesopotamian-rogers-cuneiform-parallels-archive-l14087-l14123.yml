@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l14087-l14123
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: 'MM IV: / OTHER EARLY BABYLONIAN AND / ASSYRIAN RULERS1 / BABYLONIAN CHRONICLE
+    2X3; lines 14087-14123'
+  start: '14087'
+  end: '14123'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A chronicle-style passage dates events to the beginning of Shamashshum-ukin’s
+    reign: Bel and the gods of Akkad leave Asshur and enter Babylon; the King of Kirbitu
+    is captured; Bel-etir is captured in Babylon and killed. A colophon states that
+    the tablet was read and prepared according to an archetype, gives named owners
+    or copyists, and dates the tablet to Babylon in the twenty-second year of Darius.'
+  language: English with Akkadian transliteration in Roman script
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage dates the first narrated events to the beginning of the reign
+    of Shamashshum-ukin, in the month of Iyyar.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bel and the gods of Akkad depart from Asshur.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Bel and the gods of Akkad enter Babylon on the twelfth day of Iyyar.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the same year, the King of Kirbitu is captured.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bel-etir is captured in Babylon and killed on the twentieth day of Tebet.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The colophon says the first part was read and prepared according to the archetype.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The tablet is associated with Ana-Bel-eresh, Liblutu, Kalab-Nannari, and Ea-iddin
+    through a genealogical ownership or scribal notice.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The tablet notice is dated at Babylon in the twenty-second year of Darius,
+    king of Babylon and of the countries.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Shamashshum-ukin
+  description: A ruler whose beginning regnal year is used to date the events.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bel
+  description: A deity named as departing from Asshur and entering Babylon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the gods of Akkad
+  description: A divine group named as departing from Asshur and entering Babylon
+    with Bel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: King of Kirbitu
+  description: A king who is captured in the same year.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Bel-etir
+  description: A named person captured in Babylon and killed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Ana-Bel-eresh
+  description: A named person in the tablet colophon, identified as son of Liblutu
+    and ancestor or father of Ea-iddin in the notice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Liblutu
+  description: Named as father of Ana-Bel-eresh in the colophon.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Kalab-Nannari
+  description: Named in the colophon as part of the genealogy connected with Ana-Bel-eresh
+    and Ea-iddin.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Ea-iddin
+  description: A named person for whom the tablet notice is made, identified as son
+    of Ana-Bel-eresh.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Darius
+  description: A king whose twenty-second regnal year dates the tablet notice; titled
+    king of Babylon and of the countries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: dated ruler
+  assigned_to:
+  - fig:1
+  - fig:10
+  basis: The passage uses Shamashshum-ukin’s beginning regnal year and Darius’s twenty-second
+    regnal year as chronological markers.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: moving deity or divine group
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Bel and the gods of Akkad are said to depart from Asshur and enter Babylon.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: captured king
+  assigned_to:
+  - fig:4
+  basis: The King of Kirbitu is said to have been captured.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: captured and killed person
+  assigned_to:
+  - fig:5
+  basis: Bel-etir is said to have been captured in Babylon and killed.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: tablet-colophon person
+  assigned_to:
+  - fig:6
+  - fig:9
+  basis: Ana-Bel-eresh and Ea-iddin are named in the tablet colophon notice.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: genealogical ancestor or parent in colophon
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Liblutu and Kalab-Nannari are named in genealogical relationships in the
+    colophon.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: divine movement between cities
+  literal_form: Bel and the gods of Akkad departing from Asshur and entering Babylon
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Babylon as destination and tablet location
+  literal_form: Babylon, named as the destination of Bel and the gods and as the place
+    of the dated tablet notice
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: archetype of the tablet
+  literal_form: the archetype according to which the first part was read and prepared
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Divine departure from Asshur and entry into Babylon
+  summary: At the beginning of Shamashshum-ukin’s reign, in Iyyar, Bel and the gods
+    of Akkad leave Asshur and enter Babylon on the twelfth day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Captures and killing in the same year
+  summary: The King of Kirbitu is captured; later, on the twentieth day of Tebet,
+    Bel-etir is captured in Babylon and killed.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Tablet colophon and dating
+  summary: The tablet colophon says the first part was read and prepared according
+    to an archetype, names persons connected with the tablet, and dates the notice
+    to Babylon in the twenty-second year of Darius.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: deities departing one city and entering another
+  taxonomy_refs:
+  - departure
+  basis: The passage explicitly states that Bel and the gods of Akkad departed from
+    Asshur and entered Babylon.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is chronicle-like and does not elaborate a mythic journey;
+    the taxonomy link to departure is literal and broad.
+- id: motif:2
+  label: royal chronology framing divine and political events
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The events are framed by regnal dating under Shamashshum-ukin, and the colophon
+    later dates the tablet by Darius, titled king of Babylon and of the countries.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: low
+  cautions: The passage uses royal dating and titles but does not explicitly argue
+    for royal legitimacy.
+- id: motif:3
+  label: capture and execution in royal annals
+  taxonomy_refs: []
+  basis: The chronicle records the capture of the King of Kirbitu and the capture
+    and killing of Bel-etir.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a political-annalistic pattern rather than a named mythic motif
+    in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14087-14123, section (34)
+  quote_or_summary: "“In the year of the beginning of the reign of Shamashshum-ukin,
+    in the month of Iyyar”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: public_domain
+- id: ev:2
+  type: quote
+  locator: lines 14087-14123, sections (35)-(36)
+  quote_or_summary: "“Bel and the gods of Akkad departed from Asshur ... entered Babylon.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: public_domain
+- id: ev:3
+  type: quote
+  locator: lines 14087-14123, section (37)
+  quote_or_summary: "“In the same year the King of Kirbitu was captured.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: public_domain
+- id: ev:4
+  type: quote
+  locator: lines 14087-14123, section (38)
+  quote_or_summary: "“Bel-etir was captured [in] Babylon and killed.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: public_domain
+- id: ev:5
+  type: quote
+  locator: lines 14087-14123, section (39)
+  quote_or_summary: "“First Part. Read and prepared according to the Archetype.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: lines 14087-14123, sections (40)-(42)
+  quote_or_summary: The colophon names Ana-Bel-eresh, Liblutu, Kalab-Nannari, and
+    Ea-iddin in a tablet and genealogy notice.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: public_domain
+- id: ev:7
+  type: quote
+  locator: lines 14087-14123, section (43)
+  quote_or_summary: "“Babylon ... the twenty-second year of Darius, King of Babylon
+    and of the countries.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal chronicle events and colophon data are clear in the provided translation.
+    Motif candidates are cautious because the passage is annalistic and administrative
+    rather than a developed mythic narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses the supplied translated passage and colophon wording; Akkadian transliteration is not used to add figures or claims beyond the supplied English-readable material.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l14087-l14123
+  passage_sha256=f58f6d2d1f66ca91ae8aba52298fe4236ce44d3705ec35e352105a54a692ef1e
+

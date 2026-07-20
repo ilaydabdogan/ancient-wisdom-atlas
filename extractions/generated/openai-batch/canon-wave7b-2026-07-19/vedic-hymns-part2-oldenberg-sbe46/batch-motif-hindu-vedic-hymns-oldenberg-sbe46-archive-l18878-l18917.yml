@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l18878-l18917
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA V, HYMN 13. 395 / MANDALA V, HYMN 13. / ASHTAKA IV, ADHYAYA 1, VARGA
+    5. / NOTES:; lines 18878-18917
+  start: '18878'
+  end: '18917'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes for Mandala V, Hymn 13 discuss metre, verse parallels in
+    other Vedic collections, the Sāma-veda arrangement of verses, and grammatical
+    interpretations of selected verses. The notes mention Agni, worshippers, and a
+    reading in which sacrifices are spoken as an invitation for the gods.
+  language: English, with one cited German comment
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes identify the metre as Gāyatrī and give cross-references for verses
+    in other Vedic textual collections.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the Sāma-veda forms a triad from verses 2-4 rather
+    than from verses 1-3 or 4-6, and treats this as a liberty taken with the Rig-veda
+    text rather than a reason to alter the Rig-veda order.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note on verse 1 says the indicative occurs first and the optative afterwards.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note on verse 2 interprets a form as genitive singular referring to Agni,
+    not nominative plural referring to the worshippers.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The note on verse 3 cites Ludwig’s interpretation that the sacrifices are
+    spoken as an invitation for the gods.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The note on verse 6 says the discussed verbal form is taken as second singular.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named as the singular referent of the form discussed in the note on
+    verse 2.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: worshippers
+  description: Mentioned as a possible but rejected plural referent in the note on
+    verse 2.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: gods
+  description: Mentioned as recipients of an invitation in the cited interpretation
+    of verse 3.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: singular referent in grammatical note
+  assigned_to:
+  - fig:1
+  basis: The verse 2 note says the form refers to Agni in the genitive singular.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: rejected plural referents in grammatical note
+  assigned_to:
+  - fig:2
+  basis: The verse 2 note explicitly rejects taking the form as a nominative plural
+    referring to worshippers.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: recipients of sacrificial invitation
+  assigned_to:
+  - fig:3
+  basis: The verse 3 note says the sacrifices are spoken as an invitation for the
+    gods.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sacrifices as invitation
+  literal_form: yagyas / sacrifices spoken as invitation
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sacrifices uttered as invitation for gods
+  summary: A cited interpretation of verse 3 understands the utterance of sacrifices
+    as an invitation addressed to the gods.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sacrificial invitation to gods
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage cites an interpretation in which sacrifices are spoken as an
+    invitation for the gods.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is extracted from an editorial note on a verse, not from the full
+    hymn text in the supplied passage; the note is mediated through Ludwig’s interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18878-18883
+  quote_or_summary: The notes state the metre as Gāyatrī and list cross-references
+    for verses in other Vedic textual collections, including MS and SV.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 18884-18894
+  quote_or_summary: The Sāma-veda is said to form a Trika of verses 2-4, not 1-3 or
+    4-6; the editor says this reflects liberties taken by Sāma-veda arrangers with
+    the Rig-veda text and does not justify changing the Rig-veda order.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 18895-18899
+  quote_or_summary: 'The note on verse 1 says: first the indicative, then the optative.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 18900-18904
+  quote_or_summary: The note on verse 2 says the form is genitive singular referring
+    to Agni, not nominative plural referring to the worshippers.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 18905-18908
+  quote_or_summary: 'The note on verse 3 cites Ludwig: properly, he speaks the yagyas
+    as an invitation for the gods.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 18909-18917
+  quote_or_summary: The note on verse 6 gives scholarly comparisons for the form and
+    says it is taken here as second singular.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly editorial and grammatical notes, with some OCR distortion.
+    The sacrificial motif is supported only by a brief cited interpretation of verse
+    3. No comparison claims were generated because the textual comparison between
+    Sāma-veda and Rig-veda concerns arrangement rather than an explicit comparative
+    mythic motif.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No unsupported deity attributes or broader Vedic identifications were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l18878-l18917
+  passage_sha256=7bd78aadce4dccdca089a532daafd6ba7de3c96fa61f266e6efbc582abdef896
+

@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.south-american-animism-folklore-guiana-indians-roth-archive-l13167-l13176
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+passage_locator:
+  label: OMENS, CHABMS, TALISMANS / BUREAU OF AMERICAN ETHNOLOGY / THIRTIETH ANNUAL
+    REPORT PLATE 5 / THE MEDICINE-MAN; lines 13167-13176
+  start: '13167'
+  end: '13176'
+  translation: An Inquiry into the Animism and Folk-Lore of the Guiana Indians
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the call to arms may be noiseless
+  summary: 'The passage describes a war-declaration procedure in which emissaries
+    need not speak: leaving a barbed arrow in a public place serves as notice for
+    people to take up arms. The notice is called the Mission of the Arrow and is compared
+    by the author with similar procedures among several named Indigenous groups.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author says the idea of invisible poisoned or broken arrows from the two
+    preceding sections may possibly relate to a procedure used when hostilities begin.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The call to arms may be noiseless, with emissaries silently announcing that
+    the tribe is at war without saying anything.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Leaving a barbed arrow in a public place is described as sufficient notice
+    for all to take up arms.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The notice is called the Mission of the Arrow, given in Spanish as correr
+    la flecha, and is treated as equivalent to a declaration of a state of war.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A similar procedure is said to have been recorded among the Caribs, Yuri,
+    Miranya, and others, and also observed among the Guaxiua of the Yapura.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: emissaries
+  description: Emissaries silently announce that the tribe is at war without words.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: tribe or public community taking up arms
+  description: The tribe is described as being at war, and the public notice causes
+    all to take up arms.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Caribs, Yuri, Miranya, and others
+  description: Groups among whom Martins is said to have recorded a similar procedure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Guaxiua of the Yapura
+  description: Group among whom the practice is said to be observed at the present
+    day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: silent war emissary
+  assigned_to:
+  - fig:1
+  basis: The emissaries silently announce that the tribe is at war without saying
+    a word.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: mobilized war community
+  assigned_to:
+  - fig:2
+  basis: The deposited arrow serves as notice for all to take up arms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: attested comparison groups
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage names groups associated with similar or continuing practice.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: barbed arrow as war notice
+  literal_form: A barbed arrow left in a public place, called the Mission of the Arrow
+    or correr la flecha.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: invisible poisoned or broken arrows
+  literal_form: Invisible poisoned or broken arrows mentioned as an idea from the
+    preceding sections.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Silent declaration of war by arrow
+  summary: At the outbreak of war, emissaries may silently announce hostilities; a
+    barbed arrow left in a public place serves as the notice for people to take up
+    arms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: object-token declaration of war
+  taxonomy_refs: []
+  basis: A physical object, the barbed arrow, is left in a public place and functions
+    as a silent declaration that war has begun and that people should arm themselves.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No direct match is supplied in the available motif-family taxonomy; the
+    passage describes an ethnographic procedure rather than a mythic narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage proposes that invisible poisoned or broken arrows mentioned in
+    preceding sections may possibly relate to the Mission-of-the-Arrow war-declaration
+    procedure.
+  claim_level: same_motif
+  target: Invisible poisoned or broken arrows noted in the preceding two sections
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Only a possible relation is stated, and the preceding sections are
+    not included in the provided passage.
+- id: claim:2
+  claim: The passage reports a similar procedure among the Caribs, Yuri, Miranya,
+    and others, and says the practice is also observed among the Guaxiua of the Yapura.
+  claim_level: same_function
+  target: Caribs, Yuri, Miranya, others, and Guaxiua of the Yapura
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names parallels but does not describe their exact details
+    or establish historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13167-13169
+  quote_or_summary: The idea of invisible poisoned or broken arrows from the preceding
+    two sections may possibly relate to a procedure used when war begins.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 13169-13172
+  quote_or_summary: '"the call to arms may be noiseless" and emissaries may silently
+    announce that the tribe is at war without saying a word.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 13172-13175
+  quote_or_summary: A barbed arrow left in a public place causes all to take up arms;
+    this notice is called the Mission of the Arrow, or correr la flecha, and amounts
+    to a declaration of war.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 13175-13176
+  quote_or_summary: A similar procedure is reported by Martins among the Caribs, Yuri,
+    Miranya, and others, and is said to be observed among the Guaxiua of the Yapura.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The main procedure is explicit in the passage. Comparison claims are limited
+    to the parallels and possible relation stated by the author; no external historical
+    inference is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No provided taxonomy motif family directly matches the arrow-based war declaration procedure; taxonomy references are therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:south-american-animism-folklore-guiana-indians-roth-archive__l13167-l13176
+  passage_sha256=bfa822b8c1509a5889dafcec813fe053d6377173f62dc5f8c842642d06b44368
+

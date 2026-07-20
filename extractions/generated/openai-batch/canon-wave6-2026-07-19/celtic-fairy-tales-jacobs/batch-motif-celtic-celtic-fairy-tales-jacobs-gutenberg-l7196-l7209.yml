@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.celtic-celtic-fairy-tales-jacobs-gutenberg-l7196-l7209
+source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: NOTES AND REFERENCES / I. CONNLA AND THE FAIRY MAIDEN. / II. GULEESH. / III.
+    FIELD OF BOLIAUNS.; lines 7196-7209
+  start: '7196'
+  end: '7209'
+  translation: Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The note identifies Croker's Fairy Legends as the source for “Field of
+    Boliauns,” explains that the original gnome is a Cluricaune but a recent telling
+    used Lepracaun, and discusses proposed etymologies and typical shoe-working behavior
+    of the Lepracaun.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The stated source for “Field of Boliauns” is T. Crofton Croker's Fairy Legends
+    of the South of Ireland, edited by Wright, pages 135-139.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the original version calls the gnome a Cluricaune.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says a friend of Mr. Batten recently heard the tale told with a Lepracaun
+    instead.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editor says he adopted the better known title, Lepracaun.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One etymology given derives Lepracaun from Irish words meaning “one-shoemaker.”
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Lepracaun is described as generally seen working at a single shoe.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An alternative etymology given derives the name from words glossed as “little
+    man.”
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The note says Dr. Joyce gives the same “little man” etymology and mentions
+    several places named after them.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cluricaune
+  description: The gnome named in the original version of the tale.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Lepracaun
+  description: The better known title used by the editor after a recent telling of
+    the tale was reported with this figure; described in the note through shoemaker
+    and little-man etymologies.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: original gnome figure
+  assigned_to:
+  - fig:1
+  basis: The passage states that in the original the gnome is a Cluricaune.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: variant tale figure
+  assigned_to:
+  - fig:2
+  basis: The passage reports that the tale was recently heard told of a Lepracaun
+    and that the editor adopted that better known title.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: one-shoemaker / single-shoe worker
+  assigned_to:
+  - fig:2
+  basis: The passage gives an etymology meaning “one-shoemaker” and says the Lepracaun
+    is generally seen working at a single shoe.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: little man
+  assigned_to:
+  - fig:2
+  basis: The passage gives an alternative etymology glossed as “little man.”
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: single shoe
+  literal_form: A single shoe being worked on by the Lepracaun.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: little man
+  literal_form: The gloss “little man” for an alternative etymology of Lepracaun.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: small supernatural shoemaker
+  taxonomy_refs: []
+  basis: The Lepracaun is linked with an etymology meaning “one-shoemaker” and is
+    described as generally seen working at a single shoe.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is an editorial note and does not narrate a full episode involving
+    the figure.
+- id: motif:2
+  label: small fairy or gnome figure with variant names
+  taxonomy_refs: []
+  basis: The note identifies the original figure as a Cluricaune, reports a variant
+    telling with a Lepracaun, and also gives a “little man” etymology for Lepracaun.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage reports naming and etymology rather than describing the being's
+    actions in the tale itself.
+- id: motif:3
+  label: variant substitution of related fairy figure
+  taxonomy_refs: []
+  basis: The same tale is said to have an original Cluricaune and a recent telling
+    with a Lepracaun, leading the editor to choose the better known title.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only one reported recent telling is mentioned; the passage does not establish
+    a broader distribution pattern.
+comparison_claims:
+- id: claim:1
+  claim: Within the reported versions of this tale, Cluricaune and Lepracaun are presented
+    as alternative figures occupying the same tale position.
+  claim_level: same_function
+  target: Cluricaune and Lepracaun in versions of “Field of Boliauns”
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports a variant-role comparison only; it does not prove
+    that the figures are identical across the wider tradition.
+- id: claim:2
+  claim: The name Lepracaun is compared linguistically with Irish words glossed as
+    “one-shoemaker.”
+  claim_level: linguistic_similarity
+  target: Lepracaun and Irish leith bhrogan
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The passage also cites a competing etymology, so the linguistic claim
+    is not settled by this note.
+- id: claim:3
+  claim: The name Lepracaun is alternatively compared linguistically with words glossed
+    as “little man.”
+  claim_level: linguistic_similarity
+  target: Lepracaun and luchor pan
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: The passage presents this as a competing etymology alongside the “one-shoemaker”
+    derivation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7196-7199
+  quote_or_summary: The note labels the section “III. Field of Boliauns” and gives
+    Croker's Fairy Legends of the South of Ireland, edited by Wright, pages 135-139,
+    as the source.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7199-7202
+  quote_or_summary: The original gnome is said to be a Cluricaune, but a recent telling
+    reportedly used a Lepracaun, so the editor adopted the better known title.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7204-7205
+  quote_or_summary: Dr. Hyde's etymology derives Lepracaun from Irish words glossed
+    as “one-shoemaker,” with comparison to “brogue.”
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7205-7207
+  quote_or_summary: The Lepracaun is said to be generally seen working at a single
+    shoe, with Croker's “Little Shoe” cited for comparison.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7207-7209
+  quote_or_summary: A Revue Celtique writer gives an alternative etymology, luchor
+    pan, glossed as “little man”; Dr. Joyce is said to give the same etymology and
+    mention places named after them.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial source-and-etymology note rather than a narrative
+    episode, so figure and motif extraction is limited to explicit remarks about naming,
+    etymology, and characteristic single-shoe work.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol ref was assigned because the passage does not explicitly support the listed taxonomy categories.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-celtic-fairy-tales-jacobs-gutenberg__l7196-l7209
+  passage_sha256=35701d66c33f6e18a028bd4245d37870e2ea3ced7ffb66e5ff81208367876518
+

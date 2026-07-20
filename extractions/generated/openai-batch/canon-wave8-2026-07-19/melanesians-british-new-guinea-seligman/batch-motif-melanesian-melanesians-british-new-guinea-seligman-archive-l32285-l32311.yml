@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l32285-l32311
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: SEXUAL MORALITY. / MODESTY. / HOMICIDE. / SUICIDE.; lines 32285-32311
+  start: '32285'
+  end: '32311'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports ethnographic statements about suicide: hanging is
+    described as not uncommon, leaping from a coconut-tree as rarer, and self-killing
+    is linked to marital infidelity, neglect, jealousy, and kin attempts at prevention
+    after disclosed intent.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Suicide by hanging is reported as not very uncommon; a rarer method is climbing
+    a coconut-tree and throwing oneself down.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man may commit suicide if his wife is unfaithful and he does not want to
+    kill her or is not prepared to try to kill her lover.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: As a general rule, an individual intending suicide is said to say nothing
+    about the purpose.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Sometimes a man states his suicidal intention to a brother or sister, whose
+    duty is then to try to prevent it by constant shadowing.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A woman is said sometimes to kill herself after long continued neglect and
+    infidelity by her husband.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Mr A. M. Campbell notes that a woman may sometimes destroy herself in a sudden
+    fit of jealousy, but such instances are rare.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: man contemplating or committing suicide
+  description: A man who may kill himself after his wife's unfaithfulness, especially
+    when he does not wish to kill her or her lover; he may also sometimes disclose
+    his intention to a sibling.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: unfaithful wife
+  description: The wife whose unfaithfulness may be the occasion for her husband's
+    suicide.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: wife's lover
+  description: The wife's lover whom the husband is not prepared to try to kill.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: brother or sister
+  description: A sibling told of a man's suicidal intention and expected to try to
+    frustrate it by constant shadowing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: woman or wife contemplating or committing suicide
+  description: A woman who may kill herself after long neglect and infidelity by her
+    husband, or in a sudden fit of jealousy.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: neglecting or unfaithful husband
+  description: A husband whose long continued neglect and infidelity are given as
+    causes for a woman's suicide.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: suicide subject
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Both male and female persons are described as killing themselves under specified
+    circumstances.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: aggrieved husband
+  assigned_to:
+  - fig:1
+  basis: The man's suicide is linked to his wife's unfaithfulness and his refusal
+    or inability to kill her or her lover.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: unfaithful or neglecting spouse
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The wife is described as unfaithful, and the husband as neglectful and unfaithful.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: potential homicide target
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The man is described as not wishing to kill his wife or not being prepared
+    to try to kill her lover.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: preventive sibling watcher
+  assigned_to:
+  - fig:4
+  basis: The brother or sister told of the intention has the duty to try to frustrate
+    the suicide by constant shadowing.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: jealous or neglected wife
+  assigned_to:
+  - fig:5
+  basis: The woman is described as killing herself because of long neglect and infidelity
+    by her husband, or in rare cases in a sudden fit of jealousy.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Reported methods of suicide
+  summary: The passage lists hanging as a relatively common method and leaping from
+    a coconut-tree as rarer.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Male suicide after wife's infidelity
+  summary: A man may kill himself after his wife's unfaithfulness when he does not
+    wish to kill her or attempt to kill her lover.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Disclosure to sibling and prevention by shadowing
+  summary: Although a suicidal person usually says nothing, a man may tell a brother
+    or sister, who must try to stop him by constantly following or watching him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Female suicide after neglect, infidelity, or jealousy
+  summary: A woman may kill herself after prolonged neglect and infidelity by her
+    husband; a cited note also mentions rare instances of sudden jealousy.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: suicide by hanging or leaping from a tree
+  taxonomy_refs: []
+  basis: The passage explicitly reports hanging as not very uncommon and leaping from
+    a coconut-tree as rarer.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic behavioral pattern, not a mythic narrative motif;
+    no taxonomy reference is assigned.
+- id: motif:2
+  label: self-killing in response to marital infidelity, neglect, or jealousy
+  taxonomy_refs: []
+  basis: Both male and female suicide are linked to spousal infidelity, neglect, or
+    jealousy.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives reported social causes, not a named tale type or ritual
+    symbolism.
+- id: motif:3
+  label: kin prevention of suicide after disclosed intent
+  taxonomy_refs: []
+  basis: A man may tell a brother or sister of his intention, after which the sibling
+    is expected to prevent the act by constant shadowing.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a social-response pattern; the passage does not connect it to
+    a broader comparative motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 32285-32288
+  quote_or_summary: Suicide by hanging is said to be not very uncommon; more rarely,
+    a man may climb a coconut-tree and throw himself down.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 32288-32292
+  quote_or_summary: A man may commit suicide if his wife is unfaithful and he does
+    not wish to kill her or is not prepared to try to kill her lover.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 32292-32297
+  quote_or_summary: A suicidal individual usually says nothing, but sometimes a man
+    tells a brother or sister, whose duty is to try to frustrate the purpose by constant
+    shadowing.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 32297-32300
+  quote_or_summary: A woman may sometimes kill herself because of long continued neglect
+    and infidelity by her husband.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 32300-32311
+  quote_or_summary: Mr A. M. Campbell notes that a woman may sometimes destroy herself
+    in a sudden fit of jealousy, but such instances are rare.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on explicit statements in the passage. Motif candidates
+    are marked medium overall because the material is ethnographic social description
+    rather than myth narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Intrusive footnote material within the supplied passage about armshells and family terminology was not used for motif extraction because it is unrelated to the suicide passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l32285-l32311
+  passage_sha256=f070047af39ec3b08d47a26f2bed0af785b2b65818e7143c086f46e0cbab355f
+

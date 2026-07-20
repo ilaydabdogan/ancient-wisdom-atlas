@@ -1,0 +1,195 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l24255-l24264
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION XXI / SECTION XXII / SECTION XXIII / SECTION XXIV; lines 24255-24264
+  start: '24255'
+  end: '24264'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"putting forth as much strength only as thy antagonist hath now left!"'
+  summary: Krishna advises the son of Pandu to fight in proportion to the strength
+    remaining to his antagonist. The son of Pandu understands Jarasandha's plight,
+    resolves to take his life, and musters strength and courage to vanquish the previously
+    unvanquished Jarasandha.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker instructs the combatant to fight the antagonist using only as much
+    strength as the antagonist has left.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Krishna addresses the son of Pandu.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The son of Pandu understands the plight of Jarasandha and resolves to take
+    his life.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prince of the Kuru race musters his strength and courage in order to vanquish
+    Jarasandha.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Jarasandha is described as hitherto unvanquished.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Krishna
+  description: The one who addresses the son of Pandu with tactical instruction during
+    the fight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the son of Pandu / prince of the Kuru race
+  description: A strong combatant described as a slayer of hostile heroes, who understands
+    Jarasandha's plight, resolves to take his life, and musters strength and courage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Jarasandha
+  description: The antagonist whose plight is understood and who is described as hitherto
+    unvanquished.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: tactical adviser
+  assigned_to:
+  - fig:1
+  basis: Krishna addresses the son of Pandu with instructions on how to fight the
+    antagonist.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: addressed combatant
+  assigned_to:
+  - fig:2
+  basis: The son of Pandu is addressed by Krishna, resolves to take Jarasandha's life,
+    and musters strength and courage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: antagonist to be vanquished
+  assigned_to:
+  - fig:3
+  basis: The passage identifies Jarasandha as the hitherto unvanquished opponent whom
+    the son of Pandu seeks to vanquish.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Tactical instruction in combat
+  summary: Krishna tells the son of Pandu to fight the antagonist according to the
+    strength the antagonist has remaining.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Resolution to kill Jarasandha
+  summary: After understanding Jarasandha's plight, the son of Pandu resolves to take
+    his life and musters strength and courage to vanquish him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: strategic counsel before combat
+  taxonomy_refs:
+  - wisdom
+  basis: Krishna gives tactical advice that shapes how the son of Pandu should fight
+    his antagonist.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy reference 'wisdom' is broad; the passage specifically
+    presents martial counsel rather than an explicit wisdom teaching.
+- id: motif:2
+  label: vanquishing the hitherto unvanquished foe
+  taxonomy_refs: []
+  basis: The son of Pandu desires to vanquish Jarasandha, who is described as hitherto
+    unvanquished, and resolves to take his life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a local narrative pattern in the passage and is not linked to
+    a supplied taxonomy family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 24255-24256
+  quote_or_summary: '"fight with him ... putting forth as much strength only as thy
+    antagonist hath now left!"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 24256-24260
+  quote_or_summary: Krishna addresses the son of Pandu, who understands Jarasandha's
+    plight and resolves to take his life.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 24260-24263
+  quote_or_summary: The strong prince of the Kuru race musters strength and courage,
+    desiring to vanquish the hitherto unvanquished Jarasandha.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Figure and action extraction is direct from the passage. Motif labeling is
+    more interpretive, especially the broad taxonomy link to wisdom. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; the figure named elsewhere as the son of Pandu is not otherwise identified.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l24255-l24264
+  passage_sha256=7fc841f9717e841a95de9c44eff8ddc7e30029b3243a7efbbedb1a7e9c0249bf
+

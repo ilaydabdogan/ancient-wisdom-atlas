@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l4748-l4772
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: THOUGH UNMANIFEST GOD IS MOST MANIFEST 101 / THOUGH UNMANIFEST GOD IS MOST
+    MANIFEST 103 / THOUGH UNMANIFEST GOD IS MOST MANIFEST 105 / COMMENTAEY; lines
+    4748-4772
+  start: '4748'
+  end: '4772'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is editorial commentary on a Hermetic sermon. It discusses
+    the sermon’s title, possible extraction from a collection addressed to Tat, uncertainty
+    about what sermon preceded it, the lack of an original title, and the translator’s
+    difficulty rendering Greek word-play into English with the term “manifest.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentator says the Corpus redactor must have taken the sermon from a
+    collection called “Those to Tat,” based on its opening phrase.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentator infers that at least one other sermon preceded it, but says
+    it is impossible to identify whether it was C.H. iv “The Cup” or the lost C.H.
+    ii “The General Sermon.”
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sermon is said to have no proper title; the subject statement in place
+    of a title is derived from the second sentence of the treatise.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The subject statement used as a title is attributed to a later Byzantine editor.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The opening paragraphs are described as difficult to render into English while
+    preserving subtle Greek meanings.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The commentator says he used the term “manifest” to approximate a Greek word-play
+    that earlier translators had missed.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: redactor of the Corpus
+  description: An editorial figure said to have taken the sermon from a collection
+    of “Those to Tat.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: later Byzantine editor
+  description: An editor said to have superscribed the subject statement that stands
+    in place of the sermon’s title.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: previous translators
+  description: Earlier translators whom the commentator says missed the Greek word-play.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: commentator-translator
+  description: The speaking commentator who attempts to render the Greek word-play
+    in English by using the term “manifest.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: Corpus redactor
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the sermon’s extraction from another collection to
+    the redactor of the Corpus.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: title superscriber
+  assigned_to:
+  - fig:2
+  basis: The passage says the enunciation standing in place of a title was superscribed
+    by a later Byzantine editor.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: earlier translators
+  assigned_to:
+  - fig:3
+  basis: The passage contrasts previous translators with the commentator’s attempt
+    to preserve the Greek word-play.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: English rendering commentator
+  assigned_to:
+  - fig:4
+  basis: The passage uses first-person commentary to describe a translation choice
+    involving the term “manifest.”
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Commentary on title and redaction
+  summary: The passage comments on the sermon’s lack of a proper title, its possible
+    source collection, and the later editorial origin of the title-like subject statement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Commentary on Greek word-play and translation
+  summary: The passage explains the difficulty of rendering the opening Greek paragraphs
+    into English and identifies “manifest” as the commentator’s chosen approximation.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4748-4757
+  quote_or_summary: The redactor is said to have taken the sermon from a collection
+    of “Those to Tat”; at least one earlier sermon is inferred, but its identity is
+    uncertain.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; concise summary with short title quotation.
+- id: ev:2
+  type: summary
+  locator: lines 4759-4764
+  quote_or_summary: The sermon is described as having no proper title; the title-like
+    subject statement comes from the treatise’s second sentence and is attributed
+    to a later Byzantine editor.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: lines 4766-4771
+  quote_or_summary: Under the heading “Maya,” the commentator says the opening paragraphs
+    are hard to render into English while preserving subtle Greek meanings and explains
+    the use of “manifest.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; concise summary with short term quotation.
+- id: ev:4
+  type: summary
+  locator: lines 4771-4772
+  quote_or_summary: The commentator states that earlier translators missed the Greek
+    word-play and that he made a rough attempt to preserve it.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The line range contains editorial and translation commentary rather than
+    mythic narrative content. No symbols from the supplied taxonomy and no motif candidates
+    are assigned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythological motifs or comparative claims were extracted from this commentary-only passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l4748-l4772
+  passage_sha256=ef352c90600fbe6f9f72aed930b7d72eb14ddeff24786ecd2a90d21ef9653ac9
+

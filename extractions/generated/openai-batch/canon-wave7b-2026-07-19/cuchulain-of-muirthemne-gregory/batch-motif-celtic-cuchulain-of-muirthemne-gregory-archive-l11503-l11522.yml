@@ -1,0 +1,248 @@
+---
+record_id: batch.motif.celtic-cuchulain-of-muirthemne-gregory-archive-l11503-l11522
+source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+passage_locator:
+  label: THE   TWO    SWINEHERDS  269 / THE   TWO   CHAMPIONS  271 / THE   MEETING   OF   THE   BULLS    273
+    / DEATH  OF  THE  BROWN  BULL  275; lines 11503-11522
+  start: '11503'
+  end: '11522'
+  translation: Cuchulain of Muirthemne
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains place-names from the Brown Bull's fallen body parts,
+    then describes the bull reaching Slieve Breagh, seeing Cuailgne, entering a furious
+    state, killing those in his way, returning to his own place, bellowing in victory,
+    and dying when his heart breaks and blood bursts from his mouth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A place is said to be called Ath-luain, the ford of the loin, because the
+    loin fell there.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The liver is said to fall into a river of Meath, giving the place the name
+    Ath-Truim, the ford of the liver.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Brown Bull comes to the top of Slieve Breagh and sees his own home, the
+    hills of Cuailgne.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the sight of his country, a great spirit rises in him, and madness and
+    fury come on him.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: He rushes on and kills everyone that comes in his way.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: At his own place, he turns his back to a hill and gives a loud bellowing of
+    victory.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the bellowing, his heart breaks, blood bursts from his mouth, and he
+    dies.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the Brown Bull
+  description: A bull referred to in the passage heading and as 'he'; he travels home,
+    becomes furious, kills those in his way, bellows in victory, and dies.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: returning animal victor
+  assigned_to:
+  - fig:1
+  basis: The figure reaches his own place and gives a loud bellowing of victory.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: dying bull
+  assigned_to:
+  - fig:1
+  basis: The passage title identifies the death of the Brown Bull, and the narrative
+    states that he dies after his heart breaks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: ford and river place-names from body parts
+  literal_form: Ath-luain, Ath-Truim, and a river of Meath associated with the loin
+    and liver
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain-top vantage
+  literal_form: the top of Slieve Breagh
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: homeland hills
+  literal_form: the hills of Cuailgne
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: victory bellow
+  literal_form: a loud bellowing of victory
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: broken heart and blood from mouth
+  literal_form: his heart broke in his body, and blood came bursting from his mouth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Place-names from fallen organs
+  summary: The passage links the names of two fords to the bull's loin and liver falling
+    in those places.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sight of home and furious rush
+  summary: The bull reaches Slieve Breagh, sees the hills of Cuailgne, is filled with
+    spirit, madness, and fury, and kills those in his way.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Victory bellow and death
+  summary: At his own place, the bull bellows in victory, then his heart breaks, blood
+    bursts from his mouth, and he dies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: etiological place-names from body parts
+  taxonomy_refs: []
+  basis: The passage explains named fords by saying the bull's loin and liver fell
+    in those places.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only the final place-name explanations; the larger dismemberment
+    context lies outside this extracted range.
+- id: motif:2
+  label: frenzy on seeing the homeland
+  taxonomy_refs:
+  - chaos
+  basis: The bull sees his own country, is seized by madness and fury, and kills everyone
+    in his way.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy term 'chaos' is broad; the passage presents a localized
+    berserk fury rather than a cosmic chaos episode.
+- id: motif:3
+  label: victory cry followed by death
+  taxonomy_refs: []
+  basis: The bull gives a bellowing of victory at his own place, after which his heart
+    breaks, blood bursts from his mouth, and he dies.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level pattern without an explicit taxonomy match in
+    the supplied list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11503-11507
+  quote_or_summary: '"that place is called Ath-luain, the ford of the loin"; the liver
+    falls into a river of Meath called Ath-Truim, the ford of the liver.'
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 11508-11514
+  quote_or_summary: He reaches the top of Slieve Breagh, sees his home in the hills
+    of Cuailgne, is filled with spirit, madness, and fury, and rushes on killing those
+    in his way.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 11516-11521
+  quote_or_summary: At his own place, he turns his back to a hill, bellows in victory,
+    then his heart breaks, blood bursts from his mouth, and he dies.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: citation
+  locator: line 11503 heading
+  quote_or_summary: The passage heading is "DEATH OF THE BROWN BULL."
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; short title excerpt used for identification.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the named places, fury, victory
+    bellow, and death. Motif labels are passage-level candidates and need human review,
+    especially the broad 'chaos' taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No cross-text comparison claims were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-cuchulain-of-muirthemne-gregory-archive__l11503-l11522
+  passage_sha256=f0e08c520f00951812236fa092bc7dc6c2d3b02731f4dcec5d4a5b41bd8b8d57
+

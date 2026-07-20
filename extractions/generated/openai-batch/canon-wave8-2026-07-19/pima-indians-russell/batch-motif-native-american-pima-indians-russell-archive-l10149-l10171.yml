@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l10149-l10171
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: SLAVES / SOCIAL MORALS / FORMULAS OF POLITENESS / WARFARE; lines 10149-10171
+  start: '10149'
+  end: '10171'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes where a dance was held and how participants were
+    arranged: basket drums and singers at the center, appointed dancers in a larger
+    circle moving leftward, spectators or crowd members around or within the circle,
+    runners outside the spectators, and horsemen circling the whole gathering from
+    left to right. The number of young women running varied according to the female
+    relatives of those killed in battle.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The dance could be held on a low rounded hill near the Double Buttes, on a
+    hill near Sacaton, on a hardened alkali flat, or on open ground near villages.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Four basket drums were beaten in the center of the dance arrangement.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Either four or ten singers formed a close circle around the basket drums.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Numerous appointed dancers formed a larger circle, stamped and swayed, and
+    moved in a sinistral circuit.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The crowd sometimes danced inside the circle of selected dancers as individuals
+    without holding hands, but usually stayed outside the circle.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Outside the spectators, twenty men and two or more young women kept running.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The number of young women running depended on the number of female relatives
+    of those killed in battle.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Forty horsemen circled from left to right around the whole gathering.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: four basket drums
+  description: Four basket drums placed and beaten in the center.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: singers
+  description: Either four or ten singers arranged in a close circle around the drums.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: appointed dancers
+  description: Numerous selected dancers arranged in a larger circle, stamping, swaying,
+    and moving in a sinistral circuit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: crowd or spectators
+  description: People who sometimes danced within the selected dancers' circle but
+    usually remained outside it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: twenty men
+  description: Twenty men running outside the circle of spectators.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: young women relatives
+  description: Two or more young women running, with their number determined by the
+    number of female relatives of those killed in battle.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: forty horsemen
+  description: Horsemen circling from left to right around the whole gathering.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: singers
+  assigned_to:
+  - fig:2
+  basis: They formed a close circle around the drums.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: appointed dancers
+  assigned_to:
+  - fig:3
+  basis: They stamped, swayed, and moved in a sinistral circuit within a larger circle.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: spectators or crowd participants
+  assigned_to:
+  - fig:4
+  basis: They sometimes danced inside the selected dancers' circle but usually stayed
+    outside it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: runners
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: They kept running outside the spectator circle.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: female relatives of battle-dead
+  assigned_to:
+  - fig:6
+  basis: The number of young women running corresponded to female relatives of those
+    killed in battle.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: circling horsemen
+  assigned_to:
+  - fig:7
+  basis: They circled from left to right around the whole gathering.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: dance ground
+  literal_form: low rounded hill, hill near Sacaton, hardened alkali flat, or open
+    village ground
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: central drums
+  literal_form: four basket drums in the center
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: concentric circles of participants
+  literal_form: singers in a close circle, appointed dancers in a larger circle, spectators
+    outside or within, runners outside spectators, horsemen around the whole gathering
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: opposed circular movement
+  literal_form: appointed dancers moving in a sinistral circuit and horsemen circling
+    left to right
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: battle-dead kinship count
+  literal_form: number of young women runners linked to female relatives of those
+    killed in battle
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dance site selection
+  summary: The dance is located on one of several possible open or elevated grounds,
+    including hills, an alkali flat, or open ground near villages.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Central music and dance formation
+  summary: Four basket drums are beaten in the center, singers circle them, and appointed
+    dancers form a larger stamping and swaying circle moving sinistrally.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Outer participants and circling horsemen
+  summary: The crowd may dance individually or remain outside the selected dancers;
+    outside the spectators, men and young women run, and forty horsemen circle the
+    whole gathering from left to right.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: concentric ritual dance formation
+  taxonomy_refs: []
+  basis: The passage repeatedly describes participants arranged in central, close,
+    larger, spectator, running, and mounted outer circles.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic description of a dance arrangement, not a myth
+    narrative; no supplied taxonomy family directly matches it.
+- id: motif:2
+  label: counter-directional ritual circling
+  taxonomy_refs: []
+  basis: Appointed dancers move in a sinistral circuit, while horsemen circle from
+    left to right around the whole gathering.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explain the meaning of the directional contrast.
+- id: motif:3
+  label: war-dead relatives represented in dance running
+  taxonomy_refs: []
+  basis: The young women runners are numbered according to female relatives of those
+    killed in battle.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only the counting relation and does not state a ritual
+    interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10149-10153
+  quote_or_summary: The dance was held on a low rounded hill near the Double Buttes,
+    on a hill near Sacaton, on a hardened alkali flat, or on open ground near villages.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 10153-10156
+  quote_or_summary: "“Four basket drums were beaten in the center, while either four
+    or ten singers formed a close circle around them.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 10156-10158
+  quote_or_summary: Numerous appointed dancers stamped and swayed within a larger
+    circle, moving in a sinistral circuit.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 10158-10162
+  quote_or_summary: Sometimes the crowd danced within the selected dancers' circle
+    as individuals without holding hands, but usually remained outside the circle.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 10162-10169
+  quote_or_summary: Outside the spectators, twenty men and two or more young women
+    kept running; the number of young women depended on female relatives of those
+    killed in battle.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 10170-10171
+  quote_or_summary: "“In addition to these forty horsemen also circled from left to
+    right about the whole gathering.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and concrete, supporting extraction of roles,
+    actions, spatial patterning, and candidate ritual-pattern motifs. It does not
+    support external comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the supplied motif families and symbols do not directly match the passage's described dance, circular movement, or war-related kinship count.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l10149-l10171
+  passage_sha256=19140ad7185537517a12fad5a81897e3499b6ff79c0a98181d2bd39b627f929c
+

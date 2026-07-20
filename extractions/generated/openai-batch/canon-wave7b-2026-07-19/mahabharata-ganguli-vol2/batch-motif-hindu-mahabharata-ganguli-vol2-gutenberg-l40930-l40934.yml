@@ -1,0 +1,166 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l40930-l40934
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XXIV / SECTION XXV / SECTION XXVI / SECTION XXVII; lines 40930-40934
+  start: '40930'
+  end: '40934'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Dhritarashtra said, 'Filled with rage, what did Partha... do to Bhagadatta?'
+  summary: Dhritarashtra asks Sanjaya what the enraged Partha did to Bhagadatta and
+    what the king of the Pragjyotishas did to Partha.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dhritarashtra speaks and asks Sanjaya to report events.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Partha is described as the son of Pandu and as filled with rage.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dhritarashtra asks what Partha did to Bhagadatta.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dhritarashtra asks what the king of the Pragjyotishas did to Partha.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Dhritarashtra
+  description: Speaker who asks Sanjaya for an account.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sanjaya
+  description: Addressee asked to tell the events.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Partha, son of Pandu
+  description: Figure described as filled with rage and involved in actions concerning
+    Bhagadatta and the king of the Pragjyotishas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Bhagadatta
+  description: Figure about whom Dhritarashtra asks what Partha did.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: king of the Pragjyotishas
+  description: Figure about whom Dhritarashtra asks what he did to Partha.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: Dhritarashtra is named as the speaker asking for a report.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: requested narrator
+  assigned_to:
+  - fig:2
+  basis: Sanjaya is addressed and told to recount the matter.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: enraged combatant in inquiry
+  assigned_to:
+  - fig:3
+  basis: Partha is described as filled with rage, and Dhritarashtra asks what he did
+    to Bhagadatta.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: opposed figure in battle inquiry
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Bhagadatta and the king of the Pragjyotishas are each named in questions
+    about actions involving Partha.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Dhritarashtra questions Sanjaya about Partha and Bhagadatta
+  summary: Dhritarashtra asks Sanjaya to tell what the enraged Partha did to Bhagadatta
+    and what the king of the Pragjyotishas did to Partha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 40930-40934
+  quote_or_summary: '"Dhritarashtra said... Tell me all this, O Sanjaya!"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 40930-40934
+  quote_or_summary: '"Filled with rage, what did Partha, the son of Pandu, do to Bhagadatta?"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 40930-40934
+  quote_or_summary: '"What also did the king of the Pragjyotishas do to Partha?"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is a brief dialogue question naming figures and anticipated battle
+    actions. No supported taxonomy motif, symbol, or comparison claim is explicit
+    in the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external identification of figures was added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l40930-l40934
+  passage_sha256=9f6d354f446de4c361918470dbddd5f468c359ebb8957247f2eede2ff896f4d4
+

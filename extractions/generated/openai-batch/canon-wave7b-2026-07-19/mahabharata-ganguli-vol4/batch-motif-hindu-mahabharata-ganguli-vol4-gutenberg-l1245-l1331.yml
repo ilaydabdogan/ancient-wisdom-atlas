@@ -1,0 +1,581 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l1245-l1331
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION VII / SECTION VIII / SECTION IX / SECTION X; lines 1245-1331
+  start: '1245'
+  end: '1331'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Bhishma narrates how a Sudra adopts ascetic practices, receives instruction
+    from a Rishi in rites for the Pitris, dies and is reborn in a royal family. The
+    Rishi also dies and is reborn in a priestly family. The reborn Sudra becomes king,
+    appoints the reborn Rishi as priest, repeatedly laughs at him during rites, and
+    the priest asks for a boon requiring truthful explanation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Sudra leaves the earlier asylum, builds a hut of twigs and leaves, prepares
+    a sacrificial platform, a sleeping place, and platforms for deities.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sudra follows rigid vows, abstains from speech, bathes three times daily,
+    offers sacrifices and libations on the sacrificial fire, worships deities, restrains
+    desires, and lives on fruits and roots.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Sudra welcomes and entertains guests at his retreat with herbs and fruits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Rishi comes to the Sudra's retreat repeatedly to see him and is welcomed
+    and worshipped by the Sudra.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Sudra asks the Rishi to instruct him in rites ordained for the Pitris
+    and brings water, Kusa grass, herbs, fruits, a sacred seat, and the Vrishi seat.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The Rishi corrects the orientation of the Vrishi and directs the Sudra in
+    the details of the Sraddha rite, including Kusa grass, Arghyas, libations, and
+    food offerings.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After long penance, the Sudra dies in the woods and, because of the merit
+    acquired, is reborn in the family of a great king.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Rishi dies and is reborn in a priestly family; both reborn figures grow
+    and acquire learning, and the reborn Rishi becomes skilled in Vedic and ritual
+    subjects.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: The reborn Sudra, now a prince, performs his father's last rites, is installed
+    by the subjects on the paternal throne, appoints the reborn Rishi as priest, and
+    rules righteously.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The king repeatedly smiles or laughs at the priest when receiving benedictions
+    and during religious rites, causing the priest to become angry.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: In private, the priest asks the king for one boon; the king offers many, and
+    the priest asks him to swear that he will tell the truth.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Sudra ascetic / reborn king
+  description: A Sudra who adopts ascetic vows, requests instruction in rites for
+    the Pitris, dies in the woods, is reborn in a royal family, becomes king, and
+    appoints the reborn Rishi as priest.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Rishi / Brahmana / reborn priest
+  description: A Rishi who visits the Sudra, gives instruction in Sraddha rites, dies,
+    is reborn in a priestly family, becomes learned, is appointed priest by the king,
+    and later asks for a truth-bound boon.
+  role_refs:
+  - role:4
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Bhishma
+  description: The narrator of the passage who continues the account.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Pitris
+  description: Ancestral recipients in whose honour the Sudra wishes to perform rites.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Deities
+  description: Divine recipients for whom the Sudra prepares platforms, worships,
+    and offers sacrifices.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ascetic penitent
+  assigned_to:
+  - fig:1
+  basis: The Sudra builds a hermitage and practices vows, penances, silence, ablutions,
+    sacrifice, and sense-restraint.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: host to guests and Rishi
+  assigned_to:
+  - fig:1
+  basis: The Sudra entertains guests with herbs and fruits and welcomes the visiting
+    Rishi with due rites.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: ritual student
+  assigned_to:
+  - fig:1
+  basis: The Sudra asks for instruction in rites for the Pitris and follows the Rishi's
+    directions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: ritual instructor
+  assigned_to:
+  - fig:2
+  basis: The Rishi corrects the ritual orientation and instructs the Sudra in Sraddha
+    procedure.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: reborn ruler
+  assigned_to:
+  - fig:1
+  basis: The Sudra is reborn in a royal family, installed as king, appoints a priest,
+    and rules righteously.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: reborn priest
+  assigned_to:
+  - fig:2
+  basis: The Rishi is reborn in a priestly family and later installed by the king
+    as priest.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: boon requester
+  assigned_to:
+  - fig:2
+  basis: The priest privately asks the king to grant a boon and requests a truth-telling
+    oath.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: narrator
+  assigned_to:
+  - fig:3
+  basis: The passage begins with Bhishma continuing the narration.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: ritual recipients
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Sudra performs deity worship and seeks to perform rites in honour of
+    the Pitris.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: ascetic hermitage
+  literal_form: hut of twigs and leaves, sacrificial platform, sleeping space, and
+    platforms for deities
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sacrificial fire
+  literal_form: fire on which the Sudra pours libations
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ritual water
+  literal_form: water used in thrice-daily ablutions and brought for the Rishi to
+    wash his feet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: trees, fruits, roots, herbs
+  literal_form: twigs and leaves of trees; fruits, roots, herbs, and wild fruits used
+    for subsistence, hospitality, and ritual preparation
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: Kusa grass and sacred seats
+  literal_form: Kusa grass, a sacred seat, and the Vrishi seat used in the Sraddha
+    rite
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: ritual orientation
+  literal_form: 'directions of the Vrishi and ritual sitting: south, west, east, and
+    north'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: paternal throne
+  literal_form: the throne of the king's father on which the prince is installed by
+    the subjects
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: king's laughter
+  literal_form: the king's repeated smiling or loud laughter at the priest during
+    benedictions and rites
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Establishment of the Sudra's ascetic retreat
+  summary: The Sudra moves away, builds a hut and ritual spaces, takes up vows and
+    penances, worships deities, and lives austerely on fruits and roots.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hospitality and instruction in rites for the Pitris
+  summary: A Rishi repeatedly visits the Sudra, who welcomes him, asks for instruction
+    in ancestral rites, prepares ritual items, and receives correction and instruction
+    for the Sraddha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Deaths and rebirths
+  summary: The Sudra dies after long penance and is reborn into a royal family; the
+    Rishi dies and is reborn in a priestly family.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Kingship and priesthood after rebirth
+  summary: The reborn Sudra becomes king, installs the reborn Rishi as priest, rules
+    righteously, and repeatedly laughs at the priest during ritual occasions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Private request for a truth-bound boon
+  summary: The priest finds a private moment, asks the king for one boon, and requests
+    that the king swear to tell him the truth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: death followed by rebirth into new social stations
+  taxonomy_refs:
+  - death_rebirth
+  basis: Both the Sudra and the Rishi die and are explicitly reborn, the former into
+    a royal family and the latter into a priestly family.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe an afterlife journey or resurrection of
+    the same body.
+- id: motif:2
+  label: ascetic merit leading to elevated rebirth
+  taxonomy_refs:
+  - death_rebirth
+  basis: The Sudra's rebirth in a royal family is attributed to the merit acquired
+    through his penances and vows.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The intervening mechanism between merit and rebirth is not narrated in
+    detail.
+- id: motif:3
+  label: ritual instruction in ancestor offerings
+  taxonomy_refs:
+  - wisdom
+  - sacrifice
+  basis: The Sudra requests instruction in rites for the Pitris, and the Rishi teaches
+    the procedure for Sraddha, including ritual placement, libations, and offerings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents practical ritual instruction, not an explicitly named
+    initiation.
+- id: motif:4
+  label: hospitality to a holy visitor and subsequent sacred instruction
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Sudra honors the visiting Rishi with hospitality, and the Rishi later
+    gives him ritual instruction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No explicit bargain or contractual exchange is stated.
+- id: motif:5
+  label: truth-demanding boon
+  taxonomy_refs:
+  - wisdom
+  basis: The priest asks the king for a boon and specifically requests that he swear
+    to tell the truth.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage ends before the king's truthful answer is given.
+- id: motif:6
+  label: installation on paternal throne and righteous kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The prince performs his father's rites, is installed by the subjects on his
+    paternal throne, appoints a priest, and rules righteously.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No divine mandate or supernatural sign of kingship is described.
+- id: motif:7
+  label: rebirth-linked hierarchy reversal or tension
+  taxonomy_refs:
+  - death_rebirth
+  basis: The former Sudra becomes a king while the former Rishi becomes his priest;
+    the king repeatedly laughs at the priest during ritual encounters.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not yet state the reason for the king's laughter, so
+    the significance of the tension remains unresolved in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The explicit death and rebirth of both central figures supports comparison
+    with the death_rebirth motif family.
+  claim_level: same_motif
+  target: death_rebirth
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not include bodily resurrection, an underworld journey,
+    or a return to the same life.
+- id: claim:2
+  claim: The prince's installation by subjects on his paternal throne and his righteous
+    rule support a same-function comparison with royal_legitimacy patterns.
+  claim_level: same_function
+  target: royal_legitimacy
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents succession and public installation, but no divine
+    election or conquest narrative.
+- id: claim:3
+  claim: The Sudra's request for ritual teaching and the Rishi's transmission of Sraddha
+    procedure support a comparison with wisdom or sacred-instruction patterns.
+  claim_level: same_function
+  target: wisdom
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The instruction is limited to a specific ritual procedure and is not
+    framed as comprehensive esoteric revelation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1245-1258
+  quote_or_summary: Bhishma narrates that the Sudra reflects, moves away, builds a
+    hut and ritual platforms, undertakes silence and vows, bathes three times daily,
+    offers sacrifices and libations on fire, worships deities, restrains desires,
+    and lives on fruits and roots.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1255-1260
+  quote_or_summary: The Sudra welcomes and entertains all guests at his retreat, offering
+    herbs and fruits found nearby.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1260-1271
+  quote_or_summary: A Rishi comes repeatedly to the Sudra's retreat, is honored by
+    him, and the Sudra asks to be instructed in rites ordained for the Pitris.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1271-1281
+  quote_or_summary: The Sudra prepares water, Kusa grass, herbs, fruits, sacred seats,
+    and a Vrishi; the Rishi corrects the Vrishi's direction and teaches the Sraddha
+    details for grass, Arghyas, libations, and food offerings.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1281-1291
+  quote_or_summary: After long penances the Sudra dies in the woods and, due to acquired
+    merit, is reborn in a royal family; the Rishi also dies and is reborn in a priestly
+    family.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1291-1308
+  quote_or_summary: Both reborn figures gain learning; the former Sudra becomes king
+    after his father's death, is installed by the subjects, appoints the reborn Rishi
+    as priest, and rules righteously.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1308-1316
+  quote_or_summary: The king repeatedly smiles or laughs loudly at the priest during
+    benedictions and sacred rites, and the priest becomes angry and seeks a private
+    moment with him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 1316-1331
+  quote_or_summary: The priest asks the king to grant one boon; the king offers many,
+    and the priest requests that the king swear to tell the truth rather than an untruth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative sequence and ritual actions are explicit in the supplied passage.
+    Motif labels involving hierarchy reversal, sacred exchange, and wisdom are interpretive
+    and should be reviewed against the surrounding sections.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and available taxonomy references. Passage treated as one continuous narrative despite section-boundary labels.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l1245-l1331
+  passage_sha256=e860136dea28d05d3f568aa3c3735849450ca169d62a4dcc1b3fbffaa6ea124e
+

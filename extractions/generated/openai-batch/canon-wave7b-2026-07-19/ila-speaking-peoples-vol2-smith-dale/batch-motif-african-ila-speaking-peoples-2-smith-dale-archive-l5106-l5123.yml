@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l5106-l5123
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: VOL. II I / THE MABWABWA AROUND A GRAVE. / CH. XXI / THE DOCTRINE OF SOULS;
+    lines 5106-5123
+  start: '5106'
+  end: '5123'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“the old chief who had returned to earth”"
+  summary: After some time, Sezongo's son has a son, and this child is identified
+    as the old chief returned to earth. The passage then raises a question about whether
+    Sezongo is at the grave where he is worshipped, in a tortoise, in lions, or in
+    the boy in the village, and suggests either confusion or a multipart conception
+    of the soul.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Sezongo's son later had a son born to him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The newborn son was identified as the old chief returned to earth.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says a European might ask where Sezongo is, while such a question
+    would not occur to a native.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The possible locations or forms named for Sezongo are the grave where he is
+    worshipped, a tortoise, lions, and the boy running about the village.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator suggests either confusion of thought or a bipartite or tripartite
+    conception of the soul.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Sezongo / the old chief
+  description: A deceased chief who is said to have returned to earth and is associated
+    with worship at his grave and with possible presence in animal forms or in a boy.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Sezongo's son
+  description: The son of Sezongo, who later has a son born to him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: newborn son / boy
+  description: The son born to Sezongo's son, identified as the old chief returned
+    to earth and later described as running about the village.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: returned deceased chief
+  assigned_to:
+  - fig:1
+  basis: The passage says the old chief had returned to earth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father of the newborn
+  assigned_to:
+  - fig:2
+  basis: Sezongo's son has a son born to him.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: newborn identified with deceased chief
+  assigned_to:
+  - fig:3
+  basis: The child is said to be the old chief returned to earth.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: worshipped ancestor or chief
+  assigned_to:
+  - fig:1
+  basis: The passage refers to Sezongo at the grave where he is currently worshipped.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: grave as worship locus
+  literal_form: grave
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tortoise as possible locus or form
+  literal_form: tortoise
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lions as possible locus or form
+  literal_form: lions
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: boy as living returned form
+  literal_form: boy running about the village
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Birth and identification of the returned chief
+  summary: A son is born to Sezongo's son, and the child is identified as the old
+    chief returned to earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Question of Sezongo's whereabouts
+  summary: 'The narrator lists several possible loci for Sezongo: his worshipped grave,
+    a tortoise, lions, and the boy in the village, then comments on a possible multipart
+    soul concept.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Deceased chief returns to earth in a newborn descendant
+  taxonomy_refs:
+  - death_rebirth
+  - return
+  basis: The passage says that the child born to Sezongo's son was proved to be the
+    old chief returned to earth.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the proof or the ritual process by which
+    the identification was made.
+- id: motif:2
+  label: Distributed or multipart presence of the soul
+  taxonomy_refs:
+  - duality
+  basis: The narrator considers whether Sezongo may be understood as present at the
+    grave, in animal forms, and in the boy, and explicitly mentions a bipartite or
+    tripartite conception of the soul.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The multipart-soul interpretation is the narrator's analysis and is framed
+    as uncertain rather than as a directly reported native explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5106-5110
+  quote_or_summary: Sezongo's son had a son born to him, and the child was “the old
+    chief who had returned to earth.”
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5111-5119
+  quote_or_summary: 'The passage asks where Sezongo is: at the grave where he is worshipped,
+    in the tortoise, in the lions, or in the boy running about the village.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5119-5122
+  quote_or_summary: The narrator says there may be confusion of thought or a conception
+    of the soul as bipartite or tripartite.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short, clear passage. Motif labels are cautious
+    because the text reports an identification with a returned chief but does not
+    detail the indigenous reasoning or ritual confirmation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself make an explicit comparison to another tradition or corpus.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l5106-l5123
+  passage_sha256=506f8dd9d3effdc7899f915ecaabe67422d6c7abf73ca284459039e100535ca4
+

@@ -1,0 +1,415 @@
+---
+record_id: batch.motif.amazonian-the-central-caribs-farabee-archive-l913-l1015
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+passage_locator:
+  label: The Central Caribs / GEOGRAPHICAL ENVIRONMENT / THE MACUSIS1 / MATERIAL CULTURE;
+    lines 913-1015
+  start: '913'
+  end: '1015'
+  translation: The Central Caribs
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Ethnographic description of Macusi subsistence and food preparation: agriculture,
+    hunting, fish poisoning, cooking and smoking foods, animal and insect foods, salt
+    procurement from Wapisianas near Mount Seriri, and processing bitter cassava into
+    flour and bread by removing poison.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Macusis are described as relying more on agriculture than on hunting and
+    fishing, while also undertaking long hunting journeys and seasonally poisoning
+    river pools to catch fish.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Meat and vegetables are cooked by boiling, baking, or roasting; meat can be
+    preserved for several days by continual roasting and smoking on a barbecue.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Most native animals are used as food, with exceptions including jaguar, puma,
+    anteater, and sloth; monkey meat is especially preferred.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some birds are eaten and others avoided as unclean; several game birds are
+    shot with bow and arrow after being called by Indian imitators.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Land tortoises and water turtles are sought for their flesh; turtles are caught
+    on sand-bars when they come out at night to lay eggs, and their eggs are eaten.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When other food is scarce, insects are eaten, including palm beetle grubs
+    and wasp grubs.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: During the dry season, pools are poisoned to capture fish in large numbers;
+    large catches are roasted on a barbecue and smoked over fire at home.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Macusis eat salt and formerly obtained it from Wapisianas, who evaporated
+    water collected in shallow pools near the foot of Mount Seriri.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Bitter cassava flour and bread are described as the principal food of central
+    Carib tribes and regional Arawaks; the roots contain poisonous milky juice, which
+    is extracted and rendered safe by heat.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Macusis
+  description: People described as agriculturalists, hunters, fishers, food processors,
+    salt users, and consumers of cassava-based foods in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Wapisianas
+  description: Neighboring people said to have evaporated water from pools near Mount
+    Seriri to provide salt formerly obtained by the Macusis.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Central Carib tribes
+  description: Regional groups for whom flour and bread made from bitter cassava roots
+    are described as principal food; many interior forest Carib tribes are also noted
+    as using no salt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Arawaks of the region
+  description: Regional Arawak groups said to share bitter cassava flour and bread
+    as principal food.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Agricultural subsistence group
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Macusis live more by agriculture than by hunting
+    and fishing.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Hunters, fishers, and food preservers
+  assigned_to:
+  - fig:1
+  basis: The passage describes long hunting journeys, seasonal fish poisoning, boiling
+    foods, and smoking meat or fish.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: Salt producers and suppliers
+  assigned_to:
+  - fig:2
+  basis: The Wapisianas are described as evaporating water from pools near Mount Seriri;
+    the Macusis formerly obtained salt from them.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: Regional cassava staple consumers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage identifies bitter cassava flour and bread as the principal food
+    of central Carib tribes and Arawaks of the region.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Poisoned river pools
+  literal_form: Pools along rivers poisoned seasonally or in the dry season to capture
+    fish.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: Fire, smoke, and heat for food transformation
+  literal_form: Fire or heat used in boiling, roasting, baking, smoking, and driving
+    off cassava poison.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: sym:3
+  label: Mount Seriri salt pools
+  literal_form: Shallow water pools about the foot of Mount Seriri from which Wapisianas
+    evaporated water to make salt.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Bitter cassava root with poisonous milky juice
+  literal_form: Tapering cassava roots containing milky juice with hydrocyanic acid,
+    processed into flour and bread.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: Barbecue smoking rack
+  literal_form: A barbecue on which meat and fish are roasted and smoked for preservation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: Macusi subsistence and cooking
+  summary: The Macusis are presented as primarily agricultural but also engaged in
+    hunting and fishing; foods are cooked, and meat is preserved by smoking.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animal foods and hunting practices
+  summary: The passage lists animals, birds, tortoises, turtles, eggs, and insects
+    used as food, including methods of stalking, calling birds, collecting tortoises,
+    and taking turtle eggs.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Dry-season fish poisoning and preservation
+  summary: During dry periods, fish are captured in large numbers by poisoning pools;
+    fresh fish are boiled, while large catches are roasted and smoked for transport
+    and storage.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Salt from Wapisianas near Mount Seriri
+  summary: The Macusis eat salt and formerly obtained it from Wapisianas, who evaporated
+    water collected in shallow pools near Mount Seriri.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:5
+  label: Bitter cassava transformed into staple food
+  summary: Bitter cassava roots, though poisonous in raw form, are processed by grating,
+    extracting the juice, and applying heat to produce flour and bread used as staple
+    foods by regional groups.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Poisoned water used for collective fish capture
+  taxonomy_refs: []
+  basis: The passage repeatedly describes poisoning river pools during certain seasons
+    or the dry season to obtain fish in large numbers.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic subsistence pattern in the passage, not a mythic
+    episode or ritual claim.
+- id: motif:2
+  label: Dangerous plant transformed into staple food
+  taxonomy_refs: []
+  basis: Bitter cassava roots contain poisonous milky juice, but people process the
+    roots to remove the juice and use heat to drive off the poison, producing flour
+    and bread.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage presents technological food processing only; no sacred or
+    mythological meaning is stated.
+- id: motif:3
+  label: Food preservation through fire and smoke
+  taxonomy_refs: []
+  basis: Meat and fish are preserved by roasting and smoking on a barbecue or over
+    the fire.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: This is a practical material-culture pattern rather than an explicit mythological
+    motif.
+- id: motif:4
+  label: Salt obtained through neighboring-group exchange
+  taxonomy_refs: []
+  basis: The Macusis formerly obtained salt from the Wapisianas, who produced it by
+    evaporating water from pools near Mount Seriri.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage supports resource procurement/contact, but does not describe
+    ritualized exchange or sacred exchange.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, bitter cassava flour and bread have the same staple-food
+    function for central Carib tribes and Arawaks of the region.
+  claim_level: same_function
+  target: Central Carib tribes and Arawaks of the region
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns food use only; no mythic equivalence or shared
+    narrative motif is stated.
+- id: claim:2
+  claim: The passage indicates historical contact or resource exchange between Macusis
+    and Wapisianas through salt procurement.
+  claim_level: historical_contact
+  target: Wapisianas as former Macusi salt source
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not specify the social mechanism of exchange or any
+    ritual significance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 913-920
+  quote_or_summary: The Macusis live more by agriculture than hunting and fishing,
+    make hunting journeys, poison pools seasonally for fish, cook foods, and preserve
+    meat by roasting and smoking.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 921-944
+  quote_or_summary: Most native animals are food except jaguar, puma, anteater, and
+    sloth; monkey is preferred, and the passage lists deer, peccary, tapir, capybara,
+    agouti, paca, and iguana as foods with varying preference.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 945-961
+  quote_or_summary: Larger birds are generally eaten, except falcons, vultures, and
+    domestic fowls considered unclean; certain game birds are shot after being called
+    by Indian imitators.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 962-977
+  quote_or_summary: Land tortoises and water turtles are sought for delicate flesh,
+    often roasted whole; turtles are caught at night on sand-bars while laying eggs,
+    and turtle and bird eggs are eaten.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 978-981
+  quote_or_summary: '"When other food is scarce, insects are eaten."'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 982-993
+  quote_or_summary: In the dry season the Macusis poison pools to capture many fish;
+    fresh fish are boiled, while large catches are roasted on a barbecue, carried
+    home, and smoked over the fire.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 994-1000
+  quote_or_summary: The Macusis eat salt and formerly obtained it from Wapisianas,
+    who evaporated water from shallow pools near Mount Seriri; many interior forest
+    Carib tribes use no salt.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 1001-1015
+  quote_or_summary: Bitter cassava flour and bread are principal foods for central
+    Carib tribes and regional Arawaks; cassava roots contain poisonous milky juice,
+    which is extracted, and the poison is driven off by heat.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are practical subsistence
+    and processing patterns, not explicit myths; they require human review before
+    comparative mythological use.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No explicit mythic narrative, deity, ritual, or sacred symbolism is present in the supplied passage; taxonomy references are limited to literal occurrences of available symbol terms.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:amazonian-the-central-caribs-farabee-archive__l913-l1015
+  passage_sha256=eb5ffd9e576684cbd0b4f86626bf550309a1c225ee91eb8cf336aa6d36cbc123
+

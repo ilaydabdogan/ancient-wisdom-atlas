@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l7266-l7284
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: DELUGE.  681 / CHAPTER  XX. / WATEE.  583 / WATEB.      HEILAWAC.  585; lines
+    7266-7284
+  start: '7266'
+  end: '7284'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage cites a Greek notice about festival waters drawn, taken home
+    in vessels, and kept fresh after sanctification; adds a lexical note on heilawin/heilwin;
+    reports a Cassel practice of wholesome bathing in Drusel water with a rule about
+    drawing with the current; and notes that a rite cited by Hartlieb may be of classical
+    origin, comparing it with gastromanteia using a water-filled bellied jar, a torch,
+    and an innocent boy.
+  language: Greek and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At the cited festival, people draw or take water home in vessels and preserve
+    it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The waters are described as sanctified on that day and as not deteriorating
+    over time.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Water drawn on that day is described as remaining intact and fresh for one,
+    two, or three years, like newly drawn spring water.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A note queries heilawin and cites a garden that bears heilwin.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At Cassel, bathing in Drusel water is reported as commended for wholesomeness.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Cassel water must be drawn with the current rather than against it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The probable right time for the Cassel water practice is given as Walburgis
+    or Midsummer.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage says a rite cited by Hartlieb may be of classical origin.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Gastromanteia is described as divining by a bellied jar filled with water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: In the described gastromanteia, a torch and an innocent boy also occur.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: festival water drawers
+  description: Participants who draw or take festival water home in vessels and keep
+    it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cassel Drusel-water users
+  description: People associated with bathing in Drusel water and drawing it with
+    the current.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: innocent boy
+  description: An innocent boy occurring in the water-jar divination described as
+    gastromanteia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: festival water collector and keeper
+  assigned_to:
+  - fig:1
+  basis: The cited festival participants take water home in vessels and preserve it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual bather and water drawer
+  assigned_to:
+  - fig:2
+  basis: The Cassel note concerns bathing in Drusel water and drawing it in a specified
+    direction.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: innocent child participant in divination
+  assigned_to:
+  - fig:3
+  basis: The passage says an innocent boy occurs in gastromanteia with a torch and
+    a water-filled jar.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sanctified festival water
+  literal_form: water drawn during the festival and kept in home vessels
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: home water vessels
+  literal_form: vessels used to store the drawn festival water
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Drusel water
+  literal_form: local water at Cassel used for bathing and drawing
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: drawing with the current
+  literal_form: the required direction of drawing water, with the current rather than
+    against it
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: bellied jar filled with water
+  literal_form: a bellied jar used for divining and filled with water
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: torch
+  literal_form: a torch occurring in the described water-jar divination
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: festival water preservation
+  summary: Festival participants draw or take home sanctified water in vessels; the
+    water is described as remaining fresh and unspoiled for years.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cassel wholesome water practice
+  summary: Bathing in Drusel water is commended as wholesome, with a rule that the
+    water be drawn with the current; the likely time is suggested as Walburgis or
+    Midsummer.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: water-jar divination comparison
+  summary: The passage notes possible classical origin for a rite and describes gastromanteia
+    as divination by a water-filled bellied jar, in which a torch and an innocent
+    boy occur.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: incorrupt sanctified water
+  taxonomy_refs: []
+  basis: The Greek citation says waters sanctified on the festival day remain fresh
+    and uncorrupted for long periods after being drawn and kept.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a scholarly citation, not a narrative myth episode.
+- id: motif:2
+  label: health-giving local water bathing
+  taxonomy_refs: []
+  basis: The Cassel note reports bathing in Drusel water as wholesome.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The report is presented as something the author heard; the exact ritual
+    context is limited.
+- id: motif:3
+  label: proper-direction water drawing
+  taxonomy_refs: []
+  basis: The Cassel practice specifies drawing water with the current and not against
+    it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives the rule but not its rationale.
+- id: motif:4
+  label: water divination with jar, torch, and innocent child
+  taxonomy_refs: []
+  basis: Gastromanteia is defined as divining by a water-filled bellied jar, and the
+    note adds the torch and innocent boy as recurring elements.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage references the rite as a comparative note and does not narrate
+    a full divination scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously suggests that a rite cited by Hartlieb may be connected
+    with classical practice, specifically gastromanteia, because the note identifies
+    water-jar divination with a torch and an innocent boy.
+  claim_level: historical_contact
+  target: classical gastromanteia / divination by a bellied jar filled with water
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The author uses tentative wording, and the excerpt does not provide
+    the full Hartlieb rite or independent evidence of transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7266-7273
+  quote_or_summary: 'Greek citation: at a festival people take drawn waters home in
+    vessels and keep them; the waters are said to be sanctified that day and to remain
+    fresh and unspoiled for one, two, or three years, like newly drawn spring water.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 7275-7276
+  quote_or_summary: 'Lexical note: asks about heilawin and cites Frauenlob MS. 2,
+    213b on a garden that bears heilwin, with reference to Altd. bl. 2, 294.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 7278-7281
+  quote_or_summary: 'Cassel note: bathing in Drusel water is commended as wholesome;
+    the water must be drawn with the current, not against it; the likely right time
+    is Walburgis or Midsummer.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 7283-7284
+  quote_or_summary: 'Comparative note: a rite cited by Hartlieb, writing in 1455,
+    may be of classical origin; in gastromanteia, divination by a water-filled bellied
+    jar, a torch and an innocent boy also occur.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage consists mainly of footnote-style scholarly citations, including
+    Greek text and brief comparative notes; several ritual contexts are only partly
+    visible in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used; taxonomy references were limited to supplied symbol IDs where directly supported by literal objects.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l7266-l7284
+  passage_sha256=88bc96abc0c586ac07578d30c5ecaae8f1387ee9e57a968371742781d814e66a
+

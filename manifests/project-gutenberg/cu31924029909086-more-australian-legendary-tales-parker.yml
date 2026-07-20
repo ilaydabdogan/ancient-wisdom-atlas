@@ -1,8 +1,8 @@
 ---
 manifest_version: '1'
 batch_id: auto-ingestion-queue
-created_date: '2026-07-17'
-updated_date: '2026-07-17'
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
 artifacts:
 - id: artifact.gutenberg_cu31924029909086
   work_id: australian.more_australian_legendary_tales.parker_archive
@@ -20,14 +20,14 @@ artifacts:
     path: imports/converted/project-gutenberg/cu31924029909086-more-australian-legendary-tales-parker.md
     checksum:
       algorithm: sha256
-      value: 1c12c1fbd63d314b50be9ec010ac6b3029a375027f11a0f6807ac4412723c693
+      value: '07169eb3d84a1013b1ea40d54c796454548de045de4c20bbac8414ddba655c29'
     media_type: text/markdown
     notes: Intermediate Markdown draft after removing distributor packaging.
   canonical:
     path: texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md
     checksum:
       algorithm: sha256
-      value: 4f07efa26a017c686dfb4baac9c6da484375b362784381c5b6e992b780a3a482
+      value: 4eaa8b95711ccc000ad5b1ff088a23db5afe37017a082122fe5e82e07fae11d8
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -61,7 +61,7 @@ artifacts:
   review:
     status: auto_promoted_from_rights_cleared_queue
     reviewer: Codex
-    review_date: '2026-07-17'
+    review_date: '2026-07-19'
     notes: Auto-promoted from a queue item whose rights fields explicitly allowed
       full-text and training use. Human spot review is still recommended.
   extraction:

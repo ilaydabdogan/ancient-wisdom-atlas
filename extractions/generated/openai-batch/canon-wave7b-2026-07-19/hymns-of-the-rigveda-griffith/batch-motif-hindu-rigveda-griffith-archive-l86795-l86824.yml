@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l86795-l86824
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: HYMN CLR. / HYMN 180.) THE RIQGVEDA. 605 / PANCIKA I / PANCIKA III; lines
+    86795-86824
+  start: '86795'
+  end: '86824'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The (sun) never really sets or rises.
+  summary: The passage explains a ritual argument about beginning and end, describes
+    how the Agnistoma should be completed within the day without haste through three
+    pressings, links ritual recitation to the sun's increasing heat, and teaches that
+    the sun does not truly rise or set but inverts itself at the boundaries of day
+    and night. One who knows this attains union and identity with the sun in form
+    and world.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A question is raised about how the beginning and end are alike when the beginning
+    has the Trivrt and the end has the Ekavinca; the reply says the Ekavinca is threefold
+    and both consist of repeated triplets.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Agnistoma is described as giving heat and as a rite to be completed within
+    the day.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The rite is to proceed without haste at the morning pressing, the midday pressing,
+    and the third pressing so that the sacrificer is not likely to perish.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The passage associates unhurried earlier pressings with densely populated
+    eastern villages and hasty third pressing with long forests to the west.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'The recitation should follow the sun''s movement: gentle tone at morning,
+    stronger at midday, and strongest at the third pressing.'
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Castra is identified with speech, and the reciter is instructed to begin
+    in a tone he can complete while increasing in height.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The sun is said never really to set or rise; at the end of day or night it
+    inverts itself, producing evening or day below and the opposite above.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: One who knows this teaching attains union with the sun and identity of form
+    and world with him.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Agnistoma
+  description: A day-completed rite described as giving heat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: sacrificer
+  description: The person for whom proper unhurried performance is said to prevent
+    likely perishing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: reciter
+  description: The instructed performer who recites in tones corresponding to the
+    sun's movement and heat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: sun
+  description: The heat-giving celestial body whose apparent rising and setting are
+    explained as inversion at the ends of day and night.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: one who knows thus
+  description: The knower who attains union with the sun and identity of form and
+    world.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: day-completed heat-giving rite
+  assigned_to:
+  - fig:1
+  basis: The Agnistoma is called the one who gives heat and is to be finished in the
+    day.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: beneficiary at risk if ritual pace is improper
+  assigned_to:
+  - fig:2
+  basis: The passage says that when the rite proceeds without haste the sacrificer
+    is not likely to perish, but also says the sacrificer is likely to perish in the
+    contrasting case.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: ritual speaker following solar pattern
+  assigned_to:
+  - fig:3
+  basis: The reciter is instructed to follow the sun's movement with increasing tone
+    at the three pressings.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: model for ritual recitation
+  assigned_to:
+  - fig:4
+  basis: The sun's increasing heat from morning to later day provides the model for
+    gentle, stronger, and strongest recitation tones.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: cosmic inverter of day and night
+  assigned_to:
+  - fig:4
+  basis: The sun is said not truly to set or rise but to invert itself at the ends
+    of day and night, making day and night above or below.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: knower attaining solar union
+  assigned_to:
+  - fig:5
+  basis: The passage says that one who knows this attains union with the sun and identity
+    of form and world.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sun
+  literal_form: The sun that gives increasing heat, appears to rise and set, and is
+    said to invert itself.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: three pressings
+  literal_form: Morning pressing, midday pressing, and third pressing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: day and night above and below
+  literal_form: Evening, day, and night placed above or below through the sun's inversion.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: repeated triplets
+  literal_form: The Trivrt, the threefold Ekavinca, and repeated triplets.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: heat
+  literal_form: Gentle, stronger, and strongest heat corresponding to phases of the
+    sun's movement.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Explanation of beginning and end
+  summary: A ritual question about the likeness of beginning and end is answered by
+    reference to threefold structure and repeated triplets.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Agnistoma through the day
+  summary: The Agnistoma is to be finished within the day, proceeding without haste
+    through the three pressings so that the sacrificer is not likely to perish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Recitation patterned on the sun
+  summary: The reciter is instructed to match tone to the sun's increasing heat from
+    morning to the third pressing.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Sun's inversion and the knower's union
+  summary: The sun is said not truly to rise or set but to invert itself at day and
+    night boundaries; one who knows this attains union and identity with it.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: regulated sacrifice preserving the sacrificer
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage centers on the Agnistoma, the three pressings, and instructions
+    for unhurried ritual action that protect the sacrificer from likely perishing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives ritual prescription rather than a narrative sacrifice
+    myth.
+- id: motif:2
+  label: ritual action modeled on solar movement
+  taxonomy_refs:
+  - ascent
+  basis: The recitation follows the sun's apparent forward movement and increasing
+    heat through morning, midday, and the third pressing.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage later states that the sun does not truly rise, so the ascent
+    motif is only an apparent or ritualized pattern.
+- id: motif:3
+  label: day-night duality through cosmic inversion
+  taxonomy_refs:
+  - duality
+  basis: The sun's inversion produces day and night in opposing positions above and
+    below.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage treats this as cosmological explanation within ritual instruction,
+    not as a conflict between opposed beings.
+- id: motif:4
+  label: knowledge producing union with a celestial power
+  taxonomy_refs:
+  - wisdom
+  basis: The final statement says that the one who knows this attains union with the
+    sun and identity of form and world with him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage names the result as union and identity but does not elaborate
+    a broader mystical quest narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 86795-86800
+  quote_or_summary: A speaker explains that the beginning and end are alike because
+    the Ekavinca is threefold and both beginning and end consist of repeated triplets.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 86802-86808
+  quote_or_summary: The Agnistoma is described as heat-giving, to be finished in the
+    day, and to be performed without haste at the morning, midday, and third pressings
+    so that the sacrificer is not likely to perish.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 86808-86814
+  quote_or_summary: The passage contrasts unhurried earlier pressings with hasty third
+    pressing, associating them with eastern villages, western forests, and the sacrificer's
+    risk, then repeats the instruction to proceed without haste at all three pressings.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 86814-86821
+  quote_or_summary: 'The recitation should follow the sun''s movement: gentle tone
+    with morning heat, stronger tone at midday, strongest tone at the third pressing;
+    the Castra is speech, and the reciter should increase in height from a tone he
+    can complete.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 86821-86824
+  quote_or_summary: The sun "never really sets or rises"; at the end of day or night
+    it inverts itself, making day/night above or below, and the one who knows this
+    attains union and identity of form and world with it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain translation; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is textually clear enough for ritual and solar-cycle extraction,
+    though the supplied source label and the passage content appear bibliographically
+    unusual; no external correction has been used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material to another tradition or corpus.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l86795-l86824
+  passage_sha256=7fe44f7351eb624169ec51b488a8c727153d55cdcca76d898ca69c86554522a3
+

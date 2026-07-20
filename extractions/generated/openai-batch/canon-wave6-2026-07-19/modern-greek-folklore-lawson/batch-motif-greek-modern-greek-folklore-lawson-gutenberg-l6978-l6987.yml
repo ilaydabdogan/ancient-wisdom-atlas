@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.greek-modern-greek-folklore-lawson-gutenberg-l6978-l6987
+source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+passage_locator:
+  label: 'FOOTNOTES: / CHAPTER II. / THE SURVIVAL OF PAGAN DEITIES. / GELLOUDES.;
+    lines 6978-6987'
+  start: '6978'
+  end: '6987'
+  translation: 'Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“select forty round stones brought up by forty different waves”"
+  summary: 'The author reports uncertainty about whether the names or qualities of
+    the Gelloudes remain current, then gives an Amorgos cure for nonfatal injuries
+    attributed to the demon: a mother summons a priest to curse the demon and scratches
+    the child; if this fails, she gathers forty wave-borne stones at sunset, boils
+    them in vinegar, and at cockcrow the phantom leaves the child whole.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author states uncertainty about whether the names are still remembered
+    as a mystic incantation or whether the implied qualities are still imputed to
+    the Gelloudes.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A modern cure from Amorgos is reported for nonfatal injuries attributed to
+    the demon.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The cure is applied when a child has been afflicted by the demon.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mother first sends for a priest to curse the demon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The mother scratches her child with her nails.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: If the first measures do not succeed, the mother goes down at sunset to the
+    shore.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The mother selects forty round stones brought up by forty different waves.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The stones are taken home and boiled in vinegar.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When the cock crows, the evil phantom disappears and leaves the child whole.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Gelloudes / demon / evil phantom
+  description: A demon or evil phantom associated with injuries to a child and targeted
+    by a curse; it disappears at the end of the cure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: afflicted child
+  description: A child afflicted by the demon and left whole after the phantom disappears.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: mother
+  description: The child’s mother initiates the cure, summons the priest, scratches
+    the child, gathers stones, and takes them home for boiling.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: priest
+  description: A priest is summoned by the mother to curse the demon.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: cock
+  description: A cock whose crow marks the time when the evil phantom disappears.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: child-afflicting demon or phantom
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the child’s affliction and injuries to the demon and
+    says the evil phantom disappears after the cure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: afflicted and restored child
+  assigned_to:
+  - fig:2
+  basis: The child is described as afflicted by the demon and later left whole.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: maternal ritual actor
+  assigned_to:
+  - fig:3
+  basis: The mother performs or initiates each step of the cure described in the passage.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: priestly curser of the demon
+  assigned_to:
+  - fig:4
+  basis: The priest is summoned specifically to curse the demon.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: cockcrow time marker
+  assigned_to:
+  - fig:5
+  basis: The cock’s crow marks the moment when the phantom disappears.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: forty round stones
+  literal_form: forty round stones brought up by forty different waves
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: shore and waves
+  literal_form: the shore and forty different waves that bring up the stones
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sunset
+  literal_form: sunset, the time when the mother goes to the shore
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: vinegar boiling
+  literal_form: stones boiled in vinegar
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: cock crow
+  literal_form: the crow of the cock
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: priestly curse
+  literal_form: the priest curses the demon
+  associated_figures:
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: nail scratching
+  literal_form: the mother scratches her child with her nails
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Initial cure attempt
+  summary: For a child afflicted by the demon, the mother summons a priest to curse
+    the demon and scratches the child with her nails.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Collection at the shore
+  summary: If the first measures fail, the mother goes to the shore at sunset and
+    gathers forty round stones brought by forty different waves.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Boiling and departure of the phantom
+  summary: The mother takes the stones home and boils them in vinegar; at cockcrow
+    the evil phantom disappears and the child is whole.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: child-afflicting demon countered by cure
+  taxonomy_refs: []
+  basis: The passage describes a demon afflicting a child and a sequence of measures
+    intended to make the evil phantom disappear and restore the child.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage reports a folklore cure, not a full narrative myth.
+- id: motif:2
+  label: apotropaic healing sequence using curse, scratching, stones, boiling, and
+    cockcrow
+  taxonomy_refs: []
+  basis: The described cure combines priestly cursing, maternal scratching, collection
+    of stones from waves, boiling in vinegar, and the crowing of a cock as the sign
+    of the phantom’s departure.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No specific taxonomy motif reference is supplied for this healing/exorcistic
+    sequence.
+- id: motif:3
+  label: numbered water-borne stones in a healing rite
+  taxonomy_refs: []
+  basis: The mother must select forty round stones brought up by forty different waves
+    and then boil them in vinegar as part of the cure.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the procedure but does not explain the meaning of the
+    number forty or the wave-borne stones.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6978-6982
+  quote_or_summary: The author says he cannot say whether the names are still remembered
+    as a mystic incantation or whether their qualities are still imputed to the Gelloudes,
+    but records a modern Amorgos cure for nonfatal injuries caused by the demon.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 6982-6984
+  quote_or_summary: "“If a child has been afflicted by it, the mother first sends
+    for the priest to curse the demon, and scratches her child with her nails”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:3
+  type: quote
+  locator: lines 6984-6986
+  quote_or_summary: "“she has to go down at sunset to the shore, and select forty
+    round stones brought up by forty different waves”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:4
+  type: quote
+  locator: lines 6986-6987
+  quote_or_summary: "“boil in vinegar, and when the cock crows the evil phantom will
+    disappear and leave the child whole”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The ritual sequence and figures are explicit in the passage. Motif labels
+    are descriptive and not mapped to an available motif-family taxonomy. No comparison
+    claims are made because the passage does not itself provide a specific comparative
+    target.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata; taxonomy use is limited to the available symbol reference for water.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-modern-greek-folklore-lawson-gutenberg__l6978-l6987
+  passage_sha256=6a714119939bb370d6e96214c412e253de158232e1db4b82a6b7b1af20acfe5f
+

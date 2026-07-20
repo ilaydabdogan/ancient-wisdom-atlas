@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.australian-ethnological-studies-queensland-roth-archive-l8401-l8434
+source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+passage_locator:
+  label: 'THE EXPRESSION OF IDEAS BY MANUAL SIGNS : A SIGN LANGUAGE. 89 / IK) THE
+    EXPBESSION OF IDEA8 BY MANUAL SIGNS : A SIGN LANGUAGE. / CHAPTER V. / THE SEARCH
+    FOR FOOD. PITURI.; lines 8401-8434'
+  start: '8401'
+  end: '8434'
+  translation: Ethnological Studies among the North-West-Central Queensland Aborigines
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists edible seeds, grasses, wild-rice, water-lily seeds, and
+    edible roots in the Cloncurry, Leichhardt-Selwyn, and Boulia districts, describing
+    regional names, preparation methods, and consumption of plant foods by the Mitakoodi
+    and Kalkadoon.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In the Cloncurry District, the Mitakoodi prepare jil-groo-bur-i, pig-weed,
+    and a star-grass by similar processes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that nardoo and coolibar seed are not eaten in the Cloncurry
+    District context described.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Wild-rice is gathered when ripe, tied in bundles, dried, beaten on ti-tree
+    bark, winnowed, ground, and cooked like a damper.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Water-lily seeds and Portulaca napiformis seeds are eaten, although the roots
+    of those plants are said to be more commonly eaten.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the Leichhardt-Selwyn District, the Kalkadoon eat various grass-seeds under
+    the name kun-yel, along with pig-weed and wild-rice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the Boulia District, several edible roots are described, including wi-too-ka
+    or loin-nu, yams, a water-lily root, and mung-a-roo.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Some roots are roasted, some yams are eaten cooked or uncooked, and mung-a-roo
+    is eaten raw or roasted after its husks are removed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In the Cloncurry District, the Mitakoodi eat several roots raw or roasted,
+    including two edible water-lily roots and at least four yams.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mitakoodi
+  description: A group in the Cloncurry District associated in the passage with preparing
+    and eating several plant foods.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Kalkadoon
+  description: A group in the Leichhardt-Selwyn District described as eating grass-seeds,
+    pig-weed, and wild-rice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: plant-food consumers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both groups are described in relation to eating named seeds, grasses, wild-rice,
+    roots, or yams.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: plant-food preparers
+  assigned_to:
+  - fig:1
+  basis: The Mitakoodi are associated with preparing jil-groo-bur-i and similar plant
+    foods in the Cloncurry District.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: grass-seed foods
+  literal_form: jil-groo-bur-i, pig-weed, star-grass, and other grass-seeds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: wild-rice
+  literal_form: mo-ko-mur-do, Oryza sativa
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: seed-processing bundle and bark surface
+  literal_form: ripened wild-rice tied in bundles, dried, and beaten on ti-tree bark
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: water-lily seed and root
+  literal_form: too-lum-bool seed and edible water-lily roots
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: edible roots and yams
+  literal_form: wi-too-ka or loin-nu, kaAa-ra yams, water-lily root, mung-a-roo, ma-la-ga,
+    wol-le, and other yams
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: digging stick
+  literal_form: special stick used to dig up yams
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cloncurry seed and grass preparation
+  summary: The passage describes Mitakoodi preparation of jil-groo-bur-i, pig-weed,
+    and star-grass, while noting that nardoo and coolibar seed are not eaten there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wild-rice processing sequence
+  summary: Wild-rice is gathered, bundled, dried, beaten on ti-tree bark, winnowed,
+    ground, and cooked like damper.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Kalkadoon seed dietaries
+  summary: The Kalkadoon are described as eating grass-seeds called kun-yel, as well
+    as pig-weed and wild-rice.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Boulia edible roots
+  summary: The passage lists edible roots in the Boulia District and describes digging,
+    roasting, husk-removal, and raw or cooked consumption.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Cloncurry water-lily roots and yams
+  summary: The Mitakoodi are described as eating raw or roasted roots, including two
+    water-lily root varieties and several yams.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: edible seed gathering and processing
+  taxonomy_refs: []
+  basis: The passage gives a multi-step sequence for wild-rice and mentions comparable
+    preparation of several grasses and seed foods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic subsistence pattern, not a mythic narrative motif;
+    no supplied taxonomy family directly applies.
+- id: motif:2
+  label: edible root gathering and preparation
+  taxonomy_refs: []
+  basis: The passage describes multiple edible roots, methods of careful plucking
+    or digging, removal of husks, and raw or roasted consumption.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a practical food-preparation pattern; symbolic or mythological
+    significance is not stated in the passage.
+- id: motif:3
+  label: regional variation in named plant foods
+  taxonomy_refs: []
+  basis: The passage contrasts plant foods and names across the Cloncurry, Leichhardt-Selwyn,
+    and Boulia districts, including which seeds or roots are eaten.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports regional comparison within the ethnographic account,
+    but not broader mythological comparison.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8401-8405; section 111
+  quote_or_summary: In the Cloncurry District, the Mitakoodi prepare jil-groo-bur-i,
+    pig-weed, and star-grass by similar processes; nardoo and coolibar seed are said
+    not to be eaten there.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8405-8410; section 111
+  quote_or_summary: Wild-rice is gathered ripe, tied into bundles, dried, beaten on
+    ti-tree bark, winnowed, ground, and cooked like damper; water-lily and Portulaca
+    napiformis seeds are eaten, though their roots are more commonly eaten.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8411-8413; section 112
+  quote_or_summary: In the Leichhardt-Selwyn District, the Kalkadoon eat grass-seeds
+    called kun-yel, and pig-weed and wild-rice are also common dietaries.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8414-8426; section 113
+  quote_or_summary: In the Boulia District, edible roots include wi-too-ka or loin-nu,
+    yams dug with a special stick, a water-lily root, and mung-a-roo; preparations
+    include careful plucking, digging, roasting, raw consumption, and husk removal.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8427-8434; section 114
+  quote_or_summary: In the Cloncurry District, the Mitakoodi eat several roots raw
+    or roasted, including two water-lily root varieties and at least four yams; only
+    the seed of one water-lily variety is eaten.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive ethnography of plant foods and preparation methods.
+    Motif candidates are limited to practical subsistence patterns; no mythological
+    comparison is supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned, because the passage does not state mythic or symbolic significance for the food plants, tools, or preparation methods.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-ethnological-studies-queensland-roth-archive__l8401-l8434
+  passage_sha256=54b17e424871a45e8385487b991ada8b2074805c988818542e20ee9eaf23807a
+

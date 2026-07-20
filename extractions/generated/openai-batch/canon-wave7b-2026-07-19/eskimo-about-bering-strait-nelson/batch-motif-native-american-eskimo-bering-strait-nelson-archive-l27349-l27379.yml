@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l27349-l27379
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: MYTHIC    ANIMALS / THE    ESKIMO    ABOUT    BERING    STRAIT / CONCEPTION   OF   NATURAL   PHENOMENA
+    / TRADITIONAL    SHOWERS   OF   ASHES; lines 27349-27379
+  start: '27349'
+  end: '27379'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: showers of matter like ashes fell there very long ago
+  summary: The passage records Yupik/Inupiaq-region traditions about rare showers
+    of ash-like material that frightened people, killed fish, caused starvation, and
+    prompted food-conservation practices; the author identifies the accounts as likely
+    memories of volcanic ash falls from regional eruptions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A very old woman on the lower Yukon reported that, when she was a girl, old
+    people related that ash-like showers had fallen there long ago.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One remembered first shower was described as quite deep, killing fish in rivers
+    and causing many people to die by starvation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An old man at St Michael described a fall of strange ash-like substance before
+    the Russians came to the country.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ash-like substance was said to cover the ground like a slight snowfall,
+    adhere to surfaces, and leave wood polished when rubbed off.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The St Michael informant said such showers occurred at widely distant intervals
+    and greatly frightened people.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After one fall, people saved bones, scraps of food, and animal skins with
+    hair removed to prepare for an expected famine.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: During the following winter, people ate every scrap while saving dried fish
+    and better food for spring, fearing another fall.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The author interprets the accounts as referring to volcanic ash falls from
+    eruptions in the Aleutian Islands and nearby regions.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: very old woman on the lower Yukon
+  description: A woman who reported hearing the ash-shower tradition from old people
+    when she was a girl.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: old people of the lower Yukon memory tradition
+  description: Older people said to have related the tradition of ancient ash-like
+    showers to the woman when she was young.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: old man at St Michael
+  description: An informant who related an account of an ash-like fall before the
+    Russians came and described responses to such falls.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: people affected by ash showers
+  description: People described as frightened by the showers, threatened by famine,
+    and saving food remnants after a fall.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: tradition informant
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Both figures are named as elderly persons who related remembered accounts
+    of ash-like showers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: earlier transmitters of tradition
+  assigned_to:
+  - fig:2
+  basis: The woman said she had heard the account from old people when she was a girl.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: community responding to disaster and famine threat
+  assigned_to:
+  - fig:4
+  basis: The passage describes people being frightened, saving scraps, and rationing
+    food after the ash falls.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: ash-like shower
+  literal_form: showers or falls of matter/substance like ashes
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: dead fish in rivers
+  literal_form: fish killed in the rivers after a deep ash-like shower
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: saved scraps against famine
+  literal_form: bones, food scraps, and hairless animal skins saved after an ash fall
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: dried fish reserved for spring
+  literal_form: dried fish and better food saved for spring because another fall was
+    feared
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Lower Yukon memory of a deep ash-like shower
+  summary: A lower Yukon tradition reports that ash-like matter fell very long ago;
+    the first remembered fall was deep, killed fish in rivers, and led to starvation
+    deaths.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: St Michael account of ash-like fall and surface effects
+  summary: An old man at St Michael describes a strange ash-like fall before the Russians
+    came, covering the ground like snow and adhering to surfaces.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Famine precautions after ash falls
+  summary: People, frightened by rare ash-like showers, saved bones, scraps, and animal
+    skins, then rationed food through winter while preserving better food for spring.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ash fall causing famine
+  taxonomy_refs: []
+  basis: The passage links a deep ash-like shower with fish deaths in rivers and starvation
+    among people.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a local disaster-memory motif rather than a named taxonomy family
+    in the supplied list.
+- id: motif:2
+  label: rare ominous natural fall prompting communal food preservation
+  taxonomy_refs: []
+  basis: The passage says ash-like showers occurred at long intervals, frightened
+    people, and led them to save bones, scraps, skins, and better food in anticipation
+    of famine or a repeated fall.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents practical famine precautions; any ritual or symbolic
+    interpretation would require evidence outside this passage.
+- id: motif:3
+  label: oral memory of volcanic ash disaster
+  taxonomy_refs: []
+  basis: The author states that the accounts likely refer to volcanic ash falls from
+    regional eruptions and notes that such events are preserved in the people’s memories.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The volcanic identification is the author’s interpretation, not a mythic
+    explanation voiced by the named informants in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 27349-27355
+  quote_or_summary: A very old woman on the lower Yukon said she had heard old people
+    tell, when she was a girl, that ash-like showers fell there very long ago.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: 27355-27358
+  quote_or_summary: The first ash shower she heard of was deep, killed river fish,
+    and caused many people to die by starvation.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: 27359-27367
+  quote_or_summary: An old man at St Michael reported a pre-Russian fall of strange
+    ash-like substance that covered the ground like light snow, adhered to surfaces,
+    and left rubbed wood polished.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: 27368-27371
+  quote_or_summary: The St Michael informant said such showers were known to occur
+    at widely distant intervals and greatly frightened people.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: 27371-27376
+  quote_or_summary: After an ash-like fall, people saved bones, food scraps, and hairless
+    animal skins against expected famine; in winter they ate every scrap while saving
+    dried fish and better food for spring, fearing another fall.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: 27377-27379
+  quote_or_summary: The author identifies the accounts as likely volcanic ash falls
+    from eruptions in the Aleutian Islands or nearby points, preserved in community
+    memory.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal disaster-memory details are explicit. Motif labels are descriptive
+    and not assigned to supplied motif-family taxonomy because the passage does not
+    support a close match such as world-destroying fire.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare the ash-shower tradition to another corpus, motif family, or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l27349-l27379
+  passage_sha256=0f72c162b477d29605be566c5e96f20e3e124e04a233940aecc8ec81d8e4a6cd
+

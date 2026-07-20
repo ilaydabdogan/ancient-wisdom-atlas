@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l4522-l4533
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: THE  SAILING   OF  THE  EXILES / LONGA-POA  71 / THE   STORY   OF / FEKAI   ENDS   HER   SCOLDING;
+    lines 4522-4533
+  start: '4522'
+  end: '4533'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: A sail! A sail!
+  summary: The heading states that Fekai ends her scolding. After the group has been
+    two days at sea, Longa-poa tells a young man to climb to the mast-head and look
+    for possible land. The youth first reports seeing nothing, then notices a distant
+    speck to windward on the waters and shouts that it is a sail.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage heading states that Fekai ends her scolding.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group had been two days at sea.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Longa-poa tells one of the young men to climb to the mast-head, look around,
+    and check whether land is in sight.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The youth looks around from aloft and first reports that he sees nothing.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Before descending the mast, the youth sees a little speck far away on the
+    waters to windward.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The youth shouts that the distant object is a sail.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fekai
+  description: Named in the heading as ending her scolding; no further action by Fekai
+    is described in the narrative body of this excerpt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Longa-poa
+  description: Named figure who addresses one of the young men during the sea journey
+    and instructs him to climb the mast-head and look around.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: one of the young men / the youth
+  description: Unnamed youth who climbs or is aloft at the mast, reports seeing nothing,
+    then notices a distant speck and calls it a sail.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: they / unnamed group at sea
+  description: Unnamed group described as having been two days at sea.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: title-named scolder
+  assigned_to:
+  - fig:1
+  basis: The heading says that Fekai ends her scolding.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: directing speaker
+  assigned_to:
+  - fig:2
+  basis: Longa-poa gives the instruction to climb the mast-head and look around for
+    land.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mast-head lookout
+  assigned_to:
+  - fig:3
+  basis: The youth is directed to climb to the mast-head, is described as aloft, looks
+    around, and reports what he sees.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: sea-traveling group
+  assigned_to:
+  - fig:4
+  basis: The group is described as having been two days at sea.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sea / waters
+  literal_form: sea; waters to windward
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: mast-head / mast
+  literal_form: mast-head; mast
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: possible land in sight
+  literal_form: land in sight as the object being sought
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: distant sail
+  literal_form: a little speck far away on the waters, identified by the youth as
+    a sail
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Lookout ordered after two days at sea
+  summary: After two days at sea, Longa-poa tells a young man to climb to the mast-head
+    and look around for possible land.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Distant sail sighted
+  summary: The youth reports that he sees nothing, but before descending the mast
+    he notices a distant speck on the waters to windward and shouts that it is a sail.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sea journey after departure or exile
+  taxonomy_refs:
+  - departure
+  basis: The supplied locator identifies the larger section as the sailing of exiles,
+    and the passage body says the group has already been two days at sea.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The excerpt shows an ongoing sea journey rather than the moment of departure;
+    the exile framing comes from the supplied passage locator rather than from the
+    narrative body in these lines.
+- id: motif:2
+  label: Mast-head lookout seeking land
+  taxonomy_refs: []
+  basis: Longa-poa orders a youth to climb the mast-head and look around because land
+    may be in sight.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an episode pattern in the passage, not a mapped taxonomy motif
+    family.
+- id: motif:3
+  label: Distant object recognized as a sail
+  taxonomy_refs: []
+  basis: The youth first sees only a little speck far away on the waters to windward,
+    then shouts that it is a sail.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not yet explain the sail's origin, occupants, or narrative
+    significance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '4522'
+  quote_or_summary: '"FEKAI ENDS HER SCOLDING"'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: 4524-4527
+  quote_or_summary: After two days at sea, Longa-poa tells one of the young men to
+    climb to the mast-head and look around for possible land.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 4528-4529
+  quote_or_summary: '"There is nothing, sir," cried the youth from aloft after looking
+    around.'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: 4529-4533
+  quote_or_summary: As the youth is about to descend the mast, he sees a little speck
+    far away on the waters to windward and shouts, "A sail! A sail!"
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized with short quotation.
+- id: ev:5
+  type: note
+  locator: passage label; 4522-4533
+  quote_or_summary: The supplied passage locator labels the larger section as "THE
+    SAILING OF THE EXILES."
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Supplied metadata; public domain source context.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the short passage. Motif candidates are
+    limited because the excerpt gives only a brief sea-voyage episode; no external
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims extracted; taxonomy use is limited to water as a symbol and departure as a cautious motif-family reference based partly on supplied locator context.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l4522-l4533
+  passage_sha256=54a9cddea2dd2f9794cdd7e99c269e2b931285022b555c399ee151aff0e80a56
+

@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.african-back-of-the-black-mans-mind-dennett-archive-l471-l554
+source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+passage_locator:
+  label: LIST   OF    ILLUSTRATIONS / PLATE / CHAPTER  I / LUANGO  AND  THE  BAVILI;
+    lines 471-554
+  start: '471'
+  end: '554'
+  translation: At the Back of the Black Man's Mind; or, Notes on the Kingly Office
+    in West Africa
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The spirits of all rivers in this part of Africa are supposed to teach the
+    Fiote some lesson.
+  summary: The passage introduces Luango and the Bavili through historical notes on
+    European exploration, missionaries, and traders. Within this historical frame,
+    it explains the Kongo River's native names as connected with spirit, love, knowledge,
+    and the Fiote religious system, and states that river spirits teach the Fiote
+    lessons.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Diego Cao is said to have discovered the Kongo River in 1484.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The river's native names are given as Zaili, Zairi, or Zaidi.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The river name is explained as the way of the spirit, or personality of love
+    and knowledge.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The river name is said to predate Diego Cao's discovery and to belong to the
+    Fiote religious system.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: River spirits in this part of Africa are said to teach the Fiote some lesson.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The text contrasts transient missionaries and explorers with traders who were
+    long-established associates of the inhabitants.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Spirits of all rivers
+  description: Collective river spirits in this part of Africa, described as teaching
+    the Fiote some lesson.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Fiote
+  description: The people connected with the religious system mentioned in the passage
+    and described as receiving lessons from river spirits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Diego Cao
+  description: Portuguese explorer said to have discovered the Kongo River in 1484;
+    used as a chronological contrast to the earlier native river name.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: teaching spirits
+  assigned_to:
+  - fig:1
+  basis: The passage says the spirits of all rivers are supposed to teach the Fiote
+    a lesson.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: recipients of instruction
+  assigned_to:
+  - fig:2
+  basis: The Fiote are named as the people taught by the river spirits.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: historical discoverer
+  assigned_to:
+  - fig:3
+  basis: The passage states that Diego Cao discovered the Kongo River in 1484, while
+    the native name predated that discovery.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Kongo River as spiritual way
+  literal_form: A river named Zaili, Zairi, or Zaidi and explained as the way of the
+    spirit, or personality of love and knowledge.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: River spirits
+  literal_form: The spirits of all rivers in this part of Africa.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sacred naming of the Kongo River
+  summary: The Kongo River's native names are listed and explained as a spiritual
+    designation linked to love, knowledge, and the Fiote religious system; the name
+    is said to have existed before Diego Cao's discovery.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: River spirits as teachers
+  summary: The passage states that river spirits in this part of Africa teach the
+    Fiote some lesson.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: River spirits as teachers of lessons
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly says that spirits of rivers teach the Fiote lessons,
+    and the river's name is associated with love and knowledge.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is a brief colonial-era ethnographic assertion rather than a narrated
+    mythic episode; native-language detail and ritual context are not provided in
+    this passage.
+- id: motif:2
+  label: Sacred river as way of the spirit
+  taxonomy_refs: []
+  basis: The Kongo River's native name is glossed as the way of the spirit and connected
+    with the Fiote religious system.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe a journey, afterlife route, ritual practice,
+    or full narrative sequence; classification should remain cautious.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 486-488
+  quote_or_summary: he discovered the Kongo River in 1484.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 489-490
+  quote_or_summary: The native name for this river is Zaili, Zairi, or Zaidi
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 490-491
+  quote_or_summary: the way of the spirit, or personality of love and knowledge
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 491-493
+  quote_or_summary: The river name is said to have existed before Diego Cao's discovery
+    and to be part of the Fiote religious system.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 496-497
+  quote_or_summary: The spirits of all rivers in this part of Africa are supposed
+    to teach the Fiote some lesson.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 543-548
+  quote_or_summary: The author says missionaries and explorers came and went, while
+    traders remained long-established associates of the inhabitants.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The religious-symbolic content is limited but explicit. Candidate motifs
+    are cautious because the passage is mainly historical introduction and does not
+    present a full myth narrative. No comparison claims were extracted because the
+    passage itself does not support historical or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and source metadata; taxonomy references are limited to the provided lists.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-back-of-the-black-mans-mind-dennett-archive__l471-l554
+  passage_sha256=d80a9c33ea7844a3f278d041427f36c24af0114fccbf7624354aad64455b2009
+

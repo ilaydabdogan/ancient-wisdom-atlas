@@ -1,0 +1,468 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l8972-l9063
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: BRAINING    CLUBS    AND    SEAL-CAPTURING    IMPLEMENTS    IONE-FIFTH) /
+    BIRD   SNARES   AND   NETS / SEAL   SPEARS / WALRUS   AND   WHALE    SPEARS; lines
+    8972-9063
+  start: '8972'
+  end: '9063'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes walrus and whale spears used for large seals, walrus,
+    and white whales. It explains the spear, float, float-board, lines, carved animal
+    forms, kayak arrangement, ice-hunting use, and larger hand-thrown spear variants
+    that use drag to impede struck animals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Large and vigorous seals, walrus, and white whales are taken with a spear
+    used together with a float and float-board.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For larger animals, a large float on a long line provides greater resistance
+    than the shaft-drag method used for smaller seals.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The described style of implement is reported as being in use from Kotzebue
+    Sound to Bristol Bay.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In the Nunivak Island region and adjacent mainland, spear heads of ivory or
+    bone are commonly carved into conventional forms of wolves or land otters.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One Nunivak Island spear has a head carved as a land otter head with blue
+    beads inlaid for eyes.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: One lower Kuskokwim spear has a shaft carved as a conventionalized wolf and
+    an ivory head fixed with spruce-root lashing.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A Yukon mouth spear is described with a float line, float-board, barbed ivory
+    point, iron tip, deer-horn rod, rawhide line, long sealskin line, and inflated
+    seal-skin float.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The float-board is made from an oval spruce hoop and board with projecting
+    arms, a central round hole, and crescent-shaped side holes.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: On a kayak, the float-board is placed before the hunter, the spear rests on
+    guards at the right rail, and the inflated float rests behind the manhole.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: When the spear is thrown, the line coil runs off rapidly and the float is
+    thrown overboard.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: During a long pursuit, the float-board can be drawn through the water nearly
+    at a right angle to the animal’s course, creating heavy drag.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: When hunting on ice, the hunter carries the float-board and spear while watching
+    leads or holes, holds the line after striking the seal, and may cast the float-board
+    into the water before pursuing by kayak.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: Larger hand-cast spears have a detachable point and wound line; when the point
+    detaches, the line unwinds and the shaft becomes a drag.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: hunter
+  description: A person using the spear, float-board, line, kayak, and related implements
+    in water or ice hunting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: large sea-mammal prey
+  description: Large and vigorous seals, walrus, and white whales that are struck
+    by spears and impeded by floats, boards, lines, or shafts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: hunter and implement operator
+  assigned_to:
+  - fig:1
+  basis: The passage describes the hunter arranging the board and spear on the kayak,
+    carrying implements on ice, striking the animal, holding the line, and pursuing
+    by kayak.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:2
+  label: hunted sea-mammal target
+  assigned_to:
+  - fig:2
+  basis: The animals are the targets of the spears and are slowed or exhausted by
+    the float, board, line, or shaft drag.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: walrus and whale spear
+  literal_form: A spear for large seals, walrus, and white whales, with ivory or bone
+    head and attachments for lines, floats, or detachable points.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: inflated seal-skin float
+  literal_form: The entire skin of a seal, closed at the openings and inflated through
+    a nozzle, attached to the spearhead by a long sealskin line.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: float-board drag
+  literal_form: An oval spruce hoop and board with projecting arms and holes, used
+    to carry the line and to create heavy drag in the water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: carved land otter head
+  literal_form: A spear head carved to represent a land otter head, with blue bead
+    eyes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: carved wolf form
+  literal_form: A spear shaft carved to represent a conventionalized wolf form.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: kayak hunting platform
+  literal_form: The kayak deck arrangement holding float-board, line coil, spear,
+    and inflated float around the hunter.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:7
+  label: water, leads, and holes
+  literal_form: Water through which the struck animal moves, including ice leads or
+    holes watched by the hunter.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:8
+  label: shaft drag
+  literal_form: A spear shaft attached by wound line to a detachable point so that
+    the shaft impedes the animal after the point detaches.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Regional description of large sea-mammal spear
+  summary: The passage introduces a spear used with a float and float-board for larger
+    seals, walrus, and white whales, and notes its reported distribution from Kotzebue
+    Sound to Bristol Bay.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Animal-form carving on spears
+  summary: Spear heads or shafts from Nunivak Island and the lower Kuskokwim are described
+    with land otter and wolf carvings.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Yukon mouth spear and float apparatus
+  summary: A spear is described with barbed ivory point, iron tip, lines, float-board,
+    and an inflated seal-skin float connected for hunting large animals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Kayak setup and thrown spear sequence
+  summary: The hunter places the float-board and line on the kayak, throws the spear,
+    the line pays out, the float goes overboard, and the float-board may create heavy
+    drag during pursuit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Ice-hunting sequence
+  summary: On the ice, the hunter carries the float-board and spear, watches leads
+    or holes for a seal, strikes it, holds the line until exhaustion, or casts the
+    board into the water and pursues by kayak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Hand-cast spear with shaft drag
+  summary: A larger spear cast directly from the hand uses a detachable point and
+    wound line so that the shaft becomes a drag against the animal’s escape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: detachable sea-mammal spear with float or drag
+  taxonomy_refs: []
+  basis: The passage repeatedly describes spear systems in which a struck animal is
+    impeded by a float, float-board, long line, or shaft drag.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is an ethnographic technology pattern, not a mythic narrative motif.
+- id: motif:2
+  label: inflated animal-skin float used to tire prey
+  taxonomy_refs: []
+  basis: The float is made from an entire inflated seal skin and is attached to the
+    spearhead by a long line to provide resistance after the animal is struck.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: No symbolic meaning is stated in the passage; extraction is limited to
+    literal function.
+- id: motif:3
+  label: hunting implement carved in animal form
+  taxonomy_refs: []
+  basis: The passage states that spear heads or shafts are carved into conventional
+    wolf or land otter forms, with specific examples of a land otter head and wolf-form
+    shaft.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain whether the carvings have ritual, symbolic,
+    aesthetic, or practical significance.
+- id: motif:4
+  label: pursuit of struck aquatic prey by line and kayak
+  taxonomy_refs: []
+  basis: The kayak and ice-hunting descriptions show the hunter striking the animal,
+    managing the line and float-board, and pursuing until the animal is exhausted.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a procedural hunting sequence rather than a narrative episode.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a same-function comparison between larger sea-mammal
+    spears and the smaller seal spears mentioned just before them: both impede a struck
+    animal, but the larger-animal system requires a large float on a long line rather
+    than shaft drag alone.'
+  claim_level: same_function
+  target: smaller seal spear class mentioned as previously described
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to implement function inside this passage;
+    it does not support historical or mythological conclusions.
+- id: claim:2
+  claim: The passage supports a regional same-function pattern for this float-and-float-board
+    spear style across the area from Kotzebue Sound to Bristol Bay.
+  claim_level: same_function
+  target: Kotzebue Sound to Bristol Bay large sea-mammal spear with float and float-board
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states distribution but does not establish origin, transmission
+    route, or symbolic equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8972-8985
+  quote_or_summary: Large seals, walrus, and white whales are taken with a spear used
+    with a float and float-board; larger animals require a large float on a long line;
+    this implement style is said to be in use from Kotzebue Sound to Bristol Bay.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 8986-9000
+  quote_or_summary: Ivory or bone heads in the Nunivak Island region and adjacent
+    mainland are commonly carved as wolves or land otters; examples include a land
+    otter head with blue bead eyes and a lower Kuskokwim spear shaft carved as a conventionalized
+    wolf.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 9001-9016
+  quote_or_summary: A Yukon mouth spear has a float line and board, a barbed ivory
+    point with triangular iron tip, a deer-horn rod, rawhide line, six-to-eight-fathom
+    sealskin line, and an inflated seal-skin float.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 9017-9030
+  quote_or_summary: The float-board is an oval spruce hoop and board with lashed joints,
+    notched front, projecting arms, a round central hole, and crescent-shaped side
+    holes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 9031-9039
+  quote_or_summary: On the kayak, the float-board is placed before the hunter, the
+    line coil rests on it, the spear lies on guards on the right rail, and the inflated
+    float rests behind the manhole.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 9040-9050
+  quote_or_summary: When the spear is thrown, the coil runs off and the float is thrown
+    overboard; in a long pursuit a cord may draw the float-board nearly at right angles
+    to the animal’s course, creating heavy drag.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 9051-9060
+  quote_or_summary: When hunting on ice, the hunter carries float-board and spear,
+    watches leads or holes for a seal, holds the line after striking it until exhaustion,
+    or casts the board into the water and pursues by kayak.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 9061-9063
+  quote_or_summary: Larger hand-cast spears have stout wooden shafts, bone or ivory
+    finger-rests and heads, and a wound line that unwinds when the point detaches
+    so the shaft acts as a drag.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a technical ethnographic description rather than a mythic
+    narrative. Literal extraction is strong; motif candidates are limited to material-culture
+    and procedural patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological taxonomy motif family is assigned because the passage does not state a mythic or ritual interpretation. The only available symbol taxonomy ref used is water, supported by the hunting setting.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l8972-l9063
+  passage_sha256=301bdfb0aa9ab025516ddea9c608b89f5c85472825a303dbb319daadf1c2cb43
+

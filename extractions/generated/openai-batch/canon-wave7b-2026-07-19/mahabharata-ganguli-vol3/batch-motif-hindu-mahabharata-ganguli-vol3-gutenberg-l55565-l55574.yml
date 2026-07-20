@@ -1,0 +1,220 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l55565-l55574
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXCVI / SECTION CCXCVII / SECTION CCXCVIII / SECTION CCXCIX; lines
+    55565-55574
+  start: '55565'
+  end: '55574'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Bhishma recounts that Janaka, ruler of Mithila, questioned the high-souled
+    Parasara, who is described as having certain knowledge of all duties. Janaka asks
+    about what produces good, the best path for living creatures, what accomplishment
+    is never destroyed, and the place from which one does not return.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bhishma introduces the exchange by saying that Janaka once questioned Parasara.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Janaka is identified as the ruler of Mithila.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Parasara is described as high-souled and endowed with certain knowledge concerning
+    all duties.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Janaka asks what is productive of good.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Janaka asks what is the best path for living creatures.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Janaka asks what, once accomplished, is never destroyed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Janaka asks what spot one can go to and not have to come back.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Bhishma
+  description: Speaker who recounts that Janaka questioned Parasara.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Janaka
+  description: Ruler of Mithila who questions Parasara about good, the best path,
+    an imperishable accomplishment, and a no-return destination.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Parasara
+  description: High-souled figure described as having certain knowledge concerning
+    all duties; he is the one questioned by Janaka.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: recounting speaker
+  assigned_to:
+  - fig:1
+  basis: The passage begins with Bhishma saying that the questioning occurred.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal questioner
+  assigned_to:
+  - fig:2
+  basis: Janaka, identified as ruler of Mithila, questions Parasara and asks a series
+    of doctrinal questions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: knowledgeable addressee
+  assigned_to:
+  - fig:3
+  basis: Parasara is questioned and is described as high-souled and endowed with knowledge
+    of all duties.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: best path
+  literal_form: the best path for living creatures
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: no-return spot
+  literal_form: the spot to which one repairs and does not have to come back
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: imperishable accomplishment
+  literal_form: that which, being accomplished, is never destroyed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Janaka questions Parasara about the highest good and final destination
+  summary: Bhishma frames a remembered dialogue in which Janaka, ruler of Mithila,
+    addresses Parasara and asks about good, the best path for living creatures, an
+    indestructible accomplishment, and a destination from which there is no return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: wisdom-seeking dialogue with a knowledgeable sage
+  taxonomy_refs:
+  - wisdom
+  basis: A ruler questions a figure described as having knowledge of all duties about
+    the good and the best path.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage contains the questions only; Parasara's answer is not included.
+- id: motif:2
+  label: search for a no-return destination
+  taxonomy_refs:
+  - mystical_quest
+  basis: Janaka asks about a spot to which one may go and not have to return, alongside
+    questions about what is never destroyed.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only the question and does not describe an actual journey,
+    destination, or doctrine.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to a wisdom-dialogue pattern in which
+    a royal questioner seeks instruction from a knowledgeable sage about the good
+    and the proper path.
+  claim_level: same_motif
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the dialogue setup and questions; the
+    instructional answer is outside the provided passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 55565-55568
+  quote_or_summary: Bhishma says that Janaka, ruler of Mithila, once questioned the
+    high-souled Parasara, who had certain knowledge of all duties.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 55570-55574
+  quote_or_summary: Janaka asks what produces good, what the best path is for living
+    creatures, what accomplishment is never destroyed, and what spot one may reach
+    without returning.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The figure and speech extraction is direct. Motif labels are limited by the
+    short passage and the absence of Parasara's response.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l55565-l55574
+  passage_sha256=461503767ab7fb835137610b28d775cd8c1ca0612811644a9a2d06ad4d620e17
+

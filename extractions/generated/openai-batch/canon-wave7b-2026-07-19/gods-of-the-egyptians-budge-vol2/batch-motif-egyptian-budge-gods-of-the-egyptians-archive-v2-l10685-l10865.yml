@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l10685-l10865
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: NAMES   OF   OSIRIS / I         I         I / NAMES   OF   OSIRIS / Q  III;
+    lines 10685-10865
+  start: '10685'
+  end: '10865'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A table or list headed “Names of Osiris” enumerates entries 137-158. It
+    gives Egyptological transliterations for divine groups, places, and epithets associated
+    with Osiris/Asar, including Tuat, Amentet, Abtu, Rest/Meht pairings, Horus/Heru,
+    Anubis/Anpu, and gods of Neter-khert/Tuat.
+  language: English edition with Egyptological transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a numbered list under the heading “Names of Osiris,” covering
+    entries 137-158.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The list includes divine groups named with Tuat, Qerti, Abtu, and Neter-khert/Tuat.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:3
+  text: Osiris/Asar is repeatedly named, including the title-form “Asar Khent Amentet”
+    and multiple formulae beginning “Asar Em ...”.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: The entries include paired Rest/Meht language, including “Aturti Rest Meht”
+    and Osiris formulae with “ta rest” and “ta meht.”
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Later entries name Horus/Heru-netch-tef-f and Anubis/Anpu in formulaic title
+    lines.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Osiris / Asar
+  description: Central deity of the list, named repeatedly in formulae such as “Asar
+    Khent Amentet” and “Asar Em ...”.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Horus / Heru-netch-tef-f
+  description: Named near the end of the list as “Heru-netch-tef-f em ren-f neb.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Anubis / Anpu
+  description: Named near the end of the list in entries beginning “Anpu ...,” including
+    “Anpu am Uhet.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: 'Divine groups: Neteru and Neterit'
+  description: Groups of gods and goddesses named with Tuat, Qerti, Abtu, and Neter-khert/Tuat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: principal named deity in the Osiris catalogue
+  assigned_to:
+  - fig:1
+  basis: The passage is headed “Names of Osiris” and repeatedly lists formulae beginning
+    with Osiris/Asar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: deity named in closing formulae
+  assigned_to:
+  - fig:2
+  basis: Horus/Heru-netch-tef-f appears among the final numbered entries.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: Anubis figure named in closing formulae
+  assigned_to:
+  - fig:3
+  basis: Anubis/Anpu appears in successive final entries, including a line with Uhet.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: divine collectives associated with named realms or places
+  assigned_to:
+  - fig:4
+  basis: The list includes gods/goddesses named with Tuat, Qerti, Abtu, and Neter-khert/Tuat.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: Tuat
+  literal_form: Tuat
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Amentet
+  literal_form: Amentet in “Asar Khent Amentet”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Abtu
+  literal_form: Abtu in “Neteru neterit amu Abtu”
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Rest/Meht pair
+  literal_form: Rest and Meht in “Aturti Rest Meht,” “ta rest,” and “ta meht”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: Osiris's repeated seats or places
+  literal_form: Formulae using “ast-f” and “ahat-f” with Osiris/Asar
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Numbered catalogue of Osiris names and associated deities
+  summary: Entries 137-158 present a non-narrative catalogue of divine names, epithets,
+    places, and formulae centered on Osiris/Asar and including divine groups, Horus/Heru,
+    and Anubis/Anpu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Catalogue of divine names of Osiris
+  taxonomy_refs: []
+  basis: The passage is explicitly headed “Names of Osiris” and consists of numbered
+    formulaic entries centered on Osiris/Asar.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a textual catalogue, not a narrative episode.
+- id: motif:2
+  label: Osiris linked with underworld or western afterlife geography
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The list connects Osiris/Asar and divine groups with Tuat, Neter-khert/Tuat,
+    and Amentet.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: low
+  cautions: The passage gives names and places but does not describe an actual journey
+    or map sequence.
+- id: motif:3
+  label: Paired Rest/Meht structure
+  taxonomy_refs:
+  - duality
+  basis: The passage includes paired Rest/Meht terms and adjacent Osiris formulae
+    with “ta rest” and “ta meht.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage provides transliterated terms without explanatory translation
+    in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10685-10865; heading and numbered list context
+  quote_or_summary: "“NAMES OF OSIRIS” with entries numbered 137-158."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 10685-10865; entries 137-144
+  quote_or_summary: Entries include divine groups and places/realms such as “Neteru
+    semu Tuat,” “Neteru Qerti,” “Neteru neterit amu Abtu,” “Aturti Rest Meht,” and
+    “Asar Khent Amentet.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized with short transliterated terms.
+- id: ev:3
+  type: quote
+  locator: lines 10685-10865; entries 145-148
+  quote_or_summary: "“Asar Em ast-f em ta rest” and “Asar Em ahat-f em ta meht.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 10685-10865; entries 149-154
+  quote_or_summary: Successive entries repeat Osiris/Asar formulae with “seh-f,” “qema-f,”
+    “ren-f,” “ker-f,” “khau-f,” “khakeru-f,” and “ahat-f,” each followed by “nebu/neb.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized with short transliterated terms.
+- id: ev:5
+  type: summary
+  locator: lines 10685-10865; entries 155-158
+  quote_or_summary: Final entries name “Heru-netch-tef-f,” “Anpu khent neter seh,”
+    “Anpu am Uhet,” and gods of “Neter-khert” who are in “Tuat.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized with short transliterated terms.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a formatted/OCR table of transliterations with little explanatory
+    translation. Literal names and formulae are clear enough for cautious extraction,
+    but semantic interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare these entries to another text, tradition, or motif family beyond the available taxonomy candidates.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l10685-l10865
+  passage_sha256=e691bfbb186f2c4b0168a0d8ebbff4814815387d5d2b6cd8f18505cabde797c4
+

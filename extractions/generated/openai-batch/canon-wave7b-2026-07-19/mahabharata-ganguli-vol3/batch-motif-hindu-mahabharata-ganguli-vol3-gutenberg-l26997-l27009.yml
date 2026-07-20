@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l26997-l27009
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION XXVII / SECTION XXVIII / SECTION XXIX / SECTION XXX; lines 26997-27009
+  start: '26997'
+  end: '27009'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Narada promises to give back Suvarnashthivin, a son associated with Srinjaya,
+    saying the child had been given by Parvata, had been bereft of life, had the splendour
+    of gold, and would have a thousand years. Yudhishthira then asks how the child
+    became Suvarnashthivin, why Parvata gave him to Srinjaya, why he died in infancy
+    despite the stated thousand-year human lifespan of that age, and whether the name
+    was only nominal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Narada says he will give back the son named Suvarnashthivin.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Narada says Parvata had given the child and that the child had been bereft
+    of life.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Narada describes the child as having the splendour of gold and says the child
+    shall have a thousand years.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Yudhishthira asks how the son of Srinjaya became Suvarnashthivin and why Parvata
+    gave Srinjaya that child.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Yudhishthira asks why Srinjaya's son died in infancy when the lives of all
+    men in those days extended for a thousand years.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Narada
+  description: Speaker who says he will give back Suvarnashthivin, the lifeless son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Suvarnashthivin
+  description: Named son or child who had been bereft of life, is described as having
+    the splendour of gold, and is said to be destined for a thousand years.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Parvata
+  description: Figure said to have given the child to Srinjaya.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Yudhishthira
+  description: Speaker who asks about the child's name, origin, gift by Parvata, death,
+    and infancy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Srinjaya
+  description: Person identified as the father or recipient of the child Suvarnashthivin.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: promiser of restoration
+  assigned_to:
+  - fig:1
+  basis: Narada says he will give back the son who had been bereft of life.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lifeless or restored child
+  assigned_to:
+  - fig:2
+  basis: Suvarnashthivin is the named child described as bereft of life and promised
+    to be given back.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: giver of the child
+  assigned_to:
+  - fig:3
+  basis: Parvata is said to have given the child to Srinjaya.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: questioner
+  assigned_to:
+  - fig:4
+  basis: Yudhishthira asks a sequence of questions about the child.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: father or recipient of the child
+  assigned_to:
+  - fig:5
+  basis: The child is called the son of Srinjaya, and Yudhishthira asks why Parvata
+    gave Srinjaya that child.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: golden splendour
+  literal_form: the splendour of gold
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: thousand-year lifespan
+  literal_form: a thousand years; lives of all men in those days extended for a thousand
+    years
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Narada promises to give back the dead child
+  summary: Narada says he will give back Suvarnashthivin, a child who had been bereft
+    of life and who had been given by Parvata; he attributes golden splendour and
+    a thousand years to the child.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Yudhishthira questions the child's origin and death
+  summary: Yudhishthira asks how Suvarnashthivin received his name, why Parvata gave
+    the child to Srinjaya, why the child died, and why death occurred in infancy despite
+    the long human lifespan of that age.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: restoration of a lifeless child
+  taxonomy_refs:
+  - resurrection
+  basis: The passage states that Suvarnashthivin had been bereft of life and that
+    Narada would give him back.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt contains a promise of restoration, not the narrated completion
+    of the restoration.
+- id: motif:2
+  label: extraordinary child with golden splendour
+  taxonomy_refs:
+  - miraculous_child
+  basis: The child is described with golden splendour and linked to an unusual account
+    of being given by Parvata and promised a thousand years.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage does not narrate the child's birth or explain the cause of
+    the golden attribute; the miraculous-child classification is provisional.
+- id: motif:3
+  label: untimely infant death despite expected long life
+  taxonomy_refs: []
+  basis: Yudhishthira asks why Srinjaya's son died in infancy when human lives in
+    those days extended for a thousand years.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is framed as Yudhishthira's question rather than a full narrative
+    explanation.
+comparison_claims:
+- id: claim:1
+  claim: The promise to give back a child who had been bereft of life can be cautiously
+    compared to a restoration-from-death or resurrection motif family.
+  claim_level: same_motif
+  target: resurrection
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the promise and premise are present in this excerpt; the passage
+    does not narrate the actual return to life.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 26997-27000
+  quote_or_summary: Narada says he will give back the son named Suvarnashthivin, whom
+    Parvata gave and who had been bereft of life; he describes the child as golden
+    in splendour and says the child shall have a thousand years.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; evidence summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 27003-27009
+  quote_or_summary: Yudhishthira asks how the son of Srinjaya became Suvarnashthivin,
+    why Parvata gave Srinjaya the child, why the child died, and why he died in infancy
+    despite the thousand-year lives of men in those days.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; evidence summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is high confidence because the passage is short and explicit.
+    Motif classification is provisional because the excerpt presents a promise and
+    questions rather than the complete explanatory narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l26997-l27009
+  passage_sha256=cabfd56af61502ab256eede31067061f4906869cb8f4c5b0dfd4f6228e87e2ae
+

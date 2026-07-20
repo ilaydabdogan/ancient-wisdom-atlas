@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l927-l1062
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: INTRODUCTION. / CHAPTER I. / CH. 1. INTRODUCTION. 3 / CH. I, INTRODUCTION.
+    5; lines 927-1062
+  start: '927'
+  end: '1062'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reviews Appendix testimony and Legge's historical argument
+    about the antiquity and authorship of the Yi. It says the Yi was known as a divination
+    text before Confucius, places its flourishing in middle antiquity and the late
+    Yin/Kau troubles, connects part of its making with king Wan's imprisonment and
+    release, attributes a larger portion to his son Tan, the duke of Kau, and argues
+    that the received Yi was complete by the late twelfth century B.C. It also notes
+    that the text is older than the Appendixes but not the oldest Chinese classic.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Yi is described as a text used for divination and as already well known
+    among the feudal states before Confucius.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Appendix passage is cited as saying that the Yi began to flourish in middle
+    antiquity and that its maker or makers were familiar with anxiety and calamity.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Another Appendix passage is cited as locating the flourishing of the Yi during
+    the last age of Yin, when Kau virtue was high and troubles occurred between king
+    Wan and the tyrant Kau.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The explanations in the book are said to express anxious apprehension and
+    to teach that peril may be turned into security while careless ease leads to overthrow.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: King Wan is described as the founder of Kau who never occupied the throne.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The tyrant imprisoned king Wan at Yu-li in 1143 B.C.; Wan's friends appeased
+    the tyrant's jealousy and secured Wan's liberation in the following year.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage concludes that the part of the Yi owed to king Wan was made in
+    1143 or 1142 B.C., or begun in the former year and finished in the latter.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A larger share of the Yi is attributed to Wan's son Tan, the duke of Kau,
+    and the received Yi is said to have been complete a few years before 1105 B.C.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note reports the tradition that while confined in Yu-li, Wan increased the
+    eight trigrams to sixty-four hexagrams.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Legge argues that the Yi is ancient but not the oldest Chinese classic, assigning
+    older status to the Shu and to several pieces of the Shih.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The passage states that the Text is much older than the Appendixes.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: King Wan / Wăn
+  description: Founder of Kau, never enthroned; involved in troubles with the last
+    sovereign of Yin; imprisoned at Yu-li; credited with a small portion of the Yi.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Tyrant Kau / last sovereign of Yin
+  description: Wan's enemy in the late Yin troubles; he threw Wan into prison and
+    later released him after Wan's friends appeased his jealousy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Tan, duke of Kau
+  description: Son of king Wan; credited with a larger share of the Yi; died in 1105
+    B.C.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Friends of king Wan
+  description: Unnamed friends who appeased Wan's enemy and secured Wan's liberation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Confucius
+  description: 'Used as a chronological marker: the Yi was known before he appeared,
+    and the Appendixes are later discussed under the assumption of Confucian authorship.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:8
+roles:
+- id: role:1
+  label: attributed maker or contributor to the Yi
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage attributes the portion owed to king Wan to 1143 or 1142 B.C.
+    and says a larger share is attributed to his son Tan, the duke of Kau.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: imprisoned dynastic founder
+  assigned_to:
+  - fig:1
+  basis: Wan is called the founder of Kau and is said to have been thrown into prison
+    at Yu-li by the tyrant.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: imprisoning adversary
+  assigned_to:
+  - fig:2
+  basis: The last sovereign of Yin, called the tyrant, is described as Wan's enemy
+    and as the one who imprisoned him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: liberating friends
+  assigned_to:
+  - fig:4
+  basis: Wan's friends are said to have appeased his enemy's jealousy and secured
+    his liberation.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: chronological and appendix-related reference figure
+  assigned_to:
+  - fig:5
+  basis: The Yi is said to have been known before Confucius, and the Appendixes are
+    later mentioned under the supposition of Confucian authorship.
+  evidence_refs:
+  - ev:1
+  - ev:8
+symbols:
+- id: sym:1
+  label: Yi / Yi King as divination text
+  literal_form: A divination book or classic whose explanations teach responses to
+    peril and security.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Yu-li prison
+  literal_form: Place of confinement identified in Ho-nan where king Wan was imprisoned.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: Eight trigrams and sixty-four hexagrams
+  literal_form: Divinatory configurations, stated in a note as expanded by Wan from
+    eight trigrams to sixty-four hexagrams while confined.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Appendix testimony on the Yi's anxious origin
+  summary: The passage cites the Appendix as placing the flourishing of the Yi in
+    middle antiquity and connecting its making with anxiety and calamity.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Late Yin troubles and teaching on peril
+  summary: The Appendix is cited as placing the Yi's flourishing during the troubles
+    between king Wan and the tyrant Kau, and as describing the book's explanations
+    as teachings on anxious apprehension, peril, security, carelessness, and overthrow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Wan's imprisonment and release at Yu-li
+  summary: The tyrant imprisons Wan at Yu-li; Wan's friends secure his release the
+    next year, and Legge dates Wan's portion of the Yi to this period.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Completion of the received Yi by the duke of Kau
+  summary: The passage attributes a larger share of the Yi to Tan, the duke of Kau,
+    and states that the received text was complete in the last decade of the twelfth
+    century B.C.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Scholarly ranking of the Yi's antiquity
+  summary: Legge presents the Yi as very ancient, but not the oldest Chinese classic,
+    and distinguishes the older Text from the later Appendixes.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divinatory wisdom for navigating danger
+  taxonomy_refs:
+  - wisdom
+  basis: The Yi is described as a divination text whose explanations teach how peril
+    may be turned into security and warn that careless ease leads to overthrow.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is an introduction and historical argument, not a mythic narrative
+    episode.
+- id: motif:2
+  label: Composition or flourishing of sacred knowledge amid anxiety and calamity
+  taxonomy_refs:
+  - wisdom
+  basis: Appendix testimony links the Yi's flourishing and making to makers familiar
+    with anxiety and calamity, and to the troubles between Wan and the tyrant Kau.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage reports textual-historical claims rather than narrating a
+    revelation scene.
+- id: motif:3
+  label: Dynastic transition associated with authoritative text-making
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Yi's flourishing is placed in the last age of Yin when Kau virtue was
+    highest; its authorship is linked to king Wan, founder of Kau, and to his son
+    the duke of Kau after the Yin-Kau transition.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text does not explicitly state that the Yi legitimates royal rule;
+    the motif is inferred only from the dynastic setting and attributed royal authorship.
+- id: motif:4
+  label: Imprisoned ruler expands divinatory system
+  taxonomy_refs:
+  - wisdom
+  basis: A note reports that while confined at Yu-li, Wan increased the eight trigrams
+    to sixty-four hexagrams.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a brief note rather than a developed narrative, and the passage
+    does not elaborate symbolic meaning for the trigrams or hexagrams.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 927-933
+  quote_or_summary: The passage says there are accounts of divination by the Yi and
+    that, for centuries before Confucius, the Yi was known among the feudal states
+    of the Middle Kingdom.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 934-948
+  quote_or_summary: Appendix testimony asks whether the Yi began to flourish in the
+    middle period of antiquity and whether its maker or makers were familiar with
+    anxiety and calamity.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: lines 950-961
+  quote_or_summary: The 69th paragraph places the Yi's flourishing in the last age
+    of Yin, during the troubles between king Wan and the tyrant Kau, and says the
+    explanations express anxious apprehension and teach how peril can become security
+    while careless ease meets overthrow.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 962-982
+  quote_or_summary: The passage says Yin was superseded by Kau in 1122 B.C.; king
+    Wan, founder of Kau, was imprisoned by the tyrant at Yu-li in 1143 B.C.; Wan's
+    friends secured his liberation the next year; and Wan's portion of the Yi is dated
+    to 1143 or 1142 B.C.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 983-994
+  quote_or_summary: A larger share of the Yi is attributed to Wan's son Tan, the duke
+    of Kau; because the duke died in 1105 B.C., the received Yi is said to have been
+    complete a few years earlier, in the last decade of the twelfth century B.C.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1016-1018
+  quote_or_summary: A note states that, while confined in Yu-li, Wan increased the
+    eight trigrams to sixty-four hexagrams.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:7
+  type: summary
+  locator: lines 995-1054
+  quote_or_summary: 'Legge says the Yi is very ancient but not the oldest Chinese
+    classic: the Shu is older, several Shih pieces are older than anything in the
+    Yi, and the Yi therefore ranks third in age among Chinese literary monuments.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1055-1062
+  quote_or_summary: The passage introduces the point that the Text is much older than
+    the Appendixes, even if the Appendixes were assumed to be the work of Confucius.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The historical and textual claims are explicit, but motif identification
+    is limited because the passage is an introduction rather than a narrative myth.
+    No passage-supported comparative motif claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Names are retained in the spelling forms visible in the supplied passage, including OCR/transliteration variants such as Kau and Wa4n.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l927-l1062
+  passage_sha256=0f460653b6a4aefc77bbc4293dfb410bad8809167d8cc6c8d0edca7b8e8fdc3d
+

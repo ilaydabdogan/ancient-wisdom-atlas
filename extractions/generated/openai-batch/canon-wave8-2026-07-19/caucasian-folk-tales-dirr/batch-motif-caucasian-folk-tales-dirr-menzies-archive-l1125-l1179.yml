@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.caucasian-folk-tales-dirr-menzies-archive-l1125-l1179
+source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+passage_locator:
+  label: CINDER-STICK 7 / CINDER-STICK 9 / IO FAIRY TALES / THE PARASITE II; lines
+    1125-1179
+  start: '1125'
+  end: '1179'
+  translation: Caucasian Folk-Tales
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In the tale section titled “THE PARASITE II,” the Parasite travels toward
+    God. Along the way, an unnamed speaker, an oak tree, and a fish ask him to put
+    questions to God about their conditions. At the mountain top, a stag offers its
+    antlers as a ladder so the Parasite can go higher. The Parasite climbs, hears
+    a voice from above, addresses it as merciful God, and asks for mercy because he
+    has nothing to live on.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Parasite says he is going to God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An unnamed speaker says it has eaten every living creature without becoming
+    fatter and asks the Parasite to ask what it should eat.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Parasite agrees to the unnamed speaker’s request and continues on his
+    way.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: An oak tree asks where the Parasite is going and asks him to inquire why one
+    side of it has withered.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A fish calls from the water and asks the Parasite to ask why it is blind in
+    its left eye.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Parasite reaches the ridge or top of a mountain and meets a stag.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The stag offers its antlers as a ladder if the Parasite wants to go still
+    higher.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Parasite mounts the stag, climbs on its horns, and hears a voice from
+    above.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The voice calls the Parasite “Mortal”; the Parasite addresses the voice as
+    merciful God and says he has nothing to live on.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the Parasite
+  description: A travelling figure who says he is going to God, agrees to carry questions,
+    climbs by means of the stag’s horns, and asks God for mercy.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: unnamed hungry speaker
+  description: An unnamed speaker who says it has already eaten every living creature
+    without becoming fatter and wants to know what it should eat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: oak tree
+  description: A speaking oak tree with one side withered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: fish
+  description: A fish calling from the water, blind in its left eye.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: stag
+  description: A good-natured beast at the top of the mountain who offers its antlers
+    as a ladder.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: God / voice from above
+  description: A voice from above, addressed by the Parasite as merciful God, which
+    asks what the Parasite desires.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: journeying petitioner
+  assigned_to:
+  - fig:1
+  basis: The Parasite travels to God and asks for mercy because he has nothing to
+    live on.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: delegated question-bearer
+  assigned_to:
+  - fig:1
+  basis: Other figures ask the Parasite to put their questions to God, and he agrees
+    to do so.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: afflicted petitioners
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: These figures ask the Parasite to inquire about hunger without fattening,
+    withering, or blindness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: ascent helper
+  assigned_to:
+  - fig:5
+  basis: The stag offers its antlers as a ladder so the Parasite may go higher.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: divine addressee
+  assigned_to:
+  - fig:6
+  basis: The voice comes from above, is addressed as God, and receives the Parasite’s
+    request.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: withered oak
+  literal_form: oak tree with one side withered
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: river water
+  literal_form: river / water from which the fish calls
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mountain height
+  literal_form: ridge or top of the mountain
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: antler ladder
+  literal_form: stag’s antlers or horns used as a ladder
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: requests on the way to God
+  summary: As the Parasite travels toward God, an unnamed speaker, an oak tree, and
+    a fish ask him to carry questions about their conditions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: stag’s aid at the mountain top
+  summary: At the ridge or top of the mountain, the Parasite meets a stag, and the
+    stag offers its antlers as a ladder for going higher.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: voice from above
+  summary: The Parasite climbs the stag’s horns, hears a voice from above, addresses
+    it as God, and asks for mercy because he has nothing to live on.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: journey to God with questions from afflicted beings
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Parasite repeatedly says he is going to God, accepts questions from other
+    beings, and ultimately addresses God with his own request.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage excerpt contains the journey and questions but not the divine
+    answers.
+- id: motif:2
+  label: ascent toward the divine by animal-provided ladder
+  taxonomy_refs:
+  - ascent
+  basis: The Parasite reaches the mountain top, is offered the stag’s antlers as a
+    ladder, climbs the horns, and then hears a voice from above.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage shows upward movement and divine address, but not a complete
+    ascent-and-return sequence.
+- id: motif:3
+  label: afflicted beings seeking explanation through an intermediary
+  taxonomy_refs:
+  - wisdom
+  basis: The unnamed hungry speaker, the withered oak, and the one-eyed blind fish
+    each ask the Parasite to seek an explanation from God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The wisdom or explanation is requested but not delivered within this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'The mountain-top climb by means of the stag’s antlers performs the same
+    broad function as an ascent motif: upward movement from the ordinary route toward
+    a voice from above addressed as God.'
+  claim_level: same_function
+  target: ascent motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional motif comparison only; the passage does not support
+    claims of historical contact or common inheritance.
+- id: claim:2
+  claim: The Parasite’s trip to ask God questions for himself and others functions
+    as a quest for divine aid or knowledge.
+  claim_level: same_function
+  target: mystical_quest motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt ends before any answer from God, so the comparison is limited
+    to the journey and petition structure.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1127-1134
+  quote_or_summary: The Parasite says he is going to God; an unnamed speaker asks
+    him to ask what it should eat, saying it has eaten every living creature without
+    getting fatter; the Parasite agrees and goes on.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 1136-1146
+  quote_or_summary: The Parasite comes to an oak tree; the oak asks where he is going
+    and asks him to ask why one side of it has withered; the Parasite says he will
+    do so.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 1148-1156
+  quote_or_summary: A fish calls from the water, asks where the Parasite is going,
+    and asks him to ask why it is blind in its left eye; the Parasite agrees.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 1156-1165
+  quote_or_summary: At the ridge or top of the mountain, the Parasite meets a stag,
+    says he must speak with God, and the stag offers its antlers as a ladder so he
+    may go higher.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 1167-1178
+  quote_or_summary: The Parasite mounts the stag and climbs its horns; a voice from
+    above asks where he is going, he answers “To Thee, merciful God,” and says, “Lord,
+    I have nothing to live on. Be merciful to me.”
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain; short quotation and summary from provided public-domain
+    passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence and figures are clear in the supplied excerpt. Motif
+    assignments are cautious because the excerpt ends before God’s answer or any return
+    sequence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The opening conversation appears to begin before the provided excerpt, so the first non-Parasite speaker is labeled only as an unnamed hungry speaker.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:caucasian-folk-tales-dirr-menzies-archive__l1125-l1179
+  passage_sha256=288b4208fd8c071beca3e88013f5cc0b71aef11e6df7e2766526787770bf90e6
+

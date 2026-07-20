@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l16190-l16304
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: GOVERNMENT,    ETC.  311 / GOVERNMENT,    ETC.  313 / GOVERNMENT,    ETC.  315
+    / GOVERNMENT,    ETC.  317; lines 16190-16304
+  start: '16190'
+  end: '16304'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents the author's account of Ekoi origins, migration, writing,
+    settlement, population, and physical characteristics. It argues that the Ekoi
+    are mainly of Bantu stock, probably came from the northeast or lower Nile valley,
+    preserve strong ancestor worship, have Nsibidi writing compared by the author
+    to early Egyptian hieroglyphics, and settled south of the Cross River, with salt
+    springs near sacred Lake Ijagham possibly influencing settlement.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Ekoi are mainly of Bantu stock, based on language
+    and skull shape, while also mentioning Himyaritic types.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the Ekoi probably split early from a parent Bantu stem and
+    seem to have come from the lower end of the Nile valley.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Nsibidi writing has points that recall early Egyptian hieroglyphics,
+    and that buildings in this script are usually represented as circular.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says strong ancestor worship is used as evidence that the Ekoi
+    descend from people once living in large communities under powerful rulers.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says former Ekoi town sites are generally north of present ones
+    and that the lion figures largely in early Ekoi folklore.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage describes salt springs around sacred Lake Ijagham and elsewhere
+    in Ekoi land as a possible factor in the choice of settlement.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says most Ekoi are settled south of the Cross River, with related
+    groups across the Cameroon border and eastward.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage says inhabitants of Big Kwa town near Calabar claim to be the
+    first Ekoi to have come down from the north.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ekoi
+  description: The people whose origin, migration, settlement, writing, ancestor worship,
+    and population are described in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Ancestors of the Ekoi
+  description: A prior people described as living in large communities under powerful
+    rulers, inferred by the author from the strength of ancestor worship.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Great Nki / lion
+  description: An animal said to figure largely in early Ekoi folklore and associated
+    by the author with grass country north of the Cross River.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Inhabitants of Big Kwa town
+  description: A group near Calabar who claim to be the first Ekoi to have come down
+    from the north.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: migrating people
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes the Ekoi as having come down from the north
+    or northeast and settled south of the Cross River.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:2
+  label: bearers of Nsibidi writing
+  assigned_to:
+  - fig:1
+  basis: Nsibidi writing is discussed in connection with the Ekoi and their possible
+    origins.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ancestral polity
+  assigned_to:
+  - fig:2
+  basis: The passage infers descent from a people living in large communities under
+    powerful rulers.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: folkloric animal marker
+  assigned_to:
+  - fig:3
+  basis: The lion is said to figure largely in early Ekoi folklore and is used by
+    the author as evidence for northern connections.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: claimants of first migration
+  assigned_to:
+  - fig:4
+  basis: The inhabitants of Big Kwa town are said to claim they were the first Ekoi
+    to come down from the north.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Nsibidi writing
+  literal_form: Writing system whose signs are said to include circular representations
+    of buildings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: circular buildings in script
+  literal_form: Buildings represented as circular forms in Nsibidi signs.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sacred lake and salt springs
+  literal_form: Sacred Lake Ijagham and salt springs around it and elsewhere in Ekoi
+    land.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: lion in early folklore
+  literal_form: The great Nki, glossed as lion, said to figure largely in early Ekoi
+    folklore.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Cross River boundary
+  literal_form: Cross River, with Ekoi settlement described mainly south of it and
+    lion habitat to the north.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Account of northeastern origin
+  summary: The passage presents an origin account in which the Ekoi are said to have
+    split from an early Bantu parent stem and come from the lower Nile valley or northeast.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Writing compared with Egyptian signs
+  summary: The passage links Nsibidi writing with early Egyptian hieroglyphics by
+    stating that some features recall them, and notes circular building forms in the
+    script.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ancestral polity inferred from worship
+  summary: The passage says strong ancestor worship indicates descent from people
+    organized in large communities under powerful rulers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Northern migration indicators
+  summary: The passage lists former town sites north of present settlements and the
+    importance of the lion in early folklore as evidence for a northern or northeastern
+    origin.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Settlement near sacred water and salt
+  summary: The passage says salt springs around sacred Lake Ijagham and elsewhere
+    in Ekoi land may have influenced final settlement choices.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Big Kwa first-arrival claim
+  summary: The inhabitants of Big Kwa town near Calabar claim to have been the first
+    Ekoi to come down from the north, before Efik arrival in the area.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: origin migration from the north or northeast
+  taxonomy_refs: []
+  basis: The passage repeatedly describes Ekoi origins as a movement from the lower
+    Nile valley, the northeast, or the north into later settlements south of the Cross
+    River.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is an ethnographic origin claim in the passage, not a narrated myth
+    episode.
+- id: motif:2
+  label: ancestral polity remembered through ancestor worship
+  taxonomy_refs: []
+  basis: The passage treats strong ancestor worship as evidence of descent from people
+    living in large communities under powerful rulers.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives an interpretive inference by the author rather than
+    a direct Ekoi narrative.
+- id: motif:3
+  label: animal in folklore as homeland marker
+  taxonomy_refs: []
+  basis: The lion is said to figure largely in early Ekoi folklore and is used to
+    support a northern-origin argument because lions are associated with grass country
+    to the north.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not recount a specific lion tale, only notes the animal's
+    prominence in early folklore.
+- id: motif:4
+  label: sacred water and salt influencing settlement
+  taxonomy_refs: []
+  basis: Salt springs around sacred Lake Ijagham and elsewhere are described as a
+    possible determining factor in final settlement choice.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage frames this as a practical settlement factor; symbolic or
+    ritual meanings beyond the lake being sacred are not described.
+comparison_claims:
+- id: claim:1
+  claim: The passage makes a cautious visual or formal comparison between Nsibidi
+    writing and early Egyptian hieroglyphics.
+  claim_level: visual_similarity
+  target: early Egyptian hieroglyphics
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states resemblance but provides no detailed sign-by-sign
+    comparison in this excerpt.
+- id: claim:2
+  claim: The passage links Ekoi origin traditions or historical claims with a northward
+    or northeastern source region, including the lower Nile valley.
+  claim_level: same_function
+  target: northern-origin migration pattern
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on the author's synthesis and reported local claim;
+    the excerpt does not provide an independent oral narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16190-16198
+  quote_or_summary: The author says the Ekoi are mainly of Bantu stock, based on language
+    and skull shape, while also noting Himyaritic types.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 16199-16206
+  quote_or_summary: The author says the original Bantu stock arose from Hamitic and
+    negro blood, and that the Ekoi probably split early from the parent stem and came
+    from the lower Nile valley.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 16206-16214
+  quote_or_summary: The passage says many points in Nsibidi writing recall early Egyptian
+    hieroglyphics, and that buildings in the script are generally represented as circular.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 16215-16222
+  quote_or_summary: The passage says strong ancestor worship shows descent from people
+    living in large communities under powerful rulers.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 16222-16235
+  quote_or_summary: 'The passage adds evidence for a northern or northeastern origin:
+    former town sites are generally north of present ones, and the great Nki, or lion,
+    figures largely in early folklore; the lion is associated with grass country north
+    of the Cross River.'
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 16236-16247
+  quote_or_summary: The passage describes salt springs around sacred Lake Ijagham
+    and elsewhere in Ekoi land as a possible determining factor in final settlement
+    choice because of the need for salt.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 16248-16267
+  quote_or_summary: The passage says that, except for a few towns near Obokum, Ekoi
+    are now settled south of the Cross River, with related or kindred groups across
+    the Cameroon border and to the east.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 16268-16280
+  quote_or_summary: The passage says inhabitants of Big Kwa town near Calabar claim
+    to be the first Ekoi to have come down from the north and that they were there
+    before the Efiks arrived.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is ethnographic and argumentative rather than a myth narrative.
+    Motif candidates are therefore framed as origin, settlement, and symbolic-pattern
+    observations, not as fully developed narrative motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Colonial-era racial terminology and physical anthropology claims are summarized only as passage content and should not be treated as verified claims.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l16190-l16304
+  passage_sha256=4207b50f5d1d61ca7b5c581dcf68e99abf47c8673894dcec8b9de67e77685488
+

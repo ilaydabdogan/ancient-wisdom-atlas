@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l26207-l26216
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION XXI / SECTION XXII / SECTION XXIII / SECTION XXIV; lines 26207-26216
+  start: '26207'
+  end: '26216'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Having won heaven and acquired the regions reserved for heroes
+  summary: The passage praises the high-souled Hayagriva as a king who upheld social
+    duties, won battles, cared for subjects, performed Soma sacrifices, gave gifts
+    to Brahmanas, punished judiciously, died in battle, and now lives happily in heaven
+    among the regions reserved for heroes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Hayagriva caused the four orders to adhere to their respective duties.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hayagriva is described as sporting joyfully in the regions of the gods.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king won many battles and cherished his subjects.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king drank Soma juice in sacrifices and gratified foremost Brahmanas with
+    presents.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The king judiciously wielded the rod of chastisement over those under his
+    sway.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The king cast off his life in battle and is said to live happily in heaven.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Learned and honest men applaud the king's life as worthy of praise.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The monarch is said to have won heaven and acquired the regions reserved for
+    heroes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hayagriva
+  description: A high-souled king and monarch of virtuous deeds who upheld duties,
+    won battles, performed sacrifices, died in battle, and lives in heaven.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: righteous ruler
+  assigned_to:
+  - fig:1
+  basis: He caused the four orders to adhere to their duties, cherished his subjects,
+    and judiciously chastised those under his sway.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: battle-winning warrior king
+  assigned_to:
+  - fig:1
+  basis: He won many battles and cast off his life in battle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: sacrificial patron
+  assigned_to:
+  - fig:1
+  basis: He drank Soma juice in sacrifices and gave presents to foremost Brahmanas.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: heroic dead in heaven
+  assigned_to:
+  - fig:1
+  basis: He lives happily in heaven and acquired regions reserved for heroes.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: four orders
+  literal_form: the four orders adhering to their respective duties
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Soma juice
+  literal_form: Soma juice drunk in sacrifices
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rod of chastisement
+  literal_form: the rod of chastisement wielded over those under the king's sway
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: heavenly heroic regions
+  literal_form: heaven, the regions of the gods, and the regions reserved for heroes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Righteous rule and sacrificial kingship
+  summary: Hayagriva upholds the duties of the four orders, wins battles, protects
+    subjects, drinks Soma in sacrifices, gives presents to Brahmanas, and administers
+    chastisement.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Battle death and heavenly reward
+  summary: After casting off his life in battle, the king lives happily in heaven
+    and is said to have acquired regions reserved for heroes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Praise of the monarch's life
+  summary: Learned and honest men applaud the king's life, and the passage says he
+    became crowned with success.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Righteous monarch rewarded with heaven
+  taxonomy_refs:
+  - royal_legitimacy
+  - afterlife_journey_map
+  basis: The king's righteous rule, social ordering, ritual patronage, battle valor,
+    and judicious punishment are followed by heavenly happiness and heroic regions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage states the heavenly reward but does not narrate a detailed
+    journey to the afterlife.
+- id: motif:2
+  label: Heroic death grants access to heroes' regions
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The king casts off his life in battle and is said to have won heaven and
+    acquired regions reserved for heroes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No intermediary afterlife judgment or travel sequence is described.
+- id: motif:3
+  label: Sacrifice and priestly gifts as royal merit
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The king drinks Soma in sacrifices and gratifies foremost Brahmanas with
+    presents as part of the praised life leading to success.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage lists sacrificial and gift-giving acts but does not explicitly
+    spell out a reciprocal exchange mechanism.
+- id: motif:4
+  label: Royal maintenance of social order
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Hayagriva causes the four orders to adhere to duties and wields chastisement
+    judiciously over those under his rule.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The legitimacy aspect is inferred from the passage's praise and heavenly
+    outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 26207-26208
+  quote_or_summary: '"caused all the four orders to adhere to their respective duties";
+    Hayagriva is joyful in the regions of the gods.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 26209-26212
+  quote_or_summary: The king won battles, cherished his subjects, drank Soma in sacrifices,
+    gave presents to foremost Brahmanas, and wielded chastisement judiciously.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 26212-26216
+  quote_or_summary: The king "cast off his life in battle" and, "Having won heaven,"
+    acquired "the regions reserved for heroes."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpts used for evidence.
+- id: ev:4
+  type: summary
+  locator: 26213-26214
+  quote_or_summary: The passage says the king's life was worthy of praise and was
+    applauded by learned and honest men.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied lines. Motif taxonomy
+    assignments are plausible but require human review, especially for broad categories
+    such as afterlife_journey_map and royal_legitimacy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No external comparisons were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l26207-l26216
+  passage_sha256=530cb5a3e7ff6497c23a7251150f28515c70e1b3ba54353b6f411e067ccacdf4
+

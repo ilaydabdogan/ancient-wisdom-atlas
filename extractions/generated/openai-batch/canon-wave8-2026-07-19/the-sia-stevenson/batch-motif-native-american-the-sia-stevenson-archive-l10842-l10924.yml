@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l10842-l10924
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: OUTDOOR LIFE. 203 / TURKEB.1 OUTDOOR LIFE. 205 / TATTOOING. / CLOTHING.;
+    lines 10842-10924
+  start: '10842'
+  end: '10924'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the construction, use, maintenance, and regional
+    variation of a waterproof gut garment for wet weather and kayak travel, followed
+    by a description of wooden snow goggles used to protect the eyes from snow glare.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Strips of intestine or gut are sewn edge to edge so that the exterior of the
+    intestine forms the outside of the garment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sinew from reindeer or seal is made into thread, and a needle smaller than
+    the thread is used so the thread fills the needle holes.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Additional strips are added until the width can surround the body; the outer
+    edges are joined to complete the body of the garment.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The hood is shaped like a nightcap attached to the body, and sleeves are sewn
+    separately and affixed to the garment.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The garment seams run vertically rather than spirally, unlike garments described
+    as made by Alaska natives for similar purposes.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:6
+  text: Thin strips of sealskin strengthen the edge of the hood, wrists, and bottom
+    of the garment.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The garment is worn in wet weather or while traveling in a kayak on a rough
+    sea.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The bottom of the garment is tied around the kayak hoop to shed water from
+    the body, except the face, and to prevent water from entering the kayak.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A drawstring may close the hood tightly around the face to keep spray from
+    entering.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: When not in use, the garment material must be oiled and rolled up; otherwise
+    it stiffens and must be softened by dipping in water.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The sinew used for sewing swells when wet and tightens the seams.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: The passage compares eastern and western Eskimo garments by length, and also
+    mentions Aleut garments as longer still.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: Snow goggles are worn to protect the eyes from snow glare by admitting light
+    only through a narrow slit.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:14
+  text: The snow goggles are made from a curved piece of wood fitted to the face,
+    with a notch for the nose.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:15
+  text: The front of the goggles is blackened with soot or gunpowder mixed with oil
+    to absorb light.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:16
+  text: The inside of the goggles is gouged out for eyelash movement, and sealskin
+    pieces or straps hold the goggles on the head.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: garment or snow-goggle wearer
+  description: An unnamed wearer who uses the waterproof garment in wet weather or
+    kayak travel and may wear snow goggles against snow glare.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: people of Hudson Strait / eastern Eskimo
+  description: A regional group whose waterproof garment is described as shorter and
+    only long enough to tie around the kayak hoop.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: western Eskimo / Alaska natives
+  description: Regional groups whose garments are compared with the Hudson Strait
+    garment, including Alaska garments made for similar purposes and longer garments
+    from Norton Sound, Alaska.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Aleuts
+  description: A group whose garments are described as so long that they interfere
+    with walking.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: water-travel garment wearer
+  assigned_to:
+  - fig:1
+  basis: The garment is worn in wet weather or in a kayak on a rough sea, with its
+    bottom tied around the kayak hoop.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: regional garment comparison group
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage compares garment seams, lengths, and materials among Hudson Strait
+    people, Alaska or western Eskimo groups, and Aleuts.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: snow-goggle wearer
+  assigned_to:
+  - fig:1
+  basis: Snow goggles are described as worn to protect the eyes from snow glare.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: waterproof gut garment
+  literal_form: Garment made of sewn intestine or gut strips, with hood, sleeves,
+    reinforced edges, and a bottom tied around the kayak hoop.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: kayak
+  literal_form: Kayak or kaiak with a hoop around which the garment bottom is tied.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water and spray
+  literal_form: Wet weather, rough sea, spray, and water that the garment sheds or
+    excludes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: snow goggles
+  literal_form: Wooden goggles with a narrow slit, blackened front, nose notch, interior
+    gouging, and sealskin fastenings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: snow glare
+  literal_form: Glare of snow and low early-spring sunlight against which the goggles
+    protect the eyes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: construction of waterproof gut garment
+  summary: The passage explains sewing gut strips edge to edge with sinew thread,
+    adding strips until the garment surrounds the body, and attaching a hood and sleeves.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: use of garment in wet kayak travel
+  summary: A wearer uses the garment in wet weather or rough-sea kayak travel, tying
+    its bottom around the kayak hoop to shed water and keep it out of the kayak.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: maintenance and tightening of garment
+  summary: The garment is oiled and rolled when not in use; if it stiffens it is softened
+    with water, and wet sinew tightens the seams.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: regional comparison of waterproof garments
+  summary: The passage compares the length, seam arrangement, and material quality
+    of garments used by Hudson Strait people, Alaska or western Eskimo groups, and
+    Aleuts.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: scene:5
+  label: construction and use of snow goggles
+  summary: The passage describes wooden snow goggles that restrict light through a
+    slit, darken the front surface to absorb glare, and are held on with sealskin
+    fastenings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: protective waterproof enclosure for boat travel
+  taxonomy_refs: []
+  basis: The garment is constructed to shed water from the body and prevent water
+    from entering the kayak during wet weather or rough-sea travel.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a material-culture pattern, not a mythological narrative motif;
+    no supplied motif-family taxonomy directly applies.
+- id: motif:2
+  label: narrow-slit protection against snow glare
+  taxonomy_refs: []
+  basis: Snow goggles restrict light to a narrow slit and use a darkened front surface
+    to reduce glare from snow and sunlight.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a practical artifact description, not a mythological symbol or
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Hudson Strait waterproof garments and Alaska garments
+    as serving a similar purpose while differing in seam arrangement.
+  claim_level: same_function
+  target: waterproof garments made by Alaska natives for similar purposes
+  evidence_refs:
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to function and construction; the passage
+    does not claim historical contact, common origin, or symbolic equivalence.
+- id: claim:2
+  claim: The passage compares waterproof garment variants among eastern Eskimo, western
+    Eskimo, and Aleut groups chiefly by length and material quality.
+  claim_level: same_function
+  target: regional waterproof garment variants among eastern Eskimo, western Eskimo,
+    and Aleuts
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is descriptive and regional only; it does not establish mythological
+    meaning or historical transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10842-10857
+  quote_or_summary: The passage describes gut or intestine strips sewn edge to edge,
+    with sinew thread from reindeer or seal and stitches used to join the strips.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata supplied; summary only.
+- id: ev:2
+  type: summary
+  locator: 10858-10869
+  quote_or_summary: The garment body is formed by adding strips; a hood and sleeves
+    are attached; seams are vertical, and sealskin strips reinforce vulnerable edges.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata supplied; summary only.
+- id: ev:3
+  type: summary
+  locator: 10870-10875
+  quote_or_summary: The garment is worn in wet weather or in a kayak on a rough sea,
+    and its bottom is tied around the kayak hoop to shed water and keep it from entering
+    the kayak.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata supplied; summary only.
+- id: ev:4
+  type: summary
+  locator: 10876-10886
+  quote_or_summary: A drawstring can close the hood around the face; when not in use,
+    the garment is oiled and rolled, and wet sinew swells to tighten seams.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata supplied; summary only.
+- id: ev:5
+  type: summary
+  locator: 10887-10900
+  quote_or_summary: The passage compares eastern and western Eskimo garments by length
+    and arrangement, noting a short Hudson Strait form, longer Alaska forms, and very
+    long Aleut forms, along with material differences.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata supplied; summary only.
+- id: ev:6
+  type: summary
+  locator: 10901-10915
+  quote_or_summary: Snow goggles protect eyes from snow glare by admitting light through
+    a narrow slit; they are shaped from wood to fit the face and include a nose notch,
+    blackened front, and ledge.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata supplied; summary only.
+- id: ev:7
+  type: summary
+  locator: 10916-10924
+  quote_or_summary: The inside of the goggles is gouged for eyelash movement, and
+    sealskin pieces or straps are attached to hold them on the head.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata supplied; summary only.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The material descriptions are clear enough for extraction, but the supplied
+    source path/title and locator metadata appear inconsistent with the passage content,
+    which names Hudson Bay Eskimo material culture. OCR corruption is also present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological narrative figures are present. Extracted motifs are practical material-culture patterns rather than mythic motif-family assignments.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l10842-l10924
+  passage_sha256=77a78f93ad8638c47e2f6ce051864460b0229ab421b75f98eea1c9313ab97575
+

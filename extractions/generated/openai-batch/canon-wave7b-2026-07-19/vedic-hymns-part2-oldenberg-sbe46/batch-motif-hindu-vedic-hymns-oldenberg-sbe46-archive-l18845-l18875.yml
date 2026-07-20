@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l18845-l18875
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'NOTES: / MANDALA V, HYMN 13. 395 / MANDALA V, HYMN 13. / ASHTAKA IV, ADHYAYA
+    1, VARGA 5.; lines 18845-18875'
+  start: '18845'
+  end: '18875'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Praising we call thee; praising let us kindle thee, Agni”"
+  summary: A hymn invokes and kindles Agni with praise, asks him to take pleasure
+    in prayers, identifies him as a ritual officiant among men, asks him to sacrifice
+    to the divine host, and requests wealth and abundance of heroes. Agni is also
+    described as heaven-touching, widely extended, and encompassing the gods like
+    the felly of a wheel encompasses its spokes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speakers call and kindle Agni with praise and ask for his help.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speakers say they devise an effective song of praise for Agni because
+    they desire riches.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Agni is described as a heaven-touching god.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Agni is asked to take pleasure in prayers and to sacrifice to the divine host.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Agni is identified as the Hotvṛ/ritual officiant among men in the passage
+    wording.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Through Agni, the sacrifice is said to be spread out.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Priests make Agni grow and ask him to bestow abundance of heroes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Agni is said to encompass the gods as the felly encompasses the spokes of
+    a wheel.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: The invoked and kindled god, described as heaven-touching, widely extended,
+    a ritual officiant among men, an acquirer of wealth, and one who encompasses the
+    gods.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Praising speakers / priests
+  description: The collective worshippers who call and kindle Agni, devise a song
+    of praise, and are also described as priests who make Agni grow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Divine host / gods
+  description: The group to whom Agni is asked to sacrifice and whom Agni is said
+    to encompass.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: Invoked divine helper
+  assigned_to:
+  - fig:1
+  basis: Agni is called and kindled with praise for help.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Sacrificing ritual officiant
+  assigned_to:
+  - fig:1
+  basis: Agni is called the Hotvṛ/ritual officiant among men and is asked to sacrifice
+    to the divine host.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Ritual praisers
+  assigned_to:
+  - fig:2
+  basis: The speakers praise, kindle, devise a song, and priests make Agni grow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:4
+  label: Divine recipients / encompassed gods
+  assigned_to:
+  - fig:3
+  basis: The divine host is the recipient of sacrifice, and the gods are encompassed
+    by Agni in the wheel simile.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:5
+  label: Bestower or acquirer of wealth and heroes
+  assigned_to:
+  - fig:1
+  basis: Agni is praised as an acquirer of wealth and is asked to bestow abundance
+    of heroes.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Kindled Agni / fire
+  literal_form: Agni as the one whom the speakers kindle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Song and prayers of praise
+  literal_form: An effective song of praise and prayers offered to Agni
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Sacrifice
+  literal_form: The sacrifice performed or spread through Agni for the divine host
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Wheel felly and spokes
+  literal_form: A wheel image in which the felly encompasses the spokes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Invocation and kindling of Agni
+  summary: The speakers praise, call, and kindle Agni for help, and compose a song
+    of praise while desiring riches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Agni as ritual mediator of sacrifice
+  summary: Agni is asked to enjoy prayers, is identified as a ritual officiant among
+    men, and is asked to sacrifice to the divine host; through him the sacrifice is
+    spread out.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Request for wealth and encompassing image
+  summary: Priests make Agni grow, ask him to bestow abundance of heroes, and describe
+    him as encompassing the gods like the felly of a wheel encompasses spokes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Ritual sacrifice mediated by Agni
+  taxonomy_refs:
+  - sacrifice
+  basis: 'The passage repeatedly identifies Agni with ritual action: he is a Hotvṛ/ritual
+    officiant, he is asked to sacrifice to the divine host, and sacrifice is spread
+    through him.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a hymn of praise and request; it does not narrate a completed
+    sacrificial event in detail.
+- id: motif:2
+  label: Praise and ritual offering linked to divine bestowal
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speakers praise, kindle, and pray to Agni while desiring riches and asking
+    him to bestow abundance of heroes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The exchange pattern is implied by juxtaposed praise/request language
+    rather than stated as a formal bargain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18851-18853, stanza 1
+  quote_or_summary: "“Praising we call thee; praising let us kindle thee, Agni, praising,
+    for thy help.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 18855-18857, stanza 2
+  quote_or_summary: The speakers, desiring riches, devise an effective song of praise
+    for Agni, described as a heaven-touching god.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 18859-18861, stanza 3
+  quote_or_summary: Agni is asked to take pleasure in prayers; he is called the Hotvṛ/ritual
+    officiant among men and is asked to sacrifice to the divine host.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 18863-18865, stanza 4
+  quote_or_summary: Agni is described as widely extended and a desirable ritual officiant;
+    through him the sacrifice is spread out.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 18867-18870, stanza 5
+  quote_or_summary: Priests make Agni grow; he is called the greatest acquirer of
+    wealth and is asked to bestow abundance of heroes.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 18872-18875, stanza 6
+  quote_or_summary: "“Thou encompassest the gods as the felly (encompasses) the spokes
+    (of a wheel).”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain translation; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The figures, ritual roles, and symbols are directly grounded in the hymn.
+    Motif identification is strongest for sacrifice and more tentative for sacred
+    exchange. No cross-text or historical comparison claim is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Uses only the supplied passage and metadata. Taxonomy references are limited to the provided lists.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l18845-l18875
+  passage_sha256=10223bb290d33fbece08897b584be43ac77e70e03f358cda767bdfdf5d40237a
+

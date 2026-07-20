@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l7346-l7373
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: 'WOOD-CARVER AT WORK : MAKING AN INDANDALA DRUM. / SPECIMENS OF WOODWORK
+    FROM NANZELA. / MILK-PAILS AND BOWLS FROM NANZELA. / PT. II; lines 7346-7373'
+  start: '7346'
+  end: '7373'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage captions photographs of Nanzela woodwork, milk-pails, and bowls,
+    then describes wooden utensils, especially spoons carved by Mungalo with simple
+    tools. Spoon handles are topped with human or animal heads. The passage also states
+    that canoes are the largest wooden objects, with size determined by the tree chosen
+    and the owner's intended purpose.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies specimens of woodwork from Nanzela and milk-pails and
+    bowls from Nanzela as photographed items.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Spoons are described as perhaps the most artistic wooden utensils.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mungalo is described as skilled at carving spoons from unpromising-looking
+    pieces of wood.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tools named for spoon carving are an adze, two or three small chisels,
+    and a spear-blade.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Spoon handles are topped by a figure, either a human or animal head.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Canoes, called mato, are described as the largest wooden objects.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The size of a canoe depends on the tree chosen and on the prospective owner's
+    purpose.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mungalo
+  description: An old acquaintance of the authors described as an adept at carving
+    spoons with simple tools.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: prospective owner
+  description: An unnamed prospective owner whose intended purpose affects the choice
+    of tree and thus the size of a canoe.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wood-carver
+  assigned_to:
+  - fig:1
+  basis: Mungalo is said to carve spoons by the score using simple tools.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: intended canoe owner
+  assigned_to:
+  - fig:2
+  basis: The passage states that the purpose of the prospective owner largely affects
+    the choice of tree for a canoe.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: milk-pails and bowls
+  literal_form: Milk-pails and bowls from Nanzela.
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: carved spoons
+  literal_form: Wooden spoons with handles surmounted by a human or animal head.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: wood-carving tools
+  literal_form: An adze, two or three small chisels, and a spear-blade.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: canoes
+  literal_form: Canoes, called mato, made from selected trees.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: tree chosen for canoe
+  literal_form: The tree chosen for making a canoe.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Wooden utensils and carved spoons
+  summary: The passage describes artistic wooden utensils, focusing on spoons carved
+    by Mungalo from rough pieces of wood using simple tools and topped with human
+    or animal head figures.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Canoe size and tree selection
+  summary: The passage explains that canoes are the largest wooden objects and that
+    their size depends on the tree chosen, which is shaped by the owner's intended
+    purpose.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Photographed Nanzela woodwork
+  summary: The passage captions specimens of Nanzela woodwork, including milk-pails
+    and bowls.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7346-7351
+  quote_or_summary: '"SPECIMENS OF WOODWORK FROM NANZELA" and "MILK-PAILS AND BOWLS
+    FROM NANZELA."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7353-7359
+  quote_or_summary: The text says spoons are perhaps the most artistic wooden utensils
+    and that Mungalo was skilled at carving them in large numbers from unpromising-looking
+    wood.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7356-7358
+  quote_or_summary: '"the simplest of tools — an adze, two or three small chisels,
+    and a spear-blade"'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7359-7361
+  quote_or_summary: The handle of a spoon is described as surmounted by a figure,
+    either a human or animal head.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7362-7366
+  quote_or_summary: The passage states that canoes, called mato, are the largest wooden
+    objects; their size depends on the tree chosen and on the prospective owner's
+    purpose.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is primarily ethnographic material-culture description, not a
+    mythic narrative. No candidate mythological motifs or comparison claims are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l7346-l7373
+  passage_sha256=e4921b2a02e0f4ef1899285a7ffb9c50ceeb920d74b7d50b1036db9f855d428f
+

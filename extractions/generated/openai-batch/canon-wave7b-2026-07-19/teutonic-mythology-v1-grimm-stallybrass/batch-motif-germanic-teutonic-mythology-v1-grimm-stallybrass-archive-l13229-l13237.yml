@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l13229-l13237
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: ISIS.  20 1 / ISIS.  2G3 / HOLDA,  HOLLE.  265 / UOLDA,  IIOLLE.  267; lines
+    13229-13237
+  start: '13229'
+  end: '13237'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A note conditionally glosses the name brunnenhold as meaning a fountain-sprite.
+    A supplement note says newborn babes are fetched by a nurse from Dame Holle's
+    pond. Another note cites a similar legend in Jul. Schmidt's Reichenfels, and a
+    translator note contrasts an unspecified 'purely heathen view' with a Christian
+    sentiment quoted from Hamlet about spirits not stirring abroad.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The name brunnenhold is conditionally said to signify a fountain-sprite, if
+    it is a genuine piece of tradition.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A supplement note says newborn babes are fetched by a nurse out of Dame Holle's
+    pond.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A similar legend is cited in Jul. Schmidt's Reichenfels, page 152.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A translator note calls an unspecified view in the surrounding discussion
+    'purely heathen' and contrasts it with a Christian sentiment from Hamlet i.1 about
+    spirits not stirring abroad.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: brunnenhold / fountain-sprite
+  description: A conditionally genuine traditional name glossed as signifying a fountain-sprite.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dame Holle
+  description: Named as associated with a pond from which newborn babes are fetched.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: nurse
+  description: The person said to fetch newborn babes from Dame Holle's pond.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: newborn babes
+  description: Newborn children said to be fetched from Dame Holle's pond.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: conditional fountain-sprite
+  assigned_to:
+  - fig:1
+  basis: The note says brunnenhold, if genuine tradition, signifies a fountain-sprite.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pond-associated named figure
+  assigned_to:
+  - fig:2
+  basis: Dame Holle is named in connection with the pond from which babes are fetched.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: fetching intermediary
+  assigned_to:
+  - fig:3
+  basis: The nurse is the actor who fetches the newborn babes.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: fetched newborn children
+  assigned_to:
+  - fig:4
+  basis: The babes are the beings fetched out of the pond.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fountain
+  literal_form: fountain in the gloss 'fountain-sprite'
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Dame Holle's pond
+  literal_form: pond
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Conditional gloss of brunnenhold
+  summary: The note explains that brunnenhold would mean a fountain-sprite if the
+    name is a genuine tradition.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Babes fetched from Dame Holle's pond
+  summary: A nurse fetches newborn babes out of Dame Holle's pond.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: water-associated fountain-sprite
+  taxonomy_refs: []
+  basis: The passage conditionally identifies brunnenhold as a fountain-sprite.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The identification is explicitly conditional on the name being a genuine
+    traditional item.
+- id: motif:2
+  label: newborn children fetched from a pond
+  taxonomy_refs:
+  - sacred_birth
+  basis: The supplement note says newborn babes are fetched by a nurse from Dame Holle's
+    pond.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage says the babes are fetched from the pond, but does not describe
+    conception, birth ritual, or sacred status directly.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports that a similar legend occurs in Jul. Schmidt's
+    Reichenfels, page 152.
+  claim_level: same_motif
+  target: Jul. Schmidt's Reichenfels p. 152
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: No details of the cited similar legend are provided in this excerpt,
+    so the nature and degree of similarity cannot be verified here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13229-13231
+  quote_or_summary: If the name brunnenhold in a cited Märchenbuch is genuine tradition,
+    it signifies a fountain-sprite.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 13230-13231
+  quote_or_summary: A supplement note says newborn babes are fetched by the nurse
+    from Dame Holle's pond.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: '13233'
+  quote_or_summary: A note states that a similar legend appears in Jul. Schmidt's
+    Reichenfels, page 152.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 13235-13237
+  quote_or_summary: The translator note calls the view purely heathen and contrasts
+    it with a Christian sentiment from Hamlet i.1 that no spirit dares stir abroad
+    and the nights are wholesome.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is short and footnote-like, with some OCR-corrupted words. Literal
+    extraction is fairly direct, but motif mapping is tentative because the excerpt
+    gives minimal narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. OCR forms in the supplied text appear to obscure 'of Dame Holle's pond'; summaries reflect the evident wording without adding details beyond the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l13229-l13237
+  passage_sha256=49f97b3c280cc0fb89044911b97c889e2bfd8577467407a6c7f3fa0f1b474133
+

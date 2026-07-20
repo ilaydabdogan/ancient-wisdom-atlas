@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l10723-l10743
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: THE INGOMANTAMBWE AND INDANDALA. / CH. XXV / THE BA-ILA AT PLAY / THE BAND
+    AT A DANCE.; lines 10723-10743
+  start: '10723'
+  end: '10743'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Tu bana Leza, Yeye. Tu bana Mwami, Yeye.
+  summary: The passage gives editorial notes on unusual song-language forms and then
+    cites a women's song used at funerals and when sowing. The song repeatedly states
+    that the singers are children of Leza or Mwami/the Lord, and includes lines naming
+    Kemba and Muninde with a seeing formula.
+  language: English with transcribed Ila song lines
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The editorial note says the suffix -ni is not otherwise used by the speakers
+    in question, but is ordinary in Zulu and Xosa; it also notes possessive -mi in
+    mwanami, known elsewhere in Suto.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies the cited item as a women's song used at funerals and
+    when sowing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The song includes repeated first-person plural statements that the singers
+    are children of Leza and of Mwami/the Lord.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: The translated lyric says that Kemba sees the singers.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The song includes a line naming Muninde with the same verbal formula, “watubona,”
+    used in the Kemba line.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: women singers / first-person plural singers
+  description: The song is identified as a women's song; its lyrics speak in the first-person
+    plural, “we.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Leza
+  description: Leza is named in the song in the phrase translated as “children of
+    Leza.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Mwami / the Lord
+  description: Mwami is named in the song and translated in the passage as “the Lord.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Kemba
+  description: Kemba is named in a line translated as “Kemba sees us.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Muninde
+  description: Muninde is named in a song line with the phrase “watubona.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: song performers
+  assigned_to:
+  - fig:1
+  basis: The passage labels the item a women's song.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: first-person collective children
+  assigned_to:
+  - fig:1
+  basis: The translated song says, “We are children of Leza” and “We are the Lord's
+    children.”
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: parental or lordly referent in song
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The singers call themselves children of Leza and children of Mwami/the Lord.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: named observer in song formula
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Kemba is translated as seeing the singers; Muninde appears with the same
+    “watubona” formula in the vernacular lines.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Women's funeral and sowing song
+  summary: A women's song, specified for funerals and sowing, declares the singers
+    to be children of Leza and of Mwami/the Lord and names Kemba and Muninde in seeing-formula
+    lines.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine parent-child address
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The song explicitly says that the singers are children of Leza and the Lord's
+    children.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is a song fragment, not a narrative genealogy or mythic episode;
+    the relationship is expressed lyrically.
+- id: motif:2
+  label: Funerary and sowing song performance
+  taxonomy_refs: []
+  basis: The passage identifies the item as a women's song used both at funerals and
+    when sowing.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No ritual actions beyond the performance context are described in the
+    excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note compares the song suffix -ni with forms described as ordinary
+    in Zulu and Xosa.
+  claim_level: linguistic_similarity
+  target: Zulu and Xosa use of suffix -ni
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a linguistic comparison supplied by the passage, not a mythological
+    motif comparison.
+- id: claim:2
+  claim: The editorial note compares the possessive -mi in mwanami with a form said
+    to exist elsewhere in Suto.
+  claim_level: linguistic_similarity
+  target: Suto possessive -mi in comparable usage
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a linguistic comparison supplied by the passage, not a mythological
+    motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10723-10729
+  quote_or_summary: The editorial note says the suffix -ni is otherwise not used by
+    them but is ordinary in Zulu and Xosa, and that possessive -mi in mwanami is known
+    elsewhere in Suto.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: quote
+  locator: 10730-10731
+  quote_or_summary: "“Women's song at funerals and when sowing”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: 10732-10740
+  quote_or_summary: The transcribed lyrics repeat “Tu bana Leza” and “Tu bana Mwami”
+    and include lines with “Kemba watubona” and “Muninde watubona.”
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: quote
+  locator: 10741-10742
+  quote_or_summary: "“We are children of Leza, Yeye. We are the Lord's children, Yeye”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: quote
+  locator: '10743'
+  quote_or_summary: "“We are children of Leza, Kemba sees us,”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: quote
+  locator: 10736-10737
+  quote_or_summary: "“Tu bana Leza, Muninde watubona”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and partly truncated at the end of the provided excerpt.
+    Literal song contexts and kinship language are clear, but mythic interpretation
+    is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy items are directly present in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l10723-l10743
+  passage_sha256=ac80106c0d12dd8a93cd683aef0d62bba16161beb7cd8982844c5a1ec4a8039f
+

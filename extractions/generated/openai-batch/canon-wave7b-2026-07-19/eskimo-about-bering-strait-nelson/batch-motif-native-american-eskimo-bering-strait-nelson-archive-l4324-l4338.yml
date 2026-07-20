@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l4324-l4338
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: BELTS   AND   BELT   BUTTONS / BUREAU   OF   AMERICAN    ETHNOLOGY / EIGHTEENTH   ANNUAL   REPORT     PL.    XXI
+    / BOOTS,     WATERPROOF     MITTENS,    AND    STRAW    SOCKS    IABOUT; lines
+    4324-4338
+  start: '4324'
+  end: '4338'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes belts worn by men and boys, especially wolverine-
+    or wolf-skin belts retaining claws, hair, head, nose, and tail. These belts are
+    prized and are believed to convey strength and prowess like that of the animal.
+    It also notes belts representing an owner’s totem animal and belts with mummified
+    little weasel bodies attached in front, likewise associated with the conveyance
+    of animal prowess.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Men and boys wear belts of various kinds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some belts may be rawhide cords or straps of tanned skin.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The more common belts described are made from the foot skin of a wolverine
+    or wolf, with the claws left on.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The animal skin is soft-tanned without removing the hair, and the edges are
+    sewn together into a continuous band.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The skin of the animal’s head is sewn on the back of the belt, with the nose
+    attached to the belt and the tail fastened to the lower end.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The wolverine- or wolf-skin belts are highly prized and are normally owned
+    by men or boys unless they are very poor.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage reports a belief that the belt gives the wearer strength and prowess
+    similar to those of the source animal.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Belts representing the owner’s totem animal are also worn.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Mummified bodies of little weasels are sometimes attached to the front of
+    such belts.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage reports a belief that some of the animal’s prowess will be conveyed
+    through the attached weasel bodies.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: men and boys
+  description: Human wearers and owners of the belts described in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: wolverine or wolf
+  description: Animals whose foot skin, claws, head skin, nose, and tail are incorporated
+    into prized belts.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: owner’s totem animal
+  description: An animal represented by some belts worn by the owner.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: little weasel
+  description: Animal whose mummified body is sometimes attached to the front of belts.
+  role_refs:
+  - role:5
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: belt wearer or owner
+  assigned_to:
+  - fig:1
+  basis: The passage states that men and boys wear and usually possess the described
+    belts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: source animal for belt material
+  assigned_to:
+  - fig:2
+  basis: The belts are commonly made from the foot skin of a wolverine or wolf, with
+    other animal parts attached.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: animal source of conveyed prowess
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The passage reports beliefs that the belt or attached animal bodies convey
+    animal strength or prowess to the wearer.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: totem animal represented on belt
+  assigned_to:
+  - fig:3
+  basis: The passage states that belts representing the owner’s totem animal are worn.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: attached mummified animal body
+  assigned_to:
+  - fig:4
+  basis: The mummified bodies of little weasels are sometimes attached to the front
+    of belts.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: belt
+  literal_form: Men’s and boys’ belt, sometimes rawhide or tanned skin and often animal-skin
+    construction.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wolverine- or wolf-skin belt
+  literal_form: Soft-tanned wolverine or wolf foot skin with hair, claws, head skin,
+    nose, and tail retained or attached.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: totem-animal belt
+  literal_form: Belt representing the owner’s totem animal.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mummified weasel bodies
+  literal_form: Mummified bodies of little weasels attached to the front of belts.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Making and valuing wolverine- or wolf-skin belts
+  summary: Men and boys wear belts; the more common prized type is made from wolverine
+    or wolf skin, with claws, hair, head skin, nose, and tail incorporated into the
+    belt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Animal prowess associated with belts
+  summary: The passage reports that wolverine- or wolf-skin belts are believed to
+    give the wearer strength and prowess like the source animal. It also describes
+    totem-animal belts and mummified weasel bodies attached in front in a belief that
+    animal prowess will be conveyed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Animal prowess conveyed through wearing animal-derived belt
+  taxonomy_refs: []
+  basis: The passage explicitly states that a wolverine- or wolf-skin belt is believed
+    to give the wearer strength and prowess similar to the animal from which the skin
+    was taken.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic description of material culture and reported
+    belief, not a narrative episode.
+- id: motif:2
+  label: Totem animal represented on a wearable object
+  taxonomy_refs: []
+  basis: The passage states that belts representing the owner’s totem animal are worn.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the specific totem system or identify particular
+    totem animals.
+- id: motif:3
+  label: Attached animal body as prowess-conveying charm
+  taxonomy_refs: []
+  basis: The passage states that mummified little weasel bodies are sometimes attached
+    to the front of belts in the belief that some animal prowess will be conveyed.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The sentence ends at the line-range boundary, so any continuation beyond
+    the supplied passage is not used.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the wolverine- or wolf-skin belt and the attached mummified
+    weasel bodies share the stated function of conveying animal prowess to the wearer.
+  claim_level: same_function
+  target: Animal-derived belt and attached animal-body charm in the same passage
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal functional comparison only; it does not establish
+    historical contact, broader distribution, or a named taxonomy motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4324-4329
+  quote_or_summary: Men and boys wear various belts; some are rawhide or tanned skin,
+    but more commonly the belts are made from wolverine or wolf foot skin with claws
+    left on, soft-tanned with hair, and sewn into a continuous band.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4329-4333
+  quote_or_summary: The animal’s head skin, nose, and tail are attached to the belt;
+    these belts are highly prized and are ordinarily possessed by men or boys unless
+    they are very poor.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 4333-4335
+  quote_or_summary: "“It is supposed to give the wearer a certain strength and prowess
+    similar to those qualities in the animal from which the skin was taken.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4336-4338
+  quote_or_summary: Belts representing the owner’s totem animal are also worn, and
+    mummified bodies of little weasels are sometimes attached to the front in the
+    belief that animal prowess will be conveyed.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The material culture description and reported beliefs are explicit. Motif
+    labeling is necessarily cautious because the passage is not a myth narrative and
+    gives limited context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs apply directly. No external comparison or historical-contact claim is made.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l4324-l4338
+  passage_sha256=4e0c7ad19673033cf64e78350944249ecbac1a2963293eee65b4cebc2d9f037d
+

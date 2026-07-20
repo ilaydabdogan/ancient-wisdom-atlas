@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l27177-l27186
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XXIV / SECTION XLIII / SECTION XLIV / SECTION XLV; lines 27177-27186
+  start: '27177'
+  end: '27186'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: beheld that terrific battle to resemble the combat of the gods and the Asuras
+  summary: The passage describes a fierce battle in which matching classes of forces
+    clash, the melee becomes confused, celestial beings witness it, and the battle
+    is likened to the combat of gods and Asuras.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Elephants rush against elephants, car-warriors against car-warriors, steeds
+    against steeds, and foot-soldiers against foot-soldiers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The conflict becomes extremely confused and fierce, with heroes rushing against
+    one another in melee.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Celestial Rishi, Siddhas, and Charanas are present and behold the battle.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The battle is described as resembling the combat of the gods and the Asuras.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Elephants, cars, and bodies of infantry are present in thousands.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Cars, elephants, steeds, and infantry repeatedly fight one another on the
+    same places.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: elephants
+  description: War elephants participating in the battle, described as rushing against
+    elephants and later appearing in thousands.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: car-warriors
+  description: Warriors in cars or chariots, described as rushing against car-warriors.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: steeds
+  description: Horses participating in the battle, described as rushing against steeds
+    and fighting repeatedly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: foot-soldiers
+  description: Infantry combatants described as rushing against foot-soldiers and
+    fighting repeatedly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: heroes
+  description: Heroes rushing against each other in the melee.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: celestial Rishi
+  description: Celestial Rishi present at the battle and beholding it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Siddhas and Charanas
+  description: Celestial beings present with the Rishi and beholding the battle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: gods
+  description: 'Mythic combatants in the comparison: the battle resembles the combat
+    of the gods and the Asuras.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Asuras
+  description: 'Mythic combatants in the comparison: the battle resembles the combat
+    of the gods and the Asuras.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: battle combatants
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: These figures are described as rushing, fighting, or clashing in the melee.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: celestial witnesses
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: They are described as present and beholding the terrific battle.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: mythic comparison combatants
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: The battle is explicitly said to resemble the combat of the gods and the
+    Asuras.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Matched forces clash
+  summary: 'The passage opens with like forces meeting like forces: elephants against
+    elephants, chariot-warriors against chariot-warriors, steeds against steeds, and
+    infantry against infantry.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Confused fierce melee
+  summary: The conflict becomes an extremely confused and fierce melee in which heroes
+    rush against each other.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Celestial witnessing and divine-Asura comparison
+  summary: Celestial Rishi, Siddhas, and Charanas behold the battle and see it as
+    resembling the combat of gods and Asuras.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Repeated fighting in the same places
+  summary: Large numbers of elephants, cars, steeds, and infantry are described as
+    repeatedly fighting one another on the same ground.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: like-against-like battle array
+  taxonomy_refs: []
+  basis: 'The passage repeatedly lists matching classes of forces opposing the same
+    class: elephants against elephants, car-warriors against car-warriors, steeds
+    against steeds, and foot-soldiers against foot-soldiers.'
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a battlefield pattern in the passage; no broader mythic taxonomy
+    is asserted.
+- id: motif:2
+  label: battlefield chaos
+  taxonomy_refs:
+  - chaos
+  basis: The conflict is described as confused and fierce in the extreme, with heroes
+    rushing against each other in a melee.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: 'The taxonomy link is limited: the passage describes tactical or visual
+    confusion, not a cosmogonic chaos scene.'
+- id: motif:3
+  label: human battle likened to gods versus Asuras
+  taxonomy_refs: []
+  basis: Celestial beings behold the battle as resembling the combat of the gods and
+    the Asuras.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage supports an explicit analogy, but does not narrate an actual
+    battle between gods and Asuras here.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the human battlefield scene to the combat
+    of the gods and the Asuras.
+  claim_level: visual_similarity
+  target: combat of the gods and the Asuras
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal simile or analogy in the passage; it does not by
+    itself establish shared origin, historical contact, or that the human battle is
+    the same event as the mythic combat.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 27177-27179
+  quote_or_summary: '"elephants rushed against elephants, car-warriors against car-warriors,
+    steed against steed and foot-soldier against foot-soldier"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation allowed.
+- id: ev:2
+  type: quote
+  locator: lines 27179-27181
+  quote_or_summary: '"The conflict then became confused and fierce in the extreme,
+    of heroes rushing against each other in the melee."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation allowed.
+- id: ev:3
+  type: quote
+  locator: lines 27181-27184
+  quote_or_summary: '"the celestial Rishi, and Siddhas and Charanas... beheld that
+    terrific battle to resemble the combat of the gods and the Asuras"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation allowed.
+- id: ev:4
+  type: summary
+  locator: lines 27184-27186
+  quote_or_summary: Elephants, cars, and infantry are described in thousands; cars,
+    elephants, steeds, and infantry fight repeatedly on the same places.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal battlefield details and the explicit gods-versus-Asuras comparison
+    are clear. Motif taxonomy mapping is limited, especially for the broad 'chaos'
+    family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol is directly present in the passage; symbols are therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l27177-l27186
+  passage_sha256=fed10c6e6e130d3693c2eed4031adfc9cdc701093f8b423d525f1bcfebb30f24
+

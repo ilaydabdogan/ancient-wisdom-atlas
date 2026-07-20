@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.celtic-cuchulain-of-muirthemne-gregory-archive-l13982-l14010
+source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+passage_locator:
+  label: THE   DEAF  VALLEY  329 / CUCHULAIN   GOES   OUT  331 / THE   GREY   OF   MACHA  333
+    / DEATH  OF  CUCHULAIN; lines 13982-14010
+  start: '13982'
+  end: '14010'
+  translation: Cuchulain of Muirthemne
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: there was nothing in it but blood
+  summary: Cuchulain visits his mother Dechtire to bid farewell before facing the
+    men of Ireland. The wine she offers him in a vessel appears as blood three times.
+    Cuchulain breaks the vessel, says his luck has turned and his life is near its
+    end, and refuses Dechtire's plea to wait for Conall's help, declaring that a great
+    name outlasts life.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Cuchulain goes to the house of his mother, Dechtire, to bid her farewell.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dechtire comes out to meet Cuchulain and brings him wine in a vessel, as was
+    her custom when he passed that way.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When Cuchulain takes the vessel, it contains red blood instead of wine.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dechtire fills the vessel a second and a third time, and each time it contains
+    blood.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Cuchulain becomes angry and breaks the vessel against a rock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cuchulain says the fault is not Dechtire's, that his luck has turned against
+    him, that his life is near its end, and that he will not come back alive from
+    facing the men of Ireland.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Dechtire tries to persuade Cuchulain to go back and wait until he has Conall's
+    help.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Cuchulain refuses to wait, saying he would not give up his great name and
+    courage, has never drawn back from battle, and will not begin now.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Cuchulain states that a great name outlasts life.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cuchulain
+  description: Hero who goes to his mother's house to bid farewell before facing the
+    men of Ireland; he receives the blood-filled vessel and refuses to turn back.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Dechtire
+  description: Cuchulain's mother; she brings him a vessel of wine, then urges him
+    to go back and wait for Conall's help.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: the men of Ireland
+  description: The opposing group Cuchulain is going out to face.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Conall
+  description: A potential helper whom Dechtire says Cuchulain should wait for.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: departing warrior
+  assigned_to:
+  - fig:1
+  basis: Cuchulain bids farewell and is going out to face the men of Ireland.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mother
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Dechtire as Cuchulain's mother.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: opponents to be faced
+  assigned_to:
+  - fig:3
+  basis: Cuchulain is going out to face the men of Ireland and says he will not return
+    alive from doing so.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: counselor urging delay
+  assigned_to:
+  - fig:2
+  basis: Dechtire tries to persuade Cuchulain to go back and wait for Conall's help.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: honor-bound fighter
+  assigned_to:
+  - fig:1
+  basis: Cuchulain refuses to wait, citing his great name, courage, and record of
+    never drawing back from battle.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: potential helper
+  assigned_to:
+  - fig:4
+  basis: Conall is named as the person whose help Cuchulain should wait for.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: blood-filled vessel
+  literal_form: a vessel offered as containing wine, but appearing as red blood
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: repeated blood drink
+  literal_form: blood appearing in the vessel three times
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: broken vessel
+  literal_form: the vessel dashed against a rock and broken
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Farewell at Dechtire's house
+  summary: Cuchulain goes to his mother Dechtire to bid farewell before facing the
+    men of Ireland, and she brings him wine in a vessel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The vessel turns to blood
+  summary: The vessel contains red blood when Cuchulain takes it; Dechtire fills it
+    twice more, and each time it contains blood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cuchulain reads his fate
+  summary: Cuchulain breaks the vessel against a rock and says his luck has turned,
+    his life is near its end, and he will not return alive from facing the men of
+    Ireland.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Refusal to wait
+  summary: Dechtire urges Cuchulain to go back and wait for Conall, but Cuchulain
+    refuses, grounding his decision in courage, battle steadfastness, and lasting
+    fame.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ominous drink of blood before death
+  taxonomy_refs: []
+  basis: The ordinary wine offered by Dechtire appears as blood three times, after
+    which Cuchulain says his luck has turned and his life is near its end.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents the blood-filled vessel as connected to Cuchulain's
+    impending death through his own interpretation, but does not explicitly name it
+    as an omen.
+- id: motif:2
+  label: final farewell before battle
+  taxonomy_refs:
+  - departure
+  basis: Cuchulain visits his mother to bid farewell before going out to face the
+    men of Ireland.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is specifically a farewell
+    before a fatal battle rather than a general journey departure.
+- id: motif:3
+  label: hero refuses safety for lasting fame
+  taxonomy_refs: []
+  basis: Cuchulain refuses to wait for Conall's help, saying he will not surrender
+    his great name or courage and that a great name outlasts life.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is framed as personal heroic resolve in the passage; no broader comparative
+    taxonomy is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13984-13989
+  quote_or_summary: Cuchulain goes to the house of his mother Dechtire to bid farewell;
+    she knows he is going to face the men of Ireland and brings him wine in a vessel
+    as usual.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 13989-13995
+  quote_or_summary: When Cuchulain takes the vessel, it contains red blood; Dechtire
+    fills it a second and third time, and each time it contains only blood.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 13997-14002
+  quote_or_summary: Cuchulain angrily breaks the vessel against a rock and says the
+    fault is not Dechtire's, but his luck has turned, his life is near its end, and
+    he will not return alive from facing the men of Ireland.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 14002-14004
+  quote_or_summary: Dechtire tries to persuade Cuchulain to go back and wait until
+    he has Conall's help.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 14004-14010
+  quote_or_summary: Cuchulain refuses to wait, saying he will not give up his great
+    name and courage, has never drawn back from battle, and that a great name outlasts
+    life.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    passage-level candidates and need human review. No cross-text comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No symbol taxonomy references were assigned because the available symbol list does not include blood, wine, vessel, or rock.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-cuchulain-of-muirthemne-gregory-archive__l13982-l14010
+  passage_sha256=6b509f8d23bcaa1cf1a165e152a5bb11ae66266348c315c6d02ff2dfff4b7ca9
+

@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l59426-l59450
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCCXXIII / SECTION CCCXXIV / SECTION CCCXXV / SECTION CCCXXVI; lines
+    59426-59450
+  start: '59426'
+  end: '59450'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: was neither pleased nor angered at all this
+  summary: Fifty accomplished damsels attend and entertain Suka in King Janaka's palace
+    with hospitality, food, singing, and tours of the grounds. Suka remains self-controlled,
+    performs prayers and cleansing rites, practices Yoga, sleeps briefly, and again
+    practices Yoga despite being surrounded by the women.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Fifty damsels surround the ascetic and are described as beautiful, accomplished,
+    skilled in dalliance, and able to read the thoughts of the men they serve.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The damsels present water for washing the ascetic's feet, worship him with
+    customary offerings, and give him seasonal food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The damsels lead the ascetic through the grounds, show him objects of interest,
+    and entertain him with sport, laughter, and song.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ascetic is described as pure-souled, born in the fire-sticks, dutiful,
+    in complete control of his senses, and master of his wrath.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The ascetic is neither pleased nor angered by the women's entertainment.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After being given a seat, Suka washes his feet and limbs, says evening prayers,
+    sits, and thinks about the object for which he came.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: During the night Suka practices Yoga, sleeps in the middle portion, cleanses
+    his body after waking, and practices Yoga again while surrounded by beautiful
+    women.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The events occur in the palace of King Janaka.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Suka
+  description: The auspicious ascetic of noble soul, also called the son of the Island-born
+    Krishna, who remains self-controlled and practices Yoga in Janaka's palace.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Fifty damsels
+  description: Fifty beautiful and accomplished women who surround, serve, guide,
+    and entertain the ascetic.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: King Janaka
+  description: The king whose palace is the setting for the ascetic's stay in this
+    passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: self-controlled ascetic and yogin
+  assigned_to:
+  - fig:1
+  basis: The passage describes him as an ascetic with senses under complete control
+    who devotes himself to Yoga.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: guest receiving hospitality
+  assigned_to:
+  - fig:1
+  basis: He receives foot-washing water, customary worship, food, a seat, and attendance
+    in the palace.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: palace attendants and entertainers
+  assigned_to:
+  - fig:2
+  basis: The women serve him, offer hospitality, guide him through the grounds, and
+    entertain him with laughing and singing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: king associated with the palace setting
+  assigned_to:
+  - fig:3
+  basis: The passage identifies the location as the palace of King Janaka.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water for foot washing
+  literal_form: water presented for washing the ascetic's feet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire-sticks epithet
+  literal_form: the ascetic is described as born in the fire-sticks
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: excellent seat
+  literal_form: an excellent seat given to the ascetic
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Reception by the damsels
+  summary: Fifty damsels surround the ascetic, offer water and customary worship,
+    feed him, guide him through the grounds, and entertain him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ascetic composure and evening rites
+  summary: The ascetic remains neither pleased nor angered, receives a seat, performs
+    washing and evening prayers, and reflects on his purpose.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Night of Yoga in Janaka's palace
+  summary: Suka practices Yoga, sleeps during the middle of the night, cleanses himself
+    after waking, and resumes Yoga while surrounded by the women in King Janaka's
+    palace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: self-controlled ascetic amid sensual entertainment
+  taxonomy_refs:
+  - initiation
+  basis: The passage contrasts accomplished women who entertain and attend the ascetic
+    with his complete control of the senses and lack of pleasure or anger.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly call the scene a test or temptation; the
+    initiation taxonomy is therefore cautious.
+- id: motif:2
+  label: ritual hospitality to a holy guest
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The attendants wash the ascetic's feet, worship him with customary articles,
+    feed him, and give him a seat.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage presents hospitality and worship, but does not describe a
+    reciprocal exchange in this excerpt.
+- id: motif:3
+  label: yogic discipline maintained through the night
+  taxonomy_refs:
+  - wisdom
+  basis: Suka performs evening prayers, practices Yoga, sleeps briefly, cleanses himself,
+    and resumes Yoga despite the surrounding women.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage emphasizes discipline more than explicit instruction or doctrinal
+    wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 59426-59431
+  quote_or_summary: Fifty damsels, compared in beauty to Apsaras and described as
+    accomplished and skilled in dalliance, surround the ascetic.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: summary
+  locator: 59431-59434
+  quote_or_summary: The women present water for washing his feet, worship him with
+    customary articles, and give him excellent seasonal food.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary.
+- id: ev:3
+  type: summary
+  locator: 59434-59438
+  quote_or_summary: After he eats, the women guide him through the grounds, show objects
+    of interest, and entertain him with sport, laughter, and singing.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: 59438-59442
+  quote_or_summary: The ascetic is described as having his senses under complete control
+    and as being "neither pleased nor angered at all this."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 59442-59445
+  quote_or_summary: The women give him an excellent seat; Suka washes his feet and
+    limbs, says evening prayers, sits, and thinks of the purpose for which he came.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: quote
+  locator: 59445-59450
+  quote_or_summary: Suka devotes the first part of the night to Yoga, sleeps in the
+    middle portion, wakes and cleanses himself, and "though surrounded by those beautiful
+    women" again devotes himself to Yoga in King Janaka's palace.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation with summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal actions and figures are directly supported by the passage. Motif
+    labels are cautious because the passage does not explicitly frame the episode
+    as a test, temptation, or doctrinal teaching.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt itself does not explicitly compare the episode to another tradition or motif family beyond supporting internal motif candidates.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l59426-l59450
+  passage_sha256=ec6ae7def84e033f84fd9bf12ceedba5527cd19fd412c17ea7f3940afb40ab2d
+

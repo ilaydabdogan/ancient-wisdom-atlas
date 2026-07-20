@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l5865-l5895
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: ON THOUGHT AND SENSE 131 / ON THOUGHT AND SENSE 133 / ON THOUGHT AND SENSE
+    135 / COMMENTARY; lines 5865-5895
+  start: '5865'
+  end: '5895'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“Devotion is God-gnosis”"
+  summary: The commentary explains the treatise's double title, links its opening
+    address to Asclepius with the Perfect Sermon, cites Lactantius as quoting the
+    treatise, and distinguishes the Perfect Sermon from C.H. vi. (vii.).
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The commentary says the treatise has a double title and explains one heading
+    from concluding words, while treating the other as a repetition of another Corpus
+    Hermeticum title.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The opening words are reported as an address to Asclepius stating that the
+    Perfect Sermon was given the previous day.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentary states that the opening address makes the work an Asclepius
+    Dialogue and places it directly after the Perfect Sermon.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Lactantius is cited as quoting the sentence “Devotion is God-gnosis” and as
+    saying that Asclepius explained the same idea at greater length in the Perfect
+    Sermon.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A note rejects identifying the Perfect Sermon with C.H. vi. (vii.) and says
+    the present sermon combats the teaching of C.H. vi.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Named in the title phrase about the Beautiful and Good being in God
+    only and in the quoted sentence about God-gnosis.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Asclepius
+  description: Named as the addressee of the opening words and as the hearer associated
+    with the Perfect Sermon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Lactantius
+  description: Cited as quoting a sentence from the treatise and continuing with a
+    statement about Asclepius and the Perfect Sermon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Unnamed speaker of the opening words
+  description: The speaker says that the Perfect Sermon was given yesterday to Asclepius.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine object of gnosis and locus of the good
+  assigned_to:
+  - fig:1
+  basis: The passage quotes “God-gnosis” and mentions the title phrase that the Beautiful
+    and Good is in God only.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: hearer and dialogue addressee
+  assigned_to:
+  - fig:2
+  basis: Asclepius is directly addressed in the opening words and called the hearer
+    in the Lactantius citation.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: textual witness citing the treatise
+  assigned_to:
+  - fig:3
+  basis: Lactantius is described as quoting a sentence from the treatise and adding
+    a related statement.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: sermon-giver in the reported opening
+  assigned_to:
+  - fig:4
+  basis: The quoted opening says, “I gave the Perfect Sermon yesterday, Asclepius.”
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Commentary on title and ordering
+  summary: The commentator discusses the treatise's two titles and relates one of
+    them to another Corpus Hermeticum title.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Link to the Perfect Sermon
+  summary: The commentator uses the opening address to Asclepius and the Lactantius
+    citation to connect this treatise with the Perfect Sermon while distinguishing
+    that sermon from C.H. vi. (vii.).
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Devotion as God-gnosis
+  taxonomy_refs:
+  - wisdom
+  basis: The passage preserves the doctrinal sentence “Devotion is God-gnosis,” linking
+    devotion with knowledge of God.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is commentary and quotation, not a developed mythic narrative.
+- id: motif:2
+  label: Wisdom teaching through teacher-hearer dialogue
+  taxonomy_refs:
+  - wisdom
+  basis: The treatise is identified as an Asclepius Dialogue, with an unnamed speaker
+    addressing Asclepius and referring back to a prior sermon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The evidence supports a dialogue or teaching frame, but the passage gives
+    little narrative detail.
+comparison_claims:
+- id: claim:1
+  claim: The commentary treats the title “That the Beautiful and Good is in God only”
+    as a repetition of the title of C.H. vi. (vii.).
+  claim_level: linguistic_similarity
+  target: C.H. vi. (vii.) title
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a title-level comparison, not a demonstrated shared mythic
+    motif.
+- id: claim:2
+  claim: The commentary links this treatise with the Perfect Sermon by sequence and
+    by a reported shared doctrinal idea explained at greater length there.
+  claim_level: same_function
+  target: Perfect Sermon
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The claim concerns textual ordering and doctrine within a nearby Hermetic
+    corpus; the note limits possible confusion with C.H. vi. (vii.).
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5865-5895
+  quote_or_summary: 'The commentary says the treatise bears a double title: “On Thought
+    and Sense” and “That the Beautiful and Good is in God only,” and says the latter
+    seems to repeat the title of C.H. vi. (vii.).'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short excerpt/summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5865-5895
+  quote_or_summary: "“I gave the Perfect Sermon yesterday, Asclepius,”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 5865-5895
+  quote_or_summary: The commentary says the opening words show that the work is an
+    Asclepius Dialogue and that it followed directly on the Perfect Sermon, of which
+    a Latin version was preserved.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 5865-5895
+  quote_or_summary: 'Lactantius is said to quote “Devotion is God-gnosis” and to continue:
+    “Asclepius, his hearer, has also explained the same idea at greater length in
+    the Perfect Sermon.”'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 5865-5895
+  quote_or_summary: A note says it would be absurd to suppose that the Perfect Sermon
+    indicates C.H. vi. (vii.), especially because the present sermon combats the teaching
+    of C.H. vi.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is chiefly editorial commentary, so motif extraction is limited
+    to explicit doctrinal and dialogue-frame elements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No concrete taxonomy symbols from the supplied symbol list are present in this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l5865-l5895
+  passage_sha256=4e5859a88ef365ac741043448baab8833b729314cbf3e0d6c684cb7f23be45c0
+

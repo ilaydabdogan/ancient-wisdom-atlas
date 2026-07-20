@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l10157-l10168
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: EAETH.  643 / MOUNTAINS.      STONES.  645 / CHAPTER  XXI. / TREES.  649;
+    lines 10157-10168
+  start: '10157'
+  end: '10168'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A cited Vita Barbati passage reports a Lombard festival rite near Benevento:
+    participants fulfilled vota to a tree, hung a dead animal hide in it, riders struck
+    the hide with small lances while their arms were turned behind them, and a cut
+    from the hide was tasted as if for the soul''s remedy. A note explains votum as
+    including a votive offering, not only a vow.'
+  language: English with Latin quotation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage cites another Vita Barbati as the source for the reported practice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The report says the Lombards took hide or leather from dead animals, rather
+    than flesh, for consumption.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: During festival solemnities near Benevento, with horses going ahead one before
+    another, the Lombards fulfilled vota to a tree; the rite is described as a gentile
+    custom.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A rotten animal hide was suspended in the tree, which the Latin description
+    associates with divinity or cultic status.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Horse riders, with their arms turned behind their backs, competed to strike
+    the suspended hide with small lances.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the hide had been struck, a cut from its middle part was tasted as if
+    for a remedy of the soul.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The accompanying note states that votum can mean a votive offering, not only
+    a vow, and compares votare with offerre.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Langobardi / Lombards
+  description: Collective group described as performing the festival practice, fulfilling
+    vota to a tree, and taking hide from dead animals for consumption.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Horse riders
+  description: Riders in the rite who turn their arms behind their backs and try to
+    strike the suspended hide with small lances.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Horses
+  description: Horses go ahead one before another in the festival sequence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: festival votaries or ritual performers
+  assigned_to:
+  - fig:1
+  basis: The Lombards are said to fulfill vota to a tree during festival solemnities.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: ritual target-strikers
+  assigned_to:
+  - fig:2
+  basis: The riders compete to strike the suspended hide with small lances while their
+    arms are behind their backs.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: processional animals
+  assigned_to:
+  - fig:3
+  basis: The horses are described as going ahead one before another in the festival
+    sequence.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ritual consumers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The participants taste a cut from the middle of the hide after it has been
+    struck.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tree receiving vota
+  literal_form: A tree near Benevento to which vota are fulfilled and in which the
+    hide is hung.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: dead animal hide
+  literal_form: 'Corium or pellis mortua: hide or leather from dead animals, suspended
+    in the tree, struck, cut, and tasted.'
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: small lances
+  literal_form: Lanceolae used by the riders to strike the suspended hide.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: middle cut of the hide
+  literal_form: A recisionem from the middle part of the hide that is tasted after
+    the hide is struck.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: horses going ahead
+  literal_form: Horses preceding one another during the festival solemnities.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Festival vota to a tree near Benevento
+  summary: The cited Vita Barbati reports that Lombards, during festival solemnities
+    with horses going ahead, fulfilled vota to a tree not far from Benevento.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Striking the suspended hide
+  summary: A dead animal hide is hung in the tree, and horse riders with arms behind
+    their backs compete to strike it with small lances.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Tasting the cut hide
+  summary: After the hide is struck, participants taste a piece cut from its middle
+    as if for a remedy of the soul; the source voice condemns the practice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: votive rite or offering to a tree
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Lombards are said to fulfill vota to a tree, and the note explains votum
+    as including a votive offering.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: No named deity or requested return is specified; the account is mediated
+    through a hostile Christian source.
+- id: motif:2
+  label: tree as cultic ritual focus
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The tree receives vota and serves as the place where the hide is suspended;
+    the Latin description associates it with divinity or cultic status.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state that the tree is a cosmic axis or world center;
+    the taxonomy mapping is approximate.
+- id: motif:3
+  label: ritual striking of a suspended animal hide
+  taxonomy_refs: []
+  basis: The rite includes a dead hide suspended in a tree and struck by riders with
+    small lances while their arms are turned behind their backs.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the indigenous function or meaning of the
+    striking action.
+- id: motif:4
+  label: eating a ritual substance as remedy for the soul
+  taxonomy_refs: []
+  basis: After the hide is struck, a cut from its middle is tasted as if for the soul's
+    remedy.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wording is part of a polemical report; the exact ritual meaning for
+    the participants is not given.
+comparison_claims:
+- id: claim:1
+  claim: The cited Vita Barbati frames the tree-votive rite as belonging to a gentile
+    or pagan custom.
+  claim_level: same_function
+  target: mos gentilium / pagan ritual custom
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the source's broad classification, not evidence for a specific
+    external text, motif lineage, or historical contact.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 10157-10158
+  quote_or_summary: Another Vita Barbati is cited as the source of the following report.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:2
+  type: summary
+  locator: lines 10157-10161
+  quote_or_summary: The Latin report says the Lombards took hide from dead animals
+    for eating and, during festival solemnities with horses going ahead, fulfilled
+    vota to a tree near Benevento, as a gentile custom.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:3
+  type: summary
+  locator: lines 10161-10164
+  quote_or_summary: A rotten hide is hung in the tree; horse riders with arms turned
+    behind their backs compete to strike the hide with small lances.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:4
+  type: summary
+  locator: lines 10164-10166
+  quote_or_summary: When the hide has been struck, a cut from its middle part is tasted
+    as if for a remedy of the soul; the narrator condemns the practice as error.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summary allowed.
+- id: ev:5
+  type: note
+  locator: lines 10167-10168
+  quote_or_summary: The note explains that votum can mean a votive offering, not only
+    a vow, and equates votare with offerre in an example.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summary allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal ritual sequence is relatively clear, but the passage is a hostile
+    Latin report embedded in Grimm's discussion; symbolic and taxonomy mappings are
+    therefore cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction is limited to the supplied passage and metadata; no external context has been added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l10157-l10168
+  passage_sha256=c49b7e361ed4eb078ec41203cf99e21d8f3ffe5e7ecc46cc6764187b7718f7b7
+

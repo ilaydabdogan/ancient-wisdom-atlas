@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l4904-l4920
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER I. 18-26 7 / CHAPTER I. 27-29 9 / CHAPTER II. 1-2 II / CHAPTER II.
+    2-4 13; lines 4904-4920
+  start: '4904'
+  end: '4920'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A note on the Garden of Eden states that one early view treated Eden as
+    created on the third day, while a later view, attested in 4 Ezra, said paradise
+    was created before the world. The note attributes the later view to an interpretation
+    of Genesis 2:8 and says it was adopted in several versions and traditions.
+  language: English with a Latin citation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies Eden as a creation of the third day in several cited
+    traditions.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes the third-day creation view as the earliest view according
+    to the evidence known to the author.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that by the latter half of the first century A.D. the Garden
+    of Eden was said to have been created before the world.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage cites 4 Ezra iii.6 as evidence for a paradise existing before
+    the earth.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says the pre-world Eden view arose from reading Genesis 2:8 as
+    meaning “from the beginning” rather than “on the east.”
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says the newer interpretation was adopted by the Targums, the
+    Syriac and Latin Versions, and Aquila.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Garden of Eden / paradise
+  literal_form: Garden of Eden; paradisum
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Eden as a third-day creation
+  summary: The passage reports a tradition in which Eden belongs to the third day
+    of creation and notes supporting sources for that view.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Eden as created before the world
+  summary: The passage reports a later tradition in which the Garden of Eden or paradise
+    was created before the world, with 4 Ezra cited as evidence.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Interpretive source of the pre-world Eden view
+  summary: The passage explains the later view as arising from an interpretation of
+    Genesis 2:8 and notes its adoption in several textual traditions.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Eden created within the creation week
+  taxonomy_refs: []
+  basis: The passage states that Eden is a creation of the third day and presents
+    this as an early view.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a scholarly note and does not narrate the creation episode
+    directly.
+- id: motif:2
+  label: Paradise created before the world
+  taxonomy_refs: []
+  basis: The passage says that by the latter half of the first century A.D. the Garden
+    of Eden was said to have been created before the world and cites 4 Ezra iii.6.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The provided text gives only a brief citation and summary, not the full
+    4 Ezra passage.
+- id: motif:3
+  label: Cosmological motif produced by scriptural reinterpretation
+  taxonomy_refs: []
+  basis: The passage attributes the pre-world Eden view to interpreting Genesis 2:8
+    as “from the beginning” rather than “on the east.”
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is primarily a textual-interpretive observation; its status as a
+    mythology motif requires review.
+comparison_claims:
+- id: claim:1
+  claim: The passage groups the third-day creation of Eden with Bereshit Rabbah 15,
+    Slavonic Enoch xxx.1, and Book of Adam and Eve i.1 as witnesses to the same Eden-creation
+    timing pattern.
+  claim_level: same_motif
+  target: Bereshit Rabbah 15; Slavonic Enoch xxx.1; Book of Adam and Eve i.1
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The provided passage supplies only abbreviated citations and does not
+    quote or summarize each external source separately.
+- id: claim:2
+  claim: The passage contrasts a later pre-world paradise tradition in 4 Ezra iii.6
+    with the earlier third-day Eden creation view.
+  claim_level: same_motif
+  target: 4 Ezra iii.6 pre-world paradise tradition
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:1
+  confidence: medium
+  limitations: The traditions concern the same place but assign it different creation
+    times.
+- id: claim:3
+  claim: The passage links the pre-world Eden tradition to a linguistic or interpretive
+    reading of Genesis 2:8 and says this reading was adopted in the Targums, Syriac
+    and Latin Versions, and Aquila.
+  claim_level: linguistic_similarity
+  target: Genesis 2:8 interpretation in Targums, Syriac and Latin Versions, and Aquila
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states the interpretive relationship but does not provide
+    the full wording of the versions named.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4904-4908
+  quote_or_summary: Eden is said to be a creation of the third day, with Bereshit
+    Rabbah 15, Slavonic Enoch xxx.1, and Book of Adam and Eve i.1 cited; the note
+    calls this the earliest view according to available evidence.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 4909-4914
+  quote_or_summary: The note says that by the latter half of the first century A.D.
+    the Garden of Eden was said to have been created before the world, citing 4 Ezra
+    iii.6 and a Latin phrase about paradise before the earth.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 4914-4920
+  quote_or_summary: The note says the later view arose from interpreting Genesis 2:8
+    as “from the beginning” rather than “on the east,” and that this interpretation
+    was adopted by the Targums, Syriac and Latin Versions, and Aquila.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short public-domain phrases quoted for clarity.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly note rather than a continuous mythic narrative,
+    so extracted motifs are primarily cosmological and textual-tradition patterns
+    requiring human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was assigned because the passage does not explicitly mention a listed symbol such as tree, water, mountain, or serpent, and does not clearly support a listed motif family without over-interpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l4904-l4920
+  passage_sha256=c8e47789d495621f864a3d3528878e61de803e913b9a5dcc5241d48914ca79c1
+

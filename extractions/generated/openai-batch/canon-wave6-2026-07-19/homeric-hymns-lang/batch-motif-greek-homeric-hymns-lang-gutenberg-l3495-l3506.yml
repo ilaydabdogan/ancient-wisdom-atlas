@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.greek-homeric-hymns-lang-gutenberg-l3495-l3506
+source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+passage_locator:
+  label: XIV.  TO HERACLES THE LION-HEART / XV.  TO ASCLEPIUS / XVI.  TO THE DIOSCOURI
+    / XVII.  TO HERMES; lines 3495-3506
+  start: '3495'
+  end: '3506'
+  translation: The Homeric Hymns
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A hymn addresses Hermes with epithets, identifies him as Maia’s child by
+    Zeus, describes Maia’s secluded cave and Zeus’s hidden night visits while Hera
+    slept, and closes by hailing Hermes as son of Zeus and Maia, giver, guide, and
+    benefactor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The hymn sings of Cyllenian Hermes and names him slayer of Argus, prince of
+    Cyllene and Arcadia rich in sheep, and messenger of the Immortals.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Maia is said to have borne Hermes in relation to the love of Zeus, and Maia
+    is identified as the modest daughter of Atlas.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Maia shunned the company of the blessed Gods and lived in a shadowy cave.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Cronion was accustomed to lie with the fair-tressed nymph in the dark of night.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: During the night encounter, Hera was possessed by sweet sleep, and neither
+    Immortals nor mortal men knew of it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The hymn hails Hermes as son of Zeus and Maia, Giver of grace, Guide, and
+    Giver of good things.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hermes
+  description: Addressed as Cyllenian Hermes, slayer of Argus, prince of Cyllene and
+    Arcadia, messenger of the Immortals, son of Zeus and Maia, Giver of grace, Guide,
+    and Giver of good things.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Maia
+  description: Described as the modest daughter of Atlas and as the fair-tressed nymph
+    who bore Hermes to the love of Zeus; she shunned the gods and lived in a shadowy
+    cave.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Zeus / Cronion
+  description: Named as Zeus in relation to Maia bearing Hermes, and as Cronion in
+    the description of the night visits to Maia in the cave.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Atlas
+  description: Identified as Maia’s father.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hera
+  description: Described as white-armed Hera, possessed by sweet sleep during Cronion’s
+    night encounter with Maia.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: hymn recipient
+  assigned_to:
+  - fig:1
+  basis: The hymn opens by singing of Hermes and later hails him directly.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: messenger, guide, and giver
+  assigned_to:
+  - fig:1
+  basis: Hermes is called messenger of the Immortals, Guide, Giver of grace, and Giver
+    of good things.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: divine child of Zeus and Maia
+  assigned_to:
+  - fig:1
+  basis: The passage says Maia bore him to Zeus and later hails him as son of Zeus
+    and Maia.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: mother and secluded nymph
+  assigned_to:
+  - fig:2
+  basis: Maia bears Hermes, is called a nymph, shuns the gods, and dwells in a shadowy
+    cave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: father and hidden lover
+  assigned_to:
+  - fig:3
+  basis: Zeus is named in Hermes’ parentage, and Cronion is described as lying with
+    Maia at night in the cave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: father of Maia
+  assigned_to:
+  - fig:4
+  basis: Maia is identified as the daughter of Atlas.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: sleeping figure during concealed encounter
+  assigned_to:
+  - fig:5
+  basis: The passage says sweet sleep possessed Hera while the night encounter occurred.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: shadowy cave
+  literal_form: A shadowy cave where Maia dwells and where Cronion lies with her.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: dark night and sleep
+  literal_form: The dark of night and the sweet sleep that possesses Hera during the
+    encounter.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Cyllene and Arcadia rich in sheep
+  literal_form: Cyllene and Arcadia rich in sheep, named as Hermes’ regions of princely
+    association.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Opening praise of Hermes
+  summary: The hymn announces Hermes and gives him place-linked and functional epithets,
+    including messenger of the Immortals.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Maia’s secluded cave and hidden night encounter
+  summary: Maia avoids the company of the gods, lives in a shadowy cave, and Cronion
+    visits her there at night while Hera sleeps and no gods or mortals know.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Closing salutation to Hermes
+  summary: The hymn hails Hermes as son of Zeus and Maia and names him giver, guide,
+    and benefactor before moving to another song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine parent-child identification
+  taxonomy_refs:
+  - divine_parent_child
+  basis: 'Hermes is identified through Maia and Zeus: Maia bore him to Zeus, and the
+    hymn hails him as son of Zeus and Maia.'
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage gives parentage and hymn address, but does not narrate Hermes’
+    childhood or later deeds.
+- id: motif:2
+  label: Sacred birth from divine liaison
+  taxonomy_refs:
+  - sacred_birth
+  - divine_beloved
+  basis: Hermes’ birth is connected to Maia and the love of Zeus, with Cronion’s visits
+    to Maia described in the secluded cave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states bearing and sexual encounter but gives few details
+    of the birth itself; 'divine_beloved' is used cautiously for Maia’s relation to
+    Zeus.
+- id: motif:3
+  label: Secluded cave encounter
+  taxonomy_refs: []
+  basis: The narrative centers Maia’s withdrawal from the gods and her dwelling in
+    a shadowy cave where Cronion visits her at night.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a local passage-level motif; no broader cave-initiation or underworld
+    pattern is stated.
+- id: motif:4
+  label: Divine messenger and guide
+  taxonomy_refs: []
+  basis: Hermes is called the boon messenger of the Immortals and later Guide, Giver
+    of grace, and Giver of good things.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage gives titles and functions, but no narrative action of guiding
+    or message-bearing is shown.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports comparison at motif-family level with divine parent-child
+    patterns because Hermes’ identity is explicitly framed through Zeus and Maia.
+  claim_level: same_function
+  target: divine_parent_child motif family
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional motif classification only; it does not establish
+    historical contact or comparison to a specific outside text.
+- id: claim:2
+  claim: The shadowy cave functions as a secluded setting for a hidden divine encounter,
+    allowing cautious comparison to cave-as-concealment symbolic patterns.
+  claim_level: same_function
+  target: cave symbol / secluded divine encounter pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not state an initiation, descent, imprisonment, or
+    underworld cave; the comparison is limited to setting and concealment.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3495-3506
+  quote_or_summary: "“I sing of Cyllenian Hermes, slayer of Argus... the boon messenger
+    of the Immortals.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain; supplied metadata states full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 3495-3506
+  quote_or_summary: "“Him did Maia bear, the modest daughter of Atlas, to the love
+    of Zeus.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain; supplied metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 3495-3506
+  quote_or_summary: Maia shuns the blessed Gods, dwells in a shadowy cave, and Cronion
+    lies with her in the dark of night while Hera sleeps and no Immortals or mortal
+    men know.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain; supplied metadata states full text allowed.
+- id: ev:4
+  type: quote
+  locator: lines 3495-3506
+  quote_or_summary: "“Hail to thee, thou son of Zeus and Maia... Hail, Hermes, Giver
+    of grace, thou Guide, thou Giver of good things.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain; supplied metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from a short hymn passage. Motif labels
+    involving divine parentage and cave seclusion are well supported; broader taxonomy
+    alignment is cautious because the passage is brief.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The broader passage label mentions hymns XIV-XVII, but the provided passage text contains XVII. TO HERMES only.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-homeric-hymns-lang-gutenberg__l3495-l3506
+  passage_sha256=aaf73ad75e8ef222ea675a72b2db76f40218f57921baa4396c6d7fb09cfaaff4
+

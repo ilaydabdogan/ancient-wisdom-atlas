@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l1752-l1761
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: GOD.  2;; / GOD.  25 / GOD.  27 / PRAYER,  '31; lines 1752-1761
+  start: '1752'
+  end: '1761'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gathers cited examples of a practice of salutation or reverence:
+    a cap or hat is raised or removed before an elder or authority; another example
+    links reverence before a magistrate with removing a cap or biretta and petitioning
+    with bent knees; further French and German citations mention removing or lifting
+    a hat or garment in salutation or honor.'
+  language: English with Latin, French, and Middle High German citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator introduces the material as additional collected evidence about
+    a practice.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One cited Latin example describes a person addressing an elder after raising
+    a cap from the head.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One cited example describes a person rising, lifting a head covering, and
+    inclining respectfully.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Odofredus citation states that someone coming before a magistrate should
+    show reverence.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The same citation says the Ferrarienses would not remove a cap or biretta
+    from the head, nor petition with bent knees, even if before God.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A French citation glosses removing “la chape” as an act done in saluting.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: German citations in the passage mention lifting or removing the hat.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: elder
+  description: The senior person addressed in a cited example while a cap is raised
+    from the head.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: person showing reverence
+  description: A general person in the examples who raises or removes headwear, rises,
+    inclines, or comes before an authority.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: magistrate
+  description: The authority before whom Odofredus says someone should show reverence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Ferrarienses
+  description: A group said, in a polemical comparison, not to remove cap or biretta
+    or petition with bent knees even before God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: God
+  description: The divine figure in the hypothetical statement about the Ferrarienses
+    being before God.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: reverencing or saluting person
+  assigned_to:
+  - fig:2
+  basis: The cited examples describe someone raising or removing headwear, inclining,
+    or being expected to reverence an authority.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: recipient of reverence or address
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The elder is addressed while the cap is raised; the magistrate is named as
+    the person before whom reverence is owed.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: non-performing group in contrast example
+  assigned_to:
+  - fig:4
+  basis: The Ferrarienses are described as not removing headwear or bending knees
+    even before God.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: divine addressee in hypothetical contrast
+  assigned_to:
+  - fig:5
+  basis: God appears as the hypothetical presence before whom the Ferrarienses still
+    would not perform the gestures.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cap, hat, or biretta
+  literal_form: pileus; capellum; birretum; huot
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: bent knees
+  literal_form: flexis genibus
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: removed garment in salutation
+  literal_form: la chape
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cap raised before an elder
+  summary: A cited example presents a person addressing an elder after raising a cap
+    from the head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Expected reverence before magistrate and contrast before God
+  summary: A cited legal gloss says someone before a magistrate should show reverence,
+    then contrasts the Ferrarienses as people who would not remove headwear or petition
+    on bent knees even before God.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Additional salutation examples
+  summary: French and German citations are given for removing or lifting a garment
+    or hat in salutation or honor.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Removal or lifting of headwear as reverential salutation
+  taxonomy_refs: []
+  basis: Multiple cited examples associate raised or removed caps, hats, or related
+    garments with addressing an elder, saluting, honoring, or showing reverence before
+    authority.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is antiquarian evidence collection, not a single mythic narrative;
+    the motif label describes a ritualized gesture rather than a myth plot.
+- id: motif:2
+  label: Kneeling as petition before authority
+  taxonomy_refs: []
+  basis: The Odofredus citation refers to petitioning with bent knees, in contrast
+    to the Ferrarienses who would not do so.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The gesture appears in a negative or hypothetical comparison rather than
+    in an enacted scene.
+- id: motif:3
+  label: Refusal of expected reverence
+  taxonomy_refs: []
+  basis: The Ferrarienses are described as refusing both headwear removal and bent-knee
+    petition even before God.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The statement may be polemical and is not developed as a narrative episode
+    in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the collected examples, Latin, French, and German citations are presented
+    as parallel evidence for the same function: removing or lifting a cap, hat, or
+    garment as salutation, honor, or reverence.'
+  claim_level: same_function
+  target: Cited Latin, French, and German examples of salutation and reverence gestures
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports functional comparison among cited gestures, but
+    it does not establish historical origin, transmission, or a mythic narrative relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1752-1753
+  quote_or_summary: "“What else I have collected about this practice, may be inserted
+    here”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: line 1753
+  quote_or_summary: "“elevato a capite pileo alloquitur seniorem”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1754-1755
+  quote_or_summary: The Ruodlieb citation describes a person rising, lifting a head
+    covering, and inclining respectfully.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1755-1758
+  quote_or_summary: The Odofredus citation says a person before a magistrate should
+    show reverence, and contrasts Ferrarienses as people who would not remove cap
+    or biretta or petition with bent knees even before God.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: quote
+  locator: line 1758
+  quote_or_summary: "“oster la chape (in saluting)”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1758-1761
+  quote_or_summary: The German citations include phrases for lifting or taking off
+    the hat, including “gelUpfet den huot” and “sinen huot er abenam.”
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt and summary from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a list of philological citations with OCR irregularities and
+    mixed languages. The repeated gesture of headwear removal is clear, while precise
+    translation of some cited forms may require human verification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference clearly matches the headwear-removal reverence gesture; taxonomy_refs are therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l1752-l1761
+  passage_sha256=2a17ecd3ee2f843af87256ea2480b41d6bbe10f90855800609b77687fbb5a687
+

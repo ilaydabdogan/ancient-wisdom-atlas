@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l713-l728
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION I / SECTION II / SECTION III / SECTION IV; lines 713-728
+  start: '713'
+  end: '728'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists many Munis as sons of Viswamitra, says they were versed
+    in the knowledge of Brahma, states that Viswamitra, though Kshatriya by descent,
+    became a Brahmana because Richika placed the energy of supreme Brahma in the charu,
+    and concludes that the story of Viswamitra's birth and his solar, lunar, and fire-god
+    energy has been related to Yudhishthira.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A long group of named Munis is identified as sons of Viswamitra.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Munis are described as versed in the knowledge of Brahma.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Viswamitra is described as highly austere and devout.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Viswamitra is said to be a Kshatriya by descent who became a Brahmana.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Richika is said to have placed the energy of supreme Brahma in the charu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Viswamitra is described as possessing the energy of the sun, the moon, and
+    the fire-god.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker addresses king Yudhishthira and invites him to ask about any remaining
+    doubt.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Viswamitra
+  description: An austere and devout figure, Kshatriya by descent, said to have become
+    a Brahmana and to possess the energy of the sun, moon, and fire-god.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Richika
+  description: The figure who placed the energy of supreme Brahma in the charu.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: sons of Viswamitra
+  description: A listed group of Munis, including Vahuli, Mushala, Vakshogriva, Kapila,
+    Naradin, and others, described as sons of Viswamitra and versed in the knowledge
+    of Brahma.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Yudhishthira
+  description: The king addressed by the speaker at the end of the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ancestor of Munis
+  assigned_to:
+  - fig:1
+  basis: The named Munis are called sons of Viswamitra.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: status-transformed sage
+  assigned_to:
+  - fig:1
+  basis: Viswamitra is said to have been Kshatriya by descent and to have become a
+    Brahmana.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ritual agent placing Brahma energy
+  assigned_to:
+  - fig:2
+  basis: Richika is named as the one who placed supreme Brahma energy in the charu.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Brahma-knowing Munis
+  assigned_to:
+  - fig:3
+  basis: The listed Munis are said to be versed in the knowledge of Brahma.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: royal listener
+  assigned_to:
+  - fig:4
+  basis: The speaker addresses Yudhishthira as king and invites questions.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: charu containing Brahma energy
+  literal_form: charu into which the energy of supreme Brahma was placed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sun-moon-fire energy
+  literal_form: energy of the sun, the moon, and the fire-god
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: knowledge of Brahma
+  literal_form: knowledge of Brahma possessed by the Munis
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Genealogical catalog of Viswamitra's sons
+  summary: The passage names many Munis and identifies them as sons of Viswamitra
+    who possess knowledge of Brahma.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Transformation of Viswamitra through Brahma energy
+  summary: Viswamitra, though Kshatriya by descent, is said to have become a Brahmana
+    because Richika placed the energy of supreme Brahma in the charu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Closing address to Yudhishthira
+  summary: The speaker states that the birth story of Viswamitra has been related
+    and asks Yudhishthira to raise any further doubt.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual transfer of sacred energy enabling status transformation
+  taxonomy_refs:
+  - sacred_exchange
+  - initiation
+  basis: Richika places supreme Brahma energy in a charu, and Viswamitra is said to
+    become a Brahmana despite Kshatriya descent.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a compressed explanation and does not narrate the
+    full ritual sequence.
+- id: motif:2
+  label: sage lineage endowed with sacred knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The listed Munis are described as sons of Viswamitra and as versed in the
+    knowledge of Brahma.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is primarily a genealogical list and gives no individual episodes
+    for the sons.
+- id: motif:3
+  label: heroic or sage birth marked by celestial and fiery energy
+  taxonomy_refs:
+  - sacred_birth
+  basis: The speaker refers to the story of Viswamitra's birth and describes him as
+    possessing the energy of the sun, moon, and fire-god.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage alludes to a birth story but does not include detailed birth
+    events in this line range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 713-721
+  quote_or_summary: A long list of named Munis is given; they are identified as sons
+    of Viswamitra and as versed in the knowledge of Brahma.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 721-724
+  quote_or_summary: Viswamitra is described as highly austere and devout, Kshatriya
+    by descent, and as having become a Brahmana because Richika placed supreme Brahma
+    energy in the charu.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 724-727
+  quote_or_summary: The speaker says he has related the birth story of Viswamitra,
+    who possessed the energy of the sun, moon, and fire-god.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 727-728
+  quote_or_summary: The speaker addresses Yudhishthira and offers to answer any doubt
+    on another matter.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short concluding passage with a genealogical
+    list and compressed references to ritual transformation and birth; motifs require
+    review because the full surrounding narrative is not included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l713-l728
+  passage_sha256=3b31f9317c35c0e28397d69a29eb4d4cfcccfdc68cafb5a5b1596af6cb1bc02b
+

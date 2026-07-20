@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l102662-l102733
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH S / ARANYAKA IV / ARANYAKA V / ADHYAYA 2.; lines 102662-102733
+  start: '102662'
+  end: '102733'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is chiefly philological commentary on Vedic readings and parallels,
+    followed by translated liturgical lines invoking Mitra, Varuna, Indra, and Soma.
+    It includes requests for strength, food, prosperity, and wealth, and states that
+    Soma does not impel one who does not keep vows.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary discusses alternative interpretations of a phrase as either
+    a honey-rich plakṣa tree setting or a honey-rich dwelling.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The plakṣa, identified in the note as Ficus infectoria, is said to be used
+    as an upper barhis in another ritual source.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A translated line addresses an unnamed addressee as knowing what has been
+    before and what is now.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mitra and Varuna are asked to grant strength and food.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Indra is asked to make strength abundant.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Prosperity, strength, and wealth are requested for one who seeks gain.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Soma is said not to impel one who does not keep vows, and gain is said not
+    to come near such a person.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage describes a liturgical sequence in which three dvipadas are followed
+    by one dvipada.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The commentary repeatedly compares the readings of this passage with readings
+    in the Sāmaveda and Śāṅkhāyana traditions.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mitra
+  description: Named deity invoked together with Varuna for strength and food.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Varuna
+  description: Named deity invoked together with Mitra for strength and food.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Indra
+  description: Named deity asked to make strength abundant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Soma
+  description: Named divine figure or sacred power said not to impel a person who
+    does not keep vows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: One who seeks gain
+  description: Anonymous beneficiary for whom prosperity, strength, and wealth are
+    requested.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: One who keeps not vows
+  description: Anonymous person described as not being impelled by Soma and not approached
+    by gain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Grantors of strength and food
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Mitra and Varuna are directly asked to grant strength and food.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: Bestower or augmenter of strength
+  assigned_to:
+  - fig:3
+  basis: Indra is asked to make strength abundant.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Withholder of impulse from vow-neglector
+  assigned_to:
+  - fig:4
+  basis: Soma is said not to impel the person who does not keep vows.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Prospective recipient of prosperity and wealth
+  assigned_to:
+  - fig:5
+  basis: Prosperity, strength, and wealth are requested for the one who seeks gain.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Excluded non-vow-keeper
+  assigned_to:
+  - fig:6
+  basis: The person who keeps not vows is denied Soma's impulse and is not approached
+    by gain.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Honey-rich plakṣa tree
+  literal_form: A plakṣa tree described in commentary as rich in honey, offered as
+    one possible rendering of the disputed phrase.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Upper barhis made with plakṣa
+  literal_form: The plakṣa, identified as Ficus infectoria, used as an upper barhis
+    in a ritual context cited by the note.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Honey-rich tree or dwelling interpretation
+  summary: The commentary explains a disputed expression as possibly referring to
+    being beneath a honey-rich plakṣa tree or in a honey-rich dwelling.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prayer for strength and food
+  summary: Mitra and Varuna are asked for strength and food, and Indra is asked to
+    make strength abundant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Prosperity for the seeker and exclusion of the vow-neglector
+  summary: Prosperity, strength, and wealth are requested for the seeker of gain,
+    while Soma is said not to impel the person who does not keep vows.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Dvipada liturgical sequence
+  summary: The passage states that three dvipadas occur, beginning with 'This Brahman,'
+    followed by one dvipada.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Ritual request for divine provision
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The translated lines request strength, food, prosperity, and wealth from
+    named deities or in a liturgical setting.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives brief liturgical excerpts rather than a full narrative
+    of exchange or sacrifice.
+- id: motif:2
+  label: Vow observance as condition for gain
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage states that Soma does not impel the one who does not keep vows
+    and that gain will not come near him.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The mechanism is stated formulaically; the passage does not narrate a
+    specific act of reward or punishment.
+- id: motif:3
+  label: Knowledge of past and present
+  taxonomy_refs:
+  - wisdom
+  basis: A translated line describes an unnamed addressee as knowing what has been
+    before and what is now.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The addressee is not identified in the supplied excerpt, and the line
+    is embedded in textual commentary.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself notes parallel or variant readings in Śāṅkhāyana and Sāmaveda
+    materials, supporting a cautious nearby-corpus textual comparison.
+  claim_level: linguistic_similarity
+  target: Śāṅkhāyana and Sāmaveda parallel readings cited in the commentary
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence concerns textual readings and liturgical parallels, not
+    an independently demonstrated mythological motif transmission.
+- id: claim:2
+  claim: The cited Sāmaveda version described in the commentary presents a functionally
+    similar idea that a person who does not pay vows does not obtain desire or wealth.
+  claim_level: same_function
+  target: Sāmaveda version of the vow-and-wealth verse cited in the note
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the commentary's quoted or summarized
+    Sāmaveda verse and should not be generalized beyond this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 102662-102676
+  quote_or_summary: The note says the disputed words may mean 'beneath the ... tree
+    rich in honey' or, in another interpretation, 'in a dwelling rich in honey'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: summary
+  locator: 102675-102676
+  quote_or_summary: The note identifies the plakṣa as Ficus infectoria and says it
+    is used as an upper barhis in the Śatapatha Brāhmaṇa.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:3
+  type: quote
+  locator: 102692-102694
+  quote_or_summary: '"that dost know indeed all that has been aforetime or that is
+    now"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:4
+  type: quote
+  locator: 102693-102695
+  quote_or_summary: '"O Mitra and Varuna, grant us strength and food. O Indra, make
+    us strength abounding."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:5
+  type: quote
+  locator: 102695-102697
+  quote_or_summary: '"(Grant) prosperity, strength, wealth, to him who seeks gain,"
+    Soma impels not him who keeps not vows, gain will not come near him."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short quote used.
+- id: ev:6
+  type: summary
+  locator: 102697-102698
+  quote_or_summary: After the translated lines, the passage states that three dvipadas
+    begin with 'This Brahman,' followed by one dvipada.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:7
+  type: summary
+  locator: 102662-102733
+  quote_or_summary: The commentary compares readings with Śāṅkhāyana and Sāmaveda
+    passages several times, noting variant forms and parallel passages.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:8
+  type: summary
+  locator: 102724-102733
+  quote_or_summary: The note gives a Sāmaveda version meaning that health, dwelling,
+    and prosperity are for the seeker of wealth, while the man who pays no vows does
+    not obtain desire or wealth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage is mostly philological commentary with brief liturgical
+    excerpts. Motif extraction is therefore limited to explicit invocations, vow language,
+    and cited textual parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs beyond the provided motif families and symbols were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l102662-l102733
+  passage_sha256=e386a1e8e3c4717407676e95be8300e65da76f43cfe151e919a03da5ae446f4e
+

@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l3119-l3135
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: CAME   TO   FIJI  23 / CAME   TO   FIJI  25 / TO   BUILD   THEIR   CANOES  29
+    / TO   BUILD   THEIR   CANOES  31; lines 3119-3135
+  start: '3119'
+  end: '3135'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After rising waters and a receding sea, people who had fled are brought
+    into valleys and become servants of chiefs, building canoes. A banyan tree formerly
+    used by a dove is carried by the great flood to Vatu-lele; earth on its roots
+    turns a reef into land where people dwell. The passage closes by explaining this
+    as the way Fijians learned to build canoes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some people had fled before the rising waters.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the sea went back, those people were taken down into valleys in every
+    kingdom.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The people became servants of chiefs and built canoes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A dove used to sit on a banyan tree.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The banyan tree was carried by the great flood to Vatu-lele.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Vatu-lele was described as a reef with no land on it in those days.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Earth clinging to the banyan tree's roots caused Vatu-lele to become land,
+    and people came to live there.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage presents the events as an explanation for how the men of Fiji
+    learned to build canoes.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: people who fled before the rising waters
+  description: People who fled before rising waters, were later brought down into
+    valleys, and became servants of chiefs who built canoes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: chiefs
+  description: Chiefs served by the people who became canoe builders.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: dove
+  description: A dove that used to sit on the banyan tree.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: men who dwelt on Vatu-lele
+  description: Men who came and dwelt on the land formed at Vatu-lele.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: men of Fiji
+  description: The speaking community named at the end as those who learned to build
+    canoes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: flood refugees
+  assigned_to:
+  - fig:1
+  basis: They had fled before the rising waters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: servants and canoe builders
+  assigned_to:
+  - fig:1
+  basis: They became servants of chiefs and built canoes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: chiefs served by canoe builders
+  assigned_to:
+  - fig:2
+  basis: The passage says the people became servants of the chiefs and built their
+    canoes.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: bird associated with the banyan tree
+  assigned_to:
+  - fig:3
+  basis: The dove used to sit on the banyan tree.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: inhabitants of newly formed land
+  assigned_to:
+  - fig:4
+  basis: Men came and dwelt on Vatu-lele after it became land.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: learners of canoe building
+  assigned_to:
+  - fig:5
+  basis: The closing sentence says the men of Fiji learned to build canoes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rising waters and great flood
+  literal_form: rising waters, receding sea, and great flood
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: banyan tree with earth-clinging roots
+  literal_form: banyan tree carried by the flood, with earth clinging to its roots
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: dove on banyan tree
+  literal_form: dove that used to sit on the banyan tree
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Vatu-lele reef becoming land
+  literal_form: a reef with no land that becomes land through earth on the banyan
+    roots
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: canoes
+  literal_form: canoes built for chiefs and learned by the men of Fiji
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: After the waters recede
+  summary: People who had fled the rising waters are brought into valleys after the
+    sea returns to its place, then become servants of chiefs and build canoes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Banyan carried to Vatu-lele
+  summary: The flood carries the banyan tree, formerly used by a dove, to Vatu-lele.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Reef becomes inhabited land
+  summary: Vatu-lele, formerly a reef without land, becomes land from earth clinging
+    to the banyan roots, and people come to dwell there.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Etiology of canoe building
+  summary: The narrator states that these events explain how the men of Fiji learned
+    to build canoes.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: flood and renewal aftermath
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage refers to rising waters, a receding sea, and a great flood whose
+    aftermath changes human settlement and land formation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is an aftermath episode rather than a full flood narrative.
+- id: motif:2
+  label: tree-borne land formation
+  taxonomy_refs: []
+  basis: A banyan tree carried by the flood brings enough earth on its roots for Vatu-lele
+    to become land.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No explicit sacred or cosmological status is assigned to the tree in this
+    passage.
+- id: motif:3
+  label: origin of canoe-building knowledge
+  taxonomy_refs: []
+  basis: The passage explicitly concludes that this is how the men of Fiji learned
+    to build canoes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The immediate mechanism of learning is only summarized in this excerpt.
+- id: motif:4
+  label: post-flood social reordering
+  taxonomy_refs: []
+  basis: People who fled the waters are later brought into valleys and become servants
+    of chiefs, building canoes.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states the social outcome but does not give a full institutional
+    explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3121-3125
+  quote_or_summary: People fled before rising waters; after the sea went back, they
+    were taken into valleys and became servants of chiefs, building canoes.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3127-3128
+  quote_or_summary: '"the banyan tree, on which the dove used to sit" was "carried
+    away by the great flood to Vatu-lele."'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 3129-3132
+  quote_or_summary: Vatu-lele is described as once being only a reef with no land;
+    earth clinging to the banyan roots made it become land, and men came to dwell
+    there.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3134-3135
+  quote_or_summary: '"this is how we, the men of Fiji, learned to build our canoes."'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based on the supplied passage only. Motif candidates
+    are limited to explicit flood aftermath, land formation, social reordering, and
+    canoe-building etiology. No cross-tradition comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this account with another text or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l3119-l3135
+  passage_sha256=355b76fa5e41b566e52fcdc36a02c92fa4fdf0ce67d6269adbab53ed754a13d2
+

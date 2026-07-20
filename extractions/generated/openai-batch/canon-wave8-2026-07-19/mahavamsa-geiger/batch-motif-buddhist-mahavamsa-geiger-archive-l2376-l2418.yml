@@ -1,0 +1,204 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l2376-l2418
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: Y. M. D. / XXXV111 / Y. M. D. / Y. M. D.; lines 2376-2418
+  start: '2376'
+  end: '2418'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Scholarly notes discuss chronological reckoning, a reported embassy of
+    Mo-ho-nan/Mahanama to China, a conflict with the stated reign of Upatissa II in
+    Ceylon, references to works on the Buddha and royal lists, and an OCR-like fragment
+    of isolated characters and numbers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage cites scholarly references bearing on a reckoning from 483 B.C.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage notes a chronological difficulty about an embassy of Mo-ho-nan,
+    identified as Mahanama, to China in 428 A.D.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Upatissa II, not Mahanama, reigned in Ceylon at the
+    time in question, and that Mahanama did not ascend the throne until 458 A.D.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage cites Bigandet's work on the life or legend of Gaudama the Buddha.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage refers to an enumeration of kings from Bimbisara to Nagadasa.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage notes that the name of Candragupta is missing from a referenced
+    discussion.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The final portion consists of isolated letters, numbers, and symbols rather
+    than a coherent narrative passage.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mo-ho-nan / Mahanama
+  description: Named in connection with an embassy to China in 428 A.D.; the passage
+    identifies Mo-ho-nan as Mahanama and states that Mahanama did not ascend the throne
+    until 458 A.D.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Upatissa II
+  description: Described as Mahanama's elder brother and as the ruler then reigning
+    in Ceylon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Gaudama the Buddha
+  description: Named in the title of a cited work, The Life or Legend of Gaudama the
+    Buddha.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Bimbisara
+  description: Named as one endpoint in a referenced enumeration of kings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Nagadasa
+  description: Named as one endpoint in a referenced enumeration of kings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Candragupta
+  description: Named as absent from a referenced discussion or list.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: throne ascendant after disputed date
+  assigned_to:
+  - fig:1
+  basis: The passage states that Mahanama did not ascend the throne until 458 A.D.,
+    after the 428 A.D. embassy date under discussion.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: reigning elder brother
+  assigned_to:
+  - fig:2
+  basis: The passage states that Upatissa II, the elder brother of Mahanama, reigned
+    in Ceylon at the relevant time.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: named king in enumeration
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage says that kings from Bimbisara to Nagadasa are enumerated in
+    a cited source.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: missing named figure
+  assigned_to:
+  - fig:6
+  basis: The passage remarks that Candragupta's name is missing.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2376-2381
+  quote_or_summary: A note cites Sylvain Levi and E. R. Ayrton concerning evidence
+    for a reckoning from 483 B.C.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2381-2388
+  quote_or_summary: A note discusses an embassy of Mo-ho-nan, identified as Mahanama,
+    to China in 428 A.D.; it says Upatissa II was then reigning in Ceylon and Mahanama
+    ascended the throne only in 458 A.D.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: citation
+  locator: 2390-2392
+  quote_or_summary: Citation to Bigandet, The Life or Legend of Gaudama the Buddha,
+    with page references.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; citation only.
+- id: ev:4
+  type: summary
+  locator: 2394-2395
+  quote_or_summary: A note refers to sources where kings from Bimbisara to Nagadasa
+    are enumerated.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2397-2399
+  quote_or_summary: A note cites Burnouf and remarks that the name of Candragupta
+    is missing.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: 2401-2418
+  quote_or_summary: The passage ends with isolated OCR-like characters, numbers, and
+    symbols, not a coherent narrative.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is primarily scholarly notes and OCR-like residue rather than
+    mythic or narrative material. Named persons and chronological statements are extractable,
+    but no motif or symbol candidates are supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs, symbols, scenes, or comparison claims were extracted because the supplied passage does not support them.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l2376-l2418
+  passage_sha256=62cdea69b042908d837118c6a7e5eb7d704e03cd3252328e086b848b54e906f2
+

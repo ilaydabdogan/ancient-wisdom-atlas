@@ -1,0 +1,555 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l23420-l23545
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: II. A CERTIFICATE OF ADOPTION1 / IV. THE CODE OF HAMMURAPI / LITERATURE /
+    PROLOGUE1; lines 23420-23545
+  start: '23420'
+  end: '23545'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Extract from the Code of Hammurapi setting legal consequences for unauthorized
+    grazing, cutting an orchard tree, garden-planting and garden-management contracts,
+    neglect of fields, produce sharing, a textual lacuna, and the beginning of a debt
+    case involving garden dates.
+  language: English with transliterated Akkadian excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A shepherd who pastures sheep on a field without the field owner's consent
+    must compensate the owner after the owner reaps the field.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If sheep have left the meadow and been closed within the gate, and a shepherd
+    then turns them into a field, the shepherd is liable for a larger grain payment
+    at harvest.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A man who cuts down a tree in another man's orchard without the owner's consent
+    must pay one half mina of silver.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When a field is given to a gardener to plant as a garden, after four years
+    of care the owner and gardener share equally in the fifth year, and the owner
+    marks off and takes his share.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: If the gardener does not plant the whole field and leaves a waste place, the
+    waste portion is assigned to the gardener's share.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If the gardener fails to plant an arable field as a garden, he must compensate
+    the owner according to adjacent fields, perform the required work, and restore
+    the field.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: If the field was unreclaimed land, the gardener must perform the required
+    work, restore it, and measure out ten GUR of grain per GAN for each year.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A gardener managing another man's garden gives the owner two thirds of the
+    produce and keeps one third while holding the garden.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: If a gardener has not properly tilled the garden and has diminished the produce,
+    he measures out produce according to the adjacent gardens.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: An editorial note states that five columns of the text are erased, that the
+    lost material probably contained about thirty-five sections, and that restored
+    numbering is doubtful.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: In the beginning of a restored section, a man who has borrowed from a merchant
+    offers the dates produced in a cultivated garden for the debt, but the merchant
+    is not to assent; the possessor of the garden may take the dates before payment
+    is made.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: shepherd
+  description: A shepherd who pastures or turns sheep into another person's field.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: owner of the field
+  description: The field owner whose land is grazed or who receives compensation and
+    restoration for field-related losses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: tree-cutter
+  description: A man who cuts down a tree in another man's orchard without consent.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: owner of the orchard
+  description: The owner of the orchard in which the tree is cut down.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: gardener
+  description: A contracted gardener who plants, manages, tills, shares produce from,
+    or restores a garden or field.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: owner of the garden or planting field
+  description: The owner who gives a field or garden to a gardener and receives a
+    share of produce or restoration.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: merchant
+  description: A merchant creditor who has lent money and warned the borrower to pay.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: borrower or debtor
+  description: A man who borrowed money, had nothing to give, gave over a cultivated
+    garden, and offered dates from it for the debt.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: possessor of the garden
+  description: The person stated to be entitled to take the dates produced in the
+    garden before paying the merchant.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: unauthorized grazier
+  assigned_to:
+  - fig:1
+  basis: The shepherd pastures sheep on another's field without the owner's consent
+    and owes grain compensation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: injured field owner and restitution recipient
+  assigned_to:
+  - fig:2
+  basis: The field owner reaps the field and receives grain compensation or restoration
+    when the land is grazed or neglected.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: orchard tree offender
+  assigned_to:
+  - fig:3
+  basis: The man cuts a tree in another man's orchard without consent and must pay
+    silver.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: injured orchard owner
+  assigned_to:
+  - fig:4
+  basis: The orchard owner is the person whose tree is cut down without consent.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: contracted cultivator
+  assigned_to:
+  - fig:5
+  basis: The gardener plants or manages the garden, shares produce, and is liable
+    for waste, neglect, or diminished yield.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: land or garden owner in cultivation contract
+  assigned_to:
+  - fig:6
+  basis: The owner gives land or a garden to the gardener and receives marked shares,
+    produce portions, compensation, or restored land.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:7
+  label: merchant creditor
+  assigned_to:
+  - fig:7
+  basis: The merchant has lent money, warned the debtor, and is addressed in the proposed
+    payment with dates.
+  evidence_refs:
+  - ev:8
+- id: role:8
+  label: debtor offering garden produce
+  assigned_to:
+  - fig:8
+  basis: The borrower has nothing to give and offers all dates produced in the garden
+    for the money owed.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: garden possessor with produce right
+  assigned_to:
+  - fig:9
+  basis: The passage states that only the possessor of the garden may take the dates
+    produced there before payment to the merchant.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: tree in a man's orchard
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: sheep
+  literal_form: sheep pastured on grass, meadow, and field
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: field and meadow
+  literal_form: field, grass, meadow, and gate where sheep are pastured or confined
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: grain compensation
+  literal_form: measured grain or corn payments in GUR per GAN
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: silver penalty
+  literal_form: one half mina of silver
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: garden or orchard
+  literal_form: garden or orchard planted, managed, shared, pledged, and producing
+    dates
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: sym:7
+  label: produce shares and dates
+  literal_form: equal shares, two-thirds and one-third shares, and dates produced
+    in the garden
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Unauthorized grazing without consent
+  summary: A shepherd pastures sheep on a field without the owner's consent; the owner
+    reaps the field, and the shepherd owes a fixed grain payment per GAN.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sheep turned into field after leaving meadow
+  summary: After sheep leave the meadow and are closed within the gate, a shepherd
+    turns them into a field and is liable for a larger grain payment at harvest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tree cut in another man's orchard
+  summary: A man cuts down a tree in another man's orchard without consent and must
+    pay a fixed silver penalty.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Garden planting contract and division
+  summary: A field is given to a gardener to plant; after four years the owner and
+    gardener share equally, and any waste place left unplanted is assigned to the
+    gardener's portion.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Neglected field restored to owner
+  summary: A gardener who fails to plant an arable or unreclaimed field as required
+    must compensate the owner, perform the work, and restore the field.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Managed garden and diminished produce
+  summary: A gardener managing a garden gives the owner two thirds of the produce,
+    keeps one third, and is liable according to adjacent gardens if improper tilling
+    diminishes the yield.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Debt case involving garden dates
+  summary: A debtor offers dates produced in a cultivated garden to a merchant creditor,
+    but the merchant must not assent; the garden possessor has the stated right to
+    take the dates before payment.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Agricultural trespass compensated by measured grain
+  taxonomy_refs: []
+  basis: Unauthorized grazing by a shepherd leads to fixed grain compensation to the
+    field owner, with different amounts for different circumstances.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a legal pattern rather than a mythological motif; no supplied
+    motif-family taxonomy reference is directly supported.
+- id: motif:2
+  label: Damage to an orchard tree answered by fixed silver payment
+  taxonomy_refs: []
+  basis: Cutting down a tree in another man's orchard without consent requires payment
+    of one half mina of silver.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The tree is a literal legal object here; no symbolic or sacred-tree interpretation
+    is stated.
+- id: motif:3
+  label: Cultivation contract with delayed sharing and restoration obligations
+  taxonomy_refs: []
+  basis: The gardener's obligations include planting, sharing produce after a term,
+    bearing waste portions, restoring neglected land, and compensating diminished
+    yield.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a contractual/legal pattern, not a narrative mythic episode.
+- id: motif:4
+  label: Creditor claim limited against garden produce
+  taxonomy_refs: []
+  basis: A debtor offers garden dates for a debt, but the merchant is forbidden to
+    assent, and the possessor of the garden retains the right to take the dates before
+    payment.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The section is partial and follows an editorially noted lacuna; the final
+    terms of payment are incomplete in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23420-23545; §57
+  quote_or_summary: If a shepherd pastures sheep on a field without the owner's consent,
+    the owner reaps the field and the shepherd gives twenty GUR of corn per GAN to
+    the owner.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 23420-23545; §58
+  quote_or_summary: If, after the sheep leave the meadow and are closed within the
+    gate, a shepherd turns them into the field, he must keep it and at harvest measure
+    sixty GUR of grain per GAN to the owner.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 23420-23545; §59
+  quote_or_summary: A man who cuts down a tree in another man's orchard without consent
+    must pay one half mina of silver.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 23420-23545; §§60-61
+  quote_or_summary: A field given to a gardener for planting is shared equally in
+    the fifth year after four years of care; if the gardener leaves a waste place,
+    that waste is assigned to his portion.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 23420-23545; §§62-63
+  quote_or_summary: A gardener who fails to plant an assigned field must compensate
+    according to adjacent fields or pay ten GUR per GAN per year for unreclaimed land,
+    perform the work, and restore the field to the owner.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 23420-23545; §§64-65
+  quote_or_summary: A gardener managing a garden gives two thirds of its produce to
+    the owner and keeps one third; if he tills improperly and diminishes produce,
+    he measures produce according to adjacent gardens.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: note
+  locator: lines 23420-23545; editorial note after §65
+  quote_or_summary: The editor states that five columns are erased, estimates about
+    thirty-five lost sections, and notes that restored numbering from fragments and
+    later Assyrian copies is doubtful.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 23420-23545; restored §A
+  quote_or_summary: A borrower from a merchant, having nothing to give, offers all
+    dates produced in a cultivated garden for the debt; the merchant is not to assent,
+    and the garden possessor may take the dates before paying the merchant.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The legal provisions are clear enough for extracting actors, objects, and
+    legal patterns, but the passage includes OCR/transliteration noise, an editorial
+    lacuna, and no explicit mythological or comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a cautious comparison to another motif family, text, or tradition. Available taxonomy symbol 'tree' is applied only to the literal orchard tree.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l23420-l23545
+  passage_sha256=3c674c9955a485f7ae07deabb0a4ee817f5f6bdc2966d8025bd0c1440e2b867b
+

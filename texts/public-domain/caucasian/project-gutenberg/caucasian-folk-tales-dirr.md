@@ -23,7 +23,7 @@ provenance:
   publication_year: 1925
   publisher: Internet Archive
   source_url: https://archive.org/details/dirr-1925-caucasian-folk-tales
-  access_date: '2026-07-18'
+  access_date: '2026-07-19'
 rights:
   status: public_domain
   jurisdiction: US
@@ -66,138 +66,6 @@ figures:
 
 # Caucasian Folk-Tales
 
-This is a reproduction of a library book that was digitized
-by Google as part of an ongoing effort to preserve the
-information in books and make it universally accessible.
-
-
-Google books
-
-
-https://books.google.com
-
-
-' TTY
-Fras ent \ Coane: i |
-
-
-(oo
-
-
-H
-
-
-“LIBRARY CLE OF THE |
-
-
-ouves A Ney ;
-
-
-ra
-
-
-t=
-He
-|
-E
-E
-iz
-is
-E
-E
-E
-is
-
-
-CUT ES Tee
-
-
-re fey.
-TEATAMA LONN NON TANUAN Aa = o pA TMM
-
-
-aE ENRAMA
-
-
-r
-
-
-5
-F
-;
-£
-Z
-3
-p
-E
-Š
-Z
-£
-=
-5
-=
-E
-a
-E
-Z
-Z
-i
-
-
-HOTYUUDUUNUTUUULURU LUN URANU
-
-
-p=
-
-
-CR
-FED
-C3
-TE T3
-A
-
-
-Digitized by Google
-
-
-CAUCASIAN FOLK-TALES
-
-
-BS
-
-
-CAUCASIAN
-FOLK-TALES
-
-
-SELECTED & TRANSLATED FROM
-THE ORIGINALS BY ADOLF DIRR
-
-
-TRANSLATED INTO ENGLISH
-BY
-
-
-LUCY MENZIES
-
-
-1925
-NEW YORK
-E. P. DUTTON & CO.
-
-
-All rights reserved
-
-
-PRINTED IN GREAT BRITAIN
-
-
-elh. epee
-Loren LA ra.
-(O-r.b-+ 37
-Jlos G
-
-
 INTRODUCTION
 
 
@@ -209,13 +77,11 @@ between Pontus and the Caspian Sea, between Europe
 and Asia, has been connected with man’s inherent love
 of story-telling.
 
-Just as a map of the races of the Caucasus is varie-
-gated, showing more than sixty different peoples, so
+Just as a map of the races of the Caucasus is variegated, showing more than sixty different peoples, so
 also is its folk-lore. It is significant that the Caucasus
 lies almost in the centre of a region round which the
 great migrations of European pre-Asiatic peoples took
-place. In the south and south-west, the ancient king-
-doms of the Hethites, Sumerians, the Babylonians and
+place. In the south and south-west, the ancient kingdoms of the Hethites, Sumerians, the Babylonians and
 Assyrians rose up and died away. In the east, the fierce
 struggle between Iran and Turan, made known to us
 by the Schah-Nameh, was fought out. The Scythians
@@ -233,26 +99,21 @@ everywhere victorious. The Mongol invasions and the
 and finally the Muscovite kingdom stirred up strife
 between the Caucasians, the Turks and the Persians.
 But the Muscovite domination brought peace for a
-century, till the outbreak of the world-war, the Cau-
-casus being protected by the Russians from the lust
+century, till the outbreak of the world-war, the Caucasus being protected by the Russians from the lust
 of conquest of its neighbours.
 
 What history tells—and of course merely the broad |
 
 v
-
-
 vi INTRODUCTION
 
 
-outline can be given here—is fully borne out by philo-
-logy. Half a dozen Tatar dialects, three or four Iranian,
+outline can be given here—is fully borne out by philology. Half a dozen Tatar dialects, three or four Iranian,
 an ancient form of Iranian, Ossetian, Armenian, Greek
 and the native Caucasian tongues are all found in this
 region. Kinship with Semitic languages has been claimed
 for Georgian with its dialects and related tongues, and
-it has been attempted to separate the Caucasian ele-
-ments out of the Finnish-Magyar tongues, as well as
+it has been attempted to separate the Caucasian elements out of the Finnish-Magyar tongues, as well as
 many traces of ancient and modern migrations. We are
 driven to the conclusion that the Caucasus represents
 an island lying in the maelstrom of the wanderings of
@@ -291,10 +152,7 @@ early European sources. The contents have not really
 
 
 INTRODUCTION Vil
-
-
-altered, the story has simply—as in other lands—crys-
-tallised round the personality circumstances happened
+altered, the story has simply—as in other lands—crystallised round the personality circumstances happened
 to offer. A character regarded with boundless affection
 in the Caucasus is Mullah Nasreddin. He is our good
 old friend out of Ak Schehir, the Turkish Chodja Nasr-
@@ -312,19 +170,16 @@ familiar with Chodja’s merry pranks.
 The following case is even more remarkable. In the
 year 1904 I spent the summer in a shepherd’s hut high
 up in Thuschetia, collecting information about Batsian,
-a Tchetchen language. The natives up there are a wide-
-awake, energetic race, worthy of a high civilisation.
+a Tchetchen language. The natives up there are a wideawake, energetic race, worthy of a high civilisation.
 But as they all speak Georgian and many of them also
 read and write it, it was almost impossible for me to
 get genuine native material. At last a very old man
 volunteered; he could tell me traditional tales, he said.
 I wrote and wrote to his dictation, but every story he
 told me seemed curiously familiar. When at last he
-told me the Tell story almost word for word, I remon-
-strated. I said I knew it all already, that it was not
+told me the Tell story almost word for word, I remonstrated. I said I knew it all already, that it was not
 native material. But he insisted it was a story he had
-heard from old natives in his youth. It was only after-
-wards that he remembered—and I do not doubt his
+heard from old natives in his youth. It was only afterwards that he remembered—and I do not doubt his
 good faith—that he had read the story in a Georgian
 reader when he was at school at Thelaw. The story of
 The Beautiful Helena probably came in a similar way—
@@ -350,8 +205,7 @@ national romances and so on. The titles of the various
 tales are partly chosen by myself, partly taken over
 from the originals.
 
-The translation is as literal as is consistent with legi-
-bility and the spirit of the original languages. . . . The
+The translation is as literal as is consistent with legibility and the spirit of the original languages. . . . The
 notes on the sources only state from what language the
 tale is taken; they do not attempt to indicate the wide
 region over which the tale is to be met with. Of many
@@ -438,8 +292,7 @@ Many ruins, rocks, plains and mountains still have names
 connected with the Nart Sagas. These stories probably
 have their origin in a very ancient heroic saga and are much
 intermixed with mythological features. This material still
-awaits its student. The first necessity would be to estab-
-lish what exactly the ancient Nart sagas are, and what
+awaits its student. The first necessity would be to establish what exactly the ancient Nart sagas are, and what
 foreign matter has grouped itself round the chief figures
 of these sagas. l
 
@@ -568,8 +421,6 @@ xi
 
 Imeretian
 Georgian
-
-
 a0
 oo
 
@@ -588,12 +439,7 @@ Tchetchen
 Kabardian
 
 
-99
-
-
 Tatian
-
-
 xii
 
 
@@ -626,8 +472,6 @@ II. ANIMAL FABLES—
 . The Foal, the Goat and the Pig
 . The Cheated Fox :
 . The Bird who was clever for
-
-
 others . `
 
 
@@ -645,8 +489,6 @@ Mule .
 
 
 . The Wolf, the Bear, the Fox
-
-
 and the Donkey
 
 
@@ -695,7 +537,6 @@ IV. Rustum Sacas—Variants
 
 Ossetian
 
-33
 Armenian
 Kunikian
 
@@ -726,8 +567,6 @@ Armenian
 
 
 Ossetian
-
-
 oD
 
 
@@ -739,55 +578,6 @@ Tatar
 
 
 PAGE
-
-
-144
-149
-150
-155
-
-
-163
-164
-
-
-166
-167
-168
-169
-
-
-170
-172
-
-
-173
-174
-176
-178
-180
-
-
-181
-
-
-183
-186
-
-
-188
-189
-I9I
-193
-197
-199
-202
-204
-208
-
-
-220
-230
 
 
 CONTENTS
@@ -816,7 +606,6 @@ VIII. ALEXANDER THE GREAT—
 
 
 79, 71
-72
 
 
 IX. KnavisH TRICKS—
@@ -883,47 +672,6 @@ Lahitsch
 
 
 PAGE
-248
-250
-254
-255
-259
-
-
-261
-
-
-265
-
-
-268
-271
-
-
-274
-275
-
-
-276
-280
-282
-
-
-286
-288
-290
-291
-292
-
-
-293
-
-
-295
-296
-
-
-298
 
 
 CAUCASIAN FOLK-TALES
@@ -940,8 +688,7 @@ of God and shot his net to the happiness and good
 fortune of his son. He caught so many fish that he could
 hardly pull the net ashore, and as he looked among
 them he saw a wonderful blood-red fish. He said to his
-son, “I will go home and bring the arba” (the two-
-wheeled cart used in the Caucasus). ‘‘ You look after
+son, “I will go home and bring the arba” (the twowheeled cart used in the Caucasus). ‘‘ You look after
 the fish in the meantime, and take special care not to
 let the red fish out of your sight.”
 
@@ -1006,8 +753,6 @@ As he went he saw a pack of greyhounds chasing a
 fox and coming nearer and nearer to their prey. The
 youth was sorry for the fox and hid him under the
 skirts of his coat. When the greyhounds were far away,
-
-
 aw
 
 
@@ -1089,8 +834,7 @@ The stag took him on its back and ran like the wind.
 Behind the ninth mountain he stopped, hid the youth
 in a cave and stood himself before the opening. But the
 maiden looked again in her mirror, sought and sought,
-and at last espied him after much searching. The follow-
-ing day the youth came proudly up to her.
+and at last espied him after much searching. The following day the youth came proudly up to her.
 
 “Oh, that also was quite useless!” she said. “I saw
 you quite well. You were behind the ninth mountain
@@ -1098,8 +842,7 @@ in a cave and the stag stood in front of you.” The
 youth became more and more perplexed and began to
 feel anxious.
 
-He left the castle again, and sought a third hiding-
-place. When he came to a meadow, he pulled out his
+He left the castle again, and sought a third hidingplace. When he came to a meadow, he pulled out his
 feather and called the crane. It flew down at once,
 greeted him and asked: “ What is wrong, good friend? ”
 - The youth told him, “I must hide myself in such a
@@ -1129,8 +872,7 @@ He went to a meadow again, pulled out the fox’s hair
 and called the fox. It sprang forward at once, greeted
 the youth and asked: “ What is wrong, dear friend? ”
 
-The youth told his story—‘‘I must hide myself some-
-where where this sharp-eyed maiden cannot see me,
+The youth told his story—‘‘I must hide myself somewhere where this sharp-eyed maiden cannot see me,
 otherwise I go at once to the gallows!”
 
 “Have no fear,” said the fox. “Go to her and ask for
@@ -1152,9 +894,6 @@ find him anywhere.
 
 “Where are you then, you wizard?” she cried at
 last. “Come here, for I cannot find you anywhere!”
-
-
-6 FAIRY TALES
 
 
 From under her divan came the voice of the youth’
@@ -1247,9 +986,6 @@ the loaf, they were astonished and asked him what
 he was doing there.
 
 
-8 FAIRY TALES
-
-
 “I had a dreadful pain in my inside,” answered
 Cinder-Stick, “‘and so I laid the warm loaf on it to make
 it better. It is better now, you can take the loaf away!”
@@ -1267,8 +1003,7 @@ Stick, spade in hand, about to dig out the wine-barrel.
 “What on earth are you doing there?” they asked.
 
 “Oh, it will be much easier to take the barrel out!”
-he answered. “What is the use of my running back-
-wards and forwards with that little jug?”
+he answered. “What is the use of my running backwards and forwards with that little jug?”
 
 But now the Divs began to get alarmed. “If nine of
 us can hardly move that wine-barrel empty, and he
@@ -1350,12 +1085,10 @@ THERE was once a man who was both lazy and stupid.
 He had nothing he could call his own, and he would
 not work. From one he begged food, from another drink,
 from a third something else. So he went on from day to
-
 day and knew neither pride nor shame.
 
 He had good-natured neighbours who helped him,
-even though his begging did not please them. When-
-ever he came into sight, it was, “There is the Parasite!
+even though his begging did not please them. Whenever he came into sight, it was, “There is the Parasite!
 He is sure to want something more from us.” But he
 pretended not to hear, and went on begging. At last
 everyone got tired of him, and did not want to hear
@@ -1369,8 +1102,7 @@ No! that he would not do.
 even sympathy for a poor wretch. I will rather betake
 myself to Him who is more gracious than they!”
 
-So he hid himself somewhere, raised his hands to-
-wards heaven and entreated: “Oh God! Thou who hast
+So he hid himself somewhere, raised his hands towards heaven and entreated: “Oh God! Thou who hast
 made me, Creator of the World! Give me, a miserable
 wretch, something to live on!”
 
@@ -1514,7 +1246,6 @@ The Parasite next came to the wolf. l
 
 “Hm, hm! So, so!” said the wolf. “Well, you are
 yourself a human being!” and he opened wide his
-
 sgreat jaws. .. .
 
 The next day some shepherd lads found scraps of
@@ -1549,9 +1280,6 @@ Then suddenly a devil came out of the spring, changed
 into a man, and said to the peasant:
 
 
-14 FAIRY TALES
-
-
 “What is it, man? What do you want? ”
 
 The peasant told him what he wanted.
@@ -1583,8 +1311,7 @@ you will know.”
 How delighted the peasant was, and with what hopes
 he waited for the master’s return!
 
-He arrived after a little time, called his pupils to-
-gether, changed them into doves, and told them to fly
+He arrived after a little time, called his pupils together, changed them into doves, and told them to fly
 away. And the peasant’s son was truly the last to arrive
 as they flew back.
 
@@ -1639,9 +1366,6 @@ second troop of nobles, hawking pheasants. They had
 loosed their falcon, but it had brought them nothing.
 The boy quickly changed himself into a falcon and
 caught a pheasant in the air.
-
-
-16 FAIRY TALES
 
 
 The nobles were beside themselves with delight; so
@@ -1702,8 +1426,7 @@ But in a second the master was a net and swam along
 behind the fish. It was just about to be caught, when it
 changed itself into a pheasant and the master at once
 became a falcon pursuing it. The pheasant already felt
-the claws of its enemy, as it changed itself into a red-
-cheeked apple and let itself fall down into the lap of
+the claws of its enemy, as it changed itself into a redcheeked apple and let itself fall down into the lap of
 the king. At once the master became the knife which
 the king held in his hand. He was just about to cut the
 apple in two . . . when suddenly no apple was there,
@@ -1721,15 +1444,11 @@ home to his father and lived happily ever after.
 5. THE DREAMER
 
 
-ONCE upon a time there was a boy who had a step-
-mother. One day she shook out some corn to dry on the
+ONCE upon a time there was a boy who had a stepmother. One day she shook out some corn to dry on the
 threshing floor and told her step-son to look after it.
 He went to sleep, and while he slept the hens came and
 began to pick the corn. The step-mother was very angry
 and beat the poor boy.
-
-
-18 FAIRY TALES
 
 
 “Mother, mother!” he cried, “listen, I will tell you
@@ -1828,11 +1547,6 @@ give my daughter.” |
 Everyone who heard that wanted to claim that they
 had done it. But the king was on his guard: ‘“ Whosoever
 c
-
-
-20 FAIRY TALES
-
-
 pulled out the arrow must now carry it away!” he
 commanded. But nobody could move the arrow from the
 spot where it lay. |
@@ -1860,8 +1574,7 @@ be a difficult business, to swallow these clods?”’
 Dreamer did, to marry the king’s daughter and now to
 wage war.”
 
-“I am the Dreamer! Come with me, we will be com-
-rades in adventure.” |
+“I am the Dreamer! Come with me, we will be comrades in adventure.” |
 
 They went on together and came to a man who sat
 by the brink of the sea and drank the salt water greedily.
@@ -1873,8 +1586,7 @@ much salt water? ” asked the Dreamer.
 the Dreamer did, to marry the king’s daughter and now
 to wage war.”
 
-“I am the Dreamer! Come with me, we will be com-
-panions in adventure.”
+“I am the Dreamer! Come with me, we will be companions in adventure.”
 
 And he too joined the others, and the three went on
 together. Presently they saw a man who had bound
@@ -1928,12 +1640,8 @@ same as he had heard from the others.
 And now they were seven.
 
 Presently a man came towards them who was a priest,
-and had bound his church on his shoulders; wher-
-ever it seemed to him good, he put it down and held
+and had bound his church on his shoulders; wherever it seemed to him good, he put it down and held
 service in it.
-
-
-22 FAIRY TALES
 
 
 “Priest, priest! That is now something really difficult !’’
@@ -1952,23 +1660,20 @@ bread straight on for three whole days; if you can eat
 it all up in one day, you may have my daughter, if not,
 then I will cut off your heads.” So said the king.
 
-“Good, get to work! ” said the comrades to the clod-
-eater. “If you can eat clods of earth, bread will be no
+“Good, get to work! ” said the comrades to the clodeater. “If you can eat clods of earth, bread will be no
 difficulty to you.”
 
 “Leave that to me,” he replied, “I will not leave a
 single crumb over.”
 
-And they brought great stacks of bread, but the clod-
-eater swallowed it all—not the tiniest crumb remained.
+And they brought great stacks of bread, but the clodeater swallowed it all—not the tiniest crumb remained.
 
 “Good! ” said the king; “now you must drink wine.
 If you can drink my wine-barrel empty !—at one sitting,
 mind!—then you may have my daughter—otherwise
 your heads.”
 
-“Good!” said the friends; “now it is your turn, sea-
-water-drinker. If you can drink salt water, you will
+“Good!” said the friends; “now it is your turn, seawater-drinker. If you can drink salt water, you will
 surely be able to manage the wine! ”
 
 “Here with the wine, and leave everything else to
@@ -2006,8 +1711,7 @@ ourselves like this? Let us rest for a little and then
 go on again.”
 
 The other trusted him; they sat down and ate and
-drank. But the king’s messenger dropped a sleeping-
-powder into his rival’s wine. He went to sleep, but the
+drank. But the king’s messenger dropped a sleepingpowder into his rival’s wine. He went to sleep, but the
 other got up, ran and ran, accomplished the two days’
 journey, came to the water, filled his vessel and set out
 home. He had already travelled a whole day on the
@@ -2028,9 +1732,6 @@ The archer took his bow and shot an arrow which
 hit one of the mill-stones tied to the feet of the sleeping
 man. He wakened up, ran like the wind to the water,
 filled his vessel and easily overtook the king’s messenger.
-
-
-24 FAIRY TALES
 
 
 “Very good,” said the king to the Dreamer. “Now
@@ -2118,9 +1819,6 @@ of the Creator of the World, tell me, is there a place where
 there is no death?” “I am God’s messenger and fulfil
 
 
-26 FAIRY TALES
-
-
 His will,” answered the stag; “I will live until my
 antlers reach the heavens, but then I must die. If you
 like, you can stay with me till my death; you shall
@@ -2193,16 +1891,10 @@ But do as you wish. Take these three apples with you,
 and when you get home, eat them.”
 
 The youth then left the maiden and journeyed back
-to his home. On the way he came to the old well-
-known places; the raven still sat on its rock, but it
+to his home. On the way he came to the old wellknown places; the raven still sat on its rock, but it
 was dead, and the abyss was filled up. The youth’s
 heart sank within him when he saw that; he wanted
 to turn back to the maiden, but something drove him
-
-
-28 FAIRY TALES
-
-
 forward. Over rocks and through woods and fields, he
 came at last to the stag; it still stood there, but it was
 dead and the heavens supported themselves on its
@@ -2223,8 +1915,7 @@ went on with him. At last he came to the place where
 his mother’s house had stood; there were still ruins
 there, broken walls covered with moss and overgrown
 with nettles. And now the past all came back clearly
-before him; he thought of his mother and his child-
-hood; bitter thoughts rose in his heart. Then he re-
+before him; he thought of his mother and his childhood; bitter thoughts rose in his heart. Then he re-
 membered the apples: he ate the first—and suddenly
 a white beard fell from his chin right over his chest.
 He ate the second—and his knees gave way, his powers
@@ -2326,10 +2017,8 @@ THE ROSE OF PARADISE 31
 
 coming after her, she threw back the comb, and a great
 forest of combs grew out of the earth. But the Div
-overcame this hindrance too, though with great diffi-
-culty. Then she threw back the scissors and a forest of
-scissors grew up. The Div emerged from this scissor-
-forest covered with deep wounds, and although he was
+overcame this hindrance too, though with great difficulty. Then she threw back the scissors and a forest of
+scissors grew up. The Div emerged from this scissorforest covered with deep wounds, and although he was
 weak from loss of blood, yet he did not give up the
 pursuit. Rose of Paradise thought her end had come,
 and looked round for some place to hide. Her glance
@@ -2359,11 +2048,6 @@ house was kept so clean and tidy. And one night he took
 a candle and looked through the whole house till at last
 he discovered the maiden. He asked her who she was
 and how she had come there, and she told him all
-
-
-32 FAIRY TALES
-
-
 that had happened to her. The prince fell in love with
 her and they lived together as man and wife. And so
 days, weeks and months went by, till the time came
@@ -2443,8 +2127,7 @@ the third night in a bed of silk, and that the child should
 be put in a golden cradle. But he said to the mother:
 “I and some of my courtiers will hide myself in the room
 next door. If the prince comes, say to him that his son
-has taken ill and beg him to come in. We will then over-
-power him and cure him of his spell.”
+has taken ill and beg him to come in. We will then overpower him and cure him of his spell.”
 
 When it was dark the prince came.
 
@@ -2459,9 +2142,6 @@ What is it, dearest ? ” she answered.
 “With what are you covered? ”
 
 “With a new coverlet of silk!”
-
-
-34 FAIRY TALES
 
 
 “What have you under your head?”
@@ -2488,8 +2168,7 @@ room before he was seized. The joy of the king and
 queen knew no bounds when they saw their son alive
 before them. But as the dawn came in, he died. And with
 him died also the joy in the king’s house. Grief and care
-stole in again and settled down. No doctor, no faith-
-healer, no wise man could help. No one could waken the
+stole in again and settled down. No doctor, no faithhealer, no wise man could help. No one could waken the
 dead prince.
 
 But then the queen remembered her sister was married
@@ -2559,9 +2238,6 @@ the red-hot oven, or the stag.
 D
 
 
-36 FAIRY TALES
-
-
 those for whom you ask. In the meantime, you must
 be our guest.”
 
@@ -2576,8 +2252,7 @@ must bend its head slightly towards the earth, and its
 antlers will be freed.”
 
 Then the queen set out for home to cure her son. On
-the way she gave the sun’s advice to the stag, the suffer-
-ing queen, and the man in the oven, and all three were
+the way she gave the sun’s advice to the stag, the suffering queen, and the man in the oven, and all three were
 cured of their distresses. Her son too was cured; after he
 had bathed in the water the sun had washed in, he died
 no more.
@@ -2614,8 +2289,7 @@ brought forward and asked: “My son, can you build
 me such a church that no one in the world can find a
 fault in it?” The youngest thought over it for a few
 minutes and then said: “ Yes, father, I can do that.”
-He then summoned all the most eminent master-
-builders of the kingdom, and the building began. When
+He then summoned all the most eminent masterbuilders of the kingdom, and the building began. When
 it was finished, the king gathered his people and his
 army together, commanded them to examine and test
 the church, and tell him if they found any faults. But
@@ -2623,8 +2297,7 @@ no one found any faults. And the king was just about
 to enter the church himself and hold a service for the
 worship of God, when an old man passed by, looked
 at the church and said: ‘‘Ah, what a beautiful church
-you have built there, it is only a pity that the founda-
-tions are crooked.” The king heard this, stopped the old
+you have built there, it is only a pity that the foundations are crooked.” The king heard this, stopped the old
 man and commanded him to repeat what he had just
 said. “Oh, I said nothing special,” answered the old
 man, “only that it would be a beautiful church if only
@@ -2641,11 +2314,6 @@ said: “Let me hear again what you have just said.”
 The old man repeated what he had said and went on his
 way. Again the king’s son called his workmen, and they
 built a new and still more beautiful church. When it
-
-
-38 FAIRY TALES
-
-
 was finished, the king gathered his people and his army
 together and ordered them to examine the church, but
 again no fault could be found. The king was just about
@@ -2721,11 +2389,6 @@ listen and pulled her hair tighter and tighter as he
 wound it round his arm. Finally she swore by the cock
 and hen nightingale. Then he let her loose and climbed
 up beside her. “I have sworn to marry you,” said the
-
-
-40 FAIRY TALES
-
-
 maiden, “but I will not do so until I have found out
 a certain thing. I have a three-legged horse, I will put
 it with yours. If they fight, I will not be your wife.
@@ -2738,11 +2401,9 @@ they fight?
 
 Then the king’s son and the maiden set out on their
 journey. And they took the cock and hen nightingale
-with them. But as they travelled the beardless lute-
-player saw them, came up to them, seized the maiden,
+with them. But as they travelled the beardless luteplayer saw them, came up to them, seized the maiden,
 disappeared with her into the earth and then flew up
-again towards heaven. The king’s son was very sor-
-rowful. “Go and bring a long rope,” he said to his
+again towards heaven. The king’s son was very sorrowful. “Go and bring a long rope,” he said to his
 servants. They did so. The king’s son had himself
 bound and ordered them to leave him at the spot
 where the maiden had disappeared. They did that;
@@ -2764,8 +2425,6 @@ ride down, down. He rode for a long time and at last
 
 
 COCK AND HEN NIGHTINGALE 4r
-
-
 arrived at a kingdom. He rode through it—for how long
 nobody knows—but finally came to a town. He suffered
 terrible thirst on the way. In the town he rode up to
@@ -2777,8 +2436,7 @@ is the turn of the king’s daughter.” “ Mother,” said the
 king’s son, ‘‘give me a pitcher. I will bring you water.”
 
 “No, good youth, no! The dragon will devour you!”
-But the youth paid no attention to her; he tore a water-
-pot out of the earth 1 and went on his way. As he went
+But the youth paid no attention to her; he tore a waterpot out of the earth 1 and went on his way. As he went
 he met a maiden; she stood there dressed entirely in
 black, her hands crossed on her breast, weeping bitterly.
 “Sister,” said the king’s son, “do not weep! You do not
@@ -2803,9 +2461,6 @@ more and more followed after. The people, half-dead
 
 1 Great pots sunk into the earth are used in the Caucasus for
 storing both wine and water.
-
-
-42 FAIRY TALES
 
 
 with thirst, drank so much that some died at the well,
@@ -2851,8 +2506,7 @@ COCK AND HEN NIGHTINGALE 43
 lying in her nest, she had already opened her beak to
 kill him, because she thought he was the being who
 always robbed her of her young. But when she heard
-what had happened, she let herself hover over the sleep-
-ing youth and sheltered him first with the one wing,
+what had happened, she let herself hover over the sleeping youth and sheltered him first with the one wing,
 and then with the other. When the king’s son awoke,
 she asked him how she could thank him for saving her
 young. “Take me to my home,” he answered, “I ask
@@ -2882,11 +2536,6 @@ is the beardless one? ” he asked her. “ He has been asleep
 for three years,” she answered weeping. “When he had
 carried me away from you he fell asleep. He has still
 three days to sleep.” “How can one kill him?” asked
-
-
-44 FAIRY TALES
-
-
 the king’s son. “There is a cage behind nine locks,”
 she answered; “in that cage are three birds. These birds
 are his soul, his spirit and his strength. Whoever will
@@ -2897,8 +2546,7 @@ the beardless lute-player died. Then the king’s son took
 the maiden, the cock and hen nightingale, and set
 out for his father’s house. His father was overjoyed,
 blessed his son, put the crown on his head, gave him the
-maiden to wife and held a great wedding feast. Every-
-one was happy and we are happy with them. And now
+maiden to wife and held a great wedding feast. Everyone was happy and we are happy with them. And now
 the life of your enemy also is at an end.
 
 
@@ -2937,20 +2585,17 @@ deep hole. They began to weep, but their father left
 them and went home. When they began to feel hungry,
 the eldest said, ‘‘Come, sisters, eat me!” “No, eat me,”
 said the second. But the youngest prayed to God, and
-implored Him to change one of her hands into a pick-
-axe, and the other into a spade. God heard her prayer,
+implored Him to change one of her hands into a pickaxe, and the other into a spade. God heard her prayer,
 and at once she had a pickaxe and a spade instead of
 her two hands. She began to dig and cut and soon made
 a way out of the hole. Then she walked and walked till
 she came to a kingdom where she hid herself in the
 king’s stable. In that stable the horses were fed on
 almonds and raisins. So whenever food was brought to
-the horses, she went and took some of it, ate some her-
-self, and took the rest to her sisters. «
+the horses, she went and took some of it, ate some herself, and took the rest to her sisters. «
 
 But the horses became gradually thinner and thinner,
-because of the food they did not get. The king was in-
-formed and he sent a groom who was told to keep watch
+because of the food they did not get. The king was informed and he sent a groom who was told to keep watch
 in the stable to see what was going on there. The groom
 hid himself, and when the maiden came and filled her
 apron with almonds and raisins he rushed out, seized
@@ -2964,11 +2609,6 @@ such a carpet that your whole kingdom can be put
 down on it—and even more,” she answered. Then he
 addressed the same question to the second sister. ‘I
 can cook you such a dinner in an egg-shell that all the
-
-
-46 FAIRY TALES
-
-
 people of your kingdom can eat their fill and still not
 finish it,” she replied.
 
@@ -3011,8 +2651,7 @@ the woman who was bound to the gate was their mother,
 THE STORY OF THE PIG 47
 
 
-and that the king was their father. But the king abso-
-lutely refused to believe it. Now there was on the table
+and that the king was their father. But the king absolutely refused to believe it. Now there was on the table
 a roasted pheasant, and beside it a branch of a dried vine.
 The boy took this in his hand and said: “If the woman
 who is bound to the great gate is my mother, and if
@@ -3026,8 +2665,7 @@ became green and produced a bunch of grapes; the
 pheasant became alive, flew to the vine and spread its
 wings. Then the king embraced his children and kissed
 them. Their mother was set free, her face was washed,
-she was dressed in queenly robes, and received the right-
-ful honour due to her. The two wicked sisters were bound
+she was dressed in queenly robes, and received the rightful honour due to her. The two wicked sisters were bound
 to the tails of wild horses and torn to pieces.
 
 Sorrow there, joy here,
@@ -3053,11 +2691,6 @@ kind: it opened its mouth, took the pitcher, went to
 the well, filled the pitcher and brought it home. It swept
 the floor, washed the dishes, and knew everything there
 was to know about housekeeping. One day the pig took
-
-
-48 FAIRY TALES
-
-
 the washing, and went into a dark wood. A king’s son,
 who happened to be hunting through that wood, saw
 how, when the pig came to the water, its pig’s skin
@@ -3074,8 +2707,7 @@ spend the night there. “We are not worthy that you
 should spend the night under our roof,” said the man,
 “we have nothing to eat, nothing to drink, and no bed
 fit for you. We are only poor peasants.” “That does not
-matter,” replied the king’s son, “do not trouble your-
-selves about that: my bed and my supper will be
+matter,” replied the king’s son, “do not trouble yourselves about that: my bed and my supper will be
 sufficient for me.” And he did stay the night there;
 he hoped to see the pig again, but the old man
 pressed him to go to bed. Next morning the king’s
@@ -3101,8 +2733,7 @@ THE STORY OF THE PIG 49
 The king’s son led the pig into the room, and then
 said, “Now, take off your pig’s skin!” The pig did so,
 and such a beautiful maid appeared that even the sun
-was put to shame by her. And then they threw them-
-selves into each other's arms.
+was put to shame by her. And then they threw themselves into each other's arms.
 
 All this had been observed by the ministers the king
 had sent after the young couple, with orders to watch
@@ -3125,8 +2756,7 @@ But the vizier pursued it and brought it, with much
 struggling and squealing, back to his house. Then he
 dragged it to the church, that they might be married.
 The pig struggled furiously, it upset the candles, and
-rushed about between the legs of the priest, the bride-
-groom and the guests. But finally it was caught and the
+rushed about between the legs of the priest, the bridegroom and the guests. But finally it was caught and the
 marriage ceremony was performed. The vizier took his
 bride into the bride-chamber, kissed her on the neck,
 and said, “Please, please, now become a maiden!
@@ -3134,20 +2764,12 @@ What are you waiting for? ” But the bride only became
 wilder and more enraged. He kissed her again on the
 neck; but the pig seized him by the throat with her
 teeth, and bit it through. Then the pig went back to
-
-
-50 FAIRY TALES
-
-
 its herd and the vizier was carried to the graveyard.
 So ended the marriage between the vizier and the pig.
 
 
 Sorrow there, joy here,
 Bran there, flour here.
-
-
-11. THE BALD-HEADED GOOSEHERD
 
 
 THERE was, and there was not—no one is kinder than
@@ -3179,11 +2801,6 @@ The fortune-teller So-and-so sent me to you, that is why
 I am here.”
 
 “If that is so,” said the Div, “then you must have
-
-
-THE BALD-HEADED GOOSEHERD 51
-
-
 some sign by which I can know whether you speak
 the truth.”
 
@@ -3225,9 +2842,6 @@ of the red Div, he became more friendly and said:
 E
 
 
-52 FAIRY TALES
-
-
 half of everything you get must belong to me.” The
 peasant thought this over, and said to himself, “Half
 a span of oxen ” (that is one ox) “is better than none:
@@ -3267,9 +2881,6 @@ said: “Now tell me true, why is our father always so
 1 Written Sasxwatho, but pronounced Sachwatho.
 
 
-THE BALD-HEADED GOOSEHERD 53
-
-
 sad and why does he weep? If you do not tell me I will
 bite you!”
 
@@ -3307,23 +2918,16 @@ woman. “ Why did your mother not die before you? The
 Div has gone to fetch people of his own faith and priests
 of his faith. They will kill you and the foal and the
 panther-cub, and eat you up! Run away before he comes
-
-
-54 FAIRY TALES
-
-
 back, perhaps you can still save yourself.” Sachwatho
 mounted his horse with the hoofs of fire, took his panther
-and flew away. In a moment he was behind nine moun-
-tains and again behind other nine mountains. When the
+and flew away. In a moment he was behind nine mountains and again behind other nine mountains. When the
 Div got back to his house, he asked his wife, “ Well, have
 you prepared that youth for supper?” “That youth?
 What youth? There has been no one here!” she answered.
 “ Aha! perhaps he has escaped,” thought the Div; “what
 I saw just now behind the ninth mountain, the size of
 a basket, that will be he!” He sprang at once on to his
-horse, struck him a blow and galloped away. But Sach-
-watho had hastened on, had travelled over mountains
+horse, struck him a blow and galloped away. But Sachwatho had hastened on, had travelled over mountains
 and more mountains till he came to the ocean. There he
 went up and down the shore, weeping, for there was
 no hope of deliverance: the sea in front of him, the
@@ -3347,11 +2951,6 @@ Did he ride far or not, who knows? But at last he
 came to a kingdom. On the way he met a swineherd,
 whom he asked if there was any news in that country.
 He told him that the chief town lay quite near, that
-
-
-THE BALD-HEADED GOOSEHERD 55
-
-
 the king was rich and mighty, and had three beautiful
 daughters. Now Sachwatho had two golden robes with
 him, and so he said to the swineherd: ‘‘Listen! I will
@@ -3427,11 +3026,6 @@ The king brought forward his daughters, and it was
 arranged that they should go and sit on the knee of
 whichever wooer pleased them most. The eldest daughter
 went first up and down the rows of suitors, and finally
-
-
-THE BALD-HEADED GOOSEHERD 57
-
-
 sat down on the knee of the vizier; the second daughter
 chose the high steward. Now it was the turn of the
 youngest daughter. She ran up and down, and looked
@@ -3456,8 +3050,7 @@ but what could he do? The people were struck dumb
 with astonishment. The king gave the vizier and his
 wife, and the high steward and his wife, gold and riches
 of all kinds and established them in splendid houses.
-But the youngest with her gooseherd only got a hen-
-house. There they lived and put up with all their dis-
+But the youngest with her gooseherd only got a henhouse. There they lived and put up with all their dis-
 comforts and the other sons-in-law laughed at them.
 But as time went on, the youngest daughter began to
 wonder whether her golden-haired husband was not
@@ -3467,9 +3060,6 @@ gooseherd did not vex himself about that, nor about
 what the people were saying.
 
 And so time went on. But the king began to think.
-
-
-58 FAIRY TALES
 
 
 “Now I have married my daughters,” he said to himself,
@@ -3496,8 +3086,7 @@ Then he pulled out his horse’s hair, and at once his good
 horse came to him. He took off his rags and clothed
 himself in his golden garments. Then he rode on till he
 reached the place the king had mentioned. His horse
-took him to a herd of stags, Sachwatho caught a mother-
-hind fastened it up and sat down beside it. In due time
+took him to a herd of stags, Sachwatho caught a motherhind fastened it up and sat down beside it. In due time
 the vizier and the high steward arrived, greeted him,
 and began to speak to him with deep respect. “ Why
 have you taken all this trouble?” asked Sachwatho;
@@ -3508,11 +3097,6 @@ whatever you ask, if you will get that for us.” “I ask
 nothing but the tips of your little fingers,” said Sachwatho.
 And what did they do? They cut off the tips of their
 little fingers, gave them to Sachwatho, thanked him,
-
-
-THE BALD-HEADED GOOSEHERD 59
-
-
 said farewell, and rode away. As soon as they were gone,
 he mounted his horse and rode off. When he came near
 the town, he dismounted, took off his glittering garments,
@@ -3551,17 +3135,10 @@ panthers lived. When they got there panthers sprang
 at them from all sides, and blocked their way. But he
 of the fiery teeth chose a panther-mother out of the pack
 and brought her to Sachwatho. He tied it up and sat
-
-
-60 3 FAIRY TALES
-
-
-down beside it. Shortly afterwards his two brothers-in-
-law arrived, and saw the same horseman with the golden
+down beside it. Shortly afterwards his two brothers-inlaw arrived, and saw the same horseman with the golden
 garments sitting there. They wondered a good deal about
 him, and thought it must be the king of the beasts they
-had to deal with.4 So they approached him very respect-
-fully, greeting him by taking off their hats and bowing
+had to deal with.4 So they approached him very respectfully, greeting him by taking off their hats and bowing
 low to the ground.
 
 “You were so good to us before,” they said, “‘when
@@ -3596,11 +3173,7 @@ peoples mention a power or spirit who is the protector of wild
 beasts.
 
 
-THE BALD-HEADED GOOSEHERD 61
-
-
-would not let them come near him. But the goose-
-herd remained dumb and said nothing to anyone; his
+would not let them come near him. But the gooseherd remained dumb and said nothing to anyone; his
 wife bore everything patiently and waited always for
 something to happen.
 
@@ -3634,11 +3207,6 @@ Sachwatho. He did so; the horse sprang between the
 two walls of rock, Sachwatho filled his pitcher, but as
 he sprang out again the rocks clashed together on the
 horse’s tail and cut it off. Sachwatho dismounted, let
-
-
-62 : FAIRY TALES
-
-
 his horse rest and sat down beside it. He had hardly
 sat down when his two brothers-in-law came up and
 saw that the same horseman had been before them
@@ -3665,8 +3233,7 @@ him: whosoever was the conqueror should rule over
 both kingdoms. At the same time he called his army
 together; both great and small assembled at his orders.
 The vizier and the high steward put themselves in
-splendid armour at the head of the army. The goose-
-herd took out his horse-hair, and at once horse and
+splendid armour at the head of the army. The gooseherd took out his horse-hair, and at once horse and
 panther were by his side. Then he put on his golden
 garments, took up his arms and went off also to the
 war. He closed with the enemy forces, galloped through
@@ -3676,24 +3243,17 @@ enemy as fell by his hands were killed by his horse
 and panther.
 
 
-THE BALD-HEADED GOOSEHERD 63
-
-
-At close of day the battle ended. Everyone won-
-dered about the unknown hero, but no one knew
-who he was or where he came from. They looked every-
-where for him in vain, for he had already put on his
+At close of day the battle ended. Everyone wondered about the unknown hero, but no one knew
+who he was or where he came from. They looked everywhere for him in vain, for he had already put on his
 old rags and gone home to his wife, who told him of
 the heroic deeds of the unknown knight. With the dawn
 the battle began again. Again the gooseherd put on his
 golden garments and rode off to fight; but this time he
 was wounded in the arm. The king noticed that the
 stranger knight was bleeding; he called him and bound
-up his wound with his own silken kerchief. Then Sach-
-watho stole away, changed his grandeur for his old
+up his wound with his own silken kerchief. Then Sachwatho stole away, changed his grandeur for his old
 rags, and went back to his hut. The king held a great
-festival: he had many oxen killed and much wine dis-
-tributed among the army. At the same time he gave
+festival: he had many oxen killed and much wine distributed among the army. At the same time he gave
 orders that everyone should look out for the knight
 whose wounded arm was tied up with the king’s silken
 kerchief, and let the king know when he was found.
@@ -3715,11 +3275,6 @@ were discovered.
 
 Now the king’s manner towards him was entirely
 changed. He embraced him, kissed him, and begged
-
-
-64 FAIRY TALES
-
-
 his forgiveness for his former bad treatment. ‘‘I beseech
 you,” he added, “come to the battle again to-morrow
 and show yourself to me and my people.” Next day
@@ -3737,14 +3292,12 @@ and could not feast her eyes enough on her victorious
 husband. But her sisters wept tears of vinegar with envy.
 When the king went home he gave Sachwatho and his
 wife the finest palace he possessed. “Everything must
-now come out,’ said Sachwatho one day to his father-
-in-law. “Call the vizier and the high steward, and ask
+now come out,’ said Sachwatho one day to his fatherin-law. “Call the vizier and the high steward, and ask
 them where they got the doe’s liver. The fact is—I
 gave it to them, and I have the proof here.” As he spoke
 he showed the king their finger-tips. The king sent for
 them both, and saw for himself that the tips of their
-little fingers were missing. “I gave them the panther-
-milk too,” said Sachwatho, “and made them pay for it
+little fingers were missing. “I gave them the panthermilk too,” said Sachwatho, “and made them pay for it
 with the lobes of their ears. I fetched the Water of Life,
 and my horse helped me. But I did not give it to them
 for nothing, if you look at their backs you will see the
@@ -3754,15 +3307,8 @@ hoofs were found on their backs. Shamefacedly they
 slunk away to their own homes, and their wives did
 not know what to do for shame.
 
-But soon Sachwatho got tired of sitting at his fire-
-
-
-THE BALD-HEADED GOOSEHERD 65
-
-
-side. He said he would go hunting. ‘‘Good,” said the
-king, “only I beg of you, do not go outside the boun-
-daries of our own country. For beyond that there lives
+But soon Sachwatho got tired of sitting at his fireside. He said he would go hunting. ‘‘Good,” said the
+king, “only I beg of you, do not go outside the boundaries of our own country. For beyond that there lives
 a witch, who will certainly kill you if she finds you.”
 “We will see about that,” said Sachwatho, called his
 horse and his panther, put on his armour, and set out.
@@ -3795,15 +3341,9 @@ laid it on his horse. “Now you can come in” he added.
 
 “First lay it on your panther!” He did that too.
 “Now on your sword.” Sachwatho fulfilled that request
-too. Then the woman screamed and closed with Sach-
-watho. He called his horse, but it did not move; it was
+too. Then the woman screamed and closed with Sachwatho. He called his horse, but it did not move; it was
 chained with a ninefold chain. He called the panther,
 but neither could it stir. He called his sword, but it
-
-
-66 FAIRY TALES
-
-
 could not obey, for it too was bound and chained.
 Then the woman devoured Sachwatho, his horse and
 his panther.
@@ -3830,27 +3370,19 @@ Thavisi resemble his brother.
 
 Now Sachwatho had not been heard of for a long time.
 The king gave orders that the whole country should go
-into mourning for him. But when Thavisi came every-
-one thought it was Sachwatho himself and there was
+into mourning for him. But when Thavisi came everyone thought it was Sachwatho himself and there was
 great joy. The king allowed mourning to be put aside
 and greeted Thavisi with kisses and embraces. “ Praise
 and thanks to God, my son,” he said, “that you have
 come back to us. How was it that you managed to
 escape from that woman? Was it by God’s help or was
 it a stroke of luck?” As has been said already, Thavisi
-was very like Sachwatho. “Yes,” he thought, “Sach-
-watho must have gone away somewhere and never been
+was very like Sachwatho. “Yes,” he thought, “Sachwatho must have gone away somewhere and never been
 heard of again. Perhaps he will never come back; that
 
 
 -a m. eel eee
-
-
-THE BALD-HEADED GOOSEHERD 67
-
-
-is why they were mourning for him and are now over-
-joyed to see me, because they take me for him. I will
+is why they were mourning for him and are now overjoyed to see me, because they take me for him. I will
 pretend that I am really Sachwatho.” And aloud he
 added, “I have not been to that woman yet; I will go
 to-morrow.” He was then taken to Sachwatho’s house,
@@ -3858,8 +3390,7 @@ where Sachwatho’s wife fell on his neck and kissed him.
 Thavisi allowed her to believe he was her husband,
 but when they went to rest at night, he took his sword
 and laid it between them, saying: “If you reach over
-this sword I will cut you to pieces with it; I am dead-
-tired and not inclined for kisses or caresses.” Sachwatho’s
+this sword I will cut you to pieces with it; I am deadtired and not inclined for kisses or caresses.” Sachwatho’s
 wife thought her husband must have fallen in love
 with someone else who had drawn his affection away
 from her, and so she began to weep bitterly. She wept
@@ -3890,9 +3421,6 @@ woman in a frightened voice, as if she was really afraid.
 “ Aha!” thought Thavisi, “that is how she deceived
 
 F
-
-
-68 FAIRY TALES
 
 
 my brother. I will watch and see what she does now.” —
@@ -3938,14 +3466,8 @@ come home, but there are two of him! One man has
 become two!”
 
 “What is that you are saying?” said the king. ‘‘ Did
-
-
-THE BALD-HEADED GOOSEHERD 69
-
-
 anyone ever hear of such a thing, that one man should
-become two!” And turning to his courtiers and point-
-ing to the bringer of the news, he commanded, “ Off
+become two!” And turning to his courtiers and pointing to the bringer of the news, he commanded, “ Off
 with his head!” But in the same moment another man
 arrived, and announced that the king’s son-in-law was
 approaching, but in a double form. This man’s head
@@ -3988,9 +3510,6 @@ The listener and the teller
 Shall marry each other.
 
 
-70 FAIRY TALES
-
-
 12. BUKUTSCHICHAN
 
 
@@ -4004,8 +3523,7 @@ and his coat was all dishevelled on his back. “Aha!
 you mangy wretch! it is you, is it?” said Lause-Hadschi,
 and flung himself with a cudgel on the fox. “Slowly,
 miller, slowly!” said the fox. “The rapid river does not
-find the sea, as the proverb says. Will you kill me be-
-cause of these few rags I have carried away from you?
+find the sea, as the proverb says. Will you kill me because of these few rags I have carried away from you?
 I will make you rich because of them. I will marry you
 to the chan’s daughter, I will make you great and
 famous. Under one condition, however: you must feed
@@ -4013,13 +3531,11 @@ me with kurdjuk? as long as I live, and when I die
 you must bury me in one.” The miller gladly agreed
 to all this.
 
-Then the fox ran away and scraped about in a dust-
-heap till he found an abbas.* He ran with it to the
+Then the fox ran away and scraped about in a dustheap till he found an abbas.* He ran with it to the
 chan’s castle, which lay on the other side of the river.
 He said to the chan: “Forgive me for making so free,
 but I came to ask you for a measure with which to
-measure Bukutschichan’s silver. I have tried every-
-where to get one, but could not hear of one anywhere.”
+measure Bukutschichan’s silver. I have tried everywhere to get one, but could not hear of one anywhere.”
 “Who is this Bukutschichan, then?” asked the chan.
 “I have never heard anything about him.”
 
@@ -4057,8 +3573,7 @@ chan shook the measure again and the gold coin fell out.
 How astonished the chan was!
 
 After a time the fox came back again. But this time
-he came to ask the hand of the chan’s daughter in mar-
-riage for his master. The chan nearly died with joy. “I
+he came to ask the hand of the chan’s daughter in marriage for his master. The chan nearly died with joy. “I
 will come to-morrow with Bukutschichan,”’ said the fox
 and ran away home. The following day he made a robe
 of state for Lause-Hadschi out of brightly coloured
@@ -4071,18 +3586,11 @@ was ready the fox said to him: “The chan will ride with
 his retinue to meet you as far as the river. But as you
 ride through the river cry, ‘Help! help! the river is
 carrying me away!’ and dive underneath. Then the
-chan’s retinue will pull you out of the water, and every-
-thing will be all right.
+chan’s retinue will pull you out of the water, and everything will be all right.
 
 And so it all happened. When Bukutschichan got to
-
-
-72 FAIRY TALES
-
-
 the middle of the river, he pretended that the stream
-was carrying him off and cried for help. The river natur-
-ally washed off everything he had on, and when the
+was carrying him off and cried for help. The river naturally washed off everything he had on, and when the
 chan’s people pulled him out of the water he was as
 naked as when he was born. But they at once offered
 him clothing and weapons. Bukutschichan dressed
@@ -4108,11 +3616,9 @@ There will never be another like it!”
 said the followers, “we noticed how it glittered in
 the sun.”
 
-When they arrived at the chan’s palace, Bukutschi-
-chan was still more astonished. He looked up at the roof
+When they arrived at the chan’s palace, Bukutschichan was still more astonished. He looked up at the roof
 and down at the floor, his glance swept along the walls
-and he examined everything most particularly. ‘‘ What-
-ever is he doing?” the chan’s followers asked. “He is
+and he examined everything most particularly. ‘‘ Whatever is he doing?” the chan’s followers asked. “He is
 behaving as if he had never seen a house before,” the
 chan said to the fox. “No, no, it is not that at
 all!” answered the fox. “It is only that... yours
@@ -4161,11 +3667,6 @@ behind me with cannons, mortars, guns and so on. What
 will you do?”
 
 “Alas! what can I do?” answered the dragon ; “against
-
-
-74 FAIRY TALES
-
-
 such an army I can do nothing! Do you not know some
 place, Mr. Fox, where I could hide myself?”
 
@@ -4181,8 +3682,7 @@ the gigantic fire.
 
 And now the newly-married pair were advancing,
 with music and drums, with outriders and singers.
-There was a great commotion round about them, shout-
-ing, and volleys of firing. When they came to the great
+There was a great commotion round about them, shouting, and volleys of firing. When they came to the great
 plain where the cattle were grazing they asked who the
 herd belonged to. “To Bukutschichan,’”’ was the answer.
 When they came to the drove of horses and asked the
@@ -4196,8 +3696,7 @@ astonished at the unheard-of riches of its master. He
 himself had no idea how it had all come about: he came
 near to losing his reason with it all. Finally they came
 to the dragon’s castle. There the fox awaited them. He
-sent back the retinue of the young couple; he estab-
-lished Bukutschichan and his wife upstairs while he
+sent back the retinue of the young couple; he established Bukutschichan and his wife upstairs while he
 made himself at home below. Bukutschichan had a
 splendid time there; he had nothing to do, for the fox
 took all burdens on his own shoulders.
@@ -4216,7 +3715,6 @@ seven times dead it would be all the same to me,”
 answered Bukutschichan. ‘‘I have been tired of that
 useless creature for a long time.”
 Hardly had he spoken, when the fox sprang to his
-
 feet and began a little song:
 
 Shall I or shall I not
@@ -4255,11 +3753,6 @@ weapons, mounted a good horse and set out on his way
 after saying farewell to his brothers.
 
 He rode on and on for a long way. He left broad
-
-
-76 FAIRY TALES
-
-
 valleys and deep gorges behind him, he crossed endless
 plains. And on his way he met an old man.
 
@@ -4322,8 +3815,7 @@ him also his head.
 
 The youngest son waited long for the return of his
 brothers. Finally he made up his mind to go and see for
-himself what had happened to them. He also was deter-
-mined to measure himself against the princess in single
+himself what had happened to them. He also was determined to measure himself against the princess in single
 combat. He rode day and night till he met the old man.
 
 “Whither away, my son?” he asked. “ Where are you
@@ -4348,9 +3840,6 @@ happened to his brothers, the king’s servants helped
 him, fed him and gave him wine to drink, and the vizier
 came and entertained him ... in fact, everything
 happened just as it had done to the two elder brothers.
-
-
-78 FAIRY TALES
 
 
 Before sunrise the youth rose, and with the sun the
@@ -4382,8 +3871,7 @@ crossed high mountains and deep gorges, he crossed
 broad rivers, he rode over endless plains till he came to
 a beautiful meadow covered with flowers. In the middle
 of the meadow there was a garden as lovely as Paradise,
-and in the garden beautiful tents were erected. He dis-
-mounted by the tents, let his horse loose and went in.
+and in the garden beautiful tents were erected. He dismounted by the tents, let his horse loose and went in.
 Everything was in order, but no living soul was within.
 In the centre of the tent a spring bubbled up. He
 bathed in it, and then lay down to sleep. After a time
@@ -4398,8 +3886,7 @@ BALAI AND BOTI 79
 
 in it? Get up and show your courage!” Our hero sprang
 up, looked round him and saw a youth with a beaming
-countenance. “How will you fight, on foot or on horse-
-back?” the youth asked him. “On foot,” came the
+countenance. “How will you fight, on foot or on horseback?” the youth asked him. “On foot,” came the
 answer. They closed with each other and fought and
 fought, but neither of them could throw the other. They
 wrestled on. . . till midday, till afternoon—the sun
@@ -4432,9 +3919,6 @@ hero and laid his hand on her breast, “I will rather fight
 with you by night than by day!” The maiden sprang up
 at once, they closed with each other, and they fought
 and they wrestled, but neither could get the other down.
-
-
-80 FAIRY TALES
 
 
 When every other means had failed him, our hero
@@ -4520,11 +4004,6 @@ you have to ask, and come back here in due time. If
 you have good fortune, he will not let his arrow fly at
 you till you have reached me; if you have not good
 fortune. . . well, no one has ever come back from them
-
-
-82 FAIRY TALES
-
-
 before you, and no one will ever come back after you.”
 Our hero went to the tower.
 
@@ -4539,8 +4018,7 @@ smallest detail.
 “Well, well, we will have something to eat first,”
 declared Balai, “and then I will tell you what passed
 between Boti and myself.” The food was brought; when
-they had finished, Balai gave what was over to a grey-
-hound, and what was left after that to a woman who was
+they had finished, Balai gave what was over to a greyhound, and what was left after that to a woman who was
 already half turned to stone and stood behind the door.
 She did not want to eat; Balai took up a whip and
 threatened her with it—and she ate. Our hero lost
@@ -4607,11 +4085,7 @@ and I became a dog. (Whenever he goes I will send an
 G
 
 
-84 FAIRY TALES
-
-
-arrow after him.) For seven years I remained a shep-
-herd’s dog; in the eighth year she struck me again with
+arrow after him.) For seven years I remained a shepherd’s dog; in the eighth year she struck me again with
 the magic whip and I changed into a hawk. I flew
 straight home. After a short time Boti came too, she hung
 the whip on a nail and went out. I flew to the whip,
@@ -4683,13 +4157,9 @@ then you may kill me, but if I have spoken the truth,
 put this miserable wretch to death.” The princess got
 deadly pale at these words. But that availed her nothing;
 the search was made, and what our hero had said was
-found to be true. “You have brought shame and dis-
-grace on my head,” said the king and struck down his
+found to be true. “You have brought shame and disgrace on my head,” said the king and struck down his
 daughter ; while our hero gave the finishing stroke to the
 Nart and his son.
-
-
-86 FAIRY TALES
 
 
 After all these deeds and after he had come through
@@ -4705,8 +4175,7 @@ in torrents—once upon a time there was a king. He was
 a wise king, his rule was just, and the whole land obeyed
 him. He had three sons.
 
-Now it so happened that he became blind and an ill-
-ness robbed him of his bodily powers. The sons took
+Now it so happened that he became blind and an illness robbed him of his bodily powers. The sons took
 counsel together, and then went to their father. “ Father,”
 they said to him, “is there no remedy which would give
 you back your sight? Is there no cure for your illness?
@@ -4722,8 +4191,7 @@ He mounted a good horse, put on trusty weapons and
 gave rein to his steed. He rode over our mountains
 (t.e. the Caucasus), over mountains of other lands, over
 the Elsterberg, the Dohlenberg, the Schneeberg, and the
-Eisberg. Behind it he met an old man with a snow-
-white beard, who sat there and sewed the cracks in the
+Eisberg. Behind it he met an old man with a snowwhite beard, who sat there and sewed the cracks in the
 path together which had been caused by the heat.
 
 “Greetings to you, old man,” said the rider; “may
@@ -4782,9 +4250,6 @@ that to be found in Paradise. He filled his saddle-bags
 with it and rode home.
 
 
-88 FAIRY TALES
-
-
 “Greetings to you, father,” he said, and handed him
 the bags.
 
@@ -4809,8 +4274,7 @@ Virgin Queen.”
 
 And now the youngest son made ready to set out.
 When he arrived behind the Eisberg, he found the old
-man who was sewing up the cracks in the path. “ Greet-
-ings to you, father, may your work succeed,” he said.
+man who was sewing up the cracks in the path. “ Greetings to you, father, may your work succeed,” he said.
 “Greetings to you also, my son, may your work also
 succeed,” answered the old man. “Have you no good
 advice to give me, old man?” the youth asked, “I want
@@ -4849,13 +4313,10 @@ itself?” said the Virgin Queen from within the tower.
 half of the lock had merely pressed against the other.
 The youth wrapped his feet in grass and went into the
 garden. ‘‘Grass conquers me! Grass conquers me!”
-bewailed the grass of the garden. ‘‘Of course grass con-
-quers grass,” said the queen. “Let me sleep!’’ (She
-thought that the grasses in the garden were blow-
-ing against each other.) Then the youngest son took
+bewailed the grass of the garden. ‘‘Of course grass conquers grass,” said the queen. “Let me sleep!’’ (She
+thought that the grasses in the garden were blowing against each other.) Then the youngest son took
 a piece of wood, split it up at one end, and picked
-the fruit with it. “Wood conquers us! Wood con-
-quers us!” cried all the trees of the garden. “That
+the fruit with it. “Wood conquers us! Wood conquers us!” cried all the trees of the garden. “That
 is a matter of course,” said the queen, “that wood
 conquers wood.” She thought that one branch had
 rubbed against another.
@@ -4865,11 +4326,6 @@ horse and was about to set out for home, when it struck
 him that he must see the Virgin Queen even though
 it cost him his life. So he went up the stair, walked in
 and looked at her. She lay on a golden bed, on her brow
-
-
-90 FAIRY TALES
-
-
 she had a star and under her shoulder the moon shone
 out. Her waist could be spanned by two fingers, but if
 one then let her go, she would fill the whole world. Gold
@@ -4903,8 +4359,7 @@ her on the cheek. Then she examined the food and drink
 on the table and noticed that someone had tasted them.
 She turned to her mirror and asked it who had been
 there, and the mirror told her the whole story. She
-ruled over seven kingdoms, and she gathered to-
-gether the armies from all seven and marched on the
+ruled over seven kingdoms, and she gathered together the armies from all seven and marched on the
 country of the blind king. She set up her camp before
 his capital and sent him a message that he should send
 her at once whosoever had picked the fruit in her garden.
@@ -4955,9 +4410,6 @@ this day in happiness and contentment.
 ONCE upon a time there was a widow who had heard
 that God would undoubtedly fulfil three wishes wished by
 anyone on the fifteenth night of the fast of Ramadan.
-
-
-92 FAIRY TALES
 
 
 The good woman got quite impatient: “Oh! if it were
@@ -5035,8 +4487,7 @@ I am a little bird.
 
 
 When he had got his needles, he flew to a shoemaker,
-sang his song and got a pair of shoes. Then he flew to a pin-
-shop, sang his little song and got a paper of pins. From
+sang his song and got a pair of shoes. Then he flew to a pinshop, sang his little song and got a paper of pins. From
 there he flew to the roof of his father’s house, perched
 on it and called: “Father, look up here!” The father
 said: “ But perhaps you will take your revenge on me!
@@ -5050,9 +4501,6 @@ little sister and told her to hold up the hem of her dress,
 he wanted to give her something. And he threw the
 ’ silk into her dress and then the shoes, and flew away
 and was never seen any more.
-
-
-94 FAIRY TALES
 
 
 17. THE FAITHFUL SERVANT
@@ -5118,8 +4566,7 @@ at once. But the third refused the invitation to dine
 with his master in these words: “Dine, sir? I will dine
 on what is left over.” And no matter how often the
 prince repeated his invitation, the servant remained
-firm and said only, “After you, sir.” “This is the ser-
-vant my father spoke of,” said the prince to himself,
+firm and said only, “After you, sir.” “This is the servant my father spoke of,” said the prince to himself,
 “I will keep him.” And he engaged him for a wage
 of seventy roubles.
 
@@ -5130,16 +4577,10 @@ a neighbouring country. One or two merchants attached
 themselves to the party. Now there were two ways
 into that country, one took seven days, the other three
 months; but the shorter way was very dangerous:
-whosoever chose the shorter way invariably disap-
-peared, no one knew where to. But in spite of that,
+whosoever chose the shorter way invariably disappeared, no one knew where to. But in spite of that,
 the servant advised the prince to go by the shorter
 way. “But whoever travels by that road never returns!”
 said the prince. “There is no reason why you should
-
-
-96 FAIRY TALES
-
-
 trouble yourself about that,” answered the servant,
 “I beg you to choose the shorter way.” And the prince,
 who had a great affection for his servant, agreed to his
@@ -5151,15 +4592,13 @@ but the prince kept to his resolve.
 And so they set out. In the evening they pitched their
 camp at a certain place, had a meal and then lay down
 to rest. The servant kept watch. About midnight the
-prince’s dog began to bark and the servant heard some-
-one talking to it from behind a bush, “Here, dog,
+prince’s dog began to bark and the servant heard someone talking to it from behind a bush, “Here, dog,
 your master will probably kill you soon, and smear
 your blood on his eyes; let me take some of his goods.”
 But the dog barked right on till morning, and the servant
 watched all that time.
 
-In a short time they reached their destination success-
-fully, sold their wares, bought new goods, and were
+In a short time they reached their destination successfully, sold their wares, bought new goods, and were
 finished with their business when those merchants
 who had chosen the long way arrived. They were not
 a little surprised that the prince’s party had come
@@ -5186,8 +4625,7 @@ prince would come after him. “Very good,” said the
 prince, “lead the way.” So the servant went in the
 direction from which the voice had come, and soon
 saw a man who seemed to be running away. He ran
-after him, and noticed that the fugitive suddenly dis-
-appeared into the earth. On going nearer, he saw that
+after him, and noticed that the fugitive suddenly disappeared into the earth. On going nearer, he saw that
 there was a great hole in the ground. In the meantime
 the prince had come up, and the servant said: “I am
 going to go down there; let a rope down and pull up
@@ -5219,11 +4657,6 @@ treasure and with the three maidens. |
 
 When he arrived home, the prince found that his
 father had gone blind and his sister mad. All that had
-
-
-98 FAIRY TALES
-
-
 come to pass because those who stayed at home had been
 told that their youngest son and brother had chosen
 the shorter way, and that they might therefore regard
@@ -5288,8 +4721,7 @@ the good of his people.
 
 THIS is a fairy tale. There was once upon a time a
 king who had become blind from old age. The doctors
-told him that in the White Sea there was a brightly-
-coloured fish with a horn on its head, called the “Red
+told him that in the White Sea there was a brightlycoloured fish with a horn on its head, called the “Red
 Fish.” If it were caught and its blood smeared on the
 king’s eyes, he would recover his sight. The king ordered
 his son to go with the fishermen to catch this fish;
@@ -5298,8 +4730,7 @@ set out.
 
 For two whole days they cast their nets in vain, it
 was on the third day that they caught the Red Fish.
-But it was so beautiful that they could not bring them-
-selves to kill it, and so they threw it back into the sea.
+But it was so beautiful that they could not bring themselves to kill it, and so they threw it back into the sea.
 But the king’s son made the fishermen take a solemn
 vow not to say anything about their catch. Then they
 returned home.
@@ -5307,15 +4738,11 @@ returned home.
 H
 
 
-100 FAIRY TALES
-
-
 Now it happened one day that the prince had occasion
 to beat a negro, one of his father’s servants. And the
 negro ran straight to his master and told him the whole
 story of the Red Fish. The king was very angry and
-banished his son from his kingdom. When he said fare-
-well to his mother, she said to him: “If a man follows
+banished his son from his kingdom. When he said farewell to his mother, she said to him: “If a man follows
 you on the road, stand still and wait; if he comes right
 up to you, take him as your companion; if, at dinner,
 he gives you more than he takes himself, then make
@@ -5341,8 +4768,7 @@ they asked her.
 
 “News is it? Our king has one daughter, she spoke
 up till her seventh year, but since then she has been
-dumb. The king has vowed to give her as wife to who-
-soever can make her speak. But he who tries and
+dumb. The king has vowed to give her as wife to whosoever can make her speak. But he who tries and
 does not succeed, his head will be cut off. Many have
 tried it already—a whole house has been built of their
 skulls.” When the king’s son and his friend heard of
@@ -5361,8 +4787,7 @@ The friend of the king’s son began to tell a story.
 
 “Once upon a time a tailor was making a journey.
 A carpenter joined him on the way, and further on a
-mullah. They spent the night in a dark wood. The car-
-penter took the first watch. When he began to get
+mullah. They spent the night in a dark wood. The carpenter took the first watch. When he began to get
 sleepy he took up a piece of wood and carved the figure
 of a boy out of it. The tailor had the second watch;
 when he began to get sleepy, he began to make clothes
@@ -5382,18 +4807,12 @@ the boy belong?”
 But no one answered; even when the teller repeated
 his question, everyone still remained silent. Only
 the king’s daughter could not stand it any longer.
-“Why do you not answer?” she cried behind her cur-
-tain. “The boy belongs, of course, to the mullah!”
+“Why do you not answer?” she cried behind her curtain. “The boy belongs, of course, to the mullah!”
 Immediately the whole people sprang joyfully to their
 feet—‘‘ Good! She has spoken,” they all shouted together.
 And the king gave the prince his daughter to wife.
 
 At night when the bridegroom was about to go to
-
-
-102 FAIRY TALES
-
-
 his bride, his companion told him not to lock his door.
 And when the young couple were sleeping, the friend
 went in and saw that an enormous serpent was crawling
@@ -5409,16 +4828,14 @@ with ten loads of costly goods.
 When they came to the place where the stranger
 had attached himself to the king’s son, the stranger
 said to him: “ Now we must divide everything between
-us.” The king’s son was well pleased with this arrange-
-ment and they divided everything, the goods, the ser-
+us.” The king’s son was well pleased with this arrangement and they divided everything, the goods, the ser-
 vants, the slaves. Only the king’s daughter remained.
 “We must split her in two,” said the friend. “No,
 no, do not kill her! Rather take her altogether,” said
 the king’s son. But in vain: the other refused to hear
 of it. So they bound the king’s daughter to a tree,
 the friend drew his diamond sword and pretended
-he was going to split her head. But she was so terri-
-fied that she became sick and . . little snakes came
+he was going to split her head. But she was so terrified that she became sick and . . little snakes came
 crawling out of her mouth. The stranger swung his
 sword a second and a third time and then unbound
 the king’s daughter.
@@ -5473,13 +4890,7 @@ him. When the prince felt that his end was near, he
 begged his father to let him be carried to the bazaar.
 So he was laid on his bed, covered with a coverlet of
 silk from Schemache, and carried to the shore of a little
-
-
-104 FAIRY TALES
-
-
-lake beside the bazaar.! As he lay there, an old bald-
-headed man passed by, looked at the prince and said:
+lake beside the bazaar.! As he lay there, an old baldheaded man passed by, looked at the prince and said:
 “Look! that is he who has fallen so deeply in love
 with Sartanki!’’
 
@@ -5504,8 +4915,7 @@ he mounted one of them himself, the prince leapt on the
 other, and they rode away together. And so they rode
 till they came to the shore of a certain sea. “What are
 we to do now?” asked the prince. ‘‘ How are we to get
-across?” “Do not disturb yourself,” answered Bald-
-pate, who pulled out a net and gave it to the prince.
+across?” “Do not disturb yourself,” answered Baldpate, who pulled out a net and gave it to the prince.
 “Put that over your eyes, prince,” he said, “we are
 going to ride through seven seas. On the bottom of these
 seas you will notice many beautiful things, pearls,
@@ -5560,11 +4970,6 @@ knew at once after that how to arrange matters.
 “To-morrow morning,” she said to the prince, “I
 must go to.the princess. Take a golden samovar on
 your shoulder and follow me. And when you arrive in
-
-
-106 FAIRY TALES
-
-
 front of the castle, call out your samovar as if you
 were a dealer.”
 
@@ -5601,8 +5006,7 @@ was broken open it was found to be empty.
 
 “That old woman is probably at the bottom of this!”
 said the king; he summoned her to him and asked her if
-she knew where his daughter was. The old woman pre-
-tended to know nothing, and only when the king got out
+she knew where his daughter was. The old woman pretended to know nothing, and only when the king got out
 
 
 SARTANKI | 107
@@ -5610,8 +5014,7 @@ SARTANKI | 107
 
 his riding-whip and struck her black and blue did she
 confess the truth. The king was in a great rage and
-determined he would not leave one stone of the kid-
-napper’s town standing on another. He assembled his
+determined he would not leave one stone of the kidnapper’s town standing on another. He assembled his
 army and set out to bring back his daughter and to
 slay the king’s son and all his house.
 
@@ -5646,9 +5049,6 @@ in a friendly and happy spirit said his farewells and
 went home to his own country.
 
 
-108 FAIRY TALES
-
-
 20. TO WHOM DOES THE BRIDE BELONG?
 
 
@@ -5661,8 +5061,7 @@ art. And the fame of the maiden and of this resolve
 of her father’s spread over all the world.
 
 Now in Erzerum there lived a man, who, when he put
-his hand before his eyes and lay down, could see every-
-thing that was going on over the whole world. And in
+his hand before his eyes and lay down, could see everything that was going on over the whole world. And in
 the town of Buchara there lived a man who had a gun
 which never missed the object it was aimed at. And
 in Afghanistan there lived a man who made various
@@ -5701,8 +5100,7 @@ my daughter.”
 “Good,” the three replied: “we will await your
 decision.” |
 
-Next morning the merchant came to the three candi-
-dates and informed them that his daughter had dis-
+Next morning the merchant came to the three candidates and informed them that his daughter had dis-
 appeared in the night, leaving no trace. “‘Now is
 the time to show your skill,” he added, “make ready
 to search for her and bring her back to me.”
@@ -5763,14 +5161,12 @@ and lay down to sleep. But all at once seven brothers of
 the Erchustojer Narts seemed suddenly to have sprung
 out of the earth and to stand a little distance away
 from him. They were wondering among themselves who
-this stranger could possibly be who had dared to pene-
-trate into their country—for when a bird even flew over
+this stranger could possibly be who had dared to penetrate into their country—for when a bird even flew over
 any of their lands it threw down a feather as a toll,
 and every four-footed animal passing through left a
 hoof or a paw. Then the youngest of the Narts crept
 softly up to the sleeping man, looked at his sabre, and
-then, returning to his brothers, told them of the in-
-scription on it: “This is the sabre of Näsni with which
+then, returning to his brothers, told them of the inscription on it: “This is the sabre of Näsni with which
 he slew sixty-three Erchustojer Narts.”
 
 At that moment Nasni woke up. He saw the seven
@@ -5843,8 +5239,7 @@ let him come near them, they all kicked out at him. At
 last he did find an old mare, hobbled by the feet. He
 pricked her flanks with two little sticks, she stood it
 and did not stir. “This is my chance!” cried Näsni,
-got upon her back and rode away, but not in the direc-
-tion of the enemy. When the Narts heard of it, they
+got upon her back and rode away, but not in the direction of the enemy. When the Narts heard of it, they
 thought, “Ah! he is playing the same game as with
 the rhinoceros. He will come in good time,” and so in
 this belief they closed with the enemy. But when Näsni’s
@@ -5927,8 +5322,7 @@ charging her to ask in his name for the hand of the
 princess. The widow discharged his commission, and
 was told by the king that he could not enter into any
 negotiations about his daughter, because a king’s son with
-a hundred and twenty cavaliers was on his way to at-
-tempt to take possession of the princess by force. When
+a hundred and twenty cavaliers was on his way to attempt to take possession of the princess by force. When
 Tschnara heard that, he jumped on his horse and rode out
 to meet the king’s son. He had hardly caught sight of
 Tschnara when he asked his retinue in a voice of alarm:
@@ -5988,9 +5382,6 @@ laugh as I go up because I get meat and bread at home.”
 Caucasians had no waggons, and never harnessed horses to their
 arben or two-wheeled carts.
 I
-
-
-116 FAIRY TALES
 
 
 “Have you any idea who robbed Tschnara of his
@@ -6077,11 +5468,7 @@ she met.
 
 “Only this,” she was answered, ‘‘that our Chan wishes
 to set free, for his son, a certain maiden who is watched
-over by many spirits. No one can be found to under-
-take this task.”
-
-
-118 FAIRY TALES
+over by many spirits. No one can be found to undertake this task.”
 
 
 But the unknown knight pleased all the people so
@@ -6125,8 +5512,6 @@ the shouts of the watchmen, she brought the stolen
 
 
 THE COURAGEOUS DAUGHTER 11g
-
-
 maiden safely away. When she got to the town of the
 Chan for whom she had undertaken this task, the maiden
 said to her: “I will only sign the marriage deeds if the
@@ -6163,11 +5548,6 @@ seized her, but she drove it to the shore. Then it cursed
 her—and the curse of a buffalo is always fulfilled.
 “Whosoever drives us out of the sea shall become a
 woman if he is a man, and a man if she is a woman,” he
-
-
-120 FAIRY TALES
-
-
 bellowed. And in truth our heroine changed at that
 moment into a man. And when he had driven the buffalo
 cows home, he had them milked and the milk heated.
@@ -6233,8 +5613,7 @@ of your daughter.” So the old man went away to the
 wood. In his absence his old house-dog began to speak:
 “Our old master is coming back with his daughter,”
 he said. “‘ They sit in a silver waggon drawn by a team of
-three horses. I hear the tinkle of the bells.” The step-
-mother asked him angrily: ‘‘What bells? That will be
+three horses. I hear the tinkle of the bells.” The stepmother asked him angrily: ‘‘What bells? That will be
 the bones of his daughter knocking together! Bad luck
 to you!” And she struck the dog and drove him out.
 But after a few moments he came again to announce
@@ -6248,11 +5627,6 @@ out in the wood and left her alone in the house. The
 mouse came out again and begged for something to eat.
 But the maiden was hard-hearted, struck the mouse
 on the head and drove it away. At midnight the bear
-
-
-122 FAIRY TALES
-
-
 arrived with the little bell, but this time there was no
 mouse there, the maiden had not even taken one step
 when the bear caught her and ate her up.
@@ -6284,8 +5658,7 @@ day they made up their minds to kill the hen, but after
 they had caught it, it laid a golden egg. “Why should
 we kill the creature, if it lays us every day a golden
 egg?” they said to each other, and let the hen go. But
-when they wanted to catch it the following day, it had dis-
-appeared. Then the old man took his staff and went out
+when they wanted to catch it the following day, it had disappeared. Then the old man took his staff and went out
 to search for it. ‘‘I will not come home without the hen,”
 he said to his wife. He wandered about for a long time—a
 fairy tale is soon told, but it takes a long time to happen
@@ -6299,8 +5672,7 @@ He told her about his hen, and asked her if she had not
 seen it. “No, I have not seen it, but I will give you a
 horse instead; if you neigh to it, it will give you any
 dish you like to ask for.” And with these words she
-gave him a pitiful-looking old horse. With great diffi-
-culty the old man clambered up on its back, and set
+gave him a pitiful-looking old horse. With great difficulty the old man clambered up on its back, and set
 out for home. As he rode through a certain place the
 people laughed at him because of his miserable nag.
 “Laugh as much as you like,” he said, “only do not
@@ -6329,11 +5701,6 @@ soon came to the place where his horse had been changed
 while he slept. They played the same trick with the goat,
 and when the old man got home and wanted to show
 his wife the goat’s wonderful powers, all his mä-ä-ä-ing
-
-
-124 FAIRY TALES
-
-
 was of no avail. The goat produced no gold. “What a:
 godless woman that must be!” said the old man. “ Why
 does she always deceive me?” And he went back to her
@@ -6406,16 +5773,10 @@ there and was announced to the princess, who allowed
 him to stay in her house as a guest. She sent him this
 message: “‘The prince is not at home, to be sure, but
 
-1 This custom is still observed by certain Caucasian and Cir-
-cassian peoples. It is also customary that until the birth of the
+1 This custom is still observed by certain Caucasian and Circassian peoples. It is also customary that until the birth of the
 first son, or at least at the beginning of married life, the young
-
-
 husband only visits his wife secretly.
 3 Schahar is the Persian for town.
-
-
-126 FAIRY TALES
 
 
 his house is here and his gates are open to every guest.
@@ -6428,8 +5789,7 @@ unaffected by the courtesy and grace of her guest. She
 invited him to her own rooms, asked him about foreign
 lands, and found entertainment in his conversation.
 
-The merchant, on his side, found himself much at-
-tracted by the lonely lady. He spent all his spare time
+The merchant, on his side, found himself much attracted by the lonely lady. He spent all his spare time
 with her, and it is not surprising that by his good looks
 and his flattering speeches he gradually won her affection.
 They became more and more intimate, and it is to be
@@ -6453,8 +5813,7 @@ to her, stood silent.
 are you so sad, and why do you hang your head?”
 
 “You know quite well,” the merchant answered.
-““You know how deeply I love the princess, how I can-
-not live without her. Help me!” The waiting-woman
+““You know how deeply I love the princess, how I cannot live without her. Help me!” The waiting-woman
 
 
 THE BEAUTIFUL HELENA 127
@@ -6472,8 +5831,7 @@ I possess—jewels and all kinds of rich materials.”
 prince kills me?” |
 
 “I will arrange so that no one will find out that I
-have made you rich: I will have a pit dug in the court-
-yard and will put into it everything you are to get;
+have made you rich: I will have a pit dug in the courtyard and will put into it everything you are to get;
 from that pit I will have a secret passage made to your
 room. Then no one can suspect you.”
 
@@ -6501,11 +5859,6 @@ She consented to this and sat down in the boat, which
 then proceeded under sail, not to the wood by the shore,
 but out to the merchant’s ship. Now for the first time
 she realised her lover’s designs, but her heart only
-
-
-128 FAIRY TALES
-
-
 hesitated a few moments between her home, her people,
 and her lover; then she threw herself into his arms.
 
@@ -6519,8 +5872,7 @@ sent up for the princess she ate herself. In this way she
 succeeded in keeping the kidnapping of her mistress a
 secret for three days. But on the fourth day she raised a
 tremendous hue and cry, she wrung her hands, she struck
-her breast and cried out that her mistress had dis-
-appeared, perhaps she had run away with the stranger ?
+her breast and cried out that her mistress had disappeared, perhaps she had run away with the stranger ?
 Now for the first time everyone came to know that the
 princess was indeed gone. Many had seen the departure
 of the ship, but no one had taken much notice of it, for
@@ -6538,8 +5890,7 @@ had gone.
 
 But at last the long-looked-for day dawned on which
 Sane was to return. AH his faithful friends assembled
-to welcome him; they accompanied him into the guest-
-room and plied him with food and drink. But Sane
+to welcome him; they accompanied him into the guestroom and plied him with food and drink. But Sane
 had noticed at once that something was wrong, for
 instead of the cries of joy and the happy faces he
 had expected, he saw nothing but downcast, sorrowful
@@ -6571,8 +5922,7 @@ of Helena’s disappearance, and so he made up his mind
 to tell him at once of his fruitless search.
 
 “That was quite useless, prince,” said the old man,
-“you are looked upon as a clever man, but your intelli-
-gence does not seem to be so great as your courage. Why
+“you are looked upon as a clever man, but your intelligence does not seem to be so great as your courage. Why
 do you seek your wife in your own country? She could
 not hide herself there! Do not waste your time, but
 search on the other side of the sea. And keep your ears
@@ -6589,9 +5939,6 @@ them to a tutor. It was only natural that a very intimate and
 lasting relationship grew up between pupil and guardian, who
 remained close friends for life and were always ready to be of
 service to each other.
-
-
-130 FAIRY TALES
 
 
 tions, so that he could fetch Helena even from the
@@ -6644,8 +5991,7 @@ ordinary man would never hear.”
 This advice seemed good to the prince, and he
 made up his mind to follow it. His friend got him a
 beggar’s sack, a ragged suit of clothes and a pilgrim’s
-staff, and soon the dignified prince had become a hunch-
-backed beggar. He set out at once, forced his way
+staff, and soon the dignified prince had become a hunchbacked beggar. He set out at once, forced his way
 into the palaces of the mighty and the huts of the poor,
 snuffied about everywhere, but all in vain. Not knowing
 what to do next, he returned to his friend and told him
@@ -6655,8 +6001,7 @@ of his fruitless search.
 his friend. No, he had not been there. But that could
 soon be put right. He went over to it at once, and was
 admitted by the gatekeeper. Then he begged through one
-room after another. And he got generous gifts from every-
-one. In the second storey he found the mistress of the
+room after another. And he got generous gifts from everyone. In the second storey he found the mistress of the
 house in a special room. She lay on a couch, and... it
 was Helena. She knew him at once. And yet no joy
 shone out of her eyes, rather bitter anger. In a harsh,
@@ -6678,9 +6023,6 @@ young, warlike prince.
 “Now we will lose no time,” said the friend. ‘‘ You
 
 K
-
-
-132 FAIRY TALES
 
 
 fetch your wife, I will overpower the guard and cover
@@ -6740,8 +6082,7 @@ reward it deserved.”
 The friend lifted up the dead body and threw it into
 the sea. Then he went on board his ship and took farewell
 of Sane: “Farewell, you have indeed lost your wife,
-but she was faithless to you. Know for your consola-
-tion that the seven brothers Baraghun have a sister;
+but she was faithless to you. Know for your consolation that the seven brothers Baraghun have a sister;
 she shall be the companion of your life.”
 
 When Sane got home he told his people all that had
@@ -6763,14 +6104,8 @@ The Baraghun brothers received him kindly though
 they did not know who he was nor what he wanted, but
 from the badge on his breast they knew he was a prince.
 
-After supper he was conducted to bed. On the follow-
-ing morning the seven brothers presented themselves
+After supper he was conducted to bed. On the following morning the seven brothers presented themselves
 solemnly before him, and asked him, as was the custom
-
-
-134 FAIRY TALES
-
-
 in their country, what he wanted. Sane told them his
 name and the object of his journey. The six eldest
 brothers hung their heads sadly, only the youngest
@@ -6794,8 +6129,7 @@ last night; he wishes to see you. What answer shall I
 take him?”
 
 “He may come,’ she answered. Greatly delighted,
-the messenger flew back to Sane, and with a face beam-
-ing with joy gave him the message. The elder brothers
+the messenger flew back to Sane, and with a face beaming with joy gave him the message. The elder brothers
 also congratulated themselves that their sister had
 become more gentle.
 
@@ -6856,16 +6190,9 @@ Sane, they proposed, according to the customs of the
 country, to amuse themselves by games and contests.
 Everyone crowded from the hall to the courtyard.
 The youths amused themselves with games and tried
-
-
-136 FAIRY TALES
-
-
-their strength by fighting in the ring and other exer-
-cises. Then they began shooting with bow and arrows at
+their strength by fighting in the ring and other exercises. Then they began shooting with bow and arrows at
 a target, and finally tried their skill throwing stones.
-Sane watched all this silently, but took no part in any-
-thing. That displeased the guests, and they went to him
+Sane watched all this silently, but took no part in anything. That displeased the guests, and they went to him
 and asked him why he did not enter into the sports
 with them. One of them even handed him a stone and
 challenged him to show his power and his skill.
@@ -6886,8 +6213,7 @@ bridal chamber.
 
 It was already late at night, but Sane could not
 sleep. And he noticed that his young wife was strangely
-restless. In order to find out the reason of this, he pre-
-tended to be asleep. Soon she rose, went into the hall
+restless. In order to find out the reason of this, he pretended to be asleep. Soon she rose, went into the hall
 next their bedroom, opened a trunk, took out a set of
 armour and put it on. Then she went down to the court,
 led her horse out of its stable, saddled it, mounted it,
@@ -6907,13 +6233,11 @@ THE BEAUTIFUL HELENA 137
 
 with eager attention what was going on. These men had
 assembled to attack the neighbouring town under the
-leadership of Sane’s wife. Should the undertaking suc-
-ceed, then they would load their loot on to their horses,
+leadership of Sane’s wife. Should the undertaking succeed, then they would load their loot on to their horses,
 while their leader covered their retreat.
 
 And so it turned out. At the appointed time they all
-pressed into the town, killed the sleeping inmates ruth-
-lessly, carried off everything that seemed valuable and
+pressed into the town, killed the sleeping inmates ruthlessly, carried off everything that seemed valuable and
 loaded it on their horses. The inhabitants, absolutely
 unprepared as they were, were overwhelmed; at first
 they lost their heads, but then they rallied and attacked
@@ -6921,8 +6245,7 @@ the robbers. Sane’s wife threw herself against them,
 but he soon noticed to his horror that her strength was
 failing. He hastened to her help, and together they
 performed miracles of bravery. When she saw that a
-giant stood beside her who was even stronger than her-
-self, she wondered at his enormous strength and his
+giant stood beside her who was even stronger than herself, she wondered at his enormous strength and his
 heroic courage. All at once she noticed that his hand
 was bleeding; an arrow had wounded him. She hastened
 to him and bound up his wound with her silk kerchief.
@@ -6941,19 +6264,12 @@ silk kerchief. As she looked more closely she recognised it
 and guessed who her deliverer was. Her astonishment
 soon gave place to emotion, she threw herself into his
 arms and said, “Know that up till now I have not
-
-
-138 FAIRY TALES
-
-
 been like other women. Every night I have ridden
 secretly away and taken part in sudden attacks. I was
 away from home for weeks and months, and had heroic
 adventures at different places. Once, when I was dressed
-as a man, I met a knight on the open sea who was look-
-ing for his wife, and I went to his aid. When we had
-taken her back by force of arms, I struck the faith-
-less one down with my sabre and threw her body into
+as a man, I met a knight on the open sea who was looking for his wife, and I went to his aid. When we had
+taken her back by force of arms, I struck the faithless one down with my sabre and threw her body into
 the sea... .”
 
 Now it was Sane’s turn to be astonished! he recognised
@@ -6966,12 +6282,10 @@ former habits, and take up the duties of a wife. I will
 be nothing but a weak woman in the future, that will
 be better both for you and me.”
 
-When this change in her ways became known, every-
-one rejoiced, her seven brothers not less than the whole
+When this change in her ways became known, everyone rejoiced, her seven brothers not less than the whole
 people. All hastened to wish Sane and his incomparable
 wife joy. Several days were spent in feasting and
-banqueting and then the young couple betook them-
-selves, with rich gifts, to Sane’s home.
+banqueting and then the young couple betook themselves, with rich gifts, to Sane’s home.
 
 
 27. KITSCHUW
@@ -7031,9 +6345,6 @@ at her window. The golden bird flew to her, and the
 1 A fabulous creature something like a Div.
 
 
-140 FAIRY TALES
-
-
 princess, who had never seen a bird like him, caught him
 at once. But the bird, who had quickly changed himself
 back into an Ajdaha, seized her and carried her off.
@@ -7082,8 +6393,7 @@ Ajdaha’s head.”
 
 The following day Kitschüw set out, with his five
 brothers and his friend Aslanä. Mounted on the Tulpan
-horses provided by Kitschüw’s father-in-law, they tra-
-velled in seven days a distance that would on other
+horses provided by Kitschüw’s father-in-law, they travelled in seven days a distance that would on other
 steeds have taken them seven years, and at last they
 came to the shore of a great sea. “‘Now, eldest brother,
 fulfil your promise!” said Kitschtiw. He did so, and at
@@ -7116,16 +6426,12 @@ became alive again, but then made ready at once to
 follow Kitschiiw.
 
 
-142 FAIRY TALES
-
-
 “ Brothers!” cried Kitschiiw. “ Brothers, do you know
 where this fine rain comes from all of a sudden? I know.
 Ajdaha is coming after us. Now it is your turn, second
 brother, to keep your word.” And the second brother
 prayed to God, and God at once let a high tower appear
-before them, in which the six brothers and Altunt-
-schatsché hid themselves. When Ajdaha came to the
+before them, in which the six brothers and Altuntschatsché hid themselves. When Ajdaha came to the
 tower he sprang up it but could not reach them. He
 sprang a second time, and Kitschiiw succeeded in cutting
 off all his three heads with one blow.
@@ -7152,8 +6458,7 @@ may or may not return; and on the third, If you go by me,
 you will return. Kitschiiw chose the first path. After a
 time he came to a spring. There his horse said suddenly
 in human speech, ‘ Kitschiiw, dismount and bathe in
-this spring.” “Why?” asked Kitschiiw. “Why?” re-
-plied the horse, “you do not need to know that just
+this spring.” “Why?” asked Kitschiiw. “Why?” replied the horse, “you do not need to know that just
 now.” Kitschüw got off and bathed in the spring. After
 
 
@@ -7195,9 +6500,6 @@ before the bird took on human form; the same Kitschüw
 of whom she had just spoken stood before her. “I am
 Kitschiiw,” he said. “Good,” she answered, “but before
 I can belong to you, you must accomplish three things.
-
-
-144 FAIRY TALES
 
 
 First you must wrestle with me, then you must change
@@ -7277,11 +6579,6 @@ saw a house before him. He looked in, and as he found it
 was empty he crawled up among the rafters and hid
 himself there. Soon afterwards a wolf, a bear and a fox
 arrived and came into the house. The bear said to the
-
-
-146 FAIRY TALES
-
-
 others: “We live together and we sleep together, then
 why should we not also eat together? Let each of us
 bring out what he has.”
@@ -7365,9 +6662,6 @@ health of mind and body.
 L
 
 
-148 FAIRY TALES
-
-
 the prince presented him with a whole flock of sheep
 with its shepherds. And the poor man rode off as fast
 as the wind.
@@ -7410,8 +6704,7 @@ THE HELPFUL RAM 149
 
 been you. You are just pretending to be ill so that we
 may not suspect you, but you cannot deceive us that
-way,” cried the bear, and he and the fox threw them-
-selves on the wolf. They killed him and ate him up.
+way,” cried the bear, and he and the fox threw themselves on the wolf. They killed him and ate him up.
 
 When they were finished, the fox sprang up among
 the rafters to look for his cloth of gold, and there he
@@ -7440,8 +6733,7 @@ full of good things to eat, but to the daughter of her
 husband she only gave pieces of hard bread. And that was
 why the one laughed all day and the other wept all day.
 
-But there came one day to the daughter of the hus-
-band a ram, who said, “Be so good, maiden, as to tell
+But there came one day to the daughter of the husband a ram, who said, “Be so good, maiden, as to tell
 me why you weep all day.”
 
 “How should I not weep?” she replied. “Come, I
@@ -7450,9 +6742,6 @@ a hole in a tree where she had hidden her bread.
 
 “Look, that is all I have to eat, but to her own
 daughter she gives a whole bag full of good things.”
-
-
-150 FAIRY TALES
 
 
 The ram was. heartily sorry for the poor girl. “ Look
@@ -7540,11 +6829,6 @@ do you great service if you only let me loose.”
 
 “When you want me come out to the field, whistle `
 three times and call: ‘Fire-horse, Fire-horse! Come
-
-
-152 FAIRY TALES
-
-
 quickly,’ and I will be with you at once.” John let
 the horse go and bade him leave the field alone from
 that time forward.
@@ -7561,8 +6845,7 @@ at their stupid brother, but from that day the field was
 left alone.
 
 A day or two later the king sent messengers to every
-town and village in his kingdom to make this announce-
-ment: ‘‘Lords, citizens, nobles and peasants! Our
+town and village in his kingdom to make this announcement: ‘‘Lords, citizens, nobles and peasants! Our
 mighty king is about to hold a feast and invites you all
 to attend it. The festivities will last for three days.
 Take your best horses with you. The king’s only
@@ -7582,8 +6865,7 @@ So the brothers mounted their horses and set out.
 But John went to the field and called his fire-horse.
 Where did it come from, that in a moment it stood
 before him? John jumped over its head, after which
-his face was quite changed; he had become such a hand-
-some fellow that no one would have believed he was
+his face was quite changed; he had become such a handsome fellow that no one would have believed he was
 stupid, dirty John.
 
 
@@ -7626,11 +6908,6 @@ an even heavier blow as he passed them. ...
 On the third day he came again. But this time he gave
 his horse such a blow with his whip. . . that the animal
 leapt with extraordinary power into the air and reached
-
-
-154 FAIRY TALES
-
-
 the balcony. John pulled the ring off the finger of
 the princess and turned round to ride away. “Hullo,
 there! Stop him! Stop him!” everyone shouted, the
@@ -7652,8 +6929,7 @@ him; ‘‘you are no use for anything, and you nearly
 set the house on fire just now. You should have been
 sent away long ago.”
 
-Three days later messengers came again and com-
-manded all the people of the country to come to a new
+Three days later messengers came again and commanded all the people of the country to come to a new
 festival which the king was about to hold. Whosoever
 did not come would have his head cut off.
 
@@ -7695,15 +6971,13 @@ his son: he had no one else belonging to him in the wide
 world, for his wife had died long before. After her death
 a Djinn had fallen in love with him and he had taken
 her to live with him. This Djinn woman wanted to see
-the son of her lover, but that, of course, was not pos-
-sible. Now the merchant fell ill, and before his death
+the son of her lover, but that, of course, was not possible. Now the merchant fell ill, and before his death
 he commanded his son to cook him a dish of pilaw every
 night after he was dead, and to put it in a certain corner
 of the stable which he specially described to him.
 
 The merchant died, and on the third day after his
-death the son hired a cook and had a dish of pilaw pre-
-pared every evening, which he put in the prescribed
+death the son hired a cook and had a dish of pilaw prepared every evening, which he put in the prescribed
 spot. He did that till all his money was spent and he
 had nothing left but his land and his house. He sold
 his land first of all, then his house, and spent all the
@@ -7713,11 +6987,6 @@ he thought to himself: “What am I doing now? I will
 watch to-night and see where the pilaw really goes to.”
 And he saw how a woman came out of a corner of the
 stable, took the dish and went away. He followed her
-
-
-156 FAIRY TALES
-
-
 and came to a place where no one lived except Djinns.
 Then he got frightened and would have turned back,
 but the woman said, “ Here, boy, do not be frightened.
@@ -7768,8 +7037,7 @@ was quite empty. As he was going out again he saw a
 picture hanging above the door, and it was so beautiful
 that he swooned. When he came to himself he looked at
 the picture again and said: “I must at all cost find the
-maiden whose picture that is; I will not leave here with-
-out her.” Then he went back to his own room and fell
+maiden whose picture that is; I will not leave here without her.” Then he went back to his own room and fell
 swooning to the ground. When his mother came back
 and found him lying on the ground, she asked: “Child,
 what is the matter with you? Has anything happened
@@ -7794,13 +7062,7 @@ now into the village,” said the woman to her companion,
 “and stay there. Stay with anyone you like as their guest.
 Give them money for any expenses they may have for
 you. Then in the evening you will go to the maiden you
-
-
-158 FAIRY TALES
-
-
-want to win. I will be there too, hidden behind the candle-
-stick. When you speak to her she will not answer you.
+want to win. I will be there too, hidden behind the candlestick. When you speak to her she will not answer you.
 Take your cushion with you and sit on it, for she will
 not ask you to sit down. . . . Then you will speak to
 her, but she will not say a single word to you. When it
@@ -7822,8 +7084,7 @@ moot point in it which you shall solve. Listen to me, then.
 the same maiden, but none of them knew that. When
 they found out they said to each other, “ We will go to
 her and ask her which of us she will have. She will then
-be a good friend to the other two.” So they sent a mes-
-senger to her and put the question to her. But her father
+be a good friend to the other two.” So they sent a messenger to her and put the question to her. But her father
 did not know what he should do. “If I give her to one
 of them, what will the other two say? I have certainly
 only one daughter. My best plan will be to give the young
@@ -7831,8 +7092,7 @@ people three thousand roubles; they must trade with it,
 and whoever makes most with it, he shall have my
 daughter.” He proposed this solution, they agreed to
 it, and he gave each of them a thousand roubles, and
-they went away to spend it. They travelled to a far-
-distant land, where they separated. The first found in
+they went away to spend it. They travelled to a fardistant land, where they separated. The first found in
 a bazaar a horse that cost exactly a thousand roubles.
 
 
@@ -7841,13 +7101,11 @@ THE FAITHFUL SON 159
 
 But it was a very special kind of horse, it could make
 a journey that ordinarily would take three months in
-three hours. The second found in another bazaar a tele-
-scope that also cost exactly a thousand roubles. But it
+three hours. The second found in another bazaar a telescope that also cost exactly a thousand roubles. But it
 also was a very special telescope; whosoever looked
 through it saw everything that was going on all over
 the world. And the third bought a bottle of medicine
-with his thousand roubles, a very special kind of medi-
-cine, one drop of it was sufficient to bring a dying person
+with his thousand roubles, a very special kind of medicine, one drop of it was sufficient to bring a dying person
 back to life.
 
 “The three met again at a certain place, and told each
@@ -7861,8 +7119,7 @@ this medicine.” “I can do that,” said he with the horse.
 No sooner said than done; he sprang on his horse, took
 the medicine, and in one hour was beside the dying girl.
 One drop of the medicine was put in her mouth, and she
-jumped up, sound and well. ‘You shall be my son-in-
-law,” said her father to him who had brought the
+jumped up, sound and well. ‘You shall be my son-inlaw,” said her father to him who had brought the
 medicine. But when the two others arrived, they came
 to blows, because each of them wanted the girl, and each
 of them had an equal right to her. ‘‘She belongs to me,”
@@ -7877,9 +7134,6 @@ young man. “To my mind,” he answered, “‘she belongs
 1The story-teller has forgotten that all this was being told
 the young man beforehand by the Djinn woman: he is telling it
 here as it happened afterwards.
-
-
-160 FAIRY TALES
 
 
 to the one with the medicine.” “No,” said the girl, who
@@ -7953,24 +7207,16 @@ you will be Chan after my death, you will have a happy
 life here.” “No, no,” the young husband replied. “I
 am tired of being here, I must go back to my mother.”
 So there was nothing more to be said; the Chan gave
-the young people much gold and many other posses-
-sions and let them go. When the young husband
+the young people much gold and many other possessions and let them go. When the young husband
 came to his mother, she was overjoyed. “ Ah, my dear
 son, have you got your heart’s desire?” said she. “Do
 not stay here, rather go to the place where your father
 lived. But do not forget us! And one thing more. Come
-
-
-162 FAIRY TALES
-
-
 with me into the other room. There lies the gold you
 paid out in order to fulfil your father’s last wish. Here it
 is, take it, it belongs to you.” “Good,” said he, “I will
 take it and then go.” He loaded the gold on a Djinn,
 got up on the shoulders of another Djinn himself and soon
-
-
 came to the place where his father had lived and died. |
 
 
@@ -8175,8 +7421,7 @@ asked the fox.
 “ Malik Ulhazin,” the dove admitted.
 
 The fox said nothing, turned round and disappeared.
-He ran straight to Malik Ulhazin, whom he found stand-
-ing beside a river, greeted him, and said:
+He ran straight to Malik Ulhazin, whom he found standing beside a river, greeted him, and said:
 
 “You creatures are precious in God's sight. You can
 
@@ -8230,8 +7475,6 @@ The camel was frightened. “Better not,” he advised,
 on the fox by appealing to a huntsman, who shoots the fox dead.
 The episode of Malik Ulhazin is not mentioned there. In‘a
 Hurkanian variant, it is a wolf who eats the young of the bird
-
-
 kuklachat. The fox helps the bird to revenge its young, but
 afterwards eats the next brood himself.
 
@@ -8356,8 +7599,7 @@ frightened, and could feel no security till he returned.
 They all came together one day and took counsel with
 each other. And one said to the other. “Brother, this
 lion is now our king, and he eats any of us that happen
-to suit him. It would perhaps be better if we deter-
-mined by: drawing lots, which of us should be sent to
+to suit him. It would perhaps be better if we determined by: drawing lots, which of us should be sent to
 the king, then the others would at least be saved fear
 and anxiety.” This plan appealed to all the beasts, and
 so a request was sent to the lion begging his pardon
@@ -8464,8 +7706,7 @@ bend down to eat it.”
 I will come with you,” and attached himself to the
 party.
 
-But when the three came to the borders of Daghes-
-tan they climbed up a hill. The fox looked round and
+But when the three came to the borders of Daghestan they climbed up a hill. The fox looked round and
 said: “It is still ten days’ journey to Schirwan, and we
 
 
@@ -8603,8 +7844,7 @@ shepherds chasing a wolf.” But at that very moment
 the hounds flung themselves on the fox, who just
 
 
-1 Arabic = ‘‘In the name of God, the All-Merciful.’”’ The Tchet-
-chens, from whom this fable comes, are of course Mahometans.
+1 Arabic = ‘‘In the name of God, the All-Merciful.’”’ The Tchetchens, from whom this fable comes, are of course Mahometans.
 
 
 176 ANIMAL FABLES
@@ -8641,8 +7881,7 @@ tiniest morsel left.” The fox became anxious and afraid
 when he heard this, and he began slowly to back away
 from the kid, and the kid had hardly finished his story
 before the fox with one great leap sprang into the wood
-and disappeared. He even forgot all about his com-
-panions, the bear and the wolf. They waited for a long
+and disappeared. He even forgot all about his companions, the bear and the wolf. They waited for a long
 time, but as the fox never turned up, the wolf went
 over to the three strangers—‘‘Who are you, then?”
 
@@ -8742,8 +7981,7 @@ the badger. ‘Ah, you dog, you liar! But I will eat you
 all the same,” threatened the wolf. “I am not worth
 your while,” said the badger. “That does not matter,”
 replied the wolf. “I will make two mouthfuls of you.”
-“Ah, grey wolf, you don’t even know how your fore-
-fathers set about eating a badger. Would you like to
+“Ah, grey wolf, you don’t even know how your forefathers set about eating a badger. Would you like to
 know? This was how they did it. Before they ate the
 badger, they seized him by the neck and threw him three
 times up the road and three times down the road, and
@@ -8794,8 +8032,7 @@ neighbours’ house, “Hi! you there, give me fire!” Again
 they were all terrified, but the lamb took courage and
 answered the bear. “ Just come in. Here is a little bit
 of bear-meat for you. After you have eaten it you can
-take the fire.” “Well, but where did you get the bear-
-meat?” “Our kid with the two horns gets it for us, and
+take the fire.” “Well, but where did you get the bearmeat?” “Our kid with the two horns gets it for us, and
 we do enjoy it tremendously.” The bear made off at
 once, because he was afraid the kid would kill him too.
 So he ran home and sent the pig over to the neighbours.
@@ -8810,8 +8047,6 @@ our little kid with the two horns gets that for us, and we
 
 
 THE WOLF, FOX AND CAMEL agr
-
-
 like it very much!” answered the lamb. But the pig
 ran away as fast as he could, ran home and told his
 friends what he had heard. “But the lamb said the same
@@ -8892,8 +8127,7 @@ asked if he might travel for three days in his company.
 Chamyts agreed and the two set out together. But when
 night came they had nothing to eat. Then the youth
 said to Chamyts, “If we lie down hungry, we won't
-sleep. You stay here with the horses. I will get some-
-thing.” Then he scrambled up the mountain and drove
+sleep. You stay here with the horses. I will get something.” Then he scrambled up the mountain and drove
 the game before him; he killed the best he saw, and
 slinging it on his back, drove the rest towards Chamyts.
 He, however, had gone to sleep in the meantime. “I
@@ -8906,9 +8140,7 @@ When morning came the youth said to Chamyts,
 Chamyts was sorry he had not asked the boy where he
 had come from, “For,” he thought, “a maiden of that
 race would have made a good wife for me.” So he called
-after him, “ Youth, look here! I want to ask you some-
-
-thing.” The youth stood still till Chamyts came nearer
+after him, “ Youth, look here! I want to ask you something.” The youth stood still till Chamyts came nearer
 = and asked him what tribe he belonged to, for he would
 like to court a maiden of that tribe. “I belong to the
 tribe of Chädmäst-Psäl. I have a sister and we will give
@@ -8918,12 +8150,6 @@ see Balz signifies the warlike and plundering expeditions of the
 
 Narts, or any long absence from home with the intention of
 travel, such as visiting relations, bringing home salt, and so on.
-
-
-183
-
-
-184 NART SAGAS
 
 
 kill herself or you will have to take her back to her
@@ -8973,8 +8199,7 @@ THE BIRTH OF BATRAS 185
 
 race of Bora came to the sea-shore and asked the youth
 to be so good as to throw them out some of the oxen
-that were in the sea. But the youth said: “‘ Bring Urys-
-mag here to me, shave his head, and when you
+that were in the sea. But the youth said: “‘ Bring Urysmag here to me, shave his head, and when you
 have done that, then I will throw oxen out to you
 and come out myself.” So they went to Urysmag and
 told him the whole story.
@@ -9015,14 +8240,10 @@ roubles in the Caucasus.
 or among the dead.
 
 
-186 NART SAGAS
-
-
 said then. He looked in and behold, Batras was sitting
 in the fire looking at him. “No, no,” he said. “If you
 are going to steel me, do it properly. If not, do not jest
-with me, but give me a Fandyr? to play.” So Kurdala-
-gon began again to steel Batras, and blew on his fire for
+with me, but give me a Fandyr? to play.” So Kurdalagon began again to steel Batras, and blew on his fire for
 another whole week. Then when he looked in Batras
 said, ‘‘Be merciful! Throw me into the sea.”
 Kurdalagon did that and the sea dried up from the
@@ -9045,13 +8266,11 @@ take him, and even sent the malik a message that within
 a week he must betake himself to the Kabardian plain,
 and leave the territory of the Narts.
 
-Three days before this truce was up the malik con-
-sidered the matter. “ Yes,” he thought, “Chamyts is
+Three days before this truce was up the malik considered the matter. “ Yes,” he thought, “Chamyts is
 strong. I had better ask a wise woman; perhaps she will
 be able to tell me some means of getting the better of
 him.” The wise woman was willing to help him and said,
-“Chämýts’ horse is of a fiendish brood; take a wolf-
-skin, hang it round the neck of your own horse, then
+“Chämýts’ horse is of a fiendish brood; take a wolfskin, hang it round the neck of your own horse, then
 Chaimyts’ horse will not be able to show itself in front
 of you.”
 
@@ -9088,8 +8307,7 @@ their armies at once and sent the evening wind to the
 morning wind with the message that the morning wind
 was to go to Batras and say to him: “The malik has
 killed your father, and we are going to attack Tynty. If
-you are sitting down, stand up and come; if you are stand-
-ing, do not sit down again, but come quickly.” When
+you are sitting down, stand up and come; if you are standing, do not sit down again, but come quickly.” When
 Batras heard from the morning wind that his father
 had been killed, he stood up to put on his armour. But
 his sweetheart had hidden it in the sleeping-chamber.
@@ -9101,19 +8319,13 @@ weapons, his sword and his shield. When he came down
 out to the dead as a wish or greeting.
 
 
-188 NART SAGAS
-
-
 from heaven to earth he was burning; he broke off half
-
 a glacier and put it on his head. Then he went to the
 
 Narts. “What do you want me for?” he asked. “Are
-
 you joking with me? When was any man stronger than
 
 Chamyts ?” “ Why should we not tell you?” the Narts
-
 answered, “the malik of Tynty has killed your father.”
 And Batras made ready to avenge his father.
 
@@ -9197,9 +8409,6 @@ He rides on a white horse. The name is formed from wats, holy,
 and tyrdji, George.
 
 
-190 NART SAGAS
-
-
 Then the UAtsillas and the Uastyrdjis met and took
 counsel together. “Why should we not kill Batras, if
 God will not listen to our wrongs?” they asked. And
@@ -9246,8 +8455,6 @@ church in honour of holy wisdom or Sophia?
 
 
 BATRAS AND BADSANAG ror
-
-
 his spirit loose upon you,” answered God; “go and bury
 him where I told you.” “We will never master him,”
 said the angels. “Leave that to me,” said God. When
@@ -9266,8 +8473,7 @@ Batras in the cave where he is to this day.
 50. BATRAS AND BADSANAG
 
 
-ONCE upon a time Batrás sat in heaven beside Kur-
-dalagon. The Narts gathered together by the Saqola
+ONCE upon a time Batrás sat in heaven beside Kurdalagon. The Narts gathered together by the Saqola
 river, where they played and danced. Bädsänäg, the
 son of the blind giant, looked down upon them from a
 mountain-top, and said to himself, “I will go down there!
@@ -9283,14 +8489,8 @@ morning he did the same thing. But Batras watched him
 1 In the Ossetian form this reads Son called by my name, that is,
 not of my body.
 
-* Three sanctuaries. The first has a Georgian name, mthavar-
-
-
-angelozi, i.e. the archangel, but no one knows where it is to be
+* Three sanctuaries. The first has a Georgian name, mthavarangelozi, i.e. the archangel, but no one knows where it is to be
 found. The two others are not far from Zei-Gletscher.
-
-
-192 NART SAGAS
 
 
 from heaven and said, “There is a giant dancing and
@@ -9368,9 +8568,6 @@ said to himself: “I must go to Eltaghan without fail.”
 1 In this sense the word means the helper or messenger of God.
 
 
-194 NART SAGAS
-
-
 He set out and came to the house of Eltaghan. He was
 looking out of the window and said, “Good journey,
 honoured guest, where have you come from?” “I have
@@ -9425,8 +8622,7 @@ sword and tried to strike off Eltaghan’s head. But he
 could not. “Be merciful,” Eltaghan implored: “do not
 tease me. Fetch my own sword and strike off my head with
 it.” So Sosryqo fetched the sword and said, “Strength
-you certainly have, and if you had only as much in-
-telligence, no one could overcome you. But in intelli-
+you certainly have, and if you had only as much intelligence, no one could overcome you. But in intelli-
 gence I am your superior.” Then he struck off his head,
 but in falling it seized with its teeth the handle of
 Sésryqo’s sword. He ran away as fast as he could, but
@@ -9446,20 +8642,14 @@ next morning.
 They came and cut out the collar. Then they went
 to a witch and asked for her advice. “We have cut out
 a collar for Sésryqo from the scalps of our fathers, the
-moustaches of our brothers, and the scalps of our hus-
-bands. Now we want to outwit him, and have come to
+moustaches of our brothers, and the scalps of our husbands. Now we want to outwit him, and have come to
 ask you what we should do.” “Leave his fur without a
 collar,” said the witch, “and when you are finished
-
-
 say, ‘ Your fur is very fine, but it still wants a collar; you
 o
 
 
 ~
-
-
-196 NART SAGAS
 
 
 must bring the scalp of Mukkara, the son of Taryk—it
@@ -9480,8 +8670,7 @@ your head belongs to me.” Mukk4ra agreed to this;
 they went on to the Sakola road and Sósryqo said
 Mukkára must throw first. “No,” he answered, “you
 have come here and cnallenged me, so you must throw
-first.” Sésryqo did so, and there fell out of the dice-
-box as much millet as a man could thresh in three
+first.” Sésryqo did so, and there fell out of the dicebox as much millet as a man could thresh in three
 days. “We must gather up the millet,” said Sdésryqo.
 Then Mukk4ra threw his dice, and so many chickens
 fell out of it that there was not even a grain of millet
@@ -9537,11 +8726,6 @@ horse, he is the youngest.” Chamyts was angry and
 cursed her: “For telling that lie, may the brown donkey
 of the Boras trample on you, for I am not the youngest.”
 (When the brown donkey of the Boras was mentioned
-
-
-198 NART SAGAS
-
-
 in this way, it usually ran by immediately after with
 a joyful hee-haw.) “Be merciful,” implored his sister,
 “do not let the donkey come to me and I will give you
@@ -9550,8 +8734,7 @@ Chamyts. She gave him the tooth and he stuck it in
 among his own. But this tooth had the virtue for its
 possessor that the woman he loved, even if she had
 no love for him, must give herself up to him. But if
-the possessor of the tooth did not want to have any-
-thing to do with her, then she turned herself into a
+the possessor of the tooth did not want to have anything to do with her, then she turned herself into a
 serpent. Now when Chämýts had got the tooth, he did
 not let the donkey harm his sister.
 
@@ -9625,16 +8808,11 @@ Many even put them on at the commencement of any dangerous
 undertaking.
 
 
-200 NART SAGAS
-
-
-saddled his war-horse, and rode after Sésryqo. He over-
-took him on the plain of Fardyg. “Sósryqo,” he said,
+saddled his war-horse, and rode after Sésryqo. He overtook him on the plain of Fardyg. “Sósryqo,” he said,
 “turn back, for if you do not, then I will die with you!”
 “You are a donkey, Färsagläg,” 1! Sósryqo answered,
 “how dare you follow me?” But they rode on together
-and came, without exchanging a single word, to Jelu-
-saned.? Arrived there, Sósryqo hastened to the river,
+and came, without exchanging a single word, to Jelusaned.? Arrived there, Sósryqo hastened to the river,
 but his brother-in-law Tschilachsarton was quicker and
 got first into the water. “God shall not hear you,”
 said Sdésryqo; “what will you offer me to give up my
@@ -9642,8 +8820,7 @@ search?” “You shall not turn back without reward,’
 he replied ; “‘come home with me, we have a sister whom
 even the angels court. We will give her to you.”
 
-So they turned back and came to the house of Tschi-
-lachsarton, who said to his sister, “Sister, I have found
+So they turned back and came to the house of Tschilachsarton, who said to his sister, “Sister, I have found
 you a good husband.” “Who is he?” she asked. “He
 belongs to the tribe of the Narts. He is Sósryqo.”
 Then the maiden began to weep, and said she would not
@@ -9671,8 +8848,6 @@ almost certainly derived from Jerusalem.
 
 
 URYSMAG AND SOSRYQO zor
-
-
 born last night, and to-day already you wish to go to the
 field of battle?” “I will give you as much help as a
 hundred men,” the child answered. “Who will hold
@@ -9705,15 +8880,9 @@ destroyed my town and killed many of my people.
 O God! As Thou hast given me these arrows, let me
 hit what sits up there and looks like a raven.” He
 fired and hit the boy in the knee. In olden times
-when anyone was carried over three valleys he be-
-came immortal. So Urýsmäg invited the boy to get
+when anyone was carried over three valleys he became immortal. So Urýsmäg invited the boy to get
 on his back and he carried him over two valleys. But
 Syrdon always gave bad counsel to the Narts, and
-
-
-202 NART SAGAS
-
-
 now he jeered at Urysmag. “Aha! they have struck a
 hard blow at the head of our army, and now you carry
 the son of a witch on your back.’’ Whenever Urysmag
@@ -9725,8 +8894,7 @@ Then he flew down from heaven to the Narts. “The
 smoke from your weapons is good,” he said, “but you
 have not yet done any damage to the town of your
 adversaries. Go, fetch me cannons, then you shall see!”
-They went to do his bidding, but neither by man-
-power nor with the help of oxen could they move the
+They went to do his bidding, but neither by manpower nor with the help of oxen could they move the
 cannons from the place where they were. “And you
 want to make war!” said Batrés. He went himself,
 took a cannon on his back, and carried it to the
@@ -9756,10 +8924,8 @@ THE BIRTH OF SATANA 203
 
 own husband. Udstyrdji answered: “Even if it is as a
 dead woman, I will still have you.” Now as Satna lay
-dying she commanded her three sons, Chamyts, Urys-
-mig and Sdsryqo,! to watch by her grave. The first
-night after her death, Urýsmäg kept watch. At mid-
-night Udstyrdji came, day dawned, the sun rose, and
+dying she commanded her three sons, Chamyts, Urysmig and Sdsryqo,! to watch by her grave. The first
+night after her death, Urýsmäg kept watch. At midnight Udstyrdji came, day dawned, the sun rose, and
 the people drove their flocks out to pasture. But Urys-
 ' mag was not to be deceived. “ You sly fellow,” he said
 to Udstyrdji, “you cannot take me in that way.” And
@@ -9793,9 +8959,6 @@ them home with him and brought them up. The child
 
 1Sésryqo was not really her son, but as he lived with the two
 others she called him also to her.
-
-
-204 NART SAGAS
 
 
 became very beautiful and she was called Satana. The
@@ -9846,8 +9009,7 @@ said, “when I saw the seven Uástyrdji sitting there
 holding a meeting. I shot at them; three remained and
 four flew away to God and complained of me; they are
 still doing so. Another time I was crossing another
-mountain, and the seven Uatsillas were holding a meet-
-ing there. I shot again: four remained where they were,
+mountain, and the seven Uatsillas were holding a meeting there. I shot again: four remained where they were,
 the other three went to God and complained of me.
 So altogether I killed seven Uatsillas and UAstyrdijis,
 and seven are complaining of me to God.”
@@ -9867,8 +9029,7 @@ dead for a week already.’ I began to weep, but told
 the shepherd I would ride on all the same and take
 her out of her grave. Then I found a piece of rope on
 the way that became first longer and then shorter. A
-little further on I saw a pigskin boot and a morocco-
-leather boot fighting, and the pigskin boot gaining the
+little further on I saw a pigskin boot and a moroccoleather boot fighting, and the pigskin boot gaining the
 mastery over the other. Then I came to the grave of my
 beloved, opened it up and crept into it myself. The
 grave was filled in again and I spent a week init... .
@@ -9878,9 +9039,6 @@ went to my brother-in-law and asked him what that
 meant. He said that was because these people had refused
 bread to the poor and had no sympathy with them, that
 they had also been inhospitable to travellers. Then I
-
-
-206 NART SAGAS
 
 
 asked him what the rope meant that I had found on
@@ -9945,8 +9103,7 @@ as a man, she said: ‘Urysmig, I have been sorry that
 I did you that injury.’ I answered her, ‘You made me
 miserable, but may God punish you. It was because
 of you that the dogs ran after me, and that I gave birth
-to whelps. How can I get what I desire now?’ ‘Uás-
-tyrdji is not here,’ she answered; ‘if he does not come
+to whelps. How can I get what I desire now?’ ‘Uástyrdji is not here,’ she answered; ‘if he does not come
 to-night, then I am at your disposal.’ That night I
 slept with her; her husband did not come. In the morning
 I purposely left my boots in her room. Udstyrdji came
@@ -9959,9 +9116,6 @@ you that we slept together last night.’ ”
 
 When Urysmig had finished he asked, ‘‘ Now, to which
 of us does the squirrel skin belong?” Then they said to
-
-
-208 NART SAGAS
 
 
 Chamyts, “What misfortune did you have?” and to
@@ -9986,8 +9140,7 @@ which was lying near, rolled it right on to the top of
 the dice and crushed it to dust. The boys threw a look
 of horror at Etsemej and ran into the mill with tears
 in their eyes. “Mother, mother,” they cried. “ Etsemej
-gives us no peace and has crushed our dice with a mill-
-stone.” “I will soon settle him,” said the mother, went
+gives us no peace and has crushed our dice with a millstone.” “I will soon settle him,” said the mother, went
 out and began, “ You great boor, why can you not let
 my children alone? Do you want to show off your
 strength? If you are really as strong as all that, then
@@ -10008,8 +9161,7 @@ ETSEMEJ, SON OF ETSEJ 209
 
 
 arms of his mother. “What is wrong with you?” she
-asked him as she stroked his cheek. “I would like some-
-thing to eat, roast me some maize,” Etsemej answered.
+asked him as she stroked his cheek. “I would like something to eat, roast me some maize,” Etsemej answered.
 His mother fetched a maize cob, roasted it, put it on a
 plate and brought it to her son. “ You always say you
 love me,” said Etsemej; “if you really do, then why
@@ -10035,8 +9187,7 @@ you are not able to help her yet.”
 
 “Mother, do not insult me,” cried Etsemej; “I
 feel myself strong enough to avenge my father. It
-grieves me and I am ashamed to have to hear re-
-proaches on that account from any stupid woman!
+grieves me and I am ashamed to have to hear reproaches on that account from any stupid woman!
 Tell me, where is my father’s armour and where is
 his horse?”
 
@@ -10044,11 +9195,6 @@ his horse?”
 answered unwillingly. In a moment Etsemej was at
 the door of the tower and flung it open. Before him in
 the darkness and the damp stood his father’s charger
-
-
-210 NART SAGAS
-
-
 with its flashing eyes. Since that day on which it had
 lost its master. it had allowed no one to come near it,
 and would take neither food nor drink from anyone.
@@ -10080,8 +9226,7 @@ No one knows how long Etseme]j rode on, but at last
 one evening he came to a dark wood. He dismounted
 in a clearing, let his horse graze and set about preparing
 supper and arranging his quarters for the night. He
-turned to the right and killed some stags and stein-
-bocks; he turned to the left, and sheep and goats were
+turned to the right and killed some stags and steinbocks; he turned to the left, and sheep and goats were
 his prey. Out of the skins of these animals he made
 himself a tent, and then he put a whole stag on the
 
@@ -10118,27 +9263,21 @@ had left the wood and saw in the distance the valley
 in the midst of which the tent of the princess was set
 up under the shade of a tree. As they drew near, one
 of the two warriors said to Etsemej: “I must go and
-announce your. arrival to the princess,” and rode for-
-wards quickly. When she heard of the approach of this
+announce your. arrival to the princess,” and rode forwards quickly. When she heard of the approach of this
 long-expected guest, she hastened joyfully to meet
 him. “It is true I have waited long for you,” she said
 to Etsemej, “but I did not dare to hope you could come
 P
 
 
-212 NART SAGAS
-
-
 so soon. For. . . what help can you be tome yet? ...
 “You will soon see what I can do for you!” Etsemej
-answered proudly; “in the meantime only this: to-
-morrow, early in the grey of the morning I will leave
+answered proudly; “in the meantime only this: tomorrow, early in the grey of the morning I will leave
 you. Wait for me here with your army. I only ask you
 one thing—do not interfere with me and trust to me
 absolutely.” “ Well, if you wish to take everything upon
 you, we will not prevent you,” said his aunt; “not for
 nothing does the proverb say ‘A woman’s hair is long,
-
 l but her understanding short.’ For in fact we make many
 mistakes and even in the simplest things. Besides that,
 this is a man’s business, not a woman’s. Do therefore
@@ -10167,9 +9306,6 @@ was bringing, and that people might think he had flown
 before Kuba like a small boy. No, that would never
 
 
-29
-
-
 ETSEMEJ, SON OF ETSEJ 213
 
 
@@ -10178,12 +9314,10 @@ would go and see what else there was to be done.
 
 So he drove the horses through the river, and fired
 a shot to let his followers know that something was
-required of them. And at once his aunt’s warriors sur-
-rounded the horses and congratulated him on his suc-
+required of them. And at once his aunt’s warriors surrounded the horses and congratulated him on his suc-
 cessful capture. “ You have kept your word,” said the
 princess as she embraced her nephew, “you have shown
-your powers. Now we can return home, without fight-
-ing certainly, but still covered with glory.” “Not I,”
+your powers. Now we can return home, without fighting certainly, but still covered with glory.” “Not I,”
 laughed Etsemej, ‘‘you came sooner than I did, and so
 you can return home sooner.” “ But what do you intend
 to do?” asked the princess. “I will fight it out with
@@ -10201,22 +9335,14 @@ down and soon went to sleep. Suddenly in his dreams
 he heard the neighing of his horse. He sprang up and
 saw how the animal was standing with pricked ears
 looking anxiously into the distance as if petrified. “‘ What
-can he be seeing?” wondered Etsemej, and looked him-
-self eagerly in the same direction. And he saw that, far
+can he be seeing?” wondered Etsemej, and looked himself eagerly in the same direction. And he saw that, far
 away against the horizon, a little speck was moving,
 and was growing larger and larger every moment.
 Gradually he was able to distinguish head and legs:
 it was a horseman. But what an extraordinary horse
 he rode; it ran on six legs, and seemed to fly like a raven,
 the dust flew up in front of it like a pillar, steam poured
-
-
 a
-
-
-214 NART SAGAS
-
-
 out of its nostrils, a star glowed on its forehead, fire
 gleamed out of its eyes, hares leapt along beside it and
 seagulls flew about among its feet! Soon this strange
@@ -10238,8 +9364,7 @@ even more furiously at Etsemej, and even threatening
 him with his whip. “Forgive me,” the latter answered,
 “you rage at me so violently. . . . But now I remember
 exactly — your horses were driven away eastwards.
-Ride after them, you will surely not come back empty-
-handed this time.” “Take care,” answered Kuba—for
+Ride after them, you will surely not come back emptyhanded this time.” “Take care,” answered Kuba—for
 it was he—‘‘if you deceive me again, I will tear off your
 head.” So saying he rode off towards the east. Now
 Etsemej, well satisfied with what he had done, began to
@@ -10261,8 +9386,7 @@ But if you want to know who has insulted you in this
 way—lI am the son of Etsej and I have come to avenge
 my father.”
 
-“Ah, I understand,” said Kuba and threw a con-
-temptuous glance at Etsemej. ‘Well, shall we shoot
+“Ah, I understand,” said Kuba and threw a contemptuous glance at Etsemej. ‘Well, shall we shoot
 or shall we wrestle?” “Women wrestle with us,” said
 Etsemej contemptuously. Kuba rode a gun-shot back,
 dismounted and went up a little hill. Etsemej, after
@@ -10274,8 +9398,7 @@ end of you.” He shot and hit the young hero in his
 right side, but Etsemej did not make much of that;
 he aimed again and hit Kuba’s left shoulder. And so
 the fight went on. The guns roared like thunder, the
-shots flashed like the stars, and soon thick smoke en-
-veloped the warriors. When evening drew on their
+shots flashed like the stars, and soon thick smoke enveloped the warriors. When evening drew on their
 powder was exhausted. “It is time to rest,” said Kuba,
 “I will ride home and fetch powder and provisions.”
 “Of course we shall need both of these,” said Etsemej,
@@ -10292,11 +9415,6 @@ a ten-year boy,” answered Kuba.
 
 Day had hardly dawned before he was again on the
 field of battle, breakfasted with his opponent, divided,
-
-
-216 NART SAGAS
-
-
 according to the ancient custom, powder and shot with
 him, and then said, “Good. Now it is time to begin again.”
 “Good,” answered Etsemej calmly. Again the shooting
@@ -10344,8 +9462,7 @@ in order not to waken her husband and went out. She
 said to the guard that her husband had not been quite
 well, and that it was really unnecessary for them to
 stand there round a dead body, and they could go
-quietly to their homes. The watchers bowed respect-
-fully and left her. Then with fear and trembling she
+quietly to their homes. The watchers bowed respectfully and left her. Then with fear and trembling she
 went to the body, and began to rub Etsemej with her
 towel. At the touch of this magic towel the bullets fell
 out of him like hailstones. It was not long before a
@@ -10370,24 +9487,17 @@ As he came near Kuba, Kuba felt his enemy approaching,
 trembled all over and was about to say something, when
 the knife flashed through the air and Kuba’s head fell
 on the floor. Then Etsemej pulled his body gently out
-
-
-218 NART SAGAS
-
-
 of the bed that his wife might not notice anything, and
 lay down himself in Kuba’s place.
 
-At cock-crow he awoke. “Wife, wife,” he cried, try-
-ing to imitate Kuba’s voice, “get up and make ready;
+At cock-crow he awoke. “Wife, wife,” he cried, trying to imitate Kuba’s voice, “get up and make ready;
 we must go away at once; our whole land is surrounded
 by enemies!” Then he got up, put on his armour and
 put the black knife back in its place. Kuba’s widow
 had not noticed anything; she packed up and thought
 her husband was inside the armour. In two hours Kuba’s
 house was empty and forsaken for ever. Now when
-they came to the river, Kuba’s widow saw the reflec-
-tion of him she thought her husband in the water, and
+they came to the river, Kuba’s widow saw the reflection of him she thought her husband in the water, and
 she was astonished that it looked so small. She said,
 “How tiny you look in the water, only about half as
 big as you really are!” “‘A small axe will fell a big tree,”
@@ -10402,8 +9512,7 @@ his slaves to set up the tents, took his gun and went
 off shooting. After a merry evening they went on their
 way next day. Towards midday Etsemej came into
 Sdésryqo’s territory, who himself came out to greet the
-youth, to congratulate him on his victory and, accord-
-ing to the custom of the country, to demand toll for
+youth, to congratulate him on his victory and, according to the custom of the country, to demand toll for
 passing through his kingdom. ‘‘Take the horses laden
 with gold and add my slaves to them,” said Etsemej
 generously. “No, I want none of all that,” Sdésryqo
@@ -10425,8 +9534,7 @@ threatened Sdsryqo. “Victory shall decide to whom
 Kuba’s wife shall belong.” “I agree to that,” said
 Etsemej, dismounted from his horse, ordered his men
 to fall back, and began to fight single-handed against
-Sdésrygo and his whole army. With every shot he ac-
-counted for a man, but finally he became so tired and
+Sdésrygo and his whole army. With every shot he accounted for a man, but finally he became so tired and
 weak in the unequal struggle that he saw his end
 approaching. “I am dying,” he said to his adversary.
 “I pray you to grant my last request. If you are not
@@ -10438,8 +9546,7 @@ single file. Then he turned to his wife and took one long
 last look at her. She would have hastened to his aid
 with her magic cloth, but Sésryqo’s cunning mother
 persuaded him nòt to allow this. Sdésryqo did as his
-mother advised; he ran after the wife of Etsemej, over-
-took her and struck off the head of Etsemej. But his
+mother advised; he ran after the wife of Etsemej, overtook her and struck off the head of Etsemej. But his
 victory was vain, for the bored-through ears of his
 whole army cost him much fame and glory, and made
 him the laughing-stock of the whole world.
@@ -10472,15 +9579,13 @@ in the forest, and they would probably make an end
 of him. So the king had Rustum brought to him,
 and ordered him to go to this forest and hew wood.
 “Good,” said Rustum, “but I shall require seven mules,
-one axe and one hatchet, each weighing five hundred-
-weight.” When everything was ready Rustum went
+one axe and one hatchet, each weighing five hundredweight.” When everything was ready Rustum went
 to the forest. He had hardly entered it when the Divs
 seized him. He took his axe and his hatchet, killed
 his assailants, put their bodies on three of his mules
 and loaded the other four with wood. Then he went
 home and unloaded his mules in the courtyard of the
 1A game played with little sticks.
-220
 
 
 AN UDIAN VARIANT 221
@@ -10513,20 +9618,13 @@ split open like a poppy-head. There he left him lying
 dead and went home.
 
 But after a time he noticed that no one in the king’s
-house seemed to like him. So he said farewell to every-
-body and went away. On his way he met a man who had
+house seemed to like him. So he said farewell to everybody and went away. On his way he met a man who had
 a nut-tree in one hand, which he held over the reapers
 to cast a shadow over them and keep them cool. “ What
 miracle are you performing there?” asked Rustum.
-“ Miracle?” he answered. “No! only Rustum can per-
-form miracles.” “That is no work for you,” said Rustum,
+“ Miracle?” he answered. “No! only Rustum can perform miracles.” “That is no work for you,” said Rustum,
 “come with me.” “Very good,” said the man, “I will
 come.” So the two went on together till they met a man
-
-
-222 RUSTUM SAGAS
-
-
 who had bound millstones on his feet and was grinding
 corn with them. “What wonder are you doing there?”
 asked Rustum. “This is nothing wonderful,” answered
@@ -10544,8 +9642,7 @@ said Rustum, “and come along with us.”
 So the four went on together till they came to a wood
 where they built themselves a hut. One of the number
 always stayed at home and cooked, while the others
-went out hunting. The first day the man with the nut-
-tree stayed at home. As he was busy cooking pilaw,
+went out hunting. The first day the man with the nuttree stayed at home. As he was busy cooking pilaw,
 an Adschdaha (a fabulous creature) came to him and
 asked for some of the soup from the pilaw. “Wait till
 my friends come,” the nut-tree man replied. But the
@@ -10575,8 +9672,7 @@ Adschdaha pulled a hair out of his moustache and was
 about to bind Rustum, when the latter tore his head
 off and threw it away. The head rolled along till it came
 to a hole into which it fell. When the others had come
-home and had eaten, Rustum told them what had hap-
-pened with the Adschdaha, and then they all told their
+home and had eaten, Rustum told them what had happened with the Adschdaha, and then they all told their
 own experiences with him. “ We will go and look what is
 in the hole,” said Rustum; but when they got there
 they saw only that the hole was very deep, they could
@@ -10603,21 +9699,15 @@ and set the maiden free. She told him that she had a
 sister who was also in the power of a Div, and begged
 
 
-224 RUSTUM SAGAS
-
-
 Rustum to set her free too. Rustum did not need to be
 asked twice; he broke open the doors which led into the
 next apartment, struck the Div dead and brought out
 
 
 ` the maiden. And a third maiden he set free in the same
-
-
 way. Finally, behind a fourth very strong door he found
 a most beautiful maiden on whose knee a black Div
-was sleeping. But there also was the head of the Adsch-
-daha he had killed, who had come here to make a
+was sleeping. But there also was the head of the Adschdaha he had killed, who had come here to make a
 complaint against Rustum. He crushed the head under
 his foot, killed the Div and took the beautiful maiden for
 himself, but the other three he wished to give to his
@@ -10685,9 +9775,6 @@ had him brought. Then the princess recognised him.
 Then she showed him the two bloody handmarks on
 
 
-226 RUSTUM SAGAS
-
-
 Rustum’s back. But the king said to Rustum, “Giant,
 tell me your wish: I will give you whatever you desire.”
 “I want nothing from you,” Rustum answered, “only
@@ -10703,8 +9790,7 @@ killed her young. She was just about to kill him when
 the young birds in the nest said: “No, it was not he,
 but the serpent which he has cut to pieces.” Then
 the bird flew down over Rustum and sheltered him with
-her wings. When he awakened and saw the bird hover-
-ing above him he was afraid, but the bird assured him
+her wings. When he awakened and saw the bird hovering above him he was afraid, but the bird assured him
 at once and said, “Do not be afraid, I am entirely at
 your service, only command me and I will obey.”
 “Good! Then take me to the overworld,” said Rustum.
@@ -10712,8 +9798,7 @@ your service, only command me and I will obey.”
 bird. “If I were young it would be different, but I
 am already old. Still, you have rendered me such great
 service that I must certainly fulfil your request. But
-go first to the king and ask him for seven hundred-
-weight of meat and seven hundredweight of water.”
+go first to the king and ask him for seven hundredweight of meat and seven hundredweight of water.”
 When Rustum had brought that, the bird took him
 on her back and said to him, “Every time I cry,
 throw a hundredweight of meat and a hundredweight
@@ -10764,9 +9849,6 @@ kingdom. When he saw a king’s castle there, he asked
 to whom it belonged. He was told it belonged to a Div.
 
 ' Q
-
-
-228 RUSTUM SAGAS
 
 
 He killed the Div and took his wife, so that he had now
@@ -10820,13 +9902,11 @@ courtyard. i
 
 But at that moment the stones of the rings of Rustum’s
 friends became black, and they knew that Rustum was in `
-danger. They set out at once and found him lying un-
-conscious in the garden, and his ring was not on his
+danger. They set out at once and found him lying unconscious in the garden, and his ring was not on his
 finger. They searched and searched, but could not find it.
 Then the water-drinker drank up all the water from the
 well, found the ring and put it again on Rustum’s finger.
-Rustum came to himself, was overjoyed to see his com-
-panions, and said, ‘‘How long have I been asleep?”
+Rustum came to himself, was overjoyed to see his companions, and said, ‘‘How long have I been asleep?”
 “You have not been asleep,” they answered, “you were
 unconscious.” And then they told him all that had
 happened. Full of amazement Rustum went into the
@@ -10843,14 +9923,10 @@ Three apples fell down from God; one for me, one for
 the teller of the story, and one for the listener.
 
 
-230 RUSTUM SAGAS
-
-
 58. A TATAR VARIANT
 
 
-RUSTUMSAL was the son of Qahirman. One day Rus-
-tumsal was teasing an old woman. “Why can you
+RUSTUMSAL was the son of Qahirman. One day Rustumsal was teasing an old woman. “Why can you
 not leave me alone? ” she asked. ‘‘Why must you make
 fun of me? It would be better for you if you spent
 your time bringing back your aunt from the white Div.
@@ -10901,8 +9977,7 @@ killed one of the guards, broken open the gates, and now
 demanded to be taken to the king. He gave orders that
 the intruder should be brought to him. When Rustumsal
 came into the room in which the king was, the latter
-stood up and invited Rustumsal to come nearer. Rus-
-tumsal greeted him and then sat down opposite the king.
+stood up and invited Rustumsal to come nearer. Rustumsal greeted him and then sat down opposite the king.
 “ King,” said he, “I wish you well. Do you know me?”
 The king was taken aback at the boldness of these words
 and answered, “I know you.” “I am Rustumsal, the
@@ -10919,15 +9994,9 @@ and hospitably entertained, the king secretly left his
 house, went to his vizier, and commanded him to let
 Rustumsal’s father know that his son had arrived
 and had asked where his aunt was. The vizier set out
-at once, and after two days’ journey arrived at Rus-
-tumsal’s home and delivered his message to Qahirman.
+at once, and after two days’ journey arrived at Rustumsal’s home and delivered his message to Qahirman.
 He left home at once with his wife, and after two days’
 travel arrived at the house of the king. But Rustumsal
-
-
-232 RUSTUM SAGAS
-
-
 heard his father’s voice in the next room, stood up,
 strode into the room and said, “Here I am.” “What
 can I do to prevent my son going to the white Div?”
@@ -10977,8 +10046,7 @@ rode on. But his horse had six feet, and that was why
 he was called Tulpar. And he could cover a ten days’
 journey in one or two days.
 
-Now as Rustumsal rode on, all at once he saw some-
-thing black in the distance. “Those must be the Divs,”
+Now as Rustumsal rode on, all at once he saw something black in the distance. “Those must be the Divs,”
 he said, and held on towards them. But when he came
 nearer he saw that it was an old man who was reading
 the Koran. He greeted him and the old man answered,
@@ -10997,18 +10065,11 @@ At first you will suffer hunger in a forest. Then a cow
 will come towards you, and you will be tempted to drink
 her milk. Do not do it, however, for if you do you will
 be bewitched. Then you will see a man who carries a
-pitcher full of presents on his head. If you take any-
-thing from it you will fall a victim to a powerful spell.
+pitcher full of presents on his head. If you take anything from it you will fall a victim to a powerful spell.
 Later on you will meet a beautiful maiden and she will
 invite you into her garden, where there will be all kinds
-of fruit. Do not follow her or you will be heavily be-
-witched. Be careful to avoid all these spells; but if it
+of fruit. Do not follow her or you will be heavily bewitched. Be careful to avoid all these spells; but if it
 should happen that you fall under one of them, you will
-
-
-234 RUSTUM SAGAS
-
-
 find Iskender’s ! drum hanging on a tree. If you sound it,
 the whole world will hear; I too will hear, and will come
 at once to your aid. But once again—it will be hard for
@@ -11023,8 +10084,7 @@ Tulpar and rode into the land of the white Divs.
 First of all came hunger. One day Rustumsal could
 not catch sight of any game whatever. In the evening
 he lay down hungry, and as he went into the forest the
-following morning, he saw a cow. But at once he re-
-membered the words of the old man, struck Tulpar a
+following morning, he saw a cow. But at once he remembered the words of the old man, struck Tulpar a
 sharp blow and fled from the forest. Then he came to
 a great smooth plain where he rested for a little. While
 he lay there he saw some men coming towards him, one
@@ -11071,26 +10131,19 @@ and after they had wandered about the neighbourhood
 for two or three weeks the servants of the maiden had
 come, put them in chains and locked them into this
 room. Now they were dying of hunger. Rustumsal tore
-off their chains and set the kings free. But from weak-
-ness —so long had they hungered—they could not
+off their chains and set the kings free. But from weakness —so long had they hungered—they could not
 walk. Rustumsal went away to look for something to
 eat, but he found nothing save two dead bodies, whose
 flesh he brought to the starving kings. The kings were
 glad that he had brought them something to eat and
 had broken their spell. Rustumsal then rode on and came
-again to a wood. There he found Iskender’s drum hang-
-ing on a tree as the old man had told him. With a
+again to a wood. There he found Iskender’s drum hanging on a tree as the old man had told him. With a
 firm hand Rustumsal beat the drum, and then hung it
 up again in the same place. Two days later he heard
 someone calling, and he cried as loud as he could,
 “Here I am,” and at the same moment it occurred to
 him that he who was calling could be none other than
 the old man. He ran quickly to the kings to encourage
-
-
-236 RUSTUM SAGAS
-
-
 them, and behold, there was the old man already. He
 took out his Koran, read in it, and the power of the
 holy word at once opened a door in the round wall of
@@ -11102,8 +10155,7 @@ you,” and turning to the kings he said, “ You must now
 go to the old man one after the other.” The old man
 told them all to go out, and Rustumsal himself came
 last. When they had left the bewitched castle behind
-and come to a wood, they related to each their ex-
-periences, their troubles and distresses, and then lay
+and come to a wood, they related to each their experiences, their troubles and distresses, and then lay
 down to sleep.
 
 Next morning Rustumsal mounted Tulpar again,
@@ -11122,8 +10174,7 @@ your son? Who knows how things are with him now!
 Perhaps the Divs have killed him—perhaps he still
 lives! You must really go and see what has happened
 to him.” Qahirman asked his bird Smaragd, whom he
-called his mother, “Smaragd, where is my son Rustum-
-sal?” “It is difficult to get to him,” answered the bird,
+called his mother, “Smaragd, where is my son Rustumsal?” “It is difficult to get to him,” answered the bird,
 “because he is living in a high fortress. He has more
 than enough to eat and he is well and strong; whenever
 he sees game he kills it for food. If we try to go to him
@@ -11142,8 +10193,7 @@ sat down on the back of the bird, she spread her
 pinions and flew away. She flew for two weeks till
 she had brought Qahirman near the fortress where
 Rustumsal lived. “Now call your son,” said the bird,
-“or else he will surely shoot at us.” “Good,” said Qahir-
-man, and as the bird flew over the fortress Rustumsal
+“or else he will surely shoot at us.” “Good,” said Qahirman, and as the bird flew over the fortress Rustumsal
 took his bow and was about to shoot at it. But from
 above his father called out to him, “Do not shoot, my
 son, it is I.” When Rustumsal heard his father’s voice,
@@ -11158,20 +10208,12 @@ as much as the son, they stayed there two months.
 But the seven kings, who had returned to their own
 kingdoms in the meantime, had there recovered from
 their sufferings. They often thought of Rustumsal, and
-always spoke of him when they met together. “ Rus-
-tumsal delivered us from the spell,” they used to say,
+always spoke of him when they met together. “ Rustumsal delivered us from the spell,” they used to say,
 “we must go and see what has happened to him.” So
-they armed a great army and set out to seek Rus-
-tumsal. At a certain place they joined all their armies
-together into one large army, which then went on seek-
-ing for Rustumsal, but could not find him. Then one
+they armed a great army and set out to seek Rustumsal. At a certain place they joined all their armies
+together into one large army, which then went on seeking for Rustumsal, but could not find him. Then one
 day the kings caused it to be announced that whosoever
 should find Rustumsal should have a great reward;
-
-
-238 RUSTUM SAGAS
-
-
 he should be put in a great weighing-machine and
 given as much gold as it took to balance him. Now
 one day a man who was engaged in the search for
@@ -11184,8 +10226,7 @@ enormous men sitting beside it.
 When they noticed him they asked him who he was
 and what he wanted. “I have come to ask you
 something. I want to find Rustumsal who set out
-to find the white Divs.” “I am he,” answered Rus-
-tumsal, “go back and tell the kings to come to me.”
+to find the white Divs.” “I am he,” answered Rustumsal, “go back and tell the kings to come to me.”
 “Tell me the truth,” the man beseeched, “for if I tell
 them a lie they will kill me.” “Have no fear,” said
 Rustumsal, “I am speaking the truth. I am really he
@@ -11250,13 +10291,9 @@ aunt.” Rustumsal took her with him, led her to his
 father and said, “Father, you told me I had no aunt.
 
 
-240 RUSTUM SAGAS
-
-
 But who, then, is this?” “I only said that,” his father
 replied, “so that you should not go to the land of the
-Divs. But now, thanks be to God, you have accom-
-plished your aim. And now it is time to go home.” But
+Divs. But now, thanks be to God, you have accomplished your aim. And now it is time to go home.” But
 Rustumsal turned to the seven kings and said, “Now
 we must collect camels to carry our booty and then we
 will go home.” And that was done; everything was loaded
@@ -11266,15 +10303,13 @@ Rustumsal, “ We must part here, for we must go home to
 our own countries, as you must go to yours. Our ways
 part here.’’ Rustumsal agreed to that, said farewell
 to them, and each went his own way. After travelling
-for two weeks more, Rustumsal came to the neighbour-
-hood of his own native town, and met great numbers
+for two weeks more, Rustumsal came to the neighbourhood of his own native town, and met great numbers
 of people on the roads there, all dressed in black. He
 stopped one of them and asked why everyone was in
 black. The man, who did not know Rustumsal, answered,
 “The son of our king went away to the land of the white
 Divs to fetch his aunt, and to this day he has not returned.
-That is why we are all in mourning. And there is some-
-thing else I must tell you—since Rustumsal and his
+That is why we are all in mourning. And there is something else I must tell you—since Rustumsal and his
 father have utterly disappeared and left no trace,
 strange conquerors have come and want to take our
 land from us and destroy it.” When Rustumsal heard
@@ -11285,8 +10320,7 @@ the man, “but I am afraid it cannot be true and that
 the people will strike off my head for deceiving them.”
 “Have no fear,” said Rustumsal, “only say what I
 have told you.” The man went and took the news to
-the strange king who had conquered Qahirman’s king-
-dom. “If that which you say is true,” said the king,
+the strange king who had conquered Qahirman’s kingdom. “If that which you say is true,” said the king,
 
 
 A TATAR VARIANT 241
@@ -11314,11 +10348,9 @@ father.” Sad and sorrowful, with bent head, the boy
 went to his mother and said, “What has happened to
 my father? Is he alive or is he dead?” “I do not know,”
 answered his mother. “What was my father called?”
-asked Djambachysch further. “He was called Rus-
-tumsal,’’ was the answer. “Good, I will go and seek my
+asked Djambachysch further. “He was called Rustumsal,’’ was the answer. “Good, I will go and seek my
 father,” said the boy. His mother gave him some
-provisions and he set out on his journey. After travel-
-ling for two weeks Djambachysch came into the neigh-
+provisions and he set out on his journey. After travelling for two weeks Djambachysch came into the neigh-
 bourhood of a town. There he met an old man working
 in the fields and asked him, “Could you give me shelter
 for the night?” When the old man answered that he
@@ -11327,11 +10359,6 @@ when evening fell he took the old man home to his
 house. In these few hours Djambachysch had done as
 much work as another man would have done in three
 days. When they reached his house the old man said to
-
-
-242 RUSTUM SAGAS
-
-
 his wife, “ Wife, prepare supper for us.” And after they
 were satisfied and had talked together for a little, they
 all went to rest for the night. |
@@ -11350,11 +10377,9 @@ wrestled with Söhrab. He threw him too and laid him
 beside Djanabbas. Rustumsal was amazed at the strength
 of Djambachysch and said, “ Now I will wrestle with him
 myself,” but he had resolved to kill him if he was not
-able to conquer him in the ring. As it turned out, Rus-
-tumsal wounded his opponent during the fight. The
+able to conquer him in the ring. As it turned out, Rustumsal wounded his opponent during the fight. The
 two then separated, and Djambachysch went home and
-prepared a healing balm for his wounds. But next morn-
-ing he was again on the field of battle. They closed with
+prepared a healing balm for his wounds. But next morning he was again on the field of battle. They closed with
 each other and fought, till when Rustumsal saw that his
 strength was giving way he drew his dagger and struck
 it into Djambachysch’ chest up to the hilt. With eyes
@@ -11375,8 +10400,7 @@ came to himself, he prayed God that He might restore
 his son to life again. And a voice was heard from heaven,
 “Listen, Rustumsal! You must lay Djambachysch in
 a trough and carry him for forty days on your head.
-Then he will come to life again.” Rustumsal fulfilled-
-this command. On the thirty-eighth or thirty-ninth
+Then he will come to life again.” Rustumsal fulfilledthis command. On the thirty-eighth or thirty-ninth
 day he came to a river and saw there a man washing
 black wool, in order, as he said, to make it white.
 “That is no use,” said Rustumsal, “black wool will
@@ -11394,8 +10418,7 @@ died again. And when Rustumsal looked up towards
 the old man who had been washing the wool, he saw
 that he had disappeared. Then he understood that it
 had been a spell to hinder him in the carrying out of his
-task. Reproaching himself bitterly, he carried Djam-
-bachysch home and buried him.
+task. Reproaching himself bitterly, he carried Djambachysch home and buried him.
 
 After a time Rustumsal began to travel about his
 kingdom and busy himself with its government. So
@@ -11408,9 +10431,6 @@ So he called his vizier and his chamberlain and told them
 of his intention: “I must go away now on my travels,
 
 R
-
-
-244 RUSTUM SAGAS
 
 
 see to it that you govern my country wisely.” ‘‘Good,”
@@ -11428,8 +10448,7 @@ fortresses at the four sides of this town, which was itself
 very beautiful. He joyfully made up his mind to take it,
 to rest there a year or two and then go on to the land of
 the Djinns. So he went on to the town and ordered his
-army to follow him. He forced his way in, and the in-
-habitants, terrified by this sudden attack, ran to their
+army to follow him. He forced his way in, and the inhabitants, terrified by this sudden attack, ran to their
 king and told him how a strange man with his army
 had seized the town and now wished to fight with its
 king. The king let Rustumsal know that his giants would
@@ -11455,16 +10474,12 @@ Schiits, a sect to be found principally in Persia.
 A TATAR VARIANT 245
 
 
-33
-
-
 with men.” “But I am a maiden,” she replied, “who
 has made up her mind that she will only marry a man
 who has conquered her.” And as she acknowledged
 herself defeated, Djanabbas made no objection.
 
-They spent two months after these events in feast-
-ing and merry-making, both by day and by night,
+They spent two months after these events in feasting and merry-making, both by day and by night,
 and then Rustumsal wanted to go on further into the
 land of the Djinns. Djanabbas’ wife advised him against
 it. “Do not go there,” she said. “But if you must go,
@@ -11485,8 +10500,7 @@ sons and sent them by different ways into the land of
 the Djinns, where at a certain time they were to meet
 at the Djinn fortress.
 
-Now when they had arrived at the fortress and sur-
-rounded it on all sides, they saw that there was only
+Now when they had arrived at the fortress and surrounded it on all sides, they saw that there was only
 one entrance. But the wife of Djanabbas had asked
 every night how they were faring, and every night she
 had got a gloomy answer. That made her anxious, so
@@ -11494,11 +10508,6 @@ she went to her father and begged his permission to
 hasten to the help of Rustumsal. In two days she arrived
 at the army and began to consult her Book of Spells.
 For Rustumsal, Djanabbas and Söhrab had fallen under
-
-
-246 RUSTUM SAGAS
-
-
 a bad spell when they forced their way into the fortress.
 They did everything in their power to shake themselves
 free of it, but in vain. And they had seen that a hundred
@@ -11548,16 +10557,14 @@ The gun roared, the thing fell out of the heavens with a
 crack of thunder, and was dead.
 
 Now they could take the town, plunder it and set
-out for home again. Djanabbas took his wife and re-
-turned to his own town. And towards the time when
+out for home again. Djanabbas took his wife and returned to his own town. And towards the time when
 Qahirman expected his son to return, he went up a high
 mountain and looked for Rustumsal. When he came
 near his native town he met two men, whom he stopped
 and asked, “Well, what is the news? Is everything
 prosperous?” “When you went away,” they replied,
 “strange giants came into our country and wanted to
-take our town. They will perhaps succeed to-day or to-
-morrow. Qahirman has fled and waits now for your
+take our town. They will perhaps succeed to-day or tomorrow. Qahirman has fled and waits now for your
 return on a high mountain.” “Go quickly to my father,”
 ordered Rustumsal, *‘and tell him his son has conquered
 the land of the Djinns, and has now returned. Also that
@@ -11567,8 +10574,7 @@ and came back with all haste. The strange giants, when
 they heard of Rustumsal’s return, took themselves off
 as fast as they could. Rustumsal ruled a few years
 Jonger, and when he came to a great age he gave over his
-kingdom to the son of Djambachysch, because Rus-
-tumsal had killed his father. And Djambachysch’ son
+kingdom to the son of Djambachysch, because Rustumsal had killed his father. And Djambachysch’ son
 ascended the throne in this twenty-fifth year. His name
 was Siilfager, and he too was very brave,
 
@@ -11595,18 +10601,15 @@ the maiden, whom he married at once. Some time later
 he set out on a journey and as he said farewell to his
 wife, he told her, ‘‘ You will bear a son. Call him Amiran.”
 
-And she bore a son. For a long time he was un-
-christened, but at last he begged his mother himself to
+And she bore a son. For a long time he was unchristened, but at last he begged his mother himself to
 have him christened. Then Jesus appeared, christened
 him and gave him the name Amiran. When he was
 twelve years old he went out hunting for the first
 time. But he wanted to see his father; he begged
 his mother to let him go and follow his father. She
 blessed him and let him go. He wandered about for a
-long time looking for his father, asking for him every-
-where. And at last he came to the house in which Rustum
+long time looking for his father, asking for him everywhere. And at last he came to the house in which Rustum
 had lived with his brothers. He learned from his uncles
-248
 
 
 ‘
@@ -11616,8 +10619,7 @@ GEORGIAN VARIANT 249
 
 
 that his father had fallen in battle with the giants, that
-the giants were now living in his house and were insult-
-ing his ashes. Amiran burst into the house and killed
+the giants were now living in his house and were insulting his ashes. Amiran burst into the house and killed
 all the giants, then he buried his father’s remains with
 all honour. When he had finished that, he persuaded
 his uncles to come with him to the country called Filich,
@@ -11676,10 +10678,8 @@ mountain came rolling up, in the very interior of which
 there was a house of iron. And in that house Christ
 locked up Amiran, already bound with his iron chain.
 He lives there to this day; a faithful dog is his only
-servant, and year in, year out he licks the chain un-
-ceasingly in order to make it so thin that Amiran can
-break it. But every smith goes yearly on Green Thurs-
-day to his anvil and beats a few strokes with his
+servant, and year in, year out he licks the chain unceasingly in order to make it so thin that Amiran can
+break it. But every smith goes yearly on Green Thursday to his anvil and beats a few strokes with his
 hammer, whereby Amiran’s chain regains its former
 thickness. | |
 
@@ -11699,8 +10699,7 @@ SUANETIAN VARIANT 251
 these cries came from. And as his curiosity grew stronger
 every moment, at last he forged himself a crowbar and
 a mattock and set off up the slopes of Elbruz. It was a
-difficult climb, but he helped himself up with this crow-
-bar and mattock. At last he arrived at the top, looked
+difficult climb, but he helped himself up with this crowbar and mattock. At last he arrived at the top, looked
 round and saw a beautiful woman lying down at the
 foot of a precipice. She was weeping and crying out. All
 round about her lay heaps of gold and silver. Without
@@ -11714,8 +10713,7 @@ a child. |
 In the meantime the wife of the smith began to be
 suspicious of his frequent absence from home. One day
 she followed him secretly and saw him talking to the
-woman at the foot of the precipice. From that day for-
-ward the wife of the smith determined to revenge her-
+woman at the foot of the precipice. From that day forward the wife of the smith determined to revenge her-
 self on her rival. She learnt in some way that the whole
 strength and charm of the woman lay in her luxuriant
 hair, which covered her whole body with thick plaits.
@@ -11768,8 +10766,7 @@ They grew fast and were very strong. Amiran often
 went hunting with them. Once it happened that Amiran
 fell fast asleep. The two young men watched by him
 while he slept. All at once there appeared, from who
-knows where, a great multitude of animals, who sur-
-rounded the sleeping Amiran. The two youths shot
+knows where, a great multitude of animals, who surrounded the sleeping Amiran. The two youths shot
 their arrows at them and killed them all. When Amiran
 awoke and saw the great pool of blood he thought,
 “ Well, these two braves will perhaps kill me some day,”
@@ -11806,8 +10803,7 @@ him hand and foot, carried him up to the summit of
 Mount Elbruz, threw him down a precipice and chained
 him with a heavy chain to an iron stake. They laid
 his sword near him, but so that he could not reach it.
-Opposite him they bound, to the same stake, a nine-
-headed Div, who also tried in vain to reach the sword.
+Opposite him they bound, to the same stake, a nineheaded Div, who also tried in vain to reach the sword.
 Whoever could reach it first would be the victor. But
 they would only be able to reach it when their nails
 grew long. The Suanetians wish that Amiran may get
@@ -11836,8 +10832,7 @@ in the middle of his forehead dared to penetrate into
 the secrets with which God had surrounded the summit
 of Mount Elbruz. He came to the saddle between the
 two peaks, from the rocks at the foot of which a well of
-crystal-clear water springs up. But God would not per-
-mit that, and chained the violator of His secrets with
+crystal-clear water springs up. But God would not permit that, and chained the violator of His secrets with
 a long chain to the rocks. Many years have passed since
 then. The giant has grown old. His long beard reaches
 to his knees; his once mighty frame has become bent
@@ -11871,8 +10866,7 @@ for they knew their daughter was innocent.
 
 She gave birth to a boy, who grew very fast. When
 he was ten years old, he was already like a youth of
-twenty and was the handsomest boy of all the country-
-side. Abrskil—for that was his name—distinguished
+twenty and was the handsomest boy of all the countryside. Abrskil—for that was his name—distinguished
 himself among his companions from his youth up for
 his bravery and daring. He did not spare himself in
 danger, but defended his country bravely against its
@@ -11891,8 +10885,7 @@ hair and blue eyes, among his own countrymen as well
 as among his prisoners of war. They had the evil eye,
 he declared, and could bewitch men and animals. And
 the tribes of Aschwba and Khatsba he stamped out
-also. He struck down all the vines which spread their gar-
-lands across a path! where a rider was forced to bend
+also. He struck down all the vines which spread their garlands across a path! where a rider was forced to bend
 
 
 1 In the Caucasus the vines are trained on trees and send their
@@ -11943,8 +10936,7 @@ horse called Rasch. There is no doubt they are identical.
 ABKHASIAN VARIANT 257
 
 
-one of which they should hide on the top of the moun-
-tain, the other at the sea-shore. And now when Abrskil,
+one of which they should hide on the top of the mountain, the other at the sea-shore. And now when Abrskil,
 mounted on Arasch, sprang up to the mountain-top
 his horse slipped on the slippery skin. Abrskil fell off,
 hurt himself, and was seized and bound by the angels.
@@ -11995,8 +10987,7 @@ Though Abrskil had now languished so long in his
 cave, he never forgot his native land, but always dreamt
 of it. His dearest wish was to see someone from his own
 country who could tell him how it fared with his native
-land. And such a messenger appeared to him in the per-
-son of his chief admirer, a certain Djomlat.1 He took a
+land. And such a messenger appeared to him in the person of his chief admirer, a certain Djomlat.1 He took a
 skilful guide and twenty asses laden with wax candles,
 and pushed right into Abrskil’s cave. It was very dark
 in the recesses of the mountain, but when they lighted
@@ -12006,8 +10997,7 @@ on all-fours; in other parts they passed through great
 fields and fruit-gardens. They went further and further,
 but they found no trace of Abrskil. When all the candles
 were burned down they began to think of their return,
-but heard to their joy the voice of him they were seek-
-ing. He explained to them that all their exertions were
+but heard to their joy the voice of him they were seeking. He explained to them that all their exertions were
 useless, for the further they penetrated into the cave,
 the further he was pushed back into the mountain.
 Then he asked them if Aschwba and Khatsba were still
@@ -12031,8 +11021,7 @@ OSSETIAN VARIANT 259
 their asses round and hold on tightly to their tails;
 the animals would easily find the way out.
 
-They stood silent for a long time, and then took fare-
-well of each other. Djomlat returned to his home and
+They stood silent for a long time, and then took farewell of each other. Djomlat returned to his home and
 Abrskil stayed in his cave, sad that he had not been
 allowed to see his compatriots. When Djomlat emerged
 from the cave, he found that he had been three days in it.
@@ -12047,8 +11036,7 @@ probably already dead.
 
 AMIRAN was an oppressor, and that was not pleasing
 to God. So He caught Amiran by cunning and ordered
-that he should be shut up in a cave. But one day a hunts-
-man lost his way and God led him right up to the door
+that he should be shut up in a cave. But one day a huntsman lost his way and God led him right up to the door
 of the cave in which Amiran was shut up. This door was
 of copper; God opened it, the huntsman stepped in,
 looked round, and as he saw Amiran, noticed that his
@@ -12056,8 +11044,7 @@ eyes were as big as the collar of an ox.
 
 The huntsman fell down in a swoon, but Amiran
 encouraged him: “ Have no fear, my son! I am Amiran,
-chained up here by God’s command.” When the hunts-
-man had taken courage he asked, “What tribe do you
+chained up here by God’s command.” When the huntsman had taken courage he asked, “What tribe do you
 belong to? What kind of extraordinary creature are you,
 and what are you doing here?” “I am Amiran,” he
 answered, “of the tribe of Daredsan. I was an oppressor
@@ -12076,8 +11063,7 @@ S
 man tried to do as he was asked, pulled and pulled at
 the straps, but what could he do? “ Have mercy on me!”
 he cried at last. “I cannot do it. It is beyond my
-power.” “ Well then, bind one of your arms to my sword-
-strap and then give me the other,” said Amiran. The
+power.” “ Well then, bind one of your arms to my swordstrap and then give me the other,” said Amiran. The
 huntsman did as he was told. Amiran pulled his arm so
 hard that all the joints of the wretched man cracked.
 “Have mercy! Do not tear out my soul!” implored the
@@ -12099,8 +11085,6 @@ in the cave.
 chain which hangs down over the hearth fire is a holy thing in
 that district. The chain must on no account be taken away, or
 the immediate death of the whole household would follow. The
-
-
 stealing of such a chain is only to be avenged by the shedding
 of blood and brings vendetta in its train.
 
@@ -12116,15 +11100,13 @@ between Redut-Kale and Anaklia (on the eastern shore
 of the Black Sea). In the midst of a wood, far from any
 human habitation, a herd of wolves surrounded him
 and tried to drag him off his horse. The horse stopped
-dead and could not be made to go on either by per-
-suasions or threats. What good was it to the traveller
+dead and could not be made to go on either by persuasions or threats. What good was it to the traveller
 that he had tied little sticks to the tail of his horse? 4
 The wolves tried to seize him in spite of that. Cold terror
 seized the poor man, his sword hung useless in his hand.
 There remained only one thing for him to do, to cry for
 help as loud and long as his lungs could serve him.
-Then a light appeared in the distance, the wolves dis-
-appeared, and the horse galloped towards the light. It
+Then a light appeared in the distance, the wolves disappeared, and the horse galloped towards the light. It
 was a torch held by a man who lived in the one little
 house of that district, who had hastened out when he
 heard the cry for help. The traveller warmed himself
@@ -12137,12 +11119,8 @@ because the creatures there in the wood attacked you.
 No, if you only knew what I have to bear in my heart,
 you would be thankful that nothing worse happened to
 
-1 The Mingrelians consider that a good way to protect them-
-selves from wolves: to bind a few little sticks to the tails of
-
-
+1 The Mingrelians consider that a good way to protect themselves from wolves: to bind a few little sticks to the tails of
 their horses.
-261
 
 
 262 POLYPHEMUS SAGAS
@@ -12200,11 +11178,9 @@ of animals: the goats, the sheep, the lambs and the kids
 had each their own divisions. The one-eyed giant locked
 us in and then drove away his herd. We tried to break
 open the door, but in vain. Like mice in a mouse-trap,
-we ran round and round and up and down from morn-
-ing till night. In the evening our one-eyed giant came
+we ran round and round and up and down from morning till night. In the evening our one-eyed giant came
 back, locked up his animals and lighted a fire. He laid
-whole trunks of trees upon it. Then he took a roasting-
-spit, fetched himself a fat sheep and roasted it, without
+whole trunks of trees upon it. Then he took a roastingspit, fetched himself a fat sheep and roasted it, without
 preparing it in any way. Nay, he even did not kill it,
 but stuck it living on the spit. The beast struggled in
 the flames till its eyes burst. The giant ate up the whole
@@ -12242,16 +11218,14 @@ to go out to the meadow. The giant opened the door,
 stood in front of it and let the sheep and goats pass
 singly through between his legs, feeling the back, the
 head and the body of each. He did that till midday;
-then he got tired of it and contented himself with touch-
-ing the back of each creature as it passed through.
+then he got tired of it and contented himself with touching the back of each creature as it passed through.
 Happily, my brother had still a knife. We skinned two
 sheep with it, covered ourselves with the skins and
 determined to creep through between his legs. Half
 dead with fright, I tried my luck first. The giant noticed
 nothing. I was outside. My brother followed. We went
 at once to our ship, which still lay at the same spot.
-Our hopes of saving our lives increased. In the mean-
-time the herd of the one-eyed giant came along. We
+Our hopes of saving our lives increased. In the meantime the herd of the one-eyed giant came along. We
 picked out the finest animals and took them with us on
 to the ship. But hardly had we cut the anchor rope,
 when the giant appeared and felt for our ship. When
@@ -12270,8 +11244,7 @@ OSSETIAN VARIANT 265
 6s. URYSMAG AND THE ONE-EYED GIANT
 
 
-UrvYSMAG once came back from one of his many wander-
-ings and found the Narts sitting together in sorrowful
+UrvYSMAG once came back from one of his many wanderings and found the Narts sitting together in sorrowful
 mood. “What is wrong with you, Narts?” Urysmig
 cried to them. “You look as if you had just buried
 what was dearest to you.”
@@ -12341,8 +11314,7 @@ pulled the skin over himself, and went on all-fours to
 the mouth of the cave. “Is it you, Gurtschi?”’ said the
 giant as he touched the skin. “Go on, my clever fellow,
 herd the sheep well for me, and bring them back to me
-in the evening. I must stay here and punish that shame-
-less wretch who has blinded me. Now go, go on.” And
+in the evening. I must stay here and punish that shameless wretch who has blinded me. Now go, go on.” And
 with that he stroked the skin and let him out.
 
 
@@ -12353,8 +11325,7 @@ Urysmig waited outside till the whole flock had come
 out of the cave. Then he called out to the giant, “ Hullo,
 I am here, you blind donkey.” The giant was beside
 himself with rage and fury, but Urýsmäg drove the flock
-over to the Narts, who killed several sheep and enter-
-tained their friends. The rest of the flock the Narts
+over to the Narts, who killed several sheep and entertained their friends. The rest of the flock the Narts
 drove back to their own home, where they divided
 the spoil.
 
@@ -12369,13 +11340,9 @@ so sorry for themselves as they had done before.
 VII.—SOLOMON THE WISE
 
 
-66
-
-
 SOLOMON THE WISE had a servant. When he had served
 his time his master asked him, “Which would you
-rather have, your wages or three pieces of good ad-
-vice?” The servant renounced his wages and asked
+rather have, your wages or three pieces of good advice?” The servant renounced his wages and asked
 for the advice, and Solomon said:
 
 “Tell no one your secrets.
@@ -12403,8 +11370,6 @@ tree. But she did not know, and told them so. The
 three did not cease from questioning her and promised
 her a handsome reward if she could only find out and
 tell them.
-
-268
 
 
 SOLOMON THE WISE 269
@@ -12493,12 +11458,8 @@ free, but gave him gifts as well.
 SOLOMON THE WISE 27I
 
 
-67
-
-
 THERE was once a king who appropriated every foal
-that was born in his kingdom, because he said it was de-
-scended from one of his mares. But Solomon, who was
+that was born in his kingdom, because he said it was descended from one of his mares. But Solomon, who was
 still quite young at the time, came to him and hired
 himself as the king’s kennelman. One day Solomon
 began to beat the dogs with all his might. When the
@@ -12519,9 +11480,6 @@ of your mares?”
 
 The king was much embarrassed, and from that day
 he appropriated other people’s foals no more.
-
-
-68
 
 
 DuRiNnG Solomon’s reign, a hermit, to whom people
@@ -12551,21 +11509,17 @@ Solomon replied.
 “Come away; I will explain it to you.”
 
 And when they got home the courtier gave the
-following explanation of what he had seen: “The sweep-
-ings stand for our earthly possessions. By standing at
+following explanation of what he had seen: “The sweepings stand for our earthly possessions. By standing at
 his threshold, the hermit wished to let us know that
 we are merely temporary inhabitants of this world.
 The cloth over his shoulders signified that all we need
-of the goods of this world is a winding-sheet. By hold-
-ing his mouth he meant to tell us that man’s most
+of the goods of this world is a winding-sheet. By holding his mouth he meant to tell us that man’s most
 dangerous enemy is his tongue; he must keep it shut
 so that it may not babble.”
 
 The king was so well content with this explanation
 that he richly rewarded his courtier.
 
-
-69
 
 ONE of Solomon’s wives wanted him to build her a
 castle of birds’ feathers. Solomon sent for all the birds in
@@ -12599,15 +11553,11 @@ VITI.—_STORIES OF ALEXANDER
 | THE GREAT
 
 
-70
 As soon as Alexander of Macedonia came into the world,
 he ran round the room. But when he came to the fourth
-corner an angel knocked him down to let him under-
-stand that he would only conquer three-quarters of
+corner an angel knocked him down to let him understand that he would only conquer three-quarters of
 the world.
 
-
-71
 
 WHEN Alexander died, his mother mourned him so
 bitterly that she would not give permission for his
@@ -12632,13 +11582,9 @@ Then she saw that her courtiers were right, and gave
 permission that her son should be buried.
 
 
-24
-
-
 ALEXANDER THE GREAT 275
 
 
-72
 MANY, many years ago there lived a king — Alexander
 of Macedonia. He conquered three-quarters of the world;
 only the fourth quarter, which was inhabited by the
@@ -12695,14 +11641,11 @@ much money away with them.
 When the theft was noticed next day the thief was
 sought for, but in vain. The king was very indignant
 
-276
-
 
 THE SKILFUL THIEF 277
 
 
-about it, but what was to be done? A king of a neigh-
-bouring country made fun at his expense, because a
+about it, but what was to be done? A king of a neighbouring country made fun at his expense, because a
 thief could not be found in his country. In the meantime
 Simon and Peter paid another visit to the treasury, and
 again could not be caught. The king was angry and had
@@ -12734,8 +11677,7 @@ and, riding up to the guards, said to them he must see
 the king without fail. They told him the king was busy
 that day with important business and could receive no
 one. As Peter insisted, they advised him to stay there,
-so that next morning he would be the first to be ad-
-mitted to the king. But Peter would not hear of that:
+so that next morning he would be the first to be admitted to the king. But Peter would not hear of that:
 he was afraid that the dead man without the head would
 
 
@@ -12743,7 +11685,6 @@ he was afraid that the dead man without the head would
 
 
 eat up his donkey. “Nonsense,” said the guards, “a
-
 dead man cannot eat.a donkey. If he does, we will
 pay you twenty times more than the price of your
 donkey.’’ Now Peter was satisfied. He stayed and plied
@@ -12772,8 +11713,7 @@ him into his palace and said, “Listen! the king of the
 neighbouring kingdom laughed at me because I could
 not find the thief who had robbed me. Arrange that he
 shall no longer have cause to laugh at me.” “Give me
-a good horse,” said Peter, “two boxes, one devil’s head-
-dress, and one burka” (Caucasian fur cloak) ‘‘with bells
+a good horse,” said Peter, “two boxes, one devil’s headdress, and one burka” (Caucasian fur cloak) ‘‘with bells
 on it, and leave the rest to me.” Peter was given all
 that he wanted, and then set out. When he arrived at
 the court of the other king, he went straight into the
@@ -12862,15 +11802,12 @@ Hardly had she gone out when the Armenian came up,
 THE CUNNING COUPLE 281
 
 
-puffing and blowing. “Who is that?” asked the shep-
-herd astonished. “That is my husband,” she replied;
+puffing and blowing. “Who is that?” asked the shepherd astonished. “That is my husband,” she replied;
 “be quick and hide yourself in that barrel, otherwise
 it will be the worse for you.” She hid the shepherd in
 the barrel and ran out again to welcome the Armenian,
-who had arrived in the courtyard with a whole waggon-
-ful of goods. She put the waggon in the barn, and then
-asked the Armenian to come in, prepared a couch for-
-him, and left him under pretext of preparing a. meal
+who had arrived in the courtyard with a whole waggonful of goods. She put the waggon in the barn, and then
+asked the Armenian to come in, prepared a couch forhim, and left him under pretext of preparing a. meal
 for him. | i
 
 In the meantime night had fallen. All of a sudden a
@@ -12902,8 +11839,7 @@ that? I will shave it away at once.” So saying, he shaved
 282 KNAVISH TRICKS
 
 
-the Armenian lying in the cradle. Then he heard some-
-thing bleating behind the door. “And what is that? ”
+the Armenian lying in the cradle. Then he heard something bleating behind the door. “And what is that? ”
 he asked his wife. “That is the calf our cow had to-day,”
 she answered. Her husband only said, “Well, well!”
 But he took his gun and pointed it at the miller, who
@@ -12925,8 +11861,7 @@ voice, the same manner. They could only be distinguished
 by their names: the eldest was called Hadji, the second
 Nadr, the youngest Badyr. When their father died, they
 inherited an empty house and a goat. A year after their
-father’s death they determined to divide their inherit-
-ance, but as there was so little to divide they gave it
+father’s death they determined to divide their inheritance, but as there was so little to divide they gave it
 all to the eldest, and the two younger brothers removed
 to another village. Soon they regretted the whole
 affair, and made up their minds to go to Hadji and ask
@@ -12948,8 +11883,7 @@ let himself down into the house by a rope, went up to
 the bed where the couple were sleeping, lay down beside
 Hadji’s wife, wakened her gently and asked, “ Wife, where
 was it again that we hid the goat?” Still half asleep
-she answered, “ Ah, how stupid you are! Have you for-
-gotten already that we killed it and hid the meat in the
+she answered, “ Ah, how stupid you are! Have you forgotten already that we killed it and hid the meat in the
 hay-rick ?’’ Now Badyr had found out what he wanted;
 he made Nadr a sign to draw him up again, and then they
 got the dead goat out of the hay-rick. An hour later
@@ -12986,15 +11920,12 @@ away, and that they were now in the stable. Hadji thought
 his wife had lost her voice from fright at this occurrence,
 laid down the goat and ran to the stable. Badyr pulled
 off his woman’s clothes, took the goat, and made off
-home with Nadr, who had just come up. In the mean-
-time Hadji carne back from the stable, where he had found
+home with Nadr, who had just come up. In the meantime Hadji carne back from the stable, where he had found
 no one, and saw to his amazement that his wife was in
 bed and fast asleep. He wakened her up, questioned
 her, and discovered that his brothers had tricked him
-again. He ran off after them at once, but could not over-
-take them. Then he climbed up on the roof of his brothers’
-house and saw through the smoke that they were divid-
-ing the goat-flesh. But to do.it fairly they required a
+again. He ran off after them at once, but could not overtake them. Then he climbed up on the roof of his brothers’
+house and saw through the smoke that they were dividing the goat-flesh. But to do.it fairly they required a
 weighing-machine, and as they had none Nadr went to
 a neighbour to borrow one. Hadji made use of this
 opportunity, and called out to Badyr, “The neighbour
@@ -13053,8 +11984,7 @@ me he greeted.” “No, it was me.”
 
 “No, no. I tell you it was me.”
 
-And they quarrelled so long over it that at last they be-
-gan to fight. Then one of them had the bright idea that
+And they quarrelled so long over it that at last they began to fight. Then one of them had the bright idea that
 it would be better to ask the rider himself which of them
 he had really greeted. He suggested this to the other,
 who agreed; and so they ran after the rider, calling him
@@ -13078,8 +12008,6 @@ had meant his greeting for the stupider of the two,
 and they could settle between themselves which that was.
 
 Then another great altercation began: “I am the more
-
-286
 
 
 WHO IS THE MOST STUPID? 287
@@ -13147,8 +12075,7 @@ his horse and rode away.
 
 A MAN had two wives, one clever and one stupid.
 One day the man went out to the fields with his clever
-wife and told the stupid one to “mind the door,” mean-
-ing, of course, ‘‘ look after the house.” So she sat down
+wife and told the stupid one to “mind the door,” meaning, of course, ‘‘ look after the house.” So she sat down
 beside the door and guarded it till she got wearied.
 Then she took the door off its hinges and went with it
 to her neighbours. When the husband and the clever wife
@@ -13192,8 +12119,7 @@ them straight out whether they have the camel, they are
 sure to deny it,” he thought; “it will be better to say
 that an invalid fancies a little piece of camel-meat,
 can they give me any?” And he asked them this, but they
-both replied that they had none. The stupid wife, how-
-ever, had heard everything from her hiding-place, and
+both replied that they had none. The stupid wife, however, had heard everything from her hiding-place, and
 called out, “ How then? Where have you put the flesh of
 the camel I brought you ?”’ The messenger now knew what
 he wanted; he went to the owner of the camel and told
@@ -13241,8 +12167,7 @@ to the how, the why, and the when, and found at last
 only one solution. The post must be cut down. They ran
 
 
-1 Lahitsch is a village in the district of Schemache. The in-
-habitants are hardy coppersmiths but have the reputation of
+1 Lahitsch is a village in the district of Schemache. The inhabitants are hardy coppersmiths but have the reputation of
 great narrow-mindedness.
 
 * Aqsaqal means White-beard.
@@ -13254,8 +12179,7 @@ great narrow-mindedness.
 THE FIELD OF SALT 291
 
 
-for axes, the splinters flew, everyone waited with eager-
-ness to see the result of Aqsaqal’s wisdom. They did
+for axes, the splinters flew, everyone waited with eagerness to see the result of Aqsaqal’s wisdom. They did
 not need to wait long. A crack—the post swayed—
 a part of the roof fell down and buried half the
 onlookers.
@@ -13348,8 +12272,7 @@ their deed so openly; that would only happen if they were
 very stupid, and so he made up his mind to test the
 degree of their stupidity. They were brought to him,
 he had two plates put before them, one with grapes,
-the other with beetles, and he invited them to help them-
-selves liberally. When the three put out their hands,
+the other with beetles, and he invited them to help themselves liberally. When the three put out their hands,
 the beetles began to run away. ‘Brothers, eat first the
 grapes that can run away,” one of them called to the
 other two.
@@ -13361,8 +12284,7 @@ TO CUT WOOD
 
 
 THE people of Kerkendj once went with their priest
-into the forest to cut wood. And on the way they quar-
-relled as to whose axe was the sharpest. The priest held
+into the forest to cut wood. And on the way they quarrelled as to whose axe was the sharpest. The priest held
 that his was the sharpest because he was the terter—
 that is, the priest; another said his was the sharpest
 because he was a peasant; the third had another reason;
@@ -13381,26 +12303,20 @@ of Lahitsch. ‘‘ Katschani muchur’’ — “ Eat the running ones,”
 they say.
 
 2? Kerkendj is an Armenian village near Schemache. The
-
-
-people of Kerkendj formerly enjoyed a reputation for extra-
-ordinary stupidity.
+people of Kerkendj formerly enjoyed a reputation for extraordinary stupidity.
 
 
 294 NATIONAL ROMANCES
 
 
-he struck his mare a blow and galloped away. The vil-
-lagers were highly indignant at his faithlessness and ran
+he struck his mare a blow and galloped away. The villagers were highly indignant at his faithlessness and ran
 after him. They ran and ran, but could not overtake
 him. They did succeed, however, in catching the foal.
 
 “Yes,” said one of them, “but what is the good of
-that? The foal will of course run after its mother when-
-ever we let it loose. We must think of a way to keep it.”
+that? The foal will of course run after its mother whenever we let it loose. We must think of a way to keep it.”
 
-They thought hard, and finally came to the con-
-clusion that if they put a very heavy load on the back
+They thought hard, and finally came to the conclusion that if they put a very heavy load on the back
 of the little creature, it would not be able to run
 away. Yes, but what were they to load it with? They
 had nothing with them except their clothes. So they
@@ -13582,17 +12498,12 @@ longish.”
 ginger.” i
 
 
-(2)
-
-
 Soon after the mullah had become a widower, he
 married again and his wife presented him in three
 months with a son. After a little time the female relatives
 of the mullah and of his wife came to choose a name for
 the child. Each of them suggested one; but the mullah
 commanded silence and said:
-
-298
 
 
 STORIES OF MULLAH NASREDDIN 299
@@ -13608,9 +12519,6 @@ the women.
 three ; it deserves the name of Hasid.”’
 
 
-(3)
-
-
 AT a meeting in which Mullah Nasreddin was taking
 part, youth and age were spoken of among other things.
 Every speaker had something to say about the failure
@@ -13623,9 +12531,6 @@ lift it now. Therefore a man is no weaker in old age
 than in youth.”
 
 
-(4)
-
-
 OnE day Mullah Nasreddin went with a basket into
 someone else’s garden and began to steal. But it was
 not long before the gardener came along with a stick in
@@ -13633,8 +12538,7 @@ his hand, accosted the mullah and shouted at him:
 
 “Who are you, and why do you come to our garden?”
 
-Nasreddin was so taken aback by the sudden appear-
-ance of the gardener that he did not find an answer
+Nasreddin was so taken aback by the sudden appearance of the gardener that he did not find an answer
 at once, but at last he stammered:
 
 “Well, well, I was waiking along the road, when
@@ -13661,20 +12565,13 @@ arrived. You have now disturbed me, and I have not
 yet had time to think out the real reason.”
 
 
-(5)
-
-
-WHEN the mullah was asked if he was good at count-
-ing, he answered that he was indeed so good at it, that
+WHEN the mullah was asked if he was good at counting, he answered that he was indeed so good at it, that
 no sum was too difficult for him. In order to test him,
 he was asked to divide four drachmen equally between
 three of those present. The mullah said, “That is very
 simple. To two of them we give two drachmen each. The
 third we ask to wait. When God sends us two drachmen
 more, he will get them.”
-
-
-(6)
 
 
 MULLAH NASREDDIN was once returning home from a
@@ -13694,15 +12591,12 @@ strangled him.”
 STORIES OF MULLAH NASREDDIN 3o1
 
 
-(7)
 “Wuy do you eat the nuts with their shells on?”
 they asked Nasreddin one day.
 “Because I have paid for them. It would be more
 sensible if you asked the fruit merchant why he is so
 unscrupulous as to sell the nuts with their shells on.”
 
-
-(8)
 
 Once when Mullah Nasreddin was still a boy, he was
 sent by his father to a Kellapas 4 to bring back a sheep’s
@@ -13730,13 +12624,8 @@ But just look what beautiful teeth it has. Not even one
 is missing!”
 
 
-(9)
-
-
 ONE evening Mullah Nasreddin was very hungry, but
 there was nothing to eat in the house except a piece of
-
-
 dry bread.
 
 
@@ -13786,13 +12675,9 @@ said something else, namely, that she was drying fiour
 upon it.”
 
 
-(11)
-
-
 OnE day Mullah Nasreddin was sitting in the house
 reading. But the boys of the village were playing in
-front of his window and making a terrible noise. Nas-
-reddin stuck his head out of the window and cried:
+front of his window and making a terrible noise. Nasreddin stuck his head out of the window and cried:
 “Children! Go down to the bazaar. Apples are being
 given away there for nothing.”
 1 A flat pleated rope or girth.
@@ -13803,11 +12688,7 @@ STORIES OF MULLAH NASREDDIN 303
 
 The children did not wait to be told twice, but ran
 away as fast as their legs could carry them. And when
-the mullah saw them running, he said, “ Just look! Per-
-haps it is true.” And he ran after them.!
-
-
-(12)
+the mullah saw them running, he said, “ Just look! Perhaps it is true.” And he ran after them.!
 
 
 MULLAH NASREDDIN came one day to a brook. He made
@@ -13817,14 +12698,11 @@ one there to hear, he added, “Even in my youth I
 could not have jumped that.”
 
 
-(13)
-
 OnE day Mullah Nasreddin went into the forest with
 his donkey to fetch wood. He climbed up a tree, and
 was just about to cut off the branch on which he was
 sitting, when someone went by underneath and said,
-“ Mullah, leave that alone, or you will fall down.” Nas-
-reddin thought it a joke and struck merrily away.
+“ Mullah, leave that alone, or you will fall down.” Nasreddin thought it a joke and struck merrily away.
 But when the branch fell, he fell with it. He wondered
 about it and ran after the man. “ You knew beforehand
 that I should fall down,” he said, “you probably know
@@ -13877,7 +12755,6 @@ would show you what I would do! Poor donkey! Now I
 can do nothing for you.”
 
 
-(14)
 NASREDDIN’S wife had a lover. In order to punish her,
 Nasreddin said to her, “ All our household animals are
 dead with the exception of the cow. Now there stands
@@ -13913,14 +12790,12 @@ lover.” The woman was much pleased with this advice,
 and set out for home in good spirits. When she had gone,
 Mullah Nasreddin first ate his pancakes and then ran
 quickly home, where he arrived before her. When she
-came in she said, “The plane-tree told me that every-
-thing would go well with us if you kill the last cow and
+came in she said, “The plane-tree told me that everything would go well with us if you kill the last cow and
 eat the meat yourself.’’ Nasreddin killed the animal.
 When there was only enough meat left to serve for one
 meal he said, “ I see no more and I hear no more. At one
 time everyone spoke my name with respect; now they
-talk of me as ‘that blind blockhead.’ I will not go out-
-side the house any more, for I cannot stand that. Make
+talk of me as ‘that blind blockhead.’ I will not go outside the house any more, for I cannot stand that. Make
 a corner ready for me.” But on this same evening the
 wife put two pots on the fire, one with the rest of the
 meat for her husband, the other with meat she had
@@ -13958,8 +12833,7 @@ went away.
 
 The next morning the woman found the body of her
 husband and said, weeping, “ Ah, my husband was not
-lying. It is true what he said, he was dying.” But Nas-
-reddin’s wife, who had to go to the house of mourning
+lying. It is true what he said, he was dying.” But Nasreddin’s wife, who had to go to the house of mourning
 to mourn the dead, asked her husband what she should
 say to the widow.
 
@@ -13967,124 +12841,4 @@ say to the widow.
 whose time was not yet come.’”’ She went and said that,
 and the relatives, enraged beyond endurance, stabbed
 her with their daggers.
-
-
-FINIS
-
-
-Maor At TH
-TemPLE PRESS ETCHWORTIH
-IN GREAT BRITAIN
-
-
-Digitized by Google
-
-
-T= 7 eo eee ERE eee eT I eee ee NR, SRE ay n
-
-
-a
-
-
-pares 055s S58 82 35° SS
-ae rer erererr tt
-
-
-ere ees ee ree
-
-
-eS wn ne nn rene
-pare MOE SESS Hoge OF
-
-
-’ :
-Pe SS:
-
-
-——s—
-
-
-wo 4-1 es
-= pe aoee
-
-
-Seen. es
-
-
-<>
-
-
-de iad ow iess
-Tin
-
-
-5414 84556
-
-
-sero
-
-
-ee te
-
-
-2s 8 oe
-
-
-=
-
-
-oso esarete
-TIPII
-
-
-ft pii iE
-Serenes ++
-
-
-. tr. 1>
-o> SS ipase — Fd SEP
-
-
-+--+ >
-+
-
-
-Tisos
-
-
-rhe
-1f
-
-
-t
-
-
-2
-
-
-eee aka
-
-
-t2p-4-
-
-
-itii
-
-
-4
-
-
-iii
-
-
-PHAN
-
-
-MENY
-
-
-it
-
-
-4)
 

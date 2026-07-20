@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l11392-l11416
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: MAO IAIN DIREACH, 369 / MAC IAIN DIREACH. 371 / MAC IAIN DIKEACH. 373 / MAC
+    IAIN DIREACH, 375; lines 11392-11416
+  start: '11392'
+  end: '11416'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Lo ! he knew everything, and the eyes of his mind were opened."'
+  summary: Farquhar tastes wet bree from a pot and immediately gains complete knowledge.
+    The doctor returns, finds the virtue gone from the pot, accuses Farquhar, throws
+    the pot at him, and Farquhar becomes allwise and sets up as a doctor. A collector's
+    note compares knowledge by bree with Michael Scott and mentions Fingal's wisdom
+    of the mouth.
+  language: English with Gaelic phrase in parentheses
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Farquhar puts his finger to a bit and then into his mouth because it is wet
+    with bree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After this, Farquhar knows everything and the eyes of his mind are opened.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Farquhar says to himself that he will keep it quiet.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The doctor returns, takes the pot from the fire, dips his finger in the steam
+    drops, and sucks it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The virtue has gone out of the pot's contents, which are no more than water
+    to the doctor.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The doctor cries out asking who has done this and sees from Farquhar's face
+    that Farquhar is responsible.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The doctor tells Farquhar that since he has taken the bree he should take
+    the flesh too, and throws the pot at him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Farquhar becomes allwise and sets up as a doctor.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A collector's note says Michael Scott got his knowledge by serpent's bree.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The collector's note says the wisdom of the mouth belonged to Fingal, who
+    began life as a herd boy on the Shin; some giants came and told him to roast a
+    fish.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Farquhar
+  description: A man who tastes bree, gains knowledge, keeps quiet, is accused by
+    the doctor, and becomes an allwise doctor.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the doctor
+  description: The returning doctor takes the pot from the fire, tries to suck the
+    steam drops, finds the virtue gone, accuses Farquhar, and throws the pot at him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Michael Scott
+  description: Named in the collector's note as having gained knowledge by serpent's
+    bree.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Fingal
+  description: Named in the collector's note as possessing wisdom of the mouth and
+    as having begun life as a herd boy on the Shin.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: some giants
+  description: In the collector's note, giants come to Fingal and tell him to roast
+    a fish for them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: accidental taster of bree
+  assigned_to:
+  - fig:1
+  basis: Farquhar puts his bree-wet finger into his mouth before the knowledge change
+    occurs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: allwise new doctor
+  assigned_to:
+  - fig:1
+  basis: The passage states that Farquhar became allwise and set up as a doctor.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: returning doctor deprived of the pot's virtue
+  assigned_to:
+  - fig:2
+  basis: The doctor returns to the pot, sucks the steam drops, finds the virtue gone,
+    and angrily accuses Farquhar.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: comparative figure gaining knowledge by serpent's bree
+  assigned_to:
+  - fig:3
+  basis: The collector's note says Michael Scott got his knowledge by serpent's bree.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: comparative bearer of wisdom of the mouth
+  assigned_to:
+  - fig:4
+  basis: The collector's note says wisdom of the mouth belonged to Fingal.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: commanding visitors in Fingal note
+  assigned_to:
+  - fig:5
+  basis: The giants come to Fingal and tell him to roast a fish.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bree or virtue-bearing liquid
+  literal_form: bree/sugh and steam drops associated with the pot
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: pot
+  literal_form: pot taken from the fire and later thrown at Farquhar
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: fire
+  literal_form: fire under or near the pot
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: water
+  literal_form: the contents after the virtue has gone, described as no more than
+    water to the doctor
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: serpent's bree
+  literal_form: serpent's bree (brigh) in the collector's note about Michael Scott
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: fish in Fingal note
+  literal_form: a fish that the giants tell Fingal to roast
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Farquhar tastes the bree
+  summary: Farquhar touches the wet bree and puts his finger in his mouth; he then
+    knows everything and decides to keep it quiet.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: The doctor's failed tasting
+  summary: The doctor returns to the pot, tries to obtain the virtue from the steam
+    drops, and finds that it has become only water to him.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Accusation and pot thrown
+  summary: The doctor identifies Farquhar as the one who took the bree, tells him
+    to take the flesh too, and throws the pot at him; Farquhar becomes allwise and
+    sets up as a doctor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Collector's comparative note
+  summary: The collector notes Michael Scott's knowledge by serpent's bree and Fingal's
+    wisdom of the mouth, adding the start of a fish-roasting episode involving giants.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: knowledge gained by tasting magical bree
+  taxonomy_refs:
+  - wisdom
+  basis: Farquhar tastes the bree, immediately knows everything, and later becomes
+    allwise and works as a doctor.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not identify the full origin of the bree or the preceding
+    'thing' beyond this line range.
+- id: motif:2
+  label: unauthorized or unintended acquisition of powerful knowledge
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Farquhar gains the virtue before the doctor can use it, keeps quiet, and
+    is angrily accused by the doctor when the virtue is gone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No explicit prohibition is stated in the passage; the identification rests
+    on secrecy, loss of virtue, and the doctor's anger.
+- id: motif:3
+  label: serpent-derived wisdom in comparative note
+  taxonomy_refs:
+  - serpent
+  - wisdom
+  basis: The collector's note says Michael Scott got his knowledge by serpent's bree.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The serpent element is stated only in the collector's comparison to Michael
+    Scott, not explicitly in Farquhar's own episode within this excerpt.
+- id: motif:4
+  label: wisdom of the mouth with fish-roasting episode
+  taxonomy_refs:
+  - wisdom
+  basis: The collector's note connects Fingal with wisdom of the mouth and begins
+    a scene in which giants tell him to roast a fish.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage ends before the Fingal fish episode is explained, so the mechanism
+    of wisdom acquisition is not given here.
+comparison_claims:
+- id: claim:1
+  claim: The collector explicitly places Farquhar's knowledge-by-bree episode alongside
+    Michael Scott's knowledge obtained by serpent's bree.
+  claim_level: same_function
+  target: Michael Scott knowledge by serpent's bree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note is brief, and the serpent element is explicit for Michael
+    Scott but not for Farquhar in this excerpt.
+- id: claim:2
+  claim: The collector links the passage's oral acquisition of wisdom to Fingal's
+    'wisdom of the mouth' tradition, introduced with a fish-roasting scene.
+  claim_level: same_function
+  target: Fingal's wisdom of the mouth and fish-roasting tradition
+  evidence_refs:
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The Fingal episode is only introduced at the end of the passage; the
+    line range does not include the full parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11392-11396
+  quote_or_summary: Farquhar puts his finger to the bit and then into his mouth because
+    it is wet with bree.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: 11397-11400
+  quote_or_summary: '"Lo ! he knew everything, and the eyes of his mind were opened";
+    he says to himself that he will keep it quiet.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: summary
+  locator: 11401-11405
+  quote_or_summary: The doctor returns, takes the pot from the fire, sucks steam drops
+    from it, and finds that the virtue is gone and the contents are only water to
+    him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 11406-11410
+  quote_or_summary: The doctor asks who has done this, sees Farquhar's face, says
+    that since he has taken the bree he should take the flesh too, and throws the
+    pot at him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 11410-11411
+  quote_or_summary: Farquhar has become allwise and sets up as a doctor.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 11411-11414
+  quote_or_summary: The collector remarks that Michael Scott got his knowledge by
+    serpent's bree (brigh).
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 11414-11416
+  quote_or_summary: The collector remarks that wisdom of the mouth belonged to Fingal,
+    who began as a herd boy on the Shin; some giants came and told him to roast a
+    fish.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main Farquhar episode is clear, but the line range begins mid-action
+    with an unidentified 'thing' and ends during an incomplete collector comparison
+    about Fingal.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or motif links beyond the supplied passage and provided taxonomy references were added. The serpent and fish elements are treated as part of the collector's note, not as explicit features of Farquhar's main scene.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l11392-l11416
+  passage_sha256=dd453aa47dff7d622ef23604f656ed4861693ea8bbfd6c56552a4b607ec3bf57
+

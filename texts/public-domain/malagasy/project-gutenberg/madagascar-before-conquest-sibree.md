@@ -1,4 +1,66 @@
+---
+id: malagasy.madagascar_before_conquest.sibree_archive
+title: 'Madagascar Before the Conquest: The Island, the Country, and the People'
+alternate_titles:
+- Madagascar Before the Conquest
+text_status: complete
+tradition: malagasy
+culture: merina_betsileo_malagasy_folklore_and_ideas
+region: madagascar
+source_language: Malagasy oral traditions mediated through English
+text_language: English
+date_range: living oral traditions; drawn from Sibree's mission residence and the
+  Antananarivo Annual folklore corpus 1863-1895; published 1896
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.cu31924028622284
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1896 T. Fisher Unwin
+    edition (Cornell University scan)
+  translator: James Sibree
+  editor: ''
+  publication_year: 1896
+  publisher: Internet Archive
+  source_url: https://archive.org/details/cu31924028622284
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1896, US public domain. Recording context - chapters on folk-lore,
+    proverbs, ideas of the supernatural, and native oratory summarize material Sibree
+    and colleagues collected in Malagasy over three decades; paraphrase and translated
+    excerpts rather than full verbatim tales. Best available pre-1930 English Malagasy
+    folklore monograph (satisfies the Malagasy retry).
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- madagascar
+- malagasy
+- merina
+- folklore
+motifs:
+- ancestor_veneration
+- taboo
+- proverb_wisdom
+figures: []
+---
+
 # Madagascar Before the Conquest: The Island, the Country, and the People
+
 PREFACE.
 
 
@@ -9684,7 +9746,7 @@ A somewhat more elaborate game is called Petapetaka
 Inenib^ {p^taka means " adhering to," " sticking to," and Inenibe
 is " granny "). A number of children being gathered together
 they all choose one about whom they say, "Dead is Granny
-Mrs. Moon-dead-by-day-but-living-by-night" (or "Extinguishedby-day-but-lighted-by-night,"7?«z^^/««<2;«i^2- i«(/w-'^«-z'//o«' i/2:««).
+Mrs. Moon-dead-by-day-but-living-by-night" (or "Extinguishedby-day-but-lighted-by-night,"7?«z^^/««<2;«i^2-<i«(/w-'^«-z'//o«'<i/2:««).
 This one they place in the middle and cover her up with a
 
 
@@ -16592,3 +16654,4 @@ shrouds the old-world time will be yet more fully lifted, and we
 shall probably, ere many more years have passed, be able to
 draw many more mental pictures of the extinct animal life of
 the great African island.
+

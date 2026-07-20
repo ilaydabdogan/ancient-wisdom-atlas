@@ -1,0 +1,170 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l9799-l9940
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: AAAAAA / NAMES   OF   OSIRIS / NAMES    OF   OSIRIS / NAMES    OF   OSIRIS;
+    lines 9799-9940
+  start: '9799'
+  end: '9940'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"THE NAMES OF OSIRIS IN EVERY SHRINE IN WHICH HE DWELLETH"'
+  summary: The passage presents a Saite recension, dated about B.C. 300, of a catalogue
+    titled as the names of Osiris in every shrine in which he dwells. It then lists
+    numbered names or epithets of Osiris, each beginning with Asar.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a catalogue of the names of Osiris.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heading says the names are those of Osiris in every shrine in which he
+    dwells.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage identifies the recension as Saite and dates it to about B.C. 300.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The visible list is numbered from 1 through 21.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Each readable numbered entry begins with the name-form Asar.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Some readable entries combine Asar with epithets or place-associated phrases,
+    including Un-nefer, Ankhi, Neb Ankh, Neb-er-tcher, Khentet Un, Khentet Nepra,
+    Seps-baiu-Annu, Khenti-Thenenet, Khent Re-stau, Tattu, and Atet.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Osiris / Asar
+  description: The deity named in the heading as Osiris and in the list entries as
+    Asar.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: named deity
+  assigned_to:
+  - fig:1
+  basis: The passage is a catalogue of names of Osiris, and the numbered entries begin
+    with Asar.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: deity dwelling in shrines
+  assigned_to:
+  - fig:1
+  basis: The heading states that the names are of Osiris in every shrine in which
+    he dwells.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: shrine
+  literal_form: every shrine in which he dwelleth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Catalogue of Osiris names
+  summary: A Saite recension section presents a numbered catalogue of names or epithets
+    of Osiris, described as names used in every shrine where he dwells.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Catalogue of divine names or epithets
+  taxonomy_refs: []
+  basis: The passage explicitly frames itself as a list of names of Osiris and then
+    gives a numbered sequence of Asar names.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a catalogue rather than a narrative episode; motif status should
+    be reviewed in relation to broader liturgical or theological context.
+- id: motif:2
+  label: Localized shrine manifestations of a deity
+  taxonomy_refs: []
+  basis: The heading associates Osiris's names with every shrine in which he dwells,
+    suggesting multiple shrine-linked forms or epithets.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not narrate distinct manifestations or rituals; it only
+    states a heading and lists names.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9840-9842
+  quote_or_summary: '"THE NAMES OF OSIRIS IN EVERY SHRINE IN WHICH HE DWELLETH"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 9844-9845
+  quote_or_summary: '"SAITE RECENSION, ABOUT B.C. 300"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 9847-9890
+  quote_or_summary: The numbered list runs from 1 to 21 in the visible passage, with
+    each readable item beginning with Asar, including entries such as Asar Un-nefer,
+    Asar Ankhi, Asar Neb Ankh, Asar Neb-er-tcher, Asar Khentet Un, Asar Khentet Nepra,
+    Asar Seps-baiu-Annu, Asar Khent Re-stau, Asar Heq taiu her-ab Tattu, Asar Ba sheps
+    em Tattu, and Asar Em Atet.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized with brief names.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly a catalogue heading and numbered list with OCR artifacts
+    and hieroglyphic material. Literal extraction of the heading and readable names
+    is straightforward, but motif interpretation is limited because there is no narrative
+    action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another corpus or motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l9799-l9940
+  passage_sha256=796e0585d7c92065e3406651b07194131b38e50d578e307c50027ea7ebb46f17
+

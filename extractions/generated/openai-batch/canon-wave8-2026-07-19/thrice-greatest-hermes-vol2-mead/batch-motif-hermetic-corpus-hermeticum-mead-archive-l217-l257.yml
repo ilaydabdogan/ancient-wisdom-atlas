@@ -1,0 +1,180 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l217-l257
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: CORP. HERM. VI. (VII.) / IN GOD ALONE IS GOOD AND / CORP. HERM. VII. (VIII.)
+    / THE GREATEST ILL AMONG MEN IS; lines 217-257
+  start: '217'
+  end: '257'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents passage lists Hermetic tractate titles and commentary
+    headings, including themes of an unmanifest yet manifest God, God alone as Good,
+    ignorance of God as the greatest ill, dualism, and God as the Pleroma of Good.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists a tractate titled “Though Unmanifest God Is Most Manifest”
+    and commentary headings including “Maya,” “The Higher Pantheism or Panmonism,”
+    and “Hymn to All-God.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists a tractate titled “In God Alone Is Good and Elsewhere Nowhere.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Commentary headings for the tractate on God and Good include “Dualism?” and
+    “God the Pleroma of Good.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage lists a tractate titled “The Greatest Ill Among Men Is Ignorance
+    of God.”
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Commentary headings for the tractate on ignorance of God include “A Preaching”
+    and “The Probable Completion of an Oxyrhynchus Logion.”
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Named in the listed titles and commentary headings as unmanifest yet
+    manifest, the only locus of Good, the object of ignorance, and the Pleroma of
+    Good.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: All-God
+  description: Named in the commentary heading “Hymn to All-God.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: sole locus of Good
+  assigned_to:
+  - fig:1
+  basis: The title states that good is in God alone and nowhere else.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: object of salvific or theological knowledge
+  assigned_to:
+  - fig:1
+  basis: The title identifies ignorance of God as the greatest ill among men.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: object of hymn
+  assigned_to:
+  - fig:2
+  basis: The passage includes the commentary heading “Hymn to All-God.”
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: ignorance of the divine as human ill
+  taxonomy_refs:
+  - wisdom
+  basis: The tractate title explicitly names ignorance of God as the greatest ill
+    among men.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a table-of-contents listing rather than the doctrinal exposition
+    itself; the motif is inferred only from the listed title.
+- id: motif:2
+  label: divine goodness concentrated in God alone
+  taxonomy_refs:
+  - wisdom
+  basis: The tractate title states that Good is in God alone and nowhere else, and
+    a commentary heading calls God the Pleroma of Good.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt gives only headings, not the argument or narrative development.
+- id: motif:3
+  label: unmanifest deity made manifest
+  taxonomy_refs: []
+  basis: A listed tractate title says that although God is unmanifest, God is most
+    manifest.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No available taxonomy reference precisely matches this theological theme;
+    the passage gives only a title.
+- id: motif:4
+  label: dualism as a theological question
+  taxonomy_refs:
+  - duality
+  basis: A commentary heading for the tractate on God and Good is “Dualism?”
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The heading signals a topic for commentary but does not state a doctrine
+    or narrative pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 217-231
+  quote_or_summary: The table of contents lists “Though Unmanifest God Is Most Manifest”
+    and commentary topics including “Maya,” “The Higher Pantheism or Panmonism,” and
+    “Hymn to All-God.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 232-244
+  quote_or_summary: The table of contents lists “In God Alone Is Good and Elsewhere
+    Nowhere,” with commentary topics including “Dualism?” and “God the Pleroma of
+    Good.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: 245-257
+  quote_or_summary: The table of contents lists “The Greatest Ill Among Men Is Ignorance
+    of God,” with commentary topics “A Preaching” and “The Probable Completion of
+    an Oxyrhynchus Logion.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a contents listing, so extraction is limited to titles and
+    commentary headings. Motif candidates are thematic rather than narrative and require
+    human review against the full tractates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No concrete listed symbols from the supplied symbol taxonomy occur in the passage; no comparison claims were added because the passage itself does not support a specific cross-traditional comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l217-l257
+  passage_sha256=0f7b54c4948f116acfde6496f83946a98824a68acb9546dbde85b61504aa510d
+

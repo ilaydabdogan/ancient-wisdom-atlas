@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l20266-l20274
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION CCXIII / SECTION CCXIV / SECTION CCXV / SECTION CCXVI; lines 20266-20274
+  start: '20266'
+  end: '20274'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"she granted unto Arjuna a boon making him invincible in water"'
+  summary: Vaisampayana narrates that Arjuna fulfilled Ulupi's desire with virtue
+    as his motive, spent the night in a Naga mansion, returned with Ulupi to the Ganges
+    region, and received from her a boon of invincibility in water and victory over
+    amphibious creatures before she returned to her own abode.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Vaisampayana is the named speaker of the passage.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Arjuna, described as the son of Kunti, did everything desired by the daughter
+    of the king of the Nagas, with virtue as his motive.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Arjuna spent the night in the mansion of the Naga and rose with the sun in
+    the morning.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Arjuna, accompanied by Ulupi, came back from the palace of Kauravya to the
+    region where the Ganges enters the plains.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ulupi took leave at the Ganges region and returned to her own abode.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Ulupi granted Arjuna a boon making him invincible in water.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The boon states that every amphibious creature would be vanquishable by Arjuna.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vaisampayana
+  description: Named speaker who narrates the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ulupi
+  description: A chaste woman identified as the daughter of the king of the Nagas;
+    she accompanies Arjuna, takes leave, returns to her abode, and grants him a boon.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Arjuna, son of Kunti
+  description: The mighty son of Kunti who fulfills Ulupi's desire, spends the night
+    in the Naga mansion, returns to the Ganges region, and receives the water-invincibility
+    boon.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Kauravya
+  description: Named in relation to the palace from which Arjuna and Ulupi return.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: King of the Nagas
+  description: Father of the daughter who addresses Arjuna.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Amphibious creatures
+  description: A collective class of creatures said to be vanquishable by Arjuna under
+    Ulupi's boon.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named narrator
+  assigned_to:
+  - fig:1
+  basis: The passage opens with Vaisampayana speaking.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: daughter of the king of the Nagas
+  assigned_to:
+  - fig:2
+  basis: Ulupi is identified through the description of the daughter of the king of
+    the Nagas.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: boon-granter
+  assigned_to:
+  - fig:2
+  basis: Ulupi grants Arjuna a boon.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: boon-recipient
+  assigned_to:
+  - fig:3
+  basis: Arjuna receives the boon making him invincible in water.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: son of Kunti
+  assigned_to:
+  - fig:3
+  basis: The passage calls Arjuna the son of Kunti.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: palace-associated named figure
+  assigned_to:
+  - fig:4
+  basis: The palace is described as the palace of Kauravya.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Naga king and father
+  assigned_to:
+  - fig:5
+  basis: The woman who addresses Arjuna is called the daughter of the king of the
+    Nagas.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: future vanquishable beings
+  assigned_to:
+  - fig:6
+  basis: Every amphibious creature is said to be vanquishable by Arjuna.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water in which Arjuna becomes invincible
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: Ganges entry into the plains
+  literal_form: region where the Ganges entereth the plains
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Naga mansion or palace
+  literal_form: mansion of the Naga; palace of Kauravya
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Arjuna fulfills Ulupi's desire
+  summary: After being addressed by the daughter of the king of the Nagas, Arjuna
+    does what she desires, explicitly with virtue as his motive.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Night in the Naga mansion and return to the Ganges region
+  summary: Arjuna spends the night in the Naga mansion, rises at sunrise, and returns
+    with Ulupi from Kauravya's palace to the region where the Ganges enters the plains.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ulupi's departure and boon
+  summary: Ulupi takes leave, returns to her own abode, and grants Arjuna a boon of
+    invincibility in water and power over amphibious creatures.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Boon of invincibility in water
+  taxonomy_refs: []
+  basis: Ulupi grants Arjuna a boon that makes him invincible in water and makes amphibious
+    creatures vanquishable by him.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage states the boon plainly, but no broader taxonomy family exactly
+    matches this motif.
+- id: motif:2
+  label: Return from Naga palace with a boon
+  taxonomy_refs:
+  - return
+  basis: Arjuna returns from the palace of Kauravya to the Ganges region and receives
+    a boon from Ulupi immediately before her departure.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage gives the return and boon, but it does not explicitly characterize
+    the palace as an otherworld or state that the boon is caused by the return.
+- id: motif:3
+  label: Fulfilled request followed by sacred gift
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Arjuna fulfills the desire of the Naga king's daughter with virtue as his
+    motive, and Ulupi subsequently grants him a boon.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly frame the boon as payment or a formal
+    exchange; the sequence supports only a cautious motif candidate.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20266-20266
+  quote_or_summary: '"Vaisampayana said"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 20266-20268
+  quote_or_summary: The daughter of the king of the Nagas addresses Arjuna, the son
+    of Kunti, and he does everything she desired, making virtue his motive.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 20268-20270
+  quote_or_summary: Arjuna spends the night in the mansion of the Naga and rises with
+    the sun in the morning.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 20270-20272
+  quote_or_summary: Accompanied by Ulupi, Arjuna comes back from the palace of Kauravya
+    to the region where the Ganges enters the plains.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 20272-20273
+  quote_or_summary: Ulupi takes leave there and returns to her own abode.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 20273-20274
+  quote_or_summary: '"she granted unto Arjuna a boon making him invincible in water"
+    and says that every amphibious creature shall be vanquishable by him.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is clear. Motif candidates are cautious because the passage
+    states actions and a boon but does not explicitly frame broader comparative patterns.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata. No external identification of Nagas or narrative context has been added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l20266-l20274
+  passage_sha256=95b9c6185a1105c364750940226d801843f26713c5e1f244a13cc5feb18b3938
+

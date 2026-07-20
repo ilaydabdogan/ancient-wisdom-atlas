@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l16599-l16654
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: V,  I2Q.  PURIFICATION.  I9I / LAWS    OF    MANU. / V,  130. / V,  140.  PURIFICATION.  1
+    93; lines 16599-16654
+  start: '16599'
+  end: '16654'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists twelve bodily impurities, prescribes cleansing with earth
+    and water in specified repetitions, differentiates purification requirements by
+    life-stage and social category, and gives rules for water-sipping, cavity-sprinkling,
+    mouth-wiping, monthly shaving, and food for Sudras.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Twelve substances are named as impurities of human bodies, including exudations,
+    semen, blood, urine, faeces, mucus, ear-wax, phlegm, tears, eye rheum, and sweat.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person who desires purity is instructed to clean the organ, anus, left hand,
+    and both hands with earth in specified numbers of applications.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The prescribed purification is given as the householder standard, with doubled,
+    trebled, and quadrupled requirements for students, hermits, and ascetics.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After voiding urine or faeces, the person is to sip water and sprinkle the
+    cavities; the same is required when about to recite the Veda and before taking
+    food.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: For bodily purity, the person first sips water three times and wipes the mouth
+    twice; a woman and a Sudra perform each act once.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Sudras who live according to the law are instructed to shave their heads monthly,
+    use the same purification as Vaisyas, and eat fragments of an Aryan's meal.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A note explains the cavities as those of the head, with some commentators
+    also including the navel, heart, and crown of the head.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: person desiring purity
+  description: A generic ritual subject described as desiring purity or bodily purity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: householders
+  description: Group for whom the base purification rule is ordained.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: students
+  description: Group assigned double the householder purification.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: hermits
+  description: Group assigned treble the householder purification.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: ascetics
+  description: Group assigned quadruple the householder purification.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: woman
+  description: A woman is assigned one performance of each water-sipping and mouth-wiping
+    act.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Sudra
+  description: Sudras are assigned one performance in the water-sipping and mouth-wiping
+    rule; those living according to the law are given additional rules on shaving,
+    purification, and food.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Vaisyas
+  description: A social group used as the comparison standard for Sudra purification.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Aryan
+  description: An Aryan is named as the source of the meal fragments assigned as Sudra
+    food.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ritual purifier
+  assigned_to:
+  - fig:1
+  basis: The person desiring purity performs cleansing with earth and water, including
+    sipping and wiping.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: graded purification group
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage differentiates purification by householders, students, hermits,
+    and ascetics using increasing multipliers.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: single-repetition group
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: A woman and a Sudra are instructed to perform each water-sipping and mouth-wiping
+    act once.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: subject of monthly shaving and food rule
+  assigned_to:
+  - fig:7
+  basis: Sudras who live according to the law are prescribed monthly shaving, Vaisya-like
+    purification, and food from an Aryan meal.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: purification model
+  assigned_to:
+  - fig:8
+  basis: The purification mode of Vaisyas is used as the standard for Sudras.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: meal-fragment source
+  assigned_to:
+  - fig:9
+  basis: The Sudra's food is described as fragments of an Aryan's meal.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water for purification
+  literal_form: water, used for sipping and sprinkling
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: earth for cleansing
+  literal_form: earth applied to the organ, anus, and hands
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bodily impurities
+  literal_form: twelve named bodily substances treated as impurities
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: prescribed repetition counts
+  literal_form: one, three, ten, seven; double, treble, quadruple; three times, twice,
+    once
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: monthly head shaving
+  literal_form: shaving heads each month
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Enumeration of bodily impurities
+  summary: The passage defines twelve impurities belonging to human bodies.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cleansing with earth
+  summary: A person seeking purity cleans bodily parts and hands with earth according
+    to specified application counts.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Graded purification by group
+  summary: The householder rule is treated as the base, with increased purification
+    requirements for students, hermits, and ascetics.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Water acts after voiding and before sacred or food-related acts
+  summary: After voiding, and before Veda recitation or eating, the person sips water
+    and sprinkles bodily cavities.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Water-sipping and mouth-wiping counts
+  summary: The person seeking bodily purity sips water and wipes the mouth in stated
+    counts; women and Sudras perform each act once.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Sudra shaving, purification, and food prescriptions
+  summary: Sudras living according to the law receive monthly shaving instructions,
+    a purification model based on Vaisyas, and a food rule involving fragments from
+    an Aryan meal.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: enumerated bodily impurities
+  taxonomy_refs: []
+  basis: The passage explicitly enumerates twelve bodily substances as human impurities.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a legal-ritual classification rather than a narrative mythic motif.
+- id: motif:2
+  label: ritual purification by earth and water
+  taxonomy_refs: []
+  basis: Purity is pursued through earth applications, water sipping, sprinkling,
+    and mouth wiping.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No available motif-family taxonomy entry directly corresponds to purification;
+    the water symbol is separately recorded.
+- id: motif:3
+  label: purification by prescribed repetition counts
+  taxonomy_refs: []
+  basis: The passage repeatedly specifies exact counts and multipliers for purificatory
+    acts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The motif is procedural and normative, not narrative.
+- id: motif:4
+  label: socially differentiated purity practice
+  taxonomy_refs: []
+  basis: Purity practices differ for householders, students, hermits, ascetics, women,
+    Sudras, and Vaisyas, with a food rule involving Aryans.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The extraction records the hierarchy described in the passage without
+    endorsing it.
+- id: motif:5
+  label: ritual preparation before recitation and eating
+  taxonomy_refs: []
+  basis: Water-sipping and sprinkling are prescribed before Veda recitation and before
+    taking food.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage provides a ritual rule, not an explanatory myth.
+comparison_claims:
+- id: claim:1
+  claim: The translator's notes indicate that similar purification and water-sipping
+    prescriptions are cited in nearby Dharmashastra and Dharmasutra corpora.
+  claim_level: same_function
+  target: Vasistha, Vishnu, Gautama, Baudhayana, Apastamba, and Yajnavalkya legal-ritual
+    sources cited in the notes
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The notes provide bibliographic parallels, but the passage does not
+    quote or analyze the parallel passages in detail.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16599-16607; verse 135
+  quote_or_summary: Verse 135 lists twelve impurities of human bodies, including oily
+    exudations, semen, blood, urine, faeces, mucus, ear-wax, phlegm, tears, rheum,
+    and sweat.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:2
+  type: summary
+  locator: lines 16608-16614; verse 136
+  quote_or_summary: 'Verse 136 prescribes cleansing with earth: one application for
+    the organ, three for the anus, ten for the left hand, and seven for both hands.'
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:3
+  type: summary
+  locator: lines 16615-16618; verse 137
+  quote_or_summary: Verse 137 states that this purification is for householders, double
+    for students, treble for hermits, and quadruple for ascetics.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:4
+  type: summary
+  locator: lines 16619-16627 and note to verse 138
+  quote_or_summary: Verse 138 prescribes sipping water and sprinkling cavities after
+    voiding and before Veda recitation or food; the note explains the cavities as
+    bodily locations, chiefly those of the head, with additional locations in some
+    commentaries.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:5
+  type: summary
+  locator: lines 16628-16632; verse 139
+  quote_or_summary: Verse 139 instructs one seeking bodily purity to sip water three
+    times and wipe the mouth twice, while a woman and a Sudra perform each act once.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:6
+  type: summary
+  locator: lines 16633-16645; verse 140 and note
+  quote_or_summary: Verse 140 prescribes monthly shaving for Sudras living according
+    to the law, states that their purification is the same as that of Vaisyas, and
+    gives their food as fragments of an Aryan meal; the note reports interpretive
+    glosses.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; full text use allowed per metadata.
+- id: ev:7
+  type: citation
+  locator: notes to verses 136-140
+  quote_or_summary: The notes cite parallels or references for these verses in Vasistha,
+    Vishnu, Gautama, Baudhayana, Apastamba, and Yajnavalkya legal-ritual sources.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain; full text use allowed per metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal procedural rules are clear. Motif labels are descriptive because
+    the available taxonomy does not contain a direct purification motif family. The
+    comparison claim is limited to cited parallels in the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic narrative figures are present; social and ritual categories are treated as passage figures only for extraction purposes.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l16599-l16654
+  passage_sha256=57115429bc6009f561659d0d06ba0059ae6b262752e2e24532f0db360da926c1
+

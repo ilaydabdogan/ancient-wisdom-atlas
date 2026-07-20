@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l9280-l9296
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA I, HYMN 189. / ASHTAKA II, ADHYAYA 5, VARGA 10-11. / NOTES. / MANDALA
+    I, HYMN 189. 18S; lines 9280-9296
+  start: '9280'
+  end: '9296'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A scholarly note identifies the passage as containing an ancient list of
+    seven priests, with the grzha-pati or master of the house mentioned as an eighth.
+    It compares this list with later ritual formulae naming officiating priests and
+    identifies the Brahman in the verse with the Brahmazakkhamsin of later ritual.
+    A separate note refers readers to von Bradke on verses 3-6.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says the verse contains an ancient list of seven priests.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The grzha-pati, described as the master of the house, is mentioned alongside
+    the seven priests as an eighth figure.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Adhvaryu is described as naming the officiating priests in a later formula
+    cited by the note.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Brahman mentioned in the verse is identified by the note with the Brahmazakkhamsin
+    of later ritual.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note cites later ritual and scholarly sources, including Katyayana, Satapatha
+    Brahmana, Weber, Oldenberg's Religion des Veda, and von Bradke.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: seven priests
+  description: A group named as the most ancient list of seven priests.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: grzha-pati
+  description: The master of the house, mentioned as an eighth figure beside the seven
+    priests.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Adhvaryu
+  description: A ritual officiant who names the officiating priests in a cited formula.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Brahman
+  description: A priestly figure mentioned in the verse and identified with the Brahmazakkhamsin
+    of later ritual.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Brahmazakkhamsin
+  description: A later ritual figure with whom the Brahman of the verse is compared
+    or identified.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: priestly officiant
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:5
+  basis: The passage refers to priests and to later ritual priestly terminology.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: master of the house
+  assigned_to:
+  - fig:2
+  basis: The passage glosses grzha-pati as master of the house.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: namer of officiating priests
+  assigned_to:
+  - fig:3
+  basis: The passage says the Adhvaryu names the officiating priests in a formula.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: seven-priest group
+  literal_form: seven priests
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: eighth house-master
+  literal_form: grzha-pati as eighth beside the seven priests
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Scholarly identification of priestly list
+  summary: The note explains that the verse preserves an ancient list of seven priests,
+    with the house-master named as an eighth, and compares these priestly designations
+    with later Vedic ritual sources.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual priestly officiants
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage centers on lists and names of priests and officiating priests
+    in Vedic ritual contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a scholarly note, not a narrative myth; the sacrifice taxonomy
+    is inferred from ritual priesthood and should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The note compares the hymn's priestly terminology with later Vedic ritual
+    sources, especially a formula in Katyayana and a passage in Satapatha Brahmana.
+  claim_level: same_function
+  target: later Vedic ritual priest lists and formulae
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides bibliographic comparison but does not quote the
+    later sources or detail the full ritual functions.
+- id: claim:2
+  claim: The note identifies the Brahman of the verse with the Brahmazakkhamsin of
+    later ritual.
+  claim_level: same_function
+  target: Brahmazakkhamsin of later ritual
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The identification is stated by the commentator; the passage does not
+    independently explain the office.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9280-9283
+  quote_or_summary: '"the most ancient list of the ‘seven priests," with the grzha-pati
+    or "master of the house" mentioned as the eighth.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 9283-9288
+  quote_or_summary: The note compares the verse with a formula in which the Adhvaryu
+    names the officiating priests, citing Katyayana and Weber, and refers to Oldenberg's
+    Religion des Veda.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 9288-9292
+  quote_or_summary: The note says the Brahman mentioned in the verse is the Brahmazakkhamsin
+    of later ritual and cites Katyayana and Satapatha Brahmana.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 9294-9296
+  quote_or_summary: A separate note on verses 3-6 refers the reader to von Bradke,
+    Dyaus Asura.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is primarily scholarly commentary on ritual terminology, so literal
+    extraction is straightforward but mythic motif assignment is limited and should
+    be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative mythic action is present in the passage; extraction emphasizes ritual personnel, numbered priestly grouping, and comparisons made by the note.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l9280-l9296
+  passage_sha256=1a5259ed57669cd632d1ccc3400184a9020729e098a1ec437d71228a7271f90c
+

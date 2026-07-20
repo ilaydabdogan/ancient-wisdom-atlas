@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l20113-l20124
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: WISE   WOMEN.  1597 / WISE  WOMEN.  399 / ITIS.      VELEUA.      GANNA.  403
+    / NORNI.      WYRD.  407; lines 20113-20124
+  start: '20113'
+  end: '20124'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys medieval and Old French names for fays or wise-women,
+    notes that beauty is attributed to them, and compares the houses, castles, and
+    hills of fays with wise-women's towers, named hills, and giants' houses. It also
+    notes an Irish term meaning first a fay's house and then the fay community.
+  language: English, with Middle High German, Old French, and Irish terms cited
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists Middle High German poetic forms associated with fays, including
+    forms such as feie and related variants.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Old French poems are said to call the beings by several names, including fees,
+    divesses, duesses, and other descriptive terms.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One listed Old French term is glossed as wise-women, derived from sapere.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Enchanting beauty is attributed to the beings discussed.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The beings are associated with houses, castles, and hills.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The houses, castles, and hills of the fays are said to recall wise-women's
+    towers, the Venus-hill, the Holla-hill, and giants' houses.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Irish terms siahrog and sighbrog are glossed first as a fay's house and
+    then as the fay community.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: fays / wise-women
+  description: A collective group named in Middle High German and Old French forms,
+    including terms glossed as fays and wise-women; enchanting beauty is ascribed
+    to them.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: fay community
+  description: A collective community denoted by an Irish term that also denotes a
+    fay's house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wise-women / sapient female beings
+  assigned_to:
+  - fig:1
+  basis: The passage glosses one Old French designation as wise-women and derives
+    it from sapere.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: beautiful fays
+  assigned_to:
+  - fig:1
+  basis: The passage states that enchanting beauty is ascribed to them.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: community associated with fay dwelling
+  assigned_to:
+  - fig:2
+  basis: The Irish term is glossed as both a fay's house and the fay community.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fays' dwellings
+  literal_form: houses, castles, and hills of the fays
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: wise-women's towers
+  literal_form: towers of the wise-women
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Venus-hill and Holla-hill
+  literal_form: 'named hills: Venus-hill and Holla-hill'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: giants' houses
+  literal_form: houses of giants
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Irish fay-house term
+  literal_form: siahrog / sighbrog as a fay's house and then a fay community
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: wise female supernatural beings
+  taxonomy_refs:
+  - wisdom
+  basis: The passage groups fays with terms glossed as wise-women and derived from
+    sapere.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a scholarly lexical discussion, not a narrative episode;
+    the wisdom motif is based on terminology rather than action.
+- id: motif:2
+  label: supernatural dwellings of fays or wise-women
+  taxonomy_refs: []
+  basis: The passage links fays with houses, castles, and hills and compares these
+    places with wise-women's towers and other mythic dwellings.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The comparison is descriptive and antiquarian; no direct narrative event
+    is given.
+- id: motif:3
+  label: dwelling name extended to supernatural community
+  taxonomy_refs: []
+  basis: The Irish term is said to mean first a fay's house and then the fay community.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a semantic observation rather than a developed mythic scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously associates fays' houses, castles, and hills with wise-women's
+    towers, the Venus-hill, the Holla-hill, and giants' houses as comparable supernatural
+    dwellings.
+  claim_level: visual_similarity
+  target: wise-women's towers; Venus-hill; Holla-hill; giants' houses
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says these places 'remind us' of one another; it does not
+    establish historical contact, common inheritance, or exact equivalence.
+- id: claim:2
+  claim: The passage links an Irish fay-house term with the broader fay community,
+    suggesting a semantic connection between supernatural dwelling and collective
+    inhabitants.
+  claim_level: linguistic_similarity
+  target: Irish siahrog / sighbrog as fay house and fay community
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a gloss is provided; the passage gives no extended Irish narrative
+    or etymological proof.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20113-20115
+  quote_or_summary: Middle High German poets are said to use forms such as feie and
+    related variants for fays.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 20116-20118
+  quote_or_summary: Old French poems are reported to call the beings fees, divesses,
+    duesses, and other terms, including one glossed as wise-women from sapere.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20118-20120
+  quote_or_summary: The passage states that enchanting beauty is ascribed to all of
+    these beings and cites an Old French comparison of beauty.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 20121-20123
+  quote_or_summary: Houses, castles, and hills of the fays are said to recall wise-women's
+    towers, the Venus-hill, the Holla-hill, and giants' houses.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 20123-20124
+  quote_or_summary: Irish siahrog or sighbrog is glossed first as a fay's house and
+    then as the fay community.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly lexical and comparative note rather than a narrative
+    mythic episode. Motifs are therefore extracted mainly from terminology, attributes,
+    and stated comparisons of dwellings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported taxonomy symbol references were assigned; available symbol list did not include houses, castles, hills, or towers.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l20113-l20124
+  passage_sha256=fa8f301d122ee6f3eec0fe7fde664867e1b6d1bc437d4d20167257863084d84a
+

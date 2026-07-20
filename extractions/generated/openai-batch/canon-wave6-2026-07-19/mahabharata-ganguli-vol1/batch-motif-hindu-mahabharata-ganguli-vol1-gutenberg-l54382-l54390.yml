@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l54382-l54390
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION CCLXXVII / SECTION CCLXXVIII / SECTION CCLXXIX / SECTION CCLXXX;
+    lines 54382-54390
+  start: '54382'
+  end: '54390'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The speaker reports that Sita used a jewel as a credential or support
+    and sent a token involving a remembered episode: the addressee once used a mantra-empowered
+    blade of grass as a weapon against a crow on Chitrakuta. The speaker says this
+    proved he had met Sita, then recounts being seized by Ravana''s soldiers and setting
+    Lanka on fire.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A jewel is described as connected with Sita's ability to support her existence
+    and as part of the credential context.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sita is identified as the daughter of Janaka and as the princess of Videha.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: Sita sends as a token a remembered incident in which the addressee shot a
+    blade of grass at a crow.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The blade of grass is described as inspired with Mantras and converted into
+    a fatal weapon.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The remembered incident is presented as evidence that the speaker had met
+    Sita.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The remembered incident took place on the mighty hill called Chitrakuta.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The speaker says he caused himself to be seized by Ravana's soldiers and then
+    set fire to the city of Lanka.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unidentified speaker
+  description: The first-person narrator who reports receiving Sita's token, being
+    seized by Ravana's soldiers, and setting Lanka on fire.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Sita
+  description: Called faultless Sita, daughter of Janaka, and princess of Videha;
+    she provides a token to the speaker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: addressee called tiger among men
+  description: The person addressed as having once shot a mantra-empowered blade of
+    grass at a crow on Chitrakuta.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: crow
+  description: The bird targeted by the blade of grass in the remembered incident.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Ravana's soldiers
+  description: The soldiers by whom the speaker says he caused himself to be seized.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Ravana
+  description: Named through the possessive phrase identifying the soldiers as Ravana's.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: witness-messenger
+  assigned_to:
+  - fig:1
+  basis: The speaker says Sita told him the token and that it served as evidence he
+    had met her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: token-giver
+  assigned_to:
+  - fig:2
+  basis: Sita is said to have told the speaker a token from herself.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: remembered weapon-user
+  assigned_to:
+  - fig:3
+  basis: The addressee is described as having shot a mantra-empowered blade of grass
+    at a crow.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: targeted bird
+  assigned_to:
+  - fig:4
+  basis: The crow is the target of the blade of grass.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: fire-setter
+  assigned_to:
+  - fig:1
+  basis: The speaker says he set fire to Lanka.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: seizing soldiers
+  assigned_to:
+  - fig:5
+  basis: The speaker says he caused himself to be seized by Ravana's soldiers.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: named associate of soldiers
+  assigned_to:
+  - fig:6
+  basis: The soldiers are identified as Ravana's soldiers.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: jewel credential
+  literal_form: jewel
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mantra-empowered blade of grass
+  literal_form: blade of grass converted into a fatal weapon
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Chitrakuta hill
+  literal_form: mighty hill known as Chitrakuta
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fire at Lanka
+  literal_form: fire set to the city of Lanka
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: city of Lanka
+  literal_form: city of Lanka
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sita's credential and token
+  summary: The speaker recounts Sita's jewel and her token of a remembered incident
+    as proof of encounter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Remembered event on Chitrakuta
+  summary: In Sita's reported token, the addressee once shot a mantra-empowered blade
+    of grass at a crow while on Chitrakuta.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Seizure and burning of Lanka
+  summary: The speaker says he deliberately allowed Ravana's soldiers to seize him
+    and then set fire to Lanka.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: recognition by token and private memory
+  taxonomy_refs: []
+  basis: Sita's token, including the remembered crow episode, is used as evidence
+    that the speaker met her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives the recognition function clearly, but no external comparative
+    taxonomy is asserted.
+- id: motif:2
+  label: ordinary object empowered as deadly weapon
+  taxonomy_refs: []
+  basis: A blade of grass is said to be inspired with Mantras and converted into a
+    fatal weapon.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states the transformation but does not explain the ritual
+    or doctrinal mechanism beyond Mantras.
+- id: motif:3
+  label: voluntary capture followed by burning of enemy city
+  taxonomy_refs: []
+  basis: The speaker says he caused himself to be seized by Ravana's soldiers and
+    then set fire to Lanka.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is brief and does not provide the broader narrative context
+    or outcome of the fire.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 54382-54383
+  quote_or_summary: '"by means of this jewel" Sita had been able to support her existence'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 54383-54388
+  quote_or_summary: Sita gives as token that the addressee once shot a mantra-empowered
+    blade of grass at a crow on Chitrakuta.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; summarized with short quoted terms only.
+- id: ev:3
+  type: quote
+  locator: 54388-54389
+  quote_or_summary: The token is said to be evidence that the speaker had met Sita
+    and that she was the princess of Videha.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 54389-54390
+  quote_or_summary: '"I then caused myself to be seized by Ravana''s soldiers, and
+    then set fire to the city of Lanka"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied English passage.
+    Motif labels are descriptive and not mapped to broader comparative claims. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied line range and metadata were used; names not explicit in the excerpt were left unidentified.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l54382-l54390
+  passage_sha256=7c513f6ae9c2452a2393195863ebb85b94fb4f2efe9ed92f043201565be64189
+

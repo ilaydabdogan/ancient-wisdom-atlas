@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l1153-l1176
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: LAMENT OVER THE HEROES FALLEN IN THE BATTLE OF AVARAIR / THE SONG OF THE
+    STORK / FOLK SONG / YE MOUNTAIN BLUEBELLS; lines 1153-1176
+  start: '1153'
+  end: '1176'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: My love is gone,—light of my eye; / I sob and weep forlorn.
+  summary: A lyric speaker asks mountain bluebells, flowers, and a nightingale to
+    weep with them. The speaker mourns alone in a darkened world because their love
+    has gone, no longer cares, and has left them in pain. The opening appeal to nature
+    is repeated as a refrain.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker addresses mountain bluebells and flowers and asks them to weep
+    with the speaker.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:2
+  text: The speaker addresses a nightingale on a tree and asks it to weep.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:3
+  text: Cool winds are described as dropped from the clouds.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:4
+  text: The speaker describes the earth and sky as dark and says they mourn alone.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says their love is gone and calls that love the light of their
+    eye.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker says the beloved no longer cares, left them unconsoled, pierced
+    their heart, and left them in pain.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The poem repeats the opening appeal to bluebells, flowers, nightingale, tree,
+    winds, and clouds at the end.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: lyric speaker
+  description: A first-person mourner who sobs, weeps, and says their love is gone.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: absent beloved
+  description: The speaker's love, referred to as male, who has gone, no longer cares,
+    and left the speaker in pain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: mountain bluebells and flowers
+  description: Flowers directly addressed and asked to weep with the speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: nightingale
+  description: A nightingale on a tree directly addressed and asked to weep.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: mourning speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker says they mourn, sob, and weep forlorn.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: departed beloved
+  assigned_to:
+  - fig:2
+  basis: The speaker says their love is gone and has left them unconsoled and in pain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: invoked natural mourner
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The flowers and nightingale are directly asked to weep with the speaker.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: mountain bluebells
+  literal_form: mountain bluebells addressed as companions in weeping
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: nightingale on a tree
+  literal_form: nightingale on yonder tree
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: dark earth and sky
+  literal_form: all dark around the earth and sky
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: light of the eye
+  literal_form: the absent love called the speaker's light of the eye
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: pierced heart
+  literal_form: the speaker says the beloved pierced their heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: cool winds from clouds
+  literal_form: cool winds dropped from the clouds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: appeal to nature to weep
+  summary: The speaker calls on mountain bluebells, flowers, and a nightingale on
+    a tree to weep with them while cool winds descend from clouds.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: solitary mourning for the gone love
+  summary: The speaker describes a dark earth and sky, says they mourn alone, and
+    says their love is gone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: complaint of abandonment and pain
+  summary: The speaker says the beloved no longer cares, left them unconsoled, pierced
+    their heart, and left them in pain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: repeated refrain
+  summary: The poem closes by repeating the appeal to bluebells, flowers, and the
+    nightingale to weep.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: lament for an absent beloved
+  taxonomy_refs: []
+  basis: The speaker mourns alone because their love has gone and has left them in
+    pain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is lyric rather than narrative, so the beloved's departure
+    is not elaborated.
+- id: motif:2
+  label: nature summoned to share human grief
+  taxonomy_refs: []
+  basis: Flowers and a nightingale are addressed as if they can weep with the speaker;
+    this invocation is repeated as a refrain.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is an internal poetic pattern; no broader historical comparison is
+    asserted.
+- id: motif:3
+  label: departure or abandonment of the beloved
+  taxonomy_refs:
+  - departure
+  basis: The speaker says the love is gone and has left the speaker unconsoled.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy term 'departure' is only loosely applicable; the
+    passage does not describe a journey, quest, or mythic departure scene.
+- id: motif:4
+  label: wounded heart of the abandoned lover
+  taxonomy_refs: []
+  basis: The speaker says the beloved pierced their heart and left them in untold
+    pain.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The heart-piercing is likely poetic language, but the extraction records
+    only the stated image.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1153-1160
+  quote_or_summary: The speaker asks mountain bluebells, flowers, and a nightingale
+    on a tree to weep; cool winds are described as dropping from clouds.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1161-1164
+  quote_or_summary: The speaker says earth and sky are dark, mourns alone, and says,
+    "My love is gone,—light of my eye."
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 1165-1168
+  quote_or_summary: The speaker says the beloved no longer cares, left them unconsoled,
+    pierced their heart, and left them in untold pain.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1169-1176
+  quote_or_summary: The closing stanza repeats the opening appeal to mountain bluebells,
+    flowers, and a nightingale on a tree to weep, with cool winds from clouds.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are based on lyric images
+    and should be reviewed for taxonomy fit, especially the loose use of 'departure'.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself make or clearly signal a cross-textual comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l1153-l1176
+  passage_sha256=a7f44a692d4f211e1d013e8131d31ee95a7d34e84c876972f2aac21d758cb1aa
+

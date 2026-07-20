@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l19292-l19317
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: XI  INDUSTRIES  377 / XI  INDUSTRIES  379 / THE   BAGANDA / CHAP.; lines
+    19292-19317
+  start: '19292'
+  end: '19317'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"these alternate layers of stone and charcoal were repeated, until the furnace
+    was filled up"'
+  summary: The passage describes the construction and filling of a furnace with stone
+    and charcoal, the sealing of its walls with clay, and the insertion and form of
+    smiths' paired-pot bellows with goat-skin covers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The furnace was filled with repeated alternate layers of broken stone and
+    charcoal.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The furnace walls were four feet high, and the top row of slabs narrowed the
+    opening to a small aperture.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The furnace joints and outer walls were smeared with clay.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bellows nozzles were inserted into four openings around the furnace.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The bellows consisted of two pots, often of unbaked clay and sometimes of
+    wood, each with a side hole and an attached nozzle.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A goat-skin with a stick attached was tied over the mouth of each bellows
+    pot.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A man stood between the two bellows pots.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: smiths
+  description: The passage identifies the bellows as the ordinary kind used by smiths
+    throughout the country.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: man between the bellows pots
+  description: A man is described as standing between the two pots of the bellows.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: users of the bellows
+  assigned_to:
+  - fig:1
+  basis: The passage states that this type of bellows was used by smiths throughout
+    the country.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: bellows attendant or operator
+  assigned_to:
+  - fig:2
+  basis: The man is positioned between the two bellows pots after the goat-skins are
+    tied over their mouths.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: furnace
+  literal_form: A four-foot-high furnace filled with stone and charcoal and narrowed
+    at the top.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: charcoal
+  literal_form: Charcoal placed in alternate layers with broken stone inside the furnace.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: clay sealing
+  literal_form: Clay smeared over the furnace joints and outer walls.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: smith's bellows
+  literal_form: A paired-pot bellows apparatus with nozzles, goat-skin covers, and
+    sticks attached to the skins.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: goat-skin bellows cover
+  literal_form: Goat-skin tied over the mouth of each pot, with a stick attached.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Furnace filling and sealing
+  summary: The furnace is filled with repeated layers of broken stone and charcoal;
+    its top is narrowed, and its joints and exterior are sealed with clay.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Bellows placement and construction
+  summary: Bellows nozzles are inserted into furnace openings, and the bellows are
+    described as paired pots with side holes, nozzles, goat-skin covers, and sticks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: alternating furnace charge layers
+  taxonomy_refs: []
+  basis: The passage describes broken stone and charcoal arranged in repeated alternate
+    layers until the furnace is filled.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a technical industrial pattern in the passage; no explicit mythological
+    or symbolic meaning is stated.
+- id: motif:2
+  label: paired-pot bellows apparatus
+  taxonomy_refs: []
+  basis: The passage describes smiths' bellows as two pots with nozzles and goat-skin
+    covers operated from between the pots.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a material-culture pattern, not a stated narrative or religious
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19292-19294
+  quote_or_summary: '"alternate layers of stone and charcoal were repeated, until
+    the furnace was filled up"'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 19295-19301
+  quote_or_summary: The furnace walls are four feet high; the top slabs narrow the
+    opening to a small aperture; joints and outside walls are smeared with clay.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19301-19304
+  quote_or_summary: The nozzles of the bellows are inserted into four openings left
+    around the furnace.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19305-19314
+  quote_or_summary: The bellows used by smiths throughout the country consist of two
+    pots, sometimes wooden but more often unbaked clay, with side holes and attached
+    nozzles about a foot long.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19315-19317
+  quote_or_summary: A goat-skin with an attached stick is tied over each pot mouth,
+    and a man stands between the two pots.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are treated as material-culture
+    patterns only; the passage gives no explicit mythological, ritual, or comparative
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references or comparison claims were assigned because the passage itself does not state symbolic meanings or cross-tradition comparisons.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l19292-l19317
+  passage_sha256=71467bf245d2ad4473e799ac762c8d8aace951c00d49abf42c843127fd40932e
+

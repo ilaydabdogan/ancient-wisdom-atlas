@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l3821-l3871
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: PHYSICAL CHARACTERISTICS / PT. I / PT. I / PHYSICAL CHARACTERISTICS; lines
+    3821-3871
+  start: '3821'
+  end: '3871'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ethnographic observations about cold, clothing, sleeping,
+    early morning smoking near an ash-heap, eyesight, distance vision on open plains,
+    and a photo caption identifying Namushia, son of Mungaila, chief at Kasenga.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The authors state that cold shrivels the people described and call them miserable
+    on a bleak winter day.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On a bitterly cold night, a man is described removing his scanty clothing,
+    using it as a pillow, covering himself with a thin cotton blanket, and sleeping
+    soundly.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The observing authors contrast the sleeping man with themselves lying sleepless
+    and shivering in a tent under two or three blankets.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Men are described emerging before sunrise from warm huts and sitting exposed
+    in chilly air around an ash-heap for an early morning smoke.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The authors suggest that perhaps the people described do not feel cold as
+    much as Europeans do.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Their eyesight is described as good, though not superior in the authors' opinion
+    to that of average white men.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The authors connect long-distance object detection with being accustomed to
+    wide open plains and great distances.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A photo caption identifies Namushia as son of Mungaila and chief at Kasenga.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed man in cold-night example
+  description: A man who strips off scanty clothing, uses it as a pillow, covers himself
+    with a thin cotton blanket, and sleeps soundly on a cold night.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: men smoking before sunrise
+  description: Men who come out from warm huts before sunrise and sit exposed around
+    an ash-heap to smoke.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: observing authors
+  description: The narrating observers who report lying sleepless and shivering in
+    a tent under two or three blankets.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Europeans / average white men
+  description: Comparator group mentioned by the authors in relation to cold-sensitivity
+    and eyesight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Namushia
+  description: Photo-captioned individual identified as son of Mungaila and chief
+    at Kasenga.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Mungaila
+  description: Named in the photo caption as Namushia's father.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: observed local men
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage presents these men as examples in the authors' observations about
+    cold and bodily habits.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: narrating observers
+  assigned_to:
+  - fig:3
+  basis: The passage uses first-person plural observation and comparison.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: comparison group
+  assigned_to:
+  - fig:4
+  basis: Europeans and average white men are used as points of comparison for cold
+    sensation and eyesight.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: chief at Kasenga
+  assigned_to:
+  - fig:5
+  basis: The photo caption identifies Namushia as chief at Kasenga.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: son of Mungaila
+  assigned_to:
+  - fig:5
+  basis: The photo caption identifies Namushia as son of Mungaila.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: father of Namushia
+  assigned_to:
+  - fig:6
+  basis: The photo caption names Mungaila in the relation 'son of Mungaila.'
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: thin cotton blanket
+  literal_form: A thin cotton blanket used for covering during a bitterly cold night.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ash-heap
+  literal_form: An ash-heap around which men sit in chilly air for an early morning
+    smoke.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: warm huts
+  literal_form: Warm huts from which men emerge before sunrise.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: wide open plains
+  literal_form: Wide open plains and great distances associated with detecting far-off
+    objects.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cold-night sleeping comparison
+  summary: A man sleeps soundly on a cold night with scant clothing and a thin blanket,
+    while the observers shiver in a tent under more blankets.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Before-sunrise smoking by ash-heap
+  summary: Men leave warm huts before sunrise and sit in chilly air around an ash-heap
+    to smoke.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Distance vision on open plains
+  summary: The passage describes good eyesight and the ability to detect distant objects,
+    linked to experience with open plains and great distances.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Photo caption identification
+  summary: A caption identifies Namushia as son of Mungaila and chief at Kasenga.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3821-3837
+  quote_or_summary: Cold is said to affect the people described; an example contrasts
+    a man sleeping under a thin cotton blanket on a near-freezing night with observers
+    shivering in a tent under multiple blankets.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3838-3848
+  quote_or_summary: Men come out from warm huts before sunrise, sit in chilly air
+    around an ash-heap for an early smoke, and the authors suggest they may not feel
+    cold as much as Europeans do.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3849-3862
+  quote_or_summary: The passage says their eyesight is good, not superior to average
+    white men in the authors' opinion, and connects distant object detection with
+    open plains and great distances.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3863-3871
+  quote_or_summary: "“NAMUSHIA, SON OF MUNGAILA, CHIEF AT KASENGA.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short quoted caption.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is descriptive ethnography rather than mythic narrative; no candidate
+    myth motifs or comparison claims are supported by the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif refs assigned. The available symbol taxonomy includes fire, but the passage mentions an ash-heap rather than fire directly, so no fire taxonomy ref was applied.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l3821-l3871
+  passage_sha256=1dd04ba8b061461eba4188be8e77b6ae9711ca859de35d4a47780b9e6f03fd16
+

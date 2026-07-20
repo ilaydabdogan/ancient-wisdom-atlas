@@ -1,0 +1,172 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l1502-l1506
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION IX / SECTION X / SECTION XI / SECTION XII; lines 1502-1506
+  start: '1502'
+  end: '1506'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Yudhishthira said, "It behoveth, O king to tell me truly which of the two
+    viz., man or woman derives the greater pleasure from an act of union..."
+  summary: Yudhishthira asks a king to state truthfully whether man or woman derives
+    greater pleasure from mutual sexual union, and asks him to resolve this doubt.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira addresses a king and asks him to answer truthfully.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The question compares man and woman as the two parties in an act of union
+    with each other.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yudhishthira asks which party derives greater pleasure from the act of union.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Yudhishthira characterizes the issue as a doubt to be resolved.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who poses the question.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: king
+  description: The person addressed by Yudhishthira as the one asked to tell the truth
+    and resolve the doubt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: man
+  description: One of the two categories compared in the question about pleasure from
+    union.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: woman
+  description: One of the two categories compared in the question about pleasure from
+    union.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira speaks and asks for the king to resolve his doubt.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: addressed authority
+  assigned_to:
+  - fig:2
+  basis: The king is addressed as the one who should tell the truth and resolve the
+    question.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: compared parties in union
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Man and woman are named as the two parties whose pleasure from union is being
+    compared.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Question about pleasure in union
+  summary: Yudhishthira asks a king to determine truthfully whether man or woman experiences
+    greater pleasure in an act of union, presenting the matter as a doubt needing
+    resolution.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: request to resolve a doubt through authoritative knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage consists of a named questioner asking an addressed king to tell
+    the truth and resolve a doubt.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only the question, not the answer or a fuller wisdom
+    teaching.
+- id: motif:2
+  label: comparison of male and female experience in sexual union
+  taxonomy_refs: []
+  basis: The question explicitly asks whether man or woman derives greater pleasure
+    from an act of union.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a passage-level thematic pattern rather than a clearly established
+    cross-cultural motif in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1502-1506
+  quote_or_summary: Yudhishthira asks the king to tell him truly which of the two,
+    man or woman, derives greater pleasure from an act of union with the other.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: line 1506
+  quote_or_summary: '"Kindly resolve my doubt in this respect."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward; motif assignment is limited because
+    the passage is only a question and contains little narrative action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied symbol taxonomy are present in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l1502-l1506
+  passage_sha256=87e04200f10f43ea7e6695d269a12aa69bc21e334335c611a3709ce7de3195d1
+

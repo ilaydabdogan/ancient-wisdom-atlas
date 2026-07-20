@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l17708-l17731
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: KING MAHASENA1 / APPENDIX A / THE DYNASTY OF MAHASAMMATA / J ' '; lines 17708-17731
+  start: '17708'
+  end: '17731'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A compact genealogical passage lists named family relationships around
+    Suddhodana, Maya, and the Bodhisatta, followed by a note comparing variant identifications
+    for Maya's father in the Mahavastu, Dulva, and Mahavamsa.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as a compact genealogical list followed by a textual
+    note.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:2
+  text: The genealogical list includes the phrases 'married to Sihahanu', 'married
+    to Anjana', and 'Suddhodana, married to Maya', and then lists 'Bodhisatta'.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Mahavastu note names Subhuti as Maya's father.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Subhuti is said to have been married to a Koliya princess and to have lived
+    in Devadaha.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note identifies Subhuti with Anjana of the Mahv and Suprabuddha of the
+    Dulva.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Mahavamsa is said to treat Suppabuddha as son of Anjana and brother of
+    Maya.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The note proposes that Suprabuddha may have been a surname borne by both father
+    and son.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The supplied passage locator places the extract in an appendix section on
+    the dynasty of Mahasammata.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Anjana
+  description: Named in the genealogical list and later mentioned as Anjana of the
+    Mahv and as father of Suppabuddha in the Mahavamsa note.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Kaccana
+  description: Named in the compressed genealogical list near the phrase 'married
+    to Sihahanu'.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sihahanu
+  description: Named in the genealogical list in the phrase 'married to Sihahanu'.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Yasodhara
+  description: Named in the genealogical list before the phrase 'married to Anjana'.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Suddhodana
+  description: Named in the genealogical list as married to Maya.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Maya
+  description: Named in the genealogical list as married to Suddhodana; later notes
+    discuss her father and brother.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:7
+  name_or_label: Bodhisatta
+  description: Listed after the Suddhodana-Maya marriage line in the genealogical
+    chart.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: Subhuti
+  description: Named by the Mahavastu as Maya's father; described as married to a
+    Koliya princess and living in Devadaha.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:9
+  name_or_label: Koliya princess
+  description: Unnamed princess described as married to Subhuti.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:10
+  name_or_label: Suprabuddha
+  description: Named as the Dulva counterpart in the note; the note suggests this
+    may have been a surname borne by father and son.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:11
+  name_or_label: Suppabuddha
+  description: Named in the Mahavamsa note as son of Anjana and brother of Maya.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named figure in genealogical chart
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: These names appear in the initial genealogical list.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: person in stated marriage relationship
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The chart uses repeated marriage phrases, including 'married to Sihahanu',
+    'married to Anjana', and 'Suddhodana, married to Maya'.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Bodhisatta in genealogical sequence
+  assigned_to:
+  - fig:7
+  basis: The chart lists 'Bodhisatta' after the Suddhodana-Maya line.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Maya's father according to Mahavastu
+  assigned_to:
+  - fig:8
+  basis: The note says the Mahavastu names Subhuti as Maya's father.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: spouse of Subhuti
+  assigned_to:
+  - fig:9
+  basis: The note says Subhuti was married to a Koliya princess.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: cross-text name associated with Maya's father
+  assigned_to:
+  - fig:1
+  - fig:8
+  - fig:10
+  basis: The note identifies Subhuti with Anjana of the Mahv and Suprabuddha of the
+    Dulva.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: possible surname borne by father and son
+  assigned_to:
+  - fig:10
+  basis: The note proposes that Suprabuddha may have been a surname borne by the father
+    and son.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: son of Anjana and brother of Maya according to Mahavamsa
+  assigned_to:
+  - fig:11
+  basis: The note states that Mahavamsa 2.18-19 takes Suppabuddha to be son of Anjana
+    and brother of Maya.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Genealogical listing around Suddhodana, Maya, and Bodhisatta
+  summary: The passage presents a compressed genealogy with marriage relationships
+    and a sequence ending with Bodhisatta.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Comparative note on Maya's father
+  summary: The note compares Mahavastu, Dulva, and Mahavamsa identifications of figures
+    connected with Maya's father, brother, and related names.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dynastic genealogy framing the Bodhisatta
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The locator places the passage in a dynasty appendix, and the text gives
+    a genealogy including marriage relationships and the Bodhisatta.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage is a genealogical appendix and textual note, not a full narrative;
+    royal legitimacy is inferred from the dynastic frame and genealogy rather than
+    explicitly argued in the lines.
+- id: motif:2
+  label: variant kinship-name reconciliation across Buddhist sources
+  taxonomy_refs: []
+  basis: The note aligns Subhuti, Anjana, and Suprabuddha across Mahavastu, Mahv,
+    and Dulva, while also noting Mahavamsa's different placement of Suppabuddha as
+    Anjana's son and Maya's brother.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a textual-comparative pattern rather than a mythic action sequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Subhuti, Anjana, and Suprabuddha as corresponding names
+    or functions for Maya's father across Mahavastu, Mahv, and Dulva traditions.
+  claim_level: same_function
+  target: Maya's-father genealogy in Mahavastu, Mahv, and Dulva
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The identification is reported as an editorial note; the same passage
+    also records a Mahavamsa relation in which Suppabuddha is not Maya's father but
+    Anjana's son and Maya's brother.
+- id: claim:2
+  claim: The passage cautiously links Suprabuddha and Suppabuddha through a possible
+    surname shared by father and son.
+  claim_level: linguistic_similarity
+  target: Suprabuddha/Suppabuddha naming in the genealogical note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself uses speculative wording; no linguistic analysis
+    beyond the note is provided.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17710-17715
+  quote_or_summary: The compact genealogy names Anjana, Kaccana, Sihahanu, Yasodhara,
+    Anjana, Suddhodana married to Maya, and Bodhisatta.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 17717-17720
+  quote_or_summary: The Mahavastu is said to name Subhuti as Maya's father; Subhuti
+    is described as married to a Koliya princess and living in Devadaha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 17720-17722
+  quote_or_summary: The note identifies this Subhuti with Anjana of the Mahv and Suprabuddha
+    of the Dulva.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 17722-17724
+  quote_or_summary: Mahavamsa 2.18-19 is said to make Suppabuddha son of Anjana and
+    brother of Maya; the note suggests Suprabuddha may have been a surname borne by
+    father and son.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: note
+  locator: passage label
+  quote_or_summary: The supplied locator places the extract in 'APPENDIX A / THE DYNASTY
+    OF MAHASAMMATA'.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Metadata supplied with request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is limited by compressed chart formatting and probable
+    loss of column spacing. The comparison claims are directly based on the passage's
+    textual note but should be reviewed against the source editions cited there.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No listed symbol taxonomy items are materially present in this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l17708-l17731
+  passage_sha256=7723b425d4641cd3f35b5fc53e0fd4d57de141da23454b1568cc73f1531e0919
+

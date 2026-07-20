@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l2757-l2781
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: MEDICINAL   PLANTS. / TROUSERS. / SOCKS. / BOOTS.; lines 2757-2781
+  start: '2757'
+  end: '2781'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Labrador Inuit reindeer socks and boots. Reindeer
+    socks are worn inside winter boots. Labrador boots are generally knee-length,
+    with minor differences between men's and women's boots. A white pair of women's
+    boots is described as formerly reserved for feasts and festivals and later worn
+    to communion services. Materials include sealskin and, in northern Labrador, reindeer.
+    The passage compares Labrador footwear forms and ornamentation with Alaskan, Central
+    Eskimo, and Greenland examples.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Reindeer socks are worn in winter inside boots with the hair turned inward.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The reindeer socks are ankle-high and described as similar to those used by
+    the Alaskan Eskimo.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Women's boots in Labrador are described as having slight fullness at the top
+    and more ornamentation, but otherwise no particular difference from men's boots
+    is noted.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One pair of women's boots from the east coast of Labrador was tanned entirely
+    white.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The white women's boots were formerly reserved for dress occasions at feasts
+    and festivals and are now worn to communion services.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Both men's and women's Labrador boots are knee-length.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Hip-boots and ankle-boots used in Alaska are said not to be found in Labrador.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Dressed sealskin is the common material for summer boots, while hair-on sealskin
+    is used for winter boots.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Reindeer boots occur in northern Labrador and are described as similar in
+    type to those of the Central Eskimo.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Labrador boots are described as quite plain and lacking the ornate fur-applique
+    tops seen in Alaska and the leather-applique work seen on Greenland specimens.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Labrador men
+  description: Men in Labrador are associated with knee-length boots; the passage
+    notes little particular difference between men's and women's boots.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Labrador women
+  description: Women in Labrador are associated with boots that may have slight fullness
+    at the top and more ornamentation; one pair of women's boots is described as white
+    and used for dress or religious occasions.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Alaskan Eskimo
+  description: The passage compares Labrador reindeer socks and boot types or decoration
+    with Alaskan Eskimo examples.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Central Eskimo
+  description: The passage compares northern Labrador reindeer boots with those of
+    the Central Eskimo.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: footwear wearers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes men's and women's boots in Labrador, including their
+    length and differences.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: wearers of dress or communion boots
+  assigned_to:
+  - fig:2
+  basis: A pair of white women's boots is described as formerly reserved for feasts
+    and festivals and later worn to communion services.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: comparative footwear tradition
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage explicitly compares Labrador socks or boots with Alaskan Eskimo
+    and Central Eskimo examples.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: reindeer socks
+  literal_form: Ankle-high reindeer socks with the hair turned inward, worn inside
+    winter boots.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: white women's boots
+  literal_form: Women's boots from the east coast of Labrador, tanned entirely white
+    and used for dress occasions or communion services.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: knee-length Labrador boots
+  literal_form: Men's and women's boots in Labrador, described as knee-length and
+    generally plain.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: sealskin boot material
+  literal_form: Dressed sealskin for summer boots and hair-on sealskin for winter
+    boots.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: reindeer boots
+  literal_form: Reindeer boots found in northern Labrador, similar in type to Central
+    Eskimo boots.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Winter sock use
+  summary: The passage describes reindeer socks worn inside winter boots, with the
+    hair turned inward, and notes similarity to Alaskan Eskimo socks.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Labrador boot description
+  summary: The passage describes Labrador boots by gender, length, material, and plainness,
+    and contrasts them with Alaskan and Greenland forms or ornamentation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: White women's boots for formal occasions
+  summary: A white pair of women's boots from eastern Labrador is described as formerly
+    used at feasts and festivals and later worn to communion services.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Northern Labrador reindeer boots
+  summary: The passage states that reindeer boots are found in northern Labrador and
+    are similar in type to Central Eskimo boots.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: white footwear reserved for formal or ritual occasions
+  taxonomy_refs: []
+  basis: The passage says an entirely white pair of women's boots was formerly reserved
+    for dress occasions at feasts and festivals and is now worn to communion services.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a material-culture and ritual-use pattern in an ethnographic passage,
+    not a mythological motif. No available taxonomy family directly applies.
+- id: motif:2
+  label: animal-skin winter footwear
+  taxonomy_refs: []
+  basis: The passage describes reindeer socks worn inside winter boots and hair-on
+    sealskin as common material for winter boots.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: This is a practical clothing pattern rather than a narrative or symbolic
+    motif. No mythological taxonomy reference is supported.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that Labrador reindeer socks are similar to those used
+    by the Alaskan Eskimo.
+  claim_level: visual_similarity
+  target: Alaskan Eskimo reindeer socks
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a brief typological comparison and does not
+    specify detailed construction beyond the Labrador description.
+- id: claim:2
+  claim: The passage contrasts Labrador knee-length boots with Alaskan hip-boots and
+    ankle-boots, which it says are not found in Labrador.
+  claim_level: visual_similarity
+  target: Alaskan hip-boots and ankle-boots
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns footwear form only and does not imply shared mythology
+    or historical contact.
+- id: claim:3
+  claim: The passage states that northern Labrador reindeer boots are similar in type
+    to those of the Central Eskimo.
+  claim_level: visual_similarity
+  target: Central Eskimo reindeer boots
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not describe the Central Eskimo boots in detail, so
+    the basis of similarity remains unspecified.
+- id: claim:4
+  claim: The passage visually contrasts plain Labrador boots with ornate fur-applique
+    tops in Alaska and leather-applique work on Greenland specimens.
+  claim_level: visual_similarity
+  target: Alaskan and Greenland decorated boot specimens
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to ornamentation and specimen appearance.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2757-2761
+  quote_or_summary: "“Reindeer socks, with the hair turned in, are worn in winter
+    inside the boots”; they are ankle-high and similar to Alaskan Eskimo socks."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 2763-2768
+  quote_or_summary: The passage says women's boots have slight fullness at the top
+    and more ornamentation, but otherwise no particular difference from men's boots
+    in Labrador is apparent.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 2768-2772
+  quote_or_summary: A pair of east-coast Labrador women's boots was entirely white;
+    formerly it was reserved for dress occasions at feasts and festivals, and later
+    worn to communion services.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 2772-2775
+  quote_or_summary: Both men's and women's boots are knee-length; the hip-boot and
+    ankle-boot used in Alaska are not found in Labrador.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 2775-2779
+  quote_or_summary: Dressed sealskin is common for summer boots, hair-on sealskin
+    for winter boots; reindeer boots are found in northern Labrador and are similar
+    to Central Eskimo boots.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 2779-2781
+  quote_or_summary: Labrador boots are described as plain, lacking the ornate fur-applique
+    tops found in Alaska and leather-applique work seen on Greenland specimens.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a straightforward ethnographic description of footwear. Motif
+    candidates are limited because the passage is not mythological; comparison claims
+    are explicit typological comparisons made by the source.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available mythological motif-family taxonomy reference is directly supported by this passage. Available symbol taxonomy entries such as cave, fire, milk, mountain, serpent, tree, and water are not present.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l2757-l2781
+  passage_sha256=e348908ca1c435205dc148c22436fc2af2e5ec832ca808c1813b1b753f2c55f1
+

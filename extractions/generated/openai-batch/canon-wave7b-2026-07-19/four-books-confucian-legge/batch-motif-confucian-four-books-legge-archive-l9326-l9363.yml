@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l9326-l9363
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: 'CHAPTER XXIV. 1. Tsze-lu got Tsze-kao appointed / AND CONFUCIUS''S REMARKS
+    ABOUT / BOOK XII. YEN YUAN / REALIZED: A CONVERSATION WITH; lines 9326-9363'
+  start: '9326'
+  end: '9363'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The man of perfect virtue is cautious and slow in his speech.
+  summary: The passage includes commentary on reverence and reciprocity, Chung-kung's
+    resolve to practice a lesson, and a dialogue in which Sze-ma Niu asks about perfect
+    virtue. The Master replies that the person of perfect virtue is cautious and slow
+    in speech, linking this caution to the difficulty of doing.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The commentary states that reverence and reciprocity, on the largest scale,
+    constitute perfect virtue.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The commentary compares this teaching with an apostolic precept, while noting
+    a difference in comprehensiveness.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Chung-kung says he is deficient in intelligence and vigor and will make it
+    his business to practice the lesson.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sze-ma Niu asks about perfect virtue.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Master says the person of perfect virtue is cautious and slow in speech.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Sze-ma Niu questions whether caution and slowness in speech constitute perfect
+    virtue.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Master links caution and slowness in speaking with feeling the difficulty
+    of doing.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Chung-kung
+  description: A speaker who says he is deficient in intelligence and vigor and resolves
+    to practice the lesson.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Sze-ma Niu
+  description: A questioner who asks about perfect virtue and repeats the Master's
+    phrase in a follow-up question.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: The Master
+  description: The respondent who defines the person of perfect virtue as cautious
+    and slow in speech and explains this by the difficulty of doing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: The man of perfect virtue
+  description: A generic figure described as cautious and slow in speech.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Practitioner of a lesson
+  assigned_to:
+  - fig:1
+  basis: Chung-kung says he will make it his business to practice the lesson.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Questioner about perfect virtue
+  assigned_to:
+  - fig:2
+  basis: Sze-ma Niu asks about perfect virtue and questions the Master's answer.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: Teacher and respondent
+  assigned_to:
+  - fig:3
+  basis: The Master answers the question about perfect virtue and explains his answer.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: Ethical exemplar
+  assigned_to:
+  - fig:4
+  basis: The phrase names the person whose conduct expresses perfect virtue.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Chung-kung resolves to practice
+  summary: Chung-kung acknowledges personal deficiencies and states his intention
+    to practice the lesson.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Sze-ma Niu asks about perfect virtue
+  summary: Sze-ma Niu asks about perfect virtue; the Master answers with caution and
+    slowness in speech and relates this to the difficulty of doing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wisdom expressed through disciplined speech
+  taxonomy_refs:
+  - wisdom
+  basis: The Master identifies the person of perfect virtue with caution and slowness
+    in speech and explains the restraint by reference to the difficulty of action.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an ethical teaching rather than a narrative mythic motif.
+- id: motif:2
+  label: Practice of teaching despite acknowledged inadequacy
+  taxonomy_refs:
+  - wisdom
+  basis: Chung-kung acknowledges deficiencies in intelligence and vigor but resolves
+    to practice the lesson.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The surrounding lesson is partly supplied by commentary and a prior chapter
+    context not fully present in the passage.
+- id: motif:3
+  label: Perfect virtue as reverence and reciprocity
+  taxonomy_refs:
+  - wisdom
+  basis: The commentary states that reverence and reciprocity on the largest scale
+    constitute perfect virtue.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This formulation comes from the translator/commentary in the supplied
+    passage, not from the quoted dialogue alone.
+comparison_claims:
+- id: claim:1
+  claim: The commentary says the teaching may be compared with the apostolic precept
+    to honor all people, while noting that the apostolic wording is more comprehensive.
+  claim_level: same_function
+  target: 'Apostolic precept: "Honor all men"'
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:1
+  confidence: medium
+  limitations: The comparison is made by the commentary in the supplied edition, not
+    by the Analects dialogue itself; the commentary also states a difference in scope.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9326-9344
+  quote_or_summary: Commentary says reverence and reciprocity on the largest scale
+    constitute perfect virtue and compares this with the apostolic precept "Honor
+    all men," with a note on scope.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt and summary used.
+- id: ev:2
+  type: quote
+  locator: lines 9345-9348
+  quote_or_summary: Chung-kung said, "Though I am deficient in intelligence and vigor,
+    I will make it my business to practice this lesson."
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 9349-9351
+  quote_or_summary: '"Sze-ma Niu asked about perfect virtue."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 9352-9354
+  quote_or_summary: The Master said, "The man of perfect virtue is cautious and slow
+    in his speech."
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 9355-9360
+  quote_or_summary: Niu asks if cautious and slow speech is perfect virtue; the Master
+    replies, "When a man feels the difficulty of doing, can he be other than cautious
+    and slow in speaking?"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main dialogue is clear, but the supplied passage includes OCR-fragmented
+    commentary and partial surrounding context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No concrete taxonomy-listed symbols are present in the supplied passage; symbolic extraction is therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l9326-l9363
+  passage_sha256=852c912c0d9e486d6bae0e65253858093cf1b6fa52bb98a8682e049c25391a13
+

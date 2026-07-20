@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l2260-l2302
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  35 / D   2 / THE   BAGANDA /
+    CHAP.; lines 2260-2302
+  start: '2260'
+  end: '2302'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Baganda reed fifes, their construction and decoration,
+    the fife-players attached to the King and chiefs, long-distance playing with drums,
+    techniques combining fife music and sung stanzas, occasional duets, use in Basoga
+    bands, and the author's comparison of the tunes to Gregorian chant.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fifes are described as made from a reed growing in swamps and rivers, with
+    six finger holes and a notched mouthpiece.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King and chiefs had special fife-players, some of whom accompanied them
+    and remained in their service for many years.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fife-players' instruments were decorated and ornamented at the end with
+    a tuft of goat's hair, which was flourished during performance.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some fife-players could travel fifteen or twenty miles while playing continuously
+    and keeping time to drums.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some older players alternated fife playing with sung stanzas, producing the
+    effect of two musicians, one playing and one singing.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Two performers sometimes played duets, but the fife was usually played alone
+    except when used in one of the Basoga bands mentioned by the author.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The fife tunes are described as being in a minor mode and as not unlike Gregorian
+    chants.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Baganda fife-players
+  description: Specialist musicians who played reed fifes, accompanied the King and
+    chiefs, traveled while playing, and sometimes combined playing with singing.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: King and chiefs
+  description: Royal and chiefly figures who had special fife-players attached to
+    them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: specialist fife-playing attendants
+  assigned_to:
+  - fig:1
+  basis: The passage says the King and chiefs had special fife-players, some of whom
+    accompanied them and remained long in service.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: royal and chiefly patrons of fife-players
+  assigned_to:
+  - fig:2
+  basis: The King and chiefs are described as having special fife-players.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: musical performers combining fife, rhythm, duet, and song
+  assigned_to:
+  - fig:1
+  basis: The players are described as playing while traveling, keeping time to drums,
+    adding sung stanzas, and sometimes performing duets.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: reed fife
+  literal_form: A reed wind instrument with six finger holes and a notched mouthpiece.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: goat-hair tuft ornament
+  literal_form: A tuft of goat's hair attached to the end of decorated fifes and flourished
+    as the players performed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: drums
+  literal_form: Drums used as a rhythmic reference while fife-players kept time during
+    travel.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: swamp and river reed
+  literal_form: The reed from which the fifes were made, described as growing freely
+    in swamps and rivers.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Construction and form of the fife
+  summary: The fife is described as a reed instrument from swamp and river reeds,
+    with six holes and a notched mouthpiece.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Royal and chiefly fife service
+  summary: Special fife-players serve the King and chiefs; their decorated instruments
+    have goat-hair tufts flourished during playing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Long-distance fife performance with drums
+  summary: Fife-players are said to travel fifteen or twenty miles while playing and
+    keeping time to drums.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Vocal and ensemble fife techniques
+  summary: Older players alternate playing with sung stanzas, duets sometimes occur,
+    and the fife is usually solo except in Basoga bands.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Royal or chiefly musical retinue
+  taxonomy_refs: []
+  basis: The King and chiefs have special fife-players, some of whom accompany them
+    and remain long in their service.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents an ethnographic court-performance pattern, not an
+    explicit mythological or ritual motif.
+- id: motif:2
+  label: Traveling performance with wind instrument and drums
+  taxonomy_refs: []
+  basis: Fife-players are described as traveling long distances while playing continuously
+    and keeping time to drums.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not specify a ritual, mythic, or ceremonial context for
+    the travel performance.
+- id: motif:3
+  label: Instrumental music alternating with sung text
+  taxonomy_refs: []
+  basis: Older players could play a few bars and then sing stanzas, creating the impression
+    of one musician playing and another singing.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a performance technique rather than a symbolic motif unless corroborated
+    elsewhere.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2260-2268
+  quote_or_summary: '"Fifes were made from a reed which grows freely in the swamps
+    and rivers" and had six holes and a notched mouthpiece.'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:2
+  type: summary
+  locator: lines 2268-2278
+  quote_or_summary: The King and chiefs had special fife-players; some accompanied
+    them for many years, and their decorated fifes had goat-hair tufts flourished
+    during playing.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summary.
+- id: ev:3
+  type: quote
+  locator: lines 2279-2283
+  quote_or_summary: The men could travel "fifteen or twenty miles" while playing and
+    keeping time to drums.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:4
+  type: summary
+  locator: lines 2283-2291
+  quote_or_summary: Older players could insert song words into their music by playing
+    bars and then singing stanzas, making it sound like separate playing and singing
+    musicians.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summary.
+- id: ev:5
+  type: summary
+  locator: lines 2291-2297
+  quote_or_summary: Two performers sometimes played duets, though the fife was usually
+    played alone except when introduced into Basoga bands.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summary.
+- id: ev:6
+  type: summary
+  locator: lines 2297-2302
+  quote_or_summary: The author says the fife tunes were in a minor mode and were not
+    unlike Gregorian chants.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Candidate motifs are framed
+    as ethnographic performance patterns; no taxonomy references or broader comparative
+    claims are assigned because the passage does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No explicit mythological narrative appears in the passage; extracted motifs concern musical service, instruments, and performance patterns only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l2260-l2302
+  passage_sha256=e0f093fa1d9ac98ef23b32a8d8ce93010230aa4ea6d2f5d0409f5adefc0af963
+

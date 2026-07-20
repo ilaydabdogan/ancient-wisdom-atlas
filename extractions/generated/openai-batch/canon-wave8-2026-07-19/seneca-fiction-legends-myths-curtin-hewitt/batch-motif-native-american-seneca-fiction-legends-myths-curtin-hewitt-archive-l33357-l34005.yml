@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.native-american-seneca-fiction-legends-myths-curtin-hewitt-archive-l33357-l34005
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: BIWITTJ / BIWITTJ / CURTIN,! / SENECA FICTION, LEGENDS, AND MYTHS; lines
+    33357-34005
+  start: '33357'
+  end: '34005'
+  translation: Seneca Fiction, Legends, and Myths
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A great child returns toward an old lodge, hears a loud sound associated
+    with a broken root where his uncle had been lying, and later finds that his maternal
+    uncle is gone. Grieving, the child searches around the lodge for tracks, sees
+    the uncle's deep trail running toward the sunset, takes his bow and arrows, and
+    follows the trail through the forest for three nights. The trail ends at a lake.
+    While standing by the lake, the child sees a swift canoe far away, paddling toward
+    him, with a human being aboard; the canoe stops near him.
+  language: Seneca with English interlinear glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The great child hears a loud sound described as a root breaking near the place
+    where his uncle had been lying supine.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The great child arrives back at the lodge and finds that his maternal uncle
+    is no longer there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The great child grieves and weeps because his uncle is absent.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The great child comes out of the lodge and carefully looks around for traces
+    of where his uncle went.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The great child sees tracks showing that his uncle ran toward the sunset.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The great child says he will go where his uncle has gone and track him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The great child takes his bow and arrows, departs, and follows his uncle's
+    trail.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: After three nights of running through the forest, the great child reaches
+    a lake where the uncle's trail ends.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: At the lake, the great child sees a swift canoe far away paddling toward him,
+    with a human being aboard, and the canoe stops nearby.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: great child
+  description: A figure repeatedly glossed as the great child; he searches for and
+    follows his maternal uncle.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: maternal uncle
+  description: The great child's uncle or mother's brother; he is absent from the
+    lodge and his tracks are followed toward the sunset and to a lake.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: human being in the canoe
+  description: A human being seen aboard a swift canoe coming toward the great child
+    at the lake.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: searcher
+  assigned_to:
+  - fig:1
+  basis: The great child looks around carefully for his uncle's tracks and follows
+    them.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:2
+  label: kinsman of missing uncle
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the absent figure as the great child's uncle or mother's
+    brother.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: missing kinsman
+  assigned_to:
+  - fig:2
+  basis: The uncle is no longer at the lodge; his tracks are followed by the great
+    child.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: role:4
+  label: canoe occupant
+  assigned_to:
+  - fig:3
+  basis: A human being is seen aboard the canoe that approaches and stops near the
+    lake shore.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: broken root sound
+  literal_form: root breaking with a loud sound
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: old lodge
+  literal_form: lodge
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: tracks toward sunset
+  literal_form: deep tracks running toward the sunset
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: bow and arrows
+  literal_form: bow and arrow-end or arrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: forest journey
+  literal_form: forest traversed for three nights
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: lake
+  literal_form: lake where the trail ends
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: swift canoe
+  literal_form: canoe paddling swiftly toward the shore
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Return to lodge and uncle's absence
+  summary: The great child returns to the lodge area, hears the loud sound of a root
+    breaking near where his uncle had been lying, and later finds that the uncle is
+    absent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Grief and search for tracks
+  summary: The great child grieves and weeps, then comes out of the lodge and carefully
+    searches for signs of where his uncle has gone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Decision to follow the uncle
+  summary: The great child says he will go where his uncle has gone, takes his bow
+    and arrows, and departs to track him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Forest trail to the lake
+  summary: The great child follows the uncle's trail through the forest for three
+    nights until it ends at a lake.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Canoe approaches at the lake
+  summary: While the great child stands beside the lake, a swift canoe approaches
+    from far away with a human being aboard and stops near him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: quest to find a missing kinsman
+  taxonomy_refs:
+  - mystical_quest
+  basis: The great child discovers his uncle missing, searches for tracks, declares
+    that he will go where the uncle has gone, and follows the trail through the forest
+    to a lake.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage presents a pursuit or search, but does not yet explain the
+    uncle's condition or the ultimate purpose of the journey.
+- id: motif:2
+  label: departure following tracks into wilderness
+  taxonomy_refs:
+  - departure
+  basis: The great child takes bow and arrows, departs from the lodge, and follows
+    the uncle's trail through the forest for three nights.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a literal departure scene; broader initiatory or heroic interpretation
+    is not established within the passage.
+- id: motif:3
+  label: arrival at water boundary with approaching canoe
+  taxonomy_refs: []
+  basis: The tracked trail ends at a lake, where a canoe with a human being aboard
+    approaches and stops near the child.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage does not state that the lake or canoe is supernatural or an
+    afterlife crossing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 33357-34005, early segment
+  quote_or_summary: The great child hears a loud noise described in the interlinear
+    gloss as a root breaking; this is associated with the place where his uncle lay
+    supine.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 33357-34005, early-middle segment
+  quote_or_summary: The great child reaches the lodge again and the uncle or mother's
+    brother is no longer there.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 33357-34005, middle segment
+  quote_or_summary: The great child is grieved by the uncle's absence, weeps, and
+    later stops weeping near the lodge.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 33357-34005, middle segment
+  quote_or_summary: The great child comes forth from the lodge and looks carefully
+    around, thinking perhaps his uncle's tracks will appear.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 33357-34005, middle segment
+  quote_or_summary: The great child sees where the uncle ran; the tracks are described
+    as deep and leading toward the sunset.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: quote
+  locator: 33357-34005, middle segment
+  quote_or_summary: The child says, in glossed speech, that he will go where his uncle
+    has gone and will track him.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; short summarized speech excerpt.
+- id: ev:7
+  type: summary
+  locator: 33357-34005, middle-late segment
+  quote_or_summary: The great child gets his bow and arrows, departs, runs, and begins
+    tracking the uncle.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: 33357-34005, late segment
+  quote_or_summary: After running through the forest for three nights, the great child
+    reaches a lake where the uncle's trail ends; he stops and stands beside the lake.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: 33357-34005, final segment
+  quote_or_summary: At the lake the child sees a swift canoe far away paddling toward
+    him; a human being is aboard, and the canoe stops nearby.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is OCR-damaged and interlinear, but the sequence of the missing
+    uncle, tracking, forest journey, lake, and canoe is sufficiently clear. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy references are limited to supplied motif and symbol lists.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-seneca-fiction-legends-myths-curtin-hewitt-archive__l33357-l34005
+  passage_sha256=3a4d36faf734a2d214b6491cbdabe07ce92187facff1a7ef9563236527dc7c2b
+

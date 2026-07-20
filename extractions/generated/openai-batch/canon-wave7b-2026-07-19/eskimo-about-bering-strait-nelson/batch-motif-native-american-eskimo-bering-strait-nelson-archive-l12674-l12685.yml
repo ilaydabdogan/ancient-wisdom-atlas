@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l12674-l12685
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: FISH   SPEARS / ARTS  AND  MANUFACTURES / DRAWING / WRITTEN   RECORDS; lines
+    12674-12685
+  start: '12674'
+  end: '12685'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Eskimo record-keeping through an example of an unnamed
+    Malemut who independently kept a pictorial trading record and route map during
+    a winter trip from St Michael to Kotzebue Sound.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Eskimo have an idea of keeping records or tallies
+    of events.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Malemut kept a trading record during a winter trading trip from St Michael
+    to Kotzebue Sound.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The trading record was kept for the Malemut's own reference and not at another
+    person's suggestion.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The record was drawn on small fragments of brown paper.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Small, partly conventional outlines represented trading goods and were placed
+    beside representations of skins exchanged for them.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: On the same paper, the Malemut drew a route map of his journey and marked
+    villages where he had stopped.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eskimo, as named in the source
+  description: A collective group described as having an idea of keeping records or
+    tallies of events.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Unnamed Malemut record keeper
+  description: A Malemut who made a winter trading trip and kept a pictorial trading
+    record and route map.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: record or tally keeper
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage attributes record-keeping or tally-keeping to the Eskimo generally
+    and gives the Malemut's trading record as an example.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: winter trading traveler
+  assigned_to:
+  - fig:2
+  basis: The Malemut made a winter trading trip from St Michael to Kotzebue Sound.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: picture writer and route mapper
+  assigned_to:
+  - fig:2
+  basis: The Malemut drew picture-writing entries and a route map on paper.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: pictorial trading record
+  literal_form: Small fragments of brown paper bearing a record of trading goods and
+    skins.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: partly conventional outlines
+  literal_form: Small outline drawings used to represent trading goods and skins exchanged
+    for them.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: route map
+  literal_form: A map of the journey drawn on the same paper, with villages marked
+    as stopping places.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Independent keeping of a winter trading record
+  summary: During a winter trading trip from St Michael to Kotzebue Sound, the unnamed
+    Malemut kept a trading record for his own reference.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Picture writing of exchanges
+  summary: The trading record used small, partly conventional drawings to place trading
+    goods beside the skins for which they were exchanged.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Route map of stopping places
+  summary: The Malemut drew a route map on the same paper and marked villages where
+    he had stopped.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: autonomous pictorial record of trade and travel
+  taxonomy_refs: []
+  basis: The passage presents an independently made record combining picture-writing
+    tallies of exchange goods with a route map of a winter journey.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a material-culture and record-keeping pattern, not a mythic or
+    sacred motif in the passage; none of the provided taxonomy motif families is directly
+    supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12674-12676
+  quote_or_summary: The passage says the Eskimo have an idea of keeping records or
+    tallies of events.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 12676-12678
+  quote_or_summary: A trading record was kept by a Malemut during a winter trading
+    trip from St Michael to Kotzebue Sound.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 12679-12680
+  quote_or_summary: The record was kept for the Malemut's own reference and without
+    suggestion from another person.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 12680-12682
+  quote_or_summary: The record was drawn on small fragments of brown paper and described
+    as picture writing.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 12682-12684
+  quote_or_summary: Small, partly conventional outlines represented trading goods
+    and were drawn beside representations of the skins exchanged for them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 12684-12685
+  quote_or_summary: On the same paper, the Malemut drew a route map of his journey
+    and marked the villages where he had stopped.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif confidence is low because the
+    passage concerns record-keeping and picture writing rather than a mythic narrative
+    or a supported taxonomy motif. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy refs were assigned; the passage supports material-culture symbols and a documentary pattern only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l12674-l12685
+  passage_sha256=53673b27227911a88ca24a29a59093ed83765a56ab81dcf022b093e24dc8de41
+

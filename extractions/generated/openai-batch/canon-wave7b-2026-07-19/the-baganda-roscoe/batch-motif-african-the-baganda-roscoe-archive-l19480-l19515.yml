@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l19480-l19515
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: XI  INDUSTRIES  383 / THE    BAGANDA / CHAP. / INDUSTRIES; lines 19480-19515
+  start: '19480'
+  end: '19515'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Baganda canoe-building and canoe use: canoes kept
+    for state service, skilled canoe repairers and specialists, mivule wood selected
+    for construction, and the use of dug-out and Uganda canoes on lakes, rivers, ferry
+    routes, and shallow fishing waters.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A number of canoes were maintained ready for state service, and failure to
+    keep them serviceable could incur punishment.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Many men on the lake shore and islands were skilled in canoe-building and
+    could repair canoes during journeys.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Special men in each district were responsible for the condition of large canoes
+    and made canoe-building their specialty.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The selected canoe-building trees were called mivule; the wood was mahogany-like,
+    hardened in water, and was softer before immersion.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'Two kinds of lake canoes are named: the common dug-out and the more constructed
+    Uganda canoe.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Dug-out canoes were used as ferry-boats across arms of the lake, by fishermen
+    in shallow water, and on some rivers.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: men on the lake shore and islands
+  description: People described as skilled in canoe-building and able to repair canoes
+    during journeys.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: district canoe specialists
+  description: Special men in each district responsible for the condition of large
+    canoes and specializing in canoe-building.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: fishermen
+  description: People who used dug-out canoes for fishing in shallow water in some
+    parts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: canoe-builders and repairers
+  assigned_to:
+  - fig:1
+  basis: The passage states that lake-shore and island men were skilled in canoe-building
+    and could repair damaged or leaking canoes on journeys.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: large-canoe custodians and specialist builders
+  assigned_to:
+  - fig:2
+  basis: The passage identifies special district men responsible for large canoes
+    and for whom canoe-building was a specialty.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dug-out canoe users for fishing
+  assigned_to:
+  - fig:3
+  basis: The passage states that fishermen used dug-outs for fishing in shallow water
+    in some places.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: State-service canoes, large canoes, dug-out canoes, and Uganda canoes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: mivule tree wood
+  literal_form: Trees called mivule, whose wood hardens in water and is soft before
+    being placed in water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: lake and river water routes
+  literal_form: Lake shore, islands, arms of the lake, shallow water, and rivers where
+    canoes were built, repaired, and used.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Canoe maintenance and specialist construction
+  summary: Canoes are maintained for state service; skilled lake-shore and island
+    men repair them, and district specialists oversee large canoes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Dug-out canoe use on lake and river waters
+  summary: Dug-out canoes are used for ferrying across lake arms, for shallow-water
+    fishing, and on some rivers.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: canoe as state-service vessel
+  taxonomy_refs: []
+  basis: The passage describes canoes maintained ready for state service, with punishment
+    if they were not serviceable.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic industry description, not a mythic narrative;
+    the motif is practical and administrative rather than sacred.
+- id: motif:2
+  label: specialized canoe-building craft
+  taxonomy_refs: []
+  basis: The passage describes skilled canoe-builders, journey repairs, district specialists,
+    and a named wood selected for canoe construction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a craft pattern but does not attach ritual, mythic,
+    or symbolic interpretation to it.
+- id: motif:3
+  label: dug-out canoe for crossing and fishing
+  taxonomy_refs: []
+  basis: The passage describes dug-outs used as ferry-boats across lake arms, by fishermen
+    in shallow water, and on rivers.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents ordinary transport and fishing use; no explicit mythological
+    crossing, afterlife journey, or salvific vessel pattern is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19480-19484
+  quote_or_summary: Canoes were kept ready for state service, and failure to keep
+    them serviceable could be punished.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 19484-19493
+  quote_or_summary: Men on the lake shore and islands were skilled canoe-builders
+    and repairers; special district men were responsible for large canoes and specialized
+    in canoe-building.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 19493-19501
+  quote_or_summary: Mivule trees were commonly selected for canoe wood; the wood resembled
+    mahogany, hardened in water, and was soft and easy to cut before immersion.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 19501-19515
+  quote_or_summary: The passage names dug-out and Uganda canoes; dug-outs served as
+    ferry-boats across lake arms and were used for shallow-water fishing and on some
+    rivers.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is well supported by the passage. Motif candidates are
+    low-to-medium interpretive value because the passage is practical ethnography
+    rather than mythic narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological comparison or taxonomy motif assignment was inferred from this industry-focused passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l19480-l19515
+  passage_sha256=02cdfd638c0dbde8fb6ffa508da0f963d36b78cfdf623c713c739885ea569314
+

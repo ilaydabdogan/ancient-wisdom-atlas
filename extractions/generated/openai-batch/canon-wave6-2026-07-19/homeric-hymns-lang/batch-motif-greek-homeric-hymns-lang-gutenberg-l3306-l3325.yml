@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.greek-homeric-hymns-lang-gutenberg-l3306-l3325
+source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+passage_locator:
+  label: II.  HERMES / III.  APHRODITE / IV.  HYMN TO DEMETER / V.  TO APHRODITE;
+    lines 3306-3325
+  start: '3306'
+  end: '3325'
+  translation: The Homeric Hymns
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn praises Aphrodite as golden-crowned and beautiful, links her with
+    the mountain crests of sea-girt Cyprus, describes the west wind carrying her through
+    sea foam, and recounts how the Hours welcome and adorn her before leading her
+    to the Immortals, who desire her as a wife. The passage closes with a prayer for
+    victory in a contest and grace for the song.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker announces a song of revered, golden-crowned, beautiful Aphrodite.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Aphrodite is said to have the mountain crests of sea-girt Cyprus as her portion.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The strength of the west wind carries Aphrodite amid soft foam over the resounding
+    sea.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The golden-snooded Hours welcome Aphrodite, clothe her in immortal raiment,
+    place a golden crown on her head, and adorn her with earrings and chains.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Hours are described as wearing similar gold chains when they come to the
+    gods' dance in the dwelling of the Father.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After adorning Aphrodite, the Hours lead her to the Immortals, who greet and
+    welcome her with their hands.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Each god wishes to lead Aphrodite home as his wedded wife because of her beauty.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The speaker hails Aphrodite and asks her to grant contest victory and grace
+    to the song.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Aphrodite
+  description: Revered, golden-crowned, beautiful goddess, also addressed as the fair-garlanded
+    Cytherean and sweet winsome goddess.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: west wind
+  description: The wind whose strength carries Aphrodite amid foam over the sea.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: golden-snooded Hours
+  description: Divine attendants who welcome, clothe, adorn, and lead Aphrodite to
+    the Immortals.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Immortals / Gods
+  description: The divine assembly that greets Aphrodite and whose members desire
+    her as a wedded wife.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: hymn speaker
+  description: The first-person singer who praises Aphrodite and petitions her for
+    victory and poetic grace.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: hymned goddess and addressee
+  assigned_to:
+  - fig:1
+  basis: Aphrodite is the goddess sung at the opening and hailed in the closing petition.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: sea-borne divine figure
+  assigned_to:
+  - fig:1
+  basis: Aphrodite is carried by the west wind amid foam over the sea.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine conveyor
+  assigned_to:
+  - fig:2
+  basis: The west wind's strength carries Aphrodite through foam over the sea.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: welcoming adorners and presenters
+  assigned_to:
+  - fig:3
+  basis: The Hours welcome Aphrodite, dress and adorn her, and lead her to the Immortals.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: divine assembly and suitors
+  assigned_to:
+  - fig:4
+  basis: The Immortals greet Aphrodite, and each god wishes to take her home as wife.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: singer-supplicant
+  assigned_to:
+  - fig:5
+  basis: The speaker sings of Aphrodite and asks for victory and grace in song.
+  evidence_refs:
+  - ev:1
+  - ev:6
+symbols:
+- id: sym:1
+  label: sea-girt Cyprus mountain crests
+  literal_form: the mountain crests of sea-girt Cyprus
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: soft foam and resounding sea
+  literal_form: soft foam over the wave of the resounding sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: immortal raiment and golden crown
+  literal_form: immortal raiment and a well-wrought fair golden crown
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: gold ornaments
+  literal_form: earrings of orichalcum and precious gold, and chains of gold
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Opening praise and Cyprus domain
+  summary: The speaker announces a hymn to Aphrodite and identifies Cyprus's sea-girt
+    mountain crests as her portion.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wind-borne sea passage
+  summary: The west wind carries Aphrodite amid soft foam over the sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Welcome and adornment by the Hours
+  summary: The Hours welcome Aphrodite, dress her in immortal raiment, crown her,
+    and place gold ornaments on her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Presentation to the Immortals
+  summary: The adorned Aphrodite is led to the Immortals, who greet her and wish to
+    take her as a wedded wife.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Closing invocation
+  summary: The speaker hails Aphrodite and asks for contest victory and grace for
+    the song.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sea-foam arrival of a goddess
+  taxonomy_refs: []
+  basis: Aphrodite is carried by the west wind amid soft foam over the sea toward
+    Cyprus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes sea-foam transport or arrival; it does not explicitly
+    narrate a birth.
+- id: motif:2
+  label: divine adornment before presentation to a divine assembly
+  taxonomy_refs: []
+  basis: The Hours welcome, clothe, crown, and ornament Aphrodite before leading her
+    to the Immortals.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level pattern; no external taxonomy ref is assigned.
+- id: motif:3
+  label: goddess desired as divine bride
+  taxonomy_refs:
+  - divine_beloved
+  basis: Each god wishes to lead Aphrodite home as his wedded wife because of her
+    beauty.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage states desire for marriage but does not narrate an actual
+    wedding.
+- id: motif:4
+  label: hymnic petition for contest victory and poetic grace
+  taxonomy_refs: []
+  basis: The speaker asks Aphrodite to grant victory in a contest and grace to the
+    song.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a hymnic closing pattern rather than a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3306-3308
+  quote_or_summary: The passage opens with the speaker singing of revered, golden-crowned,
+    beautiful Aphrodite, whose portion is the mountain crests of sea-girt Cyprus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 3308-3310
+  quote_or_summary: The strength of the west wind carries Aphrodite amid soft foam
+    over the resounding sea.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 3310-3315
+  quote_or_summary: The golden-snooded Hours welcome Aphrodite, clothe her in immortal
+    raiment, set a golden crown on her head, and adorn her with earrings and gold
+    chains.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 3315-3317
+  quote_or_summary: The passage notes that the Hours themselves wear gold chains when
+    they come to the glad dance of the gods in the dwelling of the Father.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 3317-3321
+  quote_or_summary: After Aphrodite is adorned, the Hours lead her to the Immortals,
+    who greet and welcome her; each god wishes to take her home as his wedded wife
+    because of her beauty.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 3321-3325
+  quote_or_summary: The speaker hails Aphrodite and asks her to grant victory in a
+    contest and lend grace to the song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are limited
+    to passage-level patterns; no comparison claims are made because the passage itself
+    does not present explicit cross-textual comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external traditions, figures, or unstated identifications were added; the ambiguous phrase 'the Father' was retained only in evidence summary and not expanded into a named figure.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-homeric-hymns-lang-gutenberg__l3306-l3325
+  passage_sha256=ed8d1758e1aca5543bcd744785581201334a82521215905e5ee4a9b0e286a676
+

@@ -1,0 +1,551 @@
+---
+record_id: batch.motif.norse-heimskringla-laing-gutenberg-l7618-l7743
+source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+passage_locator:
+  label: SAGA OF KING HARALD GRAFELD AND OF EARL HAKON SON OF SIGURD. / PRELIMINARY
+    REMARKS / KING OLAF TRYGVASON'S SAGA. / PRELIMINARY REMARKS.; lines 7618-7743
+  start: '7618'
+  end: '7743'
+  translation: Heimskringla; Or, The Chronicle of the Kings of Norway
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: King Olaf threw his shield over his head, and sank beneath the waters.
+  summary: The passage narrates the final fighting around King Olaf Trygvason's ship,
+    the Serpent. Olaf and Kolbjorn leap overboard; Olaf sinks beneath the water, while
+    Kolbjorn is captured after being mistaken for the king. Reports then circulate
+    that Olaf may have escaped by diving to a Vindland cutter, though the prose states
+    that he never returned to Norway. Earl Eirik gains the Long Serpent and the victors
+    divide Norway.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Earl Eirik's men had filled and surrounded the Serpent, leaving few defenders,
+    and most of the Serpent's men fell.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: King Olaf and Kolbjorn each sprang overboard from opposite sides of the ship.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: King Olaf put his shield over his head and sank beneath the water when men
+    tried to seize him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Kolbjorn used his shield while leaping; it came under him, slowed his sinking,
+    and he was captured and brought before Earl Eirik.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Kolbjorn was initially supposed to be the king, but Earl Eirik recognized
+    him and spared his life.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: All remaining living men of King Olaf on the Serpent sprang overboard, with
+    Thorkel Nefia last.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A report spread that Olaf cast off his coat-of-mail underwater, swam or dived
+    beneath longships, reached the Vindland cutter, and was conveyed to Vindland by
+    Astrid's men.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: Halfred's cited verse says people told the story both ways, uncertain whether
+    Olaf lived or died.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:9
+  text: The prose states that Olaf Trygvason never came back to his kingdom of Norway.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:10
+  text: After the victory Earl Eirik became owner of the Long Serpent, took booty,
+    and steered the ship away from the battle.
+  category: action
+  evidence_refs:
+  - ev:12
+- id: obs:11
+  text: After the battle, Svein the Danish king, Olaf the Swedish king, and Earl Eirik
+    divided the kingdom of Norway among them.
+  category: action
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: King Olaf Trygvason
+  description: King aboard the Serpent who sprang overboard, sank beneath the waters,
+    became the subject of survival reports, and never returned to Norway.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:9
+  - ev:11
+- id: fig:2
+  name_or_label: Kolbjorn the marshal
+  description: Marshal clothed and armed like the king; he leaped overboard, was captured
+    after his shield slowed his sinking, was mistaken for the king, and was spared
+    by Earl Eirik.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Earl Eirik Hakonson
+  description: Earl whose men surrounded the Serpent; Kolbjorn was brought before
+    him, and after the victory he became owner of the Long Serpent.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:12
+- id: fig:4
+  name_or_label: Earl Sigvalde
+  description: Earl from Vindland whose ships rowed toward the battle after Olaf had
+    sprung overboard and the army had shouted victory.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Astrid's men
+  description: Men aboard the Vindland cutter who, according to the circulating report,
+    conveyed Olaf to Vindland.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Thorkel Nefia
+  description: King Olaf's brother, named as the last of the men who sprang overboard
+    from the Serpent.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Halfred Vandredaskald
+  description: Skald cited for verses about Olaf's leap, uncertainty over whether
+    he lived or died, and skepticism toward rumors of escape.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:10
+  - ev:11
+- id: fig:8
+  name_or_label: Svein the Danish king, Olaf the Swedish king, and Earl Eirik
+  description: Victors named as dividing the kingdom of Norway between them after
+    the battle.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: besieged king and disappeared combatant
+  assigned_to:
+  - fig:1
+  basis: Olaf is surrounded in the Serpent, leaps overboard, sinks beneath the waters,
+    and is later said never to have returned.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:11
+- id: role:2
+  label: royal lookalike or mistaken substitute
+  assigned_to:
+  - fig:2
+  basis: Kolbjorn wore clothes and arms like the king and was captured under the supposition
+    that he was the king.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: victorious captor and ship-taker
+  assigned_to:
+  - fig:3
+  basis: Kolbjorn was brought to Earl Eirik, and Eirik later became owner of the Long
+    Serpent and booty.
+  evidence_refs:
+  - ev:5
+  - ev:12
+- id: role:4
+  label: late-arriving allied earl
+  assigned_to:
+  - fig:4
+  basis: Sigvalde's ships rowed toward the battle only after Olaf had leaped overboard
+    and the victory shout had been raised.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: reported rescuers or conveyors
+  assigned_to:
+  - fig:5
+  basis: The report says Astrid's men conveyed Olaf to Vindland after he reached their
+    cutter.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: last remaining leaper
+  assigned_to:
+  - fig:6
+  basis: Thorkel Nefia is named as the last of Olaf's men to spring overboard.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: poetic reporter of death and rumor
+  assigned_to:
+  - fig:7
+  basis: Halfred's verses are cited for Olaf's leap, uncertainty about his fate, and
+    rejection of rumors.
+  evidence_refs:
+  - ev:7
+  - ev:10
+  - ev:11
+- id: role:8
+  label: post-battle territorial dividers
+  assigned_to:
+  - fig:8
+  basis: The named rulers divide Norway between them after the victory.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: Long Serpent ship
+  literal_form: Warship named the Serpent or Long Serpent
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:12
+- id: sym:2
+  label: sea waters
+  literal_form: Waters into which Olaf and Kolbjorn leap, and beneath which Olaf sinks
+    or is rumored to dive
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: sym:3
+  label: shield
+  literal_form: Shield used by Olaf over his head and by Kolbjorn for protection and
+    flotation-like delay
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: coat-of-mail cast off underwater
+  literal_form: Olaf's coat-of-mail, reportedly removed under water in the escape
+    story
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: Vindland cutter
+  literal_form: Cutter manned by Astrid's men, named in the report as Olaf's escape
+    vessel
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Serpent overrun in the sea battle
+  summary: The Serpent is surrounded by the earl's ships, boarded by many of his men,
+    and left with too few defenders; most of its men fall.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Leap overboard and divergent fates
+  summary: Olaf and Kolbjorn leap from opposite sides of the Serpent. Olaf sinks beneath
+    the water under his shield, while Kolbjorn is kept from sinking quickly by his
+    shield, captured, mistaken for Olaf, and spared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Remaining men leap from the Serpent
+  summary: The surviving men of Olaf who remain aboard the Serpent leap overboard,
+    with Thorkel Nefia named as the last.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Public report of Olaf's possible escape
+  summary: A report spreads that Olaf shed his mail underwater, dived beneath longships,
+    reached Astrid's Vindland cutter, and was carried to Vindland; Halfred's verses
+    register uncertainty and skepticism.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+- id: scene:5
+  label: Eirik takes the Long Serpent and Norway is divided
+  summary: After the victory Earl Eirik takes ownership of the Long Serpent and booty,
+    and the victorious rulers divide Norway between them.
+  figure_refs:
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: ambiguous royal sea-death or disappearance
+  taxonomy_refs: []
+  basis: Olaf leaps into the sea, sinks beneath the waters, and is poetically described
+    as going to a deep-sea death, while later reports debate whether he died or escaped.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage does not narrate a confirmed survival or return; it preserves
+    rumor and skepticism alongside the statement that Olaf never returned to Norway.
+- id: motif:2
+  label: survival rumor after hopeless battle
+  taxonomy_refs: []
+  basis: After Olaf's apparent sinking, a report circulates that he escaped by shedding
+    mail and diving to a Vindland cutter; Halfred's verse notes that people told the
+    tale both ways.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The report is explicitly uncertain and later rejected or doubted by the
+    prose and cited verse.
+- id: motif:3
+  label: mistaken royal double in battle
+  taxonomy_refs:
+  - duality
+  basis: Kolbjorn is dressed and armed like Olaf, is captured after leaping overboard,
+    and is brought to Earl Eirik because he is supposed to be the king.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The resemblance is practical clothing and arms, not an explicitly supernatural
+    double.
+- id: motif:4
+  label: last stand and collective leap from doomed ship
+  taxonomy_refs: []
+  basis: The Serpent is overwhelmed; Olaf, Kolbjorn, and then all remaining living
+    men leap overboard, with Thorkel Nefia last.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage frames the action as battle narrative rather than ritualized
+    self-sacrifice.
+- id: motif:5
+  label: victory marked by capture of royal ship and division of realm
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Earl Eirik becomes owner of the Long Serpent after victory, and the victors
+    subsequently divide Norway between them.
+  evidence_refs:
+  - ev:12
+  - ev:13
+  confidence: medium
+  cautions: The passage describes political consequences of battle; it does not explicitly
+    present a sacred or mythic legitimation rite.
+comparison_claims:
+- id: claim:1
+  claim: The reported escape and uncertainty over whether Olaf lives or dies support
+    a cautious comparison to a disappeared-ruler survival-rumor pattern.
+  claim_level: same_function
+  target: disappeared ruler survival rumor pattern
+  evidence_refs:
+  - ev:9
+  - ev:10
+  counter_evidence_refs:
+  - ev:11
+  confidence: medium
+  limitations: No external parallel is supplied in the passage, and the prose states
+    that Olaf never returned to Norway.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7618-7621
+  quote_or_summary: Kolbjorn the marshal wore clothes and arms like the king and went
+    up to the king on the quarter-deck while battle continued fiercely.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7621-7628
+  quote_or_summary: Earl Eirik's men had entered and surrounded the Serpent; few defenders
+    remained, and most of the Serpent's men fell.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7628-7632
+  quote_or_summary: King Olaf and Kolbjorn each sprang overboard from a side of the
+    ship; boats around the Serpent killed those who leaped overboard.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 7632-7635
+  quote_or_summary: King Olaf threw his shield over his head, and sank beneath the
+    waters.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 7635-7644
+  quote_or_summary: Kolbjorn held his shield behind him against spears; it came under
+    him so he could not sink quickly. He was captured, taken for the king, brought
+    before Earl Eirik, recognized, and spared.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7644-7648
+  quote_or_summary: All of King Olaf's surviving men on the Serpent sprang overboard;
+    Thorkel Nefia, the king's brother, was last.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 7648-7658
+  quote_or_summary: Halfred's verse says Olaf saw no chance with his sword, spoke
+    to his marshal, and sprang to his deep-sea death.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 7672-7689
+  quote_or_summary: After Olaf sprang overboard and the army shouted victory, Earl
+    Sigvalde and his men rowed toward the battle; Haldor's verse says the Vindland
+    vessels came into the fight when hope was gone with Olaf.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 7691-7698
+  quote_or_summary: The Vindland cutter with Astrid's men rowed back to Vindland;
+    a report spread that Olaf cast off his mail underwater, swam and dived under longships
+    to the cutter, and was conveyed to Vindland, with many later tales about his adventures.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 7698-7708
+  quote_or_summary: Halfred's verse asks whether Olaf lives or is dead, says many
+    tell the tale each way, and states that Olaf was grievously wounded.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 7709-7728
+  quote_or_summary: The prose states that Olaf Trygvason never came back to Norway;
+    a further Halfred verse treats news of escape as rumor and says fate did not will
+    Olaf to escape alive.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 7731-7741
+  quote_or_summary: By the victory Earl Eirik became owner of the Long Serpent, took
+    great booty, and steered the ship from the battle; a stanza says he gained Olaf's
+    long ship.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: summary
+  locator: lines 7742-7743 and following passage continuation within supplied text
+  quote_or_summary: Svein the Danish king, Olaf the Swedish king, and Earl Eirik divided
+    the kingdom of Norway, assigning named districts to Olaf and Earl Svein and others
+    to Earl Eirik.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events and named figures are clear in the passage. Motif labels are
+    cautious because the source frames much of Olaf's fate as rumor and poetic report
+    rather than confirmed narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and applied cautiously where the passage directly supports them.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-heimskringla-laing-gutenberg__l7618-l7743
+  passage_sha256=0781f6be5244e02f109b9515c47bd3825039de4a5d60a3fb36105562e9d7dfec
+

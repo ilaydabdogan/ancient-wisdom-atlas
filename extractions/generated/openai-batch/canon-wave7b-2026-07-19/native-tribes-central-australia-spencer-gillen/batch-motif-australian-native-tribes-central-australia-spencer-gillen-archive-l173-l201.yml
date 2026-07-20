@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l173-l201
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: The Native Tribes of Central Australia / PREFACE / X PREFACE; lines 173-201
+  start: '173'
+  end: '201'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"maps on which are indicated the localities of the principal spots associated
+    with the traditions of the Arunta natives"'
+  summary: 'The preface acknowledges assistance: an unnamed contributor provided knowledge
+    of Central Australia and drew maps marking places associated with Arunta traditions;
+    Horn and Stirling permitted use of drawings of native rock paintings; Tylor and
+    Frazer offered scholarly guidance, encouragement, proofreading, and revision.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed male contributor placed his knowledge of Central Australia at the
+    authors' disposal.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same contributor drew two maps indicating localities of principal spots
+    associated with traditions of the Arunta natives.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The maps are described as selective rather than as complete geographical maps
+    of Central Australia.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mr. W. A. Horn and Dr. E. C. Stirling gave permission to use drawings illustrating
+    native rock paintings.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The rock-painting drawings were originally made to illustrate Dr. Stirling's
+    anthropological report on the Arunta tribe.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The authors acknowledge Dr. K. B. Tylor and Mr. J. G. Frazer for work that
+    indicated lines of inquiry, and for personal encouragement and help.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Tylor and Frazer read the proofs, and Frazer is singled out for final revision
+    of the proofs.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed male contributor
+  description: A person referred to only as "he" who supplied knowledge of Central
+    Australia and drew two maps.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Arunta natives
+  description: The people whose traditions are associated with the principal spots
+    indicated on the maps.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mr. W. A. Horn
+  description: A person thanked for permission to utilize drawings illustrative of
+    native rock paintings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Dr. E. C. Stirling
+  description: A person thanked for permission to utilize drawings illustrative of
+    native rock paintings; his anthropological report dealt with the Arunta tribe.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Dr. K. B. Tylor
+  description: A person thanked for scholarly work, encouragement, help, and reading
+    proofs.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Mr. J. G. Frazer
+  description: A person thanked for scholarly work, encouragement, help, reading proofs,
+    and final revision of the proofs.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: authors
+  description: The narrating "we" of the preface, expressing thanks and obligations.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: knowledge provider and map drawer
+  assigned_to:
+  - fig:1
+  basis: He placed knowledge of Central Australia at the authors' disposal and drew
+    two maps.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tradition-bearing community named in the passage
+  assigned_to:
+  - fig:2
+  basis: The maps mark spots associated with the traditions of the Arunta natives.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: permission giver for use of rock-painting drawings
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Horn and Stirling are thanked for permission to utilize drawings illustrating
+    native rock paintings.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: author of anthropological report referenced
+  assigned_to:
+  - fig:4
+  basis: The drawings originally illustrated Dr. Stirling's anthropological report
+    on the Arunta tribe.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: scholarly encourager and proofreader
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Tylor and Frazer are thanked for lines of inquiry, encouragement, help, and
+    reading the proofs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: final proof reviser
+  assigned_to:
+  - fig:6
+  basis: Frazer is singled out as responsible for the final revision of the proofs.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: acknowledging authors
+  assigned_to:
+  - fig:7
+  basis: The preface repeatedly states what "we" have to thank others for and expresses
+    the authors' obligations.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: tradition map
+  literal_form: two maps indicating localities of principal spots associated with
+    Arunta traditions
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: rock-painting drawings
+  literal_form: drawings illustrative of native rock paintings
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: acknowledgment of mapped traditional localities
+  summary: The authors state that an unnamed contributor supplied knowledge of Central
+    Australia and drew two selective maps marking principal spots associated with
+    Arunta traditions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: acknowledgment of rock-painting illustrations
+  summary: The authors thank Horn and Stirling for permission to use drawings of native
+    rock paintings originally connected with Stirling's anthropological report on
+    the Arunta tribe.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: acknowledgment of scholarly assistance
+  summary: The authors express obligation to Tylor and Frazer for scholarly influence,
+    encouragement, help, proofreading, and final revision by Frazer.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 173-179
+  quote_or_summary: An unnamed contributor placed knowledge of Central Australia at
+    the authors' disposal, "drawing, up for us the two maps" showing localities of
+    principal spots associated with Arunta traditions.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 180-184
+  quote_or_summary: The maps are not intended to show all current geographical knowledge
+    of Central Australia; less important features were deliberately omitted.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 185-190
+  quote_or_summary: Horn and Stirling are thanked for permission to use drawings illustrating
+    native rock paintings, originally made for Stirling's anthropological report on
+    the Arunta tribe.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 191-196
+  quote_or_summary: The authors express deep obligation to Tylor and Frazer, whose
+    work indicated lines of inquiry and who gave encouragement and help.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 197-201
+  quote_or_summary: Tylor and Frazer read the proofs; Frazer is specifically credited
+    with the final revision, and the authors offer thanks.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a preface acknowledgment rather than a mythic narrative. It
+    supports extraction of mapped traditional localities and rock-painting documentation,
+    but not specific myth motifs or comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family is directly supported by this passage. The passage mentions Arunta traditions and rock paintings but gives no details of their content.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l173-l201
+  passage_sha256=c3b58302ea330df200ec8d7822958550dface683e09baa054cdd964776923c92
+

@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l19020-l19065
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: B  B  2 / INDUSTRIES / WM.    . / XI  INDUSTRIES  375; lines 19020-19065
+  start: '19020'
+  end: '19065'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Baganda house-finishing techniques: floor smearing,
+    doorway thatch trimming, compensation for royal floor-beaters, reed door construction
+    by specialized door-makers, sliding door installation, and interior division into
+    sitting and sleeping rooms.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A floor was completed by smearing it with a mixture of clay and cowdung.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The thatch over the doorway was cut with the under part long and the upper
+    part shorter, which the author contrasts with an English method.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The King's floor-beaters received a hoe after finishing the work; if they
+    also leveled the courtyard, they received a goat in addition.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The goat given for courtyard leveling was killed and eaten on the spot before
+    anyone went to live in the house.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Chiefs who hired the floor-beaters paid heavily, sometimes as much as a cow
+    for one floor.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The door was made of reeds by a separate group of workmen described as the
+    King's door-makers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The door-maker measured the doorway with a reed, took the measurements home,
+    and made the door there.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The reed door used three or sometimes four strong sticks, with reeds stitched
+    in layers to both sides.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: For doors made for the King, stitching was done with cane; for ordinary houses,
+    bark was used.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:10
+  text: The doors were made larger than the opening so that the doorway was covered
+    at the top and sides.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: A grooved log was set into the floor for the door to slide in, and three posts
+    supported the door arrangement.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:12
+  text: At night the door was drawn over the opening and tied to a post to prevent
+    outside opening; by day it slid aside and rested against the third post.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:13
+  text: A wall across the middle divided the house into a sitting room and a sleeping
+    room, but did not extend fully to the side walls.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: floor-beaters
+  description: Workers who finished floors for the King and could also level courtyards.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the King
+  description: Royal patron who gave hoes and sometimes a goat to floor-beaters; doors
+    for him required cane stitching.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: chiefs
+  description: Non-royal patrons who hired floor-beaters and paid heavily for floor-making.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: door-makers
+  description: A separate set of workmen described as the King's door-makers who made
+    reed doors.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: floor-finishing workers
+  assigned_to:
+  - fig:1
+  basis: They beat or finished floors, received payment, and sometimes leveled courtyards.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal patron and payer
+  assigned_to:
+  - fig:2
+  basis: The King gave hoes and goats for house work and had doors made to royal specifications.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: commissioning patrons
+  assigned_to:
+  - fig:3
+  basis: Chiefs hired the same men for floor-making and paid high prices.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: specialized door craftsmen
+  assigned_to:
+  - fig:4
+  basis: They measured doorways and constructed reed doors, especially for the King.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: clay-and-cowdung floor
+  literal_form: House floor smeared with a mixture of clay and cowdung.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hoe payment
+  literal_form: Hoe given to each of the King's floor-beaters after the work was finished.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: goat payment and meal
+  literal_form: Goat given in addition to the hoe when a courtyard was leveled, then
+    killed and eaten on the spot before habitation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: reed sliding door
+  literal_form: Door made from reeds stitched to strong sticks, larger than the doorway
+    opening, and made to slide.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: grooved log and three posts
+  literal_form: A grooved log set into the floor and three posts used to support and
+    operate the sliding door.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: middle partition wall
+  literal_form: Wall across the middle of the house dividing sitting and sleeping
+    rooms.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: floor finishing and work compensation
+  summary: Workers finish the floor, doorway thatch is trimmed, royal floor-beaters
+    receive hoes, and courtyard leveling brings an added goat that is killed and eaten
+    before habitation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: reed door manufacture
+  summary: A specialized door-maker measures the doorway with a reed, constructs a
+    reed door at his own house, and uses cane for royal doors but bark for ordinary
+    houses.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: sliding door installation and use
+  summary: The reed door is made larger than the opening, slides in a grooved log,
+    is supported by posts, is tied shut at night, and rests aside during the day.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: interior house division
+  summary: A middle wall divides the house into sitting and sleeping rooms without
+    reaching completely to the side walls.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal craft specialization in house construction
+  taxonomy_refs: []
+  basis: The passage distinguishes the King's floor-beaters and the King's door-makers,
+    and notes special construction requirements for royal doors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic labor and craft pattern, not an explicitly mythic
+    motif.
+- id: motif:2
+  label: pre-occupancy goat killing and eating after courtyard work
+  taxonomy_refs: []
+  basis: When floor-beaters leveled a courtyard, the King gave them a goat, which
+    they killed and ate on the spot before anyone lived in the house.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not state that the killing was sacrificial or religious;
+    it should not be classified as sacrifice without further evidence.
+- id: motif:3
+  label: domestic threshold closure by sliding reed door
+  taxonomy_refs: []
+  basis: The doorway is covered by a specially made reed door that slides, is tied
+    shut at night, and rests to one side during the day.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The described function is practical and architectural; no symbolic threshold
+    meaning is stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly contrasts the Baganda doorway-thatch cut with an English
+    method, describing the Baganda arrangement as the exact opposite in the relative
+    length of the under and upper parts.
+  claim_level: same_function
+  target: English method of cutting doorway thatch
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is only the author's technical comparison of doorway finishing
+    methods; it does not support broader historical or symbolic claims.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19020-19031
+  quote_or_summary: Floor finishing uses clay and cowdung; doorway thatch is trimmed;
+    the King's floor-beaters receive hoes, and for courtyard leveling a goat is added,
+    killed, and eaten before habitation; chiefs may pay as much as a cow for one floor.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 19032-19049
+  quote_or_summary: The reed door is made by the King's door-makers; the maker measures
+    the opening with a reed, constructs the door at home with sticks and stitched
+    reed layers, using cane for royal doors and bark for ordinary houses.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 19050-19061
+  quote_or_summary: Doors are trimmed but made larger than the opening; a grooved
+    log in the floor and three posts support the sliding door, which is tied shut
+    at night and moved aside by day.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 19062-19065
+  quote_or_summary: A wall across the middle divides the house into sitting and sleeping
+    rooms, without reaching completely to the side walls.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive ethnography of house construction. Literal extraction
+    is strong; motif labels are limited to practical social and architectural patterns,
+    with no religious interpretation inferred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs are directly supported by the passage. No mythic taxonomy motif refs were assigned because the passage does not state sacred, ritual, or mythological meanings.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l19020-l19065
+  passage_sha256=676bc1057845d473a6d56536b1dc8c1bf56003422e8e974a9ec5f0a3a9c8c929
+

@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l9753-l9764
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: II ';. / CHAPTER XIV / FUNERAL AND MOURNING CEREMONIES. / S. N. G. II; lines
+    9753-9764
+  start: '9753'
+  end: '9764'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a mourning practice in which relatives and friends
+    slept in the dead man's house as a sign of sympathy for the widow. It contrasts
+    this with a newer government-influenced burial practice requiring graves in a
+    recognized graveyard away from the village; the grave is lightly thatched against
+    rain, no one sleeps on or near it, and relatives sleep in the dead man's house,
+    with fear of the remote location also given as a reason for the change.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Relatives and friends slept in the dead man's house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The practice is named ahatabtcbu, with Motu equivalent given as tauhalo.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stated purpose of the practice was sympathy with the widow left alone
+    after her husband's death.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Government now requires burial in a recognized graveyard remote from the village.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The grave is lightly thatched over to keep off rain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Under the newer practice no one sleeps on or near the grave, while all relatives
+    sleep in the dead man's house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The change is attributed partly to government influence and partly to fear
+    of being far from the village.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: dead man / husband
+  description: The deceased man whose death leaves a widow and whose house becomes
+    the place where relatives sleep.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: widow
+  description: The woman described as left alone because of her husband's death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: relatives and friends
+  description: People who sleep in the dead man's house; under the newer practice
+    all relatives sleep there rather than on or near the grave.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: government
+  description: The authority said to insist on burial in a recognized graveyard remote
+    from the village.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: deceased husband
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the dead man as the widow's husband.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bereaved widow
+  assigned_to:
+  - fig:2
+  basis: The widow is described as left alone by her husband's death.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: mourning kin and companions
+  assigned_to:
+  - fig:3
+  basis: Relatives and friends sleep in the dead man's house as part of the mourning
+    practice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: burial-regulating authority
+  assigned_to:
+  - fig:4
+  basis: The government is said to require burial in a recognized graveyard away from
+    the village.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: dead man's house
+  literal_form: house
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: remote recognized graveyard
+  literal_form: graveyard remote from the village
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: thatched grave
+  literal_form: grave lightly thatched over to keep off rain
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sleeping in the dead man's house as sympathy for the widow
+  summary: Relatives and friends sleep in the dead man's house; the practice is named
+    ahatabtcbu or tauhalo and is explained as sympathy for the widow left alone by
+    her husband's death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Government-influenced burial away from the village
+  summary: Burial is now required in a recognized graveyard remote from the village;
+    the grave is thatched against rain, no one sleeps on or near it, and relatives
+    sleep in the dead man's house. The change is attributed to government influence
+    and fear of the remote location.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: mourning sleep in the deceased's house
+  taxonomy_refs: []
+  basis: The passage describes relatives and friends sleeping in the dead man's house
+    as a named mourning practice connected with sympathy for the widow.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives an ethnographic practice rather than a mythic narrative
+    motif; no supplied taxonomy family directly matches it.
+- id: motif:2
+  label: relocation of burial and avoidance of grave-side vigil
+  taxonomy_refs: []
+  basis: The passage contrasts earlier sleeping arrangements with a newer practice
+    in which burial occurs in a remote recognized graveyard and no one sleeps on or
+    near the grave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The account attributes the change to government influence and fear; it
+    should not be generalized beyond this passage without corroborating evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9753-9756
+  quote_or_summary: Relatives and friends slept in the dead man's house; the practice
+    is called ahatabtcbu, Motu tauhalo, and is said to show sympathy with the widow
+    left alone by her husband's death.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 9757-9761
+  quote_or_summary: Government now insists on burial in a recognized graveyard remote
+    from the village; the grave is lightly thatched against rain, no one sleeps on
+    or near it, and relatives sleep in the dead man's house.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: quote
+  locator: 9762-9764
+  quote_or_summary: The change is due partly to government influence and partly to
+    fear, "too much he 'fraid long way from village."
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal ethnographic details are explicit. Motif labels are descriptive
+    because no provided taxonomy item directly matches the funeral-mourning practice.
+    No comparison claims are made from this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l9753-l9764
+  passage_sha256=ef965a2bac80aaed6190d20ac66df41ee778c4aca6695a21d5026f1fdffe5f87
+

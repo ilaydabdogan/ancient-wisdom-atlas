@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l22591-l22615
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: MARKETS   AND   CURRENCY. / H.  XV / MARKETS    AND    CURRENCY / MARKETS    AND    CURRENCY;
+    lines 22591-22615
+  start: '22591'
+  end: '22615'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes market supply contracts, beer measures, a meat-stall
+    figure caption, and commodity prices expressed in cowry-shells. Beer is measured
+    by a gourd, cup, or brewing bath; cooking-pots and milk-pots are priced by size
+    or type.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The excerpt begins with an unspecified commodity said to have a high price
+    and to be requested in advance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some women had contracts to take as much of the unspecified commodity as the
+    market-superintending chief could supply.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Beer was measured by a gourd called a kita, or in smaller quantity by a cup
+    called an endeku.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: During brewing, beer was measured by a large bath called a lyato; the bath
+    is described with specific dimensions.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A figure caption identifies a meat stall in a market.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Cooking-pots were priced according to size, with large and small pots assigned
+    different cowry-shell prices.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A milk-pot is assigned a cowry-shell price range; the passage then begins
+    to mention a tobacco-pipe but does not give its price within the excerpt.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: some women
+  description: Women who had contracts to take as much supply as the chief could provide.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: chief who superintended the market
+  description: A chief identified as supervising the market and supplying the contracted
+    commodity.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: contract holders
+  assigned_to:
+  - fig:1
+  basis: The passage says some women had contracts to take supply.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: market superintendent and supplier
+  assigned_to:
+  - fig:2
+  basis: The chief is described as superintending the market and as the one who could
+    supply the commodity.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: kita gourd
+  literal_form: Gourd used as a beer measure.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: endeku cup
+  literal_form: Cup used for selling a smaller quantity of beer.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lyato bath
+  literal_form: Large bath used in brewing and measuring beer, described as six feet
+    long, two feet wide, and eighteen inches deep.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: cowry-shell prices
+  literal_form: Cowry-shells used as the pricing unit for pots.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: cooking-pots
+  literal_form: Large and small cooking-pots priced according to size.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: milk-pot
+  literal_form: Milk-pot priced at sixty or even one hundred cowry-shells.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: meat stall
+  literal_form: Market meat stall named in the figure caption.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Market supply contracts
+  summary: Women hold contracts to take supply from the chief who supervises the market;
+    the commodity is not identifiable within this excerpt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beer measurement
+  summary: 'Beer is measured or sold using named containers: the kita gourd, the endeku
+    cup, and the lyato brewing bath.'
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Market stall and pot prices
+  summary: The excerpt includes a meat-stall figure caption and describes pot prices
+    in cowry-shells.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Market exchange using named measures and cowry-shell pricing
+  taxonomy_refs: []
+  basis: The passage describes beer measured by named vessels and commodities priced
+    in cowry-shells.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an economic and ethnographic pattern, not a mythic or sacred motif
+    in the passage.
+- id: motif:2
+  label: Market supervision and supply contracts
+  taxonomy_refs: []
+  basis: The passage describes women holding supply contracts and a chief supervising
+    the market supply.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The commodity involved is not identifiable because the excerpt begins
+    mid-sentence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22591-22596
+  quote_or_summary: '"some women had contracts to take as much as the chief who superintended
+    the market could supply"'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: 22596-22601
+  quote_or_summary: '"Beer was measured by the gourd, called a kita ... sold by the
+    cup (endeku)."'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 22603-22608
+  quote_or_summary: During brewing, beer was measured by the large bath called a lyato,
+    described as six feet long, two feet wide, and eighteen inches deep.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 22601-22603
+  quote_or_summary: '"FIG. 80.—MEAT STALL IN MARKET."'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 22608-22613
+  quote_or_summary: 'Cooking-pots were priced by size: a large pot for two hundred
+    cowry-shells, and small ones for twenty or thirty cowry-shells.'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 22613-22615
+  quote_or_summary: A milk-pot cost sixty or even one hundred cowry-shells; the passage
+    then begins to mention a tobacco-pipe.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The concrete market details are clear, but the passage begins mid-sentence
+    and ends before completing the tobacco-pipe item. No comparison claims are warranted
+    by the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied because the passage describes non-sacred market and currency practices rather than mythological motifs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l22591-l22615
+  passage_sha256=d496cce806c6d7da5614fb632d33b78390a3e884868c956b8d2f42ba61bfaa71
+

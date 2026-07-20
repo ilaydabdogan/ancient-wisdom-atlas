@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l9091-l9240
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: BUREAU OF ETHNOLOGY / ELEVENTH ANNUAL REPORT PL. KAKIX / BIRCH-BARK CANOE,
+    NENENOT, KOKSOAK RIVER PATTERN / DURE AU OF ETHNOLOGY ELEVENTH ANNUAL REPORT;
+    lines 9091-9240
+  start: '9091'
+  end: '9240'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Nenenot land transportation technology, including
+    sled construction, use of human and occasional dog traction, loading household
+    goods during camp moves, and the manufacture and netting of several styles of
+    snowshoes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The sled is strengthened by a stout twisted thong run under notched bars,
+    helping hold the two side boards in place over uneven ground.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sled uses two boards rather than one because a single board of sufficient
+    width is unavailable and would be more likely to split; the two-board construction
+    also makes the sled less stiff.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sled is shaped to be narrow at the nose and heel and wider near the first
+    bars, and its length helps a person guide it.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: On journeys, younger women and men drag the sled; when men return to the station
+    to trade, men alone drag it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A small dog is sometimes hitched to the sled by a thong, but the passage says
+    it gives little assistance and is also kept from wandering in search of game.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When people change camp, household effects such as the tent, cooking utensils,
+    clothing, and other articles are placed on the sled.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The Nenenot are described as skilled in making and using four styles of snowshoe:
+    swallow-tail, beaver-tail, round-end, and single bar.'
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Snowshoe frames are made of wood, often birch when available, otherwise generally
+    spruce or larch, and are joined with lap splices wrapped in deerskin thongs.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Snowshoe netting is made from deerskin dried like parchment and cut into strips;
+    a flat needle of bone, horn, or iron is used for netting.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The toe, middle, and heel netting differ in fineness, and a semicircular toe
+    space with a buckskin thong holds the snowshoe to the foot.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Nenenot
+  description: The people identified in the passage as skilled in the manufacture
+    and use of snowshoes and associated with the described land transportation equipment.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: younger women and men
+  description: Persons who drag the sled along when on a journey.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: men returning to the station to trade
+  description: Men who alone drag the sled when returning to the station to trade.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: small dog
+  description: An animal sometimes hitched to the sled by a thong; it gives little
+    assistance and is restrained from wandering.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: snowshoe makers and users
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Nenenot are skilled in the manufacture and use
+    of snowshoes.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: land-transportation practitioners
+  assigned_to:
+  - fig:1
+  basis: The passage describes Nenenot sled and snowshoe technology within the section
+    on transportation by land.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: journey sled haulers
+  assigned_to:
+  - fig:2
+  basis: The passage says younger women and men drag the sled along when on a journey.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: trade-return sled haulers
+  assigned_to:
+  - fig:3
+  basis: The passage says men alone drag the sled when returning to the station to
+    trade.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: tethered auxiliary draught animal
+  assigned_to:
+  - fig:4
+  basis: The passage says a small dog is sometimes hitched to the sled by a thong,
+    though it provides little assistance.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sled
+  literal_form: Two-board land sled with bars, twisted thongs, traces, shaped nose,
+    and narrow heel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: twisted thong traces
+  literal_form: Long stout thongs of twisted skin attached at the first bar and side
+    lines and used to drag the sled.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: household effects loaded for camp movement
+  literal_form: Tent, cooking utensils, clothing, and other articles placed on the
+    sled when changing camp.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: snowshoe
+  literal_form: Wood-framed snowshoe with deerskin netting, toe and heel bars, and
+    several named styles.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: deerskin netting and thong
+  literal_form: Prepared deerskin strips used for snowshoe netting and buckskin thong
+    used to hold the snowshoe to the foot.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Construction and shaping of the sled
+  summary: The passage explains the sled's two-board construction, strengthening thongs,
+    bars, traces, and shaped profile suited to uneven ground.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sled use on journeys and camp moves
+  summary: Younger women and men drag the sled during journeys, men drag it when returning
+    to trade, a small dog may be hitched to it, and household goods are loaded when
+    changing camp.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Snowshoe manufacture and netting
+  summary: The passage lists four Nenenot snowshoe styles and describes frame materials,
+    lap splices, deerskin netting, needles, mesh differences, and toe attachment.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: camp relocation by loaded sled
+  taxonomy_refs: []
+  basis: The sled carries household effects such as the tent, utensils, and clothing
+    when people change camp.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic transportation pattern, not a mythic narrative
+    motif in the passage.
+- id: motif:2
+  label: human-drawn sled journey
+  taxonomy_refs: []
+  basis: The passage distinguishes who drags the sled during journeys and trade returns.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents practical travel behavior rather than symbolic or
+    mythological action.
+- id: motif:3
+  label: specialized snow-travel craft
+  taxonomy_refs: []
+  basis: The passage describes named snowshoe styles and detailed methods for constructing
+    and netting snowshoes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif is material-cultural and technical; no explicit sacred or mythic
+    significance is stated.
+- id: motif:4
+  label: tethered animal assistance in transport
+  taxonomy_refs: []
+  basis: A small dog is sometimes hitched to the sled, both as limited help and to
+    keep it from wandering after game.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The dog is described as providing little assistance, so the pattern is
+    only weakly one of animal traction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9091-9240, sled construction paragraph
+  quote_or_summary: A stout twisted thong runs under notched bars to strengthen the
+    sled sides; long twisted-skin thongs attached near the first bar serve as traces
+    for dragging; the sled is shaped narrow at the nose and heel and wider near the
+    front bars.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9091-9240, sled design explanation
+  quote_or_summary: Two boards are used because a single board of sufficient width
+    is unavailable and would split; the two-board sled is less stiff and can bend
+    over rough places, and its length helps in guiding it.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9091-9240, sled use on journey paragraph
+  quote_or_summary: On a journey younger women and men drag the sled; when men return
+    to the station to trade, they alone drag it. A small dog may be hitched to it
+    by a thong, but gives little help and is kept from wandering after game.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 9091-9240, camp-moving paragraph
+  quote_or_summary: '"All the household effects, consisting of tent, cooking utensils,
+    clothing, and other articles are placed on the sled when the people are changing
+    camp."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 9091-9240, introduction to snowshoes
+  quote_or_summary: 'The Nenenot are described as skilled in the manufacture and use
+    of snowshoes, with four styles named: swallow-tail, beaver-tail, round-end, and
+    single bar.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9091-9240, snowshoe frame paragraph
+  quote_or_summary: Snowshoe frames are wooden, usually in two pieces joined by lap
+    splices wrapped with deerskin thongs; birch is favored when available, while spruce
+    and larch are generally used.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9091-9240, snowshoe netting and needle paragraphs
+  quote_or_summary: Snowshoe netting is made from deerskin dried like parchment and
+    cut into strips; a flat needle of bone, horn, or iron with a central eye is used,
+    with different sizes for different mesh types.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 9091-9240, snowshoe mesh and foot attachment paragraphs
+  quote_or_summary: The toe netting is finer than the middle, and the heel netting
+    finest; a semicircular toe space allows movement, and a wide buckskin thong attached
+    behind the toe-bar holds the snowshoe to the foot.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a practical ethnographic description of sleds and snowshoes.
+    Literal extraction is well supported, but motif candidates are material-cultural
+    patterns rather than explicit mythological motifs. No comparison claims were made
+    because the passage itself provides no comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available taxonomy motif and symbol references were not applied because the passage does not explicitly support those mythological categories.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l9091-l9240
+  passage_sha256=a76634aa98fcf89d0fbe16316e20f2e8c0fa65f0f35348af86852db4b8e881b6
+

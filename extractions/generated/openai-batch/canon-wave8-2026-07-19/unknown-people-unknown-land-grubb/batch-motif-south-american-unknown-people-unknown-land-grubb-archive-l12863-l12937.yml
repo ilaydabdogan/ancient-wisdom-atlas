@@ -1,0 +1,479 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l12863-l12937
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: APPENDIX I / APPENDIX I / PART I. / PART II.; lines 12863-12937
+  start: '12863'
+  end: '12937'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A natural-history passage describes Chaco lungfish dug from dry-season
+    burrows, lungfish and eels nesting in mud burrows with males guarding eggs, varied
+    frog breeding habits including a tree-frog leaf-and-jelly nest over water, and
+    locust swarms that darken the sky and strip trees.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: During the dry season, Indians dig lungfish out of the ground with sharp wooden
+    stakes, using a small breathing hole to locate the burrow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lungfish nest is a slanting tunnel in the mud at the swamp bottom, roughly
+    lined with fragments of water-weeds.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After laying eggs, the female lungfish swims away and takes no further care
+    of the young.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The male lungfish lies in the passage leading to the eggs and defends the
+    nest with powerful teeth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The male lungfish remains in the nest from egg-laying until the young are
+    ready to leave, for about seven weeks.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An eel species in the same swamps has similar dry-season mud survival and
+    mud-burrow nesting habits, and the male guards the developing eggs.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: On wet nights in the Chaco, frogs make a deafening noise; the passage says
+    there are about twenty-four species, each with a distinctive cry.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: One frog species lays eggs in temporary rain pools, and the eggs hatch within
+    twenty-four hours.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A climbing tree-frog makes a nest from leaves and gelatinous egg-cases on
+    a branch over water; tadpoles later fall in viscous drops into the pool below.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A locust swarm first appears like a long dark reddish cloud, darkens the sky
+    when overhead, fills the air with wing-whirring, and strips trees of leaves after
+    settling.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Indians
+  description: People who dig lungfish from the ground during the dry season with
+    sharp wooden stakes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Lungfish / Lepidosiren
+  description: A fish found in ground burrows in the dry season and described as nesting
+    in a mud tunnel at the bottom of a swamp.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Female lungfish
+  description: The egg-laying lungfish that swims away after depositing eggs and does
+    not continue care.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Male lungfish
+  description: The lungfish that lies in the nest passage, defends the eggs, and remains
+    until the young are ready to leave.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Eel
+  description: A swamp fish able to pass the dry season in mud and said to have mud-burrow
+    nests in which the male guards developing eggs.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Chaco frogs
+  description: Frogs described as numerous, noisy on wet nights, and varied in breeding
+    habits.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Climbing tree-frog / Phyllomedusa sauvagu
+  description: A tree-frog that builds a suspended nest of leaves and gelatinous egg-cases
+    over a pool, from which tadpoles later fall into the water.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Locusts
+  description: Insects that form large swarms resembling a dark reddish cloud, darken
+    the sky, and strip trees of leaves.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: dry-season lungfish diggers
+  assigned_to:
+  - fig:1
+  basis: They dig lungfish from the ground during the dry season with wooden stakes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mud-burrow nesting fish
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Both lungfish and eel are described as nesting in burrows in mud.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: egg-layer that departs
+  assigned_to:
+  - fig:3
+  basis: The female lungfish lays eggs and then swims away without further care.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: male egg guardian
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The male lungfish guards eggs in the passage, and the male eel keeps guard
+    over developing eggs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: nocturnal and rapid-breeding frogs
+  assigned_to:
+  - fig:6
+  basis: The passage notes loud wet-night cries, many species, and eggs that can hatch
+    within twenty-four hours in temporary pools.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: arboreal nest builder
+  assigned_to:
+  - fig:7
+  basis: The tree-frog makes a nest by drawing leaves together and cementing them
+    with gelatinous egg-cases over a pool.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: sky-darkening defoliating swarm
+  assigned_to:
+  - fig:8
+  basis: The locust swarm darkens the sky and strips trees of leaves.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: mud burrow nest
+  literal_form: A tunnel or burrow in mud containing fish eggs, with a male fish guarding
+    the passage.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: swamp and pool water
+  literal_form: Swamp bottom, temporary pools, and water below suspended frog nests.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: leaf-and-jelly suspended nest
+  literal_form: Leaves cemented by gelatinous egg-cases to form a chamber with floor
+    and roof over a pool.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: falling tadpole drops
+  literal_form: Thick viscous drops from the softened nest plug falling into the water,
+    carrying tadpoles.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: locust cloud
+  literal_form: A swarm of locusts appearing as a long dark reddish cloud and then
+    darkening the sky.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: stripped trees
+  literal_form: Trees on which locusts settle and from which they remove all leaves.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: dry-season lungfish extraction
+  summary: Indians locate dry-season lungfish burrows by the breathing hole and dig
+    the fish from the ground with sharp wooden stakes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: lungfish nest guarding
+  summary: A female lungfish lays eggs at the end of a mud tunnel and leaves; the
+    male remains in the passage to defend the eggs until the young are ready to depart.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: eel parallel to lungfish nesting
+  summary: An eel species in the same swamps is described as having mud-burrow nests
+    and male egg-guarding similar to the lungfish.
+  figure_refs:
+  - fig:5
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: frog breeding and suspended nest
+  summary: Chaco frogs are noisy and varied in breeding habits; one species uses temporary
+    pools for rapid hatching, and a climbing tree-frog builds a leaf-and-jelly nest
+    over water from which tadpoles drip into the pool.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: locust swarm and defoliation
+  summary: A locust swarm appears like a dark reddish cloud, darkens the sky, fills
+    the air with wing sounds, settles on trees, and strips them of leaves.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: male guardian of eggs in a hidden burrow
+  taxonomy_refs: []
+  basis: The male lungfish guards eggs in a mud tunnel for about seven weeks, and
+    the male eel also guards developing eggs in a mud burrow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a natural-history pattern in the passage, not a mythic narrative
+    motif; no supplied motif-family taxonomy ref directly applies.
+- id: motif:2
+  label: young descending from a suspended nest into water
+  taxonomy_refs: []
+  basis: The tree-frog nest is suspended over a pool; as the lower plug softens, tadpoles
+    fall in viscous drops into the water beneath.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a biological reproductive sequence; any symbolic or mythological
+    reading would require evidence outside the passage.
+- id: motif:3
+  label: sky-darkening destructive swarm
+  taxonomy_refs: []
+  basis: The locust swarm appears like a dark cloud, darkens the sky, and strips trees
+    of leaves after settling.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage describes an insect swarm literally; it does not connect the
+    scene to divine judgment, plague myth, or other supplied motif families.
+- id: motif:4
+  label: dry-season life concealed underground
+  taxonomy_refs: []
+  basis: Lungfish are dug from the ground during the dry season, and the eel is described
+    as able to pass the dry season in the mud like Lepidosiren.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: This is an ecological survival pattern only; the passage provides no mythic
+    interpretation.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly compares the eel’s nesting habits to the lungfish’s:
+    both use mud burrows and male egg-guarding.'
+  claim_level: same_function
+  target: lungfish and eel mud-burrow nesting with male egg-guarding
+  evidence_refs:
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to a natural-history description and does
+    not establish a mythological relationship.
+- id: claim:2
+  claim: The locust swarm is visually compared to a long dark reddish cloud or impending
+    storm before it resolves into insects.
+  claim_level: visual_similarity
+  target: storm cloud appearance
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a literal visual analogy in the passage, not evidence of a
+    storm or plague motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12863-12866
+  quote_or_summary: During the dry season, Indians dig lungfish from the ground with
+    sharp wooden stakes; a breathing hole reveals the burrow.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12868-12880
+  quote_or_summary: The lungfish nest is a slanting mud tunnel at the swamp bottom,
+    roughly lined with water-weeds; the female leaves after laying, while the male
+    guards the eggs in the passage with powerful teeth.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12882-12887
+  quote_or_summary: The male lungfish remains in the nest from egg-laying until the
+    young are ready to leave, about seven weeks.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12889-12895
+  quote_or_summary: 'An eel species in the swamps has nesting habits similar to lungfish:
+    mud burrow nests without water-weed lining, and the male guards the developing
+    eggs.'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12897-12908
+  quote_or_summary: Chaco frogs and insects are prominent; frogs are deafening on
+    wet nights, number about twenty-four species, and one species lays eggs in temporary
+    rain pools that hatch within twenty-four hours.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12908-12930
+  quote_or_summary: A climbing tree-frog, named in the passage as Phyllomedusa sauvagu,
+    builds a nest of leaves and gelatinous egg-cases over a pool; tadpoles later fall
+    in viscous drops from the nest into the water below.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12932-12937
+  quote_or_summary: A locust swarm appears first as a long dark reddish cloud, then
+    darkens the sky, fills the air with wing sounds, settles on trees, and strips
+    them of leaves.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive natural history rather than mythic narrative.
+    Literal extraction is high confidence; motif candidates are treated as ecological
+    patterns with no supplied mythological taxonomy assignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact, common-inheritance, or archetypal claims are made. Available taxonomy refs were applied only to literal water/tree symbols where directly supported by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l12863-l12937
+  passage_sha256=f2858c8ce13d31ab855c9b3bb0c7d82a64e806c1ff27b8003deea009276fe145
+

@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.gnostic-mead-fragments-of-a-faith-forgotten-archive-l7804-l7847
+source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+passage_locator:
+  label: PHILO   ON   THE   CONTEMPLATIVE   LIFE.  67 / PHILO   ON   THE   CONTEMPLATIVE   LIFE.  69
+    / FRAGMENTS   OF   A    FAITH    FORGOTTEN. / PHILO   ON   THE   CONTEMPLATIVE   LIFE.  71;
+    lines 7804-7847
+  start: '7804'
+  end: '7847'
+  translation: Fragments of a Faith Forgotten
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the words of the literal meaning are symbols of a hidden nature
+  summary: The passage describes a contemplative community that reads literal wording
+    as symbolic of hidden meaning, follows allegorical works of former school heads,
+    composes hymns to God, spends six days in solitary study, and gathers every seventh
+    day for ordered assembly and instruction by a senior doctrinal speaker.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The group regards the words of the literal meaning as symbols of a hidden
+    nature made plain through an under-meaning.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group possesses works by ancient authors who were formerly heads of their
+    school and uses these works as patterns for allegorical practice.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The group composes songs and hymns to God in various metres and melodies.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: For six days each person remains apart in solitude in a place called a monastery,
+    engaged in study and not going outside or looking out of a window.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Every seventh day the members come together in a general assembly and sit
+    in order according to age, explained as length of membership in the order.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: At the assembly they sit in a prescribed attitude with palms downward, the
+    right hand between breast and chin and the left hand by the side.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The senior member most skilled in the doctrines comes forward and discourses
+    with steadfast eyes, steadfast voice, reason, and thoughtfulness.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The senior speaker examines and explains the precise meaning in the thoughts,
+    described as reaching the soul rather than merely the ears.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the described contemplative community
+  description: A community that reads literal words as symbols of hidden meaning,
+    studies in solitude, composes hymns, and meets weekly in an ordered assembly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: ancient former heads of the school
+  description: Ancient authors who were once heads of the school and left works serving
+    as patterns for the community's allegorical practice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the senior most skilled in the doctrines
+  description: The senior member who comes forward at the assembly and gives a reasoned
+    discourse explaining precise meaning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: God
+  description: The divine addressee of the community's songs and hymns.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: allegorical readers and contemplative practitioners
+  assigned_to:
+  - fig:1
+  basis: They treat literal wording as symbolic of hidden meaning, study in solitude,
+    compose hymns, and gather for doctrinal discourse.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: predecessor authors and school heads
+  assigned_to:
+  - fig:2
+  basis: They are described as ancient authors formerly heading the school whose works
+    model the community's allegorical method.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient of hymns
+  assigned_to:
+  - fig:4
+  basis: The community composes songs and hymns to God.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: senior doctrinal teacher
+  assigned_to:
+  - fig:3
+  basis: He is the senior most skilled in the doctrines and gives the assembly discourse
+    explaining meaning.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: literal wording as symbol of hidden nature
+  literal_form: words of the literal meaning
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: six-day and seventh-day cycle
+  literal_form: six days in solitude followed by every seventh day assembly
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: prescribed hand posture
+  literal_form: palms downward; right hand between breast and chin; left hand by the
+    side
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: monastery of solitude
+  literal_form: the place called a 'monastery' where each remains apart
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Allegorical interpretation and devotional composition
+  summary: The community treats literal words as symbolic of hidden meaning, follows
+    earlier allegorical models, and composes songs and hymns to God.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Six days of solitary study
+  summary: Each member spends six consecutive days alone in a monastery, studying
+    without leaving or looking outside.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Seventh-day ordered assembly and discourse
+  summary: On the seventh day the members gather, sit by length of membership in a
+    prescribed posture, and hear a senior doctrinal speaker explain meaning.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Hidden meaning disclosed through allegorical interpretation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that literal words are symbols of a hidden nature, that
+    earlier allegorical works are used as patterns, and that the senior discourse
+    explains precise meaning that reaches the soul.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage is descriptive rather than a mythic narrative; the taxonomy
+    link is to the broad wisdom/hidden-meaning pattern.
+- id: motif:2
+  label: Solitary contemplation followed by communal sacred instruction
+  taxonomy_refs: []
+  basis: Members spend six days alone in study and come together every seventh day
+    for an ordered assembly and doctrinal discourse.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No initiation rite is explicitly described, only a disciplined communal
+    pattern.
+- id: motif:3
+  label: Hymnic praise as contemplative practice
+  taxonomy_refs: []
+  basis: The passage says the community composes songs and hymns to God in various
+    metres and melodies.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not give the content of the hymns.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents the community's allegorical practice as modeled
+    on works of ancient former heads of the same school, indicating functional continuity
+    with predecessor models.
+  claim_level: same_function
+  target: allegorical method of ancient former heads of the school
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives no titles, names, or detailed contents of the predecessor
+    works.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7804-7807
+  quote_or_summary: The passage says that literal words are regarded as "symbols of
+    a hidden nature" made plain by an under-meaning.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7808-7819
+  quote_or_summary: The community has works by ancient former heads of the school,
+    described as monuments of the allegorical method, and takes them as patterns to
+    imitate predecessors.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7820-7824
+  quote_or_summary: The community does not only contemplate but composes songs and
+    hymns to God in various metres and melodies.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7825-7831
+  quote_or_summary: For six days each member remains alone in a place called a monastery,
+    studying and not going outside or looking out a window.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7832-7838
+  quote_or_summary: Every seventh day the members gather in a general assembly, sit
+    by age or length of membership, and assume a prescribed hand posture.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 7839-7847
+  quote_or_summary: The senior most skilled in the doctrines comes forward and gives
+    a reasoned discourse, explaining precise meaning so that it reaches the soul rather
+    than merely the ears.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong because the passage is descriptive. Motif classification
+    is more tentative because the passage is not a mythic narrative and contains mostly
+    communal practice and interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs are directly present in the passage; symbol entries therefore use empty taxonomy_refs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:gnostic-mead-fragments-of-a-faith-forgotten-archive__l7804-l7847
+  passage_sha256=5c28a9f5f5aac7bc11209b3332825e28fd084756f44a6bc27bc2d1d5724b5f1b
+

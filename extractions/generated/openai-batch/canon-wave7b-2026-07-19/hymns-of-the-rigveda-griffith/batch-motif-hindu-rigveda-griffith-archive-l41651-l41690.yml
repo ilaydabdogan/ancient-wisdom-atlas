@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l41651-l41690
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: BOOK THE SIXTH. / HYMN 384 HE RIGVEDA. 597 / HYMN 48.) PHE RIGVEDA, 618 /
+    HYMN 67. THE RIQVEDA. 680; lines 41651-41690
+  start: '41651'
+  end: '41690'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Ye slew the flood-obstructing serpent Vritra, Indra and Soma
+  summary: The passage praises Indra and Soma for slaying Vritra, moving rivers and
+    filling seas with waters, placing ripe milk in the udders of cows, and bestowing
+    wealth and battle strength. It then begins a hymn to Brihaspati, who is served
+    with oblations and described as first-born, mountain-render, Angiras' son, holy,
+    dwelling in light, a father, and roaring like a bull to Earth and Heaven. Notes
+    explain the milk imagery and related phrasing.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Indra and Soma are said to have slain Vritra, described as a flood-obstructing
+    serpent, and Heaven is said to have approved the exploit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Indra and Soma are said to have sped the currents of the rivers and filled
+    many seas with waters.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Indra and Soma are said to have set ripe milk in the unripe udders of milch-kine
+    and to have held an unimpeded whiteness within many-coloured moving creatures.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: obs:4
+  text: Indra and Soma are said to bestow wealth for descendants and to invest men
+    with battle-conquering strength.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Brihaspati is served with oblations and described as first-born, mountain-render,
+    Angiras' son, holy, having a twice-firm path, dwelling in light, and as a father.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Brihaspati is said to roar loudly like a bull to Earth and Heaven.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The note explains the milk imagery by contrasting raw udders with warm or
+    matured milk and by identifying the unimpeded whiteness with milk that is not
+    prevented from flowing.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: A named divine figure addressed with Soma as slayer of Vritra, mover
+    of waters, placer of milk, and giver of wealth and strength.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Soma
+  description: A named divine figure addressed with Indra as slayer of Vritra, mover
+    of waters, placer of milk, and giver of wealth and strength.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Vritra
+  description: A flood-obstructing serpent slain by Indra and Soma.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Brihaspati
+  description: A named holy figure served with oblations and described as first-born,
+    mountain-render, Angiras' son, dwelling in light, a father, and roaring like a
+    bull to Earth and Heaven.
+  role_refs:
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: serpent-slaying divine pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Indra and Soma are directly credited with slaying the flood-obstructing serpent
+    Vritra.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: movers and replenishers of waters
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says they sped river currents and filled many seas with waters.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: bestowers of wealth and battle strength
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says they bestow wealth and invest men with strength that conquers
+    in battle.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: flood-obstructing serpent
+  assigned_to:
+  - fig:3
+  basis: Vritra is explicitly described as the flood-obstructing serpent.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: oblation-served holy figure
+  assigned_to:
+  - fig:4
+  basis: Brihaspati is introduced as served with oblations and called holy.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: mountain-render
+  assigned_to:
+  - fig:4
+  basis: The epithet mountain-render is applied to Brihaspati.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: father figure
+  assigned_to:
+  - fig:4
+  basis: The passage calls Brihaspati our Father.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: The flood-obstructing serpent Vritra.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: waters, rivers, and seas
+  literal_form: River currents, many seas, and waters that are sped or filled by Indra
+    and Soma.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: milk and whiteness
+  literal_form: Ripe milk in unripe udders and the unimpeded whiteness within many-coloured
+    moving creatures.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:4
+  label: mountain
+  literal_form: The epithet mountain-render applied to Brihaspati.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: oblations
+  literal_form: Oblations with which Brihaspati is served.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: light
+  literal_form: Brihaspati is described as dwelling in light.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: bull-roar image
+  literal_form: Brihaspati roars loudly like a bull.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Vritra slain and waters set in motion
+  summary: Indra and Soma slay the flood-obstructing serpent Vritra; the passage then
+    credits them with speeding rivers and filling seas with waters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Milk, wealth, and strength bestowed
+  summary: Indra and Soma place ripe milk in cows, hold whiteness within living creatures,
+    bestow wealth for descendants, and give men battle strength.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: scene:3
+  label: Brihaspati praised with oblations
+  summary: A hymn to Brihaspati opens by describing him as served with oblations,
+    first-born, mountain-render, Angiras' son, holy, dwelling in light, a father,
+    and roaring like a bull to Earth and Heaven.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine slaying of a flood-obstructing serpent
+  taxonomy_refs:
+  - serpent
+  basis: The passage explicitly states that Indra and Soma slew Vritra, called the
+    flood-obstructing serpent.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This label is limited to the passage's explicit serpent-combat statement
+    and does not assert an external comparative lineage.
+- id: motif:2
+  label: Waters released or set in motion after serpent combat
+  taxonomy_refs: []
+  basis: The serpent is called flood-obstructing, and the following lines credit Indra
+    and Soma with speeding river currents and filling seas with waters.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage pairs the serpent's obstruction with movement of waters, but
+    it does not narrate the mechanics of release in detail.
+- id: motif:3
+  label: Divine placement of milk in cattle
+  taxonomy_refs: []
+  basis: Indra and Soma are said to place ripe milk in unripe udders, with the note
+    identifying the whiteness as flowing milk.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The motif label describes a fertility or provision image, but the passage
+    does not explicitly name it as a ritual or cosmogonic act.
+- id: motif:4
+  label: Ritual service of a deity with oblations
+  taxonomy_refs:
+  - sacrifice
+  basis: Brihaspati is introduced as being served with oblations.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only the presence of oblations is stated; the passage does not provide
+    a full sacrificial sequence.
+- id: motif:5
+  label: Mountain-rending divine epithet
+  taxonomy_refs: []
+  basis: Brihaspati is described with the epithet mountain-render.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage gives the epithet but does not narrate a mountain-rending
+    action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 41651-41653
+  quote_or_summary: '"Ye slew the flood-obstructing serpent Vritra, Indra and Soma:
+    / Heaven approved your exploit."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 41654-41656
+  quote_or_summary: '"Ye urged to speed the currents of the rivers, and many seas
+    / have ye filled full with waters,"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 41657-41661
+  quote_or_summary: '"Yein the unripe udders of the milch-kine have set the ripe /
+    milk, Indra, thou, and Soma. / Ye have held fast the unimpeded whiteness within
+    these manycoloured moving creatures."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 41662-41666
+  quote_or_summary: '"Verily ye bestow, Indra and Soma, wealth, famed, victorious,
+    / passing to our children. / Ye have invested men, ye Mighty Beings, with manly
+    strength / that couquers in the battle."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 41667-41672
+  quote_or_summary: '"SERVED with oblations,. first-born, mountain-render, Angiray’
+    / son, Brihaspati, the Holy, / With twice-firm path, dwelling in light, our Father"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: 41672-41674
+  quote_or_summary: '"roars / loudly, as a bull, to Earth and Heaven."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: note
+  locator: 41684-41690
+  quote_or_summary: The note explains that the unripe or raw udders are contrasted
+    with warm, cooked, or matured milk; it also identifies the unimpeded whiteness
+    as milk not prevented from flowing and contrasts milk with the cows' colours.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; commentary summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main mythic elements are clear, but the supplied excerpt contains OCR
+    noise, broken lines, and truncated commentary, so detailed interpretation should
+    be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were asserted because the passage itself does not provide explicit comparative framing.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l41651-l41690
+  passage_sha256=f51f3cf3aef93ec4ad70580b1deb2b82b17a6f127eeb1bf5791b5ea3c8ac4fb6
+

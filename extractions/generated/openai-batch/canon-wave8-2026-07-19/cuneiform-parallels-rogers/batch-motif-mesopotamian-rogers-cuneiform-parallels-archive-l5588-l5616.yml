@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l5588-l5616
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: TABLET NO. 3 / THE MYTH OF ADAPA / TABLET / TABLET XO. 3; lines 5588-5616
+  start: '5588'
+  end: '5616'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a predicted question-and-answer about Adapa appearing
+    in a mourning garment, names Tammuz and Gishzida as the two gods who have vanished,
+    and instructs Adapa to go before King Anu, ascend to heaven, and approach Anu's
+    door where Tammuz and Gishzida stand.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Adapa is described as appearing in a mourning garment.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A question asks for whose sake Adapa appears that way and for whom he is clad
+    in mourning.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The reply states that two gods have vanished in the country or land.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The two gods are named as Tammuz and Gishzida.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Adapa is told that he shall go before Anu, who is identified as king.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Adapa is told not to fail the order and to keep the speaker's word.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Adapa is described as coming up to heaven and approaching the door of Anu.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Tammuz and Gishzida are described as standing at the door of Anu.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Adapa
+  description: Addressed figure who appears in a mourning garment and is instructed
+    to go before Anu and come up to heaven.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Anu
+  description: Identified as king; Adapa is to go before him, and the passage refers
+    to his door in heaven.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Tammuz
+  description: Named as one of the two gods who have vanished and as standing at the
+    door of Anu.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Gishzida
+  description: Named as one of the two gods who have vanished and as standing at the
+    door of Anu.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: mourning-clad figure
+  assigned_to:
+  - fig:1
+  basis: Adapa is said to appear clad in a mourning garment.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine king
+  assigned_to:
+  - fig:2
+  basis: Anu is called king, and Adapa is to go before him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: gods named as vanished
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The reply names Tammuz and Gishzida as the two gods who have vanished.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: gods at Anu's door
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Tammuz and Gishzida are described as standing at the door of Anu.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: heavenly visitor to Anu
+  assigned_to:
+  - fig:1
+  basis: Adapa is told to go before Anu, come up to heaven, and approach Anu's door.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: mourning garment
+  literal_form: garment of mourning worn by Adapa
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: door of Anu
+  literal_form: door of Anu in heaven
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: heaven
+  literal_form: heaven as the place Adapa comes up to
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: two vanished gods
+  literal_form: two gods, Tammuz and Gishzida, said to have vanished
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Question about Adapa's mourning garment
+  summary: Adapa is expected to be asked why he appears in a mourning garment, and
+    the reply states that two gods, Tammuz and Gishzida, have vanished.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Approach to Anu in heaven
+  summary: Adapa is told to go before King Anu, keep the order, come up to heaven,
+    and approach Anu's door where Tammuz and Gishzida stand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ascent to heavenly divine audience
+  taxonomy_refs:
+  - ascent
+  basis: Adapa is told to go before King Anu and to come up to heaven toward Anu's
+    door.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt gives the instruction and threshold setting, but not the outcome
+    of the audience.
+- id: motif:2
+  label: mourning for vanished gods
+  taxonomy_refs: []
+  basis: Adapa's mourning garment is explained by the statement that two gods, Tammuz
+    and Gishzida, have vanished.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage says the gods have vanished, but this excerpt does not narrate
+    their disappearance or return.
+- id: motif:3
+  label: divine threshold encounter
+  taxonomy_refs: []
+  basis: The passage places Tammuz and Gishzida at the door of Anu as Adapa approaches
+    heaven, and the surrounding speech anticipates questioning at this encounter.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The text is fragmentary, and the passage does not explicitly call the
+    figures guards or gatekeepers.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports comparison with an ascent motif family because Adapa
+    is told to come up to heaven and go before Anu.
+  claim_level: same_motif
+  target: ascent
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the ascent instruction and divine threshold are present in this
+    excerpt; the larger narrative outcome is not included.
+- id: claim:2
+  claim: The door-of-Anu episode supports a cautious same-function comparison to a
+    divine threshold encounter pattern, with named divine figures stationed at the
+    entrance Adapa approaches.
+  claim_level: same_function
+  target: divine threshold encounter pattern
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt is fragmentary and does not explicitly identify Tammuz
+    and Gishzida as guards or define the function of the doorway beyond their standing
+    there.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5588-5598
+  quote_or_summary: Adapa is expected to be questioned about appearing in a mourning
+    garment; the reply explains that two gods have vanished and names them as Tammuz
+    and Gishzida.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 5599-5608
+  quote_or_summary: Adapa is told that he shall go before King Anu and must not fail
+    the order but keep the speaker's word.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 5609-5616
+  quote_or_summary: Adapa is described as coming up to heaven and approaching the
+    door of Anu, where Tammuz and Gishzida are standing.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is limited by the fragmentary tablet formatting and pronoun
+    ambiguity, but the named figures, mourning garment, ascent to heaven, and door
+    of Anu are explicit in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy references are directly supported by this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l5588-l5616
+  passage_sha256=3abf597937af7139597e57640340c58dbcfa6696955a839d656d438c93a789c9
+

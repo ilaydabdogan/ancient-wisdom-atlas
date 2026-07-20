@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.georgian-man-in-the-panthers-skin-wardrop-archive-l15687-l15736
+source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+passage_locator:
+  label: XXXVIII / XXXIX / Marebi, guide or travelling companion. 5 683, 1455. / XLVII;
+    lines 15687-15736
+  start: '15687'
+  end: '15736'
+  translation: The Man in the Panther's Skin
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reflects on the untrustworthiness and brevity of the world,
+    personifies Fate as insulting and deceptive, and says it is best if one is not
+    deceived by Fate and is happy in both worlds. It then names earlier poets and
+    the figures they praised, ending with Rust'haveli praising Tariel with unceasing
+    tears.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The world is described as untrustworthy and extremely brief, like a moment
+    or the blinking of eyelashes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fate is described as insulting and as capable of deceiving people.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says it is better for a person not deceived by Fate to be happy
+    in both worlds.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Mose Khoneli is said to have praised Amiran, son of Daredjan.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Shavt'heli is said to have praised Abdul-Mesia, and Sargis T'hmogveli is said
+    to have praised Dilarget'h.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Rust'haveli is said to have praised Tariel while his tear flows unceasingly.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Fate
+  description: A personified force described as an insulter and deceiver.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mose Khoneli
+  description: A poet said to have praised Amiran, son of Daredjan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Amiran, son of Daredjan
+  description: The figure praised by Mose Khoneli.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Shavt'heli
+  description: A poet whose poem is said to have been admired, and who praised Abdul-Mesia.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Abdul-Mesia
+  description: The figure praised by Shavt'heli.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Sargis T'hmogveli
+  description: A poet described as unwearying-tongued, who praised Dilarget'h.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Dilarget'h
+  description: The figure praised by Sargis T'hmogveli.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Rust'haveli
+  description: The poet who praised Tariel and whose tear for him flows unceasingly.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Tariel
+  description: The figure praised by Rust'haveli.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: personified deceiver
+  assigned_to:
+  - fig:1
+  basis: Fate is described as an insulter and as deceiving people.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: praising poet
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:8
+  basis: Each named poet is paired with a figure he praised.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: praised figure
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:7
+  - fig:9
+  basis: Each named figure is identified as the subject of a poet's praise.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: lamenting admirer
+  assigned_to:
+  - fig:8
+  basis: Rust'haveli is associated with an unceasing tear for Tariel.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: blink-long world
+  literal_form: The world as a moment or the blinking of eyelashes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: both worlds
+  literal_form: The phrase "both worlds" as the desired sphere of happiness for one
+    not deceived by Fate.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: unceasing tear
+  literal_form: Rust'haveli's tear for Tariel flowing without ceasing.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Reflection on the world and Fate
+  summary: The passage presents the world as fleeting and unreliable, describes Fate
+    as insulting and deceptive, and says that not being deceived by Fate allows happiness
+    in both worlds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Catalogue of poets and praised figures
+  summary: The passage lists poets and the figures they praised, culminating in Rust'haveli's
+    praise of Tariel and continual weeping for him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: transience and unreliability of the world
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that the world cannot be trusted and is as brief as the
+    blinking of eyelashes.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is a moral reflection rather
+    than a narrative episode.
+- id: motif:2
+  label: personified deceptive Fate
+  taxonomy_refs: []
+  basis: Fate is described as an insulter and as deceiving people.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage personifies Fate rhetorically; it does not narrate Fate acting
+    as a character in an event.
+- id: motif:3
+  label: poetic catalogue of praised heroes or subjects
+  taxonomy_refs: []
+  basis: The passage links named poets with named figures they praised, placing Rust'haveli
+    and Tariel in that sequence.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives literary comparison and praise, not a full mythic action
+    sequence.
+- id: motif:4
+  label: lamenting praise of the hero
+  taxonomy_refs: []
+  basis: Rust'haveli's praise of Tariel is linked with an unceasing tear.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only a brief statement of tearful praise is given; the larger cause of
+    lament is outside this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage places Rust'haveli's praise of Tariel in the same literary function
+    as earlier Georgian poets' praise of Amiran, Abdul-Mesia, and Dilarget'h.
+  claim_level: same_function
+  target: Georgian poetic praise tradition named in the passage
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the explicit catalogue in this passage and
+    does not establish historical influence beyond the named sequence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15687-15736, stanza 1575
+  quote_or_summary: The world is said to be untrustworthy and brief as a blink; Fate
+    is called insulting and deceptive; happiness in both worlds is preferred for one
+    not deceived by Fate.
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain translation; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 15687-15736, stanza 1576
+  quote_or_summary: Mose Khoneli praised Amiran son of Daredjan; Shavt'heli praised
+    Abdul-Mesia; Sargis T'hmogveli praised Dilarget'h; Rust'haveli praised Tariel
+    with an unceasing tear.
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain translation; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extract is short and includes editorial notes; motif identification is
+    based mainly on two translated stanzas within the supplied line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy entries are directly present in the passage; symbol taxonomy references were therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:georgian-man-in-the-panthers-skin-wardrop-archive__l15687-l15736
+  passage_sha256=9b845dee302aedc317c66ee674b9d56e9a3b8adf0acd01041daa54ce24e16d65
+

@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l13271-l13325
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: CANTO XLIX. / THE BEYELOPEMENT OF MANKIND. / CANTO XLIX. / THE DEVELOPEMENT
+    OP MANKIND.; lines 13271-13325
+  start: '13271'
+  end: '13325'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes early people building houses in imitation of tree
+    branches, the ruin and loss of kalpa trees and honey, distress from hunger and
+    thirst, the manifestation of rain, rivers, and vegetation in the Treta age, and
+    the later taking-possession of natural resources through passion and covetousness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: People built houses while remembering trees as their first kind of dwellings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The houses were fashioned with branches arranged like the differing directions
+    of tree branches, and the former kalpa-tree branches became rooms.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The people ruined the trees through strife, and the kalpa trees and honey
+    perished.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the loss of the trees and honey, the people suffered thirst and hunger.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the beginning of the Treta age, desired rain is said to accomplish their
+    livelihood-related business.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The waters of the rain are identified with rivers that flow on earth, becoming
+    deeper flowing channels.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Plants came into existence through the union of waters with the earth, including
+    fourteen kinds and both cultivated and wild growths.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Trees and shrubs bearing flowers and fruit in their seasons were produced,
+    and people subsisted on that vegetation in the Treta age.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The people, lapsing into passion and covetousness, took possession of rivers,
+    fields, mountains, trees, shrubs, and plants according to might.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: early people
+  description: The people who build houses, suffer thirst and hunger, subsist on vegetation,
+    and later take possession of natural resources.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: house builders
+  assigned_to:
+  - fig:1
+  basis: They build houses in remembrance of trees as earlier dwellings.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: vegetation-dependent subsisters
+  assigned_to:
+  - fig:1
+  basis: They suffer after the loss of kalpa trees and honey, then subsist on vegetation
+    in the Treta age.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: possessors of natural resources
+  assigned_to:
+  - fig:1
+  basis: They take possession of rivers, fields, mountains, trees, shrubs, and plants
+    according to might.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: kalpa trees and trees
+  literal_form: trees, including kalpa trees, whose branches are associated with early
+    dwellings and houses
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: rain waters and rivers
+  literal_form: desired rain, waters, and rivers that become deep flowing channels
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: vegetation
+  literal_form: plants, trees, and shrubs bearing flowers and fruit in season
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mountains
+  literal_form: mountains listed among resources taken into possession
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Houses modeled on tree dwellings
+  summary: People remember trees as their first dwellings and build houses whose branch-like
+    parts become rooms.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Loss of kalpa trees and distress
+  summary: Strife ruins the trees; the kalpa trees and honey perish, and the people
+    suffer from thirst and hunger.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rain, rivers, and vegetation in the Treta age
+  summary: At the beginning of the Treta age, desired rain appears; its waters are
+    connected with rivers, and plants arise through union with earth, becoming the
+    people's subsistence.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Possession of natural resources
+  summary: The people fall into passion and covetousness and take possession of rivers,
+    fields, mountains, trees, shrubs, and plants according to might.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: transition from tree-dwelling to built houses
+  taxonomy_refs: []
+  basis: The passage explicitly says trees were the first houses and that later houses
+    were fashioned in remembrance of tree branches.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the passage describes
+    architectural imitation rather than an explicit sacred-tree or world-axis pattern.
+- id: motif:2
+  label: loss of primordial abundance followed by hunger and thirst
+  taxonomy_refs: []
+  basis: The kalpa trees and honey perish after strife, and the people become distressed
+    by thirst and hunger.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a decline in subsistence conditions, but it does not
+    explicitly frame this as punishment or cosmic catastrophe.
+- id: motif:3
+  label: rain-generated rivers and vegetation as new subsistence
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Rain appears at the beginning of the Treta age; rivers flow, vegetation appears,
+    and trees and shrubs bear flowers and fruit in their seasons for people to subsist
+    on.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The seasonal-cycle taxonomy is supported only by the reference to flowers
+    and fruit appearing in their seasons; the main emphasis is the emergence of vegetation
+    and subsistence.
+- id: motif:4
+  label: covetous appropriation of natural resources
+  taxonomy_refs: []
+  basis: The passage states that people lapse into passion and covetousness and take
+    possession of rivers, fields, mountains, trees, shrubs, and plants according to
+    might.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify a named transgressor or divine response
+    within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13271-13282; verses 52-54
+  quote_or_summary: People build houses remembering trees as their first dwellings;
+    branches arranged in different directions become the model for rooms in houses.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 13283-13289; verses 55-56
+  quote_or_summary: The people ruin the trees through strife; when the kalpa trees
+    and honey have perished, they suffer thirst and hunger.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 13289-13298; verses 57-58
+  quote_or_summary: At the beginning of the Treta age, rain according to desire manifests;
+    the waters of rain are associated with rivers that become deep flowing channels.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 13299-13308; verses 59-61
+  quote_or_summary: Plants arise through union with the earth, including fourteen
+    kinds, cultivated and wild; trees and shrubs bear flowers and fruit in season,
+    and people subsist on the vegetation.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 13309-13312; verse 62
+  quote_or_summary: The people fall into passion and covetousness and take possession
+    of rivers, fields, mountains, trees, shrubs, and plants according to might.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for house-building, resource loss, rain, rivers,
+    vegetation, and possession of resources. Motif labels are descriptive and mostly
+    non-taxonomic; one seasonal-cycle reference is tentative. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage includes translator/editorial footnotes in the supplied text; extraction uses only the narrative content of the excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l13271-l13325
+  passage_sha256=7b7310678c64cf748938abdfdd5693ef192f625b13bf797ed192ca5ef2d9e9bd
+

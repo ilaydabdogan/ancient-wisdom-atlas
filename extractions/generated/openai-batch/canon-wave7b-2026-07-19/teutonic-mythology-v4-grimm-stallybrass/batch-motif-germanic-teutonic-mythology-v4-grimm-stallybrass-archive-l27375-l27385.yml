@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l27375-l27385
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SUPERSTITIONS.      I.  1803 / SUPERSTITIONS.      I.  1805 / VOL.    IV.  M    M
+    / SUPERSTITIONS.       I.  1807; lines 27375-27385
+  start: '27375'
+  end: '27385'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists four numbered superstitions: water drawn downstream
+    in silence before sunrise on Easter Sunday is said not to spoil and to be broadly
+    useful; bathing at the same day and hour is said to help scurf and other complaints;
+    a new maidservant who finds the house fire present and stirs it on arrival is
+    expected to remain long; and in house-building, the master should strike the first
+    axe blow, with sparks predicting that the house will burn down.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Water must be drawn downstream, in silence, before sunrise on Easter Sunday
+    for the stated effect.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Water drawn under those conditions is said not to spoil and to be useful for
+    anything.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bathing on the same day and at the same hour is said to help scurf and other
+    complaints.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A newly arrived maidservant who sees that the house fire is present and stirs
+    it up is expected to stay long in the place.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When building a house, the master is instructed to make the first stroke of
+    the axe.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If sparks fly out from the first axe stroke, the house is predicted to burn
+    down.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: new maidservant
+  description: A maidservant newly entering the house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: master of the house
+  description: The master associated with a house being built.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: newly arrived domestic servant
+  assigned_to:
+  - fig:1
+  basis: The passage specifies a new maidservant at the moment she is in the house.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: house master initiating construction
+  assigned_to:
+  - fig:2
+  basis: The passage states that the master of the house should deal the first stroke
+    of the axe in building it.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ritually drawn water
+  literal_form: Water drawn downstream, in silence, before sunrise on Easter Sunday;
+    bathing at the same day and hour is also mentioned.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: house fire
+  literal_form: Fire already present in the house and stirred up by the maidservant.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: first axe stroke and sparks
+  literal_form: The first stroke of the axe in house-building, with sparks flying
+    out as an omen.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: house
+  literal_form: A house being entered by a maidservant and a house being built by
+    its master.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Easter water drawing
+  summary: Water drawn downstream in silence before sunrise on Easter Sunday is assigned
+    preservative and general beneficial properties.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Easter bathing cure
+  summary: Bathing at the same Easter day and hour is described as beneficial for
+    scurf and other complaints.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Maidservant and house fire omen
+  summary: A newly arrived maidservant who finds the fire in and stirs it is expected
+    to remain in the household for a long time.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: House-building spark omen
+  summary: The master makes the first axe stroke in building a house; sparks from
+    that stroke predict the house will burn down.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Ritually timed water that does not spoil and is broadly efficacious
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The water must be drawn in silence, downstream, before sunrise on Easter
+    Sunday, and is said not to spoil and to be good for anything.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The seasonal_cycle taxonomy link is broad; the passage specifies Easter
+    Sunday and sunrise but does not explain a seasonal framework.
+- id: motif:2
+  label: Healing bath at a specified sacred time
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Bathing on Easter Sunday before sunrise is said to help scurf and other complaints.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives the timing and healing claim but no surrounding ritual
+    explanation.
+- id: motif:3
+  label: Domestic fire as omen of a servant's lasting stay
+  taxonomy_refs: []
+  basis: A new maidservant who sees and stirs the house fire on arrival is said to
+    remain long in the place.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available motif-family taxonomy reference exactly matches this domestic
+    omen.
+- id: motif:4
+  label: Sparks from first construction stroke predict future house fire
+  taxonomy_refs: []
+  basis: In building a house, sparks from the master's first axe stroke are interpreted
+    as predicting that the house will burn down.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available motif-family taxonomy reference exactly matches this construction
+    omen.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 27375-27376
+  quote_or_summary: Item 775 says water drawn downstream and in silence before sunrise
+    on Easter Sunday does not spoil and is good for anything.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 27378-27379
+  quote_or_summary: Item 776 says bathing on the same day and hour is good for scurf
+    and other complaints.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 27381-27382
+  quote_or_summary: Item 777 says a new maidservant who finds the fire in and stirs
+    it up on entering the house will stay long in the place.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 27384-27385
+  quote_or_summary: Item 778 says the master should deal the first stroke of the axe
+    in house-building, and sparks from it predict that the house will burn down.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The four numbered superstitions are concise and clear. Motif labels are descriptive
+    rather than tied strongly to a comparative taxonomy. No comparison claims were
+    made because the supplied passage does not itself compare these items to another
+    tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR irregularities in the supplied text were normalized in summaries; no additional sources were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l27375-l27385
+  passage_sha256=f247f82df6bd26c17c33c2096f95eb1af2d69670aa99f490fc67570f6a5c70ea
+

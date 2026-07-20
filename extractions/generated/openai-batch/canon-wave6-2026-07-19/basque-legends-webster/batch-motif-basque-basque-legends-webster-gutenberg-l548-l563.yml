@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l548-l563
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: CONTENTS. / INTRODUCTION. / I.--LEGENDS OF THE TARTARO. / THE TARTARO.; lines
+    548-563
+  start: '548'
+  end: '563'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"Thou there, and I here."'
+  summary: A king's son, punished by being made a monster, can become a man again
+    only by marrying. A frightened girl refuses him and later receives his ring through
+    a young man. The ring on her finger repeatedly calls out, and the Tartaro pursues
+    her. She cuts off the finger bearing the ring, throws finger and ring into a large
+    pond, and the Tartaro drowns himself there.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A king's son became a monster as punishment for an unspecified fault.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated condition for the monster to become a man again was marriage.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A young girl refused him because she was frightened of him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Tartaro tried to give the young girl a ring; when she would not accept
+    it, he sent it to her by a young man.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the ring was on the girl's finger, it repeatedly said, "Thou there, and
+    I here."
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Tartaro pursued the girl continually while the ring kept crying out.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Because she was horrified by the Tartaro, the girl cut off her finger together
+    with the ring and threw them into a large pond.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Tartaro drowned himself in the pond.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Tartaro / king's son
+  description: A king's son who was punished by becoming a monster; he seeks marriage
+    as the condition for becoming a man again, sends a ring to the girl, pursues her,
+    and drowns himself in the pond.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: young girl
+  description: A girl who refuses the Tartaro out of fear, receives the ring on her
+    finger, is pursued, cuts off her finger and ring, and throws them into a pond.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: young man
+  description: A young man who carries the Tartaro's ring to the girl.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: royal son
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the monster as the son of a king.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: punished monster
+  assigned_to:
+  - fig:1
+  basis: He became a monster as punishment for a fault.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: would-be husband and pursuer
+  assigned_to:
+  - fig:1
+  basis: He can become a man again only by marrying, tries to give the girl a ring,
+    and pursues her continually.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: frightened refuser
+  assigned_to:
+  - fig:2
+  basis: The girl refuses him because she is frightened of him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: ring-bearer and pursued figure
+  assigned_to:
+  - fig:2
+  basis: The ring is placed on her finger and the Tartaro pursues her.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: ring messenger
+  assigned_to:
+  - fig:3
+  basis: The Tartaro sends the ring to the girl by a young man.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: speaking ring
+  literal_form: A ring that, once on the girl's finger, repeatedly says, "Thou there,
+    and I here."
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: severed finger with ring
+  literal_form: The girl's cut-off finger together with the ring, thrown into a large
+    pond.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: large pond
+  literal_form: A large pond into which the girl throws the finger and ring, and in
+    which the Tartaro drowns himself.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Punished transformation and marriage condition
+  summary: A king's son has become a monster because of a fault and can become a man
+    again only by marrying.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Refusal and ring delivery
+  summary: The girl refuses the Tartaro out of fear; he tries to give her a ring and
+    then sends it by a young man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Speaking ring and pursuit
+  summary: The ring on the girl's finger repeatedly calls out, and the Tartaro continually
+    pursues her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Finger cut off and drowning in pond
+  summary: The girl cuts off the finger bearing the ring and throws both into a pond,
+    where the Tartaro drowns himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Monster bridegroom restored only through marriage
+  taxonomy_refs:
+  - shapeshifter
+  basis: The king's son has been changed into a monster and can become a man again
+    only by marrying.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage describes punishment and possible restoration to human form,
+    not voluntary or repeated shapeshifting; the taxonomy link is approximate.
+- id: motif:2
+  label: Magic ring revealing or calling the bearer's location
+  taxonomy_refs: []
+  basis: After the ring is on the girl's finger, it repeatedly says, "Thou there,
+    and I here," while the Tartaro pursues her.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain how the ring's speech works beyond its repeated
+    utterance.
+- id: motif:3
+  label: Escape by removing a body-attached enchanted object
+  taxonomy_refs: []
+  basis: The girl cuts off the finger bearing the ring and throws finger and ring
+    into the pond after the ring has been crying out and the Tartaro has been pursuing
+    her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The text implies a connection between removing the ring and the outcome,
+    but does not explicitly state that the act stops the ring or directly causes the
+    Tartaro to enter the pond.
+- id: motif:4
+  label: Pursuer destroyed in water after cast-away object
+  taxonomy_refs: []
+  basis: The girl throws the severed finger and ring into a large pond, and the Tartaro
+    drowns himself there.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the sequence but not the Tartaro's motive for drowning
+    himself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 550-553
+  quote_or_summary: A king's son became a monster as punishment for a fault and could
+    become a man again only by marrying.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 553-556
+  quote_or_summary: A frightened young girl refused him; the Tartaro wanted to give
+    her a ring, and when she did not accept it, he sent it by a young man.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 556-559
+  quote_or_summary: When the ring was on her finger it said, "Thou there, and I here,"
+    and the Tartaro pursued her continually.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 559-562
+  quote_or_summary: The girl cut off her finger and the ring, threw them into a large
+    pond, and the Tartaro drowned himself there.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The narrative sequence is short and explicit. Motif labels involving transformation
+    and escape are interpretive and should be reviewed. No comparison claims are made
+    because the passage itself provides no explicit comparative frame beyond the local
+    Tartaro designation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Attribution line names Estefanella Hirigarray of Ahetze as the teller/source, but no separate motif element was extracted from it.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l548-l563
+  passage_sha256=b71d78a69c0dd8e1c10ea8bde70d6406e20f7d84a03f99eec8b5d662d7ed3731
+

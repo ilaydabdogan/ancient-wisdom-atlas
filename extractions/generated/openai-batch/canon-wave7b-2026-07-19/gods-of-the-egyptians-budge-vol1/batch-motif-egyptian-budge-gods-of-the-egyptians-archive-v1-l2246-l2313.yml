@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l2246-l2313
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: SLAYEK AND EATER OF THE GODS / SLAYER AND EATER OF THE GODS / AAAAAA AAAAAA
+    / SLAYER AND EATER OF THE GODS; lines 2246-2313
+  start: '2246'
+  end: '2313'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: SLAYER AND EATER OF THE GODS
+  summary: The passage gives an English translation with Egyptian transliteration.
+    It describes beings called gods or lords being snared, driven, bound, and slaughtered
+    for Unas. Khensu is called the slaughterer of lords; he cuts their throats, removes
+    what is in their bellies, and is described as a messenger sent to drive them.
+  language: English with Egyptian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed “SLAYER AND EATER OF THE GODS.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The opening translated sentence says that a being connected with making Am-kehuu
+    bow has snared them or their foreheads for Unas.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Tcheser-tep-f is said to have known them and driven them to him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Her-thertu is said to have bound them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Khensu is called “the slaughterer of lords.”
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Khensu is said to have cut their throats for Unas.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Khensu is said to have torn out what is in their belly.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Khensu is described as a messenger sent to drive them.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A note in the passage states that “this creature” is mentioned in the Negative
+    Confession, though the referent is unclear in the supplied OCR text.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Unas
+  description: Named royal figure for whom the snaring and slaughter are performed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Am-hehuu / Am-kehuu
+  description: Name appearing in the opening snaring statement; the supplied text
+    gives both Am-hehuu and Am-kehuu in adjacent transliteration/translation.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Tcheser-tep-f
+  description: Named figure who is said to have known them and driven them to him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Her-thertu
+  description: Named figure who is said to have bound them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Khensu
+  description: Named figure called the slaughterer of lords; he cuts throats, removes
+    belly contents, and is described as a messenger sent to drive them.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: the gods / lords / them
+  description: Collective victims referred to by the heading as gods and by the Khensu
+    line as lords; they are snared, driven, bound, and slaughtered.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: beneficiary or recipient
+  assigned_to:
+  - fig:1
+  basis: The snaring and throat-cutting are described as being done “for Unas.”
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: driver of victims
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: Tcheser-tep-f is said to have driven them, and Khensu is called a messenger
+    sent to drive them.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: binder of victims
+  assigned_to:
+  - fig:4
+  basis: Her-thertu is said to have bound them.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: slaughterer and messenger
+  assigned_to:
+  - fig:5
+  basis: Khensu is called the slaughterer of lords and the messenger sent to drive
+    them.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:5
+  label: divine or lordly victims
+  assigned_to:
+  - fig:6
+  basis: The heading identifies gods, and the translated line says Khensu cuts the
+    throats of lords.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: snare and binding
+  literal_form: snared foreheads; bound them
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: cut throats
+  literal_form: cut the throats
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: belly contents removed
+  literal_form: what is in their belly
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: messenger sent to drive
+  literal_form: the messenger whom he sent to drive them
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Capture and binding for Unas
+  summary: The victims are described as snared for Unas, driven, and bound by named
+    figures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Khensu slaughters the lords
+  summary: Khensu, called the slaughterer of lords, cuts the victims’ throats for
+    Unas and tears out what is in their bellies.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine or lordly victims captured and slaughtered for a royal figure
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage says the victims are snared, driven, bound, and have their throats
+    cut for Unas.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly use the word sacrifice; the taxonomy reference
+    is based on the throat-cutting being done for Unas.
+- id: motif:2
+  label: Slayer and eater of the gods
+  taxonomy_refs: []
+  basis: The heading names the theme as “SLAYER AND EATER OF THE GODS,” and the body
+    describes the slaughter of lords/gods.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The visible translated lines describe slaughter and removal of belly contents;
+    explicit eating appears only in the heading within the supplied excerpt.
+- id: motif:3
+  label: Divine messenger as enforcer against victims
+  taxonomy_refs: []
+  basis: Khensu is described as the messenger sent to drive the victims, in addition
+    to acting as slaughterer.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The sender is not clearly identified in the supplied excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The editor’s note links an unclear creature in this passage with a mention
+    in the Negative Confession.
+  claim_level: linguistic_similarity
+  target: Negative Confession / Chapters of Coming Forth by Day
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The supplied OCR is garbled, the creature is not clearly identified,
+    and the note gives only a cross-reference rather than a detailed motif comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2246-2313, heading
+  quote_or_summary: "“SLAYER AND EATER OF THE GODS”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 2246-2313, opening translated sentence
+  quote_or_summary: "“Beliold, he who maketh to bow Am-kehuu hath snared ... them
+    ... for Unas.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 2246-2313, Tcheser-tep-f sentence
+  quote_or_summary: "“Behold, Tcheser-tep-f hath known them ... [and] he hath driven
+    ... them [to him].”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 2246-2313, Her-thertu sentence
+  quote_or_summary: "“Behold, Her-thertu hath bound them”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: lines 2246-2313, Khensu slaughter line
+  quote_or_summary: "“Behold, Khensu the slaughterer of lords hath cut the throats
+    of them ... for Unas”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: quote
+  locator: lines 2246-2313, belly line
+  quote_or_summary: "“[and] he hath torn out what is in their belly.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: quote
+  locator: lines 2246-2313, messenger line
+  quote_or_summary: "“[for] he is the messenger [whom] he sent to drive [them].”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:8
+  type: quote
+  locator: lines 2246-2313, note
+  quote_or_summary: "“This creature is mentioned in the Negative Confessioa; see my
+    Chapters of Coming Forth hy Day, Text, p. 259, 1. 41”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt quoted; OCR spellings preserved.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The main actions are clear, but the passage is OCR-garbled and intermixes
+    transliteration, translation, and notes. Identification of Am-hehuu/Am-kehuu and
+    the note’s “creature” requires human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external identifications were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l2246-l2313
+  passage_sha256=565bbefec9981da6c590e4ba9fb81f171a327402df1c5d374e46619e4a2e31d5
+

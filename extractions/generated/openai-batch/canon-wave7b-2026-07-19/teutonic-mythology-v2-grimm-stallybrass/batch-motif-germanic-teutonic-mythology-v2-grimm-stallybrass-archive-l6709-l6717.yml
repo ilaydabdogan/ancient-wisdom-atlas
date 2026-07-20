@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l6709-l6717
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: VOL.    II.  K / CREATION.  569 / CREATION.  571 / CEEATION.  573; lines
+    6709-6717
+  start: '6709'
+  end: '6717'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports a Muhammadan legend, cited from Wolfgang Menzel, in
+    which Eve hides some of her many children from God; God distributes the goods
+    and honours of the earth to the children who come to him, while the hidden children
+    receive nothing and become ancestors of beggars and fakirs. The author notes lack
+    of authority for the legend, compares it with a sixteenth-century German drama,
+    doubts a supposed connection with an Old Norse fable, and notes a difference from
+    German accounts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage attributes the reported legend to Wolfgang Menzel's Mythologische
+    Forschungen, volume 1, page 40, and describes it as a Muhammadan legend.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eve is said to have had so many children that she was ashamed.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When surprised by God, Eve hid some of her children away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: God called the children to him and divided the goods and honours of the earth
+    among them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The children who had been hidden received none of the goods or honours.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Beggars and fakirs are said to descend from the hidden children.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The author states that no authority is given for the Muhammadan legend.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The author says the legend agrees with a sixteenth-century German drama and
+    that this makes him doubt the supposed connection of the German drama with an
+    Old Norse fable.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The author says that the concealed children not being called up is at variance
+    with all German accounts.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eve
+  description: A mother of many children who hides some of them when surprised by
+    God.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: God
+  description: The divine figure who calls the children to him and distributes the
+    goods and honours of the earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Children called to God
+  description: The children who come to God and receive portions of earthly goods
+    and honours.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Hidden children
+  description: The children concealed by Eve; they receive none of the distribution
+    and are said to be ancestors of beggars and fakirs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Beggars and fakirs
+  description: Groups said to be descended from the hidden children.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: concealing mother
+  assigned_to:
+  - fig:1
+  basis: Eve has many children and hides some when surprised by God.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine distributor
+  assigned_to:
+  - fig:2
+  basis: God calls the children to him and divides earthly goods and honours among
+    them.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipients of earthly allotment
+  assigned_to:
+  - fig:3
+  basis: The children called to God receive the goods and honours of the earth.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: excluded hidden children
+  assigned_to:
+  - fig:4
+  basis: The hidden children receive none of the distribution and become ancestors
+    of beggars and fakirs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: descendant group
+  assigned_to:
+  - fig:5
+  basis: Beggars and fakirs are said to descend from the hidden children.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: earthly goods and honours
+  literal_form: goods and honours of the earth
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hidden children
+  literal_form: children hidden away by Eve
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Eve hides some children
+  summary: Eve, ashamed of having many children, hides some of them when God surprises
+    her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Distribution and exclusion
+  summary: God calls the children to him and distributes earthly goods and honours;
+    the hidden children receive none, and beggars and fakirs are said to descend from
+    them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: concealed children excluded from divine allotment
+  taxonomy_refs: []
+  basis: Eve hides some children; God distributes earthly goods and honours to those
+    called to him; the hidden children receive none.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the legend in summary form and notes that no authority
+    is supplied.
+- id: motif:2
+  label: etiology of beggars and fakirs from unallotted children
+  taxonomy_refs: []
+  basis: The hidden children who receive no share are said to be the ancestors of
+    beggars and fakirs.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The etiology is reported through the summarized legend; the passage does
+    not provide an independent source authority.
+- id: motif:3
+  label: divine distribution of earthly status and possessions
+  taxonomy_refs: []
+  basis: God calls the children and divides among them the goods and honours of the
+    earth.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The action is explicitly a distribution, not explicitly framed as judgment
+    or covenant in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage says the Muhammadan legend agrees with a sixteenth-century German
+    drama.
+  claim_level: same_motif
+  target: German drama of the sixteenth century
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not describe the German drama in detail and notes
+    that no authority is given for the Muhammadan legend.
+- id: claim:2
+  claim: The passage treats the reported agreement with the Muhammadan legend as reason
+    to doubt a supposed connection between the German drama and an Old Norse fable.
+  claim_level: historical_contact
+  target: Old Norse fable
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a reported scholarly doubt, not positive evidence for or against
+    contact; the Old Norse fable is not summarized in the excerpt.
+- id: claim:3
+  claim: The passage says the feature that the concealed children are not called up
+    differs from German accounts.
+  claim_level: same_motif
+  target: German accounts of the concealed-children narrative
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only the point of variance and does not list the
+    German accounts or their full narrative sequence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6709-6711
+  quote_or_summary: The passage reports a Muhammadan legend from Menzel in which Eve
+    has many children, is ashamed, and hides some when surprised by God.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 6711-6713
+  quote_or_summary: God calls the children to him and distributes the goods and honours
+    of the earth; the hidden children receive none and become ancestors of beggars
+    and fakirs.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 6714-6716
+  quote_or_summary: The author says no authority is given, but that agreement with
+    a sixteenth-century German drama is undeniable and causes doubt about a supposed
+    connection with an Old Norse fable.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 6716-6717
+  quote_or_summary: The author states that the concealed children not being called
+    up is at variance with all German accounts.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The summarized mythic sequence is clear, but the passage itself notes absence
+    of authority for the Muhammadan legend and provides only brief comparative references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs are directly present in the passage; candidate motifs are therefore left without taxonomy refs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l6709-l6717
+  passage_sha256=f23d3ebc69feff1eab385f465cb38c7e86cf409b2e20d1ca843c2b98814a828f
+

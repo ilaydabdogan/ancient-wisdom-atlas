@@ -1,0 +1,468 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l3642-l3678
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: HUNTING / HUNTING / HUNTING / HUNTING; lines 3642-3678
+  start: '3642'
+  end: '3678'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes hunting practices and an anecdote in which a hunter
+    searching for honey climbs a hollow tree, is trapped there by a jaguar below and
+    wasps above, is rescued by companions who kill the jaguar with arrows, and then
+    returns with them to the village where they eat the fat and joke about the event.
+    It concludes that hunting is both exciting and a necessary means of satisfying
+    hunger.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A covered pit-trap is described as having its mouth disguised to look natural.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several hunters entered the forest, became scattered, and were searching for
+    honey.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One hunter observed a hollow in a tree and climbed it to extract honey.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A large jaguar came beneath the tree and mauled the hunter’s hide sandals,
+    which were left near his weapons at the root.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The hunter climbed higher into smaller branches where the jaguar could not
+    reach him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A wasps’ nest was above the hunter, and he covered himself with a blanket
+    but still received many stings.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The hunter shouted for help, and his companions came to rescue him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The companions sheltered behind large trees, shot arrows at the jaguar, and
+    killed it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After descending, the rescued hunter helped remove the jaguar’s skin; the
+    group carried the skin and fat to the village.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After the danger had passed, the group sat around fires, ate the jaguar fat,
+    and joked at the hunter’s expense.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The narrator states that hunting is important because the chase chiefly enables
+    the Indians to satisfy frequent hunger.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: hunter in the tree
+  description: An Indian hunter who climbs a hollow tree while searching for honey
+    and becomes trapped above a jaguar and below wasps.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: jaguar
+  description: A large jaguar that stands beneath the tree, mauls the hunter’s sandals,
+    springs at one rescuer, and is killed by arrows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: hunter companions
+  description: Other hunters who hear the shout, take cover behind trees, shoot the
+    jaguar, and help carry its skin and fat to the village.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Indians as hunting community
+  description: The passage’s general collective subject, described as enjoying sport
+    while relying on hunting to satisfy hunger.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: honey-searching hunter
+  assigned_to:
+  - fig:1
+  basis: The hunter climbs a hollow tree to obtain honey while the hunters are searching
+    for it.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: imperiled person in elevated refuge
+  assigned_to:
+  - fig:1
+  basis: He remains in the tree because a jaguar is below him and wasps are above
+    him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: dangerous animal
+  assigned_to:
+  - fig:2
+  basis: The jaguar threatens the hunter, remains beneath the tree, and attacks toward
+    a rescuer before being killed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: rescuing hunters
+  assigned_to:
+  - fig:3
+  basis: The companions respond to the hunter’s alarm and kill the jaguar from cover.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: hunting-dependent community
+  assigned_to:
+  - fig:4
+  basis: The passage states that hunting is important because the chase chiefly satisfies
+    hunger.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: tree refuge and cover
+  literal_form: hollow tree, smaller branches, and larger trees used as cover
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: jaguar
+  literal_form: huge jaguar beneath the tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: wasps’ nest
+  literal_form: wasps’ nest above the hunter
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: weapons and arrows
+  literal_form: weapons left at the tree root and arrows used by rescuers
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: hide sandals
+  literal_form: hide sandals mauled by the jaguar
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: jaguar skin and fat
+  literal_form: valuable skin and fat carried to the village
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: fires
+  literal_form: fires around which the group sits while eating fat
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: honey
+  literal_form: honey sought in the forest and in the hollow tree
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:9
+  label: covered pit-trap
+  literal_form: pit with covered mouth disguised to look natural
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: disguised hunting trap
+  summary: A pit-trap is covered so that its mouth looks natural and may go unnoticed.
+  figure_refs: []
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: honey search in the forest
+  summary: Hunters scatter in the forest while searching for honey, and one climbs
+    a hollow tree to obtain it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: hunter trapped between jaguar and wasps
+  summary: A jaguar waits below the tree and mauls the hunter’s sandals while a wasps’
+    nest above stings him despite his blanket covering.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: companions kill the jaguar
+  summary: The companions respond to the hunter’s call, shelter behind trees, shoot
+    arrows at the jaguar, and kill it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: return with animal spoils
+  summary: The rescued hunter descends, helps remove the jaguar skin, and the group
+    carries the skin and fat to the village.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: post-danger eating and joking
+  summary: After the danger, the group sits around fires, eats the jaguar fat, and
+    jokes about the hunter’s experience.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: hunting as subsistence
+  summary: The narrator explains that hunting is not only sport but a chief means
+    of satisfying hunger.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: covered hunting trap disguised as natural ground
+  taxonomy_refs: []
+  basis: The passage mentions a pit whose mouth is covered to look natural so that
+    it is not noticed.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage begins mid-sentence, so the trap context is fragmentary.
+- id: motif:2
+  label: person takes refuge in a tree from a dangerous animal
+  taxonomy_refs: []
+  basis: The hunter climbs higher into a tree because a jaguar stands below and may
+    climb after him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic hunting anecdote, not a mythic episode in the
+    passage.
+- id: motif:3
+  label: danger compounded by threat above and below
+  taxonomy_refs: []
+  basis: The hunter is threatened by the jaguar below and by wasps above, leaving
+    him in an uncomfortable position.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supernatural or cosmological significance is stated.
+- id: motif:4
+  label: companions rescue an imperiled hunter by killing the animal
+  taxonomy_refs: []
+  basis: The companions answer the hunter’s call, take cover, shoot the jaguar with
+    arrows, and kill it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as a practical rescue during hunting.
+- id: motif:5
+  label: danger transformed into communal spoils and joking
+  taxonomy_refs: []
+  basis: After the jaguar is killed, the group carries away the skin and fat, eats
+    the fat around fires, and jokes at the rescued hunter’s expense.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The social meaning of the joking is not explained beyond the literal account.
+- id: motif:6
+  label: hunting as necessary subsistence despite sport
+  taxonomy_refs: []
+  basis: The passage explicitly contrasts the excitement of sport with the importance
+    of hunting for satisfying hunger.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is a cultural-practice pattern rather than a narrative myth motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3642-3644
+  quote_or_summary: A pit-trap has its mouth covered over to make it look as natural
+    as possible.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: 3646-3652
+  quote_or_summary: Hunters enter the forest, scatter while searching for honey, and
+    one climbs a hollow tree to extract it.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: 3652-3659
+  quote_or_summary: A huge jaguar comes beneath the tree, mauls the hunter’s hide
+    sandals left near his weapons, and the hunter climbs higher into smaller branches
+    out of reach.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:4
+  type: summary
+  locator: 3659-3665
+  quote_or_summary: A wasps’ nest above forces the hunter to cover himself with a
+    blanket, though he is still stung; he shouts for help and companions come.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:5
+  type: summary
+  locator: 3665-3670
+  quote_or_summary: The companions take shelter behind trees, shoot at the jaguar,
+    dodge its spring, and kill it with more arrows.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:6
+  type: summary
+  locator: 3670-3675
+  quote_or_summary: The rescued hunter descends, helps remove the skin, and the group
+    carries the skin and fat to the village, where they sit around fires eating fat
+    and joking.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:7
+  type: summary
+  locator: 3676-3678
+  quote_or_summary: The passage states that although the Indians enjoy sport, hunting
+    is important because the chase chiefly satisfies hunger.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are treated as narrative
+    or cultural-practice patterns because the passage is an ethnographic hunting anecdote
+    rather than a mythic text. No comparison claims are made because the passage itself
+    does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; available taxonomy refs were applied only to literal symbols present in the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l3642-l3678
+  passage_sha256=7111a510e275963b2aadc59c86bc655f4f7c81b5d5585b1ffbf6bace0ca754db
+

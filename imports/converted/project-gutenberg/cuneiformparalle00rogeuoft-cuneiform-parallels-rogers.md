@@ -2030,10 +2030,10 @@ im-ma-as-ru-nim-ma i-du-us Ti-amat te-bu-u-ni
 linken-na sit-ku-nu-iTia i-ban-nu-u su-la-a-[ti]
 Dm-mil-Hu-bur pa-ti-kat ka-la-[tna)
 llft-nd-di ka-ak-ki la mah-ri it-ta-lad sinna|jc
-25 zak-tu-rna sin-ni la pa-<lu->i at-la-'-fil
+25 zak-tu-rna sin-ni la pa-‹lu-›i at-la-'-fil
 
 ir-i-tu ki-nia da-mi zu-niur-sn-nu us-ina-al-l[i]
-usiirnirall*'- n:i-a<l-ru-u-t i |>ul-ha-a-t i u-s:il-bi§-[ma]
+usiirnirall*'- n:i-a‹l-ru-u-t i |›ul-ha-a-t i u-s:il-bi§-[ma]
 
 nm Iron in lis um-t .ts-[silj
 
@@ -3765,7 +3765,7 @@ Tavde iroiovvTEc, ravrrjv de pjjrkpa deuv bvopa^ovre^, ki; uv povoyevr) iraida
 ira.pay6p.Evov, en de tuv ovtuv a,A?.rjv yeveav irpoeABelv, Aa^?)v nat Aa^<Jv,
 elra av Tpirrjv Ik tuv avruv, Kiccapr/ Kal 'Aocupdv, ff uv yevecftai rpeic,
 Avbv Kal Ia/uvov Kal 'A6v: rov 6e 'Aou Kal kavKTjc vibv yeveoOai rbv BjyAov,
-bv 6rjpiovpybv elvai <j>aacv.
+bv 6rjpiovpybv elvai ‹j›aacv.
 
 3. A COSMOLOGY IN A RITUAL1
 When Anu created the heavens,
@@ -5792,7 +5792,7 @@ others like him, concerning whom, they say, he (i. e.,
 
 1 The first year after the settlement of Chaldea.
 
-2 Read iftfpov Instead of a<j>pevov as conjectured by Gutschmid.
+2 Read iftfpov Instead of a‹j›pevov as conjectured by Gutschmid.
 
 1 Gutschmid conjectures "human" and probably correctly; see the
 human feet below.
@@ -5801,7 +5801,7 @@ human feet below.
 
 6/xof) WafivAuvia fdov atypaivov bvdpari 'ilavi/v, xai^wf Kai
 
-■>.6Jut)t>r in-uin/ae, rb pev b/.ov aupa ixpP i^rof, virb tie tt/v Ke<f>aXqv
+■›.6Jut)t›r in-uin/ae, rb pev b/.ov aupa ixpP i^rof, virb tie tt/v Ke‹f›aXqv
 
 niv <Y/'/;,v KiiixO i, v iTromrcj rf/r of KF^dkrjg^ Kai 7r<Maf
 
@@ -5817,7 +5817,7 @@ Kai ua\)r/udruv Kai re£tfAv TravToAa-ruv ru7reipiav, Kai irdAeuv oirvotKtaum ,
 
 Kai Upuv vdfiuv eiorjyf/ouc Kai yeuucTpiav 6tS6oKUPt ko'i mrkpfiaraKai « ,,/, go) nvv6Xuq TzAvra ra wpi
 
-ow <i idptiirotr 07rt> <J£ tov XP0VI)V CKeivov
+ow ‹i idptiirotr 07rt› ‹J£ tov XP0VI)V CKeivov
 
 !i. 51, 2).
 rb ££>ov Tovrnv) 'ilnvrr/v dtvai irafai> e<r
@@ -7628,7 +7628,7 @@ pevov <TAcd0oc epfifjvai perd tcjv cvyyevuv /cat avayaaiuv QiXuv' iv&kodai 6i
 5p6aara /cat Tretyzara, kfifiakeiv 6e /cat £<ja irrr/vd /cat TtTpdnoda, /cat irdvra
 evTpeiriodpevov nfelv. 'EpuTupevov tie irov irXei- fdvat, Trpof tov£ deovs,
 ev£6fievov l evgduevov avdpaTois dyada ytvka-dai. Tbv rf* ov irapaKoiaavra
-vavrrrryt/oao&ai2 OKd<j>oc, to pev ptjkcx; oraiiuv 6ina irtvre* to 6e irXdroc eradiuv dvo' Tads cwTax^evra irdvra oinrdlodai, /cat yvvaiica /cat r£/cva, /cat
+vavrrrryt/oao&ai2 OKd‹j›oc, to pev ptjkcx; oraiiuv 6ina irtvre* to 6e irXdroc eradiuv dvo' Tads cwTax^evra irdvra oinrdlodai, /cat yvvaiica /cat r£/cva, /cat
 Toi>c avayicaiovc c&tAov? kpfiifldoai (Syn. 53, 19).
 
 Tevopkvov 6e tov na.TaKkvop.ov, aal ivdiuq 7J}!-avTos tuv bpvicjv Ttva tov
@@ -7675,7 +7675,7 @@ ropeivavTaq tv r<J irTuniu prj tlanopevopivuv tuv nepl tov TLioov&pov
 
 IkB'. Souvrar tov 6i Zioov&pov airuv pev
 
-noif ovk In b<f>$7jvai, <fxjvi/v 6e ck tov atpoc yevicdai /ce/et'oixrav, wf 6kov
+noif ovk In b‹f›$7jvai, ‹fxjvi/v 6e ck tov atpoc yevicdai /ce/et'oixrav, wf 6kov
 
 avrovs flvai &eoor8ei<;' ml yap alrov i:ia tt)v tvotfietav iropiveotiai perd tuv
 
@@ -8900,7 +8900,7 @@ ni-i-nu u-lu nu-ur-ra-<la-ak-ki
 §u-u-up-ri-im-ma li-il-tfu-u ku-ru-um-ma-at-ki
 is-pu-ra-am-ma E-ri-is-ki-i-ga-al nam-ta-a-ra 5u-uk-ka-la-Sa
 i-la-am-ma N[am-t;t]-ru a-n:i -:i-m<--r si-i-ru-u-ti
--ru-[u-ul> . . . i-<lal>-l)]u-l)U-ma i-la-nu
+-ru-[u-ul› . . . i-‹lal›-l)]u-l)U-ma i-la-nu
 10 u-pa-rfa . . .] ru-fti] Narn-ta-a-ra
 
 ma-ar si [i-ip-ri-ira a-ba-ti]-Su-nu ra-a-a-bi-i-ti
@@ -9887,7 +9887,7 @@ the first half of the line and the people responding with the refrain.
 Compare the Hallel Psalms of the Hebrews, Psalms 113-118.
 
 • "Mighty mountain," the home of the gods. Father Bel is Ellil, the
-el<l> t B9 01 Nippur.
+el‹l› t B9 01 Nippur.
 
 * She is the wife of Marduk, who was the son of Ea, god of the
 deep.
@@ -12138,7 +12138,7 @@ Se{§ dag]al mu-ten-na nu-un-til
 
 15 u-mu-un gfr ka-na-ag-ga nu-un-til
 
-bf-e a-<lfm Dtd-de 60 udu-sil-bi u-bi a-<lfm m>-dur
+bf-e a-‹lfm Dtd-de 60 udu-sil-bi u-bi a-‹lfm m›-dur
 
 bf-e a-dfm nad-de-en viz mas-bi u-bi :i-<li'm lu^li'ir
 
@@ -12515,7 +12515,7 @@ nrieh Ziminern, Keilinschriften und Hif»l. Berlin, 1903.
 On this particular tablet compare also Zimmern in Sehradrr, Kcilinnchriften und das Alte Testament, 'Me Auf., p. f>(><>, who funis in it "iin<n
 an initnot heist ische odt-r wenigstens henotneistische Anschauung strei-
 Grundton," but continue! thai "von efoem Durehbrueh zu
-wirkliehf in Itonotheismus in Berefohe der babyionJsohen Wetteaechauehl eJgentUch <li»- Redeseui kann." But Jeremlae (77m <>l<l'I'istament in the Light of the Ancient East, p. 86) finds a "Intent monotheism"
+wirkliehf in Itonotheismus in Berefohe der babyionJsohen Wetteaechauehl eJgentUch ‹li»- Redeseui kann." But Jeremlae (77m ‹›l‹l'I'istament in the Light of the Ancient East, p. 86) finds a "Intent monotheism"
 in it and other passages. King al
 speaks of it as "a still further st(j> in rb advance toward monot !
 
@@ -13064,7 +13064,7 @@ Manluk-.-hum
 illy tho following: Schroder, Keilinachriftliche Bibliothek, i;
 wmckler, Untenuchwtgen tut orientals \ichte, p. l i<>f : Knudt-
 
-\y*yru<chc <, ■>>i<'tt, Tnfcl <>(>; LrhniMir
+\y*yru‹chc ‹, ■››i‹'tt, Tnfcl ‹›(›; LrhniMir
 
 Gfchichte des Altertums, 2t i pp, .i.S.'ilT.
 
@@ -15688,7 +15688,7 @@ Archeology , \ p. 13; Wmclder, Krilinschriftliche Bibliothek, iii, l.p. 92;
 
 Priee, L\trrary H> mams of Rim Sim, p. T>; F. Thureau Dangin, Die <Suschen una Akkadischi n Konigsinschrxften, p. 211, No. 6.
 
-(1) dingir Nannar (2) lugal-a-ni-ir (8) Ku-<Iu-ur-rna-l>u-uk (4) adda
+(1) dingir Nannar (2) lugal-a-ni-ir (8) Ku-‹Iu-ur-rna-l›u-uk (4) adda
 
 
 ernor of Martu, (5) son of Simtishilkhak, when the god
@@ -20342,7 +20342,7 @@ Rudolph Dietsch, editio alter curavit H. Kallenberg (Leipzig, Teubner,
 1894), pp. 204, 205.
 
 Mr to. At tovtov (3aoiXevoai tov iepea tov 'H^a/orw, r<jj ovvofia elvai Zeduv.
-tov ev h7joyi-qoi lxuv Kapaxpyoafievov T^v f^X^uv AlyvnTtuv ug ovdev deqaofievov ai)Tuvt aXXa re 6rj arifui irociovra eg avrovg, mi a<j>eag aire'kkoSai Tag
+tov ev h7joyi-qoi lxuv Kapaxpyoafievov T^v f^X^uv AlyvnTtuv ug ovdev deqaofievov ai)Tuvt aXXa re 6rj arifui irociovra eg avrovg, mi a‹j›eag aire'kkoSai Tag
 apoipag rdiai eirt tuv irporipuv fiaoikew dedbadat kS-atpfrovg i/cdorcj dvoriena
 apovpag. fitra 6e err' Aiyvjrrov eXavveiv arparbv piyav Zavaxaptflov /3a<rt?ia
 A.pa(3iuv re nat Aaavpiwv. ovk l>v dy edkleiv Tovg fiax'ipovg tov Aiyvrriuv
@@ -20374,11 +20374,11 @@ the Troad. Compare Strabo, xiii, 605, and see for coins with such a
 representation, Corpus Ins. Graecarum, ii, 3577, 3582; iv, 7029; Rev.
 Arch., xi, 448; Overbeck K.-M. Apollon. Munztafel, v, 25-28, 30-33.
 
-roiat 6i] fitv iriowov rolai kvvTrvioioi, irapahaftovra AlyvKTiuv rove (3ovAofiivovc ol lireoBai, arparmredevaaffdac iv II^Aov<t/^> (ravrrj yap itm at ioJoAai)'
+roiat 6i] fitv iriowov rolai kvvTrvioioi, irapahaftovra AlyvKTiuv rove (3ovAofiivovc ol lireoBai, arparmredevaaffdac iv II^Aov‹t/^› (ravrrj yap itm at ioJoAai)'
 lireoOai Si ol t&v ftaxttluv H** ovSiva avSpiov, Ka^rfkovq Si Kal ^e^wva/crac
 Kol ayopaiovg avOpcjirow;. ivdavra aiuKOfiivov, roiai ivavrioiai \avroloi\ irrt-
 Xvdkvrag vwcroc fivg apovpaiovg Kara uev <payelv rovg (jxzperpeuvac avruv Kara
-Si ra r6t;a' npbg Si run> aaniSuv to, 6xava, bare ry vorepaiy <f>etry6x>Tuv
+Si ra r6t;a' npbg Si run› aaniSuv to, 6xava, bare ry vorepaiy ‹f›etry6x›Tuv
 o~<]>iuv yvfivuv [otAijv] Treaeiv -KoTJuobg. Kal vvv ofror. 6 /?aavAet>f Eorrjice iv r<J
 lpu tov 'H<paloTov ?udivoc, lxuv fcrt rffq xuP°S /^v» teyuv Sia ypafifi&ruv
 rdSe. "ic ifii rig opiuv evoefiw axrw."
@@ -21401,7 +21401,7 @@ Nachlass von J. G. Miiller, nerausgegeben durch C. J. Riggenbach u.
 C. von Orelli (Basel, 1877). Compare translation in Josephus, Whiston's translation, edited by A. R. Shilleto. London, 1890. Vol. v,
 pp. 192, 193.
 
-[Elff etjqg virondTaQag bTuyovo Brjpuxjog -koXiv irapaTi&erai tv ri) rfjg apxaidTTjrog ioTopioypa<f>ip~\. avra 6e Trapadr/oo/xat tcl tov Bqpooov tovtov ixovra
+[Elff etjqg virondTaQag bTuyovo Brjpuxjog -koXiv irapaTi&erai tv ri) rfjg apxaidTTjrog ioTopioypa‹f›ip~\. avra 6e Trapadr/oo/xat tcl tov Bqpooov tovtov ixovra
 tov rpdirov „6,K0voag 6' 6 narrjp avrov Na/3o7roXdtxapof, bri 6 rerayfikvog aarpanrjg iv re AiyvnTy koI rolg -rrepi rryv Xvpiav rrjv Koihjv nal ttjv $oiviktjv
 rdiroig aizooraTTjg ytyovev, ov dwafuvog avrog in naKOTrcr&eiv ovorfoag ry
 vl(J THafioKodpoadpQ bvn in kv fpunia ptprj nva trig dwdjieug t^tirefiyptv cV
@@ -21480,7 +21480,7 @@ i 2 Kings 25. 27-30. * See passage just cited.
 » avdfiu^ nai haeXyug. Berosos, in Eusebi Chronicorum Liber Prior, ed.
 Alfred Schoene, col. 50.
 
-4 Says Berosus, 6ia rd iroXXa EK<f>aiveiv naKorj^rj.
+4 Says Berosus, 6ia rd iroXXa EK‹f›aiveiv naKorj^rj.
 
 
 Nabonidus (Babylonian, Nabu-ndidu, i. e., "Nabu
@@ -22618,7 +22618,7 @@ Euphrates (?) ; the warrior of Dagan, his creator; who
 
 £-ninnu (47) mu-tam-me-ih, a-a-bi (4S) mi-ge-ir (49) te-li-tim
 
-(50) mu-sa-ak-li-il (51) te-ri-tim (52) sa #allabim(ki) (53) mu-baa<l-<li (64) I i— i l>— 1 ■ '<.">) ru-bu-um el-lum (56) sa ni-is ga-ti-su
+(50) mu-sa-ak-li-il (51) te-ri-tim (52) sa #allabim(ki) (53) mu-baa‹l-‹li (64) I i— i l›— 1 ■ '‹."›) ru-bu-um el-lum (56) sa ni-is ga-ti-su
 
 (57) (ilu) Rammanum i-<lu-ii (58) mu-ne-ilj (59) li-ib-bi (ilu) Ramku-ra-di-im (61) i-naal Bft-karkara(ki) (62) mu-us-ta-ak-
 

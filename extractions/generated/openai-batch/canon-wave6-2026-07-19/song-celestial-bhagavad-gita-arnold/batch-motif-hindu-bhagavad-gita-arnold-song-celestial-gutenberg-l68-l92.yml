@@ -1,0 +1,193 @@
+---
+record_id: batch.motif.hindu-bhagavad-gita-arnold-song-celestial-gutenberg-l68-l92
+source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita-arnold.md
+passage_locator:
+  label: The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata); lines 68-92
+  start: '68'
+  end: '92'
+  translation: The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata)
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Being a Discourse Between Arjuna, Prince of India, and the Supreme Being
+    Under the Form of Krishna
+  summary: The passage is title-page material identifying the work as The Song Celestial,
+    or Bhagavad-Gita, from the Mahabharata, framed as a discourse between Arjuna and
+    the Supreme Being under the form of Krishna, translated by Sir Edwin Arnold.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage gives the title as The Song Celestial and the alternate title
+    Bhagavad-Gita.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies the work as from the Mahabharata.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The work is described as a discourse between Arjuna and the Supreme Being
+    under the form of Krishna.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Arjuna is described as Prince of India.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Sir Edwin Arnold is identified as the translator from the Sanskrit text.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The title-page material includes New York publication information, the year
+    1900, and a Dedication heading.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Arjuna
+  description: Named as Arjuna, Prince of India, and one participant in the discourse.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Supreme Being under the form of Krishna
+  description: Named as the Supreme Being under the form of Krishna and one participant
+    in the discourse.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Sir Edwin Arnold
+  description: Identified as translator from the Sanskrit text.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prince
+  assigned_to:
+  - fig:1
+  basis: The passage calls Arjuna “Prince of India.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: discourse participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage frames the work as a discourse between Arjuna and the Supreme
+    Being under the form of Krishna.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: supreme being in Krishna form
+  assigned_to:
+  - fig:2
+  basis: The passage names the second participant as “the Supreme Being Under the
+    Form of Krishna.”
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: translator
+  assigned_to:
+  - fig:3
+  basis: The passage states that the work is translated from the Sanskrit text by
+    Sir Edwin Arnold.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Framed discourse between Arjuna and the Krishna-form Supreme Being
+  summary: The passage presents the work as a discourse between Arjuna, Prince of
+    India, and the Supreme Being under the form of Krishna.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Divine-human discourse as wisdom setting
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames the work as a discourse between a human prince and the
+    Supreme Being under the form of Krishna.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The line range is title-page material and does not itself present the
+    discourse’s teachings or narrative development.
+comparison_claims:
+- id: claim:1
+  claim: The framed dialogue between a prince and the Supreme Being can be cautiously
+    compared at motif-family level to a wisdom-discourse pattern.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage only supplies the title-page framing; it does not include
+    doctrinal content, instruction, or a developed narrative scene.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 68-92
+  quote_or_summary: "“The Song Celestial. or Bhagavad-Gita (From the Mahabharata)”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita-arnold.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 68-92
+  quote_or_summary: "“Being a Discourse Between Arjuna, Prince of India, and the Supreme
+    Being Under the Form of Krishna”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita-arnold.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 68-92
+  quote_or_summary: The title page states that the text was translated from the Sanskrit
+    by Sir Edwin Arnold.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita-arnold.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 68-92
+  quote_or_summary: The passage includes New York publication details, the year 1900,
+    and a Dedication heading.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita-arnold.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Extraction is straightforward because the passage is title-page material.
+    Motif identification is limited because no narrative or teaching content appears
+    in the supplied range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the available symbol list are explicitly present in this passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-bhagavad-gita-arnold-song-celestial-gutenberg__l68-l92
+  passage_sha256=638537fa5f80c8343ca99ba49754a5a66a8e7209b660e29cc24d8d137624e02c
+

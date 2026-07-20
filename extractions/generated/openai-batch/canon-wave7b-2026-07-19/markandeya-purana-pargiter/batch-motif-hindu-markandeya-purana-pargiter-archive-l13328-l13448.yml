@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l13328-l13448
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: THE BEYELOPEMENT OF MANKIND. / CANTO XLIX. / THE DEVELOPEMENT OP MANKIND.
+    / CANTO XLit.; lines 13328-13448
+  start: '13328'
+  end: '13448'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Plants perish because of sin and are swallowed by the earth. Hungry and
+    confused people appeal to Brahma. Brahma milks the earth as a cow, using Mount
+    Meru as the calf, and cereals, seeds, cultivated plants, wild plants, and sacrificial
+    plants come into existence. He then establishes livelihood through work and ploughing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Plants perish before the people's eyes because of their sin, and the earth
+    devours the plants.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the vegetation perishes, the people become more confused and suffer
+    from hunger.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The hungry people resort to Brahma as their preserver.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Brahma knows that the earth has swallowed the vegetation and milks the earth
+    while treating Mount Meru as her calf.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the earth-cow is milked, cereals, seeds, cultivated plants, and wild
+    annual plants come into existence on the face of the earth.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage enumerates seventeen classes of old cultivated plants, including
+    rice, barley, wheat, sesamum, pulses, chick-pea, and hemp.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage separately enumerates fourteen cultivated and wild plants for
+    use in sacrifices.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Brahma devises means of livelihood and the effectiveness of hands resulting
+    from work.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: From that point onward, plants are produced that must ripen after ploughing.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Brahma
+  description: The most high, mighty lord, adorable self-existent being to whom the
+    hungry people resort; he milks the earth and devises livelihood.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: The people
+  description: People whose sin is linked to the loss of plants; they suffer hunger
+    and confusion and seek Brahma.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Earth / earth-cow
+  description: The earth devours the plants and is then milked as a cow, producing
+    cereals, seeds, and plants.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Mount Meru
+  description: Mount Meru is treated as the calf during Brahma's milking of the earth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Preserver approached by hungry people
+  assigned_to:
+  - fig:1
+  basis: The people resort to Brahma, described as the most high and their preserver.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Institutor of agriculture and livelihood
+  assigned_to:
+  - fig:1
+  basis: Brahma milks the earth to bring forth plants and later devises livelihood,
+    work of hands, and plough-dependent crops.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:3
+  label: Hungry petitioners
+  assigned_to:
+  - fig:2
+  basis: The people suffer hunger and confusion after vegetation disappears and then
+    appeal to Brahma.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: Swallower and source of vegetation
+  assigned_to:
+  - fig:3
+  basis: The earth devours the lost plants and, when milked, yields cereals, seeds,
+    and plants.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: Calf in earth-cow milking
+  assigned_to:
+  - fig:4
+  basis: Brahma treats Mount Meru as the earth-cow's calf while milking her.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Earth-cow milking
+  literal_form: Brahma milks the earth as a cow, and crops come into existence.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Mount Meru as calf
+  literal_form: Mount Meru is treated as the calf during the milking of the earth-cow.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Ploughed crops
+  literal_form: Plants thereafter must ripen after ploughing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Sacrificial plants
+  literal_form: Fourteen cultivated and wild plants are named as plants for use in
+    sacrifices.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Loss of vegetation and hunger
+  summary: Because of sin, plants perish and the earth devours them; the people become
+    confused and hungry.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Appeal to Brahma and milking of the earth
+  summary: The hungry people appeal to Brahma. Brahma milks the earth as a cow, using
+    Mount Meru as calf, and food plants arise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Ordering of crops and sacrificial plants
+  summary: The passage lists old cultivated plants and plants used in sacrifices,
+    distinguishing cultivated and wild forms.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Institution of worked agriculture
+  summary: Brahma establishes means of livelihood, work of the hands, and crops that
+    ripen after ploughing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine restoration of food plants after their loss
+  taxonomy_refs: []
+  basis: Plants vanish and are swallowed by the earth; after the hungry people seek
+    Brahma, he causes cereals, seeds, cultivated plants, and wild plants to appear
+    by milking the earth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage attributes the initial loss to sin but does not describe a
+    formal judgment scene.
+- id: motif:2
+  label: Earth-cow milked to yield crops
+  taxonomy_refs: []
+  basis: Brahma explicitly milks the earth as a cow, treats Mount Meru as the calf,
+    and crops come into existence on earth.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader cross-textual comparison is asserted here.
+- id: motif:3
+  label: Divine institution of agriculture and livelihood
+  taxonomy_refs:
+  - culture_hero
+  basis: Brahma devises livelihood, the effectiveness of hands through work, and plants
+    that ripen after ploughing.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: 'The taxonomy reference is functional: Brahma performs a culture-founding
+    act, though the passage does not use the term culture hero.'
+- id: motif:4
+  label: Ritual classification of plants for sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage identifies fourteen cultivated and wild plants as being for use
+    in sacrifices.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage lists sacrificial plants but does not narrate a sacrifice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Canto XLII, vv. 63-64, within lines 13328-13448
+  quote_or_summary: Through sin, the plants perish before the people's eyes; the earth
+    devours them, and the people fall into further confusion.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: Canto XLII, vv. 64-65, within lines 13328-13448
+  quote_or_summary: Suffering from hunger, the people resort to Brahma, described
+    as most high and as their preserver.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: Canto XLII, vv. 65-67, within lines 13328-13448
+  quote_or_summary: Brahma knows the earth has swallowed the vegetation, milks her
+    while treating Mount Meru as calf, and cereals, seeds, cultivated plants, and
+    wild annual plants arise on earth.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: Canto XLII, vv. 67-69, within lines 13328-13448
+  quote_or_summary: The text lists seventeen classes of old cultivated plants, including
+    rice, barley, wheat, sesamum, pulses, chick-pea, and hemp.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: Canto XLII, vv. 70-73, within lines 13328-13448
+  quote_or_summary: The text lists fourteen cultivated and wild plants for sacrifices
+    and says that when these plants are abandoned, they do not spring forth again.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: Canto XLII, vv. 73-75, within lines 13328-13448
+  quote_or_summary: Brahma devises means of livelihood, the perfection of hands that
+    results from work, and plants that must ripen after ploughing.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif taxonomy assignments
+    are cautious because the passage primarily narrates agricultural origins and plant
+    classification rather than explicitly naming motif categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Translator footnotes in the supplied passage were not used as independent mythic content except where the main passage itself supports the extraction.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l13328-l13448
+  passage_sha256=b2795b4ee117e928465978d6f88b21cdc66cdd5dccecc686ad4808c018e59401
+

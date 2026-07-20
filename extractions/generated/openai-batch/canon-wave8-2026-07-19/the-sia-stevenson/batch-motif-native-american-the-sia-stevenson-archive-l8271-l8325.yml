@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l8271-l8325
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: INTRODUCTION. / CLIMATE. / AUBOBAS. / VEGETATION.; lines 8271-8325
+  start: '8271'
+  end: '8325'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes frequent auroras, the northern limit of trees along
+    the Labrador coast and nearby rivers, the dependence of people north of the tree
+    line on stunted shrubs and scarce large wood, timber use near Fort Chimo, variation
+    in shrub growth by shelter, and a short growing season in which annual plants
+    appear suddenly and die back before autumn cold.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Auroras are described as visible on most clear nights, except that June's
+    light nights prevent observation.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The northern limit of trees on the Labrador coast is placed at latitude 67
+    degrees, where conifers are stunted and straggling.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Tree proximity and size vary around the mouths of George's River, Whale River,
+    and False River, with a protected amphitheater at False River favoring larger
+    growth.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: North of a line from a lake southwest to Hudson Bay, the passage says Eskimo
+    inhabitants depend on stunted willows and alders in protected ravines and valleys.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Large pieces of wood are sought by the Eskimo of the northwest portion for
+    kayaks, umiaks, paddles, spear shafts, and smaller requirements.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: South of the northern tree-limit line, tree growth gradually increases; selected
+    logs from larger trunks are used for building walls at Fort Chimo.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Alders, willows, and other bushes vary in size according to situation and
+    protection.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Flowering plants are sparse in northern areas; the ground remains frozen from
+    late October until late May or mid-June, and annuals appear suddenly, grow rapidly,
+    and fall before autumn winds.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eskimo inhabitants north of the tree-limit line
+  description: People described as dwelling north of the northern limit of trees and
+    relying on stunted willows, alders, and sought-after large wood.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Residents north of the tree line
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the people dwelling north of the tree-limit line as
+    Eskimo only.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Users and seekers of scarce large wood
+  assigned_to:
+  - fig:1
+  basis: The passage states that large pieces of wood are sought for boats, paddles,
+    spear shafts, and other needs.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Aurora
+  literal_form: Night-sky auroral light visible on clear nights, with June as an observational
+    exception.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Tree line and timber
+  literal_form: Conifers, spruce, larch, willows, alders, shrubs, and logs distributed
+    around the northern tree limit.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Frozen ground and rapid annual plants
+  literal_form: Ground frozen through much of the year, followed by sudden annual
+    plant growth and autumn die-back.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Auroras in clear nights
+  summary: The passage presents auroras as a regular clear-night phenomenon, absent
+    from observation during June because of light nights.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mapping the northern tree limit
+  summary: The passage traces the tree line along the Labrador coast and river mouths,
+    noting stunted conifers and locally protected areas where trees grow larger.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Human dependence on scarce wood north of the tree line
+  summary: Eskimo inhabitants north of the tree-limit line depend on stunted shrubs
+    and seek larger wood for watercraft, paddles, spear shafts, and other uses.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Short northern growing season
+  summary: The passage describes sparse flowering plants, long-frozen ground, sudden
+    annual growth, and rapid autumn decline.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Short seasonal growth cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes a long frozen season followed by sudden annual plant
+    emergence, rapid growth, and decline before autumn cold.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a literal natural-history description, not an explicit mythic
+    or ritual seasonal motif in the passage.
+- id: motif:2
+  label: Ecological boundary shaping livelihood
+  taxonomy_refs: []
+  basis: The northern tree-limit line separates areas of scarce shrub growth from
+    areas with larger timber, affecting the materials available to inhabitants north
+    of the line.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage supports this as an environmental and subsistence pattern
+    only; it does not present a mythological boundary.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8271-8276
+  quote_or_summary: Auroras are said to be visible on most clear nights of the year;
+    June is excluded because its nights are too light for observation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 8279-8297
+  quote_or_summary: The passage places the northern tree limit on the Labrador coast
+    at latitude 67 degrees, describes stunted conifers, and traces variations in tree
+    growth near George's River, Whale River, False River, Koksoak, and Leaf River.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 8299-8307
+  quote_or_summary: A southwest line to Hudson Bay is given as the northern tree limit;
+    people north of it, identified as Eskimo only, depend on stunted willows and alders
+    and seek large wood for kayaks, umiaks, paddles, spear shafts, and other needs.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 8309-8319
+  quote_or_summary: South of the tree-limit line, tree growth increases slowly; spruce
+    and larch north of the Height of Land remain comparatively small, and selected
+    larger logs are used to build walls at Fort Chimo.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 8321-8323
+  quote_or_summary: Alders, willows, and other bushes attain size according to their
+    situation and available protection, with comparable stems observed near Fort Chimo,
+    Davis Inlet, and Rigolet.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 8324-8325
+  quote_or_summary: Flowering plants are sparse in northern areas; ground remains
+    frozen from late October to late May or mid-June, and annuals appear suddenly,
+    rapidly mature, and fall before autumn winds.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is primarily geographic and natural-historical rather than mythological.
+    Literal extraction is moderately secure, but motif labeling is limited to environmental
+    patterns explicitly described in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the provided passage and metadata. No comparison claims were added because the passage does not itself support comparative claims.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l8271-l8325
+  passage_sha256=fade4950482ecb8e8d321def29acac694eb068808b231d0b61d98d8e88cceeda
+

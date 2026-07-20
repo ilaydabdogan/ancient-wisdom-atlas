@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l3488-l3504
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: PT. I / PHYSICAL CHARACTERISTICS / REPAIRING THE IMPUMBE. / PHYSICAL CHARACTERISTICS;
+    lines 3488-3504
+  start: '3488'
+  end: '3504'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: inganda sha njina ... (" lice houses ")
+  summary: 'The passage describes the impumbe, a men’s hair or head construction:
+    non-wearers call it “lice houses”; a man returns to the impumbe and has another
+    isusu made in the next season; partial baldness or mourning-related inability
+    to groom can cause the impumbe to loosen or fall.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage reports that people who do not wear the impumbe call it inganda
+    sha njina, translated as “lice houses.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man goes back to the impumbe and has another isusu made in the next season.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Old men who become partially bald lose the hair foundation on which the impumbe
+    is built, so it falls down behind and is held only by a few strands of hair.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When men have worn the impumbe for some time and mourning prevents attention
+    to grooming, the growing hair makes it loose.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: men who wear the impumbe
+  description: Men are described as wearing the impumbe; it can need renewal or become
+    loose after time and lack of grooming.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: old men with partial baldness
+  description: Old men are described as losing the hair foundation on which the impumbe
+    is built when they become partially bald.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: non-wearers of the impumbe
+  description: People who do not wear the impumbe are reported as calling it inganda
+    sha njina, “lice houses.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: impumbe wearer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes men and old men as wearing or having the impumbe built
+    on their hair.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: aging wearer affected by baldness
+  assigned_to:
+  - fig:2
+  basis: Partial baldness removes the foundation on which the impumbe is built.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: non-wearing commentator
+  assigned_to:
+  - fig:3
+  basis: Non-wearers are reported as giving the impumbe a disparaging name translated
+    as “lice houses.”
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: impumbe
+  literal_form: A men’s hair or head construction built on a foundation of hair and
+    worn over time.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: inganda sha njina
+  literal_form: A nickname or phrase translated in the passage as “lice houses,” applied
+    to the impumbe by non-wearers.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: isusu
+  literal_form: An item or component said to be made again in the next season in connection
+    with returning to the impumbe; the passage does not define it further.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Naming and seasonal renewal of the impumbe
+  summary: Non-wearers call the impumbe by a phrase translated as “lice houses”; a
+    man returns to the impumbe and next season has another isusu made.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Impumbe affected by age and mourning
+  summary: Partial baldness makes the impumbe fall down because it loses its hair
+    foundation; mourning-related inability to groom allows growing hair to loosen
+    the impumbe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mourning-related suspension of grooming
+  taxonomy_refs: []
+  basis: The passage states that mourning can prevent men from attending to their
+    toilet, after which the impumbe gets loose because of growing hair.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic practice pattern, not a mythological motif and
+    not linked to the available motif-family taxonomy.
+- id: motif:2
+  label: seasonal renewal of a hair construction
+  taxonomy_refs: []
+  basis: The passage says the man returns to the impumbe and has another isusu made
+    in the next season.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage is fragmentary and does not define isusu; the pattern is practical/ethnographic
+    rather than mythic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3488-3491
+  quote_or_summary: "“inganda sha njina ... (‘ lice houses ’)” is reported as a name
+    used by those who do not wear them."
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 3491-3492
+  quote_or_summary: The man goes back to the impumbe, and in the next season another
+    isusu is made.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; neutral summary from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 3494-3496
+  quote_or_summary: Old men who become partially bald lose the foundation on which
+    the impumbe is built; it falls behind and remains attached only by a few hair
+    strands.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; neutral summary from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 3498-3500
+  quote_or_summary: After men have worn the impumbe for some time, mourning may prevent
+    grooming; growing hair then makes the impumbe loose. The passage breaks off after
+    “they visit.”
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; neutral summary from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is ethnographic and fragmentary, with no explicit mythic narrative
+    or comparative claim. Terms such as impumbe and isusu are retained cautiously
+    from the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or listed symbol is directly supported by this passage. No comparison claims are made.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l3488-l3504
+  passage_sha256=4a2375ca90cc158eea1a4a261f4ea4fb30ea14165677ca4b49d9ed2b14b5bd50
+

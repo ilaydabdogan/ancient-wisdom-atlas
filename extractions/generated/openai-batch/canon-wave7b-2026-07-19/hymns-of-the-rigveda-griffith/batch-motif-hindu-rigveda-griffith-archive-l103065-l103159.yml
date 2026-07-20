@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l103065-l103159
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ARANYAKA IV / ARANYAKA V / ADHYAYA 2. / KRULE U; lines 103065-103159
+  start: '103065'
+  end: '103159'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives ritual instructions for a sequence of Rigvedic recitations:
+    specified hymns and stanzas are recited, inserted, metrically transformed, and
+    combined. It states that optional insertions of decades of verses addressed to
+    Indra may correspond to years added beyond the normal lifespan. The sequence includes
+    Indra hymns, Soma-related verses, completion of a Sastra, muttering of the ukthasampad,
+    substitution of the ukthadoha, and a formula addressing an entity as the head
+    of the world, essence of speech, and fire of breath.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ritual sequence begins with specified “thigh” verses and includes recitation
+    of half-stanzas as gayatris, with one portion treated as an anustubh, along with
+    inserted hymns and a stanza between named hymns.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Decades of tristubh and jagati verses addressed to Indra may be inserted after
+    transformation into brhatis; the passage states that ten verses correspond to
+    one year beyond normal life for a man desiring life, while also making the insertion
+    optional.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A hymn beginning “That steed impelled by the gods” and a chant translated
+    as “Indra rules all” follow in the sequence.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In an anustubh hymn, the reciter combines half-stanzas and quarter-stanzas
+    so as to make anustubhs, continuing this pattern up to the last stanza.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The recitation includes verses beginning “Drink, Indra, the Soma, let it gladden
+    thee,” followed by verses beginning “Thy place, O Indra, is made on thy seat,”
+    with a specified ending order.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After the Sastra is finished, the reciter mutters the ukthasampad, and the
+    ukthadoha is used in place of the ukthavirya.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A formula addresses an entity as the head of the world, the essence of speech,
+    and the fire of breath.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: Deity addressed in inserted and recited verses; named in statements
+    and verse incipits including “Indra rules all” and “Drink, Indra, the Soma.”
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Agni
+  description: Deity named together with Indra in the hymn incipit “O Indra and Agni,
+    ye two.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: ritual reciter
+  description: The unnamed ritual performer who recites, combines stanzas, finishes
+    the Sastra, and mutters the ukthasampad.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: man desiring life
+  description: A person for whom the optional insertion of verses may be performed
+    to obtain years beyond normal life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: deity addressed in ritual recitation
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Indra and Agni are named in hymn incipits and addressed verses within the
+    recitation sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: recipient of Soma invitation
+  assigned_to:
+  - fig:1
+  basis: The passage cites verses beginning “Drink, Indra, the Soma, let it gladden
+    thee.”
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: ritual officiant or reciter
+  assigned_to:
+  - fig:3
+  basis: The passage repeatedly describes what “he recites,” how he combines stanzas,
+    and what he mutters after the Sastra.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:4
+  label: conditional beneficiary of life-extension rite
+  assigned_to:
+  - fig:4
+  basis: The passage says the transformed verse insertions may yield years beyond
+    normal life for a man wishing to live longer.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: ruling deity
+  assigned_to:
+  - fig:1
+  basis: The cited chant is translated as “Indra rules all.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Soma
+  literal_form: Soma named in the verse incipit “Drink, Indra, the Soma, let it gladden
+    thee.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: fire of breath
+  literal_form: The formulaic phrase “the fire of breath.”
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: head of the world
+  literal_form: The formulaic phrase “the head of the world.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: ten verses for one year
+  literal_form: Decades of verses; ten verses correspond to one added year of life.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: steed impelled by the gods
+  literal_form: The hymn incipit “That steed impelled by the gods.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Opening metrical recitation and insertions
+  summary: The reciter performs a sequence of named Rigvedic hymns and stanzas, treating
+    portions as gayatris and anustubhs and inserting additional hymns and a stanza
+    at specified points.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Optional Indra verse insertion for added lifespan
+  summary: Verses in tristubh and jagati addressed to Indra may be transformed into
+    brhatis and inserted; the passage links ten verses with one year beyond normal
+    life for a person desiring longer life.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Indra hymns, Soma verses, and stanza recombination
+  summary: The recitation continues with an Indra-related chant, a hymn whose half-stanzas
+    are combined into anustubhs, and verses inviting Indra to drink Soma.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Completion of the Sastra and closing formula
+  summary: After the Sastra is completed, the reciter mutters the ukthasampad, substitutes
+    the ukthadoha for the ukthavirya, and the passage gives a formula naming the addressed
+    entity as head of the world, essence of speech, and fire of breath.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ritual recitation for lifespan extension
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage explicitly relates optional insertion and transformation of Indra-addressed
+    verse decades to added years of life, at ten verses for one year.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage frames this as a ritual rule and optional practice, not as
+    a narrative myth; the exact ritual mechanics are affected by commentary and OCR
+    uncertainty.
+- id: motif:2
+  label: sacrificial liturgy structured through hymn sequence and substitution
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes a Sastra, recitation of hymns and Soma verses, muttering
+    of the ukthasampad, and substitution of the ukthadoha for the ukthavirya.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is procedural rather than mythic; the broader sacrificial
+    setting is implied by terms such as Sastra and Soma recitation within the supplied
+    text.
+- id: motif:3
+  label: metrical transformation as ritual action
+  taxonomy_refs: []
+  basis: The passage repeatedly prescribes transforming and recombining verses and
+    half-stanzas into named metres such as gayatri, anustubh, and brhati.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a ritual-poetic pattern rather than a standard mythic narrative
+    motif.
+- id: motif:4
+  label: cosmic identification through liturgical formula
+  taxonomy_refs: []
+  basis: The formula names the addressed entity as “head of the world,” “essence of
+    speech,” and “fire of breath,” linking cosmic, verbal, and vital imagery.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The addressee of the formula is not identifiable from the supplied excerpt
+    alone, so interpretation should remain limited.
+comparison_claims:
+- id: claim:1
+  claim: The notes support a cautious comparison between this passage’s stanza-combination
+    procedure and a related Sankhayana ritual treatment that applies a similar combination
+    to another hymn.
+  claim_level: same_function
+  target: Sankhayana ritual procedure as cited in the passage notes, especially Sankhayana
+    XVIII, 20
+  evidence_refs:
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a comparison of liturgical technique within nearby ritual materials,
+    not evidence by itself for a broader mythic motif or historical development; OCR
+    corruption obscures some hymn references.
+- id: claim:2
+  claim: The notes indicate a nearby ritual-text pattern of mapping Rigvedic hymn
+    material to body parts, since this passage refers to “thigh” verses while the
+    note reports another source calling RV X, 50 the “spine.”
+  claim_level: same_motif
+  target: Body-part mapping of hymnic material in Satapatha Brahmana as cited in the
+    passage notes
+  evidence_refs:
+  - ev:1
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is based on a brief note and does not establish a full
+    shared symbolic system within the excerpt alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 103065-103073
+  quote_or_summary: The passage begins with “thigh” verses, names the hymn “O Indra
+    and Agni, ye two,” describes reciting half-stanzas as gayatris and one part as
+    an anustubh, and lists inserted hymns and a stanza between named hymns.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 103073-103078
+  quote_or_summary: "“As many decades of verses in tristubh and jagati addressed to
+    Indra as they insert, after transforming them into brhatis, so many years may
+    a man be fain to live beyond the normal life, at the rate of ten verses for a
+    year; or he need not do so.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 103126-103128
+  quote_or_summary: The sequence continues with the hymn beginning “That steed impelled
+    by the gods” and the chant translated as “Indra rules all.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized with short cited phrases.
+- id: ev:4
+  type: summary
+  locator: lines 103128-103135
+  quote_or_summary: In the anustubh hymn “All songs have caused Indra to grow,” the
+    first half-stanza is recited, then half-stanzas and quarter-stanzas are combined
+    so as to make anustubhs until the last stanza.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 103135-103139
+  quote_or_summary: The passage lists six verses beginning “Drink, Indra, the Soma,
+    let it gladden thee,” then four verses beginning “Thy place, O Indra, is made
+    on thy seat,” and gives instructions for joining and ending with specified stanzas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized with short cited phrases.
+- id: ev:6
+  type: summary
+  locator: lines 103139-103141
+  quote_or_summary: After the Sastra is finished, the reciter mutters the ukthasampad,
+    and the ukthadoha is used instead of the ukthavirya.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 103142-103143
+  quote_or_summary: "“Thou art the head of the world, the essence of speech, the fire
+    of breath.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:8
+  type: summary
+  locator: notes within lines 103080-103159
+  quote_or_summary: The notes compare this ritual sequence and stanza-combination
+    practice with Sankhayana materials and also mention Satapatha Brahmana passages,
+    including one where RV X, 50 is called the spine.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is OCR-corrupted and largely procedural, but the main ritual
+    actions, named deities, Soma reference, life-extension rule, and formulaic imagery
+    are recoverable. Comparison claims rely on the supplied notes and should be checked
+    against the underlying edition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All observations and motif candidates are limited to the supplied passage and metadata. Taxonomy references are used only where directly supported by the excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l103065-l103159
+  passage_sha256=1a836fff5f8f2867a6291387e00c66b13deda4f5598fa98e1e6f7ea13002b64f
+

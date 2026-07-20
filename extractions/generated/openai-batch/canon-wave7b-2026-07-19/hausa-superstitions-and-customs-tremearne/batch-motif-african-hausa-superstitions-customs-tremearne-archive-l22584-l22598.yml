@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l22584-l22598
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: LXXXVIII. / LXXXIX. / NOTES   ON   THE   TALES  513 / XCII.; lines 22584-22598
+  start: '22584'
+  end: '22598'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“the water in which a spear has been dipped will cure a wound inflicted
+    by that spear”"
+  summary: The notes compare a tale element to a Kagoro belief that water touched
+    by a spear can cure a wound made by that spear, likening it also to the phrase
+    “the hair of the dog that bit you.” Another note says one story has a moral. A
+    later note glosses “like a load” and comments that driving a witch out of the
+    house may be considered adequate punishment by a Hausa husband.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A note says the Kagoro imagine that water in which a spear has been dipped
+    will cure a wound inflicted by that spear.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same note offers “the hair of the dog that bit you” as an alternative
+    comparison for the cure pattern.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note states that one of the stories is among the few that has a moral.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note glosses an item as “like a load” and directs the reader to an illustration
+    on page 288.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A note says that merely driving a witch out of the house may not appear severe
+    to the writer, but may be considered adequate by the Hausa husband.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kagoro
+  description: A group said to imagine that spear-dipped water cures wounds made by
+    that spear.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: witch
+  description: A witch who may be driven out of the house as punishment.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Hausa husband
+  description: A Hausa husband for whom driving a witch out of the house may be considered
+    adequate punishment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: holder of curative belief
+  assigned_to:
+  - fig:1
+  basis: The note attributes the belief about spear-dipped water curing spear wounds
+    to the Kagoro.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: punished figure
+  assigned_to:
+  - fig:2
+  basis: The note refers to driving a witch out of the house as punishment.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: assessor of punishment adequacy
+  assigned_to:
+  - fig:3
+  basis: The note says the punishment may be considered adequate by the Hausa husband.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: curative water
+  literal_form: water in which a spear has been dipped
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: spear
+  literal_form: the spear that both inflicts the wound and is dipped in the water
+    used for cure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: house
+  literal_form: the house from which the witch is driven out
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Spear-water cure comparison
+  summary: The note compares a tale element with a Kagoro belief that water touched
+    by the injuring spear cures the wound made by that spear, and with the “hair of
+    the dog” expression.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Witch driven out of the house
+  summary: The note comments on driving a witch out of the house as a punishment that
+    may seem mild to the writer but adequate to a Hausa husband.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cure by contact with the source or instrument of injury
+  taxonomy_refs: []
+  basis: The passage describes water made curative through contact with the spear
+    that caused the wound and compares the pattern to “the hair of the dog that bit
+    you.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a note rather than a full tale episode, and no taxonomy
+    reference is directly available for this exact motif.
+- id: motif:2
+  label: expulsion of a witch from the house as punishment
+  taxonomy_refs: []
+  basis: The note explicitly mentions driving a witch out of the house and frames
+    it as a punishment whose severity is culturally assessed.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt gives only an explanatory note, not the full narrative context
+    of the witch or the punishment.
+comparison_claims:
+- id: claim:1
+  claim: The noted tale element is presented as functionally similar to a Kagoro belief
+    in curing a spear wound with water into which that spear has been dipped.
+  claim_level: same_function
+  target: Kagoro spear-dipped water cure belief, cited in the note as T.H.H., page
+    194
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports only a note-level functional comparison and does
+    not assert historical contact or common inheritance.
+- id: claim:2
+  claim: The curative pattern is also compared to the “hair of the dog that bit you”
+    pattern, in which the source of harm is associated with remedy.
+  claim_level: same_function
+  target: "“hair of the dog that bit you” remedy pattern"
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives an idiomatic comparison without providing an extended
+    comparative analysis.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22584-22588
+  quote_or_summary: "“the water in which a spear has been dipped will cure a wound
+    inflicted by that spear”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: 22588-22589
+  quote_or_summary: "“the hair of the dog that bit you.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: '22589'
+  quote_or_summary: A note says one of the few stories has a moral.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: '22593'
+  quote_or_summary: A note glosses something as like a load and refers to an illustration
+    on page 288.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 22595-22598
+  quote_or_summary: The note says driving a witch out of the house may not seem severe
+    to the writer but may be considered adequate by the Hausa husband.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a brief set of notes rather than a continuous tale episode.
+    The spear-water cure comparison is explicit, while the witch-expulsion motif has
+    limited context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or inheritance claims are made; comparison claims are limited to functional similarities stated in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l22584-l22598
+  passage_sha256=94b8533db4a76dc06b903b31004e8678fa5391b3cfd10cda87a51b4b0f082d62
+

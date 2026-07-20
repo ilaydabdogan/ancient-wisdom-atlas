@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.japanese-kwaidan-hearn-gutenberg-l4143-l4168
+source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+passage_locator:
+  label: A DEAD SECRET / YUKI-ONNA / THE STORY OF AOYAGI / JIU-ROKU-ZAKURA; lines
+    4143-4168
+  start: '4143'
+  end: '4168'
+  translation: 'Kwaidan: Stories and Studies of Strange Things'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The excerpt consists of headings and editorial footnotes: locality notes
+    for “Jiu-roku-zakura” and “The Dream of Akinosuké,” a gloss on “Tokoyo,” “Kokuō,”
+    and “Tokoyo no Kokuō,” a note on simultaneous ceremonial speech by two attendants,
+    and a definition of an estrade or dais as a ruler’s “great seat.”'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note associates “Jiu-roku-zakura” with present-day Ehime Prefecture.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note associates “The Dream of Akinosuké” with present-day Nara Prefecture.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: "“Tokoyo” is described as an indefinite name that may signify an unknown country,
+    a country from which no traveler returns, or the Fairyland/Realm of Hōrai."
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: "“Kokuō” is glossed as the ruler of a country, or a king; “Tokoyo no Kokuō”
+    may be rendered as “the Ruler of Hōrai” or “the King of Fairyland.”"
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: According to old custom, a final phrase had to be uttered by both attendants
+    at the same time.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: An estrade or dais is described as the place upon which a feudal prince or
+    ruler sat in state; the term literally means “great seat.”
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tokoyo no Kokuō
+  description: A title phrase glossed as “the Ruler of Hōrai” or “the King of Fairyland.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: both attendants
+  description: Two attendants required by custom to utter a phrase simultaneously.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: feudal prince or ruler
+  description: A ruler described as sitting in state upon an estrade or dais.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ruler or king
+  assigned_to:
+  - fig:1
+  basis: The note states that “Kokuō” means ruler of a country, therefore king, and
+    renders “Tokoyo no Kokuō” as a ruler or king of Hōrai/Fairyland.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ceremonial attendants or speakers
+  assigned_to:
+  - fig:2
+  basis: The note says both attendants had to utter the last phrase at the same time
+    according to old custom.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: ruler seated in state
+  assigned_to:
+  - fig:3
+  basis: The note describes a feudal prince or ruler sitting in state upon the dais.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Tokoyo / Hōrai otherworld country
+  literal_form: An unknown country, an undiscovered country from which no traveler
+    returns, or the Fairyland/Realm of Hōrai.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: great seat / dais
+  literal_form: An estrade or dais on which a feudal prince or ruler sat in state;
+    the term literally signifies “great seat.”
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Story headings with locality notes
+  summary: The excerpt gives headings for “Jiu-roku-zakura” and “The Dream of Akinosuké,”
+    with notes identifying present-day Ehime Prefecture and present-day Nara Prefecture.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gloss on Tokoyo no Kokuō
+  summary: A footnote explains possible meanings of “Tokoyo,” defines “Kokuō,” and
+    gives possible renderings of “Tokoyo no Kokuō.”
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ceremonial and courtly terminology notes
+  summary: One note describes two attendants speaking simultaneously by custom, and
+    another defines a dais or “great seat” used by a feudal prince or ruler sitting
+    in state.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Otherworld country or realm of no return
+  taxonomy_refs: []
+  basis: The passage says “Tokoyo” may signify an unknown country, a country from
+    which no traveler returns, or the Fairyland/Realm of Hōrai.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an explanatory footnote rather than a narrative episode; no journey,
+    return, or afterlife scene is described in the excerpt.
+- id: motif:2
+  label: Sovereign of Fairyland or Hōrai
+  taxonomy_refs: []
+  basis: The phrase “Tokoyo no Kokuō” is glossed as “the Ruler of Hōrai” or “the King
+    of Fairyland.”
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only a title or translation is given; the passage does not narrate the
+    ruler’s actions.
+- id: motif:3
+  label: Ceremonial simultaneous utterance by paired attendants
+  taxonomy_refs: []
+  basis: The note states that, by old custom, both attendants had to utter the last
+    phrase at the same time.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage frames this as a ceremonial or stage custom, not as a mythic
+    plot motif.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly links or glosses “Tokoyo” with the far-eastern Fairyland
+    tradition, specifically the Realm of Hōrai.
+  claim_level: linguistic_similarity
+  target: Realm of Hōrai / Fairyland of far-eastern fable
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a lexical or translation gloss within the note; it does not
+    by itself establish a narrative parallel or historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4143-4145
+  quote_or_summary: 'The heading “JIU-ROKU-ZAKURA” is followed by a note: “Present-day
+    Ehime Prefecture.”'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; Project Gutenberg text; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 4147-4149
+  quote_or_summary: 'The heading “THE DREAM OF AKINOSUKÉ” is followed by a note: “Present-day
+    Nara Prefecture.”'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; Project Gutenberg text; full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 4151-4157
+  quote_or_summary: "“Tokoyo” may signify “any unknown country,” a country “from whose
+    bourn no traveler returns,” or “that Fairyland of far-eastern fable, the Realm
+    of Hōrai”; “Kokuō” means ruler or king; “Tokoyo no Kokuō” may be rendered “the
+    Ruler of Hōrai” or “the King of Fairyland.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; Project Gutenberg text; full text allowed.
+- id: ev:4
+  type: quote
+  locator: lines 4159-4161
+  quote_or_summary: "“The last phrase” had to be uttered “by both attendants at the
+    same time,” and such ceremonial observances “can still be studied on the Japanese
+    stage.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; Project Gutenberg text; full text allowed.
+- id: ev:5
+  type: quote
+  locator: lines 4163-4165
+  quote_or_summary: The note defines an “estrade, or dais” upon which “a feudal prince
+    or ruler sat in state,” and says the term literally signifies “great seat.”
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; Project Gutenberg text; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The excerpt is mostly headings and footnotes, so literal extraction is straightforward,
+    but motif candidates are limited because no full narrative action is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol such as “tree” was assigned because the passage does not describe or translate “Jiu-roku-zakura” as a tree within the provided text.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:japanese-kwaidan-hearn-gutenberg__l4143-l4168
+  passage_sha256=c67c4203b1b2c21e7844466c83782ab7154385296074b3782c03d37e2ae82687
+

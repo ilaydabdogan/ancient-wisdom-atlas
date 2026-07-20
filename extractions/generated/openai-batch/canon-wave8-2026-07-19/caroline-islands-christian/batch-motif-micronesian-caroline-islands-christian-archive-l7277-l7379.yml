@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.micronesian-caroline-islands-christian-archive-l7277-l7379
+source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+passage_locator:
+  label: N-.E. / PART III / CHAPTER XI / RETURN TO COLONY ; TO MUTOK AND PANIAU; lines
+    7277-7379
+  start: '7277'
+  end: '7379'
+  translation: 'The Caroline Islands: Travel in the Sea of the Little Lands'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: the lifting of one of these creatures out of water will be followed by a
+    heavy downpour of rain
+  summary: The passage describes a coastal and lagoon journey among coral ridges,
+    pools, fishponds, driftwood, reef life, birds, caverns, and changing weather.
+    It records a local Ponapean belief that removing a bright five-fingered starfish
+    from the water brings heavy rain.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Sharp coral ridges on the seaward side are called Racharach, a word also said
+    to mean the teeth of a saw.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two pools near the end of the Warrawar receive fish at high tides, and the
+    narcotic Up root was used at low water to catch fish for food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Inot and Titin are described as medicinal trees common on island beaches and
+    appearing where Barringtonia gives place.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A chief fishpond is enclosed seaward by a stout stone dam and is used for
+    fishing with net and spear.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Driftwood on the rugged side of the island provides fuel for bêche-de-mer
+    curing operations.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The canoe crosses the edge of a large coral barrier, and the voyager experiences
+    the sight as like looking over a steep precipice.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The reef is described as filled with branching coral, submarine algae, sea-cucumbers,
+    starfishes, sponges, birds, limestone caverns, poulps, crustacea, and cowries.
+  category: setting
+  evidence_refs:
+  - ev:6
+  - ev:9
+- id: obs:8
+  text: The Ponapeans are reported to believe that lifting an ultramarine five-fingered
+    starfish out of water will be followed by heavy rain.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Clouds form over Ant Atoll, heat hangs over the bay, and a coming squall is
+    expected to bring a heavy shower.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: In shallow water, the passage warns that bathers with fresh cuts or unhealed
+    scratches will suffer a painful salt-water irritation.
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Ponapeans
+  description: Local people reported as holding the belief about the starfish and
+    rain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Voyager or canoe party
+  description: The narrator’s canoe party moving across the coral barrier and lagoon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Ultramarine five-fingered starfishes
+  description: Bright blue five-fingered starfishes lying below the water, associated
+    in reported local belief with rain if removed from water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: belief holders
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Ponapeans firmly believe removal of the starfish
+    from water will bring rain.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: voyaging observers
+  assigned_to:
+  - fig:2
+  basis: The passage describes the canoe moving over the reef and the travelers observing
+    the lagoon and weather.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:3
+  label: rain-associated sea creature
+  assigned_to:
+  - fig:3
+  basis: The starfish is the creature whose removal from water is said to be followed
+    by rain.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: five-fingered starfish
+  literal_form: Great bright ultramarine five-fingered starfish in the water
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: rain after removal from water
+  literal_form: Heavy downpour of rain following the lifting of a starfish out of
+    water
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: coral barrier as sea-wall
+  literal_form: Great coral barrier looming through the water like a mighty sea-wall
+    sloping into the deeps
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: limestone caverns below the reef
+  literal_form: Hollow caverns in honeycombed limestone below the outer reef
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Coastal resources and fishpond
+  summary: The narrator describes sharp coral ridges, tide pools with fish, medicinal
+    beach trees, a dammed fishpond, and driftwood used as fuel.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Canoe crossing the reef garden
+  summary: The canoe passes over the coral barrier into a richly described reef environment
+    of coral, algae, sea creatures, birds, and underwater formations.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:9
+- id: scene:3
+  label: Starfish and rain belief
+  summary: Within the reef description, the passage reports the Ponapean belief that
+    taking a bright five-fingered starfish from the water brings a heavy downpour.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Approaching squall and return landward
+  summary: Clouds gather over Ant Atoll while the canoe turns landward through shallower
+    water, and the passage anticipates a coming squall.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:8
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Rain caused by removing a sea creature from water
+  taxonomy_refs: []
+  basis: The passage explicitly reports a Ponapean belief that lifting a five-fingered
+    starfish out of water will be followed by heavy rain.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives only a brief reported belief, not a full mythic narrative,
+    ritual prescription, or witnessed outcome.
+- id: motif:2
+  label: Reef as a wondrous marine garden
+  taxonomy_refs: []
+  basis: The reef is described as a garden-like underwater landscape with corals,
+    algae, sea-cucumbers, starfishes, sponges, birds, caverns, and cowries.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: This is primarily a literary-naturalist description by the travel writer;
+    it is not presented as a local mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The author visually likens the reef to a garden of the Nereides, creating
+    a literary comparison between the lagoon scenery and classical sea-nymph imagery.
+  claim_level: visual_similarity
+  target: Classical Nereides imagery
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an authorial metaphor in an English travel narrative, not evidence
+    for historical contact or shared Caroline Islands mythic tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7277-7379; opening coastal description
+  quote_or_summary: The coral ridges are called “Racharach,” also said to denote “the
+    teeth of a saw.”
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 7277-7379; tide-pool fishing description
+  quote_or_summary: Two pools near the Warrawar receive fish at high tide, and the
+    narcotic Up root is used at low water to catch fish for the larder.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7277-7379; beach vegetation description
+  quote_or_summary: The passage says Barringtonia gives place to Inot and Titin, described
+    as medicinal trees common on the island beaches.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 7277-7379; fishpond description
+  quote_or_summary: A chief fishpond is described as closed to seaward by a stout
+    stone dam and used for sport with net and spear.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 7277-7379; driftwood and fuel description
+  quote_or_summary: The rugged side of the island is strewn with driftwood, which
+    supplies fuel for bêche-de-mer curing.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 7277-7379; reef-crossing description
+  quote_or_summary: The canoe crosses a coral barrier “like a mighty sea-wall,” and
+    the reef edge is called “a true garden of the Nereides.”
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 7277-7379; starfish belief
+  quote_or_summary: "“Great bright ultramarine five-fingered starfishes” are described,
+    and the Ponapeans believe lifting one out of water will bring “a heavy downpour
+    of rain.”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:8
+  type: summary
+  locator: lines 7277-7379; weather and squall description
+  quote_or_summary: Cloud banks form over Ant Atoll; the air is humid and hot, and
+    the narrator expects a coming squall to bring a shower.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 7277-7379; outer reef and caverns description
+  quote_or_summary: The outer reef reverberates through hollow limestone caverns where
+    giant poulps, crustacea, and orange-cowries are described below the surf line.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 7277-7379; shallow-water bathing warning
+  quote_or_summary: As the water grows shallower, the passage warns that bathers with
+    fresh cuts or unhealed scratches will suffer in the hot salt water.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The physical setting and local rain-related starfish belief are clear. Motif
+    identification is limited because the passage is a travel description and contains
+    only one explicit reported belief rather than a full mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to available symbol refs directly supported by literal water and cave imagery.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-caroline-islands-christian-archive__l7277-l7379
+  passage_sha256=1006e26b0e8ea1617517c596c7205f9a7760b8f74dc80eabbce694e2682fcdf0
+

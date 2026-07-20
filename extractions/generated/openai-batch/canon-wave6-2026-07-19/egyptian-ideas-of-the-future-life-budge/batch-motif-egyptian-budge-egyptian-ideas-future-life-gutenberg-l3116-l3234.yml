@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.egyptian-budge-egyptian-ideas-future-life-gutenberg-l3116-l3234
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+passage_locator:
+  label: OSIRIS THE GOD OF THE RESURRECTION. / CHAPTER III. / CHAPTER IV. / THE JUDGMENT
+    OF THE DEAD.; lines 3116-3234
+  start: '3116'
+  end: '3234'
+  translation: Egyptian Ideas of the Future Life
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives numbered items from a negative confession in which the
+    deceased addresses named beings from specific places and denies moral, ritual,
+    social, and environmental offenses. Budge then summarizes the confession as a
+    comprehensive moral code and states that the next act in the Judgment Scene is
+    the weighing of the deceased's heart in scales, with the Papyrus of Ani named
+    as a later illustrated example.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker repeatedly addresses named beings with the formula of greeting
+    and states acts he has not committed.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The denied acts include invading land, slaughtering animals belonging to God,
+    laying waste ploughed lands, sexual offenses, violence, fraud, curses against
+    king or God, fouling running water, and scorn toward a city god.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The commentary identifies the speaker of the confession as the deceased.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the next act in the Judgment Scene is the weighing of the
+    deceased's heart in the scales.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says details of the Judgment Scene vary in different papyri while
+    essential parts are preserved.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the deceased
+  description: The person who makes the confession and whose heart is to be weighed
+    in the Judgment Scene.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: named beings addressed in the Confession
+  description: A series of named beings, each associated with a place of origin, addressed
+    by the deceased in the numbered confession items.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: God
+  description: A divine entity referenced in prohibitions concerning possessions,
+    curses, and things belonging to God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: confessing deceased in judgment sequence
+  assigned_to:
+  - fig:1
+  basis: The commentary states that the deceased makes the confession and that the
+    next act is weighing the deceased's heart.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: invoked addressees of denial statements
+  assigned_to:
+  - fig:2
+  basis: Each numbered item begins with an address to a named being followed by a
+    denial of wrongdoing.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: referenced divine authority
+  assigned_to:
+  - fig:3
+  basis: Several denials concern God, God's possessions, or curses against God.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: heart weighed in judgment
+  literal_form: heart of the deceased
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: scales of judgment
+  literal_form: scales used to weigh the heart
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: running water protected from pollution
+  literal_form: running water or public watercourse
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: cavern as place of emergence
+  literal_form: cavern from which Neheb-kau comes forth
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Negative confession before named beings
+  summary: The deceased addresses a sequence of named beings and declares that he
+    has not committed a wide range of offenses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Transition to weighing of the heart
+  summary: After the confession, the Judgment Scene proceeds to weighing the deceased's
+    heart in scales.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: negative confession in the judgment of the dead
+  taxonomy_refs:
+  - divine_judgment
+  basis: The deceased makes formal denials of wrongdoing within a passage identified
+    as part of the Judgment of the Dead.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is an English scholarly presentation and commentary, not a
+    complete primary ritual scene.
+- id: motif:2
+  label: weighing the heart after moral confession
+  taxonomy_refs:
+  - divine_judgment
+  basis: The text states that the next act after the confession is weighing the heart
+    of the deceased in the scales.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage names the act but does not provide the full visual or ritual
+    details of the weighing scene.
+- id: motif:3
+  label: moral purity stated through denials of wrongdoing
+  taxonomy_refs:
+  - divine_judgment
+  basis: The confession is summarized as a comprehensive moral code listing offenses
+    the deceased denies committing.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a thematic motif candidate derived from Budge's summary rather
+    than a named taxonomy item beyond divine judgment.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a cautious intra-corpus comparison among Book of the
+    Dead judgment scenes: details vary across papyri, but essential judgment elements,
+    including the heart-weighing sequence, are presented as preserved.'
+  claim_level: same_motif
+  target: illustrated papyri of the Book of the Dead from the latter XVIIIth and XIXth
+    dynasties, including the Papyrus of Ani
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states variation and preservation of essential parts but
+    does not enumerate all variants or provide direct visual descriptions in this
+    excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3116-3199
+  quote_or_summary: Items 15-42 address named beings from specified places and pair
+    each address with a denial of wrongdoing, including offenses involving land, animals
+    belonging to God, ploughed land, speech, sexuality, violence, fraud, running water,
+    wealth, and a city god.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 3200-3223
+  quote_or_summary: Budge comments that the confession presents a comprehensive moral
+    code and summarizes the deceased's denials of curses, theft, murder, sexual offenses,
+    violence, fraud, social harms, fouling the watercourse, and damaging tilled land.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 3223-3234
+  quote_or_summary: The text states that the next act in the Judgment Scene is the
+    weighing of the deceased's heart in the scales, notes that details vary among
+    papyri while essential parts remain, and introduces the judgment of Ani in a British
+    Museum papyrus.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction relies only on the supplied passage. Motif identification is strongest
+    for divine judgment and heart-weighing; broader comparative claims are limited
+    to the intra-corpus comparison explicitly stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external taxonomy IDs beyond supplied motif families and symbols were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:egyptian-budge-egyptian-ideas-future-life-gutenberg__l3116-l3234
+  passage_sha256=1393389038e522251f6d1e44d57641b6a71ed34349d2a6542d885a7a87a2b3b9
+

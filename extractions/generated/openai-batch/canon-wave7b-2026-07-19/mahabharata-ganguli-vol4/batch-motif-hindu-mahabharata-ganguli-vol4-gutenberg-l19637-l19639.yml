@@ -1,0 +1,118 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l19637-l19639
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION CXXXVIII / SECTION CXXXIX / SECTION CXL / SECTION CXLI; lines 19637-19639
+  start: '19637'
+  end: '19639'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Uma said, "Thou has recited to me what the respective duties are of the four
+    orders..."
+  summary: Uma says that the holy one has recited the respective duties of the four
+    orders and asks to be told the common duties of all the orders.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Uma speaks to an addressed holy one.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Uma states that the addressee has recited the respective duties of the four
+    orders.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Uma asks to be told the common duties of all the orders.
+  category: speech
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Uma
+  description: The named speaker who asks about duties.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: holy one
+  description: The unnamed addressee whom Uma says has recited duties and whom she
+    asks for further instruction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioner seeking instruction
+  assigned_to:
+  - fig:1
+  basis: Uma asks the holy one to tell her the common duties of all the orders.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: holy addressee and prior reciter of duties
+  assigned_to:
+  - fig:2
+  basis: Uma addresses the figure as holy one and says he has recited duties to her.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Request for teaching on common duties
+  summary: After acknowledging that the duties of the four orders have been recited,
+    Uma asks the holy one to explain the duties common to all the orders.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: request for ethical instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on a question addressed to a holy teacher about duties
+    common to all orders.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is brief and contains only the request, not the ensuing teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19637-19639
+  quote_or_summary: Uma said, "Thou has recited to me what the respective duties are
+    of the four orders... Do thou now tell me... what the common duties are of all
+    the orders."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; quotation kept brief.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage plainly identifies the speaker, addressee, and request. Motif
+    assignment is limited because the excerpt contains only a short instructional
+    prompt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific comparison beyond a broad wisdom-instruction motif.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l19637-l19639
+  passage_sha256=639e4d8bac1a0481d9e859dd3c4499b3861c040acba7947436fd2644ef14029c
+

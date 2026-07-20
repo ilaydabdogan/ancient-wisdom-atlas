@@ -1,0 +1,541 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l32090-l32246
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: INDEX / INDEX / M    M    2 / INDEX; lines 32090-32246
+  start: '32090'
+  end: '32246'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment lists topics concerning children, parents, clans, clan
+    totems, royal selection and confirmation, coronation customs, royal objects kept
+    in a shrine or used on the king's jawbone, conception by a falling plantain flower
+    or by ghosts, possession of a medium, cleansing of milk and water vessels, clothing
+    hung on trees, and relatives redeeming condemned persons.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Children are indexed as being trained by members of their father's clan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Children's lives are indexed as being endangered by their parents' sins.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The index includes choosing a King and Queen, choosing a new King, choosing
+    the Queen, confirming the king in his kingdom, and coronation customs.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Clan entries include assistance in debt, burial-grounds, clan chiefs, identification
+    of chiefs with predecessors, choosing a man's heir, and warning members of a man's
+    illness.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The index lists numerous named clans and also includes entries for clans and
+    their totems.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some clans are indexed as restricted from giving wives to the King.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The King's clothes are indexed as being kept in a shrine.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Cowry shells given to the king by an heir are indexed as being kept to decorate
+    the king's jawbone.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Conception is indexed as occurring by a falling plantain flower and by ghosts.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The index includes the condition of a medium when possessed.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Milk vessels and water pots are indexed in connection with cleansing.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Trees appear in index entries for plantain trees, coffee-trees, and clothing
+    hung on trees.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:13
+  text: Condemned persons are indexed as being redeemed by relatives.
+  category: action
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Children
+  description: Indexed as trained by their father's clan; their lives may be endangered
+    by their parents' sins; they love their parents.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Parents
+  description: Indexed in relation to children's love and to sins that endanger children's
+    lives.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Clans
+  description: Indexed as paternal training groups, debt-assistance groups, burial-ground
+    holders, totem-bearing groups, and groups with restrictions regarding wives for
+    the King.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: King
+  description: Indexed in relation to choice of wives, choosing a new King, confirmation
+    in the kingdom, coronation customs, clothes kept in a shrine, and a jawbone decorated
+    with cowry shells.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Queen
+  description: Indexed in entries on choosing a King and Queen and choosing the Queen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Ghosts
+  description: Indexed as agents or sources in an entry on conception by ghosts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Medium
+  description: Indexed in relation to the condition of a medium when possessed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Heir
+  description: Indexed in clan selection of a man's heir and in giving cowry shells
+    to the king for decoration of the king's jawbone.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:9
+  name_or_label: Relatives
+  description: Indexed as redeeming condemned persons.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: child within paternal-clan training
+  assigned_to:
+  - fig:1
+  basis: Children are indexed as trained by members of their father's clan.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: totem-bearing kin group
+  assigned_to:
+  - fig:3
+  basis: Clan entries include social obligations and entries for clans and their totems.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: selected royal office-holder
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The index includes choosing a King and Queen, a new King, and the Queen.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: legitimated and ritually marked king
+  assigned_to:
+  - fig:4
+  basis: The king is indexed with confirmation, coronation customs, clothes kept in
+    a shrine, and jawbone decoration.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: supernatural conception agent
+  assigned_to:
+  - fig:6
+  basis: Ghosts appear in an index entry on conception by ghosts.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: possessed medium
+  assigned_to:
+  - fig:7
+  basis: The index includes the condition of a medium when possessed.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: heir and ritual-object giver
+  assigned_to:
+  - fig:8
+  basis: The index notes clan choice of an heir and cowry shells given to the king
+    by an heir for the king's jawbone.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:8
+  label: kin redeemer
+  assigned_to:
+  - fig:9
+  basis: Relatives are indexed as redeeming condemned persons.
+  evidence_refs:
+  - ev:11
+- id: role:9
+  label: parents linked to children's danger
+  assigned_to:
+  - fig:2
+  basis: Parents' sins are indexed as endangering children's lives.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: clan totems
+  literal_form: Named clan totems or clan names include animals, plants, natural terms,
+    and body/object terms such as antelope, bean, bird, buffalo, elephant, grasshopper,
+    leopard, lion, lung fish, mushroom, Rain Water, sheep, yam, and others.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: falling plantain flower
+  literal_form: falling plantain flower in an index entry on conception
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: milk vessels
+  literal_form: milk vessels requiring cleansing
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: water pots and Rain Water
+  literal_form: water pots requiring cleansing; Rain Water as a clan entry
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: sym:5
+  label: trees
+  literal_form: plantain trees, coffee-trees, and clothing hung on trees
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:10
+- id: sym:6
+  label: King's clothes in shrine
+  literal_form: clothes of the King kept in a shrine
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: king's jawbone with cowry shells
+  literal_form: cowry shells kept to decorate the king's jawbone
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Children, parents, and paternal clan
+  summary: The index groups children with paternal-clan training, affection for parents,
+    and danger from parents' sins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Clan organization and totems
+  summary: The index clusters clan assistance, burial grounds, chiefs, heir selection,
+    illness warnings, named clans, totems, and restrictions on giving wives to the
+    King.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Royal choice, confirmation, and relic objects
+  summary: The index includes choosing royal figures, confirming and crowning the
+    king, keeping the King's clothes in a shrine, and decorating the king's jawbone
+    with cowry shells given by an heir.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:8
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: scene:4
+  label: Extraordinary conception and possession
+  summary: The index records conception by a falling plantain flower, conception by
+    ghosts, and the condition of a medium when possessed.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Cleansing and tree-related material entries
+  summary: The index includes cleansing milk vessels and water pots, as well as plantain
+    trees, coffee-trees, and clothing hung on trees.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Paternal-clan child formation and inherited danger
+  taxonomy_refs: []
+  basis: Children are indexed as trained by the father's clan, and their lives are
+    indexed as endangered by their parents' sins.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an index; it does not explain the mechanism or ritual context
+    of the danger.
+- id: motif:2
+  label: Clan totem organization
+  taxonomy_refs: []
+  basis: The index explicitly includes clans and their totems and lists many named
+    clans or totemic designations.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The index lists names and page references but does not provide the full
+    totemic rules in this passage.
+- id: motif:3
+  label: Royal selection and legitimation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Entries mention choosing a King and Queen, choosing a new King, choosing
+    the Queen, confirming the king in his kingdom, and coronation customs.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only index headings, not the detailed ritual sequence.
+- id: motif:4
+  label: Royal restrictions on marriage alliance
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The index states that some clans are restricted from giving wives to the
+    King.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The reasons for the restrictions are not provided in this index segment.
+- id: motif:5
+  label: Royal relics and body-part decoration
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The King's clothes are kept in a shrine, and cowry shells given by an heir
+    are kept to decorate the king's jawbone.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The index does not clarify whether the jawbone is ancestral, mortuary,
+    regalia-related, or another ritual object.
+- id: motif:6
+  label: Extraordinary conception by plant or spirit
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: Conception is indexed as occurring by a falling plantain flower and by ghosts.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The index does not identify the child, mother, or social status of the
+    conception; sacred or miraculous interpretation is only a candidate classification.
+- id: motif:7
+  label: Possession of a medium
+  taxonomy_refs: []
+  basis: The index includes the condition of a medium when possessed.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: No details of the possessing being, ritual, or speech are provided in
+    the index entry.
+- id: motif:8
+  label: Kin redemption of condemned persons
+  taxonomy_refs: []
+  basis: Condemned persons are indexed as redeemed by relatives.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The entry does not describe the procedure, payment, or ritual status of
+    redemption.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: INDEX entries under Children, source lines 32090-32246
+  quote_or_summary: Children trained by members of their father's clan; children's
+    lives endangered by their parents' sins; children's love for their parents.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short index phrases quoted or summarized.
+- id: ev:2
+  type: quote
+  locator: INDEX entries on royal choice and confirmation, source lines 32090-32246
+  quote_or_summary: Choosing a King and Queen; choosing a new King; choosing the Queen;
+    confirming the king in his kingdom; coronation customs.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short index phrases quoted or summarized.
+- id: ev:3
+  type: summary
+  locator: INDEX entries under Clan, source lines 32090-32246
+  quote_or_summary: Clan entries include assistance in debt, burial-grounds, clan
+    chiefs and appointments, identification with predecessors, choosing a man's heir,
+    and warning members of a man's illness.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized index entries.
+- id: ev:4
+  type: summary
+  locator: INDEX entries under Clans, source lines 32090-32246
+  quote_or_summary: The index lists many clans or totemic labels, including animal,
+    plant, and natural terms, and includes entries for clans and their totems.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized index entries.
+- id: ev:5
+  type: quote
+  locator: INDEX entry on clans restricted from royal wives, source lines 32090-32246
+  quote_or_summary: Clans restricted from giving wives to the King.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short index phrase quoted.
+- id: ev:6
+  type: quote
+  locator: INDEX entries on King's clothes and jawbone, source lines 32090-32246
+  quote_or_summary: Clothes of the King kept in a shrine; cowry-shells given to the
+    king by an heir kept to decorate the king's jawbone.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short index phrases quoted or summarized.
+- id: ev:7
+  type: quote
+  locator: INDEX entries on Conception, source lines 32090-32246
+  quote_or_summary: Conception by falling plantain flower; by ghosts.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:8
+  type: quote
+  locator: INDEX entry on medium, source lines 32090-32246
+  quote_or_summary: Condition of medium when possessed.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short index phrase quoted.
+- id: ev:9
+  type: quote
+  locator: INDEX entries on cleansing vessels, source lines 32090-32246
+  quote_or_summary: Cleansing milk vessels; water pots.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short index phrases quoted.
+- id: ev:10
+  type: summary
+  locator: INDEX entries on trees and clothing, source lines 32090-32246
+  quote_or_summary: Entries mention classes of plantain trees, coffee-trees, and clothing
+    hung on trees.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized index entries.
+- id: ev:11
+  type: quote
+  locator: INDEX entry on condemned persons, source lines 32090-32246
+  quote_or_summary: Condemned persons redeemed by relatives.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short index phrase quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is constrained by the passage being an index segment with
+    topic headings and page references rather than full descriptions. Candidate motif
+    labels require review against the referenced pages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare these entries to other traditions or corpora.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l32090-l32246
+  passage_sha256=a3a2497ce4a21cce28cb18a4889383623f5e4471ed1dae006f180eb43ecc858c
+

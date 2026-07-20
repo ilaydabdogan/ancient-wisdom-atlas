@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l4196-l4224
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: CLOTHING AND DECORATION / SWIMMING A RIVER. / PT. I / IN FESTIVE ATTIRE.;
+    lines 4196-4224
+  start: '4196'
+  end: '4224'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Ba-ila preferences in decorative clothing and ornaments,
+    including ivory bangles, rings, leglets, armlets, impande ornaments, and European
+    imitations in celluloid or porcelain. It notes that imitation bangles were rejected
+    if their colour or shape differed from the accepted pattern, while faithful imitations
+    sold well. Men and women wear several ornaments, chiefs may wear multiple impande,
+    and one imitation impande burned when it fell into fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A first trader’s imitation bangles were rejected because their colour and
+    shape varied from the accepted pattern.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A later trader sold many imitation bangles after imitating an ivory bangle
+    pattern with close fidelity.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Men wear rings, leglets, armlets, and impande, but not anklets.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Women also wear rings, leglets, and armlets.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The impande may be worn on the arm, around the head, or suspended around the
+    neck.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A chief may wear seven or eight impande.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Impande were imitated in celluloid and porcelain by European manufacturers.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: An early purchaser’s imitation impande fell into fire and disappeared in flame.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ba-ila people
+  description: The people whose fashion preferences and ornament use are described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: First trader
+  description: The trader whose imitation bangles were rejected because they did not
+    match the accepted pattern.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Later trader
+  description: The trader whose faithful imitation of an ivory bangle pattern sold
+    successfully.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Men
+  description: Male wearers of rings, leglets, armlets, and impande, but not anklets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Women
+  description: Female wearers of rings, leglets, and armlets.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Chief
+  description: A chief may wear seven or eight impande.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: European manufacturers
+  description: Manufacturers who made imitation impande in celluloid and porcelain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Early purchaser
+  description: A purchaser whose imitation impande fell into the fire and burned.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: fashion-regulating community
+  assigned_to:
+  - fig:1
+  basis: The Ba-ila are described as rejecting or accepting imitation bangles according
+    to conformity with an accepted pattern.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ornament trader
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both figures are traders who introduced or sold imitation bangles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: ornament wearer
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Men and women are described as wearing rings, leglets, armlets, and related
+    ornaments.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: high-status ornament wearer
+  assigned_to:
+  - fig:6
+  basis: A chief may wear seven or eight impande.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: imitation ornament maker
+  assigned_to:
+  - fig:7
+  basis: European manufacturers imitated impande in celluloid and porcelain.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: owner of fragile imitation ornament
+  assigned_to:
+  - fig:8
+  basis: The early purchaser owned an imitation impande that burned after falling
+    into fire.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: ivory bangle pattern
+  literal_form: ivory bangle used as a pattern for imitation bangles
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: impande ornament
+  literal_form: impande worn on the arm, around the head, or around the neck
+  associated_figures:
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: fire
+  literal_form: fire into which an imitation impande fell
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Rejection and acceptance of imitation bangles
+  summary: Imitation bangles fail or succeed commercially depending on their fidelity
+    to the accepted colour and shape of the ivory bangle pattern.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ornaments worn in festive attire
+  summary: Men and women wear rings, leglets, and armlets; men also wear impande,
+    and chiefs may wear several impande.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Imitation impande destroyed by fire
+  summary: An early purchaser’s imitation impande, bought at a high price, falls into
+    fire and disappears in flame.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: strict conformity to accepted ornament pattern
+  taxonomy_refs: []
+  basis: The passage states that imitation bangles were rejected when they differed
+    in small details from the accepted pattern, while closely faithful imitations
+    sold successfully.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic social pattern about dress and trade, not a mythic
+    narrative motif.
+- id: motif:2
+  label: prestige display through multiple ornaments
+  taxonomy_refs: []
+  basis: The passage notes the wearing of multiple ornaments and specifically says
+    that a chief may wear seven or eight impande.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage supports status-related ornament display only in a limited
+    descriptive sense.
+- id: motif:3
+  label: fragility of imitation prestige goods
+  taxonomy_refs: []
+  basis: The passage describes a costly imitation impande disappearing in flame after
+    falling into fire.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The incident is anecdotal and not presented as a traditional motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4196-4205
+  quote_or_summary: A trader introduced celluloid imitation bangles, but the stock
+    was rejected because of small variations in colour and shape from the accepted
+    pattern.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4206-4212
+  quote_or_summary: Another trader had the manufacturer closely imitate an ivory bangle
+    used as a pattern and profited from the sale.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4213-4215
+  quote_or_summary: Men wear rings, leglets, and armlets, as women do, but men do
+    not wear anklets.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 4215-4218
+  quote_or_summary: The impande is worn on the arm, around the head, or suspended
+    from the neck; a chief may wear seven or eight.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 4218-4220
+  quote_or_summary: European manufacturers imitated the impande in celluloid and porcelain.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 4220-4224
+  quote_or_summary: An early purchaser was disgusted when his costly imitation impande
+    fell into fire and disappeared in flame.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The literal clothing and ornament data are clear. Motif candidates are low-confidence
+    because the passage is ethnographic description rather than mythology, and no
+    comparative claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or comparative mythology claim is made beyond the passage’s explicit references to traders and European manufacturers.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l4196-l4224
+  passage_sha256=0b3857e327d549ec4952b5613cbbe24f0f863dbddd87317efb988151ab063ab7
+

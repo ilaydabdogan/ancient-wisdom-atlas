@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l5524-l5550
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: THE HUDSON BAY ESKIMO. / WEAPONS AND OTHER HUNTING IMPLEMENTS, / TURNER.)
+    HUNTING, 249 / THE HUDSON BAY ESKIMO.; lines 5524-5550
+  start: '5524'
+  end: '5550'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Hudson Bay Eskimo handling and caching of deer or
+    reindeer meat: valued tongue, hindquarters placed in the carcass cavity, meat
+    cached near the kill site or moved by kayak for winter use, cache locations marked
+    against winter snow, stone caches built to protect meat from scavengers, movement
+    to new hunting stations when deer stop crossing, and early warm-season kills reserved
+    as dog food when spoilage threatens.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that reindeer tongue is considered good food in any condition.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hindquarters are usually not separated, but are placed within the thoracic
+    cavity of the deer carcass.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Carcasses may be cached near the slaughter site or placed on a kayak and taken
+    to a storage spot for later winter food supplies.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bodies of one, two, or three deer may be placed along a bank when they have
+    been killed too far from the present camp to bring home.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cache locations are marked or remembered by visible surroundings because deep
+    winter snow can obscure them, and sometimes they cannot be found when needed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A cache is made from stones or boulders laid on the ground, with meat placed
+    on them and covered by a rude stone wall.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The stone covering is described as hiding the meat from ravens, gulls, foxes,
+    wolves, and wolverine.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When the hunter thinks the deer in a locality have stopped crossing, he moves
+    to another station and repeats the process.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Deer killed first in the hunting season, when warm weather, flies, and decomposition
+    threaten the meat, are reserved for dog food.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: hunter
+  description: The person who kills deer, caches meat, marks or remembers cache locations,
+    and moves to another station when deer stop crossing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: deer or reindeer
+  description: The hunted animal whose tongue, hindquarters, body, and meat are used
+    as food or dog food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: dogs
+  description: Animals for whom early warm-season deer meat spoiled or threatened
+    by spoilage is reserved as food.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: ravens, gulls, foxes, wolves, and wolverine
+  description: Animals named as threats from which the cached meat is hidden by stones.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hunter and winter provisioner
+  assigned_to:
+  - fig:1
+  basis: The hunter stores meat near kill sites or at storage places and moves stations
+    according to deer movement.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: prey and food source
+  assigned_to:
+  - fig:2
+  basis: The passage describes parts and bodies of deer or reindeer as delicacy, cached
+    meat, winter food, and dog food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:3
+  label: cache-threatening scavengers
+  assigned_to:
+  - fig:4
+  basis: The passage says cached meat is hidden from ravens, gulls, foxes, wolves,
+    and wolverine.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: recipient of dog food
+  assigned_to:
+  - fig:3
+  basis: Early deer killed in warm conditions are reserved for supplies of dog food.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: stone meat cache
+  literal_form: Stones or boulders on the ground with meat placed on them and covered
+    by a rude stone wall.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: marked cache location
+  literal_form: A place along the bank marked or remembered by visible surroundings
+    so it can be sought under winter snow.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: kayak transport of carcass or meat
+  literal_form: The carcass or meat placed on the kayak and taken to a storage spot.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Carcass handling and winter provisioning
+  summary: The hunter handles deer parts by placing hindquarters within the thoracic
+    cavity and either caching the carcass near the slaughter site or transporting
+    it by kayak to a place where winter supplies are stored.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Bank-side stone cache
+  summary: Deer bodies killed too far from camp are placed along a bank at marked
+    or remembered locations, with stones built over the meat to hide it from scavengers
+    and to preserve access for winter use.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Movement to new hunting station and dog-food reservation
+  summary: When deer cease crossing in one locality, the hunter goes to another station;
+    deer first killed in warm hunting-season conditions are set aside as dog food
+    because flies and decomposition threaten the meat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Seasonal hunting and winter provisioning cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage organizes hunting, caching, snow-obscured storage places, and
+    dog-food allocation around warm hunting-season conditions and later winter food
+    needs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an ethnographic subsistence description rather than a mythic narrative;
+    the motif family reference is functional and seasonal, not evidence of a mythological
+    episode.
+- id: motif:2
+  label: Concealed stone cache protecting food from scavengers
+  taxonomy_refs: []
+  basis: The passage describes meat placed on stones and covered by a stone wall to
+    hide it from named birds and animals.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a practical storage pattern; no symbolic or mythic meaning is
+    stated in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to a seasonal-cycle pattern because
+    hunting, storage, spoilage, deep snow, and winter food supply are explicitly coordinated
+    by season.
+  claim_level: same_function
+  target: seasonal_cycle motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not present a myth, ritual explanation, or cross-cultural
+    comparison; it only supports a functional seasonal-provisioning comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5526-5527
+  quote_or_summary: Reindeer tongue is described as good food at any time or in any
+    condition.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: 5529-5532
+  quote_or_summary: Hindquarters are placed inside the thoracic cavity; the carcass
+    may be cached near the kill site or carried by kayak to a storage place for winter
+    food.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: 5534-5539
+  quote_or_summary: One or more deer bodies may be placed along the bank when killed
+    too far from camp; spots are marked or remembered because winter snow may obscure
+    them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: 5539-5543
+  quote_or_summary: The cache consists of stones or boulders with meat on them and
+    stones piled over the meat to hide it from ravens, gulls, foxes, wolves, and wolverine.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: 5545-5547
+  quote_or_summary: When deer in a locality stop crossing, the hunter goes to another
+    station and repeats the process.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: summary
+  locator: 5547-5549
+  quote_or_summary: First deer slain in warm hunting-season weather, when flies and
+    decomposition ruin the meat, are reserved for dog food.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for subsistence practices. Motif and comparison
+    entries are limited because the passage is ethnographic and practical rather than
+    mythological.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic figures or explicit symbolic interpretations are stated in the passage; symbols are recorded only as literal material forms.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l5524-l5550
+  passage_sha256=fc69ebec89da9acdc5a4139535ad510fd87e3def0c143598cd491c053b6be93e
+

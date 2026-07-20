@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l40807-l40819
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CLXIII / SECTION CLXIV / SECTION CLXV / SECTION CLXVI; lines 40807-40819
+  start: '40807'
+  end: '40819'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Of all weapons, O son of Madravati, the sword is the foremost.
+  summary: The passage lists names and attributes of the sword, states that the sword
+    is the foremost weapon and was first wielded by Mahadeva, says Prithu first created
+    the bow and used it while ruling to draw crops and grain from the earth, instructs
+    warriors to worship the sword, and says that hearing the sword-origin story brings
+    fame and eternal felicity.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Several names or epithets of the sword are listed, including Asi, Vaisasana,
+    Khadga, Sirgarbha, victory, and protector of righteousness.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sword is described as the foremost of all weapons.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Puranas are cited as declaring that the sword was first wielded by Mahadeva.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Prithu is said to have first created the bow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Prithu, identified as the son of Vena, is said to have governed the earth
+    virtuously for many years.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: With the aid of the bow, Prithu is said to have milked the earth of crops
+    and grain in profusion.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The addressee is told to regard what the Rishis have said as conclusive proof.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Persons skilled in battle are instructed to worship the sword.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The speaker says he has described the origin and creation of the sword in
+    response to the addressee's query.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Hearing the story of the sword's origin is said to bring fame in this world
+    and eternal felicity in the next.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mahadeva
+  description: Named as the first wielder of the sword according to the Puranas.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Prithu, son of Vena
+  description: Named as the first creator of the bow; he governed the earth virtuously
+    and used the bow to draw crops and grain from the earth.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Earth
+  description: The earth is described as governed by Prithu and as being milked by
+    him for crops and grain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Rishis
+  description: Referred to as authorities whose words should be regarded as conclusive
+    proof.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: first wielder of the sword
+  assigned_to:
+  - fig:1
+  basis: The passage says the Puranas declare the sword was first wielded by Mahadeva.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: first creator of the bow
+  assigned_to:
+  - fig:2
+  basis: The passage says Prithu first created the bow.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: virtuous ruler
+  assigned_to:
+  - fig:2
+  basis: The passage says Prithu governed the earth virtuously for many years.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: drawer of crops and grain from the earth
+  assigned_to:
+  - fig:2
+  basis: The passage says Prithu used the bow to milk the earth of crops and grain
+    in profusion.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: productive earth being milked
+  assigned_to:
+  - fig:3
+  basis: The earth is the entity from which Prithu draws crops and grain through the
+    image of milking.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: authoritative sages
+  assigned_to:
+  - fig:4
+  basis: The Rishis' statements are presented as conclusive proof.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sword
+  literal_form: Sword with names or epithets including Asi, Vaisasana, Khadga, Sirgarbha,
+    victory, and protector of righteousness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: bow
+  literal_form: Bow first created by Prithu and used by him as an aid while drawing
+    crops and grain from the earth
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: milking the earth
+  literal_form: The earth milked for crops and grain in profusion
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sword names and first wielder
+  summary: The passage lists names or epithets of the sword, calls it the foremost
+    weapon, and cites the Puranas as saying Mahadeva first wielded it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Prithu creates the bow and draws produce from earth
+  summary: Prithu, son of Vena, is said to have first created the bow and, while ruling
+    virtuously, used it to milk the earth of abundant crops and grain.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Authoritative proof, worship, and hearing-benefit
+  summary: The speaker directs the addressee to accept the Rishis' words as proof,
+    says warriors should worship the sword, and states that hearing the story of the
+    sword's origin brings fame and felicity.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: origin of a foremost sacred weapon
+  taxonomy_refs: []
+  basis: The passage explains the sword's names, foremost status among weapons, first
+    divine wielder, required worship by warriors, and the benefit of hearing its origin
+    story.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the concluding portion of the sword-origin account,
+    not the full creation narrative.
+- id: motif:2
+  label: culture-hero king obtains agriculture from personified earth
+  taxonomy_refs:
+  - culture_hero
+  basis: Prithu is named as the first creator of the bow and as the ruler who milked
+    the earth of crops and grain in profusion.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a brief allusion and does not narrate the full Prithu-earth
+    episode.
+- id: motif:3
+  label: efficacious hearing of an origin story
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that listening to the story of the sword's origin brings
+    fame in this world and eternal felicity in the next.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the passage specifically concerns
+    the benefit of hearing a sacred origin narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 40807-40809
+  quote_or_summary: 'The passage lists sword names or epithets: Asi, Vaisasana, Khadga,
+    sharp-edged, difficult of acquisition, Sirgarbha, victory, and protector of righteousness.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation/summary used.
+- id: ev:2
+  type: quote
+  locator: 40809-40811
+  quote_or_summary: '"Of all weapons ... the sword is the foremost"; the Puranas declare
+    that it was first wielded by Mahadeva.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation/summary used.
+- id: ev:3
+  type: summary
+  locator: 40811-40813
+  quote_or_summary: Prithu first created the bow; with it, the son of Vena governed
+    virtuously and milked the earth of abundant crops and grain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 40814-40815
+  quote_or_summary: The addressee is told to accept the Rishis' words as conclusive
+    proof, and warriors are told to worship the sword.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 40816-40819
+  quote_or_summary: The speaker says he has answered the query about the sword's origin
+    and creation; hearing the story brings fame in this world and eternal felicity
+    in the next.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a brief concluding excerpt and not the full weapon-origin or Prithu
+    narrative. No comparison claims are made beyond the passage-level motif candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external context or figure identification beyond the passage was added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l40807-l40819
+  passage_sha256=d63338c526c5c8069938bf9666192b34ba00222ae2a9b4ee61c2bea4bddcd4ed
+

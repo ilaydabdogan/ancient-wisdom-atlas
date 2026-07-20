@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l7836-l7844
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: HUNGEE-SPEING.      WATER-GAUGING.  591 / MILL-WHEEL   WATER.      RAIN-MAKING.  593
+    / EAIN-MAKING.      DUCKING.  595 / HOLT  WATEKS.      LAKES.  597; lines 7836-7844
+  start: '7836'
+  end: '7844'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A note reports a belief that Lake Baikal is bottomless and recounts a priest
+    who tried to dive into it, was frightened by lus described as dragons or sea-monsters,
+    and died raving mad. A second note cites a 1644 work by Joh. Gutslaff about the
+    so-called holy brook Wohhanda in Livonia and the burning of Sommerpahl mill, framed
+    as Christian opposition to heathen superstition.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: People living near Lake Baikal are said to believe that the lake has no bottom.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A priest who could dive to any depth attempted to test or enter the lake depth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The priest was frightened by lus, glossed in the passage as dragons or sea-monsters.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The priest is reported, with uncertainty by the narrator, to have died raving
+    mad.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A cited 1644 account concerns the brook Wohhanda in Livonia, described in
+    the citation as falsely called holy.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The same cited account connects the brook Wohhanda with the burning of Sommerpahl
+    mill.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The cited work presents itself as written from Christian zeal against unchristian
+    and heathenish superstition.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: people about Lake Baikal
+  description: A local population said to believe Lake Baikal has no bottom.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: diving priest
+  description: A priest able to dive to any depth who tried the lake and was frightened
+    by the lus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: lus
+  description: Beings in the lake glossed as dragons or sea-monsters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Joh. Gutslaff
+  description: Pomeranian pastor at Urbs in Livonia, named as author of a 1644 account
+    of the brook Wohhanda.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: local believers
+  assigned_to:
+  - fig:1
+  basis: They are said to believe that Lake Baikal has no bottom.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: diver into dangerous water
+  assigned_to:
+  - fig:2
+  basis: The priest could dive to any depth and tried Lake Baikal, but was frightened
+    and later died raving mad.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: frightening water beings
+  assigned_to:
+  - fig:3
+  basis: The lus are the beings that frightened the priest in the lake depths.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Christian polemical author
+  assigned_to:
+  - fig:4
+  basis: The cited title describes the work as written from Christian zeal against
+    unchristian and heathenish superstition.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bottomless lake
+  literal_form: Lake Baikal believed to have no bottom
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: lus as aquatic monsters
+  literal_form: dragons or sea-monsters encountered in the lake
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: holy brook
+  literal_form: Wohhanda brook in Livonia, called holy in the cited title but marked
+    as falsely so called
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Sommerpahl mill
+  literal_form: mill whose burning is associated with the Wohhanda brook in the cited
+    title
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Attempted dive into Lake Baikal
+  summary: A priest who could dive deeply tries Lake Baikal, encounters or perceives
+    lus in the depths, is frightened, and is said to die raving mad.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Citation of account on Wohhanda brook
+  summary: The passage cites a 1644 work about the so-called holy brook Wohhanda in
+    Livonia, the burning of Sommerpahl mill, and Christian opposition to heathen superstition.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: bottomless body of water inhabited by frightening monsters
+  taxonomy_refs: []
+  basis: The passage combines a local belief that Lake Baikal has no bottom with an
+    account of lus, glossed as dragons or sea-monsters, frightening a diver.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The account is brief, second-hand, and marked by the translator's uncertainty
+    about the priest's death.
+- id: motif:2
+  label: dangerous descent into supernatural water depth
+  taxonomy_refs: []
+  basis: A priest able to dive to any depth enters or tests the lake and suffers terror
+    and reported madness after encountering the lus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe a ritual descent or heroic quest; it only
+    reports a failed diving attempt.
+- id: motif:3
+  label: contested holy water in anti-superstition polemic
+  taxonomy_refs: []
+  basis: The cited work treats Wohhanda as a so-called holy brook and frames the account
+    as Christian opposition to unchristian and heathenish superstition.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: Only bibliographic title information is given; the passage does not narrate
+    the brook tradition itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7836-7837
+  quote_or_summary: People about Lake Baikal believe it has no bottom.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7837-7839
+  quote_or_summary: A priest able to dive to any depth tried Lake Baikal, was frightened
+    by lus described as dragons or sea-monsters, and is said, with uncertainty, to
+    have died raving mad.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7841-7843
+  quote_or_summary: A cited title concerns the holy brook Wohhanda in Livonia, described
+    as falsely so called, and the burning of Sommerpahl mill.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7843-7844
+  quote_or_summary: The cited work is attributed to Joh. Gutslaff, Pomeranian pastor
+    at Urbs in Livonia, and is framed as written from Christian zeal against unchristian
+    and heathenish superstition.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of brief notes and bibliographic citation rather than
+    a full narrative. Motif candidates are therefore tentative and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself make an explicit comparative claim beyond presenting water-related notes.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l7836-l7844
+  passage_sha256=334d71b725842f94796b661501c0581ddb349a677b70dcb6ec643c3dd61a419f
+

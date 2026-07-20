@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l99291-l99380
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH LP / See Aranyaka, I, 4, 2. / KEITH Q / ADHYAYA 4,; lines 99291-99380
+  start: '99291'
+  end: '99380'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt begins with a chariot metaphor in which breath mounts a vehicle
+    associated with bodily and mental faculties. The main translated passage describes
+    the primordial one self, its decision to create worlds, the arrangement of waters,
+    heaven, sky, earth, and lower waters, and the creation of a person from the waters.
+    After brooding over the person, successive organs and faculties emerge, each linked
+    with cosmic or natural entities such as fire, wind, sun, quarters, plants, moon,
+    death, and water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'A chariot metaphor maps bodily or mental faculties onto a vehicle: speech,
+    eyes as horses, mind as driver, and breath mounting upon it.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the beginning, the one self alone is present, with nothing else described
+    as blinking.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The one self thinks about creating worlds and creates worlds named water,
+    lights, mortal, and waters.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage places water above heaven, says heaven supports it, identifies
+    the lights with the sky, the mortal with earth, and waters beneath the earth.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The one self thinks about creating guardians of the worlds and forms a person
+    by taking him from the waters.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The one self broods over the formed person, and a mouth bursts forth like
+    an egg.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: From the mouth come speech and then fire; from nostrils come scent and then
+    wind; from eyes come sight and then the sun; from ears come hearing and then the
+    quarters.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: From skin come hairs and then plants and trees; from the heart come mind and
+    then the moon; from the navel come down-breathing and then death; from the generative
+    organ come seed and then water.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: An editorial note describes the passage as an imitation of the Purusa Sukta
+    and states that it differs by making the self the metaphysical prior principle.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the one self
+  description: The sole primordial self who thinks, creates worlds, and forms a person
+    from the waters.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the formed person
+  description: A person formed from the waters and brooded over; organs, faculties,
+    and cosmic or natural entities emerge from him.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Breath
+  description: Breath is said to mount upon the chariot-like vehicle in the opening
+    metaphor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: primordial creator
+  assigned_to:
+  - fig:1
+  basis: The one self is alone at the beginning, thinks about creating worlds and
+    guardians, creates worlds, and forms the person.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: formed being from waters
+  assigned_to:
+  - fig:2
+  basis: The person is formed by being taken from the waters.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: source-body for emergent faculties and cosmic entities
+  assigned_to:
+  - fig:2
+  basis: The passage lists organs and faculties emerging from the person and corresponding
+    to fire, wind, sun, quarters, plants, moon, death, and water.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: rider or mounter of the chariot-body
+  assigned_to:
+  - fig:3
+  basis: Breath is described as mounting upon the chariot-like vehicle.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: chariot-body vehicle
+  literal_form: A chariot-like vehicle whose features are associated with speech,
+    eyes as horses, and mind as driver; breath mounts upon it.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: waters
+  literal_form: Waters are created as worlds, placed above heaven and below earth,
+    serve as the source from which the person is formed, and recur as the result of
+    seed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: egg-like bursting
+  literal_form: The mouth of the brooded person bursts forth as an egg does.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: fire from speech
+  literal_form: Fire emerges from speech after speech emerges from the mouth.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: cosmic powers from bodily faculties
+  literal_form: Wind, sun, quarters, moon, death, and water arise in sequence from
+    bodily organs, faculties, or breaths.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: plants and trees from hairs
+  literal_form: Plants and trees emerge from hairs after hairs emerge from skin.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Breath mounts the chariot-like body
+  summary: The opening lines present a chariot metaphor linking bodily and mental
+    faculties to parts of a vehicle, with breath mounting upon it.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Primordial self creates worlds
+  summary: The one self exists alone, resolves to create worlds, and creates the named
+    worlds with a layered arrangement of waters, heaven, sky, earth, and lower waters.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Person formed from waters and brooded over
+  summary: The one self resolves to create guardians, forms a person from the waters,
+    broods over him, and the mouth bursts forth in an egg-like image.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Organs and cosmic correspondences emerge
+  summary: Organs and faculties emerge from the formed person, followed by corresponding
+    natural and cosmic entities such as fire, wind, sun, quarters, plants, moon, death,
+    and water.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: body as chariot for breath
+  taxonomy_refs: []
+  basis: The opening metaphor presents a chariot-like vehicle associated with faculties
+    and says breath mounts upon it.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage begins mid-context, so the full antecedent of the chariot
+    metaphor is partly supplied by the included note.
+- id: motif:2
+  label: primordial solitary self creates the worlds
+  taxonomy_refs: []
+  basis: The translated passage states that only the one self existed at the beginning
+    and that it created worlds after deliberation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy family directly names general cosmogonic creation
+    by a primordial self.
+- id: motif:3
+  label: person formed from primordial waters
+  taxonomy_refs: []
+  basis: The self forms a person by taking him from the waters, within a broader world
+    arrangement involving waters above and below.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a water-creation pattern, but the passage does not describe a
+    flood or renewal episode.
+- id: motif:4
+  label: cosmic entities emerge from a primordial body
+  taxonomy_refs: []
+  basis: The person’s mouth, nostrils, eyes, ears, skin, heart, navel, and generative
+    organ give rise to faculties and then to fire, wind, sun, quarters, plants, moon,
+    death, and water.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The excerpt does not describe a sacrifice or dismemberment, only emergence
+    from the brooded person.
+- id: motif:5
+  label: egg-like emergence during creation
+  taxonomy_refs:
+  - cosmic_egg
+  basis: The mouth of the brooded person is said to burst forth as an egg does.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The egg appears as a simile for the mouth’s emergence, not as a full cosmic
+    egg from which the world hatches.
+comparison_claims:
+- id: claim:1
+  claim: The included editorial note compares this cosmogony with the Purusa Sukta,
+    describing it as an imitation while distinguishing it by saying that the metaphysical
+    prior principle is the self rather than purusa.
+  claim_level: historical_contact
+  target: Purusa Sukta, RV X.90
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: The comparison rests on the supplied editorial note; the excerpt does
+    not provide a full side-by-side textual collation, and the same note stresses
+    an important doctrinal difference.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 99291-99314; opening chariot paragraph and related note
+  quote_or_summary: The excerpt maps faculties onto a chariot-like vehicle, says breath
+    mounts upon it, and the included note glosses the chariot as the body where prana
+    mounts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 99315-99325; beginning of Adhyaya 4
+  quote_or_summary: The translated passage begins by saying that, in the beginning,
+    the one self alone was present and nothing else was blinking.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 99315-99335; world creation and arrangement
+  quote_or_summary: The one self decides to create worlds and creates water, lights,
+    mortal, and waters; water is above heaven, heaven supports it, lights are the
+    sky, mortal is earth, and waters are under earth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 99335-99347; formation of person
+  quote_or_summary: The self decides to create guardians of the worlds, forms a person
+    by taking him from the waters, broods over him, and the mouth bursts forth like
+    an egg.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 99347-99360; first emergence sequence
+  quote_or_summary: From the mouth come speech and fire; from nostrils come scent
+    and wind; from eyes come sight and the sun; from ears come hearing and the quarters.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 99360-99372; second emergence sequence
+  quote_or_summary: From skin come hairs and plants and trees; from heart come mind
+    and the moon; from navel come down-breathing and death; from the generative organ
+    come seed and water.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: note
+  locator: lines 99300-99335; editorial note on prana-vidya
+  quote_or_summary: The included commentary discusses later interpretations of prana-vidya,
+    immortality, rebirth in brahmaloka, and liberation, while noting that some later
+    doctrines are not clear in this Aranyaka.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: note
+  locator: lines 99372-99380; editorial comparison note
+  quote_or_summary: An editorial note calls the passage an imitation of the Purusa
+    Sukta, RV X.90, and says it differs by making the metaphysical prior principle
+    the atman.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on the supplied excerpt, which contains OCR noise, truncated
+    opening context, and editorial commentary mixed with translated passage. Motif
+    confidence is strongest for the cosmogonic and body-cosmos sequences.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. Interpretive claims are limited to explicit passage content and one supplied editorial comparison note.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l99291-l99380
+  passage_sha256=76d3fe7fc25c4a6598e7b7f53b383f1932a81a0662a8e1ca29f998265cc30018
+

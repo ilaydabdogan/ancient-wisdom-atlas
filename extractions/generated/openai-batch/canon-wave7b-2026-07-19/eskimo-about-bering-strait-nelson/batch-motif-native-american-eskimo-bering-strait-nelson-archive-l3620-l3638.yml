@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l3620-l3638
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: LABRETS / LABRETS / THE    ESKIMO    ABOUT    BERING    STRAIT / TATTOOING;
+    lines 3620-3638
+  start: '3620'
+  end: '3638'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the distribution of women’s tattooing around Bering
+    Strait, noting stronger development on the Siberian coast and St Lawrence Island,
+    partial and reportedly recent use south of the Yukon, claimed adoption from Nunivak
+    Island and Tinné women, and several regional facial, chin, wrist, and forearm
+    tattoo patterns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tattooing is described as universally practiced among women of the Bering
+    Strait region.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The practice is said to have its greatest development on the Siberian coast
+    and St Lawrence Island.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: On the tundra south of the Yukon, only some women are tattooed, and the practice
+    is reported as comparatively recent there.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: People south of the Yukon are reported to claim adoption of tattooing from
+    Nunivak Island women and from seeing tattooing on Tinné women’s faces.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A common pattern in the district is a pair of lines across the chin from each
+    corner of the mouth.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Malemut women and women from the Noatak and Kowak rivers are described as
+    having series of tattoo lines crossing the chin and radiating from the lower lip.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The same women are also described as frequently having straight tattoo lines
+    across the back of the wrist and forearm.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Women of the Bering Strait region
+  description: Women among whom tattooing is described as universally practiced.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Women on the tundra south of the Yukon
+  description: Women among whom only part are tattooed and for whom the practice is
+    described as comparatively recent.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Women of Nunivak Island
+  description: Women said to have straight lines on their cheeks and to be a source
+    from whom tattooing was adopted by women south of the Yukon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Tinné women
+  description: Women whose facial tattooing was reportedly seen and associated with
+    adoption of the practice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Malemut, Noatak, and Kowak River women
+  description: Women described as wearing chin tattoo lines radiating from the lower
+    lip and often straight lines on the wrist and forearm.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: tattooed women
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:5
+  basis: The passage describes tattooing as practiced by these groups of women and
+    specifies their tattoo patterns.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: reported adopters of tattooing practice
+  assigned_to:
+  - fig:2
+  basis: The passage reports that women south of the Yukon claim to have adopted tattooing
+    from other women.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: reported sources or models for tattooing practice
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Nunivak Island women and Tinné women are named as groups from whom or by
+    observation of whom the practice was adopted.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: facial tattoo lines
+  literal_form: straight or paired lines on cheeks, chin, or face
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: chin tattoo lines from mouth corners
+  literal_form: a pair of lines across the chin from each corner of the mouth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: radiating lower-lip chin tattoo lines
+  literal_form: series of tattoo lines crossing the chin and radiating from the lower
+    lip
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: wrist and forearm tattoo lines
+  literal_form: straight lines across the back of the wrist and forearm
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Regional distribution of women’s tattooing
+  summary: The passage surveys women’s tattooing across the Bering Strait region,
+    emphasizing its broad practice, its strongest development on the Siberian coast
+    and St Lawrence Island, and its more recent or partial use south of the Yukon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Reported adoption and comparison of facial tattooing
+  summary: Women south of the Yukon are reported to connect their tattooing practice
+    with Nunivak Island women’s cheek lines and with tattooing observed on Tinné women’s
+    faces.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Description of regional tattoo patterns
+  summary: The passage describes common chin lines from the corners of the mouth and
+    regional patterns of radiating chin lines and straight wrist and forearm lines
+    among Malemut, Noatak, and Kowak River women.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: women’s facial and limb tattooing as regional body marking
+  taxonomy_refs: []
+  basis: The passage presents tattooing as a widespread women’s practice and gives
+    repeated details of facial, chin, wrist, and forearm line patterns by region.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is ethnographic and descriptive; it does not state a mythic,
+    ritual, or cosmological meaning for the tattoo patterns.
+- id: motif:2
+  label: adoption of body-marking practice through neighboring groups
+  taxonomy_refs: []
+  basis: The passage reports that women south of the Yukon claim to have adopted tattooing
+    from Nunivak Island women and from seeing tattooing on Tinné women’s faces.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The adoption is reported as an informant claim; no independent corroborating
+    evidence or symbolic explanation is supplied in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison between tattooing south of the
+    Yukon and facial tattooing among Nunivak Island and Tinné women, because it reports
+    a claimed adoption or modeling relationship.
+  claim_level: historical_contact
+  target: Nunivak Island women’s cheek tattoo lines and Tinné women’s facial tattooing
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the reported statement in the passage; it does
+    not provide dates, mechanisms, or independent confirmation of transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3620-3624
+  quote_or_summary: Tattooing is described as universal among women of the Bering
+    Strait region and most developed on the Siberian coast and St Lawrence Island.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 3624-3629
+  quote_or_summary: South of the Yukon, only part of the women are tattooed; the practice
+    is described as recent and reportedly adopted from Nunivak Island women with cheek
+    lines and from seeing tattooing on Tinné women’s faces.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 3629-3632
+  quote_or_summary: The common district pattern is a pair of lines across the chin
+    from each corner of the mouth.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source text; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 3635-3638
+  quote_or_summary: Malemut, Noatak, and Kowak River women are described as having
+    tattoo lines crossing the chin and radiating from the lower lip, and often straight
+    lines on the back of the wrist and forearm.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source text; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage gives clear ethnographic details about tattooing practices and
+    patterns. Motif identification is limited because no ritual, mythic, or symbolic
+    meaning is stated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs apply directly to the tattoo motifs in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l3620-l3638
+  passage_sha256=16c935c21ea6b7de170b7f0e9851d2c9c9767d11d96331326b432befd47138dd
+

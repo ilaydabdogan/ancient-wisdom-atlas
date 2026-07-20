@@ -1,0 +1,433 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l30520-l30660
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: XXIII WEAPONS AND IMPLEMENTS 663 / FIG. 221. SPEAK-THROWER, / DURING A CEREMONY.
+    / NORTHERN TRIBES. TRIBE. TRIBE.; lines 30520-30660
+  start: '30520'
+  end: '30660'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes ground bone implements, fish-catching without hooks
+    among central groups, fish-hook forms made from bone, wood, resin, bark fibre,
+    and string among river groups to the north, and the absence or presence of boats
+    in different Australian regions according to water conditions. It also notes a
+    visual resemblance between some pitchis and boats.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two bone implements are described as varying in size; one has one ground end
+    and a split end tied with sinew, while another has both ends ground down.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the true central tribes do not manufacture fish-hooks
+    and would have little use for them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In shallow water-holes, a line of people pushes bushes through the water to
+    disturb and drive fish into the shallows, where some fish become entangled in
+    the bushes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rivers flowing into the Gulf are described as having deeper and more permanent
+    water-holes and larger fish.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In those river settings, hooks are made in various forms from wood or bone;
+    a simple bone form is flattened, pointed, lacks a barb, and has an expanded end
+    for line attachment.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'A second fish-hook type has two parts: a long shaft and a separate pointed
+    piece attached with resin, sometimes reinforced with string, twine, or bark strands.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The line attachment for a fish-hook is described as using two-ply bark string,
+    looping, intertwining, and tight winding around the shaft and line.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Boats are said to be unknown among the central tribes because creeks rarely
+    contain enough water for a boat to be useful.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage explicitly notes a striking resemblance in form between some pitchis
+    and boats.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: South-eastern Australian boats are described as bark forms, including a simple
+    bark slab shaped like a wide shallow bowl and another bark form with tied ends,
+    cords, and wooden bars.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Central tribes
+  description: Groups described as not manufacturing fish-hooks, catching fish by
+    driving them in shallow water-holes with bushes, and not having boats because
+    of scarce usable water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Gulf river and Alligator River groups
+  description: Groups associated in the passage and figure captions with deeper water,
+    larger fish, and wooden or bone fish-hooks made with resin, twine, bark fibre,
+    and line attachments.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: South-eastern tribes of Australia
+  description: Groups described as making comparatively rude bark boats.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Fish
+  description: Fish remain in water-holes after rivers stop running and are driven
+    into shallows, where some become entangled in bushes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: cooperative fishers without fish-hooks
+  assigned_to:
+  - fig:1
+  basis: The passage says these groups do not make fish-hooks and instead drive fish
+    through shallow pools using bushes.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: fish-hook makers
+  assigned_to:
+  - fig:2
+  basis: The passage describes these river groups as making fish-hooks from bone,
+    wood, resin, twine, and bark materials.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: bark-boat makers
+  assigned_to:
+  - fig:3
+  basis: The passage states that south-eastern tribes make bark boats in simple and
+    somewhat more elaborate forms.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: caught quarry
+  assigned_to:
+  - fig:4
+  basis: Fish are driven toward shallows and may become entangled in bushes during
+    the fishing method described.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water-holes and rivers
+  literal_form: water-holes, pools, rivers, and creeks
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: bush fish-drive implement
+  literal_form: bushes pushed in a line through shallow water
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: simple bone fish-hook
+  literal_form: flattened bone hook with sharp point, no barb, and expanded line end
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: composite fish-hook binding
+  literal_form: wood or bone shaft, separate pointed hook, resin or wax, twine, bark
+    strands, and bark string line
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: bark boat
+  literal_form: tree bark slab or tied bark form with upturned sides, cords, and wooden
+    bars
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: pitchi-boat resemblance
+  literal_form: some pitchis described as resembling boats in form
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: repaired bone implement
+  literal_form: ground bone implement with split end tied around with sinew
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Bone implement specimens
+  summary: The passage first describes bone implements with ground ends, including
+    one repaired by sinew binding and another with both ends ground down.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fish drive in shallow water-hole
+  summary: People move in a line through a shallow pool, pushing bushes ahead of them
+    and driving fish into the shallows, where fish may become entangled.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Simple bone fish-hook in Gulf river setting
+  summary: In deeper and more permanent northern river water-holes with larger fish,
+    a simple fish-hook is made from solid bone, flattened and pointed without a barb.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Composite fish-hook construction and line attachment
+  summary: Composite hooks are made with shaft and separate point, joined by resin
+    and reinforced with twine or bark strands; the line is attached through looping,
+    intertwining, and winding.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Boat absence and pitchi resemblance among central tribes
+  summary: Boats are said to be unknown among central tribes because water is rarely
+    sufficient, though the passage notes that some pitchis resemble boats in form.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: South-eastern bark boat forms
+  summary: South-eastern groups are described as making bark boats, from simple bark
+    slabs shaped like shallow bowls to forms with tied ends, cords, and wooden bars.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: collective fish drive with vegetation
+  taxonomy_refs: []
+  basis: The passage describes a group method in which people use bushes to drive
+    fish through a shallow water-hole into the shallows.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a practical ethnographic pattern, not presented in the passage
+    as a sacred or narrative mythic motif.
+- id: motif:2
+  label: fish-hook manufacture from bone, wood, resin, and bark fibre
+  taxonomy_refs: []
+  basis: The passage gives multiple fish-hook forms and details materials and attachment
+    methods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a material-culture motif candidate rather than a mythological
+    episode.
+- id: motif:3
+  label: water availability shaping boat presence or absence
+  taxonomy_refs: []
+  basis: The passage contrasts central tribes, where boats are unknown because water
+    is rarely sufficient, with south-eastern tribes that make bark boats.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage supports an ecological-technological pattern but does not
+    state a ritual or historical explanation.
+- id: motif:4
+  label: boat-shaped container or implement resemblance
+  taxonomy_refs: []
+  basis: The passage notes a striking resemblance in form between some pitchis and
+    boats.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only visual resemblance is stated; no origin, function, or symbolic connection
+    is established.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself supports a visual comparison between some pitchis and
+    boats, describing a striking resemblance in form.
+  claim_level: visual_similarity
+  target: some pitchis and boats
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not assert shared origin, shared function, ritual
+    meaning, or historical contact for this resemblance.
+- id: claim:2
+  claim: 'The passage compares alternative fish-catching practices: central groups
+    use bush drives in shallow pools, while northern river groups make fish-hooks
+    for deeper waters and larger fish.'
+  claim_level: same_function
+  target: fish-catching methods in shallow central water-holes and deeper Gulf river
+    water-holes
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional and ecological; it does not imply common
+    inheritance or direct cultural borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30520-30528
+  quote_or_summary: Opening fragment describes ground bone implements, including one
+    with a split end tied with sinew and another with both ends ground down.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:2
+  type: summary
+  locator: Fish-Hooks, lines 30529-30545
+  quote_or_summary: Central tribes do not make fish-hooks; in shallow water-holes,
+    people drive fish with bushes until some fish are forced into shallows and entangled.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:3
+  type: summary
+  locator: Fish-Hooks, lines 30547-30560
+  quote_or_summary: Rivers flowing into the Gulf have deeper permanent water-holes
+    and larger fish; hooks are made from wood or bone, including a flattened, pointed,
+    barbless bone hook with expanded line end.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:4
+  type: summary
+  locator: Fish-Hooks, lines 30562-30592
+  quote_or_summary: Composite fish-hooks have a shaft and separate pointed hook, joined
+    by resin and sometimes secured by string, twine, or bark strands; captions identify
+    Alligator River examples.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:5
+  type: summary
+  locator: Fish-Hooks / Fig. 243 description, lines 30593-30618
+  quote_or_summary: The line attachment uses two-ply inner-bark string, a looped main
+    line, intertwining above the bone head, and tight winding around the line.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:6
+  type: summary
+  locator: Boats, lines 30620-30630
+  quote_or_summary: Boats are unknown among central tribes because water in creeks
+    is rarely sufficient, but the passage notes a striking formal resemblance between
+    some pitchis and boats.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:7
+  type: summary
+  locator: Boats, lines 30631-30660
+  quote_or_summary: 'South-eastern Australian boats are described as bark constructions:
+    a simple wide shallow bowl-like slab and a more elaborate form with tied ends,
+    cords, wooden bars, and capacity for about three people.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive ethnography of implements, fishing, and boats.
+    Motif candidates are practical material-culture patterns; no sacred narrative
+    interpretation is asserted. OCR/caption artifacts are present around some figure
+    references, so summaries avoid uncertain caption details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were applied only where directly supported by literal water and tree/bark materials.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l30520-l30660
+  passage_sha256=27b58add09d9bbc9ff70931d0a6573378dff8aee9e1bbc506d85d25ac02fe530
+

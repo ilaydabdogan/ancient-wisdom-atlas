@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l30451-l30634
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 30451-30634
+  start: '30451'
+  end: '30634'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an index section listing entries from Ser through Shai.
+    It includes cross-references for serpent-related beings, Set and related entries,
+    Set and Horus fighting, sevenfold items, Serapis, Serqet, and other names or objects.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is formatted as an index with names, objects, and brief descriptors
+    followed by volume and page references.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists several serpent-related entries, including a serpent-god,
+    a Serpent of Sunrise described as 30 cubits long, a serpent made by Isis, a seven-headed
+    serpent, a speaking serpent, and a serpent 30 cubits long.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The entry for Set lists many references and includes descriptors such as animal
+    of Set, defeat of Set, figures of Set, god of Mercury, and god of South.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A separate entry states that Set and Horus fight.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Separate entries identify Set with a serpent and with a snake.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: 'The index lists several items organized around the number seven: Seven Gates,
+    Seven hawks, Seven-headed serpent, Seven Scorpions of Isis, Seven Spirits, and
+    Seven Tablets of Creation.'
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index includes an entry for the Ladder of Set.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Set
+  description: Indexed figure with entries including animal of Set, defeat of Set,
+    figures of Set, god of Mercury, god of South, Set and Horus fighting, Ladder of
+    Set, and Set as serpent or snake.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Horus
+  description: Named in the index entry stating that Set and Horus fight.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Isis
+  description: 'Named in serpent and scorpion entries: a serpent made by Isis and
+    Seven Scorpions of Isis.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Indexed serpent beings
+  description: Serpent-related entries include serpent-god, Serpent of Sunrise, serpent
+    made by Isis, seven-headed serpent, speaking serpent, and serpent 30 cubits long.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: Seven Scorpions of Isis
+  description: A numbered group named in the index as Seven Scorpions of Isis.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: indexed god with stated domains and defeat
+  assigned_to:
+  - fig:1
+  basis: The Set entry includes god of Mercury, god of South, and defeat of Set.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: combatant in named fight
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The index entry states that Set and Horus fight.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: serpent- or snake-associated figure
+  assigned_to:
+  - fig:1
+  basis: Separate index entries identify Set as the serpent and as the snake.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: figure associated with made serpent and scorpion group
+  assigned_to:
+  - fig:3
+  basis: The passage lists a serpent made by Isis and Seven Scorpions of Isis.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: indexed serpent beings
+  assigned_to:
+  - fig:4
+  basis: The passage lists multiple serpent beings and attributes, including seven-headed,
+    speaking, and 30-cubit serpents.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:6
+  label: numbered group associated with Isis
+  assigned_to:
+  - fig:5
+  basis: The passage gives the entry Seven Scorpions of Isis.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: Serpent-god; Serpent of Sunrise; serpent made by Isis; seven-headed
+    serpent; speaking serpent; Set as serpent or snake.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: sevenfold grouping
+  literal_form: Seven Gates; Seven hawks; Seven-headed serpent; Seven Scorpions of
+    Isis; Seven Spirits; Seven Tablets of Creation.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: scorpions of Isis
+  literal_form: Seven Scorpions of Isis.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: ladder of Set
+  literal_form: Ladder of Set.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: animal of Set
+  literal_form: Animal of Set; Set animal.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+scenes:
+- id: scene:1
+  label: Indexed fight of Set and Horus
+  summary: The index refers to an event in which Set and Horus fight, without providing
+    narrative details in this passage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Serpent beings and serpent-associated deity
+  taxonomy_refs:
+  - serpent
+  basis: The index clusters multiple serpent references, including a serpent-god,
+    serpent made by Isis, seven-headed serpent, speaking serpent, and Set as serpent
+    or snake.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is an index; it names referenced topics but does not provide
+    the underlying mythic episodes.
+- id: motif:2
+  label: Divine combat between Set and Horus
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly includes the entry that Set and Horus fight, and the
+    Set entry also mentions defeat of Set.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The fight is only named as an index entry; no details of cause, sequence,
+    or outcome are provided here beyond the separate phrase defeat of Set.
+- id: motif:3
+  label: Sevenfold sacred or mythic groupings
+  taxonomy_refs: []
+  basis: 'The index lists several sevenfold items: gates, hawks, a serpent, scorpions
+    of Isis, spirits, and tablets of creation.'
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage only lists index entries and does not explain the function
+    or significance of the number seven.
+- id: motif:4
+  label: Divine ladder or access object associated with Set
+  taxonomy_refs: []
+  basis: The index includes a Ladder of Set entry.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: Only the index label is supplied; no narrative context identifies how
+    the ladder functions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30451-30634
+  quote_or_summary: The passage is an index page with alphabetized entries and cross-references.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 30451-30634; serpent entries
+  quote_or_summary: '"Serpent-god"; "Serpent of Sunrise 30 cubits long"; "Serpent
+    made by Isis"; "seven-headed"; "speaks"; "30 cubits long".'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short quoted index phrases.
+- id: ev:3
+  type: quote
+  locator: lines 30451-30634; Set entry
+  quote_or_summary: '"Set" ... "animal of" ... "defeat of" ... "figures of" ... "god
+    of Mercury" ... "god of South".'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short quoted index phrases.
+- id: ev:4
+  type: quote
+  locator: lines 30451-30634; Set and Horus entry
+  quote_or_summary: '"Set and Horus fight".'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short quoted index phrase.
+- id: ev:5
+  type: quote
+  locator: lines 30451-30634; Set serpent/snake entries
+  quote_or_summary: '"Set, the serpent"; "Set, the snake".'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short quoted index phrases.
+- id: ev:6
+  type: quote
+  locator: lines 30451-30634; Seven entries
+  quote_or_summary: '"Seven Gates"; "Seven hawks"; "Seven-headed serpent"; "Seven
+    Scorpions of Isis"; "Seven Spirits"; "Seven Tablets of Creation".'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short quoted index phrases.
+- id: ev:7
+  type: quote
+  locator: lines 30451-30634; Ladder of Set entry
+  quote_or_summary: '"Set, Ladder of".'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short quoted index phrase.
+- id: ev:8
+  type: quote
+  locator: lines 30451-30634; Set animal entries
+  quote_or_summary: '"Set animal".'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short quoted index phrase.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited because the supplied passage is an index section, not
+    the referenced mythological passages. Motif candidates identify indexed topics
+    only and require review against the cited body text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support historical, linguistic, or cross-tradition comparison beyond broad motif tagging.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l30451-l30634
+  passage_sha256=9d7e181d42999d75beaf76d2c619f07dc6c296e9974cc218b8154bfb0d0a045a
+

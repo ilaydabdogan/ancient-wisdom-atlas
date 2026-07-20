@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.gnostic-mead-fragments-of-a-faith-forgotten-archive-l8102-l8138
+source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+passage_locator:
+  label: PHILO   ON   THE   CONTEMPLATIVE   LIFE.  73 / PHILO   ON   THE   COMTEMPLATIVE   LIFE.  75
+    / PHILO   ON   THE   CONTEMPLATIVE   LIFE.  77 / FRAGMENTS   OF    A    FAITH    FORGOTTEN.;
+    lines 8102-8138
+  start: '8102'
+  end: '8138'
+  translation: Fragments of a Faith Forgotten
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After preliminary remarks on the banquet, the passage describes guests
+    and waiters arranged in order and a deep silence. The president chooses a passage
+    from sacred scripture or answers a doctrinal difficulty, seeking clarity rather
+    than display, and shares the interpretation with others. He teaches slowly with
+    pauses and recapitulations while the listeners attend closely and signal understanding
+    and approval by expression, nod, and look.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage refers to preliminaries of a banquet and says seasonings rouse
+    desire.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Guests take places in described ranks while waiters stand ready to serve in
+    order.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A deep silence is established before the president speaks.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The president searches out a passage in sacred scriptures or solves a difficulty
+    raised by a member.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The president does not seek verbal display but seeks a clearer view of doctrinal
+    points.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The president shares his understanding with others who long to learn.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The president teaches leisurely, pausing and recapitulating to impress ideas
+    on the hearers' souls.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The listeners remain attentive in one attitude and show comprehension by nod
+    and look.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The listeners show praise of the speaker by a pleased expression.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: president
+  description: The leader who selects scripture or answers a difficulty and gives
+    instruction.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: guests or members
+  description: Participants seated in ranks who listen attentively and seek to learn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: waiters
+  description: Servers standing in order, ready to serve at the banquet.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: speaker
+  description: The one whose words are praised by the listeners; context identifies
+    this with the president's instruction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: scriptural interpreter
+  assigned_to:
+  - fig:1
+  basis: The president searches sacred scripture or answers a doctrinal difficulty.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: teacher or speaker
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The president imparts instruction slowly, and the listeners respond to the
+    speaker.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: attentive learners
+  assigned_to:
+  - fig:2
+  basis: The members long to learn and listen attentively, showing comprehension by
+    nod and look.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: banquet servers
+  assigned_to:
+  - fig:3
+  basis: The waiters stand in order ready to serve.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sacred scriptures
+  literal_form: passage in the sacred scriptures
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: silence before instruction
+  literal_form: complete and deeper silence
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: nod and look
+  literal_form: gestures of nod and look showing comprehension
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: ordered banquet assembly
+  summary: After the banquet preliminaries, the guests and waiters are arranged in
+    order and complete silence is established.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: scriptural instruction
+  summary: The president chooses sacred scripture or answers a member's difficulty,
+    seeking doctrinal clarity and sharing it with learners.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: attentive reception
+  summary: The president teaches with pauses and recapitulations while listeners attend
+    closely and respond by gestures and expression.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacred instruction in ritual assembly
+  taxonomy_refs:
+  - wisdom
+  basis: A leader interprets sacred scripture or doctrinal questions for an ordered,
+    silent assembly that longs to learn.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is descriptive and pedagogical; it does not narrate a mythic
+    event.
+- id: motif:2
+  label: ordered silence before sacred teaching
+  taxonomy_refs: []
+  basis: The assembly enters a deeper silence before the president delivers scriptural
+    or doctrinal instruction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a ritualized behavioral pattern rather than a named mythological
+    motif.
+- id: motif:3
+  label: teacher shares vision with less keen learners
+  taxonomy_refs:
+  - wisdom
+  basis: The president has keener vision yet unselfishly shares understanding with
+    others who long to learn.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The word 'vision' is used in an intellectual or doctrinal context; no
+    literal visionary ascent is described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8102-8105
+  quote_or_summary: The passage closes remarks on banquet preliminaries and says seasonings
+    rouse desire.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8106-8115
+  quote_or_summary: Guests take their places in ranks, waiters stand ready in order,
+    and a complete, deeper silence is established.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8115-8119
+  quote_or_summary: The president searches a passage in sacred scriptures or solves
+    a difficulty proposed by a member.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8119-8127
+  quote_or_summary: The president avoids display, seeks a clearer view of doctrine,
+    and shares it with others who long to learn though they lack his keen vision.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8128-8135
+  quote_or_summary: The president teaches leisurely with pauses and recapitulations,
+    because rapid interpretation can leave hearers unable to comprehend.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8135-8138
+  quote_or_summary: The listeners fix their attention on him, remain in one attitude,
+    and show comprehension and praise by nod, look, and pleased expression.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage supports a clear description of ritual instruction and attentive
+    reception, but motif classification is limited because the excerpt is a descriptive
+    account rather than a mythic narrative. No passage-supported comparison claims
+    are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself compare this assembly to another motif family, text, or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:gnostic-mead-fragments-of-a-faith-forgotten-archive__l8102-l8138
+  passage_sha256=72cc9e6ef1c7f29652566e27afc0b4f67554479b0d6873d750919f782d12b155
+

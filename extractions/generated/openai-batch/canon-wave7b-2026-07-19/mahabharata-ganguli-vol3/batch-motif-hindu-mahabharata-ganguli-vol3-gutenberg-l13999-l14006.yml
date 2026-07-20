@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l13999-l14006
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12 / BOOK 8 / BOOK 9; lines 13999-14006'
+  start: '13999'
+  end: '14006'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"the car of Shalya careering in that dreadful battle like the car of Shakra"'
+  summary: In a dreadful battle, feathered shafts from the ruler of the Madras fall,
+    and Shalya's car is seen moving like Shakra's car during the destruction of the
+    Asuras.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Fierce shafts equipped with Kanka and peacock feathers fell after being sped
+    from the arms of the ruler of the Madras.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker addresses a king while describing what was seen in battle.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Shalya's car is described as careering in a dreadful battle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Shalya's car is explicitly compared to Shakra's car in former days during
+    the destruction of the Asuras.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Shalya / ruler of the Madras
+  description: A ruler of the Madras whose arms send forth fierce shafts; his car
+    is seen moving in battle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: King addressed
+  description: The addressee of the battle narration, addressed as "O king."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Shakra
+  description: Named as the possessor of a car used as a comparison for Shalya's car
+    in former days.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Asuras
+  description: Beings named in the comparison as those destroyed in the earlier event
+    involving Shakra's car.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: battle ruler and chariot-warrior
+  assigned_to:
+  - fig:1
+  basis: The passage calls him ruler of the Madras, says shafts are sped from his
+    arms, and describes his car in battle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: royal addressee
+  assigned_to:
+  - fig:2
+  basis: The narration addresses a figure as "O king."
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine comparator in battle simile
+  assigned_to:
+  - fig:3
+  basis: Shakra's car is used as the point of comparison for Shalya's battle car.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: destroyed opponents in remembered divine battle
+  assigned_to:
+  - fig:4
+  basis: The passage mentions the destruction of the Asuras in the comparison involving
+    Shakra.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: feathered shafts
+  literal_form: Fierce shafts equipped with Kanka and peacock feathers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: battle car
+  literal_form: The car of Shalya careering in battle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Shakra's car
+  literal_form: The car of Shakra in days of yore
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Shalya's car in battle
+  summary: Feathered shafts fall from the ruler of the Madras, and observers behold
+    Shalya's car moving through a dreadful battle, likened to Shakra's car during
+    the destruction of the Asuras.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: warrior's chariot compared to a divine battle chariot
+  taxonomy_refs: []
+  basis: The passage explicitly likens Shalya's battle car to Shakra's car during
+    the destruction of the Asuras.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a local simile in the passage; no broader mythic structure is
+    established in the excerpt.
+- id: motif:2
+  label: destruction of demonic opponents in remembered divine battle
+  taxonomy_refs: []
+  basis: The comparison recalls Shakra's car on the occasion of the destruction of
+    the Asuras.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The remembered event is mentioned only as part of a simile and is not
+    narrated in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage makes an explicit comparison between Shalya's careering battle
+    car and Shakra's car during the destruction of the Asuras.
+  claim_level: visual_similarity
+  target: Shakra's car in the destruction of the Asuras
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports the simile, but does not provide details about
+    Shakra's battle or the Asuras beyond the comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13999-14001
+  quote_or_summary: '"the fierce shafts, equipped with feathers of Kankas and peacocks"
+    fell after being sped from the arms of the ruler of the Madras.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 14001-14005
+  quote_or_summary: The narrator says, "O king," that they beheld Shalya's car in
+    dreadful battle, "like the car of Shakra" at the destruction of the Asuras.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is a brief battle simile rather than a complete mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied; the passage's strongest motif evidence is its explicit comparison between a mortal warrior's battle car and Shakra's divine battle car.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l13999-l14006
+  passage_sha256=59fedf4de47d14d07c27c2677012c43fa805b910ac0a41826c5f32dfc2bac7b1
+

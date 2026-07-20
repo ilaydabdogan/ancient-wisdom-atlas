@@ -1,0 +1,383 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l4920-l4991
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: HOLDA.      BERHTA.  13G9 / BERHTA.      OSTARA.  1371 / CISA.      FREYA.      GERDR.  1373
+    / NANNA.      FUOGE.      RAN.      HEL.  1375; lines 4920-4991
+  start: '4920'
+  end: '4991'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage collects philological and literary evidence concerning Hel/Helle/halja
+    as a personified underworld or hell, a destination expressed by formulas of going
+    to Hel or hell, and an image of hell as an open mouth or greedy receptacle that
+    swallows the dead. It also notes a water-death belief, Christian and biblical
+    language about death being swallowed up, and comparisons among Germanic, Latin,
+    Greek, Celtic, Slavic, Lithuanian, and Sanskrit terms.
+  language: English with cited Germanic, Latin, Greek, Celtic, Slavic, Lithuanian,
+    and Sanskrit forms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A quoted belief says that a person may lose his life in water.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hel is identified as a person in cited Old Norse and saga references.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists German and Middle High German expressions for going to hell
+    or going down into hell.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Helle is said to speak and to answer the devil in cited medieval texts.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hell is described through images of a mouth, jaws, an open mouth, and a greedy
+    cursed hole.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Otfrid’s wording is summarized as Hell finding Death and swallowing him up.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage distinguishes a Christian view in which death is swallowed up
+    from a heathen view in which halja receives and swallows the dead, but not death
+    itself.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage lists several linguistic equivalents or renderings for death,
+    hell, Hades, pit, grave, and related terms across multiple languages.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Hel / Helle / halja
+  description: A personified Germanic underworld figure or hell, cited as a person
+    and described as receiver and receptacle of the dead.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Death
+  description: Death appears as the entity found and swallowed by Hell in Otfrid’s
+    Christian wording as cited in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Devil
+  description: The devil is mentioned as the interlocutor answered by Helle in a cited
+    medieval passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: personified underworld figure
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says Hel is a person in cited sources and notes Helle
+    speaking.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: receiver and receptacle of the dead
+  assigned_to:
+  - fig:1
+  basis: The passage states that to heathens halja was the receiver and receptacle
+    of the dead and swallowed the dead.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: destination of the dead or hell-journey
+  assigned_to:
+  - fig:1
+  basis: The passage lists formulas for going to Hel or hell, including going down
+    into hell and returning from hell or Hades.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: swallowed victim in Christian formulation
+  assigned_to:
+  - fig:2
+  basis: Otfrid’s wording is cited as Hell finding Death and swallowing him up.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: interlocutor of Helle
+  assigned_to:
+  - fig:3
+  basis: The passage says Helle speaks and answers the devil.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water-death setting
+  literal_form: water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hell-mouth
+  literal_form: mouth, jaws, open mouth, cursed greedy hole
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: underworld destination
+  literal_form: Hel, Helle, hell, Hades, infernus
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:4
+  label: swallowing hell
+  literal_form: Hell swallowing Death or the dead
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Loss of life in water
+  summary: A cited belief concerns a person who loses his life in water.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Going to Hel or hell
+  summary: The passage assembles formulas in which people go to Hel or hell, go down
+    into hell, or return from hell or Hades.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Helle speaks
+  summary: Helle is presented as a speaking figure who answers the devil in cited
+    texts.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hell as devouring mouth
+  summary: Hell is described as an open mouth, jaws, or greedy hole; Christian wording
+    has Hell swallow Death, while the heathen view has halja swallow the dead rather
+    than death itself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Journey or departure to Hel or hell
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage lists repeated formulas for going to Hel or hell, including going
+    down into hell and returning from Hades.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a philological note rather than a continuous narrative
+    map of an afterlife journey.
+- id: motif:2
+  label: Personified underworld receives and swallows the dead
+  taxonomy_refs: []
+  basis: Hel/Helle/halja is treated as a personified receiver or receptacle of the
+    dead, and hell is imaged as a mouth, jaws, or greedy hole.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage distinguishes between heathen halja swallowing the dead and
+    Christian language about death itself being swallowed.
+- id: motif:3
+  label: Hell swallowing Death
+  taxonomy_refs: []
+  basis: Otfrid’s Christian wording is cited as Hell finding Death and swallowing
+    him up, in discussion of 1 Corinthians 15.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage identifies this as a Christian view and explicitly says heathen
+    halja swallowed the dead, not death.
+- id: motif:4
+  label: Death in water
+  taxonomy_refs: []
+  basis: The opening cited belief concerns someone losing his life in water.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The quoted line is fragmentary in this passage and is not developed into
+    a fuller narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a linguistic and formulaic similarity between Old Norse
+    going to Hel and German or Middle High German expressions for going to hell.
+  claim_level: linguistic_similarity
+  target: Old Norse fara til Heljar and German/Middle High German ze helle varn or
+    related formulas
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a formulaic and linguistic comparison; the passage does not
+    supply a full shared narrative.
+- id: claim:2
+  claim: The passage compares Christian language of Hell swallowing Death with the
+    heathen image of halja swallowing the dead, while distinguishing the two.
+  claim_level: visual_similarity
+  target: Christian Pauline/Otfrid death-swallowed motif and heathen halja as receiver
+    of the dead
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: high
+  limitations: The passage explicitly denies that the heathen figure swallowed death
+    itself, so the comparison should not be treated as the same motif without qualification.
+- id: claim:3
+  claim: The passage presents halja/helle alongside Greek Hades, Latin infernus, Celtic
+    pit or grave terms, Slavic and Lithuanian terms, and Sanskrit kala/Kali as linguistic
+    or functional comparanda for death or the underworld.
+  claim_level: linguistic_similarity
+  target: Greek Hades, Latin infernus, Irish uaimh, Gaelic uaigh, Servian pakle, Lithuanian
+    pekla, Sanskrit kala/Kali
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage lists comparanda but does not establish historical contact
+    or a single shared mythic narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4920-4925
+  quote_or_summary: A quoted belief refers to someone who loses his life in water.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: 4926-4933
+  quote_or_summary: The passage states that Hel is a person in cited Old Norse and
+    saga sources.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: 4933-4941
+  quote_or_summary: The passage says the phrase for going to Hel was German too and
+    lists expressions for going to hell, going down into hell, and coming back from
+    Hades.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: 4941-4945
+  quote_or_summary: The passage says Helle speaks, answers the devil, and notes Bavarian
+    stories of Held.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:5
+  type: summary
+  locator: 4946-4957
+  quote_or_summary: Hell is described with a mouth or jaws, as opening wide, and as
+    a cursed greedy hole that no one can fill.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:6
+  type: quote
+  locator: 4958-4961
+  quote_or_summary: "“Hell has found Death, / And swallowed him up.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: summary
+  locator: 4962-4976
+  quote_or_summary: The passage discusses 1 Corinthians 15 and says it is a Christian
+    view that death is swallowed up; to heathens halja was receiver and receptacle
+    of the dead and swallowed the dead, but not death.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:8
+  type: summary
+  locator: 4976-4989
+  quote_or_summary: The passage lists Greek, Latin, Old English, Irish, Gaelic, Servian,
+    Lithuanian, and Sanskrit terms or renderings connected with death, hell, pit,
+    grave, Hades, or a death-goddess.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a dense philological note with many abbreviated citations
+    and corrupt OCR forms. Core points about Hel/Helle, journey-to-hell formulas,
+    hell-mouth imagery, and swallowing are clear, but some opening water-death material
+    is fragmentary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs and applied cautiously.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l4920-l4991
+  passage_sha256=bc28c65324cd0329756fee241da16d77cbf40cc19c28af9f2248a5bf66cbb4ca
+

@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l1947-l1983
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: ANCIENT    DISTRIBUTION    OF    ESKIMO. / STATISTICS  OF  POPULATION. /
+    TRIBAL  DIVISIONS  AND  PLACE-NAMES. / RACIAL    BOUNDARIES.; lines 1947-1983
+  start: '1947'
+  end: '1983'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes territorial boundaries and boundary interruptions
+    among Labrador Eskimo, Naskapi, Montagnais, Cree, and Copper River Indians, including
+    Davis Inlet trade, interior habitation zones, and a reported line dividing Indian
+    and Eskimo territories.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The coastal habitation of the Labrador Eskimo is said to be broken only at
+    Davis Inlet.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eastern Naskapi come yearly to the Hudson's Bay Company post at Davis Inlet
+    to trade.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Hudson's Bay Company factor informed the author that the Davis Inlet trade
+    was almost entirely Indian.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The author cites parallel cases in Alaska and Hudson Bay where Indian groups
+    interrupt or occupy gaps in Eskimo boundaries.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The Labrador interior is described as inhabited by Naskapi and Montagnais
+    Indians.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Naskapi are placed north and Montagnais south of the height of land.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Low's reported boundary places Montagnais south of a westward line from Hamilton
+    Inlet and Nauscaupees in the interior north of that line.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The northern limit of Naskapi territory is marked by the Koksoak River, Stillwater
+    branch, Clearwater Lake neighborhood, and Richmond Gulf.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A line is said to divide Indian territory from Eskimo territory; Eskimo keep
+    north of it when hunting deer inland, and Indians rarely cross it from the south.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Labrador Eskimo
+  description: Coastal group whose habitation and territorial boundary are described;
+    they keep north of the boundary when hunting deer inland.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Eastern Naskapi
+  description: Group said to come yearly to Davis Inlet to trade at the Hudson's Bay
+    Company post.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Naskapi / Nauscaupees
+  description: Interior northern inhabitants in the reported boundary description;
+    their northern limit is marked by named waterways and Richmond Gulf.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Montagnais Indians
+  description: Interior southern inhabitants, placed south of the height of land and
+    south of Low's line from Hamilton Inlet toward the St. Maurice headwaters.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Copper River Indians (Atnah Dene)
+  description: Alaska group cited as a parallel case that has broken through the Eskimo
+    boundary at Cooks Inlet.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Cree
+  description: Group cited as occupying territory at the bottom of Hudson Bay between
+    Eskimo on the east and west sides of the bay.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Hudson's Bay Company factor at Davis Inlet
+  description: Local informant who told the author that trade at Davis Inlet was almost
+    entirely Indian.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: coastal and northern-side inhabitants
+  assigned_to:
+  - fig:1
+  basis: The passage describes Labrador Eskimo coastal habitation and says Eskimo
+    keep north of the boundary while hunting deer inland.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: annual trading visitors
+  assigned_to:
+  - fig:2
+  basis: Eastern Naskapi are said to come out yearly to the Hudson's Bay Company post
+    to trade.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: interior northern inhabitants
+  assigned_to:
+  - fig:3
+  basis: Naskapi/Nauscaupees are placed in the interior country north of the described
+    line.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: interior southern inhabitants
+  assigned_to:
+  - fig:4
+  basis: Montagnais are described as inhabiting the country south of the height of
+    land and south of the reported line.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: groups associated with boundary breaks or gaps
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  basis: Eastern Naskapi are linked to the Davis Inlet break, while Copper River Indians
+    and Cree are cited as parallel cases affecting Eskimo boundaries elsewhere.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: boundary-observing territorial groups
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The boundary is described as well observed, with Eskimo remaining north and
+    Indians rarely crossing from the south.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: trade informant
+  assigned_to:
+  - fig:7
+  basis: The factor is cited as informing the author about the character of the trade
+    at Davis Inlet.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: waterways and water bodies as boundary markers
+  literal_form: Davis Inlet, Cooks Inlet, Hudson Bay, Hamilton Inlet, James Bay, Koksoak
+    River, Stillwater branch, Clearwater Lake, and Richmond Gulf are used as places
+    or boundary markers in the passage.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: territorial boundary line
+  literal_form: A line drawn across named places and waterways divides Indian territory
+    from Eskimo territory.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Davis Inlet trade and boundary interruption
+  summary: The Labrador Eskimo coastal habitation is described as interrupted at Davis
+    Inlet, where Eastern Naskapi annually trade at the Hudson's Bay Company post.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Parallel boundary interruptions
+  summary: The author compares Davis Inlet with cases in Alaska and Hudson Bay where
+    Indian groups break through or occupy gaps in Eskimo territorial boundaries.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Interior territorial divisions
+  summary: The interior country is divided between Naskapi/Nauscaupees and Montagnais,
+    with Low's report giving named lines and waterways as territorial boundaries.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Observed Indian-Eskimo boundary
+  summary: The boundary between Indian and Eskimo territory is said to be well observed,
+    with Eskimo keeping north while hunting inland and Indians rarely crossing from
+    the south.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats Davis Inlet as one instance of a broader geographic
+    pattern in which Indian groups interrupt, penetrate, or occupy gaps in Eskimo
+    territorial boundaries.
+  claim_level: same_function
+  target: Parallel boundary cases involving Copper River Indians at Cooks Inlet and
+    Cree at the bottom of Hudson Bay
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an ethnographic and geographic comparison made by the author,
+    not a mythological motif claim and not evidence by itself for historical contact
+    among all cases.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1947-1956
+  quote_or_summary: The Labrador Eskimo coastal habitation is broken only at Davis
+    Inlet, where Eastern Naskapi come yearly to the Hudson's Bay Company post to trade;
+    the factor says the trade is almost entirely Indian, and the author cites parallel
+    boundary breaks at Cooks Inlet and Hudson Bay.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: 1958-1964
+  quote_or_summary: The Labrador interior is inhabited by Naskapi and Montagnais Indians;
+    Naskapi are placed north and Montagnais south of the height of land; the passage
+    introduces Low's report as a source for definite boundaries.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: 1966-1976
+  quote_or_summary: Low's quoted account places Montagnais south of a westward line
+    from Hamilton Inlet, Nauscaupees north of it from James Bay to Hamilton Inlet,
+    and marks the Naskapi northern limit by the Koksoak River, Stillwater branch,
+    Clearwater Lake area, and Richmond Gulf.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: quote
+  locator: 1979-1983
+  quote_or_summary: '"This line divides the Indian territory from that of the Eskimo";
+    the boundary is said to be well observed, with Eskimo staying north when hunting
+    deer inland and Indians rarely crossing from the south.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; short quotation with summary.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: The passage is primarily ethnographic geography rather than myth narrative.
+    Motif candidates are therefore left empty; symbols are limited to literal geographic
+    markers and a boundary line.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Historical terminology from the source passage, including 'Eskimo' and 'Indian,' is retained only where needed for accurate extraction.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l1947-l1983
+  passage_sha256=9a4db99b0c4e2704ffa7850ee004924d74b19a248f2967d3f56e8091b3a54a6e
+

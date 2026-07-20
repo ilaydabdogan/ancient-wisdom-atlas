@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l4088-l4118
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CHAP. / BIRTH,   INFANCY,  AND   PUBERTY / THE   BAGANDA / CHAP.; lines 4088-4118
+  start: '4088'
+  end: '4118'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes possible social paths for Baganda boys after about
+    age ten: light service for a relative, possible placement in a chief''s household,
+    advancement through attentiveness and royal service, possible distinction in war,
+    or remaining in lower-status work if idle or less clever.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Boys about ten years old were expected to perform light duties for a relative,
+    including carrying beer and a mat or running messages.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A relative who judged a boy bright and quick might try to get him into the
+    household of a chief.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An attentive boy in a chief's household might become a trusted servant and
+    be sent on important business.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A boy might become a page to the King, and favor gained by alertness is presented
+    as leading to promotion.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In some cases a boy remained with his relative until war broke out, accompanied
+    him on an expedition, and might distinguish himself in battle.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The passage states that much depended on the boy himself: an idle boy might
+    remain a peasant, while a boy favored by a chief could obtain barkcloths or the
+    means to buy them.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Boys described as less clever are said to find their level as assistants to
+    peasants, with barkcloth making mentioned among their activities.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: boy or boys under discussion
+  description: Boys about ten years old whose possible duties, service, advancement,
+    war participation, or lower-status outcomes are described.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: relative
+  description: A relative for whom the boy performs light duties, who may seek a chief's
+    household placement for him, and whom a boy may accompany in war.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: chief
+  description: An elite household head whose household may take in a boy and whose
+    favor may enable the boy to obtain barkcloths.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: King
+  description: The royal figure to whom a boy might become a page.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: peasants
+  description: Lower-status people mentioned as the status an idle boy may remain
+    in, and as people assisted by less clever boys.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: youth in training or service
+  assigned_to:
+  - fig:1
+  basis: The passage presents boys about ten taking on duties, errands, household
+    service, and possible advancement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: kin patron or supervisor
+  assigned_to:
+  - fig:2
+  basis: The relative receives the boy's light service and may arrange placement in
+    a chief's household.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: elite patron or employer
+  assigned_to:
+  - fig:3
+  basis: The chief's household is a place of service and advancement, and the chief's
+    favor affects access to barkcloths.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:4
+  label: royal master
+  assigned_to:
+  - fig:4
+  basis: The King is the person whom the boy may serve as a page.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: possible combatant or war companion
+  assigned_to:
+  - fig:1
+  basis: A boy may accompany his relative on a war expedition and distinguish himself
+    in battle.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: commoner or peasant status
+  assigned_to:
+  - fig:5
+  basis: Peasants are named as the social level an idle boy may remain in and as people
+    assisted by less clever boys.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Light duties and possible placement
+  summary: Boys about ten perform light duties for relatives, and a bright, quick
+    boy may be placed by his relative in a chief's household.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Advancement through elite and royal service
+  summary: An attentive boy in a chief's household may become trusted, be sent on
+    important business, and potentially become a page to the King with prospects of
+    promotion.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: War expedition as opportunity for distinction
+  summary: A boy may remain with his relative until war and then accompany him on
+    an expedition, where he might distinguish himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Divergent lower-status outcomes
+  summary: The passage contrasts advancement with outcomes in which an idle boy remains
+    a peasant or less clever boys become assistants to peasants in work such as barkcloth
+    making.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Youth advancement through service to patrons
+  taxonomy_refs:
+  - initiation
+  basis: The passage gives a staged account of boys moving from light duties to household
+    service, trusted errands, possible royal page service, and promotion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes social custom and age-related progression, not a
+    formal ritual initiation.
+- id: motif:2
+  label: Status mobility through alertness, favor, and patronage
+  taxonomy_refs: []
+  basis: Bright, quick, and attentive boys may gain elite placement and promotion,
+    while idle or less clever boys remain in lower-status roles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic social pattern rather than a supernatural or narrative
+    myth motif.
+- id: motif:3
+  label: Warfare as a proving ground for youth
+  taxonomy_refs: []
+  basis: A boy may accompany a relative to war and possibly distinguish himself in
+    battle.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not elaborate a heroic narrative beyond the possibility
+    of distinction in battle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4088-4095
+  quote_or_summary: Boys about ten are expected to perform light duties for a relative;
+    a bright and quick boy may be placed by that relative in a chief's household.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4095-4103
+  quote_or_summary: An attentive boy in a chief's household may become a trusted servant,
+    be sent on important business, become a page to the King, and gain promotion through
+    alertness.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4104-4110
+  quote_or_summary: A boy may remain with his relative until war, accompany him on
+    an expedition, and perhaps distinguish himself in battle.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4110-4118
+  quote_or_summary: 'The passage states that a boy''s outcome depends on him: an idle
+    boy may remain a peasant, a chief''s favor may bring barkcloths or means to buy
+    them, and less clever boys may assist peasants in work including barkcloth making.'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is ethnographic and social rather than mythic. No external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol was assigned; objects such as beer, mat, and barkcloths are treated as literal items because the passage does not explicitly present them as symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l4088-l4118
+  passage_sha256=558f6767920f5382f4b5b2b9f6b55269b943cbf4e0423a4e8bdf585b43c195ae
+

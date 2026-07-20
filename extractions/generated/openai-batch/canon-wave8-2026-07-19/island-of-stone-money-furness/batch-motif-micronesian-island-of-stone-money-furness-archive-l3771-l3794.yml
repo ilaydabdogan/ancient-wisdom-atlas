@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l3771-l3794
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: TATTOOING / TATTOOING / CHAPTER XII / BURIAL RITES; lines 3771-3794
+  start: '3771'
+  end: '3794'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens a chapter on burial rites and describes Maf el of Dulukan,
+    a respected man dying from a severe cancer. His daughter Gryeiga remains with
+    him, feeding and fanning him as he lies on a mat. After worsening at a government
+    hospital, he asks to be taken home so he can see friends and die quietly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is introduced under the chapter heading on burial rites.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Maf el is described as a popular and respected man of the district of Dulukan
+    who is slowly dying of a malignant cancer of the face.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gryeiga is identified as Maf el's only daughter and is described as never
+    leaving his side while he suffers.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Gryeiga ministers to Maf el by trying to give him food and by fanning him
+    day and night to keep mosquitoes and flies away.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Maf el lies propped up on a mat spread on the hard floor.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After treatment at the government hospital and worsening illness, Maf el asks
+    to be taken back to his own home to see friends and pass away quietly.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Maf el
+  description: A popular and respected man of Dulukan who is dying from a malignant
+    cancer and asks to return home before death.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Gryeiga
+  description: Maf el's only daughter, who stays beside him and cares for him during
+    his illness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Dying respected man
+  assigned_to:
+  - fig:1
+  basis: Maf el is described as popular and respected and as slowly dying from cancer.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Devoted daughter and caregiver
+  assigned_to:
+  - fig:2
+  basis: Gryeiga never leaves her father's side and tends to his needs.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Person returning home before death
+  assigned_to:
+  - fig:1
+  basis: Maf el asks to be taken from the hospital back to his own home to see friends
+    and pass away quietly.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Own home
+  literal_form: Maf el's own home
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Mat on the hard floor
+  literal_form: Mat spread on the hard floor where Maf el lies propped up
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Mosquitoes and flies
+  literal_form: Swarms of mosquitoes and flies kept away by fanning
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Deathbed care in Dulukan
+  summary: Maf el suffers from a severe cancer while Gryeiga stays beside him, attempts
+    to feed him, and fans him as he lies on a mat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Return from hospital to home
+  summary: After worsening during hospital treatment, Maf el asks to be carried back
+    to his own home so he can see friends and die quietly.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Deathbed filial care
+  taxonomy_refs: []
+  basis: The dying man is cared for continuously by his only daughter, who remains
+    beside him, gives food, and fans away insects.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic deathbed scene, not presented as a mythic narrative
+    in the supplied passage.
+- id: motif:2
+  label: Return home before death
+  taxonomy_refs: []
+  basis: The dying man asks to leave the hospital and return to his own home to see
+    friends and pass away quietly.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supports a literal return-home-before-death pattern; no broader
+    afterlife-journey or heroic-return interpretation is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: 3771-3774
+  quote_or_summary: 'Chapter heading: Chapter XII, Burial Rites.'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; citation only.
+- id: ev:2
+  type: summary
+  locator: 3775-3783
+  quote_or_summary: Maf el of Dulukan is described as popular and respected, and as
+    slowly dying from a malignant cancer of the face affecting his jaw and throat.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 3784-3790
+  quote_or_summary: 'Reports describe Maf el''s suffering and Gryeiga''s devotion:
+    she stays by him, tries to feed him, and fans him day and night as he lies on
+    a mat to keep insects away.'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 3790-3794
+  quote_or_summary: After hospital treatment and worsening illness, Maf el asks to
+    be taken back to his own home to see friends and pass away quietly; he is carried
+    there.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited to deathbed-care
+    and return-home patterns visible in the passage. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage ends mid-sentence after the return-home statement; no details beyond the provided text were used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l3771-l3794
+  passage_sha256=77f9126fca23935f6236e3c0c7df35b3d67ea33764d3fc95ad2d7c7f76f62b73
+

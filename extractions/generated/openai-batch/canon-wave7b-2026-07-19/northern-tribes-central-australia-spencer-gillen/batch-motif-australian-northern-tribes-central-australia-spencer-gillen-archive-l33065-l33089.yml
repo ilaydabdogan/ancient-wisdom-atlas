@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l33065-l33089
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: TOTEM. ARUNTA . / FIG. 306. STONE CHUR- / FIG. 310. GROUND-DRAWING ASSOCIATED
+    WITH THE WOLLUNQUA TOTEMIC / CEREMONY OF A PLACE CALLED PARAPAKINI.; lines 33065-33089
+  start: '33065'
+  end: '33089'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains ground-drawing elements associated with Tjinqurokora
+    and a Black Snake or Thalaualla totemic ceremony. Concentric circles represent
+    the Tjinqurokora water-hole and a nearby rock pool; curved bands represent the
+    snake’s body as it moved about performing ceremonies. Another design is said to
+    represent six Munga-munga women sent away from Tjinqurokora by the snake; they
+    travel east carrying yams that are also their Churinga, and the drawing marks
+    their bodies and drawn-up legs as they sit tired from walking.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A large series of concentric circles represents the water-hole called Tjinqurokora.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A smaller series of circles represents a nearby rock pool.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Curved bands indicate the body of the snake as he moved about performing ceremonies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The snake sent Munga-munga women away from Tjinqurokora.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Munga-munga women travelled a long way east carrying yams, and the yams
+    were also their Churinga.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Circles represent the women’s bodies, and double bands represent their legs
+    drawn up when they sat down tired from walking.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The final ceremony of the Thalaualla series is described as only incidentally
+    connected with the snake, and Fig. 315 is identified as a ground-drawing associated
+    with the Black Snake totemic ceremony of Tjinqurokora.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the snake / Black Snake
+  description: A snake connected with the Tjinqurokora and Thalaualla ceremonial material;
+    its body is represented by curved bands, and it sends the Munga-munga women away
+    from Tjinqurokora.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Munga-munga women
+  description: Women sent away from Tjinqurokora by the snake; they travel east carrying
+    yams that are also their Churinga, and are represented in the drawing by circles
+    and double bands for bodies and legs.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: totemic snake figure
+  assigned_to:
+  - fig:1
+  basis: The caption and description connect the material with a Black Snake totemic
+    ceremony, and the snake is represented in the ground-drawing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: sender of the women away from Tjinqurokora
+  assigned_to:
+  - fig:1
+  basis: The passage states that the snake sent the Munga-munga women away from Tjinqurokora.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: eastward travellers
+  assigned_to:
+  - fig:2
+  basis: The women travel a long way to the east after being sent away.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: carriers of yam Churinga
+  assigned_to:
+  - fig:2
+  basis: The women carry yams, which the passage says were also their Churinga.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Tjinqurokora water-hole
+  literal_form: Large series of concentric circles
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: nearby rock pool
+  literal_form: Smaller series of circles
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: snake body in motion
+  literal_form: Curved bands
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: women’s bodies
+  literal_form: Circles in the ground-drawing
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: drawn-up legs of tired seated women
+  literal_form: Double bands connecting the body-circles
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: yams as Churinga
+  literal_form: Yams carried by the women and identified as their Churinga
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Tjinqurokora ground-drawing of water places and snake movement
+  summary: The drawing uses concentric circles for the Tjinqurokora water-hole and
+    a nearby rock pool, and curved bands for the snake’s body moving about while performing
+    ceremonies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Munga-munga women sent east from Tjinqurokora
+  summary: The snake sends the Munga-munga women away from Tjinqurokora; they travel
+    far east carrying yams that are also their Churinga.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ground-drawing of tired seated Munga-munga women
+  summary: The design represents six Munga-munga women through circles for their bodies
+    and double bands for their drawn-up legs as they sit down tired from walking.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Black Snake totemic ceremony
+  taxonomy_refs:
+  - serpent
+  basis: The passage identifies Fig. 315 as a ground-drawing associated with a Black
+    Snake totemic ceremony and describes the snake’s body and actions within the ceremonial
+    design.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level identification of a totemic ceremonial figure,
+    not a full comparative serpent myth.
+- id: motif:2
+  label: Departure after being sent away by a snake
+  taxonomy_refs:
+  - departure
+  - serpent
+  basis: The snake sends the Munga-munga women away from Tjinqurokora, after which
+    they travel a long way east.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief ceremonial explanation, so the narrative
+    context of the departure is limited.
+- id: motif:3
+  label: Ground-drawing encodes ancestral bodies, places, and movement
+  taxonomy_refs: []
+  basis: The passage explains graphic signs for water places, the snake’s moving body,
+    the women’s bodies, and their drawn-up legs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a descriptive ritual-visual pattern rather than a named motif
+    family in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 33065-33078
+  quote_or_summary: Fig. 314 is described as using concentric circles for the Tjinqurokora
+    water-hole and a smaller nearby rock pool, while curved bands indicate the snake’s
+    body as he moved about performing ceremonies.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 33068-33079
+  quote_or_summary: The Munga-munga women are described as having been sent away from
+    Tjinqurokora by the snake; they travel east carrying yams that are also their
+    Churinga, and the drawing represents their bodies and drawn-up legs.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 33080-33089
+  quote_or_summary: The passage states that the final ceremony of the Thalaualla series
+    was only incidentally connected with the snake, and the caption identifies Fig.
+    315 as a ground-drawing associated with the Black Snake totemic ceremony of Tjinqurokora.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short passage whose figure text appears disrupted
+    by caption or page-layout ordering. Motif candidates are limited to directly stated
+    snake, departure, and ground-drawing patterns; no cross-tradition comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l33065-l33089
+  passage_sha256=2770123a83ee6b0aea65162d8cd5ba6d2223f42ede4326bf23b23737db7ccb5a
+

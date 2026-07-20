@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l29711-l29889
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 29711-29889
+  start: '29711'
+  end: '29889'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"EaandApep,i.484,489; fight of, i.405"; "Ea = Fire, ii.98"; "Ka and Horus
+    hold the ladder, i.167"'
+  summary: An index page lists cross-references for Egyptian names, divine figures,
+    places, objects, and attributes. Entries include an association of Ea with Amen
+    and Apep, a fight involving Ea and Apep, the equation of Ea with Fire, Ka and
+    Horus holding a ladder, legends of Ea and Isis, several compound Ea names, and
+    entries concerning a ram figure with four faces, four souls, and four heads.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The index entry associates Ea with Amen and Apep and notes a fight involving
+    Ea and Apep.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index states that Ea equals Fire.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index states that Ka and Horus hold the ladder.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index refers to a legend and myth of Ea and Isis, including an Egyptian
+    Text section.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index lists several compound Ea names, including Ea-Asar, Ea-Atem, Ea-Harmachis,
+    Ea-Heru, Ea-Heru-khuti, Ea-Menthu, Ea-Tem, and Ea-Tem-Khepera.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index lists an unnamed preceding figure or topic with fourteen doubles,
+    seven souls, and Seventy-five Praises.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index lists a ram figure with four faces, a Ram of Mendes with four souls,
+    and four ram heads.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ea
+  description: Indexed figure associated with Amen, Apep, Fire, Isis, worship, and
+    multiple compound names.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Amen
+  description: Named in the index entry "Ea and Amen."
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Apep
+  description: Named in index entries with Ea, including a noted fight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ka
+  description: Named as holding the ladder with Horus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Horus
+  description: Named as holding the ladder with Ka.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Isis
+  description: Named in entries for the Legend of Ea and Isis and myth of Ea and Isis.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Earn / Ram of Mendes
+  description: Indexed as a ram figure with four faces, four souls, and four heads.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: participant in indexed fight
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The index notes "EaandApep" and "fight of."
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: figure identified with fire
+  assigned_to:
+  - fig:1
+  basis: The index states "Ea = Fire."
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ladder holder
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The index states that Ka and Horus hold the ladder.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: participant in indexed legend or myth
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The index refers to the Legend of Ea and Isis and myth of Ea and Isis.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: associated named divine figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The index gives the entry "Ea and Amen."
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: fourfold ram figure
+  assigned_to:
+  - fig:7
+  basis: The index lists a ram of four faces, a Ram of Mendes with four souls, and
+    four ram heads.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: Fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Ladder
+  literal_form: ladder
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Fourfold ram attributes
+  literal_form: four faces; four souls; four heads
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Multiple souls and doubles
+  literal_form: fourteen doubles; seven souls; Seventy-five Praises
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Indexed fight of Ea and Apep
+  summary: The index notes a fight associated with Ea and Apep, without narrating
+    the event.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ka and Horus holding the ladder
+  summary: The index states that Ka and Horus hold the ladder.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Indexed Legend of Ea and Isis
+  summary: The index refers readers to the Legend of Ea and Isis, an Egyptian Text
+    section, and a myth of Ea and Isis.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Fourfold ram entries
+  summary: The index groups references to a ram of four faces, a Ram of Mendes with
+    four souls, and four ram heads.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Indexed divine combat
+  taxonomy_refs: []
+  basis: The index explicitly notes a fight involving Ea and Apep.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an index entry only and does not provide narrative details
+    of the combat.
+- id: motif:2
+  label: Ladder held by divine or named beings
+  taxonomy_refs:
+  - ascent
+  basis: The index states that Ka and Horus hold the ladder.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not state that anyone ascends or descends the ladder;
+    the ascent motif is only a cautious candidate because of the ladder image.
+- id: motif:3
+  label: Deity identified with fire
+  taxonomy_refs: []
+  basis: The index states "Ea = Fire."
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives an equation but no mythic episode explaining the identification.
+- id: motif:4
+  label: Fourfold or multiple soul-form attributes
+  taxonomy_refs: []
+  basis: The index lists fourteen doubles, seven souls, and ram entries involving
+    four faces, four souls, and four heads.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The entities and contexts are only index entries; the passage does not
+    explain the ritual or mythological function of these numbers.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 29711-29889
+  quote_or_summary: '"Ea and Amen, i. 105" and "EaandApep,i.484,489; fight of, i.
+    405"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 29711-29889
+  quote_or_summary: '"Ea = Fire, ii. 98"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 29711-29889
+  quote_or_summary: '"Ka and Horus hold the ladder, i. 167"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 29711-29889
+  quote_or_summary: Entries refer to "Ea, and Isis, Legend of," an "Egyptian Text,"
+    and a "myth of" Ea and Isis.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 29711-29889
+  quote_or_summary: The index lists compound names beginning with Ea, including Ea-Asar,
+    Ea-Atem, Ea-Harmachis, Ea-Heru, Ea-Heru-khuti, Ea-Menthu, Ea-Tem, and Ea-Tem-Khepera.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 29711-29889
+  quote_or_summary: At the passage opening, the index lists "fourteen doubles," "seven
+    souls," and "Seventy-five Praises" of an item whose name is not included in the
+    excerpt.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 29711-29889
+  quote_or_summary: The index lists "Earn of four faces," "Earn of Mendes," "four
+    souls of," and "Earns' heads, the four."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an index rather than a continuous mythic narrative. OCR-like
+    spellings such as "Ea" and "Earn" are preserved from the supplied text; human
+    review should verify normalization against the source.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims are made because the passage itself does not compare these entries with external motif families, other traditions, or broader corpus patterns.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l29711-l29889
+  passage_sha256=f9e5571af28b8c044af2d64eccb8aa4e574be4f3f1334b7c164d19dd11642c94
+

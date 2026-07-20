@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l24770-l24941
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 24770-24941
+  start: '24770'
+  end: '24941'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index excerpt lists alphabetized entries from Asar-related names and
+    epithets through Aswan, with page references. It includes identifications such
+    as Asar/Osiris and As-t or Ast/Isis, entries for trees, a goddess, a queen of
+    Ethiopia, and ass-related entries including a speaking ass.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index excerpt consisting of alphabetized entries with volume
+    and page references, not a narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Many adjacent entries begin with the name Asar and list forms or epithets
+    of Asar, including entries that identify Asar or As-ar with Osiris.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index includes entries for Asert Tree and Ashet Tree.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index identifies Asbet as a goddess.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index identifies Aso as queen of Ethiopia.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes ass-related entries, including 'Ass, the speaking.'
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index identifies As-t and Ast with Isis.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Asar / Osiris
+  description: An indexed name identified with Osiris, surrounded by numerous Asar-related
+    entries and epithets.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Asbet
+  description: An indexed figure described as a goddess.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Aso
+  description: An indexed figure described as queen of Ethiopia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: As-t / Ast / Isis
+  description: Indexed names identified with Isis.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: the speaking ass
+  description: An ass-related index entry described as 'the speaking.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: indexed Osiris identification
+  assigned_to:
+  - fig:1
+  basis: The index includes 'Asar (Osiris)' and 'As-ar (Osiris).'
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: goddess
+  assigned_to:
+  - fig:2
+  basis: The index entry states 'Asbet, a goddess.'
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: queen of Ethiopia
+  assigned_to:
+  - fig:3
+  basis: The index entry states 'Aso, queen of Ethiopia.'
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: indexed Isis identification
+  assigned_to:
+  - fig:4
+  basis: The index includes 'As-t (Isis)' and 'Ast (Isis).'
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: speaking ass entry
+  assigned_to:
+  - fig:5
+  basis: The index includes the entry 'Ass, the speaking.'
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: Asert Tree; Ashet Tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: speaking ass
+  literal_form: Ass, the speaking
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: 'speaking animal: ass'
+  taxonomy_refs: []
+  basis: The index contains a specific entry for 'Ass, the speaking.'
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The excerpt is an index only and gives no narrative context, action, or
+    function for the speaking ass.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24770-24941
+  quote_or_summary: Index entries from Asar-related names through Aswan, presented
+    with volume and page references.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+- id: ev:2
+  type: quote
+  locator: lines 24770-24856
+  quote_or_summary: Entries include many Asar forms and 'Asar (Osiris)' / 'As-ar (Osiris).'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+- id: ev:3
+  type: quote
+  locator: lines 24857-24869
+  quote_or_summary: "'Asert Tree' and 'Ashet Tree.'"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+- id: ev:4
+  type: quote
+  locator: lines 24855-24860
+  quote_or_summary: "'Asbet, a goddess.'"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+- id: ev:5
+  type: quote
+  locator: lines 24882-24884
+  quote_or_summary: "'Aso, queen of Ethiopia.'"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+- id: ev:6
+  type: quote
+  locator: lines 24886-24893
+  quote_or_summary: Ass-related entries include 'Ass, Eater of the,' 'Ass, the,' and
+    'Ass, the speaking.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+- id: ev:7
+  type: quote
+  locator: lines 24896-24906
+  quote_or_summary: Entries include 'As-t (Isis)' and 'Ast (Isis).'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; source metadata marks full text use allowed.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal index entries are straightforward, but motif extraction is limited
+    because the passage contains cross-references rather than narrative or iconographic
+    description. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact, inheritance, or archetypal comparison is supported by this index excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l24770-l24941
+  passage_sha256=8d7081dc2bc5e845ebc781f182a63fd45abb93528d1cc22eda8b3712d2a19dce
+

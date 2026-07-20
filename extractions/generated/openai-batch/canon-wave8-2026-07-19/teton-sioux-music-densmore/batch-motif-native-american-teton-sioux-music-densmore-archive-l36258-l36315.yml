@@ -1,0 +1,181 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l36258-l36315
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BEOOING   DANCE / PLOTS   OF   GRASS-DANCE    SONOS / THE   GAME  OF  HIDING  A   STICK
+    / MISCELLANEOUS  SONGS; lines 36258-36315
+  start: '36258'
+  end: '36315'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: he is gone to war ... I love him ... I am sad
+  summary: 'The passage gives song text with Lakota transcription and English glosses:
+    a male figure has gone to war; an addressed person is said to have spoken; the
+    speaker says they love him and are sad. The analysis describes musical features
+    of the song and notes that its plot contrasts with an association between accents
+    on the lowest tone and firmness or stability of character.'
+  language: English with Lakota transcription
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The song text includes the statements that he has gone to war, that an addressed
+    person said something, that the speaker loves him, and that the speaker is sad.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The analysis states that the closing tone is a fourth above the lowest tone
+    of the melody, which is described as somewhat unusual because the final tone is
+    generally also the lowest tone.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The analysis states that the song is characterized by the minor third, uses
+    tones of the second five-toned scale, has a compass of an octave, is melodic in
+    structure, and had two recorded renditions with no differences noted.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The analysis notes that recurrence of accent on the lowest tone is elsewhere
+    associated with firmness and stability of character, and says this song's plot
+    affords a contrast.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: he
+  description: A male figure referred to as having gone to war and as the object of
+    the speaker's love.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: I
+  description: The speaking voice who says they love the absent male figure and are
+    sad.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: you
+  description: An addressed person associated with the phrase "you said."
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: person gone to war
+  assigned_to:
+  - fig:1
+  basis: The English gloss states "he is gone to war."
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: beloved absent figure
+  assigned_to:
+  - fig:1
+  basis: The speaker says "I love him" after stating that he has gone to war.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: sad loving speaker
+  assigned_to:
+  - fig:2
+  basis: The speaker says "I love him" and "I am sad."
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: addressed speaker or reporter
+  assigned_to:
+  - fig:3
+  basis: The lyric includes the gloss "you said."
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Love and sadness after departure to war
+  summary: The lyric presents a figure who has gone to war and a speaker who says
+    they love him and are sad.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: departure to war
+  taxonomy_refs:
+  - departure
+  basis: The lyric states that a male figure has gone to war, making departure the
+    clearest supported motif element.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a short song text rather than a developed narrative; the
+    nature of the departure and its ritual or mythic significance is not elaborated.
+- id: motif:2
+  label: lament for absent beloved
+  taxonomy_refs: []
+  basis: The speaker says they love the male figure who has gone to war and that they
+    are sad.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a lyrical emotional pattern; no broader narrative context is supplied
+    in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 36258-36315, song text and glosses
+  quote_or_summary: '"he is gone to war"; "you said"; "I love him"; "I am sad"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 36258-36315, Analysis
+  quote_or_summary: The analysis describes the closing tone as a fourth above the
+    lowest tone, calls this unusual, and lists musical traits including prevalence
+    of the minor third, second five-toned scale, octave compass, melodic structure,
+    and two matching renditions.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 36258-36315, Analysis, final paragraph
+  quote_or_summary: The author notes that a recurrence of accent on the lowest tone
+    has been associated with firmness and stability of character, and says the plot
+    of this song affords a contrast.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The lyric is very brief and the OCR/formatting around the musical notation
+    is noisy. Extraction is limited to the English glosses and the explicit analytical
+    prose.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage does not clearly present any of the available literal symbols.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l36258-l36315
+  passage_sha256=88adb06a90daa6f2763dc26489dbada42bfdd29d775ab480d39fe1fb2104bba7
+

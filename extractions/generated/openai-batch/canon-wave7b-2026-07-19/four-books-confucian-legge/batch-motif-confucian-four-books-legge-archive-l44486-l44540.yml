@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l44486-l44540
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: A MINISTER TO GOVERNMENT IT IS / THE WORKS OF MENOIUS / CH. 14. GROUNDS OF
+    TAKING AND / THE WORKS OF MEXCIUS; lines 44486-44540
+  start: '44486'
+  end: '44540'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives cases concerning when a superior person or scholar may
+    take office under a prince and when he should leave. It also describes a destitute
+    superior man who may accept assistance or employment from a prince only to the
+    extent needed to avert death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a chapter on grounds for taking and leaving office.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the second case, persons take office with a prince when he receives them
+    with utmost respect, even though he cannot yet be expected to put their words
+    into practice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In that same case, they leave the prince if his polite demeanor diminishes
+    afterward.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the last case, a superior man has no morning or evening food and is too
+    famished to move out of his door.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The prince says he cannot carry the superior man's doctrines into practice
+    or follow his words, but is ashamed to let him die of want in his country.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Assistance in the destitution case may be received only up to what is sufficient
+    to avert death.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A note explains that the assistance is in the form of employment offered.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the prince
+  description: A generic prince or ruler who may receive advisers with respect, whose
+    demeanor may later decline, and who may offer assistance to a destitute superior
+    man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: office-takers in the second case
+  description: Persons whose words are received by the prince and who take office
+    under him, but leave if his respectful demeanor diminishes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the superior man without food
+  description: A superior man who has nothing to eat morning or evening and is too
+    famished to move out of his door.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: ruler and potential patron
+  assigned_to:
+  - fig:1
+  basis: The prince receives advisers, may fail to practice their words, and offers
+    assistance or employment.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: role:2
+  label: conditional office-holders
+  assigned_to:
+  - fig:2
+  basis: They take office when treated with utmost respect and leave if the prince's
+    polite demeanor is remitted.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: destitute superior man
+  assigned_to:
+  - fig:3
+  basis: He lacks food, is famished, and may receive only life-preserving assistance.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Taking office under respectful reception
+  summary: A prince cannot immediately be expected to put advisers' words into practice,
+    but because he receives them with utmost respect, they take office; if his polite
+    demeanor later lessens, they leave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Limited assistance to a famished superior man
+  summary: A superior man is starving and unable to leave his door. The prince acknowledges
+    he cannot follow the man's teachings but does not want him to die of want, so
+    assistance may be accepted only enough to avert death.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Wisdom rule for accepting and leaving office
+  taxonomy_refs:
+  - wisdom
+  basis: The passage formulates a rule for taking office under a respectful ruler
+    and leaving when respect declines.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethical-political instruction rather than a mythic narrative
+    episode.
+- id: motif:2
+  label: Life-preserving acceptance of aid under ethical constraint
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that a famished superior man may accept assistance or
+    employment only to the extent needed to avert death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents moral guidance about patronage and survival; it does
+    not frame the aid as supernatural or sacrificial.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 44486-44540; chapter heading
+  quote_or_summary: The heading identifies the topic as grounds of taking and leaving
+    office.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; quotation minimized.
+- id: ev:2
+  type: quote
+  locator: lines 44486-44540; paragraph 3
+  quote_or_summary: '"being received by him with the utmost respect, they took office
+    with him."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata.
+- id: ev:3
+  type: quote
+  locator: lines 44486-44540; paragraph 3
+  quote_or_summary: '"if there was a remission in his polite demeanor, they would
+    leave him."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata.
+- id: ev:4
+  type: quote
+  locator: lines 44486-44540; paragraph 4
+  quote_or_summary: '"who had nothing to eat, either morning or evening" and was too
+    famished to leave his door.'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 44486-44540; paragraph 4
+  quote_or_summary: The prince says he cannot carry the man's doctrines into practice
+    or follow his words, but is ashamed to allow him to die of want in his country.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 44486-44540; paragraph 4
+  quote_or_summary: '"not beyond what was sufficient to avert death."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata.
+- id: ev:7
+  type: note
+  locator: lines 44486-44540; commentary note after paragraph 4
+  quote_or_summary: The note states that the assistance is in the shape of employment
+    offered.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct. Motif candidates are limited to ethical-wisdom
+    patterns because the passage is didactic and political, not mythological. No comparison
+    claims are made from the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy item is present in the passage; symbols are therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l44486-l44540
+  passage_sha256=2e04a94060cc6ece7e355b0ed43bd6a0290232b7d7f901fba6cf8df31b57be1e
+

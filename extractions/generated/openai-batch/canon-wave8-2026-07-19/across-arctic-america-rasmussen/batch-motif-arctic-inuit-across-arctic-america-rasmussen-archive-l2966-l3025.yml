@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.arctic-inuit-across-arctic-america-rasmussen-archive-l2966-l3025
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+passage_locator:
+  label: PUKERDLUK, CHIEF OF THE PEOPLE OF THE EDDIES / IGJUGARJUK, CHIEF OF THE WILLOW
+    FOLK AND A NOTABLE WIZARD / CHAPTER VI / NOMAD'S LIFE IN THE BARREN GROUNDS; lines
+    2966-3025
+  start: '2966'
+  end: '3025'
+  translation: 'Across Arctic America: Narrative of the Fifth Thule Expedition'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: Compared with the caribou, all other forms of game were but of minor importance.
+  summary: The passage describes Caribou Eskimo hunting, the replacement of kayak
+    hunting by firearms, the effects of firearms on caribou movements and famine,
+    seasonal travel difficulties, and Akilineq as a timber-gathering and intergroup
+    trading place.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Caribou are described as the main game, with other animals treated as less
+    important.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fish are caught by spear or hook and line, smaller animals are snared, and
+    moulting birds are pursued on water in kayaks and killed with small harpoons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The kayak is described as being replaced by the gun.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Firearms are said to scare caribou, change their routes away from native villages,
+    and contribute to famine and starvation in some districts.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Summer and autumn caribou movements occur during seasons when travel over
+    tundra and along rivers is difficult.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Late autumn freezing of rivers and lakes and snow cover allow long-distance
+    travel, and the people are described as skilled and untiring travellers under
+    those conditions.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Before trading stations were established, journeys extended south to Fort
+    Churchill and west toward Schultz Lake and Aberdeen Lake.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Akilineq is described as a meeting place where timber was obtained from tree
+    trunks washed ashore at Lake Tivsalik for sledges, kayaks, and tent poles.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: People from Baker Lake and Kazan River met tribes from as far away as the
+    North-west Passage at Akilineq, where timber seeking and trading took place.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Caribou Eskimos
+  description: The people whose hunting, travel, and seasonal subsistence practices
+    are being described.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Caribou
+  description: The principal game animal whose movements shape hunting and travel
+    and whose changed routes are linked to famine.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Natives from Baker Lake and Kazan River
+  description: Groups who met at Akilineq and took part in timber seeking and trade.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Tribes from regions as distant as the North-west Passage
+  description: Distant groups who came to Akilineq in search of timber and encountered
+    the Baker Lake and Kazan River groups.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hunters and seasonal travellers
+  assigned_to:
+  - fig:1
+  basis: The passage describes their methods for hunting fish, birds, and other animals,
+    and their long-distance travel when snow and ice conditions permit.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: primary game animal
+  assigned_to:
+  - fig:2
+  basis: Caribou are explicitly contrasted with all other game as the most important
+    quarry.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: participants in intergroup trade
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  basis: Akilineq is described as a meeting place where different groups came into
+    contact and traded.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: timber seekers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Groups from Baker Lake, Kazan River, and distant regions are said to come
+    to Akilineq in search of timber.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: timber and tree trunks
+  literal_form: Wood from large tree trunks washed ashore at Lake Tivsalik and used
+    for sledges, kayaks, and tent poles.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: rivers and lakes
+  literal_form: Rivers and lakes that impede travel in some seasons and become travel
+    surfaces when frozen.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: kayak
+  literal_form: Watercraft used in hunting moulting birds and later described as being
+    superseded by the gun.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: gun and firearms
+  literal_form: Introduced weapon replacing older methods and linked to changes in
+    caribou routes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Seasonal hunting practices
+  summary: The passage lists hunted animals and methods, emphasizing caribou as primary
+    game and autumn kayak hunting of moulting birds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Firearms replace kayak-based hunting
+  summary: The gun is described as replacing the kayak and older silent weapons, with
+    the result that caribou avoid native villages and famine follows in some districts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Difficult pursuit and winter mobility
+  summary: Caribou movements occur when tundra travel is difficult, but frozen rivers,
+    lakes, and snow later permit long-distance travel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Akilineq meeting place for timber and trade
+  summary: Akilineq functions as a meeting place where groups from several regions
+    obtain timber and trade with one another.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal subsistence cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Hunting, caribou pursuit, bird hunting, and long-distance travel are all
+    tied to specific seasonal conditions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic subsistence pattern in the passage, not a narrated
+    mythic episode.
+- id: motif:2
+  label: disruption of traditional hunting by introduced weaponry
+  taxonomy_refs: []
+  basis: The passage contrasts silent arrow and spear practices with firearms, describing
+    altered caribou routes and famine after the introduction of guns.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this social and technological
+    pattern.
+- id: motif:3
+  label: resource meeting place and intergroup exchange
+  taxonomy_refs: []
+  basis: Akilineq is described as a place where groups from distant regions meet,
+    seek timber, and trade.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents ordinary resource gathering and trade; it does not
+    describe sacred exchange or ritual.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2966-2975
+  quote_or_summary: Caribou are the main game; fish, birds, hares, lemmings, and marmot
+    are also taken, and moulting birds are hunted from kayaks with small harpoons.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: 2976-2991
+  quote_or_summary: The kayak is being superseded by the gun; firearms have advantages
+    but scare caribou, alter their routes away from villages, and are linked to famine
+    and starvation.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: 2992-3005
+  quote_or_summary: Caribou movements in summer and autumn coincide with difficult
+    travel; frozen rivers, lakes, and snow later enable long journeys, including former
+    travel toward Fort Churchill, Schultz Lake, and Aberdeen Lake.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: 3006-3017
+  quote_or_summary: Akilineq is identified as a meeting place near the Thelon River;
+    timber for sledges, kayaks, and tent poles was procured from tree trunks washed
+    ashore at Lake Tivsalik.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: 3018-3025
+  quote_or_summary: Akilineq is described as a meeting place for people from Baker
+    Lake, Kazan River, and distant North-west Passage regions, where timber seeking
+    and intergroup trading occurred.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is supported by the passage. Motif candidates are cautious
+    because the passage is ethnographic rather than a myth narrative. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; comparison claims left empty because the passage does not itself make a comparative mythological claim.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:arctic-inuit-across-arctic-america-rasmussen-archive__l2966-l3025
+  passage_sha256=07c1a89fad8869b1d405c35852d70cfcedd0e94fd9bd8d8f1099e071d80fad94
+

@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l10657-l10681
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: FISHING CHARMS. / DUGONG AND TURTLE CHARMS. / WAR CHARMS. / LOVE CHARMS.;
+    lines 10657-10681
+  start: '10657'
+  end: '10681'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Koita love charms: charm assemblages made of objects
+    in separate string nets, with their method of use unclear, and a quartz fragment
+    used by a youth after immersion in young coconut milk, rubbed on his face while
+    he thinks of a particular girl, so that she is expected to feel drawn to him when
+    she sees him.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some love charms are described as groups of objects, each usually kept in
+    its own string net.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The method for using the grouped-object love charms is stated to be unclear.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A piece or fragment of quartz is sometimes used as a love charm.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The quartz fragment is immersed for a few minutes in the milk of a young coconut.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: While the quartz is moist, the youth using the charm rubs it over his face.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The youth thinks intently of the particular girl he desires while using the
+    charm and also while walking in the village or dancing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When the girl sees the boy, the charm is said to begin working; she feels
+    drawn to him and usually responds to his advances.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The charm is said to work only on the particular girl desired, not on other
+    girls, because the boy continually thinks about her.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: youth or boy using the love charm
+  description: The youth uses the quartz love charm, rubs it over his face, thinks
+    of the particular girl, and continues thinking of her while walking or dancing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: particular girl desired
+  description: The girl desired by the youth is the intended person affected by the
+    charm; when she sees the boy, she is said to feel drawn to him and respond.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: charm user
+  assigned_to:
+  - fig:1
+  basis: The youth applies the quartz charm to his face and focuses thought on the
+    desired girl.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: desired target of charm
+  assigned_to:
+  - fig:2
+  basis: The charm is described as acting on the particular girl desired by the youth
+    when she sees him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: group-object love charm
+  literal_form: A group of objects, each usually contained in its own string net.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: quartz love charm
+  literal_form: A piece or fragment of quartz, described as the oblique broken-off
+    top of a prism.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: young coconut milk
+  literal_form: Milk of a young coconut in which the quartz fragment is immersed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: face-rubbing with moist quartz
+  literal_form: The youth rubs the moist quartz over his face.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Grouped love charms described
+  summary: Love charms of a usual grouped-object type are described, though their
+    method of use is not clear.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Quartz charm preparation and application
+  summary: A youth immerses a quartz fragment in young coconut milk, rubs the moist
+    charm over his face, and thinks of the girl he desires.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Intended attraction effect
+  summary: When the desired girl sees the boy, the charm is said to make her feel
+    drawn to him and usually respond; its effect is described as limited to that particular
+    girl.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Love charm producing attraction through ritual contact and focused thought
+  taxonomy_refs: []
+  basis: The quartz charm is immersed in coconut milk, rubbed on the youth's face,
+    and accompanied by focused thought on a desired girl; the girl is then expected
+    to feel drawn to him when she sees him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage reports what was said about the charm and does not give an
+    external comparative interpretation.
+- id: motif:2
+  label: Target-specific charm efficacy through continual thought
+  taxonomy_refs: []
+  basis: The charm is said to work only on the particular girl desired, because the
+    boy continually thinks about her.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is limited to the reported explanation within the passage.
+- id: motif:3
+  label: Multi-object charm assemblage
+  taxonomy_refs: []
+  basis: Some love charms are described as groups of objects, each usually kept in
+    a separate string net.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The method of using these grouped-object charms is explicitly stated to
+    be unclear.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10659-10669
+  quote_or_summary: Love charms are described as groups of objects, each usually in
+    a separate string net; their method of use is said to be unclear.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10669-10671
+  quote_or_summary: A quartz fragment, described as a broken-off prism top, is sometimes
+    used as a love charm and immersed briefly in young coconut milk.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 10672-10675
+  quote_or_summary: The youth rubs the moist quartz over his face and thinks intently
+    of the particular girl he desires while doing so, and also while walking in the
+    village or dancing.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 10675-10677
+  quote_or_summary: When the girl sees the boy, the charm is said to begin working;
+    she feels drawn to him and usually responds to his advances.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 10678-10680
+  quote_or_summary: The charm is said to work only on the particular desired girl,
+    not on other girls, because the boy continually thinks about her.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about the charm procedure and stated effect, but
+    the grouped-object charm method is unclear and no broader comparison is made in
+    the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Page, footnote, and OCR artifacts in the supplied passage were ignored except where they affect line placement.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l10657-l10681
+  passage_sha256=fd4dfa7a30c1561f8682ab9050202db6bde9ebbcb3c315336888c02f9a17c88c
+

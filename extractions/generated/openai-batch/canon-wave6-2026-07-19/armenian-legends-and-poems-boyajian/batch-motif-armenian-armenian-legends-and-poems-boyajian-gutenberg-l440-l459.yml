@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l440-l459
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: A TRIAL OF ORTHODOXY / FOLK SONG / THE APPLE TREE / FOLK SONG; lines 440-459
+  start: '440'
+  end: '459'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: The apple growing on me first / From Eden came ere it was cursed
+  summary: A folk song presents an apple tree in a garden as beautiful but sorrowful.
+    The tree speaks, calling itself a badge of sin and wickedness, linking its apple
+    to Eden, a curse, Father Abraham's feast, and an evil one.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is titled “The Apple Tree” and identified as a folk song.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker describes the door of Heaven as seeming open and sunlight gleaming
+    in a house.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker moves through willow-lined garden walks and sees many trees and
+    blossoms.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Among the trees, the apple tree appears the fairest and most beautiful to
+    the speaker.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The apple tree is described as sobbing and weeping, and its leaves are said
+    to speak murmuringly.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The apple tree says it wishes God had never created it.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The apple tree calls itself a badge of sin and wickedness at Father Abraham’s
+    feast.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The tree says the apple growing on it first came from Eden before it was cursed.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The tree asks why it fell to an evil one.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person voice moving through the garden and observing the
+    apple tree.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: apple tree
+  description: A beautiful tree in the garden that sobs, weeps, and speaks about creation,
+    sin, Eden, a curse, and an evil one.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: God
+  description: Named by the apple tree as the creator it wishes had not created it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Father Abraham
+  description: Addressed by the apple tree in the phrase concerning a feast.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: evil one
+  description: A figure or force to which the apple tree says it fell.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: garden observer
+  assigned_to:
+  - fig:1
+  basis: The first-person voice says it moved through the garden’s walks and saw trees
+    and blossoms.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: personified lamenting tree
+  assigned_to:
+  - fig:2
+  basis: The tree sobs, weeps, and speaks in the first person.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: creator named by tree
+  assigned_to:
+  - fig:3
+  basis: The apple tree says, “I would that God had ne’er created me.”
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: feast addressee
+  assigned_to:
+  - fig:4
+  basis: The apple tree addresses “O Father Abraham” while calling itself a badge
+    of sin and wickedness.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: recipient of the tree’s fall
+  assigned_to:
+  - fig:5
+  basis: The apple tree asks why it fell to “that evil one.”
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: apple tree
+  literal_form: A beautiful apple tree in a garden, personified as sorrowful and speaking.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: apple from Eden
+  literal_form: The apple growing on the tree, said to have first come from Eden before
+    it was cursed.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: open door of Heaven
+  literal_form: The door of Heaven seeming open.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: garden
+  literal_form: Willow-lined garden walks with many trees and blossoms.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: curse
+  literal_form: The apple from Eden is described as having been cursed.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Heavenly opening and house light
+  summary: The passage opens with Heaven’s door seeming open and sunlight gleaming
+    in a house.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Garden observation
+  summary: The speaker walks through willow-lined garden paths, sees many trees and
+    blossoms, and singles out the apple tree as fairest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Apple tree lament
+  summary: The apple tree weeps and speaks, regretting its creation, calling itself
+    a badge of sin and wickedness, and linking its apple to Eden, a curse, and an
+    evil one.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: personified tree lamenting its fate
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The apple tree is treated as a speaking, weeping figure that laments its
+    creation and fate.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: low
+  cautions: The passage features a significant speaking tree, but it does not present
+    the tree as an axis, world tree, or cosmic structure; the taxonomy link is therefore
+    weak.
+- id: motif:2
+  label: Edenic apple as sign of sin and curse
+  taxonomy_refs:
+  - forbidden_knowledge
+  - divine_judgment
+  basis: The tree calls itself a badge of sin and wickedness and says its apple came
+    from Eden before being cursed.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage alludes to Eden and sin but does not narrate the full forbidden-fruit
+    episode or explicitly mention knowledge.
+- id: motif:3
+  label: fallen object or being associated with an evil one
+  taxonomy_refs: []
+  basis: The apple tree asks why it fell to “that evil one.”
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The identity of the evil one and the nature of the fall are not explained
+    in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The apple tree’s speech aligns the song with an Edenic forbidden-fruit or
+    fall pattern by naming Eden, sin, a curse, and an evil one.
+  claim_level: same_motif
+  target: Edenic forbidden-fruit / fall pattern
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is an allusive lyric rather than a narrative account of
+    Eden; it does not explicitly describe the act of eating, temptation, or acquisition
+    of knowledge.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 440-443
+  quote_or_summary: 'Title and genre: “THE APPLE TREE” / “FOLK SONG.”'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 444-445
+  quote_or_summary: "“The door of Heaven open seemed / And in thy house the sunlight
+    gleamed.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 447-448
+  quote_or_summary: "“As through the garden’s willow’d walks I hied / Full many a
+    tree and blossom I espied.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 449-450
+  quote_or_summary: "“But of all trees, the Apple Tree most fair / And beautiful did
+    unto me appear.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 451-452
+  quote_or_summary: "“It sobbed and wept. Its leaves said murmuringly:”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: line 453
+  quote_or_summary: "“I would that God had ne’er created me!”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: lines 454-455
+  quote_or_summary: "“The badge of sin and wickedness I am / E’en at thy feast, O
+    Father Abraham.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: quote
+  locator: lines 456-457
+  quote_or_summary: "“The apple growing on me first / From Eden came ere it was cursed,”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:9
+  type: quote
+  locator: lines 458-459
+  quote_or_summary: "“Alas, alas, I am undone! / Why fell I to that evil one?”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from a short public-domain lyric. Motif
+    assignment is more tentative because the passage is allusive and does not narrate
+    the full Eden story.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied available taxonomy terms.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l440-l459
+  passage_sha256=6c0724bb00bee8357bf22a9acddb10b10826c1417eecbf3054df6fb0777bf4fd
+

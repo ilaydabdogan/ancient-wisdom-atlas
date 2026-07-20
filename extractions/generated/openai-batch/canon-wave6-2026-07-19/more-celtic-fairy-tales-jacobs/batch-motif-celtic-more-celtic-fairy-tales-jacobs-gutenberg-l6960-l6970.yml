@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.celtic-more-celtic-fairy-tales-jacobs-gutenberg-l6960-l6970
+source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: XL. THE LEGEND OF KNOCKGRAFTON. / XLI. ELIDORE. / XLII. THE LEECHING OF KAYN'S
+    LEG. / XLIII. HOW FIN WENT TO THE KINGDOM OF THE BIG MEN.; lines 6960-6970
+  start: '6960'
+  end: '6970'
+  translation: More Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: XLIII. HOW FIN WENT TO THE KINGDOM OF THE BIG MEN.
+  summary: The passage is a source and parallels note for the tale titled “How Fin
+    Went to the Kingdom of the Big Men.” It cites J. G. Campbell’s The Fians as source,
+    compares the tale with The Voyage to Brobdingnag, and notes that over-sea giants
+    occur as opponents in Ossianic and Ultonian cycles.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The tale is titled as an account of Fin going to the Kingdom of the Big Men.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated source is J. G. Campbell’s The Fians, in Waifs and Strays, No.
+    iv, pages 175-92.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note says The Voyage to Brobdingnag will occur to many readers as a parallel.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note says it is not impossible that Swift’s Voyage may have been suggested
+    by a similar tale told to him in infancy.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that this tale is not part of the earlier recorded Ossianic
+    cycle.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note states that over-sea giants occur as opponents of heroes in the Ossianic
+    and earlier Ultonian cycles.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fin
+  description: Named in the tale title as the one who went to the Kingdom of the Big
+    Men.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Big Men
+  description: The inhabitants or defining figures of the named kingdom in the tale
+    title.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Swift
+  description: Mentioned in the parallels note as an Irish lad whose Voyage may have
+    been suggested by a similar tale heard in infancy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: over-sea giants
+  description: Mentioned as opponents of heroes in Ossianic and Ultonian cycles.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: heroes
+  description: Mentioned as opponents of over-sea giants in Ossianic and Ultonian
+    cycles.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: journeying title figure
+  assigned_to:
+  - fig:1
+  basis: The title says Fin went to the Kingdom of the Big Men.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: giant-like destination group
+  assigned_to:
+  - fig:2
+  basis: The title identifies the destination as the Kingdom of the Big Men.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: possible recipient of tale influence
+  assigned_to:
+  - fig:3
+  basis: The note suggests Swift’s Voyage may have been prompted by a similar childhood
+    tale.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: opponents in nearby cycles
+  assigned_to:
+  - fig:4
+  basis: The note says over-sea giants occur as opponents of heroes in Ossianic and
+    Ultonian cycles.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: heroes opposed by giants
+  assigned_to:
+  - fig:5
+  basis: The note describes heroes facing over-sea giants in Ossianic and Ultonian
+    cycles.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Kingdom of the Big Men
+  literal_form: kingdom or realm associated with Big Men
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: over-sea giants
+  literal_form: giants located across the sea
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Title-announced journey to the Big Men’s kingdom
+  summary: The title identifies a tale in which Fin goes to the Kingdom of the Big
+    Men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Parallels note on Brobdingnag and giant traditions
+  summary: The note links the tale to The Voyage to Brobdingnag as an apparent parallel,
+    raises a tentative possibility of influence on Swift, and situates over-sea giants
+    as opponents in Ossianic and Ultonian cycles while saying this tale is not part
+    of the earlier recorded Ossianic cycle.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: journey to a land or kingdom of giant people
+  taxonomy_refs:
+  - departure
+  basis: The title presents Fin as going to the Kingdom of the Big Men, and the parallels
+    note relates the tale to Brobdingnag and to over-sea giants.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is paratextual and does not narrate the journey itself; the
+    taxonomy reference is broad and based only on the title’s stated going-to motif.
+- id: motif:2
+  label: over-sea giants as heroic opponents
+  taxonomy_refs: []
+  basis: The parallels note states that over-sea giants occur as opponents of heroes
+    in Ossianic and Ultonian cycles.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This motif is mentioned as a comparison in nearby cycles, not as an episode
+    narrated in the selected lines.
+comparison_claims:
+- id: claim:1
+  claim: The tale is presented as comparable to The Voyage to Brobdingnag, apparently
+    through the shared pattern of travel to a realm of unusually large people.
+  claim_level: same_motif
+  target: The Voyage to Brobdingnag
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note says the parallel will occur to readers but does not detail
+    plot correspondences in this passage.
+- id: claim:2
+  claim: The note raises a tentative possibility that Swift’s Voyage may have been
+    suggested by a similar Irish childhood tale.
+  claim_level: historical_contact
+  target: Swift’s The Voyage to Brobdingnag and Irish tale tradition
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The wording is explicitly speculative, and no direct evidence of transmission
+    is supplied in the passage.
+- id: claim:3
+  claim: The tale is distinguished from the earlier recorded Ossianic cycle, while
+    the broader pattern of over-sea giants as opponents is said to occur in Ossianic
+    and earlier Ultonian cycles.
+  claim_level: same_function
+  target: over-sea giants in Ossianic and Ultonian cycles
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage gives only a general corpus-level note and states that
+    this tale itself is not part of the earlier recorded Ossianic cycle.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '6960'
+  quote_or_summary: "“XLIII. HOW FIN WENT TO THE KINGDOM OF THE BIG MEN.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: 6962-6963
+  quote_or_summary: The source note cites J. G. Campbell, The Fians, Waifs and Strays
+    No. iv, pages 175-92.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6965-6968
+  quote_or_summary: The parallels note says The Voyage to Brobdingnag will occur to
+    many readers and suggests it is not impossible that Swift’s Voyage was prompted
+    by such a tale heard in infancy.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 6968-6970
+  quote_or_summary: The note says the tale is not part of the earlier recorded Ossianic
+    cycle, though over-sea giants occur as opponents of heroes in both Ossianic and
+    earlier Ultonian cycles.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The selected passage is mainly a source and parallels note rather than a
+    narrative episode, so motifs are extracted cautiously from the title and explicit
+    comparative comments.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy use is limited to the broad departure motif where supported by the title.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-more-celtic-fairy-tales-jacobs-gutenberg__l6960-l6970
+  passage_sha256=b97bb88836294ac0f4ade0a57cbc93e9155d77d14c4fd61dbc6e770c64837537
+

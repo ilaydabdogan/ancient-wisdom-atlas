@@ -1,0 +1,522 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l26426-l26503
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: XIX CLOTHING, WEAPONS, IMPLEMENTS, ETC 633 / XIX CLOTHING, WEAPONS, IMPLEMENTS,
+    ETC. 635 / APPENDIX A / THE NAMES OF THE NATIVES; lines 26426-26503
+  start: '26426'
+  end: '26503'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Arunta naming practices: individuals are identified
+    by sub-class, totem, ordinary personal names, and secret Churinga names. Secret
+    names are linked to Churinga, may derive from an ancestor understood as reincarnated,
+    may be assigned by the local head man, and are known only to fully initiated men.
+    The passage also describes address terms, nicknames, and male and female status
+    terms marking initiation or life stages.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Every individual is described as belonging to a sub-class and totem and as
+    having at least two individual names.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first individual name is the ordinary personal name; the second is a secret
+    or sacred name associated with the person’s Churinga.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If a person is regarded as a reincarnation of an ancestor whose spirit part
+    was associated with the Churinga, the person bears that ancestor’s name; if the
+    ancestral name is not preserved, the local head man decides the secret name.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The secret name is called the Churinga name, is given to men and women, and
+    is known only to the fully initiated men of the local group.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the Alice Springs witchetty grub group example, the secret Churinga name
+    is never uttered except during solemn ceremonies when Churinga are examined.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When speaking to or of a living person, speakers may use a relationship term,
+    an ordinary personal name, or a special term connected with an official role in
+    the speaker’s initiation.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An individual may also have a nickname based on a marked feature of the body
+    or a perceived resemblance to an animal or plant.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Men have seven status terms marking successive stages before, during, and
+    after initiation ceremonies, including stages connected with circumcision, sub-incision,
+    and Engwura.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Women have three status terms marking stages before first menstruation, after
+    first menstruation until full growth, and after that stage.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage states that women never know their secret names.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Individual member of the described community
+  description: A person described as having sub-class, totem, ordinary personal, and
+    secret names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:2
+  name_or_label: Ancestor associated with a Churinga
+  description: An ancestor whose spirit part is described as associated with a Churinga
+    and whose name may be borne by a reincarnated individual.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Head man of the local group
+  description: The person who decides a secret name when the ancestor’s name has not
+    been handed down in tradition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Fully initiated men of the local group
+  description: Men who alone know the secret Churinga names of the local group.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Members of the Alice Springs witchetty grub group
+  description: Example group whose members have secret Churinga names known only to
+    fully initiated men of that local group.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Living individual addressed by others
+  description: A person who may be addressed by relationship term, ordinary personal
+    name, or an initiation-related term of address.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Initiation official addressed by a special term
+  description: A person who has acted in an official capacity during another man’s
+    initiation and may be addressed by a term connected with that ceremony.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Man passing through initiation stages
+  description: A male person described through status terms marking stages up to and
+    beyond Engwura.
+  role_refs:
+  - role:6
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:9
+  name_or_label: Woman or girl in the described status sequence
+  description: A female person described through three status terms and stated not
+    to know her secret name.
+  role_refs:
+  - role:7
+  - role:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: Name-bearer
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:8
+  - fig:9
+  basis: The passage describes individuals, men, women, and group members as bearing
+    multiple names or name categories.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:2
+  label: Ancestral name-source
+  assigned_to:
+  - fig:2
+  basis: The ancestor’s name may be borne by an individual regarded as that ancestor’s
+    reincarnation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Secret-name assigner
+  assigned_to:
+  - fig:3
+  basis: The local head man decides the secret name when the ancestral name is not
+    preserved.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Restricted knowledge holder
+  assigned_to:
+  - fig:4
+  basis: The fully initiated men are the only persons said to know the secret Churinga
+    names.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Ceremonial official and special addressee
+  assigned_to:
+  - fig:7
+  basis: A person who acted officially during initiation may be addressed by a ceremony-linked
+    term.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Initiation-stage subject
+  assigned_to:
+  - fig:8
+  basis: The male status terms indicate stages reached in initiation ceremonies.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: Female status-term subject without secret-name knowledge
+  assigned_to:
+  - fig:9
+  basis: Women have status terms, and the passage states that they never know their
+    secret names.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Churinga
+  literal_form: Churinga or Churinga fianja associated with an individual’s secret
+    name and examined in solemn ceremonies.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Secret or sacred Churinga name
+  literal_form: A secret or sacred name associated with a person’s Churinga and known
+    only to fully initiated men.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+- id: sym:3
+  label: Ordinary personal name
+  literal_form: The personal name in ordinary use when speaking to or of an individual.
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: Sub-class and totem name
+  literal_form: Sub-class name and totem name used as identity categories.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:5
+  label: Status term
+  literal_form: A term applied to a man or woman indicating an initiation or life-stage
+    status.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: Ceremonial term of address
+  literal_form: A special address term used for someone who acted officially during
+    the speaker’s initiation.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Nickname
+  literal_form: A nickname arising from a marked bodily feature or perceived resemblance
+    to an animal or plant.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: Multiple-name identity framework
+  summary: The passage lays out a naming framework in which individuals have sub-class
+    and totem affiliations, ordinary personal names, secret names, and other possible
+    names or terms.
+  figure_refs:
+  - fig:1
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: scene:2
+  label: Secret Churinga name assignment
+  summary: A secret name is associated with the Churinga; it may be the name of a
+    reincarnated ancestor, or it may be decided by the local head man if the ancestral
+    name is not preserved.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Restricted knowledge and ceremonial utterance
+  summary: Secret Churinga names are known only to fully initiated men and, in the
+    Alice Springs witchetty grub group example, are uttered only in solemn ceremonies
+    when Churinga are examined.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Address and nickname practices
+  summary: A living person may be addressed by relationship term, ordinary personal
+    name, or a term connected with an official initiation role; nicknames may arise
+    from marked features or resemblances.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Gendered status-term sequences
+  summary: 'Men and women are described with status terms: men through a seven-stage
+    initiation sequence, and women through three life-stage terms.'
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Initiation marked by changing status names
+  taxonomy_refs:
+  - initiation
+  basis: Male status terms mark successive stages before, during, and after initiation
+    rites, and special address terms may arise from roles in initiation ceremonies.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage is an ethnographic description of terminology rather than
+    a narrative episode.
+- id: motif:2
+  label: Restricted sacred name knowledge
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Secret Churinga names are known only to fully initiated men and are not uttered
+    except in solemn ceremonies; women are stated never to know their secret names.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The passage describes restricted or esoteric knowledge, but it does not
+    narrate a transgression or punishment for forbidden knowledge.
+- id: motif:3
+  label: Ancestor reincarnation and inherited name
+  taxonomy_refs:
+  - death_rebirth
+  basis: An individual regarded as the reincarnation of an ancestor whose spirit part
+    was associated with a Churinga bears that ancestor’s name.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage only refers to reincarnation as part of naming practice and
+    does not present a full death-and-rebirth story.
+- id: motif:4
+  label: Totemic and social identity through names
+  taxonomy_refs: []
+  basis: The passage presents sub-class, totem, personal, secret, nickname, status,
+    and ceremonial address terms as identity markers.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: No available taxonomy reference directly corresponds to this naming-identity
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26426-26435
+  quote_or_summary: 'The passage states that each individual belongs to a sub-class
+    and totem and has at least two individual names: an ordinary personal name and
+    a secret or sacred name associated with the Churinga.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 26435-26446
+  quote_or_summary: The passage explains that a person regarded as a reincarnated
+    ancestor bears that ancestor’s name; if the ancestral name is not handed down,
+    the local head man decides the secret name.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 26446-26455
+  quote_or_summary: The secret name is called the Churinga name, is given to men and
+    women, and is known only to fully initiated men; an Alice Springs witchetty grub
+    group example says it is uttered only during solemn ceremonies when Churinga are
+    examined.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 26456-26468
+  quote_or_summary: 'The passage lists three ways of speaking to or of a living person:
+    relationship term, ordinary personal name, or a term connected with an official
+    capacity during the speaker’s initiation.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 26470-26473
+  quote_or_summary: The passage says an individual may have a nickname arising from
+    a marked bodily feature or from perceived resemblance to an animal or plant.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 26474-26489
+  quote_or_summary: The passage lists seven male status terms tied to stages of initiation,
+    including stages before circumcision, between circumcision and sub-incision, during
+    food-seeking for old men after Engwura, and after passing through Engwura.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: summary
+  locator: lines 26490-26497
+  quote_or_summary: The passage lists three female status terms tied to stages before
+    first menstruation, after first menstruation until full growth, and after that
+    stage.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary only.
+- id: ev:8
+  type: summary
+  locator: lines 26498-26503
+  quote_or_summary: The passage summarizes that a man has sub-class, totem, personal,
+    secret or Churinga, probable nickname, and status names, and may have an initiation-official
+    term; it adds that women never know their secret names.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    cautious because the passage is ethnographic terminology rather than mythic narrative.
+    No comparison claims were made because the passage itself does not support a specific
+    cross-text or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy entries such as cave, fire, water, tree, mountain, milk, or serpent are present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l26426-l26503
+  passage_sha256=b01c6d52fd2c65787f0fbb71f28dcbb97b52e8f4378ce47522fea85a0b8cf2cf
+

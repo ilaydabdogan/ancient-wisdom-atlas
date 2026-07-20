@@ -1,3 +1,66 @@
+---
+id: arctic_inuit.eskimo_baffin_hudson_1.boas_archive
+title: The Eskimo of Baffin Land and Hudson Bay, Part I
+alternate_titles:
+- Eskimo of Baffin Land and Hudson Bay
+text_status: complete
+tradition: arctic_inuit
+culture: baffin_hudson_bay_inuit_oral_traditions
+region: arctic_canada_baffin_hudson_bay
+source_language: Inuktitut oral traditions mediated through English
+text_language: English
+date_range: living oral traditions; from notes collected in the 1890s by whaling captain
+  George Comer and missionaries James Mutch and E. J. Peck; published 1901 (Bulletin
+  of the American Museum of Natural History, Vol. 15, Part I)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.bulletin-american-museum-natural-history-15-001-370
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1901 AMNH Bulletin 15
+    part I (pp. 1-370)
+  translator: Franz Boas
+  editor: ''
+  publication_year: 1901
+  publisher: Internet Archive
+  source_url: https://archive.org/details/bulletin-american-museum-natural-history-15-001-370
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1901, US public domain. Recording context - Boas edited tales and
+    traditions taken down on the spot by long-resident collectors (Comer, Mutch, Peck);
+    large tale section is close to verbatim in English translation with informant-community
+    attribution. Extends the already-ingested Boas Central Eskimo to new Inuit groups.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- inuit
+- baffin
+- hudson_bay
+- sedna
+- isolated_lineage
+motifs:
+- sea_woman
+- transformation
+- shamanic_journey
+- animal_spouse
+figures: []
+---
+
 # The Eskimo of Baffin Land and Hudson Bay, Part I
 
 I.—THE ESKIMO OF BAFFIN LAND AND HUDSON
@@ -890,7 +953,7 @@ less extent some of its forms may be considered as conventionalized representati
 
 
 Fig. 12. Clasps for Coils of Harpoon-line.
-Nat. size, a (gg§gC), b (g§§gf), c (gfggg), d (gf§ ja).
+Nat. size, a (gg§gC), b (g§§gf), c (gfggg), d (gf§<ja).
 
 
 Fig. 13 (sfgr)* Set of Seal-drags and Plugs.
@@ -1696,7 +1759,7 @@ Fig. 81. Ivory Carvings. § nat. size. (See p. 56.)
 
 « Man ; b GSi*)i Woman ; c, d y e G«?ff h, a, i), Dice in form of women; f Gf$x)>
 
-Dice in form of bird ; g, h Gfgg, Polar bears; i G§tt>), Head of fox \j G§? j), Walrus ;
+Dice in form of bird ; g, h Gfgg, Polar bears; i G§tt>), Head of fox \j G§?<j), Walrus ;
 k Giss), Polar bear ; l GS8t). Head of fox.
 
 of decoration as the summer jacket. Women wear short
@@ -12379,7 +12442,7 @@ as animals. As long as the soul is near the body, actions that
 1 See before, p. 152. 8 kelson, l. r. y p. 514. * Nelson, l. c., p. 482.
 
 4 J. Murdoch, The American Naturalist, i886 t p. 594: and Boas, Notes on the Eskimo of Port Clarence, Alaska (Journal of American Fotk-hore, Vol. VII, 1894, p. 207).
-• Boas, Journal of American Folk-I ore, Vol. VII, 1894, p. 205.
+• Boas, Journal of American Folk-I<ore, Vol. VII, 1894, p. 205.
 
 6 Boas, l. c., p. 642. See, also, detailed list above.
 
@@ -12627,3 +12690,4 @@ and that they at one time interrupted an earlier cultural
 connection between the two continents.
 
 1 Journal of the Anthropological Institute, 1890, pp. 452 £F.
+

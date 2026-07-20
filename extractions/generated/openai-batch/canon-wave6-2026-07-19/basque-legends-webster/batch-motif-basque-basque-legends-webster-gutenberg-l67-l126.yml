@@ -1,0 +1,197 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l67-l126
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: Basque Legends; lines 67-126
+  start: '67'
+  end: '126'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Front matter for the second edition of Basque Legends: title page, collection
+    and contributor credits, publication information, and a dedication by Wentworth
+    Webster to M. Antoine D''Abbadie.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as the second edition of Basque Legends.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The title page states that the legends were collected chiefly in the Labourd.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage names Rev. Wentworth Webster as associated with the collection.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the volume includes an essay on the Basque language
+    by M. Julien Vinson.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the volume includes an appendix of Basque poetry.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage gives London publication and printer information for the volume.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage dedicates the translation of legends to M. Antoine D'Abbadie of
+    Abbadia.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The dedication says the legends were originally told in the language of D'Abbadie's
+    ancestors.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Rev. Wentworth Webster
+  description: Named on the title page and as the person dedicating the translation.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: M. Julien Vinson
+  description: Named as author of an essay on the Basque language.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: M. Antoine D'Abbadie
+  description: Named as the dedicatee of the translation of legends.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: collector or credited compiler
+  assigned_to:
+  - fig:1
+  basis: The title page says the legends were collected chiefly in the Labourd by
+    Rev. Wentworth Webster.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: essay contributor
+  assigned_to:
+  - fig:2
+  basis: The title page says an essay on the Basque language is by M. Julien Vinson.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: dedicatee
+  assigned_to:
+  - fig:3
+  basis: The dedication addresses M. Antoine D'Abbadie.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: dedicator
+  assigned_to:
+  - fig:1
+  basis: The dedication is signed by Wentworth Webster as the person dedicating the
+    translation.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Title-page attribution and publication notice
+  summary: The passage presents the title, edition, collection location, credited
+    contributors, publication place, publisher, and printer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Dedication
+  summary: Wentworth Webster dedicates the translation of Basque legends to M. Antoine
+    D'Abbadie in acknowledgment of assistance.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 67-70
+  quote_or_summary: '"Basque Legends"; "Second Edition."'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:2
+  type: summary
+  locator: lines 71-77
+  quote_or_summary: Title page states that Basque Legends was collected chiefly in
+    the Labourd by Rev. Wentworth Webster.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 78-86
+  quote_or_summary: The volume is described as including an essay on the Basque language
+    by M. Julien Vinson and an appendix of Basque poetry.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 87-105
+  quote_or_summary: The passage gives London publisher and printer details for Griffith
+    and Farran, Walbrook & Co., and W. O. Walbrook.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 106-126
+  quote_or_summary: The dedication addresses M. Antoine D'Abbadie of Abbadia and says
+    Webster dedicates the translation of legends, originally told in the language
+    of D'Abbadie's ancestors, in grateful acknowledgment of assistance.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is front matter rather than a legend narrative; no mythological
+    motifs, symbols, or comparison claims are supported by the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythic motif was extracted because the supplied passage contains bibliographic and dedication material only.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l67-l126
+  passage_sha256=5336bc52ae502854e9547192ebc8b4b2007b7dea3383e754b60616b6602516cd
+

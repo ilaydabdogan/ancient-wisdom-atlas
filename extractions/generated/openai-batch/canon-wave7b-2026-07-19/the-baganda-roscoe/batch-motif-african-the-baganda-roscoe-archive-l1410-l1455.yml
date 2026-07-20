@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l1410-l1455
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  13 / THE    BAGANDA / CHAP.
+    / I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC  15; lines 1410-1455
+  start: '1410'
+  end: '1455'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes household slavery and inheritance limits, peasant
+    garden communities, children herding animals and resting by an always-burning
+    hearth fire, and protective fetiches placed over doors or in gardens against theft.
+    Stories say a fetich could send a snake to confront a thief, tabooed garden food
+    could catch or kill a thief, and a night thief killed in a garden might be marked
+    with a plantain around the neck and left in the road.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some enslaved persons could be sold like cattle or put to death by an owner,
+    while household slaves might be treated as family members but excluded from inheritance
+    and, if women, transferred to the heir as possessions.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Peasant families lived on adjoining garden or plantation plots with vague
+    boundaries, forming communities described as the nearest approach to village life.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Children in these communities herded goats and sheep, played while herding,
+    and could sleep near the hearth fire, which was always burning.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: People feared thieves and placed fetiches in the roof over the door to protect
+    dwellings.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A story says that a thief leaving a peasant house with stolen goods was confronted
+    by a snake sent by the fetich, after which the owner caught and flogged the thief.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Women placed fetiches in gardens so that the food became taboo, and a person
+    stealing it might be caught by the owner or killed by the food.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A thief caught stealing food in a garden at night could be killed with impunity;
+    the killer tied a plantain around the thief's neck and cast the body into the
+    road, where no one would claim it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: enslaved persons
+  description: Persons described as property of owners; some were treated as family
+    members but excluded from inheritance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: owners and heirs
+  description: Owners could sell or kill slaves, and heirs could receive enslaved
+    women as possessions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: peasant families and communities
+  description: Families living on adjoining garden plots in extended communities.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: children in peasant communities
+  description: Children herded goats and sheep, played, and slept near the hearth
+    fire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: thieves
+  description: Persons who stole from houses or gardens and could be confronted, caught,
+    flogged, killed, or marked after death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: house or garden owners and women protecting gardens
+  description: Owners caught thieves; women placed fetiches in gardens to protect
+    food.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: snake sent by the fetich
+  description: A snake that confronted a thief leaving with stolen property.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: protective fetiches
+  description: Objects placed over doors or in gardens to protect dwellings or make
+    food taboo against theft.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: owned person excluded from inheritance
+  assigned_to:
+  - fig:1
+  basis: The passage describes enslaved persons as property who could not inherit
+    and could be transferred to heirs.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: owner or inheritor of persons as property
+  assigned_to:
+  - fig:2
+  basis: Owners could sell or kill slaves; heirs received enslaved women as part of
+    possessions.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: peasant community resident
+  assigned_to:
+  - fig:3
+  basis: Peasant families lived on adjoining garden plots in communities.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: child herder and player
+  assigned_to:
+  - fig:4
+  basis: Children herded community goats and sheep and played while herding.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: thief or taboo transgressor
+  assigned_to:
+  - fig:5
+  basis: The passage describes thieves stealing from houses or gardens and suffering
+    punishment or death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: property protector
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: Owners and women protect houses or gardens, including by placing fetiches.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: supernatural or animal enforcer
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The fetich is said to send a snake that confronts a thief.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: hearth fire
+  literal_form: fire always burning on the hearth
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: door-roof fetich
+  literal_form: fetiches placed in the roof over the door
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: garden fetich and taboo food
+  literal_form: fetiches placed in gardens so the food became taboo
+  associated_figures:
+  - fig:6
+  - fig:8
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: snake confronting thief
+  literal_form: snake sent by the fetich
+  associated_figures:
+  - fig:7
+  - fig:5
+  - fig:8
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: plantain corpse marker
+  literal_form: plantain tied around the neck of a killed garden thief
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: household slavery and inheritance
+  summary: The passage describes enslaved persons as under an owner's power, sometimes
+    treated as family members but excluded from inheritance and transferred as possessions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: peasant garden community
+  summary: Peasant families live on adjoining garden plots; children herd animals,
+    play, and rest by the always-burning hearth fire.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: fetich protecting a dwelling
+  summary: A protective fetich is placed over a door; in a story, it sends a snake
+    to confront a thief leaving with stolen goods, enabling the owner to catch and
+    flog him.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: garden taboo and punishment of food theft
+  summary: Women place fetiches in gardens, making food taboo; a thief may be caught,
+    killed by the food, or killed at night and marked with a plantain before being
+    cast into the road.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: protective object guarding house or garden from theft
+  taxonomy_refs: []
+  basis: Fetiches are placed over doors and in gardens to protect dwellings and food
+    from thieves.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as custom and story, not as a formal myth narrative.
+- id: motif:2
+  label: serpent as enforcer against theft
+  taxonomy_refs:
+  - serpent
+  basis: A snake sent by the fetich confronts a thief leaving with stolen property,
+    leading to the thief's capture and flogging.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage mentions one reported story pattern; no broader serpent mythology
+    is described here.
+- id: motif:3
+  label: tabooed food punishing the transgressor
+  taxonomy_refs: []
+  basis: Garden fetiches make food taboo, and someone stealing it may be caught or
+    killed by the food.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The agency of the food is reported briefly and without explanation of
+    the mechanism or ritual context.
+- id: motif:4
+  label: public marking of a killed thief
+  taxonomy_refs: []
+  basis: A night garden thief killed for stealing food is marked with a plantain around
+    the neck and left in the road, with no one claiming the body.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a punitive custom rather than clearly a mythic motif; symbolic
+    significance of the plantain is not explained in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1410-1418
+  quote_or_summary: Slaves are described as saleable property subject to an owner's
+    will; household slaves may be treated as family but cannot inherit, and women
+    may be transferred to the heir.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1420-1435
+  quote_or_summary: Peasants live in adjoining garden or plantation plots with vague
+    boundaries; children herd goats and sheep, play, and sleep near the fire always
+    burning on the hearth.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1436-1443
+  quote_or_summary: People fear thieves and place fetiches in the roof over the door;
+    a story says a thief leaving with stolen goods is confronted by a snake sent by
+    the fetich and then caught and flogged by the owner.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1444-1448
+  quote_or_summary: Women place fetiches in gardens so food becomes taboo; anyone
+    stealing it may be caught by the owner or killed by the food.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1448-1455
+  quote_or_summary: A thief caught stealing food in a garden by night may be killed;
+    the killer ties a plantain around his neck, casts the body into the road, and
+    no one claims it.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal social and ritual details are explicit. Motif identification is cautious
+    because the passage is ethnographic description with brief reported stories rather
+    than a full myth narrative. No comparison claims were made because the passage
+    itself provides no explicit cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to available terms directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l1410-l1455
+  passage_sha256=e00a4dc0070a1c7949f1bcef39b6be768d4b3bd89d049097428d15f4a72d5927
+

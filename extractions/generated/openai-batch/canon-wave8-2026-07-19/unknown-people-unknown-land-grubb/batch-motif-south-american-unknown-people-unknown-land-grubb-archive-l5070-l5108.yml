@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l5070-l5108
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: SHADE-LAND / SHADE-LAND / SHADE-LAND / SHADE-LAND; lines 5070-5108
+  start: '5070'
+  end: '5108'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator describes an incident at Riacho Fernandez used to illustrate
+    the belief that the dead hover nearby for a time after death. While sleeping in
+    an abandoned hut with five Indian companions, he hears a sound like someone fanning
+    embers at a dead fire. His companions identify the sound as an aphangak, associating
+    it with the ghost of an Indian whose bones the narrator had recently buried under
+    a castor-oil tree near the hut. The narrator finds no visible cause, while the
+    companions remain frightened through the night; the next day he suggests the sound
+    may have been caused by rubbing boughs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator presents the episode as illustrating an idea that the dead hover
+    about for a time after dissolution.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator stayed one night in an abandoned hut at Riacho Fernandez with
+    five Indian companions, remote from neighbours.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: During the night the companions woke the narrator in fear and pointed out
+    a noise outside.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sound was heard near a cooking fire that had gone out, and it resembled
+    an Indian using a palm-leaf fan to blow up embers.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The companions told the narrator in awestruck whispers that the sound was
+    an aphangak.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A few days earlier, the narrator had transported and buried much of the skeleton
+    of an Indian who had been killed by Paraguayan soldiers and had died unattended.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The bones were buried under a castor-oil tree about one hundred yards from
+    the hut.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The companions associated the apparent fanning of the fire with the dead man's
+    ghost.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The narrator went outside despite the companions' objections, found nothing,
+    and saw that the fire was quite dead.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The companions huddled together and spent a fearful night, while the narrator
+    slept until morning.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The narrator later proposed that the sound may have been caused by two boughs
+    rubbing together.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: The observer who stayed in the abandoned hut, heard the noise, investigated
+    outside, and later suggested a natural cause.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Five Indian companions
+  description: The narrator's companions who woke him in fear, identified the sound
+    as an aphangak, and associated it with the dead man's ghost.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Dead Indian / aphangak association
+  description: An Indian whose skeleton had been found after he was killed and died
+    unattended; the companions associated the nighttime sound with his ghost.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Paraguayan soldiers
+  description: Soldiers said to have killed the Indian whose bones were later buried
+    near the hut.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: observer-investigator
+  assigned_to:
+  - fig:1
+  basis: The narrator hears the sound, goes outside to inspect it, and later investigates
+    possible causes.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:2
+  label: fearful witnesses
+  assigned_to:
+  - fig:2
+  basis: The companions wake the narrator in fear, speak in whispers, object to his
+    going outside, and huddle together through the night.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: interpreters of the sound as ghostly
+  assigned_to:
+  - fig:2
+  basis: They identify the sound as an aphangak and associate it with the dead man's
+    ghost.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: unattended dead / associated ghost
+  assigned_to:
+  - fig:3
+  basis: The passage says the man died unattended, his bones were buried nearby, and
+    the companions associated the fire sound with his ghost.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: killers in background account
+  assigned_to:
+  - fig:4
+  basis: The passage states that Paraguayan soldiers had killed the Indian lower down
+    the river.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dead fire
+  literal_form: A cooking fire outside the hut that had gone out and was later found
+    quite dead.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: palm-leaf fan sound
+  literal_form: A sound like an Indian using a palm-leaf fan to revive embers.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: castor-oil tree burial place
+  literal_form: A castor-oil tree under which the bones were buried about one hundred
+    yards from the hut.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: aphangak
+  literal_form: A ghost or spirit named by the companions as the source of the nighttime
+    sound.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Night alarm at the abandoned hut
+  summary: At night in an abandoned hut, the companions wake the narrator because
+    of a noise outside near a dead cooking fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Identification of the sound as aphangak
+  summary: The companions prevent the narrator from immediately going out and whisper
+    that the noise is an aphangak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Prior death and nearby burial
+  summary: The narrator recalls having brought and buried the bones of a man killed
+    by soldiers, placing them under a castor-oil tree near the hut.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Investigation and continued fear
+  summary: The narrator goes outside, finds no person and no active fire, returns
+    to sleep, while the companions remain huddled and frightened.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Next-day explanation
+  summary: The narrator investigates the alarm the next day and suggests that rubbing
+    boughs may have produced the sound.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: dead hovering near the living after death
+  taxonomy_refs: []
+  basis: The passage explicitly frames the incident as illustrating a belief that
+    the dead hover about for a time after dissolution, and the companions associate
+    the sound with the nearby buried man's ghost.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage is an ethnographic report of a specific incident and does
+    not give a full afterlife narrative.
+- id: motif:2
+  label: ghost signaled by unexplained nighttime sound
+  taxonomy_refs: []
+  basis: A nighttime sound outside the hut is interpreted by the companions as an
+    aphangak, though no visible source is found.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The narrator also offers a possible natural explanation involving rubbing
+    boughs.
+- id: motif:3
+  label: restless or nearby dead connected to burial place
+  taxonomy_refs: []
+  basis: The companions link the fire-fanning sound to the ghost of a man whose bones
+    had recently been buried close to the camp.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports association by the companions but does not state a
+    general rule about burial places.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports comparison to a broad afterlife-adjacent pattern in
+    which the dead remain near the living for a period after death.
+  claim_level: same_function
+  target: nearby-dead or shade-hovering motif family
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The passage does not provide a mapped journey to an afterlife realm,
+    and the narrator records a possible natural cause for the sound.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5070-5078
+  quote_or_summary: The narrator introduces the episode as illustrating the idea that
+    the dead hover about for a time after dissolution and says he stayed one night
+    in an abandoned hut with five Indian companions at Riacho Fernandez.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5078-5088
+  quote_or_summary: In the middle of a dark, still night, the companions wake the
+    narrator in fear because of a sound outside near a cooking fire that should have
+    been out; the sound resembles someone using a palm-leaf fan to revive embers.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5088-5092
+  quote_or_summary: When the narrator is about to go outside, the companions pull
+    him back and whisper that the sound is an aphangak.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5092-5100
+  quote_or_summary: A few days earlier, the narrator had brought much of the skeleton
+    of an Indian killed by Paraguayan soldiers and buried the bones under a castor-oil
+    tree about one hundred yards from the hut; the companions associated the fire-fanning
+    sound with his ghost.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5100-5105
+  quote_or_summary: The narrator goes outside despite objections, finds nothing and
+    sees the fire is dead; he sleeps, while the companions huddle together through
+    a miserable night.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 5106-5108
+  quote_or_summary: The next day the narrator investigates and suggests the sound
+    may have been caused by two boughs rubbing together.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events and figures are clear in the passage. Motif labels are cautious
+    because the account gives a single reported incident and includes the narrator's
+    possible natural explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were applied only to the literal fire and tree symbols; no available motif-family reference was assigned because the passage does not describe a full afterlife journey map.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l5070-l5108
+  passage_sha256=04a5fb60e62324aee0acd5d5d2e86537adfe284366d4c17b78aa56d20de00858
+

@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l16414-l16437
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: THE  EAGLE  SAVES  THE  MAN  365 / THE  SPIDER'S  DEBT  367 / THE  SPIDER  PASSES  ON  A  DEBT.
+    / THE  SPIDER'S  DEBT  369; lines 16414-16437
+  start: '16414'
+  end: '16437'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A passage headed “The Spider’s Debt” states that Spider is the buyer of
+    the Old Woman’s bull for ten large basins and ten large plates, with payment assigned
+    to Daughter. Daughter agrees, takes water, falls because of Slipperiness, spills
+    the water, and then recites a chain linking Slipperiness, Daughter, Crab, He-Goat,
+    and Spider.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Spider is described as the buyer of the Old Woman’s bull.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated price is ten large basins and ten large plates.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Payment is placed upon Daughter, and Daughter agrees.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Daughter takes water she had come to get and begins going home.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Slipperiness causes Daughter to fall and spill the water.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: 'Daughter recites a chain: Slipperiness made Daughter fall; Daughter stepped
+    on Crab; Crab caught He-Goat’s beard; He-Goat drank Spider’s broth.'
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Spider
+  description: Named as buyer of the Old Woman’s bull and as the owner or source associated
+    with the broth drunk by He-Goat.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Old Woman
+  description: Named in relation to the bull bought by Spider.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bull
+  description: Animal bought by Spider from or of the Old Woman.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Daughter
+  description: The one upon whom payment is placed; she agrees, takes water, falls,
+    spills it, and recites the chain.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Slipperiness
+  description: Named as the cause of Daughter’s fall.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Crab
+  description: Described as stepped on by Daughter and as catcher of He-Goat’s beard.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: He-Goat
+  description: Described as having a beard caught by Crab and as drinker of Spider’s
+    broth.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: buyer
+  assigned_to:
+  - fig:1
+  basis: Spider is explicitly called the buyer of the Old Woman’s bull.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: associated owner or seller of bull
+  assigned_to:
+  - fig:2
+  basis: The bull is identified as the Old Woman’s bull; the passage does not explicitly
+    name her as seller.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: purchased animal
+  assigned_to:
+  - fig:3
+  basis: The bull is the object bought by Spider.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: assigned payer
+  assigned_to:
+  - fig:4
+  basis: The payment is said to be upon Daughter, and she agrees.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: cause of fall
+  assigned_to:
+  - fig:5
+  basis: Slipperiness is said to have caused Daughter to fall.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: broth owner or source
+  assigned_to:
+  - fig:1
+  basis: He-Goat is described as the drinker of Spider’s broth.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: speaker of causal chain
+  assigned_to:
+  - fig:4
+  basis: After spilling the water, Daughter speaks the chain of causes and actions.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: beard-catcher
+  assigned_to:
+  - fig:6
+  basis: Crab is described as the catcher of He-Goat’s beard.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: broth-drinker
+  assigned_to:
+  - fig:7
+  basis: He-Goat is described as the drinker of Spider’s broth.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water carried by Daughter and spilled after she falls.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: payment goods
+  literal_form: Ten large basins and ten large plates.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: causal chain
+  literal_form: A spoken sequence linking Slipperiness, Daughter, Crab, He-Goat, and
+    Spider’s broth.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Spider’s purchase and assigned payment
+  summary: Spider is named as buyer of the Old Woman’s bull for ten basins and ten
+    plates; payment is assigned to Daughter, who agrees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Daughter falls while carrying water
+  summary: Daughter carries water home, falls because of Slipperiness, and spills
+    the water.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Daughter recites the linked sequence
+  summary: Daughter says that Slipperiness made her fall, she stepped on Crab, Crab
+    caught He-Goat’s beard, and He-Goat drank Spider’s broth.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: debt or obligation transferred onto another figure
+  taxonomy_refs: []
+  basis: A purchase by Spider is followed by the statement that payment is upon Daughter,
+    and Daughter agrees.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is excerpted from a larger tale, so the full mechanics of
+    the debt transfer are not present here.
+- id: motif:2
+  label: cumulative chain of causes or responsibilities
+  taxonomy_refs: []
+  basis: Daughter’s speech links a sequence of agents and actions from Slipperiness
+    through Crab and He-Goat back to Spider’s broth.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage provides the chain but not its later consequences.
+- id: motif:3
+  label: personified condition causing action
+  taxonomy_refs: []
+  basis: Slipperiness is grammatically treated as an agent that causes Daughter’s
+    fall.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not clarify whether Slipperiness is a personified being,
+    a named figure, or a condition described as an agent.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16416-16422
+  quote_or_summary: Spider is named as buyer of the Old Woman’s bull for ten large
+    basins and ten large plates; payment is placed upon Daughter, who agrees.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16423-16428
+  quote_or_summary: Daughter takes the water she came to get, goes home, falls because
+    of Slipperiness, and spills the water.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16431-16437
+  quote_or_summary: Daughter’s speech links Slipperiness causing her fall, her stepping
+    on Crab, Crab catching He-Goat’s beard, and He-Goat drinking Spider’s broth.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short excerpt from a larger tale. Motif candidates
+    are limited to patterns directly visible in the provided lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage excerpt alone does not establish a specific external parallel or historical relationship.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l16414-l16437
+  passage_sha256=af226054fc7b13f22b7606592ac18586341976aa173abe289ceea5f9bf57e8dd
+

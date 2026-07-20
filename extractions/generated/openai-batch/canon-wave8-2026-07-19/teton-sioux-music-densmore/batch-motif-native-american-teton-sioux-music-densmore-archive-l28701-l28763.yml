@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l28701-l28763
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUBEAU  OP  AMEBICAN  ETHNOLOGY / BUREAU  OF  AMERICAN / BUREAU  OF  AMERICAN  ETHNOLOOV
+    / B.    SCENES  FROM  JAW'S  CHILOHOOO  (DRAWING  BV  HIM; lines 28701-28763
+  start: '28701'
+  end: '28763'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Jaw’s medicine bag, its four dried herbs and their
+    medicinal uses, then recounts Jaw’s ceremonial pipe-prayer before important undertakings,
+    including requests to Wakag'tagka and to a wolf for help in obtaining horses without
+    killing anyone.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jaw fastened a medicine bag to his horse's bridle when on the warpath.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The medicine bags were said to contain a mixture of four herbs, dried and
+    powdered, usable singly or in combination.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Jaw’s war medicine was described as having power as a charm in addition to
+    curative efficacy.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The four listed herbs were identified with uses for toothache, stomach trouble,
+    rheumatism or lameness, pain in the heart, and treatment of horses.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A successful war expedition by Jaw was shown in a drawing made by Jaw himself.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Before an important undertaking, Jaw smoked a certain pipe in a ceremonial
+    manner and offered prayers to Wakag'tagka.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In the first pipe gesture, Jaw held the bowl in his left hand and the stem
+    in his right hand, held the pipe upright close to his body, addressed Wakag'tagka,
+    asked that the pipe be smoked, said he did not want to kill anybody, and asked
+    for help in getting good horses.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In the second pipe gesture, Jaw changed hand positions, pointed the stem toward
+    his left shoulder, addressed a wolf, and asked it to smoke the pipe and bring
+    him many horses.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: In the third pipe gesture, Jaw again changed hand positions, pointed the stem
+    upward and forward, held the pipe level with his face, and addressed Wakag'tagka
+    again.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jaw
+  description: Person who used the medicine bag and herbs, drew a successful war expedition,
+    and enacted the pipe ceremony.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Wakag'tagka
+  description: Named addressee of Jaw’s prayers, asked to behold and smoke the pipe
+    and to help him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: wolf
+  description: Animal addressee in the pipe ceremony, asked to behold and smoke the
+    pipe and bring many horses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: medicine-bag owner and herbal medicine user
+  assigned_to:
+  - fig:1
+  basis: Jaw’s medicine bags contained four herbs, and the passage gives medicinal
+    uses connected with his practice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ceremonial pipe supplicant
+  assigned_to:
+  - fig:1
+  basis: Jaw performed pipe gestures and addressed prayers before an important undertaking.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: prayer addressee asked for help
+  assigned_to:
+  - fig:2
+  basis: Wakag'tagka is addressed directly and asked to smoke the pipe, behold Jaw,
+    and help him obtain horses.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:4
+  label: animal addressee asked to bring horses
+  assigned_to:
+  - fig:3
+  basis: The wolf is addressed directly and asked to smoke the pipe and bring many
+    horses.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: medicine bag as war medicine
+  literal_form: medicine bag tied to a horse's bridle, containing powdered herbs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: four medicinal herbs
+  literal_form: 'mixture of four dried and powdered herbs: Echinacea, Cheirinia, Erigeron,
+    and Lacinaria/Ladniaria as named in the passage'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: ceremonial pipe
+  literal_form: pipe held in specific hand positions and offered for smoking in prayer
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: horses sought in expedition
+  literal_form: good or many horses requested in prayer
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: wolf as addressed helper
+  literal_form: wolf addressed during the pipe ceremony
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Medicine bag and four herbs
+  summary: Jaw’s warpath medicine bag is described as containing four powdered herbs,
+    with the mixture serving both as a charm and as medicine; individual herbs and
+    their uses are listed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pipe prayer before an undertaking
+  summary: Before an important undertaking, Jaw ceremonially handles a pipe and addresses
+    Wakag'tagka and a wolf, asking them to smoke it and help him obtain horses without
+    killing anyone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: pipe offering in exchange for aid
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Jaw offers or presents the pipe for smoking to Wakag'tagka and the wolf while
+    asking for help and horses.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is an ethnographic ritual account rather than a myth narrative;
+    the exchange is inferred from the stated offering/request structure.
+- id: motif:2
+  label: war medicine as both charm and cure
+  taxonomy_refs: []
+  basis: The medicine bag mixture is explicitly described as war medicine with power
+    as a charm and efficacy as a curative agency.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy motif precisely matches this pattern.
+- id: motif:3
+  label: animal helper invoked for success
+  taxonomy_refs: []
+  basis: Jaw addresses the wolf directly and asks it to smoke the pipe and bring many
+    horses.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe the wolf as a trickster, shapeshifter, or
+    mythic character beyond being an addressed helper in the ceremony.
+- id: motif:4
+  label: specialized herbal healing knowledge
+  taxonomy_refs: []
+  basis: The passage lists four identified herbs and their specific uses for toothache,
+    stomach trouble, rheumatism, lameness, pain in the heart, and horses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is medical-ethnographic information; its broader mythological significance
+    is not established within the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28709-28716 within supplied range
+  quote_or_summary: Jaw’s medicine bag was tied to his horse’s bridle on the warpath;
+    the bags contained four dried, powdered herbs and the combination was said to
+    function as war medicine, charm, and curative agency.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 28718-28733 within supplied range
+  quote_or_summary: 'The passage identifies four herbs and their uses: Echinacea for
+    toothache, Cheirinia for stomach trouble, Erigeron for rheumatism, lameness, and
+    stomach disorders, and Lacinaria/Ladniaria for pain in the heart and for horses.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 28738-28743 within supplied range
+  quote_or_summary: A successful war expedition by Jaw appears in his drawing; before
+    important undertakings he smoked a certain pipe ceremonially and offered prayers
+    to Wakag'tagka, enacting this for the writer.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 28745-28751 within supplied range
+  quote_or_summary: Jaw addresses Wakag'tagka with the pipe and says he does not want
+    to kill anybody, wants only to get good horses, and asks for help.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short summarized quotation.
+- id: ev:5
+  type: quote
+  locator: lines 28753-28756 within supplied range
+  quote_or_summary: "“Now, wolf, behold this pipe. Smoke it and bring me many horses.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 28758-28763 within supplied range
+  quote_or_summary: Jaw again holds the pipe with changed hand positions, points it
+    upward and forward, and asks Wakag'tagka to behold and smoke the pipe while looking
+    at him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based only on the supplied passage. Some names and botanical
+    terms show OCR irregularities, so normalized spellings are avoided except where
+    the passage itself provides them. No passage-internal comparative claim is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs were applied because the supplied taxonomy symbols do not occur literally in the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l28701-l28763
+  passage_sha256=8641b266d7409205a62f20b24e047d3273fa33269027aa17f7eb22acffcaae6c
+

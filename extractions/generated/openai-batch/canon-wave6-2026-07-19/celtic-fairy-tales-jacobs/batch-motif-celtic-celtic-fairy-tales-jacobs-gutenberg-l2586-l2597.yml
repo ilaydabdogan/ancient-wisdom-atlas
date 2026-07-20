@@ -1,0 +1,385 @@
+---
+record_id: batch.motif.celtic-celtic-fairy-tales-jacobs-gutenberg-l2586-l2597
+source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: THE SHEPHERD OF MYDDVAI / THE SPRIGHTLY TAILOR / THE STORY OF DEIRDRE / MUNACHAR
+    AND MANACHAR; lines 2586-2597
+  start: '2586'
+  end: '2597'
+  translation: Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Munachar uses red clay and daub to seal a sieve so it can carry water.
+    He brings the water to the miller and then proceeds through a chain of exchanges
+    and actions involving cake makings, threshers, straw, a cow, milk, a cat, butter,
+    a hound, a deer, water, a flag, an axe, a rod, and a gad. When he is ready to
+    hang Manachar, he discovers that Manachar has burst.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Munachar blesses the addressee for giving good advice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Munachar takes red clay and daub from by the brink and rubs it over the bottom
+    of a sieve until the holes are filled.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the sieve is sealed, it holds water, which Munachar brings to the miller.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The miller gives Munachar the makings of a cake.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Munachar gives the cake makings to the threshers, who give him a whisp of
+    straw.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Munachar gives the straw to the cow, and the cow gives him milk.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The milk is given to the cat, and the cat scrapes the butter.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The butter goes into the claw of the hound; the hound hunts the deer; the
+    deer swims the water.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The water wets the flag; the flag sharpens the axe; the axe cuts the rod;
+    the rod makes a gad.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: When Munachar has the gad ready to hang Manachar, he finds that Manachar has
+    burst.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Munachar
+  description: The actor who seals the sieve, carries out the chain of exchanges and
+    actions, and prepares to hang Manachar.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Manachar
+  description: The intended victim of hanging, found to have burst before Munachar
+    can hang him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: miller
+  description: The figure who receives the water and gives Munachar the makings of
+    a cake.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: threshers
+  description: The figures who receive the cake makings and give Munachar a whisp
+    of straw.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: cow
+  description: The animal that receives the whisp of straw and gives milk.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: cat
+  description: The animal that receives milk and scrapes the butter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: hound
+  description: The animal whose claw receives butter and that hunts the deer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: deer
+  description: The animal hunted by the hound and said to swim the water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: problem-solver
+  assigned_to:
+  - fig:1
+  basis: Munachar solves the problem of carrying water in a sieve by sealing its holes
+    with clay and daub.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pursuer of hanging
+  assigned_to:
+  - fig:1
+  basis: Munachar prepares a gad in order to hang Manachar.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: intended victim
+  assigned_to:
+  - fig:2
+  basis: Manachar is the one Munachar intends to hang, but he is found already burst.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: chain participant
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Each figure or animal participates in the successive chain of exchanges and
+    actions that leads toward making the gad.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: sieve made able to hold water
+  literal_form: sieve sealed with red clay and daub
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water
+  literal_form: water carried to the miller and later swum by the deer and used to
+    wet the flag
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: milk
+  literal_form: milk given by the cow and given to the cat
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: gad for hanging
+  literal_form: gad made from a rod after the axe cuts it
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: chain of exchanged or enabling objects
+  literal_form: water, cake makings, straw, milk, butter, hound, deer, flag, axe,
+    rod, and gad
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sealing the sieve
+  summary: Munachar receives advice, seals the holes of a sieve with red clay and
+    daub, and makes it able to carry water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cumulative exchange chain
+  summary: Munachar uses the water to obtain cake makings, then proceeds through a
+    linked sequence of exchanges and actions involving threshers, straw, a cow, milk,
+    a cat, butter, a hound, a deer, water, a flag, an axe, and a rod.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Attempted hanging forestalled
+  summary: The rod produces a gad for hanging Manachar, but when Munachar has it ready,
+    Manachar has already burst.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: impossible container made functional
+  taxonomy_refs: []
+  basis: A sieve, normally full of holes, is made to hold water by sealing its holes
+    with red clay and daub.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the action but not a wider explanation of why the task
+    was required.
+- id: motif:2
+  label: cumulative chain of exchanges and enabling actions
+  taxonomy_refs: []
+  basis: One acquired item or action leads to the next in a long sequence ending with
+    the making of a gad.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No external tale-type or motif index number is provided in the supplied
+    metadata.
+- id: motif:3
+  label: revenge or punishment attempt rendered unnecessary by prior death or bursting
+  taxonomy_refs: []
+  basis: Munachar prepares a gad to hang Manachar, but discovers Manachar has already
+    burst.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the cause of Manachar's bursting or the preceding
+    conflict.
+comparison_claims:
+- id: claim:1
+  claim: The passage displays the narrative function of a cumulative exchange-chain
+    pattern, in which each object or action enables the next step toward a final goal.
+  claim_level: same_function
+  target: cumulative exchange-chain tale pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a structural comparison only; the passage and metadata do not
+    provide a specific external tale type, source relationship, or historical contact
+    evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2586-2590
+  quote_or_summary: Munachar blesses the giver of good advice, takes red clay and
+    daub by the brink, seals the holes of the sieve, and uses it to carry water to
+    the miller.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 2590-2593
+  quote_or_summary: The miller gives cake makings; Munachar gives them to the threshers;
+    the threshers give straw; the straw goes to the cow; the cow gives milk; the milk
+    goes to the cat; the cat scrapes butter.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2593-2596
+  quote_or_summary: The butter goes into the hound's claw; the hound hunts the deer;
+    the deer swims the water; the water wets the flag; the flag sharpens the axe;
+    the axe cuts the rod; the rod makes a gad.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 2596-2597
+  quote_or_summary: '"when he had it ready to hang Manachar he found that Manachar
+    had BURST."'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The sequence and participants are explicit in the passage. Motif labels are
+    descriptive and not tied to a supplied external index.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external tale-type identifiers added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-celtic-fairy-tales-jacobs-gutenberg__l2586-l2597
+  passage_sha256=566ce5ac1aee30e1c879a4d074ffa846943f2759cb81cac685bb6c7a0a080f39
+

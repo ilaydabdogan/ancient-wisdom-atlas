@@ -1,0 +1,210 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l8509-l8580
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: THE BOOK OF THE PYLONS 175 / DIVISIONS OF THE UNDERWORLD / DIVISIONS OF THE
+    UNDERWORLD / TCHET-F; lines 8509-8580
+  start: '8509'
+  end: '8580'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Chapter cxlv. of the Book of the Dead according to
+    the Theban and Saite recensions. It says that the domain of Osiris, called Sekhet-Aarru
+    or Sekhet-Aanre in the OCR text, contains twenty-one pylons, each with a name
+    and each guarded by a god. It then gives a damaged list of names and states that
+    some names come from the Papyrus of Nu and others from the Turin Papyrus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented under the heading “DIVISIONS OF THE UNDERWORLD.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage discusses Chapter cxlv. of the Book of the Dead according to the
+    Theban and Saite recensions.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The domain of Osiris is identified with Sekhet-Aarru or Sekhet-Aanre in the
+    OCR text.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The domain contains twenty-one pylons.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Each pylon has a name, generally a long one.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Each pylon is guarded by a god.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage includes a damaged list of names associated with the first ten
+    pylon guardians, including Metes-sen, Aa-kheru, Khesef-hra-khemiu, Ertat-Sebanqa,
+    Khu-Sekhen-ur, Tchesef, Erta-hen-er-reqa, Am-Nit, and Samti.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that some names are taken from the Papyrus of Nu and that
+    following names come from the Turin Papyrus edited by Lepsius.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: A deity whose domain is described as containing twenty-one pylons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Pylon-guarding gods
+  description: Gods who guard the pylons in the domain of Osiris; the excerpt includes
+    a damaged list of names associated with the first ten.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: deity associated with the underworld domain
+  assigned_to:
+  - fig:1
+  basis: The passage calls the place described “the domain of Osiris.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: guardian of a pylon
+  assigned_to:
+  - fig:2
+  basis: The passage states that each of the twenty-one pylons is guarded by a god.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: twenty-one pylons
+  literal_form: A set of twenty-one named pylons in the domain of Osiris.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: domain of Osiris
+  literal_form: The underworld domain identified as Sekhet-Aarru or Sekhet-Aanre in
+    the OCR text.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Catalog of guarded pylons in the Osirian domain
+  summary: The passage describes the domain of Osiris as an underworld region with
+    twenty-one named pylons, each guarded by a god, and then presents damaged name
+    lists from manuscript sources.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mapped afterlife domain with named guarded pylons
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes an underworld domain of Osiris organized into twenty-one
+    named pylons, each guarded by a god, within a Book of the Dead chapter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt is a catalog or scholarly description rather than a narrative
+    of a soul’s journey through the pylons; the OCR layout makes some names and ordering
+    uncertain.
+- id: motif:2
+  label: guarded thresholds in the underworld
+  taxonomy_refs: []
+  basis: Each pylon in the Osirian domain is said to have its own name and divine
+    guardian.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe actions at the thresholds, only their existence
+    and guardianship.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8509-8580
+  quote_or_summary: The passage appears under “DIVISIONS OF THE UNDERWORLD” and introduces
+    Chapter cxlv. of the Book of the Dead according to the Theban and Saite recensions.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 8509-8580
+  quote_or_summary: "“the domain of Osiris ... contains Twenty-one pylons, each of
+    which has a name ... and each of which is guarded by a god.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8509-8580
+  quote_or_summary: The damaged name list includes labels such as Metes-sen, Aa-kheru,
+    Khesef-hra-khemiu, Ertat-Sebanqa, Tchet-f, Tchesef, Khu-Sekhen-ur, Erta-hen-er-reqa,
+    Am-Nit, and Samti; exact ordering and referents are uncertain because of OCR/layout
+    damage.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8509-8580
+  quote_or_summary: The passage states that names are taken from the Papyrus of Nu
+    and that following names come from the Turin Papyrus edited by Lepsius.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Core structure of twenty-one named guarded pylons is clear, but the OCR/table
+    layout is damaged, making the name list and its sequence uncertain. No comparison
+    claims were added beyond motif candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy assignment is limited to the provided motif family list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l8509-l8580
+  passage_sha256=1752fa9b794e94276171049c32d4f2d68c6103471509d845b891858f4899ce13
+

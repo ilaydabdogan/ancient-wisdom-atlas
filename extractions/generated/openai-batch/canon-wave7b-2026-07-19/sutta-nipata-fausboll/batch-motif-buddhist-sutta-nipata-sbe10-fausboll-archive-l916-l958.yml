@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.buddhist-sutta-nipata-sbe10-fausboll-archive-l916-l958
+source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+passage_locator:
+  label: INTRODUCTION. XXV / XXVI DHAMMAPADA. / XXVII1 DHAMMAPADA. / INTRODUCTION.
+    XXIX; lines 916-958
+  start: '916'
+  end: '958'
+  translation: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An introductory note quotes a Mahavamsa story about a learned Brahman youth
+    later called Buddhaghosa. Born near the great Bo-tree in Magadha, he becomes a
+    disputant and wanderer, recites a learned discourse in a vihara, encounters Mahathera
+    Revata, is refuted in debate, fails to understand an Abhidhamma passage described
+    as Buddha’s mantra, enters the sacerdotal order to learn it, converts to the faith,
+    and receives the name Buddhaghosa because of his eloquence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The story is presented by the editor as reprinted from the Mahavamsa and described
+    as containing legendary ingredients while also resting on a claimed historical
+    foundation.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Brahman youth is said to have been born near the terrace of the great Bo-tree
+    in Magadha and to have mastered knowledge, art, and the three Vedas.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The youth is described as a schismatic disputant and wanderer over Gambudipa
+    who established himself as a disputant in a vihara.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: He rehearsed a discourse by night and by day with clasped hands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mahathera Revata encountered him, judged him to be profoundly learned, and
+    considered converting him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Revata challenged the youth with an insult comparing his recitation to an
+    ass’s bray, and the youth answered with a retort about defining the meaning of
+    such a bray.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Brahman displayed his knowledge, and Revata criticized each proposition
+    and identified fallacies.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Revata gave the Brahman a passage from the Abhidhamma; the Brahman could not
+    understand it and asked whose mantra it was.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Revata identified the passage as Buddha’s mantra, and the Brahman asked that
+    it be imparted to him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Revata required him to enter the sacerdotal order, after which the Brahman
+    became convinced that this was the sole road and converted to the faith.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Because his eloquence was said to be as profound as Buddha’s, he was given
+    the appellation Buddhaghosa.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Brahman youth / Buddhaghosa
+  description: A learned Brahman youth born near the great Bo-tree, accomplished in
+    knowledge, art, and the three Vedas; a disputant and wanderer who later converted
+    and received the name Buddhaghosa.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Mahathera Revata
+  description: A Mahathera who encounters the Brahman youth, decides he is worth converting,
+    refutes his propositions, gives him an Abhidhamma passage, and requires entry
+    into the order before instruction.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Buddha
+  description: Referenced as the source of the mantra and as the standard to which
+    the Brahman youth’s eloquence is compared.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: learned Brahman disputant
+  assigned_to:
+  - fig:1
+  basis: The youth is described as accomplished in learning, the three Vedas, and
+    disputation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: religious convert
+  assigned_to:
+  - fig:1
+  basis: After seeking the Piṭakattaya, he becomes convinced and converts to the faith.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: named eloquent speaker
+  assigned_to:
+  - fig:1
+  basis: The appellation Buddhaghosa is conferred because of his profound eloquence.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: Buddhist elder and refuter
+  assigned_to:
+  - fig:2
+  basis: Revata is called a Mahathera and is shown criticizing and refuting the Brahman’s
+    propositions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: converter and doctrinal gatekeeper
+  assigned_to:
+  - fig:2
+  basis: Revata intends to convert the Brahman and requires entry into the sacerdotal
+    order before imparting Buddha’s mantra.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:6
+  label: source and exemplar of doctrine and eloquence
+  assigned_to:
+  - fig:3
+  basis: The passage is called Buddha’s mantra, and Buddhaghosa’s eloquence is compared
+    to Buddha’s.
+  evidence_refs:
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: great Bo-tree
+  literal_form: tree near whose terrace the Brahman youth is born
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: clasped hands
+  literal_form: gesture used while rehearsing the discourse by night and by day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Buddha’s mantra / Abhidhamma passage
+  literal_form: a passage from the Abhidhamma that the Brahman cannot understand and
+    asks to learn
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Learned Brahman near the Bo-tree and in the vihara
+  summary: The passage introduces a Brahman youth born near the great Bo-tree in Magadha,
+    accomplished in learning, active as a disputant and wanderer, and reciting a discourse
+    with clasped hands in a vihara.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Revata’s encounter and refutation
+  summary: Mahathera Revata encounters the Brahman, decides he is worth converting,
+    challenges him verbally, listens to his display of knowledge, and refutes his
+    propositions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Abhidhamma passage and conversion
+  summary: Revata presents an Abhidhamma passage described as Buddha’s mantra. The
+    Brahman cannot understand it, requests instruction, is told to enter the order,
+    and converts after concluding that this is the sole road.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Bestowal of the name Buddhaghosa
+  summary: The converted Brahman receives the appellation Buddhaghosa because his
+    eloquence is said to be as profound as Buddha’s.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wisdom contest leading to conversion
+  taxonomy_refs:
+  - wisdom
+  basis: A learned Brahman displays his knowledge, is refuted by Revata, fails to
+    understand a Buddhist doctrinal passage, and then seeks instruction and conversion.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage frames the encounter as debate and doctrinal instruction,
+    not as a supernatural contest.
+- id: motif:2
+  label: initiation into an order as condition for hidden doctrine
+  taxonomy_refs:
+  - initiation
+  basis: When the Brahman asks to learn Buddha’s mantra, Revata tells him to enter
+    the sacerdotal order; the Brahman converts in order to acquire the Piṭakattaya.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not describe ritual details of ordination, only the requirement
+    to enter the order.
+- id: motif:3
+  label: name bestowed from defining attribute
+  taxonomy_refs: []
+  basis: The appellation Buddhaghosa is conferred because the figure’s eloquence is
+    described as profound like Buddha’s.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is an etiological naming pattern within the passage rather than a
+    taxonomy-linked mythic motif.
+- id: motif:4
+  label: sacred tree-associated origin setting
+  taxonomy_refs: []
+  basis: The Brahman youth’s birth is located near the terrace of the great Bo-tree
+    in Magadha.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage gives the location but does not develop the tree as an axis,
+    object of worship, or agent in the story.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 916-922
+  quote_or_summary: The editor says he is reprinting the story as found in the Mahavamsa,
+    acknowledging legendary ingredients while asserting a foundation of historical
+    fact.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summary generated for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 923-928
+  quote_or_summary: A Brahman youth is born near the terrace of the great Bo-tree
+    in Magadha and is described as accomplished in knowledge, art, the three Vedas,
+    and other acquirements.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summary generated for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 928-933
+  quote_or_summary: The youth is an indefatigable schismatic disputant and wanderer
+    over Gambudipa, establishes himself as a disputant in a vihara, and rehearses
+    a discourse by night and day with clasped hands.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summary generated for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 933-939
+  quote_or_summary: Mahathera Revata becomes acquainted with him, thinks him profoundly
+    knowledgeable and worth converting, and begins an exchange by asking who is braying
+    like an ass.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summary generated for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 939-943
+  quote_or_summary: The Brahman displays the extent of his knowledge, and Revata criticizes
+    each proposition and points out its fallacies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summary generated for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 943-949
+  quote_or_summary: After being refuted, the Brahman asks Revata to state his own
+    creed; Revata propounds an Abhidhamma passage, which the Brahman cannot understand,
+    and identifies it as Buddha’s mantra.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summary generated for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 949-954
+  quote_or_summary: The Brahman asks that the mantra be imparted; Revata tells him
+    to enter the sacerdotal order, and the Brahman, desiring the Piṭakattaya, becomes
+    convinced that this is the sole road and converts.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summary generated for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 954-956
+  quote_or_summary: Because the convert’s eloquence is said to be as profound as Buddha’s,
+    the appellation Buddhaghosa is conferred on him.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summary generated for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for figures, actions, and sequence. Motif candidates
+    are limited to patterns directly visible in the passage. No comparison claims
+    are made because the passage does not itself support a motif comparison beyond
+    source attribution to the Mahavamsa.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Pali/Sanskrit terms are retained as they appear or as represented in the passage metadata where necessary.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-sutta-nipata-sbe10-fausboll-archive__l916-l958
+  passage_sha256=33c776ebade611cdf02c64187acd481b2e65d4a5d24d282d4634317465e5b1f3
+

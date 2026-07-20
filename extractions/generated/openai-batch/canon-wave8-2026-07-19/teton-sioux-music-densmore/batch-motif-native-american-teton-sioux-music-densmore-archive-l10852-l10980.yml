@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l10852-l10980
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: HAIR  ORNAMENT  OF  BUFFALO  HIDE  W / TETON  SIOUX  MTJBIO / BUBEAU  OF  AMEBICAN   ETHNOLOGY
+    / ARTICLES  USED  IN  SUN; lines 10852-10980
+  start: '10852'
+  end: '10980'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives musical analysis and song texts for several Teton Sioux
+    songs associated with dancing, including songs in which Wakaŋ Tanka hears prayer
+    and grants good things or black face-paint. It also introduces a song said to
+    commemorate victory over an enemy.
+  language: English with Lakota song words and glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes songs used during hours of dancing as especially rhythmic,
+    and notes that some were not exclusive to the Sun dance but were songs of War
+    societies.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Song No. 26 is titled “Wakantanka Hears Me” and is identified as sung by Lone
+    Man.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The words glossed for Song No. 26 state that when the singer prays to Wakaŋ
+    Tanka, he has heard the singer and grants whatever is good.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The analysis of Song No. 26 describes it as minor in tonality and notes features
+    including omitted tones, prominent fourth intervals, and two unrelated rhythmic
+    units.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Song No. 27 is titled “Black Face-paint He Grants Me” and is identified as
+    sung by Red Bird.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The words glossed for Song No. 27 state that when the singer prays to Wakaŋ
+    Tanka, black face-paint is granted to the singer.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The analysis of Song No. 27 describes it as major in tonality while noting
+    that minor thirds make up more than half of its intervals.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage introduces a following song as commemorating victory over an enemy
+    and gives the title “I Have Conquered Them.”
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Wakaŋ Tanka / Wakantanka
+  description: Named sacred addressee in the song words; he hears prayer and grants
+    good things or black face-paint.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Praying song speaker
+  description: First-person speaker in the glossed song words who prays to Wakaŋ Tanka
+    and receives what is granted.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Lone Man
+  description: Named singer of Song No. 26 and of the introduced victory song.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: Red Bird
+  description: Named singer of Song No. 27.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Enemy
+  description: Collective opponent referred to in the statement that a following song
+    commemorates victory over the enemy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: prayer-hearing granter
+  assigned_to:
+  - fig:1
+  basis: The song glosses say Wakaŋ Tanka hears prayer and grants good things or black
+    face-paint.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: petitioner and recipient
+  assigned_to:
+  - fig:2
+  basis: The first-person speaker prays and receives what Wakaŋ Tanka grants.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: song performer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage identifies Lone Man and Red Bird as singers of specific songs.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:4
+  label: defeated opponent
+  assigned_to:
+  - fig:5
+  basis: The introduced song is said to commemorate victory over the enemy.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: prayer to Wakaŋ Tanka
+  literal_form: The song words gloss an act of praying to Wakaŋ Tanka.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: black face-paint
+  literal_form: Black face-paint granted to the speaker in Song No. 27.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: good things granted
+  literal_form: The glossed phrase says that whatever is good is granted to the speaker.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Dance-song context
+  summary: The passage frames the examples as songs for hours of dancing, with some
+    also belonging to War societies rather than exclusively to the Sun dance.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wakaŋ Tanka hears prayer
+  summary: In Song No. 26, the speaker prays to Wakaŋ Tanka, who hears the speaker
+    and grants what is good.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Black face-paint granted
+  summary: In Song No. 27, the speaker prays to Wakaŋ Tanka and receives black face-paint.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Victory song introduced
+  summary: The passage introduces a song titled “I Have Conquered Them” as commemorating
+    victory over an enemy.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Prayer heard and benefit granted by a sacred being
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Two song glosses link prayer to Wakaŋ Tanka with the granting of good things
+    or black face-paint.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage gives short song glosses only; it does not describe an offering,
+    reciprocal obligation, or full ritual sequence.
+- id: motif:2
+  label: Ceremonial face-paint as granted benefit
+  taxonomy_refs: []
+  basis: Song No. 27 specifically names black face-paint as something granted after
+    prayer to Wakaŋ Tanka.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage points to another page for explanation of black face-paint,
+    so its ceremonial meaning is not explained in this excerpt.
+- id: motif:3
+  label: Song commemorating victory over an enemy
+  taxonomy_refs: []
+  basis: The passage says the following song commemorates a victory over the enemy
+    and gives the title “I Have Conquered Them.”
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: Only the introduction and title of the victory song are present in this
+    passage segment; details of the event or song text are not included.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10870-10878
+  quote_or_summary: The passage states that the songs of the hours of dancing are
+    especially rhythmic and that some examples were not used exclusively in the Sun
+    dance but were songs of War societies.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 10879-10906
+  quote_or_summary: Song No. 26, “Wakantanka Hears Me,” is sung by Lone Man; the glossed
+    words say that when the speaker prays to Wakaŋ Tanka, he has heard the speaker
+    and grants whatever is good.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 10907-10923
+  quote_or_summary: The analysis of Song No. 26 discusses its minor character, omitted
+    tones, related Chippewa tonal material, prominent fourth intervals, and two rhythmic
+    units.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 10924-10948
+  quote_or_summary: Song No. 27, “Black Face-paint He Grants Me,” is sung by Red Bird;
+    the glossed words say that when the speaker prays to Wakaŋ Tanka, black face-paint
+    is granted.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 10949-10972
+  quote_or_summary: The analysis of Song No. 27 describes major tonality, frequent
+    minor thirds, the octave tones present except the seventh, and a descent accomplished
+    within a short span.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 10973-10980
+  quote_or_summary: The passage states that the following song commemorates a victory
+    over the enemy and introduces “I Have Conquered Them,” sung by Lone Man.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is partly affected by OCR noise and is primarily musical analysis
+    rather than narrative myth. Motif candidates are based on short translated song
+    glosses and should be reviewed by a human specialist.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs were applied because the passage does not mention cave, fire, milk, mountain, serpent, tree, or water. Comparison claims were left empty because the explicit comparisons in the passage are musical/tonal rather than motif-historical.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l10852-l10980
+  passage_sha256=afa79c38bbdfbc039f24333b0434670902901d7b72e0c7da05cafc87e8023e96
+

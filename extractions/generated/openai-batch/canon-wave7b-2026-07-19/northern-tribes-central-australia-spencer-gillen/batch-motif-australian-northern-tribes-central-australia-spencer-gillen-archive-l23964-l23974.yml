@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l23964-l23974
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: XV THE MAKING AND POWER OF MEDICINE MEN 483 / XV THE MAKING AND POWER OF
+    MEDICINE MEN 485 / XV THE MAKING AND POWER OF MEDICINE MEN 487 / XV THE MAKING
+    AND POWER OF MEDICINE MEN 489; lines 23964-23974
+  start: '23964'
+  end: '23974'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a male ritual specialist as more like a wizard or
+    sorcerer than a doctor, because his power is said to involve giving “bones” rather
+    than removing evil magic. It also notes that special incantations are sung to
+    expel or prevent evil magic, and that in serious cases a medicine man from a friendly
+    neighbouring tribe may be called; Kurkutji, a Binbinga man, is often requested
+    by the Anula.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ritual specialist is described as a wizard or sorcerer rather than a doctor.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: His powers are described as consisting in the giving of “bones,” not in withdrawing
+    evil magic.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Special incantations are sung to oust evil magic and to prevent it from entering
+    people.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In serious cases, people call on a medicine man from a neighbouring and friendly
+    tribe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Kurkutji, identified as a Binbinga man, is frequently requested among the
+    Anula.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed ritual specialist
+  description: A male specialist characterized as a wizard or sorcerer whose power
+    involves giving “bones.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: medicine man from a neighbouring friendly tribe
+  description: A medicine man called in for assistance in serious cases.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Kurkutji
+  description: A Binbinga man frequently requested among the Anula.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Anula
+  description: A group living in a part adjoining Kurkutji’s country and among whom
+    Kurkutji is frequently requested.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: wizard or sorcerer
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says the specialist is strictly speaking a wizard
+    or sorcerer rather than a doctor.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: medicine man called for assistance
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says a medicine man from a neighbouring friendly tribe may be
+    called in serious cases, and gives Kurkutji as an example.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: requesting neighbouring group
+  assigned_to:
+  - fig:4
+  basis: The Anula are described as frequently requesting Kurkutji’s assistance.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bones
+  literal_form: "“bones” given by the sorcerer"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: incantations
+  literal_form: special incantations sung against evil magic
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: evil magic
+  literal_form: evil magic that may be ousted or prevented from entering people
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sorcerer’s power of giving bones
+  summary: The passage distinguishes a sorcerer-like specialist from a doctor by saying
+    that his power lies in giving “bones” rather than withdrawing evil magic.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Incantations against evil magic
+  summary: Special incantations are sung both to expel evil magic and to prevent it
+    from entering people.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Calling a neighbouring medicine man
+  summary: In serious cases, assistance may be sought from a medicine man of a friendly
+    neighbouring tribe; Kurkutji the Binbinga man is often requested by the Anula.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sorcerer’s harmful power through bones
+  taxonomy_refs: []
+  basis: The passage identifies the specialist as a wizard or sorcerer and says his
+    power consists in giving “bones.”
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not narrate a full mythic episode or explain how the
+    bones operate.
+- id: motif:2
+  label: Protective and expulsive incantations against evil magic
+  taxonomy_refs: []
+  basis: The passage states that special incantations are sung to oust evil magic
+    and to prevent it from entering people.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The words, ritual setting, and performers of the incantations are not
+    specified.
+- id: motif:3
+  label: Cross-tribal ritual assistance in serious cases
+  taxonomy_refs: []
+  basis: The passage describes calling a medicine man from a neighbouring friendly
+    tribe, with Kurkutji as an example requested by the Anula.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage provides an ethnographic social pattern rather than a mythic
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23964-23968
+  quote_or_summary: "“he is a wizard or sorcerer rather than a doctor,” and his powers
+    consist in giving “bones,” not withdrawing evil magic."
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 23968-23971
+  quote_or_summary: The passage says natives have special incantations sung to oust
+    evil magic and prevent it from entering them.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 23971-23972
+  quote_or_summary: In serious cases, assistance is sought from a medicine man of
+    a neighbouring and friendly tribe.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 23972-23974
+  quote_or_summary: Kurkutji, a Binbinga man, is frequently requested among the Anula,
+    who live adjoining his country.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and clear for literal extraction. Motif labels are descriptive
+    and not mapped to supplied taxonomy families. No comparison claims were added
+    because the passage does not itself support a broader comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy symbol or motif reference was applied; “bones,” incantations, and evil magic are passage-specific symbolic elements.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l23964-l23974
+  passage_sha256=99535dffcd67189e9519231a77e80d28db9a902b7d90c59476d59d0b9adf1ee3
+

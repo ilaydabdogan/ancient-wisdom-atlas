@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.buddhist-mahayana-texts-sbe49-cowell-archive-l4698-l4719
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+passage_locator:
+  label: 'BOOK IX, 27-38. 97 / BOOK IX, 39-52: 99 / BOOK IX, 53-64. 101 / BOOK IX,
+    65-72. 103; lines 4698-4719'
+  start: '4698'
+  end: '4719'
+  translation: Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Attendants or followers return sorrowfully to the city after parting from
+    the prince. Out of love for the prince and devotion to the king, they repeatedly
+    look back toward him. They place disguised emissaries to watch his actions and
+    worry about approaching the king, who longs for his son.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A group slowly returns to the city while overcome with sorrow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group returns because of love for the prince and devotion to the king.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The group repeatedly stops and looks back toward the prince.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prince is described as shining in his own splendour and compared to the
+    sun.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The group places faithful emissaries in disguise to learn the prince's actions.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The king is described as longing for his dear son.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The group speaks to one another about how they will approach and see the king.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the prince
+  description: A prince from whom the returning group separates; he is described as
+    shining in his own splendour and as the supreme refuge of all.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the king
+  description: The king to whom the group is devoted; he longs for his dear son.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: returning group
+  description: A group who returns to the city sorrowfully, looks back toward the
+    prince, and worries about approaching the king.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: faithful emissaries in disguise
+  description: Emissaries placed in disguise to find out the actions of the prince.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: departing or separated prince
+  assigned_to:
+  - fig:1
+  basis: The returning group cannot remain with him and looks back toward him on the
+    road.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: supreme refuge
+  assigned_to:
+  - fig:1
+  basis: The passage calls him the supreme refuge of all.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: king
+  assigned_to:
+  - fig:2
+  basis: The passage identifies a king who is the object of the group's devotion.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: longing father
+  assigned_to:
+  - fig:2
+  basis: The passage says the king is longing for his dear son.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: sorrowful returners
+  assigned_to:
+  - fig:3
+  basis: They return to the city sorrowfully, repeatedly look back, and speak anxiously
+    about approaching the king.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:6
+  label: disguised watchers
+  assigned_to:
+  - fig:4
+  basis: They are placed in disguise to find out the prince's actions.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sun-like splendour
+  literal_form: comparison of the prince to the sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: city
+  literal_form: the city to which the sorrowful group returns
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: disguise
+  literal_form: disguises used by faithful emissaries
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sorrowful return to the city
+  summary: The group, sorrowful and compelled to return, goes back toward the city
+    after parting from the prince.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Looking back toward the radiant prince
+  summary: The group repeatedly stops and looks back, unable either to see the prince
+    clearly on the road or to lose the image of him, who is compared to the sun.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Disguised emissaries and anxiety before the king
+  summary: The group places disguised emissaries to observe the prince and continues
+    with faltering steps, wondering how to approach the king who longs for his son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sorrowful departure from royal household
+  taxonomy_refs:
+  - departure
+  basis: The passage centers on separation from the prince, the group's reluctant
+    return to the city, and repeated backward looks toward him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt gives only the aftermath of departure, not the initiating
+    departure scene.
+- id: motif:2
+  label: royal father longing for absent son
+  taxonomy_refs: []
+  basis: The king is explicitly described as longing for his dear son while the group
+    fears approaching him.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states the relationship and emotion but does not give the
+    king's direct speech or actions.
+- id: motif:3
+  label: hidden watchers tracking a revered figure
+  taxonomy_refs: []
+  basis: Faithful emissaries are placed in disguise to learn the actions of the prince,
+    who is called the supreme refuge of all.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe what the emissaries observe or whether the
+    disguise succeeds.
+- id: motif:4
+  label: radiant exceptional figure compared to the sun
+  taxonomy_refs: []
+  basis: The prince is described as shining in his own splendour and beyond others'
+    reach, like the sun.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The comparison is a poetic simile in this passage; no cosmological function
+    is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4698-4701
+  quote_or_summary: '"overcome with sorrow, slowly returned of necessity to the city"'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 4702-4709, verse 71
+  quote_or_summary: Through love for the prince and devotion to the king, the group
+    returns, often looking back; the prince is described as shining in his own splendour,
+    like the sun.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4710-4718, verse 72
+  quote_or_summary: The group places faithful emissaries in disguise to learn the
+    actions of the one called the supreme refuge of all, then wonders how to approach
+    the king who longs for his dear son.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: note
+  locator: line 4719
+  quote_or_summary: 'A note reports another reading: "full of reproach."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and appears to be an excerpt from a larger narrative.
+    Literal roles and actions are clear, while broader motif labels depend on surrounding
+    context and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support a specific cross-textual comparison beyond local motif candidates.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-mahayana-texts-sbe49-cowell-archive__l4698-l4719
+  passage_sha256=8a8d2533341af8eb32e24cb75c6343481ed244640e0a155ed6cf99480c639b28
+

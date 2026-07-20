@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l7983-l8023
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: THE   BEGINNING   OF   DEATH  155 / THE    BEGINNING    OF    DEATH  157
+    / THE   BEGINNING    OF    DEATH  159 / APPENDIX; lines 7983-8023
+  start: '7983'
+  end: '8023'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An appendix note describes how Fijian bark cloth called gatu is made from
+    Malo or Masi bark, beaten and painted, with the work of beating performed by women.
+    A second note defines Thakau Lala, an empty outlying reef with fish, and begins
+    a narrative fragment about two men from Mothe blown from their land while fishing
+    in a paddle-canoe and drifting to the reef.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Large native cloth is called gatu and is made by pasting many small pieces
+    together.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cloth is made from the bark of a tree called Malo or Masi; the bark is
+    dried, soaked in water, and beaten on a heavy rounded plank with a small square
+    mallet with grooved and ridged faces.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The work is called samu-samu, is always done by women, and the given meaning
+    of the word is “a continued smiting.”
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gatus are often painted in intricate patterns and sometimes in multiple colours,
+    using a carved relief block under stretched cloth; inferior kinds are painted
+    by hand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator states that some colours are brilliant and believes they are
+    extracted from vegetable productions.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Thakau Lala is defined as the “Empty reef,” an outlying reef with no land
+    inside, abundant fish, and a circular area where people may spend one or two nights
+    in fine weather.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Two men from Mothe drifted to the empty reef after being blown away from their
+    land while fishing in a paddle-canoe by a sudden blast that became an angry gale.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: women who do samu-samu
+  description: Women are said always to perform the bark-cloth beating work called
+    samu-samu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: natives who sail to empty reefs
+  description: People sail to the empty reefs in fine weather and may spend a night
+    or two within their circle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: two men from Mothe
+  description: Two wretched men from Mothe were blown away while fishing in a paddle-canoe
+    and drifted to the reef.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: bark-cloth workers
+  assigned_to:
+  - fig:1
+  basis: The passage says the work called samu-samu is always done by women.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: reef visitors
+  assigned_to:
+  - fig:2
+  basis: The passage says natives sail to empty reefs in fine weather and may stay
+    within their circle.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: displaced fishermen or drifters
+  assigned_to:
+  - fig:3
+  basis: The two men are described as fishing in a paddle-canoe when a blast and gale
+    blew them away and made them drift to the reef.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: gatu
+  literal_form: large native cloth made by pasting small pieces together
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Malo or Masi bark tree
+  literal_form: tree bark used to make cloth
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: water used in soaking bark
+  literal_form: water in which the dried bark is soaked before beating
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: beating tools
+  literal_form: large rounded plank and small square grooved mallet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: painted patterns and vegetable colours
+  literal_form: intricate painted designs and colours extracted from vegetable productions
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: Thakau Lala, the empty reef
+  literal_form: outlying coral reef with no land inside and abundant fish
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: paddle-canoe
+  literal_form: canoe in which the two men were fishing when blown away
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: sudden blast and angry gale
+  literal_form: wind that blows the fishermen from their land and drives them to the
+    reef
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Bark-cloth manufacture and decoration
+  summary: The passage describes making gatu from Malo or Masi bark by drying, soaking,
+    and beating it, identifies samu-samu as women’s work, and describes painting the
+    cloth with carved blocks or by hand using vegetable colours.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Empty reef and sea drift
+  summary: The passage defines Thakau Lala as an empty reef where people sail in fine
+    weather, then begins a narrative fragment in which two men from Mothe are blown
+    from their land while fishing and drift to the reef.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Bark-cloth manufacture and patterned decoration
+  taxonomy_refs: []
+  basis: The passage gives a step-by-step account of producing gatu from tree bark,
+    beating it with tools, and decorating it with patterns and vegetable colours.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic appendix note rather than a mythic narrative episode.
+- id: motif:2
+  label: Accidental sea departure by storm drift
+  taxonomy_refs:
+  - departure
+  basis: The two men are separated from their own land while fishing in a paddle-canoe
+    and drift to an outlying reef after a blast becomes a gale.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The narrative is truncated in the supplied passage, so subsequent function
+    or outcome of the drift is not available.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7983-7991
+  quote_or_summary: Native cloth called gatu is made in large pieces by pasting smaller
+    pieces; it is made from Malo or Masi bark, dried, soaked in water, and beaten
+    on a rounded plank with a grooved and ridged mallet.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 7993-7995
+  quote_or_summary: "“This work is called samu-samu, and is always done by the women.
+    The meaning of the word is ‘a continued smiting.’”"
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 7997-8005
+  quote_or_summary: Gatus are often painted in intricate patterns, sometimes with
+    various colours; a design may be carved in relief on a wooden block and rubbed
+    through stretched cloth, while inferior kinds are painted by hand.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8007-8011
+  quote_or_summary: Some colours are described as brilliant, and the narrator believes
+    all are extracted from vegetable productions and notes possible dye value in local
+    shrubs.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8013-8019
+  quote_or_summary: Thakau Lala, the “Empty reef,” is defined as an outlying reef
+    with no land inside; such reefs have many fish, and people sail to them in fine
+    weather, sometimes staying one or two nights within their circle.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 8021-8023
+  quote_or_summary: Two men from Mothe drifted to the reef after being blown away
+    from their own land while fishing in a paddle-canoe by a sudden blast that became
+    an angry gale; the supplied passage breaks off mid-sentence.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied appendix passage. The cloth section
+    is ethnographic rather than narrative; the empty-reef narrative fragment is incomplete.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-text or historical comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l7983-l8023
+  passage_sha256=1db96afef6976b5cfd3183771378389aae97c624f5549c677678b7a4e04f3a18
+

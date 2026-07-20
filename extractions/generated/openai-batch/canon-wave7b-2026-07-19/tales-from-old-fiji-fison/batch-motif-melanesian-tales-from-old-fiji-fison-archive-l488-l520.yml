@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l488-l520
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: THE  BEGINNING  OF  DEATH 139 / APPENDIX .     162 / INDEX .        .        .171
+    / LIST    OF    ILLUSTRATIONS; lines 488-520
+  start: '488'
+  end: '520'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Front-matter entries name Tongan accounts, including one titled “The Beginning
+    of Death,” followed by appendix/index entries and a list of illustrations including
+    a Samoan dancing costume image, a Fijian club dance, and a widow-strangling scene.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes a title for a Tongan account about Napoleon and attributes
+    it to an unnamed Tongan teller.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage includes the title “The Beginning of Death” and attributes it
+    to a named or printed chief of Tonga.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists Appendix and Index entries and then begins a list of illustrations.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The list of illustrations includes a Samoan girl dressed for dancing, with
+    a photograph attribution to Rev. Dr. Brown.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The list of illustrations includes a Fijian club dance, with a photograph
+    attribution to Rev. Dr. Brown.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The list of illustrations includes a widow-strangling scene from “Kings of
+    the Reefs.”
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed Tongan teller
+  description: Identified only as “a Tongan” in the attribution for the Napoleon account.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: M.a'kfv, a Chief of Tonga
+  description: Printed as the teller or source for “The Beginning of Death.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Rev. Dr. Brown
+  description: Credited as photographer for illustration captions in the list.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Samoan girl dressed for dancing
+  description: An illustrated subject named in the list of illustrations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Napoleon
+  description: Named as the subject of a Tongan account title.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: widow in widow-strangling scene
+  description: A widow is named in the caption “Widow-strangling scene”; no individual
+    details are provided.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: teller or attributed source
+  assigned_to:
+  - fig:1
+  basis: The entry says the account is “As told by a Tongan.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: chief and attributed teller
+  assigned_to:
+  - fig:2
+  basis: The entry attributes “The Beginning of Death” to a chief of Tonga.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: photographer
+  assigned_to:
+  - fig:3
+  basis: The illustration captions state that photographs are by Rev. Dr. Brown.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: illustrated subject
+  assigned_to:
+  - fig:4
+  basis: The caption names a Samoan girl dressed for dancing.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: topic of account title
+  assigned_to:
+  - fig:5
+  basis: The title asks what Tongans say about Napoleon.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: widow named in captioned scene
+  assigned_to:
+  - fig:6
+  basis: The caption names a “Widow-strangling scene.”
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Fijian club dance illustration
+  summary: An illustration caption lists a Fijian club dance; the passage provides
+    no narrative context for the dance.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:2
+  label: Widow-strangling illustration
+  summary: An illustration caption lists a widow-strangling scene from “Kings of the
+    Reefs”; the passage provides no narrative context beyond the caption.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: origin or beginning of death
+  taxonomy_refs: []
+  basis: The title “The Beginning of Death” indicates a tale or account concerning
+    the beginning of death, but no plot details appear in this passage.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: Based only on a table-of-contents title and attribution; the passage does
+    not include the narrative itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 488-490
+  quote_or_summary: A table-of-contents entry names “What the Tongans Say About Napoleon”
+    and attributes it to a Tongan teller.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 492-494
+  quote_or_summary: A table-of-contents entry names “The Beginning of Death” and attributes
+    it to “M.a'kfv, a Chief of Tonga.”
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 496-502
+  quote_or_summary: The passage lists Appendix and Index entries and then the heading
+    “List of Illustrations.”
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 504-505
+  quote_or_summary: The list names “Samoan Girl Dressed for Dancing” and credits a
+    photograph by Rev. Dr. Brown.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 507-511
+  quote_or_summary: The list names “Fijian Club Dance” and credits a photograph by
+    Rev. Dr. Brown.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 513-520
+  quote_or_summary: The list names a “Widow-strangling Scene” and says it is from
+    “Kings of the Reefs.”
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is front matter rather than a narrative passage. Literal extraction
+    is straightforward, but motif identification is limited to a title-level candidate.
+    No comparison claims are supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol references are directly supported by this passage. The title-level death motif is retained cautiously without assigning a taxonomy reference.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l488-l520
+  passage_sha256=282eaee21b4a4f73eb941efaa7b8fc5c8d2672f00396f689f24d90e058cd62fd
+

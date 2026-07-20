@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l627-l660
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: ANONYMOUS / VAHAGN, KING OF ARMENIA / MOSES OF KHORENE / HUNTSMAN, THAT ON
+    THE HILLS ABOVE; lines 627-660
+  start: '627'
+  end: '660'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A maiden asks a huntsman whether he has seen her lover, whom she likens
+    to a wild deer. The huntsman reports that he saw the lover in the hills, adorned
+    in red and green, with a rose tree growing on his breast where her kiss had been.
+    When she asks who tends him as bride, the huntsman says the lover lies with his
+    head on a stone and a bullet in his heart, while the mountain breeze moves his
+    hair and blossoms weep over him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A maiden addresses a huntsman who has been hunting deer on the hills and asks
+    whether he has seen her love, whom she calls her wild deer.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The maiden says the lover went to the hills to quiet his grief and wandered
+    on the fell.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The huntsman says he saw the maiden's true lover clothed or adorned in red
+    and green.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The huntsman says a rose tree grew upon the lover's breast where the maiden's
+    kiss had been.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The maiden asks who is the bride of her beloved and who watches by his side.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The huntsman says the lover lay with his head resting on a stone and with
+    a red bullet pressed into his heart.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The mountain breeze played with the lover's jet-black hair, and blossoms wept
+    over him.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Maiden
+  description: The speaker who questions the huntsman about her beloved and calls
+    him her love, sun, flower, and only one.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Huntsman
+  description: The addressed hunter on the hills who answers the maiden and reports
+    seeing her lover.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Lover
+  description: The maiden's beloved, described as having gone to the hills in grief,
+    seen by the huntsman, and later described lying with a bullet in his heart.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: questioning beloved
+  assigned_to:
+  - fig:1
+  basis: The maiden asks the huntsman whether he has seen her love and later asks
+    who tends him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: witness messenger
+  assigned_to:
+  - fig:2
+  basis: The huntsman answers the maiden by reporting what he saw in the hills.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: beloved
+  assigned_to:
+  - fig:3
+  basis: The maiden repeatedly calls him her love, sun, flower, and only one.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:4
+  label: dead or mortally wounded lover
+  assigned_to:
+  - fig:3
+  basis: The huntsman describes him lying with his head on a stone and a bullet in
+    his heart.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hills
+  literal_form: hills above; fell
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wild deer
+  literal_form: wild deer as the maiden's name for her love
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rose tree
+  literal_form: rose tree growing on the lover's breast
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: stone pillow
+  literal_form: stone under the lover's head
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: bullet in the heart
+  literal_form: red bullet pressed into the lover's heart
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: mountain breeze
+  literal_form: mountain breeze playing with the lover's hair
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: weeping blossoms
+  literal_form: blossoms weeping over the lover
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Maiden questions huntsman
+  summary: The maiden asks the huntsman returning from the hills whether he has seen
+    her lover, whom she compares to a wild deer, and says the lover went into the
+    hills in grief.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Huntsman's first report
+  summary: The huntsman says he saw the lover in red and green, with a rose tree growing
+    on his breast where the maiden's kiss had been.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Revelation of the lover's death
+  summary: After the maiden asks who tends her beloved, the huntsman describes him
+    lying with his head on a stone and a bullet in his heart, while breeze and blossoms
+    attend him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: beloved sought in the hills
+  taxonomy_refs: []
+  basis: The maiden asks a huntsman whether he has seen her lover in the hills and
+    describes the lover as having gone there in grief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level lyric pattern rather than a named taxonomy motif
+    in the supplied list.
+- id: motif:2
+  label: plant growing from the dead beloved
+  taxonomy_refs:
+  - death_rebirth
+  basis: The lover is later described with a bullet in his heart, and the huntsman
+    also reports a rose tree growing on his breast where the maiden's kiss had been.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state rebirth or transformation; the taxonomy
+    link is based only on the juxtaposition of death and vegetal growth.
+- id: motif:3
+  label: nature mourning the dead lover
+  taxonomy_refs: []
+  basis: The mountain breeze plays with the lover's hair and blossoms are said to
+    weep over him.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The mourning is expressed through poetic personification rather than narrative
+    action.
+- id: motif:4
+  label: mistaken bride or death as attendant
+  taxonomy_refs: []
+  basis: The maiden asks who is the bride of her beloved and who watches by his side,
+    after which the huntsman answers with images of his death and natural surroundings.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage never names death, the stone, breeze, or blossoms as the bride;
+    this remains an inferred lyric pattern from the question-and-answer sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 627-637
+  quote_or_summary: 'The maiden asks: “Huntsman, that on the hills above / To hunt
+    the deer hast been,” and asks if he has seen “My wild deer.”'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 638-642
+  quote_or_summary: The maiden says her lover went to the hills to quiet his grief
+    and wandered on the fell; she calls him her darling, sun, flower, and only one.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 643-648
+  quote_or_summary: The huntsman says he saw the lover “All girt with red and green”
+    and that “Upon his breast a rose tree grew / Where once your kiss had been.”
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 649-654
+  quote_or_summary: The maiden asks who is the bride of her beloved and who tends
+    him while watching by his side.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 655-660
+  quote_or_summary: The huntsman says he saw him “with his head / Upon a stone at
+    rest” and with “a bullet red / Into his heart.”
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 661-664
+  quote_or_summary: The poem says the mountain breeze played with the lover's jet-black
+    hair and blossoms wept over him.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Figures and literal events are clear in the passage. Motif labels involving
+    death and vegetal growth are candidate interpretations and need review; no external
+    comparison is made because the passage itself gives no comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The provided locator states lines 627-660, but the supplied passage text includes the closing stanza after the bullet image; evidence locators follow the supplied passage sequence and may need canonical line verification.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l627-l660
+  passage_sha256=21e7c8a353bbc93a03dff848c33fd716db5f23755c03499ac74ec7e5c399bc58
+

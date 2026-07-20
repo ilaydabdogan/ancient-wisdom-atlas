@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l9919-l10053
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: COEPUS HEKMETICUM XIII. (XIV.) / VOL. II. 15 / THE SECRET SEEMON ON THE MOUNTAIN
+    233 / COMMENTAKY; lines 9919-10053
+  start: '9919'
+  end: '10053'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: For the “Mountain” was symbolic of stages of inner development
+  summary: The commentary explains the title “The Secret Sermon on the Mountain,”
+    interprets the mountain as a symbolic ascent of inner development, defines “secret”
+    as hidden or esoteric, compares sacred logoi to other collections of wisdom sayings,
+    and describes Tat’s probationary stages as Hermes leads him toward the mountain’s
+    top.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The commentary states that the main title is “The Secret Sermon on the Mountain”
+    and defends the mountain wording as appropriate to the teaching.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mountain is described as symbolic of stages of inner development and as
+    an ascent or stair of steps.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The term translated “Secret” is explained as meaning hidden away, esoteric,
+    or not put into circulation.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Logoi or logia are described as words of wisdom, sacred legacies, oracular
+    utterances, and sacred deposits or testaments.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says that such collections of sayings and their commentaries were
+    kept secret or withdrawn from public perusal.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Tat is said to refer to three stages of probation before he is fit to hear
+    the Sermon on Rebirth.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The first stage is preliminary instruction in the General Sermons.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: In the next stage Tat becomes the suppliant of Hermes and is allowed to ask
+    questions in dialogue.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Hermes is described as gradually leading Tat to the top of the mountain, which
+    represents the highest point of unaided mental faculty.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Tat
+  description: A pupil or recipient who undergoes probation, becomes Hermes’ suppliant,
+    asks questions, and is led toward the mountain’s top.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Hermes
+  description: The guide or teacher who gradually leads Tat to the top of the mountain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: sages
+  description: A collective source of sacred legacies described as words of wisdom
+    handed to humanity.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: probationary disciple and suppliant
+  assigned_to:
+  - fig:1
+  basis: Tat undergoes stages of probation, becomes Hermes’ suppliant, and asks questions
+    before receiving the rebirth teaching.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:2
+  label: teacher-guide of ascent
+  assigned_to:
+  - fig:2
+  basis: Hermes is said to lead Tat gradually to the top of the mountain.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: transmitters of sacred wisdom
+  assigned_to:
+  - fig:3
+  basis: The sayings are called words of wisdom and sacred legacies of sages to humanity.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: symbolic mountain ascent
+  literal_form: mountain, top of the mountain, ascent or stair of steps
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: sym:2
+  label: secret sermon or logos
+  literal_form: hidden sermon, logos, or sacred utterance
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: sacred deposit of sayings
+  literal_form: collections of logoi, deposits, testaments, withdrawn volumes
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Title and symbolic mountain
+  summary: The commentary defends the title’s reference to a mountain and explains
+    the mountain as a symbolic series of inner developmental steps.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hidden sacred utterances
+  summary: The commentary defines “secret” as hidden or esoteric and describes logoi
+    as sacred wisdom sayings preserved in guarded collections.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Tat’s probationary ascent
+  summary: Tat passes through stages of instruction, becomes Hermes’ suppliant, asks
+    questions, and is led by Hermes toward the top of the mountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: probation before esoteric instruction
+  taxonomy_refs:
+  - initiation
+  basis: Tat must pass through stages of probation before being fit to hear the Sermon
+    on Rebirth.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is commentary on the sermon rather than the sermon’s primary
+    narrative dialogue.
+- id: motif:2
+  label: ascent of the inner mountain
+  taxonomy_refs:
+  - ascent
+  basis: The mountain is explicitly interpreted as stages of inner development, with
+    Hermes leading Tat toward the top.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+  confidence: high
+  cautions: The ascent is presented as symbolic and intellectual, not as a literal
+    geographic journey.
+- id: motif:3
+  label: hidden sacred wisdom sayings
+  taxonomy_refs:
+  - wisdom
+  basis: The passage defines the sermon as secret or esoteric and describes logoi
+    as words of wisdom, sacred legacies, and guarded deposits.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage emphasizes secrecy and preservation; it does not describe
+    a theft or violation of the restricted knowledge.
+- id: motif:4
+  label: restricted or non-public knowledge
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Sacred sayings and related writings are described as hidden, secret, withdrawn
+    from public perusal, and not in general circulation.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: "“Forbidden” is only a taxonomy approximation; the passage states secrecy
+    and restriction, not an explicit prohibition narrative."
+comparison_claims:
+- id: claim:1
+  claim: The commentary compares the Hermetic logos to Sanskrit mahā-vākyam as a great
+    mystical utterance or sacred saying.
+  claim_level: same_function
+  target: Sanskrit mahā-vākyam and Upanishadic sayings
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an analogy supplied by the commentator; the passage does not
+    assert direct historical contact.
+- id: claim:2
+  claim: The commentary presents Hermetic-style collections of logoi as functionally
+    comparable to Orphic and Pythagorean collections called sacred utterances.
+  claim_level: same_function
+  target: Orphic and Pythagorean sacred utterance collections
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns terminology and function of sacred sayings,
+    not a shared narrative motif.
+- id: claim:3
+  claim: The commentary compares guarded collections of sacred sayings to secret scriptures
+    or oracle collections of ancient nations.
+  claim_level: same_function
+  target: Greek and Roman guarded oracle or scripture collections, including Veii
+    and Athens as cited in the passage
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage lists examples but gives limited details about their contents
+    or ritual use.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9919-10053, section “Concerning the Title”
+  quote_or_summary: The title is “The Secret Sermon on the Mountain,” and the commentary
+    says the teaching is “precisely ‘On the Mount’.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 9919-10053, section “Concerning the Title”
+  quote_or_summary: "“For the ‘Mountain’ was symbolic of stages of inner development,”
+    and is described as “an ascent or stair of steps.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 9919-10053, section “The Term Apocryphon”
+  quote_or_summary: The term “Secret” is explained as “hidden away, meaning esoteric
+    or not put into circulation.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 9919-10053, section “The Term Apocryphon”
+  quote_or_summary: Logoi or logia are described as words of wisdom, sacred legacies
+    of sages to humanity, oracular utterances, and sacred deposits or testaments.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 9919-10053, section “The Term Apocryphon”
+  quote_or_summary: The passage states that collections of oracles and writings were
+    guarded as secret scriptures, hidden, withdrawn from public perusal, and not in
+    general circulation.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 9919-10053, section “The Three Stages of Probation”
+  quote_or_summary: "“Tat definitely refers to three Stages of Probation, before he
+    is deemed fit to hear the Sermon on Rebirth.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short excerpt.
+- id: ev:7
+  type: summary
+  locator: lines 9919-10053, section “The Three Stages of Probation”
+  quote_or_summary: The first stage is preliminary instruction in the General Sermons;
+    the next is the stage where Tat becomes Hermes’ suppliant and is allowed to ask
+    questions in dialogue.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 9919-10053, section “The Three Stages of Probation”
+  quote_or_summary: The difficult phrase is interpreted as passing or wending up the
+    mountain; Hermes gradually leads Tat to the top, which represents the highest
+    point of unaided mental faculty.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 9919-10053, section “The Term Apocryphon”
+  quote_or_summary: The commentary says a logos had much the same meaning for the
+    ancients as Sanskrit mahā-vākyam has for an Indian theosophist, citing Upanishadic
+    utterances such as “That art thou.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized with short excerpt.
+- id: ev:10
+  type: summary
+  locator: lines 9919-10053, section “The Term Apocryphon”
+  quote_or_summary: The passage says the Orphics and Pythagoreans called such collections
+    “sacred utterances,” and mentions similar sacred laws and collections.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an interpretive commentary rather than a mythic narrative,
+    so motifs are extracted from its explicit symbolic and initiatory explanations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All motifs and comparisons are based only on the supplied passage and metadata.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l9919-l10053
+  passage_sha256=909d1a0b66f9727ef064e9fd28bc3b6fca5635235cffede150f1a2137665aabb
+

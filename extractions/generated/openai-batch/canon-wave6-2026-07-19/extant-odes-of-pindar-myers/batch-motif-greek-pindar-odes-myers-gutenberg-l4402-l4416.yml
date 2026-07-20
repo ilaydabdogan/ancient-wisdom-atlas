@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.greek-pindar-odes-myers-gutenberg-l4402-l4416
+source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+passage_locator:
+  label: FOR TIMODEMOS OF ATHENS, / WINNER IN THE PANKRATION. / FOR ARISTOKLEIDES
+    OF AIGINA, / WINNER IN THE PANKRATION.; lines 4402-4416
+  start: '4402'
+  end: '4416'
+  translation: The Extant Odes of Pindar
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The excerpt consists of editorial footnotes: one note describes a passage
+    as obscure and reports Donaldson''s conjecture about a Pythagorean fourfold division
+    of virtue mapped onto four ages of human life; another glosses a term as snakes;
+    another gives an alternate wording; the excerpt ends with the numeral IV.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote describes the referenced passage as very obscure and reports Böckh's
+    statement that it became more obscure the longer he considered it.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same footnote reports Donaldson's conjecture that Pindar is speaking with
+    reference to a Pythagorean division of virtue into four species.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The footnote gives four age-and-virtue pairings: temperance with youth, courage
+    with early manhood, justice with mature age, and prudence with old age.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A separate footnote glosses a term as snakes.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A separate footnote gives the alternate wording, “on vile things feed.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The excerpt ends with the section marker or numeral IV.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pindar
+  description: Named as the poet whom Donaldson thinks may be speaking with reference
+    to a Pythagorean fourfold division of virtue.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Böckh
+  description: Cited as saying the passage became more obscure the longer he considered
+    it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Donaldson
+  description: Cited as inclined to interpret Pindar through a Pythagorean fourfold
+    division of virtue and ages of life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Shakespeare
+  description: Named as a comparator for the principle of describing ages of human
+    life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: poet under interpretation
+  assigned_to:
+  - fig:1
+  basis: The footnote says Donaldson is inclined to think that Pindar is speaking
+    with reference to the Pythagorean division of virtue.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: scholarly witness to obscurity
+  assigned_to:
+  - fig:2
+  basis: The footnote reports Böckh's statement that the passage became more obscure
+    to him.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: conjectural interpreter
+  assigned_to:
+  - fig:3
+  basis: The footnote presents Donaldson as proposing a possible interpretive reference
+    to Pythagorean virtue divisions.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: literary comparator
+  assigned_to:
+  - fig:4
+  basis: The footnote compares the four-age principle to Shakespeare's description
+    of the seven ages.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: snakes
+  literal_form: Snakes
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: four ages of human life
+  literal_form: Four ages of human life paired with four virtues
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Editorial annotations on an obscure passage
+  summary: The passage presents editorial notes concerning an obscure passage, a conjectural
+    fourfold age-and-virtue interpretation, a gloss identifying snakes, and an alternate
+    wording.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: four ages paired with virtues
+  taxonomy_refs: []
+  basis: 'The footnote reports a conjecture that one virtue is assigned to each of
+    four ages of human life: youth, early manhood, mature age, and old age.'
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The note explicitly describes the passage as obscure, and the fourfold
+    interpretation is reported as Donaldson's conjecture rather than as a direct narrative
+    statement.
+- id: motif:2
+  label: serpent or snake reference
+  taxonomy_refs:
+  - serpent
+  basis: A footnote glosses a term as snakes.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The excerpt supplies only a gloss and no narrative action, attributes,
+    or symbolic function for the snakes.
+comparison_claims:
+- id: claim:1
+  claim: Donaldson conjectures that the Pindar passage refers to a Pythagorean fourfold
+    division of virtue.
+  claim_level: same_function
+  target: Pythagorean division of virtue into four species
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:1
+  confidence: low
+  limitations: The same note emphasizes obscurity, and the interpretation is explicitly
+    conjectural.
+- id: claim:2
+  claim: The footnote compares the age-and-virtue scheme to the principle used in
+    Shakespeare's description of the seven ages.
+  claim_level: same_function
+  target: Shakespeare's description of the seven ages
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:1
+  confidence: low
+  limitations: The comparison is made by the footnote and concerns a structural principle
+    of age classification, not a demonstrated historical or mythological connection.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4402-4409
+  quote_or_summary: Footnote 5 calls the passage very obscure, cites Böckh on its
+    obscurity, and reports Donaldson's conjecture that Pindar refers to a Pythagorean
+    division of virtue into four species, assigning temperance, courage, justice,
+    and prudence to four ages of life; it compares this principle to Shakespeare's
+    seven ages.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: '4411'
+  quote_or_summary: "[Footnote 6: Snakes.]"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: '4413'
+  quote_or_summary: "[Footnote 7: Or 'on vile things feed.']"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: '4415'
+  quote_or_summary: IV.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The excerpt is mostly editorial footnotes and includes little narrative content.
+    Motif and comparison candidates are limited by the note's own warning that the
+    passage is obscure.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy mapping to serpent is based solely on the explicit gloss “Snakes.”
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-pindar-odes-myers-gutenberg__l4402-l4416
+  passage_sha256=2a3b7a73791c22e74a7efd62930fa26e7f365ef183b9733ad54baaee93e33386
+

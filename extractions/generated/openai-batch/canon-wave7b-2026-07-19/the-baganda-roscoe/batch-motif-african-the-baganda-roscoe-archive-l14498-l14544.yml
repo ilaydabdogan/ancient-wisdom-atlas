@@ -1,0 +1,478 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l14498-l14544
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CHAP. / THE    BAGANDA / CHAP. / VIII  GOVERNMENT  267; lines 14498-14544
+  start: '14498'
+  end: '14544'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“There is no one here who has killed another”"
+  summary: The passage describes Baganda legal customs concerning homicide compensation
+    between clans, a reconciliation meal with beer, poison ordeal procedures for suspected
+    murderers and thieves, bodily punishments for theft or disobedience, and a stated
+    concern with detection rather than wrongdoing.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The stated homicide fine is generally twenty cows, twenty goats, twenty barkcloths,
+    and twenty women.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The offender’s clan sends him to beg from friends and clan members until he
+    can raise enough to pay about a quarter of the fine.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Members of the deceased man’s clan avoid the homicide until part of the fine
+    is paid; after payment they assemble, invite him to a meal, and he may move among
+    them as before.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The unpaid remainder of the fine may remain for years or never be paid, and
+    may later be offset against an offence by a member of the other clan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: At the reconciliation meal, a pot of beer is brought in, the head of the murdered
+    man’s clan pours a cup, speaks a formula denying that anyone present has killed
+    another, and gives each person beer to drink.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Murderers and thieves are said to be discovered by the medicine-man through
+    the ordeal.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Suspected persons accused before a chief are brought before a council and
+    compelled to submit to the poison ordeal if they wish to prove innocence.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Death under the poison ordeal is taken as proof of guilt; no ill effects are
+    taken as proof of innocence and make the accuser liable to a fine; illness without
+    death may also lead to a finding of guilt, a fine, and often execution.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Petty theft and child disobedience are punished by burning the child’s hand
+    or cutting off the ear, and adults may have their hands cut off for theft.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage states that people feared detection rather than wrongdoing.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: homicide or offender
+  description: A clan member who has committed homicide and must raise part of the
+    compensation fine.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: deceased or murdered man
+  description: The person killed, whose clan avoids the homicide until partial payment
+    and later participates in reconciliation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: offender’s clan
+  description: The clan that sends the offender to beg for resources from friends
+    and clan members.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: deceased man’s clan
+  description: The clan that holds aloof from the homicide until partial payment,
+    then assembles for a meal of reconciliation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: head of the murdered man’s clan
+  description: The clan head who pours beer, speaks the reconciliation formula, and
+    distributes cups of beer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: medicine-man
+  description: The specialist through whom murderers and thieves are discovered by
+    ordeal.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: suspected persons
+  description: Persons accused before a chief and brought before a council to undergo
+    the poison ordeal if they wish to prove innocence.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: chief and council
+  description: Authorities before whom accusations are made and before whom suspected
+    persons are brought for the ordeal procedure.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: accuser
+  description: The person who must pay a fine for false accusation if the accused
+    suffers no ill effects from the poison ordeal.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: child offender
+  description: A child punished for petty theft or disobedience by burning of the
+    hand or cutting off of the ear; the passage notes little mercy for a slave or
+    orphan child.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+- id: fig:11
+  name_or_label: adult thief
+  description: An adult punished for theft, sometimes by having the hands cut off.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: homicide fine payer
+  assigned_to:
+  - fig:1
+  basis: The offender must collect resources and pay part of the homicide fine before
+    reconciliation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: homicide victim
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the deceased or murdered man as the person whose clan
+    receives compensation and conducts reconciliation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: supporting offender clan
+  assigned_to:
+  - fig:3
+  basis: The offender’s clan sends him to gather contributions from friends and clan
+    members.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: estranged and reconciled victim clan
+  assigned_to:
+  - fig:4
+  basis: The deceased man’s clan avoids the offender until partial payment, then joins
+    in a reconciliation meal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: reconciliation drink distributor
+  assigned_to:
+  - fig:5
+  basis: The clan head pours beer, speaks the formula, and gives each person a cup.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: ordeal specialist
+  assigned_to:
+  - fig:6
+  basis: The medicine-man discovers murderers and thieves through the ordeal.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: ordeal subject
+  assigned_to:
+  - fig:7
+  basis: Suspected persons are compelled before a council to submit to the poison
+    ordeal to prove innocence.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: adjudicating authority
+  assigned_to:
+  - fig:8
+  basis: Accusations before a chief lead to suspects being brought before a council
+    for the ordeal.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: false-accusation liable accuser
+  assigned_to:
+  - fig:9
+  basis: If the accused has no ill effects from the ordeal, the accuser pays a fine
+    for false accusation.
+  evidence_refs:
+  - ev:3
+- id: role:10
+  label: minor offender subject to bodily punishment
+  assigned_to:
+  - fig:10
+  basis: Children may be punished for petty theft or disobedience by burning the hand
+    or cutting off the ear.
+  evidence_refs:
+  - ev:4
+- id: role:11
+  label: adult thief subject to amputation
+  assigned_to:
+  - fig:11
+  basis: Adults may have their hands cut off for theft.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: homicide compensation set
+  literal_form: twenty cows, twenty goats, twenty barkcloths, and twenty women
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: reconciliation beer
+  literal_form: a pot of beer and cups shared at the clan reconciliation meal
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: reconciliation speech formula
+  literal_form: the spoken statement, “There is no one here who has killed another”
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: poison ordeal substance
+  literal_form: poison ordeal or drug used to test suspected persons
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Homicide compensation between clans
+  summary: A homicide offender collects resources to pay part of a large fine, after
+    which relations with the deceased man’s clan may be restored while the remaining
+    debt is deferred.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beer-sharing reconciliation meal
+  summary: At the meal reconciling the clans, the head of the murdered man’s clan
+    pours beer, declares that no one present has killed another, and gives all present
+    beer to drink.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Poison ordeal before authority
+  summary: Accused persons are brought before a council and undergo a poison ordeal;
+    bodily outcomes determine whether guilt, innocence, punishment, or a false-accusation
+    fine follows.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bodily punishments for theft and disobedience
+  summary: Children and adults receive severe bodily punishments for theft or disobedience,
+    including burning, cutting off an ear, or cutting off hands.
+  figure_refs:
+  - fig:10
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: blood-compensation and interclan reconciliation
+  taxonomy_refs: []
+  basis: The passage describes a homicide fine, partial payment, avoidance by the
+    victim’s clan, a reconciliation meal, and eventual restoration of movement among
+    that clan.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is presented as customary legal practice rather than as a mythic
+    narrative or explicitly sacred rite.
+- id: motif:2
+  label: formal drink-sharing to end homicide estrangement
+  taxonomy_refs: []
+  basis: A pot of beer, cups, and a spoken formula are used during the meal at which
+    the clans are reconciled after homicide.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly call the beer-sharing sacred; the motif
+    is limited to formal reconciliation action.
+- id: motif:3
+  label: poison ordeal as proof of guilt or innocence
+  taxonomy_refs: []
+  basis: The poison ordeal determines guilt or innocence according to death, illness,
+    or lack of ill effects, and produces corresponding fines or execution.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No deity or divine judge is named, so a divine-judgment taxonomy link
+    is not asserted.
+- id: motif:4
+  label: bodily mutilation as punishment for theft or disobedience
+  taxonomy_refs: []
+  basis: The passage states that children may have hands burned or ears cut off, and
+    adults may have hands cut off for theft.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a penal custom in an ethnographic passage, not a narrative myth
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The poison ordeal has the same adjudicating function as an ordeal-as-judgment
+    pattern: bodily reaction to a dangerous substance is treated as evidence of guilt
+    or innocence.'
+  claim_level: same_function
+  target: ordeal-as-judgment pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name a deity or supernatural agent; the comparison
+    is functional only and does not assert historical contact or a divine-judgment
+    motif.
+- id: claim:2
+  claim: The reconciliation meal and shared beer have the same social function as
+    a commensality-based peacemaking pattern after bloodshed.
+  claim_level: same_function
+  target: commensality-based reconciliation pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies no external comparison and does not explicitly
+    define the meal as sacred.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14499-14513
+  quote_or_summary: Homicide compensation is generally twenty cows, twenty goats,
+    twenty barkcloths, and twenty women; the offender collects support, pays part
+    of the fine, and the remaining debt may be deferred or offset.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 14514-14520
+  quote_or_summary: At the reconciliation meal, a pot of beer is brought in; the clan
+    head says, “There is no one here who has killed another,” and gives each person
+    beer.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 14520-14532
+  quote_or_summary: Murderers and thieves are discovered through the medicine-man’s
+    ordeal; accused persons undergo the poison ordeal, and death, illness, or lack
+    of ill effects determines guilt, innocence, fines, or execution.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 14534-14540
+  quote_or_summary: Petty theft and child disobedience may be punished by burning
+    a child’s hand or cutting off the ear; adults may have hands cut off for theft.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 14541-14544
+  quote_or_summary: The passage states that moral ideas were crude and that people
+    feared detection rather than wrongdoing.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear as an ethnographic account of legal and reconciliation
+    practices. Motif and comparison labels are cautious because the passage is not
+    a myth narrative and gives no explicit divine or sacred interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family IDs were assigned because the available labels requiring sacred or divine framing are not explicitly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l14498-l14544
+  passage_sha256=f20a93acf0ef87712d97f00ce8e3260560b4f983052ca203cec167c472c02fd5
+

@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l17951-l17961
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: HOUSE-LIFE  AXD    SOCIAL   CUSTOMS / SWEAT   BATHS / THE    ESKIMO    ABOUT    BERING    STRAIT
+    / DWELLING   HOUSES; lines 17951-17961
+  start: '17951'
+  end: '17961'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The dwelling houses are the domain of the women.
+  summary: The passage describes dwelling houses as women's domain. One to three families
+    may occupy platforms in a single-room house, while each family remains separate
+    and independent in domestic arrangements. A woman heading a family has an oil
+    lamp beside her sleeping bench, where she sews or does household work, and has
+    her own cooking utensils and wooden dishes. The passage also includes a figure
+    caption for a respirator, front view.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dwelling houses are described as the domain of women.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One to three families may occupy platforms in the single room of a house.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Each family is described as separate and independent in domestic arrangements.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Each woman who heads a family has an oil lamp beside her sleeping bench.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The woman sews or carries on household work beside her sleeping bench.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The woman has her own cooking utensils and wooden dishes for food.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A figure caption identifies a respirator shown from the front view.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: women
+  description: Women are associated with dwelling houses as their domain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: woman who is the head of a family
+  description: A woman heading a family has an oil lamp beside her sleeping bench
+    and carries on sewing or household work there with her own household utensils.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: families occupying the dwelling house
+  description: One to three families may occupy platforms in a single-room house,
+    with each family separate in domestic arrangements.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: domestic-domain holders
+  assigned_to:
+  - fig:1
+  basis: The passage states that dwelling houses are the domain of women.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: family head
+  assigned_to:
+  - fig:2
+  basis: The passage refers to each woman who is the head of a family.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: household worker
+  assigned_to:
+  - fig:2
+  basis: The passage says she sews or carries on household work beside her sleeping
+    bench.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: household occupants
+  assigned_to:
+  - fig:3
+  basis: The passage says one to three families may occupy platforms in the single
+    room.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: dwelling house
+  literal_form: single-room dwelling house
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: platforms
+  literal_form: platforms occupied by families within the single room
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: oil lamp
+  literal_form: oil lamp beside a sleeping bench
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sleeping bench
+  literal_form: sleeping bench beside which the oil lamp is placed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: cooking utensils and wooden dishes
+  literal_form: own cooking utensils and wooden dishes for food
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: respirator
+  literal_form: respirator, front view, in figure caption
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Shared dwelling with separate domestic arrangements
+  summary: A single-room dwelling may contain platforms occupied by one to three families,
+    while each family maintains separate domestic arrangements; women, especially
+    female family heads, are associated with household work and domestic equipment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Respirator figure caption
+  summary: The passage includes a caption for a respirator shown in front view.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Dwelling house as women's domain
+  taxonomy_refs: []
+  basis: The passage explicitly assigns the dwelling house to women as a social domain.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic social pattern, not a narrative mythic motif in
+    the supplied passage.
+- id: motif:2
+  label: Separate household units within a shared single-room dwelling
+  taxonomy_refs: []
+  basis: The passage describes one to three families sharing platforms in one room
+    while remaining separate and independent in domestic arrangements.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a domestic organization pattern; no supplied evidence connects
+    it to a listed mythological motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 17951-17952
+  quote_or_summary: '"The dwelling houses are the domain of the women."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 17952-17956
+  quote_or_summary: One to three families may occupy platforms in the house's single
+    room, while each remains separate and independent in domestic arrangements.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: 17956-17960
+  quote_or_summary: Each woman who heads a family has an oil lamp beside her sleeping
+    bench, where she sews or does household work, and has her own cooking utensils
+    and wooden dishes for food.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: quote
+  locator: '17961'
+  quote_or_summary: '"FIG. 96— Kespirator, front view (J)."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; short excerpt used as it appears in the passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward. Candidate motifs are recorded
+    as ethnographic social patterns rather than mythic narrative motifs. No comparison
+    claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned; the available taxonomy did not clearly match the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l17951-l17961
+  passage_sha256=a658b17ae196d8077d8265361642950dd5ff0ee8c6f7d7c2fb85d9ba1c2aeb82
+

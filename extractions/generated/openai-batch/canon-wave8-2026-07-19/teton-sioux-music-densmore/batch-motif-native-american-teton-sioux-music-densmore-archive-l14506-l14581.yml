@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l14506-l14581
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BENT  STICK  CARRIED  BY  WOLF  DREAMER / DREAMS  CONCERNING  THE  WOLF /
+    BUREAU   OP  AMEEICAN   ETHNOLOGY / DREAM  OF  THE   CROW   AND  OWL; lines 14506-14581
+  start: '14506'
+  end: '14581'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“No narrative was given with this song.”"
+  summary: The passage presents a Teton Sioux song titled “A Blacktail Deer,” sung
+    by Chabqinq Thunder. The editor notes that no narrative accompanied the song,
+    mentions other recorded Chippewa dream songs concerning deer, states that the
+    drum was not recorded, gives Lakota words with English glosses including “sacred,”
+    “he made for me,” and “a blacktail deer,” and adds a technical analysis of the
+    melody.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The editor states that no narrative was given with the song.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor notes that four dream songs concerning deer were recorded among
+    the Chippewa in another bulletin.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The song is titled “A Blacktail Deer” and is attributed as sung by Chabqinq
+    Thunder.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the drum was not recorded.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The English glosses of the song words repeat “sacred” and “he made for me,”
+    and identify “a blacktail deer.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The final glossed words include “those” and “you had seen.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The musical analysis says the minor third characterizes the melody, the melodic
+    trend is steadily downward, and three recorded renditions show no variation points.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Chabqinq Thunder
+  description: Named singer of the song “A Blacktail Deer.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: blacktail deer
+  description: Animal named in the song title and glossed words as “a blacktail deer.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed “he”
+  description: Unidentified agent referred to in the repeated gloss “he made for me.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The passage says the song was sung by Chabqinq Thunder.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: named animal subject
+  assigned_to:
+  - fig:2
+  basis: The song title and gloss identify a blacktail deer; the surrounding gloss
+    also repeats the word “sacred.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: unspecified maker
+  assigned_to:
+  - fig:3
+  basis: The gloss repeats the phrase “he made for me,” but gives no identity for
+    the pronoun.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: blacktail deer
+  literal_form: blacktail deer
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial and performance context
+  summary: The passage introduces the song, notes that no narrative accompanied it,
+    relates it to other recorded deer dream songs among the Chippewa, names Chabqinq
+    Thunder as singer, and says the drum was not recorded.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Song words and glosses
+  summary: The glossed song text repeats that something sacred was made for the singer,
+    names a blacktail deer, and ends with a phrase about things that were seen.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Melodic analysis
+  summary: The editor analyzes the song melody, emphasizing the minor third, downward
+    melodic movement, broad compass, and lack of variation among three renditions.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: deer-associated dream song
+  taxonomy_refs: []
+  basis: The passage identifies this as a song about a blacktail deer and explicitly
+    notes other recorded dream songs concerning deer, while also stating that this
+    song lacks an accompanying narrative.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not provide a dream narrative, so the motif can only
+    be identified at the level of song topic and editorial context.
+- id: motif:2
+  label: sacred animal made for the singer
+  taxonomy_refs: []
+  basis: The glossed words repeat “sacred” and “he made for me” in connection with
+    “a blacktail deer.”
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The grammar and ritual context are not explained in the passage; the identity
+    of the maker and the nature of what is made are not specified.
+comparison_claims:
+- id: claim:1
+  claim: The editor links this deer song to a nearby recorded corpus by noting that
+    four Chippewa dream songs concerning deer were recorded elsewhere, supporting
+    only a cautious comparison at the level of deer-related dream-song topic.
+  claim_level: same_motif
+  target: Chippewa dream songs concerning deer, Nos. 95-98 in Bulletin 53
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No narrative is supplied for the present song, and the passage gives
+    no details of the Chippewa songs beyond their number and deer-related dream-song
+    subject.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14506-14508
+  quote_or_summary: "“No narrative was given with this song. Four dream songs concerning
+    deer were recorded among the Chippewa — Nos. 95-98 in Bulletin 53.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 14512-14518
+  quote_or_summary: The passage states “Drum not recorded,” gives the title “No. 56.
+    ‘A Blacktail Deer,’” and identifies it as sung by Chabqinq Thunder.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 14541-14555
+  quote_or_summary: The English glosses include repeated “sacred” and “he made for
+    me,” identify “a blacktail deer,” and end with “those” and “you had seen.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 14557-14581
+  quote_or_summary: The analysis says the minor third characterizes the melody, the
+    trend is mostly downward, the compass is broad, and three recorded renditions
+    show no variation points.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is clear about title, singer, glosses, and editorial notes, but
+    explicitly lacks a narrative, limiting motif interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif reference was assigned because the passage supports deer-related song imagery but not one of the supplied controlled taxonomy items.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l14506-l14581
+  passage_sha256=55a0c0a13763c32bfda6fc7ba844acf702d24e821239f8ac3b2196a742925e48
+

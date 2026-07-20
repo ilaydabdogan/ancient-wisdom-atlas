@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l8492-l8552
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: THE  OWL  AND  THE  RAVEN. / THE  ORIGIN  OF  THE  SEA-PIGEONS. / HOW  THE  CARIBOU  LOST  THEIR  LARGE  EYES.
+    / ESKIMO  INCANTATION  FOR  GAME.; lines 8492-8552
+  start: '8492'
+  end: '8552'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: To-day I am hunting for seals in the kayak.
+  summary: A Labrador Eskimo game incantation is given in transcription with literal
+    glosses and a free English translation. The speaker says he is hunting seals from
+    a kayak, calls others to come, speaks of being cold and tired, welcomes strangers,
+    asks where they are going, notices something like deer far away, and says it is
+    raining again. A note says the incantation is half-sung and half-chanted in a
+    rhythmic sing-song.
+  language: English with Labrador Inuit transcription
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The text is identified as an Eskimo incantation for game.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A first-person speaker says he is hunting seals in a kayak today.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker calls to an addressed group to come over.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says he is very cold.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker says the addressed strangers are not unwelcome and that they are
+    gladly seen.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A question asks where the addressed party is going.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A first-person statement says the speaker is very tired and has walked from
+    far away.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A question asks what is like deer far away.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The incantation states that it rains again today.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A prose note describes the incantation as half-sung and half-chanted in a
+    rhythmical sing-song.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: first-person hunter-speaker
+  description: The first-person voice of the incantation, who says he is hunting seals
+    in a kayak and later says he is cold and tired.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: addressed group or strangers
+  description: The addressees are called to come over and are described as strangers
+    who are not unwelcome.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: seals
+  description: Animals named as the object of the speaker's hunting.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: deer-like thing far away
+  description: Something far away is described only as being like deer.
+  role_refs: []
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The speaker says he is hunting for seals in a kayak.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: cold and tired traveler or speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker says he is very cold, very tired, and has walked from far away.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: summoned strangers or addressees
+  assigned_to:
+  - fig:2
+  basis: The incantation calls them to come over, welcomes them as strangers, and
+    asks where they are going.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:4
+  label: hunted game
+  assigned_to:
+  - fig:3
+  basis: The incantation is for game and names seals as what the speaker is hunting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: kayak
+  literal_form: kayak
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: seals as game
+  literal_form: seals
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: rain
+  literal_form: rain
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: rhythmic chant
+  literal_form: half-sung, half-chanted incantation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: seal-hunting incantation
+  summary: The speaker declares that he is hunting seals from a kayak, summons others
+    to come over, welcomes strangers, asks about their destination, speaks of coldness
+    and fatigue, notices something deer-like far away, and mentions rain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: hunting incantation inviting game or addressees
+  taxonomy_refs: []
+  basis: The passage is titled as an incantation for game; within it the hunter-speaker
+    calls others to come over while hunting seals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly explain whether the addressees are animals,
+    spirits, human strangers, or imagined voices; the motif label is based on the
+    title and wording only.
+- id: motif:2
+  label: ritual chant for successful hunting
+  taxonomy_refs: []
+  basis: A note specifies that the incantation is performed half-sung and half-chanted
+    in a rhythmic sing-song, and the text concerns seal hunting.
+  evidence_refs:
+  - ev:2
+  - ev:10
+  confidence: high
+  cautions: No outcome of the chant or associated ritual procedure is described in
+    the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8492-8552, title
+  quote_or_summary: The passage heading identifies the text as “ESKIMO INCANTATION
+    FOR GAME.”
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; short quotation permitted.
+- id: ev:2
+  type: quote
+  locator: lines 8492-8552, free translation opening
+  quote_or_summary: "“To-day I am hunting for seals in the kayak.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; short quotation permitted.
+- id: ev:3
+  type: quote
+  locator: lines 8492-8552, free translation
+  quote_or_summary: "“Come over here, all of you.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; short quotation permitted.
+- id: ev:4
+  type: quote
+  locator: lines 8492-8552, free translation
+  quote_or_summary: "“I am very cold.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; short quotation permitted.
+- id: ev:5
+  type: summary
+  locator: lines 8492-8552, free translation
+  quote_or_summary: The addressees are said not to be unwelcome, and the speaker or
+    group is glad to see strangers.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; summarized from source.
+- id: ev:6
+  type: quote
+  locator: lines 8492-8552, free translation
+  quote_or_summary: "“Where are you going?”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; short quotation permitted.
+- id: ev:7
+  type: summary
+  locator: lines 8492-8552, free translation
+  quote_or_summary: A parenthetical first-person statement says the speaker is very
+    tired and has walked from far away.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; summarized from source.
+- id: ev:8
+  type: quote
+  locator: lines 8492-8552, free translation
+  quote_or_summary: "“What is that like deer far away?”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; short quotation permitted.
+- id: ev:9
+  type: quote
+  locator: lines 8492-8552, free translation close
+  quote_or_summary: "“To-day it rains again.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; short quotation permitted.
+- id: ev:10
+  type: summary
+  locator: lines 8492-8552, prose note after translation
+  quote_or_summary: The note says the incantation is half-sung and half-chanted in
+    a rhythmical sing-song, followed by a scanned rhythm.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; summarized from source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward from the free translation and note.
+    Motif identification is limited because the passage gives the incantation text
+    but little explanation of its ritual function beyond the title and performance
+    note. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided incantation passage was used; earlier story titles in the supplied locator were not represented in the passage text and were not extracted.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l8492-l8552
+  passage_sha256=eddb59c38f0d1b862340c76edde586bc0b81bf5536f95f70d01afc88df94b3eb
+

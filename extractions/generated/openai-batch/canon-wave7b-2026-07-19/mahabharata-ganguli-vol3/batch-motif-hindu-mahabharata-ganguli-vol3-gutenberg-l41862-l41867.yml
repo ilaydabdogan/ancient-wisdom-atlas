@@ -1,0 +1,157 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l41862-l41867
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CLXXIV / SECTION CLXXV / SECTION CLXXVI / SECTION CLXXVII; lines
+    41862-41867
+  start: '41862'
+  end: '41867'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"thirst of wealth overwhelms him"'
+  summary: Yudhishthira asks what a person should do to obtain happiness when he wishes
+    to perform charity and sacrifices but lacks the necessary wealth and is overcome
+    by desire for wealth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira asks a question.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The question concerns a person who desires to accomplish acts of charity and
+    sacrifices.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The hypothetical person fails to find the necessary wealth.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hypothetical person is described as overwhelmed by thirst of wealth.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Yudhishthira asks what the person must do for obtaining happiness.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who poses the question.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Hypothetical person lacking wealth
+  description: A person who wishes to perform charity and sacrifices, cannot find
+    necessary wealth, and is overwhelmed by desire for wealth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira is explicitly introduced as saying the question.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: hypothetical seeker of wealth for charitable and sacrificial acts
+  assigned_to:
+  - fig:2
+  basis: The person is described as desiring charity and sacrifices, failing to find
+    wealth, and seeking a way to happiness.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: wealth
+  literal_form: necessary wealth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Yudhishthira poses an ethical question about wealth and happiness
+  summary: Yudhishthira asks what course a person should take when he wants to perform
+    charity and sacrifices but lacks wealth and is overcome by desire for it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: wisdom inquiry about righteous action under lack of resources
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is framed as Yudhishthira asking what should be done by someone
+    who lacks wealth for charity and sacrifices yet seeks happiness.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The supplied passage contains only the question, not the answer or teaching
+    that follows.
+- id: motif:2
+  label: sacrifice and charity constrained by insufficient wealth
+  taxonomy_refs:
+  - sacrifice
+  basis: The hypothetical person desires to accomplish charity and sacrifices but
+    cannot find the necessary wealth.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: No sacrifice is actually performed in this excerpt; sacrifice appears
+    only as a desired act within the question.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '41862'
+  quote_or_summary: 'Section heading: SECTION CLXXVII.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg text; Ganguli translation.
+- id: ev:2
+  type: summary
+  locator: 41863-41867
+  quote_or_summary: Yudhishthira asks what a person should do for happiness when he
+    wants to perform charity and sacrifices, lacks the necessary wealth, and is overwhelmed
+    by thirst for wealth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg text; Ganguli translation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and supports only limited extraction. Motif candidates
+    are cautious because the excerpt contains a question without the subsequent answer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or imply a comparison to another tradition or motif family beyond the supplied taxonomy tagging.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l41862-l41867
+  passage_sha256=9e3c48f1da6fae8e52e6a18e7f5918d030a9b6892f6a3e5bc8bd7481c01234c6
+

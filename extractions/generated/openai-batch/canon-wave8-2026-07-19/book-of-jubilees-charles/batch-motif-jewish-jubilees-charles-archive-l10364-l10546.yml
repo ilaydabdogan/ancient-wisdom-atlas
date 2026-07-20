@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l10364-l10546
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER VIII. 1-7 / CHAPTER VIII. 8-12 / CHAPTER VIII. 13-19 71 / CHAPTER
+    VIII. 20-25 73; lines 10364-10546
+  start: '10364'
+  end: '10546'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the second and third territorial portions allotted
+    to Ham and Japheth. Ham’s portion is mapped by the Gihon, the Garden of Eden,
+    mountains of fire, western seas, Gadir, and the great sea, and is assigned to
+    Ham and his sons forever. Japheth’s portion is mapped northward and westward through
+    named regions, waters, mountains, and islands, and is assigned to Japheth and
+    his sons forever. Editorial notes compare these descriptions with later geographical
+    traditions and cross-reference fiery mountains in Ethiopic Enoch.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ham receives the second portion, located beyond the Gihon toward the south
+    and to the right of the Garden.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ham’s boundary includes the mountains of fire, the sea of ’Atél, the sea of
+    Maé’ik, Gadir, the waters of the great sea, and the river Gihon.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sea of Maé’ik is described as a sea into which things not destroyed descend;
+    the note treats the wording as textually difficult and probably meaning that what
+    descends into it perishes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:4
+  text: Ham’s land is assigned as a portion for him and his sons to occupy through
+    their generations forever.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Japheth receives the third portion beyond the river Tiné, north of the outflow
+    of its waters, extending toward the region of Gog and the country east of it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Japheth’s boundary includes the mountains of Qélt, the sea of Maé’ik, Gadir,
+    Farad, ’Aférég, the waters of the sea of Mé’at, the river Tina, and mountain Rafa.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Japheth’s inheritance includes five great islands and a great land in the
+    north, assigned to him and his sons through their generations forever.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The editorial notes identify Ham’s portion with Africa and parts of Asia,
+    and Japheth’s portion with northern Asia, Europe, and five great islands.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ham
+  description: Recipient of the second territorial portion, assigned to him and his
+    sons forever.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ham’s sons
+  description: Descendants included in Ham’s permanent territorial portion.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Japheth
+  description: Recipient of the third territorial portion, assigned to him and his
+    sons forever.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Japheth’s sons
+  description: Descendants included in Japheth’s permanent territorial inheritance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: territorial portion recipient
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Each named figure receives a numbered land portion described by boundaries
+    and assigned as an enduring possession.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: descendant inheritor group
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The portions are explicitly assigned to the sons of the recipient figures
+    through their generations forever.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: Gihon river boundary
+  literal_form: river Gihon / Gijén
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Garden of Eden boundary point
+  literal_form: the right of the Garden of Eden
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mountains of fire
+  literal_form: all the mountains of fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: western sea of descent or perishing
+  literal_form: sea of Maé’ik / Maik
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: great sea and coastal waters
+  literal_form: waters of the sea; waters of the great sea
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:6
+  label: northern mountains
+  literal_form: mountains of Qélt and mountain Rafa
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: five great islands
+  literal_form: five great islands
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: great land in the north
+  literal_form: a great land in the north
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ham’s territorial allotment
+  summary: The second portion is mapped for Ham by southern, western, and northern
+    boundaries involving rivers, seas, the Garden, Gadir, and mountains of fire, and
+    is assigned to Ham and his sons forever.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Japheth’s territorial allotment
+  summary: The third portion is mapped for Japheth through northern and western regions,
+    rivers, seas, mountains, islands, and a northern land, and is assigned to Japheth
+    and his sons forever.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: ancestral territorial allotment for descendants
+  taxonomy_refs: []
+  basis: Both Ham and Japheth receive named territorial portions that are to be possessed
+    by themselves and their sons through generations forever.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No specific supplied taxonomy family directly matches territorial allotment;
+    the label is descriptive.
+- id: motif:2
+  label: world geography mapped by boundaries of rivers, seas, mountains, and directions
+  taxonomy_refs: []
+  basis: The passage defines lands through repeated directional movement and named
+    waters, mountains, regions, and boundary turns.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a cartographic pattern in the passage rather than a narrative
+    action motif.
+- id: motif:3
+  label: fiery mountain boundary
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Ham’s portion reaches the mountains of fire, and the editorial note cross-references
+    fiery mountains in Ethiopic Enoch.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage uses the mountains as a geographic boundary; it does not itself
+    describe an ascent, sanctuary, or full cosmic-mountain scene.
+- id: motif:4
+  label: Eden used as an orienting landmark in territorial geography
+  taxonomy_refs:
+  - world_center
+  basis: Ham’s portion is described in relation to the right or south of the Garden
+    of Eden and returns to that side of the Garden as a boundary point.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage treats Eden as a boundary landmark; a world-center reading
+    is only a cautious candidate.
+- id: motif:5
+  label: sea associated with descent and perishing
+  taxonomy_refs: []
+  basis: The sea of Maé’ik is described as the place into which things descend, with
+    the editorial note suggesting the sense that anything descending into it perishes.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: low
+  cautions: The wording is textually uncertain according to the note, so the motif
+    should be reviewed.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note explicitly links the passage’s mountains of fire with
+    fiery mountains in Ethiopic Enoch, supporting only a cautious visual or imagistic
+    comparison.
+  claim_level: visual_similarity
+  target: Ethiopic Enoch xviii.6-9 and xxiv.1-3
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage provides only the cross-reference, not the Enochic
+    passages themselves; no historical-contact or same-motif claim is established
+    here.
+- id: claim:2
+  claim: The editorial notes compare the territorial portions of Ham and Japheth with
+    later or adjacent geographical accounts of Noahide land divisions.
+  claim_level: same_function
+  target: Epiphanius, Syncellus, Chronicles of Jerahmeel, and Josephus on Ham’s and
+    Japheth’s portions
+  evidence_refs:
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the editor’s summaries and citations in the supplied
+    passage; the cited external texts are not independently evaluated in this extraction.
+evidence:
+- id: ev:1
+  type: summary
+  locator: CH VIII.22-24; within lines 10364-10546
+  quote_or_summary: Ham’s second portion extends beyond the Gihon south/right of the
+    Garden, to mountains of fire, western seas, Gadir, the great sea, and back along
+    the Gihon to the Garden; it is for Ham and his sons forever.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; supplied passage allowed for use.
+- id: ev:2
+  type: summary
+  locator: CH VIII.25-29; within lines 10364-10546
+  quote_or_summary: Japheth’s third portion extends beyond Tiné northward and northeastward
+    to Gog and other named regions, waters, mountains, five great islands, and a great
+    northern land; it is his inheritance for his sons forever.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; supplied passage allowed for use.
+- id: ev:3
+  type: summary
+  locator: Editorial note on CH VIII.22-24; within lines 10364-10546
+  quote_or_summary: The note identifies Ham’s portion as embracing Africa from the
+    Nile mouths westward and southward, plus vaguely defined parts of Asia, and cites
+    Epiphanius, Syncellus, Chronicles of Jerahmeel, and Josephus.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; supplied passage allowed for use.
+- id: ev:4
+  type: quote
+  locator: Editorial note on CH VIII.22; within lines 10364-10546
+  quote_or_summary: "“Mountains of fire. On certain fiery mountains see Eth. Enoch
+    xviii. 6-9, xxiv. 1-3.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:5
+  type: note
+  locator: Editorial note on CH VIII.22; within lines 10364-10546
+  quote_or_summary: The note says the reading about everything not destroyed or perishable
+    descending is probably corrupt and suggests the sense that anything descending
+    into the sea perishes.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; supplied passage allowed for use.
+- id: ev:6
+  type: summary
+  locator: Editorial note on CH VIII.25-29; within lines 10364-10546
+  quote_or_summary: The note identifies Japheth’s portion as northern Asia, Europe,
+    and five great islands, and cites parallel descriptions in Epiphanius, Syncellus,
+    Josephus, and Chronicles of Jerahmeel.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; supplied passage allowed for use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The territorial allotments and geographic symbols are explicit. Some motif-family
+    mappings, especially cosmic_mountain and world_center, are cautious and require
+    human review because the passage primarily presents geography.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction distinguishes the narrative allotment text from the supplied editorial notes. No figures or comparisons beyond the supplied passage and metadata were added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l10364-l10546
+  passage_sha256=d6384bdcdcd41d1378eb75904bd7a5a8a0bab31da648effc6dfb6c2ac62c2d69
+

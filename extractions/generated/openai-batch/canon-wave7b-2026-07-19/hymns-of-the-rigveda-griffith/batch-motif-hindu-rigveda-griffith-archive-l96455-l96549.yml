@@ -1,0 +1,478 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l96455-l96549
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH M / ADHYAYA 2. / I, 2, 2- / KEM N ,; lines 96455-96549
+  start: '96455'
+  end: '96549'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A ritual passage prescribes mounting toward food, fortune, strength, sap,
+    and proper food; priests sit on grass, vegetation bears fruit, and descent is
+    to occur only after seeing the food and toward the east, where the seed of the
+    gods is said to be born. A following section prescribes beginning the day with
+    the word Aum, relating Aum to brahman, pairing a masculine word with a feminine
+    counterpart for offspring, likening Aum to a wooden shovel that digs up brahman
+    and desires, and making Aum the discriminator of divine and human speech.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ritual participants mount to food and fortune.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Hotrakas sit down with the Brahman on seats of grass.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Plants and trees are described as having grown up and bearing fruit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Mounting all together on this day is associated with mounting on strength,
+    sap, and proper food, and the action is said to win sap and proper food.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage rejects descending before seeing the food and prescribes descent
+    only after seeing the food.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The prescribed descent is toward the east, because the east is said to be
+    where the seed of the gods is born.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A following section says to begin the day by saying the word Aum.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that brahman is in the word Aum and that the day is brahman.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The word Aum is described as masculine, and a feminine counterpart in the
+    hymn is described as making a pair with it for the sake of offspring; children
+    and cattle belong to one who knows this.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The word Aum is compared to a wooden shovel used to dig up brahman and whatever
+    one desires.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The word Aum is described as the discrimination of divine and human speech.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: ritual participants referred to as “they”
+  description: Participants who mount to food and fortune; a translator's note identifies
+    the referent as two officiants, though the OCR of one title is uncertain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Hotrakas
+  description: A named priestly group who sit with the Brahman on seats of grass.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Brahman priest
+  description: The Brahman sits with the Hotrakas on seats of grass.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: unnamed descending priest
+  description: The person addressed by the instruction to descend after seeing the
+    food and then toward the east.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: officiant or knower beginning with Aum
+  description: The person who begins the day with Aum and is described as knowing
+    the ritual correspondences connected with Aum.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: ascending ritual participants
+  assigned_to:
+  - fig:1
+  basis: They mount to food and fortune and, if mounting together, mount on strength,
+    sap, and proper food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: seated ritual priests
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Hotrakas with the Brahman sit down on seats of grass.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: descending ritual priest
+  assigned_to:
+  - fig:4
+  basis: The passage prescribes descent after seeing food and descent toward the east.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: utterer of Aum at the beginning of the day
+  assigned_to:
+  - fig:5
+  basis: The passage says to begin the day by saying the word Aum.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: knower of ritual correspondences
+  assigned_to:
+  - fig:5
+  basis: Benefits and ritual effects are repeatedly attached to one who knows the
+    stated correspondences of Aum, brahman, offspring, desire, and speech.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: grass seats
+  literal_form: seats of grass
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fruit-bearing plants and trees
+  literal_form: plants and trees grown up and bearing fruit
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: food, strength, and sap
+  literal_form: food, fortune, strength, sap, and proper food
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: east and seed of the gods
+  literal_form: east; seed of the gods born in the east
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Aum
+  literal_form: the word Aum
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: brahman
+  literal_form: brahman in Aum and the day as brahman
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:7
+  label: masculine-feminine pair
+  literal_form: Aum as masculine with a feminine counterpart in the hymn; OCR of the
+    counterpart is uncertain
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: wooden shovel simile
+  literal_form: wooden shovel used as a comparison for the word Aum
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: children and cattle
+  literal_form: children and cattle as benefits of knowing the Aum correspondence
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: ritual ascent to nourishment
+  summary: The ritual participants mount to food and fortune; Hotrakas and the Brahman
+    sit on grass seats; vegetation is described as fruit-bearing, and collective mounting
+    is linked with strength, sap, and proper food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: descent after seeing food toward the east
+  summary: Alternative descent timings are rejected, and the correct descent occurs
+    after seeing food and proceeds toward the east, where the seed of the gods is
+    said to be born.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: beginning the day with Aum
+  summary: The officiant is instructed to begin the day by saying Aum; Aum is related
+    to brahman, and the day itself is called brahman.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Aum paired for offspring
+  summary: Aum is treated as masculine and paired with a feminine counterpart at the
+    beginning of the hymn for offspring, with children and cattle promised to one
+    who knows this.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Aum as instrument and speech-discriminator
+  summary: Aum is compared to a wooden shovel that digs up brahman and desires, and
+    it is said to discriminate divine from human speech.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ritual ascent to nourishment and strength
+  taxonomy_refs:
+  - ascent
+  basis: The passage repeatedly describes mounting to food, fortune, strength, sap,
+    and proper food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a technical ritual ascent, not a narrative journey to heaven or
+    a mythic mountain ascent.
+- id: motif:2
+  label: sacrificial order through priestly movement and speech
+  taxonomy_refs:
+  - sacrifice
+  basis: Named priestly groups, grass seats, prescribed ascent/descent, food, and
+    formal utterance of Aum are arranged as ritual actions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is prescriptive ritual commentary rather than a mythic story.
+- id: motif:3
+  label: gendered ritual pairing for offspring
+  taxonomy_refs:
+  - sacred_marriage
+  basis: Aum is described as masculine and paired with a feminine counterpart at the
+    beginning of the hymn for the sake of offspring, with children and cattle attached
+    to knowing this.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The text speaks of a pair and offspring but does not explicitly use marriage
+    language; the pairing appears grammatical and ritual.
+- id: motif:4
+  label: sacred word as effective knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Knowing the correspondences of Aum with brahman, offspring, desire, and divine-human
+    speech produces stated benefits and ritual capacities.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif is extracted from ritual exegesis; it should not be read as
+    a separate narrative of a sage or culture hero.
+- id: motif:5
+  label: eastern orientation as divine generative direction
+  taxonomy_refs: []
+  basis: The passage prescribes descent toward the east because the seed of the gods
+    is born there.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only one directional statement is present; no broader cosmographic system
+    is described in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: A source note cites another Aranyaka passage for beginning the Mahavrata
+    with Aum, suggesting the same ritual function of initial Aum in a nearby ritual-text
+    corpus.
+  claim_level: same_function
+  target: Sankhayana/Sinkhayana Aranyaka II, 1, as named in the note; OCR uncertain
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage provides only a brief 'cf.' note and not the compared
+    passage itself; OCR noise affects the exact spelling and wording.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 96455-96549; ritual ascent and seating section
+  quote_or_summary: "“they ... mount to food and fortune”; “The Hotrakas with the
+    Brahman sit down on seats of grass”; “Plants and trees having grown up bear fruit.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: public domain; supplied passage allows quotation
+- id: ev:2
+  type: quote
+  locator: 96455-96549; ritual ascent interpretation
+  quote_or_summary: "“if they mount all together on this day they mount on strength,
+    on sap, on proper food”; the passage adds that this serves “to win sap” and proper
+    food."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: public domain; supplied passage allows quotation
+- id: ev:3
+  type: summary
+  locator: 96455-96549; descent prescription
+  quote_or_summary: The passage rejects descent before seeing or taking food, prescribes
+    descending only after seeing the food, and says to descend toward the east because
+    the seed of the gods is born there.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:4
+  type: note
+  locator: 96455-96549; translator's note on pronoun
+  quote_or_summary: A translator's note identifies the plural “they” as two officiants
+    and rejects translating it as singular; the OCR of one title is unclear.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: public domain; summarized from supplied note
+- id: ev:5
+  type: quote
+  locator: 96455-96549; Adhyaya 3 opening with Aum
+  quote_or_summary: "“Let him begin this day with saying the word Aum”; “In the word
+    Aum is brahman, this day is brahman.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: public domain; supplied passage allows quotation
+- id: ev:6
+  type: summary
+  locator: 96455-96549; Aum as paired for offspring
+  quote_or_summary: The passage says the word is masculine and a feminine counterpart
+    forms a pair with it at the beginning of the hymn for offspring; children and
+    cattle belong to one who knows this.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:7
+  type: quote
+  locator: 96455-96549; Aum as wooden shovel
+  quote_or_summary: The word Aum is said to be to brahman “like a wooden shovel”;
+    with the word one “digs up brahman” and whatever one desires.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: public domain; supplied passage allows quotation
+- id: ev:8
+  type: quote
+  locator: 96455-96549; Aum and speech
+  quote_or_summary: The word Aum is described as “the discrimination of divine and
+    human speech.”
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: public domain; supplied passage allows quotation
+- id: ev:9
+  type: citation
+  locator: 96455-96549; translator's note near end
+  quote_or_summary: A note compares beginning the Mahavrata with Aum to “Sinkhayana
+    Aranyaka, II, 1” or similar wording; spelling is affected by OCR.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: public domain; summarized from supplied note
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ritual structure and Aum correspondences are clear, but OCR noise and
+    technical Vedic terminology limit confidence in some labels, especially the feminine
+    counterpart paired with Aum and the cited comparison note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The visible passage is an OCR-noisy English translation and commentary segment headed as Aitareya Aranyaka within the supplied source file. Extraction uses only the supplied text and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l96455-l96549
+  passage_sha256=2ece5f1f28ca95be15f9cef8fbb9dba96b4cce04aa152b35dd28b5ce5192baaf
+

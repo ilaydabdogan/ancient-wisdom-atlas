@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l3373-l3404
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: THE   STORY   OF   THE   SUN-CHILD / THE   SUN-CHILD  35 / THE   SUN-CHILD  37
+    / THE  SUN-CHILD  39; lines 3373-3404
+  start: '3373'
+  end: '3404'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The Sun-child is mistaken for the Moon by children in the towns, sails
+    toward Tonga, opens a parcel from his aunt before reaching land, finds a uniquely
+    red pearl shell called Monuia, and is then overwhelmed by sea creatures; his canoe
+    sinks and sharks tear him apart.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Girls and boys in the towns come out of their houses and call the figure the
+    Moon, inviting dancing in the public square.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sun-child hoists his sail and steers away for Tonga.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Sun-child sails over the waters for two nights and a day, and sees land
+    on the morning of the second day.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Before reaching land, the Sun-child opens a parcel that his aunt had given
+    him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Inside the parcel is Monuia, described as an exceedingly beautiful shining
+    red pearl shell unlike local white shells.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A multitude of sea creatures, including whales, sharks, porpoises, dolphins,
+    turtle, and other fish, rush toward the Sun-child to get at Monuia.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The sea creatures leap upon the Sun-child; his canoe sinks, and sharks tear
+    him to pieces.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sun-child
+  description: A self-willed and impatient figure who sails toward Tonga, opens his
+    aunt's parcel, holds Monuia, and is killed after sea creatures rush at it.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Girls and boys in the towns
+  description: Children who run out of houses, call the figure the Moon, and invite
+    dancing in the public square.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Aunt of the Sun-child
+  description: The person who had given the Sun-child the parcel.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sea creatures
+  description: A multitude including whales, sharks, porpoises, dolphins, turtle,
+    and every other kind of fish that rush toward Monuia.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Sharks
+  description: Sea creatures specifically named as tearing the Sun-child to pieces.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: voyager
+  assigned_to:
+  - fig:1
+  basis: He hoists his sail, steers for Tonga, and sails over the waters.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: holder of Monuia
+  assigned_to:
+  - fig:1
+  basis: He unwraps the parcel and holds Monuia in his hand.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: mistaken identifiers
+  assigned_to:
+  - fig:2
+  basis: They call out that the Moon has arrived.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: giver of parcel
+  assigned_to:
+  - fig:3
+  basis: The parcel is said to have been given by the Sun-child's aunt.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: creatures attracted to Monuia
+  assigned_to:
+  - fig:4
+  basis: They swim hastily toward the Sun-child in eagerness to get at Monuia.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: killers of the Sun-child
+  assigned_to:
+  - fig:5
+  basis: The sharks tear the Sun-child to pieces.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Monuia
+  literal_form: A pearl shell, beautiful exceedingly, shining red rather than white.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: waters and waves
+  literal_form: The sea waters over which the Sun-child sails and beneath whose waves
+    the canoe sinks.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: canoe
+  literal_form: The Sun-child's canoe, which sinks beneath the waves after sea creatures
+    leap upon him.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: sail
+  literal_form: The sail hoisted by the Sun-child when he steers away for Tonga.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Mistaken arrival and departure
+  summary: Children in the towns identify the arriving figure as the Moon and invite
+    dancing; the Sun-child hoists sail and heads toward Tonga.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Voyage and opening of the parcel
+  summary: After sailing over the waters and seeing land, the impatient Sun-child
+    opens the parcel from his aunt and finds Monuia.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Sea creatures overwhelm the Sun-child
+  summary: A great multitude of sea creatures rushes toward Monuia, leaps upon the
+    Sun-child, sinks his canoe, and sharks tear him apart.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: voyage over water toward a distant land
+  taxonomy_refs:
+  - departure
+  basis: The Sun-child hoists his sail for Tonga and sails over the waters through
+    the night and following day.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage shows departure and travel but not the full narrative context
+    of the journey.
+- id: motif:2
+  label: impatient unveiling of a powerful or dangerous object
+  taxonomy_refs: []
+  basis: The Sun-child cannot wait after seeing land, opens the aunt's parcel, and
+    exposes Monuia shortly before the destructive rush of sea creatures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state that opening the parcel was forbidden;
+    the danger is inferred from the immediate narrative sequence.
+- id: motif:3
+  label: precious red shell attracting destructive sea beings
+  taxonomy_refs: []
+  basis: Monuia is a uniquely red pearl shell; many sea creatures rush toward the
+    Sun-child to get at it, causing his canoe to sink and his death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-specific motif label rather than a mapped taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3373-3380
+  quote_or_summary: Girls and boys run from houses, call out that the Moon has come,
+    invite dancing in the public square, and the Sun-child hoists sail for Tonga.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3381-3389
+  quote_or_summary: The Sun-child sails over the waters for two nights and a day,
+    sees land, cannot wait, and opens the parcel his aunt gave him.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3389-3397
+  quote_or_summary: The opened parcel contains Monuia, an exceedingly beautiful pearl
+    shell, shining red rather than white, and the Sun-child imagines wearing it around
+    his neck.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3397-3402
+  quote_or_summary: The Sun-child hears rushing and splashing; whales, sharks, porpoises,
+    dolphins, turtle, and other fish swim hastily toward him, eager to get at Monuia.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3402-3404
+  quote_or_summary: The sea creatures leap upon him, his canoe sinks beneath the waves,
+    and sharks tear him to pieces, ending the Sun-child.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal entities and actions are clear in the passage. Motif labels are cautious
+    because the excerpt provides limited prior context for the aunt's parcel and any
+    rules attached to it. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; available taxonomy references applied only where directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l3373-l3404
+  passage_sha256=bbc586ff6c9b4cf379af8d4d72638b2730bd27035bd8d235a384aa214ad11182
+

@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l35677-l35840
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BULLETIN  61     PLATE  79 / STICKS  USED  IN  BEGGING / BEOOING   DANCE
+    / PLOTS   OF   GRASS-DANCE    SONOS; lines 35677-35840
+  start: '35677'
+  end: '35840'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives musical analyses for several recorded songs, chiefly
+    Songs No. 207-211 of the Moccasin Game. It names Gray Hawk and Two Shields as
+    singers, notes drum and voice tempos, repeated renditions, rhythmic units, rests,
+    scales, intervals, accents, and one taunting wrong-guess lyric.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An opening song analysis reports three recorded renditions without a break
+    in time, with the drum slightly faster than the voice, a rhythmic unit occurring
+    three times, all tones of the octave present, and two rests.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Song No. 207 is identified as a Song of the Moccasin Game and is sung by Gray
+    Hawk.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Song No. 207 begins and ends on the same tone, had five recorded renditions,
+    maintained a peculiar rhythm, and contains a rhythmic unit appearing three times.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Song No. 208 is identified as a Song of the Moccasin Game sung by Gray Hawk,
+    and its notated words are glossed as saying that the addressee's signal is wrong
+    or that the addressee guessed wrong.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The analysis of Song No. 208 describes the melody as simple and taunting,
+    and says it resembles Song No. 211 in brevity, six-tone range, and tone material.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Song No. 209 was recorded by Gray Hawk on two occasions, accidentally duplicating
+    the recording; the two renditions are described as identical, including pitch.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Song No. 209 contains tones of the minor triad and fourth, has a compass of
+    an octave, is rhythmic, and has drum time slightly faster than voice time.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Song No. 210 is characterized by sharply accented tones, and eight renditions
+    were recorded without a break in time with the accents given as indicated.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Song No. 210 uses only the major triad and sixth, has a compass of seven tones,
+    and its final tone is preceded by a lower tone; the passage also notes a broader
+    Chippewa and Sioux tendency for the final tone to be the lowest tone in the song.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Song No. 211 is sung by Two Shields; its drum rhythm was not steadily maintained,
+    but the song is described as very rhythmic and typical of songs sung during a
+    moccasin game.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Song No. 211 has a continuous rhythmic unit, was repeated several times without
+    a break in tempo, and its latter part includes a descending fourth followed by
+    ascent of a whole tone.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Gray Hawk
+  description: Named singer of several Songs of the Moccasin Game in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Two Shields
+  description: Named singer of Song No. 211, a Song of the Moccasin Game.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Singer of moccasin game songs
+  assigned_to:
+  - fig:1
+  basis: The passage states that Songs No. 207, 208, and 209 of the Moccasin Game
+    are sung by Gray Hawk, and also lists Gray Hawk with Song No. 210.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: Singer of a moccasin game song
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Two Shields as the singer of Song No. 211, a Song
+    of the Moccasin Game.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Drum
+  literal_form: Drum tempo or drum rhythm accompanying the recorded songs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Moccasin game
+  literal_form: Named game context in the song titles and in the analysis of Song
+    No. 211.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: Wrong-guess signal
+  literal_form: A sung line in Song No. 208 glossed as 'your signal' and 'you guessed
+    wrong.'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Opening musical analysis
+  summary: A preceding song is analyzed in terms of repeated renditions, drum-and-voice
+    tempo relation, rhythmic unit, octave tones, interval variety, and rests.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gray Hawk's moccasin game songs
+  summary: Songs No. 207-210 are presented with Gray Hawk as singer or recorder, and
+    are analyzed for repeated renditions, rhythm, tone material, accents, compass,
+    and the taunting wrong-guess text in Song No. 208.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Two Shields's moccasin game song
+  summary: Song No. 211 is presented with Two Shields as singer; it is described as
+    typical of moccasin game songs, rhythmically continuous, repeated without tempo
+    break, and marked by specific melodic motions.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Moccasin game song performance
+  taxonomy_refs: []
+  basis: The passage identifies multiple numbered pieces as Songs of the Moccasin
+    Game, and Song No. 211 is explicitly described as typical of songs sung during
+    a moccasin game.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a performance or musical-pattern motif, not a narrative myth motif
+    in the supplied passage.
+- id: motif:2
+  label: Taunting wrong-guess refrain
+  taxonomy_refs: []
+  basis: Song No. 208 includes words glossed as indicating the addressee's signal
+    or guess is wrong, and the analysis describes the melody as having a taunting
+    sound.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Only one brief lyric fragment is provided; the passage does not explain
+    the full game action or ritual meaning.
+- id: motif:3
+  label: Unbroken repeated renditions with rhythmic units
+  taxonomy_refs: []
+  basis: Several analyses emphasize multiple renditions without a break, maintained
+    or continuous rhythmic units, and repeated rhythmic figures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The evidence supports a technical musical pattern; no symbolic or mythological
+    interpretation is stated in the passage.
+comparison_claims:
+- id: claim:1
+  claim: 'Song No. 208 is explicitly compared with Song No. 211: it is said to resemble
+    No. 211 in brevity, six-tone range, and tone material; both are in the moccasin
+    game song context.'
+  claim_level: same_function
+  target: Song No. 211 in the same Teton Sioux Music series
+  evidence_refs:
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is musical and functional within the same documented
+    corpus; it does not establish a broader historical-contact claim or a shared narrative
+    myth motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 35677-35688; opening analysis before Song No. 207
+  quote_or_summary: Three recorded renditions occurred without a break; the drum was
+    slightly faster than the voice; the rhythmic unit occurs three times; all tones
+    of the octave are present; the song contains two rests.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 35690-35720; Song No. 207, Song of the Moccasin Game (b)
+  quote_or_summary: Song No. 207 is a Song of the Moccasin Game sung by Gray Hawk.
+    It begins and ends on the same tone; five renditions were recorded; a peculiar
+    rhythm was maintained; the song contains tones of the minor triad and fourth and
+    a rhythmic unit appearing three times.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 35721-35758; Song No. 208, Song of the Moccasin Game (c)
+  quote_or_summary: Song No. 208 is sung by Gray Hawk. The words are glossed as 'it
+    is wrong' and 'your signal ("you guessed wrong")'; the analysis says the melody
+    has a 'taunting sound' and resembles Song No. 211 in brevity, six-tone range,
+    and tone material.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:4
+  type: summary
+  locator: lines 35759-35782; Song No. 209, Song of the Moccasin Game (d)
+  quote_or_summary: Song No. 209 is sung by Gray Hawk and was recorded on two occasions
+    by accidental duplication; the two renditions are identical, including pitch.
+    It contains tones of the minor triad and fourth, has an octave compass, is rhythmic,
+    and has drum time slightly faster than voice time.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 35783-35812; Song No. 210, Song of the Moccasin Game (e)
+  quote_or_summary: Song No. 210 is associated with Gray Hawk. Sharply accented tones
+    characterize it; eight renditions were recorded without a break; the major triad
+    and sixth are the only melody tones; the compass is seven tones; the final tone
+    is preceded by a lower tone. The passage compares this with a broader Chippewa
+    and Sioux pattern in which the final tone is usually the lowest.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 35813-35840; Song No. 211, Song of the Moccasin Game (f)
+  quote_or_summary: Song No. 211 is sung by Two Shields. Its drum rhythm was not steadily
+    maintained, but it is very rhythmic and typical of songs sung during a moccasin
+    game. The rhythmic unit is continuous; the song was repeated several times without
+    a break in tempo; its latter part has a descending fourth followed by whole-tone
+    ascent; it uses the second five-toned scale and has a six-tone compass.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is technical musical analysis rather than mythic narrative. Extracted
+    motifs are therefore performance and musical-pattern candidates, with no available
+    taxonomy motif family assigned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No listed taxonomy symbol or motif-family reference is directly supported by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l35677-l35840
+  passage_sha256=59eb991045fe7cb6392e4dce19a8a6024a1e271aeff488ea152b404b060acfb8
+

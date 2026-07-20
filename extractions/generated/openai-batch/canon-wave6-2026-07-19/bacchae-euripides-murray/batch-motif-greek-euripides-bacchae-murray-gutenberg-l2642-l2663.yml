@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2642-l2663
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: AGAVE. / CADMUS. / CADMUS. / AGAVE.; lines 2642-2663
+  start: '2642'
+  end: '2663'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Cadmus laments grief, a bloodstained hand, the sisters, and a sacrifice
+    before God's altars; he says all are lost, not wrongfully, from Bromios. Agave
+    speaks of old age, hunting, her son, God's will, and asks for her son to be brought
+    so she can show him her prize.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cadmus laments grief and refers to a bloodstained hand.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cadmus addresses or mentions sisters and describes a sacrifice before God's
+    altars with a feast.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Cadmus says he will weep for Agave's affliction and for his own.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Cadmus says all are lost, not wrongfully, and links the loss to Bromios.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Agave remarks on old age and wishes her son were happy in hunting with warrior
+    bands against a wild beast.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Agave says her son's valiance is to fight with God's will and asks that he
+    be brought so she can look at him and show him her prize.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Cadmus
+  description: Speaker who laments grief, addresses a daughter, and names Bromios.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Agave
+  description: Speaker addressed as daughter by Cadmus; associated with a bloodstained
+    hand, affliction, a son, hunting language, and a prize.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Bromios
+  description: Named by Cadmus as 'our Bromios' in connection with the loss.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Agave's son
+  description: Unnamed son whom Agave wishes to see and to have guided toward fighting
+    with God's will.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: sisters
+  description: A group addressed or mentioned by Cadmus as 'Poor sisters.'
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: lamenting father or elder
+  assigned_to:
+  - fig:1
+  basis: Cadmus addresses 'daughter' and says he will weep for her affliction and
+    his own.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: afflicted daughter with bloodstained hand
+  assigned_to:
+  - fig:2
+  basis: Cadmus addresses a daughter and describes affliction and a bloodstained hand
+    in the same lament.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: mother speaking of her son
+  assigned_to:
+  - fig:2
+  basis: Agave refers to 'my son' and asks that he be brought to her.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine figure associated with loss
+  assigned_to:
+  - fig:3
+  basis: Cadmus says all are lost, not wrongfully, from Bromios.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: absent son sought by mother
+  assigned_to:
+  - fig:4
+  basis: Agave asks that her son be brought so she may see him and show him the prize.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: lamented sisters
+  assigned_to:
+  - fig:5
+  basis: Cadmus calls out 'Poor sisters' during the lament.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: bloodstained hand
+  literal_form: A hand described as bloodstained in Cadmus's lament.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: God's altars and sacrifice
+  literal_form: A sacrifice imagined or described as standing before God's altars
+    with a feast.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hunting prize
+  literal_form: A prize that Agave wants to show to her son.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wild beast
+  literal_form: A wild beast named as the object of hunting with warrior bands.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cadmus laments bloodshed and divine loss
+  summary: Cadmus laments a bloodstained hand, the sisters, a sacrifice before God's
+    altars, and the ruin of all from Bromios.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Agave asks to show her hunting prize
+  summary: Agave speaks of hunting, her son, God's will, and asks for her son to be
+    brought so she may show him her prize.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sacrifice before divine altars
+  taxonomy_refs:
+  - sacrifice
+  basis: Cadmus explicitly describes a sacrifice before God's altars and a feast.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the sacrificial language in lament; it does not fully
+    explain the ritual context within this excerpt.
+- id: motif:2
+  label: divine judgment through ruin
+  taxonomy_refs:
+  - divine_judgment
+  basis: Cadmus says all are lost, not wrongfully, and associates the loss with Bromios.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The word 'judgment' is not used; the motif is inferred from the claim
+    that the loss is not wrongful and is linked to a divine figure.
+- id: motif:3
+  label: bloodied hunter displaying a prize
+  taxonomy_refs: []
+  basis: Agave speaks in hunting terms and asks for her son to be brought so she can
+    show him her prize, while Cadmus has just referred to a bloodstained hand.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not identify the prize or the hunted beast within this
+    excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2644-2648
+  quote_or_summary: Cadmus laments the depth of grief, a bloodstained hand, poor sisters,
+    and a sacrifice before God's altars with a feast.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2649-2652
+  quote_or_summary: Cadmus says he will weep for the daughter's affliction and his
+    own, that all are lost, not wrongfully, from Bromios.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2656-2663
+  quote_or_summary: Agave comments on old age, wishes her son happy in hunting, refers
+    to warrior bands and a wild beast, says his valiance should fight with God's will,
+    and asks that he be brought to see her prize.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied excerpt. Motif candidates are based
+    on explicit sacrificial, divine-loss, and hunting-prize language; no external
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include the passage's explicit images of altar, bloodstained hand, prize, or wild beast.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2642-l2663
+  passage_sha256=0bb9c6a7cca6f2ca26772ac3ee265528f6c088b8b4bf1304072162a4cfb6d6f5
+

@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l5227-l5239
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION XX / SECTION XXI / SECTION XXII / SECTION XXIII; lines 5227-5239
+  start: '5227'
+  end: '5239'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker states that false religious pretenses and improper ritual distribution
+    of food at Sraddhas bring sin. Yudhishthira asks his grandsire to explain to whom
+    offerings dedicated to deities and Pitris should be given to obtain the greatest
+    rewards.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who lives on wealth obtained through false religious pretenses is
+    said to incur the sin of falsehood.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person who solicits wealth while pretending it will be spent on religious
+    acts is said to incur the sin of uttering a falsehood.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A member of the three higher orders who distributes food with Mantras at Sraddhas
+    or similar occasions to Brahmanas lacking Vedic study, vows, or purified conduct
+    is said to incur sin.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yudhishthira asks his grandsire to identify the recipients of things dedicated
+    to the deities and the Pitris that bring the amplest rewards.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who asks his grandsire about proper recipients of offerings
+    dedicated to deities and Pitris.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: the grandsire
+  description: Person addressed by Yudhishthira as the one from whom he desires knowledge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: unqualified Brahmanas
+  description: Brahmanas described as not studying the Vedas, not observant of vows,
+    or not having purified conduct.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: deities and Pitris
+  description: Beings to whom things are dedicated in Yudhishthira's question.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual-ethical inquirer
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira says he desires to know the proper recipients of things dedicated
+    to deities and Pitris.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: addressed source of instruction
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira addresses the grandsire while asking for knowledge.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: improper ritual recipients
+  assigned_to:
+  - fig:3
+  basis: The passage says sin is incurred by distributing ritual food to Brahmanas
+    lacking the stated qualifications.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: dedicatees of offerings
+  assigned_to:
+  - fig:4
+  basis: Yudhishthira refers to things dedicated to the deities and the Pitris.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wealth obtained under false pretenses
+  literal_form: wealth gained by pretending religious purpose or pilgrimage-like sojourns
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sraddha food distributed with Mantras
+  literal_form: food distributed at Sraddhas and other occasions with the aid of Mantras
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dedicated offerings
+  literal_form: things dedicated to the deities and the Pitris
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Warning against false religious solicitation
+  summary: The passage states that obtaining or soliciting wealth through false claims
+    of religious purpose results in the sin of falsehood.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning about improper Sraddha recipients
+  summary: The passage states that distributing food with Mantras at Sraddhas to Brahmanas
+    who lack Vedic study, vows, or purified conduct causes sin.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Question about recipients of dedicated offerings
+  summary: Yudhishthira asks his grandsire to explain to whom offerings dedicated
+    to deities and Pitris should be given for the greatest rewards.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: proper sacred exchange through qualified giving
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage contrasts sinful misuse of religious giving with Yudhishthira's
+    question about giving dedicated things to the right recipients for rewards.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt gives ethical rules and a question; the answer identifying
+    proper recipients is not included.
+- id: motif:2
+  label: ritual food offering and recipient purity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage refers to Sraddhas, Mantras, food distribution, deities, Pitris,
+    and qualifications for ritual recipients.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage concerns ritual distribution and dedication rather than a
+    full sacrificial narrative.
+- id: motif:3
+  label: religious falsehood as sin
+  taxonomy_refs: []
+  basis: The passage says that wealth obtained or solicited under false religious
+    pretenses brings the sin of uttering a falsehood.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this ethical motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5227-5231
+  quote_or_summary: '"wealth obtained under false pretences" and solicitation while
+    pretending it would be spent in religious acts incur "the sin of uttering a falsehood."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 5231-5237
+  quote_or_summary: The passage says that a person of the three higher orders incurs
+    sin by distributing food with Mantras at Sraddhas or other occasions to Brahmanas
+    who do not study the Vedas, observe vows, or purify their conduct.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 5238-5239
+  quote_or_summary: Yudhishthira says, "I desire, O grandsire, to know" by giving
+    to whom things dedicated to deities and Pitris one earns "the amplest rewards."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal ethical and ritual content is clear. Motif assignment is cautious
+    because the passage is a brief doctrinal exchange and the answer to Yudhishthira's
+    question is not included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt itself does not support a specific cross-textual comparison beyond candidate taxonomy mapping.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l5227-l5239
+  passage_sha256=50f4c73eb4cb06ec14bc84c262b1985c1ec5c25af4ccd9ebbfe1d070f30d636d
+

@@ -1,0 +1,536 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l25068-l25215
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: II. A CERTIFICATE OF ADOPTION1 / IV. THE CODE OF HAMMURAPI / LITERATURE /
+    PROLOGUE1; lines 25068-25215
+  start: '25068'
+  end: '25215'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A passage from the Code of Hammurapi giving legal rules for craft and
+    transport liability: defective building work that causes collapse, death, or property
+    loss; boat construction and boatman negligence; compensation for grounded or lost
+    ships and freight; ship collision with a declaration before the god; annual boatman
+    hire; and an opening rule on an ox seized for debt. The passage also contains
+    untranslated Akkadian transliteration for preceding clauses on animals, barbers,
+    and building fees.'
+  language: English with Akkadian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A builder whose defective house falls and causes the owner’s death is to be
+    put to death.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If a defective house causes the death of the owner’s son, a son of the builder
+    is to be put to death.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If a defective house causes the death of the owner’s slave, the builder must
+    give the owner slave for slave.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If a defective house causes property loss, the builder must restore what was
+    lost and rebuild the fallen house at his own expense.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: If a wall falls because the builder did not complete or join his work properly,
+    the builder must make good the wall at his own cost.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A boatman who builds a boat of 60 GUR receives two shekels of silver as a
+    fee.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A boatman who builds an untrustworthy boat that is injured in the same year
+    must exchange it or strengthen it at his own expense and give a strong ship to
+    the owner.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A boatman who carelessly grounds or loses a hired ship must render ship for
+    ship to the owner.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A hired boatman and ship loaded with freight are subject to restitution if
+    the boatman carelessly grounds the ship or loses what is in it.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: If a boatman grounds and refloats a man’s ship, he must pay money equal to
+    half its price.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: In a collision where an upstream ship sinks a downstream ship, the owner of
+    the sunk ship declares the loss before the god, and the upstream ship owner must
+    restore the ship and lost goods.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: A hired boatman receives six GUR of corn per year.
+  category: relationship
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The passage ends with the beginning of a rule that a man who has seized an
+    ox for debt pays one third of a mina of silver.
+  category: sequence
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: builder
+  description: Craftsperson who builds a house or wall and is liable for defective
+    work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: owner of the house
+  description: Owner harmed by collapse of a house built for him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: son of the owner of the house
+  description: Dependent whose death triggers the penalty involving a son of the builder.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: son of the builder
+  description: Dependent named as the person to be put to death if the house collapse
+    kills the owner’s son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: slave of the owner of the house
+  description: Dependent whose death requires the builder to give slave for slave.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: boatman
+  description: Craftsperson or hired operator who builds, repairs, grounds, loses,
+    or refloats boats and ships.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:12
+- id: fig:7
+  name_or_label: owner of the ship
+  description: Person whose ship or freight is damaged, lost, grounded, or sunk and
+    who receives restitution.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:11
+- id: fig:8
+  name_or_label: god
+  description: Divine figure before whom the owner of the sunk ship makes a declaration
+    of loss.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:11
+- id: fig:9
+  name_or_label: man who seizes an ox for debt
+  description: Person named at the beginning of the debt-related ox rule.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:13
+roles:
+- id: role:1
+  label: liable craftsperson or operator
+  assigned_to:
+  - fig:1
+  - fig:6
+  basis: The builder and boatman are required to suffer penalties, repair defects,
+    exchange damaged vessels, or restore losses when their work or carelessness causes
+    harm.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:2
+  label: injured owner or restitution recipient
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: The owner of a house or ship receives compensation, rebuilding, replacement,
+    or restoration after loss.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:11
+- id: role:3
+  label: dependent whose death determines compensation
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The son and slave of the house owner are named in rules where their death
+    determines the form of penalty or substitution.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: substitutionary penalty recipient
+  assigned_to:
+  - fig:4
+  basis: A son of the builder is put to death when a house collapse kills the owner’s
+    son.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine witness to declaration
+  assigned_to:
+  - fig:8
+  basis: The owner of the sunk ship is to make a declaration before the god concerning
+    losses.
+  evidence_refs:
+  - ev:11
+- id: role:6
+  label: debtor-creditor actor
+  assigned_to:
+  - fig:9
+  basis: The final clause names a man who seizes an ox for debt and must pay a specified
+    amount.
+  evidence_refs:
+  - ev:13
+symbols:
+- id: sym:1
+  label: fallen house
+  literal_form: house that falls because the builder did not make it strong
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: fallen wall
+  literal_form: wall that has fallen because work was not properly joined or completed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: boat or ship
+  literal_form: boat or ship built, hired, grounded, refloated, sunk, exchanged, or
+    restored
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: sym:4
+  label: freight goods
+  literal_form: grain, wool, oil, dates, and other freight loaded into a ship
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: declaration before the god
+  literal_form: legal declaration made before the god concerning lost contents of
+    the ship
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: ox seized for debt
+  literal_form: ox seized for debt in the opening of section 241
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+scenes:
+- id: scene:1
+  label: House collapse and builder liability
+  summary: A defective house or wall built for a man falls; depending on the result,
+    the builder is put to death, loses a son, replaces a slave, restores property,
+    rebuilds the house, or repairs the wall at his own expense.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Boat construction and boatman negligence
+  summary: Boatmen receive stated fees or wages, but if a boat is untrustworthy, grounded,
+    lost, or causes freight loss, the boatman must strengthen, exchange, restore,
+    or compensate for the ship and goods.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:12
+- id: scene:3
+  label: Ship collision and declaration before the god
+  summary: An upstream ship strikes and sinks a downstream ship; the owner of the
+    sunk ship declares the loss before the god, and the owner of the upstream ship
+    must restore the sunk ship and losses.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:11
+- id: scene:4
+  label: Ox seized for debt
+  summary: The passage closes with the start of a rule requiring payment when a man
+    seizes an ox for debt.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: Equivalent restitution for caused loss
+  taxonomy_refs: []
+  basis: 'Multiple rules require replacement or restoration in equivalent form: slave
+    for slave, ship for ship, replacement of lost freight, and rebuilding or repairing
+    damaged structures at the responsible party’s expense.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  - ev:11
+  confidence: high
+  cautions: This is a legal pattern in a law code, not a mythic narrative motif; no
+    supplied taxonomy family directly matches it.
+- id: motif:2
+  label: Substitutionary penalty by kin or status equivalent
+  taxonomy_refs: []
+  basis: When a collapse kills the owner’s son, a son of the builder is put to death;
+    when it kills the owner’s slave, the builder gives slave for slave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents legal penalties rather than a developed symbolic
+    or mythological narrative.
+- id: motif:3
+  label: Divine witness in legal declaration
+  taxonomy_refs:
+  - divine_judgment
+  basis: In the ship collision rule, the owner of the sunk ship declares the lost
+    goods before the god before restitution is made.
+  evidence_refs:
+  - ev:11
+  confidence: medium
+  cautions: The passage names a declaration before the god, but it does not describe
+    an oracle, trial by ordeal, or explicit divine verdict; the taxonomy link to divine
+    judgment is therefore cautious.
+- id: motif:4
+  label: Negligent craftsperson must make the work strong
+  taxonomy_refs: []
+  basis: The builder must rebuild or repair defective structures, and the boatman
+    who made an untrustworthy boat must exchange or strengthen it at his own expense.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is a recurring legal-liability pattern within the passage, not a
+    broader mythic symbol unless compared by a human reviewer.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 25068-25215; §229
+  quote_or_summary: "“fallen and have caused the death of the owner of that house,
+    that builder shall be put to death.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 25068-25215; §230
+  quote_or_summary: "“If he have caused the death of a son of the owner of the house,
+    they shall put to death a son of that builder.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 25068-25215; §231
+  quote_or_summary: "“If he have caused the death of a slave of the owner of the house,
+    he shall give to the owner of the house slave for slave.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 25068-25215; §232
+  quote_or_summary: If the builder causes property loss because the house was not
+    made strong and fell, he restores what was lost and rebuilds the fallen house
+    from his own goods.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 25068-25215; §233
+  quote_or_summary: If a builder’s work on a house is not properly joined and a wall
+    falls, the builder must make that wall good at his own cost.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 25068-25215; §234
+  quote_or_summary: A boatman who builds a 60 GUR boat for a man is to receive two
+    shekels of silver as his fee.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 25068-25215; §235
+  quote_or_summary: If a boatman builds a boat and has not made the work trustworthy,
+    and the boat is injured in the same year, he must exchange it or make it strong
+    at his own expense and give a strong ship to the owner.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 25068-25215; §236
+  quote_or_summary: If a man gives his ship to a boatman for hire and the boatman
+    carelessly grounds or loses it, the boatman renders ship for ship to the owner.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 25068-25215; §237
+  quote_or_summary: If a hired boatman and ship carry grain, wool, oil, dates, or
+    other freight, and the boatman carelessly grounds the ship or loses what is in
+    it, he restores the ship and whatever he lost from it.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 25068-25215; §238
+  quote_or_summary: If a boatman grounds a man’s ship and refloats it, he pays money
+    equal to half its price.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: lines 25068-25215; §240
+  quote_or_summary: "“the owner of the ship whose ship was sunk shall make a declaration
+    before the god, of whatever he has lost in the ship,” and the upstream ship owner
+    restores the ship and losses."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:12
+  type: summary
+  locator: lines 25068-25215; §239
+  quote_or_summary: If a man hires a boatman, he gives him six GUR of corn per year.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:13
+  type: quote
+  locator: lines 25068-25215; §241
+  quote_or_summary: "“If a man have seized an ox for debt, he shall pay one third
+    of a mina of silver.”"
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The English legal provisions from §§229-241 are clear. Earlier clauses in
+    the supplied range are partly Akkadian transliteration and OCR-noisy, so they
+    are only mentioned generally in the canonical summary and not developed into observations
+    or motifs. Motif candidates are legal patterns rather than mythological narratives.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support cross-tradition comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l25068-l25215
+  passage_sha256=8626d24ebc0179aa609ccfb19e5529061e92f829bd8ecafc9b2280fa0a3988c8
+

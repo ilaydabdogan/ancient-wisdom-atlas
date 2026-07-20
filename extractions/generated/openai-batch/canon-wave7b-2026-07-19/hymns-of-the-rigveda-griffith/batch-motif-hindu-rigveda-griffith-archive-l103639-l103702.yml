@@ -1,0 +1,418 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l103639-l103702
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ARANYAKA IV / ARANYAKA V / ADHYAYA 2. / KRULE U; lines 103639-103702
+  start: '103639'
+  end: '103702'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives prescriptive rules about learning and remembering a specified
+    teaching, includes named opinions from Jatikarnya, Galava, and Agnivesyayana,
+    states that not studying it prevents one from becoming a sadfaka, restricts social
+    interaction between knowers and non-knowers, and introduces rules suspending Vedic
+    study under certain natural and temporal conditions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jatikarnya says the learner should not finish learning this in one day.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Galava says, in response, that the learner should do so.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Agnivesyayana says the learner should finish all before the sets of eighty
+    tristichs, then rest in another place and learn the rest.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Where the learner learns this, he should learn nothing else; where he learns
+    something else, he may also learn this there if he wishes.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A person who does not study this is said not to become a sadfaka, even if
+    he studies much else.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says the learner should not forget this and that, if he does not
+    forget it, it is enough for himself.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: One who knows this should not communicate, dine, or amuse himself with one
+    who does not know this.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A new section introduces rules of study.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The learner should not study when old water about the roots of trees has dried
+    up, in the forenoon when shadows meet, in the afternoon, or when a thick cloud
+    has risen.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: When rain falls out of season, the learner should stop study of the Veda for
+    three nights.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: During this time, the learner should not tell tales.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: A note says these are general rules for all Vedic study and that such rules
+    are found in Grhya and Dharma Sutras.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Jatikarnya
+  description: Named speaker who says the learner should not finish learning this
+    in one day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Galava
+  description: Named speaker who says the learner should do so in response to the
+    one-day learning question.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Agnivesyayana
+  description: Named speaker who prescribes finishing before sets of eighty tristichs
+    and learning the rest elsewhere after resting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Learner or student
+  description: Unnamed person addressed by rules to learn, study, remember, avoid
+    other study in a specified place, and suspend study under stated conditions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: One who knows this
+  description: Person described as knowing this and instructed to avoid communication,
+    dining, and amusement with one who does not know this.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: One who knows this not
+  description: Person described as not knowing this, with whom the knower should not
+    communicate, dine, or amuse himself.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named study-rule authority
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Each named figure is cited as giving an opinion or prescription about how
+    the learning should be completed.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prescribed learner
+  assigned_to:
+  - fig:4
+  basis: The repeated unnamed subject is commanded to learn, study, remember, and
+    suspend study according to the passage's rules.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: qualified knower
+  assigned_to:
+  - fig:5
+  basis: The person who knows this is given a social restriction concerning those
+    who do not know it.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: excluded non-knower
+  assigned_to:
+  - fig:6
+  basis: The person who does not know this is the one from whom the knower is told
+    to refrain from communication, dining, and amusement.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: the teaching referred to as this
+  literal_form: An unspecified body of learning repeatedly referred to as “this” and
+    to be learned, studied, remembered, and known.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: water and rain
+  literal_form: Old water about tree roots, and rain that falls out of season.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: tree roots
+  literal_form: Roots of trees around which old water has dried up.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: meeting shadows
+  literal_form: The forenoon condition when shadows meet.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: thick cloud
+  literal_form: A thick cloud that has risen.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: three nights
+  literal_form: A three-night pause in Veda study after rain falls out of season.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: sets of eighty tristichs
+  literal_form: Sets of eighty tristichs before which the learning should be finished
+    according to Agnivesyayana.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Named authorities debate completion of learning
+  summary: Jatikarnya, Galava, and Agnivesyayana give differing prescriptions about
+    whether and how quickly the learner should finish learning the specified material,
+    including reference to sets of eighty tristichs and learning the rest elsewhere.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Obligation to study and remember, with boundary around knowers
+  summary: The passage states that failure to study this prevents one from becoming
+    a sadfaka, emphasizes that it should not be forgotten, and says that one who knows
+    this should avoid communication, dining, and amusement with one who does not know
+    it.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Suspension of Vedic study under natural and temporal conditions
+  summary: Rules of study prohibit study when water about tree roots is dried, when
+    shadows meet in the forenoon, in the afternoon, when a thick cloud has risen,
+    and for three nights after unseasonable rain; during the suspension, tales should
+    not be told.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Essential guarded knowledge for practitioner status
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says that one who does not study this does not become a sadfaka,
+    even if he studies much else, and repeatedly stresses that this teaching should
+    not be forgotten.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The content of the teaching referred to as “this” is not specified in
+    the supplied passage; the passage is prescriptive rather than narrative.
+- id: motif:2
+  label: Boundary between knower and non-knower
+  taxonomy_refs:
+  - wisdom
+  - initiation
+  basis: The passage distinguishes one who knows this from one who does not know it
+    and forbids the knower to communicate, dine, or amuse himself with the non-knower.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No explicit initiation rite is described; the initiation taxonomy is only
+    a cautious fit for a knowledge-based social boundary.
+- id: motif:3
+  label: Ritual suspension of sacred study under natural signs
+  taxonomy_refs: []
+  basis: Study of the Veda is prohibited or suspended under conditions involving dried
+    water at tree roots, meeting shadows, afternoon, thick cloud, and unseasonable
+    rain; the unseasonable rain requires a three-night suspension.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage treats these as rules of study, not as a mythic narrative
+    about the natural phenomena themselves.
+comparison_claims:
+- id: claim:1
+  claim: The note presents these study restrictions as part of a broader Vedic study-rule
+    pattern also found in Grhya and Dharma Sutra materials.
+  claim_level: same_function
+  target: Grhya and Dharma Sutra rules for Vedic study, including the texts named
+    in the note such as Khadira, Sankhayana, Gobhila, Apastamba, and Gautama.
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides a bibliographic/editorial comparison rather than
+    quoting the parallel rules; the exact degree of motif similarity cannot be assessed
+    from the supplied excerpt alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 103639-103646
+  quote_or_summary: 'Named opinions are given: Jatikarnya says not to finish learning
+    this in one day; Galava says the learner should do so; Agnivesyayana prescribes
+    finishing before sets of eighty tristichs and learning the rest elsewhere after
+    resting. The passage also restricts learning anything else at the place where
+    this is learned.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 103646-103650
+  quote_or_summary: The passage says that one who does not study this does not become
+    a sadfaka, even if he studies much else, and that this should not be forgotten.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 103650-103652
+  quote_or_summary: One who knows this should not communicate, dine, or amuse himself
+    with one who does not know this.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: line 103653
+  quote_or_summary: The passage introduces a section on rules of study.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 103680-103685
+  quote_or_summary: Study is prohibited when old water about tree roots is dried up,
+    when forenoon shadows meet, in the afternoon, and when a thick cloud has risen;
+    when rain falls out of season, Vedic study stops for three nights.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 103684-103686
+  quote_or_summary: During the stated time of suspension, the learner should not tell
+    tales.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 103686-103702
+  quote_or_summary: An editorial note says the rules that follow are general rules
+    for all Vedic study and that such rules are found in Grhya and Dharma Sutras,
+    with several cited examples.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main prescriptions are clear, but the supplied range begins mid-context
+    and includes OCR-like spellings and embedded notes. Motif assignments are cautious
+    because the passage is primarily prescriptive study instruction rather than mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy refs. All interpretations are separated from literal observations.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l103639-l103702
+  passage_sha256=c3d2e18c5d07cb88b3a4336774589727debd3de8594c2dbd092279adce363124
+

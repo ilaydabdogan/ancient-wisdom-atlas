@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l19725-l19790
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    ESKIMO    ABOUT    BERING    STRAIT / MORTUARY    CUSTOMS MEMORIAL    IMAGES
+    / MEMORIAL    BOARDS SHADES / THE    ESKIMO    ABOUT    BERING    STRAIT; lines
+    19725-19790
+  start: '19725'
+  end: '19790'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: returning to life with much stronger powers
+  summary: The passage describes several burial forms around Norton Sound, Cape Nome,
+    Sledge Island, and East Cape. It highlights a cone-shaped driftwood enclosure
+    holding the suspended boxed remains of a shaman who had himself burned alive expecting
+    to return to life with greater powers, and a raised Cape Nome burial box said
+    to contain a shaman who could breathe fire.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Along the shore of Norton Sound, several summer fishing camps had rude graves
+    made with slight drift-log enclosures and drift-log coverings.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One Norton Sound grave was a cone-shaped driftwood enclosure with a long pole
+    projecting from the top and a wooden box containing a shaman's remains suspended
+    by cords inside it.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The shaman in the cone structure was reported to have caused himself to be
+    burned alive two years before the visit, expecting to return to life with stronger
+    powers; the expected return did not occur, and the body was boxed and enclosed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Near Cape Nome there was a large burial box supported about five feet above
+    the ground on four posts and identified as the grave of a noted shaman.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Cape Nome shaman in the raised burial box was said to be able to breathe
+    fire from his mouth.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Other Cape Nome graves were made roughly of drift logs and had remains of
+    totem marks, stones, and implements around them.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: On Sledge Island, graves consisted of shallow pits among rocks, stone rims,
+    and drift logs held down by heavy stones; no implements or other marks of distinction
+    were observed.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: At East Cape, Siberia, graves were located above and behind the houses among
+    rocks on a long ridge and included shallow pits with stones arranged as rectangular
+    enclosures.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Narrating observer
+  description: The first-person observer who examined Sledge Island graves and climbed
+    the rocky hill above the East Cape village in July 1881.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Unnamed shaman in Norton Sound cone burial
+  description: A shaman whose boxed remains were suspended inside a cone-shaped driftwood
+    enclosure; he was reported to have had himself burned alive expecting a return
+    to life with stronger powers.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Noted Cape Nome shaman
+  description: A noted shaman whose grave was a raised burial box near Cape Nome and
+    who was said to breathe fire from his mouth.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: shaman
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both deceased persons are explicitly identified as shamans in the passage.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: deceased in distinctive burial structure
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: One shaman's remains are in a suspended wooden box inside a cone of driftwood,
+    while the other shaman's grave is a large box raised on posts.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: self-burning aspirant to return to life
+  assigned_to:
+  - fig:2
+  basis: The passage reports that this shaman caused himself to be burned alive in
+    expectation of returning to life with stronger powers.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: reported fire-breather
+  assigned_to:
+  - fig:3
+  basis: The Cape Nome shaman was said to breathe fire from his mouth.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: ethnographic observer
+  assigned_to:
+  - fig:1
+  basis: The narrator reports examining graves on Sledge Island and climbing the hill
+    above the East Cape village.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Burning alive; fire breathed from the mouth.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: cone-shaped driftwood mortuary enclosure
+  literal_form: Drift logs stood on end in a circle with their upper ends meeting,
+    forming a cone with a pole projecting from the top.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: suspended wooden burial box
+  literal_form: A wooden box containing the shaman's remains, swung by cords midway
+    between the ground and top of the cone structure.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: raised grave box
+  literal_form: A large burial box supported about five feet above the ground on four
+    posts.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: totem marks at graves
+  literal_form: Remains of totem marks around drift-log graves, together with stones
+    and implements.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Norton Sound cone burial of a shaman
+  summary: At a Norton Sound fishing-camp burial area, a cone-shaped driftwood enclosure
+    held a suspended wooden box with the remains of a shaman who had been burned alive
+    expecting a return to life with greater powers; the expected return failed.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Cape Nome raised shaman grave and marked graves
+  summary: Near Cape Nome, a raised burial box was identified as the grave of a noted
+    shaman who could breathe fire, while nearby drift-log graves had remains of totem
+    marks, stones, and implements.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Sledge Island stone-rimmed graves
+  summary: The observer examined graves on a rocky slope above the Sledge Island village;
+    these were shallow pits with stone rims and drift logs held down by stones, with
+    no implements or marks of distinction observed.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: East Cape ridge graves
+  summary: The observer climbed the rocky hill above East Cape and found graves behind
+    the houses on a rocky ridge, formed as shallow pits with stones arranged into
+    rectangular enclosures.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Failed attempt at return to life through self-burning
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The passage reports a shaman who caused himself to be burned alive expecting
+    to return to life with stronger powers, but whose expectation was not realized.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The report describes an expectation of return, not a successful resurrection
+    or completed rebirth narrative.
+- id: motif:2
+  label: Fire-associated shamanic power
+  taxonomy_refs: []
+  basis: One shaman is linked to self-burning in pursuit of stronger powers, and another
+    is said to breathe fire from his mouth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage juxtaposes two fire-related shaman reports but does not explain
+    a single doctrine or symbolic interpretation.
+- id: motif:3
+  label: Elevated or suspended burial of shamans
+  taxonomy_refs: []
+  basis: The Norton Sound shaman's remains were suspended in a box within a cone structure,
+    and the Cape Nome shaman's burial box was raised on four posts.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage reports two examples but does not state that elevation or
+    suspension was a general shaman burial rule.
+- id: motif:4
+  label: Grave signs and grave goods
+  taxonomy_refs: []
+  basis: Other Cape Nome graves are described with remains of totem marks, stones,
+    and implements around them, while Sledge Island graves are noted as lacking implements
+    or marks of distinction.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage records presence and absence of grave markers but gives limited
+    interpretation of their function.
+comparison_claims:
+- id: claim:1
+  claim: The self-burning shaman's expected return to life with greater powers is
+    comparable in function to resurrection or death-rebirth motif families, because
+    death is treated as a hoped-for route to renewed life and augmented power.
+  claim_level: same_function
+  target: resurrection / death_rebirth motif families
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: The report says the hope failed, so the passage does not narrate an
+    actual resurrection or completed death-and-rebirth sequence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19725-19731
+  quote_or_summary: Norton Sound summer fishing camps had a few rude graves made with
+    slight enclosures of drift logs and covered with similar material.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19732-19738
+  quote_or_summary: A cone-shaped enclosure of upright drift logs, with a pole projecting
+    from the top, contained a wooden box with a shaman's remains suspended by cords
+    between the ground and the top.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19739-19745
+  quote_or_summary: The shaman was reported to have 'caused himself to be burned alive'
+    expecting to return to life with stronger powers; the hope was not realized, and
+    his body was boxed and enclosed in the cone structure.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:4
+  type: summary
+  locator: lines 19746-19759
+  quote_or_summary: Near Cape Nome, a large burial box was supported about five feet
+    above the ground on four posts and was said to be the grave of a noted shaman
+    who 'could breathe fire from his mouth.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:5
+  type: summary
+  locator: lines 19760-19765
+  quote_or_summary: Other graves near Cape Nome were roughly made of drift logs and
+    had remains of totem marks, stones, and implements around them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 19766-19775
+  quote_or_summary: On Sledge Island, the observer examined shallow-pit graves among
+    rocks, surrounded by stone rims and covered by drift logs held with heavy stones;
+    no implements or marks of distinction were observed.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 19776-19790
+  quote_or_summary: In July 1881, the observer climbed the rocky hill above the East
+    Cape village and found graves above and behind the houses on a rocky ridge, formed
+    as shallow pits with stones arranged into rectangular enclosures.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied line range. Some line locators are
+    approximate within the provided passage, and OCR spacing/typographic irregularities
+    are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or common-inheritance claims are made. Comparison is limited to functional similarity with supplied motif-family labels.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l19725-l19790
+  passage_sha256=57ef16c4195567387a1b435126f1d926f06d463872eaaf35db821843710d11f6
+

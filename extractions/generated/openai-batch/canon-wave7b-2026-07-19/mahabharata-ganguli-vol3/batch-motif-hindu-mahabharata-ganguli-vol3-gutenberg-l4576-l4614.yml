@@ -1,0 +1,383 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l4576-l4614
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12 / BOOK 8; lines 4576-4614'
+  start: '4576'
+  end: '4614'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A swan and a crow challenge one another in flight. The crow displays many
+    flight styles while the swan continues in one slow motion. After the swan flies
+    rapidly westward over the ocean, the crow becomes afraid and exhausted because
+    there are no trees or islands on which to rest. The swan waits for the crow and
+    addresses him while the crow is about to sink, intending to rescue him in accordance
+    with good conduct.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The swan and the crow rise into the sky and challenge each other.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The swan proceeds in one kind of motion, while the crow moves in a hundred
+    different kinds of flight.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nearby crows rejoice and caw loudly at the varied flight display, while the
+    swans mock them with disagreeable remarks.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The birds repeatedly soar, alight, rise from tree-tops, descend to the ground,
+    and utter victory cries.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The swan appears for a moment to yield to the crow because he continues in
+    one slow motion.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The swan then flies westward with great speed toward the ocean described as
+    the abode of Makaras.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The crow becomes afraid and nearly senseless after seeing no island or trees
+    where he might perch when tired.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The ocean is described as vast, deep, irresistible, inhabited by countless
+    creatures and hundreds of monsters, and limitless like space.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The swan, after crossing a great distance, looks back, waits for the crow,
+    and thinks that the crow should come up.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The crow comes up to the swan exceedingly tired, succumbing, and about to
+    sink.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The swan desires to rescue the crow in remembrance of the practices of good
+    folks.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The swan questions the crow about the name of his current flight, observing
+    that the crow is repeatedly touching the water with his wings and beak.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the swan
+  description: A bird capable of flight who uses one kind of slow motion, later flies
+    rapidly westward over the ocean, waits for the crow, and intends to rescue him.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the crow
+  description: A bird capable of many kinds of flight who challenges the swan, follows
+    over the ocean, becomes afraid and exhausted, and nearly sinks.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: the crows
+  description: A group of crows who watch the contest, rejoice, caw loudly, and say
+    that the swan appears to be yielding.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the swans
+  description: A group of swans who watch the contest and laugh in mockery at the
+    crows.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: challenger in flight contest
+  assigned_to:
+  - fig:1
+  basis: The swan rises into the sky with the crow, challenging him, and continues
+    the contest through flight.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: challenger in flight contest
+  assigned_to:
+  - fig:2
+  basis: The crow rises into the sky with the swan, challenges him, and displays many
+    types of flight.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: rescuer or compassionate victor
+  assigned_to:
+  - fig:1
+  basis: The swan waits for the exhausted crow and desires to rescue him in remembrance
+    of good conduct.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: exhausted rival in peril
+  assigned_to:
+  - fig:2
+  basis: The crow becomes afraid over the ocean and is later described as exceedingly
+    tired, succumbing, and about to sink.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:5
+  label: watching partisan group
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The crows and swans observe the contest, react vocally, and favor their own
+    side.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: ocean as perilous water expanse
+  literal_form: the ocean, an immense body of water without visible islands or trees,
+    inhabited by Makaras and monsters
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: trees as resting places
+  literal_form: trees and tree-tops where birds can perch or rise from
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: sky as arena of contest
+  literal_form: the sky traversed by the swan and crow during their challenge
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: flight challenge begins
+  summary: The swan and crow rise into the sky and compete in flight, with the swan
+    using one motion and the crow many motions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: partisan spectators react
+  summary: Groups of crows and swans observe the flight display; crows rejoice and
+    caw, while swans mock the crows.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: flight over the ocean
+  summary: The swan flies westward over the ocean, and the crow becomes frightened
+    because there are no trees or islands on which to rest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: exhaustion and intended rescue
+  summary: The swan looks back, waits for the crow, and addresses him as the exhausted
+    crow nearly sinks, intending to rescue him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: boastful skill contest leading to peril
+  taxonomy_refs: []
+  basis: The crow displays many kinds of flight and appears to surpass the swan, but
+    after following the swan over the ocean he becomes exhausted and endangered.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage gives the contest and reversal but does not explicitly state
+    a moral in this excerpt.
+- id: motif:2
+  label: rival rescued by the one he challenged
+  taxonomy_refs: []
+  basis: The swan waits for the exhausted crow and desires to rescue him despite the
+    crow having challenged and competed with him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The excerpt states intention to rescue but ends before the physical rescue
+    occurs.
+- id: motif:3
+  label: vast waters as test beyond ordinary capacity
+  taxonomy_refs: []
+  basis: The ocean is described as vast, deep, monster-filled, and without resting
+    places; the crow's limitations become evident there.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: This is a passage-level pattern; no explicit taxonomy motif family is
+    assigned beyond the literal water symbol.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4576-4582
+  quote_or_summary: The swan and crow rise into the sky, challenge one another, and
+    fly; the swan uses one kind of motion while the crow uses a hundred different
+    kinds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4582-4590
+  quote_or_summary: Watching crows rejoice and caw; swans laugh in mockery; the birds
+    repeatedly soar, alight, rise from tree-tops and earth, and cry out as if victorious.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4590-4595
+  quote_or_summary: Because the swan continues in one slow motion, he seems briefly
+    to yield; the crows say that the swan in the sky is evidently yielding.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4595-4602
+  quote_or_summary: The swan flies westward at great speed to the ocean, the abode
+    of Makaras; the crow becomes afraid and nearly senseless because he sees no island
+    or trees on which to perch when tired.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4602-4608
+  quote_or_summary: The ocean is described as irresistible, inhabited by countless
+    creatures and hundreds of monsters, deeper and vaster than any ordinary measure,
+    with waters limitless like space.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4608-4611
+  quote_or_summary: The swan crosses a great distance, looks back at the crow, and
+    waits for him, thinking that the crow should come up.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4611-4614
+  quote_or_summary: The crow reaches the swan exceedingly tired, succumbing, and about
+    to sink; the swan desires to rescue him in remembrance of the practices of good
+    folks.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4614-4614
+  quote_or_summary: The swan asks the crow what kind of flight he is now using, noting
+    that he repeatedly touches the water with wings and beak and urging him to come
+    quickly because the swan is waiting.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are passage-level candidates without broader comparative claims. No comparison
+    claims were made because the excerpt itself does not establish a specific external
+    parallel or historical relationship.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; taxonomy references were limited to available symbol refs directly supported by the text.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l4576-l4614
+  passage_sha256=d3097b3ee5b90f6c0c7e66e38585818c0d5d6cae5ea6eb9c5934e66cc2f76424
+

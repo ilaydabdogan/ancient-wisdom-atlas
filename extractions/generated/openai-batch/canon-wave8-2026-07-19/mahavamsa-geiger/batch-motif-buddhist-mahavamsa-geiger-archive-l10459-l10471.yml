@@ -1,0 +1,199 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l10459-l10471
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: CHAPTEE XV / THE ACCEPTANCE OF THE MAHAVIHARA / CHAPTER XVI / CHAPTER XVII;
+    lines 10459-10471
+  start: '10459'
+  end: '10471'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: opened the hearts of gods and men (to the faith)
+  summary: The passage describes a splendid festival of adoration for the great Bodhi-tree
+    in the city of flowers, adorned with flags, and says that it opened the hearts
+    of gods and men to faith like the sun opening lotuses in a lake. A chapter colophon
+    names the episode as the receiving of the Great Bodhi-tree, and a note explains
+    the elements of the simile.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A festival of adoration of the great Bodhi-tree is described.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The great Bodhi-tree is associated with gay and lovely flags and is described
+    as great, brilliant, and splendid.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The event is set in the city of flowers, which the note identifies as Pataliputta.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:4
+  text: The festival is said to open the hearts of gods and men to faith.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage compares the faith-opening effect to the sun opening lotuses in
+    a lake.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:6
+  text: The chapter colophon calls the chapter 'The Receiving of the Great Bodhi-tree'.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: gods and men
+  description: Collective beings whose hearts are said to be opened to faith by the
+    festival.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: recipients of faith-opening
+  assigned_to:
+  - fig:1
+  basis: The passage says the festival opened the hearts of gods and men to faith.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Great Bodhi-tree
+  literal_form: tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: festive flags
+  literal_form: gay and lovely flags
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: lake with lotuses opened by the sun
+  literal_form: lake, sun, and lotus-flowers in a simile
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Festival of adoration of the Great Bodhi-tree
+  summary: In the city of flowers, a splendid festival honors the great Bodhi-tree
+    with flags and is said to open the hearts of gods and men to faith, using a sun-lake-lotus
+    simile.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: adoration of a sacred tree
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage centers on a festival of adoration for the Great Bodhi-tree and
+    the chapter title refers to receiving the Great Bodhi-tree.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage supports sacred tree veneration, but does not explicitly describe
+    an axis mundi or world-center function.
+- id: motif:2
+  label: hearts opened to faith through ritual celebration
+  taxonomy_refs: []
+  basis: The festival is said to open the hearts of gods and men to faith.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The language is devotional and metaphorical; the passage does not narrate
+    individual conversions.
+- id: motif:3
+  label: sun opening lotus as image of religious receptivity
+  taxonomy_refs: []
+  basis: The passage and note explicitly map the festival to the sun and the hearts
+    of gods and men to lotus flowers opened in a lake.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is an internal literary simile rather than a separate narrated mythic
+    event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10459-10461
+  quote_or_summary: A festival of adoration of the great Bodhi-tree is described as
+    vivid with gay and lovely flags, great, brilliant, and splendid.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 10461-10463
+  quote_or_summary: In the city of flowers, the festival opened the hearts of gods
+    and men to faith, as the sun opens lotuses in a lake.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 10465-10467
+  quote_or_summary: The colophon ends the eighteenth chapter and names it 'The Receiving
+    of the Great Bodhi-tree'.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 10469-10471
+  quote_or_summary: 'The note explains the simile: the festival of the Bodhi-tree
+    is compared to the sun, the city of flowers/Pataliputta to the lake, and the hearts
+    of gods and men to lotus-flowers.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif tagging is cautious because
+    the passage explicitly presents sacred-tree adoration and a simile, but does not
+    elaborate broader cosmological functions or cross-text comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text, locator metadata, and available taxonomy references.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l10459-l10471
+  passage_sha256=e86d8c31574b4431de374a4943e2f01a28c21e3589cb89160538bffc0b6b224f
+

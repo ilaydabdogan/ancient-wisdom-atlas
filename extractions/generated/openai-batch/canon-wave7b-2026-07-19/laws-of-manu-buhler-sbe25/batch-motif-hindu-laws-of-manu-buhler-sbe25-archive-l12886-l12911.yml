@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l12886-l12911
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: LAWS    OF    MANU. / IIO  LAWS    OF   MANU.  111,184. / I    2 / LAWS    OF    MANU.;
+    lines 12886-12911
+  start: '12886'
+  end: '12911'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage instructs a host to ask guests whether they have dined well,
+    give satisfied guests water for sipping, and dismiss them with words of rest.
+    Notes discuss the Sapiṇḍīkaraṇa as the reception of a deceased person among partakers
+    of funeral oblations, its timing, Ekoddiṣṭa Śrāddhas, a gloss on vṛṣalī, and variant/cited
+    formulations of the dismissal words.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The instruction says the host should ask his guests whether they have dined
+    well.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The host gives water for sipping to guests who are satisfied.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the guests sip water, they are dismissed with a formula telling them
+    to rest either there or at home.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A note defines Sapiṇḍīkaraṇa as the solemn reception of a dead person among
+    partakers of funeral oblations.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note says the Sapiṇḍīkaraṇa is performed either on the thirteenth day
+    or a year after death.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The note says Śrāddhas before that rite are Ekoddiṣṭas, performed for one
+    person only.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A note records variant readings of the dismissal formula, including equivalents
+    of taking rest or going where one pleases.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A note reports that commentators understand vṛṣalī as either a Śūdra female
+    or a seducing woman.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: host or ritual giver of water
+  description: The unnamed male subject who addresses the guests, gives them water
+    for sipping, and dismisses them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: satisfied guests
+  description: Guests who have dined, receive water for sipping, sip it, and are dismissed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: dead person
+  description: A deceased person said in the note to be received among the partakers
+    of funeral oblations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: partakers of funeral oblations
+  description: The group among whom the dead person is received in the Sapiṇḍīkaraṇa
+    as described by the note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ritual host
+  assigned_to:
+  - fig:1
+  basis: The figure addresses guests, provides water, and dismisses them according
+    to the instruction.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: guest recipients
+  assigned_to:
+  - fig:2
+  basis: The guests are asked about the meal, given water, and dismissed after sipping.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: deceased recipient of funeral reception
+  assigned_to:
+  - fig:3
+  basis: The note describes a dead person being solemnly received among partakers
+    of funeral oblations.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: funeral-oblation recipient group
+  assigned_to:
+  - fig:4
+  basis: The note identifies a group of partakers of funeral oblations into which
+    the dead person is received.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water for sipping
+  literal_form: water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: funeral oblations
+  literal_form: oblations for the dead
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: funeral-rite timing
+  literal_form: thirteenth day or a year after death
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: meal closure and guest dismissal
+  summary: After a meal, the host asks whether the guests have dined well, gives water
+    for sipping to the satisfied guests, and dismisses them after they sip.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: funeral incorporation by oblation
+  summary: A note explains a rite in which a dead person is received among the partakers
+    of funeral oblations, with specified timing after death.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: ritualized hospitality closure
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage presents a formal sequence of meal inquiry, water-giving, sipping,
+    and dismissal of guests.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is legal-ritual instruction rather than mythic narrative;
+    the taxonomy link is broad.
+- id: motif:2
+  label: water-sipping as ritual closure
+  taxonomy_refs: []
+  basis: Water for sipping marks the point before guests are dismissed after dining.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the symbolic meaning of the water.
+- id: motif:3
+  label: deceased incorporated among oblation recipients
+  taxonomy_refs: []
+  basis: The note describes the Sapiṇḍīkaraṇa as receiving a dead person among partakers
+    of funeral oblations.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This appears in a translator’s note within the passage, not as the main
+    verse.
+comparison_claims:
+- id: claim:1
+  claim: The note cites Yājñavalkya I, 242 and Viṣṇu LXXIII, 26-27 in connection with
+    the guest-dismissal instruction, supporting a cautious same-function comparison
+    within nearby Dharmaśāstra material.
+  claim_level: same_function
+  target: Yājñavalkya I, 242; Viṣṇu LXXIII, 26-27
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides citations and variant readings but does not quote
+    the parallel passages.
+- id: claim:2
+  claim: The note cites Viṣṇu XXI, 2-12, 19 and Yājñavalkya I, 250 in connection with
+    Sapiṇḍīkaraṇa and Ekoddiṣṭa Śrāddha, supporting a cautious same-topic or same-function
+    comparison for funeral rites in nearby Dharmaśāstra sources.
+  claim_level: same_function
+  target: Viṣṇu XXI, 2-12, 19; Yājñavalkya I, 250
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage lists citations and explanatory notes only; it does not
+    provide the full comparable texts.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12886-12891
+  quote_or_summary: "“Having addressed the question, ‘Have you dined well?’ ... let
+    him give water for sipping ... and dismiss them ... ‘Rest either (here or at home)!’”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 12892-12903
+  quote_or_summary: The note defines Sapiṇḍīkaraṇa as “the solemn reception of a dead
+    person among the partakers of the funeral oblations,” performed on the thirteenth
+    day or a year after death; before it, Śrāddhas are Ekoddiṣṭas for one person only.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 12908-12910
+  quote_or_summary: 'The note cites “Yāgn. I, 242; Vi. LXXIII, 26-27” and records
+    variant dismissal formulas: “Ho, take rest!” and “Go where you please!”'
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 12905-12907
+  quote_or_summary: The note says several commentators take vṛṣalī as “a Śūdra female”
+    or “a seducing woman.”
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal ritual actions and translator-note content are clear. Motif assignments
+    are cautious because the passage is prescriptive Dharmaśāstra material, not a
+    mythic narrative, and comparison claims rely on citations rather than quoted parallel
+    passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; uncertain symbolic meanings were not inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l12886-l12911
+  passage_sha256=07bc674367a11d5a6a67b7d7f4cbdf07405ce193c516098335ffff625514de20
+

@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.egyptian-development-of-religion-thought-breasted-archive-l12166-l12189
+source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+passage_locator:
+  label: DAY AND HAN / DAY AND THE ANIMALS AND PLANTS / DAY AND THE WATERS / THE WHOLE
+    CREATION; lines 12166-12189
+  start: '12166'
+  end: '12189'
+  translation: Development of Religion and Thought in Ancient Egypt
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A hymn passage addresses a sole god, praises the hidden manifoldness of
+    his works, states that he created the earth while alone according to his heart,
+    and lists humans, animals, winged beings, foreign lands, and Egypt within the
+    scope of creation. Notes discuss the formula “sole God,” the word for power or
+    quality, and the possible meanings of “heart.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage addresses a deity as “sole God” and says his works are manifold
+    and hidden from human view.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The deity is described as possessing powers that no other possesses.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The deity is said to have created the earth according to his heart while he
+    was alone.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The created order listed in the passage includes men, cattle large and small,
+    and beings on earth that move on their feet.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The created order also includes beings on high that fly with wings.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage names Syria, Kush, and Egypt as lands included in the scope of
+    the hymn’s creation catalogue.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note says that “heart” in the creation statement may mean either pleasure
+    or understanding.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: sole God
+  description: The divine addressee, described as sole, uniquely powerful, alone at
+    creation, and creator of the earth.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: men
+  description: Humans listed among what the deity created or encompassed in creation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: cattle and footed earth-beings
+  description: Cattle large and small and beings upon the earth that go about on their
+    feet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: winged beings on high
+  description: Beings on high that fly with wings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine creator
+  assigned_to:
+  - fig:1
+  basis: The passage says the deity created the earth while alone.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: unique possessor of powers
+  assigned_to:
+  - fig:1
+  basis: The deity is called sole and said to possess powers no other has.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: created beings
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Humans, animals, and winged beings are listed in the creation catalogue following
+    the statement of creation.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: earth
+  literal_form: the earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: heart
+  literal_form: thy heart
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: named lands
+  literal_form: Syria, Kush, and the land of Egypt
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Praise of the sole god’s works
+  summary: The hymn speaker praises the manifold, hidden works of a sole god whose
+    powers no other possesses.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Catalogue of whole creation
+  summary: The sole god is said to create the earth while alone, and the passage lists
+    humans, animals, winged beings, foreign lands, and Egypt within the creation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: solitary creation by a sole god
+  taxonomy_refs: []
+  basis: The passage calls the deity sole, says no other possesses his powers, and
+    states that he created the earth while alone.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The supplied taxonomy list has no direct creation motif family; no specific
+    deity name beyond “sole God” is provided in the excerpt.
+- id: motif:2
+  label: creation catalogue of beings and lands
+  taxonomy_refs: []
+  basis: After the statement of creation, the hymn lists humans, cattle, footed beings,
+    flying beings, Syria, Kush, and Egypt.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage lists categories rather than narrating a detailed sequence
+    of creation acts.
+- id: motif:3
+  label: creation according to divine heart
+  taxonomy_refs: []
+  basis: The earth is said to be created according to the deity’s heart, and an editorial
+    note says “heart” may mean pleasure or understanding.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The note explicitly gives two possible meanings, so the precise force
+    of “heart” should not be fixed without further context.
+comparison_claims:
+- id: claim:1
+  claim: An editorial note links the formula “sole God” to shorter hymns that add
+    “beside whom there is no other,” indicating a cautious formulaic similarity within
+    cited Egyptian hymn material.
+  claim_level: linguistic_similarity
+  target: shorter hymns cited in the note to the passage
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the note’s brief citation is present; the compared hymn passages
+    themselves are not supplied here, and this is not evidence of full motif identity.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12166-12170
+  quote_or_summary: "“How manifold are thy works I / They are hidden from before (us),
+    / O sole God, whose powers no other possesseth.”"
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 12171-12174
+  quote_or_summary: "“Thou didst create the earth according to thy heart / While thou
+    wast alone.”"
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 12175-12181
+  quote_or_summary: The passage lists men, cattle large and small, beings upon the
+    earth that go about on their feet, and beings on high that fly with wings.
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 12182-12184
+  quote_or_summary: The passage names foreign countries, specifically Syria and Kush,
+    and also the land of Egypt.
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: note
+  locator: 12185-12189
+  quote_or_summary: Notes state that shorter hymns add “beside whom there is no other”
+    after “sole God”; discuss the word sp as “quality” or “power” in other cited hymns
+    or inscriptions; and state that “heart” may mean either “pleasure” or “understanding.”
+  source_text_path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  rights_note: Public domain source; note summarized with brief quoted terms.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the excerpt is short, includes
+    OCR irregularities, and does not name the deity beyond “sole God.” Motif labels
+    are descriptive because the supplied taxonomy lacks a direct creation category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No water, plant, or animal details beyond those present in the supplied passage were added despite broader passage label wording.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-development-of-religion-thought-breasted-archive__l12166-l12189
+  passage_sha256=dafb1ef41f58de6a08130697c4daea49c18117442e1d76cc7a8d130c30211e22
+

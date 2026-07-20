@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l15811-l15827
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: RECORDS  305 / NSIBIDI. / RECORDS  307 / RECORDS  309; lines 15811-15827
+  start: '15811'
+  end: '15827'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Now your sons have died in payment for mine."'
+  summary: A speaker says that others' sons have died as payment for his own. The
+    passage explains this as the reason people retaliate when harmed. It also states
+    that a rule about palm leaves was made to kill the richest man and divide his
+    wealth among the town. It notes that messages have long been sent in Nsibidi script
+    on split palm stems.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker says that others' sons have died in payment for his own son.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage gives an etiological explanation for retaliating against someone
+    who has caused harm.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A rule about palm leaves is described as a device for killing the richest
+    man and sharing his wealth among the town.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Messages have long been sent in Nsibidi script, cut or painted on split palm
+    stems.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The collected signs are said to have been carefully verified and placed in
+    Appendix G.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed speaker
+  description: A speaker who refers to his own death, riches, and a son whose death
+    has been paid for by the deaths of others' sons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: addressed group
+  description: People addressed by the speaker as those among whom his riches might
+    be shared and whose sons have died.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: sons of the addressed group
+  description: Sons said to have died in payment for the speaker's son.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: richest man
+  description: A person whom the rule about palm leaves was made to have killed so
+    that his wealth could be shared.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: town
+  description: The collective among whom the richest man's wealth would be shared.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: claimant of retaliatory payment
+  assigned_to:
+  - fig:1
+  basis: The speaker frames the deaths of others' sons as payment for his own son.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed recipients of blame or payment
+  assigned_to:
+  - fig:2
+  basis: The speaker addresses people whose sons have died and among whom his riches
+    might be shared.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: substitute payment victims
+  assigned_to:
+  - fig:3
+  basis: The sons are said to have died in payment for the speaker's son.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: targeted wealthy victim
+  assigned_to:
+  - fig:4
+  basis: The rule about palm leaves is said to have been made so that the richest
+    man might be killed.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: beneficiary collective
+  assigned_to:
+  - fig:5
+  basis: The richest man's wealth is described as being shared by the town.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: palm leaves rule
+  literal_form: palm leaves
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: split palm stems carrying messages
+  literal_form: split palm stems cut or painted with Nsibidi script
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Nsibidi signs
+  literal_form: Nsibidi script signs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: shared wealth
+  literal_form: riches or wealth shared among others
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Retaliatory payment stated
+  summary: The speaker states that the deaths of the addressed group's sons serve
+    as payment for his own son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Etiology of retaliatory harm
+  summary: The passage explains a practice of answering harm with harm as arising
+    from the preceding event.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Palm-leaf rule targets wealth
+  summary: A rule concerning palm leaves is described as a pretext for killing the
+    richest man and distributing his wealth to the town.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Nsibidi message practice
+  summary: The passage notes that messages have long been transmitted in Nsibidi script
+    on split palm stems, and that verified signs are collected elsewhere.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: retaliatory harm as reciprocal payment
+  taxonomy_refs: []
+  basis: The passage explicitly says that the deaths of others' sons are payment for
+    the speaker's son and explains that this is why a harmed person tries to harm
+    the offender in return.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is fragmentary and gives only a brief etiological explanation.
+- id: motif:2
+  label: rule used as pretext to kill the wealthy and redistribute wealth
+  taxonomy_refs: []
+  basis: The rule about palm leaves is described as having been made so that the richest
+    man could be killed and his wealth shared by the town.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The immediate narrative context of the rule is outside the supplied excerpt.
+- id: motif:3
+  label: coded or graphic message transmission on plant material
+  taxonomy_refs: []
+  basis: Messages are said to have long been sent in Nsibidi script cut or painted
+    on split palm stems.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic note on communicative practice rather than a mythic
+    narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15811-15813
+  quote_or_summary: '"Now your sons have died in payment for mine."'
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 15815-15816
+  quote_or_summary: The passage states that this is the reason why, if anyone harms
+    you, you try to harm him also.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 15818-15820
+  quote_or_summary: The rule about palm leaves was made so that the richest man might
+    be killed and his wealth shared by the town.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 15822-15823
+  quote_or_summary: Messages have long been sent in Nsibidi script, cut or painted
+    on split palm stems.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 15825-15827
+  quote_or_summary: The more interesting signs collected and verified are said to
+    be found in Appendix G.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but the passage is a short fragment
+    from a larger context; motif labels are descriptive and not mapped to supplied
+    taxonomy families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support an external comparative claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l15811-l15827
+  passage_sha256=b03202a92dbb04837d769e38b2bf84adf7bd56403f50da1ff63abfd19468f389
+

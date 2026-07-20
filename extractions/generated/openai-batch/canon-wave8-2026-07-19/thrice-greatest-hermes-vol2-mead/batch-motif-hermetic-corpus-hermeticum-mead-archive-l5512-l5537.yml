@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l5512-l5537
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: THE GREATEST ILL IS IGNORANCE OF GOD 123 / COEPUS HEEMETICUM VIII. (IX.)
+    / NO ONE OF EXISTING THINGS DOTH PERISH 125 / NO ONE OF EXISTING THINGS DOTH PERISH
+    127; lines 5512-5537
+  start: '5512'
+  end: '5537'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: The source and limit and the constitution of all things is God.
+  summary: The passage teaches that dissolution does not mean the loss of bodies,
+    describes Man as a third life made after the image of the Cosmos and endowed with
+    mind, contrasts sensible and bodiless apprehension, and states an ordering in
+    which Cosmos is by and in God while Man is by and in Cosmos.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dissolution is described as restoring things to bodies that cannot be dissolved
+    and know no death.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Privation of sense is distinguished from loss of bodies.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Man is called the third life, made after the image of the Cosmos, having mind
+    after the Father's will, and placed beyond all earthly lives.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Man is said to have feeling with the second God and conception of the first,
+    conceived as bodiless and the Good Mind.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Tat asks whether this life perishes.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hermes tells Tat to understand God, Cosmos, a life that cannot die, and a
+    life subject to dissolution.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Cosmos is described as by God and in God; Man is described as by Cosmos and
+    in Cosmos.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: God is described as the source, limit, and constitution of all things.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Tat
+  description: Dialogue participant who asks whether the described life perishes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Hermes
+  description: Dialogue speaker marked as 'Her.' who instructs Tat to understand God,
+    Cosmos, and two kinds of life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Man
+  description: The third life, made after the image of the Cosmos and having mind
+    after the Father's will.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Cosmos
+  description: The Cosmos is said to be by God and in God; Man is said to be by Cosmos
+    and in Cosmos.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: God
+  description: God is described as that by and in which the Cosmos is, and as the
+    source, limit, and constitution of all things.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Tat asks whether the life under discussion perishes.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: instructor
+  assigned_to:
+  - fig:2
+  basis: Hermes responds with an instruction to understand God, Cosmos, and kinds
+    of life.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: third mindful life
+  assigned_to:
+  - fig:3
+  basis: Man is explicitly called the third life and is described as having mind.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: cosmic mediator or context for Man
+  assigned_to:
+  - fig:4
+  basis: Man is said to be by Cosmos and in Cosmos.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: ultimate source and encompassing principle
+  assigned_to:
+  - fig:5
+  basis: Cosmos is said to be by and in God, and God is called the source, limit,
+    and constitution of all things.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: indissoluble bodies
+  literal_form: bodies which can never be dissolved and know no death
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: image of the Cosmos
+  literal_form: Man made after the image of the Cosmos
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: source and limit
+  literal_form: the source and limit and the constitution of all things
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: bodiless Good Mind
+  literal_form: the first conceived as bodiless and the Good Mind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Dissolution without bodily loss
+  summary: The passage states that dissolution restores things to indissoluble, deathless
+    bodies and that loss of sense is not the loss of bodies.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of Man as third life
+  summary: Man is described as a life made after the image of the Cosmos, endowed
+    with mind, and capable of relation to both a sensible second God and a bodiless
+    first.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tat questions and Hermes instructs
+  summary: Tat asks whether this life perishes, and Hermes replies by directing him
+    to understand God, Cosmos, immortal life, and dissoluble life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Ordering of God, Cosmos, and Man
+  summary: The passage closes by arranging Cosmos in relation to God, Man in relation
+    to Cosmos, and God as the source, limit, and constitution of all things.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: non-perishing through dissolution
+  taxonomy_refs: []
+  basis: The passage denies that dissolution is loss and describes restoration to
+    indissoluble, deathless bodies.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents a philosophical doctrine rather than a narrative
+    death-and-return episode.
+- id: motif:2
+  label: wisdom instruction on divine and cosmic order
+  taxonomy_refs:
+  - wisdom
+  basis: Hermes instructs Tat to understand God, Cosmos, immortal life, and dissoluble
+    life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif is didactic and doctrinal, not a quest narrative.
+- id: motif:3
+  label: duality of immortal and dissoluble life
+  taxonomy_refs:
+  - duality
+  basis: Hermes explicitly distinguishes a life that cannot die from a life subject
+    to dissolution.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not develop this contrast into a full mythic pair or
+    conflict.
+- id: motif:4
+  label: microcosmic relation of Man and Cosmos
+  taxonomy_refs: []
+  basis: Man is made after the image of the Cosmos and is said to be by Cosmos and
+    in Cosmos, while Cosmos is by and in God.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly names the microcosm-macrocosm
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5512-5518
+  quote_or_summary: Dissolution restores things to bodies that cannot be dissolved
+    and know no death; privation of sense is not loss of bodies.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 5519-5526
+  quote_or_summary: Man is called the third life, made after the image of the Cosmos,
+    having mind after the Father's will, beyond earthly lives, and capable of feeling
+    with the second God and conceiving the first as bodiless Good Mind.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 5527-5529
+  quote_or_summary: 'Tat asks: "Doth then this life not perish?"'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short quote from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 5530-5533
+  quote_or_summary: Hermes tells Tat to be silent and understand God, Cosmos, a life
+    that cannot die, and a life subject to dissolution.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 5534-5536
+  quote_or_summary: '"the Cosmos is by God and in God ; but Man by Cosmos and in Cosmos."'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short quote from supplied passage.
+- id: ev:6
+  type: quote
+  locator: '5537'
+  quote_or_summary: '"The source and limit and the constitution of all things is God."'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain; short quote from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labeling is cautious
+    because the passage is philosophical and doctrinal rather than narrative. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy items are directly present in the passage; symbol taxonomy references are therefore left empty.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l5512-l5537
+  passage_sha256=078f2d1d1a02d1ad6b68ab7b9cea8cc7d2d974680b5ce4a5cc2a92fb4b33453c
+

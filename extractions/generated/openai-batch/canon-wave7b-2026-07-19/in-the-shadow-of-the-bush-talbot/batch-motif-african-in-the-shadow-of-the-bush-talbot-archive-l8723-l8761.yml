@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l8723-l8761
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: THE    SOUTH    CAMEROONS  153 / THE    SOUTH    CAMEROONS  155 / THE   SOUTH    CAMEROONS  157
+    / THE    SOUTH    CAMEROONS  159; lines 8723-8761
+  start: '8723'
+  end: '8761'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports severe suffering during the Ekoi struggle for independence.
+    It cites Dr. Mansfeld’s report that mothers killed suckling infants during the
+    uprising because their cries betrayed forest hiding places to soldier patrols.
+    The narrator describes this as almost inconceivable for devoted Ekoi parents,
+    and suggests hardship, pity, and belief in the infants’ spirits returning to earth
+    after peace as possible motives. A further cited description depicts the postwar
+    country as devastated, with burned huts, overgrown walls, impassable roads, empty
+    farms, and fleeing inhabitants.
+  language: English with German quotations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The period of the Ekoi struggle for independence is described as one of great
+    suffering.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dr. Mansfeld is cited as reporting that mothers killed almost all suckling
+    infants during the uprising.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The reason given in the cited report is that the infants’ cries, especially
+    at night, betrayed hiding places in the forest to soldier patrols.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator states that Ekoi parents are very devoted, making the idea of
+    a mother killing her nursing infant for safety almost inconceivable.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator suggests that lack of nourishment, constant trekking, hiding
+    in the bush, pity for the infants’ suffering, and belief in the spirits’ return
+    may have contributed to the killings.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At the end of the war, the country is described as having burned huts, overgrown
+    walls, nearly impassable roads, empty farms, and no visible people or domestic
+    animals.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When people were sought along bush paths, some inhabited places were found,
+    consisting of an open fire-hearth under a mat roof, from which men and women fled
+    with small children.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ekoi community
+  description: The community undergoing a struggle for independence and severe suffering;
+    described by the narrator as devoted parents.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Ekoi mothers
+  description: Mothers reported to have killed suckling infants during the uprising;
+    the narrator speculates that hardship, pity, and belief in returning spirits may
+    have been involved.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: suckling infants / little ones
+  description: Infants whose cries could reveal forest hiding places; they are reported
+    as killed, and their spirits are said in the narrator’s explanation to be expected
+    to return to earth after peace.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: soldier patrols
+  description: Patrols to whom the infants’ crying could betray hiding places in the
+    forest.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Dr. Mansfeld
+  description: Author cited for reports about infant-killing during the uprising and
+    for a description of the devastated postwar country.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: men and women with small children
+  description: Inhabitants found at isolated inhabited places who fled with their
+    small children when approached.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: cited reporter of events
+  assigned_to:
+  - fig:5
+  basis: The passage introduces Dr. Mansfeld’s book as the source of reports and descriptions.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: wartime displaced or hiding people
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:6
+  basis: The passage describes constant trekking, hiding in the bush, and flight from
+    inhabited spots.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: mother under extreme duress
+  assigned_to:
+  - fig:2
+  basis: Mothers are reported to have killed nursing infants during the uprising under
+    conditions of danger and hardship.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: vulnerable infant or child
+  assigned_to:
+  - fig:3
+  basis: Suckling infants are described as crying, suffering, and being killed; small
+    children are also carried in flight.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: military pursuer or patrol
+  assigned_to:
+  - fig:4
+  basis: Soldier patrols are described as being alerted to forest hiding places by
+    infants’ cries.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: forest or bush hiding place
+  literal_form: hiding places in the forest / hiding in the bush
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: infant cry betraying concealment
+  literal_form: crying of suckling infants, especially at night
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: returning infant spirits
+  literal_form: spirits returning to earth when peace returns
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: burned and overgrown dwellings
+  literal_form: burned huts and overgrown empty walls
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: open fire-hearth under mat roof
+  literal_form: open fire-hearth covered by a mat roof
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Wartime hiding and infant-killing report
+  summary: During the uprising, mothers are reported to have killed suckling infants
+    because their cries could reveal forest hiding places to soldier patrols.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Narrator’s explanation of hardship and spirit-return belief
+  summary: The narrator, while stressing Ekoi parental devotion, suggests that hunger,
+    constant movement, hiding, pity, and belief that the infants’ spirits would return
+    to earth after peace may explain the killings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Postwar devastation of the country
+  summary: After the war, the country is described as desolate, with burned huts,
+    overgrown walls, unmaintained roads, empty farms, and no visible people or domestic
+    animals.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Isolated habitation and flight
+  summary: Searchers along bush paths encounter isolated inhabited spots centered
+    on an open fire-hearth under a mat roof, from which men and women flee with small
+    children.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Dead infants expected to return as spirits when peace comes
+  taxonomy_refs:
+  - death_rebirth
+  - return
+  basis: The narrator says the mothers may have acted in the belief that the infants’
+    spirits would return to earth after peace was restored.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The motive is explicitly presented as a possibility by the narrator, not
+    as a direct quoted indigenous statement.
+- id: motif:2
+  label: Killing of children to preserve hidden refugees
+  taxonomy_refs: []
+  basis: The cited report states that infants were killed because their cries revealed
+    hiding places to soldier patrols; the narrator also frames the act in terms of
+    safety, pity, and hardship.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a historical wartime report rather than a myth narrative; the
+    passage does not describe the killings as ritual or sacred sacrifice.
+- id: motif:3
+  label: Concealment in the bush during pursuit
+  taxonomy_refs: []
+  basis: The passage repeatedly describes hiding places in the forest, constant trekking
+    and hiding in the bush, and later flight from inhabited spots along bush paths.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The pattern is historical-ethnographic and not presented as a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8723-8726
+  quote_or_summary: The Ekoi struggle for independence is described as necessarily
+    a time of great suffering.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8727-8734
+  quote_or_summary: Dr. Mansfeld is cited as saying that reports from several sides
+    stated mothers killed almost all suckling infants during the uprising because
+    their cries, especially at night, betrayed forest hiding places to soldier patrols.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary of German quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 8735-8743
+  quote_or_summary: The narrator describes Ekoi as devoted parents, says killing a
+    nursing infant for safety seems almost inconceivable, and suggests hunger, constant
+    trekking, hiding, pity for the children’s suffering, and belief in their spirits’
+    return after peace as possible causes.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 8744-8757
+  quote_or_summary: 'Dr. Mansfeld’s postwar description depicts a desolate country:
+    burned huts, empty walls overgrown with plants, nearly impassable roads, empty
+    farms, no bananas, and no visible people, goats, or chickens.'
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary of German quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 8758-8761
+  quote_or_summary: Searching along bush paths, one finds isolated inhabited spots
+    consisting of an open fire-hearth under a mat roof, from which men and women flee
+    with their small children.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary of German quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif interpretation is limited because
+    the passage is historical/ethnographic prose and the spirit-return motive is presented
+    as a narrator’s possible explanation rather than direct testimony.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added. Taxonomy references are limited to available supplied refs and only where directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l8723-l8761
+  passage_sha256=1731e4b46c8bd2a26d2c948176125795a935e68efa269c6c51dcacc210ac8b35
+

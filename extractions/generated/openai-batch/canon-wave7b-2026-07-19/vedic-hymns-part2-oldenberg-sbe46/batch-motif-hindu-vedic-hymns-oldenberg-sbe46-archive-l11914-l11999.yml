@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l11914-l11999
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'WO TES: / MANDALA III, HYMN 5. 243 / MANDALA II, HYMN 6. 245 / NOTES:; lines
+    11914-11999'
+  start: '11914'
+  end: '11999'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Philological notes on Vedic hymn verses discuss a sacrificial ladle and
+    fee, Agni’s flames and greatness, Heaven and Earth as a paired referent with a
+    possible milk-cow image, and the attribution of divine epithets to Agni and Vishnu.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says the poet probably intended a word to designate the ladle as procuring
+    a Dakshina, described as a sacrificial fee, for the priest.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note glosses a phrase as referring to the flames of Agni.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note interprets Agni’s greatness as equal to that of Heaven and Earth.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A plural expression is referred by the commentator to Heaven and Earth.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A possible translation describes two milch-cows which instantly give milk,
+    in a context where Heaven and Earth are identified as the referent.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: A note discusses the reading of a phrase meaning a fixed or firm seat and
+    compares similar Vedic passages.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note says Vishnu is not the only god called uru-gaya and that the epithet
+    may be referred to Agni in this passage.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A note says it is very probable that usadhak is an epithet of Agni.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named figure whose flames are mentioned, whose greatness is compared
+    with Heaven and Earth, and to whom epithets may be referred.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Heaven and Earth
+  description: Paired entities treated as a referent in the notes and used as the
+    measure of Agni’s greatness; also linked with a possible two-milch-cows image.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Vishnu
+  description: A god cited in a note as not the only god called uru-gaya.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: priest
+  description: Human ritual recipient associated with the sacrificial fee procured
+    by the ladle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: flame-associated named figure
+  assigned_to:
+  - fig:1
+  basis: The note glosses a phrase as the flames of Agni.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: paired cosmic referents
+  assigned_to:
+  - fig:2
+  basis: Heaven and Earth are treated together as a plural referent and as a measure
+    for Agni’s greatness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: ritual fee recipient
+  assigned_to:
+  - fig:4
+  basis: The ladle is explained as procuring a sacrificial fee for the priest.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: bearer of epithet uru-gaya
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The note states that Vishnu is not the only god called uru-gaya and that
+    the epithet may be referred to Agni.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: bearer of epithet usadhak
+  assigned_to:
+  - fig:1
+  basis: The note says usadhak is probably an epithet of Agni.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: flames of Agni
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sacrificial ladle
+  literal_form: ladle
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sacrificial fee
+  literal_form: Dakshina / sacrificial fee
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Heaven and Earth pair
+  literal_form: Heaven and Earth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: milk-giving cow image
+  literal_form: two milch-cows which instantly give milk
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: fixed seat
+  literal_form: dhruve sadasi / fixed seat
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ritual implement and sacrificial fee
+  summary: The commentary links a ladle with the procurement of a sacrificial fee
+    for the priest.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Agni and Heaven-and-Earth comparison
+  summary: The notes mention Agni’s flames and interpret Agni’s greatness as equal
+    to that of Heaven and Earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Heaven and Earth as milk-giving pair
+  summary: The notes identify Heaven and Earth as the referent and give a possible
+    reading involving two milch-cows that instantly give milk.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Divine epithet attribution
+  summary: The commentary says the epithet uru-gaya is not exclusive to Vishnu and
+    may be referred to Agni; another epithet, usadhak, is probably Agni’s.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sacrificial ritual with priestly fee
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The note explicitly connects a ladle with procuring a Dakshina, identified
+    as a sacrificial fee, for the priest.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a philological note, not a full ritual narrative.
+- id: motif:2
+  label: divine fire in sacrificial-cosmic frame
+  taxonomy_refs:
+  - sacrifice
+  basis: Agni’s flames are glossed, and Agni’s greatness is interpreted by comparison
+    with Heaven and Earth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The sacrificial context is present through notes on implements and Agni,
+    but no complete mythic action is narrated.
+- id: motif:3
+  label: Heaven and Earth as paired nourishers
+  taxonomy_refs:
+  - duality
+  basis: Heaven and Earth are treated as a pair and, in a possible translation, are
+    associated with two milch-cows that instantly give milk.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: low
+  cautions: The milk-cow wording is presented as an alternative or conditional translation,
+    so the motif candidate is tentative.
+- id: motif:4
+  label: shared divine epithet across gods
+  taxonomy_refs: []
+  basis: The note states that the epithet uru-gaya is not exclusive to Vishnu and
+    may be applied to Agni.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This is primarily an epithet-attribution pattern rather than a narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats uru-gaya as an epithet usable for more than one Vedic
+    god, explicitly contrasting Vishnu with Agni.
+  claim_level: linguistic_similarity
+  target: Vedic use of the epithet uru-gaya for Vishnu and Agni
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a philological and lexical comparison, not evidence for a shared
+    mythic episode.
+- id: claim:2
+  claim: The passage conditionally compares a Vedic form, printed as sabar-, with
+    a Greek form in support of the possible 'two milch-cows' translation.
+  claim_level: linguistic_similarity
+  target: Greek form printed in the passage in connection with sabar-
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: The comparison is conditional, the printed Greek form is affected by
+    OCR/typographic uncertainty, and it does not by itself establish a mythological
+    relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11914-11999; Verse 1, Note 2
+  quote_or_summary: The note says the poet probably intended a term to designate the
+    ladle as procuring a Dakshina, or sacrificial fee, for the priest.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 11914-11999; Verse 2, Note 2
+  quote_or_summary: "“The flames of Agni.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 11914-11999; Verse 2, Note 3
+  quote_or_summary: The note explains the meaning as Agni’s greatness being equal
+    to that of Heaven and Earth.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 11914-11999; Verse 3, Note 1
+  quote_or_summary: The commentator refers a plural expression to Heaven and Earth.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 11914-11999; Verse 4, Note 1
+  quote_or_summary: The note argues for a reading involving dhruve sadasi, a fixed
+    or firm seat, and cites comparable passages about sitting in that seat.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 11914-11999; Verse 4, Notes 2 and 4
+  quote_or_summary: The note identifies the referent as Heaven and Earth and gives
+    an alternative translation involving “the two milch-cows which instantly give
+    milk,” with a conditional comparison to a Greek form.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation embedded in summary from supplied
+    passage.
+- id: ev:7
+  type: summary
+  locator: lines 11914-11999; Verse 4, Note 5
+  quote_or_summary: The note says Vishnu is not the only god called uru-gaya and that
+    there is no reason the epithet should not be referred here to Agni.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 11914-11999; Verse 7, Note 3
+  quote_or_summary: The note says it is very probable that usadhak is an epithet of
+    Agni.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage consists of philological notes with OCR irregularities rather
+    than a continuous mythic narrative. Literal extraction of named figures, symbols,
+    and ritual terms is moderately secure; motif candidates and comparison claims
+    are tentative and need human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l11914-l11999
+  passage_sha256=a078125de5c81edb15cac22b5069c6ba9f0a89b2f258f611829b85db5be1499c
+

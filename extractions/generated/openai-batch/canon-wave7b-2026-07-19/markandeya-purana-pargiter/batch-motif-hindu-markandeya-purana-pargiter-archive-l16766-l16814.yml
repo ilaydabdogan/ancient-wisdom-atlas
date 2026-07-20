@@ -1,0 +1,184 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l16766-l16814
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: FAMOUS RIVERS IN INDIA. / CANTO LYTI. / FAMOUS EITERS IN INDIA. / CANTO LVn.;
+    lines 16766-16814
+  start: '16766'
+  end: '16814'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: all are mothers of the world ; they are well-known to cleanse from all sin
+  summary: The passage names rivers said to spring in the Shakti-mat Mountains, then
+    states that all rivers possess holy merit, flow into the ocean, are mothers of
+    the world, and cleanse from sin. Notes discuss variant names, possible identifications
+    of the Shakti-mat Mountains, and the interpretation of Saras-vatyah.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Vahini, Kripa, and Palasmi are said to spring in the Shakti-mat Mountains.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: All the rivers are described as possessing holy merit.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: All the rivers are described as flowing into the ocean.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: All the rivers are called mothers of the world.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: All the rivers are said to cleanse from all sin.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A note raises the question whether Saras-vatyah means all rivers or only rivers
+    called Sarasvati.
+  category: other
+  evidence_refs:
+  - ev:3
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Rivers
+  literal_form: rivers
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Ocean
+  literal_form: ocean
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Shakti-mat Mountains
+  literal_form: mountains
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Rivers named and praised
+  summary: The passage identifies several rivers as originating in the Shakti-mat
+    Mountains and then characterizes rivers generally as holy, ocean-bound, maternal,
+    and sin-cleansing.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Purifying sacred rivers
+  taxonomy_refs: []
+  basis: The rivers are described as having holy merit and cleansing from all sin.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy does not include a specific sacred-river or ritual-purification
+    motif family.
+- id: motif:2
+  label: Rivers as mothers of the world
+  taxonomy_refs:
+  - mother_goddess
+  basis: The passage explicitly calls all rivers mothers of the world.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage uses maternal language for rivers, but it does not narrate
+    distinct goddess figures or a developed mother-goddess episode.
+- id: motif:3
+  label: Waters returning to the ocean
+  taxonomy_refs: []
+  basis: The passage states that all rivers flow into the ocean.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This may be geographical or cosmological description rather than a developed
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The note links the expression about rivers as mothers of the world with a
+    Mahabharata Bhishma-Parvan passage.
+  claim_level: linguistic_similarity
+  target: Mahabharata, Bhishma-Parvan ix.344
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note gives a comparison reference but the present passage does
+    not quote the Mahabharata wording or develop a narrative comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16766-16768
+  quote_or_summary: "“Vahini, Kripa, and Palasmi are known to spring in the Shakti-mat
+    Mountains.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 16770-16773
+  quote_or_summary: "“All the rivers possess holy merit; all are rivers flowing into
+    the ocean; all are mothers of the world; they are well-known to cleanse from all
+    sin.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: note on Saras-vatyah, lines 16804-16813
+  quote_or_summary: The note asks whether Saras-vatyah refers to rivers generally
+    or only to rivers called Sarasvati, and lists seven rivers distinguished by that
+    name in the Mahabharata.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: citation
+  locator: line 16814
+  quote_or_summary: The note cites a comparison for “Visvasya mataralj” with Mahabharata,
+    Bhishma-Parvan ix.344.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal content is straightforward, but motif assignment is limited because
+    the passage is a catalogue/geographical praise of rivers rather than a narrative
+    episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures were extracted because the passage refers to rivers, mountains, and ocean rather than named anthropomorphic agents.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l16766-l16814
+  passage_sha256=c9e11f8493fc4b6ed05094f1cca7ea11548c562c99ebeb6ceab580912bf5e4bb
+

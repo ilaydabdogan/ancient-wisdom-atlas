@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l6606-l6618
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: BURIAL. / GAMES. / GAMES   OF    CHANCE. / DOLLS.; lines 6606-6618
+  start: '6606'
+  end: '6618'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Little Eskimo girls "keep house" with them in little snow iglus in winter
+    or in old tent circles in summer
+  summary: The passage describes dolls as chief playthings of Eskimo girls, notes
+    their ethnological value as miniature reflections of local dress, and describes
+    girls using them in small playhouses, snow iglus, or tent circles with miniature
+    household features.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dolls are described as the chief playthings of Eskimo girls.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Specimens of dolls were obtained from Labrador, Baffin island, and Chesterfield
+    inlet.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dolls reflect in miniature the dress of the district from which they come.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Little Eskimo girls use the dolls to "keep house" in small snow iglus in winter
+    or old tent circles in summer.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator reports seeing an old summer-camp playhouse in Hudson bay.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The playhouse contained a little fireplace, a lamp of brightly coloured pebbles,
+    and a bed of moss.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The playhouse is described as a mute witness to the minds and hands of bygone
+    Eskimo children.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eskimo girls
+  description: Girls for whom dolls are described as chief playthings and who "keep
+    house" with them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Dolls
+  description: Miniature playthings obtained from several Arctic locations and said
+    to reflect local dress.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Narrator-observer
+  description: The speaker who reports seeing a playhouse in an old summer camp in
+    Hudson bay.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Bygone Eskimo children
+  description: Children whose activity is inferred from the old playhouse and its
+    miniature household features.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: child household players
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage describes children keeping house with dolls and associates the
+    playhouse with children’s active minds and hands.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: miniature dress reflectors
+  assigned_to:
+  - fig:2
+  basis: The dolls are said to reflect district dress in miniature.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ethnographic observer
+  assigned_to:
+  - fig:3
+  basis: The narrator says he saw the playhouse in an old summer camp.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dolls as miniatures of local dress
+  literal_form: dolls reflecting district dress in miniature
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: miniature household space
+  literal_form: little snow iglus, old tent circles, and an old summer-camp playhouse
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: miniature domestic furnishings
+  literal_form: little fireplace, lamp of brightly coloured pebbles, and bed of moss
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dolls as ethnological miniatures
+  summary: Dolls from Labrador, Baffin island, and Chesterfield inlet are presented
+    as playthings that also preserve miniature forms of local dress.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Children keeping house
+  summary: Eskimo girls play at keeping house with dolls in small snow iglus during
+    winter or old tent circles during summer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Old summer-camp playhouse
+  summary: The narrator describes an old Hudson bay summer-camp playhouse with miniature
+    domestic features made from pebbles and moss.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: miniature domestic world in child play
+  taxonomy_refs: []
+  basis: The passage centers on dolls, small iglus or tent-circle playhouses, and
+    miniature household objects used in keeping-house play.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic play pattern rather than a mythic narrative motif.
+- id: motif:2
+  label: material objects preserving local social dress
+  taxonomy_refs: []
+  basis: The dolls are explicitly valued because they reflect the dress of their districts
+    in miniature.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage frames this as ethnological value, not as a symbolic or ritual
+    function.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Eskimo girls' keeping-house doll play with
+    similar domestic play by children described as their civilized sisters.
+  claim_level: same_function
+  target: children's domestic doll play outside the Labrador Eskimo context
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is brief and uses the source author's terminology; it
+    does not establish historical contact or shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6606-6610
+  quote_or_summary: Dolls are called the chief playthings of Eskimo girls, with specimens
+    from Labrador, Baffin island, and Chesterfield inlet.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 6610-6612
+  quote_or_summary: They have "ethnological value" by "reflecting in miniature the
+    dress of the district from which they come."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 6612-6615
+  quote_or_summary: Little Eskimo girls "keep house" with dolls in "little snow iglus"
+    in winter or old tent circles in summer, compared to their "civilized sisters."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 6615-6616
+  quote_or_summary: The narrator says he saw such a playhouse in an old summer camp
+    in Hudson bay.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6616-6617
+  quote_or_summary: The playhouse had a little fireplace, a lamp of brightly coloured
+    pebbles, and a bed of moss.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 6617-6618
+  quote_or_summary: The playhouse is called a "mute witness" to "the active little
+    minds and hands of bygone Eskimo children."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal ethnographic content is clear. Motif candidates are descriptive
+    and non-taxonomic because the passage is not a mythic narrative and no supplied
+    taxonomy family directly applies.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol was applied; fireplace and lamp were not mapped to the supplied fire symbol because the passage describes miniature objects rather than actual fire.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l6606-l6618
+  passage_sha256=9da01f681d0a3f4ea4e57abcf910e1d0f77685deb395ed015ff65c3f4d7d4fd2
+

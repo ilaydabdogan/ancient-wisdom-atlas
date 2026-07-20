@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.greek-plutarch-morals-shilleto-gutenberg-l7815-l8001
+source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+passage_locator:
+  label: THAT VIRTUE MAY BE TAUGHT. / ON VIRTUE AND VICE. / ON MORAL VIRTUE. / ON
+    ABUNDANCE OF FRIENDS.; lines 7815-8001
+  start: '7815'
+  end: '8001'
+  translation: Plutarch's Morals
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a sequence of editorial notes citing Greek and Latin literary,
+    philosophical, and natural-historical sources. Motif-relevant items include a
+    chameleon that changes color, Ptolemy as a votary of Cybele, a Homeric line spoken
+    by Circe to Odysseus, and a reference to Ovid's story of Baucis and Philemon with
+    a maxim about gods caring for the pious.
+  language: English with Greek and Latin citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cited note says the chameleon changes into all colors except white and red.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Ptolemy is identified as a votary of Cybele, and the note points to Lucretius
+    for a description of Cybele's worship.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Homeric line is identified as words spoken by Circe to Odysseus, with a
+    caution that the line was suspected by ancient grammarians and bracketed in modern
+    editions.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage refers readers to Ovid's story of Baucis and Philemon and quotes
+    a maxim that gods care for the pious and that those who worship are themselves
+    honored.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: chameleon
+  description: Animal described in a cited natural-history note as changing into many
+    colors except white and red.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ptolemy
+  description: Identified in the note as a votary of Cybele.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Cybele
+  description: Named as the deity whose worship is associated with Ptolemy and described
+    by Lucretius.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Circe
+  description: Named as the speaker of a line addressed to Odysseus in a Homeric citation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Odysseus
+  description: Named as the addressee of Circe's words in a Homeric citation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Baucis and Philemon
+  description: Named pair in an Ovidian story cited by the note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: gods
+  description: Divine beings referred to in the quoted maxim as caring for the pious.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: color-changing animal
+  assigned_to:
+  - fig:1
+  basis: The note states that the chameleon changes into many colors, with stated
+    exceptions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: votary
+  assigned_to:
+  - fig:2
+  basis: The note identifies Ptolemy as a votary of Cybele.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deity worshipped
+  assigned_to:
+  - fig:3
+  basis: The note refers to worship of Cybele and Ptolemy as her votary.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: speaker in cited Homeric line
+  assigned_to:
+  - fig:4
+  basis: The note says the cited words are those of Circe.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: addressee in cited Homeric line
+  assigned_to:
+  - fig:5
+  basis: The note says the words are spoken by Circe to Odysseus.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: named pair in cited piety story
+  assigned_to:
+  - fig:6
+  basis: The note names the story of Baucis and Philemon and appends a maxim about
+    divine care for the pious.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: divine carers of the pious
+  assigned_to:
+  - fig:7
+  basis: The quoted maxim states that the pious are a care to the gods.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: color-change
+  literal_form: The chameleon's ability to change into many colors, except white and
+    red.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: reciprocal piety formula
+  literal_form: The maxim that gods care for the pious and that those who worship
+    are honored.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Chameleon color-change note
+  summary: The passage cites authorities on the chameleon and reports that it changes
+    into many colors with stated exceptions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ptolemy and Cybele worship note
+  summary: The passage identifies Ptolemy as a votary of Cybele and refers to Lucretius
+    for a description of her worship.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Circe addresses Odysseus citation
+  summary: The passage identifies a line from the Odyssey as words spoken by Circe
+    to Odysseus, while noting textual suspicion around the line.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Baucis and Philemon piety reference
+  summary: The passage points to Ovid's story of Baucis and Philemon and quotes a
+    maxim about the gods' care for pious people.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Color-changing being
+  taxonomy_refs:
+  - shapeshifter
+  basis: The chameleon is described as changing into many colors, suggesting a transformation
+    pattern at the level of color rather than bodily form.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage presents a natural-history note, not a mythic metamorphosis;
+    the taxonomy link to shapeshifter is therefore weak and needs review.
+- id: motif:2
+  label: Devotion to a goddess cult
+  taxonomy_refs: []
+  basis: Ptolemy is identified as a votary of Cybele, and Cybele's worship is explicitly
+    mentioned.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The note gives no ritual narrative or mythic episode, only cultic affiliation
+    and a bibliographic cross-reference.
+- id: motif:3
+  label: Goddess or enchantress addresses hero
+  taxonomy_refs: []
+  basis: The note identifies a Homeric line as words spoken by Circe to Odysseus.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage supplies only a source identification, not the content or
+    narrative context of the exchange.
+- id: motif:4
+  label: Reciprocal divine care for pious worshippers
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The cited Ovidian maxim states that gods care for the pious and that those
+    who worship are themselves honored.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The note references Baucis and Philemon but does not narrate the story's
+    details; the sacred-exchange classification rests mainly on the quoted reciprocity
+    formula.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns the chameleon color-change note with classical
+    natural-history authorities including Aristotle, Theophrastus, and Pliny.
+  claim_level: same_function
+  target: Classical natural-history accounts of the chameleon in Aristotle, Theophrastus,
+    and Pliny
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a scholarly source comparison, not evidence of a mythic motif
+    by itself.
+- id: claim:2
+  claim: The passage links Cybele worship in Plutarch's context to Lucretius's description
+    of Cybele's worship.
+  claim_level: same_function
+  target: Lucretius, De Rerum Natura ii.598-643 on the worship of Cybele
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The note gives only a citation to Lucretius and does not quote or summarize
+    the ritual description.
+- id: claim:3
+  claim: The passage identifies the cited line as a Homeric line spoken by Circe to
+    Odysseus, but also notes textual suspicion about the line.
+  claim_level: linguistic_similarity
+  target: Homer, Odyssey x.329, Circe to Odysseus
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: The note itself reports that ancient grammarians suspected the line
+    and that modern editions bracket it.
+- id: claim:4
+  claim: The passage directs comparison to Ovid's story of Baucis and Philemon as
+    an example associated with divine concern for pious people.
+  claim_level: same_function
+  target: Ovid, Metamorphoses viii.626-724, Baucis and Philemon
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names the story and quotes a moralizing line but does not
+    recount the episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7815-8001, note [381]
+  quote_or_summary: The note cites Aristotle, Theophrastus, and Pliny on the chameleon
+    and reports in Greek that the chameleon changes into all colors except white and
+    red.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 7815-8001, note [396]
+  quote_or_summary: '"This Ptolemy was a votary of Cybele... The worship of Cybele
+    is well described by Lucretius, ii. 598-643."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 7815-8001, note [421]
+  quote_or_summary: The note says the cited line is Homer, Odyssey x.329, the words
+    of Circe to Odysseus, but adds that the line was suspected by ancient grammarians
+    and bracketed in modern editions.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 7815-8001, note [434]
+  quote_or_summary: '"See the beautiful story of Baucis and Philemon, Ovid, Metamorphoses,
+    viii. 626-724: ''Cura pii dis sunt, et qui coluere coluntur.''"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is mostly editorial annotation rather than a continuous mythic
+    narrative. Motif candidates are therefore limited and several rest on citations
+    rather than narrated episodes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No narrative details from the cited external works were added beyond what the notes explicitly state.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-plutarch-morals-shilleto-gutenberg__l7815-l8001
+  passage_sha256=d92d22931e32791cb463fe5a6fcd1d05cf511078d5a546e51bd2c9e7fc899a95
+

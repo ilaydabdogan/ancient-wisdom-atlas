@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2689-l2712
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: CADMUS. / CADMUS. / AGAVE. / CADMUS.; lines 2689-2712
+  start: '2689'
+  end: '2712'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“my will / Clears, and some change cometh”"
+  summary: Agave remarks on a brighter appearance. Cadmus asks whether a wild tremor
+    remains with her and whether she can listen and answer now that she is changed.
+    Agave, troubled, says her will is clearing but that she has forgotten something.
+    Cadmus asks her to recall the husband who once led her from his house.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Agave describes something as more shining and more heavenly bright than before.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cadmus asks Agave whether a wild tremor is still with her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Agave, described in the stage direction as troubled, says she does not know
+    what Cadmus means.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Agave says her will clears and that some change is coming, though she does
+    not know how.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cadmus asks whether Agave can listen and answer now, being changed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Agave says she has forgotten something.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Cadmus asks Agave what husband led her of old from his abode.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agave
+  description: A speaker who reports brightness, is marked as troubled, says her will
+    is clearing, and says she has forgotten something.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Cadmus
+  description: A speaker who questions Agave about a tremor, her ability to answer,
+    and the husband who led her from his abode.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: unnamed husband
+  description: A husband mentioned in Cadmus's question as having led Agave of old
+    from Cadmus's abode.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: troubled respondent undergoing change
+  assigned_to:
+  - fig:1
+  basis: Agave is described as troubled and says her will clears while some change
+    comes.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: questioner guiding recollection
+  assigned_to:
+  - fig:2
+  basis: Cadmus asks sequential questions about Agave's condition, her ability to
+    answer, and a past husband.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: remembered spouse
+  assigned_to:
+  - fig:3
+  basis: The husband is referred to only as the one who led Agave from Cadmus's abode
+    in the past.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: heavenly brightness
+  literal_form: something described by Agave as more shining and more heavenly bright
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wild tremor
+  literal_form: the wild tremor Cadmus asks whether Agave still has
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: clearing will
+  literal_form: Agave's will clearing as some change comes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cadmus questions Agave as her will clears
+  summary: Agave speaks of brightness. Cadmus asks whether her tremor remains and
+    whether she can listen and answer. Agave says her will is clearing but that she
+    has forgotten something, and Cadmus prompts her to recall her former husband.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: recovery of awareness after altered or troubled state
+  taxonomy_refs: []
+  basis: The passage presents Agave as troubled, subject to a wild tremor, and undergoing
+    a change in which her will clears.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state the cause of the tremor or change, so the motif
+    is limited to the observable recovery of awareness.
+- id: motif:2
+  label: prompted recollection of identity and past bonds
+  taxonomy_refs: []
+  basis: Cadmus tests Agave's ability to answer and asks her to remember the husband
+    who once led her from his abode, while Agave says she has forgotten something.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only the beginning of the recollection prompt and does
+    not show whether memory is fully restored.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2689-2692
+  quote_or_summary: 'Agave: “More shining than before, more heavenly bright!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: 2693-2695
+  quote_or_summary: 'Cadmus asks: “And that wild tremor, is it with thee still?”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: 2696-2701
+  quote_or_summary: Agave is marked “troubled” and says she does not know what Cadmus
+    means, but that her will clears and some change comes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; public domain summary/brief quotation.
+- id: ev:4
+  type: quote
+  locator: 2702-2705
+  quote_or_summary: Cadmus asks whether Agave can listen and answer now, “being changed.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: 2706-2709
+  quote_or_summary: 'Agave says: “I have forgotten something; else I could.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: quote
+  locator: 2710-2712
+  quote_or_summary: 'Cadmus asks: “What husband led thee of old from mine abode?”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied dialogue. Motif labels
+    are cautious because the passage does not state the wider cause or outcome of
+    Agave's changed state.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references or comparison claims were assigned because the supplied passage does not explicitly support them.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2689-l2712
+  passage_sha256=b91602f3519751af9025e558d0ad41222e526de3d4030dd30b1a76d0df0c0abe
+

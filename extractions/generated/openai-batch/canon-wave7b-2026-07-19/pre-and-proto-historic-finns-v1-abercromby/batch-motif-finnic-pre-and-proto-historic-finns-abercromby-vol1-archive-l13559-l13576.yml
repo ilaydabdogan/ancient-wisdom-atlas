@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.finnic-pre-and-proto-historic-finns-abercromby-vol1-archive-l13559-l13576
+source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+passage_locator:
+  label: SAINTS, / KALEVA, / WIZARDS, SORCERERS, ETC. / DISEASE.; lines 13559-13576
+  start: '13559'
+  end: '13576'
+  translation: The Pre- and Proto-historic Finns, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Jesus’ stone of joy, the Creator’s rock of sports”"
+  summary: 'The passage notes rare references to worship in hunting-related material:
+    several hunters deny worshiping or bowing to stones, firs, stumps, and willows,
+    while mentioning offerings, prayers, holy days, and a festive stone or rock described
+    with Christian sacred names.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author states that references to worship are very rare but worth noting.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One hunter says he does not worship boulder stones, praise a stone, or hunt
+    on holy days and Sabbaths.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same hunter contrasts other men’s offerings of gold, silver, and tin with
+    his own offerings and prayers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Another hunter says he does not bow down to firs, but bows to the “flowers”
+    of a fir, explained as squirrels.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A third hunter prays for “hoofs and feet” and denies giving thanks for a stone,
+    prostrating himself for stumps, or serving willows.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A stone is mentioned as a place where festivities, apparently partly religious,
+    were held.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The festive stone is referred to by an expression naming Jesus and the Creator.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: first hunter
+  description: A hunter who denies worshiping or praising stones and discusses offerings
+    and prayers.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: other men
+  description: Men whose offerings of gold, silver, and tin and prayers are mentioned
+    in comparison with the hunter’s offerings and prayers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: second hunter
+  description: A hunter who denies bowing to firs but bows to the “flowers” of a fir,
+    explained as squirrels.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: third hunter
+  description: A hunter who prays for “hoofs and feet” and denies thanks or prostration
+    for stones, stumps, and willows.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Jesus
+  description: 'Named in the expression associated with the festive stone: “Jesus’
+    stone of joy.”'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Creator
+  description: 'Named in the expression associated with the rock: “the Creator’s rock
+    of sports.”'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  basis: Each of these figures is explicitly identified as a hunter.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: denier of worship or bowing to natural objects
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  basis: The hunters deny worshiping, praising, bowing to, thanking, prostrating before,
+    or serving stones, firs, stumps, or willows.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: offerer or prayer-maker
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: Offerings and prayers are attributed to or compared among these figures,
+    and the third hunter prays for “hoofs and feet.”
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: named sacred referent in stone expression
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Jesus and the Creator are named in the expression for the stone or rock.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: stone or boulder stone
+  literal_form: boulder stones, a stone, and a rock
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: fir and fir-flowers
+  literal_form: firs and the “flowers” of a fir, explained as squirrels
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: stumps and willows
+  literal_form: stumps and willows
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: metal offerings
+  literal_form: gold, silver, and tin offerings
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: hoofs and feet
+  literal_form: "“hoofs and feet” prayed for by a hunter"
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: holy days and Sabbaths
+  literal_form: holy days and Sabbaths
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Hunter denies stone worship and compares offerings
+  summary: A hunter denies worshiping boulder stones or praising a stone, avoids hunting
+    on holy days and Sabbaths, and speaks of offerings and prayers in comparison with
+    those of other men.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Hunter bows to fir-flowers rather than firs
+  summary: A hunter distinguishes between bowing to firs and bowing to the “flowers”
+    of a fir, glossed as squirrels.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Hunter prays for hoofs and feet while rejecting stone, stump, and willow
+    service
+  summary: A hunter prays for “hoofs and feet” and says he will not thank a stone,
+    prostrate himself for stumps, or serve willows.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Festive stone with sacred names
+  summary: A stone used for festivities of partly religious character is referred
+    to as Jesus’ stone of joy and the Creator’s rock of sports.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Denial of worship toward stones and trees
+  taxonomy_refs: []
+  basis: Multiple hunters explicitly deny worshiping, bowing to, thanking, prostrating
+    before, or serving stones, firs, stumps, and willows.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage reports denials and refusals, not direct descriptions of an
+    actual worship rite.
+- id: motif:2
+  label: Offerings and prayers in a hunting context
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage connects hunters with offerings, prayers, and a prayer for “hoofs
+    and feet.”
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The exchange function is inferred from offerings and prayers; the passage
+    does not explicitly describe a completed transaction with a deity or spirit.
+- id: motif:3
+  label: Sacred or festive stone site
+  taxonomy_refs: []
+  basis: A stone is described as a place where festivities of partly religious nature
+    were held and is named with references to Jesus and the Creator.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The description is brief and mediated by the author’s cautious wording
+    “no doubt partly of a religious nature.”},{
+- id: motif:4
+  label: Bowing redirected from tree to animal sign
+  taxonomy_refs: []
+  basis: A hunter says he does not bow to firs but bows to the “flowers” of a fir,
+    which the passage explains as squirrels.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The meaning of the bowing gesture and the phrase “flowers” is not further
+    explained in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13559-13560
+  quote_or_summary: The passage opens by saying that references to worship are rare
+    but noteworthy.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 13560-13563
+  quote_or_summary: A hunter says he does not worship boulder stones, praise a stone,
+    or hunt on holy days and Sabbaths.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 13563-13566
+  quote_or_summary: Other men’s offerings of gold, silver, and tin are compared with
+    the hunter’s more solid offerings and his prayers to the best donors.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 13566-13568
+  quote_or_summary: Another hunter says he does not bow to firs but bows to the “flowers”
+    of a fir, explained as squirrels.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 13568-13571
+  quote_or_summary: A third hunter prays for “hoofs and feet” and rejects giving thanks
+    for a stone, prostrating himself for stumps, or serving willows.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 13573-13575
+  quote_or_summary: A stone is described as a place where festivities of some sort,
+    apparently partly religious, were held.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: quote
+  locator: lines 13575-13576
+  quote_or_summary: "“Jesus’ stone of joy, the Creator’s rock of sports”"
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about objects, gestures, offerings, and prayers,
+    but motif interpretation is limited because the text reports brief examples rather
+    than full narratives or rituals.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added because the passage itself does not establish historical contact, common inheritance, or comparison with another named corpus.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:finnic-pre-and-proto-historic-finns-abercromby-vol1-archive__l13559-l13576
+  passage_sha256=da02960affeefb1e82fdaf829b384d890badeaeb55d6861c5aaec8a6ae97de5f
+

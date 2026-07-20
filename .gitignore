@@ -11,3 +11,10 @@ data/batches/*embeddings*/results/
 data/indexes/motif-occurrences.yml
 data/batches/crown-label-embed-2026-07-18/results/
 .crown-venv/
+
+# Generated artifacts that outgrew GitHub's 100MB limit as the corpus scaled.
+# Both are deterministically regenerable: motif-index.md by build_similarity_index.rb
+# (the site reads the JSON cache, not this markdown); passages.jsonl by
+# batch_segment_passages.rb. Model outputs under results/ remain tracked.
+comparisons/motif-index.md
+data/batches/*/passages.jsonl

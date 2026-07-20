@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l17884-l17892
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: IX  RELIGION  343 / THE   BAGANDA / CHAP. / IX  RELIGION  345; lines 17884-17892
+  start: '17884'
+  end: '17892'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“cut or loose hairs and nail-parings were concealed in the garden of a female
+    relative”"
+  summary: The passage states that an enemy could take bodily remnants to a medicine-man,
+    who would advise how medicines should be applied to them or how they should be
+    destroyed to cause the death of the person they came from. It adds that hair,
+    nail-parings, and spittle were concealed or covered to leave no trace.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An enemy could obtain bodily remnants from a person.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The enemy-taken remnants would be brought to a medicine-man.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The medicine-man would advise what medicines to put on the remnants or how
+    to destroy them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stated intended result of treating or destroying the remnants was the
+    death of the person from whom they had been obtained.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Cut or loose hairs and nail-parings were concealed in the garden of a female
+    relative.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Spittle was carefully covered so that no trace of it remained visible.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: enemy
+  description: A hostile person who could obtain bodily remnants and take them to
+    a medicine-man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: medicine-man
+  description: A ritual specialist who would give advice about medicines or destruction
+    of the obtained remnants.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: person from whom remnants were obtained
+  description: The person whose death was to be caused through the obtained remnants.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: female relative
+  description: A female relative whose garden was used as the place where cut or loose
+    hairs and nail-parings were concealed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: hostile obtainer of bodily remnants
+  assigned_to:
+  - fig:1
+  basis: The passage says remnants obtained by an enemy would be taken to a medicine-man.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: medicine adviser
+  assigned_to:
+  - fig:2
+  basis: The medicine-man gives advice on medicines to put on the remnants or how
+    they should be destroyed.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: intended victim
+  assigned_to:
+  - fig:3
+  basis: The action is described as causing the death of the person from whom the
+    remnants had been obtained.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: female kin associated with concealment place
+  assigned_to:
+  - fig:4
+  basis: Hair and nail-parings are concealed in the garden of a female relative.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: bodily remnants
+  literal_form: cut or loose hairs, nail-parings, and spittle
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: medicines applied to remnants
+  literal_form: medicines put upon the obtained bodily remnants
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: garden concealment place
+  literal_form: garden of a female relative
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Enemy takes bodily remnants to medicine-man
+  summary: Bodily remnants obtained by an enemy are taken to a medicine-man, who advises
+    on applying medicines or destroying the remnants in order to cause the originating
+    person's death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Concealment of personal traces
+  summary: Because of the danger described, cut or loose hair and nail-parings are
+    hidden in a female relative's garden, and spittle is covered so that no trace
+    remains.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: harm through separated bodily remnants
+  taxonomy_refs: []
+  basis: The passage describes hair, nail-parings, and spittle as vulnerable remnants
+    that an enemy can take to a medicine-man for treatment or destruction to cause
+    the original person's death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives an ethnographic report rather than a narrative myth
+    episode; no supplied taxonomy motif directly names this pattern.
+- id: motif:2
+  label: protective concealment of bodily traces
+  taxonomy_refs: []
+  basis: Hair and nail-parings are concealed, and spittle is covered, to prevent enemies
+    from finding traces that could be used harmfully.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states the practice and rationale briefly; it does not describe
+    a full ritual procedure for concealment.
+- id: motif:3
+  label: ritual specialist mediates hostile medicine
+  taxonomy_refs: []
+  basis: The medicine-man is consulted for advice on medicines or destruction of bodily
+    remnants to bring about death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The specialist's actions are described as advisory; the passage does not
+    say he personally performs the harmful act.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17884-17886
+  quote_or_summary: Bodily remnants obtained by an enemy would be taken to a medicine-man.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 17886-17889
+  quote_or_summary: The medicine-man would advise what medicines to put on the remnants
+    or how to destroy them to cause the death of the person they came from.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 17890-17891
+  quote_or_summary: "“cut or loose hairs and nail-parings were concealed in the garden
+    of a female relative”"
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 17891-17892
+  quote_or_summary: Spittle was carefully covered so that no trace of it was left
+    behind.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the passage. Motif labels are descriptive
+    and not mapped to the supplied motif-family taxonomy. No comparison claims are
+    made because the passage itself supplies no explicit comparandum.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif reference was assigned; bodily remnants are not among the supplied symbol taxonomy terms.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l17884-l17892
+  passage_sha256=e5d487ca5d087efe5c18d5567ebc23fce431c5440a3020b5be4b63671755fcba
+

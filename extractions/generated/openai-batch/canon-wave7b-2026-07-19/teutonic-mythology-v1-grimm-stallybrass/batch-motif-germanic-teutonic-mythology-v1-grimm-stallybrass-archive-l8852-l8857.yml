@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l8852-l8857
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: TIIUNAE.  169 / THUNAR.  171 / THUNAE.  173 / THUNAR.  175; lines 8852-8857
+  start: '8852'
+  end: '8857'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage summarizes Uhland''s interpretation of ON myths in his essay
+    on Thorr: the conflict between a summer-god and winter-giants signifies bringing
+    land under cultivation, and the rock-splitting force of the thunderbolt prepares
+    hard stony soil. The interpretation is said to fit the Hrungnir and Orvandill
+    sagas especially well, and some other cases less well.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Uhland's essay on Thorr is described as having worked out an interpretation
+    of ON myths.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes a conflict between a summer-god and winter-giants.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: That conflict is said to signify bringing land under cultivation.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A rock-splitting thunderbolt force is said to prepare hard stony soil.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The interpretation is said to fit the Hrungnir and Orvandill sagas especially
+    well, while some other cases fit less well.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Uhland
+  description: Author of an essay on Thorr, described as interpreting ON myths.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Thorr
+  description: Named as the subject of Uhland's essay.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: summer-god
+  description: A divine figure described as being in conflict with winter-giants.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: winter-giants
+  description: Collective opponents in conflict with the summer-god.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hrungnir
+  description: Named as part of the Hrungnir saga example where the interpretation
+    is said to fit well.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Orvandill
+  description: Named as part of the Orvandill saga example where the interpretation
+    is said to fit well.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: scholarly interpreter
+  assigned_to:
+  - fig:1
+  basis: The passage says Uhland, in an essay on Thorr, worked out an interpretation
+    of ON myths.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named subject of essay
+  assigned_to:
+  - fig:2
+  basis: Thorr is named as the subject of Uhland's essay.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: summer-god combatant
+  assigned_to:
+  - fig:3
+  basis: The passage describes the conflict of the summer-god with winter-giants.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: winter-giant opponents
+  assigned_to:
+  - fig:4
+  basis: The winter-giants are the opposing side in the stated conflict.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named saga exemplars
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The Hrungnir and Orvandill sagas are named as examples where the exposition
+    fits especially well.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: thunderbolt force
+  literal_form: rock-splitting thunderbolt force
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: hard stony soil
+  literal_form: hard stony soil
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: cultivated land
+  literal_form: land under cultivation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Uhland's interpretation of Thorr myths
+  summary: Uhland is described as interpreting ON myths in an essay on Thorr.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seasonal conflict as cultivation
+  summary: A conflict between a summer-god and winter-giants is interpreted as bringing
+    land under cultivation, with thunderbolt force splitting rock and preparing hard
+    soil.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Examples and limits of the interpretation
+  summary: The interpretation is said to apply especially well to the Hrungnir and
+    Orvandill sagas, but less well to some other cases.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: summer-god versus winter-giants
+  taxonomy_refs:
+  - seasonal_cycle
+  - duality
+  basis: The passage explicitly frames the mythic conflict as summer-god against winter-giants.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is a secondary interpretive statement and does not narrate
+    the mythic episode itself.
+- id: motif:2
+  label: thunderbolt prepares land for cultivation
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage says the conflict signifies bringing land under cultivation and
+    that the thunderbolt's rock-splitting force prepares stony soil.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The culture-forming reading is attributed to Uhland's interpretation;
+    the passage does not present a full culture-hero narrative.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage compares the applicability of the cultivation-reading across
+    ON myths: it fits the Hrungnir and Orvandill sagas especially well, while some
+    other cases fit less well.'
+  claim_level: same_function
+  target: Hrungnir and Orvandill sagas relative to other ON myths
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: This is a reported scholarly comparison; the underlying saga episodes
+    are not summarized in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8852-8853
+  quote_or_summary: Uhland, in an essay on Thorr, is said to have penetrated to the
+    heart of ON myths and worked out an interpretation.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:2
+  type: summary
+  locator: lines 8853-8855
+  quote_or_summary: The conflict of the summer-god with winter-giants is said to signify
+    bringing land under cultivation.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:3
+  type: summary
+  locator: lines 8855-8856
+  quote_or_summary: A crushing, rock-splitting thunderbolt force is said to prepare
+    hard stony soil; the supplied text has OCR spelling 'thiuiderbolt'.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:4
+  type: summary
+  locator: lines 8856-8857
+  quote_or_summary: The interpretation is said to be most happily expounded in the
+    Hrungnir and Orvandill sagas.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; passage supplied by requester.
+- id: ev:5
+  type: summary
+  locator: line 8857
+  quote_or_summary: The passage adds that in some of the other sagas the interpretation
+    seems not to answer so well.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; passage supplied by requester.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a short secondary scholarly interpretation rather than a primary
+    myth narrative. Figure identifications for Hrungnir and Orvandill are limited
+    to their being named in saga examples.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Kept Uhland's interpretation separate from literal observations. No historical-contact or inheritance claims are made.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l8852-l8857
+  passage_sha256=4b3b5c5da44715e83a3c930e55b39aa03ccda4cee2f817a79830eb569c67f2bb
+

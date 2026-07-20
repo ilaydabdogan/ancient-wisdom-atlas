@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l40334-l40338
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XX / SECTION XXI / SECTION XXII / SECTION XXIII; lines 40334-40338
+  start: '40334'
+  end: '40338'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Tell me, O Sanjaya, the distinctive indications of the cars of all those
+    who, excited with wrath and headed by Bhimasena, had proceeded against Drona."'
+  summary: Dhritarashtra asks Sanjaya to describe the distinctive signs of the chariots
+    belonging to the wrathful warriors led by Bhimasena who advanced against Drona.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dhritarashtra addresses Sanjaya with a request for information.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The requested information concerns the distinctive indications of the warriors'
+    cars.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A group of warriors is described as excited with wrath.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The group is described as headed by Bhimasena.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The group had proceeded against Drona.
+  category: action
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Dhritarashtra
+  description: Speaker who asks Sanjaya to tell him the distinctive indications of
+    the cars.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sanjaya
+  description: Addressee of Dhritarashtra's request.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bhimasena
+  description: Named leader heading the warriors who proceeded against Drona.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Drona
+  description: Named figure against whom the warriors proceeded.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Wrathful warriors headed by Bhimasena
+  description: Group described as excited with wrath and moving against Drona.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: Dhritarashtra says, "Tell me, O Sanjaya."
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: requested informant
+  assigned_to:
+  - fig:2
+  basis: Sanjaya is directly addressed as the person expected to provide the description.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: leader of advancing warriors
+  assigned_to:
+  - fig:3
+  basis: The warriors are said to be headed by Bhimasena.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: target of advance
+  assigned_to:
+  - fig:4
+  basis: The warriors had proceeded against Drona.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: advancing martial group
+  assigned_to:
+  - fig:5
+  basis: The group is described as wrathful and as having proceeded against Drona.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: chariot signs
+  literal_form: distinctive indications of the cars
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cars
+  literal_form: cars
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Dhritarashtra asks about the chariot indications
+  summary: Dhritarashtra asks Sanjaya to describe the distinctive signs of the cars
+    of the wrathful warriors led by Bhimasena who advanced against Drona.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: identification of warriors by chariot signs
+  taxonomy_refs: []
+  basis: The passage frames a request to identify the distinctive indications of the
+    cars of warriors in a martial advance.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage only asks for the indications; it does not supply the actual
+    signs or their meanings.
+- id: motif:2
+  label: wrathful martial advance against a named opponent
+  taxonomy_refs: []
+  basis: The warriors are described as excited with wrath, led by Bhimasena, and proceeding
+    against Drona.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a battle-action pattern rather than a clearly developed mythic
+    motif within the short excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 40334-40338
+  quote_or_summary: Dhritarashtra asks Sanjaya to tell him the distinctive indications
+    of the cars of those warriors, excited with wrath and headed by Bhimasena, who
+    had proceeded against Drona.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short passage summarized with a brief quoted
+    phrase in canonical_text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is very short and supports reliable extraction of speakers, addressees,
+    martial figures, chariot objects, and a limited battle-identification pattern.
+    No explicit comparative claim is supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied because the passage does not clearly support any listed taxonomy item.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l40334-l40338
+  passage_sha256=0a97910100aed268223328c1259df851c9aa1750615f41f2b99e55d4acfafd41
+

@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l5312-l5354
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: CHAPTER XIII / DREAMS / DREAMS / DREAMS; lines 5312-5354
+  start: '5312'
+  end: '5354'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The narrator recounts two dream-related incidents: a worker left after
+    dreaming his child was ill, and another Indian came from a distant village to
+    seek compensation for pumpkins he accused the narrator of stealing, while also
+    admitting the narrator had not physically taken them. The narrator frames the
+    second incident as illustrating a native belief that souls meet in dreamland and
+    a connected theory of intention.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A worker left the narrator's service because he thought his child was ill,
+    later returned, and resumed his duties.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A visitor from the worker's village told the narrator that nothing was wrong
+    with the child.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator later learned that the worker had made the journey because he
+    had dreamed that his child was sick.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator explicitly introduces the next account as an illustration of
+    a native belief that souls meet with each other in dreamland and of a theory of
+    intention connected with that belief.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An Indian arrived from a place about one hundred and fifty miles away and
+    asked the narrator for compensation for pumpkins allegedly stolen from his garden.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The same Indian admitted that the narrator had not taken the pumpkins.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: The first-person speaker who questions the worker, denies having stolen
+    pumpkins, and reports the dream-belief explanation.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Worker who dreamed of his child
+  description: A man who had promised to work for the narrator, left after thinking
+    his child was ill, and later was said to have acted because of a dream.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Worker's child
+  description: The child whom the worker believed to be ill, though a visitor later
+    reported nothing was wrong.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Visitor from the worker's village
+  description: A visitor who informed the narrator that nothing was wrong with the
+    worker's child.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Indian claimant from distant village
+  description: A man who came from about one hundred and fifty miles away seeking
+    compensation for pumpkins and admitted the narrator had not taken them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Souls in dreamland
+  description: Generic souls described in the stated native belief as meeting with
+    each other in dreamland.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: questioning narrator
+  assigned_to:
+  - fig:1
+  basis: The narrator challenges the worker and questions him about his conduct and
+    child.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dream-guided absent worker
+  assigned_to:
+  - fig:2
+  basis: The worker made a journey after dreaming that his child was sick.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: reported sick child
+  assigned_to:
+  - fig:3
+  basis: The child was believed by the worker to be ill but was reported well.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: village informant
+  assigned_to:
+  - fig:4
+  basis: The visitor reported that nothing was wrong with the child.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: compensation claimant
+  assigned_to:
+  - fig:5
+  basis: The man asked for compensation for pumpkins allegedly stolen from his garden.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: accused non-thief
+  assigned_to:
+  - fig:1
+  basis: The narrator was accused of stealing pumpkins, but the claimant admitted
+    the narrator had not taken them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: dreamland meeting participants
+  assigned_to:
+  - fig:6
+  basis: The passage states a native belief that souls meet each other in dreamland.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dreamland
+  literal_form: place or realm where souls are said to meet in dreams
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: pumpkins
+  literal_form: pumpkins from the claimant's garden
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: dream of sick child
+  literal_form: dream report that the worker's child was sick
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Worker leaves after dream of child's illness
+  summary: A worker leaves the narrator's service, later returns, and the narrator
+    learns that the journey was prompted by a dream in which the worker's child was
+    sick, though the child was not actually ill.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Distant claimant seeks compensation for pumpkins
+  summary: The narrator frames an interview as illustrating native beliefs about dreamland
+    and intention; an Indian from far away demands compensation for pumpkins, while
+    admitting the narrator had not physically taken them.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Dream as actionable report of distant illness
+  taxonomy_refs: []
+  basis: The worker made a real journey because he dreamed that his child was sick.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage reports the narrator's later understanding of the worker's
+    motive; it does not provide the dreamer's own detailed dream narrative.
+- id: motif:2
+  label: Souls meeting in dreamland
+  taxonomy_refs: []
+  basis: The narrator states that the native belief being illustrated is that souls
+    meet each other in dreamland.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the belief in the narrator's ethnographic framing rather
+    than as an extended indigenous speech.
+- id: motif:3
+  label: Dream-related social accountability for non-physical acts
+  taxonomy_refs: []
+  basis: The second account is introduced as concerning dreamland meetings and intention;
+    the claimant seeks compensation for pumpkins while admitting the narrator did
+    not physically take them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The supplied passage ends before the full explanation of the pumpkin claim,
+    so the exact dream mechanism is incomplete in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the passage, both anecdotes support a cautious pattern in which dream
+    experience or dreamland belief has real-world social consequences: travel in the
+    first case and a compensation claim in the second.'
+  claim_level: same_function
+  target: within-passage pattern of dreams producing practical action or claims
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal pattern comparison only; the excerpt does not support
+    claims of historical contact, common inheritance, or comparison to an external
+    tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5312-5332
+  quote_or_summary: The worker returned, said he had not intended to break his contract,
+    and admitted he had left because he had thought his child was ill, though it was
+    not.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 5316-5319
+  quote_or_summary: A visitor from the man's village told the narrator that there
+    was nothing wrong with the child.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 5332-5334
+  quote_or_summary: '"he had made this journey because he had dreamed that his child
+    was sick"'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; brief quotation from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 5335-5338
+  quote_or_summary: '"the native belief that souls meet with each other in dreamland,
+    and the theory of intention connected therewith"'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; brief quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 5338-5345
+  quote_or_summary: An Indian arrived from about one hundred and fifty miles away
+    and asked the narrator for compensation for pumpkins he said the narrator had
+    recently stolen from his garden.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 5346-5353
+  quote_or_summary: After the narrator denied being near the village or taking pumpkins,
+    the claimant admitted that the narrator had not taken them.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The child-dream incident and stated dreamland belief are explicit. The pumpkin-compensation
+    episode is incomplete in the supplied excerpt, limiting certainty about the exact
+    dream-intention mechanism.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was applied because the supplied taxonomy list does not include a close dreamland or dream-accountability motif.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l5312-l5354
+  passage_sha256=44a7270fa8891af8faa0fe425c1be218253884411ded2eb5f8c672dd4d41e6a9
+

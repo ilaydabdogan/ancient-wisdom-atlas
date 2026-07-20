@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.finnic-pre-and-proto-historic-finns-abercromby-vol1-archive-l1333-l1445
+source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+passage_locator:
+  label: HN ECONO A / MOMADI ONAAW HAD / CRANIOLOGY OF THE FINNS / AUS OMO MM ;; lines
+    1333-1445
+  start: '1333'
+  end: '1445'
+  translation: The Pre- and Proto-historic Finns, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents craniological tables and commentary. It cites measurements
+    of Ceremis, Permian, Ostiak, North Russian, and Laurenzberg skull samples, classifies
+    them by Broca's categories, and compares head dimensions among Finnish and neighboring
+    population samples. It concludes that the Finns are not homogeneous in cranial
+    type.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author arranges measured crania into tables using Broca's classification
+    and adds comparison data.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Maliev measured 17 Ceremis crania from an old burial-place at Little Sundir
+    and 26 Permian crania from a cemetery at Kudimkor.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dr. Sommier measured 36 Ostiak crania.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The author adds 184 North Russian crania measured by Dr. Tarenetsky for comparison.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage describes 23 skulls from a row-grave cemetery at Laurenzberg near
+    Kaldus on the Vistula, measured by Dr. Lissauer.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Laurenzberg skulls are dated to the end of the last millennium and attributed
+    to a Slav-speaking population on the basis of funeral furniture and pottery.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The author states that the Finns are not a homogeneous race and include both
+    dolichocephals and brachycephals.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage compares Hime, Ceremis, Ostiak, and Permian cranial dimensions
+    by length, breadth, and height.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Author/compiler
+  description: The speaking analyst who arranges the measurements in tables, adds
+    comparison data, and interprets the tabular results.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Maliev
+  description: Researcher cited as measuring Ceremis and Permian crania.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Dr. Sommier
+  description: Researcher cited as measuring 36 Ostiak crania.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Dr. Tarenetsky
+  description: Researcher cited as measuring 184 North Russian crania.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Dr. Lissauer
+  description: Researcher cited as measuring the Laurenzberg skulls.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Ceremis crania sample
+  description: Seventeen Ceremis crania from an old burial-place at Little Sundir
+    in the district of Kozmodemiansk, Kazan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: Permian crania sample
+  description: Twenty-six Permian crania from a cemetery at Kudimkor in the district
+    of Solikamsk, Perm.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:8
+  name_or_label: Ostiak crania sample
+  description: Thirty-six Ostiak crania measured by Dr. Sommier.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:9
+  name_or_label: North Russian crania sample
+  description: One hundred eighty-four North Russian crania included for comparison;
+    dolichocephals are shown separately on one table line.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:10
+  name_or_label: Laurenzberg row-grave skulls / attributed Slav-speaking population
+  description: Twenty-three skulls from a row-grave cemetery at Laurenzberg, near
+    Kaldus on the Vistula; attributed to a Slav-speaking population from grave goods
+    and pottery.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:11
+  name_or_label: Hime
+  description: Population label used in the passage for a group compared with Ceremis
+    and Ostiak cranial dimensions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:12
+  name_or_label: Finns
+  description: Population described as including both dolichocephals and brachycephals
+    rather than forming a homogeneous cranial type.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: compiler and comparator of craniological data
+  assigned_to:
+  - fig:1
+  basis: The passage states that the author arranged measurements in tables, added
+    comparison material, and drew conclusions from the tables.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: cited measurer of cranial samples
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage names these researchers as having measured the cranial samples
+    cited.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: measured or compared population sample
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  - fig:11
+  - fig:12
+  basis: These groups or samples are the objects of measurement, classification, or
+    comparison in the craniological discussion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: archaeologically attributed population
+  assigned_to:
+  - fig:10
+  basis: The Laurenzberg skulls are associated with a Slav-speaking population based
+    on funeral furniture and pottery.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Compilation of craniological tables
+  summary: The author cites several researchers' measurements of Ceremis, Permian,
+    Ostiak, North Russian, and Laurenzberg cranial samples and arranges them into
+    comparative tables.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Comparative cranial assessment
+  summary: The author interprets the tables, stating that Finns are not homogeneous
+    in cranial type and comparing Hime, Ceremis, Ostiak, and Permian head dimensions.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:11
+  - fig:12
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1333-1445; prose paragraph beginning 'using the French method'
+  quote_or_summary: Maliev is said to have measured 17 Ceremis crania from Little
+    Sundir and 26 Permian crania from Kudimkor; Dr. Sommier is said to have measured
+    36 Ostiak crania; the author arranges them in a table by Broca's classification.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1333-1445; paragraph on comparison samples
+  quote_or_summary: The author adds 184 North Russian crania measured by Dr. Tarenetsky
+    and 23 Laurenzberg row-grave skulls measured by Dr. Lissauer; the Laurenzberg
+    group is dated and attributed to a Slav-speaking population based on funeral furniture
+    and pottery.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1333-1445; paragraph beginning 'An inspection of the two Tables'
+  quote_or_summary: '"An inspection of the two Tables shows that the Finns are not
+    a homogeneous race, as it includes both dolichocephals and brachycephals."'
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 1333-1445; final comparative paragraph
+  quote_or_summary: The author compares Hime with Ceremis and Ostiak cranial length,
+    breadth, and height, and also compares Ceremis, Ostiak, and Permian dimensions.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The prose is clear enough to extract craniological entities and comparisons,
+    but the table text in the passage is heavily garbled by OCR. No mythological narrative,
+    symbol from the supplied symbol list, or candidate motif family is supported by
+    this passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  This record describes a craniological/ethnographic discussion rather than a mythic or folkloric passage. Candidate motifs and comparison claims are therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:finnic-pre-and-proto-historic-finns-abercromby-vol1-archive__l1333-l1445
+  passage_sha256=fb354559d3e68ba13708347ad913faa1061303dd322237646362b2ff243bbec3
+

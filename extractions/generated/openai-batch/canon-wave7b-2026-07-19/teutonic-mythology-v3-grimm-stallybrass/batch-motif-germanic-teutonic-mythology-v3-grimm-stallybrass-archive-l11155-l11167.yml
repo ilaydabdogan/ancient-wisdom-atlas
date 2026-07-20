@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v3-grimm-stallybrass-archive-l11155-l11167
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+passage_locator:
+  label: MAGIC. / MAGIC. / MAGIC. / WITCH-TEIALS.; lines 11155-11167
+  start: '11155'
+  end: '11167'
+  translation: Teutonic Mythology, Volume 3
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"his gold turns into filth"; "leaves, chips, or pods ... turn into sheer
+    gold"'
+  summary: 'The passage is mostly bibliographic discussion of works on demonology
+    and witchcraft. It also states a contrast: the devil turns divine things topsy-turvy,
+    so his gold becomes filth, while gifts such as leaves, chips, or pods from gods
+    or benignant beings become real gold. The final sentence is fragmentary and mentions
+    the devil, witches, and a cathedral.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage lists or evaluates books and compilations concerning demonology,
+    witchcraft, and witch trials.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The devil is described as turning divine things topsy-turvy.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The devil's gold is said to turn into filth.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Gods or benignant beings are said to bestow leaves, chips, or pods.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Leaves, chips, or pods bestowed by gods or benignant beings are said to turn
+    into sheer gold.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A fragmentary final phrase mentions the devil sitting, witches standing, and
+    a cathedral, but the syntax is incomplete.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the devil
+  description: A figure associated with inversion and with gold that becomes filth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: gods or benignant beings
+  description: Figures who bestow leaves, chips, or pods that become gold.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: witches
+  description: Mentioned in a fragmentary clause near the end of the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: diabolical inverter
+  assigned_to:
+  - fig:1
+  basis: The passage says the devil turns divine things topsy-turvy and that his gold
+    becomes filth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: benignant giver
+  assigned_to:
+  - fig:2
+  basis: The passage says gods or benignant beings bestow humble materials that become
+    gold.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: witchcraft-associated figures
+  assigned_to:
+  - fig:3
+  basis: Witches are mentioned in the passage's witchcraft context and fragmentary
+    closing phrase.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: gold
+  literal_form: gold
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: filth
+  literal_form: filth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: humble vegetal or wooden materials
+  literal_form: leaves, chips, or pods
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cathedral
+  literal_form: cathedral
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Contrasted transformations of gifts and gold
+  summary: The passage contrasts the devil's gold becoming filth with gifts from gods
+    or benignant beings becoming gold.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Fragmentary devil and witches clause
+  summary: A damaged closing phrase mentions the devil sitting, witches standing,
+    and a cathedral, but it does not provide a complete action sequence.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Diabolical inversion of value
+  taxonomy_refs: []
+  basis: The passage states that the devil turns divine things topsy-turvy and that
+    his gold becomes filth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a scholarly comparison rather than a full mythic narrative.
+- id: motif:2
+  label: Lowly gifts transformed into gold by benevolent beings
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage says gods or benignant beings bestow leaves, chips, or pods that
+    become sheer gold.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage mentions beneficent
+    bestowal and transformation but does not narrate a complete exchange.
+- id: motif:3
+  label: Opposed transformations by devil and benignant beings
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly contrasts the devil's gold becoming filth with benevolent
+    beings' humble gifts becoming gold.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The contrast is interpretive but directly grounded in the passage's opposition.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares diabolical transformation with transformations
+    performed by gods or benignant beings, presenting them as opposed patterns of
+    value change.
+  claim_level: same_function
+  target: devil's gold becoming filth versus benignant gifts becoming gold
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal comparison within the passage, not evidence of
+    historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11155-11162
+  quote_or_summary: The passage cites works on demonology and witchcraft, including
+    Horst's Dämonomagie and Walter Scott's Demonology and Witchcraft, and comments
+    on their scholarly quality.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: quote
+  locator: lines 11162-11163
+  quote_or_summary: '"the devil turns topsyturvy"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 11163-11164
+  quote_or_summary: '"his gold turns into filth"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 11164-11166
+  quote_or_summary: '"when gods or benignant beings bestow leaves, chips, or pods,
+    these turn into sheer gold"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: lines 11166-11167
+  quote_or_summary: '"when the devil sits, when witches stand cathedral"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used; OCR/text appears fragmentary.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited by OCR corruption and the fragmentary final sentence.
+    The transformation contrast is clear enough for cautious motif extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unprovided taxonomy identifiers were used. Symbols not present in the supplied symbol taxonomy have empty taxonomy references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v3-grimm-stallybrass-archive__l11155-l11167
+  passage_sha256=3b9c56d30a773ef188a30b70d815a3b7f839972d4bd702ccb6a9cf6db06b2a5c
+

@@ -1,0 +1,184 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l4867-l4873
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12 / BOOK 8; lines 4867-4873'
+  start: '4867'
+  end: '4873'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Shalya calls Karna's words “ravings” and says he can vanquish the foe in
+    battle; Sanjaya then reports that Karna answered with words “twice bitter.”
+  summary: Shalya rebukes Karna for his speech about the foe and boasts that he can
+    defeat the foe in battle even without many Karnas. Sanjaya reports that the ruler
+    of Madras spoke harshly to Karna, after which Karna replied with even more bitter
+    words.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Shalya addresses Karna and characterizes Karna's statements about the foe
+    as ravings.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Shalya says that he is able to vanquish the foe in battle without a thousand
+    Karnas.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sanjaya describes the ruler of Madras as having harsh features and as saying
+    disagreeable things to Karna.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Karna responds again to the ruler of Madras with words described as twice
+    bitter.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: 'The passage presents a sequence of hostile speech: Shalya speaks harshly
+    to Karna, and Karna replies bitterly.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Shalya / ruler of Madras
+  description: A speaker addressed as Shalya and also described as the ruler of Madras,
+    of harsh features, who speaks disagreeable words to Karna.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Karna
+  description: The person addressed by Shalya and later said to respond with bitter
+    words.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the foe
+  description: An unnamed enemy whom Shalya says he can vanquish in battle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Sanjaya
+  description: The narrator who reports the exchange between the ruler of Madras and
+    Karna.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: harsh challenger and boastful speaker
+  assigned_to:
+  - fig:1
+  basis: Shalya rebukes Karna's speech and claims the ability to defeat the foe in
+    battle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: rebuked warrior and bitter respondent
+  assigned_to:
+  - fig:2
+  basis: Karna is addressed by Shalya and then replies with words described as twice
+    bitter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: battle opponent
+  assigned_to:
+  - fig:3
+  basis: The foe is the one whom Shalya says he can vanquish in battle.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: narrator
+  assigned_to:
+  - fig:4
+  basis: Sanjaya introduces and reports the continuation of the exchange.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Bitter exchange before battle
+  summary: Shalya denounces Karna's speech about the foe and boasts of his own ability
+    in battle. Sanjaya then reports that Karna answers the ruler of Madras with even
+    harsher words.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: martial boasting and hostile verbal exchange
+  taxonomy_refs: []
+  basis: The passage centers on a warrior's boast of defeating the foe and an escalation
+    of bitter speech between Shalya and Karna.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a local rhetorical pattern in a battle context; the passage does
+    not itself connect it to a broader listed taxonomy motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4867-4869
+  quote_or_summary: Shalya says to Karna that Karna's words about the foe are ravings
+    and claims he can vanquish the foe in battle without a thousand Karnas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4871-4873
+  quote_or_summary: Sanjaya reports that the ruler of Madras, of harsh features, says
+    disagreeable things to Karna, and that Karna replies with words described as twice
+    bitter.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The figures and speech acts are explicit in the passage. Motif labeling is
+    limited to a plain local pattern because no supplied taxonomy family is directly
+    supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No listed symbol taxonomy items are present in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l4867-l4873
+  passage_sha256=c1dc07648060964fad92d36e4336c30857e8ae89d4e4623cd1b0d8c0a2e0ac8d
+

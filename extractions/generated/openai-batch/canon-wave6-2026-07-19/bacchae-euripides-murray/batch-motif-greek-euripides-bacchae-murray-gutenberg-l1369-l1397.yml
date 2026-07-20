@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1369-l1397
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / DIONYSUS. / PENTHEUS.; lines 1369-1397
+  start: '1369'
+  end: '1397'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Pentheus challenges Dionysus' account, scorns the god associated with the
+    vine, orders guards to bar the towers and gates, and Dionysus replies by asking
+    whether a god cannot leap over a wall.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pentheus calls Dionysus' statements increasingly wild.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus identifies the referenced figure as the one who first made the clustered
+    vine for humans.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pentheus says he scorns the figure and the vines.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dionysus says Pentheus' scorn is well for Dionysus because the god's glory
+    lies in that scorn.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Pentheus orders his guard to go to the towers and bar every gate.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Dionysus asks whether a god cannot overleap a wall.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Pentheus replies that Dionysus has wit except where he needs it.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: A speaker who challenges Dionysus' tale, scorns the vine-associated
+    figure, orders gates barred, and comments on Dionysus' wit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Dionysus
+  description: A speaker who names the maker of the clustered vine for humans, says
+    Pentheus' scorn serves Dionysus' glory, and asks whether a god cannot overleap
+    a wall.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Pentheus' guard
+  description: The guard addressed by Pentheus in the stage direction when he commands
+    the gates to be barred.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: human opponent of Dionysus
+  assigned_to:
+  - fig:1
+  basis: Pentheus rejects the vine-associated figure and commands defensive measures
+    after speaking with Dionysus.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: god associated with vine and glory
+  assigned_to:
+  - fig:2
+  basis: Dionysus speaks of the one who first made the vine for humans and of Dionysus'
+    glory in Pentheus' scorn.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: divine boundary-crosser in speech
+  assigned_to:
+  - fig:2
+  basis: Dionysus asks whether a god cannot overleap a wall after Pentheus orders
+    the gates barred.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: ordered guards
+  assigned_to:
+  - fig:3
+  basis: Pentheus addresses his guard and commands action at towers and gates.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: clustered vine
+  literal_form: clustered vine
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: barred gates and towers
+  literal_form: towers and gates ordered to be barred
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: wall
+  literal_form: wall that a god may overleap
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Pentheus rejects Dionysus and orders the city closed
+  summary: In dialogue, Pentheus scorns the vine-associated god; Dionysus links the
+    scorn to divine glory; Pentheus orders towers and gates secured, and Dionysus
+    challenges the effectiveness of walls against a god.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine gift of the vine to humans
+  taxonomy_refs:
+  - culture_hero
+  basis: Dionysus describes the relevant figure as the first maker of the clustered
+    vine for humankind.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions the cultural gift briefly and does not narrate its
+    origin in detail.
+- id: motif:2
+  label: human defiance of a god
+  taxonomy_refs: []
+  basis: Pentheus scorns Dionysus and his vines while Dionysus states that the scorn
+    contributes to the god's glory.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The larger consequences of the defiance are not included in this passage.
+- id: motif:3
+  label: divine crossing of human barriers
+  taxonomy_refs:
+  - trickster_boundary
+  basis: After Pentheus orders gates barred, Dionysus asks whether a god cannot overleap
+    a wall.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage supports divine boundary-crossing, but the specific taxonomy
+    label 'trickster_boundary' is only partially supported here because no trickery
+    is directly shown.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1369-1371
+  quote_or_summary: Pentheus asks who is meant and says the tales are becoming wilder.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; brief excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1373-1375
+  quote_or_summary: 'Dionysus: "He who first made for man the clustered vine."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; brief quotation allowed.
+- id: ev:3
+  type: quote
+  locator: lines 1377-1379
+  quote_or_summary: Pentheus says he scorns him and his vines.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; brief excerpt summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1381-1384
+  quote_or_summary: Dionysus says the scorn is good for Dionysus because his glory
+    lies in it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1386-1390
+  quote_or_summary: Pentheus, addressing his guard, commands them to go to all towers
+    and bar every gate.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1390-1392
+  quote_or_summary: 'Dionysus asks: "What, cannot God o''erleap a wall?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; brief quotation allowed.
+- id: ev:7
+  type: summary
+  locator: lines 1394-1397
+  quote_or_summary: Pentheus says Dionysus has wit except where he needs it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal dialogue and actions are clear. Motif taxonomy mappings are limited
+    because the passage is short and does not narrate later consequences.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1369-l1397
+  passage_sha256=9328a2e2017fc61f0dd741edafec8618ea1c0ae41d66df78e9e9008802eef087
+

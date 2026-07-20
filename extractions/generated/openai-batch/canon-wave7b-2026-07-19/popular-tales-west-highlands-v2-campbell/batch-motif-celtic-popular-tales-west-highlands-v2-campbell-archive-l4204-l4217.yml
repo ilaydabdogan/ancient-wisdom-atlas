@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l4204-l4217
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: SGEULACHD BAX-RIGH. 143 / ARAID. / THE SICK QUEEN. 145 / THE OPJGIX OF LOCH
+    NESS.; lines 4204-4217
+  start: '4204'
+  end: '4217'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“she turned about and saw the glen filled with water.”"
+  summary: The passage explains that where Loch Ness is now there was once a glen.
+    A woman went to a well for water, became frightened by a rapidly flowing spring,
+    abandoned her pitcher, and fled to a high hill. From there she saw the glen filled
+    with water and said in Gaelic that there was now a lake in it; the passage says
+    this gave Loch Ness its name.
+  language: English with a Scottish Gaelic phrase
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The place where Loch Ness is now is described as having formerly been a fine
+    glen.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A woman went to a well to fetch water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The spring was flowing very fast; the woman became frightened, left her pitcher,
+    and ran away.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The woman reached the top of a high hill and looked back.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: From the hill she saw that the glen was filled with water and that no house
+    or field could be seen.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The woman uttered the Gaelic phrase translated as “There is a lake in it now,”
+    and the passage says the lake was called Loch Ness from this.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the woman
+  description: An unnamed woman who goes to the well, flees the overflowing spring,
+    witnesses the flooded glen, and speaks the naming phrase.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: water-fetcher
+  assigned_to:
+  - fig:1
+  basis: She goes to the well to fetch water.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: fleeing witness
+  assigned_to:
+  - fig:1
+  basis: She runs from the fast-flowing spring and later sees the glen filled with
+    water.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: place-name speaker
+  assigned_to:
+  - fig:1
+  basis: Her spoken phrase is presented as the basis for the lake’s name.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Rapid spring flow, the flooded glen, and the resulting lake
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: well or spring
+  literal_form: A well with a spring flowing rapidly
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: pitcher
+  literal_form: The pitcher abandoned by the woman when she flees
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: high hill
+  literal_form: The high hill from which the woman sees the flooded glen
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fetching water at the well
+  summary: An unnamed woman goes to the well for water and finds the spring flowing
+    so fast that she is frightened.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Flight and view from the hill
+  summary: The woman leaves her pitcher, runs to the top of a high hill, and sees
+    the glen filled with water, with houses and fields no longer visible.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Naming of Loch Ness
+  summary: The woman says that there is now a lake in the place, and the passage explains
+    this as the origin of the name Loch Ness.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sudden flooding creates a lake
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage says a former glen became filled with water after the spring
+    flowed rapidly, producing the lake now called Loch Ness.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports flooding and lake origin, but it does not describe
+    renewal, world-scale flood, or divine agency.
+- id: motif:2
+  label: Etiological origin of a place-name
+  taxonomy_refs: []
+  basis: The woman’s Gaelic phrase, translated as “There is a lake in it now,” is
+    presented as the reason the lake was called Loch Ness.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly covers place-name etiology.
+- id: motif:3
+  label: Escape to high ground from rising water
+  taxonomy_refs: []
+  basis: The woman flees from the rapidly flowing spring and reaches the top of a
+    high hill before seeing the glen flooded.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives no further ordeal or rescue pattern beyond flight and
+    survival.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4204-4208
+  quote_or_summary: "“Where Loch Ness now is, there was long ago a fine glen.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 4208-4210
+  quote_or_summary: "“A woman went one day to the well to fetch water”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 4210-4212
+  quote_or_summary: "“she found the spring flowing so fast that she got frightened,
+    and left her pitcher and ran for her life”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 4212-4215
+  quote_or_summary: She reaches the top of a high hill, turns around, and sees the
+    glen filled with water; no house or field is visible.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: quote
+  locator: lines 4215-4217
+  quote_or_summary: "“Tha Loch ann a nis.” / “There is a lake in it now”; the passage
+    says the lake was then called Loch Ness."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif classification is cautious because
+    the available taxonomy has no direct place-name-origin category and the flood
+    reference lacks a renewal element.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external comparison claims added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l4204-l4217
+  passage_sha256=65674ba171a868942ef189e056f1901200e5c7fa493bd02e0fc72230d45db955
+

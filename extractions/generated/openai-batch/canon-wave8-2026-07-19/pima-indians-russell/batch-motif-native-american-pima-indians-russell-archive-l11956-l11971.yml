@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l11956-l11971
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: FORMULAS OF POLITENESS / WARFARE / SOPHIOIX)GY / COYOTE; lines 11956-11971
+  start: '11956'
+  end: '11971'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A mother tells two boys about an eagle belonging to them. The boys go
+    to the place of the eagle. The younger brother tries first to climb up for the
+    birds but cannot; the older brother climbs and brings the birds down. The younger
+    brother takes the older bird, and the brothers quarrel because the older brother
+    says the younger should take the younger bird while he takes the older one. The
+    younger refuses to give up the older bird because he took it first. The passage
+    ends with brief labels: club and shield.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The mother tells the boys about an eagle described as belonging to them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boys go to the place associated with the eagle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The younger brother tries first to climb up for the birds but fails.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The older brother gets the birds and brings them down.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The younger brother takes the older bird.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The brothers quarrel about the two birds.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: The older brother argues that the younger brother should have the younger
+    bird because he is the younger brother.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The younger brother refuses to give up the older bird because he took it first.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage includes the brief item labels “Club” and “Shield.”
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: mother
+  description: The mother who tells the boys about an eagle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: younger brother
+  description: The younger of the two boys; he tries first to climb, takes the older
+    bird, and refuses to give it up.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: older brother
+  description: The older brother; he climbs successfully, brings the birds down, and
+    proposes that each brother take the bird matching his age order.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: eagle / birds
+  description: An eagle mentioned by the mother and two birds retrieved by the older
+    brother, one described as older and one as younger.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: informing mother
+  assigned_to:
+  - fig:1
+  basis: She tells the boys about the eagle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: younger sibling and first claimant
+  assigned_to:
+  - fig:2
+  basis: He is identified as the youngest, tries first, and keeps the bird he first
+    took.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: successful retriever
+  assigned_to:
+  - fig:3
+  basis: He gets the birds and brings them down after the younger brother fails.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: quarreling brothers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The brothers quarrel over the two birds and their allocation.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: contested birds
+  assigned_to:
+  - fig:4
+  basis: The two birds become the subject of the brothers’ quarrel.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: eagle / birds
+  literal_form: eagle and two birds
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: club
+  literal_form: Club
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: shield
+  literal_form: Shield
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Mother tells boys of the eagle
+  summary: At home, the mother tells the boys about an eagle belonging to them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Brothers go to the eagle place and retrieve birds
+  summary: The boys travel to the eagle’s place. The younger brother tries and fails
+    to climb for the birds; the older brother succeeds and brings them down.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Quarrel over the older bird
+  summary: The younger brother takes the older bird. The brothers quarrel when the
+    older brother proposes that the younger brother take the younger bird and he take
+    the older bird; the younger brother refuses because he took the older bird first.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Club and shield labels
+  summary: The passage ends with isolated labels for a club and a shield.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sibling pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: The action centers on two brothers, identified by age order, who travel together
+    and quarrel over the birds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is fragmentary and gives only this episode of the sibling
+    relationship.
+- id: motif:2
+  label: quarrel over first possession
+  taxonomy_refs: []
+  basis: The younger brother refuses to give up the older bird because he was the
+    first to take it, despite the older brother’s age-based allocation proposal.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: No supplied taxonomy reference directly matches this possession-dispute
+    pattern.
+- id: motif:3
+  label: climbing to obtain birds
+  taxonomy_refs: []
+  basis: The younger brother tries to climb for the birds and fails; the older brother
+    climbs successfully and retrieves them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a literal action in the passage; no broader mythic function is
+    stated here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11956-11959
+  quote_or_summary: At home, the mother tells the boys about an eagle described as
+    their own.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 11958-11960
+  quote_or_summary: The boys decide to go see what their mother told them about and
+    start for the eagle’s place.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11960-11962
+  quote_or_summary: At the place, the youngest says his brother may let him try first
+    to climb up for the birds; he tries but cannot do it.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11962-11963
+  quote_or_summary: The oldest one gets the birds and brings them down.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 11963-11965
+  quote_or_summary: The youngest brother takes the oldest bird, and they begin to
+    quarrel about the two birds.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 11965-11967
+  quote_or_summary: The oldest says his brother should have the youngest bird because
+    he is the youngest, while the oldest should have the oldest bird.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 11967-11970
+  quote_or_summary: The youngest will not let the oldest bird go because it was the
+    first one he took.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: '11971'
+  quote_or_summary: "“a Club. b Shield.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage appears fragmentary and contains irregular spelling; extraction
+    is limited to literal events stated in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text comparison beyond candidate motif tagging.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l11956-l11971
+  passage_sha256=47315661018da23aaf7e3812534ebdf42196a6f16092128cdb023edd47416f33
+

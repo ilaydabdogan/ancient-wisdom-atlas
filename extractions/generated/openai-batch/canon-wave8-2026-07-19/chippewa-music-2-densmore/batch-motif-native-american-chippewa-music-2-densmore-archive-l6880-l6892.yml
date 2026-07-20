@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l6880-l6892
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: BUREAU    OF    AMEBIC  AX    ETHNOLOGY / CHIPPEWA    MUSIC / ODJIB'WE    IN     POSTURE    OF    SCOUT
+    / BUKEAU    OF    AMERICAN    ETHNOLOGY; lines 6880-6892
+  start: '6880'
+  end: '6892'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A boy leaves home in spring to fast in the wilderness. He builds a nest
+    in a large tree and remains without food. On the fifth night he dreams that he
+    holds three scalps, gains confidence in his future career, joins the warriors,
+    later holds three Sioux scalps, and avenges his father's death according to his
+    people's custom.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In spring, the boy went away from home to fast.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy went toward the wilderness when birds were beginning to return.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He selected a large tree and built a nest for himself in it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: He remained in the tree nest without food day after day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On the fifth night of his fast, he dreamed that he held three scalps in his
+    hand.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the dream, he was sure of himself and his career.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: He joined the warriors with confidence and kept faith in his dream.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A later day came when he held aloft three Sioux scalps.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The boy, grown to manhood, avenged his father's death according to the custom
+    of his people.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the boy who grows to manhood
+  description: The central person leaves home to fast, dreams of holding three scalps,
+    joins warriors, and later avenges his father's death.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the father
+  description: The father is mentioned as dead; his death is later avenged by the
+    boy grown to manhood.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: the warriors
+  description: A warrior group that the boy joins after gaining confidence from his
+    dream.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: fasting seeker
+  assigned_to:
+  - fig:1
+  basis: He goes away from home to fast, remains without food, and stays in a wilderness
+    tree nest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: dream recipient
+  assigned_to:
+  - fig:1
+  basis: On the fifth night of the fast he dreams that he holds three scalps.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: warrior-avenger
+  assigned_to:
+  - fig:1
+  basis: He joins warriors, later holds three Sioux scalps, and avenges his father's
+    death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: dead father whose death is avenged
+  assigned_to:
+  - fig:2
+  basis: The passage says the grown boy avenged his father's death.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: warrior group
+  assigned_to:
+  - fig:3
+  basis: The central figure joins the warriors after the dream.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: large tree
+  literal_form: A large tree selected as the place where the boy builds his nest for
+    fasting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tree nest
+  literal_form: A nest built by the boy in the large tree, used as his fasting place.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wilderness
+  literal_form: The wilderness to which the boy goes for fasting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: three scalps
+  literal_form: Three scalps first seen in the dream and later held aloft as Sioux
+    scalps.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: the number three
+  literal_form: The repeated count of three scalps in both dream and later action.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Departure for fasting
+  summary: In spring, the boy leaves home and goes toward the wilderness to fast.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tree fasting and dream
+  summary: The boy builds a nest in a large tree, remains without food, and on the
+    fifth night dreams that he holds three scalps.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Warrior career and vengeance
+  summary: Trusting the dream, the boy joins the warriors; later, as a man, he holds
+    three Sioux scalps and avenges his father's death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fasting dream leading to adult warrior role
+  taxonomy_refs:
+  - initiation
+  basis: The boy leaves home to fast, endures isolation and hunger, receives a decisive
+    dream, joins warriors, and is described as grown to manhood when he avenges his
+    father.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not use the word initiation; the motif label is inferred
+    from the sequence of fasting, dream authorization, and movement into manhood and
+    warrior action.
+- id: motif:2
+  label: prophetic dream fulfilled in later action
+  taxonomy_refs: []
+  basis: The dream shows him holding three scalps, and later he holds aloft three
+    Sioux scalps.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the later action as matching the dream, but does
+    not explicitly call the dream prophetic.
+- id: motif:3
+  label: departure to wilderness for an ordeal
+  taxonomy_refs:
+  - departure
+  basis: He goes away from home to the wilderness and remains without food during
+    the fast.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The departure is brief and functional; the passage does not narrate a
+    long journey.
+- id: motif:4
+  label: avenging the father's death
+  taxonomy_refs: []
+  basis: The passage concludes that the grown boy avenged his father's death according
+    to the custom of his people.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No wider revenge cycle is narrated in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6880-6884
+  quote_or_summary: '"he went away from home to fast" and took his way to the "wilderness"
+    as birds were beginning to come.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: 6884-6886
+  quote_or_summary: He selected "a large tree," built in it a "nest" for himself,
+    and remained there without food.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: 6886-6888
+  quote_or_summary: On "the fifth night of his fast," he dreamed that he held "three
+    scalps" and became sure of himself and his career.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:4
+  type: quote
+  locator: 6888-6891
+  quote_or_summary: He joined the warriors with confidence, kept faith in his dream,
+    and later held aloft "three Sioux scalps."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+- id: ev:5
+  type: quote
+  locator: 6891-6892
+  quote_or_summary: '"the boy, grown to manhood, avenged his father''s death according
+    to the custom of his people."'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source metadata; short excerpt used for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the passage. Motif candidates involving
+    initiation and departure require interpretive caution. No comparison claims were
+    made because the excerpt itself does not compare this event to another text, tradition,
+    or motif family beyond the supplied taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, locator, metadata, and available taxonomy references.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l6880-l6892
+  passage_sha256=06e7b882a06737240c0780829db95e364923f540ea835d4df0e24ab566f4b3e9
+

@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l13093-l13158
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: Canto XLIX. / CANTO XLIX. / The text BiddUt nimndmyo na sd seems incorrect
+    j instead of it, another / CANTO XLIX.; lines 13093-13158
+  start: '13093'
+  end: '13158'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In this passage, trees perish after wrong conduct, and strife, cold, heat,
+    and hunger arise. People make towns for combination and resistance, take refuge
+    in fortresses in difficult places, construct an artificial fortress on trees,
+    mountains, and water, and establish measures of length from minute particles through
+    the yojana. The passage also distinguishes natural and artificial fortresses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Trees are said to perish because of wrong conduct, after which strife, cold,
+    heat, and hunger arise.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For combination and resistance, the people first make towns.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The people resort to fortresses in inaccessible deserts, wastes, mountains,
+    and caves.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people construct an artificial fort on trees, on mountains, and in water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The people first make measures intended for measurement.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage gives a sequence of units and measures, beginning with very small
+    things such as an atom or mote and extending to finger-breadth, span, cubit, bow,
+    gavyuti, and yojana.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that three of four kinds of fortress occur naturally and
+    that the fourth kind is artificial.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: those men / they
+  description: The collective human group that makes towns, resorts to fortresses,
+    constructs an artificial fort, and makes measures.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the wise
+  description: A group cited as declaring the measure that culminates in the yojana.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: collective builders and measurers
+  assigned_to:
+  - fig:1
+  basis: The passage says they made towns, resorted to fortresses, constructed an
+    artificial fort, and first made measures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: authoritative declarers of measure
+  assigned_to:
+  - fig:2
+  basis: The passage says the larger measure is declared by the wise.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: trees
+  literal_form: Trees that perish; also trees used as a place for constructing an
+    artificial fort.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: mountains
+  literal_form: Mountains as locations of fortresses and as a place for constructing
+    an artificial fort.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: caves
+  literal_form: Caves named among the inaccessible places where fortresses are used.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: water
+  literal_form: Water named as a place where an artificial fort is constructed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Perishing trees and arising hardship
+  summary: Trees perish because of wrong conduct, and the passage then reports strife,
+    cold, heat, and hunger.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Making towns and seeking fortresses
+  summary: For combination and resistance, the people make towns and resort to fortresses
+    in inaccessible deserts, wastes, mountains, and caves.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Artificial fort and first measures
+  summary: The people construct an artificial fort on trees, mountains, and water,
+    and they first make measures intended for measurement.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Enumeration of measures and fortresses
+  summary: The passage enumerates units of measurement up to the yojana and classifies
+    four kinds of fortress, three natural and one artificial.
+  figure_refs:
+  - fig:2
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Origin of towns and fortresses in response to hardship
+  taxonomy_refs: []
+  basis: After trees perish and strife, cold, heat, and hunger arise, the people make
+    towns for combination and resistance and use fortresses in difficult places.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives this as a collective social development, not as the
+    deed of a named culture hero.
+- id: motif:2
+  label: Construction of artificial fortresses in natural settings
+  taxonomy_refs: []
+  basis: The passage says the people construct an artificial fort on trees, mountains,
+    and water, and later distinguishes natural from artificial fortresses.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The exact technical meaning of the fort types may require review against
+    the Sanskrit and surrounding context.
+- id: motif:3
+  label: Origin and scaling of measurement
+  taxonomy_refs: []
+  basis: The passage states that the people first made measures intended for measurement
+    and then lists a scale of units from minute particles through the yojana.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a technical origin passage rather than an explicitly mythic episode
+    with named actors.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13093-13100
+  quote_or_summary: "“those trees perished ... Strife sprang up ... their faces felt
+    cold and heat and hunger.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 13099-13104
+  quote_or_summary: "“for the sake of combination and resistance they made towns at
+    first; and they resort to fortresses in inaccessible deserts and wastes, in mountains
+    and caves”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 13104-13108
+  quote_or_summary: "“constructed ... an artificial fort on trees, on mountains and
+    in water, and they first made measures intended for measurement.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 13109-13140
+  quote_or_summary: 'The passage lists a graded series of measures: minute atom, mote,
+    dust, hair-point, young louse, louse, barley-corn, finger-breadth, pada, span,
+    cubit, bow, gavyuti, and yojana, with numerical relations between them.'
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 13152-13158
+  quote_or_summary: "“of the four kinds of fortresses three occur naturally; the fourth
+    kind of fortress is artificial. Now those men constructed it laboriously”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on the supplied English passage. Confidence is reduced
+    by apparent OCR/transcription noise and editorial notes about corrupt or variant
+    readings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific external comparison. Taxonomy symbol refs were used only for literal symbols present in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l13093-l13158
+  passage_sha256=bd732d86dcff2390efc7ebdbfd700fc7d9b4c16cf39c6922dc8b82aaa78abf2e
+

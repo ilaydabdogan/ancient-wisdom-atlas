@@ -1,0 +1,220 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l20924-l20946
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: NOTES   ON   THE   TALES  473 / XXIX. / NOTES   ON   THE   TALES  475 / XXXI.;
+    lines 20924-20946
+  start: '20924'
+  end: '20946'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ethnographic notes on jura, an uncooked flour-and-water
+    meal or drink used by travellers and sold in markets; describes tulu as a large
+    long earthen vessel kept in a hut, contrasting it with smaller round pots used
+    at the stream and for cooking; and comments that a referenced story seems to reward
+    greed, since expulsion from town is offset by obtaining four slaves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Jura is described as flour and water and as the regular uncooked meal.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Travellers carry dry flour in bags and mix it with water while travelling,
+    forming a paste.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A little sour milk can be added to make the drink a more desirable beverage.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Jura is said to be sold in markets and is cross-referenced to other story
+    notes.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Tulu is described as a large, long earthen vessel kept in the hut.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Ordinary pots taken to the stream are smaller and more round than tulu and
+    are also used for cooking.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The commentator states that the referenced story has little apparent point
+    because greed seems rewarded rather than punished.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The note describes being driven out of a town while obtaining four slaves
+    as an outcome few people would mind.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: travellers
+  description: People who take dry flour in bags and mix it with water en route.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: European observer
+  description: A European is mentioned as someone to whom the flour-and-water paste
+    looks uninviting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: travelling preparers and consumers of jura
+  assigned_to:
+  - fig:1
+  basis: The passage states that travellers carry dry flour and mix it with water
+    en route.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: external evaluator of the food's appearance
+  assigned_to:
+  - fig:2
+  basis: The passage contrasts travellers' apparent enjoyment with how the paste looks
+    to a European.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: jura
+  literal_form: Flour and water mixed into an uncooked paste or drink; sour milk may
+    be added.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  - milk
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tulu vessel
+  literal_form: A large and long earthen vessel kept in the hut.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: smaller round pots
+  literal_form: Ordinary pots taken to the stream and also used for cooking.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Preparation and use of jura
+  summary: Travellers carry dry flour, mix it with water en route, and may add sour
+    milk; the food or drink is also noted as a market item.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Household and stream vessels
+  summary: A large long earthen tulu kept in the hut is distinguished from smaller
+    round pots used at the stream and for cooking.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Comment on greed and reward
+  summary: The commentator remarks that the referenced story appears to reward greed
+    rather than punish it, because expulsion from town is accompanied by obtaining
+    four slaves.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: portable uncooked travel meal mixed with water
+  taxonomy_refs: []
+  basis: The note describes travellers carrying dry flour and mixing it with water
+    en route to make jura.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a literal ethnographic or narrative-use pattern rather than a
+    clearly mythological motif.
+- id: motif:2
+  label: greed rewarded rather than punished
+  taxonomy_refs: []
+  basis: The commentator explicitly says that greed seems rewarded, not punished,
+    in the referenced story outcome.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The underlying tale is not included in this passage; the motif is inferred
+    only from the commentator's brief note.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20924-20935
+  quote_or_summary: Jura is flour and water, a regular uncooked meal; travellers carry
+    dry flour, mix it with water en route, may add sour milk, and it is sold in markets.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 20936-20941
+  quote_or_summary: Tulu is a large long earthen vessel kept in a hut; smaller round
+    pots are taken to the stream and also used for cooking.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 20942-20946
+  quote_or_summary: 'The note says the story has little point because greed appears
+    rewarded: being driven out of town is offset by obtaining four slaves.'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the passage is mainly explanatory
+    notes rather than a complete tale. Motif candidates are limited to patterns directly
+    stated in the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage only supplies cross-references to nearby story notes and does not itself support a broader comparative claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l20924-l20946
+  passage_sha256=1e59ec34f3174fe17a696e3b422103dbbe4cdcd99bed1395ba544069433e6ffd
+

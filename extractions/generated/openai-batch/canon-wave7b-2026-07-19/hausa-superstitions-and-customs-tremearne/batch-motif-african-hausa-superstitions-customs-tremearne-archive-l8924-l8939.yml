@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l8924-l8939
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: HAUSA  SUPERSTITIONS / PART  II. / THERE  IS  NO  KING  BUT  GOD  185 / THE  PUNISHMENT  OF  THE  SABBATH-(I)-BREAKERS.;
+    lines 8924-8939
+  start: '8924'
+  end: '8939'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: A number of Men went out to fish with nets, and on the way they met an Old
+    Man
+  summary: Several men go fishing with nets on the seventh day despite an old man's
+    warning that it is not the day for fishing. They cast their nets, a hedgehog makes
+    a thunder-like noise and challenges them, and boys wait on the bank to catch fish
+    thrown by the men.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage heading identifies the story as concerning punishment of Sabbath-breakers.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A group of men go out to fish with nets.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: On the way, the men meet an Old Man who asks where they are going.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Old Man says that the day is not for fishing because it is the seventh
+    day.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The men say they will go fishing anyway, and they begin casting their nets.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A Hedgehog makes a noise like thunder and asks whether the men are equal to
+    it.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The men think inwardly that no one will stop them now.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Boys stand on the bank ready to catch fish thrown to them by the men.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Men
+  description: A number of men who go out with nets to fish on the seventh day despite
+    warning.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Old Man
+  description: An old man encountered on the way who asks the men where they are going
+    and warns that the day is not for fishing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Hedgehog
+  description: A hedgehog that makes a thunder-like noise and speaks a challenge to
+    the men.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Boys
+  description: Boys standing on the bank ready to catch fish thrown by the men.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: warned fishers
+  assigned_to:
+  - fig:1
+  basis: The men are warned that the seventh day is not for fishing but continue and
+    cast their nets.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: warning elder
+  assigned_to:
+  - fig:2
+  basis: The Old Man asks the men where they are going and tells them that the day
+    is not for fishing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: speaking animal challenger
+  assigned_to:
+  - fig:3
+  basis: The Hedgehog makes a thunder-like noise and asks, "Are you equal to me?"
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: fish-catching assistants
+  assigned_to:
+  - fig:4
+  basis: The boys stand on the bank ready to catch fish thrown to them by the men.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: nets
+  literal_form: fishing nets
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: seventh day
+  literal_form: the seventh day, identified in the heading as Sabbath-related
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: thunder-like noise
+  literal_form: a noise like thunder made by the Hedgehog
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: fish
+  literal_form: fish expected to be thrown by the men to the boys
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Warning on the way to fish
+  summary: The men go out with nets, meet an Old Man, and tell him they are going
+    fishing; he says the seventh day is not a day for fishing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Fishing despite the warning
+  summary: The men say they will go anyway, proceed, and begin casting their nets.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Hedgehog challenge at the fishing place
+  summary: The Hedgehog makes a thunder-like noise and challenges the men, while the
+    men think no one can stop them and boys wait on the bank for fish.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Violation of a sacred rest-day prohibition
+  taxonomy_refs: []
+  basis: The Old Man states that the seventh day is not for fishing, but the men say
+    they will go anyway and cast their nets.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The supplied excerpt gives the prohibition and violation but not the complete
+    consequence.
+- id: motif:2
+  label: Punishment for Sabbath-breaking
+  taxonomy_refs:
+  - divine_judgment
+  basis: The heading names the tale as a punishment of Sabbath-breakers, and the episode
+    begins with a seventh-day fishing prohibition being disregarded.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No explicit punishing act or named deity appears within the supplied lines;
+    the taxonomy assignment relies on the title and setup.
+- id: motif:3
+  label: Speaking animal confronts human transgressors
+  taxonomy_refs: []
+  basis: After the men ignore the warning, the Hedgehog makes a thunder-like noise
+    and asks whether they are equal to it.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage cuts off before the Hedgehog's role in the outcome is shown.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8924-8925
+  quote_or_summary: '"THE PUNISHMENT OF THE SABBATH-(I)-BREAKERS."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 8927-8930
+  quote_or_summary: A number of men go out to fish with nets and meet an Old Man,
+    who asks where they are going.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8930-8932
+  quote_or_summary: The Old Man says, "to-day is not the day for fishing," because
+    it is the seventh day.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 8932-8934
+  quote_or_summary: The men answer that they are going all the same; the Old Man lets
+    them go, and they begin casting nets.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 8935-8937
+  quote_or_summary: The Hedgehog makes "a noise like thunder" and asks, "Are you equal
+    to me?"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 8937-8938
+  quote_or_summary: The men say in their hearts that no one will stop them now.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8938-8939
+  quote_or_summary: Boys stand on the bank ready to catch fish thrown to them by the
+    men; the excerpt ends mid-sentence.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal setup is clear, but the supplied line range ends mid-sentence before
+    the punishment or resolution is narrated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself provide a specific external comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l8924-l8939
+  passage_sha256=9e95445899f5df19cb41a5e127951bbc5d31dd0f5faa34d033a229f6c03a29f2
+

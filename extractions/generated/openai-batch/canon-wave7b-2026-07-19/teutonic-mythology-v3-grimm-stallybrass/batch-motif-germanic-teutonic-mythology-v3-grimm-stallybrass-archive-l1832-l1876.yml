@@ -1,0 +1,477 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v3-grimm-stallybrass-archive-l1832-l1876
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+passage_locator:
+  label: PEEEACE. / PBEFACE. / PEE FACE. / PEE FACE.; lines 1832-1876
+  start: '1832'
+  end: '1876'
+  translation: Teutonic Mythology, Volume 3
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys comparative legend variants in which the Saviour or
+    Peter grants wishes or a wishing-die, Peter descends from heaven to hell with
+    dice to win souls, and Peter or a travelling companion serves as cook or steals
+    portions from a roast. Grimm relates these Christianized figures and episodes
+    to Wuotan, Mercury, and Loki/Othin-type heathen material.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes variants where the Saviour surpasses a host in feats
+    of skill and grants three wishes, and where Peter grants a wishing-die.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A player asks for a tree from which one cannot get down; in that variant the
+    dice are treated as the main point.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage links the bestowal of dice with Wuotan as inventor of dice and
+    also mentions Mercury in the same comparison.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In the Fabliau St. Pierre et le jongleur, Peter comes down from heaven to
+    hell with dice to win souls from a showman or juggler.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says Peter’s appearance in that fabliau resembles Wuotan, who
+    is described as eager to gather souls into his dwelling.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Another group of legends has the Saviour and Peter travelling together, with
+    Peter responsible for preparing dinner.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'Several variants involve eating or stealing part of a roast: a chicken leg,
+    a lung, a lamb’s heart, or a liver.'
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage explicitly proposes that these roast-stealing narratives may be
+    the same myth and notes that Peter can appear either as culprit or as the divine
+    figure whose attendant is at fault.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage compares this role variation with heathen stories in which Loki
+    and another god may change places, and it identifies Loki as a cook, roast-stealer,
+    and eater of a heart.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Saviour
+  description: A holy figure who surpasses his host in feats of skill, grants three
+    wishes in one cited tale, and travels with Peter in another group of legends.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Peter / St. Peter
+  description: A saintly figure who grants a wishing-die, descends from heaven with
+    dice to win souls, travels with the Saviour, prepares dinner, and in some variants
+    is associated with roast theft or the cook’s role.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: player
+  description: A figure in a cited tale who asks for a tree from which one cannot
+    get down and is connected with the dice motif.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Wuotan
+  description: Named as inventor of dice and as a figure eager to gather souls into
+    his dwelling; Peter in the fabliau is said to have Wuotan’s appearance.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Mercury
+  description: Mentioned as an additional comparison in the discussion of dice.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: juggler / showman
+  description: A figure in the fabliau who is in hell after death and from whom Peter
+    tries to win entrusted souls.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Brother Lustig
+  description: A traveller with Peter in Märchen no. 81 who steals the heart of a
+    roast lamb.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Loki
+  description: Named as a cook and roast-stealer; the passage also says the Edda imputes
+    to him the eating of a heart.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: holy gift-giver
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Saviour grants three wishes, and Peter bestows a wishing-die in a cited
+    variant.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: travelling holy companion
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Saviour and Peter are described as travelling together in a group of
+    legends.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: afterlife dice-player for souls
+  assigned_to:
+  - fig:2
+  basis: Peter comes down from heaven with dice to win souls from the showman in hell.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: cook or roast-stealing culprit
+  assigned_to:
+  - fig:2
+  - fig:7
+  - fig:8
+  basis: Peter is associated with cooking and, in some variants, biting a roast chicken
+    leg; Brother Lustig steals a roast lamb’s heart; Loki is described as cook, roast-stealer,
+    and heart-eater.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: recipient or user of magical dice and binding tree wish
+  assigned_to:
+  - fig:3
+  basis: The player asks for the tree from which one cannot get down, while the dice
+    are the central gift in the variant.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: dice inventor and soul-gatherer analogue
+  assigned_to:
+  - fig:4
+  basis: Wuotan is named as inventor of dice and as eager to gather souls into his
+    dwelling.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: comparative dice-associated analogue
+  assigned_to:
+  - fig:5
+  basis: Mercury is mentioned in connection with the bestowal of dice.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: keeper of souls in hell
+  assigned_to:
+  - fig:6
+  basis: The showman has souls entrusted to his keeping, and Peter attempts to win
+    them from him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: inescapable tree
+  literal_form: A tree from which one cannot get down.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dice or wishing-die
+  literal_form: Dice, including a wishing-die, bestowed or carried by holy figures
+    and associated with Wuotan’s invention of dice.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: souls entrusted in hell
+  literal_form: Souls in the keeping of the showman or juggler in hell.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: stolen roast portions
+  literal_form: 'Pieces of roast food: chicken leg, lung, lamb heart, liver, and heart
+    eaten by Loki.'
+  associated_figures:
+  - fig:2
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Granting wishes and dice
+  summary: The passage summarizes variants in which the Saviour grants three wishes
+    and Peter grants a wishing-die; a player asks for an inescapable tree, while the
+    dice are emphasized and compared with Wuotan and Mercury.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Peter descends to hell with dice
+  summary: In the cited fabliau, Peter descends from heaven to hell carrying dice
+    and attempts to win souls from the juggler or showman.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Travelling meal and stolen roast
+  summary: The Saviour and Peter travel together; Peter is associated with preparing
+    dinner, and related variants describe theft or eating of roast portions by Peter,
+    Brother Lustig, and others.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Loki comparison for cook and roast-stealer
+  summary: The passage compares the roast-stealing pattern with heathen material,
+    noting role interchange and describing Loki as cook, roast-stealer, and heart-eater.
+  figure_refs:
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Holy visitor grants wishes or magical dice
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Saviour grants three wishes in one tale, and Peter grants a wishing-die
+    in another cited variant.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a comparative scholarly discussion rather than a full narrative;
+    the taxonomy reference is functional and should be reviewed.
+- id: motif:2
+  label: Inescapable tree wish
+  taxonomy_refs: []
+  basis: The player asks for a tree from which one cannot get down.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Only the motif element is summarized here; the surrounding tale is not
+    given in this passage.
+- id: motif:3
+  label: Dice contest for souls in the afterlife
+  taxonomy_refs: []
+  basis: Peter descends from heaven to hell with dice to win souls entrusted to the
+    juggler or showman.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not narrate the full fabliau outcome, only the relevant
+    episode.
+- id: motif:4
+  label: Travelling holy pair and stolen roast portion
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Saviour and Peter travel together; dinner is prepared, and variants involve
+    theft or eating of roast portions by Peter, Brother Lustig, or analogous figures.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The trickster taxonomy reference is suggested by the transgressive roast-stealing
+    role and Loki comparison, but the passage frames this as a comparative hypothesis.
+- id: motif:5
+  label: Interchange of culprit and divine master roles
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The passage says Peter can appear either as the culprit or as the god-like
+    figure whose attendant is at fault, and compares this with possible role exchange
+    between Loki and another heathen god.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage itself presents the heathen role interchange as conjectural.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously aligns the dice gift and wishing-die episodes with
+    Wuotan as inventor of dice and also mentions Mercury as a comparable figure.
+  claim_level: same_function
+  target: Wuotan and Mercury in relation to dice-giving or dice invention
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives an analogical comparison but does not establish direct
+    transmission or a complete shared narrative.
+- id: claim:2
+  claim: Peter’s descent from heaven with dice to win souls is compared with Wuotan’s
+    soul-gathering role and with Wuotan’s appearance.
+  claim_level: same_function
+  target: Wuotan as gatherer of souls
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is Grimm’s interpretive comparison within the passage; the evidence
+    cited here does not independently verify historical contact.
+- id: claim:3
+  claim: The roast-stealing episodes involving Peter, Brother Lustig, and related
+    figures are presented as variants of the same mythic pattern.
+  claim_level: same_motif
+  target: Christian legend and Märchen variants of the stolen roast portion episode
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage lists variant parallels but does not provide complete versions
+    of each tale.
+- id: claim:4
+  claim: The passage compares the shifting roles of Peter and his attendant with heathen
+    stories in which Loki and another god may change places, strengthened by Loki’s
+    role as cook and roast-stealer.
+  claim_level: same_motif
+  target: Loki and heathen cook/roast-stealer material compared with Peter variants
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage phrases the heathen role exchange as a possibility; the
+    other god’s name is affected by OCR uncertainty in the supplied text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1832-1842
+  quote_or_summary: The passage says the Saviour grants three wishes after surpassing
+    his host; a player asks for the tree from which one cannot get down; dice are
+    central and recall Wuotan as inventor of dice and Mercury; Peter bestows a wishing-die
+    on a landsknecht.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1842-1852
+  quote_or_summary: 'The Fabliau St. Pierre et le jongleur is summarized: the juggler
+    is in hell after death; Peter comes down from heaven with a black beard, moustaches,
+    and dice to win the souls entrusted to the showman; this is said to resemble Wuotan
+    gathering souls.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1853-1863
+  quote_or_summary: A group of legends has the Saviour and Peter travelling together;
+    Peter must dress dinner and bites a leg off a roast chicken; other variants name
+    Peter as head-cook of heaven or have a droll fellow, Brother Lustig, a landsknecht,
+    or a Swabian steal lung, heart, or liver from a roast.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1863-1876
+  quote_or_summary: The passage says this seems to be the same myth, notes that Peter
+    may alternate between culprit and the god whose attendant is at fault, and compares
+    this with heathen stories in which Loki and another god may change places; Loki
+    is described as cook, roast-stealer, and eater of a heart.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a secondary comparative discussion with several summarized
+    tales, not a single continuous myth narrative. Some names and citations are affected
+    by OCR or typography, so figure identification and comparison claims require human
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs and applied cautiously.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v3-grimm-stallybrass-archive__l1832-l1876
+  passage_sha256=d5d18e945fa9bed769a35972a0b0d9d8f7861bcf81eef5fe57ae3c9b2661786d
+

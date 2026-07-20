@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l16508-l16535
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: FOLK-TALES 375 / PART II / VOL. II 2 C / CH. XXVHI FOLK-TALES 387; lines
+    16508-16535
+  start: '16508'
+  end: '16535'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Hare's end is to be compared with Uncle Remus's story of the wonderful
+    tar-baby.”"
+  summary: Hare comes to a water hole guarded by Tortoise, tries to force his way
+    in and draw water, and becomes stuck to Tortoise by arm, feet, head, and tail.
+    The larger animals arrive, seize Hare, and kill him. The editorial note compares
+    the latter part of the tale with Basuto and other southern African variants and
+    with the Uncle Remus tar-baby story.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Tortoise sees Hare coming and says that Hare shall not draw water.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hare arrives at the hole, identifies the figure left there as a bad fellow,
+    and says he will draw water that day.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hare goes into the hole, pushes past Tortoise, and his arm sticks fast.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Hare kicks with his feet, butts with his head, and strikes with his tail;
+    each body part sticks fast.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The big ones come, seize Hare, and kill him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The note states that a related latter part occurs among the Basuto, where
+    Jackal refuses to dig, Rabbit keeps watch and is deceived, and Tortoise catches
+    Jackal.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The note states that related tales from the Basubia, Baronga, and Basumbwa
+    have Hare in the role taken by Jackal in the Suto story.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The note says Hare's end is to be compared with Uncle Remus's story of the
+    wonderful tar-baby.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hare
+  description: Animal figure who comes to the hole, attempts to draw water, becomes
+    stuck by several body parts, and is killed.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Tortoise
+  description: Animal figure left at the hole who says Hare shall not draw water and
+    to whom Hare becomes stuck after pushing and striking.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the big ones
+  description: Unnamed larger figures who come, seize Hare, and kill him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Jackal
+  description: In the Basuto variant summarized in the note, Jackal refuses to dig,
+    deceives Rabbit, and is caught by Tortoise.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Rabbit
+  description: In the Basuto variant summarized in the note, Rabbit keeps watch and
+    is repeatedly deceived by Jackal.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: guardian at the water hole
+  assigned_to:
+  - fig:2
+  basis: Tortoise is left at the hole and says Hare shall not draw water.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: would-be water drawer
+  assigned_to:
+  - fig:1
+  basis: Hare says he will draw water and enters the hole.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: catching figure
+  assigned_to:
+  - fig:2
+  basis: Hare's body parts stick fast after he pushes and strikes Tortoise; the note
+    also says Tortoise catches the offender in the Basuto variant.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: captured and killed figure
+  assigned_to:
+  - fig:1
+  basis: Hare becomes stuck and is then seized and killed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: killers of Hare
+  assigned_to:
+  - fig:3
+  basis: The big ones seize Hare and kill him.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: comparative variant offender
+  assigned_to:
+  - fig:4
+  basis: The note says Jackal refuses to dig, deceives Rabbit, and is caught by Tortoise
+    in the Basuto version.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: comparative variant watchman deceived
+  assigned_to:
+  - fig:5
+  basis: The note says Rabbit keeps watch and is deceived again and again by Jackal.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water to be drawn from the hole
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hole
+  literal_form: the hole where water is to be drawn
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sticking body contact
+  literal_form: arm, feet, head, and tail sticking fast after contact with Tortoise
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Tortoise bars Hare from drawing water
+  summary: Tortoise sees Hare approaching the hole and says Hare shall not draw water;
+    Hare arrives and says he will draw water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hare becomes stuck to Tortoise
+  summary: Hare enters the hole, pushes past Tortoise, and becomes stuck by arm, feet,
+    head, and tail as he escalates contact.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Hare is seized and killed
+  summary: The big ones come, seize Hare, and kill him, ending Hare's history in this
+    tale.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: guarded water source denied to animal intruder
+  taxonomy_refs: []
+  basis: The action centers on Hare attempting to draw water at a hole where Tortoise
+    has been left to prevent him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The wider context of why Hare is denied water lies outside the supplied
+    passage.
+- id: motif:2
+  label: progressive entrapment through repeated bodily attacks
+  taxonomy_refs: []
+  basis: Hare becomes stuck successively by arm, feet, head, and tail as he pushes,
+    kicks, butts, and strikes Tortoise.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not name the catching mechanism beyond the repeated statement
+    that the body parts stick fast.
+- id: motif:3
+  label: animal offender caught by Tortoise after failed watchkeeping
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The editorial note summarizes a related Basuto version in which Jackal deceives
+    Rabbit but is caught when Tortoise is set to watch; it also notes southern African
+    variants with Hare in the same role.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy link is tentative because the passage does not explicitly
+    call Hare, Jackal, or Rabbit tricksters.
+- id: motif:4
+  label: tar-baby-like capture comparison
+  taxonomy_refs: []
+  basis: The note explicitly says Hare's end should be compared with Uncle Remus's
+    story of the wonderful tar-baby.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The note supplies only the comparison title and no details of the Uncle
+    Remus story.
+comparison_claims:
+- id: claim:1
+  claim: The latter part of this tale is presented as occurring among the Basuto in
+    a variant where Jackal, Rabbit, and Tortoise occupy comparable narrative positions.
+  claim_level: same_motif
+  target: Basuto variant cited from Jacottet, p. 32
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the editor's summary of the Basuto version is included; the variant
+    text itself is not supplied in this passage.
+- id: claim:2
+  claim: The note presents Basubia, Baronga, and Basumbwa tales as related southern
+    African variants in which Hare plays the role taken by Jackal in the Suto story.
+  claim_level: same_function
+  target: Basubia, Baronga, and Basumbwa southern African tale variants
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports the existence of these variants but does not give
+    their full narratives.
+- id: claim:3
+  claim: Jacottet is reported as suggesting that Hare may be the original figure and
+    Jackal a substitution due to direct or indirect Hottentot influence.
+  claim_level: historical_contact
+  target: Proposed Hottentot influence on Jackal substitution in related tale variants
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is explicitly a reported suggestion, not evidence demonstrated
+    within the supplied passage.
+- id: claim:4
+  claim: The editor explicitly compares Hare's end in this tale with Uncle Remus's
+    story of the wonderful tar-baby.
+  claim_level: same_motif
+  target: Uncle Remus's story of the wonderful tar-baby
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no details of the Uncle Remus story beyond the comparison
+    statement.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16508-16518
+  quote_or_summary: Tortoise says Hare shall not draw water; Hare comes to the hole,
+    insists he will draw water, pushes past Tortoise, and becomes stuck by arm, feet,
+    head, and tail.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 16520-16524
+  quote_or_summary: The big ones come, seize Hare, kill him, and the narrator says
+    this is the end of Hare's history.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 16526-16533
+  quote_or_summary: The note says the latter part is found among the Basuto in a Jackal/Rabbit/Tortoise
+    variant and cites Basubia, Baronga, and Basumbwa versions with Hare in the role
+    taken by Jackal; it reports Jacottet's suggestion about possible Hottentot influence.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: '16535'
+  quote_or_summary: "“Hare's end is to be compared with Uncle Remus's story of the
+    wonderful tar-baby.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative events are clear. Motif labels are cautious because the passage
+    gives only the ending and an editorial note. Comparison claims are based on explicit
+    editorial comparisons and reported variant summaries.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external details of Uncle Remus or the cited southern African variants were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l16508-l16535
+  passage_sha256=e9b2e3c91e0f839fa600ea8df0131f0043b4b36beae9b53c6eb0b5b0e01367b1
+

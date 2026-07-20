@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l21351-l21399
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: RHYTHM  OF  FIRST  MEASURE / RHYTHM  OF  DRUM / METRIC  UNIT  OF  VOICE  (TEMPO)
+    / WO      -; lines 21351-21399
+  start: '21351'
+  end: '21399'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"A wind from the north."'
+  summary: The passage is a musicological analysis of old Teton Sioux songs used in
+    treatment of the sick. It compares metric units of voice and drum, discusses plot
+    outlines of selected songs, notes resemblances to plotted classes A, C, and D,
+    and interprets recurrence on the keynote as suggesting the medicine-man's confidence
+    in his own power and its effect on the patient.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage concerns old songs used in treatment of the sick and continues
+    a rhythmic analysis section.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A comparison is made between the metric unit of voice and drum, described
+    as tempo.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage discusses plots of songs used in treatment of the sick.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Songs numbered 79, 86, and 91 are said to resemble Class A but to contain
+    ascending progressions.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Songs numbered 80 and 81 are given as examples of Class C.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Recurrence and dwelling on the keynote are said to suggest the medicine-man's
+    confidence in his own power and what he wished to impress on the patient's mind.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Song No. 93 is said to suggest Class C in repeated tones and also to resemble
+    Class D.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The title of song No. 93 is given as "A wind from the north."
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: medicine-man
+  description: A medicine-man whose confidence in his own power is discussed in relation
+    to recurrence and dwelling on the keynote.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: patient
+  description: The patient on whose mind the medicine-man wished to impress confidence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ritual healer
+  assigned_to:
+  - fig:1
+  basis: The passage identifies a medicine-man in the context of songs used in treatment
+    of the sick.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: recipient of treatment
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the medicine-man's patient in the context of treatment
+    songs.
+  evidence_refs:
+  - ev:1
+  - ev:6
+symbols:
+- id: sym:1
+  label: north wind
+  literal_form: A wind from the north
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:2
+  label: keynote recurrence
+  literal_form: recurrence and dwelling on the keynote
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Analysis of treatment songs
+  summary: The passage analyzes musical plots and rhythmic features of songs used
+    in treatment of the sick, including how selected song outlines resemble plotted
+    classes and how keynote recurrence is interpreted in relation to a medicine-man
+    and patient.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: healing songs used in treatment of the sick
+  taxonomy_refs: []
+  basis: The passage explicitly groups the material as old songs used in treatment
+    of the sick and discusses their plots and rhythmic analysis.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a functional song category rather than a narrative myth motif;
+    no supplied taxonomy family directly matches it.
+- id: motif:2
+  label: musical assertion of healer's confidence
+  taxonomy_refs: []
+  basis: The passage states that recurrence and dwelling on the keynote suggest the
+    medicine-man's confidence in his own power and what he wished to impress on the
+    patient's mind.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is the author's musical interpretation of a song feature, not an
+    explicitly narrated mythic episode.
+- id: motif:3
+  label: north wind song title
+  taxonomy_refs: []
+  basis: The passage identifies the title of song No. 93 as "A wind from the north."
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: Only the title is provided; the passage gives no narrative content or
+    explanation of the wind image.
+comparison_claims:
+- id: claim:1
+  claim: Some selected song plots are compared with Class A while also containing
+    ascending progressions.
+  claim_level: same_function
+  target: Class A plot pattern in the author's song-plot classification
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to the author's musical classification;
+    the passage does not define Class A in this excerpt.
+- id: claim:2
+  claim: Songs Nos. 80 and 81 are presented as examples of Class C, and song No. 93
+    is said to suggest Class C while also resembling Class D.
+  claim_level: same_function
+  target: Class C and Class D plot patterns in the author's song-plot classification
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns formal musical plot resemblance only; the passage
+    does not define Classes C or D in this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 21351-21399
+  quote_or_summary: '"Old Songs — (4) Songs Used in Treatment of the Sick"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 21351-21399
+  quote_or_summary: '"COMPARISON OF METRIC UNIT OF VOICE AND DRUM (TEMPO)"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 21351-21399
+  quote_or_summary: '"PLOTS OF SONGS USED IN TREATMENT OF THE SICK"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 21351-21399
+  quote_or_summary: Three selected plots, Nos. 79, 86, and 91, are noted as resembling
+    Class A but containing ascending progressions.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 21351-21399
+  quote_or_summary: Nos. 80 and 81 are identified as examples of Class C.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 21351-21399
+  quote_or_summary: The recurrence and dwelling on the keynote are said to suggest
+    the confidence the medicine-man felt in his own power and wished to impress on
+    his patient.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 21351-21399
+  quote_or_summary: The outline of song No. 93 is said to suggest Class C in repeated
+    tones and also to resemble Class D.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 21351-21399
+  quote_or_summary: '"The title of this song is \"A wind from the north.\""'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is OCR-noisy and chiefly musicological rather than narrative.
+    Extracted motifs are functional or symbolic candidates grounded in explicit wording.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol reference was assigned because the passage does not support a direct match to the available lists.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l21351-l21399
+  passage_sha256=6a899d48ebda395f12f32890b9f88675fa997493a51875f7edbaf4efbcd8548d
+

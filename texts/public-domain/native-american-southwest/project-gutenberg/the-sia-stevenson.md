@@ -1,4 +1,68 @@
+---
+id: native_american.the_sia.stevenson_archive
+title: The Sia
+alternate_titles:
+- The Sia (BAE 11th Annual Report)
+text_status: complete
+tradition: native_american_southwest
+culture: zia_keresan_pueblo_cosmology_and_ritual
+region: north_america_southwest_pueblo
+source_language: Keresan (Zia dialect) oral tradition mediated through English
+text_language: English
+date_range: living ritual tradition; fieldwork 1887-1890 at Zia Pueblo; published
+  1894 (BAE 11th Annual Report)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.sia00stevgoog
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1894 Government Printing
+    Office edition (Google scan)
+  translator: Matilda Coxe Stevenson
+  editor: ''
+  publication_year: 1894
+  publisher: Internet Archive
+  source_url: https://archive.org/details/sia00stevgoog
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: US government publication (BAE), public domain. Recording context - cosmogony
+    and creation narratives, rain and snake society rituals, and cult ceremonials
+    of a small Keresan pueblo; translated narrative close to dictation with paraphrased
+    ceremony description.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- zia
+- keresan
+- pueblo
+- southwest
+- verbatim_texts
+motifs:
+- emergence
+- spider_creator
+- rain_making
+- snake_society
+- healing
+figures: []
+---
+
 # The Sia
+
 By Matilda Coxe Stevenson.*
 
 
@@ -186,7 +250,7 @@ of tbe stntuger to take advantage of tbe weaker. The expression of
 tbe men changes t<» a stoii-al resi^jnation, and tlie women's faces grow
 a shade paler with tbe thought that in order to nourish their babes
 they themselvi's must be nourished. And yet, sucti is their code of
-hospitality that f4H> l is :ilways offereil to guests its long as a morsel
+hospitality that f4H><l is :ilways offereil to guests its long as a morsel
 remains.
 
 
@@ -811,7 +875,7 @@ east; the Harsh 'ti-tii- mo (cedar) on the mountain of the zenith, and
 the Mor'-ri-tii^o (oak), variety pungens, on the mountain of the nadir.
 While <>aJ'1i division liiid its home in a spring, S&s'slstinnaku gave to
 these peo])l(' Ti'-ni-a, the middle plain of the world (the world was
-divide l into three parts: Ha'arts, the earth; Ti'nia, the middle plain,
+divide<l into three parts: Ha'arts, the earth; Ti'nia, the middle plain,
 and Hu'-wa-kn, the upper plain), not only for a working field for the
 benefit of the i>eopIe of Ila'arts, but also for their pleasure ground.
 
@@ -865,7 +929,7 @@ gathered into groups, which were very beautiful ; they were not scatno. 13.— U
 tered about as they are in the upper world. Again the two women
 entered the chita and decided to mnke tour houseu — one in tlie north,
 one in the west, one in tlie south, and one in the east — house in this
-instan<;e meaning pueblo or village. When these houses were completed they sai l, now we have some beautiful houses; we will go first
+instan<;e meaning pueblo or village. When these houses were completed they sai<l, now we have some beautiful houses; we will go first
 to that of the north and talk much for h11 things good. Mow' fits£t said
 to her sister: "I^et us make other good things,"aud the sister asked:
 "What thingH do you wimIi to uiakef She answered: " We are the
@@ -1100,7 +1164,7 @@ road." Again he told him to ascend and pass over the world from the
 west to the east, and on his return Si^s'ststinnako inquired how he
 liked that road. "It may be good for some, mother, but I did not like
 it." "You will again ascend and pass over the straight road from east
-to west," and upon the sun's return the father inquire l what bethought
+to west," and upon the sun's return the father inquire<l what bethought
 of that road. His reply was, "I am much contented; I like the road
 much." Then Siis'slstinnako said, "My son, you will ascend eaxih day
 and pass over the world from east to west." Upon each day's journey
@@ -1266,7 +1330,7 @@ which they emerged is known as Slii-pa-po. They gathered into camps,
 for they had no houses, but they soon moved on a vShort distance and
 built a village. Their only food was seeds of certain grasses, and
 tTt'set desiring that her children should have other food made fields
-north, west, south, and east of the village and i>lant Hl bits of her
+north, west, south, and east of the village and i>lant<Hl bits of her
 heart, and corn was evolved (though CTt'sc^t had always known the
 name of corn, corn itself was not known until it originated in these
 tields),and tTt'st't declared : ^'Tliis corn is my heart and it shall be to
@@ -1279,7 +1343,7 @@ harden it.
 
 She commanded the presence of the cougjir, and asked him if he had
 any medicine to harden the road that they might pass over it. . The
-c mgar replied, **I will try, mother;" but after going a short distance
+c<mgar replied, **I will try, mother;" but after going a short distance
 over the road, he sank to his shoulders in the wet earth, and he returned
 much afraid, and told flt'sct that he could go no farther. She then sent
 for the bear and asked him what he could do; and he, like the cougar,
@@ -1301,7 +1365,7 @@ strong." The woman replied, "I do not know how to make the earth
 firm." Three times tyt^sct ciuestioned the wonnin regarding the hardening of the earth, and each time the woman replied, "1 do not know."
 The fourth time the ciuestion was i)ut the woman said, "Well, I guess
 I know; I will try;" and she called together the members of the society
-of the Ka'plna and said to them, "Our mother, Sus'sTstinnako bi ls
+of the Ka'plna and said to them, "Our mother, Sus'sTstinnako bi<ls
 us work for her and harden the earth so that the people may pass over
 
 
@@ -1383,7 +1447,7 @@ of his people, for a time caused all children to be put to death. The
 Sia had scarc(»ly recov^ered from this calamity when a serious difficulty
 arose between the men and women. Many women sat grinding meal
 and singing; they had worked hard all day, and at sundown, when the
-men returned to the h mses, the women began abusing them, saying:
+men returned to the h<mses, the women began abusing them, saying:
 " You are no good ; you do not (;are to work ; you wish to be with women
 all the time. If ycm would allow four days to pass between, the women
 would care more for you." The men replied: *'You women care to be
@@ -1394,11 +1458,11 @@ only every four days."
 
 And the men and women grew very angry with one another. The
 men cried: ''Were it ten days, twenty days, thirty days, we could remain apart from you and not be unhappy." The women replied: '^ We
-think not, but we women w mld be very contented to remain away
+think not, but we women w<mld be very contented to remain away
 from you men for sixty days." And the men said: ''We men would
 be happy to remain apart from you women for five moons." The women,
 growing more excited, cried: ''You do not speak the truth; we women
-would be contcMited to be separated from you ten mo ms." The men
+would be contcMited to be separated from you ten mo<ms." The men
 retorte^d: ''We men could remain away from you women twenty moons
 and be very happy." "You do not speak the truth," said the women,
 "for you wish to be with us all the time, day and night."
@@ -1504,7 +1568,7 @@ being now satisfied, crossed the bridge and dc^scended to the center of
 the river, and there found their father's house. The wife of their
 father inquired of the boys, " Who are you, and where did you come
 from?" "We come to find our father." The woman then asked, "Who
-is your father!" and they answere i, "The Sun is our father;" and the
+is your father!" and they answere<i, "The Sun is our father;" and the
 
 
 wife was angry and said, "You tell an untruth." She gave them a
@@ -2282,7 +2346,7 @@ little boy he would follow the ti'iimoni and theurgists into the chita
 and sit apart by the ladder, and listen to their wise talk, and when
 they wished a light for their cigarettes Po'shaiyanne would pass a
 brand from one to another. But no one ever spoke to him or thanked
-him, but he continue l to follow the wise men into the chita and to
+him, but he continue<l to follow the wise men into the chita and to
 light their cigarettes. Even when he reached years when other youths
 were invited to sit with the ti'amoni and theurgists and learn of them,
 he was never spoken to or invited to leave his seat by the entrance.
@@ -2597,7 +2661,7 @@ and you must have it at your house." The ti'amoni answered: "Very
 well, my house is good and large; I will have it there."
 
 In the morning, when the sun was still new, the ti'amoni had the
-feast spread — bowls of mush, bread, and meat; and he said to Po'shaiyanne, who was present: "Father, if y m have food bring it to my
+feast spread — bowls of mush, bread, and meat; and he said to Po'shaiyanne, who was present: "Father, if y<m have food bring it to my
 house and we will have our feast together." Po'shaiyanne replied : " It
 IS well, father;" and, to the astonishment of all, Po'shaiyiinne's food immediately appeared. It was spread on tables;* the bowls holding the
 food being very beautiful, such as had never before been seen. The
@@ -2787,7 +2851,7 @@ with Sfis'sTstinnako, they knew his nu^dicine secrets.
 Then followed the societie^s of the bear, cougar, badger, wolf, and
 shrew {Sorex).
 
-The hTs'tiiin ' (knife) was composed of the c mgar and the bear, these
+The hTs'tiiin ' (knife) was composed of the c<mgar and the bear, these
 two societies being consolidated. Sus'slstinnako finding that the bear
 was always dissatistietl and inclined to growl and nin from the x)eople
 when they approached, dei'ided to make the cougar first and the bear
@@ -2801,12 +2865,12 @@ The next six societies organized were the snakes, composed of the
 snakes of the cardinal {mints, the snake of the north being Ska'towe
 (Plumed Serj)cnt), the west Ka'spanna, the south Ko'quaira, the east
 Quls'si^ra, the heavens llu'waka, the earth Ya'ai. The Ska'towe (Serpent of the North) and Ko'quaira (Seri)ent of the South) having special
-infiuence over the cloud i>eople, have their bo lies marked with cloud
+infiuence over the cloud i>eople, have their bo<lies marked with cloud
 emblems; thcKa'spanna (Serpent of the West) and theQuIs'sCra (Serpent of the East) hold esoterics relations with the sun and moon; hence
 their bodies are painted with the crescent, llu'waka (Serpent of the
 Heavens) has a body like crystal, and it is so brilliant that one's eyes
 can not rest upon him; he is very closely allied to the sun. The Ya'ai
-(Serpent of the Karth) has special relati ms with Ila'arts (the earth).
+(Serpent of the Karth) has special relati<ms with Ila'arts (the earth).
 His body is spotted over like the earth, and he passes about over
 Ha'arts until someone approaches, when he hastens into his house in
 the earth.
@@ -2815,7 +2879,7 @@ The seven ant societies followed the snakes. The five animal societies, the six 
 
 • PreHidiiig officer of a cult Hooioty.
 
-'This society ditlVrtMl from tlio one of tlio saTni* Dame afterwardH orgaDize l in tho upper world;
+'This society ditlVrtMl from tlio one of tlio saTni* Dame afterwardH orgaDize<l in tho upper world;
 knife in the former roforring to t\u- implement um(m1 for domestic and other purponcH, while the word
 in the latter iudirjitoH the arrows presented to Ma'asewe and U'yuuyowfi, the two war heroes, sons of
 the sun, by their father.
@@ -3177,7 +3241,7 @@ artists work rapidly.
 jM
 
 
-yiiw«Mi i<<
+yiiw«Mi<i<<
 
 
 '-»'"■''■-"
@@ -3326,7 +3390,7 @@ the writer is acquainted. The healing of the sick in the ceremonial
 chamber is with some of the peublos gratuitous, but generous compensation is re4iuired when the theurgist visits the house of the invalid.
 
 Continency is observed four days previous to a ceremonial, and an
-emetic is taken ea h morning for i)uritication from conjugal relations.
+emetic is taken ea<h morning for i)uritication from conjugal relations.
 On the fourth day the married mcMiibers bathe (the men going into the
 river) and have their heads washed in yucca suds. This is for i)hysical purifi(!ation. The exempting of those who have not been married
 and those who have lost a spouse seems a strange and unreasonable
@@ -3434,7 +3498,7 @@ dauciiig, raising first one plume and then the other as he pointed them
 toward the altar. In a moment or two he dipped snds and threw them
 toward the women on the north side of the room, and dipping them
 again threw them toward the women of the south side; at the same
-time tlie male members reache l forward, and, dipping their plumes into
+time tlie male members reache<l forward, and, dipping their plumes into
 the medicine bowl, sprinkled the altar, each time petitioning the cloud
 people to gather. The cloud-maker then threw suds to the west; again
 he dipped the suds and threw them to the zenith, then to the altar; a
@@ -3647,7 +3711,7 @@ if I did not see the ho'naaite of the Snake Society and teU him I wished to beco
 member of that body I would die. In two days I went to the house of the ho'naaite
 bearing my offering of sheH mixture and related my dreams and made known my
 wish to be received as a member of the society. The man now ill with his heart
-notified the ho'uaait e of the Snake Society that he wished to join the society. The
+notified the ho'uaait<e of the Snake Society that he wished to join the society. The
 ho'naaite sent for me and the other official member to meet him in the ceremonial
 chamber to receive the sick man, who, presenting the shell mixture to the ho'naaite
 informed him that he had dreamed of many snakes and knew that he must become a
@@ -3689,11 +3753,11 @@ Tsi ?g^i.cT rocsaL
 
 litiiaw laiL ^aiimtaif^ 3*- riii-^r'^ oioi:! im?- ir^rawc !!^ i— war j^
 niiig«*HM. ir "att ^i^IiL-*' uul tf^t- it nri lusuxsw ▼Tiiro. «» tmsarH^ m.
-k  uatf:  i%iu^ 1^ Tut 111 isa&TTt sue niiziAC viri -waxe: w^hm nt bfsaruia»
+k <uatf: <i%iu^ 1^ Tut 111 isa&TTt sue niiziAC viri -waxe: w^hm nt bfsaruia»
 
 Tjr* CH— irotn ?*» nm^ZMUzr cnai£ i«r Tiif ^i^^x-ial IiiiCiiu.*^ ic^-^^nnf
 
-HiiL II ••"^ *c- ?iiiiif stnn**i«^_ iJ iire^^ar: Titt i«#i2 viiii«iif -fdlrr: ir «%iaAfir nlKs^
+HiiL II ••"^ *c- ?iiiiif stnn**i«^_ iJ iire^^ar: Titt i«#i2<viiii«iif -fdlrr: ir «%iaAfir nlKs^
 
 lir TL^ i»iir!Mf-< lilt S:& i^3« zit* luioi: .^fM#iMp*i» m^nmtnnm Iihtsmi inaait
 lik -1-11. n ~«ii.Tini-*ina v:iii s^ v-iL-iiiifc. 4 iiiimp* of aitMifiltfa rtf-fttt^
@@ -3703,8 +3767,8 @@ caT" cnrn^ "lb- i'«irr oft^ hul ii»t iiffii-'r*<. iwr: is- >iC3if«c ir "aif
 liztc v--i»:r;»rL v-rn i -jirx V-**: TTX r. jj. iiinr ste: -oiitiL annicifi rf
 :ai^ ""i i ^iiiuu. ic Hit £a: -miaiit is' truiii. n. & rxL rt wiOB^. Tin- ti»-
 
-in« n i v-'mua. lnTLisiiiuc ii'*iinsui»fa.T iir lu usisar^ oqira. ^wniuL 1»
-"Ok r-?*!iJi !r!i*f HuLi iii~* 11** SAimt fan»fir ciiiin.
+in«<n i v-'mua. lnTLisiiiuc ii'*iinsui»fa.T iir lu usisar^ oqira. ^wniuL 1»
+"Ok r-?*!iJi !r!i*f HuLi iii~* 11** SAimt fan»fir<ciiiin.
 
 ^Td* rfn cii' i -oLjnil •cm**~Tir- tt: rnnrfSiLliL?' 7«eiim:r Trot imn if'
 ♦r — 'T-L - till* "• >rr^ rii*^ fc Ti»t j*c iiRtb*^ iL k T^Tnit iwrklk-I vni.
@@ -3729,7 +3793,7 @@ It- :..**»'■* jjjs— =::^ '•*^iir* lit* init tr vtiiu«L m iitt mrn. siot 
 " ':»*■ *-*r-1
 
 ^-*^'* ti'- T - «--^ :: 1.J if-i 11 *ift u.cii v^Jl !»?«: litt vesc end PL
-^^-^ ' ■'-•* -■ ••-•' *-^ •*iL*»£.*— . iiiiL lit- tcit**: j^yj I •fs> liifiiL si$R iaic r
+^^-^ ' ■'-•* -■ ••-•' *-^ •*iL*»£.*— . iiiiL lit- tcit**: j^yj I •fs> liifiiL si$R iaic<r
 -*'* • — - ::i*— *-i iLT »i^L zii- :*r-r--iij 11 T j^^- -:j,* ciiij^ n: liif nrfivec
 
 '"''■'''-" * -• "-^' -;'-:i-i.jt- " tn > .liei r3»nLTift ??iiiMKr > iifiad.^nKich
@@ -3830,7 +3894,7 @@ among chaotic hills. Every precaution had been observed to maintain
 
 
 * All the tigurea show tbt* feet as they are colored before the nioccasins are put on. The red spot on
-the bo ly dcfligDates the heart, the black Hpot on the figure of the member of the fire society indicates
+the bo<ly dcfligDates the heart, the black Hpot on the figure of the member of the fire society indicates
 the coal which is eaten. The white aroand the face, arms, and legs is down from the breast of the
 hawk.
 
@@ -4026,7 +4090,7 @@ with a short and rapid shake of the rattle. (The writer noticed in the
 c*erenionials f»t* the cult s*x:ieties of the 8ia the absence of the pottery
 drum, whirh i> su«'h an \m\tortauX feature with the Zufii and Tusayan.)
 With the ronjnjencenient of the ritual the men from either end of the
-line niove ! to the firepla^-*-, and lifting ashes with their plumes, deposited them l>efore the altar and north and south of the m^il line, and
+line niove<! to the firepla^-*-, and lifting ashes with their plumes, deposited them l>efore the altar and north and south of the m^il line, and
 after dancing and jrestiiulating for a moment or two they again lifted
 ashes and sprinkle^i toward the altar, the under side of the plume held
 in the left hand l>eing struck with the one held in the right; again
@@ -4034,7 +4098,7 @@ lifting a^he-- one *i[»rinkleil to the north and the other to the M>uth, and
 passing down on either side of the meal line they Sfirinkled to the
 west, and iTr^^in;: they pas>e«i up the line and when midway one
 sprinkled t'« the north, the other to the ?»^>uth: again dipping ash€^
-they ^i»niikle i to the zenith and with more allies they sprinkled Uf the
+they ^i»niikle<i to the zenith and with more allies they sprinkled Uf the
 nadir. Thi* >prinkling of the cardinal i^^ints was nqteaieii four times.
 
 
@@ -4098,7 +4162,7 @@ a gourdful was waved toward the altar and emptied into the bowl,
 with a call upon the shrew of the earth to implore the cloud people to
 water the earth, and again a gourdful was emptied into the bowl. The
 song closed as the last gourd of wati^r was poured into the bowl and
-the ya'ni^siwittanni resunie l his seat. The woman returned the vase
+the ya'ni^siwittanni resunie<l his seat. The woman returned the vase
 to the west end of the room, and taking a small medicine bag from
 before the altar, she untied it and handed it to the ya'ni^siwittaniii.
 The men and the girl then took similar bags from before the altar,
@@ -4313,9 +4377,9 @@ laces. They constantly dipped their eagle plumes into the medicine
 water, throwing their arms vehemently about, sprinkling the altjir and
 touching the animal fetiches with their plumes, and then ])lacing the
 plumes to the mouths, absorbing from them the sained breath of the
-animal. The ho'naaite with bowed head continue l his invocations to
+animal. The ho'naaite with bowed head continue<l his invocations to
 the cougar of the north, seemingly unctonscious of all that was going
-on abcmt him. After maneuvering before the altar, the four men performed similar extravagances ab mt the child, one of the men standing
+on abcmt him. After maneuvering before the altar, the four men performed similar extravagances ab<mt the child, one of the men standing
 him in the center of the blanket, careftil to place the boy's feet in diagonal angles formed by the meal lines. Then the four left the room,
 carrying with them tbe material taken from the bear-leg skins. The
 ho'naaite did not cease shaking the rattle and singing during the absence of the four, who visited the house of the sick boy to purify it,
@@ -4371,7 +4435,7 @@ is enjoyed as soon as the child leaves the chamber.
 The only variation in the ceremonial on the second night was that
 the vicar dipped the bit of bread into the bowl of stew and scattered it
 to the animal fetiches, having previously lifted ashes from the fireplace
-and sprinkle l the altar with them by striking the plume held in the
+and sprinkle<l the altar with them by striking the plume held in the
 left hand on the under side with the plume held in the right; then holding the plumes l)etween his hands he repeated a long and scarcely
 audible prayer. After scattering the food to tbe animal fetiches, be
 
@@ -4401,12 +4465,12 @@ The writer mentions this deviation in the drawing of the meal lines,
 though she In^lieves it was a mere nuitter of taste on the part of the
 worker. Instead of the vice ho'naaite receiving the child at the outer
 entrance, the man who sat between him and the ho'naiiite brought the
-child into tlu^ r N>m, and he was led out by the ti'amoni. Ui>on this
+child into tlu^ r‹N›m, and he was led out by the ti'amoni. Ui>on this
 occasion, and on the third and fourth nights, the child walked into and
-out of the r(M)m, an indication that he was in better physi ral condition
-than on the first night of the c Temony. The songs on the second night
+out of the r(M)m, an indication that he was in better physi<ral condition
+than on the first night of the c<Temony. The songs on the second night
 were addressed to the bear of the west instead of the cougar of the
-north. The child did not seem to move a muscle throagh mt the (ceremony, except when he st(^])p<'d to his i)osition on th(^ blanket.
+north. The child did not seem to move a muscle throagh<mt the (ceremony, except when he st(^])p<'d to his i)osition on th(^ blanket.
 
 The scen(»8 on the third and fourth nights were coincident with those
 of the se<»ond, witli a few variations. Tlie man who sat between the
@@ -4486,16 +4550,16 @@ THE KNIFE SOCIETY.
 
 
 meal upon the <*ircle and plmied a cincture pad of ync<'a ui)on it, and
-holding the cloud bowl high alK)ve his head, he invoke l the cloud
-p<^o]>le of the north, west, south, east, zenith, an l nadir, and of the
+holding the cloud bowl high alK)ve his head, he invoke<l the cloud
+p<^o]>le of the north, west, south, east, zenith, an<l nadir, and of the
 whole world, to water the earth. The bowl was then set upon the pad
-and a reed 8 inches long laid at^ross it from northeast to s mthwest.
+and a reed 8 inches long laid at^ross it from northeast to s<mthwest.
 The vice ho'naaite spread a small cloth and ui>on it reduced the bit of
-root which was to pro luce the suds to a powdt^r, which he plat'cd* in
+root which was to pro<luce the suds to a powdt^r, which he plat'cd* in
 a little heap in front of the cloud bowl. The ho'naaite, who had left the
 chamber, now returned with a parrot and a white stone bear 12 inches
 long; the bear was wrapped in a large fine white buckskin and the
-parrot was under the ho'naaite's blanket. These were  l(*posited before
+parrot was under the ho'naaite's blanket. These were <l(*posited before
 
 the altar (PI. xxiii).
 
@@ -4545,7 +4609,7 @@ and boy sprinkled the l)ear
 Lnt ScK-iety.
 
 and parrot with pollen from an abalone shell and the vicar dipped his
-eagle phnnesinto the medicine bowl and sprink1e l them four times, then
+eagle phnnesinto the medicine bowl and sprink1e<l them four times, then
 the altar, by striking the plumes with the rattle held in his right hand.
 Tlie ho'naaite then ]mffed smoke into the cloud bowl and over the bear
 and ])arrot, and extendi^ his cigarette to thecardinal points, and over
@@ -4701,7 +4765,7 @@ the weird exhortation, his body being kept in motion by the bending of
 his knees, his feet scarcely leaving the ground. The rattle was waved
 three times from the west to the east, and then waved toward the west
 and toward the alt'ar, the east and to the altar; then, raising the rattle
-high above his head, he forme l a circle. This waving of the rattle was
+high above his head, he forme<l a circle. This waving of the rattle was
 repeated sixteen times. Previous to each motion he held the rattle
 l>erfectly still, resting it on the eagle plumes which he held in the lelt
 hand.
@@ -4934,8 +4998,8 @@ nf>\'rf4«Lm. H >v>y o\ h yt^t^TH, Tliwv |fi«iinr»Eramni iwv refirwwniiiid m X
 ^•A^tfoty-^Wfliri . >tnn, A.?iit ffmiid^mv. Tlfr oIAkt mwi is nnr of tIm* Tniwn
 »^fi*il III ;**ia. i^ml, t4ion^)i lintimU^ oftbr Qimnriintin mid ricw^ nf xbt
 ^*»*nt\ At "^ iM'riAi>K m\i\ fr^^wmwwi by bt*i ^iwiplf* w* htui^r aJniofn ah
-wNr nx Mh» **OnMiK'' his rWmih ts tht* iiiortt df» ritiitr hi Sia. lieii^r
- v%»iifv*>M*iK MX ii IN. ot noiifirmhmtiH: miwi>Mtrs. Tits i^iiV^ is rd in valid : his
+wNr nx Mh» **OnMiK'' his rWmih ts tht* iiiortt df»<ritiitr hi Sia. lieii^r
+‹v%»iifv*›M*iK MX ii IN. ot noiifirmhmtiH: miwi>Mtrs. Tits i^iiV^ is rd in valid : his
 i»lifo>*l >miK fhr vioai at t4ir Qnnr^nnfi Sfuiittty. ts a paral^^i;. and n
 ymniunv naii ix h trfUiiH: fT>^#>1^. Tlw third nhftd is a daii^ht^iv whi» has
 hiMMi bUiwl rn*ai fiilUno>': >*hi' is thp mnthnr iff Twr> i*hi)dTfUi. bin has
@@ -4952,18 +5016,18 @@ fTNlwroNi t4. moti- iHfmiN tbT ^TrniMits. T^ar -rtt^yrnml yam^ tiiis luniih
 la^h^if^^. Ai. Mi( Tii»i^cM sturvHtiiat.and tin* mf^ufpgrtttmt^ nf taad 4Lnd
 
 h*M«l.»*T^*a^H*VL riwn ^arUiiw^ ftO^fVh 'whi» viAftisaHiait thi rsrtniitrv.. iai
-fn^MK. np^i his rrr w«H. fc^rwi tht- HUh law^ an- man-iiNiA.t!i- U«aii
+fn^MK. np^i his rrr<w«H. fc^rwi tht- HUh law^ an- man-iiNiA.t!i- U«aii
 tlw iMJM. ««hihlri>v »\; *4n villajrv-.
 
 «I^.:S»», :^ xviM. t^4 <^tJM"i ITiHpis. Thts. t^fvtf^wn. «aa> h^ rtitt r« fin
 
-y»,%rw^is. !vr»«. hf^t-h^i*-ia.n4)*H a^rs 1ii«arr<^ajrM^t3lt«i. Nf>laAk o: ^rfMtf^iiiid
+y»,%rw^is. !vr»«. hf^t-h^i*-ia.n4)*H‹a^rs 1ii«arr<^ajrM^t3lt«i. Nf›laAk o: ^rfMtf^iiiid
 
-Th« hi.'>»*i%>r<- rt MJh« ijtrr^v'rjla^'aji i> t^«'rtn|\  armvm^ aMsn^ier o ' titt
+Th« hi.'>»*i%>r<- rt MJh« ijtrr^v'rjla^'aji i> t^«'rtn|\ <armvm^ aMsn^ier o ' titt
 ■^"W*•^»^)*4i. hqv iuv uifi hHrtfofr- t<. tih( iVin rJaa«. jtm~: tiasjr nunUfr ■ o*
 
 wi- h?»r, 7»/». ftii/iojT tVi /»i:r*8i-f rf»s * a. ftonSnaftTiKfl. 'ft: Wit ot>^i>)A» ti***
-t:h, #.)ft.j iv h^r; vof»/*fMUr fi !;h( TtndtT: !iti*> ft:  v*nw«t£niimr* Tii?
+t:h, #.)ft.j iv h^r; vof»/*fMUr fi !;h( TtndtT: !iti*> ft: <v*nw«t£niimr* Tii?
 A*r.' A /.mi'v in*tnt*.1i:^r. tfttnil' 7-^ f»rilj^ikr.ftry : I*- lN7iftr. «« "WlIU tlf l-iAl..
 
 
@@ -5186,7 +5250,7 @@ them in charge, claims for them great antiquity. Pis. xxxi and xxxii
 illustrate some masks of the Ka'*suna.
 
 When a boy or girl reaches the time when, as tlieir fathers say, they
-have a g K>d head, some ten or twelve yeiirs of age, the father first suggests to the ho'naaito of the Quer'riinna (if the father is not living then
+have a g‹K›d head, some ten or twelve yeiirs of age, the father first suggests to the ho'naaito of the Quer'riinna (if the father is not living then
 the mother speaks) that he would like his son or daughter to become
 acquainted with the Ka'*suna; he then makes known his wish to the
 ti^iimoni, and after these two have said, *' It is well," he sjiys to his
@@ -5279,7 +5343,7 @@ in yucca suds and then donning their best apparel; only men hunt for
 the larger game. Rabbits are hunted on horseback with rabbit sticks;
 deer, on foot and with the rifle in preference to the arrow.
 
-A party of hunters which had been indicate l by the war chief to
+A party of hunters which had been indicate<l by the war chief to
 hunt for deer and antelox)e lett the village in the afternoon, the party
 being led by the vice war chief. The ti'amoni was a member of the
 party. The ^vTiter mentions this as it is unusual for a ti'amoni to
@@ -5614,7 +5678,7 @@ six great 0]>rings may impregnate our mother, the earth, that she may
 give to us the fruits of her Ix'ing.
 
 Though the tn*^s of the cardinal points are addressed, the supplica
-tion is underst K)d to be made to jiriestly rulers of the cloud i)eoples of
+tion is underst<K)d to be made to jiriestly rulers of the cloud i)eoples of
 the (mrdinal ]>oints.
 
 5. Ifr^n'nati ka'shiwan-na
@@ -5755,7 +5819,7 @@ Ko'-hai chai'-an Tia'-mi chai'-an
 
 Tu-o'-pi chai'-an Mai'tu-bo chai'-an.
 
-An a)>|>eal to the  animals of the cardinal x)oints to be present at the
+An a)>|>eal to the <animals of the cardinal x)oints to be present at the
 ceremonial of healing.
 
 
@@ -5972,7 +6036,7 @@ mo'kai-ra
 cougar
 
 
-ho'-na-wa-ai-t i
+ho'-na-wa-ai-t<i
 
 theurgiflt
 
@@ -6018,9 +6082,9 @@ iija'i'tu Iki bo'iia-wa ai-te
 •iLii-w tbvurgist
 
 
-uu-n*-n' i-ai. Ka -'*isi-iua^ali
+uu-n*-n'<i-ai. Ka -'*isi-iua^ali
 
-o. Kjt.-JlU- i ¥;tf eL
+o. Kjt.-JlU-<i ¥;tf eL
 
 uu-i-o-wa-aJi ka'-^8iiua-aij
 t. ILai-iiU'ii wv'f «L
@@ -6033,18 +6097,18 @@ all I- ywurp mike aw My all Uiimmu**
 
 /Vr< ifUH$i4ttion. — Lion iif the uoith, w** the KaDdpaiuti up which yon
 have iiriveii un (a v«»ice i^ heaid ;. Who i^ it ? " The lion." I am but yonr
-theui'irit^t; you ]io8bet^ all ]K»wer: lend u e y mr luiud aud yonr heart
+theui'irit^t; you ]io8bet^ all ]K»wer: lend u<e y<mr luiud aud yonr heart
 that 1 may ]ieuetrate the ll«^h and dJMMJver the disease. Thnm^h id€^-
-your theur|rif t. take away all di^e^iKe.
+your theur|rif<t. take away all di^e^iKe.
 
-Thit> a]>f»eal is it^i^eated U* each of the animals naiu( l.
+Thit> a]>f»eal is it^i^eated U* each of the animals naiu(<l.
 
 A RAIN «C»Ki; {}¥ THK Hlfc?TLiy f'HAl'A>' (KKIFE SOCIETY).
 
 
 1. Ha -U^-we
 
-' '-oni )ioltt i>
+' '-oni )ioltt‹i›
 
 2. Ha -ta we
 
@@ -6167,7 +6231,7 @@ Tb<^ ui ibt *t»l
 ha -ti
 
 
-|illll- til Oh Mi k(
+|illll- til Oh Mi<k(
 
 
 •til
@@ -6484,8 +6548,8 @@ In this Ciise the woman chose her father.
 
 RITES WITH CHILDBIRTH. 133
 
-At 9i oV-lock slie was »eize I with the first stage of Inbor, and her
-mother at owe iiimle a fire in the fireplace, and a low, heavy Ht H>I, cut
+At 9i oV-lock slie was »eize<I with the first stage of Inbor, and her
+mother at owe iiimle a fire in the fireplace, and a low, heavy Ht‹H›I, cut
 Aroin a solid block, was placed in front of it. The wonian took her seat
 upon the Ht<«)l, with her l)a<^k to the tire, wearing her cotton gown,
 woven dress and belt, and a small blanket around her.
@@ -6550,7 +6614,7 @@ The ho'naaite discovers the diseased parts of the body through the
 instrumentality of ashes, and with the scattering of ashes to the cardinal points, physical and mental impurities are cast from those pres-
 ent and the chamlx^r is also purified.
 
-Again the sprinkling of the ashes was repeate l, but instead of running the plumes down each side of the woman, the ho'uaaite held them
+Again the sprinkling of the ashes was repeate<l, but instead of running the plumes down each side of the woman, the ho'uaaite held them
 in his right hand while he stood to the right of the woman and, pointing the feather ends down, began at the top of the head and passed
 the plumes in a direct line in front and down the center of the body,
 with a prayer for the safe delivery of the child. At the close of this
@@ -6851,7 +6915,7 @@ Bureau of Ethnology.
 ...tprTi. ,-, ^'-5,,.
 
 
-HI. Huun» MtNT WHEN RECEIVED INTO THE THIRD DEGREE
+HI. Huun»<MtNT WHEN RECEIVED INTO THE THIRD DEGREE
 OF OFFICIAL MEMBERSHIP CULT, SOCIETY,
 
 
@@ -6868,7 +6932,7 @@ the time and the grandmother did not leave the house. The grandfather prayed and
 then whispered a short i)rayer and sprinkled meal to the same point; the
 doctress afterward stooi^ing until she almost sat ujwn the ground bared
 the child's head as she held it toward the rising sun and repeated a
-long prayer, and a ldres8ing the child she said, '* 1 bring you to see
+long prayer, and a<ldres8ing the child she said, '* 1 bring you to see
 your sun father and Ko'pishtaia that you may know them and they
 you." At the close of the prayer she led the way to the house, and
 upon entering the woman sat on her bed with her legs extended and
@@ -6883,7 +6947,7 @@ prayer, naming the child.'
 She then placed the infant in the writer's arms, saying, *'The <*hild is
 named; it is yours." When the child was returned to her she washed
 iti^ head in yucca suds, and bathed its body by again tilling her mouth
-with water an l spirting it over the child. It was afterwards rubbed
+with water an<l spirting it over the child. It was afterwards rubbed
 with ashes, especially about its face, and the doctress gave it some
 warm water to drink by dipping her fingers into the vase and letting
 the drops fall from them into the infant's month; the child smax-ked its
@@ -6903,14 +6967,14 @@ carrying the basket of meal, which was a gift to her from the infant, it
 
 'The (l«M'tre88 iiaiurM all iiifant^i, onn numc usually Horving the female through life, hut the male
 may hav»^ u plurality of iiaiii<>H: for example, upon his return aft^'r a long Journey, or after having
-performe l houw valorous  l»'tMl liiH head is bathed in yucca Huds hy Bome female member of the cult
+performe<l houw valorous <l»'tMl liiH head is bathed in yucca Huds hy Bome female member of the cult
 society to which he Ix'longH. or hy a memher of his clan, when she bestows an appropriate name.
 
 
 being her only compenBation fur her services. The mother of the infant
 ate heartily aud at half-past seven in the morning slie walked fully 200
 yards from the house down a declivity; and on her return to the house
-waR bathed for the first time sin re her confinement, she herself doing
+waR bathed for the first time sin<re her confinement, she herself doing
 the bathing.
 
 Fig. 20 is the copy of a photograph of the infaut the fourth m<>rnin^
@@ -7654,7 +7718,7 @@ Dwellings 223
 
 Household articles 228
 
-Food an l its preparation 232
+Food an<l its preparation 232
 
 Tobacco and snuff 234
 
@@ -7782,7 +7846,7 @@ Fig. 55. Wooden dish 231
 
 93. Indian mittens 285
 
-94. Bea led headband, Nenonot 286
+94. Bea<led headband, Nenonot 286
 
 95. Man's winter coat (front) 287
 
@@ -8660,7 +8724,7 @@ taller than the NankojiieH. The men are spare, and have small limbe
 and extremiti«fM. The cheek brmes are also more prominent, althovgfa
 this In j>artly <\ne tr> the thin visage. The women are disposed to be
 Htotit, and in the older women there is a decided tendency to eorpnlence.
-The i'X)mphfxioii, t K>, is c^onsiderably darker. The men wear long hair,
+The i'X)mphfxioii, t‹K›, is c^onsiderably darker. The men wear long hair,
 usually cut m> hh Uf fall just upon the shonlders. The hair of the women
 Ik quiU; heavy, and is worn either in braids or done up in folds upon the
 side of the he^uL
@@ -8795,7 +8859,7 @@ Koksoagmyul, or |HM>plo of the Koksoak or Big river.
 The |HH>ple who apply this name to themselves do not number more
 than a seon^ and a hsUf. There are but fimr famihes. and among these
 art^ st>me who In^long to other li>calities, but now dwell with the Kok
-s vagiu\ ut« They oi>nsider themselves a |>art of the pei>ple dwelling as
+s‹vagiu\ ut« They oi›nsider themselves a |>art of the pei>ple dwelling as
 far to the north as the western end of Akpatok island, anil to the east
 as far as tuN>rgi**s river. The Kskinn> dwelling lH»tween those points
 have similar h:ibits, and ningt^ indiscriminately over the hunting
@@ -8845,7 +8909,7 @@ long and abundant, and always straight.
 
 The few half breeds seen at Fort Chimo are the young children of
 the male servants of the company, who have in two instances taken
-full-bloode l Eskimo women for wives and who were married by the
+full-bloode<l Eskimo women for wives and who were married by the
 agent of the company. These children are quite pretty, the male favoring the mother and the girl resembling the father. With these, as
 with the children of natives, much depends on the cleanliness of the
 person. The soot and other filth accumulating on their faces and
@@ -9220,7 +9284,7 @@ locality. Pitclilug themselves from a cliff or produciug strangulation
 are the usual methods. Sometimes a gun is used. Remorse and disappointed love are the only causes of suicide.
 
 A man discovered, during a period of great scarcity or food, that
-while he went in quest of foo l his wife had secretly stored away a
+while he went in quest of foo<l his wife had secretly stored away a
 quantity of fish and ate of them during his absence only. Coming
 home unexpectedly, he caught her eating and she endeavored to secrete
 the remainder. He quietly went out of the snow hut and blocked up the
@@ -9397,7 +9461,7 @@ will. J knew of an instance where a girl was tied in a snow house for
 a yn-rioil of two weeks, and not allowed to go out. She finally submitte4l, and they returned with the other couple, who were less obstrep-
 erous, and doubtless went along to help their male friend and companion. The woman left her husband in the course of two or three
 wei'.ks, and when lie was asked about it he acknowledged that she had
-Xml]e l neariy all the hair from his head and showed numerous bruises
+Xml]e<l neariy all the hair from his head and showed numerous bruises
 where she had struck liim. This siime woman was afterward tied to a
 sled U) make her a<*.('ompany the man she subsequently chose as her
 husband, who wished lier to go to another part of the country. It was
@@ -9842,7 +9906,7 @@ elaborate and requires a detailed description. It is intended to repre-
 
 FlQ. 23. Majtlc doll.
 
-sent a celebrate l coujurer living on thoeiistern shore of Hudson bay.
+sent a celebrate<l coujurer living on thoeiistern shore of Hudson bay.
 He occasionally viaiU'd Fort Chiuio where bis reputation as a hunter
 had preceded tiini. His nanir is Sii'jm.
 
@@ -9851,7 +9915,7 @@ at Fort CUiino, trimmed with Iiliick and with fancy tartan gartering. In
 
 
 the belt of )>olar-bear akin (kak-caDg'-uat) (Fig. 23) are hang atrings
-of co]ore l beads aud varioiui amaletH. TbeRe are, first, a wooden doll
+of co]ore<l beads aud varioiui amaletH. TbeRe are, first, a wooden doll
 [Fig. 24) (Inug'-n'ak, a little man) liung to the l>elt so that lie faces outward and is alwayn on the alert; then, two bits of wood (agdwak) (Pig.
 35] to which hang strauda of beads and lead drops; next, a string of
 three bullets (Fig. 2C) to symbolize the readiness of the banter when
@@ -9939,9 +10003,9 @@ child if anyone had knocked at
 the door. A negative answer was
 given. Further qnestioning of a
 wliite man, who was asleep near
-by, revealed that he had ma le no
+by, revealed that he had ma<le no
 such sonud. The woman knew
-Fio. IT. T>u« nu. that uo man had died within the
+Fio. IT. T>u«<nu. that uo man had died within the
 
 place and so hi» spirit could not be seeking admittance. She went
 to an old woman and related the affair, and was informed that it was
@@ -9961,7 +10025,7 @@ of slaughter can realy decrease the numbers of the game.
 
 A great spirit controls the reindeer. He dwells in a huge cavern
 near the end of Cape Chidley. He obtains and controls the spirit of
-every deer which is slain or dies, and it depends on his goo l will whether
+every deer which is slain or dies, and it depends on his goo<l will whether
 the i»eople shall obtain future supplies. The form of the spirit is that
 of a huge white bear. The shaman has the power to prevail uptm the
 spirit to send the deer to the people who are represented as suffering
@@ -10013,7 +10077,7 @@ is a small block of wood carved into four human
 headH. These heiids represent four famous conjurers
 noted for their skill in driving away diseases. The
 woman, who came &om the eastern shore of Hudson's
-bay, was tnmbled with rheumatism an l wore this charm frttm time to
+bay, was tnmbled with rheumatism an<l wore this charm frttm time to
 time as she felt the twinges of pain. She assured me that the pain
 
 
@@ -10213,12 +10277,12 @@ to that of the washerwoman rubbing clothing of the wash. Any portion of the skin
 chewed with the front teeth until it is reduced to the required pliability. After this operation has been completed the skin is soaked in
 the liquid, which has now rii)ened to a sufficient degree to be effective.
 In this it is laid for a period lasting from several hours to two or three
-days. The skin is now taken out and dried. The subsequent oi)eration of softening is similar to that just describe l, and is final. It is
+days. The skin is now taken out and dried. The subsequent oi)eration of softening is similar to that just describe<l, and is final. It is
 now ready to be cut into the required shape for the various articles for
 which it is intended. If it is designed for boots for a man, the measure
 of the height of the leg is taken. The length and width of the sole is
 measured by the hand, stretching so far and then bending down the
-long or middle finger until the length is measure l. The width of one,
+long or middle finger until the length is measure<l. The width of one,
 two, or more fingers is sometimes used in addition to the span. The
 
 
@@ -10441,7 +10505,7 @@ edgeit with fringett of deentkin '2 or 3 iuelies wide, or little pendaut« of
 ivory.
 
 
-The enll K;tiiiii umtiuiiH uluvoii of th Me cuattt, Nos. 3221,3498-3500,
+The enll<K;tiiiii umtiuiiH uluvoii of th<Me cuattt, Nos. 3221,3498-3500,
 and .'t&'iS o( deerHkiii, and Una. 3:J28, 3533-3537 of sealakin.
 
 'I'hf [HHiuliiir xltiipo of tliti wuiuaii'ti (;oat in beHt understood by rvfermicti U) Ihu Accompuiiyiiig flguruK (Figs. 34, 35, 3G, 37 aud 38). The
@@ -10469,7 +10533,7 @@ A i>ecnliar style of ornamentation is Hhowu in Fig. .'}0 and 40, No.
 3005, a womait's coat from FortOhimo. The front of the skirt ia fringed
 
 
-with little leail drutts, bvau-8)ia[>e l in tlio upper row and i>e:ir-8haped
+with little leail drutts, bvau-8)ia[>e‹l in tlio upper row and i›e:ir-8haped
 in the lower, and pierced so that tliey can be sewed on. These lead
 drops are ftirnished by the tnider at the price of about a cent and a
 Inilf each, in trade. Tlie trinnning of this froi^k cost, therefore, about
@@ -10624,7 +10688,7 @@ sealskin are sewed upon a pittce of leather, which makes an undersole
 for the shoe, in the manner shown in the flgnre.
 
 Cue end of the strip is first sewed to the subsole and the atrip pushed
-up into a loop an l stitched again, and so on till a piece is made big
+up into a loop an<l stitched again, and so on till a piece is made big
 enough to cover the sole of the shoe, to which it is sewed. These ice
 shoes are worn over the ordinary waterproof boots.
 
@@ -10682,7 +10746,7 @@ under restrictions imposed by superstition.
 The women wear mittens of hare or fox skin, with palms of sealskin
 or Indian- tunned bird'H Kkin, Reindeer skin with the hair on is also used
 for mittens. The hea\-y tkiu from the l)ody i« selected for the sake of
-wnrmtli. When these mittens are to be use l when driving dogs the
+wnrmtli. When these mittens are to be use<l when driving dogs the
 palm is madtt of sealskin, to eimble the wearer to get a firm grasp on
 
 
@@ -10731,7 +10795,7 @@ sealskin, and edged with a strip
 of hairy sealskin over an inch
 wide. The l»ack or upper portion of the oittten is made of
 a single piece of black skin, the
-e lge 4if whicb is crimped and
+e<lge 4if whicb is crimped and
 tnmed ander to protect the fingers. The palm is a separate
 piece, joined to the back piece, and
 on it is a projecting part to form
@@ -10798,7 +10862,7 @@ Portions are cut out and tlui hood assumes the desired shape, resembling a night
 sewed in a similar nmuner and aOixed lo tbe body of the garment. The
 seams run |ierpcndicularly and not around the body in a spiral manner
 ■ as in garments made by the natives of Alaska for similar pur]>0Hes,
-The e ige of the hood, the wrists, and the bottom of tho garment are
+The e<ige of the hood, the wrists, and the bottom of tho garment are
 
 
 222 THE HUDSON BAY ESKIUO.
@@ -10872,7 +10936,7 @@ The first requisite for a snow house is snow. It must be of sufScient
 dei>th and possess certain well-defined qualities. The snow may fall,
 but until it has acquired sufficient depth for the size of blocks required
 and firmness enough for strength to withstand the superiwsed weight of
-the strncture it is useless. An instrument temie l snowknifo (piinQk),
+the strncture it is useless. An instrument temie<l snowknifo (piinQk),
 shaped like a short sword, is used for the purpose of cutting the blocks.
 The Eskimo seeks a place where the insertion of the knife into the bed
 of snow wiU prove that the snow is in the proper condition. Ue must
@@ -10902,7 +10966,7 @@ Iar-shai>cd block first used and so placed as to "break"the joints, and
 thus render the structure more stable. Additional blocks are placed
 on the first row, and as the operation proceeds it will bo seen that the
 blocks lie in a spiral form, gradually drawing in as the structure rises,
-forming a dome-8hape l wall of snow. The key block at the top is
+forming a dome-8hape<l wall of snow. The key block at the top is
 careiblly cut to fit the aperture and inserted from the outside by the
 assistance of another person. All the joints are carefully stopped up
 with spawls of snow or with snow crushed between the hands and
@@ -11176,7 +11240,7 @@ in kettles of soapstone, in which cooking was also done by putting
 F:ii. ti. SoapabiDC kvtUfl.
 
 heated stones into the wat^r. These soapstone kettles are, however,
-quite sniKTseded by utensils of  ivilized luanufiieture. I, however, suece<-ded in collecting two full-sized stone kettles, and one little one, made
+quite sniKTseded by utensils of <ivilized luanufiieture. I, however, suece<-ded in collecting two full-sized stone kettles, and one little one, made
 for a ehihl's toy. The figures (Figs. 53, 54) show the shape of these vessels sufUciently well. The handles are made of strips of whalebone.
 The larger kettle ( No. 31 7i)) is nearly 13 inches long, and will hold nearly
 a gallon. They were niadeof different capacities in former times, varying from about a pint to a full gallon.
@@ -11219,7 +11283,7 @@ is consumed in great quantities. I have seen them strip and devour
 the back, fat, and tlesh from the body of a deer while the libers were yet
 quivering. The entrails of many species of birds are taken from the
 l>i,dy and, while yet warm, swallowed much after the manner of swallowing ail oyster. The eggs which have been incubated to an advanced
-degree arc as eagerly  levoured as those quit© f^esh.
+degree arc as eagerly <levoured as those quit© f^esh.
 
 Tlie deer meat, killed the previous fall and frozen for three or four
 months, is cat into huge chunks and gnawed with as much satisfaction as though it was the finest pastry. On such occasions I Inive seen
@@ -11332,7 +11396,7 @@ journeys.
 
 Tlie form of the niniak, in the region under consideration, differs
 gieatly from that of the Eskimo of Hering sea. (See Fig. 59, from a
-mo lel.)
+mo<lel.)
 
 The size of the boat is variable aooordtng to the means of the builder
 and the size of the family to ha ojjiiveyed in it. The length of the keel
@@ -11396,7 +11460,7 @@ from its flat bottom, is unable to go to windward. With a breeze nearly
 aft they can be made to sail at a good speed.
 
 The covering of the umiak is made of skins of the largest seals.
-The skins are freed from hair and all a lhering flesh and fat, and
+The skins are freed from hair and all a<lhering flesh and fat, and
 stretc*.hed to their utmost tension.
 
 They are then cut into the proper shape and sewed together. The
@@ -11413,7 +11477,7 @@ bcwed side to side in sufficient number to tit the length of the frame
 they are lifted around it and temporarily placed in i)08ition. The
 superfluous portions are cut out or additional i)ieces put in until it
 fits proi)erly on the frame. Holes, 3 or 4 inches apart, are cut in the
-edges of the skin and stout thongs are passed through these an l over
+edges of the skin and stout thongs are passed through these an<l over
 the top rail to the inner rail. All the strength of the individual is now
 applied to draw the skin over the top rail. Being wet it readily stretches,
 and when the entire covering is drawn sufficiently tight the lashing
@@ -11446,7 +11510,7 @@ the greatest width, one-third of the distance aft the hole where the
 rower sits, being oiu^-seventh to one-ninth of the entire length of the
 kaiak. The ends are shaip, the prow much more acute than the
 stern. The bottom is quite flat and the frame for the keel and sides
-at the bottom is arrange l similarly to that of the umiak. The i)row
+at the bottom is arrange<l similarly to that of the umiak. The i)row
 is simply an extension of the keel and slopes above tlie water to a
 height nearly double that of the stern. The slope of the stern is
 gradual and short. The side timbers at the bottom have the ui)i)er
@@ -11483,7 +11547,7 @@ I remembtT an instance occuiTing opposite Fort Chimo. A kaiak
 had been left until tbe ice in the river was firm enough to enable. the
 vessel to be brought over on it to the station. One day a woman declared that she could see a wolf tearing the skin from the frame. It
 was scarcely credited, but in thecourseof half an hour the wolf started
-across towards the post. It was met and showe l some disi>osition to
+across towards the post. It was met and showe‹l some disi›osition to
 attack, but was shot. I watched to see where the men went to look at
 the kaiak, and when they reached the ]>lace I was astounded that the
 woman could discern even the kaiak at such a distance.
@@ -11687,7 +11751,7 @@ and spirts it in a spray along the mud. As soon as the water touches
 the runner it nmst be spread evenly with a hand incased in a mitten of
 reindeer skin, rubbing back and forth until the runner looks like a bar
 of black glass. The sled is then ready for use. Great care is necessary
-to avoid rocks or stones, as these cut the polished mud an i roughen it.
+to avoid rocks or stones, as these cut the polished mud an<i roughen it.
 If a sudden lurch causes a i)ortiou of the nnid to drop out the piece is
 frozen on again by means of water, or if crumbled a piece of ice is cut
 to the shape and caused to adhere by water freezing it to the runner.
@@ -11727,7 +11791,7 @@ stout sealskin thong cut three-eighths of an inch wide, and the corners
 are carefully pared until the trace in form resembles a hooj) for a small
 keg. The ti'ace varies from 10 to 30 feet in length, and is att.ached to
 a longer but much stouter thong of heavier sealskin or walrus hide
-prepare l in the form described for the trace. The thong to which all
+prepare<l in the form described for the trace. The thong to which all
 of the traces of variable lengths are fastened is termed the "bridle.'*
 The bridle has, usually, a piece of ivory, called "toggle,'' at the end
 farthest from the sled. A few inches back of the toggle is a short
@@ -11813,7 +11877,7 @@ energetic and well-behaved; others as stubborn or lazy as is possible.
 Strange dogs in the team are liable to be pitched upon by all the others
 and with the long traces ensues such an entanglement of lines, dogs,
 and flying snow as is difficult to conceive. The good qualities of the
-driver are manifeste l by his ability in keeping the dogs in order and
+driver are manifeste<l by his ability in keeping the dogs in order and
 showing promptness in separating thein when quarreling. Fighting
 among the dogs can always be prevented bv the driver keeping the
 dogs in proper position.
@@ -11880,7 +11944,7 @@ convenience in handling. The case is tied around the bow at the
 projecting end. The quiver is attached to
 the bow case and contains two models of arrows for shooting large game. The arrows
 are tii)ped with leaf-shaped pieces of tin.
-Tlu^y are feathere l with i)ortioii8 of feathers
+Tlu^y are feathere<l with i)ortioii8 of feathers
 apparently taken from the tail of a raven.
 The mouth of the (juiver is also drawn up
 with a string to prevent the loss of arrows.
@@ -11894,13 +11958,13 @@ the present day.
 
 I have already described the large hariKHm
 used for striking white whales and large seals
-from the kaiak. A short-hea l spear (Fig 67,
+from the kaiak. A short-hea<l spear (Fig 67,
 No. 901G4) is used for diwspatching wounded
 seals or white whales, or for killing white
 whales when they have been driven into a
 shallow arm of the sea when the tide ebbs
 and leaves them ])artly uncovered. It has a
-short w M)den shaft with a ferrule of ivory,
+short w<M)den shaft with a ferrule of ivory,
 holding a short ivory loose shaft, kept in place
 by thongs, on which is mounted a toggle head
 like that used on the big harpoon. The line
@@ -11908,7 +11972,7 @@ is either attached to the kaiak or to a small
 float made of the inflated intestine or skin of
 a seal. The toggle heads for these si)eiirs are
 made of ivory, and fltted with iron blades
-(Fig. 68). I have already referre l to the
+(Fig. 68). I have already referre<l to the
 large sealskin float in describiug the kaiak.
 
 Fig. 61) (No. 3531) is such a large sealskin
@@ -11922,7 +11986,7 @@ fl(»sh side, now the exterior, is carefully
 scraped to free it from all fleshy matter. The
 hind flippers are cut ott' at the ankle and the
 
-skin either sewe l or stoutly wrapped with FK,8.(n.64,and85._Arrowf.. Ewt
+skin either sewe<l or stoutly wrapped with FK,8.(n.64,and85._Arrowf.. Ewt
 thong. The fore flippers are usually lett at-
 
 
@@ -12017,7 +12081,7 @@ describing the boats, spears, and other a])i>aratuH used in their pursuit.
 The most imiH>rtant hunt of the yi-iir, however, comes in the uutaum,
 when the reindet^r are migrating in large herds and crossing the rivers.
 The deer are wanted now for their flesh for food and their skins for
-(clothing. Kv Tything lUH^essary for the chase in taken in the umiak,
+(clothing. Kv<Tything lUH^essary for the chase in taken in the umiak,
 or, perliaps, a whaleboat, to a locality convenient to where the animals
 cross over. Hero the teut is pitched, and a camp is made. The hunters scour the neighboring land for herds of reindeer, which are seen
 running about under the impulse to seek the opi>osite sex. As they
@@ -12096,7 +12160,7 @@ at the foe, who often mocks their dying struggles, or pitches a stone
 at their quivering legs to make them fall. A convulsive struggle as
 the blood fills the internal cavity, a sudden i)itch, and the life is gone
 without sigh or groan. As many of the herd as can be speared are
- piickly dis])atched and the entire number secured if possible. It is
+<piickly dis])atched and the entire number secured if possible. It is
 supposed that the ones which return to the shore whence they came
 give the alarm and frighten other arrivals away from the starting
 ])oint. The hunters strive to prevent their return, and will often allow
@@ -12106,7 +12170,7 @@ Those which have been killed and are lying in the water are dragged
 on land and skinned. The pelt is taken off as thiit of a be<^f is when
 skinned by a butcher. The ears and the skin of the head are left on.
 The body is opened and the viscera are removed. The intestines are
-freed from the fat; the stomach is cleanse l of the greater portion of its
+freed from the fat; the stomach is cleanse<l of the greater portion of its
 contents, and the blood which collected within the cavity is scooi)ed up
 with the hands and ladled into that receptiicle; and both are reserved
 for food. The heart and liver are taken to the camp, where they help
@@ -12164,7 +12228,7 @@ MISCELLANEOUS IMPLEMENTS.
 I have already, in the earlier pages of this paper, referred to various
 tools and implements.
 
-In ad lition to these, the Koksoagmyut have comparatively few tools.
+In ad<lition to these, the Koksoagmyut have comparatively few tools.
 
 In former ages stone and ivory were fashioned into crude implements
 for the purposes which are now better and more quickly served by instruments of iron or steel.
@@ -12207,7 +12271,7 @@ ties of the block.s of snow after being placed in position.
 No. 3140 (Fig. 70) is a large snow knife uia«1e
 of walrus ivory. It is 13 inches long aud
 nearly 2 inches wide for the greater part of
-the bln le, which terminates in a ronn led
+the bln<le, which terminates in a ronn<led
 point. The instrument liu!< two edges, and in
 ! general appearances rewembleM a double-edged
 liomau sword. The liaudle is cnt t<) fit to the
@@ -12223,7 +12287,7 @@ is a dish-shaped plec* i>f reinder horn, two aud
 one-eighth inches long and seven-eightlis of
 *Kn»™"knif*^ an inch wide. Through the center of the
 o >.uiismjui. pjg(jg yf horn an oblong hole has been cut for
-the insertion of the shaft or handle. The e lges of the
+the insertion of the shaft or handle. The e<lges of the
 Iiont piece are shari) as can be made. Tliis piece is onethird of an inch tlUck, aud having the sharp edge up is
 convenient for thrusting down the back to scratclt one's
 self in places where the hand could not reach on iiccount
@@ -12310,7 +12374,7 @@ return at least a part of the clothing, with an injun(*tion to play more
 and lose less.
 
 The young girls often play the game of taking an object and secreting it within the closed hand. Another is called vldou to guess the con-
-tents. She makes in iuiries as to the size, color, etc., of the object.
+tents. She makes in<iuiries as to the size, color, etc., of the object.
 From the answers she gradually guesses what the thing is.
 
 A favorite game, something like cup and ball, is played with the
@@ -12408,7 +12472,7 @@ sealskin, and cutting it into a circular form, tlieu gathering the
 edges and otuttiug tlie cavity witii dry moBs or feathers. A circnlar
 piece of skill is then inserted to till the spivce which is left by the incontplet<^ gatherings. This ball is very light and is driven either bya blow
 Irom the foot or else by a whip of pe<;uliai' construction. This whip
-consists of a handle of wo h1 8 to 12 inches in length. To prevent it
+consists of a handle of wo<h1 8 to 12 inches in length. To prevent it
 from slipping out of the hand when the blow is struck, a stout thong
 of sealskin is made into the form of a long loop which is piiKsed over
 the hand and tightens around the wrist. To the farther end of the
@@ -12439,7 +12503,7 @@ together, making a sphere which can be rolled only in a certain direction. It is
 erratic oonrse. Nos. 3461, 3287, and 3460 are footballs of the pattern
 first described.
 
-The Innuit who r^mo from the western end of Hudson strait, the socalle l "Northerners," have a game which they play with sets of pieces
+The Innuit who r^mo from the western end of Hudson strait, the socalle<l "Northerners," have a game which they play with sets of pieces
 of ivory cut into irregular shapes, and marked on one face with spots
 arranged in different patterns {Fig. 77). The number of pieces in a set
 varies from 60 to 148, The name of the set is A ma zn' a lit, and
@@ -12501,7 +12565,7 @@ The only musical instrument whicli I observeil among these people
 U'ge ijuaiitities of
 
 
-was a violin of ttieir own niannttu;tura, nia<1c!, of (; nirHe, in inritatiou
+was a violin of ttieir own niannttu;tura, nia<1c!, of (;<nirHe, in inritatiou
 
 of tliose tbey had seen used by tlie whiter. Its form is siifflcit-ntly
 
@@ -12535,11 +12599,11 @@ Art is but sliglitly
 
 developed among these
 
-pe tple. Their weapons
+pe<tple. Their weapons
 
 aud other implements
 
-are never iidorue l with
+are never iidorue<l with
 
 carvings of animals
 
@@ -12547,7 +12611,7 @@ and other natural ob-
 
 -EKki^iTdoU. jcfts or with convenwoman. tioual patterns, aa is
 
-the va.' c in so great a degree among the Ksktmo of Alaska. Tbey are,
+the va.'<c in so great a degree among the Ksktmo of Alaska. Tbey are,
 
 however, not devoid of artistic skill, as is shown by the good taste
 
@@ -12566,7 +12630,7 @@ possess eou»iderable iirtiHtic merit.
 [il Kiiiall ivory carvings, which
 Among tlietw, the small objects, (Fig, 8;t), collected from
 tlie Bo-citllcd Nortlieniera, represent various wiiterfowl cut from
-|iiuces of walrus ivoiy. ThevarioiiH K]»e aeH thus carved ai-e lo«>i)8,
+|iiuces of walrus ivoiy. ThevarioiiH K]»e‹aeH thus carved ai-e lo«›i)8,
 (lucks, geuKe, sea pigeons, and
 inurreM. Oiu^ repi-esents a female
 i?ider with two young momiteil
@@ -12624,12 +12688,12 @@ past until one by one the listeners drowsily drop to sleep in the i)ositioii the
 I was fortunately able to collect a number of these ancient legendary
 stories, some of them of considerable length.
 
-Origin of the Innuit. — A man was create l from nothing. It was
+Origin of the Innuit. — A man was create<l from nothing. It was
 dummer and he journeyed until he found a woman in another land.
 The two became man and wife, and from them sprang all the i)eople
 dwelling there. [ It is extremely difficult to get the native to go beyond
 the immediate vicinity in which he lives while relating these stories
-and legends. They invariably maintain tlmt it was * here" that the
+and legends. They invariably maintain tlmt it was *<here" that the
 event took place.]
 
 The Coming of the White People. — ^Tlie Eskimo were on the verge of
@@ -12637,7 +12701,7 @@ starvation and had eaten neiirly all their food. They saw that in a few
 more days death would come. The greatest Tungaksoak or great
 Tung ak determined to bring relief and i>rophesied that people having
 light hair and white skins would come in an immense fimiak. He
-place l a young pui)])y on a chip and another on an old sealskin boot,
+place<l a young pui)])y on a chip and another on an old sealskin boot,
 and set them adrift on the water. The pupi)ies drifted in different
 directions, and in the course of time the one on the chip returned and
 brought with it the Indians. A long time after that, when the people
@@ -12662,7 +12726,7 @@ places by a walrus at a later date than the appearance of the trees.
 A woman who had lost her husband lived among strangers. As they
 desired to change the ])laceof their habitation, they resolved to journey
 to another point of laiul at a distance. The woman who was dei)ending
-on charity ha l become a burden of which they wished to rid themselves.
+on charity ha<l become a burden of which they wished to rid themselves.
 
 
 So tliey put all their belongings into the umiak and when they were
@@ -12723,7 +12787,7 @@ ti^rminated in a higli cliff some of the women were requested to walk
 over the neck of hind. One of them j(ot out with her children in order
 to lighten the boat. Slie was directed to go over the place, and they
 promised to wait for her on the other side. The people in the boat
-had gone so far that their voices, giving the direction, became indistinct. The poor woman became confused and suspect^nl they wante l
+had gone so far that their voices, giving the direction, became indistinct. The poor woman became confused and suspect^nl they wante<l
 to desert her. Slie remained about the cliff, constantly crying the last
 words she heard. She ultimately changed into a gull, and now shouts
 only the sound like "//o orer, goover^ ovevy ore,'- etc.
@@ -12754,7 +12818,7 @@ ears. It has no tail, because it did not formerly have one.
 
 The tcolf was a poor woman, who had so many children that she
 could not lind enough for them to eat. They became so gaunt and
-hungry that they were change l into wolves, constantly roaming over
+hungry that they were change<l into wolves, constantly roaming over
 the land seeking food. The cry of the mother may be heard as she
 strives to console her hungry children, saying that food in plenty will
 soon be found.
@@ -12842,7 +12906,7 @@ an opportunity to escape. But how was he to better his condition
 when the hand of everybody was raised against him on account of his
 treatment at home! The little girl who had so often befriended him
 could not assist him to escape from such a life. lie endeavored to lay
-a plan, but it came to naught. There seeme l no help for him. One
+a plan, but it came to naught. There seeme<l no help for him. One
 night he abandoned all hope and threw himself on the ground in despair. While there he gazed at the bright moon, and the more intently
 his gaze was fixed upon it the more he thought he discerned the face
 of a man in it, and at last he cried to the man to cx)me and help him
@@ -12854,7 +12918,7 @@ little stone. A large, round bowlder from the beach was no more to
 him than a bullet held in the hand of a strong man.
 
 The moon man then told the boy that he was large enough to take
-care of himself and do as he pleased with the i)eople who ha l treated
+care of himself and do as he pleased with the i)eople who ha<l treated
 him so badly. With this the two parted, and the moon man went to
 his hole in the sky, while the lM)y walked along the besu*.h picking up
 
@@ -12904,7 +12968,7 @@ a whistling noise and the earth ]MM)ple answer only in a whisi>ering
 tone. The Eskimo say that tliey are able to call the aurora and converse with it. Theys4*nd messages to the dead through these spirits.
 
 The sky. — The sky is supjK>sed to l>e an immense d(mu\ of haixl matei ial, reared' over the earth, long from east to west and shorter from
-north t4> south. Tlie e lges of the land and sea are bonndinl by high,
+north t4> south. Tlie e<lges of the land and sea are bonndinl by high,
 preiipitous sides, shelving oatwanl or sloping inwanl to pnnent anything living on the earth from going to the region beyond. There is
 the source of light and hejit. The dome of the sky is very cold, and at
 times covered with crystals of frost wliich fall in the form of snow or
@@ -13128,7 +13192,7 @@ are neglected and the boys given every advantage. The latter soon
 discover their importance and rarely fail to show their domineering
 ways to the other sex.
 
-It is quit i rare that twins are born. It is not usual for a mother to
+It is quit<i rare that twins are born. It is not usual for a mother to
 have more than four children, altlumgh as many as six or eight may be
 born. As the paternal origin is ofton obscure, the person having that
 woman as wife at the time of the child's birth is supposed to be its
@@ -13150,7 +13214,7 @@ put something at the head of their graves, and so do the Indians.
 Away from the post the Indians suspend their dead from the
 branches of trees, if the ground be frozen too hard to excavate, and
 endeavor to return in the following summer and inter the body. A
-person who has distinguished himself among the people is often burie l
+person who has distinguished himself among the people is often burie<l
 where the fire lias been long continued within the tent and thawed the
 ground t4> a sut!li»ient depth to cover the body. The tent is then removed to another location. The Indians have not that dread of a
 corpse which is shown so plainly among the Eskimo. The former have
@@ -13390,7 +13454,7 @@ The canoes are held in readiness, while the hunters scan the opposite
 hillsides for deer filing along the narrow paths thnmgh the forests and
 bushes towards the river bank. Arrived there, the deer, after a moment's pause, esigerly take to the water, boldly swimming as they
 quart(Mdown stream with the current. The animals swim high in the
-wat(?r, scarcely more than a third of the bo ly immersed. They move
+wat(?r, scarcely more than a third of the bo<ly immersed. They move
 compactly, in a crowd, their antlers appearing at a distance like
 the branches of a tree floating with the current. The Indian crouches
 low and speecls for the canoe. Silently it is pushed into the water,
@@ -13461,7 +13525,7 @@ which throng the lower parts of the country.
 
 The crossing x>hice of the females and young bucks is at or near Fort
 Chimo at least each alternate year. About the 5th to the 10th of May
-the assembled Indians anxiously await the coming of the g anie. In
+the assembled Indians anxiously await the coming of the g<anie. In
 the course of a few days the welcome cry of "Deer!" is heard, and the
 camp immediately becomes a scene of great excitement — men hurrying
 to get their guns and ammunition, women shouting the direction of the
@@ -13472,7 +13536,7 @@ between the hills to the level land beyond. Some station themselves at
 the top of the ravine, while the swiftest runners liasten to the head of
 the defile to lie in ambush until the deer, urged from behind, rush past,
 to be met with a volley of balls from all sides. Panic seizes the animals, and wherever they turn an Indian confronts them. Until the
-deer recover from their paralysis, and  mce more obey their instinct to
+deer recover from their paralysis, and <mce more obey their instinct to
 escape, numbers of them stand quietly waiting to be slaughtered;
 
 
@@ -13496,8 +13560,8 @@ though the Eskimo is far the better marksman.
 A third method ])ursued is that of snaring the deer.
 
 A plan adopted to capture deer in the winter is as follows: A herd
-of deer is discovered, an l men and women put on their snowshoes.
-The deer are surrounde l and driven into a snowbank many feet deep,
+of deer is discovered, an<l men and women put on their snowshoes.
+The deer are surrounde<l and driven into a snowbank many feet deep,
 in which the affrighted animals plunge until they nearly bury themselves. The hunters, armed with the lance, pursue them and kill them.
 This means of procuring deer is only adopted when the herd is near a
 convenient snowbank of jmiper depth. The snow falling in the winter
@@ -13520,7 +13584,7 @@ for food. The hair and spines are removed by scorching or by pouring
 hot water over the Ixxly.
 
 Of the carnivorous mammals the lynx (mly is eaten, and this when
-other fo Hl is scarce, iiears are so rare that they form but an unini-
+other fo<Hl is scarce, iiears are so rare that they form but an unini-
 
 
 280 THE im>Sf)X BAY ESKIMO.
@@ -13580,7 +13644,7 @@ OLOTniNO.
 
 
 water. Deadfalls c^uBistiii^ of a log of wtxxl set upon fl{n>re-4 triggers
-rarely fitil to kill mink and niarti>ii. Tti f lynx iaunually taken by means
+rarely fitil to kill mink and niarti>ii. Tti<f lynx iaunually taken by means
 of a Biiare with the loop over acircle of lowpegssnrroiiiidingtlie tongue
 of the figure-l set of triggers. The spring, usually a littie sapling,
 is strong eiiongh to lift the forelegs of thvaiiiuiiil from Ihegroitnil when
@@ -13614,7 +13678,7 @@ conceiving is inflicted upon
 this animal when it is captured. All manner of vile
 names and reproaches are ajiplicd to it. Tlie Indian enjoys
 relating how lie singed its fur
-off, broke its bones, and tormente l it in many ways, as it
+off, broke its bones, and tormente<l it in many ways, as it
 slowlyexpired under his hand.
 
 
@@ -13670,7 +13734,7 @@ or gaudily colored scarf of
 woolen or cotton purchased
 from the trnder.
 
-!we l with siucw like that
+!we<l with siucw like that
 ims which run the entire
 
 
@@ -13809,7 +13873,7 @@ are necessary for ejich lulult.
 
 The hands are protected with mittens (Fig, 93) made of smokeil deerskin. The skin is folded, and along the fold tho shape of the mitten is
 cut so as to leave a part by which the two pieces are Joined, and the
-edges forme l in the cutting are sewed together. Tho thumb is made
+edges forme<l in the cutting are sewed together. Tho thumb is made
 as follows: A tongue-shaped piece is cut out of the pahn and the base
 of that pie<-e is left as the part to form the under or inner covering for
 the thumb, A piece is now trimmed that ^vill fit tho pliu:e cutout and
@@ -13886,7 +13950,7 @@ usually ornamented, it is
 necessary that it should be
 of a i^ood quality of leather.
 A piece of black, blue, or
-re l cloth is generally laid
+re<l cloth is generally laid
 over the tongue for ornament. There is sometimes
 bead work on this portion,
 but as these peo|>le are not
@@ -13903,7 +13967,7 @@ are ncciesaaiy for each adult.
 
 The hands are protected with niittcas {Fig, 93) made of smoked deerskin. Tlie skin is folded, and along the fold the shape of the mitten is
 cut so as to leave a part by which the two pieces are Joined, and the
-edges forme l in the cutting are sewed together. The thumb is made
+edges forme<l in the cutting are sewed together. The thumb is made
 as follows : A tongue-shaped piece is cut out of the palm and the base
 of that piece is left as the part to form the under or inner covering tor
 the thumb. A piece is now trimmed that will fit the place cut out and
@@ -13950,7 +14014,7 @@ during the spring when the glare of the sun on the snow produces siich
 distressing inflammation of the eyes. It is fastened to the head by
 means of strajts tied behind. The greater itart of the men prefer to go
 without bead covering. Some who are able and love a dtsphiy of fancy
-colors have a cap made of red cloth and ornaniente l with bends worked
+colors have a cap made of red cloth and ornaniente<l with bends worked
 into extravagant patterns. The cap is a high conical atfair, and from
 the weight of beads upon it often falls to one side of the head.
 
@@ -14054,7 +14118,7 @@ I have Mceii tlie
 
 Tumim.1 CLOTHING. 289
 
-die of winter when the tliennometer had uat regiHtei- Ml liifrhi-r tliao 20°
+die of winter when the tliennometer had uat regiHtei-<Ml liifrhi-r tliao 20°
 below zero for weekH, with no protection for theii' legs except a pair of
 old buckskiu leg^iogB bo short that the bottom did not reach within -3
 or 4 inches of the dilapidated moccasius. The feet were, so far as
@@ -14158,8 +14222,8 @@ by siiiall loopfl of sinew or deerRkiii. A belt aroniid the waist keeps
 it up.
 
 The women also wear iu winter a Hluevele»s gown leuuhing little below
-the knees and as higli as the chin. Tbe sleeves are put on ! eparate)y,
-like leggings. They are UHually made of re l orblaek ('{atli.
+the knees and as higli as the chin. Tbe sleeves are put on !<eparate)y,
+like leggings. They are UHually made of re<l orblaek ('{atli.
 
 Tbe gown is often extravagantly decorated witli paint. The flesh
 side of the skiu is rubbed with red ocher, on whicb are painted in describable designs. A strip of deerskin dotted with beads borders the
@@ -14272,7 +14336,7 @@ too much and pntrefy.
 
 Where the hunter has great success
 iu killing deer many of the skins are left
-uDtouclie l because there is no one to attend to them and they are thus wasted.
+uDtouclie<l because there is no one to attend to them and they are thus wasted.
 
 When the pelts of tbe deer or other
 large animals have been taken from the
@@ -14390,8 +14454,8 @@ always subsequeat to that of bringing the akins into tlie pliable condition.
 The prm-eiwi adopted by these IiidianH in smoking the deerskins ia
 as follows: The woods are searched for rotten wood of a special
 character. It must be affected with a kind of dry rot wliicli renders
-the fibers of a spongy nature. This is procured and thoroughly  lried.
-The skins to l>e snioke l are
+the fibers of a spongy nature. This is procured and thoroughly <lried.
+The skins to l>e snioke<l are
 selected and two of uearly
 the same size and condition
 I are chotien, and sewed into
@@ -14403,7 +14467,7 @@ and neck iKirticms left free or open. To the edges of thewe is sewed a
 cloth, usually a pie^-e of baling cloth, and this is also left oi>eD. The
 rotten wood is )>laced in a pan or vessel and as it smolders, never burning into a blaze, the pale, blue, pungent
 smoke is allowed to aseerid within the oivity of the
-deerskin bag. The  loth is merely to form a conduit for
+deerskin bag. The <loth is merely to form a conduit for
 the smoke as the skin should not be too near the Are.
 
 As the pnH'ess continues the skins are inspected between the stitches of the sewiug and when the opera-
@@ -14413,7 +14477,7 @@ lude, clear brown eolur, the shiide of which det>ends on
 the length of the exposure to the smoke.
 
 The doth is removed and the skins ure immediately
-folded, with the smoked si le within, and laid away for
+folded, with the smoked si<le within, and laid away for
 several days to season. If, however, tiie skin be left to
 the inflnonce of the air the coloring matter immediately
 disappe-ars leading it of a color only slightly different
@@ -14436,7 +14500,7 @@ or horn of a pex'uliar slia|>e l>est understood from the figures (Figs.
 
 KMS-llO).
 
-Those with two, three or four tines are used for making the complicate l patterns of parallel lines, and are always made of antler, while
+Those with two, three or four tines are used for making the complicate<l patterns of parallel lines, and are always made of antler, while
 the simple form is sometimes of wood.
 
 
@@ -14451,10 +14515,10 @@ Small wooden bowls
 are also employed.
 (Figs. 112-113.)
 
-The pigments iiHe l
+The pigments iiHe<l
 are procured from dif- f«^ i«.^r-i« ..^.v. N™.»nt.
 
-erent sonrces. From the traders are obtained indigo in the erode eonditioii or iu the for%i of washing blue, vermilion in small buck» kin bags,
+erent sonrces. From the traders are obtained indigo in the erode eonditioii or iu the for%i of washing blue, vermilion in small buck»<kin bags,
 
 and a few other colors. An abundance of red earth oct-nrs iu several
 
@@ -14481,7 +14545,7 @@ deeper with age. The fluid
 is allowed to dry and when i-equired for nse is dissolved in water. It
 has then a semiviscid consistence and in this condititm is mixed with
 the various pigments. When a yellowish color is desired the Hsh-egg
-prepaj-ation is applie l alone. The albumen gives sufficient adhesive
+prepaj-ation is applie<l alone. The albumen gives sufficient adhesive
 quality to the paint and produce a
 ^rich glaze, giving a goiKl effect to
 f the otherwise dull colors.
@@ -14530,7 +14594,7 @@ for the lower part of the poles and is attac*hed to them by means of
 strings listened within. A second strip is made to go around the upper i)art of tlie poles, and is, of course, corresi)ondingly shorter. It is
 placed last so as to overlap the lower breadth and thus prevent rain
 and snow from blowing in. ,The door is usually made of one large skin
-or two smaller ones. It is tie l to the poles at the upper comers and
+or two smaller ones. It is tie<l to the poles at the upper comers and
 at the lower has a small log of wood as a weight to prevent it from
 flapping. The poles at the apex are not covered and through them the
 smoke from the fire built in the center within ascends and finds exit.
@@ -14656,7 +14720,7 @@ These vessela are identical ii
 
 shape and ftiuction with tiio-so y.^. ii5.-wood«. b-okw. n««««.
 
-manafocture l by the Yukon river Indians of Alanka.
+manafocture<l by the Yukon river Indians of Alanka.
 
 They also use berry-dishea or battketa like Fig. 116 made from the
 
@@ -14701,7 +14765,7 @@ long or baskt^t- shaped, mado of the skins of
 
 deer legs. The Jug skins are sci-aped and i-i'i- m— Birr.hi»rkb«Bkrt.Neiienot,
 
-worke l to a ino lerate degree? of pliability an i their cdget* sewed together
+worke<l to a ino<lerate degree? of pliability an<i their cdget* sewed together
 
 until a sullicient number have been joined to make the bag of the reriri. ll«.— nirclilMTk liuk
 
@@ -14719,7 +14783,7 @@ grow to sufficient size along the banks of the streams, are bent to form
 a hemispherical or dome-shaped structure, which is covered with tent
 skins. A sandy locality is selected or one free from snow in winter,
 and a fierce fire is built. When it is well under way a number of stones
-are thrown into the fire to he at. When the heat is sufficient the fire is
+are thrown into the fire to he<at. When the heat is sufficient the fire is
 removed and the structure is quickly erected over the hot stones and
 some one from the outside fastens down the edges of the tenting with
 stones to prevent the loss of heat. A kettle of water previously placed
@@ -14808,7 +14872,7 @@ stiip of root sewed
 over and around it
 by ineatiR of a finer
 
-strand. These biiskets serve a goo l pmiKise when the women are picking berries, of which they are inordinately
+strand. These biiskets serve a goo<l pmiKise when the women are picking berries, of which they are inordinately
 
 fond; and during that season it is a rarity
 
@@ -14833,7 +14897,7 @@ long or basket- shaped, made of the skins of
 
 deer legs. The leg skins are scraped and Km. ii7-Binihi)«rkb»Bkrt,NMioiiDt.
 
-worked to a mo lerate degree of pliability and t lieir edges sfswed together
+worked to a mo<lerate degree of pliability and t lieir edges sfswed together
 
 until a snilicient number have been joined to make the bag of the reare no regular hoarH for partaking of their meals, as each x>erson eats
 when convenient. The food is taken directly from the i>ot or kettle,
@@ -14961,7 +15025,7 @@ long or baskt^t- shaped, made of tlie skins of
 
 deer legs. The leg skins are scraped and fmiiT.-BirchiBrkbMket.Nnienot,
 
-worke l to a moderate degree of pliability and their e^lgo.-* sewed together
+worke<l to a moderate degree of pliability and their e^lgo.-* sewed together
 
 until a suHivicBt number have been joined to make the bag of there-
 
@@ -15090,7 +15154,7 @@ and other small articles. |
 
 Largo objeete are carried in bags, either
 
-long or basket' shape l, made of the skins of
+long or basket' shape<l, made of the skins of
 
 deer legs. The leg skins are scraped and Fm. ii7.—Birohbarkbuket,N<]Deiiirt.
 
@@ -15231,7 +15295,7 @@ Large objects are carried in bugs, either
 
 long or buskot- shaped, mtulc of the skins of
 
-deer leg.s. The leg skins iire Hcrape l and Fm. nT.-BirehbarkbMkrt, nmbiioi,
+deer leg.s. The leg skins iire Hcrape<l and Fm. nT.-BirehbarkbMkrt, nmbiioi,
 
 worked to a moderate degree of pliability urid tlieir edges sewed together
 
@@ -15286,11 +15350,11 @@ Piu. Isa^Wovdeu »iK>
 Flo. lai^Woodi
 
 
-at the station it is not aattsmt) for several to c nitribute a niimlier of
+at the station it is not aattsmt) for several to c<nitribute a niimlier of
 plugs of tobacco and a gallon of inola»seH. Tliemt are boiled together
 and then water in added to the miztare. This villaiuouH c4impotind is
 druuk until a state of stuitvf'action endues. The muddled creature
-under tLe influence of that li iuor seems like an idiot. The eS'ecit is
+under tLe influence of that li<iuor seems like an idiot. The eS'ecit is
 terrible and does not wear away for several days. The pipes used for
 smoking are made of stone obtained fironi river iiebbles, usually a fiuegrained compact sandstone. The color of this stone varies from a dark
 reddish brown nearly the color >
@@ -15360,7 +15424,7 @@ ftwpicut^ that the barrel mast be emptied of its coutents in order to
 avoid the constant beggings for it.
 
 
-All tlie Indians of this regi m use birch-bark canoes, of the pattern
+All tlie Indians of this regi<m use birch-bark canoes, of the pattern
 shown in the figure (PI. xxxix, from a photograph; the collection also
 contains six woollen ntodels of these canoes). The style of canoe used
 by the Little Wliale river Indians of the eastern side of JIndson bay
@@ -15427,7 +15491,7 @@ the traders'), mixed with seal oil to render it less easily broken. This
 mixture is while hot laid upon the dry surface with a small paddle.
 
 After the gum has seaM)ned for a day or so the canoe is put upon the
-water and teste l for its speed and seaworthiness. All leaks and needed
+water and teste<l for its speed and seaworthiness. All leaks and needed
 
 repairs are inunediately attended to, and it is at length
 ready for use.
@@ -15501,7 +15565,7 @@ to, for applying the gum and grease
 to the seams of tbe canoe, has the
 shape of a flattened s^mon with
 rounded bowl (Fig. 125). The gum
-is heat !d, and while hot is poured
+is heat<!d, and while hot is poured
 along the seams and pressed into
 the interstices of the stitcher with
 the paddle. When a patch is to be
@@ -15522,7 +15586,7 @@ to repair an ajiparontly alarming hole.
 -ToboKitmii
 
 
-For carrying loa lB over the snow all the ludiaus of this region use
+For carrying loa<lB over the snow all the ludiaus of this region use
 large tttetis (Figs. 12(i, 127) culli'd ti'i-bas-kHn, which is a wore] equivalent to tlie well known name "toboggan." Tbcne Hled», as nmid among
 the Indians under considenition, differ very grt'atly in size acconling to
 the nse for wliich they are desigiiwl.
@@ -15541,7 +15605,7 @@ length is rarely more than
 13 feet. The front end is
 steamed or heated in a kettle
 L of hot water until the boards
-|be omi> flexible The ends
+|be‹omi› flexible The ends
 I are turned np to the desired
 I curve and then bent over at
 7 the end, «here they are held
@@ -15579,7 +15643,7 @@ and connected with the side lines are two long stout thongs of twisted
 Hkin, often 25 feet long. Those are used a.s traces, by which the sled is
 dragged. The shape of the bottom, is often fashioned after all the remainder of the work has been done. The width of the nose is rarely
 more than 9 inches; at the first bar it is about 14 inches and as much
-as 18 inches between the first an l second bars. From the widest part
+as 18 inches between the first an<l second bars. From the widest part
 to the heel it gradually narrows to a width of 5 to 7 inches.
 
 Two boards are used, as one of sufficient width could not be obtained
@@ -15605,16 +15669,16 @@ along. When the men return
 
 to the station t.. trade they F,a.i2»-K««i»otB«,w.ho*.iEgK.i«.
 
-alone  lrag it. A small dog is
+alone <lrag it. A small dog is
 
 sometimes hitehed lo it by a thong, but an the animal is ao small and
-light, it affords but little assistiuice. Tlie aiiinnU, however, would certainly wander oil' in s !areli of game along the track, aud by being
+light, it affords but little assistiuice. Tlie aiiinnU, however, would certainly wander oil' in s<!areli of game along the track, aud by being
 hitched to the sled is kejit within bounds.
 
 All the household eficcts, consisting of tent, cooking ut^nisils, clothing, and other iirtich-s are placed on the sled when the i>eopIe are
 changing camp.
 
-Tlie Nencnot iire skilletl in the manufacture and u. te of snowshoes,
+Tlie Nencnot iire skilletl in the manufacture and u.<te of snowshoes,
 of which four styles are used, viz: The "swallow-tail," "beaver tail,"
 "round end," and '-single-bar" (Figs. ili«, iLlt). The frame is of wood,
 nearly an inch wide and half an inch thick, usually in two pieceji, joined
@@ -15864,12 +15928,12 @@ tightly together. The length varies from 10 to 20 feet, and at the
 end is a loop funned by turning the strands back and splitdng them.
 Throngh the hmp the other end is passed, and the nooae is made.
 
-When a herd of  k'er is discovered in a favorable locality the people
+When a herd of <k'er is discovered in a favorable locality the people
 of the vicinity areintormedand hasty preparations are made.
 
 The effort is to cause the deer to pass through a nai-row defile containing Imshcs, The snares are then placed in position by tying the
 free end of the line to a suitable tree and suspending the noose where
-the hea lN or antlers will become entangled. Some are placed so that
+the hea<lN or antlers will become entangled. Some are placed so that
 when the foot is lifted the uoosc is carried along and tightens on it.
 
 
@@ -16057,7 +16121,7 @@ tail is usually appended to the comb-case.
 The imtivtw HometimeH make wuodeii combH like the one Kbown in Fig.
 14fi, ill imitation of tboxe purcliaxed.
 
-Aft«r A woman'H liair has been combed half of it is collected  m eacb
+Aft«r A woman'H liair has been combed half of it is collected <m eacb
 side of the head and rolled
 or wooDd up on small
 pieces of board (Fig. 147)
@@ -16165,7 +16229,7 @@ ress for some time. Around the interior of the structure groups of men
 were idly dis)>osed, some reclining and others standing. Not a word
 was spoken for some time, and this gave me opportunity to look around.
 The floor was covered with boughs from the neighboring spruce trees,
-an*ange l with unusual care, forming a soft carpeting for those seated
+an*ange<l with unusual care, forming a soft carpeting for those seated
 within. I saw a number of piles of deerskins and several small heaps
 covered with cloth. To break the silence I inquired if the drum was
 tired. A smile greeted the inquiry. Immediately an old man came
@@ -16185,23 +16249,23 @@ their own bowls and saucers to eat from or else appropr.ated those
 available. Not to be at a loss, one of the young men remarked that he
 would And one. From among the accumulated filth around one of the
 center iM)les supporting the structure a bowl was produced. The man
-coolly t M)k the handkerchief which was tied around his forehead to
+coolly t<M)k the handkerchief which was tied around his forehead to
 kee]) his matted hair from his face and wiped out the interior of the
 
 
 TUWffR.l FESTIVALS AND GAMES. 323
 
-bowl, and placing a piece of the pemmican within it, hande l it to the
+bowl, and placing a piece of the pemmican within it, hande<l it to the
 attendant whose duty it was to offer it to me.
 
 I, however, found it quite inedible. Other guests constantly arrived
 and some departed, made happy by their share of this compound of
 rancid tallow and marrow with a due admixture of pounded dry meat
-of the reindeer. I soon departed, and attempte l to take the remnant
+of the reindeer. I soon departed, and attempte<l to take the remnant
 of the pemmican with me. This was instantly forbidden, and information given me that by so doing I should cause all the deer to desert the
 vicinity, and thus make the i)eople starve. 1 explained that such was
 not my desire, and after wishing continued prosperity and enjoyment,
-I made my way out. I was then informed that the feast would c mtinue for a time, and wind up with an invitation to the women, who
+I made my way out. I was then informed that the feast would c<mtinue for a time, and wind up with an invitation to the women, who
 had hitherto been excluded, to come and eat the remnants left by the
 men. At the end of two days thereafter the feast concluded and a
 dance took place. In this performance there was nothing remarkable.
@@ -16318,7 +16382,7 @@ described ; or else, as if to
 add to the din, a gun-cap
 I box is pierced through from
 I side to side and a few peb-
-[ bles or shot pla !ed within.
+[ bles or shot pla<!ed within.
 A stick is tbeii inserted in
 the hole through the box
 and the whole covered with
@@ -16365,7 +16429,7 @@ in entertaining the children, who sit, with staring eyes and open mouth,
 in the arms of their parents or elders.
 
 The following stories came to me directly and not through the
-medium of another white person, an l probably I am the only white
+medium of another white person, an<l probably I am the only white
 person who has heard some of them. I have endeavored to give them
 as nearly in the form of the original as the differences between the
 English and the Indian languages will ])ermit.
@@ -16373,7 +16437,7 @@ English and the Indian languages will ])ermit.
 Story of the icolrerene and the brant, — A wolverene calling all tbe birds
 together addressed them thus: ^^Do you not know that I am your
 brother! Oime to me and I will dress you in feathers.'^ After having
-dressed them up he ma le wings for himself and said: ^'Now, brothers,
+dressed them up he ma<le wings for himself and said: ^'Now, brothers,
 let us fly.^ The brant told tbe wolverene, " You must not look below
 while we are flying over the ]x>int of land when you hear a noise
 below. Take a turn when we take a turn."
@@ -16381,12 +16445,12 @@ below. Take a turn when we take a turn."
 The first turn they t4)ok the wolverene did not l(H)k l>elow, but at the
 second turn they took, when they came over the point of land, the
 animal looked beh>w when he heard the noise of the shouting Indians
-and down he came like a bun lle of rags.'
+and down he came like a bun<lle of rags.'
 
-All the Indians ran up to him an l exclaimed '^There is a brant fallen
+All the Indians ran up to him an<l exclaimed '^There is a brant fallen
 down.'^ One of the old Indian women got hold of him and began to
 pluck his feathers off, then \o disembowel him. She of course smelled
-the honible stench an l cx(;lainied, <^This goose is not tit to eiit as it is
+the honible stench an<l cx(;lainied, <^This goose is not tit to eiit as it is
 already n)tten ! '' She gave the carcass to one of the children to throw
 away. Another old woman came np and inquired, *• Where did you
 throw the brant g(M)se t4)? How could it be rotten f It is not long
@@ -16399,14 +16463,14 @@ in the water a short distance off. The wolverene addressing them said,
 **Come here, brothers. I have found a pretty bees' nest. I will give it
 to you if you will come on shore and have a dance.'' All the birds
 went on land. The wolverene said, '*Let us have a dance and I will
-sing. Shut your eyes an l do not open them until we aredcme dancing.
+sing. Shut your eyes an<l do not open them until we aredcme dancing.
 He began to sing, '*A-ho'u-mu-hou-iiiu'-nni'-hfim'." The last word was
 
 
 ■When the IndiaDn p<'ro«ive a flcwk of thcM* Urant tbry luttko a loud clamor, which fri^htenn the
 Uzda to much that they loHt) their nenHi'M. fall to thi* urounii ami nw. thiiH killed. Th<^se birda are
 OiAf teen iu the npiiiig migratioiin ami then in i^rcat niiiltitiidcrt, while lu the fall it is rare to see eveu
-A tbi^ individual, aH they have a  lifferuut n^tum rout4* than in spring.
+A tbi^ individual, aH they have a <lifferuut n^tum rout4* than in spring.
 
 
 POLKLORK.
@@ -16428,7 +16492,7 @@ Englisli and the Indian languages will )>ermit.
 Story of the icolrerene and the brant. — A wolverene calling all the birds
 together addressed them thus: <^Do you not know that I am your
 brother! Come to me and I will dress yon in feathers.'^ After having
-dressed them up he ma le wings for himself and said: ^'Now, brothers,
+dressed them up he ma<le wings for himself and said: ^'Now, brothers,
 let us fly.^ The brant tohl the wolverene, " You must not look below
 whOe we are flying over the i>oint of land when you hear a noise
 below. Take a turn when we take a turn."
@@ -16436,21 +16500,21 @@ below. Take a turn when we take a turn."
 The first turn they took the wolverene did not look l>elow, but at the
 second turn they t(H>k, when they came over the iK)int of land, the
 animal looked below when he heard the noise of the shouting Indians
-and down he came like a bun Ue of rags.^
+and down he came like a bun<Ue of rags.^
 
-All the Indians ran up to him an l exclaimed '^There is a brant fallen
+All the Indians ran up to him an<l exclaimed '^There is a brant fallen
 down." One of the old Indian women got hold of him and began to
-pluck his feathers off, then to  lisembowel him. She of course smelled
-the horrible stench and exclaiine l, ^^This goose is not tit to eat as it is
+pluck his feathers off, then to <lisembowel him. She of course smelled
+the horrible stench and exclaiine<l, ^^This goose is not tit to eat as it is
 already n>tten ! "' She gave the carcass to one of the children to throw
-away. Another old w mnui <*anie up and inquired, ^- Where did you
+away. Another old w<mnui <*anie up and inquired, ^- Where did you
 throw the brant g(K>se to f How c^mld it be rotten! It is not long
 since it was killed." The former old \voman replied to her, ^'Go and
-see, if you do not believe." She went an l fcuind nothing but the dead
+see, if you do not believe." She went an<l fcuind nothing but the dead
 wolverene.
 
 Story of the itolvemw. — A wolverene was running along the seashore and perceived a number of geese, brant, ducks, and loons sitting
-in the water a short distance off. The wolverene iuldressing them sai l,
+in the water a short distance off. The wolverene iuldressing them sai<l,
 **Come here, brothers. I have found a pretty bees' nest. I will give it
 to you if you will come on shore and have a dance." All the birds
 went on land. The wolverene said, '*Let us have a dance and I will
@@ -16458,7 +16522,7 @@ sing. Shut your eyes and do not open them until we are done dancing.
 He began to sing, '*A-ho'u-mu-h(m-niu'-niu'-hftm'." The last word was
 
 
->Wfa ni the Indiann ptTceivc a fl(M>k of tbeHe hrant tbcy tiinki' n loud oluiuor. which friKht«iiH the
+>Wfa‹ni the Indiann ptTceivc a fl(M›k of tbeHe hrant tbcy tiinki' n loud oluiuor. which friKht«iiH the
 bixils ao much that they lone thoir Hennon, fall to the uroinid and nre thiiM killed. These birds are
 mAf teen in the spring; mi/^atioua and then in great iiiultitiidert, while in the fall it is rare to see even
 A tin^ Individual, as they have a different return route than in spring.
@@ -16471,7 +16535,7 @@ FOLKI^RR.
 
 
 During the long winter nightn or daring the periods of cold or inclement weather in which the Indiana may not ventare oat, they sit
-aroand the fire an l relate stories intended for the instm(*tion as well
+aroand the fire an<l relate stories intended for the instm(*tion as well
 as entertainment of the yonnger i>eoi)le. The older men have a great
 stock of these stories, and many of the women are noti^ for their ability
 in entertaining the children, who sit, with staring eyes and open mouth,
@@ -16486,7 +16550,7 @@ English and the Indian languages will iiermit.
 Story of the tcolterene and the brant, — A wolverene calling all the birds
 together addressed them thus: ^'Do you not know that I am your
 brother t Come to me and I will dress yon in feathers." After having
-dressed them up he ma le wings for himself and said: '^Now, brothers,
+dressed them up he ma<le wings for himself and said: '^Now, brothers,
 let us fly.^ The brant told the wolverene, " You must not look below
 while we are flying over the i>oint of land when you hear a noise
 below. Take a turn when we take a turn."
@@ -16499,16 +16563,16 @@ and down he came like a bundle of rags.*
 All the Indians nin up to him and exclaimed '^There is a brant fallen
 down." One of the old Indian women got hold of him and began to
 pluck his feathers off, then to disemb<»wel him. She of course smelted
-the horrible stench an l exclainie l, ^'This goose is not tit to eat as it is
+the horrible stench an<l exclainie<l, ^'This goose is not tit to eat as it is
 already rotten ! " She gave the carcass to one of the children to throw
 away. Another old woman ranie up and impiired, ^* Where did you
 throw the brant goos<? to! llow crmld it be rotten! It is not long
-since it was kille l." The former old woman replied to her, ^'Go and
-see, if you do not believe." She went an l found nothing but the dead
+since it was kille<l." The former old woman replied to her, ^'Go and
+see, if you do not believe." She went an<l found nothing but the dead
 wolverene.
 
 Story of the icolverme. — A wolverene was running along the seashore and i)erceived a number of geese, brant, ducks, and loons sitting
-in the water a short  listan(*e otl*. The wolverene luldressing them said,
+in the water a short <listan(*e otl*. The wolverene luldressing them said,
 •*Come here, brothers. I have found a pretty bees' nest. I will give it
 to you if you will come on shore and have a dance." All the birds
 went on land. The w<>lverene said, ''Let us have a dance and I will
@@ -16533,7 +16597,7 @@ stock of these stories, and many of the women are noted for their ability
 in entertaining the children, who sit, with staring eyes and open mouth,
 in the arms of their parents or elders.
 
-The following stories  rame to me directly and not through the
+The following stories <rame to me directly and not through the
 medium of another white person, and probably 1 am the only white
 person who has heard some of them. I have endeavored to give them
 as nearly in the form of the original as the differences between the
@@ -16542,7 +16606,7 @@ English and the Indian languages will })ermit.
 Story of the itolrerene and the brant. — A w^olverene calling all the birds
 together addressed them thus: ^'Do you not know that I am your
 brother! Come to me and I will di*ess you in feathers.^' Aftor having
-dressed them up he ma le wings for himself and said: '^Now, brothers,
+dressed them up he ma<le wings for himself and said: '^Now, brothers,
 let us fly.^ The brant told the wolverene, " You must not look below
 while we are flying over the i>oint of land w^hen you hear a noise
 below. Take a turn when we take a turn."
@@ -16554,13 +16618,13 @@ and down he came like a bundle of rags.*
 
 All the Indians ran up to him and exclaimed '^There is a brant fallen
 down.'' Que of the old Indian women got hold of him and began to
-pluck his fe^ithers off, then to  lisenibowel him. She of course smelled
-the horrible stench and exclainie l, '^This goose is not fit to eat as it is
+pluck his fe^ithers off, then to <lisenibowel him. She of course smelled
+the horrible stench and exclainie<l, '^This goose is not fit to eat as it is
 already rotten ! " She gave the carcass to one of the children to throw
 away. Another old woman came up and impii red, ^' Where did you
 throw the brant goose to? How crmld it be rotten? It is not long
-since it was kille l." The former old woman replied to her, ''Go and
-see, if you do not believe.*^ She went an l found nothing but the dead
+since it was kille<l." The former old woman replied to her, ''Go and
+see, if you do not believe.*^ She went an<l found nothing but the dead
 wolverene.
 
 Story of the itolverenv, — A wolverene was running along the seashore and perceived a number of geese, brant, ducks, and loons sitting
@@ -16600,19 +16664,19 @@ English and the Indian languages will })ermit.
 Story of the wolverene and the Want. — A wolverene calling all the birds
 together addressed them thus: ''Do you not know that I am your
 brother! Come to me and I will dress you in feathers." After having
-dressed them up he ma le wings for himself and said: ''Now, brothers,
+dressed them up he ma<le wings for himself and said: ''Now, brothers,
 let us fly.^ The brant told the wolverene, " You must not look below
 while we are flying over the i>oint of land when you hear a noise
 below. Take a turn when we take a turn."
 
-The first turn they t K)k the wolverene did not l(K)k Mow, but at the
+The first turn they t<K)k the wolverene did not l(K)k Mow, but at the
 second turn they t(K)k, when they came over the point of land, the
 animal looked below when he heard the noise of the shouting Indians
 and down he came like a bundle of rags.*
 
-All the Indians ran up to him an l exclaimcnl '^There is a brant fallen
+All the Indians ran up to him an<l exclaimcnl '^There is a brant fallen
 down.'' One of the old Indian women got hold of him and began to
-pluck his feathers off, then to  lisembowel him. She of course smelled
+pluck his feathers off, then to <lisembowel him. She of course smelled
 the horrible stench and exclaimed, "This goose is not fit to Ciit as it is
 already rotten ! " She gave the carcass to one of the children to throw
 away. Another old woman <'anie up and inquired, ''Where did you
@@ -16621,7 +16685,7 @@ since it was killed."' The former old woman replied to her, "Go and
 see, if you do not believe.'' She went and found nothing but the dead
 wolverene.
 
-Story of the icolrerem'. — A wolverene was running along the seashore and ])erceived a number of geese, brant, ducks, an l loons sitting
+Story of the icolrerem'. — A wolverene was running along the seashore and ])erceived a number of geese, brant, ducks, an<l loons sitting
 in the water a short distam*e of!'. The wolverene addressing them saicl,
 ''Come here, brothers. I have found a pretty bees' nest. I will give it
 to you if you will come on shore and have a dance." All the birds
@@ -16667,7 +16731,7 @@ English and the Indian languages will (lermit.
 Story of the wolverene and the brant, — A wolverene calling all the birds
 together addressed them thus: ^'Do you not know that I am your
 brother! Come to me aind I will dress you in feathers.^ Aftor having
-dressed them up he ma lc wings for himself and said: ^^Now, brothers,
+dressed them up he ma<lc wings for himself and said: ^^Now, brothers,
 let us fly.^ The brant told the wolverene, " You must not look beh)w
 while we are flying over the i>oint of land when you hear a iioise
 below. Take a turn when we take a turn."
@@ -16685,11 +16749,11 @@ already rotten ! " She gave the carcass to one of the children to throw
 away. Another old wtmian came up and inquired, "Where did you
 throw the brant goose to ! llow could it be rotten! It is not long
 since it was killeii." The former old woman replied to her, "Go and
-see, if you do not believe." She went an l found nothing but the dead
+see, if you do not believe." She went an<l found nothing but the dead
 wolverene.
 
 Story of the wolverene, — A wolverene was running along the seashore and perceived a number of geese, brant, ducks, and loons sitting
-in the water a short distance off. The wolverene a ldressing them said,
+in the water a short distance off. The wolverene a<ldressing them said,
 "Come here, brothers. I have found a pretty bees' nest. I will give it
 to you if you will come on shore and have a dance." All the birds
 went on land. The wolverene said, "Let us have a dance and I will
@@ -16707,10 +16771,10 @@ ft single individual, oa they have a different return route than in apring.
 |iifi^ off the heads of the birds) that the loon opened one eye and saw
 the hi*^4lleMK ducks kicking. The loon ran to the water and exclaimed,
 •♦Our brother has killed us! " The wolverene ran after the loon but the
-IrKMi dived under the water and came up a distance off andcrie l out,
+IrKMi dived under the water and came up a distance off andcrie<l out,
 **A ho ho ho ho ho ho!" The wolverene screamed, "Hold your tongue,
 yiiii red-eyed fowl." The wolverene returned to where the ducks had
-tHfen kille l; plucked their feathers off and cleaned them; put them
+tHfen kille<l; plucked their feathers off and cleaned them; put them
 into a large kettle and boiled them.
 
 While attending to the cooking he saw a whisky-jack (Us' ka tcon)
@@ -16841,7 +16905,7 @@ before the otter returned. Soon after, however, the otter came back to
 the hole with a long string of fish which he had killed and had them
 all strung on the line. He left the string of fish in the hole in the ice
 with one end of it fastened to the ice. The otter rolled himself in the
-snow t<) remove the wat^r fn)m his fur, an l then went to the tent to tell
+snow t<) remove the wat^r fn)m his fur, an<l then went to the tent to tell
 his wife to go and get the fish which he had left in the hole in the ice.
 
 
@@ -16931,7 +16995,7 @@ her on the head.
 They becauie frightened and ran away.
 
 A wolverene deMroyn hin sister. — A wolverene having wandered far,
-for several days without f M>d, suddenly (*.ame upon a bear. The former,
+for several days without f‹M›d, suddenly (*.ame upon a bear. The former,
 feeling very hungry, conceived the plan of destroying his larger prey
 by stratagem. The wolverene cautiously approached the bear and exclaimed: "Is that you, sister!" The bear turned around and saw the
 wolverene, but in a low tone, which the wolverene did not hear, said to
@@ -16982,7 +17046,7 @@ breakfast thf oiler and \\\i
 «.f tht'tn. After thi
 5pni"g «l>*p the ilviT
 mwltiier He liad killfl
-lUff lUid returoiid  i
+lUff lUid returoiid <i
 tin- otlci', *t> when
 WAfOT'di'or did yon I;
 I IMUd| ^ addii
@@ -17337,7 +17401,7 @@ outside of the tent, and went in. He told the old woman to clean the
 fish and that he would go across the river to the Indians'* tent and get
 the fire with which to cook them. The old woman was speechless at
 such proi)osed rashness, but as he had been able to catch so many fish
-she refrained remarking on his contemplat ed project of obtaining fire in
+she refrained remarking on his contemplat<ed project of obtaining fire in
 the fac^ of such danger. While the old woman was cleaning the fish he
 went back after the net which he had put out to dry on the shore of the
 lake.
@@ -17403,7 +17467,7 @@ Three nights after their return to their people a great many beavers
 were killed and u large kettle full of de»h was boiled for food. The
 people pressed the runaway brother to eat of the flesh of the beavers.
 He informed them that if it was the flesh of a female beaver he would
-not eat it. They told him that the flesh of the male beavers w;vs all finishe l long ago. They forced him to eat a large piece of meat, and when
+not eat it. They told him that the flesh of the male beavers w;vs all finishe<l long ago. They forced him to eat a large piece of meat, and when
 he had swallowed it they gave htm mure of it. The second niece was
 no sooner down his throat than a large river gushed fi-om his side.
 The Inilian jumped into the river, while the rest ran awaj in terror
@@ -17580,7 +17644,7 @@ not tell you it would change into bark if you put the meat in that
 place!" The wolverene hung his head and answered, "Yes," and
 again laid down to sleep. By the time he awakened the wolves had a
 second kettle of meat cooked. They desired the wolverene to arise
-and eat his bre akfast. The leader told him to hasten with his meal, as
+and eat his bre<akfast. The leader told him to hasten with his meal, as
 he had discovered some fresh deer tracks. The wolverene thought he
 would watch how they broke camp and see where they put the tentings. He went off a few st^ps and while his back was turned the tent
 disappeared and he failed to discover where it was secreted. The fhuimals then started off, the young ones taking the lead while the four
@@ -17729,7 +17793,7 @@ flap, said : " I want to come in." He went in and the old man addressed
 the boy by his own name, saying : " What do you want, U' sets kwa n6 po !"
 in such a kindly voice that the boy ^It assured. The boy said: "I
 am very hungry and want some food." The old man inquired in an
-ast mished voice: "Hungry! and your meat falling down from the
+ast<mished voice: "Hungry! and your meat falling down from the
 stage !" The old man bade the boy sit down, while he went out to the
 stage and selected some choice portions and brought them into the tent
 and gave them to the boy. The old man then asked the boy if he had
@@ -17738,7 +17802,7 @@ a sister. The boy said that he had a father, mother, and one sister.
 
 350 THE HUDSON HAY ESKIMO.
 
-After the boy had finished eating, the okl man directe l the boy to
+After the boy had finished eating, the okl man directe<l the boy to
 come with him and see the meat stages. They went out and the old
 man said: "Now, go home and tell your father that all of this food will
 belong to you if he will give me his daughter.^ The little boy went
@@ -17855,7 +17919,7 @@ The Ponka sun dance of 1873 378
 
 The moon a wakanda 378
 
-Ber laches 378
+Ber<laches 378
 
 Stars as wakandas 379
 
@@ -17877,7 +17941,7 @@ Ictasanda custom 383
 
 K.'insa worship of the thunder-being 385
 
-Snbt MT:nie;ni and Bubaquatic wakandas 386
+Snbt<MT:nie;ni and Bubaquatic wakandas 386
 
 The ind.Miiifiga 386
 
@@ -18426,7 +18490,7 @@ Fio. 156. George Miller's personal mystery decoration 894
 
 160. Robeof 0aqube 396
 
-161. Robeofc{ahe-!^ap e 897
+161. Robeofc{ahe-!^ap<e 897
 
 162. Generic decoration referring to night, etc 897
 
@@ -18736,12 +18800,12 @@ u, as 00 in tool.
 ft, as 00 in foot.
 
 
-*i iji' lultfOtA'iiiir ii«iv^ t)ii*  f iiiuarv JbhoriMlb •uniid^ : L. d. L. k. I. lu. li.
+*i iji' lultfOtA'iiiir ii«iv^ t)ii* <f<iiiuarv JbhoriMlb •uniid^ : L. d. L. k. I. lu. li.
 
-'j^i**; %'i^^if: 'n. •*-.. 'L -V. -u. aii i tiMUY iuudJli«:tfiaBU^ Kre «rriecl inmkCr
+'j^i**; %'i^^if: 'n. •*-.. 'L -V. -u. aii<i tiMUY iuudJli«:tfiaBU^ Kre «rriecl inmkCr
 
 4:tMie ^hj uutuii ^xv^^f^i' TirtjH^ V4.nii'«l^ «ttXi not litr ckDtfd -lirBBEiii&."
-^^ iM> a«»yii4fttHHi if iu»iHd v'xtl aifv uf tii^ttti: liur «uj tiier be f^^oi  tf
+^^ iM> a«»yii4fttHHi if iu»iHd v'xtl aifv uf tii^ttti: liur «uj tiier be f^^oi <tf
 
 M^iOKLr, Jiu-y i4i>^ kjiki0^.u iiiMiXkO by tJb^ «utbur not inDj m tbe Skttiai
 
@@ -18756,7 +18820,7 @@ ALLEGED BELIEF IN A GREAT SPIRIT.
 
 § 4. It has been asserted for several hundred years that the North
 American Indian was a believer in one Great Spirit prior to the coming of the white race to this continent, and that, as he was a monothe-
-ist, it was an easy matter to c mvert him to Christianity. Indians have
+ist, it was an easy matter to c<mvert him to Christianity. Indians have
 been represented as speaking of '^The Great Spirit,^ '*The Master of
 Life,'' etc., as if the idea of the one and only God was familiar to our
 aborigines during the pre-Columbian period.
@@ -18774,7 +18838,7 @@ learned by experience that it is safer to let the Indian tell his own
 story in his own words than to endeavor to question him in such a
 manner as to reveal what answers are desired or expected.
 
-§ 5. In 1883 the author publislie l an article on '*The Beligion of the
+§ 5. In 1883 the author publislie<l an article on '*The Beligion of the
 Omahas and Ponkas," in The American Antiquarian of Chicago.
 Since then he has obtained additional data, furnishing him with many
 undesigned coincidences, which lead him to a broader view of the subject.
@@ -18797,7 +18861,7 @@ with the consideration of the subject.
 
 TEBMS FOR *^ IfYSTEBIOUS,^ " LIGHTNi:*G," ETC.
 
-§ 7. The attention of the aathor having been calle l to the article on
+§ 7. The attention of the aathor having been calle<l to the article on
 "Serpent Symbolism" of the Iroqnoian languages, by Mr. Hewitt' of
 the Bureaa of Ethnology, a similar investigation of the Siooan terms
 was made, the results of which are now presented. In connection with
@@ -18909,7 +18973,7 @@ the Indian is indicated in that part of the ceremony where the <^ Something that
 addresses the wakan man as fsither. The wakan man replies, calling
 the god, child, at the same time invoking the supernatural protection
 and care for the boy, as he lays at the teet of the messenger of Unseen Power the offerings of gifts and the honor of the feast. The per-
-sonal name' among Indians, therefore, indicates the protecting presence of a deity, an l must, therefore, partake of the ceremonial charac-
+sonal name' among Indians, therefore, indicates the protecting presence of a deity, an<l must, therefore, partake of the ceremonial charac-
 ter of the Indian's religion.''
 
 In this ceremony the sui)erhuman being is addressed by the term
@@ -19271,7 +19335,7 @@ abridgment of the same. Harpers, N. Y., vol. i, 1842, p. 303.
 
 
 to perform the ceremony of smoking, which is cousidered necessary to their success.
-He lights his pipe, and remains a short time with his head incline l, and the stem
+He lights his pipe, and remains a short time with his head incline<l, and the stem
 of the pipe extended toward the herd. He then smokeS; and puffs the smoke toward
 the bisons, and the earth, and finally to the cardinal points successively.
 
@@ -19712,7 +19776,7 @@ seen danger hacco gave to
 
 them
 
-t^. Ga"' nini' uji' wa'i'i t^'di e'gifa°'i te:  p^fu waqpa'^i"-
+t^. Ga"' nini' uji' wa'i'i t^'di e'gifa°'i te: <p^fu waqpa'^i"-
 
 the (past and tobacco pnt in they gave when they said to the Here very
 
@@ -19762,7 +19826,7 @@ Agudi'ct^ nikaci"'ga am& i^a'e'f^ anid Icta'sanda
 
 In some places person the pi. sub. those who have visions, etc. Ictasanda
 
-(not spocifie l.)
+(not spocifie<l.)
 
 6cka" e:^ai' t€ e'ga" ga'xai. Waa"' ^'qti ga'xai da"'ct^
 
@@ -19835,7 +19899,7 @@ down, towards the clouds.
 388, 9-10. Nikaci"ga wedajl ama, etc. Other gent«s of Omaha fear to mention
 
 these lotasanda names, or to bestow them on members of their gentes.
-88841' Agudict t . . i^a'ecS ama, etc. Refers to the Ifigifan i^a'e^d ama, or
+88841' Agudict<t . . i^a'ecS ama, etc. Refers to the Ifigifan i^a'e^d ama, or
 
 the Thunder shamans, of the other Omaha gentes.
 
@@ -19902,7 +19966,7 @@ should be killed by the Thunder-being. One of the three songs about
 the sacred pipe, sung when the wrappings are taken from the i>ipe
 (See §86) by Ali°kawahu is as follows :
 
-^ Hah<4! tc(5-ga-nii ha-h4!
+^<Hah<4! tc(5-ga-nii ha-h4!
 Ha-hd! tce-ga-nd ha-hd!
 Ha-hd ! tce-ga-n(i ha-ha !
 Hii-hu' ! "
@@ -19997,7 +20061,7 @@ else the Indaf iuga will catch you ! " Joseph La Fleche had heard it
 
 •
 
-the Ponka for wearing a mask is ^'Ind^finga giixe," or ^ to act the
+the Ponka for wearing a mask is ^'Ind^finga giixe," or ^<to act the
 Indd^iuga," it may be that this character was an aboriginal bogy.
 Compare the Dakota Oa^otidaQ, HoHuogi^a, nijgna^6ala, etc. (§ 232.)
 Omaha mothers ased to scare their children by telling them that if
@@ -20049,7 +20113,7 @@ Person first medicine you knew you who
 
 (sit).
 
-d^jehide cka°z6 nifikfi'cfi, nini gakS' !  p^f u ed4da° cka"z6 g6
+d^jehide cka°z6 nifikfi'cfi, nini gakS' ! <p^f u ed4da° cka"z6 g6
 
 medicine yon yon who tobacco that Here what you taught the
 
@@ -20091,7 +20155,7 @@ inob.
 
 Hail, j^jehide, nini gak6' ! *A°'qti ctecte wanita wi" uh6 ea°'^
 
-Ho, Medicine, tobacco that! No matter how it qiiadrape l one pass me on the
+Ho, Medicine, tobacco that! No matter how it qiiadrape<l one pass me on the
 
 Ig. ob. is (or At any road (to the
 
@@ -20205,9 +20269,9 @@ acquire something or other by means of it ! Here is tobacco ! ^
 When he addressed the beavers, he said. Ho, ye Beavers ! Here is
 tobacco! Let all of you travel in your feeding places which you have
 made. Here is tobacco !" To the beaver medicine itself, he said, " Ho,
-Medicine! Here is tobacco! Stand thinking thus,  At any rate
+Medicine! Here is tobacco! Stand thinking thus, <At any rate
 an animal shall surely pass me and be caught in the trap, and its nostrils shall be large enough to smell me.'" The trap itself was thus ad-
-dresse l: "Ho, ye pieces of iron! Here is tobacco! Sit ye and think
+dresse<l: "Ho, ye pieces of iron! Here is tobacco! Sit ye and think
 thus: 'At any rate I will kill one!'" To the pack-strap was said, "Ho,
 pack-strap! Here is tobacco! Think thou, 'At any rate I shall press
 against many quadrupeds.'" The right side of the entrance to the tent
@@ -20250,7 +20314,7 @@ ma"fi"'i-ga. A"'ba fa'bfi" du'ba ja"' 3[I, wa^&ta-bajii-ga, kl ni
 
 walk ye. Day three four Bl<>ep if, do not eat (pi.). ^nd water
 
-fata"'-bajii-ga.  tiqu'bajl cte'ctT^wa", ca"' Wakan'da ak^ ufi'iia"
+fata"'-bajii-ga. <tiqu'bajl cte'ctT^wa", ca"' Wakan'da ak^ ufi'iia"
 
 do not drink (pi.) You are not even if, still Wakanda the Hub. he will
 
@@ -20289,7 +20353,7 @@ MYSTIC TREES AND PLANTS.
 
 § 42. The Omaha have two sacred treed, the ash and the cedar. The
 ash is connected with the beneficent natural i)Owers. Part of the sacred
-pole of the Omaha and Ponka is ina le of ash, the other part being of
+pole of the Omaha and Ponka is ina<le of ash, the other part being of
 Cottonwood. Tlie stems of the niuiba weawa", or "safcred pipes of
 
 
@@ -20303,11 +20367,11 @@ s Ibid. p. 319.
 
 HORSEY 1 MYSTIC TREES AND PLANTS. 391
 
-friendship," are ina le of ash. But the o^dar is linked with the destructive agencies, thunder, lightning, wars.'
+friendship," are ina<le of ash. But the o^dar is linked with the destructive agencies, thunder, lightning, wars.'
 
 When the seven old men took the i)ipes around the Omaha tribal circle,
 the bad Ma"^inka-gaxe peo])le wore phimes in their hair and wrapped
-branches of cedar around their hea ls, being awful to behold. ISo the
+branches of cedar around their hea<ls, being awful to behold. ISo the
 old man passed them by and gave the pipe to the other Ma"f iuka-gaxe,
 who were good. In the Osage traditions, cedar symbolizes the tree of
 life. When a woman is initiated int^) the secret society of the Osage,
@@ -20323,7 +20387,7 @@ the four winds. (See § 128.) The Teton Dakota believe in the efficacy
 of the smell of cedar wood or of the smoke from cedar in scaring away
 ghosts. (See § 272.) In the Athapascan creation myth of Oregon,
 obtained by the author in 1884, the smoke of cedar took the ]>]ace of food
-for the two gods who made the world, and the re l cedar is held sacred
+for the two gods who made the world, and the re<l cedar is held sacred
 as well as the ash, because these two trees were the first to be discovered by the gods.^
 
 That the Hidatsa have a similar notion about the red cedar is shown
@@ -20334,10 +20398,10 @@ with what is recorded above about the Omaha sacred pole.* (§ 344.)
 The cottonwood tree also seems to have been regarded as a mystic
 tree by tlie Omaha and Ponka, just as it is by the Hidatsa. The sacred
 pole of the two tribes was made from a tall cottonwood.* When the
-lower part  jf the sacred pole became worn away, about 8 feet remained,
+lower part <jf the sacred pole became worn away, about 8 feet remained,
 and to this was fastened a piece of ash wood about 18 inches long. In
 preparing for the dance called the llede watci, the lilke-sabS people
-sought a cottonwood tree, which they rushed on, felle l, and bore to the
+sought a cottonwood tree, which they rushed on, felle<l, and bore to the
 center of the tribal circle, wliere they planted it in the *^uje:ji.'' Mystic names taken from the cottonwood are found in the (/^ixida and Nika-
 daona, the two war gentes of the Ponka tribe, and in the (/^atada and
 ]a[a°ze gentes of the Omaha.^
@@ -20542,9 +20606,9 @@ When a person saw the Thuuder-beiug or Rome other mystery object, he kept the ma
 the firHt war party that went from his camp or village. When the
 party reached the land of the enemy or got into some troable the man
 told of his dream or vision. Should the dreamer or seer kill or grasp
-a foe while a member of the expe lition he made a Thunder song. He
+a foe while a member of the expe<lition he made a Thunder song. He
 who bn>u(;ht back one of the enemy's horses also had the right to
-make a Thiin ler song. Some time having elajised after the return of
+make a Thiin<ler song. Some time having elajised after the return of
 the warriors, the seer painted the mystery objects on a robe or blanket,
 and prepared a (east, to which he invited all the members of the order
 
@@ -20635,7 +20699,7 @@ entrance and one in the rear. Ea«b robe that ho wore had seven
 stripes.
 
 Fig, 160 represents the personal mystery decoration of ^aqnbe of the
-^a"zc gens.  ieorge Miller's father could
+^a"zc gens. <ieorge Miller's father could
 wear this decoration, but the right to it
 couhl not be, transmitted by htm to any
 one else, jahe-iapti, of the -^eA" subgens of the (patada gens, once had a vis-
@@ -20649,7 +20713,7 @@ GE.NEKIC W>RMB OF DECOHATION:
 
 5 46, There are examples of generic
 forms of decoration, as well as those of C.
-specific forms. Fur instance, when a person had a vision of the night, or of the ^"^ i82-o™««« fl«™ti m rer«Tb>g to
+specific forms. Fur instance, when a person had a vision of the night, or of the ^"^ i82-o™««« fl«™ti‹m rer«Tb›g to
 Tbunder-being, or one of some other superterrestrial object, he blackeued the apper part of his tent and a
 small portion on each side of the eutrauce, as shown in Fig. 162.
 
@@ -20660,7 +20724,7 @@ It was giveD thus by George Miller:
 
 Niaci'ga ani& Agudi ct$ lia°' da'"ctS i^a'e^^ am^ ^f ugfi"'! ^I,
 
-Peopls Ihe wbcre evnr nigbt fbr (mainiile Ihvy bavs tbe t«D( (he r If
+Peopls Ihe wbcre evnr nigbt fbr (mainiile Ihvy bavs tbe t«D( (he<r If
 
 
 wiMdta° sAbefaf, kf ci &gud\ etc nikaci''ga am& ingfa"' i^'ef^ atn&
@@ -20885,7 +20949,7 @@ U EXa 26
 
 402 A STUDY ur SlUUAN CULTS.
 
-wliicb is Boine-tiiiies cjilleil, sabf)."' "1^'uli amA tiii"' iM' Oga"
+wliicb is Boine-tiiiies cjilleil, sabf)."' "1^'uli amA tiii"'<iM' Oga"
 
 Hiarmbur llii' pi. Bill.. iktIihii. ho
 
@@ -20903,7 +20967,7 @@ decortite thoir teuts in voiiseiiueiice of their reBi>t>ctive visions, their
 sons (who succeed them) utunally imitate them (nr dwell in the decorated tents), even when they themselves have not IijmI visions of the ob-
 ects. Therefore ho (i. e.. Standing Hawk) did so."
 
-George Miller toI l the following abont jede-gahi or Fire  Jbief,
+George Miller toI<l the following abont jede-gahi or Fire <Jbief,
 another son of xe-sa":
 
 CI ^ga" j^le-gJihi aka ug^i^'i Wina"'be, Watn"'zihi iji wa3n'"be
@@ -21034,7 +21098,7 @@ decoration adopted by the father of Two Crows, who was not only one
 
 mrsstO other OMABA HY8TEBY DECORATIONS. 405
 
-of the tvo leaders of the order of Thunder shamans (lugfa" i^ efe-nia)
+of the tvo leaders of the order of Thunder shamans (lugfa" i^<efe-nia)
 bat also a member of the orders of Buffalo and Grizzly Bear ahamaiis
 {jfi i^a'efS-ma and Ma''tcu ifa'ef€-ma). (See PI. slit, d, in which a
 grizzly bear is depicted as emergiDg from his den. The blue part represents the ground.)
@@ -21092,14 +21156,14 @@ times. It is very probable, jud)jring from the stars on the teuts, that
 the owners of the second and third Kaiisa tents had liad visions. The
 Kaiisa say that wlien a man lias danced the jtipe dance twice, his tent
 can be dccorateci with two <'iinistalk« nt the front (one on each side of
-the entrance), and two more at the back. The pi)>oa nse l in the cahimetor idite dance are regarded as "Wakandajafica"" by tlie Omaha
+the entrance), and two more at the back. The pi)>oa nse<l in the cahimetor idite dance are regarded as "Wakandajafica"" by tlie Omaha
 
 
-Fw. 181— lla u-guhe'
+Fw. 181— lla<u-guhe'
 
 
 and Ponka, and the inference is that the Kausa and Osage had a similar belief abimt these pipes and the accompnnying dance. Perhajis
-there was a time wlien no man c^nhl nudertake tbe pipe  lanfe unless
+there was a time wlien no man c^nhl nudertake tbe pipe <lanfe unless
 he had a vision of some kind.
 
 
@@ -21218,7 +21282,7 @@ ealonnt that la It Thoqgh pipe the Ig. that chief by they make people
 
 ob. afoTwald meanauf It them««]v««
 
-am& &ta iti g&xai niniba waqfibe. Xlaci^'ga am& pf^jl'qti ctt^cU'wa'",
+am& &ta<iti g&xai niniba waqfibe. Xlaci^'ga am& pf^jl'qti ctt^cU'wa'",
 
 Ibepl. eicceed- make It pipe aacred People the pi. vary bad noLwlthataadlDg
 
@@ -21351,7 +21415,7 @@ you go aheiid (or, live hereafter) ! ^ '
 of the Tcihaci" or Ka"ze gens to interpose, as fliey are Wind people.
 "j)y[i'tcigu-e', ha"'ba ya'li kft"'bla cyan'. Cin'gajin'ga yi'ta
 
-Ojinmndratlior,  la> good I deniro inde«^d. Child your
+Ojinmndratlior, ‹la› good I deniro inde«^d. Child your
 
 kik'ii'"yakiyo' tee au'^ a'be an'.'- i. o., "They say, *(> grandfather (said
 
@@ -21574,7 +21638,7 @@ governmental instmmeiitalities, they are " waqube** mysterious tliioga,
 
 
 and on certain occasions they are addressed as " grandfathers." There
-U8e l to be five of these bags among the Omaha, but only three are now
+U8e<l to be five of these bags among the Omaha, but only three are now
 in existence. Those which could be carried in time of war were miide
 of the skins and feathers of the gfeda" or x)igeon hawk, the i"be-jauka
 or fork-tailed hawk, and the nickucku or swallow.*
@@ -21592,7 +21656,7 @@ weapons."*
 That there was some foundation for this statement, compare what is
 said in Omaha Sociology, p. 321 :
 
-''When the i>rincipal captains wish to open their s icred bags, they assemble their
+''When the i>rincipal captains wish to open their s<icred bags, they assemble their
 followers in a circle, making them sit down. Any of the followers or servants may
 be ordered to make an *'uje^i" in the center of the circle by pulling up the grass,
 then making a hole in the ground (the " U-ma-ne of Miss Fletcher'). Then the sacred
@@ -21695,7 +21759,7 @@ the present Big Elk, one of the captains, named Gi*a"habi, had a war
 club of the kind called " weaqfade." He made this club " waqube," in
 order to use it mysteriously. When near the camp of the enemy he
 brandished the club four times toward the Pawnees. This was fol-*
-lowed by the use of the sacred bag, as relate l in § 59.
+lowed by the use of the sacred bag, as relate<l in § 59.
 
 It is probable that the medicines of the Wat<5i Wa^upi, Wase-jide
 afi'^-ma, and the ja^i"-wasab(^ watcigaxe ikagekifS, of the Omaha,* the
@@ -22565,7 +22629,7 @@ Lynd says:
 painting them in various ways and putting sacred down upon them, will fall down
 in worship before them, praying that all danger may be averted from him and his.
 It nmst not be understood, however, that the Dakota is an idolater. It is not the
-image that he worships, * ♦ * but the spiritual essence which is represente l by
+image that he worships, * ♦ * but the spiritual essence which is represente<l by
 that image, and which is supposed to Ue ever near it.^ *
 
 ' Lyml, Miun*. Hist. So*-. Coll.. Vol. ii, pt. 2, pp. 72, 76, 77.
@@ -22626,7 +22690,7 @@ gens, and the Wakandagi of the Omaha and Ponka, see §§7,77).
 'Lyml, Minn. Hist. Soc. Coll., vol. ii. pt. 2. p. 80.
 ^RiggH, in Am. Autiq., vol. ii, p. 266.
 
-'KigK«. Tab-koo Wah-kon, p. 62. S m« Mii7:n or Iron iiuiiii's of Iiiiliai).s in the anthor s forthcoming
+'KigK«. Tab-koo Wah-kon, p. 62. S<m« Mii7:n or Iron iiuiiii's of Iiiiliai).s in the anthor s forthcoming
 monograph on Indian Pcrrtonal Name.s.
 'Rigga, in Am. Autiq.. vol. Ii, p. 267.
 
@@ -22645,7 +22709,7 @@ any of the food of the IXnkteUi, she was recovered after an offering of
 four white dogs.^
 
 Smet tells of offerings made by the Assinibointo "the water" and
-* the land," but it is probable that they were made to the Unktelii.*
+*<the land," but it is probable that they were made to the Unktelii.*
 
 § 110. The Dakota pray to lakes and rivers, according to Riggs,^ but
 he does not say whether the visible objects were worshii>ed or whether
@@ -22734,7 +22798,7 @@ said to be horned water monsters with four legs each. "They make
 
 >Pond, Minn. Hiat. Sck-. Coll, vol. ii, pp. 35-38.
 
-*Lyn l, Ibid., pt. 2, pp. 71-77. Kiggfl, in Amer. Philolog. Assoc. Proc, 1872., p. 6.
+*Lyn<l, Ibid., pt. 2, pp. 71-77. Kiggfl, in Amer. Philolog. Assoc. Proc, 1872., p. 6.
 * A picture of '* Wah-Menitu, the spirit or god in the water,*' is given on p. 161 of Lloyd's transition of Maximilian, London, 1843.
 
 
@@ -22749,7 +22813,7 @@ Uijkcegilaf
 thing in the Missouri River. At night there was some red object, shining like fire, making the water roar as it passed upstream. Should any
 one see the monster by daylight he became crazy soon after, writhing
 as with pain, and dying. One man who said that he saw the monster
- lescribed it thus: ' It has red hair all over, and one eye. A horn is in
+<lescribed it thus: ' It has red hair all over, and one eye. A horn is in
 the middle of its forehead, and its body resembles that of a buffalo.'*
 Its backbone is like a cross-cut saw, being flat and uotclied like a
 saw or cog wheel. When one sees it he gets bewildered, and his eyes
@@ -23082,10 +23146,10 @@ Anthropological Society of Washington, entitled "The Stone God or
 quotation from Daa Itnoh Henoch, edited by Dilhnann, Kai>. 17,18: "And I saw tho cornerstone of
 the earth and the four winds which boar up tho earth, and the tinnaiiieut of heaven."
 
-*Note that both the TakiiAkanrtkai). the "Something that Moves." and the Wakiijyai) or the Thnnder-beinffs. are fiS80ciate l with war.— J. o. D.
+*Note that both the TakiiAkanrtkai). the "Something that Moves." and the Wakiijyai) or the Thnnder-beinffs. are fiS80ciate<l with war.— J. o. D.
 
-'^ Rept. Pcabo ly MiiHeum, Vol. in. ]i. 289. and note 1. The use of the number twelve in connection with
-the ceremony of the Four WindH finds a counterpart in the Osa^rc initiation of a female into the secret bociety of the tribe: the Osa^e female is rubbe l from head to foot, thrice in front, thrice on each
+'^ Rept. Pcabo<ly MiiHeum, Vol. in. ]i. 289. and note 1. The use of the number twelve in connection with
+the ceremony of the Four WindH finds a counterpart in the Osa^rc initiation of a female into the secret bociety of the tribe: the Osa^e female is rubbe<l from head to foot, thrice in front, thrice on each
 side, and thrice behind, witli cedar needles.— J. O. D.
 
 *Miun. Hist. Soc. Coll., Vol. ii. pt. 3, p. 44. «
@@ -23118,7 +23182,7 @@ they told the stone of their loss and the stone helped them. It is said that the
 brought back different messages. If anyone stole horses the stones always revealed
 his name. Once the Omahas came to steal horses, but the stones knew about theQi
 and disappointed their secret plans; so that the Lakotas learned to prize the stones,
-and they decorated them with paint, wrappe l them up, and hung a bunch of medicine with each one.
+and they decorated them with paint, wrappe<l them up, and hung a bunch of medicine with each one.
 
 It is very probable that the Assiniboin also worshipped the Taku-
 6kaiji§kai}; for they reverenced the four winds, as Smet tells us.^
@@ -23731,7 +23795,7 @@ Soo., in 3d. Ann. Bopt. Rur. Ethn., p. 2ffr.
 *See § 28, the Kansa ceremony of the wa(n>elt* gaxe, and Om. Soe.. in 3d An. Kept. Bur. Ethn., pp.
 234,297.
 
- Contr. N. A. Ethn., vol. yi, 470, 12-15; and Om. Soc., p. 296.
+<Contr. N. A. Ethn., vol. yi, 470, 12-15; and Om. Soc., p. 296.
 
 
 FKLLING THK TREE.
@@ -23827,7 +23891,7 @@ an indistinct sound; they rest awhile and pull it a little higher, shouting agai
 higher still. They shout the third time, rest again, and at the fourth
 pull the pole is perpendicular. Then the men around the camping circle fire guns, making the horses flee. Those who raised the pole have
 a new s])ade, and they use it one after another in throwing a sufficient
- iuantity of earth around the base of the pole, pressing the earth down
+<iuantity of earth around the base of the pole, pressing the earth down
 firmly in order to steady the pole.
 
 
@@ -24144,7 +24208,7 @@ return to their respective homes.
 § 193 All who participate in the dance must act according to rule for if
 one slights part of the rites they think that he is in great danger.
 The men selected as overseers or managers are the persons who act as
-the attendants of the c andidates.
+the attendants of the c<andidates.
 
 The candidates think that all their devotions are pleasing to the sun.
 As they dance, they pray mentally, " Please pity me ! Bring to i)ass all
@@ -24518,7 +24582,7 @@ who had dreamed of his death decorated the legs of his horse by moistening light
 manner he decorated the neck and back of the horse, and hemadesim-
 
 1 Comt>are the Ma'na'bi'dje sub-gens of the Eansa tribe, and part of the wind gens, as the ^a*se
-geuH of the Omaha, Kansa aud Osage may be a8sociate I with the Takuskaqfikai) of the Dakota.
+geuH of the Omaha, Kansa aud Osage may be a8sociate<I with the Takuskaqfikai) of the Dakota.
 •Minn. Hist. Soc. Coll., ▼ol. n, pt. 2, pp. 70, 71.
 
 
@@ -24530,7 +24594,7 @@ When the leaves opened out in the following spring, the first thundercloud was s
 I am to die ! " So he tied up his horse's tail in a rounded form, put a
 piece of scarlet blanket around the animal's neck, and spread a fine
 blanket over his back, as a saddlecloth, with the ends trailing along the
-ground. lie painte l himself and his horse just as he had been doing
+ground. lie painte<l himself and his horse just as he had been doing
 formerly, and, taking the pipe, he walked round and round at some distance from the camp, pointilig the pipestem towards the clouds as he
 sang the Heyoka songs. The following is given as a song of the human
 Heyoka man, but it is said to have been sung originally by the mysterious and superhuman Heyoka in the thundercloud :
@@ -24570,7 +24634,7 @@ of the people thought that they saw many stars, and there seemed to
 be the sound, "TuijH- !" in the ears of each person.
 
 When the storm had lasted a long time, the Thunder-beings were
-departing slowly, amid c m8iderable loud roaring. When it was all over
+departing slowly, amid c<m8iderable loud roaring. When it was all over
 the people ventured forth from their lodges. Behold, the man and his
 
 
@@ -25006,7 +25070,7 @@ he told her of his rescue.
 get the cubs. The mother came, barking, and she finally said to him,
 *• Pity my children ;" but he paid no attention to her. So she ran for
 her husband, who soon appeared. Still the man persevered. Then the
-wolf sang a beautiful song, **0 man, pity my children, and I will instruct you in one of n)y arts." He en led with a howl, causing a fog.
+wolf sang a beautiful song, **0 man, pity my children, and I will instruct you in one of n)y arts." He en<led with a howl, causing a fog.
 When the wolf howled again the fog disappeared. Then the man
 thought, " These animals have mysterious gift-s," and he tore up his red
 
@@ -25149,7 +25213,7 @@ natural. But the Indians have made it a great article of their superstition ; it
 called the Mountain of the Little People, or Little Spirits, and they believe that it
 is the abode of little devils in the human form, of about 18 inches high, and with
 remarkably large heads; they are armed with sharp arrows, with which they are
-very skillful, and are always on the watch to kill those who should have the hardihood to approach their residence. The tra lition is that many have suffered from
+very skillful, and are always on the watch to kill those who should have the hardihood to approach their residence. The tra<lition is that many have suffered from
 these little evil spirits, and, amcmg others, three Maha Indians fell a sacrifice to them
 a few years since. This has inspired all the neighboring nations, Sioax, Mahas, and
 Ottoes, with such terror that no consideration could t«mptthem to visit the hill.^
@@ -25425,7 +25489,7 @@ ghost feast they redden the sack containing the hair and hang the war
 bonnet of feathers on the three poles at right angles with the ghost sack.
 They wish to remember his deeds in war, so they also stick one end of
 his wai* spear in the ground, with its top leaning against the tops of the
-three poles. His shield is suspended from  me of the poles. The three
+three poles. His shield is suspended from <me of the poles. The three
 pipes on the shield in a colored sketch prepared by Bushotter denote that
 on so many exj)edition8 the deceased warrior carried a war pipe. The
 red stripes declare how many of the enemy were wounded by him, and
@@ -25957,7 +26021,7 @@ Order of the Mystery Dance, commonly called the medicine dance, are
 also reckoned among the mysterious or " wakai) ^ people (see §113).
 One of Bushotter's texts relates to this order. Another of his articles
 tells of the Miwatani okolakidiye kig or The Mandan Society, which
-used to be called Oaijte tiqza okolaki !*iye, or Society of the Stout
+used to be called Oaijte tiqza okolaki<!*iye, or Society of the Stout
 Hearted Ones. It is now known as Kaggi yuha, Keeps the Raven.
 For a notice of this order, see §§ 194, 195.
 
@@ -26351,7 +26415,7 @@ run round till they drop down exhausted, when they are taken to the medicine lod
 
 DOR8EY.1 CULT OF THE YONI. 505
 
-TLe medicine inau receives from one of the spectators the knife with which the operation is to he performed. The partisan is bound to build the me licine lodge.
+TLe medicine inau receives from one of the spectators the knife with which the operation is to he performed. The partisan is bound to build the me<licine lodge.
 
 During the ceremony the spectators eat and smoke; the candidates take nothing,
 and, like the partisans, are covered all over with white clay. The latter, when they
@@ -26472,7 +26536,7 @@ value, is considered as an offering to the Old Woman who Never Dies. The elderly
 women of the village, as representatives of that old woman, assemble about the scaffolds on a certain day, each carrying a stick, to one end of which an ear of com is
 fastened. Sitting in a circle, they plant their sticks in the ground before them, and
 then dance around the scaffolds. Some old men beat the drum and shake the gourd
-rattles. The corn is not wetted or aprinkle l, as many believe, but on the contrary,
+rattles. The corn is not wetted or aprinkle<l, as many believe, but on the contrary,
 it is supposed that such a practice would be injurious. While the old women are
 performing their part, the younger ones come and put some dry pulverized meat
 into their mouths, for which each young woman receives in return a grain of the consecrated corn, which she eats. Three or four grains of the consecrated com are put
@@ -26783,7 +26847,7 @@ blood to gush from her mouth at will."*
 GHOST LORK.
 
 § 338. The Mandan believe that each person has several spirits dwelling within him ; one of which is black, another brown, and a third light-
-colore l, the last alone returning to the Lord of Life. They think that
+colore<l, the last alone returning to the Lord of Life. They think that
 after death they go to the south, to several villages which are visited
 by the gods; that their existence there is dependent on their course of
 life while in this world j that the brave and kind-hearted carry on the
@@ -26839,7 +26903,7 @@ HIDATSA DIVINITIES.
 Life, Ehsicka-Wahaddish,2 literally, the first man, who dwells in the
 Eocky Mountains. He made all things. Another being whom they
 venerate is called the Grandmother. She roams over the earth. She
-h» l some share in creation, though an inferior one, for she created the
+h»<l some share in creation, though an inferior one, for she created the
 toad and the sand-rat. She gave the Hidatsa two kettles, which they
 still i>reserve as a sacred treasure and employ as charms or fetiches on
 certain occasions. She directed the ancestors of the present Indians to
@@ -26862,7 +26926,7 @@ to undertake some enterprise they sacrifice to it and also to the moon.
 
 1 Catlin, ill Siuiths«miaii \W\A., 1885, pt. 1*. p. 372.
 
-*So calle l by Maxiiiialiun. ttamu as the Itsika-inahidiA of Matthewit.
+*So calle<l by Maxiiiialiun. ttamu as the Itsika-inahidiA of Matthewit.
 
 11 ETH 33
 
@@ -26994,7 +27058,7 @@ in § 329.
 § 350. Oracles. — Matthews speaks of another oracle, to which the Hidatsa now oft^n refer, the Makadist^iti, or house of infants, a cavern
 near Knife River, which they supposed extended far into the earth, but
 whose entrance was onl^* a span wide. It was resorted to by the childless husband or the barren wife. There are those among them who im-
-agine that in some way or other their children come from theMakadistati; and marks of contusion  m an infant, arising from tight swaddhug
+agine that in some way or other their children come from theMakadistati; and marks of contusion <m an infant, arising from tight swaddhug
 or other causes, are gravely attributed to kicks received from his former
 comrades when he was ejected from his subterranean home.'
 
@@ -27133,7 +27197,7 @@ say, between 35^ and 48^ N. lat. (4) Sun worship, the cult of the
 tribes south of 35^ N. lat., and extending to the Gulf of Mexico.
 (5) Elemental worship, which he defines as "the worship of rain, lightning, the god of war and death," found in Mexico and New Mexico.
 (G) Anthropomoiphism, a religion which gave human attributes to
-the divinities, but assigned to them supernatural i>owers. This i)revailed in Central Ameri ra.
+the divinities, but assigned to them supernatural i>owers. This i)revailed in Central Ameri<ra.
 
 
 iRev. S. I). Poet, on tho tradititm of aborigine-H of Nortli America, in Jour. Vict. Inst., Vol. XXI, pp.
@@ -27155,7 +27219,7 @@ was accepted by the author as the belief of his informants; but we must
 remember that the Omaha tribe has been in a transition state for many
 years, certainly since 1855, and possibly since the days of Maj. Long's
 visits to them. (2) That these Indians believed in a Great Spirit who
-was supreme over all other superhuman powers nee ls more evidence.
+was supreme over all other superhuman powers nee<ls more evidence.
 The only assertion of such a belief which the author has gained was obtained from an Omaha (see § 22), but this assertion was denied by two
 other members of that tribe. (3) In those cases alleged as proving a
 belief in one Great Spirit, a closer study of the language employed
@@ -27207,7 +27271,7 @@ V. Shnmanism, — Wliile there have been shamans and various orders
 of shamans among these tribes, no tra(^e of a worship of shamans as
 gods has yet been found. On one occasion the author met a Ponka
 shaman, Cramped Hand, who exclaimed, " I am a wakanda." But no
-other Ponka ever sai l that he or she worshiped Crami>ed Hand as a
+other Ponka ever sai‹l that he or she worshiped Crami›ed Hand as a
 wakanda.
 
 YI. Tlie other beliefs named by Dr. Peet have been found, in some
@@ -27362,7 +27426,7 @@ On the other hand, an Iowa man told Mr. Hamilton that the South
 
 'Set' v^ 33 wliere there is an account of the invocation of the winds at the consecration of the flreplaoei*.
 
-'The Omaha Buffalo Me licine Men, in Jour. Amer. Folklore, No. x. p. 219, and not«.
+'The Omaha Buffalo Me<licine Men, in Jour. Amer. Folklore, No. x. p. 219, and not«.
 
 'It in interesting to oh«erv«» in tliiM connection that the Director of the Bureau of Ethnology, in an
 addrehirik entitled "Outlim-H of the pliilusophy of the North American Indians." New York, 1877,
@@ -27450,7 +27514,7 @@ a ceremony as he startetl from the uorth, rei>eatiug it at each quarter,
 and ending with the east, as shown,.iu Fig. 198.
 
 
-Fin. IliT.— PB i(ks (Oiuiile) iiriLer ;f |i]ai-iug tbe FlQ. 108 — Kt'ur (Ouef ) onler of circiimuD-
+Fin. IliT.— PB<i(ks (Oiuiile) iiriLer ;f |i]ai-iug tbe FlQ. 108 — Kt'ur (Ouef ) onler of circiimuD-
 
 \ 371. Assuming that we have a correct grouping of tbe fonr elements in Fig. 194, it appears that Paha°le-gaqli and Ali'kawaha began
 with the quarters associated with war; that the Tsiau old man begait
@@ -27497,7 +27561,7 @@ hence they are painted red (§ 105).
 
 The late Dr. S. R. Kiggs informs us that —
 
-In tbu tiyotipi wore pl»ceil tlic Imndlcs of tlie bliuik aD l rcil Htickit of the soldiers. >
+In tbu tiyotipi wore pl»ceil tlic Imndlcs of tlie bliuik aD‹l rcil Htickit of the soldiers. ›
 
 ToivarJ the rear of ttio teut, hut near riiougli to the tire for convenient use, is a
 large pijw iilaced by the symlmls iif power. Tbeso are two biiudles of shaved dticks
@@ -27510,7 +27574,7 @@ they are given unt to the uieu. These aro to constitute the tlyotipi. • ■ �
 all the round shavvil sticks, some uf wbitdi were painted black and some pninteil
 red, four wore especially marked. Tbey are the four chiefs of the t.iyotliii that were
 
-§ 376. Black is assume l to bt' the symbolii- color for the TakuSkanfikan, the Wind-makers, whose servants are the four winds and the four
+§ 376. Black is assume<l to bt' the symbolii- color for the TakuSkanfikan, the Wind-makers, whose servants are the four winds and the four
 black spirits of night. Black as a war color is put on the face* of the
 warrior. The Santee Dakota consider the raven (a black bird) and a
 small black stone, less tlian a hen's egg in size, symbols of the ff>iir
@@ -27518,7 +27582,7 @@ winds or tiuarters. Among the Teton Dakota, the Takuskan^kaii
 symbols, are small pebbles of two kinds, one white, and, according to the
 description, transhu'ent; the other "resembles ordinary pebbles," probably in being opaque.
 
-§ 377. Yellow is assnme l to be the color symbolizing water, the west,
+§ 377. Yellow is assnme<l to be the color symbolizing water, the west,
 and the setting sun. The Dakota. Omaha, Ponka, and j^niwere tribes
 have been familiar for years with the color of the water in the Missouri
 river. In a Yankton Dakota legend* recoriled by the antbor it is said
@@ -27971,7 +28035,7 @@ part of the Tcexi^a gens of the Oto and Missouri tribes; and the
 Waka"tt;aril or Thunder-being subgens of the Winnebago.
 
 Four Thunder-beingfl were invoked by the Ictasauda gens (§35):
- pigfize-ma.^^i", (pia^ba-tig^e, (f ia^ba-gi-na", and Gaagig^eda". Was each
+<pigfize-ma.^^i", (pia^ba-tig^e, (f ia^ba-gi-na", and Gaagig^eda". Was each
 of these supposed to dwell at one of the four quartersl
 
 Among the Osage and Kansa tribes there is a geus known as the
@@ -28017,7 +28081,7 @@ Kansa; the Ka^se (also called the Wind and South Wind people), and
 perhaps the Haii^ia uta^an:^8e (Black eagle) gens of the Osage; the
 Pigeon and Buffalo gentes of the Iowa and Oto tribes; the Hawk and
 Momi (Small bird) subgentes of the Missouri tribe; the Eatgle and
-Pigeon, and perhaps the H awk subgens of the Winnebago Bird gens.
+Pigeon, and perhaps the H<awk subgens of the Winnebago Bird gens.
 
 EACH QUARTER RECKONED AS THREE.
 
@@ -28497,5 +28561,4 @@ any of them prove to bo erroneous the author's labor will not be in
 vain, for through the correction of his mistakes additional information
 will be collected, tending to the attainment of the truth, which should
 he tlic aim of all mankind.
-
 

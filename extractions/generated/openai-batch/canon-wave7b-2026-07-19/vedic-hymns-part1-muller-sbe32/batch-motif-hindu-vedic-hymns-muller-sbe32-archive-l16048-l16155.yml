@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l16048-l16155
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. I, 165. 183 / NOTES. 1, 165, I. 185 / NOTES. I, 165, I. 187 / NOTES.
+    I, 165, 3. 189; lines 16048-16155
+  start: '16048'
+  end: '16155'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Philological notes on Rig-veda I, 165 discuss an invocation to Indra at
+    a libation, the Maruts’ surprise at Indra going to battle alone, the meaning of
+    a title glossed as lord of heroes, the name Subhana for the Maruts, and the commentator’s
+    view that the poet depicts a quarrel between Indra and the Maruts followed by
+    reconciliation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The translated verse summons Indra to a libation and asks him to hear prayers;
+    it also says the sacrifice may put vigour in his body.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the Maruts express surprise at Indra going to battle alone and
+    without their assistance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The title sat-pati is glossed as lord of real men or heroes rather than as
+    good lord.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Subhana is interpreted as a name for the Maruts, who are said to speak of
+    themselves in the third person.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentator says Indra addresses the Maruts unceremoniously and that the
+    poet intended to represent a squabble between Indra and the Maruts followed by
+    reconciliation.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The commentary says rudeness, selfishness, and boastfulness are ascribed to
+    Indra in this representation.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: Deity summoned to the libation and prayers; described in the note as
+    going to battle alone and as one party in a quarrel with the Maruts.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Maruts
+  description: Divine collective said to be surprised at Indra’s solo battle; described
+    as Indra’s old friends and as speaking of themselves by the name Subhana.
+  role_refs:
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Unspecified ritual speakers
+  description: Speakers who call Indra to the libation and prayers in the translated
+    verse.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: invoked recipient of libation and prayers
+  assigned_to:
+  - fig:1
+  basis: Indra is directly summoned to the libation and asked to hear the prayers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: solo combatant
+  assigned_to:
+  - fig:1
+  basis: The note describes Indra as going to battle alone and without the Maruts’
+    assistance.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: bypassed companions or assistants
+  assigned_to:
+  - fig:2
+  basis: The Maruts are said to express surprise that Indra goes to battle without
+    their assistance.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: self-named divine collective
+  assigned_to:
+  - fig:2
+  basis: Subhana is explained as a name for the Maruts, who speak of themselves in
+    the third person.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: ritual supplicants
+  assigned_to:
+  - fig:3
+  basis: The speakers address Indra with a request connected to libation, prayers,
+    and sacrifice.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: quarreling parties later reconciled
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The commentary says the poet represents a squabble between Indra and the
+    Maruts, followed by reconciliation.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: libation and sacrifice
+  literal_form: A ritual libation, prayers, and sacrifice directed to Indra.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: battle without assistance
+  literal_form: The image of Indra going to battle alone while the Maruts’ assistance
+    is absent.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: quarrel followed by reconciliation
+  literal_form: A squabble between Indra and the Maruts that is said to be followed
+    by reconciliation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Indra summoned to the libation
+  summary: The speakers call Indra to their libation, ask him to hear their prayers,
+    and connect the sacrifice with strengthening his body.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Maruts question Indra’s solitary battle
+  summary: The note explains that the Maruts are surprised by Indra’s decision to
+    go to battle alone and without their help.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Divine squabble and reconciliation
+  summary: The commentary describes the poet as representing an unceremonious quarrel
+    between Indra and the Maruts, followed by reconciliation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ritual offering strengthens a deity
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The verse links libation, prayers, and sacrifice with putting vigour into
+    Indra’s body.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a translated hymn excerpt embedded in commentary; the broader
+    ritual context is not included here.
+- id: motif:2
+  label: Divine quarrel followed by reconciliation
+  taxonomy_refs: []
+  basis: The commentary explicitly says the poet represents a squabble between Indra
+    and the Maruts, followed by reconciliation.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is presented as the commentator’s interpretation of the poetic intention,
+    not as a full narrative in the quoted lines.
+- id: motif:3
+  label: Deity goes to battle without companions
+  taxonomy_refs: []
+  basis: The note says the Maruts are surprised at Indra’s going to battle alone and
+    without their assistance.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt gives the situation through philological commentary rather
+    than a complete battle narrative.
+comparison_claims:
+- id: claim:1
+  claim: The commentary explicitly compares the divine squabble between Indra and
+    the Maruts to a kind of quarrel familiar from village life, followed by reconciliation.
+  claim_level: same_function
+  target: human village-life quarrel-and-reconciliation pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the editor’s interpretive comparison within the notes; it does
+    not establish historical contact or a cross-cultural parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16050-16053
+  quote_or_summary: Indra is summoned to a libation; the speakers ask him to hear
+    their prayers and say that the sacrifice may put vigour in his body.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16074-16079
+  quote_or_summary: The note explains that the Maruts express surprise at Indra’s
+    going to battle alone and without their assistance.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16084-16087
+  quote_or_summary: Sat-pati is glossed as lord of real men or heroes, and the note
+    rejects translating it as good lord.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16101-16107
+  quote_or_summary: Subhana is explained as a name for the Maruts, who speak of themselves
+    in the third person.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 16111-16118
+  quote_or_summary: The commentary says Indra addresses the Maruts unceremoniously
+    and that the poet represents a squabble between them, familiar from village life,
+    followed by reconciliation; rudeness, selfishness, and boastfulness are ascribed
+    to Indra.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly commentary and philological explanation, so motif extraction
+    relies on the commentator’s summaries of the hymn rather than a continuous narrative
+    excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy references were applied only where directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l16048-l16155
+  passage_sha256=733e384621c471ce695cbdc3ba6027b9871b2d6822f747025e51361918c15d01
+

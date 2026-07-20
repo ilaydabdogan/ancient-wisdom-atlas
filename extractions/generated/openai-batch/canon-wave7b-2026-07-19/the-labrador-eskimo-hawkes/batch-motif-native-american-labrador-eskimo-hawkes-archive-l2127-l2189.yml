@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l2127-l2189
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: HUNTING  TERRITORIES. / CLIMATE. / SNOW. / THE  ESKIMO  YEAR.; lines 2127-2189
+  start: '2127'
+  end: '2189'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: divide the year into seasons corresponding to the appearance of game or other
+    natural conditions
+  summary: The passage describes Labrador Eskimo year divisions and regional month
+    names based on climate, game, and other seasonal natural signs, with distinct
+    east Labrador and Ungava sequences.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Labrador Eskimo divide the year into seasons corresponding to the appearance
+    of game or other natural conditions.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that these divisions do not exactly match European monthly
+    divisions and do not attempt to equalize the lunar and sidereal year.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: On the east Labrador coast, named months from December through June are associated
+    with ice formation, frost, cracked ground, young seals, and fawning.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: An informant reports that the east Labrador summer months were bunched into
+    one season because many kinds of game were available then.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ungava divisions distinguish the summer months, and the passage notes that
+    the young Ranger or Freshwater seal used in the east-coast June name is not found
+    in Ungava.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Ungava month names from June onward refer to eggs, mosquitoes, berries, fading
+    leaves and mosses, shore ice formation, and going inland for deer.
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Labrador Eskimo
+  description: The people whose yearly seasonal divisions are described in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: East Labrador coast calendar users
+  description: Regional group associated with the east Atlantic Labrador coast month
+    names.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Ungava calendar users
+  description: Regional group associated with the Ungava month divisions, including
+    summer divisions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Unnamed informant
+  description: The informant who says the summer months were bunched into one season.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: seasonal year dividers
+  assigned_to:
+  - fig:1
+  basis: The passage says the Labrador Eskimo divide the year by game and natural
+    conditions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: regional month-name users
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage lists month names for the east Labrador coast and for Ungava.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: informant
+  assigned_to:
+  - fig:4
+  basis: The passage attributes the statement about bunched summer months to an informant.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ecological seasonal calendar
+  literal_form: named divisions of the year governed by climate and game
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ice and frost signs
+  literal_form: ice-forming month, coldest frost month, ground cracked by frost, and
+    shore ice formation
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: young seals as month markers
+  literal_form: young Jar seal, young Bearded seal, and young Ranger or Freshwater
+    seal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: fawning and deer movement
+  literal_form: month of fawning and inland month for deer
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: Ungava summer abundance markers
+  literal_form: egg, mosquito, berry, and fading leaves and mosses
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: interior country
+  literal_form: the interior country where they go for deer
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Year divided by game and natural conditions
+  summary: The passage explains that the Labrador Eskimo divide the year according
+    to the appearance of game and climate or other natural conditions rather than
+    by exact monthly or astronomical equalization.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: East Labrador coast month sequence
+  summary: The east Labrador coast list names months from December through June by
+    ice, frost, young seals, and fawning, while summer is reported as a single bunched
+    season of abundant game.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ungava summer and autumn divisions
+  summary: Ungava month divisions from June onward are named for eggs, mosquitoes,
+    berries, fading vegetation, shore ice, and an inland deer-hunting period.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seasonal cycle named by ecological signs
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly organizes the year into seasonal divisions governed
+    by climate, game, and other natural signs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an ethnographic calendar passage, not a mythic narrative; the
+    motif candidate is a broad seasonal-cycle pattern.
+- id: motif:2
+  label: regional calendar adapted to local fauna and seasonal resources
+  taxonomy_refs: []
+  basis: East Labrador and Ungava divisions differ around summer, including the absence
+    of the Ranger or Freshwater seal in Ungava and Ungava names for eggs, mosquitoes,
+    berries, fading vegetation, shore ice, and inland deer travel.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a descriptive cultural pattern rather than a named mythological
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Labrador Eskimo, like related Eskimo groups elsewhere,
+    divide the year into seasons by game and natural conditions.
+  claim_level: same_function
+  target: Eskimo congeners in other sections
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no detailed month-name data for the other sections,
+    so the comparison is limited to the stated shared function.
+- id: claim:2
+  claim: The east Labrador coast and Ungava systems perform the same calendar function
+    but diverge in summer according to local ecological conditions.
+  claim_level: same_function
+  target: East Labrador coast and Ungava month-name systems
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The comparison is internal to this passage and does not establish historical
+    relationship beyond the listed regional variation.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2129-2136
+  quote_or_summary: The Labrador Eskimo “divide the year into seasons corresponding
+    to the appearance of game or other natural conditions”; the names are governed
+    by climate and game.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 2138-2146
+  quote_or_summary: On the east Labrador coast, December is an ice-forming month,
+    January the coldest frost month, and February the month of ground cracked by frost.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2147-2155
+  quote_or_summary: East-coast March through June are named for young Jar seal, young
+    Bearded seal, fawning, and young Ranger seal.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2157-2160
+  quote_or_summary: The informant says the summer months were bunched into one season
+    because there were many kinds of game then.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2162-2169
+  quote_or_summary: Ungava divisions distinguish the summer months; the months are
+    said to be the same as above until June, and the Ranger or Freshwater seal is
+    not found in Ungava.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 2173-2182
+  quote_or_summary: Ungava names June as egg-month, July as mosquito-month, August
+    as berry-month, and September as fading-month when leaves and mosses fade in colour.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 2184-2188
+  quote_or_summary: Ungava names a month when ice forms around the shore and an inland
+    month when people go into the interior for deer.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive ethnography with clear seasonal calendar data.
+    Motif mapping is limited to broad seasonal-cycle and ecological-calendar patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic narrative figures or supernatural events appear in this passage; extraction emphasizes calendar, symbols, and seasonal patterning.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l2127-l2189
+  passage_sha256=0b2361e0431b4c5ffbdc4b2518a6ef7bd058f5b9cffa478885a75b47788db073
+

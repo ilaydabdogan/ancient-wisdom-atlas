@@ -1,0 +1,138 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l26321-l26326
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION XXIII / SECTION XXIV / SECTION XXV / SECTION XXVI; lines 26321-26326
+  start: '26321'
+  end: '26326'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: He is the best of kings whose conduct, even after his death, is applauded
+    by the inhabitants of city and country and by his counsellors and friends.
+  summary: The passage states that the best king is one whose conduct is praised after
+    his death by inhabitants of city and country, counsellors, and friends. It ends
+    at the heading for Section XXVI.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage refers to a king whose conduct is applauded after his death.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The applauding groups are inhabitants of city and country, counsellors, and
+    friends.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage includes the statement that such a king is the best of kings.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The line range ends with the heading “SECTION XXVI.”
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: unnamed best king
+  description: A king described as best because his conduct is applauded after death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: inhabitants of city and country
+  description: A collective group said to applaud the king’s conduct after his death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: counsellors and friends
+  description: Associates said to applaud the king’s conduct after his death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: posthumously praised king
+  assigned_to:
+  - fig:1
+  basis: The king’s conduct is applauded after his death.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: posthumous praisers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: These groups are named as those who applaud the king’s conduct after death.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: definition of the best king
+  summary: A maxim states that the best king is one whose conduct is praised after
+    his death by subjects, counsellors, and friends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: posthumous validation of kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The king’s excellence is measured by approval of his conduct after death
+    by inhabitants, counsellors, and friends.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is brief and formulates an ethical maxim rather than narrating
+    a full legitimating episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 26321-26324
+  quote_or_summary: "“He is the best of kings whose conduct, even after his death,
+    is applauded by the inhabitants of city and country and by his counsellors and
+    friends.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: '26326'
+  quote_or_summary: "“SECTION XXVI”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short heading used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal content is short and clear. Motif classification is limited by
+    the passage’s brevity and lack of surrounding context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols or comparison claims were extracted from this short passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l26321-l26326
+  passage_sha256=47ea238c361bf5d4344b29668144bf95cb4c4fb3c1e4e8342d955ff105e38cd1
+

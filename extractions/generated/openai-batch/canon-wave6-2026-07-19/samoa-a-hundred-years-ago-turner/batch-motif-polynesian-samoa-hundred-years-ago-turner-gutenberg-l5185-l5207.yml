@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.polynesian-samoa-hundred-years-ago-turner-gutenberg-l5185-l5207
+source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+passage_locator:
+  label: THE HEAVENS, AND THE HEAVENLY BODIES. / JANUARY. / FEBRUARY. / MARCH.; lines
+    5185-5207
+  start: '5185'
+  end: '5207'
+  translation: Samoa, A Hundred Years Ago And Long Before
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists Samoan names and explanations for February and March.
+    February is associated with renewed digging of the yam crop, digging up winds
+    to raise storms, and worship of small household gods. March is associated with
+    withering vegetation, a god named Taafanua whose name means roaming or walking
+    about the land, and worship of household gods asked to bless the family with strength
+    in quarrels and battle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: February is called Toe utu va, glossed as “digging again,” and the name is
+    connected with the yam crop.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A second explanation for February describes the further digging up of winds
+    in order to raise storms.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: February is also called Aitu iti, or small gods, because inferior household
+    gods were worshipped in that month.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: March is called Faaafu, glossed as “withering,” because the yam vine and other
+    plants wither and become coloured “like the shells.”
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: March is also called Taafanua, meaning roam or walk about the land, and this
+    is the name of a god worshipped in that month.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: March is also called Aitu iti, or small gods, because household gods were
+    worshipped and implored to bless the family for the year with strength to overcome
+    in quarrels and battle.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: inferior household gods / small gods
+  description: Household deities called Aitu iti, or small gods, worshipped in February
+    and March.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: Taafanua
+  description: A god whose name is also used for March and glossed as roam or walk
+    about the land.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: family
+  description: The family for whom blessing was requested from the household gods
+    in March.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: household deities worshipped in named months
+  assigned_to:
+  - fig:1
+  basis: The passage states that Aitu iti, or small gods, refers to inferior household
+    gods worshipped in February and household gods worshipped in March.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: month-associated god
+  assigned_to:
+  - fig:2
+  basis: Taafanua is described as the name of a god worshipped in March.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: beneficiary of divine blessing request
+  assigned_to:
+  - fig:3
+  basis: The household gods were implored to bless the family for the year.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: yam crop and yam vine
+  literal_form: Yam crop in February; yam vine withering in March.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: winds and storms
+  literal_form: Winds dug up to raise storms.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: withering plants
+  literal_form: Yam vine and other plants withering and becoming coloured like shells.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: land-roaming name
+  literal_form: Taafanua, glossed as roam or walk about the land.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: household gods invoked for strength
+  literal_form: Household gods worshipped and asked to bless the family with strength
+    for quarrels and battle.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: February names and rites
+  summary: February receives names connected with the yam crop, the raising of storms
+    by digging up winds, and worship of inferior household gods.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: March names and rites
+  summary: March receives names connected with withering vegetation, the god Taafanua,
+    and household gods asked to bless the family with strength for the year.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal agricultural and ritual cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage organizes month names around crop stages, weather activity, and
+    recurring monthly worship of gods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is calendrical and ethnographic; it does not narrate a mythic
+    plot, so the motif is a broad pattern rather than a story episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5185-5188
+  quote_or_summary: February was called Toe utu va, or “digging again,” named from
+    the yam crop.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 5190-5191
+  quote_or_summary: The name is also explained as “the further digging up of the winds
+    to raise storms.”
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 5193-5195
+  quote_or_summary: Aitu iti, or small gods, is another February name, from worship
+    of inferior household gods in that month.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 5197-5200
+  quote_or_summary: March was called Faaafu, or “withering,” from the withering of
+    the yam vine and other plants.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 5202-5204
+  quote_or_summary: Taafanua is another March name, meaning roam or walk about the
+    land, and is the name of a god worshipped in that month.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 5206-5207
+  quote_or_summary: March is also called Aitu iti from household gods worshipped and
+    implored to bless the family with strength in quarrels and battle.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal calendrical details are explicit. The seasonal-cycle motif is well
+    supported, but broader mythological interpretation is limited because the passage
+    is descriptive rather than narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were applied because the available symbol list does not include yam, winds, storms, shells, household gods, or land-roaming.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:polynesian-samoa-hundred-years-ago-turner-gutenberg__l5185-l5207
+  passage_sha256=b3828d6a50f51b0676610025e7e45ea7f776059bf64769768a2d7e9d9ceca69f
+

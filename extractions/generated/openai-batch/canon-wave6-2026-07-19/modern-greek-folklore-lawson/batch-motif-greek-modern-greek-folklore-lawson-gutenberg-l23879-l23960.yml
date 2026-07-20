@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.greek-modern-greek-folklore-lawson-gutenberg-l23879-l23960
+source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+passage_locator:
+  label: 'THE BENEFIT OF DISSOLUTION. / FOOTNOTES: / CHAPTER VII. / THE UNION OF GODS
+    AND MEN.; lines 23879-23960'
+  start: '23879'
+  end: '23960'
+  translation: 'Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“to die was but to marry into Hades’ house”"
+  summary: The passage argues that ancient and modern Greek wedding and funeral customs
+    show a close ritual resemblance. It surveys ablution, water-bearing, anointing,
+    and white ceremonial dress as rites shared by marriage and burial, especially
+    in relation to the unmarried dead.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that death and marriage were closely associated in ancient
+    Greek literature, modern Greek folk-songs, and custom.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before a Greek wedding, both bride and bridegroom are described as required
+    to bathe, often in water fetched from a holy spring, sacred well, or fountain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A funeral ablution is described as an ancient and modern Greek rite in which
+    the dead body is washed or moistened, sometimes with wine instead of water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The bridal bath water was traditionally fetched by a closely related boy or
+    girl called a λουτροφόρος; in the modern custom described, the bearer is a boy
+    whose parents are both living.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: For those who died unmarried, the passage reports an ancient custom of fetching
+    water and setting up over the tomb a figure of a boy with a pitcher.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After washing, the next rites named for both marriage and burial are anointing
+    and arraying.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Cosmetics and perfumes are described for weddings and funerals, and white
+    dress is described as a customary color for both marriage and burial.
+  category: attribute
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: bride
+  description: Wedding participant who undergoes bathing, anointing, and arraying
+    before marriage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: bridegroom
+  description: Wedding participant who undergoes bathing, anointing, and arraying
+    before marriage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: dead person or dead body
+  description: Burial subject who is washed or moistened, anointed, and dressed for
+    burial.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: unmarried dead
+  description: Those who died unwed and for whom water-bearing and tomb-marker customs
+    are described.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: λoυτροφόρος / water-bearer
+  description: Bearer of bath water in wedding ritual; also represented in ancient
+    funerary custom as a boy with a pitcher over the tomb of an unmarried dead person.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: wedding participant undergoing ritual preparation
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Bride and bridegroom are said to bathe before the wedding and to be arrayed
+    with cosmetics and dress.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:2
+  label: burial subject undergoing ritual preparation
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The dead are described as washed or moistened, anointed, and dressed for
+    burial.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:3
+  label: unwed deceased receiving wedding-associated funerary rites
+  assigned_to:
+  - fig:4
+  basis: The passage reports water-bearing for those who died unmarried and interprets
+    the rite in relation to marriage-like death customs.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: ritual water-bearer
+  assigned_to:
+  - fig:5
+  basis: The λουτροφόρος fetches water for the bridal bath and appears in funerary
+    custom for the unmarried dead.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: ablution water
+  literal_form: Water fetched from holy springs, sacred wells, or fountains for bridal
+    bathing; water or wine used in washing or moistening the dead.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: water-bearer with pitcher
+  literal_form: A figure of a boy with a pitcher set up over the tomb of an unmarried
+    dead person.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Hades’ house or nuptial-chamber
+  literal_form: The passage’s image of dying as marrying into Hades’ house and being
+    laid in Hades’ nuptial-chamber.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: white ceremonial dress
+  literal_form: White dress, described as customary or correct for both marriage and
+    burial.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: perfumes and anointing materials
+  literal_form: Cosmetics at weddings and perfumes or lecythi for anointing the dead.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Comparative framing of death and marriage
+  summary: The passage frames Greek marriage and funeral customs as closely resembling
+    one another and states that this resemblance reflects an idea of death as marriage
+    into Hades’ house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ablution before wedding and burial
+  summary: Bride and bridegroom bathe before marriage with specially fetched sacred
+    water, while the dead are washed or moistened before burial.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Water-bearer rite for the unmarried dead
+  summary: The passage describes an ancient funerary custom in which water was fetched
+    for the unmarried dead and a boy-with-pitcher figure was set over the tomb.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Anointing and arraying for marriage and burial
+  summary: After ablution, both marriage and burial include anointing and clothing;
+    the passage notes cosmetics, perfumes, and white ceremonial dress.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Death as marriage into Hades’ house
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage explicitly states the belief that dying was like marrying into
+    Hades’ house and applies this especially to those who died unwed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: 'The taxonomy reference is approximate: the passage describes a marriage-like
+    conception of death and Hades’ house, not a full narrative of a divine wedding.'
+- id: motif:2
+  label: Funeral rites mirror wedding rites
+  taxonomy_refs: []
+  basis: 'The passage lists parallel rites in marriage and burial: ablution, water-bearing,
+    anointing, arraying, and white dress.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a ritual-pattern motif extracted from Lawson’s comparative argument
+    rather than a single narrative episode.
+- id: motif:3
+  label: Purifying water before life-status transition
+  taxonomy_refs: []
+  basis: Wedding participants and the dead both undergo preliminary washing, with
+    special emphasis on water fetched from sacred sources or by a ritual water-bearer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents the water rite as part of a broader wedding-funeral
+    parallel; it does not isolate water as an independent mythic agent.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a same-function comparison between ancient and modern
+    Greek customs in which ablution precedes both marriage and burial.
+  claim_level: same_function
+  target: ancient and modern Greek wedding and funeral ablutions
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The evidence is summarized by Lawson and examples vary by locality,
+    such as water, wine, or a minimal moistening.
+- id: claim:2
+  claim: The passage supports a same-function comparison between the wedding λουτροφόρος
+    and the funerary water-bearer custom for those who died unmarried.
+  claim_level: same_function
+  target: Greek wedding water-bearer and funerary water-bearer for unmarried dead
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The modern wedding bearer and the ancient funerary tomb figure are
+    not identical performances, but the passage explicitly connects them through water-bearing.
+- id: claim:3
+  claim: The passage supports a cautious same-motif comparison linking ancient literature,
+    modern Greek folk-song, and ritual custom around the pattern of death as marriage.
+  claim_level: same_motif
+  target: death-as-marriage pattern in ancient and modern Greek tradition
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt reports Lawson’s synthesis rather than presenting the ancient
+    texts or folk-songs directly.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23879-23960; opening comparative paragraph
+  quote_or_summary: The passage states that death and marriage were closely associated
+    in thought and that funeral and marriage ceremonies resembled one another, supporting
+    the belief that dying was like marrying into Hades’ house.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; short quotation and summary permitted.
+- id: ev:2
+  type: summary
+  locator: 23879-23960; wedding ablution paragraph
+  quote_or_summary: Before a Greek wedding, bride and bridegroom are said to bathe,
+    often with water specially fetched from a holy spring; examples include Callirrhoë,
+    Ismenus, Scamander, and local sacred wells or fountains.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summary permitted.
+- id: ev:3
+  type: summary
+  locator: 23879-23960; funeral ablution paragraph
+  quote_or_summary: 'The passage describes funeral ablution as ancient and modern:
+    Antigone washes dead kin, Lucian refers to the practice, and modern Greek rites
+    may use water, warm wine, or wine-soaked cotton.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summary permitted.
+- id: ev:4
+  type: summary
+  locator: 23879-23960; λουτροφόρος paragraph
+  quote_or_summary: The water for the bridal bath was fetched by a closely related
+    boy or girl called the λουτροφόρος; in the modern custom described, the bearer
+    is always a boy whose parents are both living.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summary permitted.
+- id: ev:5
+  type: summary
+  locator: 23879-23960; unmarried-dead water-bearer paragraph
+  quote_or_summary: For those who died unmarried, water was fetched and a water-bearer
+    figure, described as a boy with a pitcher, was set over the tomb; Lawson interprets
+    this as applying marriage rites before entry into Hades’ nuptial-chamber.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summary permitted.
+- id: ev:6
+  type: summary
+  locator: 23879-23960; anointing paragraph
+  quote_or_summary: After ablution came anointing and arraying for both marriage and
+    burial; the passage notes cosmetics at weddings and perfumes or lecythi for anointing
+    the dead.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summary permitted.
+- id: ev:7
+  type: summary
+  locator: 23879-23960; dress paragraph
+  quote_or_summary: The passage states that white was usually considered correct for
+    both marriage and burial and that the dead body could be dressed with pomp and
+    ornament like bride and bridegroom.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summary permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Ritual parallels are explicit in the passage. Motif taxonomy is less certain
+    because the passage is a scholarly comparative discussion, not a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Greek terms are retained where present in the passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-modern-greek-folklore-lawson-gutenberg__l23879-l23960
+  passage_sha256=d94250e2bc4a0ef76cb4cbd1eaeb7019daa735b3cfeb78e3ced8f39e48faa139
+

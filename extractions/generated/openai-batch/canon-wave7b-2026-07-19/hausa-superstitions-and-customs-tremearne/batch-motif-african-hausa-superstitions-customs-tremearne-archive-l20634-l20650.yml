@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l20634-l20650
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: XVIII. / HAUSA  SUPERSTITIONS / NOTES   ON   THE   TALES  469 / XXII.; lines
+    20634-20650
+  start: '20634'
+  end: '20650'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Notes to tale XXII explain that a house is a compound of huts, with each
+    wife normally having a separate hut; the described act is interpreted as a deadly
+    insult meaning the occupier is worthless. Another note says the rooster remained
+    the principal person because the original quarrel concerned him. A further note
+    identifies the word goro as kola-nut and says it is used similarly to alkaivali
+    in this sense.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The house is described as a compound containing multiple huts.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Each wife would have a separate hut within the compound.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The noted action or condition is described as a deadly insult that signifies
+    the occupier is worthless.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The rooster remained the principal person because the original quarrel was
+    on his account.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The word goro is glossed as kola-nut and said to be used much like alkaivali
+    in the relevant sense.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: rooster
+  description: A rooster described as remaining the principal person because the original
+    quarrel was on his account.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: occupier
+  description: The occupier is the person whom the insult marks as worthless.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: principal person
+  assigned_to:
+  - fig:1
+  basis: The note states that the rooster still remained the principal person.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: cause or occasion of quarrel
+  assigned_to:
+  - fig:1
+  basis: The original quarrel is said to have been on the rooster's account.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: target of insult
+  assigned_to:
+  - fig:2
+  basis: The insult signifies that the occupier is worthless.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: house compound
+  literal_form: A compound containing a number of huts.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: kola-nut term
+  literal_form: goro, glossed as kola-nut.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Explanatory notes on household insult and quarrel
+  summary: The notes explain household structure, identify a deadly insult against
+    an occupier, and state that the rooster remains central because the original quarrel
+    concerned him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Terminological note on goro
+  summary: The note glosses goro as kola-nut and compares its usage to alkaivali in
+    this context.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Insult marking the occupier as worthless
+  taxonomy_refs: []
+  basis: The note explicitly says the described matter is a deadly insult and that
+    it signifies the occupier is worthless.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an explanatory note and does not provide the full narrative
+    action that constitutes the insult.
+- id: motif:2
+  label: Quarrel centered on a rooster
+  taxonomy_refs: []
+  basis: The note states that the rooster remained the principal person because the
+    original quarrel was on his account.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The full quarrel narrative is not included in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20634-20639
+  quote_or_summary: The house is described as a compound with multiple huts, and each
+    wife would have a separate one.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 20639-20641
+  quote_or_summary: '"This is a deadly insult, signifying that the occupier is worthless."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 20642-20646
+  quote_or_summary: The rooster still remained the principal person because the original
+    quarrel was on his account; the note includes a comparison to a Governor and the
+    G.O.C. troops in a colony.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 20648-20650
+  quote_or_summary: The word goro is glossed as kola-nut and said to be much the same
+    as alkaivali in this sense.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: line 20647
+  quote_or_summary: The note refers the reader to a description in XLV [4], without
+    further details in this passage.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; citation only.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of brief explanatory notes rather than a full tale,
+    so narrative motifs are necessarily limited and should be checked against the
+    surrounding tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the passage does not clearly support one of the supplied motif-family references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l20634-l20650
+  passage_sha256=0111419d3b0afa67b698a986d2dbb884383f02a62d751fa06e8e0ca153df72f8
+

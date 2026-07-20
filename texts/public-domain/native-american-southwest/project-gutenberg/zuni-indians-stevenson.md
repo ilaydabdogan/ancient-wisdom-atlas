@@ -1,4 +1,69 @@
+---
+id: native_american.zuni_indians.stevenson_archive
+title: 'The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies'
+alternate_titles:
+- The Zuni Indians (BAE 23rd Annual Report)
+text_status: complete
+tradition: native_american_southwest
+culture: zuni_ceremonial_ethnography_with_ritual_texts
+region: north_america_southwest_pueblo
+source_language: Zuni oral and ritual tradition mediated through English
+text_language: English
+date_range: living ritual tradition; fieldwork 1879-1902; published 1904 (BAE 23rd
+  Annual Report)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.thezueniindians00stevrich
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1904 Government Printing
+    Office edition
+  translator: Matilda Coxe Stevenson
+  editor: ''
+  publication_year: 1904
+  publisher: Internet Archive
+  source_url: https://archive.org/details/thezueniindians00stevrich
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: US government publication (BAE), public domain. Recording context - two decades
+    of resident observation; creation myths, kiva ritual, esoteric fraternity ceremonies
+    with many translated prayer and song texts embedded in detailed ethnography; mixture
+    of verbatim ritual text and close paraphrase. Very large volume (~600 pages).
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- zuni
+- pueblo
+- southwest
+- kiva_ritual
+- verbatim_texts
+- holdout_priority
+motifs:
+- emergence
+- rain_making
+- katcina
+- healing_fraternity
+- sacred_clown
+figures: []
+---
+
 # The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies
+
 THE ZUNI INDIANS: THEIR MYTHOLOGY, ESOTERIC
 FRATERNITIES, AND CEREMONIES
 
@@ -1704,7 +1769,7 @@ amed from the tall grass which grows in the
 d three years out of every four the pilgrims of
 illy to Ko'thluwala'wa. This spring also sup-
 A'mitolan 'kiai'a (Rainbow spring), which
-the Sha'liiko g wls. The water of this spring
+the Sha'liiko g<wls. The water of this spring
 'klnia (ashes spring) is the spring of Bi"'si'si,
 le numbers of te'likinawe are to lie found at
 
@@ -1919,7 +1984,7 @@ of the Zenith went to Up"sannawa (zenith) ki'wi'sine. A Sha'l;iko, a
 body of Wa'tem'la, others of the Kor'kokshi, and Sal'imobiya of the
 Nadir went to Hc'kiapawa (nadir) ki'wi'sine.'"
 
-o It must be borne in mind that these ^o ls were the children of the A'shiwi.
+o It must be borne in mind that these ^o<ls were the children of the A'shiwi.
 
 ft K(», from Kok'ko; mo'sona, director.
 
@@ -3349,7 +3414,7 @@ HISTORY MYTH OF THE COMIM; or TIIK A'SIIIWI AS NARKATKD BY
 The following arc the, principal characters and objects which appear
 in this history.
 
-Pi"'lushiwanni te/vona.)L'1(il'r an l younger Kla'kwomosi, director of tin- house of
+Pi"'lushiwanni te/vona.)L'1(il'r an<l younger Kla'kwomosi, director of tin- house of
 
 ,,..,„.. , ... / J brother Bow
 
@@ -3985,7 +4050,7 @@ They know many things.
 
 A'chi 'kiap'ya'hlanne ya'kiakia; yam iinikwa nan'nakkia.
 
-The two. rivers ma le; they know many things.
+The two. rivers ma<le; they know many things.
 
 A'chi Ko'thluwala yaTlanne an'nimukia.
 
@@ -4455,7 +4520,7 @@ Narrator:
 
 'Klaklo sits down, conies out. To the six regions looks, and calls.
 
-lKmklo, 'Kuiklo,  Kffiklo, 'Kiiiklo.
+lKmklo, 'Kuiklo, <Kffiklo, 'Kiiiklo.
 
 A'nana/ hop tona'wakia ? Hoin i'seto'nawe.-y
 
@@ -8411,7 +8476,7 @@ foot and clad in ordinary dress, which is new for the occasion." The
 Ko'mosona, with his Ko'pi'''lashiwanni on his right, leads the party.
 
 a In the past the party has always made these journeys on foot; but at the present, while the
-Ko'mosonn, Ko'pekwin, the two Ko'pi" liishiwanni, and Ko'yemshi adhere to the old custom, others
+Ko'mosonn, Ko'pekwin, the two Ko'pi"<liishiwanni, and Ko'yemshi adhere to the old custom, others
 proceed to the base of the mountains on burros.
 
 
@@ -8730,7 +8795,7 @@ their masks. On proceeding to Zufii the brand is ignited at the bonfire
 and is now carried by the one who is to personate Shu'laawi'si in the
 Sha'liiko ceremonial of the coming autumn.
 
- i\Vhen the fence of a ranchman was burned some years ago, the Zuni regarded this American, as
+<i\Vhen the fence of a ranchman was burned some years ago, the Zuni regarded this American, as
 they called him, as a most depraved character because he objected to the burning of his fence when
 • the object was to bring rams.
 
@@ -8981,8 +9046,8 @@ who brought it in a basket " clasped to his breast from
 the undermost to the outer world. The et'tone is
 dual: 'kia'ettone and chu'ettonf (see plates xxxn and
 xxxin). The 'kia'ettone (the first syllable, 'kia. is from
-'kiawe, water) consists of four hollow reeds, each of the FlG 4_Ton i kept
-length of the middle finger measured on the under side, ln *t/t m* reed,
+'kiawe, water) consists of four hollow reeds, each of the FlG 4_Ton<i kept
+length of the middle finger measured on the under side, ln *t/t<m* reed,
 
 . actual size.
 
@@ -14116,7 +14181,7 @@ of the room, and ten men of the Pi'chikwe (Dogwood) and Ta'kiakwe
 wife belonging to the latter, sit opposite the Ko'yemshi, as shown in
 the following diagram:
 
-Ki/i/emsh i I*i*- i-ra
+Ki/i/emsh i I*i*-<i-ra
 
 1 A'wan tii"chu I1 Man of the hnupe
 
@@ -14269,7 +14334,7 @@ monial field.6 Upon reaching the ceremonial ground above referred
 to, the bearers of the effigies stoop on blanket rugs and face the vil
 lage, six blankets having been spread for the purpose in line from east
 
-"The ki'wi siwe are relegated to the six regions, aa follows: He'iwa (North), Mu'he'wa (West),
+"The ki'wi<siwe are relegated to the six regions, aa follows: He'iwa (North), Mu'he'wa (West),
 Chu'pawa (South), O'he'wa (East), Up''sannawa (Zenith), He'klapawa (Nadir).
 
 k Formerly, temporary bridges of stones and earth were constructed, but in 18% the bridge built for
@@ -15393,7 +15458,7 @@ to the breechcloth, divides the willows with the one who called for aid,
 and there is a general switching. A woman throws another bunch of
 willows from a house top to the plaza for the use of the Ne'wekwe, and
 the scene becomes exciting. The Ko'yemshi apparently have the best
-of it for  i time. During this excitement the drum never ceases.
+of it for <i time. During this excitement the drum never ceases.
 Some of the Ko'yemshi take seats on the ledge, but they are not
 allowed to retain their seats for any length of time, the switches
 being used to bring them to their feet. Finally the elder brother
@@ -16447,7 +16512,7 @@ DC
 D
 CO
 
- r
+<r
 
 
 not answered, it is believed that the heart of one or other of the
@@ -17158,7 +17223,7 @@ one. whose ghost would appear should the sleeper awake.
 
 When a husband or wife belonging to the Ant fraternity dies the
 
-"Tin' Chinese RII through thi'ir houses after sunset with firebrumls to  lrlve nut evil spirits.
+"Tin' Chinese RII through thi'ir houses after sunset with firebrumls to <lrlve nut evil spirits.
 
 
 308 THK ZUNI INDIANS [ETH. ANN. 23
@@ -18325,7 +18390,7 @@ of the reed colored black, indicating the whole day, and three sets of
 markings on the convex side denoting the three periods of the day,
 morning, noon, and sunset; I, a'thluwa (center), has a daub of black in
 
- i It was the writer's good fortune to have two sets of ceremonial reeds presented to her by the elder
+<i It was the writer's good fortune to have two sets of ceremonial reeds presented to her by the elder
 and the younger brother Bow priests. They are now in the National Museum.
 
 6One must begin to play on the same day of the mouth that the loss occurred. Playing may be
@@ -18373,7 +18438,7 @@ the first three fingers with
 the thumb on the top.
 
 When the representative of the younger God of War plays he runs c
-into the groove of /; and  t into c and crosses them with d. The reed which
+into the groove of /; and <t into c and crosses them with d. The reed which
 crosses the others is designated as the thrower, but the same reed, as
 stated, is not used by both players. In this position the reeds are
 thrown upward against an inverted basket. 10 or 1:2 inches in diame
@@ -18436,7 +18501,7 @@ was a thing of the past and that the game of sho'liwe was not so frequently play
 ceremonially or for pleasure.
 
 b The reader who has perused " Chess and Playing-cards," by Mr Stewart Culin ( Report of the United
-States National Museum, ] S%) , will note the difference between the explanation of sho'liwe found in
+States National Museum, ]<S%) , will note the difference between the explanation of sho'liwe found in
 that publication and that given here. For example, Mr Culin says: " Formerly sho'liwe was exclu
 sively a game of war divination and was played only by the priests of the Bow and members of the
 esoteric society of the war shamans." According to Zufli belief sho'liwe was played by the Divine
@@ -19465,7 +19530,7 @@ described in a later publication.
 (>The following facts regarding this lake are kindly furnished by Mr X. H. Parton, of the United
 States Geological Survey:
 
-The Zuni suit lake is situated on the south slopes  if the valley of Carrizo Creek, -12 miles south by
+The Zuni suit lake is situated on the south slopes <if the valley of Carrizo Creek, -12 miles south by
 east from Zuni pueblo. Sinking abruptly below the sloping plain of the surrounding vnlley is a round,
 crater-like depression about a mile broad and 200 feet deep. In its center rise two symmetrical vol
 canic cinder cones about 150 feet high, to the north of which is the salt lake, and to the south a
@@ -19643,7 +19708,7 @@ c "I hough a number <>i s
 
 i I'.'irJ there w£8 found quite a Mexican settlement, earning a livelihood by
 nuns iiM'.l in -eriirin^ the suit I'nini the lake bed is of the crudest type.
-id ei ice  if these struct u rev The presence of Mexicans at the lake prevents
+id ei ice <if these struct u rev The presence of Mexicans at the lake prevents
 c previously enacted within these walls,
 ii unlinks have been made, the ill jit h of this lake is still nn known. While
 
@@ -20376,7 +20441,7 @@ The woolen garments of home manufacture are washed occasionally
 "in such i of th<>root of the yucca glauca on the river bank, the Indians
 UpprcV'.itU the necessity of sometimes cleansing them in order to
 preserW (them; but cotton clothing is \poni} not only by the poorer,
-but by't hq better class, until it falls apart from decay caused by tilth.
+but by't<hq better class, until it falls apart from decay caused by tilth.
 If thestiifc-arments are replaced by fresh onef> for ceremonial occasions,
 tfyoy are put on again and worn until full service has been rendered.
 /N (No one dresses his own. bails Women comb the men's hair and one
@@ -22588,7 +22653,7 @@ catastrophe. Presently one of the women, this man's sister, began crying, and th
 
 
 'i Lu'lentu of the Hupis is the same as IVyatamu of the Zufiis. The description by both peoples of
-their K K! of music, butterflies, amj flowers, in the same.
+their K<K! of music, butterflies, amj flowers, in the same.
 
 
 one after another returned to consciousness without medical aid, except Catalina
@@ -23321,7 +23386,7 @@ to those of the other fraternities. Plate en shows the dry painting
 which is made at the time of initiation. This painting is not directly
 associated with the worship of beasts of prey, but with celestial
 worship. «, Outline of tablet altar; J, mi'wachi of the order of
-O'naya'nakla; <>, line of meal;  /, Yu'pia'hlan'na* (Galaxy), formed of
+O'naya'nakla; <>, line of meal; </, Yu'pia'hlan'na* (Galaxy), formed of
 meal and outlined in charred corncob; e. sun symbol; f, moon symbol.
 The sun and moon are formed of corn pollen, burnt corncob, crushed
 turquoise, and other mineral colors. These two emblems are about 5
@@ -24147,7 +24212,7 @@ MAP SHOWING ROUTE FOLLOWED BY 'HLE'WEKWE .WOOD FRATERNITY)
 IN QUEST OF THE MIDDLE PLACE
 
 
-anil the wel>l>e l hands and feet cut. The dots alxiut this figure denote hail, for the
+anil the wel>l>e<l hands and feet cut. The dots alxiut this figure denote hail, for the
 director of the 'Hle'wekwe fraternity de.sired much hail. The straight line extending
 east and west across the slab indicates the road leading from H;in"lipInkTa to the Salt
 Mother before she left her home east of I'tiwanna. The cross near the east end of
@@ -25202,7 +25267,7 @@ carries an et'tone of the lKo'4oktakwe (Sand-hill crane) clan. The
 et'towe-bearers and the two men throw a line of meal about 2 feet
 
 
- iSee p. 444. One of the four St'towe referred to belonged to the Sand-hill Crane clan, who were
+<iSee p. 444. One of the four St'towe referred to belonged to the Sand-hill Crane clan, who were
 members of the 'Hle'wekwe fraternity.
 
 
@@ -25598,7 +25663,7 @@ plaza, the arms of the crosses being each 2 feet, two of the horizon
 tal arms meeting, a disk of meal being made on each cross. The two
 
 
- i The writer and a woman of the Dogwood clan who was not associated with a Mystery medicine
+<i The writer and a woman of the Dogwood clan who was not associated with a Mystery medicine
 order used the mi'li of the mother of the latter, the mother being a member of the U'huhukwe
 fraternity.
 
@@ -26275,7 +26340,7 @@ sions -— Pi'ilnni'hle (Sword), Km'la'silo (Spruce), Slio'tikJanna (Arrow),''
 Pa'oti'we* (Navaho dance), and Po'sikishi'' (commonly interpreted
 spruce tree). The officers of the Great Fire fraternity consist of a
 
- i The officers of O'naya'nakla have valuable sonjrs for relieving delayed parturition and are culled
+<i The officers of O'naya'nakla have valuable sonjrs for relieving delayed parturition and are culled
 in when the doctresses fail to relieve the patient.
 
 foSho' is from sho'M, arrow reed; ti'klanna is another expression for ti'kili ( fraternity).
@@ -27494,7 +27559,7 @@ for an et'tone'' of a shi'wanni (rain priest), who is also a member of
 the Great Fire fraternity, is kept in the old house to which the upper
 ladder leads.
 
-Fifth d nj. At daylight on the, fifth day the 'Hlem'mosona runs his
+Fifth d<nj. At daylight on the, fifth day the 'Hlem'mosona runs his
 hand over the pollen line of the painting in the ceremonial chamber
 and places the pollen he collects in a corn husk; and men and women
 hasten forward to take a pinch from the heart (which is considered
@@ -28806,7 +28871,7 @@ The Shu'maakwe, like other fraternities, invite women who are not
 members to participate; in the dance and in the, grinding of medicines.
 The director visits the houses of such women as he desires and invites
 them to be present, giving each a small quantity of meal wrapped in
-a corn hu- k.
+a corn hu-<k.
 
 CEREMONIAL OF INITIATION INTO THE SHU'MAAKWE
 
@@ -28986,7 +29051,7 @@ Third tlni/. The members of the fraternity are occupied in deco
 rating masks and preparing other paraphernalia. The ceremonv of
 the third night is similar to that of the second night.
 
-Fourth  l nj. The fourth day is a busy one in completing the para
+Fourth <l<nj. The fourth day is a busy one in completing the para
 phernalia for the closing scenes and in preparing prayer plumes, which
 they plant during the afternoon. At sunset the town is in commotion
 over the arrival of a Shumai'koli god from Chi'pia, attended bv two
@@ -29179,7 +29244,7 @@ elusion of his prayer the a'kwamosi takes his ini'li from the altar and
 passes it with a prayer before the mouth of each novice, who draws
 the sacred breath. The motion of the novices' hands ceases but twice,
 and then only for a moment each time, except when the corn is placed
-to their lips, until  i o'clock in the morning. The women relieve one
+to their lips, until <i o'clock in the morning. The women relieve one
 another in attending the novices.
 
 Thirty minutes after the ceremonv with the mi'li the dance begins,
@@ -31015,7 +31080,7 @@ symbolic' of the galaxy, crosses the disk and different -colored grains of corn 
 symbols extend from the periphery ol the disk toward the altar.
 
 
-57 i THE ZUNI INDIANS [ETH. ANN. 23
+57<i THE ZUNI INDIANS [ETH. ANN. 23
 
 the same time collecting the sands of the painting with eagle-wing
 feathers and the hand and deposits them in a piece of cloth which is
@@ -32366,9 +32431,9 @@ pa'cttowe (pa from A'pachu, Xavaho). One of these fetishes is carried to battle;
 at home.
 
 '; The 'su''hlan'na is a large shell most precious to the Zunis. Not only its keeper, who tears the
-title of priest of the  sii' hlan'nn. but his vice, must be of the Badger clan, because this shell was
+title of priest of the <sii'<hlan'nn. but his vice, must be of the Badger clan, because this shell was
 originally the property of a member of this clan. The occasion must always be eminently worthy of
-the presence of the great shell. The songs of the  su''hlan'na are very old, and known only to four
+the presence of the great shell. The songs of the <su''hlan'na are very old, and known only to four
 men of the Badger clan.
 
 
@@ -32955,7 +33020,7 @@ Q
 
 hm
 
-LU  f>
+LU ‹f›
 
 to
 
@@ -33087,7 +33152,7 @@ whatever stage of culture he may have arrived, is the result of his
 desire and his efforts to understand the mysteries of nature. With
 the exception of the Lightning fraternity, which originated virtually
 
-a All of the shrines of the* Gods of War un l a number of other illustrations in this jmper were strurt'd
+a All of the shrines of the* Gods of War un<l a number of other illustrations in this jmper were strurt'd
 by Mr .Stevenson in 1881.
 
 
@@ -33124,5 +33189,4 @@ all, and to subdue the passions, thereby winning the favor of their
 gods, are, under the influences of modern conditions, losing the re
 straining power of this religion, and, as a result, are changing for the
 worse.
-
 

@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.greek-pindar-odes-myers-gutenberg-l6307-l6337
+source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+passage_locator:
+  label: FRAGMENT OF A DITHYRAMB, / TO BE SUNG AT ATHENS. / IN HONOUR OF DELOS. /
+    FRAGMENTS.; lines 6307-6337
+  start: '6307'
+  end: '6337'
+  translation: The Extant Odes of Pindar
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Three fragmentary passages describe a blessed realm below, a doctrine of
+    bodily death with a remaining shadow of life that discloses judgment in dreams,
+    and Persephone sending certain atoned souls back to the sunlit world in the ninth
+    year, from whom noble rulers, strong and wise men, and holy heroes arise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first fragment describes a realm below where the sun shines while it is
+    night in the speaker's world.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The realm includes crimson-flowered meadows before a city, shade from frankincense-trees,
+    and golden fruits.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Some inhabitants take delight in horses, bodily feats, dice, and harp-playing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Fragrance fills the land as incense of many kinds is mingled upon the altars
+    of the gods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The second fragment says that those with a happy lot travel to an end that
+    gives rest from toils.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The body is said to be subject to death, while a shadow of life remains alive
+    and is from the gods.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The shadow of life sleeps while the limbs are active, but reveals approaching
+    judgment to sleepers in dreams for sorrow or joy.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The third fragment says Persephone accepts atonement made for an ancient woe
+    from certain persons.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Persephone sends their souls back again to the light of the sun above in the
+    ninth year.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: From those souls arise noble kings and men described as swift, strong, and
+    very wise; afterward they are called holy heroes among men.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: inhabitants of the blessed realm below
+  description: A group referred to as 'them' who dwell below in a sunlit, fragrant
+    land and take delight in games, feats, horses, and music.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Persephone
+  description: The named goddess who accepts atonement for an ancient woe and sends
+    certain souls back to the light of the sun above.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: souls accepted by Persephone
+  description: Souls of those whose atonement Persephone accepts; they are sent back
+    in the ninth year and become the source of noble kings, strong and wise men, and
+    holy heroes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: sleepers
+  description: Persons to whom the shadow of life discloses approaching judgment in
+    dreams.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: blessed afterlife inhabitants
+  assigned_to:
+  - fig:1
+  basis: They inhabit the sunlit realm below and enjoy bliss, games, music, fragrance,
+    and offerings to the gods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine accepter of atonement and sender of souls
+  assigned_to:
+  - fig:2
+  basis: Persephone accepts atonement for ancient woe and sends souls back to the
+    light above.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: returned souls and source of heroic status
+  assigned_to:
+  - fig:3
+  basis: These souls are sent back and later give rise to noble kings and holy heroes.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipients of dream disclosure
+  assigned_to:
+  - fig:4
+  basis: The passage says judgment is disclosed to sleepers in dreams.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sunlight below and above
+  literal_form: the strength of the sun below; the light of the sun above
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: crimson-flowered meadows before a city
+  literal_form: crimson-flowered meadows before their city
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: frankincense-trees
+  literal_form: shade of frankincense-trees
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: golden fruits
+  literal_form: fruits of gold
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: incense on divine altars
+  literal_form: incense of every kind upon the altars of the gods
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: shadow of life
+  literal_form: a shadow of life remaining alive after bodily death
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: dream disclosure
+  literal_form: dreams in which approaching judgment is disclosed
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: ninth year
+  literal_form: the ninth year
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: sunlit blessed realm below
+  summary: A realm below is described as sunlit while the speaker's world is dark;
+    it has meadows, a city, frankincense-trees, golden fruits, varied pleasures, bliss,
+    fragrance, and incense offerings to the gods.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: death, remaining shadow, and dream judgment
+  summary: The body is subject to death, but a divine shadow of life remains; while
+    active limbs stir, it sleeps, and it reveals approaching judgment to sleepers
+    in dreams for sorrow or joy.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Persephone returns atoned souls
+  summary: Persephone accepts atonement for an ancient woe and sends the accepted
+    souls back to the light above in the ninth year; from them arise noble and heroic
+    humans.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: blessed afterlife land below
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage describes a realm below with sunlight, meadows, a city, golden
+    fruits, delights, bliss, and ritual fragrance for the gods.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a setting rather than a full journey route or map.
+- id: motif:2
+  label: dream disclosure of approaching judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The surviving shadow of life discloses judgment in dreams, with outcomes
+    framed as sorrow or joy.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The judging authority and the full procedure of judgment are not specified
+    in the fragment.
+- id: motif:3
+  label: return of souls from below to the sunlit world
+  taxonomy_refs:
+  - return
+  - death_rebirth
+  basis: Persephone sends accepted souls back to the light of the sun above in the
+    ninth year, and from those souls arise noble rulers, strong and wise men, and
+    holy heroes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage supports return and renewed human manifestation, but it does
+    not describe bodily resurrection.
+- id: motif:4
+  label: atonement accepted by an underworld goddess
+  taxonomy_refs: []
+  basis: Persephone accepts atonement made for an ancient woe before sending the souls
+    back above.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The fragment does not explain the ancient woe, the ritual form of atonement,
+    or the conditions for acceptance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6307-6320
+  quote_or_summary: Fragment I describes a sunlit realm below, with crimson-flowered
+    meadows, a city, frankincense-trees, golden fruits, pleasures, bliss, fragrance,
+    and incense on the gods' altars.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain translation; full text allowed per metadata.
+- id: ev:2
+  type: summary
+  locator: 6322-6329
+  quote_or_summary: Fragment II says the happy lot reaches rest from toils; the body
+    dies, but a divine shadow of life remains and reveals approaching judgment to
+    sleepers in dreams.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain translation; full text allowed per metadata.
+- id: ev:3
+  type: summary
+  locator: 6331-6337
+  quote_or_summary: Fragment III says Persephone accepts atonement for ancient woe,
+    sends souls back to the upper sunlight in the ninth year, and from those souls
+    arise noble kings, strong and wise men, and holy heroes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain translation; full text allowed per metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied English passage. Motif taxonomy
+    assignments are cautious because the text is fragmentary and gives compressed
+    doctrinal statements. No external comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Fragmentary passage; literal observations, symbolic images, and candidate motifs are kept separate from broader comparative claims.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-pindar-odes-myers-gutenberg__l6307-l6337
+  passage_sha256=425489a4b7b4d6fa91a7e054e57868ca219fa77d8b2467b47d705f3899f1a7c9
+

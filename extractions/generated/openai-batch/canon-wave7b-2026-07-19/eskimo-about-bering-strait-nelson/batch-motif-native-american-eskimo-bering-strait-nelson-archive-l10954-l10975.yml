@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l10954-l10975
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: BUREAU   OF  AMERICAN    ETHNOLOGY / EIGHTEENTH    ANNUAL   REPORT      PL.    LXIV
+    / HUNTING     HELMETS,    VISORS,    AND    SNOW    GOGGLES / HELMET    ORNAMENTS
+    SNOW    GOGGLES; lines 10954-10975
+  start: '10954'
+  end: '10975'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: A walrus head, cut from ivory, from Kushumik ... is for ornamenting the front
+    of a hunting-helmet.
+  summary: The passage describes ivory ornaments for hunting helmets, including a
+    rear binding piece with paired lashing holes, an ivory walrus head for the front
+    of a helmet, a flattened seal image with blue bead eyes, and a conventionalized
+    wolf image decorated with etched lines, concentric circles, and wooden pegs.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: One described helmet element is pierced with paired holes to receive lashings
+    and is bound on the back of a helmet to hold bent wood ends in position.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An ivory walrus head from Kushumik is identified as an ornament for the front
+    of a hunting helmet.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A similar ornament from Anogognmt represents a flattened seal image with eyes
+    made from inlaid blue beads.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Another ornament from the lower Yukon is a flattened, conventionalized wolf
+    image.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The wolf-image ornament is decorated along the back and sides with etched
+    lines and three pairs of concentric circles, each with a wooden peg in a central
+    hole.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The figure caption identifies the illustrated objects as ivory ornaments for
+    helmets.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ivory walrus head ornament
+  description: A walrus head cut from ivory, from Kushumik, used to ornament the front
+    of a hunting helmet.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Flattened seal image ornament
+  description: A similar ornament from Anogognmt representing the flattened image
+    of a seal, with eyes formed by inlaid blue beads.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Flattened wolf image ornament
+  description: A flattened, conventionalized image of a wolf from the lower Yukon,
+    decorated with etched lines, concentric circles, and wooden pegs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: front helmet ornament
+  assigned_to:
+  - fig:1
+  basis: The passage states that the ivory walrus head is for ornamenting the front
+    of a hunting helmet.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: animal-form helmet ornament
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage identifies helmet ornaments shaped or represented as a walrus
+    head, a seal image, and a wolf image.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: hunting helmet
+  literal_form: Helmet used with attached ornaments
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: walrus head
+  literal_form: Ivory walrus head ornament
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: seal image with bead eyes
+  literal_form: Flattened seal image with inlaid blue bead eyes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wolf image
+  literal_form: Flattened, conventionalized wolf image ornament
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: paired lashing holes
+  literal_form: Holes pierced in pairs to receive lashings
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: concentric circle pairs with pegs
+  literal_form: Three pairs of concentric circles, each with a wooden peg in a central
+    hole
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Catalog description of ivory helmet ornaments
+  summary: The passage catalogues ivory helmet ornaments and their forms, including
+    a lashing piece, a walrus head, a seal image with bead eyes, and a wolf image
+    with etched and circular decoration.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal-form ornamentation on hunting helmets
+  taxonomy_refs: []
+  basis: 'The passage describes hunting-helmet ornaments in animal forms: a walrus
+    head, a seal image, and a wolf image.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is an ethnographic artifact description, not a mythic narrative,
+    and it does not state ritual, cosmological, or symbolic meanings for the animal
+    forms.
+- id: motif:2
+  label: geometric decoration with concentric circles and central pegs
+  taxonomy_refs: []
+  basis: The wolf-image ornament is described as having three pairs of concentric
+    circles, each with a wooden peg inserted in a central hole.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only the literal decorative form and does not explain
+    any symbolic function or comparative meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10954-10958
+  quote_or_summary: An element is pierced with holes in pairs for lashings and is
+    bound on the back of a helmet to hold the bent ends of the wood in position.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: 10958-10961
+  quote_or_summary: "“A walrus head, cut from ivory, from Kushumik ... is for ornamenting
+    the front of a hunting- helmet.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 10961-10964
+  quote_or_summary: A similar ornament from Anogognmt represents a flattened image
+    of a seal, with eyes formed by inlaid blue beads.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 10964-10966
+  quote_or_summary: Another ornament from the lower Yukon is described as a flattened,
+    conventionalized image of a wolf.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 10970-10975
+  quote_or_summary: The wolf-image ornament is decorated along the back and sides
+    with etched lines and three pairs of concentric circles, each with a wooden peg
+    in a central hole.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: quote
+  locator: '10968'
+  quote_or_summary: "“FIG. 45 — Ivory ornaments for limiting helmets”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation used; wording follows supplied
+    passage text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Object-level details are explicit in the passage. Motif candidates are limited
+    because the passage does not provide mythic narrative or stated symbolic interpretation.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l10954-l10975
+  passage_sha256=daa584de2ee8abd2906fc1588a19f4a50f442db2867610c642a8f4a6df594876
+

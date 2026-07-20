@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.australian-ethnological-studies-queensland-roth-archive-l12909-l12923
+source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+passage_locator:
+  label: FIGHTING. FIGHTING- WEAPONS. 147 / LIGHTING. FIGHTING-WEAPONS. 151 / CHAPTEE
+    XI. / DISEASE, ACCIDENT, DEATH. CANNIBALISM.; lines 12909-12923
+  start: '12909'
+  end: '12923'
+  translation: Ethnological Studies among the North-West-Central Queensland Aborigines
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes chronic painful illness being interpreted by a patient
+    as the result of an enemy's bone-pointing magic, involving an object placed inside
+    the body and blood removed. It also reports belief that some diseases can be caused
+    by buried charms, and that some patients, convinced they have been magically attacked,
+    lie down to die while refusing food and help.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An incapacitated person with chronic painful illness may conclude that someone
+    has pointed a munguni at him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The described explanation says that a bone, pebble, flint, or similar object
+    has been put inside the sufferer and his blood removed.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage identifies the observed sicknesses as including malaria, ague,
+    rheumatism, and chronic venereal disease.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says syphilis and similar diseases are believed capable of being
+    imparted by burying certain charms in the ground.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some patients become so convinced that an enemy has pointed the bone at them
+    that they lie down to die and refuse available food and succour.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator states that he witnessed three or four such cases.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: incapacitated patient
+  description: An individual suffering chronic painful illness and convinced that
+    bone-pointing magic has been used against him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: alleged enemy or bone-pointer
+  description: The person whom the patient believes has pointed the munguni or bone
+    at him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: narrator-observer
+  description: The narrator who reports having observed the sickness pattern and witnessed
+    several cases.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: afflicted sufferer
+  assigned_to:
+  - fig:1
+  basis: The individual is incapacitated by chronic painful illness and responds to
+    the conviction of magical attack by lying down to die.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: suspected hostile agent
+  assigned_to:
+  - fig:2
+  basis: The patient believes that an enemy has pointed the munguni or bone at him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: ethnographic witness
+  assigned_to:
+  - fig:3
+  basis: The narrator says he has observed such sickness and witnessed three or four
+    cases.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: pointed munguni or bone
+  literal_form: munguni; bone, pebble, flint, or similar object
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: removed blood
+  literal_form: blood removed from the sufferer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: buried charms
+  literal_form: charms buried in the ground
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: refused food and succour
+  literal_form: food and help within reach but refused
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: illness interpreted as bone-pointing
+  summary: A chronically ill person becomes convinced that someone has pointed a munguni
+    at him, causing an object to be placed inside him and his blood to be removed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: disease attributed to buried charms
+  summary: The passage reports a belief that syphilis and similar diseases can be
+    imparted by burying charms in the ground.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: death through conviction of magical attack
+  summary: A patient convinced that an enemy has pointed the bone at him lies down
+    to die and refuses available food and help.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: illness caused by hostile bone-pointing
+  taxonomy_refs: []
+  basis: The passage describes chronic illness being interpreted as the result of
+    an enemy pointing a munguni or bone, with an object placed inside the body and
+    blood removed.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic report of belief and illness interpretation, not
+    a mythic narrative episode.
+- id: motif:2
+  label: disease transmitted through buried charms
+  taxonomy_refs: []
+  basis: The passage reports that syphilis and similar diseases are believed capable
+    of being imparted by burying charms in the ground.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a brief explanatory belief rather than a full narrative.
+- id: motif:3
+  label: death following conviction of magical attack
+  taxonomy_refs: []
+  basis: The passage states that some patients, convinced that an enemy has pointed
+    the bone at them, lie down to die and refuse available food and help.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is inferred from an observed behavioral pattern described by
+    the narrator, not from a traditional story.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12909-12914
+  quote_or_summary: A chronically ill person becomes convinced that someone has been
+    pointing the munguni at him, meaning that a bone, pebble, flint, or similar object
+    has been put inside him and his blood removed.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12914-12918
+  quote_or_summary: The narrator says he has observed such sickness, usually identifying
+    it as malaria, ague, rheumatism, or chronic venereal disease.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12918-12920
+  quote_or_summary: The passage states that syphilis and similar illnesses are believed
+    capable of being imparted by burying certain charms in the ground.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12920-12923
+  quote_or_summary: A patient may be so rooted in the belief that an enemy has pointed
+    the bone at him that he lies down to die, refusing food and succour within reach.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: line 12923
+  quote_or_summary: '"I have myself witnessed three or four such cases."'
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong because the passage is explicit. Motif labels
+    are descriptive and non-taxonomic because the provided taxonomy has no close match.
+    No comparison claims were made because the passage itself does not support a comparative
+    assertion.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage is ethnographic prose about illness attribution and death through conviction of magical attack; it is not a mythic narrative passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-ethnological-studies-queensland-roth-archive__l12909-l12923
+  passage_sha256=83f816e546a0d723652f65fa27c33d4f818282b4781e1cd72a944aef4a928dba
+

@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l13178-l13217
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: OBJECTS    OF    GRASS    AND    SPRUCE     ROOT     IONE-EIGHTH) / TRAVEL,  AND  TRANSPORTATION
+    / SLEDS / SLEDS; lines 13178-13217
+  start: '13178'
+  end: '13217'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes light hand sleds used by hunters for short hunting
+    and fishing trips, for hauling kayaks over sea ice to open water or cracks, and
+    for winter trips to the mountains in search of reindeer. It also notes an illustration
+    of a deer hunter leaving St Michael with a hand sled and describes larger sled
+    runners shod with whale jawbone strips.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The described light sleds weigh about 15 to 20 pounds.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The light sleds are used for short hunting or fishing trips and are usually
+    hauled by the hunter himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In spring, hunters use the sleds to haul kayaks over sea ice to open water
+    or to opening cracks.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At a break in the sea ice, a hunter places the sled on top of the kayak, paddles
+    across, then puts the kayak back on the sled and continues the journey.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: This combined sled-and-kayak method is used for long trips over sea ice in
+    search of seals and walrus.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A hunter may load provisions, bedding, and a gun on a light sled and drag
+    it to a winter mountain camping place when seeking reindeer without dogs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: An illustration is described as showing a deer hunter leaving St Michael with
+    one of the sleds for a winter hunt in mountains inland from the coast.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The larger sled runners are commonly shod with thin, flat strips of bone sawed
+    from whale jawbone and fastened with wooden pegs.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: hunter
+  description: A person who hauls the light sled, transports a kayak, and undertakes
+    hunting or fishing trips.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: deer hunter leaving St Michael
+  description: A deer hunter represented in an illustration as leaving St Michael
+    with a hand sled for a winter hunt in the mountains.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: seals and walrus
+  description: Animals sought during long trips over sea ice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: reindeer
+  description: Animals sought by a hunter traveling to the mountains in winter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies the traveler as a hunter or deer hunter undertaking
+    hunting trips.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: self-hauling traveler
+  assigned_to:
+  - fig:1
+  basis: The sled is usually hauled by the hunter himself, and the hunter moves sled
+    and kayak across sea ice and water breaks.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: winter mountain traveler
+  assigned_to:
+  - fig:2
+  basis: The illustration represents a deer hunter leaving St Michael for a winter
+    hunt in the mountains.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: hunted animals
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Seals, walrus, and reindeer are named as animals sought by hunters in the
+    described trips.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: light hand sled
+  literal_form: A light sled of about 15 to 20 pounds used for hauling gear and kayaks.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: kayak
+  literal_form: A kayak hauled on the sled over sea ice and used to paddle across
+    water breaks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: sea ice cracks and open water
+  literal_form: Open water or cracks in sea ice reached by hunters during spring travel.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: mountains
+  literal_form: Winter mountain hunting destination for reindeer or deer hunting.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: whale jawbone runner shoes
+  literal_form: Thin, flat strips of bone sawed from whale jawbone and attached to
+    larger sled runners.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Spring sea-ice travel with sled and kayak
+  summary: Hunters haul kayaks on light sleds over sea ice to open water or cracks,
+    carry the sled on the kayak while paddling across, then reload the kayak on the
+    sled and continue over the ice in search of seals and walrus.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Winter mountain hunting departure
+  summary: A hunter traveling without dogs loads provisions, bedding, and a gun on
+    a light sled and drags it toward a mountain camping place in search of reindeer;
+    the illustration shows a deer hunter leaving St Michael for such a winter hunt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Larger sled runner construction
+  summary: The passage describes larger sled runners as shod with whale jawbone strips
+    fastened by wooden pegs.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Alternating land-ice and water transport by sled and kayak
+  taxonomy_refs: []
+  basis: The passage gives a repeated travel sequence in which the hunter hauls a
+    kayak on a sled over sea ice, uses the kayak to cross water breaks with the sled
+    aboard, and then resumes sled travel.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic transportation pattern, not a mythic or symbolic
+    narrative motif in the passage.
+- id: motif:2
+  label: Solo hunter dragging a loaded sled to winter hunting grounds
+  taxonomy_refs: []
+  basis: The passage describes a hunter traveling without dogs, loading provisions,
+    bedding, and a gun on a light sled, and dragging it to a mountain camping place
+    for reindeer hunting.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The motif is practical and technological rather than mythological; no
+    ritual or supernatural meaning is stated.
+- id: motif:3
+  label: Animal bone used to shoe sled runners
+  taxonomy_refs: []
+  basis: The passage notes that larger sled runners are shod with strips of bone sawed
+    from whale jawbone and fastened with wooden pegs.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is a material-culture detail; the passage does not assign symbolic
+    meaning to the whale bone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13182-13184
+  quote_or_summary: The light sleds weigh 15 to 20 pounds and are used for short hunting
+    or fishing trips, usually hauled by the hunter himself.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13184-13186
+  quote_or_summary: In spring, hunters use the sleds to haul kayaks across sea ice
+    to open water or opening cracks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13186-13190
+  quote_or_summary: At a break, the hunter places the sled on the kayak, paddles across,
+    disembarks, puts the kayak on the sled, and resumes travel.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13190-13192
+  quote_or_summary: This method allows long trips over sea ice in search of seals
+    and walrus.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13196-13200
+  quote_or_summary: For a winter mountain trip in search of reindeer without dogs,
+    a hunter may load provisions, bedding, and a gun on a light sled and drag it to
+    camp.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13202-13205
+  quote_or_summary: The illustration is described as a deer hunter leaving St Michael
+    with one of the sleds for a winter mountain hunt inland from the coast.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 13211-13216
+  quote_or_summary: Larger sled runners are shod with thin, flat whale-jawbone strips
+    of the same width as the runner and fastened with wooden pegs.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive ethnography of transportation and hunting technology.
+    Literal extraction is high confidence; motif candidates are practical travel and
+    material-culture patterns rather than mythological motifs. No passage-supported
+    comparative claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supernatural, ritual, or narrative mythic content is present in the supplied passage; symbolic taxonomy references are limited to literal mentions of water and mountains.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l13178-l13217
+  passage_sha256=1ac19bdfbb55529682d2057b1d88bd86d2df6dc06c566328771082804a18979a
+

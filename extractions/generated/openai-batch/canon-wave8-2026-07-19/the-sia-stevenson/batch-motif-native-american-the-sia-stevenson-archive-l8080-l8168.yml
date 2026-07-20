@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l8080-l8168
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: ILLUSTRATIONS. 165 / ETHNOLOGY OF THE UNGAVA DISTRICT, HUD / SON BAY TERRITORY.
+    / INTRODUCTION.; lines 8080-8168
+  start: '8080'
+  end: '8168'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives a geographic and navigational description of the Ungava
+    District: barren elevated terrain shaped by glacial action, numerous rivers, the
+    courses and obstacles of George''s River, Whale River, and the Koksoak, reports
+    of falls, summer fishing locations, islands, rapids, tides, and backwater conditions.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The elevated regions are described as mostly barren rock with black lichens
+    and signs of long glacial action, including polished rock bases, jagged summits,
+    and transported boulders.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the northern ends of ridges and spurs indicate movement of
+    a glacial sheet toward the north-northwest.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The district has numerous rivers, several large, but only two are said to
+    be navigable for more than 100 miles, and only by light-draft boats.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: George's River is described as the largest river on the eastern side, flowing
+    generally northward into Ungava Bay and interrupted by islands, rapids, falls,
+    and portages.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Indigenous informants are reported as saying that high falls occur far up
+    George's River, with falling water causing ground tremors and a sound audible
+    from more than a day's journey away.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The tide at the mouth of George's River is given as 53 feet, and the tide
+    at the anchorage opposite Fort George is given as 42 feet.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Whale River is described with a large island near its mouth, a reef exposed
+    at low water, a contraction into a creek, and an associated lake used by some
+    Indigenous families for summer fishing.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Koksoak is described as the largest stream in the district, rising from
+    lakes on the plateau called the Height of Land and including branches, rapids,
+    falls, a gorge, reefs, islands, bars, and shoals.
+  category: setting
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:9
+  text: Indigenous canoe travel is mentioned on a narrow eastern branch of the Koksoak,
+    where overhanging alders and willows must be parted to allow passage.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: At the Koksoak, Big Island and other falls or rapids obstruct navigation,
+    while tides and backwater are described as reaching inland toward or beyond the
+    upper rapids.
+  category: setting
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Indigenous people mentioned in the passage
+  description: A collective group referred to in the passage as reporting distant
+    high falls, traveling by canoe, and sending some families to lake banks for summer
+    fishing.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: local informants about river falls
+  assigned_to:
+  - fig:1
+  basis: The passage reports that Indigenous informants assert the existence and effects
+    of high falls about 150 miles from the mouth of George's River.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: seasonal fishers and canoe travelers
+  assigned_to:
+  - fig:1
+  basis: The passage says certain families go to lake banks for summer fishing and
+    that canoe passage on a narrow branch requires parting overhanging vegetation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: barren elevated terrain
+  literal_form: elevated regions, hills, peaks, ridges, spurs, transported boulders,
+    barren rock, lichens
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: river waterway system
+  literal_form: rivers, lakes, rapids, falls, tides, backwater, bay mouths, streams
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: island obstruction
+  literal_form: islands called Big Island, island near George's River mouth, reefs
+    exposed at low water
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: reported thunderous falls
+  literal_form: high falls on George's River said to make the ground tremble and be
+    heard from more than a day's journey away
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Glaciated barren uplands
+  summary: The passage describes elevated barren terrain, lichen-covered rock, polished
+    bases, jagged peaks, transported boulders, and signs of glacial movement.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: George's River and reported distant falls
+  summary: George's River is traced from its source to Ungava Bay, with rapids, navigability
+    limits, portages, and a report of thunderous high falls upstream.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Whale River, Big Island, and summer fishing lake
+  summary: Whale River is described as having a large island and reef near its mouth,
+    contracting upstream into the outlet of a lake where some Indigenous families
+    go for summer fishing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Koksoak route and navigation obstacles
+  summary: The Koksoak is described from its plateau lakes through branches, narrow
+    canoe passage, falls, a gorge, reefs, islands, bars, shoals, and Big Island, all
+    affecting navigation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Tides and backwater at the Koksoak
+  summary: The passage records the river's tidal rise at its mouth and at Fort Chimo
+    and notes that backwater is held inland as far as, or beyond, the upper rapids
+    depending on water stage.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:9
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8080-8168; opening terrain description
+  quote_or_summary: Elevated regions are barren except for lichens; rocks show long
+    glacial action, polishing, jagged peaks, transported boulders, and inferred north-northwest
+    ice movement.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8080-8168; rivers overview
+  quote_or_summary: The district has many rivers, some large, but only two are navigable
+    for more than 100 miles and only by light-draft boats.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8080-8168; George's River description
+  quote_or_summary: George's River rises inland, runs generally northward to eastern
+    Ungava Bay, has a wide mouth narrowed by rapids and an island, and becomes difficult
+    upstream because of rapids, falls, and portages.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8080-8168; reported George's River falls
+  quote_or_summary: Indigenous informants assert high falls about 150 miles from George's
+    River mouth; the water is said to fall nearly perpendicularly, make the ground
+    tremble, and be heard from more than a day's journey away.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8080-8168; George's River tide figures
+  quote_or_summary: The tide at George's River mouth is given as 53 feet; at the anchorage
+    opposite Fort George, about 12 miles from the mouth, it is given as 42 feet.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8080-8168; Whale River description
+  quote_or_summary: Whale River has a large island called Big Island near its mouth,
+    a reef exposed at low water, an uncertain course, an upstream contraction into
+    a creek, and a lake whose banks are used by certain Indigenous families for summer
+    fishing.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8080-8168; upper Koksoak description
+  quote_or_summary: The Koksoak is the largest stream in the district, rising from
+    lakes on the Height of Land; it forks and reunites, and the eastern branch is
+    narrow enough that overhanging alders and willows must be parted for canoes.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8080-8168; lower Koksoak navigation description
+  quote_or_summary: Below the branch junction, the Koksoak has high falls, rapids,
+    a narrow gorge, numerous ledges and reefs, islands, bars, shoals, Big Island,
+    and other obstructions to navigation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8080-8168; Koksoak tide and backwater description
+  quote_or_summary: The extreme tide at the Koksoak mouth is recorded as 62 feet 3
+    inches; at Fort Chimo it may rise 31 feet, and backwater can reach the upper rapids
+    or beyond during high June water.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is descriptive geography and navigation rather than mythic narrative.
+    Symbols are recorded only as literal landscape features matching supplied taxonomy
+    terms; no symbolic or comparative interpretation is claimed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythology motifs or comparison claims were identified from the provided passage alone.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l8080-l8168
+  passage_sha256=d122050f3b68ff2fe7f9c71ce9b244e3ea6405a559e3b9d20e081ff3cbbdeb8f
+

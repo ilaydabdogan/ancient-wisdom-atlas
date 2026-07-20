@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l36340-l36363
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: CULT OF THE HEAVENLY BODIES. / THE CULT OF THE MANGO. / OMENS. / DREAMS.;
+    lines 36340-36363
+  start: '36340'
+  end: '36363'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports that reliable information about dreams was limited,
+    but dreaming was common and affected actions in both life and folk tales. It gives
+    an account of an old woman’s warning dream before a Tubetube trading voyage that
+    ended in a treacherous attack, and a Wagawaga tale in which an old woman obeys
+    a dream about where fish will be caught.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author states that reliable information about dreams could not be obtained,
+    though dreaming was ascertained to be common.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some men were reported to have erotic dreams, though the author thought these
+    were not frequent.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Visits by Wakuri and similar persons to the place printed in the supplied
+    text as “the other work!” are described as probably particularly vivid dreams
+    and perhaps partly autosuggestion.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Dreams are said to have a direct influence on the actions of individuals in
+    both real life and folk tales.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Before a Tubetube trading voyage, an old woman dreamed and warned the party
+    against going.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Tubetube party started on a trading voyage to a village in Milne Bay,
+    where they had traded before and expected no danger.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After arrival in Milne Bay, the party was first received in an apparently
+    friendly manner and then, at a signal, nearly all were tomahawked except one young
+    man and a little boy.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: In the Wagawaga story “The Bat’s Cave,” an old woman dreamed that fish would
+    be caught at a certain place and went there in the morning in obedience to the
+    dream.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Wakuri and similar persons
+  description: Named as persons whose visits to the place printed as “the other work!”
+    are probably vivid dreams.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Old woman before the Tubetube departure
+  description: An old woman who dreamed before the trading voyage and warned the party
+    against going.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Tubetube trading party
+  description: A party of Tubetube men who set out on a trading voyage to Milne Bay.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: One young man and a little boy
+  description: The two members of the Tubetube party excepted from the general killing.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Old woman in the Wagawaga story “The Bat’s Cave”
+  description: An old woman who dreamed that fish would be caught at a certain place
+    and went there in obedience to the dream.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dream-associated other-place visitor
+  assigned_to:
+  - fig:1
+  basis: The passage links Wakuri and similar persons with visits interpreted as vivid
+    dreams.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dreamer
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Both old women are described as having dreamed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: warning speaker
+  assigned_to:
+  - fig:2
+  basis: The old woman warned the Tubetube party against going after her dream.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: trading voyagers
+  assigned_to:
+  - fig:3
+  basis: The party set out on a trading voyage to Milne Bay.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: victims of treacherous attack
+  assigned_to:
+  - fig:3
+  basis: The party was tomahawked after an apparently friendly reception, except for
+    two survivors.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: survivors
+  assigned_to:
+  - fig:4
+  basis: One young man and a little boy are named as exceptions to the killing.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: dream-obedient actor
+  assigned_to:
+  - fig:5
+  basis: The old woman went to the fishing place in the morning in obedience to her
+    dream.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dream
+  literal_form: dreams and dreaming
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: other place named in dream context
+  literal_form: "“the other work!” as printed in the supplied passage"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fish seen or foretold in dream
+  literal_form: fish to be caught at a certain place
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: General note on dreams and other-place visits
+  summary: The author reports limited reliable information about dreams, says dreaming
+    was common, and treats Wakuri-like visits to another place as probably vivid dreams.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dream warning before Tubetube trading voyage
+  summary: An old woman dreams and warns a Tubetube party not to depart; the party
+    goes to Milne Bay, is apparently welcomed, and is then attacked, with only a young
+    man and a little boy excepted from the killing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Dream-directed fishing in “The Bat’s Cave”
+  summary: In a Wagawaga story, an old woman dreams that fish will be caught at a
+    certain place and goes there in the morning because of the dream.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: warning dream before a journey
+  taxonomy_refs: []
+  basis: An old woman dreams before the Tubetube party’s departure and warns them
+    not to go; the journey then ends in a treacherous attack.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The account is reported through Romilly, and the broader ethnographic
+    information on dreams is stated to be limited.
+- id: motif:2
+  label: dream-directed action
+  taxonomy_refs: []
+  basis: The passage explicitly says dreams influence actions, and the Wagawaga tale
+    gives an example of an old woman going to a place in obedience to a dream about
+    fish.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The Wagawaga example is summarized only briefly in this passage.
+- id: motif:3
+  label: other-place visit interpreted as dream experience
+  taxonomy_refs: []
+  basis: Visits by Wakuri and similar persons to the place printed as “the other work!”
+    are described as probably particularly vivid dreams, perhaps partly caused by
+    autosuggestion.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage frames this as the author’s probable interpretation rather
+    than a full account of the experience.
+comparison_claims:
+- id: claim:1
+  claim: 'Within this passage, a real-life report and a Wagawaga folk-tale example
+    are presented as sharing the same function: dreams influence subsequent human
+    action.'
+  claim_level: same_function
+  target: Dream-influenced action in the Tubetube voyage report and the Wagawaga story
+    “The Bat’s Cave.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:1
+  confidence: medium
+  limitations: The passage supports functional comparison only; it does not establish
+    historical contact, common inheritance, or a wider taxonomy assignment.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 36340-36346
+  quote_or_summary: The author says reliable information on dreams was lacking, dreaming
+    was common, some men had erotic dreams, and Wakuri-like visits to “the other work!”
+    were probably vivid dreams or autosuggestion.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 36346-36348
+  quote_or_summary: "“Dreams have a direct influence on the action of individuals
+    both in real life and in folk tales.”"
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 36350-36358
+  quote_or_summary: Romilly records that Tubetube men set out for a Milne Bay trading
+    voyage despite an old woman’s dream-warning, were apparently welcomed, and were
+    then tomahawked, except for one young man and a little boy.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain; source metadata marks full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 36360-36363
+  quote_or_summary: In the Wagawaga story “The Bat’s Cave,” an old woman dreams fish
+    will be caught at a certain place and goes there in the morning in obedience to
+    the dream.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain; source metadata marks full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief but explicit about dream-influenced action. No available
+    taxonomy motif or symbol refs were assigned because none clearly matched the supplied
+    details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Literal observations are separated from candidate motifs. Comparison is limited to the passage’s own contrast between real-life and folk-tale examples.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l36340-l36363
+  passage_sha256=4632aac9ad0f11d4b8ecf78caa658a9a874c93e41d718a70dd94687859f09f96
+

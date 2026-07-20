@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.buddhist-sutta-nipata-sbe10-fausboll-archive-l6591-l6727
+source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+passage_locator:
+  label: Q2 DHAMMAPADA. CHAP. XXVI. / THE BRAHMANA. 93 / THE BRAHMANA. 95 / INDEX.;
+    lines 6591-6727
+  start: '6591'
+  end: '6727'
+  translation: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an index section listing terms, figures, doctrinal topics,
+    and verse references. It includes entries for a bee as an emblem of a sage, Dipa
+    as island and arhatship, Death and its dominion, the Eightfold way, Agni as worshipped,
+    and Buddha’s last words and commandments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies itself as an index and states that its figures refer
+    to verse numbers.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bee is listed as an emblem of a sage.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dipa is listed both as island and as island associated with arhatship.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Death is indexed with entries for its dominion and for a king of Death.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Eightfold way is indexed with verse references.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Agni is indexed as worshipped.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Buddha is indexed with last words and commandments.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: sage
+  description: An unnamed sage is mentioned in the index as the figure for whom the
+    bee is an emblem.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Death
+  description: Death is indexed with references to dominion and to a king of Death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Agni
+  description: Agni is indexed as worshipped.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Buddha
+  description: Buddha is indexed with last words and commandments.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: sage
+  assigned_to:
+  - fig:1
+  basis: The index states that the bee is an emblem of a sage.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: figure associated with dominion of death
+  assigned_to:
+  - fig:2
+  basis: The index lists Death with its dominion and a king of Death.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: worshipped figure
+  assigned_to:
+  - fig:3
+  basis: The index entry states that Agni is worshipped.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: speaker or authority associated with last words and commandments
+  assigned_to:
+  - fig:4
+  basis: The index lists Buddha’s last words and commandments.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bee as sage emblem
+  literal_form: Bee
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: island as arhatship
+  literal_form: Dipa, island
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: bee as emblem of sage
+  taxonomy_refs:
+  - wisdom
+  basis: The index explicitly identifies the bee as an emblem of a sage.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an index entry, not a narrative passage; the motif is symbolic
+    rather than developed in a scene.
+- id: motif:2
+  label: island as spiritual attainment
+  taxonomy_refs: []
+  basis: The index glosses Dipa as island and also as island associated with arhatship.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage supplies only an index gloss and verse references; it does
+    not provide the full doctrinal or narrative context.
+- id: motif:3
+  label: dominion of Death
+  taxonomy_refs: []
+  basis: The index lists Death with its dominion and a king of Death.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The index does not describe a scene, journey, judgment, or personified
+    action by Death.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6591-6727, Index header
+  quote_or_summary: "“The figures of this Index refer to the numbers of the verses.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6591-6727, index entry for Bee
+  quote_or_summary: "“Bee, emblem of a sage, 49.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 6591-6727, index entries for Dipa
+  quote_or_summary: "“Dipa, island (arhatship), 25, 26.” and “Dipa, dvipa, island,
+    236, 238.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short quotations used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 6591-6727, index entries for Death
+  quote_or_summary: "“Death, its dominion, 86.” and “— king of, 170.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short quotations used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 6591-6727, index entry for Eightfold
+  quote_or_summary: "“Eightfold, the way, 191, 273.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 6591-6727, index entry for Agni
+  quote_or_summary: "“Agni, worshipped, 107, 392.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 6591-6727, index entries for Buddha
+  quote_or_summary: "“Buddha’s last words, 153, 154.” and “— commandments, 183, 185.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; short quotations used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an index rather than a narrative or doctrinal passage. Literal
+    extraction of entries is straightforward, but motif identification is limited
+    and should be reviewed in relation to the referenced verses.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another corpus or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-sutta-nipata-sbe10-fausboll-archive__l6591-l6727
+  passage_sha256=496d737f7e2cda2f324f6074c21cf2cbfb64acbf37a05b32fe084429679176b3
+

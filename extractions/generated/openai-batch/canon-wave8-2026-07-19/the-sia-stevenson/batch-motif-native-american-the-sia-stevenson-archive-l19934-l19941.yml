@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l19934-l19941
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: OSAGE CONSECRATION OP MYSTIC FIREPLACES. / THE THUNDEBBEING A WAKANDA. /
+    THUNDKR-BEING INVOKED BY WARRIORS. / ICTASANDA CUSTOM.; lines 19934-19941
+  start: '19934'
+  end: '19941'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Shamans are said to know whether an undertaking will result in good or
+    evil. A person who wants to join a large hunting party fills a pipe with tobacco
+    and offers it to a shaman to prompt prophecy. The shaman may be induced to sing
+    sacred songs about the result of traveling in a certain direction, and sometimes
+    the predicted event occurs; for example, game may be foretold as given by the
+    Thunder-beings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Shamans are described as knowing when an undertaking promises good or evil
+    for the person undertaking it.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person wishing to join a large hunting party fills a pipe with tobacco and
+    offers it to a shaman.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The offering is said to cause the shaman to prophesy.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The inquirer wants the shaman to know the result of following a certain course
+    or traveling in a certain direction.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The inquirer induces the shaman to sing sacred songs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sometimes the shaman predicts the occurrence that later comes to pass.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An example prophecy says that the inquiring man will kill game and that the
+    Thunder-beings have given quadrupeds.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: shamans
+  description: Religious specialists described as knowing whether undertakings promise
+    good or evil and as prophesying when consulted.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: person wishing to join a hunting party
+  description: An inquirer who fills a pipe with tobacco, offers it to a shaman, and
+    seeks knowledge about travel and hunting prospects.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Thunder-beings
+  description: Supernatural beings named in the example prophecy as having given quadrupeds.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: prophetic shaman
+  assigned_to:
+  - fig:1
+  basis: The shamans are said to know good or evil outcomes and to prophesy when offered
+    a filled pipe.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: hunting-party inquirer
+  assigned_to:
+  - fig:2
+  basis: The person seeks to join a hunting party and consults the shaman about the
+    result of travel and hunting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: supernatural givers of game
+  assigned_to:
+  - fig:3
+  basis: In the example speech, the Thunder-beings are credited with giving quadrupeds.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: pipe with tobacco
+  literal_form: a pipe filled with tobacco and offered to a shaman
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sacred songs
+  literal_form: songs sung by the shaman when induced by the inquirer
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Thunder-beings
+  literal_form: Thunder-beings named as giving quadrupeds
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: quadrupeds or game
+  literal_form: game or quadrupeds foretold as killed or given
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Consulting a shaman before a hunting journey
+  summary: A would-be member of a large hunting party offers a tobacco-filled pipe
+    to a shaman so that the shaman will prophesy about the outcome of traveling in
+    a certain direction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Prophecy of game from the Thunder-beings
+  summary: The passage gives an example in which the shaman foretells that the inquirer
+    will kill game and speaks of quadrupeds as given by the Thunder-beings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divination before undertaking a hunt or journey
+  taxonomy_refs: []
+  basis: The passage describes consulting a shaman before joining a hunting party
+    and traveling in a certain direction, with the shaman predicting the result.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No exact supplied taxonomy family directly names divination or prophecy.
+- id: motif:2
+  label: ritual offering to obtain prophecy
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The inquirer fills a pipe with tobacco and offers it to the shaman, causing
+    the shaman to prophesy.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states an offering and resulting prophecy, but does not explicitly
+    frame it as an exchange category.
+- id: motif:3
+  label: supernatural beings grant game
+  taxonomy_refs: []
+  basis: The example prophecy attributes quadrupeds to the Thunder-beings.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The statement occurs within an example of prophetic speech and is brief.
+- id: motif:4
+  label: specialist wisdom about good and evil outcomes
+  taxonomy_refs:
+  - wisdom
+  basis: Shamans are described as knowing whether undertakings promise good or evil
+    to the person undertaking them.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The available taxonomy label is broad; the passage concerns divinatory
+    knowledge rather than general wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19934-19935
+  quote_or_summary: Shamans know when something promises good or evil for the person
+    undertaking it.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19935-19937
+  quote_or_summary: A person wishing to join a large hunting party fills a pipe with
+    tobacco and offers it to a shaman, causing prophecy.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19937-19939
+  quote_or_summary: The inquirer wants knowledge about following a course or traveling
+    in a direction and induces the shaman to sing sacred songs.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 19939-19941
+  quote_or_summary: 'Sometimes the shaman predicts what comes to pass; for example:
+    “The Thunder-beings (?) have given me some quadrupeds.”'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; short quotation from public domain passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and clear for literal extraction. Motif labels are provisional
+    because the supplied taxonomy lacks a direct divination/prophecy family, and no
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied line range and metadata were used. The passage title references other topics, but extraction is limited to the provided passage text.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l19934-l19941
+  passage_sha256=99d685af0170c8a1153f8231a7c072da3ba0ff50cc648722327cae86bd5dc3b7
+

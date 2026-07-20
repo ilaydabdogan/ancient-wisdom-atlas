@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l9366-l9378
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: ORDEAL  167 / ORDEAL  169 / ORDEAL / ORDEAL  173; lines 9366-9378
+  start: '9366'
+  end: '9378'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses possible Phoenician or Mediterranean affinities in
+    local types and disinterred articles. It describes a small copper-and-brass object
+    found near Aking, looped like a pendant and ornamented with spirals, which a European
+    authority first judged to be early Mediterranean work, though after learning where
+    it was found he saw signs of a nearer origin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that strongly Phoenician types are sometimes encountered.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that some disinterred articles seem to show a Mediterranean
+    origin.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A small object made from a mixture of copper and brass was found near Aking.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The object was looped as if for use as a pendant and had delicate spiral ornamentation.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A European authority initially pronounced the object to be the work of an
+    early Mediterranean civilisation.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the place of discovery was disclosed, the connoisseur detected signs
+    of a nearer origin.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Narrating finder
+  description: The narrator says he found the small copper-and-brass object near Aking.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: European authority or connoisseur
+  description: An unnamed European authority examined the object and offered an attribution,
+    later modified after learning its place of discovery.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: finder of artifact
+  assigned_to:
+  - fig:1
+  basis: The narrator reports finding the small object near Aking.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: expert assessor of artifact origin
+  assigned_to:
+  - fig:2
+  basis: The authority pronounces an initial Mediterranean attribution and later detects
+    a nearer origin.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: copper-and-brass pendant-like object
+  literal_form: Small object made from a mixture of copper and brass, looped as if
+    for a pendant.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: spiral ornamentation
+  literal_form: Delicate spiral ornamentation on the small object.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Artifact found and assessed
+  summary: A small ornamented copper-and-brass object found near Aking is shown to
+    a European authority, who first identifies it as early Mediterranean work but
+    then notes indications of a nearer origin after learning where it was found.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the artifact and some local evidence with
+    Phoenician or early Mediterranean material culture, but it also reports a revised
+    assessment toward a nearer origin.
+  claim_level: visual_similarity
+  target: Phoenician or early Mediterranean material culture
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: The passage gives only a brief antiquarian attribution and correction;
+    it does not establish a mythological motif, historical contact, or secure cultural
+    origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9366-9369
+  quote_or_summary: The passage links strongly Phoenician types and some disinterred
+    articles with apparent Mediterranean origin.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9370-9373
+  quote_or_summary: A small copper-and-brass object, looped like a pendant and decorated
+    with delicate spiral ornamentation, was found near Aking.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9373-9375
+  quote_or_summary: An unnamed European authority at first judged the object to be
+    work of an early Mediterranean civilisation.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9375-9378
+  quote_or_summary: Once the place of discovery was disclosed, the connoisseur detected
+    signs of a nearer and less interesting origin.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: Literal artifact description is clear. No mythological motif candidate is
+    extracted; the only comparison is an explicit but limited antiquarian attribution
+    in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage is primarily ethnographic or antiquarian rather than narrative mythology; motif fields are therefore left empty except for literal object-symbol extraction and an explicitly qualified comparison claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l9366-l9378
+  passage_sha256=9dcfadb1c27d797e626665c912e1bf4aa0ff78ac1a3963d67812c1a35169afac
+

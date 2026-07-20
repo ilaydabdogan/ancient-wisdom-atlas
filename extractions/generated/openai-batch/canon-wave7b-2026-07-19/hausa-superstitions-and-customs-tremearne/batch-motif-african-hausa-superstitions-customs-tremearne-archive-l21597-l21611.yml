@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l21597-l21611
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: XLIX. / NOTES   ON   THE   TALES  487 / NOTES   ON   THE   TALES  489 / NOTES   ON   THE   TALES  491;
+    lines 21597-21611
+  start: '21597'
+  end: '21611'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: strangers who come in force are prima facie hostile
+  summary: The notes explain that an unnamed male would flee because an approaching
+    force of strangers would be taken as a hostile army. Another note says an episode
+    seems superfluous because nothing happens, though the editor thinks no part is
+    missing; the expected ending would have the father order the bad daughter to stay
+    in the bush. A further note glosses “Lest I win him from you” as a tabu, and another
+    says an unnamed male disliked such behavior in a stranger.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed male would have fled because he interpreted strangers coming in
+    force as a hostile army coming to destroy the city.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor says note [9] seems superfluous in the story because nothing happens,
+    and adds that a missing part is possible but unlikely because the usual ending
+    is present.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The editor states that the father ought to have ordered the bad daughter to
+    stay in the bush.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The phrase “Lest I win him from you” is glossed as a tabu.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An unnamed male did not like the described behavior in a stranger.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed male who would have fled
+  description: A male figure referred to only as “he,” said to have wanted to flee
+    from an approaching force.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: strangers coming in force
+  description: Strangers arriving in force, treated as prima facie hostile.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: father
+  description: A father who, according to the editor’s expected ending, ought to have
+    ordered the bad daughter to stay in the bush.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: bad daughter
+  description: A daughter labeled “bad,” whom the father was expected to order to
+    stay in the bush.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: potential fugitive
+  assigned_to:
+  - fig:1
+  basis: The note says he would have fled from the presumed hostile army.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: presumed hostile outsiders
+  assigned_to:
+  - fig:2
+  basis: The note states that strangers who come in force are prima facie hostile.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: expected giver of order
+  assigned_to:
+  - fig:3
+  basis: The editor says the father ought to have ordered the bad daughter to stay
+    in the bush.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: expected recipient of order
+  assigned_to:
+  - fig:4
+  basis: The bad daughter is the one whom the father ought to have ordered to stay
+    in the bush.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: bush
+  literal_form: the bush
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Presumed hostile approach to the city
+  summary: An unnamed male would flee because strangers arriving in force are taken
+    as a hostile army threatening the city.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Expected ending involving the bad daughter
+  summary: The editor remarks that the usual ending is present except that the father
+    should have ordered the bad daughter to remain in the bush.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Tabu phrase and disliked stranger behavior
+  summary: One note identifies the phrase “Lest I win him from you” as a tabu, and
+    another says an unnamed male disliked such behavior in a stranger.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: outsiders arriving in force presumed hostile
+  taxonomy_refs: []
+  basis: The passage states that strangers coming in force would be treated as prima
+    facie hostile, prompting flight.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The note is explanatory rather than a full tale episode.
+- id: motif:2
+  label: bad daughter expected to be left in the bush
+  taxonomy_refs: []
+  basis: The editor identifies an expected ending in which the father orders the bad
+    daughter to stay in the bush.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage says this ought to have happened; it is not stated as an action
+    that actually occurs in the preserved story.
+- id: motif:3
+  label: tabu utterance about winning someone away
+  taxonomy_refs: []
+  basis: The note explicitly glosses “Lest I win him from you” as a tabu.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The social or ritual context of the tabu is not supplied in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The note compares the preserved ending with a “usual ending” pattern in which
+    the father should order the bad daughter to stay in the bush.
+  claim_level: same_function
+  target: usual ending pattern referenced by the editor in the tale notes
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not identify other tales or provide a full comparative
+    corpus; the claim is limited to the editor’s brief statement.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21597-21601
+  quote_or_summary: "“hostile army coming to destroy the city” and “strangers who
+    come in force are prima facie hostile.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 21603-21607
+  quote_or_summary: Note [9] says the element seems superfluous because nothing happens,
+    allows that a part may be missing, but says the editor thinks not because the
+    usual ending is present.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 21607-21609
+  quote_or_summary: "“the father ought to have ordered the bad daughter to stay in
+    the bush.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: line 21610
+  quote_or_summary: "“Lest I win him from you — a tabu.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: line 21611
+  quote_or_summary: "“He did not like such behaviour in a stranger.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The excerpt consists of brief editorial notes rather than a continuous tale,
+    so figures and motifs are fragmentary and require review against the surrounding
+    story.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family references were assigned because the supplied excerpt does not strongly support any available taxonomy ID.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l21597-l21611
+  passage_sha256=2a9a80dbb9cfd5298c9f1e4094a9d4c5eada1a78d3c46e1c0037b880dd9ddbce
+

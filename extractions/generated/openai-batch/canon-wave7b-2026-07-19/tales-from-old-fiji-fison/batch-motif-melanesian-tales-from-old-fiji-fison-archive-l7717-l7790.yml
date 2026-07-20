@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l7717-l7790
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: THE    BEGINNING   OF   DEATH  151 / THE   BEGINNING   OF   DEATH  153 /
+    THE    DEATH-CANOES / THE   BEGINNING   OF   DEATH  155; lines 7717-7790
+  start: '7717'
+  end: '7790'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Fifita returns from fishing and finds his wife Moa lying on mats with their
+    child beside her. Moa describes their child seeing a little canoe from the beach,
+    becoming cold, and falling asleep. Moa herself feels as if she is drifting away
+    on a strong current, experiences chill and darkness, sees the child on a little
+    canoe and another larger canoe, says farewell to her husband, and becomes still.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fifita expected his wife and little daughter to meet him after fishing, but
+    they were absent when he landed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fifita went to the house and found Moa stretched on the mats with the child
+    lying beside her.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Moa looked up weakly; Fifita observed that her eyes were dim.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Moa said she felt as if she were drifting away on a strong current and asked
+    whether Fifita was also going or remaining behind.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Moa reported that at the beach the child stopped playing, looked seaward,
+    cried out about a little canoe, asked to be held, and felt intensely cold.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Moa carried the child home after the child fell asleep; Moa herself then felt
+    weary, chilled, and unable to see Fifita clearly as darkness grew for her.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Moa saw the child on a little canoe while also saying she held the child in
+    her arms; she also saw a larger canoe, said farewell to Fifita, answered the child’s
+    beckoning, and became still.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Fifita
+  description: Husband and father returning from fishing; he finds Moa and the child
+    at the house and sits beside Moa holding her hand.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Moa
+  description: Fifita’s wife and the child’s mother; she lies on mats, speaks faintly
+    of drifting away, recounts the child’s encounter with the little canoe, sees canoes,
+    and becomes still.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: little child / daughter
+  description: The little girl who usually greets Fifita; in Moa’s report she sees
+    a little canoe, becomes cold and asleep, and is later seen by Moa sitting on a
+    little canoe and beckoning.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: other children
+  description: Children on the beach with whom the little child was playing before
+    she stopped and looked seaward.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: returning husband and father
+  assigned_to:
+  - fig:1
+  basis: Fifita returns from fishing and expects wife and child to welcome him home.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wife and mother
+  assigned_to:
+  - fig:2
+  basis: Moa addresses Fifita as husband and speaks of the little one as her child.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: daughter / little child
+  assigned_to:
+  - fig:3
+  basis: The child calls Fifita father and is called Moa’s child.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: dying speaker
+  assigned_to:
+  - fig:2
+  basis: Moa describes departure, chill, darkness, and a vision of canoes before her
+    head sinks, her eyes close, and she is still.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: beckoning child on canoe
+  assigned_to:
+  - fig:3
+  basis: Moa sees the child sitting on a little canoe, smiling and beckoning her away.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: little canoe and larger canoe
+  literal_form: canoes seen by the child and then by Moa
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: strong current / seaward water
+  literal_form: Moa’s feeling of drifting on a strong current and the child looking
+    seaward
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: cold and upward-creeping chill
+  literal_form: the child is intensely cold; Moa feels a chill creeping upward to
+    her heart
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: darkening sight
+  literal_form: Moa says it is growing dark and she cannot see Fifita’s face
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: beckoning away
+  literal_form: the child smiles and beckons Moa away from a canoe
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Fifita returns and finds Moa and the child inside
+  summary: After returning from fishing, Fifita is surprised that Moa and the child
+    do not meet him. He goes to the house and finds Moa on mats with the child beside
+    her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Moa recounts the beach encounter with the little canoe
+  summary: Moa says that she and the child went to the beach to wait for Fifita. The
+    child stopped playing, looked seaward, cried about a little canoe, became cold,
+    and fell asleep in Moa’s arms.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Moa’s final vision and departure
+  summary: Moa feels drifting, chill, and darkness, then sees the child on a little
+    canoe and another larger canoe. She says farewell to Fifita, answers the child,
+    and becomes still.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: death as departure by canoe
+  taxonomy_refs:
+  - afterlife_journey_map
+  - departure
+  basis: Moa describes herself as drifting away, sees the child on a little canoe
+    and another larger canoe, says she is going, and then becomes still.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The destination of the canoes is not specified in this passage.
+- id: motif:2
+  label: death marked by cold, sleep, and darkness
+  taxonomy_refs: []
+  basis: The child becomes intensely cold and falls asleep; Moa feels weary, chilled,
+    and unable to see as darkness grows; her eyes close and she is still.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents these signs literally in the narrative, but does
+    not explicitly define them as a formal motif.
+- id: motif:3
+  label: the dead or departing child beckons the parent
+  taxonomy_refs:
+  - departure
+  basis: Moa sees her child sitting on a little canoe, smiling and beckoning her away,
+    and responds that she is coming.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only Moa reports the vision; the passage does not explain the child’s
+    state beyond coldness, sleep, and the vision.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to an afterlife-journey motif family
+    because dying is represented as going away by waterborne canoe imagery.
+  claim_level: same_function
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no explicit destination, underworld geography, or
+    named afterlife realm in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7717-7728
+  quote_or_summary: Fifita returns from fishing, expects his wife and daughter to
+    greet him, finds them absent, and discovers Moa on the mats with the child beside
+    her.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7730-7742
+  quote_or_summary: Fifita calls to the sleepers; Moa looks up weakly, and Fifita
+    sees that her eyes are dim and asks what ails her.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 7744-7756
+  quote_or_summary: Moa says it is as if she were “drifting away on a strong current”
+    and asks whether her husband is also going or remains behind.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 7760-7775
+  quote_or_summary: Moa recounts that the child stopped playing on the beach, looked
+    seaward, cried about a little canoe, asked to be clasped because she was cold,
+    and then fell asleep as Moa carried her home.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 7775-7783
+  quote_or_summary: Moa feels a chill creeping upward to her heart, says it is growing
+    dark and she cannot see Fifita’s face, and her voice fades while Fifita holds
+    her hand in terror.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 7784-7790
+  quote_or_summary: Moa sees the child sitting on a little canoe and beckoning, sees
+    another larger canoe, says farewell to Fifita, says she is coming to the child,
+    then her head sinks, her eyes close, and she is still.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly supports the literal extraction and the canoe-departure
+    motif candidate. Broader comparative classification remains tentative because
+    the excerpt does not name a destination or explain the canoes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text, locator metadata, source metadata, and available taxonomy references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l7717-l7790
+  passage_sha256=d457b4b8bd15f0cc77acc882b4c1df877db04958028431002329ff512f81ee8b
+

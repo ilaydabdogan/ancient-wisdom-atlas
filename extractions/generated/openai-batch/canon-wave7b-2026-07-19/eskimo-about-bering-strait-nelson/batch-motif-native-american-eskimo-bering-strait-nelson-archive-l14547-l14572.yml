@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l14547-l14572
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: SPEAR   AND   PADDLE   GUARDS / SPEAR    AND    PADDLE    GUARDS / TRADE  AND  TRADING  VOYAGES
+    / TRADING    VOYAGES  229; lines 14547-14572
+  start: '14547'
+  end: '14572'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes difficult navigation in Bering Strait, lists barter
+    goods associated with islanders, Siberian coast communities, and St Lawrence islanders,
+    and recounts trading voyages by St Lawrence islanders and by Tinue people from
+    Anvik to St Michael.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Navigation in Bering Strait is described as difficult for frail boats because
+    fog often prevents both shores from being seen.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Islanders of Bering Strait are said to barter rawhide line, tanned sealskins,
+    and waterproof sealskin boots.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At East Cape and along the Siberian coast, including St Lawrence Island, trade
+    articles include walrus ivory, whalebone, white fox skins, and reindeer skins.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: St Lawrence islanders make frequent trading voyages to the Siberian coast
+    to obtain reindeer skins for clothing.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The same people formerly traveled along the American coast as far as Cape
+    Nome, but the passage says this had not occurred recently.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: In summer 1879, Tinue people from Anvik descended the lower Yukon in several
+    umiaks to St Michael to exchange wooden tubs and dishes for seal oil and other
+    coastal products.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bering Strait islanders
+  description: Island communities described as having rawhide line, tanned sealskins,
+    and waterproof sealskin boots for barter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Eskimo at East Cape and along the Siberian coast, including St Lawrence
+    Island
+  description: Coastal communities associated with walrus ivory, whalebone, white
+    fox skins, and reindeer skins as trade articles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: St Lawrence islanders
+  description: Islanders who make frequent trading voyages to the Siberian coast for
+    reindeer skins and formerly traveled along the American coast as far as Cape Nome.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Tinue from Anvik
+  description: People from Anvik on the lower Yukon who traveled in umiaks to St Michael
+    in 1879 for exchange.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: barter-goods holders
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage lists goods each group had or used as articles of trade.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: trading voyagers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage describes St Lawrence islanders making trading voyages and the
+    Tinue descending the Yukon in umiaks to trade.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: exchange visitors
+  assigned_to:
+  - fig:4
+  basis: The Tinue visited St Michael to exchange wooden tubs and dishes for seal
+    oil and coastal products.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: boats for travel and exchange
+  literal_form: frail boats; umiaks
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: trade goods
+  literal_form: rawhide line, sealskins, sealskin boots, walrus ivory, whalebone,
+    fox skins, reindeer skins, wooden tubs, wooden dishes, seal oil
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: water crossing routes
+  literal_form: Bering Strait, Siberian coast route, lower Yukon descent to St Michael
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Difficult Bering Strait navigation
+  summary: The narrator frames Bering Strait travel as difficult because of frail
+    boats and fog-obscured shores.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Regional barter goods
+  summary: The passage lists goods associated with Bering Strait islanders and with
+    East Cape and Siberian coast Eskimo communities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: St Lawrence trading voyages
+  summary: St Lawrence islanders travel to the Siberian coast for reindeer skins and
+    formerly traveled along the American coast to Cape Nome.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Tinue exchange voyage to St Michael
+  summary: Tinue people from Anvik descend the Yukon in umiaks to exchange wooden
+    tubs and dishes for seal oil and other coastal products.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: long-distance trading voyage
+  taxonomy_refs: []
+  basis: Multiple groups are described traveling by water to exchange goods across
+    coastal, island, and riverine routes.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic trade pattern rather than a mythic or sacred narrative
+    motif.
+- id: motif:2
+  label: exchange of inland and coastal products
+  taxonomy_refs: []
+  basis: The Tinue bring wooden tubs and dishes from the Yukon region to St Michael
+    in exchange for seal oil and other coastal products; St Lawrence voyages seek
+    reindeer skins for clothing.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage does not attach ritual or symbolic meaning to the exchanges.
+comparison_claims:
+- id: claim:1
+  claim: The St Lawrence islanders' voyages to the Siberian coast and the Tinue voyage
+    to St Michael share the same practical function of waterborne travel for exchange
+    of desired goods.
+  claim_level: same_function
+  target: waterborne trading-voyage pattern within the Bering Strait, Siberian coast,
+    and lower Yukon region
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports functional similarity only; it does not support
+    historical contact beyond the described routes or any sacred-exchange interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14547-14552
+  quote_or_summary: The narrator says Bering Strait navigation in frail boats is difficult;
+    during six passages in 1881, fog allowed both shores to be seen only once.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14552-14556
+  quote_or_summary: Bering Strait islanders' barter goods are rawhide line, tanned
+    sealskins, and waterproof sealskin boots.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14556-14560
+  quote_or_summary: At East Cape and along the Siberian coast, including St Lawrence
+    Island, trade goods include walrus ivory, whalebone, white fox skins, and reindeer
+    skins.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14560-14562
+  quote_or_summary: St Lawrence islanders frequently travel to the Siberian coast
+    to obtain reindeer skins for clothing.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 14562-14567
+  quote_or_summary: The passage says these people formerly went along the American
+    coast as far as Cape Nome, but not recently; the Siberian headland can be visible
+    from St Lawrence Island on clear days.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 14568-14572
+  quote_or_summary: In summer 1879, Tinue people from Anvik descended the Yukon in
+    several umiaks to St Michael to exchange wooden tubs and dishes for seal oil and
+    other coastal products.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear ethnographic description of trade and travel. Motif
+    labeling is limited because no mythic, ritual, or sacred dimension is stated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No sacred or narrative mythology motif is explicit in this passage; extracted patterns are practical trade and travel patterns only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l14547-l14572
+  passage_sha256=b2e5491cad4db06682e08ed734f970cb048ad764d5dbd0d740f3ce231ef3eb1f
+

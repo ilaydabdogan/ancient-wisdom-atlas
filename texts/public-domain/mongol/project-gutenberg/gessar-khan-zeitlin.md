@@ -24,7 +24,7 @@ provenance:
   publication_year: 1927
   publisher: Internet Archive
   source_url: https://archive.org/details/gessarkhan0000unse
-  access_date: '2026-07-17'
+  access_date: '2026-07-19'
 rights:
   status: public_domain
   jurisdiction: US
@@ -71,91 +71,6 @@ figures:
 
 # Gessar Khan
 
-tifa tebe ‘
-eT TALS
-a) tel :
-
-
-a iit
-
-
-uty
-f
-i
-f nt
-AAT A OUR aE
-+ - f , ) ‘) 4
-Yi atid ’ fai i Hit Hit Hat Ht
-Sante iH ity HSIEH Ot atl
-Att} tote é
-i
-
-
-i)
-
-
-4
-it
-
-
-?
-sit itat
-
-
-es
-
-
-J
-
-
-¢
-
-
-oe
-
-
-cod
-
-
-Digitized by the Internet Archive
-in 2026
-
-
-https://archive.org/details/gessarkhanO000unse
-
-
-GESSAR KHAN
-
-
-GESSAR KHAN
-
-
-TOLD BY
-
-
-IDA ZEITLIN
-ILLUSTRATED BY
-
-
-THEODORE NADEJEN
-
-
-GEORGE H.DORAN COMPANY
-ON MURRAY HILL~NEW YORK
-
-
-COPYRIGHT, 1927,
-BY GEORGE H. DORAN COMPANY
-
-
-iD
-
-
-GESSAR KHAN
-= pi
-PRINTED IN THE UNITED STATES OF AMERICA
-
-
 FOREWORD
 
 
@@ -171,8 +86,7 @@ translation. It is upon this German translation, entitled Die Thaten
 Bogda Gesser Chans and published in St. Petersburg in 1839, that
 the present version is principally based, although reference has also
 been made to Benjamin Bergmann’s account of the so-called Little
-Gesser, translated from a Kalmuck original, and included in No-
-madische Streifereien, Volume III, published in Riga in 1804.
+Gesser, translated from a Kalmuck original, and included in Nomadische Streifereien, Volume III, published in Riga in 1804.
 
 Whether the origin of the epic is Tibetan or Mongolian is not
 clear, since it has been set down in both languages, but Professor
@@ -182,11 +96,9 @@ Vv
 
 Schmidt inclined to the former view through the weight of internal
 evidence. Himself a student and lover of Oriental lore, he saw in
-this work a source of living material, hitherto inaccessible to Euro-
-peans, on the modes of speech and manners of life of the nomad
+this work a source of living material, hitherto inaccessible to Europeans, on the modes of speech and manners of life of the nomad
 tribes; and although his interest was primarily scholarly, he was not
-indifferent to the treasure of pure folk narrative he had made avail-
-able, and of which this volume seeks to take advantage.
+indifferent to the treasure of pure folk narrative he had made available, and of which this volume seeks to take advantage.
 
 
 IDA ZEITLIN.
@@ -261,16 +173,7 @@ let
 Sy)
 
 
-59
-
-
-81
-
-
 a
-
-
-123
 
 
 VII. OF THE TREACHERY OF THE VILE CHOTONG, WHEREBY THE
@@ -299,9 +202,6 @@ Vill
 
 
 PAGE
-
-
-145
 
 
 vary 2 oe
@@ -392,19 +292,15 @@ feasted for another hundred years and for another.
 
 And suddenly a roar shattered the heavens, as though
 ten thousand dragons called to one another, and all amazed,
-Kormuzda saw how the great wall that guarded his king-
-dom on the west shuddered and fell and crumbled into ruin.
+Kormuzda saw how the great wall that guarded his kingdom on the west shuddered and fell and crumbled into ruin.
 
 And he was wroth, and laying hold upon his weapon,
 he cried: “What foe ventures to storm the walls of the high
 gods? Let him appear, and though he be the fifteen-headed
 dragon, or lord of the Assuri of evil fame, I will challenge
-him to combat, and he that is the victor, let him rule hence-
-forth in triumph over my domain.”
+him to combat, and he that is the victor, let him rule henceforth in triumph over my domain.”
 
 But none gave answer to his challenge, and advancing
-
-12
 
 
 upon the shattered wall that even now had towered in
@@ -442,16 +338,13 @@ And Weele answered: “I am the son of a mighty god,
 and these creatures that crawl upon the surface of the earth
 are men. What is their doom to me? Let Ameen descend
 
-13
-
 
 to do our father’s bidding, for it is meet that the eldest-born
 should be first in deeds of valor. Or if it be his pleasure,
 let Tagus descend. I yield my right to him. But as for me,
 I have no liking for this enterprise, and I will not go!”
 
-And now the messenger betook himself to Tagus, Kor-
-muzda’s youngest son, and spoke to him, saying: “Beloved of
+And now the messenger betook himself to Tagus, Kormuzda’s youngest son, and spoke to him, saying: “Beloved of
 thy sire! Kormuzda bids thee descend to earth to rule in
 wisdom over the tribes of men!”
 
@@ -461,13 +354,11 @@ My heart is clamorous and my feet impatient to do my
 father’s bidding, yet I fear to bring dishonor on the heads
 of those to whom my love is due.”
 
-And the messenger returned and made known to Kor-
-muzda the words that his sons had spoken. And Kormuzda,
+And the messenger returned and made known to Kormuzda the words that his sons had spoken. And Kormuzda,
 seated in splendor amid the three and thirty gods that served -
 his will, bade his sons appear before him. And he
 said to them: “When I commanded you, belovéd sons, to
-sojourn upon the earth, that ye might cleanse it of corrup-
-tion and rule in wisdom over the tribes of men, this was
+sojourn upon the earth, that ye might cleanse it of corruption and rule in wisdom over the tribes of men, this was
 done not to please my fancy, but in obedience to the will of
 the Shining One. I counted you hitherto my children, but
 now it doth appear ye are my sire, and I your duteous son.
@@ -479,13 +370,10 @@ And his three sons bowed their bright heads before
 Kormuzda’s wrath, crying: “Wherefore does the prince of
 heaven pierce our hearts with words of bitterness?”
 
-14
-
 
 And Ameen the first-born said: ‘Well do I know that
 this task is greater than my strength, and therefore I denied
-thee, sire. For men would cry: ‘This braggart boasts him-
-self Kormuzda’s son, and comes to be our lord! Yet his
+thee, sire. For men would cry: ‘This braggart boasts himself Kormuzda’s son, and comes to be our lord! Yet his
 sword is powerless, and his puny arm falters before the
 onslaughts of our enemy. Kormuzda’s son, forsooth! Ho,
 what a god is this that breeds such weaklings!’ ”
@@ -516,8 +404,6 @@ And Tagus answered: “T will undertake it.”
 
 “What treasures wilt thou choose of my goodly store
 that thy labors upon earth may be lightened?”
-
-15
 
 
 “Thine armor that is fashioned of seven jewels and
@@ -558,8 +444,6 @@ Buddha to mankind.”
 
 And ‘Tagus bade the assembled gods farewell, then
 
-16
-
 
 i
 
@@ -577,9 +461,6 @@ ER
 Sf
 
 
-7
-
-
 bowed before his father, and went to prepare himself for
 mortal birth.
 
@@ -590,8 +471,7 @@ the tribe of Lik.
 
 And Chotong came one day before his brother and said:
 “Tet us make war upon Bayan our neighbor and seize his
-lands, for he plots evil against us. And when we have over-
-thrown him, I will share with thee his people and his herds.
+lands, for he plots evil against us. And when we have overthrown him, I will share with thee his people and his herds.
 But his daughter, Amurtsheela the Fair, shall be my prize.”
 
 And they rode against Bayan. And Sanglun rode to the
@@ -604,8 +484,7 @@ captive.
 
 Then Chotong, black of heart, betrayed his brother, and
 took unto himself the flocks and lands and all the spoils of
-battle. And he cried to Sanglun: “I will give thee Amurt-
-sheela, brother, to comfort thee. For she is lame of her
+battle. And he cried to Sanglun: “I will give thee Amurtsheela, brother, to comfort thee. For she is lame of her
 wound, and, like an agéd crone she drags her limbs, and I
 will have none of her.”
 
@@ -615,8 +494,6 @@ walked lightly as a soft-footed doe, fairest among the
 daughters of Tibet.
 
 And now Chotong cast envious eyes upon her, and
-
-18
 
 
 would have taken her into his household, but she denied him.
@@ -645,16 +522,12 @@ three rivers meet, and Amurtsheela gathered firewood to
 warm them, and Sanglun led their beasts to pasture, and
 hunted mountain hares that they might eat.
 
-And on an evening when the moon was new, and Amurt-
-sheela took her way home from the forest, a voice spoke in
+And on an evening when the moon was new, and Amurtsheela took her way home from the forest, a voice spoke in
 her ear: “Thou god-appointed one! At the full moon thou
 shalt bear three daughters, and a son destined for lofty
-deeds!” And the voice ceased from speaking, and Amurt-
-sheela went on her way.
+deeds!” And the voice ceased from speaking, and Amurtsheela went on her way.
 
 And when the moon was full, she said to Sanglun: “Go
-
-19
 
 
 not abroad on the morrow, I pray thee, Sanglun, for my
@@ -662,12 +535,10 @@ heart is filled with strange forebodings, and I would have
 thee by me to cheer my solitude.”
 
 But he answered: “Nay, if I sit idle by thy side, how
-shall our food be snared, and our few sorry beasts be pas-
-tured? Take heart, fair Amurtsheela, for naught can harm
+shall our food be snared, and our few sorry beasts be pastured? Take heart, fair Amurtsheela, for naught can harm
 thee.”
 
-And the day broke and waxed and waned, and at night-
-fall Amurtsheela the Fair bore three daughters, and their
+And the day broke and waxed and waned, and at nightfall Amurtsheela the Fair bore three daughters, and their
 beauty was as the brightness of clear crystal, and as the
 burning of a radiant flame.
 
@@ -693,8 +564,6 @@ but his left hand was balled into a fist, and his right foot was
 turned up, and his left foot down, and five and forty teeth
 were clenched in his mouth.
 
-20
-
 
 And Amurtsheela lifted up her voice and cried: “What
 monster is this that issues from my body, and gazes at me
@@ -706,8 +575,7 @@ is wrought by mighty shimnus. My forward-gazing eye
 pierces the mystery of what has been and what is yet to be.
 My right hand, raised aloft, bids my foe beware, while my
 left hand, clenched together, bears witness that no enemy
-of the gods shall escape my wrath. One foot points down-
-ward in token that unrighteousness shall be crushed beneath
+of the gods shall escape my wrath. One foot points downward in token that unrighteousness shall be crushed beneath
 its heel, and one points up to proclaim to all mankind that
 Buddha’s law shall be exalted to the skies. And for my five
 and forty gnashing teeth, these are a sign that in the end all
@@ -740,8 +608,7 @@ brawls and glowers and brandishes his arms and makes as
 though he would devour me with his five and forty teeth.”
 
 “Nay, how canst thou know that a demon sired him and
-not a god? For look on this treasure I have taken of four-
-score mountain hares, all in the single hour since his birth,
+not a god? For look on this treasure I have taken of fourscore mountain hares, all in the single hour since his birth,
 though never before have I brought thee more than seven.
 It may be that I laid the snares more cunningly than I am
 wont, or it may be that the child is blessed of heaven.
@@ -808,11 +675,8 @@ father, and ye chosen ones that stand about his throne! Ye
 dragon princes of the deep! Ye deities of the realm of great
 Iswara! Give ear to me, for I am Tagus, born among men
 
-23
 
-
-according to the word of the Lord Buddha and at your bid-
-ding. In this poor body is my spirit housed, and with this
+according to the word of the Lord Buddha and at your bidding. In this poor body is my spirit housed, and with this
 sacrifice do I proclaim myself your servant and your son!”
 
 And the gods cried to one another: “It is Tagus that
@@ -834,15 +698,13 @@ with loud acclaim and led to the feast, and now I make no
 doubt they have devoured the last sweet morsel of thy goodly
 rams.”
 
-And the wrath of Sanglun knew no bounds, and seiz-
-ing his lash, he cried: “Yoro shall answer to me for this
+And the wrath of Sanglun knew no bounds, and seizing his lash, he cried: “Yoro shall answer to me for this
 offense.”
 
 But when his guests had eaten their fill and returned to
 the skies, Yoro had swung the skin of each slaughtered ram
 thrice round his head, and lo! they stood quietly among their
-fellows and cropped the pasture. And he drove them home-
-ward, and his brother Shikeer walked by his side.
+fellows and cropped the pasture. And he drove them homeward, and his brother Shikeer walked by his side.
 
 And Sanglun came to meet them, but when he would
 
@@ -883,8 +745,6 @@ Rongsa and beat him with the bridle of his steed, crying:
 “Thou bearer of false tales! Thou lying rogue! Long ere
 thy coming Yoro kept my herds, and they flourished and
 
-26
-
 
 increased, till now they cover all the mountainside. But
 had he slaughtered them as thou hast told, their numbers
@@ -921,8 +781,6 @@ youth, and since it must be that thy spirit matches thy
 tongue, I will give thee a task. Go to the country of the
 seven alwins that devour each day the flesh of seven hundred
 men and beasts. Say that Chotong hath sent thee as a tender
-
-27
 
 
 morsel for their delight, and take thy mother with thee, that
@@ -962,18 +820,15 @@ magic wands. And in a mountain cleft he caught seven
 
 
 hares and roasted them, and the wind bore their savor to the
-28
 
 
 nostrils of the seven alwins. And presently they rode into
 camp, and on his back each alwin bore a hundred mortals
 and a hundred steeds. And they cried: “What feast is
-this whose pleasant savor the wind hath borne to our nos-
-trilsP” And their voices were as the voices of lions that
+this whose pleasant savor the wind hath borne to our nostrilsP” And their voices were as the voices of lions that
 have hungered overlong.
 
-And Yoro cried: “A feast no god would spurn of moun-
-tain hares and broth and sweet black tea. Pray sit and eat,
+And Yoro cried: “A feast no god would spurn of mountain hares and broth and sweet black tea. Pray sit and eat,
 and lay aside against the morrow’s need the meal ye bear
 on your backs.”
 
@@ -998,8 +853,6 @@ And the alwins bestrode the seven wands, crying:
 Pierce the thick mountains! Bear us to the distant shores
 of the sea!” And lifting their heads, the seven wands soared
 upward and passed over flowering plains and shining rivers.
-
-29
 
 
 And when they reached the mountains, they pierced the
@@ -1036,8 +889,6 @@ And the board was laden with all manner of pleasant foods,
 and the wine flowed freely, yet neither food nor wine was
 proffered to the lips of the wayfarers.
 
-30
-
 
 And at length Yoro cried: “Chotong! My uncle! A
 mountain of meat lies here and a river of wine! My happy
@@ -1058,8 +909,7 @@ carcasses of beasts dead of the plague. And if these things
 suffice thee not, good nephew, then take sorrow and take
 venom and take death!”
 
-And Chotong released a wasp from his nostril and whis-
-pered in her ear: “Enter the nostril of mine enemy and,
+And Chotong released a wasp from his nostril and whispered in her ear: “Enter the nostril of mine enemy and,
 creeping upward till thou find his brain, pierce it with thy
 deadly fang!”
 
@@ -1072,8 +922,6 @@ his hand.
 And straightway Chotong fell down from his throne and
 lay upon the ground, as one that had been stricken by the
 hand of death. But when Yoro loosed his hold upon the
-
-31
 
 
 wasp, he rose up again and bowed at Yoro’s feet. And so
@@ -1092,8 +940,7 @@ custom in Tibet that whoso weds with the son of a great
 prince should veil her countenance for three years and a day
 from the gaze of all save her kinsmen. Yea, even she that
 weds with a humble man will hold herself from sight for
-three full moons. Yet here is one, pledged to the son of Cho-
-tong, that bares her face to me on her bridal day. Is this wasp
+three full moons. Yet here is one, pledged to the son of Chotong, that bares her face to me on her bridal day. Is this wasp
 that I hold captive perchance thy husband or thy father or
 thy mother, that thou dost sue thus shamelessly for her life?”
 And with these words, Yoro turned his back upon her.
@@ -1109,8 +956,6 @@ may his right hand be shattered! And now I pray thee, Yoro,
 release the wasp, and thou shalt wed with the Lady
 Kimsun!”
 
-32
-
 
 And Yoro answered: “I may not wed with the Lady
 Kimsun, but she shall be the bride of my brother Shikeer,
@@ -1121,8 +966,7 @@ fluttered in his hand, and he spoke to Chotong, saying:
 “Arise and bow down before my mother whom thou hast
 wronged, and entreat her pardon.”
 
-And Chotong bowed thrice before Amurtsheela, entreat-
-ing her pardon, and laid his brow upon her feet.
+And Chotong bowed thrice before Amurtsheela, entreating her pardon, and laid his brow upon her feet.
 
 And Yoro released the wasp and she entered into the
 nostril of Chotong. And he bore himself arrogantly as of
@@ -1182,8 +1026,6 @@ Khan, and so radiant was her beauty that of all the princes
 of her father’s tribe, none was deemed worthy to be her
 mate.
 
-7
-
 
 And she sought audience of Sengeslu Khan and said to
 him: “I will journey to the land of Tibet and seek me there
@@ -1206,8 +1048,7 @@ shone brightly among them, yet when they vanished and the
 heavens cleared, out of the clear heavens the rains poured
 down. A unicorn and a blue elephant paced round and
 round about my father’s dwelling, and a cuckoo sang above
-my mother’s head, while on her right hand perched a para-
-keet and on her left a bird without a name. These are the
+my mother’s head, while on her right hand perched a parakeet and on her left a bird without a name. These are the
 sions of wonder that marked my birth, and therefore am I
 come among you to seek the hero destined to wed with the
 Lady Rogmo.
@@ -1217,8 +1058,6 @@ whom the mightiest princes of our tribe have sought in vain
 to overthrow, three bowmen whose skill is such that when
 they have shot their arrows from the bow, a man may thrice
 brew tea to slake his thirst ere they return again. More-
-
-38
 
 
 over, so truly do they aim that each one marks the spot where
@@ -1230,8 +1069,7 @@ still excel it.”
 
 And having spoken, Rogmo galloped to the crest of a
 high hill that overlooked the field, and saw how the lords
-and princes of Tibet strove with her archers and her war-
-riors and strove in vain. And she cried in scorn: “Though
+and princes of Tibet strove with her archers and her warriors and strove in vain. And she cried in scorn: “Though
 ye be heroes and the sons of gods, yet ye are powerless to
 overthrow my champions!”
 
@@ -1253,11 +1091,8 @@ And Yoro’s blesséd sisters, seeing his need, lifted him
 from the earth and set one foot upon a mountain top and one
 on the shore of the sea. And stooping, Yoro seized the
 strongest of Lady Rogmo’s warriors and hurled him over
-his head. And the distance that he hurled him was a thou-
-sand leagues. And the second he hurled two thousand
+his head. And the distance that he hurled him was a thousand leagues. And the second he hurled two thousand
 leagues behind him, and the third and weakest, three thou-
-
-32
 
 
 sand. And the people gazed in wonder upon Yoro who had
@@ -1283,21 +1118,17 @@ cried: “Peace, foolish ones! It is the dart of Yoro that
 returns from its far flight!”
 
 And the singing shaft plunged itself into the earth where
-Yoro’s head had rested, and the gaily plumaged birds hov-
-ered above him, then soared, still singing, into the blue
+Yoro’s head had rested, and the gaily plumaged birds hovered above him, then soared, still singing, into the blue
 heavens.
 
 And the tribesmen shouted: “Hail to thee, Yoro,
 defender of the valor of Tibet!”
 
-And Chotong and the great ones that had been van-
-quished murmured one to another: “Yea, though he be a
+And Chotong and the great ones that had been vanquished murmured one to another: “Yea, though he be a
 stripling and ill-favored, with eyes that look askance, yet he
 hath won the Lady Rogmo for his bride.”
 
 And Rogmo descended from the crest of the high hill
-
-40
 
 
 ‘i
@@ -1306,11 +1137,9 @@ And Rogmo descended from the crest of the high hill
 and looked upon the ill-favored one that claimed her hand.
 And she would have turned away in displeasure, but Shikeer
 held her fast. And he spoke, saying: “Thou art fair,
-Rogmo, but thou art a woman. And though he be ill-
-favored as any goat, yet Yoro isa man. ‘Therefore, submit
+Rogmo, but thou art a woman. And though he be illfavored as any goat, yet Yoro isa man. ‘Therefore, submit
 thyself as woman should. Nor be so soon forgetful of thy
-pledge to wed with him that should encounter thy cham-
-pions and vanquish them!”
+pledge to wed with him that should encounter thy champions and vanquish them!”
 
 And Rogmo could not choose but yield her hand to
 Yoro. And with a blade he pricked his finger, and through
@@ -1339,8 +1168,6 @@ the silver shadow of the moon!”
 And they journeyed farther, and the Lady Rogmo cried:
 “Nay, it 1s neither the wind’s breath nor the shadow of the
 
-42
-
 
 moon that lies upon my cheek! I pray thee, look again!”
 
@@ -1363,8 +1190,7 @@ great Sengeslu Khan, watching from afar, turned to his
 councillors and cried: “It must be that our daughter is
 fallen to the lot of China’s glorious Khan!”
 
-And now the cloud of dust grew less, as though a thou-
-sand chargers, fleet of foot, drove it before them. And the
+And now the cloud of dust grew less, as though a thousand chargers, fleet of foot, drove it before them. And the
 joy of Sengeslu Khan was abated and he cried: “Though
 she hath missed the mightiest, yet she returns the bride of
 some great lord whose name will be to us a crown of glory.”
@@ -1378,18 +1204,14 @@ black with foreboding, but he took heart again, crying:
 And now, surrounded by his chieftains, he made ready
 to welcome the Lady Rogmo and him that she had chosen
 
-43
 
-
-from all the world to be her worthy mate. And the caval-
-cade approached his yurta, and his daughter alighted from
+from all the world to be her worthy mate. And the cavalcade approached his yurta, and his daughter alighted from
 her steed and bowed before him, weeping bitterly. And
 Yoro followed after her.
 
 And her father looked upon him and cried: “Ts this the
 hero thou hast sought through the broad earth? Is this the
-god that hath subdued thine arrogance? Truly, my daugh-
-ter, thou hast chosen a strange husband, and there is none
+god that hath subdued thine arrogance? Truly, my daughter, thou hast chosen a strange husband, and there is none
 that will dispute thy choice with thee. Only beware lest the
 hounds howling at night mistake him not for an abandoned
 carcass and so devour him!” And turning his back upon
@@ -1414,15 +1236,12 @@ until at length they reached the kingdom of Sengeslu Khan.
 And they halted before his abode, and he came forth
 amid his councillors and spoke to them, saying: ‘‘Whence
 
-44
-
 
 do ye come, men of an alien land, and what is your will
 with meP”
 
 And they answered: “We come from far Tibet, where
-Yoro strove against thy daughter’s champions and over-
-threw them. And we would have thee yield her up to us,
+Yoro strove against thy daughter’s champions and overthrew them. And we would have thee yield her up to us,
 for Yoro is unworthy to be her mate.”
 
 “And though he be unworthy, how shall I take her from
@@ -1436,22 +1255,18 @@ thou art fain to cling to this treasure thou hast won, know
 that the princes of Tibet have wrought destruction upon
 heads nobler than thine.”
 
-And Sengeslu Khan, being a just monarch and a right-
-eous, yet fearful of the loud-tongued strangers that menaced
+And Sengeslu Khan, being a just monarch and a righteous, yet fearful of the loud-tongued strangers that menaced
 him, knew not how he should reply to them. And he went
 apart with his ministers, and they took council together, and
 presently he returned to the princes of Tibet and his answer
 was in his mouth.
 
 “Fierce words have ye spoken, warriors from afar, and
-patiently have I heard you. Hear ye now me. In marks-
-manship and in the art of single combat Yoro hath shown
+patiently have I heard you. Hear ye now me. In marksmanship and in the art of single combat Yoro hath shown
 himself your master. Yet he is graceless and mean of stature
 and ill-fitted to wed with the Lady Rogmo. Therefore do
 I decree a match among you, and he whose steed shall first
 bear him to the appointed goal, shall take the Lady Rogmo
-
-45
 
 
 to wife. But if my decree offend you, then let us wage war
@@ -1461,8 +1276,7 @@ course.”
 And Chotong answered: “Let it be as thou hast
 decreeds«
 
-And the edict went forth, and thirty thousand men gath-
-ered to contend for the hand of the Lady Rogmo. And Yoro
+And the edict went forth, and thirty thousand men gathered to contend for the hand of the Lady Rogmo. And Yoro
 scattered incense and offered up a sacrifice to Kormuzda,
 crying: “My father and father of the gods! Let the brown
 wonder-steed descend, for I have need of him!”
@@ -1490,15 +1304,12 @@ thou hope with this beast, unsightly as thyself, to overtake
 the proud steeds of thy rivalsP Or is it thy purpose to affront
 my daughter, unhappy that she is? Go take a stallion from
 
-46
-
 
 my herds, swift-paced and ardent, and leave this stunted
 foal, lest thou shame me beyond all measure in the sight of
 men.”
 
-And Yoro answered: “I will not take thy stallion, swift-
-paced and ardent, but on my stunted foal I will run this
+And Yoro answered: “I will not take thy stallion, swiftpaced and ardent, but on my stunted foal I will run this
 match and abide the issue.”
 
 And Sengeslu Khan raised his hand aloft, signalling the
@@ -1528,8 +1339,6 @@ seek but to safeguard my treasure from thieves that would
 despoil me, and thy blue-black steed hath barred my way.”
 So saying, he galloped past him and reached the goal.
 
-47
-
 
 And Sengeslu Khan proclaimed: “Yoro hath won my
 daughter a second time.”
@@ -1555,16 +1364,13 @@ thirteen strands, Chotong espied him and hailed him with
 honeyed words, crying: “Now is the maiden thine, good
 nephew, beyond gainsaying, and none shall take her from
 thee. Therefore, I pray thee, give me the Wild Boar’s tail
-and I will bind it upon the bridle of my steed, and as the her-
-ald of thy valor will I bear it before the people, crying: ‘Yoro,
+and I will bind it upon the bridle of my steed, and as the herald of thy valor will I bear it before the people, crying: ‘Yoro,
 my kinsman, hath slain the Wild Boar of the Wilderness!’
 Thus shall I share thy glory, and nevermore will I chide
 thee or use thee ill, but I will cherish thee more tenderly than
 the children of my loins.”
 
 “Take thou the tail, good uncle, for it is naught to me!”
-
-48
 
 
 cat trgatetty me
@@ -1631,8 +1437,6 @@ of the mighty tail when in the forest thou didst entreat me
 to give it thee?” And with these words Yoro drew from
 his bosom the strands that had been lacking. And Chotong
 
-50
-
 
 was shamed before the multitude and, turning his steed,
 galloped in haste away.
@@ -1655,13 +1459,11 @@ him that shall pluck from the tail of the magic bird her
 golden plumage, for none may pluck it forth save by the
 will of the high gods.”
 
-And Sengeslu Khan made known the word of the sooth-
-sayer to the heroes assembled before him, and they rode into
+And Sengeslu Khan made known the word of the soothsayer to the heroes assembled before him, and they rode into
 the wilderness to try if they might pluck from the tail of
 the Garuda Bird her golden plumage.
 
-And Yoro remained behind for a brief space, then fol-
-lowed after them, and when he came upon them, they were
+And Yoro remained behind for a brief space, then followed after them, and when he came upon them, they were
 gathered together at the foot of a tall pine, and their arrows
 beat about the head of the Garuda Bird like silver rain.
 But she sat upon the topmost branch, unheeding of their
@@ -1674,8 +1476,7 @@ BT
 
 
 “Proud bird! How sweetly soars thy voice above all others
-in this wilderness! Even so, I ween, does thy bright plum-
-age outshine the plumage of thy lesser brethren! Would
+in this wilderness! Even so, I ween, does thy bright plumage outshine the plumage of thy lesser brethren! Would
 we might gaze upon thee in thy glory!”
 
 And the breast of the Garuda Bird grew big with pride,
@@ -1736,19 +1537,15 @@ bright heads.
 And Shikeer, arrayed in splendor, was mounted beside
 him and thirty shining heroes surrounded him.
 
-And the warrior lifted up his voice and cried: “Ye heed-
-less ones! Ye men of little worth! Know me for Gessar
+And the warrior lifted up his voice and cried: “Ye heedless ones! Ye men of little worth! Know me for Gessar
 Khan, the son of heaven, sent by almighty Buddha to be
 your lord, that the tenfold evil may be uprooted and gladness
 restored to the hearts of men! Full fifteen years have I
 dwelt among you in Yoro’s guise, for thus hath it been de-
 
-53
-
 
 creed. Yet when I journeyed into the country of the seven
-alwins and drove them beneath the sea, did I not reveal my-
-self as a doer of mighty deedsP And when I seized in my
+alwins and drove them beneath the sea, did I not reveal myself as a doer of mighty deedsP And when I seized in my
 hand the soul of Chotong and was like to destroy him, could
 ye not see in me one that had been marked of the gods? And
 when, with one foot on the mountaintop and one on the
@@ -1779,8 +1576,6 @@ judge among you! Bow down before him! The prince of
 warriors is come to lead you to battle! Bow down before
 him! The all-conquering, all-healing Gessar Khan is come
 
-54
-
 
 to dwell in your midst! Bow down before him, ye men of
 earth, and pay him homage!”
@@ -1791,9 +1586,6 @@ wonder.
 And the Lady Rogmo was first to raise her head. And
 when she beheld the glory of Gessar Khan, she laughed
 aloud and then she wept for joy.
-
-
-55
 
 
 (
@@ -1813,7 +1605,6 @@ poll
 
 T
 
-1
 — tists
 We Shiu
 
@@ -1843,21 +1634,17 @@ his grief that he would not be comforted, but sent his criers
 forth into the land to proclaim his word:
 
 “Disaster is our portion and woe our lot! Therefore
-59
 
 
-let him that hears the tidings of sorrow as he journeys, jour-
-ney forever, mourning the khanin. Let him that bides at
+let him that hears the tidings of sorrow as he journeys, journey forever, mourning the khanin. Let him that bides at
 home mourn her at home, nor cross again the threshold of
 his dwelling! Let him that feasts still feast and weep for
 her, and he that fasts, let him not cease from fasting and
 lamentation. Thus shall the khanin’s memory be honored,
 nor perish from our hearts!” And the Khan sat upon his
-throne and held to his breast her body, whose spirit was de-
-parted to the dread kingdom of Erleek Khan.
+throne and held to his breast her body, whose spirit was departed to the dread kingdom of Erleek Khan.
 
-But his edict was hateful to the people, and they mut-
-tered against him, yielding with an ill grace to his com-
+But his edict was hateful to the people, and they muttered against him, yielding with an ill grace to his com-
 mand. And in the end his ministers assembled in council,
 and he that was chief among them rose up and said:
 
@@ -1878,8 +1665,6 @@ reason, I pray you name him to me.”
 
 But none could name the man, though for long hours
 they held counsel with one another.
-
-60
 
 
 Now there dwelt in the court of Keeme Khan a smith,
@@ -1916,8 +1701,6 @@ staff about thy shoulders!”
 And she went to fetch water from the stream, but the
 smith hied him again unto the council-chamber, and sought
 
-61
-
 
 an audience. And the chief minister bade him enter and
 said: ‘““What is thy suit?”
@@ -1940,8 +1723,7 @@ a companion to lighten my way.”
 
 And they gave him a swift steed, and a companion to
 lighten his way, and he set forth and journeyed for many
-moons until he reached the mountains of Tibet and the shin-
-ing yurta of Gessar Khan.
+moons until he reached the mountains of Tibet and the shining yurta of Gessar Khan.
 
 Now Gessar had knowledge of this smith and of his
 errand, and when he came into his presence, the son of
@@ -1957,18 +1739,14 @@ nor bow to mein greeting? Wiltthou stand thus forever and
 shake thy knees, like grain in a high wind? Whence art
 thouP Why dost thou come before me?”
 
-62
 
-
-But still the smith could utter no word and Gessar, tak-
-ing pity upon him, removed his baleful glance and eyed
+But still the smith could utter no word and Gessar, taking pity upon him, removed his baleful glance and eyed
 him in friendliness. Then only did the smith regain his
 wits, and he bowed down in greeting and said: “Dread son
 of heaven! The wife of China’s noble lord is departed to
 the kingdom of Erleek Khan! And so great is his grief
 that he will not give her body to be delivered to the flames,
-but sits upon his throne, clasping her to his breast. More-
-over, he hath proclaimed: ‘Let every man that journeys
+but sits upon his throne, clasping her to his breast. Moreover, he hath proclaimed: ‘Let every man that journeys
 journey forever, mourning the khanin! Let him that bides
 at home mourn her at home, nor cross again the threshold
 of his dwelling! Let him that feasts still feast and weep
@@ -1993,11 +1771,8 @@ help beneath the heavens nor above the earth.”
 meddlesome and of a prattling tongue, and ever fain to thrust
 thy head where the great gather. Not to bring succor to thy
 
-63
 
-
-Khan didst thou come hither, but that thy fellows might ac-
-count thee a man of mark. So prove it then. For this task
+Khan didst thou come hither, but that thy fellows might account thee a man of mark. So prove it then. For this task
 that thou hast proffered me, I stand in need of three
 treasures—a stag’s horn filled with blood from the beak of
 an eagle, a goat’s horn filled with milk from the breast of
@@ -2007,8 +1782,7 @@ thee to distant China, to solace thy Khan and to restore
 peace to his kingdom. But if thou bring them not after
 three days, thou shalt be cast into a seething cauldron,
 and thy flesh shall be flung to the vultures, and of thy
-kull a goblet shall be wrought for the least of my house-
-hold.”
+kull a goblet shall be wrought for the least of my household.”
 
 And the smith went forth from the presence of Gessar
 Khan, and he was sore afflicted, for he knew not how he
@@ -2028,8 +1802,6 @@ foretold.”
 
 And the smith awoke. And he went to the mouth of the
 river Nyrandsa, and where he found the carrion of a cow,
-
-64
 
 
 | SEVvKWHy, :
@@ -2061,15 +1833,13 @@ followed. And the black eagle circled above the carrion,
 and spoke to his mate, and said: “I will go down and eat my
 fill of the carrion, for none is by to hinder me.”
 
-But his mate replied: “Go not, my love. For it is un-
-seemly that a bird of the heavens should descend to eat of
+But his mate replied: “Go not, my love. For it is unseemly that a bird of the heavens should descend to eat of
 the foul flesh that rots on earth—monstrous indeed, as
 though some earthbound creature should soar aloft to share
 the skies with us. I pray thee, go not.”
 
 “Nay, I will go warily, peering on every hand. And if
-no creature stirs, I will tarry and eat, for the flesh of this car-
-rion is tender beyond my dreams. Yet should I mark so
+no creature stirs, I will tarry and eat, for the flesh of this carrion is tender beyond my dreams. Yet should I mark so
 much as a reed’s trembling, I will return straightway.”
 
 And he descended, peering on every hand, but he
@@ -2077,8 +1847,7 @@ marked not so much as a reed’s trembling. Wherefore he
 alighted upon the carrion and ate, and so sweet was the savor
 of the flesh that he ceased not from eating, until he came at
 length to the breast. Then did the smith leap forth out of
-the pit, and drawing fast the threads of his snare, he cap-
-tured the black eagle.
+the pit, and drawing fast the threads of his snare, he captured the black eagle.
 
 And the eagle beat his wings in frenzy and smote his
 beak against his captor’s staff, so that blood flowed out of
@@ -2087,8 +1856,6 @@ horn, and laid it within his scrip.
 
 But now the eagle’s mate drew nigh with piteous plaints,
 
-66
-
 
 and hovered above his head and cried: “Alas, my husband!
 Did I not bid thee beware of peril? Now must thou eat of
@@ -2096,8 +1863,7 @@ the bitter fruit of thy rashness, and perish in misery.”
 
 But the smith cried: “Not so, thou eagle’s mate! For
 have I harmed thy husband? And for the blood I have
-taken from his beak, it is but a little blood and soon re-
-newed. Say, wouldst thou save him from death?”
+taken from his beak, it is but a little blood and soon renewed. Say, wouldst thou save him from death?”
 
 “Yea, master.”
 
@@ -2116,8 +1882,7 @@ smith, who took them and released the black eagle, and
 the three soared into the blue heavens and vanished.
 
 And now the smith returned to Gessar Khan and bowed
-in greeting. And Gessar said: “What of thy quest, bald-
-headed smith?”
+in greeting. And Gessar said: “What of thy quest, baldheaded smith?”
 
 And the smith answered: “The quest is ended, lord.”
 And from his scrip he took the stag’s horn and the goat’s
@@ -2125,8 +1890,6 @@ horn and the sheep’s horn, and proffered them to Gessar.
 
 And Gessar took them and said: “Thou hast done my
 bidding, and I will journey with thee to China to solace thy
-
-67
 
 
 Khan and restore peace to thy kingdom.” So they set forth,
@@ -2163,8 +1926,6 @@ the ministers of the Khan bowed down before him, and cried:
 “Dread son of heaven! Glorious Gessar Khan! Hast thou
 brought our master healing?”
 
-68
-
 
 And he answered: “Thy master’s soul is sick unto death
 and none can heal him.”
@@ -2188,8 +1949,7 @@ lord! He that men call the son of heaven, noble Gessar
 Khan, stole hither in the night and took from thine arms the
 body of the khanin and left the ape therein. And though
 I strove to cry the alarm, I could not, for my tongue clave
-to the roof of my mouth, and no sound came forth. Where-
-fore thy servant hath merited death at thy hands, O dispenser
+to the roof of my mouth, and no sound came forth. Wherefore thy servant hath merited death at thy hands, O dispenser
 of justice!”
 
 “Nay, not thou shalt die, but he that hath done this deed!
@@ -2200,8 +1960,6 @@ And Gessar was cast into the Hole of Wasps. But when
 they swarmed about him and would have pierced his eyes
 from his head, he scattered the tears of the black fledgling
 among them and the wasps breathed their odor and perished.
-
-69
 
 
 And Gessar slept, but with the dawn he lifted up his
@@ -2217,8 +1975,7 @@ Serpents, that they may dart their venom into his body and so
 destroy him.”
 
 And Gessar was cast into the Pit of Serpents, but when
-they would have darted their venom into his body, he scat-
-tered the milk of the black eagle’s mate among them, and
+they would have darted their venom into his body, he scattered the milk of the black eagle’s mate among them, and
 they breathed its odor and perished. And he strewed them
 about the ground, that they might be a couch for his limbs,
 and the greatest he laid beneath his head for a soft pillow.
@@ -2231,15 +1988,11 @@ his serpents, but his serpents by Gessar.”
 
 And the Keeper of the Pit of Serpents hastened to Keeme
 Khan, and reported the words of Gessar. And the Khan’s
-brow darkened in wrath, and he thundered: ‘“‘Let this blas-
-phemer be cast into the Den of Wild Beasts, that they may
-rend his limbs asunder and devour his flesh to the last mor-
-sel.”
+brow darkened in wrath, and he thundered: ‘“‘Let this blasphemer be cast into the Den of Wild Beasts, that they may
+rend his limbs asunder and devour his flesh to the last morsel.”
 
 And Gessar was cast forthwith into the Den of Wild
 Beasts, but when they would have fallen upon him to rend
-
-70
 
 
 AO WM
@@ -2278,8 +2031,7 @@ by casting me into his Den of Wild Beasts. Yet he must
 needs rejoice in the end that Gessar was not slain by his
 wild beasts, but his wild beasts by Gessar.”
 
-And the Keeper of the Den of Wild Beasts fled trem-
-bling to the palace, and reported to Keeme Khan the words
+And the Keeper of the Den of Wild Beasts fled trembling to the palace, and reported to Keeme Khan the words
 of Gessar. And the Khan rose up from his throne and in
 his countenance a storm raged.
 
@@ -2292,17 +2044,13 @@ And Gessar was led unto the ramparts. But as he went,
 a crimson parrot alighted on his hand, and to her leg he
 made fast a silken thread, a thousand fathoms long, and so
 slender that it was visible to none save him. And when he
-came to the ramparts, four and twenty spearsmen sur-
-rounded him, and the Khan stood before them to give the
+came to the ramparts, four and twenty spearsmen surrounded him, and the Khan stood before them to give the
 signal.
 
 But Gessar lifted high his hand, whereon the crimson
-parrot was perched, and cried aloud: “Fly swiftly, my par-
-rot, to Tibet, and seek out Shikeer my brother, and my thirty
+parrot was perched, and cried aloud: “Fly swiftly, my parrot, to Tibet, and seek out Shikeer my brother, and my thirty
 heroes, and the three hundred chieftains of the tribes. And
 say to them: “The Khan of China hath foully slain your
-
-72
 
 
 lord, that Buddha sent to uproot the tenfold evil and bring
@@ -2322,24 +2070,19 @@ the ministers whispered to one another, and in the end he
 that was chief among them bowed down before his master
 and spoke.
 
-“O flower of righteousness! Thrice hast thou con-
-demned this Gessar to bitter death, yet not the wasp’s sting
+“O flower of righteousness! Thrice hast thou condemned this Gessar to bitter death, yet not the wasp’s sting
 nor the serpent’s fang nor the jaws of the wild beast have
 availed against him. Surely it isa sign that the gods cherish
 him above all men, nor will they suffer evil to approach him
-or those that follow him. How then shall we subdue Shi-
-keer his brother, or his thirty heroes or the three hundred
+or those that follow him. How then shall we subdue Shikeer his brother, or his thirty heroes or the three hundred
 chieftains of histribe? Rather will their hosts descend upon
 us and sack thy cities and destroy thy people, leaving behind
 no trace of all thy glory. Wherefore we pray thee, O thou
 whose wisdom is as the never-failing mountain stream, bid
-Gessar recall his parrot, and pledge him in return whatso-
-ever boon lieth nearest his heart.”
+Gessar recall his parrot, and pledge him in return whatsoever boon lieth nearest his heart.”
 
 And Keeme Khan made answer: “Mine ears are open to
 the prayers of my people. Do thou, lord of the ten great re-
-
-73
 
 
 gions of the earth, recall thy parrot, and whatsoever boon
@@ -2349,14 +2092,12 @@ But Gessar said, “Alas, thou son and sire of Khans, fain
 would I do thy will, but this parrot is flown beyond the
 sound of my calling.”
 
-Then did the people fling themselves at the feet of Ges-
-sar, loudly entreating him, and Keeme Khan added his voice
+Then did the people fling themselves at the feet of Gessar, loudly entreating him, and Keeme Khan added his voice
 to theirs.
 
 “T pray thee, noble Gessar, dread son of heaven, chosen
 of the gods, recall thy parrot, and whatsoever thou shalt
-command me, that will I do though the Fearful Ones them-
-selves forbid it.”
+command me, that will I do though the Fearful Ones themselves forbid it.”
 
 “Wilt thou give the body of thy khanin to the flames,
 taking unto thyself another spouse?”
@@ -2376,20 +2117,16 @@ And he drew toward him the silken thread a thousand
 fathoms long, and out of the western sky the crimson parrot
 flew swiftly toward him, and lighted on his hand.
 
-And Keeme Khan gave the body of his khanin to be de-
-livered to the flames, and for nine and forty days the lamas
+And Keeme Khan gave the body of his khanin to be delivered to the flames, and for nine and forty days the lamas
 read the holy word of Buddha above her ashes, and alms
 were freely scattered among the needy. And the Khan took
 unto himself another wife. But upon Gessar he bestowed
 the hand of Aralgo, his daughter, the maiden whom men
 
-74
-
 
 called Ten Thousand Joys. And a great feast was spread,
 and in the streets the gongs were sounded and the drums
-beaten, for the people rejoiced that Gessar had brought heal-
-ing to the spirit of Keeme Khan. And the baldheaded smith
+beaten, for the people rejoiced that Gessar had brought healing to the spirit of Keeme Khan. And the baldheaded smith
 was bidden to the feast, and sat at the left hand of Gessar.
 
 And for the space of three years Gessar dwelt in China
@@ -2416,8 +2153,7 @@ comely beasts grazed in the pastures. And Gessar bade
 farewell to Aralgo, and journeyed farther.
 
 And presently he came to a high mountain, from whose
-summit he looked down upon the world. Anda great weari-
-ness enfolded him, and he cried: ‘Mighty Kormuzda! I
+summit he looked down upon the world. Anda great weariness enfolded him, and he cried: ‘Mighty Kormuzda! I
 have labored long, and many excellent deeds have I brought
 to pass for the glory of thy name! Now I am weary and
 
@@ -2438,13 +2174,11 @@ and Buddha’s servant? What loftier destiny dost thou hope
 to earn by resting on the summit of this mountain and
 regarding the world?”
 
-And Gessar said: ‘“‘My sisters counsel wisely. Not to re-
-gard the world did we tarry here, but that we might refresh
+And Gessar said: ‘“‘My sisters counsel wisely. Not to regard the world did we tarry here, but that we might refresh
 our weary limbs, I and my wonder-steed.” And Gessar
 went down from the mountain and journeyed farther.
 
-And he sent a dream to the Lady Rogmo, who lay be-
-neath the skin of a sable in her yurta and slept. And the
+And he sent a dream to the Lady Rogmo, who lay beneath the skin of a sable in her yurta and slept. And the
 dream said: ‘“My Lady Rogmo! Thy nose lies buried in
 thy sable skin as the nose of a red calf in a deep meadow.
 It were more fitting in thee to rise at daybreak, and frolic
@@ -2455,10 +2189,7 @@ And the Lady Rogmo arose, and clothed her body in
 bright garments, and called to her servant Arigon, and said:
 “Brave Arigon! thy master and my belovéd lord is close
 at hand. Hasten, therefore, to prepare sweet tea, that he
-may slake his thirst and comfort his weariness, for he jour-
-neys from afar.”
-
-76
+may slake his thirst and comfort his weariness, for he journeys from afar.”
 
 
 But Arigon answered: “Truly, my mistress, thy body is
@@ -2485,8 +2216,7 @@ light as the noonday sun. Go thou and order all things
 even as thou hast unfolded them to me.”
 
 And Arigon ordered all things even as he had unfolded
-them to the Lady Rogmo, and from the Lion’s Stream Sang-
-lun came riding with Amurtsheela, and from the Stream of
+them to the Lady Rogmo, and from the Lion’s Stream Sanglun came riding with Amurtsheela, and from the Stream of
 » the Elephant galloped the Lord Shikeer, laughing for joy.
 - And the thirty heroes and the three hundred chieftains
 of the tribes assembled with gifts to greet their master,
@@ -2500,22 +2230,17 @@ were beaten to honor the return of Gessar Khan. And the
 Lady Rogmo stood at the threshold of her yurta to welcome
 him.
 
-And he approached on his brown wonder-steed and, dis-
-mounting, he embraced the Lady Rogmo and Shikeer his
+And he approached on his brown wonder-steed and, dismounting, he embraced the Lady Rogmo and Shikeer his
 brother, and his mother Amurtsheela and Sanglun. And
 the thirty heroes and the three hundred chieftains of the
 tribes proffered him gifts of the skins of beasts, and weapons
-cunningly wrought, and steeds that were blue as the tur-
-quoise and red as the ruby and black as the deepest night.
+cunningly wrought, and steeds that were blue as the turquoise and red as the ruby and black as the deepest night.
 
 And so for thirty days they feasted, rejoicing that their
 lord was come again to dwell in the midst of his people, and
 in the end they returned to their tribes and habitations, but
 Gessar abode among them, and ruled them wisely according
 to the law of Buddha.
-
-
-78
 
 
 IV. THE VALLEY OF PLEASANT WINDS
@@ -2557,16 +2282,12 @@ THE COUNTRY OF THE TWELVE-HEADED GIANT.
 Now Aralgo, the Lady of Ten Thousand Joys, dwelt in
 the Valley of Pleasant Winds that lay the distance of a
 month’s journey from Tibet. And the wily Chotong learned
-of her hiding place and, mounting his russet mare, he jour-
-neyed thither, and came upon her where she stood at the
+of her hiding place and, mounting his russet mare, he journeyed thither, and came upon her where she stood at the
 threshold of her yurta, eyeing her flocks.
-
-81
 
 
 And he said: “Fair kinswoman! Thine upward glance
-stirs wonder in the breasts of ten thousand men, thy down-
-ward glance stirs joy. Yet he that names himself lord of
+stirs wonder in the breasts of ten thousand men, thy downward glance stirs joy. Yet he that names himself lord of
 the ten great regions of the earth hath forsaken thee, and
 dwells in ease by Lady Rogmo’s side, leaving thee desolate.
 Were thy faith pledged to me, O lovely one, I would not
@@ -2597,8 +2318,6 @@ But Aralgo answered: “Lightly dost thou regard the
 words, Prince Chotong, that seven days since I gave thee.
 It cannot be that thou dost utter the will of my lord, for often
 have I heard him name thee a shabby fellow and of little
-
-82
 
 
 \
@@ -2675,8 +2394,7 @@ leanness?P”
 And Chotong cried: ‘Death for thine insolence!” and
 raised his hand to smite. But the leader of the herdsmen
 rallied his men about him with shout and clamor, crying:
-“To me, ye vassals and all that serve the Lady Aralgo! Cho-
-tong is come to rob us of our herds and bear away our
+“To me, ye vassals and all that serve the Lady Aralgo! Chotong is come to rob us of our herds and bear away our
 mistress.”
 
 And they surrounded Chotong and beat him with staff
@@ -2685,12 +2403,9 @@ he was guarded by the Spirit of the Cavern whose aid he
 had invoked. And in the end the herdsmen released him
 and drove him forth again from the Valley.
 
-85
-
 
 But when night fell, he stole to the marshland where the
-swineherds tended their swine, and he questioned them, say-
-ing: “Are ye content with your lot, ye swineherds of the
+swineherds tended their swine, and he questioned them, saying: “Are ye content with your lot, ye swineherds of the
 Lady Aralgor”
 
 And they answered: ‘Why, is there aught of pleasure in
@@ -2708,8 +2423,7 @@ beyond all men?”
 
 “That would we.”
 
-“Then do but my bidding, and the cowherds and the shep-
-herds, and they that guard the camels and the steeds, shall bow
+“Then do but my bidding, and the cowherds and the shepherds, and they that guard the camels and the steeds, shall bow
 down before you, and none of all the tribe shall be exalted
 above the swineherds of the Lady Aralgo.”
 
@@ -2724,8 +2438,6 @@ And at midnight when the tapers were quenched, the
 swineherds filled three wooden troughs, according to the
 word of Chotong, the first with blood, the second with
 brandy thrice distilled, the third with sour milk. And they
-
-86
 
 
 set them down before the portal of the Lady Aralgo, and
@@ -2770,17 +2482,13 @@ disease and pestilence, and he that was most grievously
 afflicted was Gessar Khan. And the Lady Rogmo betook
 herself to the soothsayers and cried: “Ye sages of Tibet! Our
 
-87
-
 
 people are stricken with disease and pestilence, and Gessar
-Khan, our lord, droops on his couch of some strange mal-
-ady. Read me your signs, therefore, ye from whom no
+Khan, our lord, droops on his couch of some strange malady. Read me your signs, therefore, ye from whom no
 mystery is hidden, and say whence comes this fearsome
 scourge upon us.’
 
-And the soothsayers took the crimson threads of proph-
-ecy and read the signs and answered: “It is a scourge borne
+And the soothsayers took the crimson threads of prophecy and read the signs and answered: “It is a scourge borne
 hither from the Valley of Pleasant Winds, where dwells the
 Lady of Ten Thousand Joys whom Gessar took to be his
 second wife.”
@@ -2809,8 +2517,6 @@ of the Lady Rogmo or the vile Prince Chotong?”
 And the couriers answered: “Nay, it is Gessar Khan
 that drives thee forth.”
 
-88
-
 
 And the eyes of the Lady Aralgo flashed with anger, and
 she cried: “Ye lie, false knaves! For why should my
@@ -2833,16 +2539,14 @@ said: “Thou art destined for our master,” and led her to
 the border of his land.
 
 And having crossed the border, she found herself within
-a kingdom whose trees and streams, mountains and flower-
-ing meadows were blue as turquoise. And a blue wolf
+a kingdom whose trees and streams, mountains and flowering meadows were blue as turquoise. And a blue wolf
 bowed down before her and said: “Thou art destined for
 our master,” and led her to the border of his land.
 
 And having crossed the border, she came to a fair realm,
 whose trees and streams, mountains and flowering meadows
 were colored with the rainbow’s changing hues. And a
-magpie bowed down before her and said: “Thou art des-
-tined for our master,” and led her to the shore of a dark sea.
+magpie bowed down before her and said: “Thou art destined for our master,” and led her to the shore of a dark sea.
 And now a burning wind swept over her, scorching her
 with its flame, and now an icy blast descended upon her and
 
@@ -2905,8 +2609,7 @@ mountain. And he bade her await him in the courtyard of
 the castle, and himself he entered within, and as his wives
 came forth to greet him and bowed before him, he devoured
 each one in turn till none remained save only two or three.
-Then, summoning his vassals together, he cried: “I pro-
-claim the Lady Aralgo my cherished wife and mistress of
+Then, summoning his vassals together, he cried: “I proclaim the Lady Aralgo my cherished wife and mistress of
 my household,” and he led her to his throne of ebony, and
 seated her beside him.
 
@@ -2918,20 +2621,16 @@ pestilence, and Gessar Khan arose from his couch, restored
 to strength. And he spoke to the Lady Rogmo and said:
 “Belovéd wife! long have J lain in suffering upon my
 couch, and many moons have vanished since I brought the
-Lady Aralgo from China and left her in the Valley of Pleas-
-ant Winds. Now I will go thither, lest she should weep
+Lady Aralgo from China and left her in the Valley of Pleasant Winds. Now I will go thither, lest she should weep
 
 g2
 
 
-for sorrow that I have forsaken her. Let my brown wonder-
-steed be saddled for the journey!”
+for sorrow that I have forsaken her. Let my brown wondersteed be saddled for the journey!”
 
 And the Lady Rogmo answered: “Thy command, O
-destroyer of the roots of evil, is as the command of the Fear-
-ful Ones, swiftly fulfilled. Yet wherefore wilt thou saddle
-thy brown wonder-steed, since she whom thou wouldst com-
-fort is departed out of the Valley of Pleasant Winds, and
+destroyer of the roots of evil, is as the command of the Fearful Ones, swiftly fulfilled. Yet wherefore wilt thou saddle
+thy brown wonder-steed, since she whom thou wouldst comfort is departed out of the Valley of Pleasant Winds, and
 gone who knows whither?”
 
 Now Gessar was sorely troubled by these tidings, and
@@ -2958,8 +2657,6 @@ repose.”
 is gone freely to the twelve-headed giant, I will seek her out
 and slay her, that her sin against me may be atoned. But
 
-93
-
 
 if the giant have taken her perforce, then will I slay the giant
 and take my wife back to the Valley of Pleasant Winds.”
@@ -2981,8 +2678,7 @@ him and cried: “Forsake us not, O thou that hast wrought
 peace out of confusion!”
 
 But Gessar answered: “Do ye administer while I am
-gone the law I have given you, and judge not by the sem-
-blance of the man, but read his heart.”
+gone the law I have given you, and judge not by the semblance of the man, but read his heart.”
 
 Then the three hundred chieftains of the tribes abased
 themselves before him and cried: “Forsake us not, belovéd
@@ -2998,8 +2694,6 @@ And the lamas and the ministers and the three hundred
 chieftains of the tribes departed from the presence of Gessar
 Khan.
 
-94
-
 
 And Gessar donned his armor that sparkled like the dew
 at dawn, and his helmet wrought of the light of the sun and
@@ -3013,8 +2707,7 @@ And the Lady Rogmo brought food for Gessar, lest he
 hunger upon the way, and about the neck of his steed she
 laid garlands of sugar and of raisins. And she exhorted
 them, crying: “Brown wonder-steed! Shouldst thou lack
-heart or strength to bring my lord to the end of his journey-
-ing, I will shear thee of mane and tail, and burn thy body to
+heart or strength to bring my lord to the end of his journeying, I will shear thee of mane and tail, and burn thy body to
 ashes. Gessar, my noble lord, shouldst thou lag behind thy
 steed in cunning or prowess, thy thumbs shall be slit like a
 craven’s and cast to the flames, and nevermore will I look
@@ -3034,8 +2727,6 @@ eyes follow. If not, return as thou camest.”
 And Gessar said: ‘“Thou dost well to upbraid me, my
 brown one,” and he fixed his eyes before him, and journeyed
 onward toward the realm of the twelve-headed giant.
-
-95
 
 
 V. THE TWELVE-HEADED GIANT
@@ -3058,7 +2749,6 @@ me xi i a i
 
 at
 Relay) Bu
-1
 
 
 MTA
@@ -3066,7 +2756,6 @@ MTA
 
 SAYA
 NERA
-444
 
 
 Vn evvit UU trracaennnll
@@ -3091,7 +2780,6 @@ Sf J
 Deets
 
 
-4
 No%y Z
 “My 4
 
@@ -3104,14 +2792,11 @@ LAST, AND DRANK THE DRINK OF FORGETFULNESS.
 ()' THE PERILS ENCOUNTERED BY GESSAR IN
 
 
-Now as Gessar journeyed toward the realm of the twelve-
-headed giant, he came to the foot of a high mountain. And
+Now as Gessar journeyed toward the realm of the twelveheaded giant, he came to the foot of a high mountain. And
 leaving his steed to gambol in the valley below, he scaled
 the mountain to its very peak, and stood upon the summit
 and cried: “Ye, my three sisters! I go to do battle with the
 giant that hath stolen away the Lady Aralgo. Hearten me
-
-99
 
 
 with your counsel! Inform me with your wisdom! It is I,
@@ -3124,17 +2809,14 @@ victory over thy foe. Hear now our counsel. Presently
 thou shalt enter into a forest where roams a bull so
 huge that he devours three pastures at a gulp, and drains
 the waters of three rivers from source to mouth. Him must
-thou slay ere thou canst enter into the realm of the twelve-
-headed giant. Go warily, lest he overpower thee, yet boldly,
+thou slay ere thou canst enter into the realm of the twelveheaded giant. Go warily, lest he overpower thee, yet boldly,
 lest he mock thee for a coward. And from Sumeru our love
 shall shelter thee.” So saying, the cuckoo spread her wings
 and soared aloft.
 
-And Gessar went down from the mountain and jour-
-neyed farther. But darkness descended upon the land, and
+And Gessar went down from the mountain and journeyed farther. But darkness descended upon the land, and
 he could see neither to right nor to left, nor above nor before
-him, neither the palm of his hand nor the ears of his wonder-
-steed. Wherefore he dismounted, and made of his cloak a
+him, neither the palm of his hand nor the ears of his wondersteed. Wherefore he dismounted, and made of his cloak a
 pillow for his head, and turned his countenance toward the
 eastern sky, and laid himself to rest upon the earth.
 
@@ -3148,8 +2830,6 @@ And the steed cried: “Thou churlish bull! Gessar shall
 know of the affront thou hast put upon him!”
 
 And the bull taunted him, crying: “On the morrow will
-
-100
 
 
 I swallow thee and Gessar, as now I have swallowed thy
@@ -3169,8 +2849,7 @@ cuckoo and cried: “Art thou a woman, brother, that thou
 dost rend the earth and sky with thy clamor? If thou
 wouldst weep, abandon this enterprise and return to the
 shelter of thy yurta. But if thou wouldst journey farther
-and reach thy goal, spend not thy strength in childish lamen-
-tation. The bank that resists the onslaught of the waves
+and reach thy goal, spend not thy strength in childish lamentation. The bank that resists the onslaught of the waves
 shall be the staunchest boulder, and he that falters not in the
 face of disaster, his valor shall be as the finest flint, for none
 shall destroy it. Wherefore lay our words to thy heart, dear
@@ -3191,8 +2870,7 @@ IOI
 ere midday he led his wonder-steed to the field of wheat and
 bade him eat thereof, and when he had eaten thrice, his mane
 and tail flourished again in splendor on his back. And
-Gessar bestrode him and said: “Do thou follow the foot-
-prints of the Bull as he roams through the forest, and over-
+Gessar bestrode him and said: “Do thou follow the footprints of the Bull as he roams through the forest, and over-
 take him, else will I slash thy four hoofs from thy legs and
 strip thee of saddle and bridle, and journey homeward
 afoot.”
@@ -3204,8 +2882,7 @@ brow, and should it swerve by so much as the breadth of a
 hair, I will fling thee from my back and return to thy glor-
 10us sisters on Sumeru.”
 
-And Gessar cried: “Well spoken!” and smote his won-
-der-steed so sharp a blow that he soared aloft and galloped
+And Gessar cried: “Well spoken!” and smote his wonder-steed so sharp a blow that he soared aloft and galloped
 through the air. And Gessar sought to restrain him, crying:
 “Art thou become a falcon or a hawk that suddenly thou
 art minded to ply the heavens? I prithee, go softly on the
@@ -3214,15 +2891,12 @@ in my haste I smote thee too sharp a blow, humbly I seek
 thy pardon.”
 
 And the brown wonder-steed descended to the surface of
-the earth, and followed the Wild Bull’s footprints, and pres-
-ently they came upon him where he felled with his horn’s
+the earth, and followed the Wild Bull’s footprints, and presently they came upon him where he felled with his horn’s
 tip three oaks that barred his way to a pleasant stream.
 
 And the steed cried out: “Ho, thou Wild Bull! Gessar
 is come, whose steed thou didst despoil of mane and tail,
 and his arrows of their plumage.”
-
-102
 
 
 And the Wild Bull answered: “I welcome him, for now
@@ -3234,8 +2908,7 @@ his brow, and laid him low. And the earth shuddered and
 the forest groaned beneath his fall.
 
 And Gessar, rejoicing, plunged his sword into the Wild
-Bull’s throat, and carved a tender morsel, that he might par-
-take of the flesh of his enemy, but when he would have thrust
+Bull’s throat, and carved a tender morsel, that he might partake of the flesh of his enemy, but when he would have thrust
 it into his mouth, his sisters appeared to him in their proper
 guise and cried: “Stay, Gessar! Asa hero hast thou assailed
 thy foe and asa master slain him! Butasa glutton dost thou
@@ -3256,27 +2929,23 @@ And when they had accepted the sacrifice, he and his steed
 feasted on what remained.
 
 And now his sisters said: “Thou must proceed alone,
-beloved Gessar, for the way is foul with all manner of abom-
-inations, and we may not venture farther. Thou wilt come
+beloved Gessar, for the way is foul with all manner of abominations, and we may not venture farther. Thou wilt come
 soon to an enchanted river, upon whose waters headless men
 
 104.
 
 
 and trunkless horses float hither and yon. And they will
-rend the air with shrieks and moans and horrid clamor, seek-
-ing to affright thee, yet do thou pay no heed, but smite the
+rend the air with shrieks and moans and horrid clamor, seeking to affright thee, yet do thou pay no heed, but smite the
 waters thrice with thy magic sword and cross in safety to
 the farther shore. Continue onward, and ere long thou wilt
 see before thee two walls of rock, standing so close one to
 the other that a shadow may not pass between them. But
 how thou shalt overcome this barrier and many besides that
-the giant will prepare for thee, thou must ask of thy daunt-
-less heart and thy nimble wit!” And the sisters vanished.
+the giant will prepare for thee, thou must ask of thy dauntless heart and thy nimble wit!” And the sisters vanished.
 
 And Gessar journeyed onward till he came to the
-enchanted river, upon whose waters headless men and trunk-
-less horses floated hither and yon. And they rent the air
+enchanted river, upon whose waters headless men and trunkless horses floated hither and yon. And they rent the air
 with shrieks and moans and horrid clamor, seeking to
 affright him, yet he paid no heed, but smote the waters thrice
 with his magic sword and crossed in safety to the farther
@@ -3287,16 +2956,13 @@ rock, standing so close one to the other that a shadow might
 not pass between them. And he cried aloud: “In Tibet I
 have seen two walls of rock part from each other, disclosing
 a passage for man and steed. Yet when man and steed have
-arrived within their shadow, they have come together, crush-
-ing the travelers in their cruel embrace. But these rocks
+arrived within their shadow, they have come together, crushing the travelers in their cruel embrace. But these rocks
 that guard the realm of the twelve-headed giant are witless
 rocks, unknowing of their power.”
 
 And the rocks heard the words of Gessar and said one
 to the other: “Shall we suffer the rocks of Tibet to outdo
 us in guileP Let us go asunder, and when this horseman
-
-105
 
 
 rides within our shadow, let us come together and destroy
@@ -3307,16 +2973,14 @@ And they went asunder, disclosing a passage for man
 and steed. But Gessar sped so swiftly through the gap that
 ere they could come together to destroy him, he had emerged
 in safety beyond their reach. And they were angered that
-he had escaped them, and crashed so fiercely upon one an-
-other that they were shattered, and fell in many fragments
+he had escaped them, and crashed so fiercely upon one another that they were shattered, and fell in many fragments
 to the earth.
 
 And he journeyed onward, and came at length upon a
 herdsman who tended camels. And he cried: “Herdsman,
 where lies the castle of the giant?”
 
-“Yonder it lies upon the summit of the highest moun-
-tain. =
+“Yonder it lies upon the summit of the highest mountain. =
 
 “Ts the way smooth or rugged that I must follow, and
 what monsters lie in my path?”
@@ -3330,15 +2994,12 @@ all three ere they will suffer thee to seek the giant’s castle.”
 And Gessar gave thanks to the herdsman and journeyed
 onward until he came to the pearly ridge that was guarded
 by the sons of the shining gods. And when they saw him,
-they lifted up their voices and cried: “Alas, red-footed mor-
-tal! Our master will slay us, should he learn of thy presence
+they lifted up their voices and cried: “Alas, red-footed mortal! Our master will slay us, should he learn of thy presence
 here! Go swiftly hence again!”
 
 “And if I will not?”
 
 “Then art thou no mortal, but one mightier than he.
-
-106
 
 
 Can it be indeed that thou art Gessar Khan, lord of the ten
@@ -3377,8 +3038,6 @@ they will snare the sun and moon to light thy darkness.”
 
 And Gessar took the nets, and journeyed to the golden
 
-107
-
 
 ridge that was guarded by the sons of men. And they
 rejoiced that he was come to deliver them from bondage,
@@ -3391,11 +3050,9 @@ baling to the gods in sacrifice, and besought them, crying:
 dragons’ thunder! Let fly your lightning shafts! And amid
 the uproar send a shower of hailstones, huge as my doubled
 fist, to crush the heads of these sentinels, for your Gessar
-would ascend the perilous peak to do battle with his en-
-emy !”
+would ascend the perilous peak to do battle with his enemy !”
 
-And the gods heeded his prayers, and let fly their light-
-ning shafts, and yoked their dragons to the chariots, and their
+And the gods heeded his prayers, and let fly their lightning shafts, and yoked their dragons to the chariots, and their
 voices thundered to one another across the.skies. And when
 the uproar reached the ears of the giants, they were dismayed
 and flung themselves to the earth, but a shower of hailstones
@@ -3413,8 +3070,6 @@ sun, and the moon in his silver net, and by their light he
 ascended the perilous peak and reached its summit.
 
 And he saw before him the walls of the giant’s castle, but
-
-108
 
 
 he could find no portal to give him entrance, and he said
@@ -3452,8 +3107,6 @@ again, I will summon thee.”
 And the wonder-steed gave thanks to his master, and
 lifted up his voice and cried: “Thou Keeper of Kormuzda’s
 
-109
-
 
 blesséd steeds! Let down a ladder that I may ascend to
 thee!”
@@ -3486,8 +3139,7 @@ the lady of this silver castle?”
 
 And Aralgo heard his voice from within and flung the
 portal wide. And weeping, she cast herself into his arms
-and cried: “As the golden sun dost thou rise upon my dark-
-ness, O heaven-born!”
+and cried: “As the golden sun dost thou rise upon my darkness, O heaven-born!”
 
 And Gessar chided her, saying: “Art thou not in sooth
 a woman of little wit, weeping when thou shouldst laugh?
@@ -3502,8 +3154,7 @@ must needs slay thee, that thy sin against me may be atoned.”
 
 And Aralgo told him all as it befell, and Gessar cried:
 “Thou hast been ill-used, and Chotong shall answer to me
-for his deed. But now I would seek out the giant and -chal-
-lenge him, and may the victory be his whom the gods love.”
+for his deed. But now I would seek out the giant and -challenge him, and may the victory be his whom the gods love.”
 
 “Yet how if he should slay thee, my GessarP For this
 is a monster so fearful as in all thine exploits thou hast not
@@ -3521,8 +3172,7 @@ and bearing a hornéd moose upon his back, and when he
 hath eaten and drunk to his content, I will question him,
 and from a hidden place thou shalt hear his words.”
 
-And they entered the castle and came to a marble cham-
-ber, in whose floor a jewel burned. And Aralgo touched
+And they entered the castle and came to a marble chamber, in whose floor a jewel burned. And Aralgo touched
 the jewel and it vanished, disclosing a deep pit. But when
 Gessar had crept within the pit, the jewel appeared again,
 and all was as it had been.
@@ -3545,8 +3195,7 @@ summoned the Lady of Ten Thousand Joys to bear him
 company. And she sat at his feet and laid her white hand in
 his and, gazing upon him, said: “My matchless husband,
 dearer than all the world to my heart, I am oppressed with
-fear lest one day the odious Gessar should come and chal-
-lenge thee to combat.”
+fear lest one day the odious Gessar should come and challenge thee to combat.”
 
 “Fear not, my tender one, for with my weakest finger I
 will crush him and fling him back again into Tibet.”
@@ -3630,8 +3279,7 @@ Tree of Delight in whose topmost branches the giant’s
 younger sister dwelt.
 
 And he stood at its foot and Seale aloud and said:
-“Surely this is a daughter of the gods, or of the dragon-
-princes, or it may be of Gessar Khan himself, for in all my
+“Surely this is a daughter of the gods, or of the dragonprinces, or it may be of Gessar Khan himself, for in all my
 journeying I have not beheld a maid so wondrous fair.
 Would she might descend from the branches to hold speech
 with me! Yet can it be that mine eyes have played me false,
@@ -3646,15 +3294,11 @@ branches of a tree? I will go down to him.”
 And she descended, and stood at Gessar’s side, and said
 to him: “Who and whence art thou?”
 
-114
 
-
-“T come from the Everlasting Realm, whose black-
-capped lama gave me ere I left a necklet of many strands to
+“T come from the Everlasting Realm, whose blackcapped lama gave me ere I left a necklet of many strands to
 be my talisman. Shall I give it to thee?”
 
-“Why not? Fain would I wear the talisman of the black-
-capped lama.”
+“Why not? Fain would I wear the talisman of the blackcapped lama.”
 
 “Wilt thou wear it about thine ankles or thy tender
 throat?”
@@ -3666,8 +3310,7 @@ my tender throat as necklets should be worn.”
 there,” and Gessar took from his bosom three bowstrings,
 and laid them about the throat of the giant’s sister and drew
 them fast, till the breath left her body and she fell at the foot
-of the tree. And the skin of her tender throat was trans-
-formed to scales, and her body to the body of a reptile. And
+of the tree. And the skin of her tender throat was transformed to scales, and her body to the body of a reptile. And
 kindling a blaze that consumed reptile and tree, Gessar
 turned back again to the giant’s castle.
 
@@ -3688,14 +3331,11 @@ at home that I may minister unto thee.”
 
 “Am [a babe that I should bide at home for an aching
 
-116
-
 
 head?” And on the morrow the giant bound up four of his
 heads in snowy kerchiefs and went forth to the chase.
 
-And when he was departed, Gessar summoned his won-
-der-steed from Sumeru, and journeyed to the kingdom on
+And when he was departed, Gessar summoned his wonder-steed from Sumeru, and journeyed to the kingdom on
 the west. And there a yellow hind leaped before him and,
 taking aim, he let fly his arrow from the bow, and the arrow
 pierced the brow of the hind and thrust its head forth from
@@ -3703,8 +3343,7 @@ her shining flank.
 
 And the hind was transformed into a yaksha, whose
 upper lip ascended to the skies, while her lower lip hung
-downward and touched the earth. And she seized the ar-
-row’s plumage at her brow, seeking to draw the dart from the
+downward and touched the earth. And she seized the arrow’s plumage at her brow, seeking to draw the dart from the
 wound, but she could not; and she seized the arrow’s head at
 her side, seeking to dislodge it, but in vain.
 
@@ -3732,8 +3371,6 @@ vouchsafed me a glimpse of it.”
 
 “Because I knew thy rashness and feared lest thou
 
-117
-
 
 shouldst imperil thy soul, therefore I kept it from thee.”
 
@@ -3744,13 +3381,11 @@ And the yaksha hurled the beetle at Gessar’s feet and
 he trod upon it. Then seizing the arrow’s plumage at her
 brow, he drew the dart from the wound, but plunged it
 again into her evil heart and she fell lifeless before him.
-And kindling a blaze that consumed yaksha and beetle, Ges-
-sar turned back again to the giant’s castle.
+And kindling a blaze that consumed yaksha and beetle, Gessar turned back again to the giant’s castle.
 
 And when the sun was red the giant, mounted upon his
 mule of copper-green, returned from the chase. And he
-said to Aralgo: “Eight of my heads throb in such bitter an-
-guish as they had been riven by swords,” and flinging him-
+said to Aralgo: “Eight of my heads throb in such bitter anguish as they had been riven by swords,” and flinging him-
 self upon the marble floor, he writhed in pain; but after a
 time he slumbered. :
 
@@ -3759,18 +3394,14 @@ slept and played on his right shoulder; and from his left
 nostril slipped a silver fish and played on his left shoulder.
 And Gessar issued forth from his hiding place, a bludgeon
 in either hand, and lifting the bludgeons high above his head,
-he brought them down again on the giant’s shoulders, slay-
-ing the golden and the silver fish and rousing his foe from
+he brought them down again on the giant’s shoulders, slaying the golden and the silver fish and rousing his foe from
 slumber. |
 
 And when the giant beheld him, he bellowed in rage and
 sprang upon him, as a tiger springs from the crest of a
-mountain upona goat. But Gessar drew forth his lightning-
-sword from its sheath, and ere the giant could wreak his
+mountain upona goat. But Gessar drew forth his lightningsword from its sheath, and ere the giant could wreak his
 anger upon him, he had sundered eleven heads from the
 monster’s shoulders. And now he raised his sword to smite
-
-118
 
 
 the last, but the giant stayed him, crying: “Thou radiant
@@ -3779,11 +3410,9 @@ thine avenging hand! For I never injured thee, save that
 I took thy wife to be my wife when thou hadst abandoned
 her. And now I own thee my master, and with all my guile
 will I serve thee, and with all my magic lore uphold thy
-power, and together we will do battle against thy foes and de-
-stroy them utterly. And in summer we will dwell in my do-
+power, and together we will do battle against thy foes and destroy them utterly. And in summer we will dwell in my do-
 main, for summer abates her ardor on this peak; but in
-winter we will journey to Tibet, for winter visits thee gen-
-tle
+winter we will journey to Tibet, for winter visits thee gentle
 
 And the giant’s words were pleasant in Gessar’s ears,
 and he stayed his hand, but clear as a silver trumpet the
@@ -3793,10 +3422,8 @@ for the flesh of his body is turning into bronze, and soon
 thou shalt strike in vain!”
 
 And straightway Gessar smote the giant’s neck, but his
-neck was transformed to bronze, and the edge of the light-
-ning-sword would not enter in. And he sought to thrust its
-point through the giant’s breast, but his breast was trans-
-formed to bronze, and the point of the lightning-sword
+neck was transformed to bronze, and the edge of the lightning-sword would not enter in. And he sought to thrust its
+point through the giant’s breast, but his breast was transformed to bronze, and the point of the lightning-sword
 would not enter in. And swiftly he plunged his sword
 through the giant’s paunch, and sought and pierced his
 heart, and when he drew his weapon forth again, he saw
@@ -3865,11 +3492,8 @@ Oy THE MARCH OF THE EPHREE SHERAIGOL
 Now it chanced on that very day when the son of heaven
 and scourge of evil on earth, the all-conquering Gessar
 Khan, had taken the draught of forgetfulness at the hands
-of the Lady Aralgo and drunk thereof, that the three Shirai-
-gol Khans met in council to advise with one another as to
+of the Lady Aralgo and drunk thereof, that the three Shiraigol Khans met in council to advise with one another as to
 where might be found a fair and seemly bride for the Prince
-
-123
 
 
 Gereltu, son of Tsagan Khan, chief of the three Khans of
@@ -3877,8 +3501,7 @@ Shiraigol.
 
 And Sheera Khan, the second brother, said: “Let us send
 couriers to the great ones of the earth, and let the couriers
-bring us tidings of the beauty and seemliness of their daugh-
-ters:
+bring us tidings of the beauty and seemliness of their daughters:
 
 And Chara Khan, the youngest brother, replied thereto:
 “And let our couriers be the birds of the air and the beasts
@@ -3893,22 +3516,18 @@ Khan were fair. And to the land of Tibet he sent a raven,
 to learn if the daughter of Gessar Khan were fair.
 
 And after a year the hawk returned from Balpdé and
-bowed before his masters and said: “The daughter of Bal-
-po’s Khan is fair as a new-born doe at her mother’s side.
+bowed before his masters and said: “The daughter of Balpo’s Khan is fair as a new-born doe at her mother’s side.
 Yet she is unversed in the ways of men and courts, and
 therefore unworthy to be our prince’s bride.”
 
 And after two years the fox returned from Enedkek and
-bowed before his masters and said: “The daughter of Ened-
-kek’s Khan is fair as a quiet lake among sunny hills. Yet
+bowed before his masters and said: “The daughter of Enedkek’s Khan is fair as a quiet lake among sunny hills. Yet
 she cleaves to her father’s house and is loth to leave it, and
 therefore she may not be Gereltu’s bride.”
 
 And after three years the raven returned from Tibet
 and bowed before his masters, and they saw that the light
 of his eyes was quenched in darkness.
-
-124
 
 
 And Tsagan cried: “What enemy hath darkened thy
@@ -3918,12 +3537,10 @@ daughter of Gessar Khan?”
 “T bring no tidings of the daughter of Gessar Khan, for
 when I beheld the Lady Rogmo, his chosen wife, I quenched
 the light of mine eyes that they might not gaze upon glory
-less than hers. When she stands upright, she is like a moun-
-tain pine decked in gleaming silks. When she sits, she is
+less than hers. When she stands upright, she is like a mountain pine decked in gleaming silks. When she sits, she is
 like the yurta of a prince in a green valley. By sunlight
 she melts to a flame, by moonlight she freezes to crystal, and
-when she raises her head, it is as though she led ten thou-
-sand warriors to battle, so measureless is her splendor.”
+when she raises her head, it is as though she led ten thousand warriors to battle, so measureless is her splendor.”
 
 And Tsagan Khan said to his brothers: “If the raven
 speaks truly, here is a princess worthy to be the bride of
@@ -3931,15 +3548,13 @@ Gereltu. If falsely, he is the very lord of liars. Are thy
 words true or false, O golden tongue?”’
 
 “True, gracious Khan! Moreover, if ye be minded to
-seize the Lady Rogmo, delay no longer! For Gessar tar-
-ries still in the country of the twelve-headed giant, and while
+seize the Lady Rogmo, delay no longer! For Gessar tarries still in the country of the twelve-headed giant, and while
 he bides from home, it may be ye will thrive in your venture.
 But should he return again, he will surely slay you.”
 
 And the three Khans took counsel with one another,
 and resolved that they would journey to Tibet, that their
-own eyes might behold the Lady Rogmo. And they trans-
-formed themselves into a vulture so huge that his outspread
+own eyes might behold the Lady Rogmo. And they transformed themselves into a vulture so huge that his outspread
 wings darkened the light of the sun. And the vulture’s
 snowy head was Tsagan Khan, and the vulture’s yellow
 body was Sheera Khan, and the vulture’s ebon tail was
@@ -3954,31 +3569,26 @@ as
 And so he flew to Tibet and alighted at dawn on the Lady
 Rogmo’s yurta, causing its walls to tremble and its golden
 columns to sway from side to side. And Rogmo sprang
-from her couch and summoned the Tiger-hero, whom Ges-
-sar had named defender of his household when he rode
+from her couch and summoned the Tiger-hero, whom Gessar had named defender of his household when he rode
 away to do battle with the giant.
 
 And Rogmo cried: “Brave Tiger-hero! Some monster
 hath alighted upon my yurta, and whether he be the giant
 who, having slain the son of heaven, comes now to seize
-his wife, I know not. Wherefore do thou stretch thy bow-
-string taut and lay thine arrows ready to thy hand, and we
+his wife, I know not. Wherefore do thou stretch thy bowstring taut and lay thine arrows ready to thy hand, and we
 will go forth together and destroy him.”
 
 And the Tiger-hero stretched his bowstring taut and laid
 his arrows ready to his hand, and by the Lady Rogmo’s side
-he went forth out of the yurta. But when he beheld the vul-
-ture, whose outspread wings darkened the light of the sun,
+he went forth out of the yurta. But when he beheld the vulture, whose outspread wings darkened the light of the sun,
 his heart grew faint within him, and he let fall his weapons
 to the earth.
 
 And Rogmo cried in scorn: “Thou Tiger-hero whose
 valor forsakes thee before the gaze of a bird, give me thy
-bow and arrows, and I will do what thy woman’s heart de-
-nies thee strength to do!”
+bow and arrows, and I will do what thy woman’s heart denies thee strength to do!”
 
-But the Tiger-hero answered: “Thou dost well to cen-
-sure me, my Lady Rogmo, yet I will not yield thee my ar-
+But the Tiger-hero answered: “Thou dost well to censure me, my Lady Rogmo, yet I will not yield thee my ar-
 rows and my bow, lest my shame be doubled in the eyes of
 my honored lord who gave thee to my care.”
 
@@ -3986,8 +3596,6 @@ my honored lord who gave thee to my care.”
 pierce the vulture’s breast!”
 
 And the Tiger-hero laid his arrow against the bowstring,
-
-126
 
 
 Ae 3 : ( ; iG fe : -
@@ -4007,8 +3615,7 @@ a ——
 
 
 aiming it at the vulture’s breast, but his hand trembled, and
-the arrow swerved, striking the outspread pinion of the vul-
-ture, whose yellow feathers rained about their heads. And
+the arrow swerved, striking the outspread pinion of the vulture, whose yellow feathers rained about their heads. And
 the bird soared aloft and, circling thrice above the Lady
 Rogmo, vanished from sight.
 
@@ -4019,8 +3626,7 @@ yellow body was transformed into Sheera Khan, with a
 wound in his right arm.
 
 And Tsagan said to his brothers: “What need for
-speech? We have seen that the raven spoke truly of Rog-
-mo’s beauty. Wherefore let us assemble our armies and
+speech? We have seen that the raven spoke truly of Rogmo’s beauty. Wherefore let us assemble our armies and
 march upon the hosts of Tibet, that we may seize the Lady
 Rogmo and bear her hither to be the bride of Gereltu, my
 son.”
@@ -4028,11 +3634,9 @@ son.”
 And Sheera Khan made answer: “Bethink thee well,
 good brother! For it is told that the mighty Gessar is a god
 indeed, sheathing his godhood in a mortal skin, and that his
-thirty heroes are such warriors as we may not hope to out-
-do.”
+thirty heroes are such warriors as we may not hope to outdo.”
 
-And Chara Khan, the youngest brother, cried: “To cap-
-ture the chosen wife of Kormuzda’s son, this were a deed
+And Chara Khan, the youngest brother, cried: “To capture the chosen wife of Kormuzda’s son, this were a deed
 for the gods to frown upon. Wherefore let us abandon this
 undertaking, and from among the daughters of neighboring
 princes let us make choice of a bride for Gereltu.”
@@ -4041,8 +3645,6 @@ princes let us make choice of a bride for Gereltu.”
 
 “Tf there be none to equal the Lady Rogmo, let us make
 choice of the fairest among them, and adorn her in robes
-
-128
 
 
 as rich and jewels as bright, and name her the Lady Rogmo.
@@ -4080,8 +3682,6 @@ he cried: “Why dost thou come with the dawn, fair Lady
 Rogmo? And is it a golden tree thou dost bear in thy hand
 or a feather of yellow?”
 
-129
-
 
 “How should I bear a tree in my hand, ShikeerP It
 is a feather of yellow, shot from the plumage of a mighty
@@ -4112,8 +3712,7 @@ heroes and the three hundred chieftains of the tribes! Be
 of good cheer, fair Rogmo, and bide thou here till I have
 assembled our princes in council together.”
 
-And Shikeer assembled the princes, and all that was be-
-fallen the Lady Rogmo he recounted to them. And Cho-
+And Shikeer assembled the princes, and all that was befallen the Lady Rogmo he recounted to them. And Cho-
 tong stepped forth and said: “The Shiraigol Khans, who
 have ever been our friends, are now our foes for the sake of
 the Lady Rogmo. Wherefore let Rogmo flee to some lonely
@@ -4121,8 +3720,6 @@ isle in the Chatun Stream, and when the Khans learn that
 she is gone from our midst, they will leave us unmolested.”
 
 And Shikeer made answer: “Chotong, the soul of a flea
-
-130
 
 
 inhabits thy body, that looks wisely upon the world in days
@@ -4147,25 +3744,19 @@ of the Lord Shikeer.
 And he came on his wingéd charger and, drawing rein
 before them, he cried: “Are the hosts assembled?”
 
-And Shumar the Eagle-hero answered: “They are as-
-sembled.”
+And Shumar the Eagle-hero answered: “They are assembled.”
 
 And Shikeer cried: “Do thou, Shumar the Eagle, ride
-on my left! And thou, Nantsong, youngest of Gessar’s he-
-roes, on my right! Now let the trumpets sound nine blasts
+on my left! And thou, Nantsong, youngest of Gessar’s heroes, on my right! Now let the trumpets sound nine blasts
 to herald our coming, and so we will go forth to do battle
 for our belovéd lord and against his foes!”
 
-And the trumpets sounded nine blasts, and the Lord Shi-
-keer, with Nantsong on his right, and Shumar the Eagle-he-
+And the trumpets sounded nine blasts, and the Lord Shikeer, with Nantsong on his right, and Shumar the Eagle-he-
 ro, on his left, and all his shining warriors at his back, ad-
-
-131
 
 
 vanced to meet the foe. But when he came to the peak of
-the Mountain of Sand, he beheld in the northern sky a mon-
-strous cloud that drew nearer and ever nearer, and at length
+the Mountain of Sand, he beheld in the northern sky a monstrous cloud that drew nearer and ever nearer, and at length
 he saw that the cloud was no simple cloud but a mighty
 horde of the wild beasts of the forest. And some were whole,
 and some were sorely wounded, and bidding his armies halt,
@@ -4180,24 +3771,20 @@ saying, the buzzard departed after his brethren.
 
 And Shumar the Eagle-hero bent his keen gaze upon the
 Chatun Stream where the enemy was encamped. And he
-cried aloud: “We may not overcome them, for their num-
-bers are as though the stars of the sky had fallen to earth.”
+cried aloud: “We may not overcome them, for their numbers are as though the stars of the sky had fallen to earth.”
 
 And Nantsong made answer: “Fie upon thee, Shumar!
 When hast thou seen the stars fall to the earth, that thou
 shouldst utter such madness! And what though their power
 be greater than thou canst measure! Is ours so scant?”
 
-And the Lord Shikeer spoke and said: “Youngest of Ges-
-sar’s heroes though thou be, Nantsong, thy words are sweet
+And the Lord Shikeer spoke and said: “Youngest of Gessar’s heroes though thou be, Nantsong, thy words are sweet
 with wisdom. If our enemy seethe as a cauldron of boiling
 milk, let us be as the ladle that empties it—a flood to their
 flame, a channel to their torrent, and to their arrogance a
 chastening rod. We will divide our forces in three parts,
 and I will lead my troops against Tsagan Khan, and bring
 back the sundered head of each enemy slain. And thou,
-
-132
 
 
 Shumar, shalt fall upon Sheera Khan and take his right
@@ -4213,14 +3800,12 @@ steeds: “Rush like a torrent down the mountainside! Leap
 like a wolf into the midst of the foe!” And their steeds
 yawned thrice in answer, and thrice they waved their tails
 from side to side, and smote their forefeet thrice upon the
-earth. And they rushed like torrents down the mountain-
-side, and leaped like wolves into the midst of the foe, and
+earth. And they rushed like torrents down the mountainside, and leaped like wolves into the midst of the foe, and
 all the hosts of Tibet followed after them.
 
 And it was as though their swords had been wrought of
 flame, and their arrows shot from the bows of angry gods,
-and as though the earth and heavens spun in terror, so furi-
-ous was their onslaught. And their chargers snorted col-
+and as though the earth and heavens spun in terror, so furious was their onslaught. And their chargers snorted col-
 umns of dense smoke, so that comrade was hidden from
 comrade, and they struck the enemies’ standards into the
 dust, and unhorsed their riders and trampled on those afoot.
@@ -4234,8 +3819,6 @@ And Shumar the Eagle slew a hundred thousand men
 of the armies of Sheera Khan, and his warriors slew as
 many. And driving before them the steeds they had taken
 captive, they set forth for the Mountain of Sand.
-
-134
 
 
 But ere they had journeyed the distance of an arrow’s
@@ -4275,8 +3858,6 @@ And Mergen cried: “T will not challenge thee, for thou
 hast wrought such wonders as I have never beheld. Yet
 the peacock takes pride in her tail, and the wise man in
 
-135
-
 
 his honor, and I dare not return to my master with empty
 hands. Wherefore I pray thee, give me two chargers of all
@@ -4288,8 +3869,7 @@ Knight of Six Thumbs. But I would know wherefore thy
 stallion bears an anvil bound to each foot.”
 
 “So untamed is his spirit that but for these anvils he
-would spurn the earth and consort with the wingéd crea-
-tures of the air.”
+would spurn the earth and consort with the wingéd creatures of the air.”
 
 “He pleases me. Wherefore do thou deliver him up to
 me, and I will give thee in payment two chargers, black and
@@ -4301,8 +3881,7 @@ I meet my comrades, lacking my steed?”
 “And what hinders me from slaying thee and taking thy
 steed, thou cowardly poltroon? Long since thou shouldst
 have perished, save that I would have had thee bear to the
-three Shiraigol Khans the tale of thine encounter with Shu-
-mar. Butif thou dispute my will, thou shalt feel my power!”
+three Shiraigol Khans the tale of thine encounter with Shumar. Butif thou dispute my will, thou shalt feel my power!”
 And he lifted his spear to strike.
 
 But ere the spear descended, Mergen cried: ‘Thou art
@@ -4311,18 +3890,14 @@ bear! ‘Take thou the stallion and give me in payment a black
 steed and a white, and seven besides.”
 
 And so it was done. And Shumar took the stallion to
-whose feet anvils were bound and withdrew to the Moun-
-tain of Sand.
+whose feet anvils were bound and withdrew to the Mountain of Sand.
 
 And Nantsong the Falcon, youngest of Gessar’s heroes,
-
-136
 
 
 slew fifty thousand men of the armies of Chara Khan, and
 his warriors slew as many. And driving before them the
-steeds they had taken captive, they set forth for the Moun-
-tain of Sand.
+steeds they had taken captive, they set forth for the Mountain of Sand.
 
 But Nantsong bethought him of the shining queues that
 adorned the heads of the slain, and how bravely they might
@@ -4355,8 +3930,6 @@ heavens. Should I slay all with one arrow, the queues are
 mine. Should I fail, thou shalt take them with thee to Tibet.”
 
 “Let it be so!”
-
-137
 
 
 And Teergen spanned his bow, and aimed his arrow at
@@ -4392,11 +3965,8 @@ held him erect in the saddle. And they rode onward, and
 he swayed and would have fallen to the left, but his dappled
 steed turned his long neck to the left and held him upright in
 
-138
 
-
-the saddle. And they rode onward, and now he swayed for-
-ward, and though the dappled steed sought to stretch back
+the saddle. And they rode onward, and now he swayed forward, and though the dappled steed sought to stretch back
 his neck and uphold his master, he could not, and Nantsong
 fell from the saddle, and lay bereft of power on the earth.
 
@@ -4415,8 +3985,7 @@ wont to surround me as its feathers surround a birdP Where
 are thy brothers who were wont to cleave closer one to the
 other than the leaves of atreeP I may not leave thee to seek
 them, for the wolves would devour thee and the ravens pluck
-forth thine eyes. Who then would lay his hand in tender-
-ness upon me, and name me his faithful dappled steed?”
+forth thine eyes. Who then would lay his hand in tenderness upon me, and name me his faithful dappled steed?”
 
 And as he lamented, his eyes lighted upon the ravens that
 hovered above him, and suddenly he bethought himself and
@@ -4428,8 +3997,6 @@ bodies of these wolves in reward for your service.”
 
 And the ravens answered: “How may we serve thee,
 steed of the artful tongue?”
-
-139
 
 
 “Fly swiftly to the peak of the Mountain of Sand, and
@@ -4445,14 +4012,12 @@ bitter wound in his side.”
 
 And a great cry arose from the throats of the warriors,
 and drawing their swords from their sheaths, they shouted:
-“Vengeance! Vengeance on him that hath wounded Nant-
-song the Falcon!”
+“Vengeance! Vengeance on him that hath wounded Nantsong the Falcon!”
 
 But Shikeer lifted up his hand and stilled the clamor and
 cried: “If the Falcon be wounded, my comrades, doubt not
 that he who hath dealt the wound is slain, and Nantsong hath
-more need of healing than of vengeance. Wherefore sum-
-mon Kinggen the Healer, that he may go with me in search
+more need of healing than of vengeance. Wherefore summon Kinggen the Healer, that he may go with me in search
 of our brother, and when he hath been made whole of his
 wound, we will return again.”
 
@@ -4468,8 +4033,6 @@ limb from limb. And the ravens feasted upon their flesh.
 
 And Kinggen the Healer poured the juices of fragrant
 
-140
-
 
 herbs into the wounds of Nantsong and made him whole,
 and rising refreshed, he mounted his dappled steed, and so
@@ -4481,12 +4044,10 @@ for joy, and when they beheld his steed, bedecked with the
 shining queues of the enemy, their laughter echoed to the
 camp of the three Shiraigol Khans who trembled to hear it.
 
-But suddenly Shumar the Eagle cried: “Two riders gal-
-lop toward us, and one is the Lady Rogmo, and one is the
+But suddenly Shumar the Eagle cried: “Two riders gallop toward us, and one is the Lady Rogmo, and one is the
 Prince Chotong who follows after her.”
 
-And the riders drew nigh, and having scaled the Moun-
-tain of Sand and reached its summit, the Lady Rogmo cried:
+And the riders drew nigh, and having scaled the Mountain of Sand and reached its summit, the Lady Rogmo cried:
 “T am come to join you, for it ill beseems the chosen wife
 of Gessar to bide at home, awaiting the battle’s issue. But
 wherefore Chotong hath followed me I know not, for he is
@@ -4502,33 +4063,24 @@ might leave thee unmolested? Nay, thou art come to share
 our spoils, having shunned our perils. But though we have
 captured a mighty horde of steeds, there is none for thee.
 - Nine chosen herds must be offered up in thanksgiving to
-the gods, and nine must be paid in tribute to the Lady Rog-
-mo, and when the thirty heroes have taken their share, and
+the gods, and nine must be paid in tribute to the Lady Rogmo, and when the thirty heroes have taken their share, and
 all our warriors have been rewarded, and a steed bestowed
 on those who now go afoot, what will be left for thee, daunt-
 
-141
-
 
 less Chotong, save to return on the nag that bore thee
-hither?” And Chotong was angered by the words of Shi-
-keer, but the warriors laughed.
+hither?” And Chotong was angered by the words of Shikeer, but the warriors laughed.
 
 And when nine chosen herds had been offered up in
 thanksgiving to the gods, and nine had been paid in tribute
 to the Lady Rogmo, those that remained were allotted among
 the thirty heroes and the chieftains and warriors of the three
 tribes of Tibet, and a steed was bestowed on those who
-went afoot. And Shumar the Eagle gave to the Lord Shi-
-keer the tireless stallion he had taken from Mergen of the
-Six Thumbs, that he might be a comrade to the wingéd char-
-ger. But no steed of all the treasure was given to Chotong.
+went afoot. And Shumar the Eagle gave to the Lord Shikeer the tireless stallion he had taken from Mergen of the
+Six Thumbs, that he might be a comrade to the wingéd charger. But no steed of all the treasure was given to Chotong.
 
 And night fell upon the peak of the Mountain of Sand,
 and the armies slumbered.
-
-
-142
 
 
 VII. THE TREACHERY OF CHOTONG
@@ -4597,9 +4149,6 @@ a 95
 gi Ge ne) (oh
 
 
-45
-
-
 I
 
 
@@ -4608,8 +4157,7 @@ naught of my spoils will I bestow upon him or upon his
 comrades.”
 
 And he stole down the slope of the Mountain of Sand to
-the enemy’s camp, and screened by the darkness, he plun-
-dered their herds, then driving his booty before him, set forth
+the enemy’s camp, and screened by the darkness, he plundered their herds, then driving his booty before him, set forth
 again for the tents of his countrymen.
 
 But one who was named Ulan of the Red Eyes espied
@@ -4639,12 +4187,9 @@ of his capture.
 
 And Chotong lay prone before the Shiraigol Khans,
 
-146
-
 
 and besought them piteously, crying: “Grant me my life, ye
-most glorious among the sovereigns of earth, and I will re-
-veal to you how ye may win the victory over your foe, and
+most glorious among the sovereigns of earth, and I will reveal to you how ye may win the victory over your foe, and
 take the Lady Rogmo captive.”
 
 And Tsagan Khan ordered that Chotong be released
@@ -4658,39 +4203,31 @@ thou art minded to say!”
 
 And Chotong arose and spoke: ““Though Gessar’s heroes
 are mighty beyond all men, and not to be equalled in the
-arts of war, through guile ye may overcome them. There-
-fore return to me my armor and my weapons and my steed,
+arts of war, through guile ye may overcome them. Therefore return to me my armor and my weapons and my steed,
 and give me as well some score of your own steeds that have
 passed their prime, and I will go to my countrymen and
-say: ‘The Shiraigol Khans have withdrawn from the Cha-
-tun Stream and journey homeward. I followed in their
-wake, but so swift was their retreat that I might not over-
-take them, and coming upon these steeds that they had aban-
+say: ‘The Shiraigol Khans have withdrawn from the Chatun Stream and journey homeward. I followed in their
+wake, but so swift was their retreat that I might not overtake them, and coming upon these steeds that they had aban-
 doned, I drove them hither.’ Hearing these tidings, Shikeer
 will disband his armies and return to his home on the Stream
 of the Elephant, but the Lady Rogmo will prepare a feast
 for the thirty heroes in honor of their victory. Having
 drunk deeply, they will slumber deeply, and in that hour ye
-may safely send your forces to take the Lady Rogmo cap-
-ve,
+may safely send your forces to take the Lady Rogmo capve,
 
 And Tsagan Khan rejoiced in the counsel of Chotong,
-
-147
 
 
 and commanded that his armor be returned to him and his
 weapons and his steed, and that he be given some score of
 their own steeds that had passed their prime. And driving
-this herd before him, Chotong set forth again for the Moun-
-tain of Sand.
+this herd before him, Chotong set forth again for the Mountain of Sand.
 
 And when he had reached the peak, Shikeer and the
 thirty heroes greeted him, crying: “Welcome, Chotong!
 What sorry array of steeds is this that bears thee company?”
 
-And Chotong answered: “The Shiraigol Khans are with-
-drawn from the Chatun Stream and, humbled in defeat, they
+And Chotong answered: “The Shiraigol Khans are withdrawn from the Chatun Stream and, humbled in defeat, they
 journey homeward. I followed after them, hoping to take
 captive a herd of steeds, since ye would give me naught of
 all your treasure. Yet so swift was their retreat that I might
@@ -4705,16 +4242,13 @@ and journey homeward. Wherefore let us disband our hosts
 and return to our dwelling-places!”
 
 But the Lady Rogmo cried: “Shikeer, I pray thee, take
-heed! How often hath Gessar warned us: “The voice of Cho-
-tong is soft as the rarest of silks, his words are sweet as the
+heed! How often hath Gessar warned us: “The voice of Chotong is soft as the rarest of silks, his words are sweet as the
 richest of fine cakes, but his heart is harder than the hardest
 flint.’ Trust not his tidings, Shikeer, for he is a liar whose
 like the golden sun hath never beheld!”
 
 ‘A liar he is and a coward, Lady Rogmo, yet when hath
 he betrayed us, that we should charge him with so foul a
-
-148
 
 
 deed? Nay, he speaks truly! Wherefore let us disband our
@@ -4740,8 +4274,7 @@ him. And he would have turned to sound the alarm, but an
 enemy’s arrow pierced his breast, and he fell from his steed
 and perished.
 
-And the hostile forces crept silently upon the slumber-
-ing heroes of Tibet, their swords unsheathed. And the Lady
+And the hostile forces crept silently upon the slumbering heroes of Tibet, their swords unsheathed. And the Lady
 Rogmo, awaiting the tidings of Arigon, espied them from
 the doorway of her yurta and uttered a piercing cry.
 
@@ -4749,11 +4282,8 @@ And the heroes awoke, but their eyes were heavy with
 sleep and their limbs with drinking, and the strength of
 thirty was less than the strength of one. And they sought
 to summon their steeds that grazed in a distant pasture, but
-though each steed answered the summons with a loud neigh-
-ing, they could not break the ranks of the enemy that held
+though each steed answered the summons with a loud neighing, they could not break the ranks of the enemy that held
 them from their masters.
-
-150
 
 
 And the heroes fought on foot, and their swords flashed,
@@ -4777,8 +4307,7 @@ Tsagan Khan smote his head from his shoulders, and he
 perished.
 
 And all the heroes of Gessar perished save Bodotshi, who
-was named the Fire-hero, for upon him the gods had be-
-stowed the power to transform himself to flame. And now
+was named the Fire-hero, for upon him the gods had bestowed the power to transform himself to flame. And now
 as a burning coal he rolled through the enemy’s lines, and
 those whom his breath touched were consumed to ashes.
 And the earth over which he passed was a lake of fire, and
@@ -4795,8 +4324,7 @@ Igi
 
 remained to defend her, she withdrew into her yurta, and
 laid beneath her robe a sabre forged of unbending steel, and
-girded a bow and quiver about her shoulders, with a hun-
-dred golden arrows whereon Gessar had cast a potent spell
+girded a bow and quiver about her shoulders, with a hundred golden arrows whereon Gessar had cast a potent spell
 ere he set forth for the country of the twelve-headed giant.
 And she cried: “Because the son of heaven tarries in distant
 realms, and Shikeer, unheedful of my warning, is departed
@@ -4829,8 +4357,6 @@ earth.
 
 And mounting the foremost steed, she galloped into the
 
-162
-
 
 midst of the foe, and her arrows fell like a golden rain among
 them, and so potent was Gessar’s spell that each arrow slew
@@ -4851,11 +4377,9 @@ And the three Shiraigol Khans rode up and down among
 the affrighted armies, restoring their ranks to order. And
 they surrounded the Lady Rogmo, whose quiver was empty
 of all save a single arrow, husbanded against her direst need.
-And from beneath her robe she drew forth the sabre of un-
-bending steel and laid about her, slashing to right and left,
+And from beneath her robe she drew forth the sabre of unbending steel and laid about her, slashing to right and left,
 and unhorsing a thousand riders at each blow. But now
-they pressed upon her from every hand, and she could nei-
-ther escape through their serried lines nor wield her weapon.
+they pressed upon her from every hand, and she could neither escape through their serried lines nor wield her weapon.
 And she transformed herself into a wasp and rose above
 them, but Tsagan Khan transformed himself into a snowy
 hawk, and Sheera Khan into a yellow hawk, and Chara Khan
@@ -4864,8 +4388,6 @@ to earth. And all her arts being spent, she yielded to them.
 
 Thus was the Lady Rogmo taken captive by the three
 Khans of Shiraigol.
-
-153
 
 
 And they mounted her upon a blue-black steed that bore
@@ -4887,8 +4409,7 @@ the Lady Rogmo captive.”
 And Shikeer leaped to his wingéd charger, and rode to
 the yurta of Sanglun on the Lion’s Stream. And he cried:
 “T go to take vengeance upon the Shiraigol Khans, who
-have slain the thirty heroes and taken the Lady Rogmo cap-
-iver.
+have slain the thirty heroes and taken the Lady Rogmo capiver.
 
 And Sanglun cried: “Whose power hath wrought this
 evilP”
@@ -4905,8 +4426,6 @@ whose boughs are withered and whose sap flows sluggishly
 in its veins. Do thou bide here and await the coming of
 Gessar, lest there be none to welcome his return.”
 
-154
-
 
 “My bones are withered indeed, and my blood flows
 sluggishly, and the storms of many years have blasted my
@@ -4917,8 +4436,7 @@ is spent, Shikeer, and as thou hast decreed it, I will bide here
 the coming of Gessar Khan!”
 
 And Shikeer bade his sire farewell, and gave rein to his
-wingeéd charger, crying: “Bear me to the peak of the Moun-
-tain of Sand, from whose height I may look down on the
+wingeéd charger, crying: “Bear me to the peak of the Mountain of Sand, from whose height I may look down on the
 retreating hosts, and tell over their number!”
 
 And the wingéd charger leaped forward, and brought
@@ -4930,8 +4448,7 @@ Rogmo.
 
 And his heart was oppressed with woe and he cried:
 “How shall I answer my brother when he returns and says:
-‘What hast thou done, Shikeer?P’ Shall I answer him: ‘Be-
-cause I was unheedful of thy word, and the word of the
+‘What hast thou done, Shikeer?P’ Shall I answer him: ‘Because I was unheedful of thy word, and the word of the
 Lady Rogmo, therefore are thy thirty heroes slain, and thy
 chosen wife a captive in the land of the Shiraigol Khans!’
 Nay, rather will I plunge down among them, to slay and be
@@ -4942,28 +4459,22 @@ And Rogmo heard his words and cried to him: ‘“‘Shikeer!
 Hawk among men! Though the tree be shattered, do not the
 roots remain? ‘Though the man perish, doth not his seed
 
-155
-
 
 live after himP Despair not, but seek out Gessar, for alone
 thou shalt not prevail over this enemy, and he will restore to
 life the thirty heroes, and together ye shall take vengeance
 on those that have wronged him!”
 
-And Shikeer made answer: “Wilt thou veil thy counte-
-nance from thy captors’ gaze till I am returned again with
+And Shikeer made answer: “Wilt thou veil thy countenance from thy captors’ gaze till I am returned again with
 Gessar Khan?”
 
-And she replied: “For a twelvemonth will I veil my coun-
-tenance from my captors’ gaze, but when that time is past,
-I must needs wed with the Prince Gereltu. Make haste, there-
-fore, Shikeer! Make haste, thou wingéd charger! Leap like
+And she replied: “For a twelvemonth will I veil my countenance from my captors’ gaze, but when that time is past,
+I must needs wed with the Prince Gereltu. Make haste, therefore, Shikeer! Make haste, thou wingéd charger! Leap like
 a wild goat over the mountain peaks, swim through the
 waters like the king of fish, outspeed the rushing winds that
 sweep the heavens, and bring me succor!”
 
-And Shikeer would have turned his steed to do her bid-
-ding, but Tsagan Khan taunted him, crying: “Valiant Shi-
+And Shikeer would have turned his steed to do her bidding, but Tsagan Khan taunted him, crying: “Valiant Shi-
 keer! Faithful friend to thy master! What wilt thou say to
 Gessar when thou hast found him? Wilt thou say: “The
 thirty heroes have perished in defense of the Lady Rogmo,
@@ -4979,8 +4490,6 @@ leaped from the mountain peak to the plain beneath him.
 
 And he mowed down the Shiraigol hosts as a reaper mows
 down a field of grain, and he dealt with them as an axe deals
-
-156
 
 
 with the forest. And the Chatun Stream was choked with
@@ -5018,8 +4527,6 @@ undo his foe, dismounted and hewed down a mighty pine
 that crashed across the throat of Shikeer and was like to
 strangle him. But the wingéd charger, fondling him with
 
-158
-
 
 his tongue, awakened him, and he strove to arise but could
 not, nor could he move his head to left or right. And Tsagan
@@ -5030,9 +4537,6 @@ above Shikeer, and as the sword descended, smiting his head
 from his shoulders, the life of Shikeer departed from his
 body and entered into the body of the hawk, who soared aloft
 into the blue heavens and vanished.
-
-
-159
 
 
 VIII. THE PUNISHMENT OF THE
@@ -5095,7 +4599,6 @@ be
 a
 ’
 (a
-2
 
 
 COUNTRY OF THE TWELVE-HEADED GIANT,
@@ -5113,12 +4616,9 @@ feather from its plumage, and pricked her wrist with its
 point, then wrote in her blood upon the arrow’s shaft a
 message to Gessar Khan. And she spoke to the arrow,
 
-163
-
 
 saying: “Thou dart of gold that Gessar’s hand hath blessed,
-seek out thy master!” And hurling it from her, she contin-
-ued on her way to the realm of the Shiraigol Khans.
+seek out thy master!” And hurling it from her, she continued on her way to the realm of the Shiraigol Khans.
 
 Now Gessar took his ease upon the wall of the giant’s
 castle, and the Lady Aralgo sat by his side. For she feared
@@ -5134,8 +4634,7 @@ iron, and weighted his neck with an iron halter, and bound
 him fast to an iron beam, and sealed the dungeon gate. And
 for many moons he lay without food or drink, but each
 twelvemonth, when the snows melted and the streams were -
-released from bondage, she entered his dungeon and scat-
-tered a handful of hay, that he might eat, and gave him a cup
+released from bondage, she entered his dungeon and scattered a handful of hay, that he might eat, and gave him a cup
 of water to quench his thirst, then left him to languish for
 another twelvemonth.
 
@@ -5145,8 +4644,7 @@ within and prepare a cooling draught, that I may be
 refreshed.”
 
 But scarcely was she departed, when an ancient crone
-appeared on the path below him, driving an ancient cow be-
-fore her.
+appeared on the path below him, driving an ancient cow before her.
 
 And Gessar cried: ‘Good mother, wherefore dost thou
 drive this hoary beast to pastureP Surely she hath served
@@ -5158,8 +4656,7 @@ thee well and earned release from labor, for her horns are
 crumbling with age.”
 
 And the crone answered: “Nine weary years hath she
-served me, having been a calf when Gessar Khan van-
-quished the twelve-headed giant. Yet she is doomed to labor
+served me, having been a calf when Gessar Khan vanquished the twelve-headed giant. Yet she is doomed to labor
 till the charm that holds him here be lifted.” And the crone
 went her way, but the heart of Gessar was troubled by her
 words.
@@ -5173,12 +4670,10 @@ the east of this castle, near the Black Pyramid, and ever it
 hath been my wont to fly to the west in search of food for
 my mate and my fledglings. Yet when night comes down,
 I return to them again, that I may guard them from harm.
-Far otherwise hast thou dealt with those that love thee, all-
-conquering one whom Aralgo’s wiles have conquered.
+Far otherwise hast thou dealt with those that love thee, allconquering one whom Aralgo’s wiles have conquered.
 Where is the Lady Rogmo, thy beauteous wifeP Where is
 Shikeer, the brother of thy heart? Where are the thirty
-heroes and all thy people who have looked to thee for com-
-fort? Since thou hast thought it well to abandon them to
+heroes and all thy people who have looked to thee for comfort? Since thou hast thought it well to abandon them to
 death and captivity, meeter it were that thou withhold thy
 scorn from those that obey Buddha’s law.”
 
@@ -5189,20 +4684,16 @@ branches of a tree, shattering its peace.
 And now the enchanted arrow appeared in the blue
 heavens, winging its way to Gessar. And marking him
 
-165
-
 
 where he sat upon the castle wall, the dart descended and
 came to rest within his empty quiver. And Gessar drew it
 forth and read upon its shaft the word of the Lady Rogmo:
-“Dost thou live, Gessar? Then know that thy brother Shi-
-keer is vanished from the earth, and thy thirty heroes lie
+“Dost thou live, Gessar? Then know that thy brother Shikeer is vanished from the earth, and thy thirty heroes lie
 slain on the battlefield through the treachery of the vile
 Chotong, and Rogmo, thy chosen wife, is taken captive by
 the three Shiraigol Khans. If thou be in life, deliver me
 from their bondage, but if thou be overthrown by the giant’s
-might or the craft of the Lady Aralgo, I will bare my coun-
-tenance to the gaze of my captors and wed with the Prince
+might or the craft of the Lady Aralgo, I will bare my countenance to the gaze of my captors and wed with the Prince
 Gereltu.”
 
 And the darkness wherein for nine weary years he had
@@ -5222,8 +4713,6 @@ thy chosen wife is captured, and all to content the Lady
 Aralgo! Yet now that thy wits have been restored to thee,
 canst thou do naught save how] like a beaten slave to the
 
-166
-
 
 high heavens?” So saying, he turned his back upon the
 castle and fled away.
@@ -5242,8 +4731,7 @@ whatsoever steed thou shalt find in the giant’s stables, and
 follow after, and it may be thou shalt woo him from his
 Aerer,
 
-And Gessar found in the stables of the giant his copper-
-green mule, and leading him forth, he cried to Aralgo:
+And Gessar found in the stables of the giant his coppergreen mule, and leading him forth, he cried to Aralgo:
 “Thou artful one that hast brought me to dishonor! Give
 me my helmet and mine armor and my spear, that I may
 depart out of this land of woe!”
@@ -5260,8 +4748,6 @@ times the giant’s castle spun round and round, then burst
 into raging flame.
 
 And Aralgo flung from the casement his helmet and his
-
-167
 
 
 armor and his spear, and Gessar cried to the flames: “Let
@@ -5299,8 +4785,6 @@ noon and nightfall she fed me with oats and golden wheat,
 and often when ye feasted she brought me almonds and
 sugar from your board, and other foods pleasant to men and
 
-168
-
 
 =
 
@@ -5334,8 +4818,7 @@ kindled against thee, dear master, for my wrongs were
 greater than I could bear.”
 
 And Gessar answered: “Thine anger is just, and thy
-wrongs shall be avenged!” And mounting his wonder-
-steed, he turned his head toward the Shiraigol realm that
+wrongs shall be avenged!” And mounting his wondersteed, he turned his head toward the Shiraigol realm that
 lay to the north. And the Lady Aralgo followed after him
 on the copper-green mule.
 
@@ -5364,14 +4847,11 @@ stream!”
 And Aralgo took the mire into her mouth but spat it
 forth again, crying in wrath: “Wherefore dost thou give
 
-170
-
 
 me leathern stirrups to eat, and mire to quench my thirst?”
 
 “That the wrongs of my wonder-steed may be avenged,
-and thine evil deeds requited. And for the draught of for-
-getfulness whereby thou didst enslave the son of heaven,
+and thine evil deeds requited. And for the draught of forgetfulness whereby thou didst enslave the son of heaven,
 thou shalt come no more to the Valley of Pleasant Winds
 but wander through the Lonely Desert till thy years be
 spent!”
@@ -5395,8 +4875,7 @@ rang forth: “Stay, Gessar!”
 And he peered on every hand and before and behind him,
 and at length he raised his eyes to the heavens and beheld
 a creature whose head was as the head of a man, but whose
-body and tail were fashioned like a hawk’s. And the crea-
-ture flew earthward and alighted on his saddle-bow.
+body and tail were fashioned like a hawk’s. And the creature flew earthward and alighted on his saddle-bow.
 
 And he cried: “All-conquering, all-healing Gessar
 Khan! I am Shikeer thy brother, and since my head was
@@ -5404,8 +4883,6 @@ smitten from my body at the Chatun Stream, I have awaited
 thy coming.”
 
 And Gessar uttered a mighty cry and embraced his
-
-171
 
 
 brother, and they wept so that the earth shook with their
@@ -5432,19 +4909,15 @@ And when he was come within three days’ journey of
 the Shiraigol borders, he drew from his quiver the enchanted
 arrow that the Lady Rogmo had sent him. And he cried:
 “Go thou before me, and destroy the sentinels that guard the
-borders, lest they herald my coming to my foe!” And leap-
-ing from his hand, the arrow took its flight to Shiraigol.
+borders, lest they herald my coming to my foe!” And leaping from his hand, the arrow took its flight to Shiraigol.
 
-Now the sentinels that guarded the borders of the king-
-dom were three. And the first could see farther than a fal-
+Now the sentinels that guarded the borders of the kingdom were three. And the first could see farther than a fal-
 con can fly in three days, and the second could hear farther
 than a fox can run in three days, and the third could reach
 farther than an army can march in three days.
 
 And the Far-Seeing One cried to his comrades: “What
 creature is this that comes in flight against usP Is it an
-
-172
 
 
 eagleP Can itbearaven? Swiftly it nears us, yet its shape
@@ -5467,8 +4940,7 @@ And they did as the Far-Reaching One commanded, and
 when he espied the arrow, he plucked it forth out of the
 firmament and strove to break it asunder. But he could not,
 and the arrow bore him aloft, together with his comrades
-who clung behind him, then plunged with them into a rush-
-ing river and left them there to perish. And when Gessar
+who clung behind him, then plunged with them into a rushing river and left them there to perish. And when Gessar
 came to the borders of Shiraigol, his arrow awaited him on
 the river’s bank, its head thrust through the mire, its golden
 plumage shining in the sun.
@@ -5482,8 +4954,6 @@ him down beside the spring as if in slumber.
 
 Now in the cool of the day the daughters of the three
 
-173
-
 
 Shiraigol Khans took their way hither, that they might
 disport themselves in the shade of the trees and drink of the
@@ -5494,8 +4964,7 @@ countenance veiled from sight.
 And the scarlet fruit fell from the hands of a maid into
 the lama’s mouth as he lay by the spring. And they ran to
 his side and berated him, crying: “Who art thou, graybeard,
-that hast dared to enter the grove of the three Khans’ daugh-
-ters, and snatch our scarlet fruit into thy mouth?”
+that hast dared to enter the grove of the three Khans’ daughters, and snatch our scarlet fruit into thy mouth?”
 
 And the lama answered: “Alas, my children, I am a holy
 man, and I go in search of peace. Of your charity, take
@@ -5503,8 +4972,7 @@ not the fruit from my mouth, but suffer me to eat of it, and
 should it please you to bow your heads before me, I will
 bless you in Buddha’s name.’
 
-But the maidens mocked him, ener “Shall the daugh-
-ters of a Khan bow down before an unclean beggar?”
+But the maidens mocked him, ener “Shall the daughters of a Khan bow down before an unclean beggar?”
 
 And now the Lady Rogmo drew nigh and questioned
 the lama, saying: ‘Whence art thou, ancient man, and
@@ -5521,9 +4989,6 @@ laid there? Go, slake your thirst at the spring as ye are
 wont, then depart, and trouble him no more!”
 
 And the maidens did her bidding, and when they were
-
-
-174
 
 
 departed, Rogmo cried: “Thou art no ancient lama, but
@@ -5555,16 +5020,13 @@ And again he encircled the wall of the castle, crying:
 “Let him that slew Nantsong the Falcon tremble, for the
 day of his downfall is at hand!”
 
-And a third time he encircled the wall of the castle, cry-
-ing: “Let him that slew Shumar the Eagle tremble, for the
+And a third time he encircled the wall of the castle, crying: “Let him that slew Shumar the Eagle tremble, for the
 day of his downfall is at hand!” And having encircled the
 wall of the castle thrice, the spider vanished.
 
 And Tsagan Khan was seated upon his throne, and his
 second brother sat at his right hand, and his youngest brother
 at his left. And hearing the cry of the spider, he summoned
-
-175
 
 
 his sentinels before him, and questioned them, saying:
@@ -5577,11 +5039,9 @@ horned creature whose like we have never seen that cried
 in a mortal’s voice.”
 
 And the three Khans of Shiraigol trembled, for they
-knew that Gessar was come from the land of the twelve-
-headed giant to take vengeance upon them.
+knew that Gessar was come from the land of the twelveheaded giant to take vengeance upon them.
 
-But Tsagan Khan cried: ‘Let ten thousand of our good-
-liest warriors assemble in the castle court, and let them go
+But Tsagan Khan cried: ‘Let ten thousand of our goodliest warriors assemble in the castle court, and let them go
 forth to do battle with this insolent one that dares send his
 messenger of evil to the Shiraigol Khans.”
 
@@ -5602,8 +5062,6 @@ steed black clouds of smoke and yellow tongues of fire
 ascended to the skies. And brandishing his lightning-sword,
 he cried: “Wherein did I wrong you, ye lords of Shiraigol,
 
-176
-
 
 that ye must needs invade my realm, and slay my heroes,
 and scatter my people over the earth, and take captive my
@@ -5622,8 +5080,7 @@ heroes as well?”
 me! For if ye will not, I will seek you out in your hiding
 place and slay you.”
 
-“We will do battle with thee, Gessar, and as we van-
-quished thy heroes, so shalt thou be vanquished!’
+“We will do battle with thee, Gessar, and as we vanquished thy heroes, so shalt thou be vanquished!’
 
 “Let the gods judge!”
 
@@ -5643,8 +5100,6 @@ seized by shimnus.
 And now Sheera Khan issued forth from the castle, and
 his bow was girded about his shoulders, and his quiver hung
 by his side.
-
-177
 
 
 And Gessar cried: “Wilt thou slay me with an arrow,
@@ -5686,8 +5141,6 @@ grappled with him, striving to force him to earth, or fling
 him over his head, or crush his bones in the cruel embrace of
 death. But Gessar stood steadfast as a column that is driven
 
-178
-
 
 many fathoms into the ground, and his bones were as the
 tusks of an elephant, and the strength of his enemy availed
@@ -5708,10 +5161,6 @@ awaited him. And she mounted behind him on the brown
 wonder-steed and they journeyed to Tibet.
 
 
-180
-
-
-7
 Y
 
 
@@ -5766,34 +5215,28 @@ HIS PEOPLE IN THE JOY AND WISDOM OF THE GODS.
 
 Now the brown wonder-steed bore Gessar and the Lady
 Rogmo swiftly into Tibet, but when they were come again
-within its borders, Gessar transformed himself into a mer-
-chant, and the wonder-steed into a lowly ass, and the Lady
+within its borders, Gessar transformed himself into a merchant, and the wonder-steed into a lowly ass, and the Lady
 Rogmo into a servingman that led his beast by the reins.
-
-183
 
 
 And they encountered a herdsman among his flocks,
 and Gessar cried: ‘Who is the lord over this fair domain,
 and what place doth he inhabit?”
 
-And the herdsman answered: ‘““The vile Chotong inhab-
-its the yurta of the mighty Gessar and sits on his throne.
+And the herdsman answered: ‘““The vile Chotong inhabits the yurta of the mighty Gessar and sits on his throne.
 Peace hath made way for strife, and gladness for weeping,
 and his people curse the day when Gessar forsook them to
 do battle with the twelve-headed giant.”
 
 And they fared farther till they came within sight of
 Gessar’s yurta, wherein Chotong dwelt. And Gessar
-alighted and strewed incense upon the earth, and straight-
-way the plains were thronged with lusty cattle, and bearded
+alighted and strewed incense upon the earth, and straightway the plains were thronged with lusty cattle, and bearded
 goats leaped on the mountainside. And here and there
 white yurtas blossomed till forty gleamed in the sun, and
 in their midst, supported on golden arrows, rose the yurta
 of a prince.
 
-And gazing from afar, Chotong beheld the fair encamp-
-ment, and he summoned Sanglun before him, whom he had
+And gazing from afar, Chotong beheld the fair encampment, and he summoned Sanglun before him, whom he had
 made his vassal to tend his herds. And he said: ‘‘Go thou
 to the stranger tribe that have pitched their tents on our land,
 and say to them that for each day’s sojourn in the realm of
@@ -5807,8 +5250,6 @@ scarce support the weight of his master, for he had toiled
 overlong, and he yearned for ease and the comfort of green
 pastures, that he might muse on his exploits, singing their
 
-184
-
 
 poh t
 asi weak
@@ -5820,8 +5261,7 @@ that he should serve Sanglun, crying: “Ye are well mated,
 an ancient beggar and his ancient steed!”
 
 Now as they took their way to the camp of the stranger
-tribe, the steed broke into speech, saying: “How do my toil-
-worn bones cry out beneath thee, beloved master! Had I
+tribe, the steed broke into speech, saying: “How do my toilworn bones cry out beneath thee, beloved master! Had I
 not been born with a hero’s heart in my breast, I were fain
 to fold my legs upon one another, nor move again from this
 place
@@ -5851,8 +5291,6 @@ me say to thy lord that for each day’s sojourn within his
 borders ye shall yield him tribute of a herd of goodly cattle.
 But if ye will not, he will scatter you like snowflakes on the
 
-186
-
 
 blast. And the first herd shall be yielded up on the morrow!”
 
@@ -5873,8 +5311,7 @@ in the shadow of wide-spreading trees rivulets flowed. And
 Sanglun led his steed to the green meadow, but for himself,
 he entered into the yurta.
 
-And there on a cloth of felt a feast was laid of the hind-
-quarter of an ox, and savory tea steamed in a bow] of horn.
+And there on a cloth of felt a feast was laid of the hindquarter of an ox, and savory tea steamed in a bow] of horn.
 And when Sanglun beheld the ox he laughed aloud, for
 since he had served Chotong he had eaten naught save roots
 and bitter herbs, and drunk the dregs of cauldrons.
@@ -5885,13 +5322,10 @@ to Sanglun the crystal-hafted blade that hung at his girdle.
 And seeing the blade, Sanglun wept bitterly.
 
 And having eaten, he lifted to his mouth the savory tea
-and laughed aloud. But marking the bowl of horn where-
-from he drank, his tears flowed into his beard.
+and laughed aloud. But marking the bowl of horn wherefrom he drank, his tears flowed into his beard.
 
 And Rogmo cried: “It hath been said that laughter
 should be welcomed, but weeping forsworn. Wherefore
-
-187
 
 
 didst thou laugh at sight of the ox’s flesh but weep at sight
@@ -5907,8 +5341,7 @@ Gessar Khan’s, and I could not choose but weep, for my
 heart cried out: ‘Thy blade and thy bowl are returned, my
 son, but thou art perished.’ ”
 
-Now Gessar, hearing his words, was filled with compas-
-sion, and he came forth from behind the hanging and said:
+Now Gessar, hearing his words, was filled with compassion, and he came forth from behind the hanging and said:
 “Weep no longer, for Gessar is not dead, but lives. He will
 return to avenge thy wrongs and the wrongs of his people,
 and ye shall rejoice with the joy of the shining gods. But
@@ -5926,23 +5359,18 @@ ancient steed.
 And he cried: “This is a steed fit for the gods to ride.
 But where is the faithful comrade that bore me hither?”
 
-And the steed answered: “Dost thou not know me, mas-
-terP Iam the faithful comrade that bore thee hither, but I
-
-188
+And the steed answered: “Dost thou not know me, masterP Iam the faithful comrade that bore thee hither, but I
 
 
 have eaten of such fodder as the steeds of heaven crop on
 Sumeru’s cliffs, and I am grown fair as they.”
 
-And when Sanglun had bestrode him, he bounded for-
-ward, and the old man smote him over the thigh with the
+And when Sanglun had bestrode him, he bounded forward, and the old man smote him over the thigh with the
 sheep’s carcass, crying aloud: “Will Gessar return indeed?
 Or is this a dream that I dreamed as I lay in slumber?”
 
 And the steed answered: “No dream is this, for hast thou
-not the carcass of a sheep, and who until now hath vouch-
-safed thee so much as a skin to shelter thee from the cold?”
+not the carcass of a sheep, and who until now hath vouchsafed thee so much as a skin to shelter thee from the cold?”
 
 And the heart of Sanglun was uplifted, and he spurred
 his steed onward, till they came to where Chotong sat on
@@ -5955,8 +5383,7 @@ that is quenched and trampled into the mire!”
 
 And Chotong cried: “For such brave words thou shalt
 have brave blows, my brother!” And he commanded that
-Sanglun be beaten with staves of fresh-hewn wood, and hav-
-ing been beaten, he was borne to his yurta of black felt and
+Sanglun be beaten with staves of fresh-hewn wood, and having been beaten, he was borne to his yurta of black felt and
 flung to the earth.
 
 And Amurtsheela wept to see his hurts, crying: “Alas,
@@ -5967,8 +5394,6 @@ And Sanglun answered: “In the tent of the stranger
 tribe I beheld the crystal-hafted knife that was wont to hang
 from Gessar’s girdle, and the bowl of horn wherefrom he
 was wont to drink. And one said to me: “Gessar is not dead,
-
-189
 
 
 but lives. He will return to avenge thy wrongs and the
@@ -5987,8 +5412,7 @@ thy will of us?”
 
 And she answered: “The all-conquering, all-healing
 Gessar Khan is my well-loved son, and the gods gave him
-power to transform himself according:to his desire, yet for-
-bade him, whatsoever shape he took, to disguise the five and
+power to transform himself according:to his desire, yet forbade him, whatsoever shape he took, to disguise the five and
 forty teeth wherewith he was born.” And Amurtsheela drew
 the veils from her countenance, crying: “As I am thy
 mother, so art thou my son.”
@@ -6006,8 +5430,6 @@ And Amurtsheela scaled, with the Lady Rogmo, the
 height that overlooked all the valley, and beheld how Gessar
 mounted his lowly ass and took his way to Chotong.
 
-190
-
 
 Now the vile Chotong sat enthroned at the portal of his
 yurta, awaiting the stranger’s coming. And Gessar
@@ -6019,8 +5441,7 @@ And Chotong cried: “Where is the herd of cattle that
 I commanded of thee, and wherefore dost thou sit astride
 thy beast, nor bow to me in homage?”
 
-“T bow to the gods, and I heed the commands of the Ever-
-lasting Ones, but none beside.”
+“T bow to the gods, and I heed the commands of the Everlasting Ones, but none beside.”
 
 “And who art thou, rash fool, that dares brave the wrath
 of the glorious Chotong?”
@@ -6046,15 +5467,11 @@ sheep! Let a black cloud come from the west as large as
 a heifer!” And in the east a white cloud appeared as large
 
 
-191
-
-
 as a sheep, and in the west a black cloud as large as a heifer.
 And each sped swiftly to meet the other, and crashing
 together, they released a whirlwind that descended to the
 earth and tore the yurta from over the head of Chotong, and
-bore it aloft to the mountain ridge where Rogmo and Amurt-
-sheela held their watch, and set it unharmed beside them.
+bore it aloft to the mountain ridge where Rogmo and Amurtsheela held their watch, and set it unharmed beside them.
 
 And Gessar alighted from his steed, and approaching
 the sack wherein Chotong lay hidden, he cried: “This sack
@@ -6076,27 +5493,22 @@ Khans?P Was he not thine? Whose kinsman was Gessar
 Khan when thou didst deliver up to his enemy his chosen
 wifer Was he not thine? Woe, woe to thee, for my wrath
 is as a burning fire that leaps to heaven and will not be
-quenched save by thy blood, Chotong!” And Gessar ad-
-vanced upon him with a drawn sword.
+quenched save by thy blood, Chotong!” And Gessar advanced upon him with a drawn sword.
 
 But ere he could strike, Sanglun flung himself down
 before him and cried: “Dread son of heaven! For his evil
 deeds this traitor hath earned death a hundredfold, by sword
 
-192
-
 
 and flame and the lashing of many scourges. Yet he is my
-brother and of noble blood and thy near kinsman. Where-
-fore, I pray thee, curb thine exceeding wrath, and do with
+brother and of noble blood and thy near kinsman. Wherefore, I pray thee, curb thine exceeding wrath, and do with
 him as thou wilt, but slay him not.”
 
 And Gessar answered: “Because I love thee, I will not
 slay him,” and sheathing his sword, he raised Sanglun from
 the earth and embraced him thrice.
 
-And he cried to his wonder-steed: ‘Gulp down the trai-
-tor Chotong nine times and release him again, that he may
+And he cried to his wonder-steed: ‘Gulp down the traitor Chotong nine times and release him again, that he may
 be drained of his power whereby he was wont to wreak evil
 upon his fellows.”
 
@@ -6111,21 +5523,16 @@ battlefield where the thirty heroes perished for my sake.”
 And Sanglun led him to the battlefield that was strewn
 with the bones of the thirty heroes, and Gessar, beholding
 them, broke forth into lamentations, crying: “Where art
-thou, Nantsong my Falcon, ever eager to rush into the fore-
-front of battle? And thou, Shumar, Eagle among warriors,
+thou, Nantsong my Falcon, ever eager to rush into the forefront of battle? And thou, Shumar, Eagle among warriors,
 laughing as thou didst hurl back the ranks of the enemy?
 Where art thou, my Tiger-hero and flaming Bodotshi and
 all my comrades that were as the talons of the lion to me,
 and as torches that light the darknessP With hearts like
-boulders ye repelled the foe till ye were betrayed and slaugh-
-tered, while I, that should have led you into battle, idled in
+boulders ye repelled the foe till ye were betrayed and slaughtered, while I, that should have led you into battle, idled in
 the land of the twelve-headed giant, vanquished by Aralgo’s
 
-193
 
-
-guile!” And for weeping, Gessar could scarce give utter-
-ance to his sorrow, and for grief Sanglun could scarce hear
+guile!” And for weeping, Gessar could scarce give utterance to his sorrow, and for grief Sanglun could scarce hear
 his words.
 
 But the brown wonder-steed chided his master, crying:
@@ -6138,8 +5545,7 @@ lives of thy heroes.”
 And Gessar scattered incense upon the earth and poured
 forth a drink-offering of the blood of a goat. And he cried:
 “My glorious sisters, when I left your abode and the abode
-of the shining gods by Buddha’s will, thirty matchless com-
-rades bore me company. Where are my comrades now?”
+of the shining gods by Buddha’s will, thirty matchless comrades bore me company. Where are my comrades now?”
 
 And the voice of his sisters descended to him from above
 and answered him: “We will betake ourselves to thy father
@@ -6158,8 +5564,6 @@ And Kormuzda answered: “Had he not forsaken his
 heroes to follow after the Lady Aralgo, he would not now
 be mourning their death. Yet it is written in the book of
 destiny that the servants shall mourn their master, not the
-
-194
 
 
 master his servants. Wherefore I will go to him that orders
@@ -6182,8 +5586,7 @@ And he that dispenses justice to gods and men smiled
 upon Kormuzda and answered: “Because for two hundred
 years thou wert forgetful of the command I laid upon thee,
 therefore doth thy son now weep over the bones of his lost
-comrades. Yet I will have compassion upon him, and trans-
-form his weeping to laughter and his sorrow to joy through
+comrades. Yet I will have compassion upon him, and transform his weeping to laughter and his sorrow to joy through
 the power of the blesséd arshaan.”’
 
 And from a bow! of ivory that held the blesséd arshaan,
@@ -6191,11 +5594,8 @@ Buddha filled a golden chalice, and gave the chalice into
 Kormuzda’s hand, saying: “Let thy son besprinkle the
 bones of his heroes with this holy fluid, and the bones shall
 be joined together, and the sinews shall knit themselves upon
-one another, and the flesh shall cover them. Let him be-
-sprinkle them a second time, and the breath of life shall
+one another, and the flesh shall cover them. Let him besprinkle them a second time, and the breath of life shall
 enter into their bodies, making them whole. Let him be-
-
-196
 
 
 sprinkle them a third time, and they shall be born anew and
@@ -6209,8 +5609,7 @@ Lord Buddha had spoken to him, and they descended
 earthward.
 
 And when they came to the battlefield where Gessar wept
-over the bones of his heroes, they cried: “Because it is writ-
-ten in the book of destiny that the servants shall mourn
+over the bones of his heroes, they cried: “Because it is written in the book of destiny that the servants shall mourn
 their master, not the master his servants, the Lord Buddha
 hath sent thee in a golden chalice the blesséd arshaan.
 Besprinkle the bones of thy heroes with this holy fluid, and
@@ -6232,12 +5631,9 @@ in the sacred blue of the skies!”
 
 And he besprinkled the bones of his heroes with the
 
-197
-
 
 blessed arshaan, and the bones were joined together, and the
-sinews knit themselves upon one another, and the flesh cov-
-ered them. And he besprinkled them a second time, and the
+sinews knit themselves upon one another, and the flesh covered them. And he besprinkled them a second time, and the
 breath of life entered into their bodies, making them whole.
 And he besprinkled them a third time, and they were born
 anew and rose from the earth and bowed in thanksgiving
@@ -6249,8 +5645,7 @@ uprooter of the tenfold evil, lord over all the creatures of the
 earth, light-spreading Gessar Khan! When the enemy
 descended upon us, we overthrew him and slew many brave
 warriors and took captive many herds of steed, for though
-thou wert not by to lead us into battle, did not the noble Shi-
-keer command us? Yet when at dawn: they stole upon us
+thou wert not by to lead us into battle, did not the noble Shikeer command us? Yet when at dawn: they stole upon us
 as we slumbered, so heavy were our eyes with sleep and our
 limbs with drinking that our strength prevailed not against
 them and we perished on the battlefield. But now the
@@ -6259,8 +5654,7 @@ dear master, but raise us from the earth and rejoice!”
 
 And Gessar raised them from the earth, embracing each
 in turn, and cried: “My thirty heroes are restored to me in
-all their strength and beauty. Yet where is he that com-
-manded you, where Is the grey-flecked hawk that came to me
+all their strength and beauty. Yet where is he that commanded you, where Is the grey-flecked hawk that came to me
 in the wilderness, where is Shikeer my brother?”
 
 And Shikeer, with the head of a man and the body and
@@ -6268,8 +5662,6 @@ tail of a hawk, flew down from the heavens and alighted on
 Gessar’s hand.
 
 And Gessar cried: “Behold, Shikeer, the blesséd arshaan
-
-198
 
 
 that the Lord Buddha hath sent to restore the thirty heroes
@@ -6298,8 +5690,7 @@ with him henceforth on Sumeru, nor descended again to
 earth,
 
 But Gessar Khan commanded that a feast be prepared,
-and the thirty heroes were bidden thereto and the three hun-
-dred chieftains of the tribes, together with all their tribesmen,
+and the thirty heroes were bidden thereto and the three hundred chieftains of the tribes, together with all their tribesmen,
 and the Lady Rogmo sat at the right hand of Gessar, and
 Sanglun sat beside her, and at his left hand Amurtsheela sat.
 
@@ -6307,11 +5698,8 @@ And for three moons they feasted, and the sound of their
 revelry was borne over all the land and to the deepest caverns
 of the sea. And clouds of fragrant incense floated upward
 
-199
 
-
-in tribute to the gods, and by night the radiant lingho-
-blossom opened its chalice, lighting the darkness.
+in tribute to the gods, and by night the radiant linghoblossom opened its chalice, lighting the darkness.
 
 And when the feast was done, and the merry-making,
 and the heroes and chieftains were returned to their abodes,
@@ -6325,48 +5713,4 @@ rules in the heavens and as the mountain rules over the valley
 below.
 
 Thus ends the tale of the hero Gessar Khan.
-
-
-200
-
-
-EXPLANATION OF FOREIGN Worps USED IN TEXT
-
-
-Alwin—A kind of evil being.
-Arshaan—Holy saffron water.
-
-
-Assuri—Evil spirits that lived in the cleft of the world mountain
-Sumeru.
-
-
-Baling—A figure shaped like a pyramid and kneaded of dough, often
-brought as an offering to the dead.
-
-
-Chigitai—A kind of wild horse.
-Dakeeni—Goddesses.
-Shimnu—A demonic spirit.
-Yaksha—A witch.
-
-
-203
-
-
-os Oy peers &
-
-
-4
-
-
-c
-tt
-
-
-AUS
-
-
-PUG
-S
 

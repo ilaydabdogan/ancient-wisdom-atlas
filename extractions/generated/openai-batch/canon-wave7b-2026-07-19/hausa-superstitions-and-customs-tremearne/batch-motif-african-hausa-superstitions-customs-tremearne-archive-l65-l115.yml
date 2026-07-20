@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l65-l115
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore and the
+    Folk / HAUSA   SUPERSTITIONS   AND   CUSTOMS / BY   PERMISSION   TO / SIR    F.    D.    LUGARD,    G.C.M.G.,    C.B.,    D.S.O.,;
+    lines 65-115'
+  start: '65'
+  end: '115'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The spirit is usually expelled by sneezing.
+  summary: 'The passage is front matter for a work on Hausa superstitions and customs.
+    It includes a dedication to Sir F. D. Lugard and a captioned note on Bori: a person
+    is shown ready for a Bori spirit and another possessed; Bori is described as self-induced
+    hysteria in which patients imitate persons or animals, may ill-treat themselves,
+    and the spirit is usually expelled by sneezing.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The work is titled "Hausa Superstitions and Customs" and is presented as an
+    introduction to folk-lore and the folk.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage includes a dedication, by permission, to Sir F. D. Lugard.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'A caption labels two states: one figure ready for a Bori spirit and another
+    possessed.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Bori is described as self-induced hysteria.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: During possession by spirits, patients imitate certain persons or animals.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: During possession, patients often ill-treat themselves.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The spirit is usually expelled by sneezing.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sir F. D. Lugard
+  description: Named dedicatee of the work in the front matter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Bori spirit
+  description: A spirit associated with Bori possession and expulsion.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: patients
+  description: Persons described as undergoing possession by spirits, imitating persons
+    or animals, and sometimes ill-treating themselves.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: persons or animals imitated during possession
+  description: Persons or animals imitated by patients during possession by spirits.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dedicatee
+  assigned_to:
+  - fig:1
+  basis: The front matter states that the book is dedicated by permission to Sir F.
+    D. Lugard.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: possessing spirit
+  assigned_to:
+  - fig:2
+  basis: The caption mentions readiness for a Bori spirit, and the note describes
+    possession by spirits and expulsion of the spirit.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: possessed patients
+  assigned_to:
+  - fig:3
+  basis: The note describes patients during possession by spirits.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: models of imitation
+  assigned_to:
+  - fig:4
+  basis: The note says patients imitate certain persons or animals during possession.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Bori spirit
+  literal_form: spirit
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: sneezing as expulsion act
+  literal_form: sneezing
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: possession
+  literal_form: possessed state
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Readiness and possession in Bori
+  summary: A caption presents one state as ready for a Bori spirit and another as
+    possessed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Behavior during possession
+  summary: During possession by spirits, patients imitate certain persons or animals
+    and often ill-treat themselves.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Expulsion of the spirit
+  summary: The spirit is usually expelled by sneezing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: spirit possession
+  taxonomy_refs: []
+  basis: The passage explicitly describes possession by spirits and a captioned state
+    of being possessed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is an ethnographic front-matter note, not a narrative myth
+    episode.
+- id: motif:2
+  label: imitation of persons or animals during possession
+  taxonomy_refs: []
+  basis: The passage states that patients imitate certain persons or animals during
+    possession by spirits.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe specific imitated figures or animals.
+- id: motif:3
+  label: spirit expulsion by bodily act
+  taxonomy_refs: []
+  basis: The passage states that the spirit is usually expelled by sneezing.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No ritual sequence or wider explanatory context is provided in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 65-115
+  quote_or_summary: The front matter gives the title "Hausa Superstitions and Customs"
+    and the subtitle describing it as an introduction to folk-lore and the folk.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 65-115
+  quote_or_summary: The text states that the work is dedicated by permission to Sir
+    F. D. Lugard, with honors listed, and says he has done much for the Hausa people.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 65-115
+  quote_or_summary: '"I.— READY FOR A BORI SPIRIT. II. — POSSESSED."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 65-115
+  quote_or_summary: '"Bori is self-induced hysteria."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 65-115
+  quote_or_summary: During possession by spirits, patients imitate certain persons
+    or animals and often ill-treat themselves.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: lines 65-115
+  quote_or_summary: '"The spirit is usually expelled by sneezing."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward for the Bori note. Motif labels are
+    candidate descriptors because the passage is brief and not a full narrative. No
+    comparison claims are made because the passage itself does not support comparison
+    to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were not applied because none were directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l65-l115
+  passage_sha256=a1b1f698aedfa83a4be3a49c2802de435992ee724bbb6c0a63226d017cfe1f3c
+

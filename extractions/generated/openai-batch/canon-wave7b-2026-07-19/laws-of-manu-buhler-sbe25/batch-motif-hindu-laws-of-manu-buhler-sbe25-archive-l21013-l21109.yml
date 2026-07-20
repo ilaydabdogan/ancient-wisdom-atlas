@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l21013-l21109
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: LAWS    OF    MANU. / VIII,  125. / VIII,  139.      CIVIL  AND  CRIMINAL  LAW;  PROCEDURE.       2;  J
+    / VIII,  149-        CIVIL  AND  CRIMINAL  LAW;  DEBTS.  279; lines 21013-21109
+  start: '21013'
+  end: '21109'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules on pledges, deposits, adverse enjoyment of property,
+    exceptions to loss of ownership, unauthorized use of pledges, and limits on interest
+    in debts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A pledge kept by a creditor must not be used by force; forcible use causes
+    loss of interest or liability for the original price if the pledge is spoiled,
+    and is described as theft of the pledge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A pledge or deposit is recoverable despite lapse of time, and certain animals
+    or items used with friendly assent are not lost to the owner.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the general rule, an owner who sees a chattel enjoyed by others for ten
+    years and remains silent cannot recover it; if the owner is neither an idiot nor
+    a minor, the adverse possessor retains the property by law.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pledges, boundaries, infant property, open and sealed deposits, women, the
+    king's property, and the wealth of a srotriya are not lost through adverse enjoyment.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A person who uses a pledge without the owner's permission must remit half
+    of his interest as compensation for the use.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: 'Interest paid at one time is limited: in money transactions it must not exceed
+    double the principal, and for grain, fruit, wool, hair, and beasts of burden it
+    must not exceed five times the original amount.'
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Interest beyond the legal rate is called usurious and cannot be recovered;
+    the passage also prohibits interest beyond the year and several named forms of
+    interest, including compound interest.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: creditor or lender
+  description: The person who may hold or use a pledge and who may take interest,
+    but is restricted by rules on use and legal rates.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: owner
+  description: The person whose pledge, deposit, chattel, animals, or property may
+    be recovered, retained, or lost under the rules.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: adverse possessor or user of another's property
+  description: The person who enjoys another's chattel and may retain it after the
+    specified period if the owner remains silent and is legally competent.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: owner described as an idiot or a minor
+  description: A category of owner excluded from the rule that property enjoyed before
+    the owner's eyes is lost by law.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: infants
+  description: Persons whose property is listed among things not lost through adverse
+    enjoyment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: women
+  description: Listed among categories not lost through adverse enjoyment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: king
+  description: The king's property is listed among things not lost through adverse
+    enjoyment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: srotriya
+  description: The wealth of a srotriya is listed among things not lost through adverse
+    enjoyment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: restricted creditor or lender
+  assigned_to:
+  - fig:1
+  basis: The creditor is penalized for forcible or unpermitted use of a pledge and
+    is limited in the interest he may recover.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: owner or claimant
+  assigned_to:
+  - fig:2
+  basis: The owner may recover pledges or deposits, may lose chattels by silent acquiescence,
+    and may grant or withhold permission for pledge use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: adverse possessor
+  assigned_to:
+  - fig:3
+  basis: The adverse possessor retains property when the stated conditions of ten-year
+    enjoyment and owner silence are met.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: protected or exceptional legal category
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: These categories are excluded from ordinary loss through adverse enjoyment
+    or are associated with property not lost by such enjoyment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: pledge
+  literal_form: pledge
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: deposit
+  literal_form: open deposit and sealed deposit
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: chattel or property
+  literal_form: chattel/property enjoyed by another
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: boundary
+  literal_form: boundary
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: friendly-use animals
+  literal_form: cow, camel, riding-horse, and beast made over for breaking in
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: goods used in interest calculations
+  literal_form: grain, fruit, wool, hair, and beasts of burden
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: ten-year period
+  literal_form: ten years
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: interest ceilings
+  literal_form: double the principal, five times the original amount, and five in
+    the hundred
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Misuse of a pledge
+  summary: A creditor or other user is forbidden to use a pledge by force or without
+    the owner's permission; penalties include loss or remission of interest and compensation
+    if the pledge is spoiled.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Recovery and adverse enjoyment of property
+  summary: Pledges, deposits, and friendly-use animals remain recoverable, while ordinary
+    chattels may be lost after ten years of visible, uncontested enjoyment by another;
+    specified categories are exempt from loss through adverse enjoyment.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Limits on interest in debt
+  summary: The passage sets maximum interest amounts for money and certain goods,
+    rejects recovery of usurious interest, and prohibits several forms of interest
+    including compound interest.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: protection of entrusted property
+  taxonomy_refs: []
+  basis: Pledges and deposits are repeatedly protected from loss by lapse of time
+    or adverse enjoyment, and unauthorized use of a pledge is penalized.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a legal-prescriptive pattern in a debt-law passage, not a mythic
+    narrative motif; no supplied taxonomy family is an exact fit.
+- id: motif:2
+  label: time-conditioned loss of property claims with protected exceptions
+  taxonomy_refs: []
+  basis: The passage gives a ten-year rule for loss through silent acquiescence and
+    then lists categories exempt from adverse enjoyment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The pattern is juridical rather than mythological; interpretation beyond
+    the legal rule should be avoided.
+- id: motif:3
+  label: restraint of debt growth and usury
+  taxonomy_refs: []
+  basis: The passage limits interest, calls excess interest usurious, and bars compound
+    and other disallowed forms of interest.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a civil-law debt regulation, not a narrative motif; no comparison
+    is implied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: VIII.144; lines 21013-21109
+  quote_or_summary: A pledge kept by a creditor must not be forcibly used; if so used,
+    the creditor loses interest or pays the original price if spoiled, otherwise committing
+    theft of the pledge.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: VIII.145-146; lines 21013-21109
+  quote_or_summary: Pledges and deposits are recoverable despite lapse of time; things
+    used with friendly assent, including a cow, camel, riding-horse, and beast for
+    breaking in, are never lost to the owner.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: VIII.147-148; lines 21013-21109
+  quote_or_summary: A chattel enjoyed by others for ten years in the owner's presence
+    while the owner remains silent cannot be recovered; if the owner is neither an
+    idiot nor a minor, the adverse possessor retains it by law.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: VIII.149; lines 21013-21109
+  quote_or_summary: A pledge, boundary, infant property, open deposit, sealed deposit,
+    women, the king's property, and the wealth of a srotriya are not lost through
+    adverse enjoyment.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: VIII.150; lines 21013-21109
+  quote_or_summary: One who uses a pledge without the owner's permission must remit
+    half of his interest as compensation for the use.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: VIII.151; lines 21013-21109
+  quote_or_summary: Interest paid at one time may not exceed double the principal
+    in money transactions, and may not exceed five times the original amount for grain,
+    fruit, wool, hair, and beasts of burden.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: VIII.152-153; lines 21013-21109
+  quote_or_summary: Interest beyond the legal rate is unrecoverable and called usurious;
+    the lender is not entitled to more than five in the hundred, nor to interest beyond
+    the year, compound interest, periodical interest, stipulated interest, or corporal
+    interest.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as legal prescription on debts and property. Motif candidates
+    are treated as legal patterns, not as mythological motifs. No comparison claims
+    are made because the passage itself does not support a comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied symbol taxonomy refs are directly supported by this passage; symbols listed here are literal legal objects, categories, or numbers from the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l21013-l21109
+  passage_sha256=9214d0f22b5a816e20f154f6657b2bb9fd351a47b72fd099ac9eb3c92ded61ba
+

@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l2199-l2228
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  29 / I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  31
+    / I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  33 / THE   BAGANDA; lines 2199-2228
+  start: '2199'
+  end: '2228'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes harp construction and tuning. It notes an earlier
+    harp tuned by pegs, then describes the Basoga harp with angled side bars, a morticed
+    cross-piece, twisted-cord rings for attaching and tightening strings, goat-hair
+    tuft ornaments, and horizontal strings. It contrasts this with the Baganda harp,
+    whose strings are vertical.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A player tunes strings by turning pegs and tightening them, compared to tightening
+    violin strings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Basoga harp is said to have recently superseded an older harp.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Basoga harp has two upward-projecting bars from the base or shell, set
+    at angles so the outer ends are farther apart than the ends in the shell.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A morticed cross-piece carries twisted-cord rings to which strings are attached
+    for tuning.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The twisted-cord rings can be rotated on the bar to tighten the strings during
+    tuning.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The end of the cross-piece has ornaments made of tufts of goats' hair.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Basoga harp has horizontal strings, while the Baganda harp has vertical
+    strings.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In the Basoga harp, the short strings are in the centre and the outer strings
+    are longer.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The side bars are eighteen inches long, and the cross-piece for the strings
+    is fifteen inches long.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: player
+  description: The person who tunes the strings by turning and tightening pegs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Basoga harp
+  description: A harp with angled side bars, a morticed cross-piece, twisted-cord
+    tuning rings, goat-hair tuft ornaments, and horizontal strings.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Baganda harp
+  description: A harp contrasted with the Basoga harp by having vertical strings.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: instrument tuner
+  assigned_to:
+  - fig:1
+  basis: The passage says the player tunes the strings by turning pegs and tightening
+    them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: newer or superseding harp type
+  assigned_to:
+  - fig:2
+  basis: The Basoga harp is said to have recently superseded the older harp.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: contrasted harp type
+  assigned_to:
+  - fig:3
+  basis: The Baganda harp is contrasted with the Basoga harp by string orientation.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: stringed musical instrument
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both are described as harps with strings.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: harp
+  literal_form: stringed musical instrument
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: twisted-cord tuning rings
+  literal_form: rings of twisted cord attached to the cross-piece for string tuning
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: goat-hair tufts
+  literal_form: ornamental tufts of goats' hair at the end of the cross-piece
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: horizontal and vertical strings
+  literal_form: contrasting string orientations on Basoga and Baganda harps
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Tuning by pegs
+  summary: A player tunes harp strings by turning pegs and tightening the strings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Basoga harp construction and decoration
+  summary: The Basoga harp is described as having angled side bars, a morticed cross-piece,
+    twisted-cord tuning rings, and goat-hair tuft ornaments.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Comparison of Basoga and Baganda harps
+  summary: The passage contrasts the horizontal strings and central short strings
+    of the Basoga harp with the vertical strings of the Baganda harp.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: construction and tuning of a harp with cord rings
+  taxonomy_refs: []
+  basis: The passage gives repeated detail on harp structure, string attachment, and
+    tuning by rotating twisted-cord rings.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a material-culture pattern rather than a mythological narrative
+    motif.
+- id: motif:2
+  label: contrasting local harp forms by string orientation
+  taxonomy_refs: []
+  basis: The Basoga harp is described as having horizontal strings, while the Baganda
+    harp has vertical strings.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supports an ethnographic comparison of instruments, not a
+    symbolic or mythic interpretation.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Basoga and Baganda harps as comparable stringed
+    instruments that differ in string orientation.
+  claim_level: same_function
+  target: Baganda harp compared with Basoga harp
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to instrument construction and does not establish
+    a mythological motif or historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2199-2203
+  quote_or_summary: A player tunes strings by turning pegs and tightening them, as
+    a violinist tightens violin strings.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 2205-2217
+  quote_or_summary: The Basoga harp has recently superseded the older harp; it has
+    two angled bars from the base or shell, a morticed cross-piece, and twisted-cord
+    rings to which strings are attached and tightened by rotating the rings.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 2218-2220
+  quote_or_summary: The end of the cross-piece bears ornaments consisting of tufts
+    of goats' hair.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 2221-2228
+  quote_or_summary: The Basoga harp has horizontal strings, with shorter strings in
+    the centre and longer outer strings; the Baganda harp has vertical strings. The
+    side bars and cross-piece are given as eighteen and fifteen inches long.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal instrument details are clear. Motif and comparison fields are limited
+    because the passage is ethnographic and technical rather than mythological.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol refs were applied; the passage does not support mythological symbolism from the supplied text alone.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l2199-l2228
+  passage_sha256=e483d9c64c6b3bd10aefd591ec41c381408021f6e9fbe14815072c7f7ded83ec
+

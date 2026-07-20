@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.african-life-south-african-tribe-1-junod-archive-l5023-l5033
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+passage_locator:
+  label: THONGA. / SOME REMARKS ON THE CIRCUMCISION SCHOOL / D. MARRIAGE / E. MATURE
+    AGE.; lines 5023-5033
+  start: '5023'
+  end: '5033'
+  translation: The Life of a South African Tribe, Vol. I (The Social Life)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that a former custom is now less strictly kept because
+    life is harder and men must earn money at the port or in mines. A poor man may
+    refuse to wear the crown and question the chief about food, burdens, and the ngiyana.
+    Older people lament that the country is decaying and that there is no law anymore.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The custom is described as less strictly observed in the present than in bygone
+    times.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Economic hardship is linked to the need to earn pounds sterling at Lourenco
+    Marques or in the gold mines.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A poor man may refuse to wear the crown and speaks to his chief about food,
+    being fed, carrying burdens, and not knowing what to do with the ngiyana.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Old people shake their heads and say that the country is falling into decay
+    and that there is no law anymore.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage is placed under a section concerning the circumcision school,
+    marriage, and mature age.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: poor man
+  description: A poor man who may refuse to wear the crown and question the chief
+    about practical subsistence concerns.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: chief
+  description: The authority figure addressed by the poor man in his refusal speech.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: old people
+  description: Elders who shake their heads and lament the decay of the country and
+    the loss of law.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: reluctant customary participant
+  assigned_to:
+  - fig:1
+  basis: The poor man may refuse to wear the crown and says he does not know what
+    to do with the ngiyana.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: chief addressed as authority
+  assigned_to:
+  - fig:2
+  basis: The poor man directs his questions to his chief.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: elder commentators on social decline
+  assigned_to:
+  - fig:3
+  basis: The old people shake their heads and say the country is falling into decay
+    and there is no law anymore.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: crown
+  literal_form: crown worn as part of the custom
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ngiyana
+  literal_form: ngiyana, named by the poor man as something he does not know what
+    to do with
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: law
+  literal_form: the elders' statement that there is no law anymore
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Harder life and weakening custom
+  summary: The passage contrasts older strict observance of a custom with present
+    economic hardship, wage labor at the port or mines, and reduced ability to maintain
+    a former way of life.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Poor man refuses the crown
+  summary: A poor man may refuse to wear the crown and asks his chief who will feed
+    him, whether he must carry burdens, and what he should do with the ngiyana.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Elders lament loss of law
+  summary: Old people respond by saying that the country is decaying and that law
+    is absent, ending with nostalgia for the old times.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: initiation custom weakened by economic pressure
+  taxonomy_refs:
+  - initiation
+  basis: The passage is located in a section on the circumcision school and describes
+    a custom involving a crown and ngiyana that is no longer strictly kept because
+    men must work for money.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not explain the ritual function of the crown or ngiyana;
+    the initiation classification relies partly on the supplied section heading.
+- id: motif:2
+  label: elder lament for the decay of ancestral law
+  taxonomy_refs: []
+  basis: Old people explicitly interpret the abandonment or weakening of the custom
+    as the country falling into decay and law disappearing.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a social-commentary pattern in an ethnographic passage, not a
+    mythic narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5023-5027
+  quote_or_summary: The custom is not kept as strictly as formerly; life is harder,
+    and people must earn money at Lourenco Marques or in the gold mines.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5027-5031
+  quote_or_summary: A poor man may refuse to wear the crown and asks his chief what
+    he will eat, whether the chief will feed him, whether he must carry burdens, and
+    what he should do with the ngiyana.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5031-5033
+  quote_or_summary: Old people shake their heads and say the country is falling into
+    decay, there is no law anymore, and nostalgically refer to the good old times.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: citation
+  locator: passage label
+  quote_or_summary: The supplied passage label places the excerpt under 'SOME REMARKS
+    ON THE CIRCUMCISION SCHOOL / D. MARRIAGE / E. MATURE AGE.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+  rights_note: Source metadata supplied with extraction request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment to initiation is
+    plausible from the section label but the excerpt itself gives limited ritual detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-life-south-african-tribe-1-junod-archive__l5023-l5033
+  passage_sha256=e624c2055997839792c0b06b8fc9703cbc5c52e88f457a205a8b7e46a8cae948
+

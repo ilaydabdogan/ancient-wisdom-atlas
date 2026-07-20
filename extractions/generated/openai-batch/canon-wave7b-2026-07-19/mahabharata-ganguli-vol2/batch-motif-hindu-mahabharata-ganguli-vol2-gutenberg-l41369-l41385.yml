@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l41369-l41385
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XXVII / SECTION XXVIII / SECTION XXIX / SECTION XXX; lines 41369-41385
+  start: '41369'
+  end: '41385'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Meanwhile, the Sun went to his chambers in the western hills...”"
+  summary: The passage describes intense battlefield slaughter among elephants, horses,
+    chariot-warriors, foot-soldiers, and other combatants. Bodies are crushed, mangled,
+    and trampled; the carnage attracts beasts, birds, and cannibals. At sunset both
+    battered armies retire to their tents.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Combatants and war animals kill one another in reciprocal battlefield violence.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Slain creatures fall with disfigured bodies and crushed armor and ornaments.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some bodies are trampled by horses and elephants and mangled by heavy cars
+    and wheels.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The carnage is described as pleasing to beasts of prey, carnivorous birds,
+    and cannibals.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The hosts are broken and mangled, and the warriors are bathed in blood.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When the Sun sets in the western hills, both armies retire to their tents.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: warriors and mighty combatants
+  description: Human fighters, including car-warriors and foot-soldiers, who slaughter
+    one another on the field.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: war animals
+  description: Elephants and steeds participating in the battle and also being slain.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: slaughtered creatures
+  description: Fallen bodies on the battlefield, disfigured, crushed, trampled, and
+    mangled.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: beasts of prey, carnivorous birds, and cannibals
+  description: Beings for whom the fierce carnage is described as delightful.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: the Sun
+  description: The Sun is described as going to his chambers in the western hills
+    as the armies retire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: both armies / both hosts
+  description: The two opposing forces, broken and mangled by battle, who later retire
+    to their tents.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: battle participants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes warriors, elephants, steeds, cars, and foot-soldiers
+    actively engaged in killing one another.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victims of slaughter and trampling
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  basis: The passage describes creatures, combatants, and hosts as slain, mangled,
+    broken, or covered in blood.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: scavenger or corpse-eating witnesses
+  assigned_to:
+  - fig:4
+  basis: The carnage is said to be delightful to beasts of prey, carnivorous birds,
+    and cannibals.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: sunset time marker
+  assigned_to:
+  - fig:5
+  basis: The Sun’s movement to the western hills marks the end of the fighting sequence
+    and precedes the armies’ retirement.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: retreating forces
+  assigned_to:
+  - fig:6
+  basis: Both armies slowly retire to their respective tents after sunset.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: blood-covered warriors
+  literal_form: warriors bathed in blood
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: setting Sun in western hills
+  literal_form: the Sun going to his chambers in the western hills
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: mangled battlefield bodies
+  literal_form: fallen creatures with disfigured bodies, crushed mail and ornaments,
+    and bodies trampled or crushed by wheels
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: carnage for carrion-eaters
+  literal_form: fierce carnage delightful to beasts of prey, carnivorous birds, and
+    cannibals
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: reciprocal battlefield slaughter
+  summary: Warriors, elephants, steeds, cars, and foot-soldiers kill one another in
+    confused and intense combat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: mangling of fallen bodies
+  summary: Fallen creatures are disfigured, crushed, trampled by war animals, and
+    mangled by heavy cars and wheels.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: carnage amid scavengers
+  summary: Wrathful combatants continue slaughtering one another while the carnage
+    is described as delightful to beasts of prey, carnivorous birds, and cannibals.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: sunset withdrawal
+  summary: After both hosts are broken and bloodied, the Sun sets in the west and
+    both armies retire to their respective tents.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: battlefield carnage and mangled bodies
+  taxonomy_refs: []
+  basis: The passage repeatedly emphasizes reciprocal slaughter, disfigured fallen
+    bodies, trampling, and crushing by cars and wheels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names this battlefield-carnage pattern.
+- id: motif:2
+  label: field of slaughter attracting carrion-eaters
+  taxonomy_refs: []
+  basis: The fierce carnage is explicitly described as delightful to beasts of prey,
+    carnivorous birds, and cannibals.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states attraction or delight for carrion-eating beings but
+    does not narrate an actual feeding scene.
+- id: motif:3
+  label: sunset ending the day’s battle
+  taxonomy_refs: []
+  basis: The Sun’s descent to the western hills is followed by both armies slowly
+    retiring to their respective tents.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a narrative battle-cycle pattern rather than one of the supplied
+    taxonomy motif families.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 41369-41372
+  quote_or_summary: Elephants, car-warriors, steeds, and foot-soldiers fight; elephants
+    are slain by cars, horses by elephants, men by steeds, and steeds by car-warriors.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 41372-41374
+  quote_or_summary: Slain creatures fall on the field with tongues lolling, teeth
+    and eyes displaced, and mail and ornaments crushed into dust.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 41374-41377
+  quote_or_summary: Others are struck down, sunk into the earth by the tread of horses
+    and elephants, and tortured and mangled by heavy cars and car wheels.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: 41377-41380
+  quote_or_summary: "“that fierce carnage so delightful to beasts of prey and carnivorous
+    birds and cannibals” while mighty combatants slaughter one another in wrath."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: 41381-41382
+  quote_or_summary: Both hosts are broken and mangled, and the warriors, bathed in
+    blood, look at each other.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: quote
+  locator: 41382-41385
+  quote_or_summary: "“the Sun went to his chambers in the western hills,” and both
+    armies slowly retired to their respective tents."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are descriptive and not mapped to supplied taxonomy families. No comparison claims
+    are made because the passage itself does not support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All observations and motif candidates are limited to the supplied passage and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l41369-l41385
+  passage_sha256=91f6a10cf70d9b3c9c9b1ead474a0db386ac3fe8963fc98d719538bcb30a43a7
+

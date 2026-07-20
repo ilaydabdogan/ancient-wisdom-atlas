@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l26947-l27013
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. VIII, 20, 17. 405 / NOTES. VIII, 20, 26. 407 / MANDALA VIII, HYMN
+    94. 409 / NOTES.; lines 26947-27013
+  start: '26947'
+  end: '27013'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Maruts who hold heaven and earth asunder
+  summary: Two invocatory verses call the Maruts, described as holding heaven and
+    earth apart and dwelling in mountains, so that they may drink Soma here. Editorial
+    notes identify the hymn's ascription and metre and include philological comments,
+    including Przsni as mother of the Maruts and Soma as lord.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says, twice, that he calls the Maruts.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Maruts are described as holding heaven and earth asunder.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Maruts are called a manly company.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Maruts are described as dwelling in the mountains.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The stated purpose of calling the Maruts is that they may drink Soma here.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The notes ascribe the hymn to Bindu or Piitadaksha and identify the metre
+    as Gayatri.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A note identifies Przsni as the mother of the Maruts.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A note says Svardg seems to mean Soma as lord, not Soma as brilliant.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Maruts
+  description: A company called by the speaker; they hold heaven and earth asunder,
+    dwell in the mountains, and are invited to drink Soma.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Przsni
+  description: Identified in a note as the mother of the Maruts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: invoked recipients of Soma
+  assigned_to:
+  - fig:1
+  basis: The speaker calls the Maruts so that they may drink Soma here.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: holders apart of heaven and earth
+  assigned_to:
+  - fig:1
+  basis: The Maruts are described as holding heaven and earth asunder.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: mountain dwellers
+  assigned_to:
+  - fig:1
+  basis: The Maruts are described as dwelling in the mountains.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: mother of the Maruts
+  assigned_to:
+  - fig:2
+  basis: The note explicitly calls Przsni the mother of the Maruts.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: heaven and earth held apart
+  literal_form: heaven and earth asunder
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountains
+  literal_form: mountains
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Soma
+  literal_form: Soma to be drunk here; Soma also described in a note as lord
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Invocation of the Maruts to drink Soma
+  summary: The speaker calls the Maruts, describing them as holding heaven and earth
+    apart and as mountain-dwellers, and asks that they drink Soma here.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: divine company summoned to drink a ritual offering
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The speaker calls the Maruts for the purpose that they may drink Soma here.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage explicitly gives invocation and Soma drinking; it does not
+    describe the full sacrificial rite in detail.
+- id: motif:2
+  label: separation or maintenance of heaven and earth by divine beings
+  taxonomy_refs:
+  - duality
+  basis: The Maruts are described as holding heaven and earth asunder.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The supplied taxonomy has no exact cosmic-separation ref; 'duality' is
+    only a broad fit for the paired heaven-and-earth image.
+- id: motif:3
+  label: mountain-dwelling divine host
+  taxonomy_refs: []
+  basis: The Maruts are described as a company dwelling in the mountains.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a setting and group attribute, but no narrative development
+    of a mountain myth.
+- id: motif:4
+  label: mother of a divine company
+  taxonomy_refs:
+  - divine_parent_child
+  basis: A note identifies Przsni as mother of the Maruts.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This relationship appears in an editorial note rather than in the translated
+    hymn verses included here.
+comparison_claims:
+- id: claim:1
+  claim: The notes explicitly cite parallels between verses of this hymn and Sama
+    Veda passages, supporting a cautious nearby-corpus textual parallel claim.
+  claim_level: linguistic_similarity
+  target: Sama Veda passages cited as SV. 1,149; SV. I,174; SV. II,1195; SV. II,1136;
+    and SV. II,1137
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides cross-references but not the parallel texts themselves;
+    this is not evidence for a broader historical-contact or motif-diffusion claim.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 26947-26958
+  quote_or_summary: The speaker calls the Maruts who 'hold heaven and earth asunder'
+    and the 'manly company' dwelling in the mountains, so that they may 'drink the
+    Soma here.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 26962-26969
+  quote_or_summary: The notes say the hymn is ascribed to Bindu or Piitadaksha, give
+    the metre as Gayatri, and list several verse correspondences with SV passages.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 26975-26989
+  quote_or_summary: The note refers to 'Przsni, the mother of the Maruts' while discussing
+    a proposed correction and rejected interpretations.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 27008-27010
+  quote_or_summary: "'Svardg seems to be meant for Soma as lord, not as brilliant.'"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main invocatory content is clear, but the passage also contains OCR-affected
+    philological notes and a truncated following note. Motif mapping is therefore
+    cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. OCR spellings are retained where they appear in the supplied text.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l26947-l27013
+  passage_sha256=e71cd1c6e742462e5ee44a5b3a1ae74a73599a88eb7653529573f2b2d613c111
+

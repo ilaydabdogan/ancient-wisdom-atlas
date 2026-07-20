@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.celtic-more-celtic-fairy-tales-jacobs-gutenberg-l6973-l6986
+source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: XLI. ELIDORE. / XLII. THE LEECHING OF KAYN'S LEG. / XLIII. HOW FIN WENT TO
+    THE KINGDOM OF THE BIG MEN. / XLIV. HOW CORMAC MAC ART WENT TO FAERY.; lines 6973-6986
+  start: '6973'
+  end: '6986'
+  translation: More Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces the tale 'How Cormac Mac Art Went to Faery,' gives
+    source notes for its condensed English version and manuscript history, and notes
+    Alfred Nutt's comparison of Cormac's Otherworld visit with the bespelled Castle
+    incident in the Grail Legend and with visits to the Brug of Manannan. It also
+    identifies Manannan Mac Lir as the Celtic sea-god.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The title names Cormac Mac Art and says that he went to Faery.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The source note says the tale was condensed by Alfred Nutt from an English
+    version by S. H. O'Grady and mentions older manuscript and catalogue evidence.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The parallels note says Nutt connects Cormac's visit to the Otherworld with
+    the bespelled Castle incident in the Grail Legend.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The parallels note says Nutt gives other instances of visits to the Brug of
+    Manannan.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage identifies Manannan Mac Lir as the Celtic sea-god.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Cormac Mac Art
+  description: Named in the tale title as the person who went to Faery; the notes
+    call this a visit of Cormac to the Otherworld.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Manannan Mac Lir
+  description: Identified in the passage as the Celtic sea-god; the note mentions
+    visits to the Brug of Manannan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: visitor to Faery or Otherworld
+  assigned_to:
+  - fig:1
+  basis: The title says Cormac Mac Art went to Faery, and the parallels note describes
+    this as Cormac's visit to the Otherworld.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Celtic sea-god associated with a Brug
+  assigned_to:
+  - fig:2
+  basis: The passage names the Brug of Manannan and states that Manannan Mac Lir is
+    the Celtic sea-god.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Faery or Otherworld
+  literal_form: Faery / Otherworld
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Brug of Manannan
+  literal_form: Brug of Manannan
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bespelled Castle
+  literal_form: bespelled Castle incident in the Grail Legend
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cormac's visit to Faery or the Otherworld
+  summary: The title and note identify the tale as concerning Cormac Mac Art going
+    to Faery, described in the parallels note as a visit to the Otherworld.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: visit to Faery or the Otherworld
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The title states that Cormac Mac Art went to Faery, and the parallels note
+    calls this a visit to the Otherworld.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is a title and editorial note rather than the narrative episode
+    itself; the taxonomy ref is approximate because the passage says Otherworld/Faery
+    but does not describe an afterlife journey map.
+- id: motif:2
+  label: visits to the Brug of Manannan
+  taxonomy_refs: []
+  basis: The parallels note explicitly mentions other instances of visits to the Brug
+    of Manannan.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage only reports the existence of such parallels and does not
+    narrate them.
+- id: motif:3
+  label: bespelled castle parallel
+  taxonomy_refs: []
+  basis: The parallels note connects Cormac's Otherworld visit with the bespelled
+    Castle incident in the Grail Legend.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage attributes this comparison to Nutt but does not describe the
+    castle incident or explain the grounds of connection.
+comparison_claims:
+- id: claim:1
+  claim: Alfred Nutt connects Cormac's visit to the Otherworld with the bespelled
+    Castle incident in the Grail Legend.
+  claim_level: same_motif
+  target: bespelled Castle incident in the Grail Legend
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports Nutt's connection but provides no details of the
+    Grail episode or the specific shared features.
+- id: claim:2
+  claim: The passage groups Cormac's Otherworld visit with other instances of visits
+    to the Brug of Manannan.
+  claim_level: same_motif
+  target: visits to the Brug of Manannan
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The other instances are not named or described in this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '6973'
+  quote_or_summary: '"HOW CORMAC MAC ART WENT TO FAERY."'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: 6975-6980
+  quote_or_summary: The source note says Alfred Nutt condensed the tale from an English
+    version by S. H. O'Grady; it also mentions a fourteenth-century manuscript printing
+    by Whitley Stokes and citation in the Book of Leinster catalogue.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 6982-6985
+  quote_or_summary: The parallels note says Nutt connects Cormac's Otherworld visit
+    with the bespelled Castle incident in the Grail Legend and gives other instances
+    of visits to the Brug of Manannan.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 6985-6986
+  quote_or_summary: '"Manannan Mac Lir is the Celtic sea-god."'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly a title plus editorial source and parallel notes, not
+    a full narrative scene; motif extraction is therefore limited to explicitly named
+    visit and comparison elements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy entries directly match Faery, Otherworld, Brug, castle, or sea-god; symbol taxonomy refs are left empty.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-more-celtic-fairy-tales-jacobs-gutenberg__l6973-l6986
+  passage_sha256=8d8282a2a393f303b648429959fe936db8e70650ac6e81f39578dd4492595746
+

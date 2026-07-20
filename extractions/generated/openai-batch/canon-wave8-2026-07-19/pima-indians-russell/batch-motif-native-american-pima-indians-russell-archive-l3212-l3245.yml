@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l3212-l3245
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: THE FOOD SUPPLY / PREPARATION OF FOOD / PLANTS USED FOR FOOD / THE FOOD SUPPLY;
+    lines 3212-3245
+  start: '3212'
+  end: '3245'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists Pima food plants and preparation methods: shelled corn
+    is ground, baked, boiled with ashes, dried, parched, and made into gruel; cactus,
+    saltbush, chick-pea, Chenopodium seed, and another seed are gathered or obtained
+    and prepared by pounding, washing, drying, parching, and grinding for eating as
+    pinole or meal.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Shelled corn is ground on a metate and baked in ashes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Corn may also be boiled with ashes, dried, washed to remove hulls, dried again,
+    parched with coals or over fire, and made into gruel.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The cactus called Fsavik has its thorns removed after gathering and is eaten
+    without further preparation.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Saltbush heads are pounded, screened, washed, dried, parched in a piece of
+    olla, ground on a metate, and eaten as pinole or dry meal with water.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage includes a figure caption for dried saguaro fruit.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Chick-pea is raised in small quantities and also purchased from traders.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Chenopodium seed is gathered early in the summer, parched, ground, and eaten
+    as pinole or combined with other meal.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: After the August rains, a seed called Kă'meiLvat is gathered, parched over
+    coals, ground on a metate, and eaten as pinole.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Traders
+  description: People from whom chick-pea is purchased.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: food supplier
+  assigned_to:
+  - fig:1
+  basis: The passage says chick-pea is purchased from traders.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire and coals used in food preparation
+  literal_form: ashes, coals, fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: sym:2
+  label: water used while eating dry meal
+  literal_form: water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: metate used for grinding
+  literal_form: metate
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: dried saguaro fruit
+  literal_form: dried saguaro fruit
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preparation of corn
+  summary: Corn is ground, baked in ashes, or boiled with ashes, dried, washed, parched,
+    and made into gruel.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Preparation of saltbush seed meal
+  summary: Saltbush heads are processed by pounding, screening, washing, drying, parching,
+    and grinding, then eaten as pinole or dry meal with water.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Seasonal gathering and preparation of seeds
+  summary: Chenopodium seed is gathered early in summer, and Kă'meiLvat seed is gathered
+    after the August rains; both are prepared by parching and grinding for food.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: seasonal gathering of food plants
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage ties seed gathering to early summer and to the period after the
+    August rains.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: This is an ethnographic food-preparation passage, not a mythic narrative;
+    the seasonal-cycle reference is literal and practical rather than explicitly symbolic.
+- id: motif:2
+  label: plant foods transformed by fire, water, drying, pounding, and grinding
+  taxonomy_refs: []
+  basis: Multiple listed foods are made edible through repeated preparation steps
+    involving ashes, coals or fire, water, drying, parching, pounding, and grinding.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is a practical subsistence pattern rather than a clearly marked mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3212-3214
+  quote_or_summary: Shelled corn is ground on a metate and baked in large cakes in
+    ashes.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3214-3218
+  quote_or_summary: Corn is boiled with ashes, dried, washed to remove hulls, dried
+    again, parched with coals or over fire, and made into gruel.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 3220-3221
+  quote_or_summary: Fsavik cactus thorns are removed after gathering, and the cactus
+    is eaten without further preparation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 3223-3230
+  quote_or_summary: Atriplex saltbush heads are pounded, screened, washed, dried,
+    parched in a piece of olla, ground on a metate, and eaten as pinole or dry meal
+    with sips of water.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: line 3228
+  quote_or_summary: "“Fig. 3. Dried saguaro fruit.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 3232-3236
+  quote_or_summary: Chick-pea is raised in small quantities and also purchased from
+    traders; the passage identifies it with the Mexican garbanzo.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 3238-3241
+  quote_or_summary: Chenopodium seed is gathered early in summer, parched, ground,
+    and eaten as pinole or mixed with other meal.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: lines 3243-3245
+  quote_or_summary: After the August rains, Kă'meiLvat seed is gathered, parched over
+    coals, ground on a metate, and eaten as pinole.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The literal food-preparation data are clear. Motif identification is limited
+    because the passage is ethnographic and practical rather than a mythic or symbolic
+    narrative; no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparative claims were added because the passage itself does not support comparison to another text, motif family beyond tentative seasonal-cycle tagging, or nearby corpus tradition.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l3212-l3245
+  passage_sha256=657abe8561c9f16252e593e6e2be3499e38f5ea4509363f4856bf8af4bac6e20
+

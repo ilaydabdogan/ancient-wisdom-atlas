@@ -1,0 +1,177 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l4069-l4079
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: EAR-PENDANTS HAIR    ORNAMENTS / HAIR    ORNAMENTS    AND    COMBS / BRACELETS
+    / BUREAU    OF   AMERICAN    ETHNOLOGY; lines 4069-4079
+  start: '4069'
+  end: '4079'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes bracelets worn by women and girls, and a type used
+    by men: a sealskin cord with one or more large beads, generally used at sea to
+    roll under the sleeve ends of a waterproof skin frock. An example from Nunivak
+    Island is referenced in a plate.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Women and girls throughout the visited region wear bracelets made of iron,
+    brass, or copper.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Men use bracelets made from a sealskin cord strung with one or more large
+    beads of ivory or another substance.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The men's bracelets are generally used while at sea.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The men's bracelets are used for rolling under the ends of the sleeves of
+    a waterproof skin frock.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The text refers to an illustrated example of these bracelets from Nunivak
+    Island in plate xxv, figure 5.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: women and girls
+  description: Bracelet wearers in the visited region.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: men
+  description: Users of sealskin-cord bracelets with large beads.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: metal bracelet wearers
+  assigned_to:
+  - fig:1
+  basis: The passage states that women and girls wear bracelets of iron, brass, or
+    copper.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sealskin-cord bracelet users
+  assigned_to:
+  - fig:2
+  basis: The passage states that men use bracelets made of sealskin cord with beads,
+    generally while at sea.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: bracelets
+  literal_form: Bracelets of iron, brass, copper, or sealskin cord with large beads.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: waterproof skin frock
+  literal_form: Waterproof skin frock with sleeve ends under which bracelets are rolled.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sea
+  literal_form: At sea, where the men's bracelets are generally used.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Bracelet wearing and use
+  summary: Women and girls wear metal bracelets; men use sealskin-cord bracelets with
+    beads, especially at sea, to manage the sleeve ends of waterproof skin frocks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4069-4071
+  quote_or_summary: "“Bracelets of iron, brass, or copper are worn by women and girls
+    throughout the region visited.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 4071-4073
+  quote_or_summary: "“The men also use bracelets made of a sealskin cord on which
+    is strung one or more large beads of ivory or other substance.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 4073-4076
+  quote_or_summary: "“They are generally used while at sea for rolling under the end
+    of the sleeves of the waterproof skin frock.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 4076-4078
+  quote_or_summary: The passage states that plate xxv, figure 5 shows an example of
+    these bracelets from Nunivak Island.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is an ethnographic description of material objects and use-context,
+    with no explicit mythic narrative or comparative motif claim. No candidate motifs
+    or comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological episode is present in the supplied lines; extraction is limited to literal artifact, user, material, and use-context details.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l4069-l4079
+  passage_sha256=8369be47d3dbb80b232671477ffd16bd6c6c329a2a4bf78ab8622b3d6090c33c
+

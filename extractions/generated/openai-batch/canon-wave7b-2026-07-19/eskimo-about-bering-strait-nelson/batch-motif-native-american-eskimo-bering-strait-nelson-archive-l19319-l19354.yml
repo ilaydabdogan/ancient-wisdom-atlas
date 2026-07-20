@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l19319-l19354
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    ESKIMO    ABOUT    BERING    STRAIT / MORTUARY  CUSTOMS / MORTUARY    CUSTOMS
+    / MORTUARY    CUSTOMS; lines 19319-19354
+  start: '19319'
+  end: '19354'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"This is our water; drink"'
+  summary: 'The passage describes Unalit graveyard placement near the village, then
+    records observances after the death of a shaman at St Michael: work ceased for
+    three days, the body was placed in a grave box, and men poured liquid from urine
+    tubs before their doors while addressing the returning shade so that it would
+    taste the bad water and leave.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Among the Unalit, the graveyard is usually close to one side of the village,
+    commonly behind it or on a nearby knoll.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A shaman died at St Michael during the narrator's residence there.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Because the deceased had been a shaman, no one in the village did any work
+    for three days after his death.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The body was prepared and placed in the grave box on the morning of death.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: On the following night, each man took his urine tub and poured a little of
+    its contents on the ground before the door.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The men said, "This is our water; drink" while pouring the liquid.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The stated belief was that if the shade returned at night and tried to enter,
+    it would taste the water, find it bad, and go away.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unalit villagers
+  description: The people among whom the graveyard is placed near the village and
+    among whom the shaman's death observances occurred.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: deceased shaman
+  description: A shaman at St Michael whose death prompted three days without work
+    and special observances.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: men of the village
+  description: Each man in the village poured liquid from his urine tub before the
+    door at night.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: shade
+  description: The shade was believed capable of returning during the night and trying
+    to enter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: village community
+  assigned_to:
+  - fig:1
+  basis: The passage describes village customs and collective work cessation after
+    the shaman's death.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: deceased ritual specialist
+  assigned_to:
+  - fig:2
+  basis: The deceased is explicitly identified as a shaman, and this status is given
+    as the reason for the three-day cessation of work.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: participants in nocturnal door observance
+  assigned_to:
+  - fig:3
+  basis: Each man performs the pouring action and speaks to the anticipated shade.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: returning dead or shade
+  assigned_to:
+  - fig:4
+  basis: The shade is described as possibly returning during the night and trying
+    to enter.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: graveyard near village
+  literal_form: graveyard close to one side of the village or on an adjacent knoll
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: grave box
+  literal_form: box in which the prepared body was placed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: bad water at the doorway
+  literal_form: liquid from urine tubs poured on the ground before the door and called
+    water in speech to the shade
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: door threshold
+  literal_form: ground before the door where the liquid was poured before sleep
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: three-day work cessation
+  literal_form: no work in the village for three days following the shaman's death
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Unalit graveyard setting
+  summary: The passage locates the Unalit graveyard close to the village, often behind
+    it or on a nearby knoll.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: shaman's death and burial preparation
+  summary: After a shaman died at St Michael, the body was prepared and placed in
+    a grave box on the morning of death, and the village did no work for three days
+    because he had been a shaman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: nighttime doorway deterrent for the shade
+  summary: Before retiring, each man poured liquid from his urine tub before the door
+    and addressed it as water for the shade to drink, believing the shade would taste
+    it, find it bad, and go away.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: mortuary work cessation after death of a shaman
+  taxonomy_refs: []
+  basis: The passage states that, because the deceased had been a shaman, no one in
+    the village worked for three days after his death.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the observance but does not explain its meaning beyond
+    the deceased's status as a shaman.
+- id: motif:2
+  label: offering bad liquid to repel a returning shade
+  taxonomy_refs: []
+  basis: Men pour liquid from urine tubs before doors and address it as water for
+    the shade; the stated purpose is that a returning shade will taste it, find it
+    bad, and leave.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage reports a local belief and action but does not provide a broader
+    comparative explanation.
+- id: motif:3
+  label: dead returning to the doorway at night
+  taxonomy_refs: []
+  basis: The passage says the shade might return during the night and try to enter,
+    making the doorway the focus of the observance.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The shade's return is described as a believed possibility rather than
+    as a narrated event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19323-19327
+  quote_or_summary: Among the Unalit the graveyard is usually close to one side of
+    the village, often behind it or on a small adjacent knoll.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 19329-19331
+  quote_or_summary: During the narrator's residence at St Michael, a shaman died and
+    notes were made on the observances that followed.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 19338-19340
+  quote_or_summary: Because the deceased had been a shaman, no one did any work in
+    the village for three days after his death.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 19340-19342
+  quote_or_summary: The body had been prepared and placed in the grave box on the
+    morning that he died.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 19342-19347
+  quote_or_summary: Each man took his urine tub, poured a little before the door,
+    and said, "This is our water; drink".
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: summary
+  locator: 19347-19351
+  quote_or_summary: They believed that if the shade returned during the night and
+    tried to enter, it would taste the water, find it bad, and go away.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are descriptive and not linked to broader taxonomy except the literal water symbol;
+    no comparison claims were made because the passage itself provides no explicit
+    comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Fragmentary opening sentence before the Unalit graveyard description was not separately extracted because its referent is unclear in the provided passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l19319-l19354
+  passage_sha256=8b71948e29f9e31ccd1308d7bc2a1504c162744e1d3a02553d334be3162ea6cc
+

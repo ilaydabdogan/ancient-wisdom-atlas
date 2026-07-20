@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.celtic-mabinogion-guest-gutenberg-l1430-l1451
+source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+passage_locator:
+  label: INTRODUCTION / C. E. G. / THE LADY OF THE FOUNTAIN / PEREDUR THE SON OF EVRAWC;
+    lines 1430-1451
+  start: '1430'
+  end: '1451'
+  translation: The Mabinogion
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Peredur encounters a knight who says he has been Arthur’s enemy and has
+    slain Arthur’s men. Peredur defeats him, grants mercy on condition that he swear
+    to go to Arthur’s Court and report Peredur’s victory, his loyalty to Arthur’s
+    service, and his threat against Kai over the insult to the dwarf and dwarfess.
+    Peredur later overthrows sixteen more knights in the same week, sending all to
+    Arthur’s Court with the same message. Arthur reproves Kai, who is grieved.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Peredur rides forward and meets a knight.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The knight asks where Peredur comes from and whether he is one of Arthur’s
+    men; Peredur answers that he comes from Arthur’s Court and is one of Arthur’s
+    men.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The knight says he has always been Arthur’s enemy and has slain Arthur’s men
+    whom he has encountered.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Peredur and the knight fight without further talk, and Peredur brings the
+    knight to the ground.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The defeated knight asks Peredur for mercy.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Peredur grants mercy on condition that the knight swear to go to Arthur’s
+    Court and report that Peredur overthrew him for the honour of Arthur’s service.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Peredur also instructs the knight to say that Peredur will not come to the
+    Court until he has avenged the insult offered to the dwarf and dwarfess.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The knight pledges his faith, goes to Arthur’s Court, repeats Peredur’s message,
+    and conveys the threat to Kai.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Within the same week, Peredur encounters sixteen knights and overthrows them
+    all.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The sixteen defeated knights go to Arthur’s Court with the same message and
+    threat that the first knight had conveyed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Arthur reproves Kai, and Kai is greatly grieved.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Peredur
+  description: A knight associated with Arthur’s Court who rides onward, defeats opponents,
+    grants conditional mercy, and sends messages to Arthur’s Court and Kai.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: unnamed knight
+  description: A knight who meets Peredur, identifies himself as Arthur’s enemy, fights
+    Peredur, is defeated, asks mercy, and carries Peredur’s message to Arthur’s Court.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Arthur
+  description: The ruler associated with Arthur’s Court; Peredur’s message is sent
+    to his Court, and Arthur reproves Kai.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Kai
+  description: The recipient of Peredur’s threat and the person reproved by Arthur.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: the dwarf and dwarfess
+  description: A pair referenced as having been insulted; Peredur says he will not
+    come to the Court until he has avenged the insult offered to them.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: sixteen knights
+  description: A group encountered within the week, overthrown by Peredur, and sent
+    to Arthur’s Court with the same message and threat.
+  role_refs:
+  - role:5
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: victorious combatant
+  assigned_to:
+  - fig:1
+  basis: Peredur defeats the first knight and later overthrows sixteen knights.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Arthur’s man
+  assigned_to:
+  - fig:1
+  basis: Peredur says he comes from Arthur’s Court and is one of Arthur’s men.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: avenger of insult
+  assigned_to:
+  - fig:1
+  basis: Peredur says he will not come to the Court until he has avenged the insult
+    to the dwarf and dwarfess.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: enemy of Arthur
+  assigned_to:
+  - fig:2
+  basis: The knight says he has always been Arthur’s enemy and has slain Arthur’s
+    men.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: defeated messenger
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: Defeated knights go to Arthur’s Court carrying Peredur’s message and threat.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: courtly authority
+  assigned_to:
+  - fig:3
+  basis: Arthur’s Court is the destination of the messages, and Arthur reproves Kai.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: threatened and reproved court figure
+  assigned_to:
+  - fig:4
+  basis: Peredur’s threat is conveyed to Kai, and Arthur reproves Kai.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:8
+  label: insulted pair
+  assigned_to:
+  - fig:5
+  basis: Peredur refers to an insult offered to the dwarf and dwarfess.
+  evidence_refs:
+  - ev:2
+- id: role:9
+  label: serial opponents
+  assigned_to:
+  - fig:6
+  basis: Within the week Peredur encounters and overthrows sixteen knights.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Peredur meets and defeats Arthur’s enemy
+  summary: Peredur meets a knight who identifies himself as Arthur’s enemy. They fight,
+    and Peredur throws him down. The knight asks mercy, and Peredur spares him in
+    exchange for an oath to carry a message to Arthur’s Court and a threat to Kai.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Repeated victories and Kai’s reproof
+  summary: Within a week Peredur overthrows sixteen more knights and sends them all
+    to Arthur’s Court with the same message and threat. Arthur reproves Kai, who is
+    grieved.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: defeated foe spared and sent as messenger
+  taxonomy_refs: []
+  basis: The defeated knight is granted mercy only after pledging to go to Arthur’s
+    Court and report Peredur’s victory and message.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage supports the narrative pattern but does not provide a broader
+    comparative taxonomy label.
+- id: motif:2
+  label: serial overthrow of opposing knights
+  taxonomy_refs: []
+  basis: Peredur first defeats an enemy of Arthur and then, within the same week,
+    overthrows sixteen additional knights.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage states repeated combat victories but does not explicitly frame
+    them as an initiation or quest test.
+- id: motif:3
+  label: avenging an insult before returning to court
+  taxonomy_refs: []
+  basis: Peredur declares that he will not come to Arthur’s Court until he has avenged
+    the insult offered to the dwarf and dwarfess.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The insult itself is only referenced, not narrated in this passage.
+- id: motif:4
+  label: honour of service to a ruler
+  taxonomy_refs: []
+  basis: Peredur requires the defeated knight to say that Peredur overthrew him for
+    the honour of Arthur’s service.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents this as a stated motive in a message, not as an extended
+    symbolic theme.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1430-1436
+  quote_or_summary: Peredur rides forward and meets a knight. In dialogue, Peredur
+    says he comes from Arthur’s Court and is one of Arthur’s men; the knight says
+    he has always been Arthur’s enemy and has slain Arthur’s men he encountered.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1436-1442
+  quote_or_summary: Peredur and the knight fight; Peredur brings him to the ground.
+    The knight asks mercy, and Peredur grants it if the knight swears to go to Arthur’s
+    Court and report Peredur’s victory for Arthur’s honour, and that Peredur will
+    not come to Court until he has avenged the insult to the dwarf and dwarfess.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1442-1444
+  quote_or_summary: The knight pledges his faith, goes to Arthur’s Court, says what
+    he promised, and conveys Peredur’s threat to Kai.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1445-1450
+  quote_or_summary: Peredur rides forward, encounters sixteen knights within the week,
+    overthrows them all, and they go to Arthur’s Court carrying the same message and
+    threat as the first knight.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1450-1451
+  quote_or_summary: Arthur reproves Kai, and Kai is greatly grieved.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal events and figures are explicit in the passage. Motif labels are
+    descriptive and not linked to supplied taxonomy because the passage does not clearly
+    support a listed motif family. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy symbol is directly present in this passage; symbols and comparison claims are therefore left empty.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-mabinogion-guest-gutenberg__l1430-l1451
+  passage_sha256=fb75adc05fa0fc4d3628d422305d939df602ab98cc50c5eaabef10a2bdddbd22
+

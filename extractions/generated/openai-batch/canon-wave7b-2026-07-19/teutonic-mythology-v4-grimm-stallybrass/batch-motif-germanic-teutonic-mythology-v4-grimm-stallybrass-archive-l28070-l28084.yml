@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l28070-l28084
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SUPERSTITIONS.      I.  1811 / SUPERSTITIONS.      I.  1813 / SUPERSTITIONS.      I.  1815
+    / SUPERSTITIONS.      I.  1817; lines 28070-28084
+  start: '28070'
+  end: '28084'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists Germanic superstition entries. Two complete entries
+    describe Christmas-season practices for discovering or forecasting a sweetheart:
+    one uses white bread divided and eaten across three streets; another uses two
+    nutshells with wax tapers floated on water as proxies for the practitioner and
+    sweetheart. A third entry begins but is incomplete in the supplied passage.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Item 959 sets the practice on Christmas eve.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The practitioner buys three farthings' worth of white bread, divides it into
+    three parts, and consumes the parts along three streets, one in each street.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stated result is that in the third street the practitioner will see their
+    sweetheart.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Item 960 sets the practice on the night before Christmas.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The practitioner takes two empty nutshells with tiny wax tapers in them to
+    stand for the practitioner and the sweetheart, and floats them on a dishful of
+    water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: If the two floating nutshells come together, the suit will prosper; if they
+    go apart, it will fail.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Item 961 begins a condition involving a master left in the lurch by his man,
+    or a girl in the family, but the supplied passage does not complete the superstition.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Christmas-season practitioner
+  description: An unspecified person who performs the bread rite or the nutshell-and-water
+    rite.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Sweetheart
+  description: The person whom the practitioner will see in the third street or whom
+    one of the nutshells represents.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Master
+  description: A master mentioned in the incomplete item as being left in the lurch
+    by his man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Man or servant
+  description: The master's man mentioned in the incomplete item as leaving the master
+    in the lurch.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Girl in the family
+  description: A girl in the family mentioned in the incomplete item 961.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: love-divination practitioner
+  assigned_to:
+  - fig:1
+  basis: The figure carries out prescribed actions intended to reveal or forecast
+    a relationship with a sweetheart.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: desired sweetheart
+  assigned_to:
+  - fig:2
+  basis: The sweetheart is the person to be seen in the first practice and represented
+    by one nutshell in the second.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: abandoned master in fragment
+  assigned_to:
+  - fig:3
+  basis: The incomplete item says a master is left in the lurch by his man.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: departing man or servant in fragment
+  assigned_to:
+  - fig:4
+  basis: The incomplete item refers to the master's man leaving him in the lurch.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: mentioned family girl in fragment
+  assigned_to:
+  - fig:5
+  basis: The incomplete item also mentions a girl in the family.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: white bread
+  literal_form: Three farthings' worth of white bread divided into three parts and
+    eaten along three streets.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: number three
+  literal_form: Three farthings, three parts, three streets, and the third street.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: three streets
+  literal_form: A route of three streets, with the third street as the place where
+    the sweetheart is to be seen.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: paired nutshell proxies
+  literal_form: Two empty nutshells with tiny wax tapers in them, standing for the
+    practitioner and the sweetheart.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: dishful of water
+  literal_form: A dishful of water on which the two nutshells are set afloat.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: wax tapers
+  literal_form: Tiny wax tapers placed inside the two nutshells.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: Christmas eve timing
+  literal_form: Christmas eve or the night before Christmas as the prescribed time
+    for the practice.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Bread-and-three-streets sweetheart vision
+  summary: On Christmas eve, a person buys white bread, divides it into three parts,
+    eats one part in each of three streets, and is told they will see their sweetheart
+    in the third street.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Nutshell-and-water love omen
+  summary: On the night before Christmas, a person floats two nutshells with wax tapers
+    on water as proxies for self and sweetheart; their movement together or apart
+    forecasts whether the suit will prosper or fail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Incomplete household fragment
+  summary: A following item begins with a master left in the lurch by his man, or
+    a girl in the family, but the superstition is not complete in the supplied passage.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Christmas-eve love divination through bread and three streets
+  taxonomy_refs: []
+  basis: The entry prescribes bread divided into three parts and eaten along three
+    streets on Christmas eve to see the sweetheart in the third street.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Descriptive motif label only; no supplied motif-family taxonomy reference
+    matches exactly.
+- id: motif:2
+  label: Love suit divination by floating paired proxies on water
+  taxonomy_refs: []
+  basis: Two nutshells with wax tapers stand for the practitioner and sweetheart;
+    their coming together or separating forecasts the success or failure of the suit.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Descriptive motif label only; no supplied motif-family taxonomy reference
+    matches exactly.
+- id: motif:3
+  label: Paired objects coming together or apart as omen of union or failure
+  taxonomy_refs: []
+  basis: The passage states that if the two proxy nutshells come together the suit
+    prospers, while if they go apart it comes to nothing.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The omen is limited to a love-suit context in this passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The two complete entries share the same function: Christmas-season acts
+    are used to reveal or forecast a relationship with a sweetheart.'
+  claim_level: same_function
+  target: Christmas-season love-divination pattern in items 959-960
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim compares only the two complete entries within the supplied
+    passage and does not assert historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: no. 959; lines 28070-28073
+  quote_or_summary: On Christmas eve, some buy three farthings' worth of white bread,
+    divide it into three parts, eat it across three streets, and are told they will
+    see their sweetheart in the third street.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: no. 960; lines 28074-28079
+  quote_or_summary: The night before Christmas, two empty nutshells with tiny wax
+    tapers stand for the practitioner and sweetheart and are floated on water; coming
+    together means the suit prospers, going apart means it fails.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: no. 961 fragment and notes; lines 28080-28084
+  quote_or_summary: The supplied passage begins item 961 with a master left in the
+    lurch by his man, or a girl in the family, then breaks into footnote material;
+    the superstition is incomplete here.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The first two superstition entries are complete and explicit. Item 961 is
+    fragmentary in the supplied line range, so no motif is inferred from it.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or taxonomy motif-family assignments were added because the supplied taxonomy does not contain a precise match for the love-divination practices.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l28070-l28084
+  passage_sha256=a24d46567fa9ca1a3b4a1c5949a98bc77bcbf3b9fe75985107580daeae04f135
+

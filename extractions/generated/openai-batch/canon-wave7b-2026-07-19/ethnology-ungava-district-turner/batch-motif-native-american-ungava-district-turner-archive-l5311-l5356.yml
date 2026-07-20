@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l5311-l5356
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: TURNER.) THE KAIAK. 239 / ON LAND / THE HUDSON BAY ESKIMO. / WEAPONS AND
+    OTHER HUNTING IMPLEMENTS,; lines 5311-5356
+  start: '5311'
+  end: '5356'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the preparation and use of an inflated animal-skin
+    float: the skin is cleaned, inflated, dried, sewn closed, fitted with an ivory
+    mouthpiece, wooden stopper, and stick handle, and then used with tracking or harpoon
+    lines to keep lines clear, slow speared marine animals, and mark where they sink.
+    It also describes hair removal methods intended to help preserve waterproofing.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cleaned animal skin is inflated with air, hung to dry, turned hairy side
+    out, and inflated again.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mouth and other openings in the skin are sewn shut before a fitted ivory
+    mouthpiece is secured at the mouth area.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ivory mouthpiece has a bored hole that is plugged with a wooden stopper.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A short stick is placed inside the hind flippers and tail area and bound in
+    place, serving both to close the opening and to provide a handle.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When used with a tracking line, the float is fastened by the stick and dragged
+    backwards to keep the line from fouling among beach rocks and stones while towing
+    a boat or umiak.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The float is also attached to harpoon lines used for large marine mammals
+    such as white whale and larger seals.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The float slows the movement of a speared animal and marks the place where
+    it sinks.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Hair may be removed from the skin before or after skinning, and careful removal
+    is said to affect how nearly waterproof the skin remains.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: inflated animal-skin float
+  description: A prepared skin inflated with air, fitted with an ivory mouthpiece,
+    wooden stopper, and stick handle, and used with tracking or harpoon lines.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: speared marine animal
+  description: A large marine mammal struck with a harpoon line to which the float
+    may be attached; examples named include white whale and larger seals.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: boat or umiak
+  description: A boat, specified parenthetically as an umiak, towed along a beach
+    with a tracking line.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hunting implement
+  assigned_to:
+  - fig:1
+  basis: The passage describes the float as attached to tracking lines and harpoon
+    lines, with practical functions in towing and hunting marine mammals.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: hunted animal
+  assigned_to:
+  - fig:2
+  basis: The passage describes large marine mammals as speared animals whose movement
+    is retarded and whose sinking location is marked by the float.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: towed vessel
+  assigned_to:
+  - fig:3
+  basis: The passage says the tracking line runs along the beach in towing a boat
+    or umiak.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: inflated skin float
+  literal_form: Prepared animal skin inflated with air and fitted for attachment to
+    lines
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: ivory mouthpiece and wooden stopper
+  literal_form: Ivory button-like mouthpiece with a bored hole, closed by a wooden
+    stopper
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: harpoon or tracking line attachment
+  literal_form: Line connected to the float for towing or marine-mammal hunting
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preparation of the skin float
+  summary: The skin is cleaned, inflated, dried, sewn closed, fitted with an ivory
+    mouthpiece and wooden stopper, and bound around a stick at the hind flippers and
+    tail.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Use with tracking and harpoon lines
+  summary: The inflated float is attached to a tracking line to keep it from fouling
+    during boat towing, or to a harpoon line to slow and locate speared marine mammals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Hair removal and waterproofing
+  summary: The passage describes removing hair from the skin with boiling water and
+    careful pulling so that adhering scurf does not reduce waterproofing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5311-5356
+  quote_or_summary: The skin is inflated with air, hung to dry, turned hairy side
+    out, and inflated again after the flesh has been scraped away.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 5311-5356
+  quote_or_summary: The mouth and other openings are sewn up; an ivory button-like
+    mouthpiece with a bored hole is secured at the mouth with sealskin thongs, and
+    the hole is stopped with wood.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 5311-5356
+  quote_or_summary: A short stick is placed within the skin at the hind flippers and
+    tail and bound there to stop the opening and provide a handle for dragging or
+    holding the float.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: 5311-5356
+  quote_or_summary: When attached to a tracking line, the float is fastened by the
+    stick and prevents the line from fouling among rocks and stones while towing a
+    boat or umiak along the beach.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 5311-5356
+  quote_or_summary: The float can be attached to harpoon lines for white whale and
+    larger seals; it retards the flight of a speared animal and marks where it sinks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 5311-5356
+  quote_or_summary: Hair may be scraped or shaved from the skin; boiling water is
+    poured on small patches, and careful hair removal is said to help avoid loss of
+    waterproofing.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a technical ethnographic description of hunting equipment
+    and preparation methods. No mythological narrative motif or passage-supported
+    comparative claim is evident in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by the passage. The text contains OCR irregularities; extraction preserves only cautious neutral summaries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l5311-l5356
+  passage_sha256=aa0992b1adae22ababdcbd3d52b772debc2792c0028a00a741543afeb48b885b
+

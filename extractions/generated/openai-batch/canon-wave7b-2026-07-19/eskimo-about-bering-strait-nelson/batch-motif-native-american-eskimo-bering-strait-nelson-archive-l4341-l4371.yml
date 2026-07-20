@@ -1,0 +1,199 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l4341-l4371
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: LABRETS     (NINE-SIXTEENTHS) / OF  T / OF  TKI / WEASEL    BELTS LAMPS;
+    lines 4341-4371
+  start: '4341'
+  end: '4371'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"These weasel belts were most frequently seen among people from the head
+    of Norton bay and Kaviak peninsula"'
+  summary: A plate or section excerpt mentions weasel belts and lamps. It says weasel
+    belts were especially common and prized among people from the head of Norton Bay
+    and the Kaviak Peninsula, and that people from that area offered furs for the
+    skin and head of a weasel for this purpose.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage appears in a plate or section context mentioning labrets, weasel
+    belts, and lamps.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Weasel belts were most frequently seen among people from the head of Norton
+    Bay and the Kaviak Peninsula.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The weasel belts seemed to be particularly prized by people from that region.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: People from that region offered as much as two dollars' worth of furs for
+    the skin and head of a weasel for this purpose.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: People from the head of Norton Bay and Kaviak Peninsula
+  description: A regional collective among whom weasel belts were frequently seen
+    and particularly prized, and who offered furs for a weasel skin and head.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Weasel
+  description: The animal whose skin and head were sought for the stated purpose involving
+    weasel belts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: regional group associated with weasel belts
+  assigned_to:
+  - fig:1
+  basis: The passage says weasel belts were most frequently seen among people from
+    the head of Norton Bay and Kaviak Peninsula.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: offerers of furs
+  assigned_to:
+  - fig:1
+  basis: People from that section offered furs for the skin and head of a weasel.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: animal material source
+  assigned_to:
+  - fig:2
+  basis: The skin and head of a weasel were obtained for the described purpose.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: weasel belt
+  literal_form: weasel belts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: weasel skin and head
+  literal_form: the skin and the head of a weasel
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: furs offered in exchange
+  literal_form: two dollars' worth of furs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Regional valuation of weasel belts
+  summary: The passage states that weasel belts were frequently seen and especially
+    prized among people from the head of Norton Bay and the Kaviak Peninsula.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Offering furs for weasel materials
+  summary: People from the same region offered furs valued at as much as two dollars
+    for the skin and head of a weasel for the described purpose.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: prized animal-material belt
+  taxonomy_refs: []
+  basis: The passage identifies weasel belts as particularly prized among a named
+    regional group.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic material-culture pattern rather than a mythic
+    narrative motif; no sacred or supernatural function is supplied in the excerpt.
+- id: motif:2
+  label: valuable furs offered for animal body materials
+  taxonomy_refs: []
+  basis: People from the region offered furs for the skin and head of a weasel for
+    this use.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The exchange is described in economic or material terms only; the passage
+    does not state a ritual or sacred exchange function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4341-4356
+  quote_or_summary: Plate and section headings include references to labrets, weasel
+    belts, and lamps.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: 4357-4364
+  quote_or_summary: '"These weasel belts were most frequently seen among people from
+    the head of Norton bay and Kaviak peninsula, where they seemed to be particularly
+    prized."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 4364-4371
+  quote_or_summary: '"The people from that section offered as much as two dollars''
+    worth of furs for the skin and the head of a weasel for this purpose."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is short and partly fragmentary, with OCR-like headings and an
+    incomplete preceding sentence. Literal object and exchange details are clear,
+    but mythic or ritual motif identification is weak.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the excerpt does not explicitly support any of the available motif families or symbol taxonomy items.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l4341-l4371
+  passage_sha256=0134d35f597cfae18764ceb556ecdecce610da5829b7cbc5186f554b25487ea6
+

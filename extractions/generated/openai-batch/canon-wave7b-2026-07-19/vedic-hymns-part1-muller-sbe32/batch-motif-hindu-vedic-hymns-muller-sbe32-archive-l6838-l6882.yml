@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l6838-l6882
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. X, I21, 6. 9 / IO VEDIC HYMNS. / NOTES. X, I2I, 10. II / I2 VEDIC
+    HYMNS.; lines 6838-6882
+  start: '6838'
+  end: '6882'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A philological note argues that the Vedic sacrificial formula asking to
+    which god sacrifice should be offered was poetically a questioning address, while
+    later Brahmana authors treated the interrogative pronoun ka, “who,” as a deity
+    named Ka and identified Ka with Prajapati. The note also cites a Vata hymn in
+    which the wind is heard but not seen and receives sacrifice, and it describes
+    later terms for hymns and sacrifices derived from ka/kad.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note treats the phrase “Kasmai devaya havisha vidhema” as a familiar sacrificial
+    formula and cites a hymn to Vata with a similar concluding offering line.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:2
+  text: In the cited Vata line, the wind’s sound is heard, but the wind is not seen.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note says Brahmana authors made the interrogative pronoun ka, “who,” into
+    a deity called Ka or Who.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cited Brahmana passages state that Ka is Pragapati or Prajapati, described
+    as the Lord of Creatures.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says hymns containing the interrogative pronoun were called Kadvat,
+    and sacrifices offered to the god were called Kaya or “who-ish.”
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note contrasts a poetical yearning after an unknown god with later theological
+    identification of that figure as Prajapati.
+  category: other
+  evidence_refs:
+  - ev:2
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pragapati / Prajapati
+  description: Presented as the god identified with Ka and glossed as the Lord of
+    Creatures; also mentioned as the god said to deserve sacrifice in a theological
+    interpretation.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Ka / Who
+  description: A deity-name said to arise from treating the interrogative pronoun
+    ka, “who,” as a god.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Vata
+  description: The wind addressed in a cited hymn; his sound is heard though he is
+    not seen, and sacrifice is offered to him.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Authors of the Brahmanas
+  description: Literary and ritual interpreters described as reclassifying interrogative
+    verses and identifying Ka with Prajapati.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage discusses sacrifice offered to Prajapati, to Vata, and to the
+    god Ka.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: deified interrogative pronoun
+  assigned_to:
+  - fig:2
+  basis: Ka is described as the interrogative pronoun elevated into a deity.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Lord of Creatures
+  assigned_to:
+  - fig:1
+  basis: The cited Brahmana statement identifies Ka as Pragapati, glossed as the Lord
+    of Creatures.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: audible but unseen wind
+  assigned_to:
+  - fig:3
+  basis: The Vata line says his sound is heard but he is not seen.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: ritual exegetes and reinterpreters
+  assigned_to:
+  - fig:4
+  basis: The passage attributes the creation and classification of Ka-related divine
+    and ritual terms to Brahmana authors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Interrogative name Ka
+  literal_form: ka, “who”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Sacrificial offering formula
+  literal_form: havisha vidhema / “let us offer sacrifice”
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Sound without visible form
+  literal_form: "“his sound indeed is heard, but he is not seen”"
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Kadvat and Kaya derivations
+  literal_form: terms formed from kad/Ka and applied to hymns and sacrifices
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Vata as parallel sacrificial addressee
+  summary: The note cites a hymn to Vata in which the wind is audibly present but
+    invisible, and the line concludes by offering sacrifice to Vata.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Deification of the question word
+  summary: The note says Brahmana authors interpreted interrogative verses by making
+    the pronoun ka into a deity named Ka or Who.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ka identified and ritualized
+  summary: The note reports that cited Brahmana texts identify Ka with Prajapati and
+    that later terminology classifies Ka-related hymns and sacrifices as Kadvat and
+    Kaya.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sacrifice formula directed to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage repeatedly discusses the formula of offering sacrifice to a deity,
+    including Vata, Prajapati, and Ka.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is a philological note, not a full ritual narrative.
+- id: motif:2
+  label: Deification of an interrogative word
+  taxonomy_refs: []
+  basis: The note explicitly says the interrogative pronoun ka, “who,” was exalted
+    into a deity named Ka or Who.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an exegetical and linguistic pattern rather than a narrated mythic
+    episode.
+- id: motif:3
+  label: Unknown god invoked by questioning formula
+  taxonomy_refs: []
+  basis: The note refers to the poets’ yearning after an unknown god and to the formula
+    asking to which god sacrifice should be offered.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The unknown-god pattern is described through the editor’s commentary rather
+    than by a complete quoted hymn.
+- id: motif:4
+  label: Unseen deity known by sound
+  taxonomy_refs: []
+  basis: The cited Vata line says the wind’s sound is heard while Vata is not seen.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The Vata example is cited as a parallel formula and is not the main subject
+    of the note.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats the Vata hymn’s concluding offering line as
+    a parallel to the formula “Kasmai devaya havisha vidhema,” indicating a shared
+    sacrificial-language pattern within the Vedic corpus as cited here.
+  claim_level: linguistic_similarity
+  target: Hymn to Vata, X,168,4, as cited in the passage
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the cited formula and does not establish
+    broader narrative equivalence.
+- id: claim:2
+  claim: The passage compares poetic interrogative hymns with later Brahmana exegesis
+    in which the same interrogative term Ka is treated as a deity and identified with
+    Prajapati.
+  claim_level: linguistic_similarity
+  target: Cited Brahmana and Samhita traditions identifying Ka with Prajapati and
+    forming Kadvat/Kaya terms
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence comes from the note’s summary of cited sources, not from
+    full primary passages reproduced here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6838-6848
+  quote_or_summary: "“his sound indeed is heard, but he is not seen—to that Vata let
+    us offer sacrifice.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6849-6863
+  quote_or_summary: "“they exalted the interrogative pronoun into a deity, and acknowledged
+    a god ‘Ka, or Who.’” The note also refers to the poets’ “yearning ... after the
+    unknown god.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 6863-6869
+  quote_or_summary: "“whenever interrogative verses occur, the author states, that
+    Ka is Pragapati, or ‘the Lord of Creatures’.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 6869-6879
+  quote_or_summary: "“Some of the hymns in which the interrogative pronoun occurred
+    were called Kadvat”; the note adds that sacrifices offered to the god were called
+    “Kaya, or who-ish.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6838-6845
+  quote_or_summary: The note says the identification of Prajapati as the god deserving
+    sacrifice may be natural theologically but is poetically uncalled for, and it
+    treats the phrase “Kasmai devaya havisha vidhema” as familiar.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source text summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a secondary philological note with OCR/transliteration irregularities,
+    but the main identifications and formulas are explicit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Names are retained in normalized descriptive form where the passage shows OCR or transliteration variants such as Pragapati/Pragadpati and Ka/Kaz.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l6838-l6882
+  passage_sha256=0c6e5491f6379798ba45f159f17b0d41d26d968c9ece69a7de830df2ee287c21
+

@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.finnic-finno-ugric-siberian-mythology-holmberg-archive-l2819-l2847
+source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+passage_locator:
+  label: PLATE  V / MEMORIAL  FEASTS / CHAPTER  IV / GENERAL  MEMORIAL  FEASTS; lines
+    2819-2847
+  start: '2819'
+  end: '2847'
+  translation: Finno-Ugric, Siberian Mythology
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes general memorial feasts among Volga Finnic groups,
+    including Cheremiss 'taper-feasts,' annual spring and autumn observances, family
+    or village-level commemorations, lighting wax tapers for the dead, sacrificing
+    food and drink, and a Votiak formula asking that offerings reach the long-deceased.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: General memorial feasts remember all deceased persons belonging to a family,
+    not only a particular person.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Cheremiss call such observances 'taper-feasts' because wax-tapers are
+    lighted at them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The Volga Finns are described as having two annual memorial feasts: one in
+    spring at Easter-time and one in autumn at the end of field-labour.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The feasts may be held by a single family circle, by related families gathered
+    at the house of the head of a greater family, or by a whole family-village.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A wax-taper is lit for every remembered relation, and a mutual taper is lit
+    for those no longer individually remembered.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Meat and drink are sacrificed during the general memorial feast ceremonies.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Votiaks crumble bread and pour gin into the trough of the dead while addressing
+    the long-deceased and asking that the sacrificed food reach them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In some places, a farewell feast is celebrated on the morning of the next
+    day.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: deceased family relations
+  description: All deceased persons belonging to the family, including remembered
+    relations and those no longer individually remembered.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: living family or village celebrants
+  description: Family circles, related families, or whole family-villages who gather
+    to remember their dead.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Cheremiss
+  description: The group said to call the general memorial observances 'taper-feasts.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Volga Finns
+  description: The group described as having two separate annual memorial feasts,
+    one in spring and one in autumn.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Votiaks
+  description: The group described as crumbling bread, pouring gin into the trough
+    of the dead, and speaking an offering formula.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: remembered dead
+  assigned_to:
+  - fig:1
+  basis: The passage says all deceased belonging to the family are remembered and
+    that each remembered relation receives a wax-taper.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: recipients of offerings
+  assigned_to:
+  - fig:1
+  basis: Food and drink are sacrificed to the deceased, and the Votiak formula asks
+    that the food reach the long-deceased.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: commemorating kin or village community
+  assigned_to:
+  - fig:2
+  basis: Family circles, related families, or a whole family-village celebrate the
+    memory of their dead.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: naming community
+  assigned_to:
+  - fig:3
+  basis: The Cheremiss name the observances 'taper-feasts.'
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: annual feast observers
+  assigned_to:
+  - fig:4
+  basis: The Volga Finns are said to observe two memorial feasts each year.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: ritual speakers and offerers
+  assigned_to:
+  - fig:5
+  basis: The Votiaks perform the bread-and-gin offering action and speak to the long-deceased.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: lighted wax-taper
+  literal_form: A wax-taper lit for each remembered relation, with a mutual taper
+    for those no longer remembered.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: mutual taper for the no longer remembered
+  literal_form: A shared taper lit for deceased persons who are no longer individually
+    remembered.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sacrificed meat and drink
+  literal_form: Meat and drink offered in sacrifice during the memorial feast.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bread and gin offering
+  literal_form: Bread crumbled and gin poured by the Votiaks as food offered to the
+    dead.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: trough of the dead
+  literal_form: A trough into which bread and gin are placed or poured for the dead.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: annual general memorial calendar
+  summary: The passage situates general memorial feasts as yearly observances, with
+    one in spring at Easter-time and one in autumn after field-labour.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: family or village commemoration
+  summary: Living kin may commemorate their dead in separate family circles, in assemblies
+    of related families, or as a whole family-village.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: offerings and lights for the dead
+  summary: The ceremony includes lighting tapers for remembered and unremembered dead,
+    sacrificing meat and drink, and, among the Votiaks, crumbling bread and pouring
+    gin into the trough of the dead with a spoken formula.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: next-morning farewell feast
+  summary: In some places, a farewell feast is held on the morning after the main
+    memorial observance.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: collective remembrance of ancestral dead
+  taxonomy_refs: []
+  basis: The passage describes general feasts in which all deceased members of a family
+    are remembered, sometimes by extended kin or a whole family-village.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives ritual practice, not a narrative mythic episode.
+- id: motif:2
+  label: sacrificial offerings to the dead
+  taxonomy_refs:
+  - sacrifice
+  basis: Meat and drink are explicitly said to be sacrificed, and the Votiak rite
+    offers bread and gin to the long-deceased.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe a return gift or response from the dead.
+- id: motif:3
+  label: food intended to reach the deceased
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Votiak formula asks that the food being sacrificed reach the long-deceased.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exchange is one-directional in the passage; no reciprocal action by
+    the dead is stated.
+- id: motif:4
+  label: seasonal cycle of memorial feasts
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: 'The general memorial feasts are placed in a twice-yearly cycle: spring at
+    Easter-time and autumn at the end of field-labour.'
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives calendar timing but does not explain a cosmological
+    reason for the seasons.
+- id: motif:5
+  label: ritual light for remembered and forgotten dead
+  taxonomy_refs: []
+  basis: Each remembered relation receives a wax-taper, and those no longer remembered
+    receive a shared taper.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No explicit symbolic interpretation of the taper is supplied in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly states that ceremonies at general memorial feasts
+    closely recall those of special memorial feasts.
+  claim_level: same_function
+  target: special memorial feasts in the same memorial-feast context
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison stated by the passage; details outside
+    the provided passage are not used.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2819-2828
+  quote_or_summary: General memorial feasts remember all deceased belonging to a family;
+    the Cheremiss call them 'taper-feasts' because wax-tapers are lighted; Volga Finns
+    are said to have spring and autumn annual memorial feasts.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 2829-2839
+  quote_or_summary: The feasts may be celebrated by each family circle separately,
+    by related families at the house of the head of a greater family, or by a whole
+    family-village in common.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 2840-2844
+  quote_or_summary: "“To every relation kept in memory a wax-taper is lit, meat and
+    drink being also sacrificed. To those no longer remembered a mutual taper is also
+    lighted.”"
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: 2844-2846
+  quote_or_summary: When crumbling bread and pouring gin into the trough of the dead,
+    the Votiaks address the long-deceased and ask that the sacrificed food reach them.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 2846-2847
+  quote_or_summary: "“In some places a farewell feast is still celebrated on the morning
+    of the next day.”"
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ritual details are explicit. Motif taxonomy assignments are cautious
+    because the passage describes ethnographic practice more than narrative myth.
+    The comparison claim is limited to the passage's own comparison with special memorial
+    feasts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unsupported comparisons were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:finnic-finno-ugric-siberian-mythology-holmberg-archive__l2819-l2847
+  passage_sha256=c182930dc385fd98abe2525d2f175cb13c40e87a3efb3f681b8defd37cdc9766
+

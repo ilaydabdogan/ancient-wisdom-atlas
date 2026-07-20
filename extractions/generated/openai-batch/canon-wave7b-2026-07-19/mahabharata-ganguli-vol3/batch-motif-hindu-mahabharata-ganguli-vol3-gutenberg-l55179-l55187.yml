@@ -1,0 +1,177 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l55179-l55187
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXCIII / SECTION CCXCIV / SECTION CCXCV / SECTION CCXCVI; lines
+    55179-55187
+  start: '55179'
+  end: '55187'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives an ethical instruction: whether needing life’s necessities
+    or not, one should be virtuous, gain knowledge, regard all creatures as oneself,
+    avoid all injury, become free of desire, dispel mental darkness, and thereby obtain
+    what is auspicious.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage instructs a person to maintain a virtuous disposition regardless
+    of need for food and other necessities.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage instructs the person to acquire knowledge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage instructs the person to look upon all creatures as one’s own self.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage instructs the person to abstain completely from inflicting any
+    kind of injury.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that when the mind is free of desire and its darkness is
+    dispelled, one obtains what is auspicious.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unspecified person addressed by the instruction
+  description: An unnamed person described in general terms as one who may need or
+    transcend the need for necessities and who is instructed to become virtuous, knowledgeable,
+    non-injurious, and free of desire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: all creatures
+  description: All creatures are presented as beings the instructed person should
+    regard as one’s own self and should not injure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ethical aspirant
+  assigned_to:
+  - fig:1
+  basis: The unnamed person is instructed to cultivate virtue, knowledge, self-restraint,
+    non-injury, and mental purification.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: beings identified with the self
+  assigned_to:
+  - fig:2
+  basis: The passage says all creatures should be looked upon as one’s own self.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mental darkness
+  literal_form: Darkness dispelled from the mind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: ethical instruction on virtue, knowledge, and non-injury
+  summary: A general instruction says that one should be virtuous, acquire knowledge,
+    identify all creatures with oneself, avoid injury, remove desire and mental darkness,
+    and thereby obtain the auspicious.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wisdom through virtue, knowledge, and non-injury
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly links acquiring knowledge, virtuous disposition, non-injury,
+    freedom from desire, and the dispelling of mental darkness with attaining what
+    is auspicious.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is didactic rather than a narrative episode; the motif is
+    an ethical-philosophical pattern rather than a plot motif.
+- id: motif:2
+  label: universal self-identification with all creatures
+  taxonomy_refs: []
+  basis: The passage instructs one to regard all creatures as one’s own self and abstain
+    from injury.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No specific taxonomy reference is supplied for this ethical pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 55179-55182
+  quote_or_summary: Whether needing food and other necessities or transcending such
+    need, one should be virtuous and acquire knowledge.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 55182-55184
+  quote_or_summary: One should look upon all creatures as one’s own self and abstain
+    entirely from inflicting injury.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 55184-55187
+  quote_or_summary: When the mind is divested of desire and its darkness is dispelled,
+    one succeeds in obtaining what is auspicious.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ethical content is clear. Motif assignment to the broad wisdom family
+    is supported, but the passage is short and non-narrative. No comparison claims
+    are made because the passage itself does not provide comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No named speaker is available in the supplied passage. Section heading at the end is treated as locator context, not a scene element.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l55179-l55187
+  passage_sha256=9fd7b11d87762dfc0bb9c37075297dd39d62b3178013a6cffa3069cabe4f09ab
+

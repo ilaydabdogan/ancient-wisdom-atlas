@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v3-grimm-stallybrass-archive-l5233-l5240
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+passage_locator:
+  label: 'FUBIOUS  HOST  :  OBION. / SPECTEES. / CHAPTER  XXXII. / TRANSLATION.; lines
+    5233-5240'
+  start: '5233'
+  end: '5240'
+  translation: Teutonic Mythology, Volume 3
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“100,000 fathom under ground”"
+  summary: The passage lists formulaic wishes that someone be sent extremely far underground,
+    including depths measured by fathoms and by how far a hare can run. It then discusses
+    a formula in which a person is so low that no cock crows after or to him, and
+    cites related examples involving sunken princesses and comparable cockcrow phrases.
+  language: English with quoted German dialect fragments
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage reports wishes that an addressee be placed far underground, including
+    “100,000 fathom under ground” and a depth as far down as a hare can run in two
+    years.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A further formula describes someone as being so low that no cock crows after
+    or to that person.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator asks whether the cock's crow can no longer reach the sunken man,
+    or whether people above ground cannot hear the cry of a fowl that has sunk with
+    him to a subterranean dwelling.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A cited Kindermärchen passage is said to describe three princesses as sinking
+    so deep under the earth that no cock crowed after them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: H. Sachs is cited for additional comparable cockcrow formula fragments.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: addressee of the underground wish
+  description: The “you” addressed by wishes to be far underground.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: sunken man
+  description: A hypothetical man so far sunken that cockcrow may not reach him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: cock or fowl
+  description: The bird whose crow or cry is used in the formula and its explanation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: three princesses
+  description: Princesses in the cited Kindermärchen passage who sank deep under the
+    earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: hare
+  description: 'A hare used in a depth formula: as far down as it can run in two years.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: target of maledictory depth formula
+  assigned_to:
+  - fig:1
+  basis: The addressee is the object of wishes to be far underground.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sunken figure
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The man is described as sunken; the princesses are cited as having sunk deep
+    under the earth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: crowing animal in boundary formula
+  assigned_to:
+  - fig:3
+  basis: The cock's crow is used to mark whether sound can reach or follow the sunken
+    person.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: animal used as measure of extreme depth
+  assigned_to:
+  - fig:5
+  basis: The hare's imagined two-year run gives a measure for how far down the wished-for
+    depth extends.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: extreme underground depth
+  literal_form: "“100,000 fathom under ground” and other formulas of being far below
+    the earth"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: cockcrow that does not reach or follow
+  literal_form: No cock crows after or to the sunken person
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: subterranean dwelling
+  literal_form: A dwelling below ground, imagined as the place to which the man and
+    fowl have sunk
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hare's two-year run
+  literal_form: A depth described as as far down as a hare can run in two years
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Wishes for impossible underground depth
+  summary: The passage lists speech formulas wishing an addressee to be placed vastly
+    far underground.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Question about the cockcrow formula
+  summary: The narrator considers what it means for someone to be so low that no cock
+    crows after or to him, offering two possible literal explanations involving sound
+    and a sunken fowl.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cited princesses sunk under earth
+  summary: A cited tale passage describes three princesses sinking deep below the
+    earth so that no cock crowed after them.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: curse or wish to be sent far underground
+  taxonomy_refs: []
+  basis: The passage presents several formulaic wishes for an addressee to be far
+    under the ground.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives formulas rather than a full narrative episode.
+- id: motif:2
+  label: sunken figure beyond the reach of cockcrow
+  taxonomy_refs: []
+  basis: The repeated formula states that a sunken or deeply buried person is so low
+    that no cock crows after or to them; the passage discusses this formula and cites
+    parallel uses.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The exact meaning of the formula is explicitly questioned by the narrator.
+- id: motif:3
+  label: impossible depth measured by animal action and time
+  taxonomy_refs: []
+  basis: One formula measures downward distance as far as a hare can run in two years.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This may be proverbial hyperbole rather than a distinct narrative motif.
+- id: motif:4
+  label: three princesses sinking beneath the earth
+  taxonomy_refs: []
+  basis: The cited Kindermärchen example describes three princesses who all sank deep
+    under the earth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage only quotes or summarizes a fragment from the cited tale and
+    does not provide its wider narrative context.
+comparison_claims:
+- id: claim:1
+  claim: The cockcrow formula appears in multiple cited German-language examples,
+    including the Kindermärchen passage and H. Sachs references.
+  claim_level: linguistic_similarity
+  target: Kinderm. 2, 32 and H. Sachs m. 2, 178 and 213
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies brief, partly garbled formula fragments and citations,
+    not full comparative contexts.
+- id: claim:2
+  claim: The cited Kindermärchen example is presented as a parallel for the pattern
+    of sinking so deep below earth that no cock crows after the sunken figures.
+  claim_level: same_motif
+  target: Kinderm. 2, 32 princesses sunk deep under earth
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the depth-and-cockcrow formula in the
+    provided passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5233-5234
+  quote_or_summary: "“100,000 fathom under ground”; “as far down as a hare can run
+    in two years.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:2
+  type: summary
+  locator: 5234-5236
+  quote_or_summary: The formula says someone is so low that no cock crows after or
+    to him; the narrator asks whether cockcrow cannot reach the sunken man or whether
+    those above ground cannot hear a fowl sunk with him to a subterranean dwelling.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: 5237-5238
+  quote_or_summary: The passage cites Kinderm. 2, 32 as saying of the princesses that
+    all three sank so deep under the earth that no cock crowed after them.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: citation
+  locator: 5239-5240
+  quote_or_summary: H. Sachs m. 2, 178 and 213 are cited after comparable cockcrow
+    formula fragments.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; citation from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and contains OCR noise, but its central formulas about
+    underground depth and cockcrow are clear enough for draft extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol ID was assigned because the passage supports subterranean depth and cockcrow formulas but not any listed taxonomy reference with confidence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v3-grimm-stallybrass-archive__l5233-l5240
+  passage_sha256=704f4d0bb42c181d0d25febd586c715e0edfe617a5b12e6afd635015a2b9beb6
+

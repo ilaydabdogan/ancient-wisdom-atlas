@@ -1,0 +1,432 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l20061-l20132
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: XI  INDUSTRIES  393 / XI  INDUSTRIES  397 / THE   BAGANDA / CHAP.; lines
+    20061-20132
+  start: '20061'
+  end: '20132'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Baganda fishing practices: the Ntumba basket-trap,
+    taboos observed while making or mending fishing gear, trap robbery avoided by
+    fishermen because of curses and divine wrath, river fishing methods, spearing
+    mud-fish, propitiating river deities with part of the catch, and drying fish by
+    smoking over fires.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Ntumba is described as a large basket-trap placed along the shore among
+    reeds where fish came to breed, and ordinary taboos were followed in making and
+    laying it.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While making nets or traps, a fisherman was not allowed to leave the house
+    if his wife sat in the doorway, nor to step over her legs or feet.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Baganda canoe travellers commonly robbed traps, but fishermen did not rob
+    one another because they feared curses from robbed companions and the wrath of
+    the god.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: River fishermen are described as a different class from lake fishermen and
+    used basket-traps fixed in running streams or in overflowed areas.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When making or mending traps, river fishermen lived apart from their wives,
+    ate no meat or salt, and avoided washing themselves.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: River fish were usually dried and smoked, then sold in more distant parts
+    of the country.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Fishermen speared a fat mud-fish by walking among reeds along river shallows
+    with special spears and hooking up the fish.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Each river had a particular deity who had to be propitiated, and a portion
+    of the spoil had to be offered to that deity.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: When fishing, the fishermen wore only a narrow strip of barkcloth fastened
+    to a waistband, which allowed freedom of movement and wading in water.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Fish were dried on green-wood frames over kindled fires, turned until dry,
+    and cured only by smoking rather than salting.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The passage identifies another class of fishermen located at the Ripon Falls,
+    but gives no further details in the supplied excerpt.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: fishermen
+  description: Men who make nets or traps, observe taboos, fish, and avoid robbing
+    fellow fishermen's traps.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: river fishermen
+  description: A class distinct from lake fishermen, using basket-traps in streams
+    or overflowed areas, observing taboos, spearing mud-fish, and smoking fish.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: fisherman's wife
+  description: The wife whose position in the doorway, or whose legs or feet, formed
+    part of the taboo affecting the fisherman making gear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Baganda canoe travellers
+  description: People travelling by canoe who are said to have commonly robbed traps
+    as they passed them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: particular river deity
+  description: A deity associated with each river, requiring propitiation and receiving
+    a portion of the spoil.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: fishermen at the Ripon Falls
+  description: Another class of fishermen mentioned at the end of the supplied passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: fishing-gear maker under taboo
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Fishermen making or laying nets and traps observe prohibitions concerning
+    wives, food, salt, and washing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: spouse involved in taboo boundary
+  assigned_to:
+  - fig:3
+  basis: The fisherman's wife sitting in the doorway, or her legs and feet, are named
+    in the prohibition.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: trap robber while travelling by canoe
+  assigned_to:
+  - fig:4
+  basis: The passage says Baganda travelling by canoe commonly robbed traps as they
+    passed.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: river fisher and fish processor
+  assigned_to:
+  - fig:2
+  basis: River fishermen set basket-traps, spear mud-fish, dry and smoke fish, and
+    sell fish inland.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:5
+  label: recipient of propitiation and catch offering
+  assigned_to:
+  - fig:5
+  basis: Each river's deity had to be propitiated and given a portion of the spoil.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: Ripon Falls fishing class
+  assigned_to:
+  - fig:6
+  basis: The passage names another class of fishermen at the Ripon Falls without further
+    elaboration in the excerpt.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Ntumba basket-trap
+  literal_form: Large basket-trap placed along the shore among reeds where fish breed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: water setting of rivers and streams
+  literal_form: Running streams, overflowed banks, river shallows, and water through
+    which fishermen wade.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: fire for smoking fish
+  literal_form: Fires kindled under green-wood frames to dry and smoke fish.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: portion of the spoil
+  literal_form: Part of the catch or spoil offered to the river deity.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: barkcloth fishing strip
+  literal_form: A narrow strip of barkcloth passed between the legs and fastened to
+    a string waistband.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Making and laying the Ntumba under taboos
+  summary: The Ntumba basket-trap is made and laid along reed-lined shores, with ordinary
+    taboos observed; a fisherman making gear must avoid leaving past his wife in the
+    doorway or stepping over her legs or feet.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Trap robbery and sacred fear
+  summary: Canoe travellers are said to rob traps, while fishermen avoid robbing one
+    another because they fear curses from companions and the wrath of the god.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: River fishing and abstinent gear work
+  summary: River fishermen set basket-traps in running or overflowed waters and, when
+    making or mending traps, live apart from wives, avoid meat and salt, and do not
+    wash.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Spearing mud-fish in reeds
+  summary: Fishermen move among reeds in river shallows with special spears and hook
+    up large fat mud-fish.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Offering to the river deity
+  summary: For each river, the associated deity must be propitiated and given a portion
+    of the spoil from fishing.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Smoking fish over fire
+  summary: Fishermen dry fish on green-wood frames over fires, turning them until
+    dry; the passage says fish are cured by smoking rather than salting.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Fishing craft governed by taboos
+  taxonomy_refs: []
+  basis: The passage repeatedly links the making, mending, and laying of fishing nets
+    or traps with prohibitions involving wives, meat, salt, washing, and movement
+    through the doorway.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic practice description rather than a mythic narrative
+    episode.
+- id: motif:2
+  label: Propitiatory offering to a local river deity
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: Each river is said to have its own deity, and fishermen must propitiate that
+    deity by offering a portion of the spoil.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The mapping to sacrifice is broad; the passage specifies an offering of
+    spoil but does not describe a formal sacrificial rite.
+- id: motif:3
+  label: Divine sanction deterring theft
+  taxonomy_refs:
+  - divine_judgment
+  basis: Fishermen avoid robbing one another's traps because they fear curses and
+    the wrath of the god.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports fear of sanction but does not narrate an actual divine
+    punishment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20084-20086
+  quote_or_summary: The Ntumba is a large basket-trap placed among reeds where fish
+    breed; ordinary taboos are followed in making and laying it.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 20087-20090
+  quote_or_summary: While making nets or traps, a fisherman may not pass out if his
+    wife sits in the doorway or step over her legs or feet.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 20090-20094
+  quote_or_summary: Canoe travellers commonly rob traps; fishermen avoid robbing one
+    another because of feared curses and the wrath of the god.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 20096-20106
+  quote_or_summary: River fishermen are distinct from lake fishermen; they use basket-traps
+    in streams or overflowed lands, observe taboos while making or mending traps,
+    and dry, smoke, and sell fish.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 20108-20112
+  quote_or_summary: Fishermen spear a fat mud-fish by moving through reeds along river
+    shallows with special spears and hooking up the fish.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 20114-20120
+  quote_or_summary: Each river has a particular deity to be propitiated with a portion
+    of the spoil; fishermen wear only a narrow barkcloth strip for freedom of movement
+    and wading.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 20121-20124
+  quote_or_summary: Fish are dried on green-wood frames over kindled fires, turned
+    until dry, and cured only by smoking, not salting.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: line 20126
+  quote_or_summary: The passage mentions another class of fishermen at the Ripon Falls.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ethnographic details are clear in the passage. Motif labels are cautious
+    because the passage describes industry and ritual custom rather than a myth narrative.
+    No comparison claims were extracted because the passage itself does not compare
+    traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata; OCR-like line breaks are normalized in summaries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l20061-l20132
+  passage_sha256=d752dbcd1c228a540642da195973005fbf82ede1f256c7999d9b2e87df5c484b
+

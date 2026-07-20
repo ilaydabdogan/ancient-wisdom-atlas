@@ -1,0 +1,187 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l22810-l22816
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION CLV / SECTION CLVI / SECTION CLVII / SECTION CLVIII; lines 22810-22816
+  start: '22810'
+  end: '22816'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Yudhishthira asks what fruit and prosperity attach to the worship of Brahmanas.
+  summary: In Section CLVIII, Yudhishthira addresses a king who regularly worships
+    Brahmanas and asks what benefit, fruit, or prosperity the king has seen from that
+    worship.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yudhishthira speaks and addresses a king.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira says the king always worships Brahmanas of praiseworthy vows.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Yudhishthira asks what fruit or prosperity is associated with worship of Brahmanas.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Yudhishthira asks the king to tell him all about the matter.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who questions the king.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed king
+  description: Addressee described as a king, one of high vows and mighty arms, who
+    worships Brahmanas.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Brahmanas
+  description: Group described as having praiseworthy vows and as being worshipped
+    by the king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks the king to explain the fruit and prosperity of worshipping
+    Brahmanas.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: addressee
+  assigned_to:
+  - fig:2
+  basis: The speech is addressed to a king.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: worshipper of Brahmanas
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira says the king always worships Brahmanas.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: worshipped religious group
+  assigned_to:
+  - fig:3
+  basis: The Brahmanas are the object of the king's worship.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Question about the fruit of Brahmana worship
+  summary: Yudhishthira asks a king why he worships Brahmanas and what prosperity
+    or fruit he has perceived from that worship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: worship or reverence expected to yield fruit or prosperity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage frames the worship of Brahmanas in terms of an associated fruit
+    or prosperity, though it only asks about the result and does not provide the answer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is only the opening question; the specific fruit, mechanism,
+    or doctrinal explanation is not supplied here.
+- id: motif:2
+  label: inquiry seeking religious instruction
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira asks the king to explain the benefit of a religious practice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The excerpt contains the request for instruction but not the teaching
+    itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 22810-22816
+  quote_or_summary: '"Yudhishthira said" and addresses the listener as "O king."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 22810-22816
+  quote_or_summary: '"Thou always worshippest, O king, Brahmanas of praiseworthy vows."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 22810-22816
+  quote_or_summary: Yudhishthira asks what fruit and prosperity the king sees as attached
+    to worship of Brahmanas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 22810-22816
+  quote_or_summary: '"Tell me all this, O thou of mighty arms!"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal dialogue and figures are clear. Motif assignment is tentative
+    because the passage contains only the question about the fruit of worship, not
+    the explanatory answer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the available symbol list are explicitly present in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l22810-l22816
+  passage_sha256=b77d4d1cb9ab491dc18d7fc7c4e792be746ee6ad6e6a5215d6a60de96e6d29c4
+

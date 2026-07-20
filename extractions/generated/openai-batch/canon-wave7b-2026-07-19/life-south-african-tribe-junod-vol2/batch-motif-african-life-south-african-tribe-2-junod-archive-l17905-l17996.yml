@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.african-life-south-african-tribe-2-junod-archive-l17905-l17996
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+passage_locator:
+  label: B. THE CONCEPTION OF HEAVEN / A. MEDICAL ART / B. POSSESSIONS / C. WITCHCRAFT;
+    lines 17905-17996
+  start: '17905'
+  end: '17996'
+  translation: The Life of a South African Tribe, Vol. II (The Psychic Life)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage distinguishes harmful witchcraft, called Buloyi, from beneficial
+    magical practice, called Bungoma. It explains the term loya, describes baloyi
+    as hereditary witches whose power passes through the mother, recounts a device
+    for evading ordeal by sending an unempowered substitute child, and describes baloyi
+    as a feared secret society that meets spiritually at night, debates harmful actions,
+    and consumes human flesh.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage distinguishes Buloyi, described as criminal harmful magic, from
+    Bungoma, described as beneficial magic used against evil influences.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The mungoma is described as the enemy of the noyi, and the two are said to
+    use similar kinds of power in opposite social directions.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The verb loya is given as meaning to bewitch, with a technical meaning of
+    injuring or killing by enchantments.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says the power of the baloyi is hereditary and transmitted through
+    the mother rather than the father.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Children of a noyi wife are said to become baloyi, while children of other
+    wives of the same polygamist are not said to become such.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The witchcraft power is said to be sucked from the mother's breast in infancy
+    and strengthened by special medicines.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A noyi mother may withhold strengthening drugs from one son so that he can
+    later undergo an ordeal in place of an accused sibling.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The intoxicating medicine of the ordeal is said to have no effect on the unempowered
+    substitute child, allowing the true noyi to escape.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The baloyi are described as knowing one another and forming a secret society
+    within the tribe.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The baloyi are said to assemble with spiritual bodies at night in the desert
+    to eat human flesh and hold a debating assembly.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A defeated participant in the witches' debate may be condemned to pay a fine
+    consisting of a human body, possibly even the body of his own child.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: Non-witches are said to fear the baloyi, avoid marrying into witch families,
+    and treat the accusation of being a noyi as a grave insult.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: baloyi
+  description: People described as witches or wizards with the evil eye who bewitch,
+    inherit power through the mother, and meet secretly at night.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: noyi
+  description: A caster of spells; the singular form is used for a witch, including
+    a mother whose children inherit witchcraft power.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: mungoma
+  description: A magician associated with Bungoma, described as fighting evil influences
+    and benefiting countrymen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: noyi mother
+  description: A mother described as transmitting witchcraft power through the breast
+    and selecting one son not to receive strengthening medicines.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: immune child or substitute son
+  description: A son of a noyi mother who does not receive the strengthening drugs
+    and can be sent through the ordeal in place of an accused sibling.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: chief
+  description: An authority said to consent to the substitution of one son for another
+    in the ordeal because all sons of a noyi woman are thought to be baloyi.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: non-witch members of the tribe
+  description: People not classed as witches or wizards; they are described as feared
+    victims or outsiders in relation to the baloyi.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: harmful bewitcher
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Buloyi is described as criminal magical practice by which witches and wizards
+    bewitch innocent people, with loya technically meaning to injure or kill by enchantments.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: beneficial magician opposed to witchcraft
+  assigned_to:
+  - fig:3
+  basis: The mungoma is described as using magical operations against evil influences
+    and as the enemy of the noyi.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: maternal transmitter of witchcraft power
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The power is said to pass through the mother, and the noyi mother is described
+    as transmitting it through the breast.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: ordeal substitute
+  assigned_to:
+  - fig:5
+  basis: One son may be left without strengthening drugs so he can undergo the ordeal
+    in place of an accused witch sibling.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: ordeal authority
+  assigned_to:
+  - fig:6
+  basis: The chief is said to consent to substituting one son of a noyi woman for
+    another in the ordeal.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: secret nocturnal assembly member
+  assigned_to:
+  - fig:1
+  basis: The baloyi are described as knowing each other, forming a secret society,
+    and assembling at night with spiritual bodies.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: feared outsiders or potential victims
+  assigned_to:
+  - fig:7
+  basis: Those who are not witches are described as feared or despised by the baloyi
+    and as avoiding witch families in marriage.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: evil eye
+  literal_form: evil eye attributed to the baloyi
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: mother's breast as source of witchcraft power
+  literal_form: mother's breast from which the dreadful power is said to be sucked
+    in infancy
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: strengthening medicines
+  literal_form: special medicines or drugs used to strengthen witchcraft power
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: intoxicating ordeal medicine
+  literal_form: intoxicating medicine used in an ordeal
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: spiritual bodies
+  literal_form: spiritual bodies with which the baloyi assemble at night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: night desert assembly
+  literal_form: night meeting in the desert
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: human flesh or human body
+  literal_form: human flesh eaten at the nocturnal meeting; a human body required
+    as a fine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Distinction between Buloyi and Bungoma
+  summary: The passage sets up a distinction between harmful criminal magic and beneficial
+    magical work against evil influences.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Meaning and range of loya
+  summary: The author explains the derivation and usage of loya, noting its technical
+    meaning of injuring or killing by enchantments and mentioning broader rare uses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Maternal inheritance and preparation of a substitute
+  summary: A noyi mother transmits power to her children, strengthens it with medicines,
+    and may leave one son unstrengthened so he can pass an ordeal in place of a true
+    noyi.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Nocturnal witch assembly
+  summary: The baloyi are described as forming a secret society that assembles spiritually
+    at night in the desert to eat human flesh, debate harm, fight, and impose fines
+    of human bodies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Fear and social avoidance of witch families
+  summary: Non-witches fear the baloyi, avoid marrying into witch families, and treat
+    the accusation of being a noyi as a severe insult.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Opposed harmful and beneficial magic
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts Buloyi as criminal harm with Bungoma as beneficial
+    counter-magic and says the powers may be similar but used in opposite ways.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The labels black magic and white magic are explicitly said not to be indigenous
+    terms, though the functional distinction is attributed to the Thonga.
+- id: motif:2
+  label: Matrilineal inheritance of witchcraft power
+  taxonomy_refs: []
+  basis: Witchcraft power is described as hereditary and transmitted through the mother,
+    so all children of a noyi wife become baloyi.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a reported belief in the ethnographic passage, not an independently
+    verified social fact.
+- id: motif:3
+  label: Witchcraft power received through suckling
+  taxonomy_refs: []
+  basis: The passage states that the dreadful power is sucked from the mother's breast
+    in infancy and later strengthened with medicines.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as part of a belief complex about inherited
+    witchcraft power.
+- id: motif:4
+  label: Ordeal evasion by unempowered substitute
+  taxonomy_refs: []
+  basis: A noyi mother may leave one son without strengthening drugs so that he can
+    pass the intoxicating ordeal in place of an accused sibling.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe a specific case, only the stated mechanism.
+- id: motif:5
+  label: Secret nocturnal witches' assembly
+  taxonomy_refs: []
+  basis: The baloyi are described as a secret society that assembles with spiritual
+    bodies at night in the desert and debates harmful acts.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The description is mediated by the ethnographic author and should be reviewed
+    against broader Thonga source context.
+- id: motif:6
+  label: Cannibal witch banquet and human-body fine
+  taxonomy_refs: []
+  basis: The baloyi are said to eat human flesh, and a defeated participant in debate
+    may have to provide a human body as a fine.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No taxonomy reference is assigned because the passage does not frame the
+    body as a sacrifice or sacred exchange.
+- id: motif:7
+  label: Marriage avoidance of witch lineage
+  taxonomy_refs: []
+  basis: The passage says a prospective husband chiefly considers whether a wife belongs
+    to a family of witches.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage gives a general social rule rather than a narrative episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents loya as a bewitching term with cognates or parallels
+    across several Bantu languages and as possibly known in Ur-Bantu, while noting
+    that Zulu uses a different term.
+  claim_level: linguistic_similarity
+  target: Bantu-language terminology for bewitching, including Swahili, Herero, Xosa,
+    Suto, Thonga, and Zulu contrast
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a lexical comparison supplied by the passage; it does not by
+    itself establish a shared mythic motif or ritual complex.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17905-17924
+  quote_or_summary: The passage states that Buloyi is criminal harmful magic by witches
+    and wizards, while Bungoma is magic used to fight evil influences and benefit
+    others; the mungoma is the enemy of the noyi.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 17925-17935
+  quote_or_summary: The passage says the power of both categories may be of the same
+    nature, but one is used for society and the other against it.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 17936-17954
+  quote_or_summary: The passage derives Buloyi and noyi from loya, notes Bantu-language
+    parallels and Zulu difference, gives rare broader uses, and states the technical
+    meaning as injuring or killing by enchantments.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 17956-17970
+  quote_or_summary: The baloyi are described as numerous, possessing the evil eye,
+    inheriting power through the mother, receiving it from the mother's breast in
+    infancy, and strengthening it with special medicines.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 17970-17983
+  quote_or_summary: A noyi mother may choose a son to receive no strengthening drugs
+    so he can be substituted in an ordeal; the chief may allow this, and the ordeal
+    medicine will not affect the substitute.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 17984-17990
+  quote_or_summary: The baloyi are said to know each other, form a secret society,
+    and assemble with spiritual bodies at night in the desert to eat human flesh and
+    hold a debating assembly.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 17990-17994
+  quote_or_summary: The passage describes debates and fights among baloyi; a defeated
+    member may be fined a human body and may choose his own child to provide it after
+    killing by witchcraft.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 17994-17996
+  quote_or_summary: Non-witches are described as despised by the baloyi, while others
+    fear the baloyi, avoid witch families in marriage, and regard the accusation of
+    being a noyi as the gravest insult.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction follows the supplied ethnographic passage. Sub-line evidence
+    locators are approximate subdivisions within the provided stable range and require
+    human verification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy references were assigned only where directly supported by the passage and available list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-life-south-african-tribe-2-junod-archive__l17905-l17996
+  passage_sha256=d0e7850a66ff796d225da115611d834e90038a7e80188882c472ed9f4953954c
+

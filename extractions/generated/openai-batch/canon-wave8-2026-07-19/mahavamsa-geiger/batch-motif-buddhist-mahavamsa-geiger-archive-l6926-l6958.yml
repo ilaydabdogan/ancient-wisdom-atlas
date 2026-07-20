@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l6926-l6958
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: CHAPTER V / THE THIRD COUNCIL / CHAPTER VI / THE COMING OF VIJAYA; lines
+    6926-6958
+  start: '6926'
+  end: '6958'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A note explains shaven hair as a sign of loss of freedom. The narrative
+    describes people being sent by ship upon the sea; men, women, and children land
+    separately on islands. The children’s and women’s islands receive names. Vijaya
+    lands at Supparaka, leaves again because of danger from violent followers, and
+    then lands in Lanka at Tambapanni on the day the Tathagata passes into nibbana
+    between two sala-trees.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note states that shaving the hair signifies loss of freedom and connects
+    a Sinhalese term for shaven with the meaning slave.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People are put on a ship and sent forth upon the sea, along with their wives
+    and children.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Men, women, and children are sent forth separately and land separately, each
+    company upon an island.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The children’s landing-place is called Naggadipa, and the women’s landing-place
+    is called Mahiladipaka.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Vijaya lands at the haven called Supparaka.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Vijaya is in danger at Supparaka because of the violence of his followers
+    and embarks again.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Vijaya is identified as a valiant prince.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Vijaya lands in Lanka, in the region called Tambapanni, on the day the Tathagata
+    lies down between two twinlike sala-trees to pass into nibbana.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Vijaya
+  description: A valiant prince who lands at Supparaka, embarks again, and lands in
+    Lanka at Tambapanni.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Vijaya’s followers
+  description: Followers whose violence creates danger for Vijaya at Supparaka.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Men sent forth
+  description: Men sent forth separately who land separately on an island and dwell
+    there.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Women and wives
+  description: Women, including wives, sent forth by sea who land separately; their
+    island is called Mahiladipaka.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Children
+  description: Children sent forth by sea who land separately; their island is called
+    Naggadipa.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Tathagata
+  description: The Tathagata lies down between two twinlike sala-trees to pass into
+    nibbana.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: prince
+  assigned_to:
+  - fig:1
+  basis: The passage names Vijaya as a prince.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: sea voyager and lander in Lanka
+  assigned_to:
+  - fig:1
+  basis: Vijaya lands at Supparaka, embarks again, and lands in Lanka at Tambapanni.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: dangerous followers
+  assigned_to:
+  - fig:2
+  basis: The passage says Vijaya is endangered by the violence of his followers.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: separately sent sea-travelers
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Men, women, and children are sent forth separately and land separately.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: island dwellers
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The separated companies land on islands and dwell there.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: one passing into nibbana
+  assigned_to:
+  - fig:6
+  basis: The Tathagata lies down between twinlike sala-trees to pass into nibbana.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: shaven hair
+  literal_form: Shaving of the hair
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ship and sea
+  literal_form: A ship sent forth upon the sea
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: separate islands
+  literal_form: Islands on which men, women, and children land separately
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: named islands of children and women
+  literal_form: Naggadipa and Mahiladipaka
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Supparaka haven
+  literal_form: The haven called Supparaka
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Lanka and Tambapanni
+  literal_form: Lanka, in the region called Tambapanni
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: twinlike sala-trees
+  literal_form: Two twinlike sala-trees
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sending forth by sea and separate island landings
+  summary: People, with wives and children, are sent on a ship upon the sea; men,
+    women, and children land separately on islands and dwell there.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Vijaya at Supparaka
+  summary: Vijaya lands at Supparaka, is endangered by the violence of his followers,
+    and embarks again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Vijaya lands in Lanka on the day of the Tathagata’s nibbana
+  summary: The valiant prince Vijaya lands in Lanka at Tambapanni on the same day
+    the Tathagata lies down between twinlike sala-trees to pass into nibbana.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sea departure and island dispersal
+  taxonomy_refs:
+  - departure
+  basis: The passage describes people being sent forth by ship upon the sea, with
+    men, women, and children landing separately on islands.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state the reason for the sending forth within this
+    excerpt.
+- id: motif:2
+  label: Royal landing timed with sacred event
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The prince Vijaya lands in Lanka at Tambapanni on the same day the Tathagata
+    passes into nibbana.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states simultaneity but does not explicitly explain it as
+    legitimation.
+- id: motif:3
+  label: Holy passing between paired trees
+  taxonomy_refs: []
+  basis: The Tathagata lies down between two twinlike sala-trees to pass into nibbana.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt gives only a brief chronological reference, not an extended
+    death or tree episode.
+- id: motif:4
+  label: Shaven hair as loss of freedom
+  taxonomy_refs: []
+  basis: A note states that shaving the hair signifies loss of freedom and links a
+    term for shaven with slave.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an explanatory note rather than a narrative action in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6926-6927
+  quote_or_summary: A note explains that shaving the hair signifies loss of freedom
+    and that Sinhalese midi, related to shaven, means slave.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 6930-6934
+  quote_or_summary: People are placed on a ship and sent upon the sea with wives and
+    children; men, women, and children are sent separately and land separately on
+    islands.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 6934-6937
+  quote_or_summary: The children’s island is called Naggadipa, and the women’s island
+    is called Mahiladipaka.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 6937-6939
+  quote_or_summary: Vijaya lands at Supparaka, is endangered by the violence of his
+    followers, and embarks again.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 6940-6942
+  quote_or_summary: The prince Vijaya lands in Lanka at Tambapanni on the day the
+    Tathagata lies down between two twinlike sala-trees to pass into nibbana.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source text; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    cautious and require human review, especially the royal-legitimacy interpretation
+    of Vijaya’s landing being synchronized with the Tathagata’s nibbana.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt itself does not make an explicit comparison to another tradition or text.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l6926-l6958
+  passage_sha256=7c74a8eed6d7807f607ab13a2c6abcc0fc2b1abcd996cedf643b1790b31e88d4
+

@@ -1,0 +1,355 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l8419-l8428
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: THE  SON  WHO  KILLED  HIS  MOTHER  (STORY  OF  THE  NARWHAL). / THE  ORPHAN  BOY  AND  THE  MOON  MAN.
+    / THE   STORY  OF  THE  LAME  HUNTER. / ORIGIN  OF  THE  WALRUS  AND  CARIBOU.;
+    lines 8419-8428
+  start: '8419'
+  end: '8428'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Superguksoak makes the walrus from her boots and the caribou from her breeches.
+    The caribou's spots are explained as corresponding to marks on the breeches. At
+    first the walrus has antlers and the caribou has tusks, but because these traits
+    endanger kayaks and hunters, Superguksoak changes them. She sends the caribou
+    inland and calls it when she wants it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Superguksoak makes the walrus from her boots.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Superguksoak makes the caribou from her breeches.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The spots on the deer are said to correspond to marks on Superguksoak's breeches.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When first made, the walrus has antlers and the caribou has tusks.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The walrus upsets kayaks with its antlers.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The caribou kills hunters with its tusks.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Superguksoak changes the walrus and caribou after their original traits cause
+    harm.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Superguksoak tells the caribou to go inland and stay there.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: When Superguksoak wants the caribou, she calls, “kaite, kaite,” meaning “Come,
+    come.”
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Superguksoak
+  description: A female figure who makes the walrus and caribou, changes them, sends
+    the caribou inland, and calls it.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: walrus
+  description: An animal made from Superguksoak's boots; initially has antlers and
+    upsets kayaks with them before being changed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: caribou / deer
+  description: An animal made from Superguksoak's breeches; its spots correspond to
+    marks on the breeches; initially has tusks, kills hunters with them, is changed,
+    and is told to live inland.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: hunters
+  description: People killed by the caribou when it has tusks.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: animal maker
+  assigned_to:
+  - fig:1
+  basis: Superguksoak makes the walrus and caribou from articles of clothing.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: corrector and habitat assigner
+  assigned_to:
+  - fig:1
+  basis: Superguksoak changes the animals after their original traits cause harm and
+    tells the caribou to go inland.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: newly made animal
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The walrus and caribou are described as made by Superguksoak.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: summoned inland animal
+  assigned_to:
+  - fig:3
+  basis: The caribou is told to go inland and is later called by Superguksoak.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: human victims
+  assigned_to:
+  - fig:4
+  basis: Hunters are killed by the caribou's tusks.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: boots as animal source material
+  literal_form: Superguksoak's boots
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: breeches as animal source material
+  literal_form: Superguksoak's breeches
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: antlers on walrus
+  literal_form: antlers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: tusks on caribou
+  literal_form: tusks
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: inland place for caribou
+  literal_form: inland
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Making of walrus and caribou
+  summary: Superguksoak creates the walrus from her boots and the caribou from her
+    breeches; the caribou's spots are linked to marks on the breeches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Original dangerous traits
+  summary: The walrus is first made with antlers and the caribou with tusks; the walrus
+    upsets kayaks and the caribou kills hunters.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Change and inland assignment
+  summary: Superguksoak changes the animals after the harm caused by their original
+    traits, sends the caribou inland, and calls it when she wants it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Origin of animals from clothing
+  taxonomy_refs: []
+  basis: The passage explains the walrus and caribou as made from Superguksoak's boots
+    and breeches.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No specific available taxonomy reference directly matches animal creation
+    from clothing.
+- id: motif:2
+  label: Etiological explanation of animal markings
+  taxonomy_refs: []
+  basis: The caribou/deer's spots are explained as corresponding to marks on the breeches
+    from which it was made.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not further explain the nature of the marks.
+- id: motif:3
+  label: Dangerous animal traits corrected by a maker
+  taxonomy_refs: []
+  basis: The walrus and caribou initially have traits that harm people or kayaks,
+    so Superguksoak changes them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The exact form of the change is not explicitly described beyond the reversal
+    implied by the animals' current traits.
+- id: motif:4
+  label: Animal assigned to inland habitat and summoned by call
+  taxonomy_refs: []
+  basis: Superguksoak tells the caribou to go inland and calls it with the words translated
+    as “Come, come.”
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage gives only a brief command and call, without a longer ritual
+    or hunting context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8419-8422
+  quote_or_summary: "“Superguksoak made the walrus from her boots and the caribou
+    from her breeches.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:2
+  type: summary
+  locator: lines 8421-8423
+  quote_or_summary: The passage says the spots on the deer correspond to the marks
+    on Superguksoak's breeches.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8422-8424
+  quote_or_summary: When first made, the walrus has antlers on its head and the caribou
+    has tusks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8424-8426
+  quote_or_summary: The walrus upsets kayaks with its antlers, and the caribou kills
+    hunters with its tusks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 8426-8427
+  quote_or_summary: "“so Superguksoak changed them.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; quotation kept brief.
+- id: ev:6
+  type: summary
+  locator: lines 8427-8428
+  quote_or_summary: Superguksoak tells the caribou to go inland and stay there.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: line 8428
+  quote_or_summary: "“kaite, kaite, ‘Come, come.’”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; quotation kept brief.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward from a short passage. Motif labels
+    are descriptive because the provided taxonomy has no direct animal-origin or etiological-marking
+    category. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy did not include directly applicable items.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l8419-l8428
+  passage_sha256=a7d2136bd242800adfca0c5549359549a0f11837af270d1f3a1ce478274e7002
+

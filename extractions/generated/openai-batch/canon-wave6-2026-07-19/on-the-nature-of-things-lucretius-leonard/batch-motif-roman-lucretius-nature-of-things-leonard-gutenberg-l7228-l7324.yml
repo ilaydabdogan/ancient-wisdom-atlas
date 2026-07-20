@@ -1,0 +1,472 @@
+---
+record_id: batch.motif.roman-lucretius-nature-of-things-leonard-gutenberg-l7228-l7324
+source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+passage_locator:
+  label: THE PASSION OF LOVE / BOOK V / PROEM / THE WORLD IS NOT ETERNAL; lines 7228-7324
+  start: '7228'
+  end: '7324'
+  translation: On the Nature of Things
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives multiple possible natural explanations for the motions
+    of the sun, moon, and stars; the coming of night and dawn; the formation or renewal
+    of solar light; and the fixed recurrence of natural events. It cites Democritus,
+    describes air streams and winds as possible movers, names Matuta as spreading
+    morning light, reports an Idaean mountain-fire story, and closes with examples
+    of fixed seasonal and life-cycle sequences.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker states that no single sure cause has been revealed for the sun's
+    movement between summer and winter turning-points, or for the moon's monthly crossing
+    of a distance the sun traverses in a year.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'A doctrine is attributed to the holy thought of great Democritus: celestial
+    bodies nearer to earth are less carried by the whirl of the sky because the upper
+    speed decreases in lower regions.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the sun lies below the blazing starry signs, while the moon
+    is lower than the sun and is overtaken by circling starry signs, making the moon
+    appear to return to a zodiacal sign more swiftly than the sun.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker proposes that two alternating streams of air from transverse regions
+    may thrust the sun from summer signs toward winter goals and then cast it back
+    toward hotter zodiacal regions; the moon and stars may likewise be sped by alternate
+    air streams.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Clouds moved by contrary winds are used as an example when asking whether
+    stars in ether might be borne by opposite currents.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Night is described as overwhelming the lands either when the sun has completed
+    its daily course and exhausted its fires, or when the force that drove the sun
+    above the lands compels it to turn beneath the lands.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Matuta is said to spread roseate morning and deploy light at a fixed hour;
+    the passage gives possible explanations involving the returning sun or gathering
+    fires and seeds of heat.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage reports a story that from Idaean mountain-tops at daybreak dispersed
+    fires are seen to combine into one ball and form an orb.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage lists shrubs budding and casting flowers, teeth dropping with
+    age, boys growing beards, and thunderbolts, snow, rains, clouds, and winds as
+    events occurring at fixed times or seasons in a fixed sequence from primordial
+    causes.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Democritus
+  description: A named thinker whose doctrine about the relative motion of celestial
+    bodies is cited.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Sun
+  description: A celestial body described as journeying between zodiacal turning-points,
+    lying below the starry signs, being moved by air or force, exhausting fires, passing
+    beneath the lands, and returning with rays or renewed light.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Moon
+  description: A celestial body said to cross monthly a distance the sun crosses yearly,
+    to lie lower than the sun, and to be overtaken by starry signs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Starry signs, Zodiac, and stars
+  description: Blazing signs and stars described as circling, overtaking the sun and
+    moon, and potentially being borne through ether by opposite currents.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Streams of air and winds
+  description: Alternating air streams and contrary winds proposed as forces that
+    may move celestial bodies and clouds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Matuta
+  description: A named figure who spreads roseate morning and deploys light at a fixed
+    hour.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: cited philosophical authority
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the likely doctrine about celestial motion to the
+    thought of Democritus.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: cyclical celestial body or sign
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The sun, moon, and starry signs are described in repeated paths through or
+    around zodiacal regions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: overtaking celestial signs
+  assigned_to:
+  - fig:4
+  basis: The starry signs are said to circle around, overtake, and overpass the moon
+    and to visit the moon more swiftly than the sun.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: proposed motive force
+  assigned_to:
+  - fig:5
+  basis: Air streams and winds are proposed as forces that may thrust, cast back,
+    or bear clouds and celestial bodies.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: daily light-bearer and hidden traveler
+  assigned_to:
+  - fig:2
+  basis: The sun is described as completing a daily course, turning beneath the lands,
+    returning under the lands, and striving to blaze with rays.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: dawn and light spreader
+  assigned_to:
+  - fig:6
+  basis: Matuta is said to spread the morning and deploy light along heaven at a fixed
+    hour.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: solar fire
+  literal_form: The sun's fires, fires and seeds of heat, and dispersed fires combining
+    into one ball or orb.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: Idaean mountain-tops
+  literal_form: Mountain-tops from which dispersed fires are said to be seen at daybreak.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: zodiacal signs and turning-points
+  literal_form: Capricorn, Cancer, summer signs, winter goals, and blazing signs along
+    the Zodiac.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: opposing air currents
+  literal_form: Two alternating streams of air from transverse regions and contrary
+    winds bearing bodies in opposite directions.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Uncertain causes and Democritean celestial motion
+  summary: The speaker says no sure cause is known for the sun's and moon's different
+    courses, then presents Democritus' doctrine that lower celestial bodies are less
+    carried by the sky's whirl, so the starry signs overtake the sun and moon differently.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Air streams move celestial bodies
+  summary: The passage proposes that alternating streams of air may move the sun between
+    seasonal regions and may also move the moon and stars; clouds driven by contrary
+    winds are given as a supporting analogy.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Night, dawn, and gathered solar fire
+  summary: Night arrives when the sun finishes its course or is driven below the lands.
+    At a fixed hour Matuta spreads morning light, and the passage proposes that fires
+    and seeds of heat may gather to generate new suns and light, illustrated by an
+    Idaean mountain-top fire story.
+  figure_refs:
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Fixed sequence in natural processes
+  summary: Plants, aging, youth, weather, and atmospheric events are listed as occurring
+    at fixed times, and the passage states that things come round in fixed sequence
+    from primordial causes and the world's origin.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Fixed seasonal and celestial cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly describes fixed courses, solstitial or zodiacal movements,
+    fixed periods, fixed hours, seasonal weather, and events coming round in sequence.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage frames these cycles as natural-philosophical explanations
+    rather than as a ritual or mythic seasonal drama.
+- id: motif:2
+  label: Wisdom explaining cosmic order
+  taxonomy_refs:
+  - wisdom
+  basis: A likely doctrine about celestial motion is explicitly attributed to the
+    thought of great Democritus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The evidence is a philosophical citation, not a narrative episode of quest,
+    revelation, or divine instruction.
+- id: motif:3
+  label: Dawn-light assembled from scattered fire
+  taxonomy_refs: []
+  basis: Matuta spreads morning at a fixed hour, and the passage suggests fires and
+    seeds of heat streaming together to generate new suns and light, supported by
+    a story of Idaean fires combining into a single orb.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is presented as one possible natural cause and as an illustrative
+    story; the passage does not supply a full independent mythic narrative.
+- id: motif:4
+  label: Hidden solar course and return
+  taxonomy_refs:
+  - return
+  basis: The sun is described as turning beneath the lands at night and returning
+    under the lands to seize or blaze in the sky before appearing.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The available taxonomy term is broad; the passage uses astronomical explanation
+    and personified diction, not a developed return myth.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the possible motion of stars by opposite
+    currents to clouds moved by contrary winds.
+  claim_level: same_function
+  target: Clouds driven by contrary winds as an analogy for celestial motion by currents
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal explanatory analogy within the passage, not evidence
+    of historical contact or shared mythic origin.
+- id: claim:2
+  claim: The passage explicitly uses a story of Idaean mountain-top fires at daybreak
+    combining into an orb as an analogy for the gathering of fires or heat-seeds that
+    form solar light.
+  claim_level: same_function
+  target: Idaean mountain-top daybreak fire story
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a brief reported story and does not identify
+    a wider tradition or claim historical transmission.
+- id: claim:3
+  claim: The passage aligns celestial and dawn recurrences with plants, aging, youth,
+    weather, and atmospheric phenomena as instances of fixed-time sequence.
+  claim_level: same_function
+  target: Fixed-time natural life-cycle and weather patterns
+  evidence_refs:
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is a philosophical pattern of regular recurrence, not
+    a claim that these are the same mythic motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7228-7240
+  quote_or_summary: The speaker says no single sure cause is revealed for the sun's
+    travel from summer to winter turning-points and back, or for the moon's monthly
+    crossing of a distance the sun crosses in a year.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain text; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 7241-7262
+  quote_or_summary: The doctrine attributed to 'great Democritus' says lower celestial
+    bodies are less borne by the sky's whirl; the sun lies below the starry signs,
+    the moon lower still, and the signs overtake them.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain text; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 7263-7278
+  quote_or_summary: Two streams of air from transverse world regions may alternately
+    thrust the sun from summer signs to winter goals and cast it back; the moon and
+    stars may likewise be sped by alternate air streams.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain text; passage supplied in request.
+- id: ev:4
+  type: quote
+  locator: 7279-7287
+  quote_or_summary: Clouds are described as sped 'by contrary winds to regions contrary,'
+    followed by the question whether stars in ether may be borne 'by currents opposite.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain text; brief excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: 7288-7297
+  quote_or_summary: Night overwhelms the lands when the sun finishes its daily course
+    and pants forth its fires, or when the same force that drove the sun above the
+    lands turns it beneath the lands.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain text; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: 7298-7308
+  quote_or_summary: Matuta spreads roseate morning and light at a fixed hour; possible
+    causes include the returning sun under the lands striving toward the sky, or fires
+    and seeds of heat gathering at a fixed time.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain text; passage supplied in request.
+- id: ev:7
+  type: summary
+  locator: 7309-7317
+  quote_or_summary: The passage says fires may stream together and shape the sun's
+    splendor, and reports that from Idaean mountain-tops dispersed fires at daybreak
+    are seen to combine into one ball and form an orb.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain text; passage supplied in request.
+- id: ev:8
+  type: summary
+  locator: 7318-7324
+  quote_or_summary: Shrubs bud and cast flowers, age causes teeth to drop, youth brings
+    beard growth, and thunderbolts, snow, rains, clouds, and winds occur at fixed
+    seasons; from primordial causes, things come round in fixed sequence.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain text; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is high confidence because the passage is explicit. Motif
+    candidates are more tentative where philosophical-natural explanation is mapped
+    to broad motif taxonomy terms.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or common-inheritance claims are made. Comparisons recorded are internal analogies explicitly made by the passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-lucretius-nature-of-things-leonard-gutenberg__l7228-l7324
+  passage_sha256=4f5dd9a964854adfc9db19dc6c9f5f5c680252521422a92b428943c2c5d04361
+

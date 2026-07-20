@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l95935-l95951
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: AITAREYA ARANYAKA / TRANSLATION AND NOTES / ARANYAKA I / KEITH M; lines 95935-95951
+  start: '95935'
+  end: '95951'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains ritual uses and interpretations of Rigvedic verses:
+    a knowing reciter or Hotr invokes the All-gods, a libation is understood as belonging
+    to every giver, gods fulfil the wish of one who recites with knowledge, Sarasvati''s
+    epithet is interpreted as speech and her acceptance of sacrifice as bearing it
+    away, and the hymn''s verse counts are correlated with the human body, Prajapati,
+    the sacrificial day, and the stoma hymn through numerical likeness.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Hotr priest who knows may recite a verse invoking the All-gods as protectors
+    and supporters of men.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A verse about the giver's libation is interpreted as referring to the libation
+    of every giver.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Whatever a man wishes when reciting the verse is said to be fulfilled by the
+    gods if he knows it, or if a knowing Hotr priest recites it for him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the verse to Sarasvati, the phrase 'rich in prayer' is explained as denoting
+    speech.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The request that Sarasvati accept the sacrifice is explained as meaning that
+    she should bear it away.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the verses are said straight on, they number twenty-one; this is correlated
+    with a man consisting of ten fingers, ten toes, and the trunk as the twenty-first
+    element.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Repeating the first verse three times and the last verse three times makes
+    twenty-five verses; the number twenty-five is correlated with the trunk, Prajapati,
+    the sacrificial day, and the stoma hymn of that day.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that likeness brings about likeness in the numerical correspondences.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hotr priest who knows
+  description: A ritual priest who recites the specified verses for another when he
+    has the required knowledge.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: All-gods / gods
+  description: A divine collective invoked as protectors and supporters of men and
+    described as fulfilling the wish made during knowledgeable recitation.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Man / reciter
+  description: A man who recites and wishes; his body is analyzed through fingers,
+    toes, limbs, and trunk in relation to the hymn's numbers.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Sarasvati
+  description: Called holy and rich in prayer; asked to accept the sacrifice, with
+    acceptance interpreted as bearing it away.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Prajapati
+  description: Identified with the twenty-fifth in the passage's numerical correspondence.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: knowing ritual reciter
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The desired effects are tied to one who knows the verse or to a Hotr priest
+    who knows and recites it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: divine protectors and supporters
+  assigned_to:
+  - fig:2
+  basis: The invoked All-gods are addressed as protectors and supporters of men.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wish fulfillers
+  assigned_to:
+  - fig:2
+  basis: The gods are said to fulfil the wish made during the knowledgeable recitation.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: body model for ritual numbering
+  assigned_to:
+  - fig:3
+  basis: The man's fingers, toes, limbs, and trunk are counted to match the hymn's
+    numerical structures.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: acceptor and bearer of sacrifice
+  assigned_to:
+  - fig:4
+  basis: Sarasvati is asked to accept the sacrifice, and this is interpreted as bearing
+    it away.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: twenty-fifth correspondence figure
+  assigned_to:
+  - fig:5
+  basis: Prajapati is explicitly called the twenty-fifth in the sequence of correspondences.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: libation of every giver
+  literal_form: Libation mentioned in the verse and interpreted as belonging to every
+    giver.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sacrifice accepted and borne away
+  literal_form: The sacrifice that Sarasvati is asked to accept and bear away.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: speech
+  literal_form: Speech denoted by the phrase 'rich in prayer' in the Sarasvati verse.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: twenty-one
+  literal_form: Twenty-one verses matched to ten fingers, ten toes, and the trunk
+    as twenty-first.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: twenty-five
+  literal_form: Twenty-five verses matched to the trunk, Prajapati, the sacrificial
+    day, and the stoma hymn.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: trunk
+  literal_form: The trunk counted as the twenty-first and also as the twenty-fifth
+    element, adorned by the hymn.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Knowledgeable invocation and wish fulfilment
+  summary: A knowing reciter or Hotr uses verses invoking the All-gods and the giver's
+    libation; the gods are said to fulfil the wish made in this recitation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sarasvati, speech, and sacrifice
+  summary: A verse asking holy Sarasvati to accept the sacrifice is interpreted so
+    that 'rich in prayer' denotes speech and acceptance means bearing the sacrifice
+    away.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Numerical correspondence of hymn, body, and rite
+  summary: The hymn's counts of twenty-one and twenty-five are mapped onto the human
+    body, the trunk, Prajapati, the sacrificial day, and the stoma hymn, with the
+    explanation that like is brought about by like.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Efficacious knowledgeable recitation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly makes ritual effects depend on knowing the verse or
+    on a Hotr priest who knows reciting it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents ritual exegesis rather than a narrative myth; the
+    taxonomy link to wisdom is functional and should be reviewed.
+- id: motif:2
+  label: Sacrificial offering and divine response
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: Libation and sacrifice are interpreted within a ritual frame, and the gods
+    are said to fulfil the wish made during knowledgeable recitation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The text does not narrate a full reciprocal bargain; it states ritual
+    efficacy and divine fulfilment.
+- id: motif:3
+  label: Ritual microcosm through numerical correspondence
+  taxonomy_refs:
+  - sacrifice
+  basis: The numbers twenty-one and twenty-five are correlated across verses, human
+    anatomy, Prajapati, the sacrificial day, and the stoma hymn, with the stated principle
+    that likeness brings about likeness.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an exegetical correspondence pattern, not a story motif in the
+    narrow sense.
+- id: motif:4
+  label: Sarasvati as speech in sacrificial prayer
+  taxonomy_refs:
+  - wisdom
+  - sacrifice
+  basis: The Sarasvati verse is explicitly interpreted so that 'rich in prayer' denotes
+    speech, and Sarasvati is connected with accepting or bearing away the sacrifice.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The identification is confined to this ritual interpretation; broader
+    Sarasvati symbolism is not inferred here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 95935-95937
+  quote_or_summary: A knowing Hotr priest recites a Rigvedic verse invoking the All-gods
+    as protectors and supporters of men to come hither.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 95937-95940
+  quote_or_summary: The giver's libation is interpreted as the libation of every giver;
+    whatever a man wishes while reciting the verse is fulfilled by the gods if he
+    or the Hotr priest knows it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 95940-95943
+  quote_or_summary: The Sarasvati verse asks her to accept the sacrifice; 'rich in
+    prayer' is said to denote speech, and acceptance is interpreted as bearing the
+    sacrifice away.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 95943-95947
+  quote_or_summary: 'Straight recitation gives twenty-one verses; man is said to consist
+    of twenty-one elements: ten fingers, ten toes, and the trunk as twenty-first;
+    the hymn adorns the trunk.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 95947-95951
+  quote_or_summary: Repeating the first and last verses three times makes twenty-five;
+    the trunk and Prajapati are twenty-fifth, and the sacrificial day and stoma hymn
+    are twenty-five, because like is brought about by like.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a compact ritual-exegetical section with explicit figures,
+    actions, and correspondences. Motif labels are candidates because the text is
+    not a narrative myth. No comparison claims were made beyond the passage's own
+    internal correspondences.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; line-based evidence locators follow the provided range.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l95935-l95951
+  passage_sha256=ddbe341e77afaa2b1ee0afb4113f14d500b7674db98027677a5e69abc477f71d
+

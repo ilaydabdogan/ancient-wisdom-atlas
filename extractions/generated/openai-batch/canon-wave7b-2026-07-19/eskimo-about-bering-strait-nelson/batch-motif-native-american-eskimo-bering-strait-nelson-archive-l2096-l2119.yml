@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l2096-l2119
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: ALPHABET / SKETCH  OF  THE  WESTERN  ESKIMO / GEOGRAPHIC  FEATURES  OF  THEIR  RAXGE
+    / DISTRIBUTION  OF  TRIBES  AND  DIALECTS; lines 2096-2119
+  start: '2096'
+  end: '2119'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records reported historical distributions and movements of
+    Uualit/Unalit and Malemut people around Norton Sound, notes changes in population
+    and reindeer availability, and describes Malemut presence across a wider region
+    including one family living near the upper Auvik River.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Shaktolik informants said that before Russian arrival the Uualit occupied
+    the Norton Sound coast from Pastolik northward to slightly beyond Shaktolik.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same account places the former southern limit of the Malemut at the head
+    of Norton Bay.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Malemut are described as later advancing and occupying village after village,
+    so that Shaktolik and Unalaklit were mainly Malemut or mixed Malemut and Unalit.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage links the disappearance of reindeer along the coast with the Malemut
+    becoming much less numerous than formerly.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Russian and other residents reported about two hundred people at Kigiktauik
+    in 1872-1873, while the narrator found about twelve or fourteen there in 1881.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When the population was larger, nearby coastal mountains had many reindeer,
+    and Unalit and many Malemut gathered there for hunting.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: In November 1880 the narrator found a Malemut family living in a poor hut
+    on the upper Auvik River.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that these people had become spread over a wide region.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Shaktolik people
+  description: People who told the narrator about earlier occupation and later changes
+    around Norton Sound.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Uualit / Unalit
+  description: A named people said to have occupied part of the Norton Sound coast
+    and to be present in mixtures with Malemut at Shaktolik and Unalaklit.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Malemut
+  description: A named people whose former southern limit, later expansion, demographic
+    decline, hunting movements, and wider dispersal are described.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Russians and other residents
+  description: People living in the region in 1872 and 1873 who informed the narrator
+    about Kigiktauik's earlier population.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Reindeer
+  description: Animals formerly abundant near the coast and associated with hunting
+    and population movements.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: Malemut family on upper Auvik River
+  description: A family of Malemut found living in a miserable hut in November 1880.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: informants
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The Shaktolik people told the narrator about earlier tribal distribution,
+    and Russians and others informed him about population numbers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: coastal occupants
+  assigned_to:
+  - fig:2
+  basis: The Uualit are said to have occupied the Norton Sound coast from Pastolik
+    northward to beyond Shaktolik.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: expanding and dispersed people
+  assigned_to:
+  - fig:3
+  basis: The Malemut are described as advancing into villages, congregating for hunting,
+    declining in number, and spreading over a wide region.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: hunted resource
+  assigned_to:
+  - fig:5
+  basis: Reindeer are described as abundant in the mountains and as the reason people
+    congregated for hunting; their coastal disappearance is linked to Malemut decline.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: isolated household
+  assigned_to:
+  - fig:6
+  basis: The family is described as living in a miserable hut on the upper Auvik River.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: coastal waters and river routes
+  literal_form: Norton Sound, Norton Bay, the coast, and Auvik River
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: reindeer mountains
+  literal_form: mountains bordering the coast where reindeer were abundant
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hut dwelling
+  literal_form: a miserable hut on the upper part of Auvik River
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Reported earlier occupation and later village expansion
+  summary: Shaktolik informants describe Uualit occupation of a stretch of Norton
+    Sound coast, the former Malemut boundary at Norton Bay, and later Malemut movement
+    into villages including Shaktolik and Unalaklit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reindeer abundance and population change at Kigiktauik
+  summary: Residents report that Kigiktauik had a much larger population in 1872-1873
+    than the narrator observed in 1881; the earlier period is associated with abundant
+    reindeer in nearby mountains and gathering for hunting.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Malemut family on Auvik River
+  summary: The narrator finds a Malemut family living in a poor hut on the upper Auvik
+    River and notes the wider dispersal of the people.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2096-2105
+  quote_or_summary: Shaktolik informants report pre-Russian Uualit occupation of Norton
+    Sound coast; the Malemut's former southern limit was Norton Bay, after which they
+    advanced into villages, and their numbers declined after reindeer disappeared
+    along the coast.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2107-2114
+  quote_or_summary: Russians and other regional residents report about two hundred
+    people at Kigiktauik in 1872-1873; by 1881 the narrator found twelve or fourteen.
+    Nearby mountains had abundant reindeer, attracting Unalit and many Malemut for
+    hunting.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2116-2119
+  quote_or_summary: In November 1880 the narrator found a Malemut family living in
+    a poor hut on the upper Auvik River, and notes that these people had spread over
+    a wide region; the supplied passage then begins a March 1880 location note but
+    cuts off mid-sentence.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is ethnographic and geographic rather than mythic or narrative;
+    no candidate mythic motifs or comparison claims are extracted. Symbol entries
+    are limited to literal recurring landscape/resource images, with no symbolic interpretation
+    asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological episode is present in the supplied line range; extraction focuses on literal distribution, movement, resources, and settlement patterns.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l2096-l2119
+  passage_sha256=fdfba1487bac96cd81dff118e98a996dd73709022037195ef5b7299631042aca
+

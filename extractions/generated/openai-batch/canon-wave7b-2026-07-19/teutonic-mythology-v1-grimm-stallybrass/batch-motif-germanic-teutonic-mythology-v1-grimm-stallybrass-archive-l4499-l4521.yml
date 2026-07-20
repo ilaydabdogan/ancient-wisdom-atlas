@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l4499-l4521
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: BUILDINGS.  83 / BUILDINGS.  85 / TEMPLES.  87 / PRIESTS.  89; lines 4499-4521
+  start: '4499'
+  end: '4521'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes German priests as serving the gods, judging the people,
+    exercising discipline in campaigns as divine agents, carrying sacred signs from
+    a grove into battle, overseeing national divination by rods, and accrediting divination
+    involving state-maintained white steeds and a sacred car. It contrasts public
+    priestly oversight with private household divination and compares that limitation
+    to early covenant transactions without a judge. The final sentence mentions the
+    car of Nerthus but is corrupt/truncated.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: German priests are described as employed in worship of the gods and in judging
+    the people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In campaigns, discipline is said to be entrusted to priests rather than generals,
+    with punitive authority framed as acting under divine command or presence.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Priests are said to take effigies and signs from the sacred grove and carry
+    them into battle.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sacerdos civitatis superintends divination by rods when it is performed
+    for the nation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: For a non-public occasion, the paterfamilias can direct divination without
+    calling in the priest; the passage calls this a limitation of priestly power.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The author compares private divination without priestly intervention to early
+    covenant transactions settled between parties without a judge.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When divination is performed by the neighing of state-maintained white steeds,
+    priests accompany the sacred car and accredit the transaction.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The final, corrupt/truncated sentence states that someone alone may touch
+    the car of Nerthus, perceives her approaching presence, and attends her reverently.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: German priests / sacerdos civitatis
+  description: Priestly officials involved in worship, judgment, campaign discipline,
+    public divination, carrying sacred signs, and accompanying a sacred car.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: gods / deity
+  description: Divine powers worshipped by priests; campaign discipline is represented
+    as performed as if commanded by a deity present with the combatants.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: paterfamilias
+  description: Household head who can direct private divination without calling in
+    a priest.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Nerthus
+  description: Named female figure associated with a car and an approaching presence
+    in the corrupt/truncated final sentence.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: worshipper and judge
+  assigned_to:
+  - fig:1
+  basis: The passage says German priests were employed in worship of the gods and
+    judging the people.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: campaign disciplinarian under divine authority
+  assigned_to:
+  - fig:1
+  basis: Campaign discipline and punitive acts are entrusted to priests, not generals,
+    as if a deity commanded them.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: carrier of sacred battle signs
+  assigned_to:
+  - fig:1
+  basis: Priests take effigies and signs from the sacred grove and carry them into
+    battle.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: supervisor of national divination
+  assigned_to:
+  - fig:1
+  basis: The sacerdos civitatis superintends divination by rods when performed for
+    the nation.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: private divination director
+  assigned_to:
+  - fig:3
+  basis: On private occasions the paterfamilias can direct divination without calling
+    a priest.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: accreditor of horse-and-car divination
+  assigned_to:
+  - fig:1
+  basis: Priests accompany the sacred car and accredit divination by the neighing
+    of state-maintained white steeds.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: divine authority or presence
+  assigned_to:
+  - fig:2
+  basis: The passage says campaign discipline is exercised as if by divine command
+    and in the deity’s presence.
+  evidence_refs:
+  - ev:1
+- id: role:8
+  label: deity or sacred female presence associated with a car
+  assigned_to:
+  - fig:4
+  basis: The corrupt/truncated final sentence refers to the car of Nerthus and to
+    her approaching presence.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sacred grove
+  literal_form: sacred grove
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: effigies and signs
+  literal_form: effigies et signa / effigies and signs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: divining rods
+  literal_form: rods used for divination
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: white steeds
+  literal_form: state-maintained white steeds whose neighing is used for divination
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: sacred car / car of Nerthus
+  literal_form: sacred car; car of Nerthus
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Priestly authority in worship, judgment, and war
+  summary: German priests serve the gods, judge the people, and exercise campaign
+    discipline as if under divine command rather than under a general’s order.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sacred signs carried into battle
+  summary: Priests take effigies and signs from a sacred grove and carry them into
+    battle.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Public and private rod divination
+  summary: A public divination by rods is overseen by the city or national priest,
+    while a private occasion can be directed by the household head without priestly
+    intervention.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Divination by white steeds and sacred car
+  summary: Priests accompany a sacred car and accredit divination based on the neighing
+    of state-maintained white steeds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Car of Nerthus
+  summary: The corrupt/truncated ending refers to the car of Nerthus, a restricted
+    touch, perception of her approaching presence, and reverent attendance.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Priestly mediation of divine judgment and discipline
+  taxonomy_refs:
+  - divine_judgment
+  basis: Priests judge the people and in campaigns exercise discipline as if the deity
+    commanded and was present.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an institutional description and scholarly discussion,
+    not a mythic narrative episode.
+- id: motif:2
+  label: Sacred signs carried from grove into battle
+  taxonomy_refs: []
+  basis: Priests remove effigies and signs from a sacred grove and carry them into
+    battle.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not identify the specific images, signs, or deity represented.
+- id: motif:3
+  label: Divination supervised by ritual authority
+  taxonomy_refs: []
+  basis: National divination by rods is supervised by the sacerdos civitatis, and
+    horse-divination is accredited by priests accompanying the sacred car.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage describes ritual procedure but gives no omen result or narrative
+    outcome.
+- id: motif:4
+  label: Private ritual action without official mediator
+  taxonomy_refs: []
+  basis: A household head can direct private divination without calling in the priest,
+    which is presented as a limitation of priestly power.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a legal-ritual pattern in the author’s analysis rather than a
+    narrative motif.
+- id: motif:5
+  label: Deity-associated sacred vehicle and reverent attendance
+  taxonomy_refs: []
+  basis: The passage links a sacred car, or car of Nerthus, with priestly attendance
+    and with perception of Nerthus’s approaching presence.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The final sentence is OCR-corrupt/truncated, so details of the attendant
+    and action are uncertain.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the ability of a paterfamilias to conduct private
+    divination without a priest to early covenant transactions settled between parties
+    without a judge.
+  claim_level: same_function
+  target: early covenant transactions without judicial intervention
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an authorial analogy about institutional limitation and private
+    authority; it does not by itself establish a shared mythic origin or narrative
+    motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4499-4506
+  quote_or_summary: German priests are described as serving in worship and judgment;
+    in campaigns discipline and punitive acts are entrusted to priests, not generals,
+    as if commanded by a present deity.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 4507-4510
+  quote_or_summary: The passage says priests take the effigies and signs from the
+    sacred grove and carry them into battle.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 4510-4513
+  quote_or_summary: The sacerdos civitatis superintends divination by rods whenever
+    it is done for the nation.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 4513-4516
+  quote_or_summary: For a non-public occasion the paterfamilias can direct divination
+    without calling in a priest; the author calls this a notable limitation of priestly
+    power and a sign of freeman rights in private life.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 4516-4519
+  quote_or_summary: The author compares this principle to very early covenant transactions
+    settled between the parties without the intervention of a judge.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 4519-4521
+  quote_or_summary: For divination by the neighing of state-maintained white steeds,
+    priests accompany the sacred car and accredit the transaction.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:7
+  type: note
+  locator: line 4521
+  quote_or_summary: The corrupt/truncated ending reads in part that someone alone
+    may touch the car of Nerthus, perceives her approaching presence, and attends
+    her reverently.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from provided passage; OCR corruption
+    noted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Most institutional details are clear, but the final Nerthus sentence is OCR-corrupt/truncated.
+    Motif labels are candidates because the passage is scholarly exposition rather
+    than a myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Available taxonomy references were applied only where directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l4499-l4521
+  passage_sha256=6e5e7793130314c6a7d229a74ebff0b45ccbfe4da865bc1635296b87d30fc8a3
+

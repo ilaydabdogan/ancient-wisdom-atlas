@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l3599-l3639
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: HUNTING / HUNTING / HUNTING / HUNTING; lines 3599-3639
+  start: '3599'
+  end: '3639'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes hunting-related observations: wax models of an ant-eater
+    carrying young, a list of animals requiring no special hunting comment, native
+    attitudes toward puma and jaguar, a fatal jaguar attack, explanations of why jaguars
+    attack humans, dangers in jaguar hunting, and the construction of a pit-and-lasso
+    jaguar trap on a blocked forest path.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Natives are described as making wax models of an ant-eater with its young
+    on its back, said to represent the animal's mode of carrying them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists tapir, maned wolf, fox, armadillo, tiger-cat, carpincho,
+    nutria, otter, iguana, and smaller animals as not requiring special comment in
+    hunting methods.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The puma and jaguar are described as the two largest carnivores; the puma
+    is not feared by the natives.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The jaguar is held in great respect by the natives, partly because man-eating
+    jaguars are occasionally encountered.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A mission Indian was killed and devoured by a jaguar while honey-hunting in
+    the forest.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The natives say a jaguar attacks humans only when old, tooth-worn, starving,
+    and unable to pursue or tear other prey, and that it is otherwise afraid of humans.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When hunted, the jaguar fights, especially when cornered or with cubs; Indian
+    hunters carry scars and sometimes lose their lives.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: During jaguar hunts, many dogs are lost when the jaguar rips up dogs that
+    come within reach.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A jaguar trap is made by selecting a forest path with spoor, felling a tree
+    to block the way, digging a pit, and suspending a looped lasso tied to a stout
+    branch.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The lasso tightens around the jaguar's body when it falls into the pit, preventing
+    it from biting through the lasso and escaping.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The Indians say that blocking the jaguar's accustomed path puzzles the animal
+    while it looks for an exit arranged by the trap-makers.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: natives / Indians
+  description: Collective human group described as making wax animal models, hunting
+    jaguar, explaining jaguar behavior, and constructing jaguar traps.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: jaguar
+  description: Large carnivore held in respect, occasionally a man-eater, dangerous
+    when hunted, and target of a described trap.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: puma
+  description: Large carnivore explicitly contrasted with the jaguar as not feared
+    by the natives.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: mission Indian killed while honey-hunting
+  description: Human victim killed and devoured by a jaguar in the forest.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: dogs used in jaguar hunts
+  description: Dogs lost in jaguar hunts when the jaguar strikes those within reach.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: ant-eater with young
+  description: Animal represented in wax models as carrying its young on its back.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: animal-model makers
+  assigned_to:
+  - fig:1
+  basis: The passage says the narrator often found natives making wax models of the
+    ant-eater and young.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: jaguar hunters and trappers
+  assigned_to:
+  - fig:1
+  basis: The passage describes Indians engaging in jaguar hunting and constructing
+    a jaguar trap.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: speakers explaining jaguar behavior
+  assigned_to:
+  - fig:1
+  basis: The passage reports what the natives say about old, starving jaguars and
+    about the blocked path puzzling the animal.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:4
+  label: respected dangerous predator and trap quarry
+  assigned_to:
+  - fig:2
+  basis: The jaguar is respected as an occasional man-eater, fights when hunted, and
+    is the target of a pit-and-lasso trap.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:5
+  label: unfeared large carnivore
+  assigned_to:
+  - fig:3
+  basis: The puma is named as one of the two largest carnivores but is not feared
+    by the natives.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: human victim of jaguar attack
+  assigned_to:
+  - fig:4
+  basis: A mission Indian is described as killed and devoured by a jaguar while honey-hunting.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: hunting animals endangered by jaguar
+  assigned_to:
+  - fig:5
+  basis: The passage says many dogs are lost in these hunts when the jaguar strikes
+    them.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: modeled animal carrying young
+  assigned_to:
+  - fig:6
+  basis: The ant-eater with young on its back is represented in wax models.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wax ant-eater model
+  literal_form: Wax model of an ant-eater with its young on its back.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: jaguar
+  literal_form: Large carnivore, occasional man-eater, dangerous quarry, and trap
+    target.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: blocked forest path with spoor
+  literal_form: A forest path marked by jaguar spoor and blocked by a felled tree.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: pit-and-lasso trap
+  literal_form: A pit across the path with a looped lasso tied to a stout branch of
+    a neighboring tree.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: wax model of ant-eater carrying young
+  summary: Natives are observed making wax models showing an ant-eater carrying its
+    young on its back.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: jaguar danger and explanations
+  summary: The passage contrasts the unfeared puma with the respected jaguar, recounts
+    a fatal jaguar attack, reports native explanations for man-eating jaguars, and
+    notes the danger to hunters and dogs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: construction of the jaguar trap
+  summary: Hunters use a forest path with jaguar spoor, block it with a felled tree,
+    dig a pit, and suspend a looped lasso tied to a branch so the jaguar is caught
+    when it falls in.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: animal effigy showing parent carrying young
+  taxonomy_refs: []
+  basis: The passage describes wax models of an ant-eater with its young on its back,
+    said to represent the animal's carrying method.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not state a ritual, magical, or mythic function for the
+    wax models.
+- id: motif:2
+  label: respected dangerous predator as man-eater and quarry
+  taxonomy_refs: []
+  basis: The jaguar is held in respect because man-eaters occur, and it is dangerous
+    when hunted, causing scars, deaths, and losses of dogs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic hunting description rather than a myth narrative.
+- id: motif:3
+  label: old or starving predator turns to attacking humans
+  taxonomy_refs: []
+  basis: Native explanation states that jaguars attack humans when old, tooth-worn,
+    and starving because they can no longer pursue or tear other prey.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The explanation is reported as native speech in the passage; no broader
+    symbolic interpretation is stated.
+- id: motif:4
+  label: blocked-path pit-and-lasso animal trap
+  taxonomy_refs: []
+  basis: The jaguar trap uses a known path, a felled tree obstruction, a pit, and
+    a looped lasso tied to a branch to catch the animal and prevent escape.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage presents a practical trapping technique; motif status is limited
+    to repeated pattern or scene extraction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3599-3639, opening paragraph
+  quote_or_summary: Natives are observed making wax models of an ant-eater with its
+    young on its back, described as its mode of carrying them.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3599-3639, animal-list paragraph
+  quote_or_summary: Tapir, maned wolf, fox, armadillo, tiger-cat, carpincho, nutria,
+    otter, iguana, and smaller animals are listed as requiring no special hunting
+    comment.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 3599-3639, jaguar paragraph
+  quote_or_summary: '"The puma and the jaguar are the two largest carnivora"; the
+    puma is not feared, while the jaguar is held in respect.'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt with summary.
+- id: ev:4
+  type: summary
+  locator: lines 3599-3639, jaguar paragraph
+  quote_or_summary: A mission Indian was killed and devoured by a jaguar while honey-hunting
+    in the forest.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3599-3639, jaguar paragraph
+  quote_or_summary: The natives say old jaguars with worn teeth attack humans from
+    starvation and inability to catch or tear other prey, though otherwise afraid
+    of humans.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 3599-3639, jaguar-hunting paragraph
+  quote_or_summary: A hunted jaguar fights, especially when cornered or with cubs;
+    Indian hunters carry scars, sometimes die, and lose many dogs to the jaguar's
+    blows.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 3599-3639, jaguar-trap paragraph
+  quote_or_summary: 'The jaguar trap is made on a forest path with spoor: a tree blocks
+    the way, a pit is dug, and a looped lasso is tied to a stout branch.'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 3599-3639, jaguar-trap paragraph ending
+  quote_or_summary: The lasso tightens when the jaguar falls into the pit, and the
+    Indians say the blocked accustomed path puzzles the animal as it looks for an
+    arranged exit.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear ethnographic prose about hunting and trapping. Candidate
+    motifs are practical or narrative-pattern extractions, not explicitly mythic.
+    No comparison claims are made because the passage itself does not compare traditions
+    or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned; none of the supplied motif-family or symbol refs were directly supported by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l3599-l3639
+  passage_sha256=9bbaadb31f428c24a34e3c8333d7f2ddd019d89dc880e7738f4e43bab7830f35
+

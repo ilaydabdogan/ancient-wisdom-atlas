@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l11558-l11582
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: THE POTTER'S WHEEL 339 / THE POTTER'S WHEEL 343 / CHAPTER XXIV / THE FOREST
+    OF TIME; lines 11558-11582
+  start: '11558'
+  end: '11582'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "'The gate of that forest was Death.'"
+  summary: The passage opens a chapter titled “The Forest of Time” and describes a
+    vast dark forest entered through Death. The forest contains giant trees blocking
+    sunlight, hanging and thorny creepers that obstruct a wayfarer, snakes that are
+    either camouflaged or alluringly colored and dangerous, and small glades with
+    flowers and fruit.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter is titled “The Forest of Time,” and the opening line identifies
+    Death as the gate of the forest.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The forest is described as great, full of giant trees so high and thick overhead
+    that sunshine cannot reach below.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Large creepers run from tree to tree and hang down in great loops.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Smaller thorny creepers grow along the ground, tear the wayfarer, and bar
+    progress.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Snakes in gray and yellow skins blend with the ground, causing the traveller
+    to tread on them unknowingly and be bitten.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some snakes are beautiful with coral red and golden bars, and men may pick
+    them up as if they were jewels before the snakes turn upon them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The forest contains small glades with flowers, including deep white cups,
+    broad glossy leaves, and hidden purple fruit; the provided passage ends mid-description
+    after mentioning scarlet.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: wayfarer / traveller / men
+  description: A generic human passer through the forest who is torn by thorns, obstructed,
+    bitten after treading on camouflaged snakes, or drawn to pick up beautiful snakes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: snakes
+  description: Forest creatures, some earth-colored and hard to see, others brightly
+    colored like jewels; they bite or turn upon people.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: forest traveller
+  assigned_to:
+  - fig:1
+  basis: The passage names a wayfarer and traveller moving through the forest and
+    encountering obstacles and snakes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: hidden danger
+  assigned_to:
+  - fig:2
+  basis: Some snakes blend with the ground so that the traveller steps on them unknowingly
+    and is bitten.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: alluring danger
+  assigned_to:
+  - fig:2
+  basis: Some snakes are beautiful enough to be mistaken for jewels before turning
+    on those who pick them up.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: death-gate
+  literal_form: Death named as the gate of the forest
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: forest
+  literal_form: A great dark forest called the Forest of Time
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: giant trees
+  literal_form: Giant trees so high and thick overhead that sunshine cannot descend
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: thorny creepers
+  literal_form: Ground-growing creepers full of thorns that tear the wayfarer and
+    bar progress
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: snakes
+  literal_form: Earth-colored or brightly colored snakes in the forest
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: flowers and hidden fruit
+  literal_form: Flowers with deep white cups, glossy leaves, and hidden purple fruit
+    in forest glades
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: The death-gated forest is introduced
+  summary: The passage identifies the Forest of Time and names Death as its gate.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Darkness under giant trees
+  summary: The great forest is filled with giant trees whose height and thickness
+    prevent sunlight from reaching below.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Creepers obstruct the wayfarer
+  summary: Hanging creepers and thorny ground creepers fill the forest; the thorny
+    growth tears the wayfarer and bars progress.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Snakes endanger the traveller
+  summary: Camouflaged snakes bite travellers who step on them, and beautiful snakes
+    lure men to pick them up before turning on them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Glades with flowers and fruit
+  summary: Small glades contain flowers with white cups, glossy leaves, and hidden
+    purple fruit; the supplied excerpt stops mid-description.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: death as threshold into a forest
+  taxonomy_refs: []
+  basis: The opening line states that Death is the gate of the forest.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt does not provide a full journey beyond death or a developed
+    afterlife itinerary.
+- id: motif:2
+  label: perilous journey through obstructing wilderness
+  taxonomy_refs: []
+  basis: A wayfarer or traveller encounters a dark forest, thorny creepers that block
+    progress, and dangerous snakes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is descriptive and does not state a named quest or destination.
+- id: motif:3
+  label: deceptive beauty concealing danger
+  taxonomy_refs: []
+  basis: Some snakes are so beautifully colored that people pick them up as jewels
+    before the snakes turn upon them.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The flowers and fruit may also suggest attraction, but the excerpt ends
+    before their function is clarified.
+- id: motif:4
+  label: serpent danger on the path
+  taxonomy_refs:
+  - serpent
+  basis: Snakes hidden on the ground bite the traveller, and brightly colored snakes
+    lure people into danger.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents snakes as literal forest dangers; broader serpent
+    symbolism is not explicitly explained here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 11558-11562
+  quote_or_summary: 'Chapter title “THE FOREST OF TIME”; opening line: “The gate of
+    that forest was Death.”'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 11563-11568
+  quote_or_summary: A great forest is full of giant trees growing so high and thick
+    overhead that sunlight cannot reach below.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 11568-11572
+  quote_or_summary: Huge creepers run from tree to tree and hang down in loops; smaller
+    thorny creepers along the ground tear the wayfarer and obstruct progress.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 11572-11577
+  quote_or_summary: The forest contains snakes whose gray and yellow skins blend with
+    the earth; travellers step on them unknowingly and are bitten.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 11577-11580
+  quote_or_summary: Some snakes are beautiful with coral red and golden bars, so men
+    pick them up as if they were jewels, until the snakes turn on them.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 11581-11582
+  quote_or_summary: Small forest glades contain flowers with deep white cups, broad
+    glossy leaves, and hidden purple fruit; the supplied excerpt ends after mentioning
+    scarlet.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the excerpt. Motif labeling is
+    cautious because the passage is fragmentary and appears allegorical, but the supplied
+    lines do not explain the allegory in full. No comparison claims are made because
+    the passage itself does not compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. The final sentence in the passage is incomplete, so observations about the glades and flowers are limited to the visible text.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l11558-l11582
+  passage_sha256=447f747b102ca1ec86004513d33487dc5b64b593e3aa930c005fa5da98dc30d8
+

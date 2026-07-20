@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol3-archive-l14110-l14127
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+passage_locator:
+  label: MAIIAKAPI-JATAKA'. / KUMUHAKARA-JATAKA. / DALHADHAMMA-JATAKA. / SOMADATTA-JATAK.A.;
+    lines 14110-14127
+  start: '14110'
+  end: '14127'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. III
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A wise ruler teaches that lay life and sense pleasures are insecure, restores
+    the kingdom to a friend, leaves royal power despite others' lamentation, becomes
+    an ascetic sage in the Himalaya, enters meditative ecstasy, and is destined for
+    the world of Brahma. In the frame, the Master declares the Truths, gives the drink
+    of ambrosia to many, and identifies the former-birth figures.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The verse says delight in lay life is a weak support and that the wise person
+    cuts it off and renounces sense pleasures.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker declares both the delight and the misery of desires and shows
+    the truth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: He sends for his friend and makes him take the kingdom again.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: He leaves majesty and power while kinsmen and friends lament loudly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: He becomes an ascetic sage in the Himalaya, enters meditative ecstasy, and
+    is destined for the world of Brahma.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After the lesson, the Master declares the Truths and gives the drink of ambrosia
+    to many.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'The Master identifies the birth: the chief queen was the mother of Rahula,
+    the king was Ananda, and king Susima was the Master himself.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: king Susima
+  description: Past-birth king associated with the renunciation sequence; the Master
+    identifies king Susima with himself.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: his friend
+  description: The friend whom the renouncing figure summons and makes take the kingdom
+    again.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: chief queen / mother of Rahula
+  description: 'A figure in the birth identification: the chief queen is identified
+    as the mother of Rahula.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the king identified as Ananda
+  description: 'A figure in the birth identification: the king is identified as Ananda.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: the Master
+  description: Frame figure who declares the Truths, gives the drink of ambrosia to
+    many, and identifies the birth.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: renouncing ruler
+  assigned_to:
+  - fig:1
+  basis: The figure leaves majesty and power after restoring the kingdom to another.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ascetic sage and meditator
+  assigned_to:
+  - fig:1
+  basis: The figure becomes an ascetic sage in the Himalaya and enters meditative
+    ecstasy.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient of restored kingship
+  assigned_to:
+  - fig:2
+  basis: The friend is summoned and made to take the kingdom again.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: frame teacher
+  assigned_to:
+  - fig:5
+  basis: After the lesson, the Master declares the Truths and gives the drink of ambrosia
+    to many.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: birth-identification figure
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage maps named past figures to present figures in the Master's birth
+    identification.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: teacher of truth
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The past figure shows the truth about desires, and the Master later declares
+    the Truths.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Himalaya ascetic setting
+  literal_form: Himalaya
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: world of Brahma
+  literal_form: world of Brahma
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: drink of ambrosia
+  literal_form: drink of ambrosia
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Teaching against lay delight and desire
+  summary: The passage opens with a teaching that lay delight is weak and that the
+    wise renounce the rule of sense pleasures; the speaker also declares the delight
+    and misery of desires and shows the truth.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Restoration of kingdom and ascetic departure
+  summary: The renouncing figure summons his friend, makes him take the kingdom again,
+    abandons majesty and power amid lamentation, becomes an ascetic sage in the Himalaya,
+    enters meditative ecstasy, and is destined for the world of Brahma.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Frame lesson and birth identification
+  summary: After the lesson, the Master declares the Truths, gives the drink of ambrosia
+    to many, and identifies the chief queen, the king, and king Susima with later
+    Buddhist figures.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: renunciation of lay life and sense pleasures
+  taxonomy_refs:
+  - departure
+  - wisdom
+  basis: The verse and prose explicitly contrast lay or sensual delight with wise
+    renunciation and truth about desires.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The taxonomy mapping is broad; the passage presents Buddhist renunciation
+    rather than a detailed journey narrative.
+- id: motif:2
+  label: royal power abandoned for ascetic life
+  taxonomy_refs:
+  - departure
+  basis: The ruler gives the kingdom to another, leaves majesty and power, and becomes
+    an ascetic sage in the Himalaya.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The supplied lines do not include the earlier narrative context leading
+    to the renunciation.
+- id: motif:3
+  label: kingdom restored to another before withdrawal
+  taxonomy_refs: []
+  basis: The renouncing figure sends for his friend and makes him take the kingdom
+    again before leaving royal power.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not fully clarify the friend's prior status beyond saying
+    he takes the kingdom again.
+- id: motif:4
+  label: meditative attainment leading to Brahma-world destiny
+  taxonomy_refs:
+  - mystical_quest
+  basis: The ascetic enters meditative ecstasy and becomes destined for the world
+    of Brahma.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the outcome but does not narrate an extended quest
+    or ascent.
+- id: motif:5
+  label: Jataka former-birth identification
+  taxonomy_refs: []
+  basis: The Master identifies past figures in the story with present figures, including
+    the chief queen, Ananda, and himself as king Susima.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The identification is explicit, but broader comparison to other Jataka
+    endings is not made in the passage itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14110-14112
+  quote_or_summary: The verse states that delight in lay life is weak and that the
+    wise renounce sense pleasures.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 14114-14120
+  quote_or_summary: The figure declares the delight and misery of desires, shows the
+    truth, summons his friend to retake the kingdom, leaves royal power amid lamentation,
+    becomes an ascetic in the Himalaya, enters meditative ecstasy, and is destined
+    for Brahma's world.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 14122-14126
+  quote_or_summary: After the lesson, the Master declares the Truths, gives the drink
+    of ambrosia to many, and identifies the chief queen as the mother of Rahula, the
+    king as Ananda, and king Susima as himself.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main sequence is clear despite OCR noise. Some figure relationships are
+    limited by the excerpted passage, especially the relation between the friend and
+    the king named in the final identification. No comparison claims were added because
+    the passage does not itself make an explicit cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied lines and metadata. OCR irregularities in the passage were handled by using neutral summaries rather than long quotations.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol3-archive__l14110-l14127
+  passage_sha256=4fc31e6b27e8510fa92e23c3fde6c11f7f1fc4cb7d6301e22d3d2f9a4d34ea7f
+

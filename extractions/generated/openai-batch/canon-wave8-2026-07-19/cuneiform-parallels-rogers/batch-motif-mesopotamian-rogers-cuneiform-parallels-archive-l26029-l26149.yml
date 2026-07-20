@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l26029-l26149
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: LITERATURE / PROLOGUE1 / INDEX / INDEX; lines 26029-26149
+  start: '26029'
+  end: '26149'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: This passage is an index segment listing entries for Mesopotamian texts,
+    topics, figures, rulers, temples, and episodes, including creation and cosmology
+    entries, deluge and flood-story entries, demons and dragon entries, Ishtar's descent
+    to Hades, destruction by fire, Ea and Atrakhasis, and the Gilgamesh Epic.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index segment made up of topical names and page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists cosmogony, cosmology, and creation entries, including Babylonian
+    and Assyrian materials, creation of cattle and beasts, a river of creation, sun
+    and moon, and creation of the world by Marduk.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index lists deluge and flood-story entries, including versions attributed
+    to Berossos and named fragments, another recension, and a Babylonian flood story.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index lists entries for demons and dragon material, including seven evil
+    demons.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index lists the Descent of Ishtar to Hades, an entry for Hades, and Ereshkigal
+    as wife of Nergal.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index lists an entry titled Destruction by Fire.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index lists Ea as Nudimmud and also lists Ea and Atrakhasis.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index lists the Gilgamesh Epic and identifies Engidu as friend of Gilgamesh.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Marduk
+  description: Named in the index entry for creation of the world by Marduk.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Ishtar
+  description: Named in the index entry Descent of Ishtar to Hades.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Ereshkigal
+  description: Listed as wife of Nergal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Nergal
+  description: Named in the relationship entry Ereshkigal, wife of Nergal.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Ea / Nudimmud
+  description: Listed as Ea (Nudimmud) and in the entry Ea and Atrakhasis.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Atrakhasis
+  description: Named in the index entry Ea and Atrakhasis.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Gilgamesh
+  description: Named in entries for the Gilgamesh Epic.
+  role_refs: []
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Engidu
+  description: Listed as friend of Gilgamesh.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: creator of the world
+  assigned_to:
+  - fig:1
+  basis: The index includes an entry for creation of the world by Marduk.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: descending deity
+  assigned_to:
+  - fig:2
+  basis: The index title states Descent of Ishtar to Hades.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: wife of Nergal
+  assigned_to:
+  - fig:3
+  basis: The index explicitly lists Ereshkigal as wife of Nergal.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: friend of Gilgamesh
+  assigned_to:
+  - fig:8
+  basis: The index explicitly lists Engidu as friend of Gilgamesh.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: flood or deluge water
+  literal_form: deluge, flood story, river of creation
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: fire
+  literal_form: destruction by fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Hades
+  literal_form: underworld place named Hades
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: dragon
+  literal_form: dragon in the index entries Demons and Dragon and Dragon and Demons
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: seven evil demons
+  literal_form: seven evil demons
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: sun and moon
+  literal_form: sun and moon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Indexed creation and cosmology materials
+  summary: The index points to cosmogony, cosmology, and creation texts, including
+    creation of the world by Marduk and entries involving cattle, beasts, a river,
+    the sun, and the moon.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Indexed deluge and flood-story materials
+  summary: The index groups deluge and flood-story entries, including Berossos, named
+    fragments, another recension, and a Babylonian flood story.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Indexed descent to Hades
+  summary: The index names Descent of Ishtar to Hades and nearby Hades-related entries.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Indexed fire destruction
+  summary: The index lists a topic titled Destruction by Fire.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Indexed demons and dragon materials
+  summary: The index lists demons-and-dragon entries and an entry for seven evil demons.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:6
+  label: Indexed Gilgamesh friendship entry
+  summary: The index names the Gilgamesh Epic and identifies Engidu as friend of Gilgamesh.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: creation and cosmogony
+  taxonomy_refs: []
+  basis: The index lists multiple creation-related entries, including Babylonian story
+    of creation and creation of the world by Marduk.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an index and does not summarize the creation narrative
+    itself.
+- id: motif:2
+  label: flood or deluge story
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The index lists Deluge and Flood story entries, including Babylonian flood
+    story and another recension.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The index supports a flood/deluge topic, but renewal, survivor details,
+    and narrative sequence are not described in this passage.
+- id: motif:3
+  label: descent to the underworld
+  taxonomy_refs:
+  - hero_descent
+  basis: The index title Descent of Ishtar to Hades indicates a descent-to-Hades topic
+    involving Ishtar.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy label is broader than the passage wording; the
+    passage names a divine descent but gives no narrative details.
+- id: motif:4
+  label: destruction by fire
+  taxonomy_refs: []
+  basis: The index lists an entry titled Destruction by Fire.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage does not state the scale, agent, or narrative context of the
+    destruction.
+- id: motif:5
+  label: demons and dragon
+  taxonomy_refs: []
+  basis: The index lists Demons and Dragon, Dragon and Demons, and seven evil demons.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage provides only index headings and does not describe the demons,
+    dragon, conflict, or outcome.
+- id: motif:6
+  label: hero and companion friendship
+  taxonomy_refs: []
+  basis: The index names the Gilgamesh Epic and identifies Engidu as friend of Gilgamesh.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: Only the friendship relation is stated; no episode or heroic action is
+    described here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 26029-26149
+  quote_or_summary: The passage is an INDEX section containing entries and page references
+    for texts, figures, topics, rulers, and places.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 26029-26043
+  quote_or_summary: Entries include Cosmogony, Cosmology, and Creation, including
+    'Creation ... of world by Marduk' and entries for cattle and beasts, river, sun
+    and moon.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 26059-26069, 26115-26116
+  quote_or_summary: Entries include 'Deluge, according to Berossos,' named fragments,
+    'See Flood Story, another recension,' and 'Flood story, Babylonian.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 26070-26076
+  quote_or_summary: Entries include 'Demons and Dragon,' 'Demons, seven evil,' and
+    'Dragon and Demons.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 26077, 26099-26100, 26127-26129
+  quote_or_summary: Entries include 'Descent of Ishtar to Hades,' 'Ereshkigal, wife
+    of Nergal,' and 'Hades, descent of Ishtar to ... queen of.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: '26078'
+  quote_or_summary: "'Destruction by Fire' is listed as an index entry."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: 26084-26085
+  quote_or_summary: Entries list 'Ea (Nudimmud)' and 'Ea and Atrakhasis.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: quote
+  locator: 26102-26108, 26117-26118
+  quote_or_summary: Entries include 'Engidu, friend of Gilgamesh,' 'Epic, Gilgamesh,'
+    'Gilgamesh Epic,' and 'Gishdubar. See Gilgamesh.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is an index, not a narrative passage. Extraction is strongest
+    for literal indexed topics and named relationships; motif candidates are tentative
+    because the index provides titles rather than episode content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external information was used. Motif candidates are based only on the supplied index entries.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l26029-l26149
+  passage_sha256=8ac9fcb59be5486b63ca8e34564762e389076cdcd1f8a110caed7ec0327987a8
+

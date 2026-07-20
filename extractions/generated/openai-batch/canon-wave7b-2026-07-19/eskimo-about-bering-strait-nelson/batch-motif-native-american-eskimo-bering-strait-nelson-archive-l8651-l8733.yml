@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l8651-l8733
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: TRAPS    AND    SNARES / BUREAU   OF  AMERICAN   ETHNOLOGY / BRAINING    CLUBS    AND    SEAL-CAPTURING    IMPLEMENTS    IONE-FIFTH)
+    / BIRD   SNARES   AND   NETS; lines 8651-8733
+  start: '8651'
+  end: '8733'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes several Eskimo methods for capturing ptarmigan and
+    other birds: winter sinew snares and brush fences, spring decoys that exploit
+    male ptarmigan territorial behavior, fine-meshed sinew nets with wooden spreaders,
+    a snow-and-moss bird decoy observed near the Yukon mouth, and communal capture
+    of migrating ptarmigan with salmon nets at dusk.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In winter, small sinew snares are set among bushes used by ptarmigan, and
+    brush fences with openings may guide birds into the snares.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One described snare has a stake, a rawhide running noose attached by sinew
+    lashing, and a twisted sinew cord for attaching it to a nearby bush.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In spring, male ptarmigan become pugnacious, call challenges, occupy knolls
+    or snow banks, and attack perceived rival males within their area.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hunters make a decoy by stuffing a ptarmigan skin and mounting it on a stick
+    with the head outstretched.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A hunter places the decoy conspicuously on a knoll or snowdrift, surrounds
+    it with a pale sinew net on slender sticks, hides nearby, imitates the challenge
+    note, and captures the attacking bird in the net.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Fine-meshed ptarmigan nets are made of sinew cord and may have wooden spreaders
+    and deerhorn points lashed to tapered lower ends.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Near the Yukon mouth in May, an Eskimo companion molded soft snow into the
+    form of a bird and added brown moss around the neck to imitate spring plumage.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After the first snow of winter, ptarmigan flocks migrate southward, mainly
+    at night or dusk, across the Kaviak peninsula toward river valleys.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: During migration, people capture low-flying ptarmigan by raising salmon nets
+    over flocks, holding the net down, wringing the birds' necks, and resetting the
+    net.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eskimo hunters and people
+  description: People described as using snares, decoys, nets, and salmon nets to
+    capture ptarmigan and water fowl.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Ptarmigan
+  description: Birds taken by snares, decoys, arrows, and nets; male ptarmigan are
+    described as territorial and responsive to challenge calls in spring.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Eskimo companion near the Yukon mouth
+  description: A companion observed by the narrator molded a snow bird decoy with
+    brown moss and called nearby ptarmigan.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Salmon-net holders
+  description: A man or woman at each end of the net and another person in the middle
+    hold and raise the salmon net during ptarmigan migration.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: hunter or trapper
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes these people setting snares, placing decoys, imitating
+    calls, and using nets to take birds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:2
+  label: target game bird
+  assigned_to:
+  - fig:2
+  basis: Ptarmigan are the birds repeatedly captured by snares, decoys, arrows, and
+    nets.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: territorial rival responder
+  assigned_to:
+  - fig:2
+  basis: Male ptarmigan are described as attacking perceived rivals after hearing
+    challenge calls.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: communal net operators
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The migration capture method requires people at the ends and middle of a
+    salmon net to raise it, hold it down, and process captured birds.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: running noose snare
+  literal_form: Stake with rawhide running noose, sinew lashing, and twisted sinew
+    attachment cord
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: brush fence with openings
+  literal_form: Small brush fence built with openings where snares are set
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mounted bird-skin decoy
+  literal_form: Stuffed ptarmigan skin mounted on a stick with head outstretched
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fine-meshed sinew net
+  literal_form: Pale sinew-cord net supported by slender sticks or wooden spreaders
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: snow-and-moss bird image
+  literal_form: Soft snow molded into a bird form with brown moss placed around the
+    neck
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: salmon net used for bird capture
+  literal_form: Large salmon net, 50 to 100 feet long, spread by wooden rods and raised
+    over low-flying ptarmigan
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: knoll or snowdrift display point
+  literal_form: Small knoll, snow bank, or snowdrift used by ptarmigan as a vantage
+    point and by hunters as a place to set a decoy
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Winter snaring among bushes
+  summary: Small sinew snares are set in ptarmigan feeding or resting places, sometimes
+    in openings in brush fences that guide birds toward the nooses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Spring rival decoy and net capture
+  summary: A hunter uses a mounted ptarmigan skin, a concealed net, and an imitated
+    challenge call to draw an aggressive male ptarmigan into the net.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ptarmigan net implements
+  summary: Fine-meshed sinew nets from St Michael and Cape Prince of Wales are described
+    with spreaders, sticks, and deerhorn points used to hold the nets in position.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Snow bird decoy near the Yukon mouth
+  summary: An Eskimo companion makes a ptarmigan-like image from soft snow and brown
+    moss, places it on a knoll, and calls nearby birds; the narrator is told that
+    hunters formerly used this method when hunting without food.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Migration netting at dusk
+  summary: After first snow, migrating ptarmigan fly low at dusk or night; people
+    hold a salmon net on the ground, raise it over passing flocks, kill captured birds,
+    and reset the net.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Trap placed in an animal passage
+  taxonomy_refs: []
+  basis: Brush fences with openings are built so ptarmigan trying to pass through
+    are caught in snares.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a practical trapping pattern in an ethnographic passage, not a
+    myth narrative motif.
+- id: motif:2
+  label: Decoy rival lures territorial animal
+  taxonomy_refs: []
+  basis: The hunter uses a mounted ptarmigan skin and imitated challenge call to make
+    a male ptarmigan attack the supposed rival and become entangled in a net.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents this as a hunting technique; no symbolic or supernatural
+    interpretation is stated.
+- id: motif:3
+  label: Effigy made from local material as hunting decoy
+  taxonomy_refs: []
+  basis: A hunter molds snow into a bird form, adds moss to imitate plumage, places
+    it on a knoll, and calls ptarmigan toward it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The effigy is described as a practical imitation, not as a ritual image.
+- id: motif:4
+  label: Communal net capture of migrating birds
+  taxonomy_refs: []
+  basis: During migration, several people operate a large salmon net together to catch
+    low-flying flocks of ptarmigan.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports a subsistence-hunting pattern only.
+- id: motif:5
+  label: Seasonally changing hunting methods
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links different capture methods to winter snaring, spring male
+    ptarmigan behavior, May snow decoying, and first-snow migration netting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is supported only at the level of seasonal patterning;
+    the passage is ethnographic and does not present a mythic seasonal-cycle motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8651-8662
+  quote_or_summary: Winter ptarmigan are taken with small sinew snares set among bushes
+    or in openings of brush fences; one snare includes a stake, rawhide running noose,
+    sinew lashing, and attachment cord.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 8663-8689
+  quote_or_summary: In spring, male ptarmigan become aggressive and attack perceived
+    rivals; hunters exploit this by placing a stuffed bird-skin decoy on a knoll or
+    snowdrift, surrounding it with a pale sinew net, hiding nearby, and imitating
+    the challenge note so the bird flies in and is entangled.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 8690-8702
+  quote_or_summary: Fine-meshed ptarmigan nets from St Michael and Cape Prince of
+    Wales are described as sinew-cord nets with wooden spreaders, middle sticks, and
+    in one case deerhorn points lashed to tapered ends.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 8703-8713
+  quote_or_summary: Near the Yukon mouth in May, the narrator saw an Eskimo companion
+    mold snow into a bird shape, add brown moss at the neck, place it on a knoll,
+    and call up nearby ptarmigan; the companion said hunters formerly used this method
+    with arrows when on the tundra without food.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 8714-8724
+  quote_or_summary: After first snow, ptarmigan flocks migrate southward across the
+    Kaviak peninsula toward the Yukon and Kuskokwim valleys, flying mainly at night
+    and beginning near dusk.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 8725-8733
+  quote_or_summary: 'During migration, people use 50- to 100-foot salmon nets: persons
+    at each end and in the middle hold the net on the ground, raise it over low-flying
+    flocks, hold it down, wring captured birds'' necks, and reset the net; a hundred
+    or more may be caught in minutes.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are practical hunting-pattern
+    labels rather than mythic narrative motifs. No comparison claims were added because
+    the passage does not itself compare the techniques to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Source metadata identifies the text as public domain and training use allowed. Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l8651-l8733
+  passage_sha256=8e6d1d31dc5eeb96fb1a243dc32ebf2863a913e0c551c47da3367f66582acf3b
+

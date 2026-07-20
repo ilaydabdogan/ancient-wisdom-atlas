@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l6385-l6400
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: K A F U E / THE MONO FISH-TRAP. / PLAN OF THE MIELO WEIR. / THE MIELO IN
+    POSITION (NEARER VIEW).; lines 6385-6400
+  start: '6385'
+  end: '6400'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes fishing in shallow floodwater by spearing, then describes
+    a winter and spring method of placing plant-based fish-poisons in pools. The poison
+    is said to make fish senseless and damage their eyes; the method is called kutwila.
+    Fish not needed immediately are dried.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fish are carried in floodwater, and men spear them while walking in shallow
+    water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fish-poisons are scattered in pools during winter and spring.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fish-poisons are made from pounded wild bulbs named tinde and kanyangalakata
+    and from the bark of chiwezeze.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The authors report that they have not seen the fish-poisoning operation, but
+    were told it is efficacious.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The poison is said to make fish senseless and especially to affect their eyes,
+    causing them to burst.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The fish-poisoning method is named kutwila.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Fish not required for immediate consumption are dried.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: men fishing in shallow water
+  description: Men walk in shallow floodwater and spear fish.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: fish
+  description: Fish are carried in floodwater, speared, affected by poison, and dried
+    if not needed immediately.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: fishers
+  assigned_to:
+  - fig:1
+  basis: They spear fish in shallow water.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: catch or target of fishing methods
+  assigned_to:
+  - fig:2
+  basis: Fish are speared in floodwater and are also affected by fish-poisons placed
+    in pools.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: floodwater and pools
+  literal_form: shallow water, flood, pools
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: plant-based fish-poison
+  literal_form: pounded wild bulbs tinde and kanyangalakata and bark of chiwezeze
+    used as fish-poison
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: drying of fish
+  literal_form: fish dried when not needed for immediate consumption
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Spearing fish in shallow floodwater
+  summary: Men walk in shallow water where fish have been carried by floodwater and
+    spear them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kutwila fish-poisoning in pools
+  summary: In winter and spring, plant-based fish-poisons are placed in pools; the
+    poison is said to make fish senseless and damage their eyes.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Drying surplus fish
+  summary: Fish not required for immediate eating are dried.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: floodwater fish spearing
+  taxonomy_refs: []
+  basis: The passage describes men walking in shallow floodwater and spearing fish
+    carried there by the flood.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a descriptive subsistence practice rather than a mythic narrative
+    motif; no listed motif-family taxonomy is assigned.
+- id: motif:2
+  label: seasonal plant-poison fishing
+  taxonomy_refs: []
+  basis: The passage describes winter and spring use of pounded bulbs and bark as
+    fish-poison in pools, with the method named kutwila.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic technique, not a demonstrated mythological motif;
+    effects of the poison are reported secondhand in the passage.
+- id: motif:3
+  label: preservation of surplus fish by drying
+  taxonomy_refs: []
+  basis: The passage states that fish not needed for immediate consumption are dried.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a practical food-preservation pattern and carries no explicit
+    symbolic or mythic interpretation in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6385-6388
+  quote_or_summary: "“the men simply walk about in the shallow water and spear them.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 6390-6394
+  quote_or_summary: Fish-poisons are scattered in pools in winter and spring; they
+    are made by pounding wild bulbs named tinde and kanyangalakata and the bark of
+    chiwezeze.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6394-6398
+  quote_or_summary: The authors say they have not seen the operation but were told
+    it is very effective; the poison makes fish senseless and is said especially to
+    damage their eyes, causing them to burst.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 6398-6399
+  quote_or_summary: "“This method of fishing is named kutwila.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: line 6400
+  quote_or_summary: "“Fish not required for immediate consumption are dried,”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the provided passage. Candidate motifs are
+    framed as practical ethnographic patterns, not as mythological claims. No comparison
+    claims are made because the passage itself provides no comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact, common-inheritance, or archetypal comparison is inferred from this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l6385-l6400
+  passage_sha256=119158c87df18707145b43f5f64394dba8e9d86bd5453d4cb1bddbdb11270ea1
+

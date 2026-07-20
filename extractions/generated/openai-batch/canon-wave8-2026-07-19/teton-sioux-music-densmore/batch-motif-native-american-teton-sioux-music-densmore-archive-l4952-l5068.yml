@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l4952-l5068
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: TETOK  SIOUX  MUSIC / TETON  BIOTJX  MUSIC / ANALYSIS  OF  SIOITX  AND  CHIPPEWA  SONGS
+    / TETOK  SIOUX  MUSIC; lines 4952-5068
+  start: '4952'
+  end: '5068'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage analyzes structural features of Teton Sioux songs: initial
+    and final tones in relation to the keynote and overtones, downward melodic contour
+    toward a final or fundamental tone, song compass, falsetto range in three examples,
+    and scale-degree/tone-material groupings including pentatonic and diatonic materials.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that 86 percent of the songs under analysis begin on the
+    keynote and its first four overtones, described as comprising the tones of a common
+    chord.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: All except two songs are reported to end on the keynote, its third, or its
+    fifth; the two exceptions are described as too irregular in form for a keynote
+    to be designated.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The final-tone distribution is given as 26 percent ending on the fifth, 12
+    percent on the third, and 61 percent on the keynote.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage reports that 90 percent of the songs have their structure above
+    the final tone and that the structure appears to rest on a fundamental tone, usually
+    the keynote.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The melodic trend is described as downward, often becoming evident only in
+    the closing measures; a typical outline is given as g-e-c-A-G-E-C.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In 10 percent of the songs, the final tone is not the lowest tone; in these
+    cases the final tone is usually the keynote, preceded by a small ascent.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The compass analysis concerns the entire range of the song; the passage states
+    that the largest percentages are on eight and twelve tones, and that three songs
+    have a compass of seventeen tones.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The singers of the three songs with a compass of seventeen tones are described
+    as men with falsetto voices.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The tone-material discussion identifies several groups, including a second
+    five-toned scale, a fourth five-toned scale, a group using only major or minor
+    triad tones, and a group using all tones of the diatonic octave.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage reports that 49 percent of the songs contain only five scale degrees,
+    23 percent contain four scale degrees, and 6 and 2 percent contain seven and three
+    scale degrees respectively; one percentage in the OCR text for six scale degrees
+    is unclear.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: men with falsetto voices
+  description: Singers of three songs whose compass is described as seventeen tones,
+    or two octaves and two tones.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: singers
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the men with falsetto voices as singers of the three
+    songs with a seventeen-tone compass.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: keynote or fundamental tone
+  literal_form: keynote; fundamental tone
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: common-chord tone grouping
+  literal_form: keynote with its first four overtones; third and fifth in relation
+    to keynote
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: downward melodic outline
+  literal_form: g-e-c-A-G-E-C
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: small ascent before final tone
+  literal_form: ascent of a small interval before return to the final keynote
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: five-scale-degree tone material
+  literal_form: five-toned scale; five scale degrees
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Initial and final tone relations
+  summary: The passage analyzes where songs begin and end in relation to the keynote,
+    overtones, third, fifth, and common-chord tones.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Melodic contour and compass
+  summary: The passage describes most song structures as lying above a final or fundamental
+    tone, trending downward toward the close, with a minority showing a small ascent
+    before the final tone; it also discusses total compass and identifies three high-compass
+    songs sung by men with falsetto voices.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Tone material and scale-degree counts
+  summary: The passage classifies songs by tone material, including five-toned, triadic,
+    and diatonic groupings, and reports percentages for songs containing different
+    numbers of scale degrees.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: melodic descent to a fundamental or final tone
+  taxonomy_refs: []
+  basis: The passage states that song structure appears to rest on a fundamental tone,
+    usually the keynote, and that the melodic trend is downward, often most apparent
+    in the closing measures.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a music-analytic pattern, not a mythic narrative motif; no supplied
+    taxonomy motif is assigned.
+- id: motif:2
+  label: tonal centering on keynote and common-chord tones
+  taxonomy_refs: []
+  basis: The passage reports that 86 percent of songs begin on the keynote and its
+    first four overtones, and that nearly all songs end on the keynote, third, or
+    fifth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a structural musical pattern rather than a symbolic or narrative
+    motif.
+- id: motif:3
+  label: prominence of five-toned or five-degree tone material
+  taxonomy_refs: []
+  basis: The passage identifies five-toned scale groups and states that 49 percent
+    of songs contain only five scale degrees.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is partly affected by OCR garbling in the final scale-degree
+    percentage list; no mythological taxonomy mapping is supported.
+- id: motif:4
+  label: extended compass associated with falsetto singing
+  taxonomy_refs: []
+  basis: The passage states that three songs have a compass of seventeen tones and
+    that their singers were men with falsetto voices.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This pattern is based on only three songs as described in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4952-4966
+  quote_or_summary: The passage states that 13 percent of songs begin on the third
+    and tenth above the keynote, 5 percent begin on the keynote, and 86 percent begin
+    on the keynote and its first four overtones, which comprise common-chord tones.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4967-4982
+  quote_or_summary: 'The passage explains Table 3A: all except two songs end on the
+    keynote, third, or fifth; 26 percent end on the fifth, 12 percent on the third,
+    and 61 percent on the keynote; two irregular songs have no designated keynote.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4983-5005
+  quote_or_summary: 'The passage explains Table 4A: 90 percent of songs have structure
+    above the final tone; the structure appears to rest on a fundamental tone, usually
+    the keynote; the trend is downward with a typical outline g-e-c-A-G-E-C; in 10
+    percent the final tone is not the lowest and is usually preceded by a small ascent.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source metadata; summarized with brief musical outline
+    retained.
+- id: ev:4
+  type: summary
+  locator: lines 5006-5029
+  quote_or_summary: The compass table concerns the entire song range; the largest
+    percentages are on eight and twelve tones; three songs have a compass of seventeen
+    tones, or two octaves and two tones, and the singers of these songs were men with
+    falsetto voices.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5030-5068
+  quote_or_summary: The tone-material table distinguishes scale character from number
+    of scale degrees; it lists five-toned, triadic, and diatonic octave groupings,
+    and reports that 49 percent contain five scale degrees, 23 percent contain four,
+    with further percentages for seven and three degrees; OCR makes one percentage
+    unclear.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a technical music-analysis passage rather than a mythic narrative.
+    Extraction is limited to literal musical structures and patterns; some OCR corruption
+    affects exact wording and at least one percentage near the end.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied mythological taxonomy motif or symbol is directly supported by the passage. Musical pattern elements are recorded without taxonomy references.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l4952-l5068
+  passage_sha256=b17cdad02c2406b0961ee80475ee4d89b74a196d1d5ed9cbfa9e7e0f65d4645f
+

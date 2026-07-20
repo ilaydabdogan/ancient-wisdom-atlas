@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l341-l358
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: LITTLE RUSSIAN STORIES FROM SOUTH RUSSIA                         156 / GREAT
+    RUSSIAN STORIES                                            164 / BULGARIAN STORIES                                                175
+    / SERBIAN STORIES                                                  204; lines
+    341-358
+  start: '341'
+  end: '358'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: XLIII. The Dragon and the Prince (_Azhdaya i Tsarev Sin_).
+  summary: 'A table-of-contents segment under “Serbian Stories” lists five story entries:
+    “The Lame Fox,” “The Sons'' Oath to their Dying Father,” “The Wonderful Hair,”
+    “The Dragon and the Prince,” and “Fate,” with source references and page numbers.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage marks a section headed “SERBIAN STORIES” with page number 204.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Entry XL is titled “The Lame Fox” and gives the Slavonic title “Shantava Lisitsa.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Entry XLI is titled “The Sons' Oath to their Dying Father” and gives the Slavonic
+    title “Ochina Zakletva.”
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Entry XLII is titled “The Wonderful Hair” and gives the Slavonic title “Chudovata
+    Dlaka.”
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Entry XLIII is titled “The Dragon and the Prince” and gives the Slavonic title
+    “Azhdaya i Tsarev Sin.”
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Entry XLIV is titled “Fate” and gives the Slavonic title “Usud.”
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lame Fox
+  description: A fox named in the title “The Lame Fox.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Sons
+  description: The sons named in the title “The Sons' Oath to their Dying Father.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Dying Father
+  description: The father named as dying in the title “The Sons' Oath to their Dying
+    Father.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Dragon
+  description: A dragon named in the title “The Dragon and the Prince.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Prince
+  description: A prince named in the title “The Dragon and the Prince.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: title figure
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:5
+  basis: These beings or persons are named directly in story titles.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: sons bound to an oath in title
+  assigned_to:
+  - fig:2
+  basis: The title identifies the sons in relation to an oath to their dying father.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: dying father in title
+  assigned_to:
+  - fig:3
+  basis: The title identifies the father as dying and as the recipient or focus of
+    the sons' oath.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fox
+  literal_form: lame fox
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hair
+  literal_form: wonderful hair
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: dragon
+  literal_form: dragon
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: oath
+  literal_form: sons' oath to their dying father
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: fate
+  literal_form: Fate / Usud
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Table-of-contents listing of Serbian tales
+  summary: The passage lists five Serbian story titles with numbering, transliterated
+    titles, source attributions, and page numbers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: deathbed oath to a father
+  taxonomy_refs:
+  - covenant
+  basis: The title “The Sons' Oath to their Dying Father” explicitly names an oath
+    made in relation to a dying father.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is only a table of contents; it does not narrate the oath,
+    its terms, or consequences.
+- id: motif:2
+  label: dragon and prince title pairing
+  taxonomy_refs: []
+  basis: The title “The Dragon and the Prince” directly juxtaposes a dragon and a
+    prince.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: No action or conflict is described in the passage, so the motif function
+    cannot be established.
+- id: motif:3
+  label: wonderful hair as named object
+  taxonomy_refs: []
+  basis: The title “The Wonderful Hair” identifies hair as a remarkable object.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage provides no narrative details about the hair’s origin, powers,
+    owner, or use.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 341-342
+  quote_or_summary: "“SERBIAN STORIES                                                  204”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 343-345
+  quote_or_summary: "“XL. The Lame Fox (_Shantava Lisitsa_). The 'Podunavka,' 1848,
+    Nos. 48, 49”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:3
+  type: quote
+  locator: lines 346-349
+  quote_or_summary: "“XLI. The Sons' Oath to their Dying Father (_Ochina Zakletva_).
+    Vuk St. Karadsich, 'Serbian National Tales,' p. 109”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:4
+  type: quote
+  locator: lines 350-351
+  quote_or_summary: "“XLII. The Wonderful Hair (_Chudovata Dlaka_). Vuk St. Karadsich,
+    'Serbian National Tales,' p. 154”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:5
+  type: quote
+  locator: lines 352-355
+  quote_or_summary: "“XLIII. The Dragon and the Prince (_Azhdaya i Tsarev Sin_). Vuk
+    St. Karadsich, 'Serbian National Tales,' p. 54”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:6
+  type: quote
+  locator: lines 356-358
+  quote_or_summary: "“XLIV. Fate (_Usud_). Vuk St. Karadsich, 'Serbian National Tales,'
+    p. 89”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for identification.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The extraction of title-level entities is high confidence, but motif candidates
+    are limited because the passage is a table of contents rather than a narrative
+    passage. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  This record is based only on the supplied table-of-contents lines; no narrative details from the listed tales were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l341-l358
+  passage_sha256=35150fcea081fa1af8c3d79e02fc3887ac3e038ee58a0a7cb183e73c4444c772
+

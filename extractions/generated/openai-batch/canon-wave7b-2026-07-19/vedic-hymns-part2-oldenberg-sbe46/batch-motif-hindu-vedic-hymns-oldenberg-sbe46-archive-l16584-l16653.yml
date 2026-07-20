@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l16584-l16653
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA IV, HYMN 6.. 341 / NOTES. / NOTES, / MANDALA IV, HYMN 7. 345; lines
+    16584-16653
+  start: '16584'
+  end: '16653'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: This passage consists of editorial notes for adjacent Vedic hymn material,
+    especially Mandala IV, Hymn 7. It discusses metrical and textual issues, possible
+    identification of seven entities as flames or tongues of Agni, a proposed interpretation
+    involving grass or tinder holding a spark, Agni as the child of wood, and lexical
+    comparisons for the word anna.
+  language: English with Sanskrit transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'A note on verse 5 offers three possible identifications: seven flames or
+    tongues of Agni, seven Hotrs, or seven Ratnas.'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note on verse 6 gives a cross-reference to IX, 107, 18 and quotes a Sanskrit
+    transliteration snippet.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note on verse 7 says the meaning of viyuta is uncertain and records a proposal
+    involving removal of grass or tinder in which a spark is kept.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note on verse 8 directs comparison with Hymn 8, verse 4.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A note on verse 9 states that Agni is the child of wood.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A note on verse 11 takes anna as an instrumental and compares the usage with
+    several cited Vedic passages.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named in the notes as possibly associated with seven flames or tongues
+    and as the child of wood.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: wood
+  description: Described in a note as that of which Agni is the child.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: possible possessor of seven flames or tongues
+  assigned_to:
+  - fig:1
+  basis: The note asks whether the seven are flames or tongues of Agni, while also
+    offering alternate identifications.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: child of wood
+  assigned_to:
+  - fig:1
+  basis: The note states that the wood is that of which Agni is the child.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: parent or material source of Agni
+  assigned_to:
+  - fig:2
+  basis: The phrase 'the child of which is Agni' assigns wood a parent/source relation
+    to Agni.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Agni as fire
+  literal_form: Agni named with possible flames or tongues and in relation to wood
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: seven flames or tongues
+  literal_form: seven flames or tongues of Agni
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tinder holding a spark
+  literal_form: grass or tinder in which the spark is kept
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wood as source of Agni
+  literal_form: wood, the child of which is Agni
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Editorial notes on Agni and kindling imagery
+  summary: The notes identify or propose images involving Agni, sevenfold flames or
+    tongues, tinder holding a spark, and Agni as child of wood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fire-deity as child of wood
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The note on verse 9 explicitly states that Agni is the child of wood.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The source line is an editorial note, not a full narrative passage; the
+    parent-child relation may reflect ritual kindling imagery or metaphor.
+- id: motif:2
+  label: sevenfold fire or priestly entities
+  taxonomy_refs: []
+  basis: The note on verse 5 asks whether the seven entities are flames or tongues
+    of Agni, Hotrs, or Ratnas.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The note is phrased as uncertainty and gives multiple possible identifications.
+- id: motif:3
+  label: spark kept in tinder
+  taxonomy_refs: []
+  basis: A proposed interpretation mentions removal of grass or tinder in which a
+    spark is kept.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The interpretation is attributed as a proposal for an uncertain term,
+    not as a settled reading.
+comparison_claims:
+- id: claim:1
+  claim: The notes explicitly point to IX, 107, 18 as a comparable passage for the
+    wording in the note on verse 6.
+  claim_level: linguistic_similarity
+  target: Rigveda IX, 107, 18
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Only a cross-reference and a transliterated phrase are supplied; no
+    mythic or symbolic relationship is explained.
+- id: claim:2
+  claim: The notes compare the verse 8 material with Mandala IV, Hymn 8, verse 4.
+  claim_level: linguistic_similarity
+  target: Mandala IV, Hymn 8, verse 4
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives only a direction to compare; it does not state the
+    basis of similarity.
+- id: claim:3
+  claim: The notes compare the use of anna in verse 11 with several other Vedic passages.
+  claim_level: linguistic_similarity
+  target: VII, 3, 4; X, 79, 5; X, 91, 7; X, 113, 8
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is grammatical or lexical and does not establish a motif
+    relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16591-16594
+  quote_or_summary: "“The seven flames or tongues of Agni? The seven Hotrzs? The seven
+    Ratnas?”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 16596-16599
+  quote_or_summary: "“Cf. 1X, 107, 18. pari gdbhiz uttaraz sidan vaneshu avyata.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 16607-16616
+  quote_or_summary: 'The note says viyuta is uncertain and quotes a proposal: “at
+    the removal of the grass or tinder in which the spark is kept.”'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: line 16624
+  quote_or_summary: "“With this verse, compare below, hymn 8, verse 4.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 16626-16627
+  quote_or_summary: "“The wood, the child of which is Agni.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 16631-16635
+  quote_or_summary: The note takes anna as instrumental and compares VII, 3, 4; X,
+    79, 5; X, 91, 7; and X, 113, 8.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is an editorial notes section rather than a continuous hymn text,
+    and some OCR/transliteration is corrupt. Motif extraction is therefore limited
+    to explicit notes about Agni, wood, flames, tinder, and cross-references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical contact or broad comparative mythology claims are made. Cross-references are limited to those explicitly supplied in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l16584-l16653
+  passage_sha256=f0a1def3a1e596cc9f4cf90cbbeff13d25a70f73e77191d67737ed5e7b7fd55b
+

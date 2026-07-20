@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l12156-l12182
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: 'A CONVERSATION WITH TSZE-LT). / A CONVERSATION WITH TSZE-KUNG. / ABLB MIXISTKKS:
+    SEEX IN THE / DEFENSE OF HIMSELF FROM THE; lines 12156-12182'
+  start: '12156'
+  end: '12182'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a fragment of Legge's notes and headings. It identifies
+    a defense of Confucius against an aged reprover, comments on Wei-shang addressing
+    Confucius by name and on a contemptuous image of perching or roosting, glosses
+    a phrase as holding one idea without intelligence, and introduces a section contrasting
+    virtue with strength by reference to a famous swift horse.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage heading frames the material as a defense of Confucius against
+    the charge of an aged reprover.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Wei-shang is said to have addressed Confucius by name, and the note infers
+    from this that Wei-shang was an old man.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentary states that such liberty by a young man would have been impudence.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Wei-shang is presumed to have been one of those men who retired from the world
+    in disgust.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A term meaning to perch or roost like a bird is explained as used contemptuously
+    with reference to Confucius going among princes and wishing to be called to office.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A phrase is glossed as holding one idea without intelligence.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A following numbered section states that virtue, not strength, is the proper
+    subject of praise.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A famous horse of antiquity is described as able to run 1000 li in one day
+    and as used generally for a good horse.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The next heading begins with the statement that good is not to be returned,
+    but the passage cuts off before further explanation.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Confucius
+  description: Person addressed by Wei-shang by name and referenced as going about
+    among princes and wishing to be called to office.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Wei-shang
+  description: Person who addressed Confucius by name; the commentary presumes him
+    to have been an old man and retired from the world in disgust.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: famous horse of antiquity
+  description: A horse noted for being able to run 1000 li in one day and used generally
+    as a good horse.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: aged reprover or retired critic
+  assigned_to:
+  - fig:2
+  basis: The heading names an aged reprover, and the note infers that Wei-shang was
+    old and retired from the world in disgust.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: target of reproach
+  assigned_to:
+  - fig:1
+  basis: The heading describes a charge against Confucius, and the note says a contemptuous
+    expression referred to Confucius going among princes and wishing to be called
+    to office.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: example of speed or strength
+  assigned_to:
+  - fig:3
+  basis: The horse is introduced in a section contrasting virtue with strength and
+    is described by its extraordinary speed.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: perching or roosting bird image
+  literal_form: A term glossed as to perch or roost, as a bird.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: good horse
+  literal_form: A famous horse of antiquity able to run 1000 li in one day.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Aged reprover and Confucius
+  summary: The commentary explains a passage in which Wei-shang addresses Confucius
+    by name; he is inferred to be an aged, retired man, and a bird-roosting image
+    is described as a contemptuous reference to Confucius seeking office among princes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Virtue rather than strength
+  summary: A numbered section states that virtue, not strength, is the proper subject
+    of praise and illustrates strength by reference to a famed horse that could run
+    1000 li in a day.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: retired elder reproves a public teacher
+  taxonomy_refs: []
+  basis: The passage heading and commentary identify an aged or retired reprover associated
+    with a charge against Confucius, who is described as moving among princes and
+    seeking office.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is commentary and headings rather than the full dialogue;
+    the exact charge is not fully preserved in the supplied excerpt.
+- id: motif:2
+  label: virtue praised above physical strength
+  taxonomy_refs:
+  - wisdom
+  basis: The section heading explicitly contrasts virtue with strength as the proper
+    object of praise, and the horse gloss supplies an example of extraordinary physical
+    capacity.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The available text is a brief note, not a complete narrative; the taxonomy
+    link to wisdom is broad and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12156-12158
+  quote_or_summary: '"DEFENSE OF HIMSELF FROM THE / CHARGE OF AN AGED REPROVER."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: 12159-12164
+  quote_or_summary: The note says Wei-shang addressed Confucius by name, from which
+    it is presumed that Wei-shang was an old man; it adds that such liberty by a young
+    man would have been impudence.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: 12164-12172
+  quote_or_summary: The note presumes Wei-shang was among men retired from the world
+    in disgust, and explains a word meaning to perch or roost as used contemptuously
+    of Confucius going among princes and wishing office.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:4
+  type: quote
+  locator: 12172-12174
+  quote_or_summary: '"holding one idea without intelligence."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: 12176-12181
+  quote_or_summary: Section 35 is headed as virtue, not strength, being the fit subject
+    of praise; it glosses a famous horse of antiquity as able to run 1000 li in one
+    day and as generally meaning a good horse.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:6
+  type: quote
+  locator: '12182'
+  quote_or_summary: '"36. GOOD is NOT TO BE RETURNED"'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; full text use allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The supplied passage is fragmentary and contains OCR artifacts; much of it
+    is commentary rather than the primary Analects text. No comparison claims were
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata. Taxonomy refs were used only where directly supported at a broad level.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l12156-l12182
+  passage_sha256=47cd8d4f2404906f357d3eb658939f02b40c3217030b6a9b6972b9d68345772e
+

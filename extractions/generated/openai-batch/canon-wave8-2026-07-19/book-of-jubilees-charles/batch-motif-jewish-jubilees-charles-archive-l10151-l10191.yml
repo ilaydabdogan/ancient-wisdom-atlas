@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l10151-l10191
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER VII. 22-31 63 / CHAPTER VII. 32-39 65 / CHAPTER VIII. 1-7 / CHAPTER
+    VIII. 8-12; lines 10151-10191
+  start: '10151'
+  end: '10191'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Commentarial notes discuss geographical boundary language in Jubilees,
+    including Shem’s portion extending toward the Gihon/Nile, the meaning of Rhinocurura
+    and the torrent of Egypt, lexical ambiguity around the word rendered as a land
+    or sea “tongue,” and identifications involving the Red Sea, Gulf of Aqaba, Mt.
+    Sinai, and directional boundary terms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says Shem’s portion extends westward as far as the mouths of the
+    Gihon, identified parenthetically with the Nile.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says Rhinocurura is used by the LXX in translating the phrase “the
+    torrent of Egypt,” described as a town on the confines of Egypt and Palestine.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The word lesin is said to be renderable as “promontory” for land or as “bay”
+    or “gulf” for sea.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The phrase “tongue which looks towards the south” is interpreted as possibly
+    referring to a promontory running into the Red Sea, on which Mt. Sinai is situated.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The “tongue of the Egyptian Sea” is identified with the Gulf of Aqaba at the
+    north of the Red Sea.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The note says two verses should mainly describe southern, eastern, and north-eastern
+    boundaries, and adds that Samén can be rendered as either “south” or “north.”
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Shem
+  description: Named as the figure whose portion is described as extending westward
+    to the mouths of the Gihon/Nile.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: territorial portion holder
+  assigned_to:
+  - fig:1
+  basis: The passage refers to “Shem’s portion” and describes its westward extent.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Gihon/Nile mouths
+  literal_form: river mouths identified as the Gihon/Nile
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: torrent of Egypt / Rhinocurura
+  literal_form: watercourse name and boundary town associated with Egypt and Palestine
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: geographical tongue
+  literal_form: term lesin, renderable as promontory, bay, or gulf
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Red Sea / Gulf of Aqaba / Egyptian Sea
+  literal_form: sea and gulf boundary features
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Mt. Sinai
+  literal_form: mountain situated on the promontory described in the note
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Shem’s portion and western boundary
+  summary: The note discusses the westward extent of Shem’s portion to the Gihon/Nile
+    and comments on related boundary terminology near Egypt and Palestine.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lexical interpretation of the sea tongue
+  summary: The note explains the ambiguity of a term meaning promontory, bay, or gulf,
+    and connects this boundary feature with the Red Sea, Gulf of Aqaba, and Mt. Sinai.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Directional boundary clarification
+  summary: The note summarizes that the verses concern southern, eastern, and north-eastern
+    boundaries and comments on ambiguity in the direction word Samén.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: territorial allotment by natural boundaries
+  taxonomy_refs: []
+  basis: The passage repeatedly frames territorial extent through rivers, river mouths,
+    sea tongues, gulfs, promontories, mountains, and directional boundary markers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The supplied passage is commentarial and geographical rather than a narrative
+    mythic episode; the motif label describes a boundary-pattern, not a full narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly says the text concerning the “tongue of the Egyptian
+    Sea” is the literal equivalent of Isaiah xi.15.
+  claim_level: linguistic_similarity
+  target: Isaiah 11:15
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a lexical or textual comparison only; it does not establish
+    a shared narrative motif.
+- id: claim:2
+  claim: The note compares Rhinocurura with the LXX rendering of “the torrent of Egypt.”
+  claim_level: linguistic_similarity
+  target: LXX rendering of “the torrent of Egypt” as cited in the note
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited reference in the supplied passage appears affected by OCR
+    or typographic corruption; no broader historical-contact or motif claim is warranted
+    from this excerpt alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10151-10156
+  quote_or_summary: The passage states that Shem’s portion extends westward as far
+    as the mouths of the Gihon, identified with the Nile, and notes divergence by
+    later writers.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: quote
+  locator: 10156-10160
+  quote_or_summary: "“Rhinocurura is used by the LXX in translating ... ‘the torrent
+    of Egypt,’ a town on the confines of Egypt and Palestine.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 10162-10170
+  quote_or_summary: The note questions a phrase rendered with “bosom” and says lesin
+    may mean “promontory” of land or “bay”/“gulf” of sea.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 10172-10178
+  quote_or_summary: The “tongue which looks towards the south” may mean the promontory
+    running into the Red Sea on which Mt. Sinai is situated.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 10180-10185
+  quote_or_summary: The “tongue of the Egyptian Sea” is identified as the Gulf of
+    Aqaba at the north of the Red Sea, and the text is said to be the literal equivalent
+    of Isaiah xi.15.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: 10187-10191
+  quote_or_summary: The note says the verses describe mainly southern, eastern, and
+    north-eastern boundaries, and that Samén can mean either “south” or “north.”
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited by the fact that the supplied passage is mostly commentary
+    or notes with visible OCR artifacts rather than a continuous narrative passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional narrative figures or mythic actions were inferred beyond the supplied passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l10151-l10191
+  passage_sha256=c51a0eba42fe44a35a74aad0f44439b29bac5da921beb3249f1062a7bef67ab3
+

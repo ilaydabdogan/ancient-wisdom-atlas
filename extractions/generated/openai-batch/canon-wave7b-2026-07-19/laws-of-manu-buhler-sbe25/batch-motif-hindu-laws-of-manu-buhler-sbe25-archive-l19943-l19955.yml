@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l19943-l19955
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: Chapter  VIII. / VIII,  20.  CIVIL   AND   CEREMONIAL   LAW.  255 / VIII,  28.  CIVIL   AND    CRIMINAL   LAW.  257
+    / II,  S3-; lines 19943-19955
+  start: '19943'
+  end: '19955'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A commentary note defines property whose owner has disappeared as ownerless
+    or unidentified property found by royal servants, states that it should be proclaimed
+    by drum, reports an opinion that after three years the king may use it while remaining
+    obliged to restore it if the owner appears, and notes that the rule does not apply
+    to Brahmanical property.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage defines property whose owner has disappeared as property found
+    by royal servants whose owner is not known.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage gives a forest or another place as possible locations where the
+    property may be found.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that such property shall be proclaimed by beat of drum.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An opinion quoted in the passage says that after three years the king may
+    use the property as his own.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The same opinion says the king must restore the property if the owner appears.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage notes that the rule does not refer to Brahmanical property.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: royal servants
+  description: Servants of the king who may find property whose owner is unknown.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unknown or disappeared owner
+  description: The owner of the property is not known or has disappeared; the owner
+    may later appear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: king
+  description: The ruler who, according to one cited opinion, may use the property
+    after three years but must restore it if the owner appears.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Brahmanical property
+  description: A category of property excluded from the stated rule.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: finder on royal authority
+  assigned_to:
+  - fig:1
+  basis: The property is described as found by royal servants.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: absent claimant or owner
+  assigned_to:
+  - fig:2
+  basis: The owner is unknown or disappeared, but may later appear and receive restoration.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: temporary royal user with restoration obligation
+  assigned_to:
+  - fig:3
+  basis: A cited opinion allows the king to use the property after three years while
+    still requiring restoration to the owner if the owner appears.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: excluded property category
+  assigned_to:
+  - fig:4
+  basis: The passage states that the rule does not refer to Brahmanical property.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: drum proclamation
+  literal_form: beat of drum
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: unidentified property
+  literal_form: property whose owner has disappeared or is not known
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: forest find-place
+  literal_form: forest or elsewhere
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: three-year interval
+  literal_form: three years
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Identification and proclamation of ownerless property
+  summary: Property found by royal servants with no known owner is classed as property
+    whose owner has disappeared and is to be proclaimed by drum.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Royal use and possible restoration after three years
+  summary: A cited opinion allows the king to use the property after three years,
+    while maintaining the duty to restore it if the owner appears.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Exclusion of Brahmanical property
+  summary: The passage notes that the rule does not apply to Brahmanical property.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: lost property proclaimed before royal appropriation
+  taxonomy_refs: []
+  basis: The passage combines discovery of property with an unknown owner, public
+    proclamation, a waiting period, conditional royal use, and restoration if the
+    owner appears.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a legal-procedural pattern in a commentary note, not a mythic
+    narrative motif.
+- id: motif:2
+  label: protected or excluded sacred property category
+  taxonomy_refs: []
+  basis: The passage says that the rule for ownerless property does not apply to Brahmanical
+    property.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage only states an exclusion and does not narrate a symbolic or
+    mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19943-19947
+  quote_or_summary: The note defines property whose owner has disappeared as property
+    found by royal servants, in a forest or elsewhere, whose owner is not known.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19947-19948
+  quote_or_summary: Such property is to be proclaimed by beat of drum.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19949-19951
+  quote_or_summary: A cited opinion says that after three years the king may use the
+    property as his own, but must still restore it if the owner appears.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19951-19952
+  quote_or_summary: The note says that the rule does not refer to Brahmanical property.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a legal commentary note with clear procedural details. Motif
+    candidates are limited because the passage is not a mythic narrative and does
+    not itself support broader comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the available taxonomy entries are not directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l19943-l19955
+  passage_sha256=9ce70c7e2ef59372f21e967afb4fcebc64efaf848c190c8b9620b13f5f907941
+

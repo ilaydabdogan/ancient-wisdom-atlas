@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l3597-l3618
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: LABRETS / LABRETS / LABRETS / THE    ESKIMO    ABOUT    BERING    STRAIT;
+    lines 3597-3618
+  start: '3597'
+  end: '3618'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes labrets being removed to prevent lip freezing, carried
+    in a small bag, then replaced when approaching a village at night so the wearer
+    would appear properly before others. It also notes that labrets may be removed
+    while eating and before sleeping. A nearby figure caption identifies tattooing
+    on women from several locations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Labrets were removed to prevent the wearer's lip from freezing.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Removed labrets were carried in a small bag.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When approaching a village at night, the labrets were taken out and replaced.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Replacement of the labrets before entering the village was connected with
+    presenting a proper appearance before the people.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Labrets were sometimes removed when eating and before retiring for the night.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A figure caption refers to tattooing on women from south of Yukon mouth, East
+    Cape in Siberia, and the head of Kotzebue Sound.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Labret wearer
+  description: A person who removes, carries, and replaces labrets according to cold,
+    travel, eating, sleeping, and public-appearance contexts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: People of the village
+  description: People before whom the wearer presents a proper appearance after replacing
+    labrets.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Women in tattooing figure
+  description: Women shown or referenced in the figure caption concerning tattooing
+    from named Arctic locations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: wearer of labrets
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the labrets being removed, carried, and replaced by
+    the wearer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: village audience
+  assigned_to:
+  - fig:2
+  basis: The wearer replaces labrets to present a proper appearance before the people.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: subjects of tattooing illustration
+  assigned_to:
+  - fig:3
+  basis: The caption identifies tattooing on women in several locations.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: labrets
+  literal_form: Lip ornaments removed and replaced in specific contexts.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: small bag
+  literal_form: A small bag used to carry removed labrets.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tattooing on women
+  literal_form: Tattooing shown in a figure caption for women from named locations.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Labrets removed during cold exposure
+  summary: The wearer removes labrets so the lip will not freeze.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Labrets carried and replaced before village arrival
+  summary: The labrets are carried in a small bag and replaced when approaching a
+    village at night for proper public appearance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Labrets removed for eating and sleep
+  summary: 'The passage notes additional occasions when labrets may be removed: eating
+    and before retiring for the night.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Tattooing figure caption
+  summary: A figure caption identifies tattooing on women from south of Yukon mouth,
+    East Cape in Siberia, and the head of Kotzebue Sound.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: body ornament removed and restored according to context
+  taxonomy_refs: []
+  basis: The passage repeatedly describes labrets being removed for practical contexts
+    such as freezing risk, eating, and sleeping, then restored before public presentation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic practice pattern rather than a mythic narrative
+    motif; no supplied taxonomy family directly matches it.
+- id: motif:2
+  label: proper public appearance through adornment
+  taxonomy_refs: []
+  basis: The wearer replaces labrets before approaching a village so as to appear
+    properly before people.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a social-adornment pattern, but does not provide
+    broader symbolic or mythological interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3597-3601
+  quote_or_summary: Labrets were removed to prevent the lip from freezing.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3601-3603
+  quote_or_summary: The removed labrets were carried in a small bag.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3603-3616
+  quote_or_summary: At night, when approaching a village, labrets were replaced so
+    the wearer might present a proper appearance before the people.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3616-3618
+  quote_or_summary: Labrets were sometimes removed while eating and before retiring
+    for the night.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: figure caption within lines 3607-3612
+  quote_or_summary: Figure 11 is captioned as tattooing on women from south of Yukon
+    mouth, East Cape in Siberia, and the head of Kotzebue Sound.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal ethnographic details are clear. Motif candidates are limited
+    because the passage is not a mythic narrative and no available taxonomy reference
+    directly applies.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage itself does not support a comparison to another motif family, pattern, or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l3597-l3618
+  passage_sha256=3b4416eae4448aeebde36c10e4f36822efe0dc9e53dd1b477880e86e68e534a9
+

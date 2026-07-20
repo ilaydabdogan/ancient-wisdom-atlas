@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l1972-l1979
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XIX / SECTION XX / SECTION XXI / SECTION XXII; lines 1972-1979
+  start: '1972'
+  end: '1979'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A torch-bearing crowd enters a room and sees Kichaka lifeless on the ground,
+    drenched in blood and mutilated. They grieve, marvel at the superhuman overthrow,
+    and conclude that a Gandharva killed him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Thousands came to the spot carrying torches and went to the room.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They saw Kichaka lifeless, thrown on the ground, and drenched with blood.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kichaka is described as being without arms and legs, and the observers ask
+    where his neck and legs are.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The observers were filled with grief and amazement when looking at Kichaka.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The overthrow of Kichaka is called a superhuman act by the observers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The observers concluded that Kichaka had been killed by a Gandharva.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Kichaka
+  description: A lifeless, blood-drenched, mutilated body thrown on the ground in
+    the room.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Torch-bearing crowd
+  description: Thousands who come to the spot, enter the room, see Kichaka, grieve,
+    marvel, and draw a conclusion about his killer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: A Gandharva
+  description: A being named only in the observers' conclusion as the killer of Kichaka.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: slain and overthrown figure
+  assigned_to:
+  - fig:1
+  basis: Kichaka is lifeless, blood-drenched, mutilated, and described as overthrown.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: witnesses and interpreters
+  assigned_to:
+  - fig:2
+  basis: The crowd sees the body, reacts with grief and amazement, and concludes a
+    Gandharva killed Kichaka.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: attributed supernatural killer
+  assigned_to:
+  - fig:3
+  basis: The observers conclude that Kichaka had been killed by a Gandharva.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: torches
+  literal_form: Torches carried in hand by the crowd.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blood-drenched body
+  literal_form: Kichaka's lifeless body drenched with blood on the ground.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: mutilated limbs
+  literal_form: Kichaka's body described as without arms and legs, with observers
+    asking about his neck and legs.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Gandharva attribution
+  literal_form: A Gandharva named as the presumed killer.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Torch-bearing discovery in the room
+  summary: A large group arrives with torches, enters the room, and finds Kichaka's
+    lifeless, blood-drenched, mutilated body on the ground.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Superhuman killing attributed to a Gandharva
+  summary: The observers react with grief and amazement, call the overthrow superhuman,
+    and conclude that a Gandharva killed Kichaka.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Discovery of a mutilated corpse
+  taxonomy_refs: []
+  basis: A crowd enters a room and finds Kichaka lifeless, blood-drenched, and mutilated
+    on the ground.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a descriptive passage-level motif without a supplied taxonomy
+    match.
+- id: motif:2
+  label: Superhuman killing attributed to an otherworldly agent
+  taxonomy_refs: []
+  basis: The observers describe Kichaka's overthrow as a superhuman act and conclude
+    that he was killed by a Gandharva.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The Gandharva is an attributed killer in the observers' conclusion; the
+    passage does not directly show the killing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1972-1973
+  quote_or_summary: Thousands come to the spot with torches in hand and go to the
+    room.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1973-1975
+  quote_or_summary: They see Kichaka lifeless on the ground, drenched with blood,
+    and described as without arms and legs; they are filled with grief.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1975-1978
+  quote_or_summary: The observers are amazed, call the overthrow of Kichaka a superhuman
+    act, and ask where his neck and legs are.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1978-1979
+  quote_or_summary: '"they all concluded that he had been killed by a Gandharva."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is brief and clear for literal extraction. No external comparison
+    claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the supplied passage supports only descriptive motifs of corpse discovery and attributed supernatural killing.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l1972-l1979
+  passage_sha256=1f91c1361b57f7d78e11962eefae6acce95a147370e45743fcb1ddc1e16fe851
+

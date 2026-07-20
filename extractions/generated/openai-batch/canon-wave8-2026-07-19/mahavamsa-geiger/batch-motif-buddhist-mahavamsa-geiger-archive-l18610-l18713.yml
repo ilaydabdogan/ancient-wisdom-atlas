@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l18610-l18713
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: I I I / IV. 1 2 14 13 / APPENDIX C / APPENDIX D; lines 18610-18713
+  start: '18610'
+  end: '18713'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Appendix glossary entries define Pali terms for Buddhist architecture,
+    ritual, monastic ordination, canonical scriptures, social categories, supernatural
+    beings, and measurement. Items include thupa, cetiya, bodhi-tree structures, Tipitaka,
+    upasampada, uposatha, vedi/vedika, vihara, yakkha, and yojana.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A thupa is defined as an edifice serving as a relic receptacle or monument,
+    with a hemispherical or bell-shaped form, a base of three concentric stories,
+    a cubical tee, a spire, and an interior relic chamber below the tee.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cetiya is defined as a general term for sanctuary; the passage states that
+    a tree can be a cetiya and that the term is often used in the Mahavamsa as a synonym
+    for thupa.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage describes thupaghara or cetiyaghara as a house of the thupa or
+    cetiya, notes that some smaller thupas could have a roof or temple built over
+    them, and distinguishes bodhighara as building round rather than over the sacred
+    tree.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Tipitaka is defined as the collective name for Buddhist canonical scriptures,
+    divided into Vinaya-pitaka, Sutta-pitaka or Dhamma, and Abhidhamma-pitaka.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Upasampada is defined as the solemn ordination or higher consecration of a
+    monk who had been a novice until that time, performed by a chapter of the order.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Uposatha is defined as a Buddhist holy day for priests and laymen, occurring
+    four times a month on full moon, new moon, and the eighth days after each; two
+    of these days include recitation of Patimokkha precepts and confession of faults
+    by members of the order.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Uposathagara or uposathaghara is defined as a monastery building used for
+    uposatha ceremonies.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Vedi or vedika is defined as terrace or altar, including a stone terrace around
+    the bodhi-tree, and also as a terrace, staircase, parapet, or railing with balustrade.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Vihara is defined as a dwelling or habitation for gods and monks, hence a
+    temple or convent; the passage says the latter meaning prevails in the Mahavamsa.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Yakkha and yakkhini are defined as supernatural beings under the rule of Vessavana;
+    the passage also says that aboriginal inhabitants of Ceylon are frequently called
+    Yakkha in the Mahavamsa.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Yojana is defined as a measure of length, with tabular and practical estimates
+    supplied in the passage.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: monk or novice
+  description: A person who is a novice until receiving upasampada, the higher consecration
+    of the priesthood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: priests and laymen
+  description: Participants for whom uposatha is considered a holy day; members of
+    the order recite precepts and acknowledge faults.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Yakkha / yakkhini
+  description: Certain supernatural beings; in the Mahavamsa the aboriginal inhabitants
+    of Ceylon are frequently called Yakkha.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: Vessavana
+  description: The named ruler under whom the Yakkha are said to be; Sanskrit Vaiśravana,
+    name of the god Kubera, is given parenthetically in the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: ordination recipient
+  assigned_to:
+  - fig:1
+  basis: The passage defines upasampada as ordination of one who had been a novice
+    until that time.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: uposatha observant or participant
+  assigned_to:
+  - fig:2
+  basis: The passage states that uposatha is holy for priests and laymen and includes
+    recitation and confession by members of the order.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: supernatural being
+  assigned_to:
+  - fig:3
+  basis: Yakkha are explicitly defined as certain supernatural beings.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: named aboriginal inhabitants in the Mahavamsa
+  assigned_to:
+  - fig:3
+  basis: The passage says the aboriginal inhabitants of Ceylon are frequently called
+    Yakkha in the Mahavamsa.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: ruler of Yakkha
+  assigned_to:
+  - fig:4
+  basis: The passage states that the Yakkha are under the rule of Vessavana.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: relic monument
+  literal_form: thupa with relic chamber
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sanctuary tree / bodhi-tree enclosure
+  literal_form: tree as cetiya; sacred bodhi-tree with building or terrace around
+    it
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: three baskets of scripture
+  literal_form: Tipitaka divided into Vinaya, Sutta or Dhamma, and Abhidhamma
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: lunar holy-day cycle
+  literal_form: uposatha days on full moon, new moon, and eighth days after each
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: sacred railing or terrace
+  literal_form: vedi or vedika as terrace, altar, balustrade, or railing around sacred
+    structures
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: monastic dwelling
+  literal_form: vihara as temple or convent, dwelling for gods or monks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: sacred tree as sanctuary
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage states that a tree can be a cetiya, discusses a bodhi-tree temple
+    built around rather than over the sacred tree, and mentions a stone terrace around
+    the bodhi-tree.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The passage is a glossary and architectural note, not a mythic narrative;
+    the axis aspect is not explicitly stated.
+- id: motif:2
+  label: relic-receptacle monument
+  taxonomy_refs: []
+  basis: The thupa is described as an edifice serving as a relic receptacle or monument,
+    with a relic chamber in its interior.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy family directly matches relic monument architecture.
+- id: motif:3
+  label: monastic initiation through higher ordination
+  taxonomy_refs:
+  - initiation
+  basis: Upasampada is defined as the solemn ordination by which a novice receives
+    the higher consecration of the priesthood.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a ritual definition rather than a narrative initiation episode.
+- id: motif:4
+  label: lunar ritual observance and confession
+  taxonomy_refs: []
+  basis: Uposatha is described as a holy day recurring four times in the lunar month,
+    with recitation of precepts and confession of faults by members of the order on
+    two days.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The monthly lunar cycle is explicit, but it is not described as a seasonal
+    cycle.
+- id: motif:5
+  label: supernatural local beings under a divine ruler
+  taxonomy_refs: []
+  basis: Yakkha are defined as supernatural beings ruled by Vessavana, and the Mahavamsa
+    is said to call the aboriginal inhabitants of Ceylon Yakkha.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage gives a terminological definition only and does not narrate
+    an encounter with Yakkha.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18610-18713, item 26 THUPA
+  quote_or_summary: Thupa is defined as a relic receptacle or monument with hemispherical
+    or bell form, base, tee, spire, and interior relic chamber.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain text; supplied metadata allows full-text use.
+- id: ev:2
+  type: summary
+  locator: lines 18610-18713, item 26 Cetiya paragraph
+  quote_or_summary: Cetiya is defined as a general term for sanctuary; the passage
+    notes that a tree can be a cetiya and that cetiya is often synonymous with thupa
+    in the Mahavamsa.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain text; supplied metadata allows full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 18610-18713, item 26 thupaghara/bodhighara discussion
+  quote_or_summary: The passage discusses a house or temple for a thupa/cetiya, roofed
+    structures over smaller thupas, and bodhighara as building round, not over, the
+    sacred tree.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain text; supplied metadata allows full-text use.
+- id: ev:4
+  type: summary
+  locator: lines 18610-18713, item 27 TIPITAKA
+  quote_or_summary: Tipitaka is defined as the 'three baskets,' the collective name
+    for Buddhist canonical scriptures, with three main divisions.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain text; supplied metadata allows full-text use.
+- id: ev:5
+  type: summary
+  locator: lines 18610-18713, item 28 UPASAMPADA
+  quote_or_summary: Upasampada is defined as solemn ordination by a chapter of the
+    order and higher consecration of the priesthood for one formerly a novice.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain text; supplied metadata allows full-text use.
+- id: ev:6
+  type: summary
+  locator: lines 18610-18713, item 29 UPOSATHA
+  quote_or_summary: Uposatha is defined as a Buddhist holy day four times monthly;
+    on two days the Patimokkha is recited and order members acknowledge faults; uposathaghara
+    is the monastery building for these ceremonies.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain text; supplied metadata allows full-text use.
+- id: ev:7
+  type: summary
+  locator: lines 18610-18713, item 30 VEDI or VEDIKA
+  quote_or_summary: Vedi/vedika is defined as terrace or altar, a stone terrace around
+    the bodhi-tree, and by extension a balustrade or railing used with thupas and
+    buildings.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain text; supplied metadata allows full-text use.
+- id: ev:8
+  type: summary
+  locator: lines 18610-18713, item 32 VIHARA
+  quote_or_summary: Vihara is defined as dwelling or habitation for gods and monks,
+    hence temple or convent, with convent meaning prevailing in the Mahavamsa.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain text; supplied metadata allows full-text use.
+- id: ev:9
+  type: summary
+  locator: lines 18610-18713, item 33 YAKKHA
+  quote_or_summary: Yakkha/yakkhini are defined as supernatural beings under Vessavana;
+    aboriginal inhabitants of Ceylon are frequently called Yakkha in the Mahavamsa.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain text; supplied metadata allows full-text use.
+- id: ev:10
+  type: summary
+  locator: lines 18610-18713, item 34 YOJANA
+  quote_or_summary: Yojana is defined as a measure of length, with both tabular equivalences
+    and practical estimates noted.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain text; supplied metadata allows full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a glossary rather than a narrative episode. Literal extraction
+    is strong; motif candidates are limited to ritual, architectural, and classificatory
+    patterns explicitly present. No comparison claims were added beyond supplied Pali/Sanskrit
+    term notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes were extracted because the supplied passage consists of definitions and explanatory notes.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l18610-l18713
+  passage_sha256=8cc24c51a9dfe56078b53984d57698e05b7e8321ce51403ebdd6a0495a09d87b
+

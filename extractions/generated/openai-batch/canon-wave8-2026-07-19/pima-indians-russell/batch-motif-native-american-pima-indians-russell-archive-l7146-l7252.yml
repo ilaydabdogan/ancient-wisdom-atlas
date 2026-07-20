@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l7146-l7252
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: BASKETRY / THE VTMA INDIANS / ABTIFACTS / AKTIFACTS; lines 7146-7252
+  start: '7146'
+  end: '7252'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Pima weaving equipment and textile artifacts: a
+    temple or stretcher for maintaining cloth width; old and new cotton belt/headbands
+    with colored patterns; National Museum belts and a loom; and an authorial statement
+    that the art of weaving these simple patterned fabrics had been abandoned.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A stretcher or temple was used to partially counter the tendency of woven
+    cloth to become narrower.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The temple had two longitudinal grooves and used short willow or arrowwood
+    stem sections, heavy thread, and sharpened stick ends placed under the selvage.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One old belt or headband was laid away by its owner wrapped around his long
+    hair after he had been induced to cut it off.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old belt or headband was made of tightly twisted cotton yarn in black,
+    white, green, and yellow, with a zigzag pattern on the visible side and no pattern
+    on the reverse side.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Another headband was made to order with a simpler design and style of weaving,
+    using black, white, and red.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Two belts or headbands in the National Museum, collected by Bartlett in 1850,
+    are described as double-woven multicolor cotton specimens.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A Pima loom collected by Doctor Palmer in 1885 had cactus-wood beams, an arrowwood
+    heddle, and a partly finished blanket described as smoothly and evenly woven.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that the art of weaving these simple fabrics and their
+    tasteful patterns had been abandoned.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unnamed owner of the old belt/headband
+  description: The owner whose long hair had been cut and around which the old belt/headband
+    had been wrapped.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Bartlett
+  description: Collector of two belts or headbands in 1850 that were in the National
+    Museum.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Doctor Palmer
+  description: Collector of a Pima loom in 1885 that was in the National Museum.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: owner or custodian of textile and cut hair
+  assigned_to:
+  - fig:1
+  basis: The passage says the old belt/headband's owner laid it away wrapped around
+    his long hair after the hair was cut.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: artifact collector
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Bartlett is named as the 1850 collector of two belts/headbands, and Doctor
+    Palmer is named as the 1885 collector of a Pima loom.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: weaving temple or stretcher
+  literal_form: Adjustable weaving tool with longitudinal grooves and willow or arrowwood
+    stem sections, used under the selvage to maintain cloth width.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: old belt/headband
+  literal_form: Cotton band in black, white, green, and yellow, with visible zigzag
+    pattern and unpatterned reverse, formerly wrapped around the owner's cut hair.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: zigzag pattern
+  literal_form: Colored zigzag design on the visible side of the old belt/headband.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: new belt/headband
+  literal_form: Simpler black, white, and red headband made to order.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: double-woven museum belts/headbands
+  literal_form: Cotton belts/headbands with multicolor double weaving; one specimen
+    has braided fringe threads joining two colors in each strand.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Pima loom with unfinished blanket
+  literal_form: Loom with cactus-wood beams, arrowwood heddle, batten, shuttle, and
+    a partly finished blanket.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Maintaining cloth width during weaving
+  summary: The passage explains how a temple or stretcher was used to help prevent
+    woven cloth from narrowing.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Old headband associated with cut hair
+  summary: An old belt/headband is described as having been stored wrapped around
+    its owner's cut hair and as bearing a colored zigzag design.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Documentation of Pima headbands and belts
+  summary: The passage describes a newer made-to-order headband and two older National
+    Museum belts/headbands collected in 1850, noting their colors, design complexity,
+    and double weaving.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Museum loom and abandonment of weaving art
+  summary: A Pima loom collected in 1885 is described, and the passage closes by stating
+    that the weaving of such simple patterned fabrics had been abandoned.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: zigzag woven ornament
+  taxonomy_refs: []
+  basis: The passage explicitly identifies a zigzag pattern on the visible side of
+    the old belt/headband.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a decorative textile motif only; no mythic, ritual, or symbolic
+    meaning is stated.
+- id: motif:2
+  label: textile associated with cut hair
+  taxonomy_refs: []
+  basis: The old belt/headband had been laid away wrapped around its owner's long
+    hair after the hair was cut.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain why the headband was wrapped around the cut
+    hair or assign ritual significance to the action.
+- id: motif:3
+  label: double-woven multicolor headband
+  taxonomy_refs: []
+  basis: The National Museum belts/headbands are described as double-woven cotton
+    textiles using multiple colors, with braided two-color fringe on one specimen.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an artifact and design motif; it is not linked in the passage
+    to mythological symbolism.
+- id: motif:4
+  label: abandoned traditional weaving art
+  taxonomy_refs: []
+  basis: The passage states that the weaving of these simple fabrics and tasteful
+    patterns had been abandoned and presents this loss as unfortunate.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is an authorial ethnographic evaluation rather than a narrative or
+    mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the old, new, and museum examples can be compared as
+    Pima belt/headband textiles sharing wearable function and colored woven design,
+    while differing in design complexity, colors, and double-weaving technique.
+  claim_level: same_function
+  target: Pima belts/headbands described in this passage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal artifact comparison only; it does not claim mythic
+    symbolism, historical contact, or common inheritance beyond the Pima context stated
+    in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7146-7252, opening temple/stretcher description
+  quote_or_summary: A stretcher or temple with two grooves, willow or arrowwood stem
+    sections, heavy thread, and sharpened stick ends helped keep woven cloth from
+    narrowing and could be adjusted under the selvage.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: 7146-7252, old belt/headband paragraph
+  quote_or_summary: An old belt/headband was laid away by its owner wrapped around
+    his cut long hair; it was tightly twisted cotton in black, white, green, and yellow
+    with a zigzag visible pattern and unpatterned reverse.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: 7146-7252, new belt/headband paragraph
+  quote_or_summary: A second headband was made to order in a simpler design and style
+    of weaving, using black, white, and red.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: 7146-7252, National Museum belts/headbands paragraph
+  quote_or_summary: Two National Museum belts/headbands collected by Bartlett in 1850
+    are described as double-woven multicolor cotton pieces; one has braided fringe
+    threads uniting two colors in each strand.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: summary
+  locator: 7146-7252, Doctor Palmer loom note
+  quote_or_summary: Doctor Palmer collected a Pima loom in 1885, now in the National
+    Museum, with cactus-wood beams, an arrowwood heddle, a partly finished blanket,
+    batten, shuttle, and smoothly woven cloth.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:6
+  type: summary
+  locator: 7146-7252, closing sentence
+  quote_or_summary: The author states that the abandonment of weaving these simple
+    fabrics and their tasteful patterns is unfortunate and not offset by improvement
+    in other directions.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The artifact descriptions are explicit. Motif candidates are limited to decorative
+    or ethnographic patterns because the passage does not provide mythic interpretation.
+    No available taxonomy references apply.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological beings, sacred narrative episodes, or supported taxonomy motif families are present in this passage. Symbols are recorded as literal artifact or design elements, not as interpreted symbolic meanings.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l7146-l7252
+  passage_sha256=6d00af2d3403f90fc69843a50b0c9abb5b53f74fd0503f4f9ab248f7269b513c
+

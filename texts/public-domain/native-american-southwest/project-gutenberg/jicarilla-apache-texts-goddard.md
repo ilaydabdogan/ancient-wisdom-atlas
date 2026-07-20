@@ -1,3 +1,65 @@
+---
+id: native_american.jicarilla_apache_texts.goddard_archive
+title: Jicarilla Apache Texts
+alternate_titles:
+- Jicarilla Apache Texts (AMNH Anthropological Papers vol. VIII)
+text_status: complete
+tradition: native_american_southwest
+culture: jicarilla_apache_verbatim_texts
+region: north_america_southwest_apache
+source_language: Jicarilla Apache (Athabaskan)
+text_language: English
+date_range: living oral traditions; recorded 1909 from named Jicarilla narrators;
+  published 1911 (Anthropological Papers of the AMNH, vol. VIII)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.jicarillaapachet0008godd
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1911 American Museum
+    of Natural History edition
+  translator: Pliny Earle Goddard
+  editor: ''
+  publication_year: 1911
+  publisher: Internet Archive
+  source_url: https://archive.org/details/jicarillaapachet0008godd
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1911, US public domain. Recording context - Athabaskan texts taken
+    by dictation with facing English translation by the leading Athabaskanist of the
+    period; emergence myth, culture-hero cycle, and coyote stories.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- apache
+- jicarilla
+- athabaskan
+- southwest
+- verbatim_texts
+- holdout_priority
+motifs:
+- emergence
+- monster_slayer
+- coyote_trickster
+- hactcin_spirits
+figures: []
+---
+
 # Jicarilla Apache Texts
 
 TRANSLATIONS.
@@ -1064,7 +1126,7 @@ say  that  Coyote  failed  and  Naiyenesganl  succeeded  in  Inducing  the  bulf
 lower  world.
 
 The  lUackfoot  have  a  somewhat  different  version  of  this  myth.  Wissler  and  Duvall,
-pp.  .')()-5S.  Tile  Gros  Venire   lo  not  appear  to  connect  Raven  with  the  retention  of  the
+pp.  .')()-5S.  Tile  Gros  Venire  <lo  not  appear  to  connect  Raven  with  the  retention  of  the
 buffalo,  an  old  woman  and  her  daughter  being  mentioned.  Kroeber,  (a),  p.  65.
 
 
@@ -1867,7 +1929,7 @@ while  Porcupine  watched  him.  When  Coyote  had  finished  he  gave  the
 intestines  to  Porcupine  saying,  “Wash  them  for  me.”  Porcupine  ate  some
 of  them  after  he  had  washed  them.  When  he  returned  with  them.  Coyote
 
-1  Dorsey,  ( l),  p.  102;  (a),  p.  458.
+1  Dorsey,  (<l),  p.  102;  (a),  p.  458.
 
 -  Russell,  (a),  p.  203;  Lowle,  (a),  p.  267;  Ma.son,  p.  31G;  Kroebcr,  (c),  p.  270;  Spindcn,
 
@@ -3394,7 +3456,7 @@ remained  there.
 When  it  was  fall  I  went  on  a  hunting  trip  for  deer  to  Gallinas.  From
 there  I  went  to  the  top  of  the  hill  where  the  canyons  meet  at  Cebolla.
 We  found  a  bunch  of  deer  there.  I  killed  one.  I  went  home  and  the  ne.xt
- lay  moved  the  camp  to  that  place.  After  two  days  I  moved  the  camp  east
+<lay  moved  the  camp  to  that  place.  After  two  days  I  moved  the  camp  east
 in  the  canyon.  Then  I  moved  to  Gallinas  and  to  a  place  called  TsekeL,
 “stone  flat”,  where  I  established  my  cainp.
 
@@ -4155,3 +4217,4 @@ Imlcx.
 
 
 ZIO
+

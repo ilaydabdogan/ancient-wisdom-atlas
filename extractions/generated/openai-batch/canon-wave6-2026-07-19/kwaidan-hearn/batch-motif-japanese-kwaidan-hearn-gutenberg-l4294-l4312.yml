@@ -1,0 +1,167 @@
+---
+record_id: batch.motif.japanese-kwaidan-hearn-gutenberg-l4294-l4312
+source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+passage_locator:
+  label: RIKI-BAKA / INSECT STUDIES / BUTTERFLIES / MOSQUITOES; lines 4294-4312
+  start: '4294'
+  end: '4312'
+  translation: 'Kwaidan: Stories and Studies of Strange Things'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: The Propriety-Insect.
+  summary: 'The passage gives explanatory notes: it identifies the Meiji period as
+    1868-1912, describes Western-style modernization in Japan, says Hearn lamented
+    its effects on traditional Japanese culture, and notes that the Japanese word
+    for ant, ari, is represented by an ideograph combining an insect character with
+    a character meaning moral rectitude or propriety.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies Meiji as the period in which Hearn wrote the book and
+    dates it from 1868 to 1912.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes Meiji Japan as undergoing Western-style modernization.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says Hearn lamented that Meiji fashions, changes, and disintegrations
+    were destroying some good things in traditional Japanese culture.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The excerpt includes the section headings “MOSQUITOES” and “ANTS,” and a note
+    glossed as “Cicadas.”
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the Japanese word for ant, ari, is represented by
+    an ideograph formed from a character for “insect” and a character meaning “moral
+    rectitude” or “propriety” (giri).
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage glosses the Chinese character for ant as meaning “The Propriety-Insect.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Hearn
+  description: The named writer of the book, described as lamenting the effects of
+    Meiji modernization on traditional Japanese culture.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: writer of the book
+  assigned_to:
+  - fig:1
+  basis: The passage says Meiji was the period in which Hearn wrote the book.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: commentator lamenting cultural change
+  assigned_to:
+  - fig:1
+  basis: The passage says Hearn lamented that modernization was destroying some good
+    things in traditional Japanese culture.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: ant as propriety-insect
+  literal_form: Japanese word for ant, ari, represented by an ideograph glossed as
+    “The Propriety-Insect.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: compound ideograph for ant
+  literal_form: Ideograph formed from the character for “insect” combined with the
+    character signifying “moral rectitude” or “propriety” (giri).
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: moralized insect naming
+  taxonomy_refs: []
+  basis: The passage presents the ant ideograph as combining insect with moral rectitude
+    or propriety and glosses it as “The Propriety-Insect.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a lexical and ideographic observation, not a narrative mythic
+    episode; no available taxonomy reference securely applies.
+comparison_claims:
+- id: claim:1
+  claim: The passage links the Japanese word ari for ant with a Chinese ideographic
+    character glossed as “The Propriety-Insect.”
+  claim_level: linguistic_similarity
+  target: Japanese ant term ari and its Chinese-character ideographic representation
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the lexical and orthographic explanation
+    given in the passage; it does not establish a broader mythological motif or historical
+    argument.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4296-4301
+  quote_or_summary: Meiji is dated 1868-1912; the note says Hearn wrote then and lamented
+    Western-style modernization’s effects on traditional Japanese culture.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:2
+  type: quote
+  locator: lines 4307-4311
+  quote_or_summary: The Japanese word for ant, ari, is represented by an ideograph
+    combining “insect” with “moral rectitude” or “propriety,” meaning “The Propriety-Insect.”
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+- id: ev:3
+  type: summary
+  locator: lines 4294, 4303-4305
+  quote_or_summary: 'The excerpt includes headings for MOSQUITOES and ANTS, followed
+    by a short note: “Cicadas.”'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain; Project Gutenberg source metadata indicates full text
+    allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily explanatory note material rather than narrative
+    myth. Symbol and linguistic-pattern extraction is well supported; motif classification
+    remains tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available motif-family or symbol taxonomy IDs were assigned because ant, insect, ideograph, and propriety are not present in the supplied taxonomy list.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:japanese-kwaidan-hearn-gutenberg__l4294-l4312
+  passage_sha256=d66a5327920fd2aed5a7b0d5bbd3c49b1d2098d6f2d3decbfb5c0e106388f8f7
+

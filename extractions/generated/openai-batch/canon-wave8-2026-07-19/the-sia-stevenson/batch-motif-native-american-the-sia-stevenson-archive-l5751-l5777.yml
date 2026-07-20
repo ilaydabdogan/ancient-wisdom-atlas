@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l5751-l5777
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: SOCIETY OF THE COUGAR. / SIA MASKS / SOCIETY OF WARRIORS. / BTEVBN80N.) SONGS.
+    123; lines 5751-5777
+  start: '5751'
+  end: '5777'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A song transcription is followed by a free translation invoking six Ho'chiinni
+    associated with tree species and directions. The speakers ask these beings to
+    send their peoples to work so that waters from the six great springs of the world
+    may impregnate Mother Earth and make her give fruits.
+  language: Sia/Keresan transcription with English free translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a song text in transcription followed by a free translation.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The free translation names Ho'chiinni associated with spruce/north, pine/west,
+    oak/south, aspen/east, cedar/zenith, and oak/nadir.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Ho'chiinni are asked to send all their peoples to work for the speakers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The requested work is linked to waters from the six great springs of the world
+    impregnating Mother Earth.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Mother Earth is expected to give the speakers the fruits of her being.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Six directional Ho'chiinni
+  description: 'Collective set of Ho''chiinni named with tree species and directions:
+    spruce of the north, pine of the west, oak of the south, aspen of the east, cedar
+    of the zenith, and oak of the nadir.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Peoples of the Ho'chiinni
+  description: The peoples whom the Ho'chiinni are asked to send to work for the speakers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Mother Earth
+  description: The earth is called the speakers' mother and is to be impregnated by
+    waters so that she gives fruits.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: invoked directional powers
+  assigned_to:
+  - fig:1
+  basis: They are directly addressed in the free translation and asked to send their
+    peoples.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: summoned workers
+  assigned_to:
+  - fig:2
+  basis: They are the peoples to be sent to work for the speakers.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: fertile mother and giver of fruits
+  assigned_to:
+  - fig:3
+  basis: The earth is called mother, receives the waters, and gives fruits.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: directional trees
+  literal_form: spruce, pine, oak, aspen, cedar, and oak linked respectively to north,
+    west, south, east, zenith, and nadir
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: six great springs of the world
+  literal_form: waters of the six great springs of the world
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: six-direction world ordering
+  literal_form: north, west, south, east, zenith, and nadir; also six great springs
+    of the world
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: Mother Earth image
+  literal_form: our mother the earth
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fruits of Mother Earth's being
+  literal_form: fruits of her being
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Invocation for waters and fertility
+  summary: 'The speakers invoke the six tree- and direction-associated Ho''chiinni,
+    ask them to send their peoples to work, and state the desired outcome: world-spring
+    waters impregnate Mother Earth so she gives fruits.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: six-direction invocation of tree-associated beings
+  taxonomy_refs: []
+  basis: The song addresses Ho'chiinni connected with six spatial directions and specific
+    trees.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader taxonomy reference is supplied for a six-direction invocation
+    pattern.
+- id: motif:2
+  label: life-giving waters fertilize Mother Earth
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The desired ritual outcome is that waters from six world springs impregnate
+    Mother Earth and lead to fruits.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage states the fertility process but does not spell out a full
+    seasonal calendar.
+- id: motif:3
+  label: Mother Earth as fertile parent
+  taxonomy_refs:
+  - mother_goddess
+  basis: The earth is explicitly called mother and is described as giving fruits after
+    receiving the waters.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage names Mother Earth
+    but does not explicitly call her a goddess.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5751-5777
+  quote_or_summary: The passage includes a song transcription and then a section labeled
+    as a free translation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5761-5773
+  quote_or_summary: The free translation enumerates Ho'chiinni of spruce/north, pine/west,
+    oak/south, aspen/east, cedar/zenith, and oak/nadir.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 5773-5774
+  quote_or_summary: '"send all your peoples to work for us"'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 5775-5777
+  quote_or_summary: The waters of the six great springs of the world are requested
+    to impregnate Mother Earth.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: line 5777
+  quote_or_summary: '"the fruits of her being"'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction relies on the supplied free translation. Motif assignments are
+    cautious because the passage is brief and embedded in ritual song context not
+    fully supplied here. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Original-language transcription appears with a free translation; literal extraction primarily uses the free translation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l5751-l5777
+  passage_sha256=1716434fa9fbd0703e7387f231fca338a0e93f4a4ae2abc1a1f0abca67e4c8e9
+

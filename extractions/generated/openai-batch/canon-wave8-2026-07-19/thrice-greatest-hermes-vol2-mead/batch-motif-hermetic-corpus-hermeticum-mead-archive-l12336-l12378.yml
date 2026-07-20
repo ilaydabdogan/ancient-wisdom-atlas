@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l12336-l12378
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: OF ASCLEPIUS TO THE KING 287 / COEPUS HEKMETICUM (XVIII.) / THE ENCOMIUM
+    OF KINGS 289 / VOL. -11, 19; lines 12336-12378
+  start: '12336'
+  end: '12378'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: God is Unwearied Spirit
+  summary: The passage argues that weakness belongs to body, matter, string, or instrument
+    rather than to God or the Artist/Demiurge. It compares the Demiurge to an artist
+    whose skill should not be blamed when the medium or instrument is inadequate,
+    and says the worse instrument can increase admiration for the artist when the
+    proper note is struck.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A collective called “our Race” is said to be blamed impiously because of weakness
+    that inheres in body.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: obs:2
+  text: God is described as unwearied spirit, self-same, possessing his own science,
+    and bestowing joyous gifts or benefits everywhere.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Pheidias-Demiurge is described as not being at fault if lack of matter
+    prevents his skill from being perfected or answered.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The weakness of a string, whether too slack or too tight, is said to mar the
+    rhythm of the harmony.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When mischance occurs because of the instrument, the Artist is not blamed.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The worse the instrument is, the more the Artist’s reputation grows when his
+    hand strikes the proper note, and the more listeners love the music.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A supplied note says the Pheidias metaphor is mixed because Pheidias worked
+    in marble, ivory, and gold, not on strings and pipes.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: our Race
+  description: A collective group called “our Race”; the supplied note identifies
+    it as the Race of the Prophets, Gnostics, or Logos.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:2
+  name_or_label: God
+  description: Described as unwearied spirit, self-same, possessing his own science,
+    and continually bestowing benefits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Pheidias — the Demiurge — the Artist
+  description: A divine or demiurgic Artist compared to Pheidias; his skill is not
+    blamed when matter or the instrument is inadequate.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+- id: fig:4
+  name_or_label: listeners
+  description: Listeners who give greater love or admiration when the Artist strikes
+    the proper note despite a worse instrument.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: blamed collective
+  assigned_to:
+  - fig:1
+  basis: The passage says “our Race” is blamed impiously because of bodily weakness,
+    and a note identifies the Race more specifically.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: unwearied divine spirit and benefactor
+  assigned_to:
+  - fig:2
+  basis: God is called unwearied spirit, possessed of science, and giver of benefits.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: demiurgic artist or maker
+  assigned_to:
+  - fig:3
+  basis: The figure is named as Pheidias, the Demiurge, and the Artist, and is said
+    not to be blamed for inadequate matter or instrument.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:9
+- id: role:4
+  label: evaluating audience
+  assigned_to:
+  - fig:4
+  basis: The listeners respond with greater love when the Artist strikes the proper
+    note despite the poor instrument.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: slack or tight string
+  literal_form: string too slack or too tight
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: faulty instrument
+  literal_form: instrument whose condition causes mischance
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: harmony and proper note
+  literal_form: rhythm of the harmony; proper note
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: body or matter as weak medium
+  literal_form: body; lack of matter
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Correction about God and bodily weakness
+  summary: The speaker rejects blaming the Race for weakness in body and states that
+    God is unwearied spirit who continually bestows benefits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: scene:2
+  label: Demiurgic artist and insufficient matter
+  summary: The Pheidias-Demiurge is presented as an Artist whose skill should not
+    be blamed when matter does not respond adequately.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: scene:3
+  label: Musical instrument analogy
+  summary: A weak string or poor instrument mars harmony and causes mischance, but
+    the Artist is not blamed; instead admiration grows when the proper note is struck.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Flawless divine artist and flawed medium
+  taxonomy_refs: []
+  basis: The passage repeatedly assigns failure to matter, string, or instrument rather
+    than to the Demiurge/Artist, and says a poor instrument can heighten admiration
+    for the Artist’s skill.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: This is an argumentative philosophical analogy rather than a developed
+    narrative episode.
+- id: motif:2
+  label: Bodily or material weakness contrasted with divine spirit
+  taxonomy_refs:
+  - duality
+  basis: Weakness is located in body and matter, while God is described as unwearied
+    spirit and the Artist is separated from the failures of the medium.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a contrast between spirit and bodily/material limitation,
+    but not a full mythic dualism.
+- id: motif:3
+  label: Divine wisdom and benefaction
+  taxonomy_refs:
+  - wisdom
+  basis: God is said to possess his own science and to bestow joyous gifts and benefits
+    everywhere.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The wisdom motif is present as a theological attribute, not as a narrative
+    quest or revelation scene.
+comparison_claims:
+- id: claim:1
+  claim: The supplied note explicitly compares the passage’s statement that God is
+    spirit with John iv.24, supporting a cautious linguistic or theological similarity
+    only.
+  claim_level: linguistic_similarity
+  target: John iv.24 as cited in the supplied note
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is editorial and does not by itself establish dependence,
+    shared origin, or direct historical contact.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12336-12339
+  quote_or_summary: "“weakness that inheres in body, blame impiously our Race”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 12340-12344
+  quote_or_summary: "“God is Unwearied Spirit” and is “possessed of His own science,”
+    bestowing benefits everywhere."
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 12346-12350
+  quote_or_summary: "“the Pheidias — the Demiurge —” is not to be blamed if “lack
+    of matter” prevents the perfection of his skilfulness."
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 12352-12355
+  quote_or_summary: "“the weakness of the string,” whether “too slack” or “too tight,”
+    “mars the rhythm of the harmony.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 12357-12359
+  quote_or_summary: "“the mischance occurs by reason of the instrument,” so “no one
+    doth blame the Artist.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 12361-12366
+  quote_or_summary: The worse instrument increases the Artist’s reputation when his
+    hand strikes the proper note, and listeners pour more love upon the music.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; summary of supplied passage.
+- id: ev:7
+  type: quote
+  locator: note to “Race” in supplied range
+  quote_or_summary: "“The Race of the Prophets, or Gnostics — the Race of the Logos.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt from supplied note.
+- id: ev:8
+  type: quote
+  locator: note to “God is Unwearied Spirit” in supplied range
+  quote_or_summary: The note says to compare John iv.24 and gives the sense “God is
+    Spirit.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt or summary from supplied
+    note.
+- id: ev:9
+  type: summary
+  locator: note on Pheidias metaphor in supplied range
+  quote_or_summary: The note says the metaphor is mixed because Pheidias worked in
+    marble, ivory, and gold rather than on strings and pipes.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; summary of supplied note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is limited by the fragmentary opening and truncated ending
+    of the supplied passage. Motif labels are conservative and based on the repeated
+    artist, matter, string, and instrument analogies.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the provided symbol taxonomy are explicitly present. The passage uses body, matter, string, instrument, harmony, and artist imagery; these are recorded without assigning unavailable taxonomy IDs.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l12336-l12378
+  passage_sha256=6fbff7fad90b4b33528c4c479b02126e47414d9007248ee255440a56b565eb23
+

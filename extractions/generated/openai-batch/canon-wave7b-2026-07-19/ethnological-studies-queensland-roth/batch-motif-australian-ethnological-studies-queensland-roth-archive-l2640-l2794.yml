@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.australian-ethnological-studies-queensland-roth-archive-l2640-l2794
+source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+passage_locator:
+  label: 'ABOETGINALS: AN ELEMENTABT GBAMMAB. 1 / ABOBIGINALS: AN ELEMENTARY GBAMMAB.
+    23 / ABOBIGINALS: AN ELEMEKTABY GBAMMAK. 25 / ABORIGINALS: AJST ELEMENTARY GRAMMAR.
+    27; lines 2640-2794'
+  start: '2640'
+  end: '2794'
+  translation: Ethnological Studies among the North-West-Central Queensland Aborigines
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"When the animals and birds were all blackfellows"'
+  summary: The passage is a grammar section describing Pitta-Pitta expressions for
+    quantity, size, time, place, direction, distance, and interrogation. Culturally
+    relevant notes include reckoning days by suns, months by moons, distance by suns
+    or sleeps, and remembering distant past eras by major events or expressions such
+    as a time when animals and birds were all blackfellows.
+  language: English, with Pitta-Pitta lexical examples
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage gives vocabulary for quantity and size, with some terms applying
+    to quantity, number, and physical size.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Translated examples in the quantity and size section mention pituri, food,
+    fish caught with a net, possessions, a place where rivers meet, Boulia, boomerangs,
+    spears, doctors, a gidyea tree, emus, and diver-birds.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Duration in days is measured by the number of suns, and duration in months
+    by the number of moons.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The length of the day is described through sunrise, the sun risen at midday,
+    and sunset, described as the sun sinking or diving.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: For time periods beyond a few months, the passage says reference is made to
+    events such as a big flood, drought, special initiation ceremony, or tribal fight.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Very long lapses of time are remembered through expressions including childhood,
+    before the white-fellow came, before the blackfellow jumped-up here, and when
+    animals and birds were all blackfellows.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that cardinal and intermediate compass directions are known
+    and then lists ordinary terms for place and direction.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Distance is measured by the number of suns or sleeps taken on a journey, or
+    by counting landscape features such as creeks and hills that must be traversed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: animals and birds
+  description: A remote-past calendar expression says that the animals and birds were
+    all blackfellows.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: remote-past calendar figure group
+  assigned_to:
+  - fig:1
+  basis: The animals and birds are named in an expression used to call to memory a
+    very long lapse of time.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sun as day-count and travel-time marker
+  literal_form: suns
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: moon as month-count marker
+  literal_form: moons
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water landscape markers
+  literal_form: where the rivers meet; waterholes; creeks
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: tree as local landmark
+  literal_form: gidyea tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: sleep as travel-duration marker
+  literal_form: sleeps
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Quantity and size examples
+  summary: The passage explains quantity and size terms and gives translated examples
+    involving small or large amounts, whole groups, possessions, people, animals,
+    implements, rivers, and a tree landmark.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Time reckoning and long memory
+  summary: The passage describes measuring days by suns, months by moons, parts of
+    the day by the sun's position, and longer or very long periods by major events
+    and remembered era expressions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Place, direction, and distance reckoning
+  summary: The passage lists terms for place and direction and explains that distance
+    may be reckoned by suns or sleeps taken in travel, or by landscape features such
+    as waterholes, creeks, and hills.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Time measured by suns and moons
+  taxonomy_refs: []
+  basis: The passage explicitly says days are measured by the number of suns and months
+    by the number of moons.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is presented as ethnographic grammar and time reckoning, not as a
+    mythic narrative.
+- id: motif:2
+  label: Event-anchored calendrical memory
+  taxonomy_refs: []
+  basis: For periods beyond a few months, the passage says time is referred to major
+    events such as flood, drought, initiation ceremony, or tribal fight.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The events are examples of temporal reference points; the passage does
+    not narrate the events.
+- id: motif:3
+  label: Remote era when animals and birds were described as people
+  taxonomy_refs: []
+  basis: A very long past era is represented by the expression that animals and birds
+    were all blackfellows.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a calendrical expression and does not describe
+    transformation, creation, or specific animal-person beings.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2640-2694; section 37, Quantity and Size
+  quote_or_summary: The section lists Pitta-Pitta terms for quantity and size and
+    translated examples involving pituri, food, fish, possessions, rivers meeting,
+    Boulia, implements, doctors, a gidyea tree, emus, and diver-birds.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public-domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2695-2735; section 38, Ideas of Time
+  quote_or_summary: '"Time — duration, how long — is measured in days by the number
+    of suns, and in months by so many moons"; the day is measured by sunrise, midday,
+    and sunset.'
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public-domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 2736-2760; section 38, Ideas of Time
+  quote_or_summary: For longer periods, reference may be made to "a big flood, or
+    drought, or some special initiation ceremony, or a tribal fight"; very long eras
+    include "Before the white-fellow came" and "When the animals and birds were all
+    blackfellows."
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public-domain source; short excerpt includes historical terminology
+    from the source.
+- id: ev:4
+  type: summary
+  locator: lines 2761-2789; section 39, Ideas of Place, Direction, and Distance
+  quote_or_summary: The section notes that compass directions are known, lists terms
+    for place and direction, and states that distance is measured by the number of
+    suns or sleeps needed for travel or by counting creeks, hills, and similar features
+    traversed.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public-domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily grammatical and ethnographic rather than narrative.
+    Motif candidates are limited to explicitly stated time-reckoning and remote-past
+    expressions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage does not itself compare these expressions to another corpus or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-ethnological-studies-queensland-roth-archive__l2640-l2794
+  passage_sha256=48670023a79b00a4ec558cc8096946d23f507dfa175dc9b7a10ccc644cbeed55
+

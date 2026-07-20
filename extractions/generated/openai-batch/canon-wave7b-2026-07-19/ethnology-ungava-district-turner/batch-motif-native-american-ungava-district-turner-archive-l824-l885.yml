@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l824-l885
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: ILLUSTRATIONS. 165 / INTRODUCTION. / FORT CHIMO AND THE SURROUNDING REGION,
+    / CLIMATE,; lines 824-885
+  start: '824'
+  end: '885'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes climate conditions around Fort Chimo: wind direction
+    and temperature, cloudiness, seasonal precipitation, snow cover on low and high
+    ground, fogs, steam rising from river water during ice formation, and auroras
+    visible on most clear nights except during June light nights.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Temperature is described as controlled by wind direction, with southerly winds
+    generally warm when strong, north and northwest winds cold, and northeast winds
+    associated with fog, rain, or snow when backing.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cloudiness is greatest in spring and fall, less in July and August, least
+    in December through February, and averages not less than eighty-two hundredths
+    of the visible sky for the year.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sleet is said to fall mostly from mid-September to early December, followed
+    by snow as the only precipitation until mid-April, after which sleet and snow
+    continue until the first rain.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Snow is reported in every month of the year, and lower grounds remain snow-covered
+    from about December 1 until June 10, with snow disappearing by late July at elevations
+    no higher than Fort Chimo.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Higher hills retain snow until late August, and by mid-September snow again
+    covers the tops of distant high hills.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Fogs rarely occur inland at Fort Chimo; when present in July and August, they
+    may be dense and usually dissipate between 4 and 7 a.m.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: When river ice is setting and moved by tides, steam rises from dark water
+    and is spread over land by light winds; moisture deposited on bushes and trees
+    is described as visually beautiful.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Auroras may be seen on most clear nights of the year, but are not observable
+    in June because of light nights.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Water in seasonal forms
+  literal_form: rain, sleet, snow, fog, river ice, steam, and river water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: Aurora
+  literal_form: auroras seen on clear nights
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: Snow-covered high hills
+  literal_form: higher hills retaining snow and distant high hilltops newly covered
+    with snow
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Wind-controlled temperature
+  summary: The passage links temperature and weather conditions to wind direction
+    in the Fort Chimo region.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Annual precipitation and snow cycle
+  summary: The passage gives a seasonal sequence of sleet, snow, rain, snow cover
+    on lower ground, and snow persistence on high hills.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Fog, river steam, and auroras
+  summary: The passage describes rare summer fogs, steam rising from river water during
+    ice formation, and auroras visible on most clear nights except in June.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Seasonal weather cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage organizes precipitation, snow cover, fog, hill snow, and aurora
+    visibility by recurring months and seasons.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: This is a climatological ethnographic description rather than a mythic
+    narrative; the motif label marks a recurring seasonal pattern only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 824-836
+  quote_or_summary: 'Wind direction is presented as controlling temperature and weather:
+    southeast, south, and southwest are warm in summer; northeast may bring fog, rain,
+    or snow; north and northwest are cold; southerly light winter winds may be very
+    cold.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized evidence allowed.
+- id: ev:2
+  type: summary
+  locator: 838-841
+  quote_or_summary: Cloudiness is greatest in spring and fall, less in July and August,
+    least in December through February, and averages at least eighty-two hundredths
+    of the visible sky annually.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized evidence allowed.
+- id: ev:3
+  type: summary
+  locator: 843-849
+  quote_or_summary: Sleet occurs mainly from mid-September to early December; snow
+    follows until mid-April; then sleet and snow continue until the first rain, whose
+    season is erratic.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized evidence allowed.
+- id: ev:4
+  type: summary
+  locator: 849-859
+  quote_or_summary: Snow falls every month; lower grounds are permanently snow-covered
+    from about December 1 to June 10, and snow disappears by late July at elevations
+    no higher than Fort Chimo.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized evidence allowed.
+- id: ev:5
+  type: summary
+  locator: 861-863
+  quote_or_summary: Higher hills retain snow until late August, and by mid-September
+    snow again covers the tops of distant high hills.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized evidence allowed.
+- id: ev:6
+  type: summary
+  locator: 865-872
+  quote_or_summary: Fogs are rare inland at Fort Chimo; those occurring in July and
+    August can be dense and usually dissipate by 4 to 7 a.m.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized evidence allowed.
+- id: ev:7
+  type: summary
+  locator: 872-878
+  quote_or_summary: While ice forms in the river and is moved by tides, steam rises
+    from dark water, spreads over land with light winds, and leaves moisture on bushes
+    and trees.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized evidence allowed.
+- id: ev:8
+  type: summary
+  locator: 881-885
+  quote_or_summary: Auroras may be seen on most clear nights, but June light nights
+    make them unobservable.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source metadata; summarized evidence allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal climate observations are explicit. Motif extraction is limited to
+    a seasonal-cycle pattern; no passage-supported comparative claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic figures, named beings, rituals, or narrative actions occur in this passage; extracted items are environmental patterns and natural images only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l824-l885
+  passage_sha256=9f486dce3bf81b8e97a2feb9a4fe3179ebbc81207b804e75e94fcf382c760871
+

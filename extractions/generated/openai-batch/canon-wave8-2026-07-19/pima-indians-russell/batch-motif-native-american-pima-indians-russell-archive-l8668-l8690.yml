@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l8668-l8690
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: HAEYO / GAMES / XAOF TOWE K.IKRSA / GAMES; lines 8668-8690
+  start: '8668'
+  end: '8690'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a game with 14 rings, pre-agreed marks, and a whorl-shaped
+    sand diagram. Scoring begins at a central place called tcimni ki, “council house,”
+    runs to a western final hole called hoholdega ki, “menstrual house,” and returns
+    to the center before a point is earned. A trailing player may “kill” an opponent
+    by landing on the same hole and sending the opponent’s counter back to the beginning.
+    The passage also notes two Sacaton specimens probably used in games by the Hohokam.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The game uses 14 rings, though only a few may be caught at a single throw.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A game is constituted by an agreed number of marks, specifically 2, 3, or
+    4.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The marks are made on a diagram laid out in sand in the form of a whorl.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Scoring begins at the center of the diagram, called tcimni ki, translated
+    as “council house.”
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The scoring path runs to the last hole, called hoholdega ki, translated as
+    “menstrual house,” on the west side of the diagram.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The score returns to the center before the player is entitled to one point
+    toward game.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: If the player who is behind throws a number that brings her counter to the
+    same hole as the opponent’s counter, she “kills” the opponent and sends that counter
+    back to the beginning point.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The killing rule does not apply if the trailing player passes the opponent’s
+    position.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Two specimens obtained at Sacaton are described as probably used in games
+    by the Hohokam.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: player who is behind
+  description: A player described as being behind; if her counter reaches the same
+    hole as the opponent’s counter, she may “kill” the opponent.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: opponent
+  description: The opposing player whose counter may be sent back to the beginning
+    point when “killed.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Hohokam
+  description: The group to whom the passage tentatively attributes use of two game
+    specimens obtained at Sacaton.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: trailing capturing player
+  assigned_to:
+  - fig:1
+  basis: The player who is behind can “kill” the opponent if her throw brings her
+    counter to the same hole.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: opponent subject to capture
+  assigned_to:
+  - fig:2
+  basis: The opponent’s counter can be sent back to the beginning point when the trailing
+    player lands on the same hole.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: probable users of game specimens
+  assigned_to:
+  - fig:3
+  basis: The Hohokam are named as the probable users of two Sacaton specimens in games.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: whorl-shaped sand diagram
+  literal_form: Diagram laid out in sand in the form of a whorl for marking score.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tcimni ki / council house
+  literal_form: The center of the scoring diagram, called tcimni ki and translated
+    as “council house.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hoholdega ki / menstrual house
+  literal_form: The last hole of the scoring path, located on the west side of the
+    diagram, called hoholdega ki and translated as “menstrual house.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: counter
+  literal_form: A game counter moved through holes and capable of being sent back
+    to the beginning point.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: 14 rings
+  literal_form: Fourteen rings used in the game; only a few may be caught at one throw.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: Sacaton game specimens
+  literal_form: Two specimens obtained at Sacaton and described as probably used in
+    games by the Hohokam.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Layout and scoring circuit
+  summary: The game uses rings and agreed marks on a whorl-shaped sand diagram; scoring
+    starts at the center, moves to a western last hole, and returns to the center
+    before a point is earned.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Counter killing rule
+  summary: A trailing player who lands on the opponent’s hole “kills” the opponent
+    and sends the opponent’s counter back to the beginning, but passing the opponent’s
+    position does not count.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sacaton specimens and Hohokam attribution
+  summary: The passage notes two Sacaton specimens, probably used by the Hohokam in
+    games, and presents them for research on gaming devices.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: whorl-shaped game board
+  taxonomy_refs: []
+  basis: The scoring marks are made on a sand diagram explicitly described as whorl-shaped.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a literal game-board pattern; the passage does not connect it
+    to a mythological taxonomy motif.
+- id: motif:2
+  label: center-to-endpoint-and-return scoring path
+  taxonomy_refs: []
+  basis: Scoring begins at the central “council house,” proceeds to the western last
+    hole or “menstrual house,” and returns to the center before a point is earned.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No cosmological interpretation should be inferred from the center or west-side
+    placement without additional evidence.
+- id: motif:3
+  label: capture by occupying the opponent’s space
+  taxonomy_refs: []
+  basis: A trailing player can “kill” the opponent by bringing her counter to the
+    same hole and sending the opponent’s counter back to the beginning.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is described as a game mechanic, not as a mythic combat or death
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously associates two Sacaton specimens with the same general
+    function of gaming devices used by the Hohokam.
+  claim_level: same_function
+  target: Hohokam gaming devices or game specimens from Sacaton
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage uses the tentative term “probably” and gives no physical
+    description or direct comparative details for the specimens.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8668-8690
+  quote_or_summary: The passage states that there are 14 rings, that 2, 3, or 4 agreed
+    marks constitute the game, and that marks are made on a whorl-shaped diagram in
+    the sand.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 8668-8690
+  quote_or_summary: The scoring begins in the center, called tcimni ki or “council
+    house,” runs to the last hole on the west side, called hoholdega ki or “menstrual
+    house,” and returns to the center before a point is earned.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized evidence with short translated terms.
+- id: ev:3
+  type: summary
+  locator: 8668-8690
+  quote_or_summary: If the player who is behind brings her counter to the same hole
+    as the opponent, she “kills” the opponent and sends that counter back to the beginning;
+    this does not happen if she passes the opponent’s position.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized evidence with a short quoted game
+    term.
+- id: ev:4
+  type: summary
+  locator: 8668-8690
+  quote_or_summary: Two specimens obtained at Sacaton are described as probably used
+    in games by the Hohokam and illustrated for research on gaming devices.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The literal game description is clear. Motif candidates are treated as descriptive
+    game patterns rather than taxonomy-linked myth motifs. The comparison claim is
+    tentative because the passage itself marks the Hohokam attribution as probable.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned; the passage is an ethnographic description of game rules and gaming devices rather than a myth narrative.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l8668-l8690
+  passage_sha256=0a70c75828896abde91780d33be2a3c7d21bf1962e3352c976d3a7aefcd9630c
+

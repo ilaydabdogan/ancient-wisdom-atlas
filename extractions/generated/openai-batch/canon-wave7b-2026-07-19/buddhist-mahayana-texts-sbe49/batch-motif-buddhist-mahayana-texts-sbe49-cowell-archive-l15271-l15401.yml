@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.buddhist-mahayana-texts-sbe49-cowell-archive-l15271-l15401
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+passage_locator:
+  label: SUKHAVATI-VYUHA. / ADORATION TO THE OMNISCIENT ! / THE SMALLER SUKHAVATI-VYOHA.
+    / INDEX OF SANSKRIT WORDS,; lines 15271-15401
+  start: '15271'
+  end: '15401'
+  translation: Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index of Sanskrit words, chiefly those explained in notes, giving brief
+    English glosses and page or note references for doctrinal terms, numbers, beings,
+    realms, knowledge categories, virtues, powers, and objects.
+  language: English with Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index of Sanskrit words with brief English glosses and references
+    to pages or notes.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists several terms for negative or lower realms and states, including
+    apaya, asuraloka, tiryagyoni, naraka, niraya, pretaloka, and yamaloka.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The index includes terms related to knowledge, including five kinds of knowledge
+    and seven steps leading toward the highest knowledge.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: The index includes large numerical terms such as ayuta, koti, nayuta, niyuta,
+    asamkhyeya, and aprameya.
+  category: attribute
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:5
+  text: The index glosses vaidirya as lapis lazuli or cat’s eye.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:6
+  text: The index glosses kinkinigala as a string of bells.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:7
+  text: The index includes terms for beings or roles such as arhat, great disciple,
+    lord of the Asuras, and lord.
+  category: attribute
+  evidence_refs:
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Yama
+  description: Named in the gloss for yamaloka, the realm of Yama.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Asuras
+  description: Evil spirits are referenced through asuraloka, and Asurinda is glossed
+    as lord of the Asuras.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: fig:3
+  name_or_label: Arhat
+  description: A Sanskrit term indexed as arhat, with related forms arahanta, arihanta,
+    and arhanta.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:10
+- id: fig:4
+  name_or_label: Great disciple
+  description: Mahasravaka is glossed as great disciple.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: Lord associated with a realm
+  assigned_to:
+  - fig:1
+  basis: The index glosses yamaloka as the realm of Yama.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Evil spirits or their lord
+  assigned_to:
+  - fig:2
+  basis: Asuraloka is glossed as a realm of evil spirits, and Asurinda as lord of
+    the Asuras.
+  evidence_refs:
+  - ev:2
+  - ev:11
+- id: role:3
+  label: Arhat
+  assigned_to:
+  - fig:3
+  basis: The index equates several forms with arhat.
+  evidence_refs:
+  - ev:10
+- id: role:4
+  label: Disciple
+  assigned_to:
+  - fig:4
+  basis: Mahasravaka is glossed as great disciple.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: Hell
+  literal_form: naraka / niraya / apaya
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Realm of evil spirits
+  literal_form: asuraloka
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Realm of the departed
+  literal_form: pretaloka
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Realm of Yama
+  literal_form: yamaloka
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Animal birth
+  literal_form: tiryagyoni
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Lapis lazuli or cat’s eye
+  literal_form: vaidirya
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: String of bells
+  literal_form: kinkinigala
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: Large or infinite numbers
+  literal_form: ayuta, koti, nayuta, niyuta, asamkhyeya, aprameya
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Glossary index of Sanskrit terms
+  summary: The passage lists Sanskrit terms and short English meanings, rather than
+    narrating an event.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: Catalog of afterlife or lower realms
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The index groups or separately glosses hell, realm of evil spirits, animal
+    birth, realm of the departed, and realm of Yama.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The passage is a glossary index, not a narrative journey or map; the taxonomy
+    reference is only a broad thematic fit.
+- id: motif:2
+  label: Knowledge as religious attainment
+  taxonomy_refs:
+  - wisdom
+  basis: The index glosses entries for five kinds of knowledge and seven steps leading
+    toward the highest knowledge.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives doctrinal glossary entries rather than a story of wisdom-seeking
+    or revelation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15271-15273
+  quote_or_summary: "“INDEX OF SANSKRIT WORDS, / CHIEFLY THOSE EXPLAINED IN THE NOTES.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 15275-15314
+  quote_or_summary: The index glosses apaya as four apayas including hell, asuraloka
+    as realm of evil spirits, and Asurinda as lord of the Asuras.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15336-15391
+  quote_or_summary: The index glosses tiryagyoni as birth as animals, naraka and niraya
+    as hell, pretaloka as realm of the departed, and yamaloka as realm of Yama.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15281-15284
+  quote_or_summary: Abhigña and abhigñana are glossed as the five kinds of knowledge.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 15375-15378
+  quote_or_summary: Bodhyanga is glossed as seven steps leading toward the highest
+    knowledge.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 15285-15331
+  quote_or_summary: The index glosses ayuta as a hundred kotis, koti as ten millions,
+    and aprameya and asamkhyeya as infinite.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 15357-15362
+  quote_or_summary: The index glosses nayuta as 1 with 22 zeros and niyuta as a hundred
+    ayutas.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 15394-15395
+  quote_or_summary: Vaidirya is glossed as lapis lazuli or cat’s eye.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 15325-15326
+  quote_or_summary: Kinkinigala is glossed as string of bells.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 15288-15297
+  quote_or_summary: Arahanta, arihanta, arhanta, and arhat are indexed as related
+    or equivalent forms.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 15312-15374
+  quote_or_summary: Asurinda is glossed as lord of the Asuras; indra as lord; mahasravaka
+    as great disciple.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is an index rather than a narrative passage, so literal glossary
+    extraction is stronger than motif identification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare traditions or explicitly frame a motif pattern beyond glossary terminology.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-mahayana-texts-sbe49-cowell-archive__l15271-l15401
+  passage_sha256=93742adfcf003831da56727299d0a10822496c1e87e940274ee7617f2eaa3387
+

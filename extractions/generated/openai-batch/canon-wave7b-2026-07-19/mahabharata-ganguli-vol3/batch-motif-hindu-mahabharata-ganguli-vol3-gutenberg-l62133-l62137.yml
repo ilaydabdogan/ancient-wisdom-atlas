@@ -1,0 +1,171 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l62133-l62137
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCCXL / SECTION CCCXLI / SECTION CCCXLII / SECTION CCCXLIII; lines
+    62133-62137
+  start: '62133'
+  end: '62137'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Arjuna said, "How did Agni and Shoma, in days of yore, attain to uniformity
+    in respect of their original nature?"
+  summary: Arjuna asks the slayer of Madhu to explain how Agni and Shoma in ancient
+    times attained uniformity in their original nature and to dispel his doubt.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Arjuna speaks and frames his statement as a question.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The question concerns Agni and Shoma in days of yore.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Arjuna says that a doubt has arisen in his mind.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Arjuna asks the addressed figure, called the slayer of Madhu, to dispel the
+    doubt.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The stated topic is how Agni and Shoma attained uniformity in respect of their
+    original nature.
+  category: other
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Arjuna
+  description: Named speaker who asks the question and reports his doubt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Agni
+  description: Named being included with Shoma as the subject of Arjuna's question.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Shoma
+  description: Named being included with Agni as the subject of Arjuna's question.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: slayer of Madhu
+  description: Addressee whom Arjuna asks to dispel his doubt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: Arjuna is introduced as speaking and asks how Agni and Shoma attained uniformity.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: requested teacher or explainer
+  assigned_to:
+  - fig:4
+  basis: Arjuna asks the addressee to dispel his doubt.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: subjects of inquiry
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Agni and Shoma are the named beings about whom Arjuna asks.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Arjuna asks about Agni and Shoma
+  summary: In a dialogue setting, Arjuna asks the slayer of Madhu to explain how Agni
+    and Shoma, in ancient times, came to share uniformity in their original nature.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: request for dispelling doubt through instruction
+  taxonomy_refs:
+  - wisdom
+  basis: Arjuna explicitly states that a doubt has arisen and asks the addressee to
+    dispel it.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage contains only the question, not the teaching or answer.
+- id: motif:2
+  label: two beings attaining uniformity of original nature
+  taxonomy_refs:
+  - duality
+  basis: The question concerns Agni and Shoma and asks how they attained uniformity
+    in respect of their original nature.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explain the process or specify whether the uniformity
+    is metaphysical, ritual, or narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 62133-62136
+  quote_or_summary: Arjuna asks how Agni and Shoma, in days of yore, attained uniformity
+    in respect of their original nature.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; short excerpt or summary used.
+- id: ev:2
+  type: quote
+  locator: lines 62136-62137
+  quote_or_summary: Arjuna says a doubt has arisen in his mind and asks the slayer
+    of Madhu to dispel it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; short excerpt or summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal dialogue elements are clear. Motif labels are cautious because the
+    passage provides only the opening question and no explanatory answer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols or comparison claims were added because the passage does not itself provide enough literal symbolic or comparative material.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l62133-l62137
+  passage_sha256=790f88dfca46fc9469d861a0d2eca2f442ae163f99a327bf4721e10ef4de3e5d
+

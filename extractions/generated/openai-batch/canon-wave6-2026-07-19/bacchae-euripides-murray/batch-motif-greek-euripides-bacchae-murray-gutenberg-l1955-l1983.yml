@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1955-l1983
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: DIONYSUS. / PENTHEUS. / DIONYSUS. / PENTHEUS.; lines 1955-1983
+  start: '1955'
+  end: '1983'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Dionysus tells Pentheus that his former wrath has turned gentle and that
+    his eyes have been unsealed. Pentheus asks whether he looks like Ino or his mother.
+    Dionysus says he seems to see those women in him, notices a displaced lock of
+    hair under the coif, and tends Pentheus by setting his head and hair aright. Pentheus
+    says the hair moved while he tossed his head in dancing and cried the god's holy
+    music.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dionysus says a formerly wrathful person now goes with him in gentleness.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus says Pentheus's eyes have been unsealed to see what he should see.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pentheus asks whether he stands as Ino stands or as the woman who bore him
+    stands.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dionysus says that, when looking at Pentheus, he seems to see the very selves
+    of Ino and Pentheus's mother.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dionysus notices a lock of hair streaming out of place beneath the coif.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Pentheus says the lock moved while he tossed his head in dancing and cried
+    holy music.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Dionysus tends Pentheus, saying the hair will be tied aright and telling him
+    to keep his head straight.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Speaker who says Pentheus's eyes have been unsealed, observes his appearance,
+    and tends him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Pentheus
+  description: Speaker addressed by Dionysus; asks whether he resembles Ino or his
+    mother; says he tossed his head in dancing and cried holy music.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Ino
+  description: Named female figure whom Pentheus asks whether he resembles.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Pentheus's mother
+  description: Referred to as the woman who bore Pentheus; invoked as a figure whom
+    Pentheus may resemble.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: divine guide and attendant
+  assigned_to:
+  - fig:1
+  basis: Dionysus speaks of unsealing Pentheus's eyes and physically tends his hair
+    and posture.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: vision-recipient
+  assigned_to:
+  - fig:2
+  basis: Dionysus says Pentheus's eyes have been unsealed to see what he should see.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ritual dancer or participant
+  assigned_to:
+  - fig:2
+  basis: Pentheus describes tossing his head in dancing and crying holy music.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: female likeness model
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Pentheus and Dionysus discuss whether Pentheus looks like Ino or Pentheus's
+    mother.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: unsealed eyes
+  literal_form: eyes unsealed to see
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: displaced lock under coif
+  literal_form: lock of hair streaming abroad under a coif
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: holy music and dancing
+  literal_form: dancing with tossed head and crying holy music
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dionysus prepares and corrects Pentheus's appearance
+  summary: Dionysus describes a change from wrath to gentleness and opened sight,
+    while Pentheus checks whether he resembles Ino or his mother. Dionysus notices
+    and fixes a displaced lock of hair caused by Pentheus's dancing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: opened vision before guided action
+  taxonomy_refs: []
+  basis: Dionysus says Pentheus's eyes have been unsealed so that he can see what
+    he should see.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states opened sight but does not explain its cause or outcome
+    within this excerpt.
+- id: motif:2
+  label: ritualized preparation of an altered participant
+  taxonomy_refs:
+  - initiation
+  basis: Pentheus is described as gentled, with unsealed eyes, engaged in dancing
+    and holy music, and physically tended by Dionysus.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The excerpt suggests ritual preparation, but it does not explicitly name
+    an initiation.
+- id: motif:3
+  label: gendered likeness or disguise
+  taxonomy_refs: []
+  basis: Pentheus asks whether he stands like Ino or his mother, and Dionysus says
+    he seems to see those women in him while correcting his coif and hair.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The excerpt presents resemblance and costume details but does not explicitly
+    call the appearance a disguise.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1955-1960
+  quote_or_summary: Dionysus says that the formerly wrathful one now goes in gentleness
+    and has had his eyes unsealed to see what he should see.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: 1961-1965
+  quote_or_summary: 'Pentheus asks: "stand I not as Ino stands, or she / Who bore
+    me?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 1966-1973
+  quote_or_summary: Dionysus says Pentheus seems like the very selves of those women,
+    then notices a lock of hair out of place beneath the coif.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: 1974-1979
+  quote_or_summary: Pentheus says the lock moved while he tossed his head in dancing
+    and cried holy music.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: 1980-1983
+  quote_or_summary: Dionysus tends Pentheus, says the hair will be tied aright, and
+    tells him to stand with his head straight.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for speech, grooming, likeness, and dancing.
+    Motif labels are cautious because the short passage gives preparation and perception
+    details without the larger dramatic outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1955-l1983
+  passage_sha256=5874da2f0d2e5a4b004bfc7e08621f4a01db3988856579d37ec01a04521ff6b6
+

@@ -1,0 +1,214 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1345-l1367
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 1345-1367
+  start: '1345'
+  end: '1367'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Pentheus angrily confronts Dionysus, whom he says has escaped from prison
+    and bondage. Dionysus counsels him to quiet his rage. Pentheus asks how he broke
+    his cage, and Dionysus replies that he had said there was a living One who would
+    set him free.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pentheus says the captive has slipped from prison and bondage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pentheus advances furiously upon Dionysus before the portals.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dionysus tells Pentheus to soften and quiet his rage.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pentheus asks how Dionysus came there and broke his cage.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Dionysus says that a living One would set him free.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: Speaker who claims Dionysus escaped confinement and angrily confronts
+    him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Dionysus
+  description: Speaker confronted after apparent escape from prison; says a living
+    One would set him free.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: One living
+  description: Unspecified living being named by Dionysus as the one who would set
+    him free.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: angry captor or authority figure
+  assigned_to:
+  - fig:1
+  basis: Pentheus says he had held Dionysus in bondage and demands to know how he
+    escaped.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: released prisoner
+  assigned_to:
+  - fig:2
+  basis: Pentheus describes Dionysus as having slipped prison and broken a cage; Dionysus
+    speaks of being set free.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:3
+  label: unnamed liberator
+  assigned_to:
+  - fig:3
+  basis: Dionysus refers to a living One who would set him free.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: prison or cage
+  literal_form: prison, bondage, cage
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: portals
+  literal_form: portals
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Confrontation after escape
+  summary: Pentheus sees Dionysus before the portals, claims he has escaped confinement,
+    advances furiously, and demands an explanation. Dionysus urges calm and says a
+    living One would set him free.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: release from bondage
+  taxonomy_refs: []
+  basis: The passage centers on Dionysus having escaped prison, bondage, and a cage,
+    with his explanation that a living One would set him free.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not specify the liberator's identity or mechanism of
+    release.
+- id: motif:2
+  label: angry authority confronts escaped captive
+  taxonomy_refs: []
+  basis: Pentheus advances furiously and questions Dionysus about how he escaped confinement.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is a local scene pattern rather than a named taxonomy motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1345-1351
+  quote_or_summary: Pentheus says the 'Eastern knave hath slipped / His prison' and
+    that he had held him in bondage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1352-1355
+  quote_or_summary: Pentheus asks how Dionysus shows himself 'before my portals' and
+    advances furiously upon him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1356-1359
+  quote_or_summary: Dionysus says, 'Softly thou! / And set a quiet carriage to thy
+    rage.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1360-1362
+  quote_or_summary: Pentheus asks, 'How comest thou here? How didst thou break thy
+    cage?'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1363-1367
+  quote_or_summary: Dionysus says there was 'One living that should set me free.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    mapped to available taxonomy because the passage alone does not clearly support
+    a listed motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or directly support a cross-textual comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1345-l1367
+  passage_sha256=da56241a642520e8e8b1b0804694e0480023f6c611911d3993d98195e58b2c80
+

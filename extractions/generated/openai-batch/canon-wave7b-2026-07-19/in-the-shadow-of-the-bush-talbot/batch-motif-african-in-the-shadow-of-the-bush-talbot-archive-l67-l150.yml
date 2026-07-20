@@ -1,0 +1,142 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l67-l150
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: N  THE  SHADOW / HE  BUSH / P  AMAURY  T / IN  THE  SHADOW   OF   THE  BUSH;
+    lines 67-150
+  start: '67'
+  end: '150'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    IN  THE  SHADOW   OF   THE  BUSH
+
+    By   P.   AMAURY    TALBOT
+  summary: The passage is front-matter/title-page material for In the Shadow of the
+    Bush. It includes OCR artifacts, a digitization notice, a caption for an image
+    of an Ekoi girl in “Fatting-House” costume, and an author attribution to P. Amaury
+    Talbot. It contains no narrative myth episode.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The excerpt includes the work title In the Shadow of the Bush.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The excerpt names P. Amaury Talbot as the author.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The excerpt includes a digitization notice for the Internet Archive with funding
+    information.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The excerpt includes a caption identifying an Ekoi girl in “Fatting-House”
+    costume.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: P. Amaury Talbot
+  description: Named on the title page as the author.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ekoi girl in “Fatting-House” costume
+  description: Captioned image subject identified as an Ekoi girl wearing “Fatting-House”
+    costume.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named author
+  assigned_to:
+  - fig:1
+  basis: The title-page wording attributes the work to P. Amaury Talbot.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: captioned image subject
+  assigned_to:
+  - fig:2
+  basis: The passage gives a caption identifying the image subject as an Ekoi girl
+    in “Fatting-House” costume.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Fatting-House costume
+  literal_form: costume
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Front matter and image caption
+  summary: The passage presents title-page material, digitization information, and
+    an image caption; no narrative action occurs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 67-150
+  quote_or_summary: "“IN  THE  SHADOW   OF   THE  BUSH … By   P.   AMAURY    TALBOT”"
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 67-150
+  quote_or_summary: The passage states that the text was digitized by the Internet
+    Archive in 2010 with funding from Lyrasis Members and Sloan Foundation, and gives
+    an archive URL.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 67-150
+  quote_or_summary: “Ekoi  Girl  in  "  Fatting- House"  Costume.”
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The line range is OCR-heavy front matter rather than narrative content. Literal
+    extraction is limited but adequate; no mythic motif candidates or comparison claims
+    are supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparative mythology motif was extracted because the supplied passage contains title-page, digitization, and caption material rather than a mythic or ritual narrative episode.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l67-l150
+  passage_sha256=f94709e82166f459420c0b9a81c01e2fc04526d9c280333fc35cc81e244ed5ee
+

@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.hindu-minor-upanishads-narayanasvami-aiyar-archive-l11508-l11533
+source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+passage_locator:
+  label: RGVEDA / NADABINDU-UPANISHAD  257 / NADABINDU-DPANISHAD  259 / YOGAKTJNDALF-UPANISHAD;
+    lines 11508-11533
+  start: '11508'
+  end: '11533'
+  translation: Thirty Minor Upanishads
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives procedural instructions for several forms of kumbhaka
+    or breath practice, including ujjayi and sitali, lists bodily and disease-removing
+    effects, and compares rapid movement of air within the body to a smith's bellows.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The practitioner is told to close the mouth, draw breath slowly through both
+    nadis or nostrils, retain it between the heart and neck, and exhale through the
+    left nostril.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says this practice destroys heat in the head and phlegm in the
+    throat, removes diseases, purifies the body, increases the gastric fire, removes
+    evils in the nadis, jalodara, and dhatus, and is called ujjayi kumbhaka.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The practitioner is told to draw breath through the tongue with a hissing
+    sound, retain it, and slowly exhale through both nostrils.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage names this practice sitali kumbhaka and says it destroys diseases
+    including gulma, pliha, consumption, bile, fever, thirst, and poison.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Seated in padma posture with belly and neck erect, the practitioner is instructed
+    to close the mouth, exhale through the nostrils, and inhale rapidly up to the
+    heart so the breath fills the space between neck and skull with noise.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The movement of air within the body is compared to the bellows of a smith
+    being filled with air and emptied.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: If the body becomes tired, the practitioner is told to inhale through the
+    right nostril; the final line begins an instruction about pressing the nostrils
+    when the belly is full of vayu but is cut off in this passage range.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: wise man / practitioner
+  description: The instructed person who performs the kumbhaka practices, seated in
+    padma posture in one section.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: breath-practice practitioner
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly instructs the wise man or implied practitioner to
+    inhale, retain, and exhale breath in specified ways.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: breath or vayu
+  literal_form: breath, air, or vayu moved within the body
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: nadis or nostrils
+  literal_form: both nadis, glossed as nostrils, and the left and right nostrils
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:3
+  label: gastric fire
+  literal_form: the gastric fire within
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: smith's bellows
+  literal_form: bellows of a smith filled with air and emptied
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ujjayi kumbhaka procedure and effects
+  summary: The practitioner performs a breath-retention procedure using the mouth,
+    nostrils, and the space between heart and neck; the passage names it ujjayi and
+    lists bodily benefits.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sitali kumbhaka procedure and effects
+  summary: The practitioner draws breath through the tongue with a hissing sound,
+    retains it, exhales through the nostrils, and the passage names the practice sitali
+    and lists diseases it destroys.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Bellows-like breathing in padma posture
+  summary: Seated in padma posture, the practitioner moves air within the body through
+    repeated inhalation and exhalation, explicitly compared to the movement of a smith's
+    bellows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: yogic breath retention for purification and healing
+  taxonomy_refs:
+  - wisdom
+  basis: The passage gives named breath-retention techniques and attributes disease-destroying,
+    purifying, and bodily-regulating effects to them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a technical yogic instruction passage rather than a narrative
+    mythic episode.
+- id: motif:2
+  label: controlled inner air moving through bodily channels
+  taxonomy_refs: []
+  basis: Breath is drawn through nadis or nostrils, retained in specific bodily spaces,
+    moved within the body, and associated with vayu in the belly.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents physiological-yogic procedure; symbolic interpretation
+    beyond the literal body-channel language is not supplied by the excerpt.
+- id: motif:3
+  label: body-breath compared to smith's bellows
+  taxonomy_refs: []
+  basis: The passage explicitly likens repeated internal movement of air to the bellows
+    of a smith being filled and emptied.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is an explicit simile within the passage, not evidence by itself
+    of broader historical comparison.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11508-11512
+  quote_or_summary: Instruction to close the mouth, draw breath slowly through both
+    nadis or nostrils, retain it between heart and neck, and exhale through the left
+    nostril.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 11512-11517
+  quote_or_summary: The described kumbhaka is said to destroy head heat and throat
+    phlegm, remove diseases, purify the body, increase gastric fire, remove evils
+    in nadis, jalodara, and dhatus, and is named ujjayi.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11518-11521
+  quote_or_summary: Instruction to draw breath through the tongue with a hissing sound,
+    retain it, and slowly exhale through both nostrils.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11521-11523
+  quote_or_summary: This is called sitali kumbhaka and is said to destroy ailments
+    such as gulma, pliha, consumption, bile, fever, thirst, and poison.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 11524-11528
+  quote_or_summary: In padma posture with belly and neck erect, the practitioner closes
+    the mouth, exhales through the nostrils, and repeatedly inhales up to the heart
+    so breath fills the space between neck and skull with noise.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 11529-11531
+  quote_or_summary: '"Just as the bellows of a smith are moved ... so he should move
+    the air within his body."'
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: 11532-11533
+  quote_or_summary: If the body gets tired, the practitioner should inhale through
+    the right nostril; if the belly is full of vayu, an instruction begins to press
+    the nostrils, but the line range ends mid-instruction.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal procedure, named practices, effects, and simile are explicit. Motif
+    labels are cautious because the excerpt is technical yoga instruction, not narrative
+    mythology. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage range ends mid-sentence; final instruction about pressing the nostrils is incomplete.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-minor-upanishads-narayanasvami-aiyar-archive__l11508-l11533
+  passage_sha256=e98ba1bf5599e3e527439c1ae1fff0684e819bfc325afda73beae33bcdb4088a
+

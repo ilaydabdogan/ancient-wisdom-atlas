@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l8424-l8506
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: THE TUAT 171 / THE TUAT AND ITS INHAIUTANTS 173 / THE BOOK OF THE PYLONS
+    175 / DIVISIONS OF THE UNDERWORLD; lines 8424-8506
+  start: '8424'
+  end: '8506'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"divide the Tuat into twelve parts, each of which corresponds to one of
+    the hours of the night"'
+  summary: The passage states that two Egyptian underworld books divide the Tuat into
+    twelve parts corresponding to the hours of the night, with the divisions called
+    fields or cities. It also states that in chapter cxliv of the Book of the Dead,
+    according to the Papyrus of Nu, the Arrets are seven in number and each is guarded
+    by a doorkeeper, a watcher, and a herald, followed by lists of guardian names
+    for Arrets I-VI in the preserved excerpt.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a discussion of divisions of the underworld.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Both the Book of That Which Is in the Underworld and the Book of the Pylons
+    are said to divide the Tuat into twelve parts.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each of the twelve parts is said to correspond to one hour of the night.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The divisions are described as being called Field or City.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: In Book of the Dead chapter cxliv, according to the Papyrus of Nu, the Arrets
+    are said to be seven in number.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Each Arret is said to be guarded by a doorkeeper, a watcher, and a herald.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage lists names for guardians associated with Arrets I through VI
+    in the preserved excerpt, though some names and signs are garbled in the supplied
+    text.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Doorkeeper
+  description: A guardian functionary assigned to each Arret.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Watcher
+  description: A guardian functionary assigned to each Arret.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Herald
+  description: A guardian functionary assigned to each Arret.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Named guardians of the Arrets
+  description: The passage gives named guardian entries under Arrets I-VI, including
+    legible names such as Sekhet-hra-ilsht-aru, Semetu, Hu-kheru, Tun-pehti, Sabes,
+    Res-hra, Uaau, Ptes-ab, Ankh-em-fentu, Teb-her-kehaat, Aken-tau-k-ha-kheru, An-her,
+    and Metes-lira-ari-she; the supplied text is partially garbled.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: guardian of an Arret
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage says each Arret is guarded and then gives guardian roles and
+    names.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: doorkeeper
+  assigned_to:
+  - fig:1
+  basis: The doorkeeper is one of the three guardian functionaries named for each
+    Arret.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: watcher
+  assigned_to:
+  - fig:2
+  basis: The watcher is one of the three guardian functionaries named for each Arret.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: herald
+  assigned_to:
+  - fig:3
+  basis: The herald is one of the three guardian functionaries named for each Arret.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Tuat / underworld
+  literal_form: The Tuat, described in the passage as the underworld being divided
+    into parts.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Twelve night-hour divisions
+  literal_form: Twelve parts, each corresponding to one of the hours of the night.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Field or City divisions
+  literal_form: The divisions are called Field or City in the passage.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Seven Arrets
+  literal_form: Seven Arrets in Book of the Dead chapter cxliv, each guarded by three
+    functionaries.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Twelvefold division of the Tuat
+  summary: The Tuat is described as divided by two underworld books into twelve parts,
+    with each part corresponding to an hour of the night and described as a Field
+    or City.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Guarded Arrets
+  summary: The Book of the Dead chapter cxliv is described as having seven Arrets,
+    each guarded by a doorkeeper, watcher, and herald, followed by a list of guardian
+    names.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Twelve-part underworld journey map keyed to night hours
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage states that the Tuat is divided into twelve parts corresponding
+    to the twelve hours of the night.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a modern scholarly summary and does not narrate a specific
+    journey episode in this excerpt.
+- id: motif:2
+  label: Guarded underworld thresholds
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage states that seven Arrets are each guarded by a doorkeeper, watcher,
+    and herald.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The excerpt lists guardians but does not describe a traveler passing through
+    the Arrets or interacting with them.
+- id: motif:3
+  label: Numbered regions of the underworld
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: 'The passage gives two numbered underworld-division schemes: twelve parts
+    of the Tuat and seven Arrets in Book of the Dead chapter cxliv.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The relationship between the twelve divisions and the seven Arrets is
+    not fully explained in the supplied excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly reports that the Book of That Which Is in the Underworld
+    and the Book of the Pylons share a twelve-part structure for the Tuat keyed to
+    the hours of the night.
+  claim_level: same_motif
+  target: Book of That Which Is in the Underworld and Book of the Pylons
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the structural description in this excerpt;
+    the passage does not quote or compare extended contents of the two books.
+- id: claim:2
+  claim: The Book of the Dead chapter cxliv is presented as a related Egyptian underworld-division
+    pattern because it has numbered Arrets with assigned guardian functionaries.
+  claim_level: same_function
+  target: Book of the Dead chapter cxliv / Papyrus of Nu
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:1
+  confidence: medium
+  limitations: 'The numerical scheme differs: the Tuat divisions are twelve and keyed
+    to night hours, while the Book of the Dead passage is described as having seven
+    Arrets.'
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8424-8431
+  quote_or_summary: Both the Book of That Which Is in the Underworld and the Book
+    of the Pylons "divide the Tuat into twelve parts, each of which corresponds to
+    one of the hours of the night"; the divisions are called Field or City.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 8431-8436
+  quote_or_summary: In chapter cxliv of the Book of the Dead, according to the Papyrus
+    of Nu, "the Arrets are seven in number, and each is guarded by a doorkeeper, a
+    watcher, and a herald."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 8437-8445
+  quote_or_summary: The passage lists guardian names under Arret I and Arret II, including
+    Sekhet-hra-ilsht-aru, Semetu, Hu-kheru, Tun-pehti, Seqet-hm.p, and Sabes, with
+    some OCR or sign corruption.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8446-8460
+  quote_or_summary: The passage lists guardian names under Arret III and a following
+    partially preserved Arret entry, including Am-huat-ent-peh-fi, Res-hra, Uaau,
+    Ptes-ab, and another long name partly garbled in the supplied text.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized due to garbled transcription.
+- id: ev:5
+  type: summary
+  locator: lines 8461-8475
+  quote_or_summary: The passage lists guardian names under Arret V, including Ankh-em-fentu,
+    Ashebu or a similarly garbled form, and Teb-her-kehaat.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized due to garbled transcription.
+- id: ev:6
+  type: summary
+  locator: lines 8476-8506
+  quote_or_summary: The passage lists guardian names under Arret VI, including Aken-tau-k-ha-kheru,
+    An-her, and Metes-lira-ari-she, with some garbling in the supplied text.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized due to garbled transcription.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main structural statements are clear, but many Egyptian names and signs
+    in the supplied passage are corrupted by OCR or formatting loss. Motif extraction
+    is therefore strongest for the twelvefold Tuat structure and guarded Arrets, weaker
+    for individual named guardians.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbol taxonomy references were applied because the available symbol list does not include the Tuat, night-hours, fields/cities, or Arrets. Motif taxonomy references are limited to afterlife_journey_map, which is directly supported by the underworld-division content.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l8424-l8506
+  passage_sha256=bc12982bf95ff5b6cbd40ad760d4a4108391a850f1446e5afb5e583d5146f5a4
+

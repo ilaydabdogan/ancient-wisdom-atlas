@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l7291-l7366
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: MORTUARY BELIEFS AND CUSTOMS. / STEVEK80N.1 MORTUARY CUSTOMS. 145 / MYTHS.
+    / THB COYOTE ENCOUNTERS DISAPPOINTMENTS.; lines 7291-7366
+  start: '7291'
+  end: '7366'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts reciprocal trickery between Coyote and Lynx involving
+    stolen stomach fat and bodily alteration, followed by Coyote traveling and repeatedly
+    asking the cloud people for increasingly wet and cool conditions on his road.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Coyote presents fat on a stick as deer fat, Lynx eats it, and Coyote then
+    says it was fat taken from Lynx's own stomach while he slept.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After learning what he has eaten, Lynx becomes sick, vomits, grows angry,
+    and thinks that he will play the same trick on Coyote.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Lynx follows Coyote after they separate, finds him asleep, and calls to him
+    four times without receiving an answer.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Lynx uses a stick similar to Coyote's to draw fat from Coyote's stomach and
+    places the fat aside.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Lynx changes Coyote's appearance by pulling and lengthening his mouth, ears,
+    tail, body, and arms.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Lynx wakes Coyote, gives him the fat as supposed deer fat, then reveals that
+    it came from Coyote's own stomach; Coyote vomits and says they are even.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: While traveling in heat, Coyote repeatedly addresses the cloud people and
+    asks for shade, rain, wet road, and progressively deeper water on his road.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: 'The cloud people and waters respond to Coyote''s requests: clouds gather,
+    a shower comes, the road becomes wet, and water rises to the levels he asks for.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Coyote / man coyote
+  description: A traveling figure who deceives Lynx, is later deceived by Lynx, and
+    asks the cloud people to alter conditions on his road.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Lynx / man lynx
+  description: A figure first deceived by Coyote, then retaliating by repeating a
+    similar trick on Coyote.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Cloud people
+  description: Beings addressed by Coyote who gather above the road and send rain
+    or water in response to his requests.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: deceiver and counter-deceiver
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Coyote lies to Lynx about the fat, and Lynx later repeats the trick on Coyote.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: sleeping victim of bodily theft or alteration
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Lynx has fat taken from his stomach while asleep, and Coyote is later found
+    asleep, has his fat removed, and has his body altered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: traveler and wish-maker
+  assigned_to:
+  - fig:1
+  basis: Coyote travels a long distance and repeatedly asks the cloud people for changes
+    to his path.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: responsive weather beings
+  assigned_to:
+  - fig:3
+  basis: The cloud people gather, send rain, and respond to Coyote's requests for
+    water on his road.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: stick used with fat
+  literal_form: A stick bearing fat, and a similar stick used to draw fat from Coyote's
+    stomach.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: own stomach fat as deceptive food
+  literal_form: Fat removed from a sleeper's stomach and offered as deer fat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: altered animal body
+  literal_form: Coyote's mouth, ears, tail, body, and arms are pulled or lengthened;
+    Lynx is also described as unlike his former self.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: water on the road
+  literal_form: Rain, wet road, and water rising on Coyote's path to elbows, shoulders,
+    and nearly over the head.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: four calls
+  literal_form: Lynx calls to sleeping Coyote four times before deciding he is asleep;
+    later he cries four times to wake him.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:6
+  label: road or path
+  literal_form: The road Coyote travels, which he asks to be shaded, cooled, rained
+    on, and covered with water.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Coyote reveals the fat deception to Lynx
+  summary: Coyote gives Lynx fat as if it were deer fat, then reveals that it came
+    from Lynx's own stomach; Lynx vomits and resolves to retaliate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lynx retaliates against sleeping Coyote
+  summary: Lynx follows Coyote, finds him asleep, removes his stomach fat, changes
+    his body, then feeds him the fat and reveals the deception.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Coyote asks the cloud people for water
+  summary: Coyote travels in heat and repeatedly requests cooling weather and deeper
+    water from the cloud people; each request is granted through clouds, rain, wet
+    road, and rising waters.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: reciprocal trickster deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Coyote first tricks Lynx by making him eat his own fat, and Lynx then repeats
+    the deception on Coyote, who says they are even.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage supports reciprocal trickery, but it does not by itself state
+    a broader social or cosmological boundary function.
+- id: motif:2
+  label: unknowing consumption of one's own body substance
+  taxonomy_refs: []
+  basis: Both Lynx and Coyote are induced to eat fat taken from their own stomachs
+    under the false claim that it is deer fat.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is a deception motif in the passage, not an explicit sacrificial
+    or cannibalistic ritual claim.
+- id: motif:3
+  label: bodily alteration during sleep
+  taxonomy_refs:
+  - shapeshifter
+  basis: Lynx changes Coyote's appearance while Coyote sleeps, and the passage begins
+    with Lynx noticing he is unlike his former self after Coyote's earlier act.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The transformation is imposed by another figure rather than voluntary
+    shapeshifting; no explicit origin explanation is given in this excerpt.
+- id: motif:4
+  label: escalating wish for water on a journey
+  taxonomy_refs: []
+  basis: Coyote repeatedly asks the cloud people for increasingly wet and deep conditions
+    on his road, and the requests are answered step by step.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The excerpt ends with the request being answered and does not show the
+    final consequence of the rising water.
+comparison_claims:
+- id: claim:1
+  claim: The reciprocal deception between Coyote and Lynx can be cautiously compared
+    to the trickster_boundary motif family at the level of narrative function.
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a motif-family comparison only; the passage does not provide
+    evidence for historical contact, common inheritance, or a specific external parallel.
+- id: claim:2
+  claim: The imposed bodily alteration of sleeping Coyote is only loosely comparable
+    to shapeshifter-pattern material because the body is transformed, but the passage
+    does not show voluntary shape-changing.
+  claim_level: visual_similarity
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is limited by the fact that another figure performs
+    the alteration; the passage does not describe self-transformation or repeated
+    shape-changing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7291-7309
+  quote_or_summary: Coyote offers Lynx fat as deer fat, then says it was taken from
+    Lynx's own stomach while he slept; Lynx vomits and plans to repay the trick.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: 7310-7319
+  quote_or_summary: The two separate; Lynx follows Coyote, finds him asleep, and calls
+    four times without an answer.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: 7319-7328
+  quote_or_summary: Lynx removes fat from Coyote's stomach with a similar stick and
+    alters Coyote's mouth, ears, tail, body, and arms.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: 7329-7338
+  quote_or_summary: Lynx wakes Coyote, gives him the fat as deer fat, reveals it is
+    his own stomach fat, and Coyote vomits and says they are even.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: 7339-7351
+  quote_or_summary: Coyote travels in heat, asks the cloud people for shade, rain,
+    and a moist road, and clouds, a shower, and wet ground follow.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: 7352-7366
+  quote_or_summary: Coyote asks the cloud people for water up to his elbows, then
+    shoulders, then so high that only his eyes, nose, mouth, and ears remain above
+    it; the requests are answered.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence and figures are clear in the passage. Motif labels involving
+    trickery and water are well supported; shapeshifter comparison is tentative because
+    the passage describes imposed bodily alteration rather than voluntary transformation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No claims of historical contact or common inheritance are made.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l7291-l7366
+  passage_sha256=a867e2c571060e4fed78a00b78703364a13a15fec14f5c9987d0441609262be9
+

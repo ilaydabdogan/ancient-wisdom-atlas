@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l2506-l2541
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE SECOND TABLET / THE THIRD TABLET / THE THIRD TABLET / THE FOURTH TABLET;
+    lines 2506-2541
+  start: '2506'
+  end: '2541'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: O Marduk, thou art our avenger. We give thee lordship over the whole world.
+  summary: The gods honor Marduk, seat him as sovereign before his fathers, declare
+    his destiny and command incomparable, affirm that his word is irresistible, establish
+    his sanctuary, and grant him lordship over the whole world.
+  language: English with transliterated Akkadian at the end
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A princely seat is prepared for Marduk, and he takes his place as sovereign
+    before his fathers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Marduk is addressed as most honored among the great gods, with a destiny beyond
+    compare.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Marduk's command is said not to be changed, and the power to exalt and abase
+    is said to lie in his hand.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The word of Marduk's mouth is described as established and his command as
+    resistless.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: No god is said to transgress Marduk's limits.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Marduk's sanctuary is to be established in the sanctuary of the gods.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speakers call Marduk their avenger and give him lordship over the whole
+    world.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Marduk
+  description: A deity addressed as honored among the great gods, enthroned as sovereign,
+    avenger, and recipient of worldwide lordship.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: great gods / gods
+  description: A collective divine group that addresses Marduk, acknowledges his command,
+    and grants him lordship.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Marduk's fathers
+  description: Figures before whom Marduk takes his place as sovereign.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Anu
+  description: Named in the statement that Marduk's command is Anu.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: enthroned sovereign
+  assigned_to:
+  - fig:1
+  basis: Marduk takes a princely seat and his place as sovereign.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine avenger
+  assigned_to:
+  - fig:1
+  basis: The speakers call Marduk their avenger.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: world lord
+  assigned_to:
+  - fig:1
+  basis: The speakers give Marduk lordship over the whole world.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: divine assembly granting authority
+  assigned_to:
+  - fig:2
+  basis: The gods address Marduk and give him lordship.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: ancestral or senior divine witnesses
+  assigned_to:
+  - fig:3
+  basis: Marduk takes his sovereign place before his fathers.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: princely seat
+  literal_form: seat prepared for Marduk
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: unchangeable command
+  literal_form: command that shall not be changed and shall not be transgressed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: word of the mouth
+  literal_form: established word of Marduk's mouth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sanctuary
+  literal_form: Marduk's sanctuary established in the sanctuary of the gods
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: whole world
+  literal_form: the whole world over which lordship is given
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Enthronement before the fathers
+  summary: A princely seat is prepared for Marduk, and he takes his place as sovereign
+    before his fathers.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Declaration of Marduk's supreme command
+  summary: The divine speakers acclaim Marduk as honored among the great gods, describe
+    his destiny and command as incomparable, and state that his word cannot be resisted
+    or transgressed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Establishment of sanctuary and lordship
+  summary: The gods state that Marduk's sanctuary will be established among theirs,
+    call him their avenger, and grant him lordship over the whole world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine enthronement and grant of kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Marduk is seated as sovereign before his fathers and is granted lordship
+    over the whole world by the divine assembly.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage presents divine kingship directly; broader ritual or political
+    context is not supplied in the excerpt.
+- id: motif:2
+  label: irresistible divine decree
+  taxonomy_refs:
+  - divine_judgment
+  basis: Marduk's command is unchangeable, his word is established, he can exalt and
+    abase, and no god transgresses his limits.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage emphasizes sovereign command and power to exalt or abase;
+    it does not narrate a specific judgment scene.
+- id: motif:3
+  label: divine avenger elevated by the gods
+  taxonomy_refs: []
+  basis: The speakers identify Marduk as their avenger and immediately grant him lordship
+    over the whole world.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The avenging action itself is not narrated in this excerpt; only the title
+    and grant of lordship are stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2506-2509
+  quote_or_summary: '"They prepared for him a princely seat"; before his fathers he
+    takes his place as sovereign.'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: 2510-2517
+  quote_or_summary: Marduk is acclaimed as most honored among the great gods; his
+    destiny is beyond compare and his command is identified with Anu.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2518-2525
+  quote_or_summary: Marduk's command will not be changed; to exalt and abase lie in
+    his hand; his word is established, his command resistless, and no god transgresses
+    his limits.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2526-2531
+  quote_or_summary: The passage links the maintenance of divine shrines with the establishment
+    of Marduk's sanctuary among the gods' sanctuaries.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 2532-2535
+  quote_or_summary: '"O Marduk, thou art our avenger. We give thee lordship over the
+    whole world."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: note
+  locator: 2536-2541
+  quote_or_summary: The passage ends with transliterated Akkadian lines including
+    the divine name Marduk; no additional distinct narrative action is extracted from
+    these lines here.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; noted without extended quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage clearly supports extraction of enthronement, supreme divine command,
+    sanctuary establishment, and worldwide lordship. Motif labels are candidate classifications
+    and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or imply a specific cross-textual comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l2506-l2541
+  passage_sha256=ccccd705dccf6e5786cc2519ac82d551fc5eb6093a291b15535d47079912c05d
+

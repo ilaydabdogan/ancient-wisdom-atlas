@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.polynesian-samoa-hundred-years-ago-turner-gutenberg-l5210-l5230
+source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+passage_locator:
+  label: JANUARY. / FEBRUARY. / MARCH. / APRIL.; lines 5210-5230
+  start: '5210'
+  end: '5230'
+  translation: Samoa, A Hundred Years Ago And Long Before
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains Samoan names and associations for April and May. April
+    is called Lo after a small fish appearing in shoals, and also Fanonga, meaning
+    destruction, after a god worshipped at the eastern extremity of the group. May
+    is called Aununu, meaning stem crushed, from the condition of yam stems, or alternatively
+    from malicious demons thought to wander then; sea fish were also thought to be
+    possessed and unusually savage. May is described as an unhealthy transition from
+    wet to dry season, and on one island is also called Sina, meaning white, from
+    worship of a goddess of that name.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: April is called Lo from the name of a small fish that appears in plentiful
+    shoals at that time.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: April is also called Fanonga, translated as destruction, the name of a god
+    worshipped at the eastern extremity of the group during that month.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: May is called Aununu, translated as stem crushed, from the crushed or pulverised
+    state of the yam stem at that time.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An alternative explanation says May was named from multitudes of malicious
+    demons supposed to be wandering about at that time.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The fish of the sea were supposed to be possessed and unusually savage in
+    May.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: May is described as often unhealthy because it is the transition from the
+    wet season to the dry season.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: May is also called Sina, translated as white, on one island because of the
+    worship of a goddess named Sina there.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Fanonga
+  description: A god whose name is translated as destruction and who was worshipped
+    at the eastern extremity of the group during April.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: malicious demons
+  description: Multitudes of malicious demons supposed to be wandering about in May.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: fish of the sea
+  description: Sea fish supposed to be possessed and unusually savage in May.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Sina
+  description: A goddess whose name is translated as white and whose worship on one
+    island gives May an additional name.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: deity associated with a month-name and worship
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Fanonga is a god worshipped during April; Sina is a goddess whose worship
+    gives May a name on one island.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: god named Destruction
+  assigned_to:
+  - fig:1
+  basis: The passage translates Fanonga as destruction and identifies it as the name
+    of a god.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: wandering malicious beings
+  assigned_to:
+  - fig:2
+  basis: The demons are described as malicious and supposed to wander about during
+    May.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: possessed and unusually savage animals
+  assigned_to:
+  - fig:3
+  basis: The sea fish are described as supposed to be possessed and unusually savage
+    in May.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Lo fish shoals
+  literal_form: small fish appearing in plentiful shoals during April
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Fanonga / destruction
+  literal_form: month-name and divine name translated as destruction
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: crushed yam stem
+  literal_form: crushed or pulverised stem of the yam in May
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wandering malicious demons
+  literal_form: multitudes of malicious demons wandering during May
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: possessed savage sea fish
+  literal_form: fish of the sea supposed to be possessed and unusually savage
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Sina / white
+  literal_form: month-name and goddess name translated as white
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: April named for fish and destructive god
+  summary: April is identified by names connected to seasonal fish shoals and to Fanonga,
+    a god named destruction worshipped during that month.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: May as crushed-stem and dangerous transition month
+  summary: May is named for the crushed yam stem and is alternatively associated with
+    wandering malicious demons, possessed savage sea fish, sickness, and the transition
+    from wet to dry season.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: May named Sina on one island
+  summary: On one island, May is also called Sina, meaning white, because of the worship
+    of a goddess of that name.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal calendar naming from natural signs and worship
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links month names to recurring seasonal signs, including April
+    fish shoals, May yam-stem condition, wet-to-dry transition, and month-specific
+    worship of deities.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is an ethnographic explanation of calendar names rather than
+    a narrative myth episode.
+- id: motif:2
+  label: dangerous seasonal transition with spirits, possession, and sickness
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: May is described as an unhealthy transition from wet to dry season, with
+    malicious demons wandering and sea fish supposed to be possessed and unusually
+    savage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text presents beliefs associated with a month; it does not narrate
+    a specific spirit encounter or ritual response.
+- id: motif:3
+  label: month named for worshipped deity
+  taxonomy_refs: []
+  basis: April is also named Fanonga after a god worshipped in that month, and May
+    is also called Sina on one island from worship of a goddess there.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: No broader comparative taxonomy reference is assigned beyond the local
+    month-name pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5210-5214
+  quote_or_summary: April is called Lo after a small fish that comes in plentiful
+    shoals at that time.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5215-5217
+  quote_or_summary: April is also called Fanonga, meaning destruction, the name of
+    a god worshipped at the eastern extremity of the group during that month.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5219-5222
+  quote_or_summary: May is called Aununu, meaning stem crushed, from the crushed or
+    pulverised state of the yam stem at that time.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5222-5225
+  quote_or_summary: Others say May was named from malicious demons wandering about;
+    even sea fish were supposed to be possessed and unusually savage in this month.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5225-5228
+  quote_or_summary: May is often unhealthy as the transition from wet season to dry,
+    associated with crushing sickness and superstitious vagaries.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:6
+  type: summary
+  locator: lines 5229-5230
+  quote_or_summary: May is also called Sina, meaning white, on one island from worship
+    of a goddess of that name there.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; brief summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is straightforward from the provided passage. Motif candidates
+    are limited because the passage is a calendar and ethnographic note rather than
+    a myth narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage text and metadata; available taxonomy reference applied only to seasonal-cycle candidates.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:polynesian-samoa-hundred-years-ago-turner-gutenberg__l5210-l5230
+  passage_sha256=fb152774010296f988b7203ff4e0b2d68c73fccc22429f28943f7268e8eec734
+

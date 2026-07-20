@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l9013-l9024
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: LI.--THE HUNDRED-LEAVED ROSE. / LII.--KRALJEVITCH MARKO. / LIII.--THE DAUGHTER
+    OF THE KING OF THE VILAS. / LIV.--THE WONDER-WORKING LOCK.; lines 9013-9024
+  start: '9013'
+  end: '9024'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A fish avoids being killed by producing a lock. The lock is brought to
+    a master, who knocks on it and summons twelve young men. He commands the restoration
+    of his castle, wife, and a king. The wife is reunited with him, and the king of
+    the sea is punished and destroyed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The fish speaks, asks not to be killed, and offers to give the lock.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fish immediately brings the lock up.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An unnamed group goes to their master, carries up the lock, and reports that
+    they have brought it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The master takes the lock, knocks upon it, and twelve young men spring out
+    asking for commands.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The master commands that his castle be placed where it was, together with
+    the king and his wife.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The command is fulfilled, and the wife runs to the master and kisses him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The master causes the king of the sea to be impaled on a spit in the midst
+    of the sea.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The master obtains his castle back, lives happily with his wife, and the king
+    of the sea is destroyed.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: fish
+  description: A speaking fish that pleads not to be killed and brings up the lock.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed group carrying the lock
+  description: A group referred to only as “they,” who carry the lock to their master
+    and report its recovery.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: master
+  description: The recipient of the lock; he knocks on it, gives commands, reunites
+    with his wife, and punishes the king of the sea.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: twelve young men
+  description: Twelve young men who spring out of the lock and ask for commands.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: wife
+  description: The master's wife, restored by the command and reunited with him in
+    the castle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: king of the sea
+  description: A king associated with the sea, placed by the command and later impaled
+    and destroyed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: speaking animal who yields the lock
+  assigned_to:
+  - fig:1
+  basis: The fish asks not to be killed, promises the lock, and brings it up.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lock carriers
+  assigned_to:
+  - fig:2
+  basis: They carry the lock to their master and report that they have brought it.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: master and command-giver
+  assigned_to:
+  - fig:3
+  basis: He receives the lock, knocks upon it, issues commands, and orders the sea
+    king's punishment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: summoned command responders
+  assigned_to:
+  - fig:4
+  basis: They spring out of the lock and ask what commands are required.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: reunited wife
+  assigned_to:
+  - fig:5
+  basis: After the command is fulfilled, she runs to the master and kisses him; they
+    later live happily together.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: punished sea king
+  assigned_to:
+  - fig:6
+  basis: The king of the sea is impaled in the midst of the sea and destroyed.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: wonder-working lock
+  literal_form: lock
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: restored castle
+  literal_form: castle
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: sea
+  literal_form: sea
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fish produces the lock
+  summary: The fish pleads for its life, offers the lock, and brings the lock up.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lock returned to the master
+  summary: An unnamed group carries the lock to the master and tells him they have
+    brought it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Lock summons twelve young men
+  summary: The master knocks on the lock; twelve young men emerge and ask for commands.
+    The master commands restoration of the castle, the king, and his wife.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Restoration, reunion, and punishment
+  summary: The command is fulfilled. The wife reunites with the master, the master
+    regains the castle, and the king of the sea is impaled and destroyed.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: life spared in exchange for a recovered object
+  taxonomy_refs: []
+  basis: The fish asks not to be killed and gives the lock by bringing it up.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage begins mid-sentence, so the full circumstances of the threat
+    are not included.
+- id: motif:2
+  label: command-activated magical object summons servants
+  taxonomy_refs: []
+  basis: When the master knocks on the lock, twelve young men spring out and ask for
+    commands.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the origin of the lock or the twelve young
+    men.
+- id: motif:3
+  label: restoration of home and spouse
+  taxonomy_refs:
+  - return
+  basis: The master commands the castle to be placed where it was and is reunited
+    with his wife; the passage states that he obtained his castle back again.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The preceding loss or removal of the castle and wife is only implied within
+    this line range by the restoration command and the phrase that he obtained the
+    castle back.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9013-9015
+  quote_or_summary: The fish says not to kill it, promises to give the lock, and immediately
+    brings the lock up.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9015-9018
+  quote_or_summary: They go to their master, carry up the lock, and tell him that
+    they have brought it.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 9018-9021
+  quote_or_summary: "“he took it and knocked upon it, and out sprang the twelve young
+    men: ‘What are your commands?’”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 9021-9022
+  quote_or_summary: The command is done, and the wife immediately runs to the master
+    and they kiss.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9022-9024
+  quote_or_summary: The master has the king of the sea impaled in the sea, regains
+    his castle, lives happily with his wife, and the king of the sea is destroyed.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by the passage beginning mid-sentence and by unresolved
+    pronouns such as “they.” No cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied line range and metadata were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l9013-l9024
+  passage_sha256=4ab24fb5f6dd7cebbcde15fcc8b8c9f3ecf04f2a981e488286c405eeac4cd229
+

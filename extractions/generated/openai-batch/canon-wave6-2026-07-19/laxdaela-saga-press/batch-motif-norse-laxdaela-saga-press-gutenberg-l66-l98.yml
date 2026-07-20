@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l66-l98
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CONTENTS / CHAP. / I. OF KETILL FLATNOSE AND HIS DESCENDANTS, 9TH CENTURY
+    A.D. / II.  KETILL AND HIS SONS PREPARE TO LEAVE NORWAY.; lines 66-98
+  start: '66'
+  end: '98'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: II.  KETILL AND HIS SONS PREPARE TO LEAVE NORWAY.
+  summary: The passage is title-page and contents material for Laxdaela Saga. The
+    contents list chapters about Ketill Flatnose and his descendants, Ketill and his
+    sons preparing to leave Norway, and Ketill's sons going to Iceland.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as Laxdaela Saga, translated from Icelandic
+    by Muriel A.C. Press.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list chapter I as concerning Ketill Flatnose and his descendants
+    in the 9th century A.D.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents list chapter II as concerning Ketill and his sons preparing to
+    leave Norway.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents list chapter III as concerning Ketill's sons going to Iceland.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The contents entries appear in sequence as chapters I, II, and III.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ketill Flatnose
+  description: Named in chapter headings as the subject of a chapter with his descendants
+    and as preparing with his sons to leave Norway.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Ketill's sons
+  description: Named as preparing with Ketill to leave Norway and as going to Iceland.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Ketill Flatnose's descendants
+  description: Named in the chapter I heading as descendants of Ketill Flatnose.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named family figure
+  assigned_to:
+  - fig:1
+  basis: The chapter I heading names Ketill Flatnose together with his descendants.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: preparers to leave Norway
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The chapter II heading says Ketill and his sons prepare to leave Norway.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: travelers to Iceland
+  assigned_to:
+  - fig:2
+  basis: The chapter III heading says Ketill's sons go to Iceland.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: descendant group
+  assigned_to:
+  - fig:3
+  basis: The chapter I heading identifies a group as Ketill Flatnose's descendants.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Norway
+  literal_form: Norway
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Iceland
+  literal_form: Iceland
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Genealogical chapter heading
+  summary: A contents heading states that chapter I concerns Ketill Flatnose and his
+    descendants in the 9th century A.D.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Preparation to leave Norway
+  summary: A contents heading states that Ketill and his sons prepare to leave Norway.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sons go to Iceland
+  summary: A contents heading states that Ketill's sons go to Iceland.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Departure from homeland
+  taxonomy_refs:
+  - departure
+  basis: The contents headings describe preparation to leave Norway and a subsequent
+    movement to Iceland.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is only a table of contents and gives no narrative details,
+    causes, ritual actions, route, or outcome beyond the named destination.
+- id: motif:2
+  label: Lineage and descendants framing
+  taxonomy_refs: []
+  basis: The chapter I heading frames Ketill Flatnose in relation to his descendants
+    and a historical period.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This is a contents heading, not a developed narrative motif, and it is
+    not matched to an available taxonomy reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 66-98
+  quote_or_summary: Title-page material identifies the work as Laxdaela Saga, translated
+    from Icelandic by Muriel A.C. Press and published by J.M. Dent and Co.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 66-98
+  quote_or_summary: I. OF KETILL FLATNOSE AND HIS DESCENDANTS, 9TH CENTURY A.D.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 66-98
+  quote_or_summary: II.  KETILL AND HIS SONS PREPARE TO LEAVE NORWAY.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 66-98
+  quote_or_summary: III.  KETILL's SONS GO TO ICELAND.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward because the passage consists of title
+    and contents headings. Motif identification is limited by the absence of the full
+    narrative episode. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external saga context was added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l66-l98
+  passage_sha256=363a5410a0d3b03fb7c5c0cfb413663441a5a790a9e878f7f3df9c9936125c17
+

@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l5089-l5143
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE THIRTY-SIXTH CHAPTER / THE NINTH BOOKE / THE THIRTY-SEVENTH CHAPTER /
+    THE THIRTY-EIGHTH CHAPTER; lines 5089-5143
+  start: '5089'
+  end: '5143'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A poor laboring husband returns home unexpectedly while his wife is with
+    her lover. The wife hides the lover under a great tub and turns the situation
+    into a false sale and inspection of the tub. The husband is persuaded to clean
+    the tub while the lover continues with the wife, then pays seven pence and has
+    the husband carry the tub away.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces a poor man who lives by his manual labor and has a
+    young wife described as fair and sexually desirous.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While the husband is away in the fields, the wife's lover secretly enters
+    the house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When the husband returns and announces himself by whistling, the wife hides
+    her lover under a large tub in a corner.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wife rebukes her husband for returning empty-handed and contrasts herself
+    with her neighbor Daphne, whom she describes as eating, drinking, and spending
+    time with lovers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The husband says he has sold the unused tub for five pence to a man present
+    there and asks his wife to help deliver it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The wife claims she had already been offered seven pence for the tub and identifies
+    the man under the tub as someone inspecting whether it is sound.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The lover, still under the tub, supports the wife's story by saying the tub
+    seems rotten and cracked and asks the husband to light a candle for inspection.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The husband lights the candle, removes his coat, and crawls under the tub
+    to clean it himself.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:9
+  text: While the husband is under the tub, the lover is described as having his pleasure
+    with the wife above him while pretending to inspect and criticize the tub.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Afterward, the lover pays seven pence for the tub and makes the husband carry
+    it on his back to the inn.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: poor husband
+  description: A poor man of the town who works with his hands, returns home from
+    the fields, believes the tub-sale ruse, cleans the tub, and later carries it away.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: wife
+  description: The poor man's young wife, described as fair, lascivious, and crafty;
+    she hides her lover under the tub and improvises a deception about selling it.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: wife's lover
+  description: The wife's lover secretly enters the house, is hidden under the tub,
+    speaks as though inspecting it, pays seven pence, and has the husband carry it
+    away.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Daphne
+  description: A neighbor named in the wife's complaint as someone who eats, drinks,
+    and spends time with lovers; she does not appear directly in the action.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: laboring husband
+  assigned_to:
+  - fig:1
+  basis: The man is introduced as poor and dependent on the labor of his hands.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: adulterous and crafty wife
+  assigned_to:
+  - fig:2
+  basis: The wife is described as sexually desirous, hides the lover, and invents
+    a shift to explain his presence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: hidden lover posing as tub inspector
+  assigned_to:
+  - fig:3
+  basis: The lover is concealed under the tub and speaks as if judging whether the
+    tub is sound.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:4
+  label: deceived cleaner and carrier
+  assigned_to:
+  - fig:1
+  basis: The husband cleans the tub himself and later carries it on his back to the
+    inn.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:5
+  label: accomplices in the tub ruse
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The wife claims the hidden man is inspecting the tub, and the lover confirms
+    the false inspection by complaining about the tub's condition.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: absent comparison figure in speech
+  assigned_to:
+  - fig:4
+  basis: Daphne is invoked only in the wife's complaint as a contrasting neighbor.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: great tub
+  literal_form: A large tub standing in a corner of the house.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: candle
+  literal_form: A candle lit so the supposed buyer can inspect the inside of the tub.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Household set-up and secret visit
+  summary: The poor husband goes to the fields, and the wife's lover secretly enters
+    the house while he is away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Return and concealment
+  summary: The husband returns and whistles; the wife hides the lover beneath a large
+    tub before opening the door.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Invented sale and inspection
+  summary: The wife complains to the husband, then reframes the hidden lover as a
+    buyer inspecting the tub; the lover supports the deception by asking for a candle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Husband made to serve the deception
+  summary: The husband cleans the tub while the lover is with the wife above him,
+    and afterward the lover pays seven pence and has the husband carry the tub away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Hidden lover in a domestic container
+  taxonomy_refs: []
+  basis: The wife conceals her lover under a large tub when the husband returns unexpectedly.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a comic domestic episode; no broader mythological taxonomy is
+    asserted.
+- id: motif:2
+  label: False sale or inspection used to cover adultery
+  taxonomy_refs: []
+  basis: The wife and lover transform the lover's hiding place into a supposed commercial
+    inspection of the tub.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage itself presents the event as deception rather than as a sacred
+    or supernatural motif.
+- id: motif:3
+  label: Cuckolded husband made unwitting assistant
+  taxonomy_refs: []
+  basis: The husband is induced to clean the tub while the lover continues with the
+    wife, then to carry the tub away for the lover.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The label is descriptive of the passage action and does not claim historical
+    relationship to other tale types.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5089-5095
+  quote_or_summary: A poor man lives by the labor of his hands; his wife is described
+    as fair, young, lascivious, and desirous of the flesh.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5096-5106
+  quote_or_summary: While the husband is at the fields, the wife's lover secretly
+    enters; when the husband returns and whistles, she covers the lover under a great
+    tub in a corner.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5107-5116
+  quote_or_summary: The wife rebukes the husband for bringing nothing home, says she
+    spins day and night, and names Daphne as happier with food, drink, and lovers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5117-5123
+  quote_or_summary: The husband says he has sold the tub, which takes up space uselessly,
+    to a man present there for five pence and asks help delivering it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5124-5130
+  quote_or_summary: The wife says she had been offered seven pence for the tub and
+    explains that the man has gone under it to see whether it is sound.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5130-5137
+  quote_or_summary: The lover speaks from under the tub, says it seems rotten and
+    cracked, and asks the husband to light a candle; the husband agrees to clean it
+    himself.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 5137-5141
+  quote_or_summary: The husband removes his coat and creeps under the tub to clean
+    it; meanwhile the lover has his pleasure with the wife over the husband's head
+    while finding fault with the tub.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 5141-5143
+  quote_or_summary: After the encounter ends, the lover pays seven pence for the tub
+    and makes the husband carry it on his back to the inn.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The sequence and figures are explicit in the supplied passage. Motif labels
+    are descriptive only, and no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy references or comparison claims were assigned because the passage supports a domestic deception pattern but does not itself establish a broader mythological comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l5089-l5143
+  passage_sha256=2f362053f91855da570dec2ee1c203ed0707839ad33b236500849b40a49885d8
+

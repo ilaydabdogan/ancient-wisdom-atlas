@@ -1,0 +1,25 @@
+---
+batch_request_index_version: '1'
+run_id: review-subfam2-terra
+source_run: subfamily-round2-2026-07-18
+queue_type: subfamily_binning
+drafter_model: gpt-5.6-luna
+created_at: '2026-07-18T18:53:44Z'
+updated_at: '2026-07-18T18:58:36Z'
+endpoint: "/v1/responses"
+model: gpt-5.6-terra
+shards:
+- shard_id: shard-0001
+  path: data/batches/review-subfam2-terra/requests/shard-0001.jsonl
+  request_count: 36
+  bytes: 276775
+  sha256: 43f0c3b69342277b336fd691e138961b4029803135bf94985dfd189c690a979d
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/review-subfam2-terra/results/shard-0001.output.jsonl
+  output_sha256: 3ab27d908593b2e2ef5410a6bf12078c1ff7db29d24fb1267f438482e1f57b32
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T18:58:36Z'
+

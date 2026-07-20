@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l27187-l27195
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION XXVIII / SECTION XXIX / SECTION XXX / SECTION XXXI; lines 27187-27195
+  start: '27187'
+  end: '27195'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Rise up, O king, and bear the burthen of this thy ancestral kingdom
+  summary: An unnamed past figure is described as having performed many gift-filled
+    sacrifices, gratified the gods and the Pitris, produced many sons whose descendants
+    multiplied the race, and then died after many years. The addressed king is urged
+    to put aside grief, heed the counsel of Kesava and Vyasa, resume the burden of
+    his ancestral kingdom, and perform great sacrifices to obtain desired regions
+    hereafter.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed male figure worshipped the gods through many great sacrifices accompanied
+    by profuse presents.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same figure is said to have gratified both the gods and the Pitris.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The figure procreated many sons, and their offspring multiplied the race.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After many years, the figure died, expressed as going the way of all nature.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The addressed king is told to dispel the grief born in his heart, in line
+    with counsel from Kesava and Vyasa.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The addressed king is told to rise, bear the burden of his ancestral kingdom,
+    and perform great sacrifices so that he may obtain desired regions hereafter.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed past sacrificer and progenitor
+  description: A male figure described as splendid, a performer of many sacrifices,
+    a father of many sons, and one who died after many years.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: gods
+  description: Divine recipients worshipped and gratified through sacrifices.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Pitris
+  description: Ancestral beings said to be gratified by the unnamed figure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: many sons and their offspring
+  description: The sons of the unnamed figure and their descendants, through whom
+    the race multiplied.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: addressed king
+  description: The figure addressed as king and foremost of kings, urged to dispel
+    grief and resume the burden of an ancestral kingdom.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Kesava
+  description: A named figure said to have counselled the addressed king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Vyasa
+  description: A named figure described as of austere penances and said to have counselled
+    the addressed king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sacrificing progenitor who dies after long life
+  assigned_to:
+  - fig:1
+  basis: The figure performs sacrifices, has many sons whose descendants multiply
+    the race, and dies after many years.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: supernatural recipients of ritual gratification
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The gods and Pitris are explicitly said to be gratified.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: lineage multipliers
+  assigned_to:
+  - fig:4
+  basis: The sons and their offspring multiply the race.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: grieving ruler addressed by counsel
+  assigned_to:
+  - fig:5
+  basis: The king is told to dispel grief born in his heart.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: bearer of ancestral kingship
+  assigned_to:
+  - fig:5
+  basis: The king is instructed to bear the burden of his ancestral kingdom.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: named counsellors
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Kesava and Vyasa are named as figures who have counselled the king.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: great sacrifices with presents
+  literal_form: Many great sacrifices characterized by profuse presents; later, high
+    and great sacrifices prescribed for the king.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: ancestral kingdom
+  literal_form: The addressed king's ancestral kingdom, described as a burden to be
+    borne.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: desired regions hereafter
+  literal_form: Regions to be obtained hereafter through the performance of high and
+    great sacrifices.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Pitris
+  literal_form: The ancestral Pitris named alongside the gods as recipients of gratification.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Past sacrificer, lineage, and death
+  summary: A past figure worships the gods through lavish sacrifices, gratifies the
+    gods and Pitris, produces many sons whose descendants multiply the race, and dies
+    after many years.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Counsel to the grieving king
+  summary: The addressed king is urged to set aside grief, heed Kesava and Vyasa,
+    rise, bear the burden of his ancestral kingdom, and perform great sacrifices for
+    desired regions hereafter.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrifice gratifies divine and ancestral recipients
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that sacrifices worship and gratify the gods and Pitris,
+    and later prescribes great sacrifices for the king.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not describe the ritual procedure or name the sacrifice
+    type.
+- id: motif:2
+  label: ritual action aimed at desired afterlife regions
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The king is told to perform high and great sacrifices so that he may obtain
+    whatever regions he desires hereafter.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage frames the result as future attainment but gives no detailed
+    afterlife geography.
+- id: motif:3
+  label: grief redirected into royal duty
+  taxonomy_refs:
+  - royal_legitimacy
+  - wisdom
+  basis: The king is instructed, after counsel from Kesava and Vyasa, to dispel grief
+    and bear the burden of his ancestral kingdom.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not include an enthronement scene or a formal theory
+    of kingship.
+- id: motif:4
+  label: lineage continuity before natural death
+  taxonomy_refs: []
+  basis: The unnamed figure procreates many sons, whose offspring multiply the race,
+    before he dies after many years.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a narrative pattern in the excerpt, but no supplied taxonomy family
+    directly matches it.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage fits the sacrifice motif family at the motif level: sacrifices
+    and gifts are linked with worship, gratification of gods and ancestors, and future
+    attainment.'
+  claim_level: same_motif
+  target: motif_family:sacrifice
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a motif-family classification only; the excerpt does not support
+    claims about historical contact or a specific ritual tradition beyond the supplied
+    passage.
+- id: claim:2
+  claim: The counsel to resume the burden of an ancestral kingdom has the same function
+    as a royal-legitimacy pattern in which grief is subordinated to inherited rulership
+    and ritual obligation.
+  claim_level: same_function
+  target: motif_family:royal_legitimacy
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports inherited kingship and duty, but not a full coronation,
+    succession dispute, or explicit legitimacy doctrine.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 27187-27188
+  quote_or_summary: '"He worshipped the gods in many great sacrifices characterised
+    by profuse presents."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 27188-27189
+  quote_or_summary: '"Possessed of great splendour, he gratified the gods and the
+    Pitris."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 27189-27191
+  quote_or_summary: The figure procreated many sons, their descendants multiplied
+    the race, and he died after many years.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 27191-27193
+  quote_or_summary: The addressed king is told to dispel grief, as Kesava and Vyasa
+    have counselled him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 27193-27195
+  quote_or_summary: '"Rise up, O king, and bear the burthen of this thy ancestral
+    kingdom, and perform high and great sacrifices" to obtain desired regions hereafter.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and contains several clear ritual and royal-duty elements,
+    but names and broader narrative context are mostly absent from the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external identification of Kesava, Vyasa, the speaker, or the unnamed past figure has been added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l27187-l27195
+  passage_sha256=736ab015def79597da86cbb1a79da1dcd347b40059f39b9910e0fa5f5c7e2957
+

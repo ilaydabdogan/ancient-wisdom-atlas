@@ -1,0 +1,119 @@
+---
+record_id: batch.motif.roman-virgil-georgics-rhoades-gutenberg-l1404-l1407
+source_text_path: texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md
+passage_locator:
+  label: THE GEORGICS / GEORGIC I / GEORGIC II / GEORGIC III; lines 1404-1407
+  start: '1404'
+  end: '1407'
+  translation: The Georgics
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    'Tis time our steaming horses to unyoke.
+
+    GEORGIC III
+  summary: The passage states that it is time to unyoke the steaming horses, then
+    presents the heading for Georgic III.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The line says it is time to unyoke the horses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The horses are described as steaming.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The phrase uses first-person plural possession: “our” horses.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The heading “GEORGIC III” follows the line.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: steaming horses
+  description: Horses described as steaming and as due to be unyoked.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: animals to be unyoked
+  assigned_to:
+  - fig:1
+  basis: The line states that it is time to unyoke the horses.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: steaming horses
+  literal_form: horses
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: unyoking
+  literal_form: act of unyoking horses
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Unyoking before the next Georgic
+  summary: The passage announces that the steaming horses should be unyoked, and the
+    heading for Georgic III follows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '1404'
+  quote_or_summary: "'Tis time our steaming horses to unyoke."
+  source_text_path: texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: '1407'
+  quote_or_summary: GEORGIC III
+  source_text_path: texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: Literal extraction is straightforward. No taxonomy-supported motif or passage-supported
+    comparison is evident from this brief transitional excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motif or comparison claim was added because the passage only provides a brief unyoking image and a book heading.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-virgil-georgics-rhoades-gutenberg__l1404-l1407
+  passage_sha256=174392880a64bdd71313fe641ec9328267cdf83b7e6bb4ab3c562fd7aaff726c
+

@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.greek-plutarch-morals-shilleto-gutenberg-l3748-l3803
+source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+passage_locator:
+  label: ON LOVE. / CONJUGAL PRECEPTS. / PLUTARCH SENDS GREETING TO POLLIANUS AND
+    EURYDICE. / CONSOLATORY LETTER TO HIS WIFE.; lines 3748-3803
+  start: '3748'
+  end: '3803'
+  translation: Plutarch's Morals
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: departed into a better and more divine place and sphere
+  summary: The passage argues from ancestral custom and law that infants who die receive
+    neither libations nor the usual adult funerary rites. Parents are not to linger
+    at infant tombs or mourn, because such infants are said to have no share in earthly
+    things and to have departed to a better divine sphere. The speaker advises outward
+    obedience to the laws and inward purity.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage appeals to hereditary, time-honoured customs and laws as evidence
+    for its claim.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When infants die, libations are not poured out for them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Other rites performed for adults are not performed for dead infants.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that dead infants have no share in the earth or in earthly
+    things.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Parents do not haunt infant tombs or monuments or sit by infant bodies when
+    they are laid out.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The laws do not allow mourning for such infants.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Mourning for such infants is described as impious because they have departed
+    into a better and more divine place and sphere.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The speaker acknowledges doubts but advises external conformity to the laws
+    and internal holiness, purity, and chastity.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Infants who die
+  description: Infants who die and are said not to receive libations or adult funerary
+    rites, to have no share in earthly things, and to have departed to a better divine
+    sphere.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Adults
+  description: Adults are the comparison group for whom the passage says such rites
+    are always performed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Parents
+  description: Parents are described as not haunting tombs or monuments, not sitting
+    by laid-out bodies, and being included in the exhortation to follow the laws outwardly
+    and remain inwardly pure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: deceased infant exempt from ordinary funerary rites
+  assigned_to:
+  - fig:1
+  basis: The passage says infants who die receive neither libations nor the rites
+    performed for adults.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: adult deceased receiving customary rites
+  assigned_to:
+  - fig:2
+  basis: Adults are named as those for whom the omitted rites are always performed.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: restrained parent or mourner
+  assigned_to:
+  - fig:3
+  basis: Parents are described as not lingering by infant tombs or bodies and are
+    advised to obey the laws outwardly.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: withheld libations
+  literal_form: libations not poured out for dead infants
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: withheld funerary rites
+  literal_form: other rites performed for adults but not performed for infants
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: earth and earthly things
+  literal_form: the earth and things of the earth, from which dead infants are said
+    to have no share
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: tombs and monuments
+  literal_form: tombs or monuments not haunted by parents
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: better divine sphere
+  literal_form: a better and more divine place and sphere
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Infant deaths without ordinary rites
+  summary: 'The passage presents a customary distinction: dead infants receive no
+    libations or adult funerary rites, and parents do not keep vigil at their tombs,
+    monuments, or laid-out bodies.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Law-based consolation and purity counsel
+  summary: The laws are said to forbid mourning for infants because they have gone
+    to a better divine sphere; the speaker counsels outward obedience and inward purity.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Infant funerary rites omitted by ancestral law
+  taxonomy_refs: []
+  basis: The passage explicitly says infants receive no libations or adult funerary
+    rites, and that laws do not allow mourning for them.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a local ritual pattern in the passage rather than a cross-cultural
+    motif claim.
+- id: motif:2
+  label: Dead infant as unearthly and divinely received
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Dead infants are said to have no share in earth or earthly things and to
+    have departed into a better and more divine place and sphere.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives an afterlife destination but no detailed journey, route,
+    guide, judgment, or map; the taxonomy reference is partial and should be reviewed.
+- id: motif:3
+  label: Consolation through lawful restraint in grief
+  taxonomy_refs: []
+  basis: The passage presents non-mourning as lawfully required and spiritually purifying,
+    advising external obedience and internal holiness, purity, and chastity.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The motif is ethical and consolatory rather than a narrative mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: Sec. XI, lines 3748-3752
+  quote_or_summary: '"when infants die no libations are poured out for them, nor are
+    any other rites performed for them, such as are always performed for adults"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: quote
+  locator: Sec. XI, lines 3752-3755
+  quote_or_summary: '"they have no share in the earth or in things of the earth, nor
+    do parents haunt their tombs or monuments, or sit by their bodies when they are
+    laid out"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: quote
+  locator: Sec. XI, lines 3755-3758
+  quote_or_summary: '"the laws do not allow us to mourn for such, seeing that it is
+    an impious thing to do so in the case of persons who have departed into a better
+    and more divine place and sphere"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: quote
+  locator: Sec. XI, lines 3758-3761
+  quote_or_summary: '"let us do externally as the laws enjoin, and internally let
+    us be more holy and pure and chaste"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal observations are explicit in the passage. Motif candidates are phrased
+    locally; the only taxonomy link is partial because the passage names an afterlife
+    destination but does not describe a full journey map. No comparison claims were
+    generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction focuses on the Sec. XI prose in the supplied line range; the subsequent editorial footnotes are not used for motif identification.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-plutarch-morals-shilleto-gutenberg__l3748-l3803
+  passage_sha256=46ae5b1ecf389ddd4b897bf1a81dcb07144f41991536fb1bbfffc06c1fbf13cc
+

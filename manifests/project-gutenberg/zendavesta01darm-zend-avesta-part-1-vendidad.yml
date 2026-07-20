@@ -1,8 +1,8 @@
 ---
 manifest_version: '1'
 batch_id: auto-ingestion-queue
-created_date: '2026-07-17'
-updated_date: '2026-07-17'
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
 artifacts:
 - id: artifact.gutenberg_zendavesta01darm
   work_id: zoroastrian.avesta.vendidad_darmesteter_archive
@@ -27,7 +27,7 @@ artifacts:
     path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
     checksum:
       algorithm: sha256
-      value: aa2a30878cb3c99f8be9724bcdd8016e2fa29cb0e0a5e5a57c1dcabc0bd3743d
+      value: fea45048576eca4377b00ba6fdbd015089f8806a70203730cccd9ef4543f0cb6
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -59,7 +59,7 @@ artifacts:
   review:
     status: auto_promoted_from_rights_cleared_queue
     reviewer: Codex
-    review_date: '2026-07-17'
+    review_date: '2026-07-19'
     notes: Auto-promoted from a queue item whose rights fields explicitly allowed
       full-text and training use. Human spot review is still recommended.
   extraction:

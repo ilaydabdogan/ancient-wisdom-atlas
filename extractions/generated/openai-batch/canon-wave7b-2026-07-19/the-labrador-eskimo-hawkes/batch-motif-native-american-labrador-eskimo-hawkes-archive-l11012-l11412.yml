@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l11012-l11412
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: T3     O / O    3    ,. / S      05 / V-    XI; lines 11012-11412
+  start: '11012'
+  end: '11412'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists mainly of plate captions describing Labrador and
+    nearby Arctic material culture: coiled basketry, ivory game pieces, owl-feet amulets,
+    soapstone fetishes, a walled grave, and women at a Moravian Mission cutting up
+    white whales.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Plate XXX identifies coiled basketry from Hamilton Inlet and gives a specimen
+    length and museum numbers.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Plate XXXII identifies ivory game objects, including a cup-and-hail game,
+    dominoes, duck pieces, and miniature human figures used in a game.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Plate XXXIV identifies feet of a horned owl used as an amulet and soapstone
+    figures used as fetishes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Plate XXXV.A identifies an Eskimo walled grave on Baffin Island.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Plate XXXV.B identifies Eskimo women at a Moravian Mission in northern Labrador
+    cutting up white whales.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eskimo women at Moravian Mission
+  description: Women shown at a Moravian Mission in northern Labrador cutting up white
+    whales.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: white whales
+  description: White whales being cut up in the Plate XXXV.B captioned scene.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: whale cutters
+  assigned_to:
+  - fig:1
+  basis: The caption says the women are cutting up white whales.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: animals being cut up
+  assigned_to:
+  - fig:2
+  basis: The caption identifies white whales as the animals being cut up.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: coiled basketry
+  literal_form: Coiled basketry from Hamilton Inlet.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ivory game objects
+  literal_form: Ivory cup-and-hail game, dominoes, duck pieces, and miniature human
+    figures used in games.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: horned owl feet amulet
+  literal_form: Feet of a horned owl used as an amulet.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: soapstone fetish figures
+  literal_form: Soapstone figures used as fetishes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: walled grave
+  literal_form: Eskimo walled grave on Baffin Island.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: white whales
+  literal_form: White whales in a scene of cutting up whales at a Moravian Mission.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: 'Plate XXX: coiled basketry'
+  summary: A plate caption describes coiled basketry from Hamilton Inlet and records
+    museum collection details.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: 'Plate XXXII: ivory game pieces'
+  summary: A plate caption describes several ivory game-related objects from the Labrador
+    coast and east coast of Hudson Bay.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: 'Plate XXXIV: amulet and fetishes'
+  summary: A plate caption describes horned owl feet used as an amulet and soapstone
+    figures used as fetishes.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: 'Plate XXXV.A: walled grave'
+  summary: A plate caption identifies an Eskimo walled grave on Baffin Island.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: 'Plate XXXV.B: women cutting up white whales'
+  summary: A plate caption identifies Eskimo women at a Moravian Mission in northern
+    Labrador cutting up white whales.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal-part amulet
+  taxonomy_refs: []
+  basis: The caption explicitly states that feet of a horned owl were used as an amulet.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The caption does not explain the amulet's ritual meaning, use context,
+    or associated narrative.
+- id: motif:2
+  label: fetish figurines
+  taxonomy_refs: []
+  basis: The caption explicitly describes soapstone figures as being used as fetishes.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The caption does not describe the figures' iconography, ritual handling,
+    or belief context.
+- id: motif:3
+  label: miniature and animal game pieces
+  taxonomy_refs: []
+  basis: The caption lists ivory ducks and miniature human figures used in a game,
+    along with other ivory game objects.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage identifies these as game objects but does not provide rules
+    or symbolic interpretation.
+- id: motif:4
+  label: walled grave
+  taxonomy_refs: []
+  basis: The caption identifies an Eskimo walled grave on Baffin Island.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is only a plate caption and does not describe burial ritual,
+    afterlife belief, or mythic associations.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11012-11412; Plate XXX
+  quote_or_summary: "“Coiled basketry from Hamilton inlet. Length of a, 7 inches.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 11012-11412; Plate XXXII
+  quote_or_summary: Plate XXXII describes an ivory cup-and-hail game, ivory dominoes,
+    ivory ducks, and miniature human figures used in a game.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 11012-11412; Plate XXXIV
+  quote_or_summary: "“Feet of horned owl, used as amulet”; “Soapstone figures, used
+    as fetishes.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 11012-11412; Plate XXXV.A
+  quote_or_summary: "“Eskimo walled grave, Baffin island. Taken by E. W. Hawkes.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 11012-11412; Plate XXXV.B
+  quote_or_summary: "“Eskimo women at Moravian Mission in northern Labrador cutting
+    up white whales.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Readable information is mostly limited to plate captions in an OCR-noisy
+    passage. Motif candidates are material-culture patterns rather than narrative
+    motifs. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage does not directly support those specific taxonomy entries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l11012-l11412
+  passage_sha256=6184a2eef65894a25dede444e84fd693805c7598147ca205b678c2d45b5a71d6
+

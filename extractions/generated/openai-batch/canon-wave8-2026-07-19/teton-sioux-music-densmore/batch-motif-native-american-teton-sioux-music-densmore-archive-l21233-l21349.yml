@@ -1,0 +1,176 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l21233-l21349
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: PART  OF  MEASURE  ON  WHICH  SONQ  BEGINS / RHYTHM  OF  FIRST  MEASURE /
+    RHYTHM  OF  DRUM / METRIC  UNIT  OF  VOICE  (TEMPO); lines 21233-21349
+  start: '21233'
+  end: '21349'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a partially garbled tabular section classifying a set of
+    songs by drum rhythm, rhythmic unit of song, and metric unit of voice or tempo.
+    It lists categories such as unaccented eighth-note and quarter-note drum rhythms,
+    no/one/two rhythmic units, and song counts with serial numbers where legible.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is organized as musicological tables rather than as a narrative
+    episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: A section headed “RHYTHM OF DRUM” lists drum-rhythm categories including unaccented
+    eighth notes, unaccented quarter notes, and “Drum not recorded.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Visible serial-number strings in the drum-rhythm section include “79, 93,
+    04” and “81.82,83,84.85,86,87,88,89,90,91,92.”
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A section headed with a garbled form of “RHYTHMIC UNIT OF SONG” classifies
+    songs as containing no rhythmic unit, one rhythmic unit, or two rhythmic units.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:5
+  text: In the rhythmic-unit table, the visible row for no rhythmic unit gives a count
+    of 1 and serial number 86.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In the rhythmic-unit table, the visible row for one rhythmic unit gives a
+    count of 13 and serial numbers 79, 80, 81, 82, 83, 84, 85, 87, 89, 90, 92, 93,
+    and 94.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: In the rhythmic-unit table, the visible row for two rhythmic units gives a
+    count of 2 and serial numbers rendered as “8S, 91,” with the first serial number
+    affected by OCR uncertainty.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:8
+  text: A section headed “METRIC UNIT OF VOICE (TEMPO)” includes columns for number
+    of songs and serial numbers, but most row contents are not reliably legible in
+    the supplied passage.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:9
+  text: The final visible heading is severely garbled as “yvTRic rxiT or prim tempo.”
+  category: other
+  evidence_refs:
+  - ev:4
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Drum
+  literal_form: drum
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Unaccented drum-rhythm classification
+  taxonomy_refs: []
+  basis: The drum-rhythm table classifies songs by unaccented eighth notes, unaccented
+    quarter notes, and whether the drum was not recorded.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a musicological pattern, not a mythological narrative motif; table
+    alignment and serial-number readings are partly uncertain.
+- id: motif:2
+  label: Rhythmic-unit count classification of songs
+  taxonomy_refs: []
+  basis: The rhythmic-unit table groups songs according to whether they contain no
+    rhythmic unit, one rhythmic unit, or two rhythmic units, with visible counts and
+    serial numbers.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a formal musical pattern rather than a mythic motif; one serial
+    number is garbled as “8S.”
+- id: motif:3
+  label: Voice-tempo metric classification
+  taxonomy_refs: []
+  basis: The passage includes a heading for “METRIC UNIT OF VOICE (TEMPO)” with columns
+    for number of songs and serial numbers.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The section’s detailed entries are heavily corrupted in the supplied OCR,
+    so only the presence of the classification can be extracted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21233-21260
+  quote_or_summary: The “RHYTHM OF DRUM” section lists “Eighth notes unaccented,”
+    “Quarter notes unaccented,” and “Drum not recorded,” followed by visible song
+    serial-number strings including “79, 93, 04” and “81.82,83,84.85,86,87,88,89,90,91,92.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise quotation/summary used.
+- id: ev:2
+  type: summary
+  locator: lines 21261-21290
+  quote_or_summary: The “RHYTHBnC UNIT OF SONG” section lists songs containing “No
+    rhythmic unit,” “One rhythmic unit,” and “Two rhythmic units.” Visible entries
+    give 1 / 86; 13 / 79,80,81,82,83,84,85,87,89,90,92,93,94; and 2 / “8S, 91.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise quotation/summary used.
+- id: ev:3
+  type: summary
+  locator: lines 21291-21330
+  quote_or_summary: The “METRIC UNIT OF VOICE (TEMPO)” section includes “Number of
+    songs” and “Serial Xos. of songs,” but the subsequent numerical entries are mostly
+    garbled.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise quotation/summary used.
+- id: ev:4
+  type: note
+  locator: lines 21261-21349
+  quote_or_summary: OCR or transcription corruption is visible in forms such as “RHYTHBnC,”
+    “Serial Xos.,” and “yvTRic rxiT or prim tempo.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise quotation/summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by OCR corruption and by the non-narrative, tabular
+    nature of the passage. Musical classification patterns are identifiable, but no
+    mythological figures, scenes, taxonomy motifs, or comparison claims are supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The drum is recorded only as a literal musical object/category in the table; no symbolic interpretation is assigned.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l21233-l21349
+  passage_sha256=08024301be229ad1f33b3b848d5071038ce917814d04238cefeb915dc5a74c36
+

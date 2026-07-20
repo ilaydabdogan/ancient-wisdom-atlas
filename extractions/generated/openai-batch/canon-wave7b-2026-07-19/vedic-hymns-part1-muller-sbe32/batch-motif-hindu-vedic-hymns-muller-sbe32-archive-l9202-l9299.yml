@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l9202-l9299
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. I, 6, 9-10. 51 / MANDALA I, HYMN 19. 53 / NOTES. / NOTES. I, 19, 7.
+    57; lines 9202-9299
+  start: '9202'
+  end: '9299'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A commentary note on Rig-Veda I, 19, 7 discusses Vedic terms for heaven,
+    cloud, mountain, and sea. It compares the Indian naka to the Jewish firmament,
+    presents translations of a verse invoking Agni with the Maruts, explains parvata
+    as sometimes meaning cloud, notes Indra cutting a cloud with lightning, compares
+    cloud-rock language with Edda and Old Norse material, and discusses whether samudra
+    denotes ocean, air, or welkin, including remarks on Sarasvati and sacred geography.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note describes the Indian naka as star-adorned and places dyu, heaven,
+    above the sky or welkin; Sayana is cited as interpreting it as radiant heaven
+    above the sun.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cited translations of verse 7 describe the Maruts as scattering clouds,
+    agitating or crossing the surging sea, or moving mountains through the wave-sea,
+    while Agni is invited to come with them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note states that parvata, literally mountain, is used in many passages
+    in the sense of cloud.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A cited Rig-Veda example says Indra cuts a great broad cloud to pieces with
+    lightning.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says that two similes are mixed in the expression translated as the
+    udder of the cloud, and advises translating parvata as mountain while remembering
+    that mountain means cloud in the relevant context.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note compares Vedic cloud-mountain language with an Edda interpretation
+    in which rocks fashioned from Ymir's bones are taken as clouds, and with Old Norse
+    and English cloud/rock word associations.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The note says the surging sea may be interpreted as sea or as air depending
+    on one's view of early Vedic cosmography; it also states that samudra can mean
+    welkin in some Rig-Veda passages but usually means ocean.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The note states that a Rig-Veda passage is taken to show that Vedic poets
+    followed the Sarasvati as far as the Indian ocean.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The note says that the Sarasvati later changed course and that the place where
+    it disappeared underground was called Vinasana, 'the loss.'
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: A deity addressed in the verse translations with the request to come
+    with the Maruts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Maruts
+  description: A divine group associated in the translations with scattering clouds,
+    agitating or crossing the sea, and moving mountains/clouds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Indra
+  description: A deity in a cited Rig-Veda passage who cuts a great broad cloud with
+    lightning.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ymir
+  description: A figure from the Edda comparison whose bones are said to have formed
+    rocks, interpreted in the note as clouds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: cloud-and-sea-moving storm group
+  assigned_to:
+  - fig:2
+  basis: The Maruts are described in the translations as scattering clouds, agitating
+    or crossing the sea, and moving mountains/clouds.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: invited deity accompanying the Maruts
+  assigned_to:
+  - fig:1
+  basis: The verse translations repeatedly end with an invitation for Agni to come
+    with the Maruts.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: lightning-wielding cloud-splitter
+  assigned_to:
+  - fig:3
+  basis: The cited passage says Indra cuts a great broad cloud to pieces with lightning.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: cosmic body-source in comparative Edda note
+  assigned_to:
+  - fig:4
+  basis: The note says rocks fashioned from Ymir's bones in the Edda are supposed
+    to be intended for clouds.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: star-adorned heaven
+  literal_form: naka / dyu, heaven above the sky or welkin, adorned with stars
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain as cloud
+  literal_form: parvata, translated as mountain but explained as cloud in the note
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: cloud
+  literal_form: clouds scattered by the Maruts and cut by Indra
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: lightning
+  literal_form: lightning used by Indra to cut the cloud
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: surging sea / samudra
+  literal_form: sea, watery sea, ocean, or welkin depending on interpretation
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:6
+  label: Sarasvati river and ocean route
+  literal_form: Sarasvati followed to the Indian ocean; later disappearing underground
+    at Vinasana
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Edda rocks as clouds
+  literal_form: rocks fashioned from Ymir's bones, interpreted as clouds in the comparative
+    note
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Star-adorned upper heaven
+  summary: The note situates naka and dyu as an upper, radiant, star-adorned heaven
+    above the sky or sun.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Agni invoked with the Maruts
+  summary: In the verse translations, the Maruts act upon clouds, sea, or cloud-mountains,
+    and Agni is asked to come with them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Indra cuts the cloud-mountain
+  summary: A cited passage uses parvata in the sense of cloud and describes Indra
+    cutting the great broad cloud apart with lightning.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Sea, welkin, and Sarasvati geography
+  summary: The commentary considers whether the sea is literal ocean, air, or welkin,
+    and connects the Vedic poets' knowledge of ocean with the Sarasvati river's course
+    and later disappearance.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Comparative cloud-rock note
+  summary: The commentary compares Vedic mountain-cloud usage with Edda rocks from
+    Ymir's bones interpreted as clouds and with Old Norse and English cloud/rock word
+    associations.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mountain-cloud equivalence
+  taxonomy_refs: []
+  basis: The note repeatedly states that parvata, mountain, can mean cloud, and illustrates
+    this with Indra cutting a cloud and with the expression 'udder of the cloud.'
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a commentator's lexical and interpretive motif, not a continuous
+    narrative episode in the quoted hymn.
+- id: motif:2
+  label: storm beings moving clouds and sea
+  taxonomy_refs: []
+  basis: The translations portray the Maruts as scattering clouds, agitating or crossing
+    the sea, and moving mountains/clouds, while Agni is invoked with them.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The exact imagery varies across the cited translators, and the note later
+    questions whether the sea is literal or atmospheric.
+- id: motif:3
+  label: heaven above sky adorned with stars
+  taxonomy_refs: []
+  basis: The note describes naka and dyu as a radiant heaven, adorned with stars and
+    placed above the sky or welkin.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This motif is derived from philological commentary rather than a full
+    mythic narrative.
+- id: motif:4
+  label: ambiguous cosmic sea as ocean or sky
+  taxonomy_refs: []
+  basis: The note states that samudra can mean welkin in some Rig-Veda passages but
+    usually means ocean, and that the surging sea may be read as sea or air depending
+    on Vedic cosmography.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the issue as an interpretive uncertainty rather than
+    a settled image.
+- id: motif:5
+  label: vanishing sacred river and oceanward course
+  taxonomy_refs: []
+  basis: The note describes Sarasvati as followed to the Indian ocean and later as
+    changing course and disappearing underground at Vinasana.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is historical-geographical commentary attached to the hymn note;
+    the passage does not narrate a mythic disappearance event.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself makes a visual comparison between the Indian naka and
+    the Jewish firmament as star-adorned heavenly expanses.
+  claim_level: visual_similarity
+  target: Jewish firmament
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the shared feature of being adorned with
+    stars; the passage does not claim historical contact or full functional equivalence.
+- id: claim:2
+  claim: The passage compares Vedic mountain/cloud usage with Edda and Old Norse cloud/rock
+    associations, suggesting a similar cloud-rock imagery or terminology pattern.
+  claim_level: linguistic_similarity
+  target: Edda and Old Norse cloud/rock associations
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the commentator and is lexical/interpretive;
+    it does not establish borrowing, common inheritance, or identical mythic narrative.
+- id: claim:3
+  claim: Within the Rig-Veda material cited by the note, samudra can function as both
+    ocean and welkin, supporting a cautious comparison between literal sea imagery
+    and sky-sea imagery.
+  claim_level: same_function
+  target: Rig-Veda sea-as-welkin usage
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states that ocean is the more common meaning and treats
+    the air/welkin reading as context-dependent.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9202-9210
+  quote_or_summary: The note says the Indian naka, like the Jewish firmament, is adorned
+    with stars; dyu is above the sky or welkin, and Sayana glosses it as radiant heaven
+    above the sun.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9211-9220
+  quote_or_summary: Wilson, Benfey, and Ludwig translate verse 7 as describing beings
+    who scatter clouds, agitate or cross the sea, or move mountains through the wave-sea;
+    each invokes Agni to come with the Maruts.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9221-9234
+  quote_or_summary: The note explains parvata as mountain used in the sense of cloud,
+    cites Indra cutting a great broad cloud with lightning, and mentions the 'udder
+    of the cloud' as a mixed simile.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9234-9240
+  quote_or_summary: The note compares this with the Edda, where rocks fashioned from
+    Ymir's bones are said to be intended for clouds, and adds Old Norse and English
+    cloud/rock word associations.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9242-9257
+  quote_or_summary: The note asks whether the surging sea is sea or air, says Sayana
+    explains clouds and watery sea, and states that samudra sometimes means welkin
+    but more often clearly means ocean.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9257-9299
+  quote_or_summary: The note says a Rig-Veda passage shows Vedic poets following Sarasvati
+    to the Indian ocean, then discusses the river's changed course, disappearance
+    at Vinasana, and boundaries of Madhyadesa, Aryavarta, and Brahmarshi country.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly philological commentary with variant translations and
+    some OCR irregularities. Motif candidates are therefore framed as imagery and
+    interpretive patterns rather than complete narrative myths.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available motif-family taxonomy reference was assigned because the passage does not clearly support any supplied motif family without overinterpretation. Available symbol taxonomy was used only for explicit mountain and water imagery.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l9202-l9299
+  passage_sha256=3953d10a471750aabd872a2572214c1f310d4b49ce579479c6f18baaac1fa134
+

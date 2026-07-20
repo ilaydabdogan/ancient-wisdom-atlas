@@ -1,0 +1,563 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l7308-l7391
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: SECT. II, THE HANG HEXAGRAM. 125 / SECT. IJ. THE THUN HEXAGRAM. 127 / SECT.
+    II. THE 3IN HEXAGRAM. I31 / SECT. 11. TUE MING I HEXAGRAM. 135; lines 7308-7391
+  start: '7308'
+  end: '7391'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives line statements and commentary for the Ming I hexagram,
+    glossed as wounded or repressed intelligence. Its figures include a superior man
+    who withdraws while wounded, an officer who saves himself by a swift horse, a
+    hunter taking the chief of darkness, one entering and leaving the dark lord’s
+    precincts, the count of Ki, and a subject who moves from the sky into the earth.
+    Commentary interprets the hexagram as an intelligent minister serving under an
+    unsympathetic sovereign while maintaining correctness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first line shows the subject as Ming I flying with drooping wings; the
+    superior man considers going away, may go three days without eating, and may be
+    derided wherever he goes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The second line shows the subject wounded in the left thigh and saving himself
+    by the strength of a swift horse.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The third line shows the subject hunting in the south and taking the great
+    chief of the darkness, with a warning not to make all correct at once.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The fourth line shows the subject entering the left side of the belly of the
+    dark land and then quitting the gate and courtyard of the lord of darkness.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The fifth line names the count of Ki as fulfilling the condition indicated
+    by Ming I and says firmness and correctness are advantageous.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The sixth line states that there is no light but only obscurity; the subject
+    first ascended to the top of the sky and later goes into the earth.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The commentary glosses Ming I as intelligence wounded, injured, and repressed.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The commentary represents the hexagram as a good and intelligent minister
+    or officer serving his country while the throne is occupied by a weak and unsympathising
+    sovereign.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The commentary explains the drooping-wing bird as a bird hurt at the beginning
+    of its action, causing the superior man to desist from the struggle for a time.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The commentary identifies the lower trigram with light or brightness and associates
+    the south with looking toward the sun at its meridian height.
+  category: setting
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: superior man
+  description: A figure in the first line who considers going away, may fast for three
+    days, and continues under derision; commentary says he desists from struggle for
+    a time while maintaining his purpose.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:2
+  name_or_label: subject wounded in the left thigh
+  description: The subject of the second line, wounded in the left thigh, saves himself
+    through the strength of a swift horse.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:3
+  name_or_label: hunter in the south
+  description: The subject of the third line, hunting in the south and taking the
+    great chief of the darkness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: great chief of the darkness
+  description: A figure taken by the subject who hunts in the south.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: subject entering the dark land
+  description: The subject of the fourth line, who enters the left side of the belly
+    of the dark land and quits the gate and courtyard of the lord of darkness.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: lord of darkness
+  description: A figure whose gate and courtyard are quit by the subject in the fourth
+    line.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: count of Ki
+  description: A named figure said to have fulfilled the condition indicated by Ming
+    I.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: good and intelligent minister or officer
+  description: 'The figure used in the commentary to represent the hexagram: a minister
+    or officer going forward in service despite an unsympathetic sovereign.'
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: weak and unsympathising sovereign
+  description: The sovereign occupying the throne in the commentary’s explanation
+    of the hexagram.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: withdrawing superior man
+  assigned_to:
+  - fig:1
+  basis: The first line says the superior man considers going away; commentary says
+    he desists from the struggle for a time.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: wounded subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The hexagram condition is wounded intelligence; the first line uses a hurt
+    bird image, and the second line gives an explicit wound in the left thigh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: role:3
+  label: self-rescuer aided by horse
+  assigned_to:
+  - fig:2
+  basis: The second line says he saves himself by the strength of a swift horse.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: hunter or captor
+  assigned_to:
+  - fig:3
+  basis: The third line says he hunts in the south and takes the great chief of the
+    darkness.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: darkness ruler or chief
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The passage names a great chief of the darkness and a lord of darkness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: infiltrator or escaper from dark precinct
+  assigned_to:
+  - fig:5
+  basis: The fourth line says the subject enters the belly of the dark land and quits
+    the gate and courtyard of the lord of darkness.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: exemplar of Ming I condition
+  assigned_to:
+  - fig:7
+  basis: The fifth line says the count of Ki fulfilled the condition indicated by
+    Ming I.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: intelligent minister under repression
+  assigned_to:
+  - fig:8
+  basis: The commentary represents the hexagram as an intelligent minister or officer
+    serving under a weak and unsympathising sovereign.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: unsympathising sovereign
+  assigned_to:
+  - fig:9
+  basis: The commentary describes the throne as occupied by a weak and unsympathising
+    sovereign.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: drooping wings
+  literal_form: A flying being or bird with drooping wings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:2
+  label: wounded left thigh
+  literal_form: A wound in the left thigh
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:3
+  label: swift horse
+  literal_form: A swift horse whose strength enables escape or self-rescue
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: south and meridian sun
+  literal_form: The south, associated in commentary with facing the sun at its meridian
+    height
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: sym:5
+  label: darkness
+  literal_form: Darkness, obscurity, dark land, lord of darkness, and chief of darkness
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: light or brightness
+  literal_form: Light, brightness, and intelligence wounded or repressed
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+- id: sym:7
+  label: gate and courtyard
+  literal_form: The gate and courtyard of the lord of darkness
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: sky and earth descent sequence
+  literal_form: First ascent to the top of the sky, then going into the earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Wounded flight and withdrawal
+  summary: A subject in the Ming I condition is depicted as flying with drooping wings;
+    the superior man considers withdrawal, fasts for three days, and faces derision.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: scene:2
+  label: Wounded thigh and horse-assisted escape
+  summary: A wounded subject with an injured left thigh saves himself through the
+    strength of a swift horse.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: scene:3
+  label: Southern hunt against darkness
+  summary: The subject hunts in the south and takes the great chief of the darkness,
+    while being warned not to correct everything immediately.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:10
+- id: scene:4
+  label: Entry into and exit from dark land
+  summary: The subject enters the belly of the dark land and then quits the gate and
+    courtyard of the lord of darkness.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Count of Ki as exemplar
+  summary: The count of Ki is named as fulfilling the Ming I condition, and the text
+    recommends firmness and correctness.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: No light and movement from sky to earth
+  summary: The final line presents a state with no light and only obscurity; the subject
+    first ascends to the top of the sky and later goes into the earth.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Intelligent minister under weak sovereign
+  summary: The commentary interprets the hexagram as a good and intelligent minister
+    or officer serving despite a weak and unsympathising sovereign, maintaining purpose
+    under wounded intelligence.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: wounded light or intelligence under darkness
+  taxonomy_refs:
+  - duality
+  - wisdom
+  basis: The passage glosses Ming I as intelligence wounded, injured, and repressed,
+    and repeatedly opposes light or brightness to darkness and obscurity.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:10
+  confidence: medium
+  cautions: The taxonomy references are broad; the passage is divinatory commentary
+    rather than a narrative myth.
+- id: motif:2
+  label: righteous withdrawal under hostile conditions
+  taxonomy_refs:
+  - departure
+  basis: The superior man considers going away, desists from struggle for a time,
+    may endure fasting and derision, and is said to maintain his purpose.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The departure is practical and ethical rather than a full mythic journey.
+- id: motif:3
+  label: wounded figure aided by animal escape
+  taxonomy_refs: []
+  basis: The second line depicts a wounded subject saving himself by the strength
+    of a swift horse.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a compact divinatory image, not an extended episode.
+- id: motif:4
+  label: descent or enclosure in dark realm followed by exit
+  taxonomy_refs:
+  - hero_descent
+  basis: The fourth line describes entry into the belly of the dark land and quitting
+    the gate and courtyard of the lord of darkness.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The text does not explicitly call this an underworld or heroic descent;
+    the reading rests on the literal dark-land and exit imagery.
+- id: motif:5
+  label: rise to sky followed by going into earth
+  taxonomy_refs:
+  - ascent
+  basis: The sixth line states that the subject first ascended to the top of the sky
+    and later goes into the earth.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only the ascent is directly taxonomically matched; the subsequent earthward
+    movement is not elaborated.
+- id: motif:6
+  label: loyal minister opposed by unsympathetic ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  - wisdom
+  basis: The commentary represents the hexagram as an intelligent minister or officer
+    serving his country while the throne is occupied by a weak and unsympathising
+    sovereign.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage presents political-ethical interpretation, not an explicit
+    royal myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7308-7320
+  quote_or_summary: 'First line: Ming I flying with drooping wings; the superior man
+    considers going away, may go three days without eating, and may be spoken of derisively
+    wherever he goes.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7321-7325
+  quote_or_summary: 'Second line: Ming I wounded in the left thigh; he saves himself
+    by the strength of a swift horse and is fortunate.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7326-7330
+  quote_or_summary: 'Third line: Ming I hunting in the south and taking the great
+    chief of the darkness; he should not be eager to make everything correct at once.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7331-7337
+  quote_or_summary: 'Fourth line: the subject enters the left side of the belly of
+    the dark land and is able to carry out the Ming I mind by quitting the gate and
+    courtyard of the lord of darkness.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7338-7341
+  quote_or_summary: 'Fifth line: the count of Ki fulfilled the Ming I condition; firmness
+    and correctness are advantageous.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7342-7346
+  quote_or_summary: 'Sixth line: there is no light, only obscurity; the subject first
+    ascended to the top of the sky and later goes into the earth.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 7347-7361
+  quote_or_summary: 'Commentary: the hexagram represents a good and intelligent minister
+    or officer serving the country despite a weak and unsympathising sovereign; Ming
+    I means wounded, injured, and repressed intelligence, and the subject concerns
+    how such an officer maintains purpose.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 7362-7374
+  quote_or_summary: 'Commentary on line 1: a bird is hurt so that it droops its wings;
+    the superior man desists from struggle for a time, can fast for three days, withdraws
+    under opposition, and holds to his good purpose.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 7375-7380
+  quote_or_summary: 'Commentary on line 2: the officer is obedient to duty and right;
+    the left-thigh wound impedes but does not disable him, and he finds means to save
+    himself.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 7381-7391
+  quote_or_summary: 'Commentary on line 3: the lower trigram is an emblem of light
+    or brightness; the south is linked with looking toward the sun at its meridian
+    height.'
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Motif labels are
+    cautious because the passage is an I Ching divinatory and commentarial text rather
+    than a continuous myth narrative. No broader comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available symbol taxonomy did not include light, darkness, horse, bird, sky, earth, gate, or courtyard, so symbol taxonomy_refs were left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l7308-l7391
+  passage_sha256=cc507bb9f9bbd5b349c6080a6c2d63b58c1698e981c72a29fecb94cc034186bb
+

@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2389-l2416
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: MESSENGER. / LEADER. / MESSENGER. / CHORUS.; lines 2389-2416
+  start: '2389'
+  end: '2416'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Choral voices call for dance and praise to God/Bromios, celebrate the fall
+    and death of Pentheus, invoke images of women's clothing, a rod, ivy, a sacrificial
+    bull, agony, tears, and hands associated with a mother that are red with gore.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some Maidens command weaving the dance and calling praise to God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speakers bless the tyrant's fall and identify the fallen figure as Pentheus,
+    called the Dragon's Seed.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speakers ask whether Pentheus wore woman's clothing, clasped death, and
+    clasped the rod.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A Bacchanal says wild ivy lapped him and a doomed Wild Bull of Sacrifice loomed
+    before him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Other speakers address Cadmus-born Bacchanals who had scorned Bromios and
+    tell them to praise him with agony and tears.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage describes hands associated with a mother as red with gore.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Some Maidens
+  description: Choral subgroup that calls for dance and praise and blesses Pentheus's
+    fall.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: A Bacchanal
+  description: Speaker who describes wild ivy and the Wild Bull of Sacrifice before
+    Pentheus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Others
+  description: Choral speakers who address Cadmus-born Bacchanals and command praise
+    of Bromios.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: God / Bromios
+  description: Divine figure praised by the speakers and formerly scorned by the addressed
+    Bacchanals.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Pentheus, the Dragon's Seed
+  description: Called the tyrant whose fall is blessed; associated with woman's clothing,
+    death, a rod, ivy, and sacrificial-bull imagery.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: Bacchanals, Cadmus-born
+  description: Addressees described as having scorned Bromios and told to praise him
+    more.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: A mother
+  description: A mother is mentioned in relation to hands that are red with gore.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: choral or Bacchic speaker
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: These figures are marked as speaking subgroups or speakers within the Chorus
+    passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: praised deity
+  assigned_to:
+  - fig:4
+  basis: The passage commands praise to God and later commands praise to Bromios.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: fallen tyrant associated with death
+  assigned_to:
+  - fig:5
+  basis: Pentheus is named as the tyrant whose fall is blessed, and the speakers mention
+    his death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: addressed scorners commanded to praise
+  assigned_to:
+  - fig:6
+  basis: The Cadmus-born Bacchanals are addressed as those who scorned Bromios and
+    are told to praise him more.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: mother associated with gore-stained hands
+  assigned_to:
+  - fig:7
+  basis: The passage mentions a mother in connection with hands red with gore.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: dance and praise
+  literal_form: weaving the dance and calling praise
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Dragon's Seed
+  literal_form: epithet applied to Pentheus
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: woman's clothing
+  literal_form: woman's weed
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: rod
+  literal_form: the rod clasped by Pentheus in the question
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: wild ivy
+  literal_form: wild ivy lapping Pentheus
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Wild Bull of Sacrifice
+  literal_form: doomed Wild Bull of Sacrifice looming before Pentheus
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: gore-red hands
+  literal_form: hands that a mother rears, red with gore
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dance and praise over Pentheus's fall
+  summary: Some Maidens call for dance and praise to God, bless the tyrant's fall,
+    name Pentheus as Dragon's Seed, and ask about woman's clothing, death, and the
+    rod.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ivy and sacrificial-bull image
+  summary: A Bacchanal says wild ivy lapped Pentheus and that a doomed Wild Bull of
+    Sacrifice loomed before him.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bacchanals commanded to praise with grief
+  summary: Other speakers address Cadmus-born Bacchanals who scorned Bromios, commanding
+    them to praise him with agony and tears, and describing mother-associated hands
+    red with gore.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divine praise after the fall of a scorner or tyrant
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage praises God/Bromios, recalls that some scorned Bromios, and celebrates
+    the fall and death of Pentheus the tyrant.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly narrate causation or judgment; it presents
+    choral celebration and address.
+- id: motif:2
+  label: sacrificial death and blood imagery
+  taxonomy_refs:
+  - sacrifice
+  basis: Pentheus's death is paired with the Wild Bull of Sacrifice and with hands
+    red with gore.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The imagery is poetic; the passage does not describe a formal sacrificial
+    rite in detail.
+- id: motif:3
+  label: ritual praise through dance, agony, and tears
+  taxonomy_refs: []
+  basis: The choral voices call for dance and praise, and later require praise of
+    Bromios with agony and tears.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage gives ritual speech and affective posture, but not a full
+    ritual sequence.
+- id: motif:4
+  label: fatal clothing and ritual implement
+  taxonomy_refs: []
+  basis: Pentheus is questioned as wearing woman's clothing, clasping death, and clasping
+    the rod.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage phrases these details as questions and does not explain the
+    circumstances.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to a divine-judgment motif family
+    because a deity who was scorned is praised while the fall of Pentheus is celebrated.
+  claim_level: same_motif
+  target: motif_family:divine_judgment
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The short passage does not explicitly state that Bromios caused the
+    fall; that causal link would require wider context.
+- id: claim:2
+  claim: The passage uses imagery with the same function as a sacrifice motif family
+    by framing death with a Wild Bull of Sacrifice and gore-red hands.
+  claim_level: same_function
+  target: motif_family:sacrifice
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The sacrificial language is metaphorical or poetic within this passage;
+    procedural sacrificial details are absent.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2389-2399
+  quote_or_summary: Some Maidens call for dance and praise to God, bless the tyrant's
+    fall, name Pentheus as Dragon's Seed, and ask about woman's clothing, death, and
+    the rod.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain Project Gutenberg text; summary used.
+- id: ev:2
+  type: quote
+  locator: 2400-2402
+  quote_or_summary: "“the wild ivy lapt him, and the doomed / Wild Bull of Sacrifice
+    before him loomed”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain Project Gutenberg text; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 2404-2416
+  quote_or_summary: Other speakers address Cadmus-born Bacchanals who scorned Bromios,
+    telling them to praise him with agony and tears; the passage mentions gifts and
+    hands a mother rears that are red with gore.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain Project Gutenberg text; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied English passage. Motif assignments
+    are cautious because the passage is a brief choral lyric and does not narrate
+    the wider causal sequence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external mythological context was used beyond the supplied passage and metadata.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2389-l2416
+  passage_sha256=cf1bc65fd5c54d924133f84d9863dc7c8fc07262b3295d13882e2d77eeecd48e
+

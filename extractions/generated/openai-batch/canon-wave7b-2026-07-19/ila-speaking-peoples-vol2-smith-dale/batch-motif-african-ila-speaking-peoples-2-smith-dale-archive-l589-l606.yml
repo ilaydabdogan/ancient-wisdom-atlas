@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l589-l606
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: FROM BIRTH TO PUBERTY / VOL. II B / CH. XVIII / FROM BIRTH TO PUBERTY; lines
+    589-606
+  start: '589'
+  end: '606'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports that some speakers say a taboo lasts until a child's
+    teeth have grown. If a female has intercourse before that point, they say the
+    child has been 'jumped over' and will waste away and die unless quickly doctored.
+    The passage then begins a description of Ba-ila child life, noting children's
+    shifts between solemnity and romping laughter.
+  language: English with an Ila phrase and English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some speakers say the taboo continues until the child's teeth are grown.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that if the female has intercourse before the child's teeth
+    are grown, speakers say the child will waste away and die unless quickly doctored.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The reported expression for the breach is translated as 'She has jumped over
+    the child.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ba-ila children are described as solemn at times and then rapidly becoming
+    romping and laughing.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed female subject of taboo
+  description: A female referred to as 'she' who may breach the taboo by having intercourse
+    before the child's teeth are grown.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the child
+  description: The child whose teeth mark the end of the taboo period and who is said
+    to waste away and die if the taboo is breached unless quickly doctored.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: speakers described as 'others' and 'they'
+  description: People who report the taboo duration and the consequence of breaching
+    it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Ba-ila children
+  description: Children described in the beginning of the child-life section as solemn
+    at times and then romping and laughing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: taboo reporters
+  assigned_to:
+  - fig:3
+  basis: The passage says 'Others say' the taboo lasts until the child's teeth are
+    grown and 'they say' what follows if it is breached.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: taboo subject
+  assigned_to:
+  - fig:1
+  basis: The figure is the unnamed 'she' whose intercourse before the stated time
+    constitutes the reported breach.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: endangered child
+  assigned_to:
+  - fig:2
+  basis: The child is said to waste away and die unless quickly doctored after the
+    breach.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: described children
+  assigned_to:
+  - fig:4
+  basis: The passage describes Ba-ila children in the child-life section.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: child's teeth as temporal marker
+  literal_form: the child's teeth are grown
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: jumping over the child
+  literal_form: 'translated expression: ''She has jumped over the child'''
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Taboo duration and breach consequence
+  summary: Some speakers state that a taboo lasts until the child's teeth are grown;
+    if the female has intercourse before then, they say the child will waste away
+    and die unless quickly doctored.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Beginning of child-life description
+  summary: The passage begins describing Ba-ila children as solemn at times and then
+    quickly becoming romping and laughing.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: taboo tied to a child's developmental milestone
+  taxonomy_refs: []
+  basis: The reported taboo is said to continue until the child's teeth are grown.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage excerpt does not specify the full content or origin of the
+    taboo beyond this duration.
+- id: motif:2
+  label: sexual taboo breach endangering a child
+  taxonomy_refs: []
+  basis: Intercourse before the stated time is said to cause the child to waste away
+    and die unless quickly doctored.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage reports a belief or statement by speakers; it does not provide
+    a broader narrative sequence or comparative context.
+- id: motif:3
+  label: healing intervention after taboo breach
+  taxonomy_refs: []
+  basis: The child is said to die unless quickly doctored after the breach.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage uses 'doctor it' without describing the treatment, ritual,
+    or practitioner.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 589-592
+  quote_or_summary: '"Others say that the taboo extends to the time when the child''s
+    teeth are grown."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 592-596
+  quote_or_summary: '"She has jumped over the child; it will waste away, and unless
+    they quickly doctor it, it will die."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 600-606
+  quote_or_summary: '"Ba-ila children are most delightful little creatures" who are
+    solemn at times and then become romping and laughing.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied lines. Candidate motifs are descriptive
+    and not linked to a taxonomy family. No comparison claims are made because the
+    passage itself provides no comparative statement.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage excerpt begins mid-discussion of a taboo, so the taboo's full scope is not inferred beyond the supplied text.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l589-l606
+  passage_sha256=bfe4b5ff13e4f674beb1b58dab8c4a03969e394758a96ff4f1156588b44330e9
+

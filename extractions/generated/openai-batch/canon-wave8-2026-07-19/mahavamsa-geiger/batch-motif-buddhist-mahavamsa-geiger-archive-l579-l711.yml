@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l579-l711
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: The Mahavamsa, or The Great Chronicle of Ceylon; lines 579-711
+  start: '579'
+  end: '711'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: the narrative of the transplanting of a branch of the sacred Bodhi-tree from
+    Uruvela to Ceylon
+  summary: The passage is a scholarly introduction discussing external confirmations
+    and chronological problems in the Ceylonese Chronicles. It identifies a Sanchi
+    inscription with Moggaliputta Tissa, reports a monumental representation of the
+    Bodhi-tree branch transplanting to Ceylon, critiques early royal chronology as
+    partly artificial or legendary, and presents the Buddha's death as the chronological
+    starting point of a monkish tradition.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An inscription in a relic-casket from Sanchi is presented as authenticating
+    the thera traditionally said to have presided over the third council under Asoka.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the narrative of transplanting a branch of the sacred
+    Bodhi-tree from Uruvela to Ceylon is confirmed by monuments and represented in
+    Sanchi sculptures.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author states that the Chronicles are worthy of testing but are not infallible,
+    and that longer intervals allow more error and legendary influence.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Vijaya's arrival in Ceylon is said to be dated on the day of the Buddha's
+    death, and the author calls this a biased account.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The chronology described for Pandukabhaya would make him 107 years old, and
+    Mutasiva is assigned a sixty-year reign despite being already past prime manhood
+    at accession.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The author suggests that the last reigns of the early period were lengthened
+    to make Vijaya and the Buddha contemporaries.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The reign of Devanampiyatissa and the arrival of Mahinda in Ceylon are said
+    to stand out clearly from wavering surrounding traditions.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The passage describes the tradition as monkish and says its chronological
+    starting point is the year of the Buddha's death.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Moggaliputta Tissa
+  description: The thera of the Ceylonese Chronicles, identified with the inscriptional
+    name Sapurisasa Mogaliputasa.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Asoka
+  description: The ruler under whose rule the third council is traditionally placed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Vijaya
+  description: A figure whose arrival in Ceylon is dated to the day or time of the
+    Buddha's death in the cited tradition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:10
+- id: fig:4
+  name_or_label: The Buddha
+  description: The Buddha's death is used as a chronological point of reference in
+    the tradition discussed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: Pandukabhaya
+  description: An early king whose calculated age and reign length are treated as
+    chronologically problematic.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Mutasiva
+  description: Pandukabhaya's son and successor, assigned a sixty-year reign in the
+    chronology criticized by the author.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: Devanampiyatissa
+  description: A king whose reign is presented as a clear point in the early tradition.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: Mahinda
+  description: A figure whose arrival in Ceylon is presented as a clear point in the
+    early tradition.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Thera presiding over the third council
+  assigned_to:
+  - fig:1
+  basis: The passage says tradition names this thera as presiding over the third council
+    and identifies him as Moggaliputta Tissa.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Ruler under whose reign the third council is placed
+  assigned_to:
+  - fig:2
+  basis: The third council is described as occurring under Asoka's rule.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Arrival figure synchronized with the Buddha's death
+  assigned_to:
+  - fig:3
+  basis: Vijaya's arrival in Ceylon is dated to the day or time of the Buddha's death
+    in the cited traditions.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:10
+- id: role:4
+  label: Chronological anchor through death
+  assigned_to:
+  - fig:4
+  basis: The monkish tradition uses the year of the Buddha's death as the starting
+    point for chronology.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: Early king in contested chronology
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The author critiques the age and reign calculations attached to Pandukabhaya
+    and Mutasiva.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: Clear reign marker in early tradition
+  assigned_to:
+  - fig:7
+  basis: The reign of Devanampiyatissa is said to stand out clearly from the surrounding
+    wavering traditions.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: Clear arrival marker in early tradition
+  assigned_to:
+  - fig:8
+  basis: The arrival of Mahinda in Ceylon is said to stand out clearly from the surrounding
+    wavering traditions.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Sacred Bodhi-tree branch
+  literal_form: A branch of the sacred Bodhi-tree transplanted from Uruvela to Ceylon.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Buddha's death as chronological marker
+  literal_form: The day or year of the Buddha's death used as a dating point.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: Relic-casket inscription
+  literal_form: An inscription in a relic-casket from Tope no. 2 of the Sanchi group.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Identification of the third-council thera
+  summary: The passage reports that a Sanchi relic-casket inscription confirms the
+    traditional identification of the third-council presiding thera as Moggaliputta
+    Tissa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bodhi-tree branch transplanting and visual confirmation
+  summary: The passage states that the narrative of moving a sacred Bodhi-tree branch
+    from Uruvela to Ceylon is represented on Sanchi sculptures and thereby monumentally
+    confirmed.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Critique of early chronological synchronism
+  summary: The author criticizes the dating of Vijaya's arrival to the Buddha's death
+    and the artificial-looking reign lengths assigned to early kings.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Stable point of Devanampiyatissa and Mahinda
+  summary: The passage says that Devanampiyatissa's reign and Mahinda's arrival in
+    Ceylon stand out clearly despite uncertain surrounding traditions, within a monkish
+    chronology centered on the Buddha's death.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Transplanting of a sacred tree branch to a new land
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage explicitly refers to a narrative in which a branch of the sacred
+    Bodhi-tree is transplanted from Uruvela to Ceylon and represented monumentally.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions the sacred tree transfer but does not elaborate an
+    axis mundi or cosmological function; the taxonomy mapping should be reviewed.
+- id: motif:2
+  label: Founding arrival synchronized with a sacred death
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Vijaya's arrival in Ceylon is dated to the Buddha's death, and the author
+    suggests early reigns were lengthened to make Vijaya and the Buddha contemporaries.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:10
+  confidence: low
+  cautions: The passage treats the synchronism as biased chronology; a legitimating
+    function is only indirectly suggested by the synchronization, not explicitly stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports a visual correspondence between the Bodhi-tree branch
+    transplanting narrative and sculptures on the East Gate of the Sanchi Tope.
+  claim_level: visual_similarity
+  target: Sanchi Tope East Gate lower and middle architrave sculptures
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on Gronwedel's interpretation as reported by the
+    author; the excerpt does not reproduce or describe the sculptures in detail.
+- id: claim:2
+  claim: The passage identifies the inscriptional name Sapurisasa Mogaliputasa with
+    Moggaliputta Tissa of the Ceylonese Chronicles.
+  claim_level: linguistic_similarity
+  target: Sanchi relic-casket inscription and Ceylonese Chronicle name tradition
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives the author's conclusion but only a brief form of
+    the inscriptional name.
+- id: claim:3
+  claim: The passage notes that the Dipavamsa and Smp. also connect Vijaya's landing
+    in Ceylon with the time of the Buddha's death, though less precisely than the
+    Mahavamsa.
+  claim_level: same_function
+  target: Dipavamsa 9.21-22 and Smp. 32020 versions of the Vijaya landing chronology
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is reported in a footnote and concerns chronological
+    synchronism rather than a full narrative episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 579-583
+  quote_or_summary: The thera traditionally said to have presided over the third council
+    under Asoka is said to be authenticated by a Sanchi relic-casket inscription;
+    Sapurisasa Mogaliputasa is identified with Moggaliputta Tissa.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 585-594
+  quote_or_summary: The passage refers to "the narrative of the transplanting of a
+    branch of the sacred Bodhi-tree from Uruvela to Ceylon" and says Sanchi East Gate
+    sculptures represent that event.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 596-607
+  quote_or_summary: The author says objective confirmation makes the Chronicles worth
+    testing, but not infallible; longer gaps between events and narration increase
+    the possibility of error and legendary influence.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 610-624
+  quote_or_summary: The author distrusts the oldest chronology partly because Vijaya's
+    arrival in Ceylon is dated on the day of the Buddha's death, which is described
+    as biased, and because reign lengths appear artificially rounded.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 626-641
+  quote_or_summary: The chronology would make Pandukabhaya 107 years old, and Mutasiva,
+    his son and successor, is assigned a sixty-year reign despite already being past
+    prime manhood.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 643-649
+  quote_or_summary: The author says some names and events may be maintained, but the
+    last reigns were lengthened to make Vijaya and the Buddha contemporaries.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 653-670
+  quote_or_summary: The passage criticizes the reign lengths of Mutasiva's sons and
+    brothers, saying gaps in the tradition were filled with fictitious construction
+    and round numbers.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 674-681
+  quote_or_summary: The reign of Devanampiyatissa and the arrival of Mahinda in Ceylon
+    are said to stand out clearly from wavering surrounding traditions.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 683-696
+  quote_or_summary: The author describes the chronology as a monkish tradition whose
+    starting point is the year of the Buddha's death and whose chief concern is the
+    development of the Buddhist community.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: footnote to Mah. 6.47 within lines 619-624
+  quote_or_summary: The footnote says the Dipavamsa states more generally that Vijaya
+    landed in Ceylon at the time of the Buddha's death, and that the same occurs in
+    Smp.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but the passage is mainly historical-critical
+    introduction rather than a narrative mythic episode. Motif assignments, especially
+    royal_legitimacy and sacred_tree_axis, require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. The passage contains scholarly claims about chronicles, inscriptions, sculptures, and chronology rather than a continuous mythic narrative.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l579-l711
+  passage_sha256=3871f244dab04f182355de3fa285003e3be72d14e105f71e8ae463527cbde941
+

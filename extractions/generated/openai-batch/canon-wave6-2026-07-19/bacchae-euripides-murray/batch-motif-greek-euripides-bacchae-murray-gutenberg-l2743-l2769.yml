@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2743-l2769
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: AGAVE. / CADMUS. / AGAVE. / CADMUS.; lines 2743-2769
+  start: '2743'
+  end: '2769'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: No; 'tis the head--O God!--of Pentheus, this!
+  summary: Cadmus urges Agave to look clearly at the object she holds. Agave realizes
+    with anguish that it is not a lion's head but the blood-drenched head of Pentheus,
+    then asks who killed him and how she came to hold it. Cadmus names the moment
+    as a cruel home-coming of truth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Cadmus tells Agave to look fully at the object until it becomes clear.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Agave reacts with pain and lamentation as she begins to see clearly.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cadmus asks whether the object still looks like a lion to Agave.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Agave identifies the object as the head of Pentheus.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Cadmus says the head is blood-drenched and confirms that it is Pentheus's.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Agave asks who killed Pentheus and how she came to hold the head.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Cadmus calls the recognition a cruel truth and a home-coming.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cadmus
+  description: Speaker who urges Agave to look, questions her perception, confirms
+    the head as Pentheus's, and comments on the arrival of truth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Agave
+  description: Speaker who looks at the object, recognizes it as Pentheus's head,
+    and asks who killed him and how she came to hold it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Pentheus
+  description: Person identified in the passage by his blood-drenched head.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: recognition guide
+  assigned_to:
+  - fig:1
+  basis: Cadmus directs Agave to look clearly, tests whether she still sees a lion,
+    and confirms the identity of the head.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: holder and recognizer of the head
+  assigned_to:
+  - fig:2
+  basis: Agave identifies the object as Pentheus's head and asks how she came to hold
+    it.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: slain figure identified by severed head
+  assigned_to:
+  - fig:3
+  basis: Pentheus is present in the passage as a blood-drenched head, and Agave asks
+    who slew him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: blood-drenched head
+  literal_form: the blood-drenched head of Pentheus
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: mistaken lion likeness
+  literal_form: the object's earlier or possible likeness of a lion in Agave's perception
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: cruel truth home-coming
+  literal_form: Cadmus's spoken image of Truth having a home-coming
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Recognition of Pentheus's head
+  summary: Cadmus urges Agave to look at what she holds. She moves from distress and
+    possible misrecognition to identifying it as Pentheus's head, while Cadmus confirms
+    it is blood-drenched and his. Agave asks who killed him and how she came to hold
+    it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: belated recognition of a slain person
+  taxonomy_refs: []
+  basis: The passage centers on Agave's delayed recognition that the object she holds
+    is the head of Pentheus, followed by questions about his killing and her possession
+    of the head.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives the recognition moment but not the preceding causes
+    or wider divine context.
+- id: motif:2
+  label: severed head as proof of death
+  taxonomy_refs: []
+  basis: Pentheus is identified through his blood-drenched head, which Cadmus confirms
+    and Agave holds.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not frame the head explicitly as a trophy or formal proof;
+    it is only the object of recognition.
+- id: motif:3
+  label: mistaken beast becomes human victim
+  taxonomy_refs: []
+  basis: Cadmus asks whether the object appears as a lion, and Agave denies this by
+    recognizing it as Pentheus's head.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage only preserves the exchange about lion-likeness and recognition;
+    it does not fully explain the mistaken perception.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2743-2745
+  quote_or_summary: 'Cadmus: "Look once upon it full, till all be clear!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: 2747-2749
+  quote_or_summary: 'Agave: "I see . . . most deadly pain! Oh, woe is me!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: 2751-2753
+  quote_or_summary: Cadmus asks whether it wears "the likeness of a lion" to her.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: 2755-2757
+  quote_or_summary: 'Agave: "No; ''tis the head--O God!--of Pentheus, this!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: 2759-2761
+  quote_or_summary: 'Cadmus: "Blood-drenched ere thou wouldst know him! Aye, ''tis
+    his."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: 2763-2765
+  quote_or_summary: Agave asks who slew him and how she came to hold the thing.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: 2767-2769
+  quote_or_summary: 'Cadmus: "O cruel Truth, is this thine home-coming?"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the provided passage. Motif labels
+    are candidate descriptions based only on this recognition scene; no cross-text
+    comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied because the passage does not explicitly support one of the supplied motif families or symbol taxonomy items.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2743-l2769
+  passage_sha256=1dc6f0ee079ce6e895c3dee3efb3c8bb09def90670c9f952d774f376281d8ac3
+

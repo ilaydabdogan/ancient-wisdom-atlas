@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l385-l401
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: SERBIAN STORIES                                                  204 / SERBIAN
+    STORIES FROM BOSNIA                                      239 / SERBIAN STORIES
+    FROM CARNIOLA                                    252 / CROATIAN STORIES                                                 265;
+    lines 385-401
+  start: '385'
+  end: '401'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A table-of-contents passage lists several Croatian stories: “Kraljevitch
+    Marko,” “The Daughter of the King of the Vilas,” “The Miraculous Lock,” “The She-Wolf,”
+    and “Milutin,” with source references and page numbers.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents listing under the heading “Croatian Stories.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Story LII is titled “Kraljevitch Marko,” with a parenthetical form “Kraljevich
+    Marko,” and is attributed to M. Krachmanov Valjavets, “National Stories,” p. 64;
+    it begins on page 266 of the collection.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Story LIII is titled “The Daughter of the King of the Vilas,” with a parenthetical
+    form, and is attributed to M. Krachmanov Valjavets, “National Stories,” p. 273;
+    it begins on page 278 of the collection.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Story LIV is titled “The Miraculous Lock,” with a parenthetical form, and
+    is attributed to M. Krachmanov Valjavets, “National Stories,” p. 186; it begins
+    on page 284 of the collection.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Story LV is titled “The She-Wolf,” with a parenthetical form “Vuchitsa,” and
+    is attributed to M. Krachmanov Valjavets, “National Stories,” p. 240; it begins
+    on page 290 of the collection.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Story LVI is titled “Milutin,” and is attributed to M. Krachmanov Valjavets,
+    “National Stories,” p. 131; it begins on page 291 of the collection.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kraljevitch Marko
+  description: Named subject in the title of story LII.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Daughter of the King of the Vilas
+  description: Kinship-defined subject in the title of story LIII.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: King of the Vilas
+  description: A king named through the phrase “Daughter of the King of the Vilas.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Vilas
+  description: A named collective or group referenced in the title phrase “King of
+    the Vilas.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: She-Wolf
+  description: Female wolf or she-wolf named as the title subject of story LV.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Milutin
+  description: Named subject in the title of story LVI.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: story-title subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  basis: Each figure is named directly in a listed story title.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: king named through kinship phrase
+  assigned_to:
+  - fig:3
+  basis: The title identifies a daughter by relation to “the King of the Vilas.”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: collective named in royal association
+  assigned_to:
+  - fig:4
+  basis: The title refers to a king as ruler or king “of the Vilas.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: miraculous lock
+  literal_form: Lock described as miraculous in a story title.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: she-wolf
+  literal_form: Female wolf named in a story title.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Vilas
+  literal_form: Named group or beings in the title phrase “King of the Vilas.”
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: 'miraculous object: lock'
+  taxonomy_refs: []
+  basis: The story title explicitly names “The Miraculous Lock.”
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage is only a contents listing; no narrative action involving
+    the lock is provided.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '385'
+  quote_or_summary: "“CROATIAN STORIES”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 387-388
+  quote_or_summary: Story LII is listed as “Kraljevitch Marko,” with parenthetical
+    “Kraljevich Marko,” source reference to M. Krachmanov Valjavets, “National Stories,”
+    p. 64, and collection page 266.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 390-392
+  quote_or_summary: Story LIII is listed as “The Daughter of the King of the Vilas,”
+    with parenthetical original title, source reference to M. Krachmanov Valjavets,
+    “National Stories,” p. 273, and collection page 278.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 394-395
+  quote_or_summary: Story LIV is listed as “The Miraculous Lock,” with parenthetical
+    original title, source reference to M. Krachmanov Valjavets, “National Stories,”
+    p. 186, and collection page 284.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 397-398
+  quote_or_summary: Story LV is listed as “The She-Wolf,” with parenthetical “Vuchitsa,”
+    source reference to M. Krachmanov Valjavets, “National Stories,” p. 240, and collection
+    page 290.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 400-401
+  quote_or_summary: Story LVI is listed as “Milutin,” with source reference to M.
+    Krachmanov Valjavets, “National Stories,” p. 131, and collection page 291.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a table-of-contents segment rather than a narrative passage.
+    Literal title extraction is straightforward, but motif identification is limited
+    to title wording only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims are made because the passage itself contains no comparative argument or narrative context.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l385-l401
+  passage_sha256=0d794f0c3aa802f0eb93854057f3cb33b476ad7bea47fe6a8f97aafde2015f8f
+

@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l23956-l24315
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: RHYTHMIC  UNIT / COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND   BRUM / —
+    p — 0 — p — p- / DENS  MORE  1; lines 23956-24315
+  start: '23956'
+  end: '24315'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives musical transcriptions and analyses for several Chippewa
+    songs, including an abstention song, two love songs, and moccasin game songs.
+    It identifies singers, drum presence or absence, brief lyrics for two songs, formal
+    musical features, rhythmic units, tempo, intervals, and explicit cross-references
+    to similar musical features in other numbered songs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening analysis describes sections using G major and B minor materials,
+    with first, second, and third rhythmic units noted.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: No. 158 is titled "I Will Not Drink," is sung by Ki^miwun, and was recorded
+    without drum.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The translated lyric of No. 158 states that the speaker will not drink at
+    all.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: No. 158 is analyzed as having much freedom of tempo, minor tonality, melodic
+    structure, and an unusual upward opening progression to an accidental.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: No. 159 is a love song sung by Ki^miwun and recorded without drum.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: No. 159 is described as unusually regular, with 16 measures and 4 periods;
+    its rhythmic unit shows no variation in five renditions, although the metric unit
+    was not steadily maintained.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: No. 160 is a love song sung by Ki^miwun and recorded without drum.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: No. 160 consists of five four-measure sections, each treated as a rhythmic
+    unit; its effect is described as pleading and plaintive.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: No. 161 appears under the moccasin game songs heading and is sung by A^jide^gijig;
+    it is said to have slow voice-rhythm characteristic of moccasin game songs and
+    no rhythmic unit.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: No. 162 is titled "The Sound of His Footsteps," is sung by A^jide^gijig, and
+    includes a lyric about the sound of approaching footsteps and someone who always
+    hits the mark.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: No. 162 was so rapid that the phonograph speed was reduced to detect the metric
+    unit; two renditions had uniform rhythm.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: No. 163 is a moccasin game song sung by Ki^miwun with drum marked at J = 108.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: No. 163 has no rhythmic unit; three recorded renditions are described as identical,
+    and the drum metric unit is faster than the voice metric unit.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ki^miwun
+  description: Named singer of No. 158, No. 159, No. 160, and No. 163 in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: A^jide^gijig / AOide^gijig
+  description: Named singer of No. 161 and No. 162, with OCR variation in the printed
+    passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Unnamed figure in No. 162 lyric
+  description: A figure referred to through the phrases about "his approaching footsteps"
+    and one "who always hits the mark."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: First-person speaker in No. 158 lyric
+  description: The lyric voice that says it will not drink at all.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage repeatedly identifies songs as "Sung by" the named individuals.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: speaker refusing to drink
+  assigned_to:
+  - fig:4
+  basis: The translated lyric of No. 158 is a first-person refusal to drink.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: approaching mark-hitter
+  assigned_to:
+  - fig:3
+  basis: The No. 162 lyric refers to the sound of his approaching footsteps and says
+    he always hits the mark.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: drum
+  literal_form: Drum as performance accompaniment or explicitly absent accompaniment.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: drink
+  literal_form: An unspecified drink refused in the lyric "I will not drink at all."
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: approaching footsteps
+  literal_form: The sound of his approaching footsteps.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: mark
+  literal_form: A mark that the lyric figure always hits.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: No. 158 abstention song
+  summary: Ki^miwun sings a song recorded without drum whose translated lyric says
+    the speaker will not drink at all; the analysis emphasizes free tempo and unusual
+    melodic opening.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Love songs by Ki^miwun
+  summary: Two love songs by Ki^miwun are presented without drum; one is analyzed
+    as formally regular with stable rhythmic unit, and the other as sectional with
+    a pleading and plaintive effect.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Moccasin game songs
+  summary: The passage presents moccasin game songs by A^jide^gijig and Ki^miwun,
+    noting slow voice-rhythm, lack of rhythmic unit in the analyzed examples, recurring
+    count divisions, and a faster drum metric unit than voice in No. 163.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: scene:4
+  label: No. 162 footstep song
+  summary: A^jide^gijig sings a rapid song whose lyric mentions approaching footsteps
+    and a figure who always hits the mark; its rhythm is reported as uniform across
+    two renditions.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Refusal to drink
+  taxonomy_refs: []
+  basis: No. 158 is titled "I Will Not Drink" and its translated lyric says the speaker
+    will not drink at all.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief lyric and music analysis; no narrative,
+    ritual, or symbolic explanation is supplied.
+- id: motif:2
+  label: Love song with pleading or plaintive musical effect
+  taxonomy_refs: []
+  basis: The passage labels Nos. 159 and 160 as love songs and describes No. 160 as
+    pleading and plaintive.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a genre and affective musical description, not a mythological
+    motif in the passage.
+- id: motif:3
+  label: Moccasin game song performance pattern
+  taxonomy_refs: []
+  basis: Nos. 161 and 163 are identified as moccasin game songs; the passage associates
+    this group with slow voice-rhythm, lack of rhythmic unit in these examples, repeated
+    count divisions, and voice-drum metric contrast.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The extracted pattern is musicological and game-related; the passage does
+    not provide a mythic narrative or symbolic interpretation.
+- id: motif:4
+  label: Approaching footsteps and accurate mark-hitter
+  taxonomy_refs: []
+  basis: No. 162’s lyric names the sound of approaching footsteps and describes the
+    same figure as one who always hits the mark.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only a short translated lyric is available, so the function of the image
+    is uncertain.
+- id: motif:5
+  label: Stable rhythm across repeated renditions
+  taxonomy_refs: []
+  basis: The passage notes invariant rhythmic units or uniform rhythm across multiple
+    renditions in Nos. 159, 162, and 163.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a documented musical-performance pattern, not a symbolic or narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats slow voice-rhythm as a recurring feature of
+    moccasin game songs, comparing No. 161 with Nos. 30, 51, 52, and 103.
+  claim_level: same_function
+  target: Moccasin game songs Nos. 30, 51, 52, and 103 in the same corpus
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to Densmore’s numbered song corpus and concerns
+    musical rhythm, not historical contact or mythic inheritance.
+- id: claim:2
+  claim: The passage explicitly cross-references a recurring division of the count
+    across several numbered songs, including Nos. 152, 153, 157, 159, 161, and 163.
+  claim_level: same_function
+  target: Rhythmic count-division pattern in other numbered songs of the same corpus
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is a musicological cross-reference within the passage;
+    it does not establish a broader mythological motif family.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23956-24315, opening analysis before No. 158
+  quote_or_summary: Opening analysis notes G major and B minor sections, chords, and
+    first, second, and third rhythmic units, with cross-reference to similar count
+    division in other numbered songs.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+- id: ev:2
+  type: quote
+  locator: lines 23956-24315, No. 158
+  quote_or_summary: No. 158 is "I Will Not Drink," sung by Ki^miwun and recorded without
+    drum; the translation gives "I will not" and "drink at all." Analysis notes free
+    tempo, minor tonality, melodic structure, and an unusual upward progression.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 23956-24315, No. 159
+  quote_or_summary: No. 159 is a love song sung by Ki^miwun and recorded without drum.
+    Analysis says it has 16 measures, 4 periods, recurring rhythmic unit, no steady
+    metric unit, and no variation in the rhythmic unit across five renditions.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+- id: ev:4
+  type: summary
+  locator: lines 23956-24315, No. 160
+  quote_or_summary: No. 160 is a love song sung by Ki^miwun and recorded without drum.
+    Analysis says it has five four-measure sections treated as rhythmic units and
+    that the song’s effect is pleading and plaintive.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+- id: ev:5
+  type: summary
+  locator: lines 23956-24315, No. 161
+  quote_or_summary: Under the moccasin game songs heading, No. 161 is sung by A^jide^gijig.
+    Analysis says it has slow voice-rhythm characteristic of moccasin game songs,
+    uses the fourth five-toned scale, has no rhythmic unit, and has recurring division
+    of the first count of the measure.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+- id: ev:6
+  type: quote
+  locator: lines 23956-24315, No. 162
+  quote_or_summary: No. 162 is "The Sound of His Footsteps," sung by A^jide^gijig.
+    The translated lyric includes "the sound of his approaching footsteps" and "who
+    always hits the mark." Analysis notes very rapid tempo, reduced phonograph speed
+    for analysis, uniform rhythm in two renditions, and fourth as principal interval.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+- id: ev:7
+  type: summary
+  locator: lines 23956-24315, No. 163
+  quote_or_summary: No. 163 is a moccasin game song sung by Ki^miwun with drum marked
+    J = 108. Analysis says it contains tones of the tonic triad and sixth, has major
+    tonality with many minor thirds, contains no rhythmic unit, has three identical
+    renditions, and has drum metric unit faster than the voice.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain; supplied source metadata permits full-text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by OCR-corrupted musical notation and by the passage’s
+    primarily musicological rather than mythological content. No supplied taxonomy
+    motif family or symbol reference is directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological taxonomy references were assigned because the passage supplies song titles, lyrics, performance contexts, and musical analyses rather than explicit myth narratives or symbolic interpretations.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l23956-l24315
+  passage_sha256=bb45b0f9f10c621873c70a7483784273ee0fc74491466249d76112d728f12523
+

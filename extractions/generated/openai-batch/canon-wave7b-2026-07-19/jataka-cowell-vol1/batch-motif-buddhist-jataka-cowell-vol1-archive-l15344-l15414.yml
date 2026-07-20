@@ -1,0 +1,511 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol1-archive-l15344-l15414
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+passage_locator:
+  label: GADRABHA-PANHA. / SIGALA-JATAKA. / MITACINTI- JATAK  A . / ANUSASIKA-JATAKA.;
+    lines 15344-15414
+  start: '15344'
+  end: '15414'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"The greed-denouncing bird, to greed a prey"'
+  summary: A greedy Sister warns other Sisters away from a profitable alms district
+    so she can keep the food for herself, then is injured there by a ram. The Master
+    tells a former-birth story in which a greedy bird similarly warns other birds
+    away from a grain-scattered highway, ignores the danger herself, and is killed
+    by a carriage wheel. The Sister is identified with the past bird, and the Bodhisatta
+    with the King of the birds.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Sister seeks alms in a district not visited by other Sisters, receives dainty
+    food there, and wants to keep the food for herself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sister tells the other Sisters that the district is dangerous because
+    of a fierce elephant, horse, and dog, and asks them not to go there for alms.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Sister later enters the same district for alms and is struck by a fierce
+    ram, breaking her leg.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Master states that in a past time she also gave warnings that she did
+    not follow herself and came to harm.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the past story, the Bodhisatta is born as a bird, becomes king of the birds,
+    and comes to the Himalayas with thousands of birds.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A fierce bird finds grain dropped by passing wagons along a highway and seeks
+    to prevent other birds from coming there.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The fierce bird warns the other birds that the highway is perilous because
+    elephants, horses, wagons, and fierce oxen pass there.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The warning bird continues feeding on the highway after hearing an approaching
+    carriage and is crushed by the wheel before she can fly away.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The King of the birds says that the bird was cut in two because she did not
+    follow her own caution to the other birds.
+  category: speech
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: The Master identifies the warning Sister as the bird called Warner and identifies
+    himself as the King of the birds.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: warning Sister
+  description: A Sister from a good Savatthi family who is described as gluttonous,
+    warns others away from an alms district, and is injured there.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:8
+- id: fig:2
+  name_or_label: other Sisters
+  description: Members of the Sisterhood who avoid the district after the warning
+    and later taunt the injured Sister.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the Master
+  description: The teacher at Jetavana who responds to the Brethren's discussion by
+    telling the past-life story and identifying the Birth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:4
+  name_or_label: Bodhisatta / King of the birds
+  description: The Bodhisatta born as a bird, who becomes king of the birds and later
+    explains the warning bird's death.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: bird called Warner
+  description: A fierce bird who feeds on grain along a highway, warns other birds
+    not to go there, and is killed by a carriage wheel.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:6
+  name_or_label: other birds
+  description: The birds who receive the highway warning and call the warning bird
+    'Warner'.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: fierce ram
+  description: The ram that butts the Sister and breaks her leg in the alms district.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: greedy warner
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Both the Sister and the bird warn others away from a food source while continuing
+    to go there themselves.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: one harmed after ignoring own warning
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The Sister is injured in the district she warned against, and the bird is
+    killed on the highway she warned against.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: role:3
+  label: moral teacher or interpreter
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Master frames the past story as a lesson, and the King of the birds interprets
+    the death as the result of not following one's own caution.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: warned community
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The other Sisters and other birds are the recipients of the warnings not
+    to visit the food-gathering places.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: Bodhisatta ruler
+  assigned_to:
+  - fig:4
+  basis: The Bodhisatta is explicitly described as becoming king of the birds.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: agent of injury
+  assigned_to:
+  - fig:7
+  basis: The ram butts the Sister with enough force to break her leg.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: forbidden or warned-against alms district
+  literal_form: city quarter used for alms, described by the Sister as dangerous
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: warned-against highway
+  literal_form: highway where grain dropped by wagons is found and where dangerous
+    traffic passes
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: food lure
+  literal_form: dainty food in the alms district and rice, beans, and other grain
+    on the highway
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: vehicle wheel as instrument of death
+  literal_form: carriage or chariot wheel that crushes the bird
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: Himalayan mountain setting
+  literal_form: the Himalayas where the bird king and his retinue stay
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Greedy warning in the present frame
+  summary: A gluttonous Sister obtains good food in an alms district and warns the
+    other Sisters that the district is dangerous so that they will not go there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Present injury in the warned place
+  summary: The Sister goes to the same district, is butted by a ram, and is returned
+    to the convent with a broken leg.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Master introduces the past-life parallel
+  summary: The Brethren discuss the Sister's conduct, and the Master says that she
+    behaved similarly in a past time and came to harm then as well.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bird kingdom in the Himalayas
+  summary: In the past, the Bodhisatta is born as a bird, becomes king of the birds,
+    and comes to the Himalayas with many birds.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Warner bird monopolizes the highway grain
+  summary: A fierce bird finds food on a highway and warns the other birds not to
+    go there because of dangerous traffic.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Warner bird killed by the carriage wheel
+  summary: The bird continues feeding after hearing a carriage, is crushed by the
+    wheel, and is later found cut in two; the King of the birds interprets this as
+    the result of not following her own caution.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:7
+  label: Identification of the Birth
+  summary: The Master identifies the warning Sister with the bird called Warner and
+    himself with the King of the birds.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: warner fails to follow own warning
+  taxonomy_refs:
+  - wisdom
+  basis: The present Sister and the past bird both warn others away from a dangerous
+    place, then enter it themselves and are harmed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage presents this as a moral lesson; the taxonomy mapping to wisdom
+    is broad.
+- id: motif:2
+  label: greed disguised as protective counsel
+  taxonomy_refs: []
+  basis: The Sister and the bird each warn others away from a food source because
+    they want to keep the food for themselves.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: No external motif index is supplied; label is descriptive only.
+- id: motif:3
+  label: deceptive boundary around a resource
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The warning creates a practical boundary around the alms district or highway,
+    preventing others from accessing the food source.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The figures are not explicitly called tricksters; the taxonomy reference
+    is tentative and based on the deceptive exclusion of others from a place.
+- id: motif:4
+  label: animal fable mirrors monastic misconduct
+  taxonomy_refs:
+  - wisdom
+  basis: The Master uses the past-life bird story to explain and moralize the present
+    Sister's behavior, and identifies the present and past figures.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: This is an internal Jataka frame pattern rather than a cross-cultural
+    comparison.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats the present Sister episode and the past Warner
+    bird episode as parallel cases of a warning-giver who does not follow her own
+    warning and suffers harm.
+  claim_level: same_motif
+  target: present warning Sister episode and past Warner bird episode within the Jataka
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage and does not establish historical
+    contact or broader tradition-level distribution.
+- id: claim:2
+  claim: 'The animal story has the same didactic function as the frame story: it condemns
+    greed and hypocritical counsel through a concrete injury or death.'
+  claim_level: same_function
+  target: frame narrative and embedded animal fable
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the moral function stated and enacted in this
+    passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15344-15362
+  quote_or_summary: A Sister is described as gluttonous, seeks alms in a district
+    where she receives dainty food, fears others will take some, and warns the other
+    Sisters that the district is dangerous because of fierce animals.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 15363-15369
+  quote_or_summary: While going through the warned district for alms, the Sister is
+    butted by a fierce ram, her leg is broken, and the other Sisters say this happened
+    because she went where she warned them not to go.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: quote
+  locator: lines 15370-15379
+  quote_or_summary: '"so too in a past time she gave warnings which she did not follow
+    herself; and then as now she came to harm."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 15380-15383
+  quote_or_summary: In the past, when Brahmadatta reigns in Benares, the Bodhisatta
+    is born as a bird, becomes king of the birds, and comes to the Himalayas with
+    thousands of birds.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 15383-15394
+  quote_or_summary: A fierce bird feeds on rice, beans, and other grain dropped by
+    wagons on a highway, then warns other birds that elephants, horses, wagons, and
+    fierce oxen make the highway dangerous; the other birds call her 'Warner'.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: lines 15395-15405
+  quote_or_summary: The bird hears a carriage but continues feeding; the carriage
+    arrives swiftly, the wheel crushes her before she can rise, and she is later found
+    cut in two on the highway.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summary only.
+- id: ev:7
+  type: quote
+  locator: lines 15406-15409
+  quote_or_summary: '"The greed-denouncing bird, to greed a prey, / The chariot wheels
+    leave mangled on the way."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: quote
+  locator: lines 15410-15414
+  quote_or_summary: '"The warning sister was the bird ''Warner'' of those times, and
+    I the King of the birds"'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage gives a clear internal frame-and-past-life parallel. Taxonomy
+    mappings are broad and should be reviewed, especially trickster_boundary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Interpretive labels are kept descriptive and tied to internal evidence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol1-archive__l15344-l15414
+  passage_sha256=e89ee4436a62d9c6979b8bbfa2532abd1fd9d02e0cafa7878138f7e986283bfa
+

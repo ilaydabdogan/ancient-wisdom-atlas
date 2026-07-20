@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l9317-l9350
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: DURE AU OF ETHNOLOGY ELEVENTH ANNUAL REPORT / BURFAU OF ETHNOLOGY ELEVENTH
+    ANNUAL REPORT PL. XL / TURNER. SNOW SHOES. 311 / THE HUDSON BAY ESKIMO.; lines
+    9317-9350
+  start: '9317'
+  end: '9350'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Everybody wears snowshoes—men, women, and children
+  summary: The passage describes how snowshoes are put on and used by Hudson Bay Eskimo
+    people, emphasizing their necessity for winter travel and fur hunting. It also
+    describes wooden spruce-board snowshoes from Little Whale River Indians as a spring
+    adaptation for soft or slushy snow, and notes that Koksoak Valley Indians do not
+    use wooden snowshoes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: When descending while wearing snowshoes, the body must be thrown well back
+    to avoid pitching forward.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: To put on the snowshoe, the foot enters the loop from front to rear, turns
+    within the loop, and passes under the toe band.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Men, women, and children are described as wearing snowshoes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Winter travel is described as impossible without snowshoes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Fur capture occurs in winter and requires hunting over a large area.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Two collected pairs of snowshoes were made from flat spruce boards and shaped
+    like netted snowshoes of the beaver-tail pattern.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The wooden snowshoes had the usual foot-strap arrangement.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Little Whale River Indians said the wooden snowshoes were worn on soft snow.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: In spring, melting snow clogs netted snowshoes with slush, making their weight
+    fatiguing.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Wooden snowshoes are described as well adapted for spring and quicker to make
+    than netted snowshoes.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Indians of the Koksoak Valley are said not to use wooden snowshoes.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hudson Bay Eskimo snowshoe users
+  description: Men, women, and children described as wearing snowshoes for winter
+    travel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Little Whale River Indians
+  description: People who supplied information about wooden snowshoes worn on soft
+    snow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Koksoak Valley Indians
+  description: People described as not using wooden snowshoes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Collector-narrator
+  description: The narrator says he collected two peculiar pairs of flat spruce-board
+    snowshoes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: winter snowshoe users
+  assigned_to:
+  - fig:1
+  basis: The passage states that men, women, and children wear snowshoes and that
+    winter travel would be impossible without them.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: informants on wooden snowshoes
+  assigned_to:
+  - fig:2
+  basis: They informed the narrator that wooden snowshoes were worn on soft snow.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: non-users of wooden snowshoes
+  assigned_to:
+  - fig:3
+  basis: The passage states that Koksoak Valley Indians do not use wooden snowshoes.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: ethnographic collector
+  assigned_to:
+  - fig:4
+  basis: The narrator reports collecting two pairs of unusual spruce-board snowshoes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: snowshoe
+  literal_form: winter travel footwear with foot loop and toe band
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: wooden snowshoe
+  literal_form: flat spruce-board snowshoe shaped like a beaver-tail netted snowshoe
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: netted snowshoe
+  literal_form: netted snowshoe of beaver-tail pattern, liable to clog with slush
+    in spring
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: canoe
+  literal_form: summer travel vessel used as a comparison for the snowshoe's seasonal
+    necessity
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: soft or slushy snow
+  literal_form: soft snow and spring snow melted by sun into slush
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Correct wearing and descent with snowshoes
+  summary: The passage gives practical instructions for wearing snowshoes and warns
+    that descending requires leaning the body back to avoid falling forward.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Snowshoes as winter necessity
+  summary: Snowshoes are presented as universally worn by men, women, and children
+    and necessary for winter travel and fur hunting over large areas.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Wooden snowshoes for spring soft snow
+  summary: The narrator describes collecting flat spruce-board snowshoes from Little
+    Whale River Indians, who said they were worn on soft snow; the passage explains
+    their advantage over netted snowshoes in spring slush.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Regional non-use of wooden snowshoes
+  summary: The passage notes that Koksoak Valley Indians do not use wooden snowshoes.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seasonal mobility technology
+  taxonomy_refs: []
+  basis: The passage links snowshoes to winter travel and fur hunting, compares them
+    to the summer canoe, and describes wooden snowshoes as a spring adaptation for
+    soft or slushy snow.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic material-culture pattern, not a mythic narrative
+    motif.
+- id: motif:2
+  label: regional technological variation
+  taxonomy_refs: []
+  basis: Wooden spruce-board snowshoes are associated with Little Whale River Indians,
+    while Koksoak Valley Indians are explicitly said not to use them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage gives only brief comparative information and no symbolic interpretation.
+comparison_claims:
+- id: claim:1
+  claim: Snowshoes are described as serving for winter travel a necessity comparable
+    to the canoe in summer.
+  claim_level: same_function
+  target: canoe as summer travel technology
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is functional and seasonal; the passage does not present
+    it as mythic symbolism.
+- id: claim:2
+  claim: Wooden snowshoes and netted snowshoes share the snowshoe form and foot-strap
+    arrangement, but wooden snowshoes are presented as better suited to soft or slushy
+    spring snow.
+  claim_level: same_function
+  target: netted beaver-tail snowshoes
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to form, use, and seasonal practicality.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9317-9320
+  quote_or_summary: During descent, the wearer must throw the body well back to avoid
+    pitching forward; frames may strike the back of the head if a fall occurs.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9321-9325
+  quote_or_summary: Instructions describe putting the foot into the loop from front
+    to rear, turning the foot within the loop, and passing it under the toe band.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 9326-9332
+  quote_or_summary: "“Everybody wears snowshoes—men, women, and children”; winter
+    travel and fur hunting over large areas require snowshoes, which are compared
+    to the canoe in summer."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 9333-9338
+  quote_or_summary: The narrator collected two unusual pairs of flat spruce-board
+    snowshoes, shaped like netted beaver-tail snowshoes and fitted with the usual
+    foot strap.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9339-9341
+  quote_or_summary: Little Whale River Indians informed the narrator that the wooden
+    snowshoes were worn on soft snow.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9342-9349
+  quote_or_summary: In spring, sun-melted snow clogs netted snowshoes with slush;
+    wooden snowshoes are adapted for that season and can be made in a few hours, unlike
+    netted ones requiring several days.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: line 9350
+  quote_or_summary: The Indians of the Koksoak Valley do not use wooden snowshoes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a straightforward ethnographic description of snowshoe use
+    and seasonal adaptation. Motif candidates are functional material-culture patterns
+    rather than mythic motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological figures or symbolic taxonomy references are explicitly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l9317-l9350
+  passage_sha256=b7fc7e4c797a218cc9bea0a7571718b47c30b289bd53f0d86d7ad3e647eaa006
+

@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l18133-l18189
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: MISCELLANEOUS    GODS / XII      D / MISCELLANEOUS   GODS / MISCELLANEOUS    GODS;
+    lines 18133-18189
+  start: '18133'
+  end: '18189'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists Egyptian names and divine associations for several planets
+    in the XIXth-XXth Dynasties and in the Graeco-Roman period. It identifies a planet
+    associated with Horus, Mars with Ra, Mercury with Set, and Venus with Osiris,
+    and gives several planetary epithets including a ship image for Venus and a backward-journeying
+    description for Mars.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One planet is described with Horus-related names, including a form rendered
+    as “Horus, Bull of heaven,” and the passage states that Horus was the god of that
+    planet.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mars is called the “star of the East of heaven,” is described as a star that
+    journeys backwards in travelling, has Horus-related names including “Red Horus,”
+    and is assigned Ra as its god.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mercury is called Sebku in the XIXth and XXth Dynasties and Sebek in the Graeco-Roman
+    period, and is assigned Set as its god.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Venus is called the “star of the ship of the Bennu-Asar” in the XIXth and
+    XXth Dynasties, is called the “god of the morning” in the Graeco-Roman period,
+    is assigned Osiris as its god, and has a separate evening-star name in the fragment.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage repeatedly contrasts planetary names used under the XIXth and
+    XXth Dynasties with names used in the Graeco-Roman period.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Horus
+  description: Named as the god of one planet and appears in Horus-related planetary
+    names.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ra
+  description: Named as the god of Mars.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Set
+  description: Named as the god of Mercury.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Osiris
+  description: Named as the god of Venus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Bennu-Asar
+  description: Named in the Venus epithet referring to the ship of Bennu-Asar.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: God of a planet
+  assigned_to:
+  - fig:1
+  basis: The passage states that Horus was the god of the planet described with Horus-related
+    names.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Name element in planetary epithets
+  assigned_to:
+  - fig:1
+  basis: Horus appears in the planet name “Horus, Bull of heaven” and in Mars names
+    rendered as Heru-khuti and Heru-tesher, the latter glossed as “Red Horus.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: God of Mars
+  assigned_to:
+  - fig:2
+  basis: The passage states that the god of Mars was Ra.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: God of Mercury
+  assigned_to:
+  - fig:3
+  basis: The passage states that the god of Mercury was Set.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: God of Venus
+  assigned_to:
+  - fig:4
+  basis: The passage states that the god of Venus was Osiris.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Referenced figure in ship epithet
+  assigned_to:
+  - fig:5
+  basis: Bennu-Asar is named in the phrase describing Venus as the star of the ship
+    of Bennu-Asar.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Horus-associated planet
+  literal_form: A planet called “Horus, Bull of heaven” and later Heru-p-ka or Heru-ka.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Mars as eastern and backward-journeying star
+  literal_form: Mars, the “star of the East of heaven,” described as the star that
+    journeys backwards in travelling.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Red Horus name for Mars
+  literal_form: Heru-tesher, glossed as “the Red Horus,” used for Mars in the Graeco-Roman
+    period.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Mercury as Sebku or Sebek
+  literal_form: Mercury named Sebku under the XIXth and XXth Dynasties and Sebek in
+    the Graeco-Roman period.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Venus as ship-star of Bennu-Asar
+  literal_form: Venus called the “star of the ship of the Bennu-Asar.”
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Venus as morning and evening star
+  literal_form: Venus called Pi-neter-Tuau, the “god of the morning,” and also given
+    an evening-star name in the fragment.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Planetary divine correspondences
+  summary: The passage presents a catalogue of planets, their names in different periods,
+    and the gods assigned to them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Planets identified through divine names and gods
+  taxonomy_refs: []
+  basis: The passage assigns gods to planets and gives divine or deity-related names
+    for the planetary bodies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a catalogue entry rather than a narrative mythic episode.
+- id: motif:2
+  label: Period-specific astral naming
+  taxonomy_refs: []
+  basis: For several planets, the passage contrasts names used in the XIXth and XXth
+    Dynasties with those used in the Graeco-Roman period.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives linguistic and religious correspondences, not a story
+    of transformation.
+- id: motif:3
+  label: Celestial vessel epithet
+  taxonomy_refs: []
+  basis: Venus is described as the star of the ship of Bennu-Asar.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the epithet is provided; no vessel narrative or function is described
+    in this passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a cautious comparison between dynastic and Graeco-Roman
+    planetary nomenclature: the same planetary bodies are listed with different names
+    across periods while retaining divine associations.'
+  claim_level: linguistic_similarity
+  target: XIXth-XXth Dynasty planetary names and Graeco-Roman-period planetary names
+    in the passage
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison of names and associations in Budge’s
+    catalogue; it does not by itself establish historical transmission beyond the
+    periods named.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18133-18189; Horus-associated planet entry
+  quote_or_summary: A planet is described with Horus-related names, including “Horus,
+    Bull of heaven,” Heru-p-ka, and Heru-ka; the passage states that Horus was the
+    god of this planet.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: 18133-18189; Mars entry
+  quote_or_summary: Mars is called the “star of the East of heaven,” is described
+    as journeying backwards in travelling, is called Heru-khuti and later Heru-tesher
+    or “the Red Horus,” and is assigned Ra as its god.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: 18133-18189; Mercury entry
+  quote_or_summary: Mercury is called Sebku under the XIXth and XXth Dynasties and
+    Sebek in the Graeco-Roman period; the god of the planet is Set.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: 18133-18189; Venus entry
+  quote_or_summary: Venus is called the “star of the ship of the Bennu-Asar,” later
+    Pi-neter-Tuau, glossed as the “god of the morning”; the passage assigns Osiris
+    as its god and mentions an evening-star name.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is limited by OCR noise and by the passage’s fragmentary catalogue
+    format. Planetary correspondences are clear, but one planet before the Mars entry
+    is not explicitly named in the provided fragment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol IDs were assigned because the available taxonomy terms are not directly supported beyond a general vessel image, and the passage does not provide a narrative vessel function.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l18133-l18189
+  passage_sha256=fb340007bf7ea82698d8c7974fcd301a9e9f4550102ee548a98c8222ca85da52
+

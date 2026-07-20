@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l22142-l22159
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: Canto LXIII. / CANTO LX nr. / Canto LXIY / Canto LXY.; lines 22142-22159
+  start: '22142'
+  end: '22159'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Then he, lustrous as the immortals, accompauied by his wives, lived in pleasure
+    on that high mountain
+  summary: A canto heading places the passage in the Svdroc'isha Manvantara. A chapter
+    summary says Sva-7vc is lived in pleasure with his wives and was aroused by the
+    conversation of two birds and by a deer's remarks. Markandeya begins narrating
+    that he, lustrous like the immortals, lived pleasurably on a high mountain with
+    his wives. A textual note says the passage appears erroneous.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The canto heading identifies the topic as the Svdroc'isha Manvantara.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chapter summary states that Sva-7vc is lived in pleasure with his wives.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The chapter summary states that he was aroused by a conversation between two
+    birds and by a deer's remarks.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Markandeya is named as the speaker.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrated figure is described as lustrous as the immortals, accompanied
+    by his wives, and living in pleasure on a high mountain.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note attached to the passage says that the passage seems erroneous and comments
+    on a grammatical difficulty involving Gandharva.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Markandeya
+  description: Named speaker of the passage, printed in OCR form as Mai’ka^d^ya.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Sva-7vc is
+  description: Figure named in the chapter summary as living in pleasure with his
+    wives; the following verse describes 'he' as lustrous as the immortals and living
+    on a high mountain with his wives.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: wives
+  description: Wives accompanying the main figure and living with him in pleasure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: two birds
+  description: Two birds whose conversation is mentioned in the chapter summary.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: deer
+  description: A deer whose remarks are mentioned in the chapter summary.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named narrator or speaker
+  assigned_to:
+  - fig:1
+  basis: The text introduces Markandeya as speaking.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: pleasure-dwelling protagonist
+  assigned_to:
+  - fig:2
+  basis: The chapter summary and verse describe this figure living in pleasure with
+    wives on a high mountain.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: accompanying wives
+  assigned_to:
+  - fig:3
+  basis: The wives accompany the main figure and are included in his life of pleasure.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: animal speakers or commentators
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The summary mentions a conversation between two birds and remarks by a deer.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: high mountain
+  literal_form: high mountain
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: two birds in conversation
+  literal_form: two birds conversing
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: speaking deer
+  literal_form: deer making remarks
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Canto frame for Svdroc'isha Manvantara
+  summary: The heading frames the passage as concerning the Svdroc'isha Manvantara.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pleasure on the high mountain
+  summary: The main figure lives in pleasure with his wives on a high mountain and
+    is described as lustrous as the immortals.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Animal conversation and deer remarks
+  summary: The chapter summary says the main figure was aroused by a conversation
+    between two birds and by a deer's remarks.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Animal speech as a catalyst
+  taxonomy_refs: []
+  basis: The chapter summary links the main figure's being aroused to the conversation
+    of two birds and remarks by a deer.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage excerpt gives only the summary, not the full animal speeches
+    or their content.
+- id: motif:2
+  label: Pleasure residence with wives on a mountain
+  taxonomy_refs: []
+  basis: The summary and verse describe the main figure living pleasurably with his
+    wives on a high mountain.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The mountain is not explicitly described as cosmic or sacred in the provided
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22142-22144
+  quote_or_summary: Canto LXY. About the Svdroc'isha Manvantara.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 22146-22148
+  quote_or_summary: The chapter summary says Sva-7vc is lived in pleasure with his
+    wives and was aroused by a conversation between two birds and by a deer's remarks.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: quote
+  locator: '22150'
+  quote_or_summary: 'Mai’ka^d^ya spoke:'
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: 22152-22155
+  quote_or_summary: Then he, lustrous as the immortals, accompauied by his wives,
+    lived in pleasure on that high mountain
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: note
+  locator: 22156-22159
+  quote_or_summary: A note says the passage seems erroneous and comments that Gandharva
+    cannot be taken with two cited terms.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized from provided note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The excerpt is short, OCR-corrupted, and incomplete. Literal extraction is
+    mostly secure, but names and the exact narrative sequence require review against
+    the canonical text. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only to the literal mountain symbol.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l22142-l22159
+  passage_sha256=4e31972443764da901e7decef13e59b82b7965e0ee88dac987fa8e677ac554f5
+

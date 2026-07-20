@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l96048-l96097
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: TRANSLATION AND NOTES / ARANYAKA I / KEITH M / ADHYAYA 2.; lines 96048-96097
+  start: '96048'
+  end: '96097'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“This hymn is not addressed to any definite deity ... and is therefore Prajapati’s.”"
+  summary: The passage explains a ritual sequence in which a reciter uses hymns attributed
+    to Vasukra and Indra within the Marutvatiya Sastra. It gives reasons for beginning
+    with Vasukra’s hymn, connects Vasukra and the ritual day with brahman, assigns
+    an indefinite hymn to Prajapati because Prajapati is undefined, and notes an Indra/Soma
+    hymn and the ritual significance of the word “mightily.” The notes cite related
+    textual discussions of Prajapati, Vasukra, Indra, and the interpretation of the
+    hymns.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A ritual actor recites the hymn beginning “Fair has been my effort, singer;
+    slayer of truth,” identified as RV X, 27.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The day is described as true and perfect in form because it is endowed with
+    truth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hymn is said to be composed by Vasukra, and Vasukra and the day are each
+    identified with brahman.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage asks why the Marutvatiya Sastra is commenced with Vasukra’s hymn
+    and answers that Vasukra produced or separated a Marutvatiya Sastra.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The hymn is said not to be addressed to any definite deity and is therefore
+    treated as Prajapati’s hymn.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Prajapati is described as undefined, and the hymn is said to serve to win
+    Prajapati.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The hymn is said to describe Indra once and therefore to retain its form as
+    Indra’s.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The reciter recites the hymn beginning “Drink the Soma,” identified as RV
+    VI, 17.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage notes the presence of the word “mightily” in a verse addressed
+    to Indra and says that the form of the day is perfect as endowed with that word.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The notes cite related passages and scholarly references concerning undefined
+    Prajapati, Vasukra, and the attribution of RV X, 27-29 to Indra with exceptions.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: ritual reciter
+  description: The unnamed “he” who recites the specified hymns in the ritual explanation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Vasukra
+  description: Named as composer of the hymn and as the one who produced or separated
+    a Marutvatiya Sastra; also identified with brahman in the passage.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Prajapati
+  description: A deity described as undefined; the indefinite hymn is assigned to
+    him and used to win him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Indra
+  description: A deity described once by the hymn; the hymn thereby retains Indra’s
+    form, and another recited hymn addresses Soma-drinking to Indra.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ritual reciter
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly states that “he recites” specified hymns.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: composer and ritual originator
+  assigned_to:
+  - fig:2
+  basis: Vasukra is named as composer of the hymn and as the one who produced or separated
+    a Marutvatiya Sastra.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: identified with brahman
+  assigned_to:
+  - fig:2
+  basis: The passage states that Vasukra is brahman.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: undefined deity won by hymn
+  assigned_to:
+  - fig:3
+  basis: Prajapati is called undefined, and the hymn is said to serve to win Prajapati.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: deity whose form the hymn retains
+  assigned_to:
+  - fig:4
+  basis: The hymn is said to describe Indra once and thereby retain its form as Indra’s.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Vasukra’s hymn
+  literal_form: hymn identified with RV X, 27
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Marutvatiya Sastra
+  literal_form: ritual sastra commenced by Vasukra’s hymn
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Soma
+  literal_form: Soma mentioned in the recited hymn “Drink the Soma”
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: truth-endowed day
+  literal_form: ritual day described as true, perfect, and endowed with truth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: word “mightily”
+  literal_form: the word “mightily” occurring in a verse addressed to Indra
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Recitation and brahman identification
+  summary: The reciter begins with a hymn attributed to Vasukra; the day is described
+    as true and perfect, and both Vasukra and the day are identified with brahman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Justification for commencing the Marutvatiya Sastra
+  summary: A question is raised about beginning the Marutvatiya Sastra with Vasukra’s
+    hymn, and the answer gives Vasukra’s unique role in producing or separating such
+    a sastra.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Attribution to Prajapati and Indra
+  summary: The hymn is assigned to Prajapati because it has no definite deity and
+    Prajapati is undefined; it also retains Indra’s form because it describes Indra
+    once.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Indra, Soma, and the perfecting word
+  summary: The reciter uses an Indra hymn beginning “Drink the Soma,” and the passage
+    marks the word “mightily” as completing the form of the ritual day.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual recitation commences and orders a sastra
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage centers on which hymn is recited to commence the Marutvatiya
+    Sastra and why Vasukra’s hymn is ritually appropriate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy term “sacrifice” is broader than the specific liturgical
+    recitation described here.
+- id: motif:2
+  label: undefined deity approached through an indefinite hymn
+  taxonomy_refs: []
+  basis: The hymn is assigned to Prajapati because it is not addressed to a definite
+    deity, and Prajapati is described as undefined.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a passage-specific ritual-theological pattern rather than a named
+    taxonomy motif in the supplied list.
+- id: motif:3
+  label: ritual identity established by verbal and formal equivalence
+  taxonomy_refs: []
+  basis: The passage equates Vasukra and the day with brahman, states that the hymn
+    can be Prajapati’s because it is indefinite, and says it retains Indra’s form
+    because it describes Indra.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The extraction describes the explicit logic of the passage but does not
+    infer a wider doctrine beyond the provided text.
+- id: motif:4
+  label: Soma-drinking hymn addressed to Indra within ritual recitation
+  taxonomy_refs:
+  - sacrifice
+  basis: The reciter is instructed to recite the hymn beginning “Drink the Soma,”
+    and the surrounding line addresses Indra.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage quotes only the opening and discusses the ritual placement
+    rather than narrating a full Soma rite.
+- id: motif:5
+  label: winning a deity through a hymn
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The passage states that the hymn serves to win Prajapati.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The word “win” supports a ritual efficacy pattern, but no explicit exchange
+    is described in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The note links the passage’s explanation of undefined Prajapati with nearby
+    Vedic textual discussions, including Sankhayana Aranyaka I, 1 and other cited
+    Brahmana, Samhita, and Nirukta passages.
+  claim_level: same_function
+  target: Sankhayana Aranyaka I, 1; Aitareya Brahmana; Kausitaki Brahmana; Maitrayani
+    Samhita; Nirukta passages cited in the note
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The provided passage supplies citations and one brief parallel phrase
+    but not the full contexts of the cited works.
+- id: claim:2
+  claim: The note reports that Sankhayana Aranyaka I, 3 equates Vasukra with Indra,
+    which is related to this passage’s statement that the hymn retains its form as
+    Indra’s after describing Indra.
+  claim_level: same_function
+  target: Sankhayana Aranyaka I, 3 as cited in the note
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The cited parallel is reported in a note only, and the precise relationship
+    between the two passages is not established here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 96048-96053
+  quote_or_summary: The reciter uses RV X, 27; the day is called true and perfect;
+    the hymn is attributed to Vasukra; Vasukra and the day are identified with brahman.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 96053-96058
+  quote_or_summary: A question asks why the Marutvatiya Sastra is commenced with Vasukra’s
+    hymn; the answer states that Vasukra alone produced or separated a Marutvatiya
+    Sastra, so his hymn is used to commence it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 96058-96061
+  quote_or_summary: "“This hymn is not addressed to any definite deity ... and is
+    therefore Prajapati’s. For Prajipati is undefined, and the hymn serves to win
+    Prajaipati.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: 96061-96065
+  quote_or_summary: The hymn is said to describe Indra once and retain Indra’s form;
+    the reciter then recites RV VI, 17 beginning “Drink the Soma,” and the verse with
+    “mightily” is said to perfect the form of the day.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized evidence with brief title phrase.
+- id: ev:5
+  type: summary
+  locator: 96066-96097
+  quote_or_summary: The notes discuss uncertainties of translation and cite parallels
+    or references involving Vasukra, Indra, undefined Prajapati, and the attribution
+    of RV X, 27-29.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is dense ritual exegesis with OCR noise and footnote interruptions.
+    Literal ritual claims are fairly clear, but broader motif labels and comparison
+    claims require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Names and spellings follow the supplied passage where possible; variant OCR spellings of Prajapati/Prajipati/Prajaipati and Marutvatiya/Maiutvattya should be normalized by a reviewer if desired.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l96048-l96097
+  passage_sha256=e9be1040135d5e452b12024f8a97055f936b83ce12ee8bdc7df7fe1c7a5e5e06
+

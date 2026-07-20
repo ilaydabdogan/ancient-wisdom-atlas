@@ -1,0 +1,424 @@
+---
+record_id: batch.motif.celtic-celtic-fairy-tales-jacobs-gutenberg-l1909-l1988
+source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: CONALL YELLOWCLAW / HUDDEN AND DUDDEN AND DONALD O'NEARY / THE SHEPHERD OF
+    MYDDVAI / THE SPRIGHTLY TAILOR; lines 1909-1988
+  start: '1909'
+  end: '1988'
+  translation: Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Macdonald promises a reward to a tailor who will make a pair of trews by
+    night in a reputedly haunted ruined church. The tailor works there by candlelight
+    on a gravestone while a great humanlike apparition rises progressively through
+    the pavement and challenges him with repeated questions. The tailor keeps sewing,
+    finishes before the apparition fully emerges, flees with the trews to Saddell
+    Castle, and shuts the gate. The apparition strikes the wall and leaves five finger-marks.
+    Macdonald pays the tailor, though some stitches are long.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Macdonald employs the tailor to make trews and promises a handsome reward
+    if the work is done by night in the old ruined church, which is reputed to be
+    haunted.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tailor accepts the challenge, goes to the old church at night, sits on
+    a gravestone, lights a candle, puts on his thimble, and begins sewing the trews.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The church floor trembles, and a great human head rises through the stone
+    pavement and speaks in a great voice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The tailor repeatedly answers the apparition's questions with a formulaic
+    reply while continuing to sew.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: 'The apparition emerges in stages: head, neck, shoulders and chest, arms,
+    one leg, and then the beginning of the other leg.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The tailor finishes the trews before the apparition fully emerges, blows out
+    his candle, takes the trews, and runs out of the church.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The apparition roars, chases the tailor down the glen, reaches the castle
+    gate after him, and strikes the wall above the gate.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The strike leaves the mark of five great fingers on the wall, which the narrator
+    says can still be seen.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Macdonald pays the tailor for the trews, and the passage notes that some stitches
+    were long.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: sprightly tailor
+  description: A tailor employed to make trews for Macdonald; he accepts the night
+    challenge, sews in the haunted church, answers the apparition, escapes, and receives
+    payment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Macdonald
+  description: The great Macdonald, laird at Saddell Castle, who employs the tailor
+    and offers a reward for making trews by night in the church.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:3
+  name_or_label: fearsome thing / apparition
+  description: A great humanlike apparition that rises through the church pavement,
+    speaks in a thundering or roaring voice, pursues the tailor, and leaves a five-finger
+    mark on the castle wall.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: undaunted craftsman and task-completer
+  assigned_to:
+  - fig:1
+  basis: The tailor accepts the feared night task, keeps sewing while the apparition
+    appears, finishes the trews, and escapes with them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: patron who sets a rewarded challenge
+  assigned_to:
+  - fig:2
+  basis: Macdonald offers the tailor a handsome reward for making the trews by night
+    in the haunted church and later pays him.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:3
+  label: supernatural apparition and pursuer
+  assigned_to:
+  - fig:3
+  basis: The being rises through the church pavement, speaks loudly, roars, chases
+    the tailor, and marks the castle wall.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: trews
+  literal_form: pair of trews
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: haunted ruined church
+  literal_form: old ruined church at night
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: gravestone seat
+  literal_form: gravestone used as a seat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: candlelight
+  literal_form: lit candle, later blown out
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: stone pavement
+  literal_form: church stone pavement through which the apparition rises
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: castle gate and wall
+  literal_form: gate of Saddell Castle and wall above it
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: five-finger mark
+  literal_form: mark of five great fingers left on the wall
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Commission and haunted challenge
+  summary: Macdonald hires the tailor to make trews and offers a reward if he completes
+    them at night in the reputedly haunted ruined church.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Night work in the church
+  summary: The tailor travels to the church, sits on a gravestone, lights his candle,
+    and begins sewing the trews.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Progressive emergence and repeated replies
+  summary: The floor trembles and the apparition rises through the pavement in stages,
+    asking whether the tailor sees each body part; the tailor keeps sewing and repeats
+    that he sees it but will sew his work.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Completion, flight, and pursuit
+  summary: The tailor finishes before the apparition fully emerges, blows out the
+    candle, runs from the church with the trews, and is chased down the glen to Saddell
+    Castle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Castle wall mark and reward
+  summary: The apparition strikes the wall above the castle gate, leaving a five-finger
+    mark, while the tailor gains his payment despite long stitches.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Rewarded night task in a haunted place
+  taxonomy_refs:
+  - initiation
+  basis: The tailor is challenged to complete skilled work by night in a feared haunted
+    church for a promised reward, and he succeeds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: The passage frames the episode as a dare and paid task, not as an explicit
+    rite of initiation; the taxonomy reference is functional and should be reviewed.
+- id: motif:2
+  label: Progressive emergence of a supernatural being
+  taxonomy_refs: []
+  basis: A humanlike apparition rises through the pavement in sequential body parts
+    while addressing the tailor.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific taxonomy reference is assigned from the supplied list.
+- id: motif:3
+  label: Worker persists through supernatural intimidation
+  taxonomy_refs: []
+  basis: The tailor repeats his answer and continues sewing while the apparition displays
+    its body parts and speaks in a loud voice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a plain passage-level pattern rather than a confirmed indexed
+    motif.
+- id: motif:4
+  label: Escape from supernatural pursuer to a closed gate
+  taxonomy_refs: []
+  basis: After finishing the trews, the tailor flees; the apparition chases him down
+    the glen, but he enters Saddell Castle and shuts the gate before it reaches him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No historical or cross-textual comparison is made.
+- id: motif:5
+  label: Supernatural hand-mark as local visible proof
+  taxonomy_refs: []
+  basis: The apparition strikes the wall above the castle gate and leaves a mark of
+    five great fingers, which the narrator says remains visible.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The extraction treats the wall mark as an etiological narrative feature,
+    but the passage itself does not use that term.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1909-1918
+  quote_or_summary: Macdonald employs the sprightly tailor to make trews and promises
+    a reward if he makes them by night in the old ruined church, reputed to be haunted.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1920-1927
+  quote_or_summary: The tailor, undaunted, goes to the old church at night, sits on
+    a gravestone, lights his candle, puts on his thimble, and begins sewing.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1929-1937
+  quote_or_summary: The floor trembles; a great human head rises through the stone
+    pavement and asks if the tailor sees it. The tailor answers that he sees it but
+    will keep sewing.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1939-1958
+  quote_or_summary: The apparition rises further, showing neck, chest, and arms, each
+    time asking whether the tailor sees them; the tailor repeats his sewing-focused
+    reply.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1960-1973
+  quote_or_summary: As the apparition lifts out one leg and begins the other, the
+    tailor finishes, blows out the candle, leaves with the trews, and is chased from
+    the church.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1975-1984
+  quote_or_summary: The tailor runs down the glen to Saddell Castle, shuts the gate,
+    and the enraged apparition strikes the wall above it, leaving five finger-marks
+    said to be visible.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1986-1988
+  quote_or_summary: Macdonald pays the tailor handsomely for the trews, though a few
+    stitches are described as somewhat long.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal passage extraction is straightforward. Motif candidates are descriptive
+    and should be reviewed, especially the functional link to the supplied initiation
+    taxonomy. No comparison claims were made because the passage itself gives no explicit
+    comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Line subranges follow the provided stable markdown line range.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-celtic-fairy-tales-jacobs-gutenberg__l1909-l1988
+  passage_sha256=6eed1b6d7908a022c885ff25a5b2599dbcb543f7b80b56436680a58c4409d616
+

@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l58291-l58352
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: HYUN 74.) THE RIGVEDA, 2357 / HYMN 79.) IHE RIGVEDA. 235 / HYMN. 82.) FRE
+    RIGVEDA. 290 / PALETTE; lines 58291-58352
+  start: '58291'
+  end: '58352'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains translated Rigvedic verses and notes centered on Agni.
+    Agni is addressed as priest, guest, driver of cars, treasure-finder, herald, and
+    envoy for sacrificial offerings; worshippers come with lauds and offered gifts;
+    Agni is invited with Rudras to a Soma-draught and Sobhari's song of praise. Notes
+    mention textual obscurity and explain the image of Agni's waves as floods of flame
+    and the envoy task as bearing oblations to the gods.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Agni is addressed as priest, presser of the juice, dearest guest of friends,
+    and driver of cars.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Agni is described as finding open and concealed treasures and bringing them
+    hither.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Agni's waves are compared to a cataract that is hard to pass; the note explains
+    these as floods of flame rushing like falling waters.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: obs:4
+  text: Agni is asked not to be wroth and is described as a good herald skilled in
+    sacrifice.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: People who come with lauds and offered gifts seek Agni for the envoy's task;
+    the note explains this task as bearing oblations to the gods.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:6
+  text: Agni is called friend of the Maruts and is invited to come with Rudras to
+    the Soma-draught and to Sobhari's song of praise.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Editorial notes in the passage state that some lines or stanzas are obscure
+    and that one translation is conjectural.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Deity addressed as priest, presser of juice, guest, driver of cars,
+    finder of treasures, holy one, herald, Vasu, friend of the Maruts, and participant
+    in the Soma-draught.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Lauding worshippers
+  description: Those who come with lauds, including the lowly skilled in rites with
+    offered gifts, seeking Agni for the envoy's task.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Maruts
+  description: Divine group with whom Agni is associated as friend.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Rudras
+  description: Divine group with whom Agni is invited to come to the Soma-draught.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Sobhari
+  description: Named figure associated with a fair song of praise to which Agni is
+    invited.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: invoked deity
+  assigned_to:
+  - fig:1
+  basis: Agni is directly addressed and invited in the hymn verses.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: sacrificial herald or envoy
+  assigned_to:
+  - fig:1
+  basis: Agni is called a good herald skilled in sacrifice and is sought for the envoy's
+    task of bearing oblations to the gods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: treasure-finder
+  assigned_to:
+  - fig:1
+  basis: Agni is said to find treasures open and concealed and bring them hither.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: praiser or ritual participant
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The passage refers to people coming with lauds and to Sobhari's fair song
+    of praise.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: associated divine companions
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Agni is called friend of the Maruts and is asked to come with Rudras.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Agni's waves or flames and the light in which he is invited to rejoice
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Soma-draught
+  literal_form: Soma-draught
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: offered gifts and oblations
+  literal_form: offered gifts; oblations to the gods
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: cars
+  literal_form: cars driven by Agni
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: open and concealed treasures
+  literal_form: treasures open and concealed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Invocation of Agni as priestly guest
+  summary: The speaker calls for praise of Agni, naming him priest, presser of juice,
+    dearest guest, and driver of cars.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Agni as treasure-finder with hard-to-pass flames
+  summary: Agni is described as bringing open and concealed treasures, while his waves
+    or flames are likened to a cataract difficult to cross.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: scene:3
+  label: Petition to the sacrificial herald
+  summary: The hymn asks Agni not to be angry or harmful toward those who praise him;
+    worshippers with offered gifts seek him for the envoy task of carrying oblations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Invitation to the Soma-draught
+  summary: Agni, friend of the Maruts, is invited to come with Rudras to the Soma-draught
+    and to Sobhari's song of praise, rejoicing in the light.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrificial mediation through Agni
+  taxonomy_refs:
+  - sacrifice
+  basis: Agni is described as priest, presser of juice, herald skilled in sacrifice,
+    and envoy who bears oblations to the gods.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage is a translated and partially OCR-corrupted excerpt; however,
+    the sacrificial roles are explicit in the provided text and notes.
+- id: motif:2
+  label: divine guest invited to ritual drink and praise
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: Agni is called a noble or dearest guest and is invited with Rudras to a Soma-draught
+    and song of praise.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The sacred-exchange classification is inferred from ritual invitation
+    and praise, not from an explicit exchange formula in the excerpt.
+- id: motif:3
+  label: praise and offerings linked with divine treasure-bringing
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Agni brings open and concealed treasures, while worshippers come with lauds
+    and offered gifts seeking his envoy task.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The excerpt juxtaposes praise, gifts, and treasure-bringing, but does
+    not state a direct transactional bargain.
+- id: motif:4
+  label: fiery power imaged as overwhelming flood
+  taxonomy_refs: []
+  basis: Agni's waves are described as hard to pass like a cataract, and the note
+    glosses them as floods of flame rushing like falling waters.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: This is primarily an image or symbol rather than a full narrative motif
+    in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 58308-58310
+  quote_or_summary: '"Priest, presser of the juice! praise now the dearest Guest ...
+    Agni, the driver of the cars."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 58311-58314
+  quote_or_summary: Agni is described as a "finder-out of treasures open and concealed"
+    whose waves, "as in a cataract," are hard to pass.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 58316-58318
+  quote_or_summary: '"Let not the noble Guest, Agni, be wroth with us"; he is called
+    "Good Herald, skilled in sacrifice."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 58320-58323
+  quote_or_summary: Those who come with lauds to Agni are not to be harmed; even the
+    lowly, skilled in rites, come with offered gifts and seek him for the envoy's
+    task.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source text; summarized/short quoted evidence from public
+    domain text.
+- id: ev:5
+  type: quote
+  locator: lines 58324-58327
+  quote_or_summary: '"Friend of the Maruts, Agni, come with Rudras to the Soma-draught,
+    / To Sobhari''s fair song of praise" and be joyful in the light.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:6
+  type: note
+  locator: lines 58332-58341 and 58343
+  quote_or_summary: The note explains Agni's waves as billowy floods of flame rushing
+    like waters and explains the envoy's task as bearing oblations to the gods.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source text; summarized editorial note.
+- id: ev:7
+  type: note
+  locator: lines 58291-58302 and 58332-58341
+  quote_or_summary: Editorial notes state that some lines or stanzas are obscure,
+    that one translation is conjectural, and that alternative renderings exist.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source text; summarized editorial notes.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main Agni-sacrifice imagery is clear, but the provided passage includes OCR
+    corruption and editorial warnings about obscurity and conjectural translation.
+    No cross-tradition comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to those available in the request.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l58291-l58352
+  passage_sha256=8c630205cab7fe04641165861d579b6e941cf31c099f017fefb9dafa14b3db63
+

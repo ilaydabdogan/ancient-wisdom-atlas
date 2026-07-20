@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l4675-l4708
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: XXII. / HOW  THE   FETISH   SUNGA   PUNISHED   BASA.  89 / XXIII. / THE   RABBIT  AND   THE  ANTELOPE.;
+    lines 4675-4708
+  start: '4675'
+  end: '4708'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: During a nearly rainless hot season, the rabbit and the antelope agree
+    to dig a deep well against thirst. The antelope wants to finish their food first,
+    but the rabbit suggests saving it for later and is told to hide it. After they
+    begin work, the rabbit claims he is being called back to town because his wife
+    is about to have children that he must name. The antelope lets him go. The rabbit
+    goes to the hidden food and eats some before returning to work.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is an almost rainless hot season in which beings without wells
+    are beginning to suffer thirst.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rabbit and the antelope form a partnership to dig a deep well so they
+    will not lack water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The antelope proposes finishing their food before work, while the rabbit proposes
+    saving it for when they are tired and hungry later.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The antelope tells the rabbit to hide the food and says he is very thirsty.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The rabbit and the antelope arrive at the intended well site and work hard
+    for a short time.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The rabbit says he is being called back to town; the antelope says he does
+    not hear the calling.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The rabbit says his wife is about to present him with children and that he
+    must name them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The antelope permits the rabbit to go and asks him to return soon.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The rabbit runs to the place where he hid the food, eats some of it, and then
+    returns to work.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: rabbit
+  description: Animal figure who partners with the antelope, suggests hiding the food,
+    claims to be called away, and eats some of the hidden food.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: antelope
+  description: Animal figure who partners with the rabbit, expresses thirst, works
+    at the well site, and allows the rabbit to leave after his explanation.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: well-digging partners
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the rabbit and antelope formed a partnership to dig a deep
+    well and later began work at the intended site.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: deceptive food-taker
+  assigned_to:
+  - fig:1
+  basis: The rabbit claims he must go to town because of a family event, but the next
+    action described is that he goes to the hidden food and eats some of it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: trusting work partner
+  assigned_to:
+  - fig:2
+  basis: The antelope accepts the rabbit’s stated need to leave and asks him to return
+    soon.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water sought through a well
+  literal_form: water / deep well
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hidden food
+  literal_form: food hidden for later eating
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Drought and decision to dig a well
+  summary: In a nearly rainless hot season, the rabbit and antelope make a partnership
+    to dig a deep well so they will not lack water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Food set aside before work
+  summary: The antelope suggests eating first; the rabbit proposes saving the food,
+    and the antelope tells him to hide it before they begin work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Short period of joint labor
+  summary: The two animals reach the intended well site and work hard briefly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rabbit’s pretext and secret eating
+  summary: The rabbit claims to be called back to town for the naming of expected
+    children. The antelope lets him go, and the rabbit instead goes to the hidden
+    food and eats some before returning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Trickster uses a false social obligation to escape shared labor
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The rabbit leaves joint well-digging by claiming he is called to town for
+    a family naming duty, but the passage immediately reports that he goes to the
+    hidden food and eats it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage excerpt does not include the full tale ending, so the consequences
+    of the rabbit’s act are not available here.
+- id: motif:2
+  label: Scarce water prompts cooperative well-digging
+  taxonomy_refs: []
+  basis: The rainless hot season and thirst lead the rabbit and antelope to form a
+    partnership to dig a deep well.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a situational narrative pattern rather than a supplied taxonomy
+    motif family.
+- id: motif:3
+  label: Hidden provisions consumed by one partner
+  taxonomy_refs: []
+  basis: The rabbit suggests saving and hiding the food, then later runs to the hidden
+    food and eats some while away from the antelope.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not state whether the food belonged equally to both partners
+    or how the antelope later responds.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4679-4684
+  quote_or_summary: During an almost rainless hot season, those without wells feel
+    thirst; the rabbit and antelope form a partnership to dig a deep well so they
+    will not lack water.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4685-4694
+  quote_or_summary: The antelope proposes finishing the food; the rabbit suggests
+    keeping it for later after work; the antelope tells the rabbit to hide the food
+    and says he is very thirsty.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4695-4697
+  quote_or_summary: They arrive at the place intended for the well and work hard for
+    a short time.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4698-4706
+  quote_or_summary: The rabbit says he is being called back to town; the antelope
+    does not hear it. The rabbit says his wife is about to have children and that
+    he must name them. The antelope permits him to go and asks him to come back soon.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 4707-4708
+  quote_or_summary: "“The rabbit ran off to where he had hidden the food, and ate
+    some of it, and then went back to his work,”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied excerpt. Motif identification
+    is limited because the excerpt ends before the full tale resolution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make or support a specific cross-text comparison beyond the local motif classification.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l4675-l4708
+  passage_sha256=6900343a2bfaa23bcfce1a6f4aa3e00ea1184906207164237636e35678251449
+

@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l18678-l18723
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: COUNTRIES AND RACES IN SOUTH INDIA. / COUHTRIES AHB RACES IN WESTERN INDIA.
+    / CANTO LTII. / CANTO LVII.; lines 18678-18723
+  start: '18678'
+  end: '18723'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: All these peoples dwell on the slopes of the Vindhya Mountains.
+  summary: The passage lists several peoples or regional groups associated with the
+    slopes of the Vindhya Mountains, followed by editorial notes identifying or emending
+    names and connecting them with Anupa, the Tundikeras, the Vitihotras, Avanti,
+    the Narmada valley, and nearby textual traditions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The verse lists Annajas, Tuebti-karas, Yiraiiotras, and Avantis as peoples
+    in the catalogue.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed peoples are said to dwell on the slopes of the Vindhya Mountains.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The commentary says the first name is difficult, notes variant readings, and
+    treats Anupa as the likely correct form; it explains Anupa as a country near water
+    or a marshy country.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentary emends Tuebti-karas to Tundikeras and places these people near
+    the Narmada valley.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentary emends Yiraiiotras to Vitihotras and identifies the Vitihotras
+    as a branch of the Haihaya race, probably in the upper Narmada valley.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The commentary says Avanti had the Narmada flowing through it.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Annajas / Anupas
+  description: A people listed in the verse; the commentary treats the name as uncertain
+    and favors Anupas as the correct reading.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Tuebti-karas / Tundikeras
+  description: A people listed in the verse; the commentary emends the name to Tundikeras
+    and connects them with the Narmada valley.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Yiraiiotras / Vitihotras
+  description: A people listed in the verse; the commentary emends the name to Vitihotras
+    and identifies them as a Haihaya branch.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Avantis
+  description: A people listed in the verse; the commentary notes that Avanti had
+    the Narmada flowing through it.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: listed Vindhya-slope people
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The verse lists the groups and says they dwell on the slopes of the Vindhya
+    Mountains.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: identified as Haihaya branch in commentary
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The notes connect the Tundikeras and Vitihotras with the Haihaya race.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Narmada- or water-associated regional group
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The notes associate Anupa with water or the lower Narmada region, Tundikeras
+    with the Narmada valley, Vitihotras with the upper Narmada valley, and Avanti
+    with the Narmada river.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Vindhya Mountains
+  literal_form: mountain slopes where the listed peoples dwell
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Narmada river and valley
+  literal_form: river and valley used in the notes to locate Anupa, Tundikeras, Vitihotras,
+    and Avanti
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Catalogue of peoples on the Vindhya slopes
+  summary: The verse names several peoples and places them on the slopes of the Vindhya
+    Mountains; the notes provide philological and geographic identifications using
+    Anupa, the Tundikeras, the Vitihotras, Avanti, and the Narmada region.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ethnographic catalogue of peoples by mountain region
+  taxonomy_refs: []
+  basis: The passage functions as a regional catalogue, grouping peoples by their
+    dwelling on the slopes of the Vindhya Mountains.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a geographic catalogue rather than a developed narrative mythic
+    motif.
+- id: motif:2
+  label: regional identification through river and water markers
+  taxonomy_refs: []
+  basis: The commentary identifies or locates several names through water-related
+    geography, especially Anupa as near water or marshy land and multiple groups in
+    relation to the Narmada.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a commentarial geographic pattern, not an explicit symbolic or
+    mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The commentary compares the uncertain first name with readings in the Matsya
+    Purana and Vayu Purana, preferring Anupas over Arupas.
+  claim_level: linguistic_similarity
+  target: Matsya Purana and Vayu Purana readings of the regional name
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a philological comparison of names, not evidence for a shared
+    mythic motif.
+- id: claim:2
+  claim: The commentary compares Tuebti-karas with Tundikeras in the Vayu Purana and
+    related epic or Harivamsa references.
+  claim_level: linguistic_similarity
+  target: Tundikeras in Vayu Purana, Mahabharata, and Harivamsa references cited by
+    the note
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns textual identification and regional ethnography,
+    not a narrative motif.
+- id: claim:3
+  claim: The commentary compares Yiraiiotras with Vitihotras in the Vayu Purana and
+    Matsya Purana and with related Mahabharata naming.
+  claim_level: linguistic_similarity
+  target: Vitihotras or related names in Vayu Purana, Matsya Purana, and Mahabharata
+    references cited by the note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on cited variant readings and name identification;
+    it does not establish a mythic pattern.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18678-18682
+  quote_or_summary: 'The verse lists Annajas, Tuebti-karas, Yiraiiotras, and Avantis,
+    adding: “All these peoples dwell on the slopes of the Vindhya Mountains.”'
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short excerpt used from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 18684-18706
+  quote_or_summary: The note says the first name is not otherwise known, compares
+    Matsya and Vayu Purana readings, favors Anupas, explains Anupa as near water or
+    marshy land, and discusses likely locations near the sea, Gulf of Cambay, and
+    lower Narmada region.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 18708-18716
+  quote_or_summary: The note says the reading should probably be Tundikeras, cites
+    Vayu Purana, Mahabharata, and Harivamsa references, identifies the Tundikeras
+    as a Haihaya branch, and locates them near the Narmada valley.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 18718-18722
+  quote_or_summary: The note says Vayu Purana and Matsya Purana read Vitihotras, identifies
+    Vitihotra as a famous Haihaya king, describes the Vitihotras as a branch of that
+    race, and places them probably in the upper Narmada valley.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: line 18723
+  quote_or_summary: The note says the Avantis had already been mentioned and that
+    Avanti had the Narmada flowing through it.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily geographic and philological rather than narrative.
+    Name forms are affected by OCR and by the translator’s emendations, so figures
+    and comparisons are marked cautiously.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic episode, deity, ritual action, or explicit cosmological motif is present in this passage. Taxonomy symbol refs are limited to literal mountain and water features supported by the text.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l18678-l18723
+  passage_sha256=9e1f56404fb1caa9cc8d8457fda1fff9a61627120f633ad77d45978922383e94
+

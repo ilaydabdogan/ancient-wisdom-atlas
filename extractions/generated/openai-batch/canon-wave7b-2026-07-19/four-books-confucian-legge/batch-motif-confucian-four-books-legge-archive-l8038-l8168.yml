@@ -1,0 +1,586 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l8038-l8168
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: BOOK X. HEANG TANG / CONFUC.1AN ANALECTS / ANALECTS / CHAPTER XIV. When he
+    entered the ancestral; lines 8038-8168
+  start: '8038'
+  end: '8168'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: When he entered the ancestral temple of the state, he asked about everything.
+  summary: The passage presents brief anecdotes about Confucius entering the state
+    ancestral temple, attending to friends and gifts, observing bodily and social
+    propriety, reacting to mourning, abundance, thunder, wind, and carriage etiquette,
+    and a fragmentary scene involving a hen-pheasant and Tsze-lu.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: When entering the ancestral temple of the state, the central figure asked
+    about everything.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When a friend died without dependable relations for the necessary offices,
+    he said he would bury the friend.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When a friend sent him a present, even a carriage and horses, he did not bow;
+    the only present for which he bowed was the flesh of sacrifice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note states that the flesh of sacrifice had been offered by the friend
+    to the spirits of parents or ancestors and required acknowledgment.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In bed he did not lie like a corpse, and at home he did not put on formal
+    deportment.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When he saw someone in mourning dress, he changed countenance.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: When he saw someone wearing the cap of full dress or a blind person, he saluted
+    ceremoniously.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: He bowed forward to the carriage crossbar for any person in mourning and also
+    for anyone bearing the tables of population.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: At an entertainment with abundant provisions, he changed countenance and rose
+    up.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: At a sudden clap of thunder or a violent wind, he changed countenance.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Before mounting his carriage he stood straight and held the cord; in the carriage
+    he did not turn his head fully around, speak hastily, or point with his hands.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: In the pheasant fragment, the Master speaks of a hen-pheasant on the hill
+    bridge and its season; Tsze-lu makes a motion to it, it smells him three times,
+    and then rises.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Confucius / the Master
+  description: The central actor of the anecdotes; Chapter XVIII explicitly calls
+    him “the Master.”
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Friends of Confucius
+  description: Friends appear as deceased persons needing burial offices and as senders
+    of presents.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Persons in mourning
+  description: People wearing mourning dress or otherwise described as in mourning
+    receive changes of countenance or bows.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Person wearing the cap of full dress
+  description: A person wearing the cap of full dress is saluted ceremoniously.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Blind person
+  description: A blind person is saluted ceremoniously.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Tsze-lu
+  description: Tsze-lu makes a motion to the hen-pheasant in the fragmentary scene.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:10
+- id: fig:7
+  name_or_label: Hen-pheasant
+  description: The hen-pheasant is on the hill bridge, smells Tsze-lu three times,
+    and rises.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+- id: fig:8
+  name_or_label: Spirits of parents or ancestors
+  description: The note describes these spirits as the beings to whom the sacrificial
+    flesh had been offered.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ancestral-temple questioner
+  assigned_to:
+  - fig:1
+  basis: He entered the ancestral temple of the state and asked about everything.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: friend undertaking burial
+  assigned_to:
+  - fig:1
+  basis: He said he would bury a friend who died without dependable relations for
+    the necessary offices.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient acknowledging sacrificial gift
+  assigned_to:
+  - fig:1
+  basis: He bowed only for the gift described as the flesh of sacrifice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: friend as deceased or gift-giver
+  assigned_to:
+  - fig:2
+  basis: Friends are described as dying without dependable relations and as sending
+    presents.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: model of regulated bodily conduct
+  assigned_to:
+  - fig:1
+  basis: The passage gives rules for his posture, salutes, bows, rising, reactions,
+    and carriage behavior.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:6
+  label: recipient of ceremonial respect
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Persons in mourning, a person in full dress, and a blind person receive changed
+    countenance, salutes, or bows.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: disciple making a motion
+  assigned_to:
+  - fig:6
+  basis: Tsze-lu makes a motion to the hen-pheasant.
+  evidence_refs:
+  - ev:10
+- id: role:8
+  label: speaker interpreting seasonal timing
+  assigned_to:
+  - fig:1
+  basis: The Master says of the hen-pheasant, “At its season! At its season!”
+  evidence_refs:
+  - ev:10
+- id: role:9
+  label: bird observed in fragment
+  assigned_to:
+  - fig:7
+  basis: The hen-pheasant is observed on the hill bridge and then rises.
+  evidence_refs:
+  - ev:10
+- id: role:10
+  label: recipients of sacrifice
+  assigned_to:
+  - fig:8
+  basis: The note states that the sacrificial flesh had been offered to the spirits
+    of parents or ancestors.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ancestral temple
+  literal_form: the ancestral temple of the state
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: flesh of sacrifice
+  literal_form: the flesh of sacrifice
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: mourning dress
+  literal_form: mourning dress
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: carriage implements
+  literal_form: carriage, crossbar, and mounting cord
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+  - ev:12
+- id: sym:5
+  label: tables of population
+  literal_form: tables of population
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: thunder and violent wind
+  literal_form: a sudden clap of thunder or a violent wind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: hen-pheasant on the hill bridge
+  literal_form: the hen-pheasant on the hill bridge
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Inquiry in the ancestral temple
+  summary: The central figure enters the state ancestral temple and asks about everything.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Friendship, burial, and sacrificial gift
+  summary: The passage describes his willingness to bury a friend lacking reliable
+    relations and his distinct response to sacrificial flesh sent by a friend.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Domestic posture and public respect
+  summary: The passage lists conduct in bed and at home, and responses to mourning
+    dress, formal caps, blind persons, mourners, tables of population, abundant provisions,
+    thunder, and wind.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Carriage comportment
+  summary: Before mounting the carriage he stands straight and holds the cord; inside,
+    he avoids turning fully around, hasty speech, and pointing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+- id: scene:5
+  label: Fragment of the hen-pheasant
+  summary: The Master remarks on a hen-pheasant and its season; Tsze-lu motions to
+    it, and the bird smells him three times before rising.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:10
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: Ritual inquiry at an ancestral temple
+  taxonomy_refs:
+  - wisdom
+  basis: The central figure asks about everything upon entering the ancestral temple;
+    the supplied note also identifies this as a repeated passage.
+  evidence_refs:
+  - ev:1
+  - ev:11
+  confidence: medium
+  cautions: The available taxonomy term “wisdom” is broad; the passage presents ritual
+    inquiry rather than an explicit mythic wisdom quest.
+- id: motif:2
+  label: Burial obligation among friends
+  taxonomy_refs: []
+  basis: He volunteers to bury a friend who lacks dependable relations for the necessary
+    offices.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethical and ritual conduct pattern, not a clearly mythological
+    motif family in the supplied taxonomy.
+- id: motif:3
+  label: Sacrificial gift requiring acknowledgment
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: He bows only for the flesh of sacrifice; the note explains that the flesh
+    had been offered to ancestral or parental spirits and demanded acknowledgment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The interpretation of ancestral-spirit context depends on the supplied
+    translator note.
+- id: motif:4
+  label: Ceremonial respect through bodily gesture
+  taxonomy_refs: []
+  basis: The passage repeatedly describes changed countenance, salutes, bows, rising,
+    posture, and restrained carriage behavior in socially marked circumstances.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is an etiquette pattern; no specific supplied mythological taxonomy
+    family directly matches it.
+- id: motif:5
+  label: Seasonal bird encounter
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The Master identifies the hen-pheasant as being “at its season,” and the
+    bird then reacts to Tsze-lu and rises.
+  evidence_refs:
+  - ev:10
+  confidence: low
+  cautions: The supplied note calls the passage fragmentary, disconnected from the
+    rest of the book, and subject to variant readings.
+comparison_claims:
+- id: claim:1
+  claim: The supplied note identifies the ancestral-temple inquiry as a repetition
+    of Analects III,xv and also refers readers to another chapter.
+  claim_level: same_motif
+  target: Analects III,xv and the chapter cited in the note
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared passages are not included in the provided text range;
+    the claim is limited to the supplied note's statement.
+- id: claim:2
+  claim: The supplied note states that the conduct toward mourning dress, full dress,
+    and blindness repeats Analects IX,ix with heightened circumstances.
+  claim_level: same_motif
+  target: Analects IX,ix
+  evidence_refs:
+  - ev:12
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim relies only on the supplied commentary note; the earlier
+    passage is not present for direct comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8038-8041; Chapter XIV
+  quote_or_summary: "“When he entered the ancestral temple of the state, he asked
+    about everything.”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8043-8049; Chapter XV.1
+  quote_or_summary: If a friend died without dependable relations for the necessary
+    offices, he would say that he would bury him.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8050-8057; Chapter XV.2
+  quote_or_summary: When a friend sent a present, even carriage and horses, he did
+    not bow; he bowed only for the flesh of sacrifice.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8070-8078; note to Chapter XV
+  quote_or_summary: The note explains that sacrificial flesh had been offered by the
+    friend to the spirits of parents or ancestors and therefore demanded acknowledgment.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8079-8083; Chapter XVI.1
+  quote_or_summary: In bed he did not lie like a corpse, and at home he did not assume
+    formal deportment.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 8084-8092; Chapter XVI.2
+  quote_or_summary: He changed countenance on seeing mourning dress, and saluted ceremoniously
+    someone in full-dress cap or a blind person.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 8093-8097; Chapter XVI.3
+  quote_or_summary: He bowed forward to the carriage crossbar for a person in mourning
+    and likewise for someone bearing the tables of population.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 8098-8107; Chapter XVI.4-5
+  quote_or_summary: At abundant provisions he changed countenance and rose; at sudden
+    thunder or violent wind he changed countenance.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 8117-8125; Chapter XVII.1-2
+  quote_or_summary: Before mounting the carriage he stood straight and held the cord;
+    inside, he did not turn fully around, talk hastily, or point with his hands.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 8126-8135; Chapter XVIII.1-2
+  quote_or_summary: The Master says there is a hen-pheasant on the hill bridge and
+    repeats “At its season”; Tsze-lu motions to it, it smells him three times, and
+    rises.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary with short excerpt from supplied passage.
+- id: ev:11
+  type: summary
+  locator: lines 8060-8067; note to Chapter XIV
+  quote_or_summary: The note says Chapter XIV is a repetition of III,xv and also says
+    to compare another chapter; it questions an explanation about first entrance on
+    office.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:12
+  type: summary
+  locator: lines 8108-8116; note to Chapter XVI
+  quote_or_summary: The note says Chapter XVI.2 repeats IX,ix with heightened circumstances
+    and explains the carriage crossbar as the front bar used in saluting when riding.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:13
+  type: summary
+  locator: lines 8136-8168; note to Chapter XVIII
+  quote_or_summary: The note calls Chapter XVIII a fragment with no connection to
+    the rest of the book and mentions variant readings, including Ho Yen's view of
+    the conclusion.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main conduct anecdotes are clear, but the passage includes OCR noise
+    and a translator note describing Chapter XVIII as fragmentary with variant interpretations.
+    Motif mapping is cautious because much of the material is etiquette rather than
+    myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text, metadata, and available taxonomy references were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l8038-l8168
+  passage_sha256=d20480a97386c1047ebb46dbaa4e6f1e294b54a04b912c4fce8c3588e329ab32
+

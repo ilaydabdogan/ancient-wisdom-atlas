@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l11124-l11220
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: ERS OF CONFUCIUS'S TIME. 1. / BEARING OF THE SUPERIOR AND THE / MEAN MAN
+    . / BOOK XIV. HSIEN WAN; lines 11124-11220
+  start: '11124'
+  end: '11220'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In Book XIV, Hsien asks what is shameful, and the Master answers that focusing
+    only on salary under both good and bad government is shameful. The Master also
+    distinguishes repression of vices from perfect virtue, rejects comfort-loving
+    as suitable for a scholar, and advises different degrees of boldness in speech
+    and action under good or bad government.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hsien asks what is shameful.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Master says it is shameful to think only of salary when good government
+    prevails and also when bad government prevails.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage lists love of superiority, boasting, resentments, and covetousness
+    as feelings to be repressed.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Master says repression of those feelings may be difficult, but he does
+    not know that it should be deemed perfect virtue.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Master says a scholar who cherishes comfort is not fit to be deemed a
+    scholar.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Master distinguishes conduct under good government from conduct under
+    bad government, allowing lofty and bold language and action in the former and
+    more reserved language in the latter.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hsien
+  description: The inquirer who asks the Master what is shameful.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Master
+  description: The speaker who answers Hsien and gives judgments on shame, virtue,
+    scholarship, and conduct under government.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the scholar
+  description: A generic scholar whose fitness is judged by whether he cherishes comfort.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: inquirer
+  assigned_to:
+  - fig:1
+  basis: Hsien asks the question that opens the passage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ethical teacher and evaluator
+  assigned_to:
+  - fig:2
+  basis: The Master answers questions and gives evaluative statements about shame,
+    virtue, scholarship, speech, and action.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: subject of scholarly fitness
+  assigned_to:
+  - fig:3
+  basis: The scholar is evaluated according to his relation to comfort.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: salary as object of excessive concern
+  literal_form: salary
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: comfort as object of improper attachment
+  literal_form: comfort
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Question on shame
+  summary: Hsien asks what is shameful, and the Master identifies exclusive concern
+    with salary under both good and bad government as shameful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Qualification of virtue
+  summary: The repression of superiority, boasting, resentments, and covetousness
+    is discussed, and the Master says this may be difficult without necessarily being
+    perfect virtue.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Scholar and comfort
+  summary: The Master states that a comfort-loving scholar is not fit to be called
+    a scholar.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Speech and action under government
+  summary: The Master contrasts proper boldness in language and action under good
+    government with reserved language under bad government.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom instruction on ethical conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The passage consists of sayings by the Master defining shame, qualifying
+    virtue, judging scholarly fitness, and prescribing conduct under different political
+    conditions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is ethical and didactic rather
+    than narrative myth.
+- id: motif:2
+  label: moral self-cultivation through restraint of faults
+  taxonomy_refs:
+  - wisdom
+  basis: The passage names superiority, boasting, resentments, and covetousness as
+    feelings to be repressed and then qualifies the moral status of that repression.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not present a full initiation or transformation narrative;
+    it gives a brief ethical evaluation.
+- id: motif:3
+  label: proper conduct under good and bad government
+  taxonomy_refs: []
+  basis: The passage contrasts the conduct appropriate when government is good with
+    the conduct appropriate when government is bad, especially regarding salary, language,
+    and action.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: No supplied motif-family taxonomy directly names this political-ethical
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: Book XIV, Chapter I; lines 11124-11220
+  quote_or_summary: Hsien asks what is shameful; the Master answers that thinking
+    only of salary under either good or bad government is shameful.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; summarized with short wording.
+- id: ev:2
+  type: quote
+  locator: Book XIV, Chapter II.1; lines 11124-11220
+  quote_or_summary: "“When the love of superiority, boasting, resentments, and covetousness
+    are repressed...”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: quote
+  locator: Book XIV, Chapter II.2; lines 11124-11220
+  quote_or_summary: The Master says this may be the achievement of what is difficult,
+    but he does not know that it is perfect virtue.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: Book XIV, Chapter III; lines 11124-11220
+  quote_or_summary: "“The scholar who cherishes the love of comfort is not fit to
+    be deemed a scholar.”"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:5
+  type: summary
+  locator: Book XIV, Chapter IV; lines 11124-11220
+  quote_or_summary: The Master says that under good government language and actions
+    may be lofty and bold, while under bad government actions may remain lofty and
+    bold but language should be reserved.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal ethical teachings are explicit. Motif classification is limited
+    because the passage is aphoristic and moral-political rather than mythic; no comparison
+    claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs are directly present in the passage. Salary and comfort are recorded only as literal objects of concern, not as established symbolic taxonomy items.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l11124-l11220
+  passage_sha256=6e8542c8478c52295a1ab346bc7c6f114f00af282b7bc8a4cb1bfd19aecea378
+

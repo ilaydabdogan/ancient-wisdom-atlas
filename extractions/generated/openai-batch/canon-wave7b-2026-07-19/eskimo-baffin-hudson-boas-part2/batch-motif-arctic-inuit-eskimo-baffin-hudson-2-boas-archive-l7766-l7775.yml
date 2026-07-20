@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-baffin-hudson-2-boas-archive-l7766-l7775
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+passage_locator:
+  label: V. TRADITIONS. / TALES FROM CUMBERLAND SOUND. / III 45, / TALES FROM THE
+    WEST COAST OF HUDSON BAY.; lines 7766-7775
+  start: '7766'
+  end: '7775'
+  translation: The Eskimo of Baffin Land and Hudson Bay, Part II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“the bear was really the soul of the man’s father or grandfather come back
+    to assist him.”"
+  summary: A man asks his wife for water and is refused. He calls a bear, which breaks
+    the side of the house, fills the drinking-cup, and gives it to him. The frightened
+    wife thereafter runs to meet him with water whenever he comes home. The man is
+    later always successful in hunting. The narrator explains the bear as the returned
+    soul of the man’s father or grandfather assisting him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The man went home and asked his wife for a drink of water, but she refused.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the refusal, the man called the bear in a low voice, and the bear came
+    at once.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The bear knocked out the side of the house, took the drinking-cup, filled
+    it, and gave it to the man.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman was frightened and thereafter ran to meet her husband with water
+    whenever he was seen coming home.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After these events, the man was always successful in hunting.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator thought the bear was the soul of the man’s father or grandfather
+    returned to assist him.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A husband who asks for water, calls the bear, receives the cup, and
+    is later successful in hunting.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the wife / woman
+  description: The man’s wife, who first refuses water and later, frightened by the
+    bear, brings water whenever he comes home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: the bear
+  description: A bear called by the man; it comes immediately, breaks the house side,
+    fills the cup, gives water to the man, and is described by the narrator as the
+    soul of the man’s father or grandfather.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: husband and hunter
+  assigned_to:
+  - fig:1
+  basis: The passage calls the woman his wife and says he later was always successful
+    in hunting.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: refusing wife who becomes water-bringer
+  assigned_to:
+  - fig:2
+  basis: She refuses water at first, then runs to meet him with water after being
+    frightened.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: animal helper and water-bringer
+  assigned_to:
+  - fig:3
+  basis: The bear answers the man’s call, fills the drinking-cup, and gives it to
+    him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: assisted descendant
+  assigned_to:
+  - fig:1
+  basis: The narrator says the bear was the soul of the man’s father or grandfather
+    come back to assist him.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: returned ancestral soul
+  assigned_to:
+  - fig:3
+  basis: The narrator identifies the bear as the soul of the man’s father or grandfather.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water requested and supplied
+  literal_form: drink of water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: drinking-cup
+  literal_form: drinking-cup
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bear as assisting presence
+  literal_form: bear
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: broken side of the house
+  literal_form: side of the house knocked out
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Refusal and summoning
+  summary: The man returns home, asks his wife for water, is refused, and calls the
+    bear in a low voice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bear obtains the water
+  summary: The bear arrives immediately, breaks the side of the house, fills the drinking-cup,
+    and gives it to the man.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wife’s changed behavior
+  summary: The woman is so frightened that afterward she runs to meet her husband
+    with water whenever he comes home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hunting success and narrator’s explanation
+  summary: Afterward the man is always successful in hunting, and the narrator explains
+    the bear as the soul of the man’s father or grandfather returned to help him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal helper supplies refused water
+  taxonomy_refs: []
+  basis: When the wife refuses the man water, the bear responds to his call and obtains
+    the drink for him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This label describes the passage-level pattern only; no external taxonomy
+    ID is supplied for an animal-helper motif.
+- id: motif:2
+  label: returned ancestor assists a descendant
+  taxonomy_refs:
+  - return
+  basis: The narrator says the bear was the soul of the man’s father or grandfather
+    come back to assist him.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage reports the narrator’s explanation but does not describe the
+    ancestor’s death, transformation, or process of return.
+- id: motif:3
+  label: supernatural aid followed by hunting success
+  taxonomy_refs: []
+  basis: After the bear’s intervention and the narrator’s explanation of assistance,
+    the man is said to be always successful in hunting.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The causal link between the bear’s aid and hunting success is implied
+    by sequence and explanation, not fully elaborated in the passage.
+- id: motif:4
+  label: fear enforces provision of a withheld necessity
+  taxonomy_refs: []
+  basis: The wife’s refusal is followed by the bear’s frightening intervention, after
+    which she reliably brings water to the man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a local narrative pattern rather than a named comparative motif
+    in the supplied taxonomy.
+comparison_claims:
+- id: claim:1
+  claim: The bear functions like a returned ancestral helper, because the narrator
+    identifies it as the soul of the man’s father or grandfather come back to assist
+    him.
+  claim_level: same_function
+  target: 'returning ancestor helper pattern; available motif family: return'
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison only. The passage does not provide
+    broader comparative evidence, ritual context, or details of how the ancestor became
+    the bear.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7766-7768
+  quote_or_summary: The man asks his wife for water; after she refuses, he calls the
+    bear in a low voice and it comes at once.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7768-7770
+  quote_or_summary: The bear knocks out the side of the house, takes the drinking-cup,
+    fills it, and gives it to the man.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7770-7773
+  quote_or_summary: The woman is frightened and thereafter runs to meet her husband
+    with water whenever he is seen coming home.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: quote
+  locator: lines 7773-7774
+  quote_or_summary: "“After this the man was always successful in hunting.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: lines 7774-7775
+  quote_or_summary: "“the bear was really the soul of the man’s father or grandfather
+    come back to assist him.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and explicit about actions and the narrator’s interpretation.
+    Motif taxonomy mapping is limited because the supplied taxonomy has no exact ancestor-helper
+    or animal-helper category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Kept the narrator’s explanation as passage-internal evidence rather than an external interpretation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:arctic-inuit-eskimo-baffin-hudson-2-boas-archive__l7766-l7775
+  passage_sha256=72446bac27da5e56a027d0f2586f0dd38d05e6d91b437d127554954754cc9993
+

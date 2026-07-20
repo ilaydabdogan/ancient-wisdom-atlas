@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.greek-pausanias-description-of-greece-frazer-archive-v1-l643-l677
+source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+passage_locator:
+  label: Pausanias's Description of Greece, Volume I, Translated with a Commentary
+    by J. G. Frazer / A FEW SYNONYMS; lines 643-677
+  start: '643'
+  end: '677'
+  translation: Pausanias's Description of Greece, Volume I, Translated with a Commentary
+    by J. G. Frazer
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A glossary-style passage explains several Greek terms, mostly with religious
+    associations, including words for hero-shrine, sanctuary, temple, cult image,
+    statue, portrait, grave, tomb, memorial, and monument.
+  language: English with Greek terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces a short discussion of synonyms, described as mostly
+    having religious associations.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One term is glossed as a hero-shrine or chapel, specifically the temple of
+    a hero or demi-god.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A sanctuary is defined as holy ground belonging to a god or sometimes a hero,
+    generally containing a temple.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A temple is defined as the actual building, and the passage notes that the
+    word is sometimes used for a hero-shrine.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A wooden image of a god is distinguished from other statues, and wooden statues
+    are said to be older than those made of metal or stone.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An image or statue generally of a god is distinguished from a statue of a
+    man, which is said to have no religious associations.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A portrait or likeness is listed among terms for represented form, with an
+    incomplete reference to a statue of Aphrodite or a truncated Aphro- name in the
+    transmitted passage.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A grave or burying-place is distinguished from a tomb, memorial, or monument,
+    with the latter term said to suggest more than a grave.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: god
+  description: Generic divine recipient or subject associated with sanctuaries and
+    divine images.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: hero or demi-god
+  description: Generic heroic or semi-divine figure associated with a hero-shrine
+    and sometimes with a sanctuary.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: man
+  description: Generic human subject of a statue distinguished from divine images
+    or statues.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Aphro- reference
+  description: Incomplete transmitted reference to a statue of Aphro-, likely a truncated
+    name in the supplied passage text.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: divine recipient or represented deity
+  assigned_to:
+  - fig:1
+  basis: The passage defines sanctuary as holy ground belonging to a god and describes
+    images or statues generally of a god.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: heroic recipient of shrine or sanctuary
+  assigned_to:
+  - fig:2
+  basis: The hero or demi-god is the figure for whom the hero-shrine is a temple,
+    and a sanctuary may also belong to a hero.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: human subject of non-religious statue
+  assigned_to:
+  - fig:3
+  basis: The statue of a man is described as having no religious associations.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: named or truncated divine statue subject
+  assigned_to:
+  - fig:4
+  basis: The passage contains an incomplete reference to a statue of Aphro-.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: hero-shrine or chapel
+  literal_form: Temple of a hero or demi-god
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sanctuary
+  literal_form: Holy ground belonging to a god or sometimes a hero, generally containing
+    a temple
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: temple
+  literal_form: Actual building, sometimes used of a hero-shrine
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: wooden image of a god
+  literal_form: Wooden divine image; wooden statues contrasted with metal or stone
+    statues
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: grave and tomb
+  literal_form: Grave or burying-place; tomb, memorial, or monument
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 643-648
+  quote_or_summary: '"There are a few synonyms, mostly with religious associa- tions"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 650-651
+  quote_or_summary: '"hero-shrine or ‘chapel,’ the temple of a hero or demi-god"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 652-654
+  quote_or_summary: '"sanctuary, the holy ground ... to a god or (sometimes) a hero
+    ... generally containing a temple"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 655-657
+  quote_or_summary: '"temple, the actual building. It is sometimes used of a hero-shrine."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 662-664
+  quote_or_summary: '"wooden image of a god. Statues of wood are older than those
+    of metal or stone."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 665-670
+  quote_or_summary: The passage defines a divine image or statue, then distinguishes
+    a statue of a man as having no religious associations.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 671-673
+  quote_or_summary: The passage lists a portrait or likeness and includes an incomplete
+    reference to a statue of Aphro-.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 674-677
+  quote_or_summary: The passage defines a grave or burying-place and distinguishes
+    tomb, memorial, or monument as suggesting more than a grave.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a glossary rather than a mythic narrative, so symbolic vocabulary
+    can be extracted but no narrative motifs or comparison claims are identified.
+    Some OCR or line-break corruption affects exact Greek terms and the Aphro- reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs apply directly; no motif family refs assigned.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:greek-pausanias-description-of-greece-frazer-archive-v1__l643-l677
+  passage_sha256=6632bd8e4a15d3c355c25f6d2e24deafa4df8d743546037fb87cc9e549a54b67
+

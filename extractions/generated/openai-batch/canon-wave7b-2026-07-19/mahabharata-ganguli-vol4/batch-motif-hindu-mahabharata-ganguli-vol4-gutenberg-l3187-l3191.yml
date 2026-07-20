@@ -1,0 +1,209 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l3187-l3191
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION XIV / SECTION XV / SECTION XVI / SECTION XVII; lines 3187-3191
+  start: '3187'
+  end: '3191'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"with hands joined together in reverence uttered this abstract of names"'
+  summary: Vasudeva tells Yudhishthira that the regenerate Rishi Upamanyu concentrated
+    his mind, joined his hands reverently, and uttered an abstract of names applying
+    to Mahadeva.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Vasudeva speaks and addresses Yudhishthira.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Upamanyu is described as a regenerate Rishi.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Upamanyu concentrates his mind.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Upamanyu joins his hands together in reverence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Upamanyu utters an abstract of names applying to Mahadeva.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The utterance is said to commence from the beginning.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Vasudeva
+  description: Speaker who reports Upamanyu's action to Yudhishthira.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yudhishthira
+  description: Person addressed by Vasudeva.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Rishi Upamanyu
+  description: Regenerate Rishi who concentrates his mind, joins his hands in reverence,
+    and utters names.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Mahadeva
+  description: Figure to whom the uttered names apply.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: reporting speaker
+  assigned_to:
+  - fig:1
+  basis: The passage begins with Vasudeva speaking.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed listener
+  assigned_to:
+  - fig:2
+  basis: Vasudeva addresses Yudhishthira directly.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: reverent reciter
+  assigned_to:
+  - fig:3
+  basis: Upamanyu concentrates his mind, joins his hands, and utters the names.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: referent of divine names
+  assigned_to:
+  - fig:4
+  basis: The abstract of names is said to apply to Mahadeva.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: joined hands in reverence
+  literal_form: hands joined together in reverence
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: abstract of names
+  literal_form: abstract of names applying to Mahadeva
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Vasudeva recounts Upamanyu's reverent utterance
+  summary: Vasudeva tells Yudhishthira that Upamanyu prepared himself with mental
+    concentration and a reverent hand gesture before uttering names applying to Mahadeva.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: reverent recitation of divine names
+  taxonomy_refs: []
+  basis: The passage centers on a rishi concentrating his mind, joining his hands
+    reverently, and uttering names applying to Mahadeva.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is very brief and introduces a recitation rather than narrating
+    a full mythic episode.
+- id: motif:2
+  label: mental concentration before sacred speech
+  taxonomy_refs: []
+  basis: Upamanyu's concentration of mind immediately precedes his reverent utterance
+    of the names.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The text does not elaborate on ritual context or consequences in this
+    excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: SECTION XVII; lines 3187-3189
+  quote_or_summary: Vasudeva speaks and addresses Yudhishthira.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: SECTION XVII; lines 3189-3190
+  quote_or_summary: '"Concentrating his mind... the regenerate Rishi Upamanyu, with
+    hands joined together in reverence"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: SECTION XVII; lines 3190-3191
+  quote_or_summary: '"uttered this abstract of names (applying to Mahadeva), commencing
+    from the beginning"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage clearly identifies speakers, addressee, reciter, gesture, and
+    utterance. Motif labels are limited to the immediate action in the excerpt; no
+    cross-tradition comparison is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the excerpt only supports a narrow local pattern of reverent recitation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l3187-l3191
+  passage_sha256=9a1c3cbfb5dc7690ef5a02358cd0975493a70198d8fb2461e7e7b10301807042
+

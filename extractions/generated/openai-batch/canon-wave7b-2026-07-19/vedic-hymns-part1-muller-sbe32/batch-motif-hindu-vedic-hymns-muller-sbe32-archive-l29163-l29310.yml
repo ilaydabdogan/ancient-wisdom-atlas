@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l29163-l29310
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: HYMNS, / X, 186, 3. / INDEX OF WORDS. / VEDIC HYMNS.; lines 29163-29310
+  start: '29163'
+  end: '29310'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A lexical index segment for Vedic hymns lists Sanskrit or transliterated
+    terms, English glosses, and hymn references. Entries in this range include terms
+    for Aditi's face/dawn, the Maruts, interior/womb, sky or air, Soma juice, water,
+    waters at sacrifices, Vata as friend of the waters, work, deed, and workman.
+  language: English with transliterated Sanskrit
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section that lists terms, glosses, and references
+    rather than a continuous narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entry for anika includes Aditi's face, glossed with dawn, and the train
+    or faces of the Maruts.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The entry for antar includes uses meaning from within or within, including
+    within the womb.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The entry for antariksha glosses the term as sky or air and gives examples
+    involving the air, the sky, and paths in the sky.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The entry for andhas glosses the term as Soma juice and refers to drinking
+    the juice of Soma flowers.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The entry for ap glosses the term as water and lists uses including great
+    waters, crossing the waters, waters at sacrifices, the bottom of waters, Vata
+    as friend of the waters, and waters between heaven and earth identified with the
+    sky.
+  category: object
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: obs:7
+  text: Later entries in the range gloss Apas as work or deed and apas as workman.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Aditi
+  description: Named in the index entry where her face is associated with dawn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Maruts
+  description: Named as a group in index expressions concerning their train and faces.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Vata
+  description: Named in the water entry as the friend of the waters.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: dawn-linked named figure
+  assigned_to:
+  - fig:1
+  basis: The entry glosses Aditi's face with reference to dawn.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: named collective in indexed Marut expressions
+  assigned_to:
+  - fig:2
+  basis: The entry mentions the train and faces of the Maruts.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: friend of the waters
+  assigned_to:
+  - fig:3
+  basis: The water entry identifies Vata as friend of the waters.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: waters
+  literal_form: ap/apah; water, great waters, waters at sacrifices, waters between
+    heaven and earth, crossing the waters, friend of the waters
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: sky or air
+  literal_form: antariksha; sky, air, air in the sky, paths in the sky, through the
+    air
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Soma juice
+  literal_form: andhas; Soma juice and juice of Soma flowers for drinking
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Aditi's face as dawn
+  literal_form: face of Aditi, glossed with dawn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: womb interior
+  literal_form: within the womb
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: waters as cosmic and ritual medium
+  taxonomy_refs: []
+  basis: The water entry groups water with great waters, crossing waters, waters at
+    sacrifices, waters between heaven and earth as the sky, and Vata as friend of
+    the waters.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage is a lexical index, not a mythic narrative; the motif is inferred
+    only from clustered indexed expressions.
+- id: motif:2
+  label: sacrificial liquids and drinking
+  taxonomy_refs:
+  - sacrifice
+  basis: The index refers to Soma juice for drinking and to waters at sacrifices.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage does not describe a full sacrificial scene; it only indexes
+    terms and glosses.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29163-29310
+  quote_or_summary: Index segment titled Vedic Hymns, listing terms, glosses, and
+    hymn references.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 29163-29310; entry 'anika'
+  quote_or_summary: The anika entry glosses Aditi's face with dawn and mentions the
+    train and faces of the Maruts.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 29163-29310; entry 'antar'
+  quote_or_summary: The antar entry gives uses meaning from within or within, including
+    within the womb.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 29163-29310; entries 'antariksha' and 'antarikshya'
+  quote_or_summary: The antariksha entry glosses sky or air and gives examples such
+    as through the air, air in the sky, and paths in the sky.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 29163-29310; entry 'andhas'
+  quote_or_summary: The andhas entry glosses the word as Soma juice and mentions drinking
+    the juice of Soma flowers.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 29163-29310; entry 'ap, water'
+  quote_or_summary: The ap entry glosses water and lists examples including great
+    waters and crossing the waters.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 29163-29310; entry 'ap, water' continuation
+  quote_or_summary: The water entry includes waters at sacrifices, the bottom of waters,
+    and Vata as the friend of the waters.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 29163-29310; entry 'ap, water' continuation
+  quote_or_summary: The water entry glosses waters between heaven and earth as the
+    sky and notes further grammatical or lexical forms.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 29163-29310; entries 'Apas' and 'apas'
+  quote_or_summary: Entries gloss Apas as work or deed and apas as workman.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The lexical meanings are relatively clear, but OCR/transliteration artifacts
+    and the index format limit motif interpretation. No comparison claims were made
+    because the passage itself does not establish cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes were extracted because the passage is an index segment rather than a continuous mythic episode.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l29163-l29310
+  passage_sha256=467beffba299e7ecbe244b7d2f0e273276ddafc7eeeb1a80af173a22357d9969
+

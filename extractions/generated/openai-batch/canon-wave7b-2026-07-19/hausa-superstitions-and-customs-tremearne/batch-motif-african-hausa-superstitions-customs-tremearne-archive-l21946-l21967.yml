@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l21946-l21967
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: NOTES   ON   THE   TALES  497 / LXVI. / LXVII. / I  XIX; lines 21946-21967
+  start: '21946'
+  end: '21967'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An OCR-corrupt note includes an uncertain proposed correction to a song
+    translation. The clearer portion explains Hausa expressions concerning a childless
+    woman, a woman whose children leave because she ill-treated them, and the beginning
+    of a statement about mockery by neighbours' children.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note headed "Childless" says that a woman without children is described
+    as dying "in the open."
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The expression "to sleep in the ashes" is said to apply to a woman who had
+    children but ill-treated them so that they left her when old enough.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The supplied excerpt begins a statement that neighbours' children mock, but
+    the sentence is incomplete in the provided passage.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: childless woman
+  description: A woman described in the note as having no children and therefore being
+    said to die "in the open."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: woman whose children leave her
+  description: A woman who has had children and ill-treats them so that they leave
+    her when old enough.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: children who leave
+  description: The child or children who leave the woman after being ill-treated.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: neighbours' children
+  description: Children of neighbours mentioned as beginning to mock in the incomplete
+    final line.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: childless woman
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly frames the note as concerning a woman with no children.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mother alienated by ill-treatment of children
+  assigned_to:
+  - fig:2
+  basis: The expression applies to a woman whose ill-treatment causes her child or
+    children to leave.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: departing children
+  assigned_to:
+  - fig:3
+  basis: The children leave when old enough because of the woman's treatment of them.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mocking neighbour children
+  assigned_to:
+  - fig:4
+  basis: The final supplied words mention neighbours' children mocking, though the
+    sentence is cut off.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: the open
+  literal_form: open place in the expression "die in the open"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ashes
+  literal_form: ashes in the expression "to sleep in the ashes"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: childlessness and death in the open
+  summary: The note records a saying that a woman with no children dies "in the open."
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: ill-treated children leave their mother
+  summary: A woman who had children ill-treats them; when they are old enough, they
+    leave her, and this condition is described by the expression "to sleep in the
+    ashes."
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: mockery by neighbours' children
+  summary: The excerpt begins to say that neighbours' children mock, but the supplied
+    text stops before completing the statement.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: childlessness marked by exposed death
+  taxonomy_refs: []
+  basis: The note associates a woman without children with the phrase "die in the
+    open."
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic explanation of an expression rather than a full
+    narrative motif; the OCR condition requires review.
+- id: motif:2
+  label: mistreating children leads to abandonment
+  taxonomy_refs: []
+  basis: The passage states that a woman who ill-treats her children causes them to
+    leave her when old enough.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a social saying, not a complete tale episode.
+- id: motif:3
+  label: ashes as image of desolation or social reduction
+  taxonomy_refs: []
+  basis: The expression "to sleep in the ashes" is applied to the woman abandoned
+    by the children she mistreated.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not explain the symbolic value of ashes; this label is
+    a cautious candidate only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21958-21960
+  quote_or_summary: Under the heading "Childless," the note states that a woman without
+    children is said to die "in the open."
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain; short phrase quoted from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 21961-21965
+  quote_or_summary: The note explains that "to sleep in the ashes" applies to a woman
+    who had a child or children but ill-treated them enough that they left her when
+    old enough.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain; summarized with short phrase from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 21966-21967
+  quote_or_summary: The passage begins the sentence "The neighbours' children mock"
+    but the supplied excerpt ends before the thought is completed.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The usable portion is brief and partly OCR-corrupt; motif candidates are
+    based on recorded expressions rather than a full narrative. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Opening OCR-corrupt material about an uncertain song translation was not used for motif extraction beyond the canonical summary.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l21946-l21967
+  passage_sha256=c5c82dfc8183095b22ee6cd7765d4463397a3c6a196a16bdfbb71f0f6d664f52
+

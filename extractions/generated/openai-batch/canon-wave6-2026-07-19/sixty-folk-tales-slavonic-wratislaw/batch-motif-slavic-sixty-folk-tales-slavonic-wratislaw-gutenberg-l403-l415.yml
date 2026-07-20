@@ -1,0 +1,211 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l403-l415
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: SERBIAN STORIES FROM BOSNIA                                      239 / SERBIAN
+    STORIES FROM CARNIOLA                                    252 / CROATIAN STORIES                                                 265
+    / ILLYRIAN-SLOVENISH STORIES                                       297; lines
+    403-415
+  start: '403'
+  end: '415'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A table-of-contents section for Illyrian-Slovenish stories lists four
+    tale entries: a Vila and the Months as friends, the Fisherman''s Son, the White
+    Snake, and the Vila, with periodical source notes and page numbers.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a table-of-contents listing under the heading "Illyrian-Slovenish
+    Stories."
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Entry LVII is titled "A Vila as a Friend and the Months as Friends" and includes
+    a Slovenish title in parentheses.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Entry LVIII is titled "The Fisherman's Son" and includes a Slovenish title
+    in parentheses.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Entry LIX is titled "The White Snake" and includes a Slovenish title in parentheses.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Entry LX is titled "The Vila" and includes a Slovenish title in parentheses.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Vila
+  description: Named in two tale titles, once as a friend and once as the title figure.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Months
+  description: Named in the title "A Vila as a Friend and the Months as Friends."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Fisherman's Son
+  description: Named as the title figure of entry LVIII.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: White Snake
+  description: Named as the title figure of entry LIX.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: friend
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The entry title explicitly describes a Vila as a friend and the Months as
+    friends.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: title figure
+  assigned_to:
+  - fig:3
+  basis: The figure is named in the tale title.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: title creature
+  assigned_to:
+  - fig:4
+  basis: The creature is named in the tale title.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: title figure
+  assigned_to:
+  - fig:1
+  basis: The Vila is named as the tale title in entry LX.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: white snake
+  literal_form: White Snake
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Illyrian-Slovenish table-of-contents entries
+  summary: The passage lists four Illyrian-Slovenish story titles with source and
+    page information; no narrative scene is provided.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: serpent or snake title figure
+  taxonomy_refs:
+  - serpent
+  basis: One tale entry is titled "The White Snake."
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage is only a title listing and gives no narrative action or symbolic
+    function for the snake.
+- id: motif:2
+  label: supernatural or nonhuman friends
+  taxonomy_refs: []
+  basis: The title "A Vila as a Friend and the Months as Friends" presents a Vila
+    and the Months in the role of friends.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage provides only the title, not the narrative relationship or
+    function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 403-404
+  quote_or_summary: 'Heading: Illyrian-Slovenish Stories, beginning on page 297.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 405-408
+  quote_or_summary: '"LVII. A Vila as a Friend and the Months as Friends"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 410-411
+  quote_or_summary: '"LVIII. The Fisherman''s Son"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 413-414
+  quote_or_summary: '"LIX. The White Snake"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: line 415
+  quote_or_summary: '"LX. The Vila"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a table of contents rather than a narrative passage. Figures
+    and motif candidates are inferred only from titles and should be reviewed against
+    the full tales.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage itself does not supply narrative parallels or comparative framing.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l403-l415
+  passage_sha256=907f40a175597683da4f2a45c560113065ec971ee53c293e43c6306f66beadd0
+

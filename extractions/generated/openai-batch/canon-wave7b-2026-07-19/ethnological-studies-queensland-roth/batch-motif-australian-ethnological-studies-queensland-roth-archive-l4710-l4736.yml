@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.australian-ethnological-studies-queensland-roth-archive-l4710-l4736
+source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+passage_locator:
+  label: 'TABULAR COMPARISON HETWEEN VARIOUS SELECTED WORDS / TTSED IN THE DISTRICTS
+    OF NORTH-WEST-CENTRAL QUEENSLAND. / CHAPTER III. / SOCIAL AND INDIVIDUAL NOMENCLATIVE
+    : CLASS SYSTEMS, ETC.; lines 4710-4736'
+  start: '4710'
+  end: '4736'
+  translation: Ethnological Studies among the North-West-Central Queensland Aborigines
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“An Ootaroo can only marry a Pakoota, or vice versd ... the offspring follows
+    the mother always.”"
+  summary: 'The passage describes social and individual nomenclature in North-West-Central
+    Queensland: Ootaroo and Pakoota are reciprocal exogamous groups with offspring
+    following the mother, and four further class terms distinguish blood-mother and
+    offspring relations. It also states that these four divisions are widespread across
+    the Boulia District and in other named Queensland regions.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage notes that Pitta-Pitta appellatives discussed in the chapter are
+    not limited to the Boulia tribe, but also apply to neighbouring groups in the
+    Boulia District.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Ootaroo can only marry a Pakoota, and a Pakoota can only marry an Ootaroo.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'Offspring follow the mother’s group: a child of an Ootaroo mother is Ootaroo,
+    and a child of a Pakoota mother is Pakoota, regardless of sex.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The term “gamomatronym” is applied to express the double signification of
+    marriageability and blood-mother-ship.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Every Ootaroo is described as either Koopooroo or Woongko, and every Pakoota
+    as either Koorkilla or Bunburi.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The etymological meanings of the four terms Koopooroo, Woongko, Koorkilla,
+    and Bunburi are stated to be unobtainable.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: If the blood-mother is Koopooroo, her offspring is Woongko, and if the blood-mother
+    is Woongko, her offspring is Koopooroo.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: If the blood-mother is Koorkilla, her child is Bunburi, and if the blood-mother
+    is Bunburi, her child is Koorkilla.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The four class terms apply to boys, girls, adult men, and adult women according
+    to class membership.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The four named divisions are described as universal among dozens of tribes
+    in the Boulia District and as occurring in other named Queensland areas and peoples.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ootaroo
+  description: One of two reciprocal exogamous groups; the child of an Ootaroo mother
+    becomes Ootaroo.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Pakoota
+  description: One of two reciprocal exogamous groups; the child of a Pakoota mother
+    becomes Pakoota.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Koopooroo
+  description: One of the four named classes; paired with Woongko in a mother-offspring
+    alternation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Woongko
+  description: One of the four named classes; paired with Koopooroo in a mother-offspring
+    alternation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Koorkilla
+  description: One of the four named classes; paired with Bunburi in a mother-offspring
+    alternation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Bunburi
+  description: One of the four named classes; paired with Koorkilla in a mother-offspring
+    alternation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Blood-mother
+  description: The mother whose group or class determines the child’s group or paired
+    class term.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:8
+  name_or_label: Offspring or child
+  description: The child whose group follows the mother and whose paedo-matro-nym
+    class is determined by the mother’s paired class.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: reciprocal exogamous marriage group
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that Ootaroo can only marry Pakoota and vice versa.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: matrilineal group determinant
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:7
+  basis: The offspring follows the mother’s Ootaroo or Pakoota group.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: paired paedo-matro-nym class
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The four terms are presented as class terms that distinguish blood-mother
+    and offspring relations in reciprocal pairs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: mother-offspring class relation
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage describes the mother’s class and the corresponding child’s class
+    in paired alternations.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Exogamous marriage and maternal descent rule
+  summary: Ootaroo and Pakoota are described as reciprocal marriage groups, and children
+    inherit the mother’s group irrespective of sex.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Four-part mother-offspring class alternation
+  summary: 'The passage gives four class terms and describes two reciprocal mother-child
+    pairings: Koopooroo with Woongko, and Koorkilla with Bunburi.'
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Regional distribution of class terms
+  summary: The four named divisions are said to be shared across tribes of the Boulia
+    District and also found in other North-West-Central Queensland regions and peoples.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: paired reciprocal exogamous groups
+  taxonomy_refs:
+  - duality
+  basis: The passage presents Ootaroo and Pakoota as two groups that can marry only
+    each other, forming a reciprocal pair.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic social-classification passage, not a mythic narrative;
+    the taxonomy link is to a structural dual pattern only.
+- id: motif:2
+  label: reciprocal mother-child class alternation
+  taxonomy_refs: []
+  basis: The four class terms are organized into two reciprocal mother-offspring pairs,
+    with the child assigned to the counterpart class of the mother within each pair.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a nomenclative and descent rule, not a symbolic or narrative
+    myth episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the same four class divisions and names are used
+    across dozens of tribes in the Boulia District.
+  claim_level: linguistic_similarity
+  target: Dozens of tribes occupying the Boulia District
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the author’s statement in this passage; no
+    independent comparative data are supplied here.
+- id: claim:2
+  claim: The passage states that exactly the same four class terms are applied at
+    Boxburgh on the Georgina River, among the Miorli and Goa people of the Middle
+    and Upper Diamantina River, and among Aboriginal people of the Cloncurry and Flinders
+    Districts.
+  claim_level: linguistic_similarity
+  target: Boxburgh/Georgina River, Miorli and Goa, Cloncurry and Flinders Districts
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports identical terms but does not provide detailed functional
+    comparison for each named group within this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4710-4716
+  quote_or_summary: The chapter note says Pitta-Pitta appellatives are not confined
+    to the Boulia tribe but also refer to neighbouring groups in the Boulia District.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: quote
+  locator: 4717-4721
+  quote_or_summary: "“An Ootaroo can only marry a Pakoota, or vice versd ... the offspring
+    follows the mother always.”"
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 4721-4722
+  quote_or_summary: The term “gamomatronym” is applied to express both marriageability
+    and blood-mother-ship.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: 4724-4727
+  quote_or_summary: The paedo-matro-nym is defined as the name distinguishing the
+    blood-mother from her offspring; Ootaroo includes Koopooroo or Woongko, and Pakoota
+    includes Koorkilla or Bunburi, with etymologies not obtainable.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: 4727-4732
+  quote_or_summary: Koopooroo mothers have Woongko offspring and vice versa; Koorkilla
+    mothers have Bunburi offspring and vice versa; the child’s sex is immaterial and
+    the same terms apply across age and sex.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: 4732-4736
+  quote_or_summary: The four divisions are described as universal throughout the Boulia
+    District among dozens of tribes and as also used at Boxburgh, among Miorli and
+    Goa people, and in the Cloncurry and Flinders Districts.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is an ethnographic description of social nomenclature rather than
+    a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage contains no listed concrete symbols such as cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-ethnological-studies-queensland-roth-archive__l4710-l4736
+  passage_sha256=add29a35a5046f0a329bfb04e0ba87e2b648bd54132c37a53ff550db44440bc8
+

@@ -1,0 +1,168 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l1153-l1164
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: PT. I / THE KAFUE RIVER AT MWENGWA. / THE TLA-SPEAKING PEOPLES / BRIDGE OVER
+    THE KAFUE RIVER.; lines 1153-1164
+  start: '1153'
+  end: '1164'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes forests and bush near the Kafue River plains, noting
+    useful trees and fruits. It says the Ba-ila clear land by destroying and burning
+    timber for potash fertilizer, cultivate crops for a year or two, and then move
+    on to repeat the process elsewhere.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as concerning a bridge over the Kafue River.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Forests and jungle bush are situated along the edge of plains on either bank.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The forests contain useful trees and varieties of indigenous fruit and berries.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Ba-ila make their lands in these forests.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In making clearings, the Ba-ila destroy and burn timber for the potash fertilizer
+    it contains.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After two years, the Ba-ila move on and repeat the clearing process elsewhere.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The sandy soil yields fair crops of maize, millet, and other crops for a year
+    or two.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ba-ila
+  description: The people described as making lands in the forests, clearing and burning
+    timber, cultivating crops, and moving on after two years.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: land-clearers and cultivators
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Ba-ila make lands, clear and burn timber, cultivate
+    crops, and then move on to repeat the process.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Kafue River
+  literal_form: river
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: burning timber
+  literal_form: fire used in clearing timber for potash fertilizer
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Forest clearing and cultivation near the Kafue plains
+  summary: Near the plains and river banks, the Ba-ila clear forest land by destroying
+    and burning timber for potash fertilizer, raise crops for a short period, and
+    then move elsewhere to repeat the process.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 1153-1155
+  quote_or_summary: Heading identifies the passage as concerning a bridge over the
+    Kafue River.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1155-1157
+  quote_or_summary: Forests and jungle bush border and jut into plains on either bank.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1157-1159
+  quote_or_summary: The forests include useful trees and many kinds of indigenous
+    fruit and berries.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1159-1162
+  quote_or_summary: The Ba-ila make lands in the forests by clearing, destroying,
+    and burning timber for potash fertilizer.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1162-1164
+  quote_or_summary: After about two years the Ba-ila move on and repeat the process;
+    the sandy soil gives fair crops of maize, millet, and other crops for a year or
+    two.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is descriptive ethnography of landscape and cultivation rather
+    than a mythic narrative. No motif candidates or comparison claims were extracted
+    beyond literal symbol references to water and fire.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological motif is explicitly supported by the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l1153-l1164
+  passage_sha256=b47d3c5bdf285c57de6c8024fe5a128d6d9e9ab0e9eefa16ea136223f1190567
+

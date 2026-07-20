@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l4458-l4487
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: XVII. / THE  TURTLE  AND  THE   MAN. / KILLING  A  LEOPARD.  81 / THE  GAZELLE  AND  THE  LEOPARD.;
+    lines 4458-4487
+  start: '4458'
+  end: '4487'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The gazelle proposes clearing bush in the dry season so women can plant
+    when rains come. The leopard delays at first while the gazelle works alone, but
+    afterward the gazelle repeatedly avoids work by claiming sickness or absence,
+    leaving the leopard with nearly all the hard labor. After planting and ripening
+    of the harvest, the gazelle visits the plantation, is pleased by the amount planted,
+    and considers inviting friends.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The gazelle tells the leopard that the dry season is the time to cut down
+    the bush so women may plant when the first rains come.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The leopard says he cannot go that day and tells the gazelle to go.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The gazelle works alone for two days cutting bush and clearing ground for
+    planting.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On the third day the leopard asks the gazelle to go to the plantation, but
+    the gazelle says he is sick and cannot go.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The leopard goes by himself after the gazelle claims sickness.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On later days the leopard repeatedly finds the gazelle either sick or out
+    of town.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The leopard ends up doing nearly all the hard work himself.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After the women plant and the harvest ripens, the gazelle goes to look at
+    the plantation.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The gazelle is pleased to find much planted and thinks about inviting friends.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: gazelle
+  description: An animal character who proposes cutting the bush, works at first,
+    later avoids work, and then inspects the ripe plantation.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: leopard
+  description: An animal character addressed by the gazelle; after initially not going,
+    he repeatedly calls for the gazelle and does nearly all the hard work.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: women
+  description: Women are mentioned as the ones who will plant when the first rains
+    come and later as having planted before the harvest ripens.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:4
+  name_or_label: friends
+  description: The gazelle thinks his friends would be pleased if he invited them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: proposer of seasonal field work
+  assigned_to:
+  - fig:1
+  basis: The gazelle states that the dry season is the time to cut bush so planting
+    can occur after the first rains.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: work avoider after initial labor
+  assigned_to:
+  - fig:1
+  basis: After working alone at first, the gazelle repeatedly avoids joining the leopard
+    by being sick or absent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: delayed co-worker
+  assigned_to:
+  - fig:2
+  basis: The leopard first says he cannot go, then later asks the gazelle to go to
+    the plantation with him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: main laborer
+  assigned_to:
+  - fig:2
+  basis: The passage states that the leopard had nearly all the hard work to himself.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: planters
+  assigned_to:
+  - fig:3
+  basis: The women are expected to plant when rains come and are later said to have
+    planted.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:6
+  label: potential invitees
+  assigned_to:
+  - fig:4
+  basis: The gazelle thinks his friends would be pleased if he invited them.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dry season
+  literal_form: dry season
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: first rains
+  literal_form: rains
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bush cleared for planting
+  literal_form: bush and cleared ground
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: plantation and harvest
+  literal_form: plantation with a ripe harvest
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Proposal to clear the bush
+  summary: The gazelle tells the leopard that in the dry season they should cut down
+    the bush so women can plant when rains begin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Gazelle works alone first
+  summary: The leopard says he cannot go that day, and the gazelle spends two days
+    cutting bush and clearing ground by himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Leopard works while gazelle avoids labor
+  summary: When the leopard later calls for the gazelle to go to the plantation, the
+    gazelle claims sickness or absence, leaving the leopard with nearly all the hard
+    work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Gazelle inspects the harvest
+  summary: After women have planted and the harvest is ripe, the gazelle visits the
+    plantation, is pleased, and thinks about inviting friends.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deceptive avoidance of shared labor
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The gazelle repeatedly avoids going to the plantation by being sick or absent,
+    while the leopard performs nearly all the hard work.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage excerpt ends before the tale's resolution, so the full function
+    of the gazelle's avoidance is not visible here.
+- id: motif:2
+  label: harvest benefit after another's labor
+  taxonomy_refs: []
+  basis: After the leopard has done nearly all the hard work and women have planted,
+    the gazelle inspects the ripe plantation and is pleased by how much has been planted.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt does not yet state whether the gazelle actually takes or shares
+    the harvest.
+- id: motif:3
+  label: seasonal agricultural cycle framing animal tale
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The action is framed by dry-season clearing, first rains for planting, and
+    the later ripe harvest.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The seasonal frame is explicit, but the excerpt does not indicate whether
+    it carries ritual or cosmological meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4458-4463
+  quote_or_summary: The gazelle tells the leopard that the dry season has arrived
+    and that they should cut down the bush so women can plant when the first rains
+    come.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:2
+  type: summary
+  locator: lines 4464-4470
+  quote_or_summary: The leopard says he cannot go that day, so the gazelle goes and
+    spends that day and the next cutting bush and clearing ground for planting.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:3
+  type: summary
+  locator: lines 4471-4475
+  quote_or_summary: On the third day the leopard asks the gazelle to go to the plantation,
+    but the gazelle says he is sick, so the leopard goes by himself.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:4
+  type: summary
+  locator: lines 4476-4482
+  quote_or_summary: The leopard repeatedly calls on the gazelle, who is either sick
+    or out of town, so the leopard has nearly all the hard work to himself.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:5
+  type: summary
+  locator: lines 4482-4487
+  quote_or_summary: After the women have planted and the harvest is ripe, the gazelle
+    visits the plantation, is pleased by how much has been planted, and thinks his
+    friends would be pleased if invited.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; passage provided in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the supplied lines. Motif identification
+    is limited because the passage ends mid-sentence before the tale's outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this tale to another tradition or motif family beyond the available taxonomy candidates.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l4458-l4487
+  passage_sha256=86dfb9b2bc60cc3c3d32ffaa5a5f1a760739c9ac7a12b42720dad465c8f52aa7
+

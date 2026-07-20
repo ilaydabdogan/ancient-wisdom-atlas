@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l4668-l4806
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: XXXVIII VEDIC HYMNS. / PREFACE TO THE FIRST EDITION. XXXIX / PREFACE TO THE
+    FIRST EDITION. XCV / XCVI1 VEDIC HYMNS.; lines 4668-4806
+  start: '4668'
+  end: '4806'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Preface passage presenting a philological argument that some Vedic metre
+    names and metrical structures derive from choregic or dance movements, including
+    cited Vedic examples of Indra dancing to an Anushtubh and gleemen dancing toward
+    a spring. The passage then discusses metrical classifications, syllable counts,
+    and exceptional strophes in Rig-veda X,77 and IV,10.
+  language: English with Sanskrit and Greek terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author states that names assigned to metres and metrical language were
+    derived from words originally referring to choregic movements, and interprets
+    vrtta as a turn or last step.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author derives Trishtubh and Anushtubh from a root connected with stamping,
+    striking, shaking, or making firm, rather than from a root meaning praise.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author interprets Trishtubh as a three-step because three final syllables
+    were, in his view, audibly stamped at the end of each turn or strophe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author interprets Anushtubh as an after-step because each line was stamped
+    regularly after the other, possibly by alternating choruses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A cited Vedic passage is translated as poets discovering Indra dancing to
+    an Anushtubh through their wisdom.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Another cited Vedic passage is translated as gleemen dancing toward a spring
+    in measured steps while shouting wildly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Other metre names are glossed as Step-row, Roe-step, and Contre-danse, and
+    are said to point to an original connection with dances.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The author says the Pratisakhya uses laghu and guru for metrical light and
+    heavy rather than hrasva and dirgha for short and long.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The author lists major Vedic strophes formed from padas, including Gayatri,
+    Anushtubh, Virag, Trishtubh, and Gagati, with syllable counts.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: For Rig-veda X,77, the author describes a Trishtubh in which the three-step
+    or turn stands in the middle of the line rather than at the end.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: For Rig-veda IV,10, the author describes a strophe called Padapankti and Mahapadapankti,
+    with a first line of three or four five-syllable feet and a second line described
+    by comparison with Sapphic verse.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: Indra is described in a cited Vedic passage as dancing to an Anushtubh.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: poets
+  description: Poets are described as discovering Indra dancing to an Anushtubh through
+    their wisdom.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: gleemen
+  description: Gleemen are described as dancing toward a spring in measured steps
+    and shouting wildly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: dancing deity
+  assigned_to:
+  - fig:1
+  basis: Indra is the named figure said to be dancing to an Anushtubh.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: wise discoverers
+  assigned_to:
+  - fig:2
+  basis: The poets are said to discover Indra by their wisdom.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: dancing performers
+  assigned_to:
+  - fig:3
+  basis: The gleemen are said to dance in measured steps and shout toward the spring.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: metrical step or turn
+  literal_form: vrtta as turn or last step; Trishtubh as Three-step; Anushtubh as
+    After-step; stamped metrical movement
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: spring
+  literal_form: spring as the destination toward which the gleemen dance
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Indra dancing to an Anushtubh
+  summary: A cited Vedic line is translated to say that poets, by wisdom, discovered
+    Indra dancing to an Anushtubh.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Gleemen dancing toward a spring
+  summary: A cited Vedic line is translated to say that gleemen danced in measured
+    steps, shouting wildly, toward a spring.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Metres explained as dance-steps
+  summary: The author argues that Vedic metre names and metrical turns preserve older
+    connections with choregic movement, stamping, and named dance-steps.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divine dance to a named metre
+  taxonomy_refs: []
+  basis: The cited Vedic translation presents Indra as dancing to an Anushtubh.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The image appears inside a philological preface as a brief cited example,
+    not as a full hymn narrative in this passage.
+- id: motif:2
+  label: Poetic wisdom discovers a divine act
+  taxonomy_refs:
+  - wisdom
+  basis: The poets are said to discover Indra dancing by their wisdom.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only a short translated line is provided; the wider ritual or mythic context
+    is not included in the passage.
+- id: motif:3
+  label: Measured dance toward a water-source
+  taxonomy_refs: []
+  basis: The gleemen are described as dancing in measured steps and shouting toward
+    a spring.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives this as a metrical example; it does not explain the
+    spring’s ritual or symbolic role.
+- id: motif:4
+  label: Sacred metre as choreographed step or turn
+  taxonomy_refs: []
+  basis: The author connects Vedic metres with choregic movements, stamping, named
+    steps, and dance terminology.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is a philological and metrical pattern rather than a narrative myth
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage makes a linguistic-similarity claim connecting Sanskrit stubh
+    or stambh with Greek words associated with stamping, pressing, shaking, or hardness,
+    and with German stampfen.
+  claim_level: linguistic_similarity
+  target: Greek lexical forms and German stampfen compared with Sanskrit stubh/stambh
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the author’s philological argument; the passage does not establish
+    a mythological contact or shared narrative motif.
+- id: claim:2
+  claim: The passage compares certain Vedic metrical structures with classical metrical
+    patterns, including the first member of a Saturnian verse and the last line of
+    a Sapphic verse.
+  claim_level: same_function
+  target: Saturnian and Sapphic metrical patterns used as comparanda for Rig-vedic
+    strophes
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is structural and metrical, not a claim of shared mythic
+    content.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4668-4676
+  quote_or_summary: The author says that metre names and metrical language were derived
+    from choregic movements and that vrtta meant the turn or last step of a movement.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4677-4708
+  quote_or_summary: The author argues that Trishtubh and Anushtubh derive from a root
+    connected with stamping or shaking, interprets Trishtubh as Three-step, and interprets
+    Anushtubh as After-step.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 4709-4716
+  quote_or_summary: "“Poets by their wisdom discovered Indra dancing to an Anushéubh”;
+    another passage is rendered as gleemen dancing “toward the spring” in measured
+    steps and shouting."
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 4717-4721
+  quote_or_summary: Other metre names are glossed as Step-row, Roe-step, and Contre-danse
+    and are said to show an original connection with dances.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4722-4769
+  quote_or_summary: The passage explains laghu and guru as metrical light and heavy,
+    then lists main strophes formed from padas with syllable counts.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4770-4792
+  quote_or_summary: For Rig-veda X,77, the author describes a hendecasyllabic pada
+    in which the Trishtubh turn or three-step stands in the middle of the line and
+    compares part of the line to a Saturnian verse member.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4793-4806
+  quote_or_summary: For Rig-veda IV,10, the author says native metricians misapprehended
+    a strophe called Padapankti and Mahapadapankti, and describes its feet, ictus,
+    and resemblance to the last line of a Sapphic verse.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily philological and metrical rather than a myth narrative.
+    Motif candidates are based on brief cited Vedic examples and the author’s explicit
+    dance-metre argument.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional figures, objects, taxonomy IDs, or mythic comparisons were added beyond what the passage and supplied taxonomy support.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l4668-l4806
+  passage_sha256=5497b753900973741fc122dd59bfbb5b7690051a7690eb27fad79aefde96840e
+

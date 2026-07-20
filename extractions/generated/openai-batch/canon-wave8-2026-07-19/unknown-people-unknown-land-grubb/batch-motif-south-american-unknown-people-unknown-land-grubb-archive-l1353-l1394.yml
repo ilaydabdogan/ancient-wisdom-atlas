@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l1353-l1394
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: DANGERS OF ENTRANCE / INTO THE UNKNOWN / INTO THE UNKNOWN / INTO THE UNKNOWN;
+    lines 1353-1394
+  start: '1353'
+  end: '1394'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator describes entering a country where the Indians do not want
+    him and regard him with suspicion. He says he relies on appearing defenceless
+    while assuming authority rather than threatening violence. The local people are
+    puzzled by this stance. His guides refuse to take him farther west, so he sends
+    them back to the River Paraguay and prepares for the night among people unknown
+    to him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator states that his safety depended on acting without a display of
+    armed power, not threatening a native, and assuming obedience.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says the Indians did not want him in their country, were suspicious
+    of him, and that he lacked power and depended on their aid and cooperation.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator says a timid or gentle request would have been mistaken for weakness
+    and taken advantage of.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator says that, from the Indians' point of view, he was a foreigner
+    and therefore an enemy, but they allowed him to enter because they were curious
+    and he was defenceless.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator's tone of authority puzzled the Indians; he later learned they
+    did not regard him as an ordinary foreigner and were impressed that he did not
+    threaten violence.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The guides who had joined the narrator in the village refused to conduct him
+    farther west, so he dismissed them and sent them back to the River Paraguay.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After the guides left, the narrator says he was at the mercy of people he
+    did not know, and at night he arranged his bed so he could lie on top of most
+    of his baggage.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first-person narrator
+  description: A foreign, apparently defenceless traveler who enters the Indians'
+    country, assumes authority, and later prepares to sleep on top of his baggage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Indians / native inhabitants
+  description: The local people of the country entered by the narrator; they are described
+    as suspicious, not wanting him there, regarding him as a foreigner and enemy,
+    and being puzzled by his defenceless authority.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: refractory guides
+  description: Guides who had joined the narrator in the village, refused to conduct
+    him farther west, and were sent back to the River Paraguay.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: defenceless foreign entrant
+  assigned_to:
+  - fig:1
+  basis: The narrator describes himself as foreign to the Indians, without power,
+    apparently defenceless, and dependent on local aid.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: authority-claiming traveler
+  assigned_to:
+  - fig:1
+  basis: The narrator says he took a tone of authority, did not threaten violence,
+    and assumed that others would submit to his wishes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: suspicious local inhabitants
+  assigned_to:
+  - fig:2
+  basis: The passage says they did not want the narrator in their country, were suspicious,
+    regarded him as an enemy, and were puzzled by his conduct.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: guides who refuse further passage
+  assigned_to:
+  - fig:3
+  basis: The guides refuse to conduct the narrator farther west and are dismissed.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: absence of armed threat
+  literal_form: No show of power in arms; no threat of violence.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: unknown country / westward interior
+  literal_form: The Indians' country and the farther west route into it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: River Paraguay
+  literal_form: River Paraguay as the place to which the dismissed guides are sent
+    back.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: bed on baggage
+  literal_form: A bed arranged so the narrator can lie on top of most of his baggage.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Calculated entry without armed display
+  summary: The narrator explains that he enters by avoiding threats or armed display
+    while assuming that a native will obey him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Defenceless authority puzzles the inhabitants
+  summary: The narrator says the local people regard him as a foreigner and enemy
+    but are curious, not very afraid of him, and puzzled by his combination of defencelessness
+    and authority.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Guides withdraw and night vulnerability follows
+  summary: The narrator's guides refuse to go farther west, are sent back to the River
+    Paraguay, and the narrator prepares for night among unknown people by lying on
+    top of his baggage.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: entry into an unknown or hostile land
+  taxonomy_refs:
+  - departure
+  basis: The passage centers on the narrator entering a country where he is unwanted,
+    suspiciously regarded, and dependent on local cooperation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage is an ethnographic travel narrative, not a mythic episode;
+    the taxonomy link is a broad pattern match only.
+- id: motif:2
+  label: authority without violence
+  taxonomy_refs: []
+  basis: The narrator deliberately avoids threatening violence or displaying arms
+    while assuming authority, and this conduct puzzles the local inhabitants.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is a behavioral pattern in the passage rather than a named traditional
+    motif.
+- id: motif:3
+  label: loss of guides before deeper passage
+  taxonomy_refs: []
+  basis: The guides refuse to conduct the narrator farther west, are dismissed, and
+    the narrator is left among unknown people.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not present this as supernatural or ritual; it is a practical
+    travel danger.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1355-1358
+  quote_or_summary: "“my safety lay in the fact that I acted without any show of power
+    in arms”; he did not threaten a native and assumed obedience."
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 1359-1364
+  quote_or_summary: The narrator says the Indians did not want him in their country,
+    were suspicious of him, and that he lacked the power to proceed or return without
+    their help.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1365-1373
+  quote_or_summary: The narrator says a timid attitude would be read as weakness;
+    from the Indians' perspective he was a foreigner and enemy, but they allowed him
+    entry out of curiosity and because he was defenceless.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1375-1386
+  quote_or_summary: The narrator's tone of authority nonplussed the Indians; they
+    saw him as apparently defenceless yet authoritative and were impressed that he
+    never threatened violence.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1388-1390
+  quote_or_summary: "“My refractory guides” refused to take him farther west, so he
+    dismissed them and sent them back to the River Paraguay."
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 1390-1394
+  quote_or_summary: The narrator says he was at the mercy of people unknown to him,
+    and as night came he arranged his bed so he could lie on top of most of his baggage.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    cautious because the passage is a travel-ethnographic account rather than a traditional
+    mythic narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to the available list and used only where broadly supported by literal passage details.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l1353-l1394
+  passage_sha256=cdd8efa6d0bd14afc404aa04e28fcd80adbbb41a218ad779af0117daa96b6e8d
+

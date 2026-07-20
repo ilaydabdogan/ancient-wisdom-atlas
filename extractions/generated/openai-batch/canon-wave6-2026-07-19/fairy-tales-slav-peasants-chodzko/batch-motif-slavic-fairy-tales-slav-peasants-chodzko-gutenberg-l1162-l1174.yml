@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.slavic-fairy-tales-slav-peasants-chodzko-gutenberg-l1162-l1174
+source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+passage_locator:
+  label: TIME AND THE KINGS OF THE ELEMENTS / THE TWELVE MONTHS / THE SUN OR THE THREE
+    GOLDEN HAIRS OF THE OLD MAN VSEVEDE / THE SUN; OR, THE THREE GOLDEN HAIRS OF THE
+    OLD MAN VSEVEDE; lines 1162-1174
+  start: '1162'
+  end: '1174'
+  translation: Fairy Tales of the Slav Peasants and Herdsmen
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed male speaker explains that the money or reward he has received
+    is payment for hardships and services, including helping one king recover the
+    Apples of Youth and telling another the secret of reopening a health- and life-giving
+    spring. A king hears of the Apples of Youth and Water of Immortality, declares
+    that he will seek them for himself, sets out, and has not returned.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male speaker says that what he has received is payment for weariness, hardships,
+    and services.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he showed one king how to regain possession of the Apples
+    of Youth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says he told another king the secret of reopening a spring of
+    water that gives health and life.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A king interrupts and names the Apples of Youth and Water of Life as treasures
+    he wants to find.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The king says eating the apples will make him young again and drinking the
+    Water of Immortality will let him live forever.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The king starts off in search of the treasures and has not yet returned.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed male speaker
+  description: A male speaker who explains the payment he received and recounts services
+    given to kings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed female listener
+  description: A female addressee referred to as "her" in the speaker's reply.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: first prior king
+  description: A king whom the speaker showed how to regain possession of the Apples
+    of Youth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: second prior king
+  description: A king to whom the speaker told the secret of reopening a life-giving
+    spring.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: searching king
+  description: The king who hears of the Apples of Youth and Water of Life, decides
+    to seek them, and does not return by the passage's end.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: speaker explaining reward
+  assigned_to:
+  - fig:1
+  basis: He answers and describes the payment as ready money for hardships and services.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: possessor or transmitter of useful secrets
+  assigned_to:
+  - fig:1
+  basis: He says he showed one king how to regain the Apples of Youth and told another
+    the secret of reopening the spring.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: addressee
+  assigned_to:
+  - fig:2
+  basis: The passage says the speaker answered "her."
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: royal recipient of aid
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Each prior king is described as receiving practical help or secret knowledge
+    from the speaker.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: questing king
+  assigned_to:
+  - fig:5
+  basis: He announces that he will find the treasures, starts in search of them, and
+    has not returned.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Apples of Youth
+  literal_form: Apples said to restore youth when eaten.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: life-giving spring
+  literal_form: A spring of water said to give health and life.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Water of Life or Water of Immortality
+  literal_form: Water that the king says will allow him to live forever when drunk.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: treasures sought
+  literal_form: The Apples of Youth and Water of Life named together as treasures.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Explanation of payment and services
+  summary: 'The male speaker explains that his reward is payment for hardship and
+    names two services previously given to kings: recovery of the Apples of Youth
+    and reopening a life-giving spring.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: King sets out for youth and immortality
+  summary: A king hears of the treasures, says he will seek the apples and water so
+    he can become young and live forever, departs, and has not returned.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Quest for rejuvenating and immortalizing treasures
+  taxonomy_refs:
+  - mystical_quest
+  basis: The king explicitly decides to go in search of the Apples of Youth and the
+    Water of Life or Immortality.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives only the departure and unresolved non-return, not the
+    journey itself.
+- id: motif:2
+  label: Life-renewing food and drink
+  taxonomy_refs: []
+  basis: The apples are said to restore youth when eaten, and the water is said to
+    confer endless life when drunk.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage reports the king's expectation; it does not show the effects
+    occurring.
+- id: motif:3
+  label: Secret knowledge that restores access to life-giving objects or waters
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker claims to know and communicate how to recover the Apples of Youth
+    and reopen a spring that gives health and life.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not describe how the knowledge was obtained or whether
+    it is restricted or sacred.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1162-1166
+  quote_or_summary: The speaker says his payment is for weariness, hardships, and
+    services; he helped one king regain the Apples of Youth and told another the secret
+    of reopening a spring of water that gives health and life.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1167-1171
+  quote_or_summary: '"Apples of Youth! Water of Life!" The king says he will seek
+    these treasures, become young by eating the apples, and live forever by drinking
+    the Water of Immortality.'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 1172-1174
+  quote_or_summary: The king starts off in search of the treasures and has not yet
+    returned.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short, self-contained passage. Motif labels are
+    candidate abstractions from explicit objects and actions; no cross-text comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims added because the passage itself does not identify a comparative tradition or explicit parallel.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-fairy-tales-slav-peasants-chodzko-gutenberg__l1162-l1174
+  passage_sha256=8b031b94dbde574096a7840efaf4200c515564ea213086e637d465032fe1d094
+

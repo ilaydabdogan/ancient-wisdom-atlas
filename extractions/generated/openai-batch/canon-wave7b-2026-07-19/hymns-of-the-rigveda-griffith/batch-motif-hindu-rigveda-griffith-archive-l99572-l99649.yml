@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l99572-l99649
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH LP / See Aranyaka, I, 4, 2. / KEITH Q / ADHYAYA 4,; lines 99572-99649
+  start: '99572'
+  end: '99649'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: I have seen it, so he said. Therefore he was Idamdra by name
+  summary: The passage is mainly translation notes and commentary. It discusses bodily
+    points, a triad of loci and states, waking, dreaming, and deep sleep as sleep
+    compared with true knowledge of brahman, and a translation fragment in which an
+    unnamed figure sees a person as the most widely extended brahman, says he has
+    seen it, and is named Idamdra.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A note says Sayana connects a former item with the passage's OCR term "farmendriyas"
+    and a latter item with "Jacnendriyas," after mentioning the tip of the foot and
+    the skull.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note says a named item is so called because it is connected with Hari, and
+    it compares related nàndana terms in the Jaiminiya Upanisad Brahmana and Samaveda.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A commentarial note reports alternative interpretations of a group of three
+    as right eye, mind, and ether in the heart, or as right eye, throat, and heart.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentators are said to explain the states as waking, dreaming, and deep
+    sleep, all of which are sleep when compared with true knowledge of brahman.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The translation fragment says an unnamed figure saw this person as the most
+    widely extended brahman and then said, "I have seen it."
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The fragment says the figure was therefore named Idamdra.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note reports interpretations in which the figure identified himself with
+    creatures, did not see the true self, or concluded that nothing could be called
+    different from the true self.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed perceiver
+  description: An unnamed figure in the translation fragment who sees the person/brahman,
+    speaks, and is named Idamdra.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: this person / brahman
+  description: The object of vision described as "this person" and as the most widely
+    extended brahman in the translation fragment.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Hari
+  description: A divine name mentioned in a note as the basis for why something is
+    so called.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: creatures
+  description: A collective group mentioned in a commentarial interpretation where
+    the figure identifies himself with creatures or examines creatures separately.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: perceiver and speaker
+  assigned_to:
+  - fig:1
+  basis: The figure sees the person/brahman, says he has seen it, and receives a name.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: object of realization or vision
+  assigned_to:
+  - fig:2
+  basis: The person/brahman is what the unnamed figure sees.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: referenced divine association
+  assigned_to:
+  - fig:3
+  basis: The note says the name or item is connected with Hari.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: collective beings in self-interpretation
+  assigned_to:
+  - fig:4
+  basis: The note reports that the figure identifies himself with creatures or examines
+    creatures in relation to the true self.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: bodily extremity and skull
+  literal_form: tip of the foot; skull
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: triadic bodily loci
+  literal_form: right eye, mind, ether in the heart; alternatively right eye, throat,
+    heart
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: three states
+  literal_form: waking, dreaming, and deep sleep
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: seen brahman/self
+  literal_form: this person as the most widely extended brahman
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Nandana designation
+  literal_form: nàndana sāman and nàndana svarga as referenced in nearby texts
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Commentarial triad of loci and states
+  summary: The notes present competing commentarial schemes for three loci and connect
+    the states of waking, dreaming, and deep sleep with the contrast between ordinary
+    sleep and true knowledge of brahman.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Vision of brahman
+  summary: An unnamed figure sees this person as the most widely extended brahman
+    and states that he has seen it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Naming after seeing
+  summary: After saying that he has seen it, the unnamed figure is given the name
+    Idamdra.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Commentarial non-difference from true self
+  summary: A note reports interpretations that relate the figure, creatures, and the
+    true self, including the conclusion that nothing can be called different from
+    the true self.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: realization of brahman or true self
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes seeing the most widely extended brahman and contrasts
+    ordinary states with true knowledge of brahman.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is a commentary-heavy excerpt rather than a complete narrative
+    scene.
+- id: motif:2
+  label: waking, dreaming, and deep sleep surpassed by true knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The notes explicitly state that waking, dreaming, and deep sleep are sleep
+    in comparison with true knowledge of brahman.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is presented as a commentarial explanation of states, not as an independent
+    mythic episode.
+- id: motif:3
+  label: non-difference of creatures and true self
+  taxonomy_refs: []
+  basis: The note reports an interpretation in which the figure identifies himself
+    with creatures and concludes that nothing is different from the true self.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The observation comes from reported commentarial interpretation and the
+    OCR is uncertain in places.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links the triad of waking, dreaming, and deep sleep with
+    a broader Upanishadic pattern in which ordinary states are contrasted with true
+    knowledge of brahman.
+  claim_level: same_function
+  target: Kaivalya Upanisad XII, as cited in the note
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The target passage is only cited parenthetically and is not quoted
+    in the supplied text.
+- id: claim:2
+  claim: The passage compares its triadic scheme with a Brahma Upanisad formulation
+    that locates waking, dream, and deep sleep in bodily loci.
+  claim_level: same_function
+  target: Brahma Upanisad III, as cited in the note
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied text reports the comparison through commentary and OCR-distorted
+    Sanskrit; details require review.
+- id: claim:3
+  claim: The note makes a linguistic and textual comparison between a Hari-connected
+    designation and nàndana terms in the Jaiminiya Upanisad Brahmana and Samaveda.
+  claim_level: linguistic_similarity
+  target: Jaiminiya Upanisad Brahmana nàndana sāman and Samaveda II, 651 nàndana svarga
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a named-term comparison rather than a clearly developed mythic
+    motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 99572-99576
+  quote_or_summary: A note mentions the tip of the foot or skull and says Sayana connects
+    the former and latter with two categories rendered in OCR as farmendriyas and
+    Jacnendriyas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 99578-99580
+  quote_or_summary: A note says an item is so called because connected with Hari and
+    cites Jaiminiya Upanisad Brahmana and Samaveda II, 651 for related nàndana terms.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 99582-99592
+  quote_or_summary: A note reports interpretations of three items as right eye, mind,
+    and ether in the heart, or as right eye, throat, and heart; it says the states
+    are waking, dreaming, and deep sleep, all sleep compared with true knowledge of
+    brahman, with references to Brahma Upanisad and Kaivalya Upanisad.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: 99594-99598
+  quote_or_summary: '"Ile saw this person only as the most widely extended drahman.™
+    I have seen it, so he said. Therefore he was Idamdra by name"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; brief excerpt.
+- id: ev:5
+  type: summary
+  locator: 99599-99615
+  quote_or_summary: 'A note reports alternative explanations: the figure identified
+    himself with creatures, did not see the true self, examined creatures separately,
+    and concluded that nothing could be called different from the true self.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage is heavily OCR-distorted and consists mainly of notes
+    and commentary, so motif identification is cautious and needs human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. The passage text appears to contain Aitareya Aranyaka-related commentary within the provided source path.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l99572-l99649
+  passage_sha256=600a807215e0939eb99923dbac32d365cf182091a67615453789f5443ca3b078
+

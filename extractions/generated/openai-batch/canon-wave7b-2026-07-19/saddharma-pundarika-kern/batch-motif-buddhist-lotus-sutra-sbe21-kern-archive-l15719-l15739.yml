@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.buddhist-lotus-sutra-sbe21-kern-archive-l15719-l15739
+source_text_path: texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md
+passage_locator:
+  label: XVIII. ADVANTAGES OF A RELIGIOUS PREACHER. 349 / XVIII. ADVANTAGES OF A RELIGIOUS
+    PREACHER. 351 / XVTTT. ADVANTAGES OF A RELIGIOUS PREACHER. 353 / CHAPTER XIX.;
+    lines 15719-15739
+  start: '15719'
+  end: '15739'
+  translation: The Saddharma-Pundarika, or The Lotus of the True Law (Sacred Books
+    of the East, Vol. 21)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: he may preach to all creatures and is skilful in ko/is of interpretations.
+  summary: 'The passage describes the capacities of one who keeps or reads the Sutra:
+    his mental organ has a knowledge that precedes emancipation, he stands on the
+    stage of a master, and he may preach to all creatures with great interpretive
+    skill.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The law preached by the person is identified as the law expounded by ancient
+    Masters of the world.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The person is described as never flinching and always preaching in the assembly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One who keeps or reads the Sutra is said to have a mental organ with knowledge
+    that precedes emancipation, though not yet the knowledge of emancipation.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One who keeps the Sutra of the Sugata is said to stand on the stage of a master.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The keeper of the Sutra may preach to all creatures and is skillful in many
+    interpretations.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: keeper or reader of the Sutra
+  description: A person who keeps or reads the Sutra and is described as gaining a
+    preliminary knowledge and preaching capacity.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: ancient Masters of the world
+  description: Ancient teachers who are said to have expounded the law preached by
+    the Sutra keeper.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: all creatures
+  description: The beings to whom the Sutra keeper may preach.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Sugata
+  description: The figure associated with the Sutra in the phrase 'Sutra of the Sugata.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Sutra keeper or reader
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly refers to 'him who keeps or reads this Sutra.'
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: preacher and master-stage figure
+  assigned_to:
+  - fig:1
+  basis: The keeper of the Sutra is said to stand on the stage of a master and to
+    preach to all creatures.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ancient expounders of the law
+  assigned_to:
+  - fig:2
+  basis: The law is said to have been expounded by the ancient Masters of the world.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: audience of preaching
+  assigned_to:
+  - fig:3
+  basis: The Sutra keeper may preach to all creatures.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: source-associated title for the Sutra
+  assigned_to:
+  - fig:4
+  basis: The passage calls the text 'this Sutra of the Sugata.'
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Sutra
+  literal_form: this Sutra / Sutra of the Sugata
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: law
+  literal_form: the law expounded by the ancient Masters of the world
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mental organ
+  literal_form: mental organ of him who keeps or reads this Sutra
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Preaching the law in the assembly
+  summary: The passage states that the Sutra keeper preaches in the assembly the law
+    expounded by ancient Masters of the world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Advantages of keeping or reading the Sutra
+  summary: The Sutra keeper or reader is described as having a mental organ with knowledge
+    prior to emancipation, standing on the stage of a master, and being able to preach
+    to all creatures with interpretive skill.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sacred text confers wisdom and preaching mastery
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links keeping or reading the Sutra with preliminary knowledge
+    before emancipation, master-stage status, and skill in many interpretations when
+    preaching.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states doctrinal benefits rather than narrating a full mythic
+    episode; the taxonomy match to wisdom is broad.
+- id: motif:2
+  label: transmission of ancient law through present preaching
+  taxonomy_refs:
+  - wisdom
+  basis: The law preached by the Sutra keeper is described as the same law expounded
+    by ancient Masters of the world.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The text does not provide a detailed transmission story; it only asserts
+    continuity between ancient Masters and the present preacher.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15719-15723
+  quote_or_summary: '"expounded by the ancient Masters of the world is the law which
+    he, never flinching, is always preaching in the assembly."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 15725-15727
+  quote_or_summary: '"Such is the mental organ of him who keeps or reads this Sutra;
+    he has not yet the knowledge of emancipation, but one that precedes it."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 15729-15731
+  quote_or_summary: '"He who keeps this Sutra of the Sugata stands on the stage of
+    a master; he may preach to all creatures and is skilful in ko/is of interpretations."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif classification is broad
+    because the passage is doctrinal and non-narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-traditional comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-lotus-sutra-sbe21-kern-archive__l15719-l15739
+  passage_sha256=8f69153903b752e9eb665c7daa25c3d1aff88d44057de9abeed19a9b8fc4484d
+

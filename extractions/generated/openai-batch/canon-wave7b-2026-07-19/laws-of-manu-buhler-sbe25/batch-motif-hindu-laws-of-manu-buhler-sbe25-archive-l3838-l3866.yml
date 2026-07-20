@@ -1,0 +1,174 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l3838-l3866
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: INTRODUCTION.  1 / INTRODUCTION. / INTRODUCTION. / MANU   I.; lines 3838-3866
+  start: '3838'
+  end: '3866'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a sequence of time units from nimesha to day and night,
+    then states that the sun divides days and nights for both human and divine contexts.
+    It also includes editorial notes on variant computations and readings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Eighteen nimeshas are counted as one kashtha.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thirty kashthas are counted as one kala.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Thirty kalas are counted as one muhurta.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A number of muhurtas is counted as one day and night.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The sun is described as dividing days and nights.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The divided days and nights are described as both human and divine.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Editorial notes mention differences between computations and variant readings
+    in other editions or texts.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the sun
+  description: The sun is the entity said to divide days and nights.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divider of days and nights
+  assigned_to:
+  - fig:1
+  basis: The passage states that the sun divides days and nights.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sun
+  literal_form: sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: day and night
+  literal_form: days and nights
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: enumeration of time units
+  summary: 'A hierarchy of time units is given: nimeshas, kashthas, kalas, muhurtas,
+    and day and night.'
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: solar division of time
+  summary: The sun divides days and nights, which are characterized as human and divine.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: cosmic ordering of time
+  taxonomy_refs: []
+  basis: The passage presents a structured hierarchy of time units and assigns the
+    division of days and nights to the sun.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a calendrical-cosmological statement rather than a narrative myth
+    episode; no supplied taxonomy family directly names cosmic time ordering.
+- id: motif:2
+  label: human and divine temporal distinction
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly distinguishes human and divine days and nights while
+    describing their solar division.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The duality taxonomy reference is tentative because the passage states
+    a distinction but does not elaborate a broader dualistic mythic conflict or paired
+    opposition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3838-3850; Manu I.64
+  quote_or_summary: 'Verse 64 enumerates time units: eighteen nimeshas make one kashtha,
+    thirty kashthas one kala, thirty kalas one muhurta, and a number of muhurtas one
+    day and night.'
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 3851-3855; Manu I.65
+  quote_or_summary: Verse 65 states that the sun divides days and nights, both human
+    and divine.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 3856-3864; footnotes
+  quote_or_summary: The notes refer to differences between computations, an incomplete
+    verse in the Bombay edition, and a variant Mahabharata reading.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif assignment is limited because
+    the passage is a brief calendrical and cosmological statement with no explicit
+    narrative comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another tradition or motif family beyond the tentative internal motif candidates.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l3838-l3866
+  passage_sha256=34c6545b8548268be5f61d6b0455817e8835134d57be1f8d67b18163cfabc082
+

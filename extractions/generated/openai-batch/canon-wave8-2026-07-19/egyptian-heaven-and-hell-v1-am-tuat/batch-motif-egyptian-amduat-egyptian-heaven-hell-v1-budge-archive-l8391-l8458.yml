@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l8391-l8458
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I I I I / III I I I / I I I I / CHAPTER XII.; lines 8391-8458
+  start: '8391'
+  end: '8458'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A group associated with the serpent Ankh-neteru tows a great god into the
+    sky, leads him on the upper-sky ways, causes gentle winds and humid breezes, and
+    commands those on earth to enter a great boat in the sky. The upper register contains
+    twelve named goddesses, each standing upright and carrying on her shoulders a
+    serpent that belches fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unspecified group is said to act in relation to the serpent Ankh-neteru
+    and to tow the great god into the sky.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same group leads the great god along the ways of the upper sky.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The group makes gentle winds and humid breezes arise in the sky.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The group orders those who live upon earth to place themselves in a great
+    boat in the sky.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the upper register, twelve goddesses stand upright, each bearing on her
+    shoulders a serpent that belches fire from its mouth.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage enumerates twelve goddess names, with some readings marked uncertain
+    or affected by corrupted glyph text.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the great god
+  description: A divine figure who is towed into the sky and led along the ways of
+    the upper sky.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unspecified group acting as tow-guides
+  description: A plural group referred to as “they”; they tow the great god, lead
+    him, make winds and breezes, and order earth-dwellers into the sky boat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: serpent Ankh-neteru
+  description: A named serpent mentioned at the start of the excerpt in connection
+    with the movement of the great god.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: twelve goddesses of the upper register
+  description: A group of twelve upright goddesses, each carrying a fire-belching
+    serpent on her shoulders. Listed names include Nefert-Khau, Khet(?)-uat-en-Ea,
+    Nebt-seshesh-ta, Nefert-her-tept, Seuatchet-atebui-pet, Hat-em-taui-s, Qat-em-sepu-s,
+    Sekhet-em-khu-s, Haat-em-sepu-s, Khet-ankh(?)-f, Pekt-em-ap, and Nebt-ak-em-uaa-abt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: those who live upon earth
+  description: Earth-dwellers who are ordered to place themselves in the great boat
+    in the sky.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: towed divine traveler
+  assigned_to:
+  - fig:1
+  basis: The great god is towed into the sky and led along upper-sky ways.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sky guides and wind-makers
+  assigned_to:
+  - fig:2
+  basis: The group tows and leads the great god, produces winds and breezes, and gives
+    an order to earth-dwellers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: named serpent associated with departure point
+  assigned_to:
+  - fig:3
+  basis: The excerpt mentions action occurring “from the serpent Ankh-neteru,” but
+    the precise relation is fragmentary.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: upper-register serpent-bearing goddesses
+  assigned_to:
+  - fig:4
+  basis: The upper register contains twelve standing goddesses, each bearing a fire-belching
+    serpent.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: earth-dwellers commanded to board
+  assigned_to:
+  - fig:5
+  basis: Those living upon earth are ordered to place themselves in the great boat
+    in the sky.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Ankh-neteru serpent
+  literal_form: named serpent, Ankh-neteru
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fiery shoulder-borne serpents
+  literal_form: serpents borne on goddesses’ shoulders, belching fire from their mouths
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: great boat in the sky
+  literal_form: great boat located in the sky
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ways of the upper sky
+  literal_form: paths or ways in the upper sky
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: gentle winds and humid breezes
+  literal_form: winds and breezes made to arise in the sky
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Towing of the great god into the upper sky
+  summary: An unspecified group associated with Ankh-neteru tows the great god into
+    the sky, guides him along the upper-sky ways, produces winds and breezes, and
+    commands earth-dwellers to enter a great sky boat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Twelve goddesses with fiery serpents in the upper register
+  summary: The upper register presents twelve named goddesses standing upright, each
+    with a fire-belching serpent on her shoulders.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mapped afterlife register with divine transit
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage labels an upper register and describes named figures, upper-sky
+    ways, and a divine movement through that space.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt is fragmentary and does not by itself describe the full structure
+    of an afterlife journey.
+- id: motif:2
+  label: ascent of a god into the sky
+  taxonomy_refs:
+  - ascent
+  basis: The great god is towed into the sky and led along the ways of the upper sky.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage emphasizes being towed and led rather than self-powered ascent.
+- id: motif:3
+  label: sky boat as conveyance or commanded refuge
+  taxonomy_refs:
+  - ark_vessel
+  basis: Those who live upon earth are ordered to place themselves in the great boat
+    in the sky.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions a great boat but does not explain its construction,
+    passengers, or purpose beyond the command to board.
+- id: motif:4
+  label: serpents as named and fiery divine beings or emblems
+  taxonomy_refs:
+  - serpent
+  basis: The excerpt names the serpent Ankh-neteru and describes twelve goddesses
+    carrying serpents that belch fire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The functions of the serpents are not fully explained in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8391-8395
+  quote_or_summary: A group acts from or in relation to the serpent Ankh-neteru, tows
+    the great god into the sky, and leads him along the ways of the upper sky.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 8395-8399
+  quote_or_summary: The same group makes gentle winds and humid breezes arise in the
+    sky and orders those living on earth to place themselves in the great boat in
+    the sky.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: lines 8400-8404
+  quote_or_summary: The upper register contains twelve upright goddesses, each bearing
+    on her shoulders a serpent that belches fire from its mouth.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: lines 8404-8458
+  quote_or_summary: The passage lists the names of twelve goddesses, including readings
+    such as Nefert-Khau, Khet(?)-uat-en-Ea, Nebt-seshesh-ta, Nefert-her-tept, Seuatchet-atebui-pet,
+    Hat-em-taui-s, Qat-em-sepu-s, Sekhet-em-khu-s, Haat-em-sepu-s, Khet-ankh(?)-f,
+    Pekt-em-ap, and Nebt-ak-em-uaa-abt; the surrounding OCR/glyph text is partially
+    corrupted.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is constrained by the fragmentary opening and corrupted
+    glyph/OCR material in the name list. No comparison claims were made because the
+    passage itself does not compare this material to another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All interpretations are limited to the supplied passage and metadata; taxonomy assignments are candidate labels only.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l8391-l8458
+  passage_sha256=9bce1055df5be5ff5dc1df74f82577f4926ed4bde6adbff09b26a670934b9852
+

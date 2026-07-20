@@ -1,0 +1,135 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l6507-l6513
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE FORTY-FIFTH CHAPTER / THE FORTY-SIXTH CHAPTER / THE ELEVENTH BOOKE /
+    THE FORTY-SEVENTH CHAPTER; lines 6507-6513
+  start: '6507'
+  end: '6513'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: How Apuleius by Roses and prayer returned to his humane shape.
+  summary: A chapter heading states that Apuleius returned to his human shape through
+    roses and prayer.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a heading for the Eleventh Book and the Forty-Seventh Chapter.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heading names Apuleius as the person who returned to human shape.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The heading states that roses and prayer are involved in Apuleius returning
+    to human shape.
+  category: object
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Apuleius
+  description: Named in the chapter heading as returning to his human shape.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: figure restored to human shape
+  assigned_to:
+  - fig:1
+  basis: The heading says Apuleius returned to his human shape.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: roses
+  literal_form: Roses
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: prayer
+  literal_form: prayer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: human shape
+  literal_form: humane shape
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Return to human shape
+  summary: The chapter heading summarizes Apuleius returning to human shape through
+    roses and prayer.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: return to human form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The heading states that Apuleius returned to his human shape, implying a
+    reversal of a non-human or altered form.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is only a chapter heading and does not narrate the transformation
+    process in detail.
+- id: motif:2
+  label: ritual means of restoration
+  taxonomy_refs: []
+  basis: The heading associates the restoration of human shape with roses and prayer.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The heading does not specify how roses and prayer function, so ritual
+    interpretation remains limited.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6507-6513
+  quote_or_summary: '"How Apuleius by Roses and prayer returned to his humane shape."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short chapter heading, so literal identification
+    is strong but motif interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied chapter heading was used; no details from the surrounding narrative were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l6507-l6513
+  passage_sha256=288932c7876a9b412ef3bfc2ef536b848aab43bb99d19fafa6e30ed7c72718ba
+

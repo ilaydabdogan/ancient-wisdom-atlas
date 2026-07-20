@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l20130-l20236
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: CHANGE  OF  TIME / BUREAU   OF  AMERICAN    ETHNOLOGY  BULLETIN   53     PLATE  37
+    / MA'KUK     FOR     MAPLE    SUGAR / — n-; lines 20130-20236
+  start: '20130'
+  end: '20236'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt contains musicological analysis, a heading for song No. 120,
+    “Invite Our Sweetheart,” an Ojibwe/Chippewa transcription with English gloss inviting
+    a sweetheart to a dance, and analysis of the song’s meter, rhythm, harmonic structure,
+    and recorded renditions.
+  language: English with Ojibwe/Chippewa song text and glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening analysis says the metric unit of the drum is slower than that
+    of the voice.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The opening analysis says the melody contains all tones of the octave, with
+    C sharp in one measure and C natural in other measures.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The opening analysis describes a two-part rhythmic unit: a four-measure first
+    part based on a descending fifth and a short answering phrase in a lower octave.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The excerpt identifies song No. 120 as “Invite Our Sweetheart” and attributes
+    its singing to E^niwub^'e as printed in the passage.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The glossed song text tells someone to go and invite “our sweetheart,” and
+    says she truly enjoys the dance called ca'wunoga.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The analysis of No. 120 says the drum’s metric unit is slower than the voice’s,
+    five recorded renditions maintained a peculiar rhythm, and the song is harmonic
+    in structure, moving along intervals of G minor.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The analysis of No. 120 says there is no rhythmic unit after the fourth measure,
+    but that the song as a whole has a rhythmic swing.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: E^niwub^'e
+  description: Named in the excerpt as the singer of song No. 120.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: our sweetheart
+  description: A female figure in the glossed song text; she is invited and is said
+    to enjoy the dance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed addressed inviter
+  description: The unnamed addressee or addressees of the imperative glossed as “go
+    and invite.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: singer or performer
+  assigned_to:
+  - fig:1
+  basis: The heading for No. 120 states that the song was sung by the named person.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sweetheart invited to a dance
+  assigned_to:
+  - fig:2
+  basis: The gloss refers to “our sweetheart” and says she enjoys the named dance.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: person told to invite
+  assigned_to:
+  - fig:3
+  basis: The glossed imperative says to “go and invite.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: drum
+  literal_form: drum
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: voice
+  literal_form: voice in the musical analysis
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: ca'wunoga dance
+  literal_form: the dance called ca'wunoga
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Musicological analysis of meter and melody
+  summary: The prose analyzes relations between drum and voice, melodic tones, rhythmic
+    units, harmonic structure, and rhythmic swing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Performance attribution for No. 120
+  summary: The passage presents song No. 120 under the title “Invite Our Sweetheart”
+    and names its singer.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Lyric invitation to dance
+  summary: An unnamed addressee is told to go and invite the collective speaker’s
+    sweetheart, who is said to enjoy the ca'wunoga dance.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sweetheart invited to dance
+  taxonomy_refs: []
+  basis: The glossed lyric directs someone to invite “our sweetheart” and states that
+    she enjoys the named dance.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a social or song-text pattern, not a mythological episode; the
+    passage contains no supernatural actors or sacred narrative context.
+- id: motif:2
+  label: drum and voice in contrasting metric relation
+  taxonomy_refs: []
+  basis: Both analysis paragraphs describe the drum’s metric unit as slower than the
+    voice’s metric unit.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is a formal musical pattern rather than a narrative or symbolic myth
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The analysis explicitly says No. 120 shares with the preceding song the formal
+    pattern in which the drum’s metric unit is slower than that of the voice.
+  claim_level: same_function
+  target: the preceding song in the same source/excerpt
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to a stated musical feature; it does not
+    establish shared mythic content, historical contact, or a broader comparative-mythology
+    relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20130-20236, opening analysis paragraph
+  quote_or_summary: The opening analysis states that the drum’s metric unit is slower
+    than the voice’s, the melody contains all tones of the octave, and the rhythmic
+    unit has two parts including a descending fifth and a short answering phrase.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 20130-20236, heading for No. 120
+  quote_or_summary: The excerpt identifies No. 120 as “Invite Our Sweetheart” and
+    says it was sung by E^niwub^'e as printed/OCRed in the passage.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 20130-20236, No. 120 text and gloss
+  quote_or_summary: The gloss translates the song text as an instruction to go and
+    invite our sweetheart; it says she truly enjoys the dance called ca'wunoga.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 20130-20236, analysis paragraph for No. 120
+  quote_or_summary: The No. 120 analysis says that, as in the preceding song, the
+    drum’s metric unit is slower than the voice’s; five renditions maintained the
+    rhythm; the song is harmonic in structure, moves along intervals of G minor, begins
+    with a major third, and has rhythmic swing despite lacking a rhythmic unit after
+    the fourth measure.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The prose and gloss are sufficiently clear for extraction, but the passage
+    includes OCR noise and music notation that are not fully represented. Motif candidates
+    are mostly social or formal musical patterns rather than mythological motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Symbols are recorded as literal performance elements or named actions in the passage, not as interpreted sacred symbols. No available taxonomy references were assigned.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l20130-l20236
+  passage_sha256=ac5b9db43df54076f83a3fc66e10d471f28befe816511583504843ed15054b96
+

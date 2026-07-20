@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l18697-l18738
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA V, HYMN 10. / NOTES. / MANDALA V, HYMN IT. 391 / NOTES:; lines 18697-18738
+  start: '18697'
+  end: '18738'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes identify the rishi and metre, point to a textual parallel,
+    and explain references to three sacrificial fires, two kindling-sticks, Agni's
+    service at the sacrifice of Vivasvant, and the discovery of Agni by ancestors
+    of priestly tribes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note identifies Sutambhara Atreya as the rishi and Gagati as the metre.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One pada is said to be identical with the first pada of Rigveda X, 122, 4.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Verse 2 is said to allude to three sacrificial fires.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Verse 3 is glossed as referring to two kindling-sticks.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Agni is described as opening his earthly career by serving at the sacrifice
+    of Vivasvant.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Vivasvant is interpreted in the note as originally the first man.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The ancestors of the priestly tribes are described as the first priests and
+    as discovering Agni.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sutambhara Atreya
+  description: Identified as the rishi of the hymn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Agni
+  description: Named figure who serves at Vivasvant's sacrifice and is discovered
+    by the first priests.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Vivasvant
+  description: Named figure whose sacrifice Agni serves; interpreted by the note as
+    originally the first man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: ancestors of the priestly tribes
+  description: Collective group described as the first priests who discover Agni.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: rishi of the hymn
+  assigned_to:
+  - fig:1
+  basis: The note states that the rishi is Sutambhara Atreya.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: servant at a sacrifice
+  assigned_to:
+  - fig:2
+  basis: Agni is said to begin his earthly career by doing service at Vivasvant's
+    sacrifice.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: first man and sacrificer
+  assigned_to:
+  - fig:3
+  basis: Vivasvant is linked to a sacrifice and interpreted as originally the first
+    man.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: discoverer of Agni
+  assigned_to:
+  - fig:4
+  basis: The ancestors of the priestly tribes, called the first priests, are said
+    to discover Agni.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sacrificial fires
+  literal_form: three sacrificial fires
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: kindling-sticks
+  literal_form: two kindling-sticks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Agni
+  literal_form: named sacred fire/deity figure in the sacrificial context
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Agni serves at Vivasvant's sacrifice
+  summary: Agni is described as beginning his earthly career by doing service at the
+    sacrifice of Vivasvant.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:2
+  label: First priests discover Agni
+  summary: The ancestors of the priestly tribes, described as the first priests, discover
+    Agni.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacrificial fire and ritual service
+  taxonomy_refs:
+  - sacrifice
+  basis: The notes mention three sacrificial fires and describe Agni serving at Vivasvant's
+    sacrifice.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is commentary on a hymn, not a full narrative episode; the
+    motif is identified from the notes' ritual references.
+- id: motif:2
+  label: discovery of sacred fire by first priests
+  taxonomy_refs:
+  - fire
+  basis: The notes state that the ancestors of priestly tribes, as first priests,
+    discover Agni.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy contains the symbol 'fire' but no specific motif
+    family for fire-discovery; the wording is brief and explanatory.
+comparison_claims:
+- id: claim:1
+  claim: A pada in this hymn is said to be identical with the first pada of Rigveda
+    X, 122, 4.
+  claim_level: linguistic_similarity
+  target: Rigveda X, 122, 4
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The note reports textual identity but does not quote or analyze the
+    Sanskrit wording in the provided passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18697-18699
+  quote_or_summary: '"The Rishi is Sutambhara Atreya, the metre Gagati."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: Verse 2, Note 1; lines 18705-18707
+  quote_or_summary: '"This Pada is identical with the first Pada of X, 122, 4."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: Verse 2, Note 2; lines 18707-18708
+  quote_or_summary: '"The three sacrificial fires are alluded to."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: Verse 3, Note 1; lines 18710-18712
+  quote_or_summary: '"The two kindling-sticks."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: Verse 3, Note 2; lines 18713-18719
+  quote_or_summary: The note states that Agni opens his earthly career by serving
+    at the sacrifice of Vivasvant, whom the commentator interprets as originally the
+    first man.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: Verse 6, Note 1; lines 18735-18738
+  quote_or_summary: '"The ancestors of the priestly tribes, being the first priests
+    themselves, discover Agni."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source metadata; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage consists of brief editorial notes rather than a complete mythic
+    narrative. Literal extraction is fairly secure, while motif assignment is limited
+    to explicit ritual-fire and discovery language.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or comparisons beyond those directly stated in the provided notes were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l18697-l18738
+  passage_sha256=a22c0e356fd584d914629eecb0e5bb70d3311f8d097c540324b957055c92e05a
+

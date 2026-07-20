@@ -1,0 +1,569 @@
+---
+record_id: batch.motif.roman-lucretius-nature-of-things-leonard-gutenberg-l10241-l10323
+source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+passage_locator:
+  label: BOOK VI / PROEM / GREAT METEOROLOGICAL PHENOMENA, ETC. / THE PLAGUE ATHENS;
+    lines 10241-10323
+  start: '10241'
+  end: '10323'
+  translation: On the Nature of Things
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the social effects of the plague: infected people
+    expect death, contagion spreads continuously, both neglecters and caregivers perish,
+    funerals and burial rites collapse, rural sufferers crowd into the city, bodies
+    lie by fountains and in public places, temples are filled with corpses, and people
+    fight over pyres to burn their kin.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who recognizes the disease in himself lies in despair, foresees his
+    funeral, and dies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Contagion passes continuously from one person to another and is compared to
+    spread among woolly flocks and horned herds.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Those who avoid attending their own sick are later described as dying deserted
+    and without help.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Those who remain with the sick perish from contagion and toil, compelled by
+    honour and by pleas and wails around the dying.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Funerals are unattended, hurried, and contested, while people pile dead upon
+    dead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Shepherds, neatherds, ploughmen, and peasants sicken; some bodies lie in huts,
+    and dead parents and children lie upon one another.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Plague-stricken people from the countryside crowd into city places and buildings,
+    increasing the mass of deaths in town.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Bodies driven by thirst lie beside Silenus-headed water-fountains and along
+    highways and public places, marked by rags, squalor, ulcers, and filth.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Holy temples and fanes of deities are crowded with cadavers, and ordinary
+    esteem for divine worship is overcome by immediate suffering.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Customary sepulture rites no longer remain; people bury as circumstances allow
+    and place kin on others' funeral pyres, sometimes with screaming, torching, brawling,
+    and bloodshed.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: plague-stricken populace
+  description: The collective sick, half-dead, dying, bereaved, and burying people
+    affected by the plague in city and countryside.
+  role_refs:
+  - role:1
+  - role:10
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: those who avoided the sick
+  description: People who forbore to look to their own sick because they were eager
+    for life and afraid of death, and who then died deserted.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: those who stayed with the sick
+  description: People who remained at hand and perished from contagion and toil; the
+    passage calls this the death met by nobler souls.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: weary watchers and dying folk
+  description: Watchers plead, and dying people wail, helping compel attendants to
+    remain with the sick.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: rural workers and peasantry
+  description: Shepherds, neatherds, sturdy guides of ploughs, and plague-stricken
+    peasants who sicken and move into the city.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: parents, children, and loved kin
+  description: Dead children, parents, offspring, fathers, mothers, and loved dead
+    kin whose bodies are found together or placed on pyres.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:7
+  name_or_label: Death
+  description: Personified Death is described as filling temples with carcasses and
+    piling up people in the crowded town.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:8
+  name_or_label: deities and Celestial Ones
+  description: The deities associated with holy temples and fanes; the passage says
+    worship of the gods is no longer strongly esteemed under the present woe.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: warders of the shrines
+  description: The shrine warders are described as having crowded sacred places with
+    many guests.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: plague victims
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage repeatedly describes people sickening, dying, lying half-dead,
+    or crowding plague-stricken into the city.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: self-preserving neglecters
+  assigned_to:
+  - fig:2
+  basis: They avoid looking after their own sick from fear of death and later die
+    deserted and without help.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: caregivers who perish
+  assigned_to:
+  - fig:3
+  basis: They stay near the sick and die through contagion and toil.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: pleading and wailing sick-watch group
+  assigned_to:
+  - fig:4
+  basis: The watchers' pleading voices and the wails of dying folk force others to
+    endure caregiving.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: rural sufferers entering the city
+  assigned_to:
+  - fig:5
+  basis: The plague-stricken peasantry comes from the countryside and crowds city
+    buildings and places.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: dead loved kin
+  assigned_to:
+  - fig:6
+  basis: The passage shows dead parents and children lying on one another and loved
+    kin placed on alien pyres.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:7
+  label: personified accumulator of corpses
+  assigned_to:
+  - fig:7
+  basis: Death is described as piling people in town and filling temples with carcasses.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:8
+  label: divine referents of sanctuaries
+  assigned_to:
+  - fig:8
+  basis: Temples and fanes belong to deities and Celestial Ones, and worship of the
+    gods is mentioned as waning.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: shrine warders hosting crowds
+  assigned_to:
+  - fig:9
+  basis: Warders of the shrines have crowded the sacred places with many guests.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: desperate buriers of kin
+  assigned_to:
+  - fig:1
+  basis: People bury their own dead as circumstances allow and fight to burn loved
+    bodies on alien funeral pyres.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: greedy plague
+  literal_form: contagion of the greedy plague
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: water at fountains
+  literal_form: Silenus-headed water-fountains and pleasant waters
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: funeral fire
+  literal_form: alien funeral pyres and the torch thrust beneath
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: temple filled with cadavers
+  literal_form: holy temples and fanes laden with stark cadavers
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: heap of dead
+  literal_form: dead on dead, pile upon pile, and a heap of folk in town
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: body in squalor
+  literal_form: sagged limbs, rags, skin upon bones, ulcers, and obscene filth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: flocks and herds contagion image
+  literal_form: woolly flocks and horned herds
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Despair and continuous contagion
+  summary: The diseased person anticipates death, while contagion moves continuously
+    from person to person and is likened to spread among flocks and herds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Choice between neglect and caregiving
+  summary: People who avoid the sick die deserted, while those who remain near the
+    sick die from contagion and toil under pressure from honour, watchers, and the
+    dying.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hasty funerals and piled dead
+  summary: Funerals are forsaken and hurried, and mourners contend to bury dead bodies
+    piled upon one another.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rural sickness entering the crowded city
+  summary: Rural workers and peasants sicken, bodies lie in huts and upon kin, and
+    plague-stricken people from the countryside crowd into city spaces, where death
+    piles them up.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Bodies near fountains and public roads
+  summary: Thirst drags bodies to fountains and highways, where half-dead people perish
+    in rags, squalor, ulcers, and filth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Sacred places filled with corpses
+  summary: Temples and fanes of the deities are crowded with cadavers, and present
+    suffering overmasters ordinary reverence for divine worship.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:7
+  label: Improvised and violent cremation of kin
+  summary: With customary burial rites gone, people bury as they can, placing their
+    own kin on others' funeral pyres and sometimes fighting with bloodshed rather
+    than abandon loved dead bodies.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: plague as inescapable contagion and fatal expectation
+  taxonomy_refs: []
+  basis: The sick foresee their own funerals and die, while contagion passes without
+    ceasing from one to another.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an epidemic-death pattern, not a supernatural plague interpretation
+    in the supplied passage.
+- id: motif:2
+  label: caregiving versus abandonment under deadly contagion
+  taxonomy_refs: []
+  basis: The passage contrasts those who abandon the sick and die deserted with those
+    who stay from honour and pleas and die from contagion and toil.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage frames the contrast morally but does not connect it to an
+    explicit divine reward or punishment.
+- id: motif:3
+  label: mass death disrupting funerary order
+  taxonomy_refs: []
+  basis: Funerals are forsaken, hurried, and contested; rites of sepulture fail, and
+    people fight to burn kin on alien pyres.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: No specific named ritual system beyond ordinary sepulture and pyres is
+    detailed here.
+- id: motif:4
+  label: crowded migration intensifying epidemic death
+  taxonomy_refs: []
+  basis: Plague-stricken peasantry comes into the city, crowds places and buildings,
+    and thereby increases the heap of dead in town.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes movement and crowding within the plague episode;
+    it does not supply a broader migration myth.
+- id: motif:5
+  label: thirsting bodies dying beside water
+  taxonomy_refs: []
+  basis: Bodies dragged by thirst lie by water-fountains and pleasant waters, dying
+    in public places and highways.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The water is presented as a desired physical resource, not as ritual purification
+    or sacred water.
+- id: motif:6
+  label: sanctuaries overwhelmed by death
+  taxonomy_refs: []
+  basis: Holy temples and fanes of deities are filled with cadavers while the present
+    woe overmasters esteem for worship of the gods.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not state that the plague is divine judgment; it describes
+    sacred places occupied by corpses and worship losing force.
+- id: motif:7
+  label: kinship bonds under plague pressure
+  taxonomy_refs: []
+  basis: Parents and children lie dead upon one another, and the living struggle violently
+    to burn loved kin rather than leave bodies behind.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The motif is social and familial within a plague narrative, not a genealogical
+    or divine parent-child motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares human contagion to spread among woolly flocks
+    and horned herds.
+  claim_level: visual_similarity
+  target: animal flock and herd contagion image
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal simile in the passage, not evidence for historical
+    contact, common inheritance, or a broader mythological motif family.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10241-10249
+  quote_or_summary: A diseased person despairs, foresees his funeral, and dies; contagion
+    of the greedy plague passes continuously from one person to another, like among
+    woolly flocks and horned herds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 10250-10264
+  quote_or_summary: Those who do not care for their own sick later die deserted, while
+    those who stay with the sick perish by contagion and toil under honour, pleas
+    of watchers, and wails of the dying; this is called the death of nobler souls.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 10265-10274
+  quote_or_summary: Funerals are uncompanioned, forsaken, and hurried; men contend
+    to bury pile upon pile of their own dead, return home worn by grief, and no one
+    is untouched by disease, death, or woe.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 10275-10287
+  quote_or_summary: Shepherds, neatherds, ploughmen, and peasants sicken; bodies lie
+    in huts, parents and children lie dead upon one another, and plague-stricken people
+    from the countryside crowd the city, causing more deaths to pile up.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 10288-10301
+  quote_or_summary: Thirst drags bodies to Silenus-headed water-fountains; along highways
+    and public places, half-dead bodies perish in rags, squalor, ulcers, and filth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 10302-10310
+  quote_or_summary: Holy temples and fanes of the Celestial Ones are filled with cadavers
+    after shrine warders crowd them with guests; the present woe overmasters old divine
+    worship and esteem for the gods.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 10311-10323
+  quote_or_summary: Customary rites of sepulture fail; each person buries his own
+    dead as circumstances permit, and stress and poverty drive people to place kin
+    on others' funeral pyres, thrust torches beneath, and fight with bloodshed rather
+    than abandon loved bodies.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied English passage and metadata. Candidate
+    motifs are plain descriptive patterns rather than asserted taxonomy-family matches;
+    only the supplied symbol taxonomy refs for water and fire are used. The single
+    comparison claim is limited to the passage's own animal simile.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources, unsupported taxonomy motif IDs, or historical-contact claims were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-lucretius-nature-of-things-leonard-gutenberg__l10241-l10323
+  passage_sha256=fe51ea14f291bfffac215e19bbf5071f2e86d4ba6323cee0b04dc522440e9ce9
+

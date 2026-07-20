@@ -1,0 +1,170 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l69-l119
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume II /
+    GODS    OF   THE    EGYPTIANS / LONDON / GODS  OF  THE  EGYPTIANS; lines 69-119
+  start: '69'
+  end: '119'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: AMEN-RA, the King of the Gods, the Lord of Heaven.
+  summary: Front matter for E. A. Wallis Budge's volume, including digitization and
+    printing notes, a caption identifying Amen-Ra by divine titles, the book title,
+    author credentials, and illustration information.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage includes an Internet Archive digitization note from 2009 with
+    Microsoft Corporation funding.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage gives London printing information for Gilbert and Rivington, Ltd.,
+    at St. John's House, Clerkenwell, E.C.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A caption names Amen-Ra and identifies him as King of the Gods and Lord of
+    Heaven.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The work is titled The Gods of the Egyptians, or Studies in Egyptian Mythology.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: E. A. Wallis Budge is named as the author and as Keeper of the Egyptian and
+    Assyrian Antiquities in the British Museum.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Amen-Ra
+  description: Named in a caption as King of the Gods and Lord of Heaven.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: E. A. Wallis Budge
+  description: Named as the author of the volume and Keeper of the Egyptian and Assyrian
+    Antiquities in the British Museum.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: King of the Gods
+  assigned_to:
+  - fig:1
+  basis: The caption explicitly calls Amen-Ra “the King of the Gods.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Lord of Heaven
+  assigned_to:
+  - fig:1
+  basis: The caption explicitly calls Amen-Ra “the Lord of Heaven.”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Author
+  assigned_to:
+  - fig:2
+  basis: The title page names E. A. Wallis Budge after the word “BY.”
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Keeper of Egyptian and Assyrian Antiquities
+  assigned_to:
+  - fig:2
+  basis: The title page states that Budge was Keeper of the Egyptian and Assyrian
+    Antiquities in the British Museum.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Divine rulership in heaven
+  taxonomy_refs: []
+  basis: Amen-Ra is presented through the titles King of the Gods and Lord of Heaven.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a front-matter caption rather than a narrative passage, so it
+    supports only an epithet-based motif candidate.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 69-80
+  quote_or_summary: The passage states that the text was digitized by the Internet
+    Archive in 2009 with Microsoft Corporation funding and gives an archive URL.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 85-88
+  quote_or_summary: The passage identifies London printing by Gilbert and Rivington,
+    Ltd., St. John's House, Clerkenwell, E.C.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:3
+  type: quote
+  locator: line 90
+  quote_or_summary: "“AMEN-RA, the King of the Gods, the Lord of Heaven.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 92-99
+  quote_or_summary: The passage presents the title The Gods of the Egyptians, or Studies
+    in Egyptian Mythology.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:5
+  type: summary
+  locator: lines 101-113
+  quote_or_summary: The passage names E. A. Wallis Budge as author and Keeper of the
+    Egyptian and Assyrian Antiquities in the British Museum.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:6
+  type: summary
+  locator: lines 115-119
+  quote_or_summary: The passage states that the volume includes 98 coloured plates
+    and 131 text illustrations.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; brief summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is bibliographic front matter with one divine caption. Literal
+    extraction is straightforward, but motif evidence is minimal and non-narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol references or comparison claims were added because the passage does not itself support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l69-l119
+  passage_sha256=605645170af4a8a4dc10faf73a041c60922e98764543a8f842017f24ebff37f0
+

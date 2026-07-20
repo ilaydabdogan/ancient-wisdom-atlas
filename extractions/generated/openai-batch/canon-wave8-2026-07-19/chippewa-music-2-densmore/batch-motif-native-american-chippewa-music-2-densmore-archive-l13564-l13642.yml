@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l13564-l13642
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: RHYTHMIC  UNIT / COMPARISON   OF / METRIC   UNIT   OF   VOICE   AND   DRUM
+    / SONGS  OF  THE  LAC  DU  FLAMBEAU  RESERVATION; lines 13564-13642
+  start: '13564'
+  end: '13642'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives tabular musicological data on rhythmic units and voice/drum
+    metric units, then introduces the Lac du Flambeau Chippewa Reservation, describing
+    its setting, customs, subsistence activities, and several singers whose songs
+    were recorded there.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage contains tables on rhythmic units, including songs containing
+    two rhythmic units, and a comparison of metric units of voice and drum as the
+    same or different.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Lac du Flambeau Chippewa Reservation is described as being in north-central
+    Wisconsin, about 80 miles southeast of Ashland, with pine forests and quiet lakes.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Midewiwin ceremonies are held regularly and that many
+    other Native customs are perpetuated.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Wild rice gathering is described as an absorbing autumn interest, followed
+    by hunting expeditions; deer and bears are mentioned as game animals.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some residents are described as cultivating small farms and shipping potatoes
+    with attention to market value.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: E'niwtib'e is identified as a singer of many songs in the series and is described
+    as owning two houses and a small cultivated farm.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Mec'kawdagabau is identified as another singer; the phonograph was taken to
+    his house to record many of his songs, including songs of the Drum-presentation
+    Ceremony.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Dji'sia'sino'kwe, Mec'kawdagabau's wife, sang two love songs and asked that
+    her husband leave while she recorded them, to return when they were played back
+    on the phonograph.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Seventy-five songs were recorded at Lac du Flambeau.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: E'niwtib'e
+  description: Singer of many songs in the series; the name is glossed as "sits farther
+    along" in the passage; owner of two houses and a small farm.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Mec'kawdagabau
+  description: Singer whose name is glossed as "stands firmly" in the passage; many
+    of his songs were recorded at his house, including Drum-presentation Ceremony
+    songs.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Dji'sia'sino'kwe
+  description: Wife of Mec'kawdagabau; her name is glossed as "deceiving woman" in
+    the passage; she sang two love songs.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: recorded singer
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage identifies E'niwtib'e and Mec'kawdagabau as singers and states
+    that Dji'sia'sino'kwe also sang two love songs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: household and farm owner
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: E'niwtib'e is described as owning two houses and a farm; Mec'kawdagabau is
+    described as having a house and cultivated land.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: singer of Drum-presentation Ceremony songs
+  assigned_to:
+  - fig:2
+  basis: The passage says many of Mec'kawdagabau's songs were recorded and that these
+    included songs of the Drum-presentation Ceremony.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: wife of Mec'kawdagabau and love-song singer
+  assigned_to:
+  - fig:3
+  basis: The passage identifies Dji'sia'sino'kwe as Mec'kawdagabau's wife and says
+    she sang two love songs.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: drum
+  literal_form: drum
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: phonograph
+  literal_form: phonograph
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rhythmic and metric-unit song tables
+  summary: The passage presents musicological tables on rhythmic units and on whether
+    the metric units of voice and drum are the same or different.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of the Lac du Flambeau Reservation
+  summary: The reservation is introduced by location and landscape, followed by notes
+    on ceremonies, Native customs, wild rice gathering, hunting, and farming.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Profile of E'niwtib'e
+  summary: E'niwtib'e is described as a singer, house and farm owner, winter resident
+    at his son's home, and respected representative of Native manhood.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Recording songs at Mec'kawdagabau's house
+  summary: The phonograph was brought to Mec'kawdagabau's house to record many songs,
+    including Drum-presentation Ceremony songs; his wife recorded two love songs and
+    asked him to leave during the recording.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Song total for Lac du Flambeau
+  summary: The passage states that seventy-five songs were recorded at Lac du Flambeau
+    and that other singers are described elsewhere in the song analyses.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: multiple rhythmic units in songs
+  taxonomy_refs: []
+  basis: The tabular section identifies songs containing two rhythmic units.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a musicological pattern, not a mythological narrative motif.
+- id: motif:2
+  label: voice and drum metric-unit alignment or divergence
+  taxonomy_refs: []
+  basis: The passage compares whether the metric unit of voice and drum is the same
+    or different across songs.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a musical-structural pattern rather than a symbolic or narrative
+    motif.
+- id: motif:3
+  label: autumn rice gathering followed by hunting
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes wild rice gathering as an autumn activity followed
+    by hunting expeditions.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The evidence is ethnographic and seasonal, not a mythic seasonal-cycle
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13564-13589
+  quote_or_summary: Tables address rhythmic units, songs containing two rhythmic units,
+    and comparison of metric units of voice and drum as the same or different.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:2
+  type: summary
+  locator: 13590-13599
+  quote_or_summary: The Lac du Flambeau Chippewa Reservation is introduced as located
+    in north-central Wisconsin, about 80 miles southeast of Ashland, in a region of
+    pine forests and quiet lakes.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: 13599-13612
+  quote_or_summary: The passage states that Midewiwin ceremonies are held regularly,
+    Native customs are perpetuated, wild rice is gathered in autumn, hunting follows,
+    and some residents cultivate farms and ship potatoes.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:4
+  type: summary
+  locator: 13613-13627
+  quote_or_summary: E'niwtib'e, glossed as "sits farther along," is described as a
+    singer of many songs, owner of two houses and a small farm, and a respected man
+    able to manage his interests.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:5
+  type: summary
+  locator: 13629-13639
+  quote_or_summary: Mec'kawdagabau, glossed as "stands firmly," is described as a
+    singer whose songs were recorded at his house, including Drum-presentation Ceremony
+    songs; his wife Dji'sia'sino'kwe sang two love songs and asked him to leave during
+    recording.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; source metadata permits full-text use.
+- id: ev:6
+  type: summary
+  locator: 13641-13642
+  quote_or_summary: The passage states that seventy-five songs were recorded at Lac
+    du Flambeau and that other singers are described in connection with the song analyses.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; source metadata permits full-text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by OCR irregularities in the tabular portion. Motif
+    candidates are mainly musicological or ethnographic patterns rather than mythological
+    narrative motifs. No comparison claims are made because the passage does not itself
+    support a cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic narrative episode is present in this passage; extracted patterns are limited to song structure, recording context, and ethnographic setting.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l13564-l13642
+  passage_sha256=273662b2b93c400bfa71008cf54cb15b5f503079f26c878d940856f461f38a46
+

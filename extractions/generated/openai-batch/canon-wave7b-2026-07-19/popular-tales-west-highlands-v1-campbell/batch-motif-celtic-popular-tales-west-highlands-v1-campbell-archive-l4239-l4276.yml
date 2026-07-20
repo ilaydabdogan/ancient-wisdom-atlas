@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l4239-l4276
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: C INTRODUCTION. / INTRODUCTION. CI / CIV INTRODUCTION. / INTRODUCTION. CV;
+    lines 4239-4276
+  start: '4239'
+  end: '4276'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses relationships among Gaelic, Irish, Manks, Welsh,
+    and Breton; defines these groups as the Celtic clan; and summarizes a cited historical
+    account, attributed to Henri Martin, in which Gael/Gauls once overran parts of
+    Europe, were related to other European peoples, and were supposed to have originated
+    in Central Asia and used body markings and stone weapons.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Gaelic, Irish, and Manks are described as varying from each other about as
+    much as Norse, Swedish, and Danish.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Welsh and Breton are described as varying from the other Celtic dialects roughly
+    as German and Dutch vary from Scandinavian languages.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A person who knows Gaelic well is said to be able to make himself understood
+    throughout the Highlands.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage groups the people of the west of Scotland, the Irish, the Manks,
+    the Welsh, and the Breton as the Celtic clan.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The relations and ancestors of the Celtic clan are described as difficult
+    questions.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Henri Martin is cited for an account in which Central Europe, France, and
+    Spain were once overrun by a race calling themselves Gael and known as Gauls.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Gael/Gauls are said to have been of the same stock as Germans, Latins,
+    Greeks, and Slavonians, and to have started from Central Asia at an unknown epoch.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Gael/Gauls are supposed to have been warlike, tattooed, painted, and armed
+    with stone weapons.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Celtic clan
+  description: The people of the west of Scotland, the Irish, the Manks, the Welsh,
+    and the Breton, grouped together in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Gael/Gauls
+  description: A race named in the cited historical account as having overrun Central
+    Europe, France, and Spain, related to several other European peoples, and originating
+    from Central Asia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Henri Martin
+  description: French historian cited as the authority for the summarized historical
+    outline.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Germans, Latins, Greeks, and Slavonians
+  description: Peoples described in the cited account as being of the same stock as
+    the Gael/Gauls.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named Celtic group
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says these peoples form the Celtic clan.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: cited historian/source
+  assigned_to:
+  - fig:3
+  basis: The passage introduces the historical outline with 'According to Henri Martin,
+    the French historian.'
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:3
+  label: historical subject in cited account
+  assigned_to:
+  - fig:2
+  basis: The Gael/Gauls are the race described as overrunning regions, sharing stock
+    with other peoples, originating in Central Asia, and bearing specified attributes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: same-stock comparison group
+  assigned_to:
+  - fig:4
+  basis: These peoples are named as being of the same stock as the Gael/Gauls in the
+    cited account.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Central Asia
+  literal_form: Central Asia
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: Stone weapons
+  literal_form: stone weapons
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: Body markings
+  literal_form: tatooed; painted
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Celtic dialect relationships
+  summary: The passage compares the degree of variation among Gaelic, Irish, Manks,
+    Welsh, and Breton to variation among other European language groups, and states
+    that Gaelic remains broadly intelligible in the Highlands.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Definition of the Celtic clan
+  summary: The passage identifies the west of Scotland people, Irish, Manks, Welsh,
+    and Breton as the Celtic clan and notes that their relations and ancestors are
+    difficult to determine.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Henri Martin's cited historical outline
+  summary: The cited account says the Gael/Gauls overran parts of Europe, belonged
+    to the same stock as several European peoples, originated in Central Asia, and
+    were warlike, tattooed, painted, and armed with stone weapons.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the variation among Gaelic, Irish, and Manks
+    to the variation among Norse, Swedish, and Danish.
+  claim_level: linguistic_similarity
+  target: Norse, Swedish, and Danish
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a linguistic analogy in an introduction, not a mythic motif
+    comparison.
+- id: claim:2
+  claim: The passage explicitly compares the relation of Welsh and Breton to the rest
+    of the Celtic dialects with the relation of German and Dutch to the Scandinavian
+    languages.
+  claim_level: linguistic_similarity
+  target: German and Dutch in relation to Scandinavian languages
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a language-family analogy only; it does not establish a narrative
+    or symbolic motif.
+- id: claim:3
+  claim: The cited historical account states that the Gael/Gauls were of the same
+    stock as Germans, Latins, Greeks, and Slavonians.
+  claim_level: common_inheritance
+  target: Germans, Latins, Greeks, and Slavonians
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports a 19th-century historical claim without independent
+    corroboration in this excerpt; it is not a mythological inheritance claim.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4239-4248
+  quote_or_summary: '"Gaelic, Irish, and Manks vary from each other about as much
+    as Norse, Swedish, and Danish. Welsh and Breton vary from the rest about as much
+    as German and Dutch do from the Scandinavian languages."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 4253-4258
+  quote_or_summary: '"one who knows Gaelic well, can make himself understood throughout
+    the Highlands"'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 4259-4262
+  quote_or_summary: '"These, then, form the Celtic clan, the people of the west of
+    Scotland, the Irish, the Manks, the Welsh, and the Breton."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 4262-4265
+  quote_or_summary: '"Who their relations are, and who their ancestors, are questions
+    not easily answered"'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 4268-4271
+  quote_or_summary: '"According to Henri Martin, the French historian... Central Europe,
+    France, and Spain, were once overrun by a race calling themselves Gael, and best
+    known as Gauls."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 4271-4274
+  quote_or_summary: '"This people is generally admitted to have been of the same stock
+    as Germans, Latins, Greeks, and Slavonians, and to have started from Central Asia
+    at some unknown epoch."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 4274-4276
+  quote_or_summary: '"They are supposed to have been warlike, to have been tatooed
+    like modern New Zealanders, and painted like North American Indians, to have been
+    armed with stone weapons"'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; short excerpt.
+- id: ev:8
+  type: citation
+  locator: footnote at line 4276
+  quote_or_summary: Footnote cites Henri Martin's Histoire de France, 1835.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain; bibliographic citation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is expository historical-linguistic prose rather than a tale
+    episode. No mythic motif candidates were extracted; comparison claims are limited
+    to explicit linguistic or historical comparisons in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned, because the passage does not present a mythic narrative motif and its literal objects/places are not among the supplied symbol taxonomy references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l4239-l4276
+  passage_sha256=12d5b1e70c61b77a438d67175115e4e40a419421f98776ffe58dc7f6da1e9bc0
+

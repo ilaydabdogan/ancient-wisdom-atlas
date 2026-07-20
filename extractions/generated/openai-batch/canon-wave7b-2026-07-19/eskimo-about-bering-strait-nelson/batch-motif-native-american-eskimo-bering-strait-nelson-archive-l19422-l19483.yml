@@ -1,0 +1,508 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l19422-l19483
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: MORTUARY    CUSTOMS / MORTUARY    CUSTOMS / THE    ESKIMO    ABOUT    BERING    STRAIT
+    / MORTUARY    CUSTOMS; lines 19422-19483
+  start: '19422'
+  end: '19483'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes mortuary practices involving a wooden grave box,
+    cutting the cords binding the body so the shade may return and occupy it, four
+    days of household restrictions while the shade is believed to remain nearby, precautions
+    against the shade occupying places or being injured, mourning hair cutting, and
+    grave boxes with a pole bearing a cup and spoon in a Yukon delta graveyard.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Before the body is placed in the box, the cords binding it are cut, with the
+    stated reason that the shade may return, occupy the body, and move about if necessary.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Grave boxes in the described vicinity are made of hewn slabs or planks, squared
+    at the ends, supported from below, and often furnished with corner posts extending
+    above the box.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Relatives do not touch the body; the mortuary handling is done by others.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Housemates of the deceased must remain in their accustomed places in the house
+    during the four days after death while the shade is believed to be nearby.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: During this period, housemates keep fur hoods drawn over their heads to prevent
+    the shade's influence from entering their heads and killing them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After the body is removed, the deceased person's sleeping place is swept clean
+    and piled with bags and other things so that no room remains for the shade to
+    return and reoccupy it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The two persons who slept on either side of the deceased must not leave their
+    places; if a place is vacant, the shade might occupy it and bring sickness or
+    death to the original owner or to household inmates.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The deceased person's housemates are not permitted to go outside during the
+    four days following the death.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The deceased person's nearest relatives cut their hair short along the forehead
+    as a sign of mourning.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: During the four days that the shade is thought to remain with the body, relatives
+    may not use sharp-edged or pointed instruments for fear of injuring the shade,
+    making it angry, and bringing misfortune.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: An old man is reported as saying that if relatives cut anything with a sharp
+    instrument during this period, it would be as though one had cut one's own shade
+    and would die.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: In a Yukon delta graveyard, a newly made heavy plank grave box painted red
+    was seen above an older box for a member of the same family, supported by the
+    same corner posts.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:13
+  text: A pole erected before the grave had a cup and a spoon attached to it.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: deceased person/body
+  description: The body is bound, placed in a box, and associated with a former sleeping
+    place in the house.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: shade of the deceased
+  description: The shade is said or believed to return and occupy the body, remain
+    about or with the body for four days, and potentially cause sickness, death, or
+    misfortune if it enters heads, occupies places, or is injured.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: relatives of the deceased
+  description: Relatives do not touch the body, nearest relatives cut their hair in
+    mourning, and relatives avoid sharp or pointed instruments during the four-day
+    period.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: housemates of the deceased
+  description: Housemates remain in accustomed places, keep fur hoods over their heads,
+    and do not go outside during the four days after death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: non-relative body handlers
+  description: Persons other than relatives perform the work involving the body.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: two adjacent sleepers
+  description: The two persons who slept with the deceased on either side are specifically
+    required not to leave their places.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: old man informant
+  description: An old man is reported as explaining the danger of cutting with a sharp
+    instrument during the four-day period.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mortuary subject
+  assigned_to:
+  - fig:1
+  basis: The passage centers on preparing and placing the body in a grave box and
+    managing its former sleeping place.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: lingering and potentially harmful shade
+  assigned_to:
+  - fig:2
+  basis: The shade is believed to remain nearby for four days, return to places or
+    the body, and cause sickness, death, or misfortune under certain conditions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: mourning relatives under restrictions
+  assigned_to:
+  - fig:3
+  basis: Relatives avoid touching the body, cut hair in mourning, and observe a sharp-instrument
+    taboo.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: sequestered housemates
+  assigned_to:
+  - fig:4
+  basis: Housemates remain in place, keep hoods over their heads, and stay indoors
+    for four days.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: body-handling workers
+  assigned_to:
+  - fig:5
+  basis: The work involving the body is done by others rather than relatives.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: adjacent sleepers who must keep their places
+  assigned_to:
+  - fig:6
+  basis: The two people who slept on each side of the deceased are forbidden to leave
+    their places.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: reported elder or informant
+  assigned_to:
+  - fig:7
+  basis: The passage cites an old man's statement explaining the danger of cutting
+    during the taboo period.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: shade
+  literal_form: shade of the deceased
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: grave box
+  literal_form: wooden or plank grave box for the body
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: cut binding cords
+  literal_form: cords binding the body are cut before placement in the box
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: four-day post-death period
+  literal_form: four days after death when the shade is believed to remain with or
+    near the body
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: fur hoods over heads
+  literal_form: fur hoods drawn over the heads of housemates
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: filled sleeping place
+  literal_form: the deceased person's sleeping place swept clean and piled with bags
+    and other things
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: mourning haircut
+  literal_form: hair cut short along the forehead
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: sharp or pointed instruments
+  literal_form: sharp-edged or pointed instruments avoided by relatives
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: grave pole with cup and spoon
+  literal_form: a pole erected before the grave with a cup and spoon attached
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preparing the body and grave box
+  summary: The body is prepared for placement in a wooden grave box; cords binding
+    it are cut so the shade may return and occupy it, and non-relatives handle the
+    body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Four-day household restrictions
+  summary: While the shade is believed to remain nearby, housemates stay in place
+    with hoods over their heads, the deceased's sleeping place is filled, adjacent
+    sleepers remain where they are, the household stays indoors, and nearest relatives
+    cut their hair in mourning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Sharp-instrument taboo
+  summary: Relatives avoid sharp or pointed instruments during the four-day period
+    because cutting is believed to injure the shade, anger it, or cause death and
+    misfortune; an old man is cited as explaining this danger.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:8
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Yukon delta graveyard objects
+  summary: A red-painted plank grave box is observed above an older family box, and
+    a pole before the grave bears a cup and spoon.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:9
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Shade returns to occupy the body
+  taxonomy_refs:
+  - return
+  basis: The body-binding cords are cut so that the shade may return, occupy the body,
+    and move about if necessary.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not describe resurrection; the taxonomy link is limited
+    to the literal return of the shade.
+- id: motif:2
+  label: Four-day lingering presence of the dead
+  taxonomy_refs: []
+  basis: The shade is repeatedly described as believed to remain about or with the
+    body for four days, during which household and relatives observe restrictions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a local descriptive motif candidate; no external comparison is
+    made.
+- id: motif:3
+  label: Household precautions against harmful returning shade
+  taxonomy_refs:
+  - return
+  basis: Hoods, filled sleeping places, fixed sleeping positions, and staying indoors
+    are all described as precautions against the shade's influence or return to a
+    vacant place, which could bring sickness or death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a returning-shade pattern but does not connect it
+    to a broader comparative tradition.
+- id: motif:4
+  label: Sharp-instrument taboo after death
+  taxonomy_refs: []
+  basis: Relatives avoid sharp or pointed instruments during the four days because
+    injuring the shade could anger it and bring misfortune; one explanation likens
+    cutting during this time to cutting one's own shade.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: ''
+- id: motif:5
+  label: Mourning by hair cutting
+  taxonomy_refs: []
+  basis: Nearest relatives cut their hair short along the forehead as a sign of mourning.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: ''
+- id: motif:6
+  label: Grave box and grave-side utensils
+  taxonomy_refs: []
+  basis: The passage describes wooden grave boxes, including a red-painted elevated
+    box, and a pole before the grave with a cup and spoon attached.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the meaning or function of the cup and spoon.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19426-19429
+  quote_or_summary: Before the body is placed in the box, the cords binding it are
+    cut so that the shade may return, occupy the body, and move about if necessary.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summary permitted.
+- id: ev:2
+  type: summary
+  locator: lines 19431-19440
+  quote_or_summary: Grave boxes are described as hewn slabs or planks with supports
+    and often corner posts; relatives do not touch the body; housemates remain in
+    place for four days and wear hoods to prevent the shade's influence from entering
+    their heads and killing them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summary permitted.
+- id: ev:3
+  type: summary
+  locator: lines 19440-19459
+  quote_or_summary: After the body is removed, the sleeping place is filled so the
+    shade cannot reoccupy it; adjacent sleepers must not leave their places; housemates
+    remain indoors for four days; nearest relatives cut their hair in mourning.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summary permitted.
+- id: ev:4
+  type: summary
+  locator: lines 19461-19468
+  quote_or_summary: During the four days that the shade is thought to remain with
+    the body, relatives avoid sharp or pointed instruments for fear of injuring the
+    shade and bringing anger or misfortune; an old man says cutting then is like cutting
+    one's own shade and would cause death.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summary permitted.
+- id: ev:5
+  type: summary
+  locator: lines 19470-19476
+  quote_or_summary: Near the upper Yukon delta, a new red-painted plank grave box
+    was seen above an older family box, supported by the same corner posts; a pole
+    before the grave had a cup and spoon attached.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source metadata; summary permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear for literal extraction. Motif labels are descriptive
+    and local. The only taxonomy reference used is the literal return of the shade
+    and should be reviewed. No comparison claims were extracted because the passage
+    itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Ethnographic mortuary-customs passage. Interpretive fields are limited to descriptive motif candidates grounded in the provided passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l19422-l19483
+  passage_sha256=1c40466ba108fa02d5891fd9024475140aa9a88ae75e8a8c5c3b06c0fa5e8b0c
+

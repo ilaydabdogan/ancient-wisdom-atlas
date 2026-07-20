@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l36561-l36614
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: AND KIGIITEOUSNKSS. / THE WORKS OF MENCTUS / CH. 10. THAT CONFUCIUS KEPT
+    / SUPREME PURSUIT OF THE GREAT; lines 36561-36614
+  start: '36561'
+  end: '36614'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    There is a spring of water;
+    how it gushes out! It rests not day nor night.
+  summary: The supplied range includes translator/commentator notes and then an excerpt
+    in which the disciple Seu asks why Chungne often praised water. Mencius answers
+    by describing spring-fed water that gushes continuously, fills holes, and flows
+    toward the four seas, then begins a contrast with water that has no spring.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The disciple Seu says that Chungne often praised water and asks what Chungne
+    found in water to praise.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mencius replies by describing a spring of water that gushes out and does not
+    rest day or night.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mencius says the spring-fed water fills every hole and then advances, flowing
+    on to the four seas.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mencius states that this spring-fed quality was what Chungne found praiseworthy
+    in water.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mencius begins a contrast by supposing water without a spring and mentioning
+    rain in the seventh and eighth months; the supplied passage ends before the explanation
+    is completed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Seu
+  description: A disciple who asks Mencius why Chungne praised water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Chungne
+  description: A figure said by Seu to have often praised water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Mencius
+  description: The respondent who explains what was praiseworthy in spring-fed water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: disciple questioner
+  assigned_to:
+  - fig:1
+  basis: Seu is identified as a disciple and asks what Chungne found in water to praise.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: praiser of water
+  assigned_to:
+  - fig:2
+  basis: Seu says Chungne often praised water, and Mencius states what Chungne found
+    praiseworthy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: teacher-interpreter
+  assigned_to:
+  - fig:3
+  basis: Mencius answers the question by interpreting the quality of spring-fed water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water praised by Chungne; described by Mencius as spring-fed water
+    and contrasted with water having no spring.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: spring
+  literal_form: A spring of water that gushes out and does not rest day or night.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: four seas
+  literal_form: The four seas toward which the water advances after filling every
+    hole.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Question about Chungne's praise of water
+  summary: Seu asks Mencius what Chungne found in water to praise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of spring-fed water
+  summary: Mencius describes spring-fed water as gushing without rest, filling holes,
+    and flowing on to the four seas; he then begins to contrast it with water lacking
+    a spring.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Praiseworthy water as instructional image
+  taxonomy_refs:
+  - wisdom
+  basis: 'The passage presents a teaching exchange in which water is praised for qualities
+    explained by Mencius: spring-fed continuity, filling every hole, and advancing
+    to the four seas.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is philosophical rather than mythic, and the supplied passage
+    is incomplete at the point where Mencius contrasts water without a spring.
+- id: motif:2
+  label: Source-fed flow as valued constancy
+  taxonomy_refs: []
+  basis: Mencius emphasizes that water with a spring gushes continuously and does
+    not rest day or night, then contrasts it with water without a spring.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The moral or symbolic meaning of the contrast is only partly available
+    because the passage cuts off during the comparison.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 36591-36594 within supplied range
+  quote_or_summary: The disciple Seu said, "Chungne often praised water, saying, '0
+    water! 0 water!' What did he find in water to praise?"
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 36596-36600 within supplied range
+  quote_or_summary: Mencius replied, "There is a spring of water; how it gushes out!
+    It rests not day nor night."
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 36600-36606 within supplied range
+  quote_or_summary: '"It fills up every hole, and then advances, flowing on to the
+    four seas. Such is water having a spring! It was this which he found in it to
+    praise."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 36608-36614 within supplied range
+  quote_or_summary: Mencius begins a contrast with water having no spring and mentions
+    rain in the seventh and eighth months; the supplied text breaks off before the
+    point is completed.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main water passage is clear, but the supplied range includes OCR noise, surrounding
+    commentary, and an incomplete ending. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction focuses on the Chapter XVIII water passage within the supplied range; preceding translator/commentator notes are not treated as motif scenes.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l36561-l36614
+  passage_sha256=1db1b8440772fe64cc15335debba7c5e1b32efd4cfed7760c53be093ad1930c3
+

@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.arctic-inuit-across-arctic-america-rasmussen-archive-l7458-l7495
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+passage_locator:
+  label: CHAPTER XXVI / CLIFF-DWELLERS OF THE ARCTIC / NOTICE / AVLAQANA,; lines 7458-7495
+  start: '7458'
+  end: '7495'
+  translation: 'Across Arctic America: Narrative of the Fifth Thule Expedition'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage compares Alaskan Eskimo material culture with other Arctic
+    groups, describes hunting adaptations, notes possible development around the Bering
+    Sea, and discusses contact with Tlingit and other North-west Indians. It cautiously
+    states that some legends, especially raven myths, along with mask cults and festival
+    ceremonies, may reflect influence from neighboring cultures, while leaving the
+    problem for future research.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Alaskan Eskimo material culture resembles that of
+    Point Barrow, Point Hope, and inland river groups, with local adaptations.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ice hunting is described as secondary in these regions, while sea hunting
+    is described as the staple form developed to a high degree.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Seal netting is described as an important feature, using nets made from thin
+    strips of sealskin placed in narrow ice openings near open water.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says Eskimo methods were probably developed on the shores of the
+    Bering Sea, but whether by the natives alone or with outside influence cannot
+    be determined with certainty.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage identifies Tlingit and other northern North-west Indians as neighboring
+    peoples in the southern contact area.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that Eskimos may have learned something from their neighbors,
+    especially in some legends, raven myths, mask cults, and festival ceremonies.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage concludes that future research is needed to investigate the problems
+    raised.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Alaskan Eskimos
+  description: The cultural group discussed as resembling other Arctic peoples while
+    showing local adaptations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Point Barrow, Point Hope, and inland river natives
+  description: Groups used as comparanda for Alaskan Eskimo material culture.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tlingit and other northern North-west Indians
+  description: Neighboring groups in the southern contact area, described as having
+    a highly developed culture based on similar hunting forms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Raven
+  description: Named only as the subject of raven myths; no narrative role is described
+    in this passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: discussed cultural group
+  assigned_to:
+  - fig:1
+  basis: The passage discusses Alaskan Eskimo culture, hunting methods, territorial
+    range, and possible borrowed customs.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: cultural comparanda
+  assigned_to:
+  - fig:2
+  basis: These groups are cited to describe similarities in material culture.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: neighboring contact culture
+  assigned_to:
+  - fig:3
+  basis: The passage says the Eskimos encountered these neighboring groups and may
+    have learned some legends and customs from them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: myth subject
+  assigned_to:
+  - fig:4
+  basis: The passage names raven myths as a category of legend but does not narrate
+    them.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: seal nets
+  literal_form: Nets made from thin strips of sealskin placed in narrow openings of
+    level ice near open water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: masks
+  literal_form: Masks associated with a cult and festival ceremonial practices.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: raven myths
+  literal_form: Legends described as raven myths.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Comparison of Alaskan Eskimo material culture and hunting practices
+  summary: The passage compares Alaskan Eskimo culture with other Arctic groups and
+    describes local hunting adaptations, including seal netting and sea hunting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Southern contact zone and possible cultural borrowing
+  summary: The passage describes the southern range of the Eskimos, their encounter
+    with Tlingit and other North-west Indians, and possible borrowing of legends,
+    raven myths, mask cults, and festival ceremonies.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Raven myths in a cultural contact zone
+  taxonomy_refs: []
+  basis: The passage explicitly singles out raven myths among legends that may have
+    been learned from neighboring groups.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not recount a raven myth or describe Raven's actions,
+    so no specific raven motif or trickster function can be assigned.
+- id: motif:2
+  label: Mask cult and festival ceremonial complex
+  taxonomy_refs: []
+  basis: The passage identifies the cult of masks and complicated festival ceremonial
+    as customs possibly connected with neighboring influence and especially developed
+    in southern regions.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives no details about mask forms, ritual sequence, mythic
+    associations, or meanings.
+- id: motif:3
+  label: Cultural transmission of legends and ritual practices
+  taxonomy_refs: []
+  basis: The passage cautiously proposes that Eskimos may have learned some legends
+    and customs from neighboring Tlingit and other North-west Indians.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage itself frames the issue cautiously and says further investigation
+    is needed.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously links some Eskimo legends and customs, especially
+    raven myths, mask cults, and festival ceremonies, with neighboring Tlingit and
+    North-west Indian traditions.
+  claim_level: historical_contact
+  target: Tlingit and northern North-west Indian neighboring traditions
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The passage does not provide a narrated myth, detailed ritual evidence,
+    or a demonstrated transmission pathway; it explicitly leaves broader problems
+    for future research.
+- id: claim:2
+  claim: The passage suggests a possible shared or transmitted ceremonial pattern
+    involving masks and festivals in the southern contact area.
+  claim_level: same_function
+  target: Mask cults and complicated festival ceremonials among Eskimos and neighboring
+    North-west Indian groups
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: low
+  limitations: The functional similarity is inferred only from the author's brief
+    comparative statement; no ritual functions are described.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7458-7467
+  quote_or_summary: Alaskan Eskimo material culture is said to resemble that of Point
+    Barrow, Point Hope, and inland river peoples, while also adapting to local conditions;
+    ice hunting is secondary and sea hunting is important.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 7468-7473
+  quote_or_summary: Seal netting is described as important, with nets made from thin
+    strips of sealskin placed in narrow ice openings near open water.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: 7473-7477
+  quote_or_summary: Sea hunting is described as highly developed; Eskimo methods are
+    said to have probably developed on Bering Sea shores, though possible outside
+    influence cannot be determined with certainty.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 7478-7485
+  quote_or_summary: The passage describes the southern territorial range of the Eskimos
+    and notes that Tlingit and other northern North-west Indians lived in the same
+    broader contact area.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: quote
+  locator: 7485-7491
+  quote_or_summary: '"they may have learned something from their neighbors" in legends,
+    "especially the raven myths," as well as the cult of masks and festival ceremonial.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:6
+  type: summary
+  locator: 7492-7495
+  quote_or_summary: The passage states that future work should investigate more closely
+    the problems raised.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is largely ethnographic and comparative rather than myth-narrative.
+    Motif extraction is limited to explicitly mentioned raven myths, masks, festival
+    ceremonies, and cultural-contact claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family was assigned because the passage does not describe Raven as a trickster or provide enough detail to map masks or ceremonies to a specific listed motif family.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:arctic-inuit-across-arctic-america-rasmussen-archive__l7458-l7495
+  passage_sha256=cdf965687f91330167b9c1a98e508afc926e312658f83ff6e38ddefcdb89be90
+

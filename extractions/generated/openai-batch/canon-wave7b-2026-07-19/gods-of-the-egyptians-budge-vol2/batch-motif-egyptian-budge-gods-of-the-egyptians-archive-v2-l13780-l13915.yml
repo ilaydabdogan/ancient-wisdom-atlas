@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l13780-l13915
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: SORROWS   OF   ISIS  229 / SORROWS   OF   ISIS / I,  G / SORROWS    OF   ISIS;
+    lines 13780-13915
+  start: '13780'
+  end: '13915'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragment from the 'Sorrows of Isis' refers to a house, incense trees,
+    Annu, and the House of Net. A figure called the brother of the Abt Fish and disposer
+    of what is to be is said to be nursed by a cat. Rert, Hat, and Bes protect the
+    addressee's limbs; the addressee's head will not fall before a hostile one, and
+    the fire of the addressee's poison will not conquer the limbs.
+  language: English with Egyptian transliteration and OCR artifacts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage refers to a house, incense trees, and Annu.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A figure is described as the brother of the Abt Fish and as the disposer of
+    what is to be.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same described figure is said to be nursed by a cat within the House of
+    Net.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rert, Hat, and Bes are named together as protecting the addressee's limbs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The text says the addressee's head shall not fall before one hostile to the
+    addressee.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The text says the fire of the addressee's poison shall not conquer the addressee's
+    limbs.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The text says the addressee shall not fall on the ground.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Addressee, 'thou'
+  description: Second-person figure whose limbs and head are protected and whose poison
+    is mentioned.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Brother of the Abt Fish / disposer of what is to be
+  description: A figure described as the brother of the Abt Fish and the disposer
+    of what is to be, and as nursed by a cat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Cat within the House of Net
+  description: A cat within the House of Net that nurses the described figure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Rert
+  description: Named with Hat and Bes as one who protects the addressee's limbs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Hat
+  description: Named with Rert and Bes as one who protects the addressee's limbs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Bes
+  description: Named with Rert and Hat as one who protects the addressee's limbs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Hostile one
+  description: A hostile figure before whom the addressee's head shall not fall.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Abt Fish
+  description: A named fish mentioned as the kin-referent of the figure called its
+    brother.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: protected addressee
+  assigned_to:
+  - fig:1
+  basis: The addressee's limbs and head are protected by named figures and by negated
+    threats.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: nursed determinative figure
+  assigned_to:
+  - fig:2
+  basis: The figure is called the disposer of what is to be and is said to be nursed
+    by a cat.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: nursing animal
+  assigned_to:
+  - fig:3
+  basis: The cat is the being by whom the described figure is nursed.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: protectors of limbs
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Rert, Hat, and Bes are named as protecting the addressee's limbs.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: hostile opponent
+  assigned_to:
+  - fig:7
+  basis: The text identifies a being hostile to the addressee.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: kin-referent
+  assigned_to:
+  - fig:8
+  basis: The Abt Fish is mentioned in the phrase 'brother of the Abt Fish.'
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Incense trees
+  literal_form: incense trees
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Cat
+  literal_form: cat within the House of Net
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Abt Fish
+  literal_form: Abt Fish
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Fire of poison
+  literal_form: fire of thy poison
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Reference to house, trees, and Annu
+  summary: The fragment situates or invokes a house, incense trees, and Annu, though
+    the syntax is damaged by layout and OCR artifacts.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Nursing in the House of Net
+  summary: A figure called the brother of the Abt Fish and disposer of what is to
+    be is nursed by a cat within the House of Net.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Protection of the addressee's body
+  summary: Rert, Hat, and Bes protect the addressee's limbs; the addressee's head
+    is not to fall before a hostile one, the fire of the addressee's poison is not
+    to conquer the limbs, and the addressee is not to fall to the ground.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Named protectors preserve the addressee's body
+  taxonomy_refs: []
+  basis: Three named figures are invoked to protect the limbs, while threats to the
+    head, limbs, and bodily stability are negated.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is fragmentary; the larger ritual context is not included.
+- id: motif:2
+  label: Nursing by an animal in a sacred house
+  taxonomy_refs: []
+  basis: A figure described by kinship and determinative language is said to be nursed
+    by a cat within the House of Net.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The identity of the nursed figure and the ritual meaning of the cat are
+    not clear from the excerpt alone.
+- id: motif:3
+  label: Protection from poisonous fire
+  taxonomy_refs: []
+  basis: The text states that the fire of the addressee's poison shall not conquer
+    the addressee's limbs.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The phrase is preserved in a fragmentary context, and no serpent or other
+    source of poison is named in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13780-13915
+  quote_or_summary: The fragment refers to a House, incense trees, and Annu.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 13780-13915
+  quote_or_summary: '"the brother of the Abt Fish, the disposer of what is to be,
+    nursed by the cat within the House of Net"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 13780-13915
+  quote_or_summary: '"Rert, and Hat, and Bes, protect thy limbs"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 13780-13915
+  quote_or_summary: '"Not shall fall thy head before him that is hostile to thee"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 13780-13915
+  quote_or_summary: '"Not shall conquer thy limbs the fire of thy poison"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 13780-13915
+  quote_or_summary: '"Not shalt thou fall on the ground"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the fragmentary passage and OCR/layout artifacts.
+    Literal phrases about nursing, protection, hostile threat, poison, and fire are
+    clear enough for draft-level motif extraction; no external comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were assigned only to literal symbols explicitly present in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l13780-l13915
+  passage_sha256=7aa5a95f637a3f8b4664bfa15b0e63d50b71fb2ce560f2c052d4aa171bdd95da
+

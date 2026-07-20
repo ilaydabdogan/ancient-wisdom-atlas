@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l1097-l1150
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: THE ENVIRONMENT / PT. I / THE KAFUE RIVER AT MWENGWA. / THE TLA-SPEAKING
+    PEOPLES; lines 1097-1150
+  start: '1097'
+  end: '1150'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a river landscape around the Kafue, including villages,
+    bridge, banks, rapids, tortuous canoe travel, Ba-ila settlement range, Batwa river-bank
+    villages, swamp and fishing associations, and grazing available after waters recede.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a river landscape with hills, trees, native villages,
+    the Kafue railway bridge, precipitous uninhabited banks, waterfalls, and rapids.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The river's course through the plain is described as highly tortuous, with
+    canoes sometimes facing every point of the compass.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The water route is given as three hundred miles, while a straight line of
+    one hundred and fifty miles is said to cover the country occupied by the Ba-ila.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Ba-ila villages and lands are described as extending about twenty or thirty
+    miles to both the south and north of the river.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Numerous river-bank villages are described as built of mealie stalks, reeds,
+    and grass.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The river-bank villages are described as occupied by the Batwa.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage characterizes the Batwa as at home among swamps and as skilled
+    watermen and fishermen.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The largest Ba-ila villages are described as having ready access to rich grazing
+    that appears after the waters recede.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage states that the Batwa were especially reluctant to accept European
+    administration in this area.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ba-ila
+  description: People whose occupied country, villages, and lands are described in
+    relation to the river; their largest villages are associated with access to grazing
+    after waters recede.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Batwa
+  description: People described as occupying river-bank villages, at home among swamps,
+    and skilled as watermen and fishermen.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: people occupying river-adjacent country
+  assigned_to:
+  - fig:1
+  basis: The passage says a straight-line distance covers the country occupied by
+    the Ba-ila and that their villages and lands extend north and south of the river.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: river-bank village occupants
+  assigned_to:
+  - fig:2
+  basis: The passage says the river-bank villages are occupied by the Batwa.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: swamp-adapted watermen and fishermen
+  assigned_to:
+  - fig:2
+  basis: The passage describes the Batwa as at home in swamps and admired for prowess
+    as watermen and fishermen.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: settlers with access to post-recession grazing
+  assigned_to:
+  - fig:1
+  basis: The passage links the largest Ba-ila villages with ready access to grazing
+    after waters recede.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: river and water landscape
+  literal_form: river, waterfalls, rapids, swamps, and receding waters
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: River course through the plain
+  summary: The river passes villages and the Kafue railway bridge, then continues
+    through precipitous banks, waterfalls, and rapids; its course through the plain
+    is described as tortuous.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Batwa river-bank settlements
+  summary: River-bank villages built of mealie stalks, reeds, and grass are described
+    as occupied by the Batwa, who are linked with swamps, watermanship, and fishing.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Ba-ila villages and receding-water grazing
+  summary: The largest Ba-ila villages are described as commanding ready access to
+    grazing that springs up after the waters recede.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: riverine travel and settlement axis
+  taxonomy_refs: []
+  basis: The passage uses water distance, tortuous canoe travel, river-adjacent Ba-ila
+    lands, Batwa river-bank villages, and Batwa water skills to organize the described
+    landscape around the river.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an environmental and ethnographic pattern, not presented as a
+    mythic or ritual motif in the passage.
+- id: motif:2
+  label: receding waters enabling renewed grazing
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that rich grazing springs up after the waters recede and
+    that the largest Ba-ila villages command ready access to it.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives an ecological sequence only; it does not state a sacred
+    seasonal myth or rite.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1099-1109 within supplied range 1097-1150
+  quote_or_summary: The river is described as leaving hills and trees, passing native
+    villages, and reaching the Kafue railway bridge set amid trees with hills behind
+    it.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:2
+  type: summary
+  locator: lines 1109-1114 within supplied range 1097-1150
+  quote_or_summary: Below the bridge the river has eighty miles to go and passes between
+    precipitous uninhabited banks and over waterfalls and rapids.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:3
+  type: quote
+  locator: lines 1115-1119 within supplied range 1097-1150
+  quote_or_summary: "“The course of the river through the plain is tortuous in the
+    extreme”; the passage adds that a canoe may face every point of the compass."
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:4
+  type: summary
+  locator: lines 1119-1129 within supplied range 1097-1150
+  quote_or_summary: By water the distance is three hundred miles, but a straight line
+    of one hundred and fifty miles covers the Ba-ila country; their villages and lands
+    extend twenty or thirty miles north and south of the river.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:5
+  type: summary
+  locator: lines 1131-1138 within supplied range 1097-1150
+  quote_or_summary: Numerous river-bank villages are said to be made of mealie stalks,
+    reeds, and grass, occupied by the Batwa, and described by the author as reluctant
+    to accept European administration.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:6
+  type: summary
+  locator: lines 1139-1143 within supplied range 1097-1150
+  quote_or_summary: The Batwa are described as at home among swamps and as admired
+    for prowess as watermen and fishermen; the passage also contains negative authorial
+    judgments about their way of life.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:7
+  type: summary
+  locator: lines 1145-1146 within supplied range 1097-1150
+  quote_or_summary: The largest Ba-ila villages are described as commanding ready
+    access to rich grazing that springs up after the waters recede.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain; source metadata allows full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is environmental and ethnographic rather than mythic. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage includes colonial-era evaluative language about the Batwa; this extraction treats such wording as authorial characterization rather than verified description.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l1097-l1150
+  passage_sha256=174955c4d852c80c58e1a236282845f446ed3bdf1022fda4237dc0475c8d5faa
+

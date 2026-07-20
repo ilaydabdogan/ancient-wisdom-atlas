@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l1186-l1245
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: THE TLA-SPEAKING PEOPLES / BRIDGE OVER THE KAFUE RIVER. / PT. I / ON THE
+    KAFUE RIVER.; lines 1186-1245
+  start: '1186'
+  end: '1245'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: it forms a haven of refuge within which the Mala people have often fled
+  summary: 'The passage describes landmarks and seasonal conditions on the Kafue River:
+    Makobo island as a refuge for the Mala people, Ndongola boiling mineral springs,
+    Balumbwa Mountain as another refuge, trees associated with burial or sacrifice,
+    and dry-season winds, rains, blossoms, and flooding flats.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Makobo is described as an island near the Mala district, roughly circular,
+    about five miles in diameter, full of swamps, lagoons, and reed-beds, and surrounded
+    by a river except in the driest season.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Mala people have often fled into Makobo from Matabele and Barotsi foes,
+    taking household goods and swimming valued cattle across.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ndongola consists of boiling mineral springs at the foot of western hills;
+    sulphur is named as a principal constituent, and the springs are esteemed for
+    rheumatic complaints.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Balumbwa Mountain is described as having been used many times as a place of
+    refuge, like the Nambala mountains.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that almost every spot has a tradition of fray and foray,
+    and that most isolated trees mark places of burial or sacrifice.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The dry season from April to September is marked by strong easterly winds
+    carrying ash and dust; before the rains, trees bear blossoms before leaves and
+    the veld produces scented flowers.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Rains begin in October, set in earnestly in December, usually end in March,
+    and the flats generally flood in late February or early March because of heavy
+    rains higher up the Kafue.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mala people
+  description: People of the Mala district who fled to Makobo with household goods
+    and cattle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Matabele
+  description: Named as foes from whom the Mala people fled.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Barotsi
+  description: Named as foes from whom the Mala people fled.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ba-ila
+  description: Named as the people whose headquarters are associated with the district
+    of Mala; the passage adds that they acknowledge no head.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: refuge-seekers
+  assigned_to:
+  - fig:1
+  basis: The Mala people are said to have fled into Makobo for refuge with goods and
+    cattle.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: named foes
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Matabele and Barotsi are named as foes from whom the Mala people fled.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: named population associated with Mala
+  assigned_to:
+  - fig:4
+  basis: The passage identifies Mala as the headquarters of the Ba-ila, with a parenthetical
+    note that they acknowledge no head.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Makobo island refuge
+  literal_form: Island of swamps, lagoons, reed-beds, and enclosing river water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Kafue River and floodwaters
+  literal_form: River and seasonal flooding flats
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: Ndongola mineral springs
+  literal_form: Boiling sulphurous mineral springs
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Balumbwa Mountain refuge
+  literal_form: Mountain used as a refuge
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: isolated trees marking burial or sacrifice
+  literal_form: Isolated trees marking places of burial or sacrifice
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Makobo island refuge
+  summary: Makobo is presented as a river-enclosed island haven where Mala people
+    fled from named foes with goods and cattle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ndongola medicinal springs
+  summary: The passage identifies sulphurous boiling mineral springs at Ndongola and
+    notes their esteem for rheumatic complaints.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: refuge mountain and marked trees
+  summary: Balumbwa Mountain is described as a recurrent refuge, and isolated trees
+    in the district are said to mark burial or sacrifice places.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: seasonal weather, blossoms, rains, and flood
+  summary: The passage describes dry-season winds, pre-rain blossoms and flowers,
+    the onset and end of rains, and flooding flats caused by upstream rainfall.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: island or water-enclosed refuge
+  taxonomy_refs: []
+  basis: Makobo is described as surrounded by river water and used as a haven of refuge
+    by the Mala people.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is presented as geographic and historical-ethnographic information,
+    not as a myth narrative.
+- id: motif:2
+  label: mountain refuge
+  taxonomy_refs: []
+  basis: Balumbwa Mountain is explicitly said to have been used many times as a place
+    of refuge.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a practical refuge function only; it does not state
+    a sacred or cosmic mountain role.
+- id: motif:3
+  label: trees marking burial or sacrifice places
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that most isolated trees mark places of burial or sacrifice.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The statement is brief and does not describe the rites or beliefs connected
+    with the trees.
+- id: motif:4
+  label: medicinal mineral springs
+  taxonomy_refs: []
+  basis: Ndongola's boiling sulphurous springs are said to be esteemed for rheumatic
+    complaints.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage describes therapeutic reputation but does not explicitly identify
+    a mythic or ritual role.
+- id: motif:5
+  label: seasonal dry-rain cycle with blossom and flood
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes the dry season, pre-rain blossoms, the period of rainfall,
+    and annual flooding of flats from upstream rains.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The pattern is environmental and descriptive; no cosmological explanation
+    is given in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Makobo to the Isle of Ely as a counterpart, in
+    context of an island refuge landscape.
+  claim_level: same_function
+  target: Isle of Ely
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No details about the Isle of Ely are supplied in the passage beyond
+    the narrator's comparison; the precise basis of the counterpart claim is only
+    partly inferable from the refuge description.
+- id: claim:2
+  claim: Balumbwa Mountain is compared with the Nambala mountains as sharing a refuge
+    function.
+  claim_level: same_function
+  target: Nambala mountains
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to use as a place of refuge; no other shared
+    features are stated.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1186-1198
+  quote_or_summary: Makobo is introduced near Mala as a rough circular island, about
+    five miles in diameter, with swamps, lagoons, reed-beds, and river enclosure;
+    the narrator calls it a counterpart to the Isle of Ely.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1196-1202
+  quote_or_summary: Makobo is described as a haven where the Mala people often fled
+    from Matabele and Barotsi foes, bringing household goods and swimming valued cattle
+    across.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1203-1210
+  quote_or_summary: Ndongola boiling mineral springs at the foot of western hills
+    are described as sulphurous and esteemed for rheumatic complaints.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1211-1214
+  quote_or_summary: Balumbwa Mountain is named as a landmark used many times, like
+    the Nambala mountains, as a place of refuge.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1215-1219
+  quote_or_summary: The district is said to have many traditions of fray and foray,
+    and most isolated trees mark places of burial or sacrifice.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1220-1237
+  quote_or_summary: The passage describes an equable climate, dry-season easterly
+    winds carrying ash and dust, and a pre-rain period when trees blossom before leaves
+    and the veld produces scented flowers.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1238-1245
+  quote_or_summary: Rains begin in October, strengthen in December, usually end in
+    March, and the flats flood in late February or early March because of heavy rains
+    higher up the Kafue.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive ethnography/geography with explicit refuge, burial/sacrifice,
+    medicinal spring, and seasonal patterns. Motif classification is cautious because
+    little myth narrative or ritual explanation is given.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy references were limited to available refs directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l1186-l1245
+  passage_sha256=1076e899def7570d09b5fe9b6c7f422b39bdcc750de7d66688728d0f83a76f33
+

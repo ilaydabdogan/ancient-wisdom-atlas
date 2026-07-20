@@ -1,0 +1,231 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l32662-l32673
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: LIMITATIONS OF THE TABOO. / NATURE, ACTION, AND USE OF THE TABOO. / TABOO
+    SIGNS. / DEATH TABOOS.; lines 32662-32673
+  start: '32662'
+  end: '32673'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“your father is dead”"
+  summary: The passage describes customary taboos associated with death, including
+    avoidance of the names of the dead and the insulting force of saying that a person's
+    father or fathers are dead, a phrase used as a challenge intended to provoke a
+    fight.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Death is associated with many customary taboos and subsequent ceremonies,
+    which the author says are discussed elsewhere.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author states that there is a taboo on the names of the dead and says
+    it appears connected with Totemism.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mentioning the name of a dead relative is described as highly insulting, especially
+    when the relative belongs to a foreign clan.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Saying the phrase glossed as “your father is dead” is described as an outrage
+    whether or not the addressee's father is actually dead.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A plural form glossed as “your fathers are dead” is said to be shouted as
+    a challenge when someone wants to bring on a fight.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: dead relative
+  description: A deceased relative whose name should not be mentioned under the described
+    taboo.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: addressee
+  description: The person to whom the insulting death phrase may be spoken.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: father or fathers of the addressee
+  description: The addressee's father or fathers are named in the insulting formula,
+    whether actually dead or not.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: challenger
+  description: An implied speaker who shouts the death formula when desiring to provoke
+    a fight.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: tabooed dead person
+  assigned_to:
+  - fig:1
+  basis: The passage describes a taboo on the names of the dead and says mentioning
+    a dead relative's name is highly insulting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: insulted addressee
+  assigned_to:
+  - fig:2
+  basis: The death phrase is spoken to a person and is treated as an outrage to that
+    person.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: kin invoked in insult
+  assigned_to:
+  - fig:3
+  basis: The formula specifically refers to the addressee's father or fathers as dead.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: provoker of fight
+  assigned_to:
+  - fig:4
+  basis: The phrase is said to be shouted when it is desired to bring on a fight.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Death-name taboo and insult
+  summary: The passage states that the names of the dead are taboo and that speaking
+    of a dead relative's name, especially from a foreign clan, is insulting.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Death formula as fight challenge
+  summary: A speaker uses a phrase declaring the addressee's father or fathers dead;
+    the phrase is described as an outrage and as a shouted challenge used to provoke
+    fighting.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: taboo on names of the dead
+  taxonomy_refs: []
+  basis: The passage explicitly identifies a taboo on the names of the dead and treats
+    utterance of such names as socially dangerous or insulting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage points to fuller treatment elsewhere, so this line range gives
+    only a brief statement of the taboo.
+- id: motif:2
+  label: death speech as ritualized insult or challenge
+  taxonomy_refs: []
+  basis: The passage says that declaring the addressee's father or fathers dead is
+    an outrage and may be shouted specifically to bring on a fight.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes social use of a phrase, not a narrative myth episode.
+- id: motif:3
+  label: death taboo linked with clan or totemic relations
+  taxonomy_refs: []
+  basis: The author says the taboo on names of the dead seems connected with Totemism
+    and notes heightened insult in relation to a foreign clan.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The connection to Totemism is reported briefly and tentatively by the
+    author within this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32662-32664
+  quote_or_summary: Many customary taboos associated with death and the ceremonies
+    following it are noted and referred to another chapter.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 32665-32667
+  quote_or_summary: The author refers to a taboo on the names of the dead and says
+    it seems connected with Totemism.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 32667-32669
+  quote_or_summary: Mentioning the name of a dead relative, especially of a foreign
+    clan, is described as highly insulting.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 32669-32672
+  quote_or_summary: It is described as an outrage to say “your father is dead,” whether
+    the addressee's father was dead or not.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:5
+  type: quote
+  locator: lines 32672-32673
+  quote_or_summary: The plural phrase glossed as “your fathers are dead” would be
+    shouted as a challenge when someone desired to bring on a fight.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and clear about death-name taboo and provocative death
+    speech, but fuller ritual context is outside the provided line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage concerns death taboos and insulting speech rather than the listed taxonomy motifs or symbols.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l32662-l32673
+  passage_sha256=164040332e6d30e843c087456e500e2b673ccaf496b0b81078d54f010608066b
+

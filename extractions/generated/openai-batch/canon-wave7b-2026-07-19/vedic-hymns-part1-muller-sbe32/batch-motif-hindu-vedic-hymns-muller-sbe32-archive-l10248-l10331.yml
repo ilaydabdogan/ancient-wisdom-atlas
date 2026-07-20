@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l10248-l10331
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. 1, 37, I. 69 / NOTES. 1; 37, 3. 71 / NOTES, I, 37, 5. 73 / NOTES.
+    I, 37, 9. 7?; lines 10248-10331
+  start: '10248'
+  end: '10331'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The note discusses a difficult Vedic verse about the Maruts, interpreting
+    race-course imagery as storm movement across the sky that drives clouds away.
+    It connects the passage with abundant rain, cows walking knee-deep in water, and
+    the phrase that rain is the offspring of the cloud.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note states that the Maruts enlarged or extended the fences of their race-course,
+    and interprets this as sweeping over the whole sky and driving clouds away from
+    all corners.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The term for the race-course boundary is explained as possibly meaning wooden
+    enclosures or wooden turning and winning posts.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage reports and rejects a proposed interpretation in which the Maruts
+    lengthen their songs like paths and march on them on their knees.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note says the result of the race is so much rain that cows walk up to
+    their knees in water; Sayana is cited as saying that water is spread in the courses
+    and cows walk up to their knees to drink.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Verse 11 translations cited in the note describe an unnamed plural subject
+    driving forward a long, broad, rain-retaining cloud.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The note says rain is called the offspring of the cloud, mihé napat, and is
+    then treated as masculine, with comparison to apam napat.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Maruts
+  description: A group associated with the race-course image, interpreted as sweeping
+    over the sky, driving clouds away, and, in Sayana's explanation, spreading water.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Cloud or clouds
+  description: Clouds are driven away from the corners of the sky; a long, broad,
+    rain-retaining cloud is also described in the cited translations.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Cows
+  description: Cows walk up to their knees in water in order to drink after the rain.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Rain, mihé napat
+  description: Rain is described as the offspring of the cloud and is treated as masculine.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: sky-sweeping cloud-dispersers
+  assigned_to:
+  - fig:1
+  basis: The note interprets the Maruts' extension of the race-course fences as sweeping
+    across the whole sky and driving clouds away.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: water-spreaders
+  assigned_to:
+  - fig:1
+  basis: Sayana is cited as saying that they spread water in their courses and cause
+    cows to walk knee-deep to drink.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: rain-retaining source
+  assigned_to:
+  - fig:2
+  basis: The cited translations describe a rain-retaining cloud, and the note calls
+    rain the offspring of the cloud.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: offspring of cloud
+  assigned_to:
+  - fig:4
+  basis: The note explicitly says rain is called the offspring of the cloud, mihé
+    napat.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: drinkers in deep water
+  assigned_to:
+  - fig:3
+  basis: The cows walk up to their knees in water in order to drink.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Water and rainwater
+  literal_form: water, rain, water in the courses
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: Race-course boundaries
+  literal_form: fences, wooden enclosures, or wooden turning and winning posts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Rain-retaining cloud
+  literal_form: long, broad, rain-retaining cloud
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Maruts sweeping across the sky
+  summary: The Maruts' enlargement of race-course boundaries is interpreted as movement
+    across the whole sky that drives clouds away from all corners.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rainwater deep enough for cows
+  summary: After the storm-race, abundant rain leaves water deep enough for cows to
+    walk up to their knees and drink.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Cloud and its offspring rain
+  summary: The cited verse translations describe a rain-retaining cloud, and the note
+    explains rain as the cloud's offspring.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Storm movement as race-course expansion
+  taxonomy_refs: []
+  basis: The Maruts' race-course fences are interpreted as an image of their sweeping
+    movement across the sky and dispersal of clouds.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage repeatedly stresses that the translation and interpretation
+    of the underlying Vedic verse are tentative.
+- id: motif:2
+  label: Abundant rain after divine or storm movement
+  taxonomy_refs: []
+  basis: The note presents the result of the race as heavy rain, with cows walking
+    knee-deep in water to drink.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is a philological note rather than a full narrative; the available
+    taxonomy list has no direct storm-rain motif family.
+- id: motif:3
+  label: Rain as offspring of cloud
+  taxonomy_refs: []
+  basis: The passage explicitly states that rain is called the offspring of the cloud
+    and is treated as masculine.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The note gives a lexical and metaphorical relationship, not an extended
+    parent-child narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious linguistic comparison between the phrase
+    for rain as 'offspring of the cloud' and the expression apam napat.
+  claim_level: linguistic_similarity
+  target: apam napat
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note provides only a brief 'cf.' comparison and does not elaborate
+    a shared narrative, function, or historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10248-10252
+  quote_or_summary: The note says the Maruts enlarged or extended the fences of their
+    race-course, interpreted as sweeping over the whole sky and driving clouds away
+    from all corners.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 10252-10256
+  quote_or_summary: Kéash¢ha is explained as possibly meaning wooden enclosures or
+    wooden poles serving as turning and winning posts.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 10260-10280
+  quote_or_summary: The note reports Bergaigne's interpretation of Maruts lengthening
+    songs like roads and marching on them on their knees, then objects that roads
+    are only a simile and that Maruts are not otherwise remembered as appearing on
+    their knees.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 10296-10301
+  quote_or_summary: 'The last sentence is explained as the result of the race: enough
+    rain falls that cows walk up to their knees in water; Sayana says water is spread
+    in the courses and cows walk up to their knees to drink.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 10303-10312
+  quote_or_summary: Cited translations of Verse 11 describe 'they' driving forward
+    a long, broad or vast rain-retaining cloud.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 10329-10331
+  quote_or_summary: The note says rain is called 'the offspring of the cloud,' mihé
+    napat, and is treated as masculine; it compares this with apam napat.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a philological note that explicitly marks parts of the underlying
+    verse as uncertain. Extraction is limited to the note's stated interpretations
+    and cited translations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No broad cross-cultural comparison is inferred. The only comparison claim recorded is the passage's own brief comparison of mihé napat with apam napat.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l10248-l10331
+  passage_sha256=d2c4b51ae504f0e6328e4ca4cace75a3437550e07164ddc52f561ce4f9243532
+

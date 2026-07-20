@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l22396-l22415
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: SYMBOLIC EARTH FORMATIONS OF THE WINNBBAGO.' / PERSONAL FETICHES. / DANCING
+    SOCIETIES. / THE OTTER DANCING SOCIETY.; lines 22396-22415
+  start: '22396'
+  end: '22415'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces dancing societies and describes the Otter Dancing
+    Society. Members are said to shoot at one another with otter-skin bags, a practice
+    compared to the Wacicka dancing society of the Omaha. Some reports say the bags
+    were waved to infuse the spirit of the otter into a bead, causing participants
+    to be knocked down. Practitioners also professed to keep a small round object
+    in the breast, cough it up before or during the dance, shoot a companion in the
+    neck with it, and swallow their own shell or pebble at the end.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator states that there is probably some connection between the dancing
+    societies and the cults under consideration.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Members of the Otter Dancing Society shot at one another with otter-skin bags.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage compares this custom with one in the Wacicka dancing society of
+    the Omaha.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some reports say the members waved their otter-skin bags to infuse the spirit
+    of the otter into a bead in its mouth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The same reported explanation says that the spirit of the otter knocked participants
+    down.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Each practitioner professed to keep a small round object in his breast and
+    to cough it up before or during the dance.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The small object was used to shoot a companion in the neck, and the person
+    shot then coughed up the mysterious object.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At the end of the dance each member swallowed his own shell or pebble.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: members of the Otter Dancing Society
+  description: Collective members of the order who perform the dance, shoot at one
+    another, cough up objects, and swallow shells or pebbles.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: spirit of the otter
+  description: A reported animal spirit said to be infused into a bead and to knock
+    participants down.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Wacicka dancing society of the Omaha
+  description: A dancing society cited as having a similar custom of members shooting
+    at one another with bags.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: dance-order members and ritual actors
+  assigned_to:
+  - fig:1
+  basis: They are described as members of the order who perform the dance actions.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: reported empowering animal spirit
+  assigned_to:
+  - fig:2
+  basis: Some reports say the spirit of the otter was infused into a bead and caused
+    people to be knocked down.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: comparative society cited by the narrator
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly compares the Otter Dancing Society practice to a custom
+    in the Wacicka dancing society of the Omaha.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ritual shooter and ritual target
+  assigned_to:
+  - fig:1
+  basis: Members are described as shooting at one another; a companion who is shot
+    then coughs up the object.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: otter-skin bags
+  literal_form: otter-skin bags
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: bead in the mouth
+  literal_form: a bead described as being in its mouth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: small round object, shell, or pebble
+  literal_form: small round object; mysterious object; shell or pebble
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Shooting with otter-skin bags
+  summary: Members of the Otter Dancing Society shoot at one another with otter-skin
+    bags; the narrator compares this to a custom of the Wacicka dancing society of
+    the Omaha.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Reported infusion of otter spirit into a bead
+  summary: Some reports say members wave otter-skin bags to infuse the spirit of the
+    otter into a bead, and that this spirit knocks participants down.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Coughing up, shooting, and swallowing the object
+  summary: A practitioner professes to keep a small round object in his breast, cough
+    it up before or during the dance, use it to shoot a companion in the neck, and
+    finally swallow his own shell or pebble at the end of the dance.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal spirit empowered ritual object
+  taxonomy_refs: []
+  basis: The passage reports that otter-skin bags were waved to infuse the spirit
+    of the otter into a bead, and that the otter spirit knocked participants down.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this explanation as something 'some have said,' not
+    as a universally asserted account.
+- id: motif:2
+  label: ritualized shooting among dance members
+  taxonomy_refs: []
+  basis: Members shoot at one another with otter-skin bags, and a practitioner uses
+    a small object to shoot a companion in the neck.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage describes the action but does not explain its full ritual
+    meaning.
+- id: motif:3
+  label: hidden object coughed up and swallowed in ritual performance
+  taxonomy_refs: []
+  basis: Each practitioner professes to keep a small round object in the breast, cough
+    it up before or during the dance, and swallow his own shell or pebble at the end.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The wording 'professed' indicates a claimed ritual action; the passage
+    does not verify the physical mechanism.
+comparison_claims:
+- id: claim:1
+  claim: The Otter Dancing Society practice is presented as comparable to a custom
+    of the Wacicka dancing society of the Omaha in which members shoot at one another
+    with bags.
+  claim_level: same_function
+  target: Wacicka dancing society of the Omaha
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports only a narrow comparison of a specific ritual
+    action; it does not establish historical contact, shared origin, or a complete
+    equivalence between the societies.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22396-22400
+  quote_or_summary: The narrator states that there is probably some connection between
+    these societies and the cults under consideration.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 22406-22408
+  quote_or_summary: Members of the order shot at one another with otter-skin bags;
+    the custom is compared to that of the Wacicka dancing society of the Omaha.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 22408-22411
+  quote_or_summary: Some said the otter-skin bags were waved to infuse the spirit
+    of the otter into a bead in its mouth, and that the otter spirit knocked participants
+    down.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 22411-22415
+  quote_or_summary: Each practitioner professed to keep a small round object in his
+    breast, cough it up before or during the dance, use it to shoot a companion in
+    the neck, and swallow his own shell or pebble at the end.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal ritual sequence is clear, but some explanations are explicitly
+    framed as reports or professions. No supplied taxonomy motif family is directly
+    assigned because the passage does not clearly support one.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy terms were not applied because none directly match the otter, otter-skin bag, bead, shell, or pebble described in the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l22396-l22415
+  passage_sha256=6779ce96aae8a22fec6845e274036fcd0bfc14834bef2acafd31679ba393701e
+

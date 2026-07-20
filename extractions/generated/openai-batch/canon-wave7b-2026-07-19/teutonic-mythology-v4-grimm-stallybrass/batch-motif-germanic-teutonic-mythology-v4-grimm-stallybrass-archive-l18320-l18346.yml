@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l18320-l18346
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SUPERSTITION.  H)45 / SUPERSTITION.  1G47 / SUPERSTITION. / SICKNESSES.  1649;
+    lines 18320-18346
+  start: '18320'
+  end: '18346'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A comparative note collects beliefs and literary examples concerning dreams:
+    first dreams in a new house, true dreams before dawn, dreams on a wedding night,
+    dreams of treasure on a bridge, waking from dreams by crow, cock, or servant at
+    daybreak, and speaking or fighting in dreams.'
+  language: English with cited Germanic, Norse, and Greek phrases
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the first dream in a new house is important.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that dreams before dawn are true and gives examples tied
+    to dawn, daybreak, morning, and after midnight.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One cited dream after midnight concerns the dreamer's thumb festering and
+    the nail being off.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Lilia is said to dream on her wedding night.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A proverbial statement says that the first dream does not deceive and is apt
+    to become true.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage points to a dream of a treasure on a bridge.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A dreamer may be awakened by the cry of a dismal crow, by a cock crowing,
+    or by a servant calling.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Several examples connect waking from a dream with dawn or daybreak.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage cites examples of speaking out of a dream.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage cites a case in which someone fought in a dream.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lenore
+  description: A figure who starts up at dawn from heavy dreams.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Lilia
+  description: A figure who dreams on her wedding night.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed after-midnight dreamer
+  description: A first-person dreamer in a cited example who dreams after midnight
+    that the thumb festers and the nail is off.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: dismal crow
+  description: A crow whose cry wakes someone from a dream.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: cock
+  description: A cock whose crowing wakes or marks the time when day has come.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: servant
+  description: A servant whose calling wakes someone from a dream.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: dreamer
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: These figures are explicitly associated with dreaming or waking from dreams.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: awakener from dream
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The crow, cock, and servant are named as agents whose cry, crowing, or call
+    wakes someone from a dream.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: daybreak marker
+  assigned_to:
+  - fig:5
+  basis: The cock crows in a cited example where it is day.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: first dream in a new house
+  literal_form: a first dream associated with a new house
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pre-dawn or after-midnight dream
+  literal_form: dreams before dawn, toward day, in the morning hour, or after midnight
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wedding-night dream
+  literal_form: a dream on the wedding night
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: treasure on the bridge
+  literal_form: a treasure seen or sought in a dream on a bridge
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dawn awakening sounds
+  literal_form: crow's cry, cock's crow, and servant's call at waking from dream
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: speech out of a dream
+  literal_form: speaking out of a dream
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: combat in a dream
+  literal_form: fighting in a dream
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Portentous first and pre-dawn dreams
+  summary: The passage groups the first dream in a new house with dreams before dawn
+    and statements that such dreams are important or true.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wedding-night dreaming
+  summary: A cited example reports Lilia dreaming on her wedding night, followed by
+    a proverb that the first dream is apt to become true.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Dream of treasure on a bridge
+  summary: The passage cites a separate discussion about dreaming of a treasure on
+    a bridge.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Dream ended by dawn sounds
+  summary: A dreamer is awakened by a crow, cock, or servant, and several cited examples
+    place the waking at dawn or daybreak.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Dream speech and dream combat
+  summary: The passage cites examples of someone speaking out of a dream and someone
+    fighting in a dream.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: true dream before dawn
+  taxonomy_refs: []
+  basis: The passage directly states that dreams before dawn are true and supplies
+    examples linked to dawn, daybreak, morning, and after midnight.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The examples are brief citations rather than full narratives.
+- id: motif:2
+  label: first dream as portent
+  taxonomy_refs: []
+  basis: The first dream in a new house is called important, and a cited saying states
+    that the first dream does not deceive and may come true.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the mechanism or ritual context of the first
+    dream.
+- id: motif:3
+  label: dream at threshold occasion
+  taxonomy_refs: []
+  basis: The passage places significant dreams at a new house, before dawn or after
+    midnight, and on a wedding night.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The threshold framing is inferred from the listed temporal and social
+    occasions; the passage does not state a general theory of liminality.
+- id: motif:4
+  label: dream of treasure on a bridge
+  taxonomy_refs: []
+  basis: The passage explicitly refers to dreaming of a treasure on the bridge.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only a cross-reference is given here, not the full treasure-dream narrative.
+- id: motif:5
+  label: dreamer awakened by dawn animals or calls
+  taxonomy_refs: []
+  basis: The passage lists waking from a dream by a dismal crow, a crowing cock, and
+    a calling servant, in a sequence associated with daybreak.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The crow, cock, and servant are listed as examples from different cited
+    texts.
+- id: motif:6
+  label: speech or action performed in dream
+  taxonomy_refs: []
+  basis: The passage cites speaking out of a dream and fighting in a dream.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The entries are brief citations without narrative context.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares or aligns the pre-dawn and after-midnight
+    dream material with a Homeric Odyssey night-dream reference, suggesting a similar
+    function for night or dawn timing in dream belief.
+  claim_level: same_function
+  target: Homeric Odyssey 4.841 night-dream reference
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The Homeric material appears only as a brief comparative citation;
+    no full Greek passage or narrative context is supplied.
+- id: claim:2
+  claim: The cited Germanic and medieval examples show a recurrent pattern in which
+    waking from a dream is synchronized with dawn, daybreak, or cockcrow.
+  claim_level: same_motif
+  target: cited Walth., Rose, Agricola, and Altsw. daybreak-waking examples
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a catalogue of citations, so the relation among the
+    examples is thematic rather than demonstrated through full narratives.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18320-18323
+  quote_or_summary: The first dream in a new house is called important; night is described
+    with sleep and dream terminology in cited material.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 18323-18332
+  quote_or_summary: The passage states that dreams before dawn are true and lists
+    examples at dawn, toward day, in the morning hour, after midnight, and a comparison
+    to Odyssey 4.841.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 18332-18334
+  quote_or_summary: Lilia dreams on her wedding night; a saying states that the first
+    dream does not deceive and often becomes true.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: '18335'
+  quote_or_summary: The passage refers readers to another discussion concerning dreaming
+    of a treasure on the bridge.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 18336-18342
+  quote_or_summary: A dreamer is woken by a dismal crow, a crowing cock, or a calling
+    servant; several citations connect waking from dream with dawn or day.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 18342-18346
+  quote_or_summary: The passage gives citations for speaking out of a dream and for
+    fighting in a dream.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is a dense catalogue of citations with OCR noise and limited
+    narrative context; literal dream-related patterns are clear, but broader motif
+    interpretation should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage concerns dreams and omens rather than the supplied controlled symbols or motif families.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l18320-l18346
+  passage_sha256=3e46c9d39d23ce86281f8b16a7f6b227016a76648a12366a0d90b17a5efa5403
+

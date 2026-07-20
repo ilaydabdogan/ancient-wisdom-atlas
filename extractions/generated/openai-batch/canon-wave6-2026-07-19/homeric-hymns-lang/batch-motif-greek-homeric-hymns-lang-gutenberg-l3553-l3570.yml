@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.greek-homeric-hymns-lang-gutenberg-l3553-l3570
+source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+passage_locator:
+  label: XVII.  TO HERMES / XVIII.  TO PAN / XIX.  TO HEPHAESTUS / XX.  TO APOLLO;
+    lines 3553-3570
+  start: '3553'
+  end: '3570'
+  translation: The Homeric Hymns
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn to Hephaestus asks the Muse to sing of Hephaestus, renowned in
+    craft, who with Athene taught useful works to humans; humans formerly lived like
+    beasts in mountain caves but now, instructed in craft, live happily in homes year-round.
+    The singer asks Hephaestus for grace, valour, and fortune. The hymn to Apollo
+    says the swan sings to Phoebus by the river Peneus, and the sweet-voiced minstrel
+    sings to him with the lyre, first and last; the singer hails Apollo and beseeches
+    him in song.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker invokes a shrill Muse to sing of Hephaestus.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hephaestus is described as renowned in craft.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hephaestus and grey-eyed Athene taught goodly works to men on earth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Before this instruction, men are said to have dwelt in mountain caves like
+    beasts.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After being instructed in craft by Hephaestus, people dwell happily in their
+    own homes throughout the year.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker asks Hephaestus to be gracious and grant valour and fortune.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Phoebus is addressed as the recipient of the swan's song.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The swan sings to Phoebus while beating its wings and alighting on the bank
+    of the whirling pools of the river Peneus.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A sweet-voiced minstrel sings to Phoebus with a shrill lyre, both first and
+    last.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The speaker hails Apollo as Prince and beseeches him in song.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Muse
+  description: A shrill Muse invoked to sing of Hephaestus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hephaestus
+  description: A deity renowned in craft; with Athene he taught goodly works to men
+    on earth and is asked to grant valour and fortune.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Athene
+  description: Grey-eyed Athene, who with Hephaestus taught goodly works to men on
+    earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: men on earth
+  description: Humans who formerly dwelt in mountain caves like beasts and later,
+    instructed in craft, dwell happily in their own homes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Phoebus / Apollo
+  description: The deity addressed by the swan, the minstrel, and the speaker; called
+    Prince in the hymn.
+  role_refs:
+  - role:5
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: swan
+  description: A bird that sings to Phoebus while beating its wings and alighting
+    by the river Peneus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: sweet-voiced minstrel
+  description: A singer who sings to Phoebus with a shrill lyre, both first and last.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: invoked singer
+  assigned_to:
+  - fig:1
+  basis: The Muse is asked to sing of Hephaestus.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine instructor of craft
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Hephaestus and Athene taught goodly works to men on earth.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: hymned deity
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Each deity is directly addressed in a hymn and receives praise or petition.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: human recipients of instruction
+  assigned_to:
+  - fig:4
+  basis: Men on earth are described as being instructed in craft and changing their
+    mode of dwelling.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: recipient of song
+  assigned_to:
+  - fig:5
+  basis: Phoebus is the one to whom the swan and minstrel sing.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: singer to Apollo
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Both the swan and the minstrel are described as singing to Phoebus.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain caves
+  literal_form: mountain caves
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - cave
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: homes
+  literal_form: their own homes
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: craft instruction
+  literal_form: goodly works; craft taught by Hephaestus and Athene
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: river Peneus pools
+  literal_form: the whirling pools of the river Peneus
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: lyre
+  literal_form: shrill lyre
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: swan song
+  literal_form: the swan sings shrill to the beating of his wings
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hephaestus and Athene teach crafts to humans
+  summary: The hymn says that Hephaestus, renowned in craft, and grey-eyed Athene
+    taught goodly works to men who had previously lived in mountain caves like beasts;
+    after instruction in craft, they dwell happily in homes throughout the year.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Petition to Hephaestus
+  summary: The speaker asks Hephaestus to be gracious and grant valour and fortune.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Songs to Apollo by river and lyre
+  summary: The hymn says a swan sings to Phoebus while alighting by the whirling pools
+    of the Peneus, and a sweet-voiced minstrel sings to him with a lyre, first and
+    last; the speaker hails Apollo and beseeches him in song.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine teachers bring craft to humans
+  taxonomy_refs:
+  - culture_hero
+  basis: Hephaestus and Athene are said to teach goodly works to humans, changing
+    their life from beast-like cave dwelling to skilled home dwelling.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents divine instruction in craft but does not narrate
+    a full culture-hero biography.
+- id: motif:2
+  label: Civilizing transition from cave dwelling to homes
+  taxonomy_refs: []
+  basis: Humans are contrasted as formerly living in mountain caves like beasts and
+    later living happily in their own homes after craft instruction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a compact hymnic statement, not an extended origin myth.
+- id: motif:3
+  label: Hymnic praise followed by request for divine favor
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speaker praises or addresses the deity and asks Hephaestus for grace,
+    valour, and fortune; the Apollo hymn likewise ends with a beseeching address in
+    song.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage contains petitionary language, but it does not explicitly
+    describe a reciprocal bargain.
+- id: motif:4
+  label: Apollo as recipient of bird and human song
+  taxonomy_refs: []
+  basis: A swan and a lyre-playing minstrel both sing to Phoebus/Apollo.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No broader music-god taxonomy reference is supplied beyond the literal
+    song imagery.
+comparison_claims:
+- id: claim:1
+  claim: Within the supplied passage, both hymns use a pattern of addressing a deity
+    through praise or song and ending with a direct appeal or hail.
+  claim_level: same_function
+  target: hymnic invocation-and-petition pattern in the Hephaestus and Apollo hymns
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal formal comparison between the two supplied hymnic
+    excerpts, not evidence for historical contact or common inheritance beyond the
+    shared text context.
+- id: claim:2
+  claim: The Hephaestus hymn fits a broad culture-hero-like pattern in which divine
+    beings teach essential arts or crafts to humans.
+  claim_level: same_motif
+  target: culture_hero motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a brief divine-instruction notice and does not identify
+    Hephaestus or Athene as mortal heroes or narrate a full civilizing cycle.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3553-3556
+  quote_or_summary: "“Sing, shrill Muse, of Hephaestus renowned in craft”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3555-3558
+  quote_or_summary: Hephaestus with grey-eyed Athene taught goodly works to men on
+    earth, who before had dwelt in mountain caves like beasts.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3558-3560
+  quote_or_summary: After being instructed in craft by Hephaestus, humans dwell happily
+    in their own homes throughout the year.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: line 3561
+  quote_or_summary: "“Be gracious, Hephaestus, and grant me valour and fortune.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3565-3567
+  quote_or_summary: Phoebus is addressed; the swan sings to him while beating its
+    wings and alighting on the bank of the whirling pools of the river Peneus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 3568-3569
+  quote_or_summary: A sweet-voiced minstrel sings to Phoebus with a shrill lyre, both
+    first and last.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: line 3570
+  quote_or_summary: "“Even so hail thou, Prince, I beseech thee in my song.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a brief hymnic excerpt rather than an extended narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy references are limited to those supplied in the request.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-homeric-hymns-lang-gutenberg__l3553-l3570
+  passage_sha256=697149770be5af3587d0ffa7d89c9115509fb6c93d6b17ed855509f7a4112e36
+

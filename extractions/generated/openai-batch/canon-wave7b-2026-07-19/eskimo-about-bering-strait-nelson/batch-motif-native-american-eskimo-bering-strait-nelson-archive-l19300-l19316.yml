@@ -1,0 +1,361 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l19300-l19316
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: TREATMENT  OF  DISEASE / THE    ESKIMO    ABOUT    BERING    STRAIT / MORTUARY  CUSTOMS
+    / MORTUARY    CUSTOMS; lines 19300-19316
+  start: '19300'
+  end: '19316'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: food and water were offered to the shade
+  summary: 'The passage describes mortuary treatment according to status and social
+    standing: a father''s totem may be painted on a grave box, delayed until a feast
+    invitation stake for non-hunters, or omitted for disliked or kinless persons.
+    A very bad man receives food and water for his shade but no weapons, feast, or
+    memorial respect. The narrator also reports seeing remains with a sled, identified
+    by companions as a man who died of a loathsome disease.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: If the deceased was a hunter, the totem of his father was usually painted
+    on his grave box at the time of burial.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If the deceased was not a hunter, the father's totem picture was not made
+    on the grave box until a stake inviting people to the feast of the dead was planted
+    by the grave the following winter.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If the deceased was disliked or had no relatives to make a feast, no totem
+    markings were placed on the box.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A very bad man was buried in a box while food and water were offered to his
+    shade.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: For a very bad man, no weapons or other marks of respect were placed beside
+    the grave, no memorial feast was made, and he was forgotten.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: About eight miles from the village of Kigiktauik, the narrator saw remains
+    of a body with a sled.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator's Eskimo companions said the body was that of a man who had died
+    in the village from a loathsome disease.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: deceased person subject to mortuary custom
+  description: A deceased person whose grave box marking and memorial treatment vary
+    according to hunter status, kin support, and reputation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: father of the deceased
+  description: The father whose totem is painted as a picture on the deceased person's
+    grave box in specified cases.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: shade of the bad deceased
+  description: The shade of a very bad man, to whom food and water are offered.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: narrator
+  description: The observer who reports seeing remains of a body with a sled near
+    Kigiktauik.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Eskimo companions
+  description: The narrator's companions who identify the remains as those of a man
+    who died in the village from a loathsome disease.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: man who died from a loathsome disease
+  description: A man whose remains were seen with a sled about eight miles from Kigiktauik
+    and who was said to have died in the village from a loathsome disease.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deceased subject of mortuary treatment
+  assigned_to:
+  - fig:1
+  basis: The passage states several burial and memorial practices conditional on the
+    deceased person's hunter status, reputation, or relatives.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: source of totem identity
+  assigned_to:
+  - fig:2
+  basis: The totem painted on the grave box is identified as the totem of the deceased
+    person's father.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: recipient of food and water offering
+  assigned_to:
+  - fig:3
+  basis: Food and water are offered to the shade of a very bad man.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: eyewitness observer
+  assigned_to:
+  - fig:4
+  basis: The narrator states that he saw remains of a body with a sled.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: local informants
+  assigned_to:
+  - fig:5
+  basis: The companions tell the narrator the identity and cause of death of the body
+    seen near Kigiktauik.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: diseased deceased
+  assigned_to:
+  - fig:6
+  basis: The body is described by the companions as a man who died from a loathsome
+    disease.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: father's totem picture
+  literal_form: totem of the father painted on the grave box
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: grave box
+  literal_form: box used for burial and for mortuary markings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: stake of invitation
+  literal_form: stake planted by the grave as invitation to the feast of the dead
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: food offering to the shade
+  literal_form: food offered to the shade
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: water offering to the shade
+  literal_form: water offered to the shade
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: weapons as withheld grave goods
+  literal_form: weapons that are not placed beside the grave of a very bad man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: sled beside remains
+  literal_form: sled found with remains of a body
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: totem marking of the grave box
+  summary: The grave box may receive the father's totem at burial for a hunter, or
+    later when a feast invitation stake is planted for a non-hunter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: withheld honors for disliked, kinless, or bad dead
+  summary: A disliked or kinless deceased person receives no totem markings. A very
+    bad man is buried in a box and receives food and water offerings to his shade,
+    but weapons, other marks of respect, a feast, and remembrance are withheld.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: remains with sled near Kigiktauik
+  summary: The narrator sees remains of a body with a sled about eight miles from
+    Kigiktauik, and companions identify the body as a man who died in the village
+    from a loathsome disease.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: paternal totem marking on grave container
+  taxonomy_refs: []
+  basis: The father's totem is painted on the deceased person's grave box under specified
+    conditions.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage describes the practice but does not explain the totem's meaning.
+- id: motif:2
+  label: delayed mortuary marking linked to feast invitation
+  taxonomy_refs: []
+  basis: For a non-hunter, the totem picture is delayed until the invitation stake
+    for the feast of the dead is planted by the grave the following winter.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage refers to an account of festivals to the dead but does not
+    include that account here.
+- id: motif:3
+  label: mortuary exclusion through withheld markings and memorial rites
+  taxonomy_refs: []
+  basis: Disliked or kinless persons receive no totem markings, and a very bad man
+    receives no weapons, respect marks, feast, or remembrance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage frames the exclusion socially and ritually; it does not describe
+    divine judgment or afterlife punishment.
+- id: motif:4
+  label: food and water offering to the shade of the dead
+  taxonomy_refs: []
+  basis: Food and water are offered to the shade of a very bad man despite other honors
+    being withheld.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not state what effect the offering has or whether reciprocity
+    is expected.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19300-19305
+  quote_or_summary: For a deceased hunter, the father's totem is usually painted on
+    the grave box at burial; for a non-hunter it is delayed until the invitation stake
+    for the feast of the dead is planted by the grave the following winter.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: 19305-19307
+  quote_or_summary: If the person was disliked or lacked relatives to make a feast,
+    no totem markings were put on the box.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: quote
+  locator: 19307-19311
+  quote_or_summary: A very bad man was buried in a box; "food and water were offered
+    to the shade," but no weapons, other marks of respect, memorial feast, or remembrance
+    were given.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: 19312-19316
+  quote_or_summary: About eight miles from Kigiktauik, the narrator saw remains of
+    a body with a sled; companions said it was a man who had died in the village from
+    a loathsome disease.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate descriptive
+    patterns because the passage gives practices but limited explanation. No comparison
+    claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used; no external comparisons were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l19300-l19316
+  passage_sha256=8a8041484471aa3cf7ecc7c55eca1c1bf6d8e144c2bcd3e4123172da7a69c432
+

@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l6369-l6405
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'ASHTAKA I, ADHYAYA 7, VARGA 5. / NOLES; / MANDALA I, HYMN 98. : 127 / NOLES.;
+    lines 6369-6405'
+  start: '6369'
+  end: '6405'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Let us press Soma for Gatavedas... May he, Agni, bring us across all troubles...
+    as across a stream with a boat.
+  summary: The passage contains notes on a preceding verse, including lexical comparisons
+    and a note on Agni’s disappearance and search. It then begins Mandala I, Hymn
+    99 with a verse calling for Soma to be pressed for Gatavedas/Agni, asking Agni
+    to burn the property of the niggard and to carry the speakers across troubles
+    as one crosses a stream by boat.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The verse calls for Soma to be pressed for Gatavedas.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The verse asks Agni to burn down the property of the niggard.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The verse asks Agni to bring the speakers across all troubles and difficulties.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage compares the requested passage through troubles to crossing a
+    stream with a boat.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note states that Agni disappears and is looked for everywhere.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note glosses “abhisri” as meaning going or leading toward gloriousness,
+    while reporting that another scholar’s opinion differs.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note compares the word or expression “yatate” with several cited Vedic passages.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gatavedas
+  description: Named recipient for whom Soma is to be pressed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Agni
+  description: Named divine figure asked to burn the niggard’s property and bring
+    the speakers across troubles.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the niggard
+  description: Figure whose property Agni is asked to burn down.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the speakers
+  description: The implied “us” who press Soma and ask to be brought across troubles.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: recipient of Soma pressing
+  assigned_to:
+  - fig:1
+  basis: The verse says to press Soma for Gatavedas.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: destroyer of hostile property
+  assigned_to:
+  - fig:2
+  basis: Agni is asked to burn down the property of the niggard.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: protector or conveyer across troubles
+  assigned_to:
+  - fig:2
+  basis: Agni is asked to bring the speakers across troubles and difficulties.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: possessor of property targeted by Agni
+  assigned_to:
+  - fig:3
+  basis: The property belongs to the niggard in the prayer.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: ritual petitioners
+  assigned_to:
+  - fig:4
+  basis: The speakers say, “Let us press Soma” and ask Agni to bring “us” across troubles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: Soma
+  literal_form: Pressed Soma
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: boat
+  literal_form: Boat used in a simile for crossing a stream
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stream
+  literal_form: Stream in the comparison for crossing troubles
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: burning
+  literal_form: Agni burning down property
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Soma pressing and petition to Agni
+  summary: The speakers call for Soma to be pressed for Gatavedas and ask Agni to
+    destroy the niggard’s property and carry them through troubles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Crossing troubles like a stream
+  summary: The prayer frames deliverance from troubles and difficulties through the
+    image of crossing a stream with a boat.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Agni disappeared and sought
+  summary: A note refers to Agni’s disappearance and says he is looked for everywhere.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual offering or pressing for divine aid
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The speakers propose pressing Soma for Gatavedas and immediately request
+    protective and punitive actions from Agni.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a single verse of petition; it does not describe
+    a full ritual sequence.
+- id: motif:2
+  label: divine conveyance across danger
+  taxonomy_refs: []
+  basis: Agni is asked to bring the speakers across troubles and difficulties, compared
+    to crossing a stream with a boat.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The boat and stream are presented as a simile for troubles, not necessarily
+    as a literal journey.
+- id: motif:3
+  label: disappeared deity sought everywhere
+  taxonomy_refs: []
+  basis: The note explicitly mentions the disappearance of Agni and that he is looked
+    for everywhere.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage preserves this as a scholarly note rather than narrating the
+    episode in detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself points to a broader Vedic pattern concerning Agni’s disappearance
+    and the search for him.
+  claim_level: same_motif
+  target: Agni’s disappearance and search in Vedic material discussed by the cited
+    note
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied excerpt names the pattern and secondary references but
+    does not provide the compared passages.
+- id: claim:2
+  claim: The notes compare the language of the passage with several other Vedic citations,
+    indicating textual or linguistic similarity rather than a demonstrated shared
+    mythic motif.
+  claim_level: linguistic_similarity
+  target: VI, 70, 1; V, 4, 4; IX, 111, 3 as cited in the notes
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared Vedic passages are cited but not quoted in full in the
+    supplied excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6399-6403
+  quote_or_summary: "“Let us press Soma for Gatavedas... May he burn down the property
+    of the niggard.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 6403-6405
+  quote_or_summary: "“May he, Agni, bring us across all troubles, across all difficulties,
+    as across a stream with a boat.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 6389-6391
+  quote_or_summary: A note refers to the disappearance of Agni, who is looked for
+    everywhere, and cites comparative scholarly discussions.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6376-6381
+  quote_or_summary: A note compares a phrase with VI, 70, 1 and glosses “abhisri”
+    as going or leading toward gloriousness, while noting Pischel’s different view.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6383-6386
+  quote_or_summary: A note compares “yatate” with V, 4, 4 and IX, 111, 3.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main verse is clear enough for extraction, but the supplied passage includes
+    OCR noise and fragmentary notes from adjacent material. Motif assignments are
+    cautious and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs and applied only where directly supported by the excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l6369-l6405
+  passage_sha256=c8f40883140b3d85986fcbfd0395ac11ea7ab3fdf76f226ab6b40cac82b0c38c
+

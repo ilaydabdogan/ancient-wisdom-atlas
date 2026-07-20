@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.hermetic-mead-thrice-greatest-hermes-archive-v1-l1635-l1730
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+passage_locator:
+  label: REMAINS OF THE TRISMEGISTIC LITERATURE 5 / REMAINS OF THE TRISMEGISTIO LITERATURE
+    7 / REMAINS OF THE TRISMEGISTIC LITERATURE 9 / HEMAINS OF THE TRISMEGISTIC LITERATURE
+    11; lines 1635-1730
+  start: '1635'
+  end: '1730'
+  translation: 'Thrice-Greatest Hermes, Vol. I: Prolegomena'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a bibliographical account of early modern editions, translations,
+    commentaries, and reprints of Hermetic writings, including works associated with
+    de Foix, Patrizzi, Rossellus, Ficino, and Everard. It notes claims about Greek,
+    Latin, Dutch, and Arabic textual sources, and explicitly rejects Everard's claimed
+    Arabic source as mythical.
+  language: English, with quoted Latin and French titles and phrases
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A French translation is described as made from a Greek exemplar with collation
+    of commentaries, followed by the name and titles of François de Foix and dedicated
+    to Marguerite de France, Queen of Navarre.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Franciscus Patricius printed an edition containing the Sermons of the Corpus,
+    The Asclepius, most of the Extracts, and some Fragments, arranging and altering
+    the text in many places.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Patricius appended a Latin translation and claimed to have emended the versions
+    of Ficino and de Foix in 1040 places.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Patricius' Latin translation was printed separately with the Chaldaean Oracles
+    at Hamburg in 1593 under the title Magia Philosophica and was apparently reprinted
+    again in 1594.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hannibal Rossellus, identified as a Carmelite in the passage, produced a multi-volume
+    folio edition of the Poemandres with elaborate commentaries, printed at Cracow
+    from 1585 to 1590.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Rossellus' work is described as treating philosophy, theology, the Pope, scripture,
+    and all disciplines in very large commentaries, with mixed evaluations by others.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says that nothing had been done in England until a 1611 London
+    printing of Ficino's translation, followed by Doctor Everard's English Divine
+    Pymander in 1650 and later reprints.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A footnote states that Everard translated from Ficino's Latin version and
+    that the claimed Arabic source is a myth.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: François Monsieur de Foix, de la famille de Candalle
+  description: Named with titles as associated with the French translation and dedication.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Marguerite de France, Reine de Navarre
+  description: Named as the dedicatee of the French work.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Franciscus Patricius / Cardinal Francesco Patrizzi
+  description: Printed an edition of Hermetic texts and appended a Latin translation
+    with many emendations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Ficino / Ficinus
+  description: Named as a prior translator whose Latin version was printed in London
+    and used by Everard according to the note.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Hannibal Rossellus
+  description: A Carmelite who worked for many years on an edition of the Poemandres
+    with extensive commentaries.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Doctor Everard
+  description: Named as the learned divine associated with an English translation
+    of the Divine Pymander, claimed on the title page to derive through Arabic, Greek,
+    Latin, and Dutch.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Hermes Mercurius Trismegistus
+  description: Named in titles as the attributed figure of the Pymander or Divine
+    Pymander works.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: W. Wynn Westcott
+  description: Named as editor of the Collectanea Hermetica reprint mentioned for
+    1893.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: translator or textual editor
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage describes these figures as producing, printing, emending, translating,
+    or editing Hermetic texts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: dedicatee
+  assigned_to:
+  - fig:2
+  basis: The passage states that the French work was dedicated to Marguerite de France,
+    Queen of Navarre.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: source of later translation
+  assigned_to:
+  - fig:4
+  basis: The note says Everard translated from Ficino's Latin version.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: commentator
+  assigned_to:
+  - fig:5
+  basis: Rossellus is described as preparing an edition of the Poemandres with elaborate
+    commentaries.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: title-attributed Hermetic figure
+  assigned_to:
+  - fig:7
+  basis: Hermes Mercurius Trismegistus appears in titles of the Pymander works discussed
+    in the passage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: later reprint editor
+  assigned_to:
+  - fig:8
+  basis: Westcott is named as editor of the Collectanea Hermetica reprint in 1893.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: French translation and dedication
+  summary: The passage describes a French translation claiming a Greek exemplar and
+    commentaries, followed by the name and titles of François de Foix and dedicated
+    to Marguerite de France.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Patricius' Hermetic edition and emended Latin translation
+  summary: Patricius prints and rearranges Hermetic materials including the Corpus
+    Sermons, The Asclepius, Extracts, and Fragments, and adds a Latin translation
+    with many emendations to earlier versions.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Separate Hamburg printing with the Chaldaean Oracles
+  summary: Patricius' Latin translation is printed separately with the Chaldaean Oracles
+    at Hamburg in 1593 under the title Magia Philosophica, with a later apparent reprint
+    noted.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rossellus' Poemandres commentary edition
+  summary: Rossellus produces a large six-volume folio edition of the Poemandres with
+    extensive commentaries, printed at Cracow, later reprinted with de Foix's text
+    and translation at Cologne.
+  figure_refs:
+  - fig:5
+  - fig:7
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: English reception and Everard's disputed source claim
+  summary: The passage notes a 1611 London printing of Ficino's translation, Doctor
+    Everard's 1650 English Divine Pymander, later reprints, and a note rejecting the
+    claimed Arabic source.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: contested transmission of a Hermetic wisdom text
+  taxonomy_refs: []
+  basis: The passage repeatedly tracks translation, editing, reprinting, source claims,
+    and correction of source claims for Hermetic writings, including the explicit
+    rejection of Everard's claimed Arabic source.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a bibliographic and reception-history pattern rather than a narrative
+    myth motif; no specific mythic episode or symbolic object is described in the
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1635-1645
+  quote_or_summary: A French translation is said to derive from a Greek exemplar with
+    commentaries; the passage gives the name and titles of François de Foix and says
+    the work is dedicated to Marguerite de France, Queen of Navarre.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1646-1663
+  quote_or_summary: Franciscus Patricius printed an edition of the Corpus Sermons,
+    The Asclepius, Extracts, and Fragments, rearranged and altered the text, and appended
+    a Latin translation emending Ficino and de Foix.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1664-1677
+  quote_or_summary: Patricius' Latin translation was printed apart with the Chaldaean
+    Oracles at Hamburg in 1593 as Magia Philosophica, with notes on the title-page
+    subscription and an apparent 1594 reprint.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1678-1692
+  quote_or_summary: Hannibal Rossellus worked on an edition of the Poemandres with
+    extensive commentaries, printed in six folio volumes at Cracow from 1585 to 1590
+    and later reprinted at Cologne in 1630.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1693-1719
+  quote_or_summary: 'The passage lists English publication history: a 1611 London
+    printing of Ficino''s translation, Doctor Everard''s 1650 English Divine Pymander,
+    a second edition, and later nineteenth-century reprints.'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 1720-1730 and footnote within supplied passage
+  quote_or_summary: The note says Everard translated from Ficino's Latin version and
+    that the claimed “Arabick” source is “a myth.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The bibliographic facts are explicit in the passage, but the passage contains
+    little mythic narrative or symbolic material. The single candidate motif is framed
+    as a reception-history pattern and needs human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol from the supplied list is literally present as a symbolic object in this passage. No comparison claims were made because the passage only supports bibliographic association, not motif equivalence or historical-contact claims beyond publication history.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hermetic-mead-thrice-greatest-hermes-archive-v1__l1635-l1730
+  passage_sha256=581caef6c227d4c904090e1e0be5f2cbf348e54dc13ee9a627278402c5e53c2f
+

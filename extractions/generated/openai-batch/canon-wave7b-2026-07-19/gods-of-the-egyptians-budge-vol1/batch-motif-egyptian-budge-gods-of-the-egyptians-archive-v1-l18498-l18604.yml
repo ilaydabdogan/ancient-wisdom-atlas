@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l18498-l18604
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: AAAAAA I / EGYPTIAN TEXT WITH TRANSLITERATION AND TRANSLATION / DESTRUCTION
+    OF MANKIND / DESTRUCTION OF MANKIND; lines 18498-18604
+  start: '18498'
+  end: '18604'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“I will enter into the place wherein I was born, let be brought to me those
+    gods.”"
+  summary: In a fragment from the “Destruction of Mankind” section, an unnamed speaker
+    says he will enter the place where he was born and asks that gods be brought to
+    him. The gods stand on both sides of him and bow to the earth before his majesty.
+    A speech formula describes words spoken before a titled figure called father of
+    the firstborn gods, king, maker of men, and maker of rational beings. The gods
+    then begin to speak before his majesty.
+  language: English with Egyptian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed first-person speaker states an intention to enter the place wherein
+    he was born.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker requests that “those gods” be brought to him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The gods are described as being on both sides of him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gods bow to the earth before his majesty.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A speech formula refers to words spoken before a figure titled father of the
+    firstborn gods, king, maker of men, and maker of rational beings.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage ends with “They said before his majesty,” indicating the beginning
+    of a reply or address.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed speaker / his majesty
+  description: A first-person speaker who says he will enter his birthplace and asks
+    that gods be brought to him; the gods are then described as flanking him and bowing
+    before his majesty.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: those gods
+  description: A group of gods summoned to the speaker, positioned on both sides of
+    him, and bowing to the earth before his majesty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: father of the firstborn gods / king / maker of men
+  description: 'A titled figure or title sequence associated with the speech formula:
+    father of the firstborn gods, king, maker of men, and maker of rational beings.'
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: summoning majesty
+  assigned_to:
+  - fig:1
+  basis: The speaker commands that gods be brought to him, and the gods bow before
+    his majesty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: summoned and bowing divine assembly
+  assigned_to:
+  - fig:2
+  basis: The gods are brought, stand on both sides of him, bow to the earth, and then
+    begin to speak before his majesty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: divine father and creator-king title
+  assigned_to:
+  - fig:3
+  basis: The passage gives the titles father of the firstborn gods, king, maker of
+    men, and maker of rational beings.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: birthplace entered by the speaker
+  literal_form: the place wherein I was born
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bowing to the earth
+  literal_form: gods bowing to the earth before his majesty
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: gods on both sides
+  literal_form: those gods on both sides of him
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Summons to the birthplace
+  summary: The unnamed speaker says he will enter the place where he was born and
+    orders that gods be brought to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Divine assembly before majesty
+  summary: The gods stand on both sides of him, bow to the earth before his majesty,
+    and begin to speak before him; the passage also gives a title sequence involving
+    fatherhood of the firstborn gods, kingship, and making of humans.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine assembly summoned before a ruler
+  taxonomy_refs: []
+  basis: The passage depicts gods being brought to an unnamed majesty, positioned
+    on both sides of him, bowing, and speaking before him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The identities of the figures are not named in the provided fragment.
+- id: motif:2
+  label: divine father and creator-king
+  taxonomy_refs:
+  - divine_parent_child
+  basis: A title sequence calls a figure father of the firstborn gods, king, maker
+    of men, and maker of rational beings.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The fragment’s syntax and OCR/transliteration noise make it uncertain
+    whether the title sequence is appositional to the majesty or refers to another
+    figure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18498-18604
+  quote_or_summary: "“I will enter into the place wherein I was born, let be brought
+    to me those gods.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 18498-18604
+  quote_or_summary: "“those gods on both sides of him, bowing to the earth before
+    his majesty”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 18498-18604
+  quote_or_summary: 'The passage describes speech before a figure or title sequence:
+    father of the firstborn gods, king, maker of men, and maker of rational beings.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 18498-18604
+  quote_or_summary: "“They said before his majesty,”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and contains OCR/transliteration noise. Figure
+    identities and syntactic relationships should be checked against the full edition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or cross-tradition comparison claims were made because the supplied fragment does not itself support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l18498-l18604
+  passage_sha256=75d1530d34922fa8df13acfc9418f40dc7b2f14e4eefa07bf59e96b1fc09082a
+

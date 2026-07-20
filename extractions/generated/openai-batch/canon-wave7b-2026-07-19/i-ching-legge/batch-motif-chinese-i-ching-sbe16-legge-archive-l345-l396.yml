@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l345-l396
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: SECTION I. / V. TREATISE OF REMARKS ON THE TRIGRAMS. / CONTENTS. / PREFACE:;
+    lines 345-396
+  start: '345'
+  end: '396'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is part contents listing and part preface. The translator recounts
+    making an early translation of the Yi King, failing at first to understand it,
+    setting the work aside while hoping for a guiding clue, recovering the manuscript
+    after it was soaked in Red Sea water, and later deciding that the Text should
+    be studied apart from later Appendixes because the layers are separated by time
+    and often incongruous.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator says he wrote out a translation of the Yi King in 1854 and 1855
+    and knew little about the book's scope and method when the manuscript was completed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator set the volumes aside and hoped that light would dawn and that
+    he would obtain a clue to guide him to knowledge of the classic.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator says the translation was soaked in Red Sea water for more than
+    a month in 1870 and was recovered so as to remain legible.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator says that in 1874 he began giving the book prolonged attention
+    and believed he had found the clue, while judging his earlier toil to be of no
+    service.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says the Text is ordinarily ascribed to king Wan and his son Tan,
+    with portions of Appendixes I, II, and IV interspersed under each hexagram.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage describes an initial student view that the interspersal is advantageous,
+    that all Appendixes were written by Confucius, and that text and Appendixes form
+    one harmonious work.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The narrator later perceived that the composition of the Text and the Appendixes
+    was separated by about 700 years and that their subject matter was often incongruous.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The narrator says his first step toward understanding the Yi was to study
+    the Text by itself and as complete in itself.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Preface narrator / translator
+  description: First-person speaker who translated the Yi King, set the manuscript
+    aside, recovered it after water damage, and later studied the book again.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: king Wan
+  description: Named as one of the figures to whom the Text is ordinarily ascribed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Tan
+  description: Named as king Wan's son and one of the figures to whom the Text is
+    ordinarily ascribed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Confucius
+  description: Named as the figure whom the initial student view regards as author
+    of all the Appendixes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: translator and seeker of understanding
+  assigned_to:
+  - fig:1
+  basis: The narrator translates the Yi King, seeks a clue to know the mysterious
+    classic, and later studies the Text by itself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: role:2
+  label: attributed authors of the Text
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says the Text is ordinarily ascribed to king Wan and his son
+    Tan.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: believed author of the Appendixes
+  assigned_to:
+  - fig:4
+  basis: The passage reports the student belief that all the Appendixes were written
+    by Confucius.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: dawning light image
+  literal_form: the hope that light would dawn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: guiding clue image
+  literal_form: a clue that would guide the narrator to knowledge of the mysterious
+    classic
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Red Sea water
+  literal_form: water of the Red Sea in which the translation was soaked
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mysterious classic
+  literal_form: the Yi King described as a mysterious classic whose secrets might
+    be revealed through study
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Early translation and limited understanding
+  summary: The narrator completes a translation of the Yi King in 1854-1855 but says
+    he understood little of the book's scope and method.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Waiting for a clue
+  summary: The narrator lays the volumes aside while hoping for dawning light and
+    a clue to the book.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Soaking and recovery of the manuscript
+  summary: The translation is soaked for more than a month in Red Sea water in 1870
+    and is then recovered in legible form.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Renewed study and separation of textual layers
+  summary: The narrator resumes prolonged study, believes he has found the clue, and
+    concludes that the Text should be studied apart from later Appendixes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: quest for understanding a hidden or difficult wisdom text
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator frames his work as seeking light, a clue, knowledge of a mysterious
+    classic, and the revelation of the book's secrets through prolonged study.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is a translator's preface rather than a mythic narrative; the motif
+    is a scholarly pattern of seeking understanding, not an explicit mythological
+    episode.
+- id: motif:2
+  label: recovery of a valuable text after immersion in water
+  taxonomy_refs: []
+  basis: The narrator reports that the translation was soaked in Red Sea water for
+    more than a month and then recovered still legible.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage presents this as a biographical incident; any broader symbolic
+    or mythic reading requires human review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 362-365
+  quote_or_summary: The narrator wrote a translation of the Yi King in 1854-1855 and
+    says he knew very little about the book's scope and method when it was completed.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 366-369
+  quote_or_summary: He laid the volumes aside and hoped that "the light would by and
+    by dawn" and that he would get hold of "a clue" to the mysterious classic.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 371-374
+  quote_or_summary: The translation was soaked in 1870 for more than a month in Red
+    Sea water, then carefully recovered so that it was still legible.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 375-378
+  quote_or_summary: In 1874 the narrator began prolonged attention to the book, believed
+    he had found the clue, and found his earlier toil of no service.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 380-385
+  quote_or_summary: The passage states that the Text is ordinarily ascribed to king
+    Wan and his son Tan and that portions of Appendixes I, II, and IV are interspersed
+    under each hexagram.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 386-389
+  quote_or_summary: The initial student view treats the interspersal as an advantage,
+    regards all Appendixes as written by Confucius, and sees the whole as one harmonious
+    work bringing together the sentiments of the three sages.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 390-393
+  quote_or_summary: The narrator later perceived that the Text and Appendixes were
+    separated by about 700 years and often had incongruous subject matter.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 393-395
+  quote_or_summary: The narrator's first step toward understanding the Yi was to study
+    the Text by itself and as complete in itself.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is a scholarly preface, not a mythic episode. No comparison claims
+    were added because the passage does not itself make a comparative mythology claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Contents-list material at the beginning of the passage was not used for motif extraction because it only names sections and page references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l345-l396
+  passage_sha256=b21b9e5f1047a40c7f1ecc6dd7ef829bb0c5e2be93ffb47791d8d39e47059ecf
+

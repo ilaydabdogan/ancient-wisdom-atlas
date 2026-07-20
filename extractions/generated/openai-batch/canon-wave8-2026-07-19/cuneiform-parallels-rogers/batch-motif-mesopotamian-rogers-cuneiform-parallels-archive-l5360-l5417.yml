@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l5360-l5417
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: III. THE MYTH OF ADAPA.1 / TABLET NO. 1 / TABLET NO. 2 / THE MYTH OF ADAPA;
+    lines 5360-5417
+  start: '5360'
+  end: '5417'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: The wing of the South wind was broken, seven days / The South wind blew not
+    upon the land.
+  summary: In a fragment from the Myth of Adapa, the South Wind is threatened and
+    its wing is broken. The South Wind then does not blow upon the land for seven
+    days. Anu asks his messenger Ilabrat why this has happened, and Ilabrat reports
+    that Adapa, son of Ea, broke the South Wind's wing. Anu reacts and orders that
+    someone bring him; the fragment also mentions Ea, who knows heaven, rousing him.
+  language: English with Akkadian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The South Wind is addressed, and the speaker says that he will break its wing.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wing of the South Wind is broken.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The South Wind does not blow upon the land for seven days.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Anu calls his messenger Ilabrat and asks why the South Wind has not blown
+    upon the land for seven days.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ilabrat answers that Adapa, son of Ea, has broken the wing of the South Wind.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After hearing the report, Anu cries out, ascends his throne, and orders that
+    someone bring him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The fragment names Ea as one who knows heaven and says that he roused him.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: South Wind
+  description: A wind addressed in speech; it has a wing that is broken and then does
+    not blow upon the land for seven days.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Adapa
+  description: Identified by Ilabrat as the son of Ea and as the one who broke the
+    South Wind's wing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ea
+  description: Named as Adapa's father; also described in the fragment as one who
+    knows heaven and rouses him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Anu
+  description: Calls his messenger Ilabrat, asks why the South Wind has not blown,
+    reacts to the report, ascends his throne, and orders that someone be brought.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Ilabrat
+  description: Anu's messenger, who answers Anu's question by reporting Adapa's action.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: injured natural force
+  assigned_to:
+  - fig:1
+  basis: The South Wind's wing is broken, and it ceases blowing upon the land for
+    seven days.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: agent who breaks the wind's wing
+  assigned_to:
+  - fig:2
+  basis: Ilabrat states that Adapa, son of Ea, broke the South Wind's wing.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: divine investigator and summoner
+  assigned_to:
+  - fig:4
+  basis: Anu questions Ilabrat about the South Wind's absence and then orders that
+    someone be brought after hearing the report.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: messenger and informant
+  assigned_to:
+  - fig:5
+  basis: Ilabrat is called Anu's messenger and answers Anu's question.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: divine father and knower of heaven
+  assigned_to:
+  - fig:3
+  basis: Ea is named as Adapa's father and is described as knowing heaven.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: wing of the South Wind
+  literal_form: The South Wind's wing
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: seven-day stoppage
+  literal_form: Seven days during which the South Wind does not blow upon the land
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Anu's throne
+  literal_form: The throne ascended by Anu
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Breaking of the South Wind's wing
+  summary: The South Wind is threatened, and its wing is broken; Ilabrat later identifies
+    Adapa as the one who broke it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Anu investigates the wind's absence
+  summary: After the South Wind has not blown upon the land for seven days, Anu calls
+    Ilabrat and asks why this has happened.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Anu reacts to Ilabrat's report
+  summary: Ilabrat reports that Adapa broke the South Wind's wing. Anu hears the words,
+    cries out, ascends his throne, and orders that someone bring him. The fragment
+    then mentions Ea, who knows heaven, rousing him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Disabling a personified natural force
+  taxonomy_refs: []
+  basis: The South Wind is treated as a being with a wing, and Adapa is reported to
+    have broken that wing, causing the wind to stop blowing upon the land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The fragment gives limited context for why the South Wind is addressed
+    and how the breaking occurs.
+- id: motif:2
+  label: Seven-day interruption of a natural force
+  taxonomy_refs: []
+  basis: The South Wind does not blow upon the land for a stated period of seven days,
+    prompting Anu's inquiry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage reports the duration and effect but not the broader consequences.
+- id: motif:3
+  label: Divine inquiry and summons after an offense
+  taxonomy_refs:
+  - divine_judgment
+  basis: Anu asks why the South Wind has ceased, hears from Ilabrat that Adapa broke
+    its wing, and then orders that someone bring him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The surviving passage shows inquiry and summons but not the outcome of
+    any judgment.
+- id: motif:4
+  label: Divine wisdom or heavenly knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Ea is described as one who knows heaven and is connected to Adapa as his
+    father.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The line is fragmentary, and the immediate function of Ea's knowledge
+    is not fully preserved in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: Tablet No. 2, opening speech, within source lines 5360-5417
+  quote_or_summary: '"O South wind ... Thy wing will I break."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: Tablet No. 2, lines 5-7, within source lines 5360-5417
+  quote_or_summary: '"The wing of the South wind was broken, seven days / The South
+    wind blew not upon the land."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: Tablet No. 2, lines 7-10, within source lines 5360-5417
+  quote_or_summary: Anu calls his messenger Ilabrat and asks why the South Wind has
+    not blown upon the land for seven days.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: Tablet No. 2, lines 10-12, within source lines 5360-5417
+  quote_or_summary: '"Adapa, the son of Ea, the wing of the South wind / Has broken."'
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: Tablet No. 2 continued, lines 13-14, within source lines 5360-5417
+  quote_or_summary: When Anu hears the words, he cries out, ascends his throne, and
+    orders someone to bring him; the fragment also names Ea as one who knows heaven
+    and says that he roused him.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and includes damaged or transliterated lines.
+    Major figures and actions are clear, but some pronoun references and narrative
+    context require human review. No passage-supported external comparison claims
+    were recorded.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata. Taxonomy references were used only where the passage directly supports a cautious motif-family assignment.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l5360-l5417
+  passage_sha256=16f5bcd607ca893b59298a1b64a1b04e2a0132b5da1fe781dbb9109326e02ca6
+

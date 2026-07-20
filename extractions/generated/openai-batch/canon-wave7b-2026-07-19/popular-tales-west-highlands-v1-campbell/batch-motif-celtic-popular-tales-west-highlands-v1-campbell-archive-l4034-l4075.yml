@@ -1,0 +1,524 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l4034-l4075
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: INTRODUCTION. XCV / XCV111 INTRODUCTION. / INTRODUCTION. XC1X / C INTRODUCTION.;
+    lines 4034-4075
+  start: '4034'
+  end: '4075'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The narrator describes visits to Lapp camps: after a meal and a shooting
+    excursion with the docker''s dog, a docker carries a newly slaughtered reindeer
+    calf home. At another camp, a Lapp woman in a tent serves coffee and reindeer
+    cream with a silver spoon, wears silver ornaments and blue clothing, and owns
+    a bone tool for weaving ankle bands. The narrator watches children crack bones
+    for marrow and dogs receive leftovers in special bowls, then notes that bones
+    in a South Uist hut might resemble the remains of such a feast. The passage closes
+    with a description of a cota as a pyramidal dwelling of sods and birch sticks.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After dinner, the narrator asks an unnamed Lapp to be ready the next morning,
+    goes reiper-shooting with the docker's dog Gueppe, and returns while the docker
+    follows carrying a newly slaughtered reindeer calf.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At another camp on another hill, the narrator finds a Lapp woman in a tent
+    sitting on skins and serving coffee and reindeer cream to the docker with a silver
+    spoon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The woman is described with silver bracelets and rings, black hair, dark brown
+    eyes seen in fire-light, a blue dress, and partly blue garters.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The woman's husband has many trinkets, and the household has a comb.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A bone contrivance is identified as a tool for weaving bands worn around the
+    ankles.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After dinner, children crack bones with stones and a knife after polishing
+    the outside, then suck up the marrow.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Dogs refrain from stealing, are called in turn, and receive food remains in
+    wooden bowls set apart for them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator says bones in a South Uist hut might, by appearance, have been
+    remains of a similar feast.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The cota is described as a pyramid of sods and birch sticks, about seven feet
+    high and twelve or fourteen feet in diameter.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: At the point where the passage breaks off, the cota is associated with three
+    children, five dogs, and an old woman.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: narrator-observer
+  description: First-person observer who visits the camps, goes shooting, and watches
+    the operations of the day.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Lapp woman in the tent
+  description: A woman sitting on a heap of skins, serving coffee and reindeer cream,
+    wearing silver ornaments and blue clothing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: docker
+  description: A man who receives reindeer cream from the woman and elsewhere carries
+    a newly slaughtered reindeer calf on his shoulders.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed Lapp companion
+  description: An unnamed Lapp whom the narrator asks to be ready in the morning to
+    accompany him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Gueppe
+  description: The docker's dog, named Gueppe, who accompanies the reiper-shooting
+    outing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: children
+  description: Children in the camp who crack bones and suck marrow; three children
+    are also listed in the cota description.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: camp dogs
+  description: Dogs that wait until called and then receive remains of food in wooden
+    bowls; five dogs are listed in the cota description.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:8
+  name_or_label: husband of the Lapp woman
+  description: The woman's husband, described as having many trinkets.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: old woman
+  description: An old woman listed among those in or with the cota at the end of the
+    passage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: observer and day-long witness
+  assigned_to:
+  - fig:1
+  basis: The first-person narrator visits the camp and says he spent the whole next
+    day watching the day's operations.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: food server or host
+  assigned_to:
+  - fig:2
+  basis: The woman serves coffee and hands reindeer cream to the docker with a silver
+    spoon.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient and carrier
+  assigned_to:
+  - fig:3
+  basis: The docker receives reindeer cream and is described carrying a newly slaughtered
+    reindeer calf.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: child marrow-eaters
+  assigned_to:
+  - fig:6
+  basis: The children crack bones and suck marrow after dinner.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: hunting companion animal
+  assigned_to:
+  - fig:5
+  basis: Gueppe accompanies the reiper-shooting outing.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: orderly animal recipients of leftovers
+  assigned_to:
+  - fig:7
+  basis: The dogs do not steal, are called in turn, and receive remains in bowls set
+    apart for them.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: camp household members
+  assigned_to:
+  - fig:6
+  - fig:8
+  - fig:9
+  basis: The husband is named as part of the woman's household context, and children
+    and an old woman are listed in or with the cota.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:8
+  label: requested companion
+  assigned_to:
+  - fig:4
+  basis: The narrator asks the unnamed Lapp to be ready in the morning to accompany
+    him.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: reindeer cream
+  literal_form: Reindeer cream or thick cream served as food or drink.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire-light
+  literal_form: Fire-light illuminating the woman's hair and eyes in the tent.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: silver utensils and ornaments
+  literal_form: Silver spoon, silver bracelets, and silver rings.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bones and marrow
+  literal_form: Bones cracked open after dinner so that children can suck the marrow.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wooden dog bowls
+  literal_form: Wooden bowls set apart for dogs to receive food remains.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: bone weaving contrivance
+  literal_form: A bone device used for weaving bands worn around the ankles.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: blue clothing and bands
+  literal_form: Blue dress, blue yarn implied by the narrator, and partly blue garters
+    or ankle bands.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: cota dwelling
+  literal_form: A pyramidal structure of sods and birch sticks, about seven feet high
+    and twelve or fourteen feet in diameter.
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: slaughtered reindeer calf
+  literal_form: A newly slaughtered reindeer calf carried on the docker's shoulders.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: return from shooting with reindeer calf
+  summary: After dinner, the narrator arranges for a Lapp companion, goes reiper-shooting
+    with Gueppe, and returns while the docker follows carrying a newly slaughtered
+    reindeer calf.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: tent hospitality by fire-light
+  summary: At another camp, a woman sitting on skins serves coffee and reindeer cream
+    to the docker with a silver spoon, while her ornaments and features are described
+    in fire-light.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: clothing and weaving articles
+  summary: The passage notes blue clothing, blue garters, and a bone contrivance for
+    weaving ankle bands.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: marrow eating and feeding dogs
+  summary: After dinner, children crack bones for marrow, and dogs are later called
+    in turn to receive leftovers in special wooden bowls.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: South Uist bone comparison
+  summary: The narrator compares the appearance of bones in a South Uist hut to the
+    remains of the camp feast just described.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: cota dwelling description
+  summary: The cota is described as a pyramidal structure of sods and birch sticks,
+    with children, dogs, and an old woman named at the passage break.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:9
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: camp hospitality with dairy and coffee
+  taxonomy_refs: []
+  basis: A woman in the tent serves coffee and reindeer cream with a silver spoon
+    to the docker.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is ethnographic description rather than a mythic narrative;
+    no sacred or ritual function is stated.
+- id: motif:2
+  label: marrow feast and bone remains
+  taxonomy_refs: []
+  basis: Children crack bones and suck marrow after dinner, and the narrator later
+    connects similar-looking bones to the remains of such a feast.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives domestic food practice and refuse remains; broader mythic
+    significance is not stated.
+- id: motif:3
+  label: ordered distribution of leftovers to dogs
+  taxonomy_refs: []
+  basis: Dogs do not steal, are called in turn, and receive the remains of food in
+    bowls set apart for them.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a household order pattern, not an explicit mythological motif.
+- id: motif:4
+  label: pyramidal camp dwelling
+  taxonomy_refs: []
+  basis: The cota is described as a pyramid of sods and birch sticks with household
+    members and dogs associated with it.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The description is architectural and domestic; no symbolic axis or sacred
+    center is stated.
+- id: motif:5
+  label: appearance-based analogy for bone refuse
+  taxonomy_refs: []
+  basis: The narrator says bones in a South Uist hut might have been remains of a
+    similar feast by their appearance.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The claim is explicitly tentative and based on appearance only.
+comparison_claims:
+- id: claim:1
+  claim: The narrator cautiously suggests that bones found in a hut in South Uist
+    could resemble or be explained as remains of a feast like the one observed in
+    the Lapp camp.
+  claim_level: visual_similarity
+  target: bones in the hut in South Uist compared with bones left from the described
+    camp feast
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses tentative wording and bases the comparison on appearance;
+    it does not establish historical contact, shared tradition, or a mythic relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4034-4039
+  quote_or_summary: After dinner, the narrator asks an unnamed Lapp to be ready the
+    next morning, goes reiper-shooting with the docker's dog Gueppe, and returns while
+    the docker follows with a newly slaughtered reindeer calf on his shoulders.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4040-4048
+  quote_or_summary: At another camp on another hill, a Lapp woman in a tent sits on
+    skins, serves coffee, hands reindeer cream to the docker with a silver spoon,
+    and is described with silver bracelets, rings, black hair, and dark brown eyes
+    glittering in fire-light.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4048-4056
+  quote_or_summary: The woman's husband has many trinkets, the household has a comb,
+    her dress is blue, and one possession is a bone contrivance for weaving ankle
+    bands; her garters are partly blue.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4057-4065
+  quote_or_summary: The narrator spends the day in camp and observes that after dinner
+    children crack bones with stones and a knife, suck marrow, and then dogs that
+    did not steal are called in turn to receive food remains in wooden bowls set aside
+    for them.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4066-4068
+  quote_or_summary: The narrator states that bones in the hut in South Uist might,
+    by their appearance, have been remains of such a feast.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4069-4075
+  quote_or_summary: The cota is described as a pyramid of sods and birch sticks about
+    seven feet high and twelve or fourteen feet in diameter; three children, five
+    dogs, and an old woman are mentioned as the passage breaks off.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is relatively secure, but the passage is an ethnographic
+    introductory description rather than a myth tale. Motif labels are descriptive
+    and should not be read as claims of sacred or narrative significance.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The source's historical ethnonym is retained only where needed for passage-level identification. No historical-contact or common-inheritance claim is made.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l4034-l4075
+  passage_sha256=9960864ad421dccfa50becbf4dd556e1a3cf1af3e42e50ae668f971e4fb952dd
+

@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l28234-l28243
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION XV / SECTION XVI / SECTION XVII / SECTION XVIII; lines 28234-28243
+  start: '28234'
+  end: '28243'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: There, in Heaven itself, is distinction of inferior, superior, and middling
+    felicity.
+  summary: The speaker describes Heaven as containing graded felicity and possible
+    discontent when one sees greater prosperity. He then announces a forthcoming discourse
+    on Jiva attaining residence in the womb and asks the addressed listener to attend
+    closely.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Heaven is described as having inferior, superior, and middling felicity.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Heaven is also described as containing discontent when one sees prosperity
+    greater than one's own.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says the previously mentioned goals have been described in detail.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says he will next discourse on Jiva's attainment of residence
+    in the womb.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker asks the addressee, called a regenerate one, to listen with concentrated
+    attention.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed speaker
+  description: A first-person speaker who says he will discourse further and asks
+    the addressee to listen.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: regenerate listener
+  description: A second-person addressee called "O regenerate one" and asked to listen
+    with concentrated attention.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Jiva
+  description: Named as the subject whose attainment of the condition of residence
+    in the womb will be discussed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: discourser
+  assigned_to:
+  - fig:1
+  basis: The speaker says, "I shall... discourse to you" and "as I speak to thee."
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: attentive addressee
+  assigned_to:
+  - fig:2
+  basis: The addressee is instructed to hear with concentrated attention.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: subject of womb-residence teaching
+  assigned_to:
+  - fig:3
+  basis: Jiva is named in the announced topic concerning residence in the womb.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Heaven
+  literal_form: Heaven itself
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: womb
+  literal_form: the womb
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Graded felicity in Heaven
+  summary: Heaven is described as a realm with inferior, middling, and superior felicity,
+    and with discontent arising from comparison with greater prosperity.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Transition to discourse on Jiva and the womb
+  summary: 'The speaker closes the account of previously mentioned goals and announces
+    the next topic: Jiva''s attainment of residence in the womb, asking the listener
+    to attend.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: stratified afterlife felicity
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage presents Heaven as a realm with inferior, middling, and superior
+    levels of felicity and identifies such states as goals previously discussed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a doctrinal description rather than a detailed journey
+    narrative.
+- id: motif:2
+  label: Jiva entering residence in the womb
+  taxonomy_refs:
+  - death_rebirth
+  basis: The speaker announces a discourse on the attainment by Jiva of the condition
+    of residence in the womb.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The lines only announce the topic; the mechanics or narrative details
+    of rebirth are not included in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 28234-28238
+  quote_or_summary: '"There, in Heaven itself, is distinction of inferior, superior,
+    and middling felicity. There, in Heaven itself, is discontent at sight of prosperity
+    more blazing than one''s own."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:2
+  type: quote
+  locator: 28238-28241
+  quote_or_summary: '"Even these are the goals which I have mentioned in detail. I
+    shall, after this, discourse to you on the attainment by Jiva of the condition
+    of residence in the womb."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:3
+  type: quote
+  locator: 28241-28243
+  quote_or_summary: '"Do thou hear me, with concentrated attention, O regenerate one,
+    as I speak to thee!"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the supplied lines. Motif assignment
+    is cautious because the excerpt is a transitional doctrinal statement with limited
+    narrative detail. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l28234-l28243
+  passage_sha256=57a3b20f2e60e9dde10d18779af5ba45b9af85a80e00e4fcf0b7217cd676b4f7
+

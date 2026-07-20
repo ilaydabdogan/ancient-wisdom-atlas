@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l15224-l15251
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CH.  IX / RELIGION / IX  RELIGION  283 / RELIGION; lines 15224-15251
+  start: '15224'
+  end: '15251'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes duties and restrictions connected with relics in
+    a temple-enclosure: the relics were to be rescued if in danger; the enclosure
+    entrance was a house with a central passage watched by a monthly relieved guard;
+    women maintained the temple grass floor-covering and regulated who could walk
+    up the center, allowing only persons of rank while others approached along the
+    side and stood at a respectful distance.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that an unspecified group's first duty was to rescue the
+    relics if they were in danger.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entrance to the temple-enclosure was a house built with a passage through
+    its center.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A strong guard watched the central passage, lived in the entrance house, and
+    was relieved monthly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Women kept the grass floor-covering of the temple in order.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The women did not allow anyone except a person of rank to walk up the center
+    of the temple floor-covering.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Other persons wishing to do obeisance to the relics had to go along the side
+    of the building and stand at a respectful distance.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: strong guard
+  description: A guard that watched the passage, lived in the entrance house, and
+    was relieved monthly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: women maintaining the temple floor-covering
+  description: Women who kept the grass floor-covering of the temple in order and
+    regulated use of the center path.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: person of rank
+  description: A person of rank was allowed to walk up the center of the temple floor-covering.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: other persons doing obeisance
+  description: Other persons wishing to do obeisance to the relics had to approach
+    along the side and stand at a respectful distance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: passage guard
+  assigned_to:
+  - fig:1
+  basis: The guard watched the passage, lived in the house, and was relieved monthly.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: temple floor caretakers and access regulators
+  assigned_to:
+  - fig:2
+  basis: The women maintained the grass floor-covering and controlled who could walk
+    up the center.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: rank-authorized central-path user
+  assigned_to:
+  - fig:3
+  basis: Only a person of rank was allowed to walk up the center.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: side-approaching worshipper
+  assigned_to:
+  - fig:4
+  basis: Other persons wishing to do obeisance approached along the side and stood
+    at a respectful distance.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: relics
+  literal_form: relics
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: temple-enclosure entrance house
+  literal_form: house built with a passage through the centre
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: central passage or center path
+  literal_form: passage through the centre; centre of the temple floor-covering
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: grass floor-covering
+  literal_form: grass floor-covering of the temple
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Guarded entrance to the temple-enclosure
+  summary: The temple-enclosure entrance is a house with a central passage, watched
+    by a guard that lives there and is relieved monthly.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Protection and ritual approach to the relics
+  summary: The relics are to be rescued if endangered, and people approaching them
+    are subject to rank-based rules about the central path, side approach, and respectful
+    distance.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: guarded sacred relics
+  taxonomy_refs: []
+  basis: The passage links relics with a duty of rescue if endangered and with a guarded
+    temple-enclosure entrance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not identify the relics or the group responsible for
+    rescuing them beyond the immediate statement.
+- id: motif:2
+  label: restricted access to a sacred center
+  taxonomy_refs: []
+  basis: Only persons of rank may walk up the center; others must approach by the
+    side and remain at a respectful distance when doing obeisance to the relics.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The restriction is local and ritual in this passage; no broader cosmological
+    meaning is stated.
+- id: motif:3
+  label: ritual hierarchy in shrine approach
+  taxonomy_refs: []
+  basis: The passage distinguishes persons of rank from other worshippers in their
+    permitted route and proximity to the relics.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No specific royal or priestly status is named for the persons of rank.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15224-15226
+  quote_or_summary: '"it was their first duty to rescue the reHcs if they should be
+    in danger"'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 15226-15230
+  quote_or_summary: The entrance to the temple-enclosure was a house with a central
+    passage; a strong guard, relieved monthly, watched the passage and lived in the
+    house.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 15230-15236
+  quote_or_summary: Women maintained the temple grass floor-covering, allowed only
+    persons of rank to walk up the center, and required others doing obeisance to
+    the relics to approach along the side and stand at a respectful distance.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summary from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and begins with an unclear pronoun referring to a group
+    outside the excerpt. OCR artifacts are present, but the main temple, guard, relic,
+    and access-rule details are legible. No comparison claims are made because the
+    passage itself does not support an explicit comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were not applied because the passage does not directly support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l15224-l15251
+  passage_sha256=3bf1ed096c0e28a77b6954501f8843e2aeb7db86d53cb394067b113568225c40
+

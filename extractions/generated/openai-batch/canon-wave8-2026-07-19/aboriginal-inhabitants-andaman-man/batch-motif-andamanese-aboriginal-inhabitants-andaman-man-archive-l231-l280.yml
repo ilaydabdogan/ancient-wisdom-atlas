@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.andamanese-aboriginal-inhabitants-andaman-man-archive-l231-l280
+source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+passage_locator:
+  label: PREFACE. / E. H. MAN. / INTRODUCTION. / INTRODUCTION.; lines 231-280
+  start: '231'
+  end: '280'
+  translation: On the Aboriginal Inhabitants of the Andaman Islands
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a geographic and climatic description of the Andaman
+    Islands, including volcanic islands, Little Andaman, land area, principal hills,
+    seasonal weather, rainfall, cyclones, earthquakes, and a footnote recording an
+    ascent of Saddle Peak.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Narcondam and Barren Island are described as two small uninhabited islands
+    east of Great Andaman; both contain volcanoes, and Barren Island is said to be
+    active at the time of writing.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Little Andaman lies south of Great Andaman, about midway toward the northern
+    Nicobar group, and is described as a single island with nearby small islets.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: No island in the group is said to exceed twenty miles in breadth; the whole
+    group is estimated at about 2,508 square miles, with four-fifths in Great Andaman.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Most high land is described as lying near the east coast and shelving gradually
+    toward the west.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The principal hills listed are Saddle Peak in North Andaman, Ford’s Peak on
+    Rutland Island, and Mount Harriet in South Andaman, with elevations and nearby
+    harbours or locations noted.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The climate is compared with Lower Burma and is described as having a very
+    uniform temperature through the year.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Seasonal weather is described through cool and hot seasons, the southwest
+    monsoon, heavy showers after a wind change, wet days, rainfall, and strong northeast
+    winds during the dry season.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Several severe Bay of Bengal cyclones are said to have originated near the
+    Andamans, but only one is recorded as having visited the islands during the stated
+    period.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Earthquakes are recorded in August 1868, February 1880, subsequent slight
+    shocks, and a severe earthquake on December 31, 1881.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A footnote states that the only recorded ascent of Saddle Peak was made in
+    February 1882 by Major M. Protheroe and other officers of Port Blair.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Major M. Protheroe
+  description: Named participant in the recorded ascent of Saddle Peak.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: Other officers of Port Blair
+  description: Unnamed officers described as accompanying Major M. Protheroe in the
+    recorded ascent of Saddle Peak.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: recorded ascender
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The footnote says Major M. Protheroe and other officers made the only recorded
+    ascent of Saddle Peak.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain or peak
+  literal_form: Saddle Peak, Ford’s Peak, and Mount Harriet as principal hills or
+    peaks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: water and rain
+  literal_form: monsoon, heavy showers, wet days, rainfall, and Bay of Bengal cyclone
+    context
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: volcanic island
+  literal_form: Narcondam and Barren Island, both containing volcanoes, with Barren
+    Island active
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Geographic description of islands
+  summary: The passage locates volcanic islands east of Great Andaman, describes Little
+    Andaman to the south, and states the breadth and estimated area of the island
+    group.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: High land and principal hills
+  summary: The passage describes high land mainly near the east coast and lists Saddle
+    Peak, Ford’s Peak, and Mount Harriet with elevations and locations.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Climate, monsoon, and natural hazards
+  summary: The passage summarizes temperature, seasons, monsoon rains, rainfall totals,
+    dry-season winds, cyclone origins, and recorded earthquakes.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Recorded ascent of Saddle Peak
+  summary: A footnote records Major M. Protheroe and other Port Blair officers as
+    making the only recorded ascent of Saddle Peak in February 1882.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: recorded ascent of a mountain
+  taxonomy_refs:
+  - ascent
+  basis: The footnote records an ascent of Saddle Peak by named and unnamed officers.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: This is a factual expedition note, not a mythic ascent episode; the taxonomy
+    reference is only a weak literal match.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 231-239
+  quote_or_summary: Narcondam and Barren Island are described as small uninhabited
+    volcanic islands east of Great Andaman; Little Andaman is described south of Great
+    Andaman with nearby islets.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 240-242
+  quote_or_summary: The passage states that none of the islands exceed twenty miles
+    in breadth and estimates the group’s area at about 2,508 square miles.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 243-250
+  quote_or_summary: High land is described near the east coast, and the principal
+    hills are listed as Saddle Peak, Ford’s Peak, and Mount Harriet with elevations
+    and locations.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 251-267
+  quote_or_summary: The climate is described as similar to Lower Burma, with uniform
+    temperature, cool and hot seasons, southwest monsoon, heavy showers, wet days,
+    rainfall, and strong northeast winds.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 268-277
+  quote_or_summary: The passage notes cyclone origins near the Andamans, one recorded
+    cyclone visit in 1864, and earthquakes recorded from 1868 through a severe event
+    on December 31, 1881.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 279-280
+  quote_or_summary: A footnote states that the only recorded ascent of Saddle Peak
+    was made in February 1882 by Major M. Protheroe and other Port Blair officers.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is descriptive geography and climate rather than mythic narrative.
+    Literal extraction is straightforward; motif identification is limited to a weak
+    literal ascent match.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were generated because the passage itself does not support comparative mythology claims.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:andamanese-aboriginal-inhabitants-andaman-man-archive__l231-l280
+  passage_sha256=9ea8c41714dae6b4759bd61bd6438638630f3c825fface8225233a48db097ad5
+

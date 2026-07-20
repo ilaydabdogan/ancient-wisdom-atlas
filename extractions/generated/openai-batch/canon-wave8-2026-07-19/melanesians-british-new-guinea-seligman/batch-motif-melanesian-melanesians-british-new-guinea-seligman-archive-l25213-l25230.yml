@@ -1,0 +1,193 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l25213-l25230
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: CHAPTER XXXIV / GELSERA / S. N. G. / CHAPTER XXXV; lines 25213-25230
+  start: '25213'
+  end: '25230'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: although you and Garuboi are two clans, you are friends and must not intermarry.
+  summary: The passage is an ethnographic note about clan grouping. It states that
+    earlier clan groupings affect how information about marriage and cannibalism should
+    be read, gives a statement that two clans are friends and must not intermarry,
+    and begins a list of Wamira and Wedau clan groupings with the clan-group Mara.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author says that an assumption of former clan grouping may make some information
+    about marriage and cannibalism incomplete, but not make the stated facts less
+    true.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the information should be read in light of clan grouping
+    at Wagawaga.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the addressed clan and Garuboi are two clans, are
+    friends, and must not intermarry.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage introduces a grouping of the Wamira and Wedau clans and begins
+    the list with the clan-group Mara.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Garuboi
+  description: A named clan in the statement about two clans that are friends and
+    must not intermarry.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed addressed clan
+  description: The other clan addressed as "you" in the statement about Garuboi.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Wamira clans
+  description: Clans introduced as part of a grouping list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Wedau clans
+  description: Clans introduced as part of a grouping list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Mara
+  description: A named clan-group heading in the grouping list.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: clan
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage explicitly refers to Garuboi, the addressed group, Wamira, and
+    Wedau as clans.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: friendly clans prohibited from intermarriage
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the two clans are friends and must not intermarry.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: clan-group
+  assigned_to:
+  - fig:5
+  basis: Mara appears under the heading "Clan-group."
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Ethnographic note on clan grouping and intermarriage
+  summary: The passage explains that clan grouping affects interpretation of marriage
+    and cannibalism information, reports a rule that two friendly clans must not intermarry,
+    and begins a clan-grouping list for Wamira and Wedau.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: friendly clans forbidden to intermarry
+  taxonomy_refs: []
+  basis: The passage explicitly links clan friendship with a prohibition on intermarriage
+    between the two clans.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic social pattern rather than a mythic narrative
+    motif; no supplied taxonomy motif is assigned.
+- id: motif:2
+  label: clan grouping as interpretive frame for marriage rules
+  taxonomy_refs: []
+  basis: The passage states that marriage information should be read in light of clan
+    grouping.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a social-structural pattern in a fragmentary passage, not a symbolic
+    or narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25213-25219
+  quote_or_summary: The author notes that a former grouping of clans may make information
+    about marriage and cannibalism incomplete, while the facts remain true and should
+    be read in light of clan grouping at Wagawaga.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 25221-25223
+  quote_or_summary: '"although you and Garuboi are two clans, you are friends and
+    must not intermarry."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 25225-25228
+  quote_or_summary: The passage introduces the Wamira and Wedau clan groupings and
+    lists "Clan-group" followed by "Mara."
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal social-structural details are clear. Motif candidates are limited
+    to passage-supported social patterns and require human review because the passage
+    is not a mythic narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied symbol taxonomy items are present in this fragment. No comparative claims are supported by the passage itself.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l25213-l25230
+  passage_sha256=4e1c5702af14093875bcc6ecfed8c1f55f7048f50eea329a2eef7de509a09355
+

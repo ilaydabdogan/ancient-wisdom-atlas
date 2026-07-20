@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l1179-l1202
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: THE SONG OF THE STORK / FOLK SONG / YE MOUNTAIN BLUEBELLS / THE SUN WENT
+    DOWN; lines 1179-1202
+  start: '1179'
+  end: '1202'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Why comes my love not home?”"
+  summary: A sleepless speaker watches night fall, addresses winds and stars about
+    an absent love, and at stormy dawn asks why the love has not returned home.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The sun goes down behind a hill and the lea is without light.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fowls and birds sleep calmly, but the speaker does not sleep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The moon appears beneath the eaves, the Balance rises, and the night-wind
+    stirs leaves and speaks to the starry sky.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker addresses gentle winds and stars of light and asks where the speaker’s
+    love is that night.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker calls the stars “painted eyes of heaven” and asks whether they
+    saw the speaker’s love that night.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At dawn the door is unbolted, snowflakes whirl, clouds and storm are present,
+    wild winds roar, and the speaker asks why the love does not come home.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person voice who remains sleepless and asks about an absent
+    love.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: my love
+  description: The speaker’s love, absent at night and not home by dawn.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: gentle winds and stars of light
+  description: Natural and celestial addressees asked about the speaker’s love.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: sleepless questioner
+  assigned_to:
+  - fig:1
+  basis: The speaker says sleep does not come and asks where the love is and why the
+    love has not come home.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: absent beloved
+  assigned_to:
+  - fig:2
+  basis: The love is sought at night and has not come home by dawn.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: addressed natural witnesses
+  assigned_to:
+  - fig:3
+  basis: The speaker asks the winds and stars whether they have seen the love.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sunset behind the hill
+  literal_form: sun went down behind the hill
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: moon beneath the eaves
+  literal_form: moon peeped in beneath the eaves
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Balance in the sky
+  literal_form: the Balance rose on high
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: starry sky as eyes of heaven
+  literal_form: stars of light / painted eyes of heaven
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: stormy dawn
+  literal_form: day dawned with snowflakes, cloud, storm, and roaring winds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: unbolted door
+  literal_form: unbolted was our door
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sleepless after sunset
+  summary: After the sun sets and birds sleep, the speaker remains awake.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Night sky and addressed witnesses
+  summary: The moon, Balance, night-wind, and stars appear; the speaker asks winds
+    and stars about the absent love.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Stormy dawn without return
+  summary: At dawn, with the door unbolted and stormy snow and wind outside, the speaker
+    asks why the love has not come home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sleepless vigil for an absent beloved
+  taxonomy_refs: []
+  basis: The speaker cannot sleep while asking where the love is and why the love
+    has not come home.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is lyric and does not state the reason for the beloved’s absence.
+- id: motif:2
+  label: appeal to natural or celestial witnesses
+  taxonomy_refs: []
+  basis: The speaker addresses winds and stars and asks whether they have seen the
+    love.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage personifies or addresses natural features, but it does not
+    describe an answer from them.
+- id: motif:3
+  label: night-to-dawn waiting without return
+  taxonomy_refs: []
+  basis: The passage moves from sunset and night to dawn, ending with the love still
+    not home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The expected return is implied by the final question rather than narrated
+    as an explicit prior promise.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1183-1186
+  quote_or_summary: "“The sun went down behind the hill ... The fowls and birds slept
+    calm and still, / But sleep came not to me.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1188-1191
+  quote_or_summary: "“The moon peeped in beneath the eaves, / The Balance rose on
+    high,” and the night-wind stirred leaves and spoke to the starry sky."
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1193-1196
+  quote_or_summary: The speaker addresses “gentle winds and stars of light,” asks
+    where the love is, and asks the “painted eyes of heaven” whether they saw the
+    love.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1198-1201
+  quote_or_summary: At dawn the door is unbolted, snowflakes whirl, cloud and storm
+    appear, wild winds roar, and the speaker asks, “Why comes my love not home?”
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is direct from the passage. Motif labels are descriptive
+    and not tied to external taxonomy. No comparison claims were made because the
+    passage itself does not establish a comparative relationship.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l1179-l1202
+  passage_sha256=96ae14161d5f347f0705e7a2aafae1aef9c61d8a65da1dd49f63fbcca5ca2c58
+

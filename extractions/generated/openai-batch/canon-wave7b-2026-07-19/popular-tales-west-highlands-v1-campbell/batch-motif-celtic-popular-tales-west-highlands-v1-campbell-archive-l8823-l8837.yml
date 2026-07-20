@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l8823-l8837
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: THE SEA-MAIDEN. 97 / THE SEA-MAIDEN. 99 / THE SEA-MAIDEN. 101 / THE SEA-MAIDEN.
+    103; lines 8823-8837
+  start: '8823'
+  end: '8837'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The blinding of the giant and his subsequent address to his ... goat ...
+    comes from the heart of the narrator.
+  summary: The passage comments that a story told by a blind man shows how a popular
+    tale adapts to a narrator. It identifies the blinding of a giant and the giant's
+    address to a white goat as an ornament supplied by the narrator's mind. It also
+    records an oral transmission note and gives a brief etymological note on Cra-Bhuidhe.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the story was told by a blind man.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the tale is an instance of a popular tale adapting itself
+    to the mind of everybody.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage refers to the blinding of a giant.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says the giant addresses a shaggy, hairy, white goat that can
+    see him while he cannot see it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage states that James Wilson learned the story from John MacLachlan
+    at Kilsleven more than forty years earlier.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says John MacLachlan was an old man and would have been about
+    eighty at the time.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage states that Cra-Bhuidhe is probably a corruption of a proper name.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage glosses Crag as a paw or palm and Buidhe as yellow.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: blind man narrator
+  description: A blind man who told the story discussed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: giant
+  description: A giant who is said to be blinded and to address his goat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: white goat
+  description: A shaggy, hairy, white goat addressed by the giant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: James Wilson
+  description: Person said to have learned the story from John MacLachlan.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: John MacLachlan
+  description: An old man at Kilsleven from whom James Wilson learned the story.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: story narrator
+  assigned_to:
+  - fig:1
+  basis: The passage says the story was told by a blind man.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: blinded giant
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the blinding of the giant and his later address to
+    the goat.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: addressed animal
+  assigned_to:
+  - fig:3
+  basis: The goat is addressed by the giant in the quoted speech.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: later learner of story
+  assigned_to:
+  - fig:4
+  basis: James Wilson is said to have learned the story from John MacLachlan.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: earlier story source
+  assigned_to:
+  - fig:5
+  basis: John MacLachlan is named as the old man from whom James Wilson learned the
+    story.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: white goat
+  literal_form: shaggy, hairy, white goat
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Comment on narrator-shaped tale ornament
+  summary: The commentator presents the story as shaped by a blind narrator and identifies
+    the blinded giant's address to a white goat as an ornament added by the narrator's
+    mind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Oral transmission note
+  summary: The passage records that James Wilson learned the story from John MacLachlan,
+    an elderly man at Kilsleven, more than forty years earlier.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Name and word gloss note
+  summary: The passage suggests Cra-Bhuidhe may be a corrupted proper name and glosses
+    Crag and Buidhe.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: blinded giant addresses animal
+  taxonomy_refs: []
+  basis: The passage explicitly mentions a giant's blinding and his subsequent address
+    to a shaggy, hairy, white goat.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The surrounding narrative episode is not included here; only the commentator's
+    brief reference to the episode is available.
+- id: motif:2
+  label: tale adapted to narrator's condition
+  taxonomy_refs: []
+  basis: The passage presents the episode as an example of a popular tale adapting
+    to the mind of a blind narrator.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a commentator's interpretive statement about oral narration rather
+    than a narrated mythic event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8823-8829
+  quote_or_summary: The story is said to be told by a blind man and to show how a
+    popular tale adapts; the blinding of the giant and his address to a shaggy, hairy,
+    white goat are described as coming from the narrator's mind.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8831-8833
+  quote_or_summary: James Wilson learned the story from John MacLachlan, an old man
+    at Kilsleven, more than forty years earlier; MacLachlan would have been about
+    eighty at the time.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8835-8837
+  quote_or_summary: Cra-Bhuidhe is probably a corruption of a proper name; Crag is
+    glossed as paw or palm, and Buidhe as yellow.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mostly editorial commentary and transmission/etymology notes;
+    motif candidates are based on a brief reference to an episode rather than a full
+    narrative scene.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references assigned because the available taxonomy list does not include a specific blinded-giant or goat-address motif.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l8823-l8837
+  passage_sha256=284dd70bf35e680f6bd3a4346bf1a247979d4ff71158be8ce1538e22e4f9341a
+

@@ -1,0 +1,157 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l4445-l4452
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE THIRTIETH CHAPTER / THE THIRTY-FIRST CHAPTER / THE EIGHTH BOOKE / THE
+    THIRTY-SECOND CHAPTER; lines 4445-4452
+  start: '4445'
+  end: '4452'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: How a young man came and declared the miserable death of Lepolemus and his
+    wife Charites.
+  summary: A chapter heading in the eighth book states that a young man arrives and
+    reports the miserable deaths of Lepolemus and Charites, identified as Lepolemus's
+    wife.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a heading for the eighth book and the thirty-second chapter.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A young man is said to come and declare a death report.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lepolemus and Charites are named as the persons whose miserable death is declared.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Charites is identified as the wife of Lepolemus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: young man
+  description: A young man who comes and declares the death of Lepolemus and Charites.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Lepolemus
+  description: A named man whose miserable death is declared; Charites is identified
+    as his wife.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Charites
+  description: The wife of Lepolemus, whose miserable death is declared along with
+    his.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: death-news messenger
+  assigned_to:
+  - fig:1
+  basis: The heading says the young man came and declared the miserable death of Lepolemus
+    and Charites.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: reported dead person
+  assigned_to:
+  - fig:2
+  basis: Lepolemus is named as one whose miserable death is declared.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: reported dead wife
+  assigned_to:
+  - fig:3
+  basis: Charites is identified as Lepolemus's wife and as one whose miserable death
+    is declared.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: married pair
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The heading identifies Charites as the wife of Lepolemus.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: arrival and declaration of deaths
+  summary: The chapter heading announces that a young man arrives and reports the
+    miserable deaths of Lepolemus and his wife Charites.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: messenger announces deaths of a married pair
+  taxonomy_refs: []
+  basis: The heading presents a young man arriving to declare the miserable deaths
+    of Lepolemus and his wife Charites.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only the chapter heading is provided; the full narrative details of the
+    deaths and announcement are absent.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 4445-4452
+  quote_or_summary: The passage identifies the section as the eighth book and the
+    thirty-second chapter.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:2
+  type: quote
+  locator: lines 4445-4452
+  quote_or_summary: How a young man came and declared the miserable death of Lepolemus
+    and his wife Charites.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The heading gives clear names, relationship, and announcement action, but
+    it supplies minimal narrative detail. No comparison claims are supported by the
+    passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction is limited to the supplied chapter heading and does not use surrounding narrative context.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l4445-l4452
+  passage_sha256=c41ae99865b2c26f786a0973dcc77302a760e98ea796641e0ba2f03c3be2ef0a
+

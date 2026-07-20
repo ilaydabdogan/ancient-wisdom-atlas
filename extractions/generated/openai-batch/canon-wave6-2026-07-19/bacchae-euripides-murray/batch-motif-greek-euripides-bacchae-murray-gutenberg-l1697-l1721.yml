@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1697-l1721
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: DIONYSUS. / PENTHEUS. / DIONYSUS. / PENTHEUS.; lines 1697-1721
+  start: '1697'
+  end: '1721'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    Wilt thou be led
+    By me, and try the venture?
+  summary: Pentheus approves of acting openly. Dionysus asks whether Pentheus will
+    be led by him and try the venture. Pentheus agrees and urges movement. Dionysus
+    says a rich trailing fine-linen robe is first needed to gird Pentheus, and Pentheus
+    questions whether this would make him a woman and no longer a man.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Pentheus says that the proposed action is well said and would be best done
+    openly.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus asks Pentheus whether he will be led by Dionysus and try the venture.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pentheus agrees to be led and asks why they should delay.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dionysus says that first they need a rich, trailing robe of fine linen to
+    gird Pentheus.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Pentheus responds by asking whether he is a woman and no longer a man.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: A named speaker who approves open action, agrees to be led, and questions
+    whether wearing the proposed robe would make him a woman and no longer a man.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Dionysus
+  description: A named speaker who asks whether Pentheus will be led by him and says
+    that a fine-linen robe is needed to gird Pentheus.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: guide or leader
+  assigned_to:
+  - fig:2
+  basis: Dionysus asks whether Pentheus will be led by him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: led participant in the venture
+  assigned_to:
+  - fig:1
+  basis: Pentheus agrees to be led and urges that they proceed without delay.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: questioner of gendered attire
+  assigned_to:
+  - fig:1
+  basis: Pentheus asks whether the robe would make him a woman and no longer a man.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: proposer of preparatory garment
+  assigned_to:
+  - fig:2
+  basis: Dionysus says a rich trailing fine-linen robe is first needed to gird Pentheus.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fine-linen robe
+  literal_form: A rich and trailing robe of fine-linen
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Agreement to be led into the venture
+  summary: Dionysus asks whether Pentheus will be led by him; Pentheus agrees and
+    urges that they not delay.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Robe requirement and gender question
+  summary: Dionysus says a rich trailing fine-linen robe is first needed for Pentheus,
+    and Pentheus questions whether this means he is a woman and no longer a man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: readiness for guided departure
+  taxonomy_refs:
+  - departure
+  basis: Pentheus agrees to be led by Dionysus and asks why they should delay.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt shows agreement and readiness to move, but it does not narrate
+    an actual departure within the quoted passage.
+- id: motif:2
+  label: preparatory robing before a venture
+  taxonomy_refs:
+  - initiation
+  basis: Before the venture proceeds, Dionysus says a fine-linen robe is first needed
+    to gird Pentheus.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: low
+  cautions: The passage states a required garment before action, but it does not explicitly
+    describe a ritual initiation.
+- id: motif:3
+  label: gender-boundary anxiety through clothing
+  taxonomy_refs: []
+  basis: Pentheus connects the proposed robe with becoming a woman and no longer a
+    man.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports a gendered reaction to clothing, but does not by
+    itself state disguise, transformation, or shapeshifting.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1697-1721; Pentheus opening reply
+  quote_or_summary: Well said! 'Twere best done openly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 1697-1721; Dionysus question
+  quote_or_summary: Wilt thou be led / By me, and try the venture?
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 1697-1721; Pentheus agreement
+  quote_or_summary: Aye, indeed! / Lead on. Why should we tarry?
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 1697-1721; Dionysus robe instruction
+  quote_or_summary: First we need / A rich and trailing robe of fine-linen / To gird
+    thee.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 1697-1721; Pentheus response to robe
+  quote_or_summary: Nay; am I a woman, then, / And no man more?
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain Project Gutenberg source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    involving departure and initiation are cautious because the excerpt is brief and
+    does not narrate the ensuing action. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All claims are limited to the supplied passage and metadata.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1697-l1721
+  passage_sha256=f52fac50d6ee50aab695da6c9e7f8ac61afb46b066329b7c1e90b3723879ef00
+

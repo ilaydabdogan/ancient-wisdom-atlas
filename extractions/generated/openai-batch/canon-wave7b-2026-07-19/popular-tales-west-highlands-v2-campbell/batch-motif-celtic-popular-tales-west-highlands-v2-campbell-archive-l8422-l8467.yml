@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l8422-l8467
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE SON OF THE SCOTTISH YEOMAX. 273 / THE SON OF THE SCOTTISH YEOIVIAN. 275
+    / THE SON OF THE SCOTTISH YEOINLIN. 277 / THE WIDOW AND HER DAUGHTERS. 283; lines
+    8422-8467
+  start: '8422'
+  end: '8467'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed speaker instructs the daughter to use chests, a tree-top warning,
+    and a magic club to recover her two sisters and deceive the male figure transporting
+    the chests. The male figure carries the chests to the widow's house, is prevented
+    from opening them by voices calling from within, returns enraged, breaks in the
+    door, and is beheaded by the daughter with a bar. Afterward he becomes a king's
+    son, marries her, and the mother and sisters are left with gold and silver for
+    life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The instructions say that the male figure must not open the chests on the
+    road, and that he is to believe the daughter will see him from a tree top if he
+    does.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The daughter is instructed to open a chamber while the male figure is hunting,
+    bring out her two sisters, and draw a magic club on them so that they become lively
+    and whole again.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The instructions place one sister in each of two chests and the daughter in
+    a third chest, with silver and gold added for the support of the mother and sisters.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The sisters are instructed to call out, "I see thee," if the male figure attempts
+    to open the chests on the road.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The male figure carries the chests one after another to the mother's house;
+    when he tries to inspect a chest in a glen, the person inside calls out that she
+    sees him.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:6
+  text: After the last journey, the male figure returns home, finds the daughter absent,
+    becomes enraged, goes to the widow's house, and drives in the door.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:7
+  text: The daughter stands behind the door and takes off the male figure's head with
+    a bar.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: After the beheading, the male figure becomes a king's son; he and the daughter
+    marry, and the mother and sisters are left with gold and silver for life.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: daughter / heroine
+  description: The daughter is the intended watcher in the tree deception, the one
+    instructed to revive her sisters and hide in the third chest, and the one who
+    later stands behind the door and beheads the male figure with a bar.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:8
+- id: fig:2
+  name_or_label: male figure carrying the chests
+  description: He is warned not to open the chests, carries them to the mother's house,
+    attempts to inspect them, returns in rage, breaks into the widow's house, is beheaded,
+    and then becomes a king's son who marries the daughter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: two sisters
+  description: The two sisters are brought from a chamber, restored by the magic club,
+    placed in chests, and instructed to call out when the chests are threatened with
+    opening.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: mother / widow
+  description: Her house is the destination for the chests, and she and the sisters
+    are provided with gold and silver for life.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: unnamed instructing speaker
+  description: An unidentified speaker gives the daughter a plan involving the chests,
+    the tree-top warning, the magic club, the sisters' calls, and the final ambush
+    behind the door.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: planner or advisor
+  assigned_to:
+  - fig:5
+  basis: The speaker gives a sequence of instructions for reviving the sisters, transporting
+    the chests, preventing their opening, and confronting the male figure at the door.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: executor of the plan
+  assigned_to:
+  - fig:1
+  basis: The daughter is instructed to revive her sisters, hide in the third chest,
+    and stand behind the door to strike the male figure with a bar.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:3
+  label: forbidden opener and transformed bridegroom
+  assigned_to:
+  - fig:2
+  basis: He is told not to open the chests, tries to inspect one, later breaks into
+    the widow's house in rage, is beheaded, becomes a king's son, and marries the
+    daughter.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: role:4
+  label: revived sisters and hidden voices
+  assigned_to:
+  - fig:3
+  basis: The sisters are restored by the magic club, placed in chests, and made to
+    call out when the male figure attempts to open the chests.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: recipient of chests and wealth
+  assigned_to:
+  - fig:4
+  basis: The chests are left in the mother's house, and the mother and sisters receive
+    gold and silver sufficient for life.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: chests as concealed transport
+  literal_form: three chests containing the two sisters, the daughter, and gold and
+    silver
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: tree-top watcher
+  literal_form: tree top from which the daughter is said to be able to see the road
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: magic club of restoration
+  literal_form: magic club drawn on the two sisters
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bar used in ambush
+  literal_form: bar used to take off the male figure's head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:5
+  label: gold and silver provision
+  literal_form: silver and gold placed in the chests and left with the mother and
+    sisters
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:6
+  label: broken door and ambush place
+  literal_form: door of the widow's house, driven in by the male figure, with the
+    daughter standing behind it
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+scenes:
+- id: scene:1
+  label: Instructions for rescue and deception
+  summary: An unnamed speaker instructs the daughter to warn the male figure not to
+    open the chests, to revive her sisters with the magic club, to place the sisters
+    and herself in three chests with wealth, and to have the sisters call out if the
+    chests are opened.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Transport of the chests
+  summary: The male figure carries the chests one by one to the mother's house; when
+    he thinks the tree-top watcher cannot see and attempts to inspect a chest, a hidden
+    sister calls out that she sees him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Rage, beheading, transformation, and marriage
+  summary: The male figure returns, becomes enraged at the daughter's absence, breaks
+    into the widow's house, and is beheaded by the daughter with a bar. He then becomes
+    a king's son, marries the daughter, and the family is provided with gold and silver.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: revival by magic instrument
+  taxonomy_refs:
+  - resurrection
+  basis: The two sisters become lively and whole again when the magic club is drawn
+    on them.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not state the sisters' prior condition in detail beyond
+    needing restoration to being lively and whole.
+- id: motif:2
+  label: forbidden opening of containers
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The male figure is forbidden to open the chests on the road and attempts
+    to inspect one when he thinks he is unobserved.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The passage presents the forbidden opening as part of a deception rather
+    than as a stand-alone taboo.
+- id: motif:3
+  label: deceptive distant watcher
+  taxonomy_refs: []
+  basis: The plan makes the male figure believe the daughter is watching from a tree,
+    while the voices actually come from inside the chests.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No wider comparative label is supplied by the passage.
+- id: motif:4
+  label: concealed transport in chests
+  taxonomy_refs: []
+  basis: The sisters and daughter are hidden in chests that the male figure carries
+    to the mother's house.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not explicitly call this an escape, though the action
+    moves the women to the mother's house.
+- id: motif:5
+  label: beheading releases or produces royal form
+  taxonomy_refs:
+  - shapeshifter
+  - death_rebirth
+  basis: After the daughter takes off the male figure's head with a bar, he becomes
+    a king's son and marries her.
+  evidence_refs:
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: The excerpt gives only the result of the beheading; it does not explain
+    whether this is an enchantment, restoration, transformation, or rebirth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8424-8428
+  quote_or_summary: The speaker says the male figure must not open the chests on the
+    road and that the daughter will be in a tree top watching and able to see him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 8428-8432
+  quote_or_summary: While he is hunting, the daughter is to open the chamber, bring
+    out her two sisters, draw the magic club on them, and they will be lively and
+    whole as before.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 8433-8437
+  quote_or_summary: The instructions place one sister in each chest and the daughter
+    in the third, with silver and gold added to keep the mother and sisters for life.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 8438-8442
+  quote_or_summary: The instructions predict that he will break in the door in fury;
+    the daughter is to stand behind the door, take off his head with the bar, after
+    which he will be a king's son and marry her.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 8442-8445
+  quote_or_summary: The sisters are told to call out, "I see thee, I see thee," so
+    that he will think the daughter is calling from the tree.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: 8445-8450
+  quote_or_summary: He carries the chests to the mother's house; in a glen where he
+    thinks the tree watcher cannot see, he lowers a chest to inspect it, and the person
+    inside calls out that she sees him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 8455-8456
+  quote_or_summary: The same pattern happens on each journey until all the chests
+    are left in the mother's house.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: 8458-8467
+  quote_or_summary: On the last return he becomes enraged, goes to the widow's house,
+    drives in the door, and the daughter behind the door takes his head off with the
+    bar. He becomes a king's son, they marry, and the mother and sisters are left
+    with gold and silver for life.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied excerpt. Motif labels involving
+    transformation after beheading are less certain because the excerpt does not explain
+    the male figure's prior nature or the mechanics of the change.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not explicitly compare the events to another text, motif family, or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l8422-l8467
+  passage_sha256=a47bbad48fbe2115ebff1733b5d9f6b48b0ae55979e0bd9d55f79f88db060f10
+

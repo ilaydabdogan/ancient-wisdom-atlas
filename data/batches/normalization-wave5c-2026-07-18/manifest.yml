@@ -1,0 +1,45 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: normalization-wave5c-2026-07-18
+created_at: '2026-07-19T00:28:26Z'
+updated_at: '2026-07-19T15:04:46Z'
+artifacts:
+  requests_index_path: data/batches/normalization-wave5c-2026-07-18/requests/index.yml
+  normalization_suggestion_request_map_path: data/batches/normalization-wave5c-2026-07-18/normalization-suggestion-request-map.jsonl
+  results_dir: data/batches/normalization-wave5c-2026-07-18/results
+  normalization_suggestion_results_path: data/reviews/normalization-suggestions/normalization-wave5c-2026-07-18/suggestions.jsonl
+  normalization_suggestion_batches_path: data/reviews/normalization-suggestions/normalization-wave5c-2026-07-18/suggestion-batches.jsonl
+  normalization_suggestion_collection_manifest_path: data/reviews/normalization-suggestions/normalization-wave5c-2026-07-18/manifest.yml
+  normalization_suggestion_ingested_results_path: data/batches/normalization-wave5c-2026-07-18/normalization-suggestion-ingested-results.jsonl
+openai: {}
+state:
+  last_realtime_run_at: '2026-07-19T15:04:39Z'
+  realtime_concurrency: 40
+  last_normalization_suggestion_ingest_at: '2026-07-19T15:04:46Z'
+pipeline: normalization_suggestion
+status: results_downloaded
+config:
+  normalization_suggestion_request_generation:
+    model: gpt-5.5
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-normalization-suggestion-prompt.md
+    gap_audit_path: data/indexes/normalization-gap-audit.yml
+    normalization_path: taxonomy/motif-normalization.yml
+    taxonomy_path: taxonomy/motifs.yml
+    buckets: []
+    limit:
+    motifs_per_request: 10
+    max_input_chars: 400000
+    max_output_tokens: 16000
+    temperature:
+    reasoning_effort: low
+    max_requests_per_shard: 2
+    max_bytes_per_shard: 188743680
+counts:
+  normalization_suggestion_requests_prepared: 4105
+  unmapped_motifs_covered: 41042
+  request_shards: 2053
+  normalization_suggestions_ingested: 41022
+  normalization_suggestion_batches_ingested: 4103
+  failed_normalization_suggestion_ingestions: 2
+

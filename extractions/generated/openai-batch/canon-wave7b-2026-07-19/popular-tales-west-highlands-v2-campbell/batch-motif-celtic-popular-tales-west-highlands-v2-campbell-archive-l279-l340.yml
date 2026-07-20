@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l279-l340
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: Popular Tales of the West Highlands, Volume 2 / THE CHEST. 11 / THE CHEST.
+    13 / THE CHEST. 15; lines 279-340
+  start: '279'
+  end: '340'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed woman prevents her gillie from being hanged by arguing from
+    the purchase of a horse. She briefly appears in a gown and is recognized by her
+    family, then resumes men's clothes. She later has the gillie record a householder's
+    explanation of how he obtained the old house, brings the written record to court,
+    identifies the man, and returns with the king to their own house.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman's father says the gillie is to be hanged because he bought a wife
+    from him and does not know what happened to her.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman asks the value of the finest horse, claims it as hers, and orders
+    her servant to put a shot in it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman argues that, because the gillie paid for his wife, the father has
+    no business with him; the gillie is then let loose.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: At her father's house, the woman puts on a gown, is recognized by her father
+    and sisters, then puts on men's clothes again.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Near the old house, the woman tells the gillie to sit at the top of the stair
+    and write down the conversation she will have with the man of the house.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The woman asks the man of the house how he obtained it, and he tells her the
+    matter because he thinks she is a stranger.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The man of the house goes to court in the morning; the woman goes with him
+    in the coach, and the gillie follows after her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At court, the woman asks to speak and directs the gillie to give them the
+    paper he wrote the previous night.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After the paper is read, the court says the man described should be hanged
+    if present; the woman identifies him, and she and the king return to their own
+    house.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed woman
+  description: A woman whose father, sisters, servant, and gillie appear in the passage;
+    she argues for the gillie's release, changes clothing, questions the householder,
+    and speaks at court.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the woman's father
+  description: He says the gillie is to be hanged, states that the gillie bought a
+    wife from him, and later recognizes the woman when she wears a gown.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: her gillie / the king
+  description: A male companion called the woman's gillie and, at the end, the king;
+    he is threatened with hanging, writes the paper, presents it in court, and returns
+    with the woman to their house.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: the woman's servant
+  description: The servant is told by the woman to put a shot in the horse.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the woman's sisters
+  description: One sister is asked for a gown, and the sisters recognize the woman
+    when she puts it on.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: man of the house / captain
+  description: The occupant of the old house, also called the captain; he tells the
+    woman how he got the house, goes to court, and is identified there.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: the court assembly
+  description: The people at court allow the woman to speak, read the paper, and say
+    the man described should be hanged if present.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: rescuer and courtroom speaker
+  assigned_to:
+  - fig:1
+  basis: She argues for the gillie's release and later speaks in court to present
+    the written paper.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: disguised investigator
+  assigned_to:
+  - fig:1
+  basis: She changes between a gown and men's clothes and questions the householder
+    as a stranger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: father and seller of wife
+  assigned_to:
+  - fig:2
+  basis: He says the gillie bought a wife from him and that the gillie is to be hanged.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: threatened companion, scribe, and restored king
+  assigned_to:
+  - fig:3
+  basis: He is threatened with hanging, writes down the conversation, gives the paper
+    in court, and is called the king when he returns home.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: commanded servant
+  assigned_to:
+  - fig:4
+  basis: The woman tells the servant to shoot the horse.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: recognizing relatives
+  assigned_to:
+  - fig:5
+  basis: The sisters recognize the woman when she wears the gown.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: incriminated householder
+  assigned_to:
+  - fig:6
+  basis: He tells how he got the house, and after the paper is read in court the woman
+    identifies him as the man at issue.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:8
+  label: judicial audience
+  assigned_to:
+  - fig:7
+  basis: The court hears the woman's statement, reads the paper, and gives an opinion
+    about hanging the man described.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: purchased horse
+  literal_form: the finest horse coming into town, claimed by the woman and shot by
+    her servant
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: gendered clothing
+  literal_form: a gown, woman's clothes, and man's clothes
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: written paper
+  literal_form: the paper written by the gillie during the night and handed over in
+    court
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: old house / own house
+  literal_form: the king's old house, occupied by the man of the house, and later
+    returned to by the woman and king
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: release by purchase argument
+  summary: The father says the gillie will be hanged, but the woman uses the purchased
+    horse to argue that a paid-for wife is no longer the father's concern, leading
+    to the gillie's release.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: recognition and return to men's clothing
+  summary: The woman obtains a gown, is recognized by her father and sisters when
+    she wears it, and then resumes men's clothing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: recorded conversation in the old house
+  summary: Near the old house, the woman positions the gillie to record her conversation
+    with the householder, who explains how he obtained the house.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: court exposure and return home
+  summary: The woman goes to court with the captain, has the gillie present the paper,
+    asks what should be done, identifies the man, and returns with the king to their
+    own house.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: legal analogy using a purchased animal
+  taxonomy_refs: []
+  basis: The woman claims and destroys the purchased horse, then uses the same logic
+    to argue that the father has no claim over the paid-for wife or the gillie.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a passage-level legal or rhetorical pattern; no external taxonomy
+    reference is assigned.
+- id: motif:2
+  label: disguise and recognition through clothing
+  taxonomy_refs: []
+  basis: The woman is recognized when she puts on a gown and then resumes men's clothing.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain when or why the disguise began, because the
+    excerpt starts in medias res.
+- id: motif:3
+  label: recorded confession used in court
+  taxonomy_refs: []
+  basis: The woman arranges for the gillie to write down the householder's account
+    and later uses the paper before the court.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage summarizes the householder's account rather than giving its
+    full contents.
+- id: motif:4
+  label: return of the king to the former house after exposure of another occupant
+  taxonomy_refs:
+  - return
+  basis: After the court scene and identification of the man, the woman and the king
+    return to their own house and are as before.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage refers to return to the house, not explicitly to a kingdom
+    or full royal restoration.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 279-294
+  quote_or_summary: The father says the gillie will be hanged because he bought a
+    wife; the woman claims the finest horse, has it shot, argues from the purchase,
+    and the gillie is let loose.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 296-303
+  quote_or_summary: The woman asks a sister for a gown; when she puts it on, her father
+    and sisters know her, and she then changes back into men's clothes.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 304-318
+  quote_or_summary: Near the old house, she tells the gillie to sit at the top of
+    the stair and write down her talk with the man of the house, who tells how he
+    got it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 320-333
+  quote_or_summary: The captain goes to court; the woman accompanies him, asks to
+    speak, has the gillie give the paper written the previous night, and the court
+    says the man described should be hanged if present.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: quote
+  locator: lines 335-340
+  quote_or_summary: '"There you have him," said she; afterward she and the king return
+    to their own house and are as before.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt quoted from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage actions and figures are mostly clear, but the excerpt begins
+    in medias res and omits earlier causes. No comparison claims are made because
+    the passage itself does not compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Names are not supplied in the excerpt; descriptive labels are used instead.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l279-l340
+  passage_sha256=1a985e8fb8c186a552894b5e8af149752f8f6d34feddd84f44e8b401e8bc71db
+

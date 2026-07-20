@@ -1,0 +1,157 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l32102-l32152
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: INTERVALS  IN  UPWARD  PROGRESSION / AVERAGE  NUMBER  OF  SEMITONES  IN  AN  INTERVAL
+    / PART  OF  MEASURE  ON  WHICH  SONG  BEGINS / RHYTHM  OF  FIRST  MEASURE; lines
+    32102-32152
+  start: '32102'
+  end: '32152'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a tabular rhythmic analysis of songs. It lists song serial
+    numbers according to whether each song begins on an unaccented or accented part
+    of the measure, then gives a second table headed “Rhythm of First Measure” with
+    grouped serial numbers. The closing heading identifies the surrounding section
+    as a continuation of rhythmic analysis for comparatively modern war songs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage contains a table headed “PART OF MEASURE ON WHICH SONG BEGINS.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One listed category is songs beginning on the unaccented part of the measure,
+    with serial numbers 7, 8, 26, 27, 117, 119, and 178.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Another listed category is songs beginning on the accented part of the measure,
+    with serial numbers 6, 9, 10, 22, 23, 28, 29, 80, 31, 32, 33, 34, 35, 114, 115,
+    116, 118, 120, 121, 123, 124, 223, 224, 225, and 231 as printed in the passage.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A second table is headed “RHYTHM OF FIRST MEASURE.”
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Under the “RHYTHM OF FIRST MEASURE” heading, the passage groups serial numbers
+    including 6, 7, 8, 9, 22, 23, 26, 27, 29, 30, 31, 32, 33, 34, 35, 115, 116, 117,
+    118, 119, 120, 121, 123, 178, 224, 225, and 231.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A shorter group of serial numbers in the same rhythm table lists 10, 28, 114,
+    124, and 223.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage ends with a continuation heading for “Comparatively Modern Songs,”
+    specifically war songs, and “Rhythmic Analysis.”
+  category: other
+  evidence_refs:
+  - ev:6
+figures: []
+roles: []
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Songs classified by accented or unaccented measure opening
+  taxonomy_refs: []
+  basis: The table explicitly divides song serial numbers by whether the song begins
+    on an unaccented or accented part of the measure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a musicological pattern, not a narrative mythological motif; no
+    supplied taxonomy motif family applies.
+- id: motif:2
+  label: Songs classified by first-measure rhythm
+  taxonomy_refs: []
+  basis: The passage provides a table headed “RHYTHM OF FIRST MEASURE” and lists grouped
+    song serial numbers beneath it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The rhythmic category labels appear incomplete or corrupted in the supplied
+    passage, so only the presence of grouping can be extracted safely.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 32102-32152
+  quote_or_summary: "“PART OF MEASURE ON WHICH SONG BEGINS”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 32102-32152
+  quote_or_summary: The unaccented-measure category lists the song serial numbers
+    7, 8, 26, 27, 117, 119, and 178.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 32102-32152
+  quote_or_summary: The accented-measure category lists the song serial numbers 6,
+    9, 10, 22, 23, 28, 29, 80, 31, 32, 33, 34, 35, 114, 115, 116, 118, 120, 121, 123,
+    124, 223, 224, 225, and 231 as printed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 32102-32152
+  quote_or_summary: The table headed “RHYTHM OF FIRST MEASURE” lists a group including
+    serial numbers 6, 7, 8, 9, 22, 23, 26, 27, 29, 30, 31, 32, 33, 34, 35, 115, 116,
+    117, 118, 119, 120, 121, 123, 178, 224, 225, and 231.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 32102-32152
+  quote_or_summary: A second listed group in the first-measure rhythm table contains
+    serial numbers 10, 28, 114, 124, and 223.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: 32102-32152
+  quote_or_summary: "“Comparatively Modem Songs-^{l) War Songs (sec, 2) — Continued”
+    and “Rhtthmio Analysis — Continued” appear as continuation headings, with OCR-like
+    spelling retained."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a tabular musicological analysis rather than a narrative or
+    symbolic myth passage. Some words and category labels appear OCR-corrupted or
+    incomplete, so extraction is limited to visible headings and serial-number groupings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures, narrative scenes, mythological symbols, or supported comparison claims are present in the supplied passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l32102-l32152
+  passage_sha256=4707789bba721b2177fdf9c1eccaa5370228167f32c62263089907b1c5b29a55
+

@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.buddhist-sutta-nipata-sbe10-fausboll-archive-l3742-l3796
+source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+passage_locator:
+  label: THE WISE MAN. 25 / P. 75. / THE VENERABLE. 27 / THE VENERABLE. 29; lines
+    3742-3796
+  start: '3742'
+  end: '3796'
+  translation: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“wherever venerable persons (Arahanta) dwell, that place is delightful.”"
+  summary: The passage praises the person who knows the uncreated, has cut ties, removed
+    temptations, and renounced desires. It says any place where Arahants dwell is
+    delightful, and that forests delight the passionless though not the world. The
+    accompanying note compares moral formulae involving mind, voice, eye, thought,
+    words, and deeds across several textual traditions and mentions a possible indication
+    of the evil eye.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man is described as free from credulity and as knowing the uncreated.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same man is described as having cut all ties, removed all temptations,
+    renounced all desires, and as the greatest of men.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Venerable persons, identified parenthetically as Arahanta, may dwell in a
+    hamlet, forest, on sea, or on dry land.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Any place where venerable persons dwell is called delightful.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Forests are called delightful, although the world finds no delight there.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passionless find delight where the world does not because they do not
+    look for pleasures.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The note says similar expressions about thought, words, deeds, mind, voice,
+    or eye occur in Brahmanical, Zend-avesta, Manichaean, and Greek materials, while
+    cautioning against a Persian-to-Christian transmission claim.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The note says that mischief done by the eye may perhaps be an early indication
+    of the evil eye.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the man free from credulity
+  description: A man who knows the uncreated, cuts all ties, removes temptations,
+    renounces desires, and is called the greatest of men.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: venerable persons / Arahanta
+  description: Venerable persons whose dwelling makes any place delightful.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the passionless
+  description: Those who find delight in forests and do not look for pleasures.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the world
+  description: A collective that finds no delight in forests.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: renouncing knower of the uncreated
+  assigned_to:
+  - fig:1
+  basis: The verse describes this figure as knowing the uncreated and renouncing ties,
+    temptations, and desires.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: holy dwellers whose presence makes a place delightful
+  assigned_to:
+  - fig:2
+  basis: The verse says that wherever Arahanta dwell, that place is delightful.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: passionless forest-delighters
+  assigned_to:
+  - fig:3
+  basis: The verse says the passionless find delight where the world does not because
+    they do not look for pleasures.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: worldly contrast group
+  assigned_to:
+  - fig:4
+  basis: The verse contrasts the world’s lack of delight in forests with the delight
+    of the passionless.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cut ties
+  literal_form: ties cut by the man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: forest
+  literal_form: forest / forests
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: sea as water setting
+  literal_form: sea
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: eye
+  literal_form: eye; mischief done by the eye
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The greatest man described through renunciation
+  summary: A man is praised for knowing the uncreated and for cutting ties, removing
+    temptations, and renouncing desires.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arahants make any dwelling place delightful
+  summary: Whether in a hamlet, forest, sea, or dry land, any place where Arahants
+    dwell is called delightful.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The passionless delight in forests
+  summary: Forests are delightful to the passionless, while the world does not find
+    delight there, because the passionless do not seek pleasures.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Renunciant wisdom and liberation
+  taxonomy_refs:
+  - wisdom
+  basis: The praised man knows the uncreated and has cut ties, removed temptations,
+    and renounced desires.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is didactic praise rather than a narrative episode.
+- id: motif:2
+  label: Holy presence makes place delightful
+  taxonomy_refs: []
+  basis: The verse states that wherever Arahanta dwell, that place is delightful,
+    regardless of setting.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The motif is inferred from a short gnomic statement, not developed in
+    narrative form.
+- id: motif:3
+  label: Ascetic delight in wilderness against worldly taste
+  taxonomy_refs: []
+  basis: Forests are delightful to the passionless, while the world finds no delight
+    there, because the passionless do not seek pleasures.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage uses the forest as a setting of delight for the passionless,
+    but does not narrate an actual withdrawal into the forest.
+- id: motif:4
+  label: Tripartite moral agency formula
+  taxonomy_refs: []
+  basis: The note discusses comparable expressions involving mind, voice, eye, thought,
+    words, and deeds across multiple traditions.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is from the editor or translator’s note in the passage range, not
+    from the cited verses themselves.
+- id: motif:5
+  label: Possible evil eye indication
+  taxonomy_refs: []
+  basis: The note states that mischief done by the eye may perhaps be the first indication
+    of the evil eye.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage itself marks this as tentative with “perhaps,” and the surrounding
+    context is philological commentary.
+comparison_claims:
+- id: claim:1
+  claim: The commentary compares formulae involving thought, word, deed, mind, voice,
+    or eye with expressions in Brahmanical texts and notes similar expressions in
+    Zend-avesta, Manichaean, and Greek materials.
+  claim_level: linguistic_similarity
+  target: Cross-traditional formulae of moral action by thought, word, deed, mind,
+    voice, or eye
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt gives a comparative scholarly note rather than full source
+    contexts; it also cautions against making a Persian-to-Christian transmission
+    inference.
+- id: claim:2
+  claim: The commentary cautiously suggests that a reference to harm done by the eye
+    may indicate an evil-eye pattern.
+  claim_level: same_motif
+  target: evil-eye motif or pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note uses tentative language and does not provide a developed evil-eye
+    narrative in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3742-3796, stanza 97
+  quote_or_summary: "“free from credulity,” “knows the uncreated,” has “cut all ties,”
+    “removed all temptations,” and “renounced all desires.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 3742-3796, stanza 98
+  quote_or_summary: "“In a hamlet or in a forest, on sea or on dry land,” wherever
+    “venerable persons (Arahanta) dwell,” that place is delightful."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 3742-3796, stanza 99
+  quote_or_summary: "“Forests are delightful”; the world finds no delight there, but
+    “the passionless will find delight” because “they look not for pleasures.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 3742-3796, editorial note
+  quote_or_summary: The note discusses formulae involving mind, voice, eye, thought,
+    words, and deeds; cites Brahmanical sources; says similar expressions occur in
+    the Zend-avesta and among Manichaeans; mentions Greek parallels; and says there
+    was no ground to suppose transmission into Christian liturgy from Persia.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 3742-3796, editorial note
+  quote_or_summary: "“In the mischief done by the eye, we have, perhaps, the first
+    indication of the evil eye.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source metadata; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Verse-level extraction is straightforward. Some motifs and comparisons derive
+    from editorial notes in the same line range and therefore require human review
+    for scope.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage text and metadata. Available taxonomy reference applied only for the explicit wisdom motif and sea/water setting.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-sutta-nipata-sbe10-fausboll-archive__l3742-l3796
+  passage_sha256=ac96e9ab74bc42bf68c8190d405263755ae6e61dd1f6fbe82131b5d0572dfde2
+

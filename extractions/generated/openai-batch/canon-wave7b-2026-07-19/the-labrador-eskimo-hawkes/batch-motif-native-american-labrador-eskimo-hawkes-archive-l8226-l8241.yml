@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l8226-l8241
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: HOW  THE   TROUT  WAS  MADE. / THE  QUARREL  OF  THE  CROW  AND  THE  GULL.
+    / THE   GIRL  WHO  MARRIED   A  WHALE. / THE  STORY  OF  THE  SUN  AND  MOON.;
+    lines 8226-8241
+  start: '8226'
+  end: '8241'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Since you desire me, eat them.
+  summary: A young girl is visited at night by an unidentified man. She marks herself
+    with soot and oil to identify him, then sees a black streak on her brother's face.
+    She cuts off her breasts, presents them to him, and speaks to him. Her angry brother
+    chases her; she runs into the sky, he follows, and they become the sun and moon.
+    The passage explains the sun's pursuit of the moon and their meeting during an
+    eclipse.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The rest of the people were in the singing-house when the events began.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: A young girl was visited nightly by a man whose identity she could not discover.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The girl smeared soot and oil on her breast as a means to discover the visitor.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The next day, when she brought her brother's meal to the qaggi, she saw a
+    black streak on his face.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The girl cut off her breasts and placed them on a dish.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The girl told him, "Since you desire me, eat them."
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The brother became angry and chased her out of the kagi and around the house.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The girl ran up into the sky, and the brother ran after her.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: They were changed into the sun and moon.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The sun is said to constantly follow the moon, and they sometimes meet during
+    an eclipse.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: young girl
+  description: Female figure visited nightly by an unidentified man; she uses soot
+    and oil to reveal him, reacts to the brother's black streak, is chased, runs into
+    the sky, and is changed as part of the sun-and-moon pair.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: brother
+  description: Male sibling whose face bears the black streak after the girl's test;
+    he becomes angry, chases her, follows her into the sky, and is changed as part
+    of the sun-and-moon pair.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: night-visited female sibling
+  assigned_to:
+  - fig:1
+  basis: The passage says a young girl was visited nightly by an unidentified man
+    and later identifies the relevant male as her brother through the mark.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: discoverer by marking
+  assigned_to:
+  - fig:1
+  basis: She applies soot and oil in order to discover the visitor's identity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: marked brother and apparent desired suitor
+  assigned_to:
+  - fig:2
+  basis: After the marking test, the brother has a black streak, and the girl addresses
+    him with the words, "Since you desire me, eat them."
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: angry pursuer
+  assigned_to:
+  - fig:2
+  basis: The brother becomes angry and chases the girl; after transformation, the
+    sun is described as following the moon.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: transformed celestial pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The girl and brother run into the sky and are changed into the sun and moon.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: recognition substance
+  literal_form: soot and oil smeared on the girl's breast
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: black identifying streak
+  literal_form: black streak on the brother's face
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: knife
+  literal_form: knife used by the girl
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: severed breasts on a dish
+  literal_form: the girl's breasts placed on a dish
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: sky
+  literal_form: the sky into which the girl runs and the brother follows
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: sun and moon
+  literal_form: celestial bodies into which the two figures are changed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: eclipse meeting
+  literal_form: occasional meeting of the sun and moon during an eclipse
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Night visits and recognition test
+  summary: While the rest of the people are in the singing-house, a young girl is
+    visited nightly by an unidentified man and uses soot and oil to identify him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Discovery at the qaggi and breast-cutting
+  summary: The girl sees a black streak on her brother's face, cuts off her breasts,
+    places them on a dish, and speaks to him about his desire for her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Chase into the sky and transformation
+  summary: The angry brother chases the girl; she runs into the sky, he follows, and
+    the two are changed into the sun and moon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Ongoing celestial pursuit
+  summary: The passage states that the sun constantly follows the moon and that they
+    sometimes meet during an eclipse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Secret night visitor exposed by a physical mark
+  taxonomy_refs: []
+  basis: The girl marks herself with soot and oil to discover the identity of the
+    nightly visitor, and the next day observes a black streak on her brother's face.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not provide a broader named motif classification for
+    this recognition device.
+- id: motif:2
+  label: Sibling pair transformed into sun and moon
+  taxonomy_refs:
+  - sibling_pair
+  - duality
+  basis: The central figures are a girl and her brother; after the chase into the
+    sky, they are changed into the sun and moon.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage states the pair becomes the sun and moon collectively; the
+    exact assignment of each sibling to each celestial body is inferred from the pursuit
+    sequence.
+- id: motif:3
+  label: Ascent into the sky producing celestial transformation
+  taxonomy_refs:
+  - ascent
+  basis: The girl runs up into the sky, the brother follows, and the two are changed
+    into celestial bodies.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives no ritual or cosmological explanation beyond the narrative
+    transformation.
+- id: motif:4
+  label: Celestial pursuit explaining eclipse
+  taxonomy_refs: []
+  basis: The sun is described as constantly following the moon, with their occasional
+    meeting identified as an eclipse.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage frames the eclipse explanation briefly and does not elaborate
+    additional astronomical symbolism.
+- id: motif:5
+  label: Self-mutilation as response to sibling desire
+  taxonomy_refs: []
+  basis: After seeing the identifying mark on her brother, the girl cuts off her breasts,
+    places them on a dish, and tells him to eat them because he desires her.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The action is explicit, but its intended ritual, punitive, or symbolic
+    meaning is not explained in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: '8226'
+  quote_or_summary: 'Passage title: "THE STORY OF THE SUN AND MOON."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 8228-8231
+  quote_or_summary: The people are in the singing-house; a young girl is visited nightly
+    by an unidentified man and smears soot and oil on her breast to discover him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 8232-8236
+  quote_or_summary: At the qaggi she sees a black streak on her brother's face, cuts
+    off her breasts, places them on a dish, and says, "Since you desire me, eat them."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; brief quotation embedded in summary.
+- id: ev:4
+  type: summary
+  locator: 8237-8238
+  quote_or_summary: The brother is angry and chases the girl out of the kagi and around
+    the house.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 8239-8240
+  quote_or_summary: The girl runs up into the sky, the brother runs after her, and
+    they are changed into the sun and moon.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 8240-8241
+  quote_or_summary: The sun constantly follows the moon, and they sometimes meet during
+    an eclipse.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The core plot and literal motifs are explicit. Some symbolic labels are descriptive
+    rather than traditional taxonomy. No cross-tradition comparison claims are made
+    from this passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available motif families and applied only where directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l8226-l8241
+  passage_sha256=dffd64c17962f58ae4cbf37187bb44baf8e18730afb15c7ba1e8a007626a1a7c
+

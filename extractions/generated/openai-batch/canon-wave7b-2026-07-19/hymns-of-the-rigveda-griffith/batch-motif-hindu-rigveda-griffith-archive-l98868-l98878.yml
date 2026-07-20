@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l98868-l98878
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 4. / KEITEL O / ARANYAKA II / KEITH LP; lines 98868-98878
+  start: '98868'
+  end: '98878'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Sages in their wisdom discovered Indra dancing an anustubh.”"
+  summary: The passage discusses a production or enumeration as a thousand items in
+    various metres, cites a Rsi quoting RV X.124.9 about sages discovering Indra dancing
+    an anustubh, and explains this as discovering the breath of Indra in speech, followed
+    by statements about fame and possible untimely death. A note lists several chant
+    or melodic forms as derived from specified Rigvedic verses according to Sayana.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that something is produced as a thousand items and that some
+    recognize a thousand in various metres.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Alternative enumerations are given, including a thousand jagatis and a thousand
+    anustubhs, with some OCR-uncertain terms also listed.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Rsi is said to quote RV X.124.9 about sages discovering Indra dancing an
+    anustubh.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The explanation states that the cited discovery denotes discovering the breath
+    of Indra in speech.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that a contextually implied person can become famous and
+    of splendid renown, and then reports a contrary or qualifying statement that he
+    is liable to die untimely.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note says several named forms are formed from specified Rigvedic verses,
+    according to Sayana’s note.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: Indra is the figure whom sages discover dancing an anustubh; the passage
+    also speaks of the breath of Indra in speech.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Sages
+  description: The sages are described as discovering Indra in their wisdom.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: A Rsi
+  description: A Rsi is introduced as the speaker of the cited Rigvedic verse.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: discovered divine figure associated with breath in speech
+  assigned_to:
+  - fig:1
+  basis: Indra is discovered dancing an anustubh, and the explanation identifies the
+    discovery with the breath of Indra in speech.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: wise discoverers
+  assigned_to:
+  - fig:2
+  basis: The verse says that sages in their wisdom discovered Indra.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: verse-citing seer
+  assigned_to:
+  - fig:3
+  basis: The passage introduces the quotation with the statement that a Rsi says it.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: thousand
+  literal_form: the number thousand applied to metrical or textual units
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: anustubh
+  literal_form: a metre; Indra is described as dancing an anustubh
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: speech
+  literal_form: speech as the place or medium in which the breath of Indra is discovered
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: breath of Indra
+  literal_form: the breath of Indra discovered in speech
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Enumeration of thousandfold metres
+  summary: The passage describes a thousandfold production or recognition and reports
+    differing views about which metres or metrical units are counted.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sages discover Indra dancing an anustubh
+  summary: A Rsi-cited verse says that sages, through wisdom, discovered Indra dancing
+    an anustubh.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Explanation as breath in speech
+  summary: The passage explains the discovery as the discovery of Indra’s breath in
+    speech, and adds statements about fame and possible untimely death for an implied
+    person.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wise sages discover a divine presence
+  taxonomy_refs:
+  - wisdom
+  basis: The cited verse explicitly says that sages in their wisdom discovered Indra.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a brief exegetical citation rather than a narrative
+    episode.
+- id: motif:2
+  label: divine breath found in speech
+  taxonomy_refs: []
+  basis: The passage explains the discovery of Indra as finding the breath of Indra
+    in speech.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The symbolic function of speech and breath is stated only in a compressed
+    explanatory sentence.
+- id: motif:3
+  label: thousandfold metrical abundance
+  taxonomy_refs: []
+  basis: The passage repeatedly frames the material as a thousand and relates the
+    number to various metres.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: OCR uncertainty affects several metrical terms, and the passage is technical
+    rather than narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 98868-98871
+  quote_or_summary: The passage says this is produced as a thousand items; some recognize
+    a thousand of various metres and others speak of a thousand of several named metrical
+    types, including jagatis and anustubhs.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 98871-98873
+  quote_or_summary: "“Sages in their wisdom discovered Indra dancing an anustubh.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 98873-98875
+  quote_or_summary: The passage explains the verse as meaning that they discovered
+    the breath of Indra in speech, then states that he can become famous and of splendid
+    renown, with a further statement that he is liable to die untimely.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 98876-98878
+  quote_or_summary: A note lists several named forms as formed from specified Rigvedic
+    verses, according to Sayana’s note, though several terms appear OCR-uncertain
+    in the supplied text.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main figures and actions are identifiable, but several technical terms
+    are OCR-corrupted and the passage is exegetical rather than a full mythic narrative.
+    No comparison claims were made beyond taxonomy-style motif candidates supported
+    by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata. Taxonomy references were used only where directly supported by available terms.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l98868-l98878
+  passage_sha256=e5f735d1522381cdbba290bf46e0bc3356807fe1781bbf0b3e52968f741a5cba
+

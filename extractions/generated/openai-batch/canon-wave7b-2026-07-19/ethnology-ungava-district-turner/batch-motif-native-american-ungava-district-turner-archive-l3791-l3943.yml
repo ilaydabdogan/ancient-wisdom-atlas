@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l3791-l3943
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: TATTOOING, / CLOTHING, / TURNE / TULMNY; lines 3791-3943
+  start: '3791'
+  end: '3943'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the construction, use, maintenance, and regional
+    variation of a waterproof gut frock used with a kayak, followed by a description
+    of wooden snow goggles made to protect the eyes from snow glare.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Strips of intestine are sewn edge to edge, folded in opposite directions,
+    and stitched with sinew thread to make the body of the garment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Additional strips are added until the garment can surround the body; hood
+    and sleeves are formed and attached, with seams running vertically.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hood edge, wrists, and bottom of the garment are strengthened with thin
+    sealskin strips.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The garment is worn during wet weather or rough-sea kayak travel and is tied
+    around the kayak hoop to shed water and prevent water from entering the kayak.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A drawstring may close the hood tightly around the face to prevent spray from
+    entering.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When not in use, the material must be oiled and rolled; otherwise it becomes
+    stiff and must be relaxed by dipping in water.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Wet sinew swells and tightens the seams of the garment.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage compares Hudson Strait, Northern Sound Alaska, and Aleut garments
+    by length, strip arrangement, and material quality.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Snow goggles are worn to protect the eyes from snow glare and admit light
+    only through a narrow slit.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The snow goggles are made from curved wood with a nose notch, blackened front
+    surface, projecting ledge, gouged interior, and sealskin attachments for holding
+    them on the head.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: garment and goggle wearer
+  description: A person who wears the waterproof gut garment in wet weather or kayak
+    travel and wears snow goggles against snow glare.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: people of Hudson Strait / eastern Eskimo
+  description: The passage identifies the Hudson Strait garment as short, scarcely
+    reaching the hips, and associates eastern natives with coarser and stiffer prepared
+    material.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Eskimo of Northern Sound, Alaska
+  description: The passage states that their comparable garments fall to the knees.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Aleuts
+  description: The passage states that Aleut garments are so long that they interfere
+    with the feet in walking.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: waterproof-garment wearer in kayak travel
+  assigned_to:
+  - fig:1
+  basis: The garment is worn in wet weather or rough seas and tied around the kayak
+    hoop.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: snow-goggle wearer
+  assigned_to:
+  - fig:1
+  basis: Snow goggles are worn to protect the eyes from snow glare.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: regional comparison group
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage compares garment length and material among Hudson Strait/eastern
+    Eskimo, Northern Sound Alaska Eskimo, and Aleuts.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: waterproof gut frock
+  literal_form: Intestine garment with hood, sleeves, sinew seams, and sealskin-reinforced
+    edges.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: kayak hoop
+  literal_form: Hoop of the kayak around which the bottom of the garment is tied.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: snow goggles
+  literal_form: Curved wooden eye-protectors with a narrow viewing slit and sealskin
+    fastenings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: sinew thread and swelling seam
+  literal_form: Sinew thread from reindeer or seal, used for seams and described as
+    swelling when wet.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: construction of the waterproof gut frock
+  summary: Intestine strips are folded, sewn with sinew, extended into a body, and
+    fitted with hood and sleeves; vulnerable edges are reinforced with sealskin.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: kayak use in wet weather
+  summary: A wearer uses the gut frock in wet weather or rough sea travel, tying it
+    to the kayak hoop and optionally closing the hood with a drawstring to block spray.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: maintenance of the garment
+  summary: The garment must be oiled and rolled when not used; if stiffened, it is
+    relaxed in water, and its sinew seams tighten when wet.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: regional comparison of gut garments
+  summary: The passage distinguishes Hudson Strait, Northern Sound Alaska, and Aleut
+    versions by garment length, strip arrangement, and material quality.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: snow-goggle protection
+  summary: A wearer uses wooden goggles with a narrow slit and darkened front to reduce
+    snow glare while allowing sight.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: protective crafted covering against water and glare
+  taxonomy_refs: []
+  basis: 'The passage presents two protective technologies: a waterproof gut garment
+    for wet kayak travel and snow goggles for glare protection.'
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a material-culture pattern, not a stated mythological or ritual
+    motif; no symbolic meaning is given in the passage.
+- id: motif:2
+  label: regional variation of a shared functional garment
+  taxonomy_refs: []
+  basis: The passage compares similar waterproof garments among Hudson Strait/eastern
+    Eskimo, Northern Sound Alaska Eskimo, and Aleuts, noting functional similarity
+    and differences in length and material.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supports comparison of garment form and function only; it
+    does not support claims about origin, diffusion, or mythic meaning.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares waterproof gut garments among Hudson Strait/eastern
+    Eskimo, Northern Sound Alaska Eskimo, and Aleuts as related by function while
+    differing in length, strip arrangement, and material quality.
+  claim_level: same_function
+  target: waterproof gut garments of Hudson Strait, Northern Sound Alaska, and Aleut
+    groups
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is ethnographic and functional within the passage; it
+    does not establish historical contact, common inheritance, or mythological equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3791-3943, waterproof gut frock construction
+  quote_or_summary: The passage describes sewing intestine strips edge to edge with
+    sinew thread, adding strips until the garment surrounds the body, and forming
+    hood and sleeves with vertical seams.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 3791-3943, waterproof gut frock use
+  quote_or_summary: The hood, wrists, and bottom are reinforced with sealskin; the
+    garment is worn in wet weather or rough-sea kayak travel, tied around the kayak
+    hoop, and may use a drawstring hood to keep spray out.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 3791-3943, garment maintenance
+  quote_or_summary: When not used, the material must be oiled and rolled; if stiff,
+    it is relaxed by dipping in water, and wet sinew swells to tighten the seams.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 3791-3943, regional comparison of garments
+  quote_or_summary: Hudson Strait garments scarcely reach the hips; Northern Sound
+    Alaska garments fall to the knees; Aleut garments are very long; eastern material
+    is described as coarser and stiffer than sea-lion material used in Alaska.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: quote
+  locator: lines 3791-3943, snow goggles introduction
+  quote_or_summary: "“To protect the eyes from the glare of the snow ... snow goggles
+    are worn made to admit the light only through a narrow slit.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 3791-3943, snow goggles construction
+  quote_or_summary: The goggles are a curved wooden piece fitted to the face with
+    a nose notch, blackened front surface, narrow slit, sometimes a projecting ledge,
+    gouged interior, and sealskin straps or ties.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is ethnographic and material rather than mythic. OCR noise is
+    present near the beginning, but the clothing and eye-protector descriptions are
+    largely intelligible.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif-family IDs were applied because the passage does not state a mythological motif. No symbolic interpretation beyond literal objects and functional patterns has been added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l3791-l3943
+  passage_sha256=0b41fd2fd8645b18434eb004fe2e70ce37455126ae6388fde1f91ee880b1ffcf
+

@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l6526-l6630
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CHAPTER   V / RELATIONSHIP / CH.  V  RELATIONSHIP  129 / V  RELATIONSHIP  131;
+    lines 6526-6630
+  start: '6526'
+  end: '6630'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists Ganda kinship terms for spouses, cousins, children, grandchildren,
+    and in-laws, with distinctions by the sex of the speaker. It also records avoidance
+    rules involving persons termed Kizibwewe and a sister's son's wife, states that
+    a man regarded his sisters as slaves, and says that sexual relations with a father's
+    sister, with women termed Kizibwewe, or with women called Mwana made a man Kiwe
+    and punishable by death.
+  language: English with Ganda kinship terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage gives the terms Ba for husband and Mukazi for wife.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kin terms for children of a father's or mother's siblings vary by the relative's
+    sex and by whether a man or woman is speaking; terms listed include Muganda, Mwanyina,
+    and Kizibwewe.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Two Kizibwewe entries include restrictions that the woman may not come near
+    specified male relatives.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists terms for son, daughter, brother's children, sister's children,
+    grandchildren, spouse's parents, spouse's siblings, and spouse's siblings' spouses
+    or children.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A sister's son's wife is termed Muka mwana, and the passage says her uncle
+    may not touch her.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that a man regarded his sisters as his slaves and treated
+    them as such.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that if a man had sexual relations with his father's sister,
+    with women termed Kizibwewe, or with women called Mwana, he was called Kiwe and
+    put to death.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Husband, Ba
+  description: A spouse category glossed as husband and given the Ganda term Ba.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Wife, Mukazi
+  description: A spouse category glossed as wife and given the Ganda term Mukazi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Male speaker or man
+  description: A kinship speaker whose sex affects some terms; also the subject in
+    statements about sisters and prohibited sexual relations.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Woman speaker
+  description: A kinship speaker whose sex affects some listed terms.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Relatives termed Kizibwewe
+  description: A kinship category appearing in several cousin entries, with coming-near
+    restrictions in two entries and inclusion among women with whom sexual relations
+    are prohibited.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:6
+  name_or_label: Father's sister, Sengawe
+  description: A father's sister, named Sengawe in the final prohibition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Women called Mwana
+  description: Women identified by the passage as called Mwana in the context of a
+    sexual prohibition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Sisters of a man
+  description: Sisters whom a man is said to regard and treat as slaves.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Sister's son's wife, Muka mwana
+  description: A sister's son's wife, termed Muka mwana, whom her uncle may not touch.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: spouse category
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage directly lists husband/Ba and wife/Mukazi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sex-marked kinship speaker
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Several kin terms are given with parenthetical notes specifying man speaking
+    or woman speaking.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: avoidance relative
+  assigned_to:
+  - fig:5
+  - fig:9
+  basis: Kizibwewe entries include coming-near restrictions, and the sister's son's
+    wife may not be touched by her uncle.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: prohibited sexual partner category
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage lists father's sister, women termed Kizibwewe, and women called
+    Mwana as partners in a prohibited sexual relation.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: punished male offender
+  assigned_to:
+  - fig:3
+  basis: The passage says a man committing the specified sexual acts was called Kiwe
+    and put to death.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: subordinated sister category
+  assigned_to:
+  - fig:8
+  basis: The passage states that a man regarded and treated his sisters as slaves.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Kinship terminology catalogue
+  summary: The passage catalogues kinship terms for spouses, cousins, descendants,
+    grandchildren, and affinal relatives, sometimes distinguishing the sex of the
+    speaker.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Avoidance and touch restrictions
+  summary: Certain relatives termed Kizibwewe may not come near specified male relatives,
+    and a sister's son's wife may not be touched by her uncle.
+  figure_refs:
+  - fig:5
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Sisters and prohibited sexual relations
+  summary: The passage states that a man treated his sisters as slaves and that sexual
+    relations with a father's sister, Kizibwewe women, or women called Mwana resulted
+    in the man being called Kiwe and put to death.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Kinship avoidance taboo
+  taxonomy_refs: []
+  basis: The passage records coming-near restrictions for Kizibwewe relatives and
+    a no-touch rule for a sister's son's wife.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic kinship rule rather than a narrative mythic episode;
+    no supplied taxonomy family directly matches it.
+- id: motif:2
+  label: Prohibited kin sexual relations punished by death
+  taxonomy_refs: []
+  basis: The passage says sexual relations with a father's sister, women termed Kizibwewe,
+    or women called Mwana made a man Kiwe and led to death.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives a customary sanction without mythic explanation; no
+    supplied taxonomy family directly matches it.
+- id: motif:3
+  label: Classificatory kinship terminology
+  taxonomy_refs: []
+  basis: The passage lists many relationship categories and maps them to Ganda terms,
+    with some distinctions by speaker sex.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is primarily a descriptive social classification pattern, not a mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6526-6530; items 26-27
+  quote_or_summary: Items list husband as Ba and wife as Mukazi.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6531-6561; items 28-40
+  quote_or_summary: Items list terms for children of a father's or mother's siblings,
+    with man-speaking and woman-speaking distinctions and terms including Muganda,
+    Mwanyina, and Kizibwewe.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 6538-6540 and 6552-6554; items 31 and 36
+  quote_or_summary: Kizibwewe entries say she "may not come near" specified male relatives.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 6562-6621; items 41-68
+  quote_or_summary: Items list terms for children, siblings' children, grandchildren,
+    spouses' parents, spouses' siblings, and related in-law categories.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 6572-6574; item 47
+  quote_or_summary: '"Sister''s son''s wife, Muka mwana (her uncle may not touch her)."'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: quote
+  locator: lines 6624-6625
+  quote_or_summary: '"A man regarded his sisters as his slaves, and treated them as
+    such."'
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:7
+  type: summary
+  locator: lines 6625-6629
+  quote_or_summary: If a man had sexual relations with his father's sister, women
+    termed Kizibwewe, or women called Mwana, he was called Kiwe and put to death.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The kinship and taboo details are explicit, but several Ganda terms show
+    OCR irregularities in the provided passage. No comparison claims were generated
+    because the passage does not itself supply comparative material.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied symbol taxonomy item applies to this passage; symbols and comparison claims are left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l6526-l6630
+  passage_sha256=e7fba7bb303c67fc85ee2d278fc1625616e3191f657584b0e80a9dc3ef4e0975
+

@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l4068-l4089
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION LI / SECTION LII / SECTION LIII / SECTION LIV; lines 4068-4089
+  start: '4068'
+  end: '4089'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: appeared to the spectators like the sun and the moon covered by clouds
+  summary: Karna and Arjuna fight from their chariots with dense volleys of arrows.
+    Karna strikes Arjuna's horses, charioteer, and flagstaff. Arjuna retaliates with
+    Gandiva, wounds Karna across his body, and Karna leaves the front of battle and
+    flees.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two heroes stationed on their cars fight with countless shafts and weapons,
+    creating cloud-like masses of keen-edged arrows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The two combatants are described as appearing to spectators like the sun and
+    moon covered by clouds.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Karna pierces the four horses of the diadem-decked hero, strikes the car-driver
+    with three shafts, and strikes the flagstaff with three shafts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jishnu, wielding Gandiva, responds by attacking Karna furiously with straight-going
+    arrows.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Arjuna returns a thick arrow-shower and covers Karna's car with many shafts.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Arjuna draws crescent-shaped arrows and pierces Karna on many body parts with
+    shafts shot from Gandiva.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Karna, wounded and afflicted by Arjuna's arrows, quits the front of battle
+    and flees.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Karna
+  description: Light-handed Karna, also called the Suta's son and Vikartana's son;
+    he fights Arjuna, attacks Arjuna's chariot team and equipment, is wounded, and
+    flees.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Arjuna / Jishnu / Partha
+  description: The diadem-decked hero, bull of the Kuru race, son of Pandu, and wielder
+    of Gandiva; he counterattacks Karna and wounds him.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Arjuna's car-driver
+  description: The car-driver of the diadem-decked hero, struck by Karna with three
+    shafts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Four horses of Arjuna's chariot
+  description: The four horses of the diadem-decked hero, pierced by Karna with whetted
+    arrows.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Spectators
+  description: Observers before whom the two chariot heroes appear like the sun and
+    moon covered by clouds.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: chariot combatant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both heroes are stationed on cars during the combat.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: attacker of chariot team and insignia
+  assigned_to:
+  - fig:1
+  basis: Karna pierces the horses and strikes the car-driver and flagstaff.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: counterattacking archer
+  assigned_to:
+  - fig:2
+  basis: Jishnu wielding Gandiva furiously attacks Karna and later pierces him with
+    arrows.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: wounded retreating combatant
+  assigned_to:
+  - fig:1
+  basis: Karna is mangled by Arjuna's arrows, quits the van of battle, and flees.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: charioteer
+  assigned_to:
+  - fig:3
+  basis: The passage calls him the car-driver and says Karna struck him with three
+    shafts.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: witnesses
+  assigned_to:
+  - fig:5
+  basis: The passage explicitly mentions spectators viewing the two heroes.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: chariot horse team
+  assigned_to:
+  - fig:4
+  basis: The four horses of the diadem-decked hero are pierced by Karna.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: arrow-cloud or arrow-shower
+  literal_form: Down-pour, clouds, and shower of keen-edged arrows
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: sun and moon covered by clouds
+  literal_form: The sun and moon covered by clouds as an image for the two heroes
+    obscured by arrows
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: war chariot apparatus
+  literal_form: Cars, horses, car-driver, and flagstaff
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: Gandiva bow
+  literal_form: The Gandiva wielded by Jishnu/Arjuna
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: lion and elephant combat imagery
+  literal_form: A lion awakened from slumber, a lion attacked by an elephant, and
+    one elephant vanquished by another
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: thunderbolt-like shafts
+  literal_form: Shafts endowed with the impetuosity of the thunderbolt
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: crescent-shaped arrows
+  literal_form: Keen crescent-shaped arrows drawn from Arjuna's quiver
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Chariot duel under arrow-clouds
+  summary: Karna and Arjuna fight from chariots with countless arrows and weapons,
+    while their volleys are described as clouds covering sun and moon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Karna strikes Arjuna's chariot supports
+  summary: Karna shoots Arjuna's four horses, car-driver, and flagstaff.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Arjuna's retaliation
+  summary: Arjuna, wielding Gandiva, responds with a thick arrow-shower, covers Karna's
+    car, and pierces Karna with crescent-shaped and thunderbolt-like shafts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Karna's retreat
+  summary: After being wounded by Arjuna's arrows, Karna leaves the van of battle
+    and flees, compared to an elephant defeated by another elephant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Reciprocal arrow-storm duel
+  taxonomy_refs: []
+  basis: The two chariot heroes create clouds, downpours, and showers of arrows during
+    combat.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a descriptive martial pattern in the passage, not matched to a
+    supplied taxonomy family.
+- id: motif:2
+  label: Attack on chariot mobility and insignia
+  taxonomy_refs: []
+  basis: Karna targets the horses, car-driver, and flagstaff of Arjuna's chariot.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives this as a tactical action; broader symbolic meaning
+    is not asserted.
+- id: motif:3
+  label: Heroic counterattack after being struck
+  taxonomy_refs: []
+  basis: After Karna's attack on his chariot, Jishnu/Arjuna is likened to a lion awakened
+    from slumber and attacks Karna furiously.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No external mythic analogue is claimed.
+- id: motif:4
+  label: Wounded warrior forced into flight
+  taxonomy_refs: []
+  basis: Karna is mangled by Arjuna's arrows, quits the front of battle, and flees.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is an episode-level battle outcome rather than a named taxonomy motif.
+- id: motif:5
+  label: Cosmic and animal simile magnification of battle
+  taxonomy_refs: []
+  basis: The combat is amplified through images of sun and moon, clouds, lion and
+    elephant combat, and thunderbolt-like arrows.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This groups several similes from the passage; it should be reviewed before
+    use as a formal motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4068-4072
+  quote_or_summary: The two heroes on cars create clouds of keen-edged arrows and
+    appear to spectators like the sun and moon covered by clouds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain translation; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4072-4075
+  quote_or_summary: Karna pierces the four horses of the diadem-decked hero, strikes
+    the car-driver with three shafts, and also strikes the flagstaff with three shafts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:3
+  type: summary
+  locator: lines 4075-4079
+  quote_or_summary: Jishnu, wielding Gandiva and compared to a lion awakened from
+    slumber, attacks Karna with straight-going arrows and answers Karna's arrowy shower.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:4
+  type: summary
+  locator: lines 4079-4083
+  quote_or_summary: Arjuna covers Karna's car with countless shafts, is compared to
+    a lion attacked by an elephant, and draws keen crescent-shaped arrows.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summary by extractor.
+- id: ev:5
+  type: summary
+  locator: lines 4083-4089
+  quote_or_summary: Arjuna pierces Karna's limbs and other body parts with Gandiva-shot
+    shafts described as thunderbolt-like; Karna, mangled and afflicted, leaves the
+    battle front and flees like a vanquished elephant.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summary by extractor.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal combat sequence is clear. Motif candidates are descriptive and not
+    assigned to the supplied taxonomy families. No external comparison claims were
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy symbol or motif-family reference was applied because the passage's prominent images are arrows, chariots, sun and moon, clouds, lion, elephant, and thunderbolt rather than the listed taxonomy symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l4068-l4089
+  passage_sha256=b73014bc4ec896ce1ac5a4a43ed5dd6a971766a01cc71ab550b13204b34a03c6
+

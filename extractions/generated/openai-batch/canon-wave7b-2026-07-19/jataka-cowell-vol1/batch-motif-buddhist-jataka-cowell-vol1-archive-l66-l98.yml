@@ -1,0 +1,134 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol1-archive-l66-l98
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+passage_locator:
+  label: THE    JATAKA / STORIES  OF  THE  BUDDHA'S  FOEMER  BIRTHS / CAMBBIDGE   UNIVERSITY  PRESS  WAREHOUSE,
+    / AVE   MARIA  LANE.; lines 66-98
+  start: '66'
+  end: '98'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"SCENE FROM THE 8TUPA OF BHARHUT ILLUSTRATING JATAKA 46"'
+  summary: Front matter for The Jataka; or, Stories of the Buddha's Former Births,
+    Vol. I, including title-page publication details and a caption identifying a scene
+    from the Stupa of Bharhut as illustrating Jataka 46.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents the title as The Jataka, or stories of the Buddha's former
+    births.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage names publication or distribution locations associated with Cambridge
+    University Press Warehouse, C. J. Clay and Sons, F. A. Brockhaus, and Macmillan
+    and Co.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A caption identifies a scene from the Stupa of Bharhut as illustrating Jataka
+    46.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage is front matter and caption material rather than a narrated Jataka
+    episode.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the Buddha
+  description: Named in the title as the figure whose former births are the subject
+    of the stories.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: named subject of former-birth stories
+  assigned_to:
+  - fig:1
+  basis: The title describes the work as stories of the Buddha's former births.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Stupa of Bharhut
+  literal_form: stupa or monument named in the caption
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Captioned Bharhut stupa scene
+  summary: The caption says that a scene from the Stupa of Bharhut illustrates Jataka
+    46 and gives Cunningham plate information.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Buddha's former births
+  taxonomy_refs:
+  - death_rebirth
+  basis: The title identifies the work as stories of the Buddha's former births.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is title/front matter only; it does not narrate an actual
+    death, rebirth, or former-life episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 66-76
+  quote_or_summary: '"THE JATAKA OR STORIES OF THE BUDDHA''S FOEMER BIRTHS"'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 77-94
+  quote_or_summary: The passage lists C. J. Clay and Sons and Cambridge University
+    Press Warehouse at Ave Maria Lane, plus Glasgow, Leipzig, and New York publication
+    or distribution entries.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 97-98
+  quote_or_summary: '"SCENE FROM THE 8TUPA OF BHARHUT ILLUSTRATING JATAKA 46 (from
+    Cunningham, Pl. xlv, 5.)"'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is bibliographic front matter with a caption, so literal extraction
+    is straightforward but motif identification is minimal and tentative. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative Jataka content is present in the supplied line range.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol1-archive__l66-l98
+  passage_sha256=0f87536f53643cb594d7b39e54355e0820a2098a060de99f556d4b6b0bd9583a
+

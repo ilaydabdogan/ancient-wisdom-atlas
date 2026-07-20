@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.caucasian-folk-tales-dirr-menzies-archive-l3534-l3551
+source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+passage_locator:
+  label: COCK AND HEN NIGHTINGALE 43 / CHILDREN WITH GOLDEN LOCKS 45 / THE STORY OF
+    THE PIG 47 / THE STORY OF THE PIG 49; lines 3534-3551
+  start: '3534'
+  end: '3551'
+  translation: Caucasian Folk-Tales
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“I am his vizier.”"
+  summary: A fox finds an abbas in a dustheap, goes to the chan’s castle across a
+    river, asks for a measure to measure Bukutschichan’s silver, answers the chan’s
+    doubt by claiming to be Bukutschichan’s vizier, and takes the measure away.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The fox searches in a dustheap and finds an abbas.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fox carries the abbas to the chan’s castle, which is described as lying
+    on the other side of a river.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The fox asks the chan for a measure, saying it is needed to measure Bukutschichan’s
+    silver.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fox says he has tried elsewhere to obtain a measure but could not hear
+    of one anywhere.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The chan says he has never heard of Bukutschichan.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The fox asserts that Bukutschichan exists and states that he is Bukutschichan’s
+    vizier.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The fox takes the measure and runs away.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the fox
+  description: Animal figure who finds an abbas, goes to the chan’s castle, asks for
+    a measure, claims to be Bukutschichan’s vizier, and takes the measure away.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: the chan
+  description: Ruler or titled figure at a castle across the river; he is asked for
+    a measure and says he has never heard of Bukutschichan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Bukutschichan
+  description: Named figure mentioned by the fox as the owner of silver to be measured;
+    the chan says he has not heard of him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: animal petitioner and taker of the measure
+  assigned_to:
+  - fig:1
+  basis: The fox goes to the castle, asks the chan for a measure, and then takes it
+    away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: self-declared vizier
+  assigned_to:
+  - fig:1
+  basis: The fox states, “I am his vizier,” referring to Bukutschichan.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: castle-dwelling chan addressed for a measure
+  assigned_to:
+  - fig:2
+  basis: The fox goes to the chan’s castle and addresses the chan with a request for
+    a measure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: claimed owner of silver
+  assigned_to:
+  - fig:3
+  basis: The fox says the measure is for measuring Bukutschichan’s silver.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: abbas found in dustheap
+  literal_form: abbas
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dustheap
+  literal_form: dustheap where the fox searches
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: river by the chan’s castle
+  literal_form: river
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: measure
+  literal_form: measure requested from the chan and taken by the fox
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: Bukutschichan’s silver
+  literal_form: silver mentioned in the fox’s request
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Fox finds an abbas and goes to the castle
+  summary: The fox searches a dustheap, finds an abbas, and goes with it to the chan’s
+    castle across the river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Request for a measure
+  summary: The fox politely asks the chan for a measure, explaining that it is for
+    measuring Bukutschichan’s silver and that no measure could be found elsewhere.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Chan questions Bukutschichan and fox claims office
+  summary: The chan says he has not heard of Bukutschichan; the fox insists that Bukutschichan
+    exists, identifies himself as his vizier, takes the measure, and runs away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Animal intermediary obtains an object from a ruler by invoking an unseen
+    master
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fox crosses to the chan’s castle, requests a measure for Bukutschichan’s
+    silver, answers the chan’s doubt by claiming official status as vizier, and leaves
+    with the measure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly state that the fox’s statements are false;
+    the trickster classification rests on the fox’s animal identity, the status claim,
+    and the successful acquisition of the measure.
+- id: motif:2
+  label: Claimed hidden wealth signaled through a measuring vessel
+  taxonomy_refs: []
+  basis: The fox’s request centers on a measure said to be needed for Bukutschichan’s
+    silver, while the chan says he has never heard of Bukutschichan.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The wider tale context would be needed to determine whether the claim
+    of wealth is deception, proof of status, or another narrative device.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3534-3535
+  quote_or_summary: The fox runs away, searches in a dustheap until he finds an abbas,
+    and runs with it to the chan’s castle on the other side of the river.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:2
+  type: summary
+  locator: lines 3536-3540
+  quote_or_summary: The fox asks the chan for a measure with which to measure Bukutschichan’s
+    silver, saying he could not obtain one elsewhere.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:3
+  type: quote
+  locator: lines 3541-3543
+  quote_or_summary: "“Who is this Bukutschichan, then?” asked the chan. “I have never
+    heard anything about him.”"
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:4
+  type: quote
+  locator: lines 3545-3547
+  quote_or_summary: "“He exists, nevertheless,” answered the fox; “I am his vizier.”
+    He took the measure and ran away."
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain; source metadata allows full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied lines. Motif candidates
+    are tentative because the passage is brief and does not explicitly identify deception
+    or the broader tale function.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Footnotes included in the supplied excerpt were not used to define “abbas,” because their attachment to this narrative item is unclear within the provided passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:caucasian-folk-tales-dirr-menzies-archive__l3534-l3551
+  passage_sha256=0b5d492c44d8a55d384f902650caa035ff50040acd907202242a5a9daaf303fb
+

@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l2887-l2909
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: EARTH AND SKY / FOLK SONG / COMPLAINTS / A DAY AFTER; lines 2887-2909
+  start: '2887'
+  end: '2909'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A first-person speaker recalls lying sick and deathlike, wishing for death,
+    waking to see his mother’s tears, describing them as tokens of love and fear,
+    then asking God for pardon for the tears she has wept.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first-person speaker says he was slumbering darkly and lying in deathly
+    sweats.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker describes two fiery red roses on his faded cheeks and a ray of
+    Death’s pallor on his brow.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says he prayed and longed for death, then heard a sobbing breath.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker opened his weary eyes and saw his mother’s tears.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The mother’s tears are called priceless pearls and tokens of her love and
+    fears.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: The speaker says the mother bore grief in her heart and that he was that anguish.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker says he raged tempestuously and that a black torrent leapt outward.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The speaker addresses the God of mercy and asks pardon for the tears his mother
+    wept.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: A sick, weary speaker who lies in deathly sweats, longs for death,
+    sees his mother’s tears, rages, and asks God for pardon.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: mother
+  description: The speaker’s mother, whose tears are seen by the speaker and described
+    as tokens of love, fear, and grief.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: God of mercy
+  description: A deity addressed directly by the speaker in a plea for pardon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ailing speaker longing for death
+  assigned_to:
+  - fig:1
+  basis: The speaker lies in deathly sweats and says he prayed and longed for death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: grieving mother
+  assigned_to:
+  - fig:2
+  basis: The mother’s tears are seen by the speaker and linked to love, fear, and
+    grief.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: addressed merciful deity
+  assigned_to:
+  - fig:3
+  basis: The speaker addresses the God of mercy and requests pardon.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: cause of maternal anguish
+  assigned_to:
+  - fig:1
+  basis: The speaker says his mother bore grief and that he was that anguish.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fiery red roses on faded cheeks
+  literal_form: two roses fiery red on the speaker’s faded cheeks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Death’s pallor on the brow
+  literal_form: a ray of Death’s pallor trembling on the speaker’s brow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mother’s tears as pearls
+  literal_form: the mother’s tears, described as priceless pearls
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: black torrent
+  literal_form: a black torrent that outward leapt during the speaker’s rage
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: sickbed recollection and maternal tears
+  summary: The speaker recalls lying in a deathlike state, longing for death, waking
+    to a sobbing sound, seeing his mother’s tears, recognizing her grief, and asking
+    God for pardon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: death-longing amid illness
+  taxonomy_refs: []
+  basis: The speaker is described with deathly sweats and Death’s pallor and states
+    that he prayed and longed for death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage expresses a lyric death-wish rather than a completed death,
+    rebirth, or afterlife episode.
+- id: motif:2
+  label: mother’s tears reveal love and fear
+  taxonomy_refs: []
+  basis: The speaker sees his mother’s tears and identifies them as priceless pearls
+    and tokens of love and fear.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an emotional lyric image; no broader narrative pattern is specified
+    in the passage.
+- id: motif:3
+  label: plea for divine pardon after causing maternal grief
+  taxonomy_refs: []
+  basis: After recognizing his mother’s grief, the speaker addresses the God of mercy
+    and asks pardon for the tears his mother wept.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage contains a prayer for mercy but does not describe a divine
+    response or formal judgment scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2891-2896
+  quote_or_summary: "“As in deathly sweats I lay,” with “two roses fiery red” on the
+    cheeks and “Death’s pallor” on the brow."
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 2897-2898
+  quote_or_summary: "“And I prayed and longed for death. / Then I heard a sobbing
+    breath....”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 2899-2901
+  quote_or_summary: "“I unclosed my weary eyes / And beheld my mother’s tears— / Saw
+    those priceless pearls arise”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 2902-2904
+  quote_or_summary: "“Tokens of her love, her fears. / In her heart what grief she
+    bore! / And I was that anguish sore.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 2905-2906
+  quote_or_summary: "“Ah, I raged tempestuously, / That black torrent outward leapt
+    [12]:—”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: lines 2907-2908
+  quote_or_summary: "“God of mercy, pardon me, / For the tears my mother wept!”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited to local
+    lyric patterns because the passage does not provide a wider mythic narrative or
+    explicit comparative reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied public-domain English passage and metadata.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l2887-l2909
+  passage_sha256=fb9278750182dc541881c2cc504d986f9aae8a769001a5185573de1148560d95
+

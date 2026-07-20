@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l102070-l102148
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 2. / KEITH S / ARANYAKA IV / ARANYAKA V; lines 102070-102148
+  start: '102070'
+  end: '102148'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A ritual-procedural passage and notes describe remounting while omitting
+    an utterance, instructions to the Prastotr for proclaiming the first pratihara
+    in a pancavimsa stoma at specified verse-count intervals, Jatukarnya's preferred
+    timing, and a repeated verse addressing a fair-winged bird and an efficacious
+    word. Notes cite parallel Vedic ritual sources and variant mantra ordering.
+  language: English with Sanskrit transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A ritual instruction says the actor should mount again in the previously described
+    manner, but omit the utterance of bhu, bhuvah, and svar.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note interprets the foot movement as alternating the feet and says both
+    feet must not be off the ground at once.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:3
+  text: The actor instructs the Prastotr to proclaim the first pratihara in the pancavimsa
+    stoma when three, two and a half, or twelve and a half verses remain.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Jatukarnya is reported as holding that the proclamation should be made when
+    twelve and a half verses remain.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the Prastotr has spoken, the actor repeats a verse addressing a bird
+    with fair wings.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The repeated verse says the speaker will speak forth a word that will declare
+    much, and the surrounding phrase emphasizes producing, gaining, and effecting
+    much.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note says the same series of gods and metres occurs in several other Vedic
+    ritual texts.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note says the Sankhayana Aranyaka and Sankhayana Srauta Sutra give the mantras
+    in reverse order and omit an element.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Unnamed ritual actor
+  description: The unnamed 'he' who mounts again, instructs the Prastotr, and repeats
+    the verse after the Prastotr has spoken.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Prastotr
+  description: A ritual officiant or cantor who is instructed to proclaim the first
+    pratihara and who speaks before the verse is repeated.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Jatukarnya
+  description: A named ritual authority whose view is cited about the timing of the
+    proclamation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Bird with fair wings
+  description: A bird addressed in the repeated verse as having fair wings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual performer and instructor
+  assigned_to:
+  - fig:1
+  basis: The actor performs the mounting instruction, instructs the Prastotr, and
+    repeats the verse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: Prastotr ritual cantor
+  assigned_to:
+  - fig:2
+  basis: The passage names the Prastotr as the one instructed to proclaim the first
+    pratihara and as the one who has spoken before the verse is repeated.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: ritual opinion-holder
+  assigned_to:
+  - fig:3
+  basis: Jatukarnya is cited as holding a specific timing for the action.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mantra addressee
+  assigned_to:
+  - fig:4
+  basis: The verse directly addresses a bird with fair wings.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fair-winged bird
+  literal_form: bird with fair wings
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: efficacious spoken word
+  literal_form: word to be spoken forth that declares much
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: omitted triadic utterance
+  literal_form: utterance of bhu, bhuvah, and svar
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Remounting with omitted utterance
+  summary: The ritual actor is told to mount again as previously described, leaving
+    out the utterance of bhu, bhuvah, and svar.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Instruction to the Prastotr
+  summary: The actor instructs the Prastotr about when to proclaim the first pratihara
+    in the pancavimsa stoma; Jatukarnya's preferred timing is also reported.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fair-winged bird verse
+  summary: After the Prastotr has spoken, the actor repeats a verse addressing a fair-winged
+    bird and announcing a word that will declare much.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sacrificial chant procedure
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage concerns stoma, Prastotr, pratihara, timed verses, and a repeated
+    ritual verse within a sacrificial procedure.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is procedural rather than narrative; the motif is a ritual-pattern
+    classification.
+- id: motif:2
+  label: efficacious ritual speech producing abundance
+  taxonomy_refs: []
+  basis: The repeated verse states that the speaker will speak forth a word that declares
+    much, and the following phrase emphasizes producing, gaining, and effecting much.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The exact ritual force of the epithets is affected by transliteration
+    and OCR uncertainty in the passage.
+- id: motif:3
+  label: ritual remounting or ascent with winged imagery
+  taxonomy_refs:
+  - ascent
+  basis: The passage combines a remounting instruction with a later verse addressing
+    a fair-winged bird.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: low
+  cautions: The mounting may be only a physical ritual action, and the bird image
+    is part of a mantra rather than a narrative flight or ascent.
+comparison_claims:
+- id: claim:1
+  claim: The notes identify the same series of gods and metres as recurring in several
+    other Vedic ritual sources.
+  claim_level: same_function
+  target: Vajasaneyi Samhita, Taittiriya Samhita, Maitrayani Samhita, Tandya Mahabrahmana,
+    Sankhayana Aranyaka, Satapatha Brahmana, and Aitareya Brahmana references listed
+    in the note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports textual parallels but does not give the full parallel
+    passages or establish a mythic narrative comparison.
+- id: claim:2
+  claim: The notes compare the ordering of the mantras with Sankhayana Aranyaka and
+    Sankhayana Srauta Sutra, stating that those texts give the mantras in reverse
+    order and omit an element.
+  claim_level: linguistic_similarity
+  target: Sankhayana Aranyaka I, 8 and Sankhayana Srauta Sutra XVII, 17
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on a footnote and concerns ritual-mantra arrangement
+    rather than a fully described motif.
+- id: claim:3
+  claim: The note links the fair-winged bird formula to Vajasaneyi Samhita XII, 4
+    and reports a Sankhayana identification of the formula with prana.
+  claim_level: linguistic_similarity
+  target: Vajasaneyi Samhita XII, 4 and Sankhayana interpretation of suparno'si garutman
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief cross-reference, so the extent of the
+    parallel cannot be verified from this excerpt alone.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 102070-102148
+  quote_or_summary: '"should mount again in the manner above set forth, omitting the
+    utterance (of bhu, bhuvah, and svar)."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata.
+- id: ev:2
+  type: quote
+  locator: lines 102070-102148
+  quote_or_summary: '"He instructs the Prastotr, ''In the pafcaviméa stoma proclaim
+    the first pratthara when either three verses remain ... or two and a half ...
+    or twelve and a half.'' Jatukarnya holds ... twelve and a half verses."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata.
+- id: ev:3
+  type: quote
+  locator: lines 102070-102148
+  quote_or_summary: '"When the Prastotr has spoken, he repeats ... ''Thou art a bird
+    with fair wings, I shall speak forth this word, which will declare much,'' ...
+    produce much, gain much, effect more than much."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 102070-102148
+  quote_or_summary: A note says the same series of gods and metres occurs in Vajasaneyi
+    Samhita, Taittiriya Samhita, Maitrayani Samhita, Tandya Mahabrahmana, Sankhayana
+    Aranyaka, and related Brahmana passages.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 102070-102148
+  quote_or_summary: A note says the Sankhayana Aranyaka and Sankhayana Srauta Sutra
+    give the mantras in reverse order, mentions a Vajasaneyi Samhita parallel for
+    suparno'si garutman, and says Sankhayana identifies it with prana.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 102070-102148
+  quote_or_summary: A note explains that the feet are to be used alternately and that
+    both feet must not be off the ground at once.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage contains OCR/transliteration noise and is largely ritual commentary
+    rather than mythic narrative. The supplied source path/title identify a Rigveda
+    Griffith file, while the passage itself labels Aitareya Aranyaka V; this should
+    be checked in review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to the provided motif-family list; no available symbol taxonomy item directly matches the bird, mantra word, or triadic utterance.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l102070-l102148
+  passage_sha256=70fb94c730ba5c8a3e3d14c4654bc5e984a09e20bac986e25a21d06bf75ddfe4
+

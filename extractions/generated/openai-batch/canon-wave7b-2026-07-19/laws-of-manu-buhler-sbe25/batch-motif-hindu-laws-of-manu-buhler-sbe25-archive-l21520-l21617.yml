@@ -1,0 +1,514 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l21520-l21617
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: VIII,  156.        CIVIL  AND  CRIMINAL  LAW ;    DEBTS.  28 1 / VIII,  177-         CIVIL  AND  CRIMINAL  LAW;    DEBTS.  285
+    / VIII,  189.       CIVIL  AND  CRIMINAL  LAW  ;    DEPOSITS.  287 / VIII,  198.       DEPOSITS  J    SALE  WITHOUT  OWNERSHIP.       289;
+    lines 21520-21617
+  start: '21520'
+  end: '21617'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives legal rules for deposits, private bailment and return,
+    royal adjudication of deposit disputes, sale without ownership, title and possession,
+    market purchase before witnesses, restitution when the original seller is unavailable,
+    and prohibitions on adulterated, misdescribed, deficient, unavailable, or concealed
+    commodities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A deposit made before witnesses with a specified description or quantity is
+    to be known by that description or quantity, and a depositary who makes a false
+    statement about it is liable to a fine.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note to VIII.194 states that witnesses are to be examined about the deposit
+    and that their evidence is conclusive.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Anything delivered or received privately must be returned privately, matching
+    the manner of the original bailment.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king is instructed to decide cases about deposits and friendly loans for
+    use without undue rigour toward the depositary.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A person who sells another man's property without ownership and without the
+    owner's assent is treated as a thief and is not to be admitted by the judge as
+    a witness.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: If the unauthorized seller is a kinsman of the owner, he is fined six hundred
+    pa^as; if he is not a kinsman and has no excuse, he is guilty of theft.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A gift or sale made by someone other than the owner is to be considered null
+    and void in judicial proceedings.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Where possession is evident but title is not, title rather than possession
+    is the proof of ownership.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A person who buys a chattel in the market before witnesses acquires that chattel
+    with clear legal title by purchase.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: If the original seller cannot be produced, the buyer is exculpated by the
+    public sale and dismissed by the king without punishment, while the former owner
+    receives the lost chattel back.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: A commodity mixed with another must not be sold as pure, a bad commodity must
+    not be sold as good, deficient quantity must not be sold as full quantity, and
+    unavailable or concealed goods must not be sold.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: King or judge
+  description: The judicial authority who decides deposit and loan cases, excludes
+    the unauthorized seller as a witness, and dismisses an exculpated buyer without
+    punishment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: fig:2
+  name_or_label: Depositary
+  description: The person holding a deposit who may be fined for a false statement
+    and is not to be treated with undue rigour in deposit cases.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Witnesses
+  description: The group present at a deposit or market purchase whose evidence establishes
+    the facts of the transaction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:4
+  name_or_label: Owner or former owner
+  description: The person whose assent is required for a valid sale and who may receive
+    a lost chattel back after an exculpated public-sale purchase.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:5
+  name_or_label: Unauthorized seller or offender
+  description: The person who sells another's property without ownership or assent;
+    the passage classifies him as a thief, fines him if he is a kinsman, or treats
+    him as guilty of theft if he is not a kinsman and has no excuse.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Buyer at public sale
+  description: The purchaser who obtains a chattel in the market before witnesses
+    and may be exculpated when the original seller cannot be produced.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Royal or judicial adjudicator
+  assigned_to:
+  - fig:1
+  basis: The passage instructs the king or judge to decide causes, reject a thief
+    as witness, and dismiss an exculpated buyer.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: role:2
+  label: Entrusted-property holder
+  assigned_to:
+  - fig:2
+  basis: The depositary is responsible for truthful reporting of a witnessed deposit
+    and is named in the rule on deposit adjudication.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Evidentiary witnesses
+  assigned_to:
+  - fig:3
+  basis: Witnesses are present at the deposit or market purchase and their evidence
+    is described as conclusive for the deposit.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: Owner or title-holder
+  assigned_to:
+  - fig:4
+  basis: The owner’s assent validates transfer, and the former owner who lost a chattel
+    receives it back under the public-sale rule.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:5
+  label: Unauthorized transferor or theft-classified offender
+  assigned_to:
+  - fig:5
+  basis: The seller of another’s property without ownership or assent is called a
+    thief or guilty of theft, with penalties depending on kinship and excuse.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: Public purchaser with exculpation defense
+  assigned_to:
+  - fig:6
+  basis: A buyer purchasing in the market before witnesses gains clear legal title
+    and is exculpated by public sale if the seller cannot be produced.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Deposit or friendly loan
+  literal_form: Entrusted property or loaned object for use
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Six hundred pa^as fine
+  literal_form: Numbered monetary penalty
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Market before witnesses
+  literal_form: Public place and witnessed setting of purchase
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: Chattel
+  literal_form: Movable property subject to purchase, loss, title, and return
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: Mixed or concealed commodity
+  literal_form: Commodity adulterated, misdescribed, deficient, unavailable, or concealed
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Witnessed and private deposits
+  summary: The passage distinguishes witnessed deposits, whose description and quantity
+    are confirmed by witnesses, from private bailments, which must be returned privately
+    in the same manner as they were delivered.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Unauthorized sale as theft-classified transfer
+  summary: A person who sells another’s property without ownership or assent is excluded
+    as a witness, penalized by kinship status, and the non-owner transaction is declared
+    null and void.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Title, public purchase, and restitution
+  summary: The passage states that title, not possession alone, proves ownership;
+    a buyer purchasing in the market before witnesses gains legal title, but if the
+    original seller is unavailable the buyer is dismissed without punishment and the
+    former owner receives the chattel back.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Prohibited commodity misrepresentation
+  summary: The passage forbids selling mixed goods as pure, bad goods as good, deficient
+    quantity as full, or goods that are unavailable or concealed.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Entrusted property verified by witnesses
+  taxonomy_refs: []
+  basis: Rules for deposits require public witness verification of description and
+    quantity, punish false statements by the depositary, and maintain correspondence
+    between private bailment and private return.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a legal prescription rather than a mythic narrative motif.
+- id: motif:2
+  label: Unauthorized transfer treated as theft and void transaction
+  taxonomy_refs: []
+  basis: Selling another’s property without ownership or assent is treated as theft,
+    subject to penalty, and a gift or sale by a non-owner is null and void.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives juridical classification, not a narrative of theft.
+- id: motif:3
+  label: Title over bare possession
+  taxonomy_refs: []
+  basis: The passage states that where possession exists without title, title is the
+    proof of ownership rather than possession.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is an abstract legal rule and has no explicit symbolic elaboration.
+- id: motif:4
+  label: Public sale protects buyer while restoring lost property
+  taxonomy_refs: []
+  basis: A market purchase before witnesses grants clear legal title; if the original
+    seller is unavailable, the public character of the sale exculpates the buyer while
+    the former owner receives the chattel back.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The restitution rule may involve interpretive variation noted by commentators.
+- id: motif:5
+  label: Fraudulent commodity misrepresentation prohibited
+  taxonomy_refs: []
+  basis: The passage forbids selling adulterated, inferior, short-weight, unavailable,
+    or concealed commodities as if they were proper goods.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: This is a commercial-law pattern, not a mythological image.
+- id: motif:6
+  label: Regulated exchange and lawful transfer
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage repeatedly regulates deposits, loans, gifts, sales, title, purchase,
+    and restitution under dharma-law adjudication.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: 'The taxonomy mapping is broad and provisional: the passage concerns civil
+    and criminal law rather than an explicit ritual or mythic sacred exchange.'
+comparison_claims:
+- id: claim:1
+  claim: The translator’s note cites Vi. V.164-166 and Yājñavalkya II.168-170 as comparanda
+    for VIII.201-202, supporting a cautious same-function comparison for the rule
+    about public purchase and the handling of an unavailable original seller.
+  claim_level: same_function
+  target: Viṣṇu Smṛti V.164-166; Yājñavalkya Smṛti II.168-170
+  evidence_refs:
+  - ev:8
+  - ev:10
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The cited comparanda are not quoted in the supplied passage, so only
+    the presence of a scholarly cross-reference is available here.
+- id: claim:2
+  claim: The translator’s note cites Yājñavalkya II.245 alongside VIII.203, supporting
+    a cautious same-function comparison for rules against misrepresented or concealed
+    commodities.
+  claim_level: same_function
+  target: Yājñavalkya Smṛti II.245
+  evidence_refs:
+  - ev:9
+  - ev:11
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The target passage is only cited, not reproduced, so the exact wording
+    and scope cannot be verified from the supplied text alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: VIII.194 and note, within lines 21520-21617
+  quote_or_summary: A witnessed deposit of specified description or quantity is established
+    by that description or quantity; a depositary making a false statement is fined.
+    The note adds that witnesses are examined and their evidence is conclusive.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; source metadata rights_status=public_domain.
+- id: ev:2
+  type: summary
+  locator: VIII.195, within lines 21520-21617
+  quote_or_summary: Items delivered or received privately must be returned privately;
+    the manner of redelivery follows the manner of bailment.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; source metadata rights_status=public_domain.
+- id: ev:3
+  type: summary
+  locator: VIII.196, within lines 21520-21617
+  quote_or_summary: The king is to decide cases concerning a deposit and a friendly
+    loan for use without undue rigour toward the depositary.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; source metadata rights_status=public_domain.
+- id: ev:4
+  type: summary
+  locator: VIII.197, within lines 21520-21617
+  quote_or_summary: One who sells another man’s property without ownership and without
+    the owner’s assent is treated as a thief and is not to be admitted by the judge
+    as a witness.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; source metadata rights_status=public_domain.
+- id: ev:5
+  type: summary
+  locator: VIII.198 and note, within lines 21520-21617
+  quote_or_summary: A kinsman offender is fined six hundred pa^as; a non-kinsman without
+    excuse is guilty of theft. The note gives examples of excuses such as receiving
+    the property as a present or buying it from a relative of the owner.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; source metadata rights_status=public_domain.
+- id: ev:6
+  type: summary
+  locator: VIII.199 and note, within lines 21520-21617
+  quote_or_summary: A gift or sale made by anyone other than the owner is null and
+    void according to judicial rule; the note records variant treatment in Nandana
+    and Nārada traditions.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; source metadata rights_status=public_domain.
+- id: ev:7
+  type: summary
+  locator: VIII.200, within lines 21520-21617
+  quote_or_summary: Where possession is evident but no title is perceived, title rather
+    than possession is the proof of ownership.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; source metadata rights_status=public_domain.
+- id: ev:8
+  type: summary
+  locator: VIII.201-202 and note, within lines 21520-21617
+  quote_or_summary: A market purchase before witnesses gives clear legal title. If
+    the original seller cannot be produced, the buyer is exculpated by the public
+    sale and dismissed by the king without punishment, while the former owner receives
+    the lost chattel back; the note records interpretive variations.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; source metadata rights_status=public_domain.
+- id: ev:9
+  type: summary
+  locator: VIII.203 and note, within lines 21520-21617
+  quote_or_summary: The passage prohibits selling a mixed commodity as pure, a bad
+    commodity as good, a deficient quantity as full, or goods that are unavailable
+    or concealed; the note lists interpretations of concealed goods.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; source metadata rights_status=public_domain.
+- id: ev:10
+  type: citation
+  locator: Note to VIII.201-202, within lines 21520-21617
+  quote_or_summary: The note cites Vi. V.164-166 and Yājñavalkya II.168-170 as references
+    for VIII.201-202.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; source metadata rights_status=public_domain.
+- id: ev:11
+  type: citation
+  locator: Note to VIII.203, within lines 21520-21617
+  quote_or_summary: The note cites Yājñavalkya II.245 for VIII.203.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; source metadata rights_status=public_domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The legal rules are explicit, but motif classification is limited because
+    the passage is civil and criminal law rather than narrative mythology. Comparison
+    claims rely only on translator citations and do not verify the cited external
+    passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR spelling such as pa^as is preserved where relevant. No mythic figures or cosmological symbols are present in the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l21520-l21617
+  passage_sha256=f642e447f1e9a3b4608001ccd7d7e5f701c3ff04ef8dd12294068d6c0fec7bab
+

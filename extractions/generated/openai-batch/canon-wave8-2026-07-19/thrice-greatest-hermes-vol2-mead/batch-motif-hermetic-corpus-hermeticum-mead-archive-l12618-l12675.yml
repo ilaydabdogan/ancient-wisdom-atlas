@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l12618-l12675
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: THE ENCOMIUM OF KINGS 291 / THE ENCOMIUM OP KINGS 293 / THE ENCOMIUM OF KINGS
+    295 / THE ENCOMIUM OF KINGS 297; lines 12618-12675
+  start: '12618'
+  end: '12675'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says Love works the harmony of all, then proposes praise of
+    God followed by praise of kings who have received sceptres from God. It presents
+    the king as a peace-establishing ruler whose virtue, name, statues, and likeness
+    restrain enemies, protect subjects, win victory, and free citizens from hurt and
+    fear.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Love is said to work the one harmony of all.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker proposes to sing praise of God.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says they should descend to those who have received their sceptres
+    from God.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The exercise of praise is to begin from the King and through him practice
+    both piety toward God and praise to kings.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The kings are said to have extended the prosperity of great peace to the speaker's
+    group.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The virtue and name of the King are said to establish peace.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The King is described as levelling the summits of dissension and as lord of
+    reason or logos that makes for peace.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The King is described as the natural protector of a kingdom that is not his
+    native land, and his name is called a sign of peace.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The appellation of the King is said to have restrained the foe.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The statues of the King are called peaceful harbours for those most tempest-tossed.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The likeness of the King is said to win victory and assure citizens freedom
+    from hurt and fear.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Love
+  description: Personified Love who works the one harmony of all.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: God
+  description: The one to be praised and the giver from whom kings have received sceptres.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Kings / the King
+  description: Rulers who receive sceptres from God; the singular King is described
+    as establishing peace, protecting the kingdom, restraining foes, and assuring
+    citizens freedom from harm and fear.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Citizens / us / those most tempest-tossed
+  description: Recipients of peace, protection, and freedom from hurt and fear.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: the foe
+  description: An opposing figure or group said to be restrained by the King's appellation.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: cosmic harmonizer
+  assigned_to:
+  - fig:1
+  basis: Love is said to work the one harmony of all.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: object of praise
+  assigned_to:
+  - fig:2
+  basis: The speaker proposes to sing praise of God.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: source of royal sceptres
+  assigned_to:
+  - fig:2
+  basis: Kings are said to have received their sceptres from God.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divinely authorized ruler
+  assigned_to:
+  - fig:3
+  basis: Kings have received sceptres from God and are to be praised in relation to
+    piety toward God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: peacemaker and protector
+  assigned_to:
+  - fig:3
+  basis: The King establishes peace, protects the kingdom, restrains foes, and gives
+    citizens freedom from hurt and fear.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:6
+  label: protected beneficiaries
+  assigned_to:
+  - fig:4
+  basis: The passage says peace has been extended to 'us' and that citizens receive
+    freedom from hurt and fear.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:7
+  label: restrained adversary
+  assigned_to:
+  - fig:5
+  basis: The King's appellation is said to have restrained the foe.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sceptres
+  literal_form: sceptres received by kings from God
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: King's name / appellation
+  literal_form: the name or appellation of the King, called a sign of peace
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: statues of the King
+  literal_form: statues of the King called peaceful harbours for the tempest-tossed
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: likeness of the King
+  literal_form: the likeness of the King that appears, wins victory, and assures freedom
+    from hurt and fear
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Love harmonizes all
+  summary: Love is presented as the agent who works one harmony of all.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Order of praise from God to kings
+  summary: The speaker proposes praise of God, then praise of kings who have received
+    sceptres from God, as an exercise in piety and praise.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: The King establishes peace
+  summary: The King is described as establishing peace through virtue, name, reason,
+    and protection of the kingdom.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Royal name and image protect subjects
+  summary: The King's appellation restrains the foe, while his statues and likeness
+    are said to provide refuge, victory, and freedom from hurt and fear for citizens.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Divinely bestowed royal authority
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Kings are said to receive sceptres from God, and praise of the King is framed
+    as part of pious practice toward God.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is an encomium rather than a narrative of enthronement; the
+    divine authorization is stated, not dramatized.
+- id: motif:2
+  label: King as maker of peace and protector
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The King's virtue and name establish peace; he protects the kingdom, restrains
+    foes, and assures citizens freedom from hurt and fear.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif is expressed as praise rhetoric and etymological wordplay, not
+    as an independent mythic episode.
+- id: motif:3
+  label: Protective power of royal name and image
+  taxonomy_refs: []
+  basis: The King's appellation restrains the foe; his statues are called peaceful
+    harbours; his likeness wins victory and assures safety.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The protective force may be rhetorical or symbolic within the encomium;
+    the passage does not describe a ritual use of the images.
+- id: motif:4
+  label: Harmony worked by Love
+  taxonomy_refs: []
+  basis: Love is said to work the one harmony of all.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only a brief transitional statement appears in this passage, so the motif's
+    scope is limited here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12618-12675, opening before §15
+  quote_or_summary: "'Love Himself' is said to work 'the one harmony of all.'"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:2
+  type: quote
+  locator: 12618-12675, §15
+  quote_or_summary: The speaker says to sing praise of God, then to descend to those
+    'who have received their sceptres from Him.'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 12618-12675, §15
+  quote_or_summary: The passage says the beginnings of praise should begin from the
+    King and through him train piety toward God and praise to kings.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: 12618-12675, §16
+  quote_or_summary: The speaker says return should be made to kings because they have
+    extended 'the prosperity of such great peace' to the group.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: 12618-12675, §16
+  quote_or_summary: The King's virtue and name 'doth establish peace'; he levels 'the
+    summits of dissension' and is lord of reason or logos for peace.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: quote
+  locator: 12618-12675, §16
+  quote_or_summary: The King is called the 'natural protector' of the kingdom, and
+    his name is 'the sign of peace.'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:7
+  type: quote
+  locator: 12618-12675, §16
+  quote_or_summary: The King's appellation restrains the foe, and his statues are
+    'peaceful harbours' for the 'tempest-tossed.'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:8
+  type: quote
+  locator: 12618-12675, §16
+  quote_or_summary: The King's likeness alone appears 'to win the victory' and assure
+    citizens freedom from hurt and fear.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for praise, divine bestowal of sceptres, peace,
+    and protective royal image/name. Motif labels require review because the passage
+    is encomiastic and partly rhetorical.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No cross-tradition comparison claims were made; motifs are limited to patterns directly supported by the supplied passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l12618-l12675
+  passage_sha256=771b97431420a8a7c25429b23f59b2a9632bbc224b24f58878e3c6cf2318b824
+

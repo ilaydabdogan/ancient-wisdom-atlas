@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l4735-l4829
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: 'BOOK V. KUNG-YE CH''ANG / WITHDRAW FROM THE WORLD: A / BOOK VI. YUNG YEY
+    / BOOK VII. SHU R; lines 4735-4829'
+  start: '4735'
+  end: '4829'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: A transmitter and not a maker, believing in and loving the ancients
+  summary: The passage presents early statements from Book VII in which the Master
+    describes himself as transmitting rather than creating, reflects humbly on knowledge,
+    learning, and instruction, names failures in virtue and righteousness as causes
+    of concern, and is described as easy and pleased when unoccupied.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Master says he is a transmitter rather than a maker.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Master says he believes in and loves the ancients.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Master compares himself with old P'ang.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: 'The Master asks which of three activities belongs to him: silently treasuring
+    knowledge, learning without satiety, and instructing others without weariness.'
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Master names lack of virtue cultivation, insufficient discussion of learning,
+    inability to move toward known righteousness, and inability to change what is
+    not good as matters causing him solicitude.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When unoccupied with business, the Master is described as easy in manner and
+    pleased in appearance.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The commentary says the identity of the individual called old P'ang can hardly
+    be ascertained.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Master / Confucius
+  description: Speaker of the sayings; the commentary identifies the book as presenting
+    personal information about Confucius and labels the section as Confucius's disclaimer
+    of being an author or maker.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the ancients
+  description: Ancient authorities or predecessors whom the Master says he believes
+    in and loves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: old P'ang
+  description: A figure with whom the Master ventures to compare himself; the commentary
+    says the individual cannot be securely identified.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:4
+  name_or_label: others
+  description: Unspecified people whom the Master mentions as recipients of instruction.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: transmitter of ancient teaching
+  assigned_to:
+  - fig:1
+  basis: The Master calls himself a transmitter and not a maker, and says he believes
+    in and loves the ancients.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: humble learner and instructor
+  assigned_to:
+  - fig:1
+  basis: The Master frames knowledge retention, tireless learning, and tireless instruction
+    as qualities he questions as belonging to himself.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: self-examining moral cultivator
+  assigned_to:
+  - fig:1
+  basis: The Master lists failures in virtue, learning, righteousness, and correction
+    of faults as causes of personal solicitude.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: ancient authorities
+  assigned_to:
+  - fig:2
+  basis: They are the ancients whom the Master says he believes in and loves.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: uncertain exemplar of comparison
+  assigned_to:
+  - fig:3
+  basis: The Master compares himself with old P'ang, while the commentary states that
+    the person cannot be clearly identified.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:6
+  label: students or recipients of instruction
+  assigned_to:
+  - fig:4
+  basis: They are the unspecified others whom the Master mentions instructing without
+    weariness.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Self-description as transmitter
+  summary: The Master presents himself as transmitting rather than making, aligns
+    himself with the ancients, and compares himself to old P'ang.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Reflection on knowledge, learning, and instruction
+  summary: The Master speaks of silently storing knowledge, learning without satiety,
+    and instructing others without weariness, while posing these as a humble question
+    about himself.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Concerns over moral cultivation
+  summary: The Master says that failures in cultivating virtue, discussing what is
+    learned, moving toward known righteousness, and changing what is not good cause
+    him solicitude.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: The Master's unoccupied demeanor
+  summary: When not engaged in business, the Master is described as easy in manner
+    and pleased in appearance.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: transmission of ancient wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The Master explicitly identifies himself as a transmitter rather than a maker,
+    and says he believes in and loves the ancients.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is philosophical and didactic rather than mythic narrative;
+    the motif label is therefore thematic rather than episode-based.
+- id: motif:2
+  label: humble teacher devoted to learning and instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The Master emphasizes knowledge retention, unsated learning, and unwearied
+    instruction while framing the statement as a humble self-question.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a character pattern in a didactic text, not a supernatural or
+    narrative myth motif.
+- id: motif:3
+  label: moral self-cultivation through correction of faults
+  taxonomy_refs: []
+  basis: The Master names failures in cultivating virtue, discussing learning, moving
+    toward righteousness, and changing what is not good as causes of solicitude.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No available taxonomy reference directly matches moral self-cultivation;
+    the label is a local passage-level pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4735-4829, Book VII, Chapter I
+  quote_or_summary: The Master said, "A transmitter and not a maker, believing in
+    and loving the ancients, I venture to compare myself with our old P'ang."
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4735-4829, Book VII heading/commentary
+  quote_or_summary: The commentary states that this book gives personal information
+    about Confucius and presents the sage himself; it labels Chapter I as Confucius
+    disclaiming being an author or maker.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4735-4829, Book VII, Chapter II
+  quote_or_summary: The Master speaks of "The silent treasuring up of knowledge; learning
+    without satiety; and instructing others without being wearied" and asks which
+    of these belongs to him.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4735-4829, Book VII, Chapter III
+  quote_or_summary: The Master says that leaving virtue uncultivated, not thoroughly
+    discussing what is learned, not moving toward known righteousness, and not changing
+    what is not good are matters that cause him solicitude.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 4735-4829, Book VII, Chapter IV
+  quote_or_summary: '"When the Master was unoccupied with business, his manner was
+    easy, and he looked pleased."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4735-4829, commentary on Book VII, Chapter I
+  quote_or_summary: The commentary says that the person called "our old P'ang" can
+    hardly be ascertained and reports different identifications proposed by commentators.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward for the supplied translation and
+    commentary. Motif candidates are thematic because the passage is didactic-philosophical
+    rather than a mythic narrative episode. No comparison claims were made beyond
+    taxonomy-linked candidate motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No external identifications of old P'ang were added beyond the passage commentary.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l4735-l4829
+  passage_sha256=ae4db07b156372b146f7e8748e4563133818258014760fe73cda2fac5de6d3af
+

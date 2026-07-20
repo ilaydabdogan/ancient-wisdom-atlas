@@ -1,0 +1,211 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l25655-l25717
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUBEAU  OF  AMERICAN  ETHNOLOGY / BUBEAU   OF   AMEBICAN   ETHNOLOGY / TETON   SIOUX   MUBIC
+    / BUBEAU   OF  AMEBICAN   ETHNOLOGY; lines 25655-25717
+  start: '25655'
+  end: '25717'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage compares two renditions of a song associated with Two Shields
+    and Siya^ka, noting small differences in progressions, intervals, key, tempo,
+    and drum rhythm. It then presents a duplication of No. 188 sung by Siya^ka, with
+    voice and drum tempo indications, a note that the drum rhythm is similar to No.
+    19, musical notation, and transcribed song text or vocables.
+  language: English with transcribed song text/vocables
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage compares a rendition by Two Shields with a rendition by Siya^ka,
+    including counts of progressions and interval types.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the musical differences between the two renditions
+    are slight and unimportant.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A tempo change is noted in the rendition by Two Shields.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A section labeled as a duplication of No. 188 is sung by Siya^ka and gives
+    voice and drum tempo indications of 108.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The drum rhythm of the duplication is described as similar to No. 19.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage includes musical notation with transcribed song text or vocables
+    below the staff.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Two Shields
+  description: Person named in connection with one rendition of the song; a tempo
+    change is noted in this rendition.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Siya^ka
+  description: Person named as performer of a rendition and as singer of the duplication
+    of No. 188.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: rendition performer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage refers to renditions by Two Shields and Siya^ka.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named singer of duplication
+  assigned_to:
+  - fig:2
+  basis: The duplication of No. 188 is explicitly labeled as sung by Siya^ka.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: drum rhythm
+  literal_form: drum rhythm / drum tempo notation
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Comparison of two renditions
+  summary: The passage analyzes two renditions associated with Two Shields and Siya^ka,
+    comparing tempo, key, progressions, and interval counts, and concludes that their
+    differences are slight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Duplication of No. 188 sung by Siya^ka
+  summary: The passage presents a duplicate notation of No. 188 sung by Siya^ka, with
+    voice and drum tempo indications, a comparison of drum rhythm to No. 19, and transcribed
+    song text or vocables.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: variant performance of a song
+  taxonomy_refs: []
+  basis: The passage compares two renditions of the same numbered song and describes
+    their measured musical differences as slight.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnomusicological performance pattern rather than a mythological
+    narrative motif; no supplied taxonomy motif family directly applies.
+- id: motif:2
+  label: drum-rhythm correspondence between numbered songs
+  taxonomy_refs: []
+  basis: The duplication of No. 188 is explicitly said to have a drum rhythm similar
+    to No. 19.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief similarity statement and does not explain
+    ritual, narrative, or symbolic significance.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly states that the drum rhythm of the duplication of
+    No. 188 is similar to No. 19.
+  claim_level: same_function
+  target: No. 19 drum rhythm
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns a musical rhythm within the same source context;
+    it is not evidence for a shared mythological motif or historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25655-25663
+  quote_or_summary: The passage compares the Two Shields and Siya^ka renditions, mentioning
+    rhythm, tempo, key, counts of progressions, minor thirds, major seconds, ascending
+    major thirds, and concluding the differences are slight and unimportant.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: line 25664
+  quote_or_summary: A change of tempo is stated to occur in the rendition by Two Shields.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 25666-25672
+  quote_or_summary: A section is labeled as a duplication of No. 188, sung by Siya^ka,
+    with voice and drum tempo markings of 108, and a note that the drum rhythm is
+    similar to No. 19.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 25673-25717
+  quote_or_summary: The passage prints musical notation and transcribed song text
+    or vocables below the staff.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif candidates are framed as musical/performance
+    patterns, not mythological narrative motifs, because the passage contains no explicit
+    mythic episode or symbolic interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol ref was assigned. The drum rhythm is recorded as a literal musical element only, without inferred symbolic meaning.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l25655-l25717
+  passage_sha256=3c30919278a7943187d55573b354b6f509170abb609df9b5a8d4717b9858260f
+

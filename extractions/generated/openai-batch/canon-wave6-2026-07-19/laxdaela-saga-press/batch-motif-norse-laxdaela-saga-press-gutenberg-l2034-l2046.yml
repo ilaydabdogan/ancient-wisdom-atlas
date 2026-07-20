@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l2034-l2046
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. XXI / CHAP. XXII / CHAP. XXIII / CHAP. XXIV; lines 2034-2046
+  start: '2034'
+  end: '2046'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After a confrontation in which a spear shaft breaks and Hrapp disappears,
+    Olaf and a house-carle return home. The next morning Olaf has Hrapp dug up, finds
+    the body undecayed along with the spear-head, has Hrapp burned on a pyre, and
+    has the ashes thrown into the sea. After this, Hrapp's ghost causes no further
+    trouble.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The spear shaft broke during the confrontation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hrapp disappeared where he stood.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Olaf retained the spear shaft, while Hrapp retained the spear-head.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Olaf and the house-carle tied up the cattle and went home.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Olaf concluded that the house-carle was not to blame for his grumbling.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The next morning Olaf went to Hrapp's burial place and had Hrapp dug up.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Hrapp was found undecayed in the grave.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Olaf found the spear-head at the burial place.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Olaf had a pyre made and had Hrapp burned on it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Hrapp's ashes were flung out to sea.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: After the burning and sea disposal, no one had more trouble with Hrapp's ghost.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: A footnote explains that Olaf's flocks would always be gathering there.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Olaf
+  description: A man who confronts Hrapp, returns home with the house-carle, has Hrapp
+    dug up, burns him on a pyre, and has the ashes thrown into the sea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hrapp
+  description: A buried figure whose ghost causes trouble; he disappears during the
+    confrontation, is later found undecayed, and is burned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: house-carle
+  description: A house-carle who is with Olaf when the cattle are tied up and whom
+    Olaf judges not to be at fault.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ghost-neutralizing actor
+  assigned_to:
+  - fig:1
+  basis: Olaf has Hrapp exhumed, burned, and the ashes flung into the sea, after which
+    the ghost causes no further trouble.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: troublesome ghost or revenant-associated dead man
+  assigned_to:
+  - fig:2
+  basis: The passage refers to trouble from Hrapp's ghost and describes Hrapp as buried,
+    undecayed, and subsequently burned.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: companion or servant present at the event
+  assigned_to:
+  - fig:3
+  basis: The house-carle is with Olaf when the cattle are tied up and returns home
+    with him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: broken spear
+  literal_form: Spear divided into shaft and spear-head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: undecayed corpse
+  literal_form: Hrapp found undecayed after burial
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: pyre
+  literal_form: A pyre made for burning Hrapp
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sea disposal
+  literal_form: Ashes flung out to sea
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: burial place
+  literal_form: The place where Hrapp was buried and then dug up
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Broken spear and disappearance
+  summary: During the confrontation, the spear shaft breaks; Hrapp disappears where
+    he stands, leaving Olaf with the shaft and Hrapp with the spear-head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return with the cattle
+  summary: Olaf and the house-carle tie up the cattle and return home, and Olaf decides
+    that the house-carle was not to blame.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Exhumation of Hrapp
+  summary: The next morning Olaf has Hrapp dug up; Hrapp is found undecayed, and the
+    spear-head is found there as well.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Burning and sea-scattering of ashes
+  summary: Olaf has a pyre made, Hrapp is burned on it, and the ashes are thrown into
+    the sea; afterward Hrapp's ghost causes no further trouble.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Troublesome ghost stopped by exhumation, burning, and disposal of ashes
+  taxonomy_refs: []
+  basis: The passage links Olaf's digging up and burning of Hrapp, followed by casting
+    the ashes into the sea, with the end of trouble from Hrapp's ghost.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives the sequence and result but does not explain a general
+    ritual rule.
+- id: motif:2
+  label: Undecayed corpse associated with ghostly trouble
+  taxonomy_refs: []
+  basis: Hrapp is found undecayed after burial, and the passage identifies the continuing
+    problem as Hrapp's ghost.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The text does not explicitly state that the undecayed condition causes
+    the haunting; it only presents them in sequence.
+- id: motif:3
+  label: Broken weapon as trace of encounter with a ghost
+  taxonomy_refs: []
+  basis: The spear is divided in the encounter, with Olaf retaining the shaft and
+    Hrapp the spear-head; the spear-head is later found when Hrapp is dug up.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly interpret the broken spear as a sign or
+    proof; it is a narrative object connecting the encounter and exhumation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2034-2037
+  quote_or_summary: The spear shaft breaks; Olaf is about to run at Hrapp, Hrapp disappears
+    where he stands, and Olaf has the shaft while Hrapp has the spear-head.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 2038-2040
+  quote_or_summary: Olaf and the house-carle tie up the cattle, go home, and Olaf
+    sees that the house-carle was not to blame for his grumbling.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 2040-2043
+  quote_or_summary: The next morning Olaf goes to Hrapp's burial place, has him dug
+    up, finds him undecayed, and finds the spear-head there.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 2043-2045
+  quote_or_summary: Olaf has a pyre made, has Hrapp burned on it, and has the ashes
+    flung out to sea.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: quote
+  locator: lines 2045-2046
+  quote_or_summary: "“After that no one had any more trouble with Hrapp's ghost.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:6
+  type: summary
+  locator: footnote 2 following line 2046
+  quote_or_summary: A footnote glosses the context by referring to the earlier stated
+    fact that Olaf's flocks would always gather there.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence is clear. Motif labels are descriptive and not assigned
+    to external taxonomy families. No comparison claims are made because the passage
+    itself provides no explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata; available taxonomy symbol refs used only for pyre/fire and sea/water where directly supported.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l2034-l2046
+  passage_sha256=b4b70d38b89dd6d3e4299f37f74389e0d01b9ab162defdf73194ecd98e5f4057
+

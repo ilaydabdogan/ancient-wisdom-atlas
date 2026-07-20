@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l4708-l4748
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: RELIGION / RELIGION / RELIGION / RELIGION; lines 4708-4748
+  start: '4708'
+  end: '4748'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The narrator describes gaining the confidence of Indigenous interlocutors
+    before Christian influence had been introduced, then summarizes bare outlines
+    of their creation mythology: a Creator of spiritual and material things is symbolized
+    as a beetle; the material universe was made first; the Creator in beetle guise
+    sent powerful beings from a hole in the earth, and these beings ruled the universe
+    for a time.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator claims that Indigenous interlocutors communicated religious knowledge
+    only after confidence had been won.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator states that he obtained information before Christian ideas had
+    been introduced to the group.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mythology is described as founded on an idea of Creation known to the
+    narrator only in bare outline.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Creator of spiritual and material things is said to be symbolized by a
+    beetle.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The material universe is said to have been made first.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Creator, in beetle guise, is said to have sent a race of powerful beings
+    from a hole in the earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The powerful beings are said, according to many, to have been embodied and
+    to have ruled the universe for a time.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Creator
+  description: Creator of all things, spiritual and material, associated with the
+    guise or symbol of a beetle.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: beetle
+  description: The beetle is the symbolic form or guise through which the Creator
+    is described.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: race of powerful beings
+  description: A race of powerful beings sent forth from a hole in the earth; many
+    accounts describe them as embodied, and they ruled the universe for a time.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: creator of spiritual and material things
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls this figure the Creator of all things, spiritual
+    and material.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: beetle guise or symbol
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the Creator is symbolized by a beetle and later acts in
+    the guise of the beetle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: primordial powerful rulers
+  assigned_to:
+  - fig:3
+  basis: The beings are described as powerful and as ruling the universe for a time
+    after emerging from the earth-hole.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: beetle as Creator-symbol
+  literal_form: beetle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: hole in the earth as emergence place
+  literal_form: hole in the earth
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: material universe first made
+  literal_form: material universe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Ethnographic access to religious knowledge
+  summary: The narrator frames his information as gained through confidence and before
+    Christian ideas had been introduced among the people.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Creation and emergence of powerful beings
+  summary: The Creator, symbolized as or appearing in the guise of a beetle, makes
+    the material universe first and sends powerful beings from a hole in the earth;
+    these beings then rule the universe for a time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: creator in beetle guise
+  taxonomy_refs: []
+  basis: The passage explicitly connects the Creator with a beetle, both as symbol
+    and as guise in which the Creator acts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief outline and does not explain the beetle's
+    attributes or ritual meaning.
+- id: motif:2
+  label: earth-hole emergence of primordial beings
+  taxonomy_refs: []
+  basis: A race of powerful beings is sent forth from a hole in the earth by the Creator.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe the beings' later deeds beyond temporary
+    rule of the universe.
+- id: motif:3
+  label: primordial beings ruling after creation
+  taxonomy_refs: []
+  basis: The beings emerging from the earth-hole are said to have ruled the universe
+    for a time after the material universe was made.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage says only that they appear to have ruled, indicating uncertainty
+    in the source account.
+- id: motif:4
+  label: material universe created before later beings
+  taxonomy_refs: []
+  basis: The passage states that the material universe was first made, followed by
+    the sending forth of powerful beings.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No detailed creation sequence is provided beyond this ordering.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4723-4738
+  quote_or_summary: The narrator says religious information was shared only after
+    confidence was won, and emphasizes that he lived with the people before Christian
+    ideas had been introduced.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 4739-4742
+  quote_or_summary: '"Their whole mythology is founded upon their idea of the Creation"
+    and "The Creator of all things, spiritual and material, is symbolized by a beetle."'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 4742-4748
+  quote_or_summary: The material universe was made first; the Creator in beetle guise
+    sent a race of powerful beings from a hole in the earth, and they ruled the universe
+    for a time.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The creation outline is explicit but brief. No comparison claims are made
+    because the passage itself does not compare the account to other traditions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only motifs directly supported by the supplied passage were extracted; available taxonomy references were not assigned where the passage did not clearly support them.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l4708-l4748
+  passage_sha256=3638f771d1016035da274c266279e05009b094cb61ce469f620ea6f7d45e563c
+

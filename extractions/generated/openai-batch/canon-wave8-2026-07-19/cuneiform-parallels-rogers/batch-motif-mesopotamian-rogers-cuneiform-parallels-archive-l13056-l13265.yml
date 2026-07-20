@@ -1,0 +1,198 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l13056-l13265
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: LITURGICAL AND DOCTRINAL TEXTS / CHRONOLOGICAL MATERIALS / I. BABYLONIAN
+    / MM IV:; lines 13056-13265
+  start: '13056'
+  end: '13265'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Fragmentary Babylonian chronological material and a section titled “The
+    Babylonian King List B” enumerate rulers, dynasties, reign lengths, totals of
+    kings, and several father-son or predecessor relationships.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage contains fragmentary king-list entries with personal names, reign
+    durations, dynastic headings, and totals of years, months, and kings.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries identify a ruler as a son of a preceding or named ruler.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The obverse of “The Babylonian King List B” lists eleven kings in the Dynasty
+    of Babylon, from Sumu-abu through Samsu-ditana, with reign lengths.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The reverse lists ten kings in the Dynasty of Uru-azag(ki), ending with Ea-gamil.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The transmitted text is damaged in multiple places, including broken-off portions
+    and uncertain readings.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Fragmentary MM IV rulers
+  description: A damaged sequence of named rulers and dynasties, including entries
+    such as Nabu-nasir, Nabu-nadin-zer, Nazi-maruttash, Kadashman-Turgu, Kadashman-Buriash,
+    Kudur-En-lil, Shagarakti-Suriash, Bitiliash, and others, with reign durations
+    and dynastic totals.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kings of the Dynasty of Babylon in King List B
+  description: Eleven listed kings from Sumu-abu to Samsu-ditana, each accompanied
+    by a reign length; several are described as sons of the former ruler.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Kings of the Dynasty of Uru-azag(ki) in King List B
+  description: Ten listed kings associated with the Dynasty of Uru-azag(ki), including
+    Iluma-ilu, Itti-ili-nibi, Damki-ilishu, Ishkibal, Shushshi, Gulkishar, Peshgal-daramash,
+    A-dara-kalama, Akur-ul-anna, Melam-kurkura, and Ea-gamil as transmitted in the
+    passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: listed king or ruler
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage presents names in king-list format, often with reign lengths,
+    dynastic headings, and totals of kings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: dynastic son or successor
+  assigned_to:
+  - fig:2
+  basis: The Dynasty of Babylon sequence repeatedly describes rulers as “son of the
+    former.”
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Fragmentary dynastic chronology
+  summary: A damaged sequence records rulers, dynasties, reign lengths, totals, and
+    lacunae in the text.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Obverse of Babylonian King List B
+  summary: The obverse enumerates eleven kings of the Dynasty of Babylon with reign
+    lengths and several filial succession notes.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reverse of Babylonian King List B
+  summary: The reverse enumerates ten kings of the Dynasty of Uru-azag(ki).
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Dynastic royal succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage structures rulership as ordered dynastic sequences and repeatedly
+    marks succession through filial or predecessor relationships.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is primarily chronological and administrative; it does not
+    explicitly state a mythic or theological claim of legitimacy.
+- id: motif:2
+  label: Chronological ordering of kings by reign length
+  taxonomy_refs: []
+  basis: The text repeatedly pairs rulers or dynasties with years, months, totals
+    of kings, and dynasty labels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a documentary pattern rather than a mythological motif in the
+    strict sense.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13056-13155
+  quote_or_summary: Fragmentary MM IV material lists rulers, reign lengths, dynasty
+    labels, totals such as years and numbers of kings, and notes broken-off sections.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13156-13235
+  quote_or_summary: The obverse of “The Babylonian King List B” lists Sumu-abu through
+    Samsu-ditana with reign lengths and repeated formulas identifying several as sons
+    of the former ruler; it totals eleven kings of the Dynasty of Babylon.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13236-13265
+  quote_or_summary: The reverse lists rulers associated with Uru-azag(ki), ending
+    in a total of ten kings of that dynasty, before the next heading concerning Sargon
+    appears.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The chronological and dynastic content is clear, but the passage is fragmentary
+    and contains OCR or transcription uncertainties. Motif identification is limited
+    because the passage is not a narrative mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the available symbol taxonomy are present in a literal mythic-symbolic sense. No comparison claims were added because the passage itself does not make or directly support cross-textual comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l13056-l13265
+  passage_sha256=e2d0fe7f7244a187a9d48b4d63097d22ba1737bac0790b98fbb69b98b7ce330f
+

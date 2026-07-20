@@ -1,0 +1,586 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l91919-l92023
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: PANCIKA IV / PANCIKA V / ADHYAYA II / ADHYAYA III; lines 91919-92023
+  start: '91919'
+  end: '92023'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ritual instructions and explanations for reciting particular
+    verses and litanies. It describes a gift formula, recitation of the Devanitha
+    and Bhutechads, a mythic precedent in which gods overcome Asuras, ritual effects
+    for defeating a rival, securing propagation, purifying speech through divine filters
+    associated with Dadhikra and Soma, and a debate about whether to recite together
+    on the sixth day because that day symbolizes the world of heaven.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A gift formula asks that the gods give the gift as a boon and that the gift
+    be accepted day by day.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Devanitha is recited by padas like a Nivid, with om said at the last pada.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The gods used the Bhutechads to assail the Asuras with battle and craft, obscure
+    their might, and overcome them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The sacrificers are said to use the Bhutechads to obscure the might of a hated
+    rival and overcome him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Recitations connected with Ahanasya, tenfold recitation, Viraj, food, seed,
+    offspring, and the sound o are explained as securing propagation.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Dadhikra is called a divine filter used to purify speech that has impurity.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Verses to Soma the purifying are also called a divine filter for purifying
+    impure speech.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Indra, aided by Brhaspati, overwhelms attacking godless hosts and smites away
+    the Asura hue.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A debate asks whether recitation should be done together on the sixth day;
+    one answer says it should not, because the sixth day is the world of heaven, where
+    not all meet.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The litanies named Nabhanedistha, Valakhilyas, Vrsaikapi, and Evayamarut are
+    said to contain desire that would be loosened by reciting together.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the gods
+  description: Divine beings who give a boon, use the Bhutechads against the Asuras,
+    and overcome the Asuras.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Asuras / Asura folk
+  description: Opponents of the gods whose might is obscured and who are described
+    as rebellious toward the gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: sacrificers
+  description: Ritual participants who, through recitations, overcome a hated rival,
+    secure propagation, and purify speech.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: hated rival
+  description: The rival whom the sacrificers overcome through the Bhutechads.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Dadhikravan / Dadhikra
+  description: Named in a recited verse and identified as a divine filter.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Soma the purifying
+  description: Recipient of recited verses that are described as a divine filter.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Indra
+  description: A god who, with Brhaspati as aid or companion, overwhelms godless hosts
+    and smites away the Asura hue.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:8
+  name_or_label: Brhaspati
+  description: A divine companion or aid to Indra in overcoming attacking Asura forces.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:9
+  name_or_label: unnamed ritual reciter
+  description: The officiant indicated by repeated statements that he recites specified
+    verses and litanies.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: divine boon-giver
+  assigned_to:
+  - fig:1
+  basis: The gift formula asks the gods to give the gift as a boon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine victor in combat
+  assigned_to:
+  - fig:1
+  - fig:7
+  - fig:8
+  basis: The gods overcome Asuras; Indra, aided by Brhaspati, overwhelms attacking
+    godless hosts.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: opponent or adversary
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The Asuras oppose the gods, and the hated rival is the target overcome by
+    the sacrificers.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:4
+  label: ritual beneficiary and agent
+  assigned_to:
+  - fig:3
+  basis: 'The sacrificers receive ritual effects: overcoming a rival, securing propagation,
+    and purifying speech.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: purifying divine medium
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Dadhikra and verses to Soma are each described as a divine filter for speech
+    purification.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: ritual officiant-reciter
+  assigned_to:
+  - fig:9
+  basis: The passage repeatedly states that he recites the named ritual materials.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: accepted ritual gift
+  literal_form: A great and broad gift requested as a boon and accepted day by day.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Bhutechads as empowering recitation
+  literal_form: Bhutechads recited in the ritual and described as the means by which
+    gods obscured Asura might.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: food-seed-offspring sequence
+  literal_form: Food, seed, and offspring linked in an explanatory chain for propagation.
+  associated_figures:
+  - fig:3
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: ten and Viraj
+  literal_form: Ten recitations and the ten-syllabled Viraj identified with food.
+  associated_figures:
+  - fig:3
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sound o as food
+  literal_form: The inserted sound o, explicitly identified as food.
+  associated_figures:
+  - fig:3
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: divine filter
+  literal_form: Dadhikra and verses to Soma described as divine filters that purify
+    speech.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: Anustubh as speech
+  literal_form: The Anustubh metre identified with speech and used to purify speech
+    by its own metre.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:8
+  label: world of heaven
+  literal_form: The sixth day identified as the world of heaven, where only certain
+    people meet.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: litanies containing desire
+  literal_form: Named litanies whose desire would be loosened by reciting together.
+  associated_figures:
+  - fig:9
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Gift acceptance formula
+  summary: A ritual formula seeks acceptance of a broad gift and asks the gods to
+    give it as a boon.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Devanitha and Bhutechads recitations
+  summary: The officiant recites the Devanitha and Bhutechads; the Bhutechads are
+    explained through the gods' successful assault on the Asuras and the sacrificers'
+    overcoming of a rival.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Recitations for propagation
+  summary: A series of recitations and identifications links metre, food, seed, offspring,
+    and the sound o to securing propagation.
+  figure_refs:
+  - fig:3
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Purification of speech
+  summary: The reciter uses verses associated with Dadhikra and Soma, both called
+    divine filters, to purify impure speech through the Anustubh metre.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Indra and Brhaspati against Asura forces
+  summary: Indra, with Brhaspati as companion or aid, overcomes attacking godless
+    hosts and smites away the Asura hue; the sacrificers are said to gain similar
+    aid.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Sixth-day recitation and heaven
+  summary: The passage debates whether recitation should be performed together on
+    the sixth day and explains non-combined recitation as a symbol of the world of
+    heaven.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Sacred exchange through accepted ritual gift
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage gives a formula asking for a gift to be accepted and for the
+    gods to give it as a boon.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a ritual explanation, not a narrative of exchange between
+    named individuals.
+- id: motif:2
+  label: Sacrificial recitation reenacts divine victory over hostile beings
+  taxonomy_refs:
+  - sacrifice
+  basis: The gods overcome Asuras by means of the Bhutechads, and the sacrificers
+    are said to overcome a hated rival through the same recitational means.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage supports a ritual-functional analogy; it does not present
+    a full independent mythic episode.
+- id: motif:3
+  label: Ritual production of fertility and offspring
+  taxonomy_refs:
+  - sacrifice
+  basis: The recitations are explained through food, seed, and offspring and are said
+    to secure propagation.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage emphasizes ritual efficacy for propagation rather than a narrative
+    sacred-birth episode.
+- id: motif:4
+  label: Purification of impure speech by divine filter
+  taxonomy_refs:
+  - sacrifice
+  basis: Dadhikra and verses to Soma are described as divine filters that purify speech
+    full of impurity.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The filter is a ritual-symbolic designation in the passage; no physical
+    filter is described.
+- id: motif:5
+  label: Heaven as selective assembly encoded in ritual form
+  taxonomy_refs: []
+  basis: The sixth day is identified with the world of heaven, and non-combined recitation
+    is said to symbolize that not all meet there.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage mentions heaven as a symbolic referent but does not describe
+    a journey to the afterlife.
+- id: motif:6
+  label: Divine aid in overcoming demonic or godless attack
+  taxonomy_refs: []
+  basis: Indra, aided by Brhaspati, overwhelms godless hosts and smites the Asura
+    hue; sacrificers are said to smite similarly by their aid.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The adversaries are described briefly and formulaically; broader demon-combat
+    motifs would require other passages.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly gives the Bhutechads the same functional role in
+    two frames: the gods use them to overcome Asuras, and sacrificers use them to
+    overcome a hated rival.'
+  claim_level: same_function
+  target: Divine conflict with Asuras compared to sacrificers' ritual conflict with
+    a rival within the passage.
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal ritual analogy, not evidence by itself for historical
+    contact or cross-cultural comparison.
+- id: claim:2
+  claim: The passage maps Indra and Brhaspati's mythic overcoming of Asura forces
+    onto the sacrificers' ritual ability to smite an attacking Asura hue with those
+    gods as aid.
+  claim_level: same_function
+  target: Indra-Brhaspati combat pattern and sacrificers' ritual efficacy within the
+    passage.
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the stated ritual-theological equivalence in
+    the passage.
+- id: claim:3
+  claim: The passage itself identifies non-combined recitation on the sixth day as
+    a symbol of the world of heaven, where only certain people meet.
+  claim_level: same_function
+  target: Ritual non-conjunction compared to selective heavenly assembly within the
+    passage.
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This supports a symbolic correspondence, not a broader afterlife journey
+    map.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 91919-92023; gift-formula paragraph
+  quote_or_summary: "“This gift, great and broad, / Let the gods give as a boon ...
+    Given be it day by day, / Do ye accept it.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 91919-92023; Devanitha instruction
+  quote_or_summary: The Devanitha is recited by padas like a Nivid, and om is said
+    with its last pada.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 91919-92023; Bhutechads explanation
+  quote_or_summary: "“By means of the Bhutechads the gods assailed the Asuras with
+    battle and with craft ... the sacrificers ... overcame” the hated rival."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 91919-92023; Ahanasya, Viraj, food, seed, and o explanation
+  quote_or_summary: The passage links recitations, ten, Viraj, food, seed, offspring,
+    and the sound o, repeatedly concluding that the rite secures propagation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 91919-92023; Dadhikra verse explanation
+  quote_or_summary: "“Dadhikra is the divine filter ... thus speech he purifies with
+    the divine filter.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 91919-92023; Soma purifying verses explanation
+  quote_or_summary: "“Verses to Soma, the purifying are a divine filter ... thus with
+    the divine filter he purifies speech.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 91919-92023; Indra and Brhaspati explanation
+  quote_or_summary: "“With Brhaspati to aid, Indra overwhelmed”; Indra with Brhaspati
+    as companion smites away the Asura hue when attacking."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:8
+  type: quote
+  locator: lines 91919-92023; sixth-day recitation debate
+  quote_or_summary: "“The sixth day is the world of heaven; the world of heaven is
+    not a place where all meet; only certain people meet in that world.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 91919-92023; litanies and desire explanation
+  quote_or_summary: The Nabhanedistha, Valakhilyas, Vrsaikapi, and Evayamarut litanies
+    are named; the passage says combined recitation would loosen the desire in them
+    and notes connections with Indra and with Indra and Brhaspati.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is usable but contains OCR noise, footnote apparatus, and some
+    corrupt or editorially uncertain readings. Motif extraction is limited to the
+    supplied ritual explanations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external taxonomy IDs or cross-cultural comparisons were added beyond the available motif-family labels and internal comparisons explicitly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l91919-l92023
+  passage_sha256=14703a913de158fc7346da7ceb842d1acd64a2a9346beb91b3a0427ef2d8764d
+

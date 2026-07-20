@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l13896-l13913
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12 / BOOK 8 / BOOK 9; lines 13896-13913'
+  start: '13896'
+  end: '13913'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Arjuna, alone and unsupported, fought with his foes at the same time.
+  summary: A shaft pierces Suratha and the Earth, and Suratha falls. The son of Drona
+    mounts the vehicle of the slain foe and, supported by the Samsaptakas, fights
+    Arjuna. At noon Arjuna fights many enemies alone, and the encounter is compared
+    to Indra’s ancient battle against the host of the Asuras.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A shaft pierces Suratha’s heart, passes out, enters the Earth, and is said
+    to rive the Earth through.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Suratha falls to the Earth after being struck, with his fall compared to a
+    mountain summit riven by thunder.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After Suratha’s fall, the son of Drona mounts the vehicle of the slain foe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The son of Drona, described as armored, armed, and invincible in battle, fights
+    Arjuna while supported by the Samsaptakas.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The battle occurs at noon and is described as a battle between one and many.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The battle is said to enhance the population of Yama’s domains.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Arjuna fights his enemies alone and unsupported at the same time.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The encounter between Arjuna and his enemies is compared to the ancient encounter
+    between Indra and the host of the Asuras.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Suratha
+  description: A hero struck by a shaft, pierced in the heart, and fallen on the Earth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Son of Drona
+  description: A valiant, armored, armed, invincible car-warrior who mounts the vehicle
+    of his slain foe and fights Arjuna.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Arjuna
+  description: A warrior who fights his foes alone and unsupported in a one-against-many
+    battle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Samsaptakas
+  description: A group supporting the son of Drona in battle against Arjuna.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Shakra / Indra
+  description: Shakra is named in the thunderbolt simile; Indra is named as the divine
+    warrior whose ancient battle with the Asuras resembles Arjuna’s encounter.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:6
+  name_or_label: Asuras
+  description: A vast host named as Indra’s opponents in an ancient battle used as
+    a comparison for Arjuna’s encounter.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Yama
+  description: Named through the phrase “Yama’s domains,” whose population the fierce
+    battle is said to enhance.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: fallen warrior
+  assigned_to:
+  - fig:1
+  basis: Suratha is struck by a shaft and falls to the Earth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victorious vehicle-seizing warrior
+  assigned_to:
+  - fig:2
+  basis: After the fall of the slain foe, the son of Drona mounts that foe’s vehicle.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: opponent of Arjuna
+  assigned_to:
+  - fig:2
+  basis: The son of Drona fights with Arjuna while supported by the Samsaptakas.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: single warrior against many foes
+  assigned_to:
+  - fig:3
+  basis: Arjuna is described as alone and unsupported, fighting his foes at the same
+    time in a battle between one and many.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: supporting combatant group
+  assigned_to:
+  - fig:4
+  basis: The Samsaptakas support the son of Drona in battle.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: divine comparator for martial force
+  assigned_to:
+  - fig:5
+  basis: Shakra’s thunderbolt and Indra’s battle against the Asuras are used as comparisons
+    for events in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:7
+  label: host opposed to Indra in comparison
+  assigned_to:
+  - fig:6
+  basis: The Asuras are the vast host opposed to Indra in the comparison.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: possessor of deathly domains
+  assigned_to:
+  - fig:7
+  basis: The battle is described as enhancing the population of Yama’s domains.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: piercing shaft
+  literal_form: A shaft piercing Suratha’s heart and entering the Earth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: riven Earth
+  literal_form: The Earth entered and riven through by the shaft.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: thunderbolt of Shakra
+  literal_form: A simile comparing the shaft to Shakra’s thunderbolt hurled from the
+    sky.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: mountain summit riven with thunder
+  literal_form: A simile comparing Suratha’s fall to a mountain summit riven with
+    thunder.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Yama’s domains
+  literal_form: Domains of Yama whose population is said to be enhanced by the battle.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Suratha struck and fallen
+  summary: A shaft pierces Suratha’s heart, passes into the Earth, and Suratha falls,
+    with thunderbolt and mountain-thunder similes framing the action.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Son of Drona takes the slain foe’s vehicle
+  summary: After Suratha’s fall, the son of Drona mounts the vehicle of the slain
+    foe and fights Arjuna with support from the Samsaptakas.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Arjuna alone against many at noon
+  summary: At noon, a fierce one-against-many battle unfolds; Arjuna fights unsupported,
+    and the encounter is compared to Indra’s ancient battle against the Asuras.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: single warrior against many foes
+  taxonomy_refs: []
+  basis: The passage explicitly describes a noon battle “between one and the many”
+    and says Arjuna fought alone and unsupported against his foes at the same time.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a battlefield episode, not a full independent mythic
+    cycle.
+- id: motif:2
+  label: heroic combat likened to god-versus-demons battle
+  taxonomy_refs: []
+  basis: Arjuna’s encounter with his enemies is said to resemble Indra’s ancient battle
+    with the vast host of the Asuras.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The comparison is an explicit epic simile within the passage; it should
+    not by itself be treated as evidence of historical contact or shared origin.
+- id: motif:3
+  label: battle feeding the realm of death
+  taxonomy_refs: []
+  basis: The fierce battle is described as enhancing the population of Yama’s domains.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The phrasing is metaphorical within a battle description; no afterlife
+    journey is narrated.
+- id: motif:4
+  label: fallen warrior compared to thunder-riven mountain
+  taxonomy_refs: []
+  basis: Suratha’s fall after being struck is compared to a mountain summit riven
+    with thunder.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a poetic comparison rather than a narrative motif by itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Arjuna’s one-against-many battle to Indra’s
+    ancient battle against the host of the Asuras.
+  claim_level: visual_similarity
+  target: Indra in days of yore against the vast host of the Asuras
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal textual comparison and does not establish historical
+    contact, common inheritance, or a separate shared narrative tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 13896-13913
+  quote_or_summary: "“that shaft pierced the heart of Suratha ... entered the Earth
+    ... like the thunderbolt of Shakra ... Suratha fell down ... like a mountain summit
+    riven with thunder.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 13896-13913
+  quote_or_summary: "“the valiant son of Drona ... mounted upon the vehicle of his
+    slain foe ... supported by the Samsaptakas, fought with Arjuna.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 13896-13913
+  quote_or_summary: "“That battle, at the hour of noon, between one and the many,
+    enhancing the population of Yama’s domains, became exceedingly fierce.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 13896-13913
+  quote_or_summary: "“Arjuna, alone and unsupported, fought with his foes at the same
+    time.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 13896-13913
+  quote_or_summary: "“The encounter ... between Arjuna and his enemies, resembling
+    that between Indra, in days of yore, and the vast host of the Asuras.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the passage. Motif labels are cautious
+    because the passage is a brief battle excerpt dominated by poetic similes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unprovided taxonomy identifiers were used. Available symbol taxonomy was applied only to the explicit mountain image.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l13896-l13913
+  passage_sha256=1528d0f8ef553dccc5fc2cc5b2e6854c8b8c1e378695e7634b27831306888a1a
+

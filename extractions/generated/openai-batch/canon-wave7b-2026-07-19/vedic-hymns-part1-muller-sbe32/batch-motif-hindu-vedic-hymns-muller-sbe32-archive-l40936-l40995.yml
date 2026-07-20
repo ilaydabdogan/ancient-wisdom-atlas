@@ -1,0 +1,137 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l40936-l40995
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: AND EDITED BY / FIRST SERIES. / EDITED BY F, MAX MULLER. 3 / EDITED BY F.
+    MAX MULLER. 5; lines 40936-40995
+  start: '40936'
+  end: '40995'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: It contains many legends, some of which show a certain similarity to the
+    Evangelium infantiae, &c.
+  summary: A catalog excerpt for the Sacred Books of the East lists several volumes
+    and translators. One entry describes the Fo-sho-hing-tsan-king as a Life of Buddha
+    and notes that some of its legends show similarity to the Evangelium infantiae.
+    Another entry identifies the Lotus of the True Law as a canonical Northern Buddhist
+    book.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a bibliographic catalog excerpt listing multiple Sacred Books
+    of the East volumes, titles, translators, and publication details.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Volume XIX is identified as The Fo-sho-hing-tsan-king, described as a Life
+    of Buddha by Asvaghosha Bodhisattva, translated from Sanskrit into Chinese by
+    Dharmaraksha in A.D. 420 and from Chinese into English by Samurt Beat as printed
+    in the supplied passage.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Life of Buddha entry states that the work contains many legends and that
+    some show a certain similarity to the Evangelium infantiae.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Volume XXI is identified as The Saddharma-puzdarika, or The Lotus of the True
+    Law, described as a canonical book of the Northern Buddhists translated from Sanskrit,
+    with a Chinese translation finished as early as A.D. 286.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Buddha
+  description: Named as the subject of a Life of Buddha in the catalog entry for The
+    Fo-sho-hing-tsan-king.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: subject of biographical text
+  assigned_to:
+  - fig:1
+  basis: The entry describes The Fo-sho-hing-tsan-king as 'A Life of Buddha.'
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: unspecified legendary similarity between a Buddha biography and the Evangelium
+    infantiae
+  taxonomy_refs: []
+  basis: The catalog note states that the Life of Buddha contains many legends, some
+    of which show a certain similarity to the Evangelium infantiae.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: No individual legend, symbol, episode, or narrative function is described
+    in the passage; the passage is bibliographic rather than narrative.
+comparison_claims:
+- id: claim:1
+  claim: The catalog note reports that some legends in the Life of Buddha show a certain
+    similarity to the Evangelium infantiae.
+  claim_level: same_motif
+  target: Evangelium infantiae
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not specify which legends are similar, does not describe
+    their content, and does not support claims of historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 40936-40995
+  quote_or_summary: Catalog excerpt listing Sacred Books of the East volumes XVIII
+    through XXIV with titles, translators, and brief notes.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain according to supplied source metadata; summarized from
+    supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 40943-40949
+  quote_or_summary: 'The entry describes ''The Fo-sho-hing-tsan-king'' as ''A Life
+    of Buddha'' and states: ''It contains many legends, some of which show a certain
+    similarity to the Evangelium infantiae, &c.'''
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain according to supplied source metadata; brief excerpt
+    from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 40957-40962
+  quote_or_summary: The Saddharma-puzdarika, or Lotus of the True Law, is listed as
+    a canonical Northern Buddhist book translated from Sanskrit, with a Chinese translation
+    finished as early as A.D. 286.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain according to supplied source metadata; summarized from
+    supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The bibliographic details are clear enough for extraction, but the only motif-relevant
+    material is an unspecific catalog note about similarities between legends.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols or narrative scenes were extracted. The word 'Lotus' appears as part of a book title only, so it was not treated as a passage-level symbol.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l40936-l40995
+  passage_sha256=86b761b4678a379648b50638ea02e62e620a678b2b35b80247eaf551ce0bac10
+

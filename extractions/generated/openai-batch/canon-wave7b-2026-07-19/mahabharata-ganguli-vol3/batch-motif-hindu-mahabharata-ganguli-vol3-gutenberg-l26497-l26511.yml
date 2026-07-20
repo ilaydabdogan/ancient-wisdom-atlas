@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l26497-l26511
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION XXV / SECTION XXVI / SECTION XXVII / SECTION XXVIII; lines 26497-26511
+  start: '26497'
+  end: '26511'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Vaisampayana says Vyasa relieved the grief of Yudhishthira, the eldest
+    son of Pandu, who sorrowed over the slaughter of his kinsmen and had resolved
+    to end his life. Vyasa introduces an old story called Asma''s discourse: Janaka,
+    ruler of the Videhas, sorrowfully asks the wise Brahmana Asma how a person seeking
+    good should behave amid the gain and destruction of kinsmen and wealth.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Vaisampayana reports that Vyasa dispelled the grief of the eldest son of Pandu.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The eldest son of Pandu was sorrowful because of the slaughter of his kinsmen
+    and had resolved to make an end of himself.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Vyasa introduces an old story known as Asma's discourse and tells Yudhishthira
+    to listen.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Janaka, ruler of the Videhas, is described as filled with sorrow and grief.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Janaka questions Asma, a wise Brahmana, for the resolution of his doubts.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Janaka asks how a person desirous of his own good should behave when kinsmen
+    and wealth are gained or destroyed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The passage proceeds through nested speech: Vaisampayana reports Vyasa''s
+    words, and Vyasa introduces Janaka''s question to Asma.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Vaisampayana
+  description: Narrating speaker who reports Vyasa's action.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Vyasa
+  description: Speaker who dispels the grief of the eldest son of Pandu and introduces
+    the old story called Asma's discourse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Yudhishthira / eldest son of Pandu
+  description: The eldest son of Pandu, addressed as Yudhishthira, sorrowing over
+    slaughtered kinsmen and receiving Vyasa's instruction.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Janaka, ruler of the Videhas
+  description: Ruler of the Videhas, filled with sorrow and grief, who questions Asma.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Asma
+  description: A wise Brahmana questioned by Janaka for the resolution of doubts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: narrating speaker
+  assigned_to:
+  - fig:1
+  basis: The passage opens with Vaisampayana speaking and reporting Vyasa's action.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: grief-dispelling instructor
+  assigned_to:
+  - fig:2
+  basis: Vyasa dispels Yudhishthira's grief and cites an old discourse for instruction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: grieving recipient of counsel
+  assigned_to:
+  - fig:3
+  basis: The eldest son of Pandu is grieving over the slaughter of kinsmen and is
+    told by Vyasa to listen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: sorrowful ruler and questioner
+  assigned_to:
+  - fig:4
+  basis: Janaka is identified as ruler of the Videhas, filled with sorrow and grief,
+    and asks how one should behave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: wise Brahmana adviser
+  assigned_to:
+  - fig:5
+  basis: Asma is identified as a wise Brahmana whom Janaka questions for resolution
+    of doubts.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Vyasa addresses Yudhishthira's grief
+  summary: Vaisampayana says that Vyasa dispelled the grief of Yudhishthira, who sorrowed
+    over the slaughter of his kinsmen and had resolved to end his life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vyasa introduces Asma's discourse
+  summary: Vyasa tells Yudhishthira that an old story known as Asma's discourse is
+    cited in this connection and asks him to listen.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Janaka questions Asma
+  summary: Within the old story, sorrowful Janaka asks the wise Brahmana Asma how
+    a person should behave amid the gain and destruction of kinsmen and wealth.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Wisdom counsel in response to grief
+  taxonomy_refs:
+  - wisdom
+  basis: Vyasa dispels Yudhishthira's grief by introducing an old discourse, while
+    Janaka seeks resolution from the wise Brahmana Asma.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt gives the setup and Janaka's question, not Asma's full answer.
+- id: motif:2
+  label: Embedded exemplary discourse
+  taxonomy_refs:
+  - wisdom
+  basis: Vyasa explicitly cites an old story, Asma's discourse, as relevant to Yudhishthira's
+    situation.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The motif is based on narrative framing within this short passage.
+- id: motif:3
+  label: Ethical inquiry amid kinship and wealth loss
+  taxonomy_refs:
+  - wisdom
+  basis: Janaka's question asks how one should behave when kinsmen and wealth are
+    gained or destroyed.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the question is present; the ethical teaching that follows is outside
+    this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself frames Asma''s discourse as functionally relevant to
+    Yudhishthira''s grief: both the outer frame and the embedded story concern sorrow
+    or doubt addressed through wise instruction.'
+  claim_level: same_function
+  target: Yudhishthira's grief and Janaka's inquiry in Asma's discourse
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is internal to the passage. The excerpt does not include
+    Asma's answer, so the shared function can only be stated at the level of setup
+    and framing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: SECTION XXVIII; lines 26499-26501
+  quote_or_summary: Vaisampayana says Vyasa dispelled the grief of the eldest son
+    of Pandu, who sorrowed over slaughtered kinsmen and had resolved to end his life.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: SECTION XXVIII; lines 26503-26505
+  quote_or_summary: '"the old story... known by the name of Asma''s discourse. Listen
+    to it, O Yudhishthira!"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: SECTION XXVIII; lines 26505-26507
+  quote_or_summary: Janaka, ruler of the Videhas, is described as sorrowful and grieving;
+    he questions the wise Brahmana Asma to resolve his doubts.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: SECTION XXVIII; lines 26509-26511
+  quote_or_summary: '"How should a man desirous of his own good behave upon occasions
+    of the accession and the destruction of both kinsmen and wealth?"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and clearly identifies speakers, grief, and the wisdom-discourse
+    framing. Motif assignments are limited because the excerpt stops at Janaka's question.
+    No available taxonomy symbol is extracted; the phrase 'burning with sorrow' is
+    metaphorical rather than a literal fire image.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No literal symbol entries were created.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l26497-l26511
+  passage_sha256=e25ed990d9f55a7888aedbc06bd591aa909310e37f7755b44965c6428ea1f674
+

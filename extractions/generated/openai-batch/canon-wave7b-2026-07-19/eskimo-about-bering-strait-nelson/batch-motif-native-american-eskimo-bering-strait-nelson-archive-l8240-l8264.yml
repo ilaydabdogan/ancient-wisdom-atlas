@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l8240-l8264
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: TRAPS    AND    SNARES / BUREAU   OF  AMERICAN    ETHNOLOGY / EIGHTEENTH   ANNUAL   REPORT     PL.    LI
+    / NETS,    SNARES,    AND    TRAPS    (THREE-SIXTEENTHS'; lines 8240-8264
+  start: '8240'
+  end: '8264'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes two noose-trap constructions: one using hollow bird
+    wing-bone cylinders and rawhide line, and another Norton Sound marmot trap using
+    a wooden cylinder, concealed running noose, sinew cord, bent stick, and willow-bark
+    strand that the animal bites off after entering.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Similar nooses from the head of Kotzebue Sound used cylinders made from hollow
+    wing-bones of birds.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the bird-bone cylinder form, a fine rawhide line is tied through a hole
+    near the lower end, passes up through the cylinder, and has a small round wooden
+    block tied crosswise at the other end.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Figure 38 is described as a marmot trap from the head of Norton Sound made
+    from a wooden cylinder a little over eight inches long.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wooden cylinder is made in two parts and fastened with willow-bark lashing
+    through holes along both sides of the junction.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The wooden cylinder has an upper slot, an internal groove running from it,
+    and two holes near the other end.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A strong running noose made from feather vane or whalebone is inserted through
+    the upper slot and concealed inside the groove.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The upper end of the noose has a sinew cord attached to a bent stick planted
+    firmly in the ground.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A strand of willow bark holds the bent stick in position by passing through
+    two holes in the cylinder and being knotted underneath.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The trap is set where the animal comes out of a hole or along a runway.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The animal enters the cylinder, finds the passage barred by the willow-bark
+    strand, and bites the strand off.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The excerpt states that biting off the strand releases something, but the
+    supplied passage breaks off before naming the released part.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Target animal in the marmot trap
+  description: The animal comes out of a hole or along a runway, enters the cylinder,
+    encounters the willow-bark barrier, and bites it off.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: target animal
+  assigned_to:
+  - fig:1
+  basis: The described device is a marmot trap, and the animal enters the cylinder
+    where the trap is set.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: unwitting triggerer
+  assigned_to:
+  - fig:1
+  basis: The animal bites off the willow-bark strand that bars the passage; the passage
+    then says this releases something, though the excerpt is truncated.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: hollow bone cylinder noose body
+  literal_form: cylinder made from hollow bird wing-bone
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wooden marmot-trap cylinder
+  literal_form: wooden cylinder a little over eight inches long, made in two lashed
+    parts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: concealed running noose
+  literal_form: running noose made from feather vane or whalebone, hidden in an internal
+    groove
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bent stick under tension
+  literal_form: bent stick with one end planted firmly in the ground and attached
+    to the noose by sinew cord
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: willow-bark barrier or trigger strand
+  literal_form: strand of willow bark passing through holes in the cylinder, knotted
+    underneath, and barring the passage
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: animal hole or runway
+  literal_form: 'place where the trap is set: an animal hole exit or runway'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Kotzebue Sound hollow-bone noose construction
+  summary: A noose form from Kotzebue Sound is described with a hollow bird wing-bone
+    cylinder, a rawhide line, and a crosswise wooden block.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Norton Sound wooden marmot trap construction
+  summary: A wooden cylindrical marmot trap is assembled from two lashed parts with
+    a slot, groove, holes, a concealed running noose, sinew cord, bent stick, and
+    willow-bark restraint.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Animal enters and bites off the barrier strand
+  summary: At a hole or runway, the animal enters the cylinder, is stopped by the
+    willow-bark strand, bites it off, and the passage begins to state that this releases
+    something before breaking off.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal-triggered noose trap
+  taxonomy_refs: []
+  basis: The trap is set along an animal hole or runway; the animal enters the cylinder
+    and bites off a willow-bark strand that the passage says releases something.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a material-culture trapping pattern rather than a mythological
+    motif; the supplied excerpt ends before specifying the released component.
+- id: motif:2
+  label: concealed snare inside a passage-like cylinder
+  taxonomy_refs: []
+  basis: The running noose is hidden inside a groove within the cylinder, and the
+    animal must enter the cylinder passage where the trap is set.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy motif family directly applies; this is descriptive
+    ethnographic technology, not a narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8240-8246
+  quote_or_summary: Kotzebue Sound nooses use hollow bird wing-bone cylinders; a rawhide
+    line is tied through a lower hole, passes through the cylinder, and carries a
+    crosswise wooden block at the other end.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 8247-8254
+  quote_or_summary: Figure 38 is a Norton Sound marmot trap made from an eight-inch-plus
+    wooden cylinder in two willow-bark-lashed parts, with an upper slot, internal
+    groove, and two holes near the other end.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 8255-8260
+  quote_or_summary: A running noose of feather vane or whalebone is concealed in the
+    groove; a sinew cord connects it to a bent stick held by a willow-bark strand
+    passed through holes and knotted underneath.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 8261-8264
+  quote_or_summary: The animal comes from a hole or runway, enters the cylinder, finds
+    the end barred by willow bark, bites it off, and the excerpt begins, 'This releases
+    the,' before breaking off.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The material description is clear, but the final sentence is truncated. Motif
+    candidates are technical trapping patterns, not mythological taxonomy matches.
+    No comparison claims are supported by the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif reference is directly supported. The passage concerns traps and snares rather than mythic narrative.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l8240-l8264
+  passage_sha256=865302289eccb33bb8868b3bd98a9a44198eac07d1830e8923b91051afb27d72
+

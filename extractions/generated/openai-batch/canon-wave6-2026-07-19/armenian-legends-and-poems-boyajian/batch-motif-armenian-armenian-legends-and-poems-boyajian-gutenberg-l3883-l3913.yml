@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l3883-l3913
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: THOU ART SO SWEET / THE WANDERING ARMENIAN TO THE SWALLOW / THE CHRIST-CHILD
+    / HAPPINESS; lines 3883-3913
+  start: '3883'
+  end: '3913'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker, weary of seeking Happiness in human society, leaves the city,
+    climbs a mountain, questions the winds, rises above clouds to the stars, and finally
+    sees God in space. Each realm gives a sorrowful answer, and God says he also does
+    not know where Joy dwells.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker begins weary from vainly seeking Happiness amid noisy human society
+    and describes earthly life as a dark labyrinth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker climbs from the plain to the mountain and asks it about rest or
+    happiness.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The mountain is described as a bald Titan and answers that Time ordains only
+    dullness for it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker leaves the mountain and approaches the winds, described as infinite,
+    proud, and free spirits.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The winds answer that they are sighs of griefs unknown to human minds.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker rises above the winds and clouds to the skies and asks the stars
+    of Heaven.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The stars answer that they are tears flowing from countless woes and are called
+    eyes of darkness.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Above the stars, in lone space, the speaker sees God, described as musing,
+    sorrowful, and mild.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The speaker addresses God as Father and asks where Joy dwells; God answers
+    that he also does not know, calling the speaker his child.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: First-person seeker of Happiness and Joy’s dwelling-place.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: mountain / bald Titan
+  description: A mountain personified as a bald Titan who answers the speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: winds
+  description: Personified winds, called infinite, proud, free spirits, who answer
+    the speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: stars of Heaven / eyes of darkness
+  description: Personified stars that answer the speaker and are described as eyes
+    of darkness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: God / Father
+  description: God appears above the stars in lone space, musing, sorrowful, and mild;
+    he is addressed as Father and calls the speaker his child.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seeker
+  assigned_to:
+  - fig:1
+  basis: The speaker vainly seeks Happiness and asks successive cosmic figures where
+    Joy dwells.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: ascending traveler
+  assigned_to:
+  - fig:1
+  basis: The speaker moves from city and plain to mountain, winds, stars, and space
+    above the stars.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: personified respondent
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The mountain, winds, and stars each answer the speaker’s inquiry with sorrowful
+    or negative statements.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: divine respondent
+  assigned_to:
+  - fig:5
+  basis: God is encountered in space and answers the speaker’s question about Joy’s
+    dwelling-place.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: father figure
+  assigned_to:
+  - fig:5
+  basis: The speaker calls God “Father,” and God replies by calling the speaker “my
+    child.”
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: labyrinth of dark life
+  literal_form: labyrinth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain
+  literal_form: mountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: winds
+  literal_form: winds
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: stars of Heaven
+  literal_form: stars
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: lone fields of space
+  literal_form: space above the stars
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Departure from human society
+  summary: The speaker leaves the noisy human press after failing to find Happiness
+    there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Questioning the mountain
+  summary: The speaker climbs to the mountain, but the personified mountain answers
+    that it knows only dullness under Time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Questioning the winds
+  summary: The speaker approaches the winds, which identify themselves as sighs of
+    griefs unknown to human minds.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Questioning the stars
+  summary: The speaker rises above winds and clouds to ask the stars, which answer
+    that they are tears from countless woes.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Questioning God above the stars
+  summary: The speaker encounters God in lone space and asks where Joy dwells; God
+    says he also does not know.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: quest for Happiness or Joy’s dwelling-place
+  taxonomy_refs:
+  - mystical_quest
+  basis: The speaker searches beyond human society and questions increasingly elevated
+    natural, celestial, and divine respondents about Happiness or Joy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The poem frames the search philosophically and lyrically rather than as
+    a narrative quest with a successful revelation.
+- id: motif:2
+  label: ascent through mountain, sky, stars, and space
+  taxonomy_refs:
+  - ascent
+  basis: The speaker climbs the mountain, rises above winds and clouds, reaches the
+    stars, and then goes above the stars into space.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The ascent is poetic and visionary; no ritual or cosmographic system is
+    specified in the passage.
+- id: motif:3
+  label: divine father and human child dialogue
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The speaker addresses God as Father, and God replies to the speaker as “my
+    child.”
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief address and reply, without further narrative
+    development of a parent-child myth.
+- id: motif:4
+  label: labyrinthine human life as departure point
+  taxonomy_refs:
+  - labyrinth_initiation
+  - departure
+  basis: The speaker leaves the noisy human press and calls earthly life a dark labyrinth
+    before beginning the upward search.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The labyrinth is metaphorical; no literal maze or formal initiation is
+    described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3887-3890
+  quote_or_summary: The speaker is weary of vainly seeking Happiness in city alleys
+    and leaves the noisy human press, described as a dark labyrinth of life.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3891-3894
+  quote_or_summary: The speaker says the mountain knows rest, climbs above the plain,
+    and the mountain, called a bald Titan, answers that Time ordains dullness for
+    it.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3895-3898
+  quote_or_summary: The speaker leaves the mountain and approaches the winds, described
+    as proud free spirits; they answer that they are sighs of griefs unknown to human
+    minds.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 3899-3902
+  quote_or_summary: The speaker rises above winds and clouds to the skies and asks
+    the stars, which answer that they are tears flowing from countless woes.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 3903-3906
+  quote_or_summary: "“Father,” I cried, “where is Joy’s dwelling-place?” He said,
+    “I also do not know, my child.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are limited to patterns
+    directly supported by the poem. No comparison claims were added because the passage
+    does not itself establish a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. Candidate taxonomy references are limited to provided available taxonomy refs.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l3883-l3913
+  passage_sha256=e76326ea452440d344e11cc40f0e9c67204107cd4fc2c4dfc786559960b07277
+

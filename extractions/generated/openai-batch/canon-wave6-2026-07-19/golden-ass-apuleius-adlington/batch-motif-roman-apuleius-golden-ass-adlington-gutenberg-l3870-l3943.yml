@@ -1,0 +1,519 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l3870-l3943
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE SIXTH BOOKE / THE TWENTY-THIRD CHAPTER / THE SEVENTH BOOKE / THE TWENTY-FOURTH
+    CHAPTER; lines 3870-3943
+  start: '3870'
+  end: '3943'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: At dawn a member of the thieves' company returns to their cave and reports
+    that the robbery of Milo's house has been publicly blamed on Lucius Apuleius.
+    The report describes suspicions against Lucius, the imprisonment and torture of
+    his servant, and pursuit toward Lucius's homeland. The transformed narrator laments
+    his condition as an ass, reflects on blind Fortune, and tries unsuccessfully to
+    deny the accusation because he cannot speak human words.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At dawn, a member of the thieves' company arrives at the cave and speaks to
+    his companions after catching his breath.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The returning thief says the company forcibly entered and ransacked Milo of
+    Hippata's house, took goods, and returned to the cave.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The returning thief says he mingled among the people, pretended sorrow, and
+    learned about the investigation in order to report back.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The robbery is said to have been laid by public judgment and alleged proof
+    to Lucius Apuleius.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The allegations against Lucius include forged letters, gaining Milo's favor,
+    feigned love toward Milo's maid, and learning the doors and storage places of
+    the house.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The report says Lucius fled on the night of the robbery and was believed to
+    have taken a white horse to escape pursuit.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Lucius's servant was found in the house, accused as an accessory, imprisoned,
+    and tortured nearly to death without yielding the desired confession.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrator says he has been changed into a miserable four-footed ass.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator recalls ancient writers' claim that Fortune is blind and gives
+    wealth and reputation without judgment.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The narrator says he cannot defend himself because he cannot speak; when he
+    tries to deny the crime, he can only repeat the first word, 'Never.'
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The narrator says that his servant and his horse were likewise accused with
+    him of the robbery.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: returning thief
+  description: A member of the thieves' company who returns from Hippata to the cave
+    and reports the news about Milo's robbery.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: company of thieves
+  description: The group in the cave who robbed Milo's house and receive the returning
+    thief's report.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lucius Apuleius / narrator
+  description: The person publicly accused of authoring the robbery; the narrator
+    states that he is changed into an ass and unable to speak in his defense.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Milo of Hippata
+  description: The householder whose house was robbed and who had received Lucius
+    into his home.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Milo's maid
+  description: A maid of Milo whom Lucius is alleged to have won by feigned love in
+    order to learn the house.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Lucius's servant
+  description: Lucius's servant, found in the house, accused as an accessory, imprisoned,
+    and tortured.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:7
+  name_or_label: Lucius's horse / white horse
+  description: The white horse allegedly taken by Lucius in flight and later said
+    by the narrator to have been accused along with him.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:8
+  name_or_label: Fortune
+  description: A personified force described as blind, cruel, and as assigning wealth
+    and reputation without judgment.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: news-bearer from Hippata
+  assigned_to:
+  - fig:1
+  basis: He arrives at the thieves' cave and tells his companions what has happened
+    after the robbery.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: member of robber company
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies the returning man as one of the thieves and links
+    him with the company that robbed Milo's house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: robbery perpetrators and listeners
+  assigned_to:
+  - fig:2
+  basis: The company forcibly entered and ransacked Milo's house, then returned to
+    the cave where they hear the report.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: accused author of robbery
+  assigned_to:
+  - fig:3
+  basis: The robbery is publicly laid to Lucius Apuleius, and he later describes himself
+    as accused of theft.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: transformed animal narrator
+  assigned_to:
+  - fig:3
+  basis: The narrator states that he has been changed into a four-footed ass and cannot
+    speak in his defense.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: robbed host and householder
+  assigned_to:
+  - fig:4
+  basis: Milo's house is the one forcibly entered and ransacked, and the report says
+    he had hosted Lucius.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: household maid in accusation narrative
+  assigned_to:
+  - fig:5
+  basis: The accusation claims Lucius won the maid's heart through feigned love and
+    thereby learned the house.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: accused accessory under torture
+  assigned_to:
+  - fig:6
+  basis: The servant is accused as accessory to the felony and escape, committed to
+    gaol, and tortured.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:9
+  label: alleged escape animal and co-accused
+  assigned_to:
+  - fig:7
+  basis: The report says Lucius took his white horse to escape, and the narrator says
+    the horse was likewise accused.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:10
+  label: personified blind distributor of outcomes
+  assigned_to:
+  - fig:8
+  basis: The narrator describes Fortune as blind, without judgment, cruel, and responsible
+    for reversals and false reputations.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: thieves' cave
+  literal_form: The cave where the thieves gather and to which the plunder is brought.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: chariot of the sun
+  literal_form: The dawn image of the clear chariot of the Sun spreading bright beams.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ass form
+  literal_form: The narrator's miserable four-footed ass body, which prevents ordinary
+    human speech.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: white horse
+  literal_form: The white horse said to have been taken for escape and later said
+    to be accused with Lucius.
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: blind Fortune
+  literal_form: Fortune imagined as blind and without eyes, assigning goods and reputations
+    contrary to judgment.
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dawn return to the cave
+  summary: At daybreak a member of the thieves' company returns to the cave and prepares
+    to tell his companions the news from Hippata.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Report of blame after Milo's robbery
+  summary: The returning thief reports that Milo's house was robbed by the company,
+    that he infiltrated the public discussion, and that blame has fallen on Lucius
+    Apuleius.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Accusation narrative against Lucius
+  summary: 'The report explains why Lucius is suspected: he allegedly gained Milo''s
+    trust, used feigned love toward the maid, learned the house, and fled on a white
+    horse.'
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Servant tortured and pursuit sent out
+  summary: Lucius's servant is accused as an accessory, jailed, and tortured, while
+    others are sent toward Lucius's country to seek him.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Narrator laments transformed state and Fortune
+  summary: The narrator compares his former condition with his present misery as an
+    ass and reflects on the cruelty and blindness of Fortune.
+  figure_refs:
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Failed denial by an animal body
+  summary: Unable to speak human language, the narrator attempts to deny the accusation
+    but can only repeat the beginning of his denial.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: human transformed into animal
+  taxonomy_refs:
+  - shapeshifter
+  basis: The narrator states that he has been changed into a four-footed ass and is
+    constrained by that animal form.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This passage reports the transformed condition but does not narrate the
+    original transformation event.
+- id: motif:2
+  label: wrongly accused absent protagonist
+  taxonomy_refs: []
+  basis: The robbery of Milo's house is laid to Lucius by public opinion and alleged
+    circumstantial evidence, while the narrator insists internally that he did not
+    commit it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage presents the accusation and the narrator's denial, not a formal
+    legal resolution.
+- id: motif:3
+  label: silenced innocent unable to defend himself
+  taxonomy_refs: []
+  basis: The narrator says he cannot defend himself because he cannot speak, and his
+    attempted denial becomes only repeated 'Never.'
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The motif is passage-specific and not tied here to a supplied taxonomy
+    family.
+- id: motif:4
+  label: blind Fortune and reversal of reputation
+  taxonomy_refs: []
+  basis: The narrator laments his fall from former felicity to misery and invokes
+    the idea that blind Fortune favors the wicked and slanders the innocent.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage names a commonplace about Fortune but does not identify specific
+    external authors.
+- id: motif:5
+  label: innocent associates punished for another's alleged crime
+  taxonomy_refs: []
+  basis: Lucius's servant is accused as an accessory, imprisoned, and tortured; the
+    narrator also states that his servant and horse were accused along with him.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The horse's accusation is briefly stated, and the passage does not give
+    procedural details for the horse.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns the narrator's reversal with an ancient-writer
+    commonplace in which Fortune is blind, favors the unworthy, and gives false reputations
+    to the innocent.
+  claim_level: same_motif
+  target: blind Fortune / reversal-of-fortune commonplace attributed to old and ancient
+    writers
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage mentions 'old and ancient Writers' but names no specific
+    author, text, school, or transmission path.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3870-3881
+  quote_or_summary: At dawn, one of the thieves' company comes to the cave and, after
+    catching his breath, begins to tell his companions news.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: public domain
+- id: ev:2
+  type: summary
+  locator: lines 3882-3893
+  quote_or_summary: The speaker says the thieves ransacked Milo's house and returned
+    to the cave; he mingled among the people to learn the investigation, and the blame
+    was laid on Lucius Apuleius.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: public domain
+- id: ev:3
+  type: summary
+  locator: lines 3894-3909
+  quote_or_summary: The accusation says Lucius gained Milo's favor by forged letters
+    and apparent honesty, won the maid by feigned love, learned the house's doors
+    and chests, and fled that night on a white horse.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: public domain
+- id: ev:4
+  type: summary
+  locator: lines 3910-3917
+  quote_or_summary: Lucius's servant is found in the house, accused as accessory,
+    jailed, and cruelly tortured nearly to death, but no confession is obtained; searchers
+    are sent toward Lucius's country.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: public domain
+- id: ev:5
+  type: summary
+  locator: lines 3918-3932
+  quote_or_summary: The narrator laments his former felicity against his present misery
+    as a four-footed ass and recalls the ancient claim that Fortune is blind, cruel,
+    and contrary in assigning goods and reputations.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: public domain
+- id: ev:6
+  type: quote
+  locator: lines 3933-3940
+  quote_or_summary: The narrator says he could not defend himself because he could
+    not speak; trying to deny the charge, he could only cry, 'Never, never, never.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: public domain
+- id: ev:7
+  type: summary
+  locator: lines 3941-3943
+  quote_or_summary: The narrator says he was ashamed that his servant and horse were
+    likewise accused with him of the robbery.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: public domain
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: Extraction uses only the supplied passage. Evidence line subdivisions are
+    approximate within the provided stable range. The only comparison claim is based
+    on the passage's explicit reference to ancient writers on blind Fortune.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or taxonomy identifiers beyond the supplied reference lists were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l3870-l3943
+  passage_sha256=650368a6946288c7030d8c999c41e178e440e2796fe8ed8bde0675e9f3963023
+

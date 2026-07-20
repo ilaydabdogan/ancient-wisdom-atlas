@@ -1,0 +1,433 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l8327-l8369
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: AUBOBAS. / VEGETATION. / ANIMAL LIFE. / MAMMALS.; lines 8327-8369
+  start: '8327'
+  end: '8369'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives a zoological and economic account of mammals in a northern
+    region: marine mammals and seals are known and pursued, white whales are captured
+    and processed by Indians and Eskimo at Little Whale River and Fort Chimo, reindeer
+    provide subsistence and winter skins, bears occupy different ranges, and smaller
+    mammals vary by habitat and food supply.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Marine mammals are described as well known, and the passage says the number
+    of cetaceans in nearby waters can likely be increased beyond usual reports.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Phocids are pursued off southeast Labrador each spring on a very large scale.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At the mouth of Little Whale River, about 500 white whales are taken each
+    year, although the capture is said to be decreasing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Indians are described as doing much of the driving, killing, flaying, and
+    preserving of white whales at Little Whale River.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At Fort Chimo, Eskimo drive and kill white whales, while Indians remove blubber
+    and prepare it for oil tanks; white whale skin is tanned into nearly waterproof
+    leather.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Reindeer are described as abundant in some localities and as a principal source
+    of subsistence for many inhabitants; their skins are necessary for winter protection
+    for nearly all residents.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Black, white, and brown bears are said to be common in their respective areas,
+    with white bears associated with northern sea-bordering areas and sometimes carried
+    south on ice.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The brown or barren-ground bear is described as not plentiful but feared by
+    Indians because of its vicious disposition when enraged.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Smaller mammals vary with food supply; wolves, foxes, and wolverines are distributed
+    across the region, while hares occur in wooded or barren tracts depending on species.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Marine mammals and cetaceans
+  description: Marine mammals known in the region; cetaceans in bordering waters may
+    be underreported.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Phocids
+  description: Seal-family animals pursued each spring off southeast Labrador.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: White whale
+  description: A whale taken yearly at Little Whale River and pursued at Fort Chimo;
+    its blubber and skin are processed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Indians
+  description: Human group described as laboring in white-whale driving, killing,
+    flaying, preserving, and blubber processing; also mentioned as fearing enraged
+    brown bears.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:5
+  name_or_label: Eskimo
+  description: Human group described at Fort Chimo as driving and killing white whales.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Reindeer
+  description: Land mammal described as abundant and important for subsistence and
+    winter skins.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Black, white, and brown bears
+  description: Bear types described by range; the brown or barren-ground bear is noted
+    as dangerous when enraged.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: Wolves, foxes, wolverines, and hares
+  description: Smaller mammals described as distributed according to food supply and
+    habitat.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: regional marine-mammal subject
+  assigned_to:
+  - fig:1
+  basis: The passage introduces marine mammals and cetaceans as known inhabitants
+    of the region's waters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: seasonally pursued seal family
+  assigned_to:
+  - fig:2
+  basis: Phocids are pursued each spring off southeast Labrador.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: captured and processed whale resource
+  assigned_to:
+  - fig:3
+  basis: White whales are taken yearly and processed for blubber, oil, skin, and leather.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: whale-hunt and processing laborers
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Indians and Eskimo are assigned specific tasks in driving, killing, flaying,
+    preserving, and processing white whales.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: subsistence and winter-protection resource
+  assigned_to:
+  - fig:6
+  basis: Reindeer provide food and skins needed for protection from winter severity.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: dangerous or range-marked bears
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: The passage describes bear ranges and notes Indian dread of the brown or
+    barren-ground bear when enraged.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:7
+  label: habitat-distributed smaller mammals
+  assigned_to:
+  - fig:8
+  basis: The smaller mammals are described according to food availability and habitat
+    distribution.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: marine mammals and cetaceans
+  literal_form: marine mammals; cetaceans
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: white whale
+  literal_form: white whale
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: animal-derived materials
+  literal_form: white whale blubber, oil, tanned skin leather, and reindeer skins
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: reindeer
+  literal_form: reindeer
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: bears
+  literal_form: black bear, white bear, brown or barren-ground bear
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: sea waters
+  literal_form: waters bordering the region; sea-bordering northern portions
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:7
+scenes:
+- id: scene:1
+  label: Marine mammal distribution and seal pursuit
+  summary: The passage introduces marine mammals and notes that seal-family animals
+    are pursued each spring off southeast Labrador.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: White whale capture and processing
+  summary: At Little Whale River and Fort Chimo, white whales are driven, killed,
+    flayed, preserved, rendered for blubber and oil, and their skin is tanned into
+    leather.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Reindeer as subsistence and winter resource
+  summary: Reindeer are described as abundant and necessary for food and winter clothing
+    materials.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Bear ranges and danger
+  summary: Black, white, and brown bears are described by their ranges, and the brown
+    or barren-ground bear is singled out as feared when enraged.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Smaller mammal distribution
+  summary: Wolves, foxes, wolverines, and hares are described in relation to food
+    supply and habitat.
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: seasonal marine mammal pursuit
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that phocids are pursued each spring off southeast Labrador
+    and describes annual white-whale capture.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a practical zoological and economic description, not a mythic
+    or ritual narrative in the supplied excerpt.
+- id: motif:2
+  label: animal resources for subsistence, protection, and material processing
+  taxonomy_refs: []
+  basis: White whales are processed for blubber, oil, and leather, while reindeer
+    provide subsistence and skins needed for winter protection.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The pattern is economic and ethnographic; no symbolic or sacred interpretation
+    is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8327-8334
+  quote_or_summary: Marine mammals are described as well known, and cetaceans in adjacent
+    waters may be more numerous than usually reported.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8335-8339
+  quote_or_summary: Phocids are best known because they are pursued off southeast
+    Labrador each spring on an unusually large scale.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8340-8343
+  quote_or_summary: At the mouth of Little Whale River, the white whale is taken at
+    about 500 per year, with the capture steadily decreasing.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 8343-8346
+  quote_or_summary: Indians at Little Whale River do much of the labor of driving,
+    killing, flaying, and preserving white whales.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8346-8352
+  quote_or_summary: At Fort Chimo, Eskimo drive and kill white whales; Indians remove
+    and prepare blubber for oil tanks; white whale skin is tanned into nearly waterproof
+    leather.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 8353-8358
+  quote_or_summary: Reindeer are abundant in some localities, provide principal subsistence
+    for many inhabitants, and supply skins needed for winter protection.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 8359-8365
+  quote_or_summary: Black, white, and brown bears are described by range; white bears
+    occur in northern sea-bordering portions and may be carried south on ice.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 8365-8367
+  quote_or_summary: The brown or barren-ground bear is not plentiful but is common
+    enough to make Indians fear its vicious behavior when enraged.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 8368-8369
+  quote_or_summary: Smaller mammals occur according to food supply; wolves, foxes,
+    and wolverines are broadly distributed, and hares occupy wooded or barren tracts
+    by species.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily zoological and economic rather than mythological.
+    Motif candidates are limited to observable seasonal and subsistence patterns;
+    no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No sacred narrative, ritual action, or explicit mythological comparison appears in the supplied passage. Animal entries are treated as literal figures/symbolic elements without asserting symbolic meaning.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l8327-l8369
+  passage_sha256=5006534e00428fbdc75f29a9cb2b8a7af751f6054a07f6c0c1ac54d2d4368e28
+

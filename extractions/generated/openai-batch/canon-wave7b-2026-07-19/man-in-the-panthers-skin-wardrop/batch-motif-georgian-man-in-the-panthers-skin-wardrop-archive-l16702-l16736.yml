@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.georgian-man-in-the-panthers-skin-wardrop-archive-l16702-l16736
+source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+passage_locator:
+  label: PLACES. / FAUNA. / MINERALS, GEMS, ETC. / ASTRONOMY.; lines 16702-16736
+  start: '16702'
+  end: '16736'
+  translation: The Man in the Panther's Skin
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'An index subsection titled “ASTRONOMY” lists calendrical, celestial, and
+    cosmological entries with verse references: bissextile added day, eclipse/serpent,
+    ether, firmament, January, Leo, moon, planets, Pleiads, sun, and wheel of heaven.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an astronomy index section rather than a narrative episode.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bissextile added day is listed with the term “nact” and a verse reference.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The eclipse entry includes the parenthetical term “serpent” and multiple verse
+    references.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ether and firmament are listed as astronomical or cosmological terms with
+    Georgian forms and verse references.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: January and Leo are listed, with Leo identified as a constellation.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The moon entry notes its sex, invocations to it, an invocation to it as origin
+    of love, its phases, and the full moon.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The planets entry lists general terms for planets and named planets including
+    Zual, Mushthar, Marikh, Aspiroz, and Otarid.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Pleiads are listed with variant forms and verse references.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The sun entry notes God’s image, the sex of the sun, an invocation to the
+    sun, and the sun as a place of the dead.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The wheel of heaven is listed with two verse references.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: God
+  description: Referenced only in the sun entry, where the sun is indexed as “God’s
+    image.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: divine referent named in index
+  assigned_to:
+  - fig:1
+  basis: The sun entry names God in the phrase “God’s image.”
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: eclipse-serpent
+  literal_form: Eclipse entry with parenthetical “serpent.”
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: moon
+  literal_form: Moon entry with sex, invocations, origin of love, phases, and full
+    moon references.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: sun
+  literal_form: Sun entry with God’s image, sex, invocation, and place of the dead
+    references.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: planets
+  literal_form: 'Planets and named planets: Zual, Mushthar, Marikh, Aspiroz, and Otarid.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Pleiads
+  literal_form: Pleiads listed as “Khomlt, khomi.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: Leo constellation
+  literal_form: Leo identified as a constellation, with the form “Zomz.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: firmament
+  literal_form: Firmament listed with the form “samqaro.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: ether
+  literal_form: Ether listed with the form “e’hert.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:9
+  label: wheel of heaven
+  literal_form: Wheel of heaven entry with two verse references.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: serpent-associated eclipse
+  taxonomy_refs:
+  - serpent
+  basis: The index explicitly lists “Eclipse” with the parenthetical “serpent.”
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is an index entry and does not provide the underlying episode
+    or explanation of the serpent-eclipse association.
+- id: motif:2
+  label: celestial invocation
+  taxonomy_refs: []
+  basis: Both the moon and sun entries include invocations to the celestial body.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  confidence: medium
+  cautions: The wording identifies index topics only; the prayers or invocations themselves
+    are not included in this passage.
+- id: motif:3
+  label: moon as origin of love
+  taxonomy_refs: []
+  basis: The moon entry includes an “invocation to” the moon “as origin of love.”
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not include the full invocation or explain the cosmology
+    of love.
+- id: motif:4
+  label: sun as divine image
+  taxonomy_refs: []
+  basis: The sun entry lists “God’s image” as an indexed topic.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage gives only an index label, not the full verse context.
+- id: motif:5
+  label: sun as place of the dead
+  taxonomy_refs: []
+  basis: The sun entry lists “place of the dead” with verse references.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage supports a solar afterlife locale but does not describe an
+    afterlife journey or map.
+- id: motif:6
+  label: wheel of heaven
+  taxonomy_refs: []
+  basis: The index includes “Wheel of heaven” with verse references.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The passage does not provide the verses in which the image occurs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 16702-16736; section heading
+  quote_or_summary: ASTRONOMY.
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain; supplied metadata allows full text use.
+- id: ev:2
+  type: quote
+  locator: 16702-16736; bissextile entry
+  quote_or_summary: Bissextile added day (nact), 787
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain; supplied metadata allows full text use.
+- id: ev:3
+  type: quote
+  locator: 16702-16736; eclipse entry
+  quote_or_summary: Eclipse (serpent), 122, 125, 277, 1176, 1208, 1396
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain; supplied metadata allows full text use.
+- id: ev:4
+  type: summary
+  locator: 16702-16736; ether and firmament entries
+  quote_or_summary: Ether is listed as “e’hert”; firmament is listed as “samqaro,”
+    each with verse references.
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain; supplied metadata allows full text use.
+- id: ev:5
+  type: summary
+  locator: 16702-16736; January and Leo entries
+  quote_or_summary: January is listed as “tanvart”; Leo is listed as a constellation
+    with the form “Zomz.”
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain; supplied metadata allows full text use.
+- id: ev:6
+  type: summary
+  locator: 16702-16736; moon entry
+  quote_or_summary: The moon entry lists sex, invocation, invocation as origin of
+    love, phases, and full moon references.
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain; supplied metadata allows full text use.
+- id: ev:7
+  type: summary
+  locator: 16702-16736; planets entry
+  quote_or_summary: 'The planets entry lists general planet terms and named planets:
+    Zual, Mushthar, Marikh, Aspiroz, and Otarid.'
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain; supplied metadata allows full text use.
+- id: ev:8
+  type: quote
+  locator: 16702-16736; Pleiads entry
+  quote_or_summary: Pleiads (Khomlt, khomi), 1117, 1887
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain; supplied metadata allows full text use.
+- id: ev:9
+  type: summary
+  locator: 16702-16736; sun entry
+  quote_or_summary: The sun entry lists God’s image, sex, invocation to the sun, and
+    the sun as place of the dead.
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain; supplied metadata allows full text use.
+- id: ev:10
+  type: quote
+  locator: 16702-16736; wheel of heaven entry
+  quote_or_summary: Wheel of heaven, 1285, 1391
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain; supplied metadata allows full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward because the passage is an index list.
+    Motif candidates require caution because the underlying verse contexts are not
+    present. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The passage is not a narrative scene but an astronomy index; scenes are therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:georgian-man-in-the-panthers-skin-wardrop-archive__l16702-l16736
+  passage_sha256=f4d16f1527e4f5d2a4bba34de1b1eea768133a4fdfff23f47f453f1a43cbd5d4
+

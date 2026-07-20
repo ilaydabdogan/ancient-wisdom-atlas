@@ -1,0 +1,193 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l6659-l6665
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: DBXSMOBIJ  TETON  SIOUX  MUSIC  55 / BUBEAU  OF  AMEBICAN  ETHKOLOGY / CHIPPEWA
+    / SIOUX; lines 6659-6665
+  start: '6659'
+  end: '6665'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that ceremonial articles were required to be as perfect
+    as possible, giving examples including a buffalo skull, a tree for a sacred pole,
+    an ax used to cut the tree, and sacred stones. It also states that ceremonial
+    leaders were required to have purity of life and that what is genuine should be
+    preferred to what is artificial.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Articles used in ceremonies were required to be as perfect as possible.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage cites the choice of a buffalo skull, a tree for the sacred pole
+    in the Sun dance, and the ax used to cut the tree as relevant examples.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sacred stones are described as regular in outline and untouched by a tool.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Purity of life was required of leaders in all ceremonies.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage refers to a statement that what is genuine should be preferred
+    to what is artificial.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: leaders in ceremonies
+  description: People described as leaders in all ceremonies, for whom purity of life
+    was required.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ceremonial leader
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly refers to leaders in all ceremonies and states a requirement
+    placed on them.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tree for sacred pole
+  literal_form: tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: buffalo skull
+  literal_form: buffalo skull
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sacred stones
+  literal_form: stones
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ax used in cutting the tree
+  literal_form: ax
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: requirements for ceremonial objects and leaders
+  summary: The passage describes a pattern in which ceremonial objects should be perfect,
+    sacred stones should be regular and untouched by tools, leaders should have purity
+    of life, and genuine things are preferred over artificial ones.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual perfection of ceremonial materials
+  taxonomy_refs: []
+  basis: The passage repeatedly emphasizes that ceremonial articles should be perfect,
+    regular, untouched by tools, and genuine rather than artificial.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a local ritual pattern in the passage and is not matched to a
+    supplied taxonomy motif family.
+- id: motif:2
+  label: purity requirement for ritual leadership
+  taxonomy_refs: []
+  basis: The passage states that purity of life was required of leaders in all ceremonies.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the requirement but does not narrate an episode involving
+    a specific leader.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6659-6660
+  quote_or_summary: "“Articles for ceremonial use were required to be as perfect as
+    possible.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 6659-6661
+  quote_or_summary: The note refers to the choice of the buffalo skull, the tree for
+    the sacred pole in the Sun dance, and the ax used in cutting the tree.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 6662-6663
+  quote_or_summary: "“The sacred stones were regular in outline and untouched by a
+    tool.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6663-6664
+  quote_or_summary: The passage says purity of life was required of leaders in all
+    ceremonies.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6664-6665
+  quote_or_summary: The passage refers to another statement that what is genuine should
+    be preferred to what is artificial.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive rather
+    than tied to a supplied motif-family taxonomy. No cross-tradition comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage is an explanatory note rather than a narrative myth episode; extraction therefore emphasizes ritual objects, attributes, and requirements.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l6659-l6665
+  passage_sha256=b030ebaf4ccbd20bc8b3d620ad5797d1aaade22f22f3b8eb6ec9c415dae92e94
+

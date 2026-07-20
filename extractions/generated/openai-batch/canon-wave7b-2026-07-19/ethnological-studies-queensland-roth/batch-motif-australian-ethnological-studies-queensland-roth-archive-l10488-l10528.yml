@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.australian-ethnological-studies-queensland-roth-archive-l10488-l10528
+source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+passage_locator:
+  label: 'PEBSONAL OBITAMEWTATIOW AND DECOHATION. MTTBAL PATSTHTG, ETC. 109 / MITRAL
+    PAINTOTG, BTC. 113 / CHAPTER VIII. / RECREATION : CORROBBOREES, SPORTS, AND GAMES.;
+    lines 10488-10528'
+  start: '10488'
+  end: '10528'
+  translation: Ethnological Studies among the North-West-Central Queensland Aborigines
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"the singing is kept up all night before the fires until sunrise"'
+  summary: 'The passage describes an overnight corroboree sequence: after dancing
+    stops, singing continues through the night before fires, with women beating time
+    and singers relieving one another. Song verses are recorded from Glenormiston
+    and Boulia. At sunrise a single decorated dancer resumes the dance with fluted
+    boomerangs. A second-night performance begins at sunset with preliminary song,
+    double bowing, and similarly dressed dancers.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dancing stops until the following morning, while singing continues all night
+    before fires until sunrise.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two women beat time with the flat of the hand on the crutch of the thighs
+    and relieve each other to sleep briefly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some audience members may sing all night, though generally singers rest each
+    other at intervals.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several verses sung through the night are reported from Glenormiston and Boulia,
+    90 miles apart, rendered by different tribes.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At the first streak of sunrise, the corroboree dance is resumed by one individual
+    with a pair of fluted boomerangs and blood-feathering.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The accompanying song gives the dance its name, after which the performance
+    is over for the day.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: On the second night at sunset, the preliminary song and double bowing of each
+    performer occur as on the previous night, and the dancers are dressed alike.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: two women time-beaters
+  description: Two women beat time with the flat of the hand and alternate so that
+    one can sleep briefly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: audience singers
+  description: Audience members who may continue singing through the night, resting
+    each other occasionally.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Roxburgh boys
+  description: Identified as the singers of the Glenormiston version of the verses.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: local Pitta-Pitta
+  description: Identified as the singers of the Boulia version of the verses.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: single sunrise dancer
+  description: One individual resumes the corroboree dance at sunrise with fluted
+    boomerangs and blood-feathering.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: second-night performers
+  description: Performers who take part at sunset in the preliminary song and double
+    bowing and are dressed alike.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: time-beater
+  assigned_to:
+  - fig:1
+  basis: The passage says two women beat time with the flat of the hand.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: singer
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The audience may continue singing, and the named groups are identified as
+    singers of the verses.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: regional verse-rendering group
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage contrasts Glenormiston and Boulia renderings, 90 miles apart,
+    by different groups.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: sole sunrise dancer
+  assigned_to:
+  - fig:5
+  basis: The corroboree dance is resumed at sunrise by one individual.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: second-night performer
+  assigned_to:
+  - fig:6
+  basis: Each performer participates in preliminary song and double bowing at sunset
+    on the second night.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fires
+  literal_form: fires before which the all-night singing continues
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: night-to-sunrise interval
+  literal_form: singing all night until the first streak of sunrise
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: fluted boomerangs
+  literal_form: a pair of fluted boomerangs carried by the sunrise dancer
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: blood-feathering
+  literal_form: blood-feathered adornment of the sunrise dancer
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: double bowing
+  literal_form: double bowing gesture by each performer at sunset on the second night
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Night singing before fires
+  summary: After dancing ends for the night, singing continues before fires until
+    sunrise, with time-beating by two women and alternating singers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Regional verse renderings
+  summary: Examples of verses sung through the night are presented from Glenormiston
+    and Boulia, associated with Roxburgh boys and local Pitta-Pitta singers.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sunrise single-dancer resumption
+  summary: At the first streak of sunrise, one decorated dancer resumes the corroboree
+    dance with fluted boomerangs and an accompanying named song.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Second-night sunset opening
+  summary: At sunset on the second night, performers repeat the preliminary song and
+    double bowing and appear dressed alike.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: all-night song vigil before fires
+  taxonomy_refs: []
+  basis: The passage describes singing maintained through the night before fires until
+    sunrise after dancing has stopped.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: Identified as a performance pattern only; no cosmological or initiatory
+    meaning is supplied in this passage.
+- id: motif:2
+  label: dawn resumption by a single decorated dancer
+  taxonomy_refs: []
+  basis: At sunrise, one individual resumes the dance with fluted boomerangs and blood-feathering.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the meaning of the boomerangs, blood-feathering,
+    or dawn timing.
+- id: motif:3
+  label: repeated-night performance sequence
+  taxonomy_refs: []
+  basis: The second night begins at sunset with preliminary song and double bowing
+    as on the previous night.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only the opening of the second night is included in the supplied passage.
+- id: motif:4
+  label: regional variants of corroboree song verses
+  taxonomy_refs: []
+  basis: The passage gives song verses from two places 90 miles apart, rendered by
+    different groups.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives transcribed sound forms but does not provide translations
+    or meanings for the verses.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison between Glenormiston and Boulia
+    renderings as related corroboree song material used in the same overnight performance
+    context.
+  claim_level: same_function
+  target: Glenormiston/Roxburgh boys and Boulia/local Pitta-Pitta renderings of the
+    night corroboree verses
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states that the renderings were heard 90 miles apart by
+    different tribes, but it does not explain transmission history, translation, or
+    semantic equivalence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10488-10491
+  quote_or_summary: '"Dancing is over now until the following morning, but the singing
+    is kept up all night before the fires until sunrise."'
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 10491-10493
+  quote_or_summary: Two women beat time with the flat hand on the crutch of the thighs
+    and relieve each other; some audience members sing all night, generally resting
+    each other occasionally.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 10493-10514
+  quote_or_summary: The author gives examples of verses sung through the night, taken
+    down at Glenormiston and Boulia, 90 miles apart, rendered by different tribes;
+    the Glenormiston version is associated with Roxburgh boys and the Boulia version
+    with local Pitta-Pitta.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 10515-10520
+  quote_or_summary: At the first streak of sunrise, one individual resumes the corroboree
+    dance with a pair of fluted boomerangs and blood-feathering; the accompanying
+    song gives the dance its name, and the performance ends for the day.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 10521-10528
+  quote_or_summary: The second night begins at sunset with preliminary song and double
+    bowing by each performer as before; the dancers are dressed alike, similar to
+    the previously mentioned boss.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence and participant extraction is strong. Motif labels are descriptive
+    performance-pattern candidates only, because the passage supplies no translations
+    or emic explanations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or meanings have been added beyond the supplied passage. Taxonomy reference is used only for the literal fires mentioned in the text.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-ethnological-studies-queensland-roth-archive__l10488-l10528
+  passage_sha256=47680cab3237f8c824c0e0921b2609432e55bf2773a168ccebf1897aa099168b
+

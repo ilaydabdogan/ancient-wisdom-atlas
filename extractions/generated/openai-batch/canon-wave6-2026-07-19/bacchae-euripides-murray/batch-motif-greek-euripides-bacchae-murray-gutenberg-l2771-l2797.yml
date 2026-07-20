@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2771-l2797
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: CADMUS. / AGAVE. / CADMUS. / AGAVE.; lines 2771-2797
+  start: '2771'
+  end: '2797'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "'Twas thou.--Thou and thy sisters wrought his death."
+  summary: Agave questions Cadmus about a death. Cadmus says that Agave and her sisters
+    caused the death, that it occurred where dogs tore Actaeon, and that the victim
+    went to Kithaeron to mock the God and Agave's ecstasy.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Agave asks Cadmus to answer and says her heart depends on his response.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cadmus states that Agave and her sisters caused the death of the person referred
+    to as 'his.'
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Agave asks whether the death happened in the victim's own house or somewhere
+    else.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Cadmus identifies the place as the place where dogs tore Actaeon.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Agave asks why the victim went to Kithaeron.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cadmus says the victim went to mock the God and Agave's ecstasy.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Agave asks how 'we' should be on the hills that day.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agave
+  description: Speaker who asks Cadmus about the death and is told that she and her
+    sisters caused it; her ecstasy is also mentioned.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Cadmus
+  description: Speaker who answers Agave and explains the death-place and stated motive
+    for going to Kithaeron.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Agave's sisters
+  description: Group named by Cadmus together with Agave as agents who caused the
+    death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Unnamed male victim
+  description: Person referred to as 'his' and 'he'; Cadmus says he died and went
+    to Kithaeron to mock the God and Agave's ecstasy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: the God
+  description: Deity whom the victim is said to have gone to mock.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Actaeon
+  description: Prior figure associated with the same place, where dogs tore him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: dogs
+  description: Animals said to have torn Actaeon at the place Cadmus identifies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioner seeking explanation
+  assigned_to:
+  - fig:1
+  basis: Agave repeatedly asks Cadmus to answer questions about the death, its place,
+    and why the victim went to Kithaeron.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: answering informant
+  assigned_to:
+  - fig:2
+  basis: Cadmus answers Agave's questions by identifying the agents, place, and stated
+    motive.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: agents of death
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Cadmus says Agave and her sisters wrought the victim's death.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: dead victim and mocker
+  assigned_to:
+  - fig:4
+  basis: The passage refers to the victim's death and says he went to Kithaeron to
+    mock the God and Agave's ecstasy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: deity targeted by mockery
+  assigned_to:
+  - fig:5
+  basis: Cadmus says the victim went to mock the God.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: prior death-site referent
+  assigned_to:
+  - fig:6
+  basis: Actaeon is named as the person torn by dogs at the same place.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: agents in Actaeon's prior death
+  assigned_to:
+  - fig:7
+  basis: Cadmus says dogs tore Actaeon at the place he identifies.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Kithaeron and the hills
+  literal_form: Kithaeron; the hills
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Actaeon's dog-tearing death-place
+  literal_form: the place where the dogs tore Actaeon
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Cadmus identifies Agave and her sisters as death-agents
+  summary: Agave demands an answer, and Cadmus tells her that she and her sisters
+    caused the victim's death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death-place linked to Actaeon
+  summary: Agave asks where the death occurred, and Cadmus answers that it happened
+    where dogs tore Actaeon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reason for going to Kithaeron
+  summary: Agave asks why the victim went to Kithaeron, and Cadmus says he went to
+    mock the God and Agave's ecstasy; Agave then questions how they came to be on
+    the hills.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Woman and sisters cause a victim's death
+  taxonomy_refs: []
+  basis: Cadmus states that Agave and her sisters wrought the victim's death.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt does not name the victim or describe the exact manner of the
+    killing.
+- id: motif:2
+  label: Mocking a god or ecstatic worship before death
+  taxonomy_refs:
+  - divine_judgment
+  basis: The victim is said to have gone to Kithaeron to mock the God and Agave's
+    ecstasy, and Cadmus also identifies him as dead.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage states the mockery and the death but does not explicitly say
+    that the God caused or judged the death.
+- id: motif:3
+  label: Mountain death-site associated with an earlier mythic death
+  taxonomy_refs: []
+  basis: The death is placed at Kithaeron or the hills and specifically at the place
+    where dogs tore Actaeon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage establishes a shared place with Actaeon's death, not necessarily
+    the same manner or cause of death.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly frames the present death-place through Actaeon's prior
+    dog-tearing death, supporting a cautious comparison of death-sites within Greek
+    mythic material.
+  claim_level: same_function
+  target: Actaeon's dog-tearing death at the same place
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the shared place is explicit; the excerpt does not state that
+    the present death had the same cause or manner as Actaeon's.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2771-2777
+  quote_or_summary: Agave asks for an answer; Cadmus replies, "'Twas thou.--Thou and
+    thy sisters wrought his death."
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:2
+  type: quote
+  locator: 2779-2783
+  quote_or_summary: Agave asks where it happened; Cadmus answers, "Where the dogs
+    tore Actaeon, even there."
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:3
+  type: quote
+  locator: 2785-2791
+  quote_or_summary: Agave asks why he went to Kithaeron; Cadmus says, "To mock the
+    God and thine own ecstasy."
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; excerpt supplied in request.
+- id: ev:4
+  type: quote
+  locator: 2793-2797
+  quote_or_summary: Agave asks, "But how should we be on the hills this day?"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; excerpt supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The dialogue is clear, but the excerpt uses pronouns for the victim and does
+    not name the God; motif interpretation is therefore limited to the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata; no external identifications of the victim or deity have been added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2771-l2797
+  passage_sha256=519dc023f22ceb0e4819b503d3765ba505ce88043f3aa2caba06b8965c88e4fa
+

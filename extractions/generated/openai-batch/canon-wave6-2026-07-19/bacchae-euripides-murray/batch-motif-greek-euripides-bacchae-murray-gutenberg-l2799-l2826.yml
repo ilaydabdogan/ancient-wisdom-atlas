@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2799-l2826
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: AGAVE. / CADMUS. / AGAVE. / AGAVE.; lines 2799-2826
+  start: '2799'
+  end: '2826'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Cadmus explains that madness was driven through the land by a spirit. Agave
+    recognizes that Dionyse caused it. Cadmus says they wronged the deity by denying
+    him. Agave asks to see her son's body; Cadmus leads her to the bier. She lifts
+    the veil, sees the body, and asks why her child should share in her sin.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cadmus says that madness affected the land and that a spirit drove it that
+    way.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Agave states that Dionyse has done it and that she now sees.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cadmus says that they wronged Dionyse by denying his deity.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Agave asks to be shown the body of the son she loves.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Cadmus leads Agave to a bier and identifies the body as present there.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Agave lifts the veil of the bier and sees the body.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Agave says that if she committed a sin, it was hers, and asks what portion
+    her child had in it.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Cadmus
+  description: Speaker who explains the madness, accuses the group of denying Dionyse's
+    deity, and leads Agave to the bier.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Agave
+  description: Speaker who recognizes Dionyse's action, asks to see her son's body,
+    lifts the veil, and laments the child's involvement in her sin.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Dionyse
+  description: Named deity whom Agave says has done it and whom Cadmus says was wronged
+    by denial of his deity.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Agave's son / child
+  description: The loved son whose body is on the bier and whom Agave calls her child.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: explainer of divine madness
+  assigned_to:
+  - fig:1
+  basis: Cadmus attributes the condition of the land to madness driven by a spirit.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: guide to the bier
+  assigned_to:
+  - fig:1
+  basis: Cadmus leads Agave to the bier and identifies the body there.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: recognizer of Dionyse's action
+  assigned_to:
+  - fig:2
+  basis: Agave says Dionyse has done it and that she now sees.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mother of the dead son
+  assigned_to:
+  - fig:2
+  basis: Agave calls the body that of the son she loves and later refers to the child.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:5
+  label: denied deity and agent of the event
+  assigned_to:
+  - fig:3
+  basis: Agave attributes the event to Dionyse, and Cadmus says Dionyse was wronged
+    by denial of his deity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: dead son on the bier
+  assigned_to:
+  - fig:4
+  basis: The son's body is shown to Agave on a bier.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: bier
+  literal_form: bier bearing the son's body
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: veil over the bier
+  literal_form: veil lifted from the bier
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: madness driven through the land
+  literal_form: madness attributed to a spirit affecting all the land
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Recognition of divine agency
+  summary: Cadmus describes a land-wide madness, Agave identifies Dionyse as its cause,
+    and Cadmus says they denied the deity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Revelation of the son's body
+  summary: Agave asks to see her son's body, Cadmus leads her to the bier, and she
+    lifts the veil and sees it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Agave questions the child's share in guilt
+  summary: After seeing the body, Agave says any sin was hers and asks what share
+    her child had in it.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divine punishment for denying a deity
+  taxonomy_refs:
+  - divine_judgment
+  basis: Cadmus says Dionyse was wronged because his deity was denied, while Agave
+    acknowledges Dionyse caused the events.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage states divine agency and denial of deity, but the broader
+    causal sequence is only partially present in this excerpt.
+- id: motif:2
+  label: madness sent through a community by a spirit or deity
+  taxonomy_refs: []
+  basis: Cadmus says a spirit drove all the land into madness, and Agave identifies
+    Dionyse as responsible.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe the onset or full effects of the madness
+    beyond this brief explanation.
+- id: motif:3
+  label: mother recognizes the dead child after unveiling
+  taxonomy_refs: []
+  basis: Agave asks to see her son's body, lifts the veil of the bier, sees it, and
+    questions the child's share in her sin.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The motif label summarizes a scene pattern; no external taxonomy reference
+    is supplied for it.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously grouped with the divine_judgment motif family
+    because a deity's denied status is linked to destructive events and recognition
+    of divine agency.
+  claim_level: same_motif
+  target: divine_judgment
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt alone does not narrate the full judgment sequence; it presents
+    retrospective explanation and recognition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2799-2801
+  quote_or_summary: Cadmus says that madness affected the land and that a spirit drove
+    it that way.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2803-2805
+  quote_or_summary: "'Tis Dionyse hath done it! Now I see."
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 2807-2809
+  quote_or_summary: Ye wronged Him! Ye denied his deity!
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 2811-2813
+  quote_or_summary: Agave asks Cadmus to show her the body of the son she loves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2815-2817
+  quote_or_summary: Cadmus leads Agave to the bier and tells her the body is there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2820-2822
+  quote_or_summary: Agave lifts the veil of the bier and sees what is beneath it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2823-2826
+  quote_or_summary: Agave says that if she sinned, it was hers, and asks what portion
+    her child had in it.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly supports the literal scene, figures, and divine-judgment
+    motif; broader motif context is limited by the short excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata; no external names or plot details added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2799-l2826
+  passage_sha256=9f2a80f8bdb70ff437be8df1b3a1a70e24a31b3a251e667835313a81efa3c700
+

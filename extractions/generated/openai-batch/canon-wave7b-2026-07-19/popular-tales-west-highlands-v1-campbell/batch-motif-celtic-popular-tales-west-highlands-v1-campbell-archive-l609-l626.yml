@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l609-l626
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: INTRODUCTION. / INTRODUCTION. IX / X INTRODUCTION. / INTRODUCTION. XI; lines
+    609-626
+  start: '609'
+  end: '626'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains a difficulty in collecting tales: some Highland peasants
+    and fishermen, especially near the Lowlands, are sensitive to ridicule, may partly
+    believe the stories they tell, and fear that educated people will laugh at their
+    beliefs, stories, language, and knowledge of Sgeultachd. It also notes mutual
+    unfamiliarity between locals and tourists moving through Highland landscapes,
+    ending with an unfinished animal comparison involving herrings and deer.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says a difficulty in tale collection exists elsewhere and affects
+    the collection of tales generally.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Highland peasants and fishermen, especially those near the Lowlands, are described
+    as shy, proud, and sensitive to ridicule.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Many of these tellers are said to have a lurking belief in the truth of the
+    stories they tell.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says such a teller expects a better-educated person to laugh at
+    the belief, the story, the narrator, and his language if he uses English and reveals
+    knowledge of Sgeultachd and his creed.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The local teller is said not to imagine that anyone outside his own class
+    could be amused by his pastimes.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Tourists of many nations are described as passing every summer through lochs
+    and glens, while locals and tourists know little of one another.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage ends this excerpt with the beginning of a comparison involving
+    shoals of herrings entering Loch Fyne and dun deer.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Highland peasants and fishermen
+  description: Local tale-tellers, especially those near the Lowlands, described as
+    shy, proud, sensitive to ridicule, and sometimes believers in the truth of their
+    stories.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Better-educated outsider
+  description: A person imagined by the local teller as likely to laugh at the belief,
+    story, narrator, and language.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Summer tourists of all nations
+  description: Visitors who pass through the lochs and glens each year and are said
+    to know little of the local man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Shoals of herrings
+  description: Herrings entering Loch Fyne in the unfinished comparison at the end
+    of the excerpt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Dun deer
+  description: Deer mentioned in the unfinished comparison at the end of the excerpt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: guarded local tradition-bearer
+  assigned_to:
+  - fig:1
+  basis: They tell stories, may believe them, and are described as reluctant to expose
+    their knowledge of Sgeultachd and creed to anticipated ridicule.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: anticipated ridiculing audience
+  assigned_to:
+  - fig:2
+  basis: The local teller imagines that a better-educated person will laugh at the
+    belief, story, narrator, and language.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: passing outsider
+  assigned_to:
+  - fig:3
+  basis: Tourists are described as moving through the lochs and glens while knowing
+    little of the local man.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: animals in comparison image
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The excerpt begins a comparison involving shoals of herrings entering Loch
+    Fyne and dun deer.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: lochs and glens
+  literal_form: Highland lochs and glens traversed by tourists
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Loch Fyne
+  literal_form: Loch Fyne, entered by shoals of herrings
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: herring and deer comparison image
+  literal_form: Shoals of herrings and dun deer
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Explanation of reluctance in tale collection
+  summary: The passage explains that some Highland peasants and fishermen are sensitive
+    to ridicule, partly believe their own stories, and expect educated outsiders to
+    mock their beliefs, stories, language, and Sgeultachd.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mutual unfamiliarity between locals and tourists
+  summary: Tourists pass through the Highland lochs and glens each summer, but the
+    local man and the tourists are described as knowing little of one another; the
+    excerpt begins an animal comparison with herrings and deer.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: guarded story-knowledge before outsiders
+  taxonomy_refs: []
+  basis: The passage describes local tellers who may believe their stories and who
+    hesitate to reveal Sgeultachd, creed, language, and narrative knowledge because
+    they expect ridicule from better-educated outsiders.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a collection-context pattern rather than a narrative episode from
+    a tale.
+- id: motif:2
+  label: mutual ignorance of local and outsider worlds
+  taxonomy_refs: []
+  basis: The passage states that tourists pass through the lochs and glens while knowing
+    little of the local man, and he knows little of them.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is ethnographic and introductory; it does not present this
+    as a tale motif.
+- id: motif:3
+  label: animal image for separated worlds
+  taxonomy_refs: []
+  basis: The excerpt begins a comparison involving shoals of herrings entering Loch
+    Fyne and dun deer, apparently following the statement about mutual unfamiliarity.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The sentence is truncated in the provided passage, so the exact function
+    of the comparison is uncertain.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the described difficulty in collecting tales as not
+    confined to this Highland setting, but as something that exists elsewhere and
+    bears on tale collection generally.
+  claim_level: same_function
+  target: general difficulty in collecting tales across settings
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific external tradition, text, or named parallel is identified
+    in the provided passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 609-611
+  quote_or_summary: The difficulty is said to exist elsewhere and to bear on the collection
+    of tales everywhere.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 612-620
+  quote_or_summary: Highland peasants and fishermen near the Lowlands are described
+    as shy, proud, sensitive to ridicule, sometimes believing their stories, and fearing
+    that educated people will laugh at their beliefs, stories, language, Sgeultachd,
+    and creed.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 621-624
+  quote_or_summary: The local man cannot imagine outsiders being amused by his pastimes;
+    tourists of many nations pass through lochs and glens each summer, but locals
+    and tourists know little of each other.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 625-626
+  quote_or_summary: "“The shoals of herrings that enter Loch Fyne know as much of
+    the dun deer...”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introductory ethnographic discussion rather than a tale
+    episode. Motif candidates are therefore collection-context patterns and require
+    human review. The final animal comparison is truncated in the supplied line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy symbol reference to water is limited to literal lochs/Loch Fyne in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l609-l626
+  passage_sha256=5696cfb9e14bdf093efe39d5f5a54eb8eb1e480b926a5a39014a122dc00da710
+

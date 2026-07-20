@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l15015-l15059
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. / NOTES. I, 87, 3. 161 / NOTES. 1, 89, 3. 163 / MANDALA I, HYMN 88.
+    169; lines 15015-15059
+  start: '15015'
+  end: '15059'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A hymn to the Maruts, the storm-gods, calls them to come in lightning-charged
+    chariots with weapons, horses, songs, and food. The hymn describes their chariots,
+    golden brightness, weapons, Soma-related action, prayer, sacred rite, opening
+    of a well or cloud for drink, Gotama's song, animal comparisons, and speech rushing
+    toward the gods.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the hymn as addressed to the Maruts, called the storm-gods.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Maruts are summoned to come on chariots charged with lightning, accompanied
+    by beautiful songs, spears, horses, and food, and are compared to birds in flight.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Maruts are described as coming on red or tawny horses that hasten their
+    chariots; a figure holding an axe is brilliant like gold, and the chariot tire
+    strikes the earth.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Daggers are said to be on the Maruts' bodies, and vigorous ones among them
+    shake the stone for distilling Soma.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Days are said to go round the Maruts and return to prayer and sacred rite;
+    the Gotamas make prayer with songs and push up the lid of the well, glossed as
+    the cloud, in order to drink.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Gotama is said to have sounded a hymn for the Maruts when he saw them on golden
+    wheels, and they are compared to wild boars rushing about with iron tusks.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A comforting speech is described as rushing toward the Maruts like the speech
+    of a suppliant and as rushing freely from the speakers' hands.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Maruts
+  description: Storm-gods addressed by the hymn; they are described with chariots,
+    lightning, songs, spears, horses, food, daggers, Soma-related action, golden wheels,
+    and animal comparisons.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Gotamas / Gotama
+  description: The Gotamas make prayer with songs and push up the lid of the well
+    or cloud; Gotama sounds a hymn for the Maruts after seeing them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Unidentified axe-holder
+  description: A figure described only as holding an axe and being brilliant like
+    gold.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: invoked storm-gods
+  assigned_to:
+  - fig:1
+  basis: The hymn is explicitly addressed to the Maruts, identified as storm-gods,
+    and calls them to come.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: armed chariot-riders
+  assigned_to:
+  - fig:1
+  basis: The Maruts are associated with lightning-charged chariots, horses, spears,
+    daggers, golden wheels, and iron tusk imagery.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: ritual singers and hymn-makers
+  assigned_to:
+  - fig:2
+  basis: The Gotamas are described as making prayer with songs, and Gotama sounds
+    a hymn for the Maruts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: axe-holder
+  assigned_to:
+  - fig:3
+  basis: The passage mentions a figure who holds an axe and is brilliant like gold,
+    without further identification in the excerpt.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: lightning-charged chariots
+  literal_form: chariots charged with lightning, resounding with songs, winged or
+    drawn by horses, with golden wheels
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: weapons of the Maruts
+  literal_form: spears, axe, daggers, and iron tusks in the boar comparison
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: animal movement imagery
+  literal_form: birds, hawks, and wild boars used as comparisons for the Maruts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Soma-distilling stone
+  literal_form: stone shaken for distilling Soma
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: well or cloud opened for drink
+  literal_form: lid of the well, glossed as the cloud, pushed up for drinking
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: hymn, prayer, and speech
+  literal_form: prayer, sacred rite, hymn, and comforting speech rushing toward the
+    Maruts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Summons to the Maruts
+  summary: The hymn calls the Maruts to come in lightning-charged chariots with songs,
+    weapons, horses, and food, moving like birds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Armed chariot manifestation
+  summary: The Maruts arrive with red or tawny horses and chariots; an axe-holder
+    shines like gold, and the chariot tire strikes the earth.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Soma, prayer, and opened well or cloud
+  summary: The Maruts are associated with daggers and the Soma-distilling stone, while
+    the Gotamas make prayer with songs and open the lid of the well or cloud to drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Gotama's hymn and rushing speech
+  summary: Gotama sounds a hymn after seeing the Maruts on golden wheels, with the
+    Maruts compared to wild boars with iron tusks; a comforting speech rushes toward
+    them like a suppliant's speech.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine arrival in armed luminous chariots
+  taxonomy_refs: []
+  basis: The Maruts are summoned and described as coming in lightning-charged chariots
+    with horses, weapons, golden brightness, and golden wheels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level motif label rather than a supplied taxonomy family.
+- id: motif:2
+  label: ritual invocation and sacred offering context
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage combines divine summons, prayer, sacred rite, Soma distilling,
+    hymn-singing, and the Maruts being asked to come with food.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage implies a ritual setting, but it does not narrate a complete
+    sacrificial exchange in detail.
+- id: motif:3
+  label: opening of a cloud or well for drink
+  taxonomy_refs: []
+  basis: The Gotamas, making prayer with songs, push up the lid of the well, glossed
+    in the translation as the cloud, in order to drink.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The cloud identification appears in parentheses in the translation; broader
+    mythic context is not supplied in the excerpt.
+- id: motif:4
+  label: animalized storm-god imagery
+  taxonomy_refs: []
+  basis: The Maruts are compared to birds in flight, called hawks, and compared to
+    wild boars with iron tusks.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This records imagery inside the passage and does not by itself establish
+    cross-cultural or historical relationship.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the passage, the Maruts are visually characterized through animal
+    comparisons: bird-like flight, hawks, and wild boars with iron tusks.'
+  claim_level: visual_similarity
+  target: animalized divine or storm-god imagery in this hymn
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal visual-pattern observation only; it does not assert
+    historical contact, common inheritance, or a cross-cultural parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: I.88 title and stanza 1; lines 15015-15026
+  quote_or_summary: The hymn is addressed to the Maruts, identified as storm-gods;
+    it calls them to come in lightning-charged chariots with songs, spears, horses,
+    and food, flying like birds.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: I.88.2; lines 15028-15032
+  quote_or_summary: The Maruts come on red or tawny horses that hasten their chariots;
+    an axe-holder shines like gold, and the chariot tire strikes the earth.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: I.88.3; lines 15034-15038
+  quote_or_summary: Daggers are on the Maruts' bodies; the hymn asks that they stir
+    minds as they stir forests, and says vigorous Maruts shake the stone for distilling
+    Soma.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: I.88.4; lines 15040-15044
+  quote_or_summary: Days go round the Maruts and return to prayer and sacred rite;
+    the Gotamas make prayer with songs and push up the lid of the well, glossed as
+    the cloud, to drink.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: I.88.5; lines 15046-15049
+  quote_or_summary: Gotama sounds a hymn for the Maruts when seeing them on golden
+    wheels; the Maruts are compared to wild boars rushing about with iron tusks.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: I.88.6; lines 15051-15053
+  quote_or_summary: A comforting speech rushes sounding toward the Maruts like the
+    speech of a suppliant and rushes freely from the speakers' hands.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the hymn's figures, objects, and actions.
+    Motif labels are passage-level and should be reviewed against wider Vedic context
+    before broader comparative use.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l15015-l15059
+  passage_sha256=1b27784d2b8f67dd406d4a24cbd0e49a16900c9da0ca3c3f4dab36e45eba2339
+

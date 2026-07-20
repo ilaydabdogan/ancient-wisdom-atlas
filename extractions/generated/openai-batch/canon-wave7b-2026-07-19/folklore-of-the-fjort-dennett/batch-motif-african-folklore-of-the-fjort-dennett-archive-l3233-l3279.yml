@@ -1,0 +1,476 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l3233-l3279
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: ANOTHER   VANISHING  WIFE.  43 / ANOTHER  VANISHING  WIFE.  45 / THE  JEALOUS  WIFE.
+    / THE  JEALOUS  WIFE.  47; lines 3233-3279
+  start: '3233'
+  end: '3279'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a tale section titled “The Jealous Wife,” an elder wife kills a sleeping
+    child at night, intending harm, but discovers in the morning that she has killed
+    her own child. She flees into the woods with the body. The husband and bushmen
+    search for her. A bushman finds her nursing and shaking the dead child while singing
+    to it. The husband and her relations capture her; after confirming the murder,
+    they give her casca, which kills her, then burn her body and scatter the ashes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: At night, after the children were asleep, the elder wife went to the child's
+    sleeping place and killed the child.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Another child awoke, fled the house in fear, and took refuge with a neighbour.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the morning, the elder wife discovered that the child she had killed was
+    her own child.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The elder wife wrapped the child's body in her cloth and ran into the woods,
+    where she disappeared.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The husband did not believe the younger wife's report and asked his bushmen
+    friends to help search the woods.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A bushman found a woman nursing something and listened while she sang to the
+    child, asking why it would not wake or talk.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The husband and others approached the woman while hiding themselves so she
+    could not see them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The father called in the woman's relations, and together they made her prisoner
+    in the woods.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After seeing that the child had really been murdered, they gave casca to the
+    woman; it killed her.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After the woman died, they burned her body and scattered its ashes to the
+    wind.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: elder wife
+  description: The wife who kills a child at night, discovers it is her own child,
+    flees with the body, and is later killed with casca.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: killed child
+  description: The elder wife's own child, killed while asleep and later carried into
+    the woods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: other child
+  description: A child who wakes in fright, flees to a neighbour, and later gives
+    an account repeated by the younger wife.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: younger wife
+  description: The wife questioned by the husband; she repeats what her child told
+    her about the elder wife's act.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: husband
+  description: The husband who searches for the missing elder wife, approaches her
+    in hiding, and calls in her relations.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: bushmen friends
+  description: Friends of the husband who help search the woods; one finds the woman
+    nursing something and reports it.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: elder wife's relations
+  description: Relations called by the father/husband who help make the woman prisoner.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: killer of a child
+  assigned_to:
+  - fig:1
+  basis: The passage says she went to the child's sleeping place and killed it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mother of the killed child
+  assigned_to:
+  - fig:1
+  basis: She discovers the dead child is her own and sings that she is the child's
+    mother.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: punished woman
+  assigned_to:
+  - fig:1
+  basis: After the murder is confirmed, she is given casca, dies, and her body is
+    burned.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: murdered sleeping child
+  assigned_to:
+  - fig:2
+  basis: The child is killed while asleep and later identified as really murdered.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:5
+  label: child witness or reporter
+  assigned_to:
+  - fig:3
+  basis: The child wakes, flees, and later its account is repeated by the younger
+    wife.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: relayer of child's report
+  assigned_to:
+  - fig:4
+  basis: The younger wife repeats to the husband what her child told her.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: searching husband
+  assigned_to:
+  - fig:5
+  basis: The husband misses his elder wife and asks others to help search for her.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: caller of kin for capture
+  assigned_to:
+  - fig:5
+  basis: He calls in the woman's relations before they go to the woods and make her
+    prisoner.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: tracker or finder in the woods
+  assigned_to:
+  - fig:6
+  basis: The bushmen search the woods; one finds the woman and reports her location.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:10
+  label: kin assisting capture
+  assigned_to:
+  - fig:7
+  basis: The relations go to the woods with the father/husband and make the woman
+    prisoner.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: woods as hiding place
+  literal_form: woods
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: wrapped child body
+  literal_form: the child's little body wrapped in the woman's cloth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lamenting nursing gesture
+  literal_form: woman nursing and shaking the dead child while singing to it
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: casca
+  literal_form: casca given to the woman, killing her
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: burned body and scattered ashes
+  literal_form: the woman's body burned and its ashes scattered to the wind
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: night killing and escape of witness child
+  summary: After the children are asleep, the elder wife kills a child; another child
+    wakes, runs out, and takes refuge with a neighbour.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: discovery of mistaken victim and flight
+  summary: In the morning, the elder wife realizes she has killed her own child, weeps,
+    wraps the body in her cloth, and disappears into the woods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: search in the woods
+  summary: The husband questions the younger wife, hears the child's report, refuses
+    to believe it, and asks bushmen friends to help search the woods.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: woman found nursing the dead child
+  summary: A bushman finds a woman nursing and shaking something, hears her song to
+    the unresponsive child, and identifies her as likely his friend's wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: hidden approach and repeated song
+  summary: The husband and others approach while hiding and find the woman still shaking
+    the child and singing the same sad song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: capture and execution with casca
+  summary: The father/husband calls the woman's relations; they capture her in the
+    woods, confirm the murder, give her casca that kills her, burn the body, and scatter
+    the ashes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: jealous or hostile co-wife kills a child
+  taxonomy_refs: []
+  basis: The titled context names a jealous wife, and the elder wife kills a sleeping
+    child in a household with elder and younger wives.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The excerpt does not include the full prior motivation; jealousy is supported
+    chiefly by the title and household relations in this passage.
+- id: motif:2
+  label: mistaken killing of one's own child
+  taxonomy_refs: []
+  basis: The elder wife kills a child at night and later discovers the victim is her
+    own child.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: flight into the woods with a corpse
+  taxonomy_refs: []
+  basis: After discovering the dead child is her own, the woman wraps the body and
+    disappears into the woods.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: recognition of hidden fugitive by lament song
+  taxonomy_refs: []
+  basis: A bushman hides, hears the woman singing to the child, and concludes she
+    must be his friend's wife.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: ''
+- id: motif:5
+  label: punitive poison and destruction of body
+  taxonomy_refs: []
+  basis: After confirming the child's murder, the group gives the woman casca, which
+    kills her, then burns her body and scatters the ashes.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not explain the cultural or legal status of casca beyond
+    its lethal use here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3233-3239
+  quote_or_summary: At evening, when the children were asleep, the elder wife went
+    to the child's sleeping place and killed it; another child awoke, fled the house
+    in fright, and took refuge with a neighbour.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3241-3247
+  quote_or_summary: In the morning, the elder wife sees that she has killed her own
+    child, weeps, wraps the little body in her cloth, runs into the woods, and disappears.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3249-3257
+  quote_or_summary: The husband returns, misses the elder wife, questions the younger
+    wife, hears the child's report that the elder wife killed her child, refuses to
+    believe it, and asks bushmen friends to search the woods.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 3259-3268
+  quote_or_summary: A bushman finds a woman nursing something and hears her say to
+    the child, “Why don't you awake? Why don't you talk?” He says this must be his
+    friend's wife.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short quote used.
+- id: ev:5
+  type: summary
+  locator: lines 3270-3275
+  quote_or_summary: The husband and companions approach while hiding so the woman
+    cannot see them; they find her still shaking the child and singing the same sad
+    song.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3276-3279
+  quote_or_summary: The father/husband calls in her relations; they go to the woods,
+    make her prisoner, see that the child was murdered, give her casca that kills
+    her, then burn her body and scatter the ashes to the wind.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal event extraction is well supported by the passage. Motif labels are
+    descriptive and not linked to external taxonomy except the literal fire reference
+    in the burning scene. No comparison claims are made because the passage itself
+    does not support cross-text or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references were left empty unless directly supported by the passage wording.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l3233-l3279
+  passage_sha256=0866cae36eb8bebf818fc4266e2841b2aeaaaefc82c9fc76cba18144a7417d02
+

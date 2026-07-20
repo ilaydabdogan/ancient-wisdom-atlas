@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l2612-l2703
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA I, HYMN 45. 43 / NOTES. / MANDALA I, HYMN 58. 45 / MANDALA I, HYMN
+    58. 47; lines 2612-2703
+  start: '2612'
+  end: '2703'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Philological notes discuss Agni/fire imagery in Mandala I, Hymn 58: a
+    spark or Agni striking down or breaking forth to ignite tinder; Agni as the Hotr
+    and messenger of the sacrificer; a reference to Agni as messenger of Vivasvat;
+    and images of Agni''s back shining like a racer and his flames being sharp like
+    a sickle among fuel.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A translation discussion says the spark or Agni may strike down or break forth
+    and ignite tinder.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The proposed translation identifies the Hotr as Agni and says he becomes the
+    messenger of the sacrificer.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note references Agni as the messenger of Vivasvat.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A verse note states that his back shines like a racer.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note explains Agni's flames as sharp like a sickle and describes the sickle
+    as Agni's sharp edge.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note glosses the setting as among the fuel.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Identified with the Hotr; discussed as a fire or spark that strikes
+    down or breaks forth, ignites tinder, and becomes a messenger.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: the sacrificer
+  description: The person for whom, or of whom, Agni is described as becoming messenger
+    in the proposed translation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Vivasvat
+  description: Named in a note citing Agni as the messenger of Vivasvat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Hotr
+  assigned_to:
+  - fig:1
+  basis: The proposed translation names the Hotr and identifies him parenthetically
+    as Agni.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: messenger
+  assigned_to:
+  - fig:1
+  basis: Agni is described as becoming the messenger of the sacrificer and is also
+    cited as messenger of Vivasvat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: sacrificer
+  assigned_to:
+  - fig:2
+  basis: The proposed translation refers to the sacrificer in relation to Agni's messenger
+    function.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: named figure linked to Agni's messenger role
+  assigned_to:
+  - fig:3
+  basis: The note cites the phrase or theme of Agni as messenger of Vivasvat.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Agni as spark, flame, and sharp fiery edge
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: tinder and fuel
+  literal_form: tinder ignited by the spark; fuel among which Agni is situated
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: sickle-like flame edge
+  literal_form: flames sharp like a sickle; Agni's sharp edge
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Agni as messenger at ignition
+  summary: In the proposed translation and note, Agni or a spark strikes down or breaks
+    forth, ignites tinder, and becomes the Hotr-messenger of the sacrificer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Agni's fiery appearance among fuel
+  summary: 'The notes describe Agni in terms of shining and sharpness: his back shines
+    like a racer, his flames are sharp like a sickle, and the setting is among fuel.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrificial fire as messenger
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: Agni is identified as Hotr and described as becoming the messenger of the
+    sacrificer; a nearby note also cites Agni as messenger of Vivasvat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is commentary on translation rather than a continuous mythic
+    narrative, and the wording is philologically debated.
+- id: motif:2
+  label: fire kindled in ritual fuel
+  taxonomy_refs:
+  - sacrifice
+  basis: The note discusses a spark or Agni striking tinder and igniting it, with
+    another note glossing the context as among fuel.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The ritual context is inferred from Agni's Hotr and sacrificer roles in
+    the same note; the passage itself is brief and exegetical.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison between Agni as
+    messenger of the sacrificer and Agni as messenger of Vivasvat within Vedic material.
+  claim_level: same_function
+  target: Agni as messenger of Vivasvat
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note provides a cross-reference, not the full compared passage;
+    no historical-contact or broader inheritance claim is warranted from this excerpt
+    alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2614-2625
+  quote_or_summary: Müller's proposed translation treats Agni or the spark as striking
+    down or breaking forth, igniting tinder, and says the Hotr, identified as Agni,
+    becomes the messenger of the sacrificer.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2627-2630
+  quote_or_summary: A note discusses the phrase concerning the messenger of the sacrificer
+    and cites Agni as the messenger of Vivasvat.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2634-2637
+  quote_or_summary: '"Literally, his back shines like a racer."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 2649-2658
+  quote_or_summary: The note explains the meaning as flames sharp like a sickle and
+    adds that the sickle is the sharp edge of Agni.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 2669-2670
+  quote_or_summary: '"That is, among the fuel."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The excerpt is mainly scholarly commentary and translation notes, so literal
+    imagery and roles are extractable, but motif interpretation should be reviewed
+    against the full hymn.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only motifs and symbols directly supported by the supplied passage and metadata are included.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l2612-l2703
+  passage_sha256=57c87c8d9be70ba5bd757f949d5223b0d3c94eecd917078e47186096a5340338
+

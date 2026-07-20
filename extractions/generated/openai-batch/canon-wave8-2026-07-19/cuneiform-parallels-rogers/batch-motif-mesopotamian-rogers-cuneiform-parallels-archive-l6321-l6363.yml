@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l6321-l6363
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: FIFTH TABLET / SIXTH TABLET / SEVENTH TABLET / EIGHTH TABLET; lines 6321-6363
+  start: '6321'
+  end: '6363'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage summarizes uncertain remains of the seventh tablet, in which
+    Engidu tells a dream to Gilgamesh, and then gives an eighth-tablet scene in which
+    Engidu dies. Gilgamesh first addresses him as if asleep, recalls their exploits
+    against Heaven's bull and Khumbaba, discovers that his heart no longer beats,
+    mourns him with animal similes, and departs into the wilderness in grief.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the certain remaining content of the seventh tablet
+    is Engidu telling his dream to Gilgamesh, while possible interpretation and illness
+    details are uncertain.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage reports that Engidu dies in the eighth tablet, but says the cause
+    of death is unknown.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gilgamesh initially thinks Engidu is merely asleep.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gilgamesh addresses Engidu as his young friend and recalls that they climbed
+    a mountain, slew Heaven's bull, and slew Khumbaba in the cedar forest.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Gilgamesh says that a sleep has seized Engidu and that Engidu is sombre and
+    does not listen to him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Engidu does not lift his eyes, and Gilgamesh touches his heart and finds that
+    it no longer beats.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Gilgamesh drapes Engidu like a bride.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Gilgamesh is compared to a crying lion and to a lioness deprived of her whelps.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Gilgamesh goes into the wilderness, crazed with grief.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Engidu
+  description: Gilgamesh's young friend; he tells a dream, is later dead or dying,
+    does not respond, and has no heartbeat.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Gilgamesh
+  description: The recipient of Engidu's dream and the friend who speaks to Engidu,
+    checks his heart, drapes him, mourns him, and leaves for the wilderness.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Ishtar
+  description: Named in the passage only as a possible source of curses that may have
+    caused Engidu's death; the passage says the cause is unknown.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Heaven's bull
+  description: A bull that Gilgamesh says he and Engidu took and slew.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Khumbaba
+  description: A figure who dwelt in the cedar forest and whom Gilgamesh says he and
+    Engidu slew.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: dream narrator
+  assigned_to:
+  - fig:1
+  basis: The passage says Engidu tells his dream to Gilgamesh.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceased companion
+  assigned_to:
+  - fig:1
+  basis: Engidu dies; his eyes do not lift and his heart no longer beats.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: mourning friend
+  assigned_to:
+  - fig:2
+  basis: Gilgamesh speaks to Engidu, checks his heart, drapes him, and departs in
+    grief.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: heroic companion in recalled exploits
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: 'Gilgamesh recalls shared exploits: mountain climbing and the slaying of
+    Heaven''s bull and Khumbaba.'
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: possible dream interpreter
+  assigned_to:
+  - fig:2
+  basis: The passage says it seems probable, but uncertain, that Gilgamesh should
+    interpret Engidu's dream.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: possible divine curser
+  assigned_to:
+  - fig:3
+  basis: The passage mentions the curses of Ishtar as a possible but unknown cause
+    of Engidu's death.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: slain adversary
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Gilgamesh recalls that Heaven's bull and Khumbaba were slain.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Dream
+  literal_form: Engidu's dream told to Gilgamesh
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sleep as death-like condition
+  literal_form: The sleep that has seized Engidu, followed by nonresponse and no heartbeat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Mountain
+  literal_form: The mountain climbed by Gilgamesh and Engidu
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Heaven's bull
+  literal_form: Heaven's bull, taken and slain
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Cedar forest
+  literal_form: The cedar forest where Khumbaba dwelt
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Bride-like draping
+  literal_form: Gilgamesh draping his dead friend like a bride
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Bereaved lion and lioness
+  literal_form: A crying lion and a lioness deprived of whelps used as images for
+    grief
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Wilderness
+  literal_form: The wilderness into which Gilgamesh goes in grief
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Engidu's dream and uncertain illness material
+  summary: The passage notes that Engidu tells Gilgamesh a dream; possible interpretation
+    by Gilgamesh and an account of severe illness are presented as uncertain or probable
+    rather than secure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Engidu's death mistaken for sleep
+  summary: After Engidu's death, Gilgamesh initially treats him as sleeping, addresses
+    him, recalls their past exploits, and then confirms his death by touching his
+    heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Gilgamesh mourns and departs into wilderness
+  summary: Gilgamesh drapes Engidu like a bride, is described with lion and lioness
+    grief imagery, and then goes into the wilderness crazed with grief.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Death of companion provoking grief-driven departure
+  taxonomy_refs:
+  - departure
+  basis: Engidu dies, Gilgamesh discovers the death, mourns him, and then goes into
+    the wilderness in grief.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference covers the departure element; the companion-death
+    element is described literally in the passage but is not a separate supplied taxonomy
+    ref.
+- id: motif:2
+  label: Dream report with possible interpretation
+  taxonomy_refs: []
+  basis: The passage identifies Engidu telling a dream to Gilgamesh as the certain
+    remaining content of the seventh tablet and says Gilgamesh's interpretation is
+    only probable.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only the act of dream-telling is secure in the passage; interpretation
+    and illness context are explicitly uncertain.
+- id: motif:3
+  label: Heroic exploits recalled at deathbed
+  taxonomy_refs: []
+  basis: Gilgamesh addresses the unresponsive Engidu and recalls their mountain climb
+    and the slaying of Heaven's bull and Khumbaba before recognizing the death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The exploits are recalled in speech rather than narrated as present action
+    in this passage.
+- id: motif:4
+  label: Possible death by divine curse
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage says Engidu's death may have been due to disease or to the smiting
+    of Ishtar's curses, but the cause is unknown.
+  evidence_refs:
+  - ev:2
+  confidence: uncertain
+  cautions: The passage explicitly leaves the cause unknown, so the divine-judgment
+    taxonomy reference is only a tentative candidate.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6321-6329
+  quote_or_summary: The seventh-tablet remains are described as certain only in showing
+    Engidu telling his dream to Gilgamesh; possible interpretation and severe illness
+    material are marked uncertain.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: 6330-6336
+  quote_or_summary: The eighth tablet is introduced as containing Engidu's death;
+    the cause is unknown, and Gilgamesh first thinks his friend is merely asleep.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: quote
+  locator: 6338-6347
+  quote_or_summary: Gilgamesh addresses Engidu as his young friend, recalls that they
+    climbed the mountain, slew Heaven's bull, and slew Khumbaba in the cedar forest,
+    then asks what sleep has seized him.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; brief excerpt summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: 6349-6351
+  quote_or_summary: Engidu does not lift his eyes; Gilgamesh touches his heart and
+    it beats no more.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; brief excerpt summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: 6353-6358
+  quote_or_summary: Gilgamesh drapes his friend like a bride and is compared to a
+    crying lion and to a lioness deprived of her whelps.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: 6361-6363
+  quote_or_summary: Gilgamesh goes into the wilderness, crazed with grief.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied English passage. Several seventh-tablet
+    details and the cause of Engidu's death are explicitly marked uncertain by the
+    source passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself make a comparative claim beyond internal motif-like patterns.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l6321-l6363
+  passage_sha256=aa896b8b74a406fc4d43f591aca4a241a9d779b729b2847602126d76eba5964a
+

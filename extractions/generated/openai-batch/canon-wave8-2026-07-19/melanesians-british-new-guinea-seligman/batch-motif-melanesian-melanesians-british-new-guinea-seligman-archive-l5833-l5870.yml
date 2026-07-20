@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l5833-l5870
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: CHAPTER VII / TRADE. / MARKETS. / CHAPTER VIII; lines 5833-5870
+  start: '5833'
+  end: '5870'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces an annual Motu trading expedition, the hiri, in
+    which large sailing canoes leave Port Moresby and nearby Motu villages near the
+    end of the south-east trade wind season, carrying earthenware pots and other goods
+    to the Papuan Gulf. After about three months, they return during the north-west
+    monsoon with sago obtained by barter. The text notes that the custom is old, that
+    Motu and Gulf peoples use a common trading dialect, and that many Koita now participate
+    in the expedition.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Each year near the end of September or beginning of October, a fleet of large
+    sailing canoes leaves Port Moresby and neighbouring Motu villages for the deltas
+    of the rivers of the Papuan Gulf.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The canoes are loaded with earthenware pots packed in dry banana leaves.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The voyagers also carry other valued ornament articles and, more recently,
+    foreign-made utility articles for barter.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The canoes return during the north-west monsoon after about three months with
+    sago obtained in exchange for pots and other articles.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The origin of the western trading expeditions, called kiri by the Motu, is
+    described as obscure, though evidence suggests long duration over many generations.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Motu and the Gulf tribes visited by them use a common trading dialect
+    distinct from their divergent languages.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Although the annual pot-trading expedition is a Motu custom, many Koita participate
+    in it, and it has become part of Koita social life around Port Moresby and neighbouring
+    villages.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Motu voyagers
+  description: Members of the Motu tribe who undertake the annual trading expedition
+    from Port Moresby and neighbouring villages.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Gulf tribes
+  description: The various Papuan Gulf tribes visited by the Motu during the trading
+    expedition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Koita participants
+  description: Koita people who participate in the annual pot-trading expedition,
+    though the custom is identified as Motu.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: annual canoe voyagers
+  assigned_to:
+  - fig:1
+  basis: The passage says a fleet of large sailing canoes leaves Motu settlements
+    yearly on a voyage to the Papuan Gulf.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: barterers carrying pots and goods
+  assigned_to:
+  - fig:1
+  basis: The passage says the voyagers take pots and other articles and return with
+    sago obtained in exchange.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: trading counterparts
+  assigned_to:
+  - fig:2
+  basis: The Gulf tribes are visited by the Motu and share a common trading dialect
+    with them.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: participants in Motu custom
+  assigned_to:
+  - fig:3
+  basis: The note states that many Koita participate in the Motu pot-trading expedition.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: large sailing canoes
+  literal_form: fleet of large sailing canoes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: earthenware pots
+  literal_form: earthenware pots of various shapes and sizes packed in dry banana
+    leaves
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sago
+  literal_form: sago brought back from the Papuan Gulf after barter
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: monsoon return season
+  literal_form: north-west monsoon during which the canoes return
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: common trading dialect
+  literal_form: a shared trading dialect used by Motu and Gulf tribes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Departure of the annual trading fleet
+  summary: Near the close of the south-east trade wind season, large sailing canoes
+    leave Port Moresby and neighbouring Motu villages for the Papuan Gulf.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cargo prepared for barter
+  summary: The canoes carry earthenware pots packed in banana leaves, along with other
+    valued articles intended for barter.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Return with exchanged sago
+  summary: After about three months, the canoes return during the north-west monsoon
+    carrying sago obtained in exchange for the outbound goods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Old custom and shared trade speech
+  summary: The text states that the origin of the kiri is obscure, that the custom
+    appears old, and that Motu and Gulf peoples use a common trading dialect.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Koita participation
+  summary: A note explains that the Motu pot-trading expedition has become part of
+    Koita social life because many Koita participate in it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: annual canoe trading expedition
+  taxonomy_refs: []
+  basis: The passage describes a yearly voyage by canoe from Motu settlements to the
+    Papuan Gulf, with a seasonal departure and return.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic and does not itself present a mythic episode,
+    though it introduces a legend of origin outside the supplied excerpt.
+- id: motif:2
+  label: barter exchange of pots for food staple
+  taxonomy_refs: []
+  basis: The expedition carries earthenware pots and other goods outward and returns
+    with sago obtained through exchange.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No sacred or ritual meaning is stated in the passage; classification as
+    a mythological motif would require additional evidence.
+- id: motif:3
+  label: ancient custom marked by shared trade language
+  taxonomy_refs: []
+  basis: The passage treats the shared trading dialect between Motu and Gulf tribes
+    as evidence that the custom has existed for a long period.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a cultural-historical pattern rather than a narrative motif in
+    the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5833-5842
+  quote_or_summary: Each year near late September or early October, as the south-east
+    trade wind season nears its close, a fleet of large sailing canoes leaves Port
+    Moresby and nearby Motu villages for the Papuan Gulf river deltas.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5842-5848
+  quote_or_summary: The canoes are loaded with earthenware pots packed in dry banana
+    leaves, plus other valued ornament articles and later foreign-made utility articles
+    for barter.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5848-5852
+  quote_or_summary: The canoes return during the north-west monsoon after about three
+    months, laden with sago obtained in exchange for pots and other articles.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5853-5858
+  quote_or_summary: The origin of the western trading expeditions, called kiri by
+    the Motu, is obscure, but the custom is said to have existed for many generations.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5858-5865
+  quote_or_summary: The Motu and the Gulf tribes they visit use a common trading dialect
+    distinct from their widely divergent languages, which the author treats as evidence
+    of the custom’s long duration.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5867-5869 note
+  quote_or_summary: A note says that although the annual pot-trading expedition to
+    the Papuan Gulf is a Motu custom, many Koita participate in it, so it forms part
+    of Koita social life in Port Moresby and neighbouring villages.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly describes the expedition, exchange goods, route, seasonality,
+    and participating groups. Motif extraction is limited because the excerpt is ethnographic
+    introduction and only announces, but does not provide, the origin legend.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific comparative mythology claim.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l5833-l5870
+  passage_sha256=e03bec03342ca4c7fd8fc92fb64c4da9cefb0aa1fc2773f647d5da9bfd8536cc
+

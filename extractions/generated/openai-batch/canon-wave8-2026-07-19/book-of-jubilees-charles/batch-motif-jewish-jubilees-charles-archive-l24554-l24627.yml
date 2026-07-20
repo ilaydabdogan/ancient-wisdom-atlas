@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l24554-l24627
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTERS XLVIII. 14-XLIX. 5 253 / CHAPTER XLIX. 6-13 255 / CHAPTER XLIX.
+    14-22 257 / CHAPTER L. 9-13 261; lines 24554-24627
+  start: '24554'
+  end: '24627'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage concludes a Sabbath law section. It lists actions forbidden
+    on the Sabbath, including killing or slaughtering animals, catching animals, fasting,
+    and making war. A person who does these things on the Sabbath is to die, and the
+    children of Israel are to keep the Sabbaths according to commandments written
+    on tables given to the first-person speaker to record the laws of seasons and
+    the division of days. Editorial notes compare several prohibitions with rabbinic,
+    Judith, Maccabean, and Josephus traditions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage lists several actions associated with Sabbath prohibition: striking
+    or killing, slaughtering a beast or bird, catching an animal, bird, or fish, fasting,
+    and making war.'
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man who does any of the listed things on the Sabbath is said to die.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The children of Israel are instructed to observe the Sabbaths according to
+    commandments concerning the Sabbaths of the land.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commandments are described as written in tables given by an unnamed “He”
+    into the speaker’s hands.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker is to write out the laws of the seasons and the seasons according
+    to the division of their days.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that the account of the division of the days is completed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Editorial notes connect the prohibitions on riding, killing, and fasting on
+    the Sabbath with rabbinic texts and with Judith.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: An editorial note connects the Sabbath warfare prohibition with the Mishna
+    and with accounts of Maccabean and later Jewish-Roman warfare practices.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: children of Israel
+  description: The group commanded to observe the Sabbaths according to the commandments.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Sabbath transgressor
+  description: A man who does one of the listed prohibited acts on the Sabbath.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: unnamed giver of the tables
+  description: The pronoun “He” is used for the one who gave the tables into the speaker’s
+    hands.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: first-person scribe
+  description: The speaker referred to through “my hands” and “I should write out,”
+    who receives the tables and is to write the laws for another.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: commanded Sabbath observers
+  assigned_to:
+  - fig:1
+  basis: The children of Israel are to observe the Sabbaths according to commandments.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: offender subject to death
+  assigned_to:
+  - fig:2
+  basis: The man who does the prohibited things on the Sabbath shall die.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: giver of written tables
+  assigned_to:
+  - fig:3
+  basis: The tables are said to have been given by “He” into the speaker’s hands.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recorder of seasonal laws
+  assigned_to:
+  - fig:4
+  basis: The speaker is to write out the laws of the seasons and the division of days.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Sabbath
+  literal_form: Recurring Sabbath day or Sabbaths named as the time of prohibited
+    acts and required observance.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: written tables
+  literal_form: Tables containing commandments, given into the speaker’s hands.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sabbath prohibitions and penalty
+  summary: A list of acts forbidden on the Sabbath is followed by the statement that
+    the man who does these acts on the Sabbath shall die.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Written commandments and calendrical order
+  summary: The children of Israel are to observe the Sabbaths according to commandments
+    written on tables, which are given to the speaker so that the laws of seasons
+    and divisions of days may be written out.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sacred-day prohibitions
+  taxonomy_refs: []
+  basis: The passage defines prohibited actions on the Sabbath, including violence
+    toward animals, catching animals, fasting, and warfare.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a legal pattern rather than a narrative myth episode.
+- id: motif:2
+  label: Death sanction for violation of sacred time
+  taxonomy_refs:
+  - divine_judgment
+  basis: A man who does the listed acts on the Sabbath is said to die, and the laws
+    are associated with written tables given by an unnamed “He.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a legal sanction; it does not narrate an actual divine
+    judgment event.
+- id: motif:3
+  label: Covenantal observance by Israel
+  taxonomy_refs:
+  - covenant
+  basis: The children of Israel are commanded to observe the Sabbaths according to
+    commandments written in tables.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The word “covenant” is not used in the excerpt; the assignment rests on
+    the Israel-specific commandments and written tables.
+- id: motif:4
+  label: Ordered calendar of seasons and days
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The speaker is to write laws of the seasons and the seasons according to
+    the division of their days; the account of the division of days is then completed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is calendrical and legal, not a seasonal myth narrative.
+- id: motif:5
+  label: Revealed written law on tables
+  taxonomy_refs: []
+  basis: Commandments are described as written in tables given into the speaker’s
+    hands for transcription.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not identify the giver by name.
+comparison_claims:
+- id: claim:1
+  claim: The editor notes functional parallels for a Sabbath riding prohibition in
+    Beza v. 2 and Sanh. 46a, including a judicial punishment example.
+  claim_level: same_function
+  target: Beza v. 2 and Sanh. 46a Sabbath riding prohibition
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison rests on the editorial note; the referenced passages
+    are not quoted in the provided text.
+- id: claim:2
+  claim: The editor identifies killing an animal on the Sabbath with a numbered forbidden
+    Sabbatical offence in Shabb. vii. 2.
+  claim_level: same_function
+  target: Shabb. vii. 2 Sabbath killing prohibition
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the editor’s summary of the parallel is provided.
+- id: claim:3
+  claim: The editor relates the no-fasting rule to Judith viii. 6 as a similar Sabbath
+    practice, while also noting tension with another ascetic Sabbath rule.
+  claim_level: same_function
+  target: Judith viii. 6 and an ascetic Sabbath marriage-bed rule
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The note supplies both the parallel and the stated tension; the external
+    texts are not included here.
+- id: claim:4
+  claim: The editor relates the Sabbath warfare prohibition to Mishna Shabb. vi. 2,
+    4 and to Maccabean and Josephus accounts of warfare restraint and later defensive
+    exception.
+  claim_level: same_function
+  target: Mishna Shabb. vi. 2, 4; 1-2 Maccabees; Josephus on Sabbath warfare practice
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note discusses legal and historical practice but does not establish
+    textual dependence or a single mythic motif lineage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 24556-24559
+  quote_or_summary: "“whoever strikes or kills anything, or slaughters a beast or
+    a bird, or whoever catches an animal or a bird or a fish, or whoever fasts or
+    makes war on the Sabbaths”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 24559-24563
+  quote_or_summary: "“The man who does any of these things on the Sabbath shall die,
+    so that the children of Israel shall observe the Sabbaths according to the commandments”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 24562-24566
+  quote_or_summary: "“it is written in the tables, which He gave into my hands that
+    I should write out for thee the laws of the seasons” and the division of their
+    days."
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 24568-24570
+  quote_or_summary: "“Herewith is completed the account of the division of the days.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 24572-24594
+  quote_or_summary: Editorial notes state that riding on a beast is forbidden in Beza
+    v. 2 and Sanh. 46a; killing an animal is listed as a forbidden Sabbatical offence
+    in Shabb. vii. 2; and the injunction against fasting is compared with Judith viii.
+    6 while noted as in tension with an ascetic Sabbath rule.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 24595-24627
+  quote_or_summary: Editorial note says the prohibition of warfare on the Sabbath
+    is also found in Mishna Shabb. vi. 2, 4, was observed before and during the Maccabean
+    wars, was modified after Mattathias to allow defensive measures, and is discussed
+    in later Josephus examples.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The legal content and figures are explicit. Motif classifications are approximate
+    because the passage is mainly calendrical and legal rather than narrative. Comparison
+    claims are based only on editorial notes included in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The opening words “the sea” appear mid-sentence in the supplied excerpt; no missing action or context has been inferred.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l24554-l24627
+  passage_sha256=b16c801e2efedd15d20ed8de79b1c93cf5f16206cd23fdd711338c3680abdfde
+

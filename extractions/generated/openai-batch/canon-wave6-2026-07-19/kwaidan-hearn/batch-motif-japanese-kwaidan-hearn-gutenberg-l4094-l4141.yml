@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.japanese-kwaidan-hearn-gutenberg-l4094-l4141
+source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+passage_locator:
+  label: ROKURO-KUBI / A DEAD SECRET / YUKI-ONNA / THE STORY OF AOYAGI; lines 4094-4141
+  start: '4094'
+  end: '4141'
+  translation: 'Kwaidan: Stories and Studies of Strange Things'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of headings and notes for “Yuki-Onna” and “The Story
+    of Aoyagi.” The notes identify historical provinces and place names, explain that
+    a female name signifies “Snow,” explain that Aoyagi signifies “Green Willow,”
+    and summarize a poem in which Tomotada, while traveling to visit his mother, meets
+    a beautiful being and asks whether a blush means love. The notes also state that
+    the poem has double meanings and possible alternate readings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes the section heading “Yuki-Onna.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note describes an ancient province whose boundaries included most of present-day
+    Tokyo and parts of Saitama and Kanagawa prefectures.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A note explains that a name signifies “Snow” and says it is not uncommon.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note identifies Edo as the former name of Tokyo.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage includes the section heading “The Story of Aoyagi.”
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Notes identify ancient provinces corresponding to northern present-day Ishikawa
+    Prefecture and eastern present-day Fukui Prefecture.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A note states that the name Aoyagi signifies “Green Willow,” is rare, and
+    is still in use.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A note says the poem may be read in two ways because several phrases have
+    double meaning.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: 'The note paraphrases Tomotada’s intended meaning: while traveling to visit
+    his mother, he met a being lovely as a flower and stayed there for that person.'
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The paraphrased poem addresses the beautiful person and asks whether a dawn-like
+    blush before dawn means love.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: A note says another reading is possible for the poem’s answer.
+  category: speech
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: A final note attributes a claim about the verses to the Japanese storyteller
+    and says the translation gives only their general meaning.
+  category: other
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Tomotada
+  description: A named person whose intended meaning in the poem is paraphrased by
+    the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:2
+  name_or_label: unnamed lovely being / fair one
+  description: A being described in the paraphrase as lovely as a flower and addressed
+    as a fair one.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:3
+  name_or_label: Japanese story-teller
+  description: The note refers to the Japanese storyteller as the one who would have
+    the reader believe something about the verses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: journeying speaker of the paraphrased poem
+  assigned_to:
+  - fig:1
+  basis: The note says Tomotada’s intended meaning concerns his journey to visit his
+    mother and his encounter with a lovely being.
+  evidence_refs:
+  - ev:9
+- id: role:2
+  label: beloved addressee in the paraphrased poem
+  assigned_to:
+  - fig:2
+  basis: The paraphrase describes the being as lovely as a flower and addresses the
+    person as “Fair one,” asking whether the blush means love.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:3
+  label: storytelling authority referenced by the note
+  assigned_to:
+  - fig:3
+  basis: The note explicitly mentions what the Japanese storyteller would have the
+    reader believe.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: Snow name
+  literal_form: A female name signifying “Snow.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Green Willow name
+  literal_form: The name Aoyagi, signifying “Green Willow.”
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: flower-like beauty
+  literal_form: A being described as “lovely as a flower.”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: dawn-like blush
+  literal_form: A blush described as dawn-like and occurring before the hour of dawn.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Notes on Yuki-Onna names and places
+  summary: The notes under “Yuki-Onna” explain historical place references, a small
+    floor-surface measurement, the meaning of a name as “Snow,” and Edo as the former
+    name of Tokyo.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Notes on Aoyagi and the poem
+  summary: The notes under “The Story of Aoyagi” identify ancient provinces, explain
+    the name “Green Willow,” describe the poem’s double meanings, and paraphrase Tomotada’s
+    veiled statement of meeting and loving a beautiful being.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: veiled love confession in a double-meaning poem
+  taxonomy_refs: []
+  basis: The note says the poem can be read in two ways, has phrases with double meaning,
+    and conveys Tomotada’s question whether the fair one’s blush means love.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: This is an editorial note about a poem rather than a full narrative episode
+    in the provided passage.
+- id: motif:2
+  label: journey interrupted by encounter with a beautiful being
+  taxonomy_refs: []
+  basis: The paraphrase states that Tomotada was journeying to visit his mother, met
+    a being lovely as a flower, and spent the day there for that person’s sake.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage gives only a paraphrased meaning of a poem and does not provide
+    the surrounding story context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '4094'
+  quote_or_summary: "“YUKI-ONNA”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 4096-4098
+  quote_or_summary: A note describes an ancient province including most of present-day
+    Tokyo and parts of Saitama and Kanagawa prefectures.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4102-4105
+  quote_or_summary: A note says a name signifies “Snow,” is not uncommon, and refers
+    readers to a paper on Japanese female names.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized with brief quoted term.
+- id: ev:4
+  type: summary
+  locator: '4107'
+  quote_or_summary: A note says Edo is also spelled Edo and is the former name of
+    Tokyo.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: '4109'
+  quote_or_summary: "“THE STORY OF AOYAGI”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 4111-4116
+  quote_or_summary: Two notes identify ancient provinces corresponding to northern
+    present-day Ishikawa Prefecture and eastern present-day Fukui Prefecture.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 4118-4119
+  quote_or_summary: A note explains that Aoyagi signifies “Green Willow,” is rare,
+    and remains in use.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized with brief quoted term.
+- id: ev:8
+  type: summary
+  locator: 4121-4124
+  quote_or_summary: A note says the poem may be read in two ways because several phrases
+    have double meaning, and that explaining the construction would take considerable
+    space.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 4125-4129
+  quote_or_summary: 'The note paraphrases Tomotada’s intended meaning: while traveling
+    to visit his mother, he met a being lovely as a flower and stayed there for that
+    person’s sake.'
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 4129-4131
+  quote_or_summary: The paraphrase addresses the fair one and asks whether a dawn-like
+    blush before dawn means love.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 4133-4134
+  quote_or_summary: A note says another reading of the answer is possible, while the
+    given one reflects the intended signification.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: 4136-4141
+  quote_or_summary: A note says the Japanese storyteller would have readers believe
+    the verses are effective, though they seem commonplace in translation; the translator
+    gives only their general meaning.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly editorial footnotes and poem commentary, so literal
+    extraction is secure but motif identification is limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the provided passage does not itself support a specific cross-tradition comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:japanese-kwaidan-hearn-gutenberg__l4094-l4141
+  passage_sha256=8949c0ab5beac3761cce65f576ec4ed7d0580f1253135e71c737f5fa1aaba054
+

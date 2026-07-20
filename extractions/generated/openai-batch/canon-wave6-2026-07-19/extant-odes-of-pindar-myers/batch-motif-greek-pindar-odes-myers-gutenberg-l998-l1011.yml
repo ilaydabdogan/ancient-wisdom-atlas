@@ -1,0 +1,150 @@
+---
+record_id: batch.motif.greek-pindar-odes-myers-gutenberg-l998-l1011
+source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+passage_locator:
+  label: FOR HIERON OF SYRACUSE, / WINNER IN THE HORSE-RACE. / FOR THERON OF AKRAGAS,
+    / WINNER IN THE CHARIOT-RACE.; lines 998-1011
+  start: '998'
+  end: '1011'
+  translation: The Extant Odes of Pindar
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists of editorial footnotes: one discusses Greek textual
+    readings, one notes Pindar''s ideas about a future life and possible Pythagorean
+    influence, one identifies Memnon, and the passage ends with the section marker
+    III.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An editorial footnote discusses several Greek textual readings and states
+    a preferred suggested reading.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An editorial footnote directs readers to surviving fragments of Pindar's Dirges
+    for Pindar's ideas about a future life.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same footnote says Pindar seems to have been influenced by Pythagoreanism.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A footnote identifies a referent as Memnon.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage ends with the section marker III.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pindar
+  description: Named in an editorial footnote as the person whose ideas about a future
+    life are being discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Memnon
+  description: Named in a brief editorial footnote without further description in
+    this passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: author whose ideas are discussed
+  assigned_to:
+  - fig:1
+  basis: The footnote refers to Pindar's ideas about a future life.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: named referent in footnote
+  assigned_to:
+  - fig:2
+  basis: The footnote consists of the name Memnon.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: future life or afterlife belief
+  taxonomy_refs: []
+  basis: The passage explicitly mentions Pindar's ideas about a future life and points
+    to surviving Dirge fragments for them.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial note, not a narrative description; it does
+    not describe an afterlife journey, judgment scene, or map.
+comparison_claims:
+- id: claim:1
+  claim: The note cautiously relates Pindar's ideas about a future life to Pythagoreanism
+    by saying he seems to have been influenced by it.
+  claim_level: historical_contact
+  target: Pythagoreanism
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is presented as an editorial inference and gives no details
+    about the nature, mechanism, or extent of the influence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 998-1003
+  quote_or_summary: Footnote 7 discusses variant Greek readings and recommends a suggested
+    reading.
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 1005-1008
+  quote_or_summary: "“For Pindar's ideas as to a future life see especially the fragments
+    of his Dirges...”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: '1010'
+  quote_or_summary: "“Memnon.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: '1011'
+  quote_or_summary: "“III.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly editorial annotation rather than mythic narrative.
+    Extraction is limited to explicitly mentioned textual, afterlife, and influence
+    statements.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the provided symbol list are directly present in the passage. No narrative scene is described.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-pindar-odes-myers-gutenberg__l998-l1011
+  passage_sha256=3b95b9d2a32faa7c2c4570b6abbba298ed0826baac272d0ec47c67a4217d7eb6
+

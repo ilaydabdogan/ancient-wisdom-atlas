@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l2344-l2394
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: CAME   UP   TO   WINDWARD  3 / CAME   UP   TO    WINDWARD  5 / CAME    UP   TO    WINDWARD  7
+    / CAME   UP  TO   WINDWARD  9; lines 2344-2394
+  start: '2344'
+  end: '2394'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage recounts Livuka’s building, later conflict with Lakemba, and
+    a subsequent voyage by some Livuka ancestors and their families in a great canoe
+    toward windward lands. They visit Oneata and Vatoa, perform spear dances, decide
+    Vatoa is the end of the earth, and prepare to return. Two gods living in a hollow
+    tree stump hear the dance and look out; a leprous Livuka man who stayed aboard
+    the canoe sees them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Livuka is said to have been built, and friendship between its people and the
+    children of Lakemba later turned into hostility and war.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator names Chief Sakinsa as the person to ask for the detailed war
+    tale because he heard it from his fathers and remembers it clearly.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Because the people were many and the land was small, some fathers proposed
+    boarding a great canoe with wives and children to seek a dwelling-place in lands
+    to windward.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The voyagers sailed to Oneata and then to Vatoa, performing the dance of spears
+    at both places.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At Vatoa the land did not please the voyagers, and from the highest hill they
+    could see no other land farther on.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The voyagers declared that Vatoa was the end of the earth, with only water
+    beyond it, and planned to sail back to Lakemba.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Two gods lived in the hollow stump of a tree and heard the clashing spears,
+    tramping feet, and song of the dance.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The two gods raised their heads to look at the strangers after hearing the
+    dance.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A Livuka man remained aboard the canoe because he was a leper, and he saw
+    the two gods.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Livuka ancestors and voyaging families
+  description: The narrator’s fathers, with wives and children, who are numerous,
+    board a great canoe, sail to Oneata and Vatoa, and perform spear dances.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: children of Lakemba
+  description: A group formerly in close friendship with the people of Livuka, later
+    involved in hostility and war with them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Chief Sakinsa
+  description: A chief identified as knowing the war tale because he heard it from
+    his fathers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: two gods in the hollow stump
+  description: Two gods who live in the hollow stump of a tree, hear the spear dance,
+    and look at the strangers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: leprous Livuka man aboard the canoe
+  description: A Livuka man who does not go ashore because he is a leper and who sees
+    the two gods.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: migrating voyagers
+  assigned_to:
+  - fig:1
+  basis: They board the great canoe with families and sail toward windward lands seeking
+    a dwelling-place.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: allies turned opponents
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says friendship between Livuka and the children of Lakemba became
+    hostility and war.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: custodian of oral war account
+  assigned_to:
+  - fig:3
+  basis: The narrator says Chief Sakinsa knows the war tale from what he heard from
+    his fathers.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: hidden resident gods
+  assigned_to:
+  - fig:4
+  basis: The two gods are described as living in a hollow tree stump and emerging
+    to look at the strangers.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: afflicted observer remaining aboard
+  assigned_to:
+  - fig:5
+  basis: He stays on the canoe because he is a leper and sees the two gods.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: great canoe
+  literal_form: A great canoe used by some Livuka ancestors, their wives, and children
+    for the windward voyage.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: dance of spears
+  literal_form: A dance with clashing spears, tramping feet, and song, performed at
+    Oneata and Vatoa.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: highest hill
+  literal_form: The highest hill at Vatoa, climbed so the voyagers could look for
+    land farther on.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: water beyond the last land
+  literal_form: The water the voyagers believe lies beyond Vatoa when they call it
+    the end of the earth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: hollow stump of a tree
+  literal_form: The hollow tree stump in which the two gods live.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Livuka, Lakemba, and remembered war
+  summary: Livuka is said to have been built; friendship with the children of Lakemba
+    later becomes war, and Chief Sakinsa is named as the keeper of that fuller account.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Departure by great canoe
+  summary: Because the people are numerous and land is limited, some Livuka ancestors
+    plan to sail with their wives and children toward windward lands in hope of receiving
+    a new dwelling-place.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Oneata and Vatoa spear dances
+  summary: The voyagers sail to Oneata and Vatoa, dance the dance of spears, then
+    climb the highest hill at Vatoa and decide there is only water beyond.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Tree-stump gods seen from the canoe
+  summary: Two gods living in a hollow tree stump hear the dance and look out at the
+    strangers; the leprous man who remained aboard the canoe sees them.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: departure from crowded land to seek a new dwelling
+  taxonomy_refs:
+  - departure
+  basis: The people are many, the land is small, and some board a canoe with families
+    to seek lands to windward.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a migration rationale but not the eventual outcome within
+    this excerpt.
+- id: motif:2
+  label: canoe-borne family migration
+  taxonomy_refs:
+  - ark_vessel
+  basis: A great canoe carries a migrating group with wives and children toward new
+    lands.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The vessel is a canoe in a migration episode; no flood, rescue from world
+    destruction, or ark enclosure is described.
+- id: motif:3
+  label: ritual performance reveals hidden gods
+  taxonomy_refs: []
+  basis: The two gods hear spear clashing, feet, and song during the dance and raise
+    their heads to look at the strangers.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The excerpt only shows the gods responding and being seen; it does not
+    yet describe a full encounter or divine intervention.
+- id: motif:4
+  label: edge of the known world marked by water
+  taxonomy_refs: []
+  basis: After seeing no farther land from the highest hill, the voyagers call Vatoa
+    the end of the earth and say only water lies beyond.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is reported as the voyagers’ conclusion, not as an explicit cosmological
+    doctrine.
+- id: motif:5
+  label: gods dwelling in a tree hollow
+  taxonomy_refs: []
+  basis: Two gods are said to live in the hollow stump of a tree.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Although the tree is a divine dwelling, the passage does not support identifying
+    it as a world tree or axis.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2344-2355
+  quote_or_summary: Livuka is built; friendship with the children of Lakemba turns
+    to war; Chief Sakinsa is named as the one who knows the war tale from his fathers.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2357-2361
+  quote_or_summary: '"we were many, and the land was small"; some are to go aboard
+    the great canoe with wives and children seeking windward lands.'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 2361-2365
+  quote_or_summary: The voyagers sail to Oneata and Vatoa and dance the dance of spears
+    at each place.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 2365-2371
+  quote_or_summary: '"This is the end of the earth. There is now nothing but water
+    beyond this land."'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 2372-2377
+  quote_or_summary: Two gods living in a hollow tree stump hear the spear dance, feet,
+    and song, then raise their heads to look at the strangers.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2377-2381
+  quote_or_summary: A Livuka man remains aboard because he is a leper and sees the
+    two gods.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    involving departure, vessel migration, divine response to ritual sound, and tree-dwelling
+    gods are plausible but require human review for taxonomy alignment. No cross-text
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Trailing page-layout/OCR artifacts after the narrative text were not treated as narrative content.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l2344-l2394
+  passage_sha256=5a0e81b52f24b27ca276d290c47104146f966833e2150a3fbf88d33352c35614
+

@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l22305-l22444
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: WITH A BRIEF NOTE ON KUDUO / CO GO / HH HH / APPENDIX B; lines 22305-22444
+  start: '22305'
+  end: '22444'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Appendix B lists named Ashanti weight standards for gold dust, gives their
+    approximate values in English currency, and adds notes identifying some weights
+    as seeds, giving a Fanti equivalent, explaining a name, and noting that Piresuru
+    can be used to cheat the unwary.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a list of standards in use, each with its own separate
+    weight and an approximate value in English currency.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed standards are associated with Ashanti names of weights and with
+    approximate values for gold dust.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The weights from Powa hu to nkowa mienu are described as seeds.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gyiratwefa is noted as Fanti Dadako.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Surupa is explained literally as a true or good suru.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Piresuru is assigned one value in Ashanti and another on the coast, and the
+    note says this weight is used to cheat the unwary.
+  category: action
+  evidence_refs:
+  - ev:5
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: named weight standards
+  literal_form: List of standards or weights, each with its own separate weight and
+    approximate English-currency value
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: seed weights
+  literal_form: Seeds used as weights from Powa hu to nkowa mienu
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: gold dust
+  literal_form: Gold dust whose approximate value is expressed in English currency
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Piresuru
+  literal_form: Named weight with stated Ashanti and coastal values; described as
+    usable to cheat the unwary
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Weight-value table
+  summary: A table lists Ashanti names for weight standards and gives approximate
+    English-currency values for gold dust associated with them.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Notes on selected weights
+  summary: Footnotes state that some early weights are seeds, identify Gyiratwefa
+    with Fanti Dadako, explain Surupa as a true or good suru, and describe Piresuru
+    as differing in value between Ashanti and the coast and as used to cheat the unwary.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seed-based measure as exchange standard
+  taxonomy_refs: []
+  basis: The passage states that the weights from Powa hu to nkowa mienu are seeds
+    within a list of gold-dust weight standards.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic economic pattern, not a narrative or explicitly
+    mythological motif.
+- id: motif:2
+  label: deceptive exchange through a weight standard
+  taxonomy_refs: []
+  basis: The passage says Piresuru has different values in Ashanti and on the coast
+    and that this weight is used to cheat the unwary.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief note and does not describe a story, ritual,
+    or symbolic context.
+comparison_claims:
+- id: claim:1
+  claim: The passage identifies Gyiratwefa with the Fanti term Dadako.
+  claim_level: same_function
+  target: Fanti Dadako named weight
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note is terse and gives no description of form, setting, or broader
+    use.
+- id: claim:2
+  claim: The passage contrasts the Ashanti value of Piresuru with its value on the
+    coast.
+  claim_level: same_function
+  target: coastal value of Piresuru
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The coast is not further specified, and the passage does not provide
+    a narrative or ritual context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22305-22444, Appendix B introductory table
+  quote_or_summary: The passage introduces a list of standards in use, each with its
+    own separate weight, and gives approximate English-currency values for gold dust
+    under Ashanti weight names.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 22305-22444, footnote 1
+  quote_or_summary: From Powa hu to nkowa mienu, all these weights are seeds.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 22305-22444, footnote 2
+  quote_or_summary: Fanti Dadako.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 22305-22444, footnote 3
+  quote_or_summary: Lit. a ‘true’ or good suru.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 22305-22444, footnote 4
+  quote_or_summary: In Ashanti 22s. 6 d., on the coast 22s.; this weight is used to
+    cheat the unwary.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The economic weight data are explicit. Motif labels are treated as ethnographic
+    patterns rather than mythological motifs and therefore require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol references were assigned because the passage does not explicitly support sacred, mythological, or listed symbol categories.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l22305-l22444
+  passage_sha256=1625a88cf54a92008ab749e4195d4781facea8aca6ad7163a47b73d1bc4b5efa
+

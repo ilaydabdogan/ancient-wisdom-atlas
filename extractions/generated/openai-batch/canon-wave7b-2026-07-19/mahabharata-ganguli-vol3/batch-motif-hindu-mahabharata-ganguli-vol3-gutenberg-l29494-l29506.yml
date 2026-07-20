@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l29494-l29506
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION LIII / SECTION LIV / SECTION LV / SECTION LVI; lines 29494-29506
+  start: '29494'
+  end: '29506'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: If the king becomes mild and disposed to jest, O Yudhishthira, these and
+    many other evils spring from it.
+  summary: The passage warns Yudhishthira that if a king becomes overly mild or familiar,
+    servants may mock his anger, mishandle royal secrets, ignore commands, neglect
+    royal necessities, take royal property, and represent themselves as especially
+    intimate with him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that certain servants laugh if the king becomes angry and
+    are not truly gladdened by royal favors, though they may express joy for other
+    reasons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The servants disclose the secret counsels of their master and publicize his
+    evil acts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The servants disregard the king's commands without anxiety.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If the king's jewels, food, bath necessities, or unguents are not forthcoming,
+    the servants show no anxiety even in his presence.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage contrasts servants not taking what rightfully belongs to them
+    with their appropriation of what belongs to the king.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The servants are said to wish to sport with the king as with a bird tied with
+    a string.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The servants give people to understand that the king is very intimate with
+    them and loves them dearly.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The warning is addressed to Yudhishthira and concludes that these evils spring
+    from the king becoming mild and disposed to jest.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: A generic king whose anger, favors, commands, possessions, and intimacy
+    with servants are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: servants
+  description: Servants of the king who laugh at anger, reveal counsels, disregard
+    commands, neglect royal needs, appropriate royal property, and claim intimacy
+    with the king.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Yudhishthira
+  description: The named addressee of the warning about royal mildness and the conduct
+    of servants.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: ruler and master
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the king's commands, royal goods, and servants' relation
+    to their master.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: unreliable royal attendants
+  assigned_to:
+  - fig:2
+  basis: The servants reveal secrets, ignore commands, neglect royal necessities,
+    and appropriate royal property.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: recipient of instruction
+  assigned_to:
+  - fig:3
+  basis: The warning is directly addressed to Yudhishthira.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: bird tied with a string
+  literal_form: A bird tied with a string used as a comparison for how the servants
+    wish to sport with the king.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: royal possessions and necessities
+  literal_form: The king's jewels, food, bath necessities, unguents, and other property.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Warning about servants under an overly familiar king
+  summary: The passage presents a list of misconduct attributed to servants when a
+    king becomes mild or disposed to jest, including mockery, disclosure of secrets,
+    disobedience, neglect of royal goods, appropriation of royal property, and claims
+    of intimacy with the king.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: didactic warning on royal familiarity and loss of authority
+  taxonomy_refs:
+  - wisdom
+  - royal_legitimacy
+  basis: The passage frames advice to Yudhishthira about how a king's mildness and
+    jesting can lead servants to disobey, appropriate royal goods, and undermine royal
+    authority.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The passage is a political-ethical instruction rather than a mythic narrative
+    episode; the taxonomy mapping is general.
+- id: motif:2
+  label: servants violating loyalty to their master
+  taxonomy_refs: []
+  basis: The servants disclose secret counsels, publicize evil acts, ignore commands,
+    and appropriate what belongs to the king.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a behavioral pattern within didactic counsel, not an independent
+    narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 29494-29497
+  quote_or_summary: '"If the king becomes angry, they laugh; nor are they gladdened
+    if favours be bestowed upon them"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 29497-29499
+  quote_or_summary: '"They disclose the secret counsels of their master and bruit
+    his evil acts."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 29499-29500
+  quote_or_summary: '"Without the least anxiety they set at naught the king''s commands."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 29500-29503
+  quote_or_summary: If the king's jewels, food, bath necessities, or unguents are
+    missing, the servants show no anxiety in the king's presence.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 29503-29505
+  quote_or_summary: The servants do not take what rightfully belongs to them, but
+    instead appropriate what belongs to the king.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:6
+  type: quote
+  locator: line 29505
+  quote_or_summary: '"They wish to sport with the king as with a bird tied with a
+    string."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: lines 29505-29506
+  quote_or_summary: The servants make people believe the king is very intimate with
+    them and loves them dearly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:8
+  type: quote
+  locator: lines 29506
+  quote_or_summary: '"If the king becomes mild and disposed to jest, O Yudhishthira,
+    these and many other evils spring from it."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is didactic political counsel rather than a mythic event. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l29494-l29506
+  passage_sha256=d253cec2af8233564b4832b1b8d47a3b4fdb9c7f08cfd8d45a0e8f4bd1d6eaf8
+

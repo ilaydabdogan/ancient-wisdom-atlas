@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l2062-l2161
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: THE SEVEN-HEADED SERPENT. / THE SERPENT IN THE WOOD. / III.--ANIMAL TALES.
+    / ACHERIA, THE FOX.; lines 2062-2161
+  start: '2062'
+  end: '2161'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A hungry fox repeatedly obtains food by arranging distractions and then
+    cheating his accomplices. He tricks a wolf in a theft of curdled milk, tricks
+    a blackbird in a theft of a boy's dinner basket, then leaves because he has made
+    enemies. At the water's edge he pays a boatman for passage by telling three comic
+    'truths,' and a first-person speaker says he learned them by the river.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hungry fox sees a shepherd pass daily with his flock and wants to steal
+    the shepherd's milk and cheese.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fox asks a wolf to howl near the flock so that the dog will bark and the
+    shepherd will leave his work, while the fox steals the milk and promises to share
+    it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The wolf follows the fox's instructions; the dog barks, and the shepherd leaves
+    everything.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The fox steals the vessel of curdled milk, eats the contents, fills the vessel
+    with dirt, and puts the cream back on top.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The wolf chooses the lower portion of the vessel and receives dirt, while
+    the fox keeps the cream and leaves well fed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: On another hungry day, the fox tells a blackbird to limp ahead of a boy so
+    the boy will set down the basket containing his father's dinner.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The blackbird performs the decoy action; the boy puts down the basket; the
+    fox takes the basket to his hole and eats both portions.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The fox concludes that the wolf and blackbird are now his enemies and decides
+    to go to the other side of the water.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: At the water's edge, the fox asks a boatman to ferry him across in exchange
+    for three truths.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: 'The fox gives three statements as the boat crosses: wheaten bread is better
+    than maize bread; day is clearer than night; and the boatman''s trousers will
+    worsen if he ferries people who pay no more than the fox.'
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A first-person speaker says he was beside the river, learned the three truths,
+    and never forgot them.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Acheria, the fox
+  description: A hungry fox who plans food thefts, cheats his accomplices, and crosses
+    water by offering three truths to a boatman.
+  role_refs:
+  - role:1
+  - role:2
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: wolf
+  description: An animal accomplice who howls as instructed by the fox and later receives
+    a vessel filled with dirt instead of the promised food.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: shepherd
+  description: A man with a flock, milk, and cheese; he leaves his work when the dog
+    barks at the wolf.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: dog
+  description: The shepherd's dog, which barks when the wolf approaches.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: blackbird
+  description: A bird who agrees to limp as a decoy for the boy and is later deprived
+    of its promised share of the dinner.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: boy
+  description: A boy carrying his father's dinner basket; he pursues the limping blackbird
+    and sets the basket down.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: boatman / man
+  description: A man who ferries the fox across the water after agreeing to receive
+    three truths.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: first-person riverbank speaker
+  description: The closing speaker who says he was by the river and learned the three
+    truths.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: hungry animal protagonist
+  assigned_to:
+  - fig:1
+  basis: The fox is repeatedly described as hungry and initiates the episodes to obtain
+    food.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: deceiver and food thief
+  assigned_to:
+  - fig:1
+  basis: The fox arranges distractions, steals food, and withholds or falsifies shares
+    from accomplices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: animal accomplice
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The wolf and blackbird each agree to carry out the fox's plan as helpers
+    in obtaining food.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: cheated accomplice
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The wolf receives dirt instead of milk, and the blackbird receives none of
+    the dinner.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: food owner or bearer
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The shepherd has the milk and cheese; the boy carries his father's dinner
+    basket.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: animal guard
+  assigned_to:
+  - fig:4
+  basis: The dog barks when the wolf approaches, prompting the shepherd to leave.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: ferryman
+  assigned_to:
+  - fig:7
+  basis: The man agrees to cross the fox over the water by boat.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: water-crossing passenger
+  assigned_to:
+  - fig:1
+  basis: The fox asks to be carried across the water and jumps into the boat.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: frame witness or closing speaker
+  assigned_to:
+  - fig:8
+  basis: The speaker says he was beside the river and learned the three truths.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: milk and cheese
+  literal_form: The shepherd's milk and cheese, including curdled milk and cream in
+    a vessel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: cream-covered vessel of dirt
+  literal_form: A vessel whose contents are eaten by the fox, refilled with dirt,
+    and covered with cream on top.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dinner basket
+  literal_form: The basket carried by the boy with his father's dinner.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: water crossing
+  literal_form: The water or river that the fox wants to cross by boat.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: three truths
+  literal_form: Three spoken statements offered by the fox as payment for passage.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Fox and wolf arrange the shepherd distraction
+  summary: The fox recruits the wolf to howl near the flock so the dog and shepherd
+    will be drawn away while the fox steals milk and cheese.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fox cheats the wolf over the milk vessel
+  summary: After stealing the curdled milk, the fox eats it, fills the vessel with
+    dirt, covers it with cream, and lets the wolf choose the dirt-filled lower portion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fox and blackbird steal the boy's dinner basket
+  summary: The blackbird distracts the boy by limping away from him; the fox takes
+    the basket but eats the whole dinner alone at his hole.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Fox departs across the water
+  summary: Fearing the wolf and blackbird as enemies, the fox goes to the water, asks
+    a boatman for passage, and offers three truths as payment.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Closing riverbank coda
+  summary: A first-person speaker says he was beside the river and learned the fox's
+    three truths.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Animal trickster obtains food by deception
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fox uses planned distractions to steal food from the shepherd and the
+    boy, then cheats the wolf and blackbird who helped him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not use the analytic term 'trickster'; the label is assigned
+    from the fox's repeated deceptive actions.
+- id: motif:2
+  label: Cheated accomplice denied promised share
+  taxonomy_refs: []
+  basis: The fox promises to share food with the wolf and blackbird but gives the
+    wolf dirt and eats the blackbird's portion himself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No external tale-type identification is made.
+- id: motif:3
+  label: Decoy action enables theft of food
+  taxonomy_refs: []
+  basis: The wolf's howling and the blackbird's limping each draw another figure away
+    from food, enabling the fox's theft.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The two decoy episodes are similar in function but differ in details.
+- id: motif:4
+  label: Trickster escapes enemies by crossing water
+  taxonomy_refs:
+  - trickster_boundary
+  basis: After making the wolf and blackbird enemies, the fox decides to go to the
+    other side of the water and secures passage from a boatman.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage states the practical reason for the crossing; broader boundary
+    symbolism is a cautious functional reading.
+- id: motif:5
+  label: Three truths as verbal payment and coda
+  taxonomy_refs:
+  - wisdom
+  basis: The fox offers three truths to the boatman for passage, and the final speaker
+    says he learned and remembered them.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The truths are comic or proverbial rather than explicitly sacred or philosophical.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the supplied taxonomy, the passage has the same broad function as
+    a trickster-boundary pattern: a fox repeatedly violates expected exchanges through
+    deception and then crosses water to avoid retaliation.'
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is only a functional comparison to a supplied motif family; the
+    passage provides no evidence for historical contact, common inheritance, or a
+    named tale-type parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2062-2161, wolf-and-shepherd setup
+  quote_or_summary: The hungry fox tells the wolf to howl near the flock so the dog
+    barks and the shepherd leaves, while the fox steals the milk and promises to share
+    it.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2062-2161, division of the curdled milk
+  quote_or_summary: The fox steals the vessel of curdled milk, eats its contents,
+    fills it with dirt, puts cream back on top, and gives the wolf the dirt-filled
+    lower portion after the wolf chooses it.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2062-2161, blackbird plan
+  quote_or_summary: The fox tells the blackbird to limp ahead of a boy carrying his
+    father's dinner so the boy will set down the basket, after which the fox says
+    they will share it.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2062-2161, theft of the dinner basket
+  quote_or_summary: The blackbird lures the boy onward; the boy puts down the basket;
+    the fox takes it to his hole and eats the blackbird's share as well as his own.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2062-2161, fox decides to leave
+  quote_or_summary: The fox says to himself that the wolf and blackbird are enemies
+    and that he must go to the other side of the water.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2062-2161, boat passage and three truths
+  quote_or_summary: The fox asks a boatman to carry him across the water for three
+    truths, then states that wheaten bread is better than maize bread, day is clearer
+    than night, and the boatman's trousers will worsen if he ferries people who pay
+    no more than the fox.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 2062-2161, closing sentence
+  quote_or_summary: '"Then I was by the side of the river, and I learnt these three
+    truths"'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative actions and figures are explicit. Motif labels are cautious
+    functional classifications based only on the supplied passage and available taxonomy
+    references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or tale-type claims are made. Internal evidence locators refer to the supplied stable line range with local episode labels because the prompt did not provide per-line numbering inside the passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l2062-l2161
+  passage_sha256=319bba58a9181f57c38299c5d6ebd449f3d4813259bea1354b16c0a093441e8a
+

@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2462-l2494
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: AGAVE. / LEADER. / AGAVE. / LEADER.; lines 2462-2494
+  start: '2462'
+  end: '2494'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“The Mountain hath slain him!”"
+  summary: Agave names Kithaeron and says the Mountain has slain an unnamed male victim.
+    In response to the Leader’s questions, she says she was the first to come near
+    him and that the daughters were next in the band against him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Agave identifies Kithaeron in response to the Leader.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Agave states that the Mountain has slain an unnamed male victim.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Leader asks who first came near the victim.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Agave says that she was the first to come near the victim.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Agave says that she was named “Agâvê the Blessèd” there by the victim.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Leader asks who was next in the band against the victim.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Agave answers that the daughters were next.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agave
+  description: Speaker who names Kithaeron, says the Mountain has slain the victim,
+    and says she first came near him.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Leader
+  description: Questioning speaker who asks about Kithaeron, the first person near
+    the victim, and who was next in the band.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Kithaeron / the Mountain
+  description: Named mountain that Agave says has slain the victim.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed male victim
+  description: Male figure referred to only as “him”; Agave says he was slain and
+    describes who came near him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: the daughters
+  description: Group identified by Agave as next in the band against the victim.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: declarer of the killing
+  assigned_to:
+  - fig:1
+  basis: Agave states that the Mountain has slain the victim.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: questioner
+  assigned_to:
+  - fig:2
+  basis: The Leader asks successive questions about Kithaeron and about who approached
+    or joined against the victim.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: first near the victim
+  assigned_to:
+  - fig:1
+  basis: Agave answers “I, I” when asked who first came near the victim.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: attributed slayer
+  assigned_to:
+  - fig:3
+  basis: Agave says “The Mountain hath slain him.”
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: slain victim
+  assigned_to:
+  - fig:4
+  basis: The victim is referred to as “him” in the statement that the Mountain has
+    slain him.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: next in the band against the victim
+  assigned_to:
+  - fig:5
+  basis: Agave identifies “the daughters” when asked who was next in the band on him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: Kithaeron / the Mountain
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Agave questioned about the killing on Kithaeron
+  summary: Agave names Kithaeron, attributes the victim’s death to the Mountain, says
+    she was first near him, and identifies the daughters as next in the band against
+    him while the Leader questions her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: death attributed to a mountain
+  taxonomy_refs: []
+  basis: The passage explicitly has Agave say that “The Mountain” has slain the unnamed
+    male victim.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief statement; it does not clarify whether
+    the mountain is literal, personified, or metonymic for events occurring there.
+- id: motif:2
+  label: band attack on a victim
+  taxonomy_refs: []
+  basis: The Leader asks who was next “in the band on him,” and Agave identifies the
+    daughters as next after herself.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt does not describe the full attack or identify the daughters
+    beyond the group label.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2462-2468
+  quote_or_summary: Agave says “Kithaeron,” and the Leader repeats “Kithaeron?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 2470-2472
+  quote_or_summary: 'Agave: “The Mountain hath slain him!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 2474-2476
+  quote_or_summary: 'Leader: “Who first came nigh him?”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 2478-2483
+  quote_or_summary: Agave says she was first and was named “Agâvê the Blessèd.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: lines 2485-2487
+  quote_or_summary: 'Leader: “Who was next in the band on him?”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: quote
+  locator: lines 2489-2494
+  quote_or_summary: Agave answers “The daughters,” and the Leader repeats “The daughters?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The speakers and literal statements are clear, but the excerpt is brief and
+    leaves the victim, the daughters, and the nature of the mountain’s agency unidentified
+    within the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata; no external plot identifications have been added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2462-l2494
+  passage_sha256=e04c9268f1d47818f0675b4d3c6fc0aff42c61aa78a61940874f17156e6a51c4
+

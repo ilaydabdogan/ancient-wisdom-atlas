@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l101895-l101977
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 2. / KEITH S / ARANYAKA IV / ARANYAKA V; lines 101895-101977
+  start: '101895'
+  end: '101977'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ritual and philological explanation for fastening a swing
+    seat to a cross-beam with ropes, steadying the posts with branches and brushwood,
+    setting the swing at specified distances from the ground and altar, and having
+    the Hotr play a hundred-string lute of udumbara wood after the swing is positioned.
+    Notes compare related ritual descriptions in nearby Vedic ritual texts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage discusses how a doubled rope is passed under the swing seat or
+    plank and fastened around a cross-beam.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translated instruction says that the rope ends are folded around the cross-beam
+    and tied into a knot on top, described as untied only by twisting.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The posts of the swing are steadied with branches and brushwood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The swing is to be set four fingers or a hand from the ground, with its right
+    side somewhat higher or level, and one foot from the altar.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the swing is put in position, the Hotr takes a lute of udumbara wood
+    with a hundred strings in both hands and strikes it from the lower side.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The notes of the lute are to be produced in turn by the seven metres, each
+    with four syllables.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note reports Sayana's explanation that the Hotr is seated west of the swing
+    at this stage.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The notes cite similar or related descriptions in the Tandya Brahmana, Latyayana
+    Srauta Sutra, and Sankhayana Srauta Sutra.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hotr
+  description: The officiant who takes the hundred-string udumbara lute in both hands
+    and strikes it after the swing is positioned.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: unnamed post-supporting participants
+  description: Unspecified plural actors who support the swing posts with branches
+    and brushwood.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed swing-fastening actor
+  description: An unspecified actor who folds rope ends around the cross-beam and
+    makes the knot on top.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ritual lute performer
+  assigned_to:
+  - fig:1
+  basis: The Hotr takes and strikes the hundred-string udumbara lute after the swing
+    is in position.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: post stabilizers
+  assigned_to:
+  - fig:2
+  basis: The participants support the posts so that they are steady by using branches
+    and brushwood.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: swing assembler
+  assigned_to:
+  - fig:3
+  basis: The actor folds the rope ends around the cross-beam and ties the knot.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: ritual swing
+  literal_form: Swing with seat or plank, posts, ropes, and cross-beam
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: rope knot on cross-beam
+  literal_form: Doubled rope folded around the cross-beam and tied on top
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: branches and brushwood
+  literal_form: Branches and brushwood used to steady the posts
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: altar proximity
+  literal_form: The swing is placed one foot from the altar
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: hundred-string udumbara lute
+  literal_form: Lute of udumbara wood with a hundred strings
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: seven metres
+  literal_form: Seven metres used to produce the different lute notes in turn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Swing assembled and positioned
+  summary: The swing seat or plank is fastened by ropes to a cross-beam, the posts
+    are steadied with branches and brushwood, and the swing is set at specified distances
+    from the ground and altar.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Hotr plays the udumbara lute
+  summary: Once the swing is in position, the Hotr takes a hundred-string udumbara
+    lute in both hands, strikes it from the lower side, and produces its notes in
+    sequence according to metres.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ritual assembly of a swing near an altar
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage prescribes the construction, stabilization, and placement of
+    a swing in relation to an altar within a Vedic ritual context.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is procedural ritual commentary rather than a narrative myth;
+    the taxonomy assignment rests on ritual-sacrificial context indicated by the altar
+    and Hotr.
+- id: motif:2
+  label: ritual music ordered by poetic metre
+  taxonomy_refs:
+  - sacrifice
+  basis: The Hotr plays a hundred-string udumbara lute and is instructed to produce
+    notes according to seven metres.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The symbolic meaning of the metres and instrument is not explained in
+    the provided passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself notes that similar or related ritual descriptions occur
+    in the Tandya Brahmana, Latyayana Srauta Sutra, and Sankhayana Srauta Sutra.
+  claim_level: same_function
+  target: Nearby Vedic ritual corpus descriptions of the swing, lute, and related
+    accessories
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note cites parallels but the provided passage does not reproduce
+    the parallel passages in full.
+- id: claim:2
+  claim: The passage compares the lute action to ordinary lute playing by saying it
+    is struck as one does an ordinary lute.
+  claim_level: same_function
+  target: Ordinary lute-playing technique
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a local procedural analogy, not a broader mythological comparison.
+- id: claim:3
+  claim: A note says the exact words concerning the lute do not occur in Sankhayana,
+    although the lute is elaborately described there.
+  claim_level: same_function
+  target: Sankhayana Srauta Sutra description of the lute
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: low
+  limitations: The claim is limited by the note's explicit qualification that exact
+    wording differs or is absent.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 101895-101919
+  quote_or_summary: Commentary explains the doubled rope available for tying the swing
+    seat or plank to the cross-beam, including discussion of left and right ropes
+    and the direction of fastening.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 101920-101928
+  quote_or_summary: The instruction describes rope ends to the left and right, five
+    fathoms long and folded double, then folded three times around the cross-beam
+    to make a top knot untied by twisting.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 101928-101934
+  quote_or_summary: The posts are supported with branches and brushwood; the swing
+    is set four fingers or a hand from the ground, its right side may be higher or
+    level, and it should be a foot from the altar.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 101935-101941
+  quote_or_summary: When the swing has been put in position, the Hotr takes in both
+    hands a hundred-string lute of udumbara wood and strikes it from the lower side
+    as one does an ordinary lute.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 101941-101944
+  quote_or_summary: The different notes of the lute are produced in turn by the seven
+    metres, each with four syllables.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 101955-101960
+  quote_or_summary: A note reports Sayana's explanation that the Hotr is now seated
+    west of the swing; the note also comments on the lute instruction.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 101949-101960
+  quote_or_summary: Notes cite similar passages in the Tandya Brahmana, Latyayana
+    Srauta Sutra, and Sankhayana Srauta Sutra, and mention Sankhayana's detailed treatment
+    of planks, ropes, lute, drums, accessories, and preliminary steps; one note qualifies
+    that the exact lute wording does not occur in Sankhayana.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is heavily OCR-corrupted and includes commentary and notes around
+    a ritual prescription. Literal procedure is reasonably clear, but symbolic interpretation
+    is limited and requires human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used; comparison claims are limited to parallels explicitly named within the provided passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l101895-l101977
+  passage_sha256=5dc8f1361bb73d70a08952a9e788c460bc62aa37a6f96e2bd780a785fd57aeb9
+

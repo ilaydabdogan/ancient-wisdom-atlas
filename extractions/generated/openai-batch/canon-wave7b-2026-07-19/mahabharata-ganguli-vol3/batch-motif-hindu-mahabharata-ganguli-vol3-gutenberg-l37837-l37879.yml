@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l37837-l37879
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CXXXV / SECTION CXXXVI / SECTION CXXXVII / SECTION CXXXVIII; lines
+    37837-37879
+  start: '37837'
+  end: '37879'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“the highest truth of all treatises on policy is mistrust.”"
+  summary: In an animal dialogue, the cat Lomasa urges the mouse Palita to renew friendship
+    and trust. Palita refuses, giving a policy discourse on mistrust, especially between
+    weak and strong parties after a common danger has passed. Palita warns the cat
+    about an enraged hunter; the cat flees from a tree branch, and Palita enters another
+    hole.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The cat speaks to the mouse, condemns injury to a friend, praises friendship
+    and gratitude, and asks to be reunited with the mouse.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cat says the mouse had granted him life and claims special devotion to
+    the mouse.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mouse replies that he is glad to hear the cat but cannot trust him or
+    unite with him again.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The mouse states that a weak person who has made a compact with a stronger
+    one under common danger should behave cautiously after that danger has passed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The mouse states that self-protection and mistrust of foes are central rules
+    of policy.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The mouse advises the cat to protect his own life from the enraged Chandala
+    or hunter.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After hearing the mention of the hunter, the cat becomes frightened, leaves
+    the branch of the tree, and runs away quickly.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The mouse Palita is described as wise, conversant with scripture, and enters
+    another hole.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lomasa, the cat
+  description: A speaking cat who appeals for renewed friendship with the mouse and
+    later flees when the hunter is mentioned.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Palita, the mouse
+  description: A speaking mouse who refuses renewed trust, gives a discourse on policy
+    and mistrust, warns the cat, and enters another hole.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: The Chandala or hunter
+  description: An enraged external threat mentioned by the mouse; the mention causes
+    the cat to flee.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: speaker seeking renewed friendship
+  assigned_to:
+  - fig:1
+  basis: The cat praises friendship, gratitude, and devotion, and asks the mouse to
+    reunite with him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: stronger or dangerous former ally
+  assigned_to:
+  - fig:1
+  basis: The mouse addresses the cat as a foe-like figure from whom one like himself
+    should guard his life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: cautious weaker party
+  assigned_to:
+  - fig:2
+  basis: The mouse explains that a weak party should not repose confidence in a stronger
+    party after a common danger has passed.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: speaker of policy wisdom
+  assigned_to:
+  - fig:2
+  basis: The mouse gives explicit maxims about trust, mistrust, self-protection, and
+    policy.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: external threat
+  assigned_to:
+  - fig:3
+  basis: The hunter is described as enraged and the cat flees at his mention.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tree branch
+  literal_form: branch of the tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: mouse hole
+  literal_form: another hole
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cat appeals for renewed alliance
+  summary: Lomasa addresses the mouse with claims of friendship, gratitude, moral
+    knowledge, and devotion, asking to be reunited with him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mouse refuses trust and teaches policy
+  summary: Palita refuses to trust the cat again and explains that weak parties should
+    guard themselves from stronger foes once a common danger has passed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Warning, flight, and retreat
+  summary: Palita warns the cat about the enraged hunter; the cat flees from the tree
+    branch, and Palita enters another hole.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Animal dialogue conveying political wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: Speaking animal figures discuss friendship, trust, foes, and policy, with
+    Palita explicitly praised as wise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage supplies only the concluding exchange of the larger animal
+    episode.
+- id: motif:2
+  label: Temporary alliance between weak and strong dissolves after danger
+  taxonomy_refs: []
+  basis: The mouse states that a weak person who compacted with a stronger one under
+    common danger should act cautiously once the danger has passed and should not
+    renew confidence in the stronger party.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The preceding formation of the compact is referenced rather than fully
+    narrated in this excerpt.
+- id: motif:3
+  label: Self-preserving mistrust of a former foe
+  taxonomy_refs:
+  - wisdom
+  basis: Palita refuses renewed union with the cat and presents mistrust as the safest
+    rule of policy for preserving life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a policy motif within a didactic animal fable rather than a supernatural
+    mythic event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 37837-37849
+  quote_or_summary: Lomasa the cat says injury to a friend is censurable, claims wisdom,
+    gratitude, and devotion to the mouse, and asks the mouse to reunite with him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 37850-37866
+  quote_or_summary: The mouse replies that he cannot trust the cat, says the wise
+    do not place themselves under a foe’s power without sufficient reason, and teaches
+    that weak parties should be cautious after a common danger passes.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 37866-37874
+  quote_or_summary: The mouse says he should guard his life from the cat and tells
+    the cat to protect himself from the enraged Chandala or hunter; the cat, frightened,
+    leaves the tree branch and runs away.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 37874-37879
+  quote_or_summary: Palita the mouse is described as displaying understanding, being
+    versed in scripture and wisdom, and entering another hole.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main figures, actions, and didactic policy themes are explicit. Motif
+    labels are cautious because the excerpt is a portion of a larger embedded animal
+    fable. No cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l37837-l37879
+  passage_sha256=b17c5180750aebdbb5a7dff33935c8d0f5af8c152e7041b3b7398827eeff0e8b
+

@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol1-archive-l4136-l4161
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+passage_locator:
+  label: VATAMIGA-JATAKA. / KHARADIYA-JATAKA. / TIPALLATTHA-MIGA-JATAKA. / C.  J.  4;
+    lines 4136-4161
+  start: '4136'
+  end: '4161'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A hunter examines a bound stag, judges it to be already spoiled, releases
+    it while planning to butcher it, and gathers fuel for a fire. The young stag rises
+    and flees back to its mother. The frame then says the Master links the episode
+    to Rahula's concern for rules and identifies the past-life figures with Rahula,
+    Uppala-vanna, and himself.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A hunter approaches the stag and smacks its belly with his hand.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hunter says the stag must have been caught early in the morning and is
+    already going bad.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hunter loosens the stag from its bonds while planning to cut it up and
+    take the flesh home.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hunter gathers sticks and leaves to make a fire.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The young stag rises, shakes itself, stretches its neck, and runs back to
+    its mother.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Master says Rahula had shown anxiety to keep rules in the past as in the
+    present.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Master identifies Rahula as the young stag, Uppala-vanna as the stag's
+    mother, and himself as the stag's uncle in that birth.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hunter
+  description: A hunter who finds the bound stag, judges it spoiled, releases it,
+    and plans to cut it up for flesh.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Young stag
+  description: A young stag found in bonds; after release, it rises and runs back
+    to its mother. The frame identifies it with Rahula.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Mother of the young stag
+  description: The mother to whom the young stag returns; the frame identifies her
+    with Uppala-vanna.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: The Master
+  description: The frame-narrative speaker who makes the connection and identifies
+    the Birth, including himself as the stag's uncle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Rahula
+  description: Present-time figure whom the Master identifies as the young stag of
+    the past birth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Uppala-vanna
+  description: Present-time figure whom the Master identifies as the mother of the
+    young stag.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Stag's uncle
+  description: Past-life figure identified by the Master with himself.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hunter and would-be butcher
+  assigned_to:
+  - fig:1
+  basis: He is called a hunter, releases the stag, and says he will cut it up and
+    take the flesh home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: captive animal escapee
+  assigned_to:
+  - fig:2
+  basis: The stag is loosed from bonds, rises, and runs back to its mother.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: mother and return destination
+  assigned_to:
+  - fig:3
+  basis: The young stag speeds back to his mother, who is later identified in the
+    Birth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: birth-identifying teacher
+  assigned_to:
+  - fig:4
+  basis: The Master makes the connection and identifies the Birth.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: present-life identified counterpart
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The Master identifies Rahula and Uppala-vanna with figures in the past birth.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: past-life uncle of the stag
+  assigned_to:
+  - fig:7
+  basis: The Master says, in the identification, that he was the stag's uncle.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: A fire to be made with sticks and leaves gathered by the hunter.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Bonds
+  literal_form: The bonds from which the stag is loosed.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Hunter releases the stag and prepares to butcher it
+  summary: The hunter judges the bound stag to be going bad, loosens it from its bonds,
+    plans to cut it up, and gathers sticks and leaves for a fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Young stag escapes to its mother
+  summary: While the hunter is gathering fuel, the young stag rises, shakes itself,
+    stretches its neck, and swiftly returns to its mother.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The Birth is identified
+  summary: The Master connects the past and present, says Rahula had shown concern
+    for rules before, and identifies the young stag, mother, and uncle with Rahula,
+    Uppala-vanna, and himself.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Captive animal escapes when captor mistakes it for spoiled game
+  taxonomy_refs: []
+  basis: The hunter concludes the stag is going bad, releases it from bonds, and the
+    stag rises and flees while the hunter gathers fuel.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage strongly supports escape after the hunter's mistaken assessment,
+    but it does not explicitly name the stag's behavior as a deliberate feigned-death
+    tactic within this excerpt.
+- id: motif:2
+  label: Flight from danger back to mother
+  taxonomy_refs: []
+  basis: After rising, the young stag runs swiftly back to its mother.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader comparative claim is implied beyond the literal return-to-mother
+    pattern in this passage.
+- id: motif:3
+  label: Past-life identities revealed in a Jataka conclusion
+  taxonomy_refs: []
+  basis: The Master makes the connection and identifies the young stag, mother, and
+    uncle with present figures.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The label describes the local Jataka frame conclusion; no specific external
+    taxonomy reference is assigned.
+- id: motif:4
+  label: Continuity of rule-keeping across past and present
+  taxonomy_refs: []
+  basis: The Master states that Rahula showed no less anxiety to keep rules in the
+    past than in the present.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt reports the moral point but does not include the earlier narrative
+    details about the rules themselves.
+comparison_claims:
+- id: claim:1
+  claim: The frame presents the animal episode as a Jataka birth-identification, mapping
+    past figures to present figures.
+  claim_level: same_function
+  target: Jataka birth-identification or concluding connection pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The broader genre pattern is not demonstrated by additional passages
+    here; the claim rests on this passage's wording, especially that the Master 'made
+    the connexion' and 'identified the Birth.'
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4136-4140
+  quote_or_summary: The hunter comes up, smacks the stag on the belly, and says it
+    must have been caught early and is 'going bad already.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short excerpt summarized/quoted.
+- id: ev:2
+  type: quote
+  locator: lines 4140-4144
+  quote_or_summary: The hunter looses the stag from its bonds, says he will cut it
+    up and take the flesh home, and gathers sticks and leaves 'to make a fire with.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short excerpt summarized/quoted.
+- id: ev:3
+  type: quote
+  locator: lines 4144-4147
+  quote_or_summary: The young stag rises, shakes himself, stretches out his neck,
+    and 'sped swiftly back to his mother.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short excerpt summarized/quoted.
+- id: ev:4
+  type: summary
+  locator: lines 4148-4152
+  quote_or_summary: 'The Master says Rahula showed the same anxiety to keep rules
+    in the past and present, then identifies the Birth: Rahula as the young stag,
+    Uppala-vanna as his mother, and himself as the stag''s uncle.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage actions and frame identification are clear. Motif labels are
+    cautious where intent, such as deliberate feigning, is only implied by the hunter's
+    mistaken judgment and the stag's escape.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR irregularities appear in the supplied passage, including variant spellings; names are normalized only where the passage also supports them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol1-archive__l4136-l4161
+  passage_sha256=1d68fe7ce358796017e8d0950824747c3a06d9b11db9a5f102ee33de8b6c2c2b
+

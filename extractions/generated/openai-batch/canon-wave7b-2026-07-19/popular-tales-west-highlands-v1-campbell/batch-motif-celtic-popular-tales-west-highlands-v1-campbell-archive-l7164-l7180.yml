@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l7164-l7180
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: THE BATTLE OF THE BIRDS. 57 / THE BATTLE OF THE BIRDS. 59 / THE BATTLE OF
+    THE BIRDS. 61 / THE BATTLE OF THE BIRDS. 63; lines 7164-7180
+  start: '7164'
+  end: '7180'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: German, Norse, and Gaelic all hang together.
+  summary: The passage gives brief material notes on a rope and a Highland peg ladder,
+    then comments that stories in Grimm's German collection resemble Gaelic versions
+    of The Battle of the Birds, share incidents in somewhat similar order, differ
+    from a Norwegian tale, and form a related but non-identical group across German,
+    Norse, and Gaelic traditions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An item is described as joined above and below by a rope, often made of horsehair,
+    leather, or twisted bent.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that a horse's nose goes into the described item.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ladder is identified as a Highland ladder still common in cottages.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ladder consists of a long stick with pegs stuck through it.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Many stories in Grimm's German collection are said to resemble The Battle
+    of the Birds.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The German stories and Gaelic versions are said to have incidents in common,
+    arranged somewhat in the same order, while each group has its own character.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: New Gaelic versions vary from one another while resembling each other, and
+    no single Gaelic version is said to be like any one German tale.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says German, Norse, and Gaelic materials all hang together.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gaelic versions of The Battle of the Birds
+  description: The passage refers to Gaelic versions of The Battle of the Birds, including
+    several received after the note was written.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Stories in Grimm's German collection
+  description: The passage identifies many German collection stories as resembling
+    The Battle of the Birds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Norwegian tale
+  description: The passage mentions a Norwegian tale from which the German and Gaelic
+    materials differ while still being grouped with German, Norse, and Gaelic materials.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Compared Gaelic tale corpus
+  assigned_to:
+  - fig:1
+  basis: The passage compares Gaelic versions of The Battle of the Birds with German
+    stories and a Norwegian tale.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: Compared German tale corpus
+  assigned_to:
+  - fig:2
+  basis: The passage says many stories in Grimm's German collection resemble The Battle
+    of the Birds and share incidents with Gaelic versions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Compared Norse-language tale reference
+  assigned_to:
+  - fig:3
+  basis: The passage says the German and Gaelic materials differ from the Norwegian
+    tale while German, Norse, and Gaelic all hang together.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Rope for horse-nose item
+  literal_form: Rope made of horsehair, leather, or twisted bent, joining an item
+    above and below.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Highland peg ladder
+  literal_form: A long stick with pegs stuck through it, identified as a Highland
+    ladder common in cottages.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Related tale versions with shared incidents across traditions
+  taxonomy_refs: []
+  basis: The passage states that German stories resemble The Battle of the Birds,
+    that German stories and Gaelic versions have incidents in common arranged somewhat
+    in the same order, and that German, Norse, and Gaelic all hang together.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is editorial commentary and does not list the shared incidents,
+    so no specific taxonomy motif family can be assigned from this excerpt alone.
+- id: motif:2
+  label: Variation among related Gaelic versions
+  taxonomy_refs: []
+  basis: The passage says each new Gaelic version varies from the rest but resembles
+    them.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a textual transmission pattern rather than a specific narrative
+    motif in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-motif or tale-family comparison between
+    The Battle of the Birds and stories in Grimm's German collection, because they
+    are said to resemble one another and share incidents in somewhat similar order.
+  claim_level: same_motif
+  target: Stories in Grimm's German collection resembling The Battle of the Birds
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  limitations: The passage also says each corpus has its own character and that no
+    single Gaelic version is like any one German tale; the shared incidents are not
+    specified in this excerpt.
+- id: claim:2
+  claim: The passage supports a broad comparison grouping German, Norse, and Gaelic
+    materials as related in some way at the tale-pattern level.
+  claim_level: same_motif
+  target: German, Norse, and Gaelic tale materials connected with The Battle of the
+    Birds
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The passage does not claim historical contact, common inheritance,
+    or an exact match; it explicitly notes differences between the German and Gaelic
+    groups and the Norwegian tale.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7164-7166
+  quote_or_summary: '"joined above and below by a rope" often made of horsehair, leather,
+    or twisted bent; the horse''s nose goes into it.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 7168-7170
+  quote_or_summary: The ladder is described as the Highland ladder common in cottages,
+    consisting of a long stick with pegs stuck through it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 7172-7173
+  quote_or_summary: Many stories in Grimm's German collection are said to resemble
+    The Battle of the Birds.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 7173-7178
+  quote_or_summary: The German stories and Gaelic versions have incidents in common,
+    arranged somewhat in the same order, but each group has its own character and
+    both differ from the Norwegian tale.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 7178-7180
+  quote_or_summary: New Gaelic versions vary from one another while resembling each
+    other; no single version matches any one German tale, though German, Norse, and
+    Gaelic all hang together.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The excerpt is clear as editorial comparison and object description, but
+    it does not contain the narrative incidents themselves, limiting motif specificity.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not provide enough narrative content to support one.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l7164-l7180
+  passage_sha256=3e49d0f28c8c3aaa8332c2d8ac51e831d5b0e95413784421b8a109bbd1a12380
+

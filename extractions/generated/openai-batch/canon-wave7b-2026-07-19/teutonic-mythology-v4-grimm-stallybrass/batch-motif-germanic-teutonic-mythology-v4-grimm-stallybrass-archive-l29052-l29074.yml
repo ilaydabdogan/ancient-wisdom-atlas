@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l29052-l29074
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SUPERSTITIONS.      I.  1825 / SUPERSTITIONS.      I.  1827 / K.     SCANDINAYIAN.
+    / SUPERSTITIONS.      K.  1831; lines 29052-29074
+  start: '29052'
+  end: '29074'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A list of numbered Scandinavian superstitions concerning acquired livestock,
+    moving to a new homestead, marking finished work with a cross, a Shrove Tuesday
+    skiing omen for flax, a taboo on washing yarn downward, locking up on Michaelmas
+    Eve to prevent theft, and the beginning of an incomplete item about grain found
+    under a table.
+  language: Swedish with English glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When someone acquires a horse or other creature, the animal is to eat from
+    an earthfast stone so that it thrives.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some hairs from the acquired animal's tail are to be tied up in the stall
+    for the same purpose of helping it thrive.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When someone acquires a homestead, a little material from the old stable and
+    cattle-house is to be placed in each stall or cattle-place in the new holding
+    so that the livestock thrive.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A large fir is placed at the cattle-house door so that the livestock pass
+    through it the first time.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: All finished work has the sign of the cross made over it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If a person goes skiing on Shrove Tuesday and manages without falling, the
+    flax is expected to be long that year.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Yarn is not to be washed downward, because then it becomes grey.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: If everything is under lock and key on Michaelmas Eve, thieves will do no
+    harm that year.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage begins an incomplete item about a grain or other object being
+    found under the table.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: person acquiring a horse or other creature
+  description: Generic person who obtains an animal and performs prescribed actions
+    for its thriving.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: horse or other livestock
+  description: Acquired animal or livestock whose thriving is the aim of several actions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: person acquiring a homestead
+  description: Generic person who transfers material from old animal buildings to
+    the new homestead.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: person skiing on Shrove Tuesday
+  description: Generic person whose successful skiing without falling is linked to
+    the year's flax growth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: thieves
+  description: Thieves who are said not to do harm when everything is locked on Michaelmas
+    Eve.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ritual household actor
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage gives actions to be performed when acquiring livestock or a homestead.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: domestic animals to be made to thrive
+  assigned_to:
+  - fig:2
+  basis: The animal and livestock are the targets of actions said to make them thrive.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: omen performer
+  assigned_to:
+  - fig:4
+  basis: The skier's not falling is treated as a sign for the year's flax growth.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: potential harmful outsiders
+  assigned_to:
+  - fig:5
+  basis: Thieves are the agents whose harm is averted by locking everything on Michaelmas
+    Eve.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: earthfast stone
+  literal_form: jordfast sten, an earthfast stone from which the acquired animal eats
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tail hairs tied in the stall
+  literal_form: some hairs from the animal's tail tied up in the stall
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: old stable and cattle-house material
+  literal_form: a little material taken from the old stable and cattle-house and placed
+    in the new animal places
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fir at the cattle-house door
+  literal_form: a large fir placed at the cattle-house doorway for the animals' first
+    passage
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: sign of the cross over work
+  literal_form: the sign of the cross made over finished work
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Shrove Tuesday skiing without falling
+  literal_form: skiing on Shrove Tuesday without falling
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: lock and key on Michaelmas Eve
+  literal_form: everything kept under lock and key on Michaelmas Eve
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Acquired animal made to thrive
+  summary: A newly acquired horse or other animal is fed from an earthfast stone,
+    and hairs from its tail are tied in the stall, with thriving as the stated result.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: New homestead livestock rites
+  summary: A person moving to a new homestead places material from the old animal
+    buildings in the new stalls or cattle-places and has the livestock pass through
+    a fir at the cattle-house door for their first entry.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Finished work crossed
+  summary: Finished work is marked with the sign of the cross.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Shrove Tuesday flax omen
+  summary: Successful skiing without falling on Shrove Tuesday is linked to long flax
+    in the same year.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Yarn-washing prohibition
+  summary: Yarn is not to be washed downward because this is said to make it grey.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Michaelmas Eve locking against theft
+  summary: Keeping everything under lock and key on Michaelmas Eve is said to prevent
+    thieves from doing harm that year.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Domestic prosperity rites for newly acquired livestock
+  taxonomy_refs: []
+  basis: The passage prescribes feeding an acquired animal from an earthfast stone,
+    tying tail hairs in the stall, and transferring old stable material to new stalls
+    so that livestock thrive.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage lists local superstitions without explaining the mechanism
+    or broader mythic context.
+- id: motif:2
+  label: Threshold passage of livestock through a tree for thriving
+  taxonomy_refs: []
+  basis: A large fir is set at the cattle-house door so the livestock pass through
+    it the first time.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The exact OCR wording is imperfect, and the function is only given in
+    practical terms of livestock thriving.
+- id: motif:3
+  label: Apotropaic crossing of completed work
+  taxonomy_refs: []
+  basis: The passage states that the sign of the cross is made over all finished work.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No specific threat or intended effect is stated in the passage.
+- id: motif:4
+  label: Seasonal agricultural omen from successful festival action
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Skiing without falling on Shrove Tuesday is said to predict long flax in
+    that year.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames the rule as a superstition rather than a mythic narrative;
+    the seasonal-cycle taxonomy is a broad functional fit.
+- id: motif:5
+  label: Calendar-night locking to avert theft
+  taxonomy_refs: []
+  basis: If everything is under lock and key on Michaelmas Eve, thieves are said not
+    to do harm that year.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only the rule and result, without narrative or ritual
+    explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29052-29054; item 81
+  quote_or_summary: If one acquires a horse or other creature, it should eat from
+    an earthfast stone so that it thrives; some tail hairs are tied up in the stall
+    for the same reason.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:2
+  type: summary
+  locator: lines 29056-29060; item 82
+  quote_or_summary: When acquiring a homestead, a little material is taken from the
+    old stable and cattle-house and put in each new stall or cattle-place so that
+    livestock thrive; a large fir is placed at the cattle-house door for the livestock
+    to pass through the first time.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:3
+  type: quote
+  locator: lines 29062-29063; item 83
+  quote_or_summary: "“all finished work has the sign of the cross made over it”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: public domain; short quotation from supplied passage
+- id: ev:4
+  type: summary
+  locator: lines 29065-29067; item 84
+  quote_or_summary: On Shrove Tuesday, if a person goes skiing and manages without
+    falling, the year's flax will be long.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:5
+  type: summary
+  locator: lines 29069-29070; item 85
+  quote_or_summary: Yarn must not be washed downward, because then it becomes grey.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:6
+  type: summary
+  locator: lines 29072-29073; item 86
+  quote_or_summary: If everything is under lock and key on Michaelmas Eve, thieves
+    will do no harm that year.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: public domain; summarized from supplied passage
+- id: ev:7
+  type: summary
+  locator: line 29074; item 87, incomplete
+  quote_or_summary: The next item begins with a condition about a grain or other object
+    being found under the table, but the supplied passage cuts off before the result.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: public domain; summarized from supplied passage
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The supplied passage is a list of superstitions, not a mythic narrative.
+    Several OCR forms are noisy, and item 87 is incomplete; motif labels are therefore
+    functional and provisional.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare these superstitions with another tradition or named motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l29052-l29074
+  passage_sha256=8802da3cf352ee2715832e7b4c29d9fcbe5bb93bdf3ab0658f8c9156b20c3afc
+

@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l33887-l33897
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION XCV / SECTION XCVI / SECTION XCVII / SECTION XCVIII; lines 33887-33897
+  start: '33887'
+  end: '33897'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage preserves the end of Sakra's speech, including a rule-like
+    fragment about persons not to be attacked, Sakra's claim that he became chief
+    of the celestials after slaying named sons of Diti and Danu in battle, and Bhishma's
+    statement that Amvarisha understood how warriors attain heavenly beatitude through
+    battle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage fragment lists persons or beings not to be attacked, including
+    one flying away, one holding a straw in his lips, and one saying, "I am thine."
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sakra states that he slew named opponents in battle, including Jambha, Vritra,
+    Vala, Paka, Satamaya, Virochana, Namuchi, Samvara, Viprachitti, and Prahlada.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sakra identifies the slain opponents collectively as sons of Diti and Danu.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sakra says that after these battle-slaughters he became chief of the celestials.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Bhishma says that king Amvarisha heard and approved Sakra's words and understood
+    that warriors can attain heavenly regions of beatitude by means of battle.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Sakra
+  description: Speaker who claims to have slain named sons of Diti and Danu in battle
+    and to have become chief of the celestials.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Bhishma
+  description: Narrator who continues the account and reports Amvarisha's understanding
+    of Sakra's words.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: King Amvarisha
+  description: King who hears and approves Sakra's words and comprehends how warriors
+    attain heavenly beatitude by battle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Sons of Diti and Danu
+  description: 'Collective group identified with the named beings slain by Sakra:
+    Jambha, Vritra, Vala, Paka, Satamaya, Virochana, Namuchi, Samvara, Viprachitti,
+    and Prahlada.'
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: battle victor
+  assigned_to:
+  - fig:1
+  basis: Sakra says he slew multiple named opponents in battle.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: chief of the celestials
+  assigned_to:
+  - fig:1
+  basis: Sakra says he became chief of the celestials.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: narrator of teaching
+  assigned_to:
+  - fig:2
+  basis: Bhishma continues the account and reports the meaning Amvarisha drew from
+    Sakra's words.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: royal hearer who comprehends
+  assigned_to:
+  - fig:3
+  basis: Amvarisha hears Sakra's words, approves them, and comprehends the warrior
+    teaching.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: slain battle opponents
+  assigned_to:
+  - fig:4
+  basis: The named sons of Diti and Danu are described as slain by Sakra in battle.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: straw in lips
+  literal_form: A straw held in the lips
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: heavenly regions of beatitude
+  literal_form: Regions of beatitude in heaven
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sakra recounts victory and celestial rank
+  summary: Sakra states that he slew named sons of Diti and Danu in battle and thereby
+    became chief of the celestials.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Amvarisha understands the warrior path to heaven
+  summary: Bhishma reports that Amvarisha, after hearing and approving Sakra's words,
+    understands that warriors attain heavenly beatitude by battle.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: warrior attainment of heaven through battle
+  taxonomy_refs:
+  - ascent
+  basis: Bhishma explicitly states that Amvarisha understood warriors to win regions
+    of beatitude in heaven through battle.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage speaks of heavenly attainment but does not describe a detailed
+    ascent or journey.
+- id: motif:2
+  label: divine rulership won through battle victory
+  taxonomy_refs: []
+  basis: Sakra says that after slaying named opponents in battle he became chief of
+    the celestials.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states a causal sequence but does not elaborate a full enthronement
+    or kingship myth.
+- id: motif:3
+  label: merciful restraint toward vulnerable or surrendering persons
+  taxonomy_refs: []
+  basis: The passage fragment names categories of persons not to be attacked, including
+    one fleeing, one holding straw in his lips, and one saying, "I am thine."
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The opening is fragmentary, and the passage does not fully preserve the
+    surrounding rule or context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 33887-33889
+  quote_or_summary: '"not one that is flying away; nor one that holds a straw in his
+    lips; nor one that says, \"I am thine.\""'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 33889-33894
+  quote_or_summary: Sakra says he slew Jambha, Vritra, Vala, Paka, Satamaya, Virochana,
+    Namuchi, Samvara, Viprachitti, and Prahlada, described as sons of Diti and Danu,
+    and that he became chief of the celestials.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 33896-33897
+  quote_or_summary: Bhishma reports that Amvarisha heard and approved Sakra's words
+    and understood how warriors succeed by battle in winning heavenly regions of beatitude.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and begins mid-sentence, so the restraint rule is contextually
+    incomplete. The battle-to-heaven teaching and Sakra's victory claim are explicit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l33887-l33897
+  passage_sha256=4265bd238e1165c3ee8155a3371efd922e22775473f459513ce247e2379d5cfa
+

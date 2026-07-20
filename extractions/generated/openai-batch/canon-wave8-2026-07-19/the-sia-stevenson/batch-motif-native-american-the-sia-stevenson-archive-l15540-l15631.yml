@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l15540-l15631
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: HOUSEHOLD UTENSILS. / SWEAT HOUSES. / HOUSEHOLD UTENSILS, ETC. / TURNER!
+    TRANSPORTATION BY WATER. 305; lines 15540-15631
+  start: '15540'
+  end: '15631'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes practical transport technologies: carrying and repairing
+    birch-bark canoes during travel, the importance of the canoe for subsistence,
+    paddle forms and repair methods using gum, bark, and fire, and the construction
+    and use of large snow sleds or toboggans.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A canoe is carried overland by a porter using a forehead piece attached to
+    the canoe sides with thongs to keep it from slipping from the shoulders.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The porter may take long detours over rough, uneven ground while the rest
+    of the party takes a shorter path to the place where the canoe will be put back
+    in the water.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pieces of bark, root threads, and gum are listed as necessary equipment for
+    repairing canoe damage from stones or snags.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The birch-bark canoe is described as highly necessary for obtaining a living,
+    more necessary than the sled and nearly as useful as the snowshoe.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Canoe paddles are described with measurements, and a separate flattened spoon-shaped
+    paddle is used to apply gum and grease to canoe seams.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Canoe repairs involve heating gum, pouring or pressing it into seams, using
+    fire to heat wax, and pressing a bark patch over a rent.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Large sleds called ti-bas-kun, equated with toboggans, are used for carrying
+    loads over snow and vary greatly in size according to use.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Toboggans are made from selected tree boards that are dressed, shaved, heated
+    or steamed, bent into a front curve, and fastened with transverse bars and thongs.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: canoe porter
+  description: A person carrying the canoe overland with support from a forehead piece
+    and thongs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: traveling party
+  description: The rest of the party traveling by a shorter path to the place where
+    the canoe will be placed again in the water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Indigenous people of the region
+  description: The group described as using birch-bark canoes and large sleds or toboggans
+    for transport and subsistence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: porter
+  assigned_to:
+  - fig:1
+  basis: The passage describes the porter carrying the canoe through narrow pathways
+    and rough ground.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: traveling companions
+  assigned_to:
+  - fig:2
+  basis: The passage says the rest of the party may take a shorter path while the
+    porter carries the canoe.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: transport technology users
+  assigned_to:
+  - fig:3
+  basis: The passage describes the group as relying on birch-bark canoes and using
+    large sleds for loads over snow.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: birch-bark canoe
+  literal_form: Birch-bark canoe used for water travel, portage, and subsistence.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: water
+  literal_form: Water where the canoe is placed again for travel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fire
+  literal_form: Fire made to heat wax or gum during canoe repair.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: tree
+  literal_form: A selected tree from which boards are hewed or split for toboggan
+    construction.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: toboggan
+  literal_form: Large sled used to carry loads over snow.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: canoe portage through rough terrain
+  summary: A porter carries a canoe overland with a forehead support while the rest
+    of the party may travel by a shorter path to the next water point.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: canoe maintenance and repair
+  summary: Travel equipment includes bark, root threads, and gum for repairs; heated
+    gum, fire, and bark patches are used to mend canoe seams and fractures.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: snow-load sled use and construction
+  summary: Large toboggan-like sleds are used for carrying loads over snow and are
+    constructed from selected tree boards, shaped with heat, bars, and thongs.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15540-15548
+  quote_or_summary: A forehead piece attached to the canoe sides by thongs helps a
+    porter carry the canoe through narrow paths; rough terrain may require detours
+    while the party takes a shorter route to the next water placement.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 15549-15552
+  quote_or_summary: Pieces of bark, root threads, and gum are named as necessary canoe-trip
+    equipment for repairing damage from stones or snags.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 15553-15555
+  quote_or_summary: The birch-bark canoe is described as essential for obtaining a
+    living, more necessary than the sled and nearly as useful as the snowshoe.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 15556-15573
+  quote_or_summary: The passage describes paddle dimensions, a flattened spoon-like
+    paddle for applying gum and grease to seams, and repair work using heated gum,
+    fire, wax, and bark patches.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 15576-15581
+  quote_or_summary: Large sleds called ti-bas-kun, equated with toboggans, are used
+    by all the Indigenous people of the region for carrying loads over snow and differ
+    in size according to use.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 15582-15631
+  quote_or_summary: A tree is selected; boards are hewed or split, dressed, shaved,
+    heated or steamed, bent into a curved front, and fastened with bars and thongs
+    to make the sled.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a technical ethnographic description of transport objects
+    and repair methods. Literal extraction is moderately secure despite OCR noise;
+    no mythological motif or passage-supported comparison is identified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythology motifs or comparison claims were extracted from this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l15540-l15631
+  passage_sha256=132da4c7b82d49c4abbe4f9fd5d83e54e578dc319f4d5fa969c430c2c2c9f919
+

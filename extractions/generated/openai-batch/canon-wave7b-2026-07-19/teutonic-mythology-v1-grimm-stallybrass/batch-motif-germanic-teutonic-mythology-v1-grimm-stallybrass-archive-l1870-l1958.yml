@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l1870-l1958
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: GOD.  27 / PRAYER,  '31 / TEAYEK.  33 / SACKIFICE.  35; lines 1870-1958
+  start: '1870'
+  end: '1958'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"The oldest term ... for the notion ''to worship (God) by sacrifice,'' was
+    hloian"'
+  summary: The passage surveys vocabulary for sacrifice and worship in Germanic and
+    neighboring languages. It distinguishes the Christian loanword opfer from older
+    Germanic forms such as hlotan/blotan/pluozan/blota, gives Gothic, Old English,
+    Old High German, and Old Norse examples, and includes a footnote on medieval expressions
+    for mock-piety.
+  language: English with cited Germanic, Latin, Greek, and other language forms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that German opfer was introduced by Christianity from Latin
+    offero/offere, and that older heathen terms disappeared.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies an older widely spread term for worship by sacrifice
+    as hlotan/blotan and compares its sense to Greek thuein.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the Gothic example, blotan fraujan is glossed as worshipping God, apparently
+    without necessary reference to bloody sacrifice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Old English examples are described as using the verb with the thing sacrificed
+    and the person receiving it, including sacrificing a son and offering a gift or
+    host to God.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Old High German pluozan and related nouns are said to render terms for libation,
+    sacrifice, victim-offering, immolation, sacrificial offering, sacrificial house,
+    shrine, and sacrificer.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says the Old High German vocabulary has a heathen look, was not
+    then used for Christian worship, and died out with the practice.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Old Norse blota is said to take the object worshipped, and examples include
+    worship of Thor and Odin and a formula contrasting Christians seeking churches
+    with heathens worshipping hofs.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A footnote lists medieval expressions for mock-piety or hypocrisy that describe
+    eating, biting, or praying off the feet of God or saints.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God / Lord
+  description: Named or implied as fraujan, Gode, Deum, Herrgott, or God in examples
+    of worship, offering, and mock-piety expressions.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Saints
+  description: Mentioned in expressions about praying or licking saints' feet as part
+    of mock-piety phraseology.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Thor
+  description: Named in an Old Norse example as an object of blota.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Odin
+  description: Named in an Old Norse example as an object of blota.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Christian men
+  description: Mentioned in an Old Norse legal formula as people who seek churches.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Heathen men
+  description: Mentioned in the same formula as people who worship hofs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: A son
+  description: Appears in the cited Old English example blotan sunu, glossed as sacrificing
+    a son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: worshipped figure or cult object
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  basis: The passage gives examples in which the verb for sacrificial worship takes
+    God, Thor, or Odin as its object.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: recipient of offering
+  assigned_to:
+  - fig:1
+  basis: The Old English example is glossed as offering a host or gift to God.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: worshipping group
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The Old Norse formula contrasts Christian men seeking churches with heathen
+    men worshipping hofs.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: sacrificial victim or offered person in cited example
+  assigned_to:
+  - fig:7
+  basis: The passage glosses blotan sunu as filium sacrificare, sacrificing a son.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: figure in mock-piety expression
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The footnote lists sayings about biting, eating, or praying off the feet
+    of God or saints.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sacrificial offering
+  literal_form: lac, hostia, immolata, victimare, immolare, and related terms for
+    offering or victim in the cited examples
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: worship sites
+  literal_form: churches/kirkior and hof/fana/fanum/pluostarhus as cult places or
+    shrines
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: feet in mock-piety phraseology
+  literal_form: feet of God or saints, described as eaten, bitten, or prayed off in
+    satirical expressions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Replacement of sacrifice vocabulary
+  summary: The passage describes opfer as a Christian Latin-derived term that enters
+    German and neighboring languages while older heathen terms disappear.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Germanic sacrificial worship terminology
+  summary: Older Germanic verbs for worship by sacrifice are described through Gothic,
+    Old English, and Old High German examples, including worship of God, offering
+    to God, and a sacrificed son in a cited example.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Old Norse cult formula and deity examples
+  summary: Old Norse blota is illustrated by a formula contrasting Christian church
+    attendance with heathen hof-worship and by Edda examples naming Thor and Odin
+    as objects of worship.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Mock-piety sayings
+  summary: A footnote records satirical medieval expressions that depict hypocritical
+    piety as consuming or wearing down the feet of God or saints.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Worship by sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly defines the older term as meaning worship by sacrifice
+    and surveys examples across Germanic languages.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is a philological discussion rather than a mythic narrative
+    episode.
+- id: motif:2
+  label: Offering to a divine recipient
+  taxonomy_refs:
+  - sacrifice
+  basis: The Old English cited example describes an offering or host given to God,
+    and other examples treat deities as objects of sacrificial worship.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The cited examples are used to illustrate grammar and semantics; no full
+    ritual narrative is supplied.
+- id: motif:3
+  label: Satirical excess of piety
+  taxonomy_refs: []
+  basis: The footnote records expressions that mock hypocrisy by depicting devotees
+    as eating, biting, or praying off divine or saintly feet.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: This is phraseological evidence, not a ritual or mythic motif in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats hlotan/blotan/pluozan/blota and related forms as semantically
+    comparable Germanic vocabulary for sacrificial worship across Gothic, Old English,
+    Old High German, and Old Norse.
+  claim_level: linguistic_similarity
+  target: Germanic sacrifice and worship vocabulary
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is linguistic and semantic; the passage does not provide
+    independent ritual descriptions for every language cited.
+- id: claim:2
+  claim: The passage attributes German opfer and related neighboring forms to Christian
+    Latin offering vocabulary rather than to older heathen terminology.
+  claim_level: historical_contact
+  target: Latin Christian offerre/offerta and Germanic or neighboring sacrifice terms
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: For neighboring languages the passage uses cautious wording, saying
+    the expression seems to have spread from Germany.
+- id: claim:3
+  claim: The passage compares the sense of the older Germanic term for sacrificial
+    worship with Greek thuein.
+  claim_level: same_function
+  target: Greek thuein as a term for sacrificial worship
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only semantic comparison is asserted; no shared origin or historical
+    contact is claimed.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1870-1958; Sacrifice opening discussion of opfer
+  quote_or_summary: German opfer is described as introduced by Christianity from Latin
+    offero/offerre; related forms are listed in neighboring languages, and original
+    heathen terms are said to have disappeared.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1870-1958; paragraph beginning 'The oldest term'
+  quote_or_summary: '"The oldest term, and one universally spread, for the notion
+    ''to worship (God) by sacrifice,'' was hloian"; the author adds that he inclines
+    to attach to it the full sense of Greek thuein.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1870-1958; discussion of Ulphilas and Gothic usage
+  quote_or_summary: Ulphilas uses the verb for worship/service; blotan fraujan is
+    glossed as Deum colere, apparently without thought of bloody sacrifice.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1870-1958; discussion of Cædmon and Old English usage
+  quote_or_summary: Cædmon is said to use blotan/onblotan for Jewish sacrifice, including
+    examples glossed as sacrificing a son and offering a host or gift to God.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1870-1958; Old High German gloss discussion
+  quote_or_summary: Old High German pluozan and related nouns are listed for libare,
+    litare, victimare, immolare, sacrificium, sacrificial house, shrine, and sacrificer;
+    the passage says these words have a heathen look and die out with the thing.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1870-1958; Old Norse blota discussion
+  quote_or_summary: Old Norse blota is said to take an accusative object of worship.
+    A formula contrasts Christian men seeking churches with heathen men worshipping
+    hofs, and Edda examples include Thor and Odin as objects of blota.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1870-1958; footnote on mock-piety
+  quote_or_summary: The footnote says medieval mock-piety was branded by expressions
+    about eating or biting God's feet off, praying the saints' feet off, and comparable
+    phrases such as licker of saints.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily philological and contains OCR-distorted language
+    forms; motif extraction is limited to explicit sacrificial-worship and phraseological
+    patterns in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy references were limited to the supplied motif families; no supplied symbol taxonomy item was directly attested.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l1870-l1958
+  passage_sha256=5ef3bb2078365e1d4dcfe4ed1a9e4cebaee598904dae4ab631caaf0539f2f7ec
+

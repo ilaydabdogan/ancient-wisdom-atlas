@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l52785-l52790
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCLXXVII / SECTION CCLXXVIII / SECTION CCLXXIX / SECTION CCLXXX;
+    lines 52785-52790
+  start: '52785'
+  end: '52790'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Usanas bows to a divine, illustrious, and powerful Being identified as
+    Vishnu, describes him as holding the earth and firmament in his arms, and says
+    that Vishnu's head is the Infinite place called Emancipation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Usanas speaks and says that he bows to a divine, illustrious, and puissant
+    Being.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Being is described as holding the earth with the firmament in his arms.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Usanas says he will speak of the pre-eminent greatness of Vishnu.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Vishnu's head is identified as the Infinite place called Emancipation.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speech is addressed to someone called the best of the Danavas.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Usanas
+  description: Speaker who bows and says he will speak about Vishnu's greatness.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Vishnu
+  description: Divine and puissant Being whose greatness Usanas praises; described
+    as holding earth and firmament and having Emancipation as his head.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: best of the Danavas
+  description: Unidentified addressee of Usanas's speech.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: speaker
+  assigned_to:
+  - fig:1
+  basis: The passage introduces the statement with “Usanas said.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: devotional praiser
+  assigned_to:
+  - fig:1
+  basis: Usanas says he bows to the divine Being and will speak of Vishnu's greatness.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: praised divine being
+  assigned_to:
+  - fig:2
+  basis: Vishnu is the subject of Usanas's praise and is called divine, illustrious,
+    and puissant.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: cosmic supporter
+  assigned_to:
+  - fig:2
+  basis: The Being identified with Vishnu is described as holding the earth and firmament
+    in his arms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: addressee
+  assigned_to:
+  - fig:3
+  basis: Usanas addresses the statement to “O best of the Danavas.”
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: earth and firmament held in arms
+  literal_form: earth with the firmament held in the Being's arms
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: head as Infinite place called Emancipation
+  literal_form: Vishnu's head identified with the Infinite place called Emancipation
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Usanas praises Vishnu's cosmic greatness
+  summary: Usanas bows to a divine Being, addresses the best of the Danavas, and announces
+    that he will speak of Vishnu's greatness, describing Vishnu in cosmic terms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: deity holding earth and sky
+  taxonomy_refs: []
+  basis: The praised Being is described as holding the earth and firmament in his
+    arms.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage provides only a brief praise-formula and does not narrate
+    a full mythic episode.
+- id: motif:2
+  label: cosmic body as locus of emancipation
+  taxonomy_refs: []
+  basis: Vishnu's head is identified with the Infinite place called Emancipation.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The identification is stated compactly; the passage does not elaborate
+    the metaphysical structure.
+- id: motif:3
+  label: sage or divine speaker instructing an asura-linked addressee about deity's
+    greatness
+  taxonomy_refs:
+  - wisdom
+  basis: Usanas says he will speak to the best of the Danavas about Vishnu's pre-eminent
+    greatness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the excerpt contains the announcement
+    of teaching rather than the full teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 52785-52788
+  quote_or_summary: "“Usanas said, 'I bow to that divine and illustrious and puissant
+    Being”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 52787-52788
+  quote_or_summary: "“who holds this earth with the firmament in his arms.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 52788-52790
+  quote_or_summary: "“I shall speak to thee of the pre-eminent greatness of that Vishnu”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 52789-52790
+  quote_or_summary: "“whose head, O best of the Danavas, is that Infinite place (called
+    Emancipation).”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a short devotional/metaphysical statement rather than a narrative
+    episode. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l52785-l52790
+  passage_sha256=be757f27b022a856565b5cc0b6914d8ae2304e2c70f8c922dbdf11101684b86e
+

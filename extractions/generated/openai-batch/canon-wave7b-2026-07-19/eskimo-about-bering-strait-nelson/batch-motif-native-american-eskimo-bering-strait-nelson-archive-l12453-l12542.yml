@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l12453-l12542
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: EIGHTEENTH   ANNUAL   REPORT      PL.    LXXIII / MAELISTSPIKES / KEELS /
+    FISH   SPEARS; lines 12453-12542
+  start: '12453'
+  end: '12542'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes fall fishing through ice holes, several regional
+    forms of fish spears with bone, deerhorn, ivory, barbed, multipoint, or detachable
+    heads, and a lower Yukon fish-shaped lure used to attract pickerel and large whitefish
+    within spear range.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In fall, holes are made in ice where the water is clear enough to see objects
+    below the surface, and fish are speared through the holes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Whitefish and pickerel are obtained in large quantities by spearing through
+    ice holes.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A St. Michael fish spear has a wooden shaft about six feet long, a sharp deerhorn
+    central point, surrounding triangular deerhorn sidepieces, lashings, and a wooden
+    crossbar.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the St. Michael spear strikes a fish with its central point, the sidepieces
+    spread slightly, grasp the fish with their inner edges, and hold it while it is
+    drawn from the water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Other described spear forms include barbed central points, two reindeer-horn
+    points, a short-handled single-barb spear, and Nunivak Island heads with multiple
+    surrounding points.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Some salmon and whitefish spears from the lower Kuskokwim northward to Kotzebue
+    Sound use large bone, deerhorn, or ivory points with one to three barbs and a
+    cord attachment near the butt.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: For some spears, the barbed point is fitted into a long wooden shaft and tied
+    to a sealskin line; after the fish is struck, the shaft detaches and the fish
+    is hauled ashore by the line.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: These spears are intended for large fish in streams and tributaries, and are
+    sometimes also used for spearing white whales.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Lower Yukon fishers use a well-fashioned fish figure about six or seven inches
+    long, suspended by sinew cords, to attract pickerel and large whitefish while
+    fishing through ice holes.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The fisherman dangles the fish image below the water surface and holds a spear
+    ready; fish rush at the lure and are speared.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eskimo fishers of the lower Yukon and surrounding regions
+  description: People described as making holes in ice, standing over the holes, holding
+    spears, and using fish-shaped lures or spears to take fish.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Whitefish, pickerel, salmon, and other large fish
+  description: Fish taken by spearing through ice holes, in streams, or in tributaries;
+    pickerel and large whitefish are attracted to the fish-shaped lure.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: White whales
+  description: Animals sometimes speared with the described spear points, according
+    to the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: spear fisher
+  assigned_to:
+  - fig:1
+  basis: The passage describes fishers making ice holes, holding spears, using lines,
+    and dangling a fish-shaped lure before thrusting at fish.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:2
+  label: speared target animal
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Fish are repeatedly described as being speared, and white whales are noted
+    as occasional targets for the same spear points.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: lure-attracted fish
+  assigned_to:
+  - fig:2
+  basis: Pickerel and large whitefish are said to rush at the dangling fish image
+    and are then speared.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: clear water under ice
+  literal_form: Water visible below holes cut in the ice
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ice fishing hole
+  literal_form: Hole made in fall ice above clear water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: multipoint fish spear
+  literal_form: Wooden shaft with deerhorn, bone, reindeer-horn, or ivory points,
+    often barbed or arranged around a central point
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: detachable barbed spear point and line
+  literal_form: Barbed point fitted into a wooden shaft and attached to a sealskin
+    or rawhide line for hauling a struck fish ashore
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: fish-shaped lure image
+  literal_form: Small carved fish figure with etched eyes, gill openings, scales,
+    and lateral line, suspended by sinew cords
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Spearing fish through clear ice holes
+  summary: In fall, fishers cut holes in ice over clear water and spear visible fish
+    below the surface, obtaining whitefish and pickerel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Multipoint spear grips a struck fish
+  summary: A spear with a central deerhorn point and surrounding sidepieces strikes
+    a fish; the sidepieces spread and hold the fish until it can be drawn from the
+    water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Detachable barbed point with retrieval line
+  summary: A barbed point attached to a line is inserted into a long shaft; when a
+    fish is struck, the shaft detaches and the fish is hauled ashore by the line.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Fish-shaped lure under the ice
+  summary: A fisherman stands over an ice hole, dangles a fish-shaped image below
+    the water surface, and spears fish that rush at the lure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Fishing through ice holes with a spear
+  taxonomy_refs: []
+  basis: The passage explicitly describes fall ice-hole fishing in clear water, with
+    fish speared through the holes.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is presented as practical subsistence technology, not as a mythic
+    or ritual motif in the passage.
+- id: motif:2
+  label: Barbed or multipoint spear securing prey
+  taxonomy_refs: []
+  basis: Several spear forms use barbed, central, surrounding, or grasping points
+    to hold fish after impact.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is an artifact-and-action pattern; the passage gives no symbolic
+    interpretation.
+- id: motif:3
+  label: Imitative fish image used as lure
+  taxonomy_refs: []
+  basis: A small fish figure with etched anatomical details is suspended below the
+    ice to attract pickerel and large whitefish within spear range.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The image is described as a lure; no ritual, mythic, or supernatural function
+    is stated.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage presents multiple regional fish spear variants as sharing a
+    similar practical function: securing fish with barbed, multipoint, or detachable
+    spear heads.'
+  claim_level: same_function
+  target: Fish spear forms from St. Michael, Kazbinsky, lower Yukon, Nunivak Island,
+    Norton Sound, Kowak River, Chalitinut, Agiukchugumut, and the lower Kuskokwim-to-Kotzebue
+    Sound region
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison of artifact function within the passage;
+    it does not support claims of historical contact, common inheritance, or mythological
+    equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12453-12542; opening paragraph under 'FISH SPEARS'
+  quote_or_summary: In fall, holes are made in clear ice-covered water; fish are speared
+    through the holes, yielding whitefish and pickerel.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12453-12542; paragraph beginning 'Figure 3, plate LXVII'
+  quote_or_summary: A St. Michael spear has a six-foot wooden shaft, deerhorn central
+    point, triangular sidepieces, lashings, and a crossbar; when a fish is struck,
+    the sidepieces spread and grasp it until removal from the water.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12453-12542; paragraphs describing Kazbinsky, lower Yukon, and Nunivak
+    Island spear examples
+  quote_or_summary: The passage lists several spear variants, including barbed central
+    points, reindeer-horn points, single-barb short-handle spears, and Nunivak Island
+    examples with multiple points around a central point.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12453-12542; paragraph beginning 'From the lower Kuskokwiin northward'
+  quote_or_summary: Spears used for salmon and whitefish have large bone, deerhorn,
+    or ivory points with one to three barbs, a cord attachment, a long shaft, and
+    a sealskin line; after impact the shaft detaches and the fish is hauled ashore.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12453-12542; paragraph beginning 'The points of these spears vary'
+  quote_or_summary: The points are intended for capturing large fish in streams and
+    tributaries, and are sometimes used for spearing white whales.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12453-12542; final paragraph beginning 'To attract pickerel'
+  quote_or_summary: Lower Yukon fishers use a carved fish figure with cord holes and
+    etched features; the fisherman dangles it below the water surface while holding
+    a spear ready, and fish rush at the lure and are speared.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12453-12542; paragraph listing Norton Sound, Kowak River, Chalitinut,
+    and Agiukchugumut point examples
+  quote_or_summary: Additional bone and deerhorn spear points from Norton Sound, Kowak
+    River, Chalitinut, and Agiukchugumut vary in form and number of barbs, with some
+    having rawhide line or lashings.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal artifact and fishing-practice extraction is well supported. Motif
+    candidates and comparison claims are limited to practical material-culture patterns
+    because the passage provides no mythic, ritual, or supernatural interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available mythic motif-family taxonomy refs are directly supported by this passage. The only available symbol taxonomy ref used is literal water, present as clear water below ice holes.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l12453-l12542
+  passage_sha256=8b6de9bb44894dce06817c731e78c7e3d00dc9ea09ce7b869b9465b2935aff70
+

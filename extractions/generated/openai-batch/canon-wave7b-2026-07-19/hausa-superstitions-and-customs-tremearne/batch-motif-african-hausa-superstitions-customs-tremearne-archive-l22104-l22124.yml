@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l22104-l22124
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: LXXI  I. / LXXIII. / NOTES   ON   THE   TALES  501 / LXXIV.; lines 22104-22124
+  start: '22104'
+  end: '22124'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A set of explanatory notes to a tale: one note says a mother apparently
+    went away and left a male figure; another explains a wordplay involving terms
+    for mouth, ear/leaf, and eye; another clarifies that a baby made a creditor stop
+    and then got down; another interprets a reference as meaning learned men; and
+    a final note describes very large flat leaves like a water-lily.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A mother is said to have apparently gone away and left a male figure behind.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note glosses a phrase as referring to people whose utterances have weight.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The story is described as a play upon words involving ba(i)ki, ku(n)ne, and
+    ido, with meanings connected to mouth, ear or leaf, and eye.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A baby was being carried by a creditor; the explanatory note says the baby
+    made him stop and then got down.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note explains a reference as probably meaning learned men, connected with
+    reading, over-study, and insufficient nourishment.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A plant or object referred to as “it” is described as having very large flat
+    leaves like a water-lily.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: mother
+  description: The mother who apparently went away.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: male figure left behind
+  description: A male figure referred to only as “him,” whom the mother left.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: those whose utterances have weight
+  description: A group glossed as people whose utterances have weight.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: baby
+  description: The baby who, according to the note, made the creditor stop and got
+    down.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: creditor
+  description: The creditor who was carrying the baby.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: learned men
+  description: Men identified by the note as learned men, associated with much reading
+    or over-study and insufficient nourishment.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: departing mother
+  assigned_to:
+  - fig:1
+  basis: The mother apparently went away.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: person left behind
+  assigned_to:
+  - fig:2
+  basis: The mother left him.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: authoritative speakers
+  assigned_to:
+  - fig:3
+  basis: They are defined as those whose utterances have weight.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: agentive baby
+  assigned_to:
+  - fig:4
+  basis: The note says the baby made the creditor stop and then got down.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: creditor and carrier
+  assigned_to:
+  - fig:5
+  basis: The creditor was carrying the baby.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: learned men
+  assigned_to:
+  - fig:6
+  basis: The note says the reference probably means learned men.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mouth as wordplay term
+  literal_form: ba(i)ki, “mouth,” used in both senses according to the note.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ear or leaf as wordplay term
+  literal_form: ku(n)ne means “ear” or “leaf.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: eye as wordplay term
+  literal_form: ido has multiple equivalents besides “eye.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: large flat leaves
+  literal_form: Very large flat leaves like a water-lily.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: mother leaves male figure
+  summary: The note states that the mother apparently went away and left him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: wordplay explanation
+  summary: The note explains a story as a play on words involving terms for mouth,
+    ear or leaf, and eye, and a phrase about utterances having weight.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: baby stops creditor
+  summary: The note clarifies that the baby made the creditor who was carrying him
+    stop, and then the baby got down.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: learned men explanation
+  summary: The note interprets a reference as meaning learned men, probably through
+    much reading or over-study with insufficient nourishment.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: large flat leaves described
+  summary: The note describes something as having very large flat leaves like a water-lily.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mother leaves child or male figure behind
+  taxonomy_refs: []
+  basis: The passage says the mother apparently went away and left him.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is an isolated explanatory note and does not give the surrounding
+    tale context or identify the figure left behind.
+- id: motif:2
+  label: baby compels adult carrier to stop
+  taxonomy_refs:
+  - miraculous_child
+  basis: The note says the baby made the creditor stop and then got down while the
+    creditor was carrying him.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The note implies unusual agency for a baby, but it does not explicitly
+    call the event miraculous.
+- id: motif:3
+  label: wordplay on body-part terms
+  taxonomy_refs: []
+  basis: The passage explicitly says the story is a play upon words involving terms
+    for mouth, ear or leaf, and eye.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a linguistic pattern in the note rather than a fully described
+    narrative motif.
+- id: motif:4
+  label: learning associated with over-study and insufficient nourishment
+  taxonomy_refs:
+  - wisdom
+  basis: The note interprets a reference as meaning learned men and connects this
+    with much reading or over-study and insufficient nourishment.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The broader narrative function is not provided; the wisdom taxonomy reference
+    is only tentatively supported by the phrase “learned men.”
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly compares Hausa ba(i)ki, “mouth,” with the editor’s own
+    language usage, saying it is used in both senses “as with us.”
+  claim_level: linguistic_similarity
+  target: English or the editor’s own idiomatic use of “mouth” in two senses
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to a single lexical observation in an editorial
+    note and does not establish broader mythic or historical connection.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22104-22107
+  quote_or_summary: "“And the mother apparently went away, and left him.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: 22108-22114
+  quote_or_summary: 'The note says the phrase means those whose utterances have weight,
+    and explains the story as wordplay: ba(i)ki means “mouth,” ku(n)ne means “ear”
+    or “leaf,” and ido has several equivalents besides “eye.”'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized with minimal quotation.
+- id: ev:3
+  type: summary
+  locator: 22115-22118
+  quote_or_summary: The note says the baby could hardly stop while the creditor was
+    carrying him, and clarifies that the baby made the creditor stop and then got
+    down.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 22119-22122
+  quote_or_summary: The note explains a reference as probably meaning learned men,
+    either through much reading or through over-study and insufficient nourishment.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 22123-22124
+  quote_or_summary: "“It has very large flat leaves like a water-lily.”"
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage consists of brief explanatory notes rather than a continuous
+    tale, so literal extraction is fairly secure but motif assignments are tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional comparisons or taxonomy identifiers were added beyond what the supplied passage and available taxonomy list support.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l22104-l22124
+  passage_sha256=7dbef251852a40dc9d80efc568eab0542f26499110a61dd89113503a7a5996eb
+

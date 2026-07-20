@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l5231-l5260
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: XXVIII.--THE BEAUTIFUL DAMSEL AND THE WICKED OLD WOMAN. / XXIX.--THE SNAKE
+    AND THE PRINCESS. / XXX.--TRANSFORMATION INTO A NIGHTINGALE AND A CUCKOO. / XXXI.--TRANSMIGRATION
+    OF THE SOUL.; lines 5231-5260
+  start: '5231'
+  end: '5260'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman finds that food left in her stove is repeatedly eaten while only
+    a baby remains in the house. A wise woman hides and sees the baby become a dwarfish
+    old man, eat the food, and turn back into a baby. After the wise woman places
+    him on a block and chops beneath his feet, he becomes an old man again and says
+    he has transformed through fish, bird, ant, quadruped, and human forms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman leaves food in the stove when she goes to the field; the food is taken
+    and eaten while a baby remains in the house in a cradle.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The woman brings a wise woman, who hides in a corner to watch while the woman
+    goes to the field.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The baby jumps out of the cradle and appears as a dwarfish old man with a
+    long beard.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old man pulls the food from the stove, screeches, eats it, and becomes
+    a baby again.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The wise woman places him on a block of wood and chops the block under his
+    feet while he screeches.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: He becomes an old man again and says he has transformed many times, naming
+    fish, bird, ant, quadruped, and human forms.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: He says being human is not better than being among ants, but also not worse
+    among human beings.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: certain woman
+  description: A woman who goes to the field and notices that food left in the stove
+    is being eaten in her absence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: baby / dwarfish old man
+  description: A being first seen as a baby in a cradle, later seen as a dwarfish
+    old man with a long beard, and described in his own speech as having transformed
+    through multiple forms.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: wise woman
+  description: A wise woman brought by the first woman; she hides, observes the transformation,
+    and intervenes by placing the being on a block of wood and chopping beneath him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: householder who observes missing food
+  assigned_to:
+  - fig:1
+  basis: She places food in the stove, finds it eaten, and seeks help from the wise
+    woman.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shapeshifting food-eater
+  assigned_to:
+  - fig:2
+  basis: The being changes from baby to old man, eats the food, changes back, and
+    later states that he has transformed through several forms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: wise investigator and intervener
+  assigned_to:
+  - fig:3
+  basis: She hides to watch, discovers the being's action, and acts against him with
+    the block of wood.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: cradle
+  literal_form: Baby's cradle in the house
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: stove with food
+  literal_form: Stove containing victuals
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: block of wood
+  literal_form: Block of wood placed under the being's feet and chopped by the wise
+    woman
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sequence of transformed forms
+  literal_form: Fish, bird, ant, quadruped, and human being
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Food disappears while the woman is in the field
+  summary: The woman leaves food in the stove and goes to the field; on returning,
+    she finds the food eaten and only a baby in the cradle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Wise woman witnesses the transformation
+  summary: The wise woman hides and sees the baby jump from the cradle, become a dwarfish
+    old man, take food from the stove, eat it, and become a baby again.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Intervention and confession of transformations
+  summary: The wise woman places the being on a block of wood and chops beneath his
+    feet; he becomes an old man and speaks of his earlier transformations through
+    animal and human forms.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Concealed shapeshifter in infant form
+  taxonomy_refs:
+  - shapeshifter
+  basis: A being appearing as a baby in a cradle changes into a dwarfish old man,
+    eats hidden food, and then becomes a baby again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents transformation directly, but does not explain the
+    being's origin.
+- id: motif:2
+  label: Successive transformation through animal and human forms
+  taxonomy_refs:
+  - shapeshifter
+  basis: The speaking figure states that he has transformed many times and names fish,
+    bird, ant, quadruped, and human forms.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The title names transmigration of the soul, but the body of the passage
+    states transformation rather than giving a doctrinal explanation of transmigration.
+- id: motif:3
+  label: Wise woman exposes hidden uncanny household intruder
+  taxonomy_refs:
+  - wisdom
+  basis: A wise woman is summoned, hides to watch, discovers the baby/old man's behavior,
+    and compels a response through her intervention.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The wisdom taxonomy link is broad; the passage does not present a formal
+    wisdom contest or teaching.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a shapeshifter motif-family pattern because one being alternates
+    between baby and old man forms and reports earlier animal and human transformations.
+  claim_level: same_motif
+  target: shapeshifter
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is limited to motif-family similarity; it does not imply
+    historical contact, common inheritance, or a specific tale-type identification.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5233-5244
+  quote_or_summary: A woman repeatedly finds food left in the stove eaten while only
+    a baby remains in the cradle; she summons a wise woman, who hides to watch.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5245-5247
+  quote_or_summary: '"the baby jumped out of the cradle! ... it was no more a baby,
+    but an old man. He was quite dwarfish, and his beard was long."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 5247-5251
+  quote_or_summary: The old man takes the victuals from the stove, screeches, gobbles
+    up the food, then becomes a baby again and screeches in the house.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5251-5254
+  quote_or_summary: The wise woman places him on a block of wood and chops the block
+    under his feet while he screeches.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 5254-5259
+  quote_or_summary: '"I have transformed myself not once nor twice only: I was first
+    a fish, then I became a bird, an ant, and a quadruped, and now ... a human being."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal actions and figures are clear in the passage. Motif taxonomy links
+    are limited to broad available categories, especially shapeshifter and wisdom.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or tale-type claims are made; comparison is limited to broad motif-family alignment supported by the passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l5231-l5260
+  passage_sha256=e5cd7864df245d9bcb0a6c5e7d9607a477b1e2a8a5b97e3be024d1e230ba783d
+

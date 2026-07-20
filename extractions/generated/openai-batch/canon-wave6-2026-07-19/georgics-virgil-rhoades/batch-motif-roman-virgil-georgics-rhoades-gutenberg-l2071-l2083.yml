@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.roman-virgil-georgics-rhoades-gutenberg-l2071-l2083
+source_text_path: texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md
+passage_locator:
+  label: THE GEORGICS / GEORGIC I / GEORGIC II / GEORGIC III; lines 2071-2083
+  start: '2071'
+  end: '2083'
+  translation: The Georgics
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a destructive feminine agent causing mass death among
+    animals, rotting carrion in stalls, human burial of carcasses in earth pits, the
+    uselessness and contamination of hides, flesh, fleeces, and woven materials, and
+    illness in a person who touches or tries the diseased material.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting includes rivers, parched banks, and sloping heights.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An unnamed feminine subject slaughters crowds of them and fills stalls with
+    rotting carrion-heaps.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Men learn to cover the dead with earth and hide them in pits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fells are useless, and the flesh cannot be purged with water or tamed
+    with fire.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fleeces are gnawed through with foul disease, and the putrid webs are
+    not to be touched.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A person who dares to try the loathly weeds develops red blisters and unclean
+    sweat before a fiery curse devours the tainted frame.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed feminine agent
+  description: A feminine subject, identified only as “she,” who slaughters and causes
+    stalls to be choked with carrion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: slaughtered animals or carcasses
+  description: The dead bodies appear as carrion-heaps in stalls, with useless fells,
+    flesh, fleeces, and diseased material.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: men who dispose of the dead
+  description: Men cover the dead with earth and hide them in pits.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: person who tries the loathly weeds
+  description: A person who dares to try the diseased material and is afflicted with
+    blisters, sweat, and a fiery curse.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: slaughtering destructive agent
+  assigned_to:
+  - fig:1
+  basis: The passage says the feminine subject slaughters them and chokes the stalls
+    with carrion-heaps.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: dead and contaminated victims
+  assigned_to:
+  - fig:2
+  basis: The bodies are described as rotting carrion, useless fells and flesh, diseased
+    fleeces, and putrid webs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: burial responders
+  assigned_to:
+  - fig:3
+  basis: Men cover the dead with earth and hide them in pits.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: afflicted handler of contaminated material
+  assigned_to:
+  - fig:4
+  basis: The person who tries the loathly weeds is overtaken by blisters, sweat, and
+    a fiery curse.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water mentioned as unable to purge the diseased flesh.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: fire
+  literal_form: Fire mentioned as unable to tame the flesh, and later as a fiery curse
+    that devours the tainted frame.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: earth pits
+  literal_form: Earth and pits used to cover and hide the dead.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: putrid webs and loathly weeds
+  literal_form: Diseased woven or garment-like material that is unsafe to touch or
+    try.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Parched landscape and mass slaughter
+  summary: The passage opens with rivers, dry banks, and heights, then describes a
+    feminine agent slaughtering many and filling stalls with rotting carrion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Disposal of contaminated carcasses
+  summary: Men respond by covering the dead with earth and hiding them in pits, while
+    the hides, flesh, fleeces, and webs remain useless or dangerous.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Affliction after contact with diseased material
+  summary: A person who tries the loathly weeds is overcome by blisters, sweat, and
+    a fiery destructive curse.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mass animal death and polluted carrion
+  taxonomy_refs: []
+  basis: The passage describes slaughter in crowds, stalls choked with rotting carrion,
+    and corruption requiring burial.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The antecedent of “she” and the exact kind of animals are not supplied
+    within this line range.
+- id: motif:2
+  label: burial or concealment of contaminated dead
+  taxonomy_refs: []
+  basis: Men cover the dead with earth and hide them in pits.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives disposal actions but does not state ritual intent.
+- id: motif:3
+  label: failed purification by water and fire
+  taxonomy_refs: []
+  basis: The diseased flesh cannot be purged with water or tamed with fire.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states failure of these agents, not a successful cleansing
+    rite.
+- id: motif:4
+  label: contact-contagion from diseased material
+  taxonomy_refs: []
+  basis: Touching or trying the putrid webs or loathly weeds leads to blisters, sweat,
+    and a fiery curse consuming the body.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The exact referent of “webs” and “weeds” should be checked against the
+    broader translation context.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison to a purification
+    pattern involving water and fire, but it presents both as ineffective against
+    the diseased flesh.
+  claim_level: same_function
+  target: purification by water and fire pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external text, tradition, historical contact, or explicit taxonomy
+    motif is named in the passage; the comparison is functional only.
+evidence:
+- id: ev:1
+  type: summary
+  locator: '2071'
+  quote_or_summary: The scene includes rivers, parched banks, and sloping heights.
+  source_text_path: texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2072-2075
+  quote_or_summary: A feminine subject slaughters many, stalls are filled with rotting
+    carrion-heaps, and men cover the dead with earth and hide them in pits.
+  source_text_path: texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2076-2080
+  quote_or_summary: The fells are useless; flesh cannot be cleansed with water or
+    fire; fleeces are diseased; putrid webs are unsafe to touch.
+  source_text_path: texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2081-2083
+  quote_or_summary: A person who tries the loathly weeds suffers red blisters, unclean
+    sweat, and a fiery curse that consumes the tainted body.
+  source_text_path: texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main actions and images are clear, but the passage starts with an unresolved
+    antecedent for “she” and for the slaughtered “them.” No outside context was used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family reference was assigned because the provided taxonomy does not include a clear plague or pollution motif, and the passage does not state rebirth, divine judgment, sacrifice, or other listed motif families.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-virgil-georgics-rhoades-gutenberg__l2071-l2083
+  passage_sha256=857dd0b0700764e5e89d82eaf33d85a600a711c775689ad1f1ac51a36b266a9a
+

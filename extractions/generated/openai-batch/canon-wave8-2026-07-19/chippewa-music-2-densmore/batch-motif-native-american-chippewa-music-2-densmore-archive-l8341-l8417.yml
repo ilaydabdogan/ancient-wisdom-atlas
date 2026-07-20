@@ -1,0 +1,163 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l8341-l8417
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: CHIPPEWA    WAR     BANNER / DE.NSMUUEJ / CHIPPEWA    MUSIC- / DEN SMOKE  I;
+    lines 8341-8417
+  start: '8341'
+  end: '8417'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A song entry attributed to Na'waji'bigo'kwe includes an Ojibwe song text
+    translated as a first-person statement of returning home in safety. The entry
+    notes that it was recorded without drum and is followed by a technical analysis
+    of the melody. The beginning of the next song entry, also attributed to Na'waji'bigo'kwe
+    and recorded without drum, appears at the end of the passage.
+  language: English with Ojibwe song text/transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a numbered song entry attributed as sung by Na'waji'bigo'kwe
+    and recorded without drum.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translated song text is a first-person statement that the speaker will
+    return to home in safety.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The analysis states that the melody maintained a rhythmic unit through six
+    renditions, used a rapid tempo, was harmonic in structure, contained tones of
+    a five-toned scale, and was recorded without drum.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage begins a following numbered song entry attributed to Na'waji'bigo'kwe
+    and marked as recorded without drum.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Na'waji'bigo'kwe
+  description: Named singer of the song entry and of the following song entry fragment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: first-person lyric speaker
+  description: The unnamed voice in the translated lyric who states an intention or
+    assurance of returning home in safety.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The song headings identify Na'waji'bigo'kwe as the person who sang the entries.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: first-person lyric speaker
+  assigned_to:
+  - fig:2
+  basis: The translated lyric is phrased in the first person and states a return home
+    in safety.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: home as destination of return
+  literal_form: home
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: lyric of safe return
+  summary: Within the song entry, an unnamed first-person voice states that they will
+    return home in safety.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: safe return home
+  taxonomy_refs:
+  - return
+  basis: The translated lyric centers on a first-person statement of returning home
+    in safety.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is a short song text with musicological notes; it does not
+    provide an extended journey narrative or broader mythic context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8341-8417, first song heading and recording note
+  quote_or_summary: A numbered song entry is attributed as sung by Na'waji'bigo'kwe
+    and marked as recorded without drum.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:2
+  type: summary
+  locator: lines 8341-8417, translated lyric in first song entry
+  quote_or_summary: The lyric is glossed as a first-person statement that the speaker
+    will return home in safety.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:3
+  type: summary
+  locator: lines 8341-8417, analysis paragraph following the lyric
+  quote_or_summary: The analysis describes the melody's rhythmic unit, six renditions,
+    rapid tempo, harmonic structure, five-toned scale, and lack of drum accompaniment.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:4
+  type: summary
+  locator: lines 8341-8417, beginning of following song entry
+  quote_or_summary: The next numbered song entry begins, is attributed to Na'waji'bigo'kwe,
+    and is marked as recorded without drum.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; summarized without extended quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main lyric is very short and the OCR is noisy, so the extraction relies
+    on the supplied English gloss and avoids normalizing unclear original-language
+    text. No comparison claims are made beyond the candidate taxonomy mapping to return.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy mapping is limited to the available motif family explicitly supported by the translated lyric.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l8341-l8417
+  passage_sha256=85426d0bad3db65bc51790cceaba2699bc7eaa6c9e3bff503cfda401e34245fa
+

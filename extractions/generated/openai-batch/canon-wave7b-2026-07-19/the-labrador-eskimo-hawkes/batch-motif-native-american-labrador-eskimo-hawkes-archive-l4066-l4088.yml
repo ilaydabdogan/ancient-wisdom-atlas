@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l4066-l4088
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: J    O / K-1    3 / THE  UMIAK. / THE  KAYAK.; lines 4066-4088
+  start: '4066'
+  end: '4088'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The position of these weapons on the kayak is regulated by their use
+  summary: The passage describes how hunting weapons and equipment are fastened and
+    positioned on a kayak, how the hunter handles the harpoon and line, how a float
+    may slow fleeing game, and how captured game is attached and towed home.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Thongs and loops are sewn into the kayak near the opening to hold the harpoon
+    rack, harpoon, bird spear, seal hook, and killing lance.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The placement of weapons on the kayak is regulated by their use, with the
+    chief weapon at the hunter's right-hand front.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Ordinarily the harpoon is at the right front, the bird spear and throwing-stick
+    at the left front, the seal hook at the right back, and the lance at the left
+    back.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the harpoon is thrown from the kayak, the hunter holds the harpoon in
+    the right hand and the coil in the left, while the harpoon line lies in the rack
+    in front.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: If a float is attached to the harpoon line, it rests behind the hunter and
+    is thrown into the water after the harpoon is launched.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In northern Labrador, a circular hoop-like float called nawla-taq in Labrador
+    or nati'la'tay in Baffin Island is attached to the float and dragged at right
+    angles through the water to slow fleeing game.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A seal thong loop on the left side of the kayak opening is used to attach
+    game and tow it home after it has been brought alongside with the seal hook.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: hunter
+  description: The person seated in the kayak who uses the arranged weapons and handles
+    the harpoon and coil.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: game
+  description: The hunted animal described as fleeing, brought alongside, attached
+    to the kayak, and towed home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: kayak hunter
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the hunter's hand positions and the weapon arrangement
+    around the kayak opening.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: hunted game
+  assigned_to:
+  - fig:2
+  basis: The passage describes game as fleeing, being slowed by a float, brought alongside,
+    attached, and towed home.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: kayak
+  literal_form: Hunting kayak with sewn thongs and loops for weapons and game attachment.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: harpoon and harpoon line
+  literal_form: Harpoon, line, rack, coil, and optional float used from the kayak.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: hoop-like float
+  literal_form: Circular float attachment called nawla-taq in Labrador or nati'la'tay
+    in Baffin Island.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: water
+  literal_form: Water through which the float is dragged and into which the float
+    is thrown after the harpoon is launched.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: seal thong loop
+  literal_form: Loop on the left side of the kayak opening used to attach game for
+    towing home.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: kayak weapon arrangement
+  summary: The kayak is fitted with sewn thongs and loops to hold hunting weapons,
+    with each weapon placed according to use and the main weapon positioned at the
+    hunter's right-hand front.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: harpoon launch and float use
+  summary: The hunter throws the harpoon from the kayak while holding the line coil,
+    and an attached float may be thrown into the water after the harpoon is launched.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: game towing
+  summary: After game is brought alongside with the seal hook, it is attached to a
+    seal thong loop on the kayak and towed home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ordered kayak hunting equipment
+  taxonomy_refs: []
+  basis: The passage describes a structured arrangement of kayak weapons and tools
+    according to use, especially the placement of the chief weapon at the right-hand
+    front.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a material-culture pattern rather than a mythological narrative
+    motif.
+- id: motif:2
+  label: harpoon float slowing fleeing game
+  taxonomy_refs: []
+  basis: A float attachment is described as dragged through the water at right angles
+    to slow fleeing game after a harpoon launch.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a hunting technique, not a symbolic or mythic episode.
+- id: motif:3
+  label: captured game attached and towed home
+  taxonomy_refs: []
+  basis: The passage describes game being brought alongside with a seal hook, attached
+    to a kayak loop, and towed home.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic procedure rather than a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage identifies the northern Labrador hoop-like float attachment with
+    a Baffin Island form and cautiously states that the Labrador attachment is perhaps
+    derived from Baffin Island.
+  claim_level: historical_contact
+  target: Baffin Island nati'la'tay hoop-like float attachment
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage itself marks the derivation as tentative with 'perhaps'
+    and provides no further evidence beyond naming and distribution.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4066-4072
+  quote_or_summary: Thongs are sewn in front of the kayak to hold the harpoon rack,
+    harpoon, and bird spear; loops behind the opening hold the seal hook and killing
+    lance; weapon placement is regulated by use.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4072-4078
+  quote_or_summary: The usual arrangement places the harpoon at the right front, bird
+    spear and throwing-stick at the left front, seal hook at the right back, and lance
+    at the left back; the hunter holds harpoon and coil when throwing.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4078-4085
+  quote_or_summary: A harpoon-line float may rest behind the hunter and be thrown
+    into the water; in northern Labrador a circular hoop-like float called nawla-taq
+    or Baffin nati'la'tay slows fleeing game and is perhaps derived from Baffin Island.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4086-4088
+  quote_or_summary: A seal thong loop on the left side of the kayak opening is used
+    to attach game and tow it home after it is brought alongside with the seal hook.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is a clear technical ethnographic description. Motif candidates
+    are treated as material-culture patterns, not mythological motifs. The only comparison
+    claim is explicitly tentative in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological taxonomy motif was assigned. The available symbol taxonomy reference 'water' is used only for literal water in the described hunting procedure.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l4066-l4088
+  passage_sha256=4ab9f3e61ddd4bf48aaf3e3eb6f3adfd94597484a53c066ce4c269a5d47d9b36
+

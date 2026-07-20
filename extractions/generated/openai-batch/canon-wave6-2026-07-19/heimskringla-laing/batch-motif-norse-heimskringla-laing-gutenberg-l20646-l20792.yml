@@ -1,0 +1,522 @@
+---
+record_id: batch.motif.norse-heimskringla-laing-gutenberg-l20646-l20792
+source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+passage_locator:
+  label: SAGA OF OLAF HARALDSON. (1) / PRELIMINARY REMARKS. / SAGA OF MAGNUS THE GOOD.
+    / PRELIMINARY REMARKS.; lines 20646-20792
+  start: '20646'
+  end: '20792'
+  translation: Heimskringla; Or, The Chronicle of the Kings of Norway
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage narrates a naval battle between King Magnus and Svein. Magnus
+    moves from a shield-rampart to the ship's bows, leads an assault, boards Svein's
+    ship, clears enemy ships, grants quarters to some defeated men, captures seven
+    vessels, and pursues Svein after his flight. The aftermath includes drowning,
+    storm, cattle booty, and the burning and ravaging of Seeland.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The fighting is described as concentrated at the bows of the ships, with men
+    using spears, javelins, war-arrows, stones, stakes, and bows depending on their
+    position.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A poetic stanza describes missiles and stones flying quickly and an eagle
+    hovering above prey during the battle.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: King Magnus first stands within a shield-rampart, then leaps over the shields
+    and rushes toward the bows where hand-to-hand fighting is taking place.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Magnus encourages his men with a loud cheer, and his men respond with mutual
+    cheering across the ships.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Svein's forecastle men are cleared away, after which Magnus boards Svein's
+    ship with his men and clears that ship and then others.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Svein flees with many of his people; many others fall, while many are granted
+    life and peace or quarters.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The battle is dated to the last Sunday before Yule.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Some men jump overboard to save their lives but sink, and dead men are described
+    as rolling in the waves.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Magnus takes seven ships from Svein's people.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A storm overtakes fleeing men that night, and a poetic stanza imagines skulls
+    and bones under the sea.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Svein flees by night to Seeland; Magnus brings his ships to shore and sends
+    men inland, who return with cattle as booty.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:12
+  text: Magnus pursues Svein in Seeland, kills those who are seized, Svein flees to
+    Fyen Island, and Magnus carries fire and sword through Seeland and burns around
+    it.
+  category: sequence
+  evidence_refs:
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: King Magnus
+  description: King Magnus, also called Olaf's son in the poetry, commands the fleet,
+    leads the assault, boards Svein's ship, captures ships, pursues Svein, and ravages
+    Seeland.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: Svein
+  description: Svein is the opposing leader whose ship is attacked and whose people
+    are defeated; he flees first after the sea battle, then to Seeland, and then to
+    Fyen Island.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+  - ev:11
+- id: fig:3
+  name_or_label: Magnus's men and fleet
+  description: Magnus's followers fight with missiles and at close quarters, cheer
+    after Magnus advances, board and clear ships, pursue inland, and take cattle booty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:9
+- id: fig:4
+  name_or_label: Svein's people and housemen
+  description: Svein's men fight on the ships, are cleared from the forecastle and
+    decks, flee, fall, drown, receive quarters, or are pursued inland.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:5
+  name_or_label: Thiodolf
+  description: Thiodolf is repeatedly named as the skald whose verses are quoted to
+    describe the battle and its aftermath.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: victorious king and battle commander
+  assigned_to:
+  - fig:1
+  basis: Magnus leads from the ships' bows, boards Svein's ship, clears enemy ships,
+    captures vessels, and pursues the fleeing rival.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:10
+  - ev:11
+- id: role:2
+  label: defeated rival and fugitive leader
+  assigned_to:
+  - fig:2
+  basis: Svein's ship is cleared, he flees after the battle, later flees through Seeland,
+    and then crosses to Fyen Island.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+  - ev:11
+- id: role:3
+  label: attacking followers
+  assigned_to:
+  - fig:3
+  basis: Magnus's men fight, cheer one another on, follow him in boarding, and later
+    raid inland for cattle.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:9
+- id: role:4
+  label: defeated and fleeing force
+  assigned_to:
+  - fig:4
+  basis: Svein's men are cleared from the ships, many fall, some receive quarters,
+    and fugitives are pursued or drowned.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:10
+- id: role:5
+  label: quoted poetic witness
+  assigned_to:
+  - fig:5
+  basis: Several battle descriptions are introduced by the phrase indicating that
+    Thiodolf says or sings them.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: water and sea
+  literal_form: Sea, waves, overboard drowning, ships at sea, and bones under the
+    sea.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:2
+  label: fire and sword
+  literal_form: Magnus carries fire and sword through Seeland and burns around it.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:11
+- id: sym:3
+  label: shield-rampart
+  literal_form: A barrier of shields within which Magnus first stands before leaping
+    over it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: battle weapons
+  literal_form: Spears, javelins, war-arrows, stones, stakes, bows, swords, and shields
+    used in the ship battle.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: eagle over battlefield prey
+  literal_form: An eagle hovering in the air and screaming over prey during the fighting.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: seven captured ships
+  literal_form: Seven vessels taken by Magnus from Svein's people.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Missile battle at the ship bows
+  summary: The battle is fought from ship positions, especially at the bows, with
+    spears, javelins, arrows, stones, stakes, and bows.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Magnus leads the boarding assault
+  summary: Magnus leaves the shield-rampart, advances to the bows with a cheer, is
+    followed by his men, boards Svein's ship, and clears it and other ships.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Defeat, quarters, drowning, and captured vessels
+  summary: Svein flees; many of his people die, some receive life and peace or quarters,
+    men drown after leaping overboard, and Magnus takes seven ships.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Pursuit and ravaging in Seeland
+  summary: Svein flees to Seeland and then to Fyen; Magnus lands, takes cattle booty,
+    pursues fugitives, kills those caught, and burns through Seeland with fire and
+    sword.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: King leads from the front in battle
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Magnus is shown leaving a protected shield-rampart, urging on his men, boarding
+    the enemy ship, clearing ships, and taking prizes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage strongly presents martial leadership and victory by a king,
+    but it does not explicitly state a legal, divine, or ritual claim of legitimacy.
+- id: motif:2
+  label: Naval boarding victory
+  taxonomy_refs: []
+  basis: The fighting moves from missile exchange to close combat at the bows; Magnus
+    boards Svein's ship and clears it and other ships.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a martial narrative pattern rather than an explicitly mythic motif.
+- id: motif:3
+  label: Defeated rival's flight and pursuit
+  taxonomy_refs: []
+  basis: Svein flees after the battle, flees again through Seeland and to Fyen, while
+    Magnus follows and kills those seized.
+  evidence_refs:
+  - ev:4
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: The passage supports the pursuit pattern locally, but it does not compare
+    it with another tradition.
+- id: motif:4
+  label: Mercy or quarters after victory
+  taxonomy_refs: []
+  basis: The passage says many defeated men received life and peace, and the quoted
+    stanza says the gold-distributor gave quarters to the vanquished men.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader ritual or sacred exchange meaning is stated in the passage.
+- id: motif:5
+  label: Retaliatory ravaging by fire and sword
+  taxonomy_refs: []
+  basis: After Svein flees, Magnus carries fire and sword through Seeland and burns
+    around it because men there had joined Svein's troop.
+  evidence_refs:
+  - ev:11
+  confidence: high
+  cautions: The fire is military devastation, not a cosmic or world-destroying fire
+    motif.
+- id: motif:6
+  label: Sea death of fleeing warriors
+  taxonomy_refs: []
+  basis: Some men leap overboard and sink; another stanza describes a storm overtaking
+    the fugitives and bones under the sea.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The evidence combines prose narration with poetic battle imagery, so some
+    details may be stylized.
+- id: motif:7
+  label: Carrion bird over battlefield
+  taxonomy_refs: []
+  basis: A quoted stanza places an eagle above the battle, screaming over prey while
+    missiles fly.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage supplies the image but makes no explicit comparison to other
+    Norse battle-poetry conventions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20646-20792; battle at the bows
+  quote_or_summary: '"They fought at the bows"; men on the forecastle thrust with
+    spears, while others used light spears, javelins, war-arrows, stones, stakes,
+    and bows.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:2
+  type: quote
+  locator: lines 20646-20792; Thiodolf stanza on missiles
+  quote_or_summary: '"The eagle, hovering in the air, / Screamed o''er the prey";
+    stones and arrows fly quickly and warriors are slain.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:3
+  type: quote
+  locator: lines 20646-20792; Magnus advances
+  quote_or_summary: '"King Magnus stood...within a shield-rampart" but "leaped over
+    the shields" and rushed toward the bows, encouraging his men with a loud cheer.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:4
+  type: quote
+  locator: lines 20646-20792; boarding Svein's ship
+  quote_or_summary: '"Then Magnus boarded Svein''s ship, followed by his men"; Svein''s
+    men gave way, Magnus cleared that ship and then the rest, and Svein fled.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:5
+  type: quote
+  locator: lines 20646-20792; quarters to defeated men
+  quote_or_summary: '"many fell, and many got life and peace"; the stanza adds that
+    the "gold-distributor" gave quarters to vanquished men.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:6
+  type: quote
+  locator: lines 20646-20792; Sunday before Yule stanza
+  quote_or_summary: The battle was fought on "the last Sunday before Yule"; some men
+    went overboard to save themselves but sank, and "dead men rolled in every wave."
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:7
+  type: quote
+  locator: lines 20646-20792; captured vessels
+  quote_or_summary: '"Magnus took seven ships from Svein''s people"; the stanza says
+    Olaf''s son cleared seven vessels.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:8
+  type: quote
+  locator: lines 20646-20792; storm after the fight
+  quote_or_summary: '"A heavy storm that very night / O''ertook them flying from the
+    fight"; skulls and bones are described under the sea.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:9
+  type: quote
+  locator: lines 20646-20792; flight to Seeland and cattle booty
+  quote_or_summary: Svein fled by night to Seeland; Magnus brought his ships ashore,
+    sent men inland, and they returned with "a great booty in cattle."
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:10
+  type: quote
+  locator: lines 20646-20792; pursuit in Seeland
+  quote_or_summary: Magnus sailed after Svein to Seeland; Svein fled inland, and Magnus
+    pursued the fugitives, "killing all that were laid hold of."
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:11
+  type: quote
+  locator: lines 20646-20792; fire and sword in Seeland
+  quote_or_summary: '"Then Svein fled over to Fyen Island, and King Magnus carried
+    fire and sword through Seeland, and burnt all round" because men there had joined
+    Svein''s troop.'
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:12
+  type: summary
+  locator: lines 20646-20792; repeated verse introductions
+  quote_or_summary: Several embedded stanzas are introduced by formulas such as "So
+    says Thiodolf" or "Thiodolf tells of this," identifying Thiodolf as the named
+    poetic source within the passage.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source; summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main actions, figures, symbols, and scenes are explicit in the passage.
+    Motif labels are cautious and mostly untaxonomized because the passage is a saga
+    battle narrative and does not itself make comparative claims. No comparison claims
+    were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available refs and only applied where the passage directly supported them.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-heimskringla-laing-gutenberg__l20646-l20792
+  passage_sha256=067337d2ccb970b1a22a67abd08b2a5bb770e59b1573b9f83822d41daab9dbf9
+

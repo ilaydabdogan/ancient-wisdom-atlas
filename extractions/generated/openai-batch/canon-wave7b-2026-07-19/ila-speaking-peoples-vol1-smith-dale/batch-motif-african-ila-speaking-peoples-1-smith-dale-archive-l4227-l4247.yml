@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l4227-l4247
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: PT. I / IN FESTIVE ATTIRE. / CLOTHING AND DECORATION / BA-ILA WARRIORS.;
+    lines 4227-4247
+  start: '4227'
+  end: '4247'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A descriptive section on clothing and decoration states that young bloods
+    give attention to coiffure. The impumbe is ornamented with brass chair-nails purchased
+    from traders; the text contrasts former sparse use with a current fashion of crowding
+    on many nails. A feather ball with a spike is fixed before the impumbe and isusu,
+    and cock and crane feathers are also worn. The passage includes a caption for
+    Ba-Ila warriors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented under a heading on clothing and decoration.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Young bloods give much attention to coiffure.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The impumbe has recently been ornamented with brass chair-nails purchased
+    from traders.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The text contrasts an earlier practice of using one or two nails with a current
+    fashion of crowding on as many nails as possible.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A small feather ball called shilongo, with a spike, is fixed in front of the
+    impumbe and isusu.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Feathers are worn, including the long black cock's feather called munimba
+    and the crest of the crane named kola in the visible text.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage includes a caption identifying Ba-Ila warriors.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: young bloods
+  description: The group said to give much attention to coiffure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ba-Ila warriors
+  description: A caption in the passage identifies Ba-Ila warriors; no further image
+    description is supplied in the passage text.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: coiffure-attending youths
+  assigned_to:
+  - fig:1
+  basis: The passage says the coiffure has much attention given to it by the young
+    bloods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: captioned warriors
+  assigned_to:
+  - fig:2
+  basis: The supplied text includes the caption 'BA-ILA WARRIORS.'
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: coiffure, impumbe, and isusu
+  literal_form: Coiffure, with impumbe and isusu named in relation to ornament placement.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: brass chair-nails
+  literal_form: Brass chair-nails purchased from traders and used to ornament the
+    impumbe.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: shilongo feather ball with spike
+  literal_form: Small ball made of feathers, called shilongo, with a spike.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: worn feathers
+  literal_form: Long black cock's feather called munimba and crane crest called kola
+    in the visible text.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Adornment of coiffure
+  summary: Young bloods attend to coiffure by using impumbe-related ornaments, including
+    traded brass chair-nails, a spiked feather ball, and worn feathers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Captioned Ba-Ila warriors
+  summary: The passage includes a photographic caption naming Ba-Ila warriors, without
+    further supplied description of the image.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: changing male coiffure fashion
+  taxonomy_refs: []
+  basis: The passage explicitly contrasts an older minimal use of brass nails with
+    a newer fashion of crowding on as many as possible.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic clothing pattern, not a narrative mythic motif;
+    no supplied taxonomy family directly applies.
+- id: motif:2
+  label: feathered coiffure adornment
+  taxonomy_refs: []
+  basis: The passage describes a feather ball with a spike and the wearing of cock
+    and crane feathers as elements of attire.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state symbolic meanings for the feathers or link
+    them to a mythic motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4227-4230
+  quote_or_summary: 'Heading: ''CLOTHING AND DECORATION''; ''The coiffure has much
+    attention given to it by the young bloods.'''
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 4230-4238
+  quote_or_summary: The impumbe is said to have been ornamented recently with brass
+    chair-nails purchased from traders; formerly one or two nails sufficed, but the
+    current fashion is to crowd on as many as possible.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4238-4241
+  quote_or_summary: "'In front of the impumbe and isusu is fixed a small ball, made
+    of feathers (shilongo) with a spike.'"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 4241-4247
+  quote_or_summary: "'Feathers are also worn; the long black cock's feather (munimba)
+    and the crest of the crane (kola...' [passage ends mid-phrase]"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 4232-4234
+  quote_or_summary: "'BA-ILA WARRIORS.'"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but candidate motifs are descriptive
+    attire patterns rather than mythic narrative motifs. No comparison claims are
+    made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage is truncated at the end of the crane-crest phrase; extraction avoids completing the incomplete wording.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l4227-l4247
+  passage_sha256=61cf8c8790e4b92294aeead93ef9c0ee85783c18ca00a9a5d8332823d07f18f8
+

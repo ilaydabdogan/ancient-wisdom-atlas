@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.andamanese-aboriginal-inhabitants-andaman-man-archive-l10230-l10242
+source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+passage_locator:
+  label: ANDAMANESE EQUIPPED FOR JOURNEY. / ANDAMANESE SHOOTING, DANCING, SLEEPING,
+    AND GREETING. / PLATE IX. / SHOOTING FISH IN TIDAL CREEK NEAR PORT BLAIR.; lines
+    10230-10242
+  start: '10230'
+  end: '10242'
+  translation: On the Aboriginal Inhabitants of the Andaman Islands
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage quotes Mouat praising Mincopie canoes as potentially excellent
+    lifeboats, while noting that experienced handlers of ordinary boats were unable
+    to manage them and capsized when attempting to paddle them. It also quotes a statement
+    that Mincopie people attach an outrigger when going to sea, compared by Mouat
+    to outriggers used by Cingalese fishermen, though the surrounding author remarks
+    that this allusion is difficult to understand.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mouat is quoted as saying that the canoes would make excellent lifeboats.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Experienced handlers of ordinary boats are said to be at a loss in a Mincopie
+    canoe.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Outsider men who attempted to paddle a Mincopie canoe a short way out to sea
+    capsized and were drenched.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mouat is quoted as saying that when the Mincopie go to sea, they attach an
+    outrigger to part of the boat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The outrigger is compared in some respects to one attached by Cingalese fishermen
+    to their boats.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The surrounding author states that Mouat's allusion to an outrigger is difficult
+    to understand.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mincopie
+  description: People described as using canoes and going to sea in them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: outsider boatmen / 'our men'
+  description: Men experienced with ordinary boats who fail to manage Mincopie canoes
+    and capsize when attempting to paddle them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Cingalese fishermen
+  description: Fishermen cited as attaching a comparable outrigger to their boats.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Mouat
+  description: Quoted writer whose statements about Mincopie canoes and outriggers
+    are cited in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: canoe users and sea-goers
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Mincopie go to sea in the canoes and attach an
+    outrigger.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: unsuccessful canoe paddlers
+  assigned_to:
+  - fig:2
+  basis: They are described as attempting to paddle a Mincopie canoe and capsizing.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: comparative outrigger users
+  assigned_to:
+  - fig:3
+  basis: Their boats are cited as having an outrigger resembling the one attributed
+    to Mincopie sea-going canoes.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: quoted observer
+  assigned_to:
+  - fig:4
+  basis: The passage cites Mouat for comments on lifeboats and outriggers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Mincopie canoe
+  literal_form: canoe / boat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: outrigger
+  literal_form: attachment to part of a boat
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sea and water
+  literal_form: sea; water in which capsized paddlers are drenched
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: lifeboat comparison
+  literal_form: canoe described as suitable for lifeboat construction
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Canoes praised as lifeboats
+  summary: A quoted statement says the canoes would make excellent lifeboats.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Outsiders capsize in Mincopie canoe
+  summary: Experienced ordinary boatmen are unable to manage a Mincopie canoe; when
+    some attempt to paddle one a short way out to sea, they capsize and are drenched.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sea-going canoe with outrigger
+  summary: Mouat is quoted as saying that Mincopie people attach an outrigger to the
+    boat when going to sea, with a comparison to Cingalese fishermen's outriggers;
+    the passage's surrounding author questions the allusion.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: specialized watercraft mastered by insiders but hazardous to outsiders
+  taxonomy_refs: []
+  basis: The passage contrasts Mincopie canoe use with the failure of experienced
+    ordinary boatmen, who capsize when attempting to paddle the canoe.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic-technological pattern in the passage, not a mythic
+    narrative motif.
+- id: motif:2
+  label: outrigger-assisted sea travel
+  taxonomy_refs: []
+  basis: The passage states that Mincopie people attach an outrigger when going to
+    sea in the boat.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The surrounding author explicitly says the allusion is difficult to understand,
+    so the reported detail needs verification.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports a visual or structural resemblance between the outrigger
+    attributed to Mincopie sea-going canoes and the outriggers used by Cingalese fishermen.
+  claim_level: visual_similarity
+  target: Cingalese fishermen's boat outriggers
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: The claim depends on Mouat's quoted statement, and the surrounding
+    author signals uncertainty by saying the allusion is difficult to understand.
+    The passage does not establish historical contact, shared origin, or identical
+    function beyond the stated resemblance.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10230-10233
+  quote_or_summary: "“They would make most excellent lifeboats...”"
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10233-10238
+  quote_or_summary: Mouat is cited as saying that experienced rowers, steerers, and
+    guides of ordinary boats are at a loss in a Mincopie canoe, and that men who attempted
+    to paddle one out to sea capsized and were drenched.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 10239-10242
+  quote_or_summary: Mouat is quoted as saying that when the Mincopie go to sea in
+    the boats, they attach an outrigger resembling in some respects the outrigger
+    attached by Cingalese fishermen to their boats.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 10239-10240
+  quote_or_summary: "“It is therefore difficult to understand the following allusion
+    made by Dr. Mouat...”"
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The literal extraction is straightforward. Motif labels are cautious because
+    the passage is ethnographic and technological rather than mythological. The comparison
+    claim is explicitly supported but also questioned in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological taxonomy motif family was assigned. The available symbol taxonomy supports only the water reference.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:andamanese-aboriginal-inhabitants-andaman-man-archive__l10230-l10242
+  passage_sha256=111b0f0bab28de1ffd1f115b348063dffde3c8c4603a542427d2ccc8c38702db
+

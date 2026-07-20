@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.greek-pausanias-description-of-greece-frazer-archive-v1-l1862-l1884
+source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+passage_locator:
+  label: A FEW SYNONYMS / THE MANUSCRIPTS OF PAUSANIAS / EDITIONS AND TRANSLATIONS
+    / VOL, I. E; lines 1862-1884
+  start: '1862'
+  end: '1884'
+  translation: Pausanias's Description of Greece, Volume I, Translated with a Commentary
+    by J. G. Frazer
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports inscriptions on captured shields and bucklers dedicated
+    by Pyrrhus to Itonian Athena and Dodonian Zeus, then notes Pyrrhus’s near conquest
+    of Macedonia and Cleonymus’s role in diverting him to the Peloponnesus.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pyrrhus the Molossian is said to have hung shields taken from Gauls as a gift
+    to Itonian Athena after destroying the host of Antigonus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the shields are present at the described location.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pyrrhus dedicated the Macedonians’ bucklers to Dodonian Zeus.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The inscription on the bucklers characterizes their former owners as ravagers
+    of Asia and enslavers of Greeks, and says the bucklers now lie ownerless by the
+    temple pillars of Zeus.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Pyrrhus nearly reduced Macedonia entirely, but Cleonymus prevented this by
+    persuading him to abandon the Macedonian campaign and go to the Peloponnesus.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cleonymus is identified as a Lacedaemonian who led a hostile army into Lacedaemonian
+    territory.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Pyrrhus the Molossian
+  description: A leader who dedicated captured shields and bucklers and nearly reduced
+    Macedonia entirely.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Itonian Athena
+  description: The deity to whom Pyrrhus gave shields taken from Gauls.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Gauls
+  description: The group from whom shields were taken.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Antigonus
+  description: A figure whose host is said to have been destroyed by Pyrrhus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Aeacidae
+  description: A lineage described in the inscription as warriors now as in the past.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Macedonians
+  description: The group whose bucklers Pyrrhus dedicated to Dodonian Zeus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Dodonian Zeus
+  description: The deity to whom Pyrrhus dedicated the Macedonian bucklers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:8
+  name_or_label: Greeks
+  description: A group described in the inscription as having been brought into slavery
+    by the former owners of the bucklers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Cleonymus
+  description: A Lacedaemonian who persuaded Pyrrhus to leave the Macedonian campaign
+    for the Peloponnesus and who led a hostile army into Lacedaemonian territory.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: dedicator of captured arms
+  assigned_to:
+  - fig:1
+  basis: Pyrrhus gives captured shields to Athena and dedicates Macedonian bucklers
+    to Zeus.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: campaigning ruler or commander
+  assigned_to:
+  - fig:1
+  basis: The passage describes Pyrrhus destroying a host and nearly reducing Macedonia.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: divine recipient of dedication
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: Athena receives the shields as a gift, and Zeus receives the dedicated bucklers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: source group of captured arms
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: Shields are taken from the Gauls, and bucklers are identified as belonging
+    to Macedonians.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: defeated host’s associated leader
+  assigned_to:
+  - fig:4
+  basis: The inscription refers to the host of Antigonus as destroyed.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: warrior lineage
+  assigned_to:
+  - fig:5
+  basis: The inscription states that the Aeacidae are warriors now as they were before.
+  evidence_refs:
+  - ev:1
+- id: role:7
+  label: enslaved people in inscriptional memory
+  assigned_to:
+  - fig:8
+  basis: The inscription says the former owners of the bucklers brought slavery upon
+    the Greeks.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: diverter of campaign
+  assigned_to:
+  - fig:9
+  basis: Cleonymus persuaded Pyrrhus to abandon the Macedonian adventure and go to
+    the Peloponnesus.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: Lacedaemonian hostile commander
+  assigned_to:
+  - fig:9
+  basis: Cleonymus is described as a Lacedaemonian who led a hostile army into Lacedaemonian
+    territory.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: captured shields gifted to Athena
+  literal_form: shields taken from Gauls and hung as a gift to Itonian Athena
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Macedonian bucklers dedicated to Zeus
+  literal_form: bucklers of the Macedonians dedicated to Dodonian Zeus
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: pillars of the temple of Zeus
+  literal_form: pillars of the temple of Zeus beside which the ownerless bucklers
+    lie
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Dedication of Gallic shields to Athena
+  summary: An inscription states that Pyrrhus hung shields taken from Gauls as a gift
+    to Itonian Athena after destroying the host of Antigonus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dedication of Macedonian bucklers to Zeus
+  summary: The passage says the shields are present and that Pyrrhus dedicated Macedonian
+    bucklers to Dodonian Zeus; their inscription says they once ravaged Asia and enslaved
+    Greeks but now lie ownerless by Zeus’s temple pillars.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pyrrhus diverted from Macedonia
+  summary: Pyrrhus nearly conquered Macedonia, but Cleonymus persuaded him to abandon
+    that campaign and go to the Peloponnesus.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cleonymus introduced as hostile Lacedaemonian commander
+  summary: Cleonymus is identified as a Lacedaemonian who led a hostile army into
+    Lacedaemonian territory, with the reason deferred to a later explanation.
+  figure_refs:
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: captured arms dedicated to a deity
+  taxonomy_refs: []
+  basis: 'Two sets of enemy arms are described as offerings to deities: shields taken
+    from Gauls to Athena and Macedonian bucklers to Zeus.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a historical-votive pattern in the passage rather than a myth
+    narrative motif.
+- id: motif:2
+  label: inscribed trophies preserving defeat and reversal
+  taxonomy_refs: []
+  basis: The inscriptions frame former ravagers or enemies as defeated, with their
+    arms displayed or lying ownerless at a sanctuary.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage preserves inscriptional statements; broader symbolic meaning
+    would require external context not supplied here.
+comparison_claims:
+- id: claim:1
+  claim: 'The two dedications in the passage share the same function: captured enemy
+    arms are transferred into divine sanctuary contexts as commemorative offerings.'
+  claim_level: same_function
+  target: votive dedication of captured arms pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only two local examples and does not itself establish
+    a wider cross-cultural or mythological comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1862-1867
+  quote_or_summary: 'Inscription: Pyrrhus the Molossian hung shields taken from Gauls
+    as a gift to Itonian Athena after destroying the host of Antigonus; the Aeacidae
+    are called warriors.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1868-1875
+  quote_or_summary: The passage says these shields are present; Pyrrhus dedicated
+    Macedonian bucklers to Dodonian Zeus; their inscription says they once ravaged
+    Asia and enslaved Greeks and now lie ownerless by the pillars of Zeus’s temple.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1876-1881
+  quote_or_summary: Pyrrhus came near reducing Macedonia entirely, but Cleonymus persuaded
+    him to abandon the Macedonian adventure and go to the Peloponnesus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1881-1884
+  quote_or_summary: Cleonymus is described as a Lacedaemonian who led a hostile army
+    into Lacedaemonian territory; the reason is deferred until after his descent is
+    given.
+  source_text_path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily historical and inscriptional. Object and dedication
+    data are explicit; motif interpretation is limited to a cautious votive-war-trophy
+    pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was applied because the passage supports votive dedication and trophy display rather than one of the supplied mythic motif families or symbol terms.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:greek-pausanias-description-of-greece-frazer-archive-v1__l1862-l1884
+  passage_sha256=adc3e516d33cbdfde574bbee3b635cc81407e3faa73cc73fb2b03f37e6c79dbd
+

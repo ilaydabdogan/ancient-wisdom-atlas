@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2223-l2246
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: MESSENGER. / LEADER. / MESSENGER. / LEADER.; lines 2223-2246
+  start: '2223'
+  end: '2246'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Pentheus, my king, Echîon's son, is dead!
+  summary: A leader asks for news from the mountain. A messenger reports that King
+    Pentheus, son of Echion, is dead. The leader hails a god and rejoices, saying
+    prison chains and former dread are broken. The messenger remarks that the leader
+    sounds joyful at the master’s overthrow.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The leader asks for news from the mountain and asks how events have gone.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The messenger reports that Pentheus, identified as the messenger’s king and
+    Echion’s son, is dead.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The leader hails a figure called the God of the Voice and calls for him to
+    be manifest ever more.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The messenger says the leader’s tone seems strange, as if joyful at the messenger’s
+    master’s overthrow.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The leader says they rejoice with fierce joy and that the chains of their
+    prison are broken, along with the former dread under which they cowered.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Pentheus is described in a relationship as Echion’s son.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Leader
+  description: Speaker who asks for news from the mountain, hails the God of the Voice,
+    and rejoices at release from prison chains and dread.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Messenger
+  description: Speaker who reports Pentheus’s death and reacts to the leader’s joyful
+    tone.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Pentheus
+  description: Named as the messenger’s king, Echion’s son, and dead.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: God of the Voice
+  description: Divine figure hailed by the leader as manifest ever more.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Echion
+  description: Named only as the father of Pentheus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: The leader asks for news from the mountain.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bearer of death news
+  assigned_to:
+  - fig:2
+  basis: The messenger announces that Pentheus is dead.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dead king and overthrown master
+  assigned_to:
+  - fig:3
+  basis: Pentheus is called king, reported dead, and later referred to as the messenger’s
+    master whose overthrow is being met with joy.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: released rejoicer
+  assigned_to:
+  - fig:1
+  basis: The leader states that they rejoice and that prison chains and former dread
+    are broken.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: invoked deity
+  assigned_to:
+  - fig:4
+  basis: The leader hails the God of the Voice and calls him manifest.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: named father
+  assigned_to:
+  - fig:5
+  basis: Pentheus is identified as Echion’s son.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: mountain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: broken prison chains
+  literal_form: chains of my prison are broken
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: divine voice manifestation
+  literal_form: God of the Voice, manifest ever more
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: News from the mountain
+  summary: The leader asks for news from the mountain, and the messenger announces
+    that Pentheus, king and son of Echion, is dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Joy at the overthrow
+  summary: The leader hails the God of the Voice and rejoices at Pentheus’s overthrow,
+    describing prison chains and former dread as broken.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: death and overthrow of a king
+  taxonomy_refs: []
+  basis: The messenger reports the death of King Pentheus, and the messenger later
+    characterizes this as the master’s overthrow.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage gives the news and reaction but not the manner or full cause
+    of death.
+- id: motif:2
+  label: divine manifestation associated with a ruler’s fall
+  taxonomy_refs:
+  - divine_judgment
+  basis: Immediately after the report of Pentheus’s death, the leader hails the God
+    of the Voice as manifest; the passage links the leader’s religious acclamation
+    with joy at the overthrow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly state that the deity caused the death
+    or judged Pentheus.
+- id: motif:3
+  label: release from bondage after an oppressor’s fall
+  taxonomy_refs: []
+  basis: The leader rejoices after the reported death and says that the chains of
+    prison and former dread are broken.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The language of chains and prison may be figurative in this excerpt; the
+    passage alone does not clarify the prior captivity.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2223-2226
+  quote_or_summary: "“News from the mountain?--Speak! How hath it sped?”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 2227-2230
+  quote_or_summary: "“Pentheus, my king, Echîon's son, is dead!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 2231-2235
+  quote_or_summary: "“All hail, God of the Voice, / Manifest ever more!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 2236-2240
+  quote_or_summary: "“What say'st thou?--And how strange thy tone, as though / In
+    joy at this my master's overthrow!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 2241-2246
+  quote_or_summary: "“With fierce joy I rejoice... / For the chains of my prison are
+    broken...”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal speaker actions and relationships are clear. Motif assignment to
+    divine judgment is cautious because the excerpt implies religious significance
+    but does not state causation or judgment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. No external comparisons added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2223-l2246
+  passage_sha256=ca14c41b683543cc3891321fd7bd6891afce4c36d3ef94c75de53a564321809f
+

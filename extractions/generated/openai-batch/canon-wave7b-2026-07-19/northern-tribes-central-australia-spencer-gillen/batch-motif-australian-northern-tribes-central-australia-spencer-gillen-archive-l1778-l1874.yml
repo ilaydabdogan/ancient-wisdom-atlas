@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l1778-l1874
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: FIG. PAGE / PLATES AND MAP / CHAPTER I / INTRODUCTION; lines 1778-1874
+  start: '1778'
+  end: '1874'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a geographic and ethnographic description of northern
+    Central Australia from the M‘Douall/McDouall Range and Tennant Creek northward
+    to Powell Creek, Newcastle Waters, the Ashburton Range, and the plateau edge toward
+    the Gulf of Carpentaria. It notes water sources, vegetation, seasonal ground conditions,
+    tribal territories of the Warramunga and Tjingilli, and a quarry used for stone
+    tools.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The M‘Douall Range is crossed through a gap, with Tennant Creek telegraph
+    station immediately north on a desolate ant-hill plain near a dry creek fringed
+    by gum-trees and scrub.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The McDouall Range and the Murchison are described as strongholds of the Warramunga
+    tribe, with northern Warramunga groups roaming farther north around Phillips Creek,
+    Attack Creek, and Renner’s Springs.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Between Tennant Creek and Powell Creek the country includes loamy plains,
+    mulga scrub, stunted gums, porcupine and spear grass, and creeks that run from
+    low sandstone ranges and disappear on the eastern plains.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: At Renner’s Springs, fresh warm water bubbles up from black-coloured soil
+    and is soon lost on the surrounding plain; nearby is a quarry for stone used in
+    flaked knives and picks.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Renner’s Springs is stated to be approximately the northern boundary of the
+    Warramunga and the southern boundary of the Tjingilli tribe.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The Downs are described as gently undulating country with seasonal contrast:
+    dry-season cracks and rainy-season bogs in which water spreads widely and travel
+    becomes difficult and dangerous.'
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Vegetation north to Powell Creek is described as mainly mulga, stunted gums,
+    mallee gums, shrubs, river-course eucalypts, pines, fig-trees, and Capparis; Bauhinia
+    trees first appear at Powell Creek.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Newcastle Waters consists of a chain of water-holes which join during floods
+    and send surplus water southward to form Lake Woods; when observed, the pools
+    were separated and milky-coloured because of suspended clay.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The country around Newcastle Waters is identified as the home of the Tjingilli
+    tribe.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: From Newcastle Waters eastward the land rises gradually toward a watershed
+    and plateau edge, with valleys cut by rivers flowing toward the Gulf of Carpentaria.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Warramunga tribe
+  description: A named Indigenous group whose southern strongholds are associated
+    with the McDouall Range and Murchison; Renner’s Springs is described as its approximate
+    northern boundary.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Tjingilli tribe
+  description: A named Indigenous group whose southern boundary is approximately Renner’s
+    Springs and whose home country is stated to include the Newcastle Waters area.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: named territorial group
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage links each tribe to named regions, homes, strongholds, or boundaries.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: water sources
+  literal_form: water-holes, springs, creeks, floodwater, pools, and Lake Woods
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: ranges, hills, and plateau edge
+  literal_form: M‘Douall/McDouall Range, low sandstone ranges, quartzite hills, Ashburton
+    Range, watershed, and plateau edge
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: trees and scrub vegetation
+  literal_form: gum-trees, mulga, mallee gums, Hakeas, Grevilleas, Cassias, Eremophilas,
+    Eucalyptus species, pines, fig-trees, Capparis, and Bauhinia
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: quarry stone and flaked tools
+  literal_form: special quarry stone used for making flaked knives and picks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: milky-coloured water
+  literal_form: water-pools of milky colour due to fine clay particles in suspension
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Tennant Creek and Warramunga stronghold country
+  summary: The passage situates Tennant Creek near the M‘Douall Range and describes
+    nearby dry creek, gum-tree fringe, scrub, and the Warramunga strongholds of the
+    McDouall Range and Murchison.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Route north to Renner’s Springs
+  summary: The country northward includes plains, grasses, creeks from sandstone ranges,
+    warm springs, a quarry for flaked-tool stone, and the approximate boundary between
+    Warramunga and Tjingilli country.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The Downs in dry and rainy seasons
+  summary: The passage describes open downs, grass, timber belts, blue-bush swamp,
+    dry-season cracking, rainy-season bogs, and water spreading widely across low
+    country.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Powell Creek and Newcastle Waters
+  summary: Vegetation changes at Powell Creek with the appearance of Bauhinia, while
+    Newcastle Waters is described as a chain of water-holes that unite in flood, form
+    Lake Woods by surplus flow, and lie in Tjingilli country.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Gradual eastern ascent to the plateau edge
+  summary: From the north end of the Ashburton Range the route turns east toward Borroloola;
+    the land rises gradually to a watershed and then to a plateau edge cut by river
+    valleys toward the Gulf of Carpentaria.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seasonal wet-dry transformation of landscape
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage contrasts dry-season cracked ground with rainy-season bogs and
+    describes flood periods in which Newcastle Waters joins and sends surplus water
+    southward.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is an environmental pattern in an introductory geography passage,
+    not a mythic narrative motif in the passage itself.
+- id: motif:2
+  label: water sources as territorial markers
+  taxonomy_refs: []
+  basis: 'Water-holes and springs are tied to tribal strongholds, boundaries, and
+    home country: the Warramunga strongholds include water-hole country, Renner’s
+    Springs marks a boundary, and Newcastle Waters is identified with Tjingilli country.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage supports this as an ethnographic-geographic pattern only;
+    it does not state a ritual or mythic interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1778-1784
+  quote_or_summary: A gap crosses the M‘Douall Range; Tennant Creek station lies north
+    on an ant-hill plain, beside a dry creek fringed by gum-trees and scrub.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 1785-1791
+  quote_or_summary: The McDouall Range and Murchison, with abundant water-holes except
+    in drought, are identified as Warramunga strongholds; northern groups range around
+    Phillips Creek, Attack Creek, and Renner’s Springs.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 1792-1813
+  quote_or_summary: From Tennant Creek to Powell Creek are loamy plains, scrub, grasses,
+    and creeks from sandstone ranges; Renner’s Springs has warm fresh water, a nearby
+    quarry for flaked knives and picks, and marks a Warramunga-Tjingilli boundary.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 1814-1830
+  quote_or_summary: The Downs are gently undulating country with grass, timber belts,
+    blue-bush swamp, dry-season cracks, rainy-season bogs, and water spreading widely
+    across low ground.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 1831-1849
+  quote_or_summary: Vegetation includes mulga, stunted gums, mallee gums, shrubs,
+    Eucalyptus species, pines, fig-trees, Capparis, and the first appearance of Bauhinia
+    trees at Powell Creek.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: lines 1850-1863
+  quote_or_summary: The telegraph station stands above a water-hole near the Ashburton
+    Range; Newcastle Waters is a chain of water-holes that join in flood, can feed
+    Lake Woods, had separated milky pools when observed, and is in Tjingilli country.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: lines 1864-1874
+  quote_or_summary: From the Ashburton Range the route turns east toward Borroloola;
+    elevation rises gradually from Newcastle Waters to a watershed, and the so-called
+    coastal range is described as the abrupt edge of a plateau cut by river valleys.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive geography/ethnography rather than myth narrative.
+    Literal extraction is strong; motif candidates are limited to observed landscape
+    patterns and need human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or imply a comparative mythological connection.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l1778-l1874
+  passage_sha256=573c86352ca802e48bfba8991e36aa17d511e60fa97891719ec0e74020f61821
+

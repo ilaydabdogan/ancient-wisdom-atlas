@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l1923-l1958
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: THE INDIANS. / THE HUDSON BAY ESKIMO. / TURN! / DISEASES,; lines 1923-1958
+  start: '1923'
+  end: '1958'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes common diseases among the Hudson Bay Eskimo as attributed
+    by the author to crowded, poorly ventilated huts, mentions pulmonary illness and
+    scurvy-like conditions, and describes relief sought through the shaman or conjurer,
+    whose influence over the sick person’s imagination and will may produce a cure.
+    It also states that the perceived magnitude of disease is commonly measured by
+    the patient’s worldly wealth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pulmonary troubles are identified as the principal diseases, attributed in
+    the passage to crowded, poorly ventilated huts and decomposing animal food.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Openings in the hut are closed quickly to preserve heat, and a deserted snow
+    hut with an unclosed doorway is avoided for sleeping.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that about one-half of the Eskimo die of pulmonary troubles.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Other prevalent diseases are described as conditions that devitalize the blood,
+    including scurvy, with sores on shoulders, elbows, knees, and ankles.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The shaman or conjurer is described as the usual source of relief, working
+    on the imagination of the sick person.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage describes the will power of both patient and shaman as being intensely
+    exerted during attempted healing.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The magnitude of disease is said to be generally measured by the amount of
+    the patient’s worldly wealth.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hudson Bay Eskimo
+  description: The people described as suffering from pulmonary troubles and other
+    diseases in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: shaman or conjurer
+  description: The healer locally known as a conjurer, described as attempting relief
+    by influencing the sick person’s imagination.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: sick person or patient
+  description: The afflicted person receiving attempted relief from the shaman and
+    described as easily influenced in illness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: affected community
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Hudson Bay Eskimo as the population suffering from
+    the diseases discussed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: ritual healer or conjurer
+  assigned_to:
+  - fig:2
+  basis: The shaman is described as the usual agent of relief for the sick, working
+    through imagination and will.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: afflicted patient
+  assigned_to:
+  - fig:3
+  basis: The sick person is described as influenced by the shaman and as participating
+    through exerted will power.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Illness in crowded winter housing
+  summary: The passage connects pulmonary disease with crowded, poorly ventilated
+    huts kept tightly closed for warmth, including avoidance of a deserted snow hut
+    if the doorway was not blocked.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Shamanic treatment of sickness
+  summary: A shaman or conjurer attempts to relieve a sick person by influencing imagination
+    and by exerting will alongside the patient.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Disease measured by wealth
+  summary: The passage states that the magnitude of disease is generally evaluated
+    in relation to the patient’s worldly wealth.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: shamanic healing through imagination and will
+  taxonomy_refs: []
+  basis: The passage describes the shaman or conjurer as the usual source of relief,
+    acting on the sick person’s imagination, with both healer and patient exerting
+    will power.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an ethnographic medical description rather than a narrative myth;
+    no specific mythic taxonomy family is directly supported.
+- id: motif:2
+  label: illness evaluated by patient’s wealth
+  taxonomy_refs: []
+  basis: The passage states that the magnitude of disease is generally measured by
+    the patient’s worldly wealth.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The statement is brief and not explained within the passage; its ritual,
+    economic, or social meaning is uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1923-1931
+  quote_or_summary: Principal diseases are described as pulmonary troubles arising
+    from crowded, poorly ventilated huts and decomposing animal food.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized for concise extraction.
+- id: ev:2
+  type: summary
+  locator: lines 1931-1936
+  quote_or_summary: Openings are closed to preserve heat; a new snow hut is preferred
+    over one deserted for a night if its doorway was not tightly closed with snow.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized for concise extraction.
+- id: ev:3
+  type: quote
+  locator: lines 1937-1941
+  quote_or_summary: "“so fully one-half of the Eskimo die of pulmonary troubles.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 1941-1946
+  quote_or_summary: Other prevalent diseases include blood-devitalizing conditions
+    such as scurvy; sores appear on shoulders, elbows, knees, and ankles, and disease
+    may quickly carry off the afflicted person.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized for concise extraction.
+- id: ev:5
+  type: summary
+  locator: lines 1947-1951
+  quote_or_summary: Relief is usually sought through the shaman or conjurer, who works
+    on the imagination of the sick person, described as easily influenced in that
+    condition.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized for concise extraction.
+- id: ev:6
+  type: summary
+  locator: lines 1951-1956
+  quote_or_summary: The will power of both patient and shaman is described as stretched
+    to its utmost; faith may produce relief, or the cure fails.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized for concise extraction.
+- id: ev:7
+  type: quote
+  locator: lines 1957-1958
+  quote_or_summary: "“The magnitude of the disease is generally measured by the amount
+    of the patient’s worldly wealth.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ethnographic content is clear. Motif candidates are limited because
+    the passage is not a myth narrative and contains no directly supported taxonomy
+    motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol references or comparison claims were assigned because the passage does not directly support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l1923-l1958
+  passage_sha256=afd62aaa28af8bfa70658e832c0d9df3d1597cb7677d9a7879a443f574a673b4
+

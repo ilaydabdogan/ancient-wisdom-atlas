@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l3631-l3649
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: FOLK SONG / BALLAD / THE NIGHTINGALE OF AVARAIR / THOU ART SO SWEET; lines
+    3631-3649
+  start: '3631'
+  end: '3649'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Love’s fire is such, ‘twill not consume—‘twill burn, and burn, and ever burn
+  summary: A minstrel addresses a beloved who is sweet but unyielding. He describes
+    love as a fire that burns without consuming, the beloved’s brightness as lightning
+    piercing his heart, and the beloved as an absolute monarch who makes no pact.
+    The beloved’s power is also imagined as melting mountains and ruining cities.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker identifies the addressee as sweet and says the addressee will
+    not pain the minstrel while he sings songs to them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says the addressee frowns when the minstrel loves them and that
+    he tells his wrongs in vain.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Love is described as a fire that does not consume but burns continuously.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker imagines falling into a sea of flame to cool himself, while the
+    addressee would not turn toward him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The addressee’s lightning gleams are said to pierce the minstrel’s heart.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The addressee will make no pact, treaty, or compact with the singer.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:7
+  text: The addressee is called an absolute monarch.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: If the addressee meets high mountains, the mountains melt away like wax.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: If fair cities lie on the addressee’s path, their pride is laid in ruins.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The speaker names Sayat Nova and says he has no credit when he tells his pains
+    to the addressee.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: minstrel / Sayat Nova
+  description: The singer who addresses the beloved, sings strains, loves, and tells
+    his wrongs and pains.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: addressed beloved
+  description: The unnamed addressee is described as sweet, frowning at the minstrel’s
+    love, refusing pact or compact, an absolute monarch, and capable of melting mountains
+    and ruining cities.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: suffering singer-lover
+  assigned_to:
+  - fig:1
+  basis: The figure sings to the addressee, loves them, tells wrongs and pains, and
+    is pierced in the heart.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: unresponsive beloved
+  assigned_to:
+  - fig:2
+  basis: The addressee frowns when loved, does not turn toward the speaker, and makes
+    no pact or compact with him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: absolute sovereign power
+  assigned_to:
+  - fig:2
+  basis: The addressee is called a monarch absolute and is described as overpowering
+    mountains and cities.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: love’s fire
+  literal_form: fire / sea of flame
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lightning gleams piercing the heart
+  literal_form: lightning gleams
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: mountains melting like wax
+  literal_form: mountains high like wax melting away
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cities laid in ruins
+  literal_form: fair cities on the path, their pride in ruins
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: absolute monarch
+  literal_form: monarch absolute
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Minstrel addresses the unyielding beloved
+  summary: The minstrel sings to the sweet addressee, but the addressee frowns at
+    his love and he speaks his wrongs in vain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Love as perpetual flame
+  summary: The speaker describes love as an ever-burning fire that does not consume,
+    and imagines falling into flame without receiving the addressee’s aid.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Beloved as piercing sovereign
+  summary: The speaker says the addressee’s lightning gleams pierce his heart and
+    calls the addressee an absolute monarch who makes no treaty.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Beloved’s destructive path
+  summary: The addressee is imagined as melting high mountains like wax and laying
+    proud cities in ruins.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Sayat Nova’s pains rejected
+  summary: The singer says no compact will be made with him and that Sayat Nova has
+    no credit when telling his pains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: love as unconsuming, perpetual fire
+  taxonomy_refs: []
+  basis: Love is explicitly described as a fire that will not consume but will burn
+    forever.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a lyric metaphor rather than a narrative episode.
+- id: motif:2
+  label: unresponsive beloved refuses the lover’s appeal
+  taxonomy_refs: []
+  basis: The beloved frowns at the minstrel’s love, does not turn toward him, and
+    makes no compact with him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The addressee is unnamed and not explicitly identified as divine or supernatural.
+- id: motif:3
+  label: beloved as absolute monarch
+  taxonomy_refs: []
+  basis: The addressee is directly called a monarch absolute and is associated with
+    refusal of pact or treaty.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The sovereignty is metaphorical within a love lyric.
+- id: motif:4
+  label: overwhelming beloved power destroys landscape and city
+  taxonomy_refs: []
+  basis: The addressee is imagined as melting mountains like wax and ruining cities
+    on their path.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The description is hyperbolic poetic imagery; it is not presented as an
+    actual event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3631-3636
+  quote_or_summary: "“Thou art so sweet thou wilt not pain the minstrel singing songs
+    to thee, / But when he loves thee thou dost frown—in vain he tells his wrongs
+    to thee.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3637-3639
+  quote_or_summary: "“Love’s fire is such, ‘twill not consume—‘twill burn, and burn,
+    and ever burn: / If in that sea of flame I fall to cool me thou wilt never turn.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 3640-3642
+  quote_or_summary: "“Alas, how shall the minstrel bear thy lightning gleams that
+    pierce his heart? / No pact or treaty wilt thou make—a monarch absolute thou art.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3643-3645
+  quote_or_summary: "“If thou dost meet with mountains high like wax thou meltest
+    them away; / If cities fair lie on thy path, their pride in ruins thou dost lay.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 3646-3649
+  quote_or_summary: "“In sooth, no compact wilt thou make with him who sings these
+    strains to thee: / Sayat Nova no credit hath when he would tell his pains to thee.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal imagery and speaker-addressee relationship are clear. Motif labels
+    are cautious because the passage is a lyric poem with metaphorical, not narrative,
+    action. No comparison claims are made because the passage itself does not establish
+    a comparison to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only provided passage and metadata were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l3631-l3649
+  passage_sha256=ba021691981e1368f37e178727d1909aa697a2c87ee1cc6bd059a812e119baaf
+

@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l1112-l1150
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: MOSES OF KHORENE / LAMENT OVER THE HEROES FALLEN IN THE BATTLE OF AVARAIR
+    / THE SONG OF THE STORK / FOLK SONG; lines 1112-1150
+  start: '1112'
+  end: '1150'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Thy coming is the sign of spring,”"
+  summary: A folk song addresses a returning stork, welcomes it as a springtime guest,
+    invites it to nest on the household ash-tree, and recalls the winter cold, snow,
+    and frost that killed flowers after the bird last departed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker welcomes the stork’s return.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stork’s coming is described as the sign of spring and as bringing joy
+    and gladness.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker asks the stork to descend upon the roof and build a nest on the
+    ash-tree.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stork is called a dear one and an honoured guest.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says they would complain to the stork and tell many sorrows and
+    inward griefs.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker recalls that when the stork left the house and ash-tree, cold
+    winds filled the heavens and flowers were killed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Dark clouds obscured the sky; snow fell in flakes; Winter killed the flowers
+    below.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Snow from the mountain of Varag enfolded the earth and made the green meadow
+    cold.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The garden was white, and tender green rose-trees died from winter frost-bite.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: stork
+  description: A stork addressed by the speaker, welcomed on its return, invited to
+    nest on the ash-tree, and treated as an honoured guest.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: speaker of the song
+  description: A first-person speaker who welcomes the stork, invites it to the household
+    roof and ash-tree, and wishes to complain of sorrows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: returning sign of spring
+  assigned_to:
+  - fig:1
+  basis: The stork’s return is welcomed, and its coming is explicitly called the sign
+    of spring.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: honoured household guest and nesting bird
+  assigned_to:
+  - fig:1
+  basis: The stork is invited to descend on the roof, build a nest on the ash-tree,
+    and is called a dear and honoured guest.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: lamenting speaker
+  assigned_to:
+  - fig:2
+  basis: The speaker says they would complain to the stork and tell many sorrows and
+    griefs.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: departed bird recalled in winter memory
+  assigned_to:
+  - fig:1
+  basis: The speaker recalls the stork leaving the house and ash-tree before cold
+    winds and flower-death are described.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: stork as spring sign
+  literal_form: returning stork
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ash-tree nesting place
+  literal_form: ash-tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: house roof
+  literal_form: roof of the household
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: winter snow and frost
+  literal_form: snow, cold winds, and winter frost-bite
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: mountain of Varag
+  literal_form: mountain of Varag
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: flowers and rose-trees killed by winter
+  literal_form: flowers and tender green rose-trees
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Welcome of the returning stork
+  summary: The speaker welcomes the stork’s return and states that its coming signals
+    spring and brings joy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invitation to nest at the household
+  summary: The speaker asks the stork to descend on the roof, build a nest on the
+    ash-tree, and be present as a dear honoured guest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Complaint to the stork
+  summary: The speaker turns to the stork as an addressee for sorrows and griefs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Winter after the stork’s departure
+  summary: The speaker recalls that after the stork left, cold winds, dark clouds,
+    snow from Varag, and frost covered the land and killed flowers and rose-trees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seasonal cycle marked by bird return and winter flower-death
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The stork’s coming is named as the sign of spring, while the remembered winter
+    brings cold, snow, and the death of flowers and rose-trees.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is a lyric folk song and presents the seasonal pattern through
+    household and landscape images rather than through an extended mythic narrative.
+- id: motif:2
+  label: return of a welcomed absent guest
+  taxonomy_refs:
+  - return
+  basis: The stork’s return is repeatedly welcomed, and the bird is addressed as a
+    dear and honoured guest invited back to the roof and ash-tree.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The return is literal and seasonal; the broader comparative motif of return
+    is not elaborated beyond the bird’s arrival.
+- id: motif:3
+  label: departure followed by hardship
+  taxonomy_refs:
+  - departure
+  basis: The speaker recalls that when the stork left the house and ash-tree, cold
+    winds arrived and flowers were killed.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes the departure retrospectively and does not frame
+    it as a heroic or initiatory departure.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to a seasonal-cycle motif pattern
+    in which a returning bird marks spring and winter is associated with cold, snow,
+    and the death of plant life.
+  claim_level: same_motif
+  target: motif_family:seasonal_cycle
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage itself supports only the seasonal pattern; it does not
+    provide evidence for historical contact, common inheritance, or a detailed mythological
+    cycle.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1116-1119
+  quote_or_summary: "“Stork, I welcome thy return... Thy coming is the sign of spring,
+    / And thou dost joy and gladness bring.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1121-1124
+  quote_or_summary: "“Stork, upon our roof descend... Upon our ash-tree build thy
+    nest, / Our dear one, and our honoured guest.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1126-1129
+  quote_or_summary: The speaker says they would complain to the stork and tell a thousand
+    sorrows and inner griefs.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1131-1134
+  quote_or_summary: When the stork last left the house and ash-tree, cold blasting
+    winds filled the heavens and the flowers were killed.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1136-1139
+  quote_or_summary: Dark clouds obscured the sky, snow fell in flakes, and Winter
+    killed the flowers below.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1141-1144
+  quote_or_summary: Snow from the mountain of Varag enfolded the earth, and the green
+    meadow was cold.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 1146-1149
+  quote_or_summary: The garden was white, and tender green rose-trees died from winter
+    frost-bite.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: 'Literal extraction is straightforward. Motif assignments are limited to
+    patterns directly supported by the lyric: seasonal cycle, return, and departure.
+    No claims of historical relationship are made.'
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references are restricted to supplied motif families and symbols.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l1112-l1150
+  passage_sha256=194e19dec63501456f1195487bdc4e7610aa6fcb32e6ad37be00dab9fb585580
+

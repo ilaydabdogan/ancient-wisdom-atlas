@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.arctic-inuit-across-arctic-america-rasmussen-archive-l3530-l3568
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+passage_locator:
+  label: THE OWL THAT WOOED A SNOW BUNTING / THE RAVEN AND THE LOON / THUNDER AND
+    LIGHTNING / THE OWL AND THE MARMOT; lines 3530-3568
+  start: '3530'
+  end: '3568'
+  translation: 'Across Arctic America: Narrative of the Fifth Thule Expedition'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An owl blocks a marmot from entering its home and boasts in song. The marmot
+    flatters the owl into standing with its legs wider apart, then escapes between
+    them into its hole. The tale is attributed to Kivkarjuk. The surrounding prose
+    describes plans to visit another settlement and a song festival in Igjugarjuk's
+    tent.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An owl goes hunting, sees a marmot outside its house, and takes a position
+    in front of the entrance.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The owl sings that it has barred a land beast from its home and calls for
+    others to fetch it with two sledges.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The marmot addresses the owl as mighty and asks it to spread its legs wider
+    and show its chest.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The owl becomes proud of its broad chest and repeatedly spreads its legs wider.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The marmot escapes by slipping between the owl's legs and running into its
+    hole.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The tale is attributed to Kivkarjuk as teller.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: After the tale, the narrator describes plans to visit a settlement on the
+    southern shore of Hikoligjuaq and a song festival in Igjugarjuk's tent.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: At the song festival, a singer stands in the middle with closed eyes while
+    women and men join in chorus.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: owl
+  description: A hunting owl that blocks the marmot's entrance and is proud of its
+    broad chest.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: marmot
+  description: A land animal outside its house that speaks to the owl and escapes
+    into its hole.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Kivkarjuk
+  description: Named as the teller of the owl and marmot tale.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: narrator
+  description: The first-person narrator who plans to cross to the southern shore
+    of Hikoligjuaq.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: song festival participants
+  description: Guests, a central singer, women seated on the bench, and men whose
+    voices join the singing.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The owl goes out hunting and approaches the marmot.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: blocker of entrance
+  assigned_to:
+  - fig:1
+  basis: The owl sits in front of the marmot's entrance and says it has barred the
+    way home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: threatened animal
+  assigned_to:
+  - fig:2
+  basis: The marmot is outside its house while the owl blocks the entrance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: deceptive escapee
+  assigned_to:
+  - fig:2
+  basis: The marmot flatters the owl into changing its stance and then escapes through
+    the opening.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: teller
+  assigned_to:
+  - fig:3
+  basis: The passage states that the tale was told by Kivkarjuk.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: traveling observer
+  assigned_to:
+  - fig:4
+  basis: The narrator describes deciding to cross Hikoligjuaq to visit a settlement.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: festival performers and audience
+  assigned_to:
+  - fig:5
+  basis: The passage describes guests, a singer, women, and men participating in the
+    song festival.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: blocked home entrance
+  literal_form: the entrance to the marmot's house or hole
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: two sledges
+  literal_form: two sledges requested in the owl's song
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: broad chest and widened legs
+  literal_form: the owl's chest and leg stance displayed after the marmot's praise
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Owl blocks marmot's home
+  summary: The owl hunts, notices the marmot outside its house, sits at the entrance,
+    and sings that it has barred the marmot's way home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Marmot flatters owl
+  summary: The marmot praises the owl's might and chest and urges it to spread its
+    legs wider; the owl responds proudly by widening its stance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Marmot escapes
+  summary: Once the owl's stance is wide enough, the marmot slips between its legs
+    and runs into its hole.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Attribution and song festival context
+  summary: The tale is attributed to Kivkarjuk, and the prose shifts to the narrator's
+    travel plans and a song festival in Igjugarjuk's tent.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: prey escapes predator by verbal trickery
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The marmot uses flattering speech to make the owl widen its stance, creating
+    a route of escape through the blocked threshold.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly name the marmot as a trickster; the taxonomy
+    reference is based on the boundary-crossing escape and verbal deception.
+- id: motif:2
+  label: vanity exploited through praise
+  taxonomy_refs: []
+  basis: The owl's pride in its chest leads it to comply with the marmot's requests,
+    enabling the marmot's escape.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level motif description rather than a supplied taxonomy
+    item.
+- id: motif:3
+  label: blocked entrance to animal dwelling
+  taxonomy_refs: []
+  basis: The owl physically bars the marmot from returning to its home, making the
+    entrance the central obstacle in the tale.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: No broader comparative classification is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3530-3536
+  quote_or_summary: An owl goes hunting, sees a marmot outside its house, flies toward
+    it, and sits in front of the entrance.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: quote
+  locator: lines 3536-3539
+  quote_or_summary: 'The owl sings: "I have barred the way of a land beast to its
+    home. Come and fetch it, and bring two sledges."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 3540-3542
+  quote_or_summary: The marmot calls the owl mighty and asks it to spread its legs
+    wider and show its powerful chest.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 3543-3551
+  quote_or_summary: The owl is proud of its broad chest and spreads its legs wider,
+    then wider still, stretching its chest as far as it can.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: quote
+  locator: lines 3552-3553
+  quote_or_summary: '"the marmot slipped between its legs and ran off into its hole."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: line 3555
+  quote_or_summary: '"Told by Kivkarjuk."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: summary
+  locator: lines 3557-3563
+  quote_or_summary: The narrator hears of a larger settlement on the southern shore
+    of Hikoligjuaq, decides to cross there, and notes that a grand song festival is
+    arranged in Igjugarjuk's tent before departure.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: lines 3563-3568
+  quote_or_summary: Guests fill the tent; a singer stands in the middle with closed
+    eyes and swaying hips, while seated women and men join in chorus.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are inferred at passage
+    level from the owl-marmot episode; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. The source label mentions several tale titles, but the supplied passage text contains the owl-and-marmot tale followed by prose context about a song festival.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:arctic-inuit-across-arctic-america-rasmussen-archive__l3530-l3568
+  passage_sha256=91157d9e337dd9dcc7081ab2e5ba3cad68d956596b5d7b83dbda4c514f6393e0
+

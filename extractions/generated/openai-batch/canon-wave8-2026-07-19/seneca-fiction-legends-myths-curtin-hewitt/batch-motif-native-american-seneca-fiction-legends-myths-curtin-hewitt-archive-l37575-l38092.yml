@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.native-american-seneca-fiction-legends-myths-curtin-hewitt-archive-l37575-l38092
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: BIWITTJ / BIWITTJ / CURTIN,! / SENECA FICTION, LEGENDS, AND MYTHS; lines
+    37575-38092
+  start: '37575'
+  end: '38092'
+  translation: Seneca Fiction, Legends, and Myths
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A heavily OCR-corrupted interlinear Seneca-English passage describes an
+    ancient male figure hearing a dog barking, running toward a canoe at a lake or
+    water-side place, and addressing or summoning wild geese called his servants.
+    The wild geese arrive beside the canoe, make sounds, attach themselves, and move
+    or paddle in connection with the canoe. A child or young male figure speaks directions,
+    refuses an order to turn back, and speaks again concerning the lake.
+  language: English with Seneca interlinear text and glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An ancient male figure hears a dog barking nearby.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dog is represented through repeated vocal sounds and is explicitly glossed
+    as a dog.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ancient male figure runs toward a place where a canoe lies by water or
+    beside a lake.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Wild geese are called servants and arrive beside the canoe.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The wild geese make sounds and attach their bodies in connection with the
+    canoe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A child or young male figure speaks directions concerning movement by the
+    canoe and the wild geese.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The canoe and the wild geese are described as moving or paddling over the
+    lake or water.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The ancient male figure tells the child to turn back, but the child does not
+    listen.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A later speech by the child mentions the lake and hiding; the passage then
+    describes rejoicing or joyful sounds.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: ancient male figure
+  description: A figure glossed as an ancient one who hears the dog, runs toward the
+    canoe, calls wild geese servants, and later orders the child to turn back.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: dog
+  description: A dog heard barking, represented with repeated vocal syllables in the
+    passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: child or young male figure
+  description: A figure glossed as a child or great child who speaks directions concerning
+    the canoe/geese and does not listen when told to turn back.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: wild geese
+  description: Wild geese called servants; they arrive beside the canoe, make sounds,
+    attach themselves, and are associated with paddling or moving the canoe over water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: elder or ancient actor
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly glosses the figure as an ancient one and gives him
+    the actions of hearing, running, summoning, and commanding.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: animal signaler
+  assigned_to:
+  - fig:2
+  basis: The dog is heard barking and its repeated vocal sounds prompt attention from
+    the ancient figure.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: child speaker and canoe director
+  assigned_to:
+  - fig:3
+  basis: The child speaks directions concerning movement and refuses the ancient figure's
+    command to turn back.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: animal servants or helpers
+  assigned_to:
+  - fig:4
+  basis: The wild geese are called servants, arrive at the canoe, attach themselves,
+    and participate in movement over water.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: barking dog
+  literal_form: Dog heard barking, with repeated vocal syllables.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: canoe
+  literal_form: A canoe lying by or on the water and used in the lake movement.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: lake water
+  literal_form: Lake or water-side setting in which the canoe is located and across
+    which movement occurs.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: wild geese
+  literal_form: Wild geese summoned as servants and attached to the canoe.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dog heard by the ancient figure
+  summary: The ancient male figure hears a dog barking nearby, with the dog's sound
+    represented repeatedly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Run to the canoe at the lake
+  summary: The ancient figure runs to a place where a canoe lies by water or beside
+    a lake.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Wild geese arrive as servants
+  summary: The wild geese are called servants; they arrive beside the canoe, make
+    sounds, and attach themselves in connection with it.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Child directs water movement
+  summary: The child or young male figure speaks directions, while the geese and canoe
+    are described as moving or paddling over the lake.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Refusal to turn back
+  summary: The ancient figure calls for the child to turn back, but the child does
+    not listen and later speaks about the lake.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: animal helpers moving a water vessel
+  taxonomy_refs: []
+  basis: The wild geese are summoned as servants, attach themselves near the canoe,
+    and participate in movement or paddling over water.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The OCR and interlinear glossing are difficult, so the exact mechanics
+    of attachment and movement require human verification.
+- id: motif:2
+  label: water departure by canoe
+  taxonomy_refs:
+  - departure
+  basis: The passage places a canoe at the lake or water and describes movement over
+    the lake, followed by an order to turn back that is not obeyed.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The broader narrative purpose of the departure is not fully clear from
+    this passage fragment.
+- id: motif:3
+  label: animal sound as narrative signal
+  taxonomy_refs: []
+  basis: The ancient figure hears the dog barking nearby, and the barking is given
+    prominence through repeated sounds.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not clearly state the full consequence or meaning of
+    the dog's barking beyond drawing attention.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37575-38092
+  quote_or_summary: The passage glosses an ancient one hearing barking nearby from
+    a dog, with repeated dog-like sounds such as “Wau” and glosses including “dog”
+    and “barking.”
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; short supplied excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 37575-38092
+  quote_or_summary: The ancient figure runs to a place where a canoe lies; the glosses
+    include references to a canoe, water, and a lake-side location.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; short supplied excerpt summarized.
+- id: ev:3
+  type: summary
+  locator: lines 37575-38092
+  quote_or_summary: The figure calls “my servants” in relation to “wild geese”; the
+    wild geese arrive beside the canoe, make sounds, and attach their bodies.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; short supplied excerpt summarized.
+- id: ev:4
+  type: summary
+  locator: lines 37575-38092
+  quote_or_summary: A child or great-child figure speaks directions after the wild
+    geese hear the speech; the speech concerns directing themselves and movement associated
+    with the canoe.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; short supplied excerpt summarized.
+- id: ev:5
+  type: summary
+  locator: lines 37575-38092
+  quote_or_summary: The passage describes the wild geese making repeated sounds, paddling
+    or moving, and the canoe traveling over the lake or water.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; short supplied excerpt summarized.
+- id: ev:6
+  type: summary
+  locator: lines 37575-38092
+  quote_or_summary: The ancient one speaks to the child, telling him to turn back;
+    the child is then described as not listening.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; short supplied excerpt summarized.
+- id: ev:7
+  type: summary
+  locator: lines 37575-38092
+  quote_or_summary: The child speaks again, mentioning the lake and being hidden;
+    the passage then describes rejoicing or joyful sound expressions.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; short supplied excerpt summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is public domain and contains usable interlinear glosses, but
+    OCR corruption and fragmentary context make some figure relationships and action
+    details uncertain. No explicit comparison to another tradition or corpus is made
+    in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All motif labels are descriptive candidates based only on the supplied line range; comparison claims are intentionally left empty because the passage itself does not provide explicit comparative framing.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-seneca-fiction-legends-myths-curtin-hewitt-archive__l37575-l38092
+  passage_sha256=e750be27eff6e387a75010987eaa937c024aa55e87e471c96179d5d02520cb4e
+

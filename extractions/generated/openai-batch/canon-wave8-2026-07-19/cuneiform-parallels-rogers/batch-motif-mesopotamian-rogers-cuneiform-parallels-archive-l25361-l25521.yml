@@ -1,0 +1,499 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l25361-l25521
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: II. A CERTIFICATE OF ADOPTION1 / IV. THE CODE OF HAMMURAPI / LITERATURE /
+    PROLOGUE1; lines 25361-25521
+  start: '25361'
+  end: '25521'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A legal passage from the Code of Hammurapi gives rules for livestock custody,
+    herdsman liability, exceptions for divine or wild-animal loss, hire rates for
+    animals, vehicles, laborers, artisans, and ships, and seller responsibility in
+    transactions involving slaves.
+  language: English with transliterated Akkadian
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'If a hired or entrusted ox or sheep is lost, restitution is made in kind:
+    ox for ox and sheep for sheep.'
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A herdsman who has received agreed hire and then diminishes cattle, sheep,
+    or birth rate must provide offspring and produce according to contract.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A dishonest herdsman who changes the price or sells entrusted animals is called
+    to account and must render tenfold what was stolen.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If a divine stroke falls in the sheepfold or a lion kills, the herdsman declares
+    innocence before the god, and the owner bears the fold's damage.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: If a herdsman is careless and causes loss in the fold, he must make good the
+    loss and pay cattle or sheep to the owner.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage assigns hire rates in grain for oxen, asses, young animals, oxen
+    with wagon and driver, and wagon-only hire.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage assigns seasonal daily wages for laborers and daily silver wages
+    for several artisans.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage assigns daily silver hire rates for ships, including upstream
+    sailing and ships of stated tonnage.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A male or female slave who develops bennu fever before completing a month
+    is returned to the seller, and the buyer receives back the money paid.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: If there is a claim upon a purchased male or female slave, the seller is responsible
+    for the claim.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: man
+  description: Generic legal actor who hires, buys, or contracts for animals, labor,
+    wagons, ships, or slaves.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: herdsman / shepherd
+  description: Custodian of oxen or sheep given to pasture; may be liable for loss,
+    dishonesty, or carelessness, but may declare innocence in specified cases.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: owner of animals or fold
+  description: Owner to whom lost, stolen, or damaged cattle or sheep are owed; bears
+    damage in the divine-stroke or lion-killing case.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: god
+  description: Divine figure before whom the herdsman declares innocence when loss
+    is caused by divine stroke or lion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: lion
+  description: Wild animal named as a cause of killing in the sheepfold.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: laborer and artisans
+  description: Hired workers whose daily wages are listed, including artisan, brickmaker,
+    tailor, carpenter, leather worker, ship builder, and builder.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: male or female slave
+  description: Purchased person subject to return if bennu fever occurs within a month,
+    or to seller responsibility if a claim exists.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:8
+  name_or_label: seller
+  description: Person who sells a slave and must refund payment or answer a claim
+    in the stated cases.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:9
+  - ev:10
+roles:
+- id: role:1
+  label: hirer or buyer
+  assigned_to:
+  - fig:1
+  basis: The generic man hires animals, wagons, laborers, artisans, or ships, and
+    buys slaves.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:2
+  label: entrusted livestock custodian
+  assigned_to:
+  - fig:2
+  basis: The herdsman receives oxen and sheep to pasture and is judged by what happens
+    to them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: owner entitled to restitution or bearing specified loss
+  assigned_to:
+  - fig:3
+  basis: The owner receives in-kind, tenfold, or careless-loss restitution, but bears
+    damage in the divine-stroke or lion case.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: divine witness to innocence
+  assigned_to:
+  - fig:4
+  basis: The herdsman declares himself innocent before the god when a divine stroke
+    or lion killing occurs.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: liable negligent or dishonest agent
+  assigned_to:
+  - fig:2
+  basis: The herdsman is liable when careless, dishonest, changing price, selling
+    animals, or diminishing herds and birth rate.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:6
+  label: contracting party
+  assigned_to:
+  - fig:1
+  basis: The laws state payments owed by one who hires animals, vehicles, labor, artisans,
+    or ships.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:7
+  label: wild cause of loss
+  assigned_to:
+  - fig:5
+  basis: The lion is named as the killer in a sheepfold-loss case.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: wage receiver
+  assigned_to:
+  - fig:6
+  basis: Laborers and artisans receive specified daily wages.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: purchased slave subject to warranty rules
+  assigned_to:
+  - fig:7
+  basis: The male or female slave may be returned for illness within a month, or may
+    carry a claim for which the seller is responsible.
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:10
+  label: seller responsible for refund or claim
+  assigned_to:
+  - fig:8
+  basis: The seller must receive back the ill slave and refund the buyer, and is responsible
+    if there is a claim on the slave.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: sheepfold
+  literal_form: fold / sheepfold where cattle or sheep are kept
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: stroke of god
+  literal_form: divine stroke falling in the sheepfold
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: lion
+  literal_form: lion killing in the sheepfold
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: silver and grain payments
+  literal_form: silver and grain used to express wages, hire, and compensation
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: tenfold restitution
+  literal_form: tenfold repayment of stolen cows and sheep
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Entrusted livestock and restitution
+  summary: Rules specify how a herdsman or custodian must compensate an owner when
+    oxen or sheep are lost, diminished, under-produced, stolen, sold, or mishandled.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Divine or wild-animal loss in the fold
+  summary: When loss in the sheepfold comes from a divine stroke or a lion, the herdsman
+    declares innocence before the god and the owner bears the damage.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Hire and wage schedules
+  summary: The passage lists daily or seasonal rates for hired threshing animals,
+    wagons, drivers, laborers, artisans, and ships.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Slave sale liability
+  summary: The passage states that an ill purchased slave may be returned within a
+    month and that a seller is responsible if a claim exists upon the slave.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Divine exculpation for unavoidable loss
+  taxonomy_refs:
+  - divine_judgment
+  basis: The herdsman is not simply liable when the loss is described as a stroke
+    of god or a lion killing; he declares innocence before the god, after which the
+    owner bears the loss.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a legal procedure rather than a narrative myth episode; the divine
+    element is limited to oath-like declaration before a god.
+- id: motif:2
+  label: Custodian liability and restitution for entrusted animals
+  taxonomy_refs: []
+  basis: 'The passage repeatedly sets restitution duties for entrusted livestock:
+    in-kind replacement, contractual production, tenfold repayment for theft, and
+    compensation for careless loss.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a legal-economic pattern, not a mythological motif in the narrow
+    sense.
+- id: motif:3
+  label: Measured exchange through fixed hire and wage rates
+  taxonomy_refs: []
+  basis: The passage enumerates fixed payments in grain or silver for animals, vehicles,
+    laborers, artisans, and ships.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No sacred or narrative symbolism is explicit; the pattern is administrative
+    and legal.
+- id: motif:4
+  label: Seller warranty for hidden defect or claim
+  taxonomy_refs: []
+  basis: A slave who develops bennu fever within a month is returned for refund, and
+    a seller is responsible if a claim exists upon the slave.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage presents a commercial rule; no mythic comparison is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: "§263"
+  quote_or_summary: If an entrusted ox or sheep is lost, the person responsible renders
+    ox for ox and sheep for sheep to the owner.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: "§264"
+  quote_or_summary: A herdsman given oxen or sheep to pasture, after receiving agreed
+    hire, must provide offspring and produce according to contract if he diminishes
+    animals or birth rate.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: "§265"
+  quote_or_summary: A dishonest herdsman who changes price or sells entrusted livestock
+    must render to the owner tenfold what was stolen.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: "§266"
+  quote_or_summary: If a stroke of god falls in a sheepfold or a lion kills, the herdsman
+    declares innocence before the god, and the owner of the fold faces the damage.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: "§267"
+  quote_or_summary: If a careless herdsman causes loss in the fold, he makes good
+    the loss and pays cows or sheep to the owner.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: "§§268-272"
+  quote_or_summary: Hire rates are set in grain for ox, ass, young animal, oxen with
+    wagon and driver, and wagon-only hire.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: "§§273-274"
+  quote_or_summary: Daily wages are set by season for a laborer and in silver for
+    artisans including brickmaker, tailor, carpenter, leather worker, ship builder,
+    and builder.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: "§§275-277"
+  quote_or_summary: Daily silver hire rates are given for ships, including upstream
+    travel and a ship of sixty GUR tonnage.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: "§278"
+  quote_or_summary: If a bought male or female slave has not completed a month and
+    bennu fever falls on him, the buyer returns the slave to the seller and receives
+    back the payment.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: "§279"
+  quote_or_summary: If a claim exists upon a bought male or female slave, the seller
+    is responsible for the claim.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The legal content is clear, but most candidate motifs are legal-administrative
+    patterns rather than mythic narrative motifs. No comparison claims are made because
+    the passage itself does not support external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage label references broader sections, but the provided text chiefly contains Code of Hammurapi §§260-279, especially livestock liability, hire and wage rates, and slave-sale rules.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l25361-l25521
+  passage_sha256=c549e9bd467cf3f4db40b4a0b3627c204db25344eb46d706ca7b1acbb064ef41
+

@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l2104-l2125
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: RACIAL    BOUNDARIES. / HUNTING  TERRITORIES. / CLIMATE. / SNOW.; lines 2104-2125
+  start: '2104'
+  end: '2125'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes snow as an important part of Eskimo economy and gives
+    several snow-related terms, distinguishing snow by condition, location, and use
+    in snow-house construction.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Snow is described as entering nearly as much into Eskimo economy as ice.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Snow is said to have many names according to its condition and place.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The general word for snow lying on the ground is given as a-'pat, with an
+    Alaska form given parenthetically as a"pu'n.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Falling snow is identified as qo-'n'nik, with qonikpaq glossed as meaning
+    that it falls or is snowing.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Snow blocks for building snow-houses are made from “living” snow, described
+    as snow that adheres when blocks are placed together.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage locates suitable “living” snow in a newly made drift that has
+    just begun to harden.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The blocks themselves are called carilu'ktaq, derived from caruya, glossed
+    as “cutting out.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The roof key piece is called the qwdlik.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A note reports Dr. Boas’s statement about an Eskimo sound and possible dialect
+    variation.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eskimo people described in the passage
+  description: The group whose snow economy and snow terminology are described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Dr. Boas
+  description: A cited informant in a note on Eskimo sound variation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: described users of snow terminology and snow-house materials
+  assigned_to:
+  - fig:1
+  basis: The passage links Eskimo economy, snow terms, and snow-house building materials.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: cited linguistic informant
+  assigned_to:
+  - fig:2
+  basis: The note attributes information about an Eskimo sound and dialect variation
+    to Dr. Boas.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: snow
+  literal_form: Snow as ground snow, falling snow, and snow classified by condition
+    and place.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: "“living” snow"
+  literal_form: Adhesive snow, ca^u'ila'ktaq, used for snow-house blocks and found
+    in a newly made hardening drift.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: snow blocks
+  literal_form: Blocks for building snow-houses, termed carilu'ktaq.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: roof key piece
+  literal_form: The qwdlik, the key piece that fits in the roof.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Naming snow by condition and place
+  summary: The passage explains that snow has many names and lists terms for snow
+    lying on the ground and falling snow.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Snow-house construction materials
+  summary: The passage describes adhesive “living” snow used for snow-house blocks,
+    names the blocks, and identifies the roof key piece.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: specialized environmental vocabulary for snow
+  taxonomy_refs: []
+  basis: The passage states that snow has many names according to condition and place
+    and gives examples for ground snow and falling snow.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic lexical pattern, not a mythic narrative motif;
+    no supplied taxonomy reference directly applies.
+- id: motif:2
+  label: snow-house construction from adhesive drift snow
+  taxonomy_refs: []
+  basis: The passage describes “living” snow as the material for snow-house blocks
+    and names the blocks and roof key piece.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a practical construction pattern rather than a mythological motif;
+    no supplied taxonomy reference directly applies.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the term a-'pat for snow lying on the ground
+    with the Alaska form a"pu'n.
+  claim_level: linguistic_similarity
+  target: Alaska term a"pu'n for snow lying on the ground
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is only parenthetical and does not by itself establish
+    historical contact, inheritance, or a broader linguistic analysis.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2104-2108
+  quote_or_summary: Snow enters nearly as much into Eskimo economy as ice and has
+    many names according to condition and place.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 2109-2112
+  quote_or_summary: Ground snow is called a-'pat, compared with Alaska a"pu'n; falling
+    snow is called qo-'n'nik, with qonikpaq glossed as snow falling.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 2117-2121
+  quote_or_summary: Snow-house blocks are made from “living” snow, ca^u'ila'ktaq,
+    which adheres and is found in a newly made drift beginning to harden.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 2122-2125
+  quote_or_summary: The blocks are called carilu'ktaq, from caruya, “cutting out”;
+    the roof key piece is qwdlik.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: note within 2104-2125
+  quote_or_summary: A note says Dr. Boas reported that the Eskimo sound printed as
+    “5” is never pure, possibly accounting for apparent dialect variation.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily ethnographic and lexical, with clear literal data
+    but no mythic narrative. Candidate motifs are treated as cultural or symbolic
+    patterns rather than taxonomy-linked myth motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol directly matches the snow terminology and snow-house construction material described in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l2104-l2125
+  passage_sha256=d9d482b02ac3694946d766c3e5a5f20826230ed2da48a3254a125ebda62801f5
+

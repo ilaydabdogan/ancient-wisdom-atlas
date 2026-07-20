@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l98696-l98778
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 4. / KEITEL O / ARANYAKA II / KEITH LP; lines 98696-98778
+  start: '98696'
+  end: '98778'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: This man is the sea, he is above all the world.
+  summary: The passage contrasts human intelligence with animal knowledge governed
+    by hunger and thirst. It says man desires the immortal through the mortal and,
+    like the sea, remains unsatisfied and seeks beyond any world attained. It then
+    describes man as fivefold, identifying elements of the body with fire, ether,
+    water, earth, and air, and divides air into five breaths.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Man is described as most endowed with intelligence, saying and seeing what
+    he has known, and knowing tomorrow, the world, and what is not the world.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Man is said to desire the immortal by means of the mortal.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Animals are described as having hunger and thirst comprise their power of
+    knowledge; they do not say or see what they have known, and they do not know tomorrow
+    or the world and what is not the world.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Man is called the sea and is said to be above all the world.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Whatever man reaches, he desires to be beyond it; if he gains the sky world
+    or yonder world, he desires to be beyond it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'Man is described as fivefold: heat is fire, apertures are ether, blood/mucus/seed
+    are water, the body is earth, and breath is air.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'Air is described as fivefold: up-breathing, down-breathing, back-breathing,
+    out-breathing, and on-breathing.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: man
+  description: The human being described as intelligent, desiring the immortal, likened
+    to the sea, and composed fivefold.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: animals
+  description: Other animals described as governed in knowledge by hunger and thirst
+    and lacking human forms of knowing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: intelligent knower
+  assigned_to:
+  - fig:1
+  basis: Man is said to say, see, and know what he has known, and to know tomorrow
+    and the world/not-world.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: mortal desirer of immortality
+  assigned_to:
+  - fig:1
+  basis: The passage says that by the mortal he desires the immortal.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fivefold embodied being
+  assigned_to:
+  - fig:1
+  basis: The passage identifies parts and substances of man with fire, ether, water,
+    earth, and air.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: hunger-and-thirst-bound animals
+  assigned_to:
+  - fig:2
+  basis: Animals are described as having hunger and thirst comprise their power of
+    knowledge.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: fire in man
+  literal_form: fire identified with what is hot in man
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: water in man
+  literal_form: water identified with blood, mucus, and seed
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: earth in man
+  literal_form: earth identified with the body
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: air and breath
+  literal_form: air identified with breath and divided into five breaths
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: ether in man
+  literal_form: ether identified with the apertures
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Human and animal knowledge contrasted
+  summary: The passage distinguishes man as an intelligent knower from animals whose
+    knowledge is framed by hunger and thirst.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Man as sea and desire beyond worlds
+  summary: Man is likened to the sea, placed above all the world, and described as
+    desiring beyond whatever world he attains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Fivefold composition of man
+  summary: The passage maps aspects of man onto fire, ether, water, earth, and air,
+    then enumerates five forms of breath.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: human wisdom surpassing animal appetite
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly contrasts human knowing of past experience, tomorrow,
+    and world/not-world with animals whose knowing is bounded by hunger and thirst.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a philosophical contrast rather than a narrative episode.
+- id: motif:2
+  label: mortal desire for immortality
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage says man desires the immortal by means of the mortal.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The text states desire for immortality but does not narrate an actual
+    quest.
+- id: motif:3
+  label: insatiable desire beyond attained worlds
+  taxonomy_refs:
+  - ascent
+  basis: The passage says man desires to be beyond whatever he reaches, including
+    the sky world or yonder world.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions possible attainment of worlds and desire beyond them,
+    not a completed ascent narrative.
+- id: motif:4
+  label: human body as elemental microcosm
+  taxonomy_refs: []
+  basis: The passage maps heat, apertures, bodily fluids, body, and breath onto fire,
+    ether, water, earth, and air.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy family directly names the elemental microcosm pattern.
+- id: motif:5
+  label: sea as image of unsatisfied desire
+  taxonomy_refs: []
+  basis: A note in the passage explains the sea as typical of unsatisfied desires,
+    attached to the statement that man is the sea and desires beyond what he reaches.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The explicit interpretive gloss comes from the note rather than from the
+    translated prose alone.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s analysis of stages of conscious life is presented by the note
+    as worth comparing with Aristotle’s theory of the soul.
+  claim_level: same_function
+  target: Aristotle, De Anima II.4 sq., as cited in the note
+  evidence_refs:
+  - ev:6
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage supplies only the commentator’s brief comparison and does
+    not quote Aristotle.
+- id: claim:2
+  claim: The sea image for unsatisfied desire is compared in the note with a similar
+    idea in the Taittiriya Brahmana.
+  claim_level: same_function
+  target: Taittiriya Brahmana II.2.6, as cited in the note
+  evidence_refs:
+  - ev:5
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited parallel is mentioned in a note; the passage does not provide
+    an extended comparative discussion.
+- id: claim:3
+  claim: The note says the same idea of the sea as unsatisfied desire appears repeatedly
+    in the Greek Anthology.
+  claim_level: same_function
+  target: Greek Anthology, as cited in the note
+  evidence_refs:
+  - ev:5
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note gives only a general reference and no specific Greek Anthology
+    passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 98696-98778; translation II.3.2, human intelligence and immortality
+  quote_or_summary: 'Man is described as most endowed with intelligence: he says,
+    sees, and knows what he has known, knows tomorrow and the world/not-world, and
+    by the mortal desires the immortal.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 98696-98778; translation II.3.2, animals
+  quote_or_summary: Animals are said to have hunger and thirst comprise their knowledge;
+    they do not say or see what they have known and do not know tomorrow or the world/not-world.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 98696-98778; translation II.3.3, man as sea
+  quote_or_summary: "“This man is the sea,” and whatever he reaches he desires to
+    be beyond, including the sky world and yonder world."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short quote used.
+- id: ev:4
+  type: summary
+  locator: lines 98696-98778; translation II.3.3, fivefold man
+  quote_or_summary: 'Man is fivefold: heat/fire, apertures/ether, blood-mucus-seed/water,
+    body/earth, breath/air; air is also fivefold as five named breaths.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: note
+  locator: lines 98696-98778; note 1 to II.3.3
+  quote_or_summary: The note states that the sea is typical of unsatisfied desires
+    and cites Taittiriya Brahmana II.2.6 and repeated appearances of the same idea
+    in the Greek Anthology.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: note
+  locator: lines 98696-98778; note 1 before II.3.3
+  quote_or_summary: A note describes this as a philosophical effort to explain stages
+    of conscious life and says Aristotle’s De Anima II.4 sq. is worth comparing.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The central translation is clear, but the provided passage includes commentary
+    notes and OCR-like irregularities. Motif labels beyond literal elemental mapping
+    require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All motifs and comparisons are derived only from the supplied passage text and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l98696-l98778
+  passage_sha256=8aa865d0cf351b0493f5492f99b57af14359b5798891c139800148aa8a7341f8
+

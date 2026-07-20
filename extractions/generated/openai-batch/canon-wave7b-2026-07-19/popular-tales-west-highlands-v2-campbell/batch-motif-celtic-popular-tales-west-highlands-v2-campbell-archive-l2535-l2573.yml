@@ -1,0 +1,383 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l2535-l2573
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: NA FEINNE. 91 / NA FEINNE. 93 / THE TWO SHEPHEEDS. / THE TWO SHEPHERDS. 95;
+    lines 2535-2573
+  start: '2535'
+  end: '2573'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A shepherd's son loses his bonnet after his dog leaps at his head near
+    a river. He returns across the river and finds a large man holding the bonnet.
+    After the lad takes it back, the large man tries to drag him down to a loch. The
+    lad resists by gripping an oak tree until cockcrow near daybreak, after which
+    the large man releases him and leaves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The dog that was with the lad leaped at the back of his head more than once,
+    and he threw her off.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After reaching the other side of the river, the lad found that his bonnet
+    was missing.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lad decided to return over the river to look for the bonnet where he had
+    removed his foot-clothes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: On returning, he saw a very big man seated where he had been, holding the
+    lad's bonnet.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The lad seized the bonnet, and the big man protested that it was his and that
+    the lad had no business taking it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The lad and the big man crossed the river without speaking, in a fierce and
+    hostile manner.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The big man put his hand under the shepherd's son's arm and tried to drag
+    him down to a nearby loch against his will and strength.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The shepherd's son resisted by putting his hand around an oak tree while the
+    big man continued pulling him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The oak tree bent, twisted, and loosened in the earth until only one root
+    remained, and then the final root slipped.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Cocks in the wood crowed at the time the last root slipped, and the shepherd's
+    son understood that it was near day.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: After hearing the cocks crow, the big man said the lad had stood well and
+    then left him.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: shepherd's son / lad
+  description: The human lad who loses and retrieves his bonnet, is dragged toward
+    the loch, and resists the big man.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: big man
+  description: A very large man found seated with the lad's bonnet, who later tries
+    to drag the lad down to a loch and releases him after cockcrow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: dog
+  description: The dog accompanying the lad, who leaps at the back of his head before
+    the bonnet is found missing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: cocks in the wood
+  description: Cocks near the wood whose crowing coincides with the last root slipping
+    and the approach of day.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: bonnet owner and retriever
+  assigned_to:
+  - fig:1
+  basis: The lad finds his bonnet missing, returns to seek it, and takes it from the
+    big man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: resisting victim
+  assigned_to:
+  - fig:1
+  basis: The big man tries to drag him to the loch against his will, and he resists
+    by holding the oak tree.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: hostile giant-like opponent
+  assigned_to:
+  - fig:2
+  basis: He is described as a right big man, holds the bonnet, claims it, and tries
+    to drag the lad down to a loch.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: animal companion
+  assigned_to:
+  - fig:3
+  basis: The passage states that the dog was with the lad and leaped at his head.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: daybreak signalers
+  assigned_to:
+  - fig:4
+  basis: Their crowing is heard when the last root slips, and the lad understands
+    it as indicating that day is near.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: bonnet
+  literal_form: the lad's bonnet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: river crossing
+  literal_form: river crossed by the lad and the big man
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: loch
+  literal_form: loch toward which the big man tries to drag the lad
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: oak tree
+  literal_form: oak tree gripped by the shepherd's son during the struggle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: cockcrow near daybreak
+  literal_form: cocks in the wood crowing when the last root slips
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Bonnet lost and return across the river
+  summary: After the dog leaps at his head, the lad reaches the far side of the river,
+    notices his bonnet is gone, and decides to return for it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Encounter with the big man holding the bonnet
+  summary: The lad finds a large man seated with his bonnet, takes the bonnet from
+    him, and the two cross the river in hostile silence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Attempted dragging to the loch
+  summary: The big man seizes the shepherd's son under the arm and tries to drag him
+    down to a nearby loch against his will.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Resistance at the oak until cockcrow
+  summary: The shepherd's son grips an oak tree while the big man pulls; the tree
+    loosens root by root until cockcrow signals the approach of day, after which the
+    big man leaves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Lost object draws the protagonist back across water
+  taxonomy_refs: []
+  basis: The lad notices his bonnet is missing after crossing the river and returns
+    over the river to recover it, where he meets the big man holding it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not state whether the bonnet was deliberately stolen
+    before the lad returned.
+- id: motif:2
+  label: Dangerous water-boundary encounter
+  taxonomy_refs: []
+  basis: The confrontation begins around repeated river crossings and escalates when
+    the big man tries to drag the lad down to a loch.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly identify the big man as supernatural or
+    define the water as an otherworld boundary.
+- id: motif:3
+  label: Struggle against being dragged down into water
+  taxonomy_refs: []
+  basis: The big man tries to drag the shepherd's son down to the loch against his
+    will while the lad resists with his strength.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe what would happen if the lad were dragged
+    into the loch.
+- id: motif:4
+  label: Tree-grasping as last support in a strength contest
+  taxonomy_refs: []
+  basis: The shepherd's son grips an oak tree while the big man pulls; the tree bends,
+    twists, and nearly uproots.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No sacred or cosmological status is assigned to the oak in the passage.
+- id: motif:5
+  label: Cockcrow and daybreak end the threat
+  taxonomy_refs: []
+  basis: When the cocks crow and the lad understands day is near, the big man acknowledges
+    his resistance and leaves.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage implies timing with daybreak but does not explicitly state
+    that cockcrow magically compels the big man to leave.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2537-2547
+  quote_or_summary: The dog accompanying the lad leaps at the back of his head; after
+    crossing the river he finds his bonnet missing and decides to return over the
+    river to seek it.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 2547-2554
+  quote_or_summary: The lad sees a very big man seated where he had been with the
+    bonnet in his hand; the lad takes it, the big man protests ownership, and they
+    cross the river in hostile silence.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 2554-2561
+  quote_or_summary: After crossing, the big man puts his hand under the shepherd's
+    son's arm and tries to drag him down to a nearby loch against his will and strength.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 2561-2567
+  quote_or_summary: The shepherd's son grips an oak tree; as the big man pulls, the
+    tree bends, twists, and loosens in the earth until nearly all its roots are free.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 2567-2573
+  quote_or_summary: As the last root slips, cocks in the wood crow; the lad understands
+    day is near, the big man says he has stood well, and then leaves him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate-level and
+    intentionally cautious because the passage does not explicitly identify the big
+    man or the water as supernatural/otherworldly.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode with another text, tradition, or named motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l2535-l2573
+  passage_sha256=a023a6924eaf0a85237ed76f24079f5df3a80a672ffebca9dac35ed073365f5c
+

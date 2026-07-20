@@ -1,0 +1,343 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l14970-l14996
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: IX  RELIGION  275 / RELIGION / THE   BAGANDA / CHAP.; lines 14970-14996
+  start: '14970'
+  end: '14996'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes medicine-men as skilled and cunning specialists who
+    diagnosed illness, treated the sick, dealt with ghost-caused sickness, performed
+    surgery, exorcised ghosts from houses and possessed persons, made and sold fetiches
+    and amulets, compounded drugs, and made magical objects. They were considered
+    essential, feared, and respected even by priests and mediums.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The described specialists are said to have gained insight into character and
+    certain arts through skill and cunning.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They diagnosed illness, prescribed for the sick, and knew how to deal with
+    sickness attributed to ghosts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: They acted as surgeons and saved wounded or amputated people who otherwise
+    might have died from loss of blood.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Their ability to exorcise ghosts from haunted houses and possessed people
+    was acknowledged by all.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: They made fetiches and amulets for sale, and the passage says demand for these
+    objects never ceased.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: They were essential to all classes, feared by all, and respected by priests
+    and mediums.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: They compounded drugs and made objects described as working magic.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A figure caption identifies a medicine-man carrying his medicines.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: medicine-men
+  description: Specialists described as diagnosing illness, treating sickness, dealing
+    with ghosts, performing surgery, exorcising ghosts, making fetiches and amulets,
+    compounding drugs, and making magical objects.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: ghosts
+  description: Ghosts are described as causing sickness, haunting houses, and possessing
+    people.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: priests and mediums
+  description: Religious specialists who are said to have paid the medicine-men the
+    greatest respect.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: healer and prescriber
+  assigned_to:
+  - fig:1
+  basis: The passage says they diagnosed illness and prescribed for the sick.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: surgeon
+  assigned_to:
+  - fig:1
+  basis: They saved wounded or amputated people from death through loss of blood.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: exorcist
+  assigned_to:
+  - fig:1
+  basis: Their skill in exorcising ghosts from haunted houses and possessed people
+    was acknowledged.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: maker of magical and protective objects
+  assigned_to:
+  - fig:1
+  basis: They made fetiches and amulets for sale, compounded drugs, and made objects
+    said to work magic.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: sickness-causing or possessing ghost
+  assigned_to:
+  - fig:2
+  basis: Ghosts are linked with sickness, haunted houses, and possession.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: respected religious specialists
+  assigned_to:
+  - fig:3
+  basis: The passage states that priests and mediums paid medicine-men the greatest
+    respect.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: medicines
+  literal_form: medicines carried by a medicine-man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: fetiches and amulets
+  literal_form: fetiches and amulets made for sale
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: drugs
+  literal_form: compounded drugs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: magical objects
+  literal_form: objects described as working magic
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: haunted house
+  literal_form: houses haunted by ghosts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Medical and surgical treatment
+  summary: The medicine-men diagnose illness, prescribe for the sick, address sickness
+    attributed to ghosts, and save wounded or amputated people through surgical skill.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Exorcism of ghosts
+  summary: The medicine-men exorcise ghosts from haunted houses and from people possessed
+    by them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Production and sale of magical objects
+  summary: The medicine-men make fetiches and amulets for sale, meet constant demand
+    for such objects, compound drugs, and make objects said to work magic.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:4
+  label: Social status of medicine-men
+  summary: The medicine-men are described as essential to all classes, feared by all,
+    and respected by priests and mediums.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual specialist as healer and exorcist
+  taxonomy_refs: []
+  basis: The same specialist group diagnoses and treats illness, acts surgically,
+    and exorcises ghosts from houses and possessed people.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic description of religious-medical practice rather
+    than a narrative myth episode.
+- id: motif:2
+  label: spirit-caused illness and possession
+  taxonomy_refs: []
+  basis: The passage links ghosts with sickness, haunted houses, and possession, and
+    describes medicine-men as able to address these conditions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage does not provide a specific named ghost or a full narrative
+    of possession.
+- id: motif:3
+  label: manufacture of magical protective objects
+  taxonomy_refs: []
+  basis: The medicine-men make fetiches, amulets, drugs, and objects described as
+    working magic.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The exact functions of individual fetiches, amulets, drugs, or magical
+    objects are not specified in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14970-14977
+  quote_or_summary: The passage says the specialists gained insight through skill
+    and cunning, diagnosed illness, prescribed for the sick, and knew how to deal
+    with sickness caused by ghosts.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14977-14984
+  quote_or_summary: They are described as surgeons who saved wounded or amputated
+    people who otherwise might have died from loss of blood.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 14986-14990
+  quote_or_summary: Their skill in exorcising ghosts from haunted houses and from
+    people possessed by ghosts was acknowledged by all.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 14990-14994
+  quote_or_summary: They made fetiches and amulets for sale, and demand for these
+    objects is described as continuous.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 14993-14995
+  quote_or_summary: They were considered essential to all classes, feared by all,
+    and respected by priests and mediums.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 14995-14996
+  quote_or_summary: The passage ends by saying they compounded drugs and made objects
+    which worked magic.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: figure caption within lines 14970-14996
+  quote_or_summary: "“FIG. 44.—MEDICINE-MAN CARRYING HIS MEDICINES.”"
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage clearly supports extraction of roles, practices, and objects.
+    Motif labels are descriptive and not mapped to supplied taxonomy families. No
+    comparison claims are made because the passage itself does not compare these practices
+    with another motif family or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Line locators are based on the supplied stable line range; the passage begins mid-sentence and ends mid-description, so contextual identification is limited to the provided text and figure caption.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l14970-l14996
+  passage_sha256=2b04910ac4511f1243ec6e6becdd6781e1fc12202a4522443c958fb023776a9c
+

@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l102735-l102825
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH S / ARANYAKA IV / ARANYAKA V / ADHYAYA 2.; lines 102735-102825
+  start: '102735'
+  end: '102825'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Scholarly notes identify Vedic verses and ritual recitation sequences across
+    Srauta Sutras, the Samaveda, Brahmanas, and Aitareya materials. A rendered verse
+    addresses Indra, describes gifts approaching him, and compares eager movement
+    toward him to songs. Later notes discuss divisions of ritual verse sets and seer
+    attributions to WiSvimitra and Vamadeva.
+  language: English with transliterated Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that certain verses, with accents from the Samaveda, are
+    given or occur in several named Vedic ritual and Brahmana texts, with noted textual
+    variants.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A proposed rendering names Indra as the holy season's lord and lord of might,
+    says he utters praise, and describes gifts and men moving toward him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists a ritual-textual sequence including a verse glossed as 'To
+    the yokes for him,' a sadadohas verse, a dhiyya verse glossed as 'What he won,'
+    and another sadadohas verse.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says Sankhayana adds verses but still makes a total of twenty-one
+    dvipada verses, while the Aitareya adds a twenty-second verse.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A described arrangement divides sides into amsas, bahus or arms, and prahastakas
+    or hand, and assigns verse sets to right and left bahu sections and to prahastakas.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage reports that in an Aitareya Brahmana note WiSvimitra is called
+    the seer of two Rigvedic verses, while Vamadeva is connected with sampatat hymns
+    and a quoted phrase about seeing these worlds.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage discusses uncertainty over active and passive senses of verbal
+    forms and suggests that the activity in the cited verse may be that of the god
+    rather than the poet.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: Named in the rendered verse as the holy season's lord and lord of might;
+    addressed as the one toward whom gifts and men move.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: WiSvimitra
+  description: Reported in the passage as the seer of RV IV, 19, 22 and 23 in an Aitareya
+    Brahmana note.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Vamadeva
+  description: Reported in the passage as connected with sampatat hymns and with a
+    quoted phrase about seeing these worlds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: men
+  description: Collective human figures in the rendered verse who fare eagerly toward
+    Indra like songs.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine addressee
+  assigned_to:
+  - fig:1
+  basis: The rendered verse directly addresses Indra and describes movement toward
+    him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: lord of might
+  assigned_to:
+  - fig:1
+  basis: The rendering calls Indra 'lord of might.'
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seer of cited verses
+  assigned_to:
+  - fig:2
+  basis: The passage says WiSvimitra was the seer of RV IV, 19, 22 and 23.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: associated seer or hymn figure
+  assigned_to:
+  - fig:3
+  basis: The passage links Vamadeva with sampatat hymns and a phrase about seeing
+    these worlds.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: eager approachers
+  assigned_to:
+  - fig:4
+  basis: The rendered verse says men fare eagerly to Indra like songs.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: gifts approaching Indra
+  literal_form: gifts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: paths and way
+  literal_form: paths the way
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: songs moving toward a lord
+  literal_form: songs
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: yokes
+  literal_form: yokes
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ritual body-part divisions
+  literal_form: sides, amsas, bahus or arms, and prahastakas or hand
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rendered address to Indra
+  summary: A translated verse addresses Indra, calls him lord, and describes gifts
+    and men moving toward him with images of paths and songs.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ritual verse sequence and arrangement
+  summary: The notes describe sequences of verses and ritual-textual divisions, including
+    yokes, sadadohas and dhiyya verses, dvipada counts, and right and left arm sections.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Attribution to seers
+  summary: A Brahmana note is summarized as assigning seer status or hymn associations
+    to WiSvimitra and Vamadeva.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Gifts approaching a deity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The rendered verse addresses Indra and says gifts approach him, while humans
+    move eagerly toward him.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a brief liturgical rendering rather than a full narrative
+    of reciprocal exchange.
+- id: motif:2
+  label: Ritual recitation sequence
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage discusses Srauta and Brahmana verse use, strophes, sadadohas
+    and dhiyya verses, and ordered structural sections for recitation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage is primarily a philological note on textual arrangement, not
+    a direct description of a sacrificial act.
+- id: motif:3
+  label: Seer and visionary knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage reports a seer attribution to WiSvimitra and quotes a phrase
+    associating Vamadeva with seeing 'these worlds.'
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The Sanskrit phrase is embedded in a brief note, and the passage does
+    not explain the visionary episode in narrative detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports that the same or closely corresponding verses occur across
+    several nearby Vedic textual witnesses, including Asvalayana Srauta Sutra, Sankhayana
+    Srauta Sutra, Samaveda, Taittiriya Brahmana, and Aitareya Brahmana, with variants
+    noted.
+  claim_level: linguistic_similarity
+  target: Named Vedic ritual, Samaveda, and Brahmana textual witnesses
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a textual-parallel claim only; the passage does not establish
+    a direction of borrowing or a historical-contact argument.
+- id: claim:2
+  claim: The passage compares Sankhayana and Aitareya as related arrangements of dvipada
+    verses, with Sankhayana making twenty-one and Aitareya adding a twenty-second
+    verse.
+  claim_level: same_function
+  target: Sankhayana and Aitareya dvipada verse arrangements
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns verse count and ritual-textual arrangement,
+    not a mythic narrative motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 102735-102747
+  quote_or_summary: The note says verses with accents from the Samaveda are given
+    in Asvalayana Srauta Sutra and occur also in Sankhayana Srauta Sutra, Samaveda,
+    Taittiriya Brahmana, and Aitareya Brahmana, with variants.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:2
+  type: quote
+  locator: lines 102764-102770
+  quote_or_summary: "“The holy season’s lord, Indra by name, famous, utters praise.
+    Let gifts approach thee, Indra, as paths the way. Like songs, to thee, lord of
+    might, do men fare eagerly.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:3
+  type: quote
+  locator: lines 102758-102761
+  quote_or_summary: "“To the yokes for him” is followed by references to the sadadohas
+    verse, the dhiyya verse “What he won,” and another sadadohas verse."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 102780-102783
+  quote_or_summary: Sankhayana is said to add verses while still making a total of
+    twenty-one dvipada verses; the Aitareya is said to add a twenty-second verse.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 102784-102795
+  quote_or_summary: The passage describes sides divided into amsas, bahus or arms,
+    and prahastakas or hand, then assigns strophes, hymns, and verse groups to right
+    bahu, left bahu, and prahastakas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 102811-102815
+  quote_or_summary: The passage says that in Aitareya Brahmana WiSvimitra was the
+    seer of RV IV, 19, 22 and 23, and links Vamadeva with sampatat hymns and a phrase
+    about seeing these worlds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed by source metadata.
+- id: ev:7
+  type: summary
+  locator: lines 102750-102771
+  quote_or_summary: The note discusses whether verbal forms should be read as active
+    or passive and says the activity may be that of the god rather than the poet.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; full text allowed by source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly philological and ritual-textual notes with OCR noise,
+    so mythic motifs are limited and should be reviewed cautiously. Textual comparison
+    claims are explicit in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Names and transliterated forms are retained according to the supplied passage where possible.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l102735-l102825
+  passage_sha256=620eb18422323da04e95f887bfd60ff2c41e90124ca5856f5b33cba0160a9918
+

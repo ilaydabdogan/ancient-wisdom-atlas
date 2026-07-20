@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l25718-l25731
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: BUREAU  OF  AMERICAN  ETHNOLOGY / EIGHTEENTH    ANNUAL   REPORT      PL.    CVI
+    / EFFECT  OF  CHRISTIAN  CONTACT / WITCHCRAFT; lines 25718-25731
+  start: '25718'
+  end: '25731'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports a belief that witchcraft can steal a person's inua
+    or shade, causing wasting and death. It then describes a lower Yukon village incident
+    in which a headman sees moving figures on a camera ground glass, declares that
+    the camera operator has everyone's shades in the box, and the people panic and
+    flee into their houses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that persons dealing in witchcraft are believed to be able
+    to steal a person's inua or shade.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The loss of a person's inua or shade is said to cause that person to pine
+    away and die.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator set up a camera at a lower Yukon village to obtain a picture
+    of people moving among the houses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The village headman looked under the camera cloth and gazed at moving figures
+    on the ground glass.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The headman shouted to the surrounding people that the camera operator had
+    all their shades in the box.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the headman's shout, the surrounding people panicked and disappeared
+    into their houses.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: persons dealing in witchcraft
+  description: People described as having power to steal a person's inua or shade.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: person whose inua or shade is stolen
+  description: A person whose stolen inua or shade is said to result in wasting and
+    death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: narrator with camera
+  description: The observer who set up a camera at the lower Yukon village.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: village headman
+  description: The headman who looked under the camera cloth, viewed the ground glass,
+    and warned the people.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: surrounding people
+  description: People near the houses who were addressed by the headman and then fled
+    into their houses.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: witchcraft practitioner
+  assigned_to:
+  - fig:1
+  basis: The passage identifies persons dealing in witchcraft as having the power
+    to steal inua or shade.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: shade-theft victim
+  assigned_to:
+  - fig:2
+  basis: The passage describes a person whose inua or shade is stolen and who then
+    pines away and dies.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: camera operator
+  assigned_to:
+  - fig:3
+  basis: The narrator sets up and focuses a camera to take a picture.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: alarm-giving headman
+  assigned_to:
+  - fig:4
+  basis: The headman inspects the camera image and shouts a warning about the people's
+    shades being in the box.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: panicked villagers
+  assigned_to:
+  - fig:5
+  basis: The surrounding people panic after the headman's statement and retreat into
+    houses.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: inua or shade
+  literal_form: A person's inua or shade, treated in the passage as something that
+    can be stolen and whose loss causes death.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: camera box
+  literal_form: The camera described by the headman as a box containing the people's
+    shades.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: moving figures on ground glass
+  literal_form: The moving figures visible on the camera's ground glass when the headman
+    looks under the cloth.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: houses
+  literal_form: The houses into which the people disappear after the panic.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Witchcraft theft of inua or shade
+  summary: The passage states the belief that witchcraft can steal a person's inua
+    or shade, with wasting and death as the result.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Camera incident at lower Yukon village
+  summary: At a lower Yukon village, the narrator sets up a camera; the headman views
+    moving figures on the ground glass, announces that the box contains the people's
+    shades, and the people panic and flee into their houses.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: theft of a person's inua or shade
+  taxonomy_refs: []
+  basis: The passage explicitly describes witchcraft as able to steal a person's inua
+    or shade, producing wasting and death.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage uses ethnographic English terms and gives no wider tale sequence
+    beyond the belief statement.
+- id: motif:2
+  label: image-making device perceived as holding shades
+  taxonomy_refs: []
+  basis: The headman interprets the camera image as the operator having the people's
+    shades in a box, which causes panic.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as a witnessed incident illustrating a belief,
+    not as a formal mythic narrative.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the passage, the camera incident is presented as an illustration
+    of the same functional concern as witchcraft shade-theft: a person''s shade may
+    be captured or held by another agent.'
+  claim_level: same_function
+  target: witchcraft theft of a person's inua or shade
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports an internal functional comparison only; it does
+    not establish historical contact, common inheritance, or a broader cross-cultural
+    motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25718-25721
+  quote_or_summary: The section titled witchcraft states that persons dealing in witchcraft
+    are believed to steal a person's inua or shade, causing the person to pine away
+    and die.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 25721-25725
+  quote_or_summary: At a lower Yukon village, the narrator sets up a camera to take
+    a picture of people moving among the houses and begins focusing it.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 25725-25728
+  quote_or_summary: The headman insists on looking under the camera cloth and gazes
+    at moving figures on the ground glass.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 25728-25731
+  quote_or_summary: '"He has all of your shades in this box"; a panic follows and
+    the people disappear into their houses.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence and figures are explicit. Motif labeling is cautious because
+    the passage is an ethnographic anecdote rather than a mythic narrative and no
+    exact supplied taxonomy category fits the shade-theft pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy symbol or motif reference was assigned because the available lists do not contain an exact match for inua/shade theft or camera shade-capture.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l25718-l25731
+  passage_sha256=e8f16a818bf484210eb200379013968ddd6e298fe1acf33e8818c1ed91dcac1f
+

@@ -1,0 +1,195 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l9371-l9409
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: TEACHER AND PUPIL / TEACHER AND PUPIL / TEACHER AND PUPIL / TEACHER AND PUPIL;
+    lines 9371-9409
+  start: '9371'
+  end: '9409'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The narrator describes a missionary policy toward Chaco people: teaching
+    them to connect cause and effect, considering whether they were likely to disappear,
+    deciding they might develop and increase, and aiming to make the mission self-supporting
+    and self-expanding despite limited funds.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section is framed by the heading “Teacher and Pupil,” and the narrator
+    describes an aim to make the pupil connect cause and effect and use available
+    means for self-improvement.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator characterizes the people encountered as being “in its infancy”
+    and in the condition of “primitive savages.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator says one possible course was to regard the people as a moribund
+    race and try to bring them to knowledge of the Gospel before extinction.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator states that the missionaries concluded the people did not inevitably
+    have to become extinct and might increase, develop, and occupy a useful position
+    in the world.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator emphasizes limited mission finances and says the policy was to
+    make the mission self-supporting and self-expanding as soon as possible.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Narrating missionary group
+  description: The collective “we” who evaluate the people, deliberate about policy,
+    and set goals for the mission.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Chaco people
+  description: The people described as the object of teaching, evangelization, and
+    mission policy; the passage also calls them “this scattered people in the Chaco”
+    and “these Chaco heathen.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Almighty
+  description: Named as the one who had put means within the pupil’s power for self-elevation
+    and improvement.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: teacher-planner
+  assigned_to:
+  - fig:1
+  basis: The narrating group frames the passage as teacher and pupil, sets instructional
+    aims, and determines mission policy.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: pupil and mission recipient
+  assigned_to:
+  - fig:2
+  basis: The people are described as those to be taught, brought to the Gospel, and
+    organized toward development and self-support.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: divine source of human capacity
+  assigned_to:
+  - fig:3
+  basis: The passage says the Almighty had put means within the pupil’s power for
+    elevation and improvement.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Instructional framing and diagnosis
+  summary: The narrating group presents its task as teaching a pupil to connect cause
+    and effect and to use divinely given means, while characterizing the people encountered
+    as socially undeveloped.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mission policy deliberation
+  summary: The narrating group considers whether the people should be treated as near
+    extinction, concludes they may increase and develop, and decides that the mission
+    should become self-supporting and self-expanding.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: teacher-pupil moral instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is explicitly headed “Teacher and Pupil” and describes instruction
+    in cause and effect, self-improvement, and directed development.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is missionary ethnographic prose rather than a myth narrative; the
+    wisdom classification is a broad thematic fit only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9371-9378
+  quote_or_summary: Heading “TEACHER AND PUPIL”; the narrator aims to teach cause
+    and effect and says the Almighty put means within the pupil’s power, while describing
+    the people as in infancy and as primitive savages.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9380-9392
+  quote_or_summary: The narrator weighs treating the people as moribund and evangelizing
+    before extinction, then concludes they need not become extinct and could increase,
+    develop, and occupy a useful position.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 9394-9409
+  quote_or_summary: The narrator asks how to accomplish the mission objective under
+    limited finances and states a policy of making the mission self-supporting and
+    self-expanding.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports extraction of actors, roles, and policy scenes.
+    Motif assignment is limited because the passage is not a mythic narrative and
+    contains no explicit comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Colonial and missionary terminology is recorded only as passage evidence, not endorsed. No symbols from the supplied symbol taxonomy are directly present in the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l9371-l9409
+  passage_sha256=6cc11184461cf379c1d925e5e05b06dc3d8810c7331b99f704a28760b38b4b78
+

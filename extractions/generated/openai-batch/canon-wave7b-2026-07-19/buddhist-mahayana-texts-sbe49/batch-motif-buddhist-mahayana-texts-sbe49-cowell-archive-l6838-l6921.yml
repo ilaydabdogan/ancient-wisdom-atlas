@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.buddhist-mahayana-texts-sbe49-cowell-archive-l6838-l6921
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+passage_locator:
+  label: BOOK XIV. / BOOK XIV, I-18. 149 / BOOK XIV, 19-36. I5I / BOOK XIV, 37-54.
+    153; lines 6838-6921
+  start: '6838'
+  end: '6921'
+  translation: Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The Bodhisattva meditatively analyzes the arising of suffering through
+    a sequence beginning with ignorance and latent impressions, proceeding through
+    consciousness, organism, senses, sensation, desire, attachment, continued existence,
+    birth, old age, disease, and death. He then analyzes the reverse sequence of cessation,
+    concluding that stopping ignorance stops the pains of beings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Bodhisattva observes and questions how the organism arises in relation
+    to incipient consciousness.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He traces incipient consciousness to latent impressions left by former actions,
+    and traces those impressions to ignorance.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A sequence is described in which latent impressions lead to incipient consciousness,
+    organism, six sense organs, sensation, desire, attachment to existence, continued
+    existence, birth, old age, disease, and death.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The world is described as scorched by old age, disease, and death's anguish,
+    and as devoured by death.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Bodhisattva is said to become perfectly illuminated after ascertaining
+    the causal sequence.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'A reverse cessation sequence is described: when ignorance stops, latent impressions
+    lose power, and the subsequent links down to old age, disease, death, and pain
+    cease.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: Ignorance is described as the root of a great trunk of pain.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Bodhisattva
+  description: Called the great seer, the lord of saints, the great Being, the all-knowing
+    Bodhisattva, and the illuminated one; he reflects, ponders, meditates, and determines
+    the origin and cessation of pain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: The world / all existing beings
+  description: The world is described as scorched by old age, disease, and death's
+    anguish, and all existing beings are said to have their pains stopped when ignorance
+    is stopped.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: Meditative discerner of causal origin and cessation
+  assigned_to:
+  - fig:1
+  basis: The figure repeatedly reflects, ponders, meditates, becomes illuminated,
+    and determines both the arising and stopping of the chain of pain.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:2
+  label: Beings afflicted by pain, old age, disease, and death
+  assigned_to:
+  - fig:2
+  basis: The passage describes the world as scorched and devoured by death and refers
+    to the pains of all existing beings.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: Fire of old age, disease, and death's anguish
+  literal_form: flame / fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Root and trunk of pain
+  literal_form: root and great trunk
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Meditative tracing of arising
+  summary: The Bodhisattva investigates how organism, consciousness, latent impressions,
+    and ignorance are connected, and articulates a sequence leading through sensation,
+    desire, attachment, existence, birth, old age, disease, death, and pain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Meditative tracing of cessation
+  summary: After becoming illuminated, the Bodhisattva reasons through the stopping
+    of each link in reverse order and concludes that stopping ignorance stops all
+    pains of existing beings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Wisdom through meditative insight into causes
+  taxonomy_refs:
+  - wisdom
+  basis: The Bodhisattva reflects, ponders, meditates, becomes illuminated, and determines
+    the causal origin and cessation of pain.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a doctrinal meditative passage; the motif label should not be
+    expanded into a narrative quest without additional context.
+- id: motif:2
+  label: Ignorance as root cause of suffering
+  taxonomy_refs: []
+  basis: The passage explicitly identifies ignorance as the root of the great trunk
+    of pain and states that stopping ignorance stops the pains of all existing beings.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The tree imagery is metaphorical; extraction treats it as a symbolic image
+    within the passage.
+- id: motif:3
+  label: Causal chain from existence to birth, aging, disease, and death
+  taxonomy_refs: []
+  basis: The passage gives a sequence from latent impressions and consciousness through
+    attachment and continued existence to birth, old age, disease, death, and pain,
+    then reverses the sequence for cessation.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage speaks of continued existence and birth but does not explicitly
+    use a comparative rebirth motif label in this excerpt.
+- id: motif:4
+  label: Fire imagery for mortal anguish
+  taxonomy_refs: []
+  basis: Old age, disease, and death's anguish are described using flame and fire
+    imagery, and the world is said to be devoured by death.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage uses fire as an image of suffering and death, not as an explicit
+    apocalyptic world-destroying fire.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6838-6851; Book XIV, vv. 46-49
+  quote_or_summary: The Bodhisattva examines where organism, incipient consciousness,
+    and latent impressions arise, and traces latent impressions to ignorance while
+    reflecting, pondering, and meditating.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6852-6867; Book XIV, vv. 50-53
+  quote_or_summary: 'The passage describes the arising sequence: latent impressions,
+    incipient consciousness, organism, six organs, sensation, desire, attachment to
+    existence, continued existence, birth, old age, disease, and death.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6864-6871; Book XIV, vv. 53-54
+  quote_or_summary: The world is described as scorched by the flame of old age and
+    disease, devoured by death, and afflicted by the fire of death's anguish.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6872-6896; Book XIV, vv. 55-61
+  quote_or_summary: After ascertaining the sequence, the great Being is perfectly
+    illuminated and reflects on the reverse stopping of death, old age, disease, birth,
+    existence, attachment, desire, sensation, contact, organs, organism, consciousness,
+    and latent impressions.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 6897-6905; Book XIV, vv. 62-63
+  quote_or_summary: "“ignorance is declared to be the root of this great trunk of
+    pain”; by stopping ignorance, the pains of all existing beings cease."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 6906-6921; Book XIV, v. 64
+  quote_or_summary: The all-knowing Bodhisattva, the illuminated one, again ponders
+    and meditates and comes to his conclusion.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong because the passage explicitly states the causal
+    and cessation sequences. Motif labels are conservative and require human review.
+    No comparison claims are made because the passage itself does not compare this
+    material with another tradition or corpus.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage includes a translator note about a doubtful reading; no motif or symbol extraction is based on that note.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-mahayana-texts-sbe49-cowell-archive__l6838-l6921
+  passage_sha256=c147f950a539f927458d7c811fa129d2b8836960c08be688eb0479a85eff5f54
+

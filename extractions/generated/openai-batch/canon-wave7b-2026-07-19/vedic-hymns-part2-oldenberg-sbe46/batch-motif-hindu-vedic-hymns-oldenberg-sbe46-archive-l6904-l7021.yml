@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l6904-l7021
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA I, HYMN 128, 137 / MANDALA I, HYMN 128. / ASH7AKA II, ADHYAYA 1,
+    VARGA 14-15. / NOTES:; lines 6904-7021
+  start: '6904'
+  end: '7021'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Philological and interpretive notes on Rig Veda Mandala I, Hymn 128. The
+    notes identify textual parallels, discuss terms and translations, and mention
+    Soma streams, the Usigas and Bhyzgus, Agni in relation to fuel, libations, sacrifice,
+    worship, arrows, and the Maruts as liberal ones.
+  language: English with Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes state that verse 6 of the hymn is equivalent to a passage in TB
+    II, 5, 4, 4.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note compares a term in verse 1 with a passage where streams of Soma flow
+    forward.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Usigas are described as closely related to the Bhyzgus and as the first
+    sacrificers and first worshippers of Agni.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Agni is described in the note as enveloped in fuel and libations.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A phrase in verse 4 is glossed as meaning sacrifice and service.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A translation note discusses Agni as flying like an arrow, looking on all
+    creatures, and possibly shooting arrows; the note marks the translation as doubtful.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Maruts are cited as being called bhogah, glossed as liberal ones.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named as the being worshipped by the first worshippers; discussed as
+    enveloped in fuel and libations and in uncertain translation notes involving arrow-like
+    motion or arrow-shooting.
+  role_refs:
+  - role:2
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Usigas
+  description: A group described as closely related to the Bhyzgus and considered
+    the first sacrificers and first worshippers of Agni.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Bhyzgus
+  description: A group named in relation to the Usigas; the note says the Usigas are
+    closely related to them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Maruts
+  description: A divine group cited from another passage as bhogah, glossed as liberal
+    ones.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: first sacrificers and first worshippers
+  assigned_to:
+  - fig:2
+  basis: The note explicitly says the Usigas are considered the first sacrificers
+    and first worshippers of Agni.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: object of first worship
+  assigned_to:
+  - fig:1
+  basis: Agni is named as the being worshipped by the first worshippers.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ritual fire/deity associated with fuel and libations
+  assigned_to:
+  - fig:1
+  basis: The note describes Agni as enveloped in fuel and libations.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: related ritual group
+  assigned_to:
+  - fig:3
+  basis: The note says the Usigas are closely related to the Bhyzgus.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: liberal ones
+  assigned_to:
+  - fig:4
+  basis: The Maruts are cited as bhogah and glossed as liberal ones.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: arrow-like or possibly arrow-shooting actor
+  assigned_to:
+  - fig:1
+  basis: A doubtful translation note says Agni may fly like an arrow and cites a passage
+    where Agni shoots arrows.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire of Agni
+  literal_form: Agni in a ritual context with fuel and libations
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: fuel and libations
+  literal_form: Fuel and libations enveloping Agni
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Soma streams
+  literal_form: Streams of Soma flowing forward in a compared passage
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: arrow imagery
+  literal_form: Agni flying like an arrow or possibly shooting arrows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: first sacrificers and first worshippers of Agni
+  taxonomy_refs:
+  - sacrifice
+  basis: The note identifies the Usigas as first sacrificers and first worshippers
+    of Agni.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a commentarial note rather than a complete narrative episode.
+- id: motif:2
+  label: ritual offering through fuel and libations
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The notes connect Agni with fuel, libations, sacrifice, and service.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is explanatory and philological; it does not narrate the full
+    ritual action.
+- id: motif:3
+  label: divine fire with arrow-like action
+  taxonomy_refs: []
+  basis: A translation note discusses Agni flying like an arrow and cites another
+    passage where Agni shoots arrows.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The note explicitly says the translation is doubtful, so the motif should
+    be reviewed before use.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly identifies verse 6 of this hymn with TB II, 5, 4,
+    4.
+  claim_level: linguistic_similarity
+  target: TB II, 5, 4, 4
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The note establishes a textual equivalence, not by itself a broader
+    mythological motif comparison.
+- id: claim:2
+  claim: The note compares a term in verse 1 with RV IX, 86, 4, where Soma streams
+    are said to flow forward.
+  claim_level: linguistic_similarity
+  target: RV IX, 86, 4; Soma streams flowing forward
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is lexical and philological; any motif-level connection
+    around Soma flow remains uncertain.
+- id: claim:3
+  claim: The note compares uncertain arrow imagery for Agni with RV VI, 3, 5, where
+    it says Agni shoots arrows.
+  claim_level: same_motif
+  target: RV VI, 3, 5; Agni shooting arrows
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The local translation is marked doubtful, so the comparison requires
+    review against the original Vedic text.
+- id: claim:4
+  claim: The note cites RV V, 53, 16 as a parallel for calling the Maruts bhogah,
+    glossed as liberal ones.
+  claim_level: same_function
+  target: RV V, 53, 16; Maruts as liberal ones
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an epithet comparison rather than a full narrative motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6904-7021; opening notes
+  quote_or_summary: "“Verse 6 = TB. II, 5, 4, 4.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quote used.
+- id: ev:2
+  type: quote
+  locator: lines 6904-7021; Verse 1, Note 1
+  quote_or_summary: The note compares the term with IX, 86, 4, where “the streams
+    of Soma flow forward.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quote used.
+- id: ev:3
+  type: quote
+  locator: lines 6904-7021; Verse 1, Note 2
+  quote_or_summary: "“The Usigas ... are closely related to the Bhyzgus; they are
+    considered as the first sacrificers, the first worshippers of Agni.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quote used.
+- id: ev:4
+  type: quote
+  locator: lines 6904-7021; Verse 1, Note 3
+  quote_or_summary: "“Enveloped in fuel and libations.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quote used.
+- id: ev:5
+  type: quote
+  locator: lines 6904-7021; Verse 4, Note 1
+  quote_or_summary: "“Yagvdsya adhvardsya, ‘sacrifice and service.’”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quote used.
+- id: ev:6
+  type: summary
+  locator: lines 6904-7021; Verse 4, Note 2
+  quote_or_summary: The note says the translation is doubtful, discusses Agni flying
+    like an arrow and looking on all creatures, cites VI, 3, 5 for Agni shooting arrows,
+    and mentions an alternative rendering involving one who desires food.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized to limit quotation.
+- id: ev:7
+  type: quote
+  locator: lines 6904-7021; Verse 5, Note 2
+  quote_or_summary: "“The Maruts are called bhog&h, V, 53, 16 ... ‘praise the liberal
+    ones’.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quote used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on notes rather than continuous hymn translation.
+    Several items are philological or explicitly uncertain, especially the arrow imagery
+    for Agni.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No external taxonomy identifiers beyond the supplied lists were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l6904-l7021
+  passage_sha256=7607caddee2194e34fd5e4f077cdebb7fca24bc57b1a31faa39d4b197be017cc
+

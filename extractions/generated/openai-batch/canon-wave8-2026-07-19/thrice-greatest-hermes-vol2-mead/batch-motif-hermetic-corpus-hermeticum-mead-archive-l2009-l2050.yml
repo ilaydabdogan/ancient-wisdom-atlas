@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l2009-l2050
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: PCEMANDRES, THE SHEPHERD OF MEN 33 / PCEMANDRES, THE SHEPHEED OF MEN 35 /
+    PCEM ANDRES, THE SHEPHERD OF MEN 37 / S8 THRICE-GREATEST HERMES; lines 2009-2050
+  start: '2009'
+  end: '2050'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“Increase ye in increasing and multiply in multitude”"
+  summary: The passage states that, after a pre-sexual or bi-sexual phase ends, the
+    sexes separate and the Word gives a command to increase and multiply. The surrounding
+    commentary notes a limited resemblance to a Greek Genesis formula, denies clear
+    direct Hebrew influence, and reports a later marginal polemic ascribed to Psellus
+    against Hermes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed “Increase and Multiply.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A pre-sexual or bi-sexual period is described as ending before the separation
+    of the sexes takes place.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Word gives a commandment to increase and multiply in multitude.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentary says the command formula is reminiscent of the repeated Greek
+    Targum formula in Genesis, but only slightly, and says the rest of the logos differs
+    from Genesis.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The commentary says nothing else in the treatise can be referred to direct
+    Hebrew influence and concludes that the formula was broadly current, described
+    as “in the air.”
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A later marginal diatribe, ascribed in one manuscript to Psellus, is reported
+    as accusing Hermes of being a sorcerer and plagiarist of Moses.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The same polemical summary says the Devil is a thief of Truth who leads men
+    astray.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Footnotes cite Genesis passages and also refer to the same formula in another
+    Corpus Hermeticum location.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the Word
+  description: The named giver of the commandment to increase and multiply.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Hermes
+  description: The figure whom a later marginal diatribe is reported to stigmatize
+    as a sorcerer and plagiarist of Moses.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Moses
+  description: Named as the figure whom Hermes is accused of plagiarizing in the later
+    marginal diatribe.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Psellus
+  description: The marginal diatribe is said to be ascribed to Psellus in one manuscript.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: the Devil
+  description: In the reported polemic, the Devil is characterized as a thief of Truth
+    leading men astray.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: commandment giver
+  assigned_to:
+  - fig:1
+  basis: The commandment to increase and multiply is said to be given by the Word.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: target of marginal accusation
+  assigned_to:
+  - fig:2
+  basis: The later marginal diatribe reportedly stigmatizes Hermes as a sorcerer and
+    plagiarist.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: named authority allegedly plagiarized
+  assigned_to:
+  - fig:3
+  basis: The polemic describes Hermes as a plagiarist of Moses.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: ascribed author of marginal diatribe
+  assigned_to:
+  - fig:4
+  basis: The marginal note is said to be ascribed to Psellus in one manuscript.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: thief of Truth in polemic
+  assigned_to:
+  - fig:5
+  basis: The reported polemic says the Devil is a thief of Truth who leads men astray.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: procreative command formula
+  literal_form: The spoken command “Increase ye in increasing and multiply in multitude.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Truth as stolen object in polemic
+  literal_form: "“Truth” described in the polemical note as something stolen by the
+    Devil."
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Separation of sexes and multiplication command
+  summary: After a pre-sexual or bi-sexual phase ends, the sexes separate and the
+    Word commands increase and multiplication.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Commentarial comparison with Genesis formula
+  summary: The commentary compares the command formula to a Greek Genesis formula
+    while stressing that the resemblance is slight and not evidence of direct Hebrew
+    influence in the treatise.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Marginal polemic against Hermes
+  summary: A later marginal diatribe ascribed to Psellus accuses Hermes of sorcery
+    and plagiarism of Moses and frames the Devil as stealing Truth to mislead people.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: separation of sexes after an undifferentiated sexual phase
+  taxonomy_refs:
+  - duality
+  basis: The passage states that a pre-sexual or bi-sexual period ends and that the
+    sexes then separate.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy has only the broad family “duality”; the passage
+    does not elaborate a full mythic narrative of sexual differentiation.
+- id: motif:2
+  label: divine or sacred command to multiply
+  taxonomy_refs: []
+  basis: The Word gives the command to increase and multiply in multitude.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No exact available taxonomy reference for a procreative multiplication
+    mandate is provided.
+- id: motif:3
+  label: stolen truth in theological polemic
+  taxonomy_refs:
+  - sacred_theft
+  - wisdom
+  basis: The reported marginal polemic says the Devil is a thief of Truth and links
+    Hermes with plagiarism of Moses.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: This is a later marginal polemic reported by the commentator, not part
+    of the main Hermetic discourse in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The multiplication command has a cautious linguistic resemblance to the Greek
+    Genesis formula, but the passage itself limits the resemblance and distinguishes
+    the surrounding logos from Genesis.
+  claim_level: linguistic_similarity
+  target: Greek Targum / Greek Genesis formula “increase and multiply”
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  limitations: The passage explicitly says the resemblance is only slight and denies
+    clear direct Hebrew influence elsewhere in the treatise.
+- id: claim:2
+  claim: The commentary favors a diffuse or broadly circulating formula rather than
+    direct Hebrew borrowing for the shared multiplication phrase.
+  claim_level: independent_recurrence
+  target: Shared “increase and multiply” formula in Hermetic and Genesis-related contexts
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: This is the commentator’s inference within the passage; no independent
+    transmission evidence is supplied here.
+- id: claim:3
+  claim: A footnote indicates that the same command formula appears elsewhere in the
+    Corpus Hermeticum.
+  claim_level: linguistic_similarity
+  target: Corpus Hermeticum C. II, iii. (iv.) 3 as cited in the footnote
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The footnote gives a cross-reference but the excerpt does not provide
+    the parallel passage’s wording or context in full.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2009-2050; heading
+  quote_or_summary: "“Increase and Multiply”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation.
+- id: ev:2
+  type: quote
+  locator: lines 2009-2050; section 18
+  quote_or_summary: "“This period of pre-sexual or bi-sexual development having come
+    to an end, the separation of the sexes took place.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 2009-2050; section 18
+  quote_or_summary: "“The commandment is given by the Word: ‘Increase ye in increasing
+    and multiply in multitude’.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 2009-2050; commentary after section 18
+  quote_or_summary: The commentary says the phrase is reminiscent of the often repeated
+    formula in the Greek Targum of Genesis, but only slightly, and says the main injunction
+    is strengthened while the rest of the logos differs from Genesis.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary.
+- id: ev:5
+  type: quote
+  locator: lines 2009-2050; commentary after section 18
+  quote_or_summary: The commentary says nothing else in the treatise indicates direct
+    Hebrew influence and concludes that the formula was “in the air” and “crept into
+    our treatise.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation embedded in summary.
+- id: ev:6
+  type: summary
+  locator: lines 2009-2050; marginal scholion discussion
+  quote_or_summary: A later marginal diatribe, ascribed in one manuscript to Psellus,
+    stigmatizes Hermes as a sorcerer and plagiarist of Moses, and summarizes the view
+    that the Devil is a thief of Truth who leads people astray.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary.
+- id: ev:7
+  type: citation
+  locator: lines 2009-2050; footnotes
+  quote_or_summary: Footnotes cite Genesis i.22, i.28, viii.17, ix.7, xxxv.11, and
+    note the same formula in Corpus Hermeticum C. II, iii. (iv.) 3.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; citation summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is direct. Motif mapping is cautious because the excerpt
+    is partly commentary and only a few available taxonomy categories match the material
+    closely.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs or comparisons were added beyond those supported by the excerpt.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l2009-l2050
+  passage_sha256=1f9b9a9db412b4d598f3dd00310cdecbddd97e2fa9a5339255a7524e6f7e1591
+

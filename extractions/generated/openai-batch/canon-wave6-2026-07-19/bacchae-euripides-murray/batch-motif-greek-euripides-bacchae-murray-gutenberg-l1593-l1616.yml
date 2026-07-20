@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1593-l1616
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 1593-1616
+  start: '1593'
+  end: '1616'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“sacrifice of women's blood”"
+  summary: Pentheus declares an intention involving a sacrifice of women's blood on
+    Kithaeron. Dionysus replies that they will flee and lower bronze-rimmed shields
+    before wands. Pentheus calls the other speaker a persistent stranger. Dionysus
+    urges him to wait, and the stage direction shows Pentheus starting as though to
+    seek his army at the gate.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Pentheus says he will make or pursue a “sacrifice of women's blood” and cry
+    a male figure's name through Kithaeron.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus says the addressed group will flee and abase bronze-rimmed shields
+    before the women's wands.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pentheus calls the other speaker “this stranger” and says he keeps speaking
+    regardless of how Pentheus entreats him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dionysus tells Pentheus to wait and says crooked matters may still be straightened.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The stage direction says Pentheus has started as though to seek his army at
+    the gate.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: Named speaker who declares the blood sacrifice, complains about the
+    stranger, and starts as though to seek his army.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Dionysus
+  description: Named speaker who predicts flight and humbled shields, then urges Pentheus
+    to wait.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: women on Kithaeron / wand-bearing women
+  description: Women whose blood Pentheus names as sacrifice and whose wands Dionysus
+    contrasts with bronze-rimmed shields.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Pentheus' army
+  description: Army that Pentheus starts as though to seek at the gate.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: speaker threatening blood sacrifice
+  assigned_to:
+  - fig:1
+  basis: Pentheus says he will bring a “sacrifice of women's blood.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker predicting rout and humiliation
+  assigned_to:
+  - fig:2
+  basis: Dionysus says the addressed group will flee and abase shields before wands.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: stranger as named by Pentheus
+  assigned_to:
+  - fig:2
+  basis: Pentheus refers to the other speaker as “this stranger.”
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: would-be military mobilizer
+  assigned_to:
+  - fig:1
+  basis: The stage direction says Pentheus starts as though to seek his army at the
+    gate.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: threatened women and wand bearers
+  assigned_to:
+  - fig:3
+  basis: The women are linked with the threatened blood sacrifice and with wands before
+    which shields will be abased.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: army sought at the gate
+  assigned_to:
+  - fig:4
+  basis: The stage direction identifies an army at the gate as the apparent object
+    of Pentheus' movement.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: women's blood
+  literal_form: "“sacrifice of women's blood”"
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Kithaeron
+  literal_form: Kithaeron
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bronze-rimmed shields
+  literal_form: "“shields of bronzen rim”"
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: wands
+  literal_form: "“their wands”"
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Threatened blood sacrifice and predicted rout
+  summary: Pentheus announces a sacrifice of women's blood on Kithaeron, while Dionysus
+    predicts that the addressed armed side will flee and lower bronze-rimmed shields
+    before wands.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Pentheus resists counsel and turns toward the army
+  summary: Pentheus rejects the stranger's speech; Dionysus tells him to wait, and
+    Pentheus starts as though to seek his army at the gate.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Threatened blood sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly names a “sacrifice of women's blood.”
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents the sacrifice as Pentheus' stated intention or threat,
+    not as an accomplished ritual act.
+- id: motif:2
+  label: Armed force humbled before ritual wands
+  taxonomy_refs: []
+  basis: Dionysus contrasts bronze-rimmed shields with wands and predicts the shield-bearing
+    side will flee and abase their shields before the wands.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The broader ritual or martial context is not fully given within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1593-1597
+  quote_or_summary: 'Pentheus: “Yea, sacrifice of women''s blood, to cry / His name
+    through all Kithaeron!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 1598-1602
+  quote_or_summary: 'Dionysus: “Ye shall fly, / All, and abase your shields of bronzen
+    rim / Before their wands.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 1603-1607
+  quote_or_summary: 'Pentheus: “There is no way with him, / This stranger that so
+    dogs us!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 1608-1611
+  quote_or_summary: Dionysus tells Pentheus to wait and says crooked matters may yet
+    be straightened.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; summarized evidence from public domain source.
+- id: ev:5
+  type: quote
+  locator: 1612-1616
+  quote_or_summary: 'Stage direction: Pentheus “has started as though to seek his
+    army at the gate.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif tagging is limited to the explicit
+    sacrifice language and the local shield-versus-wand reversal; no external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol reference was assigned to Kithaeron because the excerpt names it as a place but does not explicitly characterize it within the provided text.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1593-l1616
+  passage_sha256=720dafdc0876fae3936ce3648bbce8198f30aea4e4ddf86590568bbb47fe0682
+

@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l3476-l3501
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: GOVERNMENT 99 / GOVERNMENT / CHAPTER VIII / CRIME AND PUNISHMENT; lines 3476-3501
+  start: '3476'
+  end: '3501'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "'Overcome anger by kindness, evil by good.'"
+  summary: The passage opens a chapter on crime and punishment with a Dhammapada maxim.
+    It then recounts an officer in Rangoon losing currency notes from his table. Search
+    failed, police were involved, and the notes were traced to the officer's Burman
+    servant, who was caught trying to change one note, arrested, and confessed. The
+    servant explained that he was in hardship and had been troubled by his sister's
+    request for help when he saw and took the notes while tidying the room.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter is headed “Crime and Punishment” and opens with a Dhammapada saying
+    about overcoming anger by kindness and evil by good.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An officer in Rangoon placed currency notes on his table overnight; by morning
+    they were gone.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The lost amount is recalled as about thirty rupees.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: After search and inquiry failed, the officer put the matter in the hands of
+    the police.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The possession of the notes was traced the next day to the officer's Burman
+    servant, who looked after his clothes and attended on him at table.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The servant was caught trying to change one of the notes, was arrested, and
+    confessed.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The servant said he was hard up and that his sister had written asking him
+    to help her.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The servant said he saw the notes on the table while tidying the room and
+    took them.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: unnamed officer in Rangoon
+  description: An officer who lost currency notes after placing them on his table
+    overnight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Burman servant
+  description: The officer's servant, described as looking after the officer's clothes
+    and attending on him at table; he was traced with the notes, arrested, and confessed.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: servant's sister
+  description: The servant's sister, who had written asking him to help her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: police
+  description: The authorities to whom the officer gave the matter after search and
+    inquiry proved futile.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: loss-reporting officer
+  assigned_to:
+  - fig:1
+  basis: He lost the currency notes and put the matter in the hands of the police.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: household servant
+  assigned_to:
+  - fig:2
+  basis: He looked after the officer's clothes and attended on him at table.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: confessed taker of the notes
+  assigned_to:
+  - fig:2
+  basis: He was caught trying to change a note, arrested, confessed, and said he took
+    the notes.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:4
+  label: kin requesting help
+  assigned_to:
+  - fig:3
+  basis: She had written asking the servant to help her.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: investigating authority
+  assigned_to:
+  - fig:4
+  basis: The matter was placed in the hands of the police after search and inquiry
+    failed.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: currency notes
+  literal_form: currency notes on a table, later traced to the servant
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: thirty rupees
+  literal_form: the approximate amount of the lost notes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Dhammapada ethical maxim
+  literal_form: a quoted saying about overcoming anger by kindness and evil by good
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: ethical epigraph
+  summary: A maxim attributed to the Dhammapada states that anger is to be overcome
+    by kindness and evil by good.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: loss of notes and report to police
+  summary: An officer in Rangoon loses currency notes left on his table overnight;
+    after unsuccessful search and inquiry, he reports the matter to the police.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: servant traced, arrested, and confessing
+  summary: The notes are traced to the officer's Burman servant, who is caught trying
+    to change a note, arrested, and confesses that hardship and his sister's request
+    for help preceded his taking the notes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ethical overcoming of anger and evil by kindness and good
+  taxonomy_refs:
+  - wisdom
+  basis: The passage's epigraph gives a concise Buddhist ethical maxim before the
+    crime narrative.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage excerpt does not yet show how the maxim is applied to the
+    punishment narrative.
+- id: motif:2
+  label: theft under hardship and kin obligation
+  taxonomy_refs: []
+  basis: The servant explains the theft by poverty and by his sister's written request
+    for help.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is a social narrative pattern in the excerpt, not a clearly mythic
+    or sacred motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The Dhammapada maxim places the opening of the passage in relation to a
+    Buddhist wisdom-teaching pattern: moral restraint and goodness are presented as
+    responses to anger and evil.'
+  claim_level: same_function
+  target: wisdom motif family / Buddhist ethical instruction
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt provides only the epigraph and the beginning of the crime
+    narrative; it does not include the later resolution or punishment.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3476-3482
+  quote_or_summary: 'CHAPTER VIII, “CRIME AND PUNISHMENT,” opens: “Overcome anger
+    by kindness, evil by good.” Attributed to “Dammapada.”'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3484-3488
+  quote_or_summary: An officer in Rangoon had placed currency notes on his table overnight;
+    in the morning they were gone.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3488-3491
+  quote_or_summary: The amount was not large and is remembered as thirty rupees; the
+    loss annoyed the officer.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3491-3493
+  quote_or_summary: After search and inquiry proved futile, the officer put the matter
+    in the hands of the police.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3495-3498
+  quote_or_summary: By the next day possession of the notes was traced to the officer's
+    Burman servant, who looked after his clothes and attended him at table.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3498-3500
+  quote_or_summary: The servant was caught trying to change one note, was arrested,
+    and confessed.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3500-3501
+  quote_or_summary: The servant said he was very hard up and that his sister had written
+    asking him to help her.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3501
+  quote_or_summary: The servant said he saw the notes on the table while tidying the
+    room and took them; the provided excerpt ends with the phrase “It was a sudden”.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the excerpt is a social/legal anecdote and ends mid-sentence; only the Dhammapada
+    epigraph clearly supports the available taxonomy ref “wisdom.”
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs apply directly to this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l3476-l3501
+  passage_sha256=e67f09f228f83461f166aad1ceecf91ec915b93aa4965c0748e735c0bd0badc8
+

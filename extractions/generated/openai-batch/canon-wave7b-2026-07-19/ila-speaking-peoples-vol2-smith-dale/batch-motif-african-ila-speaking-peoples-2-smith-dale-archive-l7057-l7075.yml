@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l7057-l7075
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: THE DIVINITIES / THE GRAVE OF OUR FRIEND MUNGALO. / CH. XXII / THE DIVINITIES;
+    lines 7057-7075
+  start: '7057'
+  end: '7075'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Let the sharp stick sleep! May the fierce snake be far away! ... He makes
+    his offering after killing game...”"
+  summary: A spoken formula asks that the group continue together, that no one look
+    back, that dangers such as a sharp stick, a fierce snake, and biting things be
+    kept away, and that good fortune be found. After killing game, an unnamed man
+    makes an offering by throwing morsels in all directions; on returning home, he
+    deposits meat first at the Iwanga and makes another offering to his own genius
+    and then to the family divinities.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A spoken formula says that none should look back and that the group should
+    go on together.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The formula asks that a sharp stick sleep, that a fierce snake be far away,
+    and that all biting things be far away.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The formula refers to an elephant picked up dead in a dream and asks for good
+    fortune.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: After killing game, the man makes an offering by throwing morsels in all directions.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On returning home, the man deposits the meat first at the Iwanga and makes
+    another offering there.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The offering at the Iwanga is made first to the man’s own genius and then
+    to the family divinities.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Unnamed male offering-maker
+  description: The unnamed man who kills game and makes offerings with morsels and
+    meat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Own genius
+  description: The man’s own genius, named as the first recipient of the offering
+    at the Iwanga.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Family divinities
+  description: The family divinities, named as recipients after the man’s own genius.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Fierce snake
+  description: A fierce snake named in the formula as something wished to be far away.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: offering-maker after killing game
+  assigned_to:
+  - fig:1
+  basis: The passage says he makes an offering after killing game and makes another
+    offering at the Iwanga.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: recipient of offering
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The man makes the offering to his own genius first and then to the family
+    divinities.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: averted danger in spoken formula
+  assigned_to:
+  - fig:4
+  basis: The formula asks that the fierce snake be far away.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: serpent danger
+  literal_form: fierce snake
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sharp stick
+  literal_form: sharp stick told to sleep
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: game morsels and meat
+  literal_form: morsels thrown in all directions; meat deposited at the Iwanga
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Iwanga
+  literal_form: the Iwanga where meat is first deposited and another offering is made
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: dead elephant in dream
+  literal_form: the elephant that was picked up dead in a dream
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Protective and fortunate-going formula
+  summary: A formula asks that the group go together without looking back, that dangerous
+    things such as a sharp stick, fierce snake, and biting things be removed, and
+    that good fortune be found.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Offerings after game is killed
+  summary: After killing game, the man throws morsels in all directions; when he returns
+    home, he deposits the meat first at the Iwanga and makes another offering to his
+    own genius and then to the family divinities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Offering portions of killed game to divine recipients
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly describes offerings after game is killed, including
+    morsels thrown in all directions and meat deposited at the Iwanga for the man’s
+    own genius and family divinities.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage calls the acts offerings but does not give a full theological
+    explanation of the exchange.
+- id: motif:2
+  label: Warding away serpent and biting dangers
+  taxonomy_refs:
+  - serpent
+  basis: The spoken formula asks that the fierce snake and all biting things be far
+    away.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The snake is mentioned as a danger to avert; the passage does not elaborate
+    a serpent myth.
+- id: motif:3
+  label: Good-fortune formula for collective movement
+  taxonomy_refs: []
+  basis: The formula asks that no one look back, that the group go on together, and
+    that good fortune be present.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage begins mid-sentence, so the immediate ritual setting of the
+    formula is not fully visible in the supplied excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7057-7066
+  quote_or_summary: "“let there be none who looks back, let us go on all together.
+    Let the sharp stick sleep! May the fierce snake be far away! Let all biting things
+    be far away! ... Let there be good fortune!”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 7066-7069
+  quote_or_summary: "“He makes his offering after killing game, by throwing morsels
+    in all directions”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7069-7074
+  quote_or_summary: "“on returning home deposits the meat first at the Iwanga, where
+    he makes another offering, to his own genius first and then to the family divinities.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the excerpt begins mid-formula
+    and provides limited context for interpreting the ritual setting. No separate
+    comparison claims were made beyond candidate motif tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. The term “Iwanga” is retained without added explanation because the excerpt does not define it.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l7057-l7075
+  passage_sha256=6e22a733e63430786d22e0cf7209227dd1d6dc20182f8fb29e97035de3d1b046
+

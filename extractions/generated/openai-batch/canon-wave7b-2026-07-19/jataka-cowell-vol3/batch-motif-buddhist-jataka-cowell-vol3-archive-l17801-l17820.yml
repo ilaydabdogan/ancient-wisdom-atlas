@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol3-archive-l17801-l17820
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+passage_locator:
+  label: GIJJHA-JATAKAV / CULLASUKA-JATAKA. / HARITA-JATAKA. / PADAKUSALAMANAVA-JATAKA.;
+    lines 17801-17820
+  start: '17801'
+  end: '17820'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. III
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A youth tells the king that a ruler should protect the people as a son
+    cares for an aged father, but that the present danger has arisen from the king
+    himself. The king demands that the youth produce the thief or be treated as the
+    thief. The youth asks whether the king truly wants the thief caught, says he will
+    announce it before the assembly, and then addresses the gathered people in stanzas
+    about safety becoming fear, a plundered realm complaining of king and priest,
+    and refuge becoming bane.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A speaker tells the king that an able-bodied son should care for an aged father
+    and that, likewise, a king should protect all the people.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says that the present danger has arisen from the king, who is
+    described as the guardian of all men.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The king says he does not understand and demands that the youth either bring
+    him the thief or be considered the thief himself.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The king repeatedly questions the youth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The youth asks whether the king really wants the thief caught and says he
+    will proclaim the matter in the midst of the assembly.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The youth thinks that the king will not allow him to shield him and decides
+    to catch the thief.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: People gather together, and the youth addresses them in stanzas.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The stanzas call town and country folk to listen and state that water is ablaze
+    and fear comes from safety.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The stanzas say that a plundered realm may complain of king and priest and
+    tell the people to protect themselves because their refuge proves their bane.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: king
+  description: The ruler addressed as sire; described as guardian of all men and questioned
+    by the youth about whether he wants the thief caught.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: youth
+  description: The person questioned by the king; he offers to proclaim the thief
+    before the assembly and addresses the gathered people in stanzas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: town and country folk / assembly
+  description: The gathered people whom the youth addresses and tells to listen and
+    protect themselves.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: priest
+  description: An office named in the stanza as one against whom the plundered realm
+    may complain, together with the king.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: guardian-ruler
+  assigned_to:
+  - fig:1
+  basis: The passage says the king is the guardian of all men and should protect all
+    the people.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioned accuser or revealer
+  assigned_to:
+  - fig:2
+  basis: The youth is pressed to produce the thief, then says he will proclaim the
+    matter before the assembly.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: assembled public audience
+  assigned_to:
+  - fig:3
+  basis: The people gather, and the youth calls town and country folk to listen.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: source of present danger
+  assigned_to:
+  - fig:1
+  basis: The speaker states that the present danger has arisen from the king.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: water ablaze
+  literal_form: water is ablaze
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: refuge becomes bane
+  literal_form: Your refuge proves your bane
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: aged father and able-bodied son comparison
+  literal_form: aged father cared for by an able-bodied son
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: King questions the youth
+  summary: The youth argues that a king should protect the people and that the present
+    danger comes from the king. The king demands that the youth produce the thief
+    or be treated as the thief.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Public proclamation before the assembly
+  summary: The youth asks whether the king wants the thief caught, says he will proclaim
+    the matter, and then addresses the gathered people in stanzas about danger arising
+    from expected safety and refuge becoming harmful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ruler as failed protector
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage frames the king as guardian of all men who should protect the
+    people, but also states that the present danger has arisen from him and that the
+    plundered realm may complain of king and priest.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage is fragmentary and does not give the full narrative resolution
+    in this line range.
+- id: motif:2
+  label: Wisdom through indirect public accusation
+  taxonomy_refs:
+  - wisdom
+  basis: The youth responds to interrogation by arranging a public proclamation and
+    speaking in stanzas that reveal danger arising from the expected protector.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The exact identity of the thief is not fully stated within the excerpt,
+    though the youth's speech points to the king as source of danger.
+- id: motif:3
+  label: Safety inverted into danger
+  taxonomy_refs:
+  - duality
+  basis: The stanzas use images of water ablaze, fear coming from safety, and refuge
+    proving to be bane.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a local poetic pattern in the passage rather than a full narrative
+    motif by itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17801-17804
+  quote_or_summary: The speaker compares the king's duty to protect the people with
+    a son's duty to care for an aged father, and says the present danger has arisen
+    from the king, the guardian of all men.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 17804-17807
+  quote_or_summary: The king says he does not understand and tells the youth either
+    to bring the thief or be treated as the thief; he questions the youth repeatedly.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 17807-17813
+  quote_or_summary: The youth asks if the king really wants the thief caught, says
+    he will proclaim the matter in the assembly, and thinks that the king will not
+    allow him to shield him, so he will catch the thief.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 17813-17817
+  quote_or_summary: When the people gather, the youth addresses them in stanzas, calling
+    town and country folk to listen and saying that water is ablaze and fear comes
+    from safety.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 17817-17820
+  quote_or_summary: The stanzas say that a plundered realm may complain of king and
+    priest and tell the people to protect themselves because their refuge proves their
+    bane.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an OCR-affected excerpt from a larger Jataka narrative. Literal
+    extraction is based only on the supplied lines; motif candidates remain provisional
+    pending review of surrounding context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode to another tradition or corpus.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol3-archive__l17801-l17820
+  passage_sha256=afcea5fa9d823a5332a6fa2271917bd5972f4234bd14757939ce23a5aac79b31
+

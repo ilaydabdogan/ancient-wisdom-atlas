@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l15925-l15949
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: PARTICIPANTS    IN     DRUM-PRESENTATION    CEREMONY / OWNER   OF   DRUM    (DANCING)
+    / PROMINENT    CHIPPEWA    ACTORS    IN    DRUM-PRESENTATION    CEREMONY / BUEEAU   OF   AMERICAN   ETHNOLOGY;
+    lines 15925-15949
+  start: '15925'
+  end: '15949'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After the Drum-presentation Ceremony on the Menominee Reservation, the
+    writer returned to the place of assembly. The Menominee had hosted the Chippewa,
+    who decided to remain four more days. Custom required each tribe to continue dancing
+    for four days, and they danced together despite snow. The Chippewa then faced
+    a difficult return toward the railroad with lighter packs, gifts already given
+    away, incomplete return gifts, missing provisions, and inadequate protection from
+    a north wind. The passage closes by noting their return to Lac du Flambeau after
+    giving two drums to the Menominee.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The day after the drum presentation was completed, the writer returned to
+    the place where the Indians were assembled.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Menominee are described as gracious hosts, and the Chippewa decided to
+    remain four days longer.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Custom required each tribe to dance four more days, and the tribes decided
+    to dance together.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Snow fell steadily and several inches covered the ground, but the dancing
+    continued because the dancing, once begun, had to be finished.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Chippewa faced a 20-mile walk to reach the railroad.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Chippewa packs were lighter because gifts had been given away, the Menominee
+    had not yet returned the full equivalent, and provisions had disappeared.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Shawls that had seemed burdensome in warm sun were only scant protection from
+    the north wind.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The company returned to Lac du Flambeau and the passage notes that two drums
+    had been given to the Menominee.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the writer
+  description: Observer who returned to the assembly place after the drum presentation
+    was completed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Menominee
+  description: Hosts on the Menominee Reservation, participants in the continued dancing,
+    and recipients of two drums.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Chippewa
+  description: Guests who remained four days longer, danced with the Menominee, had
+    given gifts and drums, and returned toward Lac du Flambeau.
+  role_refs:
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: observer
+  assigned_to:
+  - fig:1
+  basis: The writer went again to the place where the people were assembled after
+    the ceremony.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hosts
+  assigned_to:
+  - fig:2
+  basis: The Menominee are described as gracious hosts, and their suggestion to dance
+    together is described as hospitable.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: visiting drum-givers
+  assigned_to:
+  - fig:3
+  basis: The Chippewa stayed after the drum presentation and are later described as
+    having given two drums to the Menominee.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: ceremonial dancers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Custom required each tribe to dance four more days, and the tribes danced
+    together.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: drum recipients
+  assigned_to:
+  - fig:2
+  basis: The passage says two drums had been given to the Menominee.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: returning travelers
+  assigned_to:
+  - fig:3
+  basis: The Chippewa had to walk toward the railroad and returned to Lac du Flambeau.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: presented drums
+  literal_form: two drums
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: four-day dancing requirement
+  literal_form: four more days of dancing by each tribe
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: gifts and return equivalent
+  literal_form: gifts given away and an equivalent not yet fully returned
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: snow and north wind
+  literal_form: several inches of snow and a keen north wind
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Return to the assembly after the ceremony
+  summary: The writer returns to the assembly place after the drum presentation; the
+    Menominee are described as hosts, and the Chippewa decide to remain four more
+    days.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Continued dancing in snow
+  summary: Custom requires each tribe to dance four more days, so the Menominee and
+    Chippewa dance together even after snow covers the ground.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Difficult return after exchange
+  summary: The Chippewa face a 20-mile walk toward the railroad with lighter packs,
+    depleted provisions, inadequate shawls, and incomplete reciprocal gifts before
+    returning to Lac du Flambeau after giving two drums to the Menominee.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Ritual gift and drum presentation with reciprocity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes a drum-presentation context in which the Chippewa gave
+    gifts and two drums to the Menominee, while a full equivalent had not yet been
+    returned.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The excerpt reports ceremonial exchange and incomplete reciprocity but
+    does not explain the sacred meaning of the exchange within this passage.
+- id: motif:2
+  label: Ritual completion despite hardship
+  taxonomy_refs: []
+  basis: The dancing continued despite several inches of snow because custom required
+    that dancing, once begun, be finished.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level ritual pattern rather than a named taxonomy motif
+    in the supplied list.
+- id: motif:3
+  label: Four-day ceremonial continuation
+  taxonomy_refs: []
+  basis: Custom required each tribe to dance four more days after the drum-presentation
+    ceremony, and the tribes danced together.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states the duration as custom but does not provide an explicit
+    symbolic explanation for the number four.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15925-15928
+  quote_or_summary: After the Drum-presentation Ceremony, the writer returned to the
+    assembly place; the Menominee had been gracious hosts, and the Chippewa decided
+    to remain four days longer.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 15928-15930
+  quote_or_summary: Custom required each tribe to dance four more days, and it was
+    decided that the tribes would dance together.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 15930-15934
+  quote_or_summary: A gray cloud appeared, snow fell steadily, several inches covered
+    the ground, and the dancers continued because dancing once begun had to be finished.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 15935-15939
+  quote_or_summary: The Chippewa faced a weary 20-mile walk to reach the railroad;
+    their packs were lighter because gifts had been given away, the full equivalent
+    had not yet been returned, and provisions had disappeared.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 15939-15940
+  quote_or_summary: Shawls that had seemed burdensome in warm weather gave only scant
+    protection from a keen north wind.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 15941-15943
+  quote_or_summary: The company returned to Lac du Flambeau in a forlorn condition,
+    and the passage notes that they had given two drums to the Menominee.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage gives clear literal details about participants, weather, dancing,
+    travel, gifts, and drums. Motif candidates are limited to passage-level ceremonial
+    patterns; no comparison claims are made because the excerpt does not itself develop
+    a comparative argument.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR irregularities in the supplied passage were not normalized beyond neutral summary. The word 'heights' is not treated as a mountain or world-center symbol because the passage uses it in a reflective phrase rather than as a literal setting.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l15925-l15949
+  passage_sha256=d8329830b2a0448012d22e4904818238518901da3ef4ab6572dfbbf1bb222387
+

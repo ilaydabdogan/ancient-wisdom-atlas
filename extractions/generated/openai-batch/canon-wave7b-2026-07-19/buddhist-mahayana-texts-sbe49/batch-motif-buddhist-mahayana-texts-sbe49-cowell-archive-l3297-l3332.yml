@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.buddhist-mahayana-texts-sbe49-cowell-archive-l3297-l3332
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+passage_locator:
+  label: BOOK VI, I-15. 63 / BOOK VI, 36-55. 67 / BOOK VI, 56-68. 69 / BOOK VII.;
+    lines 3297-3332
+  start: '3297'
+  end: '3332'
+  translation: Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Book VII. A prince leaves the weeping Khamda and, longing
+    for the forest, enters a hermitage. His beauty and bearing attract the attention
+    of hermitage dwellers, drivers with their wives, Brahmans returning with ritual
+    materials, peacocks, deer, and ascetics.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The prince leaves the weeping, tear-faced Khamda while longing for the forest.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prince enters a hermitage, and the place is described as affected by his
+    beauty.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The prince is described with a lion-like gait and as like a deer in an arena
+    of deer.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prince attracts the eyes of all dwellers in the hermitage despite being
+    bereft of magnificence.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Drivers of wheeled carriages and their wives stand still, holding yokes, and
+    gaze at the prince, who is likened to Indra.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Brahmans returning with fuel, flowers, and kusa grass go to see the prince
+    rather than going to their cells.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Brahmans are described as pre-eminent in penances and proficient in wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Peacocks cry delightedly, as if they had seen a dark-blue cloud rising.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Deer leave young grass and come forward, while ascetics who graze like deer
+    stand still.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the prince
+  description: A prince who leaves Khamda, longs for the forest, enters the hermitage,
+    and draws the attention of humans, animals, and ascetics.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Khamda
+  description: A weeping, tear-faced figure left behind by the prince.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: dwellers in the hermitage
+  description: The inhabitants of the hermitage whose eyes are attracted to the prince.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: drivers of wheeled carriages and their wives
+  description: People who stand still with yokes in their hands and gaze at the prince.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Brahmans
+  description: Brahmans returning with fuel, flowers, and kusa grass, described as
+    eminent in penances and proficient in wisdom.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: peacocks
+  description: Peacocks that cry delightedly as if seeing a dark-blue cloud rising.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: deer
+  description: Deer that leave young grass and come forward with restless eyes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: ascetics who grazed like deer
+  description: Ascetics described as grazing like deer and standing still.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: forest-seeking prince
+  assigned_to:
+  - fig:1
+  basis: The prince leaves Khamda and is described as longing for the forest before
+    entering the hermitage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: radiant object of attention
+  assigned_to:
+  - fig:1
+  basis: The prince's beauty and presence attract the eyes of hermitage dwellers and
+    cause multiple groups to stop or gaze.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: grieving figure left behind
+  assigned_to:
+  - fig:2
+  basis: Khamda is described as weeping and tear-faced when the prince leaves.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: witnesses in the hermitage setting
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  basis: These figures are shown looking at, going to see, or standing still in response
+    to the prince's arrival.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: ascetic or ritual specialists
+  assigned_to:
+  - fig:5
+  - fig:8
+  basis: The Brahmans are associated with penances, wisdom, and ritual materials,
+    while the ascetics are explicitly named as ascetics.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: natural responders
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The peacocks cry, and the deer leave grass and come forward in the scene
+    of the prince's arrival.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: forest
+  literal_form: forest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hermitage
+  literal_form: hermitage
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: deer imagery
+  literal_form: arena of deer; deer; ascetics who grazed like deer
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: lion-like gait
+  literal_form: gait like the lion's
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Indra comparison
+  literal_form: like Indra
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: ritual materials
+  literal_form: fuel, flowers, and kusa grass
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: dark-blue cloud
+  literal_form: dark-blue cloud rising up
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Departure and entry into the hermitage
+  summary: The prince leaves the weeping Khamda, longs for the forest, and enters
+    a hermitage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Human witnesses stop to look at the prince
+  summary: The prince's lion-like gait, deer-like presence, and beauty attract hermitage
+    dwellers, drivers with their wives, and Brahmans returning with ritual materials.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Animals and ascetics respond in the forest hermitage
+  summary: Peacocks cry as if seeing a dark-blue cloud; deer come forward; ascetics
+    who graze like deer stand still.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Departure toward the forest hermitage
+  taxonomy_refs:
+  - departure
+  basis: The prince leaves the weeping Khamda and moves toward the forest by entering
+    a hermitage.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the movement and destination but does not elaborate
+    the broader narrative motive beyond longing for the forest.
+- id: motif:2
+  label: Forest ascetic quest setting
+  taxonomy_refs:
+  - mystical_quest
+  basis: The prince enters a hermitage populated by Brahmans associated with penance
+    and wisdom and by ascetics.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage establishes an ascetic setting, but no explicit teaching,
+    initiation, or quest outcome occurs within the excerpt.
+- id: motif:3
+  label: Radiant arrival arresting all witnesses
+  taxonomy_refs: []
+  basis: The prince's arrival causes hermitage dwellers, drivers, Brahmans, peacocks,
+    deer, and ascetics to stop, gaze, come forward, or cry out.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level narrative pattern rather than a mapped taxonomy
+    motif family.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly likens the prince to Indra, supporting a cautious
+    visual-similarity claim between the prince's appearance and divine royal imagery.
+  claim_level: visual_similarity
+  target: Indra-like divine or royal radiance
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is a simile in the passage; it does not identify the
+    prince with Indra or establish historical borrowing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3297-3302; Book VII.1
+  quote_or_summary: The prince leaves the weeping Khamda, longs for the forest, and
+    enters a hermitage described as blessed or overpowered by his beauty.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3303-3308; Book VII.2
+  quote_or_summary: The prince enters an arena of deer, is described with a lion-like
+    gait and deer-like presence, and attracts the eyes of the hermitage dwellers.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3309-3314; Book VII.3
+  quote_or_summary: Drivers of wheeled carriages and their wives stand still with
+    yokes in their hands and gaze at the prince, who is likened to Indra.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 3315-3320; Book VII.4
+  quote_or_summary: Brahmans returning with fuel, flowers, and kusa grass, eminent
+    in penances and wisdom, go to see the prince instead of going to their cells.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 3321-3330; Book VII.5 and footnote marker
+  quote_or_summary: Peacocks cry as if seeing a dark-blue cloud; deer leave grass
+    and come forward; ascetics who graze like deer stand still.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    beyond departure are more interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to available motif families and symbols; no symbol taxonomy references were assigned.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-mahayana-texts-sbe49-cowell-archive__l3297-l3332
+  passage_sha256=9b4e3c68db4c81bca103a9d73a35e14825781be53b3143dbe692a409a41b7bc8
+

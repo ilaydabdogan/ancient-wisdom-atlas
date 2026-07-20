@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l14727-l14734
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: BUEEAU    OF   AMERICAN    ETHNOLOGY / MEC'KAWIGA'BAU / BUKEAU    OF    AMERICAN   ETHNOLOGY
+    / RUREAU   OF   AMERICAN    ETHNOLOGY; lines 14727-14734
+  start: '14727'
+  end: '14734'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After listening to songs in E'niwilb'e's house, the writer goes outside
+    at night. The lake and pines are visible in moonlight. A group carrying a drum
+    comes down the road; the writer learns they had been dancing at Bi'jikens's house
+    and are bringing the drum to E'niwub'e's, where singing would take place with
+    both drums.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The writer listened to songs in E'niwilb'e's house and then passed into the
+    open air.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The outdoor setting includes a white, glistening lake in moonlight and dark
+    pines outlined against the sky.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A group described as Indians was coming down the road carrying a drum.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A light was visible from Bi 'jTkens's window in the distance.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The party belonging to the chief drum had been dancing at Bi'jikens's house
+    and was bringing that drum to E'niwub'e's house.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At E'niwub'e's house they would sing with both drums.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the writer
+  description: Observer who listened to songs in E'niwilb'e's house and then went
+    outside.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: E'niwilb'e / E'niwub'e
+  description: Named person associated with the house where songs were heard and where
+    the drum party was going to sing with both drums.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: party of Indians belonging to the chief drum
+  description: Group carrying a drum down the road after dancing at Bi'jikens's house
+    and bringing the drum to E'niwub'e's house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Bi 'jTkens / Bi'jikens
+  description: Named person associated with the distant lit window and the house where
+    the party had been dancing.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: observer-listener
+  assigned_to:
+  - fig:1
+  basis: The passage says the writer listened to songs and then went outside.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named person associated with a house
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The passage identifies houses or a window by the names E'niwilb'e/E'niwub'e
+    and Bi 'jTkens/Bi'jikens.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: drum-carrying dance party
+  assigned_to:
+  - fig:3
+  basis: The group carried a drum, had been dancing, and was bringing the drum to
+    another house.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: person associated with prior dance location
+  assigned_to:
+  - fig:4
+  basis: The party had been dancing at Bi'jikens's house.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: drum
+  literal_form: A drum carried by the party and brought from Bi'jikens's house to
+    E'niwub'e's house.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: both drums
+  literal_form: Two drums to be used together for singing at E'niwub'e's house.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: moonlit lake
+  literal_form: A white, glistening lake seen in moonlight.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: pines
+  literal_form: Pines outlined darkly against the sky.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: distant window light
+  literal_form: A light shining from Bi 'jTkens's window in the distance.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: departure from song gathering into open air
+  summary: After listening to songs in E'niwilb'e's house, the writer goes outside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: moonlit outdoor view
+  summary: The writer observes the lake shining in moonlight, dark pines against the
+    sky, and a distant window light.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: drum carried between houses
+  summary: A party carrying a drum comes down the road; it is learned that they had
+    danced at Bi'jikens's house and were bringing the drum to E'niwub'e's house for
+    singing with both drums.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: drum procession between houses
+  taxonomy_refs: []
+  basis: The passage describes a group carrying a drum down the road from one named
+    house to another after dancing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is descriptive and does not explicitly assign mythic or sacred
+    meaning to the movement of the drum.
+- id: motif:2
+  label: combined singing with two drums
+  taxonomy_refs: []
+  basis: The party is bringing the drum to E'niwub'e's house, where they would sing
+    with both drums.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a performance arrangement but does not explain a wider
+    ritual or symbolic interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14727-14728
+  quote_or_summary: After listening to songs in E'niwilb'e's house, the writer passed
+    into the open air.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 14728-14730
+  quote_or_summary: '"The lake was white and glistening in the moonlight and the pines
+    were outlined darkly against the sky."'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 14730-14732
+  quote_or_summary: A party of Indians carrying a drum was coming down the road, and
+    a light shone from Bi 'jTkens's window in the distance.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 14732-14734
+  quote_or_summary: On inquiry, the writer learned that the chief drum party had been
+    dancing at Bi'jikens's house and was bringing that drum to E'niwub'e's, where
+    they would sing with both drums.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage describes a musical event without explicit mythic interpretation.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only to literal lake/water and pine/tree imagery from the available symbol list.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l14727-l14734
+  passage_sha256=0abe0f61bccf8f562135988674df1f0dea4fa23827b49ab245b6cae75a1a1e62
+

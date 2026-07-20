@@ -1,0 +1,209 @@
+---
+record_id: batch.motif.polynesian-samoa-hundred-years-ago-turner-gutenberg-l5279-l5297
+source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+passage_locator:
+  label: SEPTEMBER. / OCTOBER. / NOVEMBER. / DECEMBER.; lines 5279-5297
+  start: '5279'
+  end: '5297'
+  translation: Samoa, A Hundred Years Ago And Long Before
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives Samoan month names and seasonal associations for October,
+    November, and December: October is linked with prayers to the gods for rain; November
+    with the first abundance of fish and food, feasts, and public dinners; December
+    with the end of feasting, decreasing food, and scarcity after gales or cyclones.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: October is called Lotuaga, glossed as rain prayers, because special prayers
+    were offered to the gods for rain in that month.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: November is called Taumafamua, glossed as the first of plenty, when fish and
+    other food became plentiful.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The palolo and fly-hook feasts followed the November abundance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Public dinners were held in the houses of the leading men of the village during
+    the November feasting period.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: December is called Toetaumafa, glossed as the finish of the feasting.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In December food was less plentiful, and after some December gales or cyclones
+    there was great scarcity.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the gods
+  description: Unnamed gods to whom special prayers for rain were offered in October.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: leading men of the village
+  description: Village leaders whose houses hosted public dinners during the November
+    feasting period.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recipients of rain prayers
+  assigned_to:
+  - fig:1
+  basis: The passage states that special prayers were offered to the gods for rain.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hosts of public dinners
+  assigned_to:
+  - fig:2
+  basis: The passage states that public dinners took place in the houses of the leading
+    men of the village.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: rain
+  literal_form: rain requested through special prayers in October
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fish and other food
+  literal_form: fish and other food that became plentiful in November
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: feasts and public dinners
+  literal_form: palolo and fly-hook feasts, and public dinners in leaders' houses
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: gales or cyclones
+  literal_form: December gales or cyclones followed by great scarcity
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: October rain prayers
+  summary: October is identified by a name meaning rain prayers, and the month is
+    associated with special prayers to the gods for rain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: November plenty and feasts
+  summary: November is identified as the first of plenty, with fish and other food
+    becoming abundant, followed by palolo and fly-hook feasts and public dinners in
+    leaders' houses.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: December end of feasting and scarcity
+  summary: December is identified as the finish of the feasting; food becomes less
+    plentiful, and some gales or cyclones are followed by great scarcity.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: seasonal progression from rain-prayer ritual to food abundance, feasting,
+    and scarcity
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: 'The passage presents successive months with named associations: rain prayers
+    in October, abundance and feasting in November, and the end of feasting with scarcity
+    in December.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is calendrical and ethnographic rather than narrative myth;
+    the motif label is limited to the observed seasonal pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5279-5283
+  quote_or_summary: October is named Lotuaga, meaning rain prayers, because special
+    prayers were offered to the gods for rain.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5285-5291
+  quote_or_summary: November is named Taumafamua, the first of plenty; fish and other
+    food became plentiful, followed by palolo and fly-hook feasts and public dinners
+    in houses of leading men.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5293-5297
+  quote_or_summary: December is named Toetaumafa, the finish of the feasting; food
+    was less plentiful, and after some December gales or cyclones there was great
+    scarcity.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal calendrical observations are direct. Motif identification as seasonal_cycle
+    is supported by the month-by-month progression, but the passage is not a mythic
+    narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or comparisons beyond those explicitly supported by the supplied passage were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:polynesian-samoa-hundred-years-ago-turner-gutenberg__l5279-l5297
+  passage_sha256=c32be37c763a9b7fc435faf42e95aac603b4e334a2af957a66c64e3c1730e738
+

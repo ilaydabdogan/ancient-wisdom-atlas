@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l30902-l30912
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: TRADE. / TRADING VOYAGES. / COMMERCIAL AGENTS. / TRADE FROM BEYOND THE MASSIM
+    AREA.; lines 30902-30912
+  start: '30902'
+  end: '30912'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses a photograph showing three men wearing shell ornaments
+    identified as Mailu-made, notes uncertainty from the photographer, and reports
+    that Mailu canoes travel eastward to trade with islands of the Massim.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A photograph shows three men wearing ornaments made of melo shell.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The melo shell ornaments are described as the kind manufactured at Mailu.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Shell discs on the suspension cord of one ornament are said to be made only
+    in the Mailu district.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Dr Forbes, who took the photograph, could not explain the presence of these
+    ornaments.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Mr Abel reported that Mailu canoes travel eastward to trade with several islands
+    of the Massim.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: three men in photograph
+  description: Three men shown wearing melo shell ornaments.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man to the right of the picture
+  description: One of the three men, wearing an ornament suspended around his neck
+    by a cord with Mailu-made shell discs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Dr Forbes
+  description: The photographer who could throw no light on the matter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Mr Abel
+  description: The informant who reported Mailu canoe trading voyages eastward to
+    Massim islands.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Mailu canoe traders
+  description: People implied by the report that Mailu canoes journey eastward trading
+    with Massim islands.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: wearer of trade ornaments
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The men are shown wearing ornaments identified as Mailu-made.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: photographer without explanation
+  assigned_to:
+  - fig:3
+  basis: Dr Forbes took the photograph but could not explain the matter.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: informant on trade routes
+  assigned_to:
+  - fig:4
+  basis: Mr Abel reported that Mailu canoes traded eastward with Massim islands.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: long-distance canoe traders
+  assigned_to:
+  - fig:5
+  basis: Mailu canoes are said to journey eastward for trade.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: melo shell ornament
+  literal_form: shell ornament
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Mailu shell discs
+  literal_form: shell discs ornamenting a neck suspension cord
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Mailu canoe
+  literal_form: canoe used for eastward trading journeys
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Photographed Mailu-made ornaments
+  summary: A photograph is described in which three men wear melo shell ornaments,
+    including shell discs identified as made only in the Mailu district.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Report of Mailu trade voyages
+  summary: After the photographer cannot explain the matter, the author reports hearing
+    that Mailu canoes travel eastward to trade with Massim islands.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: long-distance maritime trade of shell valuables
+  taxonomy_refs: []
+  basis: The passage links Mailu-made shell ornaments and discs with reports of Mailu
+    canoes trading eastward with Massim islands.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage describes ethnographic trade, not a mythic or sacred exchange;
+    no sacred taxonomy reference is assigned.
+- id: motif:2
+  label: trade object as evidence of distant contact
+  taxonomy_refs: []
+  basis: Mailu-manufactured ornaments and shell discs appear in a photograph, and
+    a later report explains their possible presence through Mailu trading voyages.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The causal link is inferential within the passage and depends on the reported
+    trade route.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30902-30907
+  quote_or_summary: A photograph shows three men wearing melo shell ornaments like
+    those made at Mailu; the shell discs on one neck cord are said to be made only
+    in the Mailu district.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 30907-30909
+  quote_or_summary: Dr Forbes, who took the photograph, could not explain the matter.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 30909-30912
+  quote_or_summary: Mr Abel reported that Mailu canoes journey eastward and trade
+    with a number of Massim islands.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal trade details are clear. Motif candidates are treated as material-culture
+    exchange patterns rather than mythological motifs. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy references were directly supported by this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l30902-l30912
+  passage_sha256=ce6c06e60e6f196c06bab902c7b5e90fdcb9c32c87912f0923bf454132b6113f
+

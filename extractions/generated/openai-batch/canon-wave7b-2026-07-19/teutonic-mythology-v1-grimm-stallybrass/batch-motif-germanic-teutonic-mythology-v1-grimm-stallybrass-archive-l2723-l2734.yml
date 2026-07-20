@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l2723-l2734
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: SACRIFICE.  43 / SACRIFICE.  47 / SACRIFICE.  49 / SACRIFICE.  51; lines
+    2723-2734
+  start: '2723'
+  end: '2734'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses uncertainty over which animals were used as sacrificial
+    beasts, questions whether domestic poultry belonged among them, and notes that
+    yearly slaughter-feasts with distribution of meat may preserve traces of communal
+    sacrifice. It also compares the Serbian burning of the badnyak with the yule-log
+    and notes roasting of a whole swine, sometimes with a sucking pig.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author states uncertainty about several alleged sacrificial animals and
+    says that, among Dietmar's dogs, hawks, and cocks, hardly any but cocks can be
+    depended on.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage raises questions about domestic poultry, including fowls, geese,
+    and pigeons, and mentions the dove in Jewish and Christian contexts, though the
+    supplied passage breaks off before completing that statement.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A yearly slaughtering is described in which a common man holds a feast and
+    sends meat and sausages to neighbours.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says this yearly feast and distribution of flesh may be a survival
+    of common sacrifice.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In Serbia, at the solemn burning of the badnyak, a whole swine is roasted,
+    often with a sucking pig.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The burning of the Serbian badnyak is described as exactly like the yule-log.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dietmar
+  description: Cited as a source associated with claims about dogs, hawks, and cocks
+    as sacrificial beasts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: common man
+  description: A person described as holding a yearly slaughter-feast and sending
+    meat and sausages to neighbours.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: neighbours
+  description: Recipients of meat and sausages sent after the yearly slaughtering.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: cited authority for sacrificial animals
+  assigned_to:
+  - fig:1
+  basis: Dietmar is named in connection with dogs, hawks, and cocks as alleged sacrificial
+    beasts.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: feast-giver and distributor of meat
+  assigned_to:
+  - fig:2
+  basis: The common man is described as getting up a feast and sending meat and sausages
+    to neighbours.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipients of distributed meat
+  assigned_to:
+  - fig:3
+  basis: Neighbours receive meat and sausages after the yearly slaughtering.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sacrificial birds
+  literal_form: cocks, fowls, geese, pigeons, and dove
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: distributed slaughter-meat
+  literal_form: meat and sausages sent to neighbours
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: badnyak burning / yule-log fire
+  literal_form: solemn burning of the badnyak, compared with the yule-log
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: roasted swine
+  literal_form: a whole swine, often with a sucking pig
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Discussion of possible sacrificial poultry
+  summary: The passage evaluates claims about animals used in sacrifice, treating
+    cocks as more dependable than dogs and hawks and questioning the status of other
+    domestic poultry.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Yearly slaughter-feast and distribution
+  summary: A yearly household slaughter is followed by a feast and the sending of
+    meat and sausages to neighbours, which the author presents as a possible survival
+    of common sacrifice and distribution of flesh.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Badnyak burning and swine roasting
+  summary: In Serbia, the badnyak is solemnly burned in a rite compared with the yule-log,
+    while a whole swine and sometimes a sucking pig are roasted.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal sacrifice and sacrificial beasts
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly discusses sacrificial beasts and evaluates which animals
+    can be relied on as evidence for sacrifice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage itself emphasizes uncertainty for several animals.
+- id: motif:2
+  label: communal sacrificial feast with distribution of flesh
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage connects a yearly slaughter-feast and the sending of meat to
+    neighbours with a possible survival of common sacrifice and distribution of flesh.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The survival from common sacrifice is presented as possible, not certain.
+- id: motif:3
+  label: ritual fire with roasted swine
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes the solemn burning of the badnyak and the roasting
+    of a whole swine, often with a sucking pig.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly call the Serbian roasting a sacrifice
+    in the quoted lines, though it appears in a discussion of sacrifice.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Serbian badnyak burning with the yule-log,
+    saying the former is exactly like the latter.
+  claim_level: same_function
+  target: Serbian badnyak burning and the yule-log
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage gives the comparison but does not provide detailed
+    ritual features beyond burning and associated roasting.
+- id: claim:2
+  claim: The passage cautiously treats the yearly slaughter-feast and meat distribution
+    as a possible survival of common sacrifice and distribution of flesh.
+  claim_level: same_motif
+  target: common sacrifice and distribution of flesh
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The author uses tentative language; the passage does not prove continuity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2723-2725
+  quote_or_summary: The author says other sacrificial beasts are uncertain and that
+    among Dietmar's dogs, hawks, and cocks, hardly any but cocks are dependable.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 2725-2727
+  quote_or_summary: The passage asks about domestic poultry, naming fowls, geese,
+    and pigeons, and begins a statement that the dove was Jewish and Christian.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 2728-2731
+  quote_or_summary: The text mentions reference to heathen sacrifices, an Old English
+    name for November, and a yearly slaughtering feast in which meat and sausages
+    are sent to neighbours, possibly preserving common sacrifice and distribution
+    of flesh.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 2732-2734
+  quote_or_summary: In Serbia, at the solemn burning of the badnyak, described as
+    exactly like the yule-log, a whole swine is roasted and often a sucking pig too.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear for the discussion of sacrifice, meat distribution,
+    and the badnyak/yule-log comparison, but some wording is fragmentary and the author
+    marks several identifications as uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external information was used; taxonomy references are limited to those supplied in the request.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l2723-l2734
+  passage_sha256=2a927989735ac10a20cc0faa3470d92335c7dbba4b8489dc36124fdec009bca1
+

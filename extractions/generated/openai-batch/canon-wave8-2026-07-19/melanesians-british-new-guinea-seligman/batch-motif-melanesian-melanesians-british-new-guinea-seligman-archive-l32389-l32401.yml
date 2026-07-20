@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l32389-l32401
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: HOMICIDE. / SUICIDE. / THEFT. / COMMERCIAL MORALITY.; lines 32389-32401
+  start: '32389'
+  end: '32401'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes commercial morality in the south-eastern district:
+    credit is commonly given, payments may be made in instalments, formal partnerships
+    are not described as existing, a canoe buyer may borrow from neighbours yet be
+    regarded as sole owner, and a deceased man''s sisters'' children have equal rights
+    in his canoe.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the south-eastern district has a strong sense of commercial
+    morality connected with extensive trading operations.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Credit is freely given, and payments are often made by instalments.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Formal partnerships are said not to exist in the described context.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A man buying a canoe may borrow from neighbours to pay for it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Even if repayment is delayed, the borrowing canoe buyer is regarded as the
+    canoe's owner rather than a part owner.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When a man dies, his sisters' children have an equal right in his canoe.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says this inheritance arrangement creates something resembling
+    partnership.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: canoe buyer
+  description: A man who buys a canoe by borrowing from neighbours.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: neighbours
+  description: People from whom the canoe buyer borrows in order to pay for the canoe.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: deceased man
+  description: A man whose canoe is subject to rights held by his sisters' children
+    after his death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: sisters' children
+  description: Children of the deceased man's sisters who have equal rights in his
+    canoe.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: borrower-purchaser
+  assigned_to:
+  - fig:1
+  basis: The man buying a canoe borrows from neighbours to pay for it.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: recognized owner
+  assigned_to:
+  - fig:1
+  basis: The passage states he is regarded as the owner of the canoe, not as a part
+    owner.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: lenders
+  assigned_to:
+  - fig:2
+  basis: The neighbours provide borrowed resources for the canoe purchase.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: former canoe holder
+  assigned_to:
+  - fig:3
+  basis: After the man's death, rights in his canoe are discussed.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: equal-right heirs
+  assigned_to:
+  - fig:4
+  basis: The sisters' children have an equal right in the deceased man's canoe.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: credit
+  literal_form: credit and instalment payment
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Credit and canoe purchase
+  summary: In a district described as having strong commercial morality, credit and
+    instalment payment are common; a man may borrow from neighbours to buy a canoe
+    and still be recognized as its owner.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Posthumous rights in the canoe
+  summary: After a man's death, his sisters' children have equal rights in his canoe,
+    an arrangement described as resembling partnership.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deferred exchange obligation
+  taxonomy_refs: []
+  basis: The passage describes freely given credit and payments by instalments as
+    part of commercial morality.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic social pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: individual ownership despite communal financing
+  taxonomy_refs: []
+  basis: A canoe buyer may borrow from neighbours, but delayed repayment does not
+    make them part owners; he is regarded as the owner.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents this as a property norm, not as a symbolic or sacred
+    motif.
+- id: motif:3
+  label: matrilateral heirs share rights in canoe
+  taxonomy_refs: []
+  basis: The deceased man's sisters' children have equal rights in his canoe, creating
+    something resembling partnership.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage describes an inheritance practice; no mythic or ritual interpretation
+    is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32389-32392
+  quote_or_summary: The south-eastern district is described as having a strong sense
+    of commercial morality, linked to extensive trading operations.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 32392-32393
+  quote_or_summary: '"Credit is freely given, and payments are often by Instalments."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 32393-32395
+  quote_or_summary: Formal partnerships entered into as such are said not to exist.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 32395-32399
+  quote_or_summary: A man buying a canoe borrows from neighbours; even if repayment
+    is delayed, he is regarded as owner, not part owner.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 32399-32401
+  quote_or_summary: When a man dies, his sisters' children have equal rights in his
+    canoe, producing something resembling partnership.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for ethnographic observations about exchange, ownership,
+    and inheritance. Motif candidates are treated cautiously because the passage is
+    not a mythic narrative and does not support broader comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy refs assigned; available sacred or mythic motif families were not directly supported by this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l32389-l32401
+  passage_sha256=190b7a1247268d3825563ac88add0f62060d422cb61432f289768447b614a5a2
+

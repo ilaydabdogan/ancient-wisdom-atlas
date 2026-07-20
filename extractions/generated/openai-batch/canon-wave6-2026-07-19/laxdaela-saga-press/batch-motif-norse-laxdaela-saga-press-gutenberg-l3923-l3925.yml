@@ -1,0 +1,116 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l3923-l3925
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. XLIII / CHAP. XLIV / CHAP. XLV / CHAP. XLVI; lines 3923-3925
+  start: '3923'
+  end: '3925'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    CHAP. XLVI
+
+    Feast at Herdholt and the Loss of Kjartan's Sword, A.D. 1002
+  summary: A chapter heading identifies Chapter XLVI as concerning a feast at Herdholt
+    and the loss of Kjartan's sword, dated A.D. 1002.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a chapter heading for Chapter XLVI.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heading names a feast at Herdholt.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The heading names the loss of Kjartan's sword.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The heading gives the date A.D. 1002.
+  category: sequence
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Kjartan
+  description: A named person associated possessively with a sword in the chapter
+    heading.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: named possessor of sword
+  assigned_to:
+  - fig:1
+  basis: The heading refers to “Kjartan's Sword.”
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Kjartan's sword
+  literal_form: sword
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Feast at Herdholt and loss of sword
+  summary: The heading indicates a chapter episode involving a feast at Herdholt and
+    the loss of Kjartan's sword.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: loss of a named person's sword
+  taxonomy_refs: []
+  basis: The chapter heading explicitly names the loss of Kjartan's sword.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is only a heading; it does not provide narrative details about
+    how or why the sword is lost.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3923-3925
+  quote_or_summary: |-
+    CHAP. XLVI
+
+    Feast at Herdholt and the Loss of Kjartan's Sword, A.D. 1002
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and consists only of a chapter heading, so extraction
+    is limited to named elements in the heading.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references or comparison claims were added because the heading alone does not support them.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l3923-l3925
+  passage_sha256=74232c8b8fed327a03c0c8b1b415b58991e3be64da103228e152bb5e6ba93f0e
+

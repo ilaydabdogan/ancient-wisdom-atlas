@@ -1,0 +1,124 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l910-l912
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. XI / CHAP. XII / CHAP. XIII / CHAP. XIV; lines 910-912
+  start: '910'
+  end: '912'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    CHAP. XIV
+
+    The Murder of Hall, Ingjald's Brother
+  summary: The passage is a chapter heading announcing the murder of Hall and identifying
+    him as Ingjald's brother.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as Chapter XIV.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chapter heading states that Hall is murdered.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hall is identified by a kinship relation to Ingjald, as Ingjald's brother.
+  category: relationship
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Hall
+  description: Named in the heading as the person whose murder is announced; identified
+    as Ingjald's brother.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ingjald
+  description: Named only through the relationship phrase identifying Hall as Ingjald's
+    brother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: murdered person
+  assigned_to:
+  - fig:1
+  basis: The heading is titled "The Murder of Hall."
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: brother
+  assigned_to:
+  - fig:1
+  basis: Hall is called Ingjald's brother.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: kinsman named for identification
+  assigned_to:
+  - fig:2
+  basis: Ingjald is named only as the person to whom Hall is related as brother.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Chapter heading announcing Hall's murder
+  summary: A chapter title introduces a narrative unit concerning the murder of Hall
+    and identifies Hall by his relationship to Ingjald.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: murder of a named kinsman
+  taxonomy_refs: []
+  basis: The heading centers on the murder of Hall and marks him through a sibling
+    relationship to Ingjald.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is only a chapter heading; it gives no narrative details,
+    cause, perpetrator, ritual framing, or mythic symbolism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 910-912
+  quote_or_summary: CHAP. XIV / The Murder of Hall, Ingjald's Brother
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The named figures and relationship are explicit in the heading. Motif identification
+    is limited because the passage contains no narrative beyond the title.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols or comparison claims were extracted because the provided passage contains only a chapter title.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l910-l912
+  passage_sha256=57789c3db8bbd7749c2f329801cbc4682da01653c0b8ad01664514facde77cd1
+

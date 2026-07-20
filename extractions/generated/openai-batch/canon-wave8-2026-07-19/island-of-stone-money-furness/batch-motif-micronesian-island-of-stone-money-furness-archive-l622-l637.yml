@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l622-l637
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: A XATIVK-JI ADK PATH / NATIVE HOUSES / NATIVE HOUSES / NATIVE HOUSES; lines
+    622-637
+  start: '622'
+  end: '637'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes children around native houses as generally not roughly
+    handled; once old enough, they are expected to make their own way. Boys at an
+    early age live in the pahai or failu, described as the man's house, sharing elders'
+    cooked food or subsisting on raw coconuts while chewing betel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Children are described as commonly present around the houses and in excitements.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says he did not see children roughly handled or harshly treated.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When children are old enough, they are expected to win their own way.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Boys at a very early age make the pahai or failu, identified as the man's
+    house, their home by night and day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Boys in the man's house share cooked food with elders or live on raw coconuts
+    and chew betel.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: children
+  description: Children around the houses, said not to be roughly handled or harshly
+    treated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: boys
+  description: Boys who, at a very early age, live in the pahai or failu, the man's
+    house.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: elders
+  description: Elders whose cooked food is shared by the boys living in the man's
+    house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: children present around houses
+  assigned_to:
+  - fig:1
+  basis: The passage says children are always about the houses and present in excitements.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: early residents of the man's house
+  assigned_to:
+  - fig:2
+  basis: The passage says boys at a very early age make the pahai or failu their home
+    by night and day.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: elders sharing food
+  assigned_to:
+  - fig:3
+  basis: The passage says boys share the cooked food of their elders.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: man's house
+  literal_form: pahai or failu, described as the man's house
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: raw coconuts
+  literal_form: raw coconuts eaten by boys living in the man's house
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: betel chewing
+  literal_form: chewing betel incessantly
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: children around native houses
+  summary: Children are present around the houses and in excitements, and the narrator
+    says he did not see them treated roughly or harshly.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: boys living in the man's house
+  summary: After reaching sufficient age, boys are expected to make their own way
+    and at a very early age live in the pahai or failu, sharing elders' food or living
+    on coconuts while chewing betel.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: early male transition to communal men's house
+  taxonomy_refs:
+  - initiation
+  basis: The passage describes boys leaving ordinary child dependence at an early
+    age to live day and night in the pahai or failu, the man's house, where they share
+    elders' food or support themselves with coconuts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives an ethnographic social description rather than a mythic
+    narrative or explicit ritual initiation.
+- id: motif:2
+  label: child self-reliance after early childhood
+  taxonomy_refs: []
+  basis: The passage states that as soon as children are old enough they must win
+    their own way.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a social pattern in the narrator's description; no mythic episode
+    or sacred explanation is provided.
+comparison_claims:
+- id: claim:1
+  claim: The narrator explicitly frames the described child-rearing and early self-reliance
+    as resembling a 'Spartan ideal.'
+  claim_level: same_function
+  target: Spartan ideal
+  evidence_refs:
+  - ev:5
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is the narrator's analogy only; the passage does not
+    provide historical contact, common inheritance, or detailed Spartan evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 628-632
+  quote_or_summary: Children are said to be always around the houses and excitements,
+    and the narrator says he never saw them roughly handled or harshly treated.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: quote
+  locator: lines 632-633
+  quote_or_summary: '"As soon as they are old enough they must win their own way"'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 633-635
+  quote_or_summary: '"if boys, at a very early age, they make the pahai or failu —
+    the man''s house — their home by night and day"'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 635-637
+  quote_or_summary: Boys in the man's house share elders' cooked food, live on raw
+    coconuts, and chew betel.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: quote
+  locator: lines 626-628
+  quote_or_summary: '"the realization is to be found of the Spartan ideal"'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is descriptive ethnography rather than a myth narrative. Motif
+    candidates are limited to social-pattern extraction directly supported by the
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l622-l637
+  passage_sha256=c8b994fca33377ceb3d45d42326d311a8a126eefd0f4b92be7689c43392597b2
+

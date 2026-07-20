@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l26760-l26967
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 26760-26967
+  start: '26760'
+  end: '26967'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index page listing Egyptian religious terms, places, titles, animals,
+    authors, and mythic figures. Notable entries include hidden entities and symbols,
+    priestly titles, the Hippopotamus of Set, the Horse and Ox fable, Horus, Horus
+    and Set in fight references, and Horus as advocate in the Judgment.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index page made up of alphabetized entries and page references
+    rather than a continuous narrative.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries use hiddenness labels, including Hidden-Face, Hidden-House,
+    Hidden-Name, Hidden One, Hidden-Souls, and Hidden symbols.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index lists priestly or religious-title entries, including High priest
+    of Memphis, High priest of Thebes, and Holy fathers.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index includes entries for Hippopotamus of Set and for the Hippopotamus.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index names a work or tale called the Fable of the Horse and Ox.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index lists Horus and Set together and refers to fight(s), a double-head,
+    and holding the ladder.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index lists Horus as Advocate in the Judgment.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index includes an entry called Horn of the West.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The index identifies Het-Hert parenthetically as Hathor.
+  category: relationship
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Het-Hert / Hathor
+  description: An indexed figure or name identified parenthetically as Hathor.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:2
+  name_or_label: Horus
+  description: An indexed figure listed alone, with Set in fight-related entries,
+    and as Advocate in the Judgment.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Set
+  description: An indexed figure named with Horus in fight-related entries and associated
+    with the Hippopotamus of Set entry.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Hippopotamus of Set
+  description: An indexed animal or being explicitly labeled as belonging to or associated
+    with Set.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: parenthetically identified indexed figure
+  assigned_to:
+  - fig:1
+  basis: The entry gives Het-Hert followed by the parenthetical identification Hathor.
+  evidence_refs:
+  - ev:9
+- id: role:2
+  label: participant in indexed Horus-Set conflict
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Horus and Set entry includes references to fight(s) between them.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: advocate in the Judgment
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly lists Horus as Advocate in the Judgment.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: figure associated with the Hippopotamus of Set
+  assigned_to:
+  - fig:3
+  basis: The animal entry is named Hippopotamus of Set.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Set-associated animal or being
+  assigned_to:
+  - fig:4
+  basis: The index phrase Hippopotamus of Set makes the animal or being the object
+    of association with Set.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: hiddenness labels
+  literal_form: Hidden-Face; Hidden-House; Hidden-Name; Hidden One; Hidden-Souls;
+    Hidden symbols
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hippopotamus of Set
+  literal_form: Hippopotamus of Set; Hippopotamus
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: ladder
+  literal_form: the ladder
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: double-head
+  literal_form: double-head
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: horn of the west
+  literal_form: Horn of the West
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: indexed Horus-Set conflict references
+  summary: The index entry for Horus and Set points to fight-related material and
+    also mentions a double-head and a ladder.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:2
+  label: indexed judgment advocacy reference
+  summary: The index identifies Horus in the role of advocate in the Judgment.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: conflict of Horus and Set
+  taxonomy_refs:
+  - duality
+  basis: The index entry names Horus and Set together and refers to fight(s) between
+    them; the same entry also includes a double-head reference.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage is an index entry, not the narrative itself; the duality classification
+    is based only on paired conflict and double-head wording in the entry.
+- id: motif:2
+  label: advocate in judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly lists Horus as Advocate in the Judgment.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The index supplies only a heading and page reference, without describing
+    the judgment scene.
+- id: motif:3
+  label: ladder held by Horus and Set
+  taxonomy_refs: []
+  basis: The Horus and Set entry includes the phrase that they hold the ladder.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: No ascent, descent, or ritual function is described in this index passage.
+- id: motif:4
+  label: hidden or concealed sacred labels
+  taxonomy_refs: []
+  basis: The index clusters multiple hiddenness terms, including hidden face, hidden
+    house, hidden name, hidden souls, and hidden symbols.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage lists terms only; it does not explain the mythic function
+    of concealment.
+- id: motif:5
+  label: animal associated with Set
+  taxonomy_refs: []
+  basis: The entry Hippopotamus of Set links the hippopotamus with Set.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not narrate an episode involving the animal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26760-26967
+  quote_or_summary: Index page with alphabetized entries from Het through Horus, consisting
+    chiefly of names and page references.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 26760-26967, hiddenness entries
+  quote_or_summary: "“Hidden-Face”; “Hidden-House”; “Hidden-Name”; “Hidden One”; “Hidden-Souls”;
+    “Hidden symbols”."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 26760-26967, priestly-title entries
+  quote_or_summary: The index lists High priest of Memphis, High priest of Thebes,
+    and Holy fathers.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 26760-26967, hippopotamus entries
+  quote_or_summary: "“Hippopotamus of Set”; “Hippopotamus, the”."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 26760-26967, fable entry
+  quote_or_summary: "“Horse and Ox, Fable of”."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 26760-26967, Horus and Set entry
+  quote_or_summary: The Horus and Set index entry includes page references for Horus
+    and Set, a double-head, fight(s) between them, holding the ladder, and their fight.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 26760-26967, Horus as Advocate entry
+  quote_or_summary: "“Horus as Advocate in the Judgment”."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:8
+  type: quote
+  locator: lines 26760-26967, Horn of the West entry
+  quote_or_summary: "“Horn of the West”."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:9
+  type: quote
+  locator: lines 26760-26967, Het-Hert entry
+  quote_or_summary: "“Het-Hert (Hathor)”."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The extraction is constrained by the passage’s index format. Literal entries
+    are clear, but motif identification is limited because no narrative context is
+    provided. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Index-only passage; candidate motifs should be checked against the referenced pages before use as narrative evidence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l26760-l26967
+  passage_sha256=a50b1cd2b947ac5750c78edf2da83cf2907b92ff4a99d247676e0119c0cb4790
+

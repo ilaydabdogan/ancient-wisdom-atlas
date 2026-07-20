@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l951-l974
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: DIONYSUS. / PENTHEUS. / DIONYSUS. / PENTHEUS.; lines 951-974
+  start: '951'
+  end: '974'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Wise words being brought / To blinded eyes will seem as things of nought.
+  summary: Pentheus accuses Dionysus of evasive joking. Dionysus replies that wise
+    words seem worthless to blinded eyes. Pentheus asks whether Dionysus has come
+    first to Thebes to establish his god. Dionysus answers that all Barbary has already
+    performed the god's dance, and Pentheus disparages Barbary in comparison with
+    Hellenes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Pentheus says Dionysus has turned the answer deftly again and has given an
+    idle jest rather than an answer.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus states that wise words brought to blinded eyes will seem worthless.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pentheus asks whether Dionysus has come first to Thebes to have his god established
+    there.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dionysus denies that Thebes is first and says that all Barbary has already
+    trodden the god's dance.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Pentheus characterizes Barbary as a low and blind people in contrast with
+    Hellenes.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: Named speaker who challenges Dionysus, asks about Thebes and the god's
+    establishment, and disparages Barbary compared with Hellenes.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Dionysus
+  description: Named speaker who responds to Pentheus, uses the image of blinded eyes,
+    and says that all Barbary has already trodden the god's dance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Barbary
+  description: Collective group or region described by Dionysus as having already
+    trodden the god's dance and by Pentheus as low and blind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Hellenes
+  description: Collective group named by Pentheus as the contrast to Barbary.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Questioning opponent
+  assigned_to:
+  - fig:1
+  basis: Pentheus accuses Dionysus of evasive joking and asks whether he has come
+    to Thebes to establish his god.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Responding speaker asserting prior worship
+  assigned_to:
+  - fig:2
+  basis: Dionysus answers Pentheus and says Barbary has already trodden the god's
+    dance.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: Speaker of ethnic disparagement
+  assigned_to:
+  - fig:1
+  basis: Pentheus calls Barbary a low blind folk beside Hellenes.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Prior participants in the god's dance
+  assigned_to:
+  - fig:3
+  basis: Dionysus says all Barbary has already trodden the god's dance.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Contrasting Hellenic group
+  assigned_to:
+  - fig:4
+  basis: Pentheus uses Hellenes as the group against which Barbary is compared.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Blinded eyes
+  literal_form: blinded eyes; blind folk
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: God's dance
+  literal_form: His dance
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Thebes
+  literal_form: Thebes
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Challenge over establishing the god at Thebes
+  summary: Pentheus challenges Dionysus's answers and asks if he has come first to
+    Thebes to establish his god; Dionysus replies with an image of wise words rejected
+    by blinded eyes and asserts that Barbary has already practiced the god's dance;
+    Pentheus answers by disparaging Barbary in contrast with Hellenes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wisdom rejected by blindness
+  taxonomy_refs:
+  - wisdom
+  basis: Dionysus explicitly contrasts wise words with blinded eyes that regard them
+    as worthless; Pentheus later repeats blindness language against Barbary.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage contains a brief verbal image rather than an extended wisdom
+    narrative.
+- id: motif:2
+  label: Prior foreign practice of a god's dance before local establishment
+  taxonomy_refs: []
+  basis: Pentheus asks about establishing the god at Thebes, and Dionysus answers
+    that all Barbary has already trodden the god's dance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a cult-spread or foreign-precedent pattern, but it
+    does not describe rites, initiation, or divine epiphany in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 951-974, Pentheus opening speech
+  quote_or_summary: '"Aye, deftly turned again. An idle jape, / And nothing answered!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 951-974, Dionysus response on wisdom and blindness
+  quote_or_summary: '"Wise words being brought / To blinded eyes will seem as things
+    of nought."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 951-974, Pentheus question about Thebes
+  quote_or_summary: Pentheus asks whether Dionysus has come first to Thebes to have
+    his god established.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 951-974, Dionysus response on Barbary
+  quote_or_summary: '"Nay; all Barbary hath trod / His dance ere this."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 951-974, Pentheus reply on Barbary and Hellenes
+  quote_or_summary: '"A low blind folk, I ween, / Beside our Hellenes!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the dialogue. Motif candidates
+    are limited because the passage is brief and mostly argumentative; no external
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external comparisons were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l951-l974
+  passage_sha256=2a8fc3cc9be5d1006cb07f47875b068c7c6bc395d241b3628a7019b13cb678bf
+

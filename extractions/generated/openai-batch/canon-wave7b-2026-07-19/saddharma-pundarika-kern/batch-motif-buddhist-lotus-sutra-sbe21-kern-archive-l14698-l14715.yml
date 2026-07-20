@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.buddhist-lotus-sutra-sbe21-kern-archive-l14698-l14715
+source_text_path: texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md
+passage_locator:
+  label: XVI. OF PIETY. 321 / XVI. OF PIETY. 323 / XVI. OF PIETY. 325 / XVI. OF PIETY.
+    327; lines 14698-14715
+  start: '14698'
+  end: '14715'
+  translation: The Saddharma-Pundarika, or The Lotus of the True Law (Sacred Books
+    of the East, Vol. 21)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: where that son of Buddha has stayed, there I am.
+  summary: The passage instructs that a sage should reflect on going to the foot of
+    the tree for supreme blessed enlightenment for the benefit of the world. Wherever
+    such a sage recites even one stanza of the Sutra, a splendid Stupa dedicated to
+    the Buddha should be built and worshipped. The Buddha declares that such a place
+    is a place where he himself has walked and sat, and that he is present where the
+    son of Buddha has stayed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A sage is described as going toward the foot of the tree to arrive at superior,
+    blessed enlightenment for the welfare of the whole world, including the gods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sage or hero may be walking, standing, sitting, or lying down while pronouncing
+    even a single stanza from the Sutra.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage instructs that a Stupa should be built at the place where the
+    sage recites the Sutra.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Stupa is described as splendid and beautiful, dedicated to the Lord Buddha,
+    the Chief, and to be worshipped in manifold ways.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Buddha states that the spot has been enjoyed by himself and that he has
+    walked and sat there.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Buddha states that where the son of Buddha has stayed, there he is.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: sage / hero
+  description: A sage or hero who may recite even a single stanza from the Sutra while
+    walking, standing, sitting, or lying down.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Lord Buddha, the Chief
+  description: The Buddha to whom the Stupa is dedicated; he declares his presence
+    at the place where the son of Buddha has stayed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: son of Buddha
+  description: The one whose place of stay is identified by the Buddha as a place
+    where he is present.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: gods
+  description: The gods are included among those for whose welfare enlightenment is
+    sought.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: seeker of enlightenment
+  assigned_to:
+  - fig:1
+  basis: The sage goes toward the foot of the tree to arrive at superior, blessed
+    enlightenment.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reciter of the Sutra
+  assigned_to:
+  - fig:1
+  basis: The hero pronounces even a single stanza from the Sutra.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: object of dedication and declared presence
+  assigned_to:
+  - fig:2
+  basis: The Stupa is dedicated to the Buddha, and the Buddha says that where the
+    son of Buddha stayed, there he is.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: place-sanctifying disciple
+  assigned_to:
+  - fig:3
+  basis: The Buddha identifies the place where the son of Buddha has stayed as a place
+    of his own presence.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: beneficiaries of enlightenment
+  assigned_to:
+  - fig:4
+  basis: The enlightenment is sought for the welfare of the world, including the gods.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: the foot of the tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Stupa
+  literal_form: a splendid, beautiful Stupa dedicated to the Lord Buddha
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: spot of the earth
+  literal_form: the place where the sage recites or stays
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Sutra stanza
+  literal_form: a single stanza from this Sutra
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Approach to enlightenment beneath the tree
+  summary: A sage reflects that he is going to the foot of the tree to attain superior,
+    blessed enlightenment for the welfare of all the world, including the gods.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Recitation and shrine-building at the sage's location
+  summary: Wherever the sage or hero recites even a single stanza from the Sutra,
+    a splendid Stupa dedicated to the Buddha is to be built and worshipped.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Buddha's presence at the disciple's place
+  summary: The Buddha declares that the spot has been enjoyed by him, that he has
+    walked and sat there, and that he is present where the son of Buddha has stayed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: enlightenment at the foot of a tree
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links the foot of the tree with arriving at superior, blessed
+    enlightenment for the welfare of the world.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage names the tree and enlightenment but gives little narrative
+    detail about the attainment itself.
+- id: motif:2
+  label: sacred place established by scripture recitation
+  taxonomy_refs: []
+  basis: The passage directs that a Stupa be built wherever the sage recites even
+    one stanza from the Sutra.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level ritual instruction rather than a fully developed
+    narrative motif.
+- id: motif:3
+  label: divine or Buddha presence at a disciple's location
+  taxonomy_refs: []
+  basis: The Buddha states that the spot where the son of Buddha stayed is also where
+    he himself is present.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not elaborate the mechanism of this presence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14698-14702
+  quote_or_summary: A sage reflects that he goes toward the foot of the tree to arrive
+    at superior, blessed enlightenment for the welfare of all the world, including
+    the gods.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 14703-14707
+  quote_or_summary: Wherever the sage is walking, standing, sitting, or lying down,
+    the hero may pronounce even a single stanza from the Sutra.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 14708-14711
+  quote_or_summary: At that place one should build a splendid, beautiful Stupa dedicated
+    to the Lord Buddha and worship it in many ways.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 14712-14715
+  quote_or_summary: '"where that son of Buddha has stayed, there I am."'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The figures, objects, and actions are explicit in the passage. Motif labels
+    are cautious because the excerpt is brief and primarily instructional. No comparison
+    claims were made because the passage itself does not explicitly support cross-textual
+    or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and applied only where directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-lotus-sutra-sbe21-kern-archive__l14698-l14715
+  passage_sha256=3e784e6326a570c933282818396b7e2e753ecc976e22629f87d35d99ad65add7
+

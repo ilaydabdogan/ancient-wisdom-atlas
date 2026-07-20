@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.micronesian-caroline-islands-christian-archive-l1644-l1746
+source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+passage_locator:
+  label: CHAPTER I / SYDNEY TO HONG KONG / CHAPTER II / HONG KONG TO MANILLA; lines
+    1644-1746
+  start: '1644'
+  end: '1746'
+  translation: 'The Caroline Islands: Travel in the Sea of the Little Lands'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator describes Hong Kong/Victoria, travels by sea through Shanghai,
+    Kobe, Amoy, and Manila toward the Carolines, visits Buddhist and Shinto sacred
+    sites in Kyoto, notes Inari-Sama, Ama-Inu, Koma-Inu, temple bells, official travel
+    credentials, rough seas, Manila Bay, the Pasig River, Binondo, and local vessels.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Victoria/Hong Kong is described with lower, middle, and upper districts, a
+    Peak Railway ascending steep hills, plantations, harbor shipping, Kowloon across
+    the water, and hills of China in the background.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator leaves Hong Kong by the Menmuir for Shanghai and Kobe before
+    continuing toward Manila and the Carolines.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At Kyoto, the narrator visits the halls, cloisters, and gardens of Nishi-Hongwanji
+    and a sister Buddhist shrine, and observes carvings attributed to Hidoro Jingoro.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator sees the Shinto sanctuary of Inari-Sama, described as the Fox-god,
+    together with guardian sentinels named Ama-Inu and Koma-Inu.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Temple bells are heard ringing in the stillness of midnight.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In Hong Kong, the narrator obtains credentials from the Governor to the Spanish
+    Governor-General of the Philippines, requesting assistance for travel in the Carolines.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The narrator sails for Manila via Amoy on the Esmeralda through rough weather
+    and sees the lights of Manila through the gloom on the fifth night out.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Near Manila, the narrator describes anchoring outside the mouth of the shallow
+    Pasig River, with Binondo, wharves, trading vessels, and native craft called Banka
+    in view.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: First-person narrator/traveler
+  description: The narrator who travels from Hong Kong through other ports toward
+    Manila and the Carolines and records sights encountered along the route.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Inari-Sama
+  description: A Shinto figure named in the passage as the Fox-god, associated with
+    a sanctuary seen by the narrator.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ama-Inu
+  description: One of the named guardian sentinels at the Shinto sanctuary of Inari-Sama.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Koma-Inu
+  description: One of the named guardian sentinels at the Shinto sanctuary of Inari-Sama.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Hidoro Jingoro
+  description: A left-handed artist whose carvings the narrator says he saw at Kyoto
+    temples.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: traveling observer
+  assigned_to:
+  - fig:1
+  basis: The first-person narrator repeatedly describes departing, visiting sites,
+    obtaining credentials, and sailing onward.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:2
+  label: shrine deity
+  assigned_to:
+  - fig:2
+  basis: Inari-Sama is explicitly described as the Fox-god at a Shinto sanctuary.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: guardian sentinel
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Ama-Inu and Koma-Inu are explicitly called guardian sentinels.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: temple-associated artist
+  assigned_to:
+  - fig:5
+  basis: The narrator attributes temple carvings to Hidoro Jingoro.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Fox-god
+  literal_form: Inari-Sama named as the Fox-god
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: guardian animal pair
+  literal_form: Ama-Inu and Koma-Inu as paired guardian sentinels at a Shinto sanctuary
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: temple bells at midnight
+  literal_form: solemn chimes of temple bells ringing at midnight
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: water route
+  literal_form: harbor, sea, bay, river, and inter-island waterways used or observed
+    during the journey
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: sea vessels
+  literal_form: Menmuir, Esmeralda, trading steamers, sailing vessels, and Banka/native
+    craft
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+- id: sym:6
+  label: Buddhist and Shinto sacred sites
+  literal_form: Nishi-Hongwanji, a sister Buddhist shrine, and the Shinto sanctuary
+    of Inari-Sama
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hong Kong/Victoria viewed from ascent to the Upper Town
+  summary: The narrator describes Victoria’s districts, the Peak Railway climbing
+    to the Upper Town, afforested hillsides, shipping in the harbor, Kowloon, and
+    distant hills of China.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kyoto temple and shrine visit
+  summary: The narrator visits Buddhist temple spaces, observes carvings, sees the
+    Shinto sanctuary of Inari-Sama with Ama-Inu and Koma-Inu, and hears temple bells
+    at midnight.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Departure and credentials for the Carolines
+  summary: After returning to Hong Kong, the narrator obtains official credentials
+    requesting assistance for explorations in the Carolines.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Sea passage to Manila
+  summary: The narrator sails by steamer via Amoy through rough seas, approaches Manila
+    Bay at night, and later observes the Pasig River, Binondo, trading vessels, and
+    native craft.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: departure by sea toward a distant goal
+  taxonomy_refs:
+  - departure
+  basis: The narrator leaves Hong Kong for other ports and later sails for Manila,
+    repeatedly framing the Carolines as the farther goal of the journey.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: This is a literal travel itinerary, not a traditional mythic departure
+    narrative.
+- id: motif:2
+  label: sacred site with guardian sentinels
+  taxonomy_refs: []
+  basis: The Kyoto passage presents a Shinto sanctuary associated with Inari-Sama
+    and named guardian sentinels, Ama-Inu and Koma-Inu.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The available taxonomy has no specific guardian-sentinel motif; the passage
+    gives a travel observation rather than a mythic episode.
+- id: motif:3
+  label: ascent to a high vantage point
+  taxonomy_refs:
+  - ascent
+  basis: The Peak Railway ascends a steep incline to the Upper Town on high hills,
+    from which the narrator describes the harbor, Kowloon, and distant Chinese hills
+    below.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The ascent is an engineering and sightseeing description; no sacred or
+    mythic ascent is stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Ama-Inu and Koma-Inu to the British Lion and
+    Unicorn by calling them prototypes of that pair; this supports only a cautious
+    visual or typological comparison.
+  claim_level: visual_similarity
+  target: British Lion and Unicorn as compared by the narrator
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is the narrator’s statement and does not establish historical
+    contact, shared origin, or identical religious function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1644-1667
+  quote_or_summary: Victoria/Hong Kong is described with lower, middle, and upper
+    districts, the Peak Railway climbing steep hills, afforested slopes, harbor shipping,
+    Kowloon across the water, and hills of China beyond.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1668-1684
+  quote_or_summary: The narrator leaves by the Menmuir for Shanghai and Kobe before
+    setting out for Manila and the Carolines, and briefly describes visits to Shanghai
+    and Kobe.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1685-1693
+  quote_or_summary: At Kyoto, the narrator visits Nishi-Hongwanji and a sister Buddhist
+    shrine, including halls, cloisters, gardens, and carvings attributed to Hidoro
+    Jingoro.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 1693-1697
+  quote_or_summary: The narrator sees the Shinto sanctuary of Inari-Sama, “the Fox-god,”
+    and the guardian sentinels Ama-Inu and Koma-Inu, described as “prototypes of our
+    Lion and Unicorn,” and hears temple bells at midnight.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 1698-1704
+  quote_or_summary: The narrator converses with samurai, travels by ricksha, views
+    the Inland Sea, and observes coal-basket carriers at Moji and Shimonoseki.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1705-1720
+  quote_or_summary: Back in Hong Kong, the narrator meets London acquaintances and
+    receives credentials from Governor Sir William Robinson to the Spanish Governor-General
+    requesting assistance in the Eastern and Western Carolines.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1721-1736
+  quote_or_summary: The narrator sails for Manila via Amoy on the Esmeralda in dark,
+    rough weather, describes Amoy briefly, and sees Manila’s lights through the gloom
+    after a rough passage.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1737-1746
+  quote_or_summary: The narrator describes anchoring outside the shallow Pasig River,
+    with Binondo, wharves, trading steamers, sailing vessels, and Banka/native craft
+    in view; the passage ends mid-sentence while comparing craft terms/forms.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily a colonial-era travel narrative rather than a mythic
+    text. Sacred-site details and the narrator’s explicit comparison of guardian figures
+    are extractable, but mythic motif assignments should be reviewed cautiously.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The final sentence of the passage is truncated, so no expanded claim was made from it.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-caroline-islands-christian-archive__l1644-l1746
+  passage_sha256=a61f99a8e21e2fdf177d591a75a8fd1243a5d0551fe92f0506683a5c7a3c4c1b
+

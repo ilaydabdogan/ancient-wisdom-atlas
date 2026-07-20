@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l22766-l22801
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: WELLS / CH.  XVI  WELLS  459 / CHAPTER  XVII / FOLKLORE; lines 22766-22801
+  start: '22766'
+  end: '22801'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage introduces folklore in Uganda as serving explanatory and moral
+    purposes. It then begins the Legend of Kintu: Kintu comes to Uganda, finds no
+    food, brings one cow, and lives on what the animal supplies. Nambi comes to earth
+    with her brother, sees Kintu, falls in love, says she wishes to marry him, and
+    then returns with her brother to her people and father.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says folklore in Uganda was used to account for things beyond
+    understanding, including the origins of the people, their kings, and their gods.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says legends were altered into different versions, handed down
+    as true accounts, and treated as history about the origin of man and beast.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says stories and proverbs also taught that wickedness and cruelty
+    would meet their due reward.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Kintu first came to Uganda and found no food in the country.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Kintu brought one cow and had only the food supplied by that animal.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Nambi came to earth with her brother, saw Kintu, fell in love with him, and
+    said she wished to marry him.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Nambi had to return with her brother to her people and father.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kintu
+  description: Named figure who first came to Uganda, found no food there, brought
+    one cow, and lived on what the animal supplied.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Nambi
+  description: Woman who came to earth with her brother, saw Kintu, fell in love with
+    him, and wished to marry him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Nambi's brother
+  description: Brother who came with Nambi to earth and returned with her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Nambi's people and father
+  description: Kin group and father to whom Nambi had to return after meeting Kintu.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: first-comer to Uganda
+  assigned_to:
+  - fig:1
+  basis: Kintu is described as first coming to Uganda at the opening of the legend.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: person sustained by a cow
+  assigned_to:
+  - fig:1
+  basis: Kintu brought one cow and had only the food the animal supplied.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: woman seeking marriage with Kintu
+  assigned_to:
+  - fig:2
+  basis: Nambi fell in love with Kintu and told him she wished to marry him.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: accompanying brother
+  assigned_to:
+  - fig:3
+  basis: The brother accompanies Nambi to earth and returns with her.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: return destination kin
+  assigned_to:
+  - fig:4
+  basis: Nambi had to return to her people and father.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: one cow
+  literal_form: one cow brought by Kintu
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: foodless country
+  literal_form: Uganda described as having no food at all
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: earth
+  literal_form: the earth, where Nambi comes with her brother
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Functions of folklore
+  summary: The passage presents folklore as both explanation for origins and moral
+    instruction through stories and proverbs.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Kintu arrives in Uganda with a cow
+  summary: Kintu comes to Uganda, finds the country without food, and has one cow
+    as his source of food.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Nambi meets Kintu and returns
+  summary: Nambi comes to earth with her brother, sees Kintu, declares her wish to
+    marry him, and then returns with her brother to her people and father.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: folklore as origin explanation
+  taxonomy_refs: []
+  basis: The passage explicitly says folklore was used to explain things beyond understanding
+    and to account for origins of the people, kings, gods, man, and beast.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is introductory commentary on folklore rather than a single narrated
+    mythic episode.
+- id: motif:2
+  label: legend becoming accepted history
+  taxonomy_refs: []
+  basis: The passage says stories gained variants, were handed down as true accounts,
+    and passed from legend into history.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a transmission pattern described by the author, not a discrete
+    plot event.
+- id: motif:3
+  label: moral retribution in folk tale and proverb
+  taxonomy_refs: []
+  basis: The passage says stories and proverbs impressed the lesson that wickedness
+    and cruelty would meet their due reward.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No individual retribution tale is narrated within this excerpt.
+- id: motif:4
+  label: first-comer in a foodless land sustained by a single cow
+  taxonomy_refs: []
+  basis: Kintu first comes to Uganda, finds no food, and has one cow that supplies
+    his food.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt begins the Kintu legend but does not yet state Kintu's larger
+    origin or founding role.
+- id: motif:5
+  label: visitor to earth seeks marriage
+  taxonomy_refs: []
+  basis: Nambi comes to earth with her brother, sees Kintu, falls in love, and states
+    her wish to marry him.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not specify where Nambi's people live or whether the
+    marriage occurs in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22766-22775
+  quote_or_summary: Folklore is described as explaining things beyond understanding,
+    including the origins of the race, kings, and gods.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 22775-22784
+  quote_or_summary: Stories are said to have gained variants, been handed down as
+    true, passed into history, and been believed as accounts of the origin of man
+    and beast.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 22784-22792
+  quote_or_summary: A second function of folklore is described as teaching that wickedness
+    and cruelty will receive due reward through stories and proverbs.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 22794-22798
+  quote_or_summary: At the start of the Legend of Kintu, Kintu comes to Uganda, finds
+    no food, brings one cow, and lives on what the animal supplies.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 22798-22801
+  quote_or_summary: Nambi comes to earth with her brother, sees Kintu, falls in love,
+    says she wants to marry him, and then returns with her brother to her people and
+    father.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward. Motif candidates are limited because
+    the excerpt includes introductory commentary and only the beginning of the Kintu
+    legend. No explicit cross-text or cross-tradition comparison is made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied line range and source metadata; no external knowledge of the Kintu tradition was used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l22766-l22801
+  passage_sha256=2c8b05b01db5fae1b796e59abeabadd89123f393fdaaeab7d5c0b697ea633fd5
+

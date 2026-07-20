@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l5779-l5843
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: SOCIETY OF WARRIORS. / BTEVBN80N.) SONGS. 123 / A SONG OF THE SHU'WI OHAI'AN
+    (SNAKE SOCIETY) FOB HEALING / THE SICK.; lines 5779-5843
+  start: '5779'
+  end: '5843'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a Snake Society healing song. Its translated and explanatory
+    portions summon Snake Societies from multiple directions, then ho'-naaites of
+    those societies, animals of the cardinal points, and ho'naiites of animal societies
+    to come, be present, work, and assist in curing the sick.
+  language: English translation with Sia-language song text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is identified as a song of the Shu'wi Ohai'an, glossed as the
+    Snake Society, for healing the sick.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translation calls Snake Societies of the north, west, south, east, zenith,
+    and nadir to come and work with the singers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An explanatory note describes an appeal to the ho'-naaites of the snake societies
+    of the cardinal points to be present and work for curing the sick.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage describes an appeal to animals of the cardinal points to be present
+    at the healing ceremonial.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage describes an appeal to the ho'naiites of the animal societies
+    of the cardinal points to be present at the ceremonial.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The sequence moves from the Snake Society invocation, to ho'-naaites of snake
+    societies, to animals of the cardinal points, and then to ho'naiites of animal
+    societies.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Shu'wi Ohai'an / Snake Society
+  description: A collective named in the title and translation; Snake Societies are
+    invoked from north, west, south, east, zenith, and nadir.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: ho'-naaites of the snake societies
+  description: Beings or entities named in an appeal to the snake societies of the
+    cardinal points to be present and work for curing the sick.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: animals of the cardinal points
+  description: Animals of the cardinal points are appealed to be present at the healing
+    ceremonial.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: ho'naiites of the animal societies
+  description: Ho'naiites of the animal societies of the cardinal points are appealed
+    to be present at the ceremonial.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: the sick
+  description: Unnamed recipients of the healing song and curing work.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: invoked healing participants
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage repeatedly asks named societies, ho'-naaites, animals, and ho'naiites
+    to come, be present, work, or participate in the healing ceremonial.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: patients of healing
+  assigned_to:
+  - fig:5
+  basis: The song is for healing the sick, and the appeal to snake-society ho'-naaites
+    is for curing the sick.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: directional collectives
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The invoked societies and animals are described by directions, cardinal points,
+    or the six-direction set including zenith and nadir.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: snake or serpent society
+  literal_form: Snake Society / snake societies
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: directions and cardinal points
+  literal_form: north, west, south, east, zenith, nadir; cardinal points
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: directional animals
+  literal_form: animals of the cardinal points; animal societies
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Directional invocation of Snake Societies
+  summary: The song calls Snake Societies associated with north, west, south, east,
+    zenith, and nadir to come and work with the singers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Appeal to ho'-naaites of snake societies
+  summary: The passage explains that ho'-naaites of the snake societies of the cardinal
+    points are asked to be present and work for curing the sick.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Appeal to animals and animal-society ho'naiites
+  summary: Animals of the cardinal points and ho'naiites of the animal societies of
+    the cardinal points are appealed to be present at the healing ceremonial.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: serpent-associated healing invocation
+  taxonomy_refs:
+  - serpent
+  basis: The song is explicitly a Snake Society healing song, and snake societies
+    and their ho'-naaites are invoked to come, work, and help cure the sick.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not narrate an individual serpent being or serpent action;
+    the evidence is the ritual name and invocation of the Snake Society.
+- id: motif:2
+  label: directional summons of ritual helpers
+  taxonomy_refs: []
+  basis: The invocation is organized by north, west, south, east, zenith, nadir, and
+    cardinal points, with beings asked to come or be present for healing work.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the broader cosmology or symbolic meanings
+    of the directions.
+- id: motif:3
+  label: animal helpers at a healing ceremonial
+  taxonomy_refs: []
+  basis: Animals of the cardinal points and ho'naiites of animal societies are appealed
+    to be present at the healing ceremonial.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage names the animal groups collectively and does not identify
+    individual animals or actions beyond presence at the ceremony.
+comparison_claims:
+- id: claim:1
+  claim: At a broad motif-family level, the passage fits a serpent-associated ritual
+    healing pattern because the Snake Society and ho'-naaites of snake societies are
+    invoked to work for curing the sick.
+  claim_level: same_motif
+  target: serpent motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a ritual song, not a narrative myth; it provides no
+    individual serpent episode or explicit mythic explanation.
+- id: claim:2
+  claim: The repeated appeals to beings tied to directions function as a directional
+    summons of ritual helpers for healing.
+  claim_level: same_function
+  target: directional ritual invocation pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself names the directions and appeals but does not compare
+    them with other texts or traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5779-5843, title
+  quote_or_summary: The title identifies the passage as a song of the Shu'wi Ohai'an,
+    glossed as the Snake Society, for healing the sick.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage text supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 5779-5843, stanza 1 translation
+  quote_or_summary: The translation calls Snake Societies of north, west, south, east,
+    zenith, and nadir to come and work with the singers.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage text supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 5779-5843, explanatory note after stanza 2
+  quote_or_summary: The note describes an appeal to the ho'-naaites of the snake societies
+    of the cardinal points to be present and work for curing the sick.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage text supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 5779-5843, explanatory note after stanza 3
+  quote_or_summary: The note describes an appeal to animals of the cardinal points
+    to be present at the ceremonial of healing.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage text supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 5779-5843, explanatory note after stanza 4
+  quote_or_summary: The note describes an appeal to the ho'naiites of the animal societies
+    of the cardinal points to be present at the ceremonial.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; passage text supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage gives explicit translations and explanatory notes, but several
+    native terms are not defined in the supplied excerpt and the text contains OCR
+    noise. Motif interpretation is therefore limited to the visible ritual pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external definitions of Sia terms were applied.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l5779-l5843
+  passage_sha256=b42059930b33733e4fb88896fc8ffe45ec959b8c01477efb97ece14b81454ce7
+

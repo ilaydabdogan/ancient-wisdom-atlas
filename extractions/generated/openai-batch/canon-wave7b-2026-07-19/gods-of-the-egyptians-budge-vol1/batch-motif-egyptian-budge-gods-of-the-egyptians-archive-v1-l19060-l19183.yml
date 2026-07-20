@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l19060-l19183
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: AWAAA / III I / DESTRUCTION OF MANKIND / W III; lines 19060-19183
+  start: '19060'
+  end: '19183'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In an interlinear passage headed “Destruction of Mankind,” a divine figure
+    commands that agents go to Elephantine and bring many mandrakes. The mandrakes
+    are brought to the god, given to Sektet in Heliopolis to be crushed, and then
+    placed while women are preparing beer from barley.
+  language: English with Egyptian transliteration/interlinear material
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Messengers or agents are mentioned shortly before the divine command.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The majesty of this god commands that they go to Elephantine and bring mandrakes
+    in great number.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The mandrakes are brought to the divine figure.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The divine figure gives the mandrakes to Sektet, who is located in Heliopolis,
+    for crushing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Women bruise barley for beer and place the mandrakes.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: majesty of this god
+  description: An unnamed divine figure who speaks the command, receives the mandrakes,
+    and gives them to Sektet.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: messengers or agents
+  description: Persons mentioned as messengers or agents before the command and implied
+    as those sent to bring mandrakes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Sektet in Heliopolis
+  description: A named figure identified as being in Heliopolis and receiving mandrakes
+    to crush.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: women preparing beer
+  description: Women who bruise barley for beer and place the mandrakes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine commander and distributor
+  assigned_to:
+  - fig:1
+  basis: The passage says the majesty of this god commands the gathering of mandrakes
+    and later gives them to Sektet.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: mandrake-fetching agents
+  assigned_to:
+  - fig:2
+  basis: Messengers are mentioned, and the command instructs agents to go to Elephantine
+    and bring mandrakes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: mandrake crusher
+  assigned_to:
+  - fig:3
+  basis: Sektet in Heliopolis is given mandrakes to crush.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: beer preparers
+  assigned_to:
+  - fig:4
+  basis: The women are described as bruising barley for beer and placing mandrakes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mandrakes
+  literal_form: Mandrakes brought in great number from Elephantine, given to Sektet
+    for crushing, and placed during beer preparation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: beer and barley
+  literal_form: Barley bruised for beer by women; mandrakes are placed in connection
+    with this preparation.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Elephantine
+  literal_form: Place named as the destination from which mandrakes are to be brought.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Heliopolis
+  literal_form: Place where Sektet is identified as being when given the mandrakes
+    to crush.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Command to fetch mandrakes
+  summary: The unnamed divine figure commands agents to go to Elephantine and bring
+    many mandrakes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Mandrakes delivered and assigned for crushing
+  summary: The mandrakes are brought to the divine figure and given to Sektet in Heliopolis
+    to be crushed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Beer preparation with mandrakes
+  summary: Women bruise barley for beer and place the mandrakes.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divinely ordered gathering of a ritual plant ingredient
+  taxonomy_refs: []
+  basis: A divine figure commands agents to bring many mandrakes from Elephantine,
+    and the mandrakes are then delivered and processed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the purpose of the mandrakes beyond their
+    being crushed and placed during beer preparation.
+- id: motif:2
+  label: Plant-infused beer preparation
+  taxonomy_refs: []
+  basis: Mandrakes are crushed and placed while women are preparing beer from barley.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The broader narrative function of the beer is not stated in the provided
+    excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19060-19183, opening portion
+  quote_or_summary: The passage includes a reference to messengers or agents before
+    the divine speech.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 19060-19183, divine command
+  quote_or_summary: "“Elephantine [and] bring me mandrakes in great number”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 19060-19183, delivery and crushing sequence
+  quote_or_summary: The mandrakes are brought to the god, who gives them to Sektet
+    in Heliopolis to crush.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 19060-19183, beer preparation sequence
+  quote_or_summary: Women bruise barley for beer and place the mandrakes.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by the fragmentary interlinear formatting and lack
+    of broader narrative context. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol exactly matches mandrakes, beer, Elephantine, or Heliopolis; taxonomy_refs are therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l19060-l19183
+  passage_sha256=2374dd51e89431c6c2ec7aad406c3421993e165927babe5077489cf66e1e1d5b
+

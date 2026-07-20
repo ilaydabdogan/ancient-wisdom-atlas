@@ -1,0 +1,504 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l69-l129
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: Popular Tales of the West Highlands, Volume 2; lines 69-129
+  start: '69'
+  end: '129'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A king wants his son to obtain a wife and gives him half a hundred pounds.
+    The son lodges at a hostelry, where the host tells him of a nearby man with three
+    similar-looking daughters, the eldest identifiable by a mole. A successful suitor
+    must identify whether the desired daughter is older or younger and pay a hundred
+    pounds. The host lends the son the missing half under a penalty of losing a strip
+    of skin if unpaid after a day and a year. The son watches the daughters, chooses
+    the eldest by the mole, buys her, brings her home, and marries her. After the
+    old king dies, the young king hunts, sees a great ship at the strand, and asks
+    the captain what is on board; the supplied passage ends before the captain's reply.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A king wishes to see his son with a wife, and the son sets out to get one
+    with half a hundred pounds.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king's son stays in a hostelry, goes to a chamber with a good fire, receives
+    food, and speaks with the man of the house.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The hostelry keeper says there is an opposite house whose owner has three
+    fine daughters who look alike; the eldest has a mole.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hostelry keeper says suitors must identify whether the chosen daughter
+    is older or younger, and that a successful choice costs a hundred pounds.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The hostelry keeper offers to lend another half hundred, repayable at the
+    end of a day and a year, with a penalty of a strip of skin from head to foot if
+    unpaid.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The next morning the son watches the daughters from his window and then goes
+    to their father's house.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The three daughters are sent before him, and he chooses the one with the mole
+    because he knows she is the eldest.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The father prices the daughter at a hundred pounds; the son buys her, takes
+    her to his father's house, and they marry. Soon after, the old king dies.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the old king's death, the young king hunts, sees a great ship at the
+    strand, and asks the captain what is on board; the passage stops before the answer
+    is given.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: old king
+  description: The father of the king's son; he wants his son to have a wife, gives
+    him money, and later dies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: king's son / young king
+  description: The royal son who goes to seek a wife, receives information and a loan,
+    identifies the eldest daughter, marries her, and later appears as the young king
+    hunting by the strand.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: hostelry keeper / man of the house
+  description: The man at the hostelry who hosts the king's son, tells him about the
+    three daughters, and offers the missing money under a bodily penalty.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: father of the three daughters
+  description: The man in the house opposite the hostelry; he has three fine daughters,
+    presents them to the suitor, and sets the chosen daughter's price at a hundred
+    pounds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: three daughters
+  description: Three fine daughters who are said to look alike and are presented before
+    the suitor.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:6
+  name_or_label: eldest daughter with the mole
+  description: The eldest daughter, identifiable by a mole; she is chosen by the king's
+    son, is pleased by the choice, is bought for a hundred pounds, and marries him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:7
+  name_or_label: captain of the great ship
+  description: The captain of a great ship that comes to the strand; the young king
+    asks him what he has on board.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: royal father and initial patron
+  assigned_to:
+  - fig:1
+  basis: He is the king who wants his son to have a wife and gives him half a hundred
+    pounds before the son sets out.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bride-seeking royal heir
+  assigned_to:
+  - fig:2
+  basis: He goes out to get a wife, visits the daughters' house, chooses one, brings
+    her home, and marries her.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:3
+  label: debtor under bodily penalty
+  assigned_to:
+  - fig:2
+  basis: He receives the missing half hundred under a repayment term backed by a strip-of-skin
+    penalty.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: host, informant, and lender
+  assigned_to:
+  - fig:3
+  basis: He lodges and advises the son, identifies the eldest daughter by her mole,
+    explains the test and price, and offers the loan.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: bride's father and price setter
+  assigned_to:
+  - fig:4
+  basis: He owns the house with the three daughters, has them brought before the suitor,
+    and states the price as a hundred pounds.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: similar prospective brides
+  assigned_to:
+  - fig:5
+  basis: The daughters are described as all like each other and are presented as possible
+    wives.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:7
+  label: marked chosen bride
+  assigned_to:
+  - fig:6
+  basis: The daughter with the mole is identified as eldest, chosen by the son, and
+    married to him.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:8
+  label: ship captain
+  assigned_to:
+  - fig:7
+  basis: He commands or represents the great ship at the strand and is questioned
+    by the young king.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire in the hostelry chamber
+  literal_form: a good fire in the chamber where the king's son stays
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mole as identifying mark
+  literal_form: a mole on the eldest daughter
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: money for wife and debt
+  literal_form: half a hundred pounds, another half hundred, and the hundred-pound
+    price
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: strip of skin penalty
+  literal_form: a strip of skin from the top of the head to the sole of the foot
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: window for viewing the daughters
+  literal_form: the window of the son's chamber from which he sees the daughters dress
+    themselves
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:6
+  label: great ship at the strand
+  literal_form: a great ship coming in to the strand
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Royal son sets out and lodges at hostelry
+  summary: The king wants his son to have a wife, gives him money, and the son goes
+    to a hostelry where he is fed and seated by a good fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Host explains daughters, test, price, and loan
+  summary: The hostelry keeper tells the son about the three similar daughters across
+    the way, the mole on the eldest, the required identification test, the hundred-pound
+    cost, and the offered loan with a skin-forfeit penalty.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Viewing and choosing the eldest daughter
+  summary: The son watches the daughters from his window, visits their father, sees
+    the three presented before him, and chooses the daughter with the mole as the
+    eldest.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Purchase, marriage, and old king's death
+  summary: The daughter is priced at a hundred pounds, the son buys her, takes her
+    to his father's house, marries her, and the old king dies shortly afterward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Young king encounters a ship while hunting
+  summary: After the old king's death, the young king is hunting, sees a great ship
+    at the strand, and asks the captain what he has aboard; the supplied passage ends
+    before the answer.
+  figure_refs:
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: royal bride quest
+  taxonomy_refs:
+  - departure
+  basis: A king's son leaves home with money to obtain a wife and proceeds through
+    a hostelry to the house of prospective brides.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage shows departure for wife-seeking but only the early, local
+    bride-selection episode is present in the supplied range.
+- id: motif:2
+  label: choosing among look-alike sisters by a hidden mark
+  taxonomy_refs: []
+  basis: The daughters are said to look alike, but the eldest has a mole; the suitor
+    uses this mark to identify and choose her.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: No external tale-type or motif index reference is supplied, so no taxonomy
+    ID is assigned.
+- id: motif:3
+  label: conditional loan with bodily forfeiture
+  taxonomy_refs: []
+  basis: The host offers the missing half hundred with a repayment deadline of a day
+    and a year, and nonpayment will cost the debtor a strip of skin from head to sole.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states the condition but does not yet show whether the debt
+    is repaid or enforced.
+- id: motif:4
+  label: bride purchase from father
+  taxonomy_refs: []
+  basis: The father names a price of a hundred pounds for the chosen daughter, and
+    the son buys her before taking her home and marrying her.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The extraction records the literal purchase language of the passage without
+    inferring social practice beyond it.
+- id: motif:5
+  label: royal marriage followed by succession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The old king wants his son to have a wife; after the son marries, the old
+    king dies and the son is subsequently called the young king.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly state a coronation or formal legitimation
+    rite; the taxonomy reference is therefore tentative.
+- id: motif:6
+  label: arrival of a great ship after the hero becomes king
+  taxonomy_refs: []
+  basis: After the old king's death, the young king sees a great ship come to the
+    strand and questions its captain.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The supplied passage is truncated at the captain's reply, so the narrative
+    function of the ship is not yet clear.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 'lines 69-129, opening section: king sends son and son lodges at hostelry'
+  quote_or_summary: A king wants his son to get a wife, gives him half a hundred pounds,
+    and the son stays at a hostelry in a chamber with a good fire where the host speaks
+    with him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 69-129, hostelry keeper's account of the daughters
+  quote_or_summary: The host tells the son about a house opposite with three fine
+    daughters who look alike; the eldest has a mole, and a suitor must identify whether
+    the preferred one is younger or older. A successful match costs a hundred pounds.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 69-129, hostelry keeper's loan condition
+  quote_or_summary: Because the son has only half a hundred pounds, the host offers
+    another half hundred, due at the end of a day and a year; if unpaid, a strip of
+    skin is to come from the top of his head to the sole of his foot.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 69-129, morning viewing and visit to daughters' father
+  quote_or_summary: The next morning the son goes to the window, sees the girls coming
+    to dress themselves, then goes to their father's house and states the purpose
+    of his journey.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 69-129, presentation, selection, purchase, and marriage
+  quote_or_summary: The three daughters are sent before the suitor. He chooses the
+    one with the mole because he knows she is eldest. The father prices her at a hundred
+    pounds; the son buys her, brings her to his father's house, and they marry. Soon
+    after, the old king dies.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: summary
+  locator: 'lines 69-129, closing fragment: hunt and ship at strand'
+  quote_or_summary: After the old king's death, the young king is hunting, sees a
+    great ship come to the strand, and asks the captain what is on board. The supplied
+    text ends as the captain begins to answer.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range. Confidence is reduced
+    by OCR irregularities and by the passage ending mid-sentence at the captain's
+    reply. No comparison claims were made because the passage itself does not support
+    a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and assigned cautiously.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l69-l129
+  passage_sha256=870aaf7251d2a602eaad2064674f59e8d07dbc180881ecac492e24716dea51f8
+

@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l4805-l4847
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: XXIII. / THE   RABBIT  AND   THE  ANTELOPE. / THE  BABBIT  AND  THE  ANTELOPE.  91
+    / THE  RABBIT  AND  THE  ANTELOPE.  93; lines 4805-4847
+  start: '4805'
+  end: '4847'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: His hand stuck to the figure.
+  summary: A rabbit goes to drink at a well, confronts a silent figure, strikes and
+    kicks it, becomes stuck to it with multiple body parts, and is later found, mocked,
+    and killed by an antelope.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The rabbit goes to drink the waters of a well and sees what he thinks is another
+    animal drinking there.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rabbit addresses the figure and asks what it is doing there, but the figure
+    does not answer.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The rabbit threatens to strike the silent figure if it does not answer.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The rabbit strikes the figure with his right hand, and that hand sticks to
+    the figure.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The rabbit strikes the figure with his left hand, and that hand also sticks
+    to the figure.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The rabbit kicks the figure with his right foot and then his left; both legs
+    become stuck to the figure.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The rabbit bumps the figure with his head and stomach, and those parts also
+    stick to the figure.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The rabbit cries with rage while fastened to the figure.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The antelope comes to drink water, sees the rabbit helplessly fastened to
+    the figure, laughs at him, and kills him.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: rabbit
+  description: A rabbit who goes to the well, confronts the figure, becomes fastened
+    to it, and is killed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:2
+  name_or_label: figure
+  description: A silent figure at the well to which the rabbit's hands, feet, head,
+    and stomach stick.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: antelope
+  description: An antelope who comes to drink water, finds the rabbit fastened to
+    the figure, laughs, and kills him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: confronter of the silent figure
+  assigned_to:
+  - fig:1
+  basis: The rabbit questions, threatens, strikes, and kicks the silent figure.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: entrapped victim
+  assigned_to:
+  - fig:1
+  basis: The rabbit becomes helplessly fastened to the figure and is killed.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:3
+  label: silent adhesive figure
+  assigned_to:
+  - fig:2
+  basis: The figure gives no answer, and the rabbit's body parts stick to it after
+    contact.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: killer of the trapped rabbit
+  assigned_to:
+  - fig:3
+  basis: The antelope sees the rabbit helplessly fastened, laughs, and kills him.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: well water
+  literal_form: waters of the well; water the animals come to drink
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: sym:2
+  label: silent figure
+  literal_form: a figure at the well that does not answer and causes the rabbit's
+    body parts to stick
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: stuck limbs and body
+  literal_form: right hand, left hand, feet, head, and stomach stuck to the figure
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Rabbit encounters the figure at the well
+  summary: The rabbit comes to drink at the well, finds a figure there, questions
+    it, and receives no answer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rabbit escalates violence and becomes stuck
+  summary: The rabbit threatens the figure, strikes and kicks it, and each successive
+    contact leaves another body part stuck.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:3
+  label: Antelope finds and kills the rabbit
+  summary: The antelope comes to drink water, sees the rabbit helplessly fastened
+    to the figure, laughs at him, and kills him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: silent adhesive figure traps aggressor through escalating blows
+  taxonomy_refs: []
+  basis: The silent figure does not answer; the rabbit responds with threats, strikes,
+    kicks, and bodily blows, and each contact leaves him more completely stuck.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain who made the figure or whether it was intentionally
+    set as a trap.
+- id: motif:2
+  label: helpless captive killed by later-arriving animal
+  taxonomy_refs: []
+  basis: After the rabbit becomes helplessly fastened to the figure, the antelope
+    arrives, laughs at him, and kills him.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage gives no further motive for the antelope's killing of the
+    rabbit beyond the immediate scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4805-4810
+  quote_or_summary: The rabbit goes as usual to drink the waters of the well and is
+    annoyed to find what he thinks is another animal there drinking also.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4811-4819
+  quote_or_summary: The rabbit asks the figure what it is doing there; the figure
+    gives no answer, even when the rabbit comes closer and asks again.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4820-4825
+  quote_or_summary: The rabbit interprets the silence as insult and threatens to strike
+    the figure unless it answers; the figure remains silent.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4826-4828
+  quote_or_summary: The rabbit smacks the figure in the face, and "His hand stuck
+    to the figure."
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 4829-4834
+  quote_or_summary: The rabbit demands that his right hand be released, strikes the
+    figure with his left hand, and the left hand sticks too.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4835-4840
+  quote_or_summary: The rabbit calls the figure silly, threatens to kick it, kicks
+    with his right foot and then his left, and both legs stick to the figure.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4840-4843
+  quote_or_summary: Overcome with rage, the rabbit bumps the figure with his head
+    and stomach, and those parts also stick to the figure.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4843-4844
+  quote_or_summary: The rabbit cries with impotent rage after becoming stuck.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 4844-4847
+  quote_or_summary: The antelope comes to drink water, sees the rabbit helplessly
+    fastened to the figure, laughs at him, and kills him.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    descriptive rather than taxonomy-linked because the passage itself does not provide
+    an explicit comparative frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support comparison to another named motif, text, or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l4805-l4847
+  passage_sha256=d56a17eda192b7b46dca0de72ff5fe352c428fcdb53485e9352e6379d5e614dd
+

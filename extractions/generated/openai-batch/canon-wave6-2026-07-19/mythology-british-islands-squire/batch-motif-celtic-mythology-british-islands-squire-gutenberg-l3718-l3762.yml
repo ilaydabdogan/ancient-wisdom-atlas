@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.celtic-mythology-british-islands-squire-gutenberg-l3718-l3762
+source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+passage_locator:
+  label: CHAPTER VII / CHAPTER VIII / THE GAELIC ARGONAUTS / CHAPTER IX; lines 3718-3762
+  start: '3718'
+  end: '3762'
+  translation: The Mythology of the British Islands
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“the approaching end of the divine age, and the beginning of a new one”"
+  summary: An unnamed female speaker adds a prophecy foretelling the end of the divine
+    age and the beginning of a new age marked by natural barrenness, social injustice,
+    betrayal, theft, and the disappearance of virtue. The surrounding footnotes identify
+    manuscript and scholarly sources for the chapter and interpolated material.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A female speaker adds a prophecy.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The prophecy foretells the approaching end of the divine age and the beginning
+    of a new age.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The new age is described through natural deprivation: flowerless summers,
+    milkless cows, fruitless trees, and fishless seas.'
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The new age is described through social and moral disorder: shameless women,
+    strengthless men, false judgments, unjust laws, betrayal among warriors, theft,
+    and the absence of virtue.'
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Footnotes state that the chapter is based on the Harleian MS. 5280, called
+    the Second Battle of Moytura, with translations by Whitley Stokes and M. de Jubainville,
+    and that some material is interpolated from the Fate of the Children of Tuirenn.
+  category: other
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed female speaker
+  description: A female figure referred to only as “she,” who adds the prophecy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: old men
+  description: Old men in the prophesied new age are said to give false judgments.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: legislators
+  description: Legislators in the prophesied new age are said to make unjust laws.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: warriors
+  description: Warriors in the prophesied new age are said to betray one another.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: men
+  description: Men in the prophesied new age are described as strengthless and as
+    thieves.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prophecy speaker
+  assigned_to:
+  - fig:1
+  basis: The passage says that she added a prophecy.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: false judges
+  assigned_to:
+  - fig:2
+  basis: Old men are described as giving false judgments.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: unjust lawmakers
+  assigned_to:
+  - fig:3
+  basis: Legislators are described as making unjust laws.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: betraying warriors
+  assigned_to:
+  - fig:4
+  basis: Warriors are described as betraying one another.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: strengthless thieves
+  assigned_to:
+  - fig:5
+  basis: Men are described as strengthless and as thieves.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: flowerless summers
+  literal_form: summers without flowers
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: milkless cows
+  literal_form: cows without milk
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fruitless trees
+  literal_form: trees without fruit
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fishless seas
+  literal_form: seas without fish
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: absence of virtue
+  literal_form: no more virtue left in the world
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prophecy of the end of the divine age
+  summary: The unnamed female speaker foretells that the divine age is ending and
+    that a new age will begin, characterized by barrenness in nature and disorder
+    in human conduct.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: prophecy of an age ending
+  taxonomy_refs: []
+  basis: The prophecy explicitly announces the approaching end of the divine age and
+    the beginning of a new one.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not describe the mechanics of the transition or any named
+    agents beyond the speaker.
+- id: motif:2
+  label: new age marked by natural barrenness
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The new age is described with flowerless summers, milkless cows, fruitless
+    trees, and fishless seas.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage emphasizes loss of
+    fertility and abundance rather than a full seasonal cycle.
+- id: motif:3
+  label: moral and social decline at the end of an age
+  taxonomy_refs: []
+  basis: The prophecy lists false judgments, unjust laws, betrayal, theft, and the
+    disappearance of virtue as features of the coming age.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No explicit divine punishment or restoration is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3718-3721
+  quote_or_summary: "“she added a prophecy” foretelling “the approaching end of the
+    divine age, and the beginning of a new one.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 3721-3724
+  quote_or_summary: The new age is described as having flowerless summers, milkless
+    cows, fruitless trees, and fishless seas.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3722-3726
+  quote_or_summary: The prophecy describes shameless women, strengthless men, false
+    judgments by old men, unjust laws by legislators, betrayal among warriors, theft,
+    and no virtue left in the world.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Footnote 135, lines 3730-3735
+  quote_or_summary: The chapter is said to be based on Harleian MS. 5280, called the
+    Second Battle of Moytura, through translations by Whitley Stokes and M. de Jubainville.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Footnote 136, lines 3737-3740
+  quote_or_summary: The author states that a picturesque passage was interpolated
+    from an account of a fight between the Tuatha Dé Danann and the Fomors in the
+    Fate of the Children of Tuirenn.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal prophecy is clear. Motif labeling is cautious because the available
+    taxonomy does not include a direct end-of-age or degeneration category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself establish a motif comparison; footnotes provide source information rather than comparative motif evidence.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-mythology-british-islands-squire-gutenberg__l3718-l3762
+  passage_sha256=01162d45e39c1acc31d33ed5b853c5d679a26a45bc2926fa362196bf31ab3d0a
+

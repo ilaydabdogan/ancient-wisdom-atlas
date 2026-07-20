@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v3-grimm-stallybrass-archive-l16241-l16291
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+passage_locator:
+  label: MEASUEING-.     STEEWTNG  ASHES. / CREEPING  THROUGH  EARTH  OR  TREES. /
+    PLUGGING-  UP.  BURYING. / VOL.  III.; lines 16241-16291
+  start: '16241'
+  end: '16291'
+  translation: Teutonic Mythology, Volume 3
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys cures for sickness involving animal skins, fresh-killed
+    animal bodies, warm flesh, a deer-hide strap tied and ritually buried with a corpse,
+    and a wolfskin girdle for epilepsy. It cites European textual examples, an East
+    Mongol comparison, and a footnote about chickens applied to a body afflicted with
+    a disease called lupus.
+  language: English, with quoted Latin and German remedies
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage reports multiple sickness remedies that use direct contact with
+    animal skin, fresh flesh, or a freshly killed animal body.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: obs:2
+  text: In a sixteenth-century Netherlandish comedy, a sick woman is sewn up in a
+    page's skin.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Schmidt is cited as reporting that East Mongol tribes cure disease by putting
+    their feet in the opened breast of a freshly killed horse.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Warm flesh remedies include dividing a live chicken and placing it warm on
+    a wound, cutting open a black hen and laying it on a shaved head, and applying
+    fresh-killed flesh to a wound.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A fourteenth-century Breslau manuscript prescribes tying a deer-hide strap
+    around the sick person's neck during an attack, saying that the sickness is bound
+    into a knot, and later burying the strap with a dead man under the shoulder.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Another cited prescription for epilepsy tells the sufferer to gird himself
+    with a wolfskin.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A footnote describes Bishop Eraclius as suffering from a disease called lupus
+    and says eviscerated chickens were fastened on with bandages morning and evening.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: sick woman
+  description: A woman in a Netherlandish comedy who is sewn into a page's skin as
+    part of a cure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: East Mongol tribes
+  description: Groups cited by Schmidt as using the opened breast of a freshly killed
+    horse in a cure for disease.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: sick person with falling sickness or epilepsy
+  description: The patient for whom a deer-hide strap or wolfskin girdle is prescribed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: dead man
+  description: The corpse with whom the deer-hide strap is to be buried, laid under
+    the shoulder.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Eraclius, bishop of Liège
+  description: A bishop described in the footnote as afflicted with a disease called
+    lupus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: afflicted patient
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:5
+  basis: These figures are described as sick, suffering an attack, or afflicted by
+    disease.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: community using a cure
+  assigned_to:
+  - fig:2
+  basis: The passage says Schmidt reports that these tribes use the horse-breast cure
+    for disease.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: corpse receiving buried remedy
+  assigned_to:
+  - fig:4
+  basis: The deer-hide strap is to be buried with the dead man and laid under his
+    shoulder.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: page's skin wrapping
+  literal_form: a page's skin sewn around a sick woman
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: opened horse breast
+  literal_form: the opened breast of a freshly killed horse used for placing feet
+    in
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: warm fresh flesh
+  literal_form: fresh or living poultry cut open and applied warm to wound, head,
+    or body
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: deer-hide strap
+  literal_form: a hart or deer-hide strap tied around the sick person's neck
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: disease-binding knot
+  literal_form: a knot tied in the deer-hide strap while saying the sickness is bound
+    there
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: burial with dead man
+  literal_form: the strap buried with a dead man and laid under his shoulder
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: wolfskin girdle
+  literal_form: a wolfskin worn as a girdle for epilepsy
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cures by skin or opened animal body
+  summary: The passage cites a sick woman sewn into a page's skin and East Mongol
+    tribes placing feet in the opened breast of a freshly killed horse to cure disease.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warm flesh applied to wound, head, or diseased body
+  summary: Several examples apply recently cut or warm poultry flesh, including live
+    chicken, black hen, fresh-killed flesh, and eviscerated chickens fastened by bandages.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: scene:3
+  label: Disease bound into strap and buried with corpse
+  summary: A deer-hide strap is tied around a sick person's neck, a formula binds
+    the sickness into a knot, and the strap is later buried under a dead man's shoulder.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wolfskin girdle for epilepsy
+  summary: The passage notes a prescription to gird oneself with a wolfskin for epilepsy.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: healing by contact with fresh animal or human skin and flesh
+  taxonomy_refs: []
+  basis: The passage groups examples in which sickness is treated by sewing a patient
+    into skin, placing feet in a fresh-killed horse body, or applying fresh warm flesh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage presents folk-medical and antiquarian examples, not a single
+    myth narrative.
+- id: motif:2
+  label: sickness bound into a knot and removed through burial with the dead
+  taxonomy_refs: []
+  basis: The deer-hide strap remedy explicitly includes verbal binding of sickness
+    into a knot, followed by burial of the strap with a dead man.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The mechanism is inferred only from the described prescription; no broader
+    cosmological explanation is given in the passage.
+- id: motif:3
+  label: animal hide worn as remedy for falling sickness or epilepsy
+  taxonomy_refs: []
+  basis: The passage cites a hart or deer-hide strap around the neck for falling sickness
+    and a wolfskin girdle for epilepsy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The two examples use different animal hides and different forms of wearing;
+    they are linked here only as similar therapeutic uses of hide.
+- id: motif:4
+  label: animal substitute applied to a disease-consuming body
+  taxonomy_refs: []
+  basis: The footnote says eviscerated chickens were fastened to the body of Eraclius
+    while the disease called lupus consumed flesh.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage describes this as palliative treatment and does not explicitly
+    state a theory of substitution beyond the juxtaposition of chickens and consumed
+    flesh.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a same-function comparison between the East Mongol
+    horse-body cure and European warm-flesh or skin cures: both use direct bodily
+    contact with fresh animal or skin material to treat disease.'
+  claim_level: same_function
+  target: East Mongol and European animal-body contact cures
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage juxtaposes the examples but does not claim historical contact
+    or shared origin.
+- id: claim:2
+  claim: The passage supports a same-function comparison among deer-hide strap and
+    wolfskin remedies for falling sickness or epilepsy, because both use worn animal
+    hide as treatment for related convulsive illnesses.
+  claim_level: same_function
+  target: animal-hide remedies for falling sickness and epilepsy
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The prescriptions differ in animal, object form, and ritual sequence;
+    the passage does not state that they are the same rite.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16241-16248
+  quote_or_summary: A Netherlandish comedy has a sick woman sewn into a page's skin;
+    Schmidt reports East Mongol tribes putting their feet in the opened breast of
+    a freshly killed horse to cure disease.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 16249-16255
+  quote_or_summary: The passage says the application of warm flesh is mentioned several
+    times, including a divided live chicken placed warm on a wound, a cut-open black
+    hen laid on a shaved head, and fresh-killed flesh on a wound.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 16256-16276
+  quote_or_summary: 'A fourteenth-century Breslau manuscript prescribes a deer-hide
+    strap for falling sickness: bind it around the neck during pain, say the sickness
+    is bound in a knot, then bury the strap with a dead man under the shoulder so
+    the sickness will trouble the patient no more.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 16276-16278
+  quote_or_summary: The passage adds that elsewhere epilepsy is treated by girding
+    oneself with a wolfskin.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 16280-16291
+  quote_or_summary: A footnote describes Eraclius, bishop of Liège, suffering from
+    a disease called lupus; morning and evening eviscerated chickens were applied
+    and fastened with bandages, while the disease consumed flesh.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summary supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an antiquarian comparative discussion of remedies for sickness.
+    Extracted motifs are descriptive folk-medical patterns, not claims of historical
+    origin or unified mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif-family reference was assigned, because the passage does not clearly invoke the supplied controlled categories such as tree, serpent, sacrifice, or death-rebirth.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v3-grimm-stallybrass-archive__l16241-l16291
+  passage_sha256=8fc1f008167c42286e9a90a34f346bc6c719bb9fabfc392460bd490a57637b7b
+

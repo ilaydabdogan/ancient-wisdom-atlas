@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l2040-l2063
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: GOD.  27 / PRAYER,  '31 / TEAYEK.  33 / SACKIFICE.  35; lines 2040-2063
+  start: '2040'
+  end: '2063'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A philological passage surveys Germanic and related terms used for worship,
+    sacrifice, offering, presentation, ritual approach, and sacrificial banquets,
+    with examples from Gothic, Anglo-Saxon, Old High German, Old Norse, Old Saxon,
+    and an Old Bohemian footnote.
+  language: English with Greek, Latin, and Germanic lexical citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Gothic fidlafalijan, glossed as pleasing or giving satisfaction, is said to
+    be used for a Greek term of worship in Luke 4:8.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gothic athairan and Anglo-Saxon bring are presented as terms used for sacrifice
+    or oblation.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The cited vernacular examples include bringing offerings to gods and bringing
+    a lamb offering.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gothic saljan is described as being used transitively for sacrificing and
+    for presenting service or offering, and is connected with the sense of handing
+    over.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Old High German ingangan and related forms are said to be applied to worship
+    or rite.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Gildan or keltan is said to have meanings connected with worship and sacrifice,
+    and guilds are said to take their name from old sacrificial banquets.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The examples include God's geld, burnt offering, Abel's offering as gield,
+    and deofolgield as idolatry.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The footnote states that an Old Bohemian expression means promising or devoting
+    an offering.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Abel
+  description: Named in an example where Abel's offering is called a gield.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: God
+  description: Appears in an Old Saxon phrase glossed as God's geld.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: gods
+  description: Recipients in a cited vernacular example where offerings are brought
+    to their gods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed bringers of offerings
+  description: Unspecified persons in the Wolfram example who bring many offerings
+    to their gods.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: offerer
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Abel is named through his offering, and unnamed persons are cited as bringing
+    offerings.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: recipient or possessor of offering
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage cites God's geld and offerings brought to gods.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: offering or oblation
+  literal_form: Terms such as opfer, oblatio, hunsla, gield, geld, and related verbs
+    of bringing or presenting offerings.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: lamb offering
+  literal_form: A cited example of a lamb as an offering.
+  associated_figures: []
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sacrificial banquet
+  literal_form: Old sacrificial banquets from which guilds are said to have taken
+    their name.
+  associated_figures: []
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Survey of sacrifice and worship vocabulary
+  summary: The passage lists Germanic terms used in contexts of pleasing, worshipping,
+    bringing, presenting, handing over, or performing offerings and sacrifice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Sacrificial banquet and guild naming
+  summary: The passage states that guilds took their name from old sacrificial banquets.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Promised or devoted offering
+  summary: A footnote gives an Old Bohemian expression glossed as promising or devoting
+    an offering.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacrifice or offering to deity
+  taxonomy_refs:
+  - sacrifice
+  basis: Multiple cited terms and examples are explicitly connected with sacrifice,
+    oblation, offerings, God's geld, offerings to gods, burnt offering, Abel's offering,
+    and idolatrous offering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is lexical and philological rather than a narrative mythic
+    episode.
+- id: motif:2
+  label: sacred exchange through pleasing, handing over, or devoting an offering
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage connects worship language with pleasing or giving satisfaction,
+    bringing, handing over, solemn presentation, and promising or devoting an offering.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: Exchange is inferred from the semantic field of the cited terms; no explicit
+    reciprocal divine response is described.
+- id: motif:3
+  label: sacrificial banquet as ritual social institution
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that guilds took their name from old sacrificial banquets.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The statement is an etymological and institutional claim, not a full mythic
+    scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares several Germanic lexical items by showing that they
+    serve similar worship, offering, or sacrificial functions across Gothic, Anglo-Saxon,
+    Old High German, Old Norse, and Old Saxon evidence.
+  claim_level: linguistic_similarity
+  target: Germanic sacrifice and worship vocabulary
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a philological comparison of terms and functions; it does not
+    by itself establish a shared narrative motif.
+- id: claim:2
+  claim: The footnote offers an external lexical parallel in which an Old Bohemian
+    expression is glossed as promising or devoting an offering.
+  claim_level: linguistic_similarity
+  target: Old Bohemian offering-vow expression compared with the passage's offering
+    vocabulary
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to a brief footnote gloss and does not provide
+    a broader ritual or narrative context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2040-2042
+  quote_or_summary: Gothic fidlafalijan is glossed as pleasing or giving satisfaction
+    and used for a worship term; Gothic athairan is used of sacrifice in Mark and
+    Luke.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:2
+  type: summary
+  locator: 2042-2045
+  quote_or_summary: Anglo-Saxon bring by itself is said to mean oblation; cited examples
+    describe bringing many offerings to gods and bringing a lamb offering.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:3
+  type: summary
+  locator: 2045-2052
+  quote_or_summary: Gothic saljan is described as used transitively for sacrificing
+    and in hunsla saljan for service or offering; the passage relates it to handing
+    over and solemn presentation with personal approach.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:4
+  type: summary
+  locator: 2052-2055
+  quote_or_summary: Old High German ingangan and related forms are occasionally applied
+    to worship and rite.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:5
+  type: summary
+  locator: 2055-2061
+  quote_or_summary: Gildan or keltan is linked with worship and sacrifice; guilds
+    are said to derive their name from old sacrificial banquets; examples include
+    God's geld, burnt offering, Abel's offering as gield, and deofolgield as idolatry.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summary used.
+- id: ev:6
+  type: summary
+  locator: 2062-2063
+  quote_or_summary: The footnote says the Old Bohemian expression ohiecati obiet strictly
+    means promising or devoting an offering.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage directly supports sacrifice, offering, worship, and sacrificial
+    banquet patterns, but it is a philological discussion rather than a narrative
+    mythic passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional figures, taxonomy identifiers, or historical claims were added beyond the supplied passage and available taxonomy references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l2040-l2063
+  passage_sha256=b91ae87fbf455cf2a8f538ec5ee5865ae2c9973eaf7cb23ecb61d78ac6e2b2e9
+

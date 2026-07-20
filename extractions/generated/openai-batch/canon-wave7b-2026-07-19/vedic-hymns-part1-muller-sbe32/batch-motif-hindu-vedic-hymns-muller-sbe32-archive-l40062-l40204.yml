@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l40062-l40204
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: BIBLIOGRAPHICAL LIST. 54! / BIBLIOGRAPHICAL LIST. 543 / ZDMG. XL, 708-712.
+    / BIBLIOGRAPHICAL LIST. 545; lines 40062-40204
+  start: '40062'
+  end: '40204'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A bibliographical list of scholarly works on Rig-Veda and Vedic topics.
+    The entries include titles concerning Soma and related gods, sacrifices and solstice
+    festivals in ancient India, Varuna and the Adityas, the three sacred fires of
+    the Rig-Veda, the Aśvins or Aryan Dioscuri, and the myth of the Ribhavas. The
+    passage is bibliographic rather than narrative.
+  language: English bibliographic frame with German, French, Italian, and Sanskrit
+    terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The selected passage is a bibliographical list, not a hymn, myth narrative,
+    or ritual description.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One Hillebrandt entry lists works on sacrifices in ancient India, solstice
+    festivals in ancient India, and Vedic mythology concerning Soma and related gods.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One cited work title names Varuna and the Adityas as its subject.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One cited article title refers to the three sacred fires of the Rig-Veda.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One cited work title phrases the Aśvins in relation to the Aryan Dioscuri.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One cited work title refers to the myth of the Ribhavas.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Soma and related gods
+  description: Named in a cited Hillebrandt title on Vedic mythology; no narrative
+    description is provided in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Varuna and the Adityas
+  description: Named in a cited Kerbaker title; no narrative description is provided
+    in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Aśvins / Aryan Dioscuri
+  description: Named in a cited Myriantheus title as “Die Agvins oder Arischen Dioskuren”;
+    no narrative description is provided in the passage.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Ribhavas
+  description: Named in a cited Nève title concerning the “Mythe des Ribhavas”; no
+    narrative description is provided in the passage.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named subject of a cited scholarly work
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Each figure or group is named only in the title of a bibliographic entry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: associated with gods in cited title
+  assigned_to:
+  - fig:1
+  basis: The Hillebrandt title includes “Soma und verwandte Gotter,” meaning Soma
+    and related gods.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: comparatively identified in cited title
+  assigned_to:
+  - fig:3
+  basis: The cited title phrases the Aśvins as “oder Arischen Dioskuren,” indicating
+    a title-level comparison.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: myth-subject in cited title
+  assigned_to:
+  - fig:4
+  basis: The cited Nève title explicitly refers to the “Mythe des Ribhavas.”
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: three sacred fires
+  literal_form: Les trois feux sacrés du Rig-Véda
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Sacrifice in ancient India as bibliographic topic
+  taxonomy_refs:
+  - sacrifice
+  basis: A Hillebrandt title in the bibliography is “Nationale Opfer in Altindien.”
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage gives only a bibliographic title; it does not describe a sacrifice
+    scene, participants, offerings, or ritual sequence.
+- id: motif:2
+  label: Solstice or seasonal festival as bibliographic topic
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: A Hillebrandt title in the bibliography is “Die Sonnwendfeste in Altindien,”
+    referring to solstice festivals in ancient India.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage gives only a bibliographic title; it does not describe seasonal
+    rites or mythic events.
+- id: motif:3
+  label: Ribhavas myth as bibliographic topic
+  taxonomy_refs: []
+  basis: A Nève title is “Essai sur le Mythe des Ribhavas.”
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The myth is named but not summarized; no motif content can be extracted
+    beyond the bibliographic mention.
+comparison_claims:
+- id: claim:1
+  claim: A cited title frames the Aśvins in relation to the “Aryan Dioscuri,” so the
+    passage supports only a bibliographic-level comparison between these named figures.
+  claim_level: same_motif
+  target: Dioscuri as named in “Die Agvins oder Arischen Dioskuren”
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage provides only a title and no argument, narrative details,
+    or evidence for historical contact, common inheritance, or shared function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 40062-40204
+  quote_or_summary: The selected passage is headed as a bibliographical list and consists
+    of scholarly references rather than a mythic or ritual narrative.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: approximately lines 40066-40073
+  quote_or_summary: Hillebrandt entries include “Nationale Opfer in Altindien,” “Die
+    Sonnwendfeste in Altindien,” and “Vedische Mythologie I. Soma und verwandte Gotter.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: approximately lines 40082-40085
+  quote_or_summary: "“Varunae gli Aditya, saggio di esegesi vedica”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: approximately lines 40089-40090
+  quote_or_summary: "“Les trois feux sacrés du Rig-Véda”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: approximately lines 40158-40159
+  quote_or_summary: "“Die Agvins oder Arischen Dioskuren”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: approximately lines 40166-40167
+  quote_or_summary: "“Essai sur le Mythe des Ribhavas”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: Extraction is limited because the passage is a bibliography with OCR noise
+    and multilingual titles. Motif and comparison entries are title-level attestations
+    only, not narrative motif occurrences.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic scenes are present in this passage. Figures, symbols, motifs, and comparison claims are extracted only where bibliographic titles explicitly mention them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l40062-l40204
+  passage_sha256=9e11fdad531b548fa8fdb4ea7d6d06690f3ce8c975c2e8d8ab9b7cf5dfdd7beb
+

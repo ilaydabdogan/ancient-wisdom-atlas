@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l8102-l8125
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: ORIGIN  OF  MAN  AND  THE  ANIMALS. / ORIGIN   OF   THE   WINDS    AND    RAIN.
+    / THE   HEAVENLY    REGIONS. / THE    REGIONS    BELOW.; lines 8102-8125
+  start: '8102'
+  end: '8125'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After death, an Eskimo spirit remains near its earthly places for three
+    days, then looks back at its village and travels to the nu'namiut, the people
+    beneath the earth. The path to the lower world passes through a long dark tunnel
+    guarded by a large dog. In the lower land, the spirit lives among relatives in
+    villages resembling earthly villages. The dead depend on grave offerings for food
+    and drink, and neglect leaves them hungry and naked. The lower world lacks cold
+    and sleet but is dark and gloomy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: For three days after death, the spirit remains around the scenes of its earthly
+    life.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During this three-day period, people must be careful not to offend the spirit.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After taking a final look at its native village, the spirit sets out for the
+    land of the nu'namiut, described as earth people or dwellers beneath the earth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The way to the world beneath lies through a long dark tunnel.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A large dog guards the tunnel and watches for unwary spirits.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: In the land of the nu'namiut, inhabitants dwell in villages much as people
+    do on earth.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The arriving spirit seeks the location of its relatives and lives with them.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The lower-world inhabitants depend on grave offerings for food and drink;
+    if relatives neglect them, they become hungry and naked.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The world beneath has no cold or sleet, but is dark and gloomy.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: deceased Eskimo spirit
+  description: The spirit of an Eskimo after death, lingering for three days and then
+    traveling to the land beneath the earth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: nu'namiut
+  description: The earth people or those who dwell beneath the earth; the arriving
+    spirit finds them living in villages.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: large dog guardian
+  description: A big dog, marked with uncertainty in the passage, guarding the long
+    dark tunnel to the world beneath.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: living relatives
+  description: Relatives whose grave offerings provide food and drink for the dead,
+    and whose neglect leaves them hungry and naked.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: recently deceased traveler
+  assigned_to:
+  - fig:1
+  basis: The spirit leaves the village after three days and sets out for the land
+    beneath the earth.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: lower-world dwellers
+  assigned_to:
+  - fig:2
+  basis: The nu'namiut are identified as those who dwell beneath the earth and are
+    found living in villages there.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: threshold guardian
+  assigned_to:
+  - fig:3
+  basis: The dog guards the dark tunnel on the route to the world beneath and watches
+    for unwary spirits.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: offering providers or neglectful kin
+  assigned_to:
+  - fig:4
+  basis: The dead depend on offerings made at graves; neglect by relatives causes
+    hunger and nakedness.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: three-day lingering period
+  literal_form: three days after death during which the spirit remains near earthly
+    scenes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: long dark tunnel
+  literal_form: a long dark tunnel leading to the world beneath
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dog at the tunnel
+  literal_form: a big dog guarding the route to the lower world
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: grave offerings
+  literal_form: offerings made at graves that provide food and drink for the dead
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: world beneath
+  literal_form: the land of the nu'namiut beneath the earth, dark and gloomy but without
+    cold or sleet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: spirit lingers and departs
+  summary: After death, the spirit remains near its earthly surroundings for three
+    days, then looks back at its village and leaves for the land beneath the earth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: passage through guarded tunnel
+  summary: The route to the lower world is a long dark tunnel guarded by a large dog
+    watching for spirits.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: life among the nu'namiut
+  summary: In the lower land, the spirit finds village-dwelling inhabitants, seeks
+    relatives, and lives with them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: dependence on grave offerings
+  summary: The lower-world inhabitants rely on offerings at graves for food and drink;
+    neglect by relatives leaves them hungry and naked.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: condition of the world beneath
+  summary: The lower world is described as free from cold and sleet but dark and gloomy.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: journey of the dead to a lower-world afterlife
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: 'The passage gives a sequence after death: lingering near earthly scenes,
+    final look at the village, departure to the people beneath the earth, passage
+    by tunnel, and residence with relatives below.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes this as an after-death route rather than a heroic
+    descent or return journey.
+- id: motif:2
+  label: guardian at the passage to the realm of the dead
+  taxonomy_refs: []
+  basis: A large dog guards the long dark tunnel that leads to the world beneath and
+    watches for unwary spirits.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage includes a parenthetical question mark after the dog, so the
+    exact identity or certainty of the guardian should be reviewed.
+- id: motif:3
+  label: grave offerings sustain the dead
+  taxonomy_refs: []
+  basis: The inhabitants of the lower world depend on offerings made at graves for
+    food and drink, and neglect causes hunger and nakedness.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states dependence on offerings but does not describe a reciprocal
+    exchange from the dead to the living.
+- id: motif:4
+  label: afterlife as continued village life with relatives
+  taxonomy_refs: []
+  basis: The spirit finds the nu'namiut living in villages much as on earth, locates
+    its relatives, and lives with them.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage emphasizes monotony and dependence on offerings, so the resemblance
+    to earthly life is partial rather than idyllic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8102-8109
+  quote_or_summary: After death, the spirit lingers for three days near earthly scenes;
+    people must avoid offending it; after a final look at its village, it sets out
+    for the nu'namiut, the earth people beneath the earth.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8110-8114
+  quote_or_summary: The route to the world beneath goes through a long dark tunnel
+    guarded by a big dog that watches for unwary spirits.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8116-8120
+  quote_or_summary: In the land of the nu'namiut, the spirit finds inhabitants dwelling
+    in villages much as on earth, seeks out relatives, and lives with them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8120-8123
+  quote_or_summary: The lower-world inhabitants depend on grave offerings for food
+    and drink; if relatives neglect them, they are hungry and naked.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8124-8125
+  quote_or_summary: The world beneath has no cold or sleet, but is dark and gloomy.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate classifications
+    and should be reviewed, especially the tunnel guardian because the source marks
+    the dog with uncertainty. No separate comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference assigned only to the broad afterlife journey map motif.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l8102-l8125
+  passage_sha256=6a25a37223b6c632419c82f2d9ebea34f6ab57c5a3db74bc11c2148225551b67
+

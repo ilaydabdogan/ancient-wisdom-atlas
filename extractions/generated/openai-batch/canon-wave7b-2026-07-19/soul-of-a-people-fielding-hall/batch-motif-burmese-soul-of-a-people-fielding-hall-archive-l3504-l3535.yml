@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l3504-l3535
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: GOVERNMENT / CHAPTER VIII / CRIME AND PUNISHMENT / CRIME AND PUNISHMENT 103;
+    lines 3504-3535
+  start: '3504'
+  end: '3535'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An accused young servant is sent before a magistrate after a theft complaint
+    cannot be withdrawn under English law. The servant pleads guilty, and his master
+    asks for leniency, saying the boy was honest and yielded to sudden temptation.
+    The magistrate refuses leniency, says such thefts by servants are becoming common,
+    and sentences the boy to six months' rigorous imprisonment as a warning to others.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that, under English law as described here, a theft complaint
+    once made must be proved or disproved before a magistrate and cannot simply be
+    withdrawn.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lad is sent before the magistrate and pleads guilty again.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The master asks that the punishment be light, describing the boy as honest
+    and saying he yielded to a sudden temptation.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The magistrate says he will consider his judgment and deliver it later.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In his judgment, the magistrate says he cannot treat the case leniently because
+    servant thefts from employers are becoming common and convicted persons should
+    be made examples as warnings to others.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The boy is sentenced to six months' rigorous imprisonment.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the lad / boy
+  description: A young male accused of theft who pleads guilty before the magistrate
+    and is sentenced to imprisonment.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: the officer / master
+  description: The boy's master or employer, who would have withdrawn the prosecution
+    if possible and asks the magistrate for leniency.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the magistrate
+  description: The judicial official before whom the boy is tried, who refuses leniency
+    and imposes a six-month sentence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: accused guilty pleader
+  assigned_to:
+  - fig:1
+  basis: The lad is sent before the magistrate and pleads guilty.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: employer requesting leniency
+  assigned_to:
+  - fig:2
+  basis: The master says he did not wish to press the charge and asks that punishment
+    be light.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: sentencing judicial authority
+  assigned_to:
+  - fig:3
+  basis: The magistrate considers judgment, refuses leniency, and imposes imprisonment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: example made as warning
+  assigned_to:
+  - fig:1
+  basis: The magistrate states that those convicted should be made examples to warn
+    others, and the boy is sentenced accordingly.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: The complaint proceeds despite the master's wish for leniency
+  summary: After the officer or master learns the circumstances, the passage says
+    he would have withdrawn or forgiven the boy, but English law requires a theft
+    complaint to proceed. The lad is brought before the magistrate, pleads guilty,
+    and the master asks for light punishment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: The magistrate refuses leniency and sentences the boy
+  summary: The magistrate does not accept the master's lenient view, later reads a
+    judgment saying such cases are common and punishment must warn others, and sentences
+    the boy to six months' rigorous imprisonment.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Mercy request overruled by formal legal process
+  taxonomy_refs: []
+  basis: The master wishes to forgive or withdraw the charge and asks for leniency,
+    but the passage says the complaint must proceed under English law and the magistrate
+    refuses leniency.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a social-legal narrative pattern in the passage, not a mythological
+    motif and not tied to an available taxonomy family.
+- id: motif:2
+  label: Exemplary punishment as deterrent
+  taxonomy_refs: []
+  basis: The magistrate says convicted offenders must be made examples as a warning
+    to others, then sentences the boy to six months' rigorous imprisonment.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports the legal-deterrent pattern only; no broader comparative
+    or mythic interpretation is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3504-3511
+  quote_or_summary: The officer would have forgiven the boy, but a theft complaint
+    under English law cannot be withdrawn and must be tried before a magistrate.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 3511-3517
+  quote_or_summary: The lad is sent before the magistrate, pleads guilty again, and
+    the master asks that the punishment be light.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 3517-3523
+  quote_or_summary: The master says the boy was honest, yielded to sudden temptation,
+    and that he would not have come to court if he could have withdrawn the charge;
+    he asks the magistrate to be lenient.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 3524-3527
+  quote_or_summary: The magistrate does not see the case in the same light and says
+    he will consider and deliver judgment later.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 3528-3534
+  quote_or_summary: In judgment, the magistrate says he cannot be lenient because
+    servant thefts from employers are common and convicted persons should be made
+    examples as warnings to others.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: 3534-3535
+  quote_or_summary: '"the boy was sentenced to six months'' rigorous imprisonment"'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal legal sequence is clear. Candidate motifs are limited to passage-supported
+    legal-narrative patterns and are not assigned to mythological taxonomy families.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supported symbols from the provided taxonomy and no passage-supported comparative claims were extracted.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l3504-l3535
+  passage_sha256=65fdd743c4f6be4be86df12f9d7313d150eb5c8e66c97c3e5f6dca6900cd8a85
+

@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l15050-l15095
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: TV,  199. / LAWS    OF    MANU. / IV,  211. / IV,  221.  RULES    FOR  A    SNATAKA.  163;
+    lines 15050-15095
+  start: '15050'
+  end: '15095'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A section of rules for a snataka lists categories of persons whose food
+    is not to be eaten and states harmful effects attributed to food from certain
+    donors, including damage to vigor, sacred learning, longevity, fame, offspring,
+    bodily strength, and access to higher worlds. A note explains one consequence
+    as rebirth as an animal feeding on impure substances.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The heading identifies the passage as rules for a snataka.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:2
+  text: The passage names many persons whose food is not to be eaten, including informers,
+    habitual liars, sellers of rewards for sacrifices, actors, craftsmen, publicans,
+    washermen, dyers, and persons associated with sexual or moral transgression.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage includes food from men still within ten days of impurity after
+    a death and unpalatable food among the food to be avoided.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says that food from certain donors impairs or destroys specific
+    qualities of the eater, such as vigor, sacred learning, longevity, fame, offspring,
+    and bodily strength.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says that food from a multitude and from harlots excludes the
+    eater from the higher worlds.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage compares food from a physician, an unchaste woman, a usurer, and
+    a dealer in weapons to pus, semen, ordure, and dirt.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note reports the explanation that such food causes rebirth as an animal
+    feeding on pus or other impure substances.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: snataka
+  description: The rule-addressed person identified by the heading, whose qualities
+    and afterlife standing are described as affected by food.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:2
+- id: fig:2
+  name_or_label: disqualified food-givers
+  description: The listed donors whose food is prohibited or harmful, including informers,
+    liars, sellers of sacrifice rewards, actors, artisans, publicans, washermen, dyers,
+    and other named groups.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: reborn animal
+  description: A commentary note describes the affected person as reborn as an animal
+    feeding on pus or other impure substances.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: rule recipient / affected eater
+  assigned_to:
+  - fig:1
+  basis: The heading frames the section as rules for a snataka, and the verses describe
+    what happens to the eater through repeated references to his qualities and worlds.
+  evidence_refs:
+  - ev:5
+  - ev:2
+- id: role:2
+  label: prohibited donor
+  assigned_to:
+  - fig:2
+  basis: The verses repeatedly identify persons whose food should not be eaten or
+    whose food brings specified harmful consequences.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: impure rebirth form
+  assigned_to:
+  - fig:3
+  basis: The note explains the consequence as rebirth as an animal feeding on impure
+    substances.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: food gift
+  literal_form: food given by specified persons
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: impure substances
+  literal_form: pus, semen, ordure, dirt; pus or other impure substances in the note
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: higher worlds
+  literal_form: the higher worlds from which the eater is excluded by food of a multitude
+    and harlots
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ten days of death impurity
+  literal_form: ten days of impurity on account of a death
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Avoidance of named food donors
+  summary: The rule recipient is told not to eat food given by a long list of socially,
+    ritually, or morally disqualified persons, including persons still within the
+    impurity period after a death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Consequences assigned to donors’ food
+  summary: Food from particular donors is said to impair the eater’s vigor, sacred
+    learning, longevity, fame, offspring, bodily strength, or access to higher worlds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Impure equivalences and rebirth explanation
+  summary: Food from several donors is compared to bodily or excremental impurities,
+    and the note explains the effect as rebirth as an animal feeding on impure substances.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Food taboo based on donor status
+  taxonomy_refs: []
+  basis: The passage lists numerous persons whose food is not to be eaten by the rule
+    recipient.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a legal-ritual prescription rather than a narrative myth episode.
+- id: motif:2
+  label: Food transmits harm to vital, ritual, social, and afterlife standing
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Food from specific donors is linked to the eater’s loss of vigor, sacred
+    learning, longevity, fame, offspring, strength, and access to higher worlds.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage concerns regulated eating
+    and donation, not a developed myth of exchange.
+- id: motif:3
+  label: Impure consumption and adverse rebirth consequence
+  taxonomy_refs:
+  - death_rebirth
+  basis: A note explains the consequence of such food as rebirth as an animal feeding
+    on pus or other impure substances; the verse also mentions exclusion from higher
+    worlds.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The explicit rebirth interpretation appears in the supplied commentary
+    note, not in the main verse text alone.
+- id: motif:4
+  label: Food equated with bodily and excremental impurity
+  taxonomy_refs: []
+  basis: Food from a physician, unchaste woman, usurer, and dealer in weapons is compared
+    to pus, semen, ordure, and dirt.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a symbolic equivalence within a rule passage, not an independent
+    narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: IV.214-217 within lines 15050-15095
+  quote_or_summary: Verses 214-217 list many food-givers whose food is not to be eaten,
+    including informers, habitual liars, sellers of sacrifice rewards, performers,
+    artisans, publicans, washermen, dyers, persons connected with paramours, men ruled
+    by women, persons within death impurity, and unpalatable food.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: IV.218-219 within lines 15050-15095
+  quote_or_summary: Verses 218-219 state that food of a king, Shudra, goldsmith, leather-cutter,
+    artisan, washerman, multitude, and harlots harms the eater’s vigor, sacred learning,
+    longevity, fame, offspring, bodily strength, or access to higher worlds.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: IV.220 within lines 15050-15095
+  quote_or_summary: Verse 220 compares the food of a physician to pus, that of an
+    unchaste woman to semen, that of a usurer to ordure, and that of a dealer in weapons
+    to dirt.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: Footnote to IV.220 within lines 15050-15095
+  quote_or_summary: The note says the passage means that the eater is reborn as an
+    animal feeding on pus or other impure substances, citing Govinda.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; source metadata permits full text use.
+- id: ev:5
+  type: quote
+  locator: Heading within lines 15050-15095
+  quote_or_summary: "“RULES FOR A SNATAKA”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; source metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main prescriptions and consequences are clear, but the passage has OCR
+    artifacts and verse 221 is truncated in the supplied range. No comparison claims
+    are made because the passage itself does not compare this material to another
+    text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to broad candidate motif families where directly supported by food exchange and rebirth language.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l15050-l15095
+  passage_sha256=23623f0c42b6475d8afb3259484797076a0b9be5d82aa1477f53020611909dfc
+

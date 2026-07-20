@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l4121-l4146
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: BIRTH,   INFANCY,  AND   PUBERTY / THE   BAGANDA / CHAP. / BIRTH,   INFANCY,  AND    PUBERTY;
+    lines 4121-4146
+  start: '4121'
+  end: '4146'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Baganda boys during the period of herding: they
+    had duties connected with supplying food to an over-chief, met daily while animals
+    browsed, played games, and especially played a stick-throwing game called kubariga.
+    A figure caption identifies Baganda boys wrestling.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some food had to be carried to an over-chief at the capital when the turn
+    to supply food came.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Boys are described as having a free and happy life during the period of herding.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Boys met together daily while the animals browsed and had time for games.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A figure caption identifies Baganda boys wrestling.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The boys' chief game was throwing a stick called kubariga.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Each boy had two fairly stout sticks about eighteen inches long for the game.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Players marked a line to stand at and took turns throwing sticks so that a
+    stick striking on its end could go end over end for some distance.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Baganda boys
+  description: Boys engaged in herding, meeting daily, playing games, wrestling in
+    a figure caption, and throwing sticks in kubariga.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: over-chief
+  description: A superior chief to whom food was carried at the capital.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: animals
+  description: Animals browsed while the boys had time for games.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: herding boys
+  assigned_to:
+  - fig:1
+  basis: The passage locates the boys' activities during the time of herding and while
+    animals browsed.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: game players
+  assigned_to:
+  - fig:1
+  basis: The boys met for games and played kubariga by throwing sticks.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: recipient of food tribute or supply
+  assigned_to:
+  - fig:2
+  basis: Food was carried to the over-chief at the capital when the turn to supply
+    food came.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: herded animals
+  assigned_to:
+  - fig:3
+  basis: The animals browsed while boys had time for games.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: throwing sticks
+  literal_form: Two fairly stout sticks, about eighteen inches long, used in the game
+    kubariga.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: marked standing line
+  literal_form: A line marked by players as the place from which to throw the sticks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Boys herding and playing games
+  summary: During herding, boys meet daily while animals browse and have ample time
+    for games.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Kubariga stick-throwing game
+  summary: Boys use two sticks each, stand at a marked line, and take turns throwing
+    the sticks so that they may strike the ground and tumble end over end.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Food carried to over-chief
+  summary: When required to supply food for the over-chief, the food is carried to
+    him at the capital.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: youth herding and communal games
+  taxonomy_refs: []
+  basis: The passage presents boys during herding as gathering daily and playing games
+    while animals browse.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic social pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: competitive stick-throwing game
+  taxonomy_refs: []
+  basis: The passage describes kubariga as the boys' chief game, with standardized
+    sticks, a marked line, turns, and distance outcome.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No symbolic or ritual meaning is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4121-4124
+  quote_or_summary: When their turn came to supply food for the over-chief, it had
+    to be carried to him at the capital.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4124-4130
+  quote_or_summary: Boys had a free and happy life during herding; they met daily,
+    and while animals browsed they had time for many games.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: figure caption near lines 4131-4132
+  quote_or_summary: FIG. 17. — BAGANUA BOYS WRESTUNG.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4133-4137
+  quote_or_summary: The chief game was stick-throwing, called kubariga; the stick
+    was stout, about eighteen inches long, and each boy had two.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4137-4146
+  quote_or_summary: Players marked a standing line and took turns throwing the sticks
+    with enough force that a stick striking the ground on its end could go end over
+    end for some distance.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage describes ordinary youth activities and games, not an explicit mythic
+    or ritual episode. No comparison claims are supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned because the passage does not explicitly support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l4121-l4146
+  passage_sha256=340606558cfbf285f0391509626d8376925dcd8e504f72296577a8dad5cf5641
+

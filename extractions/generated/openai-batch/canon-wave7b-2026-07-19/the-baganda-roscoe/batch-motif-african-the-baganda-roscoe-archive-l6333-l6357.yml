@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l6333-l6357
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CHAP. / IV  SICKNESS,  DEATH,  AND    BURIAL  123 / IV  SICKNESS,  DEATH,  AND   BURIAL  125
+    / IV  SICKNESS,  DEATH,  AND  BURIAL  127; lines 6333-6357
+  start: '6333'
+  end: '6357'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Baganda practices and beliefs concerning graves,
+    suicides, separate burials, and slave burials. It reports precautions intended
+    to prevent ghosts from entering women and being reborn, the burning of suicides
+    at crossroads, fears that ghosts buried together would quarrel and harm the living,
+    and warnings that neglected slave ghosts could cause sickness and death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bits of stick or grass are thrown upon a grave to prevent a ghost from entering
+    people and being reborn.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Grave mounds can become large enough over time to deflect a path and attract
+    travellers' notice.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Suicides are burned at crossroads, using materials from the house or tree
+    where the act was done as fuel.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Women passing the spot where a suicide was burned observe similar precautions
+    to prevent ghosts from entering them and being reborn.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Two persons are not laid in the same grave, though they may be buried side
+    by side close together.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The people believe that ghosts buried together would quarrel over priority,
+    and that the defeated ghost would take vengeance on the living.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Slaves are buried on part of their master's estate without ceremony.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: People avoid leaving slave bodies on waste land for wild animals because medicine-men
+    state that sickness and death have been caused by ghosts of neglected slaves.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: ghosts
+  description: Ghosts of the dead are described as capable of entering people, being
+    reborn, quarrelling, taking vengeance on the living, and causing sickness and
+    death when neglected.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: women passing grave or suicide spot
+  description: Women are described as observing precautions while passing a grave
+    or the spot where a suicide was burned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: suicides
+  description: Persons who died by suicide are burned at crossroads with fuel from
+    the house or tree associated with the act.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the living
+  description: The living are described as potential targets of vengeance from a worsted
+    ghost.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: slaves
+  description: Slaves are buried on their master's estate without ceremony; neglected
+    slave ghosts are said to have caused sickness and death.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: medicine-men
+  description: Medicine-men state that sickness and death have been caused by ghosts
+    of neglected slaves.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: potential rebirth-agent
+  assigned_to:
+  - fig:1
+  basis: Ghosts are described as able to enter people and be reborn unless precautions
+    are taken.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: dangerous dead
+  assigned_to:
+  - fig:1
+  basis: Ghosts may quarrel, take vengeance on the living, or cause sickness and death
+    when neglected.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:3
+  label: person requiring protection from ghosts
+  assigned_to:
+  - fig:2
+  basis: Women passing the grave or suicide spot take precautions to prevent ghosts
+    from entering them.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: specially treated dead
+  assigned_to:
+  - fig:3
+  basis: Suicides are burned at crossroads with specified fuel rather than being described
+    as ordinarily buried.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: possible victim of ghostly vengeance
+  assigned_to:
+  - fig:4
+  basis: A worsted ghost is said to wreak vengeance on the living.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: low-ceremony deceased
+  assigned_to:
+  - fig:5
+  basis: Slaves are buried on their master's estate without ceremony.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: ritual-medical authority
+  assigned_to:
+  - fig:6
+  basis: Medicine-men are cited as stating the cause of sickness and death in relation
+    to neglected slave ghosts.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: grave
+  literal_form: grave or grave mound
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: stick or grass thrown on grave
+  literal_form: bits of stick or grass
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: crossroads
+  literal_form: cross roads
+  associated_figures:
+  - fig:3
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: burning of suicides
+  literal_form: burning at crossroads using house or tree materials as fuel
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: separate graves
+  literal_form: two persons not laid in the same grave
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: master's estate burial place
+  literal_form: some part of the master's estate
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Precautions at graves against ghostly rebirth
+  summary: People throw bits of stick or grass upon a grave as a precaution against
+    a ghost entering people and being reborn; grave mounds may grow large enough to
+    alter paths and be noticed by travellers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Burning of suicides at crossroads
+  summary: Suicides are burned at crossroads with materials from the house or tree
+    connected with the act, and women passing the place observe precautions against
+    ghostly entry and rebirth.
+  figure_refs:
+  - fig:3
+  - fig:2
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Separate burial to avoid ghost conflict
+  summary: Two people are not put in the same grave because of the belief that their
+    ghosts would quarrel over priority and that the defeated ghost would harm the
+    living.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Slave burial and fear of neglected ghosts
+  summary: Slaves are buried without ceremony on the master's estate, and people avoid
+    leaving them for wild animals because medicine-men say neglected slave ghosts
+    have caused sickness and death.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: precautions against ghostly entry and rebirth
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage twice states that precautions are taken to prevent ghosts from
+    entering women or others and being reborn.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage describes prevention of rebirth through ghostly entry, not
+    a full cycle of death and rebirth narrative.
+- id: motif:2
+  label: dangerous neglected dead causing sickness and death
+  taxonomy_refs: []
+  basis: Medicine-men are reported to state that sickness and death were caused by
+    ghosts of slaves who had been neglected.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage reports an etiological belief but does not give a specific
+    narrative case.
+- id: motif:3
+  label: separate burial to prevent conflict among ghosts
+  taxonomy_refs: []
+  basis: The passage says two persons are never laid in the same grave because their
+    ghosts would quarrel and the defeated ghost would avenge itself on the living.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a mortuary rule and belief statement rather than an extended mythic
+    episode.
+- id: motif:4
+  label: crossroads disposal of suicides
+  taxonomy_refs: []
+  basis: The passage states that suicides are burned at crossroads and that precautions
+    are observed when passing the spot.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly explain the symbolic significance of the
+    crossroads.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6333-6336
+  quote_or_summary: "“throw bits of stick or grass upon the grave, to prevent the
+    ghost from entering into them and being reborn.”"
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 6336-6338
+  quote_or_summary: Grave mounds eventually become large enough to deflect a path
+    and attract the notice of travellers.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6340-6343
+  quote_or_summary: Suicides are burned at crossroads, using material from the house
+    or tree where the act occurred as fuel.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6343-6346
+  quote_or_summary: Women passing the spot observe the same precautions to prevent
+    ghosts from entering them and being reborn.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6348-6350
+  quote_or_summary: Two persons are never laid in the same grave, although they may
+    be buried side by side only a foot apart.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6350-6353
+  quote_or_summary: People believe that ghosts buried together would quarrel for priority
+    and that the defeated ghost would take vengeance on the living.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 6355-6356
+  quote_or_summary: Slaves are buried on part of their master's estate without ceremony.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 6356-6357
+  quote_or_summary: People fear leaving slaves on waste land for wild animals because
+    medicine-men say neglected slave ghosts have caused sickness and death.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    limited because the passage is ethnographic description rather than a mythic narrative.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l6333-l6357
+  passage_sha256=5b1a076e8f07e8ce276dbd1f3e22ba44fb3f68f303db67774f5ed3b96f96fb5e
+

@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.arctic-inuit-eskimo-baffin-hudson-2-boas-archive-l8315-l8336
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+passage_locator:
+  label: TALES FROM THE WEST COAST OF HUDSON BAY. / NOTES ON LEGENDS. / VI. TEXTS
+    FROM CUMBERLAND SOUND. / CONCLUSION.; lines 8315-8336
+  start: '8315'
+  end: '8336'
+  translation: The Eskimo of Baffin Land and Hudson Bay, Part II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: taboos have the effect of preventing contact between land-animals and sea-animals
+  summary: The passage argues that taboos separating land animals from sea animals
+    are strongly marked in Baffin Land and Hudson Bay, compares this with other Eskimo
+    regions, notes a contradictory Rasmussen report, and proposes that the taboos
+    express a contrast between inland and maritime life.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author states that among the Eskimo, many taboos prevent contact between
+    land-animals and sea-animals.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says these taboos appear strongly and markedly in customs recorded
+    from Baffin Land and Hudson Bay.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The author notes a contradictory Rasmussen incident in which Eskimo hunters
+    treated one another with walrus and caribou meat while hunting.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author suggests that the taboos may express a sharp distinction between
+    inland life and maritime life.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author presents as venturesome the hypothesis that Eskimo tribes may once
+    have been inland people who went down to the sea and adopted maritime pursuits
+    while keeping maritime life apart from inland life.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says the contrast between maritime and inland life may have taken
+    outward form in the development of taboos.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eskimo
+  description: Collective people among whom the passage says land-animal and sea-animal
+    separation taboos are found.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Eskimo hunters in Rasmussen's report
+  description: People described in a reported hunting incident as treating one another
+    with walrus and caribou meat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Rasmussen
+  description: Person cited as describing a contradictory incident from personal experience.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Practitioners of land-and-sea animal separation taboos
+  assigned_to:
+  - fig:1
+  basis: The passage states that among Eskimo a number of taboos prevent contact between
+    land-animals and sea-animals.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Actors in contradictory hunting exchange
+  assigned_to:
+  - fig:2
+  basis: The passage cites a report in which hunters treated one another with walrus
+    and caribou meat.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Reporter of contradictory incident
+  assigned_to:
+  - fig:3
+  basis: Rasmussen is named as the source of the described personal experience.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Hypothesized inland-to-maritime transition group
+  assigned_to:
+  - fig:1
+  basis: The author ventures the hypothesis that Eskimo tribes were once inland people
+    who went down to the sea and adopted maritime pursuits.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: land-animals
+  literal_form: land-animals
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sea-animals
+  literal_form: sea-animals
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: walrus meat
+  literal_form: walrus meat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: caribou meat
+  literal_form: caribou meat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: sea or maritime life
+  literal_form: the sea; maritime life
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: inland life
+  literal_form: inland life
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Statement of animal-contact taboos
+  summary: The passage states that taboos preventing contact between land-animals
+    and sea-animals are widespread among Eskimo and especially strong in Baffin Land
+    and Hudson Bay records.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contradictory hunting exchange
+  summary: The passage cites Rasmussen's report of hunters sharing walrus and caribou
+    meat as a contradictory incident.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Interpretation through inland and maritime contrast
+  summary: The author explains the taboos as an outward expression of a perceived
+    contrast between inland life and maritime life, with a tentative historical hypothesis
+    about movement from inland to sea.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Separation of land and sea animal domains
+  taxonomy_refs:
+  - duality
+  basis: The central pattern is a taboo boundary preventing contact between land-animals
+    and sea-animals.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is extracted from an ethnographic conclusion rather than a narrated
+    myth episode.
+- id: motif:2
+  label: Taboo as boundary between inland and maritime life
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly interprets the taboos as the outward form of a contrast
+    between inland and maritime life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The explanation is the author's interpretation, not a directly narrated
+    Indigenous statement in this passage.
+- id: motif:3
+  label: Tentative inland-to-sea transition with maintained separation
+  taxonomy_refs: []
+  basis: The author speculates that Eskimo tribes may have been inland people who
+    went down to the sea and adopted maritime pursuits while keeping them apart from
+    inland life.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage itself calls this claim venturesome and presents it as an
+    attractive hypothesis rather than a settled conclusion.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously compares Baffin Land and Hudson Bay with other Eskimo
+    regions, suggesting that land/sea animal separation taboos may exist more widely
+    but are less pronounced outside Baffin Land and Hudson Bay.
+  claim_level: same_function
+  target: other Eskimo regions outside Baffin Land and Hudson Bay
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The author says the taboos are not as pronounced elsewhere and notes
+    a contradictory Rasmussen incident.
+- id: claim:2
+  claim: The passage suggests that the land/sea separation taboo may be more fundamental
+    west of Baffin Bay, where Eskimo groups spent a considerable part of life inland.
+  claim_level: same_function
+  target: regions west of Baffin Bay where Eskimo life included substantial inland
+    residence
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The claim is conditional and framed by the author as likely only if
+    the reported custom is more fundamental in those regions.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8315-8322
+  quote_or_summary: '"a considerable number of taboos have the effect of preventing
+    contact between land-animals and sea-animals"; the author says these taboos appear
+    strongly in Baffin Land and Hudson Bay.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 8322-8325
+  quote_or_summary: Rasmussen is cited as describing a personal hunting experience
+    in which Eskimo treated one another with walrus and caribou meat, presented as
+    a contradictory incident.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 8325-8331
+  quote_or_summary: The author says it may be likely that these taboos express a sharp
+    distinction between inland life and maritime life and ventures a hypothesis that
+    Eskimo tribes were once inland people who went down to the sea and adopted maritime
+    pursuits.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 8331-8336
+  quote_or_summary: The passage states that the contrast between maritime and inland
+    life, including differences in economic conditions and daily conduct, may have
+    developed in the Eskimo mind and taken outward form in taboos.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear about taboos and interpretive contrasts, but it is an
+    ethnographic commentary rather than a mythic narrative; several motif labels therefore
+    require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or unsupported taxonomy IDs were added. The available symbol taxonomy reference 'water' is used only for the explicitly mentioned sea/maritime sphere.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:arctic-inuit-eskimo-baffin-hudson-2-boas-archive__l8315-l8336
+  passage_sha256=377f3e001c5b9a42f2d4a48dc0461e6f5bdc6e8430cf28d05a8b806736c5c381
+

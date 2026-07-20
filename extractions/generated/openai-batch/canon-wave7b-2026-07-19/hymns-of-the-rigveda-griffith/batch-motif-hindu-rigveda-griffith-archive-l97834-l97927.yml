@@ -1,0 +1,487 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l97834-l97927
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEM N , / ADHYAYA 4. / KEITEL O / ARANYAKA II; lines 97834-97927
+  start: '97834'
+  end: '97927'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives notes on meditations connected with sacrifice, then presents
+    an Aitareya Aranyaka section identifying the hymn with man and Prajapati, mapping
+    the hymn onto bodily faculties, equating the eighty verses with food, describing
+    earth and heaven in terms of food and feeder, and listing a sequence called the
+    origin of seed from Prajapati through gods, rain, herbs, food, creatures, heart,
+    mind, speech, and action.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note states that Aranyaka II, 1-3 aims to enable concentration of thought
+    by meditating on things connected with sacrifice, and that such meditation is
+    a matter of choice rather than an obligatory part of the sacrifice.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: obs:2
+  text: The hymn is said to praise the sun.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: With reference to the self, the hymn is identified as man, as great, and as
+    Prajapati; the knower is instructed to know that he is the hymn.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The hymn is mapped to bodily loci and faculties: mouth and speech, nostrils
+    and breath, the bend of the nose as the place of the brilliant one, and forehead
+    and eye.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The eighty verses are called food with reference to both gods and self; food
+    is said to obtain all and to sustain the breathing of beings.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Food is said to enable conquest of this world and that world.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Earth is described as both food and feeder, and heaven and earth are said
+    to consume what passes between them.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A person is said to become feeder and food, and not to be lord of what he
+    neither eats nor is eaten by.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A seed-origin sequence runs from Prajapati to gods, rain, herbs, food, seed,
+    creatures, heart, mind, speech, and action.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A note interprets the priest's identification with the hymn and Prajapati
+    as making him subject and object in one.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Prajapati
+  description: Named as the figure with whom the hymn/man is identified, and as the
+    source whose seed is the gods.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: The gods
+  description: Named in the seed sequence as the seed of Prajapati and as the source
+    whose seed is rain; the eighty verses are also discussed with reference to the
+    gods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Sun
+  description: Celestial figure praised by the hymn.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Man / knower
+  description: The hymn is identified as man; he is instructed to know that he is
+    the hymn and later is said to become feeder and food.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: Earth
+  description: Cosmic region or entity described as food and feeder, from which all
+    that exists springs, and which consumes what comes from heaven.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Heaven
+  description: Cosmic region or entity said to consume what goes forth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: identified cosmic self
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage identifies the hymn as man and Prajapati, and instructs the knower
+    to know that he is the hymn.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: generative source in seed chain
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The seed of Prajapati is the gods, and the seed of the gods is rain.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: praised celestial target
+  assigned_to:
+  - fig:3
+  basis: The hymn is said to praise the sun.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ritual or meditative knower
+  assigned_to:
+  - fig:4
+  basis: The instruction says, 'Let him know that he is the hymn.'
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: food-and-feeder participant
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Earth is called both food and feeder, and the person becomes feeder and food.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: consumer in cosmic exchange
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Heaven and earth are each described as consuming what passes from the other.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Hymn as self and cosmic person
+  literal_form: hymn
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Eighty verses as food
+  literal_form: eighty verses called food
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Food as sustaining and conquering power
+  literal_form: food
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Earth as food and feeder
+  literal_form: earth
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Heaven-earth consumption exchange
+  literal_form: heaven and earth consuming what passes between them
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Rain in seed sequence
+  literal_form: rain
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Seed as generative succession
+  literal_form: seed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: Body faculties as hymn locations
+  literal_form: mouth, nostrils, bend of nose, forehead, speech, breath, eye
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: Interior sequence from heart to action
+  literal_form: heart, mind, speech, action
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Optional meditation connected with sacrifice
+  summary: A note explains that the relevant Aranyaka material concerns meditation
+    on sacrifice-connected things and presents such meditation as optional rather
+    than an obligatory sacrificial act.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:10
+- id: scene:2
+  label: Hymn identified with man, Prajapati, and body faculties
+  summary: The hymn praises the sun and is identified with man and Prajapati; it is
+    then mapped to mouth, nostrils, nose-bend, forehead, speech, breath, and eye.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Eighty verses and the food-feeder relation
+  summary: The eighty verses are described as food for gods and self, and earth, heaven,
+    and the person are described through relations of feeding and being food.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Origin of seed sequence
+  summary: The passage lists successive seeds or origins from Prajapati to gods, rain,
+    herbs, food, seed, creatures, heart, mind, speech, and action.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  - sym:9
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Meditative interiorization or substitution for sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The notes describe meditation on things connected with sacrifice and state
+    that these speculations function as a practical substitute without openly rejecting
+    sacrifice.
+  evidence_refs:
+  - ev:1
+  - ev:10
+  confidence: medium
+  cautions: This is drawn from explanatory notes rather than a narrative episode in
+    the translated passage.
+- id: motif:2
+  label: Ritual text as cosmic human self
+  taxonomy_refs:
+  - wisdom
+  basis: The passage instructs the knower to identify himself with the hymn, and identifies
+    the hymn with man, Prajapati, and bodily faculties.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a doctrinal correspondence pattern, not a hero narrative.
+- id: motif:3
+  label: Food and feeder reciprocal identity
+  taxonomy_refs: []
+  basis: Earth is both food and feeder; the person becomes feeder and food, and the
+    note interprets the identification as subject and object in one.
+  evidence_refs:
+  - ev:5
+  - ev:9
+  confidence: medium
+  cautions: The wording supports reciprocal identity, but broader metaphysical classification
+    should be reviewed.
+- id: motif:4
+  label: Cosmic generative chain of seed
+  taxonomy_refs: []
+  basis: The passage explicitly presents the origin of seed as a chain from Prajapati
+    through gods, rain, herbs, food, seed, creatures, heart, mind, speech, and action.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives a sequence of origins, but not a full birth myth or
+    genealogy narrative.
+comparison_claims:
+- id: claim:1
+  claim: A note explicitly links the passage's treatment of uktha or the hymn's secret
+    reference to Brhadaranyaka Upanishad V.13.1 and Kausitaki Upanishad III.3.
+  claim_level: linguistic_similarity
+  target: Brhadaranyaka Upanishad V.13.1; Kausitaki Upanishad III.3
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited Upanishadic passages are only referenced in the note; their
+    text is not included here for direct comparison.
+- id: claim:2
+  claim: A note compares the bend-of-nose or brow-breath junction motif to Jabala
+    Upanishad II, where the junction of brows and breath is associated with the highest-world
+    junction.
+  claim_level: same_function
+  target: Jabala Upanishad II brow and breath junction
+  evidence_refs:
+  - ev:3
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is mediated by an explanatory note, and the full target
+    passage is not present in the provided text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 97841-97853
+  quote_or_summary: The note says Aranyaka II, 1-3 aims at concentration of thought
+    through meditating on things connected with sacrifice, and lists principles governing
+    such meditation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 97862-97867
+  quote_or_summary: '"It praises the sun... The hymn is man, He is great and is Prajapati.
+    Let him know that he is the hymn."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 97867-97874
+  quote_or_summary: The hymn is linked to mouth/speech, nostrils/breath, the bend
+    of the nose as the place of the brilliant one, and forehead/eye.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 97862-97878
+  quote_or_summary: The eighty verses are repeatedly called food; food is said to
+    obtain all, sustain breathing beings, and conquer this world and that world.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 97878-97885
+  quote_or_summary: '"So earth is both food and feeder. He becomes feeder and food."
+    The surrounding lines say heaven and earth consume what passes between them.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short excerpt with summary.
+- id: ev:6
+  type: summary
+  locator: lines 97921-97927
+  quote_or_summary: 'The origin of seed is listed: Prajapati''s seed is the gods;
+    the gods'' seed is rain; rain''s seed is herbs; herbs'' seed is food; food''s
+    seed is seed; seed''s seed is creatures; creatures'' seed is the heart; heart''s
+    seed is mind; mind''s seed is speech; speech''s seed is action.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 97855-97860
+  quote_or_summary: A note discusses the secret reference and derivation of uktha
+    and cites Brhadaranyaka Upanishad V.13.1 and Kausitaki Upanishad III.3 for comparison.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 97887-97893
+  quote_or_summary: A note cites Jabala Upanishad II concerning the junction of the
+    brows and breath, described as a junction of the highest world.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 97913-97918
+  quote_or_summary: A note calls the passage obscure and says the priest identifies
+    himself with the hymn and Prajapati, becoming subject and object in one.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 97853-97855
+  quote_or_summary: A note states that the final rule let Brahmins avoid open rejection
+    of sacrifice while justifying their speculations as a practical substitute for
+    sacrifice.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The source excerpt contains OCR corruption and blends translation with explanatory
+    notes; extraction is limited to explicit wording and note-supported comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures, taxonomy references, or comparisons beyond those supported by the supplied passage and metadata have been added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l97834-l97927
+  passage_sha256=1e3688093bb398a96fd7960fa87021db9a4a78eeea18b80ff7a85f160623f06f
+

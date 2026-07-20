@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l22255-l22265
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: APOTHEOSES. / DWELLINGS OF GODS. / WORSHIP. / TABOOS.; lines 22255-22265
+  start: '22255'
+  end: '22265'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A section on taboos reports that Iowa informants told Mr. Hamilton that
+    members of any gens could not eat the flesh of their eponymic animal. It then
+    records taboos obtained from a Missouri informant: members of a Black Bear gens
+    among Oto and Missouri groups cannot touch a clam shell, and Momi people, a subgens
+    of the Missouri Bird gens, avoid small birds killed by large birds and the feathers
+    of those small birds.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented under the heading “TABOOS.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mr. Hamilton was told by the Iowa that no member of any gens could eat the
+    flesh of that gens's eponymic animal.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author obtained additional taboos from a Missouri informant named Cka:|oe-yiue
+    or Ckajoinye, who visited the Omaha in 1879.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Members of the Tuna*»p'i°, described as a Black Bear gens in the Oto and Nyut'atci
+    or Missouri tribes, cannot touch a clam shell.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Momi people are described as now a subgens of the Missouri Bird gens.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Momi people abstain from small birds killed by large birds and cannot
+    touch the feathers of such small birds.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mr. Hamilton
+  description: A person who was told by the Iowa about a gens food prohibition.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Iowa
+  description: The group reported as telling Mr. Hamilton that members of any gens
+    could not eat the flesh of the eponymic animal.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Members of any gens
+  description: People subject to a prohibition against eating the flesh of the gens's
+    eponymic animal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Cka:|oe-yiue or Ckajoinye
+  description: A Missouri informant who visited the Omaha in 1879 and from whom the
+    author gained taboos.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Tuna*»p'i° / Black Bear gens
+  description: A Black Bear gens in the Oto and Nyut'atci or Missouri tribes whose
+    members cannot touch a clam shell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Momi people
+  description: A group described as now a subgens of the Missouri Bird gens; they
+    avoid specified small birds and feathers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: recipient of reported taboo
+  assigned_to:
+  - fig:1
+  basis: Mr. Hamilton is described as being told the rule by the Iowa.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: informant or reporting group
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The Iowa tell Mr. Hamilton a taboo, and the Missouri named Cka:|oe-yiue or
+    Ckajoinye provides taboos to the author.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: taboo-observing group
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:6
+  basis: These gens or subgens members are described as unable to eat, touch, or otherwise
+    use specified animals or objects.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Eponymic animal flesh
+  literal_form: the flesh of the eponymic animal of a gens
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Clam shell
+  literal_form: a clam shell that members of the Black Bear gens cannot touch
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Small birds killed by large birds
+  literal_form: small birds that have been killed by large birds
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Feathers of taboo small birds
+  literal_form: feathers of small birds killed by large birds
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Iowa report of eponymic animal food taboo
+  summary: The Iowa are said to have told Mr. Hamilton that members of a gens could
+    not eat the flesh of their eponymic animal.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Missouri informant's taboos for Oto and Missouri groups
+  summary: A Missouri informant supplies taboos involving the Black Bear gens, who
+    cannot touch clam shell, and the Momi people, who avoid certain small birds and
+    their feathers.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Eponymic animal food taboo
+  taxonomy_refs: []
+  basis: The passage states that members of any gens could not eat the flesh of the
+    gens's eponymic animal.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage reports the rule but does not explain its origin, ritual context,
+    or meaning.
+- id: motif:2
+  label: Gens or subgens avoidance of specified objects and animals
+  taxonomy_refs: []
+  basis: Named gens or subgens groups are associated with prohibitions against touching
+    clam shell, eating specified small birds, and touching their feathers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives examples of taboos but does not state whether all are
+    structurally equivalent or why these specific objects and animals are prohibited.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the Iowa report and the Missouri informant's examples
+    show a shared functional pattern in which membership in a gens or subgens entails
+    avoidance of specified animals, animal parts, or objects.
+  claim_level: same_function
+  target: gens and subgens taboo patterns reported for Iowa, Oto, and Missouri contexts
+    in this passage
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports functional similarity only; it does not establish
+    historical contact, common inheritance, or a shared explanation for the taboos.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 22255-22256
+  quote_or_summary: "“TABOOS.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 22257-22258
+  quote_or_summary: Mr. Hamilton was told by the Iowa that no member of any gens could
+    eat the flesh of the eponymic animal.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 22260-22262
+  quote_or_summary: The author gained the following taboos from a Missouri informant,
+    Cka:|oe-yiue or Ckajoinye, who visited the Omaha in 1879.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 22262-22264
+  quote_or_summary: The members of the Tuna*»p'i°, a Black Bear gens in the Oto and
+    Nyut'atci or Missouri tribes, cannot touch a clam shell.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 22264-22265
+  quote_or_summary: The Momi people, now a subgens of the Missouri Bird gens, abstain
+    from small birds killed by large birds and cannot touch the feathers of such small
+    birds.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly lists taboos and associated groups. Motif labels are
+    descriptive and not tied to a supplied taxonomy family. Comparison is limited
+    to a same-function pattern within the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied because the supplied motif and symbol lists do not include a direct taboo, gens, bear, bird, feather, or shell category.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l22255-l22265
+  passage_sha256=352863f09547a856f8ac98277ae658fcd747f15177a0173bd6a7b9f9111b9a88
+

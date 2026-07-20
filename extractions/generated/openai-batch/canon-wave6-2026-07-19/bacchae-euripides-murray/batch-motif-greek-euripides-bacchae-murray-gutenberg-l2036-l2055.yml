@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2036-l2055
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 2036-2055
+  start: '2036'
+  end: '2055'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“I will lie / Hid in the pine-brake.”"
+  summary: Dionysus asks whether Pentheus would damage the wild temples of the Nymphs
+    and the rocks where Pan plays. Pentheus rejects force against women and says he
+    will hide in the pine-brake. Dionysus describes this as the proper posture of
+    a spy on holy and fearful things. Pentheus laughs and imagines the women lying
+    among the leaves like wild birds caught by love.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus asks whether Pentheus would wreck the Nymphs' wild temples and the
+    brown rocks where Pan pipes at noonday.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pentheus says force is not good with women and states that he will lie hidden
+    in the pine-brake.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dionysus says Pentheus will lie as fits a spy on holy and fearful things.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pentheus laughs while saying that the women lie there like wild birds caught
+    by love among the leaves.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'The passage names a wild sacred landscape: Nymphs'' temples, brown rocks,
+    Pan piping at noonday, a pine-brake, and leaves.'
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: A speaker who questions Pentheus about damaging wild sacred places
+    and then characterizes Pentheus's hiding as spying on holy and fearful things.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Pentheus
+  description: A speaker who rejects force against women, plans to hide in the pine-brake,
+    and laughs while imagining the women among leaves.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Nymphs
+  description: Beings associated with the wild temples Dionysus says might be wrecked.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Pan
+  description: A being associated with the brown rocks, where he pipes at noonday.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: women
+  description: The women whom Pentheus discusses in relation to force and imagines
+    lying among leaves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: framing speaker
+  assigned_to:
+  - fig:1
+  basis: Dionysus frames the place as sacred to Nymphs and Pan and frames Pentheus's
+    hiding as spying on holy and fearful things.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: would-be hidden watcher
+  assigned_to:
+  - fig:2
+  basis: Pentheus says he will lie hidden in the pine-brake, and Dionysus calls this
+    the posture of a spy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: figures associated with wild sacred place
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Nymphs are linked to wild temples, and Pan is linked to rocks where he
+    pipes at noonday.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: intended objects of concealed observation
+  assigned_to:
+  - fig:5
+  basis: Pentheus rejects force against women, chooses hiding, and then imagines them
+    lying among leaves.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: wild temples and brown rocks
+  literal_form: The Nymphs' wild temples and brown rocks where Pan pipes at noonday.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pine-brake hiding place
+  literal_form: A pine-brake where Pentheus says he will lie hidden.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: holy and fearful things
+  literal_form: The unnamed holy and fearful things that Dionysus says a spy would
+    watch.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wild birds among leaves
+  literal_form: Pentheus's image of the women as wild birds caught by love among the
+    leaves.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Proposal to hide in the wild sacred landscape
+  summary: Dionysus invokes the Nymphs' temples and the rocks where Pan pipes. Pentheus
+    says he will not use force against women and will instead hide in the pine-brake.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hidden watching framed as spying on sacred things
+  summary: Dionysus identifies Pentheus's hidden posture as that of a spy on holy
+    and fearful things. Pentheus laughs and imagines the women lying among leaves
+    like love-caught wild birds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: concealed spying on holy or forbidden things
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Pentheus plans to hide, and Dionysus explicitly describes him as a spy on
+    holy and fearful things.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states concealment and spying on sacred matters, but it does
+    not by itself give the consequence or a full prohibition formula.
+- id: motif:2
+  label: wild sacred landscape of nature beings
+  taxonomy_refs: []
+  basis: The passage presents Nymphs' wild temples, rocks where Pan pipes, and vegetation
+    as the landscape of the exchange.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a setting-pattern candidate rather than a full narrative motif.
+- id: motif:3
+  label: eroticized animal image for hidden women
+  taxonomy_refs: []
+  basis: Pentheus imagines the women lying among leaves as wild birds caught by love.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The image is spoken by Pentheus and may reflect his perception rather
+    than an objective event in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2036-2040
+  quote_or_summary: Dionysus asks if Pentheus would wreck the Nymphs' wild temples
+    and the brown rocks where Pan pipes at noonday.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: 2041-2045
+  quote_or_summary: 'Pentheus: “Force is not well with women. I will lie / Hid in
+    the pine-brake.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 2046-2049
+  quote_or_summary: Dionysus says that Pentheus will lie as fits “a spy / On holy
+    and fearful things.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 2050-2055
+  quote_or_summary: Pentheus laughs and says the women lie there like wild birds caught
+    by love among the leaves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Figures, setting, and immediate actions are explicit in the passage. Motif
+    labels are cautious because the passage excerpt gives only a short exchange and
+    not the full ritual or outcome context. No external comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata; taxonomy references are limited to supplied available refs.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2036-l2055
+  passage_sha256=238ad191e51ebd2d575a7b6d63470890402d596a13f2f4c9787f9f245d1de443
+

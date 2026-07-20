@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.andamanese-aboriginal-inhabitants-andaman-man-archive-l10120-l10228
+source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+passage_locator:
+  label: ANDAMANESE EQUIPPED FOR JOURNEY. / ANDAMANESE SHOOTING, DANCING, SLEEPING,
+    AND GREETING. / PLATE IX. / SHOOTING FISH IN TIDAL CREEK NEAR PORT BLAIR.; lines
+    10120-10228
+  start: '10120'
+  end: '10228'
+  translation: On the Aboriginal Inhabitants of the Andaman Islands
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses Andamanese canoes, including dug-outs and outriggers,
+    their construction, speed, safety, and coastal use. It also reports a current
+    tradition that four persons escaped in a boat when the world was submerged, and
+    says the outrigger was adopted after the Deluge because a Pandanus tree species
+    deteriorated.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Andamanese canoes are described as slower than Port Blair gigs and made from
+    light, soft woods because the boat-builder formerly had only a rude adze for shaping
+    them.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The Andamanese consider their canoes superior in one respect: the projecting
+    prow makes spearing fish and turtle easier than in other boats.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A current tradition says four persons escaped in a boat when the world was
+    submerged.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Andamanese state that the outrigger canoe was adopted immediately after
+    the Deluge because a Pandanus tree species deteriorated; before the catastrophe,
+    that tree had supplied material for large plain dug-outs.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An Andamanese chief is cited as saying that outrigger canoes have been used
+    from time immemorial, while large plain canoes became easier to make after iron
+    became available.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says Andamanese canoes are used close to coasts and that their
+    owners avoid long passages through deep water when moving between islands.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Large plain dug-outs are described as better for rough sea and able to accommodate
+    larger parties than outrigger canoes.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Andamanese
+  description: The people whose canoes, boat-building, traditions, and travel practices
+    are described.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: four persons in a boat
+  description: Unspecified persons in the reported tradition who escaped when the
+    world was submerged.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Andamanese chief
+  description: A cited informant who explains canoe use from time immemorial and recent
+    adoption of large plain canoes due to access to iron.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: boat-builders and canoe users
+  assigned_to:
+  - fig:1
+  basis: The passage describes their canoe construction, use, and evaluation of canoe
+    types.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:2
+  label: holders of Deluge-related canoe tradition
+  assigned_to:
+  - fig:1
+  basis: The text reports what the Andamanese themselves declare about outriggers
+    after the Deluge and antediluvian dug-outs.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: flood survivors
+  assigned_to:
+  - fig:2
+  basis: They are described as escaping in a boat when the world was submerged.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: informant
+  assigned_to:
+  - fig:3
+  basis: The passage quotes information obtained from an Andamanese chief about canoe
+    types and iron.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: boat or canoe
+  literal_form: boat, canoe, outrigger, dug-out
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: submerging waters
+  literal_form: world submerged, Deluge, sea, deep water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: Pandanus tree
+  literal_form: species of Pandanus tree called mdng-I
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: projecting prow
+  literal_form: projecting prow of the canoe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: iron
+  literal_form: iron used to make large plain canoes more easily
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Escape during world-submergence
+  summary: A reported tradition states that four persons escaped in a boat when the
+    world was submerged.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Post-Deluge change in canoe form
+  summary: The Andamanese are said to explain the adoption of outriggers as occurring
+    after the Deluge, when deterioration of a Pandanus species ended the earlier use
+    of large plain dug-outs.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Coastal canoe travel
+  summary: The passage describes Andamanese canoe travel as coastal, avoiding long
+    deep-water crossings and choosing the narrowest channel passages.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Canoe technology and use
+  summary: The passage contrasts outrigger and large plain dug-out canoes in material,
+    seaworthiness, rough-water use, capacity, and suitability for fishing and turtle-spearing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: survival by boat during world-submergence
+  taxonomy_refs:
+  - flood_and_renewal
+  - ark_vessel
+  basis: The passage explicitly reports a tradition in which four persons escape in
+    a boat when the world is submerged.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief ethnographic reference and does not narrate
+    details of the flood, renewal, destination, or aftermath.
+- id: motif:2
+  label: post-catastrophe transformation of technology
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage says the outrigger was adopted immediately after the Deluge because
+    a useful Pandanus species deteriorated, replacing earlier large plain dug-outs.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an explanatory tradition about canoe form and materials rather
+    than a full mythic narrative.
+- id: motif:3
+  label: specialized boat feature enabling hunting from water
+  taxonomy_refs: []
+  basis: The passage says the projecting prow of Andamanese canoes enables easier
+    spearing of fish and turtle.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a technological and subsistence pattern, not clearly a mythological
+    motif in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The reported tradition belongs at least functionally to a flood-survival
+    pattern in which human survivors are preserved by a vessel during world-submergence.
+  claim_level: same_function
+  target: flood-survival by vessel / ark-vessel motif family
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only an abbreviated report and does not establish
+    historical contact, common inheritance, or detailed narrative parallels.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10120-10228
+  quote_or_summary: Andamanese canoes are described as slower than common Port Blair
+    gigs; because only a rude adze was formerly available, builders selected light,
+    soft woods.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10120-10228
+  quote_or_summary: The passage says Andamanese consider their canoes superior only
+    in the projecting prow, which helps them spear fish and turtle.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 10120-10228, paragraph 3
+  quote_or_summary: "“the escape of four persons in a boat when the world was submerged”"
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 10120-10228, paragraph 4
+  quote_or_summary: The Andamanese declare that the outrigger was adopted immediately
+    after the Deluge because a Pandanus tree called mdng-I deteriorated; before that
+    catastrophe, they had made large plain dug-outs from it.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 10120-10228, footnote to paragraph 4
+  quote_or_summary: An Andamanese chief says outrigger canoes have been used from
+    time immemorial and that large plain canoes were recently made possible by easier
+    access to iron.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 10120-10228, paragraphs 5-6
+  quote_or_summary: The passage states that Andamanese do not venture far from the
+    coast and, when crossing between islands, keep close to shore and minimize deep-water
+    passage.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 10120-10228, paragraph 8
+  quote_or_summary: Large plain dug-outs are described as more useful than outriggers
+    in rough sea and able to carry parties of fifteen to forty persons, while outriggers
+    are for calm weather.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The canoe technology and travel details are explicit. Mythic motif extraction
+    rests mainly on two brief references to world-submergence and the Deluge, so broader
+    motif identification should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or common-inheritance claims are made; comparison is limited to functional resemblance supported by the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:andamanese-aboriginal-inhabitants-andaman-man-archive__l10120-l10228
+  passage_sha256=829d4b422828e10d981acb11c45de5af10193aaa3ae436a0aad3a748a8f0d9c6
+

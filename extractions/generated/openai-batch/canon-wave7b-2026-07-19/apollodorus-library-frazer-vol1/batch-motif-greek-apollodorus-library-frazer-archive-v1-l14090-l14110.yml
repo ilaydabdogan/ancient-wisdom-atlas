@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.greek-apollodorus-library-frazer-archive-v1-l14090-l14110
+source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+passage_locator:
+  label: VOL. I. Y / VOL. I. Z / VOL. I. AA / VOL, I. DD; lines 14090-14110
+  start: '14090'
+  end: '14110'
+  translation: The Library, Volume I (Apollodorus), with an English Translation by
+    James George Frazer
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A scholarly note discusses Euripides and Atalanta, then the mythographic
+    passage gives variant genealogy: Atalanta is said to be daughter of Maenalus;
+    her husband is identified as Hippomenes rather than Melanion; Parthenopaeus is
+    said to be her son by Melanion or Ares and to have gone to war against Thebes.
+    A note adds another variant naming Meleager as Parthenopaeus’s father.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says Euripides may have named Atalanta’s father and husband in his
+    lost tragedy Meleager.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Atalanta is said to be a daughter of Maenalus.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Atalanta’s husband was not Melanion but Hippomenes.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Parthenopaeus is said to be Atalanta’s son by Melanion or Ares.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Parthenopaeus went to the war against Thebes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note reports another variant in which Parthenopaeus’s father was neither
+    Melanion nor Ares, but Meleager.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Atalanta
+  description: Named woman whose father, husband, and son are discussed.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Maenalus
+  description: Named as Atalanta’s father in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Melanion
+  description: Named as a possible father of Parthenopaeus and rejected as Atalanta’s
+    husband in this version.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Hippomenes
+  description: Named as Atalanta’s husband in this version.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Parthenopaeus
+  description: Named as Atalanta’s son who went to the war against Thebes.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Ares
+  description: Named as a possible father of Parthenopaeus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Meleager
+  description: Named in a note as an alternative father of Parthenopaeus; also the
+    title of a lost tragedy attributed to Euripides in the note.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:8
+  name_or_label: Euripides
+  description: Named in a scholarly note as possibly having named Atalanta’s father
+    and husband in a lost tragedy.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: daughter
+  assigned_to:
+  - fig:1
+  basis: Atalanta is identified as daughter of Maenalus.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: husband or spouse in genealogical notice
+  assigned_to:
+  - fig:4
+  - fig:1
+  basis: The passage identifies Hippomenes, not Melanion, as Atalanta’s husband.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mother
+  assigned_to:
+  - fig:1
+  basis: Atalanta is said to have had a son, Parthenopaeus.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: father of Atalanta
+  assigned_to:
+  - fig:2
+  basis: Maenalus is named as Atalanta’s father.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: rejected husband in this version
+  assigned_to:
+  - fig:3
+  basis: The passage says Atalanta’s husband was not Melanion but Hippomenes.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: possible father of Parthenopaeus
+  assigned_to:
+  - fig:3
+  - fig:6
+  - fig:7
+  basis: Melanion or Ares are named as possible fathers, while a note gives Meleager
+    as another variant.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: son of Atalanta
+  assigned_to:
+  - fig:5
+  basis: Parthenopaeus is identified as Atalanta’s son.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: war participant
+  assigned_to:
+  - fig:5
+  basis: Parthenopaeus is said to have gone to the war against Thebes.
+  evidence_refs:
+  - ev:3
+- id: role:9
+  label: named tragedian in scholarly note
+  assigned_to:
+  - fig:8
+  basis: The note refers to Euripides and his lost tragedy Meleager.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Genealogical variants concerning Atalanta and Parthenopaeus
+  summary: The passage and notes present variant identifications of Atalanta’s father,
+    husband, and the father of her son Parthenopaeus, and mention Parthenopaeus’s
+    participation in the war against Thebes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: contested heroic parentage
+  taxonomy_refs: []
+  basis: 'Parthenopaeus’s paternity is given in alternatives: Melanion or Ares in
+    the main passage, and Meleager in a note reporting other accounts.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is primarily genealogical and notes variant source traditions;
+    it does not narrate a full birth story.
+- id: motif:2
+  label: hero goes to war against Thebes
+  taxonomy_refs: []
+  basis: Parthenopaeus is stated to have gone to the war against Thebes.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only a brief action is stated; the passage gives no details of the expedition
+    or heroic deeds.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14090-14096
+  quote_or_summary: The note says Euripides may have named Atalanta’s father and husband
+    in his lost tragedy Meleager, where Atalanta is named in an existing fragment.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 14099-14102
+  quote_or_summary: "“says that she was a daughter of Maenalus, and that her husband
+    was not Melanion but Hippomenes.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 14102-14104
+  quote_or_summary: "“And by Melanion, or Ares, Atalanta had a son Parthenopaeus,
+    who went to the war against Thebes.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 14106-14110
+  quote_or_summary: A note states that other accounts named Parthenopaeus’s father
+    as neither Melanion nor Ares, but Meleager.
+  source_text_path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is mostly a footnote and brief genealogical notice, so figure
+    and relationship extraction is stronger than motif extraction. No comparison claims
+    are made because the passage only reports variants, not broader comparative parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied taxonomy are explicitly present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:greek-apollodorus-library-frazer-archive-v1__l14090-l14110
+  passage_sha256=7f5ed76676621e369e7d778e8a038f6fd37efd93324e8b3f46c3c61638de06e6
+

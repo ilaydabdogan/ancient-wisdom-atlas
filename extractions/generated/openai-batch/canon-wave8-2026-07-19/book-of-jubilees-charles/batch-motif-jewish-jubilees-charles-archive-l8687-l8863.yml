@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l8687-l8863
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTERS V. 29-VI. 4 49 / CHAPTER VI. 5-16 51 / CHAPTER VI. 17-23 53 / CHAPTER
+    VI. 24-31 55; lines 8687-8863
+  start: '8687'
+  end: '8863'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“And all the days of the commandment will be two and fifty weeks of days,
+    and (these will make) the entire year complete.”"
+  summary: 'The passage and notes describe a calendrical commandment: Noah’s ordained
+    festivals are entered on heavenly tables, the complete year is reckoned as fifty-two
+    weeks or 364 days, and Israel is commanded not to neglect this reckoning from
+    year to year.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Festivals ordained by Noah are described in the note as entered on the heavenly
+    tables.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The year is described as consisting of four seasons, with each season having
+    three months or thirteen weeks.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commandment’s days are described as fifty-two weeks of days, making the
+    entire year complete.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The calendrical reckoning is said to be engraved and ordained on the heavenly
+    tables.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The text states that the commandment is not to be neglected for a single year
+    or from year to year.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The children of Israel are to be commanded to observe the years according
+    to a reckoning of 364 days.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A note states that a solar year of the same 364-day length is also taught
+    in passages of Ethiopic Enoch and Slavonic Enoch.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Noah
+  description: Named in the note as the one by whom the festivals were ordained.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: children of Israel
+  description: The group commanded to observe the years according to the stated reckoning.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: festival ordainer
+  assigned_to:
+  - fig:1
+  basis: The note refers to “the festivals ordained by Noah.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipients of calendrical command
+  assigned_to:
+  - fig:2
+  basis: They are commanded to observe the years according to the 364-day reckoning.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: heavenly tables
+  literal_form: tables in heaven on which the festivals and calendrical ordinance
+    are entered or engraved
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: complete 364-day year
+  literal_form: fifty-two weeks of days; three hundred and sixty-four days
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: fourfold seasonal year
+  literal_form: four seasons, each of three months or thirteen weeks
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Heavenly inscription of the calendrical ordinance
+  summary: The passage presents the calendrical commandment as ordained and engraved
+    on the heavenly tables, with Noah’s festivals entered there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Command to Israel to observe the year reckoning
+  summary: The children of Israel are instructed to observe the years according to
+    the stated 364-day reckoning and not to neglect the commandment.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Heavenly tablets as source of calendrical ordinance
+  taxonomy_refs: []
+  basis: The festivals and the year-commandment are described as entered, engraved,
+    and ordained on the heavenly tables.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The supplied taxonomy has no direct calendar-tablet motif, so no taxonomy
+    reference is assigned.
+- id: motif:2
+  label: Sacred complete year of fifty-two weeks
+  taxonomy_refs: []
+  basis: The passage defines the complete year as fifty-two weeks or 364 days and
+    commands observance according to this reckoning.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: This is a calendrical pattern rather than a narrative motif in the supplied
+    taxonomy.
+- id: motif:3
+  label: Non-neglectable divine or heavenly commandment
+  taxonomy_refs:
+  - covenant
+  basis: The reckoning is described as engraved and ordained on heavenly tables and
+    not to be neglected from year to year.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage uses commandment language but does not explicitly use the
+    word covenant in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s 364-day solar year is explicitly compared in the note with
+    the same length of solar year in Ethiopic Enoch and Slavonic Enoch.
+  claim_level: same_function
+  target: Eth. Enoch lxxiv. 10, 12; lxxv. 2; Slav. Enoch xlviii. 1
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the calendrical reckoning stated in the
+    note; it does not establish historical contact by itself.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8687-8863, note on verse 29
+  quote_or_summary: "“the festivals ordained by Noah are entered on the heavenly tables.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 8687-8863, note on verses 29-30
+  quote_or_summary: The note explains that the year consists of four seasons, and
+    each season has three months or thirteen weeks.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8687-8863, verse 30
+  quote_or_summary: "“all the days of the commandment will be two and fifty weeks
+    of days” and these make “the entire year complete.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 8687-8863, verse 31
+  quote_or_summary: "“Thus it is engraven and ordained on the heavenly tables.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: lines 8687-8863, verse 31
+  quote_or_summary: "“there is no neglecting (this commandment) for a single year
+    or from year to year.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: quote
+  locator: lines 8687-8863, verse 32
+  quote_or_summary: "“command thou the children of Israel that they observe the years
+    according to this reckoning—three hundred and sixty-four days.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: lines 8687-8863, note on verse 32
+  quote_or_summary: The note says a solar year of the same length is also taught in
+    Ethiopic Enoch lxxiv. 10, 12; lxxv. 2 and Slavonic Enoch xlviii. 1.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on a passage combining primary text and editorial
+    notes. Literal calendrical details and the comparison with Enochic texts are explicit;
+    motif labels are cautious because the supplied taxonomy lacks a direct sacred-calendar
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or symbols beyond those directly named or literally described in the supplied passage were added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l8687-l8863
+  passage_sha256=33a57bbb1d4780c258e15e829aecac96c7824be78d4c81bd12252da6f7e946b3
+

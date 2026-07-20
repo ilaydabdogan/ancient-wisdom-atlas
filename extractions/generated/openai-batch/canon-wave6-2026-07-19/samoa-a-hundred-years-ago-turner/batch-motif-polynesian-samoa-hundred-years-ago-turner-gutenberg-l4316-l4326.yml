@@ -1,0 +1,214 @@
+---
+record_id: batch.motif.polynesian-samoa-hundred-years-ago-turner-gutenberg-l4316-l4326
+source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+passage_locator:
+  label: CHAPTER XIII. / HOUSES. / CHAPTER XIV. / CANOES.; lines 4316-4326
+  start: '4316'
+  end: '4326'
+  translation: Samoa, A Hundred Years Ago And Long Before
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Bougainville, seeing the Samoans so often moving about in their canoes, named
+    the group "The Navigators."
+  summary: The passage explains that Bougainville called Samoa “The Navigators” after
+    observing frequent canoe movement, but the author says Samoans were domestic rather
+    than especially enterprising navigators, usually staying within sight of land.
+    The island group’s extent allowed inter-island travel, and longstanding internal
+    intercourse is said to be supported by tradition and uniform customs and language.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Bougainville saw Samoans often moving about in canoes and named the group
+    “The Navigators.”
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Samoans were not especially noted among Polynesians
+    as enterprising navigators.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage describes Samoans as domestic people who rarely ventured out of
+    sight of land.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Samoan group is described as ten inhabited islands stretching about 200
+    miles east and west.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Within the island group, Samoans are said to have maintained intercourse from
+    the earliest times in their history.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Tradition, uniform customs, and uniform language are presented as evidence
+    of longstanding inter-island intercourse.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bougainville
+  description: French navigator who named the Samoan group “The Navigators.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Samoans
+  description: People observed moving in canoes; described as domestic and rarely
+    venturing out of sight of land, while maintaining intercourse among their islands.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: external namer-observer
+  assigned_to:
+  - fig:1
+  basis: Bougainville named the group after seeing Samoans often moving about in canoes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: canoe users
+  assigned_to:
+  - fig:2
+  basis: The passage reports Samoans often moving about in canoes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: inter-island community
+  assigned_to:
+  - fig:2
+  basis: The passage says they maintained intercourse within the island group from
+    earliest times, with uniform customs and language.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: canoes
+  literal_form: canoes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: island group
+  literal_form: ten inhabited islands stretching east and west about 200 miles
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Naming of the group as “The Navigators”
+  summary: Bougainville observes Samoans frequently moving in canoes and names the
+    group “The Navigators.”
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Correction of the navigation reputation
+  summary: The passage rejects the inference that Samoans were especially enterprising
+    navigators and describes them as domestic, usually remaining within sight of land.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bounded inter-island intercourse
+  summary: The island group’s extent provides scope for travel, and longstanding intercourse
+    within the group is linked to tradition and uniformity of customs and language.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: bounded canoe travel among islands
+  taxonomy_refs: []
+  basis: The passage emphasizes frequent canoe movement and longstanding intercourse
+    within a multi-island group, while limiting this travel to a local range rather
+    than distant navigation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic travel pattern rather than a mythic narrative
+    motif; no supplied taxonomy reference directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4316-4318
+  quote_or_summary: "“Bougainville, seeing the Samoans so often moving about in their
+    canoes, named the group ‘The Navigators.’”"
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 4318-4321
+  quote_or_summary: The author says the name might suggest Samoans were enterprising
+    navigators, but states this is not the case; they are domestic and rarely go out
+    of sight of land.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4321-4323
+  quote_or_summary: The group is described as extensive, giving scope for travel,
+    with ten inhabited islands stretching about 200 miles east-west.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4323-4326
+  quote_or_summary: Within these bounds, the Samoans are said to have kept up intercourse
+    from earliest times, supported by tradition and by uniformity of customs and language
+    across the group.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is clear as ethnographic description, but it contains limited
+    mythological motif material and no explicit comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was applied because the passage concerns local canoe movement and inter-island relations rather than a listed mythic motif family.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:polynesian-samoa-hundred-years-ago-turner-gutenberg__l4316-l4326
+  passage_sha256=3c84e1366e51d686ef08fc9eecccf17805311c781be00f4d8feda2d40e44f45b
+

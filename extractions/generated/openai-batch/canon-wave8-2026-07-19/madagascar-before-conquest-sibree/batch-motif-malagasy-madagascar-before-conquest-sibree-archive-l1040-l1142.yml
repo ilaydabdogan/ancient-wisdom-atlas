@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.malagasy-madagascar-before-conquest-sibree-archive-l1040-l1142
+source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+passage_locator:
+  label: ANTANANARIVO FROM THE WEST. SOUTH END OF CITY / CHAPTER L / FROM COAST TO
+    CAPITAL. II / CHAPTER II.; lines 1040-1142
+  start: '1040'
+  end: '1142'
+  translation: 'Madagascar Before the Conquest: The Island, the Country, and the People'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage surveys recent expeditions and map-making in Madagascar, then
+    describes the usual route from Tamatave toward Antananarivo: palanquin travel,
+    coastal lagoons and sea, a canoe segment, hilly vegetation, and a difficult forest
+    ascent to the interior highland.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: MM. Catat and Maistre led an expedition in 1889 that explored parts of Madagascar,
+    corrected mapping of the Onilahy, and collected natural history and anthropological
+    materials.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mr. Baron made a long journey in 1891 along the north-east and north-west
+    coasts of Madagascar and published detailed accounts of it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: M. Alfred Grandidier issued and was completing atlases and historical accounts
+    of Madagascar maps, including ancient, medieval, and recent maps.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Tamatave is described as the usual landing place for travelers going to Imerina
+    and the capital.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that wheeled roads were not practicable and that Europeans
+    and well-to-do Malagasy used the light palanquin or filanjana carried by bearers.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The route from Tamatave runs south along the coast between lagoons and the
+    sea, with level greensward, clumps of trees, forest patches, lakes of calm water,
+    and ocean surf.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: At Andevoranto, travelers hire canoes for a half-day voyage before resuming
+    palanquin travel into hilly country with Traveller's-tree, bamboo, and rofia palm.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The forest-belt crossing is described as very hard for bearers, with steep
+    gradients, slippery clay after rain, and an overall ascent to the interior highland.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: MM. Catat and Maistre
+  description: Leaders of an 1889 expedition in Madagascar.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mr. Baron
+  description: Traveler who made a long journey along the north-east and north-west
+    coasts in 1891.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: M. Alfred Grandidier
+  description: French traveller and scientist associated with atlases and geographical
+    works on Madagascar.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Europeans and well-to-do Malagasy travelers
+  description: Travelers described as using the light palanquin or filanjana.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Bearers
+  description: Men who carry palanquins and other necessary loads on journeys.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+roles:
+- id: role:1
+  label: traveller or explorer
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage describes these named persons as leading expeditions, making
+    long journeys, or being a traveller.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: map compiler or geographical author
+  assigned_to:
+  - fig:3
+  basis: Grandidier is described as issuing atlases and geographical works on Madagascar
+    maps.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: palanquin traveler
+  assigned_to:
+  - fig:4
+  basis: Europeans and well-to-do Malagasy are said to use the light palanquin or
+    filanjana.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: bearer or porter
+  assigned_to:
+  - fig:5
+  basis: Bearers carry palanquins, bedding, stores, clothing, and other necessaries,
+    and toil with loads in the forest ascent.
+  evidence_refs:
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: map and atlas
+  literal_form: Ancient, medieval, recent, and scientific maps of Madagascar gathered
+    in atlases and geographical works.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: palanquin or filanjana
+  literal_form: Light palanquin carried on the shoulders of four bearers.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: water route and waterscape
+  literal_form: Lagoons, broad lakes, Indian Ocean surf, river Iharoka, and tributary
+    canoe route.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: Traveller's-tree and forest vegetation
+  literal_form: Traveller's-tree, bamboo, rofia palm, clumps of trees, and forest
+    patches.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: upward path to highland
+  literal_form: Steep ascents and descents through forest that nevertheless rise to
+    the interior highland.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Recent exploration and mapping of Madagascar
+  summary: The passage recounts named expeditions and map-making projects by Catat
+    and Maistre, Baron, and Grandidier.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Departure route and palanquin travel from Tamatave
+  summary: Travelers land at Tamatave for Imerina and the capital; lacking wheeled
+    roads, they use palanquins carried by bearers.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Coastal passage between lagoons and sea
+  summary: The road first follows a level coastal path between lagoons and the sea,
+    with water, trees, forest patches, and surf.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Canoe segment and hilly vegetation zone
+  summary: At Andevoranto, travelers take canoes on the Iharoka and a tributary, then
+    resume palanquin travel through hilly country marked by Traveller's-tree, bamboo,
+    and rofia palm.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Forest-belt ascent to the interior highland
+  summary: The bearers endure difficult steep and slippery paths through forest, and
+    the route ultimately rises to the first major level of the interior highland.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: coast-to-capital journey through successive landscape zones
+  taxonomy_refs: []
+  basis: The passage presents a sequential route from port to inland capital, moving
+    through coast, lagoons and sea, river canoe passage, hilly vegetation, forest,
+    and highland.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a literal travel description, not a mythic itinerary in the supplied
+    passage.
+- id: motif:2
+  label: ascent from low coast to interior highland
+  taxonomy_refs:
+  - ascent
+  basis: The route is described as gradually gaining elevation and finally ascending
+    the first great step upwards to the interior highland.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The ascent is geographical and practical; the passage does not frame it
+    as ritual, cosmological, or mythological.
+- id: motif:3
+  label: water passage followed by overland journey
+  taxonomy_refs: []
+  basis: The passage includes a coastal lagoons-and-sea segment and a canoe voyage
+    on a river and tributary before palanquin travel resumes inland.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The pattern is literal itinerary structure only; no symbolic or mythic
+    function is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1040-1057
+  quote_or_summary: Catat and Maistre arrived in 1889, explored parts of eastern and
+    southern Madagascar, discovered sources of the Onilahy, corrected its mapped course,
+    and made scientific collections.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 1058-1068
+  quote_or_summary: Baron made a journey of more than a thousand miles along the north-east
+    and north-west coasts in 1891 and published accounts of its topographic, ethnological,
+    philological, and geological results.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1069-1100
+  quote_or_summary: Grandidier published atlas and text volumes on ancient, medieval,
+    and later maps of Madagascar and was completing a larger atlas incorporating his
+    own explorations and other geographical data.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1101-1119
+  quote_or_summary: Tamatave is the usual landing place for Imerina and the capital;
+    travel lacks practicable wheeled roads, so Europeans and well-to-do Malagasy use
+    the palanquin or filanjana carried by bearers.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1120-1129
+  quote_or_summary: The road from Tamatave first runs south along the coast between
+    lagoons and the sea, over level greensward with trees, forest patches, calm lakes,
+    and Indian Ocean surf.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1130-1137
+  quote_or_summary: At Andevoranto travelers hire canoes for a half-day voyage up
+    the Iharoka and a tributary, then resume palanquin travel through hilly country
+    with Traveller's-tree, bamboo, and rofia palm.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: 1138-1142
+  quote_or_summary: The forest path has steep ascents and descents of slippery clay
+    after rain, and by the forest's edge travelers have "ascended the first great
+    step upwards to the interior highland."
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; short quotation used for exact phrase.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is primarily historical and geographical travel prose. Literal
+    extraction is strong; mythological motif identification is tentative and limited
+    to itinerary and ascent patterns explicitly present in the text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself compare these patterns to a mythic corpus or motif family beyond literal travel description.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:malagasy-madagascar-before-conquest-sibree-archive__l1040-l1142
+  passage_sha256=92537b82242496ec6ae1d65b8772e8a6e69759e1d4ec850aa69109d7036c80d8
+

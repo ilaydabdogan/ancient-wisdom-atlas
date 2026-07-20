@@ -1,0 +1,170 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l21781-l21936
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: INDEX OF WORDS. 433 / HYMNS. / INDEX OF WORDS. 435 / VEDIC HYMNS.; lines
+    21781-21936
+  start: '21781'
+  end: '21936'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An OCR-heavy index segment lists Vedic word entries and hymn references,
+    including entries for Dawn/Night pairings, brightness and cow/udder terms, verbs
+    of opening and rising, hymn/verse terminology, and Rita/Right with related phrases
+    such as paths and streams.
+  language: English with transliterated Sanskrit
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index groups forms of Dawn and includes glosses or phrases for “Night
+    and Morning,” “the two Dawns, Night and Dawn,” and “Dawn and Night.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index glosses entries in this range with “bright,” “milch-cow,” “cow,”
+    and “udder.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index lists verbal glosses involving revealing, opening, arising, springing,
+    running up, rising up, coming forth, and being erected.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index glosses “rik” as “hymn” and “(sacrificial) verse.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index glosses “rita” as “the Rita, Right” and lists associated phrases
+    including “on behalf of Rita,” “streams of Rita,” and a path or paths of Rita.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dawn
+  description: Named in index entries and paired with Night/Morning; also appears
+    as “the two Dawns.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Night
+  description: Named in index entries paired with Dawn or Morning.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: paired temporal figures
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The index repeatedly cites pairings such as Night and Morning, Night and
+    Dawn, and Dawn and Night.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Dawn-Night pair
+  literal_form: Night and Morning; Night and Dawn; Dawn and Night; the two Dawns
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: milch-cow and udder
+  literal_form: milch-cow; cow; udder
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: streams of Rita
+  literal_form: streams of Rita
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Night and Dawn paired duality
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly indexes Dawn together with Night or Morning and also
+    mentions “the two Dawns,” supporting a cautious dual-pair pattern at the lexical/index
+    level.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an index of words, not a narrative hymn passage; the motif is
+    inferred only from repeated indexed pairings.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21781-21796
+  quote_or_summary: Index entries for Dawn include pairings glossed as Night and Morning,
+    the two Dawns/Night and Dawn, and Dawn and Night.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 21797-21807
+  quote_or_summary: Entries in this range gloss terms as bright, milch-cow, cow, blessing/protection,
+    and udder.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 21818-21853
+  quote_or_summary: Entries under motion/opening verbs include meanings such as revealed,
+    opened, arose, sprung, ran up to, rose up, came forth, opened, accomplished, and
+    erected.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 21863-21874
+  quote_or_summary: "“rik, hymn, (sacrificial) verse”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 21886-21936
+  quote_or_summary: The rita entry glosses the term as the Rita/Right and includes
+    phrases such as on behalf of Rita, streams of Rita, and path(s) of Rita.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an OCR-heavy word index rather than a narrative hymn. Literal
+    lexical observations are more secure than motif interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes or comparison claims were extracted because the provided passage is an index of words and citations.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l21781-l21936
+  passage_sha256=7d9cf142378271e0e1b147eebd87316f410fa42f212eea7bb9b9ee494644d040
+

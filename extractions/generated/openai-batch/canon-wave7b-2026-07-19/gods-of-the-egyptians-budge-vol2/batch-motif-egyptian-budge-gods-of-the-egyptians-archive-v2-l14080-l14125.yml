@@ -1,0 +1,181 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l14080-l14125
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: SORROWS   OF   ISIS  233 / SORROWS / OF   ISIS / I  III; lines 14080-14125
+  start: '14080'
+  end: '14125'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: they drew nigh to me at my call, they wept, even they,
+  summary: A fragment headed “Sorrows of Isis” includes a first-person speaker. A
+    group described in the supplied OCR as “the fenmen” comes from their houses to
+    the speaker, draws near at the speaker’s call, and weeps.
+  language: English with Egyptian transcription/OCR fragments
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage heading reads “SORROWS OF ISIS.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The readable translation says that, at once, a group came to the first-person
+    speaker from their houses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The readable translation says the group drew near to the speaker at the speaker’s
+    call.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The readable translation says the group wept.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The excerpt contains fragmented Egyptian transcription or OCR material around
+    the readable English translation lines.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Isis
+  description: Named in the passage heading as the subject of “Sorrows of Isis.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: first-person speaker
+  description: Referred to by “me” and “my call” in the readable translation lines.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: group from their houses
+  description: The readable translation says this group, OCR-rendered as “the fenmen,”
+    came from their houses, drew near, and wept.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: titled subject of sorrow
+  assigned_to:
+  - fig:1
+  basis: The heading names the passage “Sorrows of Isis.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: caller and recipient of approach
+  assigned_to:
+  - fig:2
+  basis: Others come to “me” and draw near at “my call.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: responding weepers
+  assigned_to:
+  - fig:3
+  basis: The group comes from houses, draws near at the call, and weeps.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Group approaches and weeps at the speaker’s call
+  summary: Within a passage headed “Sorrows of Isis,” a first-person speaker reports
+    that a group came from their houses, drew near at the speaker’s call, and wept.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: communal mourning at a call
+  taxonomy_refs: []
+  basis: A group comes from houses to the first-person speaker, draws near at the
+    speaker’s call, and weeps.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is brief and OCR-fragmented; the cause of the weeping is not
+    visible in the supplied excerpt.
+- id: motif:2
+  label: sorrow of Isis
+  taxonomy_refs: []
+  basis: The heading identifies the passage as “Sorrows of Isis,” and the readable
+    lines center on approach and weeping around a first-person speaker.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The readable translation lines refer to “me” but do not independently
+    name the speaker as Isis within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14080-14082
+  quote_or_summary: "“SORROWS / OF ISIS”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 14080-14125, readable translation line after section 178
+  quote_or_summary: "“at once, came to me the fenmen from their houses,”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 14080-14125, readable translation line after section 179
+  quote_or_summary: "“they drew nigh to me at my call, they wept, even they,”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: note
+  locator: lines 14080-14125
+  quote_or_summary: The supplied excerpt includes fragmented Egyptian transcription,
+    numbering, and OCR artifacts surrounding the readable English translation lines.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; note based on supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Readable narrative content is limited to the heading and two English translation
+    lines. The term “fenmen” appears OCR-uncertain, and the speaker’s identity is
+    not explicitly stated in the readable translation lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol reference was assigned because the supplied excerpt does not clearly support one of the available taxonomy entries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l14080-l14125
+  passage_sha256=0167333b8c0f708a6dcdc63d3b8a647fbd2167ea007e5b841c859ba5e0238d71
+

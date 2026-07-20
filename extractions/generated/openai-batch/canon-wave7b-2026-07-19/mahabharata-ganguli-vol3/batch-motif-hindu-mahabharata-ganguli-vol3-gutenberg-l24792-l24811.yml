@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l24792-l24811
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION IV / SECTION V / SECTION VI / SECTION VII; lines 24792-24811
+  start: '24792'
+  end: '24811'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Abandoning the whole of my kingdom... I shall go to the woods"'
+  summary: Yudhishthira says that renunciation prevents new sin, frees one from birth
+    and death, and leads to Brahma. He resolves to abandon kingdom and worldly things,
+    go to the woods, practice taciturnity, and follow knowledge. He asks Dhananjaya
+    to govern the restored earth, then stops; Arjuna addresses him next.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker lists religious practices including alms-giving, penances, trips
+    to tirthas after renunciation, and meditation on scriptures.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker states that one who practices renunciation is believed incapable
+    of committing new sins.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says the Srutis declare that renunciation enables escape from
+    birth and death and attainment of Brahma.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker says he will go to the woods, adopt taciturnity, disregard pairs
+    of opposites, and follow the way pointed out by knowledge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says desire for earthly things led him to commit sin.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says he will abandon his whole kingdom and worldly things and
+    go to the woods without grief or affection.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker tells Dhananjaya to govern the restored earth and says he has
+    no need for kingdom or pleasure.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narration identifies the speaker as king Yudhishthira the just and says
+    his younger brother Arjuna then addressed him.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: King Yudhishthira the just, the speaker who announces his intention
+    to renounce kingdom and go to the woods.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Dhananjaya / Arjuna
+  description: The addressee told to govern the restored earth; the narration then
+    names Yudhishthira's younger brother Arjuna as the next speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: renouncing king
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira says he will abandon his kingdom and go to the woods.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: speaker invoking Sruti teaching
+  assigned_to:
+  - fig:1
+  basis: The speaker cites the Srutis on renunciation, birth and death, and attainment
+    of Brahma.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: prospective ruler and responding brother
+  assigned_to:
+  - fig:2
+  basis: Dhananjaya is told to govern the restored earth, and Arjuna is described
+    as Yudhishthira's younger brother who addresses him next.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: woods
+  literal_form: woods
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: kingdom
+  literal_form: kingdom
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: earth
+  literal_form: earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: vow of taciturnity
+  literal_form: vow of taciturnity
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Yudhishthira resolves to renounce
+  summary: Yudhishthira cites renunciation and Sruti teaching, declares that desire
+    for earthly things has led to sin, and says he will abandon kingdom and go to
+    the woods.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Transfer of rule to Dhananjaya
+  summary: Yudhishthira tells Dhananjaya to govern the restored earth and says he
+    has no need for kingdom or pleasure; the narration then says Arjuna addresses
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal renunciation and departure to the woods
+  taxonomy_refs:
+  - departure
+  basis: A king declares that he will abandon kingdom and worldly things and go to
+    the woods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage gives an announced intention rather than the completed departure.
+- id: motif:2
+  label: liberating knowledge and renunciation
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker says renunciation, meditation on scriptures, Sruti teaching,
+    and the path pointed out by knowledge lead beyond birth and death to Brahma.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage frames this as doctrinal speech; it does not narrate the attainment
+    itself.
+- id: motif:3
+  label: rejection of worldly sovereignty
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Yudhishthira rejects the need for kingdom or pleasure and asks Dhananjaya
+    to govern the pacified earth.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage concerns refusal or transfer of rule, not a full legitimating
+    ritual.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns Yudhishthira's intended renunciation with Sruti
+    teaching that renunciation frees one from birth and death and leads to Brahma.
+  claim_level: same_function
+  target: Sruti teaching on renunciation
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Sruti source is cited only generically in the passage and no specific
+    text is named.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 24792-24798
+  quote_or_summary: '"he that practises renunciation escapes from birth and death...
+    attains to Brahma"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 24798-24802
+  quote_or_summary: '"I shall... go to the woods... adopting the vow of taciturnity...
+    walking in the way pointed out by knowledge"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 24802-24808
+  quote_or_summary: The speaker says attachment to earth prevents full religious merit,
+    earthly desire has caused sin, and he will abandon kingdom and worldly things
+    to go to the woods freed from grief and affection.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 24808-24810
+  quote_or_summary: '"Do thou govern this earth... I have no need for kingdom or for
+    pleasure."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: 24810-24811
+  quote_or_summary: The narration says king Yudhishthira the just stopped speaking,
+    and his younger brother Arjuna then addressed him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a clear doctrinal and narrative speech of intended renunciation.
+    Motif labels are candidate classifications and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l24792-l24811
+  passage_sha256=0b9692487cdc1fd1631a6248b8ebb0f2ebf21737ed1036fd8f43b303aead6dbd
+

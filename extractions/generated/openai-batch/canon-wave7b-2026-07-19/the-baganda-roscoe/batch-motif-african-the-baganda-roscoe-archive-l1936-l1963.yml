@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l1936-l1963
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  25 / THE   BAGANDA / CHAP. /
+    I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  27; lines 1936-1963
+  start: '1936'
+  end: '1963'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“add fresh life and vigour to the King”"
+  summary: The passage describes large royal drums, their powerful sound, their use
+    in announcing royal and public events, and the renewal of the special drum Kau/a
+    with a cow skin, cow blood, and human blood, after which its beating was believed
+    to strengthen the King.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The large drums produced strong vibration; an unskilled man might have his
+    shoulder dislocated by the rebound of the leather when struck.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The drums could produce music that might be mistaken from a mile away for
+    another instrument.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In the large drum house, the noise was deafening and sounded confused to someone
+    nearby.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A caption identifies a royal drum decorated with beads and cowry-shells.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The drums were beaten to announce a new King's coronation, war, the death
+    of one of the King's children, the King's entry into a new house, and new moon.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the special drum Kau/a received a new skin, a cow was killed for the
+    skin and its blood was run into the drum.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A man was killed by decapitation and his blood was run into the special drum.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: When the special drum was beaten after receiving blood, it was supposed to
+    add fresh life and vigour to the King.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: King
+  description: Royal figure whose coronation, house-entry, and vitality are linked
+    to the beating of the drums.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: one of the King's children
+  description: A royal child whose death was one occasion for beating the drums.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: cow
+  description: Animal killed when Kau/a received a new skin; its skin and blood were
+    used for the drum.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: decapitated man
+  description: Man killed by decapitation so that his blood could be run into the
+    special drum.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: royal recipient of renewed vitality
+  assigned_to:
+  - fig:1
+  basis: The special drum's beating was supposed to add fresh life and vigour to the
+    King.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: sacrificial animal and source of drum skin and blood
+  assigned_to:
+  - fig:3
+  basis: The cow was killed for the new skin, and its blood was run into the drum.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: human sacrificial victim and source of blood
+  assigned_to:
+  - fig:4
+  basis: A man was killed by decapitation and his blood was run into the drum.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: royal death occasion for drum announcement
+  assigned_to:
+  - fig:2
+  basis: The drums were beaten at the death of one of the King's children.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: royal drums
+  literal_form: large royal drums, including a decorated royal drum with beads and
+    cowry-shells
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: special drum Kau/a
+  literal_form: special drum receiving a new skin, cow blood, and human blood
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: blood run into the drum
+  literal_form: cow blood and human blood placed in the drum
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: new drum skin
+  literal_form: new skin for Kau/a taken from a killed cow
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: new moon
+  literal_form: new moon as one occasion when the drums were beaten
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Powerful sound of the royal drums
+  summary: The passage describes the drums' strong vibration, their musical quality
+    audible from far away, and the deafening noise in the drum house.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Drums announce royal and public events
+  summary: The drums are beaten for the coronation of a new King, war, the death of
+    a royal child, the King's entry into a new house, and new moon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Renewal of Kau/a with skin and blood
+  summary: When Kau/a receives a new skin, a cow is killed and its blood is put in
+    the drum; a man is also decapitated and his blood is put in it, so that its beating
+    is believed to add life and vigour to the King.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: royal drum announcing sovereignty and crisis
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The drums announce the new King's coronation, war, a royal child's death,
+    the King's entry into a new house, and new moon.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage lists occasions for drum beating but does not elaborate the
+    full ritual meanings of each occasion.
+- id: motif:2
+  label: blood sacrifice empowering royal drum and king
+  taxonomy_refs:
+  - sacrifice
+  - royal_legitimacy
+  basis: A cow and a man are killed, their blood is run into Kau/a, and the drum's
+    later beating is said to add life and vigour to the King.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage attributes the belief to the described context; broader theological
+    interpretation is not supplied here.
+- id: motif:3
+  label: ritual renewal through new skin and blood
+  taxonomy_refs:
+  - death_rebirth
+  basis: Kau/a receives a new skin and blood, and its beating is associated with fresh
+    life and vigour for the King.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage explicitly states renewed life and vigour for the King, but
+    it does not describe a full death-and-rebirth narrative.
+comparison_claims:
+- id: claim:1
+  claim: At the motif-family level, the renewal of Kau/a can be cautiously compared
+    to sacrifice patterns in which animal and human blood are directed toward royal
+    vitality.
+  claim_level: same_motif
+  target: sacrifice and royal_legitimacy motif families
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a broad functional comparison only; the passage does not provide
+    evidence for historical contact, common inheritance, or comparison with a named
+    neighboring tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1936-1950
+  quote_or_summary: Large drums have powerful vibration, can injure an unskilled beater,
+    produce music audible at a distance, and make deafening confused noise in the
+    drum house.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1951-1952
+  quote_or_summary: "“ROYAL DRUM, DECORATED WITH BEADS AND COWRY-SHELLS.”"
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1953-1957
+  quote_or_summary: The drums are beaten to announce coronation of a new King, war,
+    death of one of the King's children, the King's entry into a new house, and new
+    moon.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1957-1960
+  quote_or_summary: When the special drum Kau/a receives a new skin, a cow is killed
+    for the skin and its blood is run into the drum.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1960-1962
+  quote_or_summary: A man is killed by decapitation and his blood is run into the
+    special drum.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 1962-1963
+  quote_or_summary: "“when the drum was beaten, it was supposed to add fresh life
+    and vigour to the King”"
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the passage. Motif labels are cautious and
+    limited to the supplied taxonomy and passage evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The special drum name is transcribed as “Kau/a” following the provided passage text; human review may verify the OCR/transcription.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l1936-l1963
+  passage_sha256=ce918f20313ff7bdb254b5674312c265adce473272ee2cd82014844bde608542
+

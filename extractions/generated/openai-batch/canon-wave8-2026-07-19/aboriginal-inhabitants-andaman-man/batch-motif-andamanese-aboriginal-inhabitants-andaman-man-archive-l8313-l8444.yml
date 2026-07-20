@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.andamanese-aboriginal-inhabitants-andaman-man-archive-l8313-l8444
+source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+passage_locator:
+  label: PAET III. / PLATE VIII / ANDAMANESE EQUIPPED FOR JOURNEY. / ANDAMANESE SHOOTING,
+    DANCING, SLEEPING, AND GREETING.; lines 8313-8444
+  start: '8313'
+  end: '8444'
+  translation: On the Aboriginal Inhabitants of the Andaman Islands
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Andamanese terms for seasons, lunar phases, tides,
+    cardinal directions, winds, clouds, Orion’s belt, and the Milky Way. It notes
+    a north-east wind called the Creator’s wind because it comes from the heavenly
+    region where a bridge between this world and the next is thought to be located,
+    and it describes the Milky Way as a road used by angels. The passage then discusses
+    trade, outside visitors, kidnapping by some traders, valued imports, and barter
+    media.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The solar year is described as having three main divisions: cool, hot, and
+    rainy seasons, with twenty minor seasons mostly named after flowering trees that
+    supply honey bees.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Distinct terms are given for four lunar phases, and additional terms connect
+    full and new moon with high, low, and flood tides.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The east and west terms are explained through the sun’s appearing and disappearing
+    face; the south term is explained as a separate place, while the north term’s
+    derivation is unknown to the present inhabitants.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The north-east wind is called Puiuga-td, glossed as the Creator’s wind, and
+    is said to have special significance because it comes from the part of heaven
+    where a bridge between this world and the next is supposed to be situated.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Milky Way is named ig-ydiowa and is described as a road used by angels.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Among stars and constellations, Orion’s belt alone is said to bear a name
+    in the described vocabulary.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage reports visits by Malay, Burmese, and Chinese trading vessels
+    and states that some traders kidnapped Andamanese people and carried them into
+    captivity.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Valued imports include dogs, iron, bottles, tobacco, pipes, and matches; internal
+    barter can use weapons, utensils, or common articles including materials for painting
+    and decoration.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Puiuga / The Creator or God
+  description: Named in the wind term Puiuga-td, glossed as “The Creator His wind”
+    and described as the Creator’s or God’s wind.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: mo'rowin- / angels
+  description: Translated as angels and described as users of the Milky Way road.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Creator or God associated with a named wind
+  assigned_to:
+  - fig:1
+  basis: The north-east wind is glossed as the Creator’s wind.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: Supernatural users of a celestial road
+  assigned_to:
+  - fig:2
+  basis: The Milky Way is described as a road used by angels.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: season-naming trees
+  literal_form: flowering trees used as names for minor seasons and as honey-bee supply
+    sources
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: moon phases
+  literal_form: new moon, first quarter, full moon, and last quarter terms
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tides
+  literal_form: high, low, flood, ebb, neap, and daybreak low tides, especially in
+    relation to full and new moon
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sun-direction places
+  literal_form: east as the appearing face place and west as the disappearing face
+    place
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Creator’s wind
+  literal_form: north-east wind named Puiuga-td, glossed as “The Creator His wind”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: bridge between worlds
+  literal_form: connecting bridge between this world and the next, situated in a part
+    of heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Milky Way road
+  literal_form: ig-ydiowa, the Milky Way, described as a road used by angels
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Orion’s belt
+  literal_form: beia-, the named belt of Orion
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: seasonal and lunar-tidal reckoning
+  summary: The passage lists terms for the three-part solar year, minor tree-named
+    seasons, lunar phases, and tides connected with full and new moon.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: directional and celestial cosmology
+  summary: The passage explains directional terms, wind names, the special north-east
+    Creator’s wind, the heavenly bridge between worlds, cloud names, Orion’s belt,
+    and the Milky Way as an angel road.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: trade, kidnapping, imports, and barter
+  summary: The passage describes outside trading visitors, kidnapping by some traders,
+    limited contemporary trade, prized imported goods, and barter media used in exchanges.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: bridge between this world and the next
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: A connecting bridge between this world and the next is said to be situated
+    in a part of heaven associated with the Creator’s wind.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no full journey narrative and does not state who crosses
+    the bridge.
+- id: motif:2
+  label: celestial road used by supernatural beings
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The Milky Way is described as a road used by angels.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The road is explicitly associated with angels, not directly with human
+    dead or an afterlife journey in this passage.
+- id: motif:3
+  label: seasonal and lunar-tidal cycle ordering
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage organizes time through seasons, tree flowering, lunar phases,
+    and tides connected with full and new moon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is primarily ethnographic vocabulary and environmental observation
+    rather than a myth narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s own footnote supports a cautious functional comparison between
+    the Andamanese Milky Way as a road used by angels and the Chippeway Milky Way
+    as a path of ghosts.
+  claim_level: same_function
+  target: Chippeways’ Milky Way as “the path of the ghosts”
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is editorial and brief; angels and ghosts are not identical
+    categories, and the passage does not support claims of historical contact or common
+    inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8313-8321; section 3
+  quote_or_summary: The people are described as lacking numeration; their solar year
+    has cool, hot, and rainy divisions and twenty minor seasons mostly named after
+    flowering trees that feed honey bees.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 8323-8350; section 4
+  quote_or_summary: Distinct terms mark four lunar phases, and additional terms distinguish
+    high, low, flood, ebb, neap, and daybreak low tides, especially at full and new
+    moon.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 8351-8361; section 5
+  quote_or_summary: The four cardinal points are named; east and west refer to the
+    sun’s appearing and disappearing face, south means separate place, and the north
+    derivation is unknown to the present inhabitants.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 8362-8374; section 6
+  quote_or_summary: The north-east wind Puiuga-td is glossed as “The Creator His wind”
+    and has special significance because it proceeds from the heavenly region where
+    a bridge between this world and the next is supposed to be situated.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 8375-8388; sections 7-8
+  quote_or_summary: Three cloud forms are named; only Orion’s belt is named among
+    stars and constellations; the Milky Way is called ig-ydiowa and described as the
+    road used by angels, mo'rowin-.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:6
+  type: quote
+  locator: footnote within lines 8389-8395
+  quote_or_summary: "“The Chippeways call the milky way ‘the path of the ghosts’.”"
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; short quotation used for comparison evidence.
+- id: ev:7
+  type: summary
+  locator: lines 8396-8422; Trade, Exchangeable Values and Property, section 1
+  quote_or_summary: The passage reports earlier visits by Malay, Burmese, and Chinese
+    trading vessels and states that some traders kidnapped members of the race and
+    carried them into captivity.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; passage supplied for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 8423-8444; Trade, Exchangeable Values and Property, sections 2-4
+  quote_or_summary: The passage describes limited trade at Port Blair, valued imports
+    such as dogs, iron, bottles, tobacco, pipes, and matches, and internal barter
+    using weapons, utensils, and painting or decorative materials as media of exchange.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; passage supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is clear. Motif classification is cautious because
+    the passage is primarily ethnographic and lexical, with only brief cosmological
+    references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or common-inheritance claim is made; only the comparison explicitly supported by the passage footnote is recorded.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:andamanese-aboriginal-inhabitants-andaman-man-archive__l8313-l8444
+  passage_sha256=5c9078cd76ee35fef4b380e8c5ae7ed2085614fd7cc24af59fe1c86507a1e8f3
+

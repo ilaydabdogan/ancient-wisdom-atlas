@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l9658-l9679
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: 'A SHAM LION HUNT : SAVED ! / CH. XXV / THE BA-ILA AT PLAY / BOYS PLAYING
+    WITH CLAY OXEN.; lines 9658-9679'
+  start: '9658'
+  end: '9679'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Boys are fond of dressing to imitate their elders
+  summary: The passage describes boys engaged in mock fights, toy spear play with
+    a buried wild cucumber, and dressing or ornamenting themselves in imitation of
+    elders.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A boy of about ten brought a charge against another boy of the same age for
+    hurting him in a sham fight and claimed an ox as compensation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two small naked boys sit with legs stretched out and cover a wild cucumber
+    with sand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Each boy has a toy spear made from a grass stem with a thorn tied to the end.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The boys take turns stabbing the sand heap to see who can impale the hidden
+    cucumber.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The boys say “Ndawala! Ndawala!” while playing.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Boys dress to imitate their elders, making substitute bangles from grass or
+    moulded clay when ivory or brass bangles are unavailable.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: boy bringing charge
+  description: A little boy of about ten who brings a charge after being hurt in a
+    sham fight and claims compensation.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: boy accused in sham fight
+  description: Another boy of about the same age accused of hurting the first boy
+    in a sham fight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: two small boys with toy spears
+  description: Two tiny naked boys who play by stabbing a sand-covered wild cucumber
+    with grass-stem spears.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: boys imitating elders
+  description: Boys who dress and make substitute ornaments to imitate their elders.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: participant in sham fight
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the boys were involved in sham fights in which one hurt
+    the other.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: claimant of compensation
+  assigned_to:
+  - fig:1
+  basis: The boy brought a charge and claimed an ox as compensation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: child player with toy spear
+  assigned_to:
+  - fig:3
+  basis: The two boys take turns stabbing the sand heap with grass-stem spears.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: imitator of elders
+  assigned_to:
+  - fig:4
+  basis: The passage states that boys dress to imitate their elders and make substitute
+    bangles.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: toy spear
+  literal_form: Grass stem with a thorn tied on the end
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hidden target
+  literal_form: Wild cucumber covered with sand
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: compensation ox
+  literal_form: An ox claimed as compensation after injury in a sham fight
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: imitation bangles
+  literal_form: Bangles made of grass or moulded clay in place of ivory or brass
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Charge after sham fight
+  summary: A ten-year-old boy accuses another boy of hurting him during a sham fight
+    and asks for an ox as compensation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Stabbing the sand-covered cucumber
+  summary: Two boys hide a wild cucumber under sand and take turns trying to impale
+    it with toy spears while calling out in Ila.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dressing like elders
+  summary: Boys imitate elder dress by making substitute bangles from grass or clay
+    when they lack ivory or brass ornaments.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: children's mock combat and compensation play
+  taxonomy_refs: []
+  basis: The passage describes boys participating in sham fights and one boy using
+    a compensation claim after being hurt.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is ethnographic description of play, not a mythic narrative;
+    the compensation element is reported as one instance.
+- id: motif:2
+  label: children imitating adult hunting or fighting practices
+  taxonomy_refs: []
+  basis: The boys use toy spears to attack a hidden target and are explicitly described
+    elsewhere in the passage as imitating elders.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The target is a cucumber under sand, and the passage does not explicitly
+    identify the game as hunting or warfare in this excerpt.
+- id: motif:3
+  label: substitute ornaments in child imitation of elders
+  taxonomy_refs: []
+  basis: Boys make bangles of grass or clay to represent ivory or brass bangles when
+    imitating elders.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a social-play pattern rather than a mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9658-9663
+  quote_or_summary: A little boy of ten brought a charge against another boy for hurting
+    him in sham fights and claimed an ox as compensation.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 9664-9671
+  quote_or_summary: Two small boys cover a wild cucumber with sand, use grass-stem
+    spears tipped with thorns, take turns stabbing the heap, and say “Ndawala! Ndawala!”
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; brief quotation included.
+- id: ev:3
+  type: summary
+  locator: lines 9673-9676
+  quote_or_summary: Boys imitate elders by dressing up and making bangles from grass
+    or moulded clay when ivory or brass bangles are unavailable.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal play actions are clear. Motif candidates are cautious because
+    the passage is descriptive ethnography of children’s play rather than a mythic
+    narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the available motif families and symbols are not directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l9658-l9679
+  passage_sha256=1ad6b1fceb5e932f6849edd40c6c35c931e8b6cb40504139670530d491e355cb
+

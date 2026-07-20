@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l15465-l15482
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: FOLK-TALES 369 / VOL. II 2 B / CH. XXVIII / FOLK-TALES 375; lines 15465-15482
+  start: '15465'
+  end: '15482'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Hornbill and Tomtit exchange beaks. Other birds admire Hornbill with the
+    big beak, and Hornbill refuses to return it. Hornbill's repeated cry is explained
+    as praise of the big beak, while Tomtit's cry is explained as complaint over the
+    tiny beak; people name Tomtit Ntite, meaning Tiny.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hornbill takes Tomtit's big beak, and Tomtit takes Hornbill's tiny beak in
+    an exchange.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The birds admire Hornbill and say that the beak suits him well.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Tomtit asks Hornbill to give back his beak, and Hornbill refuses because it
+    suits him well.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Tomtit cries and complains about having a tiny beak.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Hornbill continues wearing the big beak and repeating that it suits him well;
+    the passage says this remains his cry.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: People hearing Tomtit's cry name him Ntite, glossed as Tiny.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hornbill
+  description: A bird who receives or keeps the big beak and whose continuing cry
+    is explained by the tale.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Tomtit
+  description: A bird who loses the big beak, receives the tiny beak, complains, and
+    is named Ntite, meaning Tiny.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: The birds
+  description: Other birds who admire Hornbill's beak.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: People
+  description: People who hear Tomtit's cry and name him Ntite.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: participants in beak exchange
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Hornbill takes Tomtit's big beak and Tomtit takes Hornbill's tiny one.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: refuser who keeps the desirable beak
+  assigned_to:
+  - fig:1
+  basis: Hornbill refuses to return the beak because it suits him well.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: complainant with tiny beak
+  assigned_to:
+  - fig:2
+  basis: Tomtit cries and complains about the tiny beak.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: admirers
+  assigned_to:
+  - fig:3
+  basis: The birds admire Hornbill and praise how the beak suits him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: namers
+  assigned_to:
+  - fig:4
+  basis: People hear Tomtit's cry and name him Ntite, glossed as Tiny.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: big beak
+  literal_form: Tomtit's big beak worn by Hornbill after the exchange
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: tiny beak
+  literal_form: Hornbill's tiny beak worn by Tomtit after the exchange
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: bird cries
+  literal_form: Hornbill's repeated cry and Tomtit's repeated complaint
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: name Ntite
+  literal_form: Name given to Tomtit by people, glossed as Tiny
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Exchange of beaks
+  summary: Hornbill and Tomtit exchange beaks, with Hornbill taking the big beak and
+    Tomtit taking the tiny one.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Admiration and refusal
+  summary: Other birds admire Hornbill's new beak. Tomtit asks for his beak back,
+    but Hornbill refuses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Continuing cries and naming
+  summary: Hornbill continues to cry that the big beak suits him, while Tomtit complains
+    about the tiny beak. People hear Tomtit's cry and name him Ntite, meaning Tiny.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal trait exchange becomes permanent
+  taxonomy_refs: []
+  basis: The tale explains Hornbill's big beak and Tomtit's tiny beak as the outcome
+    of an exchange that Hornbill refuses to reverse.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this etiological animal-trait
+    pattern.
+- id: motif:2
+  label: etiology of animal cry and name
+  taxonomy_refs: []
+  basis: The passage explicitly links Hornbill's and Tomtit's repeated cries to their
+    present cries, and explains Tomtit's name Ntite as meaning Tiny.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level motif label, not a supplied taxonomy reference.
+- id: motif:3
+  label: refusal to return borrowed or exchanged property
+  taxonomy_refs: []
+  basis: Tomtit asks for his beak back, but Hornbill refuses because the big beak
+    suits him.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage fragment does not provide the full circumstances of the original
+    exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15465-15466
+  quote_or_summary: '"Hornbill taking Tomtit''s big beak and Tomtit taking Hornbill''s
+    tiny one."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 15466-15469
+  quote_or_summary: The birds admire Hornbill and say, "that beak suits you fine."
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 15470-15472
+  quote_or_summary: Tomtit asks, "Give me back my beak"; Hornbill answers, "No, I
+    will never give it back as it suits me so well."
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 15472-15475
+  quote_or_summary: Tomtit cries, "Katiti, katiti, tiny, oh so tiny," and complains
+    about his tiny beak.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 15475-15478
+  quote_or_summary: Hornbill keeps wearing the big beak and crying that it suits him;
+    "that is still his cry."
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:6
+  type: quote
+  locator: lines 15478-15482
+  quote_or_summary: Tomtit still cries "Katiti" and people hearing his cry name him
+    Ntite, "i.e. Tiny."
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and clear for literal extraction. Motif labels are descriptive
+    because no supplied taxonomy reference directly covers etiological animal cries,
+    names, or exchanged traits. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The opening word "exchanged" indicates the passage begins mid-sentence; extraction is limited to the supplied line range.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l15465-l15482
+  passage_sha256=6d1bcdcfddd68f92a2f215966031cbe208d57741ca681fd9429ca2b67a598633
+

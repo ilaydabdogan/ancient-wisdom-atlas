@@ -1,0 +1,568 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l23043-l23160
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: II. A CERTIFICATE OF ADOPTION1 / IV. THE CODE OF HAMMURAPI / LITERATURE /
+    PROLOGUE1; lines 23043-23160
+  start: '23043'
+  end: '23160'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A sequence of Hammurapi law provisions regulates unresolved robbery, compensation
+    for loss of life, theft during a house fire, duties and property rights of soldiers
+    and constables in royal service, the care of captured soldiers' households, ransom
+    procedures, and capital penalties for officials who abuse soldiers or royal levies.
+  language: English with transliterated Akkadian
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: If a robber is not captured, the robbed man declares the extent of his loss
+    before the god, and the city and governor restore the lost property.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If a life is lost, the city and governor pay one mina of silver to the dead
+    person's people.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A man who comes to extinguish a house fire and steals the householder's property
+    is cast into that fire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A soldier or constable who is ordered to go on the king's errand but sends
+    a hired substitute instead is put to death, and the hireling takes his house.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When a captured soldier or constable returns and reaches his city, his field
+    and garden are restored to him and he resumes his affairs.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If a captured soldier's son can conduct his father's affairs, the field and
+    garden are given to the son so that he may do so.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: If the captured soldier's son is too young to conduct the affairs, one third
+    of the field and garden is given to the mother, who rears him.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A soldier or constable who lets his field, garden, and house lie waste for
+    three years loses them to the person who has taken them and conducted the affairs.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: If the same property is left for only one year and the original holder returns,
+    the field, garden, and house are restored to him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A captured soldier or constable on the king's errand may be ransomed by a
+    merchant and then by his own house, the temple of the god of his city, or the
+    palace, but his field, garden, and house are not to be given for the ransom.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: A governor or magistrate who misuses levied men, sends a hired substitute
+    on the king's errand, plunders or defrauds a soldier, or takes the king's gift
+    to a soldier is put to death.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: robbed man
+  description: A man whose property has been taken while the robber remains uncaptured.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: city and governor
+  description: The civic authorities responsible for restoring lost property or paying
+    silver compensation in specified cases.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: god of the city
+  description: The deity before whom loss is declared and whose temple may provide
+    ransom for a captured soldier.
+  role_refs:
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:4
+  name_or_label: man stealing during a house fire
+  description: A man who comes to extinguish a fire but takes the householder's property.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: soldier or constable
+  description: A royal service holder whose duties, capture, return, property, and
+    ransom are regulated.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:6
+  name_or_label: son of a captured soldier
+  description: A son who may conduct his father's affairs if able, or may be reared
+    by his mother if too young.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: mother of a young son
+  description: The mother receives one third of the field and garden to rear the young
+    son of a captured soldier.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: merchant
+  description: A merchant who ransoms a captured soldier or constable and causes him
+    to regain his city.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: palace
+  description: The royal institution that ransoms the captured soldier if the house
+    and temple lack sufficient ransom.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:8
+- id: fig:10
+  name_or_label: governor or magistrate
+  description: Officials who are punished for abuses involving levies, substitutes,
+    soldiers' property, judgments, or the king's gift.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:9
+- id: fig:11
+  name_or_label: king
+  description: The authority whose errand, garrison, and gift to a soldier are named
+    in the legal provisions.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: legal claimant
+  assigned_to:
+  - fig:1
+  basis: The robbed man formally declares the amount of loss before the god.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: civic restitution authority
+  assigned_to:
+  - fig:2
+  basis: The city and governor restore lost property and pay compensation for a lost
+    life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: divine witness or sacred forum
+  assigned_to:
+  - fig:3
+  basis: Loss is declared before the god, and the god's temple appears as a ransom
+    source.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: opportunistic thief
+  assigned_to:
+  - fig:4
+  basis: The man comes during a fire and steals the householder's property.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: royal service holder
+  assigned_to:
+  - fig:5
+  basis: Soldiers and constables are described as serving on the king's errand or
+    in the king's garrison, with regulated service property.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:6
+  label: household successor
+  assigned_to:
+  - fig:6
+  basis: The able son carries on his captured father's affairs with the field and
+    garden.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: caretaker and rearer
+  assigned_to:
+  - fig:7
+  basis: The mother receives a portion of the field and garden and rears the young
+    son.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: ransom provider or source
+  assigned_to:
+  - fig:3
+  - fig:8
+  - fig:9
+  basis: The merchant, the temple of the god, and the palace appear in the ransom
+    sequence for a captured soldier.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: royal authority
+  assigned_to:
+  - fig:9
+  - fig:11
+  basis: The laws refer to the king's errand, the king's garrison, the king's gift,
+    and the palace as a ransom source.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+- id: role:10
+  label: abusive official
+  assigned_to:
+  - fig:10
+  basis: The governor or magistrate is penalized for taking levied men, sending substitutes,
+    or wronging soldiers.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: a house fire into which the thief is cast
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: service holding
+  literal_form: field, garden, and house attached to a soldier's or constable's affairs
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: temple of the city god
+  literal_form: the temple of the god of the soldier's city as a possible ransom source
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: palace
+  literal_form: the palace as the final ransom source in the stated hierarchy
+  associated_figures:
+  - fig:5
+  - fig:9
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: silver payment or ransom
+  literal_form: one mina of silver compensation and the means for ransom
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+scenes:
+- id: scene:1
+  label: Uncaptured robber and compensation
+  summary: When a robber is not captured, the robbed man declares the loss before
+    the god, and civic authorities restore the property; if a life is lost, silver
+    is paid to the kin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Theft during a house fire
+  summary: A man who comes to put out a house fire but steals from the householder
+    is thrown into the fire.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Substitution in royal service
+  summary: A soldier or constable who avoids the king's errand by sending a hired
+    substitute is executed, while the substitute receives his house.
+  figure_refs:
+  - fig:5
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Captured soldier's return and household succession
+  summary: A captured soldier's field and garden are restored if he returns; if he
+    does not, an able son conducts the affairs, or a mother receives a portion to
+    rear a young son.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Neglected field, garden, and house
+  summary: The law distinguishes between three years of neglect, after which the new
+    holder keeps the property, and one year of absence, after which the original holder
+    receives it back.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Ransom hierarchy for a captured royal servant
+  summary: A merchant may ransom a captured soldier; repayment or ransom then proceeds
+    through the soldier's house, the city god's temple, or the palace, while the field,
+    garden, and house are protected from sale for ransom.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:8
+  - fig:9
+  - fig:11
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Officials punished for abusing soldiers
+  summary: A governor or magistrate who misuses levies, substitutes, soldiers' property,
+    judgments, or the king's gift is put to death.
+  figure_refs:
+  - fig:5
+  - fig:10
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: divine witness in civic justice
+  taxonomy_refs:
+  - divine_judgment
+  basis: The robbed man makes a formal declaration before the god, and the temple
+    of the city god functions within a ransom procedure.
+  evidence_refs:
+  - ev:1
+  - ev:8
+  confidence: medium
+  cautions: The passage is legal, not narrative myth; it does not describe a divine
+    verdict or ordeal, only a declaration before the god and temple involvement.
+- id: motif:2
+  label: royal service and protected service holding
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Soldiers and constables serve on the king's errand or in the king's garrison;
+    their service property is regulated, protected in ransom, and connected to royal
+    and palace authority.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The material supports royal authority in a law-code context rather than
+    a mythic royal-legitimation narrative.
+- id: motif:3
+  label: return and restoration of status property
+  taxonomy_refs:
+  - return
+  basis: A captured soldier or constable who returns to his city receives back his
+    field and garden and resumes his own affairs.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The return is a legal case of military captivity and property restoration,
+    not a mythic homecoming episode.
+- id: motif:4
+  label: punishment in the same fire as the offense
+  taxonomy_refs: []
+  basis: The thief who exploits a house fire is cast into that same fire.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a legal penalty pattern; no explicit mythological comparison is
+    present.
+- id: motif:5
+  label: ransom through household, temple, and palace
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The ransom sequence moves from the soldier's own house to the temple of the
+    city god and then to the palace, while service land and house are excluded from
+    ransom payment.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The passage concerns legal ransom obligations; the 'sacred_exchange' taxonomy
+    is only partially applicable because the exchange is not framed as ritual or reciprocal
+    offering.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23043-23160, §23
+  quote_or_summary: If the robber is not captured, the robbed man declares his lost
+    property before the god; the city and governor restore the lost property.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 23043-23160, §24
+  quote_or_summary: If a life is lost, the city and governor pay one mina of silver
+    to the dead person's people.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 23043-23160, §25
+  quote_or_summary: If a man enters during a house fire to extinguish it and steals
+    the householder's property, that man is thrown into the fire.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 23043-23160, §26
+  quote_or_summary: A soldier or constable ordered to go on the king's errand but
+    hiring and sending a substitute is put to death; the hireling takes the officer's
+    house.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 23043-23160, §27
+  quote_or_summary: A captured soldier or constable stationed in the king's garrison
+    receives back his field and garden if he returns and reaches his city.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 23043-23160, §§28-29
+  quote_or_summary: If the captured soldier's son can carry on the father's affairs,
+    he receives the field and garden; if too young, the mother receives one third
+    of them and rears him.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 23043-23160, §§30-31
+  quote_or_summary: A service holder who neglects field, garden, and house for three
+    years loses them to the person who has conducted the affairs; if the absence is
+    one year only, they are restored to him.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 23043-23160, §32
+  quote_or_summary: A merchant may ransom a captured soldier on the king's errand;
+    ransom is supplied from the soldier's house, then the temple of his city god,
+    then the palace, but not by giving up his field, garden, or house.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 23043-23160, §§33-34
+  quote_or_summary: A governor or magistrate who abuses levied men, sends a hired
+    substitute on the king's errand, takes or plunders a soldier's property, defrauds
+    a soldier, or takes the king's gift to a soldier is put to death.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The legal provisions are clear enough for literal extraction, but motif assignment
+    is cautious because the passage is a law-code excerpt rather than a mythic narrative.
+    No explicit cross-text comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Comparison claims are left empty because the passage does not itself make or clearly invite a specific external comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l23043-l23160
+  passage_sha256=9e3013e89566a24fc4be51b1df114e0c13c47ce486375c407265bc21c490de61
+

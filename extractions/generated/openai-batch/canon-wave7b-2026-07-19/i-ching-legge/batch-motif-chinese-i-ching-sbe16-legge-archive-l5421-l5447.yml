@@ -1,0 +1,449 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l5421-l5447
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: SECT. 1. THE SZE HEXAGRAM. 7! / SECT. I. THE PHI HEXAGRAM. 8 2 / SECT. I.
+    TIE KHIEN HEXAGRAM. 89 / SECT. I. THE YU HEXAGRAM. QI; lines 5421-5447
+  start: '5421'
+  end: '5447'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Commentary explains the positions and relations of lines 1 through 6 in
+    a hexagram: strong and weak lines, proper correlates, following or cleaving to
+    other lines, public-spirited association, ministerial loyalty to a ruler, auspicious
+    symbolism, and an ideal of sincere adherence.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Line 1 is described as strong, lord of the lower trigram, and located in the
+    lowest place of the figure below weak lines that ought to follow it.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The position of line 1 gives rise to the representation of someone changing
+    his pursuit, yet its strength and correct place indicate fortune for its subject.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Going beyond the gate to find associates is said to indicate public spirit
+    and superiority to selfish considerations.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Line 2 is weak; its proper correlate is the strong line 5, but it prefers
+    to cleave to the line below instead of waiting to follow line 5.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The symbolism associated with line 2 is described as having a bad omen.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Line 3 is weak, follows the strong line above it, and leaves line 1, reversing
+    the course of line 2.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Line 3 is not properly correlated with line 4, so the conclusion is treated
+    as a caution.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Line 4 is strong and occupies the place of a great minister next to the ruler
+    in line 5.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Line 4 having adherents may injure the ruler's supreme and sole authority
+    unless sincere loyalty prevents error and misfortune.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Line 5 is strong, correctly placed, and has line 2 as its proper correlate,
+    producing auspicious symbolism.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Line 6 represents the issue of the hexagram as an ideal of following directed
+    by sincere adherence, though the passage breaks off after that phrase.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Line 1
+  description: A strong line, lord of the lower trigram, in the lowest place of the
+    figure; its subject is associated with fortune and public-spirited association.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Subject of line 1
+  description: The implied subject represented as changing his pursuit and going beyond
+    his gate to find associates.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Line 2
+  description: A weak line whose proper correlate is strong line 5, but which cleaves
+    to the line below.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Line 3
+  description: A weak line that follows the strong line above it and leaves line 1.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Line 4
+  description: A strong line in the place of a great minister next to the ruler in
+    line 5.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Line 5
+  description: A strong line in its correct place, identified with the ruler and as
+    the proper correlate of line 2.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Line 6
+  description: The line in which the issue of the hexagram is seen; it represents
+    an ideal of following directed by sincere adherence.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: lord of the lower trigram
+  assigned_to:
+  - fig:1
+  basis: Line 1 is explicitly called strong and lord of the lower trigram.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fortunate strong line in correct place
+  assigned_to:
+  - fig:1
+  basis: The passage says line 1's native vigour, strength, and correct place make
+    its subject fortunate.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: public-spirited seeker of associates
+  assigned_to:
+  - fig:2
+  basis: The subject goes beyond his gate to find associates, indicating public spirit.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: weak following line
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Lines 2 and 3 are each described as weak and defined by whom they cleave
+    to or follow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: great minister near the ruler
+  assigned_to:
+  - fig:5
+  basis: Line 4 is described as strong and in the place of a great minister next to
+    the ruler in line 5.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: ruler with supreme authority
+  assigned_to:
+  - fig:6
+  basis: Line 5 is identified as the ruler whose supreme and sole authority may be
+    injured by adherents of line 4.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: proper correlate
+  assigned_to:
+  - fig:6
+  basis: Line 5 is described as line 2's proper correlate.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:8
+  label: ideal of following through sincere adherence
+  assigned_to:
+  - fig:7
+  basis: Line 6 is said to represent the ideal of following directed by sincere adherence.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: strong line
+  literal_form: strong line in the hexagram figure
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: weak line
+  literal_form: weak line in the hexagram figure
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: gate
+  literal_form: gate crossed to find associates
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: lower trigram
+  literal_form: lower trigram within the hexagram figure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: proper correlate
+  literal_form: correlative relation between lines, especially line 2 and line 5
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Line 1 changes pursuit and seeks associates
+  summary: A strong line below weak lines is interpreted as changing pursuit; its
+    subject goes beyond the gate to find associates and is considered fortunate and
+    public-spirited.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Line 2 cleaves to the wrong line
+  summary: A weak line has a proper correlate in line 5 but chooses the line below,
+    producing bad omen symbolism.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Line 3 follows upward but remains cautioned
+  summary: A weak line follows the strong line above and leaves line 1, reversing
+    line 2's course, but lack of proper correlation with line 4 results in caution.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ministerial loyalty near the ruler
+  summary: A strong fourth line occupies the minister's place next to the ruler in
+    line 5; adherents may threaten the ruler's authority unless sincere loyalty averts
+    misfortune.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Auspicious proper correlation
+  summary: The strong, correctly placed fifth line with line 2 as proper correlate
+    produces auspicious symbolism.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Issue of the hexagram in sincere following
+  summary: The sixth line is presented as the issue of the hexagram and as an ideal
+    of following directed by sincere adherence.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: proper and improper following
+  taxonomy_refs: []
+  basis: Several lines are interpreted through whom they ought to follow, cleave to,
+    or leave, with different omens or cautions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level divinatory pattern, not a cross-cultural motif
+    claim.
+- id: motif:2
+  label: loyal minister beside sovereign ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Line 4 is cast as a great minister next to the ruler in line 5, where adherents
+    may endanger the ruler's supreme authority unless sincere loyalty intervenes.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage concerns maintaining royal authority, but it does not narrate
+    accession, legitimation, or a mythic king-making episode.
+- id: motif:3
+  label: public-spirited departure beyond the gate
+  taxonomy_refs:
+  - departure
+  basis: The subject of line 1 goes beyond his gate to find associates, and this is
+    interpreted as public spirit rather than selfishness.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The movement beyond the gate is brief symbolic commentary, not an extended
+    journey narrative.
+- id: motif:4
+  label: auspicious correct placement and correlation
+  taxonomy_refs:
+  - wisdom
+  basis: Correct place, proper correlation, caution, bad omen, and auspicious symbolism
+    are used to derive guidance from line positions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage is technical divinatory exegesis
+    rather than a wisdom tale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5421-5427
+  quote_or_summary: Line 1 is strong, lord of the lower trigram, below weak lines;
+    this represents changing pursuit, yet strength and correct place make its subject
+    fortunate, and going beyond the gate to find associates shows public spirit.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 5428-5431
+  quote_or_summary: Line 2 is weak; its proper correlate is strong line 5, but it
+    cleaves to the line below rather than waiting to follow line 5, producing bad
+    omen symbolism.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 5432-5435
+  quote_or_summary: Line 3 is weak; it follows the strong line above and leaves line
+    1, reversing line 2's course, but line 4 is not its proper correlate, so the paragraph
+    is cautional.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 5436-5440
+  quote_or_summary: Line 4 is strong and in the place of a great minister beside the
+    ruler in line 5; adherents may injure the ruler's sole authority unless sincere
+    loyalty averts error and misfortune.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 5441-5442
+  quote_or_summary: Line 5 is strong, correctly placed, and has line 2 as its proper
+    correlate, producing auspicious symbolism.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 5443-5447
+  quote_or_summary: Line 6 shows the issue of the hexagram and represents an ideal
+    of following directed by very sincere adherence; the supplied passage ends mid-phrase.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by the passage ending mid-sentence. Motif candidates
+    are constrained to passage-level symbolic and political patterns. No comparison
+    claims are made because the supplied passage does not itself support comparison
+    to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata; no external I Ching context added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l5421-l5447
+  passage_sha256=486e8a9654c77bf55560c8e1197551e400a928847bede24012f88306d7464825
+

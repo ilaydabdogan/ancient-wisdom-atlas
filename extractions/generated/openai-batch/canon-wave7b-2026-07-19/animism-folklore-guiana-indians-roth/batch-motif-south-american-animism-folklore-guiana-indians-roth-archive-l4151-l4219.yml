@@ -1,0 +1,522 @@
+---
+record_id: batch.motif.south-american-animism-folklore-guiana-indians-roth-archive-l4151-l4219
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+passage_locator:
+  label: WOEKS OF REFERENCE / BOTH) WORKS OF BEFEBENCE 115 / FAMILIAR SPIRITS / Chapter
+    VIII; lines 4151-4219
+  start: '4151'
+  end: '4219'
+  translation: An Inquiry into the Animism and Folk-Lore of the Guiana Indians
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains two adjacent transformation legends. In the first,
+    two brothers go by corial to shoot morokot fish; the younger ignores his elder
+    brother's warning to stop singing, is left on the bank, and is later found transformed
+    by the Hebu into a dangerous beast that his father and elder brother shoot. In
+    the second, an ethnographic note introduces a taboo against eating after nightfall;
+    one of two fishers ignores a friend's warning and continues eating kokerite nuts
+    after dark, becomes a Yawahu tiger, and later kills his disbelieving mother.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two brothers set out in a corial to shoot morokot fish after telling their
+    old father where they were going; the younger brother steers and sings, while
+    the elder warns him that the noise will prevent them from getting fish.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The younger brother ignores the warning, is left on the riverbank, and continues
+    singing louder; the elder brother shoots fish alone and later returns to find
+    the sound deafening.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The father follows prominent tracks and crushed leaves from the waterside,
+    reaches his son, calls to him, and receives a frightening roar in reply.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The younger brother is said to have been changed by the Hebu into an evil
+    beast; when he appears in the clearing, his father and elder brother shoot him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The transformed younger brother is described as changed from the neck downward
+    and having two large teeth on his belly.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note states that in former times eating after nightfall was taboo and that
+    the punishment for breaking the taboo was transformation into a bird or beast.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Two fishers build a shed, set hooks, and eat ripe kokerite palm nuts near
+    sunset; one warns the other to stop eating and go into his hammock.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The warned fisher continues eating after dark; his friend hears him breaking
+    nuts with his teeth, lights a wax torch, and sees a tiger crunching the seeds.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The surviving friend reports to the transformed fisher's mother that her son
+    ate after dark and is now a Yawahu tiger.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The mother disbelieves the report, goes into the bush despite warnings, meets
+    the tiger, and is killed.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: elder brother
+  description: The elder of two brothers who warns the younger, fishes alone, reports
+    the younger's condition, and helps shoot the transformed beast.
+  role_refs:
+  - role:1
+  - role:6
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: younger brother
+  description: The younger brother who steers and sings, ignores the warning, is left
+    on the bank, and is transformed into an evil beast.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: old father
+  description: The father of the two brothers; he disbelieves the initial report,
+    follows the tracks to his transformed son, and helps shoot him.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Hebu
+  description: The being named as the agent that changed the younger brother into
+    an evil beast.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: surviving fisher friend
+  description: One of two fishers; he warns his friend to stop eating near sunset,
+    witnesses the transformation, escapes, and reports it to the mother.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:6
+  name_or_label: fisher who becomes a Yawahu tiger
+  description: The fisher who keeps eating kokerite nuts after dark, is seen as a
+    tiger, and is identified as a Yawahu tiger.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: mother of the transformed fisher
+  description: The mother who refuses to believe that her son has become a tiger,
+    goes to see for herself, and is killed.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: warning companion
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Each warns another person to stop the behavior that precedes transformation.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: warning-ignoring offender
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: 'Each continues the warned-against behavior: singing noisily or eating after
+    dark.'
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: transformed dangerous beast
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The younger brother becomes an evil beast ready to kill; the fisher becomes
+    a tiger.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: role:4
+  label: skeptical parent or kin
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: The father and the mother each disbelieve an initial report and go to see
+    the transformed relative.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: role:5
+  label: transforming spirit or agent
+  assigned_to:
+  - fig:4
+  basis: The Hebu is explicitly named as changing the younger brother into an evil
+    beast.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: surviving witness and reporter
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Each survives the encounter and reports the transformation to a relative.
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: role:7
+  label: victim of transformed kin
+  assigned_to:
+  - fig:7
+  basis: The mother meets the tiger and is killed.
+  evidence_refs:
+  - ev:9
+- id: role:8
+  label: defensive shooter
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The father and elder brother prepare to shoot the transformed younger brother
+    and do so when he appears.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: corial
+  literal_form: Corial used by the brothers on the fishing trip.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: waterside and creek
+  literal_form: Riverbank, waterside, and neighboring creek settings for fishing and
+    transformation encounters.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: kokerite palm and ripe nuts
+  literal_form: A kokerite palm with ripe nuts eaten by the fishers before and after
+    sunset.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: two teeth on the belly
+  literal_form: Two large teeth located on the belly of the transformed younger brother.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wax torch
+  literal_form: A wax torch lit by the surviving fisher to see what had happened after
+    dark.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Brothers' fishing trip and ignored warning
+  summary: Two brothers travel by corial to shoot fish; the elder warns the younger
+    against singing, but the younger persists and is left on the bank.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Father's search and shooting of the transformed son
+  summary: The father and elder brother investigate the younger brother's condition,
+    find signs of a large creature, and shoot him after he appears as a transformed
+    beast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fishers' camp and eating after dark
+  summary: Two fishers set hooks and eat kokerite nuts; one warns the other to stop
+    before nightfall, but the other continues after dark and is seen as a tiger.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Mother's disbelief and death
+  summary: The surviving fisher tells the mother that her son is now a Yawahu tiger;
+    she refuses to believe, goes into the bush, and is killed by the tiger.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: warning or taboo violation followed by beast transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: In both narratives, a warned-against act is continued and the offender becomes
+    a dangerous beast or tiger.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: 'The taxonomy label is approximate: the passage describes involuntary
+    or punitive transformation, not voluntary shape-shifting.'
+- id: motif:2
+  label: skeptical relative seeks proof of transformed kin
+  taxonomy_refs: []
+  basis: A father and a mother each reject a report about a transformed relative and
+    go to see for themselves; the mother is killed.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: 'The two outcomes differ: the father survives and helps shoot the beast,
+    while the mother is killed.'
+- id: motif:3
+  label: abnormal sound as sign of transformation
+  taxonomy_refs: []
+  basis: The younger brother's singing becomes a deafening roar, and the transformed
+    eater is recognized by tooth-crunching and a deep rough voice.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage does not state a general rule that sound always marks transformation.
+- id: motif:4
+  label: nightfall eating taboo
+  taxonomy_refs: []
+  basis: The note explicitly states a taboo against meals after nightfall and the
+    second legend narrates a man continuing to eat after dark and becoming a tiger.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The note says the original reasons for the taboo are not obtainable.
+comparison_claims:
+- id: claim:1
+  claim: The two narratives in this passage can be cautiously compared as instances
+    of an internal pattern in which an ignored warning precedes transformation into
+    a dangerous beast.
+  claim_level: same_motif
+  target: two adjacent Guiana transformation legends in the passage
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison within the supplied passage, not evidence
+    of historical contact or broader distribution.
+- id: claim:2
+  claim: The second narrative is explicitly framed by the passage as an example of
+    a broader reported belief that eating after nightfall brings transformation into
+    a bird or beast.
+  claim_level: same_motif
+  target: reported old-time Guiana taboo against eating after nightfall
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only one example and notes that the reasons for the
+    taboo are not known.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4151-4155
+  quote_or_summary: Two brothers set out by corial to shoot morokot fish; the younger
+    steers and sings, and the elder warns that the noise will prevent them from getting
+    fish.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 4156-4166
+  quote_or_summary: The younger brother is left on the bank and keeps singing louder;
+    the elder fishes alone, returns, hears deafening rolling and roaring, becomes
+    frightened, and goes home without him.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 4166-4174
+  quote_or_summary: The father disbelieves the report, follows prominent tracks and
+    crushed leaves from the waterside, calls to his son, and is frightened by a terrible
+    roar.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 4174-4182
+  quote_or_summary: The younger son has been changed by the Hebu into an evil beast
+    ready to kill; the father and elder brother shoot him, and he is described as
+    changed from the neck downward with two large teeth on his belly.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 4184-4190
+  quote_or_summary: A note says that in former times eating after nightfall was taboo
+    and that the punishment for infringing this taboo was transformation into some
+    bird or beast.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 4191-4202
+  quote_or_summary: Two fishers build a shed, set hooks, and eat ripe kokerite palm
+    nuts; as the sun nears the horizon, one warns the other to stop eating and go
+    into his hammock.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 4202-4208
+  quote_or_summary: The warned fisher continues eating after dark; his friend hears
+    nuts being broken with teeth, lights a wax torch, and sees a tiger crunching the
+    seeds.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: 4208-4215
+  quote_or_summary: The surviving friend leaves at dawn, returns home, and tells the
+    mother that her son persisted in eating after dark and is now a Yawahu tiger;
+    he later brings her near the place and she hears a deep rough voice.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: 4215-4219
+  quote_or_summary: The mother refuses warnings, goes alone toward the sound, meets
+    the tiger, and is killed; the passage states she was punished for not trusting
+    the report.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal narrative sequence is clear despite minor OCR artifacts. Motif
+    labels, especially the use of the available 'shapeshifter' taxonomy ref, require
+    human review because the transformations are punitive/involuntary rather than
+    voluntary shape-changing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Two adjacent legends were extracted together because both occur within the supplied line range.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:south-american-animism-folklore-guiana-indians-roth-archive__l4151-l4219
+  passage_sha256=97e2ebc2c0297be9d03ce2d864c699835f30cd548a4ce9e7882555edb95a42f6
+

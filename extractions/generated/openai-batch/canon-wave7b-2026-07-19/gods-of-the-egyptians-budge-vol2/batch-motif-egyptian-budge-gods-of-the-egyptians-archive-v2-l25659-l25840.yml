@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l25659-l25840
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 25659-25840
+  start: '25659'
+  end: '25840'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index page listing headwords and volume/page references, mainly entries
+    beginning with D and E. The entries include places, divine names or groups, objects
+    such as disks and eggs, afterlife-related terms, animals, and scholarly or classical
+    references.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index page made up of headwords followed by volume and page
+    references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes entries for a disk, a Great Disk, a House of the Disk,
+    and a winged disk.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index includes several egg-related entries, including Egg, Egg-ball of
+    beetle, Egg of Seb, and the Great Egg.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: The index gives an equation-like entry connecting a door with Nut.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The index includes dog-related entries, including a statement that dogs howl
+    before a death.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: The index includes afterlife or otherworldly place terms such as Amenti, Elysian
+    Fields, the East Gate, and souls of the East.
+  category: setting
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:13
+- id: obs:7
+  text: The index lists numbered or grouped divine collectives, including the Eight
+    gods of Hermopolis, the Ennead, the Nine Ennutchi, and the Elephantine triad.
+  category: relationship
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: obs:8
+  text: 'The index includes devouring or eating labels: Devourer of Amenti, Eater
+    of the dead, and Eater of the Ass.'
+  category: attribute
+  evidence_refs:
+  - ev:6
+  - ev:14
+figures:
+- id: fig:1
+  name_or_label: Devourer of Amenti
+  description: Indexed under the label “Devourer of Amenti.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: Eater of the dead
+  description: Indexed under the label “Eater of the dead.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Eater of the Ass
+  description: Indexed under the label “Eater of the Ass.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:14
+- id: fig:4
+  name_or_label: Nut
+  description: Named in the index entry “Door= Nut.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Seb
+  description: Named in the entries “Egg of Seb” and “Erpat = Seb.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: fig:6
+  name_or_label: Eight gods of Hermopolis
+  description: Indexed as a group called the Eight gods of Hermopolis.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:7
+  name_or_label: Ennead
+  description: Indexed as “Ennead.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: Elephantine triad
+  description: Indexed as “Elephantine, triad of.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:10
+- id: fig:9
+  name_or_label: Ea
+  description: Indexed as “Ea” with page references.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:11
+roles:
+- id: role:1
+  label: devouring or eating figure label
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The figure labels contain “Devourer” or “Eater.”
+  evidence_refs:
+  - ev:6
+  - ev:14
+- id: role:2
+  label: figure named in door-equation entry
+  assigned_to:
+  - fig:4
+  basis: Nut is named in the entry written as “Door= Nut.”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: figure associated with egg entry
+  assigned_to:
+  - fig:5
+  basis: Seb is named in “Egg of Seb” and also appears in an equation entry.
+  evidence_refs:
+  - ev:4
+  - ev:11
+- id: role:4
+  label: indexed divine collective or group
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: 'The entries identify grouped divine collectives: eight gods, an Ennead,
+    and a triad.'
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: role:5
+  label: indexed named figure
+  assigned_to:
+  - fig:9
+  basis: Ea appears as an index headword with page references.
+  evidence_refs:
+  - ev:11
+symbols:
+- id: sym:1
+  label: disk and winged disk
+  literal_form: disk; Great Disk; winged disk
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: door identified with Nut
+  literal_form: door in the entry “Door= Nut”
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: egg and Great Egg
+  literal_form: Egg; Egg of Seb; Great Egg
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - cosmic_egg
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: dung-beetle and egg-ball
+  literal_form: dung-beetle; egg-ball of beetle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: dogs howling before death
+  literal_form: dogs howl before a death
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: East Gate and souls of the East
+  literal_form: East Gate; souls of the East
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: Boat of Earth
+  literal_form: Earth, Boat of
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: cosmic or primordial egg cluster
+  taxonomy_refs:
+  - cosmic_egg
+  basis: The index groups several egg-related headwords, including Egg, Egg of Seb,
+    and the Great Egg.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage is only an index and does not narrate a cosmogony; the taxonomy
+    link rests on headword evidence only.
+- id: motif:2
+  label: afterlife topography with gates, fields, and eastern souls
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The index includes East Gate, souls of the East, and Elysian Fields.
+  evidence_refs:
+  - ev:8
+  - ev:13
+  confidence: low
+  cautions: No journey narrative or spatial sequence is described in this index excerpt.
+- id: motif:3
+  label: afterlife devourer or eater
+  taxonomy_refs: []
+  basis: The index includes Devourer of Amenti and Eater of the dead.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The index gives labels only; it does not describe a judgment scene or
+    the devouring action.
+- id: motif:4
+  label: death sign announced by howling dogs
+  taxonomy_refs: []
+  basis: The index entry states that dogs howl before a death.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage provides only an index reference and no narrative example.
+- id: motif:5
+  label: numbered divine collectives
+  taxonomy_refs: []
+  basis: The index lists the Eight gods of Hermopolis, the Ennead, the Nine Ennutchi,
+    and the Elephantine triad.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: This is a structural pattern in index entries rather than a narrated mythic
+    action.
+- id: motif:6
+  label: winged disk emblem
+  taxonomy_refs: []
+  basis: The index includes the Disk, the Great Disk, and the winged disk.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The excerpt does not describe the emblem’s mythic function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25659-25840
+  quote_or_summary: The passage is an index page headed “INDEX” with headwords and
+    volume/page references from “Der al-Bahari” through “Etet.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: quote
+  locator: lines 25688-25702
+  quote_or_summary: "“Disk ... the Great ... the winged”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: line 25710
+  quote_or_summary: "“Door= Nut, ii. 106”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 25739-25746
+  quote_or_summary: "“Egg ... Egg of Seb ... Egg, the Great”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 25716-25740
+  quote_or_summary: "“Dung-beetle, i. 356 ... Egg-ball of beetle, i. 357”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 25670-25736
+  quote_or_summary: "“Devourer of Amenti ... Eater of the dead”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 25704-25709
+  quote_or_summary: "“Dog, the ... Dogs, howl before a death”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: quote
+  locator: lines 25724-25734
+  quote_or_summary: "“Earth, Boat of ... East, Gate of ... East, souls of”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:9
+  type: quote
+  locator: lines 25747-25808
+  quote_or_summary: "“Eight gods of Hermopolis ... Ennead ... Ennutchi, the Nine”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:10
+  type: quote
+  locator: lines 25767-25769
+  quote_or_summary: "“Elephantine, triad of, ii. 49 ft.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:11
+  type: quote
+  locator: lines 25720-25833
+  quote_or_summary: "“Ea, i. 289, 359, 360 ... Erpat = Seb, ii. 95”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:12
+  type: summary
+  locator: lines 25659-25840
+  quote_or_summary: The excerpt includes classical or non-Egyptian names among the
+    index entries, but gives only page references and no comparative statement.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:13
+  type: quote
+  locator: lines 25785-25789
+  quote_or_summary: "“Elysian Fields, i. 103, 168; ii. 62, 63”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:14
+  type: quote
+  locator: lines 25732-25735
+  quote_or_summary: "“Eater of the Ass, i. 208, 209, 491; ii. 246”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an index excerpt, so literal headwords can be extracted, but
+    motif identification is weak because no mythic narrative or exposition is present.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. OCR irregularities in the source excerpt were preserved or summarized cautiously.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l25659-l25840
+  passage_sha256=20a0522b8eca0ae42cdc7746063102c8c4495c933d0d470fe65e6f108f2f3b3b
+

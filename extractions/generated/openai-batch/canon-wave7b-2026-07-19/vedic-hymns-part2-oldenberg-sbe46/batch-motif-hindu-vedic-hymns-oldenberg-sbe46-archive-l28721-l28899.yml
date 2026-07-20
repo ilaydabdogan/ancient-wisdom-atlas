@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l28721-l28899
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: HYMNS. / W275 6, / INDEX OF WORDS. / HYMNS.; lines 28721-28899
+  start: '28721'
+  end: '28899'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A non-narrative index section listing transliterated Vedic terms, English
+    glosses, and hymn references. The entries include terms for flame and splendour,
+    animal images such as horn, hawk, and horses, friendship terms, motion and hearing
+    verbs, a year reference, and a parenthetical mention of Agni as having been born
+    white.
+  language: English with transliterated Sanskrit entries
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index of words under the heading “HYMNS,” giving transliterated
+    terms, glosses, and hymn citations rather than narrating a mythic episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries are glossed with flame, flaming, splendour, or a flame-like
+    bodily attribute.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index includes animal-related entries for horn, a horned animal, a hawk,
+    tawny horses, and a possible white horse.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index includes relationship terms glossed as kind friend, friendship,
+    and friend.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Some entries gloss actions such as sending upwards, rising up, opening, warming,
+    hearing, and hissing.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The entry for “samvatsara” is glossed as year and includes the phrase “after
+    a year.”
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: One entry includes a phrase glossed as “who had been born white” and identifies
+    the figure parenthetically as Agni.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named parenthetically in an index entry glossed as “who had been born
+    white.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Two tawny horses / possible white horse
+  description: Animal figures appearing in lexical glosses for tawny horses and a
+    possible white horse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Hawk
+  description: Animal figure appearing in an entry glossed as hawk.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Horned animal
+  description: Animal figure appearing in an entry glossed as horned animal.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named figure in parenthetical gloss
+  assigned_to:
+  - fig:1
+  basis: The index entry names Agni in parentheses after the gloss “who had been born
+    white.”
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: animal figure in lexical gloss
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage lists animal-related glosses including horses, hawk, and horned
+    animal.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Flame imagery
+  literal_form: flame; flaming; splendour; hair as flame
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Horn
+  literal_form: horn; horned animal
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Hawk
+  literal_form: hawk
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Horses
+  literal_form: two tawny horses; possible white horse
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Non-narrative index passage
+  summary: The excerpt does not present a mythic scene; it lists vocabulary items,
+    glosses, and hymn references, including images of flame, animals, friendship,
+    motion, time, and Agni.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Flaming hair or flame-bodied attribute
+  taxonomy_refs: []
+  basis: The index includes a term glossed as “whose hair is flame,” alongside other
+    entries glossed as flame, flaming, splendour, and brightest.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an index, not a narrative hymn passage; the motif status
+    is lexical and needs review in the cited hymnic contexts.
+- id: motif:2
+  label: White birth of a named figure
+  taxonomy_refs:
+  - sacred_birth
+  basis: One index entry glosses a phrase as “who had been born white” and identifies
+    Agni parenthetically.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: Only the index gloss is available here; no full birth scene or sacred-birth
+    narrative is present in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28721-28899
+  quote_or_summary: The supplied passage is headed “HYMNS” and consists of word-index
+    entries with transliterated terms, glosses, and hymn references.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 28721-28899; entries including sdka, sokih-kesa, sokishmat, sokis
+  quote_or_summary: "“sdka, flame”; “sokih-kesa, whose hair is flame”; “sokishmat,
+    flaming”; “sokis, splendour, flame.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpts quoted.
+- id: ev:3
+  type: quote
+  locator: lines 28721-28899; entries including sringa, sringin, syava, syena, sveté
+  quote_or_summary: "“sringa, horn”; “sringin, horned animal”; “syava, the two tawny
+    horses”; “syena, hawk”; “sveté, white (horse?).”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpts quoted.
+- id: ev:4
+  type: quote
+  locator: lines 28721-28899; entries including séva and Sikhi
+  quote_or_summary: "“séva, a kind friend”; “friendship”; “Sikhi; friend.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpts quoted.
+- id: ev:5
+  type: quote
+  locator: lines 28721-28899; entries including sri, sru, svas
+  quote_or_summary: "“he has sent upwards”; “rise up”; “to open”; “thou warmest”;
+    “to hear”; “to hiss.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpts quoted.
+- id: ev:6
+  type: quote
+  locator: lines 28721-28899; entry samvatsara
+  quote_or_summary: "“samvatsara, year: samvatsaré, after a year.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: quote
+  locator: lines 28721-28899; entry sveté / svetam gag#anam
+  quote_or_summary: "“svetam gag#anam, who had been born white (Agni).”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an OCR-noisy index rather than a narrative passage. Literal
+    lexical extraction is moderately secure; motif candidates are tentative because
+    the cited hymn contexts are not included here. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy references are limited to the provided lists.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l28721-l28899
+  passage_sha256=aad177f38c5eb767df75f7a3c6c7b9e2a02bb872f866de75b036327daabba31a
+

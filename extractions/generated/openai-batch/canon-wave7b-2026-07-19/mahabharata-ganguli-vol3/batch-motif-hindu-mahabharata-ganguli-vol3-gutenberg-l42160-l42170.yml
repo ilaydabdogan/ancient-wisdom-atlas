@@ -1,0 +1,209 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l42160-l42170
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CLXXVII / SECTION CLXXVIII / SECTION CLXXIX / SECTION CLXXX; lines
+    42160-42170
+  start: '42160'
+  end: '42170'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"follows this Ajagara vow"'
+  summary: 'Bhishma states that a high-souled person who is free from attachments
+    and certain passions, and who follows the Ajagara vow, passes his days in great
+    delight. A new section begins with Yudhishthira asking Bhishma which refuge is
+    best for a person: kinsmen, acts, wealth, or wisdom.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Bhishma says that the person described has freed himself from attachments.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bhishma says that the person described has divested himself of fear, cupidity,
+    foolishness, and wrath.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bhishma says that the person follows the Ajagara vow, also described as a
+    sport.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Bhishma says that such a person succeeds in passing his days in great delight.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Yudhishthira asks Bhishma which among kinsmen, acts, wealth, and wisdom should
+    be a person's refuge.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Yudhishthira addresses Bhishma as grandsire while asking for an answer.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Bhishma
+  description: Speaker who continues a discourse and explains the result of following
+    the Ajagara vow.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yudhishthira
+  description: Speaker who asks Bhishma which refuge a person should choose among
+    kinsmen, acts, wealth, and wisdom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: High-souled person
+  description: A person freed from attachments and from fear, cupidity, foolishness,
+    and wrath, who follows the Ajagara vow.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: instructor
+  assigned_to:
+  - fig:1
+  basis: Bhishma gives a statement about the conduct and result of following the Ajagara
+    vow.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: grandsire
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira addresses the respondent as grandsire.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: questioner
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira asks which refuge is best and requests an answer.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: vow-follower
+  assigned_to:
+  - fig:3
+  basis: The described person follows the Ajagara vow after becoming free of attachments
+    and passions.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Ajagara vow
+  literal_form: vow named Ajagara
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: refuge options
+  literal_form: kinsmen, acts, wealth, wisdom
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Bhishma describes the result of the Ajagara vow
+  summary: Bhishma says that one who has relinquished attachment and certain passions
+    and follows the Ajagara vow lives in great delight.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Yudhishthira asks about refuge
+  summary: Yudhishthira asks Bhishma whether kinsmen, acts, wealth, or wisdom should
+    be a person's refuge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: renunciant freedom from attachments and passions
+  taxonomy_refs: []
+  basis: The passage presents release from attachments and from fear, cupidity, foolishness,
+    and wrath as part of the condition of the high-souled person following the vow.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is brief and does not explain the larger vow context or its
+    practices.
+- id: motif:2
+  label: ethical inquiry into true refuge
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira asks an elder which among kinsmen, acts, wealth, and wisdom
+    should serve as refuge for a person.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only the question is present in the provided range; the answer is not
+    included.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 42160-42164
+  quote_or_summary: Bhishma says that a high-souled person, freed from attachments
+    and from fear, cupidity, foolishness, and wrath, who follows the Ajagara vow,
+    passes his days in great delight.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise quoted and summarized evidence.
+- id: ev:2
+  type: quote
+  locator: 42168-42170
+  quote_or_summary: Yudhishthira asks Bhishma which of kinsmen, acts, wealth, or wisdom
+    should be a person's refuge.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; concise quoted and summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage contains only the end of one teaching and the opening question
+    of the next section.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l42160-l42170
+  passage_sha256=a2ccb9581a9f0343f3d382f26d89b0a5c2b290dd7ba2266838f8b07462f96c3b
+

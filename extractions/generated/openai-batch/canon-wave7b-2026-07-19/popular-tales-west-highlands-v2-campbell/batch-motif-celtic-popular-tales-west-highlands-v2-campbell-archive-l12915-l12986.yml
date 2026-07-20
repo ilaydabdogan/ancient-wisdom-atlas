@@ -1,0 +1,480 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l12915-l12986
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: EIDDLES. 413 / RIDDLES. 415 / RIDDLES. 417 / RIDDLES. 419; lines 12915-12986
+  start: '12915'
+  end: '12986'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A sequence of riddles, with English prompts, answers, and some Scottish
+    Gaelic equivalents, describes ordinary objects and situations through puzzling
+    images: a sieve as a many-doored house, smoke, smoke before flame, an apple-tree
+    paradox, a potato pot, a thorn in the foot, a tailor''s thimble, a shoe on a foot,
+    and fire, griddle, and oatcake.'
+  language: English with Scottish Gaelic
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a set of riddles and presents prompts followed by
+    answers, with some Gaelic parallel wording.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:2
+  text: One riddle describes a small house in the west with five hundred doors; the
+    stated answer is a sieve.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One riddle describes something higher than the king's house and finer than
+    silk; the stated answer is smoke.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One riddle places a son on the housetop and says the father is unborn; the
+    stated answer is smoke before flame.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One riddle describes an eyeless man going to a tree with apples and neither
+    leaving apples on it nor taking apples off; the explanation says there were two
+    and he took one.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One riddle describes 'Totaman' as a little black man three feet under with
+    a wooden bonnet; the stated answer is a potato pot with its lid in.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: One riddle says the speaker went to the wood, did not seek or find the object,
+    and because it was not found took it home; the stated answer is a thorn in the
+    foot.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: One riddle describes a waveless well filled with flesh and blood; the stated
+    answer is a tailor's thimble.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: One riddle describes Blacky at the door with a human bone in her mouth; the
+    stated answer is a shoe on a foot.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The final riddle gives a below-middle-above color arrangement and answers
+    with fire, griddle, and oatcake.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: son on the housetop
+  description: A son is placed on the housetop in the riddle answered as smoke before
+    flame.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: unborn father
+  description: A father is described as unborn in the riddle answered as smoke before
+    flame.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: eyeless man
+  description: A man described as eyeless goes to a tree where there are apples.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Totaman / little black man
+  description: A figure called Totaman is described as a little black man three feet
+    under with a bonnet of wood; the answer identifies a potato pot with its lid in.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Blacky
+  description: A figure called Blacky is described as outside the door with a human
+    bone in her mouth; the answer identifies a shoe on a foot.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: riddle actor
+  assigned_to:
+  - fig:3
+  basis: The figure performs the action of going to the apple tree in the riddle prompt.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: personified object
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The riddles give personal names or human-like descriptions to objects later
+    identified as a pot and a shoe.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:3
+  label: personified smoke as son
+  assigned_to:
+  - fig:1
+  basis: The riddle's answer is smoke before flame, and the prompt calls the rooftop
+    figure the son.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: personified flame as unborn father
+  assigned_to:
+  - fig:2
+  basis: The riddle's answer is smoke before flame, and the prompt says the father
+    is unborn.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sieve as many-doored house
+  literal_form: 'A small house in the west with five hundred doors; answer: sieve.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: smoke
+  literal_form: Smoke described as higher than the king's house and finer than silk.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: smoke before flame
+  literal_form: Smoke and flame expressed through a son/father relation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: apple tree
+  literal_form: A tree where there are apples in the eyeless-man riddle.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: buried pot with wooden lid
+  literal_form: 'Little black man three feet under with a bonnet of wood; answer:
+    potato pot with its lid in.'
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: thorn in the foot
+  literal_form: A thorn in the foot carried home after not being sought or found.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: thimble as waveless well
+  literal_form: 'A waveless well holding flesh and blood; answer: tailor''s thimble.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: shoe with foot-bone
+  literal_form: 'Blacky with a human bone in her mouth; answer: shoe on a foot.'
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: fire, griddle, and oatcake stack
+  literal_form: A below-middle-above arrangement answered as fire, griddle, and oatcake.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Sieve riddle
+  summary: A many-doored small house in the west is revealed by the answer to be a
+    sieve.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Smoke and flame riddles
+  summary: Smoke is first described by height and fineness, then smoke before flame
+    is expressed as a son on the housetop before his father is born.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Apple-tree paradox
+  summary: An eyeless man goes to an apple tree and the wording creates a paradox
+    about leaving and taking apples, resolved by the note that there were two and
+    he took one.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Potato pot riddle
+  summary: A little black man under the ground with a wooden bonnet is identified
+    as a potato pot with its lid in.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Thorn carried home
+  summary: The speaker goes to the wood, does not seek or find the object, and carries
+    it home because it was not found; the answer is a thorn in the foot.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Thimble well riddle
+  summary: A waveless well filled with flesh and blood is identified as a tailor's
+    thimble.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Shoe and foot riddle
+  summary: Blacky is described at the door with a human bone in her mouth and is identified
+    as a shoe on a foot.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:8
+- id: scene:8
+  label: Hearth cooking stack
+  summary: A layered color riddle is answered as fire, griddle, and oatcake.
+  figure_refs: []
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Riddling as concealed knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is explicitly a sequence of riddles, each requiring recognition
+    of an ordinary answer behind indirect description.
+  evidence_refs:
+  - ev:10
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage does not present a contest, sage, supernatural teacher, or
+    explicit wisdom trial; the wisdom connection is limited to riddle form and knowledge
+    recognition.
+- id: motif:2
+  label: Personified ordinary objects
+  taxonomy_refs: []
+  basis: 'Several riddles personify answers or phenomena: smoke and flame as son and
+    father, a pot as a little black man, and a shoe as Blacky.'
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: These are riddle personifications, not narrative transformations.
+- id: motif:3
+  label: Paradoxical negative-action riddle
+  taxonomy_refs: []
+  basis: The apple-tree riddle and thorn riddle both rely on apparently contradictory
+    statements about not leaving, not taking, not seeking, not finding, and nevertheless
+    taking something home.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage gives riddling paradoxes but no extended narrative context.
+- id: motif:4
+  label: Domestic objects recast as strange places or bodies
+  taxonomy_refs: []
+  basis: A sieve becomes a many-doored house, a thimble becomes a waveless well of
+    flesh and blood, a shoe holds a human bone, and a hearth arrangement is encoded
+    as a colored stack.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: This is a descriptive riddle pattern rather than a mythic symbol system
+    explicitly explained by the text.
+comparison_claims:
+- id: claim:1
+  claim: The passage's riddle-and-answer structure can be cautiously compared by function
+    to a wisdom motif family, because it foregrounds concealed knowledge and recognition
+    of hidden meanings.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:10
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself contains no mythic wisdom figure, contest, initiation,
+    or explicit teaching scene; the comparison is functional and genre-based only.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12915-12986; sieve riddle
+  quote_or_summary: "“A small house out in the West, / And five hundred doors in it.
+    / A sieve.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 12915-12986; smoke riddle
+  quote_or_summary: "“It is higher than the king's house, / It is finer than silk.
+    / Smoke.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 12915-12986; smoke before flame riddle
+  quote_or_summary: "“The son on the house top. / And the father unborn, / Smoke before
+    flame.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 12915-12986; apple-tree riddle
+  quote_or_summary: A man went eyeless to a tree with apples; the riddle says he neither
+    left apples on it nor took apples off, and explains that there were two and he
+    took one.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 12915-12986; Totaman riddle
+  quote_or_summary: Totaman is described as a little black man three feet under with
+    a bonnet of wood; the answer is a potato pot with the lid in.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 12915-12986; thorn riddle
+  quote_or_summary: "“I went to the wood and I sought it not... And because I found
+    it not, I took it home with me. / A thorn in the foot.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 12915-12986; thimble riddle
+  quote_or_summary: "“A waveless well, it holds its fill of flesh and blood. / A tailor's
+    thimble.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:8
+  type: quote
+  locator: lines 12915-12986; shoe riddle
+  quote_or_summary: "“Blacky... out at the door and a human bone in her mouth. / A
+    shoe on a foot.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:9
+  type: quote
+  locator: lines 12915-12986; fire, griddle, and oatcake riddle
+  quote_or_summary: "“Ked below, black in the middle, and white above. / Fire, griddle,
+    and oatcake.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:10
+  type: summary
+  locator: lines 12915-12986; passage heading and bilingual presentation
+  quote_or_summary: The passage is headed “RIDDLES. 419” and gives English riddle
+    texts, answers, and some Scottish Gaelic equivalents.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a compact riddle list with clear stated answers, supporting
+    object, personification, and riddle-form motifs. Some OCR or transcription uncertainty
+    appears in wording such as “Ked below,” so human review is advised.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l12915-l12986
+  passage_sha256=9e5c927f7801c252a41c9075a82ea1218f0a5dfc3fc4ec655315aea498f8727f
+

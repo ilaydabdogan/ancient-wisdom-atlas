@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l6613-l6767
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER III. 17-29 27 / CHAPTER III. 30-35 29 / CHAPTER IV. 1-9 31 / CHAPTER
+    IV. 10-15 33; lines 6613-6767
+  start: '6613'
+  end: '6767'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents an antediluvian genealogy: Nédam marries his sister
+    and fathers Kenan; Kenan marries his sister Mfialéléth and fathers Mahalalel;
+    Mahalalel marries Dinah from his father’s-brother line and fathers Jared. In Jared’s
+    days, the angels of the Lord, called Watchers, descend to earth to instruct the
+    children of men. Editorial notes discuss the marriage pattern and connect the
+    Watchers passage with interpretations of Genesis 6:1-4 and related traditions.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nédam takes his sister as wife, she bears him a son, and he names the son
+    Kenan.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kenan takes Mfialéléth his sister as wife, she bears him a son, and he names
+    the son Mahalalel.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mahalalel takes Dinah as wife; Dinah is identified as the daughter of Baraki’él
+    and is associated with Mahalalel’s father’s-brother line.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dinah bears Mahalalel a son, and he names the son Jared.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In Jared’s days the angels of the Lord descend on earth; they are named the
+    Watchers and are said to instruct the children of men.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: An editorial note states that from the descent of the angels onward, men cease
+    to marry their sisters.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: An editorial note identifies the angels-of-the-Lord passage with a later Jewish
+    form of the myth of the fall of angels and their intercourse with the daughters
+    of men, connected with Genesis 6:1-4 and Isaiah 24:21.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Nédam
+  description: Male figure who takes his sister as wife and names his son Kenan.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Nédam’s sister-wife
+  description: Unnamed sister of Nédam who becomes his wife and bears Kenan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Kenan
+  description: Son of Nédam; later takes his sister Mfialéléth as wife and names his
+    son Mahalalel.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Mfialéléth
+  description: Sister-wife of Kenan who bears Mahalalel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Mahalalel
+  description: Son of Kenan; later takes Dinah as wife and names his son Jared.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Dinah
+  description: Wife of Mahalalel, daughter of Baraki’él, who bears Jared.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Baraki’él
+  description: Named parent of Dinah in the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Jared
+  description: Son of Mahalalel and Dinah; the descent of the angels is placed in
+    his days.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:9
+  name_or_label: angels of the Lord / Watchers
+  description: Heavenly beings who descend on earth in Jared’s days and are named
+    the Watchers.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:10
+  name_or_label: children of men
+  description: Human collective whom the Watchers are said to instruct.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: male genealogical ancestor who takes a wife and names a son
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:5
+  basis: Nédam, Kenan, and Mahalalel are each described as taking a wife and naming
+    a son.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: sister-wife and mother
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Nédam’s sister and Mfialéléth are each described as a sister taken as wife
+    who bears a son.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: wife from paternal-kin line and mother
+  assigned_to:
+  - fig:6
+  basis: Dinah is taken as wife, identified through Baraki’él and the father’s-brother
+    line, and bears Jared.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: son in genealogical succession
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:8
+  basis: Kenan, Mahalalel, and Jared are each named as sons born in the sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: kinsman named in wife’s ancestry
+  assigned_to:
+  - fig:7
+  basis: Baraki’él is named as Dinah’s parent in the marriage notice.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: descending heavenly instructors
+  assigned_to:
+  - fig:9
+  basis: The angels of the Lord, named Watchers, descend on earth to instruct the
+    children of men.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: human recipients of instruction
+  assigned_to:
+  - fig:10
+  basis: The children of men are the group whom the Watchers are said to instruct.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Nédam marries his sister and fathers Kenan
+  summary: Nédam takes his sister as wife; she bears a son whom he names Kenan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kenan marries Mfialéléth and fathers Mahalalel
+  summary: Kenan takes Mfialéléth his sister as wife; she bears a son whom he names
+    Mahalalel.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mahalalel marries Dinah and fathers Jared
+  summary: Mahalalel takes Dinah, daughter of Baraki’él, as wife; she bears Jared.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Watchers descend in Jared’s days
+  summary: The descent of the angels of the Lord, named Watchers, is placed in Jared’s
+    time, and their stated purpose is to instruct the children of men.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sister-wife births in an early genealogy
+  taxonomy_refs:
+  - sibling_pair
+  basis: Two successive marriage notices describe a man taking his sister as wife
+    and fathering a named son.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage presents genealogical
+    sibling marriages, not a separate sibling-pair tale.
+- id: motif:2
+  label: shift from sibling marriage to paternal-kin marriage
+  taxonomy_refs: []
+  basis: The primary sequence moves from sister-wife marriages to Mahalalel’s marriage
+    with Dinah from the father’s-brother line; an editorial note explicitly states
+    that after the angels’ descent men cease to marry their sisters.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The pattern depends partly on the editor’s note and on a short excerpt
+    of the surrounding genealogy.
+- id: motif:3
+  label: descent of heavenly Watchers to instruct humans
+  taxonomy_refs:
+  - wisdom
+  basis: The angels of the Lord, called Watchers, descend on earth to instruct the
+    children of men.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not specify the content of the instruction or whether
+    it is illicit; the wisdom taxonomy is therefore broad rather than exact.
+- id: motif:4
+  label: angelic descent associated with the age of a named ancestor
+  taxonomy_refs: []
+  basis: The passage connects the descent of the angels of the Lord with the days
+    of Jared.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The surrounding narrative after the supplied excerpt is incomplete.
+comparison_claims:
+- id: claim:1
+  claim: The Watchers episode is explicitly connected by the editorial note with the
+    Genesis 6:1-4 sons-of-God tradition and with Enochic and related early Jewish
+    and Christian interpretations in which angels descend and interact with humanity.
+  claim_level: same_motif
+  target: Genesis 6:1-4 Watchers / sons-of-God tradition, especially as read in Enoch
+    literature and related sources named in the note
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: The comparison rests on the supplied editorial note; the excerpt itself
+    only states descent and instruction and does not narrate the full fall-of-angels
+    episode.
+- id: claim:2
+  claim: The marriage-pattern note compares this passage’s movement away from sister
+    marriage with a statement attributed to Epiphanius that, after humanity expanded,
+    men no longer took their sisters in marriage but took wives from paternal-uncle
+    lines.
+  claim_level: same_function
+  target: Epiphanius, Haer. xxxix. 7 as cited in the editorial note
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an editorial comparison to a later interpretive witness, not
+    an independent narrative parallel within the primary text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6613-6619; CHAPTER IV. 10-15
+  quote_or_summary: Nédam takes his sister as wife; she bears him a son in the third
+    year of the fifth week, and he names him Kenan.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6619-6627; CHAPTER IV. 14
+  quote_or_summary: At the close of the eighth jubilee Kenan takes Mfialéléth his
+    sister as wife; she bears a son in the ninth jubilee, and he names him Mahalalel.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6627-6637; CHAPTER IV. 15
+  quote_or_summary: Mahalalel takes Dinah, daughter of Baraki’él and associated with
+    his father’s-brother line, as wife; she bears him a son, and he names him Jared.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:4
+  type: quote
+  locator: lines 6637-6767; CHAPTER IV. 15 primary text resumed after notes
+  quote_or_summary: "“in his days the angels of the Lord descended on the earth,”
+    and the resumed text identifies them as “those who are named the Watchers,” who
+    “should instruct the children of men.”"
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:5
+  type: summary
+  locator: editorial note on CHAPTER IV. 15, within lines 6613-6767
+  quote_or_summary: The editor notes that from the descent of the angels onward, men
+    cease to marry their sisters, and cites Epiphanius on a move toward marriages
+    from paternal-uncle lines.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; brief summary of note used.
+- id: ev:6
+  type: summary
+  locator: editorial note on “The angels of the Lord descended on the earth,” within
+    lines 6613-6767
+  quote_or_summary: The editor states that the later Jewish form of the myth concerning
+    the fall of angels and their intercourse with the daughters of men is constructed
+    on Genesis 6:1-4 and Isaiah 24:21.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; brief summary of note used.
+- id: ev:7
+  type: summary
+  locator: editorial note on CHAPTER IV. 15, within lines 6613-6767
+  quote_or_summary: The editor lists the Enoch literature, Testaments of the Twelve
+    Patriarchs, Philo, Jude, Peter, Josephus, Justin Martyr, and early Christian writers
+    as supporting the angelic interpretation of Genesis 6:1-4.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; brief summary of note used.
+- id: ev:8
+  type: summary
+  locator: editorial note on CHAPTER IV. 15, within lines 6613-6767
+  quote_or_summary: The editor also reports later objections and alternative interpretations
+    that rendered the figures as judges, mighty ones, or descendants of Seth rather
+    than angels.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; brief summary of note used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The primary text is interrupted by extensive editorial notes and the Watchers
+    sentence continues after an inserted note; extraction separates primary narrative
+    from editorial comparison where possible. Some line locators are approximate within
+    the supplied line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbol records were created because the supplied passage does not foreground one of the available concrete symbol forms as a symbolic object; the Watchers are treated as figures rather than symbols.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l6613-l6767
+  passage_sha256=bb21ba9bdf4ef748b6b2e682a0a0ba34890735266993d471c79bfe2b4cc3e478
+

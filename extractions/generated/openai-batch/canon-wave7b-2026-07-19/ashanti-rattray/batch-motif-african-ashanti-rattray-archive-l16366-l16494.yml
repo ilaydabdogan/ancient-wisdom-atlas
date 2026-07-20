@@ -1,0 +1,368 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l16366-l16494
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: F-F FFF, / F M M-F F, / F-F FFF. / M-M-M M-F-F-F-F,; lines 16366-16494
+  start: '16366'
+  end: '16494'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage combines repeated M/F hyphenated performance notation, numbered
+    sections, and Akan/Twi chant lines. It includes an Akoko refrain, repeated lines
+    beginning with Ye re kyere wo and Nso wo be hu, a stanza repeatedly naming Asase
+    and using paired Me dan wo lines, and a later stanza naming Ankamanefo, Akyerema,
+    Kuntunmirifa Gyaanadu, Ampatakyi, and Esono/'sono before returning to M/F notation.
+  language: Akan/Twi with M/F performance or tonal notation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with repeated hyphenated letter patterns using F and M and
+    includes numbered section markers such as II and III.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A sequence beginning with Akoko tua bon and Nhima hima hima is followed by
+    the repeated couplet Ye re kyere wo and Nso wo be hu; a similar refrain appears
+    again later.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:3
+  text: A stanza labeled II repeats Asase damirifa and contains several subsequent
+    lines beginning with Asase.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Within the Asase stanza, the line Asase me re be wu a is paired with Me dan
+    wo, and the line Asase me te ase a is also paired with Me dan wo.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The later refrain includes Akoko bon anopa before repeating Akoko tua bon,
+    Nhima hima hima, Ye re kyere wo, and Nso wo be hu.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A stanza labeled III repeats Yerefi Ankamanefo and includes two lines naming
+    Akyerema.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The final verbal lines name Kuntunmirifa Gyaanadu, Ampatakyi, 'sono/Esono,
+    and akuma before the passage returns to M/F notation.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Asase
+  description: Name repeated in the stanza labeled II, including Asase damirifa and
+    multiple lines beginning with Asase.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Akoko
+  description: Term at the start of refrain lines, including Akoko tua bon and Akoko
+    bon anopa.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Kyereduampon
+  description: Named term appearing in the Asase stanza after the line Asase ne no
+    mfuturu.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Odomankoma 'Kyerema
+  description: Compound name or title appearing in the Asase stanza in the line Odomankoma
+    'Kyerema se.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ankamanefo
+  description: Name or group/place label repeated in the line Yerefi Ankamanefo.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Akyerema
+  description: Name appearing in two lines beginning 0 ne Akyerema.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Kuntunmirifa Gyaanadu
+  description: Compound name or title in the final stanza.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Ampatakyi
+  description: Term appearing in the line Ampatakyi mene 'sono.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: "'sono / Esono"
+  description: Term appearing once as 'sono after Ampatakyi and again as Esono in
+    the following line.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named addressee in chant
+  assigned_to:
+  - fig:1
+  basis: Asase is repeated at the beginning of the stanza and appears in paired lines
+    followed by Me dan wo.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: refrain-opening term
+  assigned_to:
+  - fig:2
+  basis: Akoko begins the refrain sequence in both occurrences cited.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: named entity or title in chant
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: These names or terms appear in the chant without enough supplied context
+    to assign a more specific role.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: repeated formula name
+  assigned_to:
+  - fig:5
+  basis: Ankamanefo appears in the repeated formula Yerefi Ankamanefo.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: paired named figure in repeated lines
+  assigned_to:
+  - fig:6
+  basis: Akyerema appears in two parallel lines beginning 0 ne Akyerema.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: M/F hyphenated notation
+  literal_form: Repeated strings such as F-F FFF and M-M-F F-F-F-F
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: Ye/Nso repeated refrain
+  literal_form: Ye re kyere wo / Nso wo be hu
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: Asase name in repeated address
+  literal_form: Asase damirifa; Asase me re be wu a; Asase me te ase a
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Akoko refrain term
+  literal_form: Akoko tua bon; Akoko bon anopa
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: final named-animal/object word cluster
+  literal_form: Ampatakyi mene 'sono; Esono obu akuma
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: opening performance notation
+  summary: The passage begins with repeated F/M hyphenated notation and numbered section
+    markers before the verbal chant lines.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Akoko and Ye/Nso refrain
+  summary: An Akoko line and Nhima hima hima are followed by a repeated Ye re kyere
+    wo / Nso wo be hu couplet; a similar refrain recurs after the Asase stanza.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Asase stanza
+  summary: The stanza labeled II repeats Asase damirifa, names Kyereduampon and Odomankoma
+    'Kyerema, and contains paired Asase lines followed by Me dan wo.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Ankamanefo and final named sequence
+  summary: The stanza labeled III repeats Yerefi Ankamanefo, names Akyerema in parallel
+    lines, then gives a sequence naming Kuntunmirifa Gyaanadu, Ampatakyi, 'sono/Esono,
+    and akuma before returning to notation.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: refrain-separated ritual chant structure
+  taxonomy_refs: []
+  basis: The passage repeats an Akoko/Nhima refrain and the Ye re kyere wo / Nso wo
+    be hu couplet around the Asase stanza.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a formal pattern, not a narrative motif; the supplied passage
+    does not provide a translation or ritual explanation.
+- id: motif:2
+  label: paired Asase address with repeated response formula
+  taxonomy_refs: []
+  basis: The Asase stanza contains parallel lines Asase me re be wu a / Me dan wo
+    and Asase me te ase a / Me dan wo.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The candidate is based on repeated wording and structure; semantic interpretation
+    is limited because no translation is supplied.
+- id: motif:3
+  label: sequence of named beings or titles in chant
+  taxonomy_refs: []
+  basis: The later stanza proceeds through Ankamanefo, Akyerema, Kuntunmirifa Gyaanadu,
+    Ampatakyi, and 'sono/Esono in a compact sequence.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not identify whether these are persons, places, titles,
+    animals, or ritual references; roles remain uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16366-16404, opening notation block
+  quote_or_summary: Repeated notation includes forms such as F-F FFF and M-M-F F-F-F-F,
+    with section markers II and III.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 16405-16416, first verbal refrain
+  quote_or_summary: Akoko tua bon; Nhima hima hima; Ye re kyere wo; Nso wo be hu,
+    repeated.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 16417-16442, stanza labeled II
+  quote_or_summary: Asase damirifa; Asase me re be wu a, Me dan wo; Asase me te ase
+    a, Me dan wo; Asase a odi afunu; Odomankoma 'Kyerema se.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 16443-16454, second refrain
+  quote_or_summary: Akoko bon anopa; Akoko tua bon; Nhima hima hima; Ye re kyere wo;
+    Nso wo be hu, repeated.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 16455-16484, stanza labeled III
+  quote_or_summary: Yerefi Ankamanefo; 0 ne Akyerema be ko; Yerefi Ankamanefo; 0 ne
+    Akyerema bae.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 16485-16494, final verbal lines and return to notation
+  quote_or_summary: Kuntunmirifa Gyaanadu koko; Ampatakyi mene 'sono; Esono obu akuma;
+    followed by M/F notation.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Surface extraction is reliable for repeated wording, named terms, and structure.
+    Semantic interpretation is limited because the supplied passage has no English
+    translation for the Akan/Twi lines. No comparison claims are included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the passage does not clearly support the available taxonomy categories without translation or additional context.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l16366-l16494
+  passage_sha256=2dd54c2b73fe0de4336148565ca3257a90524b50d8e672331a7b709bbbd3e17d
+

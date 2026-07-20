@@ -1,0 +1,426 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l1155-l1301
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: CH. 1. INTRODUCTION. 3 / CH. I, INTRODUCTION. 5 / CH. 11, INTRODUCTION. 9
+    / CHAPTER II.; lines 1155-1301
+  start: '1155'
+  end: '1301'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Legge introduces the Yi King text as sixty-four symbolic essays based on
+    six-line figures. He describes King Wan's explanations of whole hexagrams, the
+    duke's line-by-line emblematic interpretations, later divinatory use of the figures
+    as oracles, and Appendix accounts of the origin of the trigrams, including Pao-hsi/Fu-hsi's
+    observation of heaven, earth, living creatures, and things near and far, plus
+    the Great Extreme producing two Forms, four Emblematic Symbols, and eight Trigrams.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Yi King is described as consisting of a text explaining lineal figures
+    and appendixes to that text.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Text is described as sixty-four short essays, enigmatically and symbolically
+    expressed, mostly on moral, social, and political themes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each of the sixty-four figures is made up of six lines, some whole and some
+    divided.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: King Wan takes the hexagrams one after another and gives the significance
+    of each as a whole, with indications of action and whether it will be lucky or
+    unlucky.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The duke of XA4u begins with the bottom line and expresses the significance
+    of each line through symbolical or emblematical illustration, also indicating
+    good or bad fortune.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Later people divined by the hexagrams and used the words under them as oracles
+    to ask about the future and whether to persevere in or withdraw from intended
+    courses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: One Appendix account says Pao-hsi observed forms in the sky, patterns on the
+    earth, appearances of birds and beasts, qualities of soil, his own person, and
+    things in general.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After these observations, Pao-hsi devised the eight lineal figures of three
+    lines each to display operations in nature and classify qualities of things.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: The eight trigrams are said to represent heaven or sky, waters, fire with
+    sun and lightning, thunder, wind and wood, water in forms such as rain and streams,
+    hill or mountain, and earth.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Another Appendix account says the Great Extreme produced the two Elementary
+    Forms, which produced four Emblematic Symbols, which produced the eight Trigrams.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The eight Trigrams are said to determine good and evil issues of events, from
+    which the great business of life ensued.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: King Wan
+  description: Interpreter who takes the hexagrams one by one and gives their whole
+    significance, including indications of action and luck or unluck.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: duke of XA4u
+  description: Interpreter who begins with the first or bottom line and gives symbolical
+    or emblematical illustrations for each line's significance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Pao-hsi / Fi-hsi
+  description: Ancient ruler or personage named in the Appendix account as the deviser
+    of the eight three-line figures after observing sky, earth, creatures, soil, self,
+    and things generally.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: later diviners
+  description: People in subsequent ages who divined by the hexagrams and consulted
+    the words under them as oracles.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: whole-hexagram interpreter
+  assigned_to:
+  - fig:1
+  basis: King Wan gives the significance of each hexagram as a whole and indicates
+    action and luck or unluck.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: line interpreter through emblems
+  assigned_to:
+  - fig:2
+  basis: The duke of XA4u interprets each line from the bottom upward by symbolical
+    or emblematical illustration.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deviser of the eight trigrams
+  assigned_to:
+  - fig:3
+  basis: The Appendix account says Pao-hsi devised the eight lineal figures of three
+    lines each.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: users of hexagram oracles
+  assigned_to:
+  - fig:4
+  basis: Later people divined by the hexagrams to ask about future outcomes and intended
+    actions.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sixty-four hexagrams or lineal figures
+  literal_form: Sixty-four figures, each made up of six lines, some whole and some
+    divided.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: whole and divided lines
+  literal_form: Whole lines and divided lines composing the six-line figures.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: eight trigrams or kwa
+  literal_form: Eight lineal figures of three lines each, named khien, tui, li, kan,
+    sun, khan, kin, and khwan in the passage's transcription.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: heaven or sky
+  literal_form: Heaven or the sky as a natural object represented by one trigram.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: water
+  literal_form: Water as marsh or lake, and water as rain, clouds, springs, streams
+    in defiles, and the moon.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: fire, sun, and lightning
+  literal_form: Fire, the sun, and lightning as natural objects represented by one
+    trigram.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: thunder
+  literal_form: Thunder as a natural object represented by one trigram.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: wind and wood
+  literal_form: Wind and wood as natural objects represented by one trigram.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: hill or mountain
+  literal_form: A hill or mountain as a natural object represented by one trigram.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: earth
+  literal_form: The earth as a natural object represented by one trigram.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:11
+  label: Great Extreme generative sequence
+  literal_form: Great Extreme, two Elementary Forms, four Emblematic Symbols, and
+    eight Trigrams.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Interpretation and later oracle use of the hexagrams
+  summary: King Wan interprets the whole hexagrams, the duke of XA4u interprets their
+    individual lines by emblems, and later people use the words under the hexagrams
+    as oracles for future outcomes and decisions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Pao-hsi observes the world and devises trigrams
+  summary: Pao-hsi observes sky, earth, animals, soil, himself, and things near and
+    far, then devises eight three-line figures to display operations in nature and
+    classify qualities of things.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Great Extreme produces forms, symbols, and trigrams
+  summary: The Great Extreme produces two Elementary Forms; these produce four Emblematic
+    Symbols; the four produce the eight Trigrams, which determine good and evil issues
+    of events.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:11
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: divinatory decision guidance through symbolic figures
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that the hexagrams and their texts became oracles used
+    to learn future outcomes and whether to persevere or withdraw, and that the trigrams
+    determine good and evil issues.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The available taxonomy label 'wisdom' is broad; the passage is specifically
+    about divination and decision guidance.
+- id: motif:2
+  label: cosmic differentiation into paired forms and symbolic sets
+  taxonomy_refs:
+  - duality
+  basis: The Great Extreme produces two Elementary Forms, then four Emblematic Symbols,
+    then eight Trigrams.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage reports a schematic cosmological sequence rather than a narrative
+    myth episode.
+- id: motif:3
+  label: primordial ruler devises ordering signs from observation of nature
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: Pao-hsi, ruler of all under heaven in the Appendix account, observes sky,
+    earth, animals, soil, self, and things generally, then devises the eight trigrams
+    to display natural operations and classify things.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage calls Pao-hsi an ancient personage and deviser, but does not
+    explicitly use the term culture hero.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER II, paragraph 1; within lines 1155-1301
+  quote_or_summary: The Yi King is introduced as a text explaining lineal figures
+    with appendixes; the Text contains sixty-four short symbolic essays based on sixty-four
+    six-line figures with whole and divided lines.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: CHAPTER II, paragraph 1; discussion of King Wan and the duke; within lines
+    1155-1301
+  quote_or_summary: King Wan interprets each hexagram as a whole and indicates action
+    and luck or unluck; the duke of XA4u interprets each line from the bottom upward
+    by symbolical or emblematical illustration and indicates good or bad fortune.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: CHAPTER II, paragraph 1; later divination practice; within lines 1155-1301
+  quote_or_summary: The words of King Wan and the duke became oracles for later ages,
+    when people divined by the hexagrams to learn future outcomes and whether to persevere
+    in or withdraw from intended courses.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: CHAPTER II, paragraph 2, Appendix origin account i; within lines 1155-1301
+  quote_or_summary: The Appendix account says Pao-hsi looked upward at brilliant forms
+    in the sky, downward at patterns on earth, noted birds, beasts, soil, his own
+    person, and things generally, and devised eight three-line figures.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:5
+  type: summary
+  locator: CHAPTER II, paragraph 2, Legge's comment on Pao-hsi; within lines 1155-1301
+  quote_or_summary: Pao-hsi is identified as another name for Fi-hsi and appears in
+    the cited paragraph as deviser of the eight kwa or trigrams; Legge notes that
+    the processes and purposes are stated vaguely.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:6
+  type: summary
+  locator: CHAPTER II, list of the eight figures; within lines 1155-1301
+  quote_or_summary: The eight trigrams are listed and said to represent heaven or
+    sky; water as marsh or lake; fire, sun, and lightning; thunder; wind and wood;
+    water as rain, clouds, springs, streams, and moon; hill or mountain; and earth.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:7
+  type: summary
+  locator: CHAPTER II, Appendix origin account ii; within lines 1155-1301
+  quote_or_summary: Another account says the Great Extreme produced two Elementary
+    Forms, which produced four Emblematic Symbols, which produced eight Trigrams;
+    the eight Trigrams determined good and evil issues and the great business of life
+    followed.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    because the passage is an introductory scholarly description rather than a continuous
+    mythic narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR/transcription anomalies in the supplied passage, such as the form 'XA4u', were retained or described cautiously rather than silently normalized.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l1155-l1301
+  passage_sha256=7f67c3d1d6904380edc0bca8ec3b019503d57e6b361b6bbdc352e43e9a2a48a7
+

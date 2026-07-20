@@ -1,0 +1,402 @@
+---
+record_id: batch.motif.malagasy-madagascar-before-conquest-sibree-archive-l16356-l16462
+source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+passage_locator:
+  label: MALAGASY HANDICRAFTS. / CHAPTER XVI. / A HOVA OFFICER, MALAGASY ARMY. / CHAPTER
+    XVII.; lines 16356-16462
+  start: '16356'
+  end: '16462'
+  translation: 'Madagascar Before the Conquest: The Island, the Country, and the People'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes scientific discoveries and classifications of extinct
+    or subfossil Malagasy mammals and birds, including a large lemuroid, small hippopotami,
+    swine, river-hog, zebu, and several species of the giant bird Aepyornis. It notes
+    the unusual size of Aepyornis eggs and infers from associated remains that these
+    birds lived and nested near water, lakes, rivers, rushes, and inundated plains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A mammalian skull found in a marsh at Ambolisatra was identified as belonging
+    to a large extinct lemuroid animal named Megaladapis madagascariensis.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lemuroid skull is described as larger and longer than those of living
+    lemurs, with the animal probably nearly three times the size of any existing lemur.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lemuroid skull was associated with other vertebrate remains, leading Dr.
+    Major to believe the animal group may have been seen by humans at a relatively
+    recent date.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bones of small Malagasy hippopotami were found on the south-west coast and
+    at Antsirabe, and the passage states that these animals are believed to have been
+    contemporaneous with the earliest human inhabitants of the island.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the same locality as the lemuroid skull, bones of swine, river-hog, and
+    a slender-legged zebu were also found.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that Madagascar formerly had more large indigenous mammals
+    than its present fauna suggests.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Eggs and bones of a gigantic bird named Aepyornis maximus were discovered
+    in Madagascar, and the bones showed it was a struthious bird allied to ostrich-like
+    forms.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Aepyornis eggs are described as exceeding any previously known egg in
+    size, measuring about 12.5 inches long by 9.75 inches broad and holding more than
+    six large ostrich eggs.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Multiple species and two genera of extinct Malagasy birds are described, with
+    some forms about ten feet high and others only about bustard height.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The remains of Aepyornis are associated with aquatic animals, and the passage
+    infers that the birds frequented water margins, rushes, lakes, rivers, low-lying
+    inundated plains, and nested there.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Megaladapis madagascariensis
+  description: A large extinct lemuroid animal known from a skull found in a marsh
+    at Ambolisatra.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Madagascar small hippopotami
+  description: Small hippopotami remains found on the south-west coast and at Antsirabe,
+    including named forms H. Lemerlei, H. madagascariensis, and H. leptorhyncus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Swine, river-hog, and slender-legged zebu remains
+  description: Animal bones found in the same locality as the gigantic lemuroid skull.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Aepyornis
+  description: Extinct giant Malagasy birds represented by eggs and bones, including
+    several species and forms of differing sizes.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: Mullerornis
+  description: A genus of extinct Malagasy bird with slenderer legs and feet, compared
+    in proportions to the cassowary and apteryx.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: Aquatic associated animals
+  description: Small hippopotami, crocodiles, and tortoises whose bones are associated
+    with Aepyornis remains.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: extinct giant animal
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage describes Megaladapis as a large extinct lemuroid and Aepyornis
+    as a gigantic extinct bird.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: subfossil or extinct mammal remains
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage reports skulls and bones of extinct or subfossil mammals found
+    in Madagascar.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: classified extinct bird genera and species
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage describes several Aepyornis species and the genera Aepyornis
+    and Mullerornis.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: water-margin nesting bird
+  assigned_to:
+  - fig:4
+  basis: The passage infers that Aepyornis frequented water margins and nested in
+    low-lying inundated plains.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: associated aquatic fauna
+  assigned_to:
+  - fig:6
+  basis: Aepyornis bones are described as associated with small hippopotami, crocodiles,
+    and tortoises, animals aquatic in habit.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: wetland and water-margin habitat
+  literal_form: marsh, sheets of water, rushes, lakes, rivers, and inundated plains
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: sym:2
+  label: giant egg
+  literal_form: large Aepyornis egg exceeding previously known egg sizes
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: giant extinct bird
+  literal_form: gigantic struthious bird represented by bones and eggs
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Discovery and classification of a giant lemuroid skull
+  summary: A skull found in a marsh at Ambolisatra is examined and classified as belonging
+    to a large extinct lemuroid, Megaladapis madagascariensis.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Subfossil mammal remains across Madagascar
+  summary: The passage lists discoveries of small hippopotami, swine, river-hog, and
+    zebu remains, and interprets them as evidence that large indigenous mammals were
+    formerly less scarce in Madagascar.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Discovery and description of Aepyornis eggs and bones
+  summary: The passage describes the discovery of giant Aepyornis eggs and bones,
+    notes the bird's ostrich-like affinities, and emphasizes the extraordinary size
+    of the eggs.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Classification and habitat inference for extinct Malagasy birds
+  summary: Several Aepyornis species and the genus Mullerornis are described; associated
+    aquatic remains are used to infer that these birds lived and nested near water
+    and in inundated plains.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: giant bird with oversized egg
+  taxonomy_refs: []
+  basis: The passage literally reports a gigantic extinct bird and eggs much larger
+    than previously known eggs.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The passage is scientific natural history, not a mythic narrative; this
+    is only a candidate image-pattern, not evidence of a Malagasy myth motif.
+- id: motif:2
+  label: ancient giant animals known from remains
+  taxonomy_refs: []
+  basis: The passage describes extinct or subfossil large animals and notes that some
+    may have been contemporaneous with or seen by early humans.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: low
+  cautions: The passage does not present a legend, ritual, or symbolic interpretation;
+    the pattern is inferred from natural-history description only.
+- id: motif:3
+  label: water-margin habitat of ancient creatures
+  taxonomy_refs:
+  - water
+  basis: The passage locates major finds and inferred animal life around marshes,
+    lakes, rivers, rushes, and inundated plains.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  confidence: medium
+  cautions: The water association is literal ecological inference in the passage,
+    not explicitly mythological symbolism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16356-16369
+  quote_or_summary: Mr. J. T. Last discovered a strange mammalian skull in a marsh
+    at Ambolisatra; Dr. C. J. Forsyth Major identified it as a large extinct lemuroid,
+    larger and longer-skulled than living lemurs, and named it Megaladapis madagascariensis.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 16370-16377
+  quote_or_summary: Because the Megaladapis skull was associated with other vertebrate
+    remains, Dr. Major believed the group included animals that may have been seen
+    by humans at a relatively recent date.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 16383-16400
+  quote_or_summary: Bones of small hippopotami were discovered on the south-west coast
+    and at Antsirabe, assigned to several named forms; they were about two-thirds
+    the size of African hippopotami and believed contemporaneous with the earliest
+    human inhabitants.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 16401-16406
+  quote_or_summary: In the locality of the gigantic lemuroid skull, Last found bones
+    of swine, river-hog, and a slender-legged form of zebu.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 16407-16413
+  quote_or_summary: The passage concludes that Madagascar's present paucity of large
+    indigenous mammals was not always characteristic of its fauna, and that further
+    research may reveal more remains.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 16416-16425
+  quote_or_summary: The scientific world was startled by the discovery in Madagascar
+    of eggs and bones of a gigantic bird named Aepyornis maximus; its bones showed
+    it was a struthious bird related to ostrich-like forms.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 16425-16430
+  quote_or_summary: Aepyornis eggs are described as larger than any previously known
+    egg, about 12.5 inches by 9.75 inches and with a capacity greater than six large
+    ostrich eggs.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 16431-16452
+  quote_or_summary: Additional Aepyornis remains revealed many species of differing
+    sizes, from about ten feet high to bustard-sized, arranged into Aepyornis with
+    massive legs and Mullerornis with slenderer legs and feet.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 16453-16462
+  quote_or_summary: The remains suggest Aepyornis frequented margins of sheets of
+    water, rushes by lakes and rivers, and low-lying inundated plains; their bones
+    are associated with small hippopotami, crocodiles, and tortoises, and young bird
+    remains suggest nesting there.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal natural-history extraction is moderately supported by the passage.
+    Motif candidates are low-confidence because the passage contains no mythic narrative
+    or explicit symbolic interpretation. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage is scientific prose about extinct Malagasy fauna rather than folklore; comparison_claims left empty.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:malagasy-madagascar-before-conquest-sibree-archive__l16356-l16462
+  passage_sha256=e102097bd163fce5ceb39e0d211646320056829b314aa5c586aa34ec35ffa216
+

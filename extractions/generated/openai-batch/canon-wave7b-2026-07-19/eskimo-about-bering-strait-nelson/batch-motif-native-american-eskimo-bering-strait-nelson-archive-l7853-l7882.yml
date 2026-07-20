@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l7853-l7882
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: EIGHTEENTH   ANNUAL  REPORT     PL.    XLIX / SKIN    SCRAPERS    (ONE-FOURTH'
+    / HUNTING  AND  HUNTING  IMPLEMENTS / ANIMAL  TRAPS  AND  SNARES; lines 7853-7882
+  start: '7853'
+  end: '7882'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: keeping step as one man
+  summary: The passage describes coastal subsistence dependence on seals and fishing
+    after reindeer depletion, attributes the depletion to firearms and slaughter,
+    and describes pre-firearm reindeer hunting methods involving bows, shelters, and
+    a coordinated two-hunter concealment tactic.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is presented under the headings for hunting, hunting implements,
+    animal traps, and snares.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that rapid extermination of reindeer near the named coast
+    led local natives to depend mainly on seals and fishing for food.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says reindeer had formerly been numerous in the district but were
+    virtually exterminated in much of the coast region after firearms were introduced.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Before firearms, Eskimo hunters stalked deer herds with bows and arrows by
+    creeping from shelter to shelter until within bowshot.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In one paired method, two hunters walked together with one immediately behind
+    the other, their bodies in contact and their steps coordinated as if one man.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The deer would allow the paired hunters to approach to a distance, then make
+    a wide circuit to pass behind them.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The rear hunter used the first hollow or shelter to fall to the ground and
+    hide while the front companion continued onward as if ignoring the game.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The provided passage ends before the final sentence about the deer running
+    within bowshot is fully resolved.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: local natives / Eskimo
+  description: The people described as relying on seals and fishing after reindeer
+    depletion and as having earlier methods for capturing and killing deer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: bow-and-arrow hunters
+  description: Hunters armed with bows and arrows who approached deer herds by creeping
+    between shelters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: front hunter / visible companion
+  description: One member of the two-hunter pair who continued onward after the rear
+    hunter hid, apparently not paying attention to the game.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: rear hunter / hidden companion
+  description: The hunter who initially walked immediately behind the other, then
+    lay hidden in a hollow or shelter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: reindeer / deer herd
+  description: The hunted animals described as formerly numerous, then depleted, and
+    as responding to the hunters by circling behind them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: coastal subsistence group
+  assigned_to:
+  - fig:1
+  basis: The passage says local natives depended on seals and fishing after reindeer
+    became scarce.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: archer stalkers
+  assigned_to:
+  - fig:2
+  basis: The hunters are described as armed with bows and arrows and creeping toward
+    herds until within bowshot.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: visible continuing hunter
+  assigned_to:
+  - fig:3
+  basis: The front companion continued onward while apparently ignoring the game after
+    the rear hunter hid.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: concealed rear hunter
+  assigned_to:
+  - fig:4
+  basis: The rear hunter used a hollow or shelter, threw himself on the ground, and
+    lay hidden.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: hunted herd / quarry
+  assigned_to:
+  - fig:5
+  basis: The deer are the animals being stalked, approached, and maneuvered within
+    bowshot.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: reindeer / deer
+  literal_form: Animal quarry and food resource
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: firearms
+  literal_form: Introduced hunting technology associated with the reported reindeer
+    slaughter
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bows and arrows
+  literal_form: Pre-firearm hunting weapons
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: shelter or hollow
+  literal_form: Cover used for stalking and hiding
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:5
+  label: two hunters moving as one
+  literal_form: Two bodies in contact, keeping step as one man
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Reindeer depletion and coastal food reliance
+  summary: The narrator describes a coastal region where reindeer have become scarce
+    and local natives rely mainly on seals and fishing; the decline is attributed
+    to firearms and wasteful slaughter.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Stalking with bows and shelters
+  summary: Before firearms, hunters approached deer herds with bows and arrows by
+    creeping from one shelter to another until close enough to shoot.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Two-hunter concealment tactic
+  summary: Two hunters advanced as a single-looking pair; as the deer circled behind,
+    the rear hunter hid in cover while the front hunter continued onward as if ignoring
+    the herd. The passage breaks off before the sentence is complete.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: resource depletion through introduced hunting technology
+  taxonomy_refs: []
+  basis: The passage links the introduction of firearms to wasteful slaughter and
+    virtual extermination of reindeer in much of the coastal region.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a historical-ethnographic pattern in the passage, not a mythological
+    motif; no supplied taxonomy family is directly supported.
+- id: motif:2
+  label: cooperative concealment and decoy-like hunting tactic
+  taxonomy_refs: []
+  basis: Two hunters move together as if one person; then the rear hunter hides while
+    the visible companion continues onward and the deer circle behind.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The tactic is practical hunting behavior rather than myth narrative; the
+    final sentence is incomplete in the provided passage.
+- id: motif:3
+  label: stealth approach by natural cover
+  taxonomy_refs: []
+  basis: Hunters approach the herd by creeping from shelter to shelter until within
+    bowshot, and the rear hunter later uses a hollow or other shelter to hide.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: This is an ethnographic hunting pattern with no explicit symbolic or comparative
+    claim in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7853-7882, headings
+  quote_or_summary: '"HUNTING AND HUNTING IMPLEMENTS" and "ANIMAL TRAPS AND SNARES"'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: 7853-7882, opening paragraph
+  quote_or_summary: Because of rapid reindeer extermination near the coast named in
+    the passage, the natives depended on seals and fishing for their main food supply;
+    fewer than a dozen reindeer were killed yearly along over a hundred miles of coast
+    during the narrator's residence at St Michael.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: 7853-7882, opening paragraph
+  quote_or_summary: The passage says reindeer had been numerous twenty years earlier,
+    but after firearms were introduced the natives slaughtered them wastefully and
+    virtually exterminated them in much of the coast region.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: quote
+  locator: 7853-7882, second paragraph
+  quote_or_summary: Hunters with bows and arrows approached herds by "creeping from
+    one shelter to another until within bowshot."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:5
+  type: summary
+  locator: 7853-7882, second paragraph
+  quote_or_summary: Two hunters sometimes went together, one immediately behind the
+    other with their bodies in contact, "keeping step as one man" as they walked toward
+    the herd.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:6
+  type: summary
+  locator: 7853-7882, second paragraph
+  quote_or_summary: The deer would allow the hunters to approach to a certain distance,
+    then make a wide circuit to pass behind the advancing hunters.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:7
+  type: summary
+  locator: 7853-7882, second paragraph
+  quote_or_summary: The rear hunter used the first hollow or other shelter to fall
+    to the ground and lie hidden while his companion continued onward, apparently
+    without attention to the game.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:8
+  type: note
+  locator: 7853-7882, passage ending
+  quote_or_summary: The supplied passage ends mid-word after "con-", so the final
+    reference to running within bowshot is not fully available in this excerpt.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Extractor note based on the provided public-domain excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear for ethnographic hunting observations and practical
+    patterns. Motif labels are treated as candidate patterns, not as mythological
+    taxonomy matches. No comparison claims are supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol is directly mapped. The passage is ethnographic rather than a myth narrative.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l7853-l7882
+  passage_sha256=630c8bb6c4fa8b26290bc71b41702f3fc29c8744737d78a79497336e6abe2c42
+

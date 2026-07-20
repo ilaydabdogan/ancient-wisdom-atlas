@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v3-grimm-stallybrass-archive-l16077-l16088
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+passage_locator:
+  label: SICKNESSES. / ANIMAL  DISEASES. / MEASUEING-.     STEEWTNG  ASHES. / CREEPING  THROUGH  EARTH  OR  TREES.;
+    lines 16077-16088
+  start: '16077'
+  end: '16088'
+  translation: Teutonic Mythology, Volume 3
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage cites a Staffordshire custom in which a tree is made into
+    a “nursrow tree” to cure unexplained swellings in cattle: mice thought to bite
+    and swell cattle are sealed inside a bored hole in the tree, and afterwards swollen
+    cattle are wiped with the tree’s boughs as a remedy.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The cited custom concerns curing unaccountable swellings in cattle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Any oak, ash, or elm may be made into a nursrow tree according to the cited
+    account.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One or more mice, called nursrows in the passage, are caught because they
+    are believed to bite cattle and cause swelling.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A hole is bored to the center of the tree, the mice are put inside, and a
+    peg of the same wood is driven in after them.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says the enclosed mice starve and thereby communicate a healing
+    virtue to the tree.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Swollen cattle are wiped with the boughs of the prepared tree and are said
+    to recover.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The remedy is scarce enough that people may travel eight or ten miles to obtain
+    it.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: cattle with swellings
+  description: Cattle affected by unexplained swelling and treated by wiping with
+    boughs of the nursrow tree.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: nursrows or mice
+  description: Mice believed in the cited custom to bite cattle and cause swelling;
+    they are sealed inside the tree.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: practitioners of the custom
+  description: Unspecified local people who catch the mice, bore the tree, seal the
+    mice inside, and use the boughs on cattle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: afflicted animals
+  assigned_to:
+  - fig:1
+  basis: The cattle are described as swollen and in need of the remedy.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: supposed disease-causing animals
+  assigned_to:
+  - fig:2
+  basis: The mice are believed to bite cattle and make them swell.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: enclosed sacrificial agents of tree empowerment
+  assigned_to:
+  - fig:2
+  basis: The mice are sealed in the tree and described as starving while communicating
+    virtue to it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: ritual remedy makers and users
+  assigned_to:
+  - fig:3
+  basis: The passage describes people making the tree, sealing the mice, and applying
+    the boughs to cattle.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: nursrow tree
+  literal_form: oak, ash, or elm tree prepared by enclosing mice within it
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: boughs used for wiping
+  literal_form: boughs of the prepared tree applied to swollen cattle
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: sealed mice in the tree
+  literal_form: mice placed in a bored hole and shut in with a wooden peg
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: wooden peg of the same wood
+  literal_form: peg driven into the tree after the mice
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: making the nursrow tree
+  summary: Local practitioners catch mice believed to cause cattle swelling, bore
+    a hole into an oak, ash, or elm, place the mice inside, and seal them in with
+    a wooden peg.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: virtue transferred to the tree
+  summary: The enclosed mice are said to starve and communicate a curative virtue
+    to the tree.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: curing swollen cattle with boughs
+  summary: Cattle suffering from swelling are wiped with boughs from the prepared
+    tree and are said to recover.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: animal disease cured through a prepared healing tree
+  taxonomy_refs: []
+  basis: The passage describes a tree made curative by enclosing mice within it, after
+    which its boughs are used to cure swollen cattle.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage reports an antiquarian account of a local custom; it does
+    not explain the broader mythic meaning of the practice.
+- id: motif:2
+  label: disease cause transferred into or contained within a tree
+  taxonomy_refs: []
+  basis: Mice believed to cause cattle swelling are sealed in the tree, and the tree
+    then becomes the medium of cure.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage states that the mice communicate virtue to the tree, but it
+    does not explicitly say the disease itself is transferred.
+- id: motif:3
+  label: healing by contact with empowered boughs
+  taxonomy_refs: []
+  basis: The remedy works by wiping afflicted cattle with the boughs of the prepared
+    tree.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: Only this single application method is described in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16077-16088
+  quote_or_summary: The cited Staffordshire custom is described as making nursrow
+    trees for the cure of unaccountable swellings in cattle.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 16077-16088
+  quote_or_summary: "“to make any tree, whether oak, ash or elm, a nursrow tree”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 16077-16088
+  quote_or_summary: The account says people catch one or more nursrows or mice, which
+    they believe bite cattle and make them swell.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 16077-16088
+  quote_or_summary: A hole is bored to the center of the tree; the mice are put in,
+    and a peg of the same wood is driven in after them.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 16077-16088
+  quote_or_summary: "“where they starving at last communicate forsooth such a virtue
+    to the tree”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: summary
+  locator: 16077-16088
+  quote_or_summary: Cattle with swelling are wiped with the boughs of the prepared
+    tree and are said to recover.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 16077-16088
+  quote_or_summary: The account says the trees are not common, and people in some
+    places travel eight or ten miles to procure the remedy.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the cited account. Motif labels
+    are descriptive and not mapped to a provided motif-family taxonomy. No comparison
+    claims are made because the passage itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The title line includes apparent OCR irregularities, preserved in the locator label from the request.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v3-grimm-stallybrass-archive__l16077-l16088
+  passage_sha256=211c2958a4c8bbc4b8e38fa920d1cadee3bdd36e4a8b9abd33a5e2d7d125cf11
+

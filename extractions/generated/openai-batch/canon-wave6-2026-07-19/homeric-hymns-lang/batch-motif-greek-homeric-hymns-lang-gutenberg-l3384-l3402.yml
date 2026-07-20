@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.greek-homeric-hymns-lang-gutenberg-l3384-l3402
+source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+passage_locator:
+  label: IV.  HYMN TO DEMETER / V.  TO APHRODITE / VI.  TO DIONYSUS / VII.  TO ARES;
+    lines 3384-3402
+  start: '3384'
+  end: '3402'
+  translation: The Homeric Hymns
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A hymn invokes Ares with martial and celestial epithets, asks him to hear
+    the speaker, and petitions him to grant light, strength, courage, self-restraint,
+    and peaceful endurance away from battle and death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ares is addressed directly with a series of martial titles and attributes,
+    including lord of the chariot of war, golden-helmed god, shield-bearer, spearman,
+    and bulwark of Olympus.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ares is described as whirling a flaming sphere among the courses of the seven
+    stars of the sky, borne by fiery steeds above the third orbit of heaven.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker asks Ares to listen and identifies him as a helper of mortals
+    and giver of the bright bloom of youth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker asks Ares to shed mild light from above upon the speaker’s life
+    and martial strength.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The speaker asks for help driving away cowardice, curbing the deceitful rush
+    of the soul, and restraining anger that leads toward battle.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker asks for heart to remain in painless measures of peace, avoiding
+    foes’ battle-cry and the fates of death.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ares
+  description: The addressed deity, praised as mighty, warlike, celestial, a helper
+    of mortals, and a giver of youth.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: The speaker
+  description: The first-person petitioner who asks Ares for light, strength, courage,
+    restraint, and peace.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Themis
+  description: Named as the figure for whom Ares is called champion.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: martial deity
+  assigned_to:
+  - fig:1
+  basis: Ares is addressed with warlike titles such as lord of the chariot of war,
+    shield-bearer, spearman, and war-god imagery.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: celestial power
+  assigned_to:
+  - fig:1
+  basis: Ares is described as moving a flaming sphere among seven stars and being
+    borne above an orbit of heaven.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine helper invoked by mortals
+  assigned_to:
+  - fig:1
+  basis: The speaker calls Ares a helper of mortals and asks him to listen and grant
+    aid.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: petitioner
+  assigned_to:
+  - fig:2
+  basis: The speaker makes first-person requests for divine aid, self-control, and
+    peace.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: associated divine principle or figure
+  assigned_to:
+  - fig:3
+  basis: Themis is named only in the phrase calling Ares her champion.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: chariot of war
+  literal_form: chariot of war
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: golden helm
+  literal_form: golden helm
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: shield
+  literal_form: shield borne by Ares
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: flaming sphere
+  literal_form: flaming sphere whirled among the courses of the seven stars
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: fiery steeds
+  literal_form: fiery steeds bearing Ares above the third orbit of heaven
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: mild light from above
+  literal_form: mild light shed from above upon the speaker’s life and strength
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: battle-cry and battle din
+  literal_form: battle-cry of foes and dread din of battle
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Invocation of Ares
+  summary: The hymn addresses Ares with martial, protective, and celestial epithets.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Petition for strength, restraint, and peace
+  summary: The speaker asks Ares to listen, grant light and martial strength, remove
+    cowardice, restrain anger, and allow peaceful endurance away from battle and death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: war deity invoked as protector and helper
+  taxonomy_refs: []
+  basis: Ares is praised with warlike epithets but also invoked as safety of cities,
+    helper of mortals, and giver of aid.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level functional motif label, not a supplied taxonomy
+    family.
+- id: motif:2
+  label: celestial fiery movement of a deity
+  taxonomy_refs:
+  - ascent
+  basis: Ares is described with a flaming sphere, fiery steeds, seven stars, and movement
+    above the third orbit of heaven.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes celestial placement and motion rather than a narrative
+    ascent sequence.
+- id: motif:3
+  label: prayer for inner restraint against battle-rage
+  taxonomy_refs: []
+  basis: The speaker asks Ares to curb the rush of the soul, restrain anger, and avoid
+    the din of battle and fates of death.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethical-prayer pattern within the hymn rather than a named
+    taxonomy motif.
+- id: motif:4
+  label: martial power redirected toward peace
+  taxonomy_refs:
+  - duality
+  basis: The hymn invokes a warlike Ares while asking for strength, self-control,
+    and peaceful avoidance of battle.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage itself does not explicitly
+    frame this as a mythic duality.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3384-3390
+  quote_or_summary: "“Ares... lord of the chariot of war... God of the golden helm...
+    shield-bearer... unwearied valiant spearman, bulwark of Olympus... champion of
+    Themis”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3390-3393
+  quote_or_summary: "“thou that whirlest thy flaming sphere among the courses of the
+    seven stars of the sky, where thy fiery steeds ever bear thee above the third
+    orbit of heaven”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 3393-3394
+  quote_or_summary: "“do thou listen to me, helper of mortals, Giver of the bright
+    bloom of youth”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3394-3396
+  quote_or_summary: "“Shed thou down a mild light from above upon this life of mine,
+    and my martial strength”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3396-3399
+  quote_or_summary: The speaker asks to drive away cowardice, curb the soul’s rush,
+    and restrain anger that spurs participation in battle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 3400-3402
+  quote_or_summary: "“give me heart... to abide in the painless measures of peace,
+    avoiding the battle-cry of foes and the compelling fates of death”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a compact hymn with explicit epithets and petitions. Motif
+    labels are cautious because the passage is hymnic praise and prayer rather than
+    a narrative myth episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison beyond internal motif candidates.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-homeric-hymns-lang-gutenberg__l3384-l3402
+  passage_sha256=478f52544eeb21accab673ae93984c1ae6007cb94f86d70af5be78b566e32f3e
+

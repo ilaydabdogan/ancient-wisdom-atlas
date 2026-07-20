@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.african-back-of-the-black-mans-mind-dennett-archive-l9775-l9878
+source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+passage_locator:
+  label: CHAPTER  XVIII / CH.  XVIII  BENIN  DISTRICTS  183 / OGIEGMA. / OGIEGAW.;
+    lines 9775-9878
+  start: '9775'
+  end: '9878'
+  translation: At the Back of the Black Man's Mind; or, Notes on the Kingly Office
+    in West Africa
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a list-style ethnographic note on Benin district names and
+    Ogies. It includes headings such as Ogiegma and Ogiegaw, places or roads described
+    as under Ero, Oliha, or Ezomo, a reference to the Ovia or Osse river, a note that
+    Ogyudo died intestate and Iyase Nudo governs in his place in Udo, and a final
+    note that one district has no Ogie.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with a list under the heading Ogiegma, including several
+    named entries and one entry marked Ohenukudi with the parenthetical label Juju.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Iekushelu is described as under Ero and as having Ogies; nearby entries include
+    Owaza, Awyaw, Ogyunwan, Ogiowa, and Oginwhan.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Odudo or Odidumihogbi is described as on the Udo road, under Oliha, within
+    the centre province.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Under the Ogiegaw heading, the passage lists multiple named Ogies, including
+    Oguse, Ogiomi, Ogiogege, Ogiokele, Ogiegban, and others.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A group of named entries is placed on the far side of the Ovia, identified
+    parenthetically as river Osse.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ogyudo is said to have died intestate, and Iyase Nudo is said to govern in
+    his place in Udo.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Odugwaton or Oduzabu is described as on the Gilly Gilly road under Ezomo,
+    and the passage states that there is no Ogie there.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ogyudo
+  description: Named individual said to have died intestate.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Iyase Nudo
+  description: Named individual said to govern in Ogyudo's place in Udo.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Ero
+  description: Named authority in the phrase describing Iekushelu as under Ero.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Oliha
+  description: Named authority in the description of Odudo or Odidumihogbi as under
+    Oliha.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ezomo
+  description: Named authority in the description of Odugwaton or Oduzabu as under
+    Ezomo.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: deceased intestate person
+  assigned_to:
+  - fig:1
+  basis: The passage states that Ogyudo died intestate.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: governor in another's place
+  assigned_to:
+  - fig:2
+  basis: The passage states that Iyase Nudo governs in Ogyudo's place in Udo.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: named administrative authority
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Ero, Oliha, and Ezomo are each named in phrases describing places or roads
+    as under them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: Ovia / river Osse
+  literal_form: river named as Ovia and identified as river Osse
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Ohenukudi marked as Juju
+  literal_form: named entry Ohenukudi followed by the parenthetical label Juju
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Enumeration of named Ogies and district entries
+  summary: The passage lists names under Ogiegma and Ogiegaw headings and associates
+    some places with administrative authorities.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Far side of the Ovia river and governance after intestate death
+  summary: After listing entries on the far side of the Ovia or Osse river, the passage
+    states that Ogyudo died intestate and Iyase Nudo governs in his place in Udo.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: District without an Ogie
+  summary: Odugwaton or Oduzabu is located on the Gilly Gilly road under Ezomo, and
+    the passage notes that it has no Ogie.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: governance succession after intestate death
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage explicitly connects Ogyudo's intestate death with Iyase Nudo
+    governing in his place in Udo.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is an administrative ethnographic note rather than a narrative myth;
+    the royal_legitimacy taxonomy reference is only a cautious fit to the office/succession
+    pattern.
+- id: motif:2
+  label: district authority hierarchy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Several places or roads are described as under named authorities, and one
+    place is specifically said to have no Ogie.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: low
+  cautions: The passage provides a list of offices and jurisdictions, not a developed
+    symbolic or mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9775-9802
+  quote_or_summary: Under the Ogiegma heading the passage lists named entries, ending
+    with Ohenukudi marked parenthetically as Juju.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: lines 9809-9821
+  quote_or_summary: Iekushelu is described as under Ero with the Ogies; Owaza is described
+    as a cap from Awyaw, followed by Ogyunwan, Ogiowa, and Oginwhan.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: lines 9823-9853
+  quote_or_summary: Odudo or Odidumihogbi is described as the Udo road under Oliha
+    within the centre province, followed by the Ogiegaw heading and a list of Ogies.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: lines 9855-9867
+  quote_or_summary: The passage introduces entries on the far side of the Ovia, identified
+    as river Osse, and lists names including Ogeteti, Ogyugolo, Ogiesi, Ogyutesi,
+    and Ogyegbata.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: public_domain
+- id: ev:5
+  type: quote
+  locator: lines 9869-9871
+  quote_or_summary: Ogyudo having died intestate Iyase Nudo governs in his place,
+    in Udo.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: lines 9873-9878
+  quote_or_summary: Odugwaton or Oduzabu is identified with the Gilly Gilly road under
+    Ezomo; the passage then states, No Ogie.
+  source_text_path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  rights_note: public_domain
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is mainly a fragmentary administrative list. Named authorities
+    and the intestate succession note are clear, but many listed names are not explained,
+    so motif interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-back-of-the-black-mans-mind-dennett-archive__l9775-l9878
+  passage_sha256=bfb5aeaf29ce3a82d707273e8753abbd78c646a2c6cc5cda21ab8e4edfe85620
+

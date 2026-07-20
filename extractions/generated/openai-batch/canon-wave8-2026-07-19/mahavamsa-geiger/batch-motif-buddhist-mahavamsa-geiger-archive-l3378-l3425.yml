@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l3378-l3425
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: Y. M. D. / CM CO / CM CM CM / CM IN CM; lines 3378-3425
+  start: '3378'
+  end: '3425'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Chronological introduction notes calculate dates for Siggava, Moggaliputta
+    Tissa, and Mahinda by reference to ordination, meetings, deaths, royal years,
+    Asoka's consecration, and cited external evidence such as relics and inscriptions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Siggava's birth year is calculated from his being eighteen at his meeting
+    with Sonaka and is placed in 401 B.C.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Moggaliputta Tissa is said to be ordained by Siggava sixty-four years after
+    Siggava's upasampada, with the calculation placed in 319 B.C.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Relics of Moggaliputta Tissa are reported as attested by an inscription and
+    found in Sanchi-tope no. 2.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Moggaliputta Tissa is described as Chief of the Vinaya after Siggava and as
+    dying eighty years after ordination and twenty-six years after Asoka's abhiseka,
+    with the death date discussed as 239 or 238 B.C.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Moggaliputta is said to ordain Mahinda in the sixth year of Asoka reckoned
+    from the abhiseka, also correlated with the forty-eighth year of Mutasiva.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Mahinda's birth is placed in 279 B.C., and he is described as ordained at
+    the age of twenty.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Mahinda comes to Ceylon twelve and a half years after his ordination and eighteen
+    years after Asoka's abhiseka, dated to spring 246 B.C.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Mahinda's death is placed in the eighth year of Uttiya's reign, on the eighth
+    day of the bright half of Assayuja, resulting in a date of 199 B.C.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Siggava
+  description: A monastic figure whose birth date and upasampada are used for chronology;
+    he ordains Moggaliputta Tissa.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Sonaka
+  description: Person whom Siggava meets when Siggava is eighteen years old.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Moggaliputta Tissa
+  description: A monastic figure ordained by Siggava, later Chief of the Vinaya, associated
+    with relics, and ordainer of Mahinda.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Candagutta
+  description: Named chronological reference connected with the dating of Moggaliputta
+    Tissa's ordination.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Pakundaka / Pandukabhaya
+  description: Named chronological reference, glossed in the passage as Pandukabhaya,
+    connected with the dating of Moggaliputta Tissa's ordination.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Asoka
+  description: Named ruler whose abhiseka is used as a chronological reference for
+    Moggaliputta Tissa and Mahinda.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Buddha
+  description: The Buddha's death date is used in the passage's chronological calculation
+    regarding Asoka's consecration.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Mahinda
+  description: A monastic figure ordained by Moggaliputta Tissa, said to come to Ceylon
+    and later die in Uttiya's reign.
+  role_refs:
+  - role:2
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:9
+  name_or_label: Mutasiva
+  description: Named chronological reference whose forty-eighth year is correlated
+    with Mahinda's ordination.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Uttiya
+  description: Named chronological reference whose eighth regnal year is used to date
+    Mahinda's death.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ordination giver
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Siggava ordains Moggaliputta Tissa, and Moggaliputta ordains Mahinda.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: ordination recipient
+  assigned_to:
+  - fig:3
+  - fig:8
+  basis: Moggaliputta Tissa is ordained by Siggava, and Mahinda is ordained by Moggaliputta.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: Chief of the Vinaya
+  assigned_to:
+  - fig:3
+  basis: The passage states that Moggaliputta Tissa is Chief of the Vinaya for sixty-eight
+    years after Siggava.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: dated monastic figure
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:8
+  basis: The passage gives or calculates birth, ordination, journey, office, or death
+    dates for these monastic figures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: chronological reference figure
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: Siggava's age at meeting Sonaka and the dating of the Buddha's death are
+    both used in chronological reasoning.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:6
+  label: reign or consecration dating reference
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:9
+  - fig:10
+  basis: Named years of these figures' reigns or consecration are used to calculate
+    dates for monastic events.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:7
+  label: traveler to Ceylon
+  assigned_to:
+  - fig:8
+  basis: The passage states that Mahinda comes to Ceylon after his ordination and
+    after Asoka's abhiseka.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: relics of Moggaliputta Tissa
+  literal_form: Relics associated with Moggaliputta Tissa, attested by an inscription
+    and found in Sanchi-tope no. 2.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dating of Siggava and Moggaliputta Tissa's ordination
+  summary: The passage calculates Siggava's birth from his meeting with Sonaka and
+    then dates Moggaliputta Tissa's ordination by Siggava through elapsed years and
+    named chronological references.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Moggaliputta Tissa's office, relics, and death chronology
+  summary: The passage notes relic evidence for Moggaliputta Tissa and discusses his
+    tenure as Chief of the Vinaya and death date in relation to Asoka's abhiseka and
+    the dating of the Buddha's death.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Mahinda's ordination, arrival in Ceylon, and death
+  summary: The passage dates Mahinda's ordination by Moggaliputta, his coming to Ceylon,
+    and his death by reference to Asoka, Mutasiva, and Uttiya.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: monastic ordination lineage and transmission
+  taxonomy_refs: []
+  basis: The passage presents a sequence in which Siggava ordains Moggaliputta Tissa,
+    and Moggaliputta ordains Mahinda, followed by Mahinda's arrival in Ceylon.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a chronological and ecclesiastical pattern rather than a clear
+    mythic motif; no supplied taxonomy family is directly supported.
+- id: motif:2
+  label: relics as material attestation of a sacred figure
+  taxonomy_refs: []
+  basis: The passage reports relics of Moggaliputta Tissa attested by inscription
+    and found in a named stupa context.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage treats the relics as historical evidence; symbolic or mythic
+    significance is not elaborated here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3378-3380
+  quote_or_summary: Siggava's birth year is calculated from his age at meeting Sonaka
+    and placed in 401 B.C.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3382-3398
+  quote_or_summary: Moggaliputta Tissa is ordained by Siggava sixty-four years after
+    Siggava's upasampada, with the calculation tied to Candagutta and Pakundaka/Pandukabhaya
+    and placed in 319 B.C.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3390-3392
+  quote_or_summary: Relics of Moggaliputta Tissa are said to be attested by inscription
+    and found in Sanchi-tope no. 2.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 3400-3408
+  quote_or_summary: Moggaliputta Tissa is Chief of the Vinaya after Siggava and dies
+    after a calculated interval from ordination and Asoka's abhiseka; the date is
+    discussed as 239 or 238 B.C., with reference to dating the Buddha's death on Vesakha.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 3410-3415
+  quote_or_summary: Moggaliputta ordains Mahinda in year six of Asoka from the abhiseka,
+    also correlated with year forty-eight of Mutasiva; Mahinda's birth is dated to
+    279 B.C. and his ordination age to twenty.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 3417-3419
+  quote_or_summary: Mahinda comes to Ceylon twelve and a half years after ordination
+    and eighteen years after Asoka's abhiseka, dated to spring 246 B.C.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 3421-3423
+  quote_or_summary: Mahinda dies in the eighth year of Uttiya's reign on the eighth
+    day of the bright half of Assayuja; the resulting death year is 199 B.C.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily chronological scholarly commentary rather than a
+    narrative myth passage. Literal extraction is high confidence; motif candidates
+    are limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage does not itself support a motif-family comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l3378-l3425
+  passage_sha256=fdf4eefd16781fe3b1edaa36e2f54a99bd66d0809951516baf5f29b804fc900b
+

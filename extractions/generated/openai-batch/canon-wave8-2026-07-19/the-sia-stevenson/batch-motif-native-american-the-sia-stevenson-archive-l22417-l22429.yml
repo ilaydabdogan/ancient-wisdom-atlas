@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l22417-l22429
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: PERSONAL FETICHES. / DANCING SOCIETIES. / THE OTTER DANCING SOCIETY. / THE
+    RED MEDICINE DANCING SOCIETY.; lines 22417-22429
+  start: '22417'
+  end: '22429'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Red Medicine Dancing Society. It says that Indians
+    formerly obtained a small red bean- or hazelnut-sized object in prairies toward
+    the Bocky Mountains. Mr. Hamilton was told it grew on bushes, was considered alive,
+    and was regarded as a mysterious animal. In the red medicine dance, the medicine-maker
+    kills these animals by crushing the beans and boiling them in water. A few members
+    drink the hot liquid, which produces an intoxicating effect, makes them feel full
+    of life, and enables prolonged dancing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the subsection as concerning the Red Medicine Dancing
+    Society.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Indians are said to have obtained a small red object, about the size of
+    a bean or small hazelnut, in prairies toward the Bocky Mountains.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mr. Hamilton was told that the red object grew on bushes.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The red object was considered alive and was regarded as a mysterious animal.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the red medicine dance, the person who makes the medicine kills the animals
+    by crushing the beans and boiling them in a large kettle filled with water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The drink is assigned to or used by a few members, who drink the liquid while
+    it is quite hot.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The drink produces a kind of intoxication, increases the desire to drink more,
+    and is said to make the drinkers full of life and able to dance for a long time.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Indians
+  description: A collective group said to have obtained the red objects in the prairies
+    toward the Bocky Mountains.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Mr. Hamilton
+  description: A named person who was told that the red object grew on bushes and
+    was considered alive and a mysterious animal.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Person who makes the medicine
+  description: The person in the red medicine dance who crushes the beans and boils
+    them in water, thereby killing the animals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Few members who drink the liquid
+  description: A limited group of members for whom the drink is designed or appropriated;
+    they drink it hot and are affected by it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Red bean-like animals
+  description: Small red objects, about the size of a bean or small hazelnut, said
+    to grow on bushes and considered alive and mysterious animals.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: obtainers of red objects
+  assigned_to:
+  - fig:1
+  basis: The passage says the Indians used to obtain the red objects in the prairies.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipient of report
+  assigned_to:
+  - fig:2
+  basis: The passage states that Mr. Hamilton was told about the object's growth and
+    animate status.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: medicine-maker
+  assigned_to:
+  - fig:3
+  basis: The passage names the person who makes the medicine and describes the crushing
+    and boiling process.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: restricted drinkers and dancers
+  assigned_to:
+  - fig:4
+  basis: The liquid is described as intended for a few members, who drink it and then
+    dance for a long time.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: mysterious living animal used for medicine
+  assigned_to:
+  - fig:5
+  basis: The red objects are considered alive and mysterious animals, and the medicine-maker
+    is said to kill them by crushing and boiling.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: red bean-like living object
+  literal_form: Small red object about the size of a bean or small hazelnut, said
+    to grow on bushes and considered alive/a mysterious animal.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: water in the medicine kettle
+  literal_form: Water filling the large kettle in which the crushed beans are boiled.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: hot red medicine drink
+  literal_form: Hot liquid produced by crushing and boiling the beans/animals; drunk
+    by a few members and described as intoxicating.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Obtaining the red object
+  summary: The Indians formerly obtain small red objects in prairies toward the Bocky
+    Mountains; the objects are reported to grow on bushes and to be considered alive
+    mysterious animals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Making the red medicine
+  summary: During the red medicine dance, the medicine-maker crushes the bean-like
+    animals and boils them in a large kettle of water, which is described as killing
+    them.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Drinking and prolonged dancing
+  summary: A few members drink the hot liquid; it produces intoxication, a desire
+    to drink more, a feeling of being full of life, and the ability to dance for a
+    long time.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animate medicine substance killed in preparation
+  taxonomy_refs: []
+  basis: The passage treats the red bean-like objects as alive and as mysterious animals,
+    then says the medicine-maker kills them by crushing and boiling them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not identify the object botanically or zoologically;
+    the report is mediated through Mr. Hamilton.
+- id: motif:2
+  label: hot intoxicating medicine enabling prolonged dance
+  taxonomy_refs: []
+  basis: The hot liquid is drunk by selected members and produces intoxication, vitality,
+    and capacity to dance for a long time.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports ritual effects but does not provide pharmacological
+    identification or broader ceremonial context beyond the red medicine dance.
+- id: motif:3
+  label: restricted ritual consumption by selected members
+  taxonomy_refs: []
+  basis: The drink is described as designed for or appropriated by a few members rather
+    than for general consumption.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state whether the restriction marks rank, initiation
+    status, office, or another criterion.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 22417-22418
+  quote_or_summary: 'Section heading: THE RED MEDICINE DANCING SOCIETY.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source.
+- id: ev:2
+  type: summary
+  locator: lines 22419-22423
+  quote_or_summary: Indians used to obtain a red bean- or hazelnut-sized object in
+    prairies toward the Bocky Mountains; Mr. Hamilton was told it grew on bushes and
+    was considered alive and a mysterious animal.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 22423-22425
+  quote_or_summary: In the red medicine dance, the medicine-maker kills the animals
+    by crushing the beans and boiling them in a large kettle filled with water.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 22425-22429
+  quote_or_summary: A few members drink the hot liquid; it increases desire to drink,
+    produces a kind of intoxication, makes them 'full of life,' and enables long dancing.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized with brief quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is direct from the supplied passage. Motif labels
+    are descriptive and not linked to broader taxonomy except for the literal water
+    symbol. No comparison claims are made because the passage supplies no external
+    comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The source passage contains typographical/OCR irregularities; extraction follows the supplied text and does not introduce external corrections.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l22417-l22429
+  passage_sha256=eaa991ad804c69127912a5e063faeb4aa0412c38c0a9a64e089340ab740f75b0
+

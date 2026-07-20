@@ -1,0 +1,178 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l45463-l45469
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXI / SECTION CCXII / SECTION CCXIII / SECTION CCXIV; lines 45463-45469
+  start: '45463'
+  end: '45469'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Bhishma said, "I shall now tell thee what the means are (for conquering the
+    senses) as seen with the eye of the scriptures."
+  summary: Bhishma introduces an instruction on conquering the senses through scriptural
+    knowledge. He says that a person who uses such knowledge and shapes conduct accordingly
+    can attain the highest end, and he states that man is foremost among living creatures.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Bhishma says he will explain the means for conquering the senses as seen through
+    the scriptures.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bhishma states that a person can attain the highest end by using such knowledge
+    and framing conduct accordingly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Bhishma says that man is foremost among living creatures.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Bhishma
+  description: Named speaker who introduces the teaching.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: king addressed
+  description: Addressee addressed by Bhishma as "O king."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: person / man
+  description: Generic human figure described as capable of attaining the highest
+    end and as foremost among living creatures.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: instructor
+  assigned_to:
+  - fig:1
+  basis: Bhishma says he will tell the means for conquering the senses.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal addressee
+  assigned_to:
+  - fig:2
+  basis: The listener is addressed as "O king."
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: practitioner of knowledge and conduct
+  assigned_to:
+  - fig:3
+  basis: A person is said to attain the highest end through knowledge and conduct.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: foremost living creature
+  assigned_to:
+  - fig:3
+  basis: Man is said to be foremost among all living creatures.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Bhishma introduces instruction on sense-conquest
+  summary: Bhishma addresses a king and begins to describe scriptural means for conquering
+    the senses, linking knowledge and proper conduct with attainment of the highest
+    end.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: scriptural wisdom guiding conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents knowledge seen through the scriptures as a guide for
+    conduct and as a means to attain the highest end.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is introductory and does not yet give the specific teaching.
+- id: motif:2
+  label: self-mastery through conquering the senses
+  taxonomy_refs: []
+  basis: Bhishma explicitly frames the coming teaching as means for conquering the
+    senses.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The means themselves are not described in the supplied passage.
+- id: motif:3
+  label: human preeminence among living creatures
+  taxonomy_refs: []
+  basis: The passage states that man is foremost among living creatures.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a brief doctrinal statement rather than a developed narrative
+    motif in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 45463-45466
+  quote_or_summary: Bhishma says he will tell the means for conquering the senses
+    "as seen with the eye of the scriptures."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 45466-45468
+  quote_or_summary: Bhishma addresses the king and says a person will attain the highest
+    end through such knowledge and by shaping conduct accordingly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 45468-45469
+  quote_or_summary: '"Amongst all living creatures man is said to be the foremost."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the excerpt is an introductory didactic statement and contains little narrative
+    action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied symbol taxonomy are explicitly present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l45463-l45469
+  passage_sha256=b18c6846bed1675d54bc696d1d0cdd965f11a5830a0392002d19660f51134032
+

@@ -1,0 +1,500 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l10794-l10858
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: THE THREE SOLDIERS. 195 / THE THREE SOLDIERS. 197 / THE STORY OF THE WHITE
+    PET. / THE STORY OF THE WHITE PET. 201; lines 10794-10858
+  start: '10794'
+  end: '10858'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After a shout from the White Pet and his company, thieves flee from a house
+    to a nearby wood. The White Pet and animal companions enter, divide the thieves'
+    money, and settle in their customary places. One thief returns for a candle; the
+    cat claws him, the dog puts out his light with water, the White Pet strikes him,
+    the bull kicks him, the cock crows, and the goose beats his legs. The frightened
+    thief reports these encounters as attacks by threatening human figures. The thieves
+    do not return, and the White Pet and companions keep the money and live peacefully.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A shout from the White Pet's company causes the thieves to think mischief
+    is outside and flee to a nearby wood.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the house is empty, the White Pet and his company enter, take the money
+    the thieves had been counting, and divide it among themselves.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The White Pet asks each companion where it will sleep, and each names an accustomed
+    place in or near the house.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One thief returns to the house to look in and goes to the candle press for
+    a candle so he can make a light.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The cat thrusts her claws into the thief's hand when he puts his hand in the
+    candle press.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The dog dips his tail in a pot of water beside the fire and shakes it to put
+    out the thief's candle.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: As the thief flees, the White Pet gives him a blow, the bull kicks him, the
+    cock crows, and the goose beats his shanks with its wings.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The returning thief tells his comrades that he encountered several threatening
+    human-like figures rather than identifying the animals.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After hearing the report, the thieves do not return for their money; the White
+    Pet and his comrades keep it and live peacefully.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: White Pet
+  description: Named central animal figure who speaks for the company, sleeps in the
+    middle of the floor, strikes the fleeing thief, and shares in the money.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Bull
+  description: Companion who chooses to sleep behind the door and kicks the thief
+    as he tries to leave.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Dog
+  description: Companion who sleeps beside the fire and uses water from a pot to put
+    out the thief's candle.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Cat
+  description: Companion who sleeps in the candle press and claws the thief's hand
+    when he reaches in.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Cock
+  description: Companion who sleeps on the rafters and crows during the thief's flight.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Goose
+  description: Companion who sleeps on the midden and beats the thief's shanks with
+    its wings.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Thieves
+  description: Group who flee from the house, wait in the wood, hear the returning
+    thief's report, and abandon their money.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Returning thief
+  description: One of the thieves who returns to inspect the house, is attacked or
+    frightened by the animals, flees, and reports the experience to his comrades.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: leader or questioner among the animal company
+  assigned_to:
+  - fig:1
+  basis: The White Pet asks each companion where it will sleep and is named with the
+    company that takes and keeps the money.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: animal companion and house occupant
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The animals enter the empty house, divide the money, and settle in specified
+    sleeping places.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: thief or opposing intruder
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The thieves flee the house; one returns to inspect it and is driven out.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: returning scout and reporter
+  assigned_to:
+  - fig:8
+  basis: One thief returns to look into the house and later reports the frightening
+    experience to his comrades in the wood.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: defensive attacker
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Each animal contributes to frightening or harming the returning thief through
+    its position, sound, or movement.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: money
+  literal_form: Money the thieves had been counting; later divided and kept by the
+    White Pet and companions.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: house
+  literal_form: The house first occupied by the thieves, then entered and occupied
+    by the White Pet's company.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: wood
+  literal_form: Nearby wood where the thieves flee and where the returning thief reports
+    to his comrades.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: candle and candle press
+  literal_form: The candle press contains the cat; the returning thief seeks a candle
+    there to make a light.
+  associated_figures:
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: fire
+  literal_form: Fireside where the dog sleeps and where the thief tries to light the
+    candle.
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: water
+  literal_form: Water in a pot beside the fire, used by the dog to extinguish the
+    candle.
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Shout and flight from the house
+  summary: The White Pet's company shouts, and the thieves, thinking mischief is present,
+    flee from the house to a nearby wood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Division of money and sleeping places
+  summary: The animals enter the empty house, divide the thieves' money, and take
+    up sleeping places such as the floor, door, fireside, candle press, rafters, and
+    midden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Return and repulsion of the thief
+  summary: A thief returns for a candle, but the cat claws him, the dog puts out the
+    candle with water, and the other animals strike, kick, crow, or beat him as he
+    flees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Fearful report in the wood
+  summary: The returning thief describes the animals' actions to his comrades as encounters
+    with men armed with knives, a black man sprinkling water, a loft-caller, and a
+    shoemaker on the midden.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Thieves abandon the money
+  summary: The thieves do not return to seek the money, and the White Pet and companions
+    keep it and live peacefully.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Animal companions drive off thieves and gain their goods
+  taxonomy_refs: []
+  basis: The animals' shout first causes the thieves to flee; later their combined
+    actions frighten the returning thief, after which the thieves abandon the money.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a passage-level narrative motif; no supplied taxonomy family directly
+    names this animal-thief pattern.
+- id: motif:2
+  label: Intruder misrecognizes animals as threatening human figures
+  taxonomy_refs: []
+  basis: The returning thief reports the cat, dog, White Pet, bull, cock, and goose
+    as different frightening human-like figures and actions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents misperception in the thief's report, not actual transformation.
+- id: motif:3
+  label: Domestic stations become defensive positions
+  taxonomy_refs: []
+  basis: Each animal chooses a customary place in or near the house, and those positions
+    structure the thief's later frightening encounter.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif is inferred from the sequence of sleeping places and later actions,
+    without an explicit narrator's interpretation.
+- id: motif:4
+  label: Spoils taken from thieves sustain the animal company
+  taxonomy_refs: []
+  basis: The White Pet and companions divide the thieves' money and later keep it
+    when the thieves do not return, living peacefully afterward.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage identifies the money as the thieves' money but gives no broader
+    moral or ritual framing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10794-10801
+  quote_or_summary: After the White Pet's company shouts, the thieves think mischief
+    is outside and flee to a nearby wood.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 10802-10808
+  quote_or_summary: The White Pet and company see the house is empty, enter, take
+    the money the thieves had been counting, divide it, and decide to rest.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 10808-10823
+  quote_or_summary: The White Pet asks the bull, dog, cat, cock, and goose where each
+    will sleep; they choose the door, fireside, candle press, rafters, and midden,
+    while the White Pet chooses the middle of the floor.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 10824-10838
+  quote_or_summary: One thief returns for a candle; the cat claws his hand, the dog
+    extinguishes the candle with water, the White Pet strikes him, the bull kicks
+    him, the cock crows, and the goose beats his shanks.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 10839-10852
+  quote_or_summary: The fleeing thief tells his comrades that figures in the house
+    attacked or threatened him, describing claws as knives, the dog as a black man
+    sprinkling water, the cock as a loft-caller, and the goose as a shoemaker with
+    an apron.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 10853-10858
+  quote_or_summary: The thieves do not return to seek their money, and the White Pet
+    and companions keep it and live peacefully as long as they live.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is clear about figures, actions, objects, and sequence. Motif
+    labels are limited to passage-level narrative patterns. No comparison claims were
+    extracted because the passage itself does not explicitly compare this tale to
+    another text, tradition, or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy symbol refs were applied only to literal fire and water; no motif-family taxonomy refs were assigned.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l10794-l10858
+  passage_sha256=c1cae2aa220f2bf28e2e8fb443f8361008111a57eccc87b8b86e02cfcea94c6a
+

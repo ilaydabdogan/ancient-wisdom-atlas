@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l19223-l19279
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: CANTO IiYITI. / CANTO LVIH. / CANTO LVni. / CANTO TVIII.; lines 19223-19279
+  start: '19223'
+  end: '19279'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A short geographical passage enumerates several named hills and then names
+    people groups including the people of Mithila, the S'abhras, and a truncated Vadana-
+    form. The accompanying notes discuss uncertain readings and possible identifications
+    for several names.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The verse enumerates a set of named hills, including the printed/OCR forms
+    Vfislia-dhvaja, Anjana, Jam by akhja, Manavac'ala, Sdrpa-karna, Vyaghra-mukha,
+    Kharmaka, and Karvatasana.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the hill list, the verse names the people of Mithila, the S'abhras,
+    and a group whose name appears only as the truncated form Vadana- in the provided
+    excerpt.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note says the two lines of verse 12 should apparently be inverted so that
+    the word girayo is placed next to the mountain names from verse 11.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:4
+  text: Several notes report that the editor had not encountered some hill names elsewhere
+    or had not found them in the dictionary.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Anjana note suggests possible parallels in the Ramayana and Mahabharata,
+    while also stating that there are no data to identify the mountain.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Vyaghra-mukha note mentions Udaya-giri near Bhubaneswar, rock-cut caves
+    there, and one cave sculptured as a tiger's open mouth and known as Vyaghra-mukha.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The notes connect Karvatasana with Karvata and suggest that S'abhras may be
+    a reading for Suhmas, with a further comparison to Sumbhas in the Ramayana.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: people of Mithila
+  description: A named population group listed after the hills.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: S'abhras
+  description: A named population group listed after the people of Mithila.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Vadana-
+  description: A population-group name that appears truncated in the provided excerpt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: listed people group
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage names these groups in a geographical enumeration following the
+    hill list.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: hills or mountains
+  literal_form: The enumerated hills named in the passage, with the note identifying
+    girayo as the word that should stand next to the mountain names.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: rock-cut cave called Vyaghra-mukha
+  literal_form: A cave at Udaya-giri described in the note as sculptured in the form
+    of a tiger's open mouth and known as Vyaghra-mukha.
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Geographical enumeration of hills and peoples
+  summary: The passage lists named hills and then names people groups including Mithila,
+    S'abhras, and Vadana-.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Editorial discussion of uncertain geographical names
+  summary: The notes discuss uncertain readings and possible identifications for names
+    such as Anjana, Vyaghra-mukha, Karvatasana, Mithila, and S'abhras.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: topographical catalogue of hills and peoples
+  taxonomy_refs: []
+  basis: The passage is organized as a catalogue of hills followed by named population
+    groups, with notes clarifying that the hill term should be read with the mountain
+    list.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: This is a geographical pattern rather than a narrative mythic motif; no
+    supplied motif-family taxonomy item precisely matches it.
+comparison_claims:
+- id: claim:1
+  claim: The note cautiously compares Anjana with a Ramayana mountain associated with
+    Sugriva's monkey vassals and with a Mahabharata mountain called Aujana/Aujandha,
+    but says there are no data to identify it.
+  claim_level: linguistic_similarity
+  target: Ramayana Kishkinda-kanda xxxvii.6 and Mahabharata Anusasana-parvan clxv.7658
+    mountain references
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: low
+  limitations: The comparison is the editor's conjecture and the same note explicitly
+    denies firm identification.
+- id: claim:2
+  claim: The note connects Karvatasana with the country or town Karvata mentioned
+    with Tamra-lipta and Suhma in the Mahabharata Sabha-parvan.
+  claim_level: linguistic_similarity
+  target: Mahabharata Sabha-parvan xxix.1098-1099 reference to Karvata
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: low
+  limitations: The note says the name is not in the dictionary and had not been met
+    elsewhere, so the connection remains editorial and uncertain.
+- id: claim:3
+  claim: The note suggests S'abhras should probably be read as Suhmas and compares
+    the Sumbhas of the Ramayana to the same group.
+  claim_level: linguistic_similarity
+  target: Suhmas/Sumbhas; Ramayana Kishkinda-kanda xl.25
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: medium
+  limitations: The claim depends on textual emendation of the printed/OCR form S'abhras.
+- id: claim:4
+  claim: The note asks whether the hill name Vyaghra-mukha may refer to the Udaya-giri
+    cave sculptured like a tiger's open mouth and known by that name.
+  claim_level: visual_similarity
+  target: Udaya-giri cave near Bhubaneswar known as Vyaghra-mukha
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: The note frames the identification as a question and remarks that it
+    would be somewhat out of place.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19223-19279; CANTO TVIII, verses 11-12
+  quote_or_summary: The passage lists “The hills ... Anjana ... Manavac'ala, Sdrpa-karna,
+    Vyaghra-mukha ... Kharmaka, Karvatasana” and then “the people of Mithila, the
+    S'abhras, and the Vadana-”.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 19223-19279; notes on several hill names
+  quote_or_summary: Notes state that some names are not found elsewhere or not in
+    the dictionary, and propose tentative identifications for some of them.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19223-19279; note on Anjana
+  quote_or_summary: The Anjana note says it may be the mountain from which Sugriva
+    summoned his vassal monkeys in the Ramayana and may also correspond to a Mahabharata
+    mountain, but adds that there are no data to identify it.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19223-19279; note on Vyaghra-mukha
+  quote_or_summary: The Vyaghra-mukha note describes Udaya-giri near Bhubaneswar as
+    having rock-cut caves, one shaped as a tiger's open mouth and known as Vyaghra-mukha,
+    and asks if that hill is intended.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19223-19279; note on Karvatasana
+  quote_or_summary: The Karvatasana note says the name is not in the dictionary and
+    has not been met elsewhere, but is no doubt to be connected with Karvata mentioned
+    in the Mahabharata Sabha-parvan.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 19223-19279; note marked §§
+  quote_or_summary: "“The two lines of verse 12 must, it seems, be inverted, so as
+    to bring the word girayo next to the mountains named in verse 11.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: lines 19223-19279; notes on Mithila and S'abhras
+  quote_or_summary: The Mithila note says the people of Videha had already been mentioned
+    elsewhere; the S'abhras note says the reading should probably be Suhmas and compares
+    the Sumbhas in the Ramayana.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a fragmentary/OCR-affected geographical catalogue with editorial
+    notes, not a narrative myth passage. Mountain and cave symbols are literal place/object
+    references; motif identification is therefore limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No divine figures, ritual actions, or narrative mythic episodes are present in the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l19223-l19279
+  passage_sha256=14aabba050b4ef662d213277c098fa1445b95a0cc97b4648e6f69d7dbf9f0e26
+

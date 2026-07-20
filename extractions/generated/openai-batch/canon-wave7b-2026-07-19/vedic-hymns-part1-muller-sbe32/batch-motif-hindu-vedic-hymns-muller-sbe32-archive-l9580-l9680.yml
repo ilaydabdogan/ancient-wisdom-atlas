@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l9580-l9680
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES. I, 19, 7. 59 / NOTES. 1, 19,7. 61 / NOTES, 1,37, 1. 65 / NOTES.; lines
+    9580-9680
+  start: '9580'
+  end: '9680'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Philological notes on Rig-veda I,37,1 state that the hymn is ascribed to
+    Kazva, son of Ghora. The cited translations address the Kazvas and call them to
+    praise the Maruts, described as a sportive or swift host shining in a car. The
+    note argues that the disputed term should mean unopposed, without enemy, or free
+    from injury rather than without horses. A cited Rig-vedic example prays that Agni
+    remove wicked misdeeds committed while waking or sleeping.
+  language: English with Sanskrit and German citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note states that the hymn is ascribed to Kazva, the son of Ghora.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translations of verse 1 present an address to the Kazvas, calling them
+    to celebrate or sing to the Maruts.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Maruts are described in the translations as a host or group associated
+    with sportiveness or swiftness and with a shining car.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note rejects the rendering of the disputed term as “without horses” and
+    prefers meanings such as without an enemy, unopposed, without hurt, or free from
+    enemies.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A cited Rig-vedic verse asks Agni to remove wicked misdeeds far away from
+    the speakers after faults or offences committed while waking or sleeping.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note explains related forms as having meanings such as uninjured, invulnerable,
+    perfect, or strong.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kazva
+  description: Named as the figure to whom the hymn is ascribed; described as the
+    son of Ghora.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ghora
+  description: Named as the father of Kazva.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Kazvas
+  description: Group addressed in the cited translations and called to praise or sing
+    to the Maruts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Maruts
+  description: A host or group praised in the verse translations and described as
+    shining in a car.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Agni
+  description: Named in a cited verse as the one asked to remove wicked misdeeds far
+    from the speakers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ascribed hymn figure
+  assigned_to:
+  - fig:1
+  basis: The note says the hymn is ascribed to Kazva.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: named father
+  assigned_to:
+  - fig:2
+  basis: Kazva is identified as the son of Ghora.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: addressed praising group
+  assigned_to:
+  - fig:3
+  basis: The translations address the Kazvas and call them to celebrate or sing.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: praised host
+  assigned_to:
+  - fig:4
+  basis: The Maruts are the group whose strength or host is to be celebrated in the
+    verse translations.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: remover of misdeeds
+  assigned_to:
+  - fig:5
+  basis: The cited verse asks Agni to remove wicked misdeeds far away.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: shining car
+  literal_form: car or wagon shining with the Maruts
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Hymn attribution
+  summary: The note attributes the hymn to Kazva and identifies him as the son of
+    Ghora.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Praise of the Maruts
+  summary: The verse translations address the Kazvas and call them to celebrate or
+    sing to the Marut host, described as sportive or swift and shining in a car.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Prayer to Agni against misdeeds
+  summary: A cited verse says that if offences or faults have been committed while
+    waking or sleeping, Agni should remove all wicked misdeeds far from the speakers.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Praised host in a shining vehicle
+  taxonomy_refs: []
+  basis: The translations call the Kazvas to celebrate or sing to the Maruts, who
+    are presented as a host shining in a car.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a philological note and translation comparison, not a full
+    mythic narrative.
+- id: motif:2
+  label: Unopposed or invulnerable host
+  taxonomy_refs: []
+  basis: The note explains the disputed word as meaning without enemy, unopposed,
+    without hurt, free from enemies, and later as uninjured or invulnerable.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is primarily lexical interpretation; the motif value depends on the
+    term’s application in the verse.
+- id: motif:3
+  label: Invoked deity removes misdeeds
+  taxonomy_refs: []
+  basis: The cited Rig-vedic verse asks Agni to remove wicked misdeeds far from the
+    speakers after offences or faults.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This appears as a supporting quotation within a philological note rather
+    than as the main hymn passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9580-9584
+  quote_or_summary: "“This hymn is ascribed to Kazva, the son of Ghora.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 9588-9602
+  quote_or_summary: The cited translations of verse 1 address the Kazvas and call
+    them to celebrate or sing to the Maruts; the Maruts are described as a sportive
+    or swift host and as shining in a car.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 9604-9622
+  quote_or_summary: The note says Wilson’s “without horses” is rejected; the commentator’s
+    meaning, without an enemy or unopposed, is preferred, and the Rig-vedic sense
+    is given as without hurt or free from enemies.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 9638-9647
+  quote_or_summary: A cited verse says that if offences or faults have been committed
+    by bidding, blaming, or forbidding, while waking or sleeping, Agni should remove
+    all wicked misdeeds far away.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 9661-9677
+  quote_or_summary: The note derives related forms from a root meaning to hurt and
+    explains anarvan as originally without wound or without one who can wound, then
+    more generally uninjured, invulnerable, perfect, or strong.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The record is extractable, but the passage is mainly philological commentary
+    with brief quoted or summarized Vedic material; motif candidates are therefore
+    cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family or symbol references were assigned because the available taxonomy terms are not directly supported by the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l9580-l9680
+  passage_sha256=1c83151f3d8b525e74f4b3c427b79b779da054b3788e7b4db29d4af46cea36a7
+

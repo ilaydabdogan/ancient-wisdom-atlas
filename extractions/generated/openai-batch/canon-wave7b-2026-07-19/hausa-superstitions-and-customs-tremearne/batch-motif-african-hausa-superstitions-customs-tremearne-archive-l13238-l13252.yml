@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l13238-l13252
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: THE   RIVAL'S   RULER  285 / THE   RIVAL'S   RULER  287 / THE    WILD    CAT'S    WIFE  289
+    / THE   DISHONEST    FATHER; lines 13238-13252
+  start: '13238'
+  end: '13252'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: I have only one Daughter, but I have taken money from three Suitors, I have
+    told each that I would give her to him
+  summary: In a tale titled “The Dishonest Father,” a father tells a Malam that he
+    has promised his only daughter in marriage to three suitors after taking money
+    from each. The Malam instructs him to pray, place a drawn sword near his head,
+    and watch for a bitch crossing in front of him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is part of a tale titled “The Dishonest Father.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A father says he has only one daughter.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The father says he has taken money from three suitors.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The father says he told each suitor that he would give the girl to him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The girl is described as ready for marriage.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Malam instructs the father to go and pray after departing.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Malam instructs the father to draw his sword and place it close to his
+    head.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Malam says that after bending down and lifting his head, the father may
+    see a bitch cross in front of him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: If the bitch crosses in front of him, the father is told to make haste and
+    take his sword; the passage breaks off before the instruction is completed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Father
+  description: A father with one daughter who says he has taken money from three suitors
+    and promised the girl to each.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Malam
+  description: A Malam who listens to the father and gives instructions involving
+    prayer, a drawn sword, and watching for a bitch crossing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Daughter / Girl
+  description: The father’s only daughter, described as ready for marriage and promised
+    to three suitors.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Three Suitors
+  description: Three suitors from whom the father says he has taken money, each being
+    told he would receive the girl.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Bitch
+  description: A female dog that the Malam says may come and cross in front of the
+    father after prayer.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dishonest father
+  assigned_to:
+  - fig:1
+  basis: The tale title calls him dishonest, and he says he promised his only daughter
+    to three suitors after taking money from each.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: petitioner seeking advice
+  assigned_to:
+  - fig:1
+  basis: He asks the Malam for a favour and explains his situation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: religious or learned adviser
+  assigned_to:
+  - fig:2
+  basis: The Malam replies to the father and gives directions involving prayer and
+    a sword.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: marriageable daughter
+  assigned_to:
+  - fig:3
+  basis: She is the father’s only daughter and is described as ready for marriage.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: rival suitors
+  assigned_to:
+  - fig:4
+  basis: The father says he took money from three suitors and promised the girl to
+    each of them.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: crossing animal sign
+  assigned_to:
+  - fig:5
+  basis: The Malam describes a bitch crossing in front of the father as part of the
+    instructed sequence.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sword near the head
+  literal_form: drawn sword placed close to the head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: crossing bitch
+  literal_form: a bitch crossing in front of the father
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: prayer posture
+  literal_form: praying, bending down, and lifting the head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Father confesses a marriage-payment problem
+  summary: The father tells the Malam that he has one daughter, has taken money from
+    three suitors, and has promised the girl to each suitor although she is now ready
+    for marriage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Malam gives prayer and omen instructions
+  summary: The Malam tells the father to pray, place a drawn sword near his head,
+    bend down, lift his head, and respond if a bitch crosses before him; the passage
+    ends before the instruction is complete.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: one bride promised to multiple suitors after payment
+  taxonomy_refs: []
+  basis: The father says he took money from three suitors and told each that he would
+    give his only daughter to him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not include the resolution or consequences of the deception.
+- id: motif:2
+  label: consulting a Malam for a remedy to wrongdoing
+  taxonomy_refs: []
+  basis: The father presents his difficulty to the Malam, who responds with instructions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt begins mid-conversation and ends before the instruction is
+    completed.
+- id: motif:3
+  label: animal crossing as instructed sign or omen
+  taxonomy_refs: []
+  basis: The Malam tells the father to watch for a bitch crossing in front of him
+    after prayer and to act if it occurs.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The text does not explicitly call the crossing an omen, and the passage
+    breaks off before the action is completed.
+- id: motif:4
+  label: ritualized use of sword during prayer
+  taxonomy_refs: []
+  basis: The Malam instructs the father to draw his sword, place it close to his head,
+    pray, and then take the sword if the described animal crossing occurs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The function of the sword is not yet explained in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 13238-13252
+  quote_or_summary: The passage belongs to the tale headed “THE DISHONEST FATHER.”
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; citation/summary use allowed.
+- id: ev:2
+  type: quote
+  locator: lines 13242-13247
+  quote_or_summary: The Father said, “I have only one Daughter, but I have taken money
+    from three Suitors, I have told each that I would give her to him, and the Girl
+    is now ready for marriage.”
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation use allowed.
+- id: ev:3
+  type: quote
+  locator: lines 13247-13250
+  quote_or_summary: 'The Malam replied: “When you depart, go and pray, and draw your
+    sword and place it close to your head.”'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation use allowed.
+- id: ev:4
+  type: quote
+  locator: lines 13250-13252
+  quote_or_summary: The Malam says that after bending down and lifting the head, “if
+    you see a Bitch come and cross in front of you, make haste and take your sword”;
+    the excerpt ends mid-instruction.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the excerpt begins in the middle
+    of a request and ends before the Malam’s instruction is complete. No comparison
+    claims are made because the passage itself provides no explicit comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the supplied passage does not clearly support any listed motif family or symbol taxonomy item.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l13238-l13252
+  passage_sha256=1313cfb60db1eb34ecf815f0b49c3facfd9431df1625389085ac01ed09afcfdf
+

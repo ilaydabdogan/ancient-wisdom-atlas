@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.greek-modern-greek-folklore-lawson-gutenberg-l23414-l23448
+source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+passage_locator:
+  label: 'FOOTNOTES: / CHAPTER VI. / THE BENEFIT OF DISSOLUTION. / FOOTNOTES:; lines
+    23414-23448'
+  start: '23414'
+  end: '23448'
+  translation: 'Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The footnotes discuss Greek terms and customs connected with κόλυβα/κόλλυβα,
+    including boiled wheat, small coins, sweetmeats thrown over new household entrants,
+    and offerings or libations to heroes and the dead. They also note a distinction
+    between burial-related terms.
+  language: English with Greek terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note compares κόλυβα with σῖτος ἑψητός and says spelling with double lambda
+    is preferable.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The classical meaning of κόλλυβα is given as small coins.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A scholiast on Aristophanes is reported to list κόλλυβα among καταχύσματα
+    thrown over a new slave at introduction to a household.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The thrown καταχύσματα are described as mainly sweetmeats, with the author
+    suggesting that small coins were probably also thrown.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A related custom of throwing καταχύσματα over a bride entering her new home
+    is said to have continued to the present day and to include small change and sticky
+    edibles.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Offerings to heroes are said to be called ἐναγίσματα and χοαί, like those
+    of other dead men.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Heroic offerings are described as provided by the state rather than by an
+    individual and as made regularly year after year.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The term νεκροταφεῖον is identified as the place of preliminary interment,
+    though the note says burial terms are often confused.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: new slave
+  description: A person introduced into a household while καταχύσματα are thrown over
+    him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: bride
+  description: A woman entering her new home in a related custom involving thrown
+    small change and sticky edibles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: heroes
+  description: Dead heroes who receive offerings called ἐναγίσματα and χοαί.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: other dead men
+  description: Ordinary dead men whose offerings are named as a comparison for heroic
+    offerings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: state
+  description: The public provider of heroic gifts made regularly year after year.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: household entrant receiving thrown items
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes thrown materials over a new slave entering a household
+    and over a bride entering her new home.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipient of offerings and libations
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Heroes and other dead men are linked through offerings called ἐναγίσματα
+    and χοαί.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: public provider of regular offerings
+  assigned_to:
+  - fig:5
+  basis: The state, not the individual, is said to provide heroic gifts regularly
+    year after year.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: κόλυβα / boiled wheat
+  literal_form: κόλυβα compared with σῖτος ἑψητός, boiled wheat
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: κόλλυβα / small coins
+  literal_form: small coins named as the classical meaning of κόλλυβα
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: καταχύσματα
+  literal_form: materials thrown over a household entrant, described as sweetmeats,
+    small change, and sticky edibles
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ἐναγίσματα and χοαί
+  literal_form: offerings and libations to heroes and other dead men
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: νεκροταφεῖον
+  literal_form: place of preliminary interment
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Thrown items at household entry
+  summary: The passage reports a rite in which items such as sweetmeats and small
+    coins are thrown over a new slave entering a household, and compares it with a
+    bride-entry custom involving small change and sticky edibles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Regular offerings to heroes
+  summary: Heroes receive offerings and libations named like those of other dead men;
+    the state provides these heroic gifts regularly year after year.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Burial terminology note
+  summary: The passage distinguishes νεκροταφεῖον as a place of preliminary interment
+    while noting that burial terms are often confused.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ritual showering of a household entrant with coins and sweets
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes materials thrown over a new slave on introduction to
+    a household and over a bride entering her new home.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a ritual-custom pattern from scholarly footnotes, not a mythic
+    narrative; the passage provides limited ritual detail.
+- id: motif:2
+  label: Regular offerings and libations to dead heroes
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage says heroes receive ἐναγίσματα and χοαί like other dead men and
+    that the state provides these gifts yearly.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage names the offerings and their regularity but does not describe
+    their full performance or contents.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the ancient rite of throwing καταχύσματα over a new
+    slave entering a household with a kindred bride-entry rite said to continue into
+    the present, both involving thrown edible items and small change.
+  claim_level: same_function
+  target: Bride-entry throwing custom with small change and sticky edibles
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made in a footnote and lacks detailed contextual
+    description of either rite.
+- id: claim:2
+  claim: The passage supports a functional comparison between heroic offerings and
+    ordinary mortuary offerings because both are said to use the same terms, ἐναγίσματα
+    and χοαί.
+  claim_level: same_function
+  target: Offerings to other dead men
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage compares terminology and recipient category, but does not
+    describe the ritual contents in detail.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23414-23415
+  quote_or_summary: Footnote [1347] compares κόλυβα with σῖτος ἑψητός and comments
+    on spelling.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 23417-23425
+  quote_or_summary: Footnote [1348] states that κόλλυβα classically meant small coins;
+    it discusses sweetmeats and coins thrown over a new slave at household introduction
+    and a kindred bride-entry custom including small change and sticky edibles.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: citation
+  locator: lines 23427-23437
+  quote_or_summary: Footnotes [1349]-[1354] provide citations to Gregorovius, Πρωτόδικος,
+    Archelaos, Bybilakis, Plutarch, Thucydides, and an earlier page reference.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; citation summary.
+- id: ev:4
+  type: summary
+  locator: lines 23439-23443
+  quote_or_summary: Footnote [1355] says heroes received offerings called ἐναγίσματα
+    and χοαί like other dead men, but their gifts were provided by the state and made
+    regularly year after year.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 23445-23448
+  quote_or_summary: Footnote [1357] contrasts a term with νεκροταφεῖον, described
+    as the place of preliminary interment, and notes that the terms are often confused.
+  source_text_path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage consists of footnotes and citations rather than a continuous
+    narrative. Ritual patterns are extractable, but motif labels should be reviewed
+    by a human specialist.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because none of the available symbol refs directly matched the passage objects.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-modern-greek-folklore-lawson-gutenberg__l23414-l23448
+  passage_sha256=44694ed77a82e4ec0a1de9d99126409d550142b1dd6aa5ae63fcf775071ed1e4
+

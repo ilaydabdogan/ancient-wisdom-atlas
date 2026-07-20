@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l13197-l13232
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: APPENDIX III / APPENDIX III / APPENDIX IV / OUTSIDE TESTIMONY; lines 13197-13232
+  start: '13197'
+  end: '13232'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Appendix IV introduces outside testimony in the form of unsolicited letters.
+    One letter, dated June 5, 1892, describes visitors deciding to visit the South
+    American Missionary Society station in the Paraguayan Chaco, gives the station's
+    Indigenous name and location, notes its development under Mr. W. Grubb, and recounts
+    the visitors' reception by Grubb and the local Indigenous people.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is framed as extracts from unsolicited letters sent by people
+    who visited the Paraguayan Chaco Mission.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The letter writers were waiting in Villa Concepcion for a steamer and decided
+    to visit the South American Missionary Society station in the Paraguayan Chaco.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The station is called Thlagnasinkinmith in an Indian name and is located about
+    twelve leagues west of the River Paraguay, in the Chaco interior, on the Rio Verde.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The station is described as recently created, rapidly developed under Mr.
+    W. Grubb, and widely known among Chaco Indians, who consider it one of their largest
+    settlements.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The visitors found Mr. Grubb alone with the Indians, who were initially surprised
+    and are said to fear white intrusion into their domains.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After seeing Mr. Grubb receive the visitors in a friendly manner, the Indians
+    concluded the visitors were expected missionaries from England and received them
+    with expressions of friendship.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A village is described as rising around the station house.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unsolicited letter writers / visitors
+  description: Visitors to the Paraguayan Chaco Mission whose letter is excerpted;
+    in the letter they describe going to the station while waiting at Villa Concepcion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mr. W. Grubb
+  description: The person described as managing the station and receiving the visitors
+    in a friendly manner.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Chaco Indians / Indians at the station
+  description: Indigenous people associated with the station; they know the station
+    as a large settlement, are initially surprised by white visitors, and later receive
+    the visitors with friendship.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: outside witnesses and visitors
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the text as outside testimony from visitors, and the
+    letter describes their decision to visit the station.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: station manager and host
+  assigned_to:
+  - fig:2
+  basis: Mr. W. Grubb is associated with the station's management and is said to receive
+    the visitors in a friendly manner.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: local Indigenous community at or around the station
+  assigned_to:
+  - fig:3
+  basis: The Chaco Indians are described as regarding the station as a major settlement
+    and as responding to the visitors at the station.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: waterway setting
+  literal_form: River Paraguay and Rio Verde
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: mission station and emerging village
+  literal_form: Thlagnasinkinmith, the station house, and the village rising around
+    it
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Introduction of outside testimony
+  summary: The appendix presents extracts from unsolicited letters by visitors to
+    the Paraguayan Chaco Mission.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Decision to visit the Chaco station
+  summary: The letter writers, delayed at Villa Concepcion while waiting for a steamer,
+    decide to visit the South American Missionary Society station.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Location and reputation of Thlagnasinkinmith
+  summary: The station is named and located near the River Paraguay and Rio Verde,
+    and is described as developing under Mr. W. Grubb and as important among Chaco
+    Indians.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Reception of the visitors
+  summary: The visitors find Grubb with the Indians; after initial surprise, the Indians
+    interpret the visitors as expected missionaries and receive them with friendship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13197-13204
+  quote_or_summary: Appendix IV is labeled Outside Testimony and introduces extracts
+    from unsolicited letters sent to the Buenos Ayres Standard and the South American
+    Missionary Society by visitors to the Paraguayan Chaco Mission.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 13205-13216
+  quote_or_summary: A letter dated June 5, 1892 says the writers were in Villa Concepcion
+    waiting for a steamer and chose to visit the South American Missionary Society
+    station in the Paraguayan Chaco.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: 13217-13220
+  quote_or_summary: The station's Indian name is given as Thlagnasinkinmith, and its
+    location is described as about twelve leagues west of the River Paraguay, in the
+    Chaco interior, on the Rio Verde.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: 13220-13223
+  quote_or_summary: The station is said to have developed rapidly under Mr. W. Grubb's
+    management and to be known among Chaco Indians as one of their largest settlements.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: 13224-13227
+  quote_or_summary: The visitors found Mr. Grubb with the Indians, who appeared surprised
+    at first because they feared white intrusion into their domains.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: 13228-13232
+  quote_or_summary: After seeing Grubb receive the visitors in a friendly manner,
+    the Indians concluded the visitors were expected missionaries from England, received
+    them with friendship, and a village is described as rising around the station
+    house.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an ethnographic outside-testimony excerpt rather than a mythic
+    narrative. No candidate myth motifs or comparison claims are extracted. The final
+    sentence in the supplied passage ends mid-statement, so no inference is made beyond
+    the visible text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l13197-l13232
+  passage_sha256=6beb4590d87c4af57f993c0623003f55b5dda8fef094a4c13f91c9e0546d61ee
+

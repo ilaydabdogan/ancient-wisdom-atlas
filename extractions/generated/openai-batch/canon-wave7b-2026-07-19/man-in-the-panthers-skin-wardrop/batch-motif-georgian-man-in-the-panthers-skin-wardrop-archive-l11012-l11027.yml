@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.georgian-man-in-the-panthers-skin-wardrop-archive-l11012-l11027
+source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+passage_locator:
+  label: XXVIT / XXVIII / AXNIT / XXXII; lines 11012-11027
+  start: '11012'
+  end: '11027'
+  translation: The Man in the Panther's Skin
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Avt'handil passes the city and reaches a red-green stone palace complex
+    by the seashore. A guide quietly identifies it as the palace of the person Avt'handil
+    seeks and points toward a terrace. Avt'handil then enters silently past two guards
+    at the door of the youth and kills them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Avt'handil passes the city before reaching the seashore location.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A red-green stone building stands on the seashore, with lower palaces and
+    many terraces above them.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An unnamed guide leads Avt'handil to the building and speaks to him in a low
+    voice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The guide identifies the place as the palace of the person Avt'handil seeks.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The guide points toward a figure on a terrace and refers to where that person
+    sleeps or may be found sitting.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Two guards lie before the door of the luckless youth.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Avt'handil enters silently, puts a hand on each guard's throat, and kills
+    them by striking their heads together.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Avt'handil
+  description: Described as peerless in form, sun-faced, and as the knight who passes
+    the city, is led by the guide, and kills the guards.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed guide
+  description: Leads Avt'handil to the palace and identifies it in a low voice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the sought youth
+  description: The person Avt'handil seeks; called a luckless youth, associated with
+    the palace, terrace, sleeping place, sitting place, and guarded door.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: two guards
+  description: Two guards lying before the door of the luckless youth; Avt'handil
+    kills them.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: seeker-knight
+  assigned_to:
+  - fig:1
+  basis: Avt'handil is led to the palace of the person he seeks and is called a knight
+    in the guard-killing scene.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: guide
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly says Avt'handil is led by his guide, who identifies
+    the palace.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: sought resident or youth
+  assigned_to:
+  - fig:3
+  basis: The guide calls the palace that of the one Avt'handil seeks, and the next
+    stanza refers to the guarded door of the luckless youth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: door guards
+  assigned_to:
+  - fig:4
+  basis: Two guards lie before the youth's door.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: silent infiltrator and killer
+  assigned_to:
+  - fig:1
+  basis: Avt'handil steals in without sound and kills the two guards.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: seashore palace complex
+  literal_form: A building of red-green stone by the seashore, with lower palaces
+    and many terraces above.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: terrace vantage
+  literal_form: A terrace from which the guide points out the sought person or his
+    place.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: guarded door
+  literal_form: The door of the luckless youth with two guards before it.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Arrival at the seashore palace
+  summary: Avt'handil passes the city and comes to a large red-green stone palace
+    complex on the seashore.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Guide identifies the sought person's palace
+  summary: The guide leads Avt'handil to the palace, quietly identifies it as belonging
+    to the person sought, and points toward the terrace area.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Silent killing of the door guards
+  summary: At the door of the luckless youth, Avt'handil silently enters and kills
+    the two guards.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: guided approach to the sought person's dwelling
+  taxonomy_refs: []
+  basis: A guide leads Avt'handil to the palace and explicitly identifies it as the
+    place of the person Avt'handil seeks.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader taxonomy assignment is made because the passage only establishes
+    a practical search and approach.
+- id: motif:2
+  label: seashore palace as goal location
+  taxonomy_refs: []
+  basis: The sought person's residence is presented as an elaborate palace complex
+    beside the sea.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives strong architectural imagery, but does not state a symbolic
+    meaning for the seashore or terraces.
+- id: motif:3
+  label: silent entry past guards by lethal force
+  taxonomy_refs: []
+  basis: Avt'handil enters without sound and kills the two guards at the youth's door.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify whether this action is part of a rescue,
+    abduction, revenge, or another larger plot function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: stanza 1090; lines 11012-11016
+  quote_or_summary: Avt'handil passes the city; a red-green stone building with palaces
+    and many terraces stands on the seashore.
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: stanza 1091; lines 11017-11022
+  quote_or_summary: The guide says in a low voice, "This is the palace of him thou
+    seekest," and points toward the terrace.
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: stanza 1092; lines 11023-11027
+  quote_or_summary: Two guards lie before the youth's door; Avt'handil enters silently,
+    seizes their throats, and kills them by striking their heads together.
+  source_text_path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal action and figures are clear. Motif labels are cautious and not
+    assigned to the supplied taxonomy because the excerpt does not establish a broader
+    mythic function. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external context added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:georgian-man-in-the-panthers-skin-wardrop-archive__l11012-l11027
+  passage_sha256=5dfc7f5ee3d69e4fd32b204fe4a861c24cf77242fa0fd40a6f2ef6018617b3aa
+

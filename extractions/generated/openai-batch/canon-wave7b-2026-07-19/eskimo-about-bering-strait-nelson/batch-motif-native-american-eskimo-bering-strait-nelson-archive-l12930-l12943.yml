@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l12930-l12943
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: PAINTS   AND   COLORS / THE    ESKIMO    ABOUT    BERING    STRAIT / POTTERY
+    . / MATS,   BASKETS,    AND   HAGS; lines 12930-12943
+  start: '12930'
+  end: '12943'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“the women are expert in weaving grass mats, baskets, and bags”"
+  summary: The passage describes women from Norton Sound to the Kuskokwim as skilled
+    makers of woven grass mats, baskets, and bags, and lists domestic, storage, boat,
+    and partitioning uses for these items.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Women from the shore of Norton Sound to the Kuskokwim are described as expert
+    in weaving grass mats, baskets, and bags.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Grass mats are used on sleeping benches and for wrapping bedding.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Grass mats are used as sails for kaiaks and were formerly used as sails for
+    umiaks.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Grass mats frequently serve as curtains to partition corners of a room or
+    a sleeping platform.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Small mats are placed in kaiak manholes to serve as seats.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Bags are used for storing fish, berries, other food supplies, and clothing.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Smaller bags and baskets are made to contain small household articles.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: At Chukwuk on the lower Yukon, the narrator reports seeing a woman making
+    an item, but the provided passage cuts off before identifying the item.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: women from Norton Sound to the Kuskokwim
+  description: Women described as expert in weaving grass mats, baskets, and bags.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: woman at Chukwuk
+  description: A woman seen by the narrator making an item; the object is not identified
+    in the supplied passage fragment.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: narrator-observer
+  description: The speaker who reports seeing a woman at Chukwuk on the lower Yukon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: weavers
+  assigned_to:
+  - fig:1
+  basis: The passage states that women in the region are expert in weaving grass mats,
+    baskets, and bags.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: maker
+  assigned_to:
+  - fig:2
+  basis: The passage states that a woman at Chukwuk was seen making an item, though
+    the supplied passage does not identify it.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: observer
+  assigned_to:
+  - fig:3
+  basis: The first-person speaker says, “I saw a woman,” at Chukwuk.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: grass mats
+  literal_form: woven grass mats
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: baskets
+  literal_form: woven baskets
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: bags
+  literal_form: woven bags
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: kaiaks
+  literal_form: kaiaks with mats used as sails or seats in manholes
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: umiaks
+  literal_form: umiaks formerly using mats as sails
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: stored foods
+  literal_form: fish, berries, and other food supplies stored in bags
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Regional weaving and use of grass objects
+  summary: Across the region from Norton Sound to the Kuskokwim, women weave grass
+    mats, baskets, and bags that serve sleeping, sailing, seating, partitioning, storage,
+    and household-container functions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Observation at Chukwuk
+  summary: At Chukwuk on the lower Yukon, the narrator sees a woman making an item,
+    but the supplied passage ends before the item is named.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12930-12933
+  quote_or_summary: "“From the shore of Norton sound to the Kuskokwim the women are
+    expert in weaving grass mats, baskets, and bags.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:2
+  type: summary
+  locator: 12933-12938
+  quote_or_summary: Grass mats are used on sleeping benches, around bedding, as kaiak
+    sails, formerly as umiak sails, as curtains partitioning rooms or sleeping platforms,
+    and as seats in kaiak manholes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 12938-12942
+  quote_or_summary: Bags store fish, berries, other food supplies, or clothing; smaller
+    bags and baskets hold small household articles.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: '12943'
+  quote_or_summary: "“At Chukwuk, on the lower Yukon, I saw a woman making one of”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: high
+  notes: Literal extraction is straightforward for the supplied lines. No mythological
+    motif or passage-supported comparison is present; comparison claims are therefore
+    omitted. The final sentence is fragmentary in the provided passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage is ethnographic and material-cultural rather than narrative mythic; objects are recorded literally without symbolic interpretation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l12930-l12943
+  passage_sha256=9bc581b5d2456530f4b0903ebcda20fbc1ee1e633c0733db7d28b25ce0bdfc69
+

@@ -1,0 +1,148 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l3465-l3695
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: CH. III. INTRODUCTION. 47 / CH. III. INTRODUCTION. 51 / CH, III. INTRODUCTION.
+    55 / PLATE I.; lines 3465-3695
+  start: '3465'
+  end: '3695'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A plate presents the hexagrams in the order in which they appear in the
+    Yi, stating that they were arranged by King Wan. The plate includes names and
+    line-diagram forms for multiple hexagrams, though the transmitted passage text
+    is heavily affected by OCR or layout noise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as Plate I.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The plate presents hexagrams in the order in which they appear in the Yi.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ordering of the hexagrams is attributed to King Wan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage contains a series of named hexagrams with accompanying line-like
+    diagrams or layout forms.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: King Wan
+  description: Named as the person by whom the hexagrams were arranged.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hexagrams
+  description: A set of diagrammatic figures presented in the order in which they
+    appear in the Yi.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: arranger of the hexagram order
+  assigned_to:
+  - fig:1
+  basis: The plate caption states that the hexagrams were arranged by King Wan.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ordered symbolic diagram set
+  assigned_to:
+  - fig:2
+  basis: The passage presents the hexagrams as a sequence of named diagrams appearing
+    in the Yi.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: hexagram sequence
+  literal_form: Named hexagram line diagrams arranged as a plate sequence.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Plate of the ordered hexagrams
+  summary: A plate displays the Yi hexagrams in a stated order and attributes their
+    arrangement to King Wan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: ordered set of sacred or canonical diagrams
+  taxonomy_refs: []
+  basis: The passage presents a formally ordered sequence of hexagram diagrams in
+    the Yi and names an attributed arranger for that order.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is a plate caption and diagram list rather than a narrative
+    myth; motif identification is limited to the formal pattern of ordered symbolic
+    figures.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3465-3473
+  quote_or_summary: The opening of Plate I identifies the subject as the hexagrams,
+    gives their order as the order in which they appear in the Yi, and says they were
+    arranged by King Wan.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 3474-3695
+  quote_or_summary: The remainder of the passage lists multiple hexagram names and
+    accompanying line-diagram forms, with substantial OCR or layout noise in the extracted
+    text.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The basic plate caption is clear, but many names and diagram forms are garbled
+    by OCR/layout extraction. Motif interpretation is limited because the passage
+    is tabular and non-narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-traditional comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l3465-l3695
+  passage_sha256=cf250a937f7a75a8510f3b50194229306e6ddb3fd7e4d5834f4d67a2560b9754
+

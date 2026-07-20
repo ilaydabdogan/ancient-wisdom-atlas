@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l15932-l16040
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: CANTO LVIT. / FAMOUS HILLS IK IKBIA. / FAMOUS HILLS IN INDIA. / CAITTO LYIT.;
+    lines 15932-16040
+  start: '15932'
+  end: '16040'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The chief rivers of which those people drink, hear them from me duly.
+  summary: The passage names several famous mountains, says that Mlecchas and Aryas
+    are mingled among them according to their divisions, and begins a catalogue of
+    chief rivers from which those people drink. Translator notes identify several
+    named hills and rivers with sacred sites, modern rivers, or parallel Sanskrit
+    textual references.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage enumerates mountains, naming Kuta-saila, Krita-smara, S'ri-parvata,
+    Kora, and other mountains in hundreds.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: It states that people, both Mlecchas and Aryas, are mingled together among
+    those mountains according to their divisions.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An unnamed speaker asks the hearer to listen to the chief rivers from which
+    those people drink.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The named rivers include Ganga, Sarasvati, Sindhu, Candra-bhaga, Yamuna, Sata-dru,
+    Vitasta, Iravati, Kuhu, Go-mati, Dhuta-papa, and Bahuda.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A translator note identifies S'ri-parvata or S'ri-saila as a lofty rock over
+    the Krishna River and as the site of Mallikarjuna, described as one of the twelve
+    great Linga shrines.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Translator notes identify or discuss several river names with modern or historical
+    rivers and with variant references in Sanskrit texts.
+  category: other
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mlecchas and Aryas
+  description: Groups named as the people mingled together according to their divisions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Unnamed speaker
+  description: The voice that says the hearer should listen to the list of chief rivers
+    from the speaker.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: inhabiting or associated peoples
+  assigned_to:
+  - fig:1
+  basis: The passage says the people, both Mlecchas and Aryas, are mingled together
+    among the named mountains.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: enumerating speaker
+  assigned_to:
+  - fig:2
+  basis: The speaker introduces the catalogue of chief rivers with the instruction
+    to hear them from him.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mountains
+  literal_form: Kuta-saila, Krita-smara, S'ri-parvata, Kora, and other mountains
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rivers as drinking waters
+  literal_form: Ganga, Sarasvati, Sindhu, Candra-bhaga, Yamuna, Sata-dru, Vitasta,
+    Iravati, Kuhu, Go-mati, Dhuta-papa, Bahuda
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: S'ri-parvata / S'ri-saila
+  literal_form: A named mountain, identified in the translator note as a lofty rock
+    and shrine site
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: Sarasvati
+  literal_form: A named river discussed in the translator note as the modern Sursooty
+    and as a river that disappeared in desert sands
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Catalogue of famous hills
+  summary: The passage lists named mountains and states that Mlecchas and Aryas are
+    mingled among them according to divisions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Catalogue of chief rivers
+  summary: The speaker introduces and begins listing chief rivers from which the peoples
+    drink.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Catalogue of famous mountains and rivers
+  taxonomy_refs: []
+  basis: The passage is structured as an enumeration of famous hills followed by an
+    enumeration of chief rivers associated with the peoples of India.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a topographical or sacred-geographical catalogue rather than a
+    narrative motif.
+- id: motif:2
+  label: Rivers as sustaining geography for peoples
+  taxonomy_refs: []
+  basis: The rivers are introduced specifically as the chief rivers from which the
+    named peoples drink.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a functional description of rivers as water sources,
+    but does not develop a mythic river narrative in this excerpt.
+- id: motif:3
+  label: Sacred hill as shrine locus
+  taxonomy_refs: []
+  basis: The translator note identifies S'ri-parvata/S'ri-saila as a lofty rock with
+    the Mallikarjuna temple, one of the twelve great Linga shrines, and reports other
+    sacred associations.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The shrine and deity associations come from translator commentary and
+    cited traditions, not from the verse itself.
+comparison_claims:
+- id: claim:1
+  claim: The translator note presents S'ri-parvata/S'ri-saila as a sacred hill name
+    connected across nearby Purāṇic and tīrtha traditions, including a Mallikarjuna
+    Linga shrine, an Agni Purana placement and dedication to Sri by Vishnu, and a
+    Parvati body-fall tirtha listing.
+  claim_level: same_function
+  target: Agni Purana and tirtha-list traditions mentioned in the translator note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This comparison is based on translator commentary within the passage
+    range; the verse itself only names S'ri-parvata among other mountains, and the
+    note reports variant locations.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15932-15936
+  quote_or_summary: The verses name Kuta-saila, Krita-smara, S'ri-parvata, Kora, and
+    other mountains, and say that Mlecchas and Aryas are mingled there according to
+    their divisions.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 15937-15939
+  quote_or_summary: The chief rivers of which those people drink, hear them from me
+    duly.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 15939-16040
+  quote_or_summary: The passage begins a river list including Ganga, Sarasvati, Sindhu,
+    Candra-bhaga, Yamuna, Sata-dru, Vitasta, Iravati, Kuhu, Go-mati, Dhuta-papa, and
+    Bahuda, with notes on several names.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:4
+  type: summary
+  locator: translator note on S'ri-parvata within lines 15932-15967
+  quote_or_summary: The note identifies S'ri-parvata/S'ri-saila as a lofty rock over
+    the Krishna and the site of Mallikarjuna, one of twelve great Linga shrines; it
+    also reports Agni Purana and Parvati body-fall tirtha associations.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation and notes; concise summary used.
+- id: ev:5
+  type: summary
+  locator: translator note on Sarasvati within lines 15945-15976
+  quote_or_summary: The note identifies Sarasvati with the modern Sursooty, describes
+    it as formerly larger and later disappearing in desert sands, and connects it
+    with Brahmavarta, Tri-pishtapa, Brahma-kshetra, and seven Sarasvati rivers.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation and notes; concise summary used.
+- id: ev:6
+  type: summary
+  locator: translator notes on rivers within lines 15977-16040
+  quote_or_summary: The notes identify or discuss Sindhu as the Indus, Candra-bhaga
+    as Chenab with another possible river of that name, Sata-dru as Sutlej, Vitasta
+    as Jhelam, Iravati as Ravi, Kuhu as uncertain, Go-mati with Goomti or Gomal traditions,
+    Dhuta-papa as possibly linked with Go-mati, and Bahuda as a name borne by two
+    rivers.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation and notes; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The main verse is a geographical catalogue with limited narrative action.
+    Several richer sacred associations appear only in translator notes and should
+    be reviewed separately from the canonical passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR in the supplied passage contains irregular spellings and line breaks; names are normalized only where the supplied passage itself makes them clear.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l15932-l16040
+  passage_sha256=ac034eae876cd209c481f78a3a52b60ff0d080220570462cf8735c38ad191d44
+

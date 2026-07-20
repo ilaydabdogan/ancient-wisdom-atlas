@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l4707-l4752
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: Canto XV. / CANTO NV- / PUNISHMENTS FOB VARIOUS SINS. / CANTO XV.; lines
+    4707-4752
+  start: '4707'
+  end: '4752'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage catalogs consequences for taking or stealing particular foods,
+    liquids, meats, metals, vessels, and garments, stating corresponding rebirths
+    as birds, insects, worms, reptiles, and other non-human forms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a sequence of correspondences between taking, stealing,
+    or carrying away specific items and being born as specific non-human beings.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:2
+  text: Taking rice-food mixed with sesamum and oil-cake is associated with birth
+    as a rat; taking clarified butter is associated with birth as an ichneumon.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'Taking or carrying away animal food and salt is associated with bird rebirths:
+    goat’s flesh with “a crow, a diver” in the supplied text, fish-meat with a crow,
+    venison with a hawk, and salt with a water-crow.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Taking curdled milk is associated with birth as a worm, and stealing milk
+    is associated with birth as a hen-heron.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Stealing oil, honey, cake, or pulse is associated respectively with birth
+    as a cockroach, gad-fly, ant, or small house-lizard.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Stealing distilled spirits is associated with birth as a francolin partridge;
+    taking iron with a crow; carrying off brass with a green pigeon; carrying off
+    a silver vessel with a pigeon; and taking a golden vessel with a worm.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Stealing a woven silk garment is associated with becoming a partridge; the
+    supplied passage then begins another result for taking a silk garment but ends
+    with the incomplete word “silk-”.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: sinner or offender who steals or takes goods
+  description: A person described by repeated formulas such as one who takes, steals,
+    or carries away listed items; one line calls the person a sinner.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: listed non-human rebirth forms
+  description: The passage lists rebirth forms including rat, ichneumon, crow, diver,
+    hawk, water-crow, worm, hen-heron, cockroach, gad-fly, ant, small house-lizard,
+    francolin partridge, green pigeon, pigeon, partridge, and an incomplete final
+    “silk-” form.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: taker or thief of specified goods
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes someone taking, stealing, or carrying away
+    foods, liquids, metals, vessels, or garments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: resulting rebirth forms
+  assigned_to:
+  - fig:2
+  basis: Each listed offense is followed by a stated birth as a particular animal,
+    insect, worm, reptile, or bird.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: milk as stolen substance
+  literal_form: Curdled milk and milk appear as stolen or taken items with specified
+    rebirth consequences.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: catalog of stolen goods
+  literal_form: Foods, meats, salt, milk products, oil, honey, pulse, distilled spirits,
+    metals, vessels, and silk garments are listed as items taken or stolen.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: non-human rebirth forms
+  literal_form: Birds, insects, worms, a reptile, a rat, and an ichneumon are used
+    as the stated forms of rebirth.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Catalogue of thefts and rebirth consequences
+  summary: The passage gives a list of sinful acts involving taking or stealing particular
+    goods, and assigns a corresponding non-human birth to each act.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Punitive rebirth for theft of specific goods
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage repeatedly states that taking or stealing named goods results
+    in birth as a named animal, insect, worm, reptile, or bird.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives rebirth consequences but does not narrate an afterlife
+    journey or a death scene.
+- id: motif:2
+  label: Sin-and-punishment catalogue
+  taxonomy_refs:
+  - divine_judgment
+  basis: The locator identifies the canto as concerning punishments for sins, and
+    the passage itself calls one offender a sinner while listing prescribed consequences.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: No deity, judge, tribunal, or explicit act of divine judgment appears
+    in the supplied passage; the motif assignment rests on the moral-punitive framing.
+- id: motif:3
+  label: Object-specific moral correspondence
+  taxonomy_refs: []
+  basis: Distinct stolen objects are paired with distinct rebirth forms, creating
+    a formulaic object-to-consequence pattern.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain why each object corresponds to its particular
+    rebirth form.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Canto XV vv.21-22 within lines 4707-4752
+  quote_or_summary: Taking rice-food mixed with sesamum and oil-cake leads to birth
+    as a rat; clarified butter to an ichneumon; goat’s flesh to “a crow, a diver”
+    in the supplied wording; fish-meat to a crow; venison to a hawk; and salt to a
+    water-crow.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: Canto XV vv.22-25 within lines 4707-4752
+  quote_or_summary: Taking curdled milk leads to birth as a worm; stealing milk to
+    a hen-heron; stealing oil to a cockroach; taking honey to a gad-fly; taking a
+    cake to an ant; and stealing pulse to a small house-lizard.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: Canto XV vv.25-27 within lines 4707-4752
+  quote_or_summary: The passage says the sinner who steals distilled spirits should
+    become a francolin partridge; taking iron leads to birth as a crow, brass to a
+    green pigeon, a silver vessel to a pigeon, and a golden vessel to a worm.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: Canto XV v.27 within lines 4707-4752
+  quote_or_summary: Stealing a woven silk garment leads to becoming a partridge; the
+    supplied passage then begins a statement that taking a silk garment leads to birth
+    as “a silk-”, but the final term is truncated in the provided text.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summarized rather than quoted at length.
+- id: ev:5
+  type: citation
+  locator: Passage label and Canto XV within lines 4707-4752
+  quote_or_summary: The passage locator labels the section as “Punishments for various
+    sins”; within the passage, a line refers to the offender as “the sinner.”
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; brief citation/summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based only on the supplied passage. Motif candidates are
+    straightforward for punitive rebirth, but the divine-judgment taxonomy is only
+    cautiously applied because no divine judge is named. No external comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Footnotes in the supplied passage provide ornithological identifications for some bird terms, but no additional motif claims were derived from them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l4707-l4752
+  passage_sha256=f9fd76e48586918b50a37fb913cc9dd3c5e6cd9088adb55e8c89e510fa8424fa
+

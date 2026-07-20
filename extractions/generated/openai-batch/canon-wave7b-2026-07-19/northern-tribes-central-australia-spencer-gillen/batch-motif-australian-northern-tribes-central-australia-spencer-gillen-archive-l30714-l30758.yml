@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l30714-l30758
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: FIG. 221. SPEAK-THROWER, / DURING A CEREMONY. / NORTHERN TRIBES. TRIBE. TRIBE.
+    / ANULA TRIBE.; lines 30714-30758
+  start: '30714'
+  end: '30758'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the construction of an Anula bark canoe, including
+    mangrove wood reinforcement, rope ties, internal sticks, extra bark flooring,
+    and bilge-water management. It states that the canoe was made and owned by Anula
+    men, had been brought from the Pellew Islands up the Macarthur River, and that
+    boats of this size can carry six or eight people across open sea while some paddle
+    and others bail water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A thin long branch of mangrove wood is tied along the bark of the canoe, not
+    reaching either end.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nine rope ties pass from side to side to prevent the canoe sides from collapsing
+    outward, with two ties pinching in the bow and stern ends.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The rope is made from inner fibrous tree bark or shredded Screw pine leaves
+    and usually has two plies, sometimes three.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: 'Three stout sticks at each tie level prevent the canoe sides from collapsing
+    inward: one horizontal stick and two slanting sticks.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Extra bark pieces are laid along the canoe bottom for strength and to provide
+    a dry floor above bilge water.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The particular canoe described belonged to and was made by men of the Anula
+    tribe.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The canoe had been brought from the Pellew Islands and up the Macarthur River
+    for fifty miles.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: There is a considerable stretch of open sea between the Pellew Islands and
+    the mainland, though partly sheltered by islands.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: In a boat of this size, six or eight people can cross, with some paddling
+    and others bailing water that leaks in or splashes over.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: men of the Anula tribe
+  description: The men to whom the described canoe belonged and who had made it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: six or eight natives in a boat of this size
+  description: A group described as able to cross open sea in such a canoe, with some
+    paddling and others bailing water.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: canoe makers and owners
+  assigned_to:
+  - fig:1
+  basis: The passage states that the particular canoe belonged to and had been made
+    by men of the Anula tribe.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: canoe crew
+  assigned_to:
+  - fig:2
+  basis: The passage describes six or eight people crossing in such a boat, with some
+    paddling and others bailing water.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bark canoe
+  literal_form: A bark canoe strengthened with mangrove wood, rope ties, internal
+    sticks, and extra bark flooring.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: rope ties
+  literal_form: Nine side-to-side ties made from fibrous bark or shredded Screw pine
+    leaves.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: open sea crossing
+  literal_form: The stretch of open sea between the Pellew Islands and the mainland
+    crossed by canoe.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: paddle
+  literal_form: Canoe paddle mentioned in the figure caption and implied by the action
+    of paddling.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Construction of the Anula bark canoe
+  summary: The passage details how the canoe is reinforced with a mangrove branch,
+    rope ties, stout sticks, and extra bark flooring to prevent collapse and manage
+    bilge water.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Canoe ownership, route, and sea use
+  summary: The described canoe is identified as made and owned by Anula men, recently
+    brought from the Pellew Islands up the Macarthur River, and comparable boats are
+    described as carrying six or eight people across open sea while paddling and bailing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: crafted canoe for water crossing
+  taxonomy_refs: []
+  basis: The passage emphasizes canoe construction and its use for crossing open sea
+    between islands and mainland.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic description of technology and travel, not a mythic
+    narrative; no specific mythological taxonomy reference is directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30714-30726
+  quote_or_summary: The canoe has a long mangrove branch tied to the bark, nine side-to-side
+    rope ties, and rope made from fibrous bark or shredded Screw pine leaves, usually
+    with two plies and sometimes three.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 30727-30741
+  quote_or_summary: Stout sticks are arranged at each tie level to prevent inward
+    collapse, and extra bark is laid on the bottom to add strength and create a dry
+    floor above bilge water.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 30742-30750
+  quote_or_summary: The canoe described belonged to and had been made by men of the
+    Anula tribe, and had just been brought from the Pellew Islands and up the Macarthur
+    River for fifty miles.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 30751-30758
+  quote_or_summary: Although partly sheltered by islands, the route includes open
+    sea; in such a boat six or eight people cross, some paddling and others bailing
+    water.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is a practical ethnographic description of canoe construction and
+    travel rather than a mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a comparison beyond the local description of canoe construction and use.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l30714-l30758
+  passage_sha256=deca4c9fa80423eb8253317b383b9062ebb24227dd5271afa3cd33686a90987a
+

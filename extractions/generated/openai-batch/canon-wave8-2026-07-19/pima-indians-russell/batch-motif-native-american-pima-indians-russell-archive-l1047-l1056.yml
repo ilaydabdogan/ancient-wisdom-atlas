@@ -1,0 +1,201 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l1047-l1056
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: The Pima Indians / INTRODUCTION / HISTORY / VILLAGES; lines 1047-1056
+  start: '1047'
+  end: '1056'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: no effective efforts were made to prevent the water from being diverted from
+    the reservation
+  summary: The passage says water diversion from the reservation was not effectively
+    prevented. It describes the Pima as a peaceful, industrious, long-resident people
+    who aided emigrants and troops, were deprived of rights, and suffered starvation,
+    despair, and dissipation without being overwhelmed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: No effective efforts were made to prevent water from being diverted from the
+    reservation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The result of the water diversion is described as nearly as predicted and
+    as morally shameful by the author.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The people are described as thrifty, industrious, peaceful, and in effect
+    a friendly nation.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people are said to have rendered succor and assistance to emigrants and
+    troops for many years.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The people are described as deprived of rights inhering from centuries of
+    residence.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Starvation, despair, and dissipation resulted, but the passage says these
+    did not overwhelm the tribe.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Pima people / the tribe
+  description: A thrifty, industrious, peaceful people described as a friendly nation,
+    long resident, deprived of rights, and not overwhelmed by starvation, despair,
+    and dissipation.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: emigrants and troops
+  description: Groups said to have received succor and assistance from the Pima people
+    for many years.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: long-resident deprived community
+  assigned_to:
+  - fig:1
+  basis: The passage says the people were deprived of rights inhering from centuries
+    of residence.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: providers of aid
+  assigned_to:
+  - fig:1
+  basis: The passage says they rendered succor and assistance to emigrants and troops
+    for many years.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipients of aid
+  assigned_to:
+  - fig:2
+  basis: The passage identifies emigrants and troops as those receiving succor and
+    assistance.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: suffering survivors
+  assigned_to:
+  - fig:1
+  basis: The passage says starvation, despair, and dissipation resulted but did not
+    overwhelm the tribe.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water diverted from the reservation
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Water diversion from the reservation
+  summary: Water is diverted from the reservation, and no effective efforts are made
+    to prevent it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Aid-giving tribe deprived and afflicted
+  summary: The Pima are described as a peaceful and friendly people who aided emigrants
+    and troops, yet were deprived of long-standing rights and suffered starvation,
+    despair, and dissipation without being overwhelmed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: loss of water and communal affliction
+  taxonomy_refs: []
+  basis: The passage links unprevented water diversion from the reservation with resulting
+    starvation, despair, and dissipation among the tribe.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: This is a historical and ethnographic passage rather than an explicit
+    myth narrative; the motif label is a descriptive social pattern, not a taxonomy
+    assignment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1048-1051
+  quote_or_summary: "“no effective efforts were made to prevent the water from being
+    diverted from the reservation”; the result is described as nearly as predicted
+    and shameful."
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1051-1054
+  quote_or_summary: The passage characterizes the people as thrifty, industrious,
+    peaceful, and effectively a friendly nation that aided emigrants and troops for
+    many years.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 1054-1056
+  quote_or_summary: The people were “deprived of the rights inhering from centuries
+    of residence”; starvation, despair, and dissipation resulted but did not overwhelm
+    the tribe.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; short quotation and summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal historical details are explicit. Motif extraction is cautious because
+    the passage is not a mythic narrative. No comparison claims were extracted because
+    the passage itself makes none.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l1047-l1056
+  passage_sha256=3ed6427c8c84532db17e1d7fd579a18a76c427ea54009fec988c887b3c3729e4
+

@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2057-l2076
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: DIONYSUS. / PENTHEUS. / DIONYSUS. / PENTHEUS.; lines 2057-2076
+  start: '2057'
+  end: '2076'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“To trap them--so they trap not thee!”"
+  summary: Dionysus tells Pentheus he is going to see and trap an unnamed group, while
+    warning of reciprocal entrapment. Pentheus calls for movement through the Theban
+    town and asserts his kingship and manhood. Dionysus says Pentheus alone will bear
+    a burden, that a trial awaits him, that he will come with Dionysus into his own
+    ambush unharmed, and that another will bear him home. Pentheus names the queen
+    as his mother.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus says Pentheus is going to see and trap an unnamed group, and warns
+    that the group might trap Pentheus instead.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pentheus speaks of going forth through the Thebans' town.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pentheus says he is the Thebans' king and their one man because he dares the
+    action.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dionysus says Pentheus alone will bear their burden and that a trial awaits
+    him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dionysus says Pentheus will come with him into Pentheus's ambush unscathed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Dionysus says another should bear Pentheus home.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Pentheus identifies the queen as his mother.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Named speaker who warns Pentheus about trapping and says Pentheus will
+    go with him into the ambush.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Pentheus
+  description: Named speaker addressed by Dionysus; he asserts that he is king and
+    one man, is told a trial awaits him, and names the queen as his mother.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Thebans
+  description: Collective associated with the town through which Pentheus says he
+    will go and over whom he claims kingship.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed “them/they”
+  description: Unspecified group whom Dionysus says Pentheus goes to see and trap,
+    and who may trap Pentheus.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: The Queen, Pentheus's mother
+  description: Figure identified by Pentheus as both queen and mother after Dionysus
+    mentions another bearing him home.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: dialogue speaker
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both Dionysus and Pentheus have named speech turns in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: self-declared king and one man
+  assigned_to:
+  - fig:2
+  basis: Pentheus says, “I am their king” and “their one Man.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: warning speaker
+  assigned_to:
+  - fig:1
+  basis: Dionysus warns Pentheus about trapping and being trapped.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: solitary bearer of burden and trial-subject
+  assigned_to:
+  - fig:2
+  basis: Dionysus says Pentheus will bear the burden alone and that his trial awaits
+    him.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: companion into the ambush
+  assigned_to:
+  - fig:1
+  basis: Dionysus says Pentheus will come “with me” into the ambush.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: one entering his ambush
+  assigned_to:
+  - fig:2
+  basis: Dionysus refers to “thine ambush” and says Pentheus will come into it unscathed.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: town collective and claimed subjects
+  assigned_to:
+  - fig:3
+  basis: Pentheus refers to the Thebans' town and calls himself “their king.”
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: intended quarry and possible trappers
+  assigned_to:
+  - fig:4
+  basis: Dionysus says Pentheus goes to trap “them” so that “they” do not trap him.
+  evidence_refs:
+  - ev:1
+- id: role:9
+  label: queen
+  assigned_to:
+  - fig:5
+  basis: Pentheus names her as “The Queen.”
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: mother of Pentheus
+  assigned_to:
+  - fig:5
+  basis: Pentheus calls the queen “my mother.”
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: trap and ambush
+  literal_form: "“trap”; “thine ambush”"
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: burden and trial
+  literal_form: "“bear their burden”; “thy trial”"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: being borne home
+  literal_form: "“bear thee home”"
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Warning of trap reversal
+  summary: Dionysus says Pentheus is going to see and trap an unnamed group, and frames
+    a risk that the group may trap Pentheus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pentheus asserts royal courage
+  summary: Pentheus calls for going through the Theban town and declares that he is
+    their king and their one man because he dares the action.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Solitary trial and ambush
+  summary: Dionysus says Pentheus alone will bear the burden, that his trial awaits,
+    and that Pentheus will come with him into his own ambush unharmed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Mother named after home-bearing reference
+  summary: After Dionysus says another will bear Pentheus home, Pentheus answers by
+    naming the queen as his mother.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: trapper threatened with being trapped
+  taxonomy_refs: []
+  basis: Dionysus describes Pentheus going to trap an unnamed group and immediately
+    warns that they may trap him.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The identity of “them/they” is not established within this passage.
+- id: motif:2
+  label: solitary ordeal or trial
+  taxonomy_refs:
+  - initiation
+  basis: Dionysus says Pentheus alone will bear the burden and that his trial awaits
+    him.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage uses the language of trial, but it does not by itself describe
+    a full initiation sequence or outcome.
+- id: motif:3
+  label: royal self-assertion before danger
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Pentheus publicly frames the action through his identity as king and as the
+    sole man who dares it.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage contains self-assertion of kingship but does not state a legitimacy
+    dispute or formal enthronement pattern.
+- id: motif:4
+  label: guided entry into ambush and return by another
+  taxonomy_refs:
+  - departure
+  - return
+  basis: Dionysus says Pentheus will come with him into the ambush unscathed and that
+    another will bear him home.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The exact nature of the home-bearing and the identity of the bearer are
+    only locally suggested by the dialogue.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2057-2060
+  quote_or_summary: 'Dionysus: “what thou goest to see, / Aye, and to trap them--so
+    they trap not thee!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2062-2065
+  quote_or_summary: 'Pentheus: “Forth through the Thebans'' town! I am their king,
+    / Aye, their one Man, seeing I dare this thing!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2067-2070
+  quote_or_summary: Dionysus says Pentheus will “bear their burden” alone and that
+    his “trial awaiteth” him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 2071-2072
+  quote_or_summary: 'Dionysus: “With me into thine ambush shalt thou come / Unscathed;
+    then let another bear thee home!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 2074-2076
+  quote_or_summary: 'Pentheus: “The Queen, my mother.”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and speaker attributions are clear. Motif identifications
+    are limited by ambiguous pronouns and by the absence of surrounding plot context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the scene to another text, tradition, or motif family beyond local motif candidates.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2057-l2076
+  passage_sha256=dd98c8b18089e36f6f4e5dffd248f77e15d05abc074b53b8bd51734c3292c383
+

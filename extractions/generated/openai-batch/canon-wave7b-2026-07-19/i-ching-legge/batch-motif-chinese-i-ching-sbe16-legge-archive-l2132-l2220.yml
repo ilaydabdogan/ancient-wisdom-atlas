@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l2132-l2220
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: CHAPTER II. / CH. I. INTRODUCTION. 19 / CH. II, INTRODUCTION. 21 / CH. III.
+    INTRODUCTION. 29; lines 2132-2220
+  start: '2132'
+  end: '2220'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“In the Yi there are four things characteristic of the way of the sages.”"
+  summary: The passage argues from internal evidence that Confucius was not the compiler
+    or author of the third and fourth Appendixes to the Yi. It discusses repeated
+    uses of the formula “The Master said,” quotes a passage about four sage-related
+    uses of the Yi, and reviews explanations by later Chinese commentators concerning
+    older materials and quotations attributed to Confucius.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the formula “The Master said” occurs at least twenty-three
+    times in the third Appendix.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'A quoted paragraph says that the Yi has four things characteristic of the
+    way of the sages: explanations, changes, emblematic figures, and prognostications.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The four named things are associated respectively with guidance in speaking,
+    initiation of movements, definite action such as constructing implements, and
+    divination practice.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The writer argues that the compiler or compilers of the Appendix were distinct
+    from “the Master” whose words they quoted.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the fourth Appendix also uses the quotation formula “The
+    Master said,” six times in its first section of thirty-six paragraphs.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The first three paragraphs of the fourth Appendix are described as older than
+    its compilation and as drawn from a narrative of the Kwan, spoken by a marchioness-dowager
+    of Lu before Confucius was born.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The writer concludes that Confucius had nothing to do with composing the third
+    and fourth Appendixes and that they were put together after his death.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Confucius / the Master
+  description: A sage whose words are quoted with the formula “The Master said,” and
+    whose authorship of the Appendixes is questioned by the writer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: compiler or compilers of the Appendix
+  description: Persons inferred by the writer to be distinct from the Master whose
+    words they quoted.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: writer / Legge
+  description: The passage’s speaking critic, who evaluates internal evidence and
+    rejects Confucian authorship of the third and fourth Appendixes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: XQ Hsi / AQ Hsi
+  description: A later commentator cited as attempting to explain the presence of
+    “The Master said” and the older paragraphs in the Appendixes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:5
+  name_or_label: marchioness-dowager of Lu
+  description: A woman said to have spoken material later found in the first three
+    paragraphs of the fourth Appendix, before Confucius was born.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: king Wan
+  description: A ruler said to have employed four adjectives to give the significance
+    of the first hexagram.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Chinese critics and commentators
+  description: A group whose nearly unanimous opinion is said to differ from the writer’s
+    conclusion about Confucian authorship.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: quoted sage
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly discusses words introduced by the formula “The Master
+    said.”
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: disputed author
+  assigned_to:
+  - fig:1
+  basis: The writer concludes that Confucius could not be the author of the third
+    and fourth Appendixes.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: compiler distinct from quoted authority
+  assigned_to:
+  - fig:2
+  basis: The writer says the compiler or compilers were distinct from the Master whose
+    words they quoted.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: textual critic
+  assigned_to:
+  - fig:3
+  basis: The writer examines internal evidence and states a conclusion against Confucian
+    authorship.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: commentator or critic
+  assigned_to:
+  - fig:4
+  - fig:7
+  basis: The passage cites explanations by Hsi and refers to Chinese critics and commentators
+    on the authorship question.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: role:6
+  label: earlier speaker of transmitted material
+  assigned_to:
+  - fig:5
+  basis: The passage says the first three paragraphs were spoken by a marchioness-dowager
+    before Confucius was born.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: royal interpreter of hexagram significance
+  assigned_to:
+  - fig:6
+  basis: The passage says king Wan used four adjectives to give the significance of
+    the first hexagram.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: The Yi characterized as a sage’s guide
+  summary: 'A quoted passage presents four functions of the Yi: guiding speech, initiating
+    movement, supporting definite action through emblematic figures, and providing
+    prognostications for divination.'
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Authorship argument from quotation formula
+  summary: The writer treats repeated use of “The Master said” as evidence that the
+    Appendixes quote Confucius rather than being composed by him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:3
+  label: Older material in the fourth Appendix
+  summary: The passage states that some material in the fourth Appendix predates its
+    compilation and is traced to a marchioness-dowager of Lu, while a later commentator
+    tries to explain its transmission and attribution.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Wisdom text as guide for speech, action, and divination
+  taxonomy_refs:
+  - wisdom
+  basis: The quoted material explicitly describes the Yi as containing four things
+    characteristic of the way of the sages and assigns them practical functions in
+    speech, movement, action, and divination.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a doctrinal and textual-critical passage rather than a mythic
+    narrative; the motif identification is limited to the passage’s explicit characterization
+    of sage wisdom.
+- id: motif:2
+  label: Authority transmitted through quoted sage-speech
+  taxonomy_refs:
+  - wisdom
+  basis: The passage repeatedly focuses on the formula “The Master said” and treats
+    quoted sage-speech as authoritative material used by later compilers.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a textual-transmission pattern, not a narrative mythological
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2132-2151
+  quote_or_summary: The writer discusses the formula “The Master said,” noting that
+    it occurs in the third Appendix at least twenty-three times and citing Hsi’s explanation
+    that such occurrences may be later additions to the Master’s text.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2152-2160
+  quote_or_summary: "“In the Yi there are four things characteristic of the way of
+    the sages”: explanations guide speech, changes initiate movements, emblematic
+    figures support definite action such as making implements, and prognostications
+    support divination practice."
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:3
+  type: summary
+  locator: lines 2161-2170
+  quote_or_summary: After the quoted material, the chapter ends with “The Master said,”
+    and the writer argues that this shows the compilers were distinct from the Master
+    whose words they quoted.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2171-2176
+  quote_or_summary: The fourth Appendix is said to contain the same quotation formula,
+    with “The Master said” appearing six times in the thirty-six paragraphs of its
+    first section.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2177-2198
+  quote_or_summary: The first three paragraphs of the fourth Appendix are described
+    as older than its compilation and drawn from a narrative of the Kwan, spoken by
+    a marchioness-dowager of Lu before Confucius was born; Hsi explains them by reference
+    to ancient explanations, king Wan’s adjectives for the first hexagram, and later
+    use by Confucius and a chronicler.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2199-2212
+  quote_or_summary: The writer says the legitimate conclusion is that only material
+    preceded by “The Master said” is from Confucius, and concludes that Confucius
+    had nothing to do with composing the third and fourth Appendixes, which were put
+    together after his death.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2213-2220
+  quote_or_summary: The writer states reluctance to differ from the nearly unanimous
+    view of Chinese critics and commentators but says the argument for that opinion
+    has no weight; the conclusion weakens confidence in ascribing the “ten wings”
+    to Confucius.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily textual criticism. Literal extraction is straightforward,
+    but motif candidates are limited to explicit wisdom and sage-speech patterns rather
+    than narrative mythology. No comparison claims are made because the passage does
+    not itself support cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol is directly present in the passage. Names appear with OCR or transcription irregularities in the supplied text and are preserved cautiously where needed.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l2132-l2220
+  passage_sha256=dab3a5a7dd7e3d186f8b6261f5d1ea6bd25be6ed84faa5b5799623dd2e94316a
+

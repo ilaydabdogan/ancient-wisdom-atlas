@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.buddhist-sutta-nipata-sbe10-fausboll-archive-l256-l270
+source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+passage_locator:
+  label: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II) / PREFACE /
+    TO NEW EDITION. / NEW EDITION. XI; lines 256-270
+  start: '256'
+  end: '270'
+  translation: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“I have conquered all, I know all...”"
+  summary: The preface says native commentary and interpreters are essential for critical
+    study of ancient texts, then cites a verse in which a speaker says he has conquered
+    all, knows all, is free from taint, has left all, and is free through the destruction
+    of thirst. The passage then notes a lexical point about Pali uddis.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that native commentary can be very helpful for studying
+    ancient texts.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage names Sayaza and Buddhaghosa as examples of native interpreters.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says scholars formerly despised native interpreters but are now
+    agreed that such help is necessary for critical study.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A quoted verse presents a speaker who says he has conquered all and knows
+    all.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The quoted speaker says he is free from taint in all conditions of life.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The quoted speaker says he has left all and is free through the destruction
+    of thirst.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The quoted speaker asks whom he should teach after having learnt himself.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The passage explains that Pali uddis means pointing toward a person or thing,
+    not teaching.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: scholars
+  description: Scholars who formerly despised native interpreters and later agreed
+    on their necessity for critical study.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: native interpreters
+  description: Interpreters named as Sayaza or Buddhaghosa, whose help is described
+    as necessary for critical study of ancient texts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sayaza
+  description: Named as an example of a native interpreter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Buddhaghosa
+  description: Named as an example of a native interpreter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: speaker of verse 353
+  description: A quoted speaker who says he has conquered all, knows all, is free
+    from taint, has left all, is free through destruction of thirst, and has learnt
+    himself.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: critical readers of ancient texts
+  assigned_to:
+  - fig:1
+  basis: The passage describes scholars evaluating the usefulness of native interpreters
+    for critical study.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: native interpreter or commentator
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage identifies native interpreters such as Sayaza or Buddhaghosa
+    and says their help is necessary.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: self-declared liberated knower
+  assigned_to:
+  - fig:5
+  basis: The verse speaker says he has conquered all, knows all, is free from taint,
+    has left all, and is free through destruction of thirst.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: thirst
+  literal_form: thirst
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: taint
+  literal_form: taint
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Scholarly appeal to native commentary
+  summary: The preface argues that native commentary and native interpreters are indispensable
+    for critical study of ancient texts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Quoted verse of conquest, knowledge, and freedom
+  summary: A verse is quoted in which a speaker claims conquest, knowledge, freedom
+    from taint, abandonment of all, freedom through destruction of thirst, and self-learning.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Lexical clarification of uddis
+  summary: The preface clarifies that Pali uddis means pointing toward a person or
+    thing rather than teaching.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: self-attained knowledge and liberation
+  taxonomy_refs:
+  - wisdom
+  basis: The quoted speaker says he knows all, has learnt himself, is free from taint,
+    and is free through destruction of thirst.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a prefatory philological discussion and quotes only a short
+    verse excerpt; motif assignment is limited to the quoted claims.
+- id: motif:2
+  label: renunciation and freedom from impurity
+  taxonomy_refs: []
+  basis: The quoted speaker says he has left all and is free from taint in all conditions
+    of life.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No broader narrative context is provided in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 256-261
+  quote_or_summary: Native commentary is described as helpful, and scholars are said
+    to agree that native interpreters such as Sayaza or Buddhaghosa are necessary
+    for critical study of ancient texts.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: quote
+  locator: lines 262-268
+  quote_or_summary: "“I have conquered all, I know all... I have left all, and through
+    the destruction of thirst I am free; having learnt myself, whom should I teach?”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; brief excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 269-270
+  quote_or_summary: The passage states that Pali uddis is not used in the sense of
+    teaching, but means pointing toward a person or a thing.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is prefatory and philological rather than a narrative myth passage.
+    No comparison claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or taxonomy items beyond the supplied metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-sutta-nipata-sbe10-fausboll-archive__l256-l270
+  passage_sha256=afcbfcb06a7fa48d45d25a4584ad729c2e1a0353554789fc970a4e8fd6f3d65e
+

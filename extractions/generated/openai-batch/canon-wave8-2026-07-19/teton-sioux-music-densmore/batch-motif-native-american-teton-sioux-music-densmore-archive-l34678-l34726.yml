@@ -1,0 +1,415 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l34678-l34726
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: METRIC  UNIT  OF  VOICE  (TEMPO) / METRIC  UNIT  OF  DRUM  (TEMPO) / COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM
+    / SONGS  CONNECTED  WITH  DANCES  AND  GAMES; lines 34678-34726
+  start: '34678'
+  end: '34726'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists a comparison of voice and drum metric units for numbered
+    songs. It then describes Sioux village dance lodges, including an older lodge
+    type and a 1912 Standing Rock Reservation lodge later torn down amid Government
+    restrictions on dancing. A reported statement says dancers imitate animals in
+    dances, with examples from the grass dance and buffalo dance; dress, charms, and
+    headdresses can imitate or indicate animals and the wearer’s personality, and
+    dance actions correspond to costume.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A table classifies numbered songs by whether voice and drum have the same
+    metric unit, whether the drum is slower than the voice, or whether the drum was
+    not recorded.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Every Sioux village is described as having a lodge of suitable size for social
+    gatherings or dances.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An old type of Sioux dance lodge is described as having log walls, a roof
+    of branches covered with earth, and a large smoke-hole in the center.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The writer witnessed a dance in a Standing Rock Reservation lodge in 1912
+    and later learned that the lodge had been torn down while Government restrictions
+    on dancing were being more vigorously enforced.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Standing Rock lodge is described as built of logs, branches, and earth,
+    rectangular in shape, with plastered logs, an almost flat roof, projecting stovepipes,
+    and stove heating instead of an open fire.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A reported statement says that in dancing, Indians imitate the actions of
+    animals; in the grass dance men imitate the motions of the eagle and graceful
+    birds, and in the buffalo dance they imitate the buffalo.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The old-time dancing dress is said to imitate animals, while a charm or headdress
+    indicates the personality of the wearer.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Dancers are said to imitate the cries of birds or animals; some headdresses
+    imitate a bird comb, and a dancer’s actions correspond to his costume.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage states that the choice of dancer action and costume is usually
+    not connected with a dream.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sioux village communities
+  description: Communities described as having lodges for social gatherings or dances.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the writer
+  description: The writer witnessed a dance in a Standing Rock Reservation lodge in
+    1912 and later learned the lodge had been torn down.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Government
+  description: The Government is described as enforcing restrictions on dancing more
+    vigorously.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: dancers
+  description: Dancers are described as imitating animal actions and cries and matching
+    actions to costume.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: men in the grass dance
+  description: Men in the grass dance are described as imitating motions of the eagle
+    and graceful birds.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: animals imitated in dance
+  description: Animals named or grouped as models for imitation include the eagle,
+    graceful birds, buffalo, birds, and animals generally.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: lodge-using village community
+  assigned_to:
+  - fig:1
+  basis: Every Sioux village is said to have a lodge for social gatherings or dances.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: dance observer
+  assigned_to:
+  - fig:2
+  basis: The writer states that she witnessed a dance in the Standing Rock lodge in
+    1912.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: enforcing authority
+  assigned_to:
+  - fig:3
+  basis: The Government is said to have enforced restrictions on dancing more vigorously.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: animal-imitating dance performer
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Dancers are described as imitating animal actions, cries, and motions.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: imitated animal model
+  assigned_to:
+  - fig:6
+  basis: Animal motions, actions, cries, and forms are described as models for dance,
+    dress, and headdress imitation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: dance lodge
+  literal_form: A lodge used for social gatherings or dances in Sioux villages.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: central smoke-hole
+  literal_form: A large smoke-hole left in the center of the older dance lodge roof.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: logs, branches, and earth lodge construction
+  literal_form: Log walls or logs, branches, and earth used in the old dance lodge
+    type and the Standing Rock lodge.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: open fire and stove heating
+  literal_form: The Standing Rock lodge was heated by stoves instead of an open fire.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: animal-imitating dress and headdress
+  literal_form: Old-time dancing dress imitated animals; charms or headdresses indicated
+    the wearer’s personality; some headdresses imitated a bird comb.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: animal actions and cries
+  literal_form: Dancers imitate the actions, motions, and cries of birds or animals.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: voice and drum metric-unit comparison
+  summary: The passage categorizes song serial numbers according to whether voice
+    and drum share the same metric unit, whether the drum is slower, or whether drum
+    data are not recorded.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sioux village dance lodge setting
+  summary: Sioux villages are described as having lodges for dances and social gatherings;
+    an older lodge type is described in terms of logs, branches, earth covering, and
+    a central smoke-hole.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Standing Rock lodge and dance restriction
+  summary: The writer witnessed a 1912 dance in a Standing Rock lodge, later learned
+    it had been torn down, and describes its construction and stove heating during
+    a period of more vigorous Government restriction on dancing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: animal imitation in dance and costume
+  summary: A reported explanation of dancing says that dancers imitate animals through
+    motions, cries, dress, charms, and headdresses, with dancer actions corresponding
+    to costume.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: voice-drum tempo relation
+  taxonomy_refs: []
+  basis: The passage explicitly groups songs by metric-unit relation between voice
+    and drum.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a descriptive musicological pattern, not a mythic narrative motif.
+- id: motif:2
+  label: communal dance lodge as performance setting
+  taxonomy_refs: []
+  basis: The passage describes village lodges built for social gatherings and dances
+    and gives details of old and later lodge forms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage provides architectural and social-setting details but does
+    not attach a mythic origin or cosmological interpretation.
+- id: motif:3
+  label: animal-imitative dance
+  taxonomy_refs: []
+  basis: The passage says dancers imitate animals, including eagle-like birds in the
+    grass dance and buffalo in the buffalo dance, and imitate animal cries.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The evidence supports imitation in performance, not literal transformation
+    or a shapeshifter motif.
+- id: motif:4
+  label: costume and headdress indicating performer identity
+  taxonomy_refs: []
+  basis: The passage states that dress imitates animals, that charms or headdresses
+    indicate the wearer’s personality, and that actions correspond to costume.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage also states this choice usually is not connected with a dream,
+    so no dream-vision or initiation pattern is inferred.
+comparison_claims:
+- id: claim:1
+  claim: The Standing Rock lodge observed in 1912 is presented as functionally comparable
+    to the older Sioux dance lodge type because both are dance or social lodges using
+    logs, branches, and earth; the passage also marks differences in shape, plastering,
+    roof form, stovepipes, and stove heating.
+  claim_level: same_function
+  target: older Sioux dance lodge type and Standing Rock Reservation dance lodge
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: high
+  limitations: This is an internal ethnographic comparison within the passage, not
+    a cross-cultural motif claim.
+- id: claim:2
+  claim: The grass dance and buffalo dance are both described under a shared pattern
+    of animal imitation in dance performance.
+  claim_level: same_motif
+  target: grass dance and buffalo dance animal-imitation pattern
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to examples named in the passage and does
+    not establish historical relationship beyond the passage’s own description.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 34678-34692
+  quote_or_summary: The passage table compares metric units of voice and drum and
+    lists song serial numbers for same metric unit, drum slower than voice, and drum
+    not recorded.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain.
+- id: ev:2
+  type: summary
+  locator: 34694-34703
+  quote_or_summary: The passage introduces songs connected with dances and games,
+    says every Sioux village had a lodge for social gatherings or dances, and describes
+    an older dance lodge with log walls, branch-and-earth roof, and central smoke-hole.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain.
+- id: ev:3
+  type: summary
+  locator: 34704-34713
+  quote_or_summary: The writer witnessed a 1912 dance at a Standing Rock Reservation
+    lodge; the next summer she learned it had been torn down as Government restrictions
+    on dancing were enforced more vigorously. The lodge used logs, branches, earth,
+    a rectangular form, plastered logs, an almost flat roof, projecting stovepipes,
+    and stove heat instead of open fire.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain.
+- id: ev:4
+  type: summary
+  locator: 34715-34719
+  quote_or_summary: A reported statement says Indians imitate animal actions in dancing;
+    grass dance men imitate eagles and graceful birds, while buffalo dance performers
+    imitate buffalo.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain.
+- id: ev:5
+  type: summary
+  locator: 34719-34726
+  quote_or_summary: The passage says old-time dancing dress imitated animals; charms
+    or headdresses indicated the wearer’s personality; dancers imitated bird or animal
+    cries; some headdresses imitated a bird comb; dancer actions corresponded to costume;
+    and this was usually not connected with a dream.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif candidates are mostly ethnographic
+    performance and architectural patterns rather than mythic narrative motifs. No
+    motif-family taxonomy reference is assigned; the available symbol taxonomy ref
+    'fire' is used only for the literal open-fire mention.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All interpretations are limited to the provided passage. The animal-imitation evidence is not treated as shapeshifting, dream initiation, or another unsupported taxonomy motif.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l34678-l34726
+  passage_sha256=91027d812fc36b70002c882f0f6d5efd07c83780e6737393d4140f8a3d51baf0
+

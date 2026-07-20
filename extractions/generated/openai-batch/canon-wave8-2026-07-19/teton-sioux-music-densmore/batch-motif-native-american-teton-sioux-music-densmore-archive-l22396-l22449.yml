@@ -1,0 +1,201 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l22396-l22449
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: ELK   SOCIETY / TETOK   SIOUX  MUSIC / HORSE   SOCIETY / BITKEAIT   OF   AMERICAN   ETHNOLOGY;
+    lines 22396-22449
+  start: '22396'
+  end: '22449'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Brave Buffalo's recording of songs, the care taken
+    in transcribing one melody from a phonograph record, brief musical analysis of
+    its intervals, and Song No. 109, titled “When a Horse Neighs,” whose glossed words
+    refer to daybreak and a horse neighing.
+  language: English with Teton/Lakota song text and English glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Brave Buffalo recorded nine songs, and the first song was recorded reluctantly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The writer reports comparing the transcription with the phonograph record
+    many times at long intervals.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The writer states that the aim was to determine what the singer sang, not
+    to adapt the song to a white musician's standards of time or key.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The melody is described as peculiar, with a high proportion of major-second
+    intervals and only two intervals larger than a minor third.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Song No. 109 is titled “When a Horse Neighs” and is attributed as sung by
+    Brave Buffalo.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The glossed song words include daybreak, a temporal marker translated as “when,”
+    a horse, and the action “neighs.”
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Brave Buffalo
+  description: Named singer who recorded nine songs and sang Song No. 109.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed writer/transcriber
+  description: The writer who evaluated the transcription against the phonograph record
+    and commented on the transcription method.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: horse
+  description: Animal named in the song title and gloss; the gloss states that the
+    horse neighs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: singer and recorded performer
+  assigned_to:
+  - fig:1
+  basis: The passage says the song was sung by Brave Buffalo and that he recorded
+    nine songs.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: transcription commentator
+  assigned_to:
+  - fig:2
+  basis: The passage gives the writer's opinion on the transcription and its comparison
+    with the phonograph record.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: animal subject of the song image
+  assigned_to:
+  - fig:3
+  basis: The title and gloss identify a horse and the action of neighing.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: neighing horse
+  literal_form: a horse neighs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: daybreak
+  literal_form: daybreak
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: recording and transcription context
+  summary: Brave Buffalo records songs; the writer compares the transcription of the
+    first song repeatedly with the phonograph record and comments on the fidelity
+    of the transcription.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: song image of daybreak and horse neighing
+  summary: The titled and glossed song presents an image of daybreak, when a horse
+    neighs.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: animal sound at daybreak
+  taxonomy_refs: []
+  basis: The title and gloss of Song No. 109 connect daybreak with the sound/action
+    of a horse neighing.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage gives only a short song title and gloss; it does not state
+    a narrative function, ritual meaning, or broader mythological interpretation for
+    the image.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22396-22410
+  quote_or_summary: Brave Buffalo recorded nine songs; the first was recorded reluctantly;
+    the transcription was compared repeatedly with the phonograph record, and the
+    writer emphasizes preserving what the singer sang rather than adapting it to outside
+    musical standards.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 22411-22418
+  quote_or_summary: The passage analyzes the melody's intervals, noting that 60 percent
+    are major seconds and only two intervals are larger than a minor third.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 22419-22449
+  quote_or_summary: "“No. 109. ‘When a Horse Neighs’ / Sung by Brave Buffalo”; the
+    gloss includes “daybreak,” “when,” “a horse,” and “neighs.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short quotation used for identification.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is primarily ethnomusicological and provides a brief song text/gloss
+    rather than a full mythic narrative. Literal extraction is moderately secure;
+    motif interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the available taxonomy list does not include horse, dawn/daybreak, or animal call motifs, and the passage does not support broader comparison claims.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l22396-l22449
+  passage_sha256=f1648bdbf8d1c15bcd8d5965793d9391a44ce137e388d3e4e4c2873f1b02c4bb
+

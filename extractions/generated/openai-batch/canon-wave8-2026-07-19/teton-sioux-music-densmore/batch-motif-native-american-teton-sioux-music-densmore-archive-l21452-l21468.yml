@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l21452-l21468
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: METRIC  UNIT  OF  VOICE  (TEMPO) / WO      - / SOCIETIES  (OKO'IAKICIYE)
+    / BUFFALO-DANCE  SHIELD; lines 21452-21468
+  start: '21452'
+  end: '21468'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: It is probable that these societies held no regular meetings
+  summary: The passage names a Buffalo-dance shield, notes mentions of “horse songs”
+    among the Oglala and by Dorsey, and states that the societies probably had no
+    regular meetings or new military-organization members for about thirty years before
+    the material was collected. It concludes that reliable history of these societies
+    among the Teton Sioux is difficult or impossible to secure, then gives the heading
+    “Dream Societies.”
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage heading names a “Buffalo-Dance Shield.”
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that “horse songs” are mentioned among the Oglala.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that “horse songs” are also mentioned by Dorsey.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says it is probable that the societies held no regular meetings.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says no new members of the military organizations had been elected
+    for about thirty years before the collecting of the material.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says reliable information on the history of these societies among
+    the Teton Sioux is impossible to secure.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage ends with the heading “Dream Societies.”
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Oglala
+  description: Named group associated with the mention of “horse songs.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Dorsey
+  description: Named cited source or person also associated with a mention of “horse
+    songs.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: these societies / military organizations
+  description: Societies or military organizations described as probably having no
+    regular meetings and no new elected members for about thirty years.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Teton Sioux
+  description: Named cultural context for the societies whose history is said to lack
+    reliable information.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: group linked to horse-song mention
+  assigned_to:
+  - fig:1
+  basis: The passage locates mention of “horse songs” among the Oglala.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: cited source for parallel mention
+  assigned_to:
+  - fig:2
+  basis: The passage states that mention of “horse songs” is made also by Dorsey.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: inactive or discontinuous societies
+  assigned_to:
+  - fig:3
+  basis: The passage says these societies held no regular meetings and had no new
+    elected members for about thirty years.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: cultural setting for historical inquiry
+  assigned_to:
+  - fig:4
+  basis: The passage refers to the history of these societies among the Teton Sioux.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Buffalo-dance shield
+  literal_form: A shield named in the heading “BUFFALO-DANCE SHIELD.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Expository note on societies and evidence limits
+  summary: Under a Buffalo-dance shield heading, the passage notes horse-song references,
+    describes probable inactivity and halted member election in societies or military
+    organizations, and states that reliable historical information is not obtainable.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ceremonial shield associated with buffalo dance
+  taxonomy_refs: []
+  basis: The heading names a “Buffalo-Dance Shield.”
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage provides only a heading and gives no description, use, ritual
+    action, or narrative involving the shield.
+- id: motif:2
+  label: horse-song recurrence as named song category
+  taxonomy_refs: []
+  basis: The passage says “horse songs” are mentioned among the Oglala and also by
+    Dorsey.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage gives only the label “horse songs”; it does not provide song
+    text, performance context, or mythic content.
+- id: motif:3
+  label: discontinuity of ceremonial or military societies
+  taxonomy_refs: []
+  basis: The passage states that the societies probably held no regular meetings and
+    had no new elected members for about thirty years before the material was collected.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a social-historical pattern rather than a mythological motif,
+    and the passage itself stresses uncertainty and lack of reliable historical information.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports only a cautious comparison that the label or category
+    “horse songs” recurs in connection with the Oglala and in Dorsey’s account.
+  claim_level: linguistic_similarity
+  target: Dorsey’s mention of “horse songs” and the Oglala context
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies no details about lyrics, ritual function, performance,
+    or narrative content, so it does not support a stronger same-motif or historical-contact
+    claim.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '21452'
+  quote_or_summary: "“BUFFALO-DANCE SHIELD”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 21458-21459
+  quote_or_summary: The passage says that “horse songs” are mentioned among the Oglala
+    and also by Dorsey.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 21461-21464
+  quote_or_summary: The passage says these societies probably held no regular meetings
+    and that no new members of the military organizations had been elected for about
+    thirty years before the material was collected.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: 21464-21466
+  quote_or_summary: The passage says it is impossible to secure much reliable information
+    on the history of these societies among the Teton Sioux.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: quote
+  locator: '21468'
+  quote_or_summary: "“Dream Societies”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is short, partly OCR-corrupted, and mainly expository rather
+    than narrative. Motif candidates are therefore limited to explicitly named elements
+    and a documented social-historical pattern.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned; the passage does not support mapping to the supplied controlled taxonomy.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l21452-l21468
+  passage_sha256=3a41cbf5661042bf8a52050c5c1cb7fb1d450f0064fd883dc3317c05ac464883
+

@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l10437-l10466
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: A MAN PLAYING THE BUDIMKA. / CH. XXV / THE BA-ILA AT PLAY / FOUR BA-ILA PIANOS.;
+    lines 10437-10466
+  start: '10437'
+  end: '10466'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The kankobele, or native piano, consists of a keyboard with about twelve
+    metal keys, superimposed on a small open calabash.
+  summary: The passage fragment mentions a return followed by a thank-offering at
+    the Iwanga, said to have been introduced from the Bambwela. It then begins a chapter
+    on Ba-Ila play and describes the kankobele/native piano, notes an image caption
+    for four Ba-Ila pianos, and introduces types of drums called ingoma, including
+    the namalwa friction drum.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man is identified as playing the budimka in a caption or heading.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On return, a thank-offering is made at the Iwanga.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The practice or item just mentioned is said to have been introduced from the
+    Bambwela.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The chapter heading identifies the subject as the Ba-Ila at play.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The kankobele, also called a native piano, has a keyboard with about twelve
+    metal keys set on a small open calabash.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The kankobele player holds the instrument in his hands and strums with his
+    fingers.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A caption or heading refers to four Ba-Ila pianos.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Several varieties of the drum proper are all called ingoma.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The namalwa is described as a friction drum and a hollow cylinder.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: man playing the budimka
+  description: A man identified in the caption or heading as playing the budimka.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ba-Ila
+  description: The people named in the chapter heading and in the caption for four
+    Ba-Ila pianos.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Bambwela
+  description: A group or source named as the origin from which the mentioned practice
+    or item was introduced.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: musical performer
+  assigned_to:
+  - fig:1
+  basis: The caption or heading identifies the man as playing the budimka.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: people associated with play and pianos
+  assigned_to:
+  - fig:2
+  basis: The passage gives the chapter heading 'The Ba-Ila at Play' and a caption
+    referring to four Ba-Ila pianos.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: named source of introduction
+  assigned_to:
+  - fig:3
+  basis: The passage says the mentioned practice or item was introduced from the Bambwela.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: budimka
+  literal_form: musical instrument named in the caption 'A man playing the budimka'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Iwanga
+  literal_form: place or institution where a thank-offering is made
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: thank-offering
+  literal_form: offering made on return at the Iwanga
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: kankobele/native piano
+  literal_form: keyboard instrument with about twelve metal keys on a small open calabash,
+    held in the hands and strummed with fingers
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: calabash
+  literal_form: small open calabash forming part of the kankobele/native piano
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: ingoma
+  literal_form: generic name given to several varieties of the drum proper
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: namalwa
+  literal_form: friction drum described as a hollow cylinder
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Return and thank-offering at the Iwanga
+  summary: A fragment states that on return a thank-offering is made at the Iwanga
+    and that the practice or item was introduced from the Bambwela.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ba-Ila musical play and instruments
+  summary: The passage introduces Ba-Ila play, names a man playing the budimka, describes
+    the kankobele/native piano, refers to four Ba-Ila pianos, and begins a description
+    of drums called ingoma, including the namalwa friction drum.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: thank-offering on return
+  taxonomy_refs:
+  - sacred_exchange
+  - return
+  basis: The fragment explicitly states that on return a thank-offering is made at
+    the Iwanga.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The surrounding context is missing; the passage does not identify who
+    returns, what occasion is involved, or whether this is a mythic narrative rather
+    than an ethnographic note.
+- id: motif:2
+  label: music-making with named local instruments
+  taxonomy_refs: []
+  basis: The passage centers on Ba-Ila play and describes named instruments, including
+    the budimka, kankobele/native piano, ingoma drums, and the namalwa friction drum.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a cultural-descriptive pattern rather than a supported mythological
+    motif in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '10437'
+  quote_or_summary: '"A MAN PLAYING THE BUDIMKA."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: 10439-10442
+  quote_or_summary: On their return they make a thank-offering at the Iwanga; it is
+    said to have been introduced from the Bambwela.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 10444-10446
+  quote_or_summary: '"CH. XXV" / "THE BA-ILA AT PLAY"'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: 10448-10452
+  quote_or_summary: The kankobele/native piano is a keyboard with about twelve metal
+    keys on a small open calabash; the player holds it and strums with his fingers.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: '10456'
+  quote_or_summary: '"FOUR BA-ILA PIANOS."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:6
+  type: summary
+  locator: 10458-10460
+  quote_or_summary: Several varieties of the drum proper are all called ingoma.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 10462-10466
+  quote_or_summary: The namalwa is described as a friction drum and a hollow cylinder.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The instrument descriptions are clear, but the opening thank-offering sentence
+    is fragmentary and lacks antecedent context. No passage-supported comparison claims
+    were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to the available list and applied only to the explicit thank-offering/return fragment with low confidence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l10437-l10466
+  passage_sha256=2b3eccc1bb08bc049c223ead6cad5b5a66edf45861e9aa20b895ad744bc7a233
+

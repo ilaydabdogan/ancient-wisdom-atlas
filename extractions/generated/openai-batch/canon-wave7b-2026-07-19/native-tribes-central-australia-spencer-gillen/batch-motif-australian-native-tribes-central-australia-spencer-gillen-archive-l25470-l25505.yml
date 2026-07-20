@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l25470-l25505
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: XIX CLOTHING, WEAPONS, IMPLEMENTS, ETC. 599 / XIX CLOTHING, WEAPONS, I.MPLEMENTS,
+    ETC. 603 / XIX CLOTHING, WEAPONS, IMPLEMENTS, ETC. 607 / K R 2; lines 25470-25505
+  start: '25470'
+  end: '25505'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the construction and decoration of a string bag:
+    its rim strand and loops, alternating loop attachments, wrapped handle, and red
+    ochre coloring with red rings. It also notes a regional distribution claim concerning
+    Charlotte Waters and northern tribes north of the Macdonnell Range.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the art of making these bags does not appear to have
+    been acquired by northern tribes living north of the Macdonnell Range through
+    the central area.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A strand runs around the rim of the bag, and loops are fixed onto it; the
+    first loop is short, the second is about 10 cm long, and the others are at most
+    about 1 cm long.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The attachment of the third loop to the second varies in alternate loops,
+    with opposite twisting arrangements alternating along the structure.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The loops are close together, so the alternating arrangement is not noticed
+    until careful examination; the authors state there is no structural reason for
+    the method and infer that the maker varied the design for pleasure.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The handle is made from multiple strands of string continuous with loops on
+    either side and is enclosed by two layers of string wound around them.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The upper edge of the bag is colored red with ochre to a depth of about 7
+    cm, and below this are four red rings, each about 2 cm broad, running around the
+    bag.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says the red decoration at first appears to have been rubbed on
+    after the bag was made, but closer examination shows this is not the case.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: anonymous maker of the string bag
+  description: The maker is inferred by the passage as someone who varied the design
+    and used particular construction and coloring methods.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: northern tribes north of the Macdonnell Range
+  description: A group described as apparently not having acquired the art of making
+    these bags.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: bag maker and design variator
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the alternating design and construction choices to
+    the maker and states that the maker probably took pleasure in varying the design.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:2
+  label: group reported as non-adopters of the bag-making art
+  assigned_to:
+  - fig:2
+  basis: The passage says the art of making these bags does not appear to have been
+    acquired by northern tribes north of the Macdonnell Range.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: string bag
+  literal_form: A string bag with rim strand, loops, handle, and red ochre decoration.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: alternating loop structure
+  literal_form: Alternating loop attachments in which different strings are twisted
+    around each other in turn.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: red ochre bands and rings
+  literal_form: A red ochre-colored upper edge and four red rings around the bag.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Regional note on bag-making practice
+  summary: The passage reports that the art of making the bags is associated with
+    the area being discussed and does not appear to have been acquired by northern
+    tribes north of the Macdonnell Range.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Technical description of string bag construction
+  summary: The passage explains the rim strand, sequence of loops, alternating loop
+    attachment, handle construction, and red ochre decoration of the string bag.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25470-25505; passage opening
+  quote_or_summary: The passage says the art of making these bags does not appear
+    to have been acquired by northern tribes living north of the Macdonnell Range
+    through the central area.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 25470-25505; rim and loop description
+  quote_or_summary: A strand runs around the rim of the bag; loops are fixed to it,
+    including a short first loop, a second loop of about 10 cm, and others at most
+    about 1 cm long.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 25470-25505; alternating loop attachment
+  quote_or_summary: The attachment of the third loop to the second varies in alternate
+    loops, with the twisting order reversed from one loop to the next.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 25470-25505; examination of loop arrangement
+  quote_or_summary: The loops are so close that the arrangement is only noticed on
+    careful examination; the authors state there is no structural reason for the method
+    and infer that the maker enjoyed varying the design.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 25470-25505; handle description
+  quote_or_summary: The handle is made from strands of string continuous with loops
+    on either side, enclosed by two layers of string wound around them.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 25470-25505; red ochre decoration
+  quote_or_summary: The upper edge is colored red with ochre to a depth of about 7
+    cm, with four red rings below it, each about 2 cm broad, running around the bag.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 25470-25505; closer examination of coloring
+  quote_or_summary: The passage says the red initially looks rubbed on after construction,
+    but closer examination shows this is not the case.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a material-culture description of a string bag and does not
+    support a mythological motif candidate or comparative claim from the supplied
+    taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif or symbol reference is directly supported beyond literal object-pattern extraction; taxonomy_refs are therefore left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l25470-l25505
+  passage_sha256=42cf609a4816e30bff6f8ba855ace033104a3f7c7128cbb21320d63a3bb609ea
+

@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l7281-l7352
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: RECOUNTING   THE   TAKING  OF  THREE  SCALPS / THE    WAR    BADGE / JULLETIN  53     PLATE  15
+    / AKIWEN'ZI; lines 7281-7352
+  start: '7281'
+  end: '7352'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: The following song was sung at the dances preceding a war expedition.
+  summary: The passage first gives musical observations on a song passage, then introduces
+    No. 14, “The Man who Stayed at Home,” recorded without drum and sung by Odjib'we.
+    The song was used at dances before a war expedition and was intended to shame
+    those who failed without proper excuse to join the warriors. Its words name Jingwa'be,
+    glossed as “man of the spruce tree,” and say that his wife takes all his attention.
+  language: English with Chippewa/Ojibwe song text and glosses
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A rhythmic unit is said to occur six times, interrupted only by changes of
+    words; the enunciation resembles rapid speech.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The analyzed song passage is described as grim in suggestion, major in tonality,
+    and cheerful in rhythm.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: No. 14, “The Man who Stayed at Home,” was sung at dances preceding a war expedition.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The song was intended to shame people who, without proper excuse, failed to
+    join the warriors.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: No. 14 was recorded without drum and sung by Odjib'we.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The song text names Jingwa'be, whose name is glossed as meaning “man of the
+    spruce tree.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The glossed song text says that Jingwa'be considers himself a man and that
+    his wife takes all his attention.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note explains an instance of elision in Chippewa singing between the final
+    n of one word and the initial g of the next.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Jingwa'be
+  description: Named man in the song; his name is glossed as “man of the spruce tree,”
+    and the song says his wife takes all his attention.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Odjib'we
+  description: Singer of No. 14, “The Man who Stayed at Home.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: warriors
+  description: Those expected to join the war expedition; the song was intended to
+    shame those who failed to join them without proper excuse.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Jingwa'be's wife
+  description: The wife mentioned in the glossed song text as taking all Jingwa'be's
+    attention.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named absentee or shaming example
+  assigned_to:
+  - fig:1
+  basis: The passage says the song contains the name of a man who stayed at home and
+    was intended to shame those who did not join the warriors.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: singer
+  assigned_to:
+  - fig:2
+  basis: The song is identified as sung by Odjib'we.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: war expedition participants
+  assigned_to:
+  - fig:3
+  basis: The song was used before a war expedition and refers to those who failed
+    to join the warriors.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: object of domestic attention
+  assigned_to:
+  - fig:4
+  basis: The gloss says Jingwa'be's wife takes all his attention.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: spruce tree in personal name
+  literal_form: spruce tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dances before a war expedition
+  summary: A song is sung at dances preceding a war expedition and is used to shame
+    those who failed without proper excuse to join the warriors.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Song naming Jingwa'be
+  summary: The song names Jingwa'be, glosses his name as “man of the spruce tree,”
+    and says his wife takes all his attention.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: War-expedition preparation dance song
+  taxonomy_refs:
+  - departure
+  basis: The song is explicitly said to have been sung at dances preceding a war expedition.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is functional and contextual; the passage is ethnographic
+    song documentation rather than a mythic departure narrative.
+- id: motif:2
+  label: Public shaming of those who do not join the warriors
+  taxonomy_refs: []
+  basis: The passage states that the song was intended to shame those who failed without
+    proper excuse to join the warriors.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a social and performance motif in a war-song context, not a narrated
+    mythic episode.
+- id: motif:3
+  label: Named individual used as an admonitory example
+  taxonomy_refs: []
+  basis: The song contains the name of a man who stayed at home, and that named example
+    is used to shame others.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief song text and does not narrate the full
+    circumstances of the named man's absence.
+- id: motif:4
+  label: Domestic attachment contrasted with warrior obligation
+  taxonomy_refs: []
+  basis: The glossed words say Jingwa'be considers himself a man but that his wife
+    takes all his attention, in a song used to shame nonparticipants in a war expedition.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The implied contrast depends on the placement of the wife reference within
+    the shaming song; the passage does not explicitly state that the wife caused the
+    absence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7281-7289
+  quote_or_summary: 'Musical analysis: a rhythmic unit occurs six times; the words
+    resemble rapid speech; the song is described as grim in suggestion but major in
+    tonality and cheerful in rhythm.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 7291-7295
+  quote_or_summary: "“The following song was sung at the dances preceding a war expedition”
+    and was intended “to shame” those who failed to join the warriors without proper
+    excuse."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 7297-7306
+  quote_or_summary: No. 14 is titled “The Man who Stayed at Home,” catalogue No. 388;
+    it was recorded without drum and sung by Odjib'we.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 7307-7348
+  quote_or_summary: The song text and gloss name Jingwa'be, glossed as “man of the
+    spruce tree”; the gloss includes “a man,” “considers himself,” “his wife,” and
+    “takes all his attention.”
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; concise summary with brief quoted glosses.
+- id: ev:5
+  type: summary
+  locator: 7350-7352
+  quote_or_summary: A footnote explains that an initial g in the music is carried
+    over from the final n of the preceding word as an example of elision by Chippewa
+    singers.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is primarily ethnomusicological documentation, not a mythic narrative.
+    No comparison claims were extracted beyond the passage’s internal musical cross-reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. The spruce-tree symbol is recorded because it appears in the glossed personal name; no broader tree symbolism is inferred.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l7281-l7352
+  passage_sha256=8be93c2529830c4105f832708847fb572e0954eae4cf59597ffb1ec303a40fdb
+

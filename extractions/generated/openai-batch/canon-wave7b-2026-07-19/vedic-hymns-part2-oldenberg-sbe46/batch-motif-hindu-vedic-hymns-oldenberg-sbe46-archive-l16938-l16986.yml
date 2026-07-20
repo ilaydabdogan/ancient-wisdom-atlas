@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l16938-l16986
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANVOAREA TV, WYNN 11, / ASHTAKA III, ADHYAYA 5, VARGA 11. / MANDALA IV,
+    HYMN II. 353 / NO VES:; lines 16938-16986
+  start: '16938'
+  end: '16986'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a set of textual notes for Mandala IV, Hymn II. It identifies
+    the metre and textual parallels, explains a phrase by reference to Soma purifying
+    itself in a sheep-hair filter, and discusses a disputed reading that could yield
+    a translation about driving away ill-will when protected.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as notes on Mandala IV, Hymn II, and states
+    that the metre is Trishtubh.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes state that verse 1 is paralleled or equated with a passage in TS
+    IV, though the following reference is partly obscured by OCR.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note explains the phrase translated literally as "in thy appearance" and
+    relates it to Soma purifying itself.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The expression "appearance of the sheep" is interpreted in the note as referring
+    to a filter made of sheep's hair.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note for verse 6 discusses a probable Padapatha reading and gives a possible
+    translation about driving away ill-will when the addressee protects the speakers.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The notes cite or compare other Vedic or scholarly references, including IV,
+    10, 5, IX, 16, 6, and Atharva-Veda VIII, 2, 7.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Soma
+  description: Soma is mentioned in the note as purifying itself in connection with
+    the phrase "appearance of the sheep."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed addressed protector
+  description: An unidentified addressee in the possible translation is described
+    as protecting "us."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: protected speaker group
+  description: The possible translation refers to a first-person plural group, "us,"
+    who are protected.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: self-purifying figure
+  assigned_to:
+  - fig:1
+  basis: The note says Soma purifies itself.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: protector
+  assigned_to:
+  - fig:2
+  basis: The tentative translation includes the phrase "when thou protectest (us)."
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: protected recipients
+  assigned_to:
+  - fig:3
+  basis: The tentative translation names "us" as those protected by the addressee.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Soma
+  literal_form: Soma
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sheep-hair filter
+  literal_form: filter made of sheep's hair
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Soma purification through sheep-hair filter
+  summary: A textual note explains a phrase by saying that Soma purifies itself in
+    what is interpreted as a sheep-hair filter.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Protection and removal of ill-will
+  summary: In a conditional translation of verse 6, an unidentified addressee protects
+    the speakers while ill-will is driven far away.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: purification through a sheep-hair filter
+  taxonomy_refs: []
+  basis: The note describes Soma purifying itself and interprets the sheep-related
+    phrase as a filter made of sheep's hair.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is commentary, not the full hymn verse; the purification detail
+    is given through an explanatory parallel.
+- id: motif:2
+  label: protective driving away of ill-will
+  taxonomy_refs: []
+  basis: A possible translation includes driving ill-will far away when the addressee
+    protects the speakers.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The translation depends on a disputed or uncertain reading, and the protector
+    is not identified in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The apparatus marks verse 1 as having a textual correspondence with TS IV,
+    indicating a nearby Vedic corpus parallel.
+  claim_level: linguistic_similarity
+  target: TS IV, 2; further reference unclear in OCR
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The printed/OCR reference after TS IV is unclear, and the passage gives
+    only apparatus notes rather than the full parallel text.
+- id: claim:2
+  claim: The note uses IX, 16, 6 as a parallel for Soma's purification in the sheep-related
+    expression.
+  claim_level: same_function
+  target: IX, 16, 6, Soma purifying itself in the sheep-hair filter context
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The cited parallel is summarized within the note; the full compared
+    passage is not included here.
+- id: claim:3
+  claim: The note explicitly compares a phrase with IV, 10, 5 in the same Vedic textual
+    setting.
+  claim_level: linguistic_similarity
+  target: IV, 10, 5
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is lexical or textual, not a demonstrated shared mythic
+    motif.
+- id: claim:4
+  claim: The note links the term discussed under verse 4 with Atharva-Veda VIII, 2,
+    7 through a scholarly reference.
+  claim_level: linguistic_similarity
+  target: Atharva-Veda VIII, 2, 7
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a bibliographic and lexical comparison; no shared narrative
+    motif is stated.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16938-16943
+  quote_or_summary: Heading and apparatus identify the passage as Mandala IV, Hymn
+    II notes; the same Rishi is indicated, the metre is Trishtubh, and verse 1 is
+    linked to TS IV with a partly unclear reference.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 16948-16951
+  quote_or_summary: '"the Soma is stated, IX, 16, 6, to purify itself"; the note interprets
+    "the appearance of the sheep" as "the filter made of sheep''s hair."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 16955-16960
+  quote_or_summary: The notes cite Lanman, Pischel, and V. Henry, including a reference
+    to Atharva-Veda VIII, 2, 7 for the term discussed under verse 4.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 16964-16972
+  quote_or_summary: 'The verse 6 note discusses the reading "yam nipdsi" and gives
+    the possible translation: "drive far all ill-will when thou protectest (us)."'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: line 16946
+  quote_or_summary: A note says to compare the phrase with IV, 10, 5.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly scholarly apparatus and OCR contains corrupt forms.
+    Motif extraction is limited because the actual hymn verses are largely absent;
+    identified motifs are based on explicit notes only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the available taxonomy list does not include Soma, wool, filter, or purification, and the passage itself does not explicitly mention sacrifice, fire, water, milk, serpent, tree, mountain, or cave.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l16938-l16986
+  passage_sha256=8b6fee0632f56a0a4e3fb414378ee5f28800678f48a0de469da6a164fbd93ada
+

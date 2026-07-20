@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l50699-l50708
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCLX / SECTION CCLXI / SECTION CCLXII / SECTION CCLXIII; lines 50699-50708
+  start: '50699'
+  end: '50708'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: From agriculture comes food. That food offers subsistence even to thee.
+  summary: Jajali objects to a trader's preached course of duty, arguing that it would
+    close heaven to creatures, halt subsistence, undermine agriculture, animals, food,
+    and sacrifices, and bring the world to an end if life-supporting means are abandoned.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Jajali speaks to an addressee described as a holder of scales and a trader.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jajali says the addressee preaches a course of duty.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Jajali claims that this course of duty closes the door of heaven against all
+    creatures.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Jajali claims that this course of duty stops the means of subsistence.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Jajali states that agriculture produces food and that food provides subsistence.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Jajali states that animals, crops, and herbs help human beings support their
+    existence.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Jajali states that sacrifices flow from animals and food.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Jajali says the addressee's doctrines resemble atheism and that the world
+    will end if the means supporting life are abandoned.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Jajali
+  description: Named speaker who challenges the addressee's course of duty.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: holder of scales / trader
+  description: Addressee described by Jajali as a holder of scales and trader who
+    preaches a course of duty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: human beings
+  description: Humans said to support their existence with the aid of animals, crops,
+    and herbs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: all creatures
+  description: Creatures said by Jajali to be excluded from heaven by the preached
+    course of duty.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: objecting speaker
+  assigned_to:
+  - fig:1
+  basis: Jajali directly criticizes the preached duty and its effects.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: preacher of duty and trader
+  assigned_to:
+  - fig:2
+  basis: The addressee is called a holder of scales and trader, and Jajali says he
+    preaches a course of duty.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dependent beings supported by agriculture and animals
+  assigned_to:
+  - fig:3
+  basis: Human beings are said to support existence through animals, crops, and herbs.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: beings affected by access to heaven
+  assigned_to:
+  - fig:4
+  basis: Jajali says the course of duty closes heaven against all creatures.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: scales
+  literal_form: scales held by the addressee
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: door of heaven
+  literal_form: door of heaven said to be closed against all creatures
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: food
+  literal_form: food produced by agriculture and supporting subsistence
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: animals, crops, and herbs
+  literal_form: life-supporting resources used by human beings
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: sacrifices
+  literal_form: sacrifices said to flow from animals and food
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Jajali challenges the trader's doctrine of duty
+  summary: Jajali addresses a trader or holder of scales and argues that the trader's
+    course of duty would obstruct heaven, subsistence, agriculture, food, human life,
+    sacrifice, and the world's continuance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrifice dependent on food and animals
+  taxonomy_refs:
+  - sacrifice
+  basis: Jajali explicitly says that sacrifices arise from animals and food, after
+    describing agriculture and living beings as sources of subsistence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage discusses sacrifice as part of an argument about subsistence;
+    it does not narrate an actual sacrificial rite.
+- id: motif:2
+  label: duty doctrine challenged as world-ending
+  taxonomy_refs: []
+  basis: Jajali argues that abandoning life-supporting means under the preached duty
+    would stop subsistence and bring the world to an end.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage reports an accusation within dialogue; it does not confirm
+    that the doctrine actually has these effects.
+- id: motif:3
+  label: access to heaven affected by conduct
+  taxonomy_refs:
+  - divine_judgment
+  basis: Jajali says the preached duty closes the door of heaven against all creatures.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage mentions heaven being closed but does not describe a full
+    judgment scene or judging deity.
+- id: motif:4
+  label: debate over wisdom and duty
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is framed as Jajali disputing a course of duty preached by the
+    trader.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The excerpt provides only one side of the debate and does not give the
+    trader's own reasoning in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 50699-50702
+  quote_or_summary: Jajali says to the holder of scales that the course of duty he
+    preaches closes heaven against all creatures and stops the means of subsistence.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 50702-50704
+  quote_or_summary: '"From agriculture comes food. That food offers subsistence even
+    to thee."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 50704-50706
+  quote_or_summary: Jajali says that animals, crops, and herbs enable human beings
+    to support their existence.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: quote
+  locator: line 50706
+  quote_or_summary: '"From animals and food sacrifices flow."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 50706-50708
+  quote_or_summary: Jajali says the trader's doctrines seem atheistic and that the
+    world will end if the means supporting life are abandoned.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal dialogue elements are clear. Motif labels are cautious because the
+    excerpt gives a polemical statement within a larger debate and no external comparison
+    is supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material to another text, tradition, or motif family beyond candidate motif classification.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l50699-l50708
+  passage_sha256=d0c400c5dfe266cd59aa21e44ebb0a89c1b8ed7f3ad61ea01fda1627ea492a03
+

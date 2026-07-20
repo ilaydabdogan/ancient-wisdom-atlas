@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.slavic-fairy-tales-slav-peasants-chodzko-gutenberg-l6364-l6376
+source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+passage_locator:
+  label: IMPERISHABLE / OHNIVAK / TEARS OF PEARLS / TEARS OF PEARLS; lines 6364-6376
+  start: '6364'
+  end: '6376'
+  translation: Fairy Tales of the Slav Peasants and Herdsmen
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: At midnight, church doors open by themselves while guards fall asleep.
+    A duck enters, removes its feathers, becomes the beautiful step-daughter, looks
+    sorrowfully at her brother in his coffin, weeps, resumes duck form, and leaves.
+    The guards later find pearls in the coffin and report the event to the king, who
+    is surprised.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The church doors open silently toward midnight.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The guards are overcome by sleep while the event takes place.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:3
+  text: A small duck enters the church unnoticed, stops in the aisle, shakes herself,
+    and pulls out her feathers one by one.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: After removing the feathers, the duck takes the form of the beautiful step-daughter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The step-daughter goes to her brother's coffin, looks at him, and weeps sorrowfully.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The step-daughter puts on the feathers again and leaves as a duck.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When the guards awaken, they find many fine pearls in the coffin.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The guards report the self-opening doors, their sleep, and the pearls to the
+    king.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The king is very surprised, especially by the pearls.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: pretty little duck / beautiful step-daughter
+  description: A duck that removes its feathers and takes the form of the beautiful
+    step-daughter, then puts the feathers back on and leaves as a duck.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: brother in the coffin
+  description: The step-daughter's brother, lying in a coffin in the church.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: guards
+  description: Guards present in the church who fall asleep and later find pearls
+    in the coffin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: king
+  description: The king receives the guards' report and is surprised by the appearance
+    of the pearls.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: animal-human shapeshifter
+  assigned_to:
+  - fig:1
+  basis: The duck removes feathers and becomes the beautiful step-daughter, then resumes
+    duck form by putting the feathers back on.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: grieving sister
+  assigned_to:
+  - fig:1
+  basis: She goes to her brother's coffin, gazes at him, and weeps sorrowfully.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: dead brother
+  assigned_to:
+  - fig:2
+  basis: He is identified as the step-daughter's brother and is in a coffin.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: sleeping witnesses
+  assigned_to:
+  - fig:3
+  basis: The guards are overcome by sleep, awaken, find pearls, and report what they
+    know.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:5
+  label: royal recipient of report
+  assigned_to:
+  - fig:4
+  basis: The guards tell the king, and he is surprised by their account.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: duck form
+  literal_form: A pretty little duck that can enter the church and later become the
+    step-daughter.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: feathers
+  literal_form: Feathers pulled out one by one and later put back on to restore duck
+    form.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: coffin
+  literal_form: The brother's coffin in the church, later found to contain pearls.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: pearls in the coffin
+  literal_form: A quantity or large number of fine pearls found in the coffin after
+    the step-daughter weeps there.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: self-opening church doors
+  literal_form: Church doors that open silently of themselves toward midnight.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:6
+  label: midnight sleep
+  literal_form: The guards are overcome by sleep at the midnight visitation.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Midnight entrance into the church
+  summary: Toward midnight, church doors open by themselves while the guards fall
+    asleep, and a duck enters unnoticed.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Transformation by feathers
+  summary: The duck stands in the aisle, removes its feathers, and takes the form
+    of the beautiful step-daughter.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Weeping at the brother's coffin
+  summary: The step-daughter approaches her brother's coffin, gazes at him, and weeps
+    sorrowfully before resuming duck form and leaving.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Pearls discovered and reported
+  summary: The guards awaken, find pearls in the coffin, and tell the king about the
+    doors, their sleep, and the pearls; the king is surprised.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Animal form removed to reveal human identity
+  taxonomy_refs:
+  - shapeshifter
+  basis: The duck removes its feathers and becomes the beautiful step-daughter, then
+    puts the feathers back on and leaves as a duck.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes the transformation but does not explain its cause
+    or origin.
+- id: motif:2
+  label: Sister visits dead brother at night
+  taxonomy_refs:
+  - sibling_pair
+  basis: The step-daughter goes to her brother's coffin during the midnight church
+    visit and weeps over him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage establishes the sibling relation, but the broader tale context
+    is not included here.
+- id: motif:3
+  label: Grief associated with pearls in a coffin
+  taxonomy_refs: []
+  basis: The step-daughter weeps sorrowfully at the coffin, and afterward the guards
+    find many pearls in the coffin.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage strongly sequences the weeping and the discovery of pearls,
+    but it does not explicitly state that the tears changed into pearls.
+- id: motif:4
+  label: Supernatural midnight visitation while watchers sleep
+  taxonomy_refs: []
+  basis: At midnight the doors open by themselves, the guards fall asleep, and the
+    duck-shaped visitor enters and leaves unnoticed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage does not identify the force causing the doors to open or the
+    guards' sleep.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared with the shapeshifter motif family
+    because it explicitly depicts a being changing between duck and human form by
+    removing and replacing feathers.
+  claim_level: same_motif
+  target: shapeshifter motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only the transformation episode and not the wider
+    rules or origin of the shapeshifting.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6364-6366
+  quote_or_summary: Toward midnight, the church doors silently open; the guards fall
+    asleep; a pretty little duck enters unnoticed.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6367-6369
+  quote_or_summary: The duck stops in the aisle, shakes herself, pulls out feathers
+    one by one, and takes the form of the beautiful step-daughter.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6369-6372
+  quote_or_summary: The step-daughter goes to her brother's coffin, gazes at him,
+    weeps sorrowfully, puts on her feathers again, and leaves as a duck.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6372-6373
+  quote_or_summary: When the guards awaken, they are astonished to find many fine
+    pearls in the coffin.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6374-6376
+  quote_or_summary: The next day, the guards tell the king that the doors opened by
+    themselves, they fell asleep, and they awoke to find many pearls in the coffin
+    without knowing their origin.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: line 6376
+  quote_or_summary: The king is very surprised, especially by the appearance of the
+    pearls.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence is clear. Motif labels involving pearl-tears are treated
+    cautiously because the passage implies but does not explicitly state that the
+    tears became pearls.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied line range and metadata were used; no broader tale context was added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-fairy-tales-slav-peasants-chodzko-gutenberg__l6364-l6376
+  passage_sha256=3cd685aceb1d6bea1ca674cbbdbf45143eb4498867cb1b9bc72a6826e65c9059
+

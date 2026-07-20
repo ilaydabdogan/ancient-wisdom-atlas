@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l520-l585
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: R. S. RATTRAY. / CONTENTS / PREFACE . 5 / CHAP.; lines 520-585
+  start: '520'
+  end: '585'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is front matter and a table of contents for R. S. Rattray's
+    Ashanti. It lists chapters on Ashanti social classification, descent, religion,
+    Adae and other ceremonies, sacred locations, burial quarters of kings and queens,
+    Nyame as Supreme Being, abosom as gods, shrine-making, and several chapters concerning
+    the god Tano, including his temple, rock, river source, and 'sons'.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the author signature as R. S. Rattray and gives Oxford,
+    March 1923.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage is a contents list with chapters on Ashanti classificatory systems,
+    ntoro exogamous divisions, matrilineal descent, and introductory religion.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Several chapter titles concern named ceremonies, including Adae, Baya, Apo,
+    and Afahye ceremonies.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A chapter title names the Sacred Grove at Santemanso.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A chapter title mentions the burial quarters of kings and queens while they
+    were undergoing repair.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A chapter title identifies Nyame as the Supreme Being.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A chapter title identifies abosom as gods and mentions the making of a shrine.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Several chapter titles concern the god Tano, including a visit to his temple,
+    a visit to his rock, a ceremony at the source of the river, and some of his 'sons'.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Nyame
+  description: Named in a chapter title as the Supreme Being.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: abosom
+  description: Named in a chapter title as gods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Tano
+  description: Named in several chapter titles as a god connected with a temple, rock,
+    river source ceremony, and 'sons'.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:4
+  name_or_label: Kings and Queens
+  description: Mentioned in a chapter title concerning burial quarters undergoing
+    repair.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Supreme Being
+  assigned_to:
+  - fig:1
+  basis: The contents entry is titled 'Nyame, the Supreme Being'.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: gods
+  assigned_to:
+  - fig:2
+  basis: 'The contents entry is titled ''The Gods (abosom): the making of a Shrine''.'
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: god
+  assigned_to:
+  - fig:3
+  basis: The contents entries repeatedly use 'The God Tano'.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: royal dead or royal occupants associated with burial quarters
+  assigned_to:
+  - fig:4
+  basis: The contents entry mentions burial quarters of kings and queens; no further
+    detail is given in this passage.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Sacred Grove at Santemanso
+  literal_form: sacred grove
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Burial quarters of kings and queens
+  literal_form: burial quarters
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Shrine
+  literal_form: shrine
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Tano's temple
+  literal_form: temple
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: Tano's rock
+  literal_form: rock
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: Source of the river
+  literal_form: river source
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Contents list of ritual and religious chapters
+  summary: The passage lists chapters on Ashanti religion and multiple ceremonies,
+    sacred places, shrine-making, Nyame, abosom, and Tano.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:2
+  label: Tano chapter sequence
+  summary: 'The contents list groups four chapters around the god Tano: a visit to
+    his temple, a visit to his rock, a ceremony at the river source, and some of his
+    ''sons''.'
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Deity-associated sacred landscape
+  taxonomy_refs: []
+  basis: The contents entries for Tano associate a named god with a temple, a rock,
+    and the source of a river.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: This is inferred only from table-of-contents chapter titles, not from
+    a narrated myth or ritual description.
+- id: motif:2
+  label: Ritual attention to royal burial places
+  taxonomy_refs: []
+  basis: A chapter title concerns a ceremony witnessed while burial quarters of kings
+    and queens were undergoing repair.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage does not describe the ceremony or explain the symbolic meaning
+    of the burial quarters.
+- id: motif:3
+  label: Shrine-making for gods
+  taxonomy_refs: []
+  basis: A chapter title names the gods, abosom, and the making of a shrine.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage provides only a chapter heading and no ritual sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 520-524
+  quote_or_summary: The passage opens with 'R. S. RATTRAY.' and 'Oxford, March 1923.'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 526-545
+  quote_or_summary: The contents list chapters I-IV on Ashanti classificatory systems,
+    ntoro exogamous divisions, matrilineal descent, and religion.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 546-570
+  quote_or_summary: The contents list multiple ceremonies, including Adae ceremonies,
+    a Baya ceremony, an Apo ceremony, and an Afahye ceremony.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: line 556
+  quote_or_summary: '"The Sacred Grove at Santemanso"'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 558-561
+  quote_or_summary: A chapter title concerns a ceremony witnessed while the burial
+    quarters of kings and queens were undergoing repair.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: line 565
+  quote_or_summary: '"''Nyame, the Supreme Being"'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: line 566
+  quote_or_summary: '"The Gods ( abosom ) : the making of a Shrine"'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: lines 568-576
+  quote_or_summary: 'The contents list chapters on the god Tano: a visit to his temple,
+    a visit to his rock, a ceremony at the source of the river, and some of his ''sons''.'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a table of contents, so it supports identification of named
+    topics, figures, and sacred settings, but it does not provide narrative detail
+    or full ritual description.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage itself is front matter and does not support cross-text comparison beyond naming chapter topics.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l520-l585
+  passage_sha256=f4fb90d2cc26afa5ad8f5576d614a15470d1b1c40657a0bc4f51ddb1d5f4fdfa
+

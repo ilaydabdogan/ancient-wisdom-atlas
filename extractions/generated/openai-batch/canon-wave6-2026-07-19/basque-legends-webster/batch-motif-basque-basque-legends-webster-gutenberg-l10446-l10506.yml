@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l10446-l10506
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: SONG OF ALTABISCAR. / SONG OF LELO. / SONG OF ALTABISCAR. / ARTZAIN DOHATSUA.;
+    lines 10446-10506
+  start: '10446'
+  end: '10506'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Etchola bat da ene jauregia
+  summary: A first-person shepherd song presents a hut as a palace, describes a flock
+    and daily pastoral routine, contrasts the speaker’s rest and cheerfulness with
+    kings, nobles, castles, rich food, and money, and ends with an address to the
+    Lord asking to remain master of the hut rather than be made rich.
+  language: Basque
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker calls a hut his palace and says he is master of the hut.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The setting includes a hut, nearby trees or woodland, and a flock.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says he has rest morning and evening, fears nothing, and is prouder
+    than a king.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the morning the speaker rises, sends the sheep to pasture, and then sits
+    in the shade.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The poem contrasts noblemen’s sons in castles, whose hearts are dark with
+    thoughts, with the speaker’s cheerfulness and lack of time for sadness.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The rich person is described as full of good food and never hungry, yet envious
+    of the speaker’s disposition, which money cannot buy.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The speaker says that if the Lord sent him wealth he would be troubled in
+    heart because of pain for his hut, and asks to be left master of the hut.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: First-person shepherd, called Piarrez
+  description: A first-person speaker associated with a hut and flock; one stanza
+    names Piarrez as master in the hut.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: King
+  description: A king is used as a comparison for the speaker’s pride or confidence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Noblemen’s sons in castles
+  description: Noblemen’s sons are described as living in castles with darkened hearts
+    or thoughts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Rich person
+  description: A rich person is described as having good food, never being hungry,
+    and envying the speaker’s disposition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Jauna / Lord
+  description: A figure addressed by the speaker, who asks not to be made rich and
+    to be left as master of the hut.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Flock of sheep
+  description: The flock belongs to the pastoral setting and is sent to pasture by
+    the speaker.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: first-person speaker
+  assigned_to:
+  - fig:1
+  basis: The passage is voiced in the first person, repeatedly using statements equivalent
+    to 'I' and 'my' about the hut, flock, and wishes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: shepherd and master of hut/flock
+  assigned_to:
+  - fig:1
+  basis: The speaker identifies the hut and flock as his domain and sends the sheep
+    to pasture.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: status-and-wealth contrast figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: King, nobles in castles, and the rich person are invoked to contrast social
+    rank or wealth with the speaker’s contentment.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: divine addressee
+  assigned_to:
+  - fig:5
+  basis: The speaker directly addresses 'Jauna' and asks to remain master of the hut.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: flock under shepherd’s care
+  assigned_to:
+  - fig:6
+  basis: The flock is present in the pastoral setting and is sent to pasture by the
+    speaker.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: hut as palace
+  literal_form: The speaker’s hut is named as his palace and as the place where he
+    is master.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: flock and pasture
+  literal_form: A flock of sheep and the action of sending sheep to pasture.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: castle and noble rank
+  literal_form: King, noblemen’s sons, and castles appear as images of high status.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: wealth, food, and money
+  literal_form: Good food, fullness, money, and being enriched are associated with
+    the rich person and the possible gift of wealth.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: trees and shade
+  literal_form: Nearby woodland or groves and the shade in which the speaker sits.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: The hut declared a palace
+  summary: The speaker presents his hut as a palace, locates it near trees or woodland,
+    mentions a flock, and claims mastery over the hut.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fearless rest and kingly comparison
+  summary: The speaker describes continual rest, freedom from fear, and a pride or
+    confidence greater than a king’s.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Morning pastoral routine
+  summary: The speaker rises in the morning, sends the sheep to pasture, sits in the
+    shade, and asks who is happier than he is.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Contrast with castles and riches
+  summary: Nobles in castles and the rich person are contrasted with the speaker’s
+    cheerfulness and disposition, which money cannot buy.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Prayer to remain in the hut
+  summary: The speaker addresses the Lord, says wealth would distress him because
+    of his attachment to the hut, and asks to be left as master there.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: contented shepherd in a humble dwelling
+  taxonomy_refs:
+  - wisdom
+  basis: The poem repeatedly presents the shepherd’s hut and flock as sufficient and
+    preferable to wealth or status, culminating in a request to remain master of the
+    hut.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy reference 'wisdom' is broad; the passage is a lyrical
+    pastoral song rather than an explicit mythic narrative.
+- id: motif:2
+  label: hut superior to castle and wealth
+  taxonomy_refs: []
+  basis: The speaker’s hut is called a palace, nobles in castles are described as
+    troubled, and a rich person is said to envy a disposition money cannot buy.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a thematic pattern internal to the passage, not linked here to
+    a formal external motif index.
+- id: motif:3
+  label: refusal of unwanted enrichment
+  taxonomy_refs: []
+  basis: The speaker imagines the Lord making him rich, says this would trouble him,
+    and asks instead to remain master of the hut.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not develop this into a narrative episode; it appears
+    as a concluding prayer or wish.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10446-10506, stanza 1
+  quote_or_summary: The stanza begins 'Etchola bat da ene jauregia' and includes a
+    flock and the claim that the speaker is master of the hut.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 10446-10506, stanza 2
+  quote_or_summary: The speaker says he has rest morning and evening, fears nothing,
+    is prouder than a king, and names Piarrez as master in the hut.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 10446-10506, stanza 3
+  quote_or_summary: The speaker rises in the morning, sends the sheep to pasture,
+    sits in the shade, asks who is happier, and calls himself master of the flock.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 10446-10506, stanza 4
+  quote_or_summary: Noblemen’s sons in castles are described with dark hearts or thoughts;
+    the speaker says he is always cheerful and has no time to become sad.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 10446-10506, stanza 5
+  quote_or_summary: The rich person is full of good food and never hungry, yet envies
+    the speaker’s disposition, which cannot be bought with money.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 10446-10506, stanza 6
+  quote_or_summary: The speaker says that if the Lord sent him wealth he would be
+    distressed for his hut, and asks to be left master of the hut.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is in Basque; extraction uses cautious literal summaries of repeated
+    images and contrasts. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims added because the passage itself does not explicitly support a historical, linguistic, or cross-tradition comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l10446-l10506
+  passage_sha256=666f674cb4c8b243bfeeffbb648550590b6c73a0ae28a9fb9d64b44e9b5ec7f2
+

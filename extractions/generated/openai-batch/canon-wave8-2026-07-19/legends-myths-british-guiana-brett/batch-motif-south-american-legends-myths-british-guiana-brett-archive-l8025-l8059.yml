@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l8025-l8059
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: THE SORCERER'S DAUGHTER. / THE DEMARENA. / ORIGIN OF THE AMAZONS. / LEGENDS
+    OF THE SKY.; lines 8025-8059
+  start: '8025'
+  end: '8059'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: At night in a forest grove, camp-fires and fireflies illuminate darkness
+    while people talk about stars, meteors, and a fearful heavenly tale. Dew falling
+    from trees is called “star-moisture.” As the fires are replenished, someone asks
+    an elder to tell about Oroan, described as a friend of darkness and foe of man.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is a grove at night, lit by moonbeams, camp-fires, and brief firefly
+    flashes, with surrounding darkness compared to a tomb.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sounds from insects, reptiles, beasts, and birds are heard, while the speech
+    of men and boys is louder than the forest noises.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Some speakers discuss stars moving from east to west.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Some speakers discuss meteors flashing high in the sky and likened to flaming
+    arrows.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage mentions a remembered tale of heaven with a gleaming light that
+    trails far behind.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: As the camp-fires are replenished, large dewdrops fall from the trees and
+    are called “star-moisture” by the camp companions.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A speaker asks a grave elder, addressed as father, to tell of Oroan.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Oroan is described in the request as the friend of darkness and foe of man.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: men and boys at the camp
+  description: A group whose talk resounds above the surrounding forest noises and
+    who speak about stars, meteors, and a heavenly tale.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: grave elder / father
+  description: An elder at the camp whom another speaker asks to tell of Oroan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Oroan
+  description: A named being described as the friend of darkness and foe of man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: camp speakers and listeners
+  assigned_to:
+  - fig:1
+  basis: The group’s talk is heard, and some discuss stars, meteors, and a heavenly
+    tale.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: elder narrator requested to speak
+  assigned_to:
+  - fig:2
+  basis: A speaker asks the grave elder, addressed as father, to tell about Oroan.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: darkness-associated adversary
+  assigned_to:
+  - fig:3
+  basis: Oroan is explicitly called the friend of darkness and foe of man.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: camp-fire
+  literal_form: Red camp-fires in the grove, later replenished so they glow brighter.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: firefly light
+  literal_form: Pale flashes shed by a firefly and quickly lost in night.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: stars
+  literal_form: Bright stars described as gliding from east to west.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: meteors as flaming arrows
+  literal_form: Meteors flashing high, compared to arrows flaming through the sky.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: trailing heavenly light
+  literal_form: A gleaming light associated with a remembered tale of heaven, with
+    a trail far behind.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: star-moisture
+  literal_form: Large dew-drops falling from trees, called star-moisture.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: darkness
+  literal_form: Night darkness filling the glade and associated with Oroan as his
+    friend.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: night camp in the grove
+  summary: The grove is dark except for moonlight, camp-fires, and firefly flashes,
+    while animal and insect sounds surround the camp.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: sky talk and request for Oroan tale
+  summary: Camp speakers talk of stars, meteors, and a heavenly tale; after the fires
+    are replenished and dew falls as star-moisture, someone asks an elder to tell
+    of Oroan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: nighttime sky-lore recitation at the campfire
+  taxonomy_refs: []
+  basis: The passage frames oral narration in a night camp setting where people discuss
+    stars, meteors, and a heavenly tale before asking an elder to speak.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt is a framing scene and does not yet give the content of the
+    Oroan legend.
+- id: motif:2
+  label: meteors imagined as flaming arrows
+  taxonomy_refs: []
+  basis: Meteors are described as flashing high and compared to arrows flaming through
+    the sky.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an image in the passage; broader mythic significance is not established
+    in the excerpt.
+- id: motif:3
+  label: dew interpreted as star-moisture
+  taxonomy_refs: []
+  basis: The falling dewdrops are explicitly said to be called star-moisture by the
+    camp companions.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports a name or explanation but gives no extended myth explaining
+    the dew.
+- id: motif:4
+  label: darkness-aligned foe of humanity
+  taxonomy_refs: []
+  basis: Oroan is introduced by request as the friend of darkness and foe of man.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only an introductory epithet is present; Oroan’s actions and narrative
+    function are not included in this line range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8025-8030
+  quote_or_summary: Moonbeams, red camp-fires, deep gloom, and firefly flashes establish
+    a night grove setting.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8031-8034
+  quote_or_summary: Forest sounds from insects, reptiles, beasts, and birds are heard,
+    while the chat of men and boys resounds louder.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8035-8042
+  quote_or_summary: Speakers talk of stars moving east to west, meteors like flaming
+    arrows, and a fearful heavenly tale with a trailing gleaming light.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: quote
+  locator: lines 8043-8047
+  quote_or_summary: "“large dew-drops fall, / Which our red friends ‘star-moisture’
+    call.”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: lines 8048-8059
+  quote_or_summary: 'A speaker asks an elder: “O father! tell of Oroan, / The friend
+    of darkness, foe of man.”'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a clear framing scene for sky legends, but most motif identifications
+    remain tentative because the narrative content of the requested Oroan tale is
+    outside the excerpt. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied line range and metadata were used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l8025-l8059
+  passage_sha256=70442b2908263c02fe3aba44e131a7889c08f40ec292b9a4ad2a6e5a0f925a0e
+

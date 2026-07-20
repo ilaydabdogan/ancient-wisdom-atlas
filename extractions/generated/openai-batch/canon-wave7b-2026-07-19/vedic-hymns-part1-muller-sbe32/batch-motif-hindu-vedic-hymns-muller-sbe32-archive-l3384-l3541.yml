@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l3384-l3541
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: PREFACE TO THE FIRST EDITION. XXXV / XXXVI VEDIC HYMNS. / XXXVIII VEDIC HYMNS.
+    / PREFACE TO THE FIRST EDITION. XXXIX; lines 3384-3541
+  start: '3384'
+  end: '3541'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a philological preface discussing manuscript readings, the
+    preservation of the received Rig-veda text, and the place of conjectural emendation.
+    It then examines a recurring Vedic expression rendered as “what stands and what
+    moves,” citing verses involving Agni, protection of cattle, flocks, and descriptions
+    of lordship, creation, or guardianship over movable and immovable beings.
+  language: English with transliterated Sanskrit
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author argues that the received Rig-veda text should not be altered in
+    the main edition, even where conjectural corrections seem plausible.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The passage identifies a repeated expression translated as “what stands and
+    what moves” or “what is movable and what is immovable.”
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: obs:3
+  text: One cited verse says that what stands and what moves is afraid of Agni.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One cited verse says an unnamed figure lighted up what stands and what moves
+    during every night.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One cited verse asks for protection of cattle and what stands and moves.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One cited verse describes an unnamed figure as being within all that stands
+    and all that moves.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that a word discussed by the author can mean flock or movable
+    property, and gives examples of flocks being gathered, bestowed, and protected.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Other cited lines describe lordship, creation, and guardianship over all that
+    stands and moves.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named in a cited verse where what stands and what moves is said to
+    be afraid of Agni.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Pishan
+  description: Named in a cited prayer asking that Pishan protect the flock.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named figure feared by standing and moving beings
+  assigned_to:
+  - fig:1
+  basis: The cited translation states that what stands and what moves is afraid of
+    Agni.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: invoked protector of the flock
+  assigned_to:
+  - fig:2
+  basis: The cited translation asks Pishan to protect the flock.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: standing and moving totality
+  literal_form: what stands and what moves; movable and immovable
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: cattle and flock
+  literal_form: cattle; flock; movable property
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: nightly illumination
+  literal_form: lighted up what stands and what moves during every night
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Preservation of the received Vedic text
+  summary: The author distinguishes diplomatic criticism from independent criticism
+    and argues that conjectural readings should be kept below the received Vedic text
+    rather than inserted into it.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: All that stands and moves before Agni
+  summary: A cited Vedic line says that the totality described as what stands and
+    what moves is afraid of Agni.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Protection of cattle and flocks
+  summary: Cited lines ask for protection of cattle and what stands and moves, and
+    for Pishan to protect the flock.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: scene:4
+  label: Cosmic range of standing and moving beings
+  summary: Several cited lines describe an unnamed figure within all that stands and
+    moves, and other unnamed figures or groups as lord, creators, or guardians of
+    all that stands and moves.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: paired totality of standing and moving beings
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly cites formulas contrasting what stands with what moves,
+    or the movable with the immovable, as a way of describing a comprehensive field
+    of beings or things.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage is a philological discussion quoting fragments; it does not
+    present a continuous mythic narrative.
+- id: motif:2
+  label: protection of cattle and flocks
+  taxonomy_refs: []
+  basis: The passage cites requests to protect cattle and what stands and moves, and
+    to have Pishan protect the flock.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The examples are brief verse citations used for lexical and textual argument,
+    so the larger ritual or mythic context is not supplied.
+- id: motif:3
+  label: lordship, creation, and guardianship over movable and immovable beings
+  taxonomy_refs: []
+  basis: The passage cites lines describing a lord of both movable and immovable things,
+    creators of all that stands and moves, and guardians of all that stands and moves.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The named identities of the lord, creators, and guardians are not provided
+    in the quoted translations within this passage.
+comparison_claims:
+- id: claim:1
+  claim: Within the cited Rig-vedic examples, the repeated expression contrasting
+    standing and moving beings functions as a recurring formula for a comprehensive
+    totality.
+  claim_level: same_motif
+  target: Rig-vedic standing/moving or movable/immovable formula
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the cited Vedic passages and does not
+    establish broader historical contact or cross-cultural recurrence.
+- id: claim:2
+  claim: The passage links the cattle-protection wording to a nearby Brahmana discussion
+    that distinguishes fastened cattle from cattle allowed to roam, suggesting a contextual
+    parallel for fixed and moving animals.
+  claim_level: same_function
+  target: Satapatha-brahmana cattle distinction cited by the author
+  evidence_refs:
+  - ev:5
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The link is presented as a philological contextualization, not as a
+    full mythic parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3384-3541, opening discussion and paragraph beginning “But though
+    I insist...”
+  quote_or_summary: The author discusses manuscript readings and says independent
+    criticism should begin where diplomatic criticism ends, while still respecting
+    the received text.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 3384-3541, paragraph on the textus receptus
+  quote_or_summary: "“As the text has been handed down to us, so it should remain”;
+    conjectural readings should be placed below the Vedic text."
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 3384-3541, citation of Rig-veda I, 58, 5
+  quote_or_summary: "“What stands and what moves is afraid of Agni.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 3384-3541, citation of Rig-veda I, 68, 1
+  quote_or_summary: "“He lighted up what stands and what moves during every night.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 3384-3541, citation of Rig-veda I, 72, 6
+  quote_or_summary: "“Protect the cattle, and what stands and moves!”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 3384-3541, citation of Rig-veda I, 70, 2
+  quote_or_summary: "“He who is within all that stands and all that moves.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 3384-3541, discussion of aratha/caratha as flock or movable property
+  quote_or_summary: The author says the word means “flock, movable property” and cites
+    examples including “He brought together... the flocks,” “He bestowed flocks,”
+    and “May Pishan protect our flock!”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; brief combined excerpt.
+- id: ev:8
+  type: quote
+  locator: lines 3384-3541, citations of Rig-veda IV, 53, 6; VI, 50, 7; VII, 60, 2
+  quote_or_summary: Examples include “lord of both, of what is movable and what is
+    immovable,” “created all that stands and moves,” and “guardians of all that stands
+    and moves.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; brief combined excerpt.
+- id: ev:9
+  type: summary
+  locator: lines 3384-3541, citation of Satapatha-brahmana XI, 8, 3, 2
+  quote_or_summary: The author cites a Brahmana passage to note a distinction between
+    cattle fastened in stables and cattle allowed to roam in the homestead.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source metadata; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal philological content is clear, but the mythic extraction is limited
+    because the passage consists of scholarly commentary and short translated verse
+    fragments rather than a continuous myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference applied only where the repeated standing/moving contrast directly supports a duality pattern.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l3384-l3541
+  passage_sha256=eeb327576a2434be927a42dfdd5c373a21c53347f51c7bc47f68455c34a63f38
+

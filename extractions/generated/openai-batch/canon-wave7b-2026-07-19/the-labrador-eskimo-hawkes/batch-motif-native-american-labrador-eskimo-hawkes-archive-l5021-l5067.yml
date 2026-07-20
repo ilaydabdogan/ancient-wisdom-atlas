@@ -1,0 +1,385 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l5021-l5067
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: V             (M / HUNTING  LARGE  GAME. / HUNTING  SMALL  GAME. / FISHING.;
+    lines 5021-5067
+  start: '5021'
+  end: '5067'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Labrador Inuit fishing practices for salmon, trout,
+    cod, and tomcod, including seasonal timing, fish spears, miniature fish lures,
+    stream dams, hooks and lines, winter ice fishing, and drying methods.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Salmon and trout are described as the most important fish from a native standpoint,
+    and the people mainly depend on them.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the ice first breaks up, salmon spawn, and during the salmon run they
+    are taken in large numbers with a fish spear called kuqivuq.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fish spear has a long slender shaft, a triple prong, a central point,
+    and two side barbs.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The spear’s barbs are arranged so that after the center point pierces the
+    fish, the barbs spring out and hold it securely.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When salmon are not plentiful, a small ivory or stone miniature fish is used
+    as a lure.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Northern Labrador natives made dams across streams emptying into the sea,
+    shutting salmon off at low tide.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that it is not definitely known whether Labrador Eskimo
+    used fish nets before contact with whites.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: For trout, the Eskimo fish with a hook set into wood and bound with sinew;
+    older hooks are described as ivory or fish-bone.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The trout line is made of twisted sinew or whalebone fibre and wound on a
+    short notched pole when the fish is caught and hauled in.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Tomcod are caught through the ice in winter, and trout are split and dried
+    in the same manner as salmon.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Labrador Eskimo / Labrador Inuit fishers
+  description: The human collective described as depending on salmon and trout and
+    using spears, dams, hooks, lines, and winter ice fishing methods.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:2
+  name_or_label: Salmon
+  description: A principal fish on which the people depend; it spawns when the ice
+    breaks up and is taken by spear, lure, or stream dams.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Trout
+  description: A principal fish caught with hook and line and then split and dried
+    like salmon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:4
+  name_or_label: Tomcod
+  description: A fish caught through the ice in winter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: subsistence fishers and tool users
+  assigned_to:
+  - fig:1
+  basis: The passage describes the people using fish spears, dams, hooks, lines, and
+    ice fishing methods.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:2
+  label: primary food fish
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Salmon and trout are named as the most important fish from a native standpoint,
+    and the people mainly depend on them.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: winter ice-fishing catch
+  assigned_to:
+  - fig:4
+  basis: Tomcod are specifically described as caught through the ice in winter.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: fish spear
+  literal_form: Long shafted triple-pronged spear with central point and side barbs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: miniature fish lure
+  literal_form: Small ivory or stone miniature fish used as a lure
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: stream dam
+  literal_form: Dam made across streams emptying into the sea
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: hook and line
+  literal_form: Hook set into wood and bound with sinew, with a line of twisted sinew
+    or whalebone fibre
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: ice and seasonal water setting
+  literal_form: Breaking ice, streams, sea, low tide, and winter ice
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:10
+scenes:
+- id: scene:1
+  label: Salmon run spear fishing
+  summary: At the breakup of the ice, salmon spawn, and during the run fishers take
+    them with the kuqivuq fish spear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Use of miniature lure when salmon are scarce
+  summary: When salmon are not plentiful, fishers use a small ivory or stone miniature
+    fish as a lure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Stream dam trapping at low tide
+  summary: Northern Labrador natives make dams across streams emptying into the sea
+    so that salmon are shut off at low tide.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Trout hook-and-line fishing
+  summary: Fishers catch trout with a hook fastened to wood and sinew, using a line
+    wound on a short notched pole to haul in the fish.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Winter ice fishing and drying
+  summary: Tomcod are caught through winter ice, and trout are split and dried like
+    salmon.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: seasonal fishing and curing cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: 'The passage links fishing practices to seasonal conditions: ice breakup
+    and salmon spawning, low-tide stream trapping, winter tomcod fishing through ice,
+    and drying of trout and salmon.'
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:10
+  confidence: medium
+  cautions: This is an ethnographic subsistence pattern rather than a mythic narrative
+    motif; the taxonomy link is limited to the explicit seasonal sequence.
+- id: motif:2
+  label: miniature likeness used as lure
+  taxonomy_refs: []
+  basis: A small ivory or stone miniature fish is used as a lure when salmon are not
+    plentiful.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage describes a practical fishing lure and does not state ritual,
+    magical, or symbolic significance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5023-5028
+  quote_or_summary: Salmon and trout are named as the most important fish from a native
+    standpoint, and the people mainly depend on them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5028-5032
+  quote_or_summary: When the ice first breaks up, salmon spawn, and during the run
+    they are taken in large numbers with the fish spear kuqivuq.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5032-5038
+  quote_or_summary: The fish spear has a 12 to 15 foot shaft, widens near the end,
+    and has a triple prong with a central point and two side barbs.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5038-5044
+  quote_or_summary: Older spear parts are bone or ivory with antler or iron barbs;
+    modern ones are wood with iron barbs, and the barbs spring out to hold a pierced
+    fish.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 5044-5045
+  quote_or_summary: "“When salmon are not plentiful, a small ivory or stone miniature
+    fish is used as a lure.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 5048-5053
+  quote_or_summary: Northern Labrador natives made dams across streams emptying into
+    the sea, in which salmon were shut off at low tide.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5053-5058
+  quote_or_summary: The passage says it is not definitely known whether Labrador Eskimo
+    used fish nets before contact with whites.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5059-5063
+  quote_or_summary: For trout, the Eskimo use an iron hook set into wood and bound
+    with sinew; old hooks were made of ivory or fish-bones.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 5063-5065
+  quote_or_summary: The line is made of twisted sinew or whalebone fibre and wound
+    on a short notched pole when the fish is caught and hauled in.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 5065-5067
+  quote_or_summary: Tomcod are caught through the ice in winter, and trout are split
+    and dried like salmon.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is concrete ethnographic description, supporting high confidence
+    for tools, figures, and scenes. Motif extraction is more tentative because the
+    passage is not a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare these practices with other traditions or motif families beyond the explicit seasonal pattern.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l5021-l5067
+  passage_sha256=ddef166cc159459da4d28d03caca162125f93e224a82c0aa6b1c875c3793a379
+

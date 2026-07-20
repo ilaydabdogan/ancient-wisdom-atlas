@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l10838-l10866
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12 / BOOK 8; lines 10838-10866'
+  start: '10838'
+  end: '10866'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Arjuna fires many arrows at Karna, who cuts them down. Arjuna then launches
+    a fiery weapon whose light covers earth, sky, the directions, and the sun's course,
+    igniting warriors' robes and causing flight. Karna counters with the varunastra,
+    after which clouds, darkness, and water extinguish the conflagration and obscure
+    visibility.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Arjuna rubs his arms and the string of Gandiva and shoots showers of several
+    named kinds of shafts and arrows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Arjuna's arrows spread over the welkin and penetrate Karna's car, with the
+    passage comparing them to birds entering a tree to roost at evening.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Karna cuts off the successive showers of shafts shot by Arjuna with his own
+    arrows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Arjuna, called the son of Indra, sends a fiery weapon at Karna; the weapon
+    is described as capable of slaying all foes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The fiery weapon covers the earth, welkin, ten points of the compass, and
+    the course of the sun with effulgence, and Arjuna's own body blazes with light.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The robes of warriors catch fire, the warriors flee, and loud sounds arise
+    like a bamboo forest burning in a wilderness.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Karna shoots the varunastra in order to quench the fiery weapon, and the conflagration
+    is quenched by Karna's weapon.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A large mass of clouds envelops the directions in darkness; the clouds have
+    mountain-like extremities, flood the earth with water, and shroud the welkin and
+    directions so that nothing can be seen.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Arjuna / Partha / son of Pandu / son of Indra
+  description: A fierce bowman using Gandiva; he shoots many arrows at Karna and later
+    launches a fiery weapon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Karna / Suta's son
+  description: A warrior of great valour opposed to Arjuna; he cuts off Arjuna's arrows
+    and counters the fiery weapon with the varunastra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Warriors
+  description: A collective group whose robes catch fire and who flee from the fiery
+    weapon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Attacking archer and wielder of a fiery weapon
+  assigned_to:
+  - fig:1
+  basis: Arjuna fires showers of arrows and then sends a fiery weapon at Karna.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Counter-archer and wielder of the varunastra
+  assigned_to:
+  - fig:2
+  basis: Karna cuts off Arjuna's arrows and shoots the varunastra to quench the fire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Affected combatants fleeing fire
+  assigned_to:
+  - fig:3
+  basis: The warriors' robes take fire and they flee away.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Gandiva bow-string
+  literal_form: The string of Gandiva rubbed by Arjuna before shooting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Showers of arrows
+  literal_form: Cloth-yard shafts, Nalikas, boar's-ear-headed arrows, razor-headed
+    arrows, Anjalikas, crescent-shaped arrows, and Karna's counter-arrows.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Fiery weapon and conflagration
+  literal_form: A fiery weapon whose effulgence covers earth, sky, directions, and
+    the sun's course and causes robes to catch fire.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: Varunastra and quenching water
+  literal_form: Karna's varunastra, followed by clouds that flood the earth with water
+    and quench the conflagration.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: Mountain-like dark clouds
+  literal_form: Clouds with extremities like mountains that shroud the directions
+    and welkin in darkness.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Arrow exchange between Arjuna and Karna
+  summary: Arjuna shoots numerous arrows at Karna, and Karna cuts off the successive
+    shafts with his own arrows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Arjuna releases the fiery weapon
+  summary: Arjuna sends a fiery weapon that fills the battlefield and cosmic directions
+    with light, ignites warriors' robes, and causes the warriors to flee.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Karna quenches the fire with the varunastra
+  summary: Karna counters the fiery weapon with the varunastra; clouds, water, and
+    darkness follow, the conflagration is quenched, and visibility disappears.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: 'Elemental counterweapon: fire opposed by water'
+  taxonomy_refs:
+  - duality
+  basis: The passage sets Arjuna's fiery weapon and resulting conflagration against
+    Karna's varunastra, clouds, and water that quench it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage explicitly supports fire-water
+    opposition but does not name a formal motif category.
+- id: motif:2
+  label: Cosmic-scale battlefield fire
+  taxonomy_refs:
+  - world_destroying_fire
+  basis: The fiery weapon's effulgence covers earth, welkin, the ten compass points,
+    and the course of the sun, and it ignites warriors' robes.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The fire is a battlefield weapon and is quickly quenched; the passage
+    does not state that the world is destroyed.
+- id: motif:3
+  label: Darkness and obscured directions after supernatural weather
+  taxonomy_refs:
+  - chaos
+  basis: Clouds envelop all directions in darkness, shroud the welkin and directions,
+    and make nothing visible.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The darkness is an effect of Karna's counterweapon and clouds; the passage
+    does not explicitly frame it as primordial or cosmic chaos.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10838-10847
+  quote_or_summary: Arjuna rubs his arms and Gandiva's string, shoots many kinds of
+    arrows into Karna's car, and Karna cuts off all the successive showers of shafts
+    with his own arrows.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:2
+  type: summary
+  locator: 10849-10855
+  quote_or_summary: Arjuna, called the son of Indra, launches a fiery weapon whose
+    effulgence covers earth, sky, the compass points, and the sun's course; warriors'
+    robes catch fire and they flee amid loud burning sounds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:3
+  type: summary
+  locator: 10856-10858
+  quote_or_summary: Karna, the Suta's son, shoots the varunastra to quench the fiery
+    weapon, and the conflagration is quenched by his weapon.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:4
+  type: summary
+  locator: 10860-10866
+  quote_or_summary: Clouds quickly envelop the compass points in darkness; their extremities
+    resemble mountains, they flood the earth with water, and the welkin and directions
+    become shrouded so that nothing can be seen.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata supplied; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif candidates are
+    limited to broad taxonomy matches for elemental opposition, expansive fire, and
+    darkness; no separate comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and supplied taxonomy references; no external comparison or identification added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l10838-l10866
+  passage_sha256=b4061928ac0dac28a21247572c122a284c0594ff07237a4e1efa93ceb187205e
+

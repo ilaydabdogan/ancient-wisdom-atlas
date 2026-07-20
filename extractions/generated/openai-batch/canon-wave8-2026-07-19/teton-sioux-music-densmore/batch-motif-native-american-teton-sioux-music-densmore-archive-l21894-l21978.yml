@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l21894-l21978
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUFFALO-DANCE  SHIELD / BUFFALO   SOCIETT / BUBEAU  OF  AMERIGAK  ETHNOLOGY
+    / BUBEAU  OF  AMEBICAN   ETHNOLOGY; lines 21894-21978
+  start: '21894'
+  end: '21978'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives three Bureau of American Ethnology entries for Buffalo
+    Society songs, naming the singers Gray Hawk and Shooter and providing musicological
+    analysis of melody, intervals, renditions, drum rhythm, voice timing, and rhythmic
+    units.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage contains three entries titled Buffalo Society Song: item (a)
+    with Catalogue No. 549, item (b) with Catalogue No. 550, and item (c) with Catalogue
+    No. 577.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: Buffalo Society Song (a) is attributed as sung by Gray Hawk, and three renditions
+    were recorded.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The analysis of Buffalo Society Song (a) describes a minor melody, mostly
+    downward progressions, and a drum that precedes the voice at first but coincides
+    with it at the close.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Buffalo Society Song (b) is attributed as sung by Gray Hawk, and two renditions
+    were recorded.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The analysis of Buffalo Society Song (b) emphasizes ascending fifths, major
+    seconds, wavering intonation, rapid tempo, and a drum that is persistently slower
+    than the voice.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Buffalo Society Song (c) is attributed as sung by Shooter, and several uniform
+    renditions were recorded.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The analysis of Buffalo Society Song (c) describes a second five-toned scale,
+    small compass, mostly downward progressions, and a rhythmic unit that appears
+    twice, pauses, and then appears twice again.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage treats drum and voice as distinct musical components whose timing
+    can be compared within the songs.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Gray Hawk
+  description: Named singer of Buffalo Society Song (a) and Buffalo Society Song (b).
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Shooter
+  description: Named singer of Buffalo Society Song (c).
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Buffalo Society
+  description: Collective named in the titles of the three songs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The entries identify Gray Hawk and Shooter with the phrase indicating the
+    songs were sung by them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: named society associated with the songs
+  assigned_to:
+  - fig:3
+  basis: Each entry is titled as a Buffalo Society Song.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: buffalo
+  literal_form: The word “Buffalo” in the title “Buffalo Society Song.”
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: drum
+  literal_form: Drum-rhythm and drum accompaniment discussed in relation to the voice.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Buffalo Society Song (a) entry and analysis
+  summary: The passage identifies the song, catalog number, singer Gray Hawk, drum-rhythm
+    note, number of renditions, and details of melodic and drum-voice structure.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Buffalo Society Song (b) entry and analysis
+  summary: The passage identifies the song, catalog number, singer Gray Hawk, tempo
+    indication, interval features, renditions, and the slower drum relative to the
+    voice.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Buffalo Society Song (c) entry and analysis
+  summary: The passage identifies the song, catalog number, singer Shooter, voice
+    tempo indication, scale, melodic structure, repeated renditions, and rhythmic-unit
+    form.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Buffalo Society song performance
+  taxonomy_refs: []
+  basis: All three entries are titled Buffalo Society Song and are presented as sung
+    performances with named singers and recorded renditions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a musicological song-entry pattern, not a narrative myth motif;
+    the passage gives no mythic plot or ritual explanation.
+- id: motif:2
+  label: Drum and voice timing contrast
+  taxonomy_refs: []
+  basis: The analysis notes that in one song the drum precedes or seems to hurry the
+    voice before coinciding at the close, while in another song the drum is persistently
+    slower than the voice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage supports this as a musical-performance pattern only; no symbolic
+    meaning is stated.
+- id: motif:3
+  label: Repeated rhythmic unit with pause
+  taxonomy_refs: []
+  basis: The analysis of the third song describes two occurrences of a rhythmic unit,
+    a pause of one count, and then two further appearances of the unit.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a formal musical pattern, not a mythological motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the drum rhythm or drum-voice peculiarity
+    of Buffalo Society Song (a) with other songs in the same study or by the same
+    singer.
+  claim_level: same_function
+  target: No. 6 and other songs by Gray Hawk mentioned in the analysis
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to musical rhythm and performance timing
+    within the source; it does not establish a mythic motif, historical contact, or
+    broader cultural relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21894-21915
+  quote_or_summary: Entry for No. 101, Buffalo Society Song (a), Catalogue No. 549,
+    sung by Gray Hawk; the analysis describes three renditions, minor melody, downward
+    progressions, drum rhythm similar to No. 6, and drum/voice timing at the close.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 21916-21949
+  quote_or_summary: Entry for No. 102, Buffalo Society Song (b), Catalogue No. 550,
+    sung by Gray Hawk; the analysis describes ascending fifths, major seconds, wavering
+    intonation, rapid tempo, two renditions, a rhythmic unit, and a drum persistently
+    slower than the voice.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 21950-21978
+  quote_or_summary: Entry for No. 108, Buffalo Society Song (c), Catalogue No. 577,
+    sung by Shooter; the analysis describes a five-toned scale, small compass, mostly
+    downward progressions, uniform renditions, and a rhythmic unit repeated with a
+    one-count pause.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is straightforward for singers, song entries, and musical
+    patterns. Motif status is cautious because the passage is musicological and contains
+    no mythic narrative or stated symbolic interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR artifacts are present in the supplied passage. The printed item number for the third entry is retained as supplied.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l21894-l21978
+  passage_sha256=e39d1fd2396821ea2a95a748d472b8944644650438f7b8cc0d37c964afb0bd98
+

@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol1-archive-l6680-l6698
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+passage_locator:
+  label: SAKUNA-JATAKA. / TITTIRA-JATAKA. / BAKA-JATAKA. / C.  J.; lines 6680-6698
+  start: '6680'
+  end: '6698'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"this is not the first time this fellow has been cozened...; in the past
+    he was cozened in just the same manner."'
+  summary: 'The Master tells the brethren that a present-day fellow has previously
+    been deceived in the same way. He closes the lesson by connecting the story to
+    past births: the Jetavana robe-maker was the crane, the country robe-maker was
+    the crab, and the Master himself was the Tree-Fairy. An editorial note points
+    to other works for migrations of the popular story.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Master addresses the brethren and says the present event is not the first
+    time the fellow has been cozened by the robe-maker from the country.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Master states that in the past the same fellow was cozened in just the
+    same manner.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After ending the lesson, the Master shows the connection and identifies the
+    Birth.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Jetavana robe-maker is identified with the crane of the past story.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The robe-maker from the country is identified with the crab of the past story.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Master identifies himself with the Tree-Fairy.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The note names Benfey's Pañca-Tantra, Tawney's Kathā-Sarit-Sāgara, and Rhys
+    Davids' Birth Stories as places to see migrations of the popular story.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the Master
+  description: Speaker who addresses the brethren, ends the lesson, shows the connection,
+    identifies the Birth, and identifies himself as the Tree-Fairy.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: brethren
+  description: Audience addressed by the Master.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: this fellow / Jetavana robe-maker
+  description: Present figure said to have been cozened; identified with the crane
+    of the past story.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: robe-maker from the country
+  description: Present figure said to have cozened the fellow; identified with the
+    crab of the past story.
+  role_refs:
+  - role:4
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: crane
+  description: Past-story figure identified with the Jetavana robe-maker.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: crab
+  description: Past-story figure identified with the robe-maker from the country.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Tree-Fairy
+  description: Past-story figure with whom the Master identifies himself.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: teacher and identifier of the Birth
+  assigned_to:
+  - fig:1
+  basis: The Master gives the lesson, shows the connection, and identifies the Birth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: addressed audience
+  assigned_to:
+  - fig:2
+  basis: The Master addresses them as "Brethren."
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: deceived present-day figure
+  assigned_to:
+  - fig:3
+  basis: The Master says this fellow has been cozened by the robe-maker from the country.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deceiver in present account
+  assigned_to:
+  - fig:4
+  basis: The robe-maker from the country is named as the one by whom the fellow has
+    been cozened.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: past-birth identity of the Master
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: The Master says, "I myself" was the Tree-Fairy.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: past identity of the Jetavana robe-maker
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The Jetavana robe-maker is identified as the crane of those days.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: past identity of the country robe-maker
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The robe-maker from the country is identified as the crab.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Tree-Fairy
+  literal_form: Tree-Fairy
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: crane
+  literal_form: crane
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: crab
+  literal_form: crab
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Lesson and recollection of repeated deception
+  summary: The Master tells the brethren that the present deception repeats a deception
+    from the past.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Identification of the Birth
+  summary: 'The Master connects present figures with past-story beings: the Jetavana
+    robe-maker with the crane, the country robe-maker with the crab, and himself with
+    the Tree-Fairy.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Editorial comparison note
+  summary: The note directs readers to other named works for migrations of this popular
+    story.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Repeated deception across present and past births
+  taxonomy_refs: []
+  basis: The Master explicitly says the present cozening is not the first time and
+    that the same kind of cozening occurred in the past.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt gives only the closing explanation and not the full narrative
+    details of either deception.
+- id: motif:2
+  label: Identification of present persons with past-birth animal or spirit figures
+  taxonomy_refs: []
+  basis: The passage identifies present figures with a crane, a crab, and a Tree-Fairy
+    from the past story.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a Jātaka birth-identification pattern, but the available taxonomy
+    list does not include a specific Jātaka rebirth-identification category.
+- id: motif:3
+  label: Deceiver and deceived roles reversed or mirrored through animal figures
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The passage states that the country robe-maker cozened the fellow and then
+    identifies the parties with the crab and crane from the past story.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy reference is broad; the excerpt supports deception but does
+    not itself describe a full trickster episode or boundary-crossing action.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note treats this as a popular story with migrations attested
+    or discussed in Benfey's Pañca-Tantra, Tawney's Kathā-Sarit-Sāgara, and Rhys Davids'
+    Birth Stories.
+  claim_level: same_motif
+  target: Pañca-Tantra; Kathā-Sarit-Sāgara; Rhys Davids' Birth Stories
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt provides only an editorial cross-reference and does not
+    quote or summarize the parallel versions.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6682-6685
+  quote_or_summary: '"this is not the first time this fellow has been cozened by the
+    robe-maker from the country; in the past he was cozened in just the same manner."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 6685-6688
+  quote_or_summary: The Master "shewed the connexion, and identified the Birth," saying
+    that the Jetavana robe-maker was the crane, the country robe-maker was the crab,
+    and he himself was the Tree-Fairy.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short quotation and summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6690-6693
+  quote_or_summary: An editorial note refers readers to Benfey's Pañca-Tantra, Tawney's
+    Kathā-Sarit-Sāgara, and Rhys Davids' Birth Stories for migrations of the popular
+    story.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a brief closing identification and editorial note, so literal
+    relationships are clear but motif reconstruction is limited by absence of the
+    full story in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. OCR spelling irregularities in the supplied text were not normalized except where the passage itself clearly supplied conventional names in the locator or note.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol1-archive__l6680-l6698
+  passage_sha256=1c7f0f568caeb99001844de28e16b556dbccc3e0e535ac31e6f677f44c10452c
+

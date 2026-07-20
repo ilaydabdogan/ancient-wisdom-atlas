@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l1905-l1919
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: ELVES,    DWARFS.  467 / ELVES,   DWAEFS.  469 / ELVES,   DWAEFS.  471 /
+    PILWIZ,   BILWIT.  473; lines 1905-1919
+  start: '1905'
+  end: '1919'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses Polish and Slavic names connected with plica and
+    witchcraft, compares them linguistically with Germanic terms such as bilwiz, argues
+    against a Slavic origin for bilwiz, and distinguishes other names for a dwarf
+    and a Lithuanian wealth deity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Polish name for plica, besides koltun, is given as wieszczyce.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vulgar opinion is reported to ascribe plica to the magic of a wieszczka, described
+    as a wise woman or witch.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The author states that wieszczyce agrees with Germanic forms named in the
+    passage, including bilwiz.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author says that a compound meaning white witch or white fay would raise
+    suspicion of Slavic origin for bilwiz, but states that he cannot find such a compound.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author argues that bilwiz currently appears German in character, citing
+    the absence of the Slavic compound and the presence of Anglo-Saxon bilwit and
+    Netherlandish belwitte.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage distinguishes Slovenian paglawitz, glossed as dwarf, from the
+    discussed bilwiz group.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage also distinguishes Lithuanian Pilvitus or Pilwite, glossed as
+    a god or goddess of wealth.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The translator's note says Russian veshch has the same sound as wieszcz but
+    means thing, and expresses uncertainty about whether wieszczka may mean little
+    wiht.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: wieszczka
+  description: A wise woman or witch whose magic is popularly said to cause plica.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: paglawitz
+  description: A Slovenian term glossed as dwarf.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Pilvitus / Pilwite
+  description: A Lithuanian being glossed as a god or goddess of wealth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: witch or wise woman associated with magical affliction
+  assigned_to:
+  - fig:1
+  basis: The passage says vulgar opinion ascribes plica to the magic of a wieszczka,
+    described as wise woman or witch.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dwarf
+  assigned_to:
+  - fig:2
+  basis: The passage glosses Slovenian paglawitz as dwarf.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: wealth deity
+  assigned_to:
+  - fig:3
+  basis: The passage glosses Lithuanian Pilvitus or Pilwite as a god or goddess of
+    wealth.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: witchcraft as cause of plica
+  taxonomy_refs: []
+  basis: The passage reports a popular belief that plica is caused by the magic of
+    a wieszczka, a wise woman or witch.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents this as a vulgar opinion in an etymological discussion,
+    not as a full narrative motif.
+- id: motif:2
+  label: wealth deity named in comparative catalogue
+  taxonomy_refs: []
+  basis: The passage names Lithuanian Pilvitus or Pilwite as a god or goddess of wealth.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: Only a brief gloss is given; no mythic action or narrative pattern is
+    described.
+comparison_claims:
+- id: claim:1
+  claim: The passage proposes a linguistic agreement between Polish wieszczyce and
+    forms associated with bilwiz.
+  claim_level: linguistic_similarity
+  target: wieszczyce compared with tceichael-zopf and bilwiz-related forms
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is linguistic and lexical; the passage does not establish
+    a shared narrative motif.
+- id: claim:2
+  claim: The passage argues against deriving bilwiz from a Slavic compound meaning
+    white witch or white fay because such a compound is not found and Germanic parallels
+    are cited.
+  claim_level: linguistic_similarity
+  target: possible Slavic origin of bilwiz versus Germanic bilwit / belwitte parallels
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the author's philological judgment within the passage; no independent
+    evidence beyond the cited forms is provided here.
+- id: claim:3
+  claim: The passage distinguishes Slovenian paglawitz and Lithuanian Pilvitus or
+    Pilwite from the bilwiz etymological group by saying they seem of different origin.
+  claim_level: linguistic_similarity
+  target: paglawitz and Pilvitus / Pilwite compared with bilwiz-related terms
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns word origin, not demonstrated mythological continuity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1905-1906
+  quote_or_summary: Polish wieszczyce is named as another term for plica, and popular
+    opinion attributes it to the magic of a wieszczka, described as a wise woman or
+    witch.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: '1907'
+  quote_or_summary: The passage says wieszczyce agrees with a Germanic form rendered
+    in the text as tceichael-zopf and also with the -wiz/-weis element in bilwiz.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 1908-1910
+  quote_or_summary: The author says a compound meaning white witch or white fay, if
+    found, would suggest Slavic origin for bilwiz, but he cannot find it among Slavs.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 1910-1913
+  quote_or_summary: The author says bilwiz appears German in character because the
+    Slavic compound is absent and Anglo-Saxon bilwit and Netherlandish belwitte exist;
+    he adds that related word forms can be explained without borrowing.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 1914-1916
+  quote_or_summary: The passage states that Slovenian paglawitz, dwarf, and Lithuanian
+    Pilvitus or Pilwite, god or goddess of wealth, seem to be of different origin.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 1916-1919
+  quote_or_summary: The translator notes that Russian veshch sounds like wieszcz but
+    means thing, and expresses uncertainty whether wieszczka may mean little wiht.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is primarily philological. The witchcraft-affliction pattern
+    is explicit but brief; other mythological material is limited to lexical glosses.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not clearly support one.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l1905-l1919
+  passage_sha256=3992c3635185bf6bf55a9b56f89069905a5dceb909ad0a6f3759174aa214a658
+

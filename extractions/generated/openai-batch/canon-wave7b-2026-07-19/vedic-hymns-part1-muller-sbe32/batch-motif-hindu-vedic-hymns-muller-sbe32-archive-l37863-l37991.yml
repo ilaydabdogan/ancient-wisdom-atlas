@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l37863-l37991
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: INDEX OF WORDS. / VI, 66, 1. / HYMNS. / INDEX OF WORDS.; lines 37863-37991
+  start: '37863'
+  end: '37991'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A section of an index of words lists Sanskrit terms with English glosses
+    and hymn references. The entries include terms for kingship, hidden place, chariot-sharing,
+    named rivers, lake, drove of cows, libation and Soma offering, same age, sleep,
+    conquest, strength, thousandfold qualities, ridge, song, and heat.
+  language: English with Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index of words that gives Sanskrit lemmas, English glosses,
+    and citations to Vedic hymn passages.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One entry glosses a term as “king,” and another glosses a term as “the hidden
+    place.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One entry glosses a form as “on the same chariot.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Sarayu is identified as a river, Sarasvati is identified as a river, and saras
+    is glossed as a lake.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A drove is specified in connection with cows.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The term savana is glossed as “libation,” with one cited form described as
+    occurring “in the Soma offering.”
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The term sa-vayas is glossed as “of the same age.”
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: An entry for sleep includes the comparison “as a lover (wakes) a sleeping
+    maid.”
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Several entries concern resisting, conquering, victory, and strength.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Several entries use the number or quality “thousand,” including “thousand,”
+    “thousand-edged,” and “thousandfold.”
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A ridge is listed, including forms connected with heaven; entries for song
+    and heat also appear.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sarayu
+  description: A named river listed in the index.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Sarasvati
+  description: A named river listed in the index.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: lover
+  description: A lover mentioned in the indexed comparison involving waking a sleeping
+    maid.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: sleeping maid
+  description: A sleeping maid mentioned in the indexed comparison involving a lover
+    waking her.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named river
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The index identifies Sarayu and Sarasvati as rivers.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: waker in simile
+  assigned_to:
+  - fig:3
+  basis: The indexed phrase compares an action to a lover waking a sleeping maid.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: sleeping figure in simile
+  assigned_to:
+  - fig:4
+  basis: The indexed phrase describes a sleeping maid in the comparison.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water places
+  literal_form: Rivers Sarayu and Sarasvati, and a lake glossed by saras.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Soma libation
+  literal_form: Libation in the Soma offering.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: shared chariot
+  literal_form: A form glossed as “on the same chariot.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: ritual libation or Soma offering
+  taxonomy_refs:
+  - sacrifice
+  basis: The index explicitly glosses savana as a libation and notes a form used in
+    the Soma offering.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage is an index entry rather than a narrated ritual scene; the
+    broader sacrificial context is only signaled by the words “libation” and “Soma
+    offering.”
+- id: motif:2
+  label: awakening a sleeping beloved-like figure
+  taxonomy_refs: []
+  basis: The indexed phrase includes a comparison in which a lover wakes a sleeping
+    maid.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only a brief indexed comparison is present; the passage does not provide
+    a full narrative or identify the figures as divine or mythic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 37863-37886
+  quote_or_summary: Index entries include “sam-rag, king,” “sam-varana, the hidden
+    place,” and “sa-ratham, on the same chariot.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 37887-37908
+  quote_or_summary: Entries identify “Sarayu, the river S.,” “saras, lake,” “Sarasvati,
+    the river,” and “sarga, drove” with cows.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 37909-37929
+  quote_or_summary: Entries include “savana, libation,” “in the Soma offering,” “sa-vayas,
+    of the same age,” and “as a lover (wakes) a sleeping maid.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 37930-37958
+  quote_or_summary: The index lists terms glossed or explained with resisting, conquering,
+    victory, strength, strong, giver of victory, and bravest.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 37959-37976
+  quote_or_summary: The index lists terms related to “thousand,” including thousand,
+    thousand-edged, thousandfold, and winning a thousand.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 37977-37991
+  quote_or_summary: The index lists a ridge, song, cleverness in song, and a term
+    glossed as full of heat.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Extraction is limited because the supplied passage is an index of words rather
+    than a mythic or ritual narrative. Motif candidates are therefore tentative and
+    based only on explicit glosses.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical or cross-cultural comparison claims were added because the passage itself does not provide comparative framing.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l37863-l37991
+  passage_sha256=4148bec65e410c9895b757fe827bb6d7a062c584d0f4ef4984305e7d3b10fd39
+

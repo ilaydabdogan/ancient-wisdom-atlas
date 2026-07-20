@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.caucasian-folk-tales-dirr-menzies-archive-l11611-l11642
+source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+passage_locator:
+  label: SOLOMON THE WISE 27I / SOLOMON THE WISE 273 / ALEXANDER THE GREAT 275 / IX.-KNAVISH
+    TRICKS; lines 11611-11642
+  start: '11611'
+  end: '11642'
+  translation: Caucasian Folk-Tales
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A tale section headed as knavish tricks introduces Peter, the son of a
+    dead thief, who asks his uncle Simon to teach him his father’s trade. Simon tests
+    him by demonstrating how to pull a feather from a dove in a tree unnoticed, but
+    Peter secretly removes Simon’s underclothing during the demonstration. Impressed,
+    Simon proposes stealing from the king’s treasury; they break in at night and take
+    money, and the thief is not found the next day.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is in a section titled as knavish tricks and the tale is titled
+    “The Skilful Thief.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Iwane and Simon are described as two brothers, and both are thieves; Iwane
+    dies leaving a seven-year-old son named Peter.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Simon has brought Peter up, and Peter says he wants to learn his father’s
+    trade.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'Simon identifies Peter’s father’s trade as theft and sets Peter an initial
+    task: pull a feather from a bird in a tree without the bird noticing.'
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In a wood, Simon climbs a tree and pulls a feather from a dove sitting there.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: While Simon is intent on pulling the feather, Peter removes Simon’s underclothing
+    without Simon noticing.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Simon is astonished and proposes that Peter steal money from the king’s treasury;
+    Peter agrees, and they break into the treasury at night and take much money.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The theft is noticed the next day; the thief is sought without success, and
+    the king is indignant.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Iwane
+  description: One of two brothers; a thief; Peter’s father, who dies before the main
+    apprenticeship episode.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Simon
+  description: Iwane’s brother and Peter’s uncle; a thief who raised Peter, demonstrates
+    the feather task, and proposes stealing from the king’s treasury.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Peter
+  description: Iwane’s son, left at seven years old and raised by Simon; he asks to
+    learn his father’s trade, secretly removes Simon’s underclothing, and joins the
+    treasury theft.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: The king
+  description: The royal figure associated with the treasury; after the theft is noticed,
+    he is indignant.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: The dove
+  description: A bird sitting in a tree from which Simon pulls a feather.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: brother-thief
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that Iwane and Simon are two brothers and that both are
+    thieves.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: deceased father whose trade is requested
+  assigned_to:
+  - fig:1
+  basis: Iwane dies leaving Peter, and Peter later asks to learn the trade of his
+    father.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: uncle, guardian, and instructor in theft
+  assigned_to:
+  - fig:2
+  basis: Simon has brought Peter up, tells him his father was a thief, sets a training
+    task, and demonstrates it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: apprentice thief who outdoes the instructor
+  assigned_to:
+  - fig:3
+  basis: Peter asks to learn the thief’s trade and removes Simon’s underclothing unnoticed
+    while Simon is performing his own stealth demonstration.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: royal victim or offended authority
+  assigned_to:
+  - fig:4
+  basis: Money is stolen from the king’s treasury, and the king becomes indignant
+    when the theft is discovered.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: test bird
+  assigned_to:
+  - fig:5
+  basis: The dove is the bird from which Simon removes a feather as part of the test
+    or demonstration.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: tree in the wood
+  literal_form: tree
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: feather
+  literal_form: feather pulled from a bird or dove
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: dove
+  literal_form: dove sitting in a tree
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: underclothing
+  literal_form: Simon’s underclothing removed from his body
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: king’s treasury
+  literal_form: treasury containing money stolen by Peter and Simon
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: night
+  literal_form: nighttime setting for the break-in
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Peter asks for his father’s trade and receives a first task
+  summary: Peter tells Simon that he wants to learn his father’s trade; Simon identifies
+    that trade as theft and tells him to pull a feather from a bird in a tree without
+    the bird noticing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Simon’s feather demonstration and Peter’s counter-theft
+  summary: Simon climbs a tree in a wood and pulls a feather from a dove, but Peter
+    uses the moment to remove Simon’s underclothing without being noticed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Treasury burglary and failed pursuit
+  summary: After Simon is astonished by Peter’s skill, he proposes stealing from the
+    king’s treasury. They break in at night and take money; the theft is noticed the
+    next day, but the thief is not found and the king is indignant.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: skilled thief apprenticeship
+  taxonomy_refs: []
+  basis: The tale title, Peter’s request to learn his father’s thief-trade, Simon’s
+    training task, and Peter’s successful unnoticed theft all center on learning and
+    demonstrating thieving skill.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: Motif label is descriptive; no external motif-index number is asserted.
+- id: motif:2
+  label: apprentice outdoes the instructor by stealth
+  taxonomy_refs: []
+  basis: Simon demonstrates stealth by removing a feather from a dove, but Peter simultaneously
+    removes Simon’s underclothing without being noticed, causing Simon’s astonishment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage supports the local pattern clearly, but no broader historical
+    comparison is made here.
+- id: motif:3
+  label: test of theft as initiation into a trade
+  taxonomy_refs:
+  - initiation
+  basis: Simon frames the feather task as Peter’s first exercise for learning the
+    thief’s trade.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is used only in the secular sense of an apprenticeship
+    test; the passage does not describe a ritual or sacred initiation.
+- id: motif:4
+  label: night burglary of a royal treasury
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Simon and Peter go at night to the king’s treasury, break in, take much money,
+    and are not found the next day.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage presents a criminal or knavish trick rather than an explicitly
+    sacred or heroic boundary-crossing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 11611-11613
+  quote_or_summary: "“IX.-KNAVISH TRICKS” / “73. THE SKILFUL THIEF.”"
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:2
+  type: summary
+  locator: 11615-11618
+  quote_or_summary: Iwane and Simon are introduced as two brothers and thieves; Iwane
+    dies and leaves a seven-year-old son named Peter, whom Simon raises.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11618-11623
+  quote_or_summary: Simon asks Peter what he wants to be; Peter wants his father’s
+    trade, and Simon says the father was a thief and assigns the first task of pulling
+    a feather from a bird in a tree unnoticed.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11624-11626
+  quote_or_summary: Simon and Peter go to a wood, where Simon climbs a tree and pulls
+    a feather from a dove sitting there.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 11626-11632
+  quote_or_summary: While Simon is focused on pulling the feather, Peter removes Simon’s
+    underclothing without being noticed and later tells him so.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 11632-11637
+  quote_or_summary: Astonished by Peter, Simon proposes stealing money from the king’s
+    treasury; Peter agrees, and at night they break in and take much money.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 11639-11640
+  quote_or_summary: The theft is noticed the next day; the thief is sought in vain,
+    and the king is very indignant.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are descriptive and
+    limited to the provided passage; taxonomy links are approximate where used. No
+    comparison claims are made because the passage itself supplies no comparative
+    frame.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external motif index or comparative corpus data was added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:caucasian-folk-tales-dirr-menzies-archive__l11611-l11642
+  passage_sha256=cc226018944654922ce484c1e28a31e488c87e7b9dd61457d8ba230d21e22de1
+

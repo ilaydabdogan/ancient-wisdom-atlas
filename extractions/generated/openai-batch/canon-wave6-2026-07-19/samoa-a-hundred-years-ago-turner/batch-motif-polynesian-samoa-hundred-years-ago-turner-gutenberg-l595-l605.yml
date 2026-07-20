@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.polynesian-samoa-hundred-years-ago-turner-gutenberg-l595-l605
+source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+passage_locator:
+  label: POSITION OF THE ISLANDS--EARLY VISITORS AND TRADITIONARY ORIGIN. / CHAPTER
+    II. / SAMOA. / CHAPTER III.; lines 595-605
+  start: '595'
+  end: '605'
+  translation: Samoa, A Hundred Years Ago And Long Before
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: only those were admitted who had contributed a white mat
+  summary: At the marriage of Langituavalu and Lu, Tangaloa commands his people to
+    contribute fine white mats for a dowry. A feast is held, but admission is limited
+    to those who contributed a mat. Non-contributors remain outside, disappointed,
+    hearing the music from a distance.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A marriage of Langituavalu and Lu is described.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tangaloa orders all his people to contribute one fine white mat each.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The contributed fine white mats are to form a dowry.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A great feast is provided.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Admission to the feast is limited to those who contributed a white mat.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Many people who had not obtained or contributed a white mat remain outside,
+    disappointed, and hear the music from outside and at a distance.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Langituavalu
+  description: One of the two named persons whose marriage is described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Lu
+  description: One of the two named persons whose marriage is described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tangaloa
+  description: Named figure who orders his people to contribute mats.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Tangaloa's people
+  description: The people ordered to contribute one fine white mat each.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: contributors of white mats
+  description: Those who contributed a white mat and were admitted to the feast.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: non-contributors outside the feast
+  description: People who had not made the effort to get the white mat and therefore
+    remained outside the celebration.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: marriage participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage names Langituavalu and Lu in connection with a marriage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: commander of contributions
+  assigned_to:
+  - fig:3
+  basis: Tangaloa orders his people to contribute mats.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ordered contributors
+  assigned_to:
+  - fig:4
+  basis: Tangaloa's people are ordered to contribute one fine white mat each.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: admitted feast participants
+  assigned_to:
+  - fig:5
+  basis: Only those who had contributed a white mat were admitted.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: excluded non-contributors
+  assigned_to:
+  - fig:6
+  basis: Those who had not obtained the white mat are described as outside and disappointed.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fine white mat
+  literal_form: One fine white mat contributed by each person for the dowry.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: dowry
+  literal_form: The dowry formed from the contributed fine white mats.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: feast
+  literal_form: A great feast provided at the marriage celebration.
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: music heard from outside
+  literal_form: Music of the celebration heard only from outside and in the distance
+    by non-contributors.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Marriage dowry contribution
+  summary: At the marriage of Langituavalu and Lu, Tangaloa orders his people to contribute
+    fine white mats to form a dowry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Restricted feast
+  summary: A great feast is provided, and only contributors of a white mat are admitted.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Non-contributors outside
+  summary: Many non-contributors remain outside the celebration, regret not getting
+    a white mat, and hear the music from a distance.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: marriage dowry formed by communal contributions
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage links a marriage, a dowry, and ordered contributions of fine
+    white mats from Tangaloa's people.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt does not explicitly describe the exchange as sacred; the taxonomy
+    link is functional and should be reviewed.
+- id: motif:2
+  label: feast admission conditioned on ritual contribution
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Access to the feast depends on having contributed a white mat, while non-contributors
+    are excluded.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a social admission rule but does not provide wider ritual
+    context.
+comparison_claims:
+- id: claim:1
+  claim: The white-mat contribution functions as an exchange requirement connected
+    to marriage, dowry, and feast access, making it cautiously comparable to a sacred-exchange
+    motif family at the level of function.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage alone does not establish historical contact, common inheritance,
+    or a fully sacred interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 595-598
+  quote_or_summary: At the marriage of Langituavalu and Lu, Tangaloa orders all his
+    people to contribute one fine white mat each to form a dowry.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 598-600
+  quote_or_summary: A great feast was provided, and only those who had contributed
+    a white mat were admitted.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:3
+  type: summary
+  locator: lines 600-604
+  quote_or_summary: On the festive day, many who had not obtained the white mat are
+    outside, disappointed, and can only listen to the music from outside and at a
+    distance.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif and comparison labels are functional
+    and limited by the short excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or interpretations beyond the supplied passage and metadata were added. The pronoun in 'her dowry' is not assigned to a named figure because the excerpt does not make the antecedent explicit.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:polynesian-samoa-hundred-years-ago-turner-gutenberg__l595-l605
+  passage_sha256=b3f14ea779918c26f6820de21d4cbe622741ded9c34644db5050c7fe40ad02a3
+

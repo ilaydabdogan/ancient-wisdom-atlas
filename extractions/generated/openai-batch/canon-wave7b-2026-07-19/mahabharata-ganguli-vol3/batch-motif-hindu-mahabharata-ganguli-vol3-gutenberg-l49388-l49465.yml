@@ -1,0 +1,341 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l49388-l49465
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXLIV / SECTION CCXLV / SECTION CCXLVI / SECTION CCXLVII; lines
+    49388-49465
+  start: '49388'
+  end: '49465'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Suka asks Vyasa to explain Adhyatma. Vyasa answers by describing the five
+    great entities as the components of creatures and the universe, mapping them to
+    senses and attributes, and explaining the roles of mind, understanding, soul,
+    and the three qualities Sattwa, Rajas, and Tamas.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Suka asks Vyasa to discourse more elaborately on Adhyatma and to explain what
+    it is and whence it comes.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vyasa names earth, water, light, wind, and space as the great entities that
+    form the component parts of all creatures.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Vyasa says the universe of mobile and immobile objects has these five entities
+    as component parts, and that creation and destruction are referable to the fivefold
+    entity.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Vyasa states that the Creator of all things made an unequal distribution of
+    the five entities for different ends.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Vyasa assigns sound, hearing, and bodily cavities to space; vital breaths,
+    limb action, and touch to wind; form, eyes, and digestive fire to light; taste,
+    tongue, and humours to water; and scent, nose, and body to earth.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Vyasa says the Understanding creates the senses and withdraws them into itself,
+    using a tortoise extending and withdrawing its limbs as the comparison.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Vyasa says that in a human being there are five senses, with mind as the sixth,
+    Understanding as the seventh, and Soul as the eighth.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Vyasa says the Soul witnesses every operation without mingling with those
+    operations.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Vyasa names Rajas, Tamas, and Sattwa as attributes that exist in creatures
+    and are known by the actions they induce.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Vyasa associates Sattwa with tranquil and joyful states, Rajas with sorrow
+    and qualities such as pride and cupidity, and Tamas with stupefaction, sleep,
+    lethargy, and indolence.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Suka
+  description: Speaker who asks for an elaborate discourse on Adhyatma.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Vyasa
+  description: Speaker who answers Suka and explains Adhyatma, the five entities,
+    senses, Understanding, Soul, and the three qualities.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Creator of all things
+  description: Agent said to have made an unequal distribution of the five entities
+    in different things for different ends.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioner about Adhyatma
+  assigned_to:
+  - fig:1
+  basis: Suka asks what Adhyatma is and whence it comes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: philosophical instructor
+  assigned_to:
+  - fig:2
+  basis: Vyasa answers Suka by expounding the components of beings, senses, Understanding,
+    Soul, and qualities.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: creator and distributor of entities
+  assigned_to:
+  - fig:3
+  basis: The Creator is said to have distributed the five entities unequally for different
+    ends.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: five great entities
+  literal_form: earth, water, light, wind, and space
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: ocean waves as differentiated unity
+  literal_form: waves of the ocean
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tortoise extending and withdrawing limbs
+  literal_form: a tortoise stretching out its limbs and withdrawing them again
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: digestive fire
+  literal_form: digestive fire within the stomach
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: three qualities
+  literal_form: Rajas, Tamas, and Sattwa
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Suka requests explanation of Adhyatma
+  summary: Suka addresses Vyasa and asks him to explain Adhyatma more fully, including
+    what it is and its source.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Five entities and cosmic composition
+  summary: Vyasa explains that earth, water, light, wind, and space compose creatures
+    and the universe, while being one in substance like ocean waves; he also mentions
+    the Creator's unequal distribution of them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mapping of entities to senses and faculties
+  summary: Vyasa maps the five entities to senses, sense-objects, bodily features,
+    and faculties, and describes Understanding as creating and withdrawing the senses
+    while Soul witnesses operations.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Three qualities and their effects
+  summary: Vyasa explains Sattwa, Rajas, and Tamas as attributes known by the actions
+    or states they induce, associating each with particular mental and bodily conditions.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom discourse on Adhyatma
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is structured as Suka's question and Vyasa's extended doctrinal
+    answer about Adhyatma, senses, Understanding, Soul, and qualities.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is philosophical instruction rather than a narrative adventure
+    episode.
+- id: motif:2
+  label: five-element constitution and dissolution
+  taxonomy_refs: []
+  basis: Vyasa states that all creatures and the mobile and immobile universe are
+    composed of five great entities and that creation and destruction are referable
+    to them.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No exact available taxonomy family corresponds to elemental cosmology.
+- id: motif:3
+  label: manifestation and withdrawal of faculties
+  taxonomy_refs: []
+  basis: The passage twice uses the tortoise image for extension and withdrawal, first
+    for the great entities in creation and destruction and then for Understanding
+    creating and withdrawing the senses.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is an explanatory simile within metaphysical teaching, not an independent
+    narrative motif.
+- id: motif:4
+  label: tripartite qualities governing states of being
+  taxonomy_refs: []
+  basis: Vyasa classifies states and actions under Sattwa, Rajas, and Tamas, linking
+    each quality to specific mental and bodily conditions.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No matching taxonomy reference is supplied for the three-guna classification.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 49388-49394
+  quote_or_summary: Suka asks Vyasa to explain Adhyatma more elaborately, asking what
+    it is and whence it comes.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain text; metadata indicates full text and training use allowed.
+- id: ev:2
+  type: summary
+  locator: lines 49395-49410
+  quote_or_summary: Vyasa names earth, water, light, wind, and space as the component
+    entities of creatures and the universe, compares differentiated unity to ocean
+    waves, uses a tortoise image for transformation, and says the Creator distributed
+    the entities unequally.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain text; metadata indicates full text and training use allowed.
+- id: ev:3
+  type: summary
+  locator: lines 49411-49430
+  quote_or_summary: Vyasa maps space, wind, light, water, and earth to sound/hearing/cavities,
+    vital breaths/touch/action, form/eyes/digestive fire, taste/tongue/humours, and
+    scent/nose/body.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain text; metadata indicates full text and training use allowed.
+- id: ev:4
+  type: summary
+  locator: lines 49431-49446
+  quote_or_summary: Vyasa says Understanding creates and withdraws the senses like
+    a tortoise with its limbs; he numbers mind, Understanding, and Soul after the
+    five senses, and describes Soul as a witness.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain text; metadata indicates full text and training use allowed.
+- id: ev:5
+  type: summary
+  locator: lines 49447-49465
+  quote_or_summary: Vyasa explains Rajas, Tamas, and Sattwa as attributes known by
+    their induced actions and lists states associated with each quality.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain text; metadata indicates full text and training use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit philosophical instruction with clear speakers and
+    concepts. Motif labels beyond wisdom and elemental cosmology require review because
+    the available taxonomy has no exact entries for several doctrinal patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make an external comparative claim beyond internal similes.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l49388-l49465
+  passage_sha256=abb648a568f46ed4af6e98f52c5cb2267fb074fa953e0361031c90ac0168e330
+

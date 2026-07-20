@@ -1,0 +1,179 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l1378-l1460
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: THUS THERE RESULTS AS THE PROBABLE YEAH, OF THE / XXXVI / Y. M. D. / Y. M.
+    D.; lines 1378-1460
+  start: '1378'
+  end: '1460'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    Interregnum .
+    Panduvasudeva
+    Abhaya . . .
+    Interregnum .
+    Pandukabhaya .
+    Mutasiva . . .
+  summary: The passage is a tabular chronological section containing year/month/day
+    headings, numerical entries, references to passages, and a sequence of named rulers
+    or periods including Vijaya, interregna, Panduvasudeva, Abhaya, Pandukabhaya,
+    and Mutasiva.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is arranged as a table or chronological list with headings such
+    as “Y. M. D.” and many numerical entries.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The name “Vijava” appears with adjacent numerical references.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sequence near the end lists “Interregnum,” “Panduvasudeva,” “Abhaya,”
+    another “Interregnum,” “Pandukabhaya,” and “Mutasiva.”
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note says that passages should be seen in Dip. and Mah., p. 120.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A second note says the table was drawn up to help readers of the translation
+    take a rapid survey.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Vijava
+  description: A named entry in the chronological table, probably representing a ruler
+    or figure as listed in the source passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Panduvasudeva
+  description: A named entry in the chronological sequence following an interregnum.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Abhaya
+  description: A named entry in the chronological sequence after Panduvasudeva.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Pandukabhaya
+  description: A named entry in the chronological sequence after an interregnum.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Mutasiva
+  description: A named entry in the chronological sequence after Pandukabhaya.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: listed chronological figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The figures appear as names in a chronological table or succession list with
+    dates and interregna.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: royal or political succession chronology
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage lists named figures and interregna in a chronological sequence,
+    suggesting a succession framework rather than a narrative episode.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: low
+  cautions: The passage is tabular and introductory, not a mythic narrative. It does
+    not explicitly state divine sanction, kingship ideology, or legitimacy claims;
+    the taxonomy reference is approximate and needs human review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1378-1460
+  quote_or_summary: The passage contains repeated “Y. M. D.” headings and many numerical
+    entries arranged in a tabular format.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 1378-1460
+  quote_or_summary: "“Vijava .” followed by numerical entries including “9.42,” “11.9,”
+    “10.5,” and others."
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 1378-1460
+  quote_or_summary: "“Interregnum . / Panduvasudeva / Abhaya . . . / Interregnum .
+    / Pandukabhaya . / Mutasiva . . .”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 1378-1460
+  quote_or_summary: "“For.the passages see Dip. and Mah., p. 120.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 1378-1460
+  quote_or_summary: A note says the author drew up a table to allow readers of the
+    translation to take a rapid survey.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is mostly a damaged or OCR-affected table from the introduction.
+    Named entries and a succession-like sequence are visible, but narrative motifs
+    and symbolic content are minimal.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbolic objects, narrative scenes, or comparison claims were extracted because the supplied passage is primarily chronological and tabular.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l1378-l1460
+  passage_sha256=db2098329183441efd684cbdb5035c4266fcf0c3bb58a5fa617a79f38ac29a5e
+

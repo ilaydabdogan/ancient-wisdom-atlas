@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l9243-l9314
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: BIRCH-BARK CANOE, NENENOT, KOKSOAK RIVER PATTERN / DURE AU OF ETHNOLOGY ELEVENTH
+    ANNUAL REPORT / BURFAU OF ETHNOLOGY ELEVENTH ANNUAL REPORT PL. XL / TURNER. SNOW
+    SHOES. 311; lines 9243-9314
+  start: '9243'
+  end: '9314'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Nenenot snowshoe forms, especially the “beaver-tail”
+    and single-bar types, with instructions on foot straps, comfort, dimensions, use
+    in walking or running, and care needed to avoid injury or to ascend hills.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes a plate or caption identifying a Nenenot snowshoe called
+    “beaver-tail.”
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The toe loop of a snowshoe strap is described as needing enough slack for
+    free foot movement while preventing the foot from pushing too far forward.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The heel strap is described as being passed around the wearer’s heel and tied
+    tightly enough for ease and comfort.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A strap that is too tight presses the tendon of the heel, while one that is
+    too loose drops down and allows the toe to slip from under the toe band.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Single-bar snowshoes are said to be uncommon because they are somewhat difficult
+    to make.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'Two single-bar styles are described: one with the bar under the center of
+    the foot and another with the bar at the front of the toes.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The single-bar style with the bar at the front of the toes is said to differ
+    from the “beaver-tail” style only by lacking a heel bar.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The largest snowshoes described measure up to 28 inches across and 3 feet
+    in length.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Some Indians are described as becoming very expert with the snowshoes and
+    able to run rapidly with them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The width of the shoes requires the user to straddle widely so that one snowshoe
+    can pass above and over the other.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage warns that the rear snowshoe frame can strike the ankle and cause
+    a serious bruise if care is not taken.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: In ascending a hill, the toe is described as needing to elevate the snowshoe.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: snowshoe wearer
+  description: A person whose foot is fitted with toe and heel straps on the snowshoe.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: some Indians
+  description: People described as acquiring great expertness in using the snowshoes
+    and running rapidly with them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Nenenot
+  description: The group name associated in the caption with the “beaver-tail” snowshoe.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: wearer
+  assigned_to:
+  - fig:1
+  basis: The passage describes how the strap is placed around the heel of the wearer
+    and adjusted for comfort.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: expert snowshoe users
+  assigned_to:
+  - fig:2
+  basis: The passage says some Indians acquire great expertness in the use of these
+    snowshoes and can run rapidly with them.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: associated group in object caption
+  assigned_to:
+  - fig:3
+  basis: The caption names the object as a Nenenot snowshoe.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Nenenot “beaver-tail” snowshoe
+  literal_form: Snowshoe identified by the caption as “beaver-tail.”
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: single-bar snowshoe
+  literal_form: Snowshoe type with a single bar either under the center of the foot
+    or at the front of the toes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: toe and heel straps
+  literal_form: Loops or straps placed over the toes and around the heel to secure
+    the foot to the snowshoe.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: fitting the snowshoe straps
+  summary: The passage explains how toe and heel straps should be adjusted to hold
+    the wearer’s foot comfortably and securely without excessive pressure or looseness.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: describing single-bar snowshoe forms
+  summary: The passage distinguishes two single-bar snowshoe styles and compares the
+    front-bar form to the “beaver-tail” style by noting the absence of a heel bar.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: using snowshoes in movement
+  summary: The passage describes skilled users running with snowshoes, straddling
+    widely because of their width, avoiding ankle injury, and elevating the snowshoe
+    while ascending a hill.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9243-9314, plate/caption area
+  quote_or_summary: "“NENENOT SNOWSHOE ‘BEAVER-TAIL.’”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 9243-9314, strap-fitting description
+  quote_or_summary: The toe loop should allow movement but prevent the foot from pushing
+    too far forward; the heel strap is tied for comfort, with warnings about too-tight
+    or too-loose fastening.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9243-9314, single-bar snowshoe description
+  quote_or_summary: Single-bar snowshoes are described as less used and difficult
+    to make; one style has a bar under the center of the foot, and another has a bar
+    at the front of the toes and lacks the heel bar of the “beaver-tail” style.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9243-9314, size statement
+  quote_or_summary: The largest snowshoes are stated to measure as much as 28 inches
+    across and 3 feet in length.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9243-9314, movement and use description
+  quote_or_summary: Some Indians are described as expert users who can run rapidly;
+    the snowshoe width requires a wide straddle, care is needed to avoid bruising
+    the ankle, and the toe must elevate the shoe when ascending a hill.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a technical ethnographic description of snowshoe construction
+    and use rather than a mythic narrative; no candidate myth motifs or comparison
+    claims are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available taxonomy refs for myth motifs and symbols were not applied because the passage does not support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l9243-l9314
+  passage_sha256=c09fc6746513260e100f1d44648f4d8d3bc042278cd9212274d03d1e3ceaf20b
+

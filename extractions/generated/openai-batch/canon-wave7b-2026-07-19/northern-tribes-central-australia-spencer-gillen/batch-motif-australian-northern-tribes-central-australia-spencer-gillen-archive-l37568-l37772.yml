@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l37568-l37772
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: APPENDIX B / TOTEM NAMES / MAMMALS / APPENDIX B; lines 37568-37772
+  start: '37568'
+  end: '37772'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Wollunqua, Warramunga, a mythical snake.
+  summary: Appendix B presents a catalogue of animal totem names arranged under mammals,
+    birds, and reptiles. Entries typically name an animal or local term, associate
+    it with one or more groups, and often mark whether it is eaten. The reptile section
+    includes many snakes, a named mythical snake, and a note that two crocodile species
+    give their names to totemic groups and are eaten.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is an Appendix B catalogue of totem names arranged by animal categories,
+    including mammals, birds, and reptiles.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mammal entries list animal names or local terms, associated groups, and commonly
+    the status 'eaten'.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Bird entries list species or local terms with associated groups and eating
+    status; the eagle hawk entry includes an exception in which Urabunna is marked
+    'not eaten'.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The reptile section is subdivided into snakes and crocodiles.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:5
+  text: The snake list contains many named snake entries associated with groups and
+    mostly marked as eaten.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Wollunqua is listed as Warramunga and described as a mythical snake.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The crocodile note states that two crocodile species occur in the more northern
+    parts of the central area, give their names to totemic groups, and are eaten.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Wollunqua
+  description: A Warramunga entry described as a mythical snake.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Crocodiles, larger and smaller species
+  description: Two crocodile species, identified as a larger C. porosus and a smaller
+    C. johnstoni, said to occur farther north, give names to totemic groups, and be
+    eaten.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mythical snake
+  assigned_to:
+  - fig:1
+  basis: The passage directly describes Wollunqua as 'a mythical snake'.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: totemic group name-giver
+  assigned_to:
+  - fig:2
+  basis: The crocodile subsection states that both crocodile species give their names
+    to totemic groups.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: eaten animal
+  assigned_to:
+  - fig:2
+  basis: The crocodile subsection states that both crocodile species are eaten.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpent or snake
+  literal_form: The reptile list of snakes, including named snakes and the mythical
+    snake Wollunqua.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: crocodile
+  literal_form: Two crocodile species, larger and smaller, used as names for totemic
+    groups.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: animal totem name
+  literal_form: Animal names or local animal terms aligned with named groups in an
+    Appendix B totem-name catalogue.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Catalogue of animal totem names
+  summary: The passage lists animal totem names by category and associates animals
+    or local terms with groups and eating status.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: scene:2
+  label: Snake entries in the reptile section
+  summary: The reptile section lists many snakes associated with groups, including
+    the named mythical snake Wollunqua.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Crocodile totemic note
+  summary: The crocodile subsection states that two crocodile species occur in the
+    more northern parts, give their names to totemic groups, and are eaten.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Mythical serpent in a totem catalogue
+  taxonomy_refs:
+  - serpent
+  basis: Wollunqua is directly identified as a mythical snake in the reptile section
+    of a totem-name catalogue.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives no narrative episode, action, genealogy, or ritual detail
+    for Wollunqua.
+- id: motif:2
+  label: Animal totem names with food-status marking
+  taxonomy_refs: []
+  basis: The catalogue repeatedly associates animal names with groups and marks many
+    entries as eaten or, in at least one bird entry, not eaten; crocodiles are explicitly
+    said to give their names to totemic groups and be eaten.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: This is a classificatory ethnographic list, not a mythic narrative; motif
+    status requires human review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: APPENDIX B / TOTEM NAMES, lines 37568-37772
+  quote_or_summary: The passage is an Appendix B catalogue of totem names, organized
+    into animal categories including mammals, birds, and reptiles.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: Mammals subsection within lines 37568-37772
+  quote_or_summary: Mammal entries include animal terms such as rats, native cat,
+    opossum, bat, wallaby, and echidna, associated with groups such as Urabunna, Arunta,
+    Unmatjera, Kaitish, Mara, Anula, and Warramunga; many are marked 'eaten'.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: Birds subsection within lines 37568-37772
+  quote_or_summary: Bird entries list species or local terms, groups, and eating status;
+    the eagle hawk entry marks Urabunna as 'not eaten' while other associated groups
+    are marked eaten.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: Reptiles / Snakes subsection within lines 37568-37772
+  quote_or_summary: The snake subsection lists many named snakes associated with groups
+    and usually marked eaten, including carpet snakes, non-venomous snakes, water
+    snake, white snake, black snake, and yellow snake entries.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: Reptiles / Snakes subsection within lines 37568-37772
+  quote_or_summary: Wollunqua, Warramunga, a mythical snake.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:6
+  type: summary
+  locator: Reptiles / Crocodiles subsection within lines 37568-37772
+  quote_or_summary: The crocodile subsection says crocodiles occur only in more northern
+    parts of the central area, identifies a larger and smaller species, and states
+    that both give their names to totemic groups and both are eaten.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal catalogue features are clear. Motif candidates are limited because
+    the passage is a totem-name and food-status list rather than a mythic narrative.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference applied only to the directly supported serpent/snake material.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l37568-l37772
+  passage_sha256=53c66ccda700d23492cb67be7b81d103c016978ebece0733d2f398902011bdc2
+

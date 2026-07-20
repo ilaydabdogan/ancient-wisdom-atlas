@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.hindu-minor-upanishads-narayanasvami-aiyar-archive-l2685-l2694
+source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+passage_locator:
+  label: KRSHNA-YAJURVEDA / PAINGALA-UPANISHA  D1 / APHYAYA  III / PAINGALA-DPAN1SHAJD  5
+    1; lines 2685-2694
+  start: '2685'
+  end: '2694'
+  translation: Thirty Minor Upanishads
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: That Muni (sage) who meditates (upon Atma always) until sleep or death comes
+    upon him passes into the state of (Jivanmukti) emancipation
+  summary: A sage who continually meditates upon Atma until sleep or death attains
+    Jivanmukti. The passage then describes the remaining One, Brahman, as eternal,
+    indestructible, beyond sensory qualities, beyond Mahat, permanent, stainless,
+    and without disease.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Muni or sage meditates upon Atma continuously until sleep or death comes
+    upon him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sage passes into the state of Jivanmukti, described as emancipation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage compares the emancipated state to an immovable state of the wind.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After this, the One, identified as Brahman, remains.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Brahman is described as without sound, touch, taste, or odour, free from destruction,
+    eternal, without beginning or end, beyond the Tattva of Mahat, permanent, unstained,
+    and without disease.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Muni / sage
+  description: A sage who meditates upon Atma until sleep or death and passes into
+    Jivanmukti.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Atma
+  description: The object upon which the sage meditates.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The One / Brahman
+  description: The remaining One described as eternal, indestructible, beyond sensory
+    qualities, beyond Mahat, permanent, stainless, and without disease.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: meditating sage
+  assigned_to:
+  - fig:1
+  basis: The passage names a Muni who meditates upon Atma always until sleep or death.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: object of meditation
+  assigned_to:
+  - fig:2
+  basis: Atma is explicitly identified as what the sage meditates upon.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: remaining ultimate principle
+  assigned_to:
+  - fig:3
+  basis: The passage states that the One, Brahman, remains after the sage passes into
+    emancipation.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wind simile
+  literal_form: wind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: absence of sensory qualities
+  literal_form: without sound, touch, taste, or odour
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Meditation until sleep or death and entry into emancipation
+  summary: The sage maintains meditation upon Atma until sleep or death and thereby
+    passes into Jivanmukti, with the state compared to an immovable wind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of the remaining Brahman
+  summary: The passage describes the One Brahman that remains as eternal, indestructible,
+    beyond sensory properties, beyond Mahat, permanent, stainless, and without disease.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: continuous meditation leading to liberation
+  taxonomy_refs:
+  - mystical_quest
+  - wisdom
+  basis: The passage presents continuous meditation on Atma as leading the sage into
+    Jivanmukti or emancipation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy terms are broad; the passage is doctrinal rather
+    than narrative myth.
+- id: motif:2
+  label: liberation in relation to the remaining One
+  taxonomy_refs:
+  - annihilation_union
+  basis: After the sage passes into emancipation, the passage states that the One,
+    Brahman, remains and is beyond sensory and temporal attributes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly narrate a merger or annihilation of an
+    individual self; the motif label is inferred cautiously from the doctrinal sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2685-2688
+  quote_or_summary: '"That Muni (sage) who meditates (upon Atma always) until sleep
+    or death comes upon him"'
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2687-2689
+  quote_or_summary: '"passes into the state of (Jivanmukti) emancipation like the
+    immovable state of the wind"'
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2689-2692
+  quote_or_summary: '"Then there remains that One (Brahman) without sound, touch,
+    free from destruction, without taste or odour"'
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2691-2694
+  quote_or_summary: Brahman is described as eternal, without beginning or end, beyond
+    the Tattva of Mahat, permanent, stainless, and without disease.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain translation; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif mapping is
+    cautious because the passage is philosophical and uses broad taxonomy categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or clearly support a comparison to another text, tradition, or motif family beyond candidate taxonomy mapping.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-minor-upanishads-narayanasvami-aiyar-archive__l2685-l2694
+  passage_sha256=eb4a6f92890efdc49c285c353f0d99f3f2ab675a04772aad41fa49c949cbfd4c
+

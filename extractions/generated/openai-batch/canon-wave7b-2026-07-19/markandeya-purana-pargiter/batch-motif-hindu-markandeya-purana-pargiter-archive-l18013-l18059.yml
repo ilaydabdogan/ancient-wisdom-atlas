@@ -1,0 +1,197 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l18013-l18059
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: OOUNTEIES AND RACES IX EASTERN INDIA. / CANTO LYIl. / CANTO LVII. / COTOTEIES
+    AND BACES IN EASTEBK INDIA.; lines 18013-18059
+  start: '18013'
+  end: '18059'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists peoples said to dwell in the Southern Region, including
+    Pundras, Kevalas, and Go-langalas. The translator’s notes identify textual variants
+    and regional identifications, including a note that Go-langalas means “Cow-tails”
+    and is described as a fanciful tailed race motif.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage names Pundras, Kevalas, and Go-langalas as peoples who dwell in
+    the Southern Region.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note glosses Go-langalas as “Cow-tails.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The translator’s note states that stories of tailed races are common worldwide
+    and calls the Go-langalas identification a “pure fancy.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The notes report variant readings in other Purana lists, including Pandyas
+    or Keralas in place of some names, and possible correspondences with Gonarddhas,
+    Colas, and Kulyas.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pundras
+  description: A people named in the list of those dwelling in the Southern Region,
+    though the note says this placement may be erroneous.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Kevalas
+  description: A people named in the list; the note says the reading is probably a
+    mistake for Keralas.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Go-langalas
+  description: A people named in the list and glossed in a note as “Cow-tails.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: listed southern people
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The verse introduces these groups as peoples who dwell in the Southern Region.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tailed race designation
+  assigned_to:
+  - fig:3
+  basis: The note glosses Go-langalas as “Cow-tails” and associates it with stories
+    of tailed races.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cow-tail attribute
+  literal_form: Cow-tails / tailed race
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Catalogue of southern peoples
+  summary: A geographical catalogue names several peoples as dwelling in the Southern
+    Region, with editorial notes discussing variant readings and identifications.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: tailed race or cow-tailed people
+  taxonomy_refs: []
+  basis: The Go-langalas are glossed as “Cow-tails,” and the note explicitly relates
+    the name to stories of tailed races.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an editorial note rather than a developed narrative episode; the
+    passage itself is a catalogue of peoples, and the translator calls the reading
+    or identification fanciful.
+comparison_claims:
+- id: claim:1
+  claim: The translator’s note explicitly compares the Go-langalas / “Cow-tails” to
+    a wider pattern of stories about tailed races.
+  claim_level: same_motif
+  target: stories of tailed races
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is broad and editorial; no specific parallel text, tradition,
+    or historical relationship is supplied in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18013-18017
+  quote_or_summary: "“Now the other peoples who dwell in the Southern Region are the
+    Pundras, and Kevalas, and Go-langalas also”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 18056-18059
+  quote_or_summary: "“The Cow-tails”; the note calls this “a pure fancy” and says
+    stories of tailed races are common worldwide."
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; short excerpt and summary used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 18029-18041
+  quote_or_summary: The note says the Pundras were not properly in the South and reports
+    variant readings that read Pandyas instead.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 18042-18055
+  quote_or_summary: The note says Kevalas is probably a mistake for Keralas and describes
+    Keralas as a forest tribe associated with the western coast.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 18056-18059
+  quote_or_summary: The note says Go-langalas may correspond to Gonarddhas, while
+    other Purana readings give Colas and Kulyas.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is primarily a geographical catalogue with textual-critical notes.
+    The only motif-like material is the translator’s brief note about “Cow-tails”
+    and tailed races.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the available motif list does not include tailed or monstrous races, and the passage does not present shapeshifting or serpent imagery.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l18013-l18059
+  passage_sha256=8ef074c663e6e5a24b82fc7bfb5fb031a7b0d95a5d21cf26d7dc1fa7b2533345
+

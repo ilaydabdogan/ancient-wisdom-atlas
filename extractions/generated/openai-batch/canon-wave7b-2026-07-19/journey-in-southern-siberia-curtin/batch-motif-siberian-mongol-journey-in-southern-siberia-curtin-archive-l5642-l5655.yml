@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.siberian-mongol-journey-in-southern-siberia-curtin-archive-l5642-l5655
+source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+passage_locator:
+  label: SECOND SIGHT / THE ORIGIN OF SHAMANS 115 / SACRED GROVES OF SHAMANS / THE
+    ORIGIN OF SHAMANS 117; lines 5642-5655
+  start: '5642'
+  end: '5655'
+  translation: A Journey in Southern Siberia, the Mongols, Their Religion and Their
+    Myths
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes restrictions and rites connected with sacred groves
+    of shamans. Women are barred from the groves and punished for stepping on the
+    land. A sacred grove of Bumal Burkan may stand on a hilltop between villages near
+    a road. After a death in one village, no one may pass the grove for three days;
+    afterward the first man to pass must purify himself with smoke from burning dry
+    juniper, and his horse must be purified in the same way.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Women are forbidden to enter the groves and are punished if they step on the
+    land.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A mountain or high hill may stand between villages, with a sacred grove on
+    its summit near the road.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The sacred grove is described as belonging to a Bumal Burkan.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If a man dies in one of the villages, no person is allowed to pass the grove
+    for three days.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: At the end of the three days, the first man to pass must purify himself before
+    leaving home.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Purification is performed by gathering dry juniper, piling it on the ground,
+    setting it on fire, walking repeatedly through the smoke, and inhaling the smoke.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The horse the person is to ride must be purified in the same way.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: women
+  description: Women who are forbidden to enter the groves and punished for stepping
+    on the land.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bumal Burkan
+  description: Being or named sacred owner to whom the grove is said to belong.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: deceased man
+  description: A man whose death in one village triggers a three-day prohibition on
+    passing the grove.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: first man to pass
+  description: The first man permitted to pass the grove after three days, who must
+    purify himself before leaving home.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: horse
+  description: The horse the man is to ride, which must be purified in the same way
+    as the rider.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: excluded and punishable group
+  assigned_to:
+  - fig:1
+  basis: Women are barred from entering the groves and punished for stepping on the
+    land.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sacred grove owner
+  assigned_to:
+  - fig:2
+  basis: The grove is described as belonging to a Bumal Burkan.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: death that activates passage taboo
+  assigned_to:
+  - fig:3
+  basis: A man's death in one village is followed by a three-day ban on passing the
+    grove.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: ritual traveler requiring purification
+  assigned_to:
+  - fig:4
+  basis: The first man to pass after the three-day period must purify himself before
+    leaving home.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: mount requiring purification
+  assigned_to:
+  - fig:5
+  basis: The horse to be ridden must be purified in the same way as the rider.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sacred grove
+  literal_form: sacred grove on a hilltop near the road
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: mountain or high hill
+  literal_form: mountain or high hill between villages, with the grove on its summit
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: juniper fire and smoke
+  literal_form: dry juniper set on fire, producing smoke for purification
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: three-day interval
+  literal_form: three days during which no person may pass the grove after a death
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prohibition on women entering sacred groves
+  summary: Women are forbidden to enter the groves and punished for stepping on the
+    land.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sacred grove situated between villages
+  summary: A sacred grove belonging to Bumal Burkan may be located on the summit of
+    a mountain or high hill between villages, near the road.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Death-related passage prohibition and purification
+  summary: After a man dies in one village, no one may pass the grove for three days;
+    the first man to pass afterward must purify himself with juniper smoke before
+    leaving home.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Purification of the horse
+  summary: The horse to be ridden by the person passing the grove must be purified
+    in the same way as the rider.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred grove access taboo
+  taxonomy_refs: []
+  basis: 'The grove is restricted: women may not enter, and after a death no person
+    may pass it for three days.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage gives ritual restrictions but does not explain their origin
+    or wider mythic rationale.
+- id: motif:2
+  label: death-triggered temporary road prohibition
+  taxonomy_refs: []
+  basis: A death in one village creates a three-day ban on passing the sacred grove.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not state why the death affects passage by the grove.
+- id: motif:3
+  label: smoke purification with juniper before sacred passage
+  taxonomy_refs: []
+  basis: The first man to pass after the prohibition must purify himself by repeatedly
+    walking through and inhaling smoke from burning dry juniper.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage describes the rite literally but does not name it as a motif.
+- id: motif:4
+  label: ritual purification extended to mount
+  taxonomy_refs: []
+  basis: The horse to be ridden must undergo the same smoke purification as the rider.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not specify whether this applies to all animals or only
+    the horse used in this circumstance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5642-5644
+  quote_or_summary: "“women not only are forbidden to enter their groves, but are
+    punished if they step on the land.”"
+  source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5645-5648
+  quote_or_summary: A mountain or high hill may lie between villages; on its summit
+    near the road is a sacred grove belonging to a Bumal Burkan.
+  source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5648-5651
+  quote_or_summary: If a man dies in one village, no one may pass the grove for three
+    days; afterward the first man to pass must purify himself before leaving home.
+  source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5651-5654
+  quote_or_summary: Purification consists of gathering dry juniper, piling it on the
+    ground, setting it on fire, and repeatedly walking through the smoke while inhaling
+    it.
+  source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 5654-5655
+  quote_or_summary: "“The horse the person is to ride must be purified in the same
+    way.”"
+  source_text_path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    asserted as formal taxonomy matches. No comparison claims were made because the
+    passage itself does not provide comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to literal symbol matches available in the request.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:siberian-mongol-journey-in-southern-siberia-curtin-archive__l5642-l5655
+  passage_sha256=d2936bc3554897a66516c134dc5c69584988b86247b6882bca2f69395f3e8e94
+

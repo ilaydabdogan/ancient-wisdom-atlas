@@ -1,0 +1,427 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l815-l851
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE INHKRITANCE. 27 / THE THREE WISE MEN. 29 / THE THREE WISE MEN. 31 / TOIMIISEACIIAN.
+    35; lines 815-851
+  start: '815'
+  end: '851'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first gives a note on a puzzle attributed to Hector Urquhart,
+    including a comment that similar puzzles are current in India. It then begins
+    the tale “The Eidere (Knight) of Riddles,” attributed to John Mackenzie near Inverary.
+    In the tale, a king has an elder son by his first wife and a younger son by his
+    second wife. The queen fears her son will not inherit the kingdom and repeatedly
+    arranges for poison to be put in the heir’s drink. The younger brother overhears
+    and warns the elder. After the second attempt, the elder decides to bottle the
+    draught and leave the house; the younger brother says he will accompany him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening note says the answer to a puzzle is founded on a mistaken belief
+    about marriage law and adds that numerous puzzles of the same kind are current
+    in India.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tale is titled “The Eidere (Knight) of Riddles” and is attributed to John
+    Mackenzie, a fisherman near Inverary.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A king marries a great lady, she departs at the birth of her first son, and
+    the king later marries another woman who also has a son.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The queen thinks her own son may not come into the kingdom and sets out to
+    poison the eldest son.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The queen sends instructions to the cook to put poison in the heir’s drink.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The youngest brother overhears the poisoning plan and tells his elder brother
+    not to take or drink the draught.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When the first attempt fails, the queen concludes there was not enough poison
+    and asks the cook to put more poison in the drink.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The cook prepares the drink and says the intended victim will not live long
+    after the draught.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The younger brother overhears the second poisoning plan and tells the elder
+    brother again.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The eldest son decides to put the draught into a little bottle and leave the
+    house because he believes the queen will otherwise destroy him somehow.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The eldest son says he will take the world for his pillow and that he does
+    not know what fortune may come to him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The younger brother says he will go with the eldest son.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: king
+  description: A king who marries first a great lady and later another woman, having
+    one son by each.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: great lady / first wife
+  description: The king’s first wife, who departs at the birth of her first son.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: queen / second wife
+  description: The king’s second wife, mother of the younger son, who fears her son
+    will not inherit and arranges poison for the eldest son.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: eldest son / heir
+  description: The first son of the king, identified as the heir whose drink is poisoned;
+    he avoids drinking after warnings and decides to leave.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: youngest brother
+  description: The king’s younger son, who overhears both poisoning plans, warns the
+    eldest, and says he will accompany him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: cook
+  description: The cook who is instructed to put poison into the heir’s drink and
+    prepares the poisoned draught.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: king and father
+  assigned_to:
+  - fig:1
+  basis: The passage introduces a king who has sons by two marriages.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: first wife and mother of eldest son
+  assigned_to:
+  - fig:2
+  basis: The first wife gives birth to the first son and then departs.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: queen, second wife, and poisoning plotter
+  assigned_to:
+  - fig:3
+  basis: The second wife is called the queen and arranges poison for the eldest son
+    because of succession concerns.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: heir and intended victim
+  assigned_to:
+  - fig:4
+  basis: The drink of the heir is poisoned, and the eldest son avoids it and prepares
+    to leave.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:5
+  label: younger brother as overhearer and helper
+  assigned_to:
+  - fig:5
+  basis: The younger brother overhears both poison plans, warns the elder, and offers
+    to go with him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: cook assisting in poisoned drink
+  assigned_to:
+  - fig:6
+  basis: The cook receives instructions to put poison into the heir’s drink and prepares
+    the draught.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: poisoned drink / draught
+  literal_form: Drink or draught containing poison intended for the heir.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: little bottle
+  literal_form: A little bottle into which the eldest son plans to put the draught.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: kingdom as inheritance
+  literal_form: The kingdom that the queen fears may not come to her son.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - royal_legitimacy
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: world for pillow
+  literal_form: 'The eldest son’s verbal image: “I will take the world for my pillow.”'
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - departure
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Royal household and two sons
+  summary: A king has an eldest son by his first wife and a younger son by his second
+    wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: First poisoning attempt
+  summary: The queen fears her son will not inherit and arranges for poison in the
+    heir’s drink, but the younger brother overhears and warns the elder not to drink.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Second poisoning attempt
+  summary: The queen orders more poison, the cook prepares the drink, and the younger
+    brother again overhears and tells the elder.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Decision to leave
+  summary: The eldest son plans to bottle the draught and leave the house, and the
+    younger brother says he will go with him.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Royal succession jealousy and attempted poisoning
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The queen fears her son will not inherit the kingdom and arranges poison
+    for the eldest son, who is identified as the heir.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage concerns succession anxiety
+    and poisoning rather than an explicit ritual of royal legitimation.
+- id: motif:2
+  label: Poisoned draught avoided through overheard warning
+  taxonomy_refs: []
+  basis: The younger brother overhears plans to poison the heir’s drink and warns
+    the elder, preventing him from drinking it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific taxonomy reference is supplied for poisoned drink in the available
+    list.
+- id: motif:3
+  label: Protective younger brother and threatened elder as sibling pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: The younger brother repeatedly protects the elder brother by warning him
+    and then offers to accompany him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The brothers are not described as twins and appear to be half-brothers.
+- id: motif:4
+  label: Departure from home to escape household danger
+  taxonomy_refs:
+  - departure
+  basis: The eldest son decides that remaining in the house will lead to his destruction
+    and says the quicker he leaves the better; the younger brother agrees to go with
+    him.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage ends at the departure decision and does not yet narrate the
+    journey itself.
+comparison_claims:
+- id: claim:1
+  claim: The source note reports that numerous puzzles of the same kind as the preceding
+    puzzle are current in India.
+  claim_level: same_function
+  target: Puzzle traditions current in India
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note gives no Indian example or detailed parallel, and it refers
+    to the preceding puzzle note rather than to the following tale of the Knight of
+    Riddles.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 815-821
+  quote_or_summary: 'Source note: the answer is based on a mistaken belief about marriage
+    law, and the writer is told that numerous puzzles of the same kind are current
+    in India.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: citation
+  locator: 823-826
+  quote_or_summary: 'Title and attribution: “THE EIDERE (KNIGHT) OF RIDDLES,” from
+    John Mackenzie, fisherman, near Inverary.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 828-833
+  quote_or_summary: A king marries a great lady; she departs at the birth of her first
+    son. The king then marries another woman and has a second son by her.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: 833-839
+  quote_or_summary: The queen fears her son will not come into the kingdom and decides
+    to poison the eldest son. She sends word to the cook to poison the heir’s drink;
+    the youngest brother hears and warns the elder not to drink.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: 839-846
+  quote_or_summary: The queen wonders why the lad is not dead, thinks there was not
+    enough poison, and asks the cook to put more in the drink. The cook prepares it
+    and says the victim will not live long; the younger brother hears and tells the
+    elder.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: 846-851
+  quote_or_summary: The eldest decides to put the draught into a little bottle and
+    leave the house, saying the queen will otherwise do for him and that he will take
+    the world for his pillow; the younger brother says he will go with him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The main narrative is clear despite OCR irregularities. Motif assignments
+    are limited to the supplied taxonomy and passage. The comparison claim is only
+    a source note and lacks parallel texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage-level extraction separates the initial puzzle note from the opening episode of “The Eidere (Knight) of Riddles.”
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l815-l851
+  passage_sha256=14153de4cef85ea71adffc4ecea5f15bf82d1f1621a41526acd7178432f89a8a
+

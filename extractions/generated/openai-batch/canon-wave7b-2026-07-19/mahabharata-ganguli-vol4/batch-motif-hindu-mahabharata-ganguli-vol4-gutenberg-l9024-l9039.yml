@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l9024-l9039
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION LI / SECTION LII / SECTION LIII / SECTION LIV; lines 9024-9039
+  start: '9024'
+  end: '9039'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A holy Brahmana, pleased with King Kusika and declaring him sinless, asks
+    leave to depart and offers a boon. Kusika replies that surviving the holy one's
+    presence, which he compares to being in fire, and saving his race from destruction
+    are already the best boons; he then asks the Brahmana to explain doubts in his
+    mind.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The holy one tells the king that he has no sin, asks leave to return to the
+    place he came from, says he is pleased, and offers a boon.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kusika says he has stayed in the holy one's presence like someone staying
+    in the midst of a fire and has not been consumed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kusika says the Brahmana's gratification and the rescue of his race from destruction
+    are the best boons and evidence of grace.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Kusika asks the Brahmana to expound doubts that are in his mind.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Unnamed holy Brahmana of Bhrigu's race
+  description: A holy one addressed as chief or delighter of Bhrigu's race; he is
+    pleased with Kusika and offers him a boon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Kusika
+  description: A king who replies to the Brahmana, speaks of surviving his presence,
+    saving his race, and asks for doubts to be explained.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Kusika's race
+  description: The lineage or race that Kusika says he has succeeded in rescuing from
+    destruction.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: pleased boon-giver
+  assigned_to:
+  - fig:1
+  basis: The holy one says he is pleased with the king and is ready to give a boon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: kingly petitioner
+  assigned_to:
+  - fig:2
+  basis: Kusika is addressed as king and monarch, and later asks the Brahmana to expound
+    his doubts.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: recipient of grace
+  assigned_to:
+  - fig:2
+  basis: Kusika says the Brahmana's gratification and the rescue of his race are evidence
+    of the Brahmana's grace.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: rescued lineage
+  assigned_to:
+  - fig:3
+  basis: Kusika states that he has rescued his race from destruction.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire image
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Holy Brahmana offers a boon
+  summary: The holy Brahmana declares Kusika sinless, says he is pleased, announces
+    his intended departure, and offers a boon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Kusika reframes the boon and asks for instruction
+  summary: Kusika says that remaining unconsumed in the Brahmana's presence and saving
+    his race are already the highest boons, then asks the Brahmana to resolve his
+    doubts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: boon offered after pleasing a holy figure
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The holy Brahmana says he is pleased and offers a boon; Kusika identifies
+    the Brahmana's gratification and grace as the best boons.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The excerpt contains the offer and Kusika's response, but does not show
+    a concrete boon being granted beyond the request for explanation.
+- id: motif:2
+  label: survival in dangerous sacred presence
+  taxonomy_refs: []
+  basis: Kusika compares staying in the holy one's presence to staying in the midst
+    of fire and emphasizes that he was not consumed.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The fire is presented as Kusika's simile within speech, not as a literal
+    fire event.
+- id: motif:3
+  label: request for wisdom from a pleased Brahmana
+  taxonomy_refs:
+  - wisdom
+  basis: After acknowledging the Brahmana's pleasure and grace, Kusika asks him to
+    expound doubts in his mind.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt includes the request for explanation but not the subsequent
+    teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9024-9027
+  quote_or_summary: The holy one tells the king he has no sin, asks leave to depart
+    to his place of origin, says he is pleased, and offers a boon.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 9029-9032
+  quote_or_summary: Kusika says he has stayed in the holy one's presence “like one
+    staying in the midst of a fire” and has not been consumed.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: 9032-9036
+  quote_or_summary: Kusika says that pleasing the Brahmana and rescuing his race from
+    destruction are the best boons and evidence of grace.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 9037-9039
+  quote_or_summary: Kusika asks the pleased Brahmana to expound doubts in his mind.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is limited to the supplied excerpt. Motif assignments
+    are cautious because the passage is a short dialogue segment and the requested
+    teaching or boon is not included. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage text and supplied taxonomy references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l9024-l9039
+  passage_sha256=8a492dfefb9677c49b31ab422ad1e601ffdabb823115634cf3d94358d39d1f17
+

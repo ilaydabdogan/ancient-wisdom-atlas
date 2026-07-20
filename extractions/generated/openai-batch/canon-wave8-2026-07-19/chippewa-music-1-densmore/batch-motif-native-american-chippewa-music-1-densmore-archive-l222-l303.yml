@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l222-l303
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: Chippewa Music / ANALYSIS  OF  CHIPPEWA  MUSIC; lines 222-303
+  start: '222'
+  end: '303'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage analyzes tone-material in Chippewa songs, emphasizing pentatonic
+    scale varieties, interval persistence within the diatonic octave, comparisons
+    with other published analyses of Indigenous and Murray Island songs, and a minor-tonality
+    group lacking the seventh and fourth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that 131 songs, about 39 percent of the full set, contain
+    tones of pentatonic or five-toned scales, described according to five Helmholtz
+    varieties that differ by keynote.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The largest pentatonic subgroup is the fourth five-toned scale, also called
+    the major pentatonic or Scotch scale, with 88 songs; the second or minor pentatonic
+    has 40 songs; two songs use the fifth five-toned scale; one song uses the first
+    five-toned scale.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage identifies a smaller group, the major triad and sixth, as comprising
+    12 percent of the songs and lacking the second tone of the fourth five-toned scale.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the major-triad-and-sixth group, the sixth is described either as a passing
+    tone between tonic and dominant in descending progression or as combined with
+    the tonic triad above it before resolving toward the tonic major triad.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Only 6 percent of the songs contain all seven tones of the diatonic octave.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The fifth is present in 338 songs, the third in 329 songs, the sixth in 276
+    songs, the second in 210 songs, the fourth in 135 songs, and the seventh in 110
+    songs.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage gives the order of diatonic tone persistence in the Chippewa songs
+    as fifth, third, sixth, second, fourth, seventh.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage notes similarity between the Chippewa interval-frequency results
+    and Doctor Baker's analysis of songs from several Indian tribes.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Dr. C. S. Myers is cited for a Murray Island finding that use of the fourth
+    preceded use of the fifth, but that with development of the tonic, the fifth above
+    it became more often used than the fourth above it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: A group classified as octave complete except seventh and fourth omits the
+    same tones lacking from the fourth five-toned scale, but has minor third and sixth
+    intervals, making those songs minor in tonality rather than major.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Helmholtz
+  description: Cited authority for five varieties of pentatonic scales and related
+    tone theory.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Doctor Baker
+  description: Cited analyst of 31 Indian songs whose interval findings are compared
+    with the Chippewa song analysis.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Dr. C. S. Myers
+  description: Cited analyst of the relative persistence of the fifth and fourth in
+    songs of the Murray Islanders.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: cited scale theorist
+  assigned_to:
+  - fig:1
+  basis: The passage identifies pentatonic scale varieties according to Helmholtz.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cited comparative song analyst
+  assigned_to:
+  - fig:2
+  basis: The passage cites Baker's analysis of 31 Indian songs and compares his results
+    with the Chippewa analysis.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: cited Murray Island music analyst
+  assigned_to:
+  - fig:3
+  basis: The passage cites Myers on the relative persistence of fourth and fifth in
+    Murray Island songs.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Predominance of pentatonic tone material
+  taxonomy_refs: []
+  basis: A large subset of the songs is classified by five-toned scale material, with
+    the fourth or major pentatonic scale most frequent.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a musicological pattern, not a mythic narrative motif; no supplied
+    mythic taxonomy reference applies.
+- id: motif:2
+  label: Diatonic tone persistence hierarchy
+  taxonomy_refs: []
+  basis: The passage ranks the frequency of diatonic tones in the Chippewa songs as
+    fifth, third, sixth, second, fourth, seventh.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an analytical tonal pattern rather than a symbolic or narrative
+    motif.
+- id: motif:3
+  label: Minor-tonality group lacking seventh and fourth
+  taxonomy_refs: []
+  basis: The passage identifies songs that are octave-complete except for seventh
+    and fourth, with minor third and sixth producing minor tonality.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a musical classification pattern; the passage does not attach
+    mythic meaning to it.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that Baker's interval-frequency results for songs from
+    several Indian tribes show some similarity to the Chippewa analysis, especially
+    in the relative occurrence of diatonic tones.
+  claim_level: same_function
+  target: Doctor Baker's analysis of 31 Indian songs from several tribes
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is statistical and musicological only. The passage does
+    not claim shared origin, historical contact, ritual function, or a mythic motif
+    correspondence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 222-239
+  quote_or_summary: The passage describes 131 songs, about 39 percent, as containing
+    tones of pentatonic scales according to Helmholtz's five varieties, and gives
+    counts for major pentatonic, minor pentatonic, fifth five-toned, and first five-toned
+    scale groups.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 240-252
+  quote_or_summary: The passage discusses the major triad and sixth group, its relation
+    to the fourth five-toned scale, and two described uses of the sixth in progression
+    and resolution.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 253-279
+  quote_or_summary: The passage reports the presence and frequency of diatonic tones
+    in the Chippewa songs, cites Baker's and Myers's comparative findings, and states
+    the Chippewa order of persistence as fifth, third, sixth, second, fourth, seventh.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 280-287
+  quote_or_summary: The passage describes the group classified as octave complete
+    except seventh and fourth, noting that it omits the same tones as the fourth five-toned
+    scale but differs through minor third and sixth intervals and minor tonality.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is analytical musicology rather than myth narrative. Extracted
+    motifs are treated as musical patterns, with no mythic taxonomy references assigned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied symbol taxonomy items are present in this passage; no narrative scenes are present.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l222-l303
+  passage_sha256=bf45ffafbcb99c1a09d21851079800974666a29dd0feb748a5987a76e9f87301
+

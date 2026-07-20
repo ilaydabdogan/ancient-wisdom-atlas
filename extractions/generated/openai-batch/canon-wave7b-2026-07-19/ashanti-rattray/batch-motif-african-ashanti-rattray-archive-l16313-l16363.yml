@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l16313-l16363
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: M F M-F F-F F, / M-F-F M M-M-M, / M-F-F MF M, / M-F-F F-F F-F,; lines 16313-16363
+  start: '16313'
+  end: '16363'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Drum-History of Mampon transposed to the Ashanti Language.
+  summary: The passage contains repeated M/F notation, an English heading identifying
+    a Drum-History of Mampon, then an Ashanti-language text with repeated drum-like
+    vocables and a sequence of named phrases followed by short formulaic lines and
+    two editorial footnote references.
+  language: English heading with Ashanti/Akan text and notation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens and closes with repeated letter patterns using M and F,
+    often hyphenated into groups.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An English heading identifies the material as a Drum-History of Mampon transposed
+    to the Ashanti language.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Ashanti-language section begins with repeated vocables written as “Kon”
+    and “Kun.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists the named phrases Funtumi Akore, Tweneboa Akore, Tweneboa
+    Kodia, and Kodia Tweneduru in sequence.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A phrase involving Odomankoma and “Kyerema se” follows the named sequence.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The subsequent lines include the phrases “Oko babi a,” “Wa ma ne-ho mene so,”
+    and “Akoko bon anopa.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Two editorial notes refer the reader to chapters on Ntoro exogamous divisions
+    and matrilineal descent in Ashanti.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Funtumi Akore
+  description: Named phrase listed after the opening vocables in the drum-history
+    text.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Tweneboa Akore
+  description: Named phrase listed in the drum-history sequence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Tweneboa Kodia
+  description: Named phrase listed in the drum-history sequence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Kodia Tweneduru
+  description: Named phrase listed in the drum-history sequence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Odomankoma
+  description: Name appearing in the phrase “Odomankoma ' Kyerema se.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named item in drum-history sequence
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: These names are listed one after another in the Ashanti-language drum-history
+    section.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: name associated with Kyerema phrase
+  assigned_to:
+  - fig:5
+  basis: The passage places the name Odomankoma in the phrase “Odomankoma ' Kyerema
+    se.”
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: M/F notation pattern
+  literal_form: Repeated M and F letter groups, often hyphenated
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: drum vocables
+  literal_form: Repeated “Kon” and “Kun” syllables
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Mampon drum-history segment
+  summary: The passage presents a notated prelude, identifies the piece as a Drum-History
+    of Mampon, then gives an Ashanti-language sequence beginning with repeated vocables,
+    listing several named phrases, and continuing with short formulaic lines.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual drum-history recitation with notation and named sequence
+  taxonomy_refs: []
+  basis: The heading identifies the passage as a Drum-History, and the text combines
+    M/F notation, repeated vocables, and a sequence of named phrases.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage provides little translated semantic content and no clear narrative
+    episode; no supplied comparative motif-family taxonomy clearly applies.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16313-16363
+  quote_or_summary: The passage contains repeated M and F letter patterns, including
+    hyphenated groups such as M-F-F and F-F-F.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain per source metadata.
+- id: ev:2
+  type: quote
+  locator: lines 16313-16363
+  quote_or_summary: "“Drum-History of Mampon transposed to the Ashanti Language.”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain per source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 16313-16363
+  quote_or_summary: The Ashanti-language section begins with repeated “Kon” and “Kun”
+    vocables and then lists Funtumi Akore, Tweneboa Akore, Tweneboa Kodia, and Kodia
+    Tweneduru.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain per source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 16313-16363
+  quote_or_summary: After the named sequence, the passage includes “Odomankoma ' Kyerema
+    se,” followed by the lines “Oko babi a,” “Wa ma ne-ho mene so,” and “Akoko bon
+    anopa.”
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain per source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 16313-16363
+  quote_or_summary: The passage includes editorial cross-references to “Ntoro Exogamous
+    Divisions” and “Matrilineal Descent in Ashanti.”
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain per source metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The formal features and names are clear, but the Ashanti-language lines are
+    not translated in the supplied passage, limiting semantic motif extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or cross-tradition comparison claims were made because the supplied passage does not itself support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l16313-l16363
+  passage_sha256=4d0f4c597144768a9e56b1ca272b59f97a27fbae8194c4be5d9375d3a973c07c
+

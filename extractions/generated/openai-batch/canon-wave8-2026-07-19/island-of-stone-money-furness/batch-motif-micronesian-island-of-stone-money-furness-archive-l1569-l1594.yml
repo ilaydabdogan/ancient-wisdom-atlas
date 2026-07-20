@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l1569-l1594
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: SONGS AND INCANTATIONS / SONGS AND INCANTATIONS / SONGS AND INCANTATIONS
+    / SONGS AND INCANTATIONS; lines 1569-1594
+  start: '1569'
+  end: '1594'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: the "talking tom-tom"
+  summary: The narrator describes the island-wide fame of the tom-tom-ni-non, the
+    crowds who came to hear it, gender-separated listening sessions, listeners recognizing
+    familiar words and voices, and Lian the chief cautioning him not to play a particular
+    chant for women.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The fame of the tom-tom-ni-non spread over the island, and people from many
+    ages and distances came to visit the narrator.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator held a morning session for men and a select afternoon session
+    for women, eventually using open-air exhibitions rather than the copra house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Listeners showed interest when they recognized words from a familiar song
+    or speech and recognized the speaker's voice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Three men from the adjacent failu sang a particular chant for the narrator.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Lian, identified as the chief, cautioned the narrator not to play that chant
+    for the women, and the narrator agreed to try to comply.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Narrator-observer
+  description: The first-person speaker who presents the tom-tom-ni-non sessions and
+    receives Lian's caution.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: People of Uap / crowds
+  description: People from across Uap, described as ranging from babies to old age,
+    who came to hear the tom-tom-ni-non.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Men audience
+  description: Men for whom the narrator held morning sessions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Women audience
+  description: Women for whom the narrator held select afternoon sessions, and for
+    whom one particular chant was not to be played.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Lian, the chief
+  description: The chief who cautioned the narrator not to play a particular chant
+    for the women.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Three men from the adjacent failu
+  description: Three men who sang a particular chant for the narrator.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Presenter of the talking tom-tom
+  assigned_to:
+  - fig:1
+  basis: The narrator describes giving sessions with the tom-tom-ni-non and agreeing
+    not to play a particular chant for women.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Listeners and recognizers of recorded voices
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Crowds attended the sessions and recognized familiar words and a speaker's
+    voice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Chief giving a performance restriction
+  assigned_to:
+  - fig:5
+  basis: Lian is called the chief and cautions the narrator not to play the chant
+    for women.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Chant performers
+  assigned_to:
+  - fig:6
+  basis: The chant was sung for the narrator by three men from the adjacent failu.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Excluded audience for a particular chant
+  assigned_to:
+  - fig:4
+  basis: Lian cautioned that the chant should not be played for the women.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Talking tom-tom
+  literal_form: The tom-tom-ni-non, glossed as the "talking tom-tom," which drew listeners
+    and reproduced recognizable words and voices.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Island-wide attendance at talking tom-tom sessions
+  summary: The fame of the tom-tom-ni-non spreads, and crowds come from across Uap;
+    the narrator gives separate sessions for men and women in the open air.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Recognition of familiar words and voices
+  summary: Listeners react with interest when they recognize familiar songs, speeches,
+    and the speaker's voice through the tom-tom-ni-non.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Chief restricts playback of a chant
+  summary: A chant sung by three men from the adjacent failu is identified as unsuitable
+    for women to hear, and Lian asks the narrator not to play it for them.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Voice-speaking object drawing communal listeners
+  taxonomy_refs: []
+  basis: The tom-tom-ni-non is presented as a "talking" object whose fame spreads
+    and whose playback allows listeners to recognize familiar words and voices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage concerns an ethnographic encounter with recording/playback
+    technology rather than a traditional mythic episode.
+- id: motif:2
+  label: Restricted chant not to be heard by women
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: Lian, the chief, cautions the narrator not to play a particular chant for
+    women.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The reason for the restriction is not explained in the passage; classification
+    under forbidden knowledge is provisional.
+- id: motif:3
+  label: Gender-separated performance sessions
+  taxonomy_refs: []
+  basis: The narrator reports separate morning sessions for men and select afternoon
+    sessions for women.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives this as an exhibition arrangement, not necessarily as
+    a ritual or mythic rule.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1569-1584
+  quote_or_summary: The fame of the tom-tom-ni-non, the "talking tom-tom," spreads
+    over Uap; crowds come from far and near, and the narrator holds morning sessions
+    for men and afternoon sessions for women, eventually outdoors.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1585-1589
+  quote_or_summary: The narrator observes listeners' expressions as they recognize
+    words from familiar songs or speeches and recognize the speaker's voice.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1589-1594
+  quote_or_summary: A particular chant, sung for the narrator by three men from the
+    adjacent failu, prompts Lian the chief to caution him not to play it for women;
+    the narrator says he will try to comply.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is ethnographic prose about song playback and restrictions, not a
+    myth narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l1569-l1594
+  passage_sha256=d628ee6eeda73524445f07e7005c616c633cee8c6e262e68e42ed47c42958285
+

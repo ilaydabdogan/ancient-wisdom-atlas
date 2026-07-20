@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l43088-l43101
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION L / SECTION LI / SECTION LII / SECTION LIII; lines 43088-43101
+  start: '43088'
+  end: '43101'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Sanjaya reports that, after hearing about the origin and acts of Death,
+    Yudhishthira humbly asks Vyasa to console him with accounts of ancient righteous
+    royal sages, their feats, and the sacrificial gifts they made.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sanjaya states that Yudhishthira had heard of the origin of Death and her
+    strange acts.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira humbly addresses Vyasa again.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yudhishthira describes many ancient kings as dwelling in blessed countries,
+    acting righteously, possessing prowess equal to Indra, being royal sages, and
+    speaking truth.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yudhishthira asks Vyasa to console him with accounts of the feats of ancient
+    royal sages.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Yudhishthira asks about the measure of sacrificial gifts and the identities
+    of the high-souled royal sages who made them.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sanjaya
+  description: Narrator who reports Yudhishthira's renewed address to Vyasa.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yudhishthira
+  description: King who has heard of Death's origin and asks Vyasa for consoling accounts
+    of ancient royal sages.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Vyasa
+  description: The regenerate and illustrious one whom Yudhishthira addresses and
+    asks to speak.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Death
+  description: A personified female figure whose origin and strange acts have just
+    been heard about by Yudhishthira.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Ancient royal sages
+  description: Many kings of blessed countries, described as righteous, powerful like
+    Indra, sinless, truth-speaking, high-souled, and makers of sacrificial gifts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: narrator
+  assigned_to:
+  - fig:1
+  basis: Sanjaya introduces and reports the exchange.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: questioning king seeking consolation
+  assigned_to:
+  - fig:2
+  basis: Yudhishthira humbly asks Vyasa to console him with accounts of ancient royal
+    sages.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: sage-recipient of inquiry
+  assigned_to:
+  - fig:3
+  basis: Vyasa is addressed by Yudhishthira and asked to tell the account.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: previous subject of instruction
+  assigned_to:
+  - fig:4
+  basis: Yudhishthira has just heard of Death's origin and strange acts before asking
+    another question.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: exemplary righteous royal sages
+  assigned_to:
+  - fig:5
+  basis: The kings are described as righteous, sinless, truth-speaking royal sages
+    whose feats and gifts are requested.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacrificial gifts
+  literal_form: sacrificial gifts
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Yudhishthira addresses Vyasa after hearing about Death
+  summary: Sanjaya reports that Yudhishthira, after hearing of Death's origin and
+    acts, humbly speaks again to Vyasa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Request for accounts of ancient royal sages
+  summary: Yudhishthira asks for grave and consoling words about righteous ancient
+    royal sages, their feats, and their sacrificial gifts.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: request for consoling wisdom after an account of Death
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira asks Vyasa for words of grave import and consolation after hearing
+    of Death's origin and acts.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage contains the request for instruction, not the instructional
+    answer itself.
+- id: motif:2
+  label: sacrificial giving by righteous kings
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: Yudhishthira asks about the measure of sacrificial gifts made by high-souled
+    ancient royal sages.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The gifts are mentioned as the subject of a question; their details are
+    not given in this passage.
+- id: motif:3
+  label: ancient righteous royal sage exemplars
+  taxonomy_refs: []
+  basis: Yudhishthira characterizes ancient kings as righteous, truth-speaking, sinless
+    royal sages whose feats can console him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage praises royal exemplars but does not yet narrate their specific
+    deeds.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 43088-43092
+  quote_or_summary: Sanjaya says Yudhishthira, having heard of Death's origin and
+    strange acts, humbly addresses Vyasa again.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 43093-43097
+  quote_or_summary: Yudhishthira describes many kings in blessed countries as righteous,
+    Indra-like in prowess, royal sages, sinless, and truth-speaking.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 43097-43100
+  quote_or_summary: '"console me with (accounts of) the feats of those royal sages
+    of ancient times"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: 43100-43101
+  quote_or_summary: Yudhishthira asks what measure of sacrificial gifts was made,
+    and who the high-souled royal sages were who made them.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and mostly consists of a narrated question; motif candidates
+    are limited to explicitly stated themes of wisdom, consolation, royal exemplars,
+    and sacrificial gifts. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external narrative context added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l43088-l43101
+  passage_sha256=b9afb00fd3199f6029fc4304f0a24c16b323a921ad632fce41d05298e8abb0b0
+

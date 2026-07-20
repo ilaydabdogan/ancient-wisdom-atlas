@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l28987-l29173
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 28987-29173
+  start: '28987'
+  end: '29173'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index section listing entries and cross-references for Nubia, Nut, trees,
+    worship of plants, Osiris, and comparison entries involving Osiris. The material
+    is not a continuous mythic narrative but an alphabetical index with page references
+    and short descriptive subentries.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index contains an entry for tree worship in Nubia.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists Nut and includes subentries for five children of Nut and the
+    Sycamore of Nut.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index lists an olive tree and an entry stating that an olive tree speaks.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index contains an entry for worship of the onion.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index describes Osiris as a Water-god, as god of the dead, and as god
+    of the Resurrection.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index associates Osiris with four earthly forms, four souls, four tombs,
+    nine forms, sixteen members, and scenes of burial and resurrection.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index includes comparison or equation entries for Osiris with Christ,
+    Pluto, Water, and Yesterday.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index includes a combined entry for Osiris-Isis-Horus.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Nut
+  description: Index figure associated with five children and with a sycamore.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Osiris
+  description: Index figure described as a Water-god, god of the dead, and god of
+    the Resurrection, and associated with forms, souls, tombs, members, burial, and
+    resurrection.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: parent associated with five children
+  assigned_to:
+  - fig:1
+  basis: The index subentry states 'five children of' Nut.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Water-god
+  assigned_to:
+  - fig:2
+  basis: The index describes Osiris as a Water-god.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: god of the dead
+  assigned_to:
+  - fig:2
+  basis: The index describes Osiris as god of the dead.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: god of the Resurrection
+  assigned_to:
+  - fig:2
+  basis: The index describes Osiris as god of the Resurrection.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree worship in Nubia
+  literal_form: tree worship / tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sycamore of Nut
+  literal_form: sycamore tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: speaking olive tree
+  literal_form: olive tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: worshipped onion
+  literal_form: onion
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: water associated with Osiris
+  literal_form: water
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:6
+  label: numbered forms, souls, tombs, and members of Osiris
+  literal_form: four earthly forms, four souls, four tombs, nine forms, sixteen members
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Osiris burial and resurrection scenes indexed
+  summary: The index points to scenes of Osiris's burial and resurrection without
+    narrating them in this passage.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:2
+  label: speaking olive tree indexed
+  summary: The index includes an event-like entry stating that an olive tree speaks,
+    without giving narrative context in this passage.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: burial and resurrection of Osiris
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The index describes Osiris as god of the Resurrection and points to scenes
+    of his burial and resurrection.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is an index entry and does not provide the narrative details
+    of the burial or resurrection.
+- id: motif:2
+  label: Osiris as god of the dead
+  taxonomy_refs: []
+  basis: The index explicitly describes Osiris as god of the dead.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No afterlife journey, judgment scene, or narrative action is supplied
+    in this index passage.
+- id: motif:3
+  label: Osiris as water deity or identified with water
+  taxonomy_refs: []
+  basis: The index describes Osiris as a Water-god and also includes the entry 'Osiris
+    = Water'.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The index does not explain the theological or mythic basis for the water
+    identification.
+- id: motif:4
+  label: sacred or animate trees
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The index includes tree worship in Nubia, the Sycamore of Nut, and an olive
+    tree that speaks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy reference is broader than the index evidence; the
+    passage does not state an axis mundi or world-tree function.
+- id: motif:5
+  label: divine parent and children of Nut
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The index lists five children of Nut.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The children are not named in this passage, and no narrative relationship
+    is described.
+- id: motif:6
+  label: multiple forms, souls, tombs, and members of a deity
+  taxonomy_refs: []
+  basis: The index associates Osiris with four earthly forms, four souls, four tombs,
+    nine forms, and sixteen members.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives indexed headings only and does not explain the meaning
+    of the numbers or divisions.
+- id: motif:7
+  label: worship of a food plant
+  taxonomy_refs: []
+  basis: The index contains an entry for worship of the onion.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No ritual details or mythic context are included in the index passage.
+comparison_claims:
+- id: claim:1
+  claim: The index explicitly registers a comparison or equation between Osiris and
+    Christ.
+  claim_level: same_motif
+  target: Christ
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The entry is only an index heading; it does not state the basis, scope,
+    or argument for the comparison.
+- id: claim:2
+  claim: The index explicitly registers a comparison or equation between Osiris and
+    Pluto.
+  claim_level: same_function
+  target: Pluto
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The entry is only an index heading; the passage does not explain what
+    function or features are being compared.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 28987-29173, index entry 'Nubia, tree worship in'
+  quote_or_summary: '"Nubia, tree worship in, i. 17"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 28987-29173, index entries for Nut
+  quote_or_summary: '"Nut, five children of"; "Nut, Sycamore of"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 28987-29173, index entries 'Olive tree' and 'Olive tree speaks'
+  quote_or_summary: '"Olive tree"; "Olive tree speaks"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 28987-29173, index entry 'Onion, worship of'
+  quote_or_summary: '"Onion, worship of, i. 2"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 28987-29173, index entry 'Osiris' role descriptions
+  quote_or_summary: '"Osiris ... as a Water-god"; "as god of the dead"; "as the god
+    of the Resurrection"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 28987-29173, index entry 'Osiris' forms, souls, tombs, members, and
+    scenes
+  quote_or_summary: '"Four earthly forms of"; "Four souls of"; "Four tombs of"; "his
+    nine forms"; "his sixteen members"; "scenes of his burial and resurrection"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 28987-29173, index entries beginning 'Osiris ='
+  quote_or_summary: '"Osiris = Christ"; "Osiris = Pluto"; "Osiris = Water"; "Osiris
+    = Yesterday"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:8
+  type: quote
+  locator: lines 28987-29173, index entry 'Osiris-Isis-Horus'
+  quote_or_summary: '"Osiris-Isis-Horus, i. 114, 240"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The source passage is an index, not a continuous mythic text. Extraction
+    is limited to literal index headings and should not be treated as a full narrative
+    analysis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures, objects, or comparisons were added beyond those named or directly implied by the supplied index entries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l28987-l29173
+  passage_sha256=03498afbb9a2552be57d4469d4944d721f6f76f061cecae5d940ce278b1291dc
+

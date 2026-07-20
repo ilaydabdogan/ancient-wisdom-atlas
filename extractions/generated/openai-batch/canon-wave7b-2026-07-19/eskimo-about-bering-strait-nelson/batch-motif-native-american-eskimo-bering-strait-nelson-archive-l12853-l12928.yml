@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l12853-l12928
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: WRITTEN   RECORDS / PAINTS   AND   COLORS / THE    ESKIMO    ABOUT    BERING    STRAIT
+    / POTTERY .; lines 12853-12928
+  start: '12853'
+  end: '12928'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Ethnographic description of pottery among Eskimo communities around Bering
+    Strait: women make clay vessels by kneading and tempering clay, forming and ornamenting
+    pots, drying and firing them, and using or observing varied pot forms from St
+    Michael, Hotham inlet, the lower Yukon, and St Lawrence island.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The manufacture of pottery from clay is described as widely spread among the
+    Eskimo communities contacted, and women are stated to be the only potters.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At St Michael, tough blue clay is moistened and kneaded, then mixed with marsh
+    grass blades and fine black volcanic sand from the beach.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The vessel bottom is made as a round flat layer, and the wall is built by
+    carrying a thin band of clay around the edge repeatedly until the desired height
+    is reached.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The vessel top is smoothed and may be left plain or slightly scalloped with
+    the fingers; sides may be plain or decorated with simple incised marks made with
+    a stick.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After shaping and ornamentation, the vessel is dried near a fire and then
+    baked with fire built both inside and outside for one or two hours.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At a summer camp at Hotham inlet, pots of two to three gallons were observed,
+    some with scalloped tops, constricted outlines below the rim, and short parallel
+    horizontal lines forming a band down the sides.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The passage reports only two clay-modeling efforts beyond pots and lamps:
+    two rude clay dolls obtained at a village on the lower Yukon.'
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: St Michael earthenware specimens are described with incised dots and multiple
+    incised grooves near or inside the rim.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Small St Lawrence island clay vessels were made for suspension over lamps
+    using holes, whalebone strips, lugs, or cord.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Some small St Lawrence island vessels are described as too small for cooking
+    food and probably used for trying out seal oil for lamp use.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Women potters
+  description: Women are identified as the only potters among the Eskimo communities
+    discussed in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Rude clay dolls
+  description: Two rude clay dolls from a village on the lower Yukon are mentioned
+    as rare clay modeling efforts beyond pots and lamps.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: potters
+  assigned_to:
+  - fig:1
+  basis: The passage states that women are the only potters and then describes the
+    vessel-making process.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: modeled clay doll objects
+  assigned_to:
+  - fig:2
+  basis: The dolls are presented as examples of clay modeling other than pots and
+    lamps.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: prepared blue clay
+  literal_form: tough blue clay moistened and kneaded for pottery
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: clay temper materials
+  literal_form: marsh grass blades and fine black volcanic sand mixed with clay
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: clay vessel or pot
+  literal_form: formed clay vessel with bottom, wall, rim, and side surface
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: fire for drying and baking
+  literal_form: fire near, inside, and outside the clay vessel during drying and baking
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: incised ornamentation
+  literal_form: incised lines, dots, and grooves on vessel sides and rims
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: suspension fittings
+  literal_form: holes, whalebone strips, lugs, and cord used to suspend small vessels
+    over lamps
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: lamp and seal oil use
+  literal_form: small clay vessels suspended over ignited lamps and probably used
+    for trying out seal oil
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:8
+  label: clay dolls
+  literal_form: two rude clay dolls from the lower Yukon
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: St Michael pottery manufacture
+  summary: Women potters prepare clay with grass and volcanic sand, shape a vessel
+    by forming a bottom and building a wall, smooth or scallop the rim, and sometimes
+    incise the sides.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Drying and firing the vessel
+  summary: After shaping and ornamentation, the vessel is placed near fire to dry,
+    then baked with fire inside and outside for one or two hours.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hotham inlet decorated pots
+  summary: Several larger pots at a Hotham inlet summer camp have scalloped tops,
+    constricted profiles below the rim, and bands of short parallel horizontal lines.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Lower Yukon clay dolls and St Michael incised specimens
+  summary: The passage notes two lower Yukon clay dolls and describes St Michael vessels
+    with dots and grooves near or inside the rim.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: St Lawrence island suspended lamp vessels
+  summary: Small clay vessels from St Lawrence island have holes or lugs for suspension
+    over lamps and are said to be too small for cooking, probably serving in seal-oil
+    preparation for lamps.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: women-only pottery production
+  taxonomy_refs: []
+  basis: The passage explicitly states that women are the only potters in the communities
+    described.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic craft pattern, not a mythological motif in the
+    passage.
+- id: motif:2
+  label: clay vessel formation and firing sequence
+  taxonomy_refs: []
+  basis: The passage gives a repeated sequence of preparing clay, shaping a vessel,
+    ornamenting it, drying it near fire, and baking it with heat inside and outside.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a practical manufacturing sequence; no symbolic or
+    ritual meaning is stated.
+- id: motif:3
+  label: geometric incised vessel ornamentation
+  taxonomy_refs: []
+  basis: The described vessels include incised side marks, horizontal line bands,
+    dots, and grooves on or near rims.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage does not interpret the designs symbolically.
+- id: motif:4
+  label: suspended clay vessel over lamp
+  taxonomy_refs: []
+  basis: St Lawrence island vessels are described with holes, lugs, whalebone, or
+    cord for suspension over lamps and possible seal-oil use.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The stated seal-oil function is marked as probable by the source; this
+    is a material-use pattern rather than a mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a limited intra-regional comparison of clay-vessel
+    practices across St Michael, Hotham inlet, and St Lawrence island: all involve
+    clay vessels, while forms, decoration, and functions vary by locality.'
+  claim_level: same_function
+  target: Bering Strait Eskimo pottery practices in the named localities
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs:
+  - ev:8
+  confidence: medium
+  limitations: This is a comparison within one ethnographic passage and concerns artifact
+    form and use, not historical contact or mythological inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12853-12859
+  quote_or_summary: Pottery manufacture from clay is said to be widely spread among
+    Eskimo communities contacted; women are the only potters; the St Michael process
+    is introduced.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 12860-12871
+  quote_or_summary: At St Michael, blue clay is moistened and kneaded, mixed with
+    marsh grass and black volcanic sand, formed into a bottom and built-up wall, then
+    smoothed, scalloped, or incised.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 12873-12876
+  quote_or_summary: After shaping and ornamenting, the vessel is dried near a fire,
+    then baked for one or two hours with fire inside and outside.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 12878-12886
+  quote_or_summary: At Hotham inlet, pots holding two to three gallons include scalloped
+    tops, constricted outlines below the rim, and bands of short parallel horizontal
+    side lines.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 12891-12895
+  quote_or_summary: 'Despite regional skill in bone and ivory carving, the author
+    saw only two clay modeling efforts beyond pots and lamps: rude clay dolls from
+    a lower Yukon village.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 12897-12906
+  quote_or_summary: St Michael earthenware specimens are described with dimensions
+    and with incised dots and grooves near or inside the rim.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 12908-12917
+  quote_or_summary: Small St Lawrence island clay vessels were used for suspension
+    over ignited lamps; examples include holes for whalebone strips and lugs pierced
+    for cord.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 12918-12928
+  quote_or_summary: Additional small St Lawrence island pots are described by shape
+    and dimensions; the vessels are too small for cooking and probably used for trying
+    out seal oil for lamps.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal artifact and process details are explicit. Motif candidates are treated
+    as material-culture patterns because the passage does not provide mythic or ritual
+    interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological taxonomy motif family is directly supported by this passage; the only available symbol taxonomy reference used is fire.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l12853-l12928
+  passage_sha256=0f7d269fbca7e174a192e5fd374d75289c4cee6f899881fca629da4fa0867af4
+

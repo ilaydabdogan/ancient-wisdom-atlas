@@ -1,0 +1,373 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l7038-l7082
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: APPENDIX B / APPENDIX C / APPENDIX D / MATRILINEAL DESCENT IN ASHANTI; lines
+    7038-7082
+  start: '7038'
+  end: '7082'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces an examination of women and queen mothers in Ashanti
+    society by restating an orthodox account of matrilineal and matripotestal descent.
+    It says clan descent and blood pass through women, family authority lies mainly
+    with the maternal uncle, males transmit ntoro or spirit rather than blood, and
+    the two exogamous categories explain marriage prohibitions. It also reports that
+    Ashanti explanations for female-line blood transmission are linked to observed
+    blood at childbirth and menstruation, and introduces a discussion with three old
+    women, including a Queen Mother.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the author proposes to examine the position of women
+    in Ashanti society, especially queen mothers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Ashanti descent is described as matrilineal and matripotestal: clan descent
+    is traced through the female line, and family authority lies mainly with the mother’s
+    brother, the maternal uncle.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Abusua, or clan, is stated to be synonymous with mogya or bogya, translated
+    as blood.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that only a woman can transmit blood to male or female
+    descendants.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that a male cannot transmit the blood he derived from his
+    mother, and that orthodox belief denies the presence of the male parent’s blood
+    in a child’s veins.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The male parent is said to transmit ntoro, translated by the author as spirit,
+    and only males can transmit ntoro.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Both abusua and ntoro are described as exogamous, and together they account
+    for the marriage prohibitions mentioned in the passage.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The stated Ashanti rationale for tracing bogya, or blood, only through women
+    is linked to blood observed at childbirth and during menstruation.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The author reports discussing male blood transmission with three old women,
+    one of whom was a Queen Mother of B-, and asking why a male with blood in his
+    body could not transmit it to offspring.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ashanti women
+  description: Women are the focus of the proposed examination and are described as
+    the only transmitters of blood to descendants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Queen mothers / ahema
+  description: Queen mothers are named as a special focus within the examination of
+    women’s position; one Queen Mother of B- is among the three old women consulted.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Maternal uncle / wofa
+  description: The mother’s brother is described as the person in whose hands family
+    authority mainly lies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Male parent
+  description: The male parent is described as unable to transmit blood but able to
+    transmit ntoro, translated as spirit.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Descendants / children
+  description: Descendants, male or female, are described as receiving blood through
+    a woman; children are described as receiving ntoro from the male parent.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Three old women
+  description: Three old women are described as interlocutors in a discussion about
+    why males cannot transmit blood, one of them being the Queen Mother of B-.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: female-line blood transmitter
+  assigned_to:
+  - fig:1
+  basis: The passage states that a woman alone can transmit blood to descendants.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: maternal family authority holder
+  assigned_to:
+  - fig:3
+  basis: Authority in the family is said to lie mainly in the hands of the mother’s
+    brother, the maternal uncle.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: paternal ntoro transmitter
+  assigned_to:
+  - fig:4
+  basis: The male parent is said to transmit ntoro, translated as spirit, and the
+    male alone can transmit it.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: queen mother focus
+  assigned_to:
+  - fig:2
+  basis: The author names ahema, or queen mothers, as a special focus of the examination
+    of women’s position.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: field discussion interlocutor
+  assigned_to:
+  - fig:2
+  - fig:6
+  basis: The author says he discussed the matter with three old women, one of whom
+    was a Queen Mother.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: blood as clan descent substance
+  literal_form: mogya / bogya, translated as blood
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: ntoro as paternal spirit transmission
+  literal_form: ntoro, translated by the author as spirit
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: childbirth and menstrual blood
+  literal_form: blood at child-birth and during menstruation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: abusua as exogamous clan category
+  literal_form: abusua, translated as clan and equated with blood
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Statement of matrilineal and matripotestal order
+  summary: The passage describes Ashanti descent as traced through women and family
+    authority as mainly held by the maternal uncle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Complementary blood and ntoro transmission
+  summary: The passage distinguishes female transmission of blood from male transmission
+    of ntoro, while saying that both categories are exogamous and explain marriage
+    prohibitions.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Physiological rationale for female blood descent
+  summary: The passage reports that Ashanti explanations for tracing blood through
+    the female line are based on observed blood at childbirth and menstruation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Discussion with old women and a Queen Mother
+  summary: The author introduces a conversation with three old women, including a
+    Queen Mother, about why males who have blood cannot transmit it to offspring.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: matrilineal blood descent
+  taxonomy_refs: []
+  basis: The passage repeatedly states that clan descent or blood is traced and transmitted
+    only through women.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic kinship doctrine in the passage, not a narrative
+    myth episode.
+- id: motif:2
+  label: maternal blood and paternal spirit as complementary descent principles
+  taxonomy_refs: []
+  basis: Female transmission of blood is contrasted with male transmission of ntoro,
+    translated as spirit, and both categories regulate marriage prohibitions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as social and ritual classification; no external
+    comparative motif is established here.
+- id: motif:3
+  label: maternal uncle authority in a matrilineal family
+  taxonomy_refs: []
+  basis: The passage states that authority in the family lies mainly with the mother’s
+    brother, the maternal uncle.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a kinship and authority pattern rather than a mythic plot motif.
+- id: motif:4
+  label: visible female blood as rationale for descent rule
+  taxonomy_refs: []
+  basis: The passage says blood at childbirth and menstruation is given as the reason
+    for tracing blood through the female line alone.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports the rationale indirectly and does not present a mythic
+    origin story for the rule.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7038-7053
+  quote_or_summary: 'The passage introduces an examination of women and queen mothers,
+    and says Ashanti descent is matrilineal and matripotestal: clan descent is traced
+    through females, while family authority mainly lies with the mother’s brother,
+    the maternal uncle or wofa.'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7054-7064
+  quote_or_summary: Abusua or clan is equated with mogya/bogya, blood. A woman alone
+    can transmit blood to descendants, and a male cannot transmit the blood he received
+    from his mother; orthodox belief denies that children have the male parent’s blood
+    in their veins.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7065-7072
+  quote_or_summary: The male parent transmits ntoro, translated by the author as spirit;
+    the male alone transmits it. Both abusua and ntoro are exogamous and together
+    account for the marriage prohibitions, with a note about age-class taboos.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7073-7079
+  quote_or_summary: The passage states that the reason given by Ashanti people for
+    tracing bogya or blood only through females is connected to observed blood at
+    childbirth and during menstruation, leading to the supposition that blood alone
+    can be transmitted by and through a female.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7080-7082
+  quote_or_summary: The author reports discussing the matter with three old women,
+    one of whom was the Queen Mother of B-, and asking why a male who has blood in
+    his body could not transmit it to offspring.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The kinship categories, figures, and roles are explicitly stated. Motif candidates
+    are framed as social-symbolic patterns rather than narrative myth motifs. No external
+    comparison claims were made because the passage supplies no comparative target.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied; the passage does not contain the supplied water, tree, serpent, fire, mountain, milk, or cave symbols, nor a clearly supported listed motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l7038-l7082
+  passage_sha256=e3f678a05a1364242a4ad6ce888a66d30d801836f01b241ea22e02a403424685
+

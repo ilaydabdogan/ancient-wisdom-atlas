@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l16384-l16436
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: WOMEN     OF    PLOVER    BAY,    SIBERIA / GRSITT / SUMMER    CAMP    OX    HOTHAM    INLET
+    / THE    ESKIMO    ABOUT    BERING    STRAIT; lines 16384-16436
+  start: '16384'
+  end: '16436'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes planned boat spacing at a temporary summer camp at
+    Hotham Inlet, its use for trade with vessels and people from both shores of Bering
+    Strait, and several Point Hope-related camps with conical summer lodges, semi-subterranean
+    winter houses, sealskin coverings, and coastal travel northward.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Hotham Inlet camp was arranged to give numerous boats clear launching
+    space without crews interfering with neighboring crews.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The entire camp could embark and paddle to a trading vessel in less than five
+    minutes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Hotham Inlet camp was temporary and occupied for a few weeks each summer
+    for trading with vessels and with people from both shores of Bering Strait.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At Point Hope there was a large Eskimo village of about three hundred to four
+    hundred people living in conical summer lodges.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Point Hope winter village had semi-subterranean houses on the outer edge
+    of the cape, while the summer village was nearer the mainland.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Near Cape Thompson, a small party from Point Hope was traveling up the coast
+    and waiting for better weather.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Cape Thompson party lived in conical lodges covered with sewn patchwork
+    sealskins and entered through square holes about two feet above the ground.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At Cape Lisburne another Point Hope camp was traveling northward and used
+    conical lodges, some with round tops like those seen at Cape Espenberg.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hotham Inlet summer camp inhabitants
+  description: An Eskimo temporary summer camp organized around numerous boats and
+    rapid embarkation for trade.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Trading partners from both shores of Bering Strait
+  description: People from both shores of Bering Strait who met and traded at the
+    Hotham Inlet camp.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Point Hope villagers
+  description: A large Eskimo village of three hundred to four hundred people with
+    seasonal summer and winter settlements.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Point Hope party near Cape Thompson
+  description: A small traveling party from Point Hope waiting for better weather
+    while living in conical sealskin-covered lodges.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Point Hope camp at Cape Lisburne
+  description: Another Point Hope camp moving northward, with conical lodges, some
+    round-topped.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: seasonal coastal traders and boat crews
+  assigned_to:
+  - fig:1
+  basis: The camp was arranged for rapid boat launching and was occupied in summer
+    for trading with vessels and people from both shores of Bering Strait.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: trade counterparts
+  assigned_to:
+  - fig:2
+  basis: The passage says the Hotham Inlet camp was used for meeting and trading with
+    people from both shores of Bering Strait.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: seasonal settlement inhabitants
+  assigned_to:
+  - fig:3
+  basis: The Point Hope people are described as living in conical summer lodges, with
+    a separate winter village of semi-subterranean houses.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: coastal travelers delayed by weather
+  assigned_to:
+  - fig:4
+  basis: The Cape Thompson party was from Point Hope, on its way up the coast, and
+    waiting for better weather.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: northward-moving campers
+  assigned_to:
+  - fig:5
+  basis: The Cape Lisburne group is described as another camp of Point Hope people
+    on their way northward.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: boats
+  literal_form: Large number of boats arranged with clear launch space at the Hotham
+    Inlet camp.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: trading vessel
+  literal_form: A vessel reachable by the camp’s crews after rapid embarkation and
+    paddling.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Bering Strait waters and shores
+  literal_form: Waters cruised by trading vessels and shores whose people met at the
+    summer camp.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: conical summer lodges
+  literal_form: Conical summer dwellings used at Point Hope, Cape Thompson, and Cape
+    Lisburne.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: semi-subterranean winter houses
+  literal_form: Winter houses at Point Hope located on the outer edge of the cape.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: patchwork sealskin lodge covering
+  literal_form: Sealskins sewn together as a patchwork covering for Cape Thompson
+    conical lodges.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: square raised lodge entrance
+  literal_form: A square hole in one side of each Cape Thompson lodge, about two feet
+    from the ground.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Planned Hotham Inlet summer trading camp
+  summary: A temporary camp at Hotham Inlet is arranged so many boat crews can launch
+    quickly and trade with vessels and people from both shores of Bering Strait during
+    a few summer weeks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Point Hope seasonal village layout
+  summary: Point Hope has a large summer village of conical lodges and a separate
+    winter village of semi-subterranean houses on the outer cape.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Cape Thompson traveling party
+  summary: A small party from Point Hope, traveling up the coast and waiting for better
+    weather, lives in conical lodges covered with patchwork sealskins and entered
+    through raised square openings.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Cape Lisburne northward camp
+  summary: Another Point Hope camp on its way northward uses conical lodges, including
+    some round-topped forms compared in the passage to Cape Espenberg lodges.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal settlement cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage distinguishes temporary summer trading occupation, conical summer
+    lodges, and a separate winter village of semi-subterranean houses.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic settlement pattern rather than a narrative mythic
+    motif.
+- id: motif:2
+  label: temporary coastal trade gathering
+  taxonomy_refs: []
+  basis: The Hotham Inlet camp is described as occupied for only a few weeks each
+    summer for trading with vessels and with people from both shores of Bering Strait.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No sacred, ritual, or mythological interpretation is stated in the passage.
+- id: motif:3
+  label: mobile coastal camp with portable conical lodges
+  taxonomy_refs: []
+  basis: Traveling Point Hope groups at Cape Thompson and Cape Lisburne are described
+    living in conical lodges while moving along the coast or northward.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is descriptive and material-cultural; symbolic meaning is not
+    provided.
+comparison_claims:
+- id: claim:1
+  claim: Some round-topped lodges at the Cape Lisburne Point Hope camp are visually
+    likened in the passage to lodges seen at Cape Espenberg.
+  claim_level: visual_similarity
+  target: round-topped lodges at Cape Espenberg
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage notes only a visual similarity in lodge shape and does
+    not claim shared origin, borrowing, or ritual meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16384-16395
+  quote_or_summary: The camp plan accommodated many boats with clear launching space,
+    allowing the entire camp to embark and paddle to a trading vessel in under five
+    minutes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 16398-16403
+  quote_or_summary: The Hotham Inlet camp was temporary, occupied for a few summer
+    weeks for trading with vessels and with people from both shores of Bering Strait.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 16404-16410
+  quote_or_summary: Point Hope had a large Eskimo village of about three hundred to
+    four hundred people in conical summer lodges; its winter village of semi-subterranean
+    houses was on the outer cape, with the summer village nearer the mainland.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 16411-16427
+  quote_or_summary: Near Cape Thompson, a small party from Point Hope was traveling
+    up the coast, waiting for better weather, and living in conical lodges covered
+    with sewn patchwork sealskins, each entered through a square hole about two feet
+    from the ground.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 16428-16434
+  quote_or_summary: At Cape Lisburne, another Point Hope camp on its way northward
+    had the usual conical lodges, some round-topped like lodges seen at Cape Espenberg.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive ethnography rather than myth narrative. Settlement,
+    travel, trade, and material-culture patterns are well supported; symbolic or mythic
+    readings should not be inferred without external evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological figures or sacred narrative actions are present in the supplied passage. Taxonomy use is limited to explicitly supported seasonal-cycle and water references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l16384-l16436
+  passage_sha256=1fca7b834d9270e92a37f82ea720fa08f52c4db1fa76f57e41fe1df4826810fe
+

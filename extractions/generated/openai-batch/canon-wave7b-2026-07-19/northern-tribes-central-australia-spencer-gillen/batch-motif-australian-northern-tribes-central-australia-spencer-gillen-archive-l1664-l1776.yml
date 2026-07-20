@@ -1,0 +1,361 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l1664-l1776
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: FIG. PAGE / PLATES AND MAP / CHAPTER I / INTRODUCTION; lines 1664-1776
+  start: '1664'
+  end: '1776'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives a geographical and ethnographic description of northern
+    Central Australia: an inland basin and watershed system, plains and ranges, named
+    hills and creeks, tribal territories and boundaries, drought and rain effects,
+    useful trees, and the granite boulders known as the Devil’s Marbles.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The plateau is described as an inland basin with edges tilted up along the
+    watershed line; rivers beyond the coastal watershed run toward the Gulf of Carpentaria
+    or the northern and north-eastern sea coast.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: From the northern edge of the Macdonnell Range, the view extends across Burt
+    plains with mulga scrub, gum-tree lines marking dry creeks, and ranges running
+    west and curving eastward toward the Strangways.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Central Mount Stuart is described as marking the central point of the continent
+    and appearing at first as a solitary rounded mass, though closer approach shows
+    it to be a group of hills with a main central mass.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Unmatjera are identified as living in the country around Central Mount
+    Stuart, while the Foster Range marks the southern boundary of the Kaitish and
+    the northern boundary of the Unmatjera.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The bean-tree is said to be of great service to the natives because its soft
+    wood can be worked with stone implements into pitchis and shields.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Drought had severely affected the natives and the bean-trees, but rainfall
+    replenished water-holes and quickly made the country green with fresh herbage.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The Davenport Range contains a granite-filled valley where weathered boulder-shaped
+    masses form the place known as the Devil’s Marbles; some boulders are poised like
+    rocking stones.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Davenport Range is described as the dividing line between the Warramunga
+    and Arunta nations, with several tribes to the south and a closely allied group
+    of tribes to the north.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Near the Murchison Range, small creeks meander westward and are fringed with
+    gum-trees; Eucalyptus terminalis is noted for its brilliantly white trunk, on
+    which natives rub forehead bands to whiten them.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Unmatjera tribe
+  description: A small tribe whose home is identified with the country around Central
+    Mount Stuart; its northern boundary is marked by the Foster Range.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Kaitish tribe
+  description: A tribe whose southern boundary is marked by the Foster Range and whose
+    country includes the ranges and plains around Barrow Creek.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Natives / local Aboriginal people
+  description: People described as using bean-tree wood for pitchis and shields, suffering
+    during drought, and rubbing forehead bands on white-trunked Eucalyptus terminalis.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Warramunga tribe
+  description: A tribe north of the Davenport Range; the range is described as the
+    dividing line between the Warramunga and Arunta nations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Northern allied tribes
+  description: A group of tribes north of the Davenport Range, named as Warramunga,
+    Wulmala, Walpari, Tjingilli, Bingongina, Umbaia, and Gnanji, and described as
+    closely allied to one another.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: territorial group
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: The passage identifies these tribes with specific country, boundaries, or
+    dividing lines.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:2
+  label: users of local natural materials
+  assigned_to:
+  - fig:3
+  basis: The passage describes local people making implements from bean-tree wood
+    and whitening forehead bands on Eucalyptus trunks.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:3
+  label: closely allied northern tribal group
+  assigned_to:
+  - fig:5
+  basis: The passage explicitly describes the listed northern tribes as closely allied
+    to one another.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: central continental hill landmark
+  literal_form: Central Mount Stuart, described as marking the central point of the
+    continent
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: useful tree for implements
+  literal_form: bean-tree, Erythrina vespertilio, with soft wood made into pitchis
+    and shields
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: rain-filled water-holes
+  literal_form: water-holes replenished by two inches of rain after drought
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: granite boulder field
+  literal_form: weathered granite boulders known as the Devil’s Marbles, some poised
+    like rocking stones
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: white-trunked gum tree
+  literal_form: Eucalyptus terminalis with brilliantly white trunk used for whitening
+    forehead bands
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Inland basin and watershed description
+  summary: The passage describes the plateau as an inland basin and explains the surrounding
+    watershed and river drainage toward the Gulf of Carpentaria and nearby seas.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: View across Burt plains toward Central Mount Stuart
+  summary: From the Macdonnell Range, the passage describes plains, scrub, dry creeks,
+    distant hills, and Central Mount Stuart as a central continental landmark.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Foster Range, bean-trees, and drought relief
+  summary: The passage identifies tribal boundaries near the Foster Range, describes
+    the bean-tree as a useful material, notes drought damage, and records rain replenishing
+    water-holes and greening the country.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Davenport Range and Devil’s Marbles
+  summary: The route crosses desolate plains to the Davenport Range, where a granite
+    valley contains large boulder-shaped masses known as the Devil’s Marbles.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Warramunga boundary and northern allied tribes
+  summary: North of the Davenport Range, the passage identifies Warramunga country
+    and lists tribes south and north of the range, describing the northern group as
+    closely allied.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Creeks and white-barked Eucalyptus near Murchison Range
+  summary: The passage describes creeks from the Murchison Range, gum-tree fringes,
+    and Eucalyptus terminalis trunks used by natives to whiten forehead bands.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1664-1776, opening watershed paragraph
+  quote_or_summary: The plateau is described as an inland basin with uplifted watershed
+    edges; rivers beyond the coastal watershed flow to the Gulf of Carpentaria or
+    to the northern and north-eastern sea coast.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1664-1776, paragraph beginning 'Standing on the northern edge of
+    the Macdonnells'
+  quote_or_summary: The view from the Macdonnell Range includes Burt plains, mulga
+    scrub, gum-tree lines marking dry creeks, and ranges running west and curving
+    eastward toward the Strangways.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1664-1776, Central Mount Stuart description
+  quote_or_summary: Central Mount Stuart is described as the central point of the
+    continent and as a group of hills with one main central mass; the surrounding
+    country is the home of the Unmatjera.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1664-1776, Foster Range and Stirling Creek description
+  quote_or_summary: The Foster Range marks the boundary between Kaitish and Unmatjera
+    country; near Stirling Creek the bean-tree is described as useful for making pitchis
+    and shields from its soft wood.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1664-1776, Barrow Creek drought and rain passage
+  quote_or_summary: The passage says drought had seriously affected the natives, but
+    two inches of rain replenished water-holes and soon made the country green with
+    fresh herbage.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1664-1776, Davenport Range and Devil’s Marbles paragraph
+  quote_or_summary: In the Davenport Range, a granite-filled valley contains weathered
+    boulder-shaped masses known as the Devil’s Marbles, with some boulders poised
+    like rocking stones.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1664-1776, Bonney Creek and tribal divisions paragraph
+  quote_or_summary: The Davenport Range is described as the dividing line between
+    the Warramunga and Arunta nations; tribes south and north of it are named, and
+    the northern group is said to be closely allied.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1664-1776, final Murchison Range and Eucalyptus passage
+  quote_or_summary: Creeks from the Murchison Range are fringed with gum-trees; Eucalyptus
+    terminalis has a brilliantly white trunk on which natives rub forehead bands to
+    make them white.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a geographical and ethnographic introduction rather than a
+    mythic narrative. Literal landscape features, named tribal groups, and material
+    practices are extractable, but no clear mythological motif or passage-supported
+    comparison is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs or comparison claims were generated because the passage does not itself present a mythic episode, ritual narrative, or explicit comparative pattern.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l1664-l1776
+  passage_sha256=511475afcc8d4be1ada1b85cee282178433b113edf38cc198b7191f998946b64
+

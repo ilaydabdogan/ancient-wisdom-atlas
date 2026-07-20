@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l595-l643
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: INTRODUCTION / COHTEN TS, / INTRODUCTION. / INTRODUCTION. XV; lines 595-643
+  start: '595'
+  end: '643'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a scholarly introduction note criticizing proposed translations
+    of two Vedic verses. It discusses renderings involving sacrificial drinks, a prepared
+    press, an invitation or call to a meal, Indra, a thunderbolt, Soma-pressing stones,
+    armor, yoking speckled animals, and the meaning of terms such as svadha and babhitha.
+  language: English with quoted German and transliterated Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author criticizes a translation choice as introducing a modern idea and
+    cites Ludwig as calling the idea insipid.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A quoted German rendering of verse 4 presents a first-person speaker who loves
+    sayings, wishes, and drinks, while a scent rises and a press is prepared.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same quoted rendering says the calls plead with or entice the speaker,
+    and the speaker's animals lead him to a meal.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author rejects the rendering in which the flavor of sacrifices rises upward
+    and cites Benfey's alternative translation involving a thunderbolt hurled by the
+    speaker.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The author questions whether Indra ever speaks of the stones used for pressing
+    Soma as his own stone.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A quoted German rendering of verse 5 presents a group with friends or neighbors
+    and free men taking armor and yoking speckled animals, and it addresses Indra.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The author says svadha means nature, custom, or wont rather than wish, and
+    that babhitha means 'thou hast become' rather than 'thou comest.'
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: Named Vedic deity addressed in the quoted verse 5 rendering and discussed
+    in relation to speech about Soma-pressing stones.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: first-person speaker in the verse 4 rendering
+  description: An 'I' in the quoted rendering who loves sayings, wishes, and drinks,
+    is called or enticed, is led to a meal by animals, and in Benfey's alternative
+    has a hurled thunderbolt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: first-person plural group in the verse 5 rendering
+  description: A 'we' group with friends or neighbors and free men, described as taking
+    armor and yoking speckled animals.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named deity and addressee
+  assigned_to:
+  - fig:1
+  basis: The quoted verse 5 rendering ends with an address to Indra.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: deity whose speech is debated
+  assigned_to:
+  - fig:1
+  basis: The author asks where Indra ever speaks of Soma-pressing stones as 'my stone.'
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: first-person speaker of contested verse rendering
+  assigned_to:
+  - fig:2
+  basis: The verse 4 rendering and Benfey's alternative both use first-person possessive
+    or verbal forms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: collective actor preparing equipment and animals
+  assigned_to:
+  - fig:3
+  basis: The verse 5 rendering describes a group taking armor and yoking speckled
+    animals.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Soma-pressing stones
+  literal_form: stones used for pressing the Soma
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: thunderbolt
+  literal_form: a thunderbolt hurled by the speaker
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sacrificial drinks and offerings
+  literal_form: sayings, wishes, drinks, and sacrifices mentioned in the contested
+    rendering and critique
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: prepared press
+  literal_form: the press described in the quoted rendering as prepared or equipped
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: speckled yoke-animals
+  literal_form: speckled animals yoked by the group in the quoted verse 5 rendering
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: armor
+  literal_form: armor or equipment taken by the group in the quoted verse 5 rendering
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Contested translation of verse 4
+  summary: The passage quotes a rendering in which a first-person speaker responds
+    to ritual utterances, drinks, a press, and a meal, then rejects some of that rendering
+    and cites an alternative involving a hurled thunderbolt.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Discussion of Soma-pressing stones and Indra
+  summary: The author disputes the interpretation of a phrase as a prepared press
+    and asks whether Indra ever speaks of Soma-pressing stones as his own stone.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Contested translation of verse 5
+  summary: The passage quotes a rendering in which a group takes armor, yokes speckled
+    animals, and addresses Indra, then corrects the meanings of svadha and babhitha.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ritual offering and invitation to Indra
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The quoted and discussed renderings mention drinks, sacrifices, a press,
+    Soma-pressing stones, calls that entice the speaker, a meal, and an address to
+    Indra.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is primarily a translation critique, and the author rejects
+    some of the sacrificial imagery as mistranslation; the motif should be reviewed
+    against the underlying hymn.
+- id: motif:2
+  label: divine or heroic thunderbolt weapon
+  taxonomy_refs: []
+  basis: Benfey's alternative translation, quoted by the author, reads the contested
+    phrase as 'My thunderbolt, when hurled by me, moves mightily.'
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not explicitly identify the thunderbolt's owner as Indra
+    within the quoted alternative, and the context is philological rather than narrative.
+- id: motif:3
+  label: martial preparation with yoked animals
+  taxonomy_refs: []
+  basis: The quoted verse 5 rendering describes a group taking armor and yoking speckled
+    animals before addressing Indra.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This motif depends on a translation that the author calls unnecessarily
+    free and partly wrong.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 595-600
+  quote_or_summary: The author says a translation of SubhAnatz does not mean 'auf
+    der Fahrt' and that a rendering adopted from Grassmann introduces a modern idea;
+    Ludwig is cited as calling it insipid.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 602-608
+  quote_or_summary: 'Von Roth''s quoted verse 4 rendering includes: ''Ich liebe Spriiche,
+    Wiinsche und die Tranke,'' and says the scent rises, the press is prepared, calls
+    entice the speaker, and ''meine Fiichse fithren mich zum Mahle.'''
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 615-619
+  quote_or_summary: 'The author says translating the phrase as the flavor of sacrifices
+    rising is impossible and cites Benfey: ''My thunderbolt, when hurled by me, moves
+    mightily.'''
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 621-624
+  quote_or_summary: The author says the phrase does not mean the press is equipped
+    and asks where Indra ever speaks of the stones used for pressing Soma as 'my stone.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 626-632
+  quote_or_summary: Von Roth's quoted verse 5 rendering describes 'we' and friends
+    or neighbors, free men, taking armor, yoking speckled animals, and addressing
+    Indra as arriving according to wish.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 633-643
+  quote_or_summary: The author calls the last line wrong, says svadha means 'nature,
+    custom, wont,' and says babhitha means 'thou hast become,' not 'thou comest.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a philological introduction note rather than a continuous
+    mythic narrative. Motif candidates are based on quoted or discussed verse renderings
+    and should be checked against the underlying Vedic hymn.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a direct cross-tradition comparison beyond available motif-family tagging.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l595-l643
+  passage_sha256=e3820f91d7aefa3a4524b92c27a761b12bb50280125138660102d66d6396e7b7
+

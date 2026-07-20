@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l3256-l3290
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: A DECORATED WOODEN WHISTLE WORN ROUND THE NECK, / CLAY WATER-BOTTLE. / CHAPTER
+    VIII / HUNTING; lines 3256-3290
+  start: '3256'
+  end: '3290'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Chaco as an inland region where fishing is nevertheless
+    a chief subsistence activity. Dry prairie-like ground can become deep swamp after
+    rains, filled with fish, eels, mud-fish, alligators, and water-fowl. Eels and
+    mud-fish are said to survive drought below the surface, and Indians move camps
+    near such swamps when the dry season breaks to obtain abundant food.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Chaco is described as an inland country where fishing forms one of the
+    chief means of subsistence for Indians, including groups distant from large rivers.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage contrasts long periods of water scarcity with later rainy-season
+    flooding that turns prairie-like swamp beds into vast swamps.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The flooded swamps are described as containing fish, eels, mud-fish, sometimes
+    alligators, and many water-fowl.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Eels and mud-fish are said to hide a few feet below the ground during drought.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Indians are said to pitch camp near the swamps at the break-up of the
+    dry season because they expect an abundant food supply there.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Indians of the Chaco
+  description: A collective human group for whom fishing is a chief means of subsistence
+    and who camp near seasonal swamps when the dry season ends.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Eels and mud-fish
+  description: Aquatic animals described as hiding below the ground during drought
+    and appearing in rainy-season swamps.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: seasonal fishers and campers
+  assigned_to:
+  - fig:1
+  basis: The passage says fishing is a major subsistence means and that the Indians
+    camp near swamps when the dry season breaks.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: drought-surviving aquatic animals
+  assigned_to:
+  - fig:2
+  basis: The passage states that eels and mud-fish remain hidden below the surface
+    during drought.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Seasonal swamp water in an inland Chaco landscape
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: swamp bed
+  literal_form: Prairie-like land that becomes a vast swamp after the rainy season
+    begins
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: mud below the surface
+  literal_form: Ground below which eels and mud-fish hide during drought
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dry land becomes flooded swamp
+  summary: Land that appears as prairie or dry swamp bed is later transformed by rains
+    into deep swamp covered with reeds and water plants.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Aquatic life fills the seasonal swamp
+  summary: After flooding, the swamp contains fish, eels, mud-fish, sometimes alligators,
+    and water-fowl.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: People camp near renewed food supply
+  summary: At the break-up of the dry season, the Indians camp near the swamps, expecting
+    abundant food.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal transformation from drought to food-bearing water
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage presents a recurring sequence in which dry or water-scarce land
+    becomes flooded after rains and then provides an abundant supply of fish and other
+    animals.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic environmental description, not a myth narrative;
+    the motif label should be treated as a pattern candidate rather than a demonstrated
+    mythic motif.
+- id: motif:2
+  label: life hidden in dry earth until returning water
+  taxonomy_refs: []
+  basis: Eels and mud-fish are described as surviving drought below the ground and
+    then appearing in swamp conditions after the rainy season.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage gives a naturalistic explanation and does not frame the animals
+    as supernatural or symbolic beings.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3256-3261
+  quote_or_summary: "“fishing forms one of the chief means of subsistence of the Indians,
+    even among those remote from large rivers.”"
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 3261-3274
+  quote_or_summary: The narrator describes long water scarcity away from permanent
+    rivers and then explains that land resembling prairie can become a vast rainy-season
+    swamp, with water up to five feet deep and covered with reeds and water plants.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3274-3278
+  quote_or_summary: The rainy-season swamp is said to teem with fish, eels, mud-fish,
+    sometimes alligators, and many water-fowl.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3279-3281
+  quote_or_summary: "“The eels and mud-fish have been in hiding throughout the drought
+    a few feet below the surface of the ground.”"
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 3285-3290
+  quote_or_summary: The Indian, knowing from experience what to expect, hastens to
+    camp near the swamps when the dry season breaks, confident of finding an abundant
+    food supply.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ethnographic details are explicit in the passage. Motif candidates
+    are limited because the passage is descriptive rather than mythic. No comparison
+    claims were made because the passage itself provides no comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l3256-l3290
+  passage_sha256=0c4473ed26eeac309d6310de97f647205f7981ddc6054f7615a9f9cf3db4c27d
+

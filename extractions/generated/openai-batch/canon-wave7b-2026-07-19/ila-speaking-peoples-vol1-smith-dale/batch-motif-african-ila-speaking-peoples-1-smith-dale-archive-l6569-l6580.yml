@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l6569-l6580
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: CH. VIII / WARFARE / BA-ILA WARRIORS. / A MIMIC FIGHT.; lines 6569-6580
+  start: '6569'
+  end: '6580'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a mimic fight, two ranks work themselves into excitement with vocal
+    sounds. A signal begins a charge and exchange of darts; the sides retreat to gather
+    missiles. A participant appears to lie wounded with a spear through his body,
+    prompting one side to move in and his friends to try to save and drag him away.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is labeled as a mimic fight.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Participants excite themselves with shouts, shrieks, whistlings, and lululuings.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that lululuings mean welcome when used by women and defiance
+    when used by men.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On a signal, two ranks charge.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Darts fill the air during the charge.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The ranks retreat and gather fresh missiles, identified as missiles thrown
+    by their opponents.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A form is seen lying on the ground, twisting in agony, with a spear apparently
+    through his body.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: One side rushes forward to make sure, while the fallen figure's friends attempt
+    to save and drag him away.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: two ranks or two sides
+  description: The opposing ranks or sides that charge, retreat, gather missiles,
+    and rush forward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: men using lululuings
+  description: Men whose use of lululuings is said to mean defiance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: women using lululuings
+  description: Women whose use of lululuings is said to mean welcome.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: fallen form
+  description: A figure lying on the ground, twisting in agony, with a spear apparently
+    through his body.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: friends of the fallen form
+  description: The fallen figure's friends, who try to save and drag him away.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: opposing mock-combat groups
+  assigned_to:
+  - fig:1
+  basis: The passage describes two ranks charging, retreating, gathering missiles,
+    and moving against one another in a mimic fight.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: defiant vocalizers
+  assigned_to:
+  - fig:2
+  basis: The passage states that lululuings used by men mean defiance.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: welcoming vocalizers
+  assigned_to:
+  - fig:3
+  basis: The passage states that lululuings used by women mean welcome.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: apparent wounded participant
+  assigned_to:
+  - fig:4
+  basis: The figure is described as lying on the ground in agony with a spear apparently
+    through his body.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: rescuers or friends
+  assigned_to:
+  - fig:5
+  basis: The friends attempt to save and drag away the fallen figure.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: lululuing as social signal
+  literal_form: lululuing vocal sound
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: missiles in mock combat
+  literal_form: darts or fresh missiles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: apparent spear wound
+  literal_form: spear apparently through the body
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: vocal preparation for mimic fight
+  summary: Participants work themselves up with shouts, shrieks, whistlings, and lululuings;
+    the passage explains gendered meanings for lululuings.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: ranked charge and missile exchange
+  summary: At a signal, two ranks charge, darts fill the air, and the ranks retreat
+    to gather missiles thrown by opponents.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: apparent casualty and attempted rescue
+  summary: A figure appears to lie wounded with a spear through his body; one side
+    rushes toward him, while his friends try to save and drag him away.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mimic fight with opposing ranks
+  taxonomy_refs: []
+  basis: The passage is explicitly labeled a mimic fight and describes two ranks charging
+    and retreating against one another.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage fragment does not explain the wider ritual or social occasion
+    of the mimic fight.
+- id: motif:2
+  label: feigned casualty in mock combat
+  taxonomy_refs: []
+  basis: A figure appears wounded with a spear through his body, and others react
+    by moving toward him or attempting rescue.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The word 'apparently' suggests staging, but the passage fragment does
+    not fully describe the resolution.
+- id: motif:3
+  label: vocal defiance before combat display
+  taxonomy_refs: []
+  basis: The participants use shouts, shrieks, whistlings, and lululuings, with men's
+    lululuings glossed as defiance.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a local explanation of the sound but does not connect
+    it to a broader named motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 6569-6570
+  quote_or_summary: 'Passage heading: "A MIMIC FIGHT."'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 6571-6573
+  quote_or_summary: Participants use shouts, shrieks, whistlings, and lululuings;
+    lululuings mean welcome when used by women and defiance when used by men.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6573-6576
+  quote_or_summary: On a signal, two ranks charge; darts fill the air; the ranks retreat
+    and gather fresh missiles thrown by opponents.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6576-6578
+  quote_or_summary: After another rush and retreat, a form is seen lying on the ground
+    twisting in agony with a spear apparently through his body.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6578-6580
+  quote_or_summary: One side rushes forward to make sure; the fallen figure's friends
+    try to save and drag him away; the sentence ends mid-action.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the passage's fragmentary opening and sentence ending.
+    No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol ref was assigned because the passage does not support the supplied taxonomy categories directly.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l6569-l6580
+  passage_sha256=1c9f9c5923d2d2d47e66f96c7692b90c44395d23d6854c5cc6d42b842e778f91
+

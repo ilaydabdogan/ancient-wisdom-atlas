@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l37543-l37601
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CXXXV / SECTION CXXXVI / SECTION CXXXVII / SECTION CXXXVIII; lines
+    37543-37601
+  start: '37543'
+  end: '37601'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'In a dialogue between the mouse Palita and the trapped cat Lomasa, Palita
+    proposes a compact: he will cut the cat free if the cat does not kill him and
+    protects him from other predators. The cat accepts, asks for protection, and promises
+    obedience, friendship, and future gratitude. Palita explains that he will take
+    shelter beneath the cat’s body from the mongoose and owl while later cutting the
+    noose.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The mouse says the cat has lived on the tree while he has lived at its foot
+    for many years.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mouse offers to cut the net or noose holding the cat if the cat abstains
+    from killing him.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:3
+  text: The mouse argues for a timely understanding or compact because each wants
+    the other to live.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The mouse compares their compact to a man and a piece of wood carrying one
+    another across a deep river.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The cat replies that he is in distress, accepts the compact, places himself
+    in the mouse’s hands, and says he will serve like a disciple.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The mouse says he will crouch beneath the cat’s body because he fears the
+    mongoose and asks the cat to protect him from the owl as well.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The cat calls the mouse a dear friend and promises future acts of gratitude,
+    honour, and benefit after being freed.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Palita
+  description: A mouse who negotiates with the trapped cat, seeks protection from
+    the mongoose and owl, and promises to cut the noose.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Lomasa
+  description: A cat, described as the mouse’s foe, trapped in a net or noose and
+    seeking rescue from Palita.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: mongoose
+  description: A creature feared by the mouse and named as a threat from which the
+    cat should protect him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: owl
+  description: A creature that the mouse says wishes to seize him for prey.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: negotiator of compact
+  assigned_to:
+  - fig:1
+  basis: Palita proposes terms for mutual preservation and explains the practical
+    expedient.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: trapped petitioner
+  assigned_to:
+  - fig:2
+  basis: Lomasa is in distress, accepts the compact, and says he places himself in
+    Palita’s hands.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: predatory threat
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The mongoose frightens Palita, and the owl is said to wish to seize him as
+    prey.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: reciprocal rescuer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Palita says he will rescue the cat and the cat will rescue him; the detailed
+    plan gives each a protective function.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: shared tree
+  literal_form: tree with the cat living on it and the mouse living at its foot
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: binding net or noose
+  literal_form: net/noose entangling the cat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: deep river
+  literal_form: deep and large river in the mouse’s analogy
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: piece of wood used for crossing
+  literal_form: piece of wood that carries a man across a river and is also carried
+    to the other side
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: sheltering body
+  literal_form: the cat’s body beneath which the mouse will crouch
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mouse proposes a compact
+  summary: Palita argues that the cat and mouse should form an understanding because
+    each wishes to survive, and he offers to cut the cat’s bonds if spared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: River-crossing analogy
+  summary: Palita illustrates mutual aid by describing a man and a piece of wood each
+    helping the other reach the far side of a deep river.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Cat accepts and submits
+  summary: Lomasa welcomes the proposal, admits his distress, accepts the compact,
+    and asks for protection while promising obedience and service.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Plan for mutual rescue
+  summary: Palita says he will shelter beneath the cat from the mongoose and owl,
+    while he will cut the noose that traps the cat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Cat promises gratitude
+  summary: Lomasa rejoices, calls Palita a friend dear as life, and promises later
+    honour and benefit in return for the mouse’s service.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: reciprocal rescue compact between enemies
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The mouse and cat, normally foes, negotiate a compact in which each will
+    preserve the life of the other.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a pragmatic survival bargain; the available taxonomy
+    label is broader than the literal exchange.
+- id: motif:2
+  label: wisdom through timely counsel and expedient action
+  taxonomy_refs:
+  - wisdom
+  basis: The mouse’s speech is described as reasoned, judicious, and concerned with
+    acting at the proper time; the cat is also described as possessing judgment and
+    forethought.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level ethical and practical wisdom motif, not a separate
+    mythic figure of Wisdom.
+- id: motif:3
+  label: taking shelter with a dangerous protector
+  taxonomy_refs: []
+  basis: The mouse proposes to crouch beneath the cat’s body for protection from the
+    mongoose and owl, while relying on the cat not to kill him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy family directly matches this predator-as-refuge
+    pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the compact to reciprocal river crossing, where
+    a man and a piece of wood each help the other reach the far side.
+  claim_level: same_function
+  target: reciprocal-support river-crossing pattern
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal analogy within the passage, not evidence for historical
+    contact or cross-cultural transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37543-37561
+  quote_or_summary: Palita says the cat has lived on the tree and the mouse at its
+    foot for years; he proposes union and offers to rescue the cat if the cat spares
+    him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 37562-37567
+  quote_or_summary: Palita says a man crosses a deep river by a piece of wood, and
+    the wood is also taken to the other side; he likens this to their compact bringing
+    happiness to both.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 37571-37588
+  quote_or_summary: Lomasa the cat, described as intelligent and eloquent, replies
+    that he is distressed, accepts a compact, places himself in the mouse’s hands,
+    and promises service like a disciple.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 37588-37599
+  quote_or_summary: Palita tells Lomasa that he will crouch beneath the cat’s body
+    because he fears the mongoose; he asks protection from the owl and swears to cut
+    the noose entangling the cat.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 37599-37601
+  quote_or_summary: Lomasa welcomes Palita as a friend dear as life and promises future
+    gratitude, honour, and beneficial service after being freed from danger.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal figure and action extraction is straightforward. Motif taxonomy mapping
+    is partly approximate because the passage is an animal-fable dialogue about pragmatic
+    alliance.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or taxonomy identifiers beyond the supplied available references were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l37543-l37601
+  passage_sha256=bb41866bf58d76ad1824057f26ec49c21ed23320478f93ff13af0551ad0c7616
+

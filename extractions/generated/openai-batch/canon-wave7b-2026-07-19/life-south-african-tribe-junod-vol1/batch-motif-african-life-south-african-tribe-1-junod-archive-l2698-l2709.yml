@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.african-life-south-african-tribe-1-junod-archive-l2698-l2709
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+passage_locator:
+  label: THONGA CALABASHES / CONCLUSION ON THE RITES OF INFANCY / B. CHILDHOOD / BOYS
+    TRYING TO PLAY BILLIARDS; lines 2698-2709
+  start: '2698'
+  end: '2709'
+  translation: The Life of a South African Tribe, Vol. I (The Social Life)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A caption locates boys trying to play billiards at Magudju's near Antioka
+    Station. A fragment mentions fear of a timbelembele causing someone to climb.
+    The main paragraph says Thonga boys enjoy games and imitate European games; boys
+    seen in two rows throwing projectiles on the ground are explained as attempting
+    to imitate Portuguese officials playing billiards at a camp.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage labels the scene as boys trying to play billiards at Magudju's,
+    near Antioka Station.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fragment states that someone is frightened by the warning that a timbelembele
+    is coming to bite and then finds strength to climb.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Thonga boys are described as very fond of games and as trying to imitate European
+    games.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The boys in the illustration are arranged in two rows and throw projectiles
+    on the ground.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The narrator says he wondered what game the boys were playing and was told
+    they had seen Portuguese officials playing billiards at the camp.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The boys' activity is described as the result of their attempt to do the same
+    as the Portuguese officials playing billiards.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Thonga boys
+  description: Boys described as fond of games, disposed in two rows, throwing projectiles
+    on the ground, and attempting to imitate billiards.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Portuguese officials
+  description: Officials seen playing billiards at the camp; their play is the model
+    for the boys' attempted imitation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Narrator
+  description: The first-person observer who wondered what game the boys were playing
+    and was informed of the explanation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Unidentified frightened person
+  description: An unspecified person in a fragment is frightened by mention of a timbelembele
+    and climbs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: child game imitators
+  assigned_to:
+  - fig:1
+  basis: The boys are said to imitate European games and to attempt what they had
+    seen Portuguese officials doing.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: model players of billiards
+  assigned_to:
+  - fig:2
+  basis: Portuguese officials are described as playing billiards at the camp, which
+    the boys later attempted to imitate.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: ethnographic observer-inquirer
+  assigned_to:
+  - fig:3
+  basis: The narrator says he wondered what game was being played and was informed
+    of the explanation.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: frightened climber
+  assigned_to:
+  - fig:4
+  basis: The fragment says the person was frightened and found strength to climb.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: billiards
+  literal_form: A European game played by Portuguese officials and imitated by boys.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: projectiles
+  literal_form: Objects thrown by the boys on the ground during their attempted game.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: two rows
+  literal_form: The boys' physical arrangement in two rows while throwing projectiles.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: timbelembele
+  literal_form: A named being or threat mentioned in the warning that it is coming
+    to bite.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Fragmentary warning and climb
+  summary: A fragment reports that a person is frightened by a warning about a timbelembele
+    coming to bite and then gains strength to climb.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Boys attempting billiards
+  summary: At Magudju's near Antioka Station, Thonga boys arranged in two rows throw
+    projectiles on the ground in an attempt to imitate billiards played by Portuguese
+    officials at a camp.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: children imitating an observed adult or foreign game
+  taxonomy_refs: []
+  basis: The passage explicitly says Thonga boys imitate European games and that these
+    boys attempted to reproduce billiards after seeing Portuguese officials play it.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic childhood-play pattern, not a mythic motif in
+    the supplied taxonomy.
+- id: motif:2
+  label: fear-induced climbing from a threatening being
+  taxonomy_refs: []
+  basis: A fragment says a person, frightened by mention of a timbelembele coming
+    to bite, immediately finds strength to climb.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage is fragmentary and gives little context for the timbelembele,
+    the speaker, or the climber.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents the boys' activity as an attempted imitation
+    of billiards played by Portuguese officials.
+  claim_level: same_function
+  target: Portuguese officials' billiards at the camp
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The text says this was the boys' attempted imitation, but the described
+    activity—two rows throwing projectiles on the ground—does not provide enough detail
+    to establish close rule-based equivalence to billiards.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 2698-2700
+  quote_or_summary: 'Caption: boys trying to play billiards at Magudju''s, near Antioka
+    Station.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2701-2702
+  quote_or_summary: '"timbelembele coming to bite you !" and the frightened person
+    at once finds strength to climb.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 2703-2704
+  quote_or_summary: Thonga boys are said to be very fond of games and to try to imitate
+    European games.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2704-2706
+  quote_or_summary: In an illustration, the boys are arranged in two rows and throw
+    projectiles on the ground.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 2706-2709
+  quote_or_summary: The narrator wondered what game this was and was told that after
+    seeing Portuguese officials playing billiards at the camp, the boys attempted
+    to do the same.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main boys' billiards scene is clear. The timbelembele/climbing material
+    is fragmentary and should be reviewed against the surrounding lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol directly matches the billiards imitation scene; taxonomy_refs are therefore empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-life-south-african-tribe-1-junod-archive__l2698-l2709
+  passage_sha256=166d596ff6380173d70a1baf0b13ad730c356cd247bd5d28d7b2f283d2a4f94c
+

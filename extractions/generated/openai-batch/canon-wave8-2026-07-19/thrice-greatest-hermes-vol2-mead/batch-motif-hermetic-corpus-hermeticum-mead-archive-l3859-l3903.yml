@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l3859-l3903
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: THE SACRED SERMON 79 / THE SACRED SERMON 81 / VOL. II. 6 / THE SACRED SERMON
+    83; lines 3859-3903
+  start: '3859'
+  end: '3903'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses renewal or palingenesis as a doctrine of repeated
+    becoming or reincarnation, then interprets a sentence about memorials of ancient
+    handiworks as referring to cycles of destruction and renewal, including a Flood,
+    an earlier wisdom-loving Egyptian race associated with the First Hermes, and possible
+    surviving prehistoric remains beneath pyramids.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The exposition is described as teaching renewal or making-new-again, with
+    animal and vegetable forms containing a seed of again-becoming.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage interprets the renewal doctrine as palingenesis or reincarnation
+    on a wheel of birth-and-death.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A cited sentence says mighty memorials of handiworks remain on earth as dim
+    traces when cycles are renewed.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentator interprets the memorials as traces of a past mighty race devoted
+    to growth in wisdom.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage reports a belief in alternating periods of destruction by fire
+    and water followed by renewal.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says that in Egypt the last destruction was commonly believed
+    to have been by water and flood.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Before the Flood, the author is said to have believed in a mighty race of
+    Egyptians, called the race of the First Hermes.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The commentator speculates that prehistoric buildings may be buried beneath
+    one or more pyramids and may have survived the Flood.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: pre-Flood wisdom-loving Egyptian race
+  description: A mighty race devoted to growth in wisdom, later described as a mighty
+    race of Egyptians before the Flood and as the race of the First Hermes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: First Hermes
+  description: A named figure associated with the pre-Flood race by the phrase “the
+    race of the First Hermes.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: pre-Flood wisdom-bearing civilization
+  assigned_to:
+  - fig:1
+  basis: The group is described as mighty, devoted to wisdom, living before the Flood,
+    and leaving traces of its handiworks.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: associated eponym of the race
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the group as “the race of the First Hermes.”
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: seed of again-becoming
+  literal_form: seed
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wheel of birth-and-death
+  literal_form: wheel
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fire of cyclic destruction
+  literal_form: fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: water and Flood of cyclic destruction
+  literal_form: water; Flood
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: memorials and dim traces of handiworks
+  literal_form: memorials; handiworks; dim traces
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: pyramids and buried prehistoric buildings
+  literal_form: pyramids; prehistoric buildings
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Doctrine of renewal
+  summary: The passage describes renewal or palingenesis as a repeated becoming of
+    ensouled life, interpreted as reincarnation on a birth-and-death wheel.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cyclic destruction, renewal, and ancient traces
+  summary: The passage interprets memorials of handiworks as traces left by an ancient
+    wisdom-loving race through cycles of destruction and renewal, including destruction
+    by fire and water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Speculation on remains beneath pyramids
+  summary: The commentator speculates that remains of prehistoric buildings under
+    pyramids may have survived the Flood.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: palingenesis or reincarnation through birth-and-death renewal
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage explicitly describes renewal, again-becoming, reincarnation,
+    and a wheel of birth-and-death.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The taxonomy label is broad; the passage discusses reincarnation doctrine
+    rather than a single narrative death-and-return episode.
+- id: motif:2
+  label: Flood destruction followed by renewal
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage connects cyclic renewal with an Egyptian belief that the last
+    destruction was by water and Flood.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The Flood is discussed in commentary rather than narrated as an episode.
+- id: motif:3
+  label: alternating world destruction by fire and water
+  taxonomy_refs:
+  - world_destroying_fire
+  - flood_and_renewal
+  basis: The passage reports a belief in alternate periods of destruction by fire
+    and water and of renewal.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The fire destruction is mentioned as part of a general belief, without
+    detailed mythic action.
+- id: motif:4
+  label: ancient wisdom preserved as monumental traces after catastrophe
+  taxonomy_refs:
+  - wisdom
+  basis: A past wisdom-loving race is said to have left memorials, monuments, and
+    dim traces, with speculation that remains survived the Flood beneath pyramids.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The identification of the traces and buried remains is explicitly interpretive
+    and speculative in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage relates its Flood interpretation to a broader ancient pattern
+    of alternating destructions by fire and water followed by renewal.
+  claim_level: same_motif
+  target: general belief in alternating fire/water destruction and renewal
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage presents this as the commentator’s contextualization and
+    notes that calling the belief Stoic is erroneous.
+- id: claim:2
+  claim: The passage connects the pre-Flood race of the First Hermes with an Egyptian
+    tradition in which the last destruction was by water and Flood.
+  claim_level: same_motif
+  target: Egyptian flood-destruction tradition
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the commentator’s report of common Egyptian belief;
+    no separate Egyptian source is quoted in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3859-3869
+  quote_or_summary: Animal and vegetable forms contain the “seed of again-becoming”;
+    the doctrine is interpreted as palingenesis or reincarnation on a birth-and-death
+    wheel.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: public_domain
+- id: ev:2
+  type: quote
+  locator: lines 3870-3876
+  quote_or_summary: "“memorials mighty of their handiworks upon the earth” leaving
+    “dim trace” when cycles are renewed."
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: lines 3877-3885
+  quote_or_summary: The commentator says the writer looks back to a past mighty race,
+    devoted to wisdom, which lived on earth and left monuments of wisdom as dim traces.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: public_domain
+- id: ev:4
+  type: quote
+  locator: lines 3885-3891
+  quote_or_summary: The passage refers to “alternate periods of destruction, by fire
+    and water, and of renewal.”
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: lines 3891-3897
+  quote_or_summary: In Egypt, the last destruction is said to have been by water and
+    Flood; before it, the author believed there had been a mighty Egyptian race, the
+    race of the First Hermes, whose works left dim traces.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: lines 3898-3903
+  quote_or_summary: The commentator speculates that remains of prehistoric buildings,
+    perhaps pyramid-shaped, may be buried beneath pyramids and may have survived the
+    Flood.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about renewal, Flood, fire/water destruction, and
+    ancient traces, but much of the Flood and pyramid material is commentarial interpretation
+    or speculation rather than primary narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata; taxonomy references are limited to the provided motif family and symbol lists.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l3859-l3903
+  passage_sha256=1abf3ff60d60c37b1ece7b542d4da29fae23c58aa375d7f1db96068f879438a1
+

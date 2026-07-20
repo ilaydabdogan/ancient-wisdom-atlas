@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l452-l476
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: TEIRESIAS. / CADMUS. / TEIRESIAS. / CADMUS.; lines 452-476
+  start: '452'
+  end: '476'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Teiresias and Cadmus speak about going to the mountain road, dancing and
+    singing, avoiding chariots or steeds out of trust in the God, and being guided
+    by the God. Cadmus asks whether only they will dance in Thebes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Teiresias states that, like Cadmus, he is light and young and will attempt
+    dancing and song.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cadmus proposes taking chariots quickly to the mountain road.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Teiresias rejects taking steeds, saying that doing so would mistrust the God.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Cadmus offers to guide Teiresias with his old arm.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Teiresias says that the God himself shall guide them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Cadmus asks whether no man in all Thebes will dance except them.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Teiresias
+  description: Speaker who says he is light and young, will attempt dancing and song,
+    rejects steeds, and says the God will guide.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Cadmus
+  description: Speaker who proposes chariots to the mountain road, offers his old
+    arm as guide, and asks about dancing in Thebes.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: The God
+  description: Divine figure referred to by Teiresias as one who should not be mistrusted
+    and who will guide.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: intended dancer or ritual performer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Teiresias says he will attempt dancing and song; Cadmus refers to himself
+    and Teiresias as those who will dance.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: proposer of chariot travel
+  assigned_to:
+  - fig:2
+  basis: Cadmus calls for chariots to the mountain road.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: rejecter of steed travel
+  assigned_to:
+  - fig:1
+  basis: Teiresias says taking steeds would mistrust the God.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: human guide or companion
+  assigned_to:
+  - fig:2
+  basis: Cadmus offers his old arm to guide Teiresias there.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: divine guide
+  assigned_to:
+  - fig:3
+  basis: Teiresias says the God himself shall guide.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: mountain road
+  literal_form: road to the mountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: chariots and steeds
+  literal_form: chariots or steeds proposed for travel and then rejected
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: dancing and song
+  literal_form: dance and song to be attempted by Teiresias and associated with both
+    speakers by Cadmus's question
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: Preparation for mountain journey and dance
+  summary: Teiresias says he will try dancing and song; Cadmus proposes chariots to
+    the mountain road; Teiresias refuses steeds as mistrust of the God; Cadmus offers
+    to guide him; Teiresias says the God will guide; Cadmus asks whether only they
+    will dance in Thebes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ritual dancing and song
+  taxonomy_refs: []
+  basis: The passage explicitly presents dancing and song as actions Teiresias will
+    attempt, and Cadmus speaks of both men as dancers.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe the full ritual context beyond dancing and
+    song.
+- id: motif:2
+  label: divine-guided journey
+  taxonomy_refs: []
+  basis: Teiresias rejects ordinary animal transport as mistrust of the God and says
+    the God himself will guide.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The destination and outcome of the divine guidance are not narrated within
+    this passage.
+- id: motif:3
+  label: journey to the mountain
+  taxonomy_refs:
+  - ascent
+  basis: Cadmus proposes travel to the mountain road, and the subsequent exchange
+    concerns how they will be guided there.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The text names a mountain road but does not explicitly describe an ascent
+    or arrival in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 452-456
+  quote_or_summary: Teiresias says that, like Cadmus, he is light and young and will
+    attempt dancing and song.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 457-459
+  quote_or_summary: Cadmus urges that chariots be taken quickly to the mountain road.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 460-462
+  quote_or_summary: Teiresias says taking steeds would be to mistrust the God.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 463-465
+  quote_or_summary: Cadmus says his old arm shall guide Teiresias there.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 466-468
+  quote_or_summary: Teiresias says that the God himself shall guide and that Cadmus
+    need not worry.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 469-476
+  quote_or_summary: Cadmus asks whether, in all Thebes, no one will dance except them.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    are limited to the immediate actions and references in the passage; no cross-tradition
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external identification of the God or broader plot context was added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l452-l476
+  passage_sha256=0407af701bf80e8729db2fb06c939d38da86425c370eea21baad0c9b777f8cde
+

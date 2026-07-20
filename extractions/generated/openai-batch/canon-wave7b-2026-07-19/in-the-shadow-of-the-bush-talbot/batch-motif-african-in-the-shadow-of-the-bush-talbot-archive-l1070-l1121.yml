@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l1070-l1121
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: TO    FACE    PAGE / CHAPTER   I / ON    THE   WAY   TO    OBAN  3 / B    2;
+    lines 1070-1121
+  start: '1070'
+  end: '1121'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A travel narrator describes a false alarm in which his wife thinks a reptile
+    is trapped in her boot, but a soap tablet falls out. He then describes actual
+    snake dangers in the same rest-house: a snake descends onto Bimba''s mosquito
+    net, a roof search finds seven cobras, and severed snake sections fall through
+    the palm-stem roof and writhe across the floors.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator's wife cries out after putting on a boot without first checking
+    whether a snake, lizard, or millipede is inside; something moves under her stuck
+    foot.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator pulls off the boot and shakes it at the house door while boys
+    and carriers wait with sticks or matchets to kill the expected reptile.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A small oval tablet of soap falls from the boot, and the carriers laugh repeatedly
+    for the rest of the day.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that snakes swarm in the District.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A long snake descends from the roof onto Bimba's mosquito net while she is
+    in bed beneath it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A search of the roof after the snake incident results in seven cobras, four
+    to six feet long, being killed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Sections of the killed snakes fall through the palm-stem under-roof and continue
+    writhing on the floors of three rooms.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: The first-person speaker who responds to the alarm, removes and shakes
+    the boot, searches the roof, and shoots snakes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Narrator's wife
+  description: A woman who is frightened when something moves inside the boot she
+    has put on.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Boys and carriers
+  description: Men who gather with sticks or matchets to kill the expected reptile
+    and then laugh when soap falls from the boot.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Bimba
+  description: A person found huddled under a rug while a snake lies on the mosquito
+    net above her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Snakes and cobras
+  description: Reptiles described as common in the District; one descends onto a mosquito
+    net, and seven cobras are found in the roof.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Responder and snake-killer
+  assigned_to:
+  - fig:1
+  basis: The narrator removes the boot, shakes it out, searches the roof, and shoots
+    the cobras at close quarters.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Threatened or frightened occupant
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The wife is frightened by the boot incident, and Bimba is under the mosquito
+    net when a snake descends onto it.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Armed witnesses and comic audience
+  assigned_to:
+  - fig:3
+  basis: The boys and carriers crowd around with weapons expecting a reptile, then
+    laugh when the boot contains soap.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Dangerous intruder
+  assigned_to:
+  - fig:5
+  basis: The passage describes feared snakes in the house, a snake descending from
+    the roof, and cobras found in the roof.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Serpent or snake danger
+  literal_form: Snakes and cobras in the rest-house roof and sleeping area
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Unchecked boot
+  literal_form: Marching boot that may conceal a snake, lizard, millipede, or other
+    object
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Mistaken reptile object
+  literal_form: Small oval tablet of Roger and Gallet's soap
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Mosquito net under the roof
+  literal_form: Mosquito net threatened by the weight of a long snake descending from
+    the roof
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Boot false alarm
+  summary: The wife fears something living is trapped under her foot inside a boot;
+    the narrator shakes the boot out while others prepare to kill a reptile, but soap
+    falls out instead and the carriers laugh.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Snake above Bimba's bed
+  summary: A long snake descends from the roof onto Bimba's mosquito net, threatening
+    to collapse onto her as she huddles beneath a rug.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Cobras in the roof
+  summary: After the snake is disposed of, the narrator searches the roof, kills seven
+    cobras, and the severed pieces fall through the palm-stem under-roof and writhe
+    across the floors.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Serpents invading human shelter
+  taxonomy_refs:
+  - serpent
+  basis: 'The passage repeatedly places snakes in intimate domestic or sleeping spaces:
+    the feared boot, the roof, the mosquito net, and the rest-house rooms.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a travel anecdote and natural-history danger report, not a mythic
+    narrative; symbolic meaning is not stated in the passage.
+- id: motif:2
+  label: False reptile alarm resolved as comic object
+  taxonomy_refs: []
+  basis: A frightening apparent creature in the boot is revealed to be soap, producing
+    communal laughter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a comic incident but does not present it as a traditional
+    tale or named motif.
+- id: motif:3
+  label: Severed snake pieces continuing to move
+  taxonomy_refs:
+  - serpent
+  basis: After the cobras are shot, their sections fall through the roof and appear
+    to move independently, covering the floors with writhing pieces.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The description may be observational rather than mythic or symbolic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1070-1081
+  quote_or_summary: The narrator's wife cries out after putting on a boot without
+    checking it; her foot is stuck and something beneath it writhes and squirms.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1081-1091
+  quote_or_summary: The narrator shakes the boot while boys and carriers wait with
+    weapons to kill a reptile; a small oval soap tablet falls out and the carriers
+    laugh repeatedly.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1092-1101
+  quote_or_summary: The passage says snakes swarm in the District; in the same rest-house,
+    a long snake descends from the roof onto Bimba's mosquito net while she is beneath
+    it.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1102-1108
+  quote_or_summary: After the snake is disposed of, a search of the roof finds seven
+    cobras four to six feet long, which the narrator shoots at close quarters.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1108-1116
+  quote_or_summary: The killed snakes fall in sections through the palm-stem under-roof;
+    each part seems to have life of its own, and the floors are covered with writhing
+    snakes.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal events are clear. Motif assignment is limited because the passage
+    is an ethnographic travel anecdote rather than a mythic or ritual text, and no
+    cross-tradition comparison is made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support historical, linguistic, or cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l1070-l1121
+  passage_sha256=5440e1ae49ea43c45ba0fc60e914d8092c9d174f8bd752b2ad0300c48464f597
+

@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l29846-l29860
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SUPERSTITIONS.       K,  L.  1839 / SUPERSTITIONS.      L.  1841 / M.      ESTHONIAN.'
+    / SUPERSTITIONS.      L,  M.  1843; lines 29846-29860
+  start: '29846'
+  end: '29860'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports Esthonian customs and beliefs: on All Souls day families
+    feast for departed members, leave food for the deceased, and the house-master
+    summons and dismisses them with a lighted split brand; crop failure is attributed
+    to inadequate entertainment of the souls. A separate note says that at Judgment-day
+    churches will topple toward the North and that burial in the north part of the
+    churchyard is dreaded.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: On All Souls day every family makes a feast for departed members and visits
+    churchyards.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In some places, food for the deceased is set on the floor of a particular
+    room.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Late in the evening the master of the house enters with a pergel, described
+    as a lighted brand split lengthwise.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The master invites the deceased by name to eat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After a time, the master beats the pergel to pieces on the threshold.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The master tells the souls to return to their places and not trample the rye
+    on their way.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A bad crop is attributed to the souls having been entertained too scantily.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage reports a belief that at Judgment-day all churches will topple
+    over towards the North.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Esthonian described in the passage cannot bear the thought of burial in
+    the north part of the churchyard.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: departed family members / deceased souls
+  description: Departed members of the family who are offered food, invited by name,
+    and told to return to their places.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: master of the house
+  description: Household head who enters with the pergel, invites the deceased to
+    eat, and later dismisses them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: families / households
+  description: Families who make a feast for departed members and visit churchyards
+    on All Souls day.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the Esthonian
+  description: Generic bearer of the reported Judgment-day and burial-location belief.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: household ritual leader
+  assigned_to:
+  - fig:2
+  basis: The master of the house performs the summoning, feeding interval, and dismissal
+    actions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: departed meal recipients
+  assigned_to:
+  - fig:1
+  basis: Food is set for the deceased and they are invited by name to eat.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: souls linked to crop outcome
+  assigned_to:
+  - fig:1
+  basis: They are warned not to trample rye, and bad crops are ascribed to their inadequate
+    entertainment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: living kin as hosts of the dead
+  assigned_to:
+  - fig:3
+  basis: Every family makes a feast for departed members on All Souls day.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: belief-holder regarding Judgment-day and northern burial
+  assigned_to:
+  - fig:4
+  basis: The passage states that the Esthonian has the notion about churches toppling
+    northward and dreads burial in that churchyard area.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: food for the deceased
+  literal_form: Food set on the floor of a particular room for the deceased.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: pergel / lighted split brand
+  literal_form: A lighted brand split down its length, carried by the master and later
+    beaten to pieces.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: threshold
+  literal_form: The threshold on which the pergel is beaten to pieces during dismissal
+    of the souls.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: rye and crop
+  literal_form: Rye that the souls are told not to trample; bad crop explained by
+    scanty entertainment of souls.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: churchyard
+  literal_form: Churchyards visited on All Souls day; the north part of the churchyard
+    is avoided as a burial location.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:6
+  label: North
+  literal_form: The direction toward which churches will topple at Judgment-day and
+    the avoided part of the churchyard.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: toppling churches
+  literal_form: All churches toppling over towards the North at Judgment-day.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: All Souls day feast for the dead
+  summary: Families feast for departed members, visit churchyards, and in some places
+    set food for the deceased in a room.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Summoning and dismissal of deceased souls
+  summary: The master enters with a lighted split brand, invites deceased persons
+    by name to eat, then breaks the brand on the threshold and tells the souls to
+    return without trampling the rye.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Crop failure explained by poor entertainment of souls
+  summary: A bad crop is explained as the result of the souls having been given insufficient
+    hospitality.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Judgment-day northward collapse and burial avoidance
+  summary: A belief is reported that at Judgment-day all churches will topple toward
+    the North, and burial in the north part of the churchyard is dreaded.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ritual feeding of the dead on a calendrical day
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Living families provide a feast and food for departed members, and inadequate
+    entertainment is linked to bad crops.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents hospitality to the
+    dead and consequence, but does not explicitly frame it as exchange.
+- id: motif:2
+  label: Firebrand used to summon and dismiss the dead
+  taxonomy_refs: []
+  basis: The house-master carries a lighted split brand while inviting the dead to
+    eat and breaks it on the threshold when dismissing them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied motif-family taxonomy directly matches this ritual action;
+    the fire element is recorded under symbols only.
+- id: motif:3
+  label: Departed souls affecting crops
+  taxonomy_refs:
+  - seasonal_cycle
+  - sacred_exchange
+  basis: The souls are told not to trample the rye, and a bad crop is attributed to
+    their scanty entertainment.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a crop consequence but not a full seasonal mythic cycle.
+- id: motif:4
+  label: Judgment-day sacred buildings topple northward
+  taxonomy_refs:
+  - divine_judgment
+  basis: The reported belief concerns Judgment-day and the toppling of all churches
+    toward the North.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief superstition, not a developed eschatological
+    narrative.
+- id: motif:5
+  label: North as avoided burial direction
+  taxonomy_refs: []
+  basis: The north part of the churchyard is feared as a burial place in connection
+    with the Judgment-day belief.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches directional taboo or inauspicious
+    burial location.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29846-29848
+  quote_or_summary: On All Souls day every family feasts for departed members and
+    visits churchyards; in some places food is placed for the deceased on the floor
+    of a particular room.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 29848-29851
+  quote_or_summary: The master of the house went in with a pergel, a lighted split
+    brand, and “invited the deceased by name to eat.”
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 29851-29854
+  quote_or_summary: After allowing time for the souls to eat, the master beats the
+    pergel to pieces on the threshold and tells them to go back to their places and
+    not trample the rye.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 29854-29855
+  quote_or_summary: A bad crop is explained as resulting from the souls having been
+    entertained too scantily.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 29856-29859
+  quote_or_summary: The Esthonian notion reported is that at Judgment-day all churches
+    will topple toward the North, and burial in the north part of the churchyard is
+    intolerable to contemplate.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif taxonomy mapping is partly broad
+    because the supplied taxonomy lacks exact entries for ancestor-feeding, threshold
+    dismissal, directional taboo, and burial avoidance. No explicit comparative claim
+    beyond the reported customs and beliefs is made in the passage, so comparison_claims
+    is empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata; Esthonian is retained as the source passage’s term.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l29846-l29860
+  passage_sha256=a6e094c0a01a7122c15398b291799a30e3e173c22ff73d9349d0eb52e3fdba53
+

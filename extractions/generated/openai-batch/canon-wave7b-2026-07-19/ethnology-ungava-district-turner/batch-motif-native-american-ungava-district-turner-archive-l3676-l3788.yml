@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l3676-l3788
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: TURNER.) OUTDOOR LIFE. 203 / TATTOOING, / CLOTHING, / TURNE; lines 3676-3788
+  start: '3676'
+  end: '3788'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Inuit mittens, waterproof sealskin gauntlets, and
+    a hooded waterproof frock made from seal intestines, with details on gendered
+    use, materials, construction, and preparation of the intestinal strips.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Deer foreleg skin is described as useful for mittens, especially for handling
+    snow while building snow huts.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mittens are sometimes fringed with white bearskin at the wrist to keep out
+    wind.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mittens have short thumbs and short wrists; jacket sleeves are often fringed
+    with wolf or dog skin to protect the exposed wrist area.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Black sealskin hand coverings are described as worn by men in damp weather
+    or for tasks that might soil furred mittens; the observer states he has not seen
+    women wear them.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Men engaged in late fall seal hunting use long waterproof gauntlets that reach
+    over the forearm and keep hands dry from spray and paddle drip.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A hooded waterproof frock for rain and wet conditions is made of seal entrails,
+    preferably intestines of the bearded seal.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The intestines are cleaned, inflated, dried on rocks, flattened, rolled, and
+    later split, trimmed, and sewn into body, hood, and sleeve pieces.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Innuit
+  description: The people whose clothing and protective garments are being described
+    in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Men
+  description: Men are identified as wearers of black sealskin hand coverings and
+    long waterproof gauntlets for late fall seal hunting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Women
+  description: Women are mentioned only in the observer’s statement that he has not
+    seen them wear the black sealskin hand covering.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: wearers and users of protective clothing
+  assigned_to:
+  - fig:1
+  basis: The passage describes Inuit mittens and a waterproof hooded frock used for
+    snow, wind, rain, and wet conditions.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: gender-specific users of waterproof hand gear
+  assigned_to:
+  - fig:2
+  basis: The passage says black sealskin hand coverings and long waterproof gauntlets
+    are worn by men, especially in damp conditions and late fall seal hunting.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: non-users in observer account
+  assigned_to:
+  - fig:3
+  basis: The observer states that he has never seen a woman wear the black sealskin
+    hand covering.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water and wetness
+  literal_form: rain, damp weather, spray, paddle drip, and water used in washing
+    intestines
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: seal-derived waterproof material
+  literal_form: black tanned sealskin, hairy sealskin edging, and seal intestines
+    used for waterproof garments
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: fur fringe for protection
+  literal_form: white bearskin wrist fringe and wolf or dog skin sleeve fringe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: deer foreleg skin
+  literal_form: skin of the deer’s forelegs used for mittens suited to snow handling
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Hand protection in snow, wind, dampness, and cold water
+  summary: 'The passage describes several hand coverings: deer-skin mittens for snow
+    work, wrist fringes for wind, black sealskin mittens for damp or dirty tasks,
+    and long waterproof gauntlets for seal hunting.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Preparation of a waterproof seal-intestine frock
+  summary: Seal intestines are cleaned, inflated, dried, flattened, stored in rolls,
+    split open, trimmed, and sewn into a hooded waterproof garment with sleeves.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: waterproof animal-membrane garment
+  taxonomy_refs: []
+  basis: The passage describes a hooded waterproof frock made from seal entrails for
+    rain and wet conditions, including preparation and garment construction.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic material-culture pattern, not a narrative or mythological
+    motif in the passage.
+- id: motif:2
+  label: gendered specialized hand covering
+  taxonomy_refs: []
+  basis: The passage states that black sealskin hand coverings and waterproof gauntlets
+    are worn by men, while the observer has not seen women wear the black sealskin
+    hand covering.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives an observer’s report and does not explain symbolic meaning
+    or social rules behind the gendered use.
+- id: motif:3
+  label: animal materials adapted for environmental protection
+  taxonomy_refs: []
+  basis: The described clothing uses deer skin, bearskin, wolf or dog skin, sealskin,
+    and seal intestines to protect against snow, wind, wetness, and cold water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The pattern is practical and descriptive; no mythic or ritual interpretation
+    is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3676-3788
+  quote_or_summary: Deer foreleg skin is said to make excellent mittens for handling
+    snow in snow-hut building; mittens may be fringed at the wrist with white bearskin
+    to keep out wind.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3676-3788
+  quote_or_summary: The passage notes short mitten thumbs and wrists, and says jacket
+    sleeves are generally fringed with wolf or dog skin to protect the exposed wrist.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3676-3788
+  quote_or_summary: Black sealskin hand coverings are worn by men during damp weather
+    or when handling objects that would soil furred mittens; the observer says he
+    has never seen women wear this kind.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3676-3788
+  quote_or_summary: Men in late fall seal hunting wear waterproof gauntlets reaching
+    over the forearm to prevent wetness from spray and paddle drip; the gauntlets
+    are made of black tanned sealskin with hairy sealskin edging.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3676-3788
+  quote_or_summary: For rain and wet conditions, a waterproof hooded frock is worn
+    over other clothing and is made of seal entrails, preferably intestines of the
+    bearded seal; October-killed animals are preferred.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3676-3788
+  quote_or_summary: The intestines are emptied, washed, scraped, inflated, dried on
+    rocks, flattened, rolled, later split lengthwise, trimmed, and sewn as body-and-hood
+    plus two sleeves.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is OCR-noisy but its material-culture descriptions are clear.
+    Motif candidates are practical ethnographic patterns rather than mythological
+    motifs. No passage-supported comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological narrative, ritual explanation, or explicit comparative claim appears in the provided passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l3676-l3788
+  passage_sha256=f277354ff6c5e8e9742bc8828b6363e91dc1933c942d25526a2c5d305bc63ea5
+

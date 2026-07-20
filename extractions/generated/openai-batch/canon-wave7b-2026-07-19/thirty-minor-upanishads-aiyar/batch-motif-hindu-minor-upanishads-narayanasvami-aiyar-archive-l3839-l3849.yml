@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.hindu-minor-upanishads-narayanasvami-aiyar-archive-l3839-l3849
+source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+passage_locator:
+  label: KHA:NDA  XI / KHANDA  XIII / KHANDA  XV / KHAFDA  XVI; lines 3839-3849
+  start: '3839'
+  end: '3849'
+  translation: Thirty Minor Upanishads
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that the Subala-Bija-Brahma-Upanishad should not be
+    given or taught to persons lacking self-control, proper discipleship under a Guru,
+    known family and conduct, and other qualifications. It should be taught to one
+    with supreme devotion to the Lord and equal devotion to the Guru; then the truths
+    shine in that person’s great soul. The passage closes by identifying this as an
+    exposition of Nirvana and of the Vedas.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage prohibits giving out or teaching the Subala-Bija-Brahma-Upanishad
+    to certain unqualified persons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Disqualifying conditions include lack of passion-control, not having sons,
+    not having gone to a Guru, not having become the Guru’s disciple, not having resided
+    with the Guru for a year, and unknown family and conduct.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The doctrines are to be taught to a person with supreme devotion to the Lord
+    and equal devotion to the Guru.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says that the truths shine in the great soul of the qualified
+    recipient.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage identifies the teaching as an exposition of Nirvana and of the
+    Vedas.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Unqualified recipient
+  description: A person to whom the Upanishad should not be given or taught because
+    specified qualifications are lacking.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Qualified disciple or recipient
+  description: A person with supreme devotion to the Lord and equal devotion to the
+    Guru, to whom the doctrines should be taught.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Guru
+  description: The teacher to whom a disciple has gone, with whom the disciple has
+    resided for a year, and toward whom devotion is required.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Lord
+  description: The divine figure toward whom the qualified recipient has supreme devotion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Excluded recipient
+  assigned_to:
+  - fig:1
+  basis: The passage says the text should neither be given out nor taught to persons
+    lacking listed qualifications.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Authorized recipient of doctrine
+  assigned_to:
+  - fig:2
+  basis: The passage states that the doctrines should be taught to one with supreme
+    devotion to the Lord and equal devotion to the Guru.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Guru in discipleship requirement
+  assigned_to:
+  - fig:3
+  basis: A recipient must have gone to a Guru, become the Guru’s disciple, and resided
+    with him for a year.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: Object of devotion
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The qualified recipient must have supreme devotion to the Lord and as much
+    devotion to the Guru.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Restricted sacred teaching
+  literal_form: Subala-Bija-Brahma-Upanishad and its doctrines
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: One-year residence with Guru
+  literal_form: residence with the Guru for a year after becoming his disciple
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Devotion to Lord and Guru
+  literal_form: supreme devotion to the Lord and equal devotion to the Guru
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Restriction of teaching to qualified disciples
+  summary: The passage states that the Upanishad should not be taught to unqualified
+    persons, and that its doctrines should be taught to a qualified devotee of the
+    Lord and Guru, after which the truths shine in that person’s great soul.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Restricted transmission of sacred knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage treats the Upanishad and its doctrines as teachings to be withheld
+    from unqualified persons and transmitted only to a properly devoted recipient.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives instructional qualifications rather than a narrative
+    episode of acquiring wisdom.
+- id: motif:2
+  label: Guru-disciple initiation qualification
+  taxonomy_refs:
+  - initiation
+  basis: The passage requires that the recipient have gone to a Guru, become his disciple,
+    and resided with him for a year before the doctrines are taught.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage specifies eligibility for teaching, but does not describe
+    a ritual initiation scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage has the same function as an initiation-pattern motif in which
+    sacred doctrine is reserved for a tested or qualified disciple.
+  claim_level: same_function
+  target: initiation motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is prescriptive rather than narrative and does not describe
+    a full initiation rite.
+- id: claim:2
+  claim: The passage has the same function as a wisdom-transmission pattern, because
+    authoritative truths are restricted and then taught to a qualified devotee.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not compare itself to another tradition or story;
+    the claim is limited to motif-family function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3839-3845
+  quote_or_summary: The Subala-Bija-Brahma-Upanishad should not be given out or taught
+    to persons lacking self-control, sons, discipleship under a Guru, one year of
+    residence with him, and known family and conduct.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 3845-3847
+  quote_or_summary: The doctrines should be taught to a person with supreme devotion
+    to the Lord and equal devotion to the Guru.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 3847-3849
+  quote_or_summary: The truths then shine in the great soul of the recipient; the
+    passage calls this the exposition of Nirvana and of the Vedas.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif mapping is limited because the
+    passage is a prescriptive teaching restriction rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied controlled symbol list are explicitly present in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-minor-upanishads-narayanasvami-aiyar-archive__l3839-l3849
+  passage_sha256=3fb0ffd0c0a384d69aea0e6bb1192fe3f8317d7554b11525e6930216931b5f95
+

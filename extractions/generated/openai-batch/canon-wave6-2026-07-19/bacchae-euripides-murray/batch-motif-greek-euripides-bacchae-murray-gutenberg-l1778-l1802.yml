@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1778-l1802
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / DIONYSUS. / DIONYSUS.; lines 1778-1802
+  start: '1778'
+  end: '1802'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Surely; the dappled fawn-skin and the wand.”"
+  summary: Pentheus asks what remains to be done. Dionysus names the fawn-skin and
+    wand. Pentheus resists wearing a robe and snood. Dionysus contrasts this with
+    drawing a sword and spilling blood. Pentheus accepts that violence would be evil
+    and chooses first to go to a place of watch; Dionysus approves this as wiser than
+    wrathful retaliation.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Pentheus asks whether there is anything further to do.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus answers by naming a dappled fawn-skin and a wand.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pentheus says he cannot wear a robe and snood.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dionysus asks whether Pentheus would prefer to draw a sword and spill men’s
+    blood.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Pentheus judges bloodshed to be evil and says it is best first to go to a
+    place of watch.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Dionysus says this course is wiser than seeking wrath’s recompense by wrath.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: Speaker who hesitates over wearing the proposed clothing, rejects bloodshed
+    as evil, and chooses to go first to a place of watch.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Dionysus
+  description: Speaker who names the fawn-skin and wand, contrasts the plan with armed
+    bloodshed, and approves the watchful course as wiser than wrath.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: hesitant recipient of proposed attire
+  assigned_to:
+  - fig:1
+  basis: Pentheus struggles with the proposed clothing and objects, then accepts a
+    plan of observation rather than violence.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: persuasive adviser toward nonviolent observation
+  assigned_to:
+  - fig:2
+  basis: Dionysus names the attire and implements, presents armed bloodshed as the
+    alternative, and endorses going to watch as wiser.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: dappled fawn-skin
+  literal_form: dappled fawn-skin
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wand
+  literal_form: wand
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: robe and snood
+  literal_form: robe and snood
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: sword
+  literal_form: sword
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: place of watch
+  literal_form: some place of watch
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Choice between disguise, observation, and violence
+  summary: In dialogue, Dionysus proposes ritual-looking items and clothing; Pentheus
+    resists the clothing, but rejects the alternative of armed bloodshed and chooses
+    first to observe from a watch-place. Dionysus approves the choice as wiser than
+    wrathful retaliation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Adoption of special attire before covert observation
+  taxonomy_refs: []
+  basis: The passage centers on proposed fawn-skin, wand, robe, and snood, followed
+    by Pentheus choosing to go first to a place of watch rather than take violent
+    action.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not itself explain the larger purpose of the costume
+    or the wider narrative consequences.
+- id: motif:2
+  label: Renunciation of immediate bloodshed in favor of watchful strategy
+  taxonomy_refs: []
+  basis: Dionysus frames sword-drawing and spilling blood as an alternative, Pentheus
+    calls that evil, and Dionysus praises watchful restraint as wiser than wrath.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a local action-pattern in the passage, not a demonstrated cross-cultural
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1778-1802
+  quote_or_summary: Pentheus asks, “And after? Hast thou aught beyond?” Dionysus replies,
+    “Surely; the dappled fawn-skin and the wand.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1778-1802
+  quote_or_summary: Pentheus says, “Enough! I cannot wear a robe and snood.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1778-1802
+  quote_or_summary: Dionysus asks, “Wouldst liefer draw the sword and spill men’s
+    blood?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1778-1802
+  quote_or_summary: Pentheus answers, “True, that were evil,” and says it is best
+    “First to some place of watch.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1778-1802
+  quote_or_summary: Dionysus says this is “Far wiser” than seeking “by wrath wrath’s
+    bitter recompense.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage. Motif candidates are
+    limited to local passage patterns because the excerpt alone does not justify broader
+    comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another text, tradition, or motif family.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1778-l1802
+  passage_sha256=9a3f8a124c6bdecb3155f8e8354b6a4b893baf78be51cfa71334119682dc6f3e
+

@@ -1,0 +1,487 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l5649-l5752
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: IMA.GES.  107 / IMAGES.  109 / IMAGES.  113 / IMAGES.  115; lines 5649-5752
+  start: '5649'
+  end: '5752'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys Germanic and comparative evidence for divine images,
+    paired cult figures, materials of statues, the term Irminsul/yrmensul as statue
+    or pillar, and annalistic reports that Charles destroyed the Saxon Irminsul. A
+    note compares accounts of idols or statues being treated as animate or acted upon
+    in other traditions.
+  language: English with Old High German, Latin, and Middle High German citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage mentions Freyr's silver statue, its carriage in a wagon in Sweden,
+    a Gotland temple said to contain a hundred gods, and Saxo's oak-related simulacrum.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says two figures are sometimes mentioned side by side, including
+    Wodan and Donar, Mars and Mercurius, Freyr and Thor, and Frigg and Freyja; it
+    also gives place-name evidence for joint worship.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author states that the saga descriptions and statue numbers cannot be
+    treated as historical, but that they do show statues existed.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage describes statues as mostly wooden, with some perhaps painted,
+    clothed, or overlaid with silver or gold, and also mentions stone, copper, or
+    ivory images.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note says that antiquity did not regard such images simply as dead matter,
+    and lists stories of statues or idols being scourged, eating, moving, kneeling,
+    closing eyes, bleeding, or sweating.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Old High German glosses give irmansidi, irmansul, or related forms for pyramides,
+    colossus, and altissima columna; the author says the literal meaning seems to
+    be statue.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Kaiserchronik examples place an idol of Mercury on a yrmensul, bury Julius
+    Caesar on a yrmensul, and have Simon Magus climb a yrmensul while the land-folk
+    bow to him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Frankish annals are cited as reporting that Charles conquered in Saxony and
+    destroyed, burned, or subverted the Saxon Irminsul, described as an idol, fanum,
+    and lucus.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Freyr's statue
+  description: A silver statue of Freyr said to be carried about in a wagon in Sweden.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Paired divinities and images
+  description: Pairs named in the passage include Wodan and Donar, Mars and Mercurius,
+    Freyr and Thor, and Frigg and Freyja.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Irminsul / yrmensul / irmansidi
+  description: A term or cult object described through glosses as statue, colossus,
+    or high column, and in annals as the Saxon idol, fanum, or lucus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: Mercury idol on a yrmensul
+  description: The Kaiserchronik passage says a huge idol of Mercury stood on a yrmensul
+    and was called their merchant.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Simon Magus
+  description: In the Kaiserchronik example, Simon Magus climbs a yrmensul and the
+    land-folk bow to him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Charles / Karolus
+  description: Frankish annals cited in the passage say Charles conquered Eresburg
+    and destroyed, burned, or subverted Irminsul.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Comparative animated or acted-on idols and statues
+  description: The note mentions the idol Apollo, the god Perun, an Indian statue,
+    and Greek statues in accounts of statues being flogged, eating, moving, bleeding,
+    or sweating.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: cult image or idol
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  basis: These figures are described as statues, idols, images, or cult objects associated
+    with divine worship or divine presence.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:2
+  label: paired objects of worship
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly discusses two figures side by side and names several
+    divine pairs.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: destroyer of Saxon cult object
+  assigned_to:
+  - fig:6
+  basis: The cited annals report that Charles destroyed, burned, or subverted Irminsul.
+  evidence_refs:
+  - ev:8
+- id: role:4
+  label: human recipient of bowing or worship
+  assigned_to:
+  - fig:5
+  basis: The passage says Simon Magus climbed a yrmensul and the land-folk bowed to
+    him, glossed by the author as worshipping him as a god.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: processional statue
+  assigned_to:
+  - fig:1
+  basis: Freyr's statue is said to have been carried about in a wagon in Sweden.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: divine statue or idol
+  literal_form: Statue, image, simulacrum, or idol of a deity.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: wagon carrying a deity's statue
+  literal_form: Wagon used to carry Freyr's statue in Sweden.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: oak or sacred tree association
+  literal_form: Oak simulacrum or possibly oak tree worshipped as divine; Donnerseiche
+    near Wodansberg.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: Irminsul pillar or column
+  literal_form: Irminsul/yrmensul glossed or used as colossus, high column, pillar,
+    statue, idol, or cult object.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: Wodansberg
+  literal_form: A mountain place-name said to stand near Thor's oak in Hesse.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: shrine and grove
+  literal_form: Fanum and lucus used in annalistic descriptions of Irminsul.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: burning of cult object
+  literal_form: Burning or setting fire to the places or idol in the annalistic accounts.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Survey of divine images
+  summary: The passage lists examples of Freyr's statue, a wagon procession, a temple
+    with many gods, and an oak-related simulacrum.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Paired cult figures and place-names
+  summary: The passage describes paired divine figures and says place-names may indicate
+    joint worship, including Thor's oak near Wodansberg.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Statues treated as more than dead matter
+  summary: The passage explains that statues existed in various materials and a note
+    presents stories in which images or idols act, are acted upon, or show bodily
+    signs.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Yrmensul and Irminsul in glosses, narrative, and annals
+  summary: The passage defines irmansidi/irmansul through glosses, gives Kaiserchronik
+    examples involving a yrmensul, and cites annals in which Charles destroys the
+    Saxon Irminsul.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Cult image as divine presence
+  taxonomy_refs: []
+  basis: The passage describes divine statues and says ancient people did not regard
+    such images simply as dead matter, but as penetrated by divine life.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a scholarly generalization in the passage rather than a single
+    narrative episode.
+- id: motif:2
+  label: Processional divine statue in a wagon
+  taxonomy_refs: []
+  basis: Freyr's silver statue is said to be carried about in a wagon in Sweden.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Only a brief cited report is provided in this passage.
+- id: motif:3
+  label: Paired cult images or joint worship of two divinities
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly says that two figures side by side are sometimes mentioned
+    and gives several deity pairs and joint-worship place-name examples.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage supports paired worship, not necessarily a broader metaphysical
+    dualism.
+- id: motif:4
+  label: Sacred oak or tree-linked cult image
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage asks whether Saxo's oak simulacrum was a carved oak image or
+    an oak tree worshipped as divine, and it names Thor's oak near Wodansberg.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The axis or world-tree function is not stated; the taxonomy reference
+    is limited to the sacred-tree aspect.
+- id: motif:5
+  label: Cult pillar or idol as central shrine object
+  taxonomy_refs: []
+  basis: Irminsul/yrmensul is connected with glosses for statue, colossus, and high
+    column, and annals describe the Saxon Irminsul as idol, fanum, and lucus.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The passage does not provide a mythic narrative for Irminsul beyond its
+    cultic status and destruction.
+- id: motif:6
+  label: Destruction of a rival cult object by a conqueror
+  taxonomy_refs: []
+  basis: The annalistic citations report Charles destroying, burning, or subverting
+    the Saxon Irminsul.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: This is reported as historical annal material rather than mythic action.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself juxtaposes Reinbot's flogged idol of Apollo with Nestor's
+    account of Perun being scourged, supporting a cautious same-motif comparison for
+    the punishment or humiliation of an idol.
+  claim_level: same_motif
+  target: Reinbot's Apollo idol and Nestor's Perun account
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says the Apollo example reminds one of Perun; it does not
+    argue historical contact or shared origin.
+- id: claim:2
+  claim: The passage groups an Indian story of a statue eating food and Greek stories
+    of statues moving, kneeling, closing eyes, bleeding, or sweating with the idea
+    that images could be treated as vivified by divinity.
+  claim_level: same_motif
+  target: Indian and Greek animated-statue stories cited in the note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The examples are cited briefly as comparanda; no detailed narrative
+    context or transmission claim is supplied.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5649-5752; opening paragraph on Freyr, Gotland temple, and Saxo
+  quote_or_summary: Freyr's silver statue is said to be carried about in a wagon in
+    Sweden; the passage also mentions a Gotland temple with a hundred gods and Saxo's
+    oak-related simulacrum.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: public_domain; summary from supplied passage
+- id: ev:2
+  type: summary
+  locator: lines 5649-5752; paragraph on two figures side by side
+  quote_or_summary: The passage discusses two figures side by side, naming Wodan and
+    Donar, Mars and Mercurius, Freyr and Thor, and Frigg and Freyja; it adds that
+    place-names can indicate joint worship, including Donnerseiche near Wodansberg.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: public_domain; summary from supplied passage
+- id: ev:3
+  type: summary
+  locator: lines 5649-5752; paragraph on historicity and materials of statues
+  quote_or_summary: The author says the alleged number and saga descriptions of statues
+    are not historical, but do prove statues existed; he describes them as mostly
+    wooden, sometimes painted, clothed, or metal-overlaid, with some stone, copper,
+    or ivory images.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: public_domain; summary from supplied passage
+- id: ev:4
+  type: summary
+  locator: lines 5649-5752; note on animated or acted-on statues
+  quote_or_summary: The note compares stories of Apollo being flogged, Perun being
+    scourged, an Indian statue eating food, and Greek statues moving, kneeling, closing
+    eyes, bleeding, or sweating; it states that such images were not regarded altogether
+    as dead matter.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: public_domain; summary from supplied passage
+- id: ev:5
+  type: summary
+  locator: lines 5649-5752; Old High German glosses on irmansidi/irmansul
+  quote_or_summary: Old High German glosses equate irmansidi or related forms with
+    pyramides, colossus, and altissima columna; the author infers a literal meaning
+    of statue from related glosses for statua and imago.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: public_domain; summary from supplied passage
+- id: ev:6
+  type: summary
+  locator: lines 5649-5752; Kaiserchronik examples
+  quote_or_summary: The Kaiserchronik examples say a huge Mercury idol stood on a
+    yrmensul, Julius Caesar was buried on a yrmensul, and Simon Magus climbed a yrmensul
+    while the land-folk bowed to him.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: public_domain; summary from supplied passage
+- id: ev:7
+  type: summary
+  locator: lines 5649-5752; Titurel note
+  quote_or_summary: The passage adds that a Hanover manuscript of Wolfram's Titurel
+    reads irmensul for the great pillars of the Christian temple of the Grail.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: public_domain; summary from supplied passage
+- id: ev:8
+  type: summary
+  locator: lines 5649-5752; Frankish annals on Charles and Irminsul
+  quote_or_summary: The cited annals report that Charles/Karolus conquered in Saxony
+    near Eresburg and destroyed, burned, or subverted the Saxon Irminsul, variously
+    called an idol, fanum, and lucus.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: public_domain; summary from supplied passage
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is scholarly comparative prose with OCR noise and embedded notes;
+    extraction keeps claims tied to explicit passage statements and marks broader
+    motif labels for review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical contact or common-inheritance claim is made; comparison claims only reflect parallels explicitly raised in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l5649-l5752
+  passage_sha256=1ebb5104eea42098c89d6018827cabb2dce0212022cb390a4dd2cdd308877fe7
+

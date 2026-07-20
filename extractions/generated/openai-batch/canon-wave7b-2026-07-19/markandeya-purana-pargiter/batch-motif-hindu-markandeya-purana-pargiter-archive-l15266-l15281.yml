@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l15266-l15281
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: Canto LIII. / CANIO LIII. / CANTO IIT. / CANTO LT.; lines 15266-15281
+  start: '15266'
+  end: '15281'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes large named entities falling on a mountain; their
+    juice gives rise to a famous river containing a named gold, and that river passes
+    around Meru into a named region where people drink it. It then describes Yishnu
+    as having different animal forms in several regions, and states that worldly affairs
+    in four countries are governed by constellations while people study planetary
+    influence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Named entities printed as “Gaudlia-madaTiaj” are described as being as large
+    as an elephant’s body.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Those entities fall on the top of a mountain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A famous river, printed as “Jambti,” springs from their juice.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Gold called “Jambd-nada” is found in that river.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The river passes around Meru, enters a named region printed as “Jambd-mdla,”
+    and people drink from it.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: In Bhadrasva, Yishnu is figured with a horse’s head.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: In Bharata, Yishnu has the shape of a tortoise.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: In Ketu-mala, Yishnu is like a boar.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:9
+  text: In the north, Yishnu has a fish’s form.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:10
+  text: In the four countries, worldly affairs are governed by the arrangement of
+    the constellations.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: The people there study the influence of the planets.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Gaudlia-madaTiaj
+  description: Named entities, in the printed/OCR form of the passage, described as
+    elephant-sized, falling on a mountain, and producing the Jambti river through
+    their juice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yishnu
+  description: A named figure described as being figured with a horse’s head in Bhadrasva,
+    shaped like a tortoise in Bharata, like a boar in Ketu-mala, and fish-formed in
+    the north.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: People of the named regions
+  description: People who drink from the river and study the influence of the planets
+    in the four countries.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Brahman addressee
+  description: The passage addresses a brahman while describing the river and regional
+    order.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: oversized falling source-entities
+  assigned_to:
+  - fig:1
+  basis: They are described as elephant-sized, falling on the mountain, and producing
+    the river through their juice.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: regional animal-formed figure
+  assigned_to:
+  - fig:2
+  basis: Yishnu is associated with different animal forms in different regions.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: regional inhabitants and planetary students
+  assigned_to:
+  - fig:3
+  basis: The people drink from the river and study planetary influence.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: addressed listener
+  assigned_to:
+  - fig:4
+  basis: The narration directly addresses a brahman.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: mountain and Meru
+  literal_form: A mountain top and the named mountain Meru, around which the river
+    passes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Jambti river
+  literal_form: A famous river arising from juice, containing gold, passing around
+    Meru, entering Jambd-mdla, and drunk by people.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Jambd-nada gold
+  literal_form: Gold found in the Jambti river.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: animal forms of Yishnu
+  literal_form: Horse’s head, tortoise shape, boar likeness, and fish form.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: constellations and planets
+  literal_form: Constellations governing worldly affairs and planets whose influence
+    is studied.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Mountain fall and river origin
+  summary: Elephant-sized named entities fall on a mountain; their juice becomes a
+    famous river containing named gold, and the river passes around Meru into a region
+    where people drink it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Regional forms of Yishnu
+  summary: Yishnu is described with different animal forms in Bhadrasva, Bharata,
+    Ketu-mala, and the north.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Celestial governance and planetary study
+  summary: In the four countries, worldly affairs are governed by constellations,
+    and the people study planetary influence.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: river arising from fallen oversized source-entities
+  taxonomy_refs: []
+  basis: The passage links the fall of elephant-sized named entities to the origin
+    of a famous river from their juice.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The identity of the named entities is uncertain because the passage text
+    appears OCR-corrupted.
+- id: motif:2
+  label: Meru-centered mountain and river geography
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The river is described as passing around Meru after arising at a mountain.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt names Meru and a mountain but does not itself explain Meru’s
+    cosmological status.
+- id: motif:3
+  label: regional animal forms of a named sacred figure
+  taxonomy_refs:
+  - shapeshifter
+  basis: Yishnu is described as horse-headed, tortoise-shaped, boar-like, and fish-formed
+    in different regions.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage describes figuration or form by region, not an explicit transformation
+    episode.
+- id: motif:4
+  label: celestial governance of earthly affairs
+  taxonomy_refs: []
+  basis: Worldly affairs are said to be governed by the arrangement of constellations,
+    and people study planetary influence.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No specific taxonomy motif reference is assigned from the available list.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15266-15272
+  quote_or_summary: Gaudlia-madaTiaj are described as elephant-sized, falling on a
+    mountain; from their juice springs the Jambti river, containing Jambd-nada gold,
+    passing around Meru into Jambd-mdla, where people drink it.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 15273-15277
+  quote_or_summary: Yishnu is described with a horse’s head in Bhadrasva, tortoise
+    shape in Bharata, boar likeness in Ketu-mala, and fish form in the north.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 15278-15281
+  quote_or_summary: In the four countries, worldly affairs are governed by constellations,
+    and people study the influence of planets; the narration addresses a brahman.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by OCR-corrupted proper names, but the passage-level
+    actions and relationships are mostly clear. No comparison claims were made beyond
+    candidate taxonomy motif tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All observations and motif candidates are based only on the supplied passage and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l15266-l15281
+  passage_sha256=9bea97b04ddd898cdf69f7c7cb1671d3689ec45d8f028a55c70da4cdaa0e0a0d
+

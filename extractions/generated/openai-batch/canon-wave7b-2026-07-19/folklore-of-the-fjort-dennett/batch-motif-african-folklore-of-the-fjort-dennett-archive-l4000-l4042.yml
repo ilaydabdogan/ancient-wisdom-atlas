@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l4000-l4042
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: THE   TWIN   BROTHERS.  63 / XIII. / THE  YOUNGER  BROTHER  WHO  KNEW  MORE  THAN  THE  ELDER.    67
+    / THE   CHIMPANZEE  AND  GORILLA.; lines 4000-4042
+  start: '4000'
+  end: '4042'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A hunter follows a gorilla that damaged his plantations, hides near the
+    gorilla's camp, and watches a chimpanzee with a club take fruit from a heap below
+    the tree. The chimpanzee claims the fruit as his own and attacks the gorilla;
+    the gorilla remains quiet at first, then kills the chimpanzee with one blow. The
+    hunter flees.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A native friend, described as considering himself a great hunter and naturalist,
+    reports that gorilla depredations had severely damaged his plantations.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hunter decides to follow the gorilla's tracks and kill him if possible.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After a long journey, the hunter reaches the gorilla's camp.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gorilla is up a tree, and a large heap of different fruits lies at the
+    foot of the tree.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The hunter hides as near to the fruit as he can and waits for the gorilla
+    to come down.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A chimpanzee carrying a club arrives while looking for food.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The chimpanzee says that someone has left food in the public footpath and
+    then sits down to eat it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The gorilla comes quietly down the tree, sits opposite the chimpanzee, and
+    begins eating too.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The chimpanzee accuses the gorilla of eating his fruit and tells him to find
+    his own food.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The gorilla makes no reply while the chimpanzee becomes excited, abuses him,
+    strikes him, and then hits him with the club.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The gorilla pushes the chimpanzee aside and then kills him with one blow.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The hunter says he did not wait to see more and ran away.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: native hunter and naturalist
+  description: A native friend of the narrator who reports the event, follows the
+    gorilla's tracks after plantation damage, hides near the fruit, witnesses the
+    encounter, and flees.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: gorilla
+  description: An animal blamed for plantation depredations; found up a tree at a
+    camp with fruit below; silently eats, endures attack, and kills the chimpanzee
+    with one blow.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: chimpanzee
+  description: An animal carrying a club who comes looking for food, eats fruit at
+    the gorilla's camp, claims the fruit, verbally abuses and attacks the gorilla,
+    and is killed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: hunter-observer
+  assigned_to:
+  - fig:1
+  basis: He follows the gorilla to kill it, hides near the fruit, observes the animal
+    encounter, and then runs away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: pursued crop-raider
+  assigned_to:
+  - fig:2
+  basis: The hunter attributes plantation damage to the gorilla and follows its tracks
+    with intent to kill it.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: silent powerful opponent
+  assigned_to:
+  - fig:2
+  basis: The gorilla makes no reply to the chimpanzee, pushes him aside, and then
+    kills him with one blow.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: armed food-claimant and aggressor
+  assigned_to:
+  - fig:3
+  basis: The chimpanzee arrives with a club, eats the fruit, claims it as his own,
+    abuses the gorilla, and strikes him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: The tree in the gorilla's camp, with the gorilla above and the fruit
+    heap below.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: fruit heap
+  literal_form: A large heap of fruits of different kinds at the foot of the tree.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: club
+  literal_form: The club carried by the chimpanzee and used to hit the gorilla.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hunter reaches the gorilla's camp
+  summary: After plantation damage, the hunter follows the gorilla's tracks, finds
+    the gorilla up a tree with fruit below, and hides nearby.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Chimpanzee takes the fruit
+  summary: A chimpanzee carrying a club arrives, comments that food has been left
+    in the public footpath, and begins eating the fruit.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Gorilla descends and the quarrel begins
+  summary: The gorilla quietly comes down, sits opposite the chimpanzee, and eats;
+    the chimpanzee accuses him of eating the chimpanzee's fruit.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Attack and fatal blow
+  summary: The chimpanzee abuses and strikes the gorilla, including with the club;
+    the gorilla responds by killing the chimpanzee with one blow.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Hunter flees
+  summary: After seeing the fatal blow, the hunter says he did not wait to see more
+    and ran away.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: appropriated food leading to punishment
+  taxonomy_refs: []
+  basis: The chimpanzee takes fruit found at the gorilla's camp, claims it as his
+    own, escalates the dispute, and is killed by the gorilla.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not state a moral or explicitly identify the fruit as
+    owned property, though the gorilla's camp and presence frame the dispute.
+- id: motif:2
+  label: noisy armed aggressor defeated by silent stronger opponent
+  taxonomy_refs: []
+  basis: The chimpanzee speaks, abuses, strikes, and uses a club, while the gorilla
+    remains silent or restrained before killing him with one blow.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a descriptive narrative pattern rather than a confirmed catalogued
+    motif.
+- id: motif:3
+  label: eyewitness hunter frame for animal encounter
+  taxonomy_refs: []
+  basis: The tale is presented as the hunter's report of an animal encounter he observed
+    while hiding near the gorilla's camp.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The frame may reflect the collector's presentation rather than an independent
+    traditional motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4000-4006
+  quote_or_summary: A native friend who considers himself a hunter and naturalist
+    says his plantations suffered from gorilla depredations, so he resolved to follow
+    the gorilla's tracks and kill him if possible.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 4007-4014
+  quote_or_summary: The hunter reaches the gorilla's camp after a long journey; the
+    gorilla is up a tree with a large heap of varied fruits at its foot, and the hunter
+    hides near the fruit to wait.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 4014-4022
+  quote_or_summary: A chimpanzee with a club comes along looking for food, says that
+    a fool has left food in the public footpath, and sits down to eat.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 4022-4030
+  quote_or_summary: The gorilla quietly descends, sits opposite the chimpanzee, and
+    begins eating; the chimpanzee asks why the gorilla is eating 'my fruit' and tells
+    him to find his own.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; brief quotation from public domain text included
+    within summary.
+- id: ev:5
+  type: summary
+  locator: lines 4032-4038
+  quote_or_summary: The gorilla does not reply. The chimpanzee becomes excited, abuses
+    him, strikes him, and then hits him with the club with all his might.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 4038-4042
+  quote_or_summary: The gorilla raises his long arm and kills the chimpanzee with
+    one fearful blow; the hunter says he ran away and did not wait to see more.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive candidates
+    only; no explicit cross-traditional comparison is made because the passage itself
+    does not support one.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims added; available taxonomy references were used only for the literal tree symbol.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l4000-l4042
+  passage_sha256=fc31da65ddae3c4ac6bda09a0c45718022554c1aa37601da0a063b411ce6dcd5
+

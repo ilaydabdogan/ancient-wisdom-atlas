@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l7873-l7886
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: CH. IX / VARIOUS HANDICRAFTS / THE SMITHY. / VARIOUS HANDICRAFTS; lines 7873-7886
+  start: '7873'
+  end: '7886'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: A customer has brought an old hoe to be made up into spear-heads.
+  summary: The passage describes a blacksmith refashioning old iron articles into
+    spear-heads, especially fish-spear heads. A customer brings an old hoe, and the
+    smith works squatting beside nearly completed fish-spears, heating a piece of
+    iron from the hoe in the forge.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Old articles are used and re-fashioned when availability is exhausted for
+    a time.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The current demand is for spears, especially fish-spears.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A customer brings an old hoe to be made into spear-heads.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The blacksmith works while squatting.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Four fish-spears, completed except for their barbs, are beside the blacksmith.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The blacksmith holds a piece of iron from the old hoe with pincers, puts it
+    into the forge, and heats it until it is red-hot.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: blacksmith
+  description: A smith who squats while working, with fish-spears beside him, and
+    heats iron in a forge using pincers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: customer
+  description: A person who brings an old hoe to be made into spear-heads.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: artisan metalworker
+  assigned_to:
+  - fig:1
+  basis: The figure is identified as a blacksmith and is shown shaping iron for spear-heads.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: provider of old metal article
+  assigned_to:
+  - fig:2
+  basis: The figure brings an old hoe for conversion into spear-heads.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: old hoe remade as spear-heads
+  literal_form: old hoe / iron remnant converted into spear-heads
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: forge-heated iron
+  literal_form: piece of iron held in pincers and heated red-hot in the forge
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: fish-spears
+  literal_form: four fish-spears completed except for barbs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: smithy refashioning work
+  summary: In a smithy context, old metal articles are re-used to meet demand for
+    spears. A customer brings an old hoe, and the blacksmith heats a piece of its
+    iron in the forge while completed fish-spears lie nearby.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: refashioning an old tool into weapon or fishing implements
+  taxonomy_refs: []
+  basis: The passage centers on an old hoe being remade into spear-heads during a
+    demand for fish-spears.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic craft pattern rather than an explicit mythological
+    motif in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7873-7876
+  quote_or_summary: "“old articles : they are re-fashioned. At the moment the demand
+    is for spears, especially for fish-spears.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: 7876-7878
+  quote_or_summary: "“A customer has brought an old hoe to be made up into spear-heads.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: 7878-7881
+  quote_or_summary: The blacksmith squats while working; beside him are four fish-spears
+    completed except for the barbs.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 7881-7886
+  quote_or_summary: The smith works on a piece of iron from the hoe, takes it in pincers,
+    places it in the forge, and heats it until red-hot.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The craft actions and objects are explicit. Motif status is limited because
+    the passage is descriptive ethnography and contains no explicit mythic or comparative
+    claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the supplied passage does not support one directly.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l7873-l7886
+  passage_sha256=a98d8f5550e7cc8e1f2dfddc2a350d4f5d69e7075f22f89786c174d00b79adbd
+

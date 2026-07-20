@@ -1,0 +1,201 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l4344-l4350
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: GROVES.  77 / BUILDINGS.  79 / BUILDINGS.  83 / BUILDINGS.  85; lines 4344-4350
+  start: '4344'
+  end: '4350'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Nam ubi fana destruxerat (Martiniis), statim ibi aut ecdesias ant monasteria
+    construcbat.
+  summary: The passage gives notes and citations concerning churches or buildings,
+    including a Latin statement attributed to Sulpicius Severus that where Martin
+    had destroyed pagan shrines, he immediately built churches or monasteries there.
+    It also notes Dietmar of Merseburg speaking of Bishop Reinbern in Slavic territory
+    in A.D. 1015.
+  language: English and Latin
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A location is identified as the church at Fulda in a citation to Trad. Fuld.
+    edited by Schannat.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists forms or references including “in bedebur,” “in bedebure,”
+    and “bctbur,” each attached to cited sources and dates or page references.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Latin citation says that where Martin had destroyed pagan shrines, he immediately
+    built churches or monasteries there.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dietmar of Merseburg is cited as speaking of Bishop Reinbern on Slavic territory
+    in A.D. 1015.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Martinus
+  description: Named in the Latin citation as the person who destroyed fana and built
+    churches or monasteries.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Bishop Reinbern
+  description: Mentioned in a citation to Dietmar of Merseburg as being spoken of
+    on Slavic territory in A.D. 1015.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: destroyer of fana
+  assigned_to:
+  - fig:1
+  basis: The citation says Martin had destroyed fana.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: builder of churches or monasteries
+  assigned_to:
+  - fig:1
+  basis: The citation says Martin immediately built churches or monasteries at those
+    places.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: bishop in cited historical note
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Reinbern as a bishop in a note about Slavic territory.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: pagan shrines
+  literal_form: fana
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: churches
+  literal_form: ecdesias
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: monasteries
+  literal_form: monasteria
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: church at Fulda
+  literal_form: the church at Fulda
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Replacement of shrines by Christian buildings
+  summary: The cited Latin sentence describes Martin destroying fana and then building
+    churches or monasteries in the same places.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Historical citation concerning Reinbern
+  summary: The passage introduces a citation to Dietmar of Merseburg concerning Bishop
+    Reinbern on Slavic territory in A.D. 1015, but does not provide the quoted action
+    within this excerpt.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Pagan shrine replaced by church or monastery
+  taxonomy_refs: []
+  basis: The passage explicitly states that after Martin destroyed fana, churches
+    or monasteries were built there.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a historical-religious conversion pattern in a scholarly note,
+    not a narrative myth episode; no supplied taxonomy family directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4344-4345
+  quote_or_summary: "“Actiim in illo betap4re (the church at Fulda) publice, Trad.
+    Fuld. ed. Schannat no. 193.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4345-4346
+  quote_or_summary: The passage lists cited forms including in bedebur, in bedebure,
+    and bctbur, with source references and dates/page references.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4348-4350
+  quote_or_summary: "“Nam ubi fana destruxerat (Martiniis), statim ibi aut ecdesias
+    ant monasteria construcbat.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4349-4350
+  quote_or_summary: "“Dietniar of Merseb. 7, 52, p. 859 (speaking of Bishop Reinbern
+    on Slav, territory, a.d. 1015)”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The excerpt is mainly a scholarly footnote with citations and OCR irregularities.
+    The shrine-replacement pattern is explicit, but broader mythological interpretation
+    is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the available motif families and symbols do not directly cover pagan shrines, churches, monasteries, or Christianization of cult sites.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l4344-l4350
+  passage_sha256=3416957f344eff18042b715e9865cefc1d5f922698402f0bc31c37b5df0e2930
+

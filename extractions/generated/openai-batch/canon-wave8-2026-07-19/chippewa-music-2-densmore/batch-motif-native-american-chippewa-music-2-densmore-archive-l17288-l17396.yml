@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l17288-l17396
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: BUREAU   OF   AMERICAN    ETHNOLOGY  BULLETIN   53     PLATE  37 / MA'KUK    FOR     MAPLE    SUGAR
+    / DENS MORE  I / BUKEAU    OF   AMERICAN    ETHNOLOGY; lines 17288-17396
+  start: '17288'
+  end: '17396'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents three song entries: a song accompanying the gift
+    of a pony, a song of thanks for that gift, and a moccasin game song. It describes
+    musical analyses for the songs and notes a dance in which the recipient of a pony-stick
+    leads while prior pony-givers dance and signal gift totals with raised fingers.
+    The moccasin game songs are described as ordinary game songs with no dream origin
+    attributed to them.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: No. 123 is identified as a song accompanying the gift of a pony and is sung
+    by Mec^kawiga^bau.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The analysis of No. 123 describes repeated two-measure phrases, rhythmic relations
+    within the song, minor tonality, and use of the minor triad and fourth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man who has received the pony-stick leads the dance while carrying the
+    stick in his hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: All who have ever given away ponies dance with the leader, and many hold up
+    fingers to indicate the total number of ponies presented at various dances.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: No. 124 is identified as a song of thanks for the gift of a pony and is sung
+    by Mec^kawiga^bau.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The analysis of No. 124 describes a rhythmic unit in double time, a section
+    in triple time, a triplet feature, minor tonality, and a whole tone between 7
+    and 8.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The moccasin game songs are described as ordinary songs of the game, and no
+    dream origin is attributed to them.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: No. 125 is identified as a moccasin game song sung by E^niwub'e, with analysis
+    describing its tonality, tone material, upward octave progression, repeated rhythmic
+    unit, triple time, and recorded renditions.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mec^kawiga^bau
+  description: Singer named for No. 123 and No. 124.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Recipient of the pony-stick
+  description: The man who has received the pony-stick and leads the dance while carrying
+    it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Prior pony-givers
+  description: Those who have ever given away ponies; they dance with the leader and
+    may hold up fingers to indicate total ponies presented.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: E^niwub'e
+  description: Singer named for No. 125, the moccasin game song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: song singer
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The song headings identify Mec^kawiga^bau and E^niwub'e as singers of the
+    listed songs.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: pony-stick recipient and dance leader
+  assigned_to:
+  - fig:2
+  basis: The passage says the man who received the pony-stick leads the dance while
+    carrying the stick.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: former pony-giver and dance participant
+  assigned_to:
+  - fig:3
+  basis: The passage says all who have ever given away ponies dance with the leader
+    and may indicate the number of ponies presented.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: pony-stick
+  literal_form: A stick received by the dance leader and carried in his hand during
+    the dance.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: gifted pony
+  literal_form: A pony given away or presented as a gift in the context of the songs
+    and dance.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: raised fingers indicating pony totals
+  literal_form: Fingers held up by dancers to indicate the total number of ponies
+    they had presented at various dances.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Song accompanying the gift of a pony
+  summary: No. 123 is presented as a song accompanying the gift of a pony, with musical
+    analysis of phrase structure, rhythm, and tonality.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pony-stick dance and song of thanks
+  summary: The pony-stick recipient leads a dance while carrying the stick. Former
+    pony-givers dance with him and may raise fingers to count their pony gifts. The
+    following song is presented as thanks for the pony gift.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Moccasin game song without dream origin
+  summary: The passage identifies moccasin game songs as ordinary game songs with
+    no dream origin and presents No. 125 with musical analysis.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritualized pony gift with song and public thanks
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage links the gift of a pony with an accompanying song, a song of
+    thanks, and a public dance involving the recipient and previous pony-givers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: 'The taxonomy reference is tentative: the passage documents gift, thanks,
+    and dance, but does not explicitly call the exchange sacred or describe a mythic
+    transaction.'
+- id: motif:2
+  label: token-bearing dance leader after a gift
+  taxonomy_refs: []
+  basis: The pony-stick recipient leads the dance while carrying the stick in his
+    hand.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the wider meaning of the pony-stick beyond
+    its use in the dance.
+- id: motif:3
+  label: counting gifts by gesture in communal dance
+  taxonomy_refs: []
+  basis: Prior pony-givers dance and hold up fingers to indicate the number of ponies
+    presented at various dances.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage describes the gesture literally but does not provide symbolic
+    interpretation.
+- id: motif:4
+  label: ordinary game song distinguished from dream-origin song
+  taxonomy_refs: []
+  basis: The moccasin game songs are explicitly described as ordinary songs of the
+    game with no dream origin attributed to them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a negative classification within the passage; no dream narrative
+    is provided.
+comparison_claims:
+- id: claim:1
+  claim: The moccasin game songs are framed as ordinary game songs and are explicitly
+    compared with Nos. 103 and 104 in the same work.
+  claim_level: same_function
+  target: Nos. 103 and 104 in Chippewa Music II
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides no content from Nos. 103 and 104, so the comparison
+    is limited to the stated functional grouping.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17288-17308; No. 123 heading and analysis
+  quote_or_summary: No. 123 is a song accompanying the gift of a pony, sung by Mec^kawiga^bau;
+    the analysis describes phrase repetition, rhythm, minor tonality, and tone material.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 17309-17314; pony-stick dance description
+  quote_or_summary: "“The man who has received the pony-stick leads the dance ...
+    carrying the stick in his hand. All who have ever given away ponies dance with
+    him,” with some holding up fingers to indicate total ponies presented."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 17315-17338; No. 124 heading and analysis
+  quote_or_summary: No. 124 is a song of thanks for the gift of a pony, sung by Mec^kawiga^bau;
+    the analysis describes rhythm in double and triple time, a triplet feature, and
+    minor tonality.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 17339-17343; Moccasin Game Songs introduction
+  quote_or_summary: The passage states that this and the following song are ordinary
+    songs of the moccasin game, with no dream origin attributed, and compares Nos.
+    103 and 104.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 17344-17396; No. 125 heading and analysis
+  quote_or_summary: No. 125 is a moccasin game song sung by E^niwub'e; the analysis
+    describes minor tonality, tone material, upward octave progression, repeated rhythmic
+    unit, triple time, and four recorded renditions.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive and ethnomusicological rather than narrative myth.
+    Literal extraction is strong, but motif-family assignment is cautious, especially
+    for sacred_exchange.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Names and titles retain source/OCR forms where possible; no external information was added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l17288-l17396
+  passage_sha256=78dfabc4f3e8ce05f9aabc9f6341ccdc9702a2ab6a3fb2f38ed9dfd61da524a2
+

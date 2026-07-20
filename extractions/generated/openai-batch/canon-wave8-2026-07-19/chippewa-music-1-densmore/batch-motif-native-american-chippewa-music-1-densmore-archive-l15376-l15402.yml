@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l15376-l15402
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: CHIPPEWA  SHAKING   HANDS  WITH    MENOMINEE / PARTICIPANTS    IN     DRUM-PRESENTATION    CEREMONY
+    / OWNER   OF   DRUM    (DANCING) / PROMINENT    CHIPPEWA    ACTORS    IN    DRUM-PRESENTATION    CEREMONY;
+    lines 15376-15402
+  start: '15376'
+  end: '15402'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: The first song was sung as the messenger of the Dog Feast brought in the
+    kettle containing the cooked dog.
+  summary: The passage describes the chief actors, costumes, setting, and first song
+    of a Drum-presentation Ceremony segment involving the Dog Feast. A Dog Feast messenger
+    brings in a kettle with cooked dog, places it near the circle entrance, dances
+    during the song, and then moves the kettle to the western side of the enclosure.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: 'The ceremony has four chief actors: two Chippewa representing the oc''kabe''wis
+    roles and two Chippewa representing the Sioux.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chief actors wore elaborate native costumes and feather garments.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ceremony was held late in the afternoon, with many Chippewa seated around
+    the dancing circle, including attendees from other reservations.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: During the first song, the Dog Feast messenger brought in a kettle containing
+    cooked dog.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Dog Feast messenger placed the kettle near the entrance of the circle,
+    danced during the song, and afterward moved the kettle to the western side of
+    the enclosure.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage identifies the song as No. 72, First Song of the Dog Feast, sung
+    by Mec^kawiga'bau.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Chippewa actor representing the oc'kabe'wis of the Drum-presentation
+    Ceremony
+  description: One of the two Chippewa actors representing oc'kabe'wis roles; this
+    figure represents the aid or messenger of the entire Drum-presentation Ceremony.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Chippewa actor representing the oc'kabe'wis of the Dog Feast
+  description: One of the two Chippewa actors representing oc'kabe'wis roles; in the
+    first song sequence, the Dog Feast messenger brings in and moves the kettle.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Two Chippewa representing the Sioux
+  description: Two Chippewa actors are described as representing the Sioux among the
+    four chief actors.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Mec^kawiga'bau
+  description: Named singer of No. 72, First Song of the Dog Feast.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Chippewa attendees
+  description: A large number of Chippewa were seated around the dancing circle, many
+    from other reservations.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: aid or messenger of the entire Drum-presentation Ceremony
+  assigned_to:
+  - fig:1
+  basis: The passage glosses oc'kabe'wis as aid or messenger and says one Chippewa
+    represented this role for the entire ceremony.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: oc'kabe'wis or messenger of the Dog Feast
+  assigned_to:
+  - fig:2
+  basis: The passage identifies one Chippewa as representing the oc'kabe'wis of the
+    Dog Feast, and the following sequence calls him the messenger of the Dog Feast.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: representatives of the Sioux
+  assigned_to:
+  - fig:3
+  basis: The passage says two Chippewa represented the Sioux.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: singer of the First Song of the Dog Feast
+  assigned_to:
+  - fig:4
+  basis: The passage states that No. 72, First Song of the Dog Feast, was sung by
+    Mec^kawiga'bau.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: ceremonial attendees around the dancing circle
+  assigned_to:
+  - fig:5
+  basis: The passage describes many Chippewa seated around the dancing circle to attend
+    the ceremony.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: kettle bearer and dancer during the first song
+  assigned_to:
+  - fig:2
+  basis: The Dog Feast messenger brings in the kettle, places it near the entrance,
+    dances during the song, and moves it afterward.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: kettle containing cooked dog
+  literal_form: kettle with cooked dog
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: dancing circle
+  literal_form: circle or enclosure where participants were seated and where the kettle
+    was placed near the entrance
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: feather garments
+  literal_form: feather garments worn with elaborate native costumes
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: western side of the enclosure
+  literal_form: western side of the inclosure where the kettle was moved after the
+    song
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Assembly for the Drum-presentation Ceremony
+  summary: Four chief actors are identified by representative roles; they wear elaborate
+    native costumes and feather garments, while many Chippewa attendees sit around
+    the dancing circle in the late afternoon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: First Song of the Dog Feast and kettle movement
+  summary: As the first song is sung, the Dog Feast messenger brings in the kettle
+    containing cooked dog, places it near the circle entrance, dances during the song,
+    and then moves the kettle to the western side of the enclosure.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual messenger brings feast vessel into ceremonial circle
+  taxonomy_refs: []
+  basis: The Dog Feast messenger brings a kettle containing cooked dog into the circle,
+    places it near the entrance, dances during the first song, and relocates it after
+    the song.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a ritual action pattern from the described ceremony, not a mythic
+    narrative motif.
+- id: motif:2
+  label: ceremonial representation by delegated actors
+  taxonomy_refs: []
+  basis: The four chief actors include Chippewa men representing specific oc'kabe'wis
+    roles and Chippewa men representing the Sioux.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states representative roles but does not explain their full
+    ritual meaning.
+- id: motif:3
+  label: drum-presentation ceremony with feast component
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage identifies the event as a Drum-presentation Ceremony and describes
+    a Dog Feast sequence involving a messenger, song, dance, and kettle containing
+    cooked dog.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: low
+  cautions: The excerpt does not describe an actual transfer of the drum or reciprocal
+    exchange; the taxonomy link rests mainly on the named ceremony and feast sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15376-15380
+  quote_or_summary: 'Four chief actors are described: two Chippewa representing the
+    oc''kabe''wis of the Drum-presentation Ceremony and of the Dog Feast, and two
+    Chippewa representing the Sioux; they wore elaborate native costumes and feather
+    garments.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: 15380-15384
+  quote_or_summary: The ceremony was held late in the afternoon; many Chippewa sat
+    around the dancing circle, including people from other reservations.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: 15386-15391
+  quote_or_summary: The first song was sung as the Dog Feast messenger brought in
+    a kettle containing cooked dog; he placed it near the circle entrance, danced
+    during the song, and then moved it to the western side of the enclosure.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; brief quoted/summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 15393-15402
+  quote_or_summary: The song is identified as No. 72, First Song of the Dog Feast,
+    sung by Mec^kawiga'bau, with catalogue number S. 13.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is ethnographic and ceremonial rather than a myth narrative; the sacred_exchange
+    taxonomy reference is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not provide a basis for cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l15376-l15402
+  passage_sha256=3e04a54d02e66beda259e6c48df3636fa7f638e7452d8eba3ce4eea61738e2d5
+

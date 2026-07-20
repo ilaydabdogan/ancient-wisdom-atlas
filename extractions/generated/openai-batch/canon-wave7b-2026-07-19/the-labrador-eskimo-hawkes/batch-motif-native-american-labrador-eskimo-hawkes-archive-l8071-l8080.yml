@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l8071-l8080
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: ALASUQ  AND  THE  GIANT. / THE  GIRL  WHO  LIVED  AMONG  THE  ADLIT. / ORIGIN  OF  MAN  AND  THE  ANIMALS.
+    / ORIGIN   OF   THE   WINDS    AND    RAIN.; lines 8071-8080
+  start: '8071'
+  end: '8080'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage explains winds, storms, rain, flowers, and thunder as actions
+    of spirits living in different directions: a northern giant spirit makes snowstorms
+    with his breath; eastern and western spirits breathe soft winds and summer weather;
+    southern female sky spirits keep rain in bags, release it while running across
+    the sky, and their running makes thunder.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A giant spirit is said to live in the north.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The northern giant spirit causes violent snowstorms by blowing his breath.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Other spirits live in the east and west.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The eastern and western spirits breathe soft winds and summer weather.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Female spirits dwell to the south.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The southern female spirits send flowers and summer rain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The female spirits live up in the sky and keep rain in big bags.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When the female spirits run across the sky, water escapes from the bags.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Thunder is identified as the noise of the female spirits running across the
+    sky.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Northern giant spirit
+  description: A giant spirit living in the north who causes violent snowstorms by
+    blowing his breath.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Eastern and western spirits
+  description: Spirits living in the east and west who breathe soft winds and summer
+    weather.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Southern female spirits
+  description: Female spirits dwelling to the south and in the sky; they send flowers
+    and summer rain, keep rain in big bags, and make thunder by running across the
+    sky.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: snowstorm-causing spirit
+  assigned_to:
+  - fig:1
+  basis: The northern giant spirit's breath produces violent snowstorms.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: soft-wind and summer-weather spirits
+  assigned_to:
+  - fig:2
+  basis: The spirits in the east and west breathe soft winds and summer weather.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: rain, flower, and thunder-producing sky spirits
+  assigned_to:
+  - fig:3
+  basis: The southern female spirits send flowers and summer rain, keep rain in bags,
+    release water while running, and their running is thunder.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: breath as wind-maker
+  literal_form: breath blown or breathed by spirits
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: directional dwellings of weather spirits
+  literal_form: north, east, west, and south as homes of different spirits
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: rain bags
+  literal_form: big bags kept by female spirits in the sky containing rain
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: escaping sky water
+  literal_form: water escaping when female spirits run across the sky
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: thunder as running noise
+  literal_form: noise of female spirits running across the sky
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Directional spirits generate weather
+  summary: 'Different spirits occupy different directions and produce distinct weather:
+    the northern giant makes violent snowstorms, eastern and western spirits make
+    soft winds and summer weather, and southern female spirits bring flowers and rain.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Sky women release rain and make thunder
+  summary: The southern female spirits live in the sky with rain kept in big bags;
+    as they run across the sky, water escapes, and the sound of their running is thunder.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: origin of winds and rain through directional spirits
+  taxonomy_refs: []
+  basis: The passage explicitly presents winds, snowstorms, summer weather, rain,
+    flowers, and thunder as caused by spirits living in different directions and in
+    the sky.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names weather-origins; the label
+    is descriptive rather than a controlled taxonomy assignment.
+- id: motif:2
+  label: rain kept in sky bags and released by movement
+  taxonomy_refs: []
+  basis: The female spirits keep rain in big bags in the sky, and water escapes when
+    they run across the sky.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief etiological explanation and does not describe
+    ritual or narrative context beyond this action.
+- id: motif:3
+  label: seasonal weather and flowering sent by spirits
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Eastern and western spirits breathe summer weather, and southern female spirits
+    send flowers and summer rain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions summer weather, flowers, and rain but does not narrate
+    a full seasonal cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8071-8073
+  quote_or_summary: A giant spirit lives in the north; when he blows his breath, violent
+    snowstorms occur.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8073-8075
+  quote_or_summary: Spirits live in the east and west and breathe soft winds and summer
+    weather.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8075-8076
+  quote_or_summary: Female spirits dwell to the south and send flowers and summer
+    rain.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:4
+  type: summary
+  locator: lines 8076-8079
+  quote_or_summary: The female spirits live in the sky, keep rain in big bags, and
+    water escapes when they run across the sky.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:5
+  type: summary
+  locator: lines 8079-8080
+  quote_or_summary: Thunder is the noise of the female spirits running across the
+    sky.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; brief summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive; only
+    seasonal_cycle is cautiously mapped to the supplied taxonomy. No comparison claims
+    were made because the passage does not itself support cross-text or cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l8071-l8080
+  passage_sha256=92c7844698448b0ab6b92545bc5def6b1f459448c2dcc44e0cc8c6c0e9578cd5
+

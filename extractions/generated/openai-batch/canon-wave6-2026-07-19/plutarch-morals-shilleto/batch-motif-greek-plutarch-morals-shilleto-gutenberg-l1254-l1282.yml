@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.greek-plutarch-morals-shilleto-gutenberg-l1254-l1282
+source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+passage_locator:
+  label: INDEX                                                         401 / PLUTARCH'S
+    MORALS. / ON EDUCATION. / ON LOVE TO ONE'S OFFSPRING.; lines 1254-1282
+  start: '1254'
+  end: '1282'
+  translation: Plutarch's Morals
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“animals and birds and human beings should meet in common”"
+  summary: Editorial notes describe a common theatre for animals, birds, and human
+    beings; mention condensed translation of material on milk, menses, and blood;
+    list classical citations; and state that the discourse breaks off while criticizing
+    an appeal to brute animals’ affection for offspring instead of to human nature.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A footnote describes a theatre in which animals, birds, and human beings meet
+    in common.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A footnote says the translator condensed and paraphrased discussion of milk,
+    menses, and blood because ancient authors sometimes spoke more plainly than the
+    translator could render directly.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The notes cite Homer, Euripides, Evenus of Paros, Aristophanes, and Cicero.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note says the discourse breaks off abruptly and is directed against the
+    Epicureans.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A note says the discourse ridicules appealing to the affection of brutes for
+    their offspring instead of appealing to human nature.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Animals or brutes
+  description: Animals are included among those meeting in the common theatre, and
+    brutes are mentioned as having affection for their offspring.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Birds
+  description: Birds are included among those meeting in the common theatre.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Human beings or human nature
+  description: Human beings are included among those meeting in the common theatre,
+    and human nature is contrasted with appeals to brutes’ affection for offspring.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Epicureans
+  description: The discourse is described as directed against the Epicureans.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Offspring
+  description: Offspring are the recipients of the brutes’ affection mentioned in
+    the note.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Common participants
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The theatre is described as one in which animals, birds, and human beings
+    meet in common.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Animal examples of offspring-affection
+  assigned_to:
+  - fig:1
+  basis: The note mentions appealing to the affection of brutes for their offspring.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Human comparator
+  assigned_to:
+  - fig:3
+  basis: The note contrasts appeal to brutes’ affection with appeal to human nature.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Polemical target
+  assigned_to:
+  - fig:4
+  basis: The discourse is stated to be directed against the Epicureans.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Recipient of parental affection
+  assigned_to:
+  - fig:5
+  basis: The note identifies offspring as the object of brutes’ affection.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Milk
+  literal_form: milk
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Menses
+  literal_form: menses
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Blood
+  literal_form: blood
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Common theatre
+  literal_form: theatre
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Common theatre of animals, birds, and humans
+  summary: A theatre is described as a shared place where animals, birds, and human
+    beings meet in common.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Translator’s note on bodily substances
+  summary: The translator explains that material concerning milk, menses, and blood
+    has been condensed and paraphrased because ancient expression could be too plain
+    for direct translation.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Polemical note on offspring affection
+  summary: The discourse is said to break off abruptly while arguing against Epicureans
+    and ridiculing reliance on brutes’ affection for offspring rather than on human
+    nature.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Cross-species common assembly
+  taxonomy_refs: []
+  basis: The note describes animals, birds, and human beings meeting together in a
+    common theatre.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an editorial note, not a full narrative scene; the exact
+    function of the theatre is not supplied here.
+- id: motif:2
+  label: Bodily fluids of generation and nurture
+  taxonomy_refs: []
+  basis: The note groups milk, menses, and blood as material discussed in the source
+    passage.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The note does not provide the original argument or describe how these
+    substances function symbolically.
+- id: motif:3
+  label: Parent-offspring affection as natural evidence
+  taxonomy_refs: []
+  basis: The note reports an argument about appealing to brutes’ affection for their
+    offspring, contrasted with appeal to human nature.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The note says the discourse ridicules this appeal; it does not present
+    the full argument or a mythic narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison between animal affection for offspring
+    and human nature as competing grounds in an argument about parental feeling.
+  claim_level: same_function
+  target: Animal parental affection and human parental affection or human nature
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note reports that the discourse ridicules the animal-based appeal;
+    it does not claim equivalence between animal and human affection, and the full
+    discourse is absent from this excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1254-1255
+  quote_or_summary: "“A theatre, that is, in which animals and birds and human beings
+    should meet in common.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 1257-1263
+  quote_or_summary: The translator says material about milk, menses, and blood has
+    been condensed and paraphrased because ancient authors sometimes speak more plainly
+    than can be translated directly.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 1265-1278
+  quote_or_summary: The notes cite Homer’s Iliad, a Euripidean fragment, Evenus of
+    Paros, Aristophanes’ Equites, Cicero’s Tusculan Disputations, and several Euripidean
+    passages.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: 1280-1282
+  quote_or_summary: "“The discourse breaks off abruptly. It is directed against the
+    Epicureans. It throws ridicule on appealing to the affection of brutes for their
+    offspring instead of appealing to human nature.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The excerpt consists of editorial notes rather than a continuous mythic narrative,
+    so motifs are identified only as passage-level patterns explicitly present in
+    the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the passage does not clearly support any available motif-family reference. The available symbol reference 'milk' was used for the literal mention of milk.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-plutarch-morals-shilleto-gutenberg__l1254-l1282
+  passage_sha256=40db6583dda2e66b42aa6298d5a6947828481c61de986b50c8be936289ebebdd
+

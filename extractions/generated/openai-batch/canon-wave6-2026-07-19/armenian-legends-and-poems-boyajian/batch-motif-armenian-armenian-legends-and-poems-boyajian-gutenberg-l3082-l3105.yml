@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l3082-l3105
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: THE LAKE OF VAN / SPRING / THE FOX / FOLK SONG; lines 3082-3105
+  start: '3082'
+  end: '3105'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A folk song presents a fox entering a mill, raising its paws and dancing,
+    grinding and carrying away corn, eating village chickens, trampling upland cornfields,
+    and lying stretched out. A speaker then says sable and fox will be caught in fall
+    to make a match for the speaker's son, but laments that no price was made and
+    Hovhannes remained unmarried.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is titled “THE FOX” and identified as a folk song.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fox runs into a mill, raises its paws, and dances.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The song addresses the fox as “Brave Master Fox” and says there is none like
+    him in the world.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fox grinds a peck of corn and carries it away on his back.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fox eats village chickens and treads down upland cornfields.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The fox lies on his shaggy side with his paws stretched out before him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A speaker says sable and fox will be caught in the fall, and that a match
+    will be made for the speaker’s son.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The speaker says no price was made that year and Hovhannes remained unmarried.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The named settings or worked places include a mill, a village, and upland
+    cornfields.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fox
+  description: The central animal in the folk song; he enters the mill, dances, grinds
+    and carries corn, eats chickens, tramples fields, lies stretched out, and is later
+    named among animals to be caught.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Speaker
+  description: The first-person voice who speaks of catching sable and fox, making
+    a match for the speaker’s son, and lamenting Hovhannes’s unmarried state.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Speaker’s son / Hovhannes
+  description: A male kin figure named in relation to a proposed match; he is said
+    to have remained unmarried.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Sable
+  description: An animal mentioned with fox as something to be caught in the fall.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: central animal actor
+  assigned_to:
+  - fig:1
+  basis: The fox performs the main actions of entering, dancing, grinding, carrying
+    away corn, eating, trampling, and lying down.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: praised or mock-praised animal
+  assigned_to:
+  - fig:1
+  basis: The fox is addressed as “Brave Master Fox” and said to be unmatched in the
+    world.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: village and field depredator
+  assigned_to:
+  - fig:1
+  basis: The fox eats village chickens and treads down upland cornfields.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: autumn catch target
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The speaker says sable and fox will be caught in the fall.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: speaker and proposed match-maker
+  assigned_to:
+  - fig:2
+  basis: The speaker says a match will be made for the speaker’s son and then laments
+    the failure associated with price and Hovhannes’s unmarried state.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:6
+  label: unmarried prospective groom
+  assigned_to:
+  - fig:3
+  basis: The speaker refers to a son in connection with making a match and names Hovhannes
+    as remaining unmarried.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: fox
+  literal_form: Fox as animal figure and image in the folk song
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: mill
+  literal_form: Mill entered by the fox
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: corn
+  literal_form: Peck of corn ground and carried away; upland cornfields trodden down
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: village chickens
+  literal_form: Chickens eaten by the fox
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sable and fox catch
+  literal_form: Sable and fox to be caught in fall, followed by mention of price and
+    a failed marriage match
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Fox in the mill
+  summary: The fox runs into the mill, raises his paws, dances, and is addressed with
+    praise.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Fox takes grain and damages village resources
+  summary: The fox grinds and carries away a peck of corn, eats village chickens,
+    and treads down upland cornfields.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fox lying stretched out
+  summary: The fox is shown lying on his shaggy side with his paws stretched out before
+    him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Autumn catch and failed marriage outcome
+  summary: The speaker links catching sable and fox in fall with making a match for
+    the speaker’s son, but then says no price was made and Hovhannes remained unmarried.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Fox as disruptive animal intruder
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The fox enters a human work-space, dances, takes grain, eats chickens, and
+    damages cornfields; this supports a cautious candidate reading as a boundary-crossing
+    disruptive fox motif.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly call the fox a trickster or describe deception;
+    the taxonomy reference is based on disruptive boundary-crossing behavior only.
+- id: motif:2
+  label: Animal catch linked to marriage resources
+  taxonomy_refs: []
+  basis: The speaker says sable and fox will be caught in fall in connection with
+    making a match for the speaker’s son, and then says no price was made and Hovhannes
+    remained unmarried.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The economic link between the catch, price, and marriage is implied by
+    sequence and wording but not explained in detail.
+- id: motif:3
+  label: Dancing fox in a human work-place
+  taxonomy_refs: []
+  basis: The fox runs into the mill, raises his paws, and dances there.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a local passage-level motif candidate without an assigned taxonomy
+    reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3082-3085
+  quote_or_summary: "“THE FOX” / “FOLK SONG”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain.
+- id: ev:2
+  type: quote
+  locator: lines 3086-3089
+  quote_or_summary: "“The fox ran up into the mill,” raised his paws, danced, and
+    is addressed as “Brave Master Fox.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain.
+- id: ev:3
+  type: quote
+  locator: lines 3091-3092
+  quote_or_summary: "“A peck of corn he ground that day,” and carried it away on his
+    back."
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain.
+- id: ev:4
+  type: quote
+  locator: lines 3094-3095
+  quote_or_summary: The fox “ate the village chickens” and “trod the upland cornfields
+    down.”
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain.
+- id: ev:5
+  type: quote
+  locator: lines 3097-3098
+  quote_or_summary: "“The fox lies on his shaggy side,” with paws stretched out before
+    him."
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain.
+- id: ev:6
+  type: quote
+  locator: lines 3100-3101
+  quote_or_summary: "“Sable and fox this fall we’ll catch,” and “for my son I’ll make
+    a match.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain.
+- id: ev:7
+  type: quote
+  locator: lines 3103-3105
+  quote_or_summary: "“Alas, this year no price they made” and “My Hovhannes unmarried
+    stayed!”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the song is brief and does not explicitly explain symbolic meanings or comparative
+    relationships.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not provide a direct comparison to another text, tradition, or named motif family.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l3082-l3105
+  passage_sha256=06564a285c7a8781b92e1aaea368767b2d053e26742af6575bc5b25fdccbc7b6
+

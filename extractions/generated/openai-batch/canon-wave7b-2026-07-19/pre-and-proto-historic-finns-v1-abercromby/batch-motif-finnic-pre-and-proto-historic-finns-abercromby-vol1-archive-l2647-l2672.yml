@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.finnic-pre-and-proto-historic-finns-abercromby-vol1-archive-l2647-l2672
+source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+passage_locator:
+  label: THE NEOLITHIC AGE IN FINLAND / THE NEOLITHIC AGE IN FINLAND 61 / THE NEOLITHIC
+    AGE IN FINLAND 63 / THE VALLEY OF THE OKA.; lines 2647-2672
+  start: '2647'
+  end: '2672'
+  translation: The Pre- and Proto-historic Finns, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Neolithic stations in the valley of the Oka, especially
+    the Voldsovo site near Murom. It notes the site’s raised sandy ridge, nearby brook
+    and resources, a black sand layer containing many stone implements, and graves
+    and sepulchral urns found by Count Uvarov. It begins to describe the orientation
+    of the bodies in the graves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several Neolithic stations are said to be known in the valley of the Oka on
+    both sides of the river, above and below Murom.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Voldsovo station is identified as the most important and richest site,
+    located on the right bank of the Oka east of Murom.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The station lies on a ridge of white blown sand high enough to protect inhabitants
+    from spring floods on the lower ground between the ridge and the Oka.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ridge had fir-trees a few years before the account and a brook ran in
+    front of it, giving access to water, fish, and mussels.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Under the white sand was a black sand stratum containing many stone implements.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Count Uvarov found five graves and several sepulchral urns south of the main
+    area of Neolithic objects.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The bodies in the graves lay on an east-south-east to west-north-west axis,
+    with the head turned so that the left cheek was described as being in a supported
+    or placed position, though the passage is cut off.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: inhabitants of the Voldsovo station
+  description: People inferred by the passage as inhabitants of the raised ridge settlement,
+    with access to water, fish, and mussels.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: late Count Uvarov
+  description: Named discoverer of five graves and several sepulchral urns at the
+    site.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: bodies in the graves
+  description: Bodies described as lying east-south-east and west-north-west, with
+    the head turned toward the left cheek position described in the incomplete line.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: site inhabitants
+  assigned_to:
+  - fig:1
+  basis: The passage says the ridge protected the inhabitants from floods and gave
+    them access to resources.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: excavator or finder
+  assigned_to:
+  - fig:2
+  basis: The passage says Count Uvarov found graves and sepulchral urns.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: buried dead
+  assigned_to:
+  - fig:3
+  basis: The passage describes bodies lying in the graves with a specified orientation.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: water sources and flooding
+  literal_form: Oka river, spring floods, brook, water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: raised sandy ridge
+  literal_form: ridge of white blown sand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fir-trees
+  literal_form: fir-trees covering the ridge
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: stone implements
+  literal_form: many stone implements in black sand stratum
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: graves and sepulchral urns
+  literal_form: five graves and several sepulchral urns
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Voldsovo settlement setting
+  summary: The Voldsovo station is situated on a raised sandy ridge near the Oka,
+    protected from spring floods and close to a brook and aquatic resources.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Subsurface artifact layer
+  summary: A black sand layer beneath the white sand contains a large number of stone
+    implements.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Graves and burial orientation
+  summary: South of the main artifact area, Count Uvarov found graves and sepulchral
+    urns; the bodies are described with a particular east-south-east to west-north-west
+    orientation.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: flood-protected settlement near water resources
+  taxonomy_refs: []
+  basis: The settlement is described as placed on a ridge high enough to avoid spring
+    floods while retaining access to a brook, water, fish, and mussels.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an archaeological settlement pattern, not a mythic motif in the
+    passage.
+- id: motif:2
+  label: burial with fixed body orientation and funerary containers
+  taxonomy_refs: []
+  basis: The passage records five graves, several sepulchral urns, and bodies laid
+    on a specified axis.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage gives no explicit ritual meaning, afterlife interpretation,
+    or mythological explanation for the grave orientation or urns.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2647-2651
+  quote_or_summary: Several Neolithic stations are known in the Oka valley on both
+    sides of the river, above and below Murom.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2651-2654
+  quote_or_summary: Voldsovo, on the right bank of the Oka east of Murom, is described
+    as the most important and richest station.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2654-2659
+  quote_or_summary: The station lies on a ridge of white blown sand high enough to
+    protect inhabitants from spring floods covering the lower ground toward the Oka.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2659-2663
+  quote_or_summary: The ridge was formerly covered with fir-trees, and a brook in
+    front of it gave inhabitants easy access to water, fish, and mussels.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2663-2666
+  quote_or_summary: Beneath the white sand was a black sand stratum, up to 34 feet
+    thick in the supplied text, containing many stone implements.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2666-2669
+  quote_or_summary: South of the main area of Neolithic objects, the late Count Uvarov
+    found five graves and several sepulchral urns.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 2670-2672
+  quote_or_summary: The bodies are described as lying east-south-east and west-north-west,
+    with the head turned so that the left cheek was noted; the sentence is incomplete
+    in the supplied passage.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily archaeological and descriptive. Literal extraction
+    is moderately secure, but motif candidates are generic settlement and burial patterns
+    rather than explicit mythological motifs. No comparison claims are made because
+    the passage itself provides no comparative mythological linkage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage ends mid-sentence after the description of the head and left cheek; no completion has been inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:finnic-pre-and-proto-historic-finns-abercromby-vol1-archive__l2647-l2672
+  passage_sha256=38c67e4fa2ba6d780d4ac36b7237f70cd094a7d28faee9136e3943da5971bbab
+

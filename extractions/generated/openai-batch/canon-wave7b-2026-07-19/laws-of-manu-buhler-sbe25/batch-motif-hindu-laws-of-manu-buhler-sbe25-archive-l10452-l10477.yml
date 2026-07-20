@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l10452-l10477
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: II,  219.  STUDENTSHIP.  69 / II,  245-  STUDENTSHIP.  73 / LAWS    OF    MANU.
+    / II,  246.; lines 10452-10477
+  start: '10452'
+  end: '10477'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists possible gifts to a teacher, prescribes continued service
+    to the teacher’s qualified son, widow, or Sapi^a after the teacher’s death, directs
+    service to the sacred fire if none of these remain alive, and states that a vow-keeping
+    Brahma^a student attains the highest abode after death and is not born again.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A present for the venerable man may include a field, gold, a cow, a horse,
+    a parasol and shoes, a seat, grain, or vegetables, according to the giver’s ability.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated purpose of the present is to give pleasure to the teacher.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If the teacher dies, a perpetual student is instructed to serve the teacher’s
+    qualified son, the teacher’s widow, or the teacher’s Sapi^a in the same manner
+    as the teacher.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If none of those persons are alive, the student must serve the sacred fire,
+    standing by day and sitting during the night, and finish his life in that way.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A Brahma^a who lives as a student without breaking his vow is said to reach
+    the highest abode after death and not be born again in this world.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: venerable man / teacher
+  description: The recipient of the listed presents and the person to whom the student’s
+    service is owed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: perpetual student / Brahma^a student
+  description: The person instructed to give or render service and to maintain the
+    student vow throughout life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: teacher’s son
+  description: A possible recipient of continued service after the teacher’s death,
+    if endowed with good qualities.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: teacher’s widow
+  description: A possible recipient of continued service after the teacher’s death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: teacher’s Sapi^a
+  description: A possible recipient of continued service after the teacher’s death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: teacher and recipient of gift/service
+  assigned_to:
+  - fig:1
+  basis: The passage names the teacher as the one to whom pleasure is given and whose
+    service continues through substitutes after death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: vow-keeping perpetual student
+  assigned_to:
+  - fig:2
+  basis: The passage refers to a perpetual student and to a Brahma^a who passes life
+    as a student without breaking his vow.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: substitute recipient of student service
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: After the teacher’s death, the student is directed to serve the teacher’s
+    son, widow, or Sapi^a in the same manner as the teacher.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sacred fire
+  literal_form: sacred fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: teacher’s present
+  literal_form: field, gold, cow, horse, parasol and shoes, seat, grain, vegetables
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: highest abode
+  literal_form: highest abode reached after death
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Gift to the teacher
+  summary: A present is to be given to the venerable teacher according to ability,
+    using items such as land, valuables, animals, clothing or equipment, a seat, grain,
+    or vegetables.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Continued service after the teacher’s death
+  summary: If the teacher dies, the perpetual student transfers service to the teacher’s
+    qualified son, widow, or Sapi^a.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Service to sacred fire when no substitute remains
+  summary: If no named successor is alive, the student serves the sacred fire while
+    standing by day and sitting at night, continuing until the end of life.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Postmortem result of unbroken studentship
+  summary: The Brahma^a student who preserves the vow throughout life reaches the
+    highest abode after death and is not reborn in this world.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: lifelong vow-keeping studentship
+  taxonomy_refs:
+  - initiation
+  basis: The passage centers on a perpetual student who maintains the student vow
+    for life and receives a stated postmortem result.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is prescriptive legal-religious instruction rather than a
+    narrative initiation episode.
+- id: motif:2
+  label: teacher service and gift as sacred exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The student gives listed presents to the teacher and continues service to
+    the teacher or authorized successors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The text presents a rule of conduct; the exchange is implied through gift
+    and service, not narrated as a reciprocal bargain.
+- id: motif:3
+  label: sacred fire as substitute focus of service
+  taxonomy_refs: []
+  basis: When no human recipient in the teacher’s line remains alive, the student
+    is instructed to serve the sacred fire until the end of life.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the fire’s theological status beyond naming
+    it as the object of service.
+- id: motif:4
+  label: vow observance leading to highest abode and non-rebirth
+  taxonomy_refs: []
+  basis: A Brahma^a who lives as a student without breaking his vow is said to reach
+    the highest abode after death and not be born again in this world.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states an afterlife result but does not provide an afterlife
+    journey narrative or detailed cosmology.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: II.246; lines 10452-10477
+  quote_or_summary: "“a field, gold, a cow, a horse, a parasol and shoes, a seat,
+    grain, (even) vegetables, (and thus) give pleasure to his teacher.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: II.247; lines 10452-10477
+  quote_or_summary: If the teacher dies, the perpetual student must serve the teacher’s
+    qualified son, widow, or Sapi^a in the same manner as the teacher.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; neutral summary.
+- id: ev:3
+  type: quote
+  locator: II.248; lines 10452-10477
+  quote_or_summary: "“Should none of these be alive, he must serve the sacred fire,
+    standing (by day) and sitting (during the night), and thus finish his life.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: II.249; lines 10452-10477
+  quote_or_summary: "“passes his life as a student without breaking his vow, reaches
+    (after death) the highest abode and will not be born again in this world.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for figures, actions, and ritual objects. Motif classification
+    is cautious because the material is prescriptive dharma instruction rather than
+    mythic narrative. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l10452-l10477
+  passage_sha256=8df71f9db502d4a93f8ad8a9b00e1ecf6147d8aa8043ad1d8a17087d4097eeab
+

@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l12901-l12915
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: PAPYRUS OF NES-AMSU 293 / TEM, SHE, TEFNUT 297 / CREATION OF MAN 299 / POWER
+    OF THE NAME 301; lines 12901-12915
+  start: '12901'
+  end: '12915'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Budge summarizes Egyptian creation traditions in which a self-begotten
+    god exists alone in a primeval watery mass, utters his own name as a word of power,
+    comes into being as Khepera, activates the abyssal soul, produces a standing-place
+    probably identified with earth, and brings forth Shu and Tefnut, causing light
+    to appear and darkness to disperse.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A self-begotten and self-existent god is described as living alone in a primeval
+    watery mass.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The primeval watery mass is described as part male and part female, unlimited
+    in extent, eternal, and enveloped in thick darkness.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The watery mass is said to be the abode of two living powers, one male and
+    one female, and also of a soul.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The self-existent god utters his own name as a word of power and comes into
+    being in the form of Khepera.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The god rouses the soul of the watery abyss out of inactivity.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The god produces a material place, probably the earth, on which he can stand.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: From the standing-place the god produces Shu and Tefnut.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The production of Shu and Tefnut results in the creation of light and the
+    dispersion of darkness.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: self-begotten and self-existent god
+  description: A god who lives alone in the primeval watery mass and later utters
+    his own name as a word of power.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Khepera
+  description: The form under which the self-existent god comes into being after uttering
+    his own name.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: male living power
+  description: One of two living powers in the watery mass; described as male.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: female living power
+  description: One of two living powers in the watery mass; described as female.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: soul of the watery abyss
+  description: A soul associated with the watery abyss, initially inactive until roused
+    by the god.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:6
+  name_or_label: Shu
+  description: A god produced from the material place by the self-existent god.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Tefnut
+  description: A god produced from the material place by the self-existent god.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: solitary primordial deity
+  assigned_to:
+  - fig:1
+  basis: The passage says the self-begotten and self-existent god lived alone in the
+    primeval watery mass.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: creator by word of power
+  assigned_to:
+  - fig:1
+  basis: The god utters his own name as a word of power, comes into being, rouses
+    the abyssal soul, produces a place to stand, and produces Shu and Tefnut.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: manifest form
+  assigned_to:
+  - fig:2
+  basis: Khepera is described as the form under which the self-existent god came into
+    being.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: paired living power within the watery mass
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The watery mass is the abode of two living powers, one male and one female.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: inactive abyssal soul
+  assigned_to:
+  - fig:5
+  basis: The soul of the watery abyss is roused out of inactivity.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: produced deity
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Shu and Tefnut are produced by the self-existent god.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: primeval watery mass
+  literal_form: Watery mass of unlimited extent, eternal, dark, and partly male and
+    female.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: word of power
+  literal_form: The god's own name uttered as a powerful word.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: thick darkness
+  literal_form: Darkness enveloping the primeval watery mass and later dispersed after
+    Shu and Tefnut are produced.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: material standing-place
+  literal_form: A material place, probably the earth, on which the god can stand.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: light
+  literal_form: Light created immediately after the production of Shu and Tefnut.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Primordial solitary existence in the watery mass
+  summary: The self-begotten god exists alone in an unlimited, eternal, dark watery
+    mass that contains male and female powers and a soul.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Coming into being by uttered name
+  summary: At an unknown time and for an unknown reason, the god utters his own name
+    as a word of power and comes into being as Khepera.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Activation of the abyss and establishment of a standing-place
+  summary: The god rouses the soul of the watery abyss and produces a material place,
+    probably earth, where he can stand.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Production of Shu and Tefnut and emergence of light
+  summary: From the standing-place the god produces Shu and Tefnut, resulting in the
+    creation of light and the dispersion of darkness.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: creation from primeval watery darkness
+  taxonomy_refs:
+  - chaos
+  basis: The passage describes an eternal, unlimited watery mass enveloped in darkness
+    before the god's creative actions bring light and disperse darkness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage describes a watery primordial
+    condition rather than naming a generalized chaos motif.
+- id: motif:2
+  label: cosmic male-female duality in the primordial mass
+  taxonomy_refs:
+  - duality
+  basis: The watery mass is described as part male and part female and as containing
+    two living powers, one male and one female.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not further narrate the actions of the two powers in
+    this excerpt.
+- id: motif:3
+  label: creation through the divine name or word of power
+  taxonomy_refs: []
+  basis: The self-existent god utters his own name as a word of power and immediately
+    comes into being as Khepera.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly corresponds to this motif.
+- id: motif:4
+  label: divine production of child or successor deities
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The self-existent god produces the gods Shu and Tefnut, and their production
+    leads to light and the dispersion of darkness.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage says the god produced Shu and Tefnut but does not explicitly
+    call them children in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12901-12904
+  quote_or_summary: The Egyptians are summarized as believing that a self-begotten,
+    self-existent god lived alone in a primeval watery mass.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12904-12908
+  quote_or_summary: The watery mass is described as part male and part female, abode
+    of a male and a female living power and a soul, unlimited, eternal, and enveloped
+    in thick darkness.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12908-12910
+  quote_or_summary: The self-existent god utters his own name as a word of power and
+    comes into being in the form of Khepera.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12910-12911
+  quote_or_summary: The god rouses the soul of the watery abyss out of inactivity.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12911-12913
+  quote_or_summary: After exerting influence, probably through words, on his heart,
+    the god produces a material place, probably earth, where he can stand.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12913-12915
+  quote_or_summary: From this place the god produces Shu and Tefnut, resulting in
+    the immediate creation of light and the dispersion of darkness.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif assignments are
+    limited to broad available taxonomy references and should be reviewed, especially
+    divine_parent_child because the excerpt says 'produced' rather than explicitly
+    'children.' No comparison claims were made because the passage itself does not
+    compare this account to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The final phrase in the supplied excerpt is truncated after 'formation of the'; no extraction was made from the missing continuation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l12901-l12915
+  passage_sha256=5ec5eba40164e3ae3aff21f6390e84438d3c576e35646087c99802c4231f3fc4
+

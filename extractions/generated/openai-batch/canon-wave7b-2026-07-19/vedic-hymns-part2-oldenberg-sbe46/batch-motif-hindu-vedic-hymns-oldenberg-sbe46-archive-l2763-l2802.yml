@@ -1,0 +1,164 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l2763-l2802
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'MANDALA I, HYMN 509. EG / MAW DAICA 1. AY MN: 59. / ASHTAKA I, ADHYAYA 4,
+    VARGA 25. / NOW ES.; lines 2763-2802'
+  start: '2763'
+  end: '2802'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an editorial and philological note section for a Vedic hymn.
+    It identifies the hymn's metre, states that none of its verses occurs in other
+    Samhitas, gives cross-references to other Vedic passages, mentions a literal reading
+    as “the navel,” quotes a comparison about immortals not enjoying themselves without
+    the addressed deity or figure, and notes textual corruption in the first pada
+    of verse 4.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note identifies the hymn as having the same seer or associated figure
+    as in I, 58 and gives the metre as Trishtubh.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note states that none of the verses of this hymn occurs in the other Samhitas.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A comparison is made to VII, 11, 1, including the statement that the immortals
+    do not enjoy themselves without the addressed “thee.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One note gives a literal gloss as “the navel.”
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editor states that the first pada of verse 4 is corrupt and cannot be
+    restored with full certainty.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the immortals
+  description: 'A plural group mentioned in a quoted comparison: the immortals do
+    not enjoy themselves without the addressed figure.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: addressed “thee”
+  description: An unnamed addressed figure in the quoted comparison, without whom
+    the immortals do not enjoy themselves.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: immortal group
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls them “the immortals.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: necessary presence for immortal enjoyment
+  assigned_to:
+  - fig:2
+  basis: The quoted comparison says the immortals do not enjoy themselves without
+    this addressed figure.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: navel
+  literal_form: navel
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The editor explicitly compares the note on verse 1 with VII, 11, 1, specifically
+    the wording that the immortals do not enjoy themselves without the addressed figure.
+  claim_level: linguistic_similarity
+  target: VII, 11, 1
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only a brief philological comparison, not a developed
+    mythic scene or motif.
+- id: claim:2
+  claim: The editor explicitly cross-references verse 1 to IV, 5, 1, but the passage
+    gives too little content to identify a shared motif.
+  claim_level: linguistic_similarity
+  target: IV, 5, 1
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The cited comparison is fragmentary and primarily textual; no mythological
+    pattern is described in the supplied passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2765-2767
+  quote_or_summary: "“The same Azshi as in I, 58. Metre, Trishtubh. None of the verses
+    of this hymn occurs in the other Samzhitas.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2771-2773
+  quote_or_summary: "“Comp. VII, 11, 1. ... ‘the immortals do not enjoy themselves
+    without thee.’”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2773-2775
+  quote_or_summary: "“Literally, ‘the navel.’ ... Comp. IV, 5, 1 ...”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2789-2802
+  quote_or_summary: The editor says the construction and metre show that the first
+    pada of verse 4 is corrupt and doubts that the correct reading can be restored
+    with full certainty.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source summarized for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The supplied passage is mainly editorial commentary and philological notes,
+    not the hymn text itself. Literal observations and textual comparisons are extractable,
+    but mythic scenes and motif candidates are not securely present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythology motif was assigned from the available taxonomy because the passage does not provide a developed narrative or symbolic pattern beyond brief references to immortals and a navel gloss.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l2763-l2802
+  passage_sha256=f2d4989fbda120fe3103acb0c7dd0ed5f81d6b9f9cd220084769d81da4ee7cb9
+

@@ -1,0 +1,124 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol6-archive-l194-l226
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+passage_locator:
+  label: E.  B.  COWELL,  M.A., / FORMERLY    PROFESSOR    OF    SANSKRIT    IN    THE    UNIVERSITY    OF    CAMBRIDGE
+    / W.  H.  D.  ROUSE. / ERRATA.; lines 194-226
+  start: '194'
+  end: '226'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. VI
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: 'p.  83,  1.  25.     Add  note :  Compare  the  trick  of  Brer  Rabbit  and  the
+    briar  patch.'
+  summary: The passage is an errata list for the volume. It records corrections to
+    readings and one instruction to add a note comparing a trick to Brer Rabbit and
+    the briar patch.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as errata and consists of corrections or additions for
+    specific pages and lines of the volume.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One erratum instructs that a note be added at page 83, line 25, comparing
+    a trick to Brer Rabbit and the briar patch.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Other errata list corrected readings such as Jetavana, transcendent, Sela,
+    Canda's, Sunakkhatta, Kimpurusa, mamsarii, and Golakala.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Brer Rabbit
+  description: 'Named in an erratum as part of a proposed comparative note: the trick
+    of Brer Rabbit and the briar patch.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: comparative reference figure
+  assigned_to:
+  - fig:1
+  basis: The erratum says to compare a trick with Brer Rabbit and the briar patch.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: trick compared with Brer Rabbit and the briar patch
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The errata note explicitly uses the word “trick” and directs comparison with
+    Brer Rabbit and the briar patch.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The narrative episode being compared is not included in this line range;
+    only the editorial comparison is present. The taxonomy link is therefore tentative.
+comparison_claims:
+- id: claim:1
+  claim: The errata passage records an editorial instruction to compare a trick in
+    the volume with the trick of Brer Rabbit and the briar patch.
+  claim_level: same_motif
+  target: Brer Rabbit and the briar patch
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The line range does not include the Jataka episode at page 83, line
+    25 or the Brer Rabbit story, so the grounds of the comparison cannot be evaluated
+    here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 194-226
+  quote_or_summary: The passage is an errata section listing page and line corrections
+    for the volume.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 211-212
+  quote_or_summary: "“p.  83,  1.  25.     Add  note :  Compare  the  trick  of  Brer
+    \ Rabbit  and  the briar  patch.”"
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 203-225
+  quote_or_summary: The errata list includes corrected readings for several names
+    or terms, including Jetavana, transcendent, Sela, Canda's, Sunakkhatta, Kimpurusa,
+    mamsarii, and Golakala.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is paratextual errata rather than a narrative passage. Only the
+    explicit editorial comparison to Brer Rabbit supports motif extraction, and it
+    remains limited without the referenced narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scene or symbolic object from the Jataka episode itself is present in this line range.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol6-archive__l194-l226
+  passage_sha256=33867fa9d8611d9f91f4560d9f113338571869bd5f5f3e7951a2f7ac932905ba
+

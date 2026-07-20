@@ -1,0 +1,195 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l8815-l8821
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: NEED-FIRE.      BEALTINE.  613 / BEALTINE.      PHOL'S   DAY.  615 / EASTER'  FIRES.  617
+    / MIDSUMMEE   FIRES.  619'; lines 8815-8821
+  start: '8815'
+  end: '8821'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A scholarly note reports that a writer connected a memory of the hermit
+    Paulus with a mid-7th-century act of hurling an idol of Apollo from a mountain
+    near Treves into the Moselle. The author then checks a cited source and says it
+    only mentions Paulus living opposite Treves on Cevenna, later called Mons Pauli,
+    with no mention of Apollo or the hrewheel; other authorities are also said to
+    be silent.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A writer on Konz is reported as thinking that the memory of the hermit Paulus
+    involved Paulus hurling the idol Apollo from Mt. Gehenna near Treves into the
+    Moselle in the mid-7th century.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author says the checked passage in Trithem only states that Paulus lived
+    opposite Treves on Cevenna, which was named Mons Pauli after him.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author states that the checked source contains no mention of Apollo or
+    the hrewheel, and that other authorities are equally silent.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Paulus
+  description: A hermit associated with Treves and Cevenna/Mons Pauli; in an attributed
+    claim, he hurled an idol of Apollo into the Moselle.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Apollo as idol
+  description: An idol of Apollo reportedly hurled from Mt. Gehenna into the Moselle;
+    the author says the checked sources do not mention Apollo.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: hermit associated with a named mountain
+  assigned_to:
+  - fig:1
+  basis: The checked source is summarized as saying Paulus lived opposite Treves on
+    Cevenna, later called Mons Pauli after him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: reported hurler of an idol
+  assigned_to:
+  - fig:1
+  basis: A writer on Konz is said to attribute the hurling of the idol Apollo into
+    the Moselle to Paulus; the passage also notes lack of corroboration in checked
+    authorities.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: reported cast-down idol
+  assigned_to:
+  - fig:2
+  basis: The idol Apollo is the object reportedly hurled from Mt. Gehenna into the
+    Moselle, though the author says cited authorities are silent about it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: Mt. Gehenna / Cevenna / Mons Pauli
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: river
+  literal_form: Moselle
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: idol
+  literal_form: idol Apollo
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Attributed hurling of Apollo's idol
+  summary: In an attributed report, the hermit Paulus hurls the idol Apollo from Mt.
+    Gehenna near Treves into the Moselle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Source check and silence of authorities
+  summary: The author reports that the checked source only places Paulus on Cevenna/Mons
+    Pauli and says nothing about Apollo or the hrewheel; other authorities are also
+    described as silent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: reported casting down of an idol from a mountain into a river
+  taxonomy_refs: []
+  basis: The passage preserves an attributed claim that Paulus hurled the idol Apollo
+    from Mt. Gehenna into the Moselle, while explicitly noting that checked authorities
+    do not corroborate it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage is not a narrative source for the act itself; it is a scholarly
+    note that presents the claim as attributed and disputed by source silence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8815-8817
+  quote_or_summary: '"hurled the idol Apollo from Mt. Gehenna, near Treves, into the
+    Moselle"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8817-8821
+  quote_or_summary: The author says the cited Trithem passage only reports that Paulus
+    lived opposite Treves on Cevenna, named Mons Pauli after him, and that there is
+    no mention of Apollo or the hrewheel; other authorities are also silent.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The named persons, places, and attributed claim are explicit, but the potential
+    motif is weak because the passage stresses lack of corroboration. No comparison
+    claims are made beyond the local attributed report.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external authorities or unstated comparisons added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l8815-l8821
+  passage_sha256=6ace143062d8c778230a05579c39019905a372576c51b3cfd9809462ff4298c1
+

@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l15442-l15456
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: THE TALE OF THE SHIFTY LAD. 343 / THE TALE OF THE SHIFTY LAD. 345 / THE TALE
+    OF THE SHIFTY LAD. 347 / SGEULACHD A GHILLE CHARAICH. 349; lines 15442-15456
+  start: '15442'
+  end: '15456'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: At a bridge, the king's daughter is holding or lowering a napkin while
+    laughing with another. She hears a cry that the king's property is on fire, starts,
+    loses her hold, and the Shifty Lad falls, strikes his head on a stone, and dies.
+    The cry is only children's sport, and the king's daughter must return home as
+    a widow.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female figure is letting something over the little side wall of a bridge,
+    and the people involved are laughing to each other.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king's daughter hears a cry that something of the king's is going on fire.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After hearing the cry, the king's daughter starts and loses her hold of the
+    napkin.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Shifty Lad falls down, his head strikes a stone, and his brain comes out.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The cry is described as only the sport of children.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The king's daughter is obliged to go home a widow.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Shifty Lad
+  description: A named male figure who falls and suffers a fatal head injury after
+    the king's daughter loses her hold of the napkin.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the king's daughter
+  description: She hears the cry, starts, loses her hold of the napkin, and afterward
+    must go home a widow.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: children
+  description: The cry that causes the startle is described as the sport of children.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: falling victim
+  assigned_to:
+  - fig:1
+  basis: The Shifty Lad falls, strikes his head on a stone, and his brain comes out.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: one who loses hold
+  assigned_to:
+  - fig:2
+  basis: The king's daughter starts and loses her hold of the napkin after hearing
+    the cry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: widow
+  assigned_to:
+  - fig:2
+  basis: The passage says the king's daughter was obliged to go home a widow.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: source of playful false alarm
+  assigned_to:
+  - fig:3
+  basis: The cry is said to be only the sport of children.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: napkin
+  literal_form: napkin held by the king's daughter
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: bridge side wall
+  literal_form: little side wall of the bridge
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: reported fire
+  literal_form: a cry saying something of the king's is going on fire
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: stone
+  literal_form: stone struck by the Shifty Lad's head
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fatal fall after false alarm at the bridge
+  summary: At the side wall of a bridge, a cry about fire startles the king's daughter.
+    She loses her hold of the napkin, the Shifty Lad falls and is killed, and the
+    cry is revealed as children's sport. The king's daughter returns home a widow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: fatal false alarm
+  taxonomy_refs: []
+  basis: A cry that something is on fire startles the king's daughter, causing her
+    to lose her hold; the cry is later described as only children's sport.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The excerpt does not identify who uttered the cry directly beyond calling
+    it children's sport.
+- id: motif:2
+  label: death by accidental fall from a height
+  taxonomy_refs: []
+  basis: The king's daughter loses her hold of the napkin, and the Shifty Lad falls
+    down, strikes his head on a stone, and dies.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The excerpt begins mid-action, so the exact arrangement before the fall
+    is only partially visible.
+- id: motif:3
+  label: widowhood immediately after sudden death
+  taxonomy_refs: []
+  basis: After the Shifty Lad's fatal fall, the king's daughter is obliged to go home
+    a widow.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage states she is a widow but does not restate the marriage circumstances
+    within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15442-15444
+  quote_or_summary: '"as she let it over the little side (wall) of the bridge, and
+    they were laughing to each other."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 15446-15448
+  quote_or_summary: The king's daughter hears the cry, "The king's ... is going on
+    fire!"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt quoted with unclear/OCR-damaged
+    word omitted.
+- id: ev:3
+  type: quote
+  locator: lines 15448-15450
+  quote_or_summary: '"she started, and she lost her hold of the napkin"'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 15450-15452
+  quote_or_summary: '"the Shifty Lad fell down, and his head struck against a stone,
+    and the brain went out of him"'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: lines 15452-15454
+  quote_or_summary: '"there was in the cry but the sport of children"'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:6
+  type: quote
+  locator: lines 15454-15456
+  quote_or_summary: '"the king''s daughter was obliged to go home a widow."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the excerpt begins mid-action
+    and contains an unclear/OCR-damaged word in the reported cry. Motif labels are
+    descriptive and not matched to formal taxonomy except for the literal reported
+    fire symbol.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Comparison claims are omitted because the passage itself does not support a specific cross-text comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l15442-l15456
+  passage_sha256=e9dfb9b1f6ca0b543f712a2d021d3f0a9eb11365f710455eaf759c8f660c4621
+

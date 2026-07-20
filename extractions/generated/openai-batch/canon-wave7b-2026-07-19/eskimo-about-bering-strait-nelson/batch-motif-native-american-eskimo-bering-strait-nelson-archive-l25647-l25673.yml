@@ -1,0 +1,162 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l25647-l25673
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: CEREMONIAL    ARMLETS    AND    WRISTLETS / THE    ESKIMO    ABOUT    BERING    STRAIT
+    / BUREAU  OF  AMERICAN  ETHNOLOGY / EIGHTEENTH    ANNUAL   REPORT      PL.    CVI;
+    lines 25647-25673
+  start: '25647'
+  end: '25673'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Figure 2, plate cvi, from one of the Diomede islands, is a belt made from
+    the jaws of crabs, worn by women during certain festivals.
+  summary: The passage describes decorated clothing made from reindeer skin, deerskin,
+    wolverine fur, red worsted, and a drawstring waist band. It also identifies a
+    Diomede Islands belt made from crab jaws, worn by women during certain festivals.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A garment covering the upper thigh is described as made of tame reindeer skin
+    mottled white and brown.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The garment has ornamental strips and bands, including white deerskin, red
+    worsted bunches, and wolverine fur borders.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The garment has a waist band containing a drawstring for binding it around
+    the hips.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A belt from one of the Diomede islands is made from the jaws of crabs.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The crab-jaw belt is worn by women during certain festivals.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: women
+  description: Women are named as the wearers of the crab-jaw belt during certain
+    festivals.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: festival wearers
+  assigned_to:
+  - fig:1
+  basis: The passage states that the crab-jaw belt was worn by women during certain
+    festivals.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: decorated reindeer-skin garment
+  literal_form: Garment or trousers of tame reindeer skin, with white deerskin ornamental
+    bands, red worsted bunches, wolverine fur borders, and a drawstring waist band.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: crab-jaw festival belt
+  literal_form: Belt made from the jaws of crabs, from one of the Diomede islands.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: description of decorated leg garment
+  summary: The passage describes a reindeer-skin garment with ornamental bands, fur
+    borders, and a drawstring at the waist.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Diomede Islands crab-jaw belt used at festivals
+  summary: A belt made from crab jaws is identified as an item from one of the Diomede
+    islands and as worn by women during certain festivals.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: festival adornment made from animal parts
+  taxonomy_refs: []
+  basis: The passage identifies ceremonial or festival use of a belt made from crab
+    jaws and describes clothing decorated with animal-derived materials.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an ethnographic object description rather than a narrative
+    myth; no specific mythological episode or symbolic meaning is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25652-25661
+  quote_or_summary: The passage describes a garment of mottled tame reindeer skin
+    with ornamental strips and bands, including white deerskin, red worsted bunches,
+    and wolverine fur borders.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 25662-25664
+  quote_or_summary: "“About the waist is a band containing a drawstring for binding
+    the garment around the hips.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 25665-25667
+  quote_or_summary: "“Figure 2, plate cvi, from one of the Diomede islands, is a belt
+    made from the jaws of crabs, worn by women during certain festivals.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal artifact details are clear. Motif identification is limited because
+    the passage gives no narrative myth or stated symbolic explanation. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference is directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l25647-l25673
+  passage_sha256=dbeb4054caee211c461854bf4fb56afbe8c623a90b5e1ec872d9b11336ca4dff
+

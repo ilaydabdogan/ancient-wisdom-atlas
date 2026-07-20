@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l17468-l17475
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION CXIII / SECTION CXIV / SECTION CXV / SECTION CXVI; lines 17468-17475
+  start: '17468'
+  end: '17475'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The man that abstains from cruelty is regarded as always performing sacrifices.
+  summary: The passage praises abstention from cruelty, saying its merits and penances
+    are inexhaustible, that one who abstains is treated as always performing sacrifices,
+    and that such a person is the father and mother of all creatures.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Abstention from cruelty is described as possessing merit.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The penances of a man who abstains from cruelty are described as inexhaustible.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A man who abstains from cruelty is said to be regarded as always performing
+    sacrifices.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A man who abstains from cruelty is described as the father and mother of all
+    creatures.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The merits of abstention from cruelty are said to be too numerous to exhaust
+    even by speaking for a hundred years.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speech addresses someone as chief of Kuru's race.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: man that abstains from cruelty
+  description: A person repeatedly described in terms of abstention from cruelty and
+    the merits attached to it.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: chief of Kuru's race
+  description: The person addressed in the speech as chief of Kuru's race.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: abstainer from cruelty
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly speaks of the man who abstains from cruelty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: perpetual sacrificer
+  assigned_to:
+  - fig:1
+  basis: The man who abstains from cruelty is said to be regarded as always performing
+    sacrifices.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: father and mother of all creatures
+  assigned_to:
+  - fig:1
+  basis: The passage directly describes the man who abstains from cruelty in this
+    relational way.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: addressed chief of Kuru's race
+  assigned_to:
+  - fig:2
+  basis: The speech includes the address, O chief of Kuru's race.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sacrifice
+  literal_form: performing sacrifices
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: universal parenthood
+  literal_form: father and mother of all creatures
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Praise of abstention from cruelty
+  summary: The passage presents a didactic praise of abstention from cruelty, assigning
+    inexhaustible merit to it and describing the abstaining person as always sacrificing
+    and as father and mother of all creatures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Abstention from cruelty equated with perpetual sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage says the man who abstains from cruelty is regarded as always
+    performing sacrifices.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives an ethical equivalence in merit-language; it does not
+    narrate an actual ritual sacrifice.
+- id: motif:2
+  label: Non-cruel person as universal parent
+  taxonomy_refs: []
+  basis: The passage describes the man who abstains from cruelty as the father and
+    mother of all creatures.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an honorific relational description rather than a narrative episode.
+- id: motif:3
+  label: Inexhaustible merit of non-cruelty as ethical teaching
+  taxonomy_refs:
+  - wisdom
+  basis: The passage teaches that the merits of abstention from cruelty are inexhaustible
+    and too numerous to finish describing.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage is didactic rather
+    than a mythic narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17468-17470
+  quote_or_summary: The passage says merit attaches to abstention from cruelty and
+    that the penances of one who abstains are inexhaustible.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source text; brief summary.
+- id: ev:2
+  type: quote
+  locator: 17470-17471
+  quote_or_summary: The man that abstains from cruelty is regarded as always performing
+    sacrifices.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source text; brief quotation.
+- id: ev:3
+  type: quote
+  locator: 17471-17472
+  quote_or_summary: The man that abstains from cruelty is the father and mother of
+    all creatures.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source text; brief quotation.
+- id: ev:4
+  type: quote
+  locator: 17472-17475
+  quote_or_summary: the merits that attach to it are so many that they are incapable
+    of being exhausted even if one were to speak for a hundred years.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source text; brief quotation.
+- id: ev:5
+  type: quote
+  locator: '17472'
+  quote_or_summary: O chief of Kuru's race
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source text; brief quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward. Motif assignment is limited because
+    the passage is a short ethical teaching, not a narrative scene. No passage-supported
+    comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l17468-l17475
+  passage_sha256=1c1d83cb97a019d47d7b34dca1e892fbf433ec4c4d1b0b06c973b866050f152f
+

@@ -1,0 +1,451 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l101823-l101893
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 2. / KEITH S / ARANYAKA IV / ARANYAKA V; lines 101823-101893
+  start: '101823'
+  end: '101893'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a set of translation notes and ritual instructions. It describes
+    correspondences between chant or liturgical elements and parts of a bird or body,
+    compares those correspondences with Vedic altar traditions, notes a return to
+    a seat near the mārgālīya fire after worship of a citya altar, explains circumambulation
+    around an altar, and gives technical instructions for constructing a ritual swing
+    near the Hotr’s seat.
+  language: English with transliterated Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Six named movements in an Aitareya passage are said to correspond to the head,
+    right side, left side, tail, right armpit, and left armpit.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The Mahāvrata Sāman is described as having bird parts: head, right wing,
+    left wing, tail, and trunk.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the conception is borrowed from the Agnicayana altar
+    and adapted for the Mahāvrata by the Hotrs.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Vajasaneyi Samhita passage is described as mapping liturgical elements onto
+    body or bird parts, including head, eyes, wings, soul, name, limbs, body, and
+    tail.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A ritual actor returns to a seat near the mārgālīya fire after leaving it
+    to worship the citya altar.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note refers to eight altars and points readers to a plan of them.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The note explains parivrajya as circumambulation and proposes that the actor
+    goes round the altar from right to left.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: 'The swing is assigned dimensions and orientations: a yard east to west, a
+    cross breadth of a yard less a hand, plank points north, and fastening sticks
+    pointing east.'
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Posts are inserted north and south around the Hotr’s seat, and a cross-beam
+    is spread over them level with the worker’s face.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The swing planks are fastened with ropes; the right plank is on the south
+    and the left on the north, and the ropes are of dardha grass with three strands.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed ritual actor
+  description: The actor described as returning to the seat, worshipping the citya
+    altar, possibly circumambulating the altar, and constructing or arranging the
+    swing.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Hotr
+  description: The priest whose seat is used as the location around which the swing
+    posts are placed; the Hotrs are also named as adapting the Mahāvrata conception.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Adhvaryus
+  description: A priestly group associated in the note with the mystic doctrines of
+    the Agnicayana altar.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: worker
+  description: A worker whose face level is used to set the height of the cross-beam.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: altar worshipper
+  assigned_to:
+  - fig:1
+  basis: The actor leaves the seat to worship the citya altar and then comes back.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: circumambulator
+  assigned_to:
+  - fig:1
+  basis: The note explains the relevant action as going round the altar, probably
+    from right to left.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: swing arranger
+  assigned_to:
+  - fig:1
+  basis: The actor inserts posts, spreads the cross-beam, bores holes, and fastens
+    the planks by ropes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: Hotr priest
+  assigned_to:
+  - fig:2
+  basis: The passage names the Hotr’s seat and says the Mahāvrata is an adaptation
+    by the Hotrs.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: Adhvaryu priest group
+  assigned_to:
+  - fig:3
+  basis: The note links the Agnicayana altar with mystic doctrines of the Adhvaryus.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: measurement reference
+  assigned_to:
+  - fig:4
+  basis: The cross-beam is to be placed level with the worker’s face.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: body-bird liturgical mapping
+  literal_form: Chant or liturgical elements assigned to head, sides or wings, tail,
+    armpits, trunk, eyes, soul, name, limbs, and body.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fire
+  literal_form: mārgālīya fire near the seat to which the actor returns
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: citya altar
+  literal_form: altar worshipped by the ritual actor
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: eight altars
+  literal_form: a group of eight altars referenced in the note
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: circumambulation
+  literal_form: going round the altar, probably from right to left
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: ritual swing
+  literal_form: a swing made from planks, posts, a cross-beam, fastening sticks, and
+    ropes
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: grass rope
+  literal_form: three-stranded ropes of dardha grass used to fasten the swing planks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Liturgical elements mapped onto body and bird parts
+  summary: The passage explains several systems in which movements, Sāmans, or other
+    textual elements correspond to parts of a body or bird, including head, wings
+    or sides, tail, trunk, eyes, soul, name, and limbs.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Return from worship at the citya altar
+  summary: The ritual actor returns to a seat near the mārgālīya fire after leaving
+    it to worship the citya altar; the note also references eight altars.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Circumambulation around the altar
+  summary: The note identifies the action of parivrajya as circumambulation and explains
+    it as going around the altar, probably from right to left.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Construction of the swing near the Hotr’s seat
+  summary: The ritual actor sets up a swing by arranging posts, planks, a cross-beam,
+    holes, and ropes around the Hotr’s seat, using specified measurements and orientations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacrificial altar worship and ritual construction
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage concerns altar worship, the Agnicayana and Mahāvrata ritual settings,
+    priestly roles, circumambulation, and construction of a ritual swing near the
+    Hotr’s seat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is technical ritual commentary rather than a narrative myth.
+- id: motif:2
+  label: liturgical body-bird correspondence
+  taxonomy_refs: []
+  basis: Multiple liturgical systems are described as assigning chant, movement, or
+    textual elements to bodily or bird parts such as head, wings, tail, trunk, eyes,
+    soul, and limbs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly names this body-bird mapping; it
+    is therefore left without a taxonomy reference.
+- id: motif:3
+  label: circumambulation of a sacred altar
+  taxonomy_refs: []
+  basis: The note glosses parivrajya as circumambulation and describes movement around
+    the altar, probably from right to left.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The direction is explicitly uncertain in the note, and the passage is
+    elliptical.
+- id: motif:4
+  label: ritual swing assembly
+  taxonomy_refs: []
+  basis: The passage gives detailed ritual specifications for a swing’s dimensions,
+    orientation, posts, planks, cross-beam, and grass ropes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a ritual pattern, not a mythic narrative motif, and the symbolic
+    function is not explained in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Aitareya body-part correspondences and
+    Mahāvrata material with related Vedic ritual materials in the Satapatha, Sankhayana
+    Aranyaka, Tandya Brahmana, Latyayana Srauta Sutra, and Taittiriya Brahmana.
+  claim_level: same_function
+  target: Nearby Vedic ritual texts on parimad/parimiddah use and altar-part worship
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a scholarly note with OCR-corrupted Sanskrit terms;
+    the comparison is technical and liturgical.
+- id: claim:2
+  claim: The passage states that the Mahāvrata conception derives from the Agnicayana
+    altar and was adapted by the Hotrs, supporting a cautious intra-Vedic derivation
+    claim.
+  claim_level: historical_contact
+  target: Agnicayana altar ritual as source for Mahāvrata adaptation
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This reflects the note’s stated scholarly interpretation; the supplied
+    passage does not provide independent evidence beyond that statement.
+- id: claim:3
+  claim: The Vajasaneyi Samhita XII.4 is presented as a related instance of mapping
+    liturgical elements onto body or bird parts.
+  claim_level: same_motif
+  target: Vajasaneyi Samhita XII.4 body-part mapping of liturgical elements
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The shared pattern is formal and ritualized; the passage does not establish
+    a broader mythic narrative connection.
+- id: claim:4
+  claim: The note compares its explanation of altar circumambulation and swing construction
+    with details from Sankhayana Srauta Sutra.
+  claim_level: same_function
+  target: Sankhayana Srauta Sutra ritual directions for circumambulation and swing
+    construction
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports parallels in ritual procedure, but some details
+    are said to be elliptical or uncertain.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 101823-101833
+  quote_or_summary: 'The note says six Aitareya movements correspond to body parts
+    and compares them with Mahāvrata Sāman bird parts: head, right wing, left wing,
+    tail, and trunk; it also cites related Vedic ritual sources.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 101833-101842
+  quote_or_summary: The note says the conception is borrowed from the Agnicayana altar,
+    linked with Adhvaryu doctrines and adapted by the Hotrs; it also describes Vajasaneyi
+    Samhita XII.4 as mapping liturgical elements to head, eyes, wings, soul, name,
+    limbs, body, and tail.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 101843-101847
+  quote_or_summary: The actor comes back to the seat near the mārgālīya fire, which
+    he had left to worship the citya altar; the note refers to eight altars and a
+    plan of them.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 101852-101861
+  quote_or_summary: The note says parivrajya must refer to circumambulation and explains
+    the idea as going around the altar, probably from right to left, while noting
+    the sentence is elliptical.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 101866-101876
+  quote_or_summary: The translation gives dimensions and orientation for a swing,
+    then describes inserting posts north and south around the Hotr’s seat, spreading
+    a cross-beam level with the worker’s face, and boring holes in the swing planks.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 101876-101893
+  quote_or_summary: The swing planks are fastened above with ropes, with right on
+    the south and left on the north; the ropes are of dardha grass with three strands,
+    and a note compares the arrangement with Sankhayana Srauta Sutra details.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is technical ritual commentary with OCR-corrupted Sanskrit and
+    bibliographic notes. Literal ritual features are clear enough for draft extraction,
+    but human review is needed for Sanskrit terms, line mapping, and source identification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage and metadata were used. No external taxonomy IDs beyond the provided motif family and symbol lists were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l101823-l101893
+  passage_sha256=5e3c20cdfb7a02cbd59d41410c0bf00b52179a91e9a95f1e7ba7746dafb98a4f
+

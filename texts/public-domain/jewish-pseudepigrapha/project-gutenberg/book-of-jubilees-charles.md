@@ -21,7 +21,7 @@ provenance:
   publication_year: 1902
   publisher: Internet Archive
   source_url: https://archive.org/details/cu31924060029984
-  access_date: '2026-07-18'
+  access_date: '2026-07-19'
 rights:
   status: public_domain
   jurisdiction: US
@@ -65,138 +65,6 @@ figures:
 
 # The Book of Jubilees, or, The Little Genesis
 
-‘alsin a κῶν κῶς ἐὰν an pt wena ρος de Nai Aa δι
-
-
-Cornell University
-
-
-Library
-
-
-The original of this book is in
-the Cornell University Library.
-
-
-There are no known copyright restrictions in
-the United States on the use of the text.
-
-
-http ://Awww.archive.org/details/cu31924060029984
-
-
-3 1924 060 029 984
-
-
-THE BOOK OF JUBILEES
-
-
-OR
-
-
-THE LITTLE GENESIS
-
-
-OTHER WORKS BY THE SAME AUTHOR
-
-
-The Apocalypse of Baruch. Translated from the Syriac: Chapters I.-
-LXXVIL, from the Sixth Century MS. in the Ambrosian Library of
-Milan, and Chapters LXXVIII.-LXXXVII.—The Epistle of Baruch.
-—From a New and Critical Text based on Ten MSS. and published
-herewith. Edited, with Introduction, Notes, and Indices. 7s. 6d. net.
-
-
-The Assumption of Moses. Translated from the Latin Sixth Century
-MS., the unemended Text of which is published herewith, together
-with the Text in its restored and critically emended Form. Edited,
-with Introduction, Notes, and Indices. 7s. 6d.
-
-
-A Critical History of the Doctrine of a Future Life in Israel, in
-Judaism, and in Christianity ; or Hebrew, Jewish, and Christian
-Eschatology, from pre-Prophetic Times till the Close of the New
-Testament Canon. 165s.
-
-
-The Ascension of Isaiah. Translated from the Ethiopic Version, which,
-together with the New Greek Fragment, the Latin Versions, and the
-Latin Translation of the Slavonic, is here published in full, Edited
-with Introduction, Notes, and Indices. 7s. 6d. net.
-
-
-A. ἃ C. BLACK, SOHO SQUARE, LONDON.
-
-
-The Book of Enoch. Translated from Dillmann’s Ethiopic Text (emended
-and revised in accordance with hitherto uncollated Ethiopic MSS.
-and with the Gizeh and other Greek and Latin Fragments), with
-Introduction, Notes, and Indices. 8vo, 16s.
-
-
-The Ethiopic Version of the Hebrew Book of Jubilees. Edited from
-Four MSS. and critically revised, emended, and restored in accordance
-with the Hebrew, Syriac, Greek, and Latin Fragments of this Book.
-4to, 12s. 6d.
-
-
-The Book of the Secrets of Enoch. Translated from the Slavonic by
-W. R. Morritt, M.A., and edited, with Introduction, Notes, and
-Indices, by R. H. Cuarzes, M.A. 8vo, 7s. 6d.
-
-
-THE CLARENDON PRESS, OXFORD.
-
-
-THE
-
-
-BOOK OF JUBILEES
-
-
-OR
-
-
-THE LITTLE GENESIS
-
-
-TRANSLATED FROM
-
-
-THE EDITOR'S ETHIOPIC TEXT
-
-
-AND
-
-
-EDITED, WITH INTRODUCTION, NOTES, AND INDICES
-
-
-BY
-
-
-R. H. CHARLES, D.D.
-
-
-PROFESSOR OF BIBLICAL GREEK, TRINITY COLLEGE, DUBLIN
-
-
-LONDON
-ADAM AND CHARLES BLACK
-1902
-
-
-ΤΟ
-Che Weberend George Salmon, DD.
-
-
-D.C.L., LL.D., FBS,
-PROVOST OF TRINITY COLLEGE, DUBLIN
-
-
-WITH AN OLD PUPIL’S ADMIRATION AND GRATITUDE
-
-
 PREFACE
 
 
@@ -209,8 +77,7 @@ give a satisfactory interpretation of the text, though at the
 time I could not understand wherein my disability lay. A
 year or two later when making a special study of the
 Testaments of the XII. Patriarchs, I came to discover that
-the source of my failure lay in my acceptance of the tradi-
-tional view that Jubilees was written in the first century of
+the source of my failure lay in my acceptance of the traditional view that Jubilees was written in the first century of
 the Christian era. So long as I wrote from this standpoint,
 my notes became more and more a laboured apologetic for the
 composition of this work in the first century. The earliest
@@ -224,9 +91,6 @@ view that the main bulk of that work was written before
 
 and as emanating from the same school of thought.” This
 vil
-
-
-viii THE BOOK OF JUBILEES
 
 
 view was advocated in the following year by Bohn and by
@@ -300,8 +164,7 @@ The Versions of Jubilees—Greek, Ethiopic, Latin, Syriac
 Translations from the Greek (pp. xxx, xxxi)—§ 9. The
 Greek—a Translation from the Hebrew (pp. xxx-xxxiii)—
 810. Textual Affinities of the Text of the Book of Jubilees
-(pp. XXxiii-xxxix)—§ 11. Lacunae, Dittographies and Dis-
-locations in our Text (pp. xxxix-xlii)—§ 12. Poetical
+(pp. XXxiii-xxxix)—§ 11. Lacunae, Dittographies and Dislocations in our Text (pp. xxxix-xlii)—§ 12. Poetical
 Element in Jubilees (pp. xlii-xliii)—§ 13. Jubilees from
 one author but based on earlier books and traditions
 (pp. xliv-xlvii)—§14. Jubilees—a Product of the midrashic
@@ -314,8 +177,7 @@ and Demonology of Jubilees (pp. Ivi-lviii)—§ 17. The
 Date of Jubilees (pp. lviii-lxvi)—§ 18. The Jubilees and
 Years used by our author (pp. lxvii-lxviii)—§ 19. Value of
 Jubilees in determining the Dates of the various Sections
-of the Ethiopic Enoch and the Book of Noah (pp. Ixviii-
-lxxii)—§ 20. The relation of Jubilees to the Testaments
+of the Ethiopic Enoch and the Book of Noah (pp. Ixviiilxxii)—§ 20. The relation of Jubilees to the Testaments
 of the XII. Patriarchs (p. lxxii)—§ 21. The author—a
 Pharisee who recognised the Maccabean Pontificate and
 
@@ -325,13 +187,8 @@ xi
 xii
 
 
-THE BOOK OF JUBILEES
-
-
 was probably a priest (p. Ixxiii)—$ 22. Jubilees in Jewish,
-Samaritan and Christian non-canonical literature (pp. lxxiii-
-lxxxiii)—§ 23. Influence of Jubilees on the New Testa-
-ment (pp. Ixxxiii-lxxxvi)—§ 24. Views of the author on
+Samaritan and Christian non-canonical literature (pp. lxxiiilxxxiii)—§ 23. Influence of Jubilees on the New Testament (pp. Ixxxiii-lxxxvi)—§ 24. Views of the author on
 the Messiah, the Messianic Kingdom, the Priesthood of
 Melchizedek, the Law, Circumcision and the Sabbath, the
 Future Life, the Jewish Calendar (pp. lxxxvii-lxxxix).
@@ -355,39 +212,29 @@ INTRODUCTION
 
 
 THE Book of Jubilees was written in Hebrew by a Pharisee
-between the year of the accession of Hyrcanus to the high-
-priesthood in 135 and his breach with the Pharisees some
+between the year of the accession of Hyrcanus to the highpriesthood in 135 and his breach with the Pharisees some
 years before his death in 105 B.c. It is the most advanced
 pre-Christian representative of the midrashic tendency, which
 had already been at work in the Old Testament Chronicles,
 As the Chronicler had rewritten the history of Israel and
-Judah from the basis of the Priests’ Code, so our author re-
-edited from the Pharisaic standpoint of his time the history
+Judah from the basis of the Priests’ Code, so our author reedited from the Pharisaic standpoint of his time the history
 of events from the creation to the publication, or, according
 to the author’s view, the republication, of the law on Sinai.
 In the course of re-editing he incorporated a large body of
 traditional lore, which the midrashic process had put at his
 disposal, and also not a few fresh legal enactments, that the
-exigencies of the past had called forth. His work con-
-stitutes an enlarged Targum on Genesis and Exodus, in
+exigencies of the past had called forth. His work constitutes an enlarged Targum on Genesis and Exodus, in
 which difficulties in the biblical narrative are solved, gaps
 supplied, dogmatically offensive elements removed, and the
 genuine spirit of later Judaism infused into the primitive
 history of the world. His object was to defend Judaism
 against the attacks of the hellenistic spirit that had been
-in the ascendant one generation earlier and was still power-
-
-
-ful, and to prove that the law was of everlasting validity.
+in the ascendant one generation earlier and was still powerful, and to prove that the law was of everlasting validity.
 ΧΙ]
 
 
-xiv THE BOOK OF JUBILEES
-
-
 From our author’s contentions and his embittered attacks
-on the paganisers and apostates, we may infer that Hellen-
-ism had urged that the levitical ordinances of the law were
+on the paganisers and apostates, we may infer that Hellenism had urged that the levitical ordinances of the law were
 only of transitory significance, that they had not been
 observed by the founders of the nation, and that the
 time had now come for them to be swept away, and for
@@ -398,13 +245,11 @@ as such that he assailed them, but on the ground of their
 falsehood. The law, he teaches, is of everlasting validity.
 Though revealed in time it was superior to time. Before
 it had been made known in sundry portions to the fathers
-it had been kept in heaven by the angels, and to its observ-
-ance henceforward there was no limit in time or in
+it had been kept in heaven by the angels, and to its observance henceforward there was no limit in time or in
 eternity.
 
 Writing in the palmiest days of the Maccabean dominion,
-he looked for the immediate advent of the Messianic king-
-dom. This kingdom was to be ruled over by a Messiah
+he looked for the immediate advent of the Messianic kingdom. This kingdom was to be ruled over by a Messiah
 sprung, not from Levi—that is, from the Maccabean family,
 as some of his contemporaries expected—but from Judah.
 This kingdom would be gradually realised on earth, and
@@ -473,9 +318,6 @@ angels for Moses’ body, adds that these matters were said to be
 described in a book which gave a more detailed account of the
 
 
-xvi THE BOOK OF JUBILEES
-
-
 known in Greek, not only as ἡ λεπτὴ Γένεσις but also ἡ
 Μικρογένεσις, points quite clearly to an authoritative
 Hebrew title, ΜΟῚ ΓΝ, which was variously rendered
@@ -538,8 +380,7 @@ Syncellus i. 5 and repeated from him in Cedrenus i. 7:
 ἀποκαλύψει. From the words φασί τινες and λεγομένῃ we
 conclude that this title had some currency in Syncellus’
 time. It was undoubtedly a very appropriate designation,
-since our author makes Moses the recipient of all the dis-
-closures in his work (see the Greek scholion in my note on
+since our author makes Moses the recipient of all the disclosures in his work (see the Greek scholion in my note on
 ii. 1). Cedrenus 1, 16 speaks of Jubilees as ἡ λεπτὴ
 Μωσέως Γένεσις. The Apocalypse of Moses mentioned in
 Syncellus i. 48, from which he says Gal. vi. 15 (οὔτε
@@ -552,8 +393,7 @@ This was an older title than the preceding. Thus it is
 found in the Catena of Nicephorus i. 175, where the
 words ἡ διαθήκη precede a quotation from Jubilees x. 21
 (see note in loc.). Here ἡ διαθήκη, as Ronsch (p. 275) has
-rightly argued, stands for ἡ διαθήκη τοῦ Maicéws. It is im-
-possible to determine whether the Testament of Moses which
+rightly argued, stands for ἡ διαθήκη τοῦ Maicéws. It is impossible to determine whether the Testament of Moses which
 is here to be identified with Jubilees has anything to do with
 the διαθήκη Μωύσέως mentioned in four catalogues of the
 canonical and uncanonical writings. Ronsch (pp. 480-481)
@@ -565,9 +405,6 @@ Latin MS which was edited by Ceriani; that the Testament
 
 of Moses and the Assumption are enumerated together and
 ὃ
-
-
-xviii THE BOOK OF JUBILEES
 
 
 in this order in the Catalogues of Nicephorus, the Ps.
@@ -583,18 +420,15 @@ a Testament of Moses which was an expansion of Jubilees
 ii-iii. To such a work—one-fourth the size of Genesis—
 the quotation given in my note on ii. 1 may possibly point,
 and probably the statement made by Severus of Antioch (see
-footnote on p. xv), and the quotation from a Catena on the Pen-
-tateuch in Fabricius ii. 121-122: Est quidem in apocrypho
+footnote on p. xv), and the quotation from a Catena on the Pentateuch in Fabricius ii. 121-122: Est quidem in apocrypho
 mysticoque codice legere, ubi de creatis rebus subtilius agitur,
 nubem lucidam, quo tempore mortuus est Moses, locum
 sepulchri complexam oculos circumstantium perstrinxisse ita,
 ut nullus neque morientem legislatorem neque locum videre
-potuerit, ubi cadaver conderetur. Here we have a combina-
-tion of the Testament of Moses and the Assumption of
+potuerit, ubi cadaver conderetur. Here we have a combination of the Testament of Moses and the Assumption of
 Moses (see my Assumption of Moses, pp. xlv. sqq.).
 
-3. The Book of Adam’s Daughters—This book is identi-
-fied with Jubilees in the Decree of Gelasius (see p. xviii) :
+3. The Book of Adam’s Daughters—This book is identified with Jubilees in the Decree of Gelasius (see p. xviii) :
 Liber de filiabus Adae, hoc est Leptogenesis, Apocryphus.
 The designation is far from inappropriate for our book, as
 it aims at giving the names of the wives of all the patriarchs
@@ -624,8 +458,7 @@ three times, so far as I am aware, in Syncellus i. 7, and always
 as ὁ λεγόμενος Bios ᾿Αδάμ. According to Syncellus this life
 of Adam recounted the number of days it took Adam to
 number the various creatures, the making of Eve, the
-entrance of Adam into Paradise, and the subsequent admis-
-sion of Eve, ete. (i. 7-9): κεῖται γοῦν ἐν τῷ λεγομένῳ Bio
+entrance of Adam into Paradise, and the subsequent admission of Eve, ete. (i. 7-9): κεῖται γοῦν ἐν τῷ λεγομένῳ Bio
 ᾿Αδὰμ ὁ τῶν ἡμερῶν ἀριθμὸς τῆς τε ὀνομασίας τῶν θηρίων
 καὶ τῆς πλάσεως τῆς γυναικὸς καὶ τῆς εἰσόδου αὐτοῦ ᾿Αδὰμ ἐν
 τῷ παραδείσῳ" καὶ τῆς περὶ τοῦ ξύλου τῆς βρώσεως ἐντολῆς
@@ -646,9 +479,6 @@ are fuller than in Jubilees, the former would be an enlarged
 edition of a portion of the latter. Both may have been
 before Syncellus. From the Life of Adam—the fuller
 account—he quotes on pp. 7-9, and continues his narrative on
-
-
-XX THE BOOK OF JUBILEES
 
 
 pp. 13-15 from Jubilees. Rénsch quotes in support of this
@@ -740,9 +570,6 @@ The above translation agrees for the most part with the
 text which I published subsequently. It is, however,
 
 
-xxii THE BOOK OF JUBILEES
-
-
 untrustworthy in some passages, and is now superseded by
 the very much improved edition of it which appears in the
 present volume.
@@ -765,8 +592,7 @@ Quarterly.
 § 6. CriticaL INQUIRIES
 
 
-Fasricius, J. A., Codex Pseudepigraphus Veteris Testa-
-menti, 1713, i. 849-864. Fabricius here collects under
+Fasricius, J. A., Codex Pseudepigraphus Veteris Testamenti, 1713, i. 849-864. Fabricius here collects under
 the head of Parva Genesis, passages in Jerome and Greek
 writers which are expressly assigned to our book. At the
 close of this collection he adds: “Non dubito tum apud
@@ -819,8 +645,7 @@ the Jewish calendar was not definitely fixed.
 
 Breer, Das Buch der Jubilien und sein Verhdliniss zu den
 Midraschim, Leipzig, 1856; Noch ein Wort iiber das Buch
-der Jubiliien, 1857. The former work is the ablest con-
-tribution from the Jewish side that has yet been made
+der Jubiliien, 1857. The former work is the ablest contribution from the Jewish side that has yet been made
 towards the interpretation of Jubilees. On pp. 25-39 he
 deals with the points of similarity existing between Jubilees
 and Jewish tradition, and on pp. 39-56 the points of
@@ -842,14 +667,12 @@ exegesis of Jubilees.
 
 FRANKEL, Monatsschrift fiir Glesch. und Wissensch. des
 Judenthums, 1856, pp. 311-316, 380-400. Frankel sought
-to prove that Jubilees was of Egyptian origin and repre-
-sentative of the cult at the Onias Temple at Leontopolis. To
+to prove that Jubilees was of Egyptian origin and representative of the cult at the Onias Temple at Leontopolis. To
 this view of Frankel, Beer rejoined in the treatise cited above
 under his name: Noch ein Wort tiber das Buch der Jubilden.
 
 Krtcer, “Die Chronologie im Buche d. Jubilien”
-(ZDMG, 1858, xii. 279-299. Kriiger ascribes the com-
-position of Jubilees to the year 320 B.c., but such a view
+(ZDMG, 1858, xii. 279-299. Kriiger ascribes the composition of Jubilees to the year 320 B.c., but such a view
 has rightly failed to obtain a single suffrage.
 
 LancEn, Das Judenthum in Paldstina, 1866, pp. 84-102.
@@ -887,7 +710,6 @@ Alterthumskunde, 1887.
 
 “Le Livre des Jubilés, Philon et le Midrasch
 Tadsché” (Revue des Etudes jwives, 1890, xxi. 80-97 ; 1891,
-xxii, 1-25,
 
 Sack, Dre altjiidische Religion, 1889, pp. 350-368.
 
@@ -895,8 +717,7 @@ Bacon, “Calendar of Enoch and Jubilees” (Hebraica,
 1891-1892, viii. 79-88; 124-131).
 
 Deane, Pseudepigrapha, 1891, pp. 193-236. We have
-here an excellent account of the book from the older stand-
-point.
+here an excellent account of the book from the older standpoint.
 
 THomson, Books which influenced our Lord and His
 Apostles, 1891, pp. 297-320, 433-439.
@@ -926,9 +747,6 @@ can establish that it was the work of a Jewish Christian,
 written (about 58-60 4.0.) with a polemic purpose against
 
 
-xxvi THE BOOK OF JUBILEES
-
-
 the teaching of St. Paul—especially against his doctrine of
 the abrogation of the law. This work exhibits much
 learning both in the field of Judaism and Christianity.
@@ -950,8 +768,7 @@ composition to 150 B.c. or thereabouts.
 Litrmann, Kautzsch’s Apokryphen und Pseudepigraphen
 des Alten Testaments, 1900, ii. 31-38. We have here as
 good an introduction to our author as was possible from
-the stage of criticism at the time, and one that is meritori-
-ous alike for its learning and judgment. In 1899 Littmann
+the stage of criticism at the time, and one that is meritorious alike for its learning and judgment. In 1899 Littmann
 reviewed Singer’s book (see above) in the ZDMG, pp.
 368 sqq.
 
@@ -1013,9 +830,6 @@ I can discover only one instance of this nature in xv. 15
 (see my Text, pp. xii. sqq.).
 
 
-xxviii THE BOOK OF JUBILEES
-
-
 For instances of corruption native to this version, see
 notes on ii. 2, 7, 21, vi. 21, vii. 22, x. 6, 21, xvi. 18,
 xxiv. 20, 29, xxxi. 2, xxxix. 4, xli 15, xlv. 4, xlviii. 6.
@@ -1027,9 +841,9 @@ in his Monumenta sacra et profana, 1861, tom. i. fase. 1, 15-
 20°-31%; xvi, 5-xvii. 67; xviii, 10°-xix. 25; xx. 5°-xxi.
 105, xxii, 2-19°; xxiii, 8°-23°; xxiv. 13-xxv. 1°; xxvi.
 85.988. xxvii, 11.245; xxviii, 16°-27%; xxix. 8-xxxi
-1". χχχί. 9°-18, 290-92; xxxii. 1-3", 18>-xxxiii, 9%, 18°-
+1". χχχί. 9°-18, 290-92; xxxii. 1-3", 18)-xxxiii, 9%, 18°-
 xxxiv. 5°; xxxv. 3°12?; xxxvi 20?-xxxvii. 5°; xxxviil.
-10.165. xxxix. 9-xl 8"; xli 6-18; xlii 2>-14°; xlv.
+10.165. xxxix. 9-xl 8"; xli 6-18; xlii 2)-14°; xlv.
 8-xlvi. 1, 12-xlviii 5; xlix. 7°-22. This version was
 next edited by Roénsch in 1874, Das Buch der Jubilien . .
 unter Beifiigung des revidirten Textes der . . . lateinischen
@@ -1083,17 +897,13 @@ corruptions or omissions in the Ethiopic version: cf. xvi. 16,
 xix. 5, 10, 11, xx. 6, 10, xxi 3, xxii. 3, ete. (see my
 Text, p. Xvi).
 
-4. The Syriac Version.—The evidence as to the exist-
-ence of a Syriac is not conclusive. It is based on the fact
+4. The Syriac Version.—The evidence as to the existence of a Syriac is not conclusive. It is based on the fact
 that a British Museum MS (Add. 12,154, fol. 180) contains
 a Syriac fragment entitled, “Names of the Wives of the
 Patriarchs according to the Hebrew Book called Jubilees.”
 It was first published by Ceriani in his Monwmenta Sacra,
 1861, tom. ii. fasc. 1. 9-10, and reprinted by me as
 Appendix III. to my Text of Jubilees (p. 183).
-
-
-XXX THE BOOK OF JUBILEES
 
 
 § 8. Tue Eruiopic and LaTIN VERSIONS—TRANSLATIONS
@@ -1116,8 +926,7 @@ rendered by the demonstrative 11. 2, iii, 25, xxiv. 19,
 in Greek and not in Hebrew: viii. 5, x. 18, ete.
 
 It is no less obvious that the Latin is also a translation
-from the Greek. Thus in xxxix. 12, timoris = δειλίας, a cor-
-ruption of δουλείας ; in xxxviii. 13, honorem = τιμήν, which
+from the Greek. Thus in xxxix. 12, timoris = δειλίας, a corruption of δουλείας ; in xxxviii. 13, honorem = τιμήν, which
 should have been rendered by tributum (so Eth.); in xxxii.
 26, celavit = ἔκρυψε, corrupt for ἔγραψε (so Eth.). Again, in
 xxx1. 30, orasti orationem is a mistranslation of ηὔξω
@@ -1125,12 +934,10 @@ xxx1. 30, orasti orationem is a mistranslation of ηὔξω
 = ὑπὸ τῆς βαλάνου, which here=sub quercu. The Greek
 article is often rendered by the Latin demonstrative as in
 the Ethiopic version: hujus Abrahae, xxix. 16; huic Jacob
-. . . huic Istrael, xxxi. 15. Greek constructions are re-
-produced: memor fuit sermones, xvii. 3 = ἐμνήσθη τοὺς
+. . . huic Istrael, xxxi. 15. Greek constructions are reproduced: memor fuit sermones, xvii. 3 = ἐμνήσθη τοὺς
 λόγους : consummavit loquens, xv. 22 = συνετέλεσε λαλῶν:
 in omnibus quibus (for quae) dedisti, xxii. 8 = ἐν πᾶσιν ols
-ἔδωκας. We should observe also the extraordinary mis-
-translation of μήποτε = (ne forte) by ne quando in xlii, 11.
+ἔδωκας. We should observe also the extraordinary mistranslation of μήποτε = (ne forte) by ne quando in xlii, 11.
 (See Ronsch, pp. 439 sqq.)
 
 
@@ -1157,11 +964,10 @@ But since in all these cases the Ethiopic transliterations
 end in -m and not in -2, it is not improbable that this
 Aramaising in the Latin version is due to the translator,
 who, as Roénsch has concluded on other grounds, was a
-Palestinian Jew. Moreover, it is most dangerous to con-
-clude from Aramaic proper names to an Aramaic original ;
+Palestinian Jew. Moreover, it is most dangerous to conclude from Aramaic proper names to an Aramaic original ;
 for Aramaic forms occur not infrequently in the Greek
 versions of the Old Testament. Thus this very word Cettim
-(o°n>) appears as Χεττάν in Symmachus (Gen. x. 4), Χεττείν
+(o°n)) appears as Χεττάν in Symmachus (Gen. x. 4), Χεττείν
 in the LXX (B) and Lucian of Judg. i. 26, Χεττιείν in the
 LXX (B) of 1 Kings x. 33. As regards Adurin (which in
 the Eth. version = ’Adiiram), we should observe that this word
@@ -1170,8 +976,7 @@ Iud. 9. Thus we may here again conclude to an original
 Hebrew form. It is noteworthy also that whereas in
 xxxviii. 3 of the Latin we have Adoram, in the Ethiopic we
 have ’Adéran. Another Aramaic form is Mastéma (xa winn
-[Μαστιφάμ in Syncellus, Μαστιφάτ in Cedrenus, and Mas-
-tima in the Latin version, xvill. 12, xlviii. 2], from the hiphel
+[Μαστιφάμ in Syncellus, Μαστιφάτ in Cedrenus, and Mastima in the Latin version, xvill. 12, xlviii. 2], from the hiphel
 participle, no»). But the presence of such a proper name
 in a Semitic document is inconclusive as we have shown
 above. Cf. Littmann, in Kautzsch’s Apok. τι. Pseud. 11. 34.
@@ -1197,14 +1002,12 @@ As regards the sections of Enoch which were written before
 the revival of the national spirit under the Maccabees other
 grounds must decide.
 
-3. The text must be retranslated into Hebrew in order to ex-
-plain unintelligible expressions and restore the true text—Thus
+3. The text must be retranslated into Hebrew in order to explain unintelligible expressions and restore the true text—Thus
 in xliii, 11 1aéléja = ἐν ἐμοί, which is a mistranslation of
 ‘2. 12 in this context = δέομαι, “ pray,” as in Gen. xliv. 18,
 which our text reproduces almost word for word. In xvi. 31
 lebba dabart (Lat. Vers. corde palmarum) = ἼΘΙ 25, where
-Ὁ is corrupt for yb. ‘In xlvii. 9 the text =domum Fara-
-onis, but the context demands filiam Faraonis. Hence the
+Ὁ is corrupt for yb. ‘In xlvii. 9 the text =domum Faraonis, but the context demands filiam Faraonis. Hence the
 
 
 a a “
@@ -1266,20 +1069,11 @@ xxvi. 34 of our text is equated with Gen. xxvii. 40, the needful
 information is given in the notes on xxvi. 34. On the other
 
 
-hand, where the notes do not supply such details the read-
-6
-
-
-xxxiv THE BOOK OF JUBILEES
-
-
-ing given by our text and its supporters and the opposing
+hand, where the notes do not supply such details the reading given by our text and its supporters and the opposing
 text and its authorities are supplied in brackets. Thus we
 are to interpret the statement “xli. 14 (‘his shepherd ’)—
-Gen. xxviii. 40 (‘his friend’),” which occurs under the sub-
-heading ii. (7), “It agrees with the LXX and Vulg. against
-the Mass., Sam., and Syr.”’ as meaning that our text, sup-
-ported by the LXX and Vulg. of Gen. xxviii. 40, reads
+Gen. xxviii. 40 (‘his friend’),” which occurs under the subheading ii. (7), “It agrees with the LXX and Vulg. against
+the Mass., Sam., and Syr.”’ as meaning that our text, supported by the LXX and Vulg. of Gen. xxviii. 40, reads
 “his shepherd,” whereas the Mass., Sam., and Syr. read “ his
 friend.” For fuller information the reader can refer to my
 Ethiopic Text.
@@ -1431,8 +1225,7 @@ Mass., Sam., Vulg. in xviii. 15—Gen. xxii. 17.
 
 It agrees with the Sam. Vers., Syr., Vulg. (and possibly
 Sam.) against Mass. and LXX in xviii. 13 (“hath seen” or
-“seeth ”)—Gen. xxii. 14 (Mass. “ will be seen” or “ pro-
-vided”) (LXX ὠφθη).
+“seeth ”)—Gen. xxii. 14 (Mass. “ will be seen” or “ provided”) (LXX ὠφθη).
 
 (ζῶ Its agreement with the LXX and Syr. and with these
 + others :
@@ -1549,9 +1342,6 @@ the Council of Laodicea, Jerome, etc. (see Ryle, Canon of
 the Old Testament, 1892, p. 221). On the other hand, it is
 
 
-xl THE BOOK OF JUBILEES
-
-
 not improbable that the disputed clause belongs to the
 original text: for its omission by the Midrash Tadshe is
 far from conclusive. We have already seen in the notes
@@ -1565,16 +1355,13 @@ in Talmudic writings (Taanith 8a; Shem. rabba 41, etc.)
 and later Jewish scholars, such as Isaac Abarbanel, was
 twenty-four (see Strack, Herzog’s Real - Encyo. vii.
 434-436). Moreover, a passage in Isidore of Seville, which
-is clearly based on Jub. ii, supports the evidence of Epi-
-phanius and Syncellus. It runs: Et xxii generationes sunt
-ab Adam usque ad Jacob,. . . et xxii libri Veteris Testa-
-menti usque ad Hester et xxii literarum sunt elementa (see
+is clearly based on Jub. ii, supports the evidence of Epiphanius and Syncellus. It runs: Et xxii generationes sunt
+ab Adam usque ad Jacob,. . . et xxii libri Veteris Testamenti usque ad Hester et xxii literarum sunt elementa (see
 p. xxxi for the rest of the quotation). Accordingly, since the
 negative evidence of the Midrash is thus largely discounted
 and since on the other hand we have the positive evidence
 of Epiphanius, Isidore, and Syncellus, and artificial analogies
-of this nature are characteristic of our author, I am in-
-clined to accept the clause as original.’
+of this nature are characteristic of our author, I am inclined to accept the clause as original.’
 
 1 Since writing the above I have come across the following excerpt
 from the Greek version of Jubilees in Lambros’ Catalogue of the
@@ -1631,9 +1418,6 @@ of the same version for excising the dittography in xxiii.
 11. Other duplicate renderings, which have found their
 way into the Ethiopic version, our text exhibits in xx. 3,
 xxi. 10, 13, xxiv. 3. Possibly in xxxii. 21 “read and
-
-
-xlii THE BOOK OF JUBILEES
 
 
 read,” which I have emended with the Latin legit et
@@ -1714,9 +1498,6 @@ originally written in verse; also vi. 10°-12; xxvii.
 23-24; xxxii. 18-19, and many passages elsewhere.
 
 
-xliv THE BOOK OF JUBILEES
-
-
 § 13. JUBILEES FROM ONE AUTHOR, BUT BASED ON
 EARLIER Books AND TRADITIONS
 
@@ -1732,15 +1513,13 @@ But our present chief interest is the relation of our
 author to non-canonical Jewish literature. Thus he borrows
 vi. 20-39, x. 1-15 from the Book of Noah. Of this book
 happily the greater part of x. 1-2, 9-14 is still preserved
-in the Hebrew Book of Noah (see Jellinek’s Bet ha-Mid-
-rasch, 111. 155, and my Text of Jubilees, p. 179). Our
+in the Hebrew Book of Noah (see Jellinek’s Bet ha-Midrasch, 111. 155, and my Text of Jubilees, p. 179). Our
 author had before him also the greater part of the Book of
 Enoch vi.-xvi., xxiii.-xxxvi., lxxii.-xe.
 
 Besides these he also made use of current traditions and
 legends, which were already reduced to writing, and have
-come down to us in Hebrew and Greek in other inde-
-pendent works. Thus the war of Jacob and his sons
+come down to us in Hebrew and Greek in other independent works. Thus the war of Jacob and his sons
 against the Amorite kings, xxxiv. 1-9, is found in the
 Test. Judah 3-7, a contemporary work, in the Midrash
 Wajjissau, which contains if not the original legend,
@@ -1749,10 +1528,8 @@ of Jashar—a late work. Again, our author drew on
 existing writings for his description of the fratricidal war
 between Jacob and Esau in xxxvii.-xxxviii. Here the only
 contemporary authority that still exists for our text is
-Test. Jud. 9. But with a few reservations the same state-
-ment may be made of the Hebrew document preserved in
-the Jalkut Shimeoni i. 132 and the Chronicles of Jerah-
-meel (see my notes on pp. 214-215),
+Test. Jud. 9. But with a few reservations the same statement may be made of the Hebrew document preserved in
+the Jalkut Shimeoni i. 132 and the Chronicles of Jerahmeel (see my notes on pp. 214-215),
 
 
 INTRODUCTION xlv
@@ -1775,11 +1552,9 @@ Test. Sim. 8, Benj. 12 [Arm. Vers.]). Also the insertion of
 Kainaém in vii. 1 is supported by the LXX of Gen.
 xi. 13.
 
-Other legendary matter in Jubilees, for which con-
-temporary or earlier documents are, as a rule, not at hand,
+Other legendary matter in Jubilees, for which contemporary or earlier documents are, as a rule, not at hand,
 though most probably belonging to ancient tradition,
-furnishes us with a large number of proper names—par-
-ticularly the names of women—’Awan, wife of Cain (iv. 9),
+furnishes us with a large number of proper names—particularly the names of women—’Awan, wife of Cain (iv. 9),
 *Aztira, wife of Seth (iv. 11), Mialéléth, the wife of Kenan
 (iv. 14), and the wives of the various patriarchs down to
 Terah (see iv. 15, 16, 20, 27, 28, 33; vii. 14, 15, 16;
@@ -1797,17 +1572,13 @@ on for the fathers of the wives mentioned above (iv. 27, 28,
 Enoch vii. 2 as ᾿Ελιούδ.
 
 
-xlvi THE BOOK OF JUBILEES
-
-
 cities built by Noah’s sons (vii. 14, 15, 16), the various
 mountains, islands, towns, rivers, and seas mentioned in
 viii. 12-ix. 13 (most of which can, however, be identified
 with actual places), ’Eymén ( = Heroonpolis, xlvi. 6).
 
 Other legendary matter was in many instances (see notes
-in loc.), and possibly in all, the source of the following state-
-ments and incidents: the period of five days spent by Adam
+in loc.), and possibly in all, the source of the following statements and incidents: the period of five days spent by Adam
 in naming the creatures (iii. 1-3), the common language of
 all animals before the Fall (iii. 28), the number of Adam’s
 sons, 2.6. twelve (iv. 10), his burial—the first that was
@@ -1853,8 +1624,7 @@ REPRESENTED BY ITS AUTHOR AS AN ESOTERIC TRADI-
 TION
 
 
-Our book represents an extreme product of the mid-
-rashic process which is apparent on most pages of
+Our book represents an extreme product of the midrashic process which is apparent on most pages of
 the Old Testament Chronicler. (a) The Chronicler, as we
 know, to a certain extent rewrote with an object the earlier
 history of Israel and the history of Judah already recounted
@@ -1863,8 +1633,7 @@ nation is so recast as to make it a history of the church,
 the temple and its cultus, and to represent David and his
 pious successors as observing all the prescripts of the law
 according to the Priests’ Code. (6) In the course of this
-process facts that will not square with the writer’s pre-
-suppositions are omitted or transformed in character. This
+process facts that will not square with the writer’s presuppositions are omitted or transformed in character. This
 applies particularly to breaches of the Priests’ Code; also
 to statements such as that in 2 Sam. xxiv. 1, which
 ascribes David’s temptation to Yahweh. This temptation
@@ -1889,9 +1658,7 @@ xl viii THE BOOK OF JUBILEES
 show that the law had been rigorously observed, even by
 the patriarchs.
 
-(b) Like the Chronicler our author found many state-
-ments in Genesis that did not square with his presupposi-
-tions, and accordingly we find that in many instances he
+(b) Like the Chronicler our author found many statements in Genesis that did not square with his presuppositions, and accordingly we find that in many instances he
 alters the text before him,’ and in others he simply omits.
 Thus he omits? the sending out of the raven (Gen. viii. 7)
 possibly on the ground of its being an unclean bird (Lev.
@@ -1920,8 +1687,7 @@ But as regards Gen. xlix. the case is different. It is
 
 1 See pp. xlix, liv.
 
-2 The narrative about Melchizedek is lost in the course of trans-
-mission, but was not omitted by our author (see xiii. 25 note). Nor
+2 The narrative about Melchizedek is lost in the course of transmission, but was not omitted by our author (see xiii. 25 note). Nor
 yet was the reference to fasting on the Day of Atonement (see xxxiv. 18
 note).
 
@@ -1930,12 +1696,10 @@ INTRODUCTION xlix
 
 
 purposely suppressed because of its severity on Levi and
-its giving the pre-eminence to Judah. Our author through-
-out reverses this relation, and everywhere sets Levi before
+its giving the pre-eminence to Judah. Our author throughout reverses this relation, and everywhere sets Levi before
 Judah.
 
-Again, like the Chronicler he takes offence at the fre-
-quent mention of men being tempted or slain by God in
+Again, like the Chronicler he takes offence at the frequent mention of men being tempted or slain by God in
 Genesis and Exodus, and after the example of the Chronicler
 he represents the temptation of Abraham to offer Isaac
 (Gen. xxii.) as due to Mastéma (Jub. xvii. 16), the attempt
@@ -1945,11 +1709,8 @@ agent ; likewise the hardening of the hearts of the Egyptians
 (xlix. 2—Exod. xii. 29), he ascribes to the activities of
 Mastéma and his angels.
 
-Again, just as we must not suppose that the peculiar im-
-press which the Chronicler gave to his historical materials
-was the result of his individual activity but rather the out-
-come of a process, which in the course of successive genera-
-tions had in many respects been transforming history into
+Again, just as we must not suppose that the peculiar impress which the Chronicler gave to his historical materials
+was the result of his individual activity but rather the outcome of a process, which in the course of successive generations had in many respects been transforming history into
 legend, so we must be careful to recognise in our author’s
 book only a more advanced stage of the process above
 referred to. Possibly this process would not, in the natural
@@ -1968,9 +1729,6 @@ course of tradition, were likewise copies of divine originals
 
 engraven on the heavenly tables. Such a view seemed to
 d
-
-
-1 THE BOOK OF JUBILEES
 
 
 be called for by the necessities of the time. Hellenism had
@@ -1993,9 +1751,7 @@ time, it had been ordained in heaven from the beginning,
 
 for the two highest orders of the angels had been created
 
-circumcised, and that Israel was through circumcision sancti-
-
-fied together with them (xv. 27 note), Similarly the
+circumcised, and that Israel was through circumcision sanctified together with them (xv. 27 note), Similarly the
 
 Sabbath, though first ordained in Jacob’s time (see ii. 23, 31
 
@@ -2012,8 +1768,7 @@ of the earth (ii, 19-21), and making them one with the two
 chief orders of angels in heaven.
 
 Subilees—an Esoteric Tradition according to its Author.
-—The Book of Jubilees claims as a whole to be a revela-
-tion of God to Moses, and thus to form a supplement to,
+—The Book of Jubilees claims as a whole to be a revelation of God to Moses, and thus to form a supplement to,
 and an interpretation of, the Pentateuch, which it calls
 “ the first law’ (vi. 22). According to 4 Ezra xiv. 6 Moses
 was to reveal the latter but not the former. This second
@@ -2045,8 +1800,7 @@ the writings of Abraham (xxxix. 6-7), and finally handed over
 “all his books and the books of his fathers to Levi his son
 that he might preserve them and renew them for his
 children until this day” (xlv. 16), Thus this secret
-tradition was to be preserved in the hands of the priest-
-hood till the time should come for its publication. From
+tradition was to be preserved in the hands of the priesthood till the time should come for its publication. From
 this last statement it would not be unreasonable to infer
 that our author was a member of the priestly caste.
 
@@ -2066,15 +1820,10 @@ its separation from the Gentiles; and (0) by denouncing the
 Gentiles generally and particularly Israel’s national enemies.
 
 (a) Our author glorifies the law—We have already
-(p. 1) drawn attention to our author's glorification of cir-
-cumcision and the Sabbath, the bulwarks of Judaism, as
+(p. 1) drawn attention to our author's glorification of circumcision and the Sabbath, the bulwarks of Judaism, as
 
 
-lii THE BOOK OF JUBILEES
-
-
-heavenly ordinances, the sphere of which was so far ex-
-tended as to embrace Israel on earth. The law, as a
+heavenly ordinances, the sphere of which was so far extended as to embrace Israel on earth. The law, as a
 whole, was to our author the realisation in time of what was
 in a sense timeless and eternal. He is careful to set forth
 the historical occasions when the various elements of the
@@ -2099,8 +1848,7 @@ he offered sacrifices, which anticipate later ritual (vi. 1-4,
 vii. 3-5), and enunciated the laws regarding fruit-trees and
 the land keeping Sabbath (vii. 2, 35-37), though he
 ascribed these laws to Enoch (vii. 38). Abram enacted the
-law of tithes (xiii, 25-29); celebrated the feast of first-
-fruits of the grain harvest on the 15th of the third month
+law of tithes (xiii, 25-29); celebrated the feast of firstfruits of the grain harvest on the 15th of the third month
 (xv. 1-2) and instituted the feast of tabernacles (xvi. 20-3 1),
 ordained peace-offerings and the regulations relating to the
 use of salt, wood for sacrifices, washing before sacrifices,
@@ -2114,8 +1862,7 @@ INTRODUCTION 11
 
 Jewish tradition—that the younger sister should not be given
 in marriage before the elder (xxviii. 6). The penalty of death
-was ordained for intermarriage with the heathen in connec-
-tion with the destruction of Shechem (xxx. 7-17). Levi was
+was ordained for intermarriage with the heathen in connection with the destruction of Shechem (xxx. 7-17). Levi was
 ordained priest by Jacob at the feast of tabernacles (xxx. 18-
 23, xxxii. 2-3), and blessed by Isaac as such (xxxi. 13-17).
 Jacob offered tithes through Levi at the feast of tabernacles
@@ -2145,25 +1892,19 @@ true God from his youth (xi. 16, 17, xii. 1 sqq.). Jacob is
 our author explains certain difficulties. According to Gen. ii. 17
 Adam was to die on the day that he eat of the tree of knowledge.
 This was fulfilled : for one day is a thousand years in the testimony of
-the heavens, and Adam died at 930 (iv. 29-30). Esau gave up his birth-
-right because he was suffering from the famine in the land (axiv. 2
+the heavens, and Adam died at 930 (iv. 29-30). Esau gave up his birthright because he was suffering from the famine in the land (axiv. 2
 sqq.). This explanation our author arrives at by transposing Gen.
 xxvi. 1 before Gen. xxv. 29 sqq. Isaac’s failure to recognise Jacob
 was due to a dispensation from heaven (xxvi. 18).
 
 
-liv THE BOOK OF JUBILEES
-
-
 represented as a model of filial affection and obedience !
 (xxv. 4 sqq., xxxv. 9-12). The passages relating to J: acob’s
 devices for increasing his flocks (Gen. xxx. 35-38) and
-his fear of and measures for propitiating Esau (Gen. xxxil-
-xxxiii.) are omitted. Indeed our author represents Jacob as
+his fear of and measures for propitiating Esau (Gen. xxxilxxxiii.) are omitted. Indeed our author represents Jacob as
 declaring that he was not afraid (xxvii. 4) and as ultimately
 killing Esau (xxxviii, 2). The text in Gen. xliv. 15 is
-changed in order to clear Joseph from the charge of divina-
-tion, and the word “Esau” omitted in Gen. xxvii. 24 in
+changed in order to clear Joseph from the charge of divination, and the word “Esau” omitted in Gen. xxvii. 24 in
 order to cover Jacob’s lie, and the words “his brother is
 dead” (Gen. xliv. 20) are changed into “one went away
 and was lost” (xliii. 11) in order to avoid making Joseph’s
@@ -2210,8 +1951,7 @@ were also to unite with God and these two orders in the
 observance of the Sabbath (ii. 18, 19, 21). Finally, the
 destinies of the world were bound up with Israel. The
 world was to be renewed in the creation of the true man
-Jacob (xix. 24-25, 11. 22), and its final renewal to syn-
-chronize with the setting up of God’s sanctuary on Zion and
+Jacob (xix. 24-25, 11. 22), and its final renewal to synchronize with the setting up of God’s sanctuary on Zion and
 the establishment of the Messianic kingdom (i. 29, iv. 26,
 v. 12).
 
@@ -2224,8 +1964,7 @@ to Moloch (xxii. 20, xxv. 9, xxx. 7, 10, 11, 13).
 
 (ὁ The Gentiles denounced generally and particularly
 Israel's national enemies.—With the immeasurable arrogance
-of Judaism there went necessarily, hand in hand, an im-
-measurable hatred and contempt of the Gentiles. Tacitus,
+of Judaism there went necessarily, hand in hand, an immeasurable hatred and contempt of the Gentiles. Tacitus,
 more than two centuries later, called attention to this
 characteristic of the Jews (“adversus omnes alios hostile
 odium,” Hist. v. 5). Judaism regarded its own attitude to
@@ -2234,13 +1973,9 @@ was but a reflection of the divine. God had placed the
 nations under the authority of spirits or angelic guardians
 with the object of compassing their destruction (xv. 31).
 Here, most probably, the ultimate result of an action is
-declared to be the immediate object of it. Our author de-
-nounces particularly the national enemies of Israel, and
+declared to be the immediate object of it. Our author denounces particularly the national enemies of Israel, and
 these, as we shall have more than once occasion to observe,
 were the very nations with whom Israel was frequently
-
-
-lvi THE BOOK OF JUBILEES
 
 
 at war in the second century B.c. First of all our author's
@@ -2248,18 +1983,15 @@ maledictions are fulminated against the Philistines both in
 this world and in the next. The chief cities of this nation
 were either subjected or destroyed by the Maccabean princes
 (see xxiv. 28-32 notes). Next they are directed against
-Edom. Thus Isaac is represented as declaring in the bless-
-ing of Esau, that, if Esau’s seed rebelled against Israel, they
+Edom. Thus Isaac is represented as declaring in the blessing of Esau, that, if Esau’s seed rebelled against Israel, they
 should be “rooted out from under heaven” (xxvi. 94). A
 war between Jacob and Esau is described in xxxvill. 1-14,
 in which Edom was reduced to servitude “until this day.”
 Edom was thoroughly subdued by John Hyrcanus and forced
-to accept circumcision (xxxviii. 8 note). Again, in a descrip-
-tion of a war between Jacob and seven kings of the Amorites,
+to accept circumcision (xxxviii. 8 note). Again, in a description of a war between Jacob and seven kings of the Amorites,
 the writer forecasts the Maccabean victories of later times
 (xxxiv. 1-9). In an earlier passage he enumerates the chief
-seats of the Amorites. These were associated with Macca-
-bean victories, in which the Amorites were all but annihilated
+seats of the Amorites. These were associated with Maccabean victories, in which the Amorites were all but annihilated
 (xxix. 10-11). Of the Amorites who were “wicked and
 sinful” and had “wrought to the full all their sins,” our
 author grimly remarks “they have no longer length of life
@@ -2301,8 +2033,7 @@ Eden (iv. 23). They bound the fallen Watchers in the depths
 of the earth (v. 6); took to Noah the animals that were to
 enter the ark (v. 23). In the presence of an angel the
 earth was divided among Noah’s sons (viii. 10). Angels
-bound nine-tenths of the demons in the place of condemna-
-tion (x. 9-11), and instructed Noah in the remedies against
+bound nine-tenths of the demons in the place of condemnation (x. 9-11), and instructed Noah in the remedies against
 all diseases (x. 12); they accompanied the Lord in visiting
 the tower of Babel (x. 23). An angel bade Abram to go to
 the land of promise (xii. 22), and instructed him in the
@@ -2312,8 +2043,7 @@ the birth of Isaac and admonished Sarah for laughing (xvi.
 1-4); saved Lot from Sodom (xvi. 7); blessed Abraham and
 disclosed to him what had been decreed about him (xvi. 16).
 An angel comforted Hagar (xvii. 11), and withheld Abraham’s
-hand from sacrificing Isaac (xviii.10). Angels tested Abra-
-ham’s patience after the death of Sarah (xix. 3). The angels
+hand from sacrificing Isaac (xviii.10). Angels tested Abraham’s patience after the death of Sarah (xix. 3). The angels
 will remember unto a thousand generations Levi’s righteous
 judgment on Shechem (xxx. 20). An angel showed Jacob
 in a vision of the night seven tablets which recorded all
@@ -2342,8 +2072,7 @@ Satan. His subjects comprise both satans and demons.
 The demons are the spirits which went forth from the bodies
 of the slain children of the Watchers and the daughters of
 men (x. 5; Eth. En. xvi.). According to Eth. En. liv. 6
-the guilt of the Watchers originated in their becoming sub-
-ject to Satan. By means of these demons the prince of the
+the guilt of the Watchers originated in their becoming subject to Satan. By means of these demons the prince of the
 satans is able to compass his evils, which are the seduction
 and destruction of men. But these have no power over the
 righteous and over Israel (see note on x. 8).
@@ -2354,8 +2083,7 @@ righteous and over Israel (see note on x. 8).
 
 The date of our book can only be established by a series
 of indirect evidence. But this evidence is so plentiful and
-powerful, when apprehended, that no room is left for reagon-
-able doubt.
+powerful, when apprehended, that no room is left for reagonable doubt.
 
 
 i. First of all the book was written during the pontificate
@@ -2373,13 +2101,11 @@ of the Maccabean family, and not earlier than 135 B.c.—
 Thus in xxxii. 1 Levi is called a “ priest of the Most High
 God.” Now, the only Jewish high-priests who ever bore
 this title were the Maccabean (see note on xxxii. 1). They
-appear to have assumed it as reviving the order of Melchize-
-dek when they displaced the Zadokite order of Aaron.
+appear to have assumed it as reviving the order of Melchizedek when they displaced the Zadokite order of Aaron.
 Jewish tradition ascribes the assumption of this title to
 John Hyrcanus, but it seems to have been already assumed
 by Simon ; cf. Ps. cx. 4: “Thou art a priest for ever after
-the order of Melchizedek,” and 1 Macc. xiv. 41. If, how-
-ever, we follow the Jewish tradition in this matter, we
+the order of Melchizedek,” and 1 Macc. xiv. 41. If, however, we follow the Jewish tradition in this matter, we
 must fix on 135 8.0., when Hyrcanus became high-priest,
 as the earliest possible date for the composition of Jubilees.
 Notwithstanding the objections of the Pharisees to this
@@ -2388,18 +2114,14 @@ time of Hyrcanus II. (Jos. Ant. xvi. 6. 2).
 
 li. Neat, ἐξ was written before 96 B.C., or some years earlier
 in the reign of Hyrcanus.—Since our author is of the strictest
-sect a Pharisee, and at the same time approves of the Macca-
-bean pontificate, Jubilees cannot have been written later than
+sect a Pharisee, and at the same time approves of the Maccabean pontificate, Jubilees cannot have been written later than
 96 B.c., when the Pharisees and Alexander Jannaeus came
-to open strife. Indeed, it is hard to conceive of its com-
-position after the public breach between Hyrcanus and the
+to open strife. Indeed, it is hard to conceive of its composition after the public breach between Hyrcanus and the
 Pharisees which is described in Josephus (Ant. xiii. 10.
-5-6), and in the Talmud (Kiddush. 66a) with some varia-
-tions in names and details. After that event—unfortunately
+5-6), and in the Talmud (Kiddush. 66a) with some variations in names and details. After that event—unfortunately
 the year is not given by any authority—Hyrcanus joined
 the Sadducean party, and forbade, under penalties, the
-observance of Pharisaic ordinances. Hence we may con-
-clude that our book was written between 135 and the year
+observance of Pharisaic ordinances. Hence we may conclude that our book was written between 135 and the year
 of Hyrcanus’ breach with the Pharisees.
 
 The above conclusions are confirmed by a large mass of
@@ -2407,16 +2129,12 @@ evidence, which may be arranged under seven heads. Of
 these the first four point definitely to the latter half of the
 
 
-Ix THE BOOK OF JUBILEES
-
-
 second century B.c. as the date of the composition of
 Jubilees; the remaining three give various grounds for
 postulating a pre-Christian date at any rate.
 
 1, Our book points to the period—already past—of stress
-and persecution that preceded the recovery of national inde-
-pendence under the Maccabees—Thus, it is impossible to
+and persecution that preceded the recovery of national independence under the Maccabees—Thus, it is impossible to
 ascribe to any other period the causes which led to the
 enactment or accentuation of the following laws :
 
@@ -2432,8 +2150,7 @@ generation before embodied by our author in his book.
 severest penalties (xv. 11-14, 26, 28). This law was
 observed in the creation of the highest angels (xv. 27).
 Yet Israel will, our author says, neglect it and “ treat their
-members like the Gentiles” (xv. 33-34). Antiochus for-
-bade circumcision under the penalty of death (1 Mace.
+members like the Gentiles” (xv. 33-34). Antiochus forbade circumcision under the penalty of death (1 Mace.
 1. 48, 60,61; 2 Macc. vi. 10). There may be a reference
 also in our text to the Jews uncircumcising themselves, a
 practice which they resorted to under Antiochus Epiphanes
@@ -2442,8 +2159,7 @@ in order to escape the scoffs of the heathen in the palaestra
 
 (c) The Sabbath is re-enacted and its profanation is to
 be followed by the death penalty (ii 17-32, 1. 6-18).
-Non-observance of the Sabbath had been prevalent accord-
-ing to our author (xxiii. 19). Antiochus had forbidden the
+Non-observance of the Sabbath had been prevalent according to our author (xxiii. 19). Antiochus had forbidden the
 Jews to keep it (1 Macc. 1. 39,45; 2 Mace. vi. 6), Our
 text lays down the strictest sabbatical laws, such as were
 not in force at any time save in the second century B.c,
@@ -2469,8 +2185,7 @@ Again, riding on any beast is forbidden (1.12). The
 enforcement of the law during the Syro-Grecian suzerainty
 is mentioned in the Talmud.
 
-(ὦ) Intermarriage with the heathen is absolutely pro-
-hibited by the penalty of death (xxx. 7-17). To give one’s
+(ὦ) Intermarriage with the heathen is absolutely prohibited by the penalty of death (xxx. 7-17). To give one’s
 daughter to a Gentile was to give her to Moloch (xxx. 10,
 note). This question had for a long time before our
 author’s date been of vital importance to Israel. But at
@@ -2494,9 +2209,6 @@ the whole earth and inherit it for ever” (Jub. xxxii. 18-19).
 
 
 1 See note on p. Ixx note.
-
-
-lxii THE BOOK OF JUBILEES
 
 
 (6) Only such a period could explain the pre-eminence
@@ -2531,8 +2243,7 @@ in the Jalkut refers to “Aqrabbim (1 Mace. v. 3), which
 as well as Adora were memorable as scenes connected with
 the Maccabean struggle.
 
-This period also best explains the hatred which trans-
-formed Isaac’s blessing of Esau into a curse (xxvi. 34),
+This period also best explains the hatred which transformed Isaac’s blessing of Esau into a curse (xxvi. 34),
 
 (ὦ Again the Maccabean wars are adumbrated in the
 struggle of Jacob's sons with the Amorite kings in
@@ -2581,9 +2292,6 @@ It is, therefore, in the most prosperous days of the Maccabean
 dynasty, 1.6.,ϑὄ in the days of Simon or John Hyrcanus.
 
 
-Ixiv THE BOOK OF JUBILEES
-
-
 iv. Our book was used by the author of Eth. Enoch
 xci.-civ., and must, therefore, have been written at latest at
 the beginning of the first cent. Β.0. (see ὃ 19).
@@ -2630,8 +2338,7 @@ question (see xxxiv. 20, xl. 10 notes). In xxxvii-xxxviii.
 we have the oldest form of the legend of the war between
 Jacob’s sons and the sons of Esau, and similarly in the case
 of the war between Egypt and Canaan in xlvi. 6-11. Later
-developments of these legends are found in rabbinic litera-
-ture. Again, our text retains the original form of the
+developments of these legends are found in rabbinic literature. Again, our text retains the original form of the
 traditions in Genesis, where later Judaism explained them
 away as offensive. Thus in iv. 15 the sons of God are
 rightly taken to be angels: in xxxiii. 2 the story of Reuben
@@ -2665,9 +2372,6 @@ of the Pharisees to enforce its adoption on Alexander
 
 Jannaeus resulted in a massacre of the former.
 é
-
-
-Ixvi THE BOOK OF JUBILEES
 
 
 vii. The following facts postulate a pre-Christian date
@@ -2726,8 +2430,7 @@ the convenience of the reader I have reduced the jubilee
 reckonings to years and placed them in the margin.
 
 The Jubilees—The chronology is essentially heptadic.
-Each jubilee consists of seven year-weeks, and each year-
-week of seven years. It is probably on the ground of the
+Each jubilee consists of seven year-weeks, and each yearweek of seven years. It is probably on the ground of the
 sacred character of the number seven, and possibly also for
 the sake of symmetry, that our author makes his jubilee
 consist of forty-nine years instead of fifty, which was the
@@ -2749,9 +2452,6 @@ jubilee to begin with the settlement of Israel in Palestine,
 and while the former carries it down to the destruction of
 the first temple, the latter carries it down to many centuries
 after the Christian era.
-
-
-lxviii THE BOOK OF JUBILEES
 
 
 In the Assumption of Moses the jubilee is also used in
@@ -2921,8 +2621,7 @@ The Book of Noah—This book is referred to twice in
 our text, 1.6. in x. 13, xxi. 10. Our author, moreover, has
 taken over bodily two considerable sections from it and
 incorporated them in vii. 20-39, x. 1-15. Thus the Book
-of Noah was written before 135-105 Bc. But its com-
-position goes back to a much earlier date. Chapters vi-xi.
+of Noah was written before 135-105 Bc. But its composition goes back to a much earlier date. Chapters vi-xi.
 of the Ethiopic Enoch are clearly from the same source ;
 for they make no reference to Enoch but bring forward
 Noah (x. 1), and treat of the sin of the angels that led to
@@ -2930,11 +2629,7 @@ the flood, and of their temporal and eternal punishment.
 This section is compounded of the Semjaza and Azazel
 
 
-Ixxii THE BOOK OF JUBILEES
-
-
-myths, and in its present composite form is already pre-
-supposed by Eth. Enoch Ixxxviii.-lxxxix. 1. Hence in its
+myths, and in its present composite form is already presupposed by Eth. Enoch Ixxxviii.-lxxxix. 1. Hence in its
 present form it is earlier than 166 Bc. Chapters Ix.,
 Ixv.-lxix. 25, evi-cvii. of the same work are also derived
 from the Book of Noah and probably xxxix. 1, 2", xli. 3-8,
@@ -2943,8 +2638,7 @@ There appears to be no adequate ground for assigning these
 sections of that ancient work to a later date than those
 above discussed.
 
-The above facts throw some light on the strange vicissi-
-tudes to which even the traditional legends were subject.
+The above facts throw some light on the strange vicissitudes to which even the traditional legends were subject.
 Thus it would appear that the Noah saga is older than the
 Enoch, and that the latter was built up in part on the
 debris of the former. And just as the Noah saga made
@@ -3016,9 +2710,6 @@ Midrash Tadshe, Book of Jashar, Samaritan Chronicle.
 On Eth. Enoch i.-v., xci.-civ. see pp. lxix-lxxi above.
 
 
-Ixxiv THE BOOK OF JUBILEES
-
-
 Wisdom.—It is not possible to establish conclusively
 that our book was used by the author of Wisdom. There
 are, however, amid great differences, strong affinities between
@@ -3048,8 +2739,7 @@ retaliation for the casting of the Hebrew children into the
 river is dealt with, though this is obscured by the glosses καὶ
 σωθέντος and τέκνων, which I have bracketed as additions
 of an early scribe who misinterpreted the passage of Moses.
-In Jub. xlviii. 14 it is said that 1000 Egyptians were de-
-stroyed on account of every Hebrew child that was cast into
+In Jub. xlviii. 14 it is said that 1000 Egyptians were destroyed on account of every Hebrew child that was cast into
 the river. This sense we recover from the Greek on omitting
 the gloss: “In retribution for even a single child that was
 exposed Thou didst take away the multitude of them.” But
@@ -3086,8 +2776,7 @@ firmamenti et omnes videbunt simul, refer to the books in
 which the deeds of men are recorded. These books were
 kept by Enoch according to our text iv. 23, x. 17.
 
-In x. 46, the date in the words: factum est post an-
-norum tria millia (Syr., Eth., Arab., but Lat. = annos tres)
+In x. 46, the date in the words: factum est post annorum tria millia (Syr., Eth., Arab., but Lat. = annos tres)
 aedificavit Salomon civitatem et obtulit oblationes, appears to
 be based on that given in Jubilees. If with Joseph. (Ant.
 viii. 3. 1.) we reckon 592 years from the Exodus to the
@@ -3104,11 +2793,7 @@ Jubiléien, pp. 412-414.
 Chronicles of Jerahmeel—This Hebrew work, which has
 
 
-Ixxvi THE BOOK OF JUBILEES
-
-
-been translated by Gaster, contains a great deal of subject-
-matter in common with our book. At times it reproduces
+been translated by Gaster, contains a great deal of subjectmatter in common with our book. At times it reproduces
 the actual words of our text. I have no doubt that our
 text was ‘used by some of the authors of this compilation.
 See Index II. for references to the parallel passages.
@@ -3118,8 +2803,7 @@ beginning of the eleventh cent. a.D. by Moses ha-Darshan,
 but was based on an early work by Rabbi Pinchas ben Jair
 who in turn drew his materials from our text (see Eppstein,
 Revue des Etude juives, 1890, xxi. 80-97; 1891, xxii. 1-
-25; Bacher, Die Agada der Tannatten, ii. 499). By con-
-sulting Index II. the reader will find the passages which
+25; Bacher, Die Agada der Tannatten, ii. 499). By consulting Index II. the reader will find the passages which
 are common to this Midrash and our text.
 
 The Book of Jashar.—This late Hebrew work contains
@@ -3176,8 +2860,7 @@ expect, omits Kainam which our text (viii. 1) along with
 the LXX puts forward as the son of Arpachshad.
 
 In Christian literature—The Christian literature in
-which Jubilees is reproduced either by name or anony-
-mously will be treated under the following heads:
+which Jubilees is reproduced either by name or anonymously will be treated under the following heads:
 
 1. Authors who cite Jubilees or the Little Genesis by name.
 
@@ -3322,8 +3005,7 @@ and in the fifth place of the catalogue in the Cod.
 Coislinianus used by Montfaucon, and in each catalogue
 immediately after the ἸΠατριάρχαι (cf. Ronsch, p. 332).
 According to Nicephorus it consisted of 1100 stichoi—the
-same number as the Testament of Moses, which was identi-
-fied by some writers with Jubilees. Both Origen (tom. v.
+same number as the Testament of Moses, which was identified by some writers with Jubilees. Both Origen (tom. v.
 in Johannen, p. 77) and Glycas (see Fabric. Cod. Pseud. V.T.
 i. 765, 768) state that it was current among the Hebrews.
 
@@ -3360,8 +3042,7 @@ xxxii, 2-3, and regarding Judah on xxxi. 18-20, xli.
 IsIDORE OF SEVILLE (οὗ. 636), Origines, xvi. 26. 10: In
 principio Deus xxii opera fecit. Nam prima die vii opera
 fecit, id est: materiam informem, angelos, lucem, coelos
-superiores, terram, aquam atque aérem. Secunda die firma-
-mentum solum. Tertia die quattuor: maria, semina,
+superiores, terram, aquam atque aérem. Secunda die firmamentum solum. Tertia die quattuor: maria, semina,
 sationes atque plantaria. Quarta die tria: solem et lunam
 et stellas, Quinta die tria: pisces et reptilia aquarum et
 volatilia. Sexta die quattuor: bestias, pecudes, reptilia
@@ -3373,14 +3054,7 @@ Hester, et xxii literarum sunt elementa.
 The above is clearly based on our text, although in its
 
 
-7
-
-
-lxxxii THE BOOK OF JUBILEES
-
-
-enumeration of the works of the first day it deviates con-
-siderably (see Jub. ii. 2 sqq.). Observe that it confirms our
+enumeration of the works of the first day it deviates considerably (see Jub. ii. 2 sqq.). Observe that it confirms our
 view of a lacuna after ii. 22.
 
 Eurycuivs, Patriarch of Alexandria 933-939, Annales
@@ -3528,8 +3202,7 @@ Acts ix. 2— If he found any
 that were of the way.”
 
 Rom. iv. 15.—“ Where there
-is no law, neither is there trans-
-gression.”
+is no law, neither is there transgression.”
 
 2 Cor.v. 17.—“A new creation”
 (Gal. vi. 15).
@@ -3546,8 +3219,7 @@ Gal. 111. 17.— “A covenant
 
 confirmed beforehand by God,
 the law which came 430 years
-later, etc.” Does the confirma-
-tion here spoken of mean the
+later, etc.” Does the confirmation here spoken of mean the
 birth of Isaac? In that case 430
 years exactly elapse between this
 confirmation of the covenant and
@@ -3558,15 +3230,11 @@ Judaisers) would cut off the
 member” (ἀποκόψονταμ).
 
 
-THE BOOK OF JUBILEES
-
-
 xlvii. 10-12.— Moses forty-two
 years old.!
 
 
-xlviii. 1.—Moses spent thirty-
-eight years.
+xlviii. 1.—Moses spent thirtyeight years.
 
 i. 27.“ And He said to the
 angel of the presence: Write for
@@ -3623,8 +3291,7 @@ Jubilees, so far as 1 am aware. See note oni. 24,
 INTRODUCTION
 
 
-2 Thess. ii. 3.—“ Son of perdi-
-tion.”
+2 Thess. ii. 3.—“ Son of perdition.”
 
 
 1 Tim. i. 4.—‘“‘Fables and
@@ -3644,8 +3311,7 @@ tempted of God, for God tempteth
 no man.”
 
 
-James 11. 23.—“ Abraham be-
-lieved God and it was counted to
+James 11. 23.—“ Abraham believed God and it was counted to
 him for righteousness and he was
 called the friend of God.”
 
@@ -3685,8 +3351,7 @@ it.
 
 The author of Jubilees enforces
 the same view by representing
-Mastéma as suggesting the tempta-
-tion of Abraham to sacrifice Isaac
+Mastéma as suggesting the temptation of Abraham to sacrifice Isaac
 (xvii. 16), as hardening the hearts
 of the Egyptians (xlviii. 12, 17),
 ete.
@@ -3710,8 +3375,7 @@ dogmatic statement of this fact.
 
 xvi. 18.—“A kingdom and
 priests.” Our text alone gives
-this form of Exod. xix. 6 ante-
-cedently to Revelation.
+this form of Exod. xix. 6 antecedently to Revelation.
 
 ii, 2.—“ Angels of the voices
 and of the thunder and of the
@@ -3720,10 +3384,7 @@ lightnings.”
 
 Angelology.—We shall confine our attention here to
 notable parallels between our author and the New Testament.
-Besides the angels of the presence and the angels of sancti-
-
-
-fication there are the angels who are set over natural
+Besides the angels of the presence and the angels of sanctification there are the angels who are set over natural
 
 
 phenomena (ii. 2). These
@@ -3773,7 +3434,6 @@ Men sacrifice to them as gods (xxii. 17). They are to
 pursue their work of moral ruin till the judgment of
 Mastéma (x. 8) or the setting up of the Messianic kingdom,
 when Satan will be no longer able to injure mankind
-(xxiii. 29).
 
 So in the New Testament, the demons are disembodied
 spirits (Matt. xii. 43-45; Luke xi. 24-26). Their chief is
@@ -3814,8 +3474,7 @@ about gradually by the progressive spiritual development of
 man and a corresponding transformation of nature. Its
 members were to attain to the full limit of 1000 years in
 happiness and peace. During its continuance the powers
-of evil were to be restrained (xxiii. 29). The last judg-
-ment was apparently to take place at its close (see note on
+of evil were to be restrained (xxiii. 29). The last judgment was apparently to take place at its close (see note on
 xxiii. 50). On the probable derivation of this view from
 Mazdeism see note on i. 29.
 
@@ -3851,8 +3510,7 @@ rule.!
 
 Priesthood of Melchizedek——That there was originally an
 account of Melchizedek in our text we have shown in the
-note xii. 25, and that the Maccabean high-priests deliber-
-ately adopted the title applied to him in Gen. xiv., we have
+note xii. 25, and that the Maccabean high-priests deliberately adopted the title applied to him in Gen. xiv., we have
 pointed out in the note on xxxii. 1. It would be interesting
 to inquire how far the writer of Hebrews was indebted to
 the history of the great Maccabean king-priests for the idea
@@ -3921,9 +3579,6 @@ t + Words so enclosed are corrupt.
 χοὶ
 
 
-THE BOOK OF JUBILEES
-
-
 Moses receives the tables of the law and instruction on past and
 Suture history which he is to inscribe in a book, 1-4.
 
@@ -3972,8 +3627,7 @@ dominated by the sacred number seven.
 The history extends from the Creation
 to the legislation on Sinai, and thus
 embraces Genesis and part of Exodus,
-But the writer does not merely repro-
-duce the portions of these books which
+But the writer does not merely reproduce the portions of these books which
 serve his purpose; he rewrites from
 the standpoint of the strictest Judaism.
 See Introduction, §§ 15, 21.
@@ -4009,9 +3663,6 @@ evidence so requires.
 MUNDI.
 
 
-2 THE BOOK OF JUBILEES
-
-
 when he went up to receive the tables of the law and
 of the commandment, according to the voice of GoD as he
 said unto him, “Go up to the top of the Mount.”
@@ -4021,13 +3672,10 @@ I. And it came to pass in the first year of the exodus
 of the children of Israel out of Egypt, in the third month,
 on the sixteenth day of the month, that Gop spake to
 Moses, saying: “Come up to Me on the Mount, and I will
-give thee two tables of stone of the law and of the command-
-ment, which I have written, that thou mayst teach them.”
+give thee two tables of stone of the law and of the commandment, which I have written, that thou mayst teach them.”
 2. And Moses went up into the mount of Gop, and the
-glory of the Lord abode on Mount Sinai, and a cloud over-
-shadowed it six days. 3. And He called to Moses on the
-seventh day out of the midst of the cloud, and the appear-
-ance of the glory of the Lord was like a flaming fire on
+glory of the Lord abode on Mount Sinai, and a cloud overshadowed it six days. 3. And He called to Moses on the
+seventh day out of the midst of the cloud, and the appearance of the glory of the Lord was like a flaming fire on
 the top of the mount. 4. And Moses was on the Mount
 forty days and forty nights, and Gop taught him the earlier
 and the later history of the division of all the days of the
@@ -4037,8 +3685,7 @@ Tables. cd read “tables of stone.”
 Of the law, ete. See note on i, 1.
 Go up, etc. Exod. xxiv. 12,
 
-I. 1. In the third month, on the six-
-teenth day of the month. It will be
+I. 1. In the third month, on the sixteenth day of the month. It will be
 observed that our author supplies a
 date to the defective text of Exod. xix, 1
 “Tn the third month after the children
@@ -4054,8 +3701,7 @@ down into Egypt (xliv. 5),
 On the other hand, we must carefully
 distinguish this date and the events
 connected with it from the fifteenth
-of the third month and the events con-
-nected with it. Onthe fifteenth Abraham
+of the third month and the events connected with it. Onthe fifteenth Abraham
 celebrated the feast of the first-fruits
 of the harvest (xv. 1, xliv. 4); Isaac
 was born (xvi. 13) (so also in Seder
@@ -4067,8 +3713,7 @@ Laban bound themselves by mutual
 vows (xxix. 7).
 
 We shall see later (vi. 17-18 notes)
-that the feast of weeks was first ob-
-served on earth in connection with the
+that the feast of weeks was first observed on earth in connection with the
 covenant of Noah, and was according
 to our author designed to celebrate the
 institution of that covenant. It is
@@ -4082,8 +3727,7 @@ Come up to Me, etc. Exod. xxiv. 12.
 Two tables. The “two” is not in Exod.
 xxiv. 12, but is drawn from xxxi. 18.
 
-Of the law and of the command-
-ment. Exod. xxiv. 12, on which the
+Of the law and of the commandment. Exod. xxiv. 12, on which the
 text is based, has “‘ And the law and the
 commandment.” But compare Exod.
 xxxii. 15, xxxiv. 29; Deut. ix. 11.
@@ -4103,8 +3747,7 @@ CHAPTER I. 1-9 3
 
 law and of the testimony. 5, And He said: “Incline thine
 heart to every word which I shall speak to thee on this
-mount, and write them in a book in order that their gener-
-ations may see how I have not forsaken them for all the
+mount, and write them in a book in order that their generations may see how I have not forsaken them for all the
 evil which they have wrought in transgressing the covenant
 which I establish between Me and thee for their generations
 this day on Mount Sinai. 6. And thus it will come to pass
@@ -4180,9 +3823,6 @@ Ezra ix. 10, 11.
 Walkafter the Gentiles. 2 Kings xvii. 2.
 
 
-4 THE BOOK OF JUBILEES
-
-
 and after their shame, and will serve their gods, and these
 will prove unto them an offence and a tribulation and an
 affliction and a snare. 10. And many will perish and they
@@ -4214,8 +3854,6 @@ Sacrifice their children to demons.
 2 Chron. xxviii. 3, xxxiii. 6; Ezek.
 xx. 31. Cf. Deut. xxxii. 17; Eth.
 
-
-xxiii. 13.
 
 10-18. These verses depict the two
 great catastrophies which befell Israel
@@ -4275,8 +3913,7 @@ CHAPTER II. 10-17 5
 into the hand of the Gentiles for captivity, and for a prey,
 and for devouring, and I shall remove them from the midst
 of the land, and I shall scatter them amongst the Gentiles.
-14. And they will forget all My law and all My command-
-ments and all My judgments, and will go astray as to
+14. And they will forget all My law and all My commandments and all My judgments, and will go astray as to
 new moons, and sabbaths, and festivals, and jubilees, and
 ordinances. 15. And after this they will turn to Me from
 amongst the Gentiles with all their heart and with all their
@@ -4319,24 +3956,18 @@ when they seek.”
 16. And J shall disclose (bd). ac
 read “I will disclose.”
 
-+Remove them the plant of upright-
-ness.f Ihave obelized these words as
++Remove them the plant of uprightness.f Ihave obelized these words as
 corrupt. Littmann’s rendering, “sie
-umindern zu einer Pflanze der Gerechtig-
-keit,” is hardly possible linguistically.
+umindern zu einer Pflanze der Gerechtigkeit,” is hardly possible linguistically.
 Moreover, it is against the use of this
 phrase. Cf. Eth. Enoch x. 16, xciii. 2,
-5,10. Israel was “‘the plant of upright-
-
-
-ness” fromtheoutset. Theoriginal of the
+5,10. Israel was “‘the plant of uprightness” fromtheoutset. Theoriginal of the
 words and of those that follow appears to
 be Jer. xxxii. 41 ‘‘I will plant them in
 this land assuredly with all my heart
 and with all my soul.” These words
 are used in the very same connection
-as those in the text. It is not im-
-probable, therefore, that the words ‘‘in
+as those in the text. It is not improbable, therefore, that the words ‘‘in
 this land” have been lost after the verb.
 Next “And I will remove them” =kal
 μεταθήσω avrovs=onyom. This last
@@ -4360,9 +3991,6 @@ and I will be their (cd, ab om. “ their’)
 God. Exod. xxix. 45.
 
 And I shall be their God and they
-
-
-6 THE BOOK OF JUBILEES
 
 
 they will be My people in truth and righteousness. 18. And
@@ -4397,8 +4025,7 @@ Jer. xxiv. 7, xxx. 22; Ezek. xiv. 11.
 
 18. Deut. xxxi. 6.
 
-19. Donot forsake .. . Thy inherit-
-ance, .. and do not deliver them into
+19. Donot forsake .. . Thy inheritance, .. and do not deliver them into
 the hands . . lest they should rule over
 them. Cf. 2 Kings xxi. 14; Deut.
 ix. 26; Ps. evi. 41.
@@ -4446,8 +4073,7 @@ CHAPTER I. 18-26 7
 
 
 shall not turn away from Me from that day unto eternity.
-24. And their souls will cleave to Me and to all My com-
-mandments, and they will fulfil My commandments, and I
+24. And their souls will cleave to Me and to all My commandments, and they will fulfil My commandments, and I
 shall be their Father and they will be My children. 25.
 And they will all be called children of the living God, and
 every angel and every spirit will know, yea, they will know
@@ -4477,8 +4103,7 @@ Wisdom ii. 16. See also i. 25, 28, xix.
 Exod. iv, 22, 23; Deut. xiv. 1; Is.
 xliii. 6; Wisdom xviii, 13; Jud. ix.
 4; or the righteous in Israel are God’s
-children, even the individuals, Wis-
-dom ii. 13, 18, v. 5, xii. 7, 21. For
+children, even the individuals, Wisdom ii. 13, 18, v. 5, xii. 7, 21. For
 Talmudic references see Sayings of the
 Fathers (ed. Taylor) iii. 22; B. Bathra
 10a, Kiddushin 36a, Berachoth 3a.
@@ -4493,20 +4118,17 @@ descent from Jacob. Cf. i. 28.
 25. Children (or “sons'’) of the living
 God. Hos. i. 10.
 
-26. And do thou write down for thy-
-self (bc). ad read “And I will write
+26. And do thou write down for thyself (bc). ad read “And I will write
 down for thee.” These words appear
 to refer to the present work (as Singer
 p. 15 has recognised), z.e., Jubilees (cf.
 1. 7). Moses is to write it down at the
 
 
-dictation of the angel (vi. 1). It consti-
-tutes, so to say, the book of the second
+dictation of the angel (vi. 1). It constitutes, so to say, the book of the second
 law. The Pentateuch, on the other hand,
 is “the book of the first law” (vi. 22),
-which was written by the angel him-
-self (i. 27). The latter is referred to
+which was written by the angel himself (i. 27). The latter is referred to
 again in xxx. 12, 21,1. 6. In 4 Ezra
 xiv. 6 Moses is bidden to reveal the one,
 ue., the Pentateuch, and conceal the
@@ -4523,11 +4145,9 @@ which shall come to pass... until
 eternity. Cf. 4 Ezra xiv. 4,5: Et adduxi
 eum super montem Sina et detinui eum
 apud Me diebus multis, Et enarravi
-ei mirabilia multa, et ostendi ei tem-
-porum secreta et temporum finem.
+ei mirabilia multa, et ostendi ei temporum secreta et temporum finem.
 
-Until I descend and dwell... through-
-out eternity. Here as in the Prologue
+Until I descend and dwell... throughout eternity. Here as in the Prologue
 the implication is that the author
 intended to write a history of the world
 from the Creation to the setting up of
@@ -4539,9 +4159,6 @@ when the author lived. He was of
 opinion that the Messianic Kingdom
 would be introduced through the labours
 of the Maccabees. For God’s dwelling
-
-
-8 THE BOOK OF JUBILEES
 
 
 throughout eternity.”
@@ -4577,8 +4194,7 @@ the giving of the law, but according to
 that passage they merely accompany
 Yahwe. But the way was prepared
 for the conception in Jubilees by the
-development which angelology under-
-went in exilic and post-exilic times.
+development which angelology underwent in exilic and post-exilic times.
 Thus from the exile onwards God
 communicated no longer directly with
 His servants. In the case of Ezekiel,
@@ -4586,10 +4202,8 @@ who was in the period of transition, the
 revelation is sometimes made directly
 to him (xliv. 2), sometimes indirectly
 through an angel (xl. 3). By the time
-of Zechariah the development is com-
-plete. This prophet receives all his
-communications through angels. Natur-
-ally when we come down to the century
+of Zechariah the development is complete. This prophet receives all his
+communications through angels. Naturally when we come down to the century
 in which our book was written, this
 usage is universal. Daniel receives even
 the interpretation of his visions through
@@ -4621,8 +4235,7 @@ From Judaism this verse passed over
 into the NT. Cf. Gal. iii, 19 νόμος
 
 «ον διαταγεὶς δι’ ἀγγέλων. See also
-Acts vii. 538; Heb. ii. 2, The Samari-
-tans also believed in the ministry of
+Acts vii. 538; Heb. ii. 2, The Samaritans also believed in the ministry of
 angels in connection with the law. Cf.
 Gesenius, Caurm. Sam. p. 15 and de
 Sacy, Not. et extraits de la Bibl. xii.
@@ -4630,17 +4243,14 @@ Sacy, Not. et extraits de la Bibl. xii.
 probably on polemical grounds, and
 always represented Moses as receiving
 the law directly from God. In Sabbath
-88 ὃ and Shem. rabba 28 Moses is repre-
-sentedas ascending into heaven toreceive
+88 ὃ and Shem. rabba 28 Moses is representedas ascending into heaven toreceive
 the law.
 
-Write for Moses, etc. If the inter-
-pretation of this verse adopted on i. 26
+Write for Moses, etc. If the interpretation of this verse adopted on i. 26
 (note) is right, the angel is to write
 out the Pentateuch for Moses. There
 is, however, this difficulty attaching to
-this interpretation, that the history em-
-braced in the Pentateuch is to extend
+this interpretation, that the history embraced in the Pentateuch is to extend
 from the Creation to the time when
 God’s ‘sanctuary has been built among
 them for all eternity.” It is possible
@@ -4720,8 +4330,7 @@ Divisions of the years—from the time
 of the creation (c)—of the law (a), etc.
 This seems to be the best way of taking
 the text. My text which follows d=
-“divisions of the years from the crea-
-tion of the law.”
+“divisions of the years from the creation of the law.”
 
 According to the individual years.
 Bracketed as an interpolation. 6 omits.
@@ -4734,8 +4343,7 @@ a@ quo and the terminus ad quem. The
 history of the “tables of the divisions”
 obviously embraces everything from the
 creation to the Messianic Kingdom.
-Hence ‘‘new” (haddas) is to be re-
-garded as an Ethiopic interpolation In
+Hence ‘‘new” (haddas) is to be regarded as an Ethiopic interpolation In
 αὖ it follows the word ‘‘ creation” but
 in the inferior MSS (cd) it precedes
 them. Next in place of “twhent”
@@ -4757,40 +4365,29 @@ and catastrophic, but gradual, and its
 progress to be conditioned ethically by
 the conduct of Israel. This will be
 seen most clearly in iv. 26 and xxiii.
-26-28 (see notes in doc.) Similar ex-
-pressions are found in Is. lxv. 17,
+26-28 (see notes in doc.) Similar expressions are found in Is. lxv. 17,
 Ixvi. 22. In my Eschatology (pp. 122-
 123) I took these passages in Isaiah
-to denote a sudden and actual re-crea-
-tion of the world, and as I conceived
+to denote a sudden and actual re-creation of the world, and as I conceived
 they were at variance with their
-contexts, I marked them as later inter-
-polations. I now see that they should
-be taken to express a gradual trans-
-formation of the world, moral and
+contexts, I marked them as later interpolations. I now see that they should
+be taken to express a gradual transformation of the world, moral and
 physical, and, that thus the argument
 against their originality falls to the
 ground. This view was probably
-adopted from Mazdeism, which accord-
-ing to Séderblom (La Vie Future
+adopted from Mazdeism, which according to Séderblom (La Vie Future
 @aprés le Mazdéisme, p. 254, Paris,
 1901) teaches that le monde deviendra
 peu ἃ peu meilleur et se spiritualisera
-pendant les derniers temps. This fifth-
-century view of the writer in Isaiah
+pendant les derniers temps. This fifthcentury view of the writer in Isaiah
 lxv.-Ixvi. is reproduced by our author.
 Heaven and earth and the physical
 nature of man will be transformed part
-passu with man’s spiritual transforma-
-tion (xxiii. 26-28, 1. 5). According to
+passu with man’s spiritual transformation (xxiii. 26-28, 1. 5). According to
 Jubilees xxiii. 27 the righteous should
-attain to a thousand years, and accord-
-ing to Is. Ιχν. 20 the sinner should be
+attain to a thousand years, and according to Is. Ιχν. 20 the sinner should be
 prematurely cut off when a hundred
 years old. So far as I am aware, Is.
-
-
-10 THE BOOK OF JUBILEES
 
 
 all their creation according to the powers of the heaven,
@@ -4816,15 +4413,11 @@ be associated, 17-32.
 
 
 II. And the angel of the presence spake to Moses
-according to the word of the Lord, saying: Write the com-
-
-
-lxv.-Ixvi., Jubilees and Test. Levi 18 are
+according to the word of the Lord, saying: Write the comlxv.-Ixvi., Jubilees and Test. Levi 18 are
 the only Jewish writings which attest
 this view. But from 100 B.c. Jewish,
 and subsequently Christian, writers took
-these expressions in a literal and cata-
-strophic sense. Thus it is an actual
+these expressions in a literal and catastrophic sense. Thus it is an actual
 re-creation of heaven and earth that is
 foretold in Eth. Enoch xci. 16, Ixxii. 1,
 xlv. 4; Apoc. Bar. xxxii. 6, lvii. 2;
@@ -4871,8 +4464,7 @@ Messianic Kingdom. There are thus
 three great eras in this book: the
 creation of the world, its renewal on
 the creation of the true man, Jacob,
-and its final renewal on the establish-
-ment of the sanctuary. On the
+and its final renewal on the establishment of the sanctuary. On the
 symbolic values of man and the temple
 see Eppstein, “ Le Livre des Jubilés,”
 Revue des Etudes juives, 1890, xxi.
@@ -4945,8 +4537,7 @@ by Syneellus (ed. Dindorf, p. 4), in
 which τὰς ἀβύσσους is omitted and
 νυχθήμερον is substituted. Cedrenus
 (ed. Bekker, p. 7) reproduces Syncellus’
-summary, but with an additional cor-
-ruption. He omits τὰ ὕδατα and
+summary, but with an additional corruption. He omits τὰ ὕδατα and
 reckons νυχθήμερον as two works.
 The Hebrew work, Midrash Tadshe vi.
 lines 11-16 (ed. by Eppstein, Beitrage
@@ -5022,9 +4613,6 @@ chapter Philo says with regard to it:
 he idealises all seven objects of creation
 
 
-12 THE BOOK OF JUBILEES
-
-
 the first day He created the heavens which are above and
 the earth and the waters and all the spirits which serve
 before Him—the angels of the presence, and the angels of
@@ -5051,10 +4639,8 @@ According to later Judaism, Ber.
 rabba 8 sqq. four things were created on
 the first day, mountains (here ona is
 corrupt for oimn, “‘abyss”’), heaven,
-earth, light. On the second—the firma-
-ment, hell and the angels. On the
-third—trees, green things, and Para-
-dise. On the fourth—sun, moon and
+earth, light. On the second—the firmament, hell and the angels. On the
+third—trees, green things, and Paradise. On the fourth—sun, moon and
 stars. On the fifth—birds, fishes and
 the Leviathan. On the sixth—Adam,
 Eve and worms. In all nineteen works.
@@ -5068,12 +4654,10 @@ demons.
 the angels. In addition to the remarks
 made under this head on ii, 2-3
 above we should further observe that
-grounds are furnished for such ἃ con-
-ception by Job xxxviii. 7 (cf. 1. 6)
+grounds are furnished for such ἃ conception by Job xxxviii. 7 (cf. 1. 6)
 “When the morning stars sang together
 and all the sons of God shouted for
-joy.” Here the sons of God are re-
-garded as admiring spectators of the
+joy.” Here the sons of God are regarded as admiring spectators of the
 creation. It is probable that earlier
 Judaism so understood this verse. At
 all events, this interpretation appears
@@ -5101,19 +4685,16 @@ assigned to the second day. See further
 details in preceding note. With our text
 compare Rufinus, Hxpositio in Symbol.
 p. 21 (Fabricius, Cod. Pseud, V.T. ii.
-57), Ut breviter aliqua etiam de secre-
-tionibus perstriugamus, ab initio Deus
+57), Ut breviter aliqua etiam de secretionibus perstriugamus, ab initio Deus
 cum fecisset mundum, praefecit ei et
 praeposuit quasdam virtutum caelestium
-potestates, quibus regeretur et dispen-
-saretur mortalium genus... Sed et
+potestates, quibus regeretur et dispensaretur mortalium genus... Sed et
 horum nonnulli, sicut et ipse qui princeps
 appellatus est mundi, datam sibi a Deo
 potestatem non his quibus acceperant
 legibus temperarunt nec humanum
 genus divinis obedire praeceptis, sed
-suis parere praevaricationibus docue-
-runt.
+suis parere praevaricationibus docuerunt.
 
 The angels of the presence, and the
 angels of sanctification. Cf. ii. 18, xv.
@@ -5140,8 +4721,7 @@ angels of sanctification” are those who
 sing praises to God (possibly the
 trisagion as in Eth. En. Ixi. 12), As
 Epiphanius has ἄγγελοι τῆς δόξης
-(ΞΞ ἄγγελοι δοξάζοντες), Praetorius pro-
-poses that we should read weddase
+(ΞΞ ἄγγελοι δοξάζοντες), Praetorius proposes that we should read weddase
 instead of qeddasé. But the text can be
 defended; for in xv. 27 where the phrase
 recurs, the Latin has sanctificationis,
@@ -5241,10 +4821,8 @@ partly to restore and partly to emend
 
 Eventide (and night) and the
 light, dawn and day. ‘“‘ And night”
-is supplied from ἃ, ὦ wrongly trans-
-poses “eventide” after “day.” bed
-omit “and day” and transpose ‘‘ even-
-tide” after ‘‘light.”
+is supplied from ἃ, ὦ wrongly transposes “eventide” after “day.” bed
+omit “and day” and transpose ‘‘ eventide” after ‘‘light.”
 
 3. Seven great works.
 above, p. 11 on ii. 2-3.
@@ -5264,9 +4842,6 @@ G in Epiphanius runs: ἐν δὲ τῇ δευτέρᾳ
 See note
 
 
-14 THE BOOK OF JUBILEES
-
-
 day He created the firmament in the midst of the waters,
 and the waters were divided on that day—half of them
 went up above and half of them went down below the
@@ -5278,8 +4853,7 @@ one place, and the dry land to appear. 6. And the waters
 did so as He commanded them, and they retired from off the
 face of the earth into one place outside of this firmament,
 and the dry land appeared. 7. And on that day He created
-for them all the seas according to their separate gathering-
-places, and all the rivers, and the gatherings of the waters
+for them all the seas according to their separate gatheringplaces, and all the rivers, and the gatherings of the waters
 in the mountains and on all the earth, and all the lakes,
 and all the dew of the earth, and the seed which is sown,
 and all sprouting things, and fruit-bearing trees, and trees
@@ -5293,18 +4867,13 @@ ed from zajetbalaé according to G
 βλαστήματα.
 
 
-The clause in brackets, lost by homoio-
-teleuton, I have supplied.
+The clause in brackets, lost by homoioteleuton, I have supplied.
 
 Waters were divided on that day. Garden of Eden, in Eden. MSS
 According to this view as also of Gen. i. add ‘‘for pleasure.” This phrase
-6 there was a sea in heaven resting on is due either to a corrupt ditto-
-
-
-the firmament, which through seven
+6 there was a sea in heaven resting on is due either to a corrupt dittothe firmament, which through seven
 flood-gates (v. 24) let down its waters
-on the earth. See the curious specu-
-lation on these waters in Eth. Enoch
+on the earth. See the curious speculation on these waters in Eth. Enoch
 liv. 7-8.
 
 5-7. Works of the third day. Cf.
@@ -5327,13 +4896,8 @@ made as.”
 
 7. Cf. Slav. Enoch xxx. 1.
 
-Sprouting things = zajebaquel emend-
-
-
-graphy: @e.—latadlé is corrupt for
-batadla=€v τρυφῇ, a duplicate ren-
-dering of jaya: or else tadla is cor-
-rupt for taklat=gurd and should be
+Sprouting things = zajebaquel emendgraphy: @e.—latadlé is corrupt for
+batadla=€v τρυφῇ, a duplicate rendering of jaya: or else tadla is corrupt for taklat=gurd and should be
 transposed after kuellft. The ‘‘in
 Eden” is also superfluous. ὁ omits it.
 
@@ -5383,8 +4947,7 @@ Biblioth. Patr. Lat. tom. 23, col. 940):
 Necnon quod sequitur, contra orientem,
 in Hebraeo Mecedem (Πρ) scribitur,
 quod Aquila posuit ἀπὸ ἀρχῆς : et nos,
-ab exordio, possumus dicere. Sym-
-machus vero, ἐκ πρώτης, et Theodotion,
+ab exordio, possumus dicere. Symmachus vero, ἐκ πρώτης, et Theodotion,
 ἐν πρώτοις, quod et ipsum non orientem
 sed principium significat. Ex quo
 manifestissime comprobatur, quod
@@ -5413,8 +4976,7 @@ note on beginning of verse.
 
 
 8-10. Gen. i. 14-19. Of. Slav. Enoch,
-xxx. 2-6. G in Epiphanius very de-
-fective: τῇ δὲ τετάρτῃ τὸν ἥλιον τὴν
+xxx. 2-6. G in Epiphanius very defective: τῇ δὲ τετάρτῃ τὸν ἥλιον τὴν
 σελήνην τοὺς ἀστέρας... ταῦτα τὰ
 τρία ἔργα τὰ μεγάλα ἐποίησε ὁ Θεὸς
 ἐν τῇ τετάρτῃ ἡμέρᾳ.
@@ -5446,9 +5008,6 @@ in Epiphanius : τῇ δὲ πέμπτῃ τὰ κήτη
 τὰ πτερωτά. . . ταῦτα τὰ τρία ἔργα
 τὰ μεγάλα ἐποίησεν ὁ Θεὸς ἐν τῇ πέμπτῃ
 ἡμέρᾳ.
-
-
-16 THE BOOK OF JUBILEES
 
 
 flies, the birds and all their kind. 12. And the sun rose
@@ -5542,8 +5101,7 @@ people, and will bless them; as I have sanctified the Sabbath
 day and do sanctify (it) unto Myself, even so shall I bless
 them, and they will be My people and I shall be their God.
 20. And I have chosen the seed of Jacob from amongst all
-that I have seen, and have written him down as My first-
-born son, and have sanctified him unto Myself for ever and
+that I have seen, and have written him down as My firstborn son, and have sanctified him unto Myself for ever and
 ever; and 1 will teach them the Sabbath day, that they may
 keep Sabbath thereon from all work.” 21. And thus He
 created therein a sign in accordance with which they should
@@ -5566,8 +5124,7 @@ Ezek. xx. 12. See note on ii. 31.
 They will be My people, etc. Seei. 17.
 
 20. I have chosen the seed of Jacob.
-Is. xli. 8, xliv. 1, 2. G@ in Epi-
-phanius=J will choose, etc.
+Is. xli. 8, xliv. 1, 2. G@ in Epiphanius=J will choose, etc.
 
 From amongst all. This is based on
 a slight change of a corrupt text.
@@ -5584,8 +5141,7 @@ Keep Sabbath with us. Israel is to
 unite with the angels (cf. verses 17, 18)
 in observing the Sabbath.
 
-To eat and to drink, etc. This joy-
-ful aspect of the Sabbath is enforced
+To eat and to drink, etc. This joyful aspect of the Sabbath is enforced
 
 
 again in ii. 31, 1. 9, 10. In 1. 12
@@ -5618,9 +5174,6 @@ Acceptable before Him. Ezek. xx.
 Syncellus and Cedrenus that there is a
 
 
-18 THE BOOK OF JUBILEES
-
-
 to Jacob, and two and twenty kinds of work were made
 until the seventh day; this is blessed and holy; and the
 former also is blessed and holy; and this one serves with
@@ -5636,8 +5189,7 @@ that one for sanctification and blessing.
 
 
 lacuna in the text after ver. 22. Thus
-in Epiphanius, De Mensuris et Pon-
-deribus, ch. xxii. (ed. Dind. vol. iv. 28)
+in Epiphanius, De Mensuris et Ponderibus, ch. xxii. (ed. Dind. vol. iv. 28)
 after an account of the six days’ creation,
 drawn word for word from Jubilees, he
 continues καὶ ἐδήλωσε δι’ ἀγγέλου τῷ
@@ -5674,8 +5226,7 @@ Testamentum. In Isidore of Seville
 (ob. 636), Btymolog. xvi. 26.10 (Migne
 Bibl. Patr. Lat. tom. 82, col. 595), we
 have an account of the creation agreeing
-with Jubilees save in one small particu-
-lar. It is there shown that there were
+with Jubilees save in one small particular. It is there shown that there were
 twenty-two kinds of work just as there
 were twenty-two generations from
 Adam to Jacob, twenty-two books in
@@ -5698,8 +5249,7 @@ Mwiicéws εἶναί φασί τινες ἀποκάλυψιν.
 This statement is reproduced verbally
 by Cedrenus, Compendium Histor. vol.
 i, 9 (ed. Bekker). Next we have the
-evidence of the Hebrew tradition pre-
-served in the Midrash Tadshe vi.
+evidence of the Hebrew tradition preserved in the Midrash Tadshe vi.
 (quoted above, p. 11): “Twenty-two
 kinds of creatures were created in the
 universe. This corresponds to the
@@ -5721,8 +5271,7 @@ Nehemiah, Jeremiah and Lamentations
 are taken together, and the two books
 of Samuel, Kings and Chronicles are
 reckoned respectively as one each. Thus
-the thirty-nine are reduced to twenty-
-two. See Introd. § 11.
+the thirty-nine are reduced to twentytwo. See Introd. § 11.
 
 This is blessed and holy, i.e., the
 Sabbath.
@@ -5732,8 +5281,7 @@ ie. Jacob, These two, the Sabbath
 and Jacob, are intimately related. As
 the Sabbath comes at the close of the
 twenty-two works, so Jacob comes at
-the close of the twenty-second genera-
-tion. Not till Jacob’s time, therefore,
+the close of the twenty-second generation. Not till Jacob’s time, therefore,
 could the Sabbath be rightly observed
 on earth. Moreover, the Sabbath was
 given to Israel alone (ii. 31).
@@ -5750,8 +5298,7 @@ be the blessed and holy ones of the first testimony and law,
 even as He had sanctified and blessed the Sabbath day on
 the seventh day. 25. He created heaven and earth and
 everything that He created in six days, and God made the
-seventh day holy, for all His works; therefore He com-
-manded on its behalf that, whoever does any work thereon
+seventh day holy, for all His works; therefore He commanded on its behalf that, whoever does any work thereon
 shall die, and that he who defiles it shall surely die. 26.
 Wherefore do thou command the children of Israel to
 observe this day that they may keep it holy and not do
@@ -5792,8 +5339,7 @@ ab read Rooted out of theland. Deut. xxix. 28.
 thereon which is unseemly, to do thereon
 their own pleasure. In the rendering
 “which is unseemly” I have followed
-Barth and Littmann in taking za’ije-
-kawen za’jjastar’i as representing xby
+Barth and Littmann in taking za’ijekawen za’jjastar’i as representing xby
 ‘ean. See also on 11]. 15. It might
 
 
@@ -5811,8 +5357,7 @@ Holier than all other days. Cf. ii.
 80 where it is said to be holier than
 the jubilee of the jubilees ; also ii. 33.
 
-27. Whoever profanes it. . . who-
-ever does thereon any work. See two
+27. Whoever profanes it. . . whoever does thereon any work. See two
 preceding verses.
 
 
@@ -5829,18 +5374,9 @@ Cf. Is. lviii. 13.
 Not prepare thereon anything to be
 
 
-20
-
-
-THE BOOK OF JUBILEES
-
-
 to be eaten or drunk, +and (that it is not lawful) to
 draw water, or bring in or take out thereon through their
-gates any burden,} which they had not prepared for them-
-
-
-selves on the sixth day in their dwellings.
+gates any burden,} which they had not prepared for themselves on the sixth day in their dwellings.
 
 
 30. And they
@@ -5862,8 +5398,7 @@ things blessed it, but He did not sanctify all peoples and
 
 
 eaten or drunk. This law could be
-derived from Exod. xvi. 23, 25. Bak-
-ing and boiling are forbidden in Exod.
+derived from Exod. xvi. 23, 25. Baking and boiling are forbidden in Exod.
 xvi. 23, and the making of a fire in
 Exod. xxxv. 3.
 
@@ -5878,8 +5413,7 @@ It will be observed that by omitting
 water, or bring in or take out thereon
 through their gates any burden” an
 excellent sense is restored to the text.
-Besides, the words in question con-
-stitute a break in the grammatical
+Besides, the words in question constitute a break in the grammatical
 construction. The words “or bring in
 or take out thereon through their gates
 any burden” look like a dittography
@@ -5893,8 +5427,7 @@ do any work thereon which is unseemly,
 to do thereon their own pleasure or to
 draw water or bring in or take out
 thereon through their gates any burden.
-And that they should not prepare there-
-on anything to be eaten or drunk, which
+And that they should not prepare thereon anything to be eaten or drunk, which
 they had not prepared for themselves
 on the sixth day in their dwellings.”
 
@@ -5967,8 +5500,7 @@ and testimony was given to the children of Israel as a law
 for ever unto their generations.
 
 
-Adam names all creatwres, 1-3. Creation of Eve and enact-
-ment of Levitical laws of purification, 4-14. Adam
+Adam names all creatwres, 1-3. Creation of Eve and enactment of Levitical laws of purification, 4-14. Adam
 and Eve in Paradise: their sin and expulsion, 15-29.
 Law of covering one’s shame enacted, 30,31. Adam and
 Eve live in Bldd, 32-35. (Cf. Gen. ii. 18-25, iii).
@@ -6001,13 +5533,9 @@ God and the two chief orders of angels
 (ii.17). As no such sign existed between
 God and the inferior angels (who are
 inferior to Israel, see ii. 2 note), so
-none existed between God and the Gen-
+none existed between God and the Gentiles.
 
-
-tiles.
-
-33. A law for ever unto their genera-
-tions = ony ody npn, Exod. xxvii.
+33. A law for ever unto their generations = ony ody npn, Exod. xxvii.
 21; Lev. vii. 36, xxiii. 14, ete.
 
 Il. 1-2. Cf. Gen. ii, 19. G is found
@@ -6019,9 +5547,6 @@ Il. 1-2. Cf. Gen. ii, 19. G is found
 8. Cf. Gen. ii, 20. Found. So
 Mass., Sam.; but LXX, Syr. and Vulg.
 = “was found.”
-
-
-22 THE BOOK OF JUBILEES
 
 
 man should be alone: let us make a helpmeet for him.” 5.
@@ -6087,8 +5612,7 @@ version.
 
 Her husband (= τινα). So also Sam.,
 LXX, and Onkelos against Mass.,
-Syr., and Vulg. which omit the pro-
-noun.
+Syr., and Vulg. which omit the pronoun.
 
 7. Cf. Gen. ii, 24,
 
@@ -6125,17 +5649,13 @@ in all eighty days. This law, our
 author says, was based on the fact that
 Adam was created at the close of the
 first week and did not enter the
-Garden till forty days after his crea-
-tion, and Eve was created at the close
+Garden till forty days after his creation, and Eve was created at the close
 of the second week and did not enter
 the Garden till eighty days after her
 creation. This peculiar idea reappears
 
 
 CHAPTER III. 5-9
-
-
-23
 
 
 defilement, for a male seven days, and for a female twice
@@ -6197,10 +5717,8 @@ certainly before Syncellus, i, 8-9,
 πρώτῳ ἔτει τῆς πλάσεως τοῦ ᾿Αδάμ, ἐπ᾽
 αὐτῷ τὰ πραχθέντα.
 
-In the Book of Adam and Eve trans-
-lated by Malan in 1882 from the
-Ethiopic we find an undoubted re-
-miniscence of our text. Thus ini. 74
+In the Book of Adam and Eve translated by Malan in 1882 from the
+Ethiopic we find an undoubted reminiscence of our text. Thus ini. 74
 and 75 it is recounted that Adam made
 
 
@@ -6211,27 +5729,22 @@ days old, when Eve and her daughter
 approached the altar. Anastasius
 Sinaita (flor. 7th cent.) in his Anagogic.
 contemplat. in Hexaem. (Fabricius, Cod.
-Pseud. V.T. ii. 83; Migne’s Biblio-
-theca Patr. Graec. tom. 89, col. 967) is
+Pseud. V.T. ii. 83; Migne’s Bibliotheca Patr. Graec. tom. 89, col. 967) is
 the first to refer directly to our text:
 Unde Hebraei ex libro qui non est
 redactus in canonem qui quidem dicitur
 Testamentum Protoplastorum, dicunt
 quadragesima die ingressum esse Adam
 in Paradisum; sicut etiam videtur
-cuidam historico chronographo Pyr-
-rhoni, et quibusdam  expositoribus.
-The Pyrrho here mentioned by Anas-
-tasius is likewise referred to by Glycas
+cuidam historico chronographo Pyrrhoni, et quibusdam  expositoribus.
+The Pyrrho here mentioned by Anastasius is likewise referred to by Glycas
 as the source of this statement.
 Syncellus (p. 8) is the next to use our
 text: εἰσήγαγεν ὁ Θεὸς τὸν ᾿Αδὰμ ἐν
 τῷ παραδείσῳ κατὰ τὴν τεσσαρακοστὴν
-ἡμέραν τῆς πλάσεως αὐτοῦ. Subse-
-quently Glycas (οἶτο. 1150), in his
+ἡμέραν τῆς πλάσεως αὐτοῦ. Subsequently Glycas (οἶτο. 1150), in his
 Βίβλος Χρονική (pp. 3892-393, ed.
-Bekker), quotes our text with dis-
-approval: ἡ δὲ λεγομένη λεπτὴ Γένεσις,
+Bekker), quotes our text with disapproval: ἡ δὲ λεγομένη λεπτὴ Γένεσις,
 οὐκ οἷδ ὅθεν συγγραφεῖσα καὶ ὅπως,
 φησὶν ὅτι μεθ᾽ ἡμέρας μ' εἰσῆλθεν 6’ Adame
 εἰς τὸν παράδεισον, ἡ ἡ δὲ Eta μεθ᾽ ἡμέρας
@@ -6252,11 +5765,8 @@ is not a trace of such a legend in
 Rabbinic literature, and that on the
 contrary it is declared in Shabbath 135a
 (avd axpy ἸῸΝ PRY sy Dw nN
-mow> don) that the regulations in
+mow) don) that the regulations in
 Lev. xii, 2-5 had no currency before
-
-
-24 THE BOOK OF JUBILEES
 
 
 into the garden of Eden. 10. And for this reason the
@@ -6278,8 +5788,7 @@ planted in it is holy. 13. Therefore, there was ordained
 regarding her who bears a male or a female child the statute
 
 
-the legislation of Moses. Yet, notwith-
-standing Beer’s statement, the tradition
+the legislation of Moses. Yet, notwithstanding Beer’s statement, the tradition
 in our text is not without attestation in
 Judaism. Thus in the Midrash Tadshe
 xv. (see Jellinek’s edition in his Bet
@@ -6309,8 +5818,7 @@ created outside the Garden of Eden
 and did not enter till later.”
 
 
-We observe here that the above state-
-meuts are attributed to Pinchas. They
+We observe here that the above statemeuts are attributed to Pinchas. They
 go back ultimately to our text. As
 references to Pinchas, Eppstein (Revue
 des Etudes juives, xxi. 92, 1890)
@@ -6319,8 +5827,7 @@ Sota 49a, Ber. rabba 60.
 
 10. The heavenly tables. In my
 note on xlvii. 3 of the Eth. Enoch 1
-have touched on the origin and de-
-velopment of the idea underlying this
+have touched on the origin and development of the idea underlying this
 expression, and to this I must refer the
 reader. The phrase is found in the
 Eth. Enoch xlvii. 3, Ixxxi. 1, 2, xciii.
@@ -6330,8 +5837,7 @@ not a hard and fixed one: in Enoch
 and Test. XII. Patriarch. it wavers
 between an absolute determinism and
 prediction pure and simple: whereas
-in our text, in addition to these signifi-
-cations, it implies at times little more
+in our text, in addition to these significations, it implies at times little more
 than a contemporary heavenly record
 of events. In fact, in our author, the
 heavenly tables are the divine statute
@@ -6359,10 +5865,8 @@ and gathered its fruit, and eat, and put aside the residue for
 himself and for his wife [and put aside that which was being
 
 
-future history of the world either pre-
-dictively or else determinatively. One
-Meaning, moreover, passes impercep-
-tibly into another. Thus those tables
+future history of the world either predictively or else determinatively. One
+Meaning, moreover, passes imperceptibly into another. Thus those tables
 record: (1) Laws levitical, criminal,
 and chronological, in some instances
 predetermined and previously observed
@@ -6389,17 +5893,14 @@ person, xxxiii. 10; as to the Sabbath, 1.
 the naming of Abraham as a friend of
 God, xiv. 9, and of Levi, xxx. 20;
 Isaac’s blessing of Levi and Judah,
-xxxi. 82, (8) Predictions and predeter-
-minations : as to the judgment, v. 13 ;
+xxxi. 82, (8) Predictions and predeterminations : as to the judgment, v. 13 ;
 as to the Messianic kingdom, xxiii. 32.
 
 15. Seven years. According to Ber.
-rabba 18, Sanh. 380, and Die Schatz-
-hohle, p. 7 (translated by Bezold),
+rabba 18, Sanh. 380, and Die Schatzhohle, p. 7 (translated by Bezold),
 
 
-Adam was only six hours in the Gar-
-den. MS α of the Slavonic Enoch xxxii.
+Adam was only six hours in the Garden. MS α of the Slavonic Enoch xxxii.
 2 states that Adam was only five and a
 half hours in Paradise. This last clause
 looks like a Christian interpolation, and
@@ -6408,8 +5909,7 @@ were to elapse before the coming of
 Christ according to the early Fathers.
 
 Instructed him... for tillage. In Is,
-xxviii. 26-29 this instruction is attri-
-buted to God ; but in Ber. rabba 24 it
+xxviii. 26-29 this instruction is attributed to God ; but in Ber. rabba 24 it
 is assigned, as in our text, to the angels:
 also in the Life of Adam and Eve, 22
 (Kautzsch, Apoc. und Pseud. ii. 515)
@@ -6442,9 +5942,6 @@ sovian of awa).
 
 
 8 AM.
-
-
-26 THE BOOK OF JUBILEES
 
 
 kept]. 17. And after the completion of the seven years,
@@ -6495,8 +5992,7 @@ had originally four feet. The text,
 
 therefore, most probably contained
 some statement relative to the cutting
-off of the serpent’s feet. Such a state-
-ment would follow naturally on Gen.
+off of the serpent’s feet. Such a statement would follow naturally on Gen.
 iii, 14 “upon thy belly thou shalt go.”
 Indeed in the Targ., Ps.-Jon., Gen. iii.
 14 we find this very statement aban
@@ -6520,8 +6016,7 @@ shall greatly multiply thy sorrow and thy pains: in sorrow
 thou shalt bring forth children, and thy return shall be unto
 thy husband, and he will rule over thee.” 25. And to Adam
 also He said, “ Because thou hast hearkened unto the voice
-of thy wife, and hast eaten of the tree of which I com-
-manded thee that thou shouldst not eat thereof, cursed
+of thy wife, and hast eaten of the tree of which I commanded thee that thou shouldst not eat thereof, cursed
 be the ground for thy sake: thorns and thistles shall it
 bring forth to thee, and thou shalt eat thy bread in the
 sweat of thy face, till thou returnest to the earth from
@@ -6549,10 +6044,7 @@ Adam offered an ox whose horns were
 and thy pains, etc. Gen. iii. 16.
 
 Thy pains. So also LXX, but Mass.,
-Sam., Syr., and Vulg.=‘“thy concep-
-
-
-tion” (7277).
+Sam., Syr., and Vulg.=‘“thy conception” (7277).
 
 Thy return=% ἀποστροφή σου. So
 also LXX and Syr.= nawn instead of
@@ -6561,8 +6053,7 @@ Mass. and Sam. ynpwn=“ they desire.”
 25-26. Gen. iii. 17-19, 21, 24.
 
 25. Of the tree=amé τοῦ EvAov. The
-text is ‘‘of that tree,” but the demon-
-strative is a rendering of the Greek
+text is ‘‘of that tree,” but the demonstrative is a rendering of the Greek
 art. as frequently.
 
 Thy bread. So LXX, but Mass.,
@@ -6594,12 +6085,6 @@ question in Joseph. Ant, i. 1. 4 ὁμο-
 Book of Adam and Eve i. 18 and in
 
 
-28
-
-
-THE BOOK OF JUBILEES
-
-
 sent out of the Garden of Eden all flesh that was in the
 Garden of Eden, and all flesh was scattered according to
 its kinds, and according to its types unto the places which
@@ -6610,20 +6095,17 @@ had been created for them.
 
 some form is implied in Philo, Quaest.
 in Gen, i. 32 (Armen.). Both our
-text and Josephus are quoted as teach-
-ing this view in Syncellus, i. 14, τὰ
+text and Josephus are quoted as teaching this view in Syncellus, i. 14, τὰ
 θηρία καὶ τὰ τετράποδα καὶ τὰ ἑρπετὰ
 φησὶν ὁ ᾿Ιώσηππος καὶ ἡ Λεπτὴ Τένεσις
 ὁμόφωνα εἶναι πρὸ τῆς παραβάσεως τοῖς
-πρωτοπλάστοις. This statement is re-
-peated in Cedrenus, i. pp. 9-10 ; Zonaras,
+πρωτοπλάστοις. This statement is repeated in Cedrenus, i. pp. 9-10 ; Zonaras,
 i. p. 28. It seems implied in the text
 that the common original language of
 men and animals was Hebrew. That
 Hebrew was the primitive language
 of man, at any rate, was universally
-believed among the Jews. Thus accord-
-ing to the Jerusalem Targum on Gen. xi.
+believed among the Jews. Thus according to the Jerusalem Targum on Gen. xi.
 1 all men originally spoke Hebrew, which
 was the language by means of which
 the world was created : nq xw-np jena
@@ -6638,8 +6120,7 @@ i. 22, however, the legend is differently
 preserved. Because Eber refused to
 join in building Babel he did not lose
 his original language—the language that
-Adam spoke—like the rest of his con-
-temporaries—rijs τῶν ἄλλων φωνῆς
+Adam spoke—like the rest of his contemporaries—rijs τῶν ἄλλων φωνῆς
 συγχεθείσης ἡ τοῦ “EBep οὐκ ἀπώλετο.
 αὕτη δέ ἐστιν ἢ καὶ ᾿Αδὰμ ἐλάλει.
 Hence his descendants called themselves
@@ -6653,8 +6134,7 @@ language— καὶ ταύτην of τοῦτον δια-
 μήριον δὲ ταύτην εἶναι τὴν πρὸ τῆς
 συγχύσεως φωνὴν τὰ τῶν παλαιῶν ὀνό-
 ματα. This view is likewise Jewish:
-it is found in the Chronicles of Jerah-
-meel, xxxviii. 11. But while some
+it is found in the Chronicles of Jerahmeel, xxxviii. 11. But while some
 Syriac writers such as John bar Madani
 and Jacob of Serugh admitted this
 claim, others like Theodoret, Quaest. in
@@ -6663,8 +6143,7 @@ claim, others like Theodoret, Quaest. in
 30. And to Adam alone did
 
 
-Gen. 1x.-lxi., St. Ephraem, and Bar-
-hebraeus (see Assemani, Bidl. Or. iii. 313,
+Gen. 1x.-lxi., St. Ephraem, and Barhebraeus (see Assemani, Bidl. Or. iii. 313,
 314) were just as confident of the
 absolute priority of their own language,
 while Solomon Baisorensis reconciled
@@ -6676,11 +6155,9 @@ same,
 In Die Schatzhohle (transl. by Bezold)s
 p. 29, the priority of Syriac is polemically
 maintained: “Von Adam bis damals
-redeten sie alle in dieser Sprache, niém-
-lich in der syrischen Sprache...
+redeten sie alle in dieser Sprache, niémlich in der syrischen Sprache...
 denn diese Sprache ist die Konigin
-aller Sprachen. Die friiheren Schrift-
-steller aber irren, indem sie sagen, das
+aller Sprachen. Die friiheren Schriftsteller aber irren, indem sie sagen, das
 Hebriische sei die erste gewesen.”
 
 Other writers again asserted that
@@ -6704,15 +6181,14 @@ ideas on this subject we find, Sanh.
 yore peda perm, because Ps. exxxix,,
 which was supposed to be written by
 him, contained an Aramaic (?) word.
-In Shabb. 12> on the other hand one
+In Shabb. 12) on the other hand one
 is bidden not to pray in Aramaic, yew
 vax pwha psp mui 3 ον because the
 angels of Service do not understand
 Aramaic (quoted in Levi’s Neuhebr. u.
 chald. Wérterbuch, i. 168). According
 to Abarbanel, in his exposition of
-Zephaniah, fol. 276, col. 1 (see Hisen-
-menger, ii, 778), Hebrew was the
+Zephaniah, fol. 276, col. 1 (see Hisenmenger, ii, 778), Hebrew was the
 language spoken before the building
 of Babel and should ultimately be that
 of all Israelites.
@@ -6762,13 +6238,11 @@ youths completely stripped themselves
 and joined in the public sports as
 Greek athletes. Even the priests of the
 Temple forsook their duties to join in
-these heathen games. On the institu-
-tion of these and other Greek customs
+these heathen games. On the institution of these and other Greek customs
 see 1 Mace. i. 13, 14 ; 2 Macc. iv. 9-14;
 Jos. Ant. xiii 5. 1. It is hardly
 possible to conceive the shock that such
-conduct must have given to the re-
-ligiously disposed amongst the nation,
+conduct must have given to the religiously disposed amongst the nation,
 and especially to such a Pharisee of
 the Pharisees as our author. In order
 to emphasise his protest against it he
@@ -6778,29 +6252,21 @@ with the dress of the officiating priest,
 but to Gen. iii, 21 where he found
 ample justification for extending the
 law of covering one’s shame to all men.
-This law, he asserts, was enacted im-
-
-
-mediately after the expulsion of Adam
+This law, he asserts, was enacted immediately after the expulsion of Adam
 from Eden, z.e., immediately after the
-discovery of his nakedness. Subse-
-quently (vii. 20) he represents Noah as
-enjoining the observance of this ordi-
-nance on his children.
+discovery of his nakedness. Subsequently (vii. 20) he represents Noah as
+enjoining the observance of this ordinance on his children.
 
 82. On the new moon of the fourth
 month (see note on vi. 23). Syncellus
-(i. p. 18) says that Adam spent forty-
-five days in the garden after his trans-
-gression. This agrees with our text ;
+(i. p. 18) says that Adam spent fortyfive days in the garden after his transgression. This agrees with our text ;
 for, according to iii. 17, Adam sinned on
 the 17th of the 2nd month and the
 expulsion followed on the Ist of the
 4th. ss
 
 In the land of Elda, in the land of
-their creation, Can ’Blda be a cor-
-ruption of mb? In that case “land
+their creation, Can ’Blda be a corruption of mb? In that case “land
 of ΒΔ would mean “land of
 nativity.” The phrase “land of their
 creation” is an interpretation of the
@@ -6811,23 +6277,15 @@ was created” (any), as in our text.
 
 
 34. Thus Eve was a virgin till after
-the expulsion from Eden. Cf. Die Schatz-
-héhie (ed. Bezold, 1883), p. 7: Als
+the expulsion from Eden. Cf. Die Schatzhéhie (ed. Bezold, 1883), p. 7: Als
 Adam und Heva aus dem Paradies
-herausgegangen ... sie waren jung-
-fraiilich.
+herausgegangen ... sie waren jungfraiilich.
 
 
 35. Cf. iii, 15.
 
 
 64-70 A.M.
-
-
-30
-
-
-THE BOOK OF JUBILEES
 
 
 Cain and Abel and other children of Adam, 1-12. Enos,
@@ -6872,10 +6330,8 @@ reproved Cain because of Abel, because he had slain him,
 
 IV. 1. "Awan. A second daughter
 named’ Azfird(iv, 8) was bornlater. Cain
-married theelder’Awan,v.c. 1x, “wicked-
-ness,” and Seth the younger, ’Aztira.
-The derivation of the latter is doubt-
-ful. Frankel (Afonatsschrift f. Gesch.
+married theelder’Awan,v.c. 1x, “wickedness,” and Seth the younger, ’Aztira.
+The derivation of the latter is doubtful. Frankel (Afonatsschrift f. Gesch.
 des Judenthums, 1856, 311-316) thinks
 that it is from ansy=“‘chaste” (ἢ).
 Probably it is from mx, “well
@@ -6910,8 +6366,7 @@ Abel in 77, and Asouam (i.e, Awan)
 in 85, Though the dates are left
 indefinite in our text they are no
 doubt derived from it. Thus Cain
-married Awan in the year 135 accord-
-ing to Syncellus, between 134-140
+married Awan in the year 135 according to Syncellus, between 134-140
 according to our text. “Awan was
 then fifty years old (Syncellus).
 
@@ -6934,8 +6389,7 @@ offered his sacrifice on the new moon
 of the seventh month. Thus the words
 “in the first of the third jubilee” are
 to be taken as the first year of the
-jubilee=99 a.m. For the later tradi-
-tions as to the instrument with which
+jubilee=99 a.m. For the later traditions as to the instrument with which
 Cain slew Abel, see Fabricius, Cod.
 Pseud. V.T. i. 113.
 
@@ -6963,7 +6417,7 @@ Awan his sister to be his wife and she bare him Enoch at
 the close of the fourth jubilee. And in the first year of the 190-196 a.m.
 first week of the fifth jubilee, houses were built on the earth, 197 a.m.
 and Cain built a city, and called its name after the name of
-4, Cf. Gen. iv. 11,12.  A fugitive.
+4, Cf. Gen. iv. 11,12. (A fugitive.
 
 
 Text nfiha is a corrupt transliteration of
@@ -6984,16 +6438,14 @@ meaning in xxix. 7, xxx. 3. In viii.
 9 it = “secretly.”
 
 6. Sin. . . committed in heaven.
-On this old Semitic idea of the possi-
-bility of sin in heaven, see my Slavonic
+On this old Semitic idea of the possibility of sin in heaven, see my Slavonic
 Enoch pp. xxxiv. sqq.
 
 7. Mourned for Abel four weeks of
 years. As Abel was born in 77, and
 was twenty-two years old according to
 Syncellus and our text (see verse 3,
-note) when killed by Cain, the twenty-
-eight years of mourning extend from
+note) when killed by Cain, the twentyeight years of mourning extend from
 99 to 127. The Greek is found in
 Syncellus (i. 15): ἐπένθησαν αὐτὸν οἱ
 πρωτόπλαστοι ἑβδομαδικοὺς τέσσαρα»,
@@ -7002,8 +6454,7 @@ Syncellus (i. 15): ἐπένθησαν αὐτὸν οἱ
 
 He called. So Sam. xp», but Mass.,
 LXX, Syr., Onk., of Gen. iv. 25 read
-“she called.” In Jubilees it is gener-
-ally the father that names the child ;
+“she called.” In Jubilees it is generally the father that names the child ;
 whereas in J of Genesis it is the mother,
 
 
@@ -7037,14 +6488,8 @@ be a wanderer. The Book of Jashar,
 309-315 A.M.
 
 
-32
-
-
 his son Enoch.
 she bare yet nine sons.
-
-
-THE BOOK OF JUBILEES
 
 
 10. And Adam knew Eve his wife and
@@ -7125,10 +6570,8 @@ with Jubilees in giving this sense to
 Gen. iv. 26. It was also so understood
 by Josephus, Ant. 1. 3. 1, but when we
 come down to Jerome’s time, most
-Jewish scholars held that the verse re-
-counted the rise of idolatry (Quaest. in
-Gen. iv. 26: Tune initium fuit invo-
-candi nomen Domini, licet plerique
+Jewish scholars held that the verse recounted the rise of idolatry (Quaest. in
+Gen. iv. 26: Tune initium fuit invocandi nomen Domini, licet plerique
 Hebraeorum aliud arbitrentur, quod
 tune primum in nomine Domini et in
 similitudine ejus fabricata sint idola).
@@ -7155,8 +6598,7 @@ sons are said to have had no part in
 these things (xxvii. 9). Indeed, in the
 Book of Jashar (Migne, Dict. des Apocr.
 ii. 1090), it is said that Seth called his
-son Enos because “men began to cor-
-rupt themselves and forsake God for
+son Enos because “men began to corrupt themselves and forsake God for
 idols.”
 
 18-15. Enos,
@@ -7219,25 +6661,19 @@ xxxix. 7) remarks: πλατυνθέντων δὲ
 ἤγοντο. The last clause appears, as
 Roénsch (p. 254) has already remarked,
 to be taken from Jubilees. This book
-is cited by Epiphanius in the preced-
-ing chapter under its twofold name of
+is cited by Epiphanius in the preceding chapter under its twofold name of
 ᾿Ιωβηλαῖα and Λεπτογένεσις.
 
 Father's brother. MSS read ’éhta
 ’abthti=“ father’s sister” ; but I have
 emended this into éhwa ’abfiht, since
-we find the latter in the Syriac Frag-
-ment and in the Greek MS 7 on Gen.
-v. 15 (πατραδέλφου αὐτοῦ) and Epi-
-phanius, Hauer, xxxix. 7: els εὐνομίαν
+we find the latter in the Syriac Fragment and in the Greek MS 7 on Gen.
+v. 15 (πατραδέλφου αὐτοῦ) and Epiphanius, Hauer, xxxix. 7: els εὐνομίαν
 κατέστη καὶ πρὸ τοῦ διὰ Mwioéws ἐγ-
 γράφου νόμου ὁ κατὰ τὸν σεμνὸν γάμον
 θεσμός, καὶ ἐκ τῶν πατραδέλφων αὐτῶν
 τὰς γαμετὰς ἑαυτῶν ἤγοντο. In similar
-cases in the sequel the same emenda-
-
-
-tion is made on the authority of the
+cases in the sequel the same emendation is made on the authority of the
 Syriac and Greek, save in viii. 6 and
 xi. 7 where the Ethiopic preserves the
 true text.
@@ -7267,8 +6703,7 @@ this interpretation. Thus (Ber. rabba
 cursed any one who translated Gen.
 vi. 2 by the phrase “sons of God,” and
 not “sons of the judges.” Similarly,
-the Jew Trypho condemns this inter-
-pretation, Justin, Dial. ὁ. Tryph. 79.
+the Jew Trypho condemns this interpretation, Justin, Dial. ὁ. Tryph. 79.
 In the Samaritan Version (mw 5),
 and the Targum of Onkelos (Ν 32 52),
 and Symmachus (viol τῶν duvacrevév-
@@ -7276,14 +6711,7 @@ and Symmachus (viol τῶν duvacrevév-
 themighty.” Inthe Book of Jashar (Dict.
 des Apocr. ii. 1097) the sons of God were
 ‘judges and niagistrates.” In the Ps.-
-Jon. on Gen. vi, 2 we have both inter-
-pretations side by side, and also in the
-
-
-34
-
-
-THE BOOK OF JUBILEES
+Jon. on Gen. vi, 2 we have both interpretations side by side, and also in the
 
 
 those who are named the Watchers, that they should
@@ -7293,19 +6721,16 @@ instruct the children of men, and that they should do
 Chronicles of Jerahmeel, xxiv. 11-xxv. 8.
 Ps.-Philo, Ant. dibl. Lib. p. 42, gives
 simply the biblical words. Similarly, on
-theChristian side the traditional interpre-
-tation came in due time to be denounced,
+theChristian side the traditional interpretation came in due time to be denounced,
 and “the sons of God” were taken to
 be the good amongst mankind, the
 descendants of Seth, and the daughters
 of men to be the descendants of Cain.
 So Julius Africanus: οἱ ἀπὸ τοῦ Σὴθ
 δίκαιοι (see below). Next, while Hilary
-(ob. 368), Comment. in Ps. cxxxii., con-
-tents himself with discrediting the old
+(ob. 368), Comment. in Ps. cxxxii., contents himself with discrediting the old
 myth, Chrysostom, Homil. in Gen.
-vi. 1, says that it is necessary to ex-
-amine this passage carefully in order to
+vi. 1, says that it is necessary to examine this passage carefully in order to
 subvert the fables of thoughtless praters
 --ἀναγκαῖον τούτου τοῦ χωρίου πολλὴν
 τὴν ἔρευναν ποιήσασθαι καὶ ἀναστρέψαι
@@ -7317,23 +6742,18 @@ posterity of Seth and Enos—oi ἀπὸ τοῦ
 Σὴθ καὶ τοῦ ’Evws. Jerome, Convment.
 in Ps, exxxii., aud Augustine, De Civ.
 Dei, xv. 28. 4, pour discredit and
-contempt on the old myth. Now con-
-currently with the increasing acceptance
-of the new interpretation, there neces-
-sarily set in the growing importance of
+contempt on the old myth. Now concurrently with the increasing acceptance
+of the new interpretation, there necessarily set in the growing importance of
 Seth, the ancestor of the righteous
 generations described in Gen. vi. 1-4 as
 ‘the sons of God.” In this process
-of glorification the superhuman achieve-
-ments and characteristics originally con-
-nected with other names were gradually
+of glorification the superhuman achievements and characteristics originally connected with other names were gradually
 transferred to Seth, and this notably in
 the case of Enoch. Thus in consequence
 of this new exegesis the star of Enoch
 paled before that of Seth. In dealing
 with such literature this is an important
-fact, since we are thus frequently justi-
-fied in applying to Enoch the statements
+fact, since we are thus frequently justified in applying to Enoch the statements
 of later Christian writers regarding Seth.
 We shall now show how subordinate
 the figure of Enoch becomes in later
@@ -7368,16 +6788,13 @@ His exposition is given in Syncellus
 τοὺς γίγαντας. (Cf. also i. 16 sq.)
 When we pass from this writer to
 the sixth cent. Book of Adam and
-Eve, we find that the new interpre-
-tation has ousted the old from the
-field. Thus the Watchers are through-
-out described as the sons of Seth, and
+Eve, we find that the new interpretation has ousted the old from the
+field. Thus the Watchers are throughout described as the sons of Seth, and
 in Book III. chap. iv. the question is
 discussed at length : the wise men who
 said that angels had come down from
 heaven and mingled with the daughters
-of men had erred: such actions, more-
-over, were impossible for spiritual
+of men had erred: such actions, moreover, were impossible for spiritual
 beings. These “angels of God” were
 the children of Seth who were thus
 designated so long as they preserved
@@ -7385,9 +6802,7 @@ their virginity, their innocence and
 their glory. But they transgressed and
 mingled with the daughters of Cain.
 It is observable that whereas Seth is an
-extraordinary and superhuman person-
-age in this work, there is nothing not-
-able said of Enoch save that ‘he wrote
+extraordinary and superhuman personage in this work, there is nothing notable said of Enoch save that ‘he wrote
 a celebrated book” and that ‘‘many
 wonders happened to him... but
 those wonders may not be told in this
@@ -7395,8 +6810,7 @@ place.” For the same view as to the
 Watchers, see Die Schatzhihle, pp. 8-10.
 Our next illustration consists of an
 anonymous extract prefixed to the works
-of Malala (circa 600), quoted by Fabii-
-cius, i, 151: ὁ δὲ ᾿Αδὰμ od ἐτῶν ἣν ὅτε
+of Malala (circa 600), quoted by Fabiicius, i, 151: ὁ δὲ ᾿Αδὰμ od ἐτῶν ἣν ὅτε
 ἐγέννησε τὸν Σήθ' οὗτος ὁ Σὴθ πρῶτος
 ἐξεῦρεν γράμματα Ἑβραϊκὰ καὶ σοφίαν
 καὶ τὰ σημεῖα τοῦ οὐρανοῦ καὶ τὰς
@@ -7435,14 +6849,12 @@ dicant aiunt angelos descendisse ad
 filias hominum, cum intelligendi sint
 filii Sethi qui a monte sancto ad filias
 Caini maledicti descenderunt: Sethiadae
-enim ob sanctitatem suam et quod mon-
-tem sanctum incolerent, appelati sunt
+enim ob sanctitatem suam et quod montem sanctum incolerent, appelati sunt
 Bani Elohim, ¢.e., filii Dei. Similar
 statements are made in the Chronikon
 Paschale, i. pp. 38, 39 (ed. Dindorf,
 1892). In Syncellus (circa 800 a.D.),
-i. 17, 19 the now prevailing inter-
-pretation of Gen, vi. 1-4 is repeated.
+i. 17, 19 the now prevailing interpretation of Gen, vi. 1-4 is repeated.
 The descendants of Seth were pious and
 beautiful, and they lived in the heights
 over against Paradise according to
@@ -7460,8 +6872,7 @@ statements, first made in Eth. En. vi.
 4-6, regarding the two hundred angels
 are here transferred to Seth, though
 Syncellus was perfectly aware of their
-original bearing ; for in the next para-
-graph he actually cites this chapter of
+original bearing ; for in the next paragraph he actually cites this chapter of
 the Eth. En. Again, on pp. 16-17 Seth,
 just as formerly Enoch, is said to have
 been carried off by the angels and to
@@ -7484,8 +6895,7 @@ exact account of what was originally
 attributed to Enoch. In the Synopsis
 of Cedrenus (eleventh cent.) we meet
 with the same phenomena, but carried
-one stage further; for, whereas Syn-
-cellus first gave his own version of
+one stage further; for, whereas Syncellus first gave his own version of
 the intercourse of the sons of God
 and the daughters of men, and then
 with remarkable candour the original
@@ -7519,8 +6929,7 @@ Cedrenus, i. 16, ὠνομάσθη δὲ θεὸς διὰ
 τὴν λάμψιν τοῦ προσώπου αὐτοῦ, ἣν
 ἔσχεν ἐν ὅλῃ αὐτοῦ τῇ ζωῇ. Thus Seth
 has at last become incomparably the
-chief personage among the early Patri-
-archs. In Glycas, p. 228, however, the
+chief personage among the early Patriarchs. In Glycas, p. 228, however, the
 persistency of the original Enoch myth
 is shown in the words: λέγεται δὲ ὅτι
 ὁ ἐν τοῖς ἀστράσι τεταγμένος ἄγγελος,
@@ -7536,12 +6945,6 @@ Moses, Ezra, Elijah, etc. See my
 
 
 522 a.M.
-
-
-36
-
-
-THE BOOK OF JUBILEES
 
 
 was Baraka, the daughter of Rastijal, a daughter of his
@@ -7572,8 +6975,7 @@ In v. 6 it is said that God sent the angels
 to the earth. The object with which
 the angels here descended to the earth
 (see v. 6, viii, 10 note) seems at first
-sight to clash with that which is seem-
-ingly implied in the Eth. Enoch and
+sight to clash with that which is seemingly implied in the Eth. Enoch and
 the Slavonic Enoch (see Eth. Enoch vi.
 notes). But it is quite possible that
 our text provides us with the object
@@ -7592,21 +6994,17 @@ all events the idea was a familiar one
 in the Judaism of the second cent. B.c.
 According to Ethiopie Enoch vi.-xxxvi.
 and Ixxii.-lxxxii. Enoch owed all his
-supernatural knowledge to the instruc-
-tion of angels, and according to x. 9-10
+supernatural knowledge to the instruction of angels, and according to x. 9-10
 of our text Raphael taught Noah the
 secrets of medicinal herbs, and an angel
-of the presence instructs Moses through-
-out our book. The way for such beliefs
+of the presence instructs Moses throughout our book. The way for such beliefs
 was prepared by the statements in
 Ezekiel, Zechariah and Daniel, bearing
 on such offices of the angels. For
 Talmudic ideas on this subject see
 Jewish Encyclopaedia, i. 592-598,
 
-16. Rasdjal (Gk. MS r ἀσουήλ cor-
-rupt for ρασουήλ), i.e. sxnyi= “ accept-
-able to God.”
+16. Rasdjal (Gk. MS r ἀσουήλ corrupt for ρασουήλ), i.e. sxnyi= “ acceptable to God.”
 
 
 17. And he was
@@ -7625,8 +7023,7 @@ phrase in Eth. Enoch xii. 3, ‘“ Enoch
 the scribe”; xii. 4, xv. 1, “Scribe of
 righteousness,” but there is no certainty.
 On the other hand the clause “who
-wrote down the signs of heaven accord-
-ing to the order of their months ina
+wrote down the signs of heaven according to the order of their months ina
 book that men might know the seasons
 of the years, etc.” may be accepted as a
 partial description of Eth, Enoch Ixxii.-
@@ -7709,12 +7106,10 @@ Ixxii.-lxxxii. Moreover, the next words,
 ‘¢and the rule of the sun,” seem clearly
 to indicate such a passage as Ixxxii. 13-
 20. We have already seen that the
-first clause of ver. 22 manifestly im-
-plies such a background as Eth. Enoch
+first clause of ver. 22 manifestly implies such a background as Eth. Enoch
 xii.-xvi. Its second clause, “who had
 transgressed with the daughters of men,”
-expresses the thought that recurs fre-
-quently in these chapters. As regards
+expresses the thought that recurs frequently in these chapters. As regards
 its third, “unite themselves, so as to be
 defiled with the daughters of men,” the
 matter of it is found in xv. 3, 4, but
@@ -7743,8 +7138,7 @@ first instruction of mankind in writing
 is ascribed to a Satan. On the other
 hand, just as we should expect (see
 note on p. 34), John Malala, p. 5 (ed.
-Dindorf), attributes Enoch’s achieve-
-ments to Seth: οὗτος ὁ Σὴθ πρῶτος
+Dindorf), attributes Enoch’s achievements to Seth: οὗτος ὁ Σὴθ πρῶτος
 ἐξεῦρε γράμματα Ἑβραϊκὰ. .. καὶ τὰ
 σημεῖα τοῦ οὐρανοῦ καὶ τὰς τροπὰς τῶν
 ἐνιαυτῶν καὶ τοὺς μῆνας, Similarly
@@ -7753,8 +7147,7 @@ Cedrenus (i. 16): ὁ Σὴθ. . τὴν τῶν
 
 . καὶ τὰ ἙἙβραϊκὰ γράμματα
 συνεγράψατο, and Glycas (p. 228)
-transfers to the latter the achieve-
-ments assigned in the Σειρά above to
+transfers to the latter the achievements assigned in the Σειρά above to
 Enoch: πρῶτος ἐξεῦρεν ὁ Σὴθ. ..
 τὰ σημεῖα τοῦ οὐρανοῦ καὶ τὰς
 τροπὰς τῶν ἐνιαυτῶν καὶ τοὺς μῆνας.
@@ -7763,8 +7156,7 @@ Cf. Joel, Chron. Ὁ. 3.
 
 Wrote down. On Enoch the Scribe,
 see Eth. Enoch xii. 3, 4, and on the
-later developments of this legend con-
-sult the Slavonic Enoch xxiii, 1-3.
+later developments of this legend consult the Slavonic Enoch xxiii, 1-3.
 The rest of the verse refers mainly to
 Eth. Enoch Ixxii.-Ixxxii.
 
@@ -7777,14 +7169,12 @@ of the Zodiac.
 18. There is nothing in the Eth. or
 Slav. Enoch about the “weeks of the
 jubilees” or ‘‘the sabbaths of the
-years.” Our author is here at his be-
-loved practice of antedating an event
+years.” Our author is here at his beloved practice of antedating an event
 or usage he wishes to commend to his
 countrymen. We shall find (vii. 37,
 88, xxi. 10 note) that he similarly
 ascribes legalistic elements to Enoch,
-though there is no ground for regard-
-ing the books of Enoch as having
+though there is no ground for regarding the books of Enoch as having
 ever contained such matter.
 
 
@@ -7794,16 +7184,12 @@ ever contained such matter.
 587 A.M.
 
 
-38 THE BOOK OF JUBILEES
-
-
 recounted the weeks of the jubilees, and made known to
 them the days of the years, and set in order the months
 and recounted the Sabbaths of the years as we made (them),
 known to him. 19. And what was and what will be he
 saw in a vision of his sleep, as it will happen to the children
-of men throughout their generations until the day of judg-
-ment; he saw and understood everything, and wrote
+of men throughout their generations until the day of judgment; he saw and understood everything, and wrote
 his testimony, and placed the testimony on earth for all
 the children of men and for their generations. 20. And
 in the twelfth jubilee, in the seventh week thereof, he took
@@ -7836,8 +7222,7 @@ xcii. 1, xciii. 10, civ. 11-13, Test. XII.
 Patriarchs (see my Slavonic Hnoch, pp.
 xxiii, xxiv, 4, 5, 6, 7, 10, 20, 21, etc.).
 
-20. Cf. Gen. ν. 21. Edni is men-
-tioned in Eth. En. lxxxv. 38 where the
+20. Cf. Gen. ν. 21. Edni is mentioned in Eth. En. lxxxv. 38 where the
 name is written Edna, as Methuselah’s
 wife is named in iv. 27 of our text where
 it has the independent support of the
@@ -7864,8 +7249,7 @@ in years.” This means 294 years.
 Everything . . . in the heavens.
 These words may refer to a fuller
 tradition than is found in the Eth. Enoch
-—perhaps to something which subse-
-quently became the groundwork of the
+—perhaps to something which subsequently became the groundwork of the
 Slav. Enoch, as is the case in regard to
 the tradition in ver. 23.
 
@@ -7875,9 +7259,6 @@ Ixvii. 2.
 
 
 CHAPTER IV. 19-26
-
-
-39
 
 
 there he writes down the condemnation and judgment of
@@ -7900,8 +7281,7 @@ burnt the incense of the sanctuary, (even) sweet spices,
 acceptable before the Lord on the Mount.
 
 
-There he writesdown . . . the wicked-
-ness of the children of men. Enoch is
+There he writesdown . . . the wickedness of the children of men. Enoch is
 here the Scribe of God. See iv. 23,
 x. 17. This idea may be referred to in
 the Eth. En. xii. 8, 4; it is clearly
@@ -7920,8 +7300,7 @@ men, etc, See x. 17.
 Until the day of condemnation.
 Cf. iv. 19.
 
-25. Incense of the sanctuary, or “ in-
-cense in the sanctuary.”
+25. Incense of the sanctuary, or “ incense in the sanctuary.”
 
 Sweet spices acceptable before the Lord
 on the Mount. bcd = ‘acceptable
@@ -7939,8 +7318,7 @@ On the Mount. So a bed read
 South).” This mountain may be the
 mountain of the Hast. See next note.
 
-26. Three of these places are con-
-nected with three decisive turning-points
+26. Three of these places are connected with three decisive turning-points
 or periods in the history of mankind :
 the Garden of Eden as the first abode
 of man; Mount Sinai as the place
@@ -7966,10 +7344,8 @@ thereon (Gen. xii. 7, xxxiii. 20) just as
 sacrifices had been offered by Adam in
 Eden, according to iii. 27 of our text
 and the Talmud, on Sinai by Moses and
-on Zion by Israel. But as such an in-
-terpretation would imply a Samaritan
-authorship it is thereby made im-
-possible ; for the textual evidence is
+on Zion by Israel. But as such an interpretation would imply a Samaritan
+authorship it is thereby made impossible ; for the textual evidence is
 itself decisive against such authorship.
 The mention, moreover, of Zion tells in
 the same direction. There is some
@@ -7991,8 +7367,7 @@ Die Schatzhihle and the Book of Adam
 and Eve, Seth and his posterity were
 commanded by Adam to live on the
 Mount close to Eden and not to descend
-to the plain and mingle with the de-
-scendants of Cain. Adam’s command
+to the plain and mingle with the descendants of Cain. Adam’s command
 was observed till the days of Jared.
 This Mount could rightly be described
 as the Mount of the East. Or again
@@ -8004,9 +7379,6 @@ mountain which is described as the
 
 
 701-707 A.M.
-
-
-40 THE BOOK OF JUBILEES
 
 
 Lord has four places on the earth, the Garden of Eden, and
@@ -8052,8 +7424,7 @@ sixty-seven when he married.
 Father's brother, Emended as in 15,
 
 Lamech. The year of Lamech’s birth
-is not mentioned, but it can be deter-
-mined from the date of Methuselah’s
+is not mentioned, but it can be determined from the date of Methuselah’s
 marriage furnished by the Samaritan
 Chronicle. According to it Methuselah
 was sixty-seven when he married, and
@@ -8097,8 +7468,7 @@ Enoshi.
 
 This one will comfort me. “This
 one” (ze emended from za=which),
-Our text follows Gen. v. 29 in attribut-
-ing to the name Noah (n3) the meaning
+Our text follows Gen. v. 29 in attributing to the name Noah (n3) the meaning
 belonging to Menachem (on). The
 Book of Jashar 13dsays that Methuselah
 
@@ -8145,8 +7515,7 @@ p. 21), that the body of Abel was not
 buried till that of Adam was, already
 existed.
 
-30. Cf. Gen. ii. 17. This interpreta-
-tion of a day as a thousand years was
+30. Cf. Gen. ii. 17. This interpretation of a day as a thousand years was
 current among the Jews. Cf. Ber. rabba
 19, 22. 2 Pet. iii, 8 μία ἡμέρα παρὰ
 Κυρίῳ ὡς χίλια ἔτη. Barnab. Ep. xv.
@@ -8156,8 +7525,7 @@ the application of this principle of
 interpretation to the six days creation
 and the seventh of rest issues in the
 doctrine of the Millenium. Justin
-Martyr (Dial. cum Tryph. \xxxi.) ap-
-parently quotes from the text: ws γὰρ
+Martyr (Dial. cum Tryph. \xxxi.) apparently quotes from the text: ws γὰρ
 τῷ ᾿Αδὰμ εἴρητο, ὅτι ἣ δ᾽ ἂν ἡμέρᾳ φάγῃ
 ἀπὸ τοῦ ξύλου, ἐν ἐκείνῃ ἀποθανεῖται,
 
@@ -8165,8 +7533,7 @@ parently quotes from the text: ws γὰρ
 ἔγνωμεν αὐτὸν μὴ ἀναπληρώσαντα χίλια
 ἔτη. Συνήκαμεν καὶ τὸ εἰρήμενον, ὅτι
 ἡμέρα Κυρίου ὡς χίλια ἔτη, εἰς τοῦτο
-συνάγειν. See also Lactantius, Insti-
-tution. vii. 14.
+συνάγειν. See also Lactantius, Institution. vii. 14.
 
 31-32. Cain was killed ... in the
 same year, etc. In Syncellus, 1. 19,
@@ -8208,9 +7575,6 @@ between }}Ρ and mp.
 1212 A.M.
 
 
-42 THE BOOK OF JUBILEES
-
-
 of his house, and he was killed by its stones; for with a
 stone he had killed Abel, and by a stone was he killed in
 righteous judgment. 32. For this reason it was ordained
@@ -8235,8 +7599,7 @@ the primitive human law of retaliation
 (eye for eye, tooth for tooth, hand for
 hand, etc., Exod. xxi. 24; Lev. xxiv.
 19) described as a law of the divine
-procedure. This law of exact retribu-
-tion is not merely an enactment of
+procedure. This law of exact retribution is not merely an enactment of
 human justice, our author declares ; it
 is observed by God in his government
 of the world.
@@ -8247,17 +7610,14 @@ historical examples in 2 Macc. v. 10,
 where speaking of Jason the author
 writes: ὁ πλῆθος ἀτάφων ἐκρίψας ἀπέν-
 θητος ἐγενήθη, καὶ κηδίας οὐδ᾽ ἥστινος
-νον μετέσχεν. Similarly, it is re-
-counted of Nicanor (xv. 32, 33) that
+νον μετέσχεν. Similarly, it is recounted of Nicanor (xv. 32, 33) that
 he was punished in those members with
 which he had sinned. Cf. also xiii. 8.
-In this respect 2 Mace. therefore repre-
-sents truly this second-cent. B.c. doctrine
+In this respect 2 Mace. therefore represents truly this second-cent. B.c. doctrine
 of retribution. Taken crassly and
 mechanically the above law is without
 foundation ; but spiritually conceived
-it represents the profound truth enunci-
-ated repeatedly in the N.T. Thus in
+it represents the profound truth enunciated repeatedly in the N.T. Thus in
 Gal. vi. 7 ‘whatsoever a man soweth,
 that shall he also reap”; Col. iii, 25
 ‘*he that doeth wrong shall receive
@@ -8277,9 +7637,7 @@ refuses to part with an offending eye
 or hand will finally lose his whole body
 in Gehenna. See note on xlviii. 14.
 
-According to Beer this halachic in-
-terpretation of Exod. xxi. 24 is un-
-known to traditional Judaism, which
+According to Beer this halachic interpretation of Exod. xxi. 24 is unknown to traditional Judaism, which
 enacts that the murderer is to be slain
 with the sword.
 
@@ -8294,8 +7652,7 @@ Brother. Emended as in ver. 15.
 
 
 Shem . Ham . Japhet.
-Cf. x. 14, where again Shem is repre-
-sented as the eldest. We should observe
+Cf. x. 14, where again Shem is represented as the eldest. We should observe
 here that our author thus understood
 aright Svan np ons in Gen. x. 21 as
 ‘*(Shem) . . . the elder brother of
@@ -8385,9 +7742,6 @@ EKvery imagination, ete. Gen. vi. 5.
 =“ He would destroy.”
 
 
-44 THE BOOK OF JUBILEES
-
-
 earth which I have created.” 5. But Noah found grace
 before the eyes of the Lord. 6. And against the angels
 whom He had sent upon the earth, He was exceedingly
@@ -8414,15 +7768,13 @@ under heaven.
 4. Which I have created. Emended
 from ab which=‘He had created.”
 Corruption could have arisen from
-confusion of ἔκτισα and ἔκτισε, as Litt-
-mann has pointed out. cd = “was
+confusion of ἔκτισα and ἔκτισε, as Littmann has pointed out. cd = “was
 created.” Possibly we should keep
 to ὁ throughout, and translate ‘‘ He
 would destroy... which He had
 created.” Cf. vi. 20.
 
-10. Until the day of the great con-
-demnation, t.¢., the day of the final
+10. Until the day of the great condemnation, t.¢., the day of the final
 judgment. See iv, 19, 24, Cf. Eth.
 Enoch x. 18. The intervening period,
 according to Eth. Enoch x. 12, is
@@ -8445,8 +7797,7 @@ this idea: ὁ δὲ Θεὸς τοῦτον μὲν τῆς
 
 διαφθεῖραι καὶ ποιῆσαι “γένος ἕτερον
 πονηρίας καθαρόν. See also Philo, De
-Vita Moses, ii. 12. But with the subse-
-quent corruption of all the descendants
+Vita Moses, ii. 12. But with the subsequent corruption of all the descendants
 of Noah till the time of Abraham and
 the universal apostasy of the Gentiles
 according to ourauthor, suchastatement
@@ -8460,12 +7811,10 @@ ver. 10. Thus the time of the verbs
 wrong andwe should have“shall destroy,”
 “shall be” and “shall make.” “Judged”’
 must also be rendered ‘‘shall have
-judged,” but this last does not necessi-
-tate a change in the text of either the
+judged,” but this last does not necessitate a change in the text of either the
 Ethiopic or Hebrew. The text therefore
 should be translated: “Until the day
-of the great condemnation, when judg-
-ment shall be executed on all who have
+of the great condemnation, when judgment shall be executed on all who have
 corrupted their ways and their works
 before the Lord, 11. And He shall
 destroy (them) all from their places,
@@ -8491,8 +7840,7 @@ nothing in heaven or on earth, or in light or in darkness, or
 in Sheol or in the depth, or in the place of darkness (which
 is not judged); and all their judgments are ordained and
 written and engraved. 15. In regard to all He will judge,
-the great according to his greatness, and the small accord-
-ing to his smallness, and each according to his way. 16.
+the great according to his greatness, and the small according to his smallness, and each according to his way. 16.
 And He is not one who will regard the person (of any),
 nor is He one who will receive gifts, if He says that He
 will execute judgment on each: if one gave everything
@@ -8501,27 +7849,24 @@ person (of any), nor accept anything at his hands, for He is
 a righteous judge. [17. And of the children of Israel it has
 
 
-whom He shall not have judged accord-
-ing to all their wickedness, 12. And
+whom He shall not have judged according to all their wickedness, 12. And
 He shall make for all His works, etc.”
 This corruption of the tenses may
 possibly have arisen in the Ethiopic, or
-in the Greek, but this is very im-
-probable, as it involves so many changes.
+in the Greek, but this is very improbable, as it involves so many changes.
 On the other hand it is easy to explain
 the false text as having originated in
 a mistranslation of the Hebrew. The
 above passage=mvyna Svan p17 or sy
 » oss ἸΠΦΡΙΟῚ a7 nenwa wwe Ὁ123 yawn
-x>we tnx pap any xd. ads pax
+x)we tnx pap any xd. ads pax
 mwy).-. py. Here we have to suppose
 that the Greek translator failed to grasp
 the sense of the passage and see that
 vaxm and the other verbs followed
 
 
-closely on myyna, and accordingly ren-
-dered them merely as ordinary perfects.
+closely on myyna, and accordingly rendered them merely as ordinary perfects.
 See Driver, Hebrew Tenses,? p. 165.
 
 12. Mew and righteous nature.
@@ -8537,8 +7882,7 @@ Otherwise abc, “from their path.”
 16. Cf. xl. 8; Deut. x. 17; 2 Chron.
 5 ob oe
 
-17-18. Interpolated or else trans-
-posed here from xxxiv. 18-19 where the
+17-18. Interpolated or else transposed here from xxxiv. 18-19 where the
 historical occasion of this feast is given.
 
 17. Probably based on Jer. xxxvi.
@@ -8548,17 +7892,12 @@ historical occasion of this feast is given.
 See
 
 
-46 THE BOOK OF JUBILEES
-
-
-been written and ordained : If they turn to Him in righteous-
-ness, He will forgive all their transgressions and pardon all
+been written and ordained : If they turn to Him in righteousness, He will forgive all their transgressions and pardon all
 their sins. 18. It is written and ordained that He will
 show mercy to all who turn from all their guilt once each
 year.] 19. And as for all those who corrupted their ways
 and their thoughts before the flood, no man’s person was
-accepted save that of Noah alone; for his person was ac-
-cepted in behalf of his sons, whom (God) saved from the
+accepted save that of Noah alone; for his person was accepted in behalf of his sons, whom (God) saved from the
 waters of the flood on his account; for his heart was
 righteous in all his ways, according as it was commanded
 regarding him, and he had not departed from aught that
@@ -8578,19 +7917,16 @@ month, we, the Day of Atonement.
 In Lev. xvi. in spite of the terms in
 verses 16, 21, the sin-offering atoned
 only for sins committed in error (11),
-ἀκουσίως), 1.6. accidentally or involun-
-tarily (Lev. iv. 2, 18, 22, etc.—these
+ἀκουσίως), 1.6. accidentally or involuntarily (Lev. iv. 2, 18, 22, etc.—these
 are the ἀγνοήματα in! Heb, ix. 7), not
 for those’ committed deliberately and
 defiantly (nn 13, Num. xv. 30). This
 is the view enforced in the Mishnic
 treatise Yomea viii. 9: “Ifa man says I
 will sin, and then repent... Heaven
-does not give him the means of practis-
-ing repentance ; and if he says, ‘I will
+does not give him the means of practising repentance ; and if he says, ‘I will
 sin and the Day of Atonement will
-bring atonement,’ the Day of Atone-
-ment will bring no atonement.” On
+bring atonement,’ the Day of Atonement will bring no atonement.” On
 the other hand both in our text and in
 the treatise Shebwoth i. 6 it is taught
 that on the Day of Atonement sins of
@@ -8606,21 +7942,17 @@ and even those that were to be visited
 
 
 with the death penalty by God or human
-judgment.” And yet we must discrimi-
-nate between the teaching of our text
+judgment.” And yet we must discriminate between the teaching of our text
 and of the treatise Shebw'oth in favour of
 the former. In the latter the ceremonial
 was of the nature of an opus operatum.
-In our text, on the other hand, re-
-pentance is insisted on: God’s mercy
-is not to be won on the Day of Atone-
-ment save by those who turn (1312)
+In our text, on the other hand, repentance is insisted on: God’s mercy
+is not to be won on the Day of Atonement save by those who turn (1312)
 from their sins. Thus though our
 text stands midway between the doctrine
 prescribed in Ley. xvi. (also in the
 treatise Y’oma) and thetreatise Shebu oth,
-with the former it prescribes as neces-
-sary to atonement the temper of true
+with the former it prescribes as necessary to atonement the temper of true
 repentance: with the latter it maintains
 the efficacy of the atonement for sins of
 every description.
@@ -8733,13 +8065,9 @@ Cf.
 1809 Α.Μ.
 
 
-48 THE BOOK OF JUBILEES
-
-
 mountains of Ararat. 29. And (on the new moon)
 in the fourth month the fountains of the great deep
-were closed and the flood-gates of heaven were re-
-strained; and on the new moon of the seventh month all
+were closed and the flood-gates of heaven were restrained; and on the new moon of the seventh month all
 the mouths of the abysses of the earth were opened, and
 the water began to descend into the deep below. 30. And
 on the new moon of the tenth month the tops of the
@@ -8768,8 +8096,7 @@ sign, 15-16.
 Ark rested on a great mountain in
 Armenia called Baris above Minyas,
 Professor Sayce (Journal of Royal
-Asiatic Soc, xiv. p. 889 note) con-
-jectures that this is the mountain
+Asiatic Soc, xiv. p. 889 note) conjectures that this is the mountain
 named Lubar in our text, seeing that
 both are said by Epiphanius and
 Syncellus (see note on vii. 1) to be on the
@@ -8801,8 +8128,7 @@ lxxxix. 7.
 
 31. On the seventeenth day in the
 second month the earth was dry. In
-Gen. viii. 14 it is on the seven-and-
-twentieth day that the earth was dry.
+Gen. viii. 14 it is on the seven-andtwentieth day that the earth was dry.
 Part of this verse and the next is quoted
 in Lagarde’s LXX MS z on Gen. viii.
 14: ἐν τῷ δευτέρῳ μηνὶ ἑπτὰ καὶ
@@ -8830,8 +8156,7 @@ VI. And on the new moon of the third month he went
 forth from the ark, and built an altar on that mountain.
 2. And he made atonement for the earth, and took a kid
 and made atonement by its blood for all the guilt of the
-earth; for everything that had been on it had been de-
-stroyed, save those that were in the ark with Noah. 8.
+earth; for everything that had been on it had been destroyed, save those that were in the ark with Noah. 8.
 And he placed the fat thereof on the altar, and he took
 an ox, and a goat, and a sheep and kids, and salt, and a
 turtle-dove, and the young of a dove, and placed a burnt
@@ -8885,8 +8210,7 @@ vices and murder pollute it.
 etc.”
 
 Mingledwithoil,and... wine. These
-elements are also additions to the state-
-ment in Gen. viii. 20 in conformity
+elements are also additions to the statement in Gen. viii. 20 in conformity
 with later ritual. Cf. Exod. xxix. 40;
 Lev. ii. 2-5.
 
@@ -8910,9 +8234,6 @@ viii, 22.
 
 
 Gen.
-
-
-50 THE BOOK OF JUBILEES
 
 
 should not change their order, nor cease for ever. 5. “And
@@ -8971,8 +8292,7 @@ Dial. ὁ. Tryph. 20 βουλομένου αὐτοῦ
 εἰπεῖν ws λάχανα χόρτου . .. ἐπεί
 τινα τῶν χόρτων οὐκ ἐσθίομεν οὕτω καὶ
 διαστολὴν ἔκτοτε τῷ Νῶε διεστάλθαι
-φατέ. According to Goldfahn (Monats-
-schrift fiir Gesch. ἃ. Jud. 1878, 57 sq.)
+φατέ. According to Goldfahn (Monatsschrift fiir Gesch. ἃ. Jud. 1878, 57 sq.)
 the interpretation here attributed to
 
 
@@ -8996,8 +8316,7 @@ out before ’ah$é¥=I will require.
 the covenant as of perpetual obligation
 as regards the non-eating of blood
 (ver. 10). Because this ordinance
-was of perpetual obligation, it was re-
-enacted on Mount Sinai ; but, whereas
+was of perpetual obligation, it was reenacted on Mount Sinai ; but, whereas
 in Noah’s covenant it had been brought
 forward only on its negative side, in
 the Mosaic legislation it was enforced
@@ -9031,8 +8350,7 @@ And for this law there is no limit of days, for it is for ever.
 They shall observe it throughout their generations, so that
 they may continue supplicating on your behalf with blood
 before the altar; every day and at the time of morning and
-evening they shall seek forgiveness on your behalf perpetu-
-ally before the Lord that they may keep it and not be
+evening they shall seek forgiveness on your behalf perpetually before the Lord that they may keep it and not be
 rooted out. 15. And He gave to Noah and his sons a sign
 that there should not again be a flood on the earth. 16.
 He set His bow in the cloud for a sign of the eternal
@@ -9087,9 +8405,6 @@ the bow in the clouds.
 A.M.
 
 
-52 THE BOOK OF JUBILEES
-
-
 to destroy it all the days of the earth. 17. For this reason
 it is ordained and written on the heavenly tables, that they
 should celebrate the feast of weeks in this month once a year,
@@ -9127,8 +8442,7 @@ xvi. 8; Jos. Ant. 111. 10. 6.
 i. 1) we may reasonably assign the
 promulgation of the Noachic covenant
 to the same date. Later Judaism
-(Maimonides, More Neb. 41) held Pente-
-cost to celebrate the giving of the Law
+(Maimonides, More Neb. 41) held Pentecost to celebrate the giving of the Law
 on Sinai, and designated this day as
 “the day of the giving of the Law”
 (an jn ov). So our author (cf. i. 1).
@@ -9164,8 +8478,7 @@ of the feast of weeks and of the
 covenant with Noah is emphasised.
 
 19. But Abraham. For “ but (ada)
-Abraham” (dcd), be read “and Abra-
-ham alone.”
+Abraham” (dcd), be read “and Abraham alone.”
 
 Observed it. αὖ omit “it.”
 
@@ -9198,8 +8511,7 @@ celebrate it.
 
 law, in that which I have written for thee, that thou shouldst
 celebrate it in its season, one day in the year, and I explained
-to thee its sacrifices that the children of Israel should remem-
-ber and should celebrate it throughout their generations in
+to thee its sacrifices that the children of Israel should remember and should celebrate it throughout their generations in
 
 
 this month, one day in every year.
@@ -9207,8 +8519,7 @@ this month, one day in every year.
 
 Exod. xxiii. 16, »yp7 an. In the latter
 respect it was a feast of first-fruits
-as in the text, or the day of first-
-fruits, Num, xxviii. 26, o-waa7 of, ἡ
+as in the text, or the day of firstfruits, Num, xxviii. 26, o-waa7 of, ἡ
 ἡμέρα τῶν νέων. Why this festival
 should be said to be ‘‘of a double
 nature” I do not see.
@@ -9223,8 +8534,7 @@ Pentateuch. See note on i. 26.
 One day in the year. Eppstein
 (Revue des Htucles juives, xxii. 7-8)
 suggests that ‘one day” here=tudépa
-μία Ξε nx ov, which in its original con-
-text meant “the first day,” 7.e. of the
+μία Ξε nx ov, which in its original context meant “the first day,” 7.e. of the
 week, Sunday. Thus Pentecost was to
 fall on the same day every year, a
 Sunday, the first of the week. If this
@@ -9235,8 +8545,7 @@ is also the first day of the week, and
 that the author of our book interpreted
 the term Sabbath in its strict sense as
 the weekly Sabbath (see note on xv. 1).
-For somewhat similar directions re-
-garding the Passover see xlix. 7, 8.
+For somewhat similar directions regarding the Passover see xlix. 7, 8.
 
 Its sacrifices, or “the sacrifices.”
 
@@ -9267,8 +8576,7 @@ passage in the Rosh ha-Shanah i. 1:
 of government and of festivals. On
 1st Ellul, the year of tithing of
 beasts according to R. Eliezer and
-R. Simeon. On 1st Tisri, the calen-
-dar year, the Sabbatical year and
+R. Simeon. On 1st Tisri, the calendar year, the Sabbatical year and
 jubilee year, and (year) of plants and
 vegetables. On Ist Sebat, year of
 blooming of trees according to school
@@ -9285,9 +8593,7 @@ and others denied its authenticity on
 account of them. Returning now to
 our text and the parallel passages in
 the Eth.{Enoch, we observe that these
-four days have a religious signifi-
-cance in the former, but an astro-
-nomical in the latter. In Eth. En.
+four days have a religious significance in the former, but an astronomical in the latter. In Eth. En.
 Ixxv. 1, 2, Ixxxii. 11 they are called
 “leaders,” because they lead in the
 four quarters of the year. They are
@@ -9300,14 +8606,10 @@ equinox (Ist of 7th month), and the
 winter solstice (1st of 10th month).
 These four days, when added to 360
 (i.e, 12 months of 30 days each, Eth.
-Enoch lxxxii. 11), constitute an invari-
-able year of 364 days (cf. our text v.
+Enoch lxxxii. 11), constitute an invariable year of 364 days (cf. our text v.
 82, 38; Eth. Enoch Ixxv. 2, Ixxxii.
 11). On the meaning of this year of 364
 days see notes on verses 29-80, 32.
-
-
-54 THE BOOK OF JUBILEES
 
 
 new moon of the first month, and on the new moon
@@ -9327,8 +8629,7 @@ on the new moon of the seventh month all the mouths of the
 abysses of the earth were opened, and the waters began to
 descend into them, 27. Andon the new moon of the tenth
 month the tops of the mountains were seen, and Noah was
-glad. 28. And on this account he ordained them for him-
-self as feasts for a memorial for ever, and thus are they
+glad. 28. And on this account he ordained them for himself as feasts for a memorial for ever, and thus are they
 
 
 the seasons in the four divisions of the year.
@@ -9383,8 +8684,7 @@ viii. 2; Eth. Enoch Ixxxix. 7, 8.
 27. See notes on ver. 28. Cf. Gen.
 viii. 5,
 
-29. Placed. We have here the ini-
-perfect ; hence literally =“ they place”
+29. Placed. We have here the iniperfect ; hence literally =“ they place”
 or “they were placing.”
 
 On the heavenly tables. Here the
@@ -9396,8 +8696,7 @@ iii, 10.
 According to verses 28-30 the year
 consists of four seasons and each season
 of three months or thirteen weeks.
-The year has, therefore, on this com-
-putation 12 months of 80 days each
+The year has, therefore, on this computation 12 months of 80 days each
 
 
 CHAPTER VI. 24-31 55
@@ -9449,11 +8748,9 @@ juives, xxii. 10-18) offers the attractive
 suggestion that in Jubilees two kinds
 of years are used: a civil year of 12
 months with eight of 80 days each and
-four of 31 days each ; and an ecclesi-
-astical year of 18 months of 28 days
+four of 31 days each ; and an ecclesiastical year of 18 months of 28 days
 each. Our author, writes Eppstein,
-fixed the dates of the festivals accord-
-ing to the ecclesiastical year, and by
+fixed the dates of the festivals according to the ecclesiastical year, and by
 such a year managed to make each
 week, each month and each year to
 begin on Sunday and terminate on the
@@ -9462,8 +8759,7 @@ all the festivals fell on Sunday save
 that of the Day of Atonement, and all
 the chronology took a regular and
 uniform character from the fact that
-everything had 7 for its point of de-
-parture. Thus the week had 7
+everything had 7 for its point of departure. Thus the week had 7
 days: the month 4x7=28: the year
 52x7=3864: the year-week 7 years
 and the jubilee 7x7 years. Further,
@@ -9471,10 +8767,7 @@ the date assigned by our author to the
 
 
 31. Thus it is engraven and ordained on
-And there is no neglecting (this com-
-
-
-feast of weeks, ae. Sivan 15, certainly
+And there is no neglecting (this comfeast of weeks, ae. Sivan 15, certainly
 supports Eppstein’s view. This date
 can only be arrived at by reckoning
 the 7 weeks from Nisan 22. Thus the
@@ -9490,10 +8783,8 @@ falls on the 15th of Sivan as in our
 author. Thus the date presupposes
 months of 28 days. And since the
 mouths consisted of 28 days each, there
-must have been 13 in this ecclesiasti-
-cal year, as it consisted of 364 days.
-Finally, if Eppstein’s view on the inter-
-pretation of vi. 22 is correct, it serves
+must have been 13 in this ecclesiastical year, as it consisted of 364 days.
+Finally, if Eppstein’s view on the interpretation of vi. 22 is correct, it serves
 to confirm the above view; for if the
 year begins on Sunday, the passover
 on Nisan falls on the Sabbath: the
@@ -9526,13 +8817,7 @@ Linguistically, this is possible. 11 so,
 our author would be here protesting
 
 
-56
-
-
 mandment) for a single year or from year to year.
-
-
-THE BOOK OF JUBILEES
 
 
 32.
@@ -9543,8 +8828,7 @@ the years according to this reckoning—three hundred and
 
 
 against such systems of intercalating
-days in the lunar year to make it syn-
-chronise with the solar, as we find in
+days in the lunar year to make it synchronise with the solar, as we find in
 Eth. Enoch Ixxiv.-lxxv., and the later
 systems of the Pharisees. But seeing
 that the same word which I render
@@ -9571,8 +8855,7 @@ the Slav. Enoch, that its author in
 xvi. 8 was familiar with the Metonic
 cycle. Why then did these writers,
 notwithstanding their knowledge of
-the Greek systems, advocate an im-
-possible solar year of 364 days?
+the Greek systems, advocate an impossible solar year of 364 days?
 
 
 I think their action in this matter
@@ -9580,8 +8863,7 @@ must be attributed to dogmatic
 prejudice. If they regarded it as
 
 
-vital to the validity of their festi-
-vals that they should be celebrated
+vital to the validity of their festivals that they should be celebrated
 not only on the same day of the month
 but also on the same day of the week
 from year to year, it seemed possible
@@ -9612,12 +8894,9 @@ of an impossible solar year of 12
 months of 364 days in all and of an
 ecclesiastical year of 13 months of the
 same number of days consisting of an
-arbitrary succession of hebdomads in-
-dependent of the phases of the moon,
+arbitrary succession of hebdomads independent of the phases of the moon,
 they seemed to have succeeded in
-synchronising the civil and ecclesiasti-
-cal years without resorting to in-
-tercalary days. But this year of 364
+synchronising the civil and ecclesiastical years without resorting to intercalary days. But this year of 364
 days goes buck in all probability to the
 Exile, It will be observed that our text
 brings forward this disquisition on the
@@ -9725,12 +9004,9 @@ ignorant of the astronomical data which
 necessarily determined them ; and, as a
 civil year of 360 days was current
 both in Babylon and Egypt (in the
-former country corrected by intercala-
-tion), they may not have known any
+former country corrected by intercalation), they may not have known any
 irrefutable grounds against the adoption
-of the solar year of 364 days, authentic-
-ated as it was by the priestly compila-
-tion of the Exile.
+of the solar year of 364 days, authenticated as it was by the priestly compilation of the Exile.
 
 88, 34. Cf. Eth. Enoch Ixxxii. 4-6.
 
@@ -9738,15 +9014,11 @@ tion of the Exile.
 Bracketed as a dittography.
 
 Neglect. This word may also be
-rendered “omit,” “pass by,” ‘“trans-
-gress”’ (see note on ver. 31).
+rendered “omit,” “pass by,” ‘“transgress”’ (see note on ver. 31).
 
 35. Not of my own devising. Text
 = 259 xb, Num. xvi. 28. Cf. Apoc.
 Bar. xiv. 11,
-
-
-58 THE BOOK OF JUBILEES
 
 
 there will be those who will assuredly make observations of the
@@ -9760,8 +9032,7 @@ the holy; for they will go wrong as to the months and
 sabbaths and feasts and jubilees. 38. For this reason I
 command and testify to thee that thou mayst testify to
 them; for after thy death thy children will disturb (them),
-so that they will not make the year three hundred and sixty-
-four days only, and for this reason they will go wrong as to
+so that they will not make the year three hundred and sixtyfour days only, and for this reason they will go wrong as to
 the new moons and seasons and sabbaths and festivals, and
 
 
@@ -9793,8 +9064,7 @@ lordship of the sun in such matters.
 Thus our book seems to be a polemic
 against the teaching of Eth. Enoch
 Ixxiii.-lxxiv. if we accept the text in xxiv.
-12 where we have a statement in irre-
-concilable conflict with our text: “ And
+12 where we have a statement in irreconcilable conflict with our text: “ And
 the moon brings in all the years exactly
 so that their position is not prematurely
 advanced or delayed by ἃ single day
@@ -9839,8 +9109,7 @@ not follow the guidance of the sun.
 abe wrongly
 
 
-New moons. This could also be trans-
-lated ‘‘beginnings of the months.”
+New moons. This could also be translated ‘‘beginnings of the months.”
 See last clause of last verse.
 
 
@@ -10003,8 +9272,7 @@ sons’ sons the ordinances and commandments, and all the
 judgments that he knew, and he exhorted his sons to
 observe righteousness, and to cover the shame of their flesh,
 and to bless their Creator, and honour father and mother,
-and love their neighbour, and guard their souls from forni-
-cation and uncleanness and all iniquity. 21. For owing to
+and love their neighbour, and guard their souls from fornication and uncleanness and all iniquity. 21. For owing to
 these three things came the flood upon the earth, namely,
 
 
@@ -10065,8 +9333,7 @@ said that Noah, ofa δίκαιος ὧν Kal τοὺς
 
 Cover the shame, ete. Cf. iii. 31.
 
-21. These three things, that is ‘‘ forni-
-cation, uncleanness and all iniquity”
+21. These three things, that is ‘‘ fornication, uncleanness and all iniquity”
 which are mentioned in the preceding
 verse (see xx. 5, xxiii, 14). Ber.
 rabba 81 assigns idolatry, impurity and
@@ -10079,25 +9346,19 @@ Johanan says in the name of R.
 Simeon Ὁ. Jehozadak . . . If one says
 
 
-62 THE BOOK OF JUBILEES
-
-
 owing to the fornication wherein the Watchers against the
 law of their ordinances went a whoring after the daughters
 of men, and took themselves wives of all which they chose:
 and they made the beginning of uncleanness. 22. And
 they begat sons the Ndphidim, and +they were all unlikef,
 and they devoured one another: and the Giants slew the
-Naphil, and the Naphil slew the Elj6, and the ἘΠ] man-
-kind, and one man another. 23. And every one sold
+Naphil, and the Naphil slew the Elj6, and the ἘΠ] mankind, and one man another. 23. And every one sold
 himself to work iniquity and to shed much blood, and the
 earth was filled with iniquity. 24. And after this they
 sinned against the beasts and birds, and all that moves and
 walks on the earth: and much blood was shed on the earth,
 and every imagination and desire of men imagined vanity
-and evil continually. 25. And the Lord destroyed every-
-thing from off the face of the earth; because of the wicked-
-ness of their deeds, and because of the blood which they
+and evil continually. 25. And the Lord destroyed everything from off the face of the earth; because of the wickedness of their deeds, and because of the blood which they
 had shed in the midst of the earth He destroyed everything.
 26. “ And we were left, I and you, my sons, and everything
 that entered with us into the ark, and behold I see your
@@ -10131,10 +9392,7 @@ vi. 4), καὶ τοῖς Ναφηλεὶμ ἐγεννήθησαν
 They were . unlike.t This
 seems corrupt. We might emend
 {jetmasalfi into jetmdshatfi=‘‘ they
-plundered one another,” or into jet-
-
-
-ba’as (Eth. Enoch xv. 11)=“ they
+plundered one another,” or into jetba’as (Eth. Enoch xv. 11)=“ they
 strove together”: cf. xxiii. 19.
 
 23. Sold himself to work iniquity.
@@ -10166,8 +9424,7 @@ the Book of Noah to its new context.
 From this verse to the end of the
 chapter Noah speaks in the first person.
 See ver. 20 (note). In x. 1-15 we
-have another excerpt from this Apo-
-calypse.
+have another excerpt from this Apocalypse.
 
 
 CHAPTER VII. 22-31 63
@@ -10221,16 +9478,14 @@ ver. 25.
 28. Gen. ix. 4, 6; Lev. vii. 27.
 
 29. Into Sheol will they go, And into
-the place of condemnation will they de-
-scend, And into the darkness. Cf. xxii.
+the place of condemnation will they descend, And into the darkness. Cf. xxii.
 22. This passage seems to have been
 used by Eth. Enoch ciii. 7, 8, “their souls
 will be made to descend into Sheol. . .
 And into darkness... and a burning fire
 where there is grievous condemnation.”
 
-30. Upon you. By an easy emenda-
-tion we could read among you.
+30. Upon you. By an easy emendation we could read among you.
 
 
 See
@@ -10239,22 +9494,17 @@ See
 Covering that which has been shed.
 This prescript of later legislation is here
 carried back to Noah: cf. Lev. xvii.
-18 ; Ezek. xxiv. 7. We must be care-
-ful to render “covering” and not
+18 ; Ezek. xxiv. 7. We must be careful to render “covering” and not
 ‘‘burying.” The Ethiopic word is
 dafana = καλύπτειν = mp3 and not qabara
 Ξε θάπτειν Ξ . Singer (p. 200)
 bases one of his arguments for the
 Jewish Christian authorship of the
-book on the wrong rendering “bury-
-ing.” Chullin ii. 9 censures the latter
+book on the wrong rendering “burying.” Chullin ii. 9 censures the latter
 as Jewish Christian.
 
 
 81. Eats with blood. Lev. xix. 26.
-
-
-64 THE BOOK OF JUBILEES
 
 
 eat blood before you: cover the blood, for thus have I been
@@ -10300,21 +9550,18 @@ observe that in ver. 39 Enoch is called
 that verses 20-39 are Noah’s words,
 as “a preacher; of righteousness” ;
 if we note further the words saved me
-from... the flood, we shall not un-
-reasonably conclude that this book was
+from... the flood, we shall not unreasonably conclude that this book was
 known to the writer of 2 Peter ii. 5
 “saved Noah the eighth person, a
 preacher of righteousness, bringing in
-the flood upon the world of the un-
-godly.”
+the flood upon the world of the ungodly.”
 
 
 Num.
 
 
 36. In this verse we ought, if the
-text were authentic, to have an inter-
-pretation of the law enunciated in Lev.
+text were authentic, to have an interpretation of the law enunciated in Lev.
 xix, 23-24. According to this law of
 the Priests’ Code the fruit of a tree
 was not to be used for the first three
@@ -10352,8 +9599,7 @@ uprightness, and ye shall be righteous, and all that you plant
 will prosper. 38. For thus did Enoch, the father of your
 father command Methuselah, his son, and Methuselah his son
 Lamech, and Lamech commanded me all the things which his
-fathers commanded him. 39. And I also will give you com-
-mandment, my sons, as Enoch commanded his son in the first
+fathers commanded him. 39. And I also will give you commandment, my sons, as Enoch commanded his son in the first
 
 
 further the same subject, and ordain
@@ -10386,8 +9632,7 @@ Samaritans, the Caraite Jews and Ibn
 Ezra held the view set forth in the
 text. In any case, the teaching of our
 text does not diverge from that of later
-Judaism as much as the various regula-
-tions on this subject in the different
+Judaism as much as the various regulations on this subject in the different
 codes of the Pentateuch (see Hastings,
 Bible Dict. ii, 10-11).
 
@@ -10405,8 +9650,7 @@ the context is against this.
 
 87, And in the fifth year, At the
 close of these words I have marked a
-lacuna, The text should have pro-
-ceeded to enunciate the right of eating
+lacuna, The text should have proceeded to enunciate the right of eating
 the fruit of this year as in Lev. xix. 25,
 whereas it proceeds to speak of the
 year of release described in Deut. xv.
@@ -10420,17 +9664,14 @@ fallow (Exod. xxiii. 11) and of remitting
 a debt (Deut. xv. 2). But the context
 is concerned with the land. Hence we
 may render “let it (the land) rest so that
-ye let it rest.” But as this is tauto-
-logous we may conclude that there is
+ye let it rest.” But as this is tautologous we may conclude that there is
 some corruption. Our text=ddijoere
 αὐτὴν ἵνα ἀφῆτε αὐτην. Here I take
 ἀφῆτε to be ἃ corruption of dvfre. We
 should then have ἀφήσετε αὐτήν ἵνα
 ἀνῆτε αὐτήν. This is a rendering
 though not an accurate one of ΠΟ
-angen in Exod. xxiii. 11. Hence, in-
-stead of ‘‘make ye the release. . . re-
-lease it,” we should probably read: “(In
+angen in Exod. xxiii. 11. Hence, instead of ‘‘make ye the release. . . release it,” we should probably read: “(In
 the seventh year) ye will let it rest and
 lie fallow.”
 
@@ -10443,9 +9684,6 @@ Enoch, See note on xxi. 10.
 
 
 1375 A.M.
-
-
-66 THE BOOK OF JUBILEES
 
 
 jubilees: whilst still living, the seventh in his generation,
@@ -10473,10 +9711,8 @@ had carved on: the rock, and he read what was thereon, and
 89, Seventh in his generation. Cf.
 Eth. Enoch 1x. 8, xciii. 3; Jude 14.
 
-VILL 1. Rdést’Gja = rns, “the ac-
-ceptable” (cf. Deut. xxxiii, 24). It
-appears as O35 in the Syriac Frag-
-ment,
+VILL 1. Rdést’Gja = rns, “the acceptable” (cf. Deut. xxxiii, 24). It
+appears as O35 in the Syriac Fragment,
 
 Kaindm. This name, which is not
 found in the Mass., Sam., Syr., Vulg.
@@ -10511,8 +9747,7 @@ the children of Seth: Σοφίαν τε τὴν
 . στήλας δύο ποιησάμενοι τὴν μὲν
 ἐκ πλίνθου τὴν ἑτέραν δὲ ἐκ λίθων
 ἀμφοτέραις ἐνέγραψαν τὰ εὑρημένα.
-J. Malala, Anon. Chron. p. 6, repro-
-duces the matter contained in the above
+J. Malala, Anon. Chron. p. 6, reproduces the matter contained in the above
 statement and adds: μετὰ δὲ τὸν κατα-
 κλυσμὸν Καϊνᾶν, ὁ υἱὸς ᾿Αρφαξάδ, συν-
 εγράψατο τὴν ἀστρονομίαν, εὑρηκὼς τὴν
@@ -10529,9 +9764,6 @@ addition which further illustrates our
 
 
 CHAPTER VIII. 1-7
-
-
-67
 
 
 he transcribed it and sinned owing to it; for it contained
@@ -10579,8 +9811,7 @@ he took unto himself a wife, and her name was ’Aztrad, the 1503 a.m.
 text: καὶ αὐτὸς μὲν ἐν αὐτοῖς ἐξημάρτανε
 καὶ τοὺς ἄλλους τὴν αὐτὴν ἀτοπίαν
 ἐξεπαίδευσεν. οἱ δὲ τὸν Σάλα φασὶ
-ταύτην εὑρηκέναι. In Joel’s Chrono-
-graphy, pp. 3-4, we find additional
+ταύτην εὑρηκέναι. In Joel’s Chronography, pp. 3-4, we find additional
 details borrowed probably from John
 Malala (see above): μετὰ δὲ τὸν
 κατακλυσμὸν Καϊνᾶν ὁ vids ᾿Αρφαξὰδ
@@ -10590,15 +9821,13 @@ Malala (see above): μετὰ δὲ τὸν
 λιθίνῃ γεγλυμμένην. Similarly in
 the Book of Jashar 10 α Cainan the son
 of Seth, and not the son of Arphaxad,
-as in our text and the above chrono-
-graphies, is described as possessing
+as in our text and the above chronographies, is described as possessing
 great wisdom and a knowledge of future
 events, especially of the deluge. This
 wisdom he inscribed on tables of stone
 (jax mm by) and placed them among
 his treasures. See the quotation from
-Josephus above. Just as the revela-
-tions of the Watchers are transferred
+Josephus above. Just as the revelations of the Watchers are transferred
 to Seth, so likewise the revelations of
 the Slavonic Enoch are assigned to him
 by the Greek chronographers. These
@@ -10660,9 +9889,6 @@ afoupa from ansx, “the treasured one.”
 1569 a.m.
 
 
-68 THE BOOK OF JUBILEES
-
-
 daughter of Nébréd, in the thirty-second jubilee, in the
 seventh week, in the third year thereof. 8. And in the
 sixth year thereof, she bare him a son, and he called his name
@@ -10680,14 +9906,12 @@ children, and he divided the earth into the lots, which his
 
 
 8. Divide the earth... for this
-reason he called his name Peleg.  As
-in ver. 5 we have here again a parono-
-masia, iow ns iy +e. PNT nade
+reason he called his name Peleg. (As
+in ver. 5 we have here again a paronomasia, iow ns iy +e. PNT nade
 05. Cf. Gen. x. 25. For Peleg, Eth.
 has Phalék.
 
-9,10. This secret and unauthorita-
-tive division of the earth is followed by
+9,10. This secret and unauthoritative division of the earth is followed by
 a formal and authoritative one made
 by Noah in the presence of an angel,
 and subscribed to by his sons with an
@@ -10696,8 +9920,7 @@ this subject Beer (Buch der Jubilien,
 p. 38) quotes Pirke R. Eliezer, ch. 24.
 This device of the author in some
 respects anticipates the Social Contract
-of Rousseau, but the objects are differ-
-ent. The theory in our text makes it
+of Rousseau, but the objects are different. The theory in our text makes it
 clear that there must have been current
 in the second cent. B.c. religious and
 moral objections to the Hebrew invasion
@@ -10717,9 +9940,7 @@ country had fallen by lot to Shem and
 
 
 his descendants (see ix. 14, 15, x. 29-
-34 and notes in loc.). By mutual con-
-sent, moreover, a curse had been in-
-voked on any one who should break
+34 and notes in loc.). By mutual consent, moreover, a curse had been invoked on any one who should break
 this covenant as well as destruction on
 him and on his seed. Cf. Epiphan.
 Haer. \xvi. 84 (11. ii. p. 542, Oehbler) :
@@ -10758,9 +9979,6 @@ notes on iv. 15, v. 6.
 CHAPTER VIII. 8-12
 
 
-69
-
-
 three sons were to take in possession, and they reached forth
 their hands, and took the writing out of the bosom of Noah,
 
@@ -10772,8 +9990,7 @@ their father.
 
 
 Shem’s lot the middle of the earth which he should take as
-an inheritance for himself and for his sons for the gener-
-ations of eternity, from the middle of the mountain range
+an inheritance for himself and for his sons for the generations of eternity, from the middle of the mountain range
 of Rafi, from the mouth of the water from the river
 
 
@@ -10781,19 +9998,15 @@ of Rafi, from the mouth of the water from the river
 to define exactly the limits of Shem’s
 portion. The text is at times indefinite
 and no doubt corrupt; but even if we
-had the original before us many ob-
-scurities would still remain, owing to
+had the original before us many obscurities would still remain, owing to
 the vague and inaccurate geographical
 ideas of the time. The boundaries of
 Shem’s portion are defined in verses
-12-16 and the countries embraced with-
-in them in ver, 21, and ix. 2-6, 18".
-Since there is some hope of under-
-standing our author’s ideas as to the
+12-16 and the countries embraced within them in ver, 21, and ix. 2-6, 18".
+Since there is some hope of understanding our author’s ideas as to the
 countries allotted to Shem, we shall
 confine our attention in the main to
-this question, and supplement the evi-
-dence of the text by citations from
+this question, and supplement the evidence of the text by citations from
 Epiphanius and Syncellus which are
 based upon it. We shall also make
 occasional use of the statements of
@@ -10809,7 +10022,7 @@ Amana, and the islands of Kaftur. To
 this list ix. 2-6 adds the waters of
 Dedan, the mountains of Mebri and
 Hla and the land of Ardara (? Ararat).
-Finally in ix. 18> there are the islands
+Finally in ix. 18) there are the islands
 of Kamaturi. Now, if we turn to
 Epiphanius, Ancorat. cxii. (Dindorf’s ed.
 i, 215), we find that he defines Shem’s
@@ -10818,8 +10031,7 @@ Bactria to India, to Rhinocurura which
 is between Egypt and Palestine (τῷ μὲν
 Σὴμ. .. ὑπέπεσεν ὁ κλῆρος ἀπὸ Περ-
 σίδος καὶ Βάκτρων ἕως 'Ινδικῆς ἕως τῆς
-χώρας Ῥινοκουρούρων). The same state-
-ment is made in the Chronicon Paschale
+χώρας Ῥινοκουρούρων). The same statement is made in the Chronicon Paschale
 (i. 58) and in Syncellus (i. 82), though
 in fuller form in the latter (Σὴμ...
 ἔδωκεν ἀπὸ Περσίδος καὶ Βάκτρων ews
@@ -10831,8 +10043,7 @@ in fuller form in the latter (Σὴμ...
 βρίας, τήν τε Συρίαν καὶ Μήδειαν καὶ
 ποταμὸν διορίζοντα αὐτοῦ τὰ ὅρια τὸν
 Εὐφράτην). Cedrenus (i. 23) reproduces
-this passage. The Chronicles of Jerah-
-meel xxxi. 2 give practically the same
+this passage. The Chronicles of Jerahmeel xxxi. 2 give practically the same
 delimitations : “Shem, the eldest, chose
 his portion in the land of ‘Asya, that
 is, the land of Persia from Bactris to
@@ -10867,16 +10078,13 @@ v. 5; Eth. Enoch xxvi. 1) was the navel
 Rabbinic Hebrew. Singer (p. 68) quotes
 Joma 540; Sanhedrin 37a; Pesikta
 Rabb. x. in Tanch. on Lev. xix. 23,
-ysoxa pr>wrn poy oy may Sew poe 13
+ysoxa pr)wrn poy oy may Sew poe 13
 ON
 
 Rafa. This range is no doubt the
 Rhipaean mountains which ancient
 geographers placed in the northern
 parts of Europe and Asia or in other
-
-
-70 THE BOOK OF JUBILEES
 
 
 Tina, and his portion goes towards the west through the midst
@@ -10914,8 +10122,7 @@ of the abysses.”
 
 Méat. The Maeotis or Sea of Azov.
 
-18-14. These two verses should de-
-scribe the western boundary.
+18-14. These two verses should describe the western boundary.
 
 13, Kdardsé. Dillmann identifies this
 place with the Chersonese. But if it
@@ -10928,14 +10135,12 @@ be right. I am inclined to believe that
 in Karas} we have the latter part of
 the word ‘Pivoxopofpa, which lies on
 the western boundary of Shem. For
-if we turn to the quotations from Epi-
-phanius and Syncellus in the note on
+if we turn to the quotations from Epiphanius and Syncellus in the note on
 12-21 we find that the portion of Shem
 is said to extend ‘‘from India to
 Rhinocurura in Egypt.” This place
 furthermore is situated on the frontier
-of Ham’s portion according to Epiphan-
-ius and the Chronicles of Jerahmeel.
+of Ham’s portion according to Epiphanius and the Chronicles of Jerahmeel.
 Thus in Adv. Haer. II. ii. 84 of the
 former, Ham’s African dominions extend
 ἀπὸ Ῥινοκουρούρων ἄχρι Tadelpwv : and
@@ -10950,8 +10155,7 @@ Shem’s portion extend westward as far as
 the mouths of the Gihon (Nile), so that
 later writers have diverged somewhat
 from their primal authority. Ῥινο-
-κουροῦρα is used by the LXX in trans-
-lating ony bm, we, “the torrent of
+κουροῦρα is used by the LXX in translating ony bm, we, “the torrent of
 Egypt,” a town on the confines of Egypt
 and Palestine, in 15. xxvii. 12.
 
@@ -10979,8 +10183,7 @@ of the Red Sea. Our text is the literal
 equivalent of Is. xi. 15, ὩΣ. n° nw, as
 Littmann has observed.
 
-15-16. These two verses should de-
-scribe mainly the southern, eastern, and
+15-16. These two verses should describe mainly the southern, eastern, and
 northern-eastern boundaries.
 
 15. The word Samén which is rendered
@@ -11013,10 +10216,7 @@ And may the Lord dwell in the dwelling of Shem.”
 holy of holies, and the dwelling of the Lord, and Mount
 
 
-West to‘Afré (cd). ὃ reads “to the [To the south]. Bracketed as ditto-
-
-
-west of ‘Afra.” ‘ Afra seems to be Africa
+West to‘Afré (cd). ὃ reads “to the [To the south]. Bracketed as dittowest of ‘Afra.” ‘ Afra seems to be Africa
 in its early limited sense.
 
 Gihon. Eth. has Gijon, te, the
@@ -11026,8 +10226,7 @@ Gihon, one of the four rivers of Paradise
 Garden of Eden. This river compassed
 “the whole land of Cush.” Whether
 the Cushites are the Kassi of the
-cuneiform inscriptions or the Ethiop-
-ians does not concern us here, though
+cuneiform inscriptions or the Ethiopians does not concern us here, though
 the identification of the Gihon and Nile
 may have arisen from a confusion of
 the two countries. Syncellus, i. 89,
@@ -11035,9 +10234,7 @@ speaks of two distinct countries named
 Ethiopia: Αἰθιοπία ἡ βλέπουσα κατὰ
 Ἰνδοὺς πρὸς εὐρόνοτον, ἄλλη Αἰθιοπία
 πρὸς νότον, ὅθεν ἐκπορεύεται ὁ Νεῖλος
-ποταμός. Our author undoubtedly iden-
-tifies the Nile with the Gihon. So Syn-
-cellus (p. 82) interprets this passage, τὸν
+ποταμός. Our author undoubtedly identifies the Nile with the Gihon. So Syncellus (p. 82) interprets this passage, τὸν
 Νεῖλον, dsxalTewv... λέγεται. Pnudv
 is used as ἃ rendering of "ἜΝ", ὕ.6.,) the
 Nile in Sirach xxiv. 27: see also Jer. ii. 18.
@@ -11063,8 +10260,7 @@ that there are four holy places in the
 earth : from the present verses we learn
 that three of these are in Shem’s portion.
 The fourth place, therefore, must either
-have been in Japheth’s or Ham’s por-
-tion. Hither therefore the Mount of
+have been in Japheth’s or Ham’s portion. Hither therefore the Mount of
 the East may be regarded as Ararat in
 Japheth’s portion, or as the great
 mountain in the south-east (cf. Eth.
@@ -11075,9 +10271,6 @@ the chief in a range of mountains of fire
 (Eth. En. xviii. 9, xxiv. 1), and such
 a range belongs to Ham’s portion: see
 ver, 22.
-
-
-72 THE BOOK OF JUBILEES
 
 
 Sinai the centre of the desert, and Mount Zion—the centre
@@ -11121,8 +10314,7 @@ xlvii. 4; Amos ix. 7. The plural is
 used of its inhabitants in Gen. x. 14;
 Deut. ii. 283. In Gen. x. 14 these are
 taken to be the Cappadocians in the
-Syr., Onk., and the Jon. and Jer. Tar-
-gums; also in Amos ix. 7 in the LXX,
+Syr., Onk., and the Jon. and Jer. Targums; also in Amos ix. 7 in the LXX,
 Syr., Vulg., Targ.-Jon.; also in Jer.
 xvii. 4 in the Syr., Jon. Targ., Vulg.;
 also in Deut. ii. 23 in the LXX, Syr.,
@@ -11137,12 +10329,10 @@ Shem ; see quotation in note on viii.
 the words “islands of Kaftfir” as a
 
 
-correct translation of the original (prob-
-ably ἼΠ53 +x), the phrase may denote
+correct translation of the original (probably ἼΠ53 +x), the phrase may denote
 the island of Crete. Kaméatiri in ix.
 13 may be a corruption of Kafttr.
-Modern exegesis has taken the scrip-
-tural Caphtor to be Cilicia, Cyprus,
+Modern exegesis has taken the scriptural Caphtor to be Cilicia, Cyprus,
 Crete, or Coptos, a city in the upper
 Thebaid (see Ancyc. Bib. on “Caphtor’’).
 
@@ -11259,8 +10449,7 @@ a distortion of ᾿Ωκεανός, the Great Ocean
 Stream ?
 
 Everything which is not destroyed
-descends (ab). cd= “ everything perish-
-able descends.” What is required
+descends (ab). cd= “ everything perishable descends.” What is required
 probably is: ‘‘if anything descends
 into it, it perishes.”
 
@@ -11277,12 +10466,8 @@ This portion, which is further described
 in ix. 7-13, embraces the countries north
 
 
-74 THE BOOK OF JUBILEES
-
-
 came forth the third portion beyond the river Tiné to the
-north of the outflow of its waters, and it extends north-
-easterly to the whole region of Gog and to all the country
+north of the outflow of its waters, and it extends northeasterly to the whole region of Gog and to all the country
 east thereof. 26. And it extends northerly to the north,
 and it extends to the mountains of Qélt towards the north,
 and towards the sea of M&’tk, and it goes forth to the east
@@ -11316,8 +10501,7 @@ by Syncellus (p. 83): "Id@eO...
 Πόντον, Κόλχους καὶ τὰς κατόπιν χώρας
 καὶ νήσους ἕως ᾿Ιταλίας καὶ Ταλλικῆς,
 Σπανικῆς, τε καὶ Κελτιβηρίας καὶ Λυσι-
-τανῶν. Practically the same descrip-
-tion of Japheth’s province is given by
+τανῶν. Practically the same description of Japheth’s province is given by
 Epiphanius (Adv. Haer. 11. 11. 544
 [Haer. lxvi. 847): οὗτος ὁ κλῆρος
 (τοῦ Σὴμ) διορίζει τὸν ᾿Ιάφεθ τὰ
@@ -11342,8 +10526,7 @@ Chronicles of Jerahmeel xxxi. 4-5.
 The latter is dependent in some respects
 on the former.
 
-25. The boundaries of Japheth’s por-
-tion in Asia.
+25. The boundaries of Japheth’s portion in Asia.
 
 Gog. The country of Gog is in
 northern Asia. Gog is identified with
@@ -11399,8 +10582,7 @@ the land of Stisin and all that is on the side of Pharnak to
 the Red Sea and the river Tind. 3. And for Asshur came
 forth the second portion, all the land of Asshur and Nineveh
 
-30. Land of Ham is hot. Cf. Epi-
-phan, Haer. Ἰχγὶ. 85: Χαναὰν δὲ
+30. Land of Ham is hot. Cf. Epiphan, Haer. Ἰχγὶ. 85: Χαναὰν δὲ
 πλεονέκτης ὧν ὁ υἱὸς τοῦ Χὰμ ἐπῆλθε
 
 
@@ -11433,8 +10615,7 @@ is Libya, lying west of Egypt. See
 Josephus and Jerahmeel.
 
 To the west of him . . . on the sea for
-Canaan. Thus Canaan’s portion ex-
-tended from Libya to the Atlantic on
+Canaan. Thus Canaan’s portion extended from Libya to the Atlantic on
 the west. See x. 28-29, The bracketed
 words are a dittography,
 
@@ -11509,8 +10690,7 @@ translate: “to the river Wadafa.”
 
 4. Arpachshad’s portion. See further
 ix. 13 for the islands allotted to him.
-In Josephus, Ant. i. 6. 4, the descend-
-ants of Arpachshad are identified with
+In Josephus, Ant. i. 6. 4, the descendants of Arpachshad are identified with
 the Chaldees. Eth. has ’Arphaxed.
 
 Tongue of the sea, ete. I don’t know
@@ -11566,8 +10746,7 @@ fifth portion in the midst of the tongue which approaches
 towards the border of the portion of Lud to the second
 tongue, to the region beyond the second tongue unto the
 third tongue. 12. And for Meshech came forth the sixth
-portion, all the region beyond the third tongue till it ap-
-proaches the east of Gadir. 13. And for Tiras there came
+portion, all the region beyond the third tongue till it approaches the east of Gadir. 13. And for Tiras there came
 forth the seventh portion, four great islands in the midst of
 the sea, which reach to the portion of Ham [and the islands
 of Kamatiri came out by lot for the sons of Arpachshad as
@@ -11579,34 +10758,29 @@ his inheritance].
 notes the Graeco-Macedonian empire :
 Dan. viii. 21, x. 20, xi. 2. In our text
 it seems to embrace all the islands of
-the coast of Asia Minor, while in Jose-
-phus, Ant. i. 6. 1, it includes Ionia
+the coast of Asia Minor, while in Josephus, Ant. i. 6. 1, it includes Ionia
 and all the Greeks.
 
 Every island and the islands. We
-should expect rather ‘‘all the coast-
-lands and the island.”
+should expect rather ‘‘all the coastlands and the island.”
 
 11. Tubal’s (Eth. Tobél) portion
 seems to extend from Thrace to
-Italy. Josephus, Ant. i. 6. 1, iden-
-tifies Tubal’s descendants with the
+Italy. Josephus, Ant. i. 6. 1, identifies Tubal’s descendants with the
 Iberes who lived in the Caucasus,
 and the Chronicles of Jerahmeel, xxxi.
 5, identify them with the Iberi and
 Ispamia (?). It is not clear what the
 three tongues of land are. Italy seems
 to be the third, Greece the second and
-possibly Thrace the first. The descend-
-ants of Tubal in Gen. x. 2 are identified
+possibly Thrace the first. The descendants of Tubal in Gen. x. 2 are identified
 with Tibareni in Pontus.
 
 12. As Italy seems to be the third
 tongue, Meshech’s portion extends from
 the north of Italy to Cadiz. Josephus,
 Ant. i. 6. 1, and the Chronicles of
-Jerahmeel, xxxi. 4, take the descend-
-ants of Meshech to be identified with
+Jerahmeel, xxxi. 4, take the descendants of Meshech to be identified with
 the Cappadocians, but modern scholars
 with the Moschi who lived between the
 sources of the Phasis and Cyrus.
@@ -11630,16 +10804,14 @@ these words as an interpolation. They
 are foreign to their present context, for
 it is dealing with the possessions of the
 sons of Japheth, and Arpachshad is a
-son of Shem. Furthermore, the phrase-
-ology “‘came out . . . for the sons of
+son of Shem. Furthermore, the phraseology “‘came out . . . for the sons of
 Arpachshad” is unusual. This phrase
 ‘*the sons of” is used only in the case
 of Noah’s three sons: viii. 17 ‘‘for
 Shem and his sons”; viii. 24 ‘‘for
 Ham... and his sons”; viii. 29
 “for Japheth and his sons.” But in
-connection with Noah’s sixteen grand-
-sons in chap. ix. it is not used. The
+connection with Noah’s sixteen grandsons in chap. ix. it is not used. The
 grandson is mentioned in each case as
 the person to whom ὦ certain province
 is allotted. On the other hand, the
@@ -11665,15 +10837,11 @@ writes τούτων τοίνυν τῶν ἐθνῶν οὕτως
 σπέρμα αὐτοῦ. See also Adv. Huer.
 
 
-78 THE BOOK OF JUBILEES
-
-
 unto their sons in the presence of Noah their father, and
 he bound them all by an oath, imprecating a curse on
 everyone that sought to seize the portion which had not
 fallen (to him) by his lot. 15. And they all said, “So be
-it; so be it,’ for themselves and their sons for ever through-
-out their generations till the day of judgment, on which the
+it; so be it,’ for themselves and their sons for ever throughout their generations till the day of judgment, on which the
 Lord God shall judge them with a sword and with fire, for
 all the unclean wickedness of their errors, wherewith they
 have filled the earth with transgression and uncleanness and
@@ -11763,15 +10931,11 @@ CHAPTERS ΙΧ. 15-X. 5
 Noah, and to make to err and destroy them.
 
 
-79
 2. And the
 
 
 sons of Noah came to Noah their father, and they told him
-concerning the demons which were leading astray and blind-
-
-
-ing and slaying his sons’ sons.
+concerning the demons which were leading astray and blinding and slaying his sons’ sons.
 
 
 the Lord his God, and said:
@@ -11822,18 +10986,14 @@ Mamzerim or children of the angels
 
 and the daughters of men. See vii.
 22; Eth. Enoch xiv.-xvi.
-The unclean demons began . .. de-
-
-
-stroy them (so ab). cd omit ‘‘the
+The unclean demons began . .. destroy them (so ab). cd omit ‘‘the
 children of.”” But Syncellus, i. 49, and
 the passage from the Hebrew Book of
 Noah (see my Eth. Text, p. 35, notes 17-
 19) showthat instead of “the children of
 the sons’? we should simply have “the
 sons.” Under the word daqiqa (= “the
-children of’’) there may lie some corrup-
-tion of the verb ’adqaqa, “to beat small”
+children of’’) there may lie some corruption of the verb ’adqaqa, “to beat small”
 =m}, a corruption for man}, “to slay.”
 Now this verb is the last infinitive in
 the passage of the Hebrew Book of
@@ -11841,10 +11001,7 @@ Noah (see below), and as the other
 three verbs in the Ethiopic text are
 literal equivalents of the preceding
 three infinitives in the same passage we
-may conclude that we have thus re-
-
-
-the earth. 5. And Thou
+may conclude that we have thus rethe earth. 5. And Thou
 the fathers of these spirits,
 
 
@@ -11858,8 +11015,7 @@ and to destroy and to slay.” ‘ Unclean
 demons” tn our text is a good equivalent
 for “the spirits of the Mamzerim,”
 though it is not a literal rendering.
-The Hebrew original of our text there-
-fore=‘‘The unclean demons began to
+The Hebrew original of our text therefore=‘‘The unclean demons began to
 lead astray and to make to err and to
 slay and to destroy the sons of Noah”
 (= Sanh: mand mynd mownd abn). = On
@@ -11883,8 +11039,7 @@ vi.-xvi.
 
 
 acted in my day: and as for these spirits which are living,
-imprison them and hold them fast in the place of condem-
-nation, and let them not bring destruction on the sons of
+imprison them and hold them fast in the place of condemnation, and let them not bring destruction on the sons of
 thy servant, my God; for these are malignant, and created
 in order to destroy. 6. And let them not rule over the
 spirits of the living; for Thou alone canst exercise dominion
@@ -11983,11 +11138,9 @@ CHAPTER X. 6-17 81
 
 
 execute the power of my will on the sons of men; for
-these are for corruption and leading astray before my judg-
-ment, for great is the wickedness of the sons of men.”
+these are for corruption and leading astray before my judgment, for great is the wickedness of the sons of men.”
 9. And He said: “ Let the tenth part of them remain before
-him, and let nine parts descend into the place of condem-
-nation.” 10. And one of us He commanded that we should
+him, and let nine parts descend into the place of condemnation.” 10. And one of us He commanded that we should
 teach Noah all their medicines; for He knew that they
 would not walk in uprightness, nor strive in righteousness.
 11. And we did according to all His words: all the
@@ -12009,8 +11162,7 @@ excelled the children of men save Enoch because of the
 
 
 9. Cf. Hebrew Book of Noah: “And So it is stated in the Hebrew Book of
-the angel did so and enclosed them in Noah, where there is a manifest paro-
-the house of judgment (msypn nn). nomasia between ὉΝΕῚ and my. Cf.
+the angel did so and enclosed them in Noah, where there is a manifest parothe house of judgment (msypn nn). nomasia between ὉΝΕῚ and my. Cf.
 Only one-tenth did he permit to goto Eth. Enoch x. 7; Tob. iii, 17, xii.
 and fro on the earth before the prince 14, 15.
 
@@ -12033,22 +11185,15 @@ this privilege. gives all the books into Levi’s hands,
 10. Oneofus. Thisangelis Raphael. as Levi was priest.
 
 
-6
-
-
 1645-1688 Shinar.
 
 
 A.M,
 
 
-82 THE BOOK OF JUBILEES
-
-
 righteousness, wherein he was perfect. For Enoch’s office was
 ordained for a testimony to the generations of the world, so
-that he should recount all the deeds of generation unto genera-
-tion, till the day of judgment. 18. And in the three and
+that he should recount all the deeds of generation unto generation, till the day of judgment. 18. And in the three and
 thirtieth jubilee, in the first year in the second week, Peleg
 took to himself a wife, whose name was Lémna the daughter
 of Sina’ar, and she bare him a son in the fourth year of this
@@ -12092,8 +11237,7 @@ author thus derived Reu from yys, “to
 be evil.” There was a paronomasia in
 the original. ‘‘He called his name
 Ragau (39); for... the children of
-men had become evil,” 3x. This deriva-
-tion appears in the Onomasticon, p. 197,
+men had become evil,” 3x. This derivation appears in the Onomasticon, p. 197,
 27: ‘Pady (ἰ.6. ἹΡααύ) κακούμενος.
 
 Shinar. Eth. has Séndar, in ver.
@@ -12175,8 +11319,7 @@ in brackets in the translation are
 derived from the Greek. Rénsch (p.
 401) quotes the following passage
 respecting this tower from Weil’s
-Biblische Legenden der Musel-
-ménner, pp. 77-78: Der Thurm
+Biblische Legenden der Muselménner, pp. 77-78: Der Thurm
 (Nimrod’s) ward bis zu einer Hihe von
 5000 Ellen gebaut . . . Gott liess ihn
 mit einem solchen Getise umstiirzen,
@@ -12217,9 +11360,6 @@ each according to hislanguage. Accord-
 1688 A.M.
 
 
-84 THE BOOK OF JUBILEES
-
-
 and his nation. 26. And the Lord sent a mighty wind
 against the tower and overthrew it upon the earth, and
 behold it was between Asshur and Babylon in the land of
@@ -12256,8 +11396,7 @@ i. 77 ; Cedrenus, i. 22.
 =n257- Observe the play of words not
 preserved in Eth.): ‘‘Overthrew it
 
-. and they called its name ‘ Over-
-throw’” =1w ne xp. . yn
+. and they called its name ‘ Overthrow’” =1w ne xp. . yn
 nopn. This disagrees with its name
 ‘‘Babel” in Gen. xi. 9. According to
 Sanh, 109a@ one-third of the tower of
@@ -12270,8 +11409,7 @@ verse as lying in the west towards
 the sea, cf. ix. 1. The designation
 “land of the south” is a loose one.
 The word rendered “south” rightly
-means “north,” but it is used occasion-
-ally in this wrong sense by Ethiopic
+means “north,” but it is used occasionally in this wrong sense by Ethiopic
 scribes. See note on viii. 15.
 
 29. This view is, I think, found only
@@ -12280,8 +11418,7 @@ scribes. See note on viii. 15.
 in Jubilees and the books dependent
 upon it. Palestine fell by lot to
 Arpachshad and north-west Africa (see
-ix. 1) to Canaan; but Canaan wrong-
-fully seized Palestine : see Epiphanius,
+ix. 1) to Canaan; but Canaan wrongfully seized Palestine : see Epiphanius,
 Ancorat. cxiv. Ὁ. 217 (ed. Dindorf):
 ἐπεὶ οὖν ἐν τῷ κλήρῳ Σὴμ ἡ Παλαιστίνη
 ὑπέπεσε καὶ πάντα τὰ πλησίον αὐτῆς,
@@ -12394,13 +11531,9 @@ Media, Eth. Médqin.
 1687 A.M.
 
 
-86 THE BOOK OF JUBILEES
-
-
 Reu and Serug, 1 (cf. Gen. xi. 20, 21). Rise of war and
 bloodshed and eating of blood and idolatry, 2-7. Nachor
-and Terah, 8-14 (cf. Gen. xi. 22-30). Abram’s know-
-ledge of God and wonderful deeds, 15-24.
+and Terah, 8-14 (cf. Gen. xi. 22-30). Abram’s knowledge of God and wonderful deeds, 15-24.
 
 
 XI. And in the thirty-fifth jubilee, in the third week,
@@ -12431,8 +11564,7 @@ Séréh. See ver. 6. Beer suggests that
 this is from mp, “to sin,” in Talmudic
 Hebrew. This would suit ver. 2, but
 ver. 6 implies that our author derived
-it from yp, “to turn aside.” Epi-
-phanius, Adv. Haer. i. 1. 6, writes: τὸν
+it from yp, “to turn aside.” Epiphanius, Adv. Haer. i. 1. 6, writes: τὸν
 Σεροὺχ τὸν ἑρμηνευόμενον ᾿Βρεθισμόν.
 
 2-6. The corruption of mankind which
@@ -12459,8 +11591,7 @@ in Cedrenus, i. 47 : ἐπὶ τούτου (Σηροὺχ)
 of Adam and Eve (Malan), iii. 24 : Ps.-
 Philo, And. bibl. Lib. p. 45.
 
-2. Individuals began to exalt them-
-selves, etc. So MSS. The emendation
+2. Individuals began to exalt themselves, etc. So MSS. The emendation
 in my text is not necessary.
 
 3. Or, the son of Késéd. We have
@@ -12481,8 +11612,7 @@ and unclean simulacra, and malignant spirits assisted and
 seduced (them) into committing transgression and uncleanness,
 5. And the prince Mastéma exerted himself to do all this, and
 he sent forth other spirits, those which were put under his hand,
-to do all manner of wrong and sin, and all manner of trans-
-gression, to corrupt and destroy, and to shed blood upon the
+to do all manner of wrong and sin, and all manner of transgression, to corrupt and destroy, and to shed blood upon the
 earth. 6. For this reason he called the name of Sérdh,
 Serug, for every one turned to do all manner of sin and
 transgression. 7. And he grew up, and dwelt in Ur of the
@@ -12511,8 +11641,7 @@ to all manner of sin and transgression
 (π΄). See, however, note on ver. 1.
 
 7. He worshipped idols. See in note
-on iv. 12 passage from Chron. of Jerah-
-meel denying this.
+on iv. 12 passage from Chron. of Jerahmeel denying this.
 
 Mélka, daughter of Kabér. So also
 in Syr. and Lagarde’s MS 7. In Gen.
@@ -12554,9 +11683,6 @@ Terah. Eth. has Tara.
 1870 A.M.
 
 
-88 THE BOOK OF JUBILEES
-
-
 year of this week. 11. And the prince Mastéma sent
 ravens and birds to devour the seed which was sown in the
 land, in order to destroy the land, and rob the children of
@@ -12593,8 +11719,7 @@ follows: Castra metati sunt in Thare
 (np) et iisdem litteris scriptum invenio
 patrem Abraham, qui in supradicto
 apocrypho Geneseos volumine, abactis
-corvis, qui hominum frumenta vasta-
-pant, abactoris vel depulsoris sortitus
+corvis, qui hominum frumenta vastapant, abactoris vel depulsoris sortitus
 est nomen. I know of only two other
 references to the incident in our text.
 The first is in 5. Ephraem i. 156 and
@@ -12603,18 +11728,15 @@ Ewe, p. 248: “Abram when a child,
 having been sent by Terah to drive
 away ravens sent to destroy the
 crops, as a punishment for the
-idolatry of the land, Abram—un-
-able to drive them away—by a
+idolatry of the land, Abram—unable to drive them away—by a
 sudden impulse, called upon God to
 order them off, who answered: ‘Here
 am I,’ and ordered the ravens away
 from Terah’s field.” The second is
-found in Bar-hebraeus, Historia Dyn-
-astiarum, p. 18 (Fabric. Cod. Pseud,
+found in Bar-hebraeus, Historia Dynastiarum, p. 18 (Fabric. Cod. Pseud,
 V.T. i, 422 sq.) : Cum Abraam annorum
 esset quindecim, annuit Deus precibus
-ejus contra picas quae terram Chaldae-
-orum vastabant semina terrae ab iis
+ejus contra picas quae terram Chaldaeorum vastabant semina terrae ab iis
 
 
 Pat
@@ -12634,8 +11756,7 @@ our text.
 Ethiopic here = ἐπτώχισαν αὐτούς, but it
 could also be a rendering of ἔθλιψαν or
 ἐκάκωσαν. Hence this verb may go back
-to the Chaldee verb ysn=to ravage, de-
-vastate. This verb would constitute a
+to the Chaldee verb ysn=to ravage, devastate. This verb would constitute a
 play on the name Terah (man) and the
 verse would run: mon ipw ΠΝ ΝΡ nim
 D2 win oanyn 3. For attempts to
@@ -12657,8 +11778,7 @@ later Jewish books the wife of Terah
 is called Amthelai, the daughter of
 Karnebo, Baba Bathra 91a; Book of
 Jashar (Migne, Dict, des Apocr. ii.
-1103). In the Chronicles of Jerah-
-meel (Eng. transl.) xxvii. 7, Amtalai,
+1103). In the Chronicles of Jerahmeel (Eng. transl.) xxvii. 7, Amtalai,
 
 
 This can be rendered also
@@ -12670,8 +11790,7 @@ CHAPTER ΧΙ. 11-19 89
 daughter of Abram, the daughter of his father’s sister. 15.
 And in the seventh year of this week she bare him a son, 1876 a.m.
 and he called his name Abram, by the name of the father of
-his mother; for he had died before his daughter had con-
-ceived a son. 16, And the child began to understand the
+his mother; for he had died before his daughter had conceived a son. 16, And the child began to understand the
 errors of the earth that all went astray after graven images
 and after uncleanness, and his father taught him writing,
 and he was two weeks of years old, and he separated 1890 a.m.
@@ -12698,8 +11817,7 @@ be the wife of Nahor, but by taking
 the context rightly we get Amtalai as
 wife of Terah. Book of Jashar (Migne,
 Dict. des Apocr. ii, 1103) gives Amtela
-as Terah’s wife, but there is no men-
-tion of her father’s name. According
+as Terah’s wife, but there is no mention of her father’s name. According
 to Eutychius (translated by Pococke,
 1658) Terah had two wives, Yuna and
 Tohwait. See note on xii. 9.
@@ -12725,16 +11843,14 @@ ben Lakish in Ber. rabba 80, 64, 95,
 Midr. on Shir ha-Shirim v. 16 (ef.
 Midr. on Esther ii. 5), Book of Jashar
 (op. cit. ii. 1106), Abraham knew God
-when only three years old, accord-
-ing to R. Chanina in his forty-eighth
+when only three years old, according to R. Chanina in his forty-eighth
 year. See Beer, Leben Abr. 103-104
 for other references.
 
 16. For later forms of the saga in
 xi. 16-17, xii. 1-14, see Beer, Leben
 Abr. 3, 102,; Book of Jashar (op. cit.
-ii. 1106 sqq.); Chronicles of Jerah-
-meel xxix., xxxiii.-xxxive
+ii. 1106 sqq.); Chronicles of Jerahmeel xxix., xxxiii.-xxxive
 
 18. Lad of fourteen years. See
 quotation from Bar-hebraeus in note
@@ -12857,13 +11973,11 @@ Palestinian Midrashim (the Mechilta,
 Sifra and Sifre), nor in our text save in
 xii. 14, where we have perhaps the source
 of a kindred legend—the death of Haran
-by fire (see note in doc.). Jerome men-
-tions this last legend (see note on xii.
+by fire (see note in doc.). Jerome mentions this last legend (see note on xii.
 14) and likewise the former about the
 casting of Abram into the fiery furnace
 (Quaest. Hebr on Gen. xii. 4): Erant
-autem Abram septuaginta quinque an-
-norum, quando egressus est ex Charra.
+autem Abram septuaginta quinque annorum, quando egressus est ex Charra.
 Indissolubilis nascitur quaestio: si enim
 Thara pater Abrahae, cum adhucesset in
 regione Chaldaea, septuaginta annorum,
@@ -12880,10 +11994,8 @@ triginta quinque fuisse anni doceantur.
 Vera est igitur illa Hebraeorum traditio,
 quam supra diximus, quod egressus
 sit Thara cum filiis suis de igne
-Chaldaeorum; et quod Abram Baby-
-lonio vallatus incendio, quia illud
-adorare nolebat, Dei sit auxilio liber-
-atus: et ex illo tempore ei dies vitae,
+Chaldaeorum; et quod Abram Babylonio vallatus incendio, quia illud
+adorare nolebat, Dei sit auxilio liberatus: et ex illo tempore ei dies vitae,
 et tempus reputetur aetatis, ex quo
 confessus est Dominum, spernens
 idola Chaldaeorum. Potest autem fieri
@@ -12892,8 +12004,7 @@ ante paucos annos Thara de Chaldaea
 profectus: venerit in Charran quam
 mortem obieret, vel certe statim post
 persecutionem in Charran venerit et ibi
-diutius sit moratus. For a full dis-
-cussion of the subject and references
+diutius sit moratus. For a full discussion of the subject and references
 to later Jewish literature see Beer's
 monograph in the Monatsschrift fir
 Gesch. Judenthums, 1855, pp. 59-65.
@@ -12906,8 +12017,7 @@ tradition is found in Ps.-Philo, Ant.
 bibl. Lib. pp. 48 sqq.
 
 
-2. This tradition of Abram admon-
-ishing Terah was known to Suidas
+2. This tradition of Abram admonishing Terah was known to Suidas
 (Fabric. Cod. Pseud. V.T. i. 336-338) :
 ᾿Αβραὰμ ὑπάρχων érGv ιδ΄ καὶ θεο-
 γνωσίας ἀξιωθεὶς ἐνουθέτει τὸν πατέρα
@@ -12918,7 +12028,7 @@ ishing Terah was known to Suidas
 μιουργήσας. Epiphanius (Adv. Haer.
 i, 1, p. 88, Oehler) attributes the
 invention of image-worship to Terah :
-Ναχὼρ δὲ γεννᾷ τὸν Odppa> ἐντεῦθεν
+Ναχὼρ δὲ γεννᾷ τὸν Odppa) ἐντεῦθεν
 γέγονεν ἀνδριαντοπλασία ἀπὸ πηλουρ-
 ylas καὶ κερὰμικῆς ἐπιστήμης διὰ τῆς
 τοῦ Θάρρα τούτου τέχνης.
@@ -12929,9 +12039,6 @@ which cannot profit nor deliver.’
 
 
 1925 A.M.
-
-
-92 THE BOOK OF JUBILEES
 
 
 . For there is no spirit in them,
@@ -13011,8 +12118,7 @@ and he died in Ur of the Chaldees before Terah his father,
 The same form of the words is found
 in the Ethiopic version of Gen. xvii.
 15 and may go back to the Greek
-version. In the LXX the words, how-
-ever, are given as Σάρα and Σάρρα.
+version. In the LXX the words, however, are given as Σάρα and Σάρρα.
 The daughter of his father. Our
 author here follows Gen. xx. 12,
 where Abraham says that Sarah is the
@@ -13035,8 +12141,7 @@ According to the rabbinic tradition
 on the father’s side was permitted
 to the descendants of Noah (see
 Singer, Das Buch der Jubilien, p. 167
-note). Marriage with a sister or half-
-sister is strictly forbidden in Lev.
+note). Marriage with a sister or halfsister is strictly forbidden in Lev.
 xviii. 9,11, xx.17. See note on iv. 15.
 10. Haran. Eth. has ’Aran.
 11. According to Gen. xi. 29 Nahor
@@ -13065,8 +12170,7 @@ ex hac occasione istius modi fabulam:
 quod Abraham in ignem missus sit,
 quia ignem adorare noluerit, quem
 Chaldaei colunt, et Dei auxilio liberatus
-de idolatriae igne profugerit . . . Mor-
-tuus est Aran ante conspectum Thare
+de idolatriae igne profugerit . . . Mortuus est Aran ante conspectum Thare
 
 in igne Chaldaeorum: quod
 videlicet ignem nolens adorare igne
@@ -13096,9 +12200,6 @@ seems to have had our text before him :
 
 
 1951 A.M.
-
-
-94 THE BOOK OF JUBILEES
 
 
 and they buried him in Ur of the Chaldees. 15. And
@@ -13136,10 +12237,8 @@ sons,
 
 Dynustiarum, p. 18 (quoted by
 Fabricius, i. 422): Incenditque 1116
-templum idolorum in urbe Chaldae-
-orum, at Haran frater ipsius ad
-extinguendum ignem ingressus com-
-bustus est. According to Beer (Leben
+templum idolorum in urbe Chaldaeorum, at Haran frater ipsius ad
+extinguendum ignem ingressus combustus est. According to Beer (Leben
 Abr, 110) the same legend is found in
 Midr. b, Bechaii.
 
@@ -13149,15 +12248,11 @@ Mesopotamia. Cf, Gen. xi. 31.
 
 16-18. Abram on the first of the
 seventh month seeks to determine the
-nature of the weather during the ensu-
-ing six rainy months (see note on xii.
+nature of the weather during the ensuing six rainy months (see note on xii.
 27). In Ber, rabba 44, according to
 the Rabbis, God told Abram that he
 was » prophet and not a star-gazer.
-Cedrenus (i. 48-49) reproduces the sub-
-
-
-stance of our text: ἔνθα ὁ ᾿Αβραὰμ
+Cedrenus (i. 48-49) reproduces the substance of our text: ἔνθα ὁ ᾿Αβραὰμ
 δεκαπέντε ἔτη τῷ πατρὶ συνοικήσας ἐν-
 νοεῖ ποτὲ νυκτὸς ἐκ τῆς τῶν ἄστρων κινή-
 σεως τοῦ ἐπιόντος καιροῦ κατασκέψα-
@@ -13186,8 +12281,7 @@ CHAPTER XII. 15-25 95
 sway over the thoughts of men’s hearts,
 And let them not lead me astray from Thee, my God.
 And stablish Thou me and my seed for ever
-That we go not astray from henceforth and for ever-
-more.”
+That we go not astray from henceforth and for evermore.”
 21. And he said, “Shall I return unto Ur of the Chaldees
 who seek my face that I may return to them, or am I
 to remain here in this place? The right path before
@@ -13244,9 +12338,6 @@ the beginning of the 41st jubilee.
 1953 A.M.
 
 
-96 THE BOOK OF JUBILEES
-
-
 his mouth, with the language which has been revealed” ; for
 it had ceased from the mouths of all the children of
 men from the day of the overthrow (of Babel). 26. And I
@@ -13278,19 +12369,15 @@ takes ὦ jubilee as 50 years instead of
 49 years. Syncellus thus finds that
 on the Ist year of the 41st jubilee,
 2001 years have elapsed from Adam
-till the 85th year of Abram. Accord-
-ing to our text Abram was 75 years
+till the 85th year of Abram. According to our text Abram was 75 years
 old in 1951 and therefore 85 in 1961.
-Now 40 jubilees+1=1961, but Syn-
-cellus, reckoning the jubilee at 50
+Now 40 jubilees+1=1961, but Syncellus, reckoning the jubilee at 50
 years, wrongly made the total 2001.
-A curtailed form of the above state-
-ment is reproduced by Cedrenus, i. 48.
+A curtailed form of the above statement is reproduced by Cedrenus, i. 48.
 Again the writer of the Clementine
 Recognitions, i. 30, knew the substance
 of our text : Quinta decima generatione
-primo omnium homines idolum statu-
-entes adoraverunt, et usque ad illud
+primo omnium homines idolum statuentes adoraverunt, et usque ad illud
 tempus divinitus humano generi data
 Hebraeorum lingua tenuit monarchiam.
 
@@ -13313,10 +12400,8 @@ forth in Augustine, De Civ. Dei, xvi.
 διὸ καὶ τῆς τῶν ἄλλων φωνῆς συγχε-
 θείσης ἡ τοῦ “HBep οὐκ ἀπώλετο.
 According to Malan, Book of Adam
-and Eve, p. 245, this view was pro-
-pounded by Bar-hebraeus (Syr. p. 9).
-25. Language which has been re-
-vealed. Cf. Clementine Recognitions
+and Eve, p. 245, this view was propounded by Bar-hebraeus (Syr. p. 9).
+25. Language which has been revealed. Cf. Clementine Recognitions
 i, 80: Divinitus humano generi data
 
 
@@ -13339,8 +12424,7 @@ Sun, ¢.e. the summer.
 
 29-31. Singer (Das Buch der
 Jubiléen, p. 170) is no doubt right in
-saying that this passage owes its exist-
-ence to the author’s wish to protect
+saying that this passage owes its existence to the author’s wish to protect
 Abram against the reproach of leaving
 his aged father (see Ber. rabba 39).
 
@@ -13369,9 +12453,7 @@ thou returnest in peace, and we go with thee all together.”
 Abram journeys from Haran to Shechem in Canaan, thence to
 Hebron and thence to Egypt, 1-14a. Returns to Canaan
 where Lot separates from him, and receives the promise
-of Canaan and journeys to Hebron, 140-21. Chedor-
-laomer’s attack on Sodom and Gomorrah : Lot taken cap-
-tive, 22-24. Law of tithes enacted, 25-29. (Cf. Gen. xii.
+of Canaan and journeys to Hebron, 140-21. Chedorlaomer’s attack on Sodom and Gomorrah : Lot taken captive, 22-24. Law of tithes enacted, 25-29. (Cf. Gen. xii.
 4-10, 15-17, 19-20, xiii. 11-18, xiv. 8-14, 21-24.)
 
 
@@ -13405,9 +12487,6 @@ is accepted by Budde and Dillmann. Mass. = “ oak of Moreh.”
 
 
 1956 A.M.
-
-
-98 THE BOOK OF JUBILEES
 
 
 “To thee and to thy seed will I give this land.” 4. And
@@ -13444,8 +12523,7 @@ the west, etc. After ‘‘mountain”’ there is
 probably a loss of the words: “to the
 east of Bethel with.” This lacuna is
 not marked in the MSS. Zasemé
-after Bétél in ὦ may be ἃ corrup-
-tion of westa=év. If so, it should be
+after Bétél in ὦ may be ἃ corruption of westa=év. If so, it should be
 placed before Bétél, dcd read “unto
 the mountain of Bethel,” etc.
 
@@ -13458,8 +12536,7 @@ mean “pine trees,”
 
 
 8. On the new moon of the first
-month. So cd, which is to be pre-
-ferred to the reading of a 6 as Praetorius
+month. So cd, which is to be preferred to the reading of a 6 as Praetorius
 and Littmann have pointed out.
 
 Thou, the eternal God, art (bcd) a
@@ -13559,9 +12636,6 @@ hazana, a conjecture right in sense,
 said’ against Latin and Gen. xiii,
 
 
-100 THE BOOK OF JUBILEES
-
-
 shall give to thee and to thy seed for ever,and I shall make
 thy seed as the sand of the sea: though a man may number
 the dust of the earth, yet thy seed shall not be numbered.
@@ -13573,9 +12647,7 @@ Amraphel, king of Shinar, and Arioch, king of Séllasar, and
 Térgal, king of nations, and slew the king of Gomorrah, and
 the king of Sodom fled, and many fell through wounds in
 the vale of Siddim, by the Salt Sea. 23. And they took
-captive Sodom and Adam and Zeboim, and they took cap-
-tive Lot also, the son of Abram’s brother, and all his pos-
-sessions, and they went to Dan. 24. And one who had
+captive Sodom and Adam and Zeboim, and they took captive Lot also, the son of Abram’s brother, and all his possessions, and they went to Dan. 24. And one who had
 escaped came and told Abram that his brother’s son had
 been taken captive and (Abram) armed his household
 
@@ -13614,22 +12686,17 @@ Amraphel. Eth. has ’Amarphel.
 Cf. Gen. xiv. 1 (LXX) ᾿Αμαρφάλ.
 
 Séldsar. Possibly « corruption of
-Ellisar, since sé and ’é are easily con-
-fused in Ethiopic ; but the corruption
+Ellisar, since sé and ’é are easily confused in Ethiopic ; but the corruption
 originated in the Greek, since A in
 Gen. xiv. 1 has ZeAdacap; or in the
 Hebrew, as the Syriac has Dalasar and
 the Targum of Ps.-Jon. Telassar.
 
 
-Eth. has Kéd6la-
-
-
-here corrects the apparent contradiction
+Eth. has Kéd6lahere corrects the apparent contradiction
 in Gen. xiv. 10, 17.
 
-Vale of Siddim. An easy emenda-
-tion of a corrupt text. See my Eth.
+Vale of Siddim. An easy emendation of a corrupt text. See my Eth.
 text (p. 48).
 
 23. Adam, i.e. Admah.
@@ -13646,8 +12713,7 @@ Dict. des Apocr. ii. 1125),
 
 And (Abram) armed his household
 servants. Gen. xiv. 14. For “armed”
-(abd), ὁ corruptly reads “made atone-
-ment for.” Onkelos (11) supports the
+(abd), ὁ corruptly reads “made atonement for.” Onkelos (11) supports the
 rendering which our text gives of py in
 Gen. xiv. 14, The LXX ἠρίθμησε and
 Vulg. numeravit which presuppose pr
@@ -13695,25 +12761,21 @@ let the booty be thine.”
 “T lift up my hands to the
 
 
-is anacolouthic. ὁ removes the anacol-
-outhon by changing ’astarasaja =
+is anacolouthic. ὁ removes the anacolouthon by changing ’astarasaja =
 “armed” of add into ’astastraja=
 ‘“made atonement for.” Thus instead
 of ‘‘(Abram) armed his household
 servants .... for Abram” we have
-‘*his household servant made atone-
-ment for Abram.” But this change is
-against the best MSS, which are like-
-wise supported by Gen. xiv. 14 (see
-note on ver. 24), and it does not dis-
-pense with the necessity of assuming
+‘*his household servant made atonement for Abram.” But this change is
+against the best MSS, which are likewise supported by Gen. xiv. 14 (see
+note on ver. 24), and it does not dispense with the necessity of assuming
 a lacuna at the close of ver. 24. The
 lacuna, drawn attention to in our text,
 would naturally contain an account of
 Abram’s pursuit of the kings and
 recovery of the captives and spoil. It
 no doubt told also of Melchizedek ;
-for ver. 25 presupposes Gen. xiv. 18>-
+for ver. 25 presupposes Gen. xiv. 18)-
 20¢ by declaring that the tithes belong
 to the priests. In Nedar 320 it is said
 that the priestly office passed from
@@ -13740,8 +12802,7 @@ And Abram said unto him:
 Most High God, that from a
 
 
-προσφορὰς ἔδωκεν ᾿Αβραάμ) that Mel-
-chizedek was uncircumcised to whom
+προσφορὰς ἔδωκεν ᾿Αβραάμ) that Melchizedek was uncircumcised to whom
 Abram gavetithes, and also by Tertullian,
 Adv. Jud. iii: Patriarchae incircumcisi
 fuerunt, ut Melchisedech qui ipsi
@@ -13766,11 +12827,9 @@ called “a priest of the most high God”
 that the Maccabeans called themselves
 by this title (see note on xxxii. 1).
 Now since our author (see Introd. § 21)
-is an apologist of the Maccabean dy-
-nasty, it is not probable that he would
+is an apologist of the Maccabean dynasty, it is not probable that he would
 omit all reference to Melchizedek who
-first bore the title they afterwards as-
-sumed.
+first bore the title they afterwards assumed.
 
 26. From the enigmatical words of
 Gen. xiv. 20 ‘“‘he gave him a tenth of
@@ -13778,9 +12837,6 @@ all” our author derives the law of
 universal tithing. See xxxii. 15.
 
 28-29. Cf. Gen. xiv. 21-24.
-
-
-102 THE BOOK OF JUBILEES
 
 
 thread to a shoe-latchet I shall not take aught that is thine,
@@ -13820,8 +12876,7 @@ counted to him for righteousness. 7. And He said unto
 XIV. 1-6. Cf. Gen. xv. 1-6. have “the possessor.” Next, “the son
 
 2. Lord, Lord. Probably=Aéorora of my handmaid” =6 οἰκογενής μου.
-Κύριε as in LXX of Gen. xv. 2-Ξ ν΄ Hence our text="naj3 pwnya. Subse-
-mn. quent tradition made much of Eliezer.
+Κύριε as in LXX of Gen. xv. 2-Ξ ν΄ Hence our text="naj3 pwnya. Subsemn. quent tradition made much of Eliezer.
 
 The son of Madséq, the son of my He was said to be one of the seven
 handmaid. The Greek translator (and righteous men who had not tasted of
@@ -13916,11 +12971,7 @@ Four hundred years. In Gen. xv.
 13 the length of the sojourn in
 Egypt is given as 400 years, but in
 Exod. xii. 40 as 480. But since neither
-number agrees with the period calcu-
-lated from the ages of Kohath, Amram
-
-
-104 THE BOOK OF JUBILEES
+number agrees with the period calculated from the ages of Kohath, Amram
 
 
 be in bondage shall I judge, and after that they will come
@@ -13951,8 +13002,7 @@ words καὶ ἐν γῇ Xavday after ἐν γῇ
 Αἰγύπτῳ, and the same addition is
 found in the Samaritan Pentateuch.
 The period of 400 or 480 years was
-reckoned from the date of its announce-
-ment in Gen. xv. 13, according to St.
+reckoned from the date of its announcement in Gen. xv. 13, according to St.
 Paul, Gal. iii. 16, 17; Joseph. Ant.
 ii. 15.2; Ps.-Jon. in Exod. xii. 40, but
 our text reckons the 430 years from
@@ -13980,14 +13030,12 @@ his arrival in Egypt, Gen. xlvii. 9)+
 19.
 
 
-210 (years of sojourn in Egypt).  Ac-
-cording to this chronology it follows
+210 (years of sojourn in Egypt). (According to this chronology it follows
 that Abram was 70 years old when he
 witnessed the vision in Gen. xv. 7-21.
 But according to Gen. xii. 4 Abram was
 already 75 when he left Haran. This
-difficulty obliged later Jewish ex-
-pounders to assume that Abram had
+difficulty obliged later Jewish expounders to assume that Abram had
 paid an earlier visit in his 70th year
 to Canaan, and that Gen. xv. 7-21
 belongs to that earlier visit and that its
@@ -14005,8 +13053,7 @@ see Beer, Leb. Abr. 118-120,
 Of this later form of exposition our
 book knows nothing.
 
-16. Fourth generation. A genera-
-tion means here 100 years. Isaac was
+16. Fourth generation. A generation means here 100 years. Isaac was
 born when Abraham was 100 years
 old (Gen. xxi. 5).
 
@@ -14047,8 +13094,7 @@ year in the life of Abram.
 Abram celebrates the feast of first-fruits, 1, 2: his name
 changed and circumcision instituted, 3-14.  Sarar’s
 name changed and Isaac promised, 15-21. Abraham,
-Ishmael, and all his household circumcised, 22-24. Cir-
-cumcision an eternal ordination, 25, 26. Israel shares
+Ishmael, and all his household circumcised, 22-24. Circumcision an eternal ordination, 25, 26. Israel shares
 this honour with the highest angels who were created
 cireumceised, 27-29. Israel subject to God alone:
 other nations to angels, 30-32. Future faithlessness of
@@ -14066,12 +13112,6 @@ is found. 214-24ab, Cf. Gen. xvi. 1-4.
 We have already seen (see note on vi. Cf. Gen. xvi. 11.
 17-18) that the Covenant with Noah was + XV.1. tFourtht (acd). ὃ reads
 probably assigned to the same month “seventh.” It should be “third,” here
-
-
-106
-
-
-THE BOOK OF JUBILEES
 
 
 jubilee, in the third month, in the middle of the month,
@@ -14112,26 +13152,20 @@ be taken in its strict sense as the weekly
 Sabbath.
 
 (1) First the word ‘‘Sabbath”’ is
-taken in the general sense of a feast-
-day. Now the first day of unleavened
+taken in the general sense of a feastday. Now the first day of unleavened
 bread (Lev. xxiii. 7) was such a day;
 but the seventh (Lev. xxiii. 8) was no
-less so. Hence two different computa-
-tions arise from this interpretation of
-the word, (i) the first of which inter-
-prets the first day of unleavened bread
+less so. Hence two different computations arise from this interpretation of
+the word, (i) the first of which interprets the first day of unleavened bread
 as the Sabbath, and (ii) the second which
 interprets it of the seventh day.
 
 (i) The first interpretation, which
-took the Sabbath to be the first day of un-
-leavened bread (Nisan 15), naturally
+took the Sabbath to be the first day of unleavened bread (Nisan 15), naturally
 understood the phrase “the morrow after
-the Sabbath” to designate Nisan 16,with-
-out regard to the day of the week. This
+the Sabbath” to designate Nisan 16,without regard to the day of the week. This
 was the interpretation of the Pharisees in
-our Lord’s time. This view is first at-
-tested in the LXX, where the phrase in
+our Lord’s time. This view is first attested in the LXX, where the phrase in
 question is rendered by ry ἐπαύριον τῆς
 πρώτης (here ἡ mpwrn=nawn), exactly
 asin Ps.-Jon. on Lev. xxiii. 15, snap
@@ -14147,8 +13181,7 @@ waving the sheaf is said to be the
 second day of unleavened bread: ‘“Eopri
 δὲ ἔστιν ἡ μετὰ THY πρώτην εὐθὺς
 ἡμέρα. The Mishna, also (Chag. ii. 4 ;
-Menach. x. 1-3), maintains this inter-
-pretation against conflicting expositions.
+Menach. x. 1-3), maintains this interpretation against conflicting expositions.
 Since on this view the sheaf-waving
 took place on Nisan 16, the feast of
 weeks, fifty days later, was usually
@@ -14246,12 +13279,9 @@ bread. Frankel (Hinfluss d. pal. Exeg.,
 1851, pp. 136-137) holds that the τῇ
 ἐπαύριον τῆς πρώτης of the LXX is
 directed against this view. The Karaite
-Jews (Trigland, Diatribe de Secta Karae-
-orum, 1708; Fiirst, Geschichte des
+Jews (Trigland, Diatribe de Secta Karaeorum, 1708; Fiirst, Geschichte des
 Kardéerthums, 1865) and likewise the
-Samaritans follow the strict interpreta-
-tion of the term Sabbath in this con-
-nection. Very many modern scholars
+Samaritans follow the strict interpretation of the term Sabbath in this connection. Very many modern scholars
 hold strongly to some form of this
 theory, as Hitzig (Ostern wu. Pfingsten,
 1837 and Ostern τ. Pfingsten im
@@ -14280,7 +13310,6 @@ and Schenkel’s Bibel-Lexicon.
 2. An heifer and a goat, etc. Cf.
 xiv. 9. These are not the sacrifices
 prescribed for this festival in Lev.
-xxiii. 18-20.
 
 3-4, Cf. Gen. xvii. 1-2.
 
@@ -14290,9 +13319,6 @@ ore. and Syr. Am, which are all free
 
 renderings of Ἰῦπππ.
 5-10. Cf. Gen. xvii. 3-8.
-
-
-108 THE BOOK OF JUBILEES
 
 
 eternal covenant, so that I may be a God unto thee, and to
@@ -14308,8 +13334,7 @@ And the child on the eighth day ye will circumcise, every
 male throughout your generations, him that is born in the
 house, or whom ye have bought with money from any
 stranger, whom ye have acquired who is not of thy seed.
-13. He that is born in thy house will surely be circum-
-cised, and those whom thou hast bought with money will
+13. He that is born in thy house will surely be circumcised, and those whom thou hast bought with money will
 be circumcised, and My covenant will be in your flesh for
 an eternal ordinance. 14. And the uncircumcised male
 who is not circumcised in the flesh of his foreskin on the
@@ -14328,8 +13353,7 @@ eighth day ye will circumcise. This
 form of Gen. xvii. 12 is found only in
 the Eth. vers. of that passage and in our
 text. It seems to be a deliberate change
-of “the child of eight days ye shall cir-
-cumcise,” as in Gen. xvii. 12. See on
+of “the child of eight days ye shall circumcise,” as in Gen. xvii. 12. See on
 ver. 14.
 
 14, Of. Gen, xvii. 14.
@@ -14339,8 +13363,7 @@ which are not found in the Mass., Syr.,
 and Vulg., are, however, attested by
 the Sam. and LXX. Also in Origen’s
 Commentary in Ep. ad Rom. ii. 18
-(Lommatzsch, vi. 123-124): Incir-
-cumcisus masculus, qui non fuerit
+(Lommatzsch, vi. 123-124): Incircumcisus masculus, qui non fuerit
 circumcisus in carne praeputii sui die
 octavo, exterminabitur anima illa ; and
 in Ambrose, Epist. 72, who remarks on
@@ -14351,24 +13374,20 @@ wanting in the Hebrew. See on ver.
 
 
 As the Sabbath is the first, so cir
-cumcision is the second cardinal com-
-mand of Judaism. In opposition to
+cumcision is the second cardinal command of Judaism. In opposition to
 the laxity introduced by Greek culture
-the command in Gen. xv. 14 is enunci-
-ated afresh and the requirement added
+the command in Gen. xv. 14 is enunciated afresh and the requirement added
 that it should be performed on the
 eighth day of the child’s life. Owing
 to Greek influences, even before the
 reign of Antiochus IV., many Jews
 of noble birth had undergone surgical
 operations in order to appear like Greeks
-when undressed (1 Mace. i. 15; As-
-sumpt. Mos. viii. 3; Joseph. Ant.
+when undressed (1 Mace. i. 15; Assumpt. Mos. viii. 3; Joseph. Ant.
 xii. 5. 1). Subsequently Antiochus
 had taken the severest measures to
 prohibit circumcision (1 Macc. 1, 48,
-60, ii. 46). Τὸ withstand the Hellenis-
-ing attitude towards circumcision our
+60, ii. 46). Τὸ withstand the Hellenising attitude towards circumcision our
 author emphasises what was apparently
 the current view of his time, ¢.e., that
 circumcision should be performed on
@@ -14396,8 +13415,7 @@ with him, an everlasting covenant, and for his seed after
 the words enjoining it were in both
 Jewish and Samaritan copies of the
 Hebrew text of Gen, xvii. 14 (see above).
-This strict view was subsequently re-
-laxed. Thus, according to Shabb. xix. 5:
+This strict view was subsequently relaxed. Thus, according to Shabb. xix. 5:
 ‘*A child could be circumcised on the
 8th, 9th, 10th, 11th, or 12th day, neither
 earlier nor later. Howso? Usually it
@@ -14409,8 +13427,7 @@ Friday evening it is circumcised on the
 on the 1ith: should the Sunday and
 Monday be New Year’s days, on the
 12th. If the child is ill, it is not
-circumcised till well.” But the Sama-
-ritans have held fast to the severer
+circumcised till well.” But the Samaritans have held fast to the severer
 regulation to the present day. In
 letters of the Samaritans communicated
 by de Sacy to T. Scaliger (Eichhorn’s
@@ -14437,16 +13454,14 @@ should always be circumcised (τῇ ἡμέρᾳ
 infants circumcised one day before or
 one day after the Sabbath, if He knew
 that it was a sinful act on the Sabbath ?”
-This custom is also regarded as obli-
-gatory by the Falashas or Abyssinian
+This custom is also regarded as obligatory by the Falashas or Abyssinian
 Jews. Cf. Abbadie, Univ. Isr. Avr. Ὁ.
 481, 1851 (quoted by Singer, p. 289 note),
 We might observe here that our book
 knows nothing of the later traditions
 that the patriarchs such as Adam, Seth,
 Enoch, Noah, Shem, Terah, Jacob and
-six others were born circumcised (Mid-
-rash Tillin 100, Soteh 102, quoted by
+six others were born circumcised (Midrash Tillin 100, Soteh 102, quoted by
 Hershon, Zreasures of Talmud, 238,
 240, 241). Ber. rabba 48 affirms this
 of Melchizedek. For other references
@@ -14457,8 +13472,7 @@ book knows nothing of the barbarous
 mode of circumcision ordered by the
 Talmudists and Bar Cochba, in order to
 make it impossible to obliterate the
-signs of it by any such surgical opera-
-tion as is referred to above. This
+signs of it by any such surgical operation as is referred to above. This
 mode was known as the nyys, or “the
 laying bare.” This mutilation after
 the removal of the foreskin is still
@@ -14480,8 +13494,7 @@ behold I shall bless him, and make him great, and multiply
 him exceedingly, and he will beget twelve princes, and I
 shall make him a great nation. 21. But My covenant shall
 I establish with Isaac, whom Sarah will bear to thee, in
-these days, in the next year.” 22. And He left off speak-
-ing with him, and God went up from Abraham. 23. And
+these days, in the next year.” 22. And He left off speaking with him, and God went up from Abraham. 23. And
 Abraham did according as God had said unto him, and he
 took Ishmael his son, and all that were born in his house,
 and whom he had bought with his money, every male in his
@@ -14496,8 +13509,7 @@ days; for it is an eternal ordinance, ordained and written
 on the heavenly tables. 26. And every one that is born,
 the flesh of whose foreskin is not circumcised on the eighth
 day, belongs not to the children of the covenant which the
-Lord made with Abraham, but to the children of destruc-
-tion ; nor is there, moreover, any sign on him that he is the
+Lord made with Abraham, but to the children of destruction ; nor is there, moreover, any sign on him that he is the
 Lord’s, but (he is destined) to be destroyed and slain from
 
 
@@ -14525,19 +13537,13 @@ stored with Lat.
 No omission of one day out of the eight
 
 
-Re-
-
-
-days. 1 take this clause to be parallel
+Redays. 1 take this clause to be parallel
 in meaning to the preceding. In no
 case is the circumcision to be performed
-before the eighth day. The word trans-
-lated “omission” is the same as that
-translated “neglecting ” or ‘‘transgress-
-ing” in vi. 81.
+before the eighth day. The word translated “omission” is the same as that
+translated “neglecting ” or ‘‘transgressing” in vi. 81.
 
-26. This verse is simply an enlarge-
-ment of ver. 14, which as we saw is
+26. This verse is simply an enlargement of ver. 14, which as we saw is
 Gen. xvii. 14.
 
 
@@ -14556,8 +13562,7 @@ the earth, and to be rooted out of the earth, for he has
 broken the covenant of the Lord our God. 27. For all the
 angels of the presence and all the angels of sanctification
 have been so created from the day of their creation, and
-before the angels of the presence and the angels of sanctiti-
-cation He hath sanctified Israel, that they should be with
+before the angels of the presence and the angels of sanctitication He hath sanctified Israel, that they should be with
 Him and with His holy angels. 28. And do thou command
 the children of Israel and let them observe the sign of this
 covenant for their generations as an eternal ordinance, and
@@ -14590,13 +13595,9 @@ homoioteleuton.
 27. There are two classes of angels
 mentioned here: the angels of the
 presence (see i. 29 note, ii. 2 note, 18,
-xxxi, 14) and the angels of sanctifica-
-tion (see ii. 2 note, 18 [‘‘holy ones,”
+xxxi, 14) and the angels of sanctification (see ii. 2 note, 18 [‘‘holy ones,”
 “sancti,” xxxi. 147), according to the
-Ethiopic text; but three or four accord-
-ing to the Latin: angeli vultus, arch-
-angeli benedictionis, angeli sanctifica-
-tionis, angeli sanctorum ipsius. But
+Ethiopic text; but three or four according to the Latin: angeli vultus, archangeli benedictionis, angeli sanctificationis, angeli sanctorum ipsius. But
 the last does not constitute a distinct
 order. It is simply » comprehensive
 term for the two (or three) highest
@@ -14604,16 +13605,14 @@ orders, since it occurs in the following
 context: ut esset simul cum ipso et
 cum angelis sanctorum ipsius. Here
 ipso means ‘‘God,” and the angelis
-sanct. ipsius sums up the orders men-
-tioned in the earlier part of the sentence.
+sanct. ipsius sums up the orders mentioned in the earlier part of the sentence.
 Since in 11, 18 the Ethiopic speaks so
 clearly of only two classes, I am inclined
 to believe that ‘benedictionis” is
 
 
 simply an alternative rendering that
-has ousted the true reading, “sanctifica-
-tionis,” and that the context deals only
+has ousted the true reading, “sanctificationis,” and that the context deals only
 with two orders of angels. The two
 orders mentioned here in the Ethiopic
 text are the same two who are said to
@@ -14624,8 +13623,7 @@ this privilege. Now just as the highest
 angels shared with Israel in the privilege
 of the Sabbath, so they shared also
 in the privilege of circumcision. They
-were created circumcised, just as, ac-
-cording to later Judaism, many of the
+were created circumcised, just as, according to later Judaism, many of the
 patriarchs of Israel were born so. (See
 note on ver. 14.) Such a belief was
 not difficult to believers in the loves of
@@ -14636,16 +13634,12 @@ the inferior orders, sought to know the
 Law, but it was hidden from them (see
 Weber, Jiid. Theol.? 25).
 
-30. Chose them. The Ethiopie re-
-produces the Hebrew idiom 3 sn3. The
+30. Chose them. The Ethiopie reproduces the Hebrew idiom 3 sn3. The
 Latin gives elegit ex ipsis.
 
 Israel. See on xvi. 17.
 
 31-32, This idea that Israel was
-
-
-112 THE BOOK OF JUBILEES
 
 
 of men; for there are many nations and many peoples, and
@@ -14677,15 +13671,13 @@ xxxii. 8-9, which, reading Sy instead of
 καὶ ἐγενήθη μέρις Κυρίου λαὸς αὐτοῦ
 ᾿Ιακώβ.
 This view next appears in Sir, xvii.
-17
 
 
 ἑκάστῳ ἔθνει κατέστησεν ἡγούμενον,
 
 καὶ μερὶς Κυρίου ᾿Ισραήλ ἐστιν :
 and in Dan. x. 18, 20, 21, xii. 1,
-where, however, all the nations includ-
-ing even Israel are understood to be
+where, however, all the nations including even Israel are understood to be
 under the patronage of angels, Israel
 being under Michael. According to
 Eth. Enoch Ixxxix. Israel was placed
@@ -14728,20 +13720,17 @@ object of them.
 In later Judaism at all events the
 seventy angels are described as the
 rulers of the nations, These angels
-share in the fortunes, whether favour-
-able or unfavourable, of the nations
+share in the fortunes, whether favourable or unfavourable, of the nations
 over which they bear sway. They
 are likewise the sources of corruption
 to their subject peoples, introducing
-idolatry and impurity. See Eisen-
-ria Entdecktes Judenthum, i. 805-
+idolatry and impurity. See Eisenria Entdecktes Judenthum, i. 805-
 
 20.
 
 33. This verse shows that the
 apostasy in Israel in early part of
-the second cent. B.c. was very wide-
-spread.
+the second cent. B.c. was very widespread.
 
 
 CHAPTERS XV. 32-XVI. 3 113
@@ -14749,8 +13738,7 @@ CHAPTERS XV. 32-XVI. 3 113
 
 sons of Beliar, will leave their sons uncircumcised as they
 were born. 34, And there will be great wrath from the
-Lord against the children of Israel, because they have for-
-saken His covenant and turned aside from His word, and
+Lord against the children of Israel, because they have forsaken His covenant and turned aside from His word, and
 provoked and blasphemed, inasmuch as they do not observe
 the ordinance of this law; for they have treated their
 members like the Gentiles, so that they may be removed
@@ -14760,9 +13748,7 @@ forgiveness and pardon] for all the sin of this eternal error.
 
 
 Angels appear to Abraham in Hebron, and Isaac again
-promised, 1-4. Destruction of Sodom and Lot's deliver-
-ance, 5-9. Abraham at Beersheba: birth of and cir-
-cumcision of Isaac, whose seed was to be the portion of
+promised, 1-4. Destruction of Sodom and Lot's deliverance, 5-9. Abraham at Beersheba: birth of and circumcision of Isaac, whose seed was to be the portion of
 God, 10-19. Institution of the feast of tabernactles,
 20-31. (Cf. Gen. xviii. 1, 10, 12, xix. 24, 29, 33-
 37, xx. 1, 4, 8, xxi. 1-4.)
@@ -14777,10 +13763,7 @@ and we admonished her, and she became afraid, and denied
 that she had laughed on account of the words. 3. And we
 told her the name of her son, as his name is ordained and
 
-Sons of Beliar. An O.T. expres-
-
-
-sion: cf. 1 Sam. 11. 12, etc. For a
+Sons of Beliar. An O.T. expression: cf. 1 Sam. 11. 12, etc. For a
 full treatment of the Beliar myth, see
 
 
@@ -14804,9 +13787,6 @@ inasmuch as they do not observe. Our
 author has forgotten his réle as a
 
 
-8
-
-
 dittography.
 
 XVI. 1. Cf. Gen. xviii. 1,10. Our
@@ -14820,9 +13800,6 @@ did to Josephus (Ant. i. 11. 2, of δὲ
 2. Cf. Gen. xviii, 10, 12, 15.
 
 
-114 THE BOOK OF JUBILEES
-
-
 written in the heavenly tables (7.e.) Isaac, 4. And (that)
 when we returned to her at a set time, she would have
 conceived a son. 5. And in this month the Lord executed
@@ -14830,8 +13807,7 @@ his judgments on Sodom, and Gomorrah, and Zeboim, and
 all the region of the Jordan, and He burned them with fire
 and brimstone, and destroyed them until this day, even as
 [lo] I have declared unto thee all their works, that they are
-wicked and sinners exceedingly, and that they defile them-
-selves and commit fornication in their flesh, and work
+wicked and sinners exceedingly, and that they defile themselves and commit fornication in their flesh, and work
 uncleanness on the earth. 6. And, in like manner, God
 will execute judgment on the places where they have done
 according to the uncleanness of the Sodomites, like
@@ -14844,8 +13820,7 @@ with his daughters. 9. And, behold, it was commanded
 and engraven concerning all his seed, on the heavenly tables,
 to remove them and root them out, and to execute
 judgment upon them like the judgment of Sodom, and to
-leave no seed of the man on earth on the day of con-
-demnation. 10. And in this month Abraham moved from
+leave no seed of the man on earth on the day of condemnation. 10. And in this month Abraham moved from
 Hebron, and departed and dwelt between Kadesh and Shur
 in the mountains of Gerar. 11. And in the middle of the
 fifth month he moved from thence, and dwelt at the Well of
@@ -14880,8 +13855,7 @@ as in Latin. There may, however, as
 Rénsch (p. 102) suggests, have been a
 confusion of ὅρος and ὄρος.
 
-11. All mention of Abraham’s un-
-seemly treatment of Abimelech is
+11. All mention of Abraham’s unseemly treatment of Abimelech is
 omitted.
 
 Well of the Oath, i.e. Beersheba, Gen.
@@ -14897,8 +13871,7 @@ Lord visited Sarah and did unto her as He had spoken, and
 she conceived. 13. And she bare a son in the third month, 1980 a.m.
 and in the middle of the month, at the time of which the
 Lord had spoken to Abraham, on the festival of the first-fruits
-of the harvest, Isaac was born. 14. And Abraham cirecum-
-cised his son on the eighth day: he was the first that was
+of the harvest, Isaac was born. 14. And Abraham cirecumcised his son on the eighth day: he was the first that was
 circumcised according to the covenant which is ordained for
 ever. 15. And in the sixth year of the tfourth+ week we
 came to Abraham, to the Well of the Oath, and we appeared
@@ -14928,8 +13901,7 @@ Leb. Abr. 168), on the first of Nisan.
 “third” as in xv. 1. Abram was in
 his eighty-sixth year when Ishmael
 was born (xiv. 24), that is, in the fifth
-year of the first week of the forty-
-first jubilee. Fifteen years later Isaac
+year of the first week of the fortyfirst jubilee. Fifteen years later Isaac
 was born in the hundredth year of
 Abraham.
 
@@ -14942,8 +13914,7 @@ misunderstanding of text generally.
 16. Blessed him. For “him” Eth.
 
 
-reads “her.” Similarly after ‘‘an-
-nounced to.” The Latin is followed
+reads “her.” Similarly after ‘‘announced to.” The Latin is followed
 here.
 
 
@@ -14975,9 +13946,6 @@ note on xv. 31-82.
 See
 
 
-116 THE BOOK OF JUBILEES
-
-
 unto the Lord a people for (His) possession above all nations
 and that it should become a kingdom and priests and a holy
 nation. 19. And we went our way, and we announced to
@@ -14997,8 +13965,7 @@ on the earth.
 A people for (His) possession =hezba
 terit (cf. xxxiii. 20), emended from hezba
 (a ὃ c) tersit (ὁ ὁ tirsita,a)= “people of
-magnificence.” ὦ reads ‘‘ people of in-
-heritance” (hezba rest), ef. Deut. iv. 20;
+magnificence.” ὦ reads ‘‘ people of inheritance” (hezba rest), ef. Deut. iv. 20;
 Latin, populum sanctificatum. This last
 =)adv ὅσιον, which may be corrupt for
 λαὸν οὐσίας (or meptodcvov)=nbio oy
@@ -15020,13 +13987,11 @@ gives the correct rendering and not the
 Ethiopic version. Yet the latter seems
 vo represent the Hebrew original of
 our text, as we shall see presently.
-First of all we observe that it is in-
-correctly translated in the LXX and
+First of all we observe that it is incorrectly translated in the LXX and
 it is reproduced in two forms in the
 N.T. closely akin to those above. The
 LXX translates it incorrectly by
-βασίλειον ἱεράτευμα (a hierarchy con-
-sisting of kings), and this rendering is
+βασίλειον ἱεράτευμα (a hierarchy consisting of kings), and this rendering is
 adopted in 1 Pet. ii. 9. In Rev. v. 10
 we have βασιλείαν καὶ ἱερεῖς exactly as
 in our Ethiopic text, and in i. 6
@@ -15047,10 +14012,7 @@ in Onkelos as puna pabp (as in Rev.
 i 6); in Ps.-Jon. xbba swp pada
 ~wowd ping) (=kings with crowns
 and ministering priests); in the Jer.
-Targ. oan paso; and the Syr. ver-
-
-
-sion Londo 12 ; exactly
+Targ. oan paso; and the Syr. version Londo 12 ; exactly
 as in our Ethiopic text and in Rev.
 v. 10. Thus we conclude that the
 Ethiopic text represents the Hebrew
@@ -15086,8 +14048,7 @@ each day to the altar a burnt-offering to the Lord, two oxen,
 two rams, seven sheep, one he-goat, for a sin-offering, that
 he might atone thereby for himself and for his seed. 23.
 And, as a thank-offering, seven rams, seven kids, seven sheep,
-and seven he-goats, and their fruit-offerings and their drink-
-offerings; and he burnt all the fat thereof on the altar, a
+and seven he-goats, and their fruit-offerings and their drinkofferings; and he burnt all the fat thereof on the altar, a
 chosen offering unto the Lord for a sweet smelling savour.
 24. And morning and evening he burnt fragrant substances,
 frankincense and galbanum, and stackte, and nard, and
@@ -15133,15 +14094,13 @@ enumerated in Sir. xxiv. 15:
 correspond in kind and number with
 those offered by Hezekiah in 2 Chron.
 xxix. 21, but in the latter passage they
-constitute a sin-offering for the king-
-dom.
+constitute a sin-offering for the kingdom.
 
 24. Fragrant substances=7dvopaTa
 =o. Ourauthor is here making use
 of Exod. xxx. 34, and not of Num.
 iv. 16; Lev. iv. 7 etc. as the Latin
-implies, which has incensum com-
-positionis = θυμίαμα τῆς συνθέσεως from
+implies, which has incensum compositionis = θυμίαμα τῆς συνθέσεως from
 Lev. iv. 7, xvi. 18; Num. iv. 16
 (o‘x0n myp). The Ethiopic appears to
 be right.
@@ -15172,16 +14131,12 @@ Cf. also lxxxiv. 6, xciii. 2 in the same
 work,
 
 
-118 THE BOOK OF JUBILEES
-
-
 eousness for the eternal generations, and from him a holy
 seed, so that it should become like Him who had made all
 things. 27. And he blessed and rejoiced, and he called
 the name of this festival the festival of the Lord, a joy
 acceptable to the Most High God. 28. And we blessed him
-for ever, and all his seed after him throughout all the gener-
-ations of the earth, because he celebrated this festival in its
+for ever, and all his seed after him throughout all the generations of the earth, because he celebrated this festival in its
 season, according to the testimony of the heavenly tables.
 29. For this reason it is ordained on the heavenly tables
 concerning Israel, that they shall celebrate the feast of
@@ -15206,7 +14161,6 @@ that God should require Abraham to sacrifice Isaac in
 
 
 29. A statute for ever, etc. Lev.
-xxiii. 41.
 
 30. Cf. Lev. xxiii. 40.
 
@@ -15214,15 +14168,12 @@ Set wreaths upon their heads. This
 
 
 is unknown to tradition in connection
-with the feast. The custom of wear-
-ing chaplets at feasts is referred to in
+with the feast. The custom of wearing chaplets at feasts is referred to in
 Wisdom ii. 7-8 ; Joseph. Ant. xix. 9.1
 (cf. 3 Macc. iv. 8), but it cannot be
-established as a Jewish one. Bride-
-grooms, however, were adorned with
+established as a Jewish one. Bridegrooms, however, were adorned with
 myrtles and roses, Gittin 7a, Sota 49 ὃ
-(Beer, Buch d. Jub. 47). The meta-
-phorical use of ‘“‘crown” or “wreath”
+(Beer, Buch d. Jub. 47). The metaphorical use of ‘“‘crown” or “wreath”
 
 
 as ὁ στέφανος τῆς ζωῆς (Rev. ii, 10:
@@ -15302,9 +14253,6 @@ cum Isac, wa-yezafen may be corrupt nation of robbers.”
 2003 A.M.
 
 
-120 THE BOOK OF JUBILEES
-
-
 of water, and placed them on the shoulders of Hagar and
 the child, and sent her away. 9. And she departed and
 wandered in the wilderness of Beersheba, and the water in
@@ -15319,8 +14267,7 @@ Arise take the child, and hold him in thine hand; for God
 hath heard thy voice, and hath seen the child.” 12. And
 she opened her eyes, and she saw a well of water, and she
 went and filled her bottle with water, and she gave her
-child to drink, and she arose and went towards the wilder-
-ness of Paran. 13. And the child grew and became an
+child to drink, and she arose and went towards the wilderness of Paran. 13. And the child grew and became an
 archer, and God was with him; and his mother took him a
 wife from among the daughters of Egypt. 14. And she
 bare him a son, and he called his name Nebaioth; for she
@@ -15372,16 +14319,10 @@ Thou hast given fruit of the body to
 CHAPTER XVII. 9-18
 
 
-121
-
-
 before God, “ Behold, Abraham loves Isaac his son, and he
 delights in him above all things else; bid him offer him as
 a burnt-offering on the altar, and Thou wilt see if he will do
-this command, and Thou wilt know if he is faithful in every-
-
-
-thing wherein Thou dost try him.
+this command, and Thou wilt know if he is faithful in everything wherein Thou dost try him.
 
 
 17. And the Lord knew
@@ -15405,10 +14346,8 @@ everything wherein He had tried him, he was found faithful,
 
 this old man of 100 years, and yet in
 all the feasts celebrated by him, he has
-never offered in sacrifice to Thee a bul-
-lock or a young dove.’ God answered
-him: ... ‘If I were to say to him, Sac-
-tifice thy son, he would sacrifice him,
+never offered in sacrifice to Thee a bullock or a young dove.’ God answered
+him: ... ‘If I were to say to him, Sactifice thy son, he would sacrifice him,
 etc.’”? Cf. also Bk. of Jashar (ii. 1139).
 
 17. According to xix. 8 Abraham
@@ -15422,16 +14361,14 @@ dismissal of Ishmael and Hagar. In
 xix. 3, 8 the burial of Sarah is specially
 mentioned as the tenth. The eighth and
 ninth though not specifically reckoned
-as such in our text are the unfruitful-
-ness of Sarah, xiv. 21, and the sacrifice
+as such in our text are the unfruitfulness of Sarah, xiv. 21, and the sacrifice
 of Isaac, xviii. This enumeration agrees
 closely with those of Maimonides, Jona
 Girondi and Simon Duran which are
 given below. From Beer’s Leben Abr.
 190-192 I draw the account in Pirke
 R. Eliezer, ch. 26 sq.: 1. Nimrod’s
-attempt on his life. 2. Ten years im-
-prisonment in Cutha and Khadr. 3.
+attempt on his life. 2. Ten years imprisonment in Cutha and Khadr. 3.
 Departurefromhis country. 4. Famine.
 δ. Seizure of his wife. 6. War with the
 kings. 7. Covenant between the pieces.
@@ -15445,27 +14382,22 @@ he was bidden to leave his home (Gen.
 
 
 xii. 1) and to go to Mt. Moriah to
-sacrifice Isaac (xx. 2): two in con-
-nection with his sons: two in connection
+sacrifice Isaac (xx. 2): two in connection with his sons: two in connection
 with his wives: one with the kings:
 one between the sacrifical pieces: one
 in the furnace of the Chaldees: one in
-circumcision. According to the reckon-
-ing of Maimonides (see Fabricius (ibid.
+circumcision. According to the reckoning of Maimonides (see Fabricius (ibid.
 399); Ronsch, 383) the trials were: 1.
 Going forth from his country. 2.
 Famine. ὃ. Seizure of his wife. 4.
-War with the kings. 5. Unfruitful-
-ness of Sarah. 6. Circumcision. 7.
-Second seizure of his wife. 8, 9. Ex-
-pulsion of Hagar and Ishmael. 10.
+War with the kings. 5. Unfruitfulness of Sarah. 6. Circumcision. 7.
+Second seizure of his wife. 8, 9. Expulsion of Hagar and Ishmael. 10.
 Sacrifice of Isaac. It will be remarked
 that this last list corresponds best with
 our text; but the correspondence of
 the following lists is closer: Beer
 (Leben Abr, 191) writes: Die meisten
-spateren Aboth-Commentatoren schlos-
-sen sich den Pirke des R. Hlieser an,
+spateren Aboth-Commentatoren schlossen sich den Pirke des R. Hlieser an,
 blos darin variirend, dass Einige (Obadia
 Bertinoro and Menachem Meiri) anstatt
 des unterirdischen Aufenthaltes in
@@ -15476,15 +14408,11 @@ Duran) den Bund zwischen den Stiicken
 nicht unter die Versuchungen aufnehmen,
 aber an dessen Stelle gegen alle friiheren
 Referate, welche die Zehnzahl mit der
-Opferung Isaak’s schliessen, die Beer-
-digung Sara’s als zehnte Versuchung
+Opferung Isaak’s schliessen, die Beerdigung Sara’s als zehnte Versuchung
 hinstellten. Thus Jona Girondi and
 Simon Duran agree with our text in
 making the burial of Sarah the tenth
 trial of Abraham.
-
-
-122 THE BOOK OF JUBILEES
 
 
 and his soul was not impatient, and he was not slow to act;
@@ -15493,7 +14421,6 @@ for he was faithful and a lover of the Lord.
 
 Sacrifice of Isaac: Mastémd put to shame, 1-13. Abraham
 again blessed: returns to Beersheba, 14-19. (Cf. Gen.
-xxii, 1-19.)
 
 
 XVIII. And God said to him, “Abraham, Abraham ”; and
@@ -15513,8 +14440,7 @@ his son, and he took in his hand the fire and the knife, and
 they went both of them together to that place. 6. And
 Isaac said to his father, “ Father”; and he said, “ Here am I,
 my son.” And he said unto him, “ Behold the fire, and the
-knife, and the wood; but where is the sheep for the burnt-
-offering, father?” 7. And he said, “God will provide for
+knife, and the wood; but where is the sheep for the burntoffering, father?” 7. And he said, “God will provide for
 himself a sheep for a burnt-offering, my son.” And he drew
 near to the place of the mount of God. 8. And he built an
 altar, and he placed the wood on the altar, and bound Isaac his
@@ -15542,8 +14468,7 @@ heaven, and said unto him: “ Abraham, Abraham”; and he
 was terrified and said: “Behold, (here) am 1. 11. And I
 said unto him: “Lay not thy hand upon the lad, neither do
 thou anything to him; for now I have shown that thou
-fearest the Lord, and hast not withheld thy son, thy first-
-born son, from me.” 12. And the prince of the Mastéma was
+fearest the Lord, and hast not withheld thy son, thy firstborn son, from me.” 12. And the prince of the Mastéma was
 put to shame ; and Abraham lifted up his eyes and looked, and,
 behold,a single ram caught... by his horns, and Abraham went
 and took the ram and offered it for a burnt-offering in the stead
@@ -15573,10 +14498,8 @@ manifestavi (= ny7). The Eth. could
 also be rendered “I have known,”
 as Mass. and Sam. of Gen. xxii. 12
 sayy, but the Latin, manifestavi, is
-unmistakeable and this rendering is sup-
-ported by both Eth, and Latin in ver.
-16. TheSyr. has the very same render-
-ing: AS;o} =I have shown. Ps.-
+unmistakeable and this rendering is supported by both Eth, and Latin in ver.
+16. TheSyr. has the very same rendering: AS;o} =I have shown. Ps.-
 Jon. has $i=manifestatum est. ‘I
 have shown ”’ is suitable to the context.
 God proves Abraham’s faithfulness to
@@ -15604,8 +14527,7 @@ appeared.” Latin=fuimus is corrupt.
 15. Thy beloved son (ὦ ἀ) Ξετοῦ ἀγα-
 πητοῦ cov= 77". Lat., tuo unigenito=
 τοῦ μονογενοῦς cov = syn. Hence
-Hebrew text seems to have had a ditto-
-graphical text just as LXX(A)of Judges
+Hebrew text seems to have had a dittographical text just as LXX(A)of Judges
 xi. 84: αὕτη μονογενὴς αὐτῷ ἀγαπητή,
 and LXX and Vulg. of Gen. xxii. 2, 12,
 16 postulate similar dittographies of the
@@ -15614,9 +14536,6 @@ the other hand ὃ ὁ under influence of ver.
 
 
 2010 a.m.
-
-
-124 THE BOOK OF JUBILEES
 
 
 That in blessing I shall bless thee,
@@ -15750,9 +14669,7 @@ wrongly gives ‘‘ forty.”
 Of the years. a and Latin omit.
 
 8. Tenth trial. In addition to the
-references on xvii. 17 see also the Say-
-ings of the Fathers,? v. 3 (Taylor’s edi-
-tion, p. 80), which speaks of the ten
+references on xvii. 17 see also the Sayings of the Fathers,? v. 3 (Taylor’s edition, p. 80), which speaks of the ten
 trials of Abraham.
 
 9. Friend of God. Of. xxx. 20, 21.
@@ -15760,9 +14677,6 @@ This expression springs from the O.T. :
 
 
 2046 A.M.
-
-
-126 THE BOOK OF JUBILEES
 
 
 thereof he took a wife for his son Isaac and her name was
@@ -15805,8 +14719,7 @@ Daughter of Bethuel; and Bethuel.
 Emended with help of Latin. See my
 text, p. 66.
 
-[The daughter... brother of Abra-
-ham).  Bracketed as a dittography,
+[The daughter... brother of Abraham).  Bracketed as a dittography,
 already in the Greek, as it appears in
 the Latin version.
 
@@ -15818,12 +14731,8 @@ why Abraham did not take Hagar
 back. Later tradition—Gen. rabba 61,
 Ps.-Jon. and Targ. Jer. on Gen. xxvii.
 —got over the difficulty by identifying
-Hagar and Keturah. This view is men-
-
-
-tioned by Jerome, Quaest. Hebr.in Gen.
-xxv, 1: Cetura Hebraeo sermone copu-
-latainterpretatur aut juncta (al. vincta).
+Hagar and Keturah. This view is mentioned by Jerome, Quaest. Hebr.in Gen.
+xxv, 1: Cetura Hebraeo sermone copulatainterpretatur aut juncta (al. vincta).
 Quam ob causam suspicantur Hebraei
 mutato nomine eandem esse Agar, quae
 Saraa mortua de concubina transierit
@@ -15843,8 +14752,7 @@ MAadai, Madan, ’Ijazbéq, Séhija.
 
 Sixth. This date harmonises with
 that in xxv. 1, 4, according to which
-Jacob was 63 in 2109 a.m., but dis-
-agrees with that in xlv. 13.
+Jacob was 63 in 2109 a.m., but disagrees with that in xlv. 13.
 
 Smooth and upright. So be. Two
 different renderings of on wx (Gen.
@@ -15868,8 +14776,7 @@ for he was a man of the field and a hunter, and he learnt
 war, and all his deeds were fierce. 15. And Abraham loved
 Jacob, but Isaac loved Esau. 16. And Abraham saw the
 deeds of Esau, and he knew that in Jacob should his name
-and seed be called; and he called Rebecca and gave com-
-mandment regarding Jacob, for he knew that she (too) loved
+and seed be called; and he called Rebecca and gave commandment regarding Jacob, for he knew that she (too) loved
 Jacob much more than Esau. 17. And he said unto her:
 “My daughter, watch over my son Jacob,
 
@@ -15915,8 +14822,7 @@ rabba 63. See Beer, Leben Abr. p.
 16. Abraham recognises by his
 conduct the predestined founder of
 the nation (ii. 20). The promise given
-in xvi. 16, xvii. 6 is here further de-
-fined. According to Ps.-Jon. on Gen.
+in xvi. 16, xvii. 6 is here further defined. According to Ps.-Jon. on Gen.
 xxv. 9; Ber. rabba 63, Abraham died
 
 
@@ -15938,9 +14844,6 @@ Peoples. Restored from Latin.
 of our text.
 
 
-128 THE BOOK OF JUBILEES
-
-
 23. And all the blessings wherewith the Lord hath blessed
 me and my seed shall belong to Jacob and his seed alway.
 24. And in his seed shall my name be blessed, and the
@@ -15952,9 +14855,7 @@ To lay the foundations of the heaven,
 
 And to strengthen the earth,
 
-And to renew all the luminaries which are in the firma-
-
-ment.”
+And to renew all the luminaries which are in the firmament.”
 
 26. And he called Jacob before the eyes of Rebecca his
 and blessed him, and said:
@@ -16012,9 +14913,6 @@ impurity and idolatry, 1-10. Dismisses them with gifts,
 of Keturah, 12-13. (Cf. Gen. xxv. 5-6.)
 
 
-2052
-
-
 XX. And in the forty-second jubilee, in the first year (12045) λει.
 
 
@@ -16024,14 +14922,12 @@ Keturah, and their sons. 2. And he commanded them that
 they should observe the way of the Lord; that they should
 work righteousness, and love each his neighbour, and act on
 this manner amongst all men; that they should each so
-walk with regard to them as to do judgment and righteous-
-ness on the earth. 3. That they should circumcise their
+walk with regard to them as to do judgment and righteousness on the earth. 3. That they should circumcise their
 sons, according to the covenant which He had made with
 them, and not deviate to the right hand or the left of all
 the paths which the Lord had commanded us; and that we
 should keep ourselves from all fornication and uncleanness,
-[and renounce from amongst us all fornication and unclean-
-ness]. 4, And if any woman or maid commit fornication
+[and renounce from amongst us all fornication and uncleanness]. 4, And if any woman or maid commit fornication
 amongst you, burn her with fire, and let them not commit
 fornication with her after their eyes and their heart; and
 let them not take to themselves wives from the daughters
@@ -16054,7 +14950,6 @@ between the dismissal of Ishmael and
 his sons to their distant homes (xx.
 11) and the return of Ishmael and
 Jacob to celebrate the feast of weeks
-(xxii. 1).
 
 His twelve sons.
 138-15.
@@ -16076,20 +14971,13 @@ descendants.
 Bracketed as a dittography.
 
 4. This halacha does not agree exactly
-with those in Leviticus and Deutero-
-nomy, etc., but with that implied in
+with those in Leviticus and Deuteronomy, etc., but with that implied in
 Gen. xxxviii. 24. According to Deut.
 xxii. 23 sqq. ; Ezek. xvi. 40; Lev. xx.
 10 the adulteress was to be put to
 
 
-130
-
-
 land.
-
-
-THE BOOK OF JUBILEES
 
 
 5, And he told them of the judgment of the giants,
@@ -16103,10 +14991,7 @@ account of their fornication, and uncleanness, and mutual
 corruption through fornication.
 
 
-6. “ And guard yourselves from all fornication and unclean-
-
-
-ness,
+6. “ And guard yourselves from all fornication and uncleanness,
 
 
 And from all pollution of sin,
@@ -16125,10 +15010,7 @@ And all your remnant as the sons of Gomorrah.
 And cleave ye to all His commandments.
 
 
-And walk not after their idols, and after their unclean-
-
-
-nesses,
+And walk not after their idols, and after their uncleannesses,
 
 
 8. And make not for yourselves molten or graven gods ;
@@ -16171,8 +15053,7 @@ Levitical law. See notes on xli. 25, 26.
 6. Make our name a curse, and your
 whole life a hissing. Based on Is. xv.
 15; Jer.xxix.18. Cf. Eth. En.v.6. For
-“a hissing” (so Latin) a gives ‘‘a threat-
-ening” and bcd “a, cause of boasting.”
+“a hissing” (so Latin) a gives ‘‘a threatening” and bcd “a, cause of boasting.”
 
 8. Cf, xit. δ, xxii. 18.
 
@@ -16250,8 +15131,6 @@ Bless all your works, etc. Cf. Deut. xii. 2; and xxi. 25 of our text.
 xxviii. 8. 11. Cf. Gen. xxv. 6.
 Bless thy bread and thy water. Exod. 12. Paran. Eth. Pharmén.
 
-xxiii. 20.
-
 
 Fruit of thy womb and the fruit of
 thy land, And the herds, etc. Deut. vii.
@@ -16259,20 +15138,12 @@ thy land, And the herds, etc. Deut. vii.
 generally = ‘‘seed,” but it also means
 
 
-13. Was called Arabs, and Ishmael-
-ites. So Eth. The Latin=“ Clave to
+13. Was called Arabs, and Ishmaelites. So Eth. The Latin=“ Clave to
 the Arabs and (they are) Ishmaelites
 unto this day.”
 
 
-2057
 (42050) A.M.
-
-
-132
-
-
-THE BOOK OF JUBILEES
 
 
 sacrifice and the duty of washing before sacrifice and of
@@ -16294,10 +15165,7 @@ of my death, and am full of my days.
 
 one hundred and seventy-five years old, and throughout all
 the days of my life I have remembered the Lord, and
-sought with all my heart to do His will, and to walk up-
-
-
-rightly in all His ways.
+sought with all my heart to do His will, and to walk uprightly in all His ways.
 
 
 3. My soul has hated idols, (and I
@@ -16318,8 +15186,7 @@ commanded him. Cf. Test. Levi 9:
 ᾿Ισαὰκ ἐκάλει με. . . τοῦ ὑπομνῆσαί με
 νόμον Kuplov. The rest of this chapter
 according to our author deals with
-Abraham’s directions to Isaac regard-
-ing the various kinds of sacrifices, the
+Abraham’s directions to Isaac regarding the various kinds of sacrifices, the
 woods to be used on the altar, the
 ablutions of the priest, the duty of
 avoiding fornication. Now it is quite
@@ -16340,8 +15207,7 @@ Jubilees xxi. 1 ‘‘I am become old and
 know not the day of my death” are
 used by Isaac in Gen. xxvii. 2 and not
 by Abraham. But the two views are
-compatible. Our text represents Abra-
-ham as giving directions as to sacrifices,
+compatible. Our text represents Abraham as giving directions as to sacrifices,
 etc., to Isaac; and the Test. Levi
 represents Isaac as handing them on
 
@@ -16403,17 +15269,13 @@ and faithful, and He is righteous beyond all, and there is
 with Him no accepting of (men’s) persons and no accepting
 of gifts; for God is righteous, and executeth judgment on
 all those who transgress His commandments and despise His
-covenant. 5. And do thou, my son, observe His command-
-ments and His ordinances and His judgments, and walk not
+covenant. 5. And do thou, my son, observe His commandments and His ordinances and His judgments, and walk not
 after the abominations and after the graven images and
 after the molten images. 6. And eat no blood at all of
 animals or cattle, or of any bird which flies in the heaven.
-7. And if thou dost slay a victim as an acceptable peace-
-offering, slay ye it, and pour out its blood upon the altar,
+7. And if thou dost slay a victim as an acceptable peaceoffering, slay ye it, and pour out its blood upon the altar,
 and all the fat of the offering offer on the altar with fine
-flour (and the meat-offering) mingled with oil, with its drink-
-offering — offer them all together on the altar of burnt-
-offering ; it is a sweet savour before the Lord. 8. And
+flour (and the meat-offering) mingled with oil, with its drinkoffering — offer them all together on the altar of burntoffering ; it is a sweet savour before the Lord. 8. And
 thou wilt offer the fat of the sacrifice of thank-offerings
 on the fire which is upon the altar, and the fat which is
 on the belly, and all the fat on the inwards and the two
@@ -16451,8 +15313,7 @@ the above the Ethiopic reads “as...
 
 as.” Lev. iii. 9-10, which our author has
 before him, supports the Latin: “ And
-he shall offer of the sacrifice of peace-
-offerings an offering made by fire . .
+he shall offer of the sacrifice of peaceofferings an offering made by fire . .
 and the fat which covereth the inwards,
 and all the fat that is upon the inwards
 and the two kidneys, and the fat that
@@ -16475,9 +15336,6 @@ And upon the loins.
 
 
 Lev. iii. 10 has
-
-
-134 THE BOOK OF JUBILEES
 
 
 9. And offer all these for a sweet savour acceptable before
@@ -16511,8 +15369,7 @@ Let it no longer be eaten=jétbal&é,
 emended from jétbahal (ab). cd=
 “thou shalt not eat.”
 
-Written in the books of my fore-
-fathers. According to x. 14 Noah gave
+Written in the books of my forefathers. According to x. 14 Noah gave
 all his secret books to Shem, who
 may have passed them on to Abraham,
 as, according to rabbinic tradition,
@@ -16529,8 +15386,7 @@ heaven, and which had come down to
 Shem through Enoch and Noah. The
 present passage in our text as well as
 vii. 88 and Test. XII. Patriarch. Zeb. 3
-trace back certain halachoth to com-
-mands or books of Enoch and Noah.
+trace back certain halachoth to commands or books of Enoch and Noah.
 None of the ancient books preserved
 under these names are of an halachic
 character. There was probably no
@@ -16563,8 +15419,7 @@ here is probably corrupt. δώδεκατε
 ef corrupt for $= 14. The Eth. Enoch
 iii. speaks of fourteen evergreen trees,
 and may be in that passage dependent
-on our text. With the list of four-
-teen trees jin our text, cf. that in
+on our text. With the list of fourteen trees jin our text, cf. that in
 the Geoponica xi. 1: δένδρα ἀειθαλῆ
 ἐστι. .. ιδ΄" (1) φοῖνιξ, (2) κίτριον, (8)
 στρόβιλος, (4) δάφνη, (5) ἐλαία, (6)
@@ -16597,8 +15452,7 @@ and when thou art done sacrificing, wash again thy hands
 and thy feet. 17. And let no blood appear upon you nor
 upon your clothes; be on thy guard, my son, against blood,
 be on thy guard exceedingly ; cover it with dust. 18. And
-do not eat any blood, for it is the soul; eat no blood what-
-ever. 19. And take no gifts for the blood of man, lest it be
+do not eat any blood, for it is the soul; eat no blood whatever. 19. And take no gifts for the blood of man, lest it be
 
 
 6, 3, 8, 12, 1 (Ὁ, 5, 11, 4, 2 (or 7), 14,
@@ -16620,12 +15474,10 @@ Syriac, and is a kind of fir.
 
 Sagad. This has been identified
 with the pv, “the almond”; but
-wrongly, since the trees are all ever-
-green.
+wrongly, since the trees are all evergreen.
 
 Citron. I have taken qédar as
-corrupt for κίτριον. It may be a cor-
-ruption of xeparéa. On wood for the
+corrupt for κίτριον. It may be a corruption of xeparéa. On wood for the
 sacrifices see Middoth ii. 5; Tamid
 290; Sifra on Lev. i. 8 (Beer, Buch ὦ.
 Jub. p. 35).
@@ -16664,9 +15516,6 @@ blood, . . . cover ἐξ with dust. Cf.
 Lev. xvii. 13,
 
 18. Cf. Lev. xvii. 14; Deut. xii. 23.
-
-
-136 THE BOOK OF JUBILEES
 
 
 shed with impunity, without judgment; for it is the blood
@@ -16710,7 +15559,7 @@ And observe the ordinance of the Most High God,
 19. Causes the earth to sin. This 22. Sin unto death=dpaprlav θανα-
 
 
-goes back to mn>= “ pollutes.”
+goes back to mn)= “ pollutes.”
 
 The earth cannot be cleansed, οἷο.
 Cf. vii. 33; Num. xxxv. 88.
@@ -16735,8 +15584,7 @@ as an interpolation, since it spoils the
 parallelism,
 
 Give thee back into the hands of thy
-transgression. Has this vigorous ex-
-pression been suggested by Gen. iv. 7
+transgression. Has this vigorous expression been suggested by Gen. iv. 7
 “Tf thou dost not well, sin is a lurker
 at the door” ?
 
@@ -16772,7 +15620,7 @@ That thou mayest be a blessing on all the earth.”
 
 Isaac, Ishmael, and Jacob celebrate the feast of first-fruits at
 Beersheba with Abraham, 1-5. Prayer of Abraham,
-6-9.  Abraham’s last words to and blessings of Jacob,
+6-9. (Abraham’s last words to and blessings of Jacob,
 10-30.
 
 
@@ -16786,17 +15634,13 @@ two sons had come. 2. For Isaac had many possessions in
 Beersheba, and Isaac was wont to go and see his possessions
 
 
-24, Plant of righteousness. See Dillmann suggests that for ‘‘ forty-
-xvi. 26. fourth” we should read “forty-third.”
+24, Plant of righteousness. See Dillmann suggests that for ‘‘ fortyxvi. 26. fourth” we should read “forty-third.”
 25. I have with some hesitation But this would make the year of
 arranged this verse as Hebrew poetry.  Abraham’s death 2060, whereas (see
 : on xxi. 1) he died in the year 2051.
 Mayest be a blessing. Cf. xx. 10. Hence I propose: “in the sixth week
 XXII. 1. All the dates in this verse in theforty-second jubilee, in theseventh
 appear to be wrong. The total=2116. year” =2051.
-
-
-138 THE BOOK OF JUBILEES
 
 
 and to return to his father. 3. And in those days Ishmael
@@ -16847,8 +15691,7 @@ Assumpt. Mos. iv. 2. 10, 15, 29 and Deut. iv. 20.
 CHAPTER XXII. 3-14 139
 
 
-the God of all bless thee and strengthen thee to do righteous-
-ness, and His will before Him, and may He choose thee and
+the God of all bless thee and strengthen thee to do righteousness, and His will before Him, and may He choose thee and
 thy seed that ye may become a people for His inheritance
 according to His will alway. And do thou, my son, Jacob,
 draw near and kiss me.” 11. And he drew near and
@@ -16923,12 +15766,6 @@ a1 instead of 7}. Cf, Num. vi. 9.
 14. Unrighteousness and impurity.
 Emended with Latin inquinamento et
 injustitia. ΜΒ Ξε “impure defilement.”
-
-
-140
-
-
-THE BOOK OF JUBILEES
 
 
 That thou mayest be forgiven all (thy) transgressions ;
@@ -17009,8 +15846,7 @@ Cf. Is. lii. 11.
 
 Eat not with them. A Jew could
 not eat with a Gentile ; for the animals
-might not have been slaughtered ac-
-cording to the prescriptions of the Law
+might not have been slaughtered according to the prescriptions of the Law
 (Deut. xii. 28, 24) or might have been
 amongst those that were forbidden to
 the Jew (Lev. xi. 4-7, 10-12, 13-20)
@@ -17026,8 +15862,7 @@ See Driver’s Commentary on Daniel i. 8-
 for the Pharisaic attitude.
 
 Their ways are a pollution. Cf. ver.
-19. Observe how frequently this con-
-ception returns in all accounts of the
+19. Observe how frequently this conception returns in all accounts of the
 persecution of Antiochus Epiphanes and
 his successors: μιαίνειν in 1 Macc. i.
 46, 63, iv. 45, vii. 34, xiv. 36; μιασμός,
@@ -17139,12 +15974,9 @@ commands see xxv. 5, xxvii. 10, xxx
 7 of our text; Test. Levi 9.
 
 For all his seed, etc. This line
-recurs in ver. 21>; for the two Ethiopic
+recurs in ver. 21); for the two Ethiopic
 verbs are not infrequently renderings
 of the same word in Greek.
-
-
-142 THE BOOK OF JUBILEES
 
 
 And none springing from him will be saved on the day
@@ -17266,8 +16098,7 @@ natural translation ; but if we adopt
 
 147a, 1510.
 
-27. This verse looks like an inter-
-polation. It professes to give Abraham’s
+27. This verse looks like an interpolation. It professes to give Abraham’s
 blessing of Jacob, and yet does not
 mention him at all. Jacob’s blessing
 begins in ver. 28. This verse follows
@@ -17292,9 +16123,7 @@ it, there is no principal verb.
 
 28. Over whom with all my heart
 
-. . 1 rejoice (cd). But αὖ read “re-
-joice” in 3rd sing. This reading pre-
-supposes “heart and affection” as the
+. . 1 rejoice (cd). But αὖ read “rejoice” in 3rd sing. This reading presupposes “heart and affection” as the
 subject of “rejoice,” just as in ver. 26.
 In that case if instead of zaba (twice)
 we read baza (twice) we have as follows:
@@ -17312,12 +16141,8 @@ viii. 29,52; Neh. i. 6; Dan. ix. 18.
 15.
 
 
-144 THE BOOK OF JUBILEES
-
-
 of the Gentiles, 11-25. Renewed study of the law and
-renewal of mankind: Messianic kingdom: blessed im-
-mortality of the righteous, 26-31.
+renewal of mankind: Messianic kingdom: blessed immortality of the righteous, 26-31.
 
 
 XXIII. And he placed two fingers of Jacob on his eyes,
@@ -17375,8 +16200,7 @@ The days of weeping ="33 5) (cf.
 Deut. xxxiv. 8; Gen. 1. 4). b= “the
 lamentation of the weeping” = 22 3
 (cf. Jer. xxxi. 15) which I take to be a
-corruption of 138 "5", ὦ reads “lamenta-
-tion and weeping” and ac “ weeping.”
+corruption of 138 "5", ὦ reads “lamentation and weeping” and ac “ weeping.”
 
 
 CHAPTER XXIII. 1-12 145
@@ -17388,27 +16212,20 @@ the days of his life, being old and full of days. 9. For
 the days of the forefathers, of their life, were nineteen
 jubilees ; and after the Flood they began to grow less than
 nineteen jubilees, and to decrease in jubilees, and to grow
-old quickly, and to be full of their days by reason of mani-
-fold tribulation and the wickedness of their ways, with the
+old quickly, and to be full of their days by reason of manifold tribulation and the wickedness of their ways, with the
 exception of Abraham, 10. For Abraham was perfect in
-all his deeds with the Lord, and well-pleasing in righteous-
-ness all the days of his life; and behold, he did not com-
-plete four jubilees in his life, when he had grown old by
+all his deeds with the Lord, and well-pleasing in righteousness all the days of his life; and behold, he did not complete four jubilees in his life, when he had grown old by
 reason of the wickedness, and was full of his days. 11.
 And all the generations which will arise from this time
 until the day of the great judgment will grow old quickly,
 before they complete two jubilees, and their knowledge will
-forsake them by reason of their old age [and all their know-
-ledge will vanish away]. 12. And in those days, if a man
+forsake them by reason of their old age [and all their knowledge will vanish away]. 12. And in those days, if a man
 live a jubilee and a-half of years, they will say regarding
 him: “He has lived long, and the greater part of his days
 are pain and sorrow and tribulation, and there is no peace:
 
 
-8. Cf. Gen. xxv. 8. See xxi. 1 of ness of others. He was himself “ per-
-
-
-our text.
+8. Cf. Gen. xxv. 8. See xxi. 1 of ness of others. He was himself “ perour text.
 
 9. Men’s years grow less, part passu,
 with the growing corruption.
@@ -17432,10 +16249,7 @@ from the corruption of ws=“ when”
 into ἕως τε ‘‘ until.”
 
 By reason of the wickedness. Abraham
-grew old early because of the wicked-
-
-
-fect,” according to our author.
+grew old early because of the wickedfect,” according to our author.
 
 11. Generations which will arise...
 until the day of the great judgment.
@@ -17459,9 +16273,6 @@ away]. A dittography. Lat. omits.
 pain and sorrow. Ps. xc. 10. Our
 text gives the same rendering of nam
 as the LXX, Syr., Chald., and Vulg.
-
-
-10
 
 
 τ46 THE BOOK OF JUBILEES
@@ -17537,10 +16348,7 @@ actual history and the expectations of
 the Chasids in the second cent. B.c.
 Bousset (Z. f. NTliche Wissensch. 1900,
 p. 199) has already recognised that this
-chapter deals with the Maccabean move-
-ment. The conclusiveness of this inter-
-pretation will grow stronger as we pro-
-ceed. It is no little confirmation of
+chapter deals with the Maccabean movement. The conclusiveness of this interpretation will grow stronger as we proceed. It is no little confirmation of
 our view that we find the same events
 in Judaism depicted in allegorical
 language in Eth. Enoch xe. 6-7: “But
@@ -17552,13 +16360,11 @@ did not hear what they said to them,
 but were exceedingly deaf, and their
 eyes were exceedingly and forcibly
 blinded.” Here “the white sheep”
-are the faithful adherents of the theo-
-cracy ; the “lambs” are the Chasids,
+are the faithful adherents of the theocracy ; the “lambs” are the Chasids,
 a new and distinct party among the
 Jews. The Chasids appeal unavailingly
 to the nation at large. In the next
-verse (xc. 8) there is a symbolical de-
-scription of Syria’s attack on Judah.
+verse (xc. 8) there is a symbolical description of Syria’s attack on Judah.
 
 
 CHAPTER XXIII. 13-20 147
@@ -17597,9 +16403,7 @@ either to the... or the left. Cf.
 Deut. v. 31, 32, xxviii, 18, 14. A
 similar statement is found in 1 Macc.
 ii. 21-22: “Heaven forbid that we
-should forsake the law and the ordi-
-nances .. . to go aside from our wor-
-ship to the right hand or the left” (παρ-
+should forsake the law and the ordinances .. . to go aside from our worship to the right hand or the left” (παρ-
 ελθεῖν THY λατρίαν ἡμῶν δεξιὰν ἢ ἀρι-
 στεράν). The phrase is most probably
 historical.
@@ -17639,20 +16443,14 @@ The poor with the rich, and (Ὁ omits)
 the lowly with the great. Apoc. Bar.
 xx. 3-4.
 
-For they have forgotten command-
-ment, and covenant, etc. From ageneral
+For they have forgotten commandment, and covenant, etc. From ageneral
 description of the Messianic woes the
-writer passes on. to a definite descrip-
-tion of the Maccabean times, and the
+writer passes on. to a definite description of the Maccabean times, and the
 Apostate Jews.
 
-Judgments, ἴ,ο. determinations, de-
-cisions.
+Judgments, ἴ,ο. determinations, decisions.
 
 20. This verse describes the warlike
-
-
-148 THE BOOK OF JUBILEES
 
 
 turn them back into the way; but they will not return
@@ -17665,8 +16463,7 @@ great name, but not in truth and not in righteousness, and
 they will defile the holy of holies with their uncleanness
 and the corruption of their pollution. 22. And a great
 punishment will befall the deeds of this generation from the
-Lord, and He will give them over to the sword and to judg-
-ment and to captivity, and to be plundered and devoured.
+Lord, and He will give them over to the sword and to judgment and to captivity, and to be plundered and devoured.
 23. And He will wake up against them the sinners of the
 Gentiles, who have neither mercy nor compassion, and who
 will respect the person of none, neither old nor young, nor
@@ -17751,17 +16548,13 @@ Cf. Ezek.
 CHAPTER XXIII. 21-27
 
 
-149
-
-
 any one, for they are more wicked and strong to do evil
 
 
 than all the children of men.
 
 
-And they will use violence against Israel and transgres-
-sion against Jacob,
+And they will use violence against Israel and transgression against Jacob,
 
 And much blood will be shed upon the earth,
 
@@ -17809,16 +16602,12 @@ viii. 2.
 24. Of the sinners, the Gentiles=
 
 
-ἁμαρτωλῶν ἐθνῶν. The Ethiopic trans-
-lator took these words to be in apposi-
-tion. He ought rather to have taken
+ἁμαρτωλῶν ἐθνῶν. The Ethiopic translator took these words to be in apposition. He ought rather to have taken
 the second as dependent on the first.
 Hence “sinners of the Gentiles.” See
 verse 23 and Gal. ii. 15 where the
-phrase is reproduced somewhat differ-
-ently: ἐξ ἐθνῶν ἁμαρτωλοί. To the
-writer the terms “Gentiles” and ‘‘sin-
-ners” were practically synonymous.
+phrase is reproduced somewhat differently: ἐξ ἐθνῶν ἁμαρτωλοί. To the
+writer the terms “Gentiles” and ‘‘sinners” were practically synonymous.
 
 25. Heads of the children will be
 white, etc. Hesiod, Op. et Dies, 180-
@@ -17852,15 +16641,8 @@ in the Cambridge Texts and Studies,
 26-30. The renewed study of the
 Law followed by a change for the better
 and the gradual approach to Messianic
-blessedness. With this spiritual trans-
-formation of Israel (cf. 1. 5) there will
+blessedness. With this spiritual transformation of Israel (cf. 1. 5) there will
 take place a corresponding transforma-
-
-
-150
-
-
-THE BOOK OF JUBILEES
 
 
 Till their days draw nigh to one thousand years,
@@ -17907,8 +16689,7 @@ years because of his sin ; see iv. 30.
 lxv. 20 beforehim but avoids making any
 reference to the presence of the wicked
 in the consummated kingdom, as is done
-in Isaiah. Yet apparently they are pre-
-supposed in ver. 30, though according to
+in Isaiah. Yet apparently they are presupposed in ver. 30, though according to
 ver. 29 there are none such. They are
 gradually eliminated. Cf. Test. Levi 18.
 
@@ -17923,10 +16704,8 @@ much: οἵ, xl. 9, xlvi. 2, 1. 5.
 
 Blessing and healing. Cf. i. 29.
 
-30. If this verse refers to the resur-
-rection, the righteous are raised to share
-in this (temporary?) Messianic king-
-dom. If ver. 11 is correctly handed
+30. If this verse refers to the resurrection, the righteous are raised to share
+in this (temporary?) Messianic kingdom. If ver. 11 is correctly handed
 down and to be taken literally, it follows
 that the final judgment precedes the
 Messianic kingdom. But the nature of
@@ -17967,8 +16746,7 @@ but in a blessed immortality.
 
 But the teaching of our text agrees
 rather with that of Eth. Enoch xci.-civ. ;
-for the words “ will rise up’ have appar-
-ently no reference to the resurrection,
+for the words “ will rise up’ have apparently no reference to the resurrection,
 and mean merely that when God heals
 His servants (cf. Rev. xxii. 2) they
 become strong. The clauses in ver. 29,
@@ -17983,9 +16761,6 @@ with that of Eth. Enoch xci.-civ.
 
 
 CHAPTERS XXIII. 28-XXIV.
-
-
-151
 
 
 And they will rise up and see great peace,
@@ -18061,9 +16836,7 @@ Drive out their adversaries, Such a
 conception is in keeping with the
 gradual growth of the kingdom.
 
-81, After death there is no resurrec-
-tion of the body, but a blessed immor-
-tality awaiting the spirit as in Eth.
+81, After death there is no resurrection of the body, but a blessed immortality awaiting the spirit as in Eth.
 Enoch χοὶ, 10, xcii. 3, οἷ, 3, 4 (see
 my Eschatology, pp. 208 sqq.).
 
@@ -18087,9 +16860,6 @@ explain Esau’s hunger.
 
 2078 A.M.
 2080 a.m.
-
-
-152 THE BOOK OF JUBILEES
 
 
 in the land, besides the first famine, which had been in the
@@ -18182,18 +16952,15 @@ us. 20. And they dug a second well, and they strove for
 
 
 12. Isaac stayed at the Well of the
-Vision seven years and in Gerar twenty-
-one.
+Vision seven years and in Gerar twentyone.
 
 18. Cf. Gen. xxvi.11. No reference
-is made in our text to Isaac’s lie regard-
-ing Rebecca.
+is made in our text to Isaac’s lie regarding Rebecca.
 
 14-17. Cf, Gen. xxvi. 13-17.
 
 14. Household. So Latin ministerium
-=may. Our text renders loosely ‘“‘pos-
-session,”
+=may. Our text renders loosely ‘“‘possession,”
 
 18-20. Cf. Gen. xxvi. 18-22.
 
@@ -18201,9 +16968,7 @@ session,”
 
 
 water”’ and the Latin merely ‘‘ aqua,”
-but the ze (=this) is merely a trans-
-lation of the Greek article as is fre-
-quently the case. Hence Eth. and Lat.
+but the ze (=this) is merely a translation of the Greek article as is frequently the case. Hence Eth. and Lat.
 attest the same text.
 
 
@@ -18218,9 +16983,6 @@ LXX, ἀδικία,
 
 
 2108 a.m.
-
-
-154 THE BOOK OF JUBILEES
 
 
 that also, and he called its name “Enmity.” And he arose
@@ -18293,8 +17055,7 @@ Ahuzzath. Eth. ’Ak6zat.
 verses is hardly intelligible save in 2
 contemporary of the wars waged by the
 Maccabeans against the Philistine cities.
-This passage is here introduced gratui-
-tously into the narrative(so also Bousset,
+This passage is here introduced gratuitously into the narrative(so also Bousset,
 4.f. NT liche Wissensch. 1890, p. 200).
 Of the five chief cities of the Philistines
 (Jos. xiii, 3) four were still in existence
@@ -18307,8 +17068,7 @@ Philistines and said: “Cursed be the Philistines unto the
 day of wrath and indignation from the midst of all nations ;
 may God make them a derision and a curse and an object
 of wrath and indignation in the hands of the sinners the
-Gentiles and in the hands of the Kittim. 29. And who-
-ever escapes the sword of the enemy and the Kittim, may
+Gentiles and in the hands of the Kittim. 29. And whoever escapes the sword of the enemy and the Kittim, may
 the righteous nation root out in judgment from under
 heaven; for they will be the enemies and foes of my
 
@@ -18322,10 +17082,7 @@ judgment ;
 
 
 For for destruction and rooting out and expulsion from
-the earth is the whole seed of the Philistines (re-
-
-
-served),
+the earth is the whole seed of the Philistines (reserved),
 
 
 And there will no longer be left for these Caphtorim a
@@ -18339,10 +17096,8 @@ Jonathan for his services (1 Macc. x.
 89; Joseph. Ant. xiii. 4. 4), and
 Askelon submitted to him (1 Mace.
 x. 60, xi. 60). Ashdod ("Afwros)
-suffered severely under Judas the Mac-
-cabee (1 Mace. v. 68) and was captured,
-put to the sword, and burnt by Jona-
-than (147 B.c,); the temple of Dagon
+suffered severely under Judas the Maccabee (1 Mace. v. 68) and was captured,
+put to the sword, and burnt by Jonathan (147 B.c,); the temple of Dagon
 likewise and all that had taken refuge
 in it were burnt (1 Macc. x. 84 ; Joseph.
 Ant. xiii. 4. 4). It was again reduced
@@ -18359,18 +17114,14 @@ Philistines in the second cent. B.c.
 28. Sinners, the Gentiles. The Latin
 has here “‘peccatoris populi.” Cf. xxiii.
 24. The Philistines suffered severely
-at the hands of the Assyrians and Egyp-
-
-
-tians— particularly the latter: see
+at the hands of the Assyrians and Egyptians— particularly the latter: see
 Herodotus i. 105, ii. 157, 159.
 
 Kittim (ona, Κιτιεῖς, Κίτιοι, Χετιείμ,
 Xerrdv). These were descended from
 Javan according to Gen, x. 4 and,
 therefore, belonged to the Graeco-Latin
-races. Their country is usually identi-
-fied with Cyprus. In Dan. xi. 30 the
+races. Their country is usually identified with Cyprus. In Dan. xi. 30 the
 Kittim are undoubtedly the Romans,
 whereas in 1 Macc. i. 1, viii. 5 they
 are the Macedonians. It is to the
@@ -18399,9 +17150,6 @@ Emended with Latin,
 
 
 2109 A.M.
-
-
-156 THE BOOK OF JUBILEES
 
 
 31. For though he ascend unto heaven,
@@ -18465,10 +17213,8 @@ ception of Esau’s blessing.
 CHAPTERS XXIV. 31-XXV. 8 157
 
 
-with all their unclean deeds: for all their deeds are forni-
-cation and lust, and there is no righteousness with them, for
-(their deeds) are evil. 2. And I, my son, love thee exceed-
-ingly, and my heart and my affection bless thee every hour
+with all their unclean deeds: for all their deeds are fornication and lust, and there is no righteousness with them, for
+(their deeds) are evil. 2. And I, my son, love thee exceedingly, and my heart and my affection bless thee every hour
 of the day and watch of the night. 3. And now, my son,
 hearken to my voice, and do the will of thy mother, and
 do not take thee a wife of the daughters of this land, but
@@ -18526,9 +17272,6 @@ this statement to Josephus : Ἰώσηππός
 7. With regard to... fornication
 
 
-158 THE BOOK OF JUBILEES
-
-
 striven with me, and spoken frequently to me and said: ‘My
 brother, take to wife a sister of my two wives’; but I refuse
 to do as he has done. 9. I swear before thee, mother, that
@@ -18563,8 +17306,7 @@ And reveal righteousness to thy seed,
 16. And may He make thy sons many during thy life,
 And may they arise according to the number of the
 months of the year.
-Abraham ... gave me many com-
-mands. Of. xx. 4, xxxix. 6.
+Abraham ... gave me many commands. Of. xx. 4, xxxix. 6.
 
 
 8. These two and twenty years.
@@ -18588,9 +17330,6 @@ Is. lxiii, 10, 11 “His holy Spirit ”
 
 
 CHAPTER XXV. 9-21
-
-
-159
 
 
 And may their sons become many and great beyond the
@@ -18667,8 +17406,7 @@ that this statement in Luke is added
 parenthetically or explanatorily as in
 our text.
 
-Possession for ever. Cf. the Thucy-
-didean phrase κτῆμα és del.
+Possession for ever. Cf. the Thucydidean phrase κτῆμα és del.
 
 
 19. Hast refreshed (ab). cd “has
@@ -18694,9 +17432,6 @@ ages. Cf. i, 29.
 
 
 2114 A.M.
-
-
-160 THE BOOK OF JUBILEES
 
 
 22. Blessed be he that blesseth thee,
@@ -18758,8 +17493,7 @@ father would eat, and which would please him: only I fear,
 my mother, that he will recognise my voice and wish to
 touch me. 8. And thou knowest that I am smooth, and
 Esau, my brother, is hairy, and I shall appear before his eyes
-as an evildoer, and shall do a deed which he had not com-
-manded me, and he will be wroth with me, and I shall bring
+as an evildoer, and shall do a deed which he had not commanded me, and he will be wroth with me, and I shall bring
 upon myself a curse, and not a blessing.” 9. And Rebecca,
 his mother, said unto him: “ Upon me be thy curse, my son
 only obey my voice.” 10. And Jacob obeyed the voice of
@@ -18792,15 +17526,11 @@ Latin. 15. (The Lord). Supplied from Latin.
 Il
 
 
-162 THE BOOK OF JUBILEES
-
-
 Isaac said unto him: “Come near, that I may feel thee, my
 son, if thou art my son Esau or not.” 17. And Jacob went
 near to Isaac, his father, and he felt him and said: 18.
 “The voice is Jacob’s voice, but the hands are the hands of
-Esau,” and he discerned him not, because it was a dispensa-
-tion from heaven to remove his power of perception and
+Esau,” and he discerned him not, because it was a dispensation from heaven to remove his power of perception and
 Isaac discerned not, for his hands were hairy as (his brother)
 Esau’s, so that he blessed him. 19. And he said: “Art
 thou my son Esau?” and he said: “I am thy son”:
@@ -18828,15 +17558,13 @@ text I emended the phrase into ’art%‘ani
 =direxit, comparing xxi. 2 where the
 
 
-I am he who will receive the ten com-
-mandments (which begin with the
+I am he who will receive the ten commandments (which begin with the
 words ΚΙ am”), but Esau is thy first
 born.
 
 
 Eth. has this verb as the equivalent of
-dirigere in the Latin. But the read-
-ing of bc may be right as Praetorius
+dirigere in the Latin. But the reading of bc may be right as Praetorius
 thinks,
 
 18. Because it was wu dispensation
@@ -18872,8 +17600,7 @@ So Sam., LXX, and Vulg. of Gen. xxvii.
 multiply thee.” @ transposes it before
 “may the Lord give thee.”
 
-Dew of the earth. The same render-
-ing of τῆς πιότητος τῆς γῆς is found in
+Dew of the earth. The same rendering of τῆς πιότητος τῆς γῆς is found in
 the Eth. version of Gen. xxvii. 28.
 
 And plenty. MSS add against
@@ -18926,12 +17653,6 @@ xxviii. 4. 80. I know why (or “ how”) =olda ws.
 25. tHe hid himself and+. Thislooks This may be a corruption of δικαίως.
 like an addition to the text. Read In that case the text would agree with
 “that.” Gen. xxvii. 36.
-
-
-164
-
-
-THE BOOK OF JUBILEES
 
 
 reserved a blessing for me, father ?” and Isaac answered and
@@ -18989,8 +17710,7 @@ And dost shake his yoke from off thy neck,
 Thou wilt sin a complete sin unto death,
 
 And thy seed will be rooted out from under heaven.”
-35. And Esau kept threatening Jacob because of the bless-
-ing wherewith his father blessed him, and he said in his
+35. And Esau kept threatening Jacob because of the blessing wherewith his father blessed him, and he said in his
 
 
 33. Dew of the earth. See note on
@@ -19089,17 +17809,12 @@ age. Singer (p. 170) writes: In der
 Haggada wird namlich Jakob darob
 getadelt, dass er so lange Zeit von
 seinen Eltern fernblieb und dadurch
-die Uebung der Kindespflichten verab-
-siumte (Megilla 16 ὁ, Sed. Od. rabba 2,
+die Uebung der Kindespflichten verabsiumte (Megilla 16 ὁ, Sed. Od. rabba 2,
 Tanch. ἃ. Lek. Tob. Wagescheb in
 Raschi, Gen. xxxvii. 34), wogegen Esau
 in dieser Hinsicht sehr gepriesen und
-als Muster eines guten Kindes darge-
-stellt wird (Ber. rabba 65, 82 ; Debarim
+als Muster eines guten Kindes dargestellt wird (Ber. rabba 65, 82 ; Debarim
 rabba 1, Pesikta rab, xxiv.).
-
-
-166 THE BOOK OF JUBILEES
 
 
 when he sends me, then only will I go.” 7 And Rebecca
@@ -19118,8 +17833,7 @@ daughters of Laban, thy mother’s brother. 11. And God
 Almighty bless thee and increase and multiply thee that
 thou mayest become a company of nations, and give thee
 the blessings of my father Abraham, to thee and to thy seed
-after thee, that thou mayest inherit the land of thy sojourn-
-ings and all the land which God gave to Abraham: go, my
+after thee, that thou mayest inherit the land of thy sojournings and all the land which God gave to Abraham: go, my
 son, in peace.” 12. And Isaac sent Jacob away, and he
 went to Mesopotamia, to Laban the son of Bethuel the
 Syrian, the brother of Rebecca, Jacob’s mother. 13. And it
@@ -19137,8 +17851,7 @@ and in peace will he return.
 9-12. Cf. Gen. xxviii. 1-5.
 
 14. My sister. This term as applied
-by Isaac to his wife is used as an ex-
-pression of tenderness. It is possible
+by Isaac to his wife is used as an expression of tenderness. It is possible
 that Singer (p. 168 note) is right in
 stating that it is designed by our author
 to justify the fact of Isaac’s having
@@ -19154,8 +17867,7 @@ his wife (Tobit v. 21): μὴ λόγον ἔχε,
 
 Song of Solomon iv. 9, 10, 12, v. 1.
 This usage was common in the old
-Egyptian songs as Maspero and Spiegel-
-berg have shown (see Budde, Das
+Egyptian songs as Maspero and Spiegelberg have shown (see Budde, Das
 Hohenlied, pp. xvi-xvii). “Brother”
 was used in these songs also with a
 similar meaning. ἀδελφή in 1 Cor. ix.
@@ -19163,8 +17875,7 @@ similar meaning. ἀδελφή in 1 Cor. ix.
 denotes one who is connected by the
 tie of the Christian religion. The above
 usage, is according to Singer (p. 208
-note), unknown in Rabbinic _ litera-
-ture.
+note), unknown in Rabbinic _ literature.
 
 
 CHAPTER XXVII. 7-24 167
@@ -19218,9 +17929,6 @@ omit “and.” See Hncyc. Bib. i. 880-882.
 
 
 2122 A.M.
-
-
-168 THE BOOK OF JUBILEES
 
 
 and shall keep thee whithersoever thou goest, and I shall
@@ -19280,8 +17988,7 @@ not for Leah? Why hast thou wronged me? Take thy
 daughter, and I will go; for thou hast done evil to me.”
 5. For Jacob loved Rachel more than Leah; for Leah’s
 eyes were weak, but her form was very handsome; but
-Rachel had beautiful eyes and a beautiful and very hand-
-some form. 6. And Laban said to Jacob: “It is not so
+Rachel had beautiful eyes and a beautiful and very handsome form. 6. And Laban said to Jacob: “It is not so
 done in our country, to give the younger before the elder.”
 And it is not right to do this; for thus it is ordained and
 written in the heavenly tables, that no one should give his
@@ -19328,9 +18035,6 @@ marriage with two sisters was expressly
 forbidden by the later law: cf. Lev.
 
 
-170 THE BOOK OF JUBILEES
-
-
 mayst serve me another seven years, that thou mayst
 pasture my sheep as thou didst in the former week.” 9.
 And on the day when the seven days of the feast of Leah
@@ -19372,8 +18076,7 @@ declares: ἡ δὲ μήτηρ μον ἐστὶ Βάλλα,
 
 
 ἑξῆς ἔτεκεν τὴν Bdddav. In later
-Jewish tradition they are still repre-
-sented as sisters, but as daughters of
+Jewish tradition they are still represented as sisters, but as daughters of
 Laban by a concubine: cf. Ps.-Jon.
 on Gen. xxix. 24, 29; Ber. rabba 74.
 Singer adds Pirke R. El. 36 on p. 118
@@ -19385,8 +18088,7 @@ note.
 11-24. The twelve sons of Jacob.
 The twelve appear in our text in the
 same order as in Gen. xxix. 32-34,
-xxx. 1-24, xxxv. 17-18. The follow-
-ing tables (taken from Rénsch, p. 330)
+xxx. 1-24, xxxv. 17-18. The following tables (taken from Rénsch, p. 330)
 will serve to make clear the different
 order of these names. 1. In the
 narrative of Gen. xxix.-xxxv. and
@@ -19416,8 +18118,7 @@ irth.
 
 It will be observed that the order in
 11. diverges from all the others as to
-Dan, Issachar, and Joseph. The Mid-
-rash Tadshe, which is partly based
+Dan, Issachar, and Joseph. The Midrash Tadshe, which is partly based
 
 
 on our text, shows the same order (see
@@ -19427,9 +18128,6 @@ of sixth (an easy emendation resting on
 
 
 CHAPTER XXVIII. 9-11
-
-
-171
 
 
 womb of Leah, and she conceived and bare Jacob a son, and
@@ -19466,8 +18164,7 @@ Joseph ,, Ist of 4th a
 Benjamin,, 11th of 8th a
 
 
-This order, corrected as Rénsch pro-
-poses above, is found in Syncellus i.
+This order, corrected as Rénsch proposes above, is found in Syncellus i.
 198, though the dates differ from those
 in our text: καὶ δουλεύσας ἔτη ζ΄ ἔλαβε
 τὴν Λείαν καὶ ἐγέννησε τὸν Ῥουβὴν τῷ
@@ -19499,8 +18196,7 @@ on the 6th of the 9th month and
 Ronsch further supposes that the
 copyist transposed the dates for Judah
 and Dan, and again a corruption of
-seventh into sixth; and finally sug-
-gests in the case of Asher and Issachar
+seventh into sixth; and finally suggests in the case of Asher and Issachar
 that we should transpose the years
 of their births, and read fourth year
 in Asher’s case and fifth in Issachar’s,
@@ -19524,8 +18220,7 @@ Ist * 4th , = 2129
 
 
 died at the age of 125; Judah on
-15th of 8rd and died 119 (?) (text in-
-distinct) ; Naphtali on the 5th of the 3rd
+15th of 8rd and died 119 (?) (text indistinct) ; Naphtali on the 5th of the 3rd
 and died aged 188 ; Gad on the 10th of
 the 7th and died 125; Issachar on 4th
 of 5th month and died 122; Asher on
@@ -19542,8 +18237,7 @@ Patriarch. in giving the same ages for
 Reuben, Simeon, Levi, Issachar, Gad,
 Joseph, but disagrees in the cases of
 Judah, Dan, Asher, Zebulon and
-Naphtali, to whom it ascribes respec-
-tively the following ages: 129, 124,
+Naphtali, to whom it ascribes respectively the following ages: 129, 124,
 128, 114, 132.
 
 In the Test. XII. Patriarchs the dates
@@ -19556,13 +18250,7 @@ Ronsch, 327-329. The chief are :—
 {LIST—OVER
 
 
-172
-
-
 ninth month, in the first year of the third week.
-
-
-THE BOOK OF JUBILEES
 
 
 12. But
@@ -19700,8 +18388,7 @@ another son, and Rachel called his name Naphtali, on the
 fifth of the seventh month, in the second year of the fourth 2130 a.m.
 week. 20. And when Leah saw that she had become
 sterile and did not bear, she envied (Rachel) and she also
-gave her handmaid Zilpah to Jacob to wife, and she con-
-ceived, and bare a son, and Leah called his name Gad, on
+gave her handmaid Zilpah to Jacob to wife, and she conceived, and bare a son, and Leah called his name Gad, on
 the twelfth of the eighth month, in the third year of the 2131 a.m.
 fourth week. 21. And he went in again unto her, and she
 conceived, and bare him a second son, and Leah called his
@@ -19735,11 +18422,7 @@ I here withdraw the emendation inmy seventeen (xvi. 3). Hence this would
 text. require the date in our text to be 2132.
 
 Envied (Rachel) and she also gave. This change is required also by xlvi.
-So MSS but the text is doubtful. My 1. This would require “fourth” in-
-emendation of the text I here withdraw. stead of “sixth,” but see note on 11-24.
-
-
-174 THE BOOK OF JUBILEES
+So MSS but the text is doubtful. My 1. This would require “fourth” inemendation of the text I here withdraw. stead of “sixth,” but see note on 11-24.
 
 
 25. And in the days when Joseph was born, Jacob said to
@@ -19756,8 +18439,7 @@ to be his wages. 28. And all the sheep brought forth
 spotted and speckled and black, variously marked, and they
 brought forth again lambs like themselves, and all that were
 spotted were Jacob’s and those which were not were
-Laban’s. 29. And Jacob’s possessions multiplied exceed-
-ingly, and he possessed oxen and sheep and asses and camels,
+Laban’s. 29. And Jacob’s possessions multiplied exceedingly, and he possessed oxen and sheep and asses and camels,
 and menservants and maidservants. 30. And Laban and
 his’sons envied Jacob, and Laban took back his sheep from
 him, and he observed him with evil intent.
@@ -19894,9 +18576,6 @@ Gen. xxxi. 3, 13.
 month,
 
 
-176 THE BOOK OF JUBILEES
-
-
 a feast for Laban, and for all who came with him, and J acob
 sware to Laban that day, and Laban also to Jacob, that
 neither should cross the mountain of Gilead to the other
@@ -20026,7 +18705,7 @@ also four times a year, between the times of the months,
 2136 A.M.
 
 
-11. The  Amorites dwelt.
+11. The (Amorites dwelt.
 habitare fecit.
 18. Passed over the Jabbok.
 
@@ -20041,9 +18720,7 @@ Cf. Dothan. Eth. Détha’im = Δωθάειμ
 Gen. xxxii. 22.
 
 He passed over the Jabbok ... on
-the eleventh thereof. Latin has trans-
-ivit Jacob et undecim filii ipsius, prob-
-ably owing to Gen. xxxii. 22.
+the eleventh thereof. Latin has transivit Jacob et undecim filii ipsius, probably owing to Gen. xxxii. 22.
 
 He was reconciled. Emended with
 Latin propitiatus (est) from takuananié
@@ -20090,18 +18767,11 @@ Ant. xii, 8, 1.
 who robs his father (ver. 18), sends
 presents to him and his mother four
 times a year. The four times may
-correspond, as Rénsch (p. 140) con-
-jectures, to the four festivals instituted
+correspond, as Rénsch (p. 140) conjectures, to the four festivals instituted
 by Noah (see vi. 28 sqq.): the Ist
 
 
-12
-
-
 2148 A.M.
-
-
-178 THE BOOK OF JUBILEES
 
 
 between ploughing and reaping, and between autumn and
@@ -20188,8 +18858,7 @@ Syr., Eusebius, and Jerome here take
 nbwas a proper name. The Sam, reads
 
 
-mbw. Our text combines both inter-
-pretations,
+mbw. Our text combines both interpretations,
 
 To the east. Gen. xxxiii. 18 has
 “city.”
@@ -20198,13 +18867,10 @@ To the east. Gen. xxxiii. 18 has
 2-3. Cf. Gen. xxxiv. 2, 4, 7, 13.
 
 
-2-6. The history of Jacob’s connec-
-tion with the Shechemites caused much
+2-6. The history of Jacob’s connection with the Shechemites caused much
 trouble to our author. He could hardly
 approve of their slaughter after they
-had consented to circumcision, Accord-
-ingly he omits all reference to the cir-
-cumcision of the Shechemites, as also
+had consented to circumcision, Accordingly he omits all reference to the circumcision of the Shechemites, as also
 does Josephus (Ant. i. 21.1). On the
 other hand this is given as the reason
 for Jacob’s anger against Simeon and
@@ -20267,14 +18933,10 @@ eighteen.
 8, His father (ab). ed “her father.”
 
 And beguiled them. And Simeon
-. . .to Shechem. Latin has: Et posu-
-erunt in corde suo Symeon et Lenui
+. . .to Shechem. Latin has: Et posuerunt in corde suo Symeon et Lenui
 exterminare eos.
 
 4, Cf, Gen. xxxiv. 25-27.
-
-
-180 THE BOOK OF JUBILEES
 
 
 slew all the men whom they found in it, and left not a
@@ -20307,8 +18969,7 @@ in the heavenly tables regarding all the seed of Israel: he
 Gen. xxxiv. 7.
 
 7. This statement does not agree
-quite with any in the O.T. The burn-
-ing of the woman with fire, it is true,
+quite with any in the O.T. The burning of the woman with fire, it is true,
 finds a precedent in Gen. xxxviii. 24,
 where Judah demands that such a
 punishment should be executed on
@@ -20335,8 +18996,7 @@ author holds the former to be equivalent
 to the latter, it follows that the man
 who was guilty of the former offence
 should justly be visited with the penalty
-exacted for the latter, and this was, ac-
-cording to Lev. xx. 2, death by stoning;
+exacted for the latter, and this was, according to Lev. xx. 2, death by stoning;
 hence our text ordains: “and they shall
 stone him with stones.”
 
@@ -20377,12 +19037,10 @@ found in Ps.-Jon. on this verse: ‘‘ And
 of thy seed thou shalt not give to lie
 with a daughter of the Gentiles so as
 to draw him over to a strange worship.”
-The Latin which gives alienigenae in-
-stead of Molechis aninterpretation of the
+The Latin which gives alienigenae instead of Molechis aninterpretation of the
 text but not the text itself. The same
 idea underlies the statement in Sanh.
-82a: R. Chija b. Abija said: ‘‘ Who-
-ever cohabits with a Gentile woman is
+82a: R. Chija b. Abija said: ‘‘ Whoever cohabits with a Gentile woman is
 to be regarded as though he had made
 himself the son-in-law of the idol; for
 it is said: And he cohabited with the
@@ -20424,9 +19082,6 @@ xxxiv. 14.
 who gives any of his seed to the Gentiles
 
 
-182 THE BOOK OF JUBILEES
-
-
 daughters to a man who is of any of the Gentiles. 15. For
 there will be plague upon plague, and curse upon curse, and
 every judgment and plague and curse will come (upon him):
@@ -20436,8 +19091,7 @@ or those who profane His holy name, (then) will the whole
 nation together be judged for all the uncleanness and
 profanation of this (man). 16. And there will be no
 respect of persons [and no consideration of persons], and no
-receiving at his hands of fruits and offerings and burnt-
-offerings and fat, nor the fragrance of sweet savour, so as to
+receiving at his hands of fruits and offerings and burntofferings and fat, nor the fragrance of sweet savour, so as to
 accept it: and so fare every man or woman in Israel who
 defiles the sanctuary. 17. For this reason I have com-
 “Testify this testimony to Israel:
@@ -20513,13 +19167,11 @@ omits.
 The fragrance of sweet savour. Latin:
 odorabitur odore suavitatis.
 
-18. The ground for Levi's appoint-
-ment to the priesthood is quite different
+18. The ground for Levi's appointment to the priesthood is quite different
 in xxxii. 3. Levi is there consecrated
 to the work of the priesthood as the
 tithe or tenth in Jacob’s family. Our
-author has thus made use of two con-
-flicting traditions. Possibly a third is
+author has thus made use of two conflicting traditions. Possibly a third is
 
 
 CHAPTER XXX. 15-23 183
@@ -20563,8 +19215,7 @@ his prayer: εἰσήκουσεν οὖν ὁ ὕψιστος
 ἀδικίας καὶ γενέσθαι αὐτῷ... λει-
 τουργὸν τοῦ προσώπου αὐτοῦ. Another
 tradition appears in Shem. rabba 19 to
-the effect that Levi received the priest-
-hood because it held fast to the rite of
+the effect that Levi received the priesthood because it held fast to the rite of
 circumcision in Egypt when all the
 other tribes neglected it (Weber, Jiid.
 Theol.” p. 309). For other reasons cf.
@@ -20580,8 +19231,7 @@ on xix. 9.
 22. Transgress.
 mentum.
 
-Book of life. See note on this ex-
-pression in my edition of Eth. Enoch
+Book of life. See note on this expression in my edition of Eth. Enoch
 xlvii. 8, It may mean here the register
 of those who enjoy temporal blessings,
 but, in xxxvi. 10, of those who enjoy
@@ -20591,13 +19241,7 @@ Book of those who will be destroyed
 and, ULatin has libro perditionum.
 
 
-Latin adds testa-
-
-
-184 THE BOOK OF JUBILEES
-
-
-vengeance on the sinners, and it was written for a blessing.
+Latin adds testavengeance on the sinners, and it was written for a blessing.
 24. And they brought Dinah, their sister, out of the house
 of Shechem, and they took captive everything that was
 in Shechem, their sheep and their oxen and their asses,
@@ -20619,8 +19263,7 @@ Jacob blesses the God of his fathers, 31-32.
 
 
 XXXT. And on the new moon of the month Jacob
-spake to all the people of his house, saying: “ Purify your-
-selves and change your garments, and let us arise and
+spake to all the people of his house, saying: “ Purify yourselves and change your garments, and let us arise and
 go up to Bethel, where I vowed a vow to Him on the
 day when I fled from the face of Esau my brother, because
 He has been with me and brought me into this land in
@@ -20631,8 +19274,7 @@ peace, and put ye away the
 
 “4, Cf. Gen. xxxiii, 26, 28.
 
-And all their wealth. cd trans-
-pose after “flocks” against ab and
+And all their wealth. cd transpose after “flocks” against ab and
 Latin.
 
 25. Reproached them. ΤοχὺτΞε ἐλάλησε
@@ -20653,9 +19295,7 @@ correction of the translation because the
 context requires by 329» and not 7
 
 
-bx as in Gen. xxxiv. 30 in the corre-
-sponding passage. With our text “re-
-proached them because they had put
+bx as in Gen. xxxiv. 30 in the corresponding passage. With our text “reproached them because they had put
 the city to the sword,” cf. Test. Levi
 6: of ἀδελφοὶ ἐπάταξαν τὴν πόλιν ἐν
 στόματι ῥομφαίας. καὶ ἤκουσεν ὁ πατήρ,
@@ -20703,8 +19343,7 @@ stooping down he kissed him, and Isaac clung to the neck
 
 2. They gave up = matawéwomi.
 Emended from (α) ὃ masawtwomt =
-“they melted.” cd give a bad emenda-
-tion masatéwomt =“ they tore away.”
+“they melted.” cd give a bad emendation masatéwomt =“ they tore away.”
 
 And which was ton their neckst.
 Here késAwdihdmfi seems corrupt for
@@ -20733,9 +19372,6 @@ haggada (Beer).
 27 for the phrase.
 
 
-186 THE BOOK OF JUBILEES
-
-
 of Jacob his son, and wept upon his neck. 9. And the
 darkness left the eyes of Isaac, and he saw the two sons of
 Jacob, Levi and Judah, and he said: “ Are these thy sons,
@@ -20757,8 +19393,7 @@ ones. (Even) as they, will the seed of thy sons be for glory
 and greatness and holiness, and may He make them great
 
 9. Part of this verse with the ‘subject
-matter of ver. 5 and 10 sqq. is attri-
-buted by Syncellus (i. 202) to J osephus:
+matter of ver. 5 and 10 sqq. is attributed by Syncellus (i. 202) to J osephus:
 ᾿Ιωσήππου. τῷ pry ἔτει τοῦ ᾿Ισαὰκ
 ἐπανῆλθεν Ἰακὼβ πρὸς αὐτὸν ἀπὸ Μεσο-
 ποταμίας. καὶ ἀναβλέψας ᾿Ισαὰκ καὶ
@@ -20776,8 +19411,7 @@ but points in the direction of 6. Latin
 is decidedly better than the Ethiopic.
 By a slight change we can arrive at it
 from 6. Hence we should probably
-render: “to thy great seed to under-
-stand His glory,” or else by another
+render: “to thy great seed to understand His glory,” or else by another
 change ‘‘to thy seed to have great
 understanding of His glory.”
 
@@ -20833,18 +19467,12 @@ CHAPTER ΧΧΧΙ. 9-16
 unto all the ages.
 
 
-187
-
-
 15. And they will be princes and judges,
 
 
 and chiefs of all the seed of the sons of Jacob;
 They will speak the word of the Lord in righteousness,
-And they will judge all His judgments in righteous-
-
-
-ness.
+And they will judge all His judgments in righteousness.
 
 
 And they will declare My ways to Jacob
@@ -20876,10 +19504,8 @@ they are to rule the nation (to be
 “princes and judges and chiefs”) and
 to be the priests of the nation (“The
 blessing of the Lord will be given in
-their mouths”). This description, com-
-bined with other facts peculiar to the
-Maccabean period, requires us to recog-
-nise here the early Maccabean princes,
+their mouths”). This description, combined with other facts peculiar to the
+Maccabean period, requires us to recognise here the early Maccabean princes,
 The blessing given to Judah (verses 18,
 19) confirms this interpretation.
 
@@ -20890,15 +19516,13 @@ compare Test. Levi 8: ἀρχιερεῖς καὶ
 that work had either our text or a
 source common to both before him. In
 the same chapter of the Test. Levi there
-is, as Bousset (Z. f. NTliche Wissen-
-schaft, 1900, pp. 165-167) has already
+is, as Bousset (Z. f. NTliche Wissenschaft, 1900, pp. 165-167) has already
 pointed out, an undoubted description
 of Johannes Hyrcanus: Λευί, els τρεῖς
 ἀρχὰς διαιρεθήσεται τὸ σπέρμα cov els
 σημεῖον δόξης κυρίου ἐπερχομένης (so MS
 P. Arm.=r%s παρουσίας τοῦ κυρίου).
-These three offices to be adminis-
-tered by Levi’s descendants are to be
+These three offices to be administered by Levi’s descendants are to be
 signs of the coming of the Messiah.
 What these are is described in the
 words that follow: ὁ πρῶτος κλῆρος
@@ -20912,15 +19536,13 @@ prob.=% δὲ δευτέρα ἔσται ieparela) :
 κοινόν, ὅτι βασιλεὺς ἐν (so Arm.:
 Greek ἐκ)ὴ ᾿Ιούδᾳ ἀναστήσεται, καὶ
 ποιήσει ἱερατείαν νέαν. The first refers
-to Moses, the greatest of Levi’s descend-
-ants; the second denotes Aaron and
+to Moses, the greatest of Levi’s descendants; the second denotes Aaron and
 the Aaronitic priesthood; the third
 the Maccabean ruling priests, and in
 particular to Johannes Hyrcanus, for
 the subsequent words ἡ δὲ παρουσία
 αὐτοῦ ἀγαπητή, ws προφήτης ὑψίστου
-point to his prophetic gifts. The three-
-fold offices of prophet, priest and king
+point to his prophetic gifts. The threefold offices of prophet, priest and king
 were never claimed for any Jewish
 ruler save this Maccabean prince. See
 Josephus, Ané. xiii. 10. 7; Bell. Jud.
@@ -20936,18 +19558,13 @@ Test. Reuben 6: πρὸς τὸν Λευὶ ἐγγί-
 16. Joined to the Lord . .. the
 companion, etc. In the first, if not in
 the second, there is a play on the name
-Levi, as in Gen. xxix. 34 “ will my hus-
-band be joined to me (Sx wx md)...
+Levi, as in Gen. xxix. 34 “ will my husband be joined to me (Sx wx md)...
 therefore was his name called Levi”
 (nb): cf. also Num. xviii. 2,4. Instead
 of “joined to the Lord” the Latin has
 
 
-188
 Let His table be thine,
-
-
-THE BOOK OF JUBILEES
 
 
 And do thou and thy sons eat thereof ;
@@ -21013,8 +19630,7 @@ and Levi combined (ἢ), Thus according
 to Levi 18, Reuben 6, the Messiah (a
 Maccabean priest-king ?) was to spring
 from Levi and to be the eternal High
-Priest and civil ruler of the nation. Dur-
-ing his reign sin was gradually to come
+Priest and civil ruler of the nation. During his reign sin was gradually to come
 to an end just as our author supposes
 
 
@@ -21033,17 +19649,14 @@ XII Patriarchs” (in Bible Dict. vol. iv.).
 It is very probable that this last view
 underlies our text. The words “a
 prince . . . thou and one of thy sons”
-admit most naturally of this interpreta-
-tion. If this is right, then the Messiah
+admit most naturally of this interpretation. If this is right, then the Messiah
 is to spring from Judah. In a kingdom
-which attains to realisation only gradu-
-ally (see notes on i. 29, xxiii. 26-80)
+which attains to realisation only gradually (see notes on i. 29, xxiii. 26-80)
 and not catastrophically no réle seems
 to be assigned to him, as is also the case
 in Eth. Enoch xe. On the other hand
 this seems to be the earliest instance
-of the presence of a Messiah in a tem-
-porary Messianic kingdom (see note on
+of the presence of a Messiah in a temporary Messianic kingdom (see note on
 xxiii. 80). ‘
 
 18. May thy name... go forth, ete.,
@@ -21100,9 +19713,6 @@ Sod. 6c read “The throne of honour, 26. Jacob asks his father to go with
 Thy righteousness will be great peace.” him to Bethel ; but Isaac is unable to go.
 
 
-190 THE BOOK OF JUBILEES
-
-
 the Lord, and the vision which he had seen, and that he
 had built an altar, and that everything was ready for
 the sacrifice to be made before the Lord as he had vowed,
@@ -21127,8 +19737,7 @@ prayer with which his father had blessed him and his
 two sons, Levi and Judah, and he rejoiced and blessed the
 God of his fathers, Abraham and Isaac. 32. And he said:
 “Now I know that I have an eternal hope, and my sons
-also, before the God of all”; and thus is it ordained con-
-cerning the two; and they record it as an eternal testimony
+also, before the God of all”; and thus is it ordained concerning the two; and they record it as an eternal testimony
 unto them on the heavenly tables how Isaac blessed them.
 
 
@@ -21179,9 +19788,7 @@ Priest of the Most High God. This
 was the specific title chosen by the
 Maccabean priest-kings. Thus they
 are called sacerdotes summi Dei in
-Assumpt. Mos. vi. 1 (where my emenda-
-tion is wrong): Hyrcanus II. is desig-
-nated ἀρχιερεὺς θεοῦ ὑψίστου by Joseph.
+Assumpt. Mos. vi. 1 (where my emendation is wrong): Hyrcanus II. is designated ἀρχιερεὺς θεοῦ ὑψίστου by Joseph.
 (Ant. xvi. 6. 2), and the Rosh ha-
 Shanah 18 ὃ states that it used to be
 said: ‘*In such a year of Johanan
@@ -21234,19 +19841,14 @@ v ὄντα ἀπὸ τοῦ ἐσχάτου κατὰ τὸν τῆς
 ἀναστροφῆς λόγον. And again on p.
 
 
-192 THE BOOK OF JUBILEES
-
-
 Lord, and his father clothed him in the garments of the
 priesthood and filled his hands. 4. And on the fifteenth of
 this month, he brought to the altar fourteen oxen from
 amongst the cattle, and twenty-eight rams, and forty-nine
 sheep, and seven lambs, and twenty-one kids of the goats as
 a burnt-offering on the altar of sacrifice, well pleasing for a
-sweet savour before God. 5, This was his offering, in con-
-sequence of the vow which he had vowed that he would
-give a tenth, with their fruit-offerings and their drink-offer-
-ings. 6. And when the fire had consumed it, he burnt
+sweet savour before God. 5, This was his offering, in consequence of the vow which he had vowed that he would
+give a tenth, with their fruit-offerings and their drink-offerings. 6. And when the fire had consumed it, he burnt
 incense on the fire over the fire, and for a thank-offering
 two oxen and four rams and four sheep, four he-goats, and
 two sheep of a year old, and two kids of the goats; and
@@ -21275,8 +19877,7 @@ who had delivered him out of all his tribulation and had
 τὰ ὑπάρχοντα καὶ ἀναθέμενος τῷ Θεῷ,
 καθὰ προσηύξατο πορευόμενος εἰς Μεσο-
 ποταμίαν, ὅτι καὶ πάντα ὅσα ἄν μοι
-δῷς ἀποδεκατώσω αὐτά. Jacob’s dedica-
-tion of Levi as his tenth son to the
+δῷς ἀποδεκατώσω αὐτά. Jacob’s dedication of Levi as his tenth son to the
 priesthood is found also in P. R. Bliez.
 ch. 37 (Beer, Buch d. Jub. 36-37), though
 the method of reckoning is different.
@@ -21292,17 +19893,14 @@ begun again with Simeon. Levi thus
 came to be the tenth.
 
 Filled his hands. The technical
-expression for appointment to the priest-
-hood. Cf. Exod. xxviii. 41, xxix. 9.
+expression for appointment to the priesthood. Cf. Exod. xxviii. 41, xxix. 9.
 
 4. This celebration of the feast of
 tabernacles is peculiar as regards the
 number of victims. According to the
 Levitical law on each of the seven days
-a kid of the goats was offered as a sin-
-offering, and two rams and fourteen
-lambs as a burnt-offering. Through-
-out the seven days seventy bullocks
+a kid of the goats was offered as a sinoffering, and two rams and fourteen
+lambs as a burnt-offering. Throughout the seven days seventy bullocks
 were offered, beginning with thirteen
 on the first day, the number being
 diminished daily till on the seventh day
@@ -21341,8 +19939,7 @@ This ordinance is written that it may be fulfilled from year
 to year in eating the second tithe before the Lord in the
 place where it has been chosen, and nothing shall remain
 over from it from this year to the year following. 12. For in
-its year shall the seed be eaten till the days of the gather-
-ing of the seed of the year, and the wine till the days of the
+its year shall the seed be eaten till the days of the gathering of the seed of the year, and the wine till the days of the
 wine, and the oil till the days of its season. 13. And all
 that is left thereof and becomes old, let it be regarded as
 polluted: let it be burnt with fire, for it is unclean. 14.
@@ -21368,15 +19965,8 @@ Tithed again the tithe to the Lord. statement, and made it out to be merely
 Cf. Num. xviii. 26. a tithe of the yearly increase, but the
 
 
-10. Τὸ eat before the Lord, etc. Our context offers not the slightest justifica-
-text holds closely to the law in Deut. tion for this step (see Bertholet on Lev.
+10. Τὸ eat before the Lord, etc. Our context offers not the slightest justificatext holds closely to the law in Deut. tion for this step (see Bertholet on Lev.
 xiv. 22 sq. Cf. Tobit i. 7. in loc.). See our text xiii. 26.
-
-
-13
-
-
-194 THE BOOK OF JUBILEES
 
 
 belong to His priests, which they will eat before Him from
@@ -21385,19 +19975,16 @@ the tithe on the heavenly tables. 16. And on the following
 night, on the twenty-second day of this month, Jacob
 resolved to build that place, and to surround the court with
 a wall, and to sanctify it and make it holy for ever, for
-himself and his children after him. 17. And the Lord ap-
-peared to him by night and blessed him and said unto him:
+himself and his children after him. 17. And the Lord appeared to him by night and blessed him and said unto him:
 ‘Thy name shall not be called Jacob, but Israel shall they
 name thy name.” 18. And He said unto him again: “I am
 the Lord who created the heaven and the earth, and I shall
 increase thee and multiply thee exceedingly, and kings will
-come forth from thee, and they will judge everywhere where-
-ever the foot of the sons of men has trodden. 19. And I
+come forth from thee, and they will judge everywhere whereever the foot of the sons of men has trodden. 19. And I
 shall give to thy seed all the earth which is under heaven,
 and they will judge all the nations according to their
 desires, and after that they will get possession of the whole
-earth and inherit it for ever.’ 20. And He finished speak-
-ing with him, and He went up from him, and Jacob looked
+earth and inherit it for ever.’ 20. And He finished speaking with him, and He went up from him, and Jacob looked
 till He had ascended into heaven. 21. And he saw ina
 vision of the night, and behold an angel descended from
 heaven with seven tablets in his hands, and he gave them
@@ -21414,8 +20001,7 @@ the death of thy father. 23. For in Egypt thou wilt die
 17-18. Cf. Gen. xxxv. 10-11. 20. Cf. Gen. xxxv. 18.
 
 19. Our author here forsakes Gen, 21. Tablets. Cf. 4 Ezra xiv. 24,
-xxxv. 12 and promises to Israel the Knew. Emended with Latin “cog-
-possession of the whole earth. novit.” Text=“read.” But probably
+xxxv. 12 and promises to Israel the Knew. Emended with Latin “cogpossession of the whole earth. novit.” Text=“read.” But probably
 
 
 All the earth. Latin has: universas for “read and knew” we should read
@@ -21463,10 +20049,8 @@ tabernacles was called ΠΩ (2 Chron.
 vii. 9), in New Hebrew xmxy (Joseph.
 Ant, iii. 10. 6, ᾿Ασάρτα) : likewise the
 seventh day of the Passover feast.
-The translation in our text, ‘‘addi-
-tion,” points to some corruption in the
-Greek or Hebrew. The Latin “reten-
-tatio”’ is a possible rendering. Rénsch
+The translation in our text, ‘‘addition,” points to some corruption in the
+Greek or Hebrew. The Latin “retentatio”’ is a possible rendering. Rénsch
 suggests that ἐπίσχεσις stood in the
 Greek version but was corrupted into
 ἐπίθεσις in the copy before the Ethiopic
@@ -21476,8 +20060,7 @@ on that day he was kept back.” Thus
 our author connects the origin of this
 
 
-additional feast-day with Jacob’s de-
-tention an eighth day in Bethel. In
+additional feast-day with Jacob’s detention an eighth day in Bethel. In
 the Talmud (Chag. 18a) the idea of
 “keeping back” (in yy) is connected
 with work. For it states that on the
@@ -21486,8 +20069,7 @@ must be ὦ keeping back from every
 kind of work” (naxbo 533 yyy "903 πὶ).
 See Levy’s Neuhebr. Lexicon, iii. 680.
 Scholars are now generally agreed that
-the word γὴν" means “sacred as-
-sembly.”
+the word γὴν" means “sacred assembly.”
 
 +This day was added}. Here we
 must suppose ἐπετέθη as corrupt for
@@ -21497,8 +20079,7 @@ next verse may have given rise to the
 corruption or wrong correction.
 
 The Feast. This agrees exactly with
-rabbinic usage. The feast of taber-
-nacles was called in = ‘‘ the Feast.” Cf.
+rabbinic usage. The feast of tabernacles was called in = ‘‘ the Feast.” Cf.
 Sukk. 420, 48a. Josephus (Ant. viii.
 4, 1) designates it as ἑορτὴ ἁγιωτάτη
 καὶ μεγίστη and Philo ἑορτῶν μεγίστη.
@@ -21510,9 +20091,6 @@ below.
 
 
 2148 Α.Μ.
-
-
-THE BOOK OF JUBILEES
 
 
 of the feast. 29. And its name was called +“ Addition,’+
@@ -21537,19 +20115,15 @@ is Bethlehem, and Jacob built a pillar on the grave of
 Rachel, on the road above her
 
 
-196
-
-
 grave.
 
 
-+Additiont. See note on ver. 27. into >. Thus the whole verse should
++Additiont. See note on ver. 27. into ). Thus the whole verse should
 
 
 t+Because thatt. The Ethiopic has
 a peculiar phrase here ’esma ’enta which
-usually =nam quod, but since an analo-
-gous yet rare phrase kama enta= quasi
+usually =nam quod, but since an analogous yet rare phrase kama enta= quasi
 occurs in xliii. 19, xlviii. 18, we may take
 it that ’esma ’enta=propter quod as the
 Latin version has it. But this gives no
@@ -21559,9 +20133,7 @@ I suggest that propter αποᾶ -Ξ διότι Ξε
 5, which the Greek translator should
 have rendered in this context by ὅτε.
 
-It was recorded, Text of MSS un-
-grammatical, but bya change of vocalisa-
-tion in one letter we arrive at the above.
+It was recorded, Text of MSS ungrammatical, but bya change of vocalisation in one letter we arrive at the above.
 
 Amongst the days =ba ‘élata emended
 with Latin ‘in dies” from basém'a=
@@ -21578,8 +20150,7 @@ have here an original corruption of 3
 
 run: “And its name was called ‘a
 keeping back’ (¢.e. moxy), when it was
-recorded amongst the days of the feast-
-days in the number of the days of the
+recorded amongst the days of the feastdays in the number of the days of the
 year.”
 
 30. Cf. Gen. xxxv. 8. Deborah dies
@@ -21631,11 +20202,9 @@ of this thing exceedingly, and did not tell it to any one. 7.
 And when Jacob returned and sought her, she said unto
 
 
-XXXIII. 1. To the south of Magdala-
-dr@éf. This name is a compression of
+XXXIII. 1. To the south of Magdaladr@éf. This name is a compression of
 mpx τιρτ 0, “the tower of Eder of
-Ephrath,” Gen. xxxv. 21. See a prob-
-ably corrupt form of this name in xxxiv.
+Ephrath,” Gen. xxxv. 21. See a probably corrupt form of this name in xxxiv.
 15. In Test. Reuben 3, where the same
 scene is recounted, we have ἐν Γαδὲρ
 πλησίον ᾿Πφραθά.
@@ -21653,7 +20222,7 @@ the outrage was done. So Test. Reuben
 2. Saw Bilhah .. . bathing, οἷο.
 Cf. Test. Reuben 3: ef μὴ yap εἶδον
 ἐγὼ Βάλλαν λουομένην ἐν σκεπινῷ
-τόπῳ, «.7.A,  A very different account
+τόπῳ, «.7.A, (A very different account
 of Reuben’s conduct appears in later
 works: Gen. rabba 98, 99; Ps.-Jon.
 on Gen. xxxv. 22, Shabb. 550 and the
@@ -21667,8 +20236,7 @@ tent of Bilhah her handmaid, and that
 Reuben, being indignant on behalf of
 his mother Leah, went into Bilhah’s tent
 and withdrew his father’s couch from
-it, or threw Bilhah’s couch into dis-
-order etc., and that on this ground the
+it, or threw Bilhah’s couch into disorder etc., and that on this ground the
 Scripture held that he lay with Bilhah.
 In Shabb. 55 ὃ it is recounted that the
 earlier teachers, R. Joshua and R.
@@ -21691,9 +20259,6 @@ Test. Reuben 8 agrees with this: κἀγὼ
 
 δ. She was ashamed because of him.
 Latin : confusus est ab ea.
-
-
-198 THE BOOK OF JUBILEES
 
 
 him: “I am not clean for thee, for I have been defiled as
@@ -21755,9 +20320,7 @@ a sin unto death; for the Lord our God is judge, who
 respects not persons and accepts not gifts, 19. And tell
 them these words of the covenant, that they may hear and
 observe, and be on their guard with respect to them, and
-not be destroyed and rooted out of the land; for an unclean-
-ness, and an abomination, and a contamination, and a pollu-
-tion are all they who commit it on the earth before our God.
+not be destroyed and rooted out of the land; for an uncleanness, and an abomination, and a contamination, and a pollution are all they who commit it on the earth before our God.
 20. And there is no greater sin than the fornication which
 they commit on earth; for Israel is a holy nation unto the
 Lord its God, and a nation of inheritance, and a priestly and
@@ -21792,8 +20355,7 @@ See note on
 καὶ βασιλικὸς καὶ περιούσιος (or οὐσίας).
 Cf. Latin populus sacerdotalis et regalis
 et tsanctificationis}. Here, as in xvi.
-18, xix. 18 above, the Latin has mis-
-translated περιούσιος or οὐσίας as ὅσιος.
+18, xix. 18 above, the Latin has mistranslated περιούσιος or οὐσίας as ὅσιος.
 
 Royal nation (a). Literally = “nation
 of a kingdom.” Cf. Latin (populus)
@@ -21805,17 +20367,12 @@ regalis.s cd=“ofa kingdom.”
 2148 A.M.
 
 
-200 THE BOOK OF JUBILEES
-
-
 Simeon, Levi, Judah, Issachar, Zebulon, the sons of Leah ;
 and the sons of Rachel, Joseph and Benjamin ; and the sons
 of Bilhah, Dan and Naphtali; and the sons of Zilpah, Gad
 and Asher; and Dinah, the daughter of Leah, the only
-daughter of Jacob. 23. And they came and bowed them-
-selves to Isaac and Rebecca, and when they saw them they
-blessed Jacob and all his sons, and Isaac rejoiced exceed-
-ingly, for he saw the sons of Jacob, his younger son, and he
+daughter of Jacob. 23. And they came and bowed themselves to Isaac and Rebecca, and when they saw them they
+blessed Jacob and all his sons, and Isaac rejoiced exceedingly, for he saw the sons of Jacob, his younger son, and he
 blessed them.
 
 
@@ -21875,12 +20432,11 @@ legend is given in Test. Judah 3-7, and
 a still fuller in the Midrash Wajjissau
 which is translated by Gaster in the
 Chronicles of Jerahmeel, 1899, pp.
-80-87. I have introduced some cor-
-rections into this translation from a
+80-87. I have introduced some corrections into this translation from a
 comparison of the Hebrew MS in the
 Bodleian, though I have not seen the
 British Museum MS from which Gaster
-has drawn occasional phrases.  A
+has drawn occasional phrases. (A
 version almost identical with that of
 Gaster’s has been preserved inthe Jalkut
 Shimeoni i. 40 d-4106, and has been
@@ -21909,7 +20465,7 @@ Midrasch, i. 1-5. A German transla- out of the hand of the Amorite with
 tion of part of this Midrash by Jellinek my sword and with my bow.” So
 will be found in Rénsch, 390-394. the Rev. Version following the render-
 From a comparison of the Hebrew text ing of Onkelos and the Syriac. But as
-I have observed that this translation most scholars are now agreed, p>vi here
+I have observed that this translation most scholars are now agreed, p)vi here
 
 
 has been carelessly edited in one or Ε
@@ -21930,8 +20486,7 @@ has appeared from the pen of Bousset bow (see Holzinger’s Commentary in
 in the Z f. NTliche Wissenschaft, (oc.). Thus this form of the story
 1890, pp. 202-204, but in some cases differs clearly from that in Gen. xxxiv,
 he has been misled by the translations, There Jacob has no part whatever in
-and in others I have been obliged to the onslaught on Shechem and is sub-
-disagree with his identifications. sequently hostile to its authors (xxxiv.
+and in others I have been obliged to the onslaught on Shechem and is subdisagree with his identifications. sequently hostile to its authors (xxxiv.
 
 A full treatment of this legend 80, xlix. 5-7). But the possibly older
 belongs rather to the Test. Judah 3-7, account has survived in the present
@@ -21944,12 +20499,6 @@ legend is very ancient is attested by (to these Beer (Buch ὦ. Jub. p. 3) adds 
 the fact that it is referred to in Gen. Baba bathra 123 a), and in ὦ corrupt
 xlviii, 22 where Jacob declares: ‘‘I text of Onkelos we find “prayer and
 have given to thee one portion (02¥ supplication.”
-
-
-202
-
-
-THE BOOK OF JUBILEES
 
 
 his father, and his own servants, and he went against them
@@ -21983,8 +20532,7 @@ Tappuach Tappuach
 2 | ’Arésa ᾿Ασούρ (MS 0, | (4) Pir'athaho of | (4) Parathon of
 corrupt for ‘Aowp | Hazor Hazor (wanting
 = sn) on ii. 1173-1174,
-but Hazor ismen-
-tioned on 1176,
+but Hazor ismentioned on 1176,
 1182)
 3 | Séragan "Aperav (5) Susi of Sartan | (5) Sartan
 [Pasusi of Sartan]
@@ -22062,9 +20610,6 @@ few years later it was the scene of
 CHAPTER XXXIV. 7-9
 
 
-203
-
-
 slew them in the pastures of Shechem, and pursued those
 who fled, and he slew them with the edge of the sword,
 and he slew +’Arésa+ and Taphti and Sarég4n and Sélé and
@@ -22084,8 +20629,7 @@ Bacchides against Jonathan (1 Mace.
 ix. 50; Joseph. Ané. xiii. 1. 3).
 
 tMa'antsakir.t This is corrupt for
-Shakirmaant or Shakir, king of Maha-
-naim. See table above.
+Shakirmaant or Shakir, king of Mahanaim. See table above.
 
 (And). Supplied from Latin.
 
@@ -22152,8 +20696,7 @@ to them without arms and surrendered
 themselves to be their hirelings, and
 they made peace with them, and they
 gave a present and they restored to
-them Jacob (sic, here I think the un-
-grammatical apy ond is corrupt rather
+them Jacob (sic, here I think the ungrammatical apy ond is corrupt rather
 for apy ab: hence ‘“‘restored to the
 sons of Jacob” as in the Yalkut and
 our text; or for apy’ 12: hence “the
@@ -22164,15 +20707,13 @@ cattle which they had captured twice
 over, and they restored (reading Inn
 instead of the intransitive in) the
 booty and Jacob built (sic) and also
-Judah (510). The Bodleian MS men-
-tions no towns. The view represented
+Judah (510). The Bodleian MS mentions no towns. The view represented
 in the Test. Jud. has thus no indubitable
 support in the Chronicles of Jerahmeel.
 It has such, however, in the Book of
 Jashar (op. cit. ii. 1184): Les fils de
 Jacob . . . leur rendirent tous les
-hommes qu’ils avaient emmenés prison-
-niers . . . et autre butin,”
+hommes qu’ils avaient emmenés prisonniers . . . et autre butin,”
 
 8, Rébé. This is most probably
 corrupt for Arbael, cf. Jalkut (Sxaix)
@@ -22183,9 +20724,6 @@ by apparently in the Brit. Museum
 
 
 2149 a.m.
-
-
-204 THE BOOK OF JUBILEES
 
 
 he returned in peace, and made peace with them, and they
@@ -22220,17 +20758,14 @@ MS used by Gaster but not in the
 Bodleian (see preceding note). We
 
 
-have here most probably the strong-
-hold Arbela mentioned in 1 Macc. ix.
+have here most probably the stronghold Arbela mentioned in 1 Macc. ix.
 2, where it is said that Bacchides and
-Alcimus “went by the way that lead-
-eth to Galgala and encamped against
+Alcimus “went by the way that leadeth to Galgala and encamped against
 Mesaloth which is in Arbela (Μεσσαλὼθ
 τὴν ἐν ’ApBydos) and got possession of
 it” (cf. Joseph. Ant. xii. 11.1). Here
 it seems best with Tuch and Wellhausen
-to read Meoadw8=ninyn= “ strong-
-holds” (see Enyc. Bib. i. 291). Arbela
+to read Meoadw8=ninyn= “ strongholds” (see Enyc. Bib. i. 291). Arbela
 is mentioned in the Book of Jashar
 (op. cit. ii, 1178) as one of the cities
 put to the sword by the sons of Jacob
@@ -22294,29 +20829,23 @@ down to the grave mourning for my son.” 18. For this
 reason it is ordained for the children of Israel that they
 should afflict themselves on the tenth of the seventh month—
 on the day that the news which made him weep for Joseph
-came to Jacob his father—that they should make atone-
-ment for themselves thereon with a young goat on the
+came to Jacob his father—that they should make atonement for themselves thereon with a young goat on the
 tenth of the seventh month, once a year, for their sins ;
 for they had grieved the affection of their father regarding
 Joseph his son. 19. And this day has been ordained
 that they should grieve thereon for their sins, and for
 all their transgressions and for all their errors, so that they
 might cleanse themselves on that day once a year. 20. And
-after Joseph perished, the sons of Jacob took unto them-
-selves wives. The name of Reuben’s wife is “Adi; and
+after Joseph perished, the sons of Jacob took unto themselves wives. The name of Reuben’s wife is “Adi; and
 the name of Simeon’s wife is “Adiba’a, a Canaanite; and the
 
 
 15. Qafratéf (Ὁ and so almost a). ὁ
-reads Qaraftifa. These may be corrup-
-tions of “‘ Eder of Ephrath,” which was
+reads Qaraftifa. These may be corruptions of “‘ Eder of Ephrath,” which was
 
 
 18. A flict themselves. This phrase (=
-ταπεινοῦν τὴν ψυχήν, wD) m3y) is ἃ tech-
-
-
-at one time the abode of Jacob. See
+ταπεινοῦν τὴν ψυχήν, wD) m3y) is ἃ techat one time the abode of Jacob. See
 xxxiii, 1 note. Or more probably
 Qafratéf is the same as Kabratan in
 xxxii. 82, where see note.
@@ -22329,8 +20858,7 @@ married Job.
 17. Cf. Gen. xxxvii. 35.
 
 18-19. Cf. Lev. xvi. 29, 34, 15, 16.—
-Haggada knows nothing of this institu-
-tion of the Day of Atonement. See notes
+Haggada knows nothing of this institution of the Day of Atonement. See notes
 on v. 17-18 which possibly belong to
 this context.
 
@@ -22352,12 +20880,6 @@ Havi, a Canaanitess.
 ’Adibd’a, a Canaanite. This is
 referred to in Gen. xlvi. 10; Exod. vi.
 15 where Shaul a son of Levi is said to
-
-
-206
-
-
-THE BOOK OF JUBILEES
 
 
 name of Levi’s wife is Mélka, of the daughters of Aram,
@@ -22385,8 +20907,7 @@ his brothers.
 
 
 be the son of a Canaanitish woman.
-Since such a marriage was an abomina-
-tion for which death was the penalty,
+Since such a marriage was an abomination for which death was the penalty,
 ef. xxx. 7 sqq., it is to our author’s
 credit that he has not sought to explain
 away the statement in Gen. xlvi. 10.
@@ -22394,9 +20915,7 @@ away the statement in Gen. xlvi. 10.
 Fragment has .o, and Book of
 
 
-Jashar “Buna.” Later rabbinic tradi-
-tion sought to explain this away. Ac-
-cording to Gen. rabba 80 Shaul the son
+Jashar “Buna.” Later rabbinic tradition sought to explain this away. According to Gen. rabba 80 Shaul the son
 of the Canaanitish woman is said to be
 the son of Dinah, who was deflowered.
 by Shechem. The Rabbis say that
@@ -22407,8 +20926,7 @@ xlvi. 10 where Shaul is said to be ‘‘Zimri
 who did the work of the Canaanites in
 Shittim” ; and in Sanh. 826, Shaul is
 said to have been called ‘‘the son of a
-Canaanite” ‘‘because he had com-
-mitted an act like that of Canaan”
+Canaanite” ‘‘because he had committed an act like that of Canaan”
 (see Beer, Buch der Jubiléen, p. 51 sq.).
 
 Mélkd. So also in Test. Levi ll
@@ -22477,8 +20995,7 @@ The Syr. Frag. makes Maaka also to
 be of the house of Nachor.
 
 ‘Lond. Syr. Frog. 1.1.8... Bk, of
-Jashar, first ““Edon” and next “Ha-
-dora.”
+Jashar, first ““Edon” and next “Hadora.”
 
 Asenath. Eth ’Asnéth,
 xli. 45.
@@ -22503,11 +21020,9 @@ oath and likewise Jacob, 18-26. Death of Rebecca, 27.
 
 
 XXXV. And in the first year of the first week of the 2157 a.m.
-forty-fifth jubilee Rebecca called Jacob, her son, and com-
-manded him regarding his father and regarding his brother,
+forty-fifth jubilee Rebecca called Jacob, her son, and commanded him regarding his father and regarding his brother,
 that he should honour them all the days of his life.
-2. And Jacob said: “I will do everything as thou hast com-
-manded me; for this thing will be honour and greatness
+2. And Jacob said: “I will do everything as thou hast commanded me; for this thing will be honour and greatness
 to me, and righteousness before the Lord, that I should
 honour them. 38. And thou too, mother, knowest from the
 time I was born until this day, all my deeds and all that is
@@ -22533,9 +21048,6 @@ and saw, and her teeth were strong, and no ailment
 
 XXXV. 1. His life. MSS add a 5. Mercy. Latin has “ Misericordia
 gloss “of Jacob.” Domini.”
-
-
-208 THE BOOK OF JUBILEES
 
 
 had touched her all the days of her life. 8. And Jacob
@@ -22616,8 +21128,7 @@ is great and powerful and honoured, and praised more than
 the guardian of Esau.” 18. And Rebecca sent and called
 Esau, and he came to her, and she said unto him: “I have
 a petition, my son, to make unto thee, and do thou promise
-to do it, my son.” 19. And he said: “I will do every-
-thing that thou sayest unto me, and I will not refuse
+to do it, my son.” 19. And he said: “I will do everything that thou sayest unto me, and I will not refuse
 thy petition” 20, And she said unto him: “I ask you
 that the day I die, thou wilt take me in and bury me near
 Sarah, thy father’s mother, and that thou and Jacob will
@@ -22636,12 +21147,6 @@ hands.| Here jéwaréd=‘“‘willdescend” Mt. xviii, 10; Acts xii. 15; Heb.
 is corrupt for jéwadéq= “will fall.” 14; Edersheim, Jesus the Messiah, ii.
 1 have bracketed the clause asa gloss 752.
 from xxxvi. 9.
-
-
-14
-
-
-210 THE BOOK OF JUBILEES
 
 
 and a mercy in the eyes of all those that love you.”
@@ -22678,8 +21183,7 @@ to love one another and makes them imprecate destruction
 on him who injures his brother, 1-11. Divides his
 
 
-22. From thy womb. Sod probably mercy” which goes back to a mis-
-by an emendation. bc=“from thy translation of om (Littmann).
+22. From thy womb. Sod probably mercy” which goes back to a misby an emendation. bc=“from thy translation of om (Littmann).
 
 
 CHAPTERS ΧΧΧΝ. 21-XXXVI. 7 211
@@ -22706,13 +21210,11 @@ the Lord said that he would do to Abraham and to his seed.
 4. And love one another, my sons, your brothers as a man
 who loves his own soul, and let each seek in what he may
 benefit his brother, and act together on the earth; and let
-them love each other as their own souls. 5. And concern-
-ing the question of idols, ] command and admonish you to
+them love each other as their own souls. 5. And concerning the question of idols, ] command and admonish you to
 reject them and hate them, and love them not; for they are
 full of deception for those that worship them and for those
 that bow down to them. 6. Remember ye, my sons, the
-Lord God of Abraham your father, and how I too wor-
-shipped Him and served Him in righteousness and in joy,
+Lord God of Abraham your father, and how I too worshipped Him and served Him in righteousness and in joy,
 that He might multiply you and increase your seed as the
 stars of heaven in multitude, and establish you on the earth
 as the plant of righteousness which will not be rooted out
@@ -22758,8 +21260,7 @@ but in that which is appointed to destruction, and he will
 depart into eternal execration; so that their condemnation may
 be always renewed in hate and in execration and in wrath and
 in torment and in indignation and in plagues and in disease
-for ever. 11. I say and testify to you, my sons, accord-
-ing to the judgment which will come upon the man who
+for ever. 11. I say and testify to you, my sons, according to the judgment which will come upon the man who
 wishes to injure his brother.” 12. And he divided all his
 possessions between the two on that day, and he gave the
 larger portion to him that was the first-born, and the tower
@@ -22783,8 +21284,7 @@ CHAPTER XXXVI. 8-20 213
 regarding it, for it is his.” 15. And Isaac said, “ May a
 blessing rest upon you, my sons, and upon your seed this
 day, for ye have given me rest, and my heart is not pained
-concerning the birthright, lest thou shouldest work wicked-
-ness on account of it. 16. May the Most High God bless
+concerning the birthright, lest thou shouldest work wickedness on account of it. 16. May the Most High God bless
 the man that worketh righteousness, him and his seed for
 ever.” 17. And he ended commanding them and blessing
 them, and they eat and drank together before him, and he
@@ -22795,8 +21295,7 @@ slept the eternal sleep, and died one hundred and eighty
 years old. He completed twenty-five weeks and five years;
 and his two sons Esau and Jacob buried him. 19. And
 Esau went to the land of Edom, to the mountains of Seir,
-and dwelt there. 20. And Jacob dwelt in the moun-
-tains of Hebron, in the tower of the land of the sojournings
+and dwelt there. 20. And Jacob dwelt in the mountains of Hebron, in the tower of the land of the sojournings
 of his father Abraham, and he worshipped the Lord with all
 his heart and according to the visible commands according as
 
@@ -22810,13 +21309,11 @@ see vil. 86, xii. 19, xiii, 29, xvi. 18,
 16, xxxix. 6. Cf. Test. Levi 3, 4, 5
 (twice), 8, 18. This frequency is
 characteristic of many writings of the
-second cent. B.c. Thus it is found forty-
-eight times in Sirach and thirteen times
+second cent. B.c. Thus it is found fortyeight times in Sirach and thirteen times
 in Daniel. On the other hand it appears
 only once in the Prophets, six times in
 the Pentateuch (and of these four times
-in Gen. xiv. in connection with Mel-
-chizedek), in the Pss. twenty-one times.
+in Gen. xiv. in connection with Melchizedek), in the Pss. twenty-one times.
 From the close of the second cent. B.C.
 till after the Christian era it is rare.
 Thus in Eth. En. xci.-civ. (before 79 B.c.)
@@ -22824,15 +21321,13 @@ it is found nine times, four in xxxvii.-
 Ixx., three times in Tobit, once in Judith,
 not at all in the Pss. of Solomon, twice
 in Wisdom, twice in the Assumption of
-Moses, nine times in the N.T. It is fre-
-quent in the Apocalypse of Baruch—
+Moses, nine times in the N.T. It is frequent in the Apocalypse of Baruch—
 twenty-three times, and also in 4 Ezra,
 
 
 From the above facts it follows that this
 title of God was most used in the second
-cent. B.c., though rare in some charac-
-teristic writings of that century such
+cent. B.c., though rare in some characteristic writings of that century such
 as Eth. Enoch i,-xxxvi. (twice), Ixxii.-
 xc. (once) and 1 Macc. (not at all).
 After a long period of comparative
@@ -22846,12 +21341,10 @@ Slept the eternal sleep. Cf. Test.
 Dan7 ; Issach.7: ὕπνωσεν ὕπνον αἰώνιον.
 Test. Jos. 20: ἐκοιμήθη ὕπνον αἰώνιον.
 
-20. According to the visible com-
-mands according as He had divided.
+20. According to the visible commands according as He had divided.
 (ad). 6c almost wholly wanting.
 Latin: “secundum praecepta visibilia
-secundum divisionem temporum genera-
-tionum ejus.” The commands here
+secundum divisionem temporum generationum ejus.” The commands here
 referred to were made visible to Jacob
 on the seven tablets which the angel
 showed him in a vision: see xxxii. 21.
@@ -22866,9 +21359,6 @@ time divisions (so also Rénsch, p. 152).
 2162 A.M.
 
 
-214 THE BOOK OF JUBILEES
-
-
 He had divided the days of his generations. 21. And Leah
 his wife died in the fourth year of the second week of the
 forty-fifth jubilee, and he buried her in the double cave near
@@ -22879,8 +21369,7 @@ regarding her, for he was lamenting her. 23. For he loved
 her exceedingly after Rachel her sister died; for she was
 perfect and upright in all her ways and honoured Jacob,
 and all the days that she lived with him he did not hear
-from her mouth a harsh word, for she was gentle and peace-
-able and upright and honourable. 24. And he remembered
+from her mouth a harsh word, for she was gentle and peaceable and upright and honourable. 24. And he remembered
 all her deeds which she had done during her life, and he
 lamented her exceedingly; for he loved her with all his
 heart and with all his soul.
@@ -23025,9 +21514,6 @@ Text of u, though ungrammatical, =
 “him his sons.”
 
 
-216 THE BOOK OF JUBILEES
-
-
 hearken unto us: Let us send to Aram and Philistia and
 Moab and Ammon, and let us choose for ourselves chosen
 men who are ardent for battle, and let us go against him and
@@ -23061,8 +21547,7 @@ equivalent in the Test. Jud. 9 is:
 For that in the Jalkut see note on
 verses 14-16.
 
-6. The ,names of the nations men-
-tioned here recur in verses 9-10.
+6. The ,names of the nations mentioned here recur in verses 9-10.
 
 9-10. Against nearly all the nations
 mentioned here the Maccabees waged
@@ -23071,8 +21556,7 @@ at strife for many decades. The
 Ammonites were invaded by Judas (1
 Macc. v. 6-8; Joseph. Ant. xii. 8. 1),
 and discomfited in several battles. On
-the complete subjugation of the Philis-
-tines by the Maccabees see notes on
+the complete subjugation of the Philistines by the Maccabees see notes on
 xxiv. 28-32. As regards the Edomites
 Judas fought against them and smote
 them with great slaughter, 1 Mace. v.
@@ -23082,8 +21566,7 @@ frequently by Edom (1 Macc. iv. 29,
 61), and were helped by the latter
 against Israel. Later John Hyrcanus
 wrested Adora and Mareshah out of
-the hands of the Edomites and com-
-pelled the whole nation to accept
+the hands of the Edomites and compelled the whole nation to accept
 circumcision (Joseph. Ant. xiii. 9. 1,
 xv. 7.9; Bell. Jud. i, 2.6). As regards
 the Kittim, see note on xxiv. 28. These
@@ -23152,8 +21635,7 @@ sons together with their servants,
 children and all their possessions ; for
 they had all assembled there in order
 to comfort Jacob in his mourning for
-Leah. They were sitting there peace-
-fully, and none imagined that any
+Leah. They were sitting there peacefully, and none imagined that any
 force had come upon them to contend
 
 
@@ -23173,13 +21655,9 @@ him in war in order to put those in the
 tower to the sword, and that he shot
 arrows against them, Jacob stood upon
 the wall of the tower, and spake to
-Esau his brother words of peace, friend-
-ship and brotherliness (mnx); but Esau
+Esau his brother words of peace, friendship and brotherliness (mnx); but Esau
 would have none of them.” Similarly
 in Chron. of Jerah. p. 84.
-
-
-218 THE BOOK OF JUBILEES
 
 
 father wast thou condemned.” 18. And then Esau answered
@@ -23267,8 +21745,7 @@ the following excellent sense in ver.
 children for ever ; for thou hast not been
 a brother to me since the twins were
 separated from their mother. Yea,
-there is no observing the tie of brother-
-hood with thee.”
+there is no observing the tie of brotherhood with thee.”
 
 22, And makes peace with him. This
 clause which cd omit is added by ab
@@ -23326,8 +21803,7 @@ transposed it as above.
 
 23. The razd. The raza is according to
 Isenberg, Amharic Dictionary, p. 48,
-‘‘a large white bird which eats grass-
-hoppers.”  Dillmann both in_ his
+‘‘a large white bird which eats grasshoppers.”  Dillmann both in_ his
 Lexicon and translation took raz4 here
 to mean “rice,” oryza, but there can
 be no doubt that the above is right.
@@ -23345,9 +21821,6 @@ Let us give him=Nahabé (so read in
 my text instead of Nehabé). Emended
 with Lat. “demus illi” from bahabéna
 = “with us.”
-
-
-220 THE BOOK OF JUBILEES
 
 
 Jacob bent his bow and sent forth the arrow and struck
@@ -23382,8 +21855,7 @@ Esau: ἔπαισεν ἐν τόξῳ ᾿Ιακὼβ τὸν
 from the Latin and the Yalkut. See
 preceding note.
 
-Slew him.  A later tradition attri-
-buted the death of Esau to Chushim,
+Slew him. (A later tradition attributed the death of Esau to Chushim,
 son of Dan. See Ps.-Jon. on Gen. 1.
 13 ; Book of Jashar (op. cit. ii. 1235) ;
 Sotal3a. Beer (Buch der Jubilien, p.
@@ -23496,8 +21968,7 @@ pons. This is the “Adwpa mentioned
 by Joseph. Ant. xiii. 15. 4, along with
 Médpica (cf. 1 Mace. xiii, 20). These
 two towns of Edom were captured by
-Hyrcanus and forced to accept circum-
-cision (Joseph. Ant. xiii, 9.15; Bell.
+Hyrcanus and forced to accept circumcision (Joseph. Ant. xiii, 9.15; Bell.
 Jud. i, 2. 6).
 
 10-13. The Jalkut is as follows:
@@ -23521,8 +21992,7 @@ And the sons of Edom have
 
 sons of Esau and all the men who had
 fled with them came forth and fell down
-before the sons of Jacob and laid them-
-selves prostrate and prayed them till
+before the sons of Jacob and laid themselves prostrate and prayed them till
 they made peace with them. And
 they made them servants to tribute.”
 Similarly in the Chron. of Jerah. p.
@@ -23534,17 +22004,13 @@ of the siege of Adora, and then proceeds:
 δίδοντες ἡμῖν πυροῦ κόρους διακοσίους
 . . « ἕως ὅτε κατήλθομεν εἰς Αἴγυπτον.
 
-10. Pressed hard upon. Here ’aman-
-dabéwdmti (which is to be retained and
+10. Pressed hard upon. Here ’amandabéwdmti (which is to be retained and
 not emended as in my text)=omw rns
 in the Jalkut.
 
 11-13. The substance of these verses
 is found in Test. Jud. 9; see on 10-13
 above.
-
-
-222 THE BOOK OF JUBILEES
 
 
 not got quit of the yoke of servitude which the twelve
@@ -23592,7 +22058,6 @@ Bésér,
 18. ’Asdm,; LXX,‘Aodu; Mass. on.
 
 19. ’Adat; LXX, ‘Addo; Mass.
-1
 
 Barad ; UXX, Βαράδ ; Mass. 112.
 
@@ -23639,16 +22104,14 @@ butler and chief baker whose dreams Joseph interprets,
 XXXIX. And Jacob dwelt in the land of his father’s
 sojournings in the land of Canaan. 2. These are the
 generations of Jacob. And Joseph was seventeen years old
-when they took him down into the land of Egypt, and Poti-
-phar, an eunuch of Pharaoh, the chief cook bought him, 8.
+when they took him down into the land of Egypt, and Potiphar, an eunuch of Pharaoh, the chief cook bought him, 8.
 And he set Joseph over all his house, and the blessing of
 the Lord came upon the house of the Egyptian on account
 of Joseph, and the Lord prospered him in all that he did.
 4, And the Egyptian committed everything into the hands of
 Joseph ; for he saw that the Lord was with him, and that
 the Lord prospered him in all that he did. 5. And Joseph’s
-appearance was comely and very beautiful was his appear-
-ance, and his master’s wife lifted up her eyes and saw
+appearance was comely and very beautiful was his appearance, and his master’s wife lifted up her eyes and saw
 Joseph, and she loved him, and besought him to lie with
 her. 6. But he did not surrender his soul, and he
 remembered the Lord and the words which Jacob, his
@@ -23681,15 +22144,10 @@ qédméht = ‘‘ before him.”
 seems to be a dittography.
 
 6. See xx. 4, xxv. 7 where Abraham's
-commands on this question are men-
-tioned. According to Soteh 360 the
+commands on this question are mentioned. According to Soteh 360 the
 image of Jacob appeared at the window
 and exhorted Joseph to be faithful
-(Hershon, Genesis with «4 ΤΆ]. Com-
-mentary, p. 428).
-
-
-224 THE BOOK OF JUBILEES
+(Hershon, Genesis with «4 ΤΆ]. Commentary, p. 428).
 
 
 fast in the house in order to force him to lie with her, and
@@ -23742,8 +22200,7 @@ as he interpreted to them so it befell them, and Pharaoh
 restored the chief butler to his office, and the (chief) baker
 he slew, as Joseph had interpreted to them. 18. But the
 chief butler forgot Joseph in the prison, although he had
-informed him what would befall him, and did not remem-
-ber to inform Pharaoh how Joseph had told him, for he
+informed him what would befall him, and did not remember to inform Pharaoh how Joseph had told him, for he
 forgot.
 
 
@@ -23781,12 +22238,6 @@ XL. 1. Cf. Gen. xli. 1, 5, 7, 8. and Gen. xli. 34; whereas cd read
 
 Overseers. We should here have wasacorruption of σιτάρχας into σιταρ-
 makuannéna. Cf. Latin “speculatores,” las.
-
-
-15
-
-
-226 THE BOOK OF JUBILEES
 
 
 not perish through the famine, for it will be very severe.”
@@ -23831,15 +22282,12 @@ EL EL wa ’Αὐϊνῦγ τεῦς vary by by,
 “God, God, the mighty one of God.”
 The Latin has Elel et Habirel. This
 is a peculiar expansion of the term
-jax in Gen, xli. 48, With the inter-
-pretation of that term we have no con-
-cern here, but only with its derivation
+jax in Gen, xli. 48, With the interpretation of that term we have no concern here, but only with its derivation
 in our text, The phrase “mighty one
 
 
 of God” clearly designates Joseph, and,
-indeed seems to be a technical designa-
-tion for a great magician. Thus in
+indeed seems to be a technical designation for a great magician. Thus in
 Acts viii. 10 Simon Magus is called ἡ
 δύναμις τοῦ Θεοῦ ἡ μεγάλη (or ἡ καλου-
 μένη μεγάλη) In a late Christian
@@ -23863,8 +22311,7 @@ CHAPTER XL. 5-13 227
 
 who heard concerning him, and Pharaoh’s kingdom was
 well ordered, and there was no Satan and no evil person
-(therein). 10. And the king called Joseph’s name Séphanti-
-phans, and gave Joseph to wife the daughter of Potiphar,
+(therein). 10. And the king called Joseph’s name Séphantiphans, and gave Joseph to wife the daughter of Potiphar,
 the daughter of the priest of Heliopolis, the chief cook.
 11. And on the day that Joseph stood before Pharaoh he
 was thirty years old [when he stood before Pharaoh].
@@ -23924,10 +22371,8 @@ Bible Dict. i. 162; and Issaverden’s
 translation of Uncanonical Writings
 of the Old Testament, 1901, Venice,
 pp. 94-96). In these later writings,
-however, Asenath is no longer repre-
-sented as a Jewess by birth except
-in a single passage in the Syriac ver-
-sion.
+however, Asenath is no longer represented as a Jewess by birth except
+in a single passage in the Syriac version.
 
 11. Cf. Gen. xli. 46. Ihave bracketed
 the words “when he stood before
@@ -23941,9 +22386,6 @@ Pharaoh ” as a dittography.
 
 
 2168 A.M.
-
-
-228 THE BOOK OF JUBILEES
 
 
 been consummated, 23-28. (Cf. Gen. xxxviii. 6-18, 20-
@@ -24033,8 +22475,7 @@ CHAPTER XLI. 1-15 229
 
 
 in the sixth year Judah went up to shear his sheep at 2169 a.m.
-Timnah. And they told Tamar: “Behold thy father -in-
-law goeth up to Timnah to shear his sheep.” 9. And
+Timnah. And they told Tamar: “Behold thy father -inlaw goeth up to Timnah to shear his sheep.” 9. And
 she put off her widow’s clothes, and put on a veil, and
 adorned herself, and sat in the gate adjoining the
 way to Timnah. 10, And as Judah was going along he
@@ -24087,8 +22528,7 @@ ii, 17, instead of oph. ena, to which
 said to be the cord round the neck,
 on which the signet ring was hung.
 
-12. And he went in unto her. Re-
-stored from Latin “et coiit (MS fuit)
+12. And he went in unto her. Restored from Latin “et coiit (MS fuit)
 cum ea.” Cf. Test. Jud. 12: συνελθὼν
 αὐτῇ συνείληφεν, and Gen. xxxviii. 18,
 
@@ -24096,19 +22536,14 @@ cum ea.” Cf. Test. Jud. 12: συνελθὼν
 
 14, Cf. Test. Jud. 12: καί ye of ἐν
 τῇ πόλει ἔλεγον, μὴ εἶναι ἐν τῇ πόλει
-τελισκομένην (=a woman being initi-
-ated into rites of Aphrodite, te. mvp).
+τελισκομένην (=a woman being initiated into rites of Aphrodite, te. mvp).
 
 15. And said unto him that he
-had not found her. I have here trans-
-posed the text of ed (ab) which read
+had not found her. I have here transposed the text of ed (ab) which read
 “that he had not found her and he said
 
 
 2170 A.M.
-
-
-230 THE BOOK OF JUBILEES
 
 
 asked the people of the place, and they said unto me:
@@ -24121,8 +22556,7 @@ whoredom.” 17. And Judah went to the house of her
 father, and said unto her father and her brothers: “ Bring
 her forth, and let them burn her, for she hath wrought
 uncleanness in Israel.” 18. And it came to pass when they
-brought her forth to burn her that she sent to her father-in-
-law the ring and the necklace, and the staff, saying:
+brought her forth to burn her that she sent to her father-inlaw the ring and the necklace, and the staff, saying:
 “ Discern whose are these, for by him am I with child.”
 19. And Judah acknowledged, and said: “Tamar is more
 righteous than I am. And therefore let them burn her not.”
@@ -24191,8 +22625,7 @@ Lord because of his transgression. 24. And we told
 him in a dream that it was forgiven him because he
 supplicated earnestly, and lamented, and did not again
 commit it. 25, And he received forgiveness because he
-turned from his sin and from his ignorance, for he trans-
-gressed greatly before our God; and every one that acts
+turned from his sin and from his ignorance, for he transgressed greatly before our God; and every one that acts
 thus, every one who lies with his mother-in-law, let
 them burn him with fire that he may burn therein, for
 there is uncleanness and pollution upon them; with fire
@@ -24219,8 +22652,7 @@ GAN ὁ θεός... ὁ οἰκτίρμων καὶ ἐλεή-
 μων συνέγνω ὅτι ἐν ἀγνοίᾳ ἐποίησα.
 
 25. Received forgiveness because he
-turned from his sin and from his ignor-
-ance. Somethingseems wrong. We ought
+turned from his sin and from his ignorance. Somethingseems wrong. We ought
 to have the idea expressed in Test. Jud.
 19: συνέγνω ὅτι ἐν ἀγνοίᾳ ἐποίησα.
 Cf. 1 Tim. i, 18: ἠλεήθην, ὅτι ἀγνοῶν
@@ -24228,21 +22660,15 @@ Cf. 1 Tim. i, 18: ἠλεήθην, ὅτι ἀγνοῶν
 turned” after ‘‘ignorance.” If we
 transpose the clauses “because. . .
 sin” and ‘‘from his ignorance,” we
-should have an excellent sense: “re-
-ceived forgiveness because of his ignor-
-
-
-ance and because he turned from his
+should have an excellent sense: “received forgiveness because of his ignorance and because he turned from his
 sin”; for the Eth. preposition emna
 means either “from” or “ because of.”
 
-Every one who lies with his mother-in-
-law, let them burn him with fire. So
+Every one who lies with his mother-inlaw, let them burn him with fire. So
 Lev. xx. 14 enacts.
 
 26. Lies with his daughter-in-law.
-Cf. Lev. xviii. 15, xx. 12. The punish-
-ment ordained for this offence is death
+Cf. Lev. xviii. 15, xx. 12. The punishment ordained for this offence is death
 in the passages referred to in Leviticus ;
 but the form of death is not specified.
 On the other hand, death by fire is the
@@ -24256,9 +22682,6 @@ Abraham. See note on xx. 4.
 
 
 2171 A.M.
-
-
-232 THE BOOK OF JUBILEES
 
 
 Owing to the famine Jacob sends his sons to Egypt for corn,
@@ -24278,8 +22701,7 @@ whatever fell. 2. And the earth grew barren, but in the
 land of Egypt there was food, for Joseph had gathered
 the seed of the land in the seven years of plenty and
 had preserved it. 3. And the Egyptians came to Joseph
-that he might give them food, and he opened the store-
-houses where was the grain of the first year, and he sold it
+that he might give them food, and he opened the storehouses where was the grain of the first year, and he sold it
 to the people of the land for gold. 4. (Now the famine
 was very sore in the land of Canaan), and Jacob heard that
 there was food in Egypt, and he sent his ten sons that they
@@ -24350,9 +22772,6 @@ ligavit eum.” 18. Cf. Gen. xliii. 1.
 2172 am.
 
 
-234 THE BOOK OF JUBILEES
-
-
 he said unto his sons: “Go again, and procure food for
 us that we die not.” 16. And they said: “ We shall not go;
 unless our youngest brother go with us, we shall not go.”
@@ -24404,8 +22823,7 @@ I drink, put it in the sack of the youngest, and send them
 away.”
 
 
-Joseph's plan to stay his brethren, 1-10. Judah's sup-
-plication, 11-13. Joseph makes himself known to his
+Joseph's plan to stay his brethren, 1-10. Judah's supplication, 11-13. Joseph makes himself known to his
 brethren and sends them back for his father, 14-24.
 (Cf. Gen. xliv. 3-10, 12-18, 27-28, 30-32, xlv. 1-2,
 5-9, 12, 18, 20-21, 23, 25-28.)
@@ -24437,9 +22855,6 @@ shall I take as a servant, and ye will return in peace
 
 XLII. 2. Cf. Gen. xliv. 3, 4. 5. Thy lord. Gen, xliv. 9, ‘“‘my
 8-6. Cf. Gen. xliv. 6-10. lord.”
-
-
-236 THE BOOK OF JUBILEES
 
 
 unto your house.” 7. And as he was searching in their
@@ -24489,8 +22904,7 @@ A change of jasta’adém into jastaqasém 98 me,” a mistranslation of "3:-- �
 CHAPTER XLIII. 7-24 237
 
 
-14. And Joseph saw that they were all accordant in good-
-ness one with another, and he could not refrain himself,
+14. And Joseph saw that they were all accordant in goodness one with another, and he could not refrain himself,
 and he told them that he was Joseph. 15. And he
 conversed with them in the Hebrew tongue and fell on
 their neck and wept. But they knew him not and they
@@ -24501,8 +22915,7 @@ my brother Benjamin see. 17. For behold this is the
 second year of the famine, and there are still five years
 without harvest or fruit of trees or ploughing. 18. Come
 down quickly ye and your households, so that ye perish not
-through the famine, and do not be grieved for your possess-
-ions, for the Lord sent me before you to set things in order
+through the famine, and do not be grieved for your possessions, for the Lord sent me before you to set things in order
 that many people might live. 19. And tell my father that
 I am still alive, and ye, behold, ye see that the Lord has
 made me as a father to Pharaoh, and ruler over his house
@@ -24534,9 +22947,6 @@ Ye see that itis . . . Benjamin see. 21-24. Cf. Gen. xlv. 21, 28, 25, 26,
 Emended: see my text p.157. MSS= 27, 28.
 
 
-238 THE BOOK OF JUBILEES
-
-
 Joseph had sent, the life of his spirit revived, and he
 said: “It is enough for me if Joseph lives; I will go down
 and see him before I die.”
@@ -24558,8 +22968,7 @@ come to him, and that he would not go down, he remained
 there seven days, if perchance he should see a vision as
 to whether he should remain or go down. 4. And he
 celebrated the harvest festival of the first-fruits with old
-grain, for in all the land of Canaan there was not a hand-
-ful of seed (in the land), for the famine was over all the
+grain, for in all the land of Canaan there was not a handful of seed (in the land), for the famine was over all the
 beasts and cattle and birds, and also over man. 5. And
 on the sixteenth the Lord appeared unto him, and said
 unto him, “Jacob, Jacob”; and he said, “Here am I.”
@@ -24575,22 +22984,16 @@ opic is here a literal equivalent of the
 LXX, Gen. xlv. 28, μέγα μοί ἐστιν, which
 is in its turn a literal rendering of +b a9,
 LXX, Syr., Vulg. (sufficit mihi) and
-Onkelos presuppose the », which how-
-ever the Mass. and Sam. omit.
+Onkelos presuppose the », which however the Mass. and Sam. omit.
 
-XLIV. 1. +Harant. This seems cor-
-rupt for “Hebron.” Hebron is pre-
-
-
-and also by Gen. xxxvii. 14.
+XLIV. 1. +Harant. This seems corrupt for “Hebron.” Hebron is preand also by Gen. xxxvii. 14.
 
 4. Cf. Gen. xlvi. 1. Jacob celebrates
 the feast of weeks on the 15th of the
 third month. He has a vision on the
 next day (see next verse).
 
-(In the land). Bracketed as a ditto-
-graphy.
+(In the land). Bracketed as a dittography.
 
 5-8. Cf. Gen. xlvi, 2-6.
 
@@ -24652,10 +23055,7 @@ each. On the other hand Gen. includes
 
 
 29+14+14+12=69. Thus the
-number 70 includes Jacob. It is note-
-
-
-in its reckoning two grandchildren of
+number 70 includes Jacob. It is notein its reckoning two grandchildren of
 Asher, Er, Onan, two sons of Perez,
 and Dinah against Jubilees. The
 numbers in our text may be represented
@@ -24667,9 +23067,6 @@ xlvi. 27: likewise in Exod. i. 5, while
 in Deut. x. 22 most MSS give 70 but
 some give 75. The number 75 in Acts
 vii. 14 is of course due to the LXX.
-
-
-240 THE BOOK OF JUBILEES
 
 
 Pallu, and Hezron and Carmi—five. 13. Simeon and his
@@ -24760,8 +23157,7 @@ the Eth. as the number “six” shows.
 CHAPTER XLIV. 13-34 241
 
 
-the souls were fourteen, and all those of Leah were forty-
-four. 23. And the sons of Rachel, the wife of Jacob:
+the souls were fourteen, and all those of Leah were fortyfour. 23. And the sons of Rachel, the wife of Jacob:
 Joseph and Benjamin. 24. And there were born to Joseph
 in Egypt before his father came into Egypt, those whom
 Asenath, daughter of Potiphar priest of Heliopolis bare
@@ -24803,13 +23199,7 @@ that the sons of Dan were beyond “before they married”; d “who did
 numbering. Beer (Buch d. Jub. 37) not marry.”
 
 
-16
-
-
 2172 aM.
-
-
-242 THE BOOK OF JUBILEES
 
 
 buried those who perished, and they were reckoned among
@@ -24893,8 +23283,7 @@ Gen. xlvii. 9.
 
 7. Cf. Gen. xlvii. 12.
 
-As much as sufficed them. By read-
-ing bakama’ak4lém{i instead of bakama
+As much as sufficed them. By reading bakama’ak4lém{i instead of bakama
 yaaklémfi we should get (as in LXX
 of Gen. xlvii. 12) κατὰ σῶμα αὐτῶν,
 “according to their persons.” The
@@ -24921,8 +23310,7 @@ has collegerunt, may be corrupt for
 12. Cf. Gen. xlvii. 24.
 
 Of the corn of the harvest =’ém’ékl
-zazar’i, So the text should be trans-
-lated. Zar’ is not a verb here, but
+zazar’i, So the text should be translated. Zar’ is not a verb here, but
 zar’e (which here=seges, γεννήματα)
 with the suffix, which goes back to
 medr=“land” in verse 10, just as
@@ -24940,9 +23328,6 @@ the emendation in my text.
 
 
 2242 A.M.
-
-
-244 THE BOOK OF JUBILEES
 
 
 until this day. 13. And Israel lived in the land of Egypt
@@ -24986,8 +23371,7 @@ the present passage should be 2041. keeping of Levi’s descendants. It is
 
 
 See also note on xxv. 4. : reasonable to infer that our author who
-14, Told them everything, etc. Gen. gave them to the world was a descend-
-xlix. 1. See xxxii. 21, note. ant of Levi, and probably a priest.
+14, Told them everything, etc. Gen. gave them to the world was a descendxlix. 1. See xxxii. 21, note. ant of Levi, and probably a priest.
 
 
 Blessed them. Of. Gen. xlix.
@@ -25011,9 +23395,6 @@ that generation. 5. And he commanded the children of
 Israel before he died that they should carry his bones with
 them when they went forth from the land of Egypt.
 6. And he made them swear regarding his bones, for
-
-
-245
 
 
 died seventy years after the arrival of
@@ -25102,9 +23483,6 @@ Dictionary, i. 662, 665. But our text,
 2263 A.M.
 
 
-246 THE BOOK OF JUBILEES
-
-
 he knew that the Egyptians would not again bring forth
 and bury him in the land of Canaan, for Makamarén, king
 of Canaan, while dwelling in the land of Assyria, fought
@@ -25114,8 +23492,7 @@ there, and pursued after the Egyptians to the gates of
 new king, had become king of Egypt, and he was stronger
 than he, and he returned to the land of Canaan, and
 the gates of Egypt were closed, and none went out and
-none came into Egypt. 8. And Joseph died in the forty-
-sixth jubilee, in the sixth week, in the second year, and
+none came into Egypt. 8. And Joseph died in the fortysixth jubilee, in the sixth week, in the second year, and
 they buried him in the land of Egypt, and all his
 brethren died after him. 9. And the king of Egypt went
 forth to war with the king of Canaan in the forty-seventh
@@ -25142,8 +23519,7 @@ Josephus, is given in the Chronicles of
 Jerahmeel, xlv. Here the war is
 between Cush and Syria and the people
 of the East. Another form appears in
-the Palaea Historica (Vassiliev, Anec-
-dota Graeco-Byzantina, i. 228), where
+the Palaea Historica (Vassiliev, Anecdota Graeco-Byzantina, i. 228), where
 Egypt is at strife with India. A later
 and still more elaborate, and still more
 grotesque, edition is found in the Book
@@ -25165,8 +23541,7 @@ Ramses. I cannot identify Makamarén.
 This statement holds even if we accept
 the birth-dates in our text (see p. 171
 note), and the ages assigned to the twelve
-sons of Jacob by the Test. XII. Patri-
-archs (see p. 172 note).
+sons of Jacob by the Test. XII. Patriarchs (see p. 172 note).
 
 9. The date 2263 is not late enough
 to allow of all the sons of Jacob being
@@ -25192,8 +23567,7 @@ of Canaan was victorious over the king of Egypt, and he
 closed the gates of Egypt. 12. And he devised an evil
 device against the children of Israel of afflicting them;
 and he said unto the people of Egypt: 13. “Behold the
-people of the children of Israel have increased and multi-
-plied more than we. Come and let us deal wisely with
+people of the children of Israel have increased and multiplied more than we. Come and let us deal wisely with
 them before they become too many, and let us afflict them
 with slavery before war come upon us and before they
 too fight against us; else they will join themselves unto
@@ -25201,11 +23575,9 @@ our enemies and get them up out of our land, for their
 hearts and faces are towards the land of Canaan.” 14.
 And he set over them taskmasters to afflict them with
 slavery; and they built strong cities for Pharaoh, Pithom
-and Raamses, and they built all the walls and all the fortifi-
-cations which had fallen in the cities of Egypt. 15. And
+and Raamses, and they built all the walls and all the fortifications which had fallen in the cities of Egypt. 15. And
 they made them serve with rigour, and the more they dealt
-evilly with them, the more they increased and multi-
-plied. 16. And the people of Egypt abominated the
+evilly with them, the more they increased and multiplied. 16. And the people of Egypt abominated the
 children of Israel.
 
 
@@ -25233,13 +23605,9 @@ compares for the diction Ezek. xxi. 2. And all the fortifications. Latin
 14. Strong cities. This is nuzop “py, omits.
 
 
-248 THE BOOK OF JUBILEES
-
-
 week, in the sixth year thereof, in the forty-eighth
 jubilee; this was the time of tribulation on the children
-of Israel. 2. And Pharaoh, king of Egypt, issued a com-
-mand regarding them that they should cast all their
+of Israel. 2. And Pharaoh, king of Egypt, issued a command regarding them that they should cast all their
 male children which were born into the river. 3. And
 they cast them in for seven months until the day that thou
 wast born. And thy mother hid thee for three months,
@@ -25306,8 +23674,7 @@ in Syr. Frag. as ala; , as Θέρ-
 2: similarly in Syncellus i. 297 : Θερ-
 μοῦθις ἡ καὶ Φαρίη. This Φαρία is
 identified with Isis ; see Tertullian Ad.
-Nat. ii, 8; Apol. 16. For other refer-
-ences consult Ronsch, p. 265.
+Nat. ii, 8; Apol. 16. For other references consult Ronsch, p. 265.
 
 Her maidens. Eth.=‘‘her Hebrew
 maids,” a mistranslation as Dillmann
@@ -25362,8 +23729,7 @@ didst return into Egypt in the second week in the
 Daughter. Eth. and Lat. =“ house.”
 
 
-τὸ τῆς ἡλικίας... ἀνάστημα. Accord-
-ing to the Chron. of Jerahmeel, xliv. 12
+τὸ τῆς ἡλικίας... ἀνάστημα. According to the Chron. of Jerahmeel, xliv. 12
 
 
 Here the Greek translator misread -na as
@@ -25397,9 +23763,6 @@ iv. 19.
 
 
 2410 Α.Μ.
-
-
-250 THE BOOK OF JUBILEES
 
 
 second year in the fiftieth jubilee. 2. And thou thyself
@@ -25442,8 +23805,7 @@ On the way when thou didst meet him
 at the lodging-place. Here the Eth. is
 hopelessly corrupt. ὁ which represents
 an attempt at emendation=“on the
-feast of tabernacles.’ «abd are un-
-intelligible. It is best therefore to
+feast of tabernacles.’ «abd are unintelligible. It is best therefore to
 follow the Latin: “in via in qua
 praeteristi eum in refectione,” and
 Exod. iv. 24, 1nw25» pooa 71.
@@ -25468,13 +23830,11 @@ I have supplied the words in brackets.
 They are wanting both in the Eth. and
 
 
-Lat. The Lat. has simply “ primiti-
-vorum” and 80 αὖ. cd have prefixed
+Lat. The Lat. has simply “ primitivorum” and 80 αὖ. cd have prefixed
 “fand.”’ Hence there was a lacuna here
 
 
-in the Greek version. Only for the con-
-cluding words ‘‘and burned them with
+in the Greek version. Only for the concluding words ‘‘and burned them with
 fire”? we might connect the clause with
 the words that follow aud merely supply
 a preposition: ‘“(on) the first-born.”
@@ -25492,15 +23852,13 @@ speak with the king of Egypt before all his servants
 and before his people. 7. And everything took place
 according to thy words; ten great and terrible judgments
 came on the land of Egypt that thou mightest execute
-vengeance on it for Israel. 8. And the Lord did every-
-thing for Israel’s sake, and according to His covenant,
+vengeance on it for Israel. 8. And the Lord did everything for Israel’s sake, and according to His covenant,
 which He had ordained with Abraham that He would take
 vengeance on them as they had brought them by force into
 bondage. 9. And the prince of the Mastéma stood up against
 thee, and sought to cast thee into the hands of Pharaoh,
 and he helped the Egyptian sorcerers, and they stood up
-and wrought before thee. 10. The evils indeed we per-
-mitted them to work, but the remedies we did not allow to
+and wrought before thee. 10. The evils indeed we permitted them to work, but the remedies we did not allow to
 be wrought by their hands. 11. And the Lord smote
 them with malignant ulcers, and they were not able
 to stand, for we destroyed them so that they could not
@@ -25553,9 +23911,6 @@ halaja= “took thought.”
 and” which ὦ ὦ insert before ‘‘ between
 
 
-252 THE BOOK OF JUBILEES
-
-
 hand, and out of the hand of his people, and the Lord
 brought them through the midst of the sea as if it were
 dry land. 14. And all the peoples whom he brought
@@ -25567,8 +23922,7 @@ vengeance on 1,000,000 of them, and one thousand strong
 and energetic men were destroyed on account of one
 suckling of the children of thy people which they had
 thrown into the river. 15, And on the fourteenth day and
-on the fifteenth and on the sixteenth and on the seven-
-teenth and on the eighteenth the prince of the Mastéma was
+on the fifteenth and on the sixteenth and on the seventeenth and on the eighteenth the prince of the Mastéma was
 bound and imprisoned behind the children of Israel that
 he might not accuse them. 16. And on the nineteenth
 we let them loose that they might help the Egyptians
@@ -25586,8 +23940,7 @@ the Egyptians.” cd add these words
 after “between the Egyptians.”
 
 
-14, Another example of the dex talt-
-onis mentioned in iv. 31 (see note), and
+14, Another example of the dex taltonis mentioned in iv. 31 (see note), and
 enunciated in Wisd. xi. 16: δι’ ὧν τις
 ἁμαρτάνει, διὰ τούτων κολάζεται. See
 also Gen. ix. 6; Exod. xviii. 11 ; Wisd.
@@ -25681,12 +24034,8 @@ them any soul either of cattle, or man, or dog. 5. And
 XLIX. 1. Cf, Exod. xii. 6. Egyptians. Here again (cf. xvii. 16,
 2. When all the powers of Mastéma  xlviii. 2, 17) our author interprets after
 had been let loose to slay, etc. See his manner the statement in Exod. xii.
-note on x. 8. According to Ps.-Jon. 29 that “Yahweh smote all the first-
-on Exod. xii. 29 it was the word born.”
+note on x. 8. According to Ps.-Jon. 29 that “Yahweh smote all the firston Exod. xii. 29 it was the word born.”
 (x1p'p) of Yahweh which slew the 3. Cf. Exod. xii. 13, 22, 23.
-
-
-254 THE BOOK OF JUBILEES
 
 
 the plague was very grievous in Egypt, and there was
@@ -25762,7 +24111,7 @@ According to our text the Passover
 victim might be slain ‘‘during the
 period bordering on the evening.” This
 is the meaning it attaches to the phrase
-“between the evenings” (o2Wyn }>3)-
+“between the evenings” (o2Wyn })3)-
 It corresponds well with Deut. xvi. 6,
 which gives directions for the sacrificing
 of the passover “at even, at the going
@@ -25770,23 +24119,19 @@ down of the sun.” But in ver. 10 of our
 text, a wider definition is given—‘‘ from
 the third part of the day to the third
 part of the night.” The Pharisees and
-the Sadducees differed in the interpre-
-tation of the phrase “between the
+the Sadducees differed in the interpretation of the phrase “between the
 evenings.” The former said it meant
 from the time when the sun inclined
-towards his setting till his final dis-
-appearance, 1.6., from 3 to 6 p.m,
+towards his setting till his final disappearance, 1.6., from 3 to 6 p.m,
 but according to the latter it was the
-time between actual sunset and dark-
-ness, ὕ.6., 6 and 7 p.m. (Pesachim v. 1).
+time between actual sunset and darkness, ὕ.6., 6 and 7 p.m. (Pesachim v. 1).
 The hours (the 9th to the 11th) assigned
 by Josephus (Bell. Jud. vi. 9. 8) agree
 with the Pharisaic determination (θύου-
 ow μὲν ἀπὸ ἐνάτης ὥρας μέχρις év-
 δεκάτη). If then we combine the
 statements in verses 10 and 12 of our
-text we may infer that the slaughter-
-ing of the victim might take place any
+text we may infer that the slaughtering of the victim might take place any
 time during “the third part of the
 day” before sunset ; and this harmonises
 on the whole with the rabbinic tradition.
@@ -25818,8 +24163,7 @@ They shall eat it with diligence. Cf.
 Exod. xii, 11. ‘With diligence” =
 σπουδαίως, which in the LXX is a
 rendering of ;pna. In ver. 28 this
-Hebrew phrase is rendered more liter-
-ally.
+Hebrew phrase is rendered more literally.
 
 Its head with the inwards, ete.
 Exod. xii. 9.
@@ -25842,9 +24186,6 @@ change of μὴ into oxy. But the cor-
 Cf.
 
 
-256 THE BOOK OF JUBILEES
-
-
 crushed}. 14. For this reason the Lord commanded the
 children of Israel to observe the passover on the day of
 its fixed time, and they shall not break a bone thereof ;
@@ -25860,8 +24201,7 @@ in that year in which they celebrate the passover in
 its season in every respect according to His command.
 16. And they shall not eat it outside the sanctuary
 of the Lord, but before the sanctuary of the Lord, and
-all the people of the congregation of Israel shall cele-
-brate it in its appointed season. 17. And every man who
+all the people of the congregation of Israel shall celebrate it in its appointed season. 17. And every man who
 has come upon its day shall eat it in the sanctuary
 of your God before the Lord from twenty years old and
 upward; for thus is it written and ordained that they
@@ -25872,13 +24212,10 @@ tabernacle of the Lord in the midst of the land in one of
 
 
 ruption seems native to the Ethiopic.
-If the text referred here to the “ break-
-ing” of a bone, it would most probably
+If the text referred here to the “ breaking” of a bone, it would most probably
 have used sabara as in the clause before
 and in the verse after, where the Latin
-uses frangere and confringere respec-
-tively. In this clause, therefore, ’ijét-
-qataqat (=‘‘ will not be crushed’) is to
+uses frangere and confringere respectively. In this clause, therefore, ’ijétqataqat (=‘‘ will not be crushed’) is to
 be taken metaphorically = the Latin
 “non erit tribulatio.’” This idea, that
 no evil will befall on the day of the right
@@ -25892,8 +24229,7 @@ No plague will come upon them, ete.
 Cf. Exod. xii. 13.
 
 
-In every respect according to His com-
-mand. Latin seems better: ‘secundum
+In every respect according to His command. Latin seems better: ‘secundum
 universa praecepta ejus.”
 
 16. Before the sanctuary of the Lord.
@@ -25942,8 +24278,7 @@ and that they bring an oblation every day during those
 seven days of joy before the Lord on the altar of your God.
 
 
-years according to some rabbis, and no δυνήσῃ) and the Vulg. (non poteris) ren-
-punishment was to be enacted for them. der in the same faulty manner $>n xb.
+years according to some rabbis, and no δυνήσῃ) and the Vulg. (non poteris) renpunishment was to be enacted for them. der in the same faulty manner $)n xb.
 20.~Eat its flesh... in the court In any place. Eth. prefixes ‘ and,”
 of the house, etc. This direction can which I have omitted with the Latin.
 be justified by an appeal to Deut. xvi. Will not go astray from the Lord.
@@ -25962,16 +24297,10 @@ phrase denotes moral inability. The text Hence it probably represents the Greek
 is based on Deut. xvi. 5, wherethe LXX(ov article.
 
 
-17
-
-
 2410 Α.Μ.
 
 
 2450 A.M.
-
-
-258 THE BOOK OF JUBILEES
 
 
 23. For ye celebrated this festival with haste when ye
@@ -26034,7 +24363,6 @@ A gradual transformation: cf. i. 29
 note ; xxiii. 26-28 note.
 
 A Satan or any evil one. See note on
-xxiii. 29,
 
 
 CHAPTERS XLIX. 23-L. ὃ 259
@@ -26085,12 +24413,9 @@ the Sabbath 271 to 278 days later by
 child-bearing. Against this ascetic
 attitude towards marriage a reaction set
 in which resulted in the laws of the
-Mishna on this subject. Thus the co-
-habitation of husband and wife is en-
-joined on the Sabbath in Nedar iii. 10,
+Mishna on this subject. Thus the cohabitation of husband and wife is enjoined on the Sabbath in Nedar iii. 10,
 viii. 6, while in Baba kamma 82a it is
-stated that one of the ordinances in-
-stituted by Ezra directed that a man
+stated that one of the ordinances instituted by Ezra directed that a man
 should “eat garlic” (i.e. cohabit) on
 the eve of the Sabbath. The severer
 usage is followed by the modern
@@ -26142,15 +24467,11 @@ this halacha: οὐκ ἔξεστι δ᾽ ὑμῖν οὔτε
 
 In regard to any buying or selling.
 All the MSS prefix “and.” The true
-text is uncertain and probably trans-
-posed. Buying and selling are prohibited
+text is uncertain and probably transposed. Buying and selling are prohibited
 in Neh. x. 81, xiii. 16, 17.
 
 Whoever draws water. This was
 forbidden by the Karaite Jews (Jost,
-
-
-260 THE BOOK OF JUBILEES
 
 
 for himself on the sixth day, and whoever takes up any
@@ -26188,8 +24509,7 @@ Singer, p. 199 note),
 
 Which he had not prepared on the
 stath day. This clause comes in
-awkwardly. A command against ‘‘eat-
-ing or drinking anything” may have
+awkwardly. A command against ‘‘eating or drinking anything” may have
 originally preceded this clause in our
 text. Cf. ii, 30, note.
 
@@ -26286,9 +24606,7 @@ of the Maccabean wars (1 Mace. ii.
 
 xii, 1; 2 Mace. xv. 1; cf. Joseph.
 Ané. xiii. 12, 4, xviii. 9. 2 for later
-occasions), But on the urgent repre-
-sentations of Mattathias this prohibi-
-tion of warfare, offensive and defensive,
+occasions), But on the urgent representations of Mattathias this prohibition of warfare, offensive and defensive,
 was abandoned, and defensive measures
 were declared legitimate (1 Macc. ii,
 41; Joseph. Ant. xii. 6. 2): but offensive
@@ -26300,2221 +24618,11 @@ This emended law was in force when
 Pompey besieged Jerusalem (Joseph.
 Ant, xiv. 4. 2), but as it only allowed
 of an active resistance against an active
-assault, it did not permit of the de-
-struction of fortified works raised by
-the enemy on the Sabbath, and so ex-
-posed the Jews to defeat (op. cit. xiv.
+assault, it did not permit of the destruction of fortified works raised by
+the enemy on the Sabbath, and so exposed the Jews to defeat (op. cit. xiv.
 4.2). Once during the final war with
 Rome the Jews broke through this
 Sabbatical law, and successfully attacked
 the Romans (Joseph. Bell, Jud. ii.
 19. 2).
-
-
-INDEX I
-
-
-PASSAGES FROM THE SCRIPTURES AND OTHER ANCIENT Books
-Directly CoNNECTED oR CLOSELY PARALLEL WITH THE Text}
-
-
-Exopus JUBILEES
-1, ὃ xliv, 33
-i7 xlvi. 1
-i, 22 xlvii. 2-4
-ii, 2-4 xlvii., 2-4
-ii, 5-9 xlvii. 5-8
-ii. 8 xlvii. 7
-ii. 10 xlvii. 9
-ii, 11-14 xlvii. 10-12
-ii, 15 xlviii
-iv, 24 xlviii, 2
-vi. 20 xlvii. 8
-ix. 11 xlviii. 11
-xii. 6 xlix. 1
-xii. 9 xlix. 18
-xii. 11 xlix. 18
-xii, 11 xlix, 23
-xii, 18 xlix. 15
-xii, 46 xlix. 13
-xiv. 8, 9 xlviii, 12
-xiv. 8 xlviii. 17
-xiv. 19 1. 29
-xvi. 1 1.1
-xix. 5 xvi. 18
-xix. 6 xvi. 18
-xx. 5 xz. 8
-xx. 9,10 1.7
-xxiii, 25 2x. 9
-xxiii, 33 i. 9
-xxiv. 12 il
-xxiv. 15-18 1. 2-4
-xxv. 8 1.17
-xxvii. 21 ii. 88
-xxix. 45 i 17
-xxx. 7 iv. 25
-xxx. 19-21 xxi. 16
-xxx, 34 xvi, 24
-
-
-Exopus
-xxxi. 13
-ΧΧΧΙ.
-xxxi.
-xxxi. 16
-xxxi. 18
-xxxiii. 1, 3
-xxxiv. 21
-xxxiv. 27
-xxxv. 2
-xxxv. 3
-
-
-NUMBERS
-vi. 26
-ix. 13
-xiii. 22
-xv. 32, 88
-xvi. 22
-xviii, 2, 4
-xviii. 26
-xxvi. 59
-xxvii. 16
-xxviii. 9, 10
-xxix. 2, 5
-xxix. 12-40
-xxix. 13
-xxix. 16
-xxxiv. 4
-xxxv. 33
-xxxv. 33
-
-
-LEvITICUS
-ii, 4
-ii. 18
-iii. 7-10
-
-
-JUBILEES
-ii. 17
-ii. 19
-ii, 25
-
-
-JUBILEES
-
-
-xxii. 28
-xlix. 9
-xiii. 12
-1.12
-
-x. 3
-xxxi. 16
-xxxii. 9
-xlvii. 8
-x. ὃ
-111
-vii. 3
-xxxii. 4
-xvi. 22
-xvi. 22
-xxix. 14
-vii. 33
-xxi. 19
-
-
-JUBILEES
-
-
-xxi. 7
-xxi. 11
-xxi. 7
-
-
-Leviticus JUBILEES
-iii. 9, 10 xxi. 8
-vii. 26 xxi. 6
-xii. 2, 6 iii, 8-14
-xvi, 29, 34,
-
-15, 16 xxxiv. 18, 19
-xvii. 13 vii, 80
-xvii. 13 xxi. 17
-xvii. 14 Χχὶ, 18
-xviii. 15 xli. 26
-xix. 28, 24 vii. 36
-xix. 23-25 vii. 1
-xx. 2 xxx, ἢ
-xx, 2-4 xxx. 14, 15
-xx, 12 xli. 26
-xx. 14 xli. 25
-xxi. 7,14 = xxii, 22
-xxi. 9 xx. 4
-xxi. 9 ΧΙ. 17
-xxiii. 40 xvi. 30
-xxiii. 84-36,
-
-39-44 xxxii, 4
-xxv. 8 1.2
-xxvi. 34, etc. 1. 3
-xxvi. 40 1, 22
-DEUTERONOMY JUBILEES
-
-
-1, 4 xxix. 10
-iv. 20 xxii. 9
-iv. 80,29 i. 15
-
-v. 31, 32 = xxiii. 16
-vii. 6 ii, 21
-vii. 6 xvi. 18
-vii. 6 xix. 18
-vii. 13 xx. 9
-vii. 16 i. 9
-
-ix. 26,29 i. 21
-
-
-1 I have not given the passages in Genesis which are reproduced in the text. These are
-indicated generally in the headings to the chapters and in detail in the notes.
-
-
-263
-
-
-\
-
-
-264
-
-DrUTERONOMY JUBILEES
-x. 16 1. 23
-
-x. 17 v. 16
-
-x. 17 xxi. 4
-
-x. 22 xliv. 12-33
-xiv. 2 xvi. 18
-xiv. 22 sq. xxxii. 10
-xvi. 5 xliz, 21
-xvi. 6. xlix. 12
-xlvi. 7 xlix. 20
-xxii. 28 sqq. xx. 4
-
-xxii. 30 xxxiii. 7
-xxv. 9 ΧΙ, 4
-xxvi. 14 ext 17
-xxvi. 18 xvi. 18
-xxvii, 16 xx. 8
-xxvii. 24 ἰν. ὃ
-xxviii. 8 χχ. 9
-xxviii, 185 1.16
-
-
-xxviii. 13,14 xxiii. 16
-
-
-xxix. 28 ii, 27
-
-i. 6
-
-1. 28
-
-i 7
-
-1.18
-
-17
-
-1. 7
-
-i, 22
-
-i, 24
-
-xxii. 17
-
-xxiii. 7
-xxxiv. 9 xxv. 14
-
-JOSHUA JUBILEES
-xxiii. 13 i. 9
-1 Kines JUBILEES
-
-viii. 29, 52 xxii. 29
-viii. 53 ii. 19
-xii. 15 xii. 19
-xxi. 20 vii. 23
-2 CHRONICLES JUBILEES
-vi. 38 i. 23
-xx. 7 xix. 9
-xxiv. 19 1,12
-xxviii. 8 1. 11
-xxix. 21 xvi. 23
-xxxiii, 6 i. 11
-
-
-NEHEMIAH
-i. 6
-ix. 2
-ix. 7
-χ. 31
-xiii. 16, 17
-
-
-PsaLtMs
-iv. 6
-li. 10
-lexx. 13
-Ixxxix. 27
-xe. 10
-xe. 10
-cvi. 28
-evi. 37
-exxxix. 8 sqq.
-
-
-ΙΒΑΙΑΗ
-
-xl. 8
-
-xli. 8
-
-xlvi. 7
-
-lit. 11
-
-lviii. 13
-ἴχν. 15
-Ixv. 17 sqq.
-
-
-JEREMIAH
-
-
-ii. 27
-
-
-vn, 21, 22,
-24, 27
-xvii, 22
-xxvi. 16
-xxix. 18, 148
-xxix. 14
-xxix. 18
-xxxii. 41
-li. 39, 57
-
-
-EZEKIEL
-xx. 12
-
-
-JUBILEES
-xxii. 29
-i, 22
-xxii. 27
-1. 8
-1.8
-
-
-JUBILEES
-xxii. 28
-i. 20
-xxxvii. 20
-ii, 20
-xxiii. 12
-xxiii. 15
-xxii. 17
-xxii. 17
-xxiv. 31, 32
-
-
-JUBILEES
-
-xix. 9
-
-ii, 20
-
-xii. 5
-
-xxii. 16
-
-11, 29
-
-xx. 6
-
-xxiii. 25-30
-
-
-JUBILEES
-xxii. 18
-xxiii, 23
-xxii. 8
-xxiii. 23
-xii. 5
-xii. 5
-xii. 4
-
-
-ii. 29
-
-ii. 30
-xxxill. 13
-1. 16
-
-i. 15
-
-xx. 6
-
-i. 16
-xxiii. 1
-
-
-JUBILEES
-ii. 19
-
-
-THE BOOK OF JUBILEES
-
-
-DANIEL JUBILEES
-ix 18 xxl, 29
-χ. 18, 20,21 xv. 31, 32
-xi. 80 xxiii. 16
-xi. 2 xv. 31, 32
-
-Hosea JUBILEES
-i. 10 i, 25
-iv. 3 xxiii. 18
-
-Amos JUBILEES
-ix. 2-4 xxiv. 31, 32
-
-ZEPHANIAH JUBILEES
-i. 3 xxiii. 18
-
-ZECHARIAH JUBILEES
-viii. 13 1. 16
-
-
-Ersiopic ENocH JUBILEES
-
-
-vi. 1, 2 ν. 1
-vii. 1 (Syn-
-cellus’ Gk.) vii. 21, 22
-vii. 1, 2 ν. 1
-vii. 5 v. 2, vii. 24
-ix. 1, 9 vii. 23
-x. 4,12 x4
-oA. iv, 22
-sii. 1,2 iv. 21
-xii. 3-6 (xiii.1-2,
-xiv. 4-7,xv.
-2 sqq.) vii. 22
-xv. 3-4 vii. 22
-
-
-Xxili.-XXXVi.
-
-(implied by) vii. 211
-liv. 7, 8 ii. 4
-Ix. 12-21 ii, 2
-Isxii.-lxxxii.
-
-
-(implied by) iv. 17
-Ixxiv. 12 vi. 32
-Ixxiv. 13-16
-(implied by) νἱ. 36
-isxe, 1, ἃ
-
-(Ixxxii11) νὶ. 23
-Ixxxiii.-xe.
-
-(implied by) iv. 19
-Ixxxv. 3 iv. 20
-Ixxxix.7,8 νἱ. 26
-
-
-1xxxix.-xe.
-(implied by) xv. 31, 32
-
-
-Wherever there has been a relation of dependence in the preceding
-list of passages, the dependence has been on the side of Jubilees.
-When such a relation exists in the list that follows, Jubilees is to be
-
-
-regarded as the original.
-
-
-1 See note on iv. 17-23 of the Translation.
-
-
-ἙΤΗΉΙΟΡΙΟ ΒΝΟΟΗΙ JuBILErs
-
-
-iii. wan, 12, 13
-
-v. 9 xxiii. 29
-
-ΧΧΧΙΧ, 2 xxxvi. 10
-
-Ixx. 1-3 iv. 23
-
-xci. 4 xxii. 16
-
-xci. 16 i, 29
-
-xciii. 2,5, 10 xvi. 26
-
-xev. 8 xxxii. 18
-
-xevi. 1 xxxii. 18
-
-xeviii. 11] vii. 28, 29
-
-xeix, 7 xii, 2
-
-ci, 2 xii, 4
-
-οἰ. 7, 8, vii. 29, xxii.
-
-22
-
-ciii, 11 1, 16
-
-civ. 6 xxii. 16
-Wispom 2 JUBILEES
-
-
-ii, 18 (v. 5,
-xii. 7, etc.) xxi. iv.
-
-
-xi. 16 iv. 31
-xviii. 5 xlviii, 14
-
-4 Ezra2 JUBILEES
-xiv. 4-6 i. 26 (see note)
-
-
-INDEX I
-
-
-MattHEew
-ix, 11
-zu. 6
-xviii, 10
-xxiii, 34
-
-
-Mark
-ii. 16
-*iii, 22
-
-
-LUKE
-ἔχ! 49
-
-
-JOHN
-*xiv. 26
-
-
-ACTS
-ἄγῃ, 15, 16
-ἄγῃ, 23
-vii. 53
-
-
-Romans
-Ἐν, 15
-
-
-JUBILEES
-xxii. 16
-1. 11
-χχχν. 17
-i, 12
-
-
-JUBILEES
-xxii. 16
-Ae 8
-
-
-JUBILEES
-i. 12
-
-
-JUBILEES
-xxxii, 25
-
-
-JUBILEES
-xlvi. 9
-xlvii. 10-12
-1. 27
-
-
-JUBILEES
-xxxiii. 15, 16
-
-
-265
-1CoRINTHIANS JUBILEES
-x, 20 xxii, 17
-2CoRINTHIANS JUBILEES
-ἦν, 17 v.12
-vi. 18 i, 24
-GALATIANS JUBILEES
-*ii 15 *xxiii. 23
-“iii, 17 xv. 4 sqq.
-ἣν, 12 xv. 27
-
-
-2THESSALONIANS JUBILEES
-
-
-*ii. 8 χ. ὃ
-
-2 PETER JUBILEES
-πῃ, 5 vii. 20-39
-ἴῃ, 8 iv. 80
-*Tii, 13 i, 29
-REVELATION JUBILEES
-*i, 6 xvi, 18
-*iv. 5 ii, 2
-ἔν, 10 xvi. 18
-
-
-1 On the following list of passages from this work, see Introduction, § 19.
-2 See Introduction, § 22.
-* Passages so asterisked are dealt with in the Introduction, § 23.
-
-
-INDEX II
-
-
-NAMES AND SUBJECTS
-
-
-Abel, iv. 1
-Abimelech, xxiv. 18, 17, 26
-Abraham. See Abram
-*Abram, father-in-law of Terah, xi. 14
-Abram, birth of, xi. 15
-late legend of his being cast into a
-fiery furnace, xii. 1-14 note
-observes the sky, xii. 16-17
-called Abraham, xv. 7
-his ten trials, xvii. 17 note
-death of, xxiii. 1
-glorification of, in Jubilees, p. liii
-Abysses, the, ii. 2,16; v. 29
-Ada, wife of Reuben, xxxiv. 20
-Adam, creation of, ii. 14
-brought into Eden forty days after
-his creation, iii. 9
-names the animals, iii, 1-3
-death of, iv. 29
-Life of, pp. xix-xx
-Adam’s Daughters, Book of, pp. xviii-
-xix
-Adam = Admah, xiii. 23
-Adam and Eve, Book of, pp. 28, 34, 88,
-93
-’Adatanésés, vii. 15, 17
-’Adiba’a, wife of Simeon, xxxiv. 20
-*Adéran, xxxviii. 3
-’Adfiram, friend of Esau, xxxvii. 9
-*Addiram—a place, xxxviii. 8, 9
-Adurin, p. xxxi
-’Aférag, viii. 27
-‘Afra, vii, 15
-Africanus, Julius, p. 34
-Ahuzzath, xxiv. 26
-Ai, xiii. 5
-Akrabbim, xxix. 14
-"Amana, viii. 21; ix. 4
-Ammonites, xxix, 10; xxxvii. 6, 10;
-xxxviii. 6
-
-
-Amorites, xiv. 18 ; (destroyed in lifetime
-
-of the author ?) xxix. 9-11
-war of, against Jacob and his sons,
-
-pp. lvi, lxii; xxxiv. 1-9
-
-Amram, father of Moses, xlvi. 10
-
-Amraphel, xiii. 22
-
-Anastasius Sinaita, pp. 18, 23
-
-Aner, xiii. 29
-
-Angelology of Jubilees, pp. lvi sqq.
-
-
-and of the New Testament, p.
-Ixxxvi
-Angels created on the first day, ii. 2
-note
-
-
-created on the second day according
-to later tradition, ii. 2-3 note
-
-of the presence, i. 27, 29 note; ii.
-1, 2 note, 18; xv. 27; xxxi. 14
-
-of sanctification, ii. 2,18; xv. 27;
-xxxi, 14
-
-over natural phenomena — winds,
-clouds, fire, etc., ii. 2
-
-two chief orders of, created circum-
-cised, xv. 27 note
-
-descend in days of Jared to instruct
-mankind, iv. 15 note
-
-marry the daughters of men, v. 1 note ;
-vii. 21; a myth rejected by later
-Jewish and Christian tradition, pp.
-33-35, 43 notes
-
-their punishment and that of their
-children, v. 6-11; vii. 25
-
-guardians of individuals, p. lxxxvi ;
-xxxv. 17
-
-Antiochus Epiphanes, pp. 1x, 1xi, Ixiii
-Apocalypse of the last things, xxiii. 11-
-
-31
-
-
-Apocalyptic tradition written down by
-Moses, i. 26 note
-
-’Ara (corrupt for Ur, xi. 7), city of, xi. 3
-
-Arabs, xx. 13
-
-
-267
-
-
-268
-
-
-Aram, son of Shem, vii. 18 ; ix. 5
-land of, xxxvii. 6, 9
-
-Ararat, v. 28; viii, 21; ix. 5; x. 15
-
-Ard, xliv. 25
-
-Areli, xliv. 20
-
-*Arésa, corrupt for Hazor, xxxiv. 4, 7
-
-Arioch, xiii, 22
-
-Ark, building of the, v. 21-22
-
-Arodi, xliv. 20
-
-Arpachshad, vii. 18 ; viii. 1
-
-Asenath, xxxiv. 20; xl. 10; xliv. 24
-
-Ashbel, xliv. 25
-
-Asher, xxviii. 21
-
-Ashtaroth, xxix. 10
-
-Asshur, son of Shem, vii. 18; ix. 3, 6
-land of (= Assyria), viii, 21; ix. 3, 5
-
-’Asfidi, xliv. 28
-
-Atonement, Day of, p. xlii; v. 17-18;
-
-. xxxiv. 18-19
-
-"Awan, wife of Cain, iv. 1, 9
-
-’Azridl, wife of Methuselah, iv. 27
-
-’Azara, wife of Seth, iv. 8, 11
-wife of Eber, viii. 7
-
-
-Babel, tower of, x. 19-26
-
-Babél, viii. 21
-
-Babylon, xx. 12
-
-Bacon, pp. xxv, 56-57
-
-Baldensperger, p. xxv
-
-Baraka, wife of Jared, iv. 16
-
-Baraki’él, brother of Kenan, iv. 15
-
-Baraki’il, brother of Methuselah, iv. 28
-
-Barhebraeus, pp. Ixxxiii, 88, 94
-
-Barth, pp. 19, 25
-
-Bashan, viii. 21
-
-Bealoth, xiii. 10
-
-Becher, xliv. 25
-
-Bédst’él, wife of Judah, xli. 7
-
-Beer, pp. xxiii, 3, 55, 65, 68, 89, 91,
-101, 118, 121, 127, ete.
-
-Beersheba (see Well of the Oath), xvii.
-9; xviii. 17; xxii, 2
-
-Bela, xliv. 25
-
-Beliar, sons of, xv. 33 note
-
-spirit of, i. 20
-
-Benjamin, xxxii. 8, 33
-
-Beon, xxix. 10
-
-Beriah, xliv. 21
-
-Bétast’él, wife of Judah, xxxiv. 20
-
-Béténés, wife of Lamech, iv. 28
-
-Bethel, xiii. 5; xxvii. 19, 26
-
-Béthorén, xxxiv. 4
-
-Bethshan, xxix. 14
-
-Bethuel, xix. 10; xxvii. 10, 12
-
-Bilhah, sister of Zilpah, xxviii. 9
-
-Reuben sins with, xxxiii, 1-9
-
-Blood, eating of, forbidden, vii. 28, 29 ;
-xxi. 6, 18
-
-Bohn, p. xxvi
-
-
-THE BOOK OF JUBILEES
-
-
-Book of Life, xxx. 22; xxxvi. 10
-those who will be destroyed, xxx.
-22
-Bousset, pp. lxii, 146, 201, 215
-Burial of patriarchs in Canaan, xlvi. 9
-
-
-Cain, iv. 1
-death of, iv. 31
-Calendar, p. Ixvi
-Canaan, vii. 10-13 ; ix. 1; xxii, 21
-seizes Palestine, x. 29-34
-Canaanites, xiv. 18; xxx. 25
-Canaanitish wives of Joseph, Judah,
-Simeon, xl. 10; xxxiv. 20
-Caphtorim, xxiv. 30
-Carmi, xliv. 12
-Carpenter, pp. xlvii, lili
-Catena on Pentateuch quoted, p. xviii
-Cedrenus, pp. xvi, xvii, lxxix, 11, 28,
-35, 37, 41, 66, 67, 80, 86-88, 93,
-94, 96, 116, 191, 248, 252
-Ceriani, pp. xv, xxix
-Cettin, p. xxxi
-Chaldees, land of, ix. 4, 5
-Charles, pp. xx, xxi, xxvi, xxviii, xxix
-Chasids, rise of, xxiii. 16
-Chedorlaomer, xiii. 22
-Chrysostom quoted, p. 34
-Circumcision, an everlasting ordinance,
-p.1; xv. 14 note, 25; xx. 3
-observed in the creation of the two
-highest orders of angels, pp. 1, lx ;
-xv. 27
-on the eighth day, xv. 14, 25
-neglected by Israel, xv, 33-34
-Clementine Recognitions, pp. lxxx, 84,
-96
-Covenant with Noah, vi. 17-18
-with Abram, xiv. 20
-Cush, vii. 13; ix. 1
-Creation, the new, i. 29 note; iv. 26
-note ; xxiii. 26-30; 15
-twenty-two works of, ii. 1-16
-Creator of all things, xvii. 3; xxii. 4,
-27; xiv. 5
-
-
-Dan, xiii. 23; xxviii, 18; xliv. 27, 28
-Danél, iv. 20
-Deane, p. xxv
-Deborah, xxxii. 30
-Dédain, waters of, ix. 2
-Demonology of Jubilees, p, lviii
-and of the New Testament, pp. Ixxxvi
-sq.
-Demons, sons of the Watchers, vii. 22
-note ; vii. 27
-tempt Noah’s sons, x. 1-2 notes: x.
-5, 8 note; xii. 20
-
-
-INDEX II
-
-
-one-tenth of the, left subject to Mas-
-téma, x. 9
-nine-tenths to be bound in place of
-temporal punishment, x. 9
-to be punished finally with Satan,
-x. 8
-worshipped, xxii. 17
-Didymus of Alexandria, p. lxxvii
-Dillmann, pp. xx, xxi, xxiii, 118, 198
-Dinah, daughter of Jacob, xxviii. 28 ;
-xxx, 1-3; xxxiv. 15; xliv. 18
-Dinah, wife of Mahalalel, iv. 15
-Diodorus of Antioch, pp. Ixxxi, 85, 96
-Dislocations of text, pp. xlii, 45, 218
-Dittographies, pp. xli-xlii
-Dothan, xxix. 14; xxxiv. 10
-Driver, p. 140
-Drummond, p. xxv
-
-
-Earth divided, viii. 8
-Eating with Gentiles forbidden, xxii. 16
-Eber, viii. 7
-Eden, Garden of. See Garden
-land of, viii. 16, 21
-Edersheim, p. 260
-"Edna, wife of Methuselah, iv. 27
-wife of Terah, xi. 14
-*Edni, wife of Enoch, iv. 20
-Edom, p. lvi; xxiv. 6; xxxvi. 19;
-xxxviii. 8
-kings of, xxxviii. 16-23
-made tributary to Israel, Ὁ. lxii;
-xxxviii. 10-14
-Edrei, xxix. 10
-"Bgla, wife of Dan, xxxiv. 20
-ἘΠῚ, xliv. 25
-fil “Bl, xl. 7
-‘Ela, mountains of, ix. 2
-Elam, son of Shem, vii. 18; ix. 2
-land of, viii. 21; xiii. 22
-"Blew, city of = Heliopolis, xxxiv. 11
-Eliezer, xiv. 2
-*Elj6, vii. 22
-Elon, xliv. 17
-‘Emazara, wife of Noah, iv. 38
-Encyclopaedia Biblica, pp. 167, 176,
-204, 245
-Enoch, son of Cain, iv. 9
-son of Jared, iv. 16-26; xix. 24, 27;
-first to learn writing, iv. 17; the
-scribe of judgment in the Garden
-of Eden, iv. 23-24; x. 17
-son of Reuben, xxxviii. 8; xliv. 12
-Ethiopic Book of, pp. 13, 36, 37, 53,
-62-64, 102, 134, 146, 150, 212,
-213
-Slavonic Book of, pp. 13-15, 25, 37,
-39, 41
-Enos, son of Seth, iv. 11; xix. 24
-
-
-269
-
-
-Ephraim, xliv. 24
-
-Ephrath, xxxii. 34
-
-Ephron, the Hittite, xxxvi. 2
-
-Epiphanius, pp. xv, xvi, xl, lxxvii,
-Ixxviii, 11-16, 18, 32, 33, 47, 59,
-61, 68, 69, 70, 73-74, 75, 77, 84,
-86, 91
-
-Eppstein, pp. xvi, xxv, lxxvi, 11, 53,
-55
-
-
-Er, xli, 1
-Eri, xliv. 20
-*Ermén = Heroonpolis, xlvi. 6
-Esau (see Edom), p. lvi; xv. 30; xix.
-18; xxix. 13
-sells his birthright, xxiv. 2-7
-breaks with Jacob, xxxvii. 20-23
-slain by Jacob, xxxviii, 2
-Eschol, xiii. 29
-Euphrates, ix. 5; xiv. 18
-Eutychius, pp. lxxxii, 28, 35, 83, 89
-Eve created on the 6th day of the
-second week, iii. 5-6
-brought into Eden 80 days after her
-creation, iii. 9
-Exposure of the person condemned, p.
-Ix ; iii. 31; vii. 20
-Ezbon, xliv. 20
-Ezra, Fourth, pp. 1, lxxv, 7, 14
-
-
-Fabricius, pp. xviii, xxii, 121, 171, 194
-Fara (= Africa 2), viii. 27
-Feast of tabernacles instituted by Abra-
-ham, xvi. 20-31
-celebrated by Jacob, xxxii, 4-9
-Feast of weeks celebrated in heaven and
-first revealed to Noah, vi. 17-18
-note; xv. 1 note; xxii. 1-5
-rules as to its observance, vi. 20-22
-commemorates giving of Law on Sinai,
-vi. 17-18 note
-its designation ‘‘ Pentecost’ unknown
-to the author, vi. 17 note
-Feasts on the new moons, vi. 23-29
-Filistin, p. xxxi
-Flood, the, v. 23-32
-Floodgates, the, v. 24
-Fornication, punishment for,
-xxv. 7; xxxix. 6
-Four sacred places, iv. 26
-Frankel, pp. xxiv, 30, 42, 107, 259
-Friend of God, xix. 9; xxx. 20, 21
-Fruit trees, law as to, vii. 86
-
-
-xx. 43
-
-
-Ga’as (=Gaash), xxxiv. 4, 7
-
-Gad, xxviii. 20; xliv. 19, 20
-
-Gadir (=Cadiz), viii. 23, 26 ; ix, 12
-
-Garden of Eden, ii, 7 note; iv. 26;
-viii. 16, 19, 28
-
-Gaster, pp. 200, 208, 204, 214
-
-
-270
-
-
-Gelasius, Decree of, pp. xviii, Lxxviii
-Genesis, the Little, pp. xv-xvi
-
-Gentiles denounced, pp. lv, lvi
-Geoponica, the, quoted, p. 134
-
-Gera, xliv. 25
-
-Gerar, mountains of, xvi. 10; xxiv. 12,
-
-
-Gershon, xliv. 14
-
-Giants, the, vii. 22
-
-Gihon, the, viii. 15, 22
-
-Gilead, xxix. 4, 5, 9
-
-Ginsburg, p. xxiv
-
-Girgashites, the, xiv. 18
-
-Glycas, pp. xvi, Ixxx, 23, 25, 26, 35,
-37, 84, 85, 164
-
-God dwells with man in the Messianic
-times, i. 26 note, 27
-
-the Father of the children of Jacob,
-i, 24, 28 note
-of all, xxii. 10, 273 xxx. 195; xxxi.
-
-13, 32
-
-Gog, land of, viii. 25
-
-Gomer, vii. 19; ix. 8
-
-Gomorrha, xiii. 22; xvi. 5; xx. 6
-
-Goshen, xliv. 9; xlv. 1, 2
-
-Great Sea, the, ix. 6
-
-Guni, xliv. 30
-
-
-Hagar, xiv. 22; xvii. 2; xix. 11
-Haggada, older forms of, in Jubilees,
-pp. Ixiv sq.
-Haggi, xliv. 20
-Halacha, older forms of, in Jubilees, pp.
-Ixv sq.
-Ham, iv. 88 ; vii. 8, 18 ; xxii. 21
-portion of, viii, 22-24
-Hamath, a. 335 xiii, 2
-Hamor, xxx. 2
-Haran, brother of Abram, xii. 10, 14
-land of, xiii. 1; xxvii. ὃ, 19; xxxv.
-10, 12
-Hastings’ Bible Dictionary, pp. 107,
-
-
-Hazor (see ’Arésa), p. lxiii ; xxxiv. 4, 7
-Headlam, p. xxvi
-Heap of Witness, xxix. 8
-Heavenly tables, iii. 10 note
-Hebraisms in Ethiopic text, p. xxxiisq.
-Hebrew, the original language of men
-and animals, iii. 28 note
-forgotten from overthrow of Babel till
-Abram’s time, xii. 25-26 note
-Hebron, xiii. 10, 21; xix. 1; xxxvi. 20
-Heliopolis, xl. 10
-Hellenism, p. 1
-Hermon, xxix. 10
-Hesiod quoted, p. 149
-Heth, children of, xix. 4, 5
-Heézaqf, wife of Issachar, xxxiv. 20
-
-
-THE BOOK OF JUBILEES
-
-
-Hezron, xliv. 12
-
-Hilgenfeld, pp. xxv, Ιχχν
-
-Hippolytus, p. 1xxx
-
-Hivites, xiv. 18
-
-Horites, xxxvii. 10; xxxviii. 8
-
-Huppim, xliv. 25
-
-Hushim, xliv. 28
-
-Hyrcanus, J., pp. lvi, lix, Ixii, lxiv,
-Ixxxviii
-
-
-Idolatry, rise of, xi. 4
-Abram dissuades Terah against, xii.
-1-8 ,
-, forbidden, xx. 7-9; xxi. 3-5
-*Tjaka, xliv. 28
-*Tjasaka, wife of Benjamin, xxxiv. 20
-‘Tjaska, xi. 9
-*1j6na, wife of Asher, xxxiv. 20
-Immortality of the soul, pp. xii, lxxxix;
-xxiii, 31
-Imnah, xliv. 21
-Incest, laws regarding, xxxiii. 10-20;
-ΧΙ, 25-26
-India, viii. 21; ix. 2, 3
-Intercalary days, p. lxviii; vi. 23 note
-Intermarriage with Canaan forbidden,
-pp. liii, Ixi; xx. 4; xxii. 20; xxv.
-1, 5
-δ Ὲ iene ake to Moloch, xxx.
--1
-Isaac, xv. 21; xvi. 13
-sacrifice of, xviii. 1-18
-blesses Levi, xxxi. 4-17
-blesses Judah, xxxi. 18-22
-death of, xxxvi. 18
-glorification of, in Jubilees, p. lili
-Ishbak, xix. 12
-Ishmael, xiv. 24; xv. 18, 20, 28, 30;
-aval 2, 4; χχ. 1, 11
-Ishmaelites, xx. 13
-Ishvah, xliv. 21
-Ishvi, xliv. 21
-Isidore of Pelusium, p, 1xxxi
-of Seville, pp. Ixxxi, 18
-Israel, apostasy of, i. 5-9; xv. 88-34;
-xxiii. 14, 17-19
-captivity of, i. 10
-God’s inheritance, xxii. 9, 10, 15
-God’s portion, xv. 31 note ; xvi. 18
-note
-to be separate from the Gentiles, p. lv
-glorification of, pp. liv sq.
-Issachar, xxviii, 22
-‘Ly, xliv. 30
-
-
-Jabbok, xxix. 18, 14
-Jachin, xliv. 18
-Jacob, birth of, xix. 13
-twenty-second from Adam, ii. 23 note
-
-
-INDEX II
-
-
-called Israel, xxxii, 17
-twelve sons of, xxxiii. 22
-sees the future on the heavenly tables,
-xxxii. 21-26
-gives his books to Levi, xlv. 16
-dies, xlv. 14
-glorification of, in Jubilees, pp. liii,
-liv
-Jahleel, xliv. 17
-Jahziel, xliv, 30
-Jalkut Shimeoni, pp. xliii, 200, 201,
-208, 214, 217, 220, 221
-Jamin, xliv. 13
-Jannaeus, A., p. lix
-Japheth, iv. 33; vii. 9,12, 15; ix. 7
-portion of, viii, 25-29
-Jared, iv. 15
-Jashar, Book of, pp. xliv, lxxvi, 32,
-33, 40, 48, 67, 89, 126, 171, 179,
-196, 197, 201-204, 206, 214
-Jastib, xliv. 16
-Javan, vii. 19; ix. 10
-Jebusites, xiv. 18
-Jellinek, pp. xx, xxiii, xliv, 201, 202,
-214, 215, 217
-Jemuel, xliv. 13
-
-
-Jerahmeel, Chronicles of (translated by
-
-
-Gaster), pp. lxxv, Ixxvi, 12, 28,
-82, 36, 69, 70, 78, 77, 82, 89,
-200, 201, 202, 203, 204, 214, 215,
-220, 246
-Jerome, pp. xvi, 15, 34, 52, 83, 88, 91,
-93, 126, 174
-Jerusalem, i. 28, 29
-Jezer, xliv. 30
-Jochebed, xlvii. 8
-Joel, Greek chronographer, pp. 1xxxii.
-37, 67
-Jokshan, xix. 12
-Jordan, the, xxix. 14
-Joseph, xxviii. 24
-carried down into Egypt, xxxiv. 11-21
-dies, xlvi. 3
-Josephus, pp, xxxix, lix, 8, 26, 27, 44,
-65, 66, 69, 106, 113, 187, 191, 195,
-211, 245, 246, 249, 255, 257, 259,
-261
-Jubilee period =49 years, pp. xv, xvii
-=50 years, pp. xv, Ixviii
-laws regarding, 1. 1-5
-Jubilees, Book of, its various titles—
-Jubilees, or the Book of Jubilees,
-p. xv; Little Genesis, pp. xv, xvi;
-Apocalypse of Moses, p. xvii ; Tes-
-tament of Moses, pp. xvii-xviii; Book
-of Adam’s Daughters, pp. xviii-xix;
-Life of Adam, pp. xix, xx
-written originally in Hebrew, pp.
-XXxi-xxxiii
-
-
-271
-
-
-textual affinities of, p. xxxiii sqq.
-
-versions of, pp. xxvi-xxix
-
-Greek version of, pp. xxvi, xxvii
-
-Ethiopic version of, pp. xxvii, xxvii
-
-Latin version of, pp. xxviii, xxix
-
-Syriac version of, p. xxx
-
-Ethiopic and Latin, from the Greek,
-pp. Xxx, xxxi
-
-Ethiopic MSS of, p. xx ; editions of,
-pp. xx, xxi; translations of, pp.
-xxi, xxii
-
-poetical element in, pp. xlii sq.
-
-from one'‘author but based on earlier
-books and traditions, pp. xliv sqq.
-
-a product of the Midrashic tendency,
-pp. xlvii sqq.
-
-an esoteric tradition according to its
-author, pp. 1, li
-
-written by Moses at the dictation of
-an angel according to its author,
-i, 26 note ; xxiii. 32
-
-omissions in, of narratives in Genesis,
-pp. xlviii sqq.
-
-alterations in, of such narratives, pp.
-xlix, liv
-
-explanations in, pp. liii, liv notes
-
-object of,—the defence of Judaism,
-pp. li sqq.; and exposition of pre-
-Mosaic elements of the law, pp. li
-
-
-sqq.
-glorifies the patriarchs and Israel,
-pp. lili sqq.
-date of, pp. lviii-lxvi
-makes use of Eth. Enoch vi.-xxxvi.,
-lxxii.-xe., pp. Lxviii sq.
-makes use of Book of Noah, pp. 1xxi
-sq.
-made use of by Eth. Enoch xci.-civ.,
-pp. lxix sqq.
-made use of by Eth. Enoch i.-v. (2),
-p. Ixxi
-made use of by Wisdom, pp. lxxiv sq.
-made use of by 4 Ezra, Ὁ. Ixxv
-relation of, to Test. XII. Patriarchs,
-p. ixxii
-author of, a Pharisee and a Priest (?),
-p. Ixxiii
-author of, an upholder of the Mac-
-cabean dynasty, p. lxxiii
-in Jewish literature, pp. lxxiv sqq.
-in Christian non-canonical literature,
-pp. lxxvii-lxxxiii
-influence of, on the New Testament,
-pp. Ixxxiii-Ixxxvi
-Judah, tribe of, carried into captivity,
-1,18
-restored from the captivity, i. 15-16
-Judah born, xxviii. 15
-Judas Maccabaeus, pp. Ixiii, Ixxxvii
-
-
-272
-
-
-Judgment, final, of the fallen angels and
-their sons, v. 10, 11
-of mankind (ἢ) and Satan precedes the
-Messianic kingdom, xxiii. 11
-at close of Messianic kingdom, pp.
-lxxxvii sq. ; xxxiii, 30 note
-Judith quoted, pp. 179, 205
-Justin Martyr quoted, pp. 33, 41, 50,
-101, 109
-
-
-Kabér, brother of Reu, xi. 7
-Kabratan, xxxii. 82
-Kadesh, xvi. 10
-Kadmonites, xiv. 18
-Kafttr, viii. 21
-Kainam, viii. 1-4
-Kamatiri, ix. 13
-Ka&r4s6 (=Chersonese or Rhinocorura),
-viii. 13
-Karnaim, xxix. 10
-Kenan, iv. 13
-Kenites, xiv. 18
-Kenizzites, xiv. 18
-Késéd, brother of Arpachshad, viii. 6
-grandfather of ’Ora, the wife of Reu,
-xi. 1
-Keturah, xix. 11; xx. 1, 11, 12
-Kirjath Arba, xix. 1
-Kittim = Macedonians, pp. lxiii; xxiv.
-28, 29
-= Hittites (ἢ), xxxvii. 10
-Kohath, xliv. 14
-Kriiger, p. xxiv
-
-
-Laban, xix. 10; xxvii. 8,10; xxviii. 1
-Lacunae, pp. xxxix sqq.; ii. 225 iii.
-23; vii. 87; xiii. 25
-Lambros’ Catalogue of Greek MSS on
-Mt. Athos, p. xl
-Lamech, iv. 27
-Land to lie fallow every seventh year,
-vii. 37
-Langen, p. xxiv
-Law, the, of everlasting validity, pp.
-xiii, 1, lii sq.
-given through angels, i. 27 note
-transmitted through the patriarchs,
-vii. 38
-Leah, xxviii. 3
-death of, xxxvi. 21
-Lebanon, viii. 21; ix. 4: xii, 15
-Legendary matter in Jubilees, pp. xliv
-
-
-sqq.
-Levi, birth of, xxviii. 14
-ordained to the priesthood for the
-destruction of Shechem, xxx. 17-23
-ordained to the priesthood because
-he was the tenth son, xxxii. 2, 3
-note
-
-
-THE BOOK OF JUBILEES
-
-
-pre-eminence of, over Judah, p. xii ;
-
-xxxi, 14-17
-
-Levitical elements in Enoch, vii. 37, 88 ;
-xxi. 10 notes
-
-Lidzbarski, p. xix
-
-Littmann referred to, pp. xxii, xxvi,
-xxxi; 5, 19, 25, 44, 70, 98, 135,
-169, 210
-
-Lémna, wife of Peleg, x. 18
-
-Lot, xii. 80 ; xiii. 1; xvi. 7
-
-Lfibar, v. 28; vii. 1
-
-Lud, vii. 18; ix. 6, 10, 11
-
-Luz, xxvii. 19, 26
-
-
-Ma’anisakir (corrupt for Shakir of.
-Mahanaim), xxxiv. 4, 7
-Maccabean victories, scenes of, alluded
-to, pp. lvi, lxii, lxiii; xxiii, 21-
-22
-Maccabees, First, referred to, pp. 1xxxviii,
-147, 148, 204
-Second, referred to, p. 42
-Madai, vii. 19; viii. 5; ix. 9
-obtains Media, x. 35-36
-MAa‘édai (= Media), viii. 21
-Magdaladré’éf, xxxiii. 1
-Magog, vii. 19; ix. 8
-Mahalalel, iv. 14, 15; xix. 24
-Mahalath, xxix. 18
-Maka, wife of Gad, xxxiv. 20
-Makamiaron, xlvi. 6
-Malala, John, pp. 34, 37, 41, 66, 67
-Mamre (a person), xiii. 29
-(a place), xiv. 10; xvi. 1
-Manasseh, xliv. 24
-Marriage with sisters ceases in Maha-
-lalel’s time, iv. 15 note
-Mastéma, pp. xxxi, xlix, lviii, Ixxxvi ;
-x, 8 note; xi. 5, 11; xix. 28
-=Satan, x. 8, 11
-prince or chief, xvii. 16; xlviii. 2
-prince of the, xviii. 9, 12; xlviii. 9,
-12, 15
-MA&tik, sea of, viii. 22, 26
-Mé@’at (= Maedis), viii. 12, 27; ix. 8
-Mebri, mountains of, ix. 2
-Medan, xix. 12
-Melchizedek, pp. xlviii, Ixxxviii; xiii.
-25 note
-Mélka, wife of Levi, xxxiv. 20
-wife of Kéinam, viii. 5
-wife of Nahor, xix. 10
-wife of Serug, xi. 7
-Merari, xliv. 14
-Meshech, vii. 19; ix. 12
-Mesopotamia, ix. 5 ; xxvii. 10, 12, 18;
-xxix. 18
-Messiah from Judah, p, Ixxxvii; xxxi.
-18 note
-
-
-INDEX II 273
-
-
-Messianic kingdom, gradual develop-
-ment of the, pp. xiii, Ixxxvii;
-i, 29 note; v. 12; xxiii, 26-30
-notes
-righteous do not rise to share in the,
-xxiii, 30, 31
-woes, xxiii. 9, 11-15, 17-19, 22-25
-Methuselah, iv. 27
-Midian, xix. 12
-Midrash Bereshith rabba, pp. 12, 25,
-33, 41, 49, 61, 89, 94, 96, 109,
-ee 157, 162, 165, 169, 179, 206,
-
-
-is)
-Shem. rabba quoted, pp. 3, 183
-Wajjisau, pp. xliv, 200, 201, 202,
-203
-
-
-Tadshe quoted, pp. xl, Ixxvi, 11, 18,
-24, 171
-Mishna, pp. 20, 46, 53, 106, 109, 135,
-141, 181, 193, 255, 257, 259, 260,
-261
-Misiir, xxix. 10
-Mizraim, vii. 13; ix. 1
-Moab, xxxvii. 6, 10; xxxviii. 6
-Moloch, xxx. 10
-Moon, polemic against calculations by
-the, vi. 36
-Moses born, xlvii. 1
-twenty-one years at court of Pharaoh,
-xlvii. 10
-thirty-six years in Midian, xlviii. 1
-Assumption of, pp. xv, xviii
-Most High, the, p. lxvi; xxxvi. 16 note
-Mount of the Hast, iv. 26
-MS Coislinianus, p. 11
-r in Lagarde’s Genesis, pp. 1xxxiii,
-33, 40, 42, 67
-z in Lagarde’s Genesis, pp. lxxxiii,
-48, 49
-Mit’ak, wife of Shelah, viii. 6
-Mialéléth, wife of Kenan, iv. 14
-Muppim, xliv. 25
-
-
-Naaman, xliv. 25
-Nahor, father of Terah, xi. 8
-son of Terah, xii. 11
-Naphil, vii. 22
-Naphtali, xxviii. 19 ; xliv. 30
-Navel of the earth, viii. 19
-Nebaioth, xvii. 14
-Nébréd, viii. 7
-N@élatamé’fik, vii. 14, 17
-Néstag, xi. 9
-Nicephorus, Catena of, pp. xviii, lxxviii,
-37, 82, 85, 96
-Catalogue of, p. xvii.
-Nicolaus of Damascus, p. 47
-Ni’iman, wife of Zabulon, xxxiv. 20
-Nineveh, ix. 3
-
-
-Noah, iv. 28; xix. 24, 27; xxii. 13
-ordinances of, vii, 20-39
-ancient Book of, pp. Ixxi sq.
-Hebrew Book of, pp. xliv; 47, 61,
-62, 78, 79, 81
-saga of, earlier than that of Enoch,
-p. xxii
-Noam, wife of Enos, iv. 13
-
-
-Ohad, xliv. 13
-
-Onan, xliv. 4, 5
-
-nme pp. 32, 33, 60, 106, 116, 126,
-2
-
-Ord, wife of Reu, xi. 1
-
-Origen, pp. xxx, 108, 194, 227
-
-
-Pallu, xliv. 12
-
-Paran, wilderness of, xvii. 12; xx. 12
-
-Paronomasiae, p. xxxiii; iv. 9, 15,
-ee vill. 5, 8; x, 18, 26; xi. 6,
-1
-
-
-Passover, the laws regulating the observ-
-ance of the, p. 49
-
-Peleg, viii. 8; x. 18
-
-Pentateuch, the book of the first Law
-written by an angel, p. 1; i. 27;
-vi. 22; xxx. 12, 21
-
-Pentecost, p. xvi; vi. 17 note
-
-Perez, xli, 213; xliv. 15
-
-Perizzites, xiv. 18; xxx. 25
-
-Phakorites, xiv. 18
-
-Pharaoh, contemporary of Abram xiii.
-13
-
-contemporary of Joseph, xl. 1, 3,
-5, ete.
-contemporary of Moses, xlvii. 2
-
-Pharnak, ix. 2
-
-Phicol, xxiv, 26
-
-Philip, Acts of, p. 80
-
-Philistia, xxxvii. 6, 10
-
-Philistines, pp. lvi, lxiii; xxiv. 14, 15,
-ete,
-
-Philo quoted, pp. 8, 11, 28, 44, 106,
-179
-
-Philo, Pseudo-, Antiguitatum bibl.
-Liber, pp. 32, 205
-
-Phia, xliv. 16
-
-Pithom, xlvi. 14
-
-Plagues, the ten, xlviii. 5-11
-
-Plant, the, of uprightness, i. 16; xvi.
-26 note ; xxi. 24; xxxvi. 6
-
-Plough, the invention of the, xi. 23-24
-
-Poetical element in Jubilees, pp. xlii
-
-
-sqq. :
-Potiphar, chief of the cooks, xxxiv. 11 ;
-xxxix. 2
-Priest of the Most High God, p. lix ;
-xe, 1
-
-
-18
-
-
-274
-
-
-Purification, laws of, iii. 10-12
-Put, vii. 18; ix. 1
-
-
-Qafratéf, xxxiv. 15
-Qélt (=Celts) viii. 26
-
-
-Raamses, xlv. 6; xlvi. 14
-
-Rachel, xxviii. 1, 9; xxxii. 34
-
-Rafa (=Rhipaean Mountains), viii. 12,
-16
-
-
-Raké’él, brother of Lamech, iv. 33
-
-Rast’éja, wife of Arpachshad, viii. 1
-
-Rasdjal, iv. 16
-
-Rast’, wife of Naphtali, xxxiv. 20
-
-Ravens put to flight by Abram, xi. 18-
-22
-
-
-Rebecca, xix. 10, 18, 16; xxxv. 27
-
-Red Sea, the, viii. 21; ix. 2, 4
-
-Rephaim, the, xiv. 18; xxix. 9
-
-Resurrection, no, of the body, xxiii.
-30
-
-Retaliation, law of literal, iv. 31 note ;
-xviii. 14 note
-
-Reu, x. 18
-
-Reuben, xxviii. 11
-
-sin of, with Bilhah, xxxiii. 1-9
-
-Ro6bél (corrupt for Arbael), xxxiv. 8
-
-Ronsch, pp xvii, xix, xxiv, xxviii,
-xxxi, Ixxvii, 33, 39, 80, 83, 96,
-121, 170, 171, 177, 192, 195
-
-Rosh, xliv. 25
-
-Rubin, p. xxiv
-
-Rufinus quoted, p. 12
-
-Ryle, p. xxxix
-
-
-Sabbath, the, to be kept by the highest
-angels and Israel, p. 1; ii. 17-21
-notes ; ii. 31 note
-
-not for the inferior angels, nor for
-the Gentiles, ii. 2 note; ii. 31 note
-first celebrated by Jacob, ii. 23 note;
-ii. 31 note
-laws for the observance of the, pp.
-lx, lxi; ii, 25-30; 1. 6-13
-various interpretations of the term,
-in relation to the feast of weeks,
-xv. 1 note
-Sack, p. xxv
-Sacrifices to the dead, xxii, 17
-to demons, i. 11 note; xxii. 17 note
-
-Sallam, xliv. 30
-
-Salémén, xliv. 28
-
-Salt Sea, xiii. 22
-
-Salt to be used in sacrifices, xxi. 11
-
-Samaritan Chronicle, pp. lxxvi sq., 40,
-47, 58
-
-Simin, xliv. 28
-
-Sanir (= Biblical Senir), viii. 21; ix. 4
-
-
-THE BOOK OF JUBILEES
-
-
-Sarai, xii. 9
-called Sarah, xv. 15
-death of, xix. 2, 7
-Satan, x. 11
-to be punished finally, x. 8
-confined at different periods, xxiii. 29;
-xl. 9; xlvii2; 15
-Sayce, p. 48
-Schatzhohle, die, pp. 28, 29, 34
-Schodde, p. xxi
-Schiirer, pp. xxv, lxxx, Ixxxviii, 147,
-259
-Sédéqétélébab, vii. 16, 17
-Seder Olam rabba, p. 103
-Seir, xxix. 13, 18
-Séllasar, xiii. 22
-Sél6 (=Shiloh), xxxiv. 4, 7
-Séphantiphans, xl. 10
-Séragin (=Sartan), xxxiv. 4, 7
-Serah, xliv. 21
-Sered, xliv. 17
-Séréh, xi. 1, 6
-Serug, xi. 6
-Seth, iv. 17; xix. 24
-saga, pp. xxii, 33-36
-later glorification of, in Jewish and
-Christian writings, pp. 34, 35 notes
-Severus of Antioch, pp. xv, lxxviii
-Shaul, xliv. 13
-Shechem, city of, xiii. i
-destroyed by Levi and Simeon, xxx.
-4-6
-taken from the Amorites by Jacob
-and his sons, xxxiv. 2-8 note
-Shechem, son of Hamor, xxx. 2
-Shelah, son of Arpachshad, viii. 5, 6
-son of Judah, xli. 6, 7
-Shem, iv. 33; vii. 9, 11, 12,16; xix.
-24, 27
-lot of, viii. 12-21
-Sheol, a place of punishment but not of
-fire, vii. 29; xxii, 22; xxiv. 31
-Shimron, xliv. 16
-Shinar, land of, ix. 3; x. 18, 19, 20;
-xiii. 22
-Shua, xix. 12
-Shuni, xliv. 20
-Shur, xvi. 10
-Siddim, xiii. 22
-Simeon, xxviii. 18 ; xxx. 4; xxxiv. 20
-21; xliv. 13 ᾿
-Simon Maccabaeus, pp. Ixiii, Lxxxviii
-Sina’ar, father-in-law of Peleg, x. 18
-Sinai, i. 2, 5; viii. 19
-Singer, pp. xxvi, 7, 63, 98, 96, 101,
-109, 113, 117, 134, 144, 165, 166,
-169, 181, 227
-Sinker, p. xxiv ᾿
-Sirach quoted, p. 117
-
-
-INDEX II 275
-
-
-Six days of creation, ii. 1-14
-
-Séderblom quoted, p. 9
-
-Sodom, xiii. 17, 22; xvi. 5; xx. 5,6;
-xxii. 22
-
-Son of God, the individual Israelite a,
-i. 24 note ; i. 25, 28; xix. 29
-
-Spirit, a holy, i. 21, 23
-
-of righteousness (or truth), xxv. 14
-
-note
-
-Suidas, pp. lxxxii, 91
-
-Sun, the, to regulate the year, ii, 9 note ;
-vi. 36-38 notes
-
-Syncellus, pp. xvi, xvii, xix, Lxxviii,
-Ixxix, 11, 14, 18, 21, 28, 26,
-28, 29, 30, 31, 32, 34, 35, 41, 59,
-62, 66, 68, 69, 71, 73, 74, 78, 85,
-89, 93, 95, 157, 164, 171, 186, 191,
-192, 208
-
-Syriac Fragment, the, pp. 30, 60, 61,
-66, 67, 86, 87, 206
-
-
-Tables, two, of stone, i. 1
-
-Talroud, pp. lix, lxi, Ixxxviii, 3, 12,
-23, 27, 28, 32, 42, 61, 89, 96, 101,
-102, 118, 120, 121, 128, 144, 181,
-191, 195, 197, 206, 220, 228, 252,
-256, 258, 259, 260, 261
-
-Tamar, xli. 1, 6, 8, 16, 19
-
-Tamnatarés (= Timnath-heres), xxxiv. 8
-
-Tanais (=Zoan), xiii. 12
-
-Tapha, xxxiv. 4
-
-Targum, Ps, Jonathan, pp. 2, 22, 26,
-82, 33, 103, 116, 201
-
-Taylor quoted, p. 7, 125
-
-Temple, the second, i. 17
-
-Terah, xi. 10
-
-Tergal, xiii. 22
-
-Tertullian quoted, p. 101
-
-Testaments of XII. Patriarchs, pp. xliv,
-xlv, 8, 9, 24, 182, 134, 170, 171,
-179, 182, 183, 184, 185, 186, 187,
-188, 191, 192, 197, 198, 201, 202,
-208, 206, 213, 214, 216, 220, 221,
-228, 229, 230, 231, 245, 246
-
-Tharmuth, xlvii. 5
-
-Third month, i. 1 note
-
-Thomson, p. xxv
-
-Thousand years=one day, iv. 30 note
-
-years of life for the righteous, xxiii.
-
-27 (iv. 30; xxiii, 15)
-
-Tigris, ix, 2, 5
-
-
-THE
-
-
-Timnah, xli. 8, 9
-
-Tina (=Tanais= Don), viii. 12, 16, 25,
-28; ix. 2, 8
-
-Tiras, vii. 19; ix. 13
-
-Tithes, xiii. 25, 26 ; xxxii. 2, 8,9, 10-15
-
-double, xxxii. 9-11
-
-Tobit quoted, p. 166
-
-Tola, xliv. 16
-
-Tower of Abraham, xxix. 16, 19
-
-Treuenfels, p. xxii,
-
-Tubal, vii. 19; ix. 11
-
-Twenty-two—a significant number, pp.
-xxxix-xl; ii, 23 note
-
-
-Or, father-in-law of Reu, xi. 1
-Ur, city of, xi. 3, 7, 8; xii. 14, 15
-
-
-War forbidden on the Sabbath, 1. 12
-
-Washings obligatory in connection with
-sacrifices, xxi. 16
-
-Watchers, the. See Angels
-
-Well of the Oath (see Beersheba), xvi.
-11, 15; xviii. 17; xxii. 1; xxiv.
-21, 26; xxvii. 19; xxix. 17;
-xliv. 1
-
-Vision, xxiv. 1
-Wine to be drunk at the Passover, xlix.
-
-
-6, 9
-Wisdom, Book of, pp. 126, 252
-makes use of Jubilees, pp. Ixxiv, sq.
-Woods to be used in sacrificing, xxi.
-12-14
-
-
-Year, the=364 days, vi. 29-38 notes
-Years, civil and ecclesiastical, implied
-(2) in Jubilees, p. Ixviii; vi. 29-30
-note
-430, from birth of Isaac to The
-Exodus, xiv. 13 note
-
-
-Zabulon, xxviii. 23
-
-Zeboim, xiii. 23 ; xvi. 5
-
-Zephathite, xliv. 13
-
-Zerah, xli. 21; xliv. 15
-
-Zilpah, sister of Bilhah, xxviii. 3, 9;
-xliv. 19
-
-Zimram, xix. 12
-
-Zion, i. 28, 29; viii. 19
-
-Ziphion, xliv. 20
-
-Zonaras quoted, pp. xvi, Ixxix, 35
-
-
-END
-
-
-Printed by R. & R. Crark, ΓΙΜΙΤΕΡ, Edinburgh.
-
-
-A CRITICAL HISTORY OF THE DOC-
-TRINE OF A FUTURE LIFE IN ISRAEL, IN
-JUDAISM, AND IN CHRISTIANITY; or, Hesrew,
-JEWISH, AND CHRISTIAN ESCHATOLOGY FROM PRE-PROPHETIC
-TIMES TILL THE CLOSE OF THE NEW TESTAMENT CANON
-(tHE JowErt LEcTURES FOR 1898-99).
-
-
-BY THE
-
-
-REv. R. H. CHARLES, M.A.
-
-
-PROFESSOR OF BIBLICAL GREEK, TRINITY COLLEGE, DUBLIN
-
-
-Demy 8vo. Cloth, Price 15s.
-
-
-“If the Jowett Lectures rise always to this height, we shall receive
-a series of volumes which will rival in value any lectureship in exist-
-ence. For this is a thoroughly capable treatment of perhaps the most
-difficult subject in theology.” —Exposttory Times.
-
-
-““We may at the outset congratulate Dr. Charles on the appear-
-ance of this interesting and scholarly work. The theme chosen is
-one of the most difficult and intricate in the whole range of theologi-
-cal science, but the clearness of treatment and lightness of touch which
-characterise the book throughout enable the reader to pass pleasantly
-through the various stages of a long and exhaustive investigation.” —
-The Athenaeum.
-
-
-“Within its own sphere Dr. Charles’s work is valuable and ex-
-haustive, traversing the whole field of scriptural and apocalyptic
-conceptions relative to a future state.”— The Scotsman.
-
-
-“It is a pleasure to come upon the scholarly and really thorough
-work which Professor Charles gives us,”—7he St. James’s Gazette.
-
-
-‘‘ His book is one which no serious student can afford to leave
-unread,” — Zhe Pall Mall Gazette.
-
-
-«.(Α learned and courageous attempt to deal with’ a subject which
-is as important as it is obscure, and therefore deserves the respectful
-consideration of all students of theology.” — The Christian World.
-
-
-A. & C. BLACK, SOHO SQUARE, LONDON.
-
-
-I
-
-
-THE ASCENSION OF ISAIAH
-TEXTS, TRANSLATIONS, AND COMMENTARY
-
-
-BY THE
-
-
-Rev. R. H. CHARLES, M.A.
-
-
-PROFESSOR OF BIBLICAL GREEK, TRINITY COLLEGE, CAMBRIDGE
-
-
-Crown 8vo. Cloth. Price 7s. 6d. net.
-
-
-‘Its most striking features are the introduction, which abounds in
-learning and acute criticism, the Latin translation of the Slavonic
-version, which has hitherto been a sealed book except to a few
-specialists, and the papyrus fragment containing about a sixth of the
-original Greek text.” The Christian World.
-
-
-“ Dr. Charles has laid scholars under an additional obligation by
-this edition of the Ascension of Isaiah." Zhe Scotsman.
-
-
-“By editing this and other Apocrypha, Mr. Charles is doing
-service which cannot be too warmly acknowledged, and by his
-learned and scholarly notes he succeeds in throwing a flood of light
-on the New Testament.”— Zhe British Weekly.
-
-
-“The entire volume is one which will receive the same grateful
-welcome from all readers of apocalyptic literature as has been ex-
-tended to the author’s previous important contributions to this branch
-of scholarship.”— Record.
-
-
-‘‘ Professor Charles is doing much to raise English scholarship in
-the eyes of the world.”—7he Weekly Register.
-
-
-A. & C. BLACK, SOHO SQUARE, LONDON.
-
-
-4
-
-
-THE APOCALYPSE OF BARUCH
-
-
-TRANSLATED FROM THE SYRIAC
-
-
-BY THE
-Rev. Κα. H. CHARLES, M.A.
-
-
-PROFESSOR OF BIBLICAL GREEK, TRINITY COLLEGE, DUBLIN
-
-
-Crown 8vo. Cloth. Price 7s. 6d. net.
-
-
-“Mr. Charles’s last work will have a hearty welcome from
-students of Syriac whose interest is linguistic, and from theological
-students who have learned the value of Jewish and Christian pseud-
-epigraphy ; and the educated general reader will find much of high
-interest in it, regard being had to its date and its theological stand-
-point.”— Record.
-
-
-“Mr. Charles has in this work followed up the admirable editions
-of other pieces of apocalyptic literature with an edition equally admir-
-able. Some of the notes on theological or other points of special
-interest are very full and instructive. The whole work is an honour
-to English scholarship. . . . The work before us is one that no
-future student of apocalyptic literature will be able to neglect, and
-students of the New Testament or the contemporary Jewish thought
-will find much to interest them in it.” —Primztive Methodist Quarterly
-Review,
-
-
-“ As is intimated in the title-page, the Syriac text, based on ten
-MSS., from which the Epistle of Baruch is translated, is included in
-the volume. The learned footnotes which accompany the translation
-throughout will be found most helpful to the reader. Indeed, nothing.
-seems to have been left undone which could make this ancient writ-
-ing intelligible to the student.”—Scotsman.
-
-
-“To say that this is zke edition of the Apocalypse of Baruc' is to
-say nothing. Let us say that it is an edition which alone would give
-an editor a name to live.’Lxfository Times.
-
-
-A. & C. BLACK, SOHO SQUARE, LONDON.
-3
-
-
-'THE ASSUMPTION OF MOSES
-
-
-Translated from the Latin Sixth Century MS., the unemended
-Text of which is published herewith, together with the Text
-in its restored and critically emended form.
-
-
-WITH INTRODUCTION, NOTES, AND INDICES
-
-
-BY THE
-
-
-Rev. R. Η, CHARLES, M.A.
-
-
-PROFESSOR OF BIBLICAL GREEK, TRINITY COLLEGE, DUBLIN
-
-
-Crown 8vo. Cloth. Price 7s. 6d.
-
-
-“(In this admirable little book the Rev. R. H. Charles has added
-another to the excellent series of editions by which he has earned the
-gratitude of all students of early Christian literature.” — Zimes,
-
-
-“‘Nothing has been left undone by the author which could con-
-tribute to the settling of the text, the elucidation of the general pur-
-pose of the book, and the interpretation of particular passages. In
-short, it is worthy to rank with his edition of the ‘Apocalypse of
-Baruch,’ and higher praise than that could hardly be given.” —Prizzz-
-tive Methodist Quarterly Review.
-
-
-“Tf ever man found his vocation in life, it is Mr. Charles. He is
-at home and happy among these unknown apocryphal authors, as
-you or I might be with Isaiah or St. Paul, and he sees to it that the
-edition of their works he publishes is better than any edition that has
-gone before. There have been editions of the Assumption of Moses
-before ; there is no edition that one would dream of buying now but
-this.".— Expository Times.
-
-
-‘“The Rev. R. H. Charles’s edition of ‘The Assumption of Moses’
-adds another to the number of valuable books which he has given to
-students of the non-canonical scriptures of the Jews.”— Scotsman,
-
-
-A. ἃ C. BLACK, SOHO SQUARE, LONDON.
-4
-
-
-ciel ξυμ κα λνακλα κομμδρείς ρει ῤίαιυῳ nila μου αὐρα τ
-
-
-Ra ia bint As ibe au ea AOL Sa aa Litas einer et 5 " sae ibaa AM lh i I mci ah Selita Ctl ie aise a ash
-
-
-oes
-ese!
-
-
-i,
 

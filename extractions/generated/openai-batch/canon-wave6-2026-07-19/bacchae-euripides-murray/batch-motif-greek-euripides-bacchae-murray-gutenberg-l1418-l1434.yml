@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1418-l1434
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: MESSENGER. / PENTHEUS. / MESSENGER. / PENTHEUS.; lines 1418-1434
+  start: '1418'
+  end: '1434'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Tell the whole.”"
+  summary: A messenger tells Pentheus that he has seen the Wild White Women away from
+    Thebes and has come to report their strange deeds. He hesitates, fearing Pentheus’
+    anger. Pentheus orders him to tell everything and says any blame will fall on
+    the one who bewitched and led the women on.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The messenger says he has seen the Wild White Women.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The women are described as moving swiftly away from Thebes, with limbs compared
+    to arrows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The messenger says he has come to tell Pentheus how the women work strange
+    deeds and marvels.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The messenger asks whether he should tell the whole tale or conceal the stranger
+    part.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The messenger says he fears Pentheus’ quick temper and edged wrath.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Pentheus tells the messenger that his tale will not harm him and orders him
+    to tell the whole story.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Pentheus says anger should not be directed at honesty.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Pentheus says that if the news about the women is dark, the one who bewitched
+    and led them on will pay for it.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Messenger
+  description: Speaker who claims to have seen the Wild White Women and who asks how
+    much of his report to tell.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Pentheus
+  description: Addressed as king; he commands the messenger to tell the whole tale
+    and redirects blame toward the one who led the women on.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Wild White Women
+  description: Women seen by the messenger, described as moving swiftly away from
+    Thebes and as working strange deeds and marvels.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Unnamed bewitcher and leader
+  description: An unnamed male figure whom Pentheus says bewitched and led the women
+    on.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: eyewitness reporter
+  assigned_to:
+  - fig:1
+  basis: The speaker says he has seen the women and has come to report their deeds.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: king and commanding hearer
+  assigned_to:
+  - fig:2
+  basis: The messenger addresses him as king, and Pentheus orders the whole tale to
+    be told.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: reported marvel-working group
+  assigned_to:
+  - fig:3
+  basis: The messenger says the women work strange deeds and marvels.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: alleged instigator
+  assigned_to:
+  - fig:4
+  basis: Pentheus identifies an unnamed male as the one who bewitched and led the
+    women on.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Messenger hesitates before reporting marvels
+  summary: The messenger announces that he has seen the Wild White Women away from
+    Thebes and has news of their strange deeds, but he hesitates because he fears
+    Pentheus’ anger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pentheus commands the full report and assigns blame
+  summary: Pentheus assures the messenger that honest reporting will not harm him
+    and says that any dark news will be answered by punishing the one who bewitched
+    and led the women.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: eyewitness report of strange deeds
+  taxonomy_refs: []
+  basis: The messenger frames his speech as an eyewitness report of marvels performed
+    by the Wild White Women.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage announces marvels but does not yet narrate the specific deeds.
+- id: motif:2
+  label: bewitched followers led away
+  taxonomy_refs: []
+  basis: Pentheus characterizes the women as having been bewitched and led on by an
+    unnamed male figure.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is Pentheus’ accusation within the dialogue, not an independently
+    confirmed explanation in this passage.
+- id: motif:3
+  label: departure from the city
+  taxonomy_refs:
+  - departure
+  basis: The women are described as having moved away from Thebes.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage supports physical movement away from Thebes, but it does not
+    develop a full departure motif beyond this brief report.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1418-1423
+  quote_or_summary: "“I have seen the Wild White Women there, O King, / Whose fleet
+    limbs darted arrow-like but now / From Thebes away, and come to tell thee how
+    / They work strange deeds and passing marvel.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1423-1426
+  quote_or_summary: "“Shall I set / My whole tale forth, or veil the stranger part?
+    / Yea, Lord, I fear the swiftness of thy heart, / Thine edgèd wrath and more than
+    royal soul.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1429-1432
+  quote_or_summary: "“Thy tale shall nothing scathe thee.--Tell the whole. / It skills
+    not to be wroth with honesty.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1432-1434
+  quote_or_summary: "“Nay, if thy news of them be dark, 'tis he / Shall pay it, who
+    bewitched and led them on.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal dialogue roles and actions are clear. Motif labels are cautious because
+    the passage mainly introduces a messenger report rather than narrating the marvels
+    themselves. No comparison claims were made because the passage contains no explicit
+    comparative basis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external identifications were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1418-l1434
+  passage_sha256=2119c05df4d91551cbfecd04628553267ae88818c5ed728476700a23e603c92f
+

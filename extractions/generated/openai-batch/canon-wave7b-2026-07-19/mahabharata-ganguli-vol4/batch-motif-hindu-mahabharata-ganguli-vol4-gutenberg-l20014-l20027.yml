@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l20014-l20027
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION CXL / SECTION CXLI / SECTION CXLII / SECTION CXLIII; lines 20014-20027
+  start: '20014'
+  end: '20027'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Uma addresses a holy, three-eyed deity with epithets recalling destructive
+    acts, states a doubt, and asks what acts cause members of the four orders to fall
+    in caste status or be reborn as Sudras, how such degradation may be prevented,
+    and how the other orders may attain Brahmanhood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Uma speaks and addresses a holy, three-eyed deity with multiple epithets.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The deity addressed by Uma is described as having torn off Bhaga's eyes, Pushan's
+    teeth, and as destroyer of Daksha's sacrifice.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Uma says that the Self-born One created the four orders in former days.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Uma asks what acts cause a Vaisya to become a Sudra, a Kshatriya to become
+    a Vaisya, and a Brahmana to become a Kshatriya.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Uma asks how caste degradation may be prevented and what acts cause a Brahmana
+    or Kshatriya to be born or descend to Sudra status.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Uma asks the deity to dispel her doubt and asks how the three other orders
+    can attain Brahmanhood.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Uma
+  description: Speaker who states a great doubt and asks the deity to dispel it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: three-eyed deity addressed by Uma
+  description: Holy one addressed as three-eyed deity, destroyer of Daksha's sacrifice,
+    and lord of all created beings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Self-born One
+  description: Creator of the four orders in former days, according to Uma's statement.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Bhaga
+  description: Named as the one whose eyes were torn off by the deity addressed by
+    Uma.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Pushan
+  description: Named as the one whose teeth were torn off by the deity addressed by
+    Uma.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Daksha
+  description: Named in connection with a sacrifice destroyed by the deity addressed
+    by Uma.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: Uma states that she has a great doubt and asks a series of questions.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: divine addressee and requested doubt-dispeller
+  assigned_to:
+  - fig:2
+  basis: Uma addresses the deity with divine epithets and asks him to dispel her doubt.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: creator of the four orders
+  assigned_to:
+  - fig:3
+  basis: Uma says the Self-born One created the four orders in days of yore.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: figures recalled in divine epithets
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Bhaga, Pushan, and Daksha are named in Uma's address as connected with the
+    deity's prior destructive acts.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: fourfold social order
+  literal_form: the four orders
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Brahmanhood as attained status
+  literal_form: status of Brahmanhood
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Uma questions the deity about caste degradation and attainment of Brahmanhood
+  summary: Uma invokes the deity with epithets, refers to the creation of the four
+    orders, and asks what acts cause caste descent, how that descent may be prevented,
+    and how the other orders may attain Brahmanhood.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine wisdom inquiry
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on Uma presenting a doubt and asking a divine addressee
+    to explain causes, prevention, and attainment concerning caste status.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: Only the question is included; the deity's instruction or answer lies
+    outside this passage.
+- id: motif:2
+  label: moral causation of social or rebirth status
+  taxonomy_refs:
+  - divine_judgment
+  basis: Uma asks through the evil consequence of what acts people of different orders
+    become lower in status or take birth in a lower order.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage speaks of consequences of acts and rebirth, but it does not
+    narrate an explicit judgment scene.
+- id: motif:3
+  label: attainment of higher sacred status
+  taxonomy_refs:
+  - ascent
+  basis: Uma asks how the three other orders can attain the status of Brahmanhood.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The ascent is social or spiritual status change, not a physical ascent;
+    the method is not given in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: SECTION CXLIII, lines 20014-20016
+  quote_or_summary: Uma addresses a holy, three-eyed deity as one who tore off Bhaga's
+    eyes and Pushan's teeth and destroyed Daksha's sacrifice.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: quote
+  locator: SECTION CXLIII, lines 20016-20018
+  quote_or_summary: '"In days of yore, the Self-born One created the four orders."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: SECTION CXLIII, lines 20018-20021
+  quote_or_summary: Uma asks what acts cause a Vaisya to become a Sudra, a Kshatriya
+    to become a Vaisya, and a Brahmana to become a Kshatriya.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: SECTION CXLIII, lines 20021-20025
+  quote_or_summary: Uma asks how caste degradation can be prevented and what acts
+    cause a Brahmana or Kshatriya to descend to Sudra status, including in the next
+    life.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: quote
+  locator: SECTION CXLIII, lines 20025-20027
+  quote_or_summary: '"dispel this doubt of mine. How, again, can the three other orders
+    naturally succeed in attaining to the status of Brahmanhood?"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the excerpt contains questions rather than the explanatory answer. No comparison
+    claims were made because the passage itself does not compare traditions or motif
+    families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l20014-l20027
+  passage_sha256=3294f33d2cf50ed267f8a46e64db95ebf30f32ace4bd01c8a1e385a48468dcce
+

@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l9122-l9158
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: SYSTEM OF DEALING WITH INDIANS / SYSTEM OF DEALING WITH INDIANS / SYSTEM
+    OF DEALING WITH INDIANS / SYSTEM OF DEALING WITH INDIANS; lines 9122-9158
+  start: '9122'
+  end: '9158'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator suspects a claim about nearby Kisapang enemies after scouts
+    use ammunition, find no enemy signs, and bring back deer. He summons the men,
+    finds the returned ammunition short, connects the missing shots with the deer
+    killed, and demands the deer hides as compensation. The men become angry but accept
+    that their stratagem has failed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrator finds it strange that people who often wander in search of game
+    and recent northern visitors had detected no signs or news of hostile Kisapang
+    movement.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A scouting party is sent out, and shots are fired as a warning that the village
+    is well armed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: On a later outing the party returns at night with three large thlenach, identified
+    parenthetically as deer, and reports seeing no signs of the Kisapang.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator recommends another search, but the men say they are satisfied
+    that their enemies have gone.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator summons the men to his hut and orders them to return the remaining
+    powder and shot.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The men return powder and shot, but the narrator states that the amount is
+    short of what it should be.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator tells the men that they also call the Kisapang thlenach.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The narrator says he counted the shots fired and observed the deer brought
+    in, then demands the deer hides as compensation for the missing ammunition.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The men are angry and disappointed at first, but then recognize that their
+    stratagem has failed and admit the justice of the narrator’s claim.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: The first-person speaker who suspects the situation, summons the men,
+    checks the ammunition, and demands compensation.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Local men described by the narrator
+  description: The men who send out scouts, use ammunition, bring in deer, return
+    remaining powder and shot, and acknowledge that their stratagem failed.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Kisapang
+  description: A group described as enemies whose hostile movement in the neighborhood
+    is suspected or alleged but not confirmed in this passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: Ammunition holder and local authority
+  assigned_to:
+  - fig:1
+  basis: The narrator orders the remaining powder and shot returned and assesses the
+    shortage.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: Scouts and hunters
+  assigned_to:
+  - fig:2
+  basis: The men send a scouting party, fire shots, and bring back deer.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Exposer of stratagem and claimant of compensation
+  assigned_to:
+  - fig:1
+  basis: The narrator counts shots, observes the deer, and demands hides to compensate
+    for missing ammunition.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: Alleged hostile enemy
+  assigned_to:
+  - fig:3
+  basis: The Kisapang are referred to as enemies and as the possible hostile group
+    in the neighborhood, though the scouts report no signs of them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:5
+  label: Participants in failed stratagem
+  assigned_to:
+  - fig:2
+  basis: The passage states that the men recognized that their stratagem had failed.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Powder and shot
+  literal_form: Ammunition returned to the narrator, with some missing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: Warning shots
+  literal_form: Shots fired to signal that the village was well armed.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Thlenach deer
+  literal_form: Three large deer brought back by the men after the outing.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: Deer hides as compensation
+  literal_form: Hides of the deer shot, demanded in compensation for missing ammunition.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Suspicion after reported enemy danger
+  summary: The narrator is suspicious because no one has observed signs or news of
+    Kisapang hostile movement despite travel and hunting in the area.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Scouting, warning shots, and deer
+  summary: The men send scouts, fire warning shots, later return with three deer,
+    and say they have seen no Kisapang signs.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Return and shortage of ammunition
+  summary: The narrator calls the men to his hut, receives the remaining powder and
+    shot, and tells them that the amount is short.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Stratagem exposed and hides demanded
+  summary: The narrator links the fired shots to the deer killed, says the Kisapang
+    have another name, thlenach, and demands the deer hides as compensation; the men
+    recognize the failed stratagem.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: False enemy threat as cover for resource use
+  taxonomy_refs: []
+  basis: The passage connects lack of enemy signs, missing ammunition, deer brought
+    in, and the narrator’s conclusion that the men’s stratagem failed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The prior circumstances of the alleged threat are only partly visible
+    in this excerpt, though the passage explicitly mentions a failed stratagem.
+- id: motif:2
+  label: Clever reckoning exposes deception
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator discovers the shortage by counting shots and comparing them
+    with the deer brought in, then uses this reckoning to demand compensation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage is an ethnographic anecdote
+    rather than a mythic wisdom tale and needs human review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9122-9129
+  quote_or_summary: The narrator says the people seemed relieved, but he finds it
+    strange that hunters and recent northern visitors had detected no signs or news
+    of hostile Kisapang movement.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9130-9137
+  quote_or_summary: A scouting party is sent out; shots are fired as warning that
+    the village is armed; the next day the party returns at night with three large
+    thlenach, or deer, and says it saw no signs of the Kisapang.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9138-9143
+  quote_or_summary: The narrator recommends another search because the Kisapang may
+    still be nearby, but the men say they are satisfied that their enemies have gone.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 9144-9149
+  quote_or_summary: The narrator orders the men to return the remaining powder and
+    shot, and then tells them that “the amount was short of what it should be.”
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 9150-9158
+  quote_or_summary: The narrator says the Kisapang are also called thlenach, explains
+    that he counted the shots and observed the deer, demands the deer hides as compensation,
+    and the men recognize that their stratagem has failed.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized with brief reference to wording.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is an ethnographic anecdote and not a mythic narrative. No external
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare this incident with another tradition or motif family beyond the broad candidate pattern.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l9122-l9158
+  passage_sha256=45b403ea9f6cee85d842a6c7bc5b72b97ab053d03f841bb91963c0158a7ac386
+

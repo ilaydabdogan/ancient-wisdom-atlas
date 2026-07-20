@@ -1,4 +1,68 @@
+---
+id: andamanese.aboriginal_inhabitants_andaman.man_archive
+title: On the Aboriginal Inhabitants of the Andaman Islands
+alternate_titles:
+- The Aboriginal Inhabitants of the Andaman Islands
+text_status: complete
+tradition: andamanese
+culture: great_andamanese_aka_bea_ethnography_with_legends
+region: andaman_islands_bay_of_bengal
+source_language: Aka-Bea (South Andamanese) oral traditions mediated through English
+text_language: English
+date_range: living oral traditions; observations 1869-1880 by a resident officer fluent
+  in Aka-Bea; published 1885 (reprinted from Journal of the Anthropological Institute
+  1882-1883)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.b24764413
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1885 Royal Anthropological
+    Institute edition (Wellcome Library scan)
+  translator: Edward Horace Man
+  editor: ''
+  publication_year: 1885
+  publisher: Internet Archive
+  source_url: https://archive.org/details/b24764413
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1885, US public domain. Recording context - Man spent over a decade
+    among the Great Andamanese and spoke Aka-Bea; his accounts of Puluga, the flood,
+    and origin legends are close paraphrase from named informants, the earliest substantial
+    Andamanese mythology on record. Predates and complements Radcliffe-Brown.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- andaman
+- aka_bea
+- puluga
+- isolated_lineage
+- holdout_priority
+motifs:
+- creation
+- flood
+- fire_origin
+- sky_being
+figures: []
+---
+
 # On the Aboriginal Inhabitants of the Andaman Islands
+
 PREFACE.
 
 
@@ -1427,7 +1491,7 @@ is that Angamanain (the name used by Marco Polo) is
 an Arabic (oblique) dual indicating “ The Two Andamans,”
 >iz.. The Great and The Little, while the origin of the name
 (Angaman) may be traced to Ptolemy’s reference to these islands,
-which he describes a.'' those of Good Fortune, Ayadov Bal^iovo t,
+which he describes a.'' those of Good Fortune, Ayadov Bal^iovo<t,
 ■w hence may have sprung the forms Agdaman, Angaman, and
 ultimately Andaman.
 
@@ -9579,7 +9643,7 @@ no doubt that these savages habitually applied poison to their
 arrow-heads f but, in the sense in which I understand his
 
 
-- For an example of this aide a» e “ Communications,” Ac., paragraph 6 (footnote) .
+- For an example of this aide a»<e “ Communications,” Ac., paragraph 6 (footnote) .
 
 •* Vide Journ. Anthrop. Inst., vol. vii, p. 440.
 
@@ -11580,5 +11644,4 @@ jungle homes, where they resume their aboriginal customs and
 habits, thus verifying the old Horatian maxim —
 
 “Naturam expellas furcd tamen usque recurret!'
-
 

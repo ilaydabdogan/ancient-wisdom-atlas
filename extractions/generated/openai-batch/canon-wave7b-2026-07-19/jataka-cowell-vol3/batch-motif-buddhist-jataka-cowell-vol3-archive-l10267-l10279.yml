@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol3-archive-l10267-l10279
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+passage_locator:
+  label: SETA  KETU- J  AT  A  K  A. / NERU-JATAKA. / ASANKA-JATAKA. / MIG  ALOPA-J  ATAK  A
+    '; lines 10267-10279
+  start: '10267'
+  end: '10279'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. III
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The Bodhisatta rejoiced at Siri's words... "Here is the pure seat and bed,
+    proper for you."
+  summary: 'The Bodhisatta offers Siri a pure seat and bed. Siri stays there, then
+    in the morning departs to the Heaven of the Four Great Kings and bathes in lake
+    Anotatta. The bed used by Siri is named Sirisaya, giving the stated origin of
+    the term Sirisayana. The Master then identifies the former-birth figures: the
+    goddess Siri as Uppalavanna and the merchant Suciparivara as himself.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Bodhisatta rejoices at Siri's words and offers her a pure seat and bed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Siri stays there until morning.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the morning Siri departs to the Heaven of the Four Great Kings.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Siri bathes first in lake Anotatta.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The bed used by Siri is called Sirisaya, and the passage gives this as the
+    origin of the name Sirisayana.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Master identifies the goddess Siri as Uppalavanna and the merchant Suciparivara
+    as himself in the former birth.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bodhisatta
+  description: The figure who rejoices at Siri's words and offers her a pure seat
+    and bed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Siri
+  description: A goddess who receives the seat and bed, stays until morning, departs
+    to the Heaven of the Four Great Kings, and bathes in lake Anotatta.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: The Master
+  description: The speaker who identifies the figures of the birth after the lesson.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Uppalavanna
+  description: Identified by the Master with the goddess Siri.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Merchant Suciparivara
+  description: Identified by the Master as himself in the former birth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Host offering a pure seat and bed
+  assigned_to:
+  - fig:1
+  basis: The Bodhisatta offers Siri a pure seat and bed proper for her.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Goddess guest
+  assigned_to:
+  - fig:2
+  basis: The passage calls Siri a goddess and describes her receiving and using the
+    bed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Departing heavenly figure
+  assigned_to:
+  - fig:2
+  basis: Siri leaves in the morning for the Heaven of the Four Great Kings.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Identifier of the birth
+  assigned_to:
+  - fig:3
+  basis: After the lesson, the Master identifies the figures of the birth.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Identified former-birth counterpart
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Master states that the goddess Siri was Uppalavanna and the merchant
+    Suciparivara was himself.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Pure seat and bed
+  literal_form: seat and bed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Sirisaya / Sirisayana
+  literal_form: named bed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Lake Anotatta
+  literal_form: lake
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Heaven of the Four Great Kings
+  literal_form: heavenly destination
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Offering of the pure seat and bed
+  summary: The Bodhisatta responds to Siri by offering her a pure seat and bed suitable
+    for her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Siri's morning departure and bathing
+  summary: Siri stays until morning, then goes to the Heaven of the Four Great Kings
+    and bathes in lake Anotatta.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Naming of the bed
+  summary: The bed used by Siri is called Sirisaya, which the passage presents as
+    the origin of the term Sirisayana.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Identification of the birth
+  summary: After the lesson, the Master identifies the goddess Siri as Uppalavanna
+    and the merchant Suciparivara as himself.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Hospitality to a goddess
+  taxonomy_refs: []
+  basis: The Bodhisatta offers a pure seat and bed to Siri, who is identified as a
+    goddess.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The excerpt preserves the act of hospitality but not the wider narrative
+    context or any explicit reward.
+- id: motif:2
+  label: Divine departure to heaven after earthly stay
+  taxonomy_refs:
+  - departure
+  basis: Siri stays until morning and then departs to the Heaven of the Four Great
+    Kings.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe the route, mode of travel, or ritual meaning
+    of the departure.
+- id: motif:3
+  label: Etiological naming of a sacred or notable bed
+  taxonomy_refs: []
+  basis: The bed used by Siri is named Sirisaya, and the passage states this as the
+    origin of the name Sirisayana.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly matches an etiological naming
+    motif.
+- id: motif:4
+  label: Former-birth identification
+  taxonomy_refs: []
+  basis: The Master identifies present or known figures with figures from the former
+    birth.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a standard Jataka closing device, but the extraction is limited
+    to the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10267-10269
+  quote_or_summary: The Bodhisatta rejoiced at Siri's words and said, "Here is the
+    pure seat and bed, proper for you; sit and lie down there."
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 10269-10271
+  quote_or_summary: Siri stayed there until morning, departed to the Heaven of the
+    Four Great Kings, and bathed first in lake Anotatta.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summarized from passage.
+- id: ev:3
+  type: summary
+  locator: lines 10271-10273
+  quote_or_summary: The bed used by Siri was called Sirisaya; the passage says this
+    is the origin of the name Sirisayana.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summarized from passage.
+- id: ev:4
+  type: quote
+  locator: lines 10275-10277
+  quote_or_summary: 'After the lesson the Master identified the birth: "At that time
+    the goddess Siri was Uppalavanna, the merchant Suciparivara was myself."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and includes OCR distortions in names and wording; extraction
+    uses the clearest recoverable readings from the supplied text and metadata. No
+    comparison claims are made because the excerpt itself does not support a specific
+    external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to provided available refs and only applied where directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol3-archive__l10267-l10279
+  passage_sha256=c7c209172f5f0ec0015305c1cdaf986284de61098c27894d144edfdaec0c8b85
+

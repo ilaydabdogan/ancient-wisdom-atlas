@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l28446-l28452
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: X,  40.  MIXED    CASTES.  411 / X,  48.  MIXED    CASTES.  413 / X,  67.  MIXED    CASTES.  417
+    / X,  79-       OCCUPATIONS  OF  THE  CASTES.        419; lines 28446-28452
+  start: '28446'
+  end: '28452'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"that personage is described as the carpenter of the Pams, and his liberality
+    is highly praised"'
+  summary: A textual note discusses variant readings for a name, argues that Bribu
+    is the correct reading, and supports this by referring to Rig-veda VI, 45, 31,
+    where the personage is described as a carpenter of the Pams and praised for liberality.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The note states that the editor reads, with Gov. and Sayana on Rig-veda VI,
+    45, 31, a form rendered in the passage as Rribu instead of Vridhu and Brhat.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note reports that corrected copies of Medh. have a different reading,
+    while the oldest copy has variant forms in the text and commentary.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note states that Bribu is not doubtful as the correct reading.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The cited hymn describes the personage as the carpenter of the Pams.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The cited hymn highly praises the personage's liberality.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bribu / Rribu
+  description: A personage identified by the note as the correct reading; the cited
+    hymn describes him as the carpenter of the Pams and praises his liberality.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Pams
+  description: A group or people named in the passage as those of whom the personage
+    is carpenter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Gov.
+  description: Cited as an authority with whom the editor reads the name in connection
+    with Rig-veda VI, 45, 31.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Sayana
+  description: Cited as an authority on Rig-veda VI, 45, 31 with whom the editor reads
+    the name.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: correctly identified personage
+  assigned_to:
+  - fig:1
+  basis: The note says it is not doubtful that Bribu is the correct reading.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: carpenter and liberal personage
+  assigned_to:
+  - fig:1
+  basis: The cited hymn describes the personage as carpenter of the Pams and praises
+    his liberality.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: group associated with carpenter
+  assigned_to:
+  - fig:2
+  basis: The personage is described as the carpenter of the Pams.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: cited textual authority
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Gov. and Sayana are cited as authorities for the reading on Rig-veda VI,
+    45, 31.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Textual note identifying Bribu
+  summary: The passage compares variant readings of a name, argues for Bribu as the
+    correct reading, and supports the reading by pointing to a Rig-vedic hymn in which
+    the personage is a carpenter of the Pams and is praised for liberality.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: praised generous artisan
+  taxonomy_refs: []
+  basis: The only motif-like element in the passage is the description of the personage
+    as a carpenter and the praise of his liberality in the cited hymn.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage is primarily a textual-critical note rather than a narrative;
+    no supplied taxonomy motif directly applies.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 28446-28447
+  quote_or_summary: '"I read with Gov. and Saya^a on Rig-veda VI, 45, 31, Rribu instead
+    of Vridhu ... and Bnhat"'
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 28448-28450
+  quote_or_summary: The note says corrected copies of Medh. have one variant reading,
+    while the oldest copy reads another form in the text and another in the commentary.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 28450-28451
+  quote_or_summary: '"It is not doubtful that Bribu is the correct reading."'
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 28451-28452
+  quote_or_summary: '"that personage is described as the carpenter of the Pams, and
+    his liberality is highly praised"'
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The textual-critical content is clear, but the passage fragment contains
+    little narrative or symbolic material. OCR/transliteration irregularities such
+    as Saya^a, Bnhat, and Pams are preserved rather than corrected.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied taxonomy are present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l28446-l28452
+  passage_sha256=fd67fe7f2ab53142e46eb3bc1b9f7d2b3f6dfbee59e85434f4924f68c97897b4
+

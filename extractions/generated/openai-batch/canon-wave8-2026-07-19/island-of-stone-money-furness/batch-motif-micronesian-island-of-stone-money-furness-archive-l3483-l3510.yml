@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l3483-l3510
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: RELIGION / RELIGION / EELIGION / EELIGION; lines 3483-3510
+  start: '3483'
+  end: '3510'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes punishable cutting of trees or coconut palms on another
+    person's land, invisible demons associated with natural phenomena and misfortune,
+    the coming of fire to Uap through the god Derra/lightning, Derra's instruction
+    to an unnamed woman in fire, pottery, and fire-drill use with ritual restrictions
+    on hibiscus wood, and Lusarer's teaching of sacred mats called umbul.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man is said to deserve an unspecified punishment if he has cut down trees
+    or coconut palms on another man's land.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sea, sky, and earth are said to teem with invisible demons accountable
+    for natural phenomena or misfortune.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fire is said to have come to the people of Uap through the god Derra, identified
+    parenthetically with lightning.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Derra came down and struck a large hibiscus tree at Ugutam, a slave village
+    at the northern end of the island.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An unnamed woman begged Derra for fire; he gave her some and showed her how
+    to bake an earthen pot.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the fire died out, Derra taught the woman how to obtain more by means
+    of the fire-drill.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Derra instructed that fire in a new house must always be started by fire-drill.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Derra instructed that only hibiscus wood should be used for the new-house
+    fire and that the wood must be cut with shell knives or shell axes, not iron or
+    steel.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Lusarer is said to have taught the making of sacred mats called umbul.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The sacred mats are described as never used and never unwrapped.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Derra
+  description: A god identified with lightning who brings fire, strikes a hibiscus
+    tree, gives fire to an unnamed woman, and teaches fire-related techniques and
+    restrictions.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Unnamed woman
+  description: A woman whose name is unrecorded; she begs Derra for fire and receives
+    fire and instruction from him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Invisible demons
+  description: Invisible beings said to fill the sea, sky, and earth and to be accountable
+    for natural phenomena or misfortune.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Lusarer
+  description: A figure said to have taught the people how to make sacred mats or
+    umbul in former times.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: People of Uap
+  description: The people to whom fire came through Derra and who were taught sacred
+    mat-making by Lusarer.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: god/lightning figure
+  assigned_to:
+  - fig:1
+  basis: Derra is called a god and identified with lightning.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: giver and teacher of fire techniques
+  assigned_to:
+  - fig:1
+  basis: Derra gives fire, teaches baking an earthen pot, teaches the fire-drill,
+    and gives rules for new-house fire.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: recipient of fire and instruction
+  assigned_to:
+  - fig:2
+  basis: The unnamed woman asks for fire and receives fire and technical instruction
+    from Derra.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: invisible agents of phenomena and misfortune
+  assigned_to:
+  - fig:3
+  basis: The demons are described as invisible and accountable for every natural phenomenon
+    or misfortune.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: teacher of sacred mat-making
+  assigned_to:
+  - fig:4
+  basis: Lusarer is said to have taught how to make the sacred mats or umbul.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: human recipients of cultural knowledge
+  assigned_to:
+  - fig:5
+  basis: Fire comes to the people of Uap through Derra, and Lusarer teaches the making
+    of sacred mats.
+  evidence_refs:
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire given by Derra and later produced by fire-drill.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: hibiscus tree
+  literal_form: A large hibiscus tree struck by Derra; hibiscus wood is required for
+    fire in a new house.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: fire-drill
+  literal_form: A device or method taught by Derra for obtaining fire after the original
+    fire dies out.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: earthen pot
+  literal_form: An earthen pot that Derra shows the woman how to bake.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: shell knives and shell axes
+  literal_form: Shell tools required for cutting hibiscus wood used for new-house
+    fire.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: sacred mats or umbul
+  literal_form: Sacred mats taught by Lusarer, described as never used or unwrapped.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: sea, sky, and earth
+  literal_form: The domains said to teem with invisible demons.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Punishable tree-cutting and invisible demons
+  summary: The passage states that cutting trees or coconut palms on another person's
+    land merits an unspecified punishment and describes invisible demons throughout
+    sea, sky, and earth as agents behind natural phenomena and misfortune.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Derra brings fire to Uap
+  summary: Derra, identified with lightning, comes down and strikes a large hibiscus
+    tree at Ugutam, through which fire comes to the people of Uap.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Woman receives fire and fire-making instruction
+  summary: An unnamed woman begs Derra for fire; Derra gives her fire, shows her how
+    to bake an earthen pot, and later teaches fire-drill use and restrictions for
+    new-house fire using hibiscus wood cut with shell tools.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Lusarer teaches sacred mats
+  summary: Lusarer is said to have taught the making of sacred mats or umbul, which
+    are described as never used or unwrapped.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine bringing of fire and fire-making knowledge
+  taxonomy_refs:
+  - culture_hero
+  basis: A god identified with lightning brings fire to Uap, gives it to a human woman,
+    and teaches how to make more with a fire-drill.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage calls Derra a god but does not explicitly use the term culture
+    hero; the motif label is an analytic classification based on the described actions.
+- id: motif:2
+  label: ritual restrictions for domestic fire
+  taxonomy_refs: []
+  basis: New-house fire must be started by fire-drill, use only hibiscus wood, and
+    the wood must be cut with shell rather than metal tools.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly matches this specific ritual
+    prescription.
+- id: motif:3
+  label: superhuman teacher of sacred craft
+  taxonomy_refs:
+  - culture_hero
+  - wisdom
+  basis: Lusarer teaches the making of sacred mats or umbul, which are treated as
+    sacred and not used or unwrapped.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not identify Lusarer as a god or specify the full social
+    transmission of the mats within the selected line range.
+- id: motif:4
+  label: invisible spirits as causes of phenomena and misfortune
+  taxonomy_refs: []
+  basis: Invisible demons in sea, sky, and earth are described as accountable for
+    natural phenomena and misfortune.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a general religious statement rather than a narrative
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3483-3486
+  quote_or_summary: A man deserves an unspecified punishment if guilty of cutting
+    down trees or coconut palms on another man's land.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 3486-3488
+  quote_or_summary: The sea, sky, and earth are said to teem with invisible demons
+    accountable for every natural phenomenon or misfortune.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 3489-3494
+  quote_or_summary: Fire came to the people of Uap through the god Derra, identified
+    as lightning, who came down and struck a large hibiscus tree at Ugutam, a northern
+    slave village.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 3494-3498
+  quote_or_summary: An unnamed woman begged Derra for fire; he gave her some and showed
+    her how to bake an earthen pot.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 3498-3506
+  quote_or_summary: After the fire died out, Derra taught the woman to obtain more
+    with a fire-drill and prescribed that new-house fire be started this way using
+    hibiscus wood cut only with shell tools, not iron or steel.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: lines 3507-3510
+  quote_or_summary: Lusarer taught how to make the sacred mats or umbul; they are
+    never used or unwrapped, and the selected passage breaks off after saying they
+    pass from father.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif-family mapping is partly
+    interpretive. No external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The selected passage appears to begin after a prior description of an unspecified punishment and ends mid-sentence in the discussion of sacred mats; no content beyond the supplied passage was inferred.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l3483-l3510
+  passage_sha256=45205f964a66e6cc3098751ece368234ae3d9a476a76ab70a39eb06d872bfadb
+

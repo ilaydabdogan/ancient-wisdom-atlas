@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l37687-l37770
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CXXXV / SECTION CXXXVI / SECTION CXXXVII / SECTION CXXXVIII; lines
+    37687-37770
+  start: '37687'
+  end: '37770'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: After the danger has passed, the mouse Palita remains in his hole while
+    the cat Lomasa, from the tree, urges continued friendship and promises gratitude,
+    honor, and safety. Palita replies with an extended discourse on examining friends
+    and foes, the instability of friendship and enmity, the power of self-interest,
+    and the danger of excessive trust, concluding that their temporary affection arose
+    from a cause that no longer exists and that the cat may still seek to make him
+    prey.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Palita the mouse enters and remains within his hole after the immediate danger
+    passes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Lomasa the cat climbs the high tree and later speaks to Palita from its branches.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The hunter, identified as a Chandala, takes up his net and leaves the spot
+    after his hopes are frustrated.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Lomasa addresses Palita with assurances of gratitude, friendship, honor, and
+    safety.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Lomasa offers Palita authority over his body, home, wealth, and counsel.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Palita replies that friends and foes should both be carefully examined.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Palita states that friends may appear as foes and foes may appear as friends.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Palita states that friendship and hostility arise from circumstances, interest,
+    and gain rather than permanent conditions.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:9
+  text: Palita warns against blind trust and excessive confidence, even toward persons
+    deserving trust.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Palita applies the reasoning to Lomasa, saying their affection had a cause
+    that no longer exists and suggesting Lomasa desires to make him prey.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lomasa
+  description: A cat who has escaped danger, climbs the tree, and speaks soothingly
+    to Palita, seeking continued friendship.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Palita
+  description: A mouse who remains in his hole and replies to Lomasa with counsel
+    about friendship, enmity, self-interest, and trust.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: hunter / Chandala
+  description: The hunter sees the events, takes up his net, and returns to his abode
+    after failing in his aim.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: former beneficiary seeking continued alliance
+  assigned_to:
+  - fig:1
+  basis: Lomasa says Palita has given him life and urges him to approach as a friend
+    after the danger.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: cautious counsellor
+  assigned_to:
+  - fig:2
+  basis: Palita offers a reasoned discourse on examining friends and foes and avoiding
+    blind trust.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: predator under suspicion
+  assigned_to:
+  - fig:1
+  basis: Palita identifies Lomasa's possible motive as the desire to make the mouse
+    his prey.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: prey preserving safety
+  assigned_to:
+  - fig:2
+  basis: Palita stays in the hole and refuses to accept Lomasa's assurances without
+    considering self-interest and danger.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: failed trapper
+  assigned_to:
+  - fig:3
+  basis: The hunter's hopes are frustrated; he takes up his net and leaves.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: high tree
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mouse hole
+  literal_form: hole
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hunter's net
+  literal_form: net
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Escape from the hunter's trap
+  summary: The mouse enters his hole, the cat climbs the tree, and the hunter takes
+    up his net and leaves after his plan fails.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cat's appeal for lasting friendship
+  summary: Lomasa praises Palita for saving his life, professes gratitude, and offers
+    honor, safety, and authority if Palita will approach as a friend.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mouse's discourse on interest and trust
+  summary: Palita explains that friendship and enmity change according to circumstance
+    and self-interest, warns against blind confidence, and refuses to ignore the danger
+    posed by Lomasa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom discourse on unstable friendship and enmity
+  taxonomy_refs:
+  - wisdom
+  basis: Palita delivers general counsel that friends and foes must be examined, that
+    friendship and enmity arise from circumstance and gain, and that blind trust is
+    dangerous.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the teaching through dialogue rather than as an abstract
+    treatise; the motif label is based on the explicit didactic content.
+- id: motif:2
+  label: temporary alliance between natural enemies after danger
+  taxonomy_refs: []
+  basis: The cat and mouse have cooperated under peril, but once the hunter departs
+    Palita argues that the cause of affection has ended and suspects Lomasa still
+    wants him as prey.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The earlier formation of the alliance lies outside the supplied excerpt;
+    this record captures only its aftermath and evaluation.
+- id: motif:3
+  label: cautious refusal of a predator's friendly speech
+  taxonomy_refs: []
+  basis: Lomasa uses soothing words and offers safety, but Palita remains in his hole
+    and identifies the cat's possible predatory motive.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage does not show a physical attack in this excerpt; the predatory
+    motive is stated as Palita's reasoning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 37687-37696
+  quote_or_summary: Palita enters his hole; Lomasa climbs the high tree; the hunter
+    sees what has happened, takes up his net, and returns home after his hopes are
+    frustrated.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 37696-37721
+  quote_or_summary: From the branches, Lomasa tells Palita he is grateful, that Palita
+    gave him life, asks him to enjoy friendship, promises honor from himself and his
+    kin, offers him authority over home and wealth, swears safety, and praises his
+    intelligence and policy.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 37721-37735
+  quote_or_summary: "“Friends should be well examined. Foes also should be well studied”;
+    Palita also says friends may assume the guise of foes and foes the guise of friends."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 37735-37758
+  quote_or_summary: Palita says friendship and hostility are created by circumstances,
+    interest, and gain; he warns that blind trust in friends and excessive mistrust
+    of foes without policy endanger life, and that too much confidence cuts the roots
+    of the trusting person.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 37758-37770
+  quote_or_summary: Palita tells Lomasa that the cause of their affection no longer
+    exists, asks what reason for affection remains other than Lomasa's desire to make
+    him prey, and says wise beings understand their own interests.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence and dialogue are clear in the supplied excerpt. Motif labels
+    are conservative and based on explicit didactic themes. No comparison claims were
+    made because the passage does not itself support a specific external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only where directly supported by the available lists.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l37687-l37770
+  passage_sha256=1a1fc72d6736fa00cc4093fc7ca246781ed068cbbbb4231fbd23f7de22147f25
+

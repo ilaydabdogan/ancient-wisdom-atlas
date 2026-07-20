@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l2462-l2504
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE SECOND TABLET / THE SECOND TABLET / THE THIRD TABLET / THE THIRD TABLET;
+    lines 2462-2504
+  start: '2462'
+  end: '2504'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    Then for Marduk, their avenger, did they decree
+    destiny.
+  summary: A plural group is described as drunk from drinking and bodily filled. Later
+    the group shouts aloud, its heart is exalted, and destiny is decreed for Marduk,
+    who is called their avenger. The intervening material is largely Akkadian transliteration,
+    including the name Ti-amat.
+  language: English with Akkadian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A plural group becomes drunk by drinking.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group's bodies are described as filled.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The group shouts aloud.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The group's heart is described as exalted.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The group decrees destiny for Marduk.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Marduk is called the group's avenger.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The transliterated portion contains the name Ti-amat.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed plural group
+  description: The plural actors who become drunk, are bodily filled, shout aloud,
+    have an exalted heart, and decree destiny for Marduk.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Marduk
+  description: Named as the recipient of the destiny decree and called the group's
+    avenger.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ti-amat
+  description: A named figure appearing in the transliterated portion of the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: drunken participants
+  assigned_to:
+  - fig:1
+  basis: The plural group is said to be drunk from drinking and bodily filled.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: destiny decreers
+  assigned_to:
+  - fig:1
+  basis: The plural group shouts and decrees destiny for Marduk.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: avenger
+  assigned_to:
+  - fig:2
+  basis: Marduk is explicitly called the group's avenger.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient of decreed destiny
+  assigned_to:
+  - fig:2
+  basis: Destiny is decreed for Marduk.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named figure in transliteration
+  assigned_to:
+  - fig:3
+  basis: The name Ti-amat appears in a transliterated line without a full English
+    translation in this excerpt.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: intoxicating drink
+  literal_form: drinking/drink
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: exalted heart
+  literal_form: heart
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Drunken fullness
+  summary: The plural group becomes drunk through drinking and is described as bodily
+    filled.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shout and destiny decree
+  summary: The group shouts, its heart is exalted, and it decrees destiny for Marduk,
+    called its avenger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Intoxication before collective acclamation
+  taxonomy_refs: []
+  basis: The group is first described as drunk and filled, and later as shouting aloud
+    with exalted heart.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The English translation in this excerpt is fragmentary around the intervening
+    transliterated material, so the exact ritual or narrative setting is not fully
+    stated here.
+- id: motif:2
+  label: Destiny decree for an avenger
+  taxonomy_refs:
+  - divine_judgment
+  basis: A plural authority decrees destiny for Marduk, who is identified as their
+    avenger.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not give the content of the decree or narrate the wider
+    conflict in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The destiny-decree for Marduk can be compared functionally with a divine-judgment
+    or fate-allocation pattern.
+  claim_level: same_function
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No trial, punishment scene, or full juridical setting is stated in
+    this passage; the comparison rests only on the act of decreeing destiny.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2462-2463
+  quote_or_summary: |-
+    By drinking they were drunken, their bodies were
+    filled.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 2502-2504
+  quote_or_summary: |-
+    They shouted aloud, their heart was exalted,
+    Then for Marduk, their avenger, did they decree
+    destiny.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: '2466'
+  quote_or_summary: a-kam-me Ti-amat-m[a u-bal-lat ka-§u-un]
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt from transliteration used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on the English translated lines and one clearly named
+    transliterated figure. The surrounding transliteration is fragmentary/OCR-affected
+    and not interpreted beyond explicit names.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external parallels or unstated narrative context were used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l2462-l2504
+  passage_sha256=e4eda5680abeeaef8b859b8744d5f11cc0ee8793906856445a7d15f8ee022843
+

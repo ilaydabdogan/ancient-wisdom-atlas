@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l80-l102
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: 'The Island of Stone Money: Uap of the Carolines / CHAPTER I / INTEODUCTORY
+    / THE ISLAND OF STONE MONET; lines 80-102'
+  start: '80'
+  end: '102'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“the little steamboat emerges from an invisible spot, out of the very ocean”"
+  summary: The narrator describes the people of Uap as initially shy toward outsiders
+    but friendly after trust is established. He notes that in 1903 a small German
+    trading-company steamer visited about five times yearly, bringing people from
+    beyond the horizon; to a man of Uap, whose known world is only a day's walk, the
+    steamboat appears to come from an invisible place out of the ocean.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The people described are said to be shy at first, from mistrust or awe, but
+    companionable once acquaintance and confidence are established.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In 1903, one small steamer belonging to a German trading company connected
+    the Caroline Islands with the outside world about five times a year.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The people brought by the steamer from the distant horizon are compared by
+    the narrator to beings from Mars arriving among the narrator's own society.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: For the man of Uap, whose whole world is described as a day's walk, the steamboat
+    appears to emerge from an invisible spot out of the ocean.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: people of Uap
+  description: The island inhabitants described as initially shy toward the white-faced
+    visitor and later good company when trust is established.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: white-faced visitor
+  description: The outsider whose unfamiliar peculiarities are tolerated by the local
+    people after confidence is established.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: people brought by the steamer
+  description: People arriving from the uttermost horizon on the small steamer.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: man of Uap
+  description: A local observer whose whole world is described as only a day's walk
+    in length and breadth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: local observer or host community
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: The passage describes the local people responding to visitors and imagining
+    the steamboat's origin from within their limited geographic horizon.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: outsider visitor
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage refers to a white-faced visitor and to people brought from beyond
+    the horizon by steamer.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: wondrous arrival from afar
+  assigned_to:
+  - fig:3
+  basis: The narrator says the arriving people must seem as wonderful to the natives
+    as beings from Mars would seem to the narrator's audience.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: steamer from beyond the horizon
+  literal_form: small steamer / little steamboat
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: ocean as apparent source of arrival
+  literal_form: ocean
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: invisible horizon-origin
+  literal_form: uttermost horizon / invisible spot
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: First contact with the outsider visitor
+  summary: The local people are described as shy at first toward the outsider but
+    friendly after confidence is established.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Steamer arrival from beyond the known world
+  summary: A small steamer periodically connects the islands with the outside world,
+    bringing people from beyond the horizon; to a local observer it appears to come
+    from an invisible oceanic origin.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: arrival from beyond the visible ocean horizon
+  taxonomy_refs: []
+  basis: The passage centers on a small steamer and its passengers appearing from
+    an invisible spot beyond the local horizon, out of the ocean.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic travel description and narrator's simile, not
+    a recorded indigenous mythic narrative.
+- id: motif:2
+  label: strangers perceived as otherworldly visitors
+  taxonomy_refs: []
+  basis: The narrator explicitly says the people brought by the steamer must seem
+    to the natives as wonderful as beings from Mars would seem to his own society.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The otherworldly comparison is the author's rhetorical analogy; it should
+    not be treated as a Yapese belief without corroborating evidence.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares passengers arriving by steamer from beyond the horizon
+    with hypothetical beings from Mars, presenting both as wondrous visitors from
+    a remote or barely knowable origin.
+  claim_level: same_function
+  target: otherworldly visitor pattern in the narrator's Mars simile
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is explicit but rhetorical and authored by the traveler;
+    it is not evidence of a traditional mythic comparison within Yapese tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 80-87
+  quote_or_summary: The people are described as shy at first through mistrust or awe,
+    but after confidence is established they become good company and tolerate the
+    white-faced visitor's peculiarities.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 88-94
+  quote_or_summary: In 1903, a single small German trading-company steamer linked
+    the Caroline Islands with the outside world about five times per year.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 94-99
+  quote_or_summary: The narrator says the people brought from the uttermost horizon
+    must seem to the natives as wonderful as beings from Mars might seem to the narrator's
+    audience.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 99-102
+  quote_or_summary: "“the little steamboat emerges from an invisible spot, out of
+    the very ocean”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward. Motif and comparison fields are
+    limited because the passage is a travel narrative with an authorial simile rather
+    than a mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No indigenous mythic narrative is recorded in this passage; symbolic and motif fields are restricted to the passage's literal imagery and explicit simile.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l80-l102
+  passage_sha256=c54a5497ec18766ab65bdfbed7b31b00712a5855a2aa3381273597ff83e1e8f4
+

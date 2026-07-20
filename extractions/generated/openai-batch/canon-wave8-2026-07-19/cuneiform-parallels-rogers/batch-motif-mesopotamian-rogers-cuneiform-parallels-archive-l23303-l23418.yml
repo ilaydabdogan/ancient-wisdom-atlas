@@ -1,0 +1,527 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l23303-l23418
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: II. A CERTIFICATE OF ADOPTION1 / IV. THE CODE OF HAMMURAPI / LITERATURE /
+    PROLOGUE1; lines 23303-23418
+  start: '23303'
+  end: '23418'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives agricultural and debt provisions from the Code of Hammurapi.
+    It regulates debt relief after storm or drought, fields pledged as security for
+    loans, repayment in grain or sesame, contract validity after crop failure, royal
+    fixing of repayment value, liability for neglected dikes or canals, and compensation
+    when water damages another field.
+  language: English with transliterated Akkadian
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When a debtor's field is ravaged by Ramman, produce is carried away, or grain
+    fails through lack of water, the debtor does not return grain to the creditor
+    or pay interest for that year, and the tablet is altered.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: A borrower may give a field to a merchant as security and instruct cultivation
+    for grain or sesame; at harvest the field owner receives the produce and gives
+    the merchant grain for the loan, interest, and the cultivator's maintenance.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: If a planted field is given as security, the field owner receives the grain
+    or sesame in the field and returns the loan and interest to the merchant.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: If money is not available for repayment, grain or sesame is given to the merchant
+    at market values fixed by the king.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Failure by the cultivator to secure a crop of grain or sesame does not void
+    the contract.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A man who neglects to strengthen his dike and whose dike breaks so that water
+    carries away a meadow must restore the lost grain.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: If the man cannot restore the grain lost through the dike break, he and his
+    goods are sold for money, and the people whose grain was carried away share the
+    proceeds.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A man who opens a canal or waters and allows water to carry away an adjacent
+    or neighboring field must measure out or pay grain as compensation.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage repeatedly treats fields, grain, sesame, water, money, tablets,
+    dikes, and canals as practical elements in legal obligations.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Debtor or borrower
+  description: A generic man who owes a debt or borrows money from a merchant and
+    may give a field as security.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Creditor
+  description: The party to whom grain return and interest would otherwise be owed
+    in the debt clause.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Merchant
+  description: A lender who receives repayment for the loan, interest, and in one
+    clause the maintenance of the cultivator.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Cultivator
+  description: The person who cultivates a pledged field and may raise grain or sesame
+    in it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Owner of the field
+  description: The field owner receives grain or sesame from the field and returns
+    the loan and interest.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Ramman
+  description: A named figure in the debt clause who ravages a field in a year of
+    agricultural loss.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Man responsible for dike or canal
+  description: A generic man who neglects a dike, opens a canal, or opens waters and
+    thereby causes water damage.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: People of the meadow or neighbor
+  description: Those whose grain or fields are carried away by water and who receive
+    compensation or share proceeds.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: King
+  description: The authority whose fixed market values determine repayment in grain
+    or sesame when money is not available.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: debtor or borrower
+  assigned_to:
+  - fig:1
+  basis: The passage describes a man owing a debt and a man borrowing money from a
+    merchant.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: creditor
+  assigned_to:
+  - fig:2
+  basis: The debt-relief clause names the creditor as the party who would receive
+    grain and interest.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: merchant lender and repayment recipient
+  assigned_to:
+  - fig:3
+  basis: The merchant lends money and receives repayment, interest, and in one case
+    maintenance costs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: cultivator
+  assigned_to:
+  - fig:4
+  basis: The field is to be cultivated, and a cultivator may raise grain or sesame
+    in it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: field owner and produce recipient
+  assigned_to:
+  - fig:5
+  basis: The field owner receives grain or sesame in the field and returns the loan
+    and interest.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:6
+  label: named ravager of field
+  assigned_to:
+  - fig:6
+  basis: Ramman is named in the clause where a field is ravaged and produce is carried
+    away.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: liable water-control neglecter
+  assigned_to:
+  - fig:7
+  basis: The responsible man neglects a dike or water channel and must restore or
+    pay grain for resulting loss.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: injured agricultural parties
+  assigned_to:
+  - fig:8
+  basis: People of the meadow or a neighbor suffer water-carried crop or field loss
+    and receive compensation.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:9
+  label: royal price standard setter
+  assigned_to:
+  - fig:9
+  basis: Repayment in grain or sesame is made at market values fixed by the king.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Lack of water, opened waters, canal water, and overflow carrying away
+    fields or meadows.
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: field
+  literal_form: A cultivated field, a field used as security, and fields damaged by
+    water.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: grain and sesame
+  literal_form: Agricultural produce used for harvest, repayment, interest, compensation,
+    and market-value substitution.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: tablet
+  literal_form: The debtor's tablet altered after a year of crop loss.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: dike and canal
+  literal_form: Water-control structures whose neglect or opening causes damage to
+    meadows or adjacent fields.
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: money
+  literal_form: Borrowed money, repayment money, and money received from sale when
+    grain cannot be restored.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Debt relief after agricultural disaster
+  summary: A debtor whose field is ravaged, whose produce is carried away, or whose
+    grain fails through lack of water is excused from grain repayment and interest
+    for that year, and the tablet is altered.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Field pledged for cultivation and loan repayment
+  summary: A borrower gives a field as security to a merchant for grain or sesame
+    cultivation; at harvest the field owner receives the produce and pays the merchant
+    for loan, interest, and cultivator maintenance.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Repayment by produce under royal market value
+  summary: When money is lacking, the borrower repays the merchant in grain or sesame
+    at market values fixed by the king; crop failure does not void the contract.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Neglected dike and meadow loss
+  summary: A man who fails to strengthen a dike and causes water to carry away meadow
+    grain must restore the grain; if unable, he and his goods are sold and the injured
+    people share the money.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Canal or opened waters damaging a neighbor's field
+  summary: A man who opens a canal or waters and lets water carry away an adjacent
+    or neighboring field must compensate in grain, including a stated rate in one
+    clause.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Calamity-year debt relief
+  taxonomy_refs: []
+  basis: The passage states that storm or crop failure through lack of water suspends
+    grain repayment and interest for that year and leads to alteration of the tablet.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a legal pattern rather than a mythic narrative; although Ramman
+    is named, the passage does not state that the disaster is a moral judgment.
+- id: motif:2
+  label: Agricultural collateral and harvest repayment
+  taxonomy_refs: []
+  basis: Fields are pledged as security, cultivated for grain or sesame, and the harvest
+    becomes the medium through which loans, interest, and maintenance are repaid.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The exchange is economic and legal; no sacred or ritual dimension is stated
+    in this passage.
+- id: motif:3
+  label: Written obligation revised after disaster
+  taxonomy_refs: []
+  basis: The debt-relief clause specifically says the debtor's tablet is altered in
+    the year of field loss or drought.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Only the administrative act of tablet alteration is stated; no ritual
+    or symbolic reading is supplied by the passage.
+- id: motif:4
+  label: Negligent water control and restitution
+  taxonomy_refs: []
+  basis: Dike and canal negligence that lets water damage another's field or meadow
+    requires grain restoration, sale of goods, or measured payment.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a liability rule; broader symbolic meanings of water are not explicit
+    in the passage.
+- id: motif:5
+  label: Royally fixed exchange value
+  taxonomy_refs: []
+  basis: When repayment cannot be made in money, grain or sesame is valued according
+    to market rates fixed by the king.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states royal price-setting but does not include a prologue
+    or explicit theory of royal legitimacy in the supplied lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 23303-23418, §47
+  quote_or_summary: The field has been cultivated, and at harvest the owner receives
+    grain according to the contracts.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; concise excerpt or summary used.
+- id: ev:2
+  type: summary
+  locator: lines 23303-23418, §48
+  quote_or_summary: If a man owes a debt and Ramman ravages his field, produce is
+    carried away, or grain fails through lack of water, he does not return grain to
+    the creditor, alters his tablet, and does not pay that year's interest.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 23303-23418, §49
+  quote_or_summary: A borrower gives a field to a merchant as security and tells him
+    to cultivate it; at reaping the field owner receives the grain or sesame and pays
+    the merchant for loan, interest, and cultivator maintenance.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 23303-23418, §§50-52
+  quote_or_summary: If a planted field is given as security, the owner receives the
+    crop and returns loan and interest; if money is lacking, grain or sesame is paid
+    at market value fixed by the king; failure to secure a crop does not void the
+    contract.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 23303-23418, §§53-54
+  quote_or_summary: If a man neglects to strengthen his dike and water carries away
+    a meadow, he must restore the lost grain; if he cannot, he and his goods are sold
+    and the injured people share the money.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 23303-23418, §§55-56
+  quote_or_summary: If a man opens a canal or waters and water carries away an adjacent
+    or neighboring field, he must measure out or pay grain, including ten GUR of grain
+    per GAN in one clause.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The English legal provisions are mostly clear, but the supplied passage includes
+    OCR corruption and duplicated transliteration/translation. No explicit cross-tradition
+    comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Record treats the supplied lines as legal material from the Code of Hammurapi and separates literal legal provisions from candidate motif labels.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l23303-l23418
+  passage_sha256=996573c432f04c2ab44aabe3360df0df97b14e7e59ed42d68347df4689aa5fba
+

@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l1078-l1128
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: LIST OF BOOKS QUOTED OR MENTIONED / PREFACE / PREFACE / PREFACE; lines 1078-1128
+  start: '1078'
+  end: '1128'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: to pursue perfection was ... to chase the sun
+  summary: The preface uses a simile of Arcadian first inhabitants chasing the sun
+    to describe the pursuit of perfection, then acknowledges scholarly obligations,
+    publication delay, reliance on Ungnad’s work, and the author’s hope that the book
+    will aid inquiry into the ancient Orient.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage compares pursuing perfection to chasing the sun, with the sun
+    seeming to rest on a hill but remaining at the same distance when reached.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author states that he acknowledges earlier books and papers with meticulous
+    scrupulousness and apologizes for any overlooked acknowledgments.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author says the book was completed long before publication and that delay
+    allowed comparison with Professor Arthur Ungnad’s work.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The author expresses hope that the book may prove useful and inspire interest
+    or lifelong devotion to the study of the ancient Orient.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The preface is signed by Robert W. Rogers at the Bodleian Library, Oxford,
+    dated September 13, 1911.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first inhabitants of Arcadia
+  description: Figures in the simile who chase the sun toward a hill where it seems
+    to rest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Robert W. Rogers
+  description: The authorial signer of the preface.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Professor Arthur Ungnad
+  description: A scholar whose work the author says he compared with his translations
+    and from whom he adopted many suggestions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Professor Kohler
+  description: Ungnad’s joint collaborator on a treatment of the Hammurapi code mentioned
+    by the author.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Johnson
+  description: An author quoted in the preface to express the author’s hope for his
+    book.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mythic or legendary exemplars in simile
+  assigned_to:
+  - fig:1
+  basis: They are invoked as figures who chase the sun in an analogy for pursuing
+    perfection.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: preface author
+  assigned_to:
+  - fig:2
+  basis: The passage ends with his signature and place/date.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: acknowledged scholarly source
+  assigned_to:
+  - fig:3
+  basis: The author says Ungnad’s work aided and comforted him and that he adopted
+    many suggestions from him.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: mentioned scholarly collaborator
+  assigned_to:
+  - fig:4
+  basis: Kohler is named as Ungnad’s collaborator in work on the Hammurapi code.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: quoted literary authority
+  assigned_to:
+  - fig:5
+  basis: The author introduces a quotation attributed to Johnson to express his attitude
+    toward the book.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sun as receding goal
+  literal_form: sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: hill where the sun seems to rest
+  literal_form: hill
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: treasure as intellectual property metaphor
+  literal_form: treasure
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Arcadian sun-chase simile
+  summary: The simile presents Arcadian first inhabitants chasing the sun to a hill
+    where it appears to rest, only to find it still distant.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Scholarly acknowledgments
+  summary: The author explains his efforts to acknowledge prior scholarship and avoid
+    taking others’ intellectual work without credit.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hope for the book’s use
+  summary: The author hopes the book will assist inquiry and inspire study of the
+    ancient Orient, then quotes Johnson on delivering a defective but well-intended
+    work to the world.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: pursuit of an ever-receding goal
+  taxonomy_refs: []
+  basis: The passage’s simile describes people chasing the sun toward a hill where
+    it appears to rest, but the sun remains at the same distance when they arrive.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a prefatory literary simile rather than a narrated mythic episode
+    in the source passage.
+- id: motif:2
+  label: ethical acknowledgment of borrowed knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The author frames scholarly borrowing as a matter of scrupulous acknowledgment
+    and fear of robbing another’s treasure.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The link to the wisdom motif family is thematic and weak; the passage
+    is scholarly prose, not a mythic wisdom tale.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the pursuit of perfection with a sun-chase
+    pattern attributed to the first inhabitants of Arcadia.
+  claim_level: same_function
+  target: Arcadian sun-chase analogy
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is a literary simile within a preface; it does not provide
+    independent narrative detail or evidence of historical contact.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1078-1083
+  quote_or_summary: "“to pursue perfection was ... to chase the sun,” which seemed
+    to rest on a hill but remained distant when reached."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 1084-1095
+  quote_or_summary: The author says he has acknowledged prior books and papers carefully,
+    fears robbing another’s treasure, and apologizes for any omitted acknowledgment.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1096-1114
+  quote_or_summary: The author says publication was delayed; the delay allowed comparison
+    with Arthur Ungnad’s work, including Ungnad’s treatment of the Hammurapi code
+    with Kohler, and the author adopted many suggestions.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1115-1125
+  quote_or_summary: The author hopes the book may be useful, aid an inquiring mind,
+    inspire devotion to the ancient Orient, and quotes Johnson on delivering an imperfect
+    but well-attempted book to the world.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: lines 1126-1128
+  quote_or_summary: Signed Robert W. Rogers, The Bodleian Library, Oxford, September
+    13, 1911.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; citation details.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The literal preface content is clear, but motif extraction is limited because
+    the passage is scholarly prefatory prose with only one explicit mythic or legendary
+    simile.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No Mesopotamian myth episode is narrated in this passage; extraction focuses on the explicit Arcadian sun-chase analogy and scholarly-prose imagery.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l1078-l1128
+  passage_sha256=96179da33723396d904552c490052ade76933bff4750bf92e5b7c62d9f59051c
+

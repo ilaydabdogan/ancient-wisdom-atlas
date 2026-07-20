@@ -24,7 +24,7 @@ provenance:
   publication_year: 1889
   publisher: Macmillan
   source_url: https://archive.org/details/BirdParliamentEnglishFareeduddinAttaarFitzgerald
-  access_date: '2026-07-17'
+  access_date: '2026-07-19'
 rights:
   status: public_domain
   jurisdiction: US
@@ -71,8 +71,6 @@ figures:
 
 Hu
 
-121
-
 
 Bird Parliament
 
@@ -88,10 +86,6 @@ first published in
 Letters and Literary Remains of Edward FitzGerald
 (William Aldis Wright, ed.)
 London and New York: Macmillan and Co.
-[1889]
-
-
-1
 
 
 Scanned at sacred-texts.com, April 2007. Proofed and formatted by John Bruno Hare. This text is in the
@@ -114,9 +108,6 @@ edited by William Aldis Wright, in 1889. This is the first time an etext of Fitz
 translation of this work has been posted on the Internet.
 
 -John B. Hare, April 12, 2007
-
-
-2
 
 
 Bird Parliament
@@ -190,9 +181,6 @@ The mystic Mark upon whose Bosom show'd
 That He alone of all the Birds THE ROAD
 Had travell'd: and the Crown upon his Head
 Had reach'd the Goal; and He stood forth and said:
-
-
-3
 
 
 'O Birds, by what Authority divine
@@ -288,9 +276,6 @@ A Road whose very Preparation scared
 The Traveller who yet must be prepared.
 
 
-4
-
-
 Who then this Travel to Result would bring
 
 Needs both a Lion's Heart beneath the Wing,
@@ -359,9 +344,6 @@ These, one by one, came forward, and preferr'd
 Unwise Objection: which the wiser Word
 Shot with direct Reproof, or subtly round
 With Argument and Allegory wound.
-
-
-5
 
 
 The Pheasant first would know by what pretence
@@ -455,9 +437,6 @@ And, since Today yours seems to turn from you, 170
 Suppose we try for once what mine will do,
 
 
-6
-
-
 And we will share alike in all I win.'
 
 So the Shah took, and flung his Fortune in,
@@ -549,9 +528,6 @@ The Notes of Him whose Life is lost in hers.
 The Rose I love and worship now is here;
 
 
-7
-
-
 If dying, yet reviving, Year by Year;
 
 But that you tell of, all my Life why waste
@@ -600,9 +576,6 @@ And to this Tune — 'O cruel Cage, and Man
 More iron still who did confine me there,
 Who else with him whose Livery I wear
 Ere this to his Eternal Fount had been,
-
-
-8
 
 
 And drunk what should have kept me ever-green.
@@ -675,9 +648,6 @@ In those blest days with that Sev'n-headed Snake, 300
 And thence with him, my perfect Beauty marr'd
 
 
-9
-
-
 With these ill Feet, was thrust out and debarr'd.
 Little I care for Worldly Fruit or Flower,
 Would you restore me to lost Eden's Bower,
@@ -746,9 +716,6 @@ And o'er it like a Talisman I brood,
 Companion of the Serpent and the Toad.
 What need of other Sovereign, having found,
 And keeping as in Prison underground,
-
-
-10
 
 
 One before whom all other Kings bow down,
@@ -827,9 +794,6 @@ Yea, ev'n the Winds of Heav'n — made the fierce East
 Bear his League-wide Pavilion like a Beast,
 
 
-11
-
-
 Whither he would: yea, the Good Angel held
 His subject, and the lower Fiend compell'd.
 Till, looking round about him in his pride,
@@ -887,9 +851,6 @@ Of Favour ask'd the Favourite — Why so pale
 And sad?' thus sadly answer'd the poor Thing —
 'No Sun that rises sets until the King,
 Whose Archery is famous among Men,
-
-
-12
 
 
 Aims at an Apple on my Head, and when
@@ -960,9 +921,6 @@ To whom, by Miracle, the Water, that
 1 wash in, also makes my Praying-Mat.'
 
 
-13
-
-
 To whom, more angrily than all, replied
 
 The Leader, lashing that religious Pride, 470
@@ -1014,9 +972,6 @@ The Ring-dove — Yusuf ! Yusuf ! Yiisuf ! Yu-'
 And, just where broken, took it up again)
 '-suf! Yusuf! Yusuf! Yusuf!'— But one Note,
 Which still repeating, she made hoarse her throat: 510
-
-
-14
 
 
 Till checkt — 'O You, who with your idle Sighs
@@ -1099,9 +1054,6 @@ How should we reach the Mountain? and if there
 How get so great a Prince to hear our Prayer?
 
 For there, you say, dwells The Symurgh alone
-
-
-15
 
 
 In Glory, like Sulayman on his Throne,
@@ -1191,9 +1143,6 @@ While the gross Worldling to his Centre clings,
 That draws him deeper in, exulting springs
 
 
-16
-
-
 To merge him in the central Soul of Things. 600
 
 And shall not he pass home with other Zest
@@ -1267,9 +1216,6 @@ On such mysterious Errand, and so long?
 Whom the wise Leader bid but Do their Best
 
 
-17
-
-
 In Hope and Faith, and leave to Him the rest,
 For He who fix'd the Race, and knew its Length
 And Danger, also knew the Runner's Strength.
@@ -1333,9 +1279,6 @@ Which, hadst thou been like Me his Maker — yea,
 But present at the Kneading of his Clay
 With those twain Elements of Hell and Heav'n, —
 One prayer had won what Thou deny'st to Sev'n.'
-
-
-18
 
 
 For like a Child sent with a fluttering Light
@@ -1418,9 +1361,6 @@ Who like a niggard Tailor, tried to match
 Truth's single Garment with a worldly Patch.
 
 
-19
-
-
 A dangerous Game; for, striving to adjust
 
 The hesitating Scale of either Lust,
@@ -1483,9 +1423,6 @@ How fared it there with Munkar and Nakyr?'
 And Bajazyd replied, 'When from the Grave
 
 
-20
-
-
 They met me rising, and "If Allah's slave"
 
 Ask'd me, "or collar'd with the Chain of Hell?" 770
@@ -1538,9 +1475,6 @@ Better perhaps a Year or Two's Delay,
 Till all was settled, and themselves more stout
 And strong to carry their Repentance out —
 And then' —
-
-
-21
 
 
 'And then, the same or like Excuse,
@@ -1616,9 +1550,6 @@ And hankering still after forbidden Meat —
 'O ye who so long feeding on the Husk
 Forgo the Fruit, and doting on the Dusk
 Of the false Dawn, are blinded to the True: 850
-
-
-22
 
 
 That in the Maidan of this World pursue
@@ -1703,9 +1634,6 @@ Down toppled Nembroth with his airy Stair:
 Schedad among his Roses lived — but where!
 
 
-23
-
-
 'And as the World upon her victims feeds
 
 So She herself goes down the Way she leads.
@@ -1765,9 +1693,6 @@ Resent, and drive us wholly from his Side?
 
 For should the Greyhound whom a Sultan fed,
 And by a jewell'd String a-hunting led,
-
-
-24
 
 
 Turned by the Way to gnaw some nasty Thing
@@ -1840,9 +1765,6 @@ Obliterated Earth from which he came
 Was for the Potter dug, and chased in turn 980
 
 
-25
-
-
 Through long Vicissitude of Bowl and Urn:
 But howsoever moulded, still the Pain
 Of that first mortal Anguish would retain,
@@ -1908,9 +1830,6 @@ If Thou and God should never have again
 To deal together, rob him of his share:
 
 But if perchance you should — why then Beware!'
-
-
-26
 
 
 So spake the Tajidar: but Fear and Doubt
@@ -1989,9 +1908,6 @@ Art satisfied? Well, Brother, any Day
 Or Night, remember, when you come this Way
 
 
-27
-
-
 And want a bit of Provender — why, you
 
 Are welcome, and if not — why, welcome too.' —
@@ -2056,9 +1972,6 @@ Once more Suspense the Host in Silence held,
 While, Tribe by Tribe, the Birds their fortune drew;
 And Lo ! upon the Tajidar it flew. 1110
 Then rising up again in wide and high
-
-
-28
 
 
 Circumference of wings that mesh'd the sky
@@ -2152,9 +2065,6 @@ Whose Prey he falls if tempted but to droop,
 Or if to wander famish'd from the Troop
 
 
-29
-
-
 For fruit that falls to ashes in the Hand,
 
 Water that reacht recedes into the Sand.
@@ -2229,9 +2139,6 @@ With Life in all Varieties of Kind;
 Yea, ev'n the abstract Forms that Space and Time
 Men call, and Weal and Woe, Virtue and Crime, 1200
 And all the several Creeds like those who fell
-
-
-30
 
 
 Before them, Musulman and Infidel
@@ -2315,9 +2222,6 @@ Of his own Darkness God Almighty holds.
 He that would prosper here must from him strip
 
 
-31
-
-
 The World, and take the Dervish Gown and Scrip:
 
 And as he goes must gather from all Sides
@@ -2393,9 +2297,6 @@ With yet no sign of Conflict on his wings.
 Then went a Third, and spurr'd with true Desire,
 Plunging at once into the sacred Fire, 1290
 Folded his Wings within, till he became
-
-
-32
 
 
 One Colour and one Substance with the Flame.
@@ -2487,9 +2388,6 @@ Of Tiger howling round or hissing Snake,
 Or Crocodile that eyed them from the Lake:
 
 
-33
-
-
 Or raving Mad, or in despair Self-slain:
 Or slaying one another for a Grain: —
 
@@ -2563,9 +2461,6 @@ Past half-forgotten Story of his Soul:
 Like that which Yusuf in his Glory gave
 
 His Brethren as some Writing he would have
-
-
-34
 
 
 Interpreted; and at a Glance, behold
@@ -2661,9 +2556,6 @@ Myself within the Mirror Myself hold
 To see Myself in, and each part of Me
 
 
-35
-
-
 That sees himself, though drown'd, shall ever see.
 Come you lost Atoms to your Centre draw,
 And be the Eternal Mirror that you saw:
@@ -2681,7 +2573,4 @@ Which being now recounted, Lo, the Ground
 Of Speech fails underfoot: But this to tell —
 
 Their Road is thine — Follow — and Fare thee well. 1435
-
-
-36
 

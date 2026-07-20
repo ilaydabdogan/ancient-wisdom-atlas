@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l14833-l14851
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: CH. VII CEREMONIES OF THE WOLLUNQUA TOTEM 247 / CEREMONIES OF THE WOLLUNQUA
+    TOTEM / CEREMONIES OF THE WOLLUNQUA TOTEM / FIG. 83. THAPAUERLU, A WATER-HOLE
+    IN THE MURCHISON RANGE WHERE; lines 14833-14851
+  start: '14833'
+  end: '14851'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage identifies Thapauerlu as a water-hole in the Murchison Range
+    where the Wollunqua snake is believed by the Warramunga to live. It describes
+    a shallow cave with pendant tree roots interpreted as the Wollunqua's whiskers,
+    and notes that the people became quiet and solemn as they approached the pool
+    while two old Tjapeltjeri men, chief men of the totemic group, went to its edge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Thapauerlu is identified as a water-hole in the Murchison Range where the
+    Wollunqua snake is supposed by the Warramunga tribe to live.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes a long shallow cave near the water-hole.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Clusters of tree roots hang from the roof of the cave through fissures in
+    the quartzite.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hanging roots are supposed by the natives to represent the whiskers of
+    the Wollunqua.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: As the group approached Thapauerlu, the natives changed from talking and laughing
+    to being quiet and solemn.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Two old Tjapeltjeri men, described as the chief men of the totemic group,
+    went down to the edge of the pool.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Wollunqua snake
+  description: A snake supposed by the Warramunga tribe to live at Thapauerlu; the
+    cave roots are said to represent its whiskers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Warramunga tribe / natives
+  description: The group for whom the Wollunqua snake is supposed to live at Thapauerlu;
+    the people become quiet and solemn near the pool.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Two old Tjapeltjeri men
+  description: Two old men described as the chief men of the totemic group who go
+    to the edge of the pool.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: supposed resident of Thapauerlu
+  assigned_to:
+  - fig:1
+  basis: The caption states that the Wollunqua snake is supposed by the Warramunga
+    tribe to live at the water-hole.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: being represented by natural features
+  assigned_to:
+  - fig:1
+  basis: The hanging roots in the cave are interpreted as the whiskers of the Wollunqua.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: solemn participants approaching the pool
+  assigned_to:
+  - fig:2
+  basis: The natives become quiet and solemn as they approach Thapauerlu.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: chief men of the totemic group
+  assigned_to:
+  - fig:3
+  basis: The two old Tjapeltjeri men are explicitly described as the chief men of
+    the totemic group.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Thapauerlu water-hole
+  literal_form: water-hole / pool
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Wollunqua snake
+  literal_form: snake
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: shallow cave
+  literal_form: long shallow cave
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: pendant tree roots as whiskers
+  literal_form: tree roots hanging from the cave roof
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Identification of Thapauerlu as Wollunqua's dwelling
+  summary: The passage presents Thapauerlu, a water-hole in the Murchison Range, as
+    the place where the Wollunqua snake is believed to live.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Natural features interpreted as Wollunqua's whiskers
+  summary: A shallow cave with roots hanging from its roof is described, and the roots
+    are said to represent the Wollunqua's whiskers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Solemn approach to the pool
+  summary: As the group approaches Thapauerlu, the people become quiet and solemn,
+    and two old Tjapeltjeri men who are chief men of the totemic group go to the pool's
+    edge.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Serpent dwelling at a water-hole
+  taxonomy_refs:
+  - serpent
+  basis: The passage states that the Wollunqua snake is supposed to live at Thapauerlu,
+    a water-hole.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives an ethnographic identification of a sacred place rather
+    than a full mythic narrative.
+- id: motif:2
+  label: Natural landscape features as body parts of a sacred being
+  taxonomy_refs: []
+  basis: The pendant tree roots in the cave are interpreted as the whiskers of the
+    Wollunqua.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage supports a symbolic identification but does not give a broader
+    explanatory myth in this excerpt.
+- id: motif:3
+  label: Solemn ritual approach to a totemic place
+  taxonomy_refs: []
+  basis: The people become quiet and solemn on approaching Thapauerlu, and the chief
+    men of the totemic group move to the pool's edge.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt describes demeanor and movement at a site; it does not fully
+    describe the ceremony that follows.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14833-14835
+  quote_or_summary: Thapauerlu is identified as a water-hole in the Murchison Range
+    where the Wollunqua snake is supposed by the Warramunga tribe to live.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:2
+  type: summary
+  locator: 14837-14842
+  quote_or_summary: A long shallow cave has tree roots hanging from its roof through
+    quartzite fissures; the roots are supposed by the natives to represent the Wollunqua's
+    whiskers.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source metadata; summarized evidence used.
+- id: ev:3
+  type: summary
+  locator: 14844-14851
+  quote_or_summary: As the group approaches Thapauerlu, the natives become quiet and
+    solemn; two old Tjapeltjeri men, chief men of the totemic group, go down to the
+    edge of the pool.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source metadata; summarized evidence used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short, mostly descriptive ethnographic passage.
+    Motif candidates are limited to directly supported place, serpent, landscape-symbol,
+    and ritual-approach patterns. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The line range ends mid-sentence after the two old Tjapeltjeri men go to the pool's edge; extraction is limited to the supplied text.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l14833-l14851
+  passage_sha256=ace91ca7241731e3eb59da1859fd0aba5ea7952780cd64da1d562bd517c6c0a6
+

@@ -1,0 +1,423 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l6008-l6037
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: IV  SICKNESS,  DEATH,  AND   BURIAL  117 / IV  SICKNESS,  DEATH,  AND   BURIAL  119
+    / THE   BAGANDA / CHAP.; lines 6008-6037
+  start: '6008'
+  end: '6037'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a mourning period involving special clothing, ashes,
+    sexual abstinence, a plantain-leaf-carpeted mourning house, drumming and wailing,
+    widows' visits to the grave, daily provisions from clan members, delayed entry
+    of the heir into estates, and the announcement and beginning of the final dance
+    and feast that ends mourning.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage mentions old clothes and a girdle of plantain leaves; most women
+    smeared ashes on their breasts, and sexual intercourse was prohibited during the
+    mourning period.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The house of mourning was carpeted with dry plantain leaves; food was prepared
+    outside by the door, and leftover food was thrown there.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Drums were beaten inside the hut at intervals by day and night, and women
+    wailed when the drums sounded, especially at daybreak.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Widows went to the grave each morning with other mourners and wailed there
+    for some time.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Clan members who were not staying among the mourners brought food and beer
+    daily, but excessive drinking was not allowed.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The heir did not enter upon his estates while mourning continued.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: On the night before mourning ceased, the head of the clan sent word that mourning
+    would end the following day.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Friends and relatives gathered in large numbers for the final dance; plantains
+    were cooked with their skins on, and people ate as much as they wished.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mourners
+  description: Participants in the mourning period who were subject to restrictions
+    and received daily food and beer from clan members.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Women mourners
+  description: Women who smeared ashes on their breasts and wailed when drums sounded.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Widows
+  description: Widows who visited the grave each morning and wailed there.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Other mourners accompanying widows
+  description: Mourners who accompanied the widows to the grave.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Clan members not staying among the mourners
+  description: Clan members who brought food and beer to the mourners each day.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: The heir
+  description: The heir refrained from entering upon his estates while mourning continued.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Head of the clan
+  description: The clan head sent word that the mourning would end on the following
+    day.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Friends and relatives
+  description: People who came in large numbers for the final dance.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: restricted mourning participants
+  assigned_to:
+  - fig:1
+  basis: The passage describes abstinence during mourning and daily provision of food
+    and beer to the mourners.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: female lamenters
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Women wailed when drums sounded, and widows wailed at the grave.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: grave visitors
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Widows and other mourners visited the grave each morning.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: clan provisioners
+  assigned_to:
+  - fig:5
+  basis: Clan members outside the mourning group brought food and beer daily.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: heir awaiting estate entry
+  assigned_to:
+  - fig:6
+  basis: The heir did not enter upon his estates while the mourning continued.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: announcer of mourning's end
+  assigned_to:
+  - fig:7
+  basis: The head of the clan sent word that the mourning would end the next day.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: final-dance attendees
+  assigned_to:
+  - fig:8
+  basis: Friends and relatives came in large numbers for the final dance.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: mourning clothing and plantain-leaf girdle
+  literal_form: old clothes and a girdle of plantain leaves
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ashes on breasts
+  literal_form: ashes smeared upon women's breasts
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: house of mourning with plantain leaves
+  literal_form: house of mourning carpeted with dry leaves from the plantain
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: drums
+  literal_form: drums beaten inside the hut by day and by night
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: grave or tomb
+  literal_form: grave visited each morning; caption mentions Mutesa's Tomb
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:6
+  label: food and beer for mourners
+  literal_form: daily food and beer, with final plantains cooked with skins on
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Mourning restrictions and prepared mourning house
+  summary: The mourning period is marked by old clothing, plantain-leaf objects, ashes
+    on women, sexual abstinence, and a house of mourning carpeted with plantain leaves
+    where food is handled outside the door.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Drummed lamentation and grave visits
+  summary: Drums are beaten in the hut day and night, prompting women's wailing, while
+    widows and other mourners go each morning to the grave and wail there.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Clan support and delayed inheritance
+  summary: Clan members outside the mourning household provide food and beer to the
+    mourners, and the heir does not enter his estates while mourning continues.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Announcement and final dance ending mourning
+  summary: The head of the clan announces that mourning will end the next day; friends
+    and relatives gather for the final dance and a meal of plantains cooked with skins
+    on.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ritualized mourning through bodily marking and abstinence
+  taxonomy_refs: []
+  basis: The mourning period includes old clothing, a plantain-leaf girdle, ashes
+    on women's breasts, and required sexual abstinence.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic ritual pattern in the excerpt, not a mythic narrative
+    motif.
+- id: motif:2
+  label: lamentation coordinated by drums and grave visitation
+  taxonomy_refs: []
+  basis: Drums are beaten by day and night, women wail when they sound, and widows
+    visit the grave every morning to wail.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the theological or symbolic meaning of the
+    drumming or grave visits.
+- id: motif:3
+  label: kin-supported mourning period
+  taxonomy_refs: []
+  basis: Clan members who are not staying with mourners bring food and beer daily,
+    while drinking to excess is prohibited.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The excerpt provides social practice but does not identify a broader mythological
+    motif family.
+- id: motif:4
+  label: delayed succession during mourning
+  taxonomy_refs: []
+  basis: The heir does not enter upon his estates until the mourning period has continued
+    to its end.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states delayed estate entry but does not provide additional
+    succession details in this excerpt.
+- id: motif:5
+  label: mourning concluded by announcement, dance, and communal eating
+  taxonomy_refs: []
+  basis: The clan head announces the end of mourning; friends and relatives assemble
+    for a final dance and eat freely.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The provided passage ends mid-sentence after describing the food, so the
+    full conclusion of the ceremony may continue beyond this range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6008-6012
+  quote_or_summary: Old clothes and a plantain-leaf girdle are mentioned; most women
+    smeared ashes on their breasts, and all abstained from sexual intercourse.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 6012-6016
+  quote_or_summary: The house of mourning was carpeted with dry plantain leaves; food
+    was prepared outside by the door and leftover food was thrown there.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6016-6020
+  quote_or_summary: Drums were beaten inside the hut at intervals by day and by night;
+    when the drums sounded, the women wailed, especially at daybreak.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6020-6024
+  quote_or_summary: Widows visited the grave each morning, accompanied by other mourners,
+    and wailed there for some time.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6024-6028
+  quote_or_summary: Clan members not staying among the mourners brought them food
+    and beer daily, though excessive drinking was not allowed.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 6028-6030
+  quote_or_summary: While mourning continued, the heir did not enter upon his estates.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 6030-6037
+  quote_or_summary: The head of the clan announced that mourning would end the next
+    day; friends and relatives came for the final dance, plantains were cooked with
+    skins on, and people ate as much as they wished.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: quote
+  locator: figure caption within lines 6008-6037
+  quote_or_summary: "“FIG. 24.—MUTESAS TOMB.”"
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The ritual sequence is mostly clear, but the supplied range begins and ends
+    mid-sentence. Candidate motifs are descriptive ritual patterns only; no comparative
+    claims were made because the excerpt itself provides no comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Taxonomy references were not applied because the available motif families and symbol terms are not directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l6008-l6037
+  passage_sha256=2c5957c3dd01e3bee5a52694071924206f5037adbab3a9838923363b4cc73508
+

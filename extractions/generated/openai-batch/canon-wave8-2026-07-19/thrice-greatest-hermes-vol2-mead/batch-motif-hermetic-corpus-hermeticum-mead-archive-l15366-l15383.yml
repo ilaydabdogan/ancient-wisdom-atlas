@@ -1,0 +1,175 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l15366-l15383
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: XXIII / VOL. II. 23 / XXVII / XXVIII; lines 15366-15383
+  start: '15366'
+  end: '15383'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: motion motionless
+  summary: The passage describes God as moved into Himself while remaining stable
+    and changeless in vastness. It then describes the transcendent “That” as beyond
+    sense, beyond bounds, and ungraspable. A note frames the passage as reconciling
+    paired opposites.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: God Himself is said to be moved into Himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage joins stability with “motion motionless” in God’s vastness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: God’s law is described as exempt from change by His vastness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The transcendent “That” is described as not subject to sense, beyond all bounds,
+    and unable to be grasped.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note says the whole passage endeavors to at-one the paired terms “same”
+    and “other,” also glossed as “Self” and “not-Self.”
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: God Himself / transcendent “That”
+  description: The divine principle described as moved into Himself, vast, stable,
+    changeless, beyond sense, beyond bounds, and ungraspable.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: self-moved divine principle
+  assigned_to:
+  - fig:1
+  basis: God is said to be moved into Himself.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: transcendent and changeless principle
+  assigned_to:
+  - fig:1
+  basis: The figure is described through vastness, motionless motion, exemption from
+    change, and being beyond sense and grasp.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Statement of divine motionless motion
+  summary: The passage presents a metaphysical description of God as moving into Himself
+    while remaining stable and changeless; the transcendent principle is beyond sense
+    and grasp.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: 'reconciliation of opposites: motion and stillness'
+  taxonomy_refs:
+  - duality
+  basis: The main text pairs motion with motionlessness and stability, while the note
+    explicitly frames the passage as at-oning paired opposites such as same/other
+    and Self/not-Self.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The explicit same/other and Self/not-Self framing comes from a note, not
+    from the main doctrinal sentence alone.
+- id: motif:2
+  label: apophatic transcendent deity
+  taxonomy_refs: []
+  basis: The transcendent “That” is described negatively as not subject to sense,
+    beyond bounds, and unable to be grasped.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference closely matches this non-narrative theological
+    pattern.
+comparison_claims:
+- id: claim:1
+  claim: The note treats the Hermetic reconciliation of “same” and “other” as analogous
+    to the Upanishadic pair “Self” and “not-Self.”
+  claim_level: same_function
+  target: Platonic same/other and Upanishadic Self/not-Self oppositional pairs
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial comparative note within the provided passage;
+    it does not by itself demonstrate historical contact, common inheritance, or a
+    narrative motif correspondence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15366-15368
+  quote_or_summary: God Himself is “moved into Himself” by same transcendency of motion.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 15370-15372
+  quote_or_summary: Stability in God’s vastness is described as “motion motionless,”
+    and His law is exempt from change.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 15374-15377
+  quote_or_summary: The transcendent “That” is described as not subject to sense,
+    beyond all bounds, and unable to be grasped.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: note
+  locator: 15379-15382
+  quote_or_summary: A note says the whole is an endeavor to at-one the “Platonic”
+    root-opposites “same” and “other,” glossed as “Self” and “not-Self” in Upanishadic
+    terms.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized with brief terms.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and abstract. Literal extraction is straightforward,
+    but motif classification is interpretive because the material is metaphysical
+    prose rather than mythic narrative. The comparison claim depends on the provided
+    note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No literal object/place symbols from the supplied symbol taxonomy were present in the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l15366-l15383
+  passage_sha256=a3909c49ebe724d607b12a667f68e0374533192d5ab5ccf97508cc43290b122c
+

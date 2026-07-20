@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.polynesian-samoa-hundred-years-ago-turner-gutenberg-l454-l466
+source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+passage_locator:
+  label: CHAPTER XXII. / POLITICAL DIVISIONS AND PLACES OF NOTE ON SAVAII / CHAPTER
+    I. / POSITION OF THE ISLANDS--EARLY VISITORS AND TRADITIONARY ORIGIN.; lines 454-466
+  start: '454'
+  end: '466'
+  translation: Samoa, A Hundred Years Ago And Long Before
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Man dies and does not return.”"
+  summary: During a meeting over proposals about human fate, rain interrupts the discussion.
+    The gods disperse and call for Paralysis’s proposal to be carried, so human life
+    is said to go out like a candle-nut torch. A variant account adds rejected proposals
+    for skin-casting and rejuvenation in the water of life, but still ends with Paralysis’s
+    proposal prevailing, with only men dying and not women.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A number of speeches are made for competing proposals during a meeting.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A pouring rain begins and breaks up the meeting.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The gods run to houses for shelter as they disperse.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: While dispersing, the gods call for the proposal of Paralysis to be carried
+    and describe human life as going out like a candle-nut torch.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage gives the proverb, “It is as Paralysis said,” and states that
+    man dies and does not return.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A second account of the same meeting adds a proposal that men should cast
+    their skins like shell-fish.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The second account adds a proposal that old men should dive in the “water
+    of life” and come up as little boys.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The second account still ends with the proposal of Paralysis being carried,
+    but adds that only men, not women, were to die.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the gods
+  description: The gods participate in or attend the meeting, run to houses for shelter,
+    and call out the decision as they disperse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Paralysis
+  description: Paralysis is named as the source of the proposal that is carried; the
+    proverb attributes the outcome to what Paralysis said.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: man / men
+  description: Human males are the subject of the decision and of the variant proposals
+    about death, skin-casting, and rejuvenation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: women
+  description: In the added account, women are named as excluded from the death outcome
+    assigned to men.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine meeting participants and decision callers
+  assigned_to:
+  - fig:1
+  basis: The gods are present when the meeting breaks up and call out that Paralysis’s
+    proposal should be carried.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: successful proposer of mortality
+  assigned_to:
+  - fig:2
+  basis: The carried proposal is identified as the proposal of Paralysis, and the
+    proverb says it is as Paralysis said.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: mortal human subject
+  assigned_to:
+  - fig:3
+  basis: The decision concerns man’s life going out, man dying and not returning,
+    and variant proposals for men’s renewal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: exempted group in variant account
+  assigned_to:
+  - fig:4
+  basis: The added account says only men were to die, not women.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: candle-nut torch going out
+  literal_form: Human life compared to a candle-nut torch going out.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: water of life
+  literal_form: Water into which old men would dive and emerge as little boys.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: cast skins like shell-fish
+  literal_form: Men casting off their skins in the manner of shell-fish.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rain-broken divine meeting and adoption of Paralysis’s proposal
+  summary: Speeches are made for different proposals, rain breaks up the meeting,
+    and the gods disperse while calling for Paralysis’s proposal to be carried; human
+    life is compared to a candle-nut torch going out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Variant proposals for renewal rejected by the same outcome
+  summary: Another account of the meeting includes proposals for men to cast their
+    skins or regain boyhood through the water of life, but still concludes with Paralysis’s
+    proposal carried and death assigned to men, not women.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Origin of irreversible human death
+  taxonomy_refs: []
+  basis: The passage explains that Paralysis’s proposal is carried and concludes that
+    man dies and does not return.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No exact available taxonomy reference for an origin-of-death motif is
+    supplied.
+- id: motif:2
+  label: Divine decision determining human mortality
+  taxonomy_refs:
+  - divine_judgment
+  basis: The gods, dispersing from the meeting, call for the proposal of Paralysis
+    to be carried, thereby determining human death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy term “divine_judgment” is approximate; the passage
+    depicts a divine decision, not an explicit moral judgment.
+- id: motif:3
+  label: Rejected renewal by skin-casting
+  taxonomy_refs:
+  - death_rebirth
+  basis: A variant account proposes that men should cast their skins like shell-fish,
+    but this proposal does not prevail.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The skin-casting is only a proposed alternative, not an enacted event
+    in the passage.
+- id: motif:4
+  label: Rejected rejuvenation through water of life
+  taxonomy_refs:
+  - death_rebirth
+  basis: A variant proposal says old men should dive in the water of life and come
+    up as little boys, but Paralysis’s proposal is carried instead.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The episode concerns rejuvenation rather than explicit resurrection, and
+    the proposal is rejected in the account.
+- id: motif:5
+  label: Gender-limited mortality in a variant account
+  taxonomy_refs: []
+  basis: The added account says the carried proposal applied so that only men were
+    to die, not women.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This limitation appears only in the additional account summarized by the
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents another account of the same meeting as a variant
+    that adds skin-casting and water-of-life proposals while retaining the final victory
+    of Paralysis’s proposal.
+  claim_level: same_motif
+  target: The “another account of this meeting” mentioned in the passage
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal textual comparison only; it does not establish
+    historical contact, common inheritance, or comparison with an external tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 454-457
+  quote_or_summary: Speeches are made for competing proposals; a pouring rain begins,
+    breaks up the meeting, and the gods run to houses for shelter.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 457-460
+  quote_or_summary: "“Let the proposal of Paralysis be carried, and let man's life
+    go out like the candle-nut torch.”"
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 460-461
+  quote_or_summary: "“It is as Paralysis said.” Man dies and does not return."
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; short quotation from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 462-465
+  quote_or_summary: Another account adds proposals that men should cast their skins
+    like shell-fish and that old men should dive in the “water of life” and come up
+    as little boys.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 465-466
+  quote_or_summary: The other account still ends with the proposal of Paralysis carried,
+    but adds that only men, not women, were to die.
+  source_text_path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy alignment is partly
+    approximate because the available taxonomy lacks a specific origin-of-death category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata; no external comparative claims added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:polynesian-samoa-hundred-years-ago-turner-gutenberg__l454-l466
+  passage_sha256=8d9647a2d71a3f9b9ebbc307636b03dd104d36e85c9a763aa06e79e847b23bfb
+

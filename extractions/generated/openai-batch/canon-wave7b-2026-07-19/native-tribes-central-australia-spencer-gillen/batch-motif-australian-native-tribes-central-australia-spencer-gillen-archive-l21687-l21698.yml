@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l21687-l21698
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: XIV CUSTOMS RELATING TO BURIAL AND .MOURNING 503 / XIV CUSTOMS RELATING TO
+    BURIAL AND MOURNING 505 / XIV CUSTOMS RELATING TO BURIAL AND .MOURNING 507 / XIV
+    CUSTOMS RELATING TO BURIAL AND MOURNING 511; lines 21687-21698
+  start: '21687'
+  end: '21698'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that a person’s mood may change from tears to laughter
+    while still allowing for genuine grief and affection. It then explains that painting
+    a mourner’s body with white pipeclay is not meant to hide the mourner from the
+    dead person’s spirit, but to make the mourner more visible so the spirit can see
+    that proper mourning is being performed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the unnamed subject’s mood can quickly change from tears
+    to laughter.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the unnamed subject is capable of genuine grief and real
+    affection for his children.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage describes a custom of painting the body of a mourner with white
+    pipeclay.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the white pipeclay painting is not intended to conceal
+    the mourner’s identity from the spirit of the dead person.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that the painting is intended to make the mourner conspicuous
+    so that the spirit can see that proper mourning is being performed.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: mourner
+  description: A person whose body is painted with white pipeclay in connection with
+    mourning.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: spirit of the dead person
+  description: The spirit of the dead person is described as able to see the mourner
+    and the mourning performed for it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed male subject
+  description: An unnamed male subject described as emotionally changeable yet capable
+    of genuine grief and affection for his children.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: mourner
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly refers to the body and identity of the mourner.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: dead person’s spirit as witness to mourning
+  assigned_to:
+  - fig:2
+  basis: The passage says the mourner is made conspicuous so the spirit can see that
+    it is being properly mourned.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: grieving or affectionate person
+  assigned_to:
+  - fig:3
+  basis: The passage says he is capable of genuine grief and real affection for his
+    children.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: white pipeclay body paint
+  literal_form: white pipeclay applied to the mourner’s body
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: conspicuous mourner
+  literal_form: a mourner made more conspicuous by white body painting
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Emotional change and grief
+  summary: The passage notes a rapid shift from tears to laughter while also affirming
+    the capacity for genuine grief and affection.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: White pipeclay mourning display
+  summary: A mourner’s body is painted with white pipeclay not to hide identity from
+    the dead person’s spirit, but to make the mourner visible so the spirit can see
+    that proper mourning is occurring.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: visible mourning for the dead person’s spirit
+  taxonomy_refs: []
+  basis: The passage explains that the mourner is made conspicuous so the dead person’s
+    spirit can see that proper mourning is being performed.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames this as an ethnographic explanation of a mourning custom,
+    not as a narrative myth; no available taxonomy motif family precisely matches
+    it.
+- id: motif:2
+  label: body painting as ritual communication with the dead
+  taxonomy_refs: []
+  basis: White pipeclay body painting is described as a means of making the mourner
+    visible to the spirit of the dead person.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The communicative function is inferred from the stated purpose of allowing
+    the spirit to see the mourning; the passage does not elaborate a broader ritual
+    system.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21689-21691
+  quote_or_summary: The text says the subject’s mood may quickly shift from tears
+    to laughter, while also stating that he can feel genuine grief and real affection
+    for his children.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 21693-21695
+  quote_or_summary: The text discusses the custom of painting the mourner’s body with
+    white pipeclay and says it is not meant to conceal the mourner’s identity from
+    the spirit of the dead person.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 21696-21698
+  quote_or_summary: The text says the purpose is to make the mourner more conspicuous,
+    allowing the spirit to see that it is being properly mourned.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the passage. Motif labels are local descriptive
+    candidates without taxonomy matches. No comparison claims are made because the
+    passage itself does not support a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR irregularities in the supplied passage were normalized only in summaries; no unsupported corrections or external context were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l21687-l21698
+  passage_sha256=d51e796beb4551ca6bb07e40f94dbdbbd1cc779f2e3319b42a149207fba5e59e
+

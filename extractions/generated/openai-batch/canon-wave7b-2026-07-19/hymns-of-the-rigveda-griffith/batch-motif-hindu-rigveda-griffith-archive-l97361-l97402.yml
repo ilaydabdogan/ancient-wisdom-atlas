@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l97361-l97402
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 2. / I, 2, 2- / KEM N , / ADHYAYA 4.; lines 97361-97402
+  start: '97361'
+  end: '97402'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a set of scholarly notes on Vedic metre, recitation procedure,
+    grammatical interpretation, and ritual placement of a nivid connected with Soma
+    and the midday pressing. It cites Sāyaṇa, Aśvalāyana, Max Müller, and several
+    Vedic or post-Vedic textual parallels.
+  language: English with Sanskrit transliteration fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note identifies a metrical category and discusses readings of a body-part
+    expression, including a possible meaning that thighs and knees are supports.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A metrical unit is described as seven padas of eight syllables and alternatively
+    as an anustubh preceded by a vayani.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: According to Sāyaṇa following Aśvalāyana, pauses and the syllable om occur
+    at specified points in recitation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Siyana explains a special mode of recitation involving pauses after padas
+    and om after the second pada, and calls it tristupsamaya.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage reports an interpretation that animals obey a master.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Siyana says a nivid should come after the fourth verse and includes a ritual
+    formula involving a deity or deities drinking Soma.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: 'The metre is called irregular: verses one and seven are described as jagati
+    and the rest as tristubh, with an alternative account for the last two.'
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage notes that the prakrti has tristubh verses at the midday pressing
+    and that the deviation requires explanation.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sāyaṇa / Siyana
+  description: Commentator cited for explanations of recitation, the animal-master
+    interpretation, nivid placement, and metrical alternatives.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Aśvalāyana
+  description: Authority followed or cited in the discussion of recitation rules and
+    the Śrauta Sūtra source.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Max Müller
+  description: Scholar cited as taking the animal-master meaning and commenting on
+    a related Upanisadic passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: animals
+  description: Generic animals described as obeying a master.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: master
+  description: Generic master whom animals obey in the cited interpretation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: deity or deities in Soma formula
+  description: Divine recipient or recipients in the cited nivid formula involving
+    drinking Soma.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: cited exegete or textual authority
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage names these authorities in connection with explanations, observations,
+    or source traditions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: obedient animals
+  assigned_to:
+  - fig:4
+  basis: The passage states that animals obey a master.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: obeyed master
+  assigned_to:
+  - fig:5
+  basis: The master is the one whom animals obey in the cited interpretation.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: Soma drinker or recipient in ritual formula
+  assigned_to:
+  - fig:6
+  basis: The nivid formula is summarized as involving a deity or deities drinking
+    Soma.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: om
+  literal_form: The syllable om placed after specified padas in recitation.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Soma
+  literal_form: Soma to be drunk in the cited nivid formula.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Recitation and metre instructions
+  summary: The notes describe verse metres, padas, pauses, and placement of om during
+    ritual or textual recitation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: scene:2
+  label: Animals and master interpretation
+  summary: A commentarial interpretation says animals obey a master, followed by grammatical
+    discussion and parallels.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Nivid and Soma formula
+  summary: Siyana prescribes a nivid after the fourth verse and cites a formula involving
+    a deity or deities drinking Soma, with reference to Śrauta ritual material.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Midday pressing deviation
+  summary: The prakrti's tristubh verses at the midday pressing are contrasted with
+    a deviation that needs explanation.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Ritual recitation attached to Soma offering
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes prescribed recitation, nivid placement, a Soma-drinking
+    formula, Sastra context, and the midday pressing.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage is philological and ritual commentary rather than a continuous
+    mythic narrative; the taxonomy fit is broad.
+- id: motif:2
+  label: Sacred utterance in ordered recitation
+  taxonomy_refs: []
+  basis: The syllable om and pauses are placed at specified points in the recitation
+    sequence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No available taxonomy reference directly covers this pattern; interpretation
+    is limited to explicit recitation instructions.
+comparison_claims:
+- id: claim:1
+  claim: The commentary explicitly compares accusative constructions in the passage
+    with Greek and Latin usage.
+  claim_level: linguistic_similarity
+  target: Greek and Latin accusatives of point or respect
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is syntactic rather than mythological and does not support
+    a historical-contact claim.
+- id: claim:2
+  claim: The note relates the nivid and Soma-drinking ritual instruction to a nearby
+    Śrauta textual tradition.
+  claim_level: same_function
+  target: Sāṅkhāyana Śrauta Sūtra VIII, 17, 1 ritual instruction for nivid placement
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage gives only a cited ritual parallel, not an extended
+    narrative or independent description.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 97361-97364
+  quote_or_summary: The note says most items except two and twelve are in the mahapankti
+    metre; it discusses readings of a body-part expression and a possible meaning
+    that thighs and knees are supports, with references to Vājasaneyi Saṁhitā and
+    Apastamba Śulba Sūtra.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 97368-97371
+  quote_or_summary: A metrical note says the unit consists of seven padas of eight
+    syllables and can be made into an anustubh preceded by a vayani; Sāyaṇa following
+    Aśvalāyana describes pauses and om placement.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 97375-97377
+  quote_or_summary: Siyana explains a special recitation mode with pauses after padas
+    and om after the second, calling it tristupsamaya and citing Aśvalāyana Śrauta
+    Sūtra and a Rigvedic passage.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 97379-97387
+  quote_or_summary: The note says Sāyaṇa and Max Müller take the passage to mean that
+    animals obey a master, then discusses accusative syntax with Greek and Latin parallels
+    and cites Maitreya Upanisad, Jaiminiya Upanisad Brahmana, and Aitareya Brahmana.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 97391-97397
+  quote_or_summary: Siyana says a nivid is to come after the fourth verse and gives
+    a formula involving a deity or deities drinking Soma; he interprets 'in himself'
+    in relation to the Sastra and cites Sāṅkhāyana Śrauta Sūtra and scholarship on
+    nivids.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 97399-97400
+  quote_or_summary: 'The metre is described as irregular: according to the Anukramani,
+    verses one and seven are jagati and the rest tristubh; Sāyaṇa offers an alternative
+    in which the last two are jagati.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 97401-97402
+  quote_or_summary: The prakrti is said to have tristubh verses at the midday pressing,
+    so a deviation needs explanation; the note adds that the answer is repeated and
+    adopted.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is OCR-noisy scholarly commentary rather than a primary myth
+    narrative. Literal ritual and philological data are extractable, but motif identification
+    is limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to explicit content in the supplied line range; no additional figures, myths, or taxonomy references were inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l97361-l97402
+  passage_sha256=ca2c4632fcc84d8e73d7aac6279981827e8578aacf741c6466cdec2fe85cd371
+

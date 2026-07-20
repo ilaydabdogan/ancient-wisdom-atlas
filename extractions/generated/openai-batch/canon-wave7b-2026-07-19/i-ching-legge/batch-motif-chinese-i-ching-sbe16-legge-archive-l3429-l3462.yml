@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l3429-l3462
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: CH. III. INTRODUCTION. 45 / CH. III. INTRODUCTION. 47 / CH. III. INTRODUCTION.
+    51 / CH, III. INTRODUCTION. 55; lines 3429-3462
+  start: '3429'
+  end: '3462'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Union is sure to give place to separation, and by and by that separation
+    will issue in re-union.”"
+  summary: The passage states that the writer repeatedly returns to the instability
+    of affairs, describing worldly fashion as passing away and union as giving way
+    to separation and later re-union. It then says the treatise gives no authorship
+    information and describes the seventh appendix as a rhymed collection of lineal
+    figures or hexagrams grouped by similarity or opposition in meaning rather than
+    by sequence.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the writer often has the changeability of affairs in mind.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that worldly fashion passes away.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that union gives place to separation and that separation
+    later issues in re-union.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says the treatise gives no indication of authorship.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says the notes sometimes show perplexity because meanings assigned
+    to names differ from meanings in the Text.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The seventh appendix is identified as Kwa Awan, or a treatise on lineal figures
+    taken promiscuously.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The lineal figures are described as grouped not by sequence but by approximation
+    or opposition in meaning.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The appendix is described as being in rhyme, and rhyme as well as meaning
+    is said to have determined the grouping of the hexagrams.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says a student will learn nothing of value from the seventh appendix
+    and calls it more a jeu d’esprit than anything else.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the writer
+  description: An unnamed writer whose mind is said to return often to the changeability
+    of affairs and who is persuaded that worldly fashion passes away.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the student
+  description: A generalized student who is said to learn nothing of value from the
+    seventh appendix.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: reflector on worldly change
+  assigned_to:
+  - fig:1
+  basis: The passage says change in affairs is often in the writer’s mind and gives
+    the writer’s view of union, separation, and re-union.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of instruction or study
+  assigned_to:
+  - fig:2
+  basis: The passage addresses what the student will learn from the appendix.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: lineal figures or hexagrams
+  literal_form: Lineal figures; hexagrams grouped in the appendix
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: union, separation, and re-union sequence
+  literal_form: A stated sequence of union giving way to separation and later re-union
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Reflection on alternating worldly states
+  summary: The passage presents the writer’s view that worldly conditions pass away
+    and that union, separation, and re-union follow one another.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of the seventh appendix
+  summary: The passage describes the seventh appendix as a rhymed collection of lineal
+    figures or hexagrams grouped by similarity or opposition in meaning rather than
+    by fixed sequence, while also judging it to have little instructional value.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Alternation of union, separation, and re-union
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly states a recurring movement from union to separation
+    and later back to re-union.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an introduction and commentary, not a mythic narrative;
+    the taxonomy link to duality is based on the stated alternation of opposed social
+    or cosmic states.
+- id: motif:2
+  label: Ordering by likeness and opposition
+  taxonomy_refs:
+  - duality
+  basis: The appendix’s lineal figures are said to be grouped by approximation or
+    opposition in meaning rather than by sequence.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a formal textual classification pattern rather than a narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3431-3434
+  quote_or_summary: "“affairs is a topic never long absent from the writer’s mind.
+    He is firmly persuaded that ‘the fashion of the world passeth away.’ Union is
+    sure to give place to separation, and by and by that separation will issue in
+    re-union.”"
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; quoted from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3436-3439
+  quote_or_summary: The passage says the treatise suggests nothing about its authorship
+    and notes occasional perplexity where meanings of names differ from meanings in
+    the Text.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 3441-3447
+  quote_or_summary: The passage identifies the seventh appendix as Kwa Awan, a treatise
+    on lineal figures taken promiscuously and grouped by approximation or opposition
+    in meaning rather than by sequence.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 3447-3451
+  quote_or_summary: The passage says the appendix is in rhyme, that rhyme and meaning
+    determined the grouping of hexagrams, and that the student will learn nothing
+    of value from it.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: note
+  locator: lines 3452-3462
+  quote_or_summary: The end of the supplied passage contains apparent OCR or transcription
+    noise and was not used for motif extraction.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: No substantive quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the passage’s introductory and textual-critical
+    character rather than mythic narrative content, and by apparent OCR noise at the
+    end.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparison claims were made because the passage itself does not support a specific comparison beyond the internal pattern of alternation and opposition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l3429-l3462
+  passage_sha256=f582d28ac8c44d05718bb28946d8484a2540553e0e320cffdc59be298a982700
+

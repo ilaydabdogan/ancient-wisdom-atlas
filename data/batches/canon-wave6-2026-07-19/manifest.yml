@@ -1,0 +1,625 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: canon-wave6-2026-07-19
+created_at: '2026-07-19T18:04:17Z'
+updated_at: '2026-07-20T07:48:29Z'
+artifacts:
+  passages_path: data/batches/canon-wave6-2026-07-19/passages.jsonl
+  requests_index_path: data/batches/canon-wave6-2026-07-19/requests/index.yml
+  request_map_path: data/batches/canon-wave6-2026-07-19/request-map.jsonl
+  results_dir: data/batches/canon-wave6-2026-07-19/results
+  ingested_results_path: data/batches/canon-wave6-2026-07-19/ingested-results.jsonl
+  generated_extractions_dir: extractions/generated/openai-batch/canon-wave6-2026-07-19
+openai: {}
+state:
+  last_realtime_run_at: '2026-07-19T22:05:27Z'
+  realtime_concurrency: 48
+  last_ingest_at: '2026-07-20T07:48:29Z'
+pipeline: motif_extraction
+status: results_downloaded
+config:
+  segmentation:
+    glob:
+    text_paths:
+    - texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+    - texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+    - texts/public-domain/buddhist/project-gutenberg/dhammapada-muller.md
+    - texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+    - texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+    - texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+    - texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+    - texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+    - texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+    - texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+    - texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+    - texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+    - texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+    - texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+    - texts/public-domain/greek/project-gutenberg/house-of-atreus-aeschylus-morshead.md
+    - texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+    - texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+    - texts/public-domain/greek/project-gutenberg/prometheus-bound-seven-against-thebes-aeschylus-buckley.md
+    - texts/public-domain/hindu/project-gutenberg/maha-bharata-dutt.md
+    - texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+    - texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+    - texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita-arnold.md
+    - texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+    - texts/public-domain/mesopotamian/project-gutenberg/religion-of-babylonia-and-assyria-jastrow.md
+    - texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+    - texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+    - texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md
+    - texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+    - texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+    - texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+    - texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+    - texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+    - texts/public-domain/temne/project-gutenberg/cunnie-rabbit-cronise-ward.md
+    coverage_path:
+    coverage_statuses: []
+    coverage_priorities: []
+    max_source_texts:
+    max_chars: 6000
+    min_chars: 500
+    limit:
+  motif_request_generation:
+    model: gpt-5.5
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 16000
+    temperature:
+    reasoning_effort: high
+    max_requests_per_shard: 1000
+    max_bytes_per_shard: 188743680
+    skip_ingested_from_run_id: canon-wave6-2026-07-19
+counts:
+  source_texts_segmented: 33
+  passages: 4571
+  requests_prepared: 4571
+  request_shards: 5
+  skipped_ingested_requests: 0
+  ingested_records: 4537
+  failed_ingestions: 3
+source_texts:
+- path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  source_text_id: armenian.armenian_legends_and_poems.boyajian_gutenberg
+  title: Armenian Legends and Poems
+  tradition: armenian
+  culture: armenian_legend_and_poetry_anthology
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; anthology
+      compiled and translated by Zabelle Boyajian with an essay by Aram Raffi.
+  sha256: 02332053a4139b02b77a2d2ee67cd24d9520f79a432826db0f536ce69e08021f
+  passage_count: 107
+- path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  source_text_id: basque.basque_legends.webster_gutenberg
+  title: Basque Legends
+  tradition: basque
+  culture: basque_folk_legend_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; collector
+      Wentworth Webster died 1907.
+  sha256: c8be1eaff22fb868ed6ea0c0266ecce83e70b5106282c974e851ce30b5e156d6
+  passage_count: 115
+- path: texts/public-domain/buddhist/project-gutenberg/dhammapada-muller.md
+  source_text_id: buddhist.dhammapada.muller_gutenberg
+  title: Dhammapada, a Collection of Verses; Being One of the Canonical Books of the
+    Buddhists
+  tradition: buddhist
+  culture: early_buddhist_canon_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Müller's
+      1881 SBE translation is long out of copyright. Distinct standalone Dhammapada
+      not separately canonicalized in the corpus (only the Sutta-Nipata portion of
+      SBE 10 is present).
+  sha256: 829e4b82bd8cba024caac2c869a0243fcbe0e3032a19ec92ad91eaa0e67c48c7
+  passage_count: 24
+- path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  source_text_id: celtic.celtic_fairy_tales.jacobs_gutenberg
+  title: Celtic Fairy Tales
+  tradition: celtic
+  culture: celtic_folk_tale_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; editor
+      Joseph Jacobs died 1916.
+  sha256: cf79ddc8fdaa96b729c1403354457e9c09004e08734c54b36503f57bdfce552e
+  passage_count: 94
+- path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  source_text_id: celtic.gods_and_fighting_men.gregory_gutenberg
+  title: Gods and Fighting Men
+  tradition: celtic
+  culture: irish_mythological_and_fenian_cycle_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; use
+      outside the USA requires jurisdiction-specific review.
+  sha256: f303e4994fe871c4e4613aeb521032ff21ce464c75e9b4bea060eafb4f5abdf3
+  passage_count: 198
+- path: texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md
+  source_text_id: celtic.mabinogion.guest_gutenberg
+  title: The Mabinogion
+  tradition: celtic
+  culture: medieval_welsh_prose_tales
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Guest
+      translation long out of copyright.
+  sha256: 288934758f3a8c1aae2e0706e548604a033b1534d0dbbd21c1be296a3ca018bc
+  passage_count: 115
+- path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  source_text_id: celtic.more_celtic_fairy_tales.jacobs_gutenberg
+  title: More Celtic Fairy Tales
+  tradition: celtic
+  culture: celtic_folk_tale_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; companion
+      volume to Celtic Fairy Tales.
+  sha256: 29deee69e00cd30cd111c733b12af2ecdaf946cc378c4fd89c89a28e3d3e122a
+  passage_count: 73
+- path: texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md
+  source_text_id: celtic.mythology_british_islands.squire_gutenberg
+  title: The Mythology of the British Islands
+  tradition: celtic
+  culture: pan_celtic_mythography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; also
+      known as "Celtic Myth and Legend" (Charles Squire).
+  sha256: 3b6efa6f73982a04f47ed04889bb890f1706d8f69e0315d843d5742523dff227
+  passage_count: 151
+- path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+  source_text_id: celtic.myths_legends_celtic_race.rolleston_gutenberg
+  title: Myths & Legends of the Celtic Race
+  tradition: celtic
+  culture: pan_celtic_mythography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; author
+      T. W. Rolleston died 1920.
+  sha256: 382525e8caaf70364e7d3d5d5d6de6fd517d126b6bbbf0276b20d611873f6288
+  passage_count: 153
+- path: texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+  source_text_id: egyptian.budge.egyptian_ideas_future_life.gutenberg
+  title: Egyptian Ideas of the Future Life
+  tradition: egyptian
+  culture: ancient_egyptian_funerary_religion_modern_scholarship
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Budge's study of Egyptian
+      afterlife belief, quoting translated funerary passages; clean plain text.
+  sha256: 5752d32e02267f267414faac8ed73bf52aa19476a35b34ba9d92cb8d1b3acc77
+  passage_count: 51
+- path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  source_text_id: georgian.georgian_folk_tales.wardrop_gutenberg
+  title: Georgian Folk Tales
+  tradition: georgian
+  culture: georgian_folk_tale_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; translator
+      Marjory Wardrop died 1909.
+  sha256: c43a97e0ed642e0562a246bac4621c9f6dc510184fa6b9623290af60fbd7d6cd
+  passage_count: 69
+- path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  source_text_id: greek.euripides.bacchae.murray_gutenberg
+  title: The Bacchae of Euripides
+  tradition: greek
+  culture: ancient_greek_tragedy_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status; Murray's verse translation.
+  sha256: e0b3ea588ef4361a0f541c72e8b592ed6337d976060d4896c6b732ea6c2671ce
+  passage_count: 92
+- path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  source_text_id: greek.pindar.odes.myers_gutenberg
+  title: The Extant Odes of Pindar
+  tradition: greek
+  culture: ancient_greek_choral_poetry_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status; Myers's complete prose
+      translation of the four books of victory odes.
+  sha256: 7009dacd2872aeef9082d468f0c1e82c25c43312b8f41bca90e1e096dd675b23
+  passage_count: 77
+- path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  source_text_id: greek.homeric_hymns.lang_gutenberg
+  title: The Homeric Hymns
+  tradition: greek
+  culture: archaic_greek_hymnody_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status; Lang's prose translation
+      with introductory essays on each hymn.
+  sha256: 2c7690656a7be444f6069a984af490996851146531bc6a3de262bcbfe555db01
+  passage_count: 65
+- path: texts/public-domain/greek/project-gutenberg/house-of-atreus-aeschylus-morshead.md
+  source_text_id: greek.aeschylus.house_of_atreus.morshead_gutenberg
+  title: The House of Atreus; Being the Agamemnon, the Libation Bearers, and the Furies
+  tradition: greek
+  culture: ancient_greek_tragedy_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status; Morshead's translation
+      of the complete Oresteia trilogy.
+  sha256: 1a544d99d512d5f6a11fda8dc3bb94c6c230254077ce653f918a4247f92c1a53
+  passage_count: 36
+- path: texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md
+  source_text_id: greek.modern_greek_folklore.lawson_gutenberg
+  title: 'Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals'
+  tradition: greek
+  culture: modern_greek_folklore_and_survivals_study
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; author
+      J. C. Lawson, Cambridge University Press 1910.
+  sha256: 91bacd644387f3e08cca0ee5eade33a3883a7114d3621ebca2de62672a91b4c3
+  passage_count: 300
+- path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  source_text_id: greek.plutarch.morals.shilleto_gutenberg
+  title: Plutarch's Morals
+  tradition: greek
+  culture: greco_roman_philosophical_essays_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. This is Shilleto's selection
+      of the Moralia ethical essays; it does NOT include the separate "Isis and Osiris"
+      treatise, which was sought but has no standalone public-domain Gutenberg text.
+  sha256: 7e82a2fa76a7de543afb0cb65233ca62283ed95f381fcf123b0c41342cb53032
+  passage_count: 190
+- path: texts/public-domain/greek/project-gutenberg/prometheus-bound-seven-against-thebes-aeschylus-buckley.md
+  source_text_id: greek.aeschylus.prometheus_bound.buckley_gutenberg
+  title: Aeschylus' Prometheus Bound and the Seven Against Thebes
+  tradition: greek
+  culture: ancient_greek_tragedy_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status; Buckley's literal prose
+      translation.
+  sha256: 6c7900c1bc3bcf45ce70b474826d3ead4876d941dd1de44a2c76bfb42b2f5f57
+  passage_count: 32
+- path: texts/public-domain/hindu/project-gutenberg/maha-bharata-dutt.md
+  source_text_id: hindu.mahabharata.dutt_condensed_gutenberg
+  title: Maha-bharata
+  tradition: hindu
+  culture: classical_hindu_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Dutt's
+      1899 condensation is long out of copyright. Distinct work from the Ganguli prose
+      translation - a compact verse rendering of the core episodes.
+  sha256: 538356791bb26c00657577b101c5a78d83deb80e6d5a4f7dbc7f626417ef9856
+  passage_count: 59
+- path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  source_text_id: hindu.mahabharata.ganguli_vol1_gutenberg
+  title: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  tradition: hindu
+  culture: classical_hindu_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Ganguli's
+      1883-1896 translation is long out of copyright. This is Volume 1 of the complete
+      prose Mahabharata; further volumes exist as separate PG ebooks.
+  sha256: 20e70176d1996bbb30a4f32248722c2e6a8a093a0579a17f0b32daa27c5ba69d
+  passage_count: 926
+- path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  source_text_id: hindu.ramayana.valmiki_griffith_gutenberg
+  title: The Rámáyan of Válmíki, translated into English verse
+  tradition: hindu
+  culture: classical_hindu_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Griffith's
+      1870-1874 verse translation is long out of copyright.
+  sha256: 441dd3acb54adff6ec9312d815d6af4c67ba05703ed30fa862dffb77e3492cae
+  passage_count: 507
+- path: texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita-arnold.md
+  source_text_id: hindu.bhagavad_gita.arnold_song_celestial_gutenberg
+  title: The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata)
+  tradition: hindu
+  culture: classical_hindu_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Arnold's
+      1885 translation is long out of copyright. Use outside the USA requires jurisdiction-specific
+      review.
+  sha256: 19494f064d2ba8334a45b9ce428a81c0ecbcf27cb90b3cf8f3e9a9f10458852d
+  passage_count: 30
+- path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  source_text_id: japanese.kwaidan.hearn_gutenberg
+  title: 'Kwaidan: Stories and Studies of Strange Things'
+  tradition: japanese
+  culture: japanese_ghost_lore_literary_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Hearn's
+      1904 collection is long out of copyright. Retellings of Japanese oral tales
+      gathered by Hearn.
+  sha256: f5038dab0b81feb2b9719da904c9e948d6224e7d9d8bbadd1196287f993387e3
+  passage_count: 53
+- path: texts/public-domain/mesopotamian/project-gutenberg/religion-of-babylonia-and-assyria-jastrow.md
+  source_text_id: mesopotamian.jastrow.religion_babylonia_assyria.gutenberg
+  title: The Religion of Babylonia and Assyria
+  tradition: mesopotamian
+  culture: ancient_mesopotamian_religion_modern_scholarship
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status. Jastrow's systematic
+      study quoting translated hymns, myths, and incantations; clean plain text.
+  sha256: bf3b96f873d6c036e046941a063d7bee448abd8b63ff26a727a407b69e535f3d
+  passage_count: 4
+- path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  source_text_id: norse.heimskringla.laing_gutenberg
+  title: Heimskringla; Or, The Chronicle of the Kings of Norway
+  tradition: norse
+  culture: old_norse_kings_sagas
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; Snorri
+      Sturluson's kings' sagas in Laing's classic translation.
+  sha256: 5fd1c9f9a3d7365a24805a1e083c0668795aa73e8817d1f8b1eb5e252fa6db2f
+  passage_count: 323
+- path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  source_text_id: norse.laxdaela_saga.press_gutenberg
+  title: Laxdaela Saga
+  tradition: norse
+  culture: icelandic_family_saga
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; classic
+      Icelandic family saga.
+  sha256: 14804339c413411bc9d0bad453763de8b1d846afd6e880f64adf503dabb0deb6
+  passage_count: 121
+- path: texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md
+  source_text_id: roman.virgil.georgics.rhoades_gutenberg
+  title: The Georgics
+  tradition: roman
+  culture: ancient_roman_didactic_poetry_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status; Rhoades's verse translation.
+      Book IV contains the Aristaeus/Orpheus-and-Eurydice descent narrative.
+  sha256: c366ac324ace81f2a7f25a3d79b88cd8bc7f3d898d4991e69b2dc304c725e460
+  passage_count: 24
+- path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  source_text_id: roman.apuleius.golden_ass.adlington_gutenberg
+  title: The Golden Asse
+  tradition: roman
+  culture: ancient_roman_novel_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status; Adlington's 1566 Tudor
+      prose. Contains the Cupid and Psyche tale and the climactic Isis initiation.
+  sha256: 788a6c3fe2aa58c3060d97a220a1d48f67e6a0856702ae4737f8c9d6aff319bd
+  passage_count: 105
+- path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  source_text_id: roman.lucretius.nature_of_things.leonard_gutenberg
+  title: On the Nature of Things
+  tradition: roman
+  culture: ancient_roman_philosophical_poetry_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg records US public-domain status; Leonard's verse translation
+      of the six books.
+  sha256: a8bb406d4caa99cfcd7f5714286f2dc2a499dc91e65b38ed77bdd7fc33fa54b8
+  passage_count: 101
+- path: texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md
+  source_text_id: polynesian.samoa_hundred_years_ago.turner_gutenberg
+  title: Samoa, A Hundred Years Ago And Long Before
+  tradition: samoan
+  culture: samoan_oral_tradition_missionary_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1884, US public domain (Project Gutenberg catalog). Turner was
+      a London Missionary Society missionary of many decades. This is ETHNOGRAPHIC
+      PARAPHRASE recording Samoan gods (aitu), creation traditions, proverbs, and
+      village religion, with some recorded songs and sayings. Missionary framing must
+      not be extracted as Samoan self-description.
+  sha256: 227bfbd7b7a9fd078d5250d92c30a5368e452bbaab65c7b28c2622c3131d96fc
+  passage_count: 81
+- path: texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md
+  source_text_id: slavic.fairy_tales_slav_peasants.chodzko_gutenberg
+  title: Fairy Tales of the Slav Peasants and Herdsmen
+  tradition: slavic
+  culture: west_slavic_folk_tale_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; collected
+      by Alexander Chodzko, translated by Emily J. Harding.
+  sha256: e48beb3ab14763f3f41244cb6a02ed0f6fded73017362b36749ac4cba1f961e8
+  passage_count: 70
+- path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  source_text_id: slavic.sixty_folk_tales_slavonic.wratislaw_gutenberg
+  title: Sixty Folk-Tales from Exclusively Slavonic Sources
+  tradition: slavic
+  culture: pan_slavic_folk_tale_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA; draws
+      on Czech, Slovak, Polish, Serbian, Bulgarian and other Slavic sources.
+  sha256: 49b5b5abc272ef8e9e97f57adb5d184a67a6add273816cac6442e9ec640aeae2
+  passage_count: 152
+- path: texts/public-domain/temne/project-gutenberg/cunnie-rabbit-cronise-ward.md
+  source_text_id: african.cunnie_rabbit_temne.cronise_ward_gutenberg
+  title: 'Cunnie Rabbit, Mr. Spider and the Other Beef: West African Folk Tales'
+  tradition: temne
+  culture: sierra_leone_oral_narrative_dialect_verbatim
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1903, US public domain (Project Gutenberg catalog). The tales
+      are rendered in a dialect transcription (Sierra Leone Krio) close to how tellers
+      spoke, so this leans verbatim rather than paraphrase, but the eye-dialect spelling
+      and framing dialogue reflect the collectors' early-20th-century approach and
+      colonial-era attitudes. Trickster corpus (Cunnie Rabbit, Spider) of the Temne
+      and neighbouring peoples.
+  sha256: 793525208d91c13e11f856e1d12d44b7415d605936b901c9686b622559ce8763
+  passage_count: 73
+

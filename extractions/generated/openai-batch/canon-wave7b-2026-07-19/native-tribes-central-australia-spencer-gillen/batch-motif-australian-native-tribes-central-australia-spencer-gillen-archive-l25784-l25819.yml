@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l25784-l25819
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: CLOTHING, WEAPONS, IMPLEMENTS, ETC. 615 / CLOTHING, WEAPONS, IMPLEMENTS,
+    ETC. 617 / CLOTHING, WEAPONS, IMPLEMENTS. ETC. / ARUNTA TRIBE.; lines 25784-25819
+  start: '25784'
+  end: '25819'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: They will not be allowed to take part in the actual performance until they
+    are initiated.
+  summary: The passage describes Arunta corroboree helmet and body decorations, including
+    feathers, grass structures, colored plant down, designs across the nose and eyes,
+    and human blood used to affix the down. A figure caption describes an old man
+    instructing boys how to perform a corroboree and notes that the boys cannot participate
+    in the actual performance until initiated.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The top of the helmet may be decorated with eagle-hawk feathers or with a
+    semicircular grass-stalk structure bound with hair-string and fitted with tail-tips
+    at each end.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The helmet always has a design drawn in down made from involucral hairs of
+    a species of Portulaca and colored red, white, or yellow.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The helmet design almost always includes a band crossing the bridge of the
+    nose and enclosing the eyes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The down is affixed by means of human blood.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Various designs are drawn on the body, and for each AltJierta there is a regular
+    series of helmets and body patterns of particular design.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An old man is shown instructing boys how to perform a corroboree; the boys
+    are not allowed to take part in the actual performance until initiated.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The lines of decoration are almost always made from closely adjacent spots.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Old man
+  description: An old man instructing boys how to perform a corroboree.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Boys
+  description: Boys receiving instruction in how to perform a corroboree; they are
+    not allowed to take part in the actual performance until initiated.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ritual instructor
+  assigned_to:
+  - fig:1
+  basis: The figure caption identifies the old man as instructing boys how to perform
+    a corroboree.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: uninitiated learners
+  assigned_to:
+  - fig:2
+  basis: The caption states that the boys are being instructed but will not be allowed
+    to take part in the actual performance until initiated.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: decorated helmet
+  literal_form: Helmet decorated with feathers or a grass-stalk structure and marked
+    with colored down designs.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: eagle-hawk feathers
+  literal_form: Bunch of eagle-hawk feathers used as helmet decoration.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: colored down designs
+  literal_form: Down made from Portulaca hairs, colored red, white, or yellow, drawn
+    on helmet and body.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: nose-and-eye band
+  literal_form: Band of down passing across the bridge of the nose and enclosing the
+    eyes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: human blood adhesive
+  literal_form: Human blood used to affix down decoration.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: spotted decoration lines
+  literal_form: Lines of decoration made of closely placed spots.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Preparation of corroboree helmet and body decoration
+  summary: The passage describes the materials and designs used for Arunta corroboree
+    helmets and body patterns, including feathers, grass-stalk structures, colored
+    plant down, human blood as adhesive, and spotted decorative lines.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Instruction before permitted performance
+  summary: An old man instructs boys how to perform a corroboree, while the caption
+    notes that the boys cannot take part in the actual performance until they are
+    initiated.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: initiation as prerequisite for ritual performance
+  taxonomy_refs:
+  - initiation
+  basis: The caption states that boys may be instructed in corroboree performance
+    but are not allowed to take part in the actual performance until they are initiated.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the prerequisite but does not describe the initiation
+    rite itself.
+- id: motif:2
+  label: prescribed ceremonial adornment pattern
+  taxonomy_refs: []
+  basis: The passage describes regular helmet and body-pattern designs, specified
+    materials, colors, placement around the eyes and nose, and a repeated spotted
+    technique.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic ritual-pattern observation rather than a narrative
+    myth motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25784-25793
+  quote_or_summary: The helmet top is often decorated with eagle-hawk feathers or
+    with a semicircular grass-stalk structure bound with hair-string and tipped with
+    tail-tips.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 25794-25800
+  quote_or_summary: The helmet always bears a design in colored Portulaca down; the
+    design almost always includes a band across the bridge of the nose enclosing the
+    eyes.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: lines 25800-25802
+  quote_or_summary: This down is affixed, as usual, by means of human blood.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: figure caption within lines 25784-25819
+  quote_or_summary: Old man instructing boys how to perform a corroboree. They will
+    not be allowed to take part in the actual performance until they are initiated.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short quotation from figure caption.
+- id: ev:5
+  type: summary
+  locator: lines 25813-25819
+  quote_or_summary: The passage says that body designs are drawn, that each AltJierta
+    has a regular series of helmets and body patterns, and that decoration lines are
+    almost always made of closely adjacent spots.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, though line-level locators are approximate
+    within the supplied range. Motif candidates are limited because the passage is
+    primarily ethnographic description, not a myth narrative. No external comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The term AltJierta is retained as it appears in the supplied passage text. Symbols listed here are literal ceremonial objects, substances, and visual forms from the passage; no available symbol taxonomy reference clearly applies.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l25784-l25819
+  passage_sha256=ff8c462ffd0cc26fbc25609aec38f6faa13f7fee2872520ec42dbc80bda0aead
+

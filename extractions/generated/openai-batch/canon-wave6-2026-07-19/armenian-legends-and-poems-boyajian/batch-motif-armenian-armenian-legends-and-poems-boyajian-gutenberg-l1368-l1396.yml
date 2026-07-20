@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l1368-l1396
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: MOSES OF KHORENE / I HAVE A WORD I FAIN WOULD SAY / THE SONG OF THE PARTRIDGE
+    / FOLK SONG; lines 1368-1396
+  start: '1368'
+  end: '1396'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: The partridge rises from her nest
+  summary: 'A folk song describes a partridge at sunrise on a mountain: it leaves
+    its nest, moves down the hillside, greets flowers, sings from the mountainside
+    and a branch, and is praised for beauty, fragrance, cheer, and healing of sorrow.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The sun touches the mountain’s crest at the opening of the song.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A partridge rises from her nest and goes down the hillside.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The partridge greets flowers as she passes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A first-person speaker hears the partridge’s voice while eating breakfast
+    on a roof in the morning.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The partridge chirps from the mountainside.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The partridge’s nest is described as dewed by summer showers and adorned with
+    basil, narcissus, and lotus flowers.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The flowers around the nest are said to breathe perfumes of immortality to
+    the partridge.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The partridge is described with soft feathers, a small beak, a long neck,
+    and rare-colored wings.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The partridge is compared favorably in sweetness and fairness to a dove.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The little partridge flies aloft to a branch and warbles softly.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The partridge’s song cheers the world and heals the heart’s pain, expressed
+    through an image of seas of blood in the heart.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Partridge
+  description: A bird that rises from its nest, moves on the hillside, chirps or warbles,
+    and is praised for beauty and healing song.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: First-person speaker
+  description: A speaker who breakfasts on a roof in the morning and hears the partridge’s
+    voice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Dove
+  description: A bird used as a comparison for the partridge’s sweetness and fairness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: singing bird
+  assigned_to:
+  - fig:1
+  basis: The partridge chirps from the mountainside and warbles from a branch.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: cheerer and healer
+  assigned_to:
+  - fig:1
+  basis: The partridge is said to cheer the world and heal the heart’s smart.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: human hearer
+  assigned_to:
+  - fig:2
+  basis: The speaker hears the partridge while breakfasting on a roof.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: comparison bird
+  assigned_to:
+  - fig:3
+  basis: The dove is invoked only as a standard of sweetness and fairness surpassed
+    by the partridge.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Mountain at sunrise
+  literal_form: sun touching the mountain’s crest; mountainside and hillside
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Partridge nest
+  literal_form: nest dewed with summer showers and adorned with flowers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: Flowers around the nest
+  literal_form: basil, narcissus, lotus flowers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Dew and summer showers
+  literal_form: dew and summer showers on the nest
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Perfumes of immortality
+  literal_form: fragrance from flowers described as perfumes of immortality
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Branch
+  literal_form: branch on which the partridge alights and sings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: Seas of blood in the heart
+  literal_form: image of seas of blood welling in the heart
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Partridge at mountain sunrise
+  summary: At sunrise on the mountain, the partridge rises from her nest, descends
+    the hillside, and greets flowers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Speaker hears the partridge
+  summary: The speaker breakfasts on a roof in the morning and hears the partridge
+    chirping from the mountainside.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Nest and beauty praised
+  summary: The song describes the partridge’s dewed, flower-decorated nest and praises
+    the bird’s body, feathers, coloring, and fairness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Healing song from the branch
+  summary: The partridge flies to a branch, warbles, cheers the world, and heals the
+    heart’s pain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Birdsong as healing or consolation
+  taxonomy_refs: []
+  basis: The partridge’s warbling is said to cheer the world and heal the smart of
+    the heart.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a lyric image rather than a developed mythic narrative.
+- id: motif:2
+  label: Dawn bird rising from a mountain nest
+  taxonomy_refs:
+  - ascent
+  basis: The song opens with sunrise on the mountain, the partridge rising from her
+    nest, and later flying aloft to a branch.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The ascent reference is literal and modest; the passage does not frame
+    the movement as a ritual or cosmic ascent.
+- id: motif:3
+  label: Fragrant flowered nest with immortality imagery
+  taxonomy_refs: []
+  basis: The nest is described as dewed with summer showers, decorated with basil,
+    narcissus, and lotus, and breathing perfumes of immortality.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The immortality language appears as poetic praise; the passage gives no
+    explicit afterlife or divine context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1372-1375
+  quote_or_summary: "“The sun has touched the mountain’s crest, / The partridge rises
+    from her nest; / And down the hillside tripping fast, / Greets all the flowers
+    as she goes past.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1377-1380
+  quote_or_summary: "“I breakfast on my roof at morn” and hear her voice as she chirps
+    from the mountain side."
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1382-1385
+  quote_or_summary: The nest is dewed with summer showers; basil, narcissus, and lotus
+    flowers adorn it and breathe “Perfumes of immortality.”
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1387-1390
+  quote_or_summary: The partridge is described as having soft feathers, a small beak,
+    a long neck, rare-colored wings, and greater sweetness and fairness than a dove.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1392-1395
+  quote_or_summary: The little partridge flies aloft to a branch, warbles softly,
+    cheers the world, and heals the heart when “seas of blood” well there.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is a brief folk lyric with poetic images rather than an extended mythic
+    narrative. No passage-supported external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; available taxonomy references applied only where directly supported by passage language.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l1368-l1396
+  passage_sha256=42512c2356e86d49f53a18aa8cfd17f8568cc019c19b8ed6d68d6cf2c86e550e
+

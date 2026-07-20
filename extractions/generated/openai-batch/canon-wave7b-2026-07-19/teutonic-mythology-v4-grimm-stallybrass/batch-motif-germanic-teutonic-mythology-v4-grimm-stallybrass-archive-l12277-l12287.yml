@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l12277-l12287
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: DAY   AND    NIGHT.  1521 / DAT   AND    NIGHT.  1523 / CHAPTEE  XXIV. /
+    SUMMER    AND   WINTER.  1525; lines 12277-12287
+  start: '12277'
+  end: '12287'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Both seasons come and go
+  summary: The passage lists medieval and related expressions for spring through flowers,
+    notes personal or affectionate adjectives applied to spring and especially summer,
+    contrasts winter with harsher epithets, and cites a line in which winter goes
+    and summer returns.
+  language: English with German, Latin, and French citations
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Spring is represented through phrases connected with flowers springing or
+    blooming.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says some adjectives for spring and summer are more vividly personal,
+    including expressions for long spring and dear, blessed, or holy summer.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Winter is explicitly set in opposition to the favorable summer expressions
+    and is cited with harsher epithets.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the seasons come and go, and gives a cited line in
+    which winter goes and summer returns.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Spring
+  description: A season named in phrases associated with the springing of flowers
+    and with the adjective 'long' in a cited expression.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Summer
+  description: A season described by affectionate or elevated adjectives such as dear,
+    blessed, and holy, and stated in a cited line to return.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Winter
+  description: A season opposed to the favorable summer expressions and stated in
+    a cited line to go away.
+  role_refs:
+  - role:1
+  - role:4
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: named season
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage discusses spring, summer, and winter as named seasons in cited
+    expressions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: personally or affectively characterized season
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage explicitly introduces 'more vividly personal' adjectives for
+    spring and summer expressions.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: season in alternation
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage states that the seasons come and go, with winter going and summer
+    returning in the cited line.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: opposed harsh season
+  assigned_to:
+  - fig:3
+  basis: Winter is introduced as opposed to the preceding favorable summer expressions
+    and is cited with harsher epithets.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: flowers as sign of spring
+  literal_form: flowers / bluomen / flos
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Spring and summer described through cited phrases
+  summary: The passage gives expressions for spring through flowers and then lists
+    personal or affectionate adjectives applied to spring and summer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Opposition and alternation of summer and winter
+  summary: Winter is set against summer, and the passage states that winter goes while
+    summer returns in a cited line.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: seasonal alternation of winter and summer
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that both seasons come and go and cites a line in which
+    winter goes and summer returns.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is a philological list of expressions rather than a narrative
+    myth.
+- id: motif:2
+  label: 'opposed seasons: summer and winter'
+  taxonomy_refs:
+  - duality
+  - seasonal_cycle
+  basis: Winter is explicitly opposed to favorable summer expressions, and the two
+    seasons are paired in a go-and-return sequence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No mythic battle or personified conflict is narrated in this passage.
+- id: motif:3
+  label: affective personification of seasons
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage identifies adjectives for spring and summer as 'more vividly
+    personal' and lists affectionate or elevated descriptions of summer.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The personification is linguistic and adjectival; the seasons are not
+    shown acting except in the conventional coming-and-going formula.
+comparison_claims:
+- id: claim:1
+  claim: The cited Old French line from Orange and the surrounding Germanic examples
+    share the function of expressing seasonal alternation through winter's departure
+    and summer's return.
+  claim_level: same_function
+  target: 'Old French Orange citation: winter goes and summer returns'
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies only a brief citation and does not establish historical
+    contact or a shared narrative tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12277-12280
+  quote_or_summary: Spring is expressed by phrases involving flowers springing or
+    blooming, with German and Latin examples such as bluomen and flos.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 12280-12285
+  quote_or_summary: The passage calls some adjectives 'more vividly personal' and
+    gives examples including long spring and dear, blessed, or holy summer.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: summary
+  locator: lines 12285-12286
+  quote_or_summary: Winter is introduced as opposed to the favorable summer expressions
+    and is cited with harsher epithets.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:4
+  type: quote
+  locator: lines 12286-12287
+  quote_or_summary: '"Both seasons come and go"; the cited line says that winter will
+    go and summer will return.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is primarily philological and not a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol reference was assigned for flowers because the available symbol list does not include flowers.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l12277-l12287
+  passage_sha256=1c38608c860d06bee5eff55657bfa22b750d5d2f6493229d24c0257d5693bd41
+

@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l22268-l22316
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: LEGAL TEXTS / I. A KUDURRU, OR BOUNDARY STONE / II USH, X GAR / II US X GAR;
+    lines 22268-22316
+  start: '22268'
+  end: '22316'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: Whoever removes this stone
+  summary: A kudurru or boundary-stone curse threatens anyone who removes, hides,
+    burns, casts into water, encloses, or otherwise conceals the stone. The great
+    gods named on the stone are invoked to curse the offender, tear out his foundation,
+    and destroy his seed. The passage then records people present at the sealing of
+    the tablet and dates it to the sixteenth year of Nebuchadrezzar.
+  language: English translation with Akkadian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage begins within a curse formula that says the offender's root may
+    be burned.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The conditional offender is anyone who removes the stone and hides it in dust.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The listed ways of treating the stone include burning it with fire, casting
+    it into water, and shutting it in an enclosure.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The listed acts also include causing a fool, deaf man, or idiot to take the
+    stone, and placing it in an unseen place.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The great gods whose names are mentioned on the stone are invoked to curse
+    the offender with an evil curse.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The curse says the offender's foundation is to be torn out and his seed destroyed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: At the sealing of the tablet, a list of named officials and witnesses is recorded
+    as present.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The date given is the sixteenth year of Nebuchadrezzar.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Conditional offender
+  description: The unnamed person described as whoever removes, hides, burns, casts
+    into water, encloses, transfers, or conceals the stone.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Great gods named on the stone
+  description: The collective divine figures whose names are said to be mentioned
+    on the stone and who are invoked to curse the offender.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Named people present at the sealing
+  description: Named officials and witnesses recorded as present at the sealing, including
+    Shamash-nasir, Kububu, Shi-tariba, Takishu, Atu'u, Rimut-Gula, Nabunna, Kasshu,
+    Sin-zer-ibni, Pirsha, Amel-Ishin, Kashshu, Gula-zer-ikisha, and Nabu-zer-lishir,
+    with offices, filiations, and associations given in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Nebuchadrezzar
+  description: The ruler named in the date formula, whose sixteenth year dates the
+    text.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: conditional boundary-stone violator
+  assigned_to:
+  - fig:1
+  basis: The passage introduces the offender by the conditional formula 'whoever'
+    and lists actions against the stone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: invoked divine punishers
+  assigned_to:
+  - fig:2
+  basis: The great gods named on the stone are invoked to curse the offender and destroy
+    his foundation and seed.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: sealing attendees or witnesses
+  assigned_to:
+  - fig:3
+  basis: The passage lists these named people as present at the sealing of the tablet.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: regnal-year date figure
+  assigned_to:
+  - fig:4
+  basis: The text is dated to the sixteenth year of Nebuchadrezzar.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Boundary stone or kudurru
+  literal_form: stone
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Fire
+  literal_form: fire used to burn the stone; curse wording also mentions burning the
+    offender's root
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Water
+  literal_form: water into which the stone may be cast
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Enclosure and unseen place
+  literal_form: an enclosure and an invisible or unseen place where the stone may
+    be shut up or placed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: Divine names on the stone
+  literal_form: names of the great gods mentioned on the stone
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Foundation and seed in curse wording
+  literal_form: foundation to be torn out and seed to be destroyed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Sealed tablet
+  literal_form: tablet at the sealing
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Threatened acts against the boundary stone
+  summary: 'The passage lists possible violations against the stone: removal, hiding
+    in dust, burning with fire, casting into water, shutting in an enclosure, transfer
+    through an impaired intermediary, and placement in an unseen place.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Divine curse on the offender
+  summary: The great gods named on the stone are invoked to curse the offender with
+    an evil curse, tear out his foundation, destroy his seed, and the passage also
+    includes the curse wording of burning his root.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:3
+  label: Sealing, witnesses, and date
+  summary: The text records named people present at the sealing of the tablet and
+    gives the date as the sixteenth year of Nebuchadrezzar.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine curse sanction for tampering with a boundary stone
+  taxonomy_refs:
+  - divine_judgment
+  basis: Anyone who removes or conceals the stone is subjected to a curse by the great
+    gods named on the stone, including destruction of foundation and seed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a legal curse formula rather than a narrative myth episode.
+- id: motif:2
+  label: Inscribed object protected by divine names
+  taxonomy_refs: []
+  basis: The stone bears the names of the great gods, and those gods are invoked as
+    the agents of the curse against the violator.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states the divine names and sanction but does not describe
+    iconography or a full ritual procedure.
+- id: motif:3
+  label: Destruction of root, foundation, and seed as curse language
+  taxonomy_refs: []
+  basis: The curse formula mentions burning the offender's root, tearing out his foundation,
+    and destroying his seed.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The wording is formulaic legal curse language; no broader mythic genealogy
+    or agricultural symbolism is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22268-22269
+  quote_or_summary: The curse formula includes wording that the offender's root may
+    be burned.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 22269-22275
+  quote_or_summary: The passage describes anyone who removes the stone, hides it in
+    dust, burns it with fire, casts it into water, or shuts it in an enclosure.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 22275-22279
+  quote_or_summary: The passage also mentions causing a fool, deaf man, or idiot to
+    take the stone, or placing it in a place where it cannot be seen.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 22279-22283
+  quote_or_summary: The great gods whose names are mentioned on the stone are invoked
+    to curse the offender with an evil curse, tear out his foundation, and destroy
+    his seed.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 22283-22296
+  quote_or_summary: At the sealing of the tablet, named officials and associates of
+    Bit-Sin-sheme are listed as present, from Shamash-nasir through Nabunna.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 22297-22316
+  quote_or_summary: Additional named people are listed as present, and the text is
+    dated to the sixteenth year of Nebuchadrezzar.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction relies mainly on the English translation in an interleaved
+    English/transliteration passage. Motif candidates are clear for divine legal curse
+    sanctions but should be reviewed because the passage is legal-formulaic, not narrative
+    mythology. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Literal legal actions, curse wording, and witness/date material are kept separate from motif interpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l22268-l22316
+  passage_sha256=f01702aad7a7623985bb78741738ce9f787f2ee1be3f311223887adf0cfabfc1
+

@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l19601-l19715
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: U ' AAAAAA / DESTRUCTION OF MANKIND / DESTRUCTION OF MANKIND / DESTRUCTION
+    OF MANKIND; lines 19601-19715
+  start: '19601'
+  end: '19715'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"I slew them, [but] there remain..."'
+  summary: In a fragment headed "Destruction of Mankind," mankind is linked with the
+    festival of Hathor. Ra speaks to a goddess and describes a painful fiery sickness.
+    Ra then says he lives, but his heart is weary of being with them; he has slain
+    them, yet some worthless ones remain because the destruction was not as extensive
+    as his power. Gods in his train speak briefly.
+  language: English with Egyptian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed "Destruction of Mankind."
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mankind is mentioned in connection with the festival of Hathor from the first
+    day.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ra speaks to a goddess and says that a pain of fire and sickness has come
+    upon him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ra asks where the pain comes from.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ra says he lives, but his heart is very weary of being with them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ra says that he slew them, but some worthless ones remain.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ra says the destruction was not as wide-spreading as his power.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Gods in Ra's train speak the words rendered "Tarry not."
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ra
+  description: The majesty of Ra speaks, says he lives, describes weariness, and states
+    that he slew them.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Hathor
+  description: Named in connection with the festival of Hathor and referred to as
+    a goddess in the surrounding speech frame.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: mankind
+  description: Mentioned in the heading and in relation to Hathor's festival; also
+    the apparent object of destruction in the passage heading.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: gods in Ra's train
+  description: Gods described as being in Ra's train and speaking briefly.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: divine speaker
+  assigned_to:
+  - fig:1
+  basis: Ra is repeatedly introduced as speaking in the passage.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: destroyer or slayer
+  assigned_to:
+  - fig:1
+  basis: Ra states, "I slew them," and speaks of the extent of destruction relative
+    to his power.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: goddess associated with festival
+  assigned_to:
+  - fig:2
+  basis: The passage mentions the festival of Hathor and has Ra address a goddess.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: collective object of destruction
+  assigned_to:
+  - fig:3
+  basis: The heading names the destruction of mankind, and Ra says he slew them while
+    some remain.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:5
+  label: divine attendants
+  assigned_to:
+  - fig:4
+  basis: The gods are described as being in Ra's train.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: pain of fire of sickness
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: festival of Hathor
+  literal_form: festival of Hathor
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: destruction of mankind
+  literal_form: destruction of mankind
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ra addresses a goddess about fiery sickness
+  summary: Ra speaks to a goddess and says a pain of fire and sickness has come upon
+    him, asking where the pain comes from.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Ra describes incomplete destruction
+  summary: Ra says he lives but is weary of being with them; he says he slew them,
+    yet some remain because the destruction was not as wide-spreading as his power.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Gods in Ra's train respond
+  summary: The gods who are in Ra's train speak the words rendered "Tarry not."
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine destruction of mankind
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage is headed "Destruction of Mankind," and Ra says he slew them,
+    though some remain and the destruction did not match the full extent of his power.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The excerpt does not state the full cause or moral logic of the destruction;
+    assigning the taxonomy family "divine_judgment" is based on divine agency and
+    destruction, not an explicit judgment scene in this fragment.
+- id: motif:2
+  label: incomplete annihilation by a deity
+  taxonomy_refs:
+  - annihilation_union
+  basis: Ra states that he slew them but that some remain, and that the destruction
+    was not as wide-spreading as his power.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The available taxonomy label is only a partial fit; the passage supports
+    incomplete destruction but does not describe union.
+- id: motif:3
+  label: divine affliction by fiery sickness
+  taxonomy_refs: []
+  basis: Ra states that a pain of fire and sickness has come upon him and asks where
+    the pain comes from.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief statement of affliction and does not explain
+    its source or outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 19601-19715
+  quote_or_summary: 'Heading: "DESTRUCTION OF MANKIND".'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 19601-19715
+  quote_or_summary: The passage mentions the festival of Hathor by mankind since the
+    first day.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 19601-19715
+  quote_or_summary: 'Ra says to the goddess: "Behold a pain of fire of sickness hath
+    come [on me], whence, O whence is the pain?"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 19601-19715
+  quote_or_summary: 'Ra says: "I live. [but] my heart is very weary of being with
+    them."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 19601-19715
+  quote_or_summary: 'Ra says: "I slew them, [but] there remain... the worthless, for
+    not was the destruction as wide-spreading [as] my power."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 19601-19715
+  quote_or_summary: The gods who were in Ra's train speak the words rendered "Tarry
+    not."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized with brief quoted phrase.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is fragmentary and contains transliteration with English glosses;
+    figure and motif extraction is limited to the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make a comparative claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l19601-l19715
+  passage_sha256=cdb5109dedbaf868cadcfb394097bc1e669a015dcaf77945293715b6401360ff
+

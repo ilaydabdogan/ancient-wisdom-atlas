@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l11343-l11390
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: ARTICLES  USED  IN  SUN / ^--# / BUREAU   OF  AMEBICAN  ETHNOLOGY / BUBEAU  OF  AMEBICAK  ETHNOLOGY;
+    lines 11343-11390
+  start: '11343'
+  end: '11390'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives musical metadata and analysis for No. 35, a dancing song
+    sung by Oiya'ka. It then states that men danced through the night with intervals
+    of rest, and that at sunrise on the second day the Intercessor greeted the sun
+    with a song, identified as No. 36, Song at Sunrise, sung by Red Bird.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: No. 35 is identified as a dancing song sung by Oiya'ka.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The melody of No. 35 is analyzed as having many progressions, a compass of
+    13 tones, and a steadily downward trend.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In some parts of No. 35 the drum and voice coincided, while in other parts
+    the drumbeat was slightly hastened and did not relate to the voice.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The men danced all night, with intervals of rest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: As the sun rose on the second day, the Intercessor greeted it with a song.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: No. 36 is identified as Song at Sunrise, sung by Red Bird.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Oiya'ka
+  description: Named singer of No. 35, a dancing song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: men
+  description: Group who danced all night with intervals of rest.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Intercessor
+  description: Ceremonial figure who greeted the rising sun with a song on the second
+    day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: sun
+  description: The sun rose on the second day and was greeted by the Intercessor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Red Bird
+  description: Named singer of No. 36, Song at Sunrise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage identifies Oiya'ka as singing No. 35 and Red Bird as singing
+    No. 36.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: night dancers
+  assigned_to:
+  - fig:2
+  basis: The men are described as dancing all night with intervals of rest.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: sunrise greeter
+  assigned_to:
+  - fig:3
+  basis: The Intercessor greets the sun with a song as it rises.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: greeted celestial body
+  assigned_to:
+  - fig:4
+  basis: The sun is the object greeted by the Intercessor at sunrise.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sunrise sun
+  literal_form: sun rising on the second day
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: drum and voice
+  literal_form: drumbeat and voice in the dancing song
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sunrise song
+  literal_form: song used by the Intercessor to greet the rising sun
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Musical analysis of the dancing song
+  summary: The passage presents No. 35 as a dancing song and analyzes its melodic
+    range, downward trend, and the relation between drumbeat and voice.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Night dance before sunrise
+  summary: The men dance throughout the night, with intervals of rest.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Greeting the sun with song
+  summary: At sunrise on the second day, the Intercessor greets the sun with a song;
+    the following song is identified as No. 36, Song at Sunrise, sung by Red Bird.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: night-long ceremonial dance followed by sunrise song
+  taxonomy_refs: []
+  basis: The passage states that men danced all night and that, as the sun rose on
+    the second day, the Intercessor greeted it with a song.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage provides a brief ritual sequence but does not explain its
+    mythic meaning.
+- id: motif:2
+  label: ritual greeting of the rising sun
+  taxonomy_refs: []
+  basis: The Intercessor explicitly greets the sun with a song at sunrise.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader solar mythology or symbolic interpretation is supplied in this
+    excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11343-11354
+  quote_or_summary: No. 35 is presented as a dancing song, with Oiya'ka named as singer.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 11363-11374
+  quote_or_summary: The analysis describes the melody's numerous progressions, 13-tone
+    compass, downward trend, wide range, and changing relation of drumbeat to voice.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 11375-11379
+  quote_or_summary: "“All night the men danced... As the sun rose on the second day,
+    the Intercessor greeted it with the following song”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 11384-11390
+  quote_or_summary: No. 36 is labeled Song at Sunrise and is attributed as sung by
+    Red Bird.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the musical and ritual sequence. Motif labels
+    are descriptive and not linked to taxonomy refs because the excerpt does not provide
+    enough basis for broader classification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison to another tradition or motif family.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l11343-l11390
+  passage_sha256=64b264884937fb31480c7dfca38c4a04e73d4b685f34e2fa3787be30e8ca1d93
+

@@ -1,0 +1,184 @@
+---
+record_id: batch.motif.gnostic-mead-fragments-of-a-faith-forgotten-archive-l67-l101
+source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+passage_locator:
+  label: Fragments of a Faith Forgotten / SECOND    EDITION. / HERMES   THE   THRICE-GREATEST.;
+    lines 67-101
+  start: '67'
+  end: '101'
+  translation: Fragments of a Faith Forgotten
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: So understand the Light, He answered, and make friends with it.
+  summary: Front matter identifies the work as Fragments of a Faith Forgotten, gives
+    its subtitle, author, edition, publication places and publisher, date, and ends
+    with a brief saying about understanding the Light followed by the name or heading
+    Hermes the Thrice-Greatest.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents the title Fragments of a Faith Forgotten.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The subtitle describes the work as short sketches among the Gnostics of mainly
+    the first two centuries and as a contribution to the study of Christian origins
+    based on recently recovered materials.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage names G. R. S. Mead as the author and identifies the edition as
+    the second edition.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The publication information gives London and Benares, the Theosophical Publishing
+    Society, and the year 1906.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A quoted saying instructs someone to understand the Light and make friends
+    with it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage ends with the name or heading Hermes the Thrice-Greatest.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: G. R. S. Mead
+  description: Named as the author of the work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Hermes the Thrice-Greatest
+  description: Named or headed at the end of the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: He
+  description: An unnamed speaker in the quoted saying, described only as answering.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: author
+  assigned_to:
+  - fig:1
+  basis: The passage says the work is by G. R. S. Mead.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: named Hermetic figure or heading
+  assigned_to:
+  - fig:2
+  basis: The passage gives the name or heading Hermes the Thrice-Greatest.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: speaker in quoted saying
+  assigned_to:
+  - fig:3
+  basis: The quoted saying includes the phrase He answered.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Light
+  literal_form: Light
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Front matter and epigraph
+  summary: The passage supplies bibliographic title-page information and then presents
+    a brief quoted instruction to understand the Light and make friends with it, followed
+    by the name or heading Hermes the Thrice-Greatest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Understanding the Light
+  taxonomy_refs:
+  - wisdom
+  basis: The quoted saying makes Light the object of understanding and friendly relation.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is front matter and gives only a brief saying; it does not
+    elaborate a narrative wisdom motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 67-82
+  quote_or_summary: 'Title and subtitle: Fragments of a Faith Forgotten; sketches
+    among the Gnostics mainly of the first two centuries and a contribution to the
+    study of Christian origins based on recently recovered materials.'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 83-94
+  quote_or_summary: The work is by G. R. S. Mead, marked as the second edition, published
+    by the Theosophical Publishing Society in London and Benares, 1906.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 96-98
+  quote_or_summary: '"So understand the Light, He answered, and make friends with
+    it."'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: line 100
+  quote_or_summary: '"HERMES   THE   THRICE-GREATEST."'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Bibliographic and literal elements are clear; motif extraction is limited
+    because the passage is title-page material plus a brief epigraph.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims added because the passage itself does not provide enough explicit comparative framing beyond the title-page association with Hermes.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:gnostic-mead-fragments-of-a-faith-forgotten-archive__l67-l101
+  passage_sha256=75e330398bf0fc042152157f44f891caecc33bacd785561e5a39c63c6e71b00f
+

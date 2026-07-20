@@ -1,0 +1,421 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l4823-l4855
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: JUJUS  73 / JUJUS  75 / JUJUS  77 / JUJUS  79; lines 4823-4855
+  start: '4823'
+  end: '4855'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A chief orders people to catch Nshum with nets, but he escapes. Later,
+    lazy people gather in the bush and harm or drive away others. A hunter shoots
+    a creature in a great tree, identifies it as Nshum, and brings the body before
+    a charm and a Diviner. The Diviner declares that Nshum is no longer human but
+    a wild animal, so he may be killed and eaten. The passage explains this as the
+    reason Nshum became lawful to eat and why the name is applied to lazy people.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The head chief ordered people to take nets and catch Nshum, but he escaped
+    because he went too far away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: People did not want to kill Nshum at first because he was considered a man
+    like themselves, although described as very bad.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lazy people gathered in the bush, drove away good people who came near them,
+    and tried to harm them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A hunter saw a creature moving in the branches of a great tree, shot it, and
+    the creature was Nshum.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The hunter dragged Nshum's body home to town and brought it before the charm
+    and the Diviner.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The hunter described the body as a creature that had once been a man but had
+    become a bush-beast, and connected this change with laziness.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Diviner practised the charm and declared that Nshum was no longer human
+    but a wild animal, and that he could be killed and eaten.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that this event explains why eating Nshum is no longer
+    unlawful, although the name remains that of a person and is used for a lazy man.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Nshum
+  description: A being first treated as a man like other people, later described as
+    a creature, bush-beast, and wild animal; he is shot by a hunter and declared edible
+    by the Diviner.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Head chief
+  description: The chief who orders people to take nets and catch Nshum.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: People ordered to catch Nshum
+  description: The people instructed by the head chief to take nets and try to catch
+    Nshum.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Lazy people in the bush
+  description: A group of lazy people who gather in the bush and harm or drive away
+    good people.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Good people
+  description: People who go near the bush-dwelling lazy people and are driven away
+    or threatened with harm.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Hunter
+  description: A hunter who enters the bush, shoots Nshum in a great tree, and brings
+    the body to town before the charm and Diviner.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Diviner
+  description: The ritual specialist who practises the charm and declares Nshum no
+    longer human but an edible wild animal.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: ordering chief
+  assigned_to:
+  - fig:2
+  basis: The head chief commands people to take nets and catch Nshum.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pursued fugitive
+  assigned_to:
+  - fig:1
+  basis: Nshum is the target of a net-capture attempt and escapes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: former human declared wild animal
+  assigned_to:
+  - fig:1
+  basis: The hunter says Nshum was once a man and has become a bush-beast; the Diviner
+    says he is no longer human but a wild animal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: net-bearing pursuers
+  assigned_to:
+  - fig:3
+  basis: They are ordered to take nets and try to catch Nshum.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: harmful bush-dwellers
+  assigned_to:
+  - fig:4
+  basis: They gather in the bush, drive away good people, and try to harm them.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: threatened good people
+  assigned_to:
+  - fig:5
+  basis: They are driven away or threatened when they go near the lazy people in the
+    bush.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: hunter who kills and presents the body
+  assigned_to:
+  - fig:6
+  basis: The hunter shoots Nshum, drags the body home, and presents it before the
+    charm and Diviner.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:8
+  label: divinatory authority
+  assigned_to:
+  - fig:7
+  basis: The Diviner practises the charm and authorizes killing and eating Nshum.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: nets for capture
+  literal_form: nets
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bush as dwelling place of the lazy and harmful
+  literal_form: bush
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: great tree where Nshum is found
+  literal_form: great tree with branches
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: charm used for judgment or authorization
+  literal_form: charm
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Nshum name as label for laziness
+  literal_form: personal name "Nshum" applied to a lazy man
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Attempted capture by nets
+  summary: The head chief orders people to capture Nshum with nets, but Nshum escapes
+    beyond their reach.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lazy people gather in the bush
+  summary: Lazy people assemble in the bush, repel good people who approach, and try
+    to harm them.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hunter shoots Nshum in a tree
+  summary: A hunter enters the bush, sees a creature moving in a great tree, shoots
+    it, and the creature is Nshum.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Body brought before charm and Diviner
+  summary: The hunter brings Nshum's body to town, presents it before the charm and
+    Diviner, and says the creature was once human but became a bush-beast because
+    of laziness.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Diviner permits killing and eating
+  summary: After practising the charm, the Diviner declares Nshum no longer human
+    but a wild animal that may be killed and eaten; the passage gives this as the
+    origin of the permission to eat Nshum.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Human becomes bush-beast or wild animal
+  taxonomy_refs:
+  - shapeshifter
+  basis: Nshum is described as once a man but now a bush-beast, and the Diviner declares
+    him no longer human but a wild animal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage states a change of status or nature but does not narrate a
+    voluntary or magical shapeshifting act.
+- id: motif:2
+  label: Origin explanation for permission to eat a formerly forbidden being
+  taxonomy_refs: []
+  basis: The Diviner's declaration authorizes killing and eating Nshum, and the passage
+    explicitly says this is why eating Nshum is no longer unlawful.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is an etiological food-law pattern, but no matching taxonomy reference
+    was supplied.
+- id: motif:3
+  label: Ritual charm and diviner determine human or animal status
+  taxonomy_refs: []
+  basis: The hunter brings the body before the charm and Diviner; after practising
+    the charm, the Diviner declares Nshum a wild animal.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe the charm's mechanics or identify a deity
+    behind the judgment.
+- id: motif:4
+  label: Personal name becomes moral label for laziness
+  taxonomy_refs: []
+  basis: The passage says Nshum's name remains that of a person and may be applied
+    to a lazy man.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The name-use is explicit, but its broader proverbial or ritual function
+    is not explained in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4823-4826
+  quote_or_summary: The head chief orders people to take nets and catch Nshum; they
+    try, but he goes too far and escapes.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4828-4833
+  quote_or_summary: People initially do not want to kill Nshum because he is a man
+    like them, though bad; over time lazy people gather in the bush, drive away good
+    people, and try to harm them.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4835-4838
+  quote_or_summary: A hunter enters the bush, sees a creature in the branches of a
+    great tree, shoots it, and it is Nshum.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4840-4845
+  quote_or_summary: The hunter drags the body home, takes it before the charm and
+    Diviner, and says it was once a man but has become a bush-beast because of laziness.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4847-4851
+  quote_or_summary: The Diviner practises the charm and says Nshum is no longer human
+    but a wild animal, so he may be killed and eaten.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4853-4855
+  quote_or_summary: The passage explains this as the reason it is no longer unlawful
+    to eat Nshum; before the charm no one ate him, and his name is still used for
+    a lazy man.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif classification
+    is cautious because the passage gives an etiological explanation and a human-to-animal
+    status change, but does not provide broader comparative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare this account with another text, motif family, or nearby corpus tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l4823-l4855
+  passage_sha256=5999fef6b25ecba1cbfed1cb0d825f0e0836ff57ebbfeae3a467fe048848a326
+

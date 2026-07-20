@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l8905-l9003
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: AAAAAA / HYMN   TO    OSIRIS  167 / AAAAAA / P       1; lines 8905-9003
+  start: '8905'
+  end: '9003'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Isis, the strong one, the avenger of her brother. She sought him without
+    weariness
+  summary: The passage describes Isis as powerful in speech, exact in utterance, and
+    effective by decree and word. She is called strong and the avenger of her brother.
+    She searches for him tirelessly, goes around the earth in sorrow, does not alight
+    without finding him, and performs actions involving light from her hair or feathers,
+    wind from her wings, and cries.
+  language: English with Egyptian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Isis is described as having power of mouth, being perfect of tongue, not erring
+    in speech, and operating by decree and word.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Isis is called strong and the avenger of her brother.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Isis sought her brother without weariness.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Isis went around the earth in sorrow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that she did not alight without finding him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: She made light with her hair or feathers.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: She made wind with her wings and made cries; the end of the supplied excerpt
+    is incomplete after this point.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Isis
+  description: A strong female divine figure described as powerful in speech, the
+    avenger of her brother, and the one who seeks him.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: her brother
+  description: An unnamed brother of Isis in the supplied excerpt; he is the one whom
+    Isis avenges and seeks.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: effective speaker by decree and word
+  assigned_to:
+  - fig:1
+  basis: The passage attributes power of mouth, perfect tongue, unerring speech, and
+    operation by decree and word to Isis.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: strong one
+  assigned_to:
+  - fig:1
+  basis: Isis is explicitly called strong.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: avenger and seeker of her brother
+  assigned_to:
+  - fig:1
+  basis: Isis is called the avenger of her brother and is said to seek him without
+    weariness.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: sought brother
+  assigned_to:
+  - fig:2
+  basis: The brother is the object of Isis's vengeance and search.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: powerful mouth and perfect tongue
+  literal_form: mouth, tongue, speech, decree, and word
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: earth-circling search
+  literal_form: going round about this earth in sorrow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: light from hair or feathers
+  literal_form: light made with her hair or feathers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: wind from wings
+  literal_form: wind made with her wings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: cries
+  literal_form: cries made by Isis
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Isis characterized by efficacious speech
+  summary: Isis is described as powerful in mouth, perfect in tongue, unerring in
+    speech, and operating by decree and word.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Isis searches for her brother
+  summary: Isis, called the avenger of her brother, seeks him without weariness and
+    goes around the earth in sorrow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Isis uses hair or feathers, wings, and cries
+  summary: In the course of the search passage, Isis makes light with her hair or
+    feathers, makes wind with her wings, and makes cries; the supplied passage breaks
+    off after this wording.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine sibling avenger and seeker
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage explicitly identifies Isis as the avenger of her brother and
+    says she seeks him without weariness.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The brother is unnamed in the supplied excerpt, and the broader narrative
+    context is not used beyond the provided passage label and text.
+- id: motif:2
+  label: tireless quest around the earth
+  taxonomy_refs:
+  - mystical_quest
+  basis: Isis searches for her brother without weariness and goes around the earth
+    in sorrow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes a search but does not give a complete journey sequence
+    in the supplied excerpt.
+- id: motif:3
+  label: efficacious divine speech
+  taxonomy_refs:
+  - wisdom
+  basis: Isis is described as powerful of mouth, perfect of tongue, unerring in speech,
+    and operating by decree and word.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage emphasizes effective
+    utterance rather than an explicit wisdom teaching.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8905-9003
+  quote_or_summary: '"with the power of her mouth, perfect of tongue, not erring of
+    speech, operating by decree and word"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 8905-9003
+  quote_or_summary: '"Isis, the strong one, the avenger of her brother. She sought
+    him without weariness"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 8905-9003
+  quote_or_summary: '"she went round about this earth in sorrow, not alighted she
+    without finding him"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: lines 8905-9003
+  quote_or_summary: '"she made light with her hair (or, feathers)"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: lines 8905-9003
+  quote_or_summary: '"making to wind with [her] wings, she made cries become"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt quoted; supplied passage ends incompletely.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an interlinear excerpt with damaged or irregular formatting,
+    and the supplied text ends mid-phrase. Identification of Isis is explicit; the
+    brother is kept unnamed because the excerpt itself does not name him.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage text and metadata were used. No comparison claims were added because the passage does not itself provide an explicit comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l8905-l9003
+  passage_sha256=446af734027f0237d61350c7b27a92ec56e733f25d8fe9cebd7aff672b086fae
+

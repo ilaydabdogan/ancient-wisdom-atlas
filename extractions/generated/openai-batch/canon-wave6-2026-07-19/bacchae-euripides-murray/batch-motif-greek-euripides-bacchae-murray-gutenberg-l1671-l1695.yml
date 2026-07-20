@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1671-l1695
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: DIONYSUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 1671-1695
+  start: '1671'
+  end: '1695'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“I fain / Would watch, ambushed among the pines.”"
+  summary: In dialogue with Dionysus, Pentheus admits a strong desire to see an unnamed
+    group affected by wine, although he says the sight would grieve him. He says he
+    would watch while hidden among pines. Dionysus replies that hiding would be useless
+    because the group would track him out.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus says Pentheus has quickly fallen into a great longing.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pentheus says it would grieve him much to see the unnamed group “flown with
+    wine.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dionysus asks why Pentheus craves a sight that would grieve him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pentheus says he wants to watch while ambushed among pines.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Dionysus says hiding would be vain because the group will soon track Pentheus
+    out.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: A named speaker who questions Pentheus’s longing and warns that hiding
+    will be useless.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Pentheus
+  description: A named speaker, described in a stage direction as somewhat bewildered,
+    who wants to watch from concealment among pines.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Unnamed group referred to as “them” and “they”
+  description: A group Pentheus wants to see “flown with wine”; Dionysus says they
+    will track Pentheus out if he hides.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: warning interlocutor
+  assigned_to:
+  - fig:1
+  basis: Dionysus questions Pentheus’s desire and warns that concealment will not
+    succeed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: would-be hidden watcher
+  assigned_to:
+  - fig:2
+  basis: Pentheus states that he wants to watch while ambushed among pines.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: wine-affected group
+  assigned_to:
+  - fig:3
+  basis: Pentheus describes the group as “flown with wine.”
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: trackers of the hidden watcher
+  assigned_to:
+  - fig:3
+  basis: Dionysus says they will soon track Pentheus out.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: wine
+  literal_form: wine
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: pines as hiding place
+  literal_form: pines
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Pentheus desires to watch from concealment
+  summary: Dionysus questions Pentheus’s strong longing. Pentheus says the wine-affected
+    group would grieve him to see, yet he wants to watch from an ambush among pines.
+    Dionysus warns that they will find him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: longing for a grievous sight
+  taxonomy_refs: []
+  basis: Pentheus says the sight would grieve him, while Dionysus points out that
+    he nevertheless craves it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify the full cause or consequences of the desired
+    sight.
+- id: motif:2
+  label: hidden watcher expected to be discovered
+  taxonomy_refs: []
+  basis: Pentheus wants to watch in ambush among pines, and Dionysus says hiding will
+    be vain because the group will track him out.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives only the warning of discovery, not the actual discovery.
+- id: motif:3
+  label: dangerous concealed viewing
+  taxonomy_refs: []
+  basis: The desired act is to watch from concealment, and the conversation frames
+    the sight as emotionally harmful and the concealment as doomed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: No explicit prohibition, sacred context, or punishment is stated within
+    this excerpt alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1671-1674
+  quote_or_summary: Dionysus says, “Thou art quick to fall / To such great longing.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1675-1683
+  quote_or_summary: Pentheus, somewhat bewildered, says it would grieve him much “To
+    see them flown with wine.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1684-1689
+  quote_or_summary: Dionysus asks whether Pentheus craves “such / A sight as would
+    much grieve thee.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1690-1692
+  quote_or_summary: Pentheus says, “I fain / Would watch, ambushed among the pines.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 1693-1695
+  quote_or_summary: Dionysus replies that it would be vain to hide because “They soon
+    will track thee out.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal dialogue and roles are clear. Motif labels are cautious because the
+    excerpt does not provide the broader dramatic or ritual context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because this excerpt does not itself support a specific comparison to another text, tradition, or motif family.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1671-l1695
+  passage_sha256=cabf69bfe66e744013ff9ad447cfb9bd26b961318f9dc2bc7d4f3509ce72ada5
+

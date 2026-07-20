@@ -1,0 +1,220 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l25842-l26012
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: OF WORDS. / HYMNS. / INDEX OF / WORDS. 459; lines 25842-26012
+  start: '25842'
+  end: '26012'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A glossary/index segment listing Vedic words, English glosses, and hymn
+    references. The entries include terms glossed as shining, flame, light, world,
+    earth, brother, brotherhood, food, wealth, and names or groups such as Agni, Bharata,
+    Bhrigu, and Varuna.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index of words, giving glossary meanings and hymn citations
+    rather than a continuous narrative scene.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Several entries in the segment concern brightness or fire-like imagery, including
+    words glossed as shining, splendour, flame, luminous, and light.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: Several entries concern cosmological or spatial terms, including words glossed
+    as world, being, earth, and all worlds.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: The index mentions named figures or groups including Agni, Bharata or the
+    two Bharatas, Bhrigu or the Bhrigus, and Varuna.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: obs:5
+  text: The segment includes kinship vocabulary, with entries glossed as brother and
+    brotherhood.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named parenthetically in the index entry for Bharata as associated
+    with the Bharata tribe.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: the two Bharatas
+  description: Listed under the entry for Bharata as “the two Bharatas.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Bhrigu / the Bhrigus
+  description: The index lists Bhrigu and also glosses references to the Bhrigus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Varuna
+  description: Named in the indexed phrase glossed as brother Varuna.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: indexed named figure associated with the Bharata tribe
+  assigned_to:
+  - fig:1
+  basis: The Bharata entry includes “(Agni) of the Bharata tribe.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: paired named figures in an index entry
+  assigned_to:
+  - fig:2
+  basis: The Bharata entry gives a gloss referring to “the two Bharatas.”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: indexed lineage or group name
+  assigned_to:
+  - fig:3
+  basis: The passage lists Bhrigu and the Bhrigus as indexed names with hymn references.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: figure named in kinship phrase
+  assigned_to:
+  - fig:4
+  basis: The entry for brother includes the phrase translated as brother Varuna.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: flame and light
+  literal_form: Words glossed as shining, splendour, flame, luminous, and light.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: world and earth
+  literal_form: Words glossed as world, being, earth, and all worlds.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: kinship terms
+  literal_form: Brother and brotherhood as indexed vocabulary.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Lexical index segment
+  summary: The passage lists Vedic terms from the index with glosses and citations;
+    it does not present a mythic action sequence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25842-26012
+  quote_or_summary: The segment is headed as an index of words and consists of lexical
+    entries with glosses and hymn references.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 25845-25852
+  quote_or_summary: Entries gloss bhanu-mét as shining, bha&ma as splendour or flame,
+    and bhamin as luminous.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 25855-25866
+  quote_or_summary: The Bharata entry includes “(Agni) of the Bharata tribe” and “the
+    two Bharatas”; a nearby bhas entry is glossed as light.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; short excerpt and summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 25880-25904
+  quote_or_summary: Entries gloss bhūvana as world or being and bhūman as earth, being,
+    or world, including a phrase glossed as all worlds.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 25943-25954
+  quote_or_summary: The index lists Bhrigavana and Bhrigu, with glosses referring
+    to the Bhrigus.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 25955-25968
+  quote_or_summary: The entries include bhrag, glossed as to shine, and kinship entries
+    for brother and brotherhood, including a phrase glossed as brother Varuna.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The extraction is limited because the passage is an index/glossary rather
+    than a narrative hymn. No candidate motifs or comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative motif was identified from this index passage. Symbol entries record only literal indexed imagery and vocabulary supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l25842-l26012
+  passage_sha256=fd73cfef66942928ef6d8f61a99c09c8153adc31e5a5278b83bcb51803d0aa49
+

@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l12267-l12293
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: COKPUS HERMETICUM (XVII.) / COMMENTAEY / OF ASCLEPIUS TO THE KING 287 / COEPUS
+    HEKMETICUM (XVIII.); lines 12267-12293
+  start: '12267'
+  end: '12293'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage opens Corpus Hermeticum XVIII, headed as an encomium of kings
+    and as concerning the Soul being hindered by the Passion of the Body. It introduces
+    an analogy: a musician’s intended harmonious performance becomes ridiculous if
+    discordant or weak instruments hinder it. The passage then names a Natural Musician-God
+    who makes the harmony of celestial songs and sends forth their rhythm.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section is introduced as an encomium of kings and is described parenthetically
+    as concerning the Soul being hindered by the Passion of the Body.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes people practicing a harmonious, muse-like musical art.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Discord in the instruments can hinder the performer’s intent and make the
+    rendering ridiculous.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the instruments are too weak for what is required, the music-artist is
+    laughed at by the audience.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A figure called the Natural Musician-God is associated with making the harmony
+    of celestial songs and sending forth their rhythm and melody.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: music-artist
+  description: A performer whose art can be hindered by weak or discordant instruments
+    and who may be laughed at by the audience.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: audience
+  description: Those who laugh at the music-artist when the instruments are inadequate.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Natural Musician-God
+  description: A divine musician named in relation to the harmony of celestial songs
+    and the rhythm of his own songs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hindered musical practitioner
+  assigned_to:
+  - fig:1
+  basis: The performer’s intent is hindered by discordant or weak instruments.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: judging audience
+  assigned_to:
+  - fig:2
+  basis: The audience laughs when the artist’s instruments are too weak for the performance.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine source of celestial harmony
+  assigned_to:
+  - fig:3
+  basis: The Natural Musician-God is described as making the harmony of celestial
+    songs and sending forth rhythm and melody.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: discordant or weak instruments
+  literal_form: musical instruments
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: harmony and celestial song
+  literal_form: harmony, melody, rhythm, and celestial songs
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Human musical analogy
+  summary: The passage presents musicians whose intended harmonious performance is
+    spoiled when discordant or weak instruments hinder them, leading the audience
+    to laugh.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Divine celestial music
+  summary: The Natural Musician-God is named as making the harmony of celestial songs
+    and sending forth their rhythm and melody.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Soul or intent hindered by bodily or instrumental weakness
+  taxonomy_refs:
+  - duality
+  basis: The heading frames the topic as the Soul hindered by the Body’s passion,
+    and the opening analogy depicts musical intent hindered by discordant or weak
+    instruments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is fragmentary, and the relation between the heading’s soul-body
+    theme and the musical analogy should be checked in the wider passage.
+- id: motif:2
+  label: Divine musician producing celestial harmony
+  taxonomy_refs: []
+  basis: The text explicitly names a Natural Musician-God who makes the harmony of
+    celestial songs and sends forth rhythm and melody.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No broader comparative claim is made here; the motif label is limited
+    to the wording of this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12267-12274
+  quote_or_summary: '"[THE ENCOMIUM OF KINGS]"; parenthetical heading: "About the
+    Soul''s being hindered by the Passion ... the Body."'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: 12276-12280
+  quote_or_summary: The passage refers to those practicing "the harmonious art of
+    muse-like melody" and says "the discord of the instruments doth hinder their intent."
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 12282-12284
+  quote_or_summary: When the instruments are too weak for what is required, the music-artist
+    is laughed at by the audience.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 12286-12287
+  quote_or_summary: The passage says that the artist gives of his art with good will
+    and without weariness, while blame falls on the artist’s weakness.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: 12289-12292
+  quote_or_summary: '"the Natural Musician-God" is described as making "the harmony
+    of His [celestial] songs" and sending forth their rhythm and melody.'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is based on a short fragment ending mid-sentence.
+    Motif identification is cautious, especially for the soul-body relation, which
+    is signaled by the heading but developed only indirectly in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt itself does not explicitly compare this material with another tradition or named motif family.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l12267-l12293
+  passage_sha256=03746730ecc9f0e0a77d3cd18bd386b283a0096d1ae5d26dcd7b0416c5a62bd0
+

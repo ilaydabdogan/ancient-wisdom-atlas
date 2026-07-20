@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l13330-l13339
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: ISIS.  2G3 / HOLDA,  HOLLE.  265 / UOLDA,  IIOLLE.  267 / HOLD  A,  HOLLE.  2C9;
+    lines 13330-13339
+  start: '13330'
+  end: '13339'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage notes that a 'dicsse' is a bundle of flax on a distaff, then
+    compares this context with representations of Saint Gertrude in Carniolan peasants'
+    almanacs, where two mice nibble thread on a spindle to indicate that spinning
+    should not be done on her day. It adds that the same applies to Russian piatnitsa,
+    Friday, and notes that women are called 'peace-weavers' in Old English.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cited note identifies the 'dicsse' as the bundle of flax on the distaff.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Carniolan peasants' almanacs represent Saint Gertrude with two little mice
+    nibbling at thread on a spindle.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The image of mice nibbling thread on a spindle is given as a sign that there
+    ought to be no spinning on Gertrude's day.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the same rule holds for the Russian piatnitsa, Friday.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage notes that women are called 'peace-weavers' in Old English.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Saint Gertrude
+  description: A saint represented in Carniolan peasants' almanacs by two mice nibbling
+    thread on a spindle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Two little mice
+  description: Two mice nibbling at the thread on a spindle in the almanac representation
+    of Saint Gertrude.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Russian piatnitsa, Friday
+  description: A Russian Friday observance to which the same no-spinning rule is said
+    to apply.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Women
+  description: Women are described by an Old English term glossed as 'peace-weavers.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: saint associated with spinning prohibition
+  assigned_to:
+  - fig:1
+  basis: Gertrude's almanac sign indicates that spinning should not be done on her
+    day.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: emblematic animals marking thread and spindle
+  assigned_to:
+  - fig:2
+  basis: The mice nibble the thread on a spindle in the representation of Gertrude.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: parallel Friday observance
+  assigned_to:
+  - fig:3
+  basis: The same no-spinning rule is said to hold for Russian piatnitsa, Friday.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: peace-weavers
+  assigned_to:
+  - fig:4
+  basis: The passage states that women are called 'peace-weavers' in Old English.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: bundle of flax on distaff
+  literal_form: bundle of flax on the distaff
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: spindle and thread
+  literal_form: thread on a spindle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: two mice
+  literal_form: two little mice nibbling at thread
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: no spinning on saint's day
+  literal_form: sign that there ought to be no spinning on her day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: peace-weaving term
+  literal_form: Old English term glossed as 'peace-weavers'
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Almanac sign for Gertrude's day
+  summary: Carniolan peasants' almanacs depict Saint Gertrude by means of two mice
+    nibbling thread on a spindle, indicating that spinning should not occur on her
+    day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Parallel Russian Friday rule
+  summary: The no-spinning rule is said also to apply to the Russian piatnitsa, Friday.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Old English peace-weavers note
+  summary: A linguistic note states that women are called 'peace-weavers' in Old English.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: spinning taboo on a sacred or saint's day
+  taxonomy_refs: []
+  basis: The almanac image is explicitly interpreted as a sign that there should be
+    no spinning on Gertrude's day, with the same rule said to apply to Russian piatnitsa,
+    Friday.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives only brief antiquarian notes and does not narrate an
+    associated myth.
+- id: motif:2
+  label: animal damage to thread as a warning sign
+  taxonomy_refs: []
+  basis: Two mice nibbling thread on a spindle function as the visual sign for the
+    spinning prohibition.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents this as an almanac emblem rather than as a narrative
+    episode.
+- id: motif:3
+  label: women as weavers of peace
+  taxonomy_refs: []
+  basis: The passage notes an Old English expression calling women 'peace-weavers.'
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is a linguistic/social metaphor in the passage, not a developed mythic
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats the Carniolan Gertrude's-day no-spinning sign
+    and Russian piatnitsa, Friday, as parallel observances.
+  claim_level: same_function
+  target: Carniolan Saint Gertrude's day and Russian piatnitsa/Friday
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states functional similarity but provides no historical
+    argument for contact, inheritance, or origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13330-13331
+  quote_or_summary: A cited note says that the 'dicsse' is the bundle of flax on the
+    distaff.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 13333-13337
+  quote_or_summary: Carniolan peasants' almanacs represent Saint Gertrude by two little
+    mice nibbling thread on a spindle, as a sign that there should be no spinning
+    on her day.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 13337-13338
+  quote_or_summary: The passage says the same holds true of Russian piatnitsa, Friday.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: line 13339
+  quote_or_summary: Women are called in AS. 'peace-weavers.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a set of footnote-like antiquarian remarks with limited context.
+    The spinning prohibition and Carniolan/Russian parallel are explicit; broader
+    mythological interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the available motif and symbol lists do not contain a direct category for spinning, spindle, distaff, mice, saint's-day taboo, or peace-weaving.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l13330-l13339
+  passage_sha256=e4138c764baaa26f9810e79f75adefbb217d64a287a73cfa1a1d7e856f32fc7a
+

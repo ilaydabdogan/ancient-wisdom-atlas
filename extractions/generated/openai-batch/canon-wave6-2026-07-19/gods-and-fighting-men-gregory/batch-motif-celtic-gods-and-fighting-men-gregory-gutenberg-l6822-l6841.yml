@@ -1,0 +1,408 @@
+---
+record_id: batch.motif.celtic-gods-and-fighting-men-gregory-gutenberg-l6822-l6841
+source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+passage_locator:
+  label: 'CHAPTER V. THE BEST MEN OF THE FIANNA / BOOK TWO: FINN''S HELPERS / CHAPTER
+    I. THE LAD OF THE SKINS / CHAPTER II. BLACK, BROWN, AND GREY; lines 6822-6841'
+  start: '6822'
+  end: '6841'
+  translation: Gods and Fighting Men
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Finn and the Fianna reach Inis Caol, enter an open house with seats prepared,
+    and are held by enchantment. The Red-Haired Man appears and seeks satisfaction
+    for the deaths of his mother and two brothers, attacks them, and kills three.
+    Finn blows the Dord Fiann; Diarmuid hears it, enters, kills the Red-Haired Man,
+    ends the enchantment, and Finn returns to Almhuin with nine survivors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The group arrives at Inis Caol and finds no trace of the horse or the body.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An open house on the island contains seats for every man, and the men sit
+    down to rest.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When the men try to rise, they cannot do so because enchantment is on them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Red-Haired Man stands before them after the enchantment holds them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Red-Haired Man says he has come to get satisfaction for the deaths of
+    his mother and two brothers, who were killed by Glasan in the house of the dead
+    bodies.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Red-Haired Man attacks the immobilized group and would have destroyed
+    them all, but Finn blows a great blast on the Dord Fiann.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Before the Red-Haired Man can kill more than three of them, Diarmuid hears
+    the Dord Fiann, enters the house, kills him, and ends the enchantment.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Finn returns to Almhuin with the nine remaining members of the Fianna.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Finn
+  description: Leader present with the Fianna; he blows the Dord Fiann and later returns
+    to Almhuin with nine survivors.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: The Fianna with Finn
+  description: The group enters the open house, is held by enchantment, suffers three
+    deaths, and has nine survivors return with Finn.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: The Red-Haired Man
+  description: He appears before the enchanted group, demands satisfaction for slain
+    kin, attacks, kills up to three, and is killed by Diarmuid.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Diarmuid, grandson of Duibhne
+  description: He hears the Dord Fiann, enters the house, kills the Red-Haired Man,
+    and ends the enchantment.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Glasan
+  description: Named in the Red-Haired Man's accusation as the killer of his mother
+    and two brothers in the house of the dead bodies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: The Red-Haired Man's mother and two brothers
+  description: Dead kin whose deaths are cited by the Red-Haired Man as the reason
+    for his demand for satisfaction.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Enchantment-bound victims
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Finn and the Fianna cannot rise because enchantment is on them.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Avenging attacker
+  assigned_to:
+  - fig:3
+  basis: The Red-Haired Man demands satisfaction for slain kin and attacks the group.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Opponent linked to the enchantment
+  assigned_to:
+  - fig:3
+  basis: The Red-Haired Man appears while the men are held by enchantment, and the
+    enchantment ends when Diarmuid kills him.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: Caller for aid
+  assigned_to:
+  - fig:1
+  basis: Finn blows a great blast on the Dord Fiann while the group is under attack.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: Rescuer and slayer of the attacker
+  assigned_to:
+  - fig:4
+  basis: Diarmuid hears the Dord Fiann, enters, kills the Red-Haired Man, and ends
+    the enchantment.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: Surviving company
+  assigned_to:
+  - fig:2
+  basis: Nine of the Fianna are left to return with Finn after the attack.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: Named prior killer in grievance
+  assigned_to:
+  - fig:5
+  basis: The Red-Haired Man says Glasan killed his mother and two brothers.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: Slain kin motivating revenge
+  assigned_to:
+  - fig:6
+  basis: Their deaths are named by the Red-Haired Man as the cause for seeking satisfaction.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Inis Caol
+  literal_form: Island where the group finds the open house and is attacked.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Open house with prepared seats
+  literal_form: An open house on the island containing seats for every man; the occupants
+    become unable to rise.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Dord Fiann
+  literal_form: An object Finn takes hold of and blows, producing a blast that Diarmuid
+    hears.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Three killed
+  literal_form: The Red-Haired Man kills no more than three before Diarmuid intervenes.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Nine remaining
+  literal_form: Nine members of the Fianna are left to return with Finn.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Arrival at Inis Caol and entry into the house
+  summary: The group reaches Inis Caol, sees no trace of the horse or body, finds
+    an open house with seats for everyone, and sits down to rest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Enchantment and revenge attack
+  summary: The men cannot rise because of enchantment. The Red-Haired Man appears,
+    explains his demand for satisfaction for slain kin, and attacks them; Finn blows
+    the Dord Fiann.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Diarmuid's intervention and return
+  summary: Diarmuid hears the Dord Fiann, enters the house, kills the Red-Haired Man,
+    ends the enchantment, and Finn returns to Almhuin with nine surviving Fianna.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Enchanted lodging trap
+  taxonomy_refs: []
+  basis: An apparently open house with seats for all becomes the place where the men
+    are unable to rise because enchantment is on them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly state who prepared the house or cast the
+    enchantment.
+- id: motif:2
+  label: Blood-revenge attack for slain kin
+  taxonomy_refs: []
+  basis: The Red-Haired Man demands satisfaction for the deaths of his mother and
+    two brothers and then attacks the group.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives the grievance in the attacker's speech but does not
+    provide the prior episode directly.
+- id: motif:3
+  label: Signal-call summons rescue
+  taxonomy_refs: []
+  basis: Finn blows the Dord Fiann during the attack; Diarmuid hears it and comes
+    into the house.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the Dord Fiann beyond its use as a blown
+    signal.
+- id: motif:4
+  label: Slaying the attacker ends the enchantment
+  taxonomy_refs: []
+  basis: Diarmuid kills the Red-Haired Man and puts an end to the enchantment.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The exact mechanism linking the Red-Haired Man to the enchantment is not
+    described.
+- id: motif:5
+  label: Return after ordeal with reduced company
+  taxonomy_refs:
+  - return
+  basis: After the attack and deaths, Finn returns to Almhuin with the nine Fianna
+    who remain.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The return is brief and not elaborated as a full return episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6822-6825
+  quote_or_summary: At Inis Caol the group sees no trace of the horse or body, finds
+    an open house on the island, and sits on seats provided for every man.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 6827-6829
+  quote_or_summary: When the men try to rise they cannot, because enchantment is on
+    them; the Red-Haired Man stands before them.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6831-6833
+  quote_or_summary: The Red-Haired Man says the time has come for satisfaction for
+    the deaths of his mother and two brothers, killed by Glasan in the house of the
+    dead bodies.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6833-6835
+  quote_or_summary: The Red-Haired Man attacks and would have ended them all, but
+    Finn takes hold of the Dord Fiann and blows a great blast on it.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6837-6839
+  quote_or_summary: Before the Red-Haired Man can kill more than three, Diarmuid hears
+    the Dord Fiann, comes into the house, kills him, and ends the enchantment.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 6839-6841
+  quote_or_summary: Finn returns to Almhuin with the nine remaining members of the
+    Fianna.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. No comparison claims are
+    made; one taxonomy reference to return is used for the explicitly stated return
+    to Almhuin.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external taxonomy IDs or comparisons were added beyond the supplied available taxonomy reference for return.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-gods-and-fighting-men-gregory-gutenberg__l6822-l6841
+  passage_sha256=90b1fd3f76ea49011d5f96c570015104aa6688b608c7021c42224896462b80c6
+

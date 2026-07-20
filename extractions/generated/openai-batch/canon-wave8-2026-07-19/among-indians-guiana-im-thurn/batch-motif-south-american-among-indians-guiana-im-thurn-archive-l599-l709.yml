@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.south-american-among-indians-guiana-im-thurn-archive-l599-l709
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: PLATE / WOODCOUTS. / LIST OF ILLUSTRATIONS. / MAP OF BRITISH GUIANA; lines
+    599-709
+  start: '599'
+  end: '709'
+  translation: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic
+    from the Interior of British Guiana'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens a chapter on a journey into the interior of British Guiana,
+    lists topics in the chapter outline, describes the colony’s coast, timber, forest,
+    and savannah tracts, explains river and track travel, and states that the author
+    will use his travel diary as a thread for describing the region.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage introduces a chapter titled as a journey in the interior and gives
+    an outline of travel topics, including methods of travelling, rapids, forest night,
+    a burning Mora-tree, magic sticks, and other named stops or episodes.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A traveller who wants to see the interior is described as leaving the flat,
+    swampy coastland and passing up rivers and through forests to reach savannahs
+    and mountain ridges.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The journey is described as involving difficulties and hardships, but also
+    beauty, novelty, and relatively untrodden ground.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The country is divided into four tracts parallel to the coast: sugar, timber,
+    forest, and savannah.'
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The forest tract is described as dense and largely containing greenheart and
+    mora trees; its low, swampy terrain is sometimes broken by hills, solitary mountains,
+    or low ranges.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The savannah tract is described as farthest from the sea, bordering Brazil,
+    continuous with a larger South American grass-plain, and containing the only considerable
+    mountains of British Guiana.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says the colony has no roads except along the coast, so the main
+    rivers serve as high roads, with tributaries and Indian forest tracks as cross
+    roads.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Travel within the forest region is described as being done by canoe or on
+    foot; on reaching the savannahs, river travel or walking is possible.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The narrator states that in 1878 he traveled up the Essequibo River to the
+    savannah, across it, and into Brazilian territory.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The author states that he will use one travel diary as a thread for arranging
+    facts from his own experiences and from previous travellers.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: General traveller
+  description: A hypothetical traveller who leaves the coastland and moves by rivers
+    and forests toward the savannahs and mountain ridges.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Narrator-author
+  description: The speaker who says he traveled up the Essequibo in 1878 and will
+    use his journey diary to organize facts about the interior.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Widely scattered Indians of four or five tribes
+  description: The only inhabitants, apart from sparse others, mentioned for the two
+    remaining interior tracts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: traveller or explorer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes movement away from the coast into the interior and
+    states that the narrator made such a journey.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: diarist and arranger of regional facts
+  assigned_to:
+  - fig:2
+  basis: The author says he wrote down his travels day by day and will use a diary
+    as a thread for the description.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: interior inhabitants
+  assigned_to:
+  - fig:3
+  basis: The passage identifies widely scattered Indians of several tribes as inhabitants
+    of the forest and savannah tracts.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: waterways as routes
+  literal_form: Wide rivers, four main rivers, tributary streams, marshes, and the
+    Essequibo River used for travel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: forest trees
+  literal_form: Dense forest containing greenheart and mora trees; the chapter outline
+    also names a burning Mora-tree.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: mountains and ridges
+  literal_form: Rugged mountain ridges, solitary mountains, low ranges, and the considerable
+    mountains of the savannah tract.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: canoe travel
+  literal_form: Canoes hauled up rapids in the chapter outline and canoe travel in
+    the forest region.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Chapter outline of an interior journey
+  summary: The chapter outline lists a sequence of journey topics, places, travel
+    difficulties, and named incidents in the interior.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Departure from coast toward interior
+  summary: A traveller is described as leaving the swampy coastland and traveling
+    by rivers and forests toward savannahs and mountain ridges.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Four tracts of British Guiana
+  summary: The passage describes the sugar, timber, forest, and savannah tracts, including
+    their vegetation, habitation, waterways, and mountains.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: River and track travel system
+  summary: The main rivers are described as the principal roads, with tributaries
+    and Indian tracks serving as cross roads; travel is by canoe or on foot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Authorial method using a journey diary
+  summary: The author explains that his diary will provide the narrative thread for
+    arranging observations from his own journeys and from earlier travellers.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: journey from coast into remote interior
+  taxonomy_refs: []
+  basis: The passage frames the chapter around leaving the coast, moving by rivers
+    and forest, crossing savannah, and entering Brazilian territory.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is a travelogue pattern rather than a mythic episode; no sacred or
+    supernatural narrative function is established in the passage.
+- id: motif:2
+  label: land divided into sequential ecological zones
+  taxonomy_refs: []
+  basis: The country is presented as four parallel tracts from coast toward interior,
+    with travel proceeding through or toward these zones.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage uses the division descriptively and geographically; no cosmological
+    or ritual interpretation is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 599-611
+  quote_or_summary: The map and chapter opening introduce 'A Journey in the Interior'
+    and list chapter topics such as methods of travelling, canoe hauling at rapids,
+    night in the forest, a burning Mora-tree, magic sticks, and route stops.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 613-626
+  quote_or_summary: The passage says a traveller must leave the flat, swampy coastland,
+    go up wide rivers and through forests, and reach savannahs and rugged mountain
+    ridges; hardships are balanced by beauty and untrodden ground.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 628-648
+  quote_or_summary: 'The country is described as four tracts parallel to the coast:
+    sugar, timber, forest, and savannah; the forest tract contains dense greenheart
+    and mora forest and is sparsely inhabited, with terrain sometimes broken by hills
+    or mountains.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 650-666
+  quote_or_summary: The savannah tract is distinguished from smaller coastal and forest
+    savannahs; it lies farthest from the sea, borders Brazil, continues into a larger
+    grass-plain, and contains the only considerable mountains of British Guiana.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 668-681
+  quote_or_summary: There are no roads except along the coast; four main rivers serve
+    as high roads, tributaries and Indian tracks as cross roads, and travel is by
+    canoe or foot. The narrator says he traveled up the Essequibo in 1878 to the savannah
+    and into Brazilian territory.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 683-709
+  quote_or_summary: The author explains that daily travel diaries could be transcribed
+    but would be tedious, so one diary will serve as a thread for facts from his own
+    experience and previous travellers.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary prepared for extraction.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal geographical and travel details are clear. Motif candidates are low-confidence
+    as comparative mythology data because the passage is descriptive travel writing,
+    not a mythic narrative. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No explicit mythic narrative or passage-supported comparative claim appears in this line range. Terms such as 'A Peaiman's Vengeance' and 'Magic Sticks' occur only in the chapter outline here and were not expanded into motifs without further passage evidence.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-among-indians-guiana-im-thurn-archive__l599-l709
+  passage_sha256=52403c283df0d20577c3c34050bc9df93c3c76443d60286aad880b027dca266c
+

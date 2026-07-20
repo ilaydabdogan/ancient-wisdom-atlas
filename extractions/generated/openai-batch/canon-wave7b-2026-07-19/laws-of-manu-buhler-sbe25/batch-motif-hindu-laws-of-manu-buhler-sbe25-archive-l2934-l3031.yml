@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l2934-l3031
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: XXXV111  LAWS    OF    MANU. / INTRODUCTION.  XXXIX / INTRODUCTION.  1 /
+    INTRODUCTION.  1; lines 2934-3031
+  start: '2934'
+  end: '3031'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: successive destructions of the world are mentioned
+  summary: The passage is a scholarly introduction discussing the development and
+    redaction of the Manu tradition. It refers to several distinct Manus, Manu Svayambhuva
+    creating ten great sages, those sages creating other Manus, successive world destructions,
+    creation attributed to Prajapati and sages, related Manu legends in the Puranas
+    and Mahabharata, and the use of origin and creation narratives to authorize the
+    text.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage refers to the existence of several distinct Manus.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Manu Svayambhuva is said to have created ten great sages.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ten great sages are said to have created other Manus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Passages quoted by Apastamba are said to mention successive destructions of
+    the world.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The cited tradition declares this creation to be the work of Prajapati and
+    the sages.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that the full development of the myth of Manu belongs to
+    the schools of the Pauranikas and Aitihasikas, with related legends in the Puranas
+    and Mahabharata.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage describes the first chapter’s origin and creation account as a
+    later addition used to authorize the remodelled text and display the scope of
+    the work.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Manu Svayambhuva
+  description: Named as the Manu who created ten great sages; the passage also associates
+    myths connected with Manu with an account of creation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Ten great sages
+  description: Created by Manu Svayambhuva and said to have created other Manus; also
+    associated with the work of creation.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Other Manus
+  description: Other Manus are said to have been created by the ten great sages; the
+    passage also refers to several distinct Manus.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Prajapati
+  description: Printed in the passage as Pra^-apati; named as an agent of this creation
+    together with the sages.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: creator of sages
+  assigned_to:
+  - fig:1
+  basis: Manu Svayambhuva is said to have created the ten great sages.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: creators of other Manus
+  assigned_to:
+  - fig:2
+  basis: The ten great sages are said to have created other Manus.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: created successor Manus
+  assigned_to:
+  - fig:3
+  basis: The other Manus are described as created by the ten great sages.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: agents of creation
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The creation is declared to be the work of Prajapati and the sages.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Creation chain involving Manu, sages, and other Manus
+  summary: The passage reports a creation sequence in which Manu Svayambhuva creates
+    ten sages, who in turn create other Manus, while creation is also attributed to
+    Prajapati and the sages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Successive world destructions and renewed creation
+  summary: The passage notes a tradition in which successive destructions of the world
+    are mentioned and a creation is attributed to Prajapati and the sages.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Textual authorization through origin and creation narrative
+  summary: The passage says the first chapter’s origin narrative and creation account
+    were added to give authority to the remodelled text and to show the breadth of
+    its scope through myths connected with Manu.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: successive world destruction followed by creation
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage mentions successive destructions of the world and a subsequent
+    creation attributed to Prajapati and the sages.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a compressed scholarly reference, not a full mythic
+    narrative; it does not specify the means of destruction or details of renewal.
+- id: motif:2
+  label: primordial chain of creators
+  taxonomy_refs: []
+  basis: Manu Svayambhuva creates ten great sages, the sages create other Manus, and
+    Prajapati with the sages is linked to the work of creation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage summarizes a tradition rather than narrating it in detail.
+- id: motif:3
+  label: origin and creation prologue as textual authorization
+  taxonomy_refs: []
+  basis: The passage states that a description of the text’s origin was added to give
+    authority to a remodelled version and that a creation account was included because
+    Manu myths displayed the scope of the work.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a redactional and literary pattern described by the introduction,
+    not a mythic episode narrated directly in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Manu myth in the Smriti is partly identical with
+    or closely related to Manu legends in the Puranas and the Mahabharata.
+  claim_level: same_motif
+  target: Manu legends in the Puranas and Mahabharata
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not quote or describe the specific Puranic or Mahabharata
+    legends, so the exact shared motifs cannot be verified from this excerpt alone.
+- id: claim:2
+  claim: The passage connects the association of Manu, the ten sages, other Manus,
+    and creation with Apastamba-quoted passages about successive world destructions
+    and creation by Prajapati and the sages.
+  claim_level: same_motif
+  target: Apastamba II, 24, 3-6, 13 tradition on world destructions and creation
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt reports a scholarly connection to Apastamba but does not
+    provide the underlying Apastamba passage in full.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2934-2940
+  quote_or_summary: The passage refers to several distinct Manus and to ten great
+    sages whom Manu Svayambhuva created; those sages in turn created other Manus.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:2
+  type: summary
+  locator: lines 2940-2944
+  quote_or_summary: Passages quoted by Apastamba are said to mention successive destructions
+    of the world and to declare this creation the work of Prajapati and the sages.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:3
+  type: summary
+  locator: lines 2944-2949
+  quote_or_summary: The passage says the complete development of the myth of Manu
+    belongs to the Pauranikas and Aitihasikas, and that the Puranas and Mahabharata
+    contain many legends partly identical with or closely related to that in the Smriti.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; passage provided in request.
+- id: ev:4
+  type: summary
+  locator: lines 3006-3018
+  quote_or_summary: The passage calls the whole first chapter a later addition, says
+    no Dharma-sutra begins with its own origin or an account of creation, and explains
+    that the origin was added for authority while the creation account used Manu myths
+    to show the work’s scope.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; passage provided in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly introduction and gives compressed references to
+    myths rather than a complete narrative. Motif candidates and comparisons are therefore
+    limited to patterns explicitly mentioned in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy entries are directly supported by this passage; symbol list left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l2934-l3031
+  passage_sha256=645db1130d933b3f5fe078c6985df2d26e0efe3c154a7d6b4ce776006eae5416
+

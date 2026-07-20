@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.south-american-among-indians-guiana-im-thurn-archive-l4990-l5084
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: 'AGEL(IEUS IMTHURNI / PLATE VI. / THE KAIETEUR IN FLOOD. V7 / FLOWER-PICTURES.
+    : 91.; lines 4990-5084'
+  start: '4990'
+  end: '5084'
+  translation: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic
+    from the Interior of British Guiana'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys Guianan mammals, especially bats, and then introduces
+    the abundance and coloration of Guianan birds. It describes animal habitats and
+    behaviors, distinguishes fruit-eating bats from blood-sucking bats, and lists
+    several brilliantly colored bird species.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Raccoons, armadilloes, sloths, opossums, a squirrel, a porcupine, otters,
+    porpoises, and manatees are described with their habitats or behaviors in forests,
+    savannahs, trees, riverbanks, and waters.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The passage identifies bats as a prominent and widely distributed set of mammals
+    in Guiana, with many species not yet accurately determined by the author’s account.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: A large fruit-eating bat is said to be erroneously called a vampire because
+    of supposed blood-sucking habits, but the passage describes it as harmless and
+    as dropping mangoes while flying.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The real blood-sucking bats or vampires are described as small, light-coloured
+    Phyllostoma bats occurring widely outside towns.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Blood-sucking bats are said to attack humans and other animals, and poultry
+    must be shut up at night where such bats occur.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A small dark bat lives in large daytime flocks on trunks of trees overhanging
+    rivers and moves along the riverside when boats approach.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says Guiana is rich in birds, but that bright-colored species
+    are less often seen in nature than exported specimens suggest.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Examples of brightly colored birds include the cock-of-the-rock, baboon-bird,
+    fire-bird, wallababa, blue chatterers, scarlet ibis, parrots, macaws, and hummingbirds.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Guianan mammals and river animals
+  description: A grouped set of mammals including raccoons, armadilloes, sloths, opossums,
+    squirrel, porcupine, otters, porpoises, and manatee, described in natural habitats.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: large fruit-eating bat
+  description: A large bat with wings sometimes measuring three feet tip to tip, erroneously
+    called a vampire, described as fruit-eating and harmless.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: blood-sucking bats or vampires
+  description: Small, light-coloured bats of the genus Phyllostoma, described as sucking
+    blood and attacking animals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: small dark riverside bat
+  description: A small dark-coloured bat living by day in large flocks on tree trunks
+    overhanging rivers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: bright-coloured Guianan birds
+  description: Bird species noted for brilliant colors, including cock-of-the-rock,
+    baboon-bird, fire-bird, wallababa, blue chatterers, scarlet ibis, parrots, macaws,
+    and hummingbirds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: surveyed fauna
+  assigned_to:
+  - fig:1
+  basis: The passage lists multiple mammals and water animals with habitat and behavior
+    notes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: misidentified vampire bat
+  assigned_to:
+  - fig:2
+  basis: The fruit-eating bat is said to be erroneously called the vampire because
+    of supposed blood-sucking propensities.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: blood-sucking animal
+  assigned_to:
+  - fig:3
+  basis: The passage describes these bats as the real blood-sucking bats and notes
+    attacks on humans and animals.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: waterside flocking animal
+  assigned_to:
+  - fig:4
+  basis: The bat is described as living in flocks on trunks overhanging rivers and
+    moving when boats approach.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: brilliantly coloured bird group
+  assigned_to:
+  - fig:5
+  basis: The passage lists birds noted for rich crimson, purple, blue, red, orange,
+    green, yellow, and other colors.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: river water habitat
+  literal_form: rivers and waters
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: fire-like glow
+  literal_form: glow like that of fire
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: survey of mammals and river animals
+  summary: The narrator lists several Guianan mammals and water animals, noting where
+    they live and how they behave.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: description of bats
+  summary: The narrator describes bats as prominent in Guiana, distinguishes a harmless
+    fruit-eating bat from blood-sucking bats, and describes a dark bat flocking along
+    rivers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: description of brilliant birds
+  summary: The narrator explains that Guiana has many birds, then gives examples of
+    brightly colored species while noting that their brilliance is not always conspicuous
+    in nature.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4990-5006
+  quote_or_summary: The passage lists raccoons, armadilloes, sloths, opossums, squirrel,
+    porcupine, and otters, with comments on their habitats and behaviors.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 5006-5014
+  quote_or_summary: Porpoises are said to plunge in rivers not separated from the
+    sea by large falls, and manatees rise near boats or plunge into deep water from
+    plant-filled shallows.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 5015-5034
+  quote_or_summary: Bats are introduced as prominent and widely distributed; a large
+    fruit-eating bat is described as wrongly called a vampire and as dropping mangoes
+    onto roofs while flying.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 5034-5050
+  quote_or_summary: Real blood-sucking bats are described as small light-colored Phyllostoma
+    bats; their attacks on people and animals are noted, and another small dark bat
+    is described flocking on riverside tree trunks.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5051-5084
+  quote_or_summary: The passage discusses the abundance of Guianan birds and lists
+    brightly colored species, including cock-of-the-rock with a fire-like orange glow
+    and other crimson, purple, blue, red, orange, green, yellow, and iridescent birds.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is descriptive natural history rather than a mythic or ritual
+    narrative. Literal animal figures, settings, and imagery are extractable, but
+    no supported comparative mythology motif claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs or comparison claims were added because the passage itself does not support mythological comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-among-indians-guiana-im-thurn-archive__l4990-l5084
+  passage_sha256=b3f7fd3eaacf968c33b1d773f11142eb0ca04e8eaeb99a211a28e5f9cf45c443
+

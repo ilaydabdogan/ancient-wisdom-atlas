@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.ethiopian-kebra-nagast-budge-archive-l12735-l12752
+source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+passage_locator:
+  label: N I93 / N 2 195 / PLATE / O 2 211; lines 12735-12752
+  start: '12735'
+  end: '12752'
+  translation: The Queen of Sheba and Her Only Son Menyelek (Kebra Nagast)
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that the Prophets foretold all events, including what
+    belongs to old times and latter days up to the Second Coming, and manifested Him
+    in their bodies. It then recounts Abraham going from famine-stricken Canaan down
+    to Egypt and returning with riches and honour, and compares this to the Redeemer
+    going down, delivering the Church or Assembly of the Nations, and going up again
+    with honour and praise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Prophets are described as having prophesied and declared what has happened
+    and what will happen, from old times to the latter days up to His Second Coming.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Prophets are said to have given manifestations of Him in their bodies
+    along with their prophecies.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A famine is said to have occurred in the land of Canaan.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Abraham went down to Egypt and came back with much riches and honour, without
+    blemish.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Redeemer went down, delivered the Church, called the Assembly of the Nations,
+    and went up again with honour and praise.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage explicitly relates the Redeemer’s action to Abraham’s action with
+    the phrase “in like manner.”
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the Prophets
+  description: A collective group who prophesied, declared events, and gave manifestations
+    of Him in their bodies.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Him / our Redeemer
+  description: The one manifested by the Prophets, who went down, delivered the Church,
+    and went up again with honour and praise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Abraham / our father Abraham
+  description: The ancestral figure who went down to Egypt during a famine in Canaan
+    and returned with riches and honour without blemish.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the Church / the Assembly of the Nations
+  description: The collective entity delivered by the Redeemer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prophetic declarers
+  assigned_to:
+  - fig:1
+  basis: The passage says the Prophets prophesied and declared what has happened and
+    what shall happen.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: foreshadowing manifesters
+  assigned_to:
+  - fig:1
+  basis: The passage says the Prophets gave manifestations of Him in their bodies
+    together with their prophecies.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: redeemer and deliverer
+  assigned_to:
+  - fig:2
+  basis: The passage calls Him the Redeemer and says He delivered the Church and went
+    up again with honour and praise.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: ancestral parallel figure
+  assigned_to:
+  - fig:3
+  basis: Abraham’s descent to Egypt and honoured return are immediately followed by
+    the Redeemer’s similar descent and ascent, introduced by “in like manner.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: delivered assembly
+  assigned_to:
+  - fig:4
+  basis: The Church, identified as the Assembly of the Nations, is the entity delivered
+    by the Redeemer.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: famine-stricken Canaan
+  literal_form: the land of Canaan during famine
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Egypt as destination of descent
+  literal_form: Egypt, the place to which Abraham went down
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: down-and-up movement
+  literal_form: went down / came back or went up again
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prophetic declaration and manifestation
+  summary: The Prophets foretell all events and give bodily manifestations of Him
+    along with their prophecies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Abraham’s famine journey to Egypt
+  summary: During famine in Canaan, Abraham goes down to Egypt and returns enriched,
+    honoured, and without blemish.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Redeemer’s descent, deliverance, and ascent
+  summary: The Redeemer goes down, delivers the Church or Assembly of the Nations,
+    and goes up again with honour and praise.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: prophetic foreshadowing of the Redeemer
+  taxonomy_refs: []
+  basis: The Prophets are said to have foretold events and to have given manifestations
+    of Him in their bodies.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt states the foreshadowing but does not describe the specific
+    bodily manifestations.
+- id: motif:2
+  label: descent, deliverance, and honoured ascent
+  taxonomy_refs:
+  - hero_descent
+  - ascent
+  - return
+  basis: The Redeemer goes down, delivers the Church, and goes up again with honour
+    and praise.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not specify the place or full narrative details of the
+    Redeemer’s descent; the taxonomy reference to hero descent is approximate.
+- id: motif:3
+  label: famine departure and enriched return without blemish
+  taxonomy_refs:
+  - departure
+  - return
+  basis: Abraham leaves famine-stricken Canaan, goes down to Egypt, and returns with
+    riches and honour without blemish.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a compact summary of Abraham’s journey.
+- id: motif:4
+  label: typological parallel between ancestral journey and redemptive journey
+  taxonomy_refs:
+  - departure
+  - return
+  - ascent
+  basis: The passage explicitly says the Redeemer acted “in like manner” after recounting
+    Abraham’s descent to Egypt and honoured return.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an intrapassage typological parallel; no external comparison is
+    asserted.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Abraham’s going down to Egypt and returning
+    with riches and honour as a parallel for the Redeemer’s going down, delivering
+    the Church, and going up again with honour and praise.
+  claim_level: same_function
+  target: Abraham’s Egypt descent-return pattern and the Redeemer’s descent-deliverance-ascent
+    pattern within the passage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the passage and introduced by “in like
+    manner”; the excerpt does not establish an external historical or cross-cultural
+    relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12735-12744
+  quote_or_summary: The Prophets prophesied and declared all events, past and future,
+    up to His Second Coming, and manifested Him in their bodies.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 12745-12749
+  quote_or_summary: A famine occurred in Canaan; Abraham went down to Egypt and returned
+    with much riches and honour without blemish.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 12749-12752
+  quote_or_summary: In like manner, the Redeemer went down, delivered the Church or
+    Assembly of the Nations, and went up again with honour and praise.
+  source_text_path: texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence and intrapassage comparison are clear. Motif taxonomy
+    links are limited to the available taxonomy and should be reviewed, especially
+    the approximate use of hero_descent for the Redeemer’s descent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external traditions or comparisons were added beyond the passage’s explicit Abraham-Redeemer parallel.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:ethiopian-kebra-nagast-budge-archive__l12735-l12752
+  passage_sha256=117f474745e32d37d62f8541fa5a948c851581576b01fcc5903cb681e10ae0f3
+

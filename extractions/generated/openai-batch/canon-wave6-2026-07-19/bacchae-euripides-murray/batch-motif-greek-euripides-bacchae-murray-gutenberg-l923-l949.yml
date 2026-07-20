@@ -1,0 +1,236 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l923-l949
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 923-949
+  start: '923'
+  end: '949'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Pentheus asks Dionysus what benefit worship brings and what guise the god
+    had when seen. Dionysus says the benefit is beyond price but not for Pentheus
+    to hear, that the god's mysteries reject sin-lovers, and that the god took whatever
+    shape he liked.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pentheus asks what good the rites bring to a worshipper.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus answers that the good is beyond price but is not for Pentheus to
+    hear.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pentheus calls Dionysus a trickster and says Dionysus is provoking him to
+    seek the mysteries out.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dionysus says the god's mysteries abhor the touch of sin-lovers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Pentheus asks what guise the god had when Dionysus saw him plainly.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Dionysus says the god took whatever guise he liked and that Dionysus did not
+    ordain the god's shape.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: Speaker who questions the benefit of worship, accuses Dionysus of trickery,
+    and asks about the god's guise.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Dionysus
+  description: Speaker who answers Pentheus, withholds knowledge of the benefit, describes
+    the mysteries, and speaks about the god's chosen guise.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the God
+  description: Divine figure referred to by Pentheus and Dionysus; said to have a
+    guise and shape chosen according to his own liking.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioning worshipper or inquirer
+  assigned_to:
+  - fig:1
+  basis: Pentheus asks what good worship brings and later asks what guise the god
+    had.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: speaker of restricted sacred knowledge
+  assigned_to:
+  - fig:2
+  basis: Dionysus says the benefit is not for Pentheus to hear and describes the mysteries'
+    exclusion of sin-lovers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: shape-choosing deity
+  assigned_to:
+  - fig:3
+  basis: The god's guise is described as whatever he liked, and his shape was not
+    ordained by Dionysus.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: accuser and accused trickster
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Pentheus addresses Dionysus as a trickster and frames Dionysus' speech as
+    provocation to seek hidden things.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mysteries
+  literal_form: the god's mysteries, described as withheld from Pentheus and hostile
+    to the touch of sin-lovers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: self-chosen guise
+  literal_form: the god's guise or shape, said to be whatever he liked
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dialogue on mysteries and divine guise
+  summary: Pentheus questions Dionysus about worship, hidden mysteries, and the visible
+    form of the god; Dionysus withholds knowledge from Pentheus and says the god chose
+    his own guise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: restricted sacred mysteries
+  taxonomy_refs:
+  - forbidden_knowledge
+  - initiation
+  basis: The benefit of worship is called beyond price but not for Pentheus to hear,
+    and the mysteries reject sin-lovers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage speaks of exclusion from mysteries, but it does not depict
+    an initiation rite or a completed acquisition of forbidden knowledge.
+- id: motif:2
+  label: deity with self-chosen guise
+  taxonomy_refs:
+  - shapeshifter
+  basis: The god's guise is said to be whatever he liked, and his shape is not controlled
+    by the speaker Dionysus.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage describes divine freedom of guise or appearance, but does
+    not narrate an actual transformation event.
+- id: motif:3
+  label: trickster accusation around hidden rites
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Pentheus calls Dionysus a trickster and says he is being provoked to seek
+    the mysteries out.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The trickster label is Pentheus' accusation within dialogue; the passage
+    itself does not independently confirm trickster action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 923-949
+  quote_or_summary: 'Pentheus asks what good worship brings; Dionysus answers: "Good
+    beyond price, but not for thee to hear."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 923-949
+  quote_or_summary: Pentheus calls Dionysus "trickster" and says he is provoked to
+    seek the mysteries; Dionysus replies that the mysteries abhor "the touch of sin-lovers."
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 923-949
+  quote_or_summary: 'Pentheus asks what guise the god had; Dionysus answers: "What
+    guise / It liked him. ''Twas not I ordained his shape."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal dialogue content is clear. Motif mappings are cautious because the
+    passage names mysteries and divine guise but does not narrate initiation or transformation
+    in detail. No comparison claims are made beyond the provided taxonomy mappings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l923-l949
+  passage_sha256=4bf776b0bc91b31f6fa28f6b6840db48d74c65d4c596bc9647cfdd18625b4938
+

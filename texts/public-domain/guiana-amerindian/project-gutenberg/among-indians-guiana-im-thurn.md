@@ -1,4 +1,67 @@
+---
+id: south_american.among_indians_guiana.im_thurn_archive
+title: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic from the
+  Interior of British Guiana'
+alternate_titles:
+- Among the Indians of Guiana
+text_status: complete
+tradition: guiana_amerindian
+culture: arawak_carib_warrau_ethnography_with_legends
+region: south_america_guianas
+source_language: Arawak, Carib, and Warrau oral traditions mediated through English
+text_language: English
+date_range: living oral traditions; residence and travel in the interior 1877-1882;
+  published 1883
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.amongindiansgui00thurgoog
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1883 Kegan Paul, Trench
+    & Co. edition (Google Books scan)
+  translator: ''
+  editor: ''
+  publication_year: 1883
+  publisher: Internet Archive
+  source_url: https://archive.org/details/amongindiansgui00thurgoog
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1883, US public domain. Recording context - firsthand ethnography
+    with chapters on animism, kenaima, and spirit beliefs plus paraphrased legends;
+    NOT verbatim texts. Complements the already-ingested Roth and Brett Guiana volumes
+    with earlier independent field observation.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- guiana
+- arawak
+- carib
+- warrau
+- animism
+motifs:
+- spirit_attack
+- shamanic_power
+- transformation
+figures: []
+---
+
 # Among the Indians of Guiana: Being Sketches Chiefly Anthropologic from the Interior of British Guiana
+
 PREFACE.
 
 
@@ -302,7 +365,7 @@ Various Drinks. . . . . .
 
 
 CHAPTER XIV.
- a. MANUFACTURES.
+<a. MANUFACTURES.
 
 
 General Considerations—Pottery—Basket-work—Spinning : Three
@@ -2864,7 +2927,7 @@ long loose folds of coloured calico; some were dressed from
 head to foot in palm-leaves; some, naked but for the usual lap,
 had painted their whole bodies with most elaborate patterns ;
 others had all sorts of quaint ornaments in most marvellous
-variety. All were somewhat the worse for paiwari.  A great
+variety. All were somewhat the worse for paiwari. <A great
 paiwari feast had been begun here on the previous day and
 was to continue for several days more. There were at. least
 two hundred men, women, and children present, each one of
@@ -4610,7 +4673,7 @@ flowers of the former plant rise from their large leaves, the
 edges of which are cut and curled into the likeness of moss,
 which lie flat on the rocks ; and at the same time and place
 innumerable tiny pink stars rise an inch or two over the
-equally moss-like leaves of the Lacis.  A rapid, apparently
+equally moss-like leaves of the Lacis. <A rapid, apparently
 encircled by the forest, and with its rocks all reddened by
 these flowers, is very beautiful and noticeable.
 
@@ -6904,7 +6967,7 @@ AqyBue] Jo pre oy} ynoyz1 ‘aredxe 07 yyuoWTP 31 Puy ] pooyssapun s] 9f UeqA Uo
 eousIeyIp jO ep¥ys og], “pros yet aug us qjim snoufuouds A[}oexa AlOIVI si pxiOM UvIpul ue AZI[wel Ul —"HLON
 
 
- j
+<j
 Zi
 = Ceso “dE TOA | yogmo; UIM94 ulago
 ro ‘veving youd Ut
@@ -9609,7 +9672,7 @@ according to thé fancy of its owner.
 When the river is high, and heavy rain still frequently
 falls and dulls the colour of the water, so that even the
 Indian can hardly see the fish under the surface, a stratagem
-is used.  A basket of open wicker-work, filled with the green
+is used. <A basket of open wicker-work, filled with the green
 apple-like fruit of the lana (Genipa americana), is thrown
 ‘ into the river and allowed to swim with the stream. Standing in the bow of his canoe or wood-skin, while another man
 paddles, the Indian follows the floating basket. The lana
@@ -9785,7 +9848,7 @@ hands. Formerly, and not so very
 long ago, they were probably made
 of the bones of turtle or other
 animals,. of the shells of certain
-molluscs, or of stone.  A True
+molluscs, or of stone. <A True
 Carib, of about forty years of age,
 who served as captain during
 several of my expeditions, has
@@ -11837,7 +11900,7 @@ danger arises from overloading and swamping.’
 The lightest and most easily made boats in use among
 these Indians are ‘woodskins.’ These are usually made of
 the bark either of the locust-tree (Hymenwa courbaril) or
-of the purpleheart (Copaifera pubsflora).  A strip of bark of
+of the purpleheart (Copaifera pubsflora). <A strip of bark of
 sufficient length is first carefully taken from the tree, and this
 is cut to au oblong shape. The natural curve of the bark is
 carefully preserved. From each of the two long sides of
@@ -16768,3 +16831,4 @@ tribes other than those which now inhabit the surrounding
 country. Only a very careful search in such places can settle
 this question. And sucha search would probably be rewarded
 by results of extreme ethnological and archeological value.
+

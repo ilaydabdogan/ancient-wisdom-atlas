@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l24812-l24832
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUREAU  OP  AMEMCAN  ETHNOLOGY / MN8M01R1 / TETON  6I0UX  MUSIC / TWO  SHIELDS;
+    lines 24812-24832
+  start: '24812'
+  end: '24832'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that joining a war party was not treated as a great
+    honor at departure; honor and public demonstration were associated with returning
+    victorious. It introduces a sequence of songs used on war expeditions, especially
+    common war songs or “wolf songs” sung before a war party departed. The songs often
+    mention the wolf because a warrior’s life was thought to resemble that of the
+    wolf. Two Shields is identified as a recorder of several songs and a leading singer
+    at tribal gatherings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Being asked to join a war party was not considered a great honor, and no demonstration
+    was made when the war party left the village.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An old warrior stated that honor lay in coming home victorious and that any
+    demonstration was reserved for the return.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The section presents songs that might be sung on a war expedition, with many
+    descriptive details omitted because they appear in later personal narratives.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The next ten songs are described as common war songs or “wolf songs” sung
+    in societies or other gatherings before a war party departed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Many of the songs mention the wolf because a warrior’s life was supposed to
+    be like that of the wolf.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Two Shields recorded several of these songs and is described as a leading
+    singer at every tribal gathering.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: war party
+  description: A group that leaves the village for a war expedition.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: old warrior
+  description: An unnamed old warrior quoted about honor belonging to victorious return
+    rather than departure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: warrior
+  description: A warrior whose life is said to be like that of the wolf.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: wolf
+  description: An animal mentioned in many of the war songs and used as a comparison
+    for the warrior’s life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Two Shields
+  description: A named singer who recorded several of the war songs and is described
+    as a leading singer at every tribal gathering.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: departing war expedition group
+  assigned_to:
+  - fig:1
+  basis: The war party leaves the village and has songs sung before its departure.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: quoted elder witness
+  assigned_to:
+  - fig:2
+  basis: The old warrior is quoted explaining the relation of honor and demonstration
+    to victorious return.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: wolf-like warrior
+  assigned_to:
+  - fig:3
+  basis: The passage states that the warrior’s life was supposed to be like that of
+    the wolf.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: animal model in war songs
+  assigned_to:
+  - fig:4
+  basis: The wolf is mentioned in many songs because the warrior’s life was compared
+    with it.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: song recorder and leading singer
+  assigned_to:
+  - fig:5
+  basis: Two Shields recorded several songs and is described as a leading singer at
+    tribal gatherings.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: wolf
+  literal_form: wolf
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: victorious return
+  literal_form: coming home victorious
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Departure without demonstration
+  summary: A war party leaves the village without public demonstration because honor
+    is associated with returning victorious rather than with being asked to join.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: War songs before departure
+  summary: Common war songs, also called wolf songs, are sung in societies or gatherings
+    before a war party departs.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Two Shields as singer-recorder
+  summary: Two Shields is identified as having recorded several of the songs and as
+    being a leading singer at tribal gatherings.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: songs before departure on a war expedition
+  taxonomy_refs:
+  - departure
+  basis: The passage describes common war songs or wolf songs sung before the departure
+    of a war party.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is an ethnographic description of song use rather than a narrative
+    mythic episode.
+- id: motif:2
+  label: honor reserved for victorious return
+  taxonomy_refs:
+  - return
+  basis: The quoted old warrior states that honor was in coming home victorious and
+    that demonstration was reserved for the return.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The return pattern is social and ceremonial in this passage; no completed
+    return scene is narrated.
+- id: motif:3
+  label: warrior likened to wolf
+  taxonomy_refs: []
+  basis: The passage says many war songs mention the wolf because the warrior’s life
+    was thought to be like that of the wolf.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Wolf is not among the supplied symbol taxonomy references, so no taxonomy
+    symbol reference is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 24812-24818
+  quote_or_summary: Joining a war party was not treated as a great honor; no demonstration
+    marked departure, and an old warrior said honor and demonstration belonged to
+    victorious return.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 24819-24823
+  quote_or_summary: The section presents songs that might be sung on a war expedition,
+    while omitting many descriptive details found in later personal narratives.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: 24824-24830
+  quote_or_summary: The songs are described as common war songs or “wolf songs” sung
+    before a war party departed; many mention the wolf because “the life of a warrior
+    was supposed to be like that of the wolf.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; brief quote used.
+- id: ev:4
+  type: summary
+  locator: 24830-24832
+  quote_or_summary: Two Shields recorded several of these songs and is described as
+    a leading singer at every tribal gathering.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is ethnographic and ceremonial rather than a mythic narrative. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR irregularities in the passage label and page header were not normalized except in summaries.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l24812-l24832
+  passage_sha256=9c280314e75cc05d5254f5186d92133c034d44ba4f3adfbad3134db3ae49d023
+

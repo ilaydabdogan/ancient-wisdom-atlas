@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l25584-l25591
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION XXXVII / SECTION XXXVIII / SECTION XXXIX / SECTION XL; lines 25584-25591
+  start: '25584'
+  end: '25591'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"Thy behaviour, O Bhishma, is even like that of the old swan."'
+  summary: 'The speaker tells Bhishma that his conduct resembles that of an old swan
+    from a Puranic proverb: the swan preaches virtue while committing the sinful act
+    of eating eggs, and may be slain by other birds just as Bhishma may be slain by
+    angry lords of earth.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Bhishma is directly told that his behaviour is like that of an old swan.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lords of earth are said to be capable of slaying Bhishma in anger.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The possible slaying of Bhishma is compared to birds slaying the old swan.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Persons conversant with the Puranas are said to recite a proverb about this
+    occurrence.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The proverb addresses a wing-supported being whose heart is affected by passions
+    but who still preaches virtue.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The proverb says that the being's sinful act of eating eggs contradicts or
+    transgresses its speech.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bhishma
+  description: The direct addressee whose behaviour is compared to that of the old
+    swan.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: old swan
+  description: A proverbial winged being that preaches virtue while eating eggs and
+    is associated with being slain by birds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: lords of earth
+  description: A group said to be able to slay Bhishma in anger.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: creatures of the feathery tribe
+  description: Birds described as slaying the old swan in the comparison.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: persons conversant with the Puranas
+  description: People said to recite the proverb concerning the old swan.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: admonished addressee
+  assigned_to:
+  - fig:1
+  basis: Bhishma is addressed and his behaviour is judged by comparison to the old
+    swan.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: proverbial negative exemplar
+  assigned_to:
+  - fig:2
+  basis: The old swan is used as an example of one whose conduct contradicts moral
+    speech.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: angered slayers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The lords of earth may slay Bhishma in anger, as birds slay the old swan.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: proverb transmitters
+  assigned_to:
+  - fig:5
+  basis: Persons conversant with the Puranas are said to recite the proverb.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: old swan
+  literal_form: old swan
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: eggs eaten by the swan
+  literal_form: eggs
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: wings
+  literal_form: wings
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bhishma compared to the old swan
+  summary: The speaker tells Bhishma that his behaviour resembles that of an old swan
+    and warns that angry lords of earth may slay him as birds slew the swan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Recitation of the Puranic proverb
+  summary: A proverb known to persons conversant with the Puranas is repeated, accusing
+    a winged being of preaching virtue while committing the sinful act of eating eggs.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: proverbial animal exemplum used for admonition
+  taxonomy_refs:
+  - wisdom
+  basis: The passage invokes a proverb about the old swan to interpret and admonish
+    Bhishma's behaviour.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy has no specific animal-proverb or hypocrisy motif;
+    the 'wisdom' reference is broad and should be reviewed.
+- id: motif:2
+  label: moral preaching contradicted by sinful action
+  taxonomy_refs: []
+  basis: The proverb states that the winged being preaches virtue while eating eggs,
+    an act described as sinful and contradictory to its speech.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level motif label rather than a supplied taxonomy category.
+- id: motif:3
+  label: angered group slays the offending figure
+  taxonomy_refs: []
+  basis: The passage says Bhishma might be slain by angry lords just as the old swan
+    is slain by birds.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief analogy and does not narrate the old swan
+    episode in full.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Bhishma's conduct to the Puranic old-swan
+    proverb, presenting both as cases where conduct invites condemnation or violent
+    reaction.
+  claim_level: same_function
+  target: Puranic proverb of the old swan
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison stated by the passage; no external variant
+    of the proverb is provided here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '25584'
+  quote_or_summary: '"Thy behaviour, O Bhishma, is even like that of the old swan."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: 25584-25586
+  quote_or_summary: The speaker says lords of earth might slay Bhishma in anger like
+    birds slaying the old swan.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 25586-25589
+  quote_or_summary: Persons conversant with the Puranas are said to recite a proverb
+    about the occurrence, and the speaker says he will repeat it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 25589-25591
+  quote_or_summary: The proverb addresses one who supports itself on wings and preaches
+    virtue though its heart is affected by passions.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: '25591'
+  quote_or_summary: '"this thy sinful act of eating up the eggs transgresseth thy
+    speech"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief but explicit about the comparison to the old swan proverb.
+    Motif taxonomy mapping is limited because the available taxonomy lacks a precise
+    hypocrisy or animal-exemplum category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l25584-l25591
+  passage_sha256=bb75952fbff3b7e9994d5d425c040c0e36dae5a0bd23ed05674a2da09e81eb75
+

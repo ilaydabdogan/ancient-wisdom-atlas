@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l31732-l31776
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: BOTANY. / APPENDIX    H  463 / APPENDIX  I. / ZOOLOGY.; lines 31732-31776
+  start: '31732'
+  end: '31776'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Appendix I, headed Zoology, gives British Museum-supplied information on
+    mammals of the Oban District. It lists scientific names, some Ekoi names in parentheses,
+    common names, specimen notes, skull collection notes, and taxonomic remarks about
+    a Galago species.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a zoological appendix section on mammals of the Oban District,
+    with information attributed to British Museum personnel and a note that Ekoi names
+    appear in parentheses.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The list includes primate taxa with scientific names, common names, and some
+    Ekoi names, including the white-collared Mangabey, Mona Guenon, Nigerian Baboon,
+    and Drill Ape.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: A skull from Oban is noted for Papio nigeria, identified as the Nigerian Baboon
+    with the Ekoi name Monni Nshum.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: For Papio leucophxus, identified as Drill Ape with the Ekoi name Nshum, the
+    passage notes two specimens and nine additional skulls collected by Mr. Talbot.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the nine Drill Ape skulls were the first such skulls
+    received by the Museum.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Andropopithecus troglodytes is listed with the Ekoi name Nyokk and identified
+    as Chimpanzee.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Galago talboti is listed with the Ekoi name Ebopp and described as a new species
+    represented by skins and skulls from adult and immature specimens.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The young pelage of Galago talboti is described as greyer and less suffused
+    with the yellowish-buff tint dominant in the adult phase.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The Nigerian Galago form is judged distinct from G. elegantulus because of
+    color differences, especially on the under parts.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dr. Harmer, F.R.S.
+  description: British Museum figure through whose kindness the zoological information
+    was supplied.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Guy Dollman
+  description: British Museum contributor named as author of the mammals of the Oban
+    District section.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Mr. Talbot
+  description: Collector credited with collecting nine skulls of the Drill Ape.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Cercocebus collaris
+  description: Scientific entry identified as the white-collared Mangabey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Cercopithecus mona
+  description: Scientific entry identified as the Mona Guenon, with Ekoi name Mbuk.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Papio nigeria
+  description: Scientific entry identified as the Nigerian Baboon, with Ekoi name
+    Monni Nshum, and associated with a skull from Oban.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Papio leucophxus
+  description: Scientific entry identified as Drill Ape, with Ekoi name Nshum, and
+    associated with specimens and skulls.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Andropopithecus troglodytes
+  description: Scientific entry identified as Chimpanzee, with Ekoi name Nyokk.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Galago talboti
+  description: Scientific entry identified as a new species with Ekoi name Ebopp,
+    represented by adult and immature skins and skulls.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: information supplier
+  assigned_to:
+  - fig:1
+  basis: The passage says the information was supplied through Dr. Harmer's kindness.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: section author
+  assigned_to:
+  - fig:2
+  basis: The mammals of the Oban District section is attributed to Guy Dollman of
+    the British Museum.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: collector
+  assigned_to:
+  - fig:3
+  basis: Mr. Talbot is said to have collected nine skulls of the rare ape.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: listed mammal taxon
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: Each appears as an entry in the mammals of the Oban District list.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: new species under taxonomic discussion
+  assigned_to:
+  - fig:9
+  basis: Galago talboti is marked as sp. nov. and discussed as distinct from related
+    forms.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: specimen-associated taxon
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:9
+  basis: The passage notes a skull for Papio nigeria, specimens and skulls for Papio
+    leucophxus, and skins and skulls for Galago talboti.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Zoological list of Oban mammals
+  summary: The passage introduces a zoological appendix and lists mammals of the Oban
+    District with scientific, common, and some Ekoi names.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Specimen and taxonomic notes
+  summary: The passage records specimen and skull information for several primates
+    and gives descriptive taxonomic notes for Galago talboti.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 31732-31744
+  quote_or_summary: Appendix I is headed Zoology; information is attributed to Dr.
+    Harmer of the British Museum, the mammals section to Guy Dollman, and Ekoi names
+    are noted as appearing in parentheses.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 31745-31752
+  quote_or_summary: Entries list Cercocebus collaris as white-collared Mangabey, Cercopithecus
+    mona as Mona Guenon with Ekoi name Mbuk, and Papio nigeria as Nigerian Baboon
+    with Ekoi name Monni Nshum and a skull from Oban.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 31753-31764
+  quote_or_summary: Papio leucophxus is listed as Drill Ape with Ekoi name Nshum;
+    two specimens are noted, and Mr. Talbot is said to have collected nine skulls,
+    the first the Museum had received.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 31765-31773
+  quote_or_summary: Andropopithecus troglodytes is listed as Chimpanzee with Ekoi
+    name Nyokk; Galago talboti is listed as a new species with Ekoi name Ebopp and
+    described from skins and skulls, adult and immature, with notes on young pelage.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 31774-31776
+  quote_or_summary: The Nigerian Galago form is treated as distinct from G. elegantulus
+    because of color differences, especially on the under parts, and as deserving
+    specific rank.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a zoological appendix rather than a mythic or ritual narrative.
+    Literal entities and observations are extractable, but no supported mythological
+    motifs, symbols, or comparison claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol refs were applied because the passage provides zoological catalog data and does not support mythological interpretation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l31732-l31776
+  passage_sha256=b28b42a317dac56b4e44561e82cbf361b9690b1d957f561efeb61f73cbcefad9
+

@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l10586-l10607
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: AGRICULTURAL CHARMS. / HUNTING CHARMS. / FISHING CHARMS. / DUGONG AND TURTLE
+    CHARMS.; lines 10586-10607
+  start: '10586'
+  end: '10607'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes charms used for dugong and turtle fishing nets:
+    a dried raptorial bird claw is placed under a dugong net before use; gum resin
+    is burned so its fumes pass through dugong and turtle nets; turtle nets may also
+    be treated with quartz fragments; and sexual restrictions apply to the leader
+    of a turtle or dugong fishing party.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dried claw of a large raptorial bird is left under a spread-out dugong net
+    for a few minutes before the net is used.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fragments of gum resin are placed on glowing embers in a canoe so that fumes
+    rise through a net held above the smouldering mass.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fragments of gum resin are also burned under turtle nets.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Turtle nets may be treated by leaving fragments of quartz under them for a
+    few minutes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that sexual restrictions are imposed on the leader of a
+    turtle or dugong fishing party.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The procedure takes place in relation to dugong and turtle fishing nets, with
+    one fumigation described as occurring in a canoe.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: large raptorial bird
+  description: A bird identified only through its dried claw, which is used in treatment
+    of a dugong net.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: leader of a turtle or dugong fishing party
+  description: The party leader is subject to sexual restrictions connected with turtle
+    or dugong fishing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: source animal for claw charm
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the charm object as the dried claw of a large raptorial
+    bird.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: restricted fishing-party leader
+  assigned_to:
+  - fig:2
+  basis: The passage says sexual restrictions are imposed on the leader of a turtle
+    or dugong fishing party.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dried raptorial bird claw
+  literal_form: dried claw of a large raptorial bird
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dugong net
+  literal_form: spread-out dugong net
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: gum resin fumes
+  literal_form: gum resin fragments burned so fumes rise through the net
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: embers or smouldering fire
+  literal_form: glowing embers and smouldering mass in the canoe
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: turtle net
+  literal_form: turtle nets treated with burned gum resin or quartz fragments
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: quartz fragments
+  literal_form: fragments of quartz left under turtle nets
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: sexual restriction
+  literal_form: sexual restrictions imposed on the fishing-party leader
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dugong net treated with bird claw
+  summary: Before use, a dried claw from a large raptorial bird is placed under a
+    spread-out dugong net for a few minutes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Net fumigated with gum resin in canoe
+  summary: Gum resin fragments are burned on embers in a canoe, and the net is held
+    above the smoke so fumes pass through it.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Turtle nets treated with resin or quartz
+  summary: Turtle nets are treated by burning gum resin beneath them and may also
+    be treated by placing quartz fragments under them for a few minutes.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Leader subject to sexual restrictions
+  summary: The passage notes that the leader of a turtle or dugong fishing party is
+    subject to sexual restrictions.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual charm treatment of hunting or fishing gear
+  taxonomy_refs: []
+  basis: The passage repeatedly describes objects placed under or fumes passed through
+    dugong and turtle nets before use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes procedures but does not state the intended magical
+    mechanism or expected result in detail.
+- id: motif:2
+  label: fumigation of nets with resin smoke
+  taxonomy_refs: []
+  basis: Gum resin is burned so that fumes rise through a net, and the same method
+    is applied to turtle nets.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The symbolic meaning of the resin and smoke is not explained in the passage.
+- id: motif:3
+  label: animal part used as charm for fishing equipment
+  taxonomy_refs: []
+  basis: A dried claw of a large raptorial bird is placed under a dugong net before
+    use.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not specify why a raptorial bird claw is chosen.
+- id: motif:4
+  label: mineral object used as charm for fishing equipment
+  taxonomy_refs: []
+  basis: Fragments of quartz may be left under turtle nets for a few minutes as a
+    treatment.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the symbolic value of quartz.
+- id: motif:5
+  label: sexual restriction linked to ritual fishing leadership
+  taxonomy_refs: []
+  basis: The passage states that sexual restrictions are imposed on the leader of
+    a turtle or dugong fishing party.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Details of the restriction are not included in this passage; the text
+    only refers to an earlier discussion.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents dugong-net and turtle-net procedures as serving a similar
+    ritual function, especially through the shared use of gum resin burned beneath
+    or through nets.
+  claim_level: same_function
+  target: dugong and turtle net charm procedures within this passage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to functional similarity within the passage; it
+    does not establish shared origin, wider distribution, or identical symbolism.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10586-10607
+  quote_or_summary: A dried claw of a large raptorial bird is left under a spread-out
+    dugong net for a few minutes before the net is used.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 10586-10607
+  quote_or_summary: Gum resin fragments are placed on glowing embers in a canoe, and
+    the fumes rise through a net held above the smouldering mass.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 10586-10607
+  quote_or_summary: Gum resin is burned under turtle nets; turtle nets may also be
+    treated by leaving quartz fragments beneath them for a few minutes.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summary supplied for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 10586-10607
+  quote_or_summary: The text notes sexual restrictions imposed on the leader of a
+    turtle or dugong fishing party, referring to a previous page for details.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summary supplied for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal procedures are clear. Motif labels are descriptive rather than
+    tied to a supplied taxonomy. The comparison claim is confined to the passage’s
+    own parallel treatment of dugong and turtle nets.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or unsupported taxonomy assignments were added; only the available symbol reference 'fire' is used for the literal embers/smouldering mass.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l10586-l10607
+  passage_sha256=5af27f52511f1447a9664773e8047345eeb604e0dedbdae0f76dc9eb15dc9ce5
+

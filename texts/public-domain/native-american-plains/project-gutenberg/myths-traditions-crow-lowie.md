@@ -1,4 +1,69 @@
+---
+id: native_american.myths_traditions_crow.lowie_archive
+title: Myths and Traditions of the Crow Indians
+alternate_titles:
+- Myths and Traditions of the Crow Indians (AMNH Anthropological Papers vol. XXV part
+  1)
+text_status: complete
+tradition: native_american_plains
+culture: crow_field_recorded_myths
+region: north_america_northern_plains
+source_language: Crow (Apsáalooke)
+text_language: English
+date_range: living oral traditions; recorded 1907-1916 from named Crow narrators;
+  published 1918 (Anthropological Papers of the AMNH, vol. XXV part 1)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.mythstraditionso0025lowi
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1918 American Museum
+    of Natural History edition
+  translator: Robert H. Lowie
+  editor: ''
+  publication_year: 1918
+  publisher: Internet Archive
+  source_url: https://archive.org/details/mythstraditionso0025lowi
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1918, US public domain. Recording context - texts collected through
+    interpreters from named narrators over nine field seasons, translations close
+    to dictation; Old Man Coyote creation cycle, Lodge Boy and Thrown Away, and vision-quest
+    origin narratives.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- crow
+- apsaalooke
+- plains
+- verbatim_texts
+- holdout_priority
+motifs:
+- earth_diver
+- coyote_trickster
+- twin_heroes
+- vision_quest
+- sun_father
+figures: []
+---
+
 # Myths and Traditions of the Crow Indians
+
 MYTHS AND TRADITIONS OF THE CROW INDIANS.
 By Robert H. Lowie.
 
@@ -3893,7 +3958,7 @@ recollect until after he was gone on the following day. She felt sorry about
 thP n Th6 Cl°Z Tm6S arS Thrown-inside-the-spring (•baha-wua-ci'tu) and Thrown-beliind
 the-curtam-of-the-lodge (bita'ricia-aritsia^ci'tu). The three variants are hue r>i +
 
-3,T wTtoll,r respectively. “ew.  e 28„ 22T
+3,T wTtoll,r respectively. “ew. <e 28„ 22T
 
 308. Wissler and Duvall, 40; Matthews. 64; Kroeber, (a). ,7, Dorse, and “Leir.
 
@@ -7579,7 +7644,7 @@ The hawk tried first, but in vain. The yellow-tailed hawk tried, but failed.
 chopped it in two. The smaller birds cheered and ate the head. The Crow
 said, “ \ ou may bite off my arrows for me.” They ate up the long-otters
 and brought back his four arrows. He had no way of getting down.
-Thunder asked him which of the birds he liked. 1 I like the condor.”
+Thunder asked him which of the birds he liked. 1<I like the condor.”
 Then they transformed him entirely into a condor. He took the two
 arrowheads and placed them on his wings. The condor went with this
 man-condor and the other birds went away. They came to some big water;
@@ -15516,5 +15581,4 @@ s shown by the Blackfoot tales, Wissler and Duvall, 109, 112. See also Bowie, (d
 
 
 787 2.
-
 

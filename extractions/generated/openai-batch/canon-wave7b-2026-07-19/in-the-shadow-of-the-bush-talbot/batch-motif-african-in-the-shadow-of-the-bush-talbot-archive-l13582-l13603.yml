@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l13582-l13603
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: BEYOND   NETIM  253 / UYANGA   AND    EKURI / UYANGA   AND    EKURI  259
+    / UYANGA   AND    EKURI  261; lines 13582-13603
+  start: '13582'
+  end: '13603'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes seated male and female figures surrounded by offerings;
+    a Juju man whose house contains skulls and carved wooden heads covered with human
+    skin; a custom of marking a dead chief’s house with his coat and umbrella on a
+    tall palm stem; and a war dance now using wooden masks covered with skin instead
+    of freshly killed enemies’ heads.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two seated figures are on the ground and are surrounded by offerings.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The female figure has long upright ears with a rabbit-like appearance, and
+    the male figure wears a false beard.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Three human skulls are embedded in the mud before the Juju man’s door.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Human sacrifices were formerly offered before the skulls.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Many human skulls or similar relics are displayed inside the Juju man’s house.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Juju man possessed ancient carved wooden heads covered with human skin.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: One carved wooden head is said to resemble a fourteenth-century helmet.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: When a chief dies, his coat and umbrella are customarily fixed to the top
+    of a tall palm stem raised before his house.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: An old war dance was performed for the observers.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: In the present practice, wooden masks covered with skin are used instead of
+    freshly killed enemies’ heads formerly carried by victors.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: female seated figure
+  description: A seated female figure on the ground, surrounded by offerings, with
+    long upright ears giving a rabbit-like appearance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: male seated figure
+  description: A seated male figure on the ground, surrounded by offerings, wearing
+    a false beard.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: famous Juju man
+  description: A Juju man whose doorway has three embedded human skulls and whose
+    house contains many relics and carved wooden heads covered with human skin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: dead chief
+  description: A chief whose death is marked by affixing his coat and umbrella to
+    the top of a tall palm stem before his house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: victors in former war practice
+  description: Victors formerly carried freshly killed heads of enemies in the war
+    dance context.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ritual or cult figures receiving offerings
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The figures are seated and surrounded by offerings; one is explicitly described
+    as a goddess in the passage fragment.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual specialist or Juju man
+  assigned_to:
+  - fig:3
+  basis: The passage identifies him as a famous Juju man and describes skulls and
+    relics associated with his house.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: deceased chief commemorated by personal objects
+  assigned_to:
+  - fig:4
+  basis: The passage describes the custom performed when a chief dies.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: war victors bearing enemy heads
+  assigned_to:
+  - fig:5
+  basis: The passage states that freshly killed heads of enemies were formerly borne
+    by victors.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: offerings around seated figures
+  literal_form: offerings placed around seated male and female figures
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: human skulls before door
+  literal_form: three human skulls embedded in mud before the Juju man’s door
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: carved wooden heads covered with human skin
+  literal_form: ancient carved wooden heads covered with human skin
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: chief’s coat and umbrella on palm stem
+  literal_form: coat and umbrella fixed to a tall palm stem raised before the dead
+    chief’s house
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: skin-covered wooden war masks
+  literal_form: wooden masks covered with skin used in place of enemy heads
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: seated figures with offerings
+  summary: The passage describes male and female seated figures on the ground, surrounded
+    by offerings, with distinctive bodily or costume features.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Juju man’s skulls and skin-covered heads
+  summary: A Juju man’s house is associated with embedded skulls, former human sacrifices,
+    numerous relics, and carved wooden heads covered with human skin.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: dead chief’s house marker
+  summary: At a chief’s death, his coat and umbrella are fixed to a tall palm stem
+    raised before his house.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: old war dance and substitution of masks for enemy heads
+  summary: An old war dance is performed; present-day dancers use skin-covered wooden
+    masks instead of the freshly killed heads formerly carried by victors.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: offerings to seated sacred figures
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes seated figures surrounded by offerings.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage excerpt is fragmentary and does not explain the ritual meaning
+    of the offerings.
+- id: motif:2
+  label: human sacrifice before skull relics
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that human sacrifices used to be offered before three
+    skulls embedded at the Juju man’s door.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage reports the practice retrospectively and does not provide
+    ritual narration or participants beyond the Juju man’s house context.
+- id: motif:3
+  label: commemoration of a dead chief with elevated personal objects
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage describes a customary death marker for a chief using his coat
+    and umbrella raised on a tall palm stem before his house.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the custom but does not explicitly state its symbolic
+    or legitimating function.
+- id: motif:4
+  label: ritual substitution of masks for enemy heads in war dance
+  taxonomy_refs: []
+  basis: The passage contrasts present use of wooden masks covered with skin with
+    the former carrying of freshly killed enemies’ heads by victors.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly matches this substitution pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents skin-covered wooden masks as functionally replacing
+    the freshly killed heads of enemies formerly borne by victors in an old war dance.
+  claim_level: same_function
+  target: former use of enemy heads in the war dance
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison within the reported practice, not evidence
+    of wider historical contact or diffusion.
+- id: claim:2
+  claim: One carved wooden head is visually compared by the narrator to a fourteenth-century
+    helmet.
+  claim_level: visual_similarity
+  target: fourteenth-century helmet
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based only on the narrator’s visual impression and
+    does not establish origin, function, or contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13582-13586
+  quote_or_summary: Seated male and female figures are on the ground surrounded by
+    offerings; the female has long upright ears and the male wears a false beard.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 13586-13590
+  quote_or_summary: A famous Juju man’s doorway has three human skulls embedded in
+    mud; human sacrifices were formerly offered before them, and many such relics
+    are displayed inside.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 13590-13594
+  quote_or_summary: The Juju man possessed ancient carved wooden heads covered with
+    human skin; one obtained example is said to resemble a fourteenth-century helmet.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 13595-13598
+  quote_or_summary: When a chief dies in this region, his coat and umbrella are fixed
+    to the top of a tall palm stem raised before his house.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 13600-13603
+  quote_or_summary: An old war dance is performed; now wooden masks covered with skin
+    are used instead of freshly killed enemy heads formerly carried by victors.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is limited by the excerpt’s fragmentary opening and by the
+    ethnographic narrator’s brief descriptions without extended indigenous explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; interpretive labels are kept cautious and evidence-linked.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l13582-l13603
+  passage_sha256=a368610ffe42389737f75e03059b4d8311af5c6a0710caa84f35c274c21e75e6
+

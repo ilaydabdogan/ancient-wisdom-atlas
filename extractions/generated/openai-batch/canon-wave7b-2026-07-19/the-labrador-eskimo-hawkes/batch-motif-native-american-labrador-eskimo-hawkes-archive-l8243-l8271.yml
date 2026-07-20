@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l8243-l8271
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: THE  QUARREL  OF  THE  CROW  AND  THE  GULL. / THE   GIRL  WHO  MARRIED   A  WHALE.
+    / THE  STORY  OF  THE  SUN  AND  MOON. / THE    STORY   OF    THE    FOX-WIFE.;
+    lines 8243-8271
+  start: '8243'
+  end: '8271'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A widowed hunter finds his house mysteriously kept in order. He hides and
+    discovers a fox entering; inside he finds a beautiful woman, with a fox skin hanging
+    above the lamp. She marries him. Later, when he notices a strong fox odor and
+    questions her, she warns that she will leave if scolded, puts on the fox skin,
+    disappears, and is never seen by him again.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man has lost his wife and lives alone.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Each day after returning from hunting, the man finds the house in order, with
+    no visible signs of a person inside or tracks outside.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man hides near the entrance instead of going hunting in order to see who
+    enters the house.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: He sees a fox enter the house and follows it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Inside the house he finds a beautiful woman dressed in skins, and the skin
+    of a fox hanging on the rack above the lamp.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The man asks the woman to marry him, and she becomes his wife.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: After they have lived together happily for a long time, the husband notices
+    a strong odor in the house and asks where it comes from.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The woman says the smell is the odor of the fox and says she will run away
+    if he scolds her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: She puts on the fox skin, leaves at once, and the man never sees her again.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: widowed hunter / husband
+  description: A man who has lost his wife, lives alone, goes hunting, discovers the
+    fox-wife, marries her, questions the fox odor, and loses her when she leaves.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: fox-wife / beautiful woman
+  description: A fox is seen entering the house; inside, the man finds a beautiful
+    woman dressed in skins with a fox skin above the lamp. She becomes his wife, identifies
+    the odor as fox odor, puts on the fox skin, and leaves.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: widowed hunter
+  assigned_to:
+  - fig:1
+  basis: The man has lost his wife, lives alone, and returns from hunting.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hidden observer and husband
+  assigned_to:
+  - fig:1
+  basis: He hides to learn who enters the house, then asks the woman to marry him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: unseen housekeeper
+  assigned_to:
+  - fig:2
+  basis: The house is kept in order while the man is away; the sequence then reveals
+    a fox entering and a woman in the house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: animal-form spouse
+  assigned_to:
+  - fig:2
+  basis: The title names a fox-wife; a fox enters before the woman is found, and she
+    later puts on the fox skin and departs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: departing wife
+  assigned_to:
+  - fig:2
+  basis: After the husband asks about the odor, she says she will run away if scolded,
+    puts on the fox skin, and is gone.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fox skin
+  literal_form: The skin of a fox hanging on the rack above the lamp; later the woman
+    slips it on before leaving.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Mysterious care of the house
+  summary: A widowed hunter returns from hunting each day to find his house in order,
+    although he sees no person and finds no tracks.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Discovery of the fox-wife
+  summary: The man hides near the entrance, sees a fox enter, follows it, and finds
+    a beautiful woman inside beside a hanging fox skin; he asks her to marry him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fox odor and departure
+  summary: After a long happy marriage, the man notices a strong odor. The wife identifies
+    it as fox odor, warns that she will run away if scolded, puts on the fox skin,
+    and disappears permanently.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Fox-wife as animal spouse shapeshifter
+  taxonomy_refs:
+  - shapeshifter
+  basis: A fox enters the house; the man finds a woman with a fox skin, marries her,
+    and she later puts on the fox skin and leaves.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly explain the mechanics of transformation
+    or whether she is an animal, spirit, or woman using an animal skin.
+- id: motif:2
+  label: Unseen domestic helper discovered by concealment
+  taxonomy_refs: []
+  basis: The man repeatedly finds his house mysteriously ordered and hides near the
+    entrance to discover who is entering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The helper's identity in the first scene is inferred from the following
+    discovery scene; no supplied taxonomy reference directly names this pattern.
+- id: motif:3
+  label: Animal spouse's final departure after her animal nature is confronted
+  taxonomy_refs:
+  - departure
+  - shapeshifter
+  basis: When the husband questions the strong odor, the wife identifies it as fox
+    odor, warns against scolding, puts on the fox skin, and disappears forever.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a warning about scolding but not a formal taboo or
+    explicit broken prohibition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8243-8251
+  quote_or_summary: The story is titled as the Fox-Wife; a man who has lost his wife
+    lives alone and returns from hunting to find the house in order without signs
+    of a person or tracks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 8258-8264
+  quote_or_summary: The man hides near the entrance, sees a fox enter, follows it,
+    and inside finds a beautiful woman dressed in skins with a fox skin hanging above
+    the lamp; he asks her to marry him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 8265-8271
+  quote_or_summary: After living happily, the husband detects a strong odor; she says
+    it is fox odor and will run away if scolded, then puts on the fox skin, leaves,
+    and is never seen by him again.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage gives limited explanation of the fox-wife's nature and no explicit
+    cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The blockquoted note within the supplied passage appears unrelated to the fox-wife story action and was not used as motif evidence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l8243-l8271
+  passage_sha256=c1639bfb5d509c5f033dfac2da028fdd459764dfa1ab929721d40dba5a31160a
+

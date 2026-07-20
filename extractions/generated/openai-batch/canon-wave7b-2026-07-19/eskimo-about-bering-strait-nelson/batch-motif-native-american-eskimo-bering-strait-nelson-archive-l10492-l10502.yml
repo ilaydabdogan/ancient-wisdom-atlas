@@ -1,0 +1,187 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l10492-l10502
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    ESKIMO    ABOUT    BERING    STRAIT / FISH  ARROWS / ARROWPOINTS /
+    QUIVERS; lines 10492-10502
+  start: '10492'
+  end: '10502'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes two quiver-related artifacts: a fish-skin quiver
+    from the lower Yukon with attached cords, and a long ivory rod obtained at St
+    Michael, intended to stiffen a quiver, with a crescentic cross section, a wolf''s-head
+    terminal, and lashing holes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fish-skin quiver from the lower Yukon is represented in figure 8 of plate
+    LXIC.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fish-skin quiver has a cord attached at the upper edge and another point
+    about midway on one side.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A long ivory rod from St Michael is described as intended for insertion along
+    the side of a quiver to stiffen it.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The ivory rod is crescentic in cross section and larger at one end.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One end of the ivory rod terminates in the figure of a wolf's head.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The back of the ivory rod has three holes for the passage of a lashing.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Mr Turner obtained the ivory rod at St Michael.
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Mr Turner
+  description: Named person who obtained the long ivory rod at St Michael.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: collector or procurer of artifact
+  assigned_to:
+  - fig:1
+  basis: The passage states that the ivory rod was obtained at St Michael by Mr Turner.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fish-skin quiver
+  literal_form: A fish-skin quiver from the lower Yukon with cord attachments.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ivory quiver-stiffening rod
+  literal_form: A long ivory rod intended for insertion along the side of a quiver
+    to stiffen it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wolf's-head terminal
+  literal_form: The figure of a wolf's head at one end of the ivory rod.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: three lashing holes
+  literal_form: Three holes on the back of the ivory rod for the passage of a lashing.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fish-skin quiver description
+  summary: The passage identifies and describes a lower Yukon fish-skin quiver with
+    cord attachments.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ivory rod description
+  summary: The passage identifies a long ivory rod from St Michael, explains its use
+    in stiffening a quiver, and describes its shape, wolf's-head terminal, and lashing
+    holes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal-head terminal on implement
+  taxonomy_refs: []
+  basis: The ivory quiver-stiffening rod terminates in the figure of a wolf's head.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is an artifact description and does not state any mythic,
+    ritual, or symbolic meaning for the wolf's-head form.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10492-10495
+  quote_or_summary: Figure 8, plate LXIC, represents a fish-skin quiver from the lower
+    Yukon with a cord attached at the upper edge and midway on one side.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 10496-10499
+  quote_or_summary: Figure 27, plate LXI, shows a long ivory rod obtained at St Michael
+    by Mr Turner and intended to stiffen a quiver.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: quote
+  locator: 10499-10501
+  quote_or_summary: '"terminates in the figure of a wolf''s head"'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: 10501-10502
+  quote_or_summary: The back of the rod has three holes for the passage of a lashing.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and concrete. Motif identification is limited
+    to an art-object pattern; no comparative or mythic interpretation is stated in
+    the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif-family reference is directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l10492-l10502
+  passage_sha256=cec592f34295a44200a6600c23b8bc3befa5c5c786587bcd0e73500e3abb3193
+

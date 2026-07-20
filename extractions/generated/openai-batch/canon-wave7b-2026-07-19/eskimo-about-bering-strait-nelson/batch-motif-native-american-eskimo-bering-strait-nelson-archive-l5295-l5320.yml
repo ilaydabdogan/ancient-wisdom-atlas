@@ -1,0 +1,184 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l5295-l5320
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: LADLES    AND     DIPPERS    (ONE-FIFTH) / IMPLEMENTS    OF    VARIOUS    KINDS
+    / SNOW   BEATERS / THE    ESKIMO    ABOUT    BERING    STRAIT; lines 5295-5320
+  start: '5295'
+  end: '5320'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes implement construction details, including pierced
+    holes, cords, a cloth knob, and belt attachment. It then describes a Cape Prince
+    of Wales ivory specimen with notched handle borders and notes strongly curved
+    deer-horn beaters observed in use among people on the eastern Siberian coast,
+    similar to examples from St Lawrence Island and the lower Yukon.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One implement is pierced with a series of holes through which cords pass and
+    wrap around the handle for a stronger grip.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A short double cord with a cloth-roll knob is attached to the handle so the
+    implement can be buttoned to the belt and carried conveniently.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Cape Prince of Wales specimen consists of a long, tapering piece of ivory,
+    nearly flat on one side and beveled to three surfaces on the other.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Cape Prince of Wales specimen has a handle with a series of notches along
+    each border.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Strongly curved deer-horn beaters were observed in use among people of the
+    eastern Siberian coast.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The eastern Siberian coast deer-horn beaters are described as similar to those
+    found on St Lawrence Island and the lower Yukon.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: natives of the eastern Siberian coast
+  description: People among whom strongly curved deer-horn beaters were observed in
+    use.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: users of deer-horn beaters
+  assigned_to:
+  - fig:1
+  basis: The passage says the strongly curved deer-horn beaters were observed in use
+    among them.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: belt-carried handled implement
+  literal_form: Pierced implement with cords, handle wrapping, double cord, cloth
+    knob, and belt attachment.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: ivory specimen from Cape Prince of Wales
+  literal_form: Long, tapering ivory piece, nearly flat on one side and beveled to
+    three surfaces on the other, with notched handle borders.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: strongly curved deer-horn beater
+  literal_form: Curved beater made of deer horn, observed in use on the eastern Siberian
+    coast.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of implements and beaters
+  summary: The passage describes construction and carrying features of one handled
+    implement, an ivory specimen from Cape Prince of Wales, and curved deer-horn beaters
+    used on the eastern Siberian coast.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage states that strongly curved deer-horn beaters observed on the
+    eastern Siberian coast are similar to those found on St Lawrence Island and the
+    lower Yukon.
+  claim_level: visual_similarity
+  target: strongly curved deer-horn beaters from St Lawrence Island and the lower
+    Yukon
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief similarity statement and does not specify
+    exact dimensions, makers, chronology, or routes of transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5295-5299
+  quote_or_summary: An implement is pierced with holes; cords pass through them and
+    wrap around the handle to strengthen the grip.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5299-5305
+  quote_or_summary: A short double cord with a cloth-roll knob is attached to the
+    handle, allowing the implement to be buttoned to a belt for convenient carrying.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5307-5315
+  quote_or_summary: A Cape Prince of Wales specimen is a long tapering ivory piece,
+    flat on one side, beveled to three surfaces on the other, with notches along each
+    border of the handle.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 5315-5320
+  quote_or_summary: Strongly curved deer-horn beaters, similar to examples from St
+    Lawrence Island and the lower Yukon, were observed in use among people of the
+    eastern Siberian coast.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is a material-culture description with no mythic narrative motifs.
+    Comparison is limited to the text's explicit similarity statement about deer-horn
+    beaters across regions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family or symbol references were assigned because the passage describes implements and regional similarity rather than mythological motifs from the supplied taxonomy.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l5295-l5320
+  passage_sha256=956f7dea265e881de82ba7554162994a7e4f79408f86dbaf96669f7774e375d7
+

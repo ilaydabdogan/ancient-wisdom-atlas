@@ -1,0 +1,405 @@
+---
+record_id: batch.motif.greek-homeric-hymns-lang-gutenberg-l273-l342
+source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+passage_locator:
+  label: PREFACE / ESSAYS INTRODUCTORY / THE SO-CALLED HOMERIC HYMNS / THE HYMN TO
+    APOLLO; lines 273-342
+  start: '273'
+  end: '342'
+  translation: The Homeric Hymns
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is an introductory discussion of the Hymn to Apollo. It describes
+    the hymn as difficult and textually corrupt, explains a division between a Delian
+    section on Apollo''s birth and shrine and a Delphian/Pythian section on Apollo''s
+    oracle and fane, summarizes Verrall''s theory that the latter part is a political
+    anti-Delphic addition, and mentions several mythic or cultic details: Typhaon''s
+    birth from Hera''s anger, Apollo''s threat to Cretan ministers, Trophonius and
+    Agamedes as builders, the derivation of Pytho from rot, and Apollo as Dolphin
+    God associated with a shore altar.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage says the Hymn to Apollo is divided in this version into two portions:
+    one about Apollo''s birth and the foundation of his shrine on Delos, and one about
+    the establishment of his oracle and fane at Delphi.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies the second part as concerning Apollo as Delphinian
+    and Pythian.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that lines 305-355 contain an intercalated myth about the
+    birth of Typhaon from Hera's anger.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage reports a divine threat by Apollo to his Cretan ministers, warning
+    them against arrogance.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says the Hymn represents Trophonius and Agamedes as the original
+    builders, a representation said to contradict Delphian tradition.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage notes a derivation of the name Pytho from a word meaning rot.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage contrasts an altar of the seaman's Dolphin God on the shore with
+    Apollo's inland Pythian habitation.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Apollo
+  description: A god whose birth, Delian shrine, Delphian oracle and fane, and Delphinian/Pythian
+    aspects are discussed; he also threatens Cretan ministers and is called the seaman's
+    Dolphin God.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Typhaon
+  description: A being whose birth from Hera's anger is mentioned as an intercalated
+    myth.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Hera
+  description: A goddess whose anger is named as the source or context for Typhaon's
+    birth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Cretan ministers
+  description: Apollo's ministers who receive a warning against arrogance.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Trophonius
+  description: One of the figures represented by the Hymn as an original builder.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Agamedes
+  description: One of the figures represented by the Hymn as an original builder.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deity whose birth is narrated
+  assigned_to:
+  - fig:1
+  basis: The first portion of the hymn is described as dealing with Apollo's birth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: foundational cult deity
+  assigned_to:
+  - fig:1
+  basis: The passage links Apollo to the foundation of the shrine at Delos and the
+    establishment of the oracle and fane at Delphi.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: warning god
+  assigned_to:
+  - fig:1
+  basis: The passage refers to Apollo's threat to his Cretan ministers.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: being whose birth is recounted
+  assigned_to:
+  - fig:2
+  basis: The passage mentions a myth about Typhaon's birth.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: angry divine source of birth episode
+  assigned_to:
+  - fig:3
+  basis: The passage says Typhaon's birth is from Hera's anger.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: divine ministers warned against arrogance
+  assigned_to:
+  - fig:4
+  basis: The Cretan ministers are the addressees of Apollo's warning.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: original builders in the Hymn's representation
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage says the Hymn represents Trophonius and Agamedes as the original
+    builders.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Delian shrine
+  literal_form: shrine in the isle of Delos
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Delphian oracle and fane
+  literal_form: Oracle and fane at Delphi
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Pythian habitation
+  literal_form: inland Pythian habitation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: shore altar of the Dolphin God
+  literal_form: altar of the seaman's Dolphin God on the shore
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: Pytho as rot-derived name
+  literal_form: derivation of Pytho from a word meaning rot
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Birth of Apollo and foundation of Delos shrine
+  summary: The first portion of the Hymn to Apollo is described as treating Apollo's
+    birth and the foundation of his shrine on Delos.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Establishment of Delphi oracle and fane
+  summary: The second portion is described as concerning the establishment of Apollo's
+    oracle and fane at Delphi and Apollo as Delphinian and Pythian.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Birth of Typhaon from Hera's anger
+  summary: An intercalated myth is described as recounting the birth of Typhaon from
+    Hera's anger.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Apollo warns Cretan ministers
+  summary: Apollo is said to threaten his Cretan ministers and warn them against arrogance.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Original builders of the Delphian sanctuary
+  summary: The Hymn is said to represent Trophonius and Agamedes as original builders,
+    which the passage says contradicts Delphian tradition.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Shore altar and inland Pythian habitation
+  summary: The passage contrasts interest in the shore altar of the seaman's Dolphin
+    God with Apollo's inland Pythian habitation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacred birth of a deity
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage explicitly says the first part of the hymn deals with Apollo's
+    birth.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an introductory summary rather than the hymn narrative
+    itself.
+- id: motif:2
+  label: foundation or establishment of sacred cult sites
+  taxonomy_refs: []
+  basis: The passage links the hymn to the foundation of Apollo's Delian shrine and
+    the establishment of his Delphian oracle and fane.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No exact taxonomy ref for sanctuary foundation is supplied; the motif
+    label is descriptive.
+- id: motif:3
+  label: monstrous or divine birth from divine anger
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage mentions an intercalated myth about Typhaon's birth from Hera's
+    anger.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief reference and does not narrate the birth
+    in detail.
+- id: motif:4
+  label: divine warning against arrogance
+  taxonomy_refs: []
+  basis: The passage reports Apollo threatening his Cretan ministers with a warning
+    against arrogance.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage discusses this as a possible prophecy after the event; the
+    narrative context is not fully quoted.
+- id: motif:5
+  label: sacred builders of a sanctuary
+  taxonomy_refs: []
+  basis: The passage says the Hymn represents Trophonius and Agamedes as the original
+    builders.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage presents this representation through a critical argument and
+    notes that it contradicts Delphian tradition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 273-282
+  quote_or_summary: 'The version divides the Hymn to Apollo into two portions: the
+    first deals with Apollo''s birth and the foundation of his shrine on Delos; the
+    second with the establishment of his oracle and fane at Delphi.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 282-292
+  quote_or_summary: The passage identifies the second part with hearers interested
+    in Apollo of Crisa and the Delphian temple, the Pythian Apollo.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 299-303
+  quote_or_summary: From line 207 onward the text is described as Apollo's dealings
+    as Delphinian and Pythian, including an intercalated myth about Typhaon's birth
+    from Hera's anger.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 303-311
+  quote_or_summary: 'The passage refers to Apollo''s threat to his Cretan ministers:
+    “Beware of arrogance, or . . .”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 311-318
+  quote_or_summary: The passage says it is contrary to Delphian tradition for the
+    Hymn to represent Trophonius and Agamedes as the original builders.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 319-324
+  quote_or_summary: The passage notes the derivation of Pytho from a word meaning
+    rot as one of the points used in an argument that the hymnist disparaged the Delphian
+    sanctuary.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 329-335
+  quote_or_summary: The passage says Athenians are interested in the far-seen altar
+    of the seaman's Dolphin God on the shore rather than in his inland Pythian habitation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a critical preface summarizing and interpreting parts of the
+    Hymn to Apollo, not a direct mythic narrative. Motif candidates are therefore
+    based on referenced narrative contents and should be checked against the hymn
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage's comparisons are mainly literary-critical and political rather than explicit motif-family comparisons.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-homeric-hymns-lang-gutenberg__l273-l342
+  passage_sha256=51fa16c3a67fc158596357d9e0bdf644032698faba2d2c0f69d7caab9461348a
+

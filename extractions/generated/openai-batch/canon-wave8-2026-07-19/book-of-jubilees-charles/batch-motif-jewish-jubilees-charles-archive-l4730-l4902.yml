@@ -1,0 +1,462 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l4730-l4902
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: CHAPTER I. 18-26 7 / CHAPTER I. 27-29 9 / CHAPTER II. 1-2 II / CHAPTER II.
+    2-4 13; lines 4730-4902
+  start: '4730'
+  end: '4902'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes parts of the creation sequence: angels and spirits
+    connected with natural phenomena, the creation of abysses, darkness, and light
+    on the first day, praise of divine works, the second-day creation of the firmament
+    dividing the waters, and the third-day gathering of waters, appearance of dry
+    land, and creation of seas, rivers, lakes, dew, seeds, trees, and the Garden of
+    Eden. Editorial notes compare these details with Genesis, Enochic texts, and Revelation.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists angels or spirits associated with fire, winds, clouds, darkness,
+    snow, hail, hoar frost, voices, thunder, lightning, cold, heat, and the four seasons.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The text says the abysses, darkness, eventide and night, light, dawn, and
+    day were created or prepared in divine knowledge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A first-person plural group sees the works and praises and lauds God because
+    seven great works were created on the first day.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On the second day God creates the firmament in the midst of the waters.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The waters are divided so that half go above the firmament and half go below
+    it over the face of the whole earth.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The creation of the firmament and division of the waters is presented as the
+    only work of the second day.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: On the third day God commands the waters to pass from the face of the earth
+    into one place and the dry land to appear.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The waters obey the command, retire from the face of the earth into one place,
+    and the dry land appears.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The third day includes the creation or arrangement of seas, rivers, gatherings
+    of waters in mountains and on the earth, lakes, and dew.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The third day also includes seed, sprouting things, fruit-bearing trees, trees
+    of the wood, and the Garden of Eden.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: God
+  description: The creator who prepares works, creates the firmament and other works,
+    and commands the waters.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Angels of natural phenomena
+  description: Angelic groups named in relation to fire, winds, clouds, darkness,
+    snow, hail, hoar frost, voices, thunder, lightning, temperatures, seasons, and
+    created spirits.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: First-person plural witnesses
+  description: A group designated as “we” who see the works and praise and laud God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Creator and commander
+  assigned_to:
+  - fig:1
+  basis: God creates the named works and commands the waters to gather and the dry
+    land to appear.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:2
+  label: Angelic beings associated with natural phenomena
+  assigned_to:
+  - fig:2
+  basis: The angels are listed in connection with fire, winds, clouds, precipitation,
+    thunder, lightning, temperatures, seasons, and other created spirits.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Witnesses and praisers
+  assigned_to:
+  - fig:3
+  basis: The group sees the works and praises and lauds God because of them.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: the spirit of fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Winds and clouds
+  literal_form: the spirit of the winds and the spirit of the clouds
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Darkness and light divisions
+  literal_form: darkness, eventide, night, light, dawn, and day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Abysses
+  literal_form: the abysses
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Firmament
+  literal_form: the firmament in the midst of the waters
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Divided and gathered waters
+  literal_form: waters divided above and below the firmament, then gathered into one
+    place and into seas, rivers, lakes, and dew
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: Mountains holding waters
+  literal_form: gatherings of the waters in the mountains
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: Seeds and trees
+  literal_form: seed, sprouting things, fruit-bearing trees, and trees of the wood
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: Garden of Eden
+  literal_form: the garden of Eden, in Eden
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:10
+  label: Seasons and temperatures
+  literal_form: cold and heat; winter, spring, autumn, and summer
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: First-day works and praise
+  summary: The passage lists angelic and natural-cosmic entities, describes creation
+    of abysses and divisions of darkness and light, and reports that witnesses praise
+    God for seven great first-day works.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:10
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Second-day firmament and divided waters
+  summary: God creates the firmament in the midst of the waters, and the waters divide
+    with half above and half below the firmament; this is the sole work of the second
+    day.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Third-day gathering of waters, dry land, and vegetation
+  summary: God commands the waters to gather so that dry land appears, and the passage
+    lists seas, rivers, mountain waters, lakes, dew, seeds, sprouting plants, trees,
+    and the Garden of Eden.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Cosmic ordering through separation and gathering of waters
+  taxonomy_refs:
+  - chaos
+  basis: The passage includes abysses and darkness among first-day works, then describes
+    waters divided by the firmament and later gathered so that dry land appears.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The passage presents creation and ordering, not a conflict or combat with
+    chaos; the taxonomy link is based on abyss and water-ordering imagery only.
+- id: motif:2
+  label: Seasonal and meteorological angelology
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Angels or spirits are listed for fire, winds, clouds, snow, hail, thunder,
+    lightning, cold, heat, and the four seasons; the supplied note says this order
+    of angels presides over natural phenomena.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The main narrative gives associations; the stronger functional wording
+    comes from the editorial note.
+- id: motif:3
+  label: Divine command causing dry land and vegetation to appear
+  taxonomy_refs: []
+  basis: God commands the waters to move into one place and the dry land to appear,
+    followed by seas, rivers, dew, seed, sprouting things, trees, and the Garden of
+    Eden.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No more specific supplied taxonomy family directly matches this motif.
+- id: motif:4
+  label: Primordial garden and trees in creation sequence
+  taxonomy_refs: []
+  basis: The passage places fruit-bearing trees, trees of the wood, and the Garden
+    of Eden within the third-day creation list.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage names Eden and trees but does not develop a sacred-tree or
+    world-axis pattern in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The supplied notes align the second-day firmament and division of waters
+    with the Genesis creation account and with Slavonic Enoch parallels.
+  claim_level: same_motif
+  target: Genesis 1:6-7; Slavonic Enoch xxvi-xxvii
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison rests on the supplied editorial note; the external passages
+    are not included in full here.
+- id: claim:2
+  claim: The supplied notes compare the third-day gathering of waters, appearance
+    of dry land, and vegetation with Genesis and Slavonic Enoch creation traditions.
+  claim_level: same_motif
+  target: Genesis 1:9-18; Slavonic Enoch xxx.1
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note gives citations and fragmentary parallels, but this extraction
+    does not verify the external texts beyond the provided passage.
+- id: claim:3
+  claim: The supplied notes connect the angels of fire, winds, snow, hail, thunder,
+    lightning, and seasons with Enochic angelologies of natural phenomena.
+  claim_level: same_function
+  target: Ethiopic Enoch lx.12-21, lxxv-lxxx; Slavonic Enoch xix.1-4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The functional claim is supplied by the editor’s note; only citations
+    and brief summaries are present in the excerpt.
+- id: claim:4
+  claim: The supplied note raises a possible phrase-level relationship between the
+    passage’s voices, thunder, and lightning and similar formulas in Revelation.
+  claim_level: linguistic_similarity
+  target: Revelation iv.5, viii.5, xi.19, xvi.18 and related passages cited in the
+    note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note itself frames derivation as possible; the similarity may reflect
+    shared apocalyptic or scriptural language rather than direct dependence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER II.2; within lines 4730-4902
+  quote_or_summary: The passage lists angels or spirits of fire, winds, clouds, darkness,
+    snow, hail, hoar frost, voices, thunder, lightning, cold, heat, winter, spring,
+    autumn, summer, and created spirits in heaven and earth.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: summary
+  locator: CHAPTER II.2-3; within lines 4730-4902
+  quote_or_summary: God creates or prepares the abysses, darkness, eventide and night,
+    light, dawn, and day; witnesses see the works and praise Him because seven great
+    works were created on the first day.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:3
+  type: summary
+  locator: Editorial note on angels of fire, winds, clouds, etc.; within lines 4730-4902
+  quote_or_summary: The note says the third or lowest order of angels presides over
+    natural phenomena and cites Ethiopic Enoch and Slavonic Enoch parallels.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: summary
+  locator: Editorial notes on winds, snow, hail, thunder, and lightning; within lines
+    4730-4902
+  quote_or_summary: The notes cite Revelation and Ethiopic Enoch for winds, snow,
+    hail, thunder, lightning, and the formula involving voices, thunder, and lightning;
+    one note says the Revelation phrase may derive from this text.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:5
+  type: summary
+  locator: CHAPTER II.4; within lines 4730-4902
+  quote_or_summary: On the second day God creates the firmament in the midst of the
+    waters; the waters divide, half above and half below the firmament, and this is
+    the only work of that day.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:6
+  type: summary
+  locator: Editorial note on works of the second day; within lines 4730-4902
+  quote_or_summary: The note identifies the second-day work with Genesis 1:6-7, compares
+    Slavonic Enoch xxvi-xxvii, and describes a view of heavenly waters above the firmament.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:7
+  type: summary
+  locator: CHAPTER II.5-6; within lines 4730-4902
+  quote_or_summary: On the third day God commands the waters to pass from the face
+    of the earth into one place and the dry land to appear; the waters do so and the
+    dry land appears.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:8
+  type: summary
+  locator: CHAPTER II.7; within lines 4730-4902
+  quote_or_summary: The third-day list includes seas, rivers, waters in mountains
+    and on the earth, lakes, dew, seed, sprouting things, fruit-bearing trees, trees
+    of the wood, and the Garden of Eden.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:9
+  type: summary
+  locator: Editorial note on works of the third day; within lines 4730-4902
+  quote_or_summary: The note compares the third-day works with Genesis 1:9-18, Slavonic
+    Enoch xxx.1, and Greek or Syncellus fragments listing seas, rivers, springs, lakes,
+    seeds, trees, and paradise.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The excerpt is usable but interleaves main text with editorial notes and
+    contains textual-critical material and OCR-like artifacts. Motif identification
+    is therefore cautious and evidence-tied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage, metadata, and available taxonomy references were used. Comparisons are limited to those explicitly indicated by the supplied editorial notes.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l4730-l4902
+  passage_sha256=9ee8db451673a8f3f5bccc349bf89837a2acde793dd494380aec3b89025205ca
+

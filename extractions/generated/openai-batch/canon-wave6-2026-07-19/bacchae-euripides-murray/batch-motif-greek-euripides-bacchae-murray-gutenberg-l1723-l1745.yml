@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1723-l1745
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 1723-1745
+  start: '1723'
+  end: '1745'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: No man may see their mysteries.
+  summary: Dionysus warns Pentheus that seeing an unnamed group's mysteries could
+    lead to his death. Pentheus accepts the warning, asks about the next plan, and
+    Dionysus tells him to go inside so that he can be arrayed.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus asks Pentheus whether he would have an unnamed group slay him dead.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus states that no man may see the unnamed group's mysteries.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Pentheus responds approvingly and says he had already observed the other's
+    subtle temper.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dionysus says that Dionyse prompts him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Pentheus asks what the further plan is.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Dionysus tells Pentheus first to go within and says that he will array him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Speaker who warns Pentheus about being slain, says no man may see the
+    mysteries, says Dionyse prompts him, and announces that he will array Pentheus.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Pentheus
+  description: Speaker who accepts the warning, asks about the further plan, and is
+    told to go within to be arrayed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: unnamed group referred to as “them”
+  description: A group designated only by pronouns; Dionysus describes them as capable
+    of slaying Pentheus and associated with “their mysteries.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: warning and arranging speaker
+  assigned_to:
+  - fig:1
+  basis: Dionysus warns about death and forbidden sight, then tells Pentheus to go
+    within and says he will array him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: questioning recipient of the plan
+  assigned_to:
+  - fig:2
+  basis: Pentheus receives Dionysus' warning, asks about the further plan, and is
+    addressed as the one to be arrayed.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: unnamed potential slayers associated with mysteries
+  assigned_to:
+  - fig:3
+  basis: Dionysus asks whether Pentheus would have “them” slay him and says no man
+    may see “their mysteries.”
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: forbidden mysteries
+  literal_form: their mysteries
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: arraying
+  literal_form: I will array thee
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Warning about forbidden mysteries
+  summary: Dionysus asks whether Pentheus would be slain by the unnamed group and
+    states that no man may see their mysteries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prompting and preparation
+  summary: Dionysus says that Dionyse prompts him. Pentheus asks the further plan,
+    and Dionysus tells him to go within so that he can be arrayed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Forbidden sight of mysteries
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The passage explicitly states that no man may see the mysteries and connects
+    the situation with the possibility of Pentheus being slain.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not identify the mysteries or the unnamed group beyond
+    the pronouns in the excerpt.
+- id: motif:2
+  label: Preparatory arraying before proceeding
+  taxonomy_refs: []
+  basis: Dionysus directs Pentheus to go within and says that he will array him as
+    the next step in the plan.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not specify the clothing, purpose, ritual status, or
+    outcome of the arraying.
+comparison_claims:
+- id: claim:1
+  claim: The prohibition that no man may see the mysteries, paired with a threat of
+    death, supports cautious comparison to a forbidden-knowledge or forbidden-sight
+    motif family.
+  claim_level: same_function
+  target: forbidden_knowledge motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison only; the short passage gives no external
+    parallel, historical contact, or detailed ritual context.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1723-1745
+  quote_or_summary: "“Wouldst have them slay thee dead? / No man may see their mysteries.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 1723-1745
+  quote_or_summary: "“Well said!-- / I marked thy subtle temper long ere now.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 1723-1745
+  quote_or_summary: "“'Tis Dionyse that prompteth me.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 1723-1745
+  quote_or_summary: Pentheus asks about the further plan; Dionysus replies that Pentheus
+    should first go within and that he will array him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; summary of public domain passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and clear for speech actions, but it leaves referents
+    such as the unnamed group and the content of the mysteries unidentified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external context used; pronoun referents are left unidentified where the excerpt does not name them.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1723-l1745
+  passage_sha256=c9558eec61f5cf683bca7b35a136cab58f1fbcadf6f1c760b995eacb12308d89
+

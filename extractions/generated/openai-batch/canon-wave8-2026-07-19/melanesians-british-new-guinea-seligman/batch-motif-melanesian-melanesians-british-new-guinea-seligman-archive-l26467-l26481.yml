@@ -1,0 +1,239 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l26467-l26481
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: WEDAU. / TOTEMISM. / WEDAU CLANS. / S. N. G; lines 26467-26481
+  start: '26467'
+  end: '26481'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: totems are sometimes regarded as omen-giving
+  summary: The passage reports that totems may be regarded as giving omens, though
+    the extent of this belief is uncertain. It gives an example in which seeing one's
+    most important totem while hunting is said to indicate certain success in spearing
+    a pig if a pig is encountered. A note adds that totem abstinences are confirmed
+    and that personal feeling affects how much regard a man pays to his father's totems.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Totems are described as sometimes regarded as omen-giving, but the extent
+    of this belief is said to be unknown.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states uncertainty about whether meeting the most important totem
+    always betokens good luck.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Informants said that if a man saw his most important totem while hunting,
+    he would know that if he met a pig he would certainly succeed in spearing it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The reported sign did not mean that the hunter would necessarily see a pig.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note states that totem abstinences are confirmed by Mr Newton and that personal
+    feeling affects how much regard a man pays to his father's totems.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: man hunting
+  description: A man who sees his most important totem when hunting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: most important totem
+  description: A totem whose sighting during hunting is treated as an omen of successful
+    spearing if a pig is encountered.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: pig
+  description: The animal that the hunter may meet and spear successfully after seeing
+    the totem.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: father's totems
+  description: Totems of a man's father, toward which a man's regard varies with personal
+    feeling according to the note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The man is described as seeing his totem when hunting and potentially spearing
+    a pig.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: omen-giving totem
+  assigned_to:
+  - fig:2
+  basis: The passage says totems are sometimes regarded as omen-giving and gives the
+    most important totem as a sign during hunting.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: hunted animal
+  assigned_to:
+  - fig:3
+  basis: The pig is the animal that may be met and speared by the hunter.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: paternal totems receiving regard
+  assigned_to:
+  - fig:4
+  basis: The note says a man's personal feeling affects the regard he pays to his
+    father's totems.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: omen-giving totem
+  literal_form: the man's most important totem seen during hunting
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: pig as conditional quarry
+  literal_form: pig encountered during hunting
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: totem abstinence and regard
+  literal_form: totem abstinences and regard for father's totems
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hunting omen from the most important totem
+  summary: A man sees his most important totem while hunting; this is said to indicate
+    that, if he encounters a pig, he will certainly spear it successfully, though
+    the sign does not guarantee a pig will appear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Regard for paternal totems
+  summary: A note reports that totem abstinences are confirmed and that personal feeling
+    influences the degree of regard paid to a father's totems.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Totem sighting as hunting omen
+  taxonomy_refs: []
+  basis: The passage directly links seeing one's most important totem during hunting
+    with certain success in spearing a pig if one is encountered.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage explicitly says the extent of the omen belief is unknown and
+    that the sign does not guarantee encountering a pig.
+- id: motif:2
+  label: Variable personal regard for inherited totems
+  taxonomy_refs: []
+  basis: The note states that personal feeling affects the amount of regard a man
+    pays to his father's totems.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage provides only a brief note and does not describe a narrative
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 26467-26469
+  quote_or_summary: '"totems are sometimes regarded as omen-giving"; the passage adds
+    that the extent of the belief cannot be stated.'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 26469-26472
+  quote_or_summary: The passage says it is uncertain whether meeting the most important
+    totem invariably signifies good luck.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 26472-26476
+  quote_or_summary: Informants said that seeing one's most important totem while hunting
+    meant that if a pig was met, the hunter would certainly spear it successfully,
+    though this did not mean he would necessarily see a pig.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 26478-26481
+  quote_or_summary: A note says Mr Newton confirms the totem abstinences and notes
+    that personal feeling matters in how much regard a man pays to his father's totems.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and mostly ethnographic rather than narrative. The hunting-omen
+    motif is directly supported, while broader motif classification is limited by
+    the passage's stated uncertainty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not support a specific listed taxonomy item.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l26467-l26481
+  passage_sha256=4517e88c9381f99d03ab615fdcf382fb84d5c56acc443fcb28f72fdcec8adb71
+

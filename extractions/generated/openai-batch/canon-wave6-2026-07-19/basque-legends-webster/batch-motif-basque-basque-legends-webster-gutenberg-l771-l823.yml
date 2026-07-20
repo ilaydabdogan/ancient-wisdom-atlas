@@ -1,0 +1,488 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l771-l823
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: I.--LEGENDS OF THE TARTARO. / THE TARTARO. / M. D'ABBADIE'S VERSION. / ERRUA,
+    THE MADMAN.; lines 771-823
+  start: '771'
+  end: '823'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“The Tartaro, too, in order to go faster, thrusts his knife into his body,
+    and falls stark dead.”"
+  summary: The madman sells pigs but keeps tails, tricks the pursuing Tartaro into
+    fatal self-stabbing by staging an apparent disembowelment with pig entrails, deceives
+    his master with a pig-and-tail trick in a muddy marsh, beats members of the household
+    using an ambiguous command involving tools, and returns home with a pig.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The madman travels with hogs, sells most of them at a market, keeps the tails,
+    and sees the Tartaro coming down from the mountain.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The madman kills a hog, hides its entrails under his waistcoat, publicly stabs
+    toward his chest, displays the pig bowels, and runs faster.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Men near the road tell the Tartaro that the fleeing man stabbed himself, threw
+    away his bowels, and ran faster.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Tartaro imitates the reported act by thrusting a knife into his own body
+    and dies.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Near his master's house, the madman places a live pig and the retained tails
+    in a muddy marsh and says the pigs went into the mud because they were tired.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When only tails are pulled from the mud after the real pig is recovered, the
+    madman explains that the pigs are so fat that only their tails come out.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: A tool-fetching episode involving the spade and hoe is followed by the madman
+    beating the mistress and servant maid after asking the master, “One or both?”
+    and receiving “Both” as the answer.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The madman then beats the master with the spade and hoe, takes his pig, and
+    goes home to his father and mother.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage ends with a transmission note stating that Pierre Bertrand learned
+    the story from his grandmother.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the madman
+  description: Protagonist called “our madman”; he handles the pigs, deceives the
+    Tartaro and his master, attacks the household, and returns to his parents.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: the Tartaro
+  description: Pursuing figure who comes down from the mountain, asks after the madman,
+    imitates the reported self-stabbing, and dies.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: men near the road
+  description: A group of men who observe the madman’s staged act and report it to
+    the Tartaro.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the master
+  description: The madman’s master; he goes with him to pull pigs from the mud, answers
+    “Both, both,” and is later beaten with the spade and hoe.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:5
+  name_or_label: the mistress
+  description: Woman in the master’s household who is beaten during the tool-fetching
+    episode.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: the servant maid
+  description: Woman in the household who is beaten almost to pieces during the tool-fetching
+    episode.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: father and mother
+  description: The madman’s parents, to whose home he returns at the end.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: deceptive protagonist-servant
+  assigned_to:
+  - fig:1
+  basis: The madman arranges false appearances with pig entrails and tails, misleads
+    others, and uses the spade and hoe episode against the household.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:2
+  label: pursuer deceived by imitation
+  assigned_to:
+  - fig:2
+  basis: The Tartaro pursues or seeks the madman, accepts the report of self-stabbing
+    as a way to run faster, imitates it, and dies.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: witness-informants
+  assigned_to:
+  - fig:3
+  basis: The men witness the staged act and tell the Tartaro what they saw or believed
+    they saw.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: duped employer
+  assigned_to:
+  - fig:4
+  basis: The master is misled by the claim that the pigs have gone into the mud and
+    later by the “one or both” exchange.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:5
+  label: household victims
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The mistress, servant maid, and master are beaten during the final household
+    episode.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:6
+  label: receiving parents
+  assigned_to:
+  - fig:7
+  basis: The father and mother are mentioned as the home to which the madman returns.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: mountain descent
+  literal_form: the mountain from which the Tartaro comes down
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: knife used in feigned and real self-wounding
+  literal_form: knife used by the madman in the staged chest-stabbing and by the Tartaro
+    in the fatal imitation
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: pig entrails as false bowels
+  literal_form: entrails of a killed hog hidden under the waistcoat and displayed
+    as if from the madman’s body
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: retained pig tails
+  literal_form: tails kept from sold pigs and later pulled from mud as if from buried
+    pigs
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: muddy marsh
+  literal_form: marsh near the master’s house, full of mud, where the live pig and
+    tails are placed
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: spade and hoe
+  literal_form: tools requested or fetched and then used to beat the master
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:7
+  label: pig as retained gain
+  literal_form: live pig hidden in mud and later taken home by the madman
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: Market sale and approaching pursuer
+  summary: The madman sells most of the hogs at market, keeps tails, and sees the
+    Tartaro descending from the mountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Roadside staged disembowelment and fatal imitation
+  summary: The madman stages a chest-stabbing with pig entrails before road witnesses;
+    their report leads the Tartaro to stab himself and die.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Mud-marsh pig and tail deception
+  summary: At the master’s house, the madman hides a live pig and pig tails in the
+    mud, then explains the tails as evidence of very fat pigs under the marsh.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Spade-and-hoe household beating
+  summary: The spade-and-hoe errand becomes a violent episode in which the mistress,
+    servant maid, and master are beaten.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Return home
+  summary: The madman takes his pig and returns home to his father and mother.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: trickster escape through staged self-injury
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The madman uses pig entrails to simulate self-disembowelment, causing the
+    pursuing Tartaro to accept the trick and fatally imitate it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives the action literally but does not name an abstract trickster
+    category; taxonomy assignment is interpretive.
+- id: motif:2
+  label: self-destructive imitation by pursuer
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Tartaro repeats what he is told the fleeing man did to run faster and
+    dies from the act.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The broader identity of the Tartaro outside this passage is not used here.
+- id: motif:3
+  label: animal-parts deception
+  taxonomy_refs: []
+  basis: The madman keeps pig tails and later uses them in the mud to make the master
+    believe the pigs are hidden below, explaining away the tails as the result of
+    fatness.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this animal-parts ruse.
+- id: motif:4
+  label: ambiguous command exploited for violence
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The question “One or both?” and the master’s answer “Both” precede the beating
+    of household members and the later beating of the master with both tools.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: Pronoun reference in the tool-fetching sequence is somewhat compressed;
+    human review should confirm the action sequence.
+- id: motif:5
+  label: successful trickster return with gain
+  taxonomy_refs: []
+  basis: After deceiving and beating the household, the madman takes his pig and returns
+    home to his parents.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: Although the ending is a return, the supplied taxonomy term “return” may
+    imply a broader mythic journey pattern not established by this short passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 771-778
+  quote_or_summary: The madman goes with the hogs, sells them at market except two,
+    keeps the tails, fears the Tartaro, and sees him coming down from the mountain.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 778-784
+  quote_or_summary: He kills a hog, puts its entrails under his waistcoat, stabs toward
+    his chest before men near the road, draws out the pig bowels, and runs faster.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 785-791
+  quote_or_summary: The men tell the Tartaro that the man “stabbed himself, and threw
+    away his bowels, and still he went on all the faster.”
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 793-795
+  quote_or_summary: "“The Tartaro, too, in order to go faster, thrusts his knife into
+    his body, and falls stark dead.”"
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 796-805
+  quote_or_summary: At the master’s house, the madman puts the live pig and tails
+    into a muddy marsh, says the pigs went into the mud from tiredness, and he and
+    the master pull out the real pig but then only tails.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 807-810
+  quote_or_summary: The madman says, “You see how fat they are; that is why the tails
+    come out alone.”
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 811-818
+  quote_or_summary: In the spade-and-hoe episode, the madman beats the mistress, asks
+    “One or both?”, receives the master’s answer “Both, both,” and beats the servant
+    maid almost to pieces.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 819-822
+  quote_or_summary: The madman takes the spade and hoe to the master, beats him until
+    he cannot defend himself, takes his pig, and goes home to his father and mother.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 822-823
+  quote_or_summary: The passage states that Pierre Bertrand learned the story from
+    his grandmother, who had died a few years earlier at age 82.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main action sequence is clear, but the pronoun reference in the spade-and-hoe
+    episode may require human confirmation. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; comparison_claims left empty because the passage does not itself make an explicit cross-textual comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l771-l823
+  passage_sha256=9e4fb777bdcbf94b4725ef8c229de034f0f17b8f512fea6bc6b20e22002d560a
+

@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l10490-l10523
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: THE  WISE  SLAVE  221 / THE  WISE  SLAVE  223 / THE  HEN  SEEKS  A  CHARM  FROM  THE  WILD-CAT.
+    / BEASTS  AND  BIRDS  225; lines 10490-10523
+  start: '10490'
+  end: '10523'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A Hen asks a Wild-Cat for a childbirth charm. The Wild-Cat tells her to
+    pluck feathers from her head, apply salt and pepper, and return; meanwhile he
+    prepares a fire. After she returns, he tells her to circle the fire in front of
+    him while repeating that she seeks a childbirth charm. He then seizes her, throws
+    her onto the fire, and eats her. A variant says the Wild Cat can change into a
+    Malam and prescribes in that form, telling the Hen to pluck her whole body clean.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Hen goes to the Wild-Cat and says she wants a charm for childbirth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Wild-Cat tells the Hen to pluck the feathers from her head, put on salt
+    and pepper, and come back for the childbirth charm.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the Hen leaves, the Wild-Cat lights a fire and puts logs on it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Hen plucks the feathers from her head, rubs on salt and pepper, and returns
+    to ask for the charm.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Wild-Cat tells the Hen to go near the fire, walk in front while he follows
+    behind, and keep repeating that she is seeking a childbirth charm.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: While they circle the fire, the Wild-Cat seizes the Hen, throws her onto the
+    fire, and eats her.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In a variant, the Wild Cat can change into a Malam; in that shape he prescribes
+    for the Hen and tells her to pluck her whole body clean.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hen
+  description: Female bird who seeks a childbirth charm, follows the Wild-Cat’s instructions,
+    circles the fire, and is killed and eaten.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Wild-Cat
+  description: Animal approached for a childbirth charm; he gives instructions, prepares
+    the fire, directs the Hen around it, kills and eats her, and in a variant can
+    change into a Malam.
+  role_refs:
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: seeker of childbirth charm
+  assigned_to:
+  - fig:1
+  basis: The Hen states that she wants a charm for childbirth and later returns to
+    receive it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: deceptive prescriber of charm procedure
+  assigned_to:
+  - fig:2
+  basis: The Wild-Cat gives the Hen preparatory instructions and later directs her
+    actions around the fire before attacking her.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: victim or prey
+  assigned_to:
+  - fig:1
+  basis: The Hen is seized, thrown onto the fire, and eaten.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: predator and killer
+  assigned_to:
+  - fig:2
+  basis: The Wild-Cat seizes the Hen, throws her on the fire, and eats her.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: variant shapeshifter
+  assigned_to:
+  - fig:2
+  basis: The variant says the Wild Cat can change into a Malam.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: childbirth charm
+  literal_form: A charm for childbirth sought by the Hen and promised by the Wild-Cat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: salt and pepper
+  literal_form: Substances the Wild-Cat tells the Hen to put on after plucking her
+    feathers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: plucked feathers
+  literal_form: The Hen’s head feathers are plucked in the main tale; in the variant
+    she is told to pluck her whole body clean.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: fire
+  literal_form: A fire with logs prepared by the Wild-Cat, circled by the Hen, and
+    used when the Hen is thrown onto it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: circling and chant
+  literal_form: Movement round and round the fire while repeating words about seeking
+    a childbirth charm.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: Malam form
+  literal_form: The form into which the Wild Cat can change in the variant.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Request for childbirth charm
+  summary: The Hen asks the Wild-Cat for a childbirth charm, and he instructs her
+    to pluck head feathers, apply salt and pepper, and return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fire prepared while Hen performs instructions
+  summary: The Wild-Cat lights a fire and adds logs while the Hen plucks her head
+    feathers, rubs on salt and pepper, and returns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Circling the fire
+  summary: The Wild-Cat tells the Hen to go near the fire, lead while he follows,
+    and repeat a childbirth-charm phrase as they circle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Killing and eating the Hen
+  summary: As they go around the fire, the Wild-Cat seizes the Hen, throws her onto
+    the fire, and eats her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Variant Malam transformation
+  summary: A variant says the Wild Cat can change into a Malam and, in that form,
+    prescribes for the Hen, including complete body-plucking.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dangerous quest for a childbirth charm
+  taxonomy_refs: []
+  basis: The Hen seeks a childbirth charm from the Wild-Cat and submits to his instructions
+    in order to obtain it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not show a successful charm or actual childbirth; it
+    shows the quest being exploited.
+- id: motif:2
+  label: deceptive ritual instruction leading to death
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The Wild-Cat frames his commands as a procedure for obtaining a charm, has
+    the Hen prepare herself and circle the fire, then kills and eats her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link is broad; the passage presents predatory deception but
+    does not name a formal trickster figure.
+- id: motif:3
+  label: fire-circling chant before attack
+  taxonomy_refs: []
+  basis: The Hen is instructed to circle the fire while repeating a phrase about seeking
+    a childbirth charm immediately before the Wild-Cat attacks her.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a localized action pattern within the tale; no wider comparative
+    claim is made here.
+- id: motif:4
+  label: animal shapeshifter as Malam-form prescriber
+  taxonomy_refs:
+  - shapeshifter
+  basis: The variant explicitly says the Wild Cat can change into a Malam and prescribes
+    to the Hen in that shape.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The shapeshifting detail appears only in the brief variant note, not in
+    the full main narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself records a variant that preserves the Wild-Cat’s prescribing
+    role but adds the ability to change into a Malam and changes the plucking instruction
+    to the Hen’s whole body.
+  claim_level: same_motif
+  target: variant of the same tale noted in the passage
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The variant is summarized only briefly, so the comparison is limited
+    to the details explicitly stated.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10490-10494
+  quote_or_summary: The Hen asks the Wild-Cat for a childbirth charm; the Wild-Cat
+    tells her to pluck the feathers from her head, put on salt and pepper, and come
+    back for the charm.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 10495-10500
+  quote_or_summary: After the Hen leaves, the Wild-Cat lights a fire and adds logs;
+    the Hen plucks her head feathers, rubs on salt and pepper, and returns for the
+    charm.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 10501-10509
+  quote_or_summary: The Wild-Cat tells the Hen to go near the fire, walk in front
+    while he follows behind, and repeat the words that she is seeking a charm for
+    childbirth while they go around the fire.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 10510-10513
+  quote_or_summary: While they go around the fire, the Wild-Cat seizes the Hen, throws
+    her onto the fire, and eats her.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 10515-10518
+  quote_or_summary: A variant says the Wild Cat can change into a Malam; in that shape
+    he prescribes for the Hen, who is told to pluck her whole body clean.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative sequence is explicit and brief. Motif taxonomy links are cautious,
+    especially for trickster_boundary, because the passage emphasizes predatory deception
+    rather than naming a formal trickster category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or unstated cultural interpretations were added; comparison is limited to the variant explicitly mentioned in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l10490-l10523
+  passage_sha256=ab8a3fb466cfe84f817cd4bea61d5968a99fe32155ec2fde0085d4522ca18af9
+

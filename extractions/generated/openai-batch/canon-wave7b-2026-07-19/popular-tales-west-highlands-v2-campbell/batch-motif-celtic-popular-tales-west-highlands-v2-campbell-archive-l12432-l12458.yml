@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l12432-l12458
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE TALE OF SCIRE MO CHEALAG. 397 / THE TALE OF SGIRE MO CHEALAG. 399 / THE
+    TALE OF SGIRE MO CHEALAG. 101 / THE TALE OF SGIRE MO CHEALAG. 403; lines 12432-12458
+  start: '12432'
+  end: '12458'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains editorial commentary stating that West Highland tales
+    align with tales from other countries, especially in describing foolish strangers.
+    It then presents a short translated nursery rhyme, “The Cat and the Mouse,” from
+    Hector MacLean of Islay, in which a mouse in a hole asks about the grey cat’s
+    purr and receives an answer inviting it to come out.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The editor states that West Highland tales join with those of other countries
+    and are ancient.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor says many popular tales agree in describing a set of strangers
+    as fools and speculates about earlier occupants being perceived as foolish by
+    newcomers.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage introduces a translated item titled “The Cat and the Mouse,” from
+    Hector MacLean, Islay.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A mouse is in a hole and asks what the purr of the grey cat is.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An answer describes the purr as good and the mood as pleasant, and says the
+    mouse might come out.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A footnote identifies the item as a trifling nursery rhyme remembered by the
+    editor.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: strangers described as fools
+  description: A set of strangers whom popular tales are said to describe as fools.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: mousie
+  description: A mouse located in a hole and speaking about the grey cat’s purr.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: grey cat
+  description: A grey cat identified as the source of a purr mentioned by the mouse.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: foolish strangers in popular tales
+  assigned_to:
+  - fig:1
+  basis: The commentary says popular tales describe a set of strangers who were fools.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: questioning speaker in a hole
+  assigned_to:
+  - fig:2
+  basis: The mouse is said to be in the hole and asks about the grey cat’s purr.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: source of purr
+  assigned_to:
+  - fig:3
+  basis: The purr is identified as belonging to the grey cat.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: hole
+  literal_form: hole
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: cat’s purr
+  literal_form: purr of the grey cat
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Editorial comparison of tale patterns
+  summary: The editor states that West Highland tales align with tales of other countries
+    and notes a repeated description of foolish strangers in popular tales.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mouse hears the grey cat’s purr
+  summary: In the nursery rhyme, a mouse in a hole asks about the grey cat’s purr;
+    an answer calls the purr good and pleasant and says the mouse might come out.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Foolish strangers in recurring popular tales
+  taxonomy_refs: []
+  basis: The commentary states that many popular tales agree in describing a set of
+    strangers as fools, and links West Highland tales with tales of other countries.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is editorial commentary rather than a narrated tale episode in the
+    passage.
+- id: motif:2
+  label: Speaking animal in hiding place
+  taxonomy_refs: []
+  basis: The mouse speaks from inside a hole and asks about the grey cat’s purr.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a short nursery-rhyme fragment.
+- id: motif:3
+  label: Invitation to emerge from a hole
+  taxonomy_refs: []
+  basis: The answering speech characterizes the purr and mood as pleasant and says
+    the mouse might come out.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The speaker’s intent and the outcome are not stated; deception or predation
+    should not be inferred beyond the text.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares West Highland tales with tales of other countries
+    around the repeated pattern of foolish strangers in popular tales.
+  claim_level: same_motif
+  target: popular tales of other countries describing foolish strangers
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific non-Highland tale, country, or transmission history is
+    named in the passage; the comparison is an editorial generalization.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12434-12435
+  quote_or_summary: "“West Highlands join in with those of other countries, and turn
+    out to be as old as the hills.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; short excerpt used for scholarly extraction.
+- id: ev:2
+  type: summary
+  locator: lines 12437-12441
+  quote_or_summary: The editor says many popular tales describe strangers as fools
+    and proposes that each land may once have been occupied by a race perceived as
+    foolish by newcomers.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; summarized for scholarly extraction.
+- id: ev:3
+  type: citation
+  locator: lines 12443-12446, 12458
+  quote_or_summary: The item is titled “THE CAT AND THE MOUSE,” identified as from
+    Hector MacLean, Islay, and marked as a translation.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; bibliographic/citation information summarized.
+- id: ev:4
+  type: quote
+  locator: lines 12449-12450
+  quote_or_summary: "“Said the mousie in the hole, / ‘What is that purr of the grey
+    cat?’”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; short excerpt used for scholarly extraction.
+- id: ev:5
+  type: quote
+  locator: lines 12451-12452
+  quote_or_summary: "“A good purr and a pleasant mood, / That thou mightest come out
+    of that.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; short excerpt used for scholarly extraction.
+- id: ev:6
+  type: summary
+  locator: lines 12454-12456
+  quote_or_summary: A footnote calls the following item a very trifling nursery rhyme
+    that the editor remembers and has never been able to forget.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; summarized for scholarly extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The nursery-rhyme details are explicit, but the passage is brief and gives
+    no outcome. The comparative claim is directly present as editorial commentary
+    but lacks named comparanda.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned, because the passage does not explicitly support mapping the hole to cave or the cat-and-mouse exchange to a named taxonomy family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l12432-l12458
+  passage_sha256=c012cff4840e536bcf77228d8849ae20d6f0a33ae779b2ed376832a06fcb5580
+

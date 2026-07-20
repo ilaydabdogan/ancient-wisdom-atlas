@@ -1,0 +1,187 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l26850-l26874
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION CLXVI / SECTION CLXVII / SECTION CLXVIII / FOOTNOTES; lines 26850-26874
+  start: '26850'
+  end: '26874'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The footnotes explain that a person becomes righteous or unrighteous through
+    personal deeds or by inducing or helping others to act. They distinguish eternal
+    and non-eternal results of righteousness: nishkama righteousness leads to Brahma,
+    while sakama righteousness leads to heaven and felicity, which are not eternal.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person may become righteous by doing righteous deeds or by inducing or helping
+    others to do them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person may become unrighteous by doing evil acts or by inducing or helping
+    others to do them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Righteousness is said to lead to regions of felicity.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note distinguishes nishkama righteousness from sakama righteousness.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Nishkama righteousness is described as leading to attainment of Brahma and
+    an eternal reward.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sakama righteousness is described as leading to heaven and felicity, but not
+    to an eternal reward.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unspecified moral agent
+  description: The passage speaks generally of one who performs, induces, or helps
+    righteous or evil acts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: agent of righteous or unrighteous action
+  assigned_to:
+  - fig:1
+  basis: The passage describes a person becoming righteous or unrighteous through
+    personal action or assistance to others' actions.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: regions of felicity or heaven
+  literal_form: afterlife reward regions described as heaven and felicity
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Brahma as eternal attainment
+  literal_form: Brahma, described as eternal and as the result of nishkama righteousness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: doctrinal explanation of righteousness and results
+  summary: The notes explain how righteous and unrighteous states arise from deeds
+    and from assisting others' deeds, then distinguish two kinds of righteousness
+    and their different results.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: moral action producing corresponding spiritual result
+  taxonomy_refs: []
+  basis: The passage states that righteous or evil acts, including inducing or helping
+    others, make a person righteous or unrighteous and lead to corresponding results.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is explanatory and doctrinal rather than narrative.
+- id: motif:2
+  label: distinction between eternal liberation and temporary heavenly reward
+  taxonomy_refs: []
+  basis: The footnote contrasts nishkama righteousness, which leads to Brahma and
+    eternal reward, with sakama righteousness, which leads to heaven and felicity
+    but not eternal reward.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The terms are explained in a footnote; the passage does not narrate an
+    afterlife journey.
+- id: motif:3
+  label: wisdom through doctrinal clarification
+  taxonomy_refs:
+  - wisdom
+  basis: The passage clarifies a doctrinal question about why results may not be eternal
+    if righteousness is treated as eternal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy reference 'wisdom' is broad; the passage presents
+    theological explanation rather than a wisdom tale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 26850-26853, footnote 628
+  quote_or_summary: One may become righteous by doing righteous deeds or by inducing
+    or helping others to do them; similarly, one becomes unrighteous by doing evil
+    acts or inducing or helping others to do them.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 26855-26859, footnote 629
+  quote_or_summary: Righteousness leads to regions of felicity; a question is raised
+    about why an effect is not eternal when its cause is eternal.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 26861-26868, footnote 630
+  quote_or_summary: 'Two kinds of righteousness are named: nishkama, leading to Brahma
+    and eternal reward, and sakama, leading to heaven and felicity but not eternal
+    reward.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 26870-26870, footnote 631
+  quote_or_summary: The note glosses Calah as Sankalpa.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a set of doctrinal footnotes rather than narrative myth. Literal
+    extraction is straightforward, while motif classification is limited by the absence
+    of explicit narrative figures or mythic action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a specific comparative claim beyond internal doctrinal categories.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l26850-l26874
+  passage_sha256=d9d2a4943174532daec12a8feff8f556837d3272a43e4f72ed160cf61fde56ee
+

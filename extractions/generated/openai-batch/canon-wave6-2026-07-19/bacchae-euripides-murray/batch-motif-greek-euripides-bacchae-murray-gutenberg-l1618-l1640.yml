@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1618-l1640
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: DIONYSUS. / PENTHEUS. / DIONYSUS. / PENTHEUS.; lines 1618-1640
+  start: '1618'
+  end: '1640'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Pentheus objects that obedience would mean submitting to his own slaves'
+    will. Dionysus says he will bring the damsels himself without arms or horses.
+    Pentheus suspects a plot against him; Dionysus says the plot is only to save him.
+    Pentheus then alleges a compact to keep dancing on the hills forever.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pentheus says that obeying would amount to obeying the will of his own slaves.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus says he himself will lead the damsels to the present place.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dionysus specifies that he will act without sword or steed.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Pentheus identifies Dionysus's proposal as a plot against him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dionysus asks what Pentheus fears and says his plot is only to save Pentheus.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Pentheus alleges that a compact has been made for the purpose of dancing on
+    the hills forever.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: A named speaker who resists obeying his slaves' will, suspects a plot,
+    and alleges a compact about dancing on the hills.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Dionysus
+  description: A named speaker who says he will lead the damsels hither without sword
+    or steed and says his plot is only to save Pentheus.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: damsels
+  description: A group whom Dionysus says he will lead hither.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Pentheus's slaves
+  description: A group referred to by Pentheus as his own slaves whose will he would
+    be obeying.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: speaker suspecting hostile plot
+  assigned_to:
+  - fig:1
+  basis: Pentheus calls Dionysus's proposal a plot against him and alleges a compact.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: speaker promising nonviolent leading and rescue
+  assigned_to:
+  - fig:2
+  basis: Dionysus says he will lead the damsels without sword or steed and says he
+    plots only to save Pentheus.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: group to be led hither
+  assigned_to:
+  - fig:3
+  basis: Dionysus says he will lead the damsels hither.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: subordinate group invoked as influence
+  assigned_to:
+  - fig:4
+  basis: Pentheus describes obedience as obeying his own slaves' will.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: hills
+  literal_form: the hills where Pentheus says dancing would continue forever
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: sword and steed absent from the action
+  literal_form: Dionysus says he will act without sword or steed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: compact
+  literal_form: an alleged agreement or arrangement mentioned by Pentheus
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dionysus offers to bring the damsels and Pentheus suspects a plot
+  summary: Pentheus objects to obedience as submission to his slaves' will. Dionysus
+    offers to lead the damsels hither without arms or horses. Pentheus suspects a
+    plot; Dionysus says the plot is only to save him. Pentheus alleges a compact aimed
+    at endless dancing on the hills.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: suspected hostile plot reframed as rescue
+  taxonomy_refs: []
+  basis: Pentheus calls Dionysus's proposal a plot against him, while Dionysus says
+    he plots only to save Pentheus.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives opposed claims about the plot but does not establish
+    the wider outcome or Dionysus's intention beyond the dialogue.
+- id: motif:2
+  label: perpetual hill-dance compact
+  taxonomy_refs: []
+  basis: Pentheus alleges a compact by which the hills would be danced forever.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is presented as Pentheus's accusation, not as an independently confirmed
+    event in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1618-1621
+  quote_or_summary: Pentheus says that obeying would mean obeying the will of his
+    own slaves.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 1622-1625
+  quote_or_summary: Dionysus says he himself will lead the damsels hither, without
+    sword or steed.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 1626-1628
+  quote_or_summary: Pentheus asks whether this is a plot against him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 1629-1633
+  quote_or_summary: Dionysus asks what Pentheus fears and says he plots only to save
+    him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 1634-1640
+  quote_or_summary: Pentheus alleges that a compact has been made so that the hills
+    will be danced forever.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The dialogue content and named speakers are clear. Motif candidates are limited
+    because the excerpt presents accusations and claims without the surrounding outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-textual or tradition-level comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1618-l1640
+  passage_sha256=ae04fbc1b11f94d724d4b3f26325ed7026199f96055c8086c9e0ef0839da9baa
+

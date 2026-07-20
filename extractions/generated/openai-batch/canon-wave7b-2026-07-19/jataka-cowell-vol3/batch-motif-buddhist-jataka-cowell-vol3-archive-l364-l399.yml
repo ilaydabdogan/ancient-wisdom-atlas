@@ -1,0 +1,164 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol3-archive-l364-l399
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+passage_locator:
+  label: THE    JATAKA / STOKIES  OF  THE  BUDDHA'S  FOKMEK  BIRTHS / CAMBEIDGE   UNIVERSITY   PEESS  WAEEHOUSE,
+    / AVE   MAEIA  LANE.; lines 364-399
+  start: '364'
+  end: '399'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. III
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: THE JATAKA / OR / STOKIES OF THE BUDDHA'S FOKMEK BIRTHS
+  summary: Front matter/title-page text for The Jataka, with publication information
+    and a caption identifying a Bharhut stupa scene as illustrating Jataka 383. The
+    supplied source metadata identifies the work as Stories of the Buddha's Former
+    Births.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The title-page material presents the work as The Jataka and includes a subtitle
+    referring to the Buddha's births, with OCR errors in the passage text.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:2
+  text: The passage lists publication or distribution information for several locations,
+    including London, Glasgow, Leipzig, New York, and Bombay.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A caption identifies a scene from the Stupa of Bharhut as illustrating Jataka
+    383 and cites Cunningham, plate xlvii.5.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The supplied lines do not describe a narrative episode or actions from Jataka
+    383.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Buddha
+  description: Named in the title/subtitle as the subject of former-birth stories;
+    no action by the Buddha is described in this passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: named subject of former-birth stories
+  assigned_to:
+  - fig:1
+  basis: The title/subtitle identifies the volume as stories of the Buddha's former
+    births.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: Bharhut stupa scene
+  literal_form: A captioned scene from the Stupa of Bharhut illustrating Jataka 383.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Title-page and publication front matter
+  summary: The passage presents the title/subtitle of the volume and publication or
+    distribution details.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Bharhut stupa illustration caption
+  summary: The caption links a scene from the Stupa of Bharhut with Jataka 383; the
+    scene's narrative content is not described in the supplied lines.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: former-birth narrative frame
+  taxonomy_refs:
+  - death_rebirth
+  basis: The title/subtitle and source metadata identify the work as stories of the
+    Buddha's former births.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage is front matter rather than a story episode; it does not describe
+    death, rebirth, or any specific former-birth narrative action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 368-372
+  quote_or_summary: '"THE JATAKA / OR / STOKIES OF THE BUDDHA''S FOKMEK BIRTHS"'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source text; short quotation from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 374-393
+  quote_or_summary: The passage lists publishing or distribution information for London,
+    Glasgow, Leipzig, New York, and Bombay, including Cambridge University Press Warehouse
+    and other named firms.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source text; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 397-399
+  quote_or_summary: '"SCENE FROM THE STUPA OF BHARHUT ILLUSTRATING JATAKA 383 (from
+    Cunningham, PI. xlvii. 5)."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source text; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 364-399
+  quote_or_summary: The supplied line range contains title-page material, publication
+    data, and an illustration caption, but no narrated Jataka episode.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source text; summarized from supplied passage.
+- id: ev:5
+  type: note
+  locator: source_metadata.source_title
+  quote_or_summary: Source metadata gives the title as The Jataka; or, Stories of
+    the Buddha's Former Births, Vol. III.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Metadata supplied in request; associated source is public domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is straightforward because the passage is front matter, but motif
+    identification is limited and based mainly on the title/source metadata rather
+    than narrative content. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR spellings such as "STOKIES" and "FOKMEK" are preserved in quoted evidence. Interpretive extraction is intentionally minimal.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol3-archive__l364-l399
+  passage_sha256=c71970bc9f578c4814ff7ef11d6a71390566f26e2eb89862db5fb5acfd4986b4
+

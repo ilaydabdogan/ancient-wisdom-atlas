@@ -1,0 +1,168 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l12627-l12635
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: LOKI,  GRENDEL,  SATUEN.  247 / LOKI,  GEENDEL,  SATUKX.        -        249
+    / EKDA,   NIRDU,   GAUE,   FIKGUNIA,    IILUODAXA.  251 / ERDA,   NIRDU,   GAUE,   FIRGUNIA,   ULUODAN.V.  255;
+    lines 12627-12635
+  start: '12627'
+  end: '12635'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A note reports a Pomeranian proverb about Hertha giving grass and filling
+    barn and vessel, but the author rejects the wording as artificial because of its
+    rhyme and says it was modeled on a known farmer’s weather rule. Additional notes
+    cite a term for a built-up heap or altar and Ovid’s Fasti.
+  language: English with German quoted phrases
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says a proverb about Hertha was reported as current in Pomerania.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The reported proverb attributes giving grass and filling a barn and vessel
+    to Hertha.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The author says the rhyme of the proverb betrays artificial workmanship.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author says the Hertha proverb was made up after a well-known farmer’s
+    weather rule about cool, wet May filling barns and vessels.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A separate note glosses later terms as a built-up heap or altar and cites
+    a grammar reference.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A separate note cites Ovid, Fasti 2.513.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Hertha
+  description: Named in a reported Pomeranian proverb as the one who gives grass and
+    fills barn and vessel.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: proverbial giver of agricultural abundance
+  assigned_to:
+  - fig:1
+  basis: The reported proverb says Hertha gives grass and fills barn and vessel.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: grass
+  literal_form: grass
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: barn and vessel
+  literal_form: barn and vessel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Reported Hertha proverb and rejection
+  summary: The passage reports a Pomeranian saying in which Hertha gives grass and
+    fills storage containers, then argues that the saying is artificially composed
+    from a farmer’s rule.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: agricultural abundance attributed to a named female figure
+  taxonomy_refs: []
+  basis: The reported proverb attributes grass and filled barn and vessel to Hertha.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage immediately questions the proverb’s authenticity and treats
+    it as artificially made from another farmer’s rule, so this should not be taken
+    as secure traditional evidence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12627-12628
+  quote_or_summary: "“Of Hertlia a proverb is said to be current in Pomerania: ...
+    Hertha gift gras, ... fiillt ... und fass (barn and vessel)”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 12629-12630
+  quote_or_summary: The author says the rhyme of grass with fass is un-Saxon and betrays
+    the workmanship.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 12631-12632
+  quote_or_summary: 'The saying is described as “clumsily made up” after the farmer’s
+    rule: “Mai kiihl und nass fiillt scheunen und fass.”'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: line 12634
+  quote_or_summary: A note gives later forms glossed as strues and ara, connected
+    with hlaSan/hluS and a grammar reference.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: citation
+  locator: line 12635
+  quote_or_summary: 'Citation: Ovid, Fasti 2.513.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; citation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is mainly a critical philological note and explicitly casts doubt
+    on the reported Hertha proverb; motif extraction is therefore tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the available taxonomy does not include a precise agricultural-abundance category, and the passage warns that the proverb may be artificial.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l12627-l12635
+  passage_sha256=e25c5c416303ad302c2a91b4106c6b13794fe9eea4363b14332e02b90fd51388
+

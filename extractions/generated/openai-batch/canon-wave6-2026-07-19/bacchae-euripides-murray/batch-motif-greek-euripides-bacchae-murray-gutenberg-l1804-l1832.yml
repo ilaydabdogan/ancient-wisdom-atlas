@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1804-l1832
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 1804-1832
+  start: '1804'
+  end: '1832'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Pentheus asks whether Dionysus can lead him away through the city streets
+    without being seen. Dionysus answers that Pentheus will have a lonely, untried
+    path and that he will guide him. Pentheus says he cares only that the Bacchanals
+    not triumph, goes into his halls to decide what to do, and remains uncertain whether
+    to attack them with armed force or follow Dionysus' plan.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pentheus asks whether he can be led away from the city streets unseen by anyone.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus says the path from there will be lonely and untried, and that he
+    will be Pentheus' guide.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Pentheus says he cares only that the Bacchanals do not triumph against him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pentheus goes within to his halls, saying he will decide what seems best.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Dionysus addresses Pentheus as king and says it is his part to obey Pentheus'
+    command.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After hesitating, Pentheus says he may march and scatter the Bacchanals with
+    a serried lance, or he may take Dionysus' plan; he is not yet sure.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Pentheus exits into the castle.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: A speaker addressed as king who asks to be led unseen, resists the
+    Bacchanals' triumph, hesitates over his course of action, and exits into the castle.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Dionysus
+  description: A speaker who says he will guide Pentheus on a lonely and untried path
+    and who says he will obey Pentheus' command.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Bacchanals
+  description: A group named by Pentheus as opponents he does not want to triumph
+    against him and whom he may march to scatter by force.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: king
+  assigned_to:
+  - fig:1
+  basis: Dionysus addresses Pentheus as "O King."
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: guide
+  assigned_to:
+  - fig:2
+  basis: Dionysus says he will guide Pentheus.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: uncertain decision-maker
+  assigned_to:
+  - fig:1
+  basis: Pentheus hesitates and says he does not yet know whether to attack or follow
+    Dionysus' plan.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: opposed group
+  assigned_to:
+  - fig:3
+  basis: Pentheus frames the Bacchanals as those who must not triumph against him
+    and as a group he may scatter with arms.
+  evidence_refs:
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: city streets
+  literal_form: The city streets through which Pentheus asks to be led unseen.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lonely and untried path
+  literal_form: A path from the present place, described by Dionysus as lonely and
+    untried.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: halls and castle
+  literal_form: Pentheus' halls and the castle into which he exits.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: serried lance
+  literal_form: The armed force Pentheus imagines using to march and scatter the Bacchanals.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Request for unseen guidance
+  summary: Pentheus asks whether Dionysus can lead him away unseen through the city
+    streets, and Dionysus replies that Pentheus' way will be lonely and untried and
+    that he will guide him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hesitation before action
+  summary: Pentheus says the Bacchanals must not triumph, goes inside to decide, and
+    remains unsure whether to attack them with armed force or follow Dionysus' plan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: departure under guidance
+  taxonomy_refs:
+  - departure
+  basis: Pentheus asks to be led away unseen, and Dionysus identifies himself as the
+    guide for the path from that place.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents the guided departure in dialogue only; it does not
+    yet show the journey itself.
+- id: motif:2
+  label: uncertain choice between force and another plan
+  taxonomy_refs: []
+  basis: Pentheus hesitates between marching with armed force against the Bacchanals
+    and accepting Dionysus' plan.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No broader taxonomy reference is assigned because the passage itself only
+    states the immediate indecision.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1804-1808
+  quote_or_summary: Pentheus asks, "What of the city streets? Canst lead me hence
+    / Unseen of any?"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1810-1813
+  quote_or_summary: Dionysus replies that the path will be "Lonely and untried" and
+    says, "I thy guide."
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1815-1818
+  quote_or_summary: Pentheus says he cares for nothing so long as the Bacchanals do
+    not triumph against him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1818-1820
+  quote_or_summary: Pentheus orders movement forward into his halls and says he will
+    ordain what seems best.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1822-1825
+  quote_or_summary: Dionysus addresses Pentheus as king and says that it is his to
+    obey whatever Pentheus commands.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1827-1831
+  quote_or_summary: After hesitation, Pentheus says he may march and scatter the Bacchanals
+    with a serried lance, or he may take Dionysus' plan, and he does not yet know.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: citation
+  locator: line 1832
+  quote_or_summary: 'Stage direction: Pentheus exits into the castle.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; citation evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited to patterns
+    directly present in the passage; no comparison claims are made because the excerpt
+    itself does not support a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. No external context or unsupported taxonomy IDs were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1804-l1832
+  passage_sha256=761cc73ce9579999d60703379eec6d47dd413cda248fb63e188bac50d4f7bb5c
+

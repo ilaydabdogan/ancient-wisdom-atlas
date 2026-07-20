@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.greek-homeric-hymns-lang-gutenberg-l3672-l3686
+source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+passage_locator:
+  label: XXV.  TO DIONYSUS / XXVI.  TO ARTEMIS / XXVII.  TO ATHENE / XXVIII.  TO HESTIA;
+    lines 3672-3686
+  start: '3672'
+  end: '3686'
+  translation: The Homeric Hymns
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“there is no banquet of mortals without thee”"
+  summary: The hymn addresses Hestia, praising her eternal place and foremost honour
+    in divine and human halls, and states that mortal banquets give her first and
+    last oblations of sweet wine. It then invokes Hermes by several epithets, asks
+    him to dwell with Hestia and befriend the speakers, notes that both are skilled
+    in fair works of earthly men and consort with wisdom and youth, and closes with
+    a hail to Hestia and Hermes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Hestia is addressed as having an eternal place and foremost honour in the
+    lofty halls of immortal gods and of humans on earth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says no mortal banquet occurs without Hestia.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At mortal banquets, sweet wine is offered to Hestia first and last.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hermes is addressed as the slayer of Argus, son of Zeus and Maia, messenger
+    of the blessed gods, god of the golden wand, and giver of all good things.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker asks Hermes to dwell with Hestia in fair mansions, with the two
+    dear to each other.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker asks Hermes, together with dear and honoured Hestia, to befriend
+    the speakers.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A bracketed statement says both deities are skilled in all fair works of earthly
+    men and consort with wisdom and youth.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Hestia is hailed as daughter of Cronos, and Hermes is again associated with
+    the golden wand.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The hymn closes with the speaker saying they will be mindful of Hestia and
+    Hermes and of another lay.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Hestia
+  description: A goddess addressed in the hymn; she has an eternal place and foremost
+    honour, receives first and last wine oblations at banquets, is dear and honoured,
+    and is called daughter of Cronos.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Hermes
+  description: A god invoked as slayer of Argus, son of Zeus and Maia, messenger of
+    the blessed gods, god of the golden wand, giver of all good things, and desired
+    companion of Hestia.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Mortals / men on earth
+  description: Human beings on earth whose banquets include Hestia and whose fair
+    works are mentioned in the bracketed statement.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Immortal gods / blessed gods
+  description: A collective divine group whose lofty halls are associated with Hestia
+    and for whom Hermes is messenger.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: honoured hymn addressee
+  assigned_to:
+  - fig:1
+  basis: Hestia is directly addressed, praised for eternal place and foremost honour,
+    and hailed at the close.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: recipient of banquet oblations
+  assigned_to:
+  - fig:1
+  basis: Mortal banquets are said not to occur without Hestia, and sweet wine is offered
+    to her first and last.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine messenger
+  assigned_to:
+  - fig:2
+  basis: Hermes is called messenger of the blessed gods.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: invoked divine benefactor and companion
+  assigned_to:
+  - fig:2
+  basis: Hermes is called giver of all good things and is asked to dwell with Hestia
+    and befriend the speakers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: deity identified by divine parentage
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Hestia is called daughter of Cronos, while Hermes is called son of Zeus and
+    Maia.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:6
+  label: human ritual participants
+  assigned_to:
+  - fig:3
+  basis: Mortals are described as holding banquets at which oblations are made to
+    Hestia.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sweet wine oblation
+  literal_form: Sweet wine offered to Hestia first and last at mortal banquets.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: golden wand
+  literal_form: Hermes’ golden wand, named in his epithets.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: lofty halls and fair mansions
+  literal_form: Lofty halls of immortal gods and humans; fair mansions where Hermes
+    is asked to dwell with Hestia.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: first and last honouring sequence
+  literal_form: The sequence in which Hestia receives oblation first and last at banquets.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Praise of Hestia’s place and banquet honour
+  summary: The hymn praises Hestia’s eternal place and foremost honour and states
+    that mortal banquets include first and last sweet-wine oblations to her.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Invocation of Hermes with Hestia
+  summary: Hermes is invoked by epithets and asked to dwell with Hestia in fair mansions,
+    to be dear to her, and to befriend the speakers together with her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Shared skills and closing hail
+  summary: The passage says both deities are skilled in fair works of earthly men
+    and consort with wisdom and youth, then closes by hailing Hestia and Hermes and
+    promising future remembrance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: first-and-last libation to a deity at banquets
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly states that at mortal banquets sweet wine is offered
+    to Hestia first and last.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage describes a ritual practice in hymnic language; it is not
+    a detailed narrative of a sacrifice.
+- id: motif:2
+  label: ritual honour paired with request for divine favour
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The hymn describes offerings to Hestia and then asks Hermes, together with
+    Hestia, to befriend the speakers.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage does not state a direct contractual exchange; the motif is
+    inferred from the proximity of oblation and petition.
+- id: motif:3
+  label: paired deities dwelling together and aiding worshippers
+  taxonomy_refs: []
+  basis: Hermes is asked to dwell with Hestia, to be dear to her, and to befriend
+    the speakers in company with her.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a paired invocation but does not elaborate a broader
+    mythic narrative of the pair.
+- id: motif:4
+  label: deities associated with wisdom and youth
+  taxonomy_refs:
+  - wisdom
+  basis: The bracketed statement says both deities consort with wisdom and youth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The statement is brief and bracketed; it does not develop a wisdom myth
+    or teaching episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3672-3676
+  quote_or_summary: Hestia is said to have obtained “an eternal place and the foremost
+    honour” in the lofty halls of immortal gods and humans on earth.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 3676-3678
+  quote_or_summary: The hymn says there is “no banquet of mortals without thee” and
+    that people first and last make to Hestia an oblation of sweet wine.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 3678-3680
+  quote_or_summary: Hermes is invoked as slayer of Argus, son of Zeus and Maia, messenger
+    of the blessed gods, god of the golden wand, and giver of all good things.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source summarized.
+- id: ev:4
+  type: summary
+  locator: 3680-3682
+  quote_or_summary: The speaker asks Hermes to dwell with Hestia in fair mansions,
+    dear to each other, and to befriend the speakers together with dear and honoured
+    Hestia.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source summarized.
+- id: ev:5
+  type: quote
+  locator: 3682-3683
+  quote_or_summary: A bracketed statement says the two are “well skilled in all fair
+    works of earthly men” and “consort with wisdom and youth.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: 3684-3686
+  quote_or_summary: The closing hail addresses Hestia as daughter of Cronos and Hermes
+    as of the golden wand, and says the speaker will be mindful of them and another
+    lay.
+  source_text_path: texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md
+  rights_note: Public domain source summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    are limited to passage-internal ritual and hymnic patterns. No cross-textual or
+    historical comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No fire/hearth symbol was extracted because the supplied passage names Hestia but does not explicitly mention fire or hearth.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-homeric-hymns-lang-gutenberg__l3672-l3686
+  passage_sha256=e008d188f20965db5268c1837edc2e5b032f19ed2eab2dd5a464d1981c3b786a
+

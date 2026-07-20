@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l2784-l2813
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: MOSES OF KHORENE / ARAXES CAME DEVOURINGLY / EARTH AND SKY / FOLK SONG; lines
+    2784-2813
+  start: '2784'
+  end: '2813'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A folk-song speaker laments that her lover has gone over the mountains
+    to fight. She searches for him in the meadows, recalls that he left without farewell,
+    compares his brief passing to a sweet fragrance, says they will not meet again,
+    and asks Sourb Carapet to bless his way.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male beloved went over high mountains.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first-person speaker seeks or looks for the beloved in meadows above.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The beloved has gone to fight while the speaker remains alone.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Quail and partridge are described as not stirring.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The beloved left without a word.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The beloved is compared to a sweet flower fragrance as he passed and quickly
+    vanished.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker says she saw him, loved him, and that they will never meet again.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: When the lover rode away, the speaker gave no farewell and asks Sourb Carapet
+    to bless his way.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The lyric voice who seeks the lover, remains alone, and asks for a
+    blessing on his way.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: lover
+  description: The beloved male figure who goes over the mountains, leaves for fighting,
+    rides away, and vanishes from the speaker's life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Sourb Carapet
+  description: A named figure invoked by the speaker to bless the lover's way.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: seeking lamenting speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker seeks the lover, stays alone, and laments the absence of farewell.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: departing lover going to fight
+  assigned_to:
+  - fig:2
+  basis: The beloved goes over the mountains, goes to fight, leaves without a word,
+    and rides away.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: invoked blesser
+  assigned_to:
+  - fig:3
+  basis: The speaker asks Sourb Carapet to bless the lover's way.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: high mountains
+  literal_form: mountains high
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: meadows above
+  literal_form: meadows above
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: silent birds
+  literal_form: quail and partridge not stirring
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: flower fragrance
+  literal_form: a flower's sweet fragrance used as a comparison for the beloved's
+    passing
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: blessed way
+  literal_form: the lover's way, for which blessing is requested
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: lover departs over the mountains
+  summary: The beloved goes over high mountains, and the speaker seeks him in the
+    meadows while saying he has gone to fight and she remains alone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: search amid still birds
+  summary: The speaker again looks for the lover in the meadows; quail and partridge
+    do not stir, and the lover has left without a word.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: brief passing and vanishing
+  summary: The speaker recalls that the beloved came past like a sweet fragrance,
+    vanished quickly, and will not be met again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: missed farewell and saintly blessing
+  summary: The lover rides away without a farewell from the speaker, who says no one
+    can help him now and asks Sourb Carapet to bless his way.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: beloved departs to fight
+  taxonomy_refs:
+  - departure
+  basis: The passage repeatedly states that the lover has gone away to fight while
+    the speaker stays alone.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is lyric rather than narrative; the reason for the fighting
+    is not specified.
+- id: motif:2
+  label: search and lament for absent beloved
+  taxonomy_refs: []
+  basis: The speaker looks for the lover in the meadows, remains alone, and says they
+    will never meet again.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference precisely covers this lyric absence motif.
+- id: motif:3
+  label: blessing invoked for departing traveler or warrior
+  taxonomy_refs: []
+  basis: After the lover rides away, the speaker asks Sourb Carapet to bless his way.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a brief invocation and does not explain Sourb Carapet
+    or the ritual context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2784-2791
+  quote_or_summary: The lover goes over high mountains; the speaker seeks him in meadows
+    above and says he has gone to fight while she remains alone.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 2792-2799
+  quote_or_summary: Quail and partridge do not stir; the speaker looks for the lover,
+    who left without a word and went to fight while she remains alone.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2800-2803
+  quote_or_summary: The beloved came past like a sweet flower fragrance and vanished
+    quickly; the speaker saw him, loved him, and says they will not meet again.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 2804-2813
+  quote_or_summary: When the lover rode away, the speaker gave no farewell; she says
+    no one is there to help him now and asks Sourb Carapet to bless his way.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a short lyric song with limited narrative context. No comparison
+    claims are made because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage text and metadata; no external explanation of Sourb Carapet was added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l2784-l2813
+  passage_sha256=2536bad5afbc09b882cca37845ff581cb5be59356e38b20834002843e883294a
+

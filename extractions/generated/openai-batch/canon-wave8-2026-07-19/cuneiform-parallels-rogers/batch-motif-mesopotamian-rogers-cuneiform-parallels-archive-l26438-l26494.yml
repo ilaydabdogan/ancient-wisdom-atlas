@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l26438-l26494
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 26438-26494
+  start: '26438'
+  end: '26494'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: Tishpak, slayer of dragon, 62
+  summary: The passage is an index section listing names, places, topics, and page
+    references. Entries include a hymn to Tammuz, Tauthe identified with Tiamat, Tiamat,
+    Tishpak as slayer of a dragon, an incantation against toothache, a siege of Tyre
+    by Nebuchadrezzar, Uruk as city of Gilgamesh, and a fragment of Wisdom literature.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is an index section containing entries with page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists a hymn to Tammuz.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index identifies Tauthe parenthetically as Tiamat and also lists Tiamat
+    separately.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index describes Tishpak as a slayer of a dragon.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index lists an incantation against toothache.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index lists a siege of Tyre by Nebuchadrezzar.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The index describes Uruk as the city of Gilgamesh.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index lists a fragment of Wisdom literature.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Tammuz
+  description: Named in an index entry for a hymn to Tammuz.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Tauthe / Tiamat
+  description: Tauthe is parenthetically identified as Tiamat; Tiamat is also listed
+    as an index entry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Tishpak
+  description: Named as slayer of a dragon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: dragon
+  description: Unnamed dragon mentioned as the object of Tishpak's slaying.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Nebuchadrezzar
+  description: Named in an index entry for the siege of Tyre.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Gilgamesh
+  description: Named in the phrase identifying Uruk as the city of Gilgamesh.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: subject or recipient of hymn
+  assigned_to:
+  - fig:1
+  basis: The index entry reads as a hymn to Tammuz.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: identified name-form
+  assigned_to:
+  - fig:2
+  basis: The index entry gives Tauthe with Tiamat in parentheses.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: dragon slayer
+  assigned_to:
+  - fig:3
+  basis: The index calls Tishpak a slayer of dragon.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: slain creature
+  assigned_to:
+  - fig:4
+  basis: The dragon is mentioned as what Tishpak slays.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: besieging king
+  assigned_to:
+  - fig:5
+  basis: The index entry names a siege of Tyre by Nebuchadrezzar.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: city-associated figure
+  assigned_to:
+  - fig:6
+  basis: Uruk is described as the city of Gilgamesh.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: dragon
+  literal_form: dragon
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: dragon-slaying by a named figure
+  taxonomy_refs: []
+  basis: The index explicitly describes Tishpak as slayer of a dragon.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is only an index entry; it gives no narrative sequence, combat
+    details, or description of the dragon.
+- id: motif:2
+  label: incantation against an ailment
+  taxonomy_refs: []
+  basis: The index lists an incantation against toothache.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not include the incantation text, ritual context, speaker,
+    or divine agents.
+- id: motif:3
+  label: wisdom literature fragment
+  taxonomy_refs:
+  - wisdom
+  basis: The index lists a fragment of Wisdom literature.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The index gives no content from the wisdom fragment.
+- id: motif:4
+  label: hymn to Tammuz
+  taxonomy_refs: []
+  basis: The index lists a hymn to Tammuz.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only the index entry and page references, not the hymn's
+    language or themes.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 26438-26494
+  quote_or_summary: The passage is an INDEX section listing entries and page references.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: 26440-26442
+  quote_or_summary: Tammuz, hymn to, 179, 182
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short quotation from provided passage.
+- id: ev:3
+  type: summary
+  locator: 26444-26452
+  quote_or_summary: The index identifies Tauthe as Tiamat and lists Tiamat with multiple
+    page references.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: '26461'
+  quote_or_summary: Tishpak, slayer of dragon, 62
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short quotation from provided passage.
+- id: ev:5
+  type: quote
+  locator: '26463'
+  quote_or_summary: Toothache, incantation against,
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short quotation from provided passage.
+- id: ev:6
+  type: quote
+  locator: '26467'
+  quote_or_summary: Tyre, siege by Nebuchadrezzar,
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short quotation from provided passage.
+- id: ev:7
+  type: quote
+  locator: '26478'
+  quote_or_summary: Uruk, city of Gilgamesh, 81
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short quotation from provided passage.
+- id: ev:8
+  type: quote
+  locator: 26484-26485
+  quote_or_summary: Wisdom literature, fragment of, 164, 175
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short quotation from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward because the passage is an index. Motif
+    candidates are limited and mostly genre or label based, since no narrative passages
+    are present. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only information explicit in the supplied index passage was used. No external mythology knowledge was applied.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l26438-l26494
+  passage_sha256=4289c74c80ff04876fe07ea19d0b0c66368c0dfbbc349652371a73121f1683fb
+

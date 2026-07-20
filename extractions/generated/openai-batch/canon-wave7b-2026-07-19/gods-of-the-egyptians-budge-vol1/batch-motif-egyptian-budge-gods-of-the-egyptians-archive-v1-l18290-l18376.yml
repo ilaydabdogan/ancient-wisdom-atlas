@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l18290-l18376
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: OAAAAAA / Q AAAAAA / AAAAAA I / EGYPTIAN TEXT WITH TRANSLITERATION AND TRANSLATION;
+    lines 18290-18376
+  start: '18290'
+  end: '18376'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: god, who created himself
+  summary: 'The interleaved transliteration and translation describe a self-created
+    god in sovereignty, with men, gods, and creation mentioned. Men and women blaspheme
+    or speak against him, saying that his majesty has grown old. His body is described
+    with precious-material similes: bones like silver, limbs like gold, and hair like
+    real lapis-lazuli. The supplied passage breaks off after a reference to his majesty
+    listening.'
+  language: English and Egyptian transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A god is described as having created himself.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage places the self-created god in relation to sovereignty, with men,
+    gods, and creation mentioned.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Men and women are described as blaspheming and saying something.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The reported speech says that his majesty, accompanied by the formula of life,
+    strength, and health, has grown old.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'The god’s body is described through precious-material comparisons: bones
+    like silver, limbs like gold, and hair like real lapis-lazuli.'
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The supplied passage ends with an incomplete phrase about his majesty listening.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: self-created god / his majesty
+  description: A god described as creating himself, being in sovereignty, being called
+    his majesty, growing old, and having bones, limbs, and hair compared to precious
+    materials.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: men and women
+  description: Human figures described as blaspheming and speaking about the god’s
+    condition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: gods
+  description: A group mentioned alongside men and creation in the sovereignty passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: self-created deity
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls him a god who created himself.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sovereign majesty
+  assigned_to:
+  - fig:1
+  basis: The passage refers to sovereignty and to the figure as his majesty.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: aged divine figure in reported speech
+  assigned_to:
+  - fig:1
+  basis: The reported speech says his majesty has grown old.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: blaspheming human speakers
+  assigned_to:
+  - fig:2
+  basis: Men and women are described as blaspheming and saying the reported words.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: mentioned divine group
+  assigned_to:
+  - fig:3
+  basis: Gods are mentioned in the phrase concerning sovereignty and creation.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: silver bones
+  literal_form: bones like silver
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: gold limbs
+  literal_form: limbs like gold
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: lapis-lazuli hair
+  literal_form: hair like real lapis-lazuli
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Self-created god in sovereignty
+  summary: A god is described as having created himself and as being connected with
+    sovereignty, with men, gods, and creation mentioned.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Human blasphemy about the aged majesty
+  summary: Men and women blaspheme and say that his majesty has grown old; the god’s
+    body is then described with silver, gold, and lapis-lazuli comparisons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Self-created god
+  taxonomy_refs: []
+  basis: The passage directly describes a god as one who created himself.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt does not provide a full cosmogonic narrative.
+- id: motif:2
+  label: Divine sovereignty over men, gods, and creation
+  taxonomy_refs: []
+  basis: The passage links the self-created god with sovereignty and mentions men,
+    gods, and creation.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The syntax is interleaved with transliteration, so the exact scope of
+    the sovereignty should be checked against the full edition.
+- id: motif:3
+  label: Humans blaspheme against an aging divine ruler
+  taxonomy_refs: []
+  basis: Men and women are said to blaspheme and to say that his majesty has grown
+    old.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The supplied passage is fragmentary and does not show the consequences
+    of the blasphemy.
+- id: motif:4
+  label: Divine body described as precious materials
+  taxonomy_refs: []
+  basis: The god’s bones, limbs, and hair are compared respectively to silver, gold,
+    and lapis-lazuli.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents these as body-description similes; broader symbolic
+    meaning requires comparison beyond this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 18290-18376
+  quote_or_summary: '"god, who created himself"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; full text use allowed by metadata.
+- id: ev:2
+  type: quote
+  locator: 18290-18376
+  quote_or_summary: '"the sovereignty"; "of men"; "and of gods, and of creation"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; full text use allowed by metadata.
+- id: ev:3
+  type: quote
+  locator: 18290-18376
+  quote_or_summary: '"men and women were blaspheming and saying"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; full text use allowed by metadata.
+- id: ev:4
+  type: quote
+  locator: 18290-18376
+  quote_or_summary: '"Behold, his majesty, life, strength, health, has grown old"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; full text use allowed by metadata.
+- id: ev:5
+  type: quote
+  locator: 18290-18376
+  quote_or_summary: '"his bones are like silver, his limbs like gold"; "his hair ...
+    is like lapis-lazuli real"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; full text use allowed by metadata.
+- id: ev:6
+  type: quote
+  locator: 18290-18376
+  quote_or_summary: '"was his majesty listening to"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; full text use allowed by metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by the supplied passage’s fragmentary, interleaved
+    transliteration/translation format and by the abrupt ending. No comparison claims
+    were made because the excerpt itself does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; available taxonomy references were not applied because none clearly matched the literal content without further interpretation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l18290-l18376
+  passage_sha256=542521fa7f55eea603cc7ad5393b2947b2f7d24e977410ee87fd8df8effb2329
+

@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.arctic-inuit-across-arctic-america-rasmussen-archive-l3493-l3528
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+passage_locator:
+  label: WITH NO EDITORS TO SPOIL / THE OWL THAT WOOED A SNOW BUNTING / THE RAVEN
+    AND THE LOON / THUNDER AND LIGHTNING; lines 3493-3528
+  start: '3493'
+  end: '3528'
+  translation: 'Across Arctic America: Narrative of the Fifth Thule Expedition'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: they went up into the sky and became thunder and lightning.
+  summary: 'A tale explains thunder and lightning: during a song festival, two children
+    left alone take a caribou skin and a firestone, become afraid of people, reject
+    animal transformations as unsafe, go up into the sky, and become thunder and lightning.
+    Thunder is explained as one child rattling the dry skin, and lightning as the
+    other striking sparks from the stone. The tale is credited to Arnarqik and noted
+    as also known in Greenland.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that in the olden days nobody stole anything.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: A great song festival is being held, and two children are left alone in a
+    house.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The children find a caribou skin with the hair off and a firestone.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The children want the objects for themselves, take them, and then become afraid.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One child asks how they can get away from people.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The children propose turning into caribou, wolves, foxes, and other animals.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The proposed animal forms are rejected because humans might catch or kill
+    them.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The children decide to become thunder and lightning because people cannot
+    reach them in that form.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The children go up into the sky and become thunder and lightning.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Thunder is explained as one of the children rattling the dry skin, and lightning
+    as the other striking sparks from the stone.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The tale is attributed to Arnarqik of Nahigtartorvik, Kazan River.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The passage notes that the tale is also known in Greenland.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: two children
+  description: Two children left alone in a house during a song festival; they take
+    a caribou skin and firestone, consider transformations, ascend into the sky, and
+    become thunder and lightning.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: people or men
+  description: The human community from whom the children wish to escape; they are
+    feared as possible catchers or killers, but cannot reach thunder and lightning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: children left alone
+  assigned_to:
+  - fig:1
+  basis: The two children are left alone in a house while a song festival is taking
+    place.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: takers of the caribou skin and firestone
+  assigned_to:
+  - fig:1
+  basis: They find the skin and firestone, desire them, and take them.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: self-transforming weather beings
+  assigned_to:
+  - fig:1
+  basis: They choose to become thunder and lightning, go into the sky, and thereafter
+    produce thunder and lightning by using the skin and stone.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: feared human community
+  assigned_to:
+  - fig:2
+  basis: The children want to get away from people and reject animal transformations
+    because humans could catch or kill them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: caribou skin or dry skin
+  literal_form: A caribou skin with the hair off, later described as the dry skin
+    rattled to make thunder.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: firestone
+  literal_form: A firestone taken by the children and later struck to make sparks
+    associated with lightning.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: sky
+  literal_form: The sky into which the children go when they become thunder and lightning.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: thunder
+  literal_form: A weather sound explained as one child rattling the dry skin.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: lightning
+  literal_form: A weather flash explained as one child striking sparks from the stone.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: possible animal forms
+  literal_form: Caribou, wolves, foxes, and other animals considered as possible transformations.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: festival absence and taking of objects
+  summary: During a great song festival, two children are left alone in a house, find
+    a caribou skin and firestone, take them, and become afraid.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: debate over transformations
+  summary: The children discuss how to escape people and reject animal forms such
+    as caribou, wolves, and foxes because humans might catch or kill them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: ascent and origin of thunder and lightning
+  summary: The children choose thunder and lightning as unreachable forms, go into
+    the sky, and become those phenomena; thunder and lightning are then explained
+    through the skin and stone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: transformation into thunder and lightning
+  taxonomy_refs:
+  - shapeshifter
+  basis: The children deliberately choose non-animal forms, go into the sky, and become
+    thunder and lightning.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The transformation is into weather phenomena rather than animal or human
+    disguise.
+- id: motif:2
+  label: ascent into the sky after fear of humans
+  taxonomy_refs:
+  - ascent
+  basis: The children go up into the sky after deciding to become thunder and lightning,
+    forms that humans cannot reach.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives an ascent into the sky but does not describe a journey,
+    initiation, or return.
+- id: motif:3
+  label: etiology of thunder and lightning through retained objects
+  taxonomy_refs: []
+  basis: The tale explains thunder as rattling the dry skin and lightning as sparks
+    from the stone.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly names weather-origin or etiological
+    myth.
+- id: motif:4
+  label: taking objects brings fear and transformation
+  taxonomy_refs: []
+  basis: The children take the skin and firestone, become afraid, and seek a form
+    in which humans cannot reach them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the taking as theft-like, but the objects are not
+    described as sacred.
+- id: motif:5
+  label: paired beings become complementary phenomena
+  taxonomy_refs:
+  - duality
+  basis: Two children become paired phenomena, with one associated with thunder and
+    dry skin and the other with lightning and sparks from the stone.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not elaborate a broader dualistic cosmology.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the tale is also known in Greenland.
+  claim_level: same_motif
+  target: Greenland tradition
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No Greenland version or details are provided in the passage, so the
+    comparison is limited to the supplied parenthetical note.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 3493-3528
+  quote_or_summary: Passage titled "THUNDER AND LIGHTNING."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 3495-3502
+  quote_or_summary: In olden days nobody stole; during a great song festival two children
+    are left alone, find a hairless caribou skin and a firestone, take them, and become
+    afraid.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 3504-3508
+  quote_or_summary: One child asks how to get away from people; the other proposes
+    turning into caribou.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 3510-3514
+  quote_or_summary: The children reject caribou, wolves, and foxes as forms because
+    people might catch or kill them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 3516-3521
+  quote_or_summary: After naming the animals, the children choose to be thunder and
+    lightning because humans cannot reach them; they go up into the sky and become
+    thunder and lightning.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:6
+  type: quote
+  locator: lines 3521-3524
+  quote_or_summary: '"when we hear the thunder it is one of them rattling the dry
+    skin"; lightning is seen when the other strikes sparks from the stone.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:7
+  type: citation
+  locator: line 3526
+  quote_or_summary: Told by Arnarqik, of Nahigtartorvik, Kazan River.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:8
+  type: note
+  locator: line 3528
+  quote_or_summary: Also known in Greenland.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative sequence is clear. Motif-family mapping is provisional because
+    several supplied taxonomy labels are broader than this weather-origin tale. OCR
+    anomalies in the passage do not materially affect the extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:arctic-inuit-across-arctic-america-rasmussen-archive__l3493-l3528
+  passage_sha256=a311d5b49fa051f1ea916a4743b984307a62eb7ab9a3613a16c39454b9e6ce59
+

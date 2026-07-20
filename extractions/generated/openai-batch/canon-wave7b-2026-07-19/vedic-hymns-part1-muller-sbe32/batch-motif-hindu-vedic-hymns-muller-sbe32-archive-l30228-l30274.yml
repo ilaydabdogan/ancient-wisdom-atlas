@@ -1,0 +1,174 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l30228-l30274
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: INDEX OF WORDS. / HYMNS. / INDEX OF WORDS. / VII, 59, 1; lines 30228-30274
+  start: '30228'
+  end: '30274'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index-of-words fragment listing transliterated Vedic terms and hymn
+    references, including entries for ina as strong, indu as a Soma drop, Indra and
+    related compounds, indriya as vigour or Indra's might, and indh as to kindle,
+    with a gloss about lighting the fire.
+  language: English with transliterated Sanskrit
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index glosses ina as strong and indu as a Soma drop, and includes a vocative
+    form addressed to Indu.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists multiple forms and hymn references for Indra and notes that
+    Indra is called vira.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index glosses Indra-vat as joined by Indra.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index glosses Indravayu as Indra and Vayu.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index glosses indriya as vigour and gives a form translated as with Indra's
+    might.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index glosses indh as to kindle and includes a phrase translated as let
+    them light the fire.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: Named in the index entry for Indra; also appears in glosses for Indra-vat,
+    Indravayu, and Indra's might.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Vayu
+  description: Named as part of the compound Indravayu, glossed as Indra and Vayu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Indu
+  description: Named in the index as indu, glossed as a Soma drop, with a vocative
+    entry O Indu.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: called vira
+  assigned_to:
+  - fig:1
+  basis: The index note states that Indra is called vira.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: member of named Indra-Vayu pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The compound Indravayu is glossed as Indra and Vayu.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: the fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: Soma drop
+  literal_form: "(Soma) drop"
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes: []
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 30230-30235
+  quote_or_summary: '"indu, (Soma) drop" and a vocative entry "O Indu" are listed.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 30237-30252
+  quote_or_summary: 'The index entry for Indra lists forms and references and notes:
+    "Indra called vira".'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 30254-30256
+  quote_or_summary: '"fndra-vat, joined by Indra" is listed with a cited form.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 30257-30259
+  quote_or_summary: '"Indravayu, Indra and Vayu" is listed.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 30261-30264
+  quote_or_summary: '"indriya, vigour" and "with (Indra’s) might" are listed.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: 30266-30270
+  quote_or_summary: The entry for indh is glossed "to kindle" and includes "let them
+    light (the fire)".
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The excerpt is an index of words rather than a narrative hymn passage. Extraction
+    is limited to named figures, literal glosses, and the explicitly mentioned fire
+    and Soma drop; no motif or comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs were extracted because the passage is lexical index material and does not itself present a mythic episode.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l30228-l30274
+  passage_sha256=e8a2bbdbb31056b5b16bcbc481b3e0279d937f45896e1701a59a5babd3bd436b
+

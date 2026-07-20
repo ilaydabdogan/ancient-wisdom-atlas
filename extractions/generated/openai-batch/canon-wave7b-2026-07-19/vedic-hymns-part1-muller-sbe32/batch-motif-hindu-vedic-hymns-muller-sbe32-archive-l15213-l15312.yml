@@ -1,0 +1,386 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l15213-l15312
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: 'MANDALA I, HYMN 88. 169 / NOTES. / NOTES: 1, BB, 1. 171 / NOTES. . 1,38,
+    3. 173; lines 15213-15312'
+  start: '15213'
+  end: '15312'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Philological notes discuss the Maruts' chariot, its tire or wheels, thunderbolts,
+    weapons, forests, clouds, prayer, and possible meanings of terms such as svadhiti,
+    vasi, medha, dhan, and adri. The notes also compare the Vedic idea of thunder
+    as a god's chariot-noise with a similar belief attributed to ancient Germanic
+    people.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A proposed interpretation renders svadhitivan as a chariot made of wood from
+    the Svadhiti tree; a related devi svadhiti is described as possibly lightning
+    and as a companion of Indra and the Maruts.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tire of the Maruts' chariot is described as frequently mentioned, essential
+    to the chariot, and useful for crushing an enemy.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cited Vedic passages describe the Maruts' chariot tires as cutting a mountain
+    or cloud and having sharp edges.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Another cited passage mentions tires without horses or chariot, turned by
+    Indra against the Dasyus.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note states that the chariot tires of the Maruts may be rendered in matter-of-fact
+    terms as thunderbolts.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note states that Vedic poets understood thunder as the noise of a god's
+    chariot, and that the chariot's sharp wheels were supposed to cut and crush clouds.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Vasis are identified as small weapons, knives, daggers, or an awl-like weapon,
+    and another cited passage mentions stone vasis.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Maruts are said to stir up forests, and their thunderbolts are interpreted
+    as rousing men to prayer as they stir the tops of forest trees.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The shaking of a stone is suggested as possibly the shaking of a stone for
+    distilling heavenly Soma or rain; alternatively, adri may mean thunderbolt, and
+    the passage is described as doubtful.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Maruts
+  description: Divine figures associated with a chariot, sharp tires or wheels, thunderbolts,
+    stirred forests, and the rousing of prayer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Indra
+  description: A divine figure associated with the Maruts and with turning tires against
+    the Dasyus in a cited passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Dasyus
+  description: A group named as the target against whom Indra turned tires in a cited
+    passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine chariot-associated storm figures
+  assigned_to:
+  - fig:1
+  basis: The Maruts are repeatedly associated with chariot tires, thunder, thunderbolts,
+    and cloud-cutting wheels.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: rousers of forests and prayer
+  assigned_to:
+  - fig:1
+  basis: The note says the Maruts stir forests and that their thunderbolts rouse men
+    to prayer.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: divine attacker using tires against enemies
+  assigned_to:
+  - fig:2
+  basis: A cited passage has Indra turning tires against the Dasyus.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: opponent group
+  assigned_to:
+  - fig:3
+  basis: The Dasyus are the named group against whom the tires are turned.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: chariot tire or wheel
+  literal_form: The tire or sharp wheel of the Maruts' chariot, also mentioned in
+    connection with Indra.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: thunderbolt
+  literal_form: The commentator's matter-of-fact rendering of the Maruts' chariot
+    tires and a possible meaning of adri.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: mountain or cloud cut by wheels
+  literal_form: A mountain glossed in the note as cloud, cut by the tire of the Maruts'
+    chariots.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: forest trees
+  literal_form: Forests and the tops of forest trees stirred by the Maruts.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Svadhiti tree or wood
+  literal_form: A proposed tree whose wood may form a chariot in the passage being
+    discussed.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: lightning as devi svadhiti
+  literal_form: A possible lightning figure or object described as companion of Indra
+    and the Maruts.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:7
+  label: stone for Soma or rain
+  literal_form: A shaken stone possibly used for distilling heavenly Soma or rain.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: small weapons
+  literal_form: Vasis identified as knives, daggers, an awl, or stone implements.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Maruts' chariot wheels cut clouds
+  summary: The Maruts' chariot tires or sharp wheels are described as cutting a mountain
+    or cloud and crushing clouds, with the tires also interpreted as thunderbolts.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Indra turns tires against the Dasyus
+  summary: A cited passage describes tires, without horses and chariot, being turned
+    by Indra against the Dasyus.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Maruts stir forests and rouse prayer
+  summary: The Maruts stir the forests, and their thunderbolts are interpreted as
+    rousing men to prayer in the same way that they stir the forest-tree tops.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: thunder as the noise of a divine chariot
+  taxonomy_refs: []
+  basis: The note says Vedic poets supposed thunder to be the noise of a god's chariot,
+    whose sharp wheels cut and crush clouds.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a motif extracted from the translator's note, not directly from
+    a full hymn narrative in this passage.
+- id: motif:2
+  label: storm chariot wheels as cloud-cutting weapons
+  taxonomy_refs: []
+  basis: The Maruts' chariot tires cut a mountain or cloud, have sharp edges, crush
+    enemies, and are rendered by the note as thunderbolts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The note cautions against treating detached chariot tires or wheels as
+    literal weapons of attack.
+- id: motif:3
+  label: divine thunder rousing humans to prayer
+  taxonomy_refs: []
+  basis: The note interprets the Maruts' thunderbolts as rousing men to prayer as
+    they stir the tops of forest trees.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is presented as the translator's reconstruction of the poet's idea.
+- id: motif:4
+  label: shaken stone distilling heavenly Soma or rain
+  taxonomy_refs: []
+  basis: The note suggests that the shaking of a stone may refer to a stone for distilling
+    heavenly Soma or rain.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The note explicitly says the passage is doubtful and offers an alternative
+    that adri may mean thunderbolt.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself compares Vedic poetic belief with a belief attributed
+    to ancient Germanic people: thunder is understood as the noise of a god''s chariot.'
+  claim_level: same_function
+  target: Ancient Germanic thunder-as-divine-chariot belief as described in the note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison depends only on this translator's note; no independent
+    Germanic source passage is provided here, and the note does not establish historical
+    contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15213-15312, opening note before Note 2
+  quote_or_summary: The note discusses svadhitivan as possibly a chariot made from
+    Svadhiti-tree wood and mentions devi svadhiti as possibly lightning, companion
+    of Indra and the Maruts.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 15213-15312, Note 2
+  quote_or_summary: The tire of the Maruts' chariot is said to be frequently mentioned,
+    essential to the chariot, and useful for crushing enemies; cited verses say the
+    tires cut a mountain or cloud and have sharp edges.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 15213-15312, Note 2
+  quote_or_summary: The note cites tires turned by Indra against the Dasyus, doubts
+    literal detached wheel-weapons, and says the Maruts' chariot tires may be rendered
+    as thunderbolts in matter-of-fact terms.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 15213-15312, Note 2
+  quote_or_summary: The note states that Vedic poets, like ancient Germanic people,
+    supposed thunder to be the noise of a god's chariot, and that the chariot's sharp
+    wheels cut and crushed clouds.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 15213-15312, Verse 3, Note 1
+  quote_or_summary: Vasis are identified as small weapons such as knives or daggers;
+    Sāyana explains the term as an awl-like weapon, and another cited passage mentions
+    stone vasis.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 15213-15312, Verse 3, Note 1
+  quote_or_summary: The note says the Maruts stir up forests and interprets their
+    thunderbolts as rousing men to prayer as they stir the tops of forest trees.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 15213-15312, Verse 3, Note 2
+  quote_or_summary: The shaking of the stone may mean shaking a stone for distilling
+    heavenly Soma or rain, or adri may mean thunderbolt; the passage is described
+    as doubtful.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a translator's philological note rather than a continuous
+    mythic narrative. Several motifs are explicitly marked by the note as figurative
+    or doubtful, so human review is needed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family refs were assigned because the available motif families do not directly match the passage-level storm-chariot and thunder imagery.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l15213-l15312
+  passage_sha256=b82277b2459e3e56f49df6682f1f351e236966a58278aace88f1c59fc568bd23
+

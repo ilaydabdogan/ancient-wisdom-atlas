@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2953-l2979
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: AGAVE. / CADMUS. / AGAVE. / CADMUS.; lines 2953-2979
+  start: '2953'
+  end: '2979'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Agave says she must wander away from her father and has no home. Cadmus
+    says he cannot help her. Agave bids farewell to her home and ancient tower, calling
+    herself an outcast, and Cadmus tells her to go forth into misery by the way associated
+    with Actaeon's father.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Agave addresses her father and says she must wander far from him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cadmus asks why Agave reaches her arms toward him and compares the action
+    to a milk-white swan yearning when old swans die.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Agave says she has nowhere else to turn and has no home.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Cadmus says he does not know what to do and cannot help Agave.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Agave says farewell to her home and ancient tower, calls herself outcast from
+    her bower, and says she leaves for a worse lot.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Cadmus tells Agave to go forth to misery by the way Actaeon's father went.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agave
+  description: Speaker who must wander away, says she has no home, and calls herself
+    an outcast.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Cadmus
+  description: Speaker addressed as father; says he cannot help Agave and tells her
+    to go forth to misery.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Actaeon's father
+  description: Referenced figure whose way is named as the path Agave is to go.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: wanderer
+  assigned_to:
+  - fig:1
+  basis: Agave says she must wander far from her father.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: outcast without home
+  assigned_to:
+  - fig:1
+  basis: Agave says she has no home and calls herself outcast from her bower.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: father addressed by daughter
+  assigned_to:
+  - fig:2
+  basis: Agave addresses Cadmus as father in their exchange.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: unable helper
+  assigned_to:
+  - fig:2
+  basis: Cadmus says he cannot help Agave.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: precedent for the path of misery
+  assigned_to:
+  - fig:3
+  basis: Cadmus describes Agave's way as the way Actaeon's father went.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: milk-white swan
+  literal_form: swan image in Cadmus's comparison
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lost home and ancient tower
+  literal_form: home and ancient tower from which Agave departs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: outcast bower
+  literal_form: bower from which Agave says she is outcast
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: way to misery
+  literal_form: path or way Cadmus says Agave must go
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Agave's farewell and departure into exile
+  summary: Agave laments that she must wander away from Cadmus, has no home, and leaves
+    her home and tower as an outcast; Cadmus says he cannot help and directs her toward
+    misery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: departure into exile from home
+  taxonomy_refs:
+  - departure
+  basis: Agave must wander far from her father, says she has no home, bids farewell
+    to home and tower, and is told to go forth to misery.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage frames the departure as exile and misery, but gives no explicit
+    cause within the supplied lines.
+- id: motif:2
+  label: kin unable to prevent suffering
+  taxonomy_refs: []
+  basis: Agave reaches toward Cadmus, but Cadmus says he cannot help her before sending
+    her onward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is a local relational pattern rather than a supplied taxonomy motif
+    family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2953-2960
+  quote_or_summary: 'Agave: "Father! And I must wander far from thee!" Cadmus asks
+    why she reaches her arms to him like a milk-white swan.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2961-2967
+  quote_or_summary: 'Agave: "Where shall I turn me else? No home have I." Cadmus replies
+    that he cannot help her.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2968-2975
+  quote_or_summary: Agave says farewell to her home and ancient tower, calls herself
+    "outcast from my bower," and says she leaves for a worse lot.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 2976-2979
+  quote_or_summary: 'Cadmus: "Go forth, go forth to misery, / The way Actaeon''s father
+    went!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied dialogue. Motif assignment
+    is limited to exile/departure patterns present in the lines. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external context added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2953-l2979
+  passage_sha256=ee2f7cfa708b427431cf9c0affb19ee1d15cba3905931470ebdf889642831a1d
+

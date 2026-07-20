@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l10804-l10818
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: FIREARMS / BUREAU   OF  AMERICAN    ETHNOLOGY / EIGHTEENTH    ANNUAL   REPORT      PL.    LXIII
+    / OBJECTS    USED    WITH    GUNS    AND    IN    HUNTING    (ONE-FIFTH); lines
+    10804-10818
+  start: '10804'
+  end: '10818'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes walrus and beluga hunting with both older weapons
+    and rifles, then reports ceremonies performed for a killed beluga: pouring urine
+    into its mouth, addressing its shade in propitiation, and singing a welcome song
+    while the whale is drawn ashore.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Spears and lances remain in use for walrus hunting, while rifles are increasingly
+    used and are also used with older weapons for killing beluga whales.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A beluga may be stranded at low water and then easily killed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Beluga whales are treated with great respect, and ceremonies are said to be
+    required when one is taken to avoid offending it.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At St Michael, hunters hauled a recently killed beluga ashore; before it was
+    fully out of the water, one hunter poured urine into its mouth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The same hunter addressed several sentences to the beluga's shade in propitiation
+    for having killed it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At Point Hope, while a killed beluga was drawn ashore, people gathered on
+    the beach and sang a song of welcome like one used in the kashim during certain
+    dances.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eskimo hunters
+  description: Hunters who kill and haul beluga whales and perform acts directed toward
+    the killed whale.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Beluga or white whale
+  description: A hunted animal treated with great respect; its shade is addressed
+    after it is killed.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: People gathered on the beach
+  description: People at Point Hope who gather during the hauling ashore of a killed
+    beluga and sing a welcome song.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Hunters
+  assigned_to:
+  - fig:1
+  basis: They haul a recently killed beluga ashore and are associated with killing
+    the animal.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Ritual propitiators
+  assigned_to:
+  - fig:1
+  basis: One hunter pours urine into the beluga's mouth and addresses its shade in
+    propitiation.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Respected prey animal
+  assigned_to:
+  - fig:2
+  basis: The passage states that these whales are treated with great respect and require
+    ceremonies when taken.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Addressed shade
+  assigned_to:
+  - fig:2
+  basis: The hunter addresses sentences to the whale's shade after the killing.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Welcome singers
+  assigned_to:
+  - fig:3
+  basis: They gather on the beach and sing a song of welcome while the whale is drawn
+    ashore.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Beluga whale
+  literal_form: Killed beluga or white whale brought ashore from the water
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Whale shade
+  literal_form: The shade of the killed beluga addressed by a hunter
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Urine poured into mouth
+  literal_form: Urine poured into the mouth of the killed beluga before it is fully
+    ashore
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Water and shore boundary
+  literal_form: The beluga is dragged from water to shore; the act occurs before it
+    is completely out of the water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Welcome song
+  literal_form: Song of welcome sung by people on the beach as the whale is drawn
+    ashore
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: General hunting context
+  summary: The passage frames beluga and walrus hunting as involving both older weapons
+    and rifles, with stranded belugas sometimes easily killed at low water.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: St Michael beluga propitiation
+  summary: Hunters haul a recently killed beluga ashore; before it is fully out of
+    the water, one hunter pours urine into its mouth and speaks to its shade in propitiation
+    for the killing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Point Hope whale welcome song
+  summary: As a killed beluga is drawn ashore, people gather on the beach and sing
+    a welcome song of a kind used in the kashim during certain dances.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Propitiation of a killed prey animal's shade
+  taxonomy_refs: []
+  basis: The passage states that ceremonies are required to avoid offending a taken
+    beluga, and describes a hunter addressing the whale's shade in propitiation after
+    pouring urine into its mouth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic description, not a narrative myth; the motif
+    label is limited to the described ritual pattern.
+- id: motif:2
+  label: Ritual welcome of hunted animal brought ashore
+  taxonomy_refs: []
+  basis: At Point Hope, people sing a welcome song while a killed beluga is drawn
+    ashore.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a brief report and does not explain the song's
+    words or ritual meaning beyond calling it a welcome song.
+- id: motif:3
+  label: Respectful ceremonial treatment of whale prey
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The beluga is described as treated with great respect, with ceremonies required
+    when taken; acts of offering-like contact and speech to the shade accompany the
+    killing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The available taxonomy term 'sacred_exchange' is only an approximate fit;
+    the passage does not explicitly frame the acts as an exchange.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly says the Point Hope song sung for the whale is a song
+    of welcome like one used in the kashim during certain dances.
+  claim_level: same_function
+  target: kashim dance welcome song
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage compares the song type or function but does not provide
+    lyrics, performance details, or a broader mythic context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10804-10809
+  quote_or_summary: Spears and lances are still used in walrus hunting; rifles are
+    increasingly used and also supplement older weapons for beluga hunting; stranded
+    belugas at low water are easily killed.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10809-10812
+  quote_or_summary: Beluga whales are treated with great respect by the Eskimo, and
+    when one is taken ceremonies must be observed to avoid offending it.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10812-10815
+  quote_or_summary: At St Michael, hunters haul a recently killed beluga ashore; before
+    it is fully out of the water, one pours urine into its mouth and addresses its
+    shade in propitiation for killing it.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10815-10818
+  quote_or_summary: At Point Hope in 1881, as a killed beluga is drawn ashore, people
+    gather on the beach and sing a welcome song like one used in the kashim during
+    certain dances.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is a short ethnographic description and does not explain the ritual
+    symbolism in detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; taxonomy references were limited to available terms and left empty where unsupported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l10804-l10818
+  passage_sha256=c607f1d399a96962524f087318b74e9eb8dc883126993613ac0a36ca3a2db640
+

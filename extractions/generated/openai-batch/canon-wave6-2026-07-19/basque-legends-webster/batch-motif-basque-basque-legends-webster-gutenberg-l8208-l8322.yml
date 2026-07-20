@@ -1,0 +1,606 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l8208-l8322
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: VII.--RELIGIOUS TALES. / JESUS CHRIST AND THE OLD SOLDIER. / THE POOR SOLDIER
+    AND THE RICH MAN. / THE STORY OF THE HAIR-CLOTH SHIRT (LA CILICE).; lines 8208-8322
+  start: '8208'
+  end: '8322'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“When you shall find this key, your mother will be saved.”"
+  summary: A child born after his parents' vow to go to Rome later fulfills the vow
+    himself. In Rome the Holy Father shows him rooms identified as Hell, Purgatory,
+    and Heaven, then gives him a locked hair-cloth shirt and a key cast into water
+    as a condition for saving his mother. After years of suffering, the son returns
+    home, the key is found in a fish, he is pushed into a well but emerges, reveals
+    his birthmark, and the three family members die as a servant sees three white
+    doves fly away.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A gentleman and lady have no children, long for a child, vow to go to Rome,
+    and the woman becomes pregnant soon after the vow.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The son grows up, finds his father weeping, learns of the unfulfilled vow,
+    and says he will go fulfill it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The son travels for seven years, begging his bread, and reaches the Holy Father.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Holy Father places the son in three rooms for stated durations, and the
+    son reports different experienced durations.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Holy Father identifies the first room as Hell, the second as Purgatory,
+    and the last as Heaven.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The son asks about his parents' afterlife locations; the father is said to
+    be in Paradise and the mother in hell.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The son says he would let his blood flow for seven years for his mother.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Holy Father puts a hair-cloth shirt with a padlock on the son, throws
+    the key into water, and says the mother will be saved when the key is found.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The son spends seven more years returning to his country while begging and
+    shedding blood.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: At home, the father brings the returning poor man in, while the mother wants
+    him sent away.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A servant buys and cleans a fish, and finds a key inside it; the son says
+    the key belongs to him.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: The mother pushes the son into a well; the well water overflows and he comes
+    out dripping.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:13
+  text: The mother says she would recognize her son by a mark between his breasts,
+    and the son shows that mark.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:14
+  text: The son gives the key to his mother to open the hair-cloth shirt; she sees
+    blood and gore.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:15
+  text: The three family members die, and the servant sees three white doves fly away.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: father / gentleman
+  description: The child's father, one of the vow-making parents; he grieves over
+    the unfulfilled vow and later welcomes the returning poor man.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: mother / lady
+  description: The child's mother, one of the vow-making parents; she delays the Rome
+    journey, is said to be in hell, rejects the returning poor man, pushes him into
+    the well, and opens the hair-cloth shirt.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: son / young man
+  description: The child born after the vow; he travels to Rome, undergoes the rooms
+    shown by the Holy Father, wears the locked hair-cloth shirt, bleeds for his mother,
+    returns home, and is recognized by a mark.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Holy Father
+  description: The religious authority in Rome who receives the son, places him in
+    three rooms, identifies them as Hell, Purgatory, and Heaven, and imposes the hair-cloth
+    shirt and key condition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: servant / young girl
+  description: The household servant sent to buy fish; she finds the key inside the
+    fish and later sees three white doves fly away.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: vow-making parent
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The parents vow to go to Rome in connection with having a child, but do not
+    fulfill the vow themselves.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: vow-fulfilling child
+  assigned_to:
+  - fig:3
+  basis: The son says the vow was made for him and that he will go fulfill it.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: penitential sufferer for his mother
+  assigned_to:
+  - fig:3
+  basis: The son offers to let his blood flow for his mother, wears the locked hair-cloth
+    shirt, and returns after seven years shedding blood.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:4
+  label: afterlife interpreter and religious authority
+  assigned_to:
+  - fig:4
+  basis: The Holy Father identifies the three rooms as Hell, Purgatory, and Heaven
+    and states the condition for the mother's salvation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: hostile mother toward the returning poor man
+  assigned_to:
+  - fig:2
+  basis: The mother wants the poor man sent away and later pushes him into the well.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: finder and witness servant
+  assigned_to:
+  - fig:5
+  basis: The servant finds the key in the fish and sees the three white doves after
+    the deaths.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:7
+  label: welcoming father toward the returning poor man
+  assigned_to:
+  - fig:1
+  basis: The father brings the poor man in, invites him to dine, and offers him clothes
+    after he emerges from the well.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: Rome vow destination
+  literal_form: Rome as the place vowed for pilgrimage and later reached by the son
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: three rooms of afterlife places
+  literal_form: Three rooms identified as Hell, Purgatory, and Heaven
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: hair-cloth shirt with padlock
+  literal_form: A hair-cloth shirt locked with a padlock on the son
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: key
+  literal_form: A key thrown into water, later found inside a fish, and used to open
+    the hair-cloth shirt
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: water
+  literal_form: Water receiving the key and well water overflowing when the son falls
+    in
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:6
+  label: fish containing the key
+  literal_form: A fish cleaned by the servant, with the key found inside it
+  associated_figures:
+  - fig:5
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: well
+  literal_form: A well into which the mother pushes the son; its water overflows
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: fire for drying
+  literal_form: The fire at which the son says he will dry himself after emerging
+    from the well
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: recognition mark
+  literal_form: A mark between the son's two breasts
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:10
+  label: three white doves
+  literal_form: Three white doves seen flying away after the three family members
+    die
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Vow and birth
+  summary: The childless couple vow to go to Rome, and the woman becomes pregnant;
+    a boy is born.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Son learns the unfulfilled vow
+  summary: The son discovers his father's grief, hears that the Rome vow was not fulfilled,
+    and says he will fulfill it himself.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Holy Father's three rooms
+  summary: After seven years of travel, the son reaches the Holy Father, is placed
+    in three rooms, and hears them identified as Hell, Purgatory, and Heaven.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Condition for mother's salvation
+  summary: The son learns his father is in Paradise and his mother in hell, offers
+    his blood for her, and receives the locked hair-cloth shirt while the key is thrown
+    into water.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Return home and key in fish
+  summary: After seven more years the son returns as a beggar, is admitted by his
+    father, rejected by his mother, and receives the key found by the servant inside
+    a fish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Well, recognition, death, and doves
+  summary: The mother pushes the son into the well; he emerges with the overflowing
+    water, later shows the recognition mark, gives the key to open the hair-cloth
+    shirt, and after the three die the servant sees three white doves fly away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: child granted after vow and vow fulfilled by the child
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The parents vow to go to Rome in connection with having a child, pregnancy
+    follows, and the son later fulfills the vow himself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives sequence and vow language but does not name a specific
+    divine recipient of the vow.
+- id: motif:2
+  label: journey through mapped afterlife places
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The Holy Father has the son enter three rooms and identifies them as Hell,
+    Purgatory, and Heaven, with different experienced durations.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The afterlife places are shown as rooms by the Holy Father; the passage
+    does not describe a broader geography beyond these rooms.
+- id: motif:3
+  label: revealed afterlife judgment of family members
+  taxonomy_refs:
+  - divine_judgment
+  basis: The son asks where his parents are, and the father is said to be in Paradise
+    while the mother is said to be in hell.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports the afterlife locations but does not narrate the act
+    of judgment itself.
+- id: motif:4
+  label: penitential sacrifice to save another
+  taxonomy_refs:
+  - sacrifice
+  basis: The son offers to let his blood flow for his mother, wears the locked hair-cloth
+    shirt, and is later seen covered with blood and gore after suffering for her.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: The passage frames the suffering as for the mother's salvation; details
+    of the theological mechanism are not expanded.
+- id: motif:5
+  label: key cast into water recovered from fish
+  taxonomy_refs: []
+  basis: The Holy Father throws the key into water; later the servant finds a key
+    inside a fish, and the son claims it as his own.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No specific external motif index reference is supplied in the available
+    taxonomy.
+- id: motif:6
+  label: miraculous emergence from well
+  taxonomy_refs: []
+  basis: After the mother pushes the son into a well, the well water overflows and
+    he comes out dripping.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly explain why the water overflows or whether
+    the emergence is miraculous.
+- id: motif:7
+  label: recognition by bodily mark
+  taxonomy_refs: []
+  basis: The mother says her son has a mark between his breasts, and the young man
+    opens his clothes and shows the mark.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The mark is used for recognition, but the passage gives no origin for
+    it.
+- id: motif:8
+  label: white doves flying away after death
+  taxonomy_refs: []
+  basis: After the three family members die, the servant sees three white doves fly
+    away.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The passage does not explicitly state what the doves represent.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8208-8215
+  quote_or_summary: A childless gentleman and lady long for a child, vow to go to
+    Rome, and the woman becomes pregnant soon afterward; a boy is born.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 8216-8238
+  quote_or_summary: At seven years old the son finds his father weeping, learns the
+    Rome vow remains unfulfilled, says the vow was made for him, and sets out to fulfill
+    it.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 8239-8258
+  quote_or_summary: After seven years of begging on the road, the son reaches the
+    Holy Father, is put in three rooms, and is told the rooms were Hell, Purgatory,
+    and Heaven.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 8259-8270
+  quote_or_summary: The son asks about his parents; his father is said to be in Paradise
+    and his mother in hell. He offers his blood for seven years; the Holy Father locks
+    him in a hair-cloth shirt, throws the key into water, and says the mother will
+    be saved when the key is found.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 8271-8285
+  quote_or_summary: The son returns after seven more years, begging and shedding blood.
+    His father meets and invites him in, while his mother wants the poor man sent
+    away; the servant is sent to buy fish.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 8285-8290
+  quote_or_summary: While cleaning the fish, the servant finds a key inside it; the
+    young man says the key belongs to him, and she gives it to him.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 8291-8300
+  quote_or_summary: The mother pushes the young man into the well; the well water
+    overflows and he comes out dripping. He says he fell and says he will dry himself
+    at the fire.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 8301-8311
+  quote_or_summary: The mother identifies her son by a mark between his breasts; he
+    shows the mark, gives her the key to open the hair-cloth shirt, and she sees blood
+    and gore. The three die, and the servant sees three white doves fly away.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage supplies clear narrative events and Christian afterlife terminology.
+    Motif labels are candidate-level and require human review, especially where symbolic
+    meanings such as the doves are not explained in the passage. No comparison claims
+    were made because the passage itself does not compare this tale to another text
+    or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to the provided available motif families and symbols.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l8208-l8322
+  passage_sha256=45d7c740f8109dcd710a638d398fdf7c748efc00919a5afed80c2dcccdd5dabf
+

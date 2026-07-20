@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l11799-l11859
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: EIGHTEENTH    ANNUAL   REPORT     PL.    LXIX / FISHHOOKS    AND    SINKERS    IONE-FIFTHJ
+    / THE    ESKIMO    ABOUT    BERING    STRAIT / FISH  TRAPS; lines 11799-11859
+  start: '11799'
+  end: '11859'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes fishing practices around Bering Strait, including
+    salmon gill nets, wicker funnel traps with fences and poles, seasonal movement
+    to fishing grounds and summer camps, July dog-salmon abundance on the lower Yukon,
+    the use of kaiaks and clubs in tending nets, and small wicker traps for blackfish
+    in sluggish streams and lakelets.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Salmon are caught in gill nets placed at intervals along the seacoast.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On the lower Yukon and Kuskokwim rivers, wicker fish traps are connected to
+    the shore by brush and wicker-work fences.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The salmon traps are elongated cones with funnel-shaped entrances, side poles,
+    an end pole, and stakes or poles used to set and hold them in the river.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A lower Yukon salmon-trap model has a funnel-shaped mouth fastened to a square
+    framework with handle-like extensions used for guiding and positioning the trap.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Groups travel or gather at the Yukon delta, Norton Bay, the head of Norton
+    Sound, and adjacent mainland places during the fishing season.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: People leave villages for summer camps at places where fish runs are greatest,
+    and the community anticipates a season of plenty.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: During the July dog-salmon run on the lower Yukon, traps may have to be emptied
+    several times a day to avoid breaking.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A gill-net owner watches the floats, goes out in a kaiak when fish are present,
+    raises the net, stuns fish with a short club, and removes them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Fish-killing clubs from Sabotnisky and Sledge Island are described as wooden
+    implements with shaped handles and enlarged or tapering striking ends.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Blackfish are taken in small wicker traps set in small streams, with a wicker
+    fence leading from the trap mouths to the shore.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Regional fishing communities
+  description: People throughout the region who leave villages for summer fishing
+    camps where fish runs are greatest.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Eskimo near the base of the Kuslevak mountains
+  description: A group described as going to the Yukon delta to fish for salmon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Sledge islanders
+  description: People described as resorting to the adjacent mainland during the fishing
+    season.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Gill-net owner
+  description: An owner who watches the gill nets, goes out in a kaiak, raises the
+    net, stuns fish with a club, and removes them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Salmon and dog salmon
+  description: Fish caught by gill nets and wicker traps; dog salmon are especially
+    plentiful on the lower Yukon in July.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:6
+  name_or_label: Blackfish
+  description: Dallia pectoralis, common in sluggish streams and lakelets from Kotzebue
+    Sound to the Kuskokwim River, and taken in small wicker traps.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Seasonal fishers and travelers to fishing grounds
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage describes people traveling to the Yukon delta, Norton Bay, adjacent
+    mainland, and summer camps during the fishing season.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Net watcher and fish remover
+  assigned_to:
+  - fig:4
+  basis: The owner watches gill-net floats, goes out in a kaiak, raises the net, stuns
+    the fish, and removes them.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Caught fish
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Salmon, dog salmon, and blackfish are described as the fish taken by nets
+    or traps.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:4
+  label: Community participating in seasonal plenty
+  assigned_to:
+  - fig:1
+  basis: The whole community is said to anticipate and enjoy the season of plenty
+    at summer fishing camps.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Water settings
+  literal_form: Seacoast, Yukon and Kuskokwim rivers, Norton Bay and Sound, streams,
+    lakelets, and river water where nets and traps are set.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: Wicker funnel fish trap
+  literal_form: Elongated cone or small wicker trap with a funnel-shaped mouth used
+    for catching salmon or blackfish.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: Gill net and floats
+  literal_form: Shore-set gill nets watched by the owner, with float motion indicating
+    fish in the net.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: Brush and wicker fence
+  literal_form: A brush or wicker-work fence connecting traps to the shore or leading
+    from trap mouths to the shore.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:5
+  label: Kaiak
+  literal_form: The boat used by the gill-net owner to go out to the nets.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Fish-killing club
+  literal_form: A short spruce club used to stun or kill fish taken in gill nets.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: Summer fishing camp
+  literal_form: Seasonal camp at places where the run of fish is greatest.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: Fish run
+  literal_form: Seasonal movement and abundance of fish, including July dog salmon
+    on the lower Yukon.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Setting salmon nets and wicker traps
+  summary: Salmon are taken along the seacoast in gill nets and on lower Yukon and
+    Kuskokwim rivers in wicker funnel traps connected to shore by fences and held
+    in place with poles.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Seasonal movement to fishing grounds
+  summary: People from multiple districts travel or gather at productive fishing places,
+    including the Yukon delta, Norton Bay, adjacent mainland areas, and summer camps
+    at strong fish runs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Abundant July dog-salmon run and net tending
+  summary: During the lower Yukon July dog-salmon run, traps are emptied repeatedly,
+    while a gill-net owner watches floats, goes out in a kaiak, raises the net, clubs
+    the fish, and removes them.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Blackfish trapping in streams
+  summary: Blackfish in sluggish streams and lakelets are caught with small wicker
+    traps set in streams and guided by wicker fences leading from trap mouths to shore.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Seasonal fish-run migration and abundance
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes people moving from villages to summer camps and other
+    fishing grounds during the fishing season, where known fish runs bring a community-wide
+    season of plenty; July dog salmon are especially abundant on the lower Yukon.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic subsistence pattern rather than a mythic narrative;
+    the seasonal-cycle assignment is based on recurring seasonal movement and abundance
+    in the passage.
+- id: motif:2
+  label: Guided capture by fence and funnel trap
+  taxonomy_refs: []
+  basis: Both salmon and blackfish trapping are described as using wicker traps with
+    funnel mouths and fences leading from shore or from trap mouths to direct fish
+    into the trap.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: This is a material-culture pattern; no sacred or mythic meaning is stated
+    in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11799-11810
+  quote_or_summary: The section opens with salmon fishing by seacoast gill nets and
+    lower Yukon/Kuskokwim wicker traps; the traps are conical, have funnel-shaped
+    entrances, connect to shore by fences, and are held with poles.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 11811-11818
+  quote_or_summary: A lower Yukon salmon-trap model is described with a funnel mouth
+    attached to square framework and handle-like extensions used to guide and hold
+    the trap with poles.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 11819-11829
+  quote_or_summary: Kuslevak-area Eskimo go to the Yukon delta for salmon; people
+    from surrounding districts gather around Norton Bay and Norton Sound; Sledge islanders
+    go to the adjacent mainland; people leave villages for summer camps at places
+    with the greatest fish runs and anticipate a season of plenty.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 11830-11838
+  quote_or_summary: In July on the lower Yukon, dog salmon can be so plentiful that
+    large wicker traps are emptied several times daily; a gill-net owner watches floats,
+    goes out by kaiak, raises the net, stuns fish with a short club, and removes them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 11839-11849
+  quote_or_summary: Fish-killing clubs from Sabotnisky and Sledge Island are described,
+    including a spruce club with a slender wrapped grip, enlarged rounded section,
+    tapering end, and another 30-inch oval-section club.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: 11850-11859
+  quote_or_summary: Blackfish are common in sluggish streams and lakelets from Kotzebue
+    Sound to the Kuskokwim River and are caught in small wicker traps set in streams
+    with wicker fences leading from the trap mouths to the shore.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a clear ethnographic description of fishing technology and
+    seasonal subsistence. Motif candidates are limited to observable seasonal and
+    material-culture patterns; no mythic narrative or external comparison is supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support external comparative claims.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l11799-l11859
+  passage_sha256=d6734ac2157d4eaf429ea327282656ab9be45329e137938c16e80998400d94ae
+

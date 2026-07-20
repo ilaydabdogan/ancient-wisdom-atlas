@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.hindu-upanishads-sbe01-muller-archive-l1007-l1041
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+passage_locator:
+  label: SACRED BOOKS OF THE EAST. XXIX / XXX PREFACE TO THE / SACRED BOOKS OF THE
+    EAST. XXXI / XXXIV PREFACE TO THE; lines 1007-1041
+  start: '1007'
+  end: '1041'
+  translation: The Upanishads, Part I (Sacred Books of the East, Vol. 1)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“speech returns to mind, mind to breath, breath to heat, and heat to the
+    Sat”"
+  summary: The passage explains Sat in relation to three elements, the production
+    of names and forms, the constitution of the human being from elemental correspondences,
+    and the reverse return of speech, mind, breath, and heat to Sat at death. It also
+    notes a comparison with Greek ideas about knowing the elements.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that the apparent union of Sat with three elements produced
+    every form and every name in the world.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that one who knows the three elements is supposed to know
+    everything in the world, and it compares this to a Greek idea about knowledge
+    of the elements.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same three elements are described as constituent elements of the human
+    being.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Food or the earthy element is said to produce flesh and mind; water is said
+    to produce blood and breath; heat is said to produce bone and speech.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Breath, speech, and mind are described as elemental or external instruments
+    that require the support of the living self before they can act.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The teacher explains a sequence in which Sat produces heat, heat leads to
+    water, water leads to earth, and a mixture of the three produces speech, breath,
+    and mind.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In death, speech returns to mind, mind to breath, breath to heat, and heat
+    to Sat.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Sat is called the root of everything, para devata, the highest deity, the
+    Highest Being, and the highest essence of all material existence.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sat
+  description: The root of everything, called para devata and rendered as the Highest
+    Being; described as producing heat and as the final term to which heat returns
+    in death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: the teacher
+  description: The teacher who explains the production of heat, water, earth, and
+    the human faculties, and shows the return sequence in death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: living self / jivatman
+  description: The living self that supports breath, speech, and mind before they
+    can act.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the Greeks
+  description: A comparative group said to have imagined that knowledge of the elements
+    made everything else known.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: root source and highest essence
+  assigned_to:
+  - fig:1
+  basis: Sat is described as producing heat, receiving heat in death, and being the
+    root or highest essence of all material existence.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: instructing explainer
+  assigned_to:
+  - fig:2
+  basis: The passage says the teacher explains the production sequence and afterwards
+    shows the return sequence in death.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: animating support of faculties
+  assigned_to:
+  - fig:3
+  basis: Breath, speech, and mind require the support of the living self before they
+    can act.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: comparative holders of element-knowledge idea
+  assigned_to:
+  - fig:4
+  basis: The passage compares the Upanishadic claim about knowing the three elements
+    with what the Greeks imagined about knowledge of the elements.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Sat as root essence
+  literal_form: Sat / para devata / Highest Being
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: triad of elements
+  literal_form: the three elements
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: water element
+  literal_form: water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: heat element
+  literal_form: heat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: earthy element / food
+  literal_form: food or the earthy element; earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Production of forms and elements
+  summary: Sat is described as united with three elements, producing names and forms;
+    the teacher explains Sat producing heat, heat leading to water, water to earth,
+    and their mixture producing speech, breath, and mind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Elemental constitution of the human being
+  summary: 'The three elements are applied to the human being: food or earth relates
+    to flesh and mind, water to blood and breath, and heat to bone and speech; the
+    living self supports the faculties.'
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Return sequence in death
+  summary: At death, speech returns to mind, mind to breath, breath to heat, and heat
+    to Sat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: knowledge of elements as comprehensive wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that knowing the three elements is supposed to amount
+    to knowing everything in the world.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is explanatory and philosophical rather than narrative.
+- id: motif:2
+  label: emanation from ultimate essence through elements
+  taxonomy_refs: []
+  basis: The passage presents Sat producing heat, heat leading to water, water to
+    earth, and the mixture of the elements producing speech, breath, and mind.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No supplied taxonomy family exactly names elemental emanation, so no taxonomy
+    reference is assigned.
+- id: motif:3
+  label: death dissolution into ultimate source
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage describes a death sequence in which speech, mind, breath, and
+    heat return stepwise until heat returns to Sat.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage describes return or dissolution at death but does not explicitly
+    use the language of annihilation, union, or rebirth.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the Upanishadic claim that knowledge of the three
+    elements grants comprehensive knowledge with a Greek idea that knowledge of elements
+    makes everything else known.
+  claim_level: same_function
+  target: Greek element-knowledge pattern
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made in the preface and does not cite a specific
+    Greek source in this excerpt; it supports functional similarity only, not historical
+    contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1009-1014
+  quote_or_summary: By the apparent union of Sat with the three elements, every form
+    and every name in the world was produced.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1014-1019
+  quote_or_summary: One who knows the three elements is supposed to know everything
+    in the world, nearly as the Greeks imagined knowledge of the elements made everything
+    else known.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1019-1025
+  quote_or_summary: 'The three elements are constituents of man: food or earth produces
+    flesh and mind; water produces blood and breath; heat produces bone and speech.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1025-1029
+  quote_or_summary: Breath, speech, and mind are elemental or external instruments
+    requiring the support of the living self, the jivatman, before acting.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 1030-1035
+  quote_or_summary: The teacher explains that Sat produces heat, heat leads to water,
+    water to earth, and a mixture of the three produces speech, breath, and mind.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 1035-1038
+  quote_or_summary: "“in death, speech returns to mind, mind to breath, breath to
+    heat, and heat to the Sat”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1038-1041
+  quote_or_summary: Sat is called the root of everything, para devata, the highest
+    deity, the Highest Being, and the highest essence of material existence.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a preface/expository discussion of Upanishadic doctrine rather
+    than a narrative myth episode; motif candidates should be reviewed for taxonomy
+    fit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-upanishads-sbe01-muller-archive__l1007-l1041
+  passage_sha256=65944f942e8cc786b5043ed186e77e48c89b4c2f1a22b5c69307e146d95eb3a3
+

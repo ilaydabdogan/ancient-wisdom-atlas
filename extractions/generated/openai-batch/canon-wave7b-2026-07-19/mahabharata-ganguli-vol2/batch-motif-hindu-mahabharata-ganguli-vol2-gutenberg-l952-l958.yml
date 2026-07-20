@@ -1,0 +1,148 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l952-l958
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION X / SECTION XI / SECTION XII / SECTION XIII; lines 952-958
+  start: '952'
+  end: '958'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: At the opening of Section XIII, Janamejaya asks what the powerful descendants
+    of the Kuru race did while living in disguise in the city of the Matsyas.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens Section XIII, identified as Samayapalana Parva.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Janamejaya speaks and asks a question.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The question concerns descendants of the Kuru race who are described as endowed
+    with great prowess.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Kuru descendants are said to be living disguised in the city of the Matsyas.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Janamejaya addresses the listener as 'regenerate one.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Janamejaya
+  description: Speaker who asks what the disguised Kuru descendants did in the city
+    of the Matsyas.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: descendants of the Kuru race
+  description: A group described as endowed with great prowess and living disguised
+    in the city of the Matsyas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: regenerate one
+  description: The addressee of Janamejaya's question.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Janamejaya is explicitly said to speak and ask a question.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: disguised group under inquiry
+  assigned_to:
+  - fig:2
+  basis: The group is the subject of the question and is described as living disguised.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: addressee
+  assigned_to:
+  - fig:3
+  basis: Janamejaya addresses the listener directly as 'regenerate one.'
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Question about disguised life among the Matsyas
+  summary: Janamejaya asks the addressee what the powerful Kuru descendants did while
+    living in disguise in the city of the Matsyas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: disguised residence
+  taxonomy_refs: []
+  basis: The passage explicitly frames the Kuru descendants as living disguised in
+    another city and asks about their activities during that period.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only an introductory question and does not narrate the
+    disguised actions themselves.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 952-954
+  quote_or_summary: 'Section heading: SECTION XIII, Samayapalana Parva.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source metadata supplied by requester.
+- id: ev:2
+  type: quote
+  locator: lines 956-958
+  quote_or_summary: Janamejaya asks what the descendants of the Kuru race did 'while
+    living thus disguised in the city of the Matsyas.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source metadata supplied by requester.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and mostly consists of a framing question; literal extraction
+    is straightforward, while motif identification is limited to the stated disguised
+    residence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs or comparison claims were added because the passage itself does not support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l952-l958
+  passage_sha256=421cb3ff5612faf6bd8d32d8827d493d4c607226fa2614b5657e595cd81cbeee
+

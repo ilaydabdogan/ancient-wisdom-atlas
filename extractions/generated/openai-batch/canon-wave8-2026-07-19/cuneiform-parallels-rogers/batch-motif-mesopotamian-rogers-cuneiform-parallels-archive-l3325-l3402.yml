@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l3325-l3402
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: THE FIFTH TABLET / THE FIFTH TABLET / THE SIXTH TABLET / THE SIXTH TABLET;
+    lines 3325-3402
+  start: '3325'
+  end: '3402'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Fragmentary Sixth Tablet passage in which Marduk hears the gods, forms
+    plans, and speaks to Ea about blood, the making of man, and the transfer of divine
+    toil. Ea answers in a damaged section mentioning transformation, destruction,
+    men, gods, and the Anunaki. In the surviving close, the gods rejoice, establish
+    a dwelling in Upshukkinaku, acclaim a heroic son and avenger who succored them,
+    and in assembly name and exalt him.
+  language: English with transliterated Akkadian
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Marduk hears the word of the gods, his heart is moved, he forms plans, and
+    he speaks to Ea.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Marduk's speech includes blood and the making or setting up of man.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The proposed human beings are connected with bearing the toil of the gods.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ea answers Marduk and speaks, but the surviving answer is fragmentary.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ea's fragmentary answer mentions transformation, one being destroyed, men,
+    and gods.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Anunaki are named in a fragmentary line.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Later surviving lines describe rejoicing and the setting of a dwelling in
+    Upshukkinaku.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The gods cry out concerning a heroic son, their avenger, and refer to themselves
+    as ones he succored.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: They seat themselves in assembly, name him, cry aloud, and exalt him.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Marduk
+  description: Named deity who hears the gods, forms plans, and speaks to Ea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ea
+  description: Deity addressed by Marduk and then answering with a speech.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: the gods
+  description: Divine collective whose word Marduk hears, whose toil is to be borne
+    by man, and who later rejoice, assemble, name, and exalt a figure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: men / human beings
+  description: Projected created beings described as man and linked with bearing the
+    toil of the gods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: the Anunaki
+  description: Divine group named in a damaged line of Ea's answer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: heroic son, their avenger
+  description: Figure acclaimed in the later fragment as heroic son, avenger, and
+    succorer; he is named and exalted in assembly. The supplied passage does not explicitly
+    identify him in the surviving translated lines.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: divine planner and proposer
+  assigned_to:
+  - fig:1
+  basis: Marduk forms plans after hearing the gods and proposes actions involving
+    blood and man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: responding speaker
+  assigned_to:
+  - fig:2
+  basis: Ea answers Marduk and speaks a word in the fragment.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: divine collective seeking relief and giving acclaim
+  assigned_to:
+  - fig:3
+  basis: The gods' toil is to be borne by humans; later they rejoice, assemble, name,
+    and exalt.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:4
+  label: created labor-bearers
+  assigned_to:
+  - fig:4
+  basis: Man is to be made or set up and is linked with bearing the toil of the gods.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: fragmentarily named divine group
+  assigned_to:
+  - fig:5
+  basis: The Anunaki are mentioned in a damaged line without further clear action
+    in the supplied passage.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: avenger and succorer
+  assigned_to:
+  - fig:6
+  basis: The gods cry out concerning the heroic son, their avenger, and refer to being
+    succored by him.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: assembly-honored figure
+  assigned_to:
+  - fig:6
+  basis: The assembly names and exalts him in the surviving closing lines.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: blood
+  literal_form: blood
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Upshukkinaku
+  literal_form: named dwelling place
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: divine assembly
+  literal_form: seated assembly
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Marduk proposes the making of man
+  summary: Marduk hears the gods, forms plans, addresses Ea, and proposes an act involving
+    blood, man, and the bearing of divine toil.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ea's fragmentary answer
+  summary: Ea answers Marduk; the damaged response mentions transformation, destruction
+    of one being, men, gods, and the Anunaki.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Rejoicing and assembly acclamation
+  summary: The gods rejoice, establish a dwelling in Upshukkinaku, acclaim a heroic
+    son and avenger who succored them, and then assemble to name and exalt him.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Creation of humans to bear divine toil
+  taxonomy_refs: []
+  basis: The passage connects the making or setting up of man with bearing the toil
+    of the gods.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Details of the creation act are damaged, but the labor-bearing function
+    is clear enough in the supplied lines.
+- id: motif:2
+  label: Blood and destruction associated with human creation
+  taxonomy_refs:
+  - sacrifice
+  basis: Marduk's proposal includes blood and man-making; Ea's damaged answer mentions
+    that one being shall be destroyed and men are involved.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The exact causal sequence and identity of the destroyed being are not
+    preserved in the supplied passage.
+- id: motif:3
+  label: Divine assembly names and exalts an honored figure
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The gods seat themselves in assembly, name him, cry aloud, and exalt him
+    after earlier acclaiming a heroic avenger.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The supplied lines do not explicitly use kingship language; the taxonomy
+    reference is limited to assembly-based elevation and naming.
+- id: motif:4
+  label: Heroic avenger who succors the gods
+  taxonomy_refs: []
+  basis: The later fragment calls the figure a heroic son, their avenger, and refers
+    to the gods as those he succored.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The supplied passage does not explicitly identify this figure by name
+    in the surviving translated closing lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3325-3329; tablet lines 1-4
+  quote_or_summary: Marduk hears the word of the gods, his heart is stirred, he forms
+    plans, and he opens his mouth to Ea.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 3330-3335; tablet lines 5-10
+  quote_or_summary: Marduk's damaged proposal includes blood, the creation or setting
+    up of man, and the statement that man should bear the toil of the gods.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 3336-3355; Ea's answer, damaged section
+  quote_or_summary: Ea answers and speaks; the fragment mentions transformation, one
+    being destroyed, men, and gods, with much intervening text lost.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: tablet line 20 in the damaged Ea section
+  quote_or_summary: The Anunaki are named in a fragmentary line.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 3357-3364; tablet lines 140-144
+  quote_or_summary: The later fragment says they rejoiced, set their dwelling in Upshukkinaku,
+    cried out concerning the heroic son and avenger, and referred to themselves as
+    those he succored.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 3365-3367 and closing transliteration; tablet line 145 and following
+  quote_or_summary: They seated themselves in assembly, named him, cried aloud, and
+    exalted him.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by extensive lacunae and duplicate presentation
+    of translation and transliteration. Motif candidates are based only on preserved
+    words and summaries in the supplied passage; no cross-text comparison claims are
+    recorded.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied limited symbol taxonomy are directly present; blood, Upshukkinaku, and assembly are recorded as passage-level literal symbolic forms without taxonomy references.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l3325-l3402
+  passage_sha256=c8d7de145498bcaca138e76a1c605a3fe9ec3f989f89d5a213c5d378ab297308
+

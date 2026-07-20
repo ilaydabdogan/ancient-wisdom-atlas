@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l18068-l18288
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: Q D (3 / OAAAAAA / Q AAAAAA / AAAAAA I; lines 18068-18288
+  start: '18068'
+  end: '18288'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a translated Egyptian magical formula in which Isis,
+    described as great in words of power, commands poison to leave Ra/the god. The
+    formula says Ra and an unnamed human patient should live while the poison dies,
+    states that Isis knew Ra by his own name, and gives directions for recitation
+    over images or figures of Temu, Heru-hekennu, Isis, and Horus.
+  language: English with Egyptian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says an oath was sworn by the life of the god that the god would
+    give his two eyes.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the great god was removed from his name.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Isis is introduced as great in words of power and is the speaker of the formula.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The formula commands poison to run out and come forth from Ra/the god.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Eye of Horus is named in the command associated with the poison coming
+    forth from Ra.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The formula says the poison is made to fall upon the ground, is defeated,
+    and is removed from the great god.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The formula contrasts life for Ra and for an unnamed person with death for
+    the poison.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Isis is called great lady and mistress of the gods, and is said to have known
+    Ra by his own name.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The directions say the formula is to be said over images or figures of Temu,
+    Heru-hekennu, Isis, and Horus.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ra / the great god
+  description: A god named as Ra in the formula; poison is commanded to come forth
+    from him, he is to live while the poison dies, and Isis is said to know his own
+    name.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Isis / Ast
+  description: Isis is described as great in words of power, speaks the anti-poison
+    formula, is called great lady and mistress of the gods, and is represented by
+    a figure in the ritual instruction.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: A certain one, the son of a certain woman
+  description: An unnamed human beneficiary in the formula for whom life is wished
+    while the poison dies.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Temu
+  description: A deity or divine figure named in the instruction for reciting the
+    formula over an image.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Heru-hekennu
+  description: A deity or divine figure named in the instruction for reciting the
+    formula over an image.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Horus / Heru
+  description: Horus is represented by an image in the ritual instruction; the Eye
+    of Horus is also named in the formula.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: incantation speaker
+  assigned_to:
+  - fig:2
+  basis: Isis is introduced as great in words of power and then speaks commands to
+    the poison.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: poison-afflicted deity
+  assigned_to:
+  - fig:1
+  basis: The poison is commanded to come forth from Ra/the god, and the formula says
+    Ra may live while the poison dies.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: knower of Ra's own name
+  assigned_to:
+  - fig:2
+  basis: The passage says Isis knew Ra by his own name.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: generic healing beneficiary
+  assigned_to:
+  - fig:3
+  basis: The formula names a generic person, 'a certain one, the son of a certain
+    woman,' and says that person may live while the poison dies.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: represented in ritual image
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The ritual directions prescribe recitation over images or figures of Temu,
+    Heru-hekennu, Isis, and Horus.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: deity whose own name is known
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Ra as the one whose own name Isis knew.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: poison
+  literal_form: Poison commanded to run out, fall down, be defeated, be removed, and
+    die.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Ra's own name
+  literal_form: Ra's own name, known by Isis.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Eye of Horus
+  literal_form: The Eye of Horus named in the command for the poison to come forth
+    from Ra.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: two eyes of the god
+  literal_form: The god's two eyes, promised in the oath clause.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: ritual images and figures
+  literal_form: Image of Temu, image of Heru-hekennu, figure of Isis, and image of
+    Horus used in the recitation directions.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Oath and name clause
+  summary: An oath by the life of the god states that the god will give his two eyes,
+    and the text says the great god was removed from his name.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Isis commands the poison
+  summary: Isis, described as great in words of power, commands the poison to run
+    out and come forth from Ra/the god, with the Eye of Horus named in the command.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Poison defeated and opposed to life
+  summary: The formula says the poison falls to the ground, is defeated and removed,
+    and sets life for Ra and an unnamed person against death for the poison.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Isis knows Ra's name
+  summary: The passage identifies Isis as mistress of the gods and says she knew Ra
+    by his own name.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Recitation over divine images
+  summary: Directions prescribe saying the formula over images or figures of Temu,
+    Heru-hekennu, Isis, and Horus.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Poison expelled by words of power
+  taxonomy_refs: []
+  basis: Isis is described as great in words of power and commands the poison to leave
+    Ra/the god; the formula says the poison is defeated and removed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not identify the original source or cause of the poison.
+- id: motif:2
+  label: Knowledge of a deity's own name as ritual power
+  taxonomy_refs:
+  - forbidden_knowledge
+  - wisdom
+  basis: The passage emphasizes Isis's words of power and says she knew Ra by his
+    own name in the same formulaic context as the removal of the poison.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The excerpt states the name-knowledge but does not narrate how it was
+    acquired or explicitly spell out the full causal mechanism.
+- id: motif:3
+  label: Patient lives while poison dies
+  taxonomy_refs: []
+  basis: The formula says Ra may live and the poison may die, and repeats the pattern
+    for an unnamed human beneficiary.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a formulaic healing statement rather than a full narrative episode.
+- id: motif:4
+  label: Ritual recitation over divine images
+  taxonomy_refs: []
+  basis: The passage gives instructions for saying the formula over images or figures
+    of Temu, Heru-hekennu, Isis, and Horus.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a ritual direction embedded in the passage, not a narrated action
+    by the figures.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious functional comparison to motif-family patterns
+    in which privileged knowledge of a divine or hidden name is linked to efficacious
+    ritual speech.
+  claim_level: same_function
+  target: forbidden_knowledge / wisdom motif-family pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not narrate the acquisition of the name and does not
+    establish historical contact with any other tradition.
+- id: claim:2
+  claim: The formula functionally resembles an anti-poison healing or exorcistic pattern
+    in which the affliction is addressed as something that can be commanded to leave
+    and die while the sufferer lives.
+  claim_level: same_function
+  target: anti-poison healing-incantation pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is functional only; the passage itself provides no cross-textual
+    or historical comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18068-18288, opening oath/name segment
+  quote_or_summary: 'Opening formula: an oath by the life of the god says the god
+    will give his two eyes; the text says the great god was removed from his name;
+    Isis is introduced as great in words of power.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 18068-18288, Isis's command to the poison
+  quote_or_summary: '"Run out, poison"; "come forth from Ra, Eye of Horus"; "come
+    forth from the god".'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 18068-18288, defeat/removal and life-death formula
+  quote_or_summary: The formula says the poison is made to fall to the ground, is
+    defeated and removed from the great god, and states that Ra and then a generic
+    person may live while the poison dies.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 18068-18288, closing identification of Isis
+  quote_or_summary: '"Isis, great lady, mistress of the gods, who knew Ra by his name
+    his own."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 18068-18288, ritual direction
+  quote_or_summary: The text directs that the formula be said over an image of Temu
+    and Heru-hekennu, a figure of Isis, and an image of Horus.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source text; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The English translation allows extraction of the main figures and ritual
+    actions, but the passage is fragmentary and includes OCR/transliteration artifacts.
+    Motif readings should be checked against the surrounding source context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The final chapter heading in the supplied text is not treated as a motif-bearing scene here because the extracted passage content is the preceding anti-poison formula.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l18068-l18288
+  passage_sha256=99cb5dcd838b5b2c112e7746326f3f502ccdb0c30ae639851966a51880340186
+

@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l18078-l18099
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: DWELLING   HOUSES / NATAL    CUSTOMS  '289 / CHILDBIRTH / PUBERTY; lines
+    18078-18099
+  start: '18078'
+  end: '18099'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes puberty customs among the Maleinut and Unalit: a
+    girl reaching puberty is secluded as unclean for a defined period, observes restrictions
+    on movement and appearance, later bathes and receives new garments, and may then
+    become marriageable. It also records a belief that an atmosphere around her can
+    harm a young man''s hunting success, and that a father may hold a food festival
+    to announce his daughter''s readiness for marriage.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Among the Maleinut and southward from the lower Yukon and adjacent districts,
+    a girl reaching puberty is considered unclean for forty days.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During this period she lives by herself in a corner of the house, faces the
+    wall, keeps her hood over her head, and lets her hair hang disheveled over her
+    eyes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: She must not go out by day and may go out only once at night when everyone
+    is asleep; in summer she commonly lives in a rough shelter outside the house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: At the end of the period she bathes, is clothed in new garments, and may be
+    taken in marriage.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The same custom formerly prevailed among the Unalit, but the current Unalit
+    practice described here secludes the girl behind a grass mat in a corner of the
+    room for four days.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: During the Unalit four-day period, the girl is said to become a woman and
+    is considered unclean.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A peculiar atmosphere is supposed to surround the girl at this time, and if
+    it touches a young man it makes him visible to animals he hunts and removes his
+    hunting success.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: If no suitor appears after a considerable time following puberty, the father
+    accumulates much food and holds a festival to announce that his daughter is ready
+    for marriage.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: girl reaching puberty
+  description: A girl who reaches puberty is secluded, considered unclean, described
+    among the Unalit as becoming a woman, later bathes, receives new garments, and
+    may be made eligible for marriage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: young man or hunter
+  description: A young man who comes close enough to be touched by the atmosphere
+    around the pubescent girl is said to become visible to hunted animals and lose
+    hunting success.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: father
+  description: The father accumulates food and holds a festival to announce that his
+    daughter is ready for marriage if no suitor has appeared.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: suitor
+  description: A potential suitor whose absence after the girl's puberty prompts the
+    father to announce marriage readiness through a festival.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: secluded pubertal initiate
+  assigned_to:
+  - fig:1
+  basis: The girl is isolated for a defined period at puberty, restricted in movement
+    and appearance, and described as becoming a woman.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: marriageable daughter
+  assigned_to:
+  - fig:1
+  basis: After the seclusion period she bathes, receives new garments, and may be
+    taken in marriage; the father may announce her readiness for marriage.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: hunter vulnerable to ritual danger
+  assigned_to:
+  - fig:2
+  basis: The young man's hunting success is said to be lost if he is touched by the
+    girl's surrounding atmosphere.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: festival host and marriage announcer
+  assigned_to:
+  - fig:3
+  basis: The father gathers food and makes a festival to announce his daughter's readiness
+    for marriage.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: potential marriage suitor
+  assigned_to:
+  - fig:4
+  basis: The passage refers to a suitor whose absence leads to a public announcement
+    of marriage readiness.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: seclusion duration
+  literal_form: forty days among the Maleinut; four days in the current Unalit practice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: seclusion space
+  literal_form: corner of the house facing the wall; corner behind a grass mat; rough
+    shelter outside in summer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: concealment of head and eyes
+  literal_form: hood over the head and disheveled hair hanging over the eyes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: bath and new garments
+  literal_form: bathing at the end of the period and being clothed in new garments
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: peculiar atmosphere
+  literal_form: an atmosphere supposed to surround the girl at this time
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: food festival announcement
+  literal_form: a large amount of food accumulated and a festival made to announce
+    marriage readiness
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Maleinut puberty seclusion
+  summary: A girl reaching puberty is treated as unclean for forty days, stays apart
+    in a corner or summer shelter, covers her head, lets her hair hang over her eyes,
+    and observes restrictions on going out.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: completion of seclusion and marriage eligibility
+  summary: At the end of the seclusion period the girl bathes, receives new clothing,
+    and may be taken in marriage.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Unalit seclusion and hunting danger
+  summary: The Unalit practice described secludes the girl behind a grass mat for
+    four days while she is said to become a woman and be unclean; an atmosphere around
+    her can harm a young man's hunting success.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: father's marriage-readiness festival
+  summary: If no suitor appears after a time, the father gathers food and holds a
+    festival to announce that his daughter is ready for marriage.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: puberty seclusion as initiation
+  taxonomy_refs:
+  - initiation
+  basis: The passage presents a puberty transition marked by seclusion, restrictions,
+    the statement that the girl becomes a woman, bathing, new clothing, and later
+    marriage eligibility.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic ritual description rather than a mythic narrative.
+- id: motif:2
+  label: liminal pollution or danger affecting hunters
+  taxonomy_refs: []
+  basis: The girl's surrounding atmosphere is said to make a young man visible to
+    hunted animals and destroy his hunting success if it touches him.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states a local belief but does not explain the wider cosmology
+    behind the danger.
+- id: motif:3
+  label: public announcement of marriage readiness
+  taxonomy_refs: []
+  basis: If no suitor appears, the father gathers food and holds a festival to announce
+    that his daughter is ready for marriage.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a social-ritual action; no broader comparative taxonomy reference
+    is directly supplied by the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats the Maleinut and Unalit practices as related
+    puberty-seclusion customs, though it notes a current Unalit reduction to four
+    days and a grass-mat enclosure.
+  claim_level: same_function
+  target: Maleinut and Unalit puberty seclusion customs
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: medium
+  limitations: The passage states former sameness and current similarity but does
+    not provide historical explanation beyond this local comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18078-18086
+  quote_or_summary: Among the Maleinut and nearby districts, a girl at puberty is
+    considered unclean for forty days and must live apart in a corner, face the wall,
+    cover her head, wear her hair over her eyes, and restrict her movements; in summer
+    she may live in a rough outside shelter.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 18086-18088
+  quote_or_summary: At the end of the period, the girl bathes, receives new garments,
+    and may then be taken in marriage.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: lines 18088-18093
+  quote_or_summary: The same custom formerly prevailed among the Unalit; the current
+    described practice secludes the girl behind a grass mat for four days, during
+    which she is said to become a woman and is considered unclean.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: lines 18093-18097
+  quote_or_summary: A peculiar atmosphere is believed to surround the girl; if it
+    touches a young man, animals he hunts will see him and his hunting success will
+    be gone.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:5
+  type: summary
+  locator: lines 18097-18099
+  quote_or_summary: If no suitor appears after a considerable time, the father gathers
+    much food and holds a festival to announce that his daughter is ready for marriage.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ritual details are explicit in the passage. Motif labels are descriptive
+    and should be reviewed because the source is ethnographic rather than narrative
+    mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No broad historical-contact or inheritance claims are made; the only comparison claim follows the passage's own Maleinut-Unalit comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l18078-l18099
+  passage_sha256=6f6d42c24d6969504bf7249cd8e0f0460d48833d6dcad5dd06159f440d9bffdb
+

@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.hindu-upanishads-sbe01-muller-archive-l255-l292
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+passage_locator:
+  label: THE SACRED BOOKS OF THE EAST. / PREFACE TO THE / SACRED BOOKS OF THE EAST.
+    XI / XIV PREFACE TO THE; lines 255-292
+  start: '255'
+  end: '292'
+  translation: The Upanishads, Part I (Sacred Books of the East, Vol. 1)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The preface explains how ancient verses, ceremonial acts, and sayings
+    could be preserved after their original circumstances were forgotten: battle songs
+    might be remembered because of victory; a rite linked to famine or inundation
+    might enter liturgical custom after apparent success; and the sayings of a prestigious
+    man might be transmitted together without critical separation.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes verses sung by warriors on the eve of a great battle
+    that would gain special force if the battle ended in victory.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The victory verses would be repeated in memory of heroes who conquered and
+    gods who granted victory, and could survive after the original heroes, gods, and
+    victory were forgotten.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage describes a single ceremonial act performed during famine or inundation
+    and associated with sudden, almost miraculous success.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Such a ceremonial act might be preserved in a family or tribal liturgical
+    code, repeated in similar emergencies, and later survive as a superstitious custom
+    remembered by priests and poets.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says that sayings and teachings of a man with prestige, including
+    words of inspired wisdom, might be handed down together without separating valuable
+    from trivial material.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: warriors
+  description: Warriors who sing verses on the eve of a great battle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: heroes
+  description: Heroes remembered as conquerors after a victory.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: gods
+  description: Gods remembered as having granted victory.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: family or tribe
+  description: A family or tribe whose liturgical code could preserve a ceremonial
+    act.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: priests and poets
+  description: Priests and poets in whose memory a repeated rite might survive as
+    a custom.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: prestigious man
+  description: A man whose past utterance of inspired wisdom gives his sayings and
+    teachings special attention in a family or tribe.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: martial singers
+  assigned_to:
+  - fig:1
+  basis: They are described as singing verses on the eve of battle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: commemorated victors
+  assigned_to:
+  - fig:2
+  basis: They are remembered as the heroes who conquered.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: divine victory-granters
+  assigned_to:
+  - fig:3
+  basis: They are remembered as the gods who granted victory.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: ritual-preserving community
+  assigned_to:
+  - fig:4
+  basis: A family or tribe may preserve the ceremonial act in its liturgical code.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: custodians of ritual memory
+  assigned_to:
+  - fig:5
+  basis: The custom may survive in the memory of priests and poets.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: authoritative wisdom speaker
+  assigned_to:
+  - fig:6
+  basis: His prestige and earlier inspired words lead to his sayings and teachings
+    being handed down together.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: victory song
+  literal_form: Verses or a song of victory and thanksgiving preserved after a battle.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: preserved ceremonial act
+  literal_form: A single ceremonial act performed during famine or inundation and
+    retained in liturgical practice.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: inspired words
+  literal_form: Sayings and teachings, including words of inspired wisdom, handed
+    down together.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Battle song becomes inherited memory
+  summary: Warriors sing verses before a battle; victory gives the song lasting force;
+    the song is repeated in memory of victorious heroes and victory-granting gods,
+    and may persist after its context is forgotten.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Emergency rite enters liturgical custom
+  summary: A ceremonial act performed during famine or inundation is linked with apparent
+    success, preserved by a family or tribe, repeated in emergencies, and later remembered
+    by priests and poets as custom.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Prestigious sayings are transmitted together
+  summary: A man with prestige has his sayings and teachings handed down together
+    because he once uttered inspired wisdom, without separating valuable sayings from
+    lesser material.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Commemorative victory song preserved after context is forgotten
+  taxonomy_refs: []
+  basis: The passage describes battle verses repeated in memory of heroes and gods,
+    later surviving as a relic when the original event is forgotten.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a hypothetical explanatory example in a preface, not a discrete
+    mythic narrative.
+- id: motif:2
+  label: Ritual preserved because of apparent miraculous efficacy
+  taxonomy_refs: []
+  basis: A ceremonial act connected to famine or inundation and sudden success is
+    preserved, repeated, and later retained as custom.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not specify the rite’s content or identify it as sacrifice,
+    prayer, or another named ritual type.
+- id: motif:3
+  label: Transmission of inspired wisdom through personal prestige
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly describes words of inspired wisdom and the later preservation
+    of a prestigious speaker’s sayings and teachings.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The emphasis is on textual or oral transmission rather than a mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 255-270
+  quote_or_summary: Warriors’ verses before a great battle may gain force if victory
+    follows; the verses are repeated in memory of conquering heroes and gods who granted
+    victory, and may survive after the context is forgotten.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 271-282
+  quote_or_summary: A ceremonial act performed in famine or inundation and followed
+    by sudden apparent success may be preserved in a family or tribal liturgical code,
+    repeated in emergencies, and survive as custom in the memory of priests and poets.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 283-292
+  quote_or_summary: Prestigious men’s utterances may receive great attention; the
+    sayings and teachings of one who once spoke inspired wisdom may be handed down
+    together without separating valuable from lesser material.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a preface discussing hypothetical mechanisms of preservation
+    rather than an Upanishadic mythic episode; motifs are therefore framed as transmission
+    patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself compare these examples to a specific external tradition or motif family beyond general preservation patterns.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-upanishads-sbe01-muller-archive__l255-l292
+  passage_sha256=3c4bb95ec7537ba9793c72ce5320c9c30619f118ea1ea3e4c7ac238a9d412e6f
+

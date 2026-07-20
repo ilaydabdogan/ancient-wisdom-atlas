@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.malagasy-madagascar-before-conquest-sibree-archive-l12036-l12050
+source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+passage_locator:
+  label: CHAPTER XIII. / DIVINATION AMONG THE MALAGASY. / DIVINATION AMONG THE MALAGASY.
+    / ARRANGEMENT OF COLUMN'S IN THE SIKIDY DIVINATION.; lines 12036-12050
+  start: '12036'
+  end: '12050'
+  translation: 'Madagascar Before the Conquest: The Island, the Country, and the People'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that in sikidy divination a figure matching the inquiry
+    may provide an answer only when it appears in a column whose name has a relevant
+    conceptual connection. In the example, a ship expected by the inquirer is represented
+    by the Harena/property column; the same figure in Trano/house gives no answer,
+    while the same figure in Lalana/road indicates that the ship is on the way, though
+    difficulties may still require attention.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A matching sikidy figure may or may not settle the question, depending on
+    the nature or name of the column in which it is found.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the example, a person expecting a ship inquires about its coming by means
+    of sikidy.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The column Harena, glossed as property, is said to represent the expected
+    ship in the example.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Finding the same figure, Jama, in the column Trano, glossed as house, gives
+    no answer because the passage says there is no natural connection between the
+    two conceptions.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Finding the same figure in the column Lalana, glossed as road, means the ship
+    is understood to be on the way.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After this answer to the main question, the passage says there may still be
+    reasons for a sharp look-out because difficulties may remain.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: example sikidy inquirer
+  description: A person who expects a ship and consults sikidy about its coming.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: expected ship
+  description: The ship whose coming is the subject of the sikidy inquiry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Mr. Dahle
+  description: The cited person who illustrates the rule with the ship example.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: sikidy questioner
+  assigned_to:
+  - fig:1
+  basis: The example describes a person expecting a ship and inquiring about its coming
+    through sikidy.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: subject of divinatory inquiry
+  assigned_to:
+  - fig:2
+  basis: The ship's coming is the matter being investigated in the example.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: illustrator of divinatory rule
+  assigned_to:
+  - fig:3
+  basis: The passage attributes the illustrative example to Mr. Dahle.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: matching sikidy figure
+  literal_form: A divinatory figure like the one representing the inquiry.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Jama
+  literal_form: The sikidy figure named Jama.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Harena column
+  literal_form: A sikidy column called Harena, glossed as property.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Trano column
+  literal_form: A sikidy column called Trano, glossed as house.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Lalana column
+  literal_form: A sikidy column called Lalana, glossed as road.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: rule for interpreting matching sikidy figures
+  summary: The passage states that a divinatory figure matching the inquiry only gives
+    an answer when the column where it appears is relevant by name or nature.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: ship inquiry example
+  summary: An inquirer expects a ship; Harena/property represents it, Trano/house
+    gives no answer, and Lalana/road indicates that it is on the way.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divination by correspondence of signs and named columns
+  taxonomy_refs: []
+  basis: The answer depends on whether a figure matching the inquiry appears in a
+    column whose name or nature connects meaningfully with the inquiry.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a technical divinatory pattern rather than a narrative myth motif.
+- id: motif:2
+  label: road sign indicating an object is on the way
+  taxonomy_refs: []
+  basis: When the same figure appears in the road column, the expected ship is known
+    to be on the way.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as an example within sikidy procedure; no broader
+    comparative claim is made.
+- id: motif:3
+  label: divinatory ambiguity requiring contextual interpretation
+  taxonomy_refs: []
+  basis: A matching figure alone does not settle the question; a match in an unrelated
+    column such as house gives no answer.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe a mythic episode, only an interpretive rule.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12036-12039
+  quote_or_summary: A figure like the one representing the inquiry may or may not
+    answer the question; this depends on the nature or name of the column where it
+    is found.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 12039-12042
+  quote_or_summary: Mr. Dahle's example concerns a person expecting a ship and asking
+    about its coming through sikidy; the Harena/property column represents the ship.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 12042-12045
+  quote_or_summary: If the figure Jama is also found in the Trano/house column, this
+    gives no answer because the passage says the conceptions lack a natural connection.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 12045-12049
+  quote_or_summary: If the same figure is found in the Lalana/road column, the inquirer
+    knows that the ship is at any rate on the way, answering the chief question.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 12049-12050
+  quote_or_summary: The passage adds that there may still be reason for a sharp look-out
+    because difficulties may remain; the supplied excerpt breaks off after this point.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The procedural details in the passage are clear, but the final sentence is
+    truncated in the supplied excerpt. Motif labels are descriptive of divinatory
+    patterning, not broader comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself compare this sikidy procedure with another tradition or motif family.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:malagasy-madagascar-before-conquest-sibree-archive__l12036-l12050
+  passage_sha256=714df204567af43b4451d1604977d45e3986c570bc432fc1f20e778955910520
+

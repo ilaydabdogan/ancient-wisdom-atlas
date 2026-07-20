@@ -1,0 +1,361 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l11090-l11101
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: LOVE CHARMS. / WEATHER CHARMS. / DIVINATION. / CHAPTER XVI; lines 11090-11101
+  start: '11090'
+  end: '11101'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports blood marks found in the morning, news that a dead
+    man or vata belonged to Makibiri, Ahuia's account of six vata coming to a hunting
+    camp at night with one stealing wallaby from a smoking platform, Kunia later identifying
+    them as vata, and Romilly's note that three named spirits were invoked by an old
+    woman to cure disease.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Blood marks were found on the ground in the morning after something had gone
+    away during the night.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: News came from Makibiri that the dead man, called vata in the passage, belonged
+    to that village.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ahuia saw six vata coming to a hunting camp one night.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One of the vata advanced to the smoking platform and stole a piece of wallaby.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ahuia tried to catch the vata but could not.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ahuia said he knew they were vata because Kunia told him afterwards.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Romilly refers to Devase, Horumagi, and a female spirit named V^aganamagi
+    as spirits invoked to cure disease by an old woman called by the Motu term Papalau.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: dead man or vata from Makibiri
+  description: A dead man, called vata in the passage, said to belong to Makibiri.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ahuia
+  description: Person who saw six vata at a hunting camp and tried unsuccessfully
+    to catch one.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: six vata
+  description: Six vata seen by Ahuia coming to a hunting camp one night.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: one advancing vata
+  description: One of the six vata who advanced to the smoking platform and stole
+    wallaby.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Kunia
+  description: Person who later told Ahuia that the figures were vata.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Devase
+  description: Named spirit referred to by Romilly as invoked to cure disease.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Horumagi
+  description: Named spirit referred to by Romilly as invoked to cure disease.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: V^aganamagi
+  description: Female spirit referred to by Romilly as invoked to cure disease.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: old woman called Papalau
+  description: Old woman, called by Romilly with the Motu term Papalau, who invoked
+    spirits to cure disease.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: vata or dead-spirit figure
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  basis: The passage calls the dead man vata and reports Ahuia identifying the six
+    night visitors as vata after Kunia told him so.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: witness and unsuccessful pursuer
+  assigned_to:
+  - fig:2
+  basis: Ahuia saw the six vata and tried but failed to catch the one who stole wallaby.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: food-stealing night visitor
+  assigned_to:
+  - fig:4
+  basis: One vata advanced to the smoking platform and stole a piece of wallaby.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: informant identifying vata
+  assigned_to:
+  - fig:5
+  basis: Kunia later told Ahuia that the beings were vata.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: spirit invoked to cure disease
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Romilly refers to these three spirits as invoked to cure disease.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: old woman invoking curative spirits
+  assigned_to:
+  - fig:9
+  basis: The old woman called Papalau is said to invoke the named spirits to cure
+    disease.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: blood marks
+  literal_form: blood marks on the ground in the morning
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: six vata at night
+  literal_form: six vata coming to a hunting camp one night
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hunting camp
+  literal_form: hunting camp at night
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: smoking platform
+  literal_form: smoking platform approached by one vata
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: stolen wallaby
+  literal_form: piece of wallaby stolen from the smoking platform
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: named disease-curing spirits
+  literal_form: Devase, Horumagi, and the female spirit V^aganamagi invoked to cure
+    disease
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Blood marks and Makibiri identification
+  summary: After an incomplete reference to something going away during the night,
+    blood marks are found on the ground, and news arrives that the dead man or vata
+    belonged to Makibiri.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ahuia sees vata stealing wallaby
+  summary: Ahuia sees six vata come to a hunting camp at night; one advances to a
+    smoking platform, steals wallaby, and cannot be caught. Kunia later tells Ahuia
+    they were vata.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Spirits invoked to cure disease
+  summary: Romilly reports three named spirits invoked by an old woman called Papalau
+    to cure disease.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: night appearance of vata or dead spirits
+  taxonomy_refs: []
+  basis: The passage reports six vata coming to a hunting camp at night and a dead
+    man called vata associated with Makibiri.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is fragmentary at the beginning, and vata is not further defined
+    within the supplied excerpt.
+- id: motif:2
+  label: spirit steals food from a human camp
+  taxonomy_refs: []
+  basis: One vata advances to a smoking platform and steals a piece of wallaby while
+    Ahuia cannot catch him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the purpose or consequence of the theft.
+- id: motif:3
+  label: curing disease by invoking named spirits
+  taxonomy_refs: []
+  basis: Romilly refers to three named spirits invoked to cure disease by an old woman
+    called Papalau.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The excerpt gives only a brief report and no ritual procedure beyond invocation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 11090-11093
+  quote_or_summary: '"There were blood marks on the ground in the morning. News soon
+    afterwards came from Makibiri ... that the dead man {vatd) belonged to that village."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; brief excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 11093-11096
+  quote_or_summary: '"Ahuia saw six vata coming to a hunting camp one night, and one
+    of them advanced to the smoking platform and stole a piece of wallaby."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; brief excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 11096-11098
+  quote_or_summary: '"He tried to catch him but could not. Ahuia says [he knew] they
+    were vata because [another man by name] Kunia told him so afterwards."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; brief excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 11099-11101
+  quote_or_summary: '"Romilly refers to three spirits, Devase, Horumagi and a female
+    spirit V^aganamagi, invoked to cure disease by an old woman whom he calls by the
+    Motu term Papalau"'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; brief excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by the fragmentary opening line and brief ethnographic
+    notes. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned because the passage does not clearly support a listed motif family or listed symbol.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l11090-l11101
+  passage_sha256=c8a6aa1836eb4a1e9799093240e9c717fd32443409362dd70a015ae927057a21
+

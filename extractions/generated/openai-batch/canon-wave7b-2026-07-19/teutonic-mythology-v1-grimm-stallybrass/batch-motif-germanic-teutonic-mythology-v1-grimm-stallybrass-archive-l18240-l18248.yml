@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l18240-l18248
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: HERCULES.      ULYSSES.  365 / GOZ.      FROGER.  367 / GEAT.      SCILD,      BEOWULF.  369
+    / SCEAF.      GIBIKA.      WELIS.      SIGOFRID.  371; lines 18240-18248
+  start: '18240'
+  end: '18248'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses the epithet sveinn for Norse Sigurðr and connects
+    this hero with Danish and Swedish song and tale names. It notes a Danish folk-song
+    figure, Sivard snaresvend, riding Grani and accompanying to Askereia; it also
+    reports that Svend Felding or Fulling drank from a horn handed by elvish beings
+    and gained the strength of twelve men.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The epithet sveinn is said to be given to the Norse Sigurðr and to appear
+    in Fafnir's address and in headings of the Vilk. saga.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies the same hero with Sivard snaresvend of a Danish folk-song.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sivard snaresvend is described as riding on Grani and accompanying to Askereia.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies the same hero with Svend Felding or Fulling of a Danish
+    folk-tale.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Svend Felding or Fulling drank out of a horn handed to him by elvish beings.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After drinking from the horn, he acquired the strength of twelve men.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Swedish songs call the figure Hven Färling or Folling.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Norse Sigurðr / associated hero
+  description: A hero discussed under the epithet sveinn and connected by the passage
+    with Danish and Swedish names.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Sivard snaresvend
+  description: Danish folk-song name for the same hero; described as riding Grani
+    and accompanying to Askereia.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Grani
+  description: The mount ridden by Sivard snaresvend.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Svend Felding or Fulling
+  description: Danish folk-tale name linked with the same hero; he drinks from a horn
+    given by elvish beings and gains great strength.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: elvish beings
+  description: Beings who hand a horn to Svend Felding or Fulling.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Hven Färling or Folling
+  description: Swedish song names for the same figure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: variant-named hero
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  basis: The passage explicitly treats the Norse, Danish, and Swedish names as referring
+    to the same hero or figure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: rider accompanying to Askereia
+  assigned_to:
+  - fig:2
+  basis: Sivard snaresvend is described as riding on Grani and accompanying to Askereia.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: hero's mount
+  assigned_to:
+  - fig:3
+  basis: Grani is the named being or mount on which Sivard rides.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient of empowering drink
+  assigned_to:
+  - fig:4
+  basis: Svend Felding or Fulling drinks from the horn and gains the strength of twelve
+    men.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: otherworldly horn-givers
+  assigned_to:
+  - fig:5
+  basis: The horn is handed to the hero by elvish beings.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: horn of empowering drink
+  literal_form: horn handed by elvish beings and drunk from by the hero
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Grani as mount
+  literal_form: named mount ridden by Sivard snaresvend
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: strength of twelve men
+  literal_form: the numerical measure of strength acquired after drinking
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Askereia destination or company
+  literal_form: Askereia, to which Sivard snaresvend accompanies while riding Grani
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Hero riding to Askereia
+  summary: Sivard snaresvend rides on Grani and accompanies to Askereia.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Elvish horn and acquired strength
+  summary: Svend Felding or Fulling drinks from a horn handed to him by elvish beings
+    and thereby gains the strength of twelve men.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Cross-tradition naming of the hero
+  summary: The passage connects the Norse Sigurðr with Danish forms Sivard snaresvend
+    and Svend Felding or Fulling, and with Swedish forms Hven Färling or Folling.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hero gains superhuman strength from an otherworldly drink
+  taxonomy_refs: []
+  basis: The hero drinks from a horn handed by elvish beings and gains the strength
+    of twelve men.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports the episode briefly and does not describe the drink's
+    contents or any conditions attached to the gift.
+- id: motif:2
+  label: hero associated with a named supernatural or legendary mount
+  taxonomy_refs: []
+  basis: Sivard snaresvend is described as riding on Grani.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage only mentions the ride in passing and does not narrate a full
+    horse-motif episode.
+- id: motif:3
+  label: single hero preserved under variant regional names
+  taxonomy_refs: []
+  basis: The passage explicitly links Norse Sigurðr with Danish and Swedish song and
+    tale names.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a comparative naming pattern in Grimm's discussion rather than
+    a narrated mythic action.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Norse, Danish, and Swedish names as referring
+    to the same hero or closely related heroic figure.
+  claim_level: linguistic_similarity
+  target: Norse Sigurðr, Danish Sivard snaresvend and Svend Felding/Fulling, Swedish
+    Hven Färling/Folling
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on the author's comparative identification in a
+    short note; no independent linguistic argument is given in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18240-18243
+  quote_or_summary: The epithet sveinn is attributed to Norse Sigurðr and connected
+    with Fafnir's address and headings in the Vilk. saga.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 18243-18245
+  quote_or_summary: The same hero is identified with Sivard snaresvend of a Danish
+    folk-song, who rides Grani and accompanies to Askereia.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 18245-18246
+  quote_or_summary: The same hero is also identified with Svend Felding or Fulling
+    of a Danish folk-tale.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 18246-18248
+  quote_or_summary: He drinks from a horn handed to him by elvish beings and thereby
+    obtains the strength of twelve men.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: line 18248
+  quote_or_summary: Swedish songs call the figure Hven Färling or Folling.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a compressed comparative note with several variant names and
+    brief narrative references. Literal extraction is mostly secure, but motif labeling
+    is limited by the brevity of the passage and by OCR irregularities in proper names.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs directly match the horn, Grani, Askereia, or the number twelve; taxonomy_refs were left empty for those symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l18240-l18248
+  passage_sha256=aea8dad44bc4fb5f70177f875e3488f5683dcd4d4c3213fc585a67a6d660fb52
+

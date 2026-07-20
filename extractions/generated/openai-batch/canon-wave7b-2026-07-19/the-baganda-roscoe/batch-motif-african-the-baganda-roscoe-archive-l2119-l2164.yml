@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l2119-l2164
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: THE   BAGANDA / CHAP. / I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  29 /
+    I  GENERAL  SURVEY  OF  THE  COUNTRY,  ETC.  31; lines 2119-2164
+  start: '2119'
+  end: '2164'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists several clans and the named drum-beats associated with
+    each. It then describes Busoga bands maintained by the King and greater chiefs,
+    using long bottle-gourd horns covered with skin to produce tunes. It also describes
+    the madinda, a zither-like court instrument made from logs and graduated wooden
+    pieces, usually played by two people seated opposite each other.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A sequence of named clans is paired with specific named beats.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King and some greater chiefs maintained bands called Busoga bands.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Busoga bands used trumpets or horns made from long bottle-gourds covered
+    with skin.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Groups of eight or ten horn players produced different sounds and tunes by
+    blowing at intervals.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Different shapes and sizes of instruments produced different tones.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The madinda was a favorite instrument at the court of the King and leading
+    chiefs.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The madinda is described as zither-like, formed from two logs with graduated
+    pieces of wood laid across them.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The madinda usually had twelve wooden pieces for the scale, though some large
+    examples had as many as nineteen.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Two madinda players sat on opposite sides of the instrument, facing each other.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Listed clans
+  description: Clans named in the passage, including Colobus monkey, Lung fish, Sheep,
+    Gazelle, Bird, Rat, Heart, Bean, Bushbuck, Hippopotamus, Jackal, Cephalopus, Gennet,
+    and Crow clans.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: King
+  description: The King maintained Busoga bands and had the madinda as a favorite
+    court instrument.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Greater or leading chiefs
+  description: Chiefs maintained Busoga bands and had the madinda as a favorite instrument
+    in their courts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Busoga band horn players
+  description: Men who learned to blow bottle-gourd trumpets or horns in coordinated
+    groups.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Madinda players
+  description: Two players seated opposite one another on each side of the madinda.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: clans with named beats
+  assigned_to:
+  - fig:1
+  basis: Each listed clan is paired with a named beat.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal or chiefly musical patrons
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The King and greater chiefs maintained bands; the madinda is placed in the
+    court of the King and leading chiefs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: horn performers
+  assigned_to:
+  - fig:4
+  basis: Men learned to blow long bottle-gourd horns in coordinated groups to make
+    tunes.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: madinda performers
+  assigned_to:
+  - fig:5
+  basis: Two players were required and sat opposite each other at the instrument.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: clan-name beings and objects
+  literal_form: 'Animal, plant, body, and object names used for clans: Colobus monkey,
+    Lung fish, Sheep, Gazelle, Bird, Rat, Heart, Bean, Bushbuck, Hippopotamus, Jackal,
+    Cephalopus, Gennet, Crow.'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bottle-gourd horns
+  literal_form: Long bottle-gourds covered with skin and used as trumpets or horns.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: madinda
+  literal_form: A zither-like instrument made from two logs and graduated wooden pieces,
+    usually twelve and sometimes nineteen.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: clans and their beats
+  summary: The passage lists clans and associates each with a specific named beat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Busoga bands with bottle-gourd horns
+  summary: The King and greater chiefs maintain Busoga bands whose horn players use
+    covered bottle-gourds to produce varied sounds and tunes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: madinda at court
+  summary: The madinda is described as a favorite court instrument made from logs
+    and wooden pieces and played by two people seated opposite each other.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: clan-specific musical beat identifiers
+  taxonomy_refs: []
+  basis: The passage repeatedly pairs named clans with particular named beats.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic musical pattern rather than a mythic narrative
+    motif in the passage.
+- id: motif:2
+  label: royal and chiefly musical ensemble
+  taxonomy_refs: []
+  basis: The King and greater chiefs maintain Busoga bands, and the madinda is described
+    as a favorite court instrument.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes court music and patronage; it does not state a mythological
+    or ritual meaning.
+- id: motif:3
+  label: paired instrumental performance
+  taxonomy_refs: []
+  basis: The madinda requires two players seated on opposite sides of the instrument,
+    facing each other.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a performance arrangement; broader symbolic meaning is not supplied
+    by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2119-2146, clan-beat list
+  quote_or_summary: The passage lists multiple clans and states that each clan beats
+    a named rhythm or tune.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2147-2157, Busoga bands
+  quote_or_summary: The King and some greater chiefs maintained Busoga bands using
+    long bottle-gourd horns covered with skin; groups of players produced varied sounds
+    and tunes.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2158-2164, madinda description
+  quote_or_summary: The madinda is described as a favorite court instrument, zither-like
+    in principle, made from two logs and graduated wooden pieces, usually played by
+    two seated players.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal musical and social details are clear. Motif labels are descriptive
+    and should be reviewed because the passage provides ethnographic description rather
+    than mythological interpretation. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not explicitly support those controlled terms.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l2119-l2164
+  passage_sha256=5963af838fb53e4e902361a63442051ea637eca14e01ec45f4dd75eef135ca88
+

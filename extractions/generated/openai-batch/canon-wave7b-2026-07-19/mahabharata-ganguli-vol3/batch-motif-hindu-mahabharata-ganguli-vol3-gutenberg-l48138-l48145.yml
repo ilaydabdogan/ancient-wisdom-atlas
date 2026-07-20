@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l48138-l48145
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXXXI / SECTION CCXXXII / SECTION CCXXXIII / SECTION CCXXXIV; lines
+    48138-48145
+  start: '48138'
+  end: '48145'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ascended, by means of gifts and penances, to heaven
+  summary: The passage names or alludes to figures who gain wish-fulfillment or heavenly
+    ascent through giving, penances, sacrifices, and procreation; their fame is said
+    to endure as long as the earth.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed figure in the excerpt is said to have given his daughter Santa
+    to Rishyasringa and obtained the fruition of all his wishes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: King Prasenajit is described as energetic and as giving away a hundred thousand
+    kine with calves.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: King Prasenajit is said to have ascended to excellent regions of felicity
+    after the gift of cattle.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: These and many others are described as having great, well-ordered souls and
+    controlled senses.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that these figures ascended to heaven by means of gifts
+    and penances.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Their fame is said to last as long as the earth lasts.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that all of them proceeded to heaven by gifts, sacrifices,
+    and procreation of issue.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed father or donor of Santa
+  description: A figure, not named in the excerpt, who gave his daughter Santa to
+    Rishyasringa and obtained the fruition of his wishes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Santa
+  description: The daughter of the unnamed figure, given to Rishyasringa.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Rishyasringa
+  description: The named recipient of Santa in the act of giving described by the
+    passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: King Prasenajit
+  description: A king of great energy who gave away a hundred thousand kine with calves
+    and ascended to excellent regions of felicity.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: these and many others
+  description: A collective group described as having well-ordered souls, controlled
+    senses, and heavenly ascent through gifts and penances.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: donor whose wishes are fulfilled
+  assigned_to:
+  - fig:1
+  basis: The figure gives Santa to Rishyasringa and is said to obtain the fruition
+    of all his wishes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: daughter given to Rishyasringa
+  assigned_to:
+  - fig:2
+  basis: Santa is identified as the daughter given to Rishyasringa.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: recipient of Santa
+  assigned_to:
+  - fig:3
+  basis: Rishyasringa is named as the one to whom Santa is given.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: royal donor rewarded with heavenly ascent
+  assigned_to:
+  - fig:4
+  basis: King Prasenajit gives away cattle and ascends to excellent regions of felicity.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: disciplined ascenders to heaven
+  assigned_to:
+  - fig:5
+  basis: The collective group is described as self-controlled and as ascending or
+    proceeding to heaven through gifts, penances, sacrifices, and procreation.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: hundred thousand kine with calves
+  literal_form: A large gift of cattle with calves.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: heaven or excellent regions of felicity
+  literal_form: The heavenly destination reached by the figures.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: earth as measure of enduring fame
+  literal_form: The earth, invoked as the duration of the figures' fame.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Gift of Santa and fulfillment of wishes
+  summary: An unnamed figure gives his daughter Santa to Rishyasringa and obtains
+    the fulfillment of all his wishes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prasenajit's cattle gift and ascent
+  summary: King Prasenajit gives away a hundred thousand kine with calves and ascends
+    to excellent regions of felicity.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Generalized ascent through merit
+  summary: Many self-controlled figures ascend or proceed to heaven through gifts,
+    penances, sacrifices, and procreation; their fame is said to endure as long as
+    the earth.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: heavenly ascent through meritorious acts
+  taxonomy_refs:
+  - ascent
+  basis: The passage repeatedly states that figures ascended or proceeded to heaven
+    through gifts, penances, sacrifices, and procreation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is brief and begins mid-sentence, so the full narrative context
+    is not included.
+- id: motif:2
+  label: sacred reward for giving
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Acts of giving are linked with wish-fulfillment and ascent to heavenly felicity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage presents the reward relation but does not elaborate a ritual
+    theory of exchange.
+- id: motif:3
+  label: sacrifice as a means to heaven
+  taxonomy_refs:
+  - sacrifice
+  basis: Sacrifices are named alongside gifts and procreation as means by which the
+    figures proceeded to heaven.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Sacrifice is mentioned only in a summary list, without a specific sacrificial
+    scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage matches an ascent motif pattern because it explicitly describes
+    figures ascending or proceeding to heaven after meritorious acts.
+  claim_level: same_motif
+  target: 'available motif family: ascent'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a passage-level motif match only; it does not establish historical
+    contact or broader textual dependence.
+- id: claim:2
+  claim: The passage matches a sacred-exchange function in which giving is associated
+    with supernatural or posthumous reward.
+  claim_level: same_function
+  target: 'available motif family: sacred_exchange'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not explicitly define the mechanics of exchange; the
+    claim rests on the sequence of giving followed by fulfillment or heavenly ascent.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 48138-48139
+  quote_or_summary: '"his daughter Santa to Rishyasringa, obtained the fruition of
+    all his wishes"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg/Ganguli translation; excerpt supplied
+    in request.
+- id: ev:2
+  type: quote
+  locator: 48139-48141
+  quote_or_summary: '"King Prasenajit...by giving away a hundred thousand kine with
+    calves, ascended to excellent regions of felicity"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg/Ganguli translation; excerpt supplied
+    in request.
+- id: ev:3
+  type: quote
+  locator: 48141-48144
+  quote_or_summary: '"having their senses under control, ascended, by means of gifts
+    and penances, to heaven"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg/Ganguli translation; excerpt supplied
+    in request.
+- id: ev:4
+  type: quote
+  locator: '48144'
+  quote_or_summary: '"Their fame will last as long as the earth herself will last."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg/Ganguli translation; excerpt supplied
+    in request.
+- id: ev:5
+  type: quote
+  locator: 48144-48145
+  quote_or_summary: '"by gifts, sacrifices and procreation of issue, proceeded to
+    heaven"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain Project Gutenberg/Ganguli translation; excerpt supplied
+    in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and begins mid-sentence, so the unnamed figure connected
+    with Santa cannot be identified from the supplied text alone. Literal extraction
+    is otherwise straightforward.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include cattle, heaven, or earth.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l48138-l48145
+  passage_sha256=cc6cf87d09a8ae5ac260ef6b10d03b6e7ff91e7ad435e2e07eea8a0aeb9e8688
+

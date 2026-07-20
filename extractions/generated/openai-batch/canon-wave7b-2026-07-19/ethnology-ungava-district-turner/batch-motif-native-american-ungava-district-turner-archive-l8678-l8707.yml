@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l8678-l8707
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: DWELLINGS, / SWEAT HOUSES, / HOUSEHOLD UTENSILS, RTC. / TOBACCO AND PIPES,;
+    lines 8678-8707
+  start: '8678'
+  end: '8707'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes tobacco use for smoking, chewing, and snuff; the
+    high value placed on tobacco by men in relation to hunting supplies; requests
+    for tobacco upon meeting; and the receipt of a clay pipe and plug of tobacco at
+    the trading post before other provisions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section is explicitly concerned with tobacco and pipes.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people described are said to use tobacco for smoking, chewing, and snuff;
+    snuff is described as used only by aged individuals, especially females.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Men are said to consider a supply of tobacco as important as ammunition for
+    the chase.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Upon meeting, the first request described is for a chew of tobacco or a pipe
+    full.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that satisfactory interaction is limited until a gift of
+    tobacco is given.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At the trading post, the first items received are described as a clay pipe
+    and a plug of tobacco, while molasses and hard biscuits are secondary.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The line range includes captions identifying wooden spoons or ladles as Nenenot
+    objects.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: people described by the author
+  description: A collective group described as very fond of tobacco and as requesting
+    or receiving tobacco in social and trading contexts.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: men
+  description: Men who are said to value tobacco supply as highly as ammunition for
+    the chase.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: aged individuals, especially females
+  description: Individuals singled out as the users of snuff.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: tobacco users
+  assigned_to:
+  - fig:1
+  basis: The passage describes use of tobacco for smoking, chewing, and snuff.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tobacco requester and recipient
+  assigned_to:
+  - fig:1
+  basis: The passage describes requests for tobacco upon meeting and receipt of tobacco
+    and pipe at the trading post.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: men valuing tobacco as chase provision
+  assigned_to:
+  - fig:2
+  basis: The men are said to treat tobacco supply as comparable in importance to ammunition
+    for the chase.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: snuff users
+  assigned_to:
+  - fig:3
+  basis: Snuff is described as used only by aged individuals, especially females.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: tobacco
+  literal_form: Tobacco used for smoking, chewing, and snuff; also given as a gift
+    and issued as a plug at the trading post.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: pipe
+  literal_form: A pipe full requested upon meeting and a clay pipe received at the
+    trading post.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: ammunition
+  literal_form: Ammunition for the prosecution of the chase, used as a point of comparison
+    for tobacco's importance.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: trading post
+  literal_form: Place of arrival where a clay pipe and plug of tobacco are received
+    before other goods.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: molasses and hard biscuits
+  literal_form: A pint of molasses and three or four hard biscuits, described as secondary
+    to pipe and tobacco.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: wooden spoon or ladle
+  literal_form: Wooden spoon or ladle identified in figure captions as Nenenot.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Description of tobacco use
+  summary: The passage describes the people as using tobacco for smoking, chewing,
+    and snuff, with snuff associated especially with aged individuals and females.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tobacco valued with hunting supplies
+  summary: Men are described as valuing a supply of tobacco as much as ammunition
+    used for the chase.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Meeting mediated by tobacco
+  summary: On meeting, the first request is for tobacco, and interaction is described
+    as difficult until a gift of tobacco is provided.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Arrival at the trading post
+  summary: An arrival at the trading post receives a clay pipe and plug of tobacco
+    first; molasses and hard biscuits are treated as secondary items.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: valued substance enabling social interaction
+  taxonomy_refs: []
+  basis: The passage presents tobacco as the first requested item upon meeting and
+    as a gift that makes interaction possible.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic social pattern rather than a myth narrative; no
+    sacred or supernatural status is stated.
+- id: motif:2
+  label: prestige consumable prioritized over provisions
+  taxonomy_refs: []
+  basis: Tobacco is compared in importance to ammunition for the chase and is received
+    at the trading post before molasses and hard biscuits.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage supports high practical and social value, but not a mythological
+    motif family assignment.
+- id: motif:3
+  label: arrival gift at exchange site
+  taxonomy_refs: []
+  basis: The first items received upon arrival at the trading post are a clay pipe
+    and a plug of tobacco.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The giver is not identified, and the passage does not explicitly describe
+    ritual, sacred exchange, or reciprocity.
+comparison_claims:
+- id: claim:1
+  claim: The author explicitly compares the described group's fondness for tobacco
+    to that of a broader category described as other Indians.
+  claim_level: same_function
+  target: other Indigenous groups as generalized by the source author
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a broad authorial generalization in the passage; no separate
+    comparative examples or traditions are provided.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8678-8687
+  quote_or_summary: The heading is 'TOBACCO AND PIPES'; the passage states that the
+    people are very fond of tobacco for smoking, chewing, and snuff, with snuff used
+    only by aged individuals, especially females.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8687-8691
+  quote_or_summary: Men are described as considering a supply of tobacco as important
+    as ammunition for the prosecution of the chase.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8691-8697
+  quote_or_summary: The first request upon meeting is said to be for a chew or a pipe
+    full, and interaction is said to be difficult until a gift of tobacco is given.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8697-8705
+  quote_or_summary: On arrival at the trading post, the first items received are described
+    as a clay pipe and a plug of tobacco; molasses and hard biscuits are described
+    as secondary.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8685-8707
+  quote_or_summary: Figure captions within the line range identify Fig. 119 and Fig.
+    120 as wooden spoons or ladles, Nenenot.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward. Motif labels are limited to social
+    and exchange patterns because the passage is ethnographic and does not present
+    a mythic or sacred narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol IDs were assigned because the passage does not explicitly support a sacred, mythological, or listed symbolic category.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l8678-l8707
+  passage_sha256=411be26d624f2594d46052ee879953f32726a97ccf563ebf114b6a9ca0a57a23
+

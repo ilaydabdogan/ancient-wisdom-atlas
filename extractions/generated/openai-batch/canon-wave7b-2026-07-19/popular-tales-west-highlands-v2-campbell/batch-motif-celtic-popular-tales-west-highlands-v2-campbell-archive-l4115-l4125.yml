@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l4115-l4125
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE BARRA WIDOW'S SON. 129 / THE BARRA WIDOW'S SON. 131 / SGEULACHD BAX-RIGH.
+    143 / ARAID.; lines 4115-4125
+  start: '4115'
+  end: '4125'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The story is evidently a Celtic version of the Wearie Well at the Warldis
+    End
+  summary: An editorial note identifies the woman who wrote down this and other stories,
+    describes her memory and West Highland background, and compares the story to the
+    Wearie Well at the Warldis End, a Scottish version published by Chambers, and
+    Grimm's notes on Der Froschkönig.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A lady wrote down this story and other stories.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor describes the lady as an old friend with an excellent memory who
+    had brought up a large family.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lady had gathered tales during a long life in the West Highlands.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Her husband was a respected minister.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The editor states that the story is evidently a Celtic version of the Wearie
+    Well at the Warldis End.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The editor notes that Chambers published a Scottish version and that Grimm
+    refers to it in notes to Der Froschkönig.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed lady recorder
+  description: A lady, described as one of the editor's oldest friends, who wrote
+    down this and other stories and remembered tales gathered in the West Highlands.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the lady's husband
+  description: The husband of the lady recorder, described as a respected minister.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Chambers
+  description: An author or publisher cited as having published one Scottish version
+    of the Wearie Well at the Warldis End.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Grimm
+  description: A scholar cited as referring to the Scottish version in notes to Der
+    Froschkönig.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: story recorder
+  assigned_to:
+  - fig:1
+  basis: She is said to have written down this and other stories.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: West Highland tale rememberer
+  assigned_to:
+  - fig:1
+  basis: Her memory enabled her to remember tales gathered during a long life in the
+    West Highlands.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: respected minister
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the lady's husband as a respected minister.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: publisher of Scottish version
+  assigned_to:
+  - fig:3
+  basis: Chambers is cited as having published one Scottish version.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: comparative note reference
+  assigned_to:
+  - fig:4
+  basis: Grimm is cited as referring to the Scottish version in notes to Der Froschkönig.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial provenance and comparative note
+  summary: The passage records the provenance of the written story through an unnamed
+    West Highland-associated lady and gives editorial comparisons to Wearie Well at
+    the Warldis End, Chambers's Scottish version, and Grimm's notes on Der Froschkönig.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: tale identified as a Celtic version of Wearie Well at the Warldis End
+  taxonomy_refs: []
+  basis: The passage explicitly identifies the story as a Celtic version of the Wearie
+    Well at the Warldis End and links it to published Scottish and Grimm-associated
+    comparanda.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt gives only an editorial comparison and no narrative episode
+    details, so no specific tale motif can be extracted from the passage itself.
+comparison_claims:
+- id: claim:1
+  claim: The editor identifies the story as a Celtic version of the Wearie Well at
+    the Warldis End.
+  claim_level: same_motif
+  target: Wearie Well at the Warldis End
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states the comparison but does not provide the narrative
+    details that support it.
+- id: claim:2
+  claim: The editor connects the story with a Scottish version published by Chambers
+    and with Grimm's notes on Der Froschkönig.
+  claim_level: same_motif
+  target: Chambers's Scottish version of Wearie Well at the Warldis End and Grimm's
+    Der Froschkönig notes
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage only reports bibliographic cross-references; it does not
+    quote or summarize the compared versions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4115-4118
+  quote_or_summary: The passage says a lady, one of the editor's oldest friends, wrote
+    down this and other stories and had brought up a large family.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 4118-4122
+  quote_or_summary: The lady's memory enabled her to remember tales gathered during
+    a long life in the West Highlands, where her husband was a respected minister.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 4122-4124
+  quote_or_summary: The story is evidently a Celtic version of the Wearie Well at
+    the Warldis End
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4124-4125
+  quote_or_summary: The editor states that Chambers published one Scottish version
+    and that Grimm refers to it in notes to Der Froschkönig.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial note rather than a narrative scene. Provenance
+    and bibliographic comparisons are explicit, but motif content is not described.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage contains no specific narrative motif or listed symbol such as cave, fire, milk, mountain, serpent, tree, or water.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l4115-l4125
+  passage_sha256=34afba4494d1a8da350c5c952bacaa2ece9b4adc3377b9fd8ea30078a7e34044
+

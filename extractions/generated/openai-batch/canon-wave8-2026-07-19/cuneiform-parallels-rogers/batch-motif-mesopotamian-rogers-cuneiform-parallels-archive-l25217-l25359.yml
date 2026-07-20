@@ -1,0 +1,565 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l25217-l25359
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: II. A CERTIFICATE OF ADOPTION1 / IV. THE CODE OF HAMMURAPI / LITERATURE /
+    PROLOGUE1; lines 25217-25359
+  start: '25217'
+  end: '25359'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: the man who hired the ox shall swear before the god and go free.
+  summary: The passage gives laws on hiring livestock and agricultural workers, compensation
+    for injury or death of animals, liability for goring oxen, punishment and restitution
+    for theft or misuse of seed and oxen, and payments for stolen irrigation or farm
+    implements.
+  language: English translation with transliterated Akkadian excerpts
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man hiring a working ox for one year is to pay four GUR of grain, while
+    hire for a milch cow is three GUR to its owner.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If a hired ox or ass is killed by a lion in the field, the loss belongs to
+    the owner.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If a hired ox dies because of neglect or blows, the hirer must render ox for
+    ox to the owner.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Specific injuries to a hired ox, including crushed foot, cut nape, lost eye,
+    broken horn, cut tail, or injured nostril, require specified compensation to the
+    owner.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: If the god strikes a hired ox and it dies, the hirer swears before the god
+    and is released.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A savage bull that gores a man and causes his death is described as a case
+    having no remedy.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: If an owner knows an ox is given to goring but does not bind its horns or
+    shut it up, and the ox kills a man of gentle birth, the owner pays one half mina
+    of silver; if the victim is a gentleman's slave, the payment is one third mina.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A man hired to oversee a field is entrusted with seed-grain and oxen for cultivation;
+    if he steals seed or provender and it is found in his hands, his hands are cut
+    off.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: If the field overseer takes seed, starves oxen, hires out the oxen, or steals
+    seed so that it does not grow, he must make agricultural restitution; if unable
+    to pay, he remains in the field with the cattle.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage sets yearly grain wages for a field laborer, ox-driver, herdsman,
+    or shepherd, and silver payments for theft of a watering machine, watering bucket,
+    or harrow.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: man who hires livestock or labor
+  description: A recurring legal subject who hires oxen, cows, asses, workers, or
+    field overseers and may owe hire, compensation, oath, or restitution.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: owner
+  description: The owner of animals or implements to whom hire, loss, silver, grain,
+    or replacement is assigned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:10
+- id: fig:3
+  name_or_label: hired livestock
+  description: Working ox, milch cow, ox, or ass hired for work and subject to loss,
+    injury, death, or replacement rules.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: lion in the field
+  description: A lion that kills a hired ox or ass in the field.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the god
+  description: The divine agent said to strike a hired ox and the divine authority
+    before whom the hirer swears.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: savage bull or goring ox
+  description: A bull or ox that gores and kills a human; one form is known to be
+    given to goring and not restrained by its owner.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:7
+  name_or_label: human victim of goring
+  description: A man of gentle birth or a gentleman's slave killed by a goring ox,
+    with different payments specified.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: field overseer or cultivator
+  description: A man hired to oversee a field, entrusted with seed-grain and oxen,
+    and liable if he steals or misuses them.
+  role_refs:
+  - role:8
+  - role:10
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:9
+  name_or_label: agricultural wage workers
+  description: A field laborer, ox-driver, herdsman, or shepherd whose yearly grain
+    wage is specified.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: hirer or employer
+  assigned_to:
+  - fig:1
+  basis: The laws repeatedly begin with a man hiring livestock or agricultural personnel.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:8
+- id: role:2
+  label: owner and compensation recipient
+  assigned_to:
+  - fig:2
+  basis: Owners receive hire, replacement animals, silver payments, or bear the loss
+    when specified.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:10
+- id: role:3
+  label: hired labor animal or property
+  assigned_to:
+  - fig:3
+  basis: Oxen, cows, and asses are hired, valued, injured, killed, or replaced.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: external predatory cause of loss
+  assigned_to:
+  - fig:4
+  basis: A lion kills a hired animal in the field, assigning the loss to the owner.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine cause and oath witness
+  assigned_to:
+  - fig:5
+  basis: The god strikes the ox, and the hirer swears before the god to go free.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: dangerous animal
+  assigned_to:
+  - fig:6
+  basis: The bull or ox gores and causes human death; one case concerns a known goring
+    habit not restrained.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: victim whose status determines payment
+  assigned_to:
+  - fig:7
+  basis: Payments differ for a man of gentle birth and for a gentleman's slave.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: entrusted agricultural agent
+  assigned_to:
+  - fig:8
+  basis: The field overseer is entrusted with seed-grain and oxen to cultivate the
+    field.
+  evidence_refs:
+  - ev:8
+- id: role:9
+  label: paid agricultural worker
+  assigned_to:
+  - fig:9
+  basis: The passage specifies yearly grain wages for laborer, ox-driver, herdsman,
+    and shepherd.
+  evidence_refs:
+  - ev:10
+- id: role:10
+  label: wrongdoer liable for theft or misuse
+  assigned_to:
+  - fig:8
+  basis: The overseer may steal seed or provender, starve oxen, or fail to produce
+    growth, leading to penalties or restitution.
+  evidence_refs:
+  - ev:8
+  - ev:9
+symbols:
+- id: sym:1
+  label: hired livestock
+  literal_form: working ox, milch cow, ox, or ass
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: field
+  literal_form: field used for animal loss, cultivation, and restitution
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: grain and silver payments
+  literal_form: GUR of grain, mina of silver, shekels of silver
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+  - ev:10
+- id: sym:4
+  label: oath before god
+  literal_form: swear before the god
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: severed hands penalty
+  literal_form: they shall cut off his hands
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: irrigation and farm implements
+  literal_form: watering machine, watering bucket, harrow
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Annual hire rates for livestock
+  summary: The code fixes yearly grain hire for a working ox and a milch cow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Loss and injury of hired animals
+  summary: Rules distinguish owner loss from lion attack, hirer liability for neglect
+    or blows, and graded compensation for bodily injuries to an ox.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Divine-struck ox and oath release
+  summary: When a hired ox dies after the god strikes it, the hirer swears before
+    the god and is released from liability.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Goring animal and human death
+  summary: The code treats fatal goring by a savage bull as without remedy, but imposes
+    silver payment when a known dangerous ox was not restrained and kills a person.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Entrusted field overseer violates trust
+  summary: A field overseer entrusted with seed and oxen is punished for theft and
+    must provide restitution for misuse or failed cultivation.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: scene:6
+  label: Agricultural wages and stolen implements
+  summary: The code sets grain wages for agricultural workers and silver payments
+    for stolen watering or farm implements.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Divine-caused loss resolved by oath
+  taxonomy_refs:
+  - divine_judgment
+  basis: A hired ox dies after the god strikes it; the hirer swears before the god
+    and is released.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is a legal rule, not a mythic narrative; the divine role is
+    procedural and juridical.
+- id: motif:2
+  label: Restitution for damaged entrusted property
+  taxonomy_refs: []
+  basis: Hired animals injured or killed through the hirer's conduct require replacement
+    or proportional payment to the owner.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a legal compensation pattern; no explicit mythological symbolism
+    is stated.
+- id: motif:3
+  label: Dangerous animal liability
+  taxonomy_refs: []
+  basis: The passage distinguishes fatal goring without remedy from liability when
+    a known goring ox was not restrained.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The pattern is juridical and social rather than explicitly mythic.
+- id: motif:4
+  label: Breach of agricultural trust punished by bodily penalty and restitution
+  taxonomy_refs: []
+  basis: An overseer entrusted with seed and oxen who steals is punished by cutting
+    off hands, and other misuse produces restitution or compulsory remaining in the
+    field with cattle.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The passage provides legal sanctions, not a narrative episode.
+- id: motif:5
+  label: Agrarian valuation through grain and silver
+  taxonomy_refs: []
+  basis: The laws set wages, hire, compensation, and theft payments in grain and silver
+    for animals, workers, victims, and implements.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: This is an economic-legal pattern; symbolic or mythic meaning is not explicit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25217-25224 (§§242-243)
+  quote_or_summary: A working ox hired for one year costs four GUR of grain; a milch
+    cow costs three GUR to the owner.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 25225-25234 (§244)
+  quote_or_summary: If a man hires an ox or ass and a lion kills it in the field,
+    the loss is the owner's.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 25235-25255 (§§245-247)
+  quote_or_summary: If neglect or blows kill a hired ox, the hirer renders ox for
+    ox; crushing the foot, cutting the nape, or causing loss of an eye brings replacement
+    or half-price payment.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 25256-25275 (§248)
+  quote_or_summary: Breaking the horn, cutting off the tail, or injuring the nostril
+    of a hired ox requires payment of a fifth of its price.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 25276-25288 (§249)
+  quote_or_summary: If the god has struck a hired ox and it dies, "the man who hired
+    the ox shall swear before the god and go free."
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 25289-25300 (§250)
+  quote_or_summary: If a savage bull gores a man and causes his death, the case has
+    no remedy.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 25301-25324 (§§251-252)
+  quote_or_summary: If an owner knows an ox is given to goring and fails to restrain
+    it, then after it kills a man of gentle birth he pays one half mina of silver;
+    for a gentleman's slave he pays one third mina.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 25325-25346 (§253)
+  quote_or_summary: A hired field overseer entrusted with seed-grain and oxen, if
+    found with stolen seed or provender in his hands, has his hands cut off.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 25347-25381 (§§254-256)
+  quote_or_summary: Taking seed, starving oxen, hiring out the man's oxen, or failing
+    to make stolen seed grow leads to restitution; inability to pay results in remaining
+    in the field with cattle.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 25382-25359 (§§257-261)
+  quote_or_summary: The text sets yearly grain wages for field laborer, ox-driver,
+    herdsman, and shepherd, and silver payments for stolen watering machine, watering
+    bucket, or harrow.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The legal content is clear, but most candidate motifs are juridical patterns
+    rather than explicit mythic narratives. No cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage consists of Hammurapi law sections on livestock hire, agricultural work, liability, oaths, and restitution; transliterated Akkadian lines were not independently interpreted beyond the supplied English translation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l25217-l25359
+  passage_sha256=5b838b2a57649a310de67df0d054cc4ad45860f08e714969834a4bd2feb944e2
+

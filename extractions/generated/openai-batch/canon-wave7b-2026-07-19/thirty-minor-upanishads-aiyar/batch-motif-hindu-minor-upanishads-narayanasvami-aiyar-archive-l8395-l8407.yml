@@ -1,0 +1,185 @@
+---
+record_id: batch.motif.hindu-minor-upanishads-narayanasvami-aiyar-archive-l8395-l8407
+source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+passage_locator:
+  label: S'ANDILYA-UPANISHAD / S'ANDILYA-UPANISHAD  179 / S'ANDILYA-UPANISHAP  183
+    / S'ANDILYA-UPANISHAD  189; lines 8395-8407
+  start: '8395'
+  end: '8407'
+  translation: Thirty Minor Upanishads
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage defines dhyina, as printed, as having saguna and nirguna forms:
+    saguna is meditation of a murti, while nirguna is meditation on the reality of
+    Self. It then defines Satnadhi, as printed, as the union of Jivatma and Paramatma
+    without the threefold state of knower, known, and knowledge, and describes it
+    as extreme bliss and pure consciousness.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage introduces dhyina, as printed, and states that it is of two kinds:
+    saguna and nirguna.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Saguna is defined as meditation of a murti.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nirguna is defined as meditation on the reality of Self.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Satnadhi, as printed, is defined as the union of Jivatma and Paramatma without
+    the threefold state of knower, known, and knowledge.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Satnadhi is described as being of the nature of extreme bliss and pure consciousness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage closes the first chapter of the S'andilya Upanishad.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Jivatma
+  description: The individual self named as one party in the union described as Satnadhi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Paramatma
+  description: The higher self named as one party in the union described as Satnadhi.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: individual self
+  assigned_to:
+  - fig:1
+  basis: The passage glosses Jivatma as the individual self.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: higher self
+  assigned_to:
+  - fig:2
+  basis: The passage glosses Paramatma as the higher self.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: murti
+  literal_form: murti
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: threefold state
+  literal_form: knower, known, and knowledge
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Definition of two forms of meditation
+  summary: The passage classifies dhyina into saguna and nirguna and defines each
+    by its object of meditation.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Union of individual and higher self
+  summary: The passage defines Satnadhi as the union of Jivatma and Paramatma beyond
+    the threefold state, and describes it as extreme bliss and pure consciousness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: two modes of meditation
+  taxonomy_refs: []
+  basis: The passage divides dhyina into saguna and nirguna and assigns each a distinct
+    meditative focus.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a doctrinal classification rather than a narrative motif.
+- id: motif:2
+  label: union of individual self and higher self
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage defines Satnadhi as the union of Jivatma and Paramatma without
+    the knower-known-knowledge triad.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states union and absence of the threefold state, but does
+    not explicitly describe annihilation, death, or a narrative process.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8395-8400
+  quote_or_summary: The passage says dhyina is of two kinds, saguna and nirguna; saguna
+    is meditation of a murti, and nirguna is on the reality of Self.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 8401-8406
+  quote_or_summary: The passage defines Satnadhi as the union of Jivatma, the individual
+    self, and Paramatma, the higher self, without the threefold state of knower, known,
+    and knowledge; it is described as extreme bliss and pure consciousness.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: line 8407
+  quote_or_summary: The passage states that the first chapter of the S'andilya Upanishad
+    ends here.
+  source_text_path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a short doctrinal passage. Terms such as dhyina and
+    Satnadhi are preserved as printed in the supplied passage, though they may reflect
+    OCR or transliteration variation. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy did not include murti or the threefold state, so symbol taxonomy references are empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-minor-upanishads-narayanasvami-aiyar-archive__l8395-l8407
+  passage_sha256=65c4115c5516d9c22910099c5a323ed9f3a306c297795dc21dc916924aaf1889
+

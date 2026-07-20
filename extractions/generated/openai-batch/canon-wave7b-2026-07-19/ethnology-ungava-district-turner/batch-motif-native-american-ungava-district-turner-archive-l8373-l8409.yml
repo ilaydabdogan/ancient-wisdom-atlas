@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l8373-l8409
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: CLOTHING, / THE HUDSON BAY ESKIMO. / PREPARATION OF THE / SKINS FOR CLOTHING,;
+    lines 8373-8409
+  start: '8373'
+  end: '8409'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the water is often lashed into a blood-red foam
+  summary: The passage describes paint cups and a paint stick, explains how prepared
+    paint is placed in the palm and applied with a stick to make lines, notes that
+    artists may imitate fabric designs, and identifies a hematite source at a lake
+    near the headwaters of George's River where wind and freezing affect the red material
+    and water.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Prepared paints are put into vessels before use.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A quantity of paint is taken with the finger and placed in the palm of the
+    hand while the other fingers hold the applying instrument.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The paint stick is drawn through a thin layer of paint on the palm; paint
+    adheres to the edges of the appliance, and guided hand motion produces desired
+    lines.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The eye guides the drawing, including intricate drawing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The artist frequently attempts to imitate delicate designs on a gaudy bandana
+    handkerchief or similar fabric.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The principal source of hematite is a lake near the headwaters of George's
+    River, where it occurs as disintegrated rock along the margin.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Freezing splits quantities from the hematite mass, and wind from the opposite
+    direction can lash the water into blood-red foam.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: artist / paint applicator
+  description: A person applying paint with a stick, guided by hand and eye, and sometimes
+    imitating fabric designs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: paint applicator or artisan
+  assigned_to:
+  - fig:1
+  basis: The passage describes an artist producing painted lines and imitating designs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: paint cup or vessel
+  literal_form: Vessel used to hold prepared paints; captions identify paint cups.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: paint stick / applying instrument
+  literal_form: Instrument drawn through paint on the palm to apply lines.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: palm used as paint surface
+  literal_form: Palm of the hand holding a thin layer of paint before the paint stick
+    is drawn through it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: hematite red pigment source
+  literal_form: Disintegrated hematite rock along the margin of a lake near George's
+    River headwaters.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: lake water with blood-red foam
+  literal_form: Lake water lashed by wind into blood-red foam because of the red material
+    at the margin.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Applying paint with palm and stick
+  summary: Prepared paint is held in a vessel, transferred to the palm, and taken
+    up by a stick or appliance to produce guided lines.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Imitation of fabric designs
+  summary: The artist is said to imitate delicate designs from a bandana handkerchief
+    or similar fabric.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Hematite source at the lake
+  summary: A lake near the headwaters of George's River is identified as the chief
+    hematite source, with disintegrated red rock at the margin and water sometimes
+    whipped into blood-red foam.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8373-8378
+  quote_or_summary: Captions identify paint cups; the prepared paints are put in vessels,
+    and a quantity is taken with a finger and placed in the palm while the other fingers
+    hold the applying instrument.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 8378-8385
+  quote_or_summary: The paint stick is drawn through a thin layer of paint on the
+    other palm, paint adheres to the appliance edges, and guided motion produces lines;
+    the eye guides the drawing.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short summary from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 8385-8390
+  quote_or_summary: The artist frequently attempts to imitate delicate designs on
+    a gaudy bandana handkerchief or similar fabric.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 8390-8409
+  quote_or_summary: The principal hematite source is a lake near the headwaters of
+    George's River; it occurs as disintegrated rock along the margin, freezing splits
+    material from the mass, and strong wind may lash the water into blood-red foam.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short summary from supplied passage.
+- id: ev:5
+  type: citation
+  locator: 8373-8409
+  quote_or_summary: Figure captions in the passage identify paint cup(s) and a paint
+    stick.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; citation/summary from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is an ethnographic description of pigment tools, application
+    technique, and a hematite source. No mythological motif or passage-supported comparative
+    claim is extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythological motifs or comparison claims were recorded because the passage provides a practical technical description rather than a mythic narrative.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l8373-l8409
+  passage_sha256=168af07271a2213a409446aeb3e0292712f86184ae77dd3e55f34313e50a1b2d
+

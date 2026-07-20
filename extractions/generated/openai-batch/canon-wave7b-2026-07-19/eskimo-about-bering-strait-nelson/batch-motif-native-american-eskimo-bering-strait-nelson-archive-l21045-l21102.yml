@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l21045-l21102
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: UNIVERSITY / GAMES    AND    TOYS / TOPS,  BUZZES,  AXD  OTHER  TOYS / THE    ESKIMO    ABOUT    BERING    STRAIT;
+    lines 21045-21102
+  start: '21045'
+  end: '21102'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes children''s toys among Eskimo communities around
+    Bering Strait: animal and bird toys that imitate movement, a lower Yukon toy mouse
+    operated by pulling a cord, carved figures of birds, seals, and other animals
+    made from ivory, bone, wood, or deerhorn, bird images representing waterfowl,
+    and wood or ivory dolls obtained on St. Lawrence Island.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Various toys are described as representing familiar animals or birds and imitating
+    feeding movements.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A toy obtained at Sabotnisky on the lower Yukon consists of a flat rod with
+    holes, a sinew cord, and a narrow strip of fur forming a loop.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When a child pulls the cord of the lower Yukon toy, the fur strip moves in
+    and out of the holes and represents a mouse.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Children have small figures of birds, seals, and other animals carved by their
+    fathers in ivory, bone, and wood.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that ivory is ordinarily used along the seacoast, while
+    bone or deerhorn is more common among tundra or interior river Eskimo.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Bird images usually represent geese, murres, or other waterfowl and are made
+    flat on the lower surface so they sit upright.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The St. Lawrence Island toy bird is presented as an example of such bird images,
+    and the passage says these objects are similar in character to images used in
+    a game among eastern Eskimo.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Dolls made for girls are described among children's toys; two examples from
+    St. Lawrence Island are noted, one of wood and one of ivory.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: children
+  description: Children possess and operate the toys described in the passage, including
+    the cord-operated mouse toy and small animal figures.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: fathers
+  description: Fathers carve small figures of birds, seals, and other animals for
+    children.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: girls
+  description: Girls are identified as the intended recipients or users of dolls made
+    as children's toys.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: child toy user
+  assigned_to:
+  - fig:1
+  basis: The passage describes a child pulling the cord of the mouse toy and states
+    that children have small animal figures.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: carver of children's animal figures
+  assigned_to:
+  - fig:2
+  basis: The passage states that fathers carve small figures of birds, seals, and
+    other animals in ivory, bone, and wood.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: intended doll user
+  assigned_to:
+  - fig:3
+  basis: The dolls are described as made for girls.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cord-operated mouse toy
+  literal_form: Flat rod with holes, sinew cord, and fur loop representing a mouse
+    when pulled.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: carved animal figures
+  literal_form: Small figures of birds, seals, and other animals carved in ivory,
+    bone, and wood.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: upright waterfowl image
+  literal_form: Flat-bottomed bird images representing geese, murres, or other waterfowl.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: dolls for girls
+  literal_form: Wood and ivory dolls from St. Lawrence Island.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: operation of the toy mouse
+  summary: A child pulls a cord on a rod-and-fur toy so that the fur strip moves through
+    holes and represents a mouse.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: carved animal and bird toys
+  summary: Children have carved animal figures made by fathers; materials vary by
+    coastal or inland setting, and bird images represent waterfowl and sit upright.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: St. Lawrence Island dolls
+  summary: Dolls made for girls are described, including wood and ivory examples obtained
+    on St. Lawrence Island.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: toy animal representation with simulated movement
+  taxonomy_refs: []
+  basis: The passage describes toys made to represent familiar animals or birds, including
+    a cord-operated toy that represents a mouse through motion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic toy pattern, not a mythic narrative motif in the
+    passage.
+- id: motif:2
+  label: miniature animal images as children's toys
+  taxonomy_refs: []
+  basis: Children are said to have carved figures of birds, seals, and other animals,
+    including upright waterfowl images.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No ritual or mythic interpretation is stated in the passage.
+- id: motif:3
+  label: gendered doll toy
+  taxonomy_refs: []
+  basis: The passage identifies dolls made for girls and gives wood and ivory examples
+    from St. Lawrence Island.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain symbolic or narrative meaning for the dolls.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the St. Lawrence Island-style bird images are similar
+    in character to images used in a sort of game among eastern Eskimo.
+  claim_level: same_function
+  target: images used in a game among eastern Eskimo
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no details about the eastern Eskimo game, so the
+    comparison is limited to the stated similarity in character and possible toy/game
+    function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21045-21049
+  quote_or_summary: Toys of this character are described as imitating feeding movements
+    and representing familiar animals or birds.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 21054-21070
+  quote_or_summary: Figure 124 is described as a lower Yukon toy made from a flat
+    perforated rod, sinew cord, and fur loop; a child pulls the cord so the fur moves
+    through the holes, representing a mouse.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 21071-21079
+  quote_or_summary: Children have small figures of birds, seals, and other animals
+    carved by fathers in ivory, bone, and wood; the preferred material varies by coastal
+    or inland setting.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: 21080-21089
+  quote_or_summary: Bird images usually represent geese, murres, or other waterfowl,
+    sit upright because of a flat lower surface, and are said to resemble images used
+    in a game among eastern Eskimo.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: 21090-21102
+  quote_or_summary: Dolls made for girls are described among children's toys; two
+    St. Lawrence Island examples are noted, one of wood and one of ivory.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal toy descriptions are clear. Motif candidates are framed as material-culture
+    patterns because the passage contains no mythic narrative or stated ritual symbolism.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied, since the passage does not support those specific taxonomy categories.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l21045-l21102
+  passage_sha256=d5874503853994c564e9c91cf03068dac2af78bb9ab661f368da53526e8a87f7
+

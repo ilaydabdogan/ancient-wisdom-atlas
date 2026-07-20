@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l22210-l22221
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: SUBTEBBANEAN POWEBS. / SUBAQUATIC POWEBS. / ANIMALS AS WAKANTAS. / APOTHEOSES.;
+    lines 22210-22221
+  start: '22210'
+  end: '22221'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports that the Iowa regarded buffaloes as gods and addressed
+    them as Grandfathers. It also describes a doctor handling a joint-snake, calling
+    it his god and good medicine, putting its head into his mouth, and biting it twice.
+    A final note says human beings may become gods and compares this idea, in that
+    respect, to Mormons.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Iowa often spoke about buffaloes as beings they regarded as gods.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The buffaloes were addressed as Grandfathers.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One doctor received or took a joint-snake that was handed to him by another
+    doctor.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The doctor called the joint-snake his god and described it as good medicine.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The doctor put the joint-snake's head into his mouth and bit it twice.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that human beings may become gods.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage compares this belief about human beings becoming gods to Mormons
+    in that respect.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Iowa
+  description: A people said to speak of buffaloes as gods and to address them as
+    Grandfathers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: buffaloes
+  description: Animals regarded by the Iowa as gods and addressed as Grandfathers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: doctor with joint-snake
+  description: A doctor who handled a joint-snake, called it his god and good medicine,
+    and bit it twice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: another doctor
+  description: A doctor who handed the joint-snake to the first doctor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: joint-snake
+  description: A snake called the doctor's god and good medicine.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: human beings
+  description: Human beings described as capable of becoming gods.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Mormons
+  description: A group used in the passage as a comparison for the idea that human
+    beings may become gods.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: speakers who regard animals as gods
+  assigned_to:
+  - fig:1
+  basis: The Iowa are reported as speaking about buffaloes as gods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: animal gods addressed by kinship title
+  assigned_to:
+  - fig:2
+  basis: Buffaloes are regarded as gods and addressed as Grandfathers.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: doctors
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Both human figures are called doctors in the passage.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: personal god and good medicine
+  assigned_to:
+  - fig:5
+  basis: The joint-snake is called the doctor's god and good medicine.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: beings capable of becoming gods
+  assigned_to:
+  - fig:6
+  basis: The passage states that human beings may become gods.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: comparison group
+  assigned_to:
+  - fig:7
+  basis: The passage says the belief about human beings becoming gods is like the
+    Mormons in this respect.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: buffaloes as gods
+  literal_form: buffaloes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Grandfathers address
+  literal_form: kinship title “Grandfathers” used for buffaloes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: joint-snake as god and medicine
+  literal_form: joint-snake
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: biting the snake twice
+  literal_form: putting the snake's head in the mouth and biting it twice
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Iowa address buffaloes as divine Grandfathers
+  summary: The Iowa are reported to speak of buffaloes as gods and to address them
+    as Grandfathers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Doctor handles joint-snake as god and medicine
+  summary: A doctor takes a joint-snake from another doctor, calls it his god and
+    good medicine, puts its head into his mouth, and bites it twice.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Statement of human apotheosis
+  summary: The passage says human beings may become gods and compares this idea to
+    Mormons in that respect.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: animals regarded as gods
+  taxonomy_refs: []
+  basis: The passage reports buffaloes regarded as gods and a joint-snake called a
+    god and good medicine.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is ethnographic report, not a narrative episode, and gives
+    limited ritual context.
+- id: motif:2
+  label: sacred serpent or medicine snake
+  taxonomy_refs:
+  - serpent
+  basis: The joint-snake is treated as the doctor's god and good medicine during a
+    physical ritualized act.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The text says joint-snake and does not elaborate a serpent narrative or
+    broader serpent mythology.
+- id: motif:3
+  label: human beings may become gods
+  taxonomy_refs: []
+  basis: The passage directly states that human beings may become gods.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief statement and no process, conditions, or
+    story of transformation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the belief that human beings may become gods
+    to Mormons in that respect.
+  claim_level: same_motif
+  target: Mormons; belief that human beings may become gods as described in the passage
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies no details about Mormon doctrine and does not
+    assert historical contact, borrowing, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22210-22214
+  quote_or_summary: Under “ANIMALS AS WAKANTAS,” Hamilton reports that the Iowa spoke
+    of buffaloes as gods and addressed them as Grandfathers.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 22214-22218
+  quote_or_summary: Hamilton tells of a doctor who took a joint-snake handed by another
+    doctor, called it his god and good medicine, put its head into his mouth, and
+    bit it twice.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 22220-22221
+  quote_or_summary: "“human beings may become gods” and “in this respect they are
+    like the Mormons.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on a short public-domain passage. Motif labels are
+    descriptive because the passage is a brief ethnographic note rather than a full
+    myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact claim is made; the only comparison recorded is the one explicitly stated in the passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l22210-l22221
+  passage_sha256=7d05c6f5014efbcb478328ab25c9a26c9e4f808b5b10fcb9a4aee3865ef8847e
+

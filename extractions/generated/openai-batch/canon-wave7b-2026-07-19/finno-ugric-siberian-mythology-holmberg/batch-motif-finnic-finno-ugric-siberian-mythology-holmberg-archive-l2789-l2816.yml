@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.finnic-finno-ugric-siberian-mythology-holmberg-archive-l2789-l2816
+source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+passage_locator:
+  label: MEMORIAL  FEASTS / PLATE  V / MEMORIAL  FEASTS / CHAPTER  IV; lines 2789-2816
+  start: '2789'
+  end: '2816'
+  translation: Finno-Ugric, Siberian Mythology
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A plate caption names a sacrificial tree of the dead among the Eastern
+    Votiaks. In the memorial-feast context, an unnamed speaker offers pancakes and
+    a candle while asking to be made well and not touched. Agricola is cited as saying
+    that the deceased, called Manninkaiset, received offerings when Finnish widows
+    remarried.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The plate caption identifies a sacrificial tree of the dead among the Eastern
+    Votiaks.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A speaker asks to be made well again and presents pancakes and a candle, telling
+    the recipient to eat and not touch the speaker anymore.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Agricola is cited as describing Finnish widows making offerings to the deceased,
+    called Manninkaiset, when the widows remarried.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage appears under the heading of memorial feasts.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eastern Votiaks
+  description: The people among whom the plate caption locates the sacrificial tree
+    of the dead.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed speaker or man
+  description: A fragmentary passage presents a man or speaker making a request for
+    wellness and giving pancakes and a candle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the deceased / Manninkaiset
+  description: The deceased, named in parentheses as Manninkaiset, are said to receive
+    offerings when widows remarried.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Finnish widows
+  description: Widows described as giving offerings to the deceased when they remarried.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: community associated with a sacrificial tree of the dead
+  assigned_to:
+  - fig:1
+  basis: The plate caption places the sacrificial tree of the dead among the Eastern
+    Votiaks.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: supplicant and offering-giver
+  assigned_to:
+  - fig:2
+  basis: The speaker asks to be made well and offers pancakes and a candle.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceased recipients of offerings
+  assigned_to:
+  - fig:3
+  basis: Agricola’s cited statement says the deceased received offerings.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: widow offering-givers at remarriage
+  assigned_to:
+  - fig:4
+  basis: The passage says Finnish widows gave offerings when they remarried.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sacrificial tree of the dead
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pancakes
+  literal_form: pancakes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: candle
+  literal_form: candle
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: offerings to the deceased
+  literal_form: offerings
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sacrificial tree caption
+  summary: The plate caption identifies a sacrificial tree of the dead among the Eastern
+    Votiaks.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Offering speech for wellness and non-contact
+  summary: An unnamed speaker offers pancakes and a candle while asking to be made
+    well and not touched anymore.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Widow remarriage offerings to the deceased
+  summary: Finnish widows are said to give offerings to the deceased, or Manninkaiset,
+    when they remarry.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sacrificial tree of the dead
+  taxonomy_refs:
+  - sacrifice
+  basis: The plate caption explicitly names a sacrificial tree associated with the
+    dead among the Eastern Votiaks.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The caption provides no ritual procedure or narrative context beyond the
+    object’s name.
+- id: motif:2
+  label: food and candle offering in exchange for wellness and non-harm
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The speaker offers pancakes and a candle, tells the recipient to eat, and
+    asks to be made well and not touched anymore.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is fragmentary and does not identify the addressee in the
+    quoted lines.
+- id: motif:3
+  label: offerings to deceased at widow remarriage
+  taxonomy_refs:
+  - sacrifice
+  basis: Agricola is cited as saying that the deceased received offerings when Finnish
+    widows remarried.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief report and does not describe the contents
+    or full ritual sequence of the offerings.
+comparison_claims:
+- id: claim:1
+  claim: Within this passage, the Eastern Votiak sacrificial tree of the dead and
+    the Finnish widow-remarriage offerings both participate in a broader pattern of
+    ritual offering connected with the dead.
+  claim_level: same_function
+  target: offerings to the dead in Eastern Votiak and Finnish contexts as presented
+    in the passage
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage juxtaposes a plate caption and a brief cited custom; it
+    does not provide enough evidence for historical contact, common inheritance, or
+    detailed ritual equivalence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2789-2795
+  quote_or_summary: "“Sacrificial Tree of the Dead Among the Eastern Votiaks”"
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 2804-2808
+  quote_or_summary: "“Make me well again. Here are pancakes and a candle, eat and
+    do not touch me any more.”"
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 2808-2814
+  quote_or_summary: "“The deceased (Manninkaiset) also received their offerings when
+    widows re-married.”"
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:4
+  type: quote
+  locator: line 2802
+  quote_or_summary: "“MEMORIAL FEASTS”"
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; short excerpt used for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is short and partly fragmentary, beginning mid-sentence and including
+    OCR-like plate material. The offering-to-dead pattern is clear in the cited widow
+    custom, while the speaker’s addressee is not identified in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No claims of historical contact or common inheritance are made.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:finnic-finno-ugric-siberian-mythology-holmberg-archive__l2789-l2816
+  passage_sha256=b076ced48a9bacbf660887eb3416741c943724ddcc923042628949416dde815f
+

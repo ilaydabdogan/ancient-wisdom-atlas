@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l40017-l40026
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CLV / SECTION CLVI / SECTION CLVII / SECTION CLVIII; lines 40017-40026
+  start: '40017'
+  end: '40026'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Gain and loss, weal and woe, the agreeable and the disagreeable, life and
+    death, are equal..."'
+  summary: A speaker describes high-souled persons who are free from pride, rooted
+    in goodness, impartial toward all, and engaged in divine knowledge, tranquillity,
+    and righteousness. The addressee is told to restrain the senses, avoid heedlessness,
+    and worship such virtuous persons. The speaker adds that words produce good only
+    through the favour of the gods; otherwise they may produce evil consequences.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage describes certain persons as free from pride, wedded to goodness,
+    and as casting an equal eye on all.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gain and loss, weal and woe, agreeable and disagreeable things, and life and
+    death are said to be equal in the eyes of firm persons pursuing divine knowledge.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same persons are described as devoted to the path of tranquillity and
+    righteousness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The addressee is instructed to keep the senses under restraint and not yield
+    to heedlessness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The addressee is instructed to worship high-souled persons who love virtue.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker states that words become productive of good only through the favour
+    of the gods, and that otherwise words produce evil consequences.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: high-souled persons pursuing divine knowledge
+  description: Persons described as free from pride, wedded to goodness, impartial
+    toward opposites, and devoted to tranquillity and righteousness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the blessed addressee
+  description: The person addressed as “O blessed one” and instructed to restrain
+    the senses, avoid heedlessness, and worship virtuous high-souled persons.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the gods
+  description: Divine beings whose favour is said to make words productive of good.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: equanimous seekers of divine knowledge
+  assigned_to:
+  - fig:1
+  basis: They are described as pursuing divine knowledge, seeing opposites equally,
+    and being devoted to tranquillity and righteousness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: instructed recipient
+  assigned_to:
+  - fig:2
+  basis: The passage directly instructs the addressee to restrain the senses, avoid
+    heedlessness, and worship virtuous high-souled persons.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: source of favour affecting speech
+  assigned_to:
+  - fig:3
+  basis: The gods’ favour is identified as the condition under which words become
+    productive of good.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: equal eye
+  literal_form: "“an equal eye on all”"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: path of tranquillity and righteousness
+  literal_form: "“the path of tranquillity and righteousness”"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Description of equanimous holy persons
+  summary: The passage characterizes high-souled persons as free from pride, established
+    in goodness, impartial toward all, and equal-minded toward paired opposites while
+    pursuing divine knowledge.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Instruction on restraint, worship, and divine favour
+  summary: The addressee is told to restrain the senses, avoid heedlessness, and worship
+    virtuous high-souled persons; the speaker adds that beneficial speech depends
+    on the favour of the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Equanimity toward paired opposites
+  taxonomy_refs:
+  - wisdom
+  basis: The passage lists gain and loss, weal and woe, agreeable and disagreeable,
+    and life and death as equal in the eyes of those pursuing divine knowledge.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a didactic ethical motif rather than a narrative episode.
+- id: motif:2
+  label: Sense restraint as the discipline of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The addressee is instructed to keep the senses restrained, avoid heedlessness,
+    and revere high-souled persons devoted to virtue.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage states the discipline directly; it does not narrate a test
+    or initiation sequence.
+- id: motif:3
+  label: Beneficial speech dependent on divine favour
+  taxonomy_refs: []
+  basis: The speaker says words become productive of good only through the favour
+    of the gods, and otherwise produce evil consequences.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No specific god, ritual, or narrative outcome is named in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 40017-40018
+  quote_or_summary: "“freed from pride, they are wedded to the quality of goodness,
+    and they cast an equal eye on all.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 40018-40021
+  quote_or_summary: Gain and loss, weal and woe, agreeable and disagreeable things,
+    and life and death are said to be equal to firm persons pursuing divine knowledge
+    and the path of tranquillity and righteousness.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 40021-40024
+  quote_or_summary: The addressee is instructed to restrain the senses, avoid heedlessness,
+    and worship high-souled persons who love virtue.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 40024-40026
+  quote_or_summary: "“one's words become productive of good only through the favour
+    of the gods. Under other circumstances, words produce evil consequence.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and didactic, supporting clear extraction of ethical
+    attributes and wisdom-related motifs but not historical or cross-text comparison
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not provide a specific cross-text comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l40017-l40026
+  passage_sha256=de1e316f6f978b1497d1b3baf6bb50f1c7708b20b91c5cd7e6fb781ced45ec80
+

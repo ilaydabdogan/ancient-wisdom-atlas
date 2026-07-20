@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.arctic-inuit-across-arctic-america-rasmussen-archive-l3478-l3491
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+passage_locator:
+  label: CHAPTER VII / WITH NO EDITORS TO SPOIL / THE OWL THAT WOOED A SNOW BUNTING
+    / THE RAVEN AND THE LOON; lines 3478-3491
+  start: '3478'
+  end: '3491'
+  translation: 'Across Arctic America: Narrative of the Fifth Thule Expedition'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In olden days all birds were white. Raven and loon draw patterns on each
+    other's feathers. Loon dislikes raven's pattern and spits over raven, making ravens
+    black. Raven retaliates by beating loon's legs, explaining why the loon is awkward
+    on land. A note says there is a Greenland version of the tale.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that in olden days all birds were white.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Raven and loon began drawing patterns on each other's feathers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Raven began the pattern-drawing sequence and finished a pattern on loon.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: Loon was displeased with the pattern and spat over raven, making raven black
+    all over.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage gives this event as the reason all ravens have been black since
+    that day.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Raven became angry and beat loon about the legs so that loon could hardly
+    walk.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage gives the beating of loon's legs as the reason loon is awkward
+    on land.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A parenthetical note states that there is a Greenland version of this tale.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Raven
+  description: A bird who draws patterns on loon's feathers, is spat on and made black,
+    and then attacks loon's legs.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Loon
+  description: A bird who participates in feather-pattern drawing, dislikes raven's
+    pattern, spits over raven, and is beaten about the legs.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: reciprocal feather-pattern drawer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Raven and loon draw patterns on each other's feathers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: displeased blackener
+  assigned_to:
+  - fig:2
+  basis: Loon is displeased with the pattern and spits over raven, making raven black.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: blackened bird and origin figure for raven color
+  assigned_to:
+  - fig:1
+  basis: Raven is made black all over, and the passage states that all ravens have
+    been black since.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: retaliating attacker
+  assigned_to:
+  - fig:1
+  basis: Raven becomes angry and beats loon about the legs.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: injured bird and origin figure for loon land-gait
+  assigned_to:
+  - fig:2
+  basis: Loon's legs are beaten so that it can hardly walk, explaining its awkwardness
+    on land.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: primordial white birds
+  literal_form: All birds were white in the olden days.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: feather patterns
+  literal_form: Patterns drawn on each other's feathers by raven and loon.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: spitting that blackens raven
+  literal_form: Loon spits all over raven and makes it black all over.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: black raven plumage
+  literal_form: Raven is made black all over; all ravens have been black since that
+    day.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: beaten legs and awkward land movement
+  literal_form: Raven beats loon about the legs so it can hardly walk; loon is awkward
+    on land.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Reciprocal feather-pattern drawing
+  summary: In the olden days when all birds were white, raven and loon draw patterns
+    on each other's feathers, with raven beginning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Loon blackens raven
+  summary: After raven finishes a pattern, loon is displeased and spits over raven,
+    making raven black and explaining raven plumage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Raven injures loon
+  summary: Raven retaliates by beating loon's legs, explaining why loon is awkward
+    on land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Etiology of raven's black color
+  taxonomy_refs: []
+  basis: The tale explains that loon spat over raven and made it black, after which
+    all ravens have been black.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No available taxonomy reference directly names animal-color etiology.
+- id: motif:2
+  label: Etiology of loon's awkwardness on land
+  taxonomy_refs: []
+  basis: The tale explains loon's awkward land movement as the result of raven beating
+    loon's legs.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference directly names gait or bodily-trait etiology.
+- id: motif:3
+  label: Mutual alteration and retaliation between animal figures
+  taxonomy_refs: []
+  basis: 'Raven and loon alter each other: loon blackens raven after disliking the
+    pattern, and raven retaliates by injuring loon''s legs.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The label abstracts a pattern from this short tale; the passage does not
+    name it as a formal motif.
+- id: motif:4
+  label: Loss of primordial uniform whiteness among birds
+  taxonomy_refs: []
+  basis: The passage begins with all birds white and then narrates a specific change
+    that makes ravens black.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage only describes the change for ravens, not the full diversification
+    of all bird appearances.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself notes that a Greenland version of this tale exists, supporting
+    a cautious same-tale or same-motif comparison with a Greenland version.
+  claim_level: same_motif
+  target: Greenland version of 'The Raven and the Loon' mentioned in the parenthetical
+    note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No details of the Greenland version are included in the passage, so
+    variant features, direction of transmission, and historical contact cannot be
+    assessed from this evidence alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3478-3482
+  quote_or_summary: The passage is titled 'The Raven and the Loon' and says that in
+    olden days all birds were white; raven and loon set about drawing patterns on
+    each other's feathers.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: 3482-3486
+  quote_or_summary: Raven begins and finishes; loon is displeased with the pattern,
+    spits over raven, makes it black all over, and the tale says all ravens have been
+    black since.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: 3486-3489
+  quote_or_summary: Raven becomes angry, beats loon about the legs so it can hardly
+    walk, and the tale says this is why loon is awkward on land.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: quote
+  locator: '3491'
+  quote_or_summary: There is a Greenland version of this.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward. Motif labels are descriptive because
+    the supplied taxonomy has no direct animal-trait etiology category. The comparison
+    claim is limited to the passage's brief note about a Greenland version.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family or symbol reference was assigned because the available lists do not directly match the passage's bird-color and gait etiologies.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:arctic-inuit-across-arctic-america-rasmussen-archive__l3478-l3491
+  passage_sha256=f2eeadac306ccaae489d361e2936e2fbb932e9c35a30b0b49f49990b302b71d8
+

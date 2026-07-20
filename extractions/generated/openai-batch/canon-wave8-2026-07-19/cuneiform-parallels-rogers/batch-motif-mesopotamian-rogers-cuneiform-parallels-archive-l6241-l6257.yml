@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.mesopotamian-rogers-cuneiform-parallels-archive-l6241-l6257
+source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+passage_locator:
+  label: SECOND TABLET / THIRD TABLET / FOURTH TABLET / FIFTH TABLET; lines 6241-6257
+  start: '6241'
+  end: '6257'
+  translation: Cuneiform Parallels to the Old Testament
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: They view the cedar mountain, home of the gods, sanctuary of Irnini.
+  summary: Gilgamesh and Engidu approach and view the cedar forest and its entrance,
+    described with cedars, a high door, roads, a cedar mountain, a divine home, and
+    Irnini's sanctuary. The prose summary reports Khumbaba preparing for conflict,
+    two encouraging dreams of Engidu, a lost contest account, the friends' victory,
+    and their joyful return to Uruk, probably with Irnini's long-lost statue.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The approaching figures stand still, look at the Forest, and regard the height
+    of the cedars.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They contemplate the Forest entrance and the high door where Khumbaba enters;
+    the roads and path are described as well made.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: They view the cedar mountain, described as the home of the gods and the sanctuary
+    of Irnini.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prose summary reports that an account of Khumbaba's preparations for the
+    fray follows.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The prose summary reports two dreams of Engidu whose purport was to encourage
+    Gilgamesh to expect success.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The account of the contest is said to be lost, but its issue is reported as
+    a great victory for the two friends.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The two friends return joyously to Uruk, probably bringing the long-lost statue
+    of Irnini.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Gilgamesh
+  description: Named as the one encouraged by Engidu's dreams to expect success; included
+    among the two friends who win and return.
+  role_refs:
+  - role:1
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Engidu
+  description: Named as the dreamer of two dreams; included among the two friends
+    who win and return.
+  role_refs:
+  - role:1
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Khumbaba
+  description: Associated with the high door where he enters and with preparations
+    for the fray.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Irnini
+  description: A goddess whose sanctuary is at the cedar mountain and whose long-lost
+    statue is probably brought back to Uruk.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: the gods
+  description: Collective divine figures for whom the cedar mountain is described
+    as home.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: forest approachers and observers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes the two figures standing still, looking at the Forest,
+    and viewing the cedar mountain; the prose summary identifies the victorious pair
+    as two friends.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: dreamer
+  assigned_to:
+  - fig:2
+  basis: The prose summary reports two dreams of Engidu.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipient of encouragement
+  assigned_to:
+  - fig:1
+  basis: The dreams are said to encourage Gilgamesh to expect success.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: opponent preparing for fray
+  assigned_to:
+  - fig:3
+  basis: Khumbaba is linked to the high door and is reported to make preparations
+    for the fray.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: goddess of the sanctuary and statue
+  assigned_to:
+  - fig:4
+  basis: The cedar mountain is called the sanctuary of Irnini, and the returning friends
+    probably bring the long-lost statue of the goddess Irnini.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:6
+  label: victorious returning friends
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The issue of the contest is reported as a great victory for the two friends,
+    who return joyously to Uruk.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: divine residents
+  assigned_to:
+  - fig:5
+  basis: The cedar mountain is described as the home of the gods.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: cedar forest and cedars
+  literal_form: Forest; height of the cedars
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Forest entrance and high door
+  literal_form: entrance to the Forest; high door where Khumbaba enters
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: roads and path
+  literal_form: well-made roads and path
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: cedar mountain
+  literal_form: cedar mountain, home of the gods
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: sanctuary of Irnini
+  literal_form: sanctuary of Irnini
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: two dreams of Engidu
+  literal_form: two dreams of Engidu
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: long-lost statue of Irnini
+  literal_form: long lost statue of the goddess Irnini
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Viewing the cedar forest and divine mountain
+  summary: The two friends stand before the Forest, inspect the cedars, the entrance,
+    the high door, the roads and path, and view the cedar mountain as a divine home
+    and Irnini's sanctuary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Preparations and encouraging dreams
+  summary: The prose summary reports Khumbaba's preparations for the fray and two
+    dreams of Engidu that encourage Gilgamesh to expect success.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Lost contest, victory, and return to Uruk
+  summary: Although the contest account is lost, the reported issue is a great victory
+    for the two friends, who return joyously to Uruk, probably carrying Irnini's long-lost
+    statue.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacred cedar mountain as divine home
+  taxonomy_refs:
+  - cosmic_mountain
+  - sacred_tree_axis
+  basis: The passage describes a cedar mountain as the home of the gods and the sanctuary
+    of Irnini.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly describe an axis mundi or cosmic structure;
+    the taxonomy links rest on the combined imagery of cedars, mountain, and divine
+    habitation.
+- id: motif:2
+  label: heroic approach to a dangerous sacred forest
+  taxonomy_refs:
+  - mystical_quest
+  basis: The two friends inspect the cedar Forest and its entrance, Khumbaba prepares
+    for the fray, and the contest ends in their victory.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The account of the contest is lost, and the passage gives only a summary
+    of the conflict.
+- id: motif:3
+  label: encouraging dream omen before conflict
+  taxonomy_refs:
+  - wisdom
+  basis: Two dreams of Engidu are summarized as encouraging Gilgamesh to expect success
+    before the contest.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The contents of the dreams are not preserved in the provided passage,
+    so the omen or wisdom function is inferred only from the stated purport.
+- id: motif:4
+  label: victorious return after contest
+  taxonomy_refs:
+  - return
+  basis: The issue of the contest is reported as a great victory for the two friends,
+    who return joyously to Uruk.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The possible return of Irnini's statue is qualified in the passage as
+    probable rather than certain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6241-6246
+  quote_or_summary: The figures stand still and look at the Forest, regard the cedars'
+    height, contemplate the Forest entrance and high door where Khumbaba enters, and
+    see well-made roads and path.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 6247-6248
+  quote_or_summary: They view the cedar mountain, described as the home of the gods
+    and sanctuary of Irnini.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6249-6253
+  quote_or_summary: The prose summary reports Khumbaba's preparations for the fray
+    and two dreams of Engidu whose purport was to encourage Gilgamesh to expect success.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 6253-6257
+  quote_or_summary: The contest account is lost; its issue is reported as a great
+    victory for the two friends, who return joyously to Uruk, probably bringing the
+    long-lost statue of Irnini.
+  source_text_path: texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the provided verse and prose summary. Motif candidates
+    involving cosmic mountain, sacred tree axis, and wisdom/dream omen require review
+    because the passage is brief and the contest narrative is explicitly lost.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were extracted because the passage itself does not explicitly compare this episode with another text, tradition, or motif family beyond the candidate motif classification.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:mesopotamian-rogers-cuneiform-parallels-archive__l6241-l6257
+  passage_sha256=3cd51f67af0121bdcaf80214f3f385e0d9769c85748a9c3fbaace99cff3de410
+

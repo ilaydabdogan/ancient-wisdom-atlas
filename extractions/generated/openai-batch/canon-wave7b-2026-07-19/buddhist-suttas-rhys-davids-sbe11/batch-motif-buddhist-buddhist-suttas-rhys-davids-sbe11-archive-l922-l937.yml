@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.buddhist-buddhist-suttas-rhys-davids-sbe11-archive-l922-l937
+source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+passage_locator:
+  label: GENERAL INTRODUCTION. / THE BUDDHIST SUTTAS. / GENERAL INTRODUCTION. / XXV11;
+    lines 922-937
+  start: '922'
+  end: '937'
+  translation: Buddhist Suttas (Sacred Books of the East, Vol. 11)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the Mango-grove is surrounded to him with all the poetry
+  summary: The passage describes the Mango-grove as filled with poetic and tender
+    associations for an unnamed referent, and compares its devotional resonance to
+    the Christian names Bethany and the Mount of Olives. The speaker then asks for
+    kindly consideration of this first English translation volume from prose portions
+    of the Pāli Piṭakas.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the Mango-grove is surrounded with poetry and associated
+    with tender memories for an unnamed male referent.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage compares those associations with the associations that Bethany
+    or the Mount of Olives have for devout and earnest Christians.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The first-person speaker asks for kindly consideration for a first volume
+    of English translations from prose portions of the Pāli Piṭakas.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage refers to an unnamed male referent's highest ideal of what is
+    wise, great, and kind.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed male referent
+  description: An unidentified referent indicated by 'his' and 'him,' for whom the
+    Mango-grove has poetic and tender associations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: devout and earnest Christian
+  description: A comparative collective figure for whom the names Bethany and the
+    Mount of Olives carry significant associations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: first-person speaker
+  description: The speaker who asks for kindly consideration of the translation volume.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: bearer of devotional memory
+  assigned_to:
+  - fig:1
+  basis: The Mango-grove is described as poetic and full of tender memories for this
+    referent.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: comparative devotional audience
+  assigned_to:
+  - fig:2
+  basis: The passage uses devout and earnest Christians as the comparison group for
+    associations with Bethany or the Mount of Olives.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: translatorial speaker
+  assigned_to:
+  - fig:3
+  basis: The speaker refers to a first volume of English translations and asks for
+    kindly consideration.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Mango-grove
+  literal_form: Mango-grove
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Bethany
+  literal_form: Bethany
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Mount of Olives
+  literal_form: Mount of Olives
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Devotional-place comparison
+  summary: The passage presents the Mango-grove as a place of poetic and tender association,
+    then compares that function to the Christian associations of Bethany and the Mount
+    of Olives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Request for consideration of translation volume
+  summary: The first-person speaker asks readers for kindly consideration of a first
+    English translation volume from prose portions of the Pāli Piṭakas.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: devotional memory attached to a sacred place
+  taxonomy_refs: []
+  basis: The passage describes a named grove as surrounded by poetry and tender memories,
+    and explicitly compares it to Christian places that carry devotional associations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is introductory prose rather than a mythic narrative; the
+    sacred or devotional status of the Mango-grove is inferred from the comparison,
+    not narrated as ritual action.
+- id: motif:2
+  label: ideal of wisdom, greatness, and kindness
+  taxonomy_refs:
+  - wisdom
+  basis: The passage refers to an unnamed male referent's highest ideal of what is
+    wise, great, and kind.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The sentence is fragmentary within the supplied excerpt, and the referent
+    of 'his' is not identified in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Mango-grove's poetic and tender associations
+    for the unnamed referent to the devotional associations of Bethany and the Mount
+    of Olives for devout Christians.
+  claim_level: same_function
+  target: Christian devotional associations with Bethany and the Mount of Olives
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is rhetorical and functional only; the passage does
+    not claim historical contact, common inheritance, or identical mythic content.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 924-927
+  quote_or_summary: '"the Mango-grove is surrounded to him with all the poetry" and
+    associated with "tender memories"'
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 927-930
+  quote_or_summary: '"to the devout and earnest Christian are wrapped up in such names
+    as Bethany or the Mount of Olives"'
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 930-937
+  quote_or_summary: The speaker says he asks kindly consideration for this first volume
+    of English translations from prose portions of the Pāli Piṭakas.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 922-923
+  quote_or_summary: '"his highest ideal of what is wise and great and kind"'
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; short excerpt used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The explicit place-comparison is clear, but the excerpt is introductory commentary
+    with fragmentary pronoun reference and limited mythic narrative content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or common-origin claim is made; the only comparison recorded is the passage's explicit functional analogy.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-buddhist-suttas-rhys-davids-sbe11-archive__l922-l937
+  passage_sha256=c8c030f873eeb6fb7d042ab7a05f2bdde83465fc546a854d6c95ad9037c748b7
+

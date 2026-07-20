@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l100326-l100410
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ADHYAYA 7, / ARANYAKA III / ADHYAYA 1. / KEITH R; lines 100326-100410
+  start: '100326'
+  end: '100410'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The supplied range is a mixed scholarly and translated passage. The readable
+    main text presents teachings on the phonetic or ritual ''union'' of syllables:
+    Madhyama identifies the intervening mora or ''sliding'' as union; a cited Rsi
+    invokes Brhaspati and says nothing higher than the sliding is known; one who knows
+    this union gains children, cattle, fame, glory, heaven, and full lifespan. Taruksya
+    then identifies the union with the Brhat and Rathantara Samans, equating Rathantara
+    with speech and Brhat with breath. A surrounding note discusses difficult curse
+    formulas involving rebuke and grasping breath or beam.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Madhyama says the syllables are pronounced by their letters, neither entirely
+    separated nor absolutely united.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mora between the former and latter halves is said to indicate the union
+    and is identified as the sliding.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Rsi is cited as addressing Brhaspati and saying that nothing higher than
+    the sliding is known.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Knowing this union is said to bring children, cattle, fame, glory, the world
+    of heaven, and a full span of days.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Taruksya says the union is formed by the Brhat and Rathantara Samans, identifying
+    Rathantara with speech and Brhat with breath.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A surrounding note describes difficult curse formulas involving rebuking another
+    and attempts to grasp the breath or beam, while emphasizing uncertainty about
+    the sense.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Madhyama
+  description: Named speaker who teaches how syllables are pronounced and identifies
+    the sliding with union.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Unnamed Rsi
+  description: A seer cited as also speaking a verse about the sliding.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Brhaspati
+  description: Figure addressed in the cited Rigvedic verse about the sliding.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Taruksya
+  description: Named speaker who says the union is formed by the Brhat and Rathantara
+    Samans and identifies them with breath and speech.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: teacher or speaker on union
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Madhyama and Taruksya each state a teaching about the union.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: cited seer
+  assigned_to:
+  - fig:2
+  basis: The passage introduces an unnamed Rsi as saying a supporting verse.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: addressed divine name in cited verse
+  assigned_to:
+  - fig:3
+  basis: The cited verse directly addresses Brhaspati.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: interpreter of Samans as speech and breath
+  assigned_to:
+  - fig:4
+  basis: Taruksya equates Rathantara with speech and Brhat with breath.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sliding
+  literal_form: The mora between former and latter halves that indicates union.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: union
+  literal_form: A joining that is neither complete separation nor absolute fusion,
+    also formed by Brhat and Rathantara.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: Brhat and Rathantara Samans
+  literal_form: Two Samans said to form the union.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: speech and breath
+  literal_form: Rathantara is identified as speech; Brhat is identified as breath.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: breath or beam in curse formulas
+  literal_form: Breath or beam described in the note as something grasped or sought
+    to be grasped in rebuke formulas.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Madhyama's teaching on sliding as union
+  summary: Madhyama describes a mode of pronouncing syllables and identifies the intermediate
+    mora, the sliding, as union; a Rsi's verse to Brhaspati is cited in support, and
+    knowledge of the union is said to confer benefits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Taruksya's speech-breath formulation
+  summary: Taruksya explains the union through the Brhat and Rathantara Samans, equating
+    them with breath and speech.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Commentarial note on difficult curses
+  summary: A surrounding note discusses curse or rebuke formulas involving the grasping
+    of breath or beam and states that the sense is uncertain.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Knowledge of union grants worldly and heavenly benefits
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says that the one who knows this union obtains children, cattle,
+    fame, glory, heaven, and full lifespan.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents a knowledge-benefit formula, not a narrative quest;
+    the taxonomy fit is broad.
+- id: motif:2
+  label: Complementary union of speech and breath
+  taxonomy_refs:
+  - duality
+  basis: Taruksya identifies the union as formed by Brhat and Rathantara, with Rathantara
+    as speech and Brhat as breath.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The duality is ritual and phonetic-theological rather than a narrative
+    pair of beings.
+- id: motif:3
+  label: Threshold sound between separation and fusion
+  taxonomy_refs: []
+  basis: Madhyama describes pronunciation as neither complete separation nor absolute
+    union, with the intervening sliding indicating union.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: No supplied taxonomy reference exactly matches sacred sound or phonetic
+    liminality.
+- id: motif:4
+  label: Curse or rebuke formula involving grasping breath or beam
+  taxonomy_refs: []
+  basis: A note describes curses in which a rebuker or other speaker uses formulas
+    about grasping the breath or beam.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage itself says these curses offer serious difficulties and that
+    certainty about the sense is not possible.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links its teaching on the sliding to Rigveda II, 23,
+    16 by citing a Rsi's verse addressed to Brhaspati.
+  claim_level: same_function
+  target: Rigveda II, 23, 16 as quoted in the passage
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an explicit internal citation, not evidence for broader historical
+    contact beyond the cited textual relation.
+- id: claim:2
+  claim: The surrounding note compares the discussed curse material with difficult
+    curse passages in Sankhayana Aranyaka VII, 8-9.
+  claim_level: same_function
+  target: Sankhayana Aranyaka VII, 8-9 curse passages
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison concerns textual difficulty and curse formulas; the
+    note does not establish an exact shared motif or historical dependence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Aitareya Aranyaka III, 1, 5 within supplied lines 100326-100410
+  quote_or_summary: Madhyama says, "One pronounces these syllables by their letters,
+    neither separating entirely nor uniting absolutely," and identifies the intervening
+    mora as the sliding and the union.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: Aitareya Aranyaka III, 1, 5; cited RV II, 23, 16 within supplied lines
+    100326-100410
+  quote_or_summary: '"O Brhaspati, they know nought higher than the sliding."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: Aitareya Aranyaka III, 1, 5 within supplied lines 100326-100410
+  quote_or_summary: '"He, who knows thus this union, obtains children, cattle, fame,
+    glory, and the world of heaven. He lives all his days."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: Aitareya Aranyaka III, 1, 6 within supplied lines 100326-100410
+  quote_or_summary: Taruksya says, "The union is formed by the Brhat and Rathantara
+    Simans. The Rathantara is speech, the Brhat breath."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: Commentarial note before Aitareya Aranyaka III, 1, 5 within supplied lines
+    100326-100410
+  quote_or_summary: A note says curses in Sankhayana Aranyaka VII, 8-9 are difficult,
+    describing rebuke formulas about grasping the breath or beam and warning that
+    the sense is uncertain.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main translated section is readable, but the line range mixes commentary,
+    footnotes, OCR noise, and primary text. Extraction focuses on explicitly stated
+    teachings and comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs match the passage's main symbols of sliding, union, speech, breath, or Samans.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l100326-l100410
+  passage_sha256=2285b5cb80e258c087a06291591343c6ed287682ad216338e806823aa824b231
+

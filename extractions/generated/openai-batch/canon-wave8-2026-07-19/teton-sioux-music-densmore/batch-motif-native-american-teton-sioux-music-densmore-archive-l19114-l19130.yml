@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l19114-l19130
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUREAU  OF  AMERICAN  ETHNOLOQV / U  OF  AMERICAN / BUREAU  OF  AMERICAN  ETHNOLOQV
+    / MEDICINE  BAQ; lines 19114-19130
+  start: '19114'
+  end: '19130'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: The following song was sung in connection with its use. In a short speech
+    before singing the song Eagle Shield said that it was the song of a bear.
+  summary: The passage analyzes a song’s melodic and rhythmic structure, notes recording
+    details, describes an appetite-loss remedy used by Eagle Shield involving the
+    root of Astragalus carolinianus L. near creeks and gravel, and states that the
+    song connected with the remedy was identified by Eagle Shield as the song of a
+    bear.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The first half of the song is based on the triad C-E flat-G, while the latter
+    part contains only the tones of the minor third G-B flat and is considered in
+    G minor although the fifth of that key does not appear.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The song has a rhythmic unit described as longer than that of many songs;
+    the latter part has a somewhat similar rhythm but does not duplicate any count-divisions
+    of the unit.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The song begins and ends on the same tone, a structure compared in the passage
+    with a small number of Chippewa songs and with listed songs in the same series.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Five renditions were recorded; there was no break between the first and second
+    rendition, but a short pause occurred between the others.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Eagle Shield used a remedy for people suffering from loss of appetite, called
+    loie'pi 6ni peH'huta.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The plant used for the remedy was said to grow near creeks and in gravel;
+    only the root was used, and the herb was identified as Astragalus carolinianus
+    L. or loco weed.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A song was sung in connection with the use of the remedy.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Before singing the song, Eagle Shield said in a short speech that it was the
+    song of a bear.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Eagle Shield
+  description: Person named as using the appetite-loss remedy and as speaking before
+    singing the connected song.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: bear
+  description: Animal named by Eagle Shield as the identity or source of the song.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: remedy user
+  assigned_to:
+  - fig:1
+  basis: The passage says a remedy used by Eagle Shield was for those suffering from
+    loss of appetite.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: pre-song speaker
+  assigned_to:
+  - fig:1
+  basis: The passage says Eagle Shield made a short speech before singing the song.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: animal associated with the song
+  assigned_to:
+  - fig:2
+  basis: Eagle Shield said the song was the song of a bear.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: medicinal root
+  literal_form: Root of Astragalus carolinianus L. (loco weed), used as a remedy for
+    loss of appetite
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: bear
+  literal_form: Bear named as the song’s associated being
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Song structure and recorded renditions
+  summary: The passage describes the song’s tonal basis, rhythmic unit, same-tone
+    beginning and ending, comparisons to other songs with the same structure, and
+    the sequence of recorded renditions.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Appetite remedy and bear song
+  summary: Eagle Shield’s remedy for loss of appetite uses the root of a plant identified
+    as Astragalus carolinianus L.; a song is sung in connection with the remedy, and
+    Eagle Shield identifies it as a bear song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: herbal remedy accompanied by song
+  taxonomy_refs: []
+  basis: The passage links an appetite-loss remedy using a plant root with a song
+    sung in connection with its use.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe the full ceremonial context or explain how
+    the song relates causally to the remedy.
+- id: motif:2
+  label: animal-associated medicine song
+  taxonomy_refs: []
+  basis: The song connected with the remedy is identified by Eagle Shield as the song
+    of a bear.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only the attribution to a bear and does not provide
+    a narrative about the bear or its powers.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that this song shares the structural pattern of beginning
+    and ending on the same tone with a small number of Chippewa songs and with several
+    listed songs in the present series.
+  claim_level: same_motif
+  target: 'Musical structural pattern: song begins and ends on the same tone, compared
+    to 11 Chippewa songs and songs Nos. 97, 99, 207, 212, 220, 221, 234, and 238 in
+    the present series.'
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a musicological structural comparison, not a demonstrated mythological
+    motif or historical-contact claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19114-19121
+  quote_or_summary: The song’s first half is based on C-E flat-G; the latter part
+    uses G-B flat and is considered G minor despite the absent fifth; the rhythmic
+    unit and latter rhythm are described.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 19121-19125
+  quote_or_summary: The song begins and ends on the same tone; the passage compares
+    this feature with 11 Chippewa songs and with listed songs in the present series.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 19125-19127
+  quote_or_summary: Five renditions of the song were recorded; the first and second
+    had no break between them, while short pauses separated the others.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 19127-19128
+  quote_or_summary: A remedy used by Eagle Shield for those suffering from loss of
+    appetite was called loie'pi 6ni peH'huta.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: 19128-19130
+  quote_or_summary: The plant was said to grow near creeks and in gravel; only the
+    root was used; the herb was identified as Astragalus carolinianus L. or loco weed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: '19130'
+  quote_or_summary: The following song was sung in connection with its use. In a short
+    speech before singing the song Eagle Shield said that it was the song of a bear.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward. Motif candidates are limited because
+    the passage is primarily ethnomusicological and ethnobotanical, with little narrative
+    content. The comparison claim is explicitly supported but concerns musical structure
+    rather than mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol reference was applied; available symbol refs such as cave, fire, milk, mountain, serpent, tree, and water are not directly present in this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l19114-l19130
+  passage_sha256=b4aee57991b80fbe320020dd556f14227cf3e763fab8a67eb49466e814956aa4
+

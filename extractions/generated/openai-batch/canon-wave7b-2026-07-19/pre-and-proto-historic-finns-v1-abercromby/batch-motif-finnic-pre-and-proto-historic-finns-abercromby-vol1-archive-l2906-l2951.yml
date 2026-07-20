@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.finnic-pre-and-proto-historic-finns-abercromby-vol1-archive-l2906-l2951
+source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+passage_locator:
+  label: THE VALLEY OF THE OKA. / THE NEOLITHIC STATION AND SAND-DUNES OF VOLOSOVO.
+    / THE VALLEY OF THE VOLGA, / THE NEOLITHIC AGE IN FINLAND 75; lines 2906-2951
+  start: '2906'
+  end: '2951'
+  translation: The Pre- and Proto-historic Finns, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports sparse archaeological evidence for Neolithic inhabitants:
+    a woman’s burial near Novo Mordovo with north-south orientation and a tortoise
+    shell bearing red traces, damaged interments at Great Bugér with small urns and
+    west-east body orientation, and domestic animal bones at several stations. The
+    author treats the animal remains as evidence of a late Neolithic date and suggests
+    a possible southern or south-eastern origin for the domestic animals.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author states that very little is known about the people who left the
+    traces, because the human remains from supposed Neolithic interments were shattered.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Near Novo Mordovo, a woman’s skeleton was found laid with the head to the
+    north and the feet to the south.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Near the right wrist of the Novo Mordovo skeleton lay the upper shell of a
+    tortoise, with traces of red colour on its inside.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author describes the Novo Mordovo skull as round-headed and as showing
+    marks of a primitive type.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At Great Bugér, traces of three interments were found, but the remains were
+    so damaged that only fragments of two skeletons and funeral urns were recovered.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At Great Bugér, the bodies had been buried about three feet deep, placed on
+    their backs, with heads to the west and feet to the east, and each grave contained
+    a small urn.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: At Great Bugér there was nothing above ground to indicate the presence of
+    graves.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Animal bones reported at these stations included domestic horse, cow, sheep,
+    swine, bull, and also elk at one station.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The author states that acquaintance with important domestic animals indicates
+    that these stations belong to a late Neolithic period.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The author says there is no present clue whether the domestic animals originally
+    came from the south or east, but later suggests a southern or south-eastern origin
+    because domestic sheep and pig remains were not found in the compared region beyond
+    the Urals.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Woman buried near Novo Mordovo
+  description: A female skeleton found near Novo Mordovo, laid head north and feet
+    south, with a tortoise shell near the right wrist.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Interred bodies at Great Bugér
+  description: Traces of three interments at Great Bugér, with fragments of two skeletons
+    recovered; bodies were described as placed on their backs in graves.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Neolithic people associated with the stations
+  description: The passage refers generally to the people who left the traces and
+    to Neolithic people acquainted with domestic animals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: interred woman
+  assigned_to:
+  - fig:1
+  basis: The skeleton near Novo Mordovo is identified as a woman and described in
+    burial position.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: interred deceased at Great Bugér
+  assigned_to:
+  - fig:2
+  basis: The passage describes three interments at Great Bugér, with skeletal fragments
+    and grave urns.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: archaeological population associated with domestic animal remains
+  assigned_to:
+  - fig:3
+  basis: The author says the people left traces and that Neolithic people had become
+    acquainted with important domestic animals.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: tortoise shell with red traces
+  literal_form: Upper shell of a tortoise, with traces of red colour on the inside,
+    lying near the right wrist of the Novo Mordovo skeleton.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: small grave urns
+  literal_form: Small urns placed in each Great Bugér grave; funeral urns were recovered
+    with skeletal fragments.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: burial orientation
+  literal_form: Novo Mordovo burial oriented head north and feet south; Great Bugér
+    bodies oriented head west and feet east.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: animal bone assemblage
+  literal_form: Bones of domestic horse, cow, sheep, swine, bull, and elk reported
+    from the stations.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Novo Mordovo burial
+  summary: A woman’s skeleton is reported near Novo Mordovo, laid north-south, with
+    a tortoise shell bearing red traces near the right wrist.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Great Bugér interments
+  summary: Three damaged interments are reported at Great Bugér; bodies were placed
+    on their backs about three feet deep, oriented west-east, with a small urn in
+    each grave and no above-ground grave indicator.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Domestic animal remains and provenance question
+  summary: Animal bones at several stations are described as evidence for a late Neolithic
+    date; the author notes uncertainty about origin and suggests a southern or south-eastern
+    source for the domestic animals.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: oriented burial with associated grave object
+  taxonomy_refs: []
+  basis: The Novo Mordovo woman is described as laid head north and feet south, with
+    a tortoise shell near the wrist; Great Bugér bodies are described as laid head
+    west and feet east, with urns in graves.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an archaeological mortuary pattern; the passage does not state
+    a mythological meaning or afterlife belief.
+- id: motif:2
+  label: small urn placed with each interment
+  taxonomy_refs: []
+  basis: At Great Bugér, each grave is said to have contained a small urn, and funeral
+    urns were recovered with skeletal fragments.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the function or symbolic meaning of the urns.
+- id: motif:3
+  label: domestic animal remains as chronological and provenance evidence
+  taxonomy_refs: []
+  basis: The author treats domestic animal bones as showing a late Neolithic date
+    and discusses whether the animals came from the south, east, or south-east.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an archaeological interpretive pattern rather than a mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2908-2913 within supplied range 2906-2951
+  quote_or_summary: The author says little is known about the people who left the
+    traces, because supposed Neolithic human remains were too shattered to yield much
+    information.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2913-2918 within supplied range 2906-2951
+  quote_or_summary: Near Novo Mordovo, a woman’s skeleton was found laid head north
+    and feet south; near her right wrist was the upper shell of a tortoise with red
+    traces on the inside; the skull is described as round-headed and primitive in
+    type.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2919-2926 within supplied range 2906-2951
+  quote_or_summary: At Great Bugér, three damaged interments were found; fragments
+    of two skeletons and funeral urns were recovered; bodies were buried about three
+    feet deep on their backs, heads west and feet east, with a small urn in each grave
+    and no above-ground marker.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2926-2933 within supplied range 2906-2951
+  quote_or_summary: Animal bones at Great Bugér and other stations included domestic
+    horse, cow, sheep, swine, bull, and elk; the author says these domestic animals
+    show the stations belong to a late Neolithic period.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2934-2951 within supplied range 2906-2951
+  quote_or_summary: The author states that the origin of the domestic animals is uncertain,
+    compares possible evidence from beyond the Urals, and suggests the animals likely
+    came from the south or south-east because domestic sheep or pig remains were not
+    found in that region.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is archaeological rather than mythological. Literal extraction
+    is strong; motif candidates are limited to mortuary and archaeological patterns.
+    No passage-supported comparative mythology claims are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference is directly supported by the passage; all taxonomy reference arrays are left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:finnic-pre-and-proto-historic-finns-abercromby-vol1-archive__l2906-l2951
+  passage_sha256=deeba13b9af2cb7ff7e6fbf5320988fabba0491234aecf7d470a364f1d5fcb1f
+

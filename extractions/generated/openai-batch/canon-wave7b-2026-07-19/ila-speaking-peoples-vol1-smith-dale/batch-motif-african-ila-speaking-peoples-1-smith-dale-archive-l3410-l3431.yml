@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l3410-l3431
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: A MIXED ILA-LUBA TYPE. / CAST OF LOWER TEETH OF A NATIVE. / PT. I / PHYSICAL
+    CHARACTERISTICS; lines 3410-3431
+  start: '3410'
+  end: '3431'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Chanka kubia, chanka kupia" ("It begins to be bad, it begins to burn"),
+    says he.'
+  summary: The passage describes an operator sewing the Isusu by adding locks of hair
+    into stitches, tightening cord, leaving and later filling a front space, while
+    the patient begins to suffer and says the process is becoming painful and burning.
+  language: English with an Ila phrase and English gloss
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An operator inserts locks of hair into stitched loops, pulls the string tight,
+    doubles the hair over, and smooths it down onto the hair above.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The operator leaves a space of about an inch and a half near the front and
+    later returns to fill it.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The patient winces when each stitch is pulled tight and is described as beginning
+    to suffer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After several more rows, the operator presses the hair mass forward and tightens
+    the cord to give it a firm, forward-tending hold.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After about six inches of work, the patient says he has had enough for the
+    day and remarks that it begins to be bad and to burn.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: operator
+  description: The person sewing the Isusu by adding hair and tightening stitches.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: patient
+  description: The person receiving the sewn Isusu, wincing from tight stitches and
+    speaking about the pain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: hair-sewing operator
+  assigned_to:
+  - fig:1
+  basis: The passage describes this figure making stitches, adding locks of hair,
+    tightening cord, and shaping the hair mass.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: recipient of painful hair procedure
+  assigned_to:
+  - fig:2
+  basis: The passage calls the recipient the patient and describes him wincing, suffering,
+    and saying the process burns.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: Isusu
+  literal_form: A sewn hair construction being made with added locks of hair, stitches,
+    and tightened cord.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: lock of hair
+  literal_form: Locks of hair taken from a heap and introduced into stitched loops.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: tightened string or cord
+  literal_form: String or cord drawn tight across the hair and used to hold the hair
+    mass forward.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sewing the Isusu
+  summary: An operator constructs the Isusu by stitching in locks of hair, tightening
+    the string or cord, shaping the front section, and continuing until the patient
+    reports pain and asks to stop for the day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3410-3415
+  quote_or_summary: The operator introduces a lock of hair into a stitch loop, draws
+    the string tight, doubles it over, smooths it down, and leaves a front space to
+    fill later.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 3415-3420
+  quote_or_summary: The passage labels the action "SEWING THE Isusu" and says the
+    patient winces as every stitch is pulled tight and begins to suffer.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 3420-3425
+  quote_or_summary: The operator fills the front space, presses the hair mass forward,
+    draws the cord very tight, and continues around and around.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: lines 3425-3431
+  quote_or_summary: After about six inches of work, the patient says he has had enough
+    and says, "Chanka kubia, chanka kupia"—"It begins to be bad, it begins to burn."
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt from provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a physical/ethnographic description of a hair procedure rather
+    than a mythic narrative. Literal extraction is moderately secure, but no supported
+    motif-family or comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference is directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l3410-l3431
+  passage_sha256=07854b5cbda84f41e21ebd79cb9945eefd2d8cce25daaa0aee8c936a07390ef5
+

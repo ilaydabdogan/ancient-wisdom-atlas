@@ -1,0 +1,132 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l9276-l9457
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: VI  THE   CLANS    AND   THEIR   TOTEMS         171 / GENEALOGICAL  TABLES.
+    / WO  5 / S  0)  S; lines 9276-9457
+  start: '9276'
+  end: '9457'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Basima of the Monkey Clan
+  summary: The passage is an OCR-fragmented genealogical table that visibly labels
+    Basima as belonging to the Monkey Clan and includes the name Suva among other
+    largely unreadable table entries.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage belongs to a section identified as concerning clans and their
+    totems and genealogical tables.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A visible table label reads “Basima of the Monkey Clan.”
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The name “Suva” appears in the table.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Most surrounding table content is not legible in the supplied OCR excerpt.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Basima
+  description: A group or lineage label appearing with the phrase “of the Monkey Clan.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Suva
+  description: A name visible in the genealogical table; the passage does not provide
+    a clear role or relationship in the supplied OCR.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Monkey Clan group or lineage
+  assigned_to:
+  - fig:1
+  basis: The table visibly labels Basima as “of the Monkey Clan.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Monkey
+  literal_form: Monkey, named as the clan identifier in “Monkey Clan.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Animal-named clan or totemic clan identifier
+  taxonomy_refs: []
+  basis: The source section is identified as concerning clans and totems, and the
+    visible table label connects Basima with the Monkey Clan.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt is a fragmentary OCR table rather than a narrative passage;
+    no ritual action, mythic episode, or explanatory account is legible here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 9276-9457; passage label
+  quote_or_summary: Passage label identifies the context as “THE CLANS AND THEIR TOTEMS”
+    and “GENEALOGICAL TABLES.”
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; short citation/summary used.
+- id: ev:2
+  type: quote
+  locator: lines 9276-9457
+  quote_or_summary: "“Basima of the Monkey Clan”"
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 9276-9457
+  quote_or_summary: "“Suva”"
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; single name excerpted.
+- id: ev:4
+  type: note
+  locator: lines 9276-9457
+  quote_or_summary: The supplied passage is dominated by OCR fragments, table marks,
+    and disconnected characters, limiting extraction.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source metadata; extraction note based on supplied text.
+confidence:
+  extraction: low
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: 'Visible content supports only minimal extraction: Basima, Monkey Clan, and
+    Suva. The OCR-fragmented table prevents reliable reconstruction of genealogy or
+    narrative patterns.'
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage itself does not support a comparative assertion beyond the local clan/totem context.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l9276-l9457
+  passage_sha256=75916b6fc78e4fdfde80be92f072970d5b4168f2d35b3138d09666e647adac0e
+

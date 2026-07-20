@@ -1,0 +1,489 @@
+---
+record_id: batch.motif.norse-heimskringla-laing-gutenberg-l7508-l7616
+source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+passage_locator:
+  label: SAGA OF KING HARALD GRAFELD AND OF EARL HAKON SON OF SIGURD. / PRELIMINARY
+    REMARKS / KING OLAF TRYGVASON'S SAGA. / PRELIMINARY REMARKS.; lines 7508-7616
+  start: '7508'
+  end: '7616'
+  translation: Heimskringla; Or, The Chronicle of the Kings of Norway
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A battle passage aboard King Olaf''s Long Serpent: armed men leap overboard;
+    Einar shoots at Earl Eirik until Fin splits his bow; Einar interprets the broken
+    bow as Norway leaving the king''s hands; Olaf arms his men with sharp swords while
+    bleeding from an unknown wound; Eirik boards twice, and the remaining defenders
+    gather around the king behind shields.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Armed young men leap overboard and sink beneath the Serpent's keel.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king is described as still steering the Serpent while beset by foes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: An endnote describes a shieldburg as men bearing shields around commanders
+    so that the shields form a protective parapet.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Einar Tambarskelver stands by the mast and shoots arrows at Earl Eirik, striking
+    near the earl's head and side.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Earl Eirik orders Fin to shoot the tall man by the mast, and Fin's arrow splits
+    Einar's bow in two while Einar is drawing it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When King Olaf asks what broke, Einar answers that it was Norway from the
+    king's hands.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: King Olaf gives Einar his own bow; Einar judges it too weak and then fights
+    with sword and shield.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: King Olaf fights from the gangways of the Long Serpent with bow and spear,
+    sometimes throwing two spears at once.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After hearing that his men's swords are blunt and notched, King Olaf opens
+    a chest under the throne and hands out sharp swords.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Blood is seen running under King Olaf's steel glove, but the location of his
+    wound is unknown.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Earl Eirik boards the Serpent with four others, but Hyrning and other defenders
+    confront him and force him back to his own ship.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: During the renewed boarding, many defenders have fallen; Eirik's men enter
+    the vessel, and the remaining defenders gather aft around the king behind shields.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: King Olaf
+  description: The king steering and defending the Long Serpent, giving weapons to
+    his men, and being enclosed by remaining defenders.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Einar Tambarskelver
+  description: A notably sharp bowshot who stands by the mast, shoots at Earl Eirik,
+    loses his bow when Fin splits it, and then fights with sword and shield.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Earl Eirik
+  description: The opposing commander targeted by Einar's arrows, ordering Fin to
+    shoot Einar and later boarding the Serpent.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: Fin
+  description: An archer ordered by Earl Eirik to shoot the tall man by the mast;
+    his arrow splits Einar's bow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Hyrning
+  description: King Olaf's brother-in-law, who comes against Earl Eirik during the
+    first boarding and helps force him back.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Olaf's men / crew of the Serpent
+  description: The defenders aboard the Serpent, including men who leap overboard,
+    fight from the ship, and later gather around the king.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: Eirik's men / foes
+  description: The attacking force that boards and pours into the Serpent during the
+    battle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: besieged king and defended commander
+  assigned_to:
+  - fig:1
+  basis: King Olaf steers and fights from the Serpent, arms his men, and is enclosed
+    by remaining defenders.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: role:2
+  label: archer
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Einar shoots arrows at Earl Eirik; Fin is ordered to shoot Einar and splits
+    Einar's bow.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: opposing commander and boarder
+  assigned_to:
+  - fig:3
+  basis: Earl Eirik is the target of Einar's arrows, commands Fin, and leads boardings
+    of the Serpent.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:4
+  label: kinsman defender
+  assigned_to:
+  - fig:5
+  basis: Hyrning is identified as the king's brother-in-law and comes against Earl
+    Eirik during the boarding.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: royal ship defenders
+  assigned_to:
+  - fig:6
+  basis: Olaf's men fight aboard the Serpent, receive sharp swords, and later crowd
+    aft around the king.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: boarding attackers
+  assigned_to:
+  - fig:7
+  basis: Eirik's men board the Serpent and pour into the vessel where defenders have
+    fallen.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: Long Serpent / Serpent ship
+  literal_form: The royal warship called the Long Serpent or Serpent, with keel, gangways,
+    decks, mast, and ship's sides.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: shieldburg / shield ring
+  literal_form: A protective formation of shields around a commander; later, remaining
+    men stand in a ring around the king with shields enclosing him.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: broken bow
+  literal_form: Einar's bow split in two by Fin's arrow while Einar draws it.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: king's bow
+  literal_form: King Olaf's bow, thrown to Einar after Einar's own bow breaks and
+    judged by Einar to be too weak.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: sharp swords from chest under throne
+  literal_form: Sharp swords taken by King Olaf from a chest under the throne and
+    handed to his men.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: blood under steel glove
+  literal_form: Blood running down under King Olaf's steel glove from an unknown wound.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Armed men leap from the Serpent
+  summary: Armed young men leap overboard and sink beneath the Serpent's keel while
+    the king continues steering amid enemies.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Einar's bow combat and broken bow
+  summary: Einar shoots near Earl Eirik; Eirik orders Fin to shoot him; Fin splits
+    Einar's bow, and Einar interprets the break as Norway leaving the king's hands.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Olaf distributes sharp swords
+  summary: King Olaf observes that his men wound rarely because their swords are blunt,
+    retrieves sharp swords from a chest under the throne, and gives them out while
+    blood is seen under his glove.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: First boarding repelled
+  summary: Earl Eirik boards the Serpent with four others but is met by Hyrning and
+    other defenders and forced back to his ship.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Second boarding and shield ring around the king
+  summary: As defenders grow few, Eirik's men pour into the Serpent; remaining defenders
+    gather aft around King Olaf and enclose him with shields.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ruler enclosed by loyal shield-defenders
+  taxonomy_refs: []
+  basis: The endnote explains shieldburg protection for commanders, and the battle
+    verse says the remaining men stand in a ring around the king with shields enclosing
+    him.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: This is a military-protective pattern in the passage; no ritual or supernatural
+    function is stated.
+- id: motif:2
+  label: broken weapon as sign of political loss
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After Einar's bow breaks, he tells King Olaf that the sound was Norway from
+    the king's hands; Olaf then offers his own bow, which Einar calls too weak for
+    a mighty king.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives this interpretation through Einar's speech, not through
+    an explicit narrator statement of omen or prophecy.
+- id: motif:3
+  label: death-facing loyal retinue
+  taxonomy_refs:
+  - sacrifice
+  basis: Armed men leap into the sea beneath the Serpent, and later the remaining
+    defenders gather around the king and fight though the verse says they fight in
+    vain.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: The passage depicts martial self-exposure and loyal defense, not formal
+    ritual sacrifice.
+- id: motif:4
+  label: serpent-named warship as battle center
+  taxonomy_refs:
+  - serpent
+  basis: The battle repeatedly centers on the ship called the Serpent or Long Serpent,
+    whose keel, mast, gangways, sides, and decks are the setting of the action.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The serpent element is a ship name in this passage; no living serpent
+    or serpent myth episode is described.
+comparison_claims:
+- id: claim:1
+  claim: The endnote explicitly compares the shieldburg used to protect commanders
+    with the Roman testudo as a similar shield arrangement.
+  claim_level: same_function
+  target: Roman testudo
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is an editorial/endnote comparison and concerns battlefield
+    function and shield arrangement only; it does not establish historical contact
+    or shared mythic origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7508-7515
+  quote_or_summary: Verse says armed lads leap overboard beneath the Serpent's keel
+    and that the king still steers the Serpent while beset by foes.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 7517-7524
+  quote_or_summary: Endnote explains shieldburg protection for commanders by a surrounding
+    party bearing shields, and notes a similar Roman testudo arrangement.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: section 118; lines 7526-7537
+  quote_or_summary: Einar stands by the mast and shoots at Earl Eirik; Eirik asks
+    who shot and orders Fin to shoot the tall man; Fin's arrow splits Einar's bow.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: section 118; lines 7539-7547
+  quote_or_summary: Einar says the breaking sound was "Norway, king, from thy hands";
+    Olaf gives him a bow; Einar calls it "Too weak" and takes sword and shield.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: section 119; lines 7551-7561
+  quote_or_summary: King Olaf fights from the Long Serpent, learns the swords are
+    blunt, retrieves sharp swords from a chest under the throne, and blood is seen
+    under his steel glove.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: section 120; lines 7564-7575
+  quote_or_summary: Earl Eirik boards the Serpent with four others; Hyrning and others
+    fight him; Eirik is forced back, with some companions killed or wounded.
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: quote
+  locator: section 120; lines 7577-7602
+  quote_or_summary: As Eirik boards again, defenders are thinned and survivors crowd
+    aft to the king; verse says, "Around the king / They stand in ring; / Their shields
+    enclose / The king from foes."
+  source_text_path: texts/public-domain/norse/project-gutenberg/heimskringla-laing.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal battle actions and figures are explicit. Motif mappings are cautious
+    because the passage is primarily martial saga narrative with limited overt symbolic
+    explanation beyond Einar's speech and the editorial shieldburg comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The final heading "THE SERPENT'S DECKS CLEARED" is noted as outside the described action in this excerpt and was not separately extracted.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-heimskringla-laing-gutenberg__l7508-l7616
+  passage_sha256=0251dac9ace81474e49c949c448f78cbae61ad30807fc82319305dae46eebdd1
+

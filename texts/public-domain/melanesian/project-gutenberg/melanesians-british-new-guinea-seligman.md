@@ -1,4 +1,69 @@
+---
+id: melanesian.melanesians_british_new_guinea.seligman_archive
+title: The Melanesians of British New Guinea
+alternate_titles:
+- The Melanesians of British New Guinea
+text_status: complete
+tradition: melanesian
+culture: massim_koita_motu_papuan_ethnography
+region: melanesia_new_guinea_southeast
+source_language: Motu, Koita, Roro, Mekeo, and Massim oral traditions mediated through
+  English
+text_language: English
+date_range: living oral traditions; Cooke Daniels Expedition fieldwork 1904 plus 1898
+  Cambridge Torres Straits material; published 1910
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.melanesiansofbri00seli
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1910 Cambridge University
+    Press edition
+  translator: ''
+  editor: ''
+  publication_year: 1910
+  publisher: Internet Archive
+  source_url: https://archive.org/details/melanesiansofbri00seli
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1910, US public domain. Recording context - systematic field ethnography
+    with legend and spirit-belief chapters for several distinct coastal Papuan groups;
+    myth material is close paraphrase with group attribution, not verbatim texts.
+    Complements the already-ingested Codrington (island Melanesia) with mainland New
+    Guinea traditions.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- new_guinea
+- massim
+- motu
+- melanesia
+- isolated_lineage
+motifs:
+- afterlife
+- spirit_beings
+- sorcery
+- culture_hero
+figures: []
+---
+
 # The Melanesians of British New Guinea
+
 PREFACE
 
 THE greater part of the material which has been utilised
@@ -872,7 +937,7 @@ Hamlet on Teste Island. (Dr H. O. Forbes) .
 Houses at Boianai, Bartle Bay. (Captain F. R. Barton)
 House at Maivara, Milne Bay. (Captain F. R. Barton) .
 Carving on house at Maivara. (Captain F. R. Barton) .
-Skulls outside /^/? wa. (Rev. C. W. Abel)
+Skulls outside /^/?<wa. (Rev. C. W. Abel)
 
 A ceremonial platform inaka) at Barabara, Milne Bay. (Rev
 C. W. Abel)
@@ -6713,7 +6778,7 @@ asi. One large uro buys one turua of sago. Small uro and
 keikei buy each a kokohara of sago.
 
 Plate XIII shows part of the interior of a lakatoi after its
-return from the Gulf Four jUcxiOm^ Siud two turua, the ^(.>u^'»i« /  /
+return from the Gulf Four jUcxiOm^ Siud two turua, the ^(.>u^'»i« / </
 latter hanging to the side rail, appear in the picture.
 
 
@@ -8470,7 +8535,7 @@ mU
 («T*.'. Sr
 
 
- l
+<l
 
 
 ^•;??:-3t ^^:
@@ -8504,7 +8569,7 @@ o
 
 ►^
 
- u
+<u
 
 -4-»
 U
@@ -9381,10 +9446,10 @@ at other times they do not separate but pass together between
 ^-» T y T V T 'J' T
 
 
- H3 <^-#^-0 t-« <-0 '^-#
+<H3 <^-#^-0 t-« <-0 '^-#
 ® ®
 
-♦-^ •-» •-^  K3 ^-# <0<-#-e-0 -^-#
+♦-^ •-» •-^ <K3 ^-# <0<-#-e-0 -^-#
 
 A. 3. ©
 
@@ -9770,7 +9835,7 @@ On her body she should wear two netted vests called yarasz,
 one above the other, the outer being ornamented with cotx
 seeds, and Eclectics and cockatoo feathers. On her head she
 should wear a network cap similarly ornamented, which is also
-called jK<^r^^/. The habit of \Ne'ds\xi g yarasi has for some years
+called jK<^r^^/. The habit of \Ne'ds\xi<g yarasi has for some years
 been in abeyance, though the other mourning customs are for
 the most part faithfully followed. Plate XXV represents a
 widow in full mourning costume, in the original drawing many
@@ -10723,7 +10788,7 @@ ife(x7 /tM4^. 7'"-'£
 Lotl-K-
 
 
-. yi
+.<yi
 
 
 ./
@@ -13532,7 +13597,7 @@ there. He lived with and was closely
 S. N. G.
 
 
-..  l^-T-
+.. <l^-T-
 
 
 m
@@ -18195,7 +18260,7 @@ The Mekeo Tribes
 Among the Vee the change of ufu names seems to have
 occurred to a greater extent than among the Biofa. Lolokanga and Amaama the two pangua of Inawauni have ufu
 names Foyo and Eleia, the names of two mountain peaks ;
-Foyo is also the name of the ufu of ^2iwn g^ pangua of Rarai.
+Foyo is also the name of the ufu of ^2iwn<g^ pangua of Rarai.
 The two Inaukiki pangtca of Ififu village and of Inawabui
 pangua of Inawabui village have as tifu name Langina, the
 North-west wind. Again Kolomio, Pangua Ifupaina and
@@ -18859,7 +18924,7 @@ the leader of any immigrant group which joins the village, It
 comes about that the lopia fda Is sometimes not of the blood of
 the hereditary chiefs of the clan. Thus, as pointed out by Father
 Egidi, the chief of Ipange /^;^^^<^ (of Raral village) belongs
-by blood to ^x\ g2.'^M pangiia, and the chief of ImLW^fae pangua
+by blood to ^x\<g2.'^M pangiia, and the chief of ImLW^fae pangua
 of Aipiana is really by blood a native of KuapQUge pangua.
 
 As at Roro the io lopia, the clan war chief, may have his own
@@ -20155,7 +20220,7 @@ a
 bo
 c
 
- L>
+‹L›
 
 '3
 
@@ -20702,7 +20767,7 @@ si
 
 >■
 
- i
+<i
 S
 
 !
@@ -20788,7 +20853,7 @@ ft
 
 Waiaka i .'
 
-" ;"' / """'.
+" ;"'</ """'.
 
 Waiaka i b
 
@@ -25242,7 +25307,7 @@ Garuboi
 Modidi
 
 Biniwata ,
-Dabodabo6 j /
+Dabodabo6<j /
 
 y (y f^tiU .
 
@@ -26881,9 +26946,9 @@ a
 o
 
 S
- u
+<u
 
- u
+<u
 o
 
 
@@ -27691,7 +27756,7 @@ Guinea native is very strong.'
 The Southern Massim
 
 
- />
+‹/›
 
 O
 
@@ -27981,7 +28046,7 @@ tn
 CO
 
 
-Yarudeosi m.  rd. j
+Yarudeosi m. <rd. j
 (From near East Cape) j
 
 S
@@ -27990,7 +28055,7 @@ S
 S i
 
 — o
- u
+<u
 1-1
 
 s 1
@@ -40696,5 +40761,4 @@ now and again. When a man takes a second wife he builds
 a separate house for her, but if he takes many wives, one
 after another, he will not usually build a fresh house for
 each one.
-
 

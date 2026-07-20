@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l416-l449
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: IN    RILATION  TO / NEW     ZBALAND / CONTENTS / PREFACE V; lines 416-449
+  start: '416'
+  end: '449'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is front matter: a map caption for the South Pacific showing
+    Fiji, Samoa, and Tonga in relation to New Zealand, followed by a printer line
+    and a contents list with entries for the preface, introduction, and three tale
+    titles with bylines.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A map caption describes a portion of the South Pacific showing the Fiji, Samoa,
+    and Tonga groups in relation to New Zealand.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A printer line names the De La More Press and W. & A. K. Johnston, Ltd.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents list includes a preface and an introduction with page references.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents list includes a tale title about Livuka men coming up to Windward,
+    credited to Inoke (Enoch) Wangka-yele.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The contents list includes a tale title about Tongans coming to Fiji, credited
+    to Ratu Taliaitupou, Lord of Naiau.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The contents list includes a tale title about Fijians learning to build canoes,
+    credited to the Lord of Naiau.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Livuka men
+  description: A group named in a contents title as coming up to Windward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Tongans
+  description: A group named in a contents title as coming to Fiji.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Fijians
+  description: A group named in a contents title as learning to build canoes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: group in movement-title
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The contents titles describe these groups as coming to Windward or to Fiji.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: learners of canoe-building
+  assigned_to:
+  - fig:3
+  basis: The contents title states that the Fijians learned to build canoes.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: canoes
+  literal_form: canoes
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: 'Contents title: Livuka men come up to Windward'
+  summary: A contents entry names a tale in which Livuka men came up to Windward.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:2
+  label: 'Contents title: Tongans come to Fiji'
+  summary: A contents entry names a tale in which Tongans came to Fiji.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: 'Contents title: Fijians learn canoe-building'
+  summary: A contents entry names a tale in which Fijians learned to build canoes.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: group movement to a named place
+  taxonomy_refs: []
+  basis: Two contents titles describe named groups as coming to Windward or to Fiji.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage gives only contents titles, not the narrative episodes themselves.
+- id: motif:2
+  label: acquisition of canoe-building knowledge
+  taxonomy_refs: []
+  basis: A contents title states that the Fijians learned to build canoes.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage gives only a title; it does not identify the teacher, mechanism,
+    or narrative context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 416-427
+  quote_or_summary: 'Map caption: a portion of the South Pacific showing the Fiji,
+    Samoa, and Tonga groups in relation to New Zealand.'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: '429'
+  quote_or_summary: Printer line names the De La More Press and W. & A. K. Johnston,
+    Ltd.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 431-437
+  quote_or_summary: Contents section lists page references for the preface and introduction.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 439-441
+  quote_or_summary: 'Contents entry: “How the Livuka Men Came Up to Windward,” credited
+    to Inoke (Enoch) Wangka-yele.'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short title quoted.
+- id: ev:5
+  type: summary
+  locator: 443-444
+  quote_or_summary: 'Contents entry: “How the Tongans Came to Fiji,” credited to Ratu
+    Taliaitupou, Lord of Naiau.'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short title quoted.
+- id: ev:6
+  type: summary
+  locator: 446-447
+  quote_or_summary: 'Contents entry: “How the Fijians Learned to Build Canoes,” credited
+    to the Lord of Naiau.'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short title quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal front-matter extraction is straightforward, but motif candidates
+    are title-derived only and require review against the actual tale passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims are made because the passage contains front matter and contents titles rather than narrative episodes.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l416-l449
+  passage_sha256=ee45129e7a401accb5beaaac32bdc7383c0f742536162eae783e9ed761b5586a
+

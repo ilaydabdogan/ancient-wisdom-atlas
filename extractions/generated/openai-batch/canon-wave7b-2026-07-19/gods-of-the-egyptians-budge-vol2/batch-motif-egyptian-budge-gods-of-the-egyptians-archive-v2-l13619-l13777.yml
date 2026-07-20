@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l13619-l13777
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: AAAAAA  AAMM / I        I        I / SORROWS   OF   ISIS  229 / SORROWS   OF   ISIS;
+    lines 13619-13777
+  start: '13619'
+  end: '13777'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In this fragment from the “Sorrows of Isis,” Isis appears as wounded, stretches
+    out her arms, and twice promises to protect her son Horus. She tells him not to
+    fear, says no evil will happen to him, and describes him as containing seed for
+    future things, as a son within Mesqet proceeding from Nu, as one who will not
+    die by the flame of poison, and as the Bennu Great born.
+  language: English with Egyptian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Isis appears as one whose body is wounded.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Isis stretches out her arms.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Isis twice says she will protect her son Horus.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Isis tells Horus not to fear and says no evil thing will happen to him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The addressed son is said to have seed in him for making things which are
+    to be.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The addressed figure is described as a son within Mesqet, proceeding from
+    Nu.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The addressed figure is told he will not die by the flame of poison and is
+    identified as the Bennu Great born.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Isis
+  description: A divine female speaker who appears wounded, stretches out her arms,
+    and promises protection to her son Horus.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Horus
+  description: Named as Isis’s son; addressed as protected from evil and death by
+    poison, and described with future-making seed and Bennu identification.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: protective mother
+  assigned_to:
+  - fig:1
+  basis: Isis calls Horus her son and states that she will protect him.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: wounded appearing figure
+  assigned_to:
+  - fig:1
+  basis: The passage says Isis appeared as one wounded in her body.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: protected divine son
+  assigned_to:
+  - fig:2
+  basis: Horus is named as Isis’s son and is reassured that no evil will happen to
+    him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: future-generative and death-protected addressee
+  assigned_to:
+  - fig:2
+  basis: The addressed son is described as having seed for future things, proceeding
+    from Nu, not dying by poison, and being the Bennu Great born.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: outstretched arms
+  literal_form: Isis stretches out her arms.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: seed within the son
+  literal_form: Seed in the addressed son for making things which are to be.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Mesqet
+  literal_form: The son is described as being within Mesqet.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Nu
+  literal_form: The son is described as proceeding from Nu.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: flame of poison
+  literal_form: The flame of the poison by which the son will not die.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Bennu Great born
+  literal_form: The addressed son is identified as the Bennu Great born.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Wounded appearance of Isis
+  summary: Isis appears as one wounded in her body.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Isis protects and reassures Horus
+  summary: Isis stretches out her arms, twice promises to protect Horus, and tells
+    him that no evil will happen to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Declarations about Horus’s origin and survival
+  summary: The addressed son is described as containing seed for future things, as
+    within Mesqet and proceeding from Nu, as not dying by poison, and as the Bennu
+    Great born.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Protective divine mother and son
+  taxonomy_refs:
+  - mother_goddess
+  - divine_parent_child
+  basis: Isis identifies Horus as her son, promises to protect him, and reassures
+    him that no evil will happen.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is a short fragment; broader narrative context is not included.
+- id: motif:2
+  label: Divine child with future generative power
+  taxonomy_refs:
+  - miraculous_child
+  - sacred_birth
+  basis: The addressed son is said to contain seed for making future things and is
+    described in origin-like language involving Mesqet, Nu, and the Bennu Great born.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The birth or origin language is terse and partly obscured by the fragmentary/OCR
+    presentation.
+- id: motif:3
+  label: Averted death by poison
+  taxonomy_refs: []
+  basis: The addressed son is told that he will not die by the flame of poison.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: No more specific taxonomy reference is assigned because the passage does
+    not name a serpent, healer, or resurrection episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13619-13777; opening portion after “Appeared Isis”
+  quote_or_summary: The passage states that Isis appeared as one whose body was wounded.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 13619-13777; section numbered 75
+  quote_or_summary: "“She stretched out her arms”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 13619-13777; section numbered 75
+  quote_or_summary: Isis says twice that she will protect her son Horus.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 13619-13777; section numbered 75
+  quote_or_summary: "“Fear not, twice, O son, my glory. Not shall happen thing any
+    evil unto thee.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 13619-13777; section numbered 76
+  quote_or_summary: "“Seed is in thee for making things which are to be.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 13619-13777; section numbered 76
+  quote_or_summary: "“Thou art the son within Mesqet, proceeding from Nu.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 13619-13777; section numbered 76
+  quote_or_summary: "“not shalt thou die by the flame of the poison. Thou art the
+    Bennu Great born”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Key figures and protective mother-son speech are clear, but the passage is
+    fragmentary and includes OCR-like spacing, transliteration, and damaged layout.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided lists.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l13619-l13777
+  passage_sha256=5e35028d69e8532b117d2beee7817db1a092cf500934598e303a35455ddde665
+

@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l41953-l42002
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CLXXIV / SECTION CLXXV / SECTION CLXXVI / SECTION CLXXVII; lines
+    41953-42002
+  start: '41953'
+  end: '42002'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Indeed, in consequence of the loss of his two bulls Manki attained to immortality.
+  summary: Manki reflects that wealth and desire produce fear, sorrow, and dissatisfaction.
+    He personifies Desire as an enemy, vows to renounce it, embraces forgiveness,
+    contentment, self-restraint, truth, and compassion, and says that abandoning thirst
+    brings greater happiness than ordinary or heavenly pleasures. By cutting off desire
+    after losing his two bulls, he attains Brahma and immortality.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Wealth is described as containing only a small happiness mixed with pain and
+    sorrow, and as exposing its possessor to robbers, affliction, and fear.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker addresses Desire directly and describes it as foolish, difficult
+    to satisfy, burning like fire, and able to drive him toward sorrow.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says that after losing property he has attained freedom from attachments
+    and casts off Desire with the passions of his heart.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker resolves to forgive slander, avoid injury even when injured, respond
+    to disagreeable words with agreeable speech, and live in contentment.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Freedom from attachment, emancipation from desire, contentment, tranquillity,
+    truth, self-restraint, forgiveness, and universal compassion are named as qualities
+    that have come to the speaker.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The speaker says he has entered Brahma like a person plunging in hot weather
+    into a cool lake, has abstained from work, and has freed himself from grief.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Abandonment of all thirst is said to produce felicity exceeding desire's gratification
+    and even heavenly felicity.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Manki is said to have freed himself from attachments, cast off all desires,
+    attained Brahma, and attained immortality after the loss of his two bulls.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Manki
+  description: A person who loses property, renounces desire and attachment, and attains
+    Brahma and immortality.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:2
+  name_or_label: Desire
+  description: Personified as being addressed by the speaker; described as foolish,
+    insatiable, burning like fire, and a foe.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Cupidity
+  description: Named with Desire, thirst, and miserliness as something the speaker
+    wants to avoid and no longer yield to.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: renouncer
+  assigned_to:
+  - fig:1
+  basis: Manki casts off desires and frees himself from attachments.
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: role:2
+  label: attainer of Brahma and immortality
+  assigned_to:
+  - fig:1
+  basis: The passage says Manki attained Brahma and immortality after losing his two
+    bulls.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: personified inner foe
+  assigned_to:
+  - fig:2
+  basis: Desire is addressed directly, called difficult to gratify, burning like fire,
+    and later called a bitter foe.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:4
+  label: rejected passion
+  assigned_to:
+  - fig:3
+  basis: Cupidity is named among passions to avoid and is said to be cast off.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire of desire
+  literal_form: fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: cool lake
+  literal_form: cool lake
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: immortal city of Brahma
+  literal_form: city
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: two bulls
+  literal_form: two bulls
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: roots of desire
+  literal_form: roots
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Wealth and desire condemned
+  summary: The speaker describes wealth as bound up with sorrow and fear, then rebukes
+    personified Desire as insatiable and harmful.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Renunciation and ethical resolve
+  summary: After losing property, the speaker declares freedom from attachment, casts
+    off Desire, and resolves to practice forgiveness, contentment, self-restraint,
+    truth, and compassion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Entry into Brahma
+  summary: The speaker compares entering Brahma to plunging into a cool lake, says
+    he has killed desire, and speaks of entering the immortal city of Brahma.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Manki attains immortality after loss
+  summary: The narrator concludes that Manki, because of losing his two bulls and
+    cutting the roots of desire, cast off attachments and attained Brahma, immortality,
+    and high felicity.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Loss leading to renunciation and liberation
+  taxonomy_refs:
+  - wisdom
+  basis: Manki's loss of property and two bulls leads him to understand desire as
+    sorrow-producing, renounce attachments, and attain Brahma and immortality.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The passage frames this as ethical and spiritual realization rather than
+    a narrative quest.
+- id: motif:2
+  label: Personified desire as an inner enemy
+  taxonomy_refs: []
+  basis: Desire is addressed as a being that compels pursuit, burns like fire, cannot
+    be satisfied, and is called a foe to be cast off or killed.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The personification is rhetorical within a moral discourse.
+- id: motif:3
+  label: Union with Brahma through abandonment of desire
+  taxonomy_refs:
+  - annihilation_union
+  basis: The speaker says that after abandoning thirst and killing desire he has entered
+    Brahma and the immortal city of Brahma.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy label is approximate; the passage states entry into Brahma
+    but does not elaborate a full metaphysical doctrine.
+- id: motif:4
+  label: Spiritual felicity surpasses earthly and heavenly pleasure
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says the happiness from abandoning all thirst exceeds both the
+    gratification of desire and felicity enjoyed in heaven.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: This is stated as moral teaching, not as a separate episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 41953-41958
+  quote_or_summary: Wealth is said to contain little happiness mixed with pain and
+    sorrow; robbers may slay or afflict the wealthy and fill them with fear.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 41959-41966
+  quote_or_summary: Desire is addressed as foolish, difficult to content, unable to
+    be gratified, and as one that “burnest like fire” and plunges the speaker into
+    sorrow.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 41966-41974
+  quote_or_summary: The speaker says that after despair over lost property he has
+    attained freedom from attachments, adopted renunciation, and cast off Desire with
+    the passions of the heart.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 41974-41980
+  quote_or_summary: The speaker vows to forgive slander, not injure even when injured,
+    respond to disagreeable words with agreeable speech, and live on what may be obtained
+    in contentment.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 41980-41989
+  quote_or_summary: The speaker names freedom from attachment, emancipation from desire,
+    contentment, tranquillity, truth, self-restraint, forgiveness, and universal compassion,
+    and tells Desire, cupidity, thirst, and miserliness to avoid him.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: quote
+  locator: 41991-41994
+  quote_or_summary: "“Like a person plunging in the hot season into a cool lake, I
+    have now entered into Brahma”; the speaker also says he has abstained from work
+    and freed himself from grief."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 41994-41999
+  quote_or_summary: The abandonment of all thirst is said to yield felicity greater
+    than desire's gratification or heavenly felicity; the speaker says he has killed
+    desire and entered the immortal city of Brahma.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: quote
+  locator: 41999-42002
+  quote_or_summary: Manki freed himself from attachments, cast off desires, attained
+    Brahma, and “in consequence of the loss of his two bulls” attained immortality
+    by cutting the roots of desire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif taxonomy matches
+    are limited because the passage is primarily moral and philosophical rather than
+    a mythic action narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode to another tradition or corpus.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l41953-l42002
+  passage_sha256=32440cde4ac921e68764939efcf146888d214a741f4de4c75728aec4f518a14f
+

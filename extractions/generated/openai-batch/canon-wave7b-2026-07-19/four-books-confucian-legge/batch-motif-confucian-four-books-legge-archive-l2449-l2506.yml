@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l2449-l2506
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: BOOK II. WEI CHANG / CONFUCIAN ANACECTS / ESSENTIAL VITIATES AXL SERVICES.
+    / BOOK IV. LE JIN; lines 2449-2506
+  start: '2449'
+  end: '2506'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: It is virtuous manners which constitute the excellence of a neighborhood.
+  summary: The excerpt opens Book IV with two sayings attributed to the Master. The
+    first says that an excellent neighborhood is constituted by virtuous manners and
+    that a residence should be chosen where such manners prevail. The second contrasts
+    those without virtue, who cannot long abide hardship or enjoyment, with the virtuous,
+    who rest in virtue, and the wise, who desire virtue. Editorial commentary frames
+    the book as concerned with virtue and explains the rule for selecting a residence.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Chapter I states that virtuous manners constitute the excellence of a neighborhood.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Chapter I presents a hypothetical man selecting a residence and asks how he
+    can be wise if he does not choose a place where virtuous manners prevail.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Chapter II states that those without virtue cannot abide long either in poverty
+    and hardship or in enjoyment.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Chapter II states that the virtuous rest in virtue and the wise desire virtue.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The heading and commentary describe Book IV as mostly occupied with the subject
+    of virtue and discuss the rendering of the term.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The commentary labels Chapter I as a rule for the selection of a residence
+    and connects residence selection with the aid of virtue.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Master
+  description: The speaker to whom the sayings in Chapter I and Chapter II are attributed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: man selecting a residence
+  description: A hypothetical person choosing where to live.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: those without virtue
+  description: A group described as unable to abide long in poverty and hardship or
+    in enjoyment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the virtuous
+  description: A group described as resting in virtue.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: the wise
+  description: A group described as desiring virtue; wisdom is also invoked in the
+    saying about selecting a residence.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: teacher-speaker
+  assigned_to:
+  - fig:1
+  basis: Both chapter sayings are introduced with the formula that the Master said
+    them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: potential resident
+  assigned_to:
+  - fig:2
+  basis: The passage describes a man selecting a residence and evaluates his choice
+    in terms of wisdom.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: non-virtuous group
+  assigned_to:
+  - fig:3
+  basis: The passage names those without virtue and describes their inability to abide
+    long in contrasting conditions.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: virtuous group
+  assigned_to:
+  - fig:4
+  basis: The passage says the virtuous rest in virtue.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: wise group
+  assigned_to:
+  - fig:5
+  basis: The passage says the wise desire virtue and frames wise residence selection
+    around virtuous surroundings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: virtuous neighborhood or residence
+  literal_form: a neighborhood or residence where virtuous manners prevail
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Choosing a virtuous residence
+  summary: The Master states that virtuous manners make a neighborhood excellent and
+    presents wise residence selection as choosing a place where such virtue prevails;
+    the commentary labels this a rule for selecting a residence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Virtue as stability and desire
+  summary: The Master contrasts those without virtue, who cannot long abide hardship
+    or enjoyment, with the virtuous who rest in virtue and the wise who desire virtue.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Wisdom in choosing virtuous surroundings
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links wisdom with selecting a residence in a neighborhood where
+    virtuous manners prevail, and the commentary connects residence choice with the
+    aid of virtue.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is an ethical-wisdom pattern rather than a narrative mythic episode.
+- id: motif:2
+  label: Virtue as inner stability across conditions
+  taxonomy_refs:
+  - wisdom
+  basis: The saying contrasts those without virtue, who cannot long abide hardship
+    or enjoyment, with the virtuous and wise who rest in or desire virtue.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The motif is abstract and aphoristic; the passage does not present a story
+    sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2449-2506, Book IV, Chapter I
+  quote_or_summary: The Master says that virtuous manners constitute the excellence
+    of a neighborhood and asks how a man can be wise if he does not select a residence
+    where such manners prevail.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:2
+  type: quote
+  locator: lines 2449-2506, Book IV, Chapter II
+  quote_or_summary: The Master says that those without virtue cannot abide long in
+    poverty and hardship or in enjoyment; the virtuous rest in virtue, and the wise
+    desire virtue.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:3
+  type: summary
+  locator: lines 2449-2506, heading and commentary on Book IV
+  quote_or_summary: The commentary identifies Book IV as mostly occupied with virtue
+    and discusses why virtue is a suitable general rendering of the key term.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; summary of public domain text.
+- id: ev:4
+  type: summary
+  locator: lines 2449-2506, commentary on Chapter I
+  quote_or_summary: The commentary labels the first chapter as a rule for selecting
+    a residence, explains settlement terms, and says friendship and residence selection
+    should aid virtue.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source metadata; summary of public domain text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main sayings are clear, but the supplied passage contains OCR artifacts
+    and mixed canonical/commentarial material. No comparison claims were extracted
+    because the passage itself does not compare traditions or motif families.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to explicit material in the supplied passage and source metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l2449-l2506
+  passage_sha256=419502f8f2a3de718a0d174575632a3184f52d72f5936fb658ac7abb80662784
+

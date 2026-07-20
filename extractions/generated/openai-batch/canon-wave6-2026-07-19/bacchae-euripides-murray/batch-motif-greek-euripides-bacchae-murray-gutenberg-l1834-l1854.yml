@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1834-l1854
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: DIONYSUS. / PENTHEUS. / DIONYSUS. / DIONYSUS.; lines 1834-1854
+  start: '1834'
+  end: '1854'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Damsels, the lion walketh to the net!
+  summary: Dionysus addresses the damsels, depicts Pentheus as moving toward a trap,
+    invokes Dionyse for vengeance and madness, describes Pentheus being led in woman's
+    guise and clothed in a robe of sacrifice, and exits following Pentheus into the
+    Castle.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus addresses the damsels and says that a lion walks to the net, finds
+    the Bacchae, sees, dies, and pays for sin.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus invokes Dionyse as near and asks for vengeance.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dionysus asks the Master to stop the course of reason in the unnamed male
+    target, instill a foam of madness, and darken his seeing will until the deed is
+    done.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dionysus describes the target as a man of wrath and bitter threats who made
+    Thebes tremble and is led in woman's guise.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dionysus says he will fold a robe of sacrifice on Pentheus, that it will deck
+    him to the dark, and that it is his mother's gift.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Dionysus says Pentheus will learn Dionyse is God's true Son, fully God, most
+    fearful, and yet soft of mood toward man.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The stage direction says Dionysus exits, following Pentheus into the Castle.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dionysus / Dionyse
+  description: Speaker named Dionysus; within the speech Dionyse is invoked as Master
+    and God's true Son, fully God; Dionysus exits following Pentheus into the Castle.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Pentheus
+  description: Named recipient of the robe of sacrifice; followed by Dionysus into
+    the Castle; described as the target who will learn Dionyse's divine status.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Bacchae / damsels
+  description: Female group addressed as damsels and described as the Bacchae whom
+    the target finds.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Pentheus's mother
+  description: Unnamed mother referenced through the phrase that the robe is his mother's
+    gift.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaker orchestrating vengeance
+  assigned_to:
+  - fig:1
+  basis: Dionysus speaks the passage, asks for vengeance, and announces actions involving
+    Pentheus.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: condemned target
+  assigned_to:
+  - fig:2
+  basis: The speech says the target will see, die, pay for sin, and that the robe
+    will be folded on Pentheus.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: addressed Bacchic group
+  assigned_to:
+  - fig:3
+  basis: The speech begins by addressing damsels and refers to the target finding
+    his Bacchae.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: invoked deity and master
+  assigned_to:
+  - fig:1
+  basis: The speech invokes Dionyse as near, calls him Master, and names him God's
+    true Son in fullness God.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: disguised sacrificial victim
+  assigned_to:
+  - fig:2
+  basis: Pentheus is associated with woman's guise, a robe of sacrifice, and being
+    decked to the dark.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: referenced mother and gift source
+  assigned_to:
+  - fig:4
+  basis: The robe is described as his mother's gift.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: lion approaching net
+  literal_form: lion
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: net or trap
+  literal_form: net
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: foam of madness
+  literal_form: foam of madness
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: darkened sight and dark destination
+  literal_form: darkened seeing will; deck him to the dark
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: woman's guise and sacrificial robe
+  literal_form: woman's guise; robe of sacrifice
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: Castle
+  literal_form: Castle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The lion goes to the net
+  summary: Dionysus tells the damsels that the lion is moving toward the net, will
+    find the Bacchae, and will see, die, and pay for sin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Invocation for vengeance and madness
+  summary: Dionysus invokes Dionyse, asks for vengeance, and asks that the target's
+    reason and seeing will be overcome by madness and darkness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pentheus clothed for darkness
+  summary: Dionysus describes Pentheus as led in woman's guise, says he will place
+    the robe of sacrifice on him, says the robe is his mother's gift, and exits after
+    Pentheus into the Castle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine judgment for transgression
+  taxonomy_refs:
+  - divine_judgment
+  basis: The speech says the target will die and pay for sin, asks the god for vengeance,
+    and says Pentheus will learn Dionyse's divine identity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage states an announced or anticipated punishment; it does not
+    narrate the completion of the death within this excerpt.
+- id: motif:2
+  label: divinely induced madness
+  taxonomy_refs:
+  - divine_judgment
+  basis: Dionysus asks the Master to stop reason, instill a foam of madness, and darken
+    the target's seeing will.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No separate supplied taxonomy family exactly names divine madness, so
+    the taxonomy reference is limited to divine judgment.
+- id: motif:3
+  label: sacrificial dressing before death
+  taxonomy_refs:
+  - sacrifice
+  basis: Pentheus is to be led in woman's guise and clothed in a robe explicitly called
+    a robe of sacrifice, which will deck him to the dark.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The sacrificial language is explicit, but the excerpt only anticipates
+    the action and does not show a completed sacrifice.
+- id: motif:4
+  label: victim as prey entering a trap
+  taxonomy_refs: []
+  basis: Dionysus uses the image of a lion walking to a net and links this with finding
+    the Bacchae, seeing, dying, and paying for sin.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The lion and net appear as figurative language in the speech rather than
+    as literal animals or objects in the stage action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1834-1839
+  quote_or_summary: '"Damsels, the lion walketh to the net! He finds his Bacchae now,
+    and sees and dies, And pays for all his sin!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:2
+  type: quote
+  locator: lines 1839-1846
+  quote_or_summary: '"Grant us our vengeance!--First, O Master, stay The course of
+    reason in him, and instil A foam of madness... Be darkened"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:3
+  type: quote
+  locator: lines 1847-1851
+  quote_or_summary: '"this man of wrath and bitter threats That made Thebes tremble,
+    led in woman''s guise. I go to fold that robe of sacrifice On Pentheus"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:4
+  type: quote
+  locator: lines 1851-1854
+  quote_or_summary: '"His mother''s gift!--So shall he learn and mark God''s true
+    Son, Dionyse, in fulness God, Most fearful, yet to man most soft of mood."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; quotation allowed.
+- id: ev:5
+  type: summary
+  locator: line 1854 stage direction
+  quote_or_summary: Dionysus exits, following Pentheus into the Castle.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source metadata; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    candidate classifications and should be checked by a human reviewer, especially
+    where the passage uses figurative language or anticipates events outside the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unstated comparisons were used. Supplied taxonomy symbols did not include lion, net, robe, darkness, or castle, so symbol taxonomy references are empty.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1834-l1854
+  passage_sha256=be03740adc818d5a2e8d349581daa14054cf75bab4477fc4f24f54f13bffca97
+

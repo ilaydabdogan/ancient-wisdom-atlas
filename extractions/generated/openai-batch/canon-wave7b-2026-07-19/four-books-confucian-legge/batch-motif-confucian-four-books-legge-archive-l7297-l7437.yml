@@ -1,0 +1,417 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l7297-l7437
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: 'KI(;HT IN A( I KI''TINC AND DECLINING / BOOK IX. TSZE HAN / IT. THI: RARITY
+    OF A SINCERE / BOOK X. HEANG TANG; lines 7297-7437'
+  start: '7297'
+  end: '7437'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Book X, describing Confucius's demeanor and speech in
+    his village, in the prince's ancestral temple, at court among officers of different
+    ranks, before the ruler, and when summoned to assist in receiving a visitor. The
+    accompanying notes characterize the book as mainly descriptive of Confucius's
+    ways and demeanor in varied circumstances and explain the courtly reception protocol.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section is described as containing few sayings of Confucius and as focusing
+    on his ways and demeanor in various places and circumstances.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In his village, Confucius is said to have looked simple and sincere, as if
+    he were not able to speak.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the prince's ancestral temple or in the court, Confucius spoke minutely
+    on every point and cautiously.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When waiting at court, Confucius spoke freely and straightforwardly with great
+    officers of the lower grade.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When waiting at court, Confucius spoke blandly and precisely with great officers
+    of the higher grade.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the ruler was present, Confucius's manner showed respectful uneasiness
+    and was grave but self-possessed.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When the prince called Confucius to employ him in receiving a visitor, his
+    countenance changed and his legs moved forward with difficulty.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The commentary describes the visitor as probably the ruler of another state
+    and describes messages passing between visitor and host through officers arranged
+    in a zigzag line.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Confucius
+  description: The main person whose demeanor, speech, and bodily responses are described
+    in village, temple, court, and reception contexts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Prince or ruler
+  description: The political authority associated with the ancestral temple and court;
+    he is present in court and calls Confucius to assist with receiving a visitor.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Great officers of the lower grade
+  description: Court officers with whom Confucius speaks freely and straightforwardly
+    while waiting at court.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Great officers of the higher grade
+  description: Court officers with whom Confucius speaks blandly and precisely while
+    waiting at court.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Visitor
+  description: A visitor whom Confucius is called to help receive; the commentary
+    supposes this visitor to be the ruler of another state.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Reception officers
+  description: Officers on the visitor's and host's sides who pass questions and answers
+    along during the formal reception protocol.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: subject of demeanor description
+  assigned_to:
+  - fig:1
+  basis: The passage and heading describe Confucius's ways, demeanor, speech, and
+    physical responses across settings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: ruler or prince
+  assigned_to:
+  - fig:2
+  basis: The ruler is present at court, and the prince calls Confucius to assist in
+    receiving a visitor.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: ranked court interlocutors
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Confucius speaks differently with lower-grade and higher-grade great officers
+    while waiting at court.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: official visitor
+  assigned_to:
+  - fig:5
+  basis: Confucius is called to assist in receiving a visitor; the commentary identifies
+    the visitor as probably a ruler of another state.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: message intermediaries
+  assigned_to:
+  - fig:6
+  basis: The commentary describes officers passing questions and answers between visitor
+    and host in a formal reception.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: village setting
+  literal_form: Confucius's village
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ancestral temple setting
+  literal_form: the prince's ancestral temple
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: court setting
+  literal_form: the court where officers wait and the ruler may be present
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: deferential bodily response
+  literal_form: changed countenance, uneasy or difficult movement of feet and legs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: zigzag line of communication
+  literal_form: officers arranged in a zigzag line passing questions and answers between
+    visitor and host
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Confucius in village, ancestral temple, and court
+  summary: Confucius appears simple and sincere in his village, but in the prince's
+    ancestral temple or court he speaks minutely and cautiously.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Speech among ranked officers at court
+  summary: 'While waiting at court, Confucius adjusts his speech according to the
+    rank of the great officers: freely and straightforwardly with lower-grade officers,
+    blandly and precisely with higher-grade officers.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Presence of the ruler
+  summary: When the ruler is present, Confucius's manner displays respectful uneasiness
+    while remaining grave and self-possessed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Summons to receive a visitor
+  summary: The prince calls Confucius to assist with receiving a visitor, and Confucius's
+    face and movement show a marked physical response.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Formal reception protocol
+  summary: The commentary describes a formal encounter in which the visitor remains
+    outside the front gate, the host remains inside the reception room in the ancestral
+    temple, and officers relay messages in a zigzag line.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: setting-calibrated conduct of the sage
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents Confucius's demeanor and speech as changing according
+    to village, ancestral-temple, court, ruler, and reception contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is primarily behavioral and ethical rather than mythic; the
+    link to the broad wisdom family is thematic and should be reviewed.
+- id: motif:2
+  label: ritual precision of speech before authority
+  taxonomy_refs:
+  - wisdom
+  basis: Confucius speaks cautiously and minutely in the ancestral temple or court
+    and differentiates his speech with officers of different ranks.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a courtly-ritual speech pattern, not a supernatural or narrative
+    myth motif.
+- id: motif:3
+  label: embodied reverence before ruler and ceremony
+  taxonomy_refs: []
+  basis: The passage emphasizes respectful uneasiness before the ruler and a changed
+    countenance and difficult forward movement when summoned for a formal visitor
+    reception.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The evidence supports a pattern of deferential bodily demeanor, but the
+    term 'motif' may be too strong without comparison to other passages.
+- id: motif:4
+  label: mediated diplomatic encounter
+  taxonomy_refs: []
+  basis: The commentary describes a formal reception in which visitor and host communicate
+    through officers arranged in a line, relaying questions and answers.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: This pattern comes from the explanatory commentary rather than the main
+    translated sayings; it may be protocol detail rather than a motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7297-7437; Book X heading/commentary
+  quote_or_summary: The heading note says Book X contains hardly any sayings of Confucius
+    and is descriptive of his ways and demeanor in varied places and circumstances.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 7297-7437; Book X, Chapter I.1
+  quote_or_summary: '"Confucius, in his village, looked simple and sincere, and as
+    if he were not able to speak."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 7297-7437; Book X, Chapter I.2
+  quote_or_summary: '"When he was in the prince''s ancestorial temple, or in the court,
+    he spoke minutely on every point, but cautiously."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 7297-7437; Book X, Chapter II.1
+  quote_or_summary: When waiting at court, Confucius speaks freely and straightforwardly
+    with lower-grade great officers, and blandly but precisely with higher-grade officers.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: quote
+  locator: lines 7297-7437; Book X, Chapter II.2
+  quote_or_summary: '"When the ruler was present, his manner displayed respectful
+    uneasiness; it was grave, but self-possessed."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: quote
+  locator: lines 7297-7437; Book X, Chapter III.1
+  quote_or_summary: '"When the prince called him to employ him in the reception of
+    a visitor, his countenance appeared to change, and his legs to move forward with
+    difficulty."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:7
+  type: summary
+  locator: lines 7297-7437; commentary on Book X, Chapter III.1
+  quote_or_summary: The commentary explains that the visitor is supposed to be a ruler
+    of another state and that officers on the visitor's and host's sides form a zigzag
+    line to pass questions and answers until the visit is officially arranged.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward from the supplied passage. Motif
+    candidates are conservative because the passage is etiquette-focused rather than
+    mythic. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because none of the available symbol terms are present in the passage. Wisdom was used only as a broad candidate motif family for Confucius's exemplary conduct and speech.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l7297-l7437
+  passage_sha256=e5a60d698d1d2ece19e38e0864f5da5a6a4796e27f9040fb3cd51b544808b1b5
+

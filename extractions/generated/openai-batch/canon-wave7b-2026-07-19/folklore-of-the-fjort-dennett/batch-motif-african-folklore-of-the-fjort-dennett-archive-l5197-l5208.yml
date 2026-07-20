@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l5197-l5208
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: XXVII. / XXIX. / NZAMBI  MPUNGU'S  AMBASSADOR. / WHY  THE   CEOCODTLE   DOES   NOT  EAT  THE  HEN.  107;
+    lines 5197-5208
+  start: '5197'
+  end: '5208'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Therefore we are all brothers in a sense."'
+  summary: A crocodile intends to go to Nzambi to hold a palaver, but Mbambi tells
+    him not to do so. Mbambi explains that duck, turtle, Mbambi, hen, and crocodile
+    all lay eggs and are therefore brothers in a sense. The passage concludes that
+    this is why the crocodile does not eat the hen.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker says he can no longer stand the situation and is going to Nzambi
+    to hold a palaver about it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mbambi warns the crocodile not to go, saying he would lose the palaver and
+    show ignorance.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mbambi states that duck, turtle, Mbambi, hen, and crocodile lay eggs.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mbambi concludes that the egg-laying beings are all brothers in a sense.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage gives this kinship explanation as the reason the crocodile now
+    does not eat the hen.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: crocodile
+  description: Animal addressed by Mbambi as a crocodile and included among egg-laying
+    beings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Mbambi
+  description: Speaker who advises the crocodile and explains the shared egg-laying
+    relationship.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Nzambi
+  description: Figure to whom the crocodile says he is going in order to hold a palaver.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: duck
+  description: Animal described as living in water and laying eggs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: turtle
+  description: Animal described as also laying eggs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: hen
+  description: Animal described as laying eggs and not eaten by the crocodile.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: would-be petitioner
+  assigned_to:
+  - fig:1
+  basis: The crocodile intends to go to Nzambi to hold a palaver.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: egg-laying kin-group member
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Mbambi groups duck, turtle, Mbambi, hen, and crocodile as beings that lay
+    eggs and are brothers in a sense.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: advisor
+  assigned_to:
+  - fig:2
+  basis: Mbambi tells the crocodile not to go to the palaver.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: kinship explainer
+  assigned_to:
+  - fig:2
+  basis: Mbambi explains that several animals share egg-laying and are brothers in
+    a sense.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: palaver authority
+  assigned_to:
+  - fig:3
+  basis: The crocodile says he is going to Nzambi to hold a palaver.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: protected prey
+  assigned_to:
+  - fig:6
+  basis: The explanation is given for why the crocodile does not eat the hen.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: eggs as sign of kinship
+  literal_form: eggs laid by duck, turtle, Mbambi, hen, and crocodile
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: water habitat
+  literal_form: water in which the duck lives
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: palaver
+  literal_form: palaver with Nzambi
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Crocodile plans a palaver
+  summary: The crocodile says he can no longer stand the matter and is going to Nzambi
+    for a palaver.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mbambi explains egg-laying kinship
+  summary: Mbambi stops the crocodile from going and explains that duck, turtle, Mbambi,
+    hen, and crocodile all lay eggs, making them brothers in a sense.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Etiological conclusion
+  summary: The narrator states that this is why the crocodile now does not eat the
+    hen.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal behavior explained by kinship recognition
+  taxonomy_refs: []
+  basis: The story explains the crocodile's refusal to eat the hen through their shared
+    status as egg-laying beings and brothers in a sense.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage provides only the ending of the tale, so preceding conflict
+    is not fully visible in this excerpt.
+- id: motif:2
+  label: wise counsel prevents a mistaken appeal
+  taxonomy_refs:
+  - wisdom
+  basis: Mbambi rebukes and advises the crocodile not to bring a palaver that would
+    reveal ignorance, then gives the reasoning.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference 'wisdom' is broad; the passage supports
+    counsel and correction but not an extended wisdom quest.
+- id: motif:3
+  label: shared bodily reproduction as social brotherhood
+  taxonomy_refs: []
+  basis: Egg-laying is used as the stated basis for classing multiple animals as brothers
+    in a sense.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The kinship is explicitly qualified as 'in a sense'.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage has the same function as an animal etiological tale: it explains
+    a present animal behavior by recounting a past recognition of relationship.'
+  claim_level: same_function
+  target: animal etiological tale pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No external comparative corpus is cited in the passage; the claim is
+    limited to narrative function visible in the excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5197-5200
+  quote_or_summary: A speaker says he cannot stand it any longer and is going to Nzambi
+    to hold a palaver.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5201-5203
+  quote_or_summary: Mbambi says, "do nothing of the sort," warning the crocodile that
+    he would lose the palaver and show ignorance.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 5204-5207
+  quote_or_summary: Mbambi says the duck lives in water and lays eggs; the turtle,
+    Mbambi, hen, and crocodile also lay eggs.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 5207-5208
+  quote_or_summary: '"Therefore we are all brothers in a sense."'
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: line 5208
+  quote_or_summary: The narrator concludes that for this reason the crocodile now
+    does not eat the hen.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and appears to preserve the ending of a larger tale;
+    extraction is limited to the supplied line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy refs limited to provided available references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l5197-l5208
+  passage_sha256=e3305aaa0b6e66f3410b196008facfe53b57f9c29e16f115746b3e6e2f8b8741
+

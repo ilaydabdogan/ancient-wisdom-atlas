@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.australian-ethnological-studies-queensland-roth-archive-l6101-l6329
+source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+passage_locator:
+  label: KOOPOOROO. / WOONGKO. / KOORKILLA. / BUNBURI.; lines 6101-6329
+  start: '6101'
+  end: '6329'
+  translation: Ethnological Studies among the North-West-Central Queensland Aborigines
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents an ethnographic section on social and individual nomenclature.
+    It gives Purgoma group-relationship equivalents, lists geneanym kin terms, and
+    then introduces the Jou-on sub-tribe with its locations, gamo-matronyms, paedo-matronyms,
+    and heteronymic kinship terms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage belongs to a section on social and individual nomenclature and
+    class systems.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Purgoma group-relationship table is arranged by gamo-matronyms Naka and
+    Tunna and by paedo-matronyms Koopooroo, Woongko, Koorkilla, and Bunburi, with
+    male and female terms under each category.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The geneanym list gives kinship equivalences and named kin terms, including
+    father’s brother as father, husband and wife terms corresponding to brother-in-law
+    and sister-in-law terms, and terms for grandparents, in-laws, son, and daughter.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Jou-on sub-tribe is described as having headquarters at Ooktown and travelling
+    to the Laura, Maytown, and the Bloom field.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: For the Jou-on sub-tribe, Che-pa and Junna are given as gamo-matronyms; Koopooroo,
+    Woongko, Koorkilla, and Bunburi are given as paedo-matronyms.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage lists Jou-on heteronyms for kin relations including brother, sister,
+    mother, mother’s brother, father, father’s sister, sister-in-law, and brother-in-law.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Purgoma group
+  description: Named group whose relationship equivalents are presented in a heteronymic
+    table.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Jou-on sub-tribe
+  description: Sub-tribe associated with Ooktown and travel to the Laura, Maytown,
+    and the Bloom field; its matronymic and heteronymic terms are listed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: source group for relationship-equivalent table
+  assigned_to:
+  - fig:1
+  basis: The passage introduces Purgoma group-relationship equivalents and lays them
+    out in a table.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sub-tribe with named location range and kinship terminology
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the Jou-on sub-tribe, gives its headquarters and travel
+    range, and lists its matronymic and heteronymic terms.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Purgoma class and kinship terminology
+  summary: The passage gives a Purgoma heteronymic relationship table organized by
+    matronymic categories and follows it with a list of geneanym kinship terms and
+    equivalences.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Jou-on sub-tribe location and terminology
+  summary: The passage identifies the Jou-on sub-tribe’s headquarters and travel range,
+    then lists its gamo-matronyms, paedo-matronyms, and heteronymic kin terms.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: matronymic and paedo-matronymic class mapping
+  taxonomy_refs: []
+  basis: The passage organizes social relationship terms by gamo-matronym and paedo-matronym
+    categories for the Purgoma group and the Jou-on sub-tribe.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic classificatory pattern rather than a mythic narrative
+    motif; no supplied taxonomy motif family is asserted.
+- id: motif:2
+  label: kinship-term equivalence pattern
+  taxonomy_refs: []
+  basis: The passage states kinship equivalences and lists heteronymic terms for relations
+    such as father’s brother, in-laws, siblings, parents, and children.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: This is a social-nomenclature pattern, not a mythological episode or symbolic
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the Jou-on paedo-matronyms are identical with those
+    given in section 62 of the same work.
+  claim_level: linguistic_similarity
+  target: same-source section 62 paedo-matronym set
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim relies only on the supplied excerpt’s internal cross-reference;
+    the referenced section text is not independently supplied here.
+- id: claim:2
+  claim: The passage equates the Jou-on gamo-matronyms Che-pa and Junna with Ootaroo
+    and Pakoota from section 61 of the same work.
+  claim_level: same_function
+  target: same-source section 61 gamo-matronyms Ootaroo and Pakoota
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The supplied passage reports the equivalence, but the referenced section
+    61 wording is not included for independent comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6101-6329, passage heading
+  quote_or_summary: The passage opens under the heading on social and individual nomenclature
+    and class systems.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 6101-6329, Purgoma heteronymic table
+  quote_or_summary: The Purgoma group-relationship table lists gamo-matronyms Naka
+    and Tunna and paedo-matronyms Koopooroo, Woongko, Koorkilla, and Bunburi, with
+    male and female relationship terms.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 6101-6329, geneanym list
+  quote_or_summary: The geneanym list states kinship equivalences and terms for spouses,
+    in-laws, grandparents, parents’ siblings, son, and daughter.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 6101-6329, Jou-on sub-tribe introduction
+  quote_or_summary: The Jou-on sub-tribe is described as headquartered at Ooktown
+    and travelling to the Laura, Maytown, and the Bloom field.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 6101-6329, Jou-on matronym section
+  quote_or_summary: The passage gives Jou-on gamo-matronyms Che-pa and Junna, equates
+    them with Ootaroo and Pakoota from section 61, and lists Koopooroo, Woongko, Koorkilla,
+    and Bunburi as paedo-matronyms identical with those in section 62.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 6101-6329, Jou-on heteronym list
+  quote_or_summary: The passage lists Jou-on heteronymic kin terms for brother, sister,
+    mother, mother’s brother, father, father’s sister, sister-in-law, and brother-in-law,
+    and then introduces a Jou-on group-relationship table.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is chiefly an ethnographic kinship-nomenclature table, not a
+    mythic narrative. OCR irregularities and partial tabular formatting limit fine-grained
+    certainty for individual terms.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological symbols from the supplied taxonomy were identified in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-ethnological-studies-queensland-roth-archive__l6101-l6329
+  passage_sha256=d48ce78634e655c80e51dfcbf6b817d3878b813c5293fb605c4770e191dce4cc
+

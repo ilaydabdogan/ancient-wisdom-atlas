@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l688-l743
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: KHEFTIU / HEA, Y / NINE APES AND TWELVE FIERY SERPENTS I3 / THE PRAISERS
+    OF RA; lines 688-743
+  start: '688'
+  end: '743'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: THE PRAISERS OF RA
+  summary: The passage identifies divine groups who praise or sing to Ra, describes
+    twelve goddesses with their arms at their sides, lists their names, and introduces
+    an address made by the Sun-god to gods in the First Division of the Tuat.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a section concerning the praisers of Ra.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A group of nine figures is identified by a caption as the praisers of Ra.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Twelve goddesses are described with their arms hanging by their sides and
+    as giving praises or singing to Ra.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: The twelve goddesses are named in a list, though several names and signs are
+    affected by OCR corruption.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The passage introduces an address that the Sun-god makes to gods in the First
+    Division of the Tuat.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ra / the Sun-god
+  description: Ra is the deity praised by the divine groups; the Sun-god is also said
+    to address gods in the First Division of the Tuat.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Nine praisers of Ra
+  description: A caption identifies a group as the nine praisers of Ra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Twelve goddesses who sing to Ra
+  description: A group of twelve goddesses, with arms hanging by their sides, is described
+    as giving praises or singing to Ra. Names in the passage include Maa-neter-s,
+    Art-neter-s, Hekent, Net, Apert-re, Ab, Nebt-net, Hra-seni(?), Tefnut, Nutet,
+    Ames.../Ame-s-t, and Ast, with OCR uncertainty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Gods in the First Division of the Tuat
+  description: The gods are identified as the audience of an address by the Sun-god
+    in the First Division of the Tuat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: recipient of praise
+  assigned_to:
+  - fig:1
+  basis: Ra is named as the object of praise and song by the divine groups.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: praisers or singers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage captions one group as praisers of Ra and another as goddesses
+    who sing to Ra.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: divine speaker
+  assigned_to:
+  - fig:1
+  basis: The Sun-god is said to make an address to gods in the First Division of the
+    Tuat.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: divine audience
+  assigned_to:
+  - fig:4
+  basis: The gods in the First Division of the Tuat are the recipients of the Sun-god's
+    address.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: numbered group of nine
+  literal_form: nine praisers of Ra
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: numbered group of twelve
+  literal_form: twelve goddesses who sing or give praises to Ra
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: arms hanging by the sides
+  literal_form: gesture or posture of the twelve goddesses
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Tuat division
+  literal_form: First Division of the Tuat
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Divine praise of Ra
+  summary: The section presents divine groups, including nine praisers and twelve
+    goddesses, who praise or sing to Ra.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Sun-god addresses gods in the Tuat
+  summary: The passage introduces an address made by the Sun-god to gods in the First
+    Division of the Tuat, though the address itself is not legibly preserved in the
+    supplied excerpt.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divine praise of the solar deity
+  taxonomy_refs: []
+  basis: The passage repeatedly identifies groups whose function is to praise or sing
+    to Ra.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The excerpt is mostly descriptive and captions are OCR-noisy; no extended
+    hymn text is legibly supplied.
+- id: motif:2
+  label: Numbered divine attendants in the Tuat
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage gives numbered groups, nine praisers and twelve goddesses, connected
+    with Ra and a division of the Tuat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The broader afterlife-journey context is supported by the mention of the
+    First Division of the Tuat, but the supplied excerpt gives only a small, OCR-corrupt
+    portion of the scene.
+- id: motif:3
+  label: Divine address within an underworld division
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage states that the Sun-god makes an address to gods in the First
+    Division of the Tuat.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The words of the address are not legible in the supplied passage, so the
+    function of the speech cannot be further specified.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 688-743, section heading
+  quote_or_summary: '"THE PRAISERS OF RA"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 688-743, caption area
+  quote_or_summary: '"The nine praisers of Ra."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 688-743, description of twelve goddesses
+  quote_or_summary: '"Twelve goddesses, with their arms hanging by their sides"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 688-743, caption area
+  quote_or_summary: '"The twelve goddesses who sing to Ra."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 688-743, list of goddess names
+  quote_or_summary: The passage lists twelve names for the goddesses, including Maa-neter-s,
+    Art-neter-s, Hekent, Net, Apert-re, Ab, Nebt-net, Hra-seni(?), Tefnut, Nutet,
+    Ames.../Ame-s-t, and Ast, with OCR uncertainty.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized because the OCR is noisy.
+- id: ev:6
+  type: quote
+  locator: lines 688-743, final paragraph
+  quote_or_summary: '"The address which the Sun-god makes to the gods in the First
+    Division of the Tuat reads"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is public-domain English translation text, but the supplied excerpt
+    is heavily OCR-corrupt. Clear extraction is limited to captions, group descriptions,
+    the list of names, and the introductory sentence about the Sun-god's address.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No serpent or fire symbol was extracted despite the broader locator label, because those elements are not legible in the supplied passage text.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l688-l743
+  passage_sha256=d24e3affb98191431ee264a58076645cabbca175cd0d110295b28fce7d185f74
+

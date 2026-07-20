@@ -1,0 +1,102 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l2511-l2513
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. XXX / CHAP. XXXI / CHAP. XXXII / CHAP. XXXIII; lines 2511-2513
+  start: '2511'
+  end: '2513'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Of Gest Oddleifson and Gudrun's Dreams
+  summary: The passage is a chapter heading for Chapter XXXIII, identifying Gest Oddleifson
+    and Gudrun's dreams as the chapter topic.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage labels the section as Chapter XXXIII.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heading names Gest Oddleifson.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The heading refers to Gudrun's dreams.
+  category: other
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Gest Oddleifson
+  description: Named in the chapter heading.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gudrun
+  description: Named possessively in relation to dreams in the chapter heading.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: named chapter subject
+  assigned_to:
+  - fig:1
+  basis: Gest Oddleifson is named in the chapter heading.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: person associated with dreams
+  assigned_to:
+  - fig:2
+  basis: The heading refers to "Gudrun's Dreams."
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: dreams as narrative topic
+  taxonomy_refs: []
+  basis: The heading explicitly presents Gudrun's dreams as a subject of the chapter,
+    but gives no dream content.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Only a heading is provided; no dream images, events, or interpretations
+    are included in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2511-2513
+  quote_or_summary: CHAP. XXXIII / Of Gest Oddleifson and Gudrun's Dreams
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Extraction is limited to a chapter heading. Named figures and dream reference
+    are explicit, but motif identification is minimal and requires review against
+    the chapter content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims or taxonomy references were assigned because the supplied passage contains only a heading and no substantive dream narrative.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l2511-l2513
+  passage_sha256=227effcc586db83c5a3994dce4749e507307557b1a77ac5fb997b9e0342974c5
+

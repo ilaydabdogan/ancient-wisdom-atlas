@@ -1,0 +1,462 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l22332-l22433
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: VIII,  232.        RESCISSION  OF  SALE  AND  PURCHASE.  295 / VIII,  270.        BOUNDARY  DISPUTES  ;    DEFAMATION.  3OI
+    / VIII,  282.  ASSAULT    AND    HURT.  303 / VIII,  295.  ASSAULT    AND    HURT.  305;
+    lines 22332-22433
+  start: '22332'
+  end: '22433'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives legal rules for assault, hurt, and damage: compensation
+    and fines for damaging goods; exceptions and liabilities for carriage accidents;
+    graded penalties for killing or injuring humans and animals; and limits on beating
+    certain household or dependent persons who have committed faults.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person who damages another's goods, whether intentionally or unintentionally,
+    must satisfy the owner and pay the king a fine equal to the damage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Damage to leather goods, wooden goods, clay goods, flowers, roots, and fruit
+    is assigned a fine of five times the value.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage lists carriage-related circumstances in which no punishment for
+    damage is imposed, including broken harness parts, broken axle or wheel, the carriage
+    turning aside or back, and the driver's loud warning to make way.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If a cart turns off the road through the driver's lack of skill and damage
+    occurs, the owner is fined two hundred panas.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If a skilful driver is negligent, the driver alone is fined; if the driver
+    is unskilful, the carriage occupants are each fined one hundred panas.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If a carriage is stopped by cattle or another carriage and causes the death
+    of a living being, a fine is imposed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The penalties for deaths or injuries are graded by victim type: a killed
+    man is treated like a theft case; large animals receive half that penalty; other
+    animals receive smaller specified fines.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: A wife, son, slave, pupil, and younger full brother who have committed faults
+    may be beaten with a rope or split bamboo.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Beating is restricted to the back part of the body and not to a noble part;
+    striking otherwise incurs the same guilt as a thief.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage closes the section on assault and hurt and announces rules for
+    theft.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: person who damages another's goods
+  description: A person who damages the goods of another, intentionally or unintentionally.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: owner of damaged goods
+  description: The owner to whom satisfaction must be given when goods are damaged.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: king
+  description: The authority to whom fines are paid or by whose law fines are imposed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:4
+  name_or_label: carriage driver
+  description: A driver whose skill, negligence, warning call, or accident circumstances
+    affect liability.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: carriage owner
+  description: The owner of a carriage who may be fined when damage occurs through
+    the driver's lack of skill.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: carriage occupants
+  description: Occupants of a carriage who may each be fined when the driver is unskilful.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: living beings and animals harmed by a carriage
+  description: Living beings, humans, large animals, small cattle, wild quadrupeds,
+    birds, donkeys, sheep, goats, dogs, and pigs mentioned as killed or injured victims.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: fault-committing household or dependent persons
+  description: A wife, son, slave, pupil, and younger full brother of the full blood
+    who have committed faults.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: person who strikes them
+  description: The person who beats the listed household or dependent persons and
+    is liable if striking them improperly.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: damage-causer
+  assigned_to:
+  - fig:1
+  basis: The person damages another's goods and must make satisfaction and pay a fine.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: injured owner
+  assigned_to:
+  - fig:2
+  basis: The damaged-goods owner receives satisfaction.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fine-receiving authority
+  assigned_to:
+  - fig:3
+  basis: The king receives fines and is named as the legal authority in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:4
+  label: vehicle operator
+  assigned_to:
+  - fig:4
+  basis: The driver controls the carriage and may call out a warning.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: liable negligent or unskilful driver
+  assigned_to:
+  - fig:4
+  basis: The driver alone is fined if skilful but negligent; unskilfulness also affects
+    liability.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: liable carriage owner
+  assigned_to:
+  - fig:5
+  basis: The carriage owner is fined when damage occurs through the driver's lack
+    of skill.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: secondary liable occupants
+  assigned_to:
+  - fig:6
+  basis: Occupants are each fined when the driver is unskilful.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: harmed living beings
+  assigned_to:
+  - fig:7
+  basis: The passage specifies penalties for killing or injuring living beings, humans,
+    and various animals.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:9
+  label: disciplinable dependent or household member
+  assigned_to:
+  - fig:8
+  basis: The listed persons who commit faults may be beaten with specified implements.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: bounded disciplinarian
+  assigned_to:
+  - fig:9
+  basis: The person who strikes them must strike only on the back part and not on
+    a noble part.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Damage to goods and compensation
+  summary: The text establishes restitution to the owner and fines to the king for
+    damaging another's goods, with higher multiples for specified materials and produce.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Carriage accident exceptions and liabilities
+  summary: The text distinguishes unavoidable carriage malfunctions or warnings from
+    cases involving lack of skill or negligence, assigning no punishment in some cases
+    and fines in others.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Carriage-caused death or injury of beings
+  summary: When a stopped carriage causes death or injury, the passage assigns fines
+    according to whether the victim is human, a large animal, small cattle, wild animals,
+    birds, or other named animals.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Regulated beating of dependents
+  summary: The text permits beating certain fault-committing household or dependent
+    persons only with specified implements and only on the back part of the body.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Transition from assault law to theft law
+  summary: The passage states that the law of assault and hurt has been fully declared
+    and introduces rules for theft.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Restitution plus royal fine for property damage
+  taxonomy_refs: []
+  basis: Damaging another's goods requires satisfaction to the owner and a fine to
+    the king, with specified multipliers for certain goods.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a legal pattern rather than a mythic narrative motif.
+- id: motif:2
+  label: Excusable accident versus punishable negligence
+  taxonomy_refs: []
+  basis: Carriage damage is exempt from punishment under listed mechanical or warning
+    conditions but punished when caused by want of skill or negligence.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage frames this as jurisprudence, not symbolic narrative.
+- id: motif:3
+  label: Graded penalties by status or species of victim
+  taxonomy_refs: []
+  basis: Penalties differ for killed humans, large animals, small cattle, wild quadrupeds,
+    birds, donkeys, sheep, goats, dogs, and pigs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The pattern is normative and classificatory; it should not be read as
+    a cosmological hierarchy without additional evidence.
+- id: motif:4
+  label: Bounded corporal discipline
+  taxonomy_refs: []
+  basis: The passage permits beating specified dependents who have committed faults
+    but limits implement and body location and assigns guilt for improper striking.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a legal rule in the passage; no endorsement or broader cultural
+    interpretation is implied.
+comparison_claims:
+- id: claim:1
+  claim: The passage's notes identify a parallel for the carriage-damage rules in
+    Yagn. II, 298-299.
+  claim_level: same_function
+  target: Yagn. II, 298-299 as cited in the editorial note
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supplies only a citation to a parallel, not the text of
+    the cited passage.
+- id: claim:2
+  claim: The passage's notes identify a parallel for the animal injury and killing
+    fines in Vi.V, 50-54.
+  claim_level: same_function
+  target: Vi.V, 50-54 as cited in the editorial note
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supplies only a citation to a parallel, not the text of
+    the cited passage.
+- id: claim:3
+  claim: The passage's notes identify parallels for the rules on beating dependents
+    in Ap. I, 8, 31 and Gaut. II, 43-44.
+  claim_level: same_function
+  target: Ap. I, 8, 31 and Gaut. II, 43-44 as cited in the editorial note
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supplies only citations to parallels, not the text of the
+    cited passages.
+evidence:
+- id: ev:1
+  type: summary
+  locator: VIII.288-289; lines 22334-22345
+  quote_or_summary: Damage to another's goods requires satisfaction to the owner and
+    a fine to the king; selected goods such as leather, wood, clay, flowers, roots,
+    and fruit incur fines of five times their value.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: VIII.290-292; lines 22347-22364
+  quote_or_summary: Ten carriage-related cases are declared not punishable, including
+    broken nose-string, yoke, axle, wheel, thongs, neck-rope, or bridle, the carriage
+    turning aside or back, and the driver's call to make way.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: VIII.293-294; lines 22366-22375
+  quote_or_summary: If a cart leaves the road through the driver's want of skill and
+    causes damage, the owner is fined two hundred panas; a negligent skilful driver
+    alone is fined, while occupants are each fined when the driver is unskilful.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: VIII.295-296; lines 22377-22402
+  quote_or_summary: If a carriage stopped by cattle or another carriage causes a living
+    being's death, a fine is imposed; if a man is killed, guilt is the same as that
+    of a thief, and large animals receive half that penalty.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: VIII.297-298; lines 22408-22416
+  quote_or_summary: The passage assigns fines for injuring small cattle, beautiful
+    wild quadrupeds and birds, donkeys, sheep, goats, dogs, and pigs.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: VIII.299-300; lines 22418-22430 and note on VIII.300
+  quote_or_summary: A wife, son, slave, pupil, and younger full brother who commit
+    faults may be beaten with a rope or split bamboo, but only on the back part of
+    the body and not on a noble part such as the chest or head.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: VIII.301-302; lines 22432-22433
+  quote_or_summary: The law of assault and hurt is declared complete, and rules for
+    theft are introduced; the next verse begins by telling the king to exert himself.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: citation
+  locator: Footnote to VIII.291-295; lines 22387-22390
+  quote_or_summary: The note cites Yagn. II, 298-299 in connection with the carriage
+    rules.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; citation summarized.
+- id: ev:9
+  type: citation
+  locator: Footnote to VIII.297-298; lines 22412-22413
+  quote_or_summary: The note cites Vi.V, 50-54 in connection with the animal injury
+    and killing fines.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; citation summarized.
+- id: ev:10
+  type: citation
+  locator: Footnote to VIII.299-300; lines 22424-22431
+  quote_or_summary: The note cites Ap. I, 8, 31 and Gaut. II, 43-44 in connection
+    with the beating rules, and explains 'noble part' as chest, head, and similar
+    parts.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; citation summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal legal content is explicit. Motif labels are treated as legal-pattern
+    candidates rather than mythic motifs. Comparison claims are limited to editorial
+    cross-references present in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif families or symbol refs were assigned because the passage does not present a supported mythic-symbolic object or motif from the supplied lists.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l22332-l22433
+  passage_sha256=4a395f936d47dfcd9776b07b67b5deb0788af0499d73c9070c683bfaaa7aa567
+

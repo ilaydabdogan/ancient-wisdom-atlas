@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l14869-l14892
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12 / BOOK 8 / BOOK 9; lines 14869-14892'
+  start: '14869'
+  end: '14892'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a general and terrible battle in which warriors on
+    both sides fight and kill one another. Dust raised by chariots, horses, and elephants
+    darkens the sun and shrouds the earth until blood from slain heroes drenches the
+    ground and settles the dust. The narrator then sees fierce single combats at noon,
+    accompanied by a loud sound of falling arrows compared to a burning bamboo forest.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The battle is described as general, awful, and filled with many fierce encounters.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Warriors from both armies encounter one another, pierce one another, and slay
+    one another.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Vehicles, animals, running steeds, chariot wheels, and elephants raise a dense
+    cloud of dust that is carried by wind and rises into the sky.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The raised dust dims the sun, shrouds the Earth, and prevents the heroic car-warriors
+    from being seen.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The dust disappears and the scene becomes clear when the Earth is drenched
+    with the blood of heroes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After the dust clears, the narrator sees diverse single combats fought at
+    noon according to each combatant's strength and rank.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The noise of falling shafts in battle is compared to the sound made by a vast
+    forest of bamboo burning on every side.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: combatants of both armies
+  description: Warriors belonging to both armies who encounter, pierce, and slay one
+    another.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: heroic and mighty car-warriors
+  description: Warriors on chariots who cannot be seen while the sun and Earth are
+    obscured by dust.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: narrator
+  description: The speaker who reports seeing the single combats again after the dust
+    clears.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: heroes
+  description: Heroes whose blood drenches the Earth and settles the dust.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: mutual battlefield opponents
+  assigned_to:
+  - fig:1
+  basis: They belong to both armies and pierce and slay one another in the engagement.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: obscured chariot warriors
+  assigned_to:
+  - fig:2
+  basis: They are hidden from sight when dust dims the sun and shrouds the Earth.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: battlefield observer
+  assigned_to:
+  - fig:3
+  basis: The speaker says he could once more see the single combats after the dust
+    cleared.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: blood-shedding fallen heroes
+  assigned_to:
+  - fig:4
+  basis: Their blood drenches the Earth and allays the dust cloud.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dense cloud of dust
+  literal_form: Dust raised by vehicles, animals, steeds, chariot wheels, and elephants;
+    compared to an evening cloud.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: dimmed sun
+  literal_form: The sun is dimmed by the raised dust.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: blood-drenched Earth
+  literal_form: The Earth becomes drenched with the blood of heroes, causing the dust
+    cloud to disappear.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: burning bamboo forest sound-image
+  literal_form: The noise of falling shafts is likened to a vast forest of bamboo
+    burning on every side.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: general battle and mutual slaughter
+  summary: The battle becomes widespread and terrible, with warriors of both armies
+    engaging in many fierce encounters and killing one another.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: dust cloud obscures the battlefield
+  summary: Dust raised by vehicles and animals rises like a cloud, dims the sun, shrouds
+    the Earth, and makes the chariot warriors invisible.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: blood settles the dust and reveals combat
+  summary: The dust clears when the Earth is drenched in the blood of heroes, allowing
+    the narrator to see fierce noon single combats again.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: sound of falling shafts
+  summary: The falling arrows or shafts make a loud noise compared to a bamboo forest
+    burning on all sides.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: battlefield chaos and obscuration
+  taxonomy_refs:
+  - chaos
+  basis: The passage presents a general battle in which dense dust, raised by war
+    vehicles and animals, dims the sun, shrouds the Earth, and hides warriors from
+    view.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes battlefield disorder rather than a cosmological
+    chaos myth; the taxonomy link is thematic and should be reviewed.
+- id: motif:2
+  label: blood revealing the hidden battlefield
+  taxonomy_refs: []
+  basis: The dust cloud disappears and visibility returns only after the Earth is
+    drenched with the blood of heroes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a localized battlefield image; no broader comparative motif is
+    explicitly stated in the passage.
+- id: motif:3
+  label: weapons compared to consuming fire
+  taxonomy_refs: []
+  basis: The noise of falling shafts is compared to a vast bamboo forest burning on
+    every side.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The fire image is a simile for sound, not an actual fire event or explicit
+    world-destroying-fire motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14869-14873
+  quote_or_summary: The battle becomes general and awful, with many beautiful, awful,
+    and exceedingly fierce encounters.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary.
+- id: ev:2
+  type: summary
+  locator: lines 14873-14875
+  quote_or_summary: Warriors belonging to both armies encounter one another and pierce
+    and slay one another in the dreadful engagement.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary.
+- id: ev:3
+  type: summary
+  locator: lines 14875-14880
+  quote_or_summary: Dust is raised by vehicles, animals, running steeds, chariot wheels,
+    and elephants' breaths, and rises thick like an evening cloud.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary.
+- id: ev:4
+  type: summary
+  locator: lines 14880-14883
+  quote_or_summary: The raised dust dims the sun, shrouds the Earth, and makes the
+    heroic and mighty car-warriors impossible to see.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary.
+- id: ev:5
+  type: summary
+  locator: lines 14883-14886
+  quote_or_summary: The dust disappears and all becomes clear when the Earth is drenched
+    with the blood of heroes, allaying the awful dust cloud.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary.
+- id: ev:6
+  type: summary
+  locator: lines 14886-14890
+  quote_or_summary: The narrator can again see diverse single combats fought at noon,
+    each according to the fighters' strength and rank.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary.
+- id: ev:7
+  type: summary
+  locator: lines 14890-14892
+  quote_or_summary: The loud noise of falling shafts resembles the sound of a vast
+    forest of bamboo burning on every side.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is concrete and descriptive, supporting extraction of battlefield
+    images and actions. Motif assignment is cautious because the passage does not
+    explicitly frame the imagery as a broader mythic pattern. No comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l14869-l14892
+  passage_sha256=37fa2df615153ee450393f088e9186fa9a72b52c1c4f757f68eccf69bc5baad1
+

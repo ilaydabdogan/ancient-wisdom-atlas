@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l13882-l13913
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: ICE    CREEPERS / BOATS / BUREAU   OF  AMERICAN    ETHNOLOGY / EIGHTEENTH    ANNUAL    REPORT      PL.    LXXVIII;
+    lines 13882-13913
+  start: '13882'
+  end: '13913'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes and compares regional kaiak forms around King Island,
+    Bering Strait, Nunivak Island, the Yukon mouth region, Kotzebue Sound, Point Barrow,
+    and the Aleutian Islands, noting dimensions, bow and stern shapes, strength of
+    framework, use in stormy waters, and regional variation in size and slenderness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Figure 4, plate LXXIX is identified as a kaiak from King Island, with stated
+    measurements of length, depth, and beam.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King Island kaiaks are described as comparatively short and broad, with
+    an upcurved bow and a circular opening through the bow piece.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stern of the King Island kaiak extends nearly straight back from the manhole
+    for a short distance and then curves down to the level of the keel point.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: These kaiaks are strongly made and are used in the stormy waters of the strait,
+    sometimes traveling to the Siberian coast of the strait and to St. Lawrence Island.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Nunivak Island and Bering Strait kaiaks are described as alike in general
+    form, with broad bottoms and strong frameworks.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Nunivak Island kaiaks are sometimes twice the size of Bering Strait kaiaks,
+    and may have a strongly upcurved bow and an extended stern end piece.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Nunivak Island style of kaiak is reported at Kushunuk, Askinuk, and the
+    southern border of the Yukon mouth; northward it gives way to the Norton Sound
+    type, while southward from Nunivak Island the size and height decrease toward
+    the Aleutian Islands.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Kaiaks on the shores of Kotzebue Sound are described as smaller, slenderer,
+    and built on a different model; the same style is found northward to Point Barrow,
+    where the craft are longer and proportionately slenderer.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: King Island kaiak
+  description: A regional kaiak type represented in figure 4, plate LXXIX, described
+    by measurements, short broad form, upcurved bow, circular bow opening, distinctive
+    stern, and use in stormy strait waters.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Nunivak Island kaiak type
+  description: A kaiak type described as generally similar to Bering Strait kaiaks
+    in broad bottom and strong framework, but sometimes much larger, with a strongly
+    upcurved bow and extended stern end piece.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Bering Strait kaiak type
+  description: A kaiak type compared with Nunivak Island kaiaks as similar in general
+    form, broad bottom, and framework strength.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Kotzebue Sound and Point Barrow kaiak style
+  description: A smaller and slenderer kaiak model found from Kotzebue Sound northward
+    to Point Barrow, with Point Barrow examples described as longer and proportionately
+    slenderer.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Norton Sound kaiak type
+  description: A kaiak type mentioned as replacing the Nunivak Island style northward
+    of the southern Yukon mouth region.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: described watercraft type
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage describes multiple regional kaiak forms, dimensions, construction
+    traits, and distribution.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: regional comparative type
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage compares kaiak styles across Nunivak Island, Bering Strait, Norton
+    Sound, Kotzebue Sound, and Point Barrow.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: vessel for stormy strait travel
+  assigned_to:
+  - fig:1
+  basis: The passage states that these strongly made kaiaks are used in stormy waters
+    and sometimes taken to the Siberian coast and St. Lawrence Island.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: kaiak as watercraft
+  literal_form: kaiak / small boat
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: stormy strait waters
+  literal_form: stormy waters of the strait
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: upcurved bow and bow opening
+  literal_form: upcurved bow with circular opening through the bow piece
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: broad bottom and strong framework
+  literal_form: broad bottom and strong framework of kaiaks
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: King Island kaiak description and use
+  summary: The passage identifies a King Island kaiak, gives its dimensions and construction
+    traits, and states that such kaiaks are used in stormy strait waters and sometimes
+    for longer coastal crossings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Nunivak and Bering Strait kaiak comparison
+  summary: The passage compares Nunivak Island and Bering Strait kaiaks, noting general
+    similarity in broad bottoms and strong frameworks, while distinguishing Nunivak
+    examples by larger size and bow and stern variations.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Regional distribution of Nunivak style
+  summary: The passage traces the Nunivak Island style through Kushunuk, Askinuk,
+    and the southern Yukon mouth, notes a transition northward to the Norton Sound
+    type, and describes decreasing size and height southward toward the Aleutian Islands.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Kotzebue Sound to Point Barrow style
+  summary: The passage describes the Kotzebue Sound kaiak style as smaller and slenderer,
+    then states that the style extends northward to Point Barrow with altered proportions.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: regional variation of watercraft form
+  taxonomy_refs: []
+  basis: The passage repeatedly compares kaiak forms across neighboring Arctic and
+    subarctic regions, describing shared features, differences in size and proportion,
+    and regional transitions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic and technological pattern rather than a mythic
+    narrative motif; no ritual, cosmological, or symbolic meaning is stated in the
+    passage.
+- id: motif:2
+  label: vessel adapted for dangerous waters
+  taxonomy_refs: []
+  basis: The passage says the King Island/Bering Strait kaiaks are strongly made and
+    used in stormy strait waters, sometimes traveling as far as the Siberian coast
+    and St. Lawrence Island.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage supports a literal functional pattern only. It does not support
+    assigning the available ark_vessel motif family or any mythic rescue-vessel interpretation.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly states that Nunivak Island and Bering Strait kaiaks
+    are alike in general form, broad bottom, and strength of framework.
+  claim_level: visual_similarity
+  target: Nunivak Island kaiak type and Bering Strait kaiak type
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns artifact morphology only and does not establish
+    historical contact, common inheritance, or mythic equivalence.
+- id: claim:2
+  claim: The passage states that the King Island kaiak bow is very similar in form
+    to the Nunivak Island type and has the same kind of circular opening through the
+    bow piece.
+  claim_level: visual_similarity
+  target: King Island kaiak bow and Nunivak Island kaiak bow type
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to bow form and bow opening; the passage
+    also distinguishes the stern form.
+- id: claim:3
+  claim: The passage describes a Kotzebue Sound kaiak style extending northward to
+    Point Barrow, with Point Barrow examples made longer and proportionately slenderer.
+  claim_level: visual_similarity
+  target: Kotzebue Sound kaiak style and Point Barrow examples
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports a regional style comparison but gives limited
+    construction detail and no mythic or symbolic interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13882-13891
+  quote_or_summary: 'A King Island kaiak is described by dimensions and form: short
+    and broad, upcurved bow, circular bow opening, distinctive stern; it is strongly
+    made and used in stormy strait waters, sometimes to the Siberian coast and St.
+    Lawrence Island.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13892-13900
+  quote_or_summary: Nunivak Island and Bering Strait kaiaks are described as alike
+    in general form, broad bottom, and strong framework; Nunivak examples may be larger
+    and have pronounced bow and stern features.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13901-13906
+  quote_or_summary: The Nunivak Island kaiak style is used at Kushunuk, Askinuk, and
+    along the southern Yukon mouth; northward it gives way to the Norton Sound type,
+    while southward toward the Aleutians size and height decrease.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13907-13913
+  quote_or_summary: Kotzebue Sound kaiaks are smaller, slenderer, and differently
+    modeled; the style extends northward to Point Barrow, where they are about one-fourth
+    longer and proportionately slenderer.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is a technical ethnographic description of kaiak forms. Literal
+    artifact extraction is strong; mythic motif extraction is weak because no narrative,
+    ritual, or cosmological function is stated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available mythic motif-family taxonomy reference was assigned. The available symbol taxonomy ref water was used only for the literal stormy strait waters mentioned in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l13882-l13913
+  passage_sha256=acdcc940e657903aa2e0231c9ce3f32745b71b858445e9c76ead472064df8330
+

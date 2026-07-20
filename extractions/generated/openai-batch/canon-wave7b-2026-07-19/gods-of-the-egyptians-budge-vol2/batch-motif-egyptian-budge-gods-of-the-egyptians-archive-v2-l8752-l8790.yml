@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l8752-l8790
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: HYMN   TO    OSIRIS / HYMN   TO   OSIRIS / AAAAAA / HYMN   TO    OSIRIS  167;
+    lines 8752-8790
+  start: '8752'
+  end: '8790'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A hymn passage names Osiris in the heading and describes a powerful male
+    figure associated with Nut, the defeat of Seba or an enemy, the spreading of fear
+    among foes, remote boundaries, firmness of heart, being heir of Seb, sovereignty
+    over the two lands, authority to lead and command the lands to the end of time,
+    and holding or making the earth in his hand.
+  language: English with Egyptian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a hymn to Osiris.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nut is described as a great one of two-fold strength.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A male figure casts down Seba, slaughters his enemy, and places fear in his
+    foe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The figure is described as a bringer of remote boundaries and as firm of heart.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The figure's two feet are said to be lifted up.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The figure is called heir of Seb and associated with sovereignty of the two
+    lands.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Authority is given to the figure to lead and command the lands to the end
+    of times.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The figure is said to have made this earth in his hand.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: Named in the passage heading as the subject of the hymn; the following
+    male pronouns and royal actions are treated cautiously as belonging to the hymned
+    figure.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Nut
+  description: Named at the start of the translated passage and described as great
+    and of two-fold strength.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Seba
+  description: Named as the one cast down; apparently aligned with the enemy or foe
+    in the same sentence.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Seb
+  description: Named in the phrase identifying the male figure as heir of Seb.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hymn subject
+  assigned_to:
+  - fig:1
+  basis: The passage heading identifies it as a hymn to Osiris.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victor over enemy
+  assigned_to:
+  - fig:1
+  basis: The male figure casts down Seba, slaughters his enemy, and causes fear in
+    his foe.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: heir and ruler of the lands
+  assigned_to:
+  - fig:1
+  basis: The figure is called heir of Seb, linked with sovereignty of the two lands,
+    and given authority to lead and command the lands.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: great one of two-fold strength
+  assigned_to:
+  - fig:2
+  basis: Nut is described with this attribute in the passage.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: defeated enemy
+  assigned_to:
+  - fig:3
+  basis: Seba is named as the one cast down, in a context also mentioning a slaughtered
+    enemy and fearful foe.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: predecessor or source of heirship
+  assigned_to:
+  - fig:4
+  basis: The male figure is called heir of Seb.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: two lands
+  literal_form: the two lands
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: earth in hand
+  literal_form: this earth in his hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: lifted feet
+  literal_form: his two feet are lifted up
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: remote boundaries
+  literal_form: boundaries remote
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Enemy subdued
+  summary: The male hymn subject casts down Seba, slaughters an enemy, and instills
+    fear in the foe.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Royal authority granted
+  summary: The male figure is described as heir of Seb, connected to sovereignty over
+    the two lands, and given the power to lead and command the lands to the end of
+    times.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Earth held in hand
+  summary: The male figure is said to have made this earth in his hand.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Divine royal succession and sovereignty
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The figure is called heir of Seb, associated with sovereignty of the two
+    lands, and authorized to lead and command the lands.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is fragmentary and interlinear, but the succession and sovereignty
+    language is explicit.
+- id: motif:2
+  label: Defeat of the hostile enemy
+  taxonomy_refs: []
+  basis: The passage says the male figure casts down Seba, slaughters his enemy, and
+    puts fear into his foe.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The defeated enemy is named, but the passage does not explicitly identify
+    the enemy with a broader chaos or adversary motif.
+- id: motif:3
+  label: Eternal dominion over lands and earth
+  taxonomy_refs: []
+  basis: The figure is connected with remote boundaries, command of the lands to the
+    end of times, and the image of the earth in his hand.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The phrasing is textually garbled, so the scope of the claim should be
+    checked against the original edition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8752-8753
+  quote_or_summary: 'Passage heading: HYMN TO OSIRIS 167.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise citation/summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8754-8757
+  quote_or_summary: Nut is named and described as a great one of two-fold strength.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8756-8763
+  quote_or_summary: The passage says he casts down Seba, has slaughtered his enemy,
+    and places fear in his foe.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 8763-8769
+  quote_or_summary: The figure is called a bringer of remote boundaries, firm of heart,
+    and his two feet are lifted up.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 8770-8775
+  quote_or_summary: The figure is identified as heir of Seb and associated with sovereignty
+    of the two lands.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 8780-8787
+  quote_or_summary: The passage says authority is given to him to lead the lands by
+    his hand and command them to the end of times.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: lines 8788-8790
+  quote_or_summary: '"He hath made this earth in his hand"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an interlinear, partly garbled transcription/translation.
+    Extraction follows only the supplied English wording and heading; association
+    of pronoun actions with Osiris is based on the hymn heading and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this material with another tradition or named motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l8752-l8790
+  passage_sha256=537d91006329488afa27d26185a19b7a93276d2167282b783061147b3d009104
+

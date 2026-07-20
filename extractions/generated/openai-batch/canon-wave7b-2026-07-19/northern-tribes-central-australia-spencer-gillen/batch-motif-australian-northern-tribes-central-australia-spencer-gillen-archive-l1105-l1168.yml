@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l1105-l1168
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: FIG. PAGE / ILLUSTRATIONS / FIG. PAGE / ILLUSTRATIONS; lines 1105-1168
+  start: '1105'
+  end: '1168'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is an illustration list with captions for ceremonial scenes
+    and stone tools: welcoming ceremonies and a quarrel, tooth-knocking-out ceremonies
+    involving water and gum, a man using an adze, adze forms, and stone knife forms.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a list of numbered illustration captions with page references.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: obs:2
+  text: One caption describes welcoming ceremonies and the beginning of a quarrel,
+    with an Arunta tribe label.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Several captions describe tooth-knocking-out ceremonies, including knocking
+    out a tooth, women drinking water, a woman putting water over her head, and forcing
+    the gum back.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One caption describes a man using an adze to make grooves on the outside of
+    a pitchi, with a Warramunga tribe label.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Several captions describe adzes with flint blades, different sizes and shapes,
+    and upper, under, side, or end views.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: Several captions describe stone knives by shape, material, facets, section,
+    blade form, flaking, secondary chipping, and cutting point.
+  category: object
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Women drinking water
+  description: Women shown drinking water in tooth-knocking-out ceremonies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Woman putting water over her head
+  description: A woman shown putting water over her head in a Warramunga tooth-knocking-out
+    ceremony.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Man using adze
+  description: A man using an adze for making grooves on the outside of a pitchi,
+    with a Warramunga tribe label.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: tooth-knocking-out ceremony participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The captions place the women and woman within tooth-knocking-out ceremonies.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: adze user
+  assigned_to:
+  - fig:3
+  basis: The caption explicitly describes the man using an adze to make grooves.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Water drunk by women and put over a woman's head during tooth-knocking-out
+    ceremonies.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tooth and gum
+  literal_form: Knocking out a tooth and forcing the gum back in tooth-knocking-out
+    ceremonies.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: adze
+  literal_form: Adze used for making grooves on a pitchi; adzes with large, small,
+    regular, or irregular flint forms.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: stone knife
+  literal_form: Stone knives described by shape, material, facets, section, blade
+    form, flaking, secondary chipping, and cutting point.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Welcoming ceremonies and quarrel caption
+  summary: A caption names welcoming ceremonies and the beginning of a quarrel, with
+    an Arunta tribe label.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tooth-knocking-out ceremony captions
+  summary: Captions present a tooth-knocking-out ceremonial sequence involving tooth
+    removal, women drinking water, a woman putting water over her head, and forcing
+    the gum back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Adze use and adze forms
+  summary: Captions present a man using an adze to make grooves on a pitchi and several
+    adze forms with flint blades and different views.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Stone knife forms
+  summary: Captions present multiple stone knife forms, including regular, broad,
+    long, irregular, flat, trigonal, and tetragonal examples, with notes on blade
+    material and chipping.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Ritual tooth removal with water actions
+  taxonomy_refs: []
+  basis: The captions group tooth-knocking-out ceremonies with actions involving tooth
+    removal, women drinking water, a woman putting water over her head, and forcing
+    the gum back.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is an illustration index and does not explain the ritual's
+    meaning, mythic context, or initiatory function.
+- id: motif:2
+  label: Stone-tool manufacture and typological display
+  taxonomy_refs: []
+  basis: The captions present adze use, adze variants, and stone knife variants described
+    by material, shape, views, facets, blade form, and chipping.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a material-culture pattern in illustration captions, not a narrative
+    or mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1105-1110
+  quote_or_summary: Illustration caption 166 names welcoming ceremonies and the beginning
+    of a quarrel, with an Arunta tribe label.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1111-1120
+  quote_or_summary: Captions 167-171 concern tooth-knocking-out ceremonies, including
+    knocking out a tooth, women drinking water, a woman putting water over her head,
+    and forcing the gum back; Kaitish and Warramunga labels appear.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 1121-1127
+  quote_or_summary: Caption 172 describes a man using an adze for making grooves on
+    the outside of a pitchi; caption 173 describes an adze with a large flint used
+    for coarser work.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 1128-1137
+  quote_or_summary: Captions 174-176 describe adzes with small, regular, large, or
+    irregular flint forms and show upper, under, side, or end views, with Arunta and
+    Warramunga labels.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1138-1144
+  quote_or_summary: Captions include Diagram A and stone knives of regular shape,
+    including a trigonal section and an opaline quartzite blade.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 1145-1154
+  quote_or_summary: Captions 179-181 describe stone knives with a fourth facet, tetragonal
+    section, thin blade, broad irregular shape, and broad blade, with Warramunga labels.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 1155-1168
+  quote_or_summary: Captions 182-184 describe stone knives with long or irregular
+    blades, irregular flaking, secondary chipping, a cutting point, and a very flat
+    blade; Warramunga and Tjingilli labels appear.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an illustration list rather than a narrative passage. Literal
+    extraction is fairly secure, but motif interpretation is limited to repeated ceremonial
+    and material-culture patterns named in the captions. No comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the captions do not state mythic meanings or initiatory functions. The symbol taxonomy reference is limited to the explicit water item.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l1105-l1168
+  passage_sha256=59b76d7ddf69d0fd054d3a1aa94753cc3acd01c12d039209df3080a9e809b34d
+

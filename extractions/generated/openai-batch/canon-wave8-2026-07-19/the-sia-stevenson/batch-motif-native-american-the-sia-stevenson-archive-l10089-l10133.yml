@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l10089-l10133
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: THE TALISMANS. / THE TALISUANB. / AUULETS. / OUTDOOR LIFE.; lines 10089-10133
+  start: '10089'
+  end: '10133'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Eskimo outdoor knowledge: learning landscape memory
+    through hunting trips, naming land and water features, guiding travel by route
+    knowledge and the north star, predicting weather, recognizing solstices by the
+    sun’s bearing against landmarks, and dividing the year into named seasonal periods
+    tied to ecological and subsistence events.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Children acquire country knowledge by accompanying parents on hunting trips
+    and relying on memory.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A named example describes a native finding a ramrod again after several hours
+    among tall scattered grass.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Rises of land, curves of streams, and coves in the seashore have descriptive
+    names known to those who visit them.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hunters can locate a cached deer carcass after snow has changed the land’s
+    appearance.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At night, travelers use the north star as a guide.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The year is said to begin at the winter solstice, and summer at the summer
+    solstice.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Solstices are recognized by the sun’s bearing in relation to fixed landmarks.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Seasonal subdivisions are named for environmental, animal, plant, and subsistence
+    events.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The return of the sun is described as a signal of joy to the people.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Eskimo people
+  description: The people described as possessing landscape memory, seasonal knowledge,
+    and outdoor subsistence knowledge.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Parents on hunting trips
+  description: Parents accompanied by children during hunting trips, through which
+    children learn the country.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hunter or guide
+  description: A traveler who locates cached food, guides others by the best route,
+    and uses environmental knowledge.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: wayfinder and guide
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage describes route-finding by memory, locating cached food, guiding
+    parties, and using the north star at night.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: seasonal observer
+  assigned_to:
+  - fig:1
+  basis: The passage attributes knowledge of solstices, weather, and named seasonal
+    periods to the people described.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: transmitter of outdoor knowledge
+  assigned_to:
+  - fig:2
+  basis: Children learn the country by accompanying parents on hunting trips.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: north star as guide
+  literal_form: north star
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: sun at solstice
+  literal_form: sun at its lowest point and at the summer solstice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: fixed landmarks
+  literal_form: landmarks used to identify the sun’s bearing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: open water and named water features
+  literal_form: stream curves, seashore coves, breaking ice, open water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+scenes:
+- id: scene:1
+  label: learning the country through hunting travel
+  summary: Children accompany parents on hunting trips and learn to observe and remember
+    the landscape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: wayfinding by memory, names, and the north star
+  summary: The passage describes finding specific places despite snow or time, using
+    descriptive place names, guiding parties, and traveling by the north star at night.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: recognition and naming of seasonal periods
+  summary: The year is organized around solstices, the sun’s return, and named ecological
+    and subsistence periods.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seasonal cycle organized by solstice and ecological events
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that the year begins at the winter solstice, summer begins
+    at the summer solstice, and many named periods correspond to changes in sun, ice,
+    animals, plants, and subsistence activities.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an ethnographic description of seasonal reckoning rather than
+    a mythic narrative.
+- id: motif:2
+  label: landscape memory and wayfinding knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes cultivated memory, observation of landscape features,
+    place names, successful route finding, and the north star as a night guide.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy does not include a specific wayfinding motif; the
+    wisdom reference is broad and should be reviewed.
+- id: motif:3
+  label: joy at the return of the sun
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The return of the sun is singled out as a principal event and described as
+    a signal of joy.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage gives a brief ethnographic note and does not narrate a ritual
+    or myth about the sun’s return.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10089-10096
+  quote_or_summary: Eskimo children learn the country by accompanying parents on hunting
+    trips, relying on memory, and observing surroundings from available views.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10096-10100
+  quote_or_summary: A native placed a ramrod among grass as tall as the rod and later
+    found the spot again without hesitation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10100-10104
+  quote_or_summary: Rises of land, stream curves, and seashore coves have descriptive
+    names known to those who visit them.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10104-10109
+  quote_or_summary: Even when snow changes the land’s appearance, a hunter can go
+    directly to a place where a deer carcass was cached months earlier.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 10109-10113
+  quote_or_summary: Eskimo guides lead parties by good routes; at night they use the
+    north star as guide, and experience helps them predict weather.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 10114-10120
+  quote_or_summary: The year begins when the sun reaches its lowest point at the winter
+    solstice, summer begins with the summer solstice, and solstices are recognized
+    by the sun’s bearing relative to fixed landmarks.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 10121-10133
+  quote_or_summary: Seasons and subdivisions have distinctive names; principal periods
+    include return of the sun, lengthening day, warmth, melting snow, breaking ice,
+    open water, animal births and arrivals, nesting birds, whaling, fishing, berries,
+    reindeer crossing, trapping, and hunting.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is ethnographic and descriptive rather than narrative mythology.
+    Motif extraction is strongest for seasonal-cycle and wayfinding patterns; taxonomy
+    mapping beyond seasonal_cycle is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. OCR irregularities in the passage were not normalized except in summaries.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l10089-l10133
+  passage_sha256=2659e0c4d0d5e0c872a1a9b529bb40dd53b3583461e2f2e805005d22de4f899e
+

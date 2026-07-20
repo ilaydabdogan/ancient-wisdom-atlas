@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l14697-l14705
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: TRADE  AND  TRADING  VOYAGES / TRADING    VOYAGES  229 / UNITS   OF   VALUE
+    / UNITS   OF   MEASUREMENT; lines 14697-14705
+  start: '14697'
+  end: '14705'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a common length measure used for items such as rawhide
+    lines, nets, and cloth. Fur traders adopted the measure and called it a fathom.
+    Cloth and similar trading goods are measured by holding one end at the left thumb,
+    drawing the edge through the right hand across the chest under the chin, shifting
+    the left hand to the right-thumb point, and repeating until the desired length
+    is reached.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A common unit of measure is described as regularly used for objects of considerable
+    length, including rawhide lines, nets, and cloth.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fur traders adopted the measure and called it a fathom.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cloth and similar trading goods are sold by this measure.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The measuring procedure begins by taking the end of the article in the left
+    hand with the extreme end opposite the tip of the left thumb.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The edge of the cloth is slid through the right hand and drawn across the
+    chest under the chin by the outstretched right hand.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The left hand then drops its end, takes a new hold at the point of the right
+    thumb, and the operation is repeated until the desired length is obtained.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: these people
+  description: The people among whom the described unit of measure is used.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: fur traders
+  description: Traders who adopted the measure and called it a fathom.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: users of a common length measure
+  assigned_to:
+  - fig:1
+  basis: The passage states that the measure is used among these people for objects
+    of considerable length.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: adopters of the measure in trade
+  assigned_to:
+  - fig:2
+  basis: The passage states that fur traders adopted the measure and used it for selling
+    cloth and similar goods.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fathom length measure
+  literal_form: A body-based unit of length called a fathom by fur traders.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: hand-and-chest measuring gesture
+  literal_form: Holding the article at the left thumb, drawing it across the chest
+    under the chin with the right hand, and repeating hand-to-thumb intervals.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: cloth and length goods
+  literal_form: Rawhide lines, nets, cloth, and other trading goods of considerable
+    length.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Use and adoption of the length measure
+  summary: A regular measure for long objects is used among the people described,
+    and fur traders adopt it under the name fathom for selling cloth and similar goods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Measuring cloth by the body-based fathom
+  summary: An article is measured by placing its end at the left thumb, drawing it
+    with the right hand across the chest under the chin, shifting the left hand to
+    the right-thumb point, and repeating the operation.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Body-based unit of measurement in exchange
+  taxonomy_refs: []
+  basis: The passage describes a repeated bodily measuring procedure used to sell
+    cloth and other trading goods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an ethnographic trade-and-measurement pattern rather than a mythic
+    narrative motif; no sacred or ritual interpretation is stated in the passage.
+- id: motif:2
+  label: Adoption of local measurement practice by traders
+  taxonomy_refs: []
+  basis: Fur traders are said to have adopted the measure and named it a fathom.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives no further comparative or historical context beyond
+    this adoption.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14697-14699
+  quote_or_summary: A common measure is regularly used among these people for objects
+    of considerable length, including rawhide lines, nets, and cloth.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 14699-14701
+  quote_or_summary: Fur traders adopted the measure, called it a fathom, and used
+    it for selling cloth and other similar trading goods.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 14701-14702
+  quote_or_summary: The end of the article to be measured is held in the left hand,
+    with the extreme end opposite the tip of the left thumb.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 14702-14704
+  quote_or_summary: The cloth edge is slid through the right hand and raised until
+    drawn across the chest under the chin by the outstretched right hand.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 14704-14705
+  quote_or_summary: The left hand drops the end, takes a new hold at the point of
+    the right thumb, and repeats the operation until the desired length is obtained.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a clear ethnographic description of measurement and trade
+    practice. Motif candidates are framed as practical patterns, not mythic or sacred
+    motifs. No comparison claims are made because the passage itself provides no comparative
+    basis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference is directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l14697-l14705
+  passage_sha256=34ca04ccf72fe694391fb534a433939b12f42df606c25bc2dc6cdc772a50665a
+

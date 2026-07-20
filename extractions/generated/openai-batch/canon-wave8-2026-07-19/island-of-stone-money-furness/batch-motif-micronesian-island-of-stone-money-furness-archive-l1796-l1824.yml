@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l1796-l1824
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: SONGS AND INCANTATIONS / CHAPTER VI / DANCE AND POSTURE SONGS / DANCE AND
+    POSTURE SONGS; lines 1796-1824
+  start: '1796'
+  end: '1824'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: The singers punctuate the end of each verse or stanza with a loud clap
+  summary: The passage describes singers or dancers preparing for a dance throughout
+    the day, gathering costume materials, practicing steps, delaying readiness until
+    late afternoon, and finally filing out from behind the failu. The narrator says
+    he avoided hurrying them so they would be fully satisfied and animated in the
+    performance.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The singers mark the end of each verse or stanza with a loud clap.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: By noon the group is still preparing costume materials, including strips of
+    pandanus leaves or Hibiscus bast.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The group collects white chicken feathers, cotton wool, or paper pieces for
+    their combs.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The group practices the steps of the dance before declaring themselves ready.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The preparation lasts from morning promises of readiness through several afternoon
+    hours, with readiness only near five o'clock.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator refrains from pressing the group to hurry, saying this would
+    be useless and that he wants them satisfied and animated for the dance.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After becoming ready, the group files out from behind the failu.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: singers or dancers
+  description: A collective group who sing, prepare costumes, collect ornaments, practice
+    dance steps, and finally file out from behind the failu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: narrator-observer
+  description: The first-person observer who chooses not to hurry the performers and
+    explains his reason for waiting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: dance performers
+  assigned_to:
+  - fig:1
+  basis: The group practices dance steps, prepares costumes, and emerges when ready.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: observer who requests but does not hurry the performance
+  assigned_to:
+  - fig:2
+  basis: The narrator states that he refrained from bothering the group with too many
+    requests to hurry.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: clap marking song structure
+  literal_form: loud clap at the end of a verse or stanza
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dance costume strips
+  literal_form: long strips of pandanus leaves or Hibiscus bast prepared for costumes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: comb adornments
+  literal_form: white chicken feathers, cotton wool, or pieces of paper for combs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: failu
+  literal_form: the failu, from behind which the group files out
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Song punctuation by clapping
+  summary: The singers end each verse or stanza with a loud clap.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Extended preparation for dance
+  summary: The group spends the day preparing costume elements, collecting comb adornments,
+    and practicing dance steps.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Observer waits for readiness
+  summary: The narrator avoids hurrying the group so that they will perform willingly
+    and with animation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Emergence from behind the failu
+  summary: Once ready, the group files out from behind the failu.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: formal preparation before communal dance
+  taxonomy_refs: []
+  basis: The passage emphasizes prolonged preparation of costume materials and dance
+    steps before the group declares itself ready to perform.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic description rather than a mythic narrative;
+    no broader mythic taxonomy match is directly supported.
+- id: motif:2
+  label: percussive gesture marking sung stanzas
+  taxonomy_refs: []
+  basis: The singers punctuate the end of each verse or stanza with a loud clap.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not explain the clap's ritual or symbolic meaning beyond
+    its function in performance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1796-1800
+  quote_or_summary: "“The singers punctuate the end of each verse or stanza with a
+    loud clap.”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 1804-1812
+  quote_or_summary: At noon the group remains active, preparing strips of pandanus
+    leaves or Hibiscus bast for costumes, collecting white chicken feathers, cotton
+    wool, or paper for combs, and practicing dance steps.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1812-1816
+  quote_or_summary: The hours pass through one, two, and three o'clock, and the group
+    does not declare itself ready until near five in the afternoon.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1817-1823
+  quote_or_summary: The narrator says he refrained from repeated requests to hurry
+    because this would be useless and because he wanted the group satisfied with themselves
+    and animated in the dance.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: line 1824
+  quote_or_summary: "“At last they filed out from behind the failu”"
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal performance details are clear, but the passage is truncated at the
+    end and supplies limited cultural explanation. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif reference was assigned because the passage does not directly support one.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l1796-l1824
+  passage_sha256=89ff740cea9e074406aaa271e19490e02cd0079cea980f43690402e3d3d38ad1
+

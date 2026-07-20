@@ -1,0 +1,120 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l930-l936
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE SIXTH CHAPTER / THE SEVENTH CHAPTER / THE SECOND BOOKE / THE EIGHTH CHAPTER;
+    lines 930-936
+  start: '930'
+  end: '936'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    THE SECOND BOOKE
+
+    THE EIGHTH CHAPTER
+
+    How Apuleius fortuned to meet with his Cousin Byrrhena.
+  summary: A book and chapter heading introduces a chapter in which Apuleius happens
+    to meet his cousin Byrrhena.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as the second book.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies the section as the eighth chapter.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The chapter heading states that Apuleius happened to meet his cousin Byrrhena.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Byrrhena is identified as Apuleius's cousin.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Apuleius
+  description: Named in the chapter heading as the person who happens to meet his
+    cousin Byrrhena.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Byrrhena
+  description: Named in the chapter heading as Apuleius's cousin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: person who meets a relative
+  assigned_to:
+  - fig:1
+  basis: The heading says Apuleius fortuned to meet his cousin Byrrhena.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: cousin encountered
+  assigned_to:
+  - fig:2
+  basis: The heading identifies Byrrhena as Apuleius's cousin whom he meets.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Announced meeting with cousin Byrrhena
+  summary: The chapter heading announces that Apuleius happens to meet his cousin
+    Byrrhena.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 930-934
+  quote_or_summary: '"THE SECOND BOOKE" and "THE EIGHTH CHAPTER"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 936
+  quote_or_summary: '"How Apuleius fortuned to meet with his Cousin Byrrhena."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is only a book/chapter heading and chapter title. It supports
+    identification of figures and a kinship encounter, but it does not provide enough
+    narrative detail for motif or comparison extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol refs assigned; the provided text contains no explicit mythic symbol or comparative motif.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l930-l936
+  passage_sha256=374084278684bb3deeafb79ae3cc336575b24d5fc9a06887baf2189d0fa5d647
+

@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l18789-l18842
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA V, HYMN I12. 393 / MANDALA V, HYMN 12. / ASH7AKA IV, ADHYAYA 1, VARGA
+    4. / NOTES:; lines 18789-18842
+  start: '18789'
+  end: '18842'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on a Vedic hymn identify the rishi and metre, state that
+    no verse occurs in other Samhitas, and discuss readings for verses 1-6. The notes
+    mention Agni in connection with Rta, a gloss as a bad demon, a proposed translation
+    in which the god protects Rta and knows the speaker's deeds of Rita, and an alternative
+    rendering asking who the impostors are who fetter Agni.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening note identifies the same Rishi and Trishtubh metre and states
+    that no verse of the hymn occurs in other Samhitas.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A verse 1 note discusses Agni in connection with Rta.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The verse 2 notes include the gloss 'A bad demon' and identify another referent
+    as 'Of Agni.'
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A verse 3 note proposes a translation in which the god, the protector of Rta,
+    knows the speaker's deeds of Rita.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A verse 4 note gives an alternative rendering asking who the impostors are
+    who fetter Agni.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Several notes compare readings or expressions in this hymn with other Vedic
+    passages and scholarly discussions.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Named deity discussed in connection with Rta and addressed in an alternative
+    verse 4 rendering.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: same Rishi, unnamed
+  description: The hymn is attributed to the same Rishi, though the note does not
+    name him in the supplied passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: bad demon
+  description: An unnamed referent in the verse 2 notes is glossed as a bad demon.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: impostors
+  description: In the alternative rendering for verse 4, impostors are described as
+    fettering Agni.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hymn seer
+  assigned_to:
+  - fig:2
+  basis: The opening note says the hymn has the same Rishi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deity connected with Rta
+  assigned_to:
+  - fig:1
+  basis: The verse 1 note explicitly discusses Agni's connection with Rta.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: protector of Rta and knower of deeds
+  assigned_to:
+  - fig:1
+  basis: The proposed verse 3 translation describes the god as protector of Rta who
+    knows the speaker's deeds of Rita; the surrounding notes identify Agni as the
+    hymn's addressed deity.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:4
+  label: demonic figure
+  assigned_to:
+  - fig:3
+  basis: The verse 2 note glosses a referent as a bad demon.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: fettering adversaries
+  assigned_to:
+  - fig:4
+  basis: The alternative verse 4 rendering asks who the impostors are who fetter Agni.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Rta/Rita
+  literal_form: Named term Rta/Rita, associated with Agni and with the speaker's deeds
+    in the notes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: fettering
+  literal_form: The image of impostors who fetter Agni in the alternative rendering.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: God protects Rta and knows deeds
+  summary: The proposed verse 3 translation presents a god as protector of Rta who
+    knows the speaker's deeds of Rita.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:2
+  label: Question about fettered Agni
+  summary: The alternative verse 4 rendering frames a question to Agni about impostors
+    who fetter him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine knowledge of deeds under Rta
+  taxonomy_refs:
+  - wisdom
+  basis: A proposed translation says the god, protector of Rta, knows the speaker's
+    deeds of Rita.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The evidence is from an editorial note and proposed translation, not a
+    full narrative episode; the mapping to the broad wisdom family is tentative.
+- id: motif:2
+  label: deity fettered by impostors
+  taxonomy_refs: []
+  basis: The alternative verse 4 rendering asks who the impostors are who fetter Agni.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The reading is presented as an alternative philological possibility and
+    the supplied passage gives no expanded mythic context.
+- id: motif:3
+  label: bad demon as adversarial figure
+  taxonomy_refs: []
+  basis: The verse 2 note glosses a referent as a bad demon.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only a brief gloss is supplied; no action or narrative role is described
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The notes make philological comparisons between expressions or readings in
+    this hymn and other Vedic passages cited in the commentary.
+  claim_level: linguistic_similarity
+  target: Other Vedic passages cited in the notes, including IV, 23, 4; III, 20, 4;
+    V, 34, 6; and related scholarly discussions of expressions/readings.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is linguistic and textual, not a direct claim of shared
+    mythic motif or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Opening note within lines 18789-18842
+  quote_or_summary: The note states that the hymn has the same Rishi, Trishtubh metre,
+    and no verse occurring in other Samhitas.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Verse 1, Note 1 within lines 18789-18842
+  quote_or_summary: The note discusses the genitive construction and refers to the
+    connection of Agni with Rta.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: Verse 2 notes within lines 18789-18842
+  quote_or_summary: 'The notes read: ''A bad demon'' and ''Of Agni.'''
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:4
+  type: summary
+  locator: Verse 3 notes within lines 18789-18842
+  quote_or_summary: 'The notes discuss a reading translated as ''of the new song''
+    and propose: the god, protector of Rta, knows the speaker''s deeds of Rita; they
+    also cite Vedic parallels.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized with brief phrase.
+- id: ev:5
+  type: quote
+  locator: Verse 4, Note 1 within lines 18789-18842
+  quote_or_summary: "'Who, O Agni, are the impostors who fetter thee?'"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:6
+  type: summary
+  locator: Verse 5, Note 1 within lines 18789-18842
+  quote_or_summary: The note compares vishuzak with a cited Vedic passage, V, 34,
+    6.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Verse 6, Note 1 within lines 18789-18842
+  quote_or_summary: The note proposes a reading and compares the expression with scholarly
+    discussions and related Vedic usage.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The supplied material is editorial commentary rather than continuous hymn
+    text. Literal figures and terms are explicit, but motif assignments remain tentative
+    and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or common-inheritance claims are made. Available taxonomy was used only where the passage directly supported a cautious broad association.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l18789-l18842
+  passage_sha256=a5bf8eabd564085a0676362e2b06e43a1e4785883467a850bb488302f67e32bb
+

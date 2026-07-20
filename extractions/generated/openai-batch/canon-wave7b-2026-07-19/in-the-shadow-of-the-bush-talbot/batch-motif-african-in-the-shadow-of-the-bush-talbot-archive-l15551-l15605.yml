@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l15551-l15605
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: ART  295 / ART  297 / ART  303 / CHAPTER   XXVIII; lines 15551-15605
+  start: '15551'
+  end: '15605'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first describes a fibre-string instrument played by two performers,
+    one using wooden sticks and the other a closed calabash. It then describes record-keeping
+    by tallies, counting by fingers and toes, additional tally objects for numbers
+    beyond twenty, and hand signs for numerals up to twenty. The sign for nine is
+    described as imitating the old custom of shooting with a bow.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A strip of fibre is loosened along most of its length and raised by two small
+    bridges to form the described instrument.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The instrument is played by two performers: one strikes the strings with
+    two slender wooden sticks, while the other touches it with a small closed calabash
+    and makes occasional runs.'
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Records are described as being kept by tallies, including stones or corn grains
+    dropped into a calabash and strokes made on walls.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The reckoning sequence is described as counting first on fingers, then on
+    toes, and then using pieces of grass, stick, or palm leaf for numbers exceeding
+    twenty.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Counting is said to customarily begin with the little finger on the left hand.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Several numerals are expressed by hand positions or movements, including held-out
+    fingers, closed fists, finger-striking on the palm, touching the shoulder, and
+    swinging the right hand downward with the index finger extended.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: The sign for nine is explicitly described as imitating the old custom of shooting
+    with the bow.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: performer striking the strings
+  description: One of the two performers who strikes the strings with two slender
+    wooden sticks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: performer using the closed calabash
+  description: One of the two performers who touches the instrument with a small closed
+    calabash and makes occasional runs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: record keepers and counters
+  description: Unnamed people implied by the described customary practices of keeping
+    records, reckoning numbers, and employing numeral signs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: string-striking performer
+  assigned_to:
+  - fig:1
+  basis: The passage says one performer strikes the strings with two slender wooden
+    sticks.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: calabash-touching performer
+  assigned_to:
+  - fig:2
+  basis: The passage says the other performer touches the instrument with a small
+    closed calabash and makes runs.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: record keeper and counter
+  assigned_to:
+  - fig:3
+  basis: The passage describes customary record-keeping, reckoning, and numeral-sign
+    practices without naming individual actors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: calabash
+  literal_form: Small closed calabash used in instrument performance; calabash also
+    used as a container for tally stones or corn grains.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: tally tokens
+  literal_form: Small stones, corn grains, grass, stick, or palm leaf used for keeping
+    records or counting beyond twenty.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: body-counting signs
+  literal_form: Fingers, toes, held-out fingers, closed fists, and hand movements
+    used to express numbers.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: bow-shooting gesture for nine
+  literal_form: Left hand held out with fingers loosely closed; right hand with thumb
+    against palm drawn from the left hand across the breast.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: wall strokes
+  literal_form: Strokes made on walls as a record-keeping method.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Fibre instrument performance
+  summary: A fibre strip raised by bridges is played by two performers, one using
+    wooden sticks and the other using a closed calabash.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tally record keeping
+  summary: Records are kept by dropping stones or corn grains into a calabash and
+    by marking strokes on walls.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Reckoning by body and tokens
+  summary: Counting proceeds from fingers to toes and then to small pieces of grass,
+    stick, or palm leaf for numbers beyond twenty, beginning with the little finger
+    of the left hand.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hand signs for numerals
+  summary: Numerals up to twenty are expressed through finger positions, fists, palm-striking,
+    shoulder-touching, and a downward hand movement; the sign for nine is described
+    as imitating bow-shooting.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Tally-based record keeping
+  taxonomy_refs: []
+  basis: The passage describes keeping records by placing small stones or corn grains
+    in a calabash and by making strokes on walls.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic record-keeping pattern, not a narrative myth motif.
+- id: motif:2
+  label: Embodied counting sequence
+  taxonomy_refs: []
+  basis: The passage describes reckoning first on fingers, then on toes, then with
+    small objects for numbers beyond twenty.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a counting practice rather than a mythological narrative motif.
+- id: motif:3
+  label: Numeral gesture modeled on bow-shooting
+  taxonomy_refs: []
+  basis: The passage explicitly states that the sign for nine imitates the old custom
+    of shooting with the bow.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The identification is given in the source passage, but no wider comparative
+    or historical context is supplied.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, the hand sign for nine is identified as visually imitating
+    bow-shooting.
+  claim_level: visual_similarity
+  target: old custom of shooting with the bow
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal visual comparison reported by the passage, not
+    evidence for historical contact, common inheritance, or a broader mythic motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15551-15560
+  quote_or_summary: A fibre strip is loosened and raised by two bridges; two performers
+    play it, one with slender wooden sticks and the other with a small closed calabash.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 15565-15568
+  quote_or_summary: "“Records are usually kept by means of tallies,” including stones
+    or corn grains in a calabash and strokes on walls."
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 15569-15576
+  quote_or_summary: Reckoning is by fingers, then toes, then pieces of grass, stick,
+    or palm leaf for each five or twenty beyond twenty; counting begins with the little
+    finger of the left hand.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 15578-15587
+  quote_or_summary: Numerals one through eight are expressed with held-out fingers,
+    a closed fist, paired fingers on both hands, or striking fingers onto the opposite
+    palm.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 15589-15593
+  quote_or_summary: For nine, the left hand is held out while the right hand is drawn
+    from the left hand across the breast; the passage says this imitates the old custom
+    of shooting with the bow.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 15595-15605
+  quote_or_summary: Ten is shown by two closed fists; fifteen by bending the right
+    fingers to the right shoulder; twenty by raising the right hand before the face
+    and swinging it downward with the index finger extended.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive and non-narrative. Extraction of record-keeping
+    and counting patterns is strong; classification as motif material is limited because
+    no mythological narrative or comparative context is given.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not clearly support any listed taxonomy item.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l15551-l15605
+  passage_sha256=edf09715031272da68f3df4af7226d769d0e9e327e31e2dbf86bae1d9addeda2
+

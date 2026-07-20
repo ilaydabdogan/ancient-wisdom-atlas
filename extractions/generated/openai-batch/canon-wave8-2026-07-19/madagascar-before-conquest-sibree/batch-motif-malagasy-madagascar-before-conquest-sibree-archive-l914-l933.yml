@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.malagasy-madagascar-before-conquest-sibree-archive-l914-l933
+source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+passage_locator:
+  label: NORTHERN PART OF ANTANANARIVO . . ,,34 / ANTANANARIVO FROM THE WEST. SOUTH
+    END OF CITY / CHAPTER L / FROM COAST TO CAPITAL. II; lines 914-933
+  start: '914'
+  end: '933'
+  translation: 'Madagascar Before the Conquest: The Island, the Country, and the People'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrators ride to Ambatomanga, stay at the house of the local Andriana,
+    speak with a native evangelist, observe youths training with shield and spear
+    during wartime, view the landscape from a tomb on a rock above town, then ride
+    to Antananarivo and receive a warm welcome from English and Malagasy friends.
+    They state that they returned despite war because their work and service were
+    needed after six years away.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The travelers reached Ambatomanga after about two hours of riding and stayed
+    at the big house of the local Andriana.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The travelers spoke with a native evangelist stationed at Ambatomanga.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The travelers first observed signs of war preparation at this place: lads
+    were armed with shields and spears and were being drilled in their use.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Before sunset, the travelers went to a tomb on the rock above the town.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: From that vantage point, the travelers saw bare hills with rock, green newly
+    planted rice-fields, and red clay roads on brownish-green hills.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The travelers rode five hours to Antananarivo the next day and were welcomed
+    by English and Malagasy friends.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The welcome was especially hearty because the travelers had come during wartime,
+    when some people had feared to come.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The narrators state that they believed their return was right because their
+    work was little interrupted and their help was needed after six years away from
+    the country and people they wished to serve.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the travelers / narrators
+  description: A traveling party speaking in the first-person plural, returning to
+    Madagascar and traveling from Ambatomanga to Antananarivo.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the Andriana
+  description: The feudal lord of Ambatomanga, whose big house hosted the travelers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: native evangelist
+  description: An evangelist stationed at Ambatomanga who talked with the travelers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: armed lads
+  description: Young males armed with shield and spear and being exercised in their
+    use.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: English and Malagasy friends
+  description: Friends who welcomed the travelers on their arrival at Antananarivo.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: travelers
+  assigned_to:
+  - fig:1
+  basis: They ride to Ambatomanga and then to Antananarivo.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: local feudal lord and host
+  assigned_to:
+  - fig:2
+  basis: The Andriana is described as the feudal lord of the place, and the travelers
+    stay at his big house.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: local religious worker
+  assigned_to:
+  - fig:3
+  basis: He is described as a native evangelist stationed at Ambatomanga.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: returning workers seeking to serve
+  assigned_to:
+  - fig:1
+  basis: The narrators say their help was needed after six years' absence from the
+    country and people they wished to serve.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: war trainees
+  assigned_to:
+  - fig:4
+  basis: They are armed with shield and spear and are constantly exercised in their
+    use.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: welcomers
+  assigned_to:
+  - fig:5
+  basis: They give the travelers a hearty welcome on arrival at Antananarivo.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tomb on rock above town
+  literal_form: A tomb located on a rock above Ambatomanga.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: shield and spear
+  literal_form: Weapons carried by the lads during war preparation.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: newly planted rice-fields
+  literal_form: Bright fresh green rice-fields seen from above the town.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bare hills and rock
+  literal_form: Great bare hills with rock showing through turf.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Arrival and stay at Ambatomanga
+  summary: After a two-hour ride, the travelers arrive at Ambatomanga, stay in the
+    Andriana's house, and speak with a native evangelist.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: War preparation observed
+  summary: At Ambatomanga, the travelers see youths armed with shield and spear and
+    training in their use.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: View from the tomb above the town
+  summary: Before sunset, the travelers go to a tomb on the rock above town and view
+    hills, exposed rock, rice-fields, and clay roads.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Return to Antananarivo during wartime
+  summary: The travelers ride to Antananarivo, are welcomed by English and Malagasy
+    friends, and explain that they came despite war because their work and help were
+    needed after a long absence.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: return after long absence to serve a community
+  taxonomy_refs:
+  - return
+  basis: The narrators frame their arrival as a return after six years away from the
+    country and people they wished to serve, undertaken despite wartime danger.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a historical travel narrative rather than a mythic episode; the
+    taxonomy reference is a broad structural match only.
+- id: motif:2
+  label: journey into a central homeland place
+  taxonomy_refs: []
+  basis: The travelers move from Ambatomanga to Antananarivo and describe the landscape
+    as placing them again in the heart of Madagascar.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage gives a literal route and landscape description; no explicit
+    sacred-center symbolism is stated.
+- id: motif:3
+  label: war preparation encountered on a journey
+  taxonomy_refs: []
+  basis: During the journey the travelers first see signs of war preparation, including
+    youths armed and drilled with shield and spear.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage records a wartime social observation, not a developed mythological
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 914-918
+  quote_or_summary: The travelers arrive at Ambatomanga after about two hours, stay
+    at the big house of the local Andriana, and speak with a native evangelist.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 918-921
+  quote_or_summary: 'The travelers encounter signs of war preparation: lads armed
+    with shield and spear are being constantly exercised in their use.'
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 921-926
+  quote_or_summary: Before sunset, the travelers go to the tomb on the rock above
+    the town and view bare hills with exposed rock, green rice-fields, and red clay
+    roads.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 927-931
+  quote_or_summary: The next day, the travelers ride five hours to Antananarivo and
+    receive a hearty welcome from English and Malagasy friends, especially because
+    they came during wartime.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 931-933
+  quote_or_summary: The narrators say they did not doubt that coming was right because
+    their work was little interrupted and their help was needed after six years' absence
+    from the country and people they wished to serve.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are weak because
+    the passage is a historical travel account, not a mythic narrative. No comparison
+    claims were made because the passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage mentions hills, rock, tomb, weapons, and rice-fields, but does not explicitly mention any available symbol term such as mountain, tree, water, fire, milk, cave, or serpent.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:malagasy-madagascar-before-conquest-sibree-archive__l914-l933
+  passage_sha256=45cc8afd019ff81972fa43b701a889e02ec8b2853021ce7b4cfa5935e487064c
+

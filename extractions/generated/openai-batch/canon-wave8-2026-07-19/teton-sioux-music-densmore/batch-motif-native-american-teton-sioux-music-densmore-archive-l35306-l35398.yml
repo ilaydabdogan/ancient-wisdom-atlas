@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l35306-l35398
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: SONGS  CONNECTED  WITH  DANCES  AND  GAMES / THE    GRASS  DANCE / TETON  8I0TJX  MUSIC
+    / SHUFFLING-PEET  DANCE; lines 35306-35398
+  start: '35306'
+  end: '35398'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the shuffling-feet dance, also called the Cheyenne,
+    glide, and dragging-feet dance; notes reports of the dance among Sisseton, Santee,
+    and Oglala groups; states that both men and women joined in it; and gives two
+    songs with performance and musical-analysis notes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The dance is identified by several names: shuffling-feet, Cheyenne, glide,
+    and dragging-feet dance.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dance was noted among the Sisseton and Santee by Lowie and among the Oglala
+    by Wissler.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Oglala account cited in the passage says they received the dance from
+    a tribe living west of the Gros Ventre.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Both men and women joined in the dance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dance step is said to be indicated by the dance name.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Two songs of the dance are presented in the passage, and a third is identified
+    elsewhere as No. 226.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Song No. 201 was sung by Kills-at-Night and his wife.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The translated text of Song No. 201 includes the speaker seeing the addressee
+    and telling the addressee to stay on their side.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The woman’s part in Song No. 201 is described as an octave above the man’s
+    part.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Song No. 202 was sung by Kills-at-Night, and the drum was not recorded.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Song No. 202 was recorded twice, with the two renditions described as exactly
+    alike.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Kills-at-Night
+  description: Named singer of Song No. 201 with his wife and sole named singer of
+    Song No. 202.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Kills-at-Night’s wife
+  description: Named relationally as co-singer of Song No. 201.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Men and women dancers
+  description: Both men and women are said to have joined in the dance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Oglala informants or tradition-bearers
+  description: The passage reports an Oglala statement that the dance was received
+    from a tribe west of the Gros Ventre.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Song No. 201 is attributed to Kills-at-Night and his wife; Song No. 202 is
+    attributed to Kills-at-Night.
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: role:2
+  label: dance participants
+  assigned_to:
+  - fig:3
+  basis: The passage states that both men and women joined in the dance.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: reported recipients of the dance
+  assigned_to:
+  - fig:4
+  basis: The Oglala are reported as saying they received the dance from a tribe west
+    of the Gros Ventre.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Description and distribution of the shuffling-feet dance
+  summary: The passage identifies alternate names for the dance, notes its occurrence
+    among several Dakota/Lakota groups, reports an Oglala origin statement, and states
+    that men and women participated with a step matching the dance name.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Song No. 201 performance and analysis
+  summary: Song No. 201 of the shuffling-feet dance is attributed to Kills-at-Night
+    and his wife; the song text is glossed, and the analysis describes the woman’s
+    part as an octave above the man’s part along with other musical features.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Song No. 202 performance and analysis
+  summary: Song No. 202 is attributed to Kills-at-Night, with no drum recorded; the
+    analysis describes its range, structure, rhythmic units, and identical repeated
+    recordings.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Named shuffling or dragging dance step
+  taxonomy_refs: []
+  basis: The dance has names referring to shuffling, gliding, or dragging feet, and
+    the passage states that the step is indicated by the name.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a performance pattern rather than a mythological motif in the
+    supplied taxonomy.
+- id: motif:2
+  label: Mixed-gender dance participation
+  taxonomy_refs: []
+  basis: The passage explicitly states that both men and women joined in the dance.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe ceremonial meaning or symbolic gender roles.
+- id: motif:3
+  label: Intertribal transmission of a dance
+  taxonomy_refs: []
+  basis: The Oglala are reported to have said they received the dance from a tribe
+    living west of the Gros Ventre.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage reports an attributed origin statement but does not identify
+    the source tribe or provide narrative details.
+- id: motif:4
+  label: Paired male-female vocal performance with octave separation
+  taxonomy_refs: []
+  basis: Song No. 201 is sung by Kills-at-Night and his wife, and the analysis states
+    that the woman’s part is an octave above the man’s part.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is a musical-performance pattern; no symbolic interpretation is supplied
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats the shuffling-feet dance as a dance reported among Sisseton,
+    Santee, and Oglala groups.
+  claim_level: same_motif
+  target: Sisseton, Santee, and Oglala dance traditions
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only brief bibliographic attributions and does not
+    compare choreography, songs, or local meanings in detail.
+- id: claim:2
+  claim: The passage preserves an Oglala claim that the dance was received from a
+    tribe west of the Gros Ventre.
+  claim_level: historical_contact
+  target: Unidentified tribe living west of the Gros Ventre
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The source tribe is not named in the passage, and the statement is
+    reported rather than documented with a full transmission narrative.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 35306-35313
+  quote_or_summary: The dance is called the shuffling-feet dance and also the Cheyenne,
+    the glide, and the dragging-feet dance.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; short excerpt/summary used.
+- id: ev:2
+  type: summary
+  locator: lines 35310-35314
+  quote_or_summary: Lowie noted the dance among the Sisseton and Santee; Wissler noted
+    it among the Oglala, who said they received it from a tribe west of the Gros Ventre.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; summary used.
+- id: ev:3
+  type: quote
+  locator: lines 35314-35316
+  quote_or_summary: Both men and women joined in the dance, and its step is indicated
+    by its name.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; short excerpt/summary used.
+- id: ev:4
+  type: summary
+  locator: lines 35318-35319
+  quote_or_summary: Two songs of the dance are given in the passage, and a third song
+    is identified as No. 226.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; summary used.
+- id: ev:5
+  type: citation
+  locator: No. 201 heading
+  quote_or_summary: Song No. 201, Song of the Shuffling-feet Dance (a), Catalogue
+    No. 600, is listed as sung by Kills-at-Night and his wife.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; citation/summary used.
+- id: ev:6
+  type: summary
+  locator: No. 201 text gloss
+  quote_or_summary: 'The glossed song text includes: “I see (you)” and “you stay on
+    your side.”'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; short quoted phrases used.
+- id: ev:7
+  type: summary
+  locator: No. 201 analysis
+  quote_or_summary: The analysis says the song is rhythmic and typical of reservation
+    gatherings; the woman’s part is an octave above the man’s part, with a range of
+    11 tones and chiefly whole-tone progressions.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; summary used.
+- id: ev:8
+  type: citation
+  locator: No. 202 heading
+  quote_or_summary: Song No. 202, Song of the Shuffling-feet Dance (b), Catalogue
+    No. 592, is listed as sung by Kills-at-Night; drum not recorded.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; citation/summary used.
+- id: ev:9
+  type: summary
+  locator: No. 202 analysis
+  quote_or_summary: The analysis says the song was recorded twice and that the renditions
+    on the two cylinders were exactly alike.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; summary used.
+- id: ev:10
+  type: summary
+  locator: No. 202 analysis
+  quote_or_summary: The analysis describes the song as typical of contemporary Sioux
+    gatherings, harmonic in structure, using tones of the major triad and second,
+    with two rhythmic units and no melodic interval larger than a fourth.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source text; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are performance-pattern
+    labels rather than matches to the supplied mythological motif taxonomy. Comparison
+    claims are limited to explicit distribution and transmission statements in the
+    passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy symbol or motif-family reference is directly supported by this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l35306-l35398
+  passage_sha256=08b16707af85e8fd637c4bc64eb7781e787b22cac2011e2c55da7cca384c1a29
+

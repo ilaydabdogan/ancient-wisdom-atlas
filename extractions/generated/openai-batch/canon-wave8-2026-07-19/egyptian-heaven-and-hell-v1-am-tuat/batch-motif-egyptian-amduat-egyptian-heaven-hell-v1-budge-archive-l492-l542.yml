@@ -1,0 +1,319 @@
+---
+record_id: batch.motif.egyptian-amduat-egyptian-heaven-hell-v1-budge-archive-l492-l542
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+passage_locator:
+  label: I A I / THE NINE APES AND TWELVE GODDESSES Q / EM-KHU-S, A / KHEFTIU; lines
+    492-542
+  start: '492'
+  end: '542'
+  translation: 'The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The fragment identifies nine Ape-warders and twelve goddesses of the gates,
+    noting that each goddess stands with her arms hanging by her sides. A variant
+    describes nine seated gods with raised hands in adoration of Ra, arranged in three
+    groups with man, jackal, and crocodile heads.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage labels a group as the nine Ape-warders.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage labels another group as the twelve goddesses of the gates.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each goddess is described as standing with her arms hanging by her sides.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A variant describes nine seated gods with hands raised in adoration of Ra.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The nine seated gods are called the gods who praise Ra.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The variant divides the nine seated gods into three man-headed, three jackal-headed,
+    and three crocodile-headed figures.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Nine Ape-warders
+  description: A group labeled as the nine Ape-warders.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Twelve goddesses of the gates
+  description: A group of twelve gate goddesses, each standing with arms hanging by
+    her sides.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Ra
+  description: The deity who receives adoration and praise from the nine seated gods
+    in the variant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Nine seated gods who praise Ra
+  description: A variant group of nine seated gods with raised hands in adoration
+    of Ra.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Man-headed seated gods
+  description: The first three of the nine seated gods are described as man-headed
+    and are named Hetch-a, Maa-a, and Hes-a.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Jackal-headed seated gods
+  description: The second three of the nine seated gods are described as jackal-headed
+    and are named Neb-ta-tesher, Ap-uat, and Ap-sekhemti.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Crocodile-headed seated gods
+  description: The third three of the nine seated gods are described as crocodile-headed;
+    the transmitted names in the fragment include Tciiat-Tuat and Seki, with the final
+    portion truncated or unclear.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: warders
+  assigned_to:
+  - fig:1
+  basis: The group is explicitly called Ape-warders.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: gate goddesses
+  assigned_to:
+  - fig:2
+  basis: The group is explicitly called goddesses of the gates.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: praised deity
+  assigned_to:
+  - fig:3
+  basis: The seated gods raise their hands in adoration of Ra and are called gods
+    who praise Ra.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: adoring gods
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The variant identifies the seated gods as praising Ra and raising their hands
+    in adoration.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: gates
+  literal_form: gates
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: number nine
+  literal_form: nine Ape-warders; nine seated gods
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: number twelve
+  literal_form: twelve goddesses of the gates
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: raised hands in adoration
+  literal_form: hands raised in adoration
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: animal-headed divine forms
+  literal_form: jackal-headed and crocodile-headed seated gods, alongside man-headed
+    seated gods
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Gate goddess and warder tableau
+  summary: The passage presents nine Ape-warders and twelve goddesses associated with
+    gates; the goddesses stand with their arms by their sides.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Variant adoration of Ra
+  summary: A variant tableau presents nine seated gods raising their hands in adoration
+    of Ra and grouped by head type.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: guardians and goddesses at gates
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The passage identifies gate-associated goddesses and a group of Ape-warders
+    within a named Am-Tuat passage range.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt is a fragmentary catalogue/tableau and does not narrate movement
+    through the gates.
+- id: motif:2
+  label: divine praise of Ra
+  taxonomy_refs: []
+  basis: The variant explicitly describes nine seated gods with raised hands in adoration
+    of Ra and calls them gods who praise Ra.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a ritual or iconographic posture in the excerpt, not a full narrative
+    episode.
+- id: motif:3
+  label: ordered groups of numbered divine beings
+  taxonomy_refs: []
+  basis: The passage uses fixed groups of nine and twelve divine or semi-divine figures,
+    including a triadic division of the nine seated gods by head type.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the meaning of the numbers.
+comparison_claims:
+- id: claim:1
+  claim: The gate goddesses and warders have the same general function as guardian
+    figures in an afterlife journey map motif family.
+  claim_level: same_function
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names gate-associated figures but does not itself describe
+    a journey sequence, testing episode, or passage through the gates.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 492-542
+  quote_or_summary: The passage labels groups as “The nine Ape-warders” and “The twelve
+    goddesses of the gates.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 492-542
+  quote_or_summary: "“Each goddess stands with her arms hanging by her sides.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 492-542
+  quote_or_summary: A variant describes “Nine seated gods” with hands “raised in adoration
+    of Ra” and calls them “gods who praise Ra.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 492-542
+  quote_or_summary: The variant says the first three seated gods are man-headed and
+    named Hetch-a, Maa-a, and Hes-a; the second three are jackal-headed and named
+    Neb-ta-tesher, Ap-uat, and Ap-sekhemti; the third three are crocodile-headed,
+    with names partly unclear in the fragment.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md
+  rights_note: Public domain source; summarized due to fragmentary OCR/transcription.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is fragmentary and includes OCR/transcription artifacts. Literal
+    group labels and posture descriptions are clear, but some names and the broader
+    narrative setting require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage text, locator, metadata, and available taxonomy references.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:egyptian-amduat-egyptian-heaven-hell-v1-budge-archive__l492-l542
+  passage_sha256=c2b0d73b439dc09084fc4bd0c960d41bd7c5499ab586d06b5e5ed58efef2fc14
+

@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l12424-l12451
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: BUREAU   OF  AMERICAN    ETHNOLOGY / EIGHTEENTH   ANNUAL   REPORT      PL.    LXXIII
+    / MAELISTSPIKES / KEELS; lines 12424-12451
+  start: '12424'
+  end: '12451'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes several reels used for holding cord in net-making.
+    Some deerhorn or other reels are carved or etched with animal heads, flippers,
+    limbs, or patterns, while two deerhorn reels are noted as unornamented.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several forms of reels are used to hold small cord for making nets.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Norton Sound reel has grooving, two seal-heads at the forked arms on one
+    end, hind-flippers at the other end, a grooved back pattern, and fore-flippers
+    indicated by etched lines.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A deerhorn reel from Sledge Island is described as grotesquely made; one end
+    has a wolf head, and forked portions represent legs and hind-limbs.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A deerhorn reel from Sabotnisky has animal-head shapes carved on the tops
+    of arms at one end and on one arm at the other end, with etched side patterns.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Two deerhorn reels from Cape Nome and Kigiktauik are described as without
+    ornament.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Norton Sound cord reel, figure 24, plate LXXII
+  description: A reel with grooves, seal-heads, hind-flippers, a grooved back pattern,
+    and etched fore-flippers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Sledge Island deerhorn reel, figure 20, plate LXXII
+  description: A grotesquely made deerhorn reel ornamented with a wolf head and forked
+    parts representing animal legs and hind-limbs.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Sabotnisky deerhorn reel, figure 25, plate LXXII
+  description: A deerhorn reel with arms carved in the shape of animal heads and etched
+    patterns on the sides.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Cape Nome and Kigiktauik deerhorn reels, figures 23 and 22, plate
+    LXXII
+  description: Two deerhorn reels described as without ornament.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: cord-holding net-making implement
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage states that these reels are used for holding small cord used
+    in making nets.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ornamented animal-form reel
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The described reels include carved or etched animal heads, flippers, limbs,
+    or related animal-form features.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: unornamented reel
+  assigned_to:
+  - fig:4
+  basis: The Cape Nome and Kigiktauik deerhorn reels are explicitly described as without
+    ornament.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: seal features
+  literal_form: Two seal-heads, hind-flippers, and etched fore-flippers on a reel.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wolf features
+  literal_form: A wolf head and forked parts representing animal legs and hind-limbs
+    on a deerhorn reel.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: animal heads
+  literal_form: Arms of a deerhorn reel carved in the shape of animal heads.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: grooved and etched patterns
+  literal_form: Grooved patterning and etched side or flipper lines on reels.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of cord reels for net-making
+  summary: The passage catalogs several reels used for holding cord in net-making,
+    distinguishing ornamented animal-form examples from unornamented deerhorn examples.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal features carved onto utilitarian net-making reels
+  taxonomy_refs: []
+  basis: Three described reels bear seal, wolf, or animal-head features, along with
+    flippers, limbs, or etched/grooved patterns.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes material ornamentation only; it does not state mythic
+    meaning, ritual function, or a named comparative motif.
+- id: motif:2
+  label: ornamented and unornamented variants of the same tool type
+  taxonomy_refs: []
+  basis: The passage presents several ornamented reels and then notes two deerhorn
+    reels without ornament.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: This is primarily a cataloging contrast, not an explicit narrative or
+    symbolic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12424-12426
+  quote_or_summary: Several forms of reels are employed for holding small cord used
+    in making nets.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12428-12436
+  quote_or_summary: Figure 24 from Norton Sound is a grooved reel with seal-heads
+    at one forked end, hind-flippers at the other end, a grooved pattern down the
+    backs, and etched fore-flippers.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12438-12442
+  quote_or_summary: Figure 20 from Sledge Island is a grotesquely made deerhorn reel
+    with a wolf head at one end and forked portions representing legs and hind-limbs.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12444-12448
+  quote_or_summary: Figure 25 from Sabotnisky is a deerhorn reel with arms carved
+    as animal heads and etched patterns on the sides.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12450-12451
+  quote_or_summary: Figures 23 and 22, from Cape Nome and Kigiktauik, are deerhorn
+    reels without ornament.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The material objects and decorative details are explicit, but symbolic or
+    mythological significance is not stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the available taxonomy symbols and motif families are not directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l12424-l12451
+  passage_sha256=d380f80974a37e6a72962350406956eadff61a73a054535ace8af7932c29f4ca
+

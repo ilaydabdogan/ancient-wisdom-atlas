@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l38431-l38443
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CXXXVII / SECTION CXXXVIII / SECTION CXXXIX / SECTION CXL; lines
+    38431-38443
+  start: '38431'
+  end: '38443'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A Brahmana concludes practical counsel for a ruler facing enemies, saying
+    such severe conduct should be used only in distress and for the ruler's benefit.
+    Bhishma then states that the ruler of the Sauviras accepted the Brahmana's instructions
+    and gained prosperity with his kinsmen and friends.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage gives practical maxims about action against foes, including not
+    taking what can be recovered, not digging unless the root can be reached, and
+    not striking unless the head can be cut off.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says the described course of conduct should be used only in seasons
+    of distress.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says he has spoken from a motive of doing good and to instruct
+    the listener on conduct when assailed by foes.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bhishma continues the narration and reports that the ruler of the Sauviras
+    heard the Brahmana's words, obeyed the instructions cheerfully, and obtained prosperity
+    with his kinsmen and friends.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Brahmana adviser
+  description: A Brahmana who speaks instructions intended for the ruler's good.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Ruler of the Sauviras
+  description: The ruler who hears and obeys the Brahmana's instructions and obtains
+    prosperity with kinsmen and friends.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Bhishma
+  description: Narrator who continues the account of the Brahmana and the Sauvira
+    ruler.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Foes
+  description: Enemies against whom the ruler may be acting or by whom he may be assailed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: wise instructor
+  assigned_to:
+  - fig:1
+  basis: The Brahmana states that he speaks for the ruler's good and to instruct him
+    in conduct under attack.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ruler receiving counsel
+  assigned_to:
+  - fig:2
+  basis: The ruler of the Sauviras hears the Brahmana's words, obeys them, and gains
+    prosperity.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: narrator
+  assigned_to:
+  - fig:3
+  basis: Bhishma is explicitly named as continuing the narration.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: adversaries
+  assigned_to:
+  - fig:4
+  basis: The speech refers to the foe and to being assailed by foes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Instruction on conduct in distress
+  summary: A Brahmana gives maxims about decisive and limited action against foes,
+    framing them as advice to be used only in distress.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ruler obeys counsel and prospers
+  summary: Bhishma reports that the ruler of the Sauviras accepts the Brahmana's counsel
+    and attains prosperity with his kinsmen and friends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Wise counsel to a ruler in distress
+  taxonomy_refs:
+  - wisdom
+  basis: The Brahmana offers instruction for how the ruler should behave when attacked
+    by foes, and the ruler's obedience to that instruction leads to prosperity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is didactic and political; the taxonomy reference to wisdom
+    is broad rather than a specific named tale-type.
+- id: motif:2
+  label: Prosperity gained through obedience to counsel
+  taxonomy_refs:
+  - wisdom
+  basis: The ruler cheerfully obeys the Brahmana's instructions and obtains prosperity
+    with his kinsmen and friends.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage states the result but gives little narrative detail about
+    how the counsel produced prosperity.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 38431-38435
+  quote_or_summary: The counsel says not to seize from a foe what the foe can recover,
+    not to dig unless the root can be reached, and not to strike someone whose head
+    one would not cut off.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 38436-38441
+  quote_or_summary: The speaker says this course of conduct is for seasons of distress
+    and is given for the listener's good, instructing him how to act when assailed
+    by foes.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 38442-38443
+  quote_or_summary: Bhishma says the ruler of the Sauviras heard the Brahmana's beneficial
+    words, obeyed them cheerfully, and obtained blazing prosperity with kinsmen and
+    friends.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and figures are explicit. Motif assignment is broad
+    because the passage is mainly advisory rather than a developed mythic episode.
+    No comparison claims were made from the passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol was assigned; the passage contains figurative maxims but no clearly supported recurring symbol from the supplied symbol list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l38431-l38443
+  passage_sha256=84fc0add718b537cd1073caa8ed7398c9de06a1c5c6e402d14a49f27a33372f0
+

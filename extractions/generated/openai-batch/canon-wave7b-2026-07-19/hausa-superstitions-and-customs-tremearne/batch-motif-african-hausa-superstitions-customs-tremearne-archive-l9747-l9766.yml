@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l9747-l9766
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: THE  FRIENDLY  LION  201 / THE  BOY,  THE  GIRL,  AND  DODO      203 / FALSEHOOD  AND  TRUTH  205
+    / VIRTUE  PAYS  BETTER  THAN  GREED.; lines 9747-9766
+  start: '9747'
+  end: '9766'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In the tale opening, the King of Good and the King of Evil travel together.
+    The King of Evil proposes that they eat the King of Good's food first and later
+    his own, but after the first supply is gone he refuses to share. The King of Good
+    wastes away from hunger. Later, at night, they sleep beneath a large tree with
+    a bird's nest at its top. The King of Evil sleeps, while the hungry King of Good
+    remains awake and hears the Bird speak about the tree's leaves and their use on
+    the eye of a blind man; the passage ends before the stated result is completed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The King of Good and the King of Evil start on a journey together.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The King of Evil proposes that they eat the King of Good's food until it is
+    finished and then eat his own food.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When the King of Good's food is finished, the King of Evil refuses to provide
+    his food.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The King of Good wastes away after the refusal of food.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At night the two travelers sleep at the foot of a large tree.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A Bird's nest is at the top of the large tree, and the Bird speaks from there.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The King of Evil sleeps, but the King of Good cannot sleep because hunger
+    troubles him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The Bird says that a person may gather the tree's leaves and rub a blind man's
+    eye with their juice; the excerpt breaks off before the result is completed.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: King of Good
+  description: One of the two kings on the journey; his food is eaten first, he is
+    refused the King of Evil's food, wastes away, and remains awake from hunger under
+    the tree.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: King of Evil
+  description: One of the two kings on the journey; he proposes the food arrangement,
+    refuses to provide his food after the King of Good's food is finished, and sleeps
+    beneath the tree.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Bird
+  description: A bird in a nest at the top of the tree who speaks about the tree's
+    leaves.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Blind-man
+  description: A blind man mentioned hypothetically in the Bird's statement as the
+    person whose eye may be rubbed with the juice of the tree's leaves.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deprived traveler
+  assigned_to:
+  - fig:1
+  basis: His own food is consumed first, the other traveler refuses to share afterward,
+    and he wastes away from hunger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: withholding companion
+  assigned_to:
+  - fig:2
+  basis: He proposes eating the King of Good's food first and then refuses to provide
+    his own food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: speaker of tree-leaf knowledge
+  assigned_to:
+  - fig:3
+  basis: The Bird speaks from the tree and describes a use for the tree's leaves.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: hypothetical afflicted recipient
+  assigned_to:
+  - fig:4
+  basis: The Blind-man appears only in the Bird's conditional statement about rubbing
+    the eye with leaf juice.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: opposed moral pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The two travelers are explicitly named the King of Good and the King of Evil.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: large tree
+  literal_form: large tree at whose foot the travelers sleep, with a Bird's nest at
+    the top
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: tree leaves and juice
+  literal_form: leaves of the tree, whose juice is to be rubbed on a blind man's eye
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: journey food
+  literal_form: food brought by the King of Good and withheld by the King of Evil
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Food proposal on the journey
+  summary: The King of Good and the King of Evil begin traveling together, and the
+    King of Evil proposes that they consume the King of Good's food first and later
+    his own.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Refusal after the food is finished
+  summary: After the King of Good's food is finished, the King of Evil refuses to
+    bring out his own food, and the King of Good wastes away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Night beneath the tree and the Bird's speech
+  summary: The travelers sleep at the foot of a large tree. The King of Evil sleeps,
+    while the hungry King of Good stays awake and hears the Bird in the nest speak
+    about the tree's leaves and a blind man's eye.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Good and Evil as opposed traveling companions
+  taxonomy_refs:
+  - duality
+  basis: The passage pairs figures explicitly named the King of Good and the King
+    of Evil and sends them on a shared journey.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Only the opening of the tale is present; later development is not included
+    in this excerpt.
+- id: motif:2
+  label: Broken food-sharing bargain
+  taxonomy_refs: []
+  basis: The King of Evil proposes a reciprocal food arrangement but refuses to share
+    his own food after the King of Good's supply is exhausted.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The moral outcome of the bargain is not present in the excerpt.
+- id: motif:3
+  label: Speaking bird reveals knowledge about healing leaves
+  taxonomy_refs:
+  - wisdom
+  basis: A Bird in the tree speaks about gathering the tree's leaves and applying
+    their juice to a blind man's eye.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The final clause is truncated, so no result such as healing should be
+    inferred from this excerpt alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9747-9754
+  quote_or_summary: The King of Good and the King of Evil begin a journey; the King
+    of Evil proposes that they eat the King of Good's food first and afterward eat
+    his own.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 9754-9759
+  quote_or_summary: After the King of Good's food is finished, he asks the King of
+    Evil to bring his food; the King of Evil refuses, and the King of Good wastes
+    away.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 9760-9765
+  quote_or_summary: The travelers sleep at night at the foot of a large tree. A Bird's
+    nest is at the top; the King of Evil sleeps while the hungry King of Good cannot
+    sleep.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 9764-9766
+  quote_or_summary: The Bird says that the leaves of the tree can be gathered and
+    their juice rubbed on the eye of a blind man; the excerpt ends before the result
+    is stated.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the passage ending mid-sentence. Motif candidates
+    are based only on the provided excerpt. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No outcome has been inferred for the Bird's statement beyond the supplied words.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l9747-l9766
+  passage_sha256=988b334d528c3900ca941659a3c0f5a750d4fb915ae5e10fa3193fc9e109c54e
+

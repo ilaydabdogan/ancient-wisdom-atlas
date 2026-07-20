@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.celtic-more-celtic-fairy-tales-jacobs-gutenberg-l6676-l6717
+source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: XXIX. POWEL, PRINCE OF DYFED. / XXX. PADDY O'KELLY AND THE WEASEL. / XXXI.
+    THE BLACK HORSE. / XXXII. THE VISION OF MACCONGLINNEY.; lines 6676-6717
+  start: '6676'
+  end: '6717'
+  translation: More Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial, parallel, and remark sections for “The Vision of MacConglinney”
+    identify manuscript sources, compare the tale with the Land of Cockayne and a
+    simpler agricultural golden-age conception, discuss a widespread folk explanation
+    of excessive appetite as caused by an indwelling voracious animal or demon, give
+    an Australian analogue about a swallowed hairy monster, and interpret the conception
+    as personified disease used in a parody of saintly vision literature.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The source note says the tale was condensed by Alfred Nutt from Prof. Meyer's
+    1892 edition, which contains longer and shorter manuscript versions.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The parallels note says The Vision at first seems to picture the Land of Cockayne,
+    while reporting Wollner's view that the Irish form is simpler and more primitive
+    and represents an agricultural conception of a past golden age.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the conception of enormous appetite being caused by
+    a voracious animal or demon within the body is widespread among folk traditions.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The narrator recalls an Australian nurse's tale in which a man swallowed a
+    little hairy monster that grew, made him eat all day, and was finally lured by
+    brandy fumes into a bowl where it drowned.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The remarks identify the conception as a personification of disease in the
+    form of a demon and note that examples occur in the Gospels.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The remarks say the Irish monk author was, according to Wollner, parodying
+    the Visions of the Saints, while still likely using a conception current among
+    the folk.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: MacConglinney
+  description: Named in the title “The Vision of MacConglinney”; no actions are narrated
+    in this passage excerpt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man in Australian analogue
+  description: A man who swallowed large pieces of food and a little hairy monster;
+    the monster caused him to eat all day until he was cured.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: little hairy monster / hairy thing
+  description: A swallowed hairy monster that grew, caused continual eating, was attracted
+    by brandy fumes, jumped into a bowl, and drowned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: voracious animal or demon within the body
+  description: A generic indwelling being named in the commentary as the cause of
+    enormous appetite and as a form of disease personification.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: eponymous named figure
+  assigned_to:
+  - fig:1
+  basis: The passage title names “The Vision of MacConglinney.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: afflicted eater or host
+  assigned_to:
+  - fig:2
+  basis: In the Australian analogue, the man has swallowed the monster and is made
+    to eat all day.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: indwelling appetite-causer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage links excessive appetite to an internal voracious animal, demon,
+    or hairy monster.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: personified disease demon
+  assigned_to:
+  - fig:4
+  basis: The remarks call the conception a personification of disease in demon form.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Land of Cockayne
+  literal_form: Named fabulous land or food-abundant comparison target
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: agricultural golden age
+  literal_form: An agricultural conception of a past aurea aetas
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: inner voracious being
+  literal_form: Animal, demon, or hairy monster within the body
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: body as host or container
+  literal_form: A body containing an appetite-causing being
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: bowl of brandy
+  literal_form: A bowl of brandy whose fumes attract the hairy thing, leading it to
+    drown
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Commentarial framing of The Vision
+  summary: The passage frames The Vision through comparison with Cockayne imagery
+    and an agricultural golden-age conception.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Generic indwelling appetite demon pattern
+  summary: The commentary describes a folk conception in which excessive appetite
+    is caused by a voracious animal or demon inside the body.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Australian analogue of swallowed monster and cure
+  summary: A man swallows a little hairy monster; it grows and causes continual eating,
+    then fasting and a bowl of brandy lure it out and drown it.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Disease demon interpretation
+  summary: The remarks interpret the conception as disease personified as a demon
+    and connect its use to a parodic vision context.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Excessive appetite caused by an indwelling voracious being
+  taxonomy_refs: []
+  basis: The passage explicitly states that enormous appetite is explained by the
+    presence of a voracious animal or demon within the body and calls this conception
+    widespread among folk traditions.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt is commentarial; it does not narrate the full episode from
+    The Vision itself.
+- id: motif:2
+  label: Disease personified as a demon
+  taxonomy_refs: []
+  basis: The remarks identify the conception as personification of disease in demon
+    form.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Specific Gospel examples and exact tale episodes are not provided in the
+    excerpt.
+- id: motif:3
+  label: Food-abundant land or agricultural golden age
+  taxonomy_refs: []
+  basis: The parallels note compares The Vision with the Land of Cockayne and then
+    qualifies the Irish form as an agricultural conception of a past golden age.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage explicitly warns against treating the Irish form as simply
+    identical with Cockayne.
+- id: motif:4
+  label: Swallowed monster expelled by fasting and liquid lure
+  taxonomy_refs: []
+  basis: The Australian analogue has a swallowed hairy monster cured by fasting and
+    by attracting it with brandy fumes into a bowl where it drowns.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This motif is from the narrated analogue, not necessarily directly from
+    The Vision in this excerpt.
+- id: motif:5
+  label: Parody of saintly vision literature
+  taxonomy_refs: []
+  basis: The remarks report Wollner's view that the Irish monk author was parodying
+    the Visions of the Saints.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No detailed parodic episode is included in the passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The Vision is cautiously compared with the Land of Cockayne, but the passage
+    also reports a distinction: the Irish form is described as simpler and as an agricultural
+    past golden age rather than merely Cockayne.'
+  claim_level: visual_similarity
+  target: Land of Cockayne / Schlaraffenland tradition
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The comparison is qualified within the passage itself and is presented
+    as an initial resemblance.
+- id: claim:2
+  claim: The appetite-causing internal animal or demon is presented as belonging to
+    a widespread folk pattern.
+  claim_level: same_motif
+  target: Folk motif of an indwelling voracious animal or demon causing enormous appetite
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage cites Wollner's parallels generally but does not enumerate
+    them in the excerpt.
+- id: claim:3
+  claim: The narrator's Australian nurse tale is presented as somewhat similar to
+    The Vision through the swallowed hairy monster that causes gluttonous appetite
+    and is removed by a cure.
+  claim_level: same_motif
+  target: Australian nurse tale of a swallowed hairy monster causing continual eating
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The analogue is a personal recollection summarized by the editor and
+    described only as somewhat similar.
+- id: claim:4
+  claim: The disease-as-demon interpretation is compared with examples said to occur
+    in the Gospels.
+  claim_level: same_function
+  target: Gospel examples of disease personification in demon form
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not name specific Gospel episodes or provide textual
+    details for the comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6676-6686
+  quote_or_summary: The section title names “The Vision of MacConglinney”; the source
+    note says Alfred Nutt condensed it from Prof. Meyer's 1892 edition, which contains
+    two manuscript versions.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: 6688-6693
+  quote_or_summary: The parallels note says The Vision at first seems to picture the
+    Land of Cockayne, but Wollner describes the Irish form as simpler, more primitive,
+    and an agricultural conception of a past aurea aetas.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: 6693-6698
+  quote_or_summary: The passage states that enormous appetite due to a voracious animal
+    or demon within the body is a widespread folk conception and links the phrase
+    “to wolf one's food” to it.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: 6699-6706
+  quote_or_summary: 'The narrator recalls an Australian nurse''s tale: a man swallowed
+    a little hairy monster that grew and made him eat all day; fasting and brandy
+    fumes drew it into a bowl where it drowned.'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: 6708-6717
+  quote_or_summary: The remarks call the conception disease personified as a demon,
+    mention Gospel examples, say Wollner viewed the tale as parodying Visions of the
+    Saints, and state that the folk conception remained current.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily editorial commentary and comparative notes rather
+    than the tale narrative itself. Motifs and comparisons are extracted only where
+    the passage explicitly states them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was assigned because the supported taxonomy list does not include Cockayne, disease demon, indwelling appetite monster, or parody of vision literature.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-more-celtic-fairy-tales-jacobs-gutenberg__l6676-l6717
+  passage_sha256=fd3e883a8e4ba1df6f324d9a006e2d966e7ae244016c1b0a8ba7e05440d2f07e
+

@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l2783-l2798
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: TROUSERS. / SOCKS. / BOOTS. / SHOES.; lines 2783-2798
+  start: '2783'
+  end: '2798'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Labrador Inuit footwear, including an ankle-high
+    dressed sealskin shoe slit down the front that the author interprets as native
+    material adapted to a white man's shoe cut. It also describes moccasins made by
+    people identified in the source as Labrador Eskimo half-breeds, presented as an
+    imitation of the Indian moccasin with modifications.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Labrador Eskimo are described as making an ankle-high dressed sealskin
+    shoe slit down the front.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shoe is said to be the same size as, but otherwise different from, the
+    Alaskan ku'muk.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author says the sealskin shoe appears to adapt native material to a white
+    man's shoe cut, and notes an illustration in Turner's account of the Ungava Eskimo.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage presents moccasins made by people described in the source as Labrador
+    Eskimo half-breeds as another example of border influence.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The moccasins are described as an imitation of the Indian moccasin, with a
+    higher back and cloth top.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Labrador Eskimo
+  description: Group described as making the ankle-high dressed sealskin shoe.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Labrador Eskimo half-breeds
+  description: Group described in the source as making moccasins influenced by the
+    Indian moccasin form.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: makers of dressed sealskin shoe
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Labrador Eskimo make the ankle-high dressed sealskin
+    shoe.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: makers of moccasins influenced by Indian moccasin form
+  assigned_to:
+  - fig:2
+  basis: The passage states that the Labrador Eskimo half-breeds make moccasins described
+    as an imitation of the Indian moccasin.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ankle-high dressed sealskin shoe
+  literal_form: An ankle-high dressed sealskin shoe, slit down the front.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Alaskan ku'muk
+  literal_form: An Alaskan footwear form used as a comparison for size and difference.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: white man's shoe cut
+  literal_form: A white man's shoe pattern or cut that the author says shaped the
+    Labrador sealskin shoe.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Indian moccasin form
+  literal_form: An Indian moccasin form imitated in moccasins with a higher back and
+    cloth top.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of Labrador footwear adaptations
+  summary: The author describes Labrador footwear objects and compares them with Alaskan,
+    Ungava, white, and Indian footwear forms, emphasizing adaptation and border influence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: adaptation of native material to foreign clothing cut
+  taxonomy_refs: []
+  basis: The passage explicitly says the Labrador dressed sealskin shoe appears to
+    be native material adapted to a white man's cut.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a material-culture pattern rather than a mythic narrative motif.
+- id: motif:2
+  label: border influence in footwear form
+  taxonomy_refs: []
+  basis: The passage describes moccasins as another example of border influence and
+    as an imitation of the Indian moccasin with local modifications.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic clothing pattern; no mythological symbolism is
+    stated in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The Labrador dressed sealskin shoe is compared with the Alaskan ku'muk as
+    being the same size but otherwise different.
+  claim_level: visual_similarity
+  target: Alaskan ku'muk
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a brief comparison and emphasizes difference
+    except for size.
+- id: claim:2
+  claim: The Labrador dressed sealskin shoe is interpreted by the author as native
+    material adapted to a white man's shoe cut, with a related example noted in Turner's
+    account of the Ungava Eskimo.
+  claim_level: historical_contact
+  target: white man's shoe cut and Ungava Eskimo illustrated example
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The contact or influence claim is presented as the author's interpretation;
+    the passage does not provide independent historical evidence.
+- id: claim:3
+  claim: The moccasins made by the group described as Labrador Eskimo half-breeds
+    are compared to the Indian moccasin as an imitation with a higher back and cloth
+    top.
+  claim_level: visual_similarity
+  target: Indian moccasin
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage describes the comparison but does not elaborate on the
+    broader cultural context of the influence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2783-2787
+  quote_or_summary: '"The Labrador Eskimo make an ankle-high dressed sealskin shoe,
+    slit down the front."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2786-2788
+  quote_or_summary: '"It is the same size but different otherwise from the Alaskan
+    ku''muk."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 2788-2794
+  quote_or_summary: The author says he hesitated to include the shoe because it appears
+    patterned after a white man's shoe, notes an illustration in Turner's Ungava Eskimo
+    account, and describes it as native material adapted to a white man's cut.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2794-2798
+  quote_or_summary: The passage describes moccasins made by people called Labrador
+    Eskimo half-breeds as another example of border influence, imitating the Indian
+    moccasin with a higher back and cloth top.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive ethnography of clothing and contact influence,
+    not a myth narrative. Material patterns and comparisons are explicit, but mythological
+    motif significance is not stated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif-family or symbol reference is directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l2783-l2798
+  passage_sha256=e6418f1cb7c9de0754ca9ccf94677dbd40728fe75bb98c42c6503c0222cc8086
+

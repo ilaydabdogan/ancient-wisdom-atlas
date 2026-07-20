@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.buddhist-buddhism-in-translations-warren-archive-l25499-l25511
+source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+passage_locator:
+  label: TABLE    OF    THE    EI( / MERITORIOUS  CONSCIOUSNESSES. / TY-NINE    CONSCIOUSNESSES.
+    / INDETERMINATE  CONSCIOUSNESSES.; lines 25499-25511
+  start: '25499'
+  end: '25511'
+  translation: Buddhism in Translations (Harvard Oriental Series, Vol. 3)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses a quoted teaching in which a priest enters the trance
+    of cessation of perception and sensation, with vocal, bodily, and mental karma
+    ceasing in sequence. A note says another quotation probably refers to the wheel
+    of empire as a symbolic expression of a Universal Monarch's victorious progress
+    in subduing the world, and compares it with the Wheel of Doctrine.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A quoted teaching addresses Brother Visakha and describes a priest entering
+    the trance of cessation of perception and sensation.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the quoted teaching, vocal karma ceases first, bodily karma second, and
+    mental karma third.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the several karmas mentioned are included under static
+    karma.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note says that a quotation probably refers to the wheel of empire.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says the wheel of empire symbolically expresses the victorious progress
+    of a Universal Monarch in subduing the world.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note directs comparison with the Wheel of Doctrine in the index.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Brother Visakha
+  description: A person addressed in the quoted teaching.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: priest
+  description: A priest who enters the trance of the cessation of perception and sensation
+    in the quoted teaching.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Universal Monarch
+  description: A monarch whose victorious progress in subduing the world is said to
+    be symbolically expressed by the wheel of empire.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: addressed interlocutor
+  assigned_to:
+  - fig:1
+  basis: The quoted teaching begins by addressing Brother Visakha.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: trance entrant
+  assigned_to:
+  - fig:2
+  basis: The priest is described as entering the trance of cessation of perception
+    and sensation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: world-subduing monarch
+  assigned_to:
+  - fig:3
+  basis: The note describes the Universal Monarch's victorious progress in subduing
+    the world.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wheel of empire
+  literal_form: wheel
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Wheel of Doctrine
+  literal_form: wheel
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cessation trance and sequence of karma cessation
+  summary: A quoted teaching describes a priest entering a trance in which vocal,
+    bodily, and mental karma cease in order.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wheel of empire as symbol of universal monarchy
+  summary: A note interprets a quotation as probably referring to the wheel of empire,
+    symbolizing a Universal Monarch's victorious subduing of the world.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: progressive cessation in meditative trance
+  taxonomy_refs: []
+  basis: The passage describes entry into a trance where vocal, bodily, and mental
+    karma cease in a stated sequence.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is doctrinal and classificatory rather than a narrative myth;
+    motif status requires review.
+- id: motif:2
+  label: royal wheel symbolizing world conquest
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The note identifies the wheel of empire as a symbolic expression of the Universal
+    Monarch's victorious progress in subduing the world.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The note says the reference is probable, and the immediate quotation being
+    explained is not included in this line range.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly directs comparison between the wheel of empire and the
+    Wheel of Doctrine.
+  claim_level: visual_similarity
+  target: Wheel of Doctrine
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives only a cross-reference, not a developed comparison
+    of function or historical relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 25499-25504
+  quote_or_summary: '"when any priest enters upon the trance of the cessation of perception
+    and sensation, first vocal karma ceases, then bodily karma, and then mental karma"'
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 25504-25506
+  quote_or_summary: The passage says the several karmas mentioned in such quotations
+    are all included under static karma.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 25509-25511
+  quote_or_summary: The note says the quotation "probably refers to the wheel of empire"
+    and symbolically expresses the progress of a Universal Monarch subduing the world.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: line 25511
+  quote_or_summary: The note adds a comparison to the Wheel of Doctrine in the index.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage contains a doctrinal quotation and editorial notes rather than
+    a full narrative. Extraction is limited to explicitly stated figures, objects,
+    sequences, and the note's stated symbolic interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy reference matched the wheel imagery; taxonomy references were left empty for symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-buddhism-in-translations-warren-archive__l25499-l25511
+  passage_sha256=f2cd4fbb5b2accc56cf461438b469e36e4d6a8ad4363cebeef1fc1b4c162fb9d
+

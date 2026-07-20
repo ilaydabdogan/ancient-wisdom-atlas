@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l383-l406
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: CONTENTS / LIST OF ILLUSTRATIONS / REPROACHES / A TRIAL OF ORTHODOXY; lines
+    383-406
+  start: '383'
+  end: '406'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Lord, how long?”"
+  summary: A sonnet on Armenia describes children and relatives being killed or mutilated,
+    nations and rulers looking on, and a suffering throng questioning Heaven and God
+    through a sequence from noon to dawn.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is titled “A Trial of Orthodoxy,” identified as a sonnet on Armenia
+    by William Watson.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Children at their mother’s knee are described as slain; a sire and kindred
+    are described as flayed or cut apart, with further unnamed acts mentioned.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The poem says nations gaze imperturbably in relation to the Rhine, Seine,
+    Danube, Thames, Tiber, and sea.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Great armies and great kings are described alongside the claim that man is
+    boasted free.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A torn and naked throng is said to doubt Heaven and to ask successive questions
+    addressed to the Lord or God from noontide through before dawn.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: clinging children
+  description: Children at their mother’s knee who are described as slain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: mother
+  description: The mother at whose knee the children cling.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: sire and kindred
+  description: Family members described as flayed or hewn piecemeal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the nations
+  description: Collective nations described as gazing imperturbably.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: great armies and great kings
+  description: Worldly military and royal powers described as glittering in the sun
+    and ruling.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: torn and naked throng
+  description: A suffering collective that doubts Heaven and questions God.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Heaven / God
+  description: The divine addressee or object of doubt in the throng’s questions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: slain or mutilated victims
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage explicitly says the children are slain and the sire and kindred
+    are flayed or hewn piecemeal.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: maternal figure beside victims
+  assigned_to:
+  - fig:2
+  basis: The children are located at their mother’s knee.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: indifferent observers
+  assigned_to:
+  - fig:4
+  basis: The nations are said to gaze imperturbably.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: worldly powers
+  assigned_to:
+  - fig:5
+  basis: The poem refers to great armies and great kings ruling while man is boasted
+    free.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: suffering questioners
+  assigned_to:
+  - fig:6
+  basis: The torn and naked throng doubts Heaven and voices questions about God.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: questioned deity
+  assigned_to:
+  - fig:7
+  basis: The throng asks where God is hidden, whether God is deaf and blind, and whether
+    God exists at all.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: named European rivers and sea
+  literal_form: Rhine, Seine, Danube, Thames, Tiber, and the sea
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: day-to-night sequence of lament
+  literal_form: noontide, evenfall, midnight, and before dawn
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Heaven as doubted divine realm
+  literal_form: Heaven that seems to wink and nod
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Family slaughter and mutilation
+  summary: The poem presents children, a sire, and kindred as victims of killing and
+    mutilation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Nations and powers look on
+  summary: The poem describes nations, armies, and kings across named European waterways
+    as looking on or existing in contrast to the violence.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: The suffering throng questions God
+  summary: A torn and naked throng doubts Heaven and asks escalating questions about
+    God’s hiddenness, perception, and existence through the hours of day and night.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Suffering community questions divine justice or presence
+  taxonomy_refs:
+  - divine_judgment
+  basis: The torn and naked throng doubts Heaven and asks whether God is hidden, deaf,
+    blind, or exists at all after the described violence.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage questions divine presence and justice but does not narrate
+    an explicit divine judgment.
+- id: motif:2
+  label: Indifferent nations witnessing atrocity
+  taxonomy_refs: []
+  basis: The nations are described as gazing imperturbably while violence against
+    Armenian families is recounted.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a political-moral motif in the poem rather than a named mythological
+    taxonomy item supplied in the prompt.
+- id: motif:3
+  label: Escalating lament through the night
+  taxonomy_refs: []
+  basis: The throng’s questions move from noontide to evenfall, midnight, and before
+    dawn.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supports the temporal lament pattern, but no supplied taxonomy
+    family directly matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 383-387
+  quote_or_summary: "“A TRIAL OF ORTHODOXY”; “(Sonnet on Armenia)”; “By WILLIAM WATSON.”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:2
+  type: summary
+  locator: lines 389-392
+  quote_or_summary: The poem describes clinging children at their mother’s knee as
+    slain and a sire and kindred as flayed or hewn apart, with further unnamed acts.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 393-397
+  quote_or_summary: The poem says nations gaze imperturbably where major European
+    rivers run, while armies glitter, kings rule, and freedom is boasted.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 398-402
+  quote_or_summary: The throng is described as doubting Heaven and asking, “Lord,
+    how long?”, “Where hidest Thou?”, “Is He deaf and blind, our God?”, and “Is He
+    indeed at all?”
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is a modern sonnet of lament and political witness, and the supplied
+    taxonomy has only an approximate fit for divine questioning.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the scene to another myth, text, or tradition.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l383-l406
+  passage_sha256=04eb741813dc05d6034b8a20b3a3a8aa8b1907398058a56f29fb9dd5bae7b544
+

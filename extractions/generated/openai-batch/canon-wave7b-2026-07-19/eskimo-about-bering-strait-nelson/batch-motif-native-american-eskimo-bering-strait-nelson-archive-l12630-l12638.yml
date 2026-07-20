@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l12630-l12638
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: MAELISTSPIKES / KEELS / FISH   SPEARS / ARTS  AND  MANUFACTURES; lines 12630-12638
+  start: '12630'
+  end: '12638'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes coastal Eskimo skill in etching tools and implements
+    with daily-life scenes, hunt records, events, ornamental designs, faces, and painted
+    wooden-dish patterns representing totem animals, personal markings, or mythological
+    creatures.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Eskimo of the coast are described as skilled in carving and etching on
+    tools and implements, especially ivory drill-bows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Etched subjects include scenes from daily life, records of hunts, and other
+    events.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ornamental designs are described as made from straight or curved lines, dots,
+    circles, and human or grotesque faces.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Wooden dishes are often painted with a red ground color, and black patterns
+    and figures are drawn on colored and uncolored surfaces.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The black patterns and figures on wooden dishes are said to represent totem
+    animals, personal markings, or mythological creatures.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Eskimo of the coast
+  description: Collective group described as carving, etching, painting, and drawing
+    designs on implements and wooden dishes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Human or grotesque faces
+  description: Faces included among ornamental designs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Totem animals
+  description: Animals represented in patterns and figures on wooden dishes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Mythological creatures
+  description: Creatures represented in patterns and figures on wooden dishes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: makers of etched and painted objects
+  assigned_to:
+  - fig:1
+  basis: The group is described as producing etchings, ornamental designs, and painted/drawn
+    dish patterns.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: depicted ornamental faces
+  assigned_to:
+  - fig:2
+  basis: The passage lists human or grotesque faces as elements of ornamental designs.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: depicted totem animal figures
+  assigned_to:
+  - fig:3
+  basis: The passage states that some figures represent totem animals.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: depicted mythological creature figures
+  assigned_to:
+  - fig:4
+  basis: The passage states that some figures represent mythological creatures.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: etched daily-life and hunt records
+  literal_form: Scenes from daily life, records of hunts, or other events etched on
+    tools and implements, notably ivory drill-bows.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: geometric ornamental marks
+  literal_form: Straight or curved lines, dots, and circles used in ornamental designs.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: human or grotesque faces
+  literal_form: Human or grotesque faces included in ornamental designs.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: red ground with black drawing
+  literal_form: Wooden dish surfaces painted red, with black patterns and figures
+    drawn on them or on uncolored surfaces.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: totem animal figures
+  literal_form: Black patterns and figures representing totem animals.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: personal markings
+  literal_form: Black patterns and figures representing personal markings.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: mythological creature figures
+  literal_form: Black patterns and figures representing mythological creatures.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Etching scenes and records on implements
+  summary: Coastal Eskimo etch tools and implements, especially ivory drill-bows,
+    with daily-life scenes, hunt records, and other events.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Producing ornamental designs
+  summary: Ornamental designs are produced using lines, dots, circles, and human or
+    grotesque faces.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Painting and marking wooden dishes
+  summary: Wooden dishes are painted red or left uncolored, then marked in black with
+    patterns and figures representing totem animals, personal markings, or mythological
+    creatures.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Narrative records of daily life and hunts on tools
+  taxonomy_refs: []
+  basis: The passage states that tools and implements are etched with scenes of daily
+    life, hunt records, and other events.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an artistic and documentary pattern; no specific mythic narrative
+    is given.
+- id: motif:2
+  label: Geometric and face-based ornamentation
+  taxonomy_refs: []
+  basis: The passage lists straight and curved lines, dots, circles, and human or
+    grotesque faces as ornamental design elements.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No ritual or mythological meaning is stated for these forms in this passage.
+- id: motif:3
+  label: Totem animal and mythological creature imagery on dishes
+  taxonomy_refs: []
+  basis: The passage says dish patterns and figures may represent totem animals, personal
+    markings, or mythological creatures.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The animals and creatures are not named, and no associated myth episode
+    is described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12630-12632
+  quote_or_summary: Coastal Eskimo are described as skilled carvers and etchers who
+    mark tools and implements, notably ivory drill-bows, with daily-life scenes, hunt
+    records, and other events.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 12633-12634
+  quote_or_summary: They produce ornamental designs made of straight or curved lines,
+    dots, circles, and human or grotesque faces.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 12635-12638
+  quote_or_summary: Wooden dishes are often painted with a red ground and black patterns
+    or figures representing totem animals, personal markings, or mythological creatures.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is descriptive ethnography of material arts. Motif candidates
+    are limited to observed visual and representational patterns. No available taxonomy
+    refs were applied because the supplied motif and symbol lists do not directly
+    match the passage content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage itself does not compare these images to another motif family, text, or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l12630-l12638
+  passage_sha256=da5cd10acfb8e55dfa48cceb73fd06920c16297e22b8ff38416732a966f9eaca
+

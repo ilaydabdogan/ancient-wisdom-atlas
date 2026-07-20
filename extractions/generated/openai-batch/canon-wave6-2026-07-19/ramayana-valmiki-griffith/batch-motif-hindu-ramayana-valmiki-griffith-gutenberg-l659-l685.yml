@@ -1,0 +1,331 @@
+---
+record_id: batch.motif.hindu-ramayana-valmiki-griffith-gutenberg-l659-l685
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+passage_locator:
+  label: The Rámáyan of Válmíki, translated into English verse / CONTENTS / INVOCATION.(1);
+    lines 659-685
+  start: '659'
+  end: '685'
+  translation: The Rámáyan of Válmíki, translated into English verse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An invocation praises Válmíki as a poet-saint and first bard who sings
+    Ráma. It says listeners attain bliss through hearing Ráma's glory, portrays the
+    Rámáyan as a sacred stream that frees the world from sin, and hails Válmíki with
+    ascetic and learned titles.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage praises Válmíki as a singer who mounts on Poesy's sublimest spray
+    and sings Ráma in a deathless lay.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says a person listening to the strain from Válmíki's tongue feels
+    his feet attain the path of bliss when Ráma's glory is sung by the saint.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Rámáyan is described as a stream leaving its sacred fount to free the
+    whole wide world from sin and stain.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Prince of Hermits is called the parent mount, and lordly Ráma is called
+    the darling sea.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage gives glory to Prachetas' holy son, whose lips quaff the nectar-sea
+    of Ráma's deeds.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Válmíki is hailed as arch-ascetic, saint, holy hermit, lord of every lore,
+    and First of Bards.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Válmíki
+  description: Praised as a poet-saint who sings Ráma, as the Prince of Hermits and
+    Prachetas' holy son, and as arch-ascetic, lord of every lore, and First of Bards.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Ráma
+  description: Named as the subject of Válmíki's song; his glory is sung, he is called
+    lordly Ráma, and his deeds are described as a nectar-sea.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: listening man
+  description: A generic person who listens to the strain from Válmíki's tongue and
+    is said to attain the path of bliss.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: poet-saint and bard
+  assigned_to:
+  - fig:1
+  basis: Válmíki sings Ráma in a deathless lay and is later hailed as Saint Válmíki
+    and First of Bards.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: ascetic hermit
+  assigned_to:
+  - fig:1
+  basis: The passage calls him Prince of Hermits, arch-ascetic, and holy Hermit.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: learned sacred source figure
+  assigned_to:
+  - fig:1
+  basis: The passage links him to the sacred fount and parent mount imagery and hails
+    him as lord of every lore.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: subject of sacred song and deeds
+  assigned_to:
+  - fig:2
+  basis: Ráma is repeatedly named as the one sung by Válmíki; his glory and deeds
+    are praised.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:5
+  label: recipient of blessed hearing
+  assigned_to:
+  - fig:3
+  basis: The passage describes a listener attaining the path of bliss when Ráma's
+    glory is sung.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bird of charming song
+  literal_form: Válmíki is called a bird of charming song.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: poetic height
+  literal_form: Poesy's sublimest spray on which Válmíki mounts.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: purifying water imagery
+  literal_form: The Rámáyan as stream, sacred fount, sea, and nectar-sea.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: parent mount
+  literal_form: The Prince of Hermits as parent mount.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: path of bliss
+  literal_form: The listener's feet attain the path of bliss.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Opening praise of Válmíki's song
+  summary: The invocation praises Válmíki as a bird of song who mounts poetic height
+    and sings Ráma in a deathless lay.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Blessed hearing of Ráma's glory
+  summary: A listener to Válmíki's strain is described as attaining the path of bliss
+    when the saint sings Ráma's glory.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rámáyan as sacred stream
+  summary: The Rámáyan is portrayed as a sacred stream that frees the world from sin,
+    with the Prince of Hermits as parent mount and Ráma as sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Final acclamation of Válmíki
+  summary: The invocation gives glory to Válmíki and hails him as ascetic, hermit,
+    learned saint, and first bard who delights in Ráma's deeds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: poet-saint as first bard and bearer of lore
+  taxonomy_refs:
+  - wisdom
+  basis: Válmíki is hailed as saint, lord of every lore, and First of Bards, and is
+    shown singing Ráma's glory.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The taxonomy mapping is broad; the passage is an invocation rather than
+    a narrative wisdom episode.
+- id: motif:2
+  label: sacred narrative as purifying stream
+  taxonomy_refs: []
+  basis: The Rámáyan is described as a stream from a sacred fount that frees the world
+    from sin and stain.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The water language is poetic imagery in a hymn-like invocation, not a
+    literal river event.
+- id: motif:3
+  label: poetic ascent
+  taxonomy_refs:
+  - ascent
+  basis: Válmíki is described as mounting on Poesy's sublimest spray before singing
+    Ráma.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The ascent is metaphorical and localized to poetic praise; it is not an
+    explicit journey motif.
+- id: motif:4
+  label: blessed hearing of sacred praise
+  taxonomy_refs: []
+  basis: The passage says hearing Válmíki sing Ráma's glory leads the listener to
+    the path of bliss.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states the effect devotionally but does not narrate a particular
+    listener's experience.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 659-665
+  quote_or_summary: The invocation praises Válmíki as a bird of charming song who
+    mounts Poesy's sublimest spray and sings Ráma in a deathless lay.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 666-670
+  quote_or_summary: A listener to the music from Válmíki's tongue is said to attain
+    the path of bliss when Ráma's glory is sung by the saint.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 671-674
+  quote_or_summary: The Rámáyan is described as a stream from a sacred fount that
+    frees the world from sin; the Prince of Hermits is the parent mount and Ráma the
+    darling sea.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 675-678
+  quote_or_summary: Glory is offered to Prachetas' holy son, whose lips delight in
+    the nectar-sea of deeds done by Ráma.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 679-685
+  quote_or_summary: Válmíki is hailed as arch-ascetic, pious and kind saint, holy
+    hermit, lord of every lore, and First of Bards.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for named figures and imagery. Motif
+    assignments are cautious because the passage is an invocation with metaphoric
+    praise rather than a narrative episode. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to provided lists.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-ramayana-valmiki-griffith-gutenberg__l659-l685
+  passage_sha256=1c94ac4366fc0857b00597dde9b121fa9c860b28af66c40f2624de113bc01510
+

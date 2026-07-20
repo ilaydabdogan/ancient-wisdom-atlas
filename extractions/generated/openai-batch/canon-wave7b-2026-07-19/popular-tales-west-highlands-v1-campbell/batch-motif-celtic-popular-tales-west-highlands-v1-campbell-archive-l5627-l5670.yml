@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l5627-l5670
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: THE YOUNG KING OF EASAIDH RUADH. 5 / THE YOUNG KING OF EASAIDH RUADH. 7 /
+    THE YOUNG KING OF EASAIDH RUADH. 9 / THE FOUNG KING OF EASAIDH RUADII. 11; lines
+    5627-5670
+  start: '5627'
+  end: '5670'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"and it is in the egg that my soul is."'
+  summary: A giant says that his soul is hidden in an egg inside a duck, inside a
+    wether, beneath a flagstone under the threshold. After he leaves, the group retrieves
+    the nested animals and egg with the help of a slim dog, a hoary hawk or falcon,
+    and a brown otter. The queen crushes the egg, the giant dies, and the group takes
+    treasure and returns to a feast.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The giant states that his soul is in an egg, inside a duck, inside a wether,
+    beneath a great flagstone under the threshold.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the giant goes away, the group raises the flagstone and the wether escapes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The slim dog of the greenwood is invoked and comes with the wether in its
+    mouth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the wether is opened, the duck comes out on the wing among other ducks.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Hoary Hawk of the grey rock is invoked and comes with the duck in her
+    mouth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the duck is split to take the egg from her belly, the egg goes into the
+    depth of the ocean.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The brown otter of the river is invoked and comes with the egg in her mouth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The queen catches the egg and crushes it between her two hands.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: When the egg is crushed, the giant falls down dead and does not move again.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The group takes much gold and silver, spends nights with the animal helpers,
+    comes home, and prepares a hearty hero's feast.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the giant
+  description: A giant whose soul is said to be hidden in an egg; he falls dead when
+    the egg is crushed, and his gold and silver are taken afterward.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the queen
+  description: The woman named as queen who catches the egg and crushes it between
+    her hands.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: unnamed group, described as "they"
+  description: The group who raises the flagstone, opens the animals, takes the giant's
+    gold and silver, spends nights with the animal helpers, and comes home to make
+    a feast.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: slim dog of the greenwood
+  description: An animal helper who comes with the wether in his mouth.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:5
+  name_or_label: Hoary Hawk or hoary falcon of the grey rock
+  description: An animal helper called the Hoary Hawk of the grey rock during the
+    retrieval and later the hoary falcon of the grey rock; she brings the duck in
+    her mouth.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:6
+  name_or_label: brown otter of the river
+  description: An animal helper who comes with the egg in her mouth and is later visited
+    for a night.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:7
+  name_or_label: wether under the flagstone
+  description: A wether found under the threshold flagstone, containing the duck in
+    its belly, and retrieved by the slim dog.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:8
+  name_or_label: duck in the wether's belly
+  description: A duck contained in the wether's belly, containing the egg in her belly,
+    and retrieved by the Hoary Hawk.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: hidden-soul owner
+  assigned_to:
+  - fig:1
+  basis: The giant says his soul is in the egg and dies when the egg is crushed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: destroyer of the soul-egg
+  assigned_to:
+  - fig:2
+  basis: The queen catches and crushes the egg, after which the giant falls dead.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: animal retriever helper
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The dog retrieves the wether, the hawk or falcon retrieves the duck, and
+    the otter retrieves the egg.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: retrieval party
+  assigned_to:
+  - fig:3
+  basis: The unnamed group raises the flagstone, opens the animals, takes treasure,
+    and returns home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:5
+  label: living container in nested soul chain
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The wether contains the duck, and the duck contains the egg in which the
+    giant's soul is located.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:6
+  label: visited animal helper after the giant's death
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: After the giant dies, the group spends a night with the brown otter, a night
+    with the hoary falcon, and a night with the slim dog.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: threshold flagstone
+  literal_form: A great flagstone under the threshold, beneath which the wether is
+    hidden.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: wether as nested container
+  literal_form: A wether under the flagstone with a duck in its belly.
+  associated_figures:
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: duck as nested container
+  literal_form: A duck in the wether's belly with an egg in her belly.
+  associated_figures:
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: egg containing the giant's soul
+  literal_form: An egg in the duck's belly; the giant says his soul is in it, and
+    the queen crushes it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: depth of the ocean
+  literal_form: The depth of the ocean into which the egg goes before the otter retrieves
+    it.
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Disclosure of the external soul
+  summary: The giant tells the woman that his soul is hidden in an egg inside a duck,
+    inside a wether, beneath a flagstone under the threshold.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Flagstone raised and wether retrieved
+  summary: After the giant leaves, the group raises the flagstone; the wether escapes,
+    and the slim dog of the greenwood brings it back.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Duck retrieved by hawk
+  summary: When the wether is opened, the duck flies out among other ducks, and the
+    Hoary Hawk of the grey rock brings it back.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Egg retrieved from the ocean
+  summary: When the duck is split, the egg goes into the ocean; the brown otter of
+    the river retrieves it.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Queen crushes the egg and the giant dies
+  summary: The queen catches and crushes the egg, and the giant falls dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Treasure, visits, and homecoming feast
+  summary: The group takes the giant's gold and silver, spends nights with the three
+    animal helpers, comes home, and prepares a hearty hero's feast.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: external soul hidden outside the body
+  taxonomy_refs: []
+  basis: The giant says that his soul is in an egg outside his body, and his death
+    follows when that egg is crushed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The broader tale context is outside the supplied passage, but the external-soul
+    statement and fatal effect are explicit here.
+- id: motif:2
+  label: nested containment of a life-token
+  taxonomy_refs: []
+  basis: The soul is located in an egg, inside a duck, inside a wether, beneath a
+    threshold flagstone.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No external taxonomy identifier for this specific nested-container pattern
+    is supplied.
+- id: motif:3
+  label: sequential animal-helper retrieval
+  taxonomy_refs: []
+  basis: 'Three animal helpers are invoked in sequence: the dog brings the wether,
+    the hawk or falcon brings the duck, and the otter brings the egg.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain how these helpers were acquired or why they
+    respond.
+- id: motif:4
+  label: death through destruction of a concealed life-token
+  taxonomy_refs: []
+  basis: The queen crushes the egg, and the giant immediately falls down dead.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage identifies the egg as containing the giant's soul, but does
+    not provide further metaphysical explanation.
+- id: motif:5
+  label: return with treasure and hero's feast
+  taxonomy_refs:
+  - return
+  basis: After the giant dies, the group takes gold and silver, comes home, and prepares
+    a hearty hero's feast.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only the aftermath is present in this excerpt; the full return arc is
+    not supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5627-5670; giant's soul-location disclosure
+  quote_or_summary: The giant says his soul is in an egg inside a duck, inside a wether,
+    beneath a great flagstone under the threshold.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 5627-5670; flagstone and wether retrieval
+  quote_or_summary: After the giant leaves, the group raises the flagstone, the wether
+    escapes, and the slim dog of the greenwood comes with the wether in his mouth.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 5627-5670; duck retrieval
+  quote_or_summary: When the wether is opened, the duck flies out among other ducks;
+    the Hoary Hawk of the grey rock comes with the duck in her mouth.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5627-5670; egg retrieval from ocean
+  quote_or_summary: When the duck is split, the egg goes into the depth of the ocean;
+    the brown otter of the river comes with the egg in her mouth.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 5627-5670; crushing of egg and giant's death
+  quote_or_summary: The queen catches the egg and crushes it between her hands; when
+    she crushes it, the giant falls down dead and never moves again.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 5627-5670; aftermath
+  quote_or_summary: The group takes much of the giant's gold and silver, spends nights
+    with the brown otter, hoary falcon, and slim dog, comes home, and prepares a hearty
+    hero's feast.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source metadata; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction uses only the supplied passage. The identities and relationships
+    of the unnamed group are not specified within this excerpt. No comparison claims
+    are made beyond internal motif candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage is an excerpt from a longer tale; figures outside the excerpt are not inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l5627-l5670
+  passage_sha256=733635b698c8be8444308870cf945eba3c301ba2038ff34709264bb24aa8c2c5
+

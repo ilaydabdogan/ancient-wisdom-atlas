@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.greek-pindar-odes-myers-gutenberg-l1995-l2009
+source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+passage_locator:
+  label: FOR AGESIDAMOS OF EPIZEPHYRIAN LOKRIS, / WINNER IN THE BOYS' BOXING-MATCH.
+    / FOR AGESIDAMOS OF EPIZEPHYRIAN LOKRIS, / WINNER IN THE BOYS' BOXING-MATCH.;
+    lines 1995-2009
+  start: '1995'
+  end: '2009'
+  translation: The Extant Odes of Pindar
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage contains footnotes: one directs readers to the story of the
+    Moliones in Nestor''s speech in the Iliad; another discusses possible interpretations
+    of snow on a hilltop in Peloponnesos under Oinomaos; another states that the Lokrians
+    worshipped Zeus especially as the Thunderer and cites thunderbolt-stamped coins
+    as testimony.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A footnote directs readers to the story of the Moliones in Nestor's speech
+    in Homer, Iliad XI.670-761.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'A footnote offers two possible interpretations of a mention of snow: an ancient
+    colder climate in Peloponnesos or a picturesque reference to the hill''s winter
+    appearance.'
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same footnote gives an alternative rendering in which, when Oinomaos was
+    king, the hill's snow-sprinkled top was without a name.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lokrians are said to have worshipped Zeus especially as the Thunderer.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Coins of the Lokrians stamped with a thunderbolt are cited as testimony for
+    this worship.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Moliones
+  description: Figures whose story is cross-referenced to Nestor's speech in the Iliad.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Nestor
+  description: Speaker in the cited Homeric passage where the story of the Moliones
+    is located.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Oinomaos
+  description: King named in the alternative rendering concerning the snow-sprinkled
+    unnamed top of a hill.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Lokrians
+  description: People said to worship Zeus especially as the Thunderer and associated
+    with thunderbolt-stamped coins.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Zeus
+  description: Deity worshipped by the Lokrians especially as the Thunderer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: story subject
+  assigned_to:
+  - fig:1
+  basis: The footnote refers to the story of the Moliones.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cited epic speaker
+  assigned_to:
+  - fig:2
+  basis: The Moliones story is located in Nestor's speech in the Iliad.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: king
+  assigned_to:
+  - fig:3
+  basis: The alternative rendering states 'when Oinomaos was king.'
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: worshipping people
+  assigned_to:
+  - fig:4
+  basis: The footnote says the Lokrians worshipped Zeus especially as the Thunderer.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: thunder-associated deity
+  assigned_to:
+  - fig:5
+  basis: Zeus is identified as the deity worshipped especially as the Thunderer.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: snow-sprinkled hilltop
+  literal_form: snow-sprinkled top of a hill
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: thunderbolt-stamped coins
+  literal_form: coins stamped with a thunderbolt
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cross-reference to Moliones story
+  summary: The note directs the reader to the story of the Moliones in Nestor's speech
+    in the Iliad.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Interpretation of snowy hilltop
+  summary: The note discusses whether snow on a Peloponnesian hill indicates an ancient
+    colder climate or merely a winter image, and it supplies an alternative rendering
+    involving Oinomaos's kingship.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Lokrian worship of Zeus as Thunderer
+  summary: The note states that the Lokrians especially worshipped Zeus as the Thunderer
+    and cites thunderbolt-stamped coins as evidence.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Thunder deity marked by thunderbolt emblem
+  taxonomy_refs: []
+  basis: Zeus is said to be worshipped as the Thunderer, and thunderbolt-stamped coins
+    are cited as supporting testimony.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a footnote about cult evidence, not a developed mythic
+    narrative.
+- id: motif:2
+  label: Snowy or wintry hilltop as landscape marker
+  taxonomy_refs: []
+  basis: The note discusses snow on a hilltop, either as possible evidence of an ancient
+    colder climate or as a picturesque winter description.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The note is interpretive and does not present a full narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly points to the story of the Moliones in Nestor's speech
+    in Homer, Iliad XI.670-761, treating that epic passage as the relevant parallel
+    or source for the story.
+  claim_level: same_motif
+  target: Homer, Iliad XI.670-761, Nestor's speech
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The current passage provides only a cross-reference and no details
+    of the Moliones story itself.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1995-1996
+  quote_or_summary: "“For the story of these Moliones see Nestor's speech, Hom. Il.
+    xi. 670-761.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1998-2005
+  quote_or_summary: 'A footnote suggests either a tradition of a colder ancient Peloponnesos
+    or a picturesque winter image of a hill, with an alternative rendering: under
+    Oinomaos, its snow-sprinkled top was unnamed.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2007-2009
+  quote_or_summary: "“The Lokrians worshipped Zeus especially as the Thunderer,” and
+    coins “stamped with a thunderbolt” are cited as testimony."
+  source_text_path: texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on explicit footnote content. Motif identification is
+    cautious because the passage provides scholarly notes rather than a continuous
+    mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional figures, taxonomy references, or narrative details were inferred beyond the supplied passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-pindar-odes-myers-gutenberg__l1995-l2009
+  passage_sha256=338123c77c431e5ef98ddd75a00ac24b622fdde8182a3362b8e6147d574c92ca
+

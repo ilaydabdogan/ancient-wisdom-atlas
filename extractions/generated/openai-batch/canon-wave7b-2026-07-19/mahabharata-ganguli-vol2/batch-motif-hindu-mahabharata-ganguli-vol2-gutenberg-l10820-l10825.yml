@@ -1,0 +1,163 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l10820-l10825
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XLV / SECTION XLVI / SECTION XLVII / SECTION XLVIII; lines 10820-10825
+  start: '10820'
+  end: '10825'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Dhritarashtra said, 'I ask thee, O Sanjaya... what words were said by the
+    illustrious Dhananjaya...'
+  summary: Dhritarashtra asks Sanjaya, before his son and assembled kings, to report
+    what Dhananjaya said.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dhritarashtra addresses Sanjaya with a question.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dhritarashtra states that the question is asked in the presence of his boy
+    and the kings.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The requested information concerns words spoken by Dhananjaya.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Dhananjaya is described as illustrious, mighty, a leader of warriors, and
+    destroyer of the lives of the wicked.
+  category: attribute
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Dhritarashtra
+  description: Speaker who asks Sanjaya what Dhananjaya said.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sanjaya
+  description: Addressee of Dhritarashtra's question.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Dhananjaya
+  description: Person whose words Dhritarashtra asks Sanjaya to report; described
+    as illustrious and mighty.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Dhritarashtra's boy
+  description: Present when Dhritarashtra asks the question.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: These kings
+  description: Kings present when Dhritarashtra asks the question.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: Dhritarashtra says, 'I ask thee, O Sanjaya.'
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressee asked to report speech
+  assigned_to:
+  - fig:2
+  basis: Dhritarashtra asks Sanjaya what words were said by Dhananjaya.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: reported speaker and praised warrior
+  assigned_to:
+  - fig:3
+  basis: Dhananjaya is the one whose words are requested and is described with martial
+    epithets.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: audience present at inquiry
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Dhritarashtra says he asks in the presence of his boy and the kings.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Dhritarashtra questions Sanjaya
+  summary: Dhritarashtra asks Sanjaya, in the presence of his son and kings, to report
+    the words spoken by Dhananjaya.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: request for reported speech before an audience
+  taxonomy_refs: []
+  basis: The passage centers on Dhritarashtra asking Sanjaya to recount Dhananjaya's
+    words in the presence of others.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a narrative speech pattern rather than a clearly mythological
+    motif; no supplied taxonomy reference is directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: SECTION XLVIII; lines 10820-10825
+  quote_or_summary: '"Dhritarashtra said, ''I ask thee, O Sanjaya, in the presence
+    of my boy and of these kings, what words were said by the illustrious Dhananjaya...''"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from a short passage. Motif identification
+    is limited because the passage contains mainly a formal question about reported
+    speech.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No listed symbol taxonomy items are present in this passage; no comparison claims are made.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l10820-l10825
+  passage_sha256=d932cbd68290a146f45aa9a473794a553cfb422aa7dd52303e60d155408b319f
+

@@ -1,0 +1,158 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l32801-l32805
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION LXXXIV / SECTION LXXXV / SECTION LXXXVI / SECTION LXXXVII; lines
+    32801-32805
+  start: '32801'
+  end: '32805'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"How, O king, may a kingdom be consolidated, and how should it be protected?"'
+  summary: Yudhishthira asks an addressed king how a kingdom may be consolidated and
+    protected, saying that he desires to know and asking to be told.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira is the speaker in the passage.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira asks how a kingdom may be consolidated.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yudhishthira asks how a kingdom should be protected.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The addressee is called "O king" and "O bull of Bharata's race."
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: Yudhishthira states that he desires to know and asks the addressee to tell
+    him.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who asks about consolidating and protecting a kingdom.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Addressed king / bull of Bharata's race
+  description: Unnamed addressee addressed as king and as a bull of Bharata's race.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: questioner seeking instruction
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks how a kingdom may be consolidated and protected and says
+    he desires to know.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: royal addressee asked to teach
+  assigned_to:
+  - fig:2
+  basis: The addressee is called king and is asked to tell Yudhishthira the answer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: kingdom
+  literal_form: a kingdom to be consolidated and protected
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Question on consolidating and protecting a kingdom
+  summary: Yudhishthira addresses a king and asks how a kingdom may be consolidated
+    and protected, requesting instruction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: seeking wisdom or instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker explicitly says he desires to know and asks the addressed king
+    to tell him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is only the opening question and does not include the response.
+- id: motif:2
+  label: royal governance and protection of a realm
+  taxonomy_refs: []
+  basis: The question concerns how a kingdom may be consolidated and protected.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No explicit taxonomy reference for royal governance is supplied; this
+    is a plain passage-level motif label.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 32801-32805
+  quote_or_summary: 'Yudhishthira asks: "How, O king, may a kingdom be consolidated,
+    and how should it be protected?"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 32801-32805
+  quote_or_summary: Yudhishthira says, "I desire to know this. Tell me all this, O
+    bull of Bharata's race!"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and contains a clear question, but motif identification
+    is limited because no answer or narrative development is included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; the addressee is not identified beyond the titles present in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l32801-l32805
+  passage_sha256=34e23bf6dd30946ffa09a44293e799b4906de5f658748f227e0bb2679ec2fa20
+

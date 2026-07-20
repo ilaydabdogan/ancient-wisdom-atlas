@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l40322-l40377
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: 'THE WORKS OF MKNCIUS / J- 5: THE WORKS OF MENCIUS / THE WORKS OF MEKCIUS
+    811 / THE WOUKS OF MENCIUS; lines 40322-40377'
+  start: '40322'
+  end: '40377'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Confucius first rectified his vessels of sacrifice according to the registers"'
+  summary: The passage contains an editorial note and a dialogue in which Mencius
+    explains Confucius's conduct. Mencius says Confucius rectified sacrificial vessels
+    according to registers and did not fill them with indiscriminately gathered food.
+    He further says Confucius remained to test whether his doctrines could be practiced,
+    left when they were not practiced, and accepted office only under proper and promising
+    conditions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contrasts an offense by people struggling for game with an offense
+    by princes robbing their people, describing them as different classes of wrongdoing.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An editorial comment says Mencius's defense shows him as practical and acting
+    by expediency.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mencius says Confucius rectified sacrificial vessels according to registers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mencius says Confucius did not put food gathered from every quarter into the
+    rectified sacrificial vessels.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Mencius says Confucius wished to make a trial of carrying his doctrines into
+    practice.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Mencius says Confucius left when it had been shown that the doctrines could
+    be practiced but they still were not practiced.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that Confucius never completed a residence of three years
+    in any state.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that Confucius took office when the practice of his doctrines
+    was likely, when his reception was proper, and when he was supported by the state.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A note glosses food gathered from every quarter as food gathered without discrimination
+    and says the connection with sacrifices and with struggling for game is obscure.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mencius
+  description: Speaker who answers questions about Confucius and offers an explanation
+    of Confucius's conduct.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Confucius
+  description: The sage whose ritual actions, departure from states, and acceptance
+    of office are described by Mencius.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Unnamed interlocutor
+  description: A questioner who asks why Confucius did not go away.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Princes
+  description: Rulers mentioned in the editorial comparison as robbing their people.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: People
+  description: People mentioned as struggling for game and as those robbed by princes.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: explanatory respondent
+  assigned_to:
+  - fig:1
+  basis: Mencius answers questions about Confucius and explains why Confucius stayed
+    or departed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: ritual rectifier
+  assigned_to:
+  - fig:2
+  basis: Confucius is said to have rectified sacrificial vessels according to registers.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: conditional officeholder and teacher
+  assigned_to:
+  - fig:2
+  basis: Confucius is described as testing his doctrines in practice, departing when
+    they were not practiced, and taking office only under suitable conditions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: questioner
+  assigned_to:
+  - fig:3
+  basis: The passage preserves questions addressed to Mencius, including why Confucius
+    did not go away.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: rulers accused of robbing people
+  assigned_to:
+  - fig:4
+  basis: The editorial comment mentions princes robbing their people.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: subjects involved in conflict and exploitation
+  assigned_to:
+  - fig:5
+  basis: The people are described as struggling for game and as being robbed by princes.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: sacrificial vessels
+  literal_form: Vessels of sacrifice rectified according to registers.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: registers
+  literal_form: Registers used as the standard for rectifying sacrificial vessels.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: food gathered from every quarter
+  literal_form: Food gathered without discrimination and not placed in the rectified
+    sacrificial vessels.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: game
+  literal_form: Game over which people are described as struggling.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Mencius explains Confucius's sacrificial reform
+  summary: An interlocutor asks about Confucius, and Mencius replies that Confucius
+    rectified sacrificial vessels by the registers and avoided filling them with indiscriminately
+    gathered food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Confucius tests doctrine and departs
+  summary: Mencius says Confucius stayed in order to test whether his doctrines could
+    be practiced, and left when practice remained absent despite the test.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Conditions for taking office
+  summary: The passage states that Confucius took office only when his doctrines seemed
+    likely to be practiced, his reception was proper, and the state supported him.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Editorial contrast of offenses
+  summary: The editorial note contrasts people struggling for game with princes robbing
+    their people and treats the two acts as different classes of offense.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: ritual rectification before reform
+  taxonomy_refs:
+  - sacrifice
+  - wisdom
+  basis: Confucius is described as correcting sacrificial vessels according to authoritative
+    registers and avoiding indiscriminate offerings.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The note itself says the wider bearing of the sacrificial practice is
+    obscure; the motif is ethical-ritual rather than mythic narrative.
+- id: motif:2
+  label: testing doctrine followed by departure
+  taxonomy_refs:
+  - wisdom
+  - departure
+  basis: Mencius says Confucius remained to test whether his doctrines could be put
+    into practice and departed when they were still not practiced.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The departure is political and pedagogical, not an otherworldly or heroic
+    departure.
+- id: motif:3
+  label: sage accepts office under proper conditions
+  taxonomy_refs:
+  - wisdom
+  basis: Confucius is said to take office when practice of his doctrines was likely,
+    reception was proper, and state support was present.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a political-ethical pattern; no mythological comparison is directly
+    supported by the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 40322-40333
+  quote_or_summary: 'Editorial note: the offense of people struggling for game and
+    the offense of princes robbing their people are treated as different classes;
+    Mencius''s defense is characterized as practical and expedient.'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 40339-40345
+  quote_or_summary: Mencius says that Confucius "first rectified his vessels of sacrifice
+    according to the registers" and did not fill them with "food gathered from every
+    quarter."
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 40345-40353
+  quote_or_summary: When asked why Confucius did not leave, Mencius says he wished
+    to trial his doctrines in practice; when practice proved possible but was still
+    not done, he went away and never completed three years in any state.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 40354-40358
+  quote_or_summary: The passage states that Confucius took office when his doctrines
+    seemed likely to be practiced, when his reception was proper, and when he was
+    supported by the state.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 40363-40372
+  quote_or_summary: A note glosses food gathered from every quarter as gathered without
+    discrimination and says the connection with sacrificial offerings and the struggle
+    for game is obscure.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 40372-40377
+  quote_or_summary: A note mentions a term meaning prognostic or omen, used figuratively,
+    and refers to Confucius's connection with duke Heaou in a fragmentary context.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by OCR noise, fragmentary line context, and editorial
+    notes that explicitly call part of the passage obscure. No comparison claims were
+    generated because the passage does not itself support a cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Candidate motifs are framed as ethical-ritual and pedagogical patterns rather than claims of mythological equivalence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l40322-l40377
+  passage_sha256=e2e69187ca654b3a5ab37f1c39b38eebad190b21a7d82b9e40746538672d38ac
+

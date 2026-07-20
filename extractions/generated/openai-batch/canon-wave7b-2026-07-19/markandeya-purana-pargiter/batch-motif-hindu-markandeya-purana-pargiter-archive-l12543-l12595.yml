@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l12543-l12595
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: THE COMPUTATION OP BRAHMANS LIFE. / CANTO XLvrr. / Canto XLYII. / CANTO XtVIl.;
+    lines 12543-12595
+  start: '12543'
+  end: '12595'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes successive creations: a primary vegetation creation,
+    an animal creation marked by a horizontal stream of life, and a divine creation
+    marked by an upward stream of life. Brahma is pleased when the creation of the
+    gods comes into being.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A creation is described as having its soul concealed, consisting of vegetation,
+    and being called the Mukhya or primary creation.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The creating figure judges the vegetation creation incapable of causation
+    and meditates on another creation.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An animal world comes into existence, described as having a horizontal stream
+    of life and as known by the term tiryaksrotas.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: obs:4
+  text: Cattle and other quadrupeds are identified with the horizontal-stream class
+    and are described as chiefly ignorant, unintelligent, and straying in wrong courses.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The animal class is said to comprise twenty-eight classes, to possess light
+    internally, and to be mutually circumscribed.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: obs:6
+  text: The creating figure judges the animal creation incapable of causation and,
+    while meditating, another creation comes into existence.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The third group of beings is described as having an upward stream of life
+    and as characterized chiefly by goodness.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: obs:8
+  text: The upward-stream beings are described as abounding in pleasure and affection,
+    as uncircumscribed outwardly and inwardly, and as possessing light externally
+    and internally.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: The third creation is identified as the creation of the gods, and Brahma is
+    pleased when it comes into being.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Brahma / creating figure
+  description: Brahma is named as pleased when the creation of the gods comes into
+    being; the passage also describes a creating figure who meditates and produces
+    further creations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Mukhya vegetation creation
+  description: A primary creation consisting of vegetation, with its soul described
+    as concealed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Animal world / tiryaksrotas beings
+  description: The animal creation with a horizontal stream of life, including cattle
+    and other quadrupeds, described as chiefly ignorant and comprising twenty-eight
+    classes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Gods / upward-stream beings
+  description: The third creation, arising from an upward stream of life, characterized
+    by goodness, pleasure, affection, and external and internal light.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: meditating creator
+  assigned_to:
+  - fig:1
+  basis: The passage says the creating figure considers earlier creations incapable
+    of causation, meditates, and further creations come into existence; Brahma is
+    then pleased at the divine creation.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: primary created class
+  assigned_to:
+  - fig:2
+  basis: The vegetation creation is explicitly called primary or Mukhya.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: horizontal-stream created class
+  assigned_to:
+  - fig:3
+  basis: The animal world is said to have a horizontal stream of life and is called
+    tiryaksrotas.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: upward-stream divine created class
+  assigned_to:
+  - fig:4
+  basis: The third creation arises from an upward stream of life and is known as the
+    creation of the gods.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: vegetation as primary creation
+  literal_form: vegetation
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: horizontal stream of life
+  literal_form: stream of life or current of nutriment moving horizontally
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: upward stream of life
+  literal_form: stream of life moving upward
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: light as clear knowledge
+  literal_form: light, glossed in the footnote as clear knowledge
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Primary vegetation creation
+  summary: The passage identifies a creation consisting of vegetation as the Mukhya
+    or primary creation.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Creation of the animal world
+  summary: After judging the vegetation creation incapable of causation, the creating
+    figure meditates, and the animal world with a horizontal stream of life comes
+    into existence.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: scene:3
+  label: Creation of the gods
+  summary: After judging the animal creation incapable of causation, the creating
+    figure meditates again, and upward-stream beings arise; this is identified as
+    the creation of the gods, at which Brahma is pleased.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Creation by divine meditation after an insufficient prior creation
+  taxonomy_refs: []
+  basis: Further creations come into being while the creating figure meditates after
+    judging previous creations incapable of causation.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage gives only this local sequence and does not itself compare
+    it with other creation myths.
+- id: motif:2
+  label: Hierarchical created classes distinguished by direction of life-stream
+  taxonomy_refs: []
+  basis: Vegetation, animals, and gods are differentiated in sequence; animals are
+    marked by a horizontal stream of life, while gods are marked by an upward stream
+    of life.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The directional terms are technical within the passage; broader symbolic
+    interpretation requires external context not supplied here.
+- id: motif:3
+  label: Degrees of light or knowledge among beings
+  taxonomy_refs:
+  - wisdom
+  basis: Animals are described as internally possessing light but being mutually circumscribed,
+    while the gods possess light both externally and internally; the footnote glosses
+    light as clear knowledge.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The mapping to the available wisdom motif family is broad; the passage
+    does not narrate a quest for or transmission of wisdom.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12543-12547
+  quote_or_summary: A creation is described as soul-concealed, consisting of vegetation,
+    and therefore called the Mukhya or primary creation.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:2
+  type: summary
+  locator: 12548-12553
+  quote_or_summary: The creating figure considers the prior creation incapable of
+    causation, meditates on another creation, and the animal world with a horizontal
+    stream of life comes into existence.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:3
+  type: summary
+  locator: 12553-12563
+  quote_or_summary: Cattle and other quadrupeds are named as belonging to the horizontal-stream
+    class; the class is described as ignorant, unintelligent, self-swayed, comprising
+    twenty-eight classes, internally possessing light, and mutually circumscribed.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:4
+  type: summary
+  locator: 12564-12570
+  quote_or_summary: The creating figure judges the animal creation incapable of causation;
+    while he meditates, a third group of beings with an upward stream of life arises,
+    characterized chiefly by goodness.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:5
+  type: summary
+  locator: 12570-12579
+  quote_or_summary: The upward-stream beings are described as abounding in pleasure
+    and affection, as uncircumscribed outwardly and inwardly, and as possessing external
+    and internal light; the third creation is called the creation of the gods, and
+    Brahma is pleased.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:6
+  type: note
+  locator: footnotes within 12543-12595
+  quote_or_summary: The notes gloss prakāśa as clear knowledge, srotas as stream or
+    current of nutriment, tiryak as horizontal, and ūrdhva-srotas as upward stream.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summary only.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied English passage, which includes
+    OCR irregularities and footnotes. No comparison claims were added because the
+    passage itself does not make an explicit cross-textual or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Kept taxonomy mappings limited. The only motif-family mapping used is the broad 'wisdom' reference for light/clear knowledge.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l12543-l12595
+  passage_sha256=c7759830eebfade518288829454b40a1688886f896b0e77e60b777a69b7633cb
+

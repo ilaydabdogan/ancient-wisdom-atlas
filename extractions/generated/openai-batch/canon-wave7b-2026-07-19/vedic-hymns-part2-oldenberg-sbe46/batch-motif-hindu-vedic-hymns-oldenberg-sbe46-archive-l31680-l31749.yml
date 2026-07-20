@@ -1,0 +1,175 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l31680-l31749
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: SACRED BOOKS OF THE EAST / TRANSLATED BY / VARIOUS ORIENTAL SCHOLARS / AND
+    EDITED BY; lines 31680-31749
+  start: '31680'
+  end: '31749'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: It contains the earliest account of the Deluge in India.
+  summary: The passage is a catalogue-style listing of Sacred Books of the East volumes.
+    It describes Buddhist moral and doctrinal texts, Buddhist Suttas, the Satapatha-Brahmana
+    as a source for Vedic sacrificial ceremonies and a Deluge account in India, Vinaya
+    texts as a Buddhist moral code, and other volumes including Upanishads, sacred
+    laws, Confucian texts, and further Vinaya texts.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Dhammapada is described as containing the quintessence of Buddhist morality.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sutta-Nipata is described as giving the authentic teaching of Buddha on
+    fundamental principles of religion.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A volume titled Buddhist Suttas is described as a collection of important
+    religious, moral, and philosophical discourses from the Buddhist sacred canon.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Satapatha-Brahmana is described as giving a minute account of sacrificial
+    ceremonies of the Vedic age.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Satapatha-Brahmana entry states that it contains the earliest account
+    of the Deluge in India.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Vinaya Texts are described as giving a translation of the moral code of
+    the Buddhist religion as settled in the third century B.C.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Buddha
+  description: Named as the source of authentic teaching in the description of the
+    Sutta-Nipata.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: religious teacher
+  assigned_to:
+  - fig:1
+  basis: The passage says the Sutta-Nipata gives the authentic teaching of Buddha
+    on fundamental principles of religion.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Vedic sacrificial ceremonies
+  taxonomy_refs:
+  - sacrifice
+  basis: The Satapatha-Brahmana entry is described as a minute account of sacrificial
+    ceremonies of the Vedic age.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is a catalogue notice and does not narrate a specific sacrifice.
+- id: motif:2
+  label: Deluge account in India
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The Satapatha-Brahmana entry explicitly states that it contains the earliest
+    account of the Deluge in India.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the existence of a Deluge account is stated; no flood narrative,
+    survivor figures, or renewal details are provided in this passage.
+- id: motif:3
+  label: Religious wisdom teaching
+  taxonomy_refs:
+  - wisdom
+  basis: The passage describes Buddhist texts as containing morality, authentic teaching
+    of Buddha, and religious, moral, and philosophical discourses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a broad doctrinal pattern in a catalogue description, not a specific
+    narrative wisdom motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 31680-31682
+  quote_or_summary: The Dhammapada is described as Buddhist morality, and the Sutta-Nipata
+    as authentic teaching of Buddha on fundamental principles of religion.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 31685-31696
+  quote_or_summary: The catalogue lists Vol. XI, Buddhist Suttas, and describes it
+    as important religious, moral, and philosophical discourses from the Buddhist
+    sacred canon.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 31698-31707
+  quote_or_summary: The Satapatha-Brahmana entry says it gives a minute account of
+    Vedic sacrificial ceremonies and that it “contains the earliest account of the
+    Deluge in India.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 31709-31719
+  quote_or_summary: The Vinaya Texts entry says they translate the moral code of the
+    Buddhist religion as settled in the third century B.C.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 31721-31739
+  quote_or_summary: The passage lists volumes on the Sacred Laws of the Aryas and
+    the Upanishads, including named schools and Upanishadic texts.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: 31741-31749
+  quote_or_summary: The passage lists a volume of Confucian texts and another volume
+    of Vinaya Texts.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is not a mythic narrative but a catalogue of volumes. Motif candidates
+    are limited to explicit descriptions such as sacrificial ceremonies and a Deluge
+    account.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols or narrative scenes were extracted because the passage provides catalogue descriptions only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l31680-l31749
+  passage_sha256=2bfa999fb21add5b6054ede73d43fef0b71b534aa5242b9e405840450728b9aa
+

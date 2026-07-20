@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.egyptian-budge-egyptian-ideas-future-life-gutenberg-l235-l262
+source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+passage_locator:
+  label: LIST OF ILLUSTRATIONS. / CHAPTER / I. THE CREATION / II. ISIS SUCKLING HORUS
+    IN THE PAPYRUS SWAMP; lines 235-262
+  start: '235'
+  end: '262'
+  translation: Egyptian Ideas of the Future Life
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A table of contents lists chapters on belief in God Almighty, Osiris as
+    god of resurrection, Egyptian gods, judgment of the dead, and resurrection and
+    immortality. A list of illustrations names scenes of creation, Isis suckling Horus
+    in a papyrus swamp, souls of Osiris and Ra meeting in Tattu with Ra in cat form
+    cutting off the head of the serpent of darkness, and judgment of the dead in the
+    Hall of Maati.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The contents list chapters on belief in God Almighty, Osiris as god of resurrection,
+    Egyptian gods, judgment of the dead, and resurrection and immortality.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The illustration list includes an item titled The Creation.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An illustration title describes Isis suckling Horus in a papyrus swamp.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An illustration title describes the soul of Osiris and the soul of Ra meeting
+    in Tattu.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The same illustration title describes Ra, in the form of a cat, cutting off
+    the head of the serpent of darkness.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: An illustration title names the judgment of the dead in the Hall of Maati.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God Almighty
+  description: Named in a chapter title concerning belief in God Almighty.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Osiris
+  description: Named as the god of the resurrection and as a figure whose soul meets
+    the soul of Ra.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Isis
+  description: Named as suckling Horus in the papyrus swamp.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Horus
+  description: Named as being suckled by Isis in the papyrus swamp.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ra
+  description: Named as a figure whose soul meets the soul of Osiris and as appearing
+    in the form of a cat while cutting off the head of the serpent of darkness.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Serpent of Darkness
+  description: Named as a serpent whose head is cut off by Ra in cat form.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: The dead
+  description: Named collectively as those associated with judgment.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: deity named in chapter title
+  assigned_to:
+  - fig:1
+  basis: The chapter title refers to belief in God Almighty.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: god of the resurrection
+  assigned_to:
+  - fig:2
+  basis: A chapter title calls Osiris the god of the resurrection.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: suckling figure
+  assigned_to:
+  - fig:3
+  basis: The illustration title says Isis is suckling Horus.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: suckled child figure
+  assigned_to:
+  - fig:4
+  basis: The illustration title says Horus is suckled by Isis.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: soul meeting participant
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The illustration title says the soul of Osiris and the soul of Ra meet in
+    Tattu.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: cat-form serpent-slayer
+  assigned_to:
+  - fig:5
+  basis: The illustration title says Ra is in the form of a cat and cuts off the head
+    of the serpent of darkness.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: darkness-associated beheaded serpent
+  assigned_to:
+  - fig:6
+  basis: The illustration title names the serpent of darkness and says its head is
+    cut off.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: judged collective
+  assigned_to:
+  - fig:7
+  basis: The contents and illustration list refer to the judgment of the dead.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: suckling or nursing
+  literal_form: Isis suckling Horus
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: papyrus swamp
+  literal_form: papyrus swamp
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Tattu
+  literal_form: Tattu
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cat form
+  literal_form: Ra in the form of a cat
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: serpent of darkness
+  literal_form: serpent of darkness
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: darkness
+  literal_form: darkness, as part of the phrase serpent of darkness
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Hall of Maati
+  literal_form: Hall of Maati
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: creation
+  literal_form: The Creation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Chapter sequence of theological and funerary topics
+  summary: The contents present chapters on God Almighty, Osiris and resurrection,
+    Egyptian gods, judgment of the dead, and resurrection and immortality.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Creation illustration title
+  summary: The illustration list names The Creation as an illustration.
+  figure_refs: []
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Isis suckling Horus in the papyrus swamp
+  summary: The illustration list names a scene in which Isis suckles Horus in a papyrus
+    swamp.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Souls meeting and serpent beheading
+  summary: The illustration list names a scene in which the souls of Osiris and Ra
+    meet in Tattu, and Ra in cat form cuts off the head of the serpent of darkness.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Judgment of the dead in the Hall of Maati
+  summary: The illustration list names judgment of the dead in the Hall of Maati.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Creation
+  taxonomy_refs: []
+  basis: An illustration title is The Creation.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage supplies only the title, not a narrative of creation.
+- id: motif:2
+  label: Divine or sacred mother nursing child
+  taxonomy_refs:
+  - mother_goddess
+  - divine_parent_child
+  basis: An illustration title describes Isis suckling Horus in a papyrus swamp.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The title gives a nursing relationship but does not narrate birth, genealogy,
+    or later significance.
+- id: motif:3
+  label: Resurrection and immortality
+  taxonomy_refs:
+  - resurrection
+  basis: The contents name Osiris as god of the resurrection and include a chapter
+    on resurrection and immortality.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a table of contents and does not present the doctrinal
+    details.
+- id: motif:4
+  label: Judgment of the dead
+  taxonomy_refs:
+  - divine_judgment
+  basis: The contents and illustration list both name judgment of the dead, including
+    judgment in the Hall of Maati.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage names judgment but does not describe the judge, criteria,
+    or outcome.
+- id: motif:5
+  label: Meeting of divine souls
+  taxonomy_refs: []
+  basis: An illustration title says the soul of Osiris and the soul of Ra meet in
+    Tattu.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage says meeting, not union, conflict, or transformation.
+- id: motif:6
+  label: Serpent of darkness defeated by a cat-form figure
+  taxonomy_refs:
+  - serpent
+  - shapeshifter
+  basis: An illustration title describes Ra in the form of a cat cutting off the head
+    of the serpent of darkness.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The title supports cat form and serpent defeat, but it does not explicitly
+    narrate shapeshifting or identify darkness as chaos.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 239-247
+  quote_or_summary: Contents list chapters on belief in God Almighty, Osiris the god
+    of the resurrection, the gods of the Egyptians, the judgment of the dead, and
+    resurrection and immortality.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: line 253
+  quote_or_summary: I. THE CREATION
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: line 255
+  quote_or_summary: II. ISIS SUCKLING HORUS IN THE PAPYRUS SWAMP
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 257-259
+  quote_or_summary: 'Illustration title: the soul of Osiris and the soul of Ra meet
+    in Tattu; Ra, in cat form, cuts off the head of the serpent of darkness.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: line 261
+  quote_or_summary: IV. THE JUDGMENT OF THE DEAD IN THE HALL OF MA[=A]TI
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The source passage consists of contents and illustration titles, so named
+    figures and motifs are clear but narrative functions are mostly undeveloped. No
+    external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Candidate motifs are based on chapter and illustration titles rather than full narrative passages.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:egyptian-budge-egyptian-ideas-future-life-gutenberg__l235-l262
+  passage_sha256=94f435849845cbc01b0ade8cf7b5f344df7238a43393fbe31103f0558f78f795
+

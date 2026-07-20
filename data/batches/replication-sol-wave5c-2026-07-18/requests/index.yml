@@ -1,0 +1,62 @@
+---
+batch_request_index_version: '1'
+run_id: replication-sol-wave5c-2026-07-18
+created_at: '2026-07-19T01:18:39Z'
+updated_at: '2026-07-19T01:18:39Z'
+endpoint: "/v1/responses"
+model: gpt-5.6-sol
+prompt_path: templates/batch-motif-extraction-prompt.md
+passages_path: data/batches/canon-wave5c-2026-07-18/passages.jsonl
+request_map_path: data/batches/replication-sol-wave5c-2026-07-18/request-map.jsonl
+skip_ingested_from_run_id: replication-sol-wave5c-2026-07-18
+skipped_ingested_count: 0
+shards:
+- shard_id: shard-0001
+  path: data/batches/replication-sol-wave5c-2026-07-18/requests/shard-0001.jsonl
+  request_count: 1000
+  bytes: 16807827
+  sha256: a4f54e0b8b5515294844412c4e962d359a3544ac4ea486c1b676c0dd60e47cad
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: prepared
+- shard_id: shard-0002
+  path: data/batches/replication-sol-wave5c-2026-07-18/requests/shard-0002.jsonl
+  request_count: 1000
+  bytes: 15943445
+  sha256: 884b53f371ca3856963b54e945a6a5dd8f70f22f80912b362e1e230d94c64cb1
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: prepared
+- shard_id: shard-0003
+  path: data/batches/replication-sol-wave5c-2026-07-18/requests/shard-0003.jsonl
+  request_count: 1000
+  bytes: 16242736
+  sha256: 207b8ad3d4c2eb395e0d7c86ad7bf62f76089d637a5a0e959d5fcc2051a260b6
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: prepared
+- shard_id: shard-0004
+  path: data/batches/replication-sol-wave5c-2026-07-18/requests/shard-0004.jsonl
+  request_count: 1000
+  bytes: 17026110
+  sha256: 4c58e22e3890d6c014fd41f99741a8833f3758d10f5463fa4248b95d9fdae261
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: prepared
+- shard_id: shard-0005
+  path: data/batches/replication-sol-wave5c-2026-07-18/requests/shard-0005.jsonl
+  request_count: 1000
+  bytes: 16055567
+  sha256: a25d2c8921bae269d6227e94270bd0c3d69b24bce06ffb25d5dcee7aa021b939
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: prepared
+- shard_id: shard-0006
+  path: data/batches/replication-sol-wave5c-2026-07-18/requests/shard-0006.jsonl
+  request_count: 636
+  bytes: 10350797
+  sha256: 65095c7d52b26555bf45348dbe875bb852bc32866513d766d11ff6e597a729ab
+  endpoint: "/v1/responses"
+  model: gpt-5.6-sol
+  status: prepared
+

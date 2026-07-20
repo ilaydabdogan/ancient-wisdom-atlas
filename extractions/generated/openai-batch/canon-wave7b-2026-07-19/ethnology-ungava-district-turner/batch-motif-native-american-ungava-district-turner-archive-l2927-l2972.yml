@@ -1,0 +1,434 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l2927-l2972
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: RELIGION, / TURNER, / TURNE! / OUTDOOR LIFE,; lines 2927-2972
+  start: '2927'
+  end: '2972'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Ungava Eskimo outdoor knowledge: learning country
+    through childhood hunting travel with parents, relying on memory, naming terrain
+    features, finding cached game despite snow, serving as guides, navigating by the
+    north star, predicting weather, recognizing solstices by the sun''s bearing against
+    fixed landmarks, and dividing the year into many named seasonal periods marked
+    by environmental and subsistence events.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Children acquire knowledge of the country by accompanying parents on hunting
+    trips.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Travelers rely on memory and careful observation of surroundings from different
+    views.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A native relocated a ramrod placed among grass after several hours without
+    hesitation.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Terrain features such as rises of land, stream curves, and seashore coves
+    have descriptive names known to visitors of those places.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A hunter can go directly to a cached deer carcass on an open beach months
+    later, even after snow changes the land's appearance.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Eskimo guides lead parties by preferred routes when trusted.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Night travelers use the north star as a guide.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Experience is said to teach them to predict weather with some reliability.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The year is said to begin at the winter solstice, and summer at the summer
+    solstice.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: Solstices are recognized by the sun's bearing in relation to fixed landmarks.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: The seasons have distinctive names and are subdivided into many named periods,
+    especially in warmer weather.
+  category: sequence
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: Seasonal periods are marked by events including the return of the sun, lengthening
+    day, snowmelt, ice breakup, open water, animal births, bird arrivals and nesting,
+    whale arrival, fishing, berry ripening, reindeer crossing, trapping, and hunting.
+  category: sequence
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: Eskimo
+  description: The people described as acquiring outdoor knowledge, navigating, guiding,
+    predicting weather, and naming seasonal periods.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+  - ev:11
+- id: fig:2
+  name_or_label: parents
+  description: Parents who are accompanied by children on hunting trips.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: native who placed a ramrod
+  description: A native remembered and found the spot where he had stuck a ramrod
+    in the ground among grass.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: hunter
+  description: A hunter who can return to the place where a single deer carcass had
+    been cached months earlier.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: memory-reliant observer
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  basis: The passage emphasizes reliance on memory, close observation, and relocation
+    of places or objects after time has passed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: guide
+  assigned_to:
+  - fig:1
+  basis: The Eskimo are described as faithful guides who lead parties by the best
+    route when trusted.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: night navigator
+  assigned_to:
+  - fig:1
+  basis: The passage says that in traveling by night they use the north star for the
+    guide.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: seasonal observer
+  assigned_to:
+  - fig:1
+  basis: They recognize solstices, name seasons and subdivisions, and identify many
+    seasonal events.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+- id: role:5
+  label: hunting-trip companion and instructor by presence
+  assigned_to:
+  - fig:2
+  basis: Parents are the people accompanied by children during early hunting trips
+    through which country knowledge is acquired.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: cache locator
+  assigned_to:
+  - fig:4
+  basis: A hunter can go straight to a deer carcass cached months before despite snow
+    cover.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: north star as night guide
+  literal_form: north star
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: sun as solstice and seasonal marker
+  literal_form: sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:11
+- id: sym:3
+  label: fixed landmarks as calendrical reference points
+  literal_form: fixed landmarks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:4
+  label: named terrain features
+  literal_form: rise of land, curve of a stream, cove in the seashore
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: snow and ice as seasonal conditions
+  literal_form: snow, ice, open water
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:11
+scenes:
+- id: scene:1
+  label: Learning the country through hunting travel
+  summary: Young people learn the country by accompanying parents on hunting trips
+    and cultivating memory and observation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Remembering exact places in the landscape
+  summary: A native finds a ramrod left among grass after several hours, and a hunter
+    returns to a cached deer carcass months later despite snow cover.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Named landscape and guided travel
+  summary: Landforms and shore features have descriptive names, and Eskimo guides
+    lead parties by good routes when trusted.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:4
+  label: Night navigation and weather prediction
+  summary: Night travelers use the north star as a guide, and experience is said to
+    support weather prediction.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Solstice-based calendar and seasonal subdivisions
+  summary: The year is organized around the winter and summer solstices, identified
+    through the sun's bearing against landmarks, and divided into named periods tied
+    to environmental and subsistence events.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: seasonal cycle organized by solstices and subsistence signs
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly describes the year beginning at the winter solstice,
+    summer beginning at the summer solstice, and many named seasonal periods marked
+    by sun, snow, ice, animals, fishing, berries, reindeer, trapping, and hunting.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+  confidence: high
+  cautions: This is ethnographic calendrical description rather than a narrative myth
+    episode.
+- id: motif:2
+  label: landscape memory and named-place knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes learned memory, observation, descriptive place names,
+    and reliable return to exact locations in the landscape.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference 'wisdom' is broad; the passage concerns practical
+    environmental knowledge rather than explicit sacred or mythic wisdom.
+- id: motif:3
+  label: celestial navigation by a fixed star
+  taxonomy_refs: []
+  basis: The passage states that night travelers use the north star as the guide.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No broader mythic interpretation of the star is supplied in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2927-2933
+  quote_or_summary: Eskimo acquire extended country knowledge by accompanying parents
+    on hunting trips, relying on memory, observing surroundings, and marking views
+    carefully.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2933-2936
+  quote_or_summary: The narrator reports seeing a native place a ramrod among tall
+    grass and find the spot again after several hours without hesitation.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2936-2940
+  quote_or_summary: Every rise of land, stream curve, and seashore cove has a descriptive
+    name known to those who visit the place.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2940-2944
+  quote_or_summary: Despite snow changing the land's appearance, a hunter can go straight
+    to a deer carcass cached months earlier on the open beach.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2944-2947
+  quote_or_summary: Eskimo are described as faithful guides who take pride in leading
+    a party by the best route when confidence is placed in them.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 2947-2948
+  quote_or_summary: '"In traveling by night they use the north star for the guide."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 2948-2950
+  quote_or_summary: Experience teaches them to foretell weather, and the passage says
+    some reliance may be placed on their predictions.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2951-2954
+  quote_or_summary: The year begins when the sun reaches its lowest point at the winter
+    solstice, and summer begins with the summer solstice.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 2954-2956
+  quote_or_summary: The arrival of solstices is recognized by the sun's bearing with
+    reference to fixed landmarks.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 2957-2961
+  quote_or_summary: Seasons have distinctive names and many subdivisions, with more
+    subdivisions during warmer weather because more changes occur then.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 2961-2972
+  quote_or_summary: Named periods include return of the sun, lengthening day, March
+    warmth, snowmelt, ice breakup, open water, seal births, bird arrivals and nesting,
+    whale arrival and whaling, salmon fishing, berry ripening, reindeer crossing,
+    trapping, and hunting.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive ethnography with clear evidence for navigation,
+    memory, place naming, and seasonal-cycle motifs. Mythic or comparative claims
+    are not made by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison to another tradition or corpus.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l2927-l2972
+  passage_sha256=b04eac16960d8c9274b8e3bc2ae462d0128afeffa91266e3c34fcd0436cc8688
+

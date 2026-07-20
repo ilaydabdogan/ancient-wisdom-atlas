@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l11885-l12025
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: LAWS   OF    MANU. / LAWS    OF    MANU. / H    2 / LAWS   OF    MANU.; lines
+    11885-12025
+  start: '11885'
+  end: '12025'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: for sacrificial food, eaten by a foe, bears no reward after death.
+  summary: The passage gives rules for selecting, honoring, and excluding recipients
+    at Sraddha, funeral sacrifices, and offerings to gods and manes. It links qualified
+    recipients with after-death reward and satisfaction of ancestors, while listing
+    many categories of people to avoid.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: If no learned Brahmana is available, the host may honor a virtuous friend
+    rather than an enemy, even if the enemy is otherwise qualified.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sacrificial food eaten by a foe is said to bear no reward after death.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At a Sraddha, the host is instructed to feed a Rig-veda adherent, a Yajur-veda
+    follower, or a singer of Samans who has completed an entire recension or sakha.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If one such qualified person dines, duly honored, at a funeral sacrifice,
+    the ancestors of the feast-giver as far as the seventh person will be satisfied
+    for a very long time.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage distinguishes offerings to the gods and to the manes, and says
+    that guests for ceremonies honoring the manes must be examined carefully.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Additional possible invitees include maternal kin, in-laws, a teacher, a daughter's
+    son, a daughter's husband, a cognate kinsman, an officiating priest, and a person
+    for whom one offers sacrifices.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage declares certain Brahmanas and other invitees unworthy or to be
+    avoided at offerings to gods and manes.
+  category: attribute
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: Several exclusions concern ritual or familial failures, including forsaking
+    the sacred fire, neglecting the five great sacrifices, opposing a teacher, or
+    forsaking mother, father, or teacher without sufficient reason.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sraddha host or feast-giver
+  description: The person who honors guests, feeds Brahmanas at a Sraddha or funeral
+    sacrifice, and performs offerings to gods and manes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Qualified Vedic Brahmana guest
+  description: An adherent of the Rig-veda, follower of the Yajur-veda, or singer
+    of Samans who has completed the study of an entire recension or sakha.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Virtuous friend
+  description: A friend whom the host may honor when no learned Brahmana is at hand.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Enemy or foe
+  description: An enemy who may be qualified by learning and other traits but whose
+    eating of sacrificial food bears no reward after death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Ancestors or manes
+  description: Ancestral recipients connected with Sraddha and funeral sacrifice;
+    the feast-giver's ancestors as far as the seventh person may be satisfied.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Gods
+  description: Recipients of rites and oblations, contrasted with the manes in rules
+    about inquiry into invited Brahmanas.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Kin and ritual associates eligible for entertainment
+  description: Maternal grandfather, maternal uncle, sister's son, father-in-law,
+    teacher, daughter's son, daughter's husband, cognate kinsman, officiating priest,
+    or a person for whom one offers sacrifices.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Unworthy or avoided invitees
+  description: People listed as unworthy or to be avoided, including thieves, outcasts,
+    atheists, gamblers, sellers of meat, usurers, those who forsake the sacred fire,
+    and other enumerated categories.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:9
+  name_or_label: Manu
+  description: The authority said to have declared that certain Brahmanas are unworthy
+    to partake of oblations to gods and manes.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ritual host or sacrificer
+  assigned_to:
+  - fig:1
+  basis: The passage describes a person who honors guests, feeds invitees at Sraddha,
+    gives the feast, and offers sacrifices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: eligible ritual recipient
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:7
+  basis: These figures are named as persons who may be honored, fed, or entertained
+    at Sraddha or related rites.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: dispreferred recipient
+  assigned_to:
+  - fig:4
+  basis: The passage says the host should honor a virtuous friend rather than an enemy,
+    because food eaten by a foe bears no after-death reward.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: ancestral beneficiary
+  assigned_to:
+  - fig:5
+  basis: The ancestors of the feast-giver are said to be satisfied when a qualified
+    diner is duly honored at a funeral sacrifice.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: divine recipient
+  assigned_to:
+  - fig:6
+  basis: The passage refers to sacrifices and oblations offered to the gods.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: excluded or unworthy recipient
+  assigned_to:
+  - fig:8
+  basis: The passage lists categories declared unworthy or to be avoided at offerings
+    to gods and manes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:7
+  label: ritual-law authority
+  assigned_to:
+  - fig:9
+  basis: The passage states that Manu has declared certain Brahmanas unworthy of oblations.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacrificial food and oblations
+  literal_form: Sacrificial food; oblations to the gods and manes.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: sacred fire
+  literal_form: The sacred fire, which may be kindled or forsaken.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: seventh person
+  literal_form: The seventh ancestral person or generation named as the limit of satisfaction
+    in this passage.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: five great sacrifices
+  literal_form: The five great sacrifices, named as obligations that may be neglected
+    by an excluded person.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Choosing a recipient when a learned Brahmana is unavailable
+  summary: The host is told to honor a virtuous friend rather than a qualified enemy,
+    because a foe's consumption of sacrificial food gives no after-death reward.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Feeding a qualified Vedic guest at a funeral sacrifice
+  summary: A qualified Vedic scholar is fed and honored at Sraddha or a funeral sacrifice,
+    resulting in long satisfaction for the feast-giver's ancestors up to the seventh
+    person.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rules for gods, manes, and subsidiary invitees
+  summary: The passage states a chief rule for sacrifices to gods and manes, names
+    additional eligible kin and ritual associates, and requires careful examination
+    of guests for rites honoring the manes.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Exclusion of unworthy invitees
+  summary: The passage lists categories of Brahmanas and other persons who are unworthy
+    or to be avoided at oblations and sacrifices, including people marked by social,
+    occupational, ritual, or familial disqualifications.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Ritual feeding as sacred exchange with after-death reward
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The passage connects the recipient's eating of sacrificial food with reward
+    after death and links the honored feeding of a qualified diner with satisfaction
+    of ancestors.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a prescriptive ritual-law passage rather than a narrative myth;
+    the motif is extracted as a ritual pattern.
+- id: motif:2
+  label: Ancestor satisfaction through qualified ritual recipients
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: A duly honored qualified Vedic diner at a funeral sacrifice is said to satisfy
+    the feast-giver's ancestors as far as the seventh person for a very long time.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states ancestral satisfaction but does not narrate an afterlife
+    journey.
+- id: motif:3
+  label: Disqualification of recipients from sacred offerings
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage gives a long list of categories declared unworthy or to be avoided
+    at offerings to gods and manes.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy has only the broad family 'sacrifice' for this
+    legal screening pattern.
+- id: motif:4
+  label: Differentiated rites for gods and manes
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage distinguishes rites sacred to gods from ceremonies honoring the
+    manes, with stricter examination of guests for the latter.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The distinction is explicit, but it is a procedural rule rather than a
+    developed mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The editorial notes supplied in the passage point to related Dharmasutra
+    and Dharmashastra rules on inquiry into invitees and exclusion of unworthy participants
+    at Sraddha or similar rites.
+  claim_level: same_function
+  target: Vishnu LXXXII; Apastamba II.17.21; Gautama XV.16-19, 30-31; Vasistha XI.19;
+    Yajnavalkya I.222-224
+  evidence_refs:
+  - ev:7
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only citations to parallel legal materials, not
+    the full content of those parallels; it does not by itself establish historical
+    contact beyond shared legal-tradition referencing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: III.144 within lines 11885-12025
+  quote_or_summary: If no learned Brahmana is at hand, one may honor a virtuous friend
+    rather than an enemy; sacrificial food eaten by a foe bears no reward after death.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary and short phrase from supplied passage.
+- id: ev:2
+  type: summary
+  locator: III.145-146 within lines 11885-12025
+  quote_or_summary: At Sraddha, the host should feed a qualified Rig-veda, Yajur-veda,
+    or Saman specialist; if one such person dines duly honored at a funeral sacrifice,
+    the feast-giver's ancestors as far as the seventh person are satisfied for a very
+    long time.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: III.147-149 within lines 11885-12025
+  quote_or_summary: The passage gives a chief rule for sacrifices to gods and manes,
+    names subsidiary eligible kin and ritual associates, and says that a manes ceremony
+    requires careful examination of the guest's qualities and parentage.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: III.150-152 within lines 11885-12025
+  quote_or_summary: Manu declares thieves, outcasts, eunuchs, and atheists unworthy
+    of oblations to gods and manes; further avoided categories include students with
+    braided hair, those without Vedic study, those with skin disease, gamblers, mass-sacrificers,
+    physicians, temple-priests, meat sellers, and shopkeepers.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: III.153-154 within lines 11885-12025
+  quote_or_summary: Additional excluded persons include paid servants of a village
+    or king, those with deformed nails or black teeth, one opposing his teacher, one
+    who has forsaken the sacred fire, a usurer, one suffering from consumption, one
+    tending cattle, brothers who marry or kindle sacred fire out of prescribed order,
+    one neglecting the five great sacrifices, an enemy of the Brahmana race, and one
+    belonging to a company or corporation.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: III.155-157 within lines 11885-12025
+  quote_or_summary: Further excluded categories include an actor or singer, one who
+    has broken the vow of studentship, one whose wife is a Sudra female, a son of
+    a remarried woman, a one-eyed man, a man whose wife's paramour resides in his
+    house, those who teach or learn for a fee, those connected with Sudra pupils or
+    teachers, one who speaks rudely, sons of an adulteress or widow, and one who forsakes
+    mother, father, or teacher without sufficient reason.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:7
+  type: citation
+  locator: Footnotes to III.149 and III.150-182 within lines 11885-12025
+  quote_or_summary: Editorial notes cite Vishnu LXXXII.1-2 for III.149 and Apastamba
+    II.17.21, Gautama XV.16-19 and 30-31, Vasistha XI.19, Vishnu LXXXII.3-30, and
+    Yajnavalkya I.222-224 for the exclusion rules.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; citation summary from supplied passage notes.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal ritual rules are explicit. Motif labels are broader abstractions
+    from a prescriptive legal passage and should be reviewed for taxonomy fit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures, symbols, or comparisons were added beyond those supported by the supplied passage and metadata. The passage is ritual-legal, not narrative mythic material.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l11885-l12025
+  passage_sha256=ff94860e578028308a48d1e1414ec0d03b2d6be5e3185852090da7db1035e716
+

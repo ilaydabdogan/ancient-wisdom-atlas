@@ -1,0 +1,222 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l29892-l30070
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 29892-30070
+  start: '29892'
+  end: '30070'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment listing names, places, deities, objects, and topics from
+    Res-ab through Scorpion. Entries include resurrection, resurrection of the body,
+    resurrection of Osiris, a triune god of resurrection, Sata as a serpent-god, scales,
+    the scarab, and the scorpion.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The index has an entry for resurrection, with subentries for the body, Osiris,
+    and a triune god of resurrection.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index lists Sata as a serpent-god.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index lists entries for scales and the Great Scales.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index lists scarab-related entries, including Scarab, Scarabaeus, Scarabaeidae,
+    and the Scarab of Hetepet.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The index lists Scorpion.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index lists sandals and divine sandals.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: Named in the index subentry for resurrection of Osiris.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sata
+  description: Listed as a serpent-god.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: subject of resurrection index entry
+  assigned_to:
+  - fig:1
+  basis: The index includes a subentry for the resurrection of Osiris.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: serpent-god
+  assigned_to:
+  - fig:2
+  basis: The index explicitly describes Sata as a serpent-god.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Serpent
+  literal_form: serpent-god
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Scales
+  literal_form: scales; the Great Scales
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Scarab
+  literal_form: scarab; scarabaeus
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Scorpion
+  literal_form: scorpion
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Sandals
+  literal_form: sandals; divine sandals
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Index entries for resurrection and ritual-symbolic objects
+  summary: The passage is an index segment rather than a narrative scene; it lists
+    topical and name entries including resurrection, Osiris, a serpent-god, scales,
+    scarabs, scorpion, and divine sandals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Resurrection
+  taxonomy_refs:
+  - resurrection
+  basis: The index explicitly includes resurrection, resurrection of the body, resurrection
+    of Osiris, and a triune god of resurrection.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an index listing and does not narrate a resurrection event.
+- id: motif:2
+  label: Serpent-god
+  taxonomy_refs:
+  - serpent
+  basis: The index explicitly describes Sata as a serpent-god.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives no narrative action or mythic episode for the serpent-god.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 29899-29903
+  quote_or_summary: '"Resurrection, ii. 381; of the body, i. 357; of Osiris, ii. 137,138;
+    triune god of, i. 508"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 30029-30030
+  quote_or_summary: '"Sata, a serpent-god, ii. 377"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 30049-30050
+  quote_or_summary: '"Scales, ii. 142" and "Scales, the Great, i. 9, 20"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 30052-30056
+  quote_or_summary: The index lists Scarab, Scarabaei eaten, Scarabaeus, Scarabaeidae,
+    and Scarab of Hetepet.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: line 30070
+  quote_or_summary: '"Scorpion, ii. 373, 377"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 29985-29986
+  quote_or_summary: The index lists Sandals and the divine sandals.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is straightforward for explicit index entries. Motif confidence
+    is limited because the passage is an index segment, not a mythic narrative or
+    exposition. No comparison claims are made because the passage itself does not
+    support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only explicit index information from the supplied passage was used; no external mythological identifications were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l29892-l30070
+  passage_sha256=fb0687131b87239b890ea7f386649b69da0b5bbcded6f1a1c0694eb7be62871d
+

@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.japanese-kwaidan-hearn-gutenberg-l4014-l4036
+source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+passage_locator:
+  label: DIPLOMACY / OF A MIRROR AND A BELL / JIKININKI / MUJINA; lines 4014-4036
+  start: '4014'
+  end: '4036'
+  translation: 'Kwaidan: Stories and Studies of Strange Things'
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Certain animals were thought to be able to transform themselves and cause
+    mischief for humans.
+  summary: The passage is a title and explanatory notes for “Mujina.” It defines mujina
+    as a kind of badger, notes a belief that some animals could transform and trouble
+    humans, glosses the polite address O-jochū, describes the nopperabo as a featureless-faced
+    apparition in Japanese ghost and demon lore, and defines soba and two exclamations.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage heading is “MUJINA.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mujina is defined as a kind of badger.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Certain animals were thought to be able to transform themselves and cause
+    mischief for humans.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: O-jochū is glossed as an “honorable damsel” and as a polite address for an
+    unknown young lady.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A nopperabo is described as an apparition with a smooth, totally featureless
+    face.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The nopperabo is described as a stock part of the Japanese pantheon of ghosts
+    and demons.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Soba is defined as a buckwheat preparation somewhat resembling vermicelli.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: One note glosses an exclamation as an expression of annoyed alarm.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: One note glosses an exclamation as “Well!”
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mujina
+  description: A kind of badger.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Certain animals
+  description: Animals believed able to transform themselves and cause mischief for
+    humans.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Unknown young lady addressed as O-jochū
+  description: A young lady whom one does not know, addressed by the polite form O-jochū.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Nopperabo
+  description: An apparition with a smooth, totally featureless face, described as
+    part of Japanese ghost and demon lore.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: badger figure
+  assigned_to:
+  - fig:1
+  basis: The note defines mujina as a kind of badger.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: transforming mischief-causer
+  assigned_to:
+  - fig:2
+  basis: The note says certain animals could transform themselves and cause mischief
+    for humans.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: polite-address recipient
+  assigned_to:
+  - fig:3
+  basis: The note says O-jochū is used in speaking politely to a young lady whom one
+    does not know.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: featureless-faced apparition
+  assigned_to:
+  - fig:4
+  basis: The note describes the nopperabo as a smooth, totally featureless-faced apparition.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: mujina badger
+  literal_form: A kind of badger.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: animal transformation
+  literal_form: Certain animals transforming themselves and causing mischief for humans.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: featureless face
+  literal_form: A smooth, totally featureless face.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: soba food item
+  literal_form: A buckwheat preparation somewhat resembling vermicelli.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: animal shapeshifter causing human mischief
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage explicitly notes a belief that certain animals could transform
+    themselves and cause mischief for humans.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is explanatory note material, not a full narrated episode
+    in this excerpt.
+- id: motif:2
+  label: featureless-faced apparition
+  taxonomy_refs: []
+  basis: The passage identifies the nopperabo as an apparition with a smooth, totally
+    featureless face and says it is a stock part of Japanese ghost and demon lore.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference directly corresponds to this motif; the
+    excerpt gives definition rather than narrative action.
+comparison_claims:
+- id: claim:1
+  claim: The animal-transformation note supports alignment with the provided shapeshifter
+    motif family.
+  claim_level: same_motif
+  target: shapeshifter
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The alignment rests on a glossary note; the excerpt does not supply
+    a narrative instance of transformation.
+- id: claim:2
+  claim: The passage itself places nopperabo within a broader Japanese ghost and demon
+    pattern of featureless-faced apparitions.
+  claim_level: same_motif
+  target: nopperabo as a stock featureless-faced apparition in Japanese ghost and
+    demon lore
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states the classification but does not provide a comparative
+    example or story context.
+evidence:
+- id: ev:1
+  type: quote
+  locator: '4014'
+  quote_or_summary: MUJINA
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 4016-4018
+  quote_or_summary: "“A kind of badger. Certain animals were thought to be able to
+    transform themselves and cause mischief for humans.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 4020-4022
+  quote_or_summary: O-jochū is glossed as “honorable damsel,” a polite address to
+    a young lady whom one does not know.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: 4024-4026
+  quote_or_summary: "“An apparition with a smooth, totally featureless face, called
+    a ‘nopperabo,’ is a stock part of the Japanese pantheon of ghosts and demons.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 4028-4030
+  quote_or_summary: Soba is glossed as a buckwheat preparation somewhat resembling
+    vermicelli.
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: quote
+  locator: '4032'
+  quote_or_summary: "“An exclamation of annoyed alarm.”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: '4034'
+  quote_or_summary: "“Well!”"
+  source_text_path: texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but the passage is mainly title and
+    footnote material rather than a narrative passage; motif candidates and comparisons
+    therefore require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scene segmentation was inferred because the supplied passage consists of heading and explanatory notes.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:japanese-kwaidan-hearn-gutenberg__l4014-l4036
+  passage_sha256=fd18fdc0cb48c4c21aeb17a1b95aa803a84e82e17339fa3456e8cc248ae12b60
+

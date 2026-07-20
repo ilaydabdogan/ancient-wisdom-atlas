@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l4637-l4676
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: CX11 INTRODUCTION. / INTRODUCTION. CX111 / CX1V INTRODUCTION. / INTRODUCTION.
+    CXV; lines 4637-4676
+  start: '4637'
+  end: '4676'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage concludes a report of a man found drowned, comments on people
+    who believe themselves to be seers and on requests sent to the Astronomer-Royal,
+    and then explains the editor's approach to spoken West Highland Gaelic, its Celtic
+    classification, and the transcription of tales as spoken by living Gaelic speakers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wife believed her husband had fallen in and drowned; after a search his
+    body was found in the water, identified by her, and the jury returned a verdict
+    of found drowned.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The jury recommended that an opening in a wall near the dam, through which
+    the man was supposed to have fallen, should be built up.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The author says many Lowlanders as well as Highlanders think they are seers,
+    without needing a deal board through which to look into futurity by help of a
+    medium.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The author reports being told that the Astronomer-Royal commonly receives
+    English letters asking his official advice.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The author introduces a discussion of the spoken Gaelic of the tales, the
+    mode of writing it, and the English translation.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author states that West Highland Gaelic is a branch of the old Celtic
+    stock and says the Highland dialect has been less studied than others.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The author says he went directly to living speakers, especially those who
+    spoke no other language, and asked transcribers to take down words as spoken and
+    to write as they themselves would speak.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unidentified drowned husband
+  description: A man whose wife identified his body after it was found in the water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: wife of the drowned man
+  description: The woman who believed her husband had drowned and later identified
+    the body as his.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: jury
+  description: The jury that returned a verdict of found drowned and recommended building
+    up the wall opening near the dam.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: self-described seers
+  description: Lowlanders and Highlanders described by the author as thinking that
+    they are seers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Astronomer-Royal
+  description: An official said to receive English letters asking his advice.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: author-editor
+  description: The first-person author who explains his method for collecting and
+    writing spoken Gaelic.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Gaelic speakers and transcribers
+  description: Living Gaelic speakers, including people who speak no other tongue,
+    and those asked to write the words as spoken.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: drowned person
+  assigned_to:
+  - fig:1
+  basis: His body was found in the water and the verdict was found drowned.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: identifier and spouse
+  assigned_to:
+  - fig:2
+  basis: She believed he had drowned and identified the body as her husband's.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: verdict-giving body
+  assigned_to:
+  - fig:3
+  basis: The jury returned the verdict and made a recommendation about the wall opening.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: claimed seers
+  assigned_to:
+  - fig:4
+  basis: The author says these people think that they are seers.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: official advice-recipient
+  assigned_to:
+  - fig:5
+  basis: The Astronomer-Royal is said to receive letters asking official advice.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: collector and editor of spoken Gaelic
+  assigned_to:
+  - fig:6
+  basis: The author explains his decisions about Gaelic speech, writing, and translation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: vernacular language sources and scribes
+  assigned_to:
+  - fig:7
+  basis: The author consulted living speakers and directed writers to record words
+    as spoken.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: The water in which the drowned man's body was found.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wall opening near dam
+  literal_form: An opening in the wall near the dam, through which the man was supposed
+    to have fallen.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: deal board and medium for futurity-seeing
+  literal_form: A deal board through which to look into futurity by the help of a
+    medium.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: spoken Gaelic
+  literal_form: The spoken Gaelic of the West Highland tales and the words taken down
+    as spoken.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: drowning report and verdict
+  summary: A body is found in water, identified by the wife as her husband, and a
+    jury returns a verdict of found drowned while recommending that a dangerous opening
+    near the dam be closed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: comment on seers and official advice
+  summary: The author comments that some Lowlanders and Highlanders consider themselves
+    seers and notes that the Astronomer-Royal is said to receive letters requesting
+    advice.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: editorial method for spoken Gaelic
+  summary: The author explains that West Highland Gaelic is an old Celtic branch and
+    describes collecting speech directly from living speakers, with instructions to
+    record words as spoken.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: claimed second sight or futurity-seeing
+  taxonomy_refs: []
+  basis: The passage explicitly mentions people who think they are seers and the idea
+    of looking into futurity with or without a board and medium.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is introductory social commentary rather than a narrated tale episode;
+    no specific vision or fulfilled prophecy is described.
+- id: motif:2
+  label: death by water
+  taxonomy_refs: []
+  basis: The passage reports a body found in water and a verdict of found drowned.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This is a newspaper-style incident in the introduction, not a mythic or
+    folktale narrative motif in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The author identifies West Highland Gaelic as a branch of the old Celtic
+    linguistic stock.
+  claim_level: linguistic_similarity
+  target: old Celtic stock
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a linguistic and editorial claim, not a comparison of mythic
+    motifs; the passage gives no detailed comparative mythology evidence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4637-4646
+  quote_or_summary: The wife believed the man had fallen in and drowned; his body
+    was found in water, identified by her, and the jury returned a verdict of found
+    drowned with a recommendation to close an opening near the dam.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4648-4655
+  quote_or_summary: The author says that Lowlanders as well as Highlanders think they
+    are seers, refers to looking into futurity with a deal board and medium, and mentions
+    English letters to the Astronomer-Royal asking advice.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4656-4664
+  quote_or_summary: The author turns to spoken Gaelic, writing, and translation, and
+    states that West Highland Gaelic is a branch of the old Celtic stock whose Highland
+    dialect has been little studied.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4665-4676
+  quote_or_summary: The author says he ignored prior writings, consulted current speakers,
+    especially monoglot speakers, and asked writers to take down words as spoken and
+    write as they would speak.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but the passage is introductory
+    and mostly editorial or anecdotal, so motif candidates are weak and require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs or comparisons were added beyond available literal references and the passage's own linguistic claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l4637-l4676
+  passage_sha256=16ebb9e7c72cea4f1c41b486a627787da4a6ae1271f0b7bae580b0c2eeb282ad
+

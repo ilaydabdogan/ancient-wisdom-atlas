@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l8674-l9274
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: VI  THE   CLANS    AND   THEIR   TOTEMS         167 / VI  THE   CLANS   AND   THEIR   TOTEMS         169
+    / VI  THE   CLANS    AND   THEIR   TOTEMS         171 / GENEALOGICAL  TABLES.;
+    lines 8674-9274
+  start: '8674'
+  end: '9274'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the clans claim relationship with royalty through the mothers
+  summary: The passage introduces three genealogical tables that contrast royal and
+    common methods of tracing descent. The royal table traces descendants from the
+    first King Kintu to King Daudi Cwa and shows clan relationship to royalty through
+    mothers. The Oribi and Grasshopper clan tables disregard the mother's clan and
+    trace descent through male ancestors only. A caption identifies Daudi Cwa as the
+    young king of Uganda.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Three genealogical tables are presented to show different methods by which
+    kings and common people trace descent.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first table gives descendants of royalty from the first King Kintu to
+    the present King Daudi Cwa.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The first table shows clans claiming relationship with royalty through mothers.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Oribi Clan and Grasshopper Clan tables disregard the mother's clan, retain
+    male ancestor names, and claim descent through the male line only.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A figure caption identifies Daudi Cwa as the young king of Uganda.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: King Kintu
+  description: Named as the first king in the royal genealogy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Daudi Cwa
+  description: Named as the present king and captioned as the young king of Uganda.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Clans
+  description: Groups said to claim relationship with royalty through mothers in the
+    royal table.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Oribi Clan
+  description: One of the two clan examples whose table traces descent through male
+    ancestors only.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Grasshopper Clan
+  description: One of the two clan examples whose table traces descent through male
+    ancestors only.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: first king and royal ancestor
+  assigned_to:
+  - fig:1
+  basis: The royal genealogy is described as beginning with the first King Kintu.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: present or young king
+  assigned_to:
+  - fig:2
+  basis: Daudi Cwa is named as the present king and captioned as the young king of
+    Uganda.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: maternal claimant to royal relationship
+  assigned_to:
+  - fig:3
+  basis: The passage says clans claim relationship with royalty through mothers.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: patrilineal clan example
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The Oribi and Grasshopper clan tables are said to disregard the mother's
+    clan and claim descent through the male line only.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: genealogical table
+  literal_form: three tables of genealogies
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Introduction of genealogical descent tables
+  summary: The passage explains that three genealogical tables illustrate different
+    descent-tracing methods for royalty, common people, and named clans.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Captioned image of Daudi Cwa
+  summary: A caption identifies Daudi Cwa as the young king of Uganda.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: genealogical descent from first king to present king
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The royal table traces descendants of royalty from the first King Kintu to
+    the present King Daudi Cwa.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage describes a genealogical table; it does not explicitly state
+    a mythic legitimation doctrine.
+- id: motif:2
+  label: maternal links between clans and royalty
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The royal table is said to show how clans claim relationship with royalty
+    through mothers.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The evidence supports a kinship pattern, but the broader symbolic or political
+    meaning is not explained in this passage.
+- id: motif:3
+  label: patrilineal clan descent
+  taxonomy_refs: []
+  basis: The Oribi and Grasshopper clan tables disregard the mother's clan and trace
+    descent through male ancestors only.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a descent pattern rather than a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The royal genealogy has the same broad function as a royal-legitimacy pattern
+    insofar as it links present kingship to descent from the first king.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage presents the genealogy descriptively and does not explicitly
+    discuss legitimacy, sacred kingship, ritual authority, or historical contact with
+    other traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8674-8680
+  quote_or_summary: The passage says three genealogical tables are given to show different
+    ways kings and common people trace descent.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 8680-8685
+  quote_or_summary: The first table gives descendants of royalty from the first King
+    Kintu to King Daudi Cwa and shows how clans claim relationship with royalty through
+    mothers.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short excerpt/close summary.
+- id: ev:3
+  type: summary
+  locator: lines 8685-8691
+  quote_or_summary: The Oribi Clan and Grasshopper Clan tables show that the mother's
+    clan is disregarded and descent is claimed through the male line only.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: figure caption in range 8674-9274
+  quote_or_summary: FIG. 25. — THE YOUNG KING OF UGANDA, DAUDI CWA.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The prose introduction is clear, but much of the table text in the supplied
+    passage is garbled OCR; specific table entries beyond the prose summary were not
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the readable prose, caption, and source metadata supplied in the request.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l8674-l9274
+  passage_sha256=bb1ef166a73e0570b211f2714fd831554d596236ac48af24116be01fd351f5f9
+

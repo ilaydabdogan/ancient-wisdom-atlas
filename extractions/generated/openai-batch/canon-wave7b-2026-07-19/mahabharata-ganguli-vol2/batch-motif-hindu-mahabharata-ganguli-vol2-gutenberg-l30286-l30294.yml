@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l30286-l30294
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION LXVIII / SECTION LXIX / SECTION LXX / SECTION LXXI; lines 30286-30294
+  start: '30286'
+  end: '30294'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: thus was that vast field of battle strewn over with cavalry soldiers and
+    foot-soldiers and great car-warriors and standards.
+  summary: The passage depicts elephants in battle crushing car-warriors, dragging
+    entangled cars, and leaving the battlefield covered with soldiers, warriors, and
+    standards.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Some car-warriors whose cars had broken parts are compared to branches dragged
+    down by tuskers.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Car-warriors are seized by the hair, violently thrashed on the ground, and
+    crushed into shapeless masses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Huge elephants drag cars entangled with other cars and run in all directions
+    while shrieking loudly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Elephants dragging cars are compared to elephants dragging lotus-stalks growing
+    in lakes.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The battlefield is strewn with cavalry soldiers, foot-soldiers, great car-warriors,
+    and standards.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: huge elephants
+  description: Elephants in the battle seize and crush car-warriors and drag entangled
+    cars while running in all directions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: car-warriors
+  description: Warriors associated with cars; some have broken cars, are seized by
+    the hair, thrashed, and crushed, while great car-warriors are later described
+    as strewn over the field.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: cavalry soldiers and foot-soldiers
+  description: Human combatants described as strewn over the battlefield.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: destructive war animals
+  assigned_to:
+  - fig:1
+  basis: The elephants crush warriors and drag entangled cars across the battlefield.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: battlefield casualties or overwhelmed combatants
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Car-warriors are crushed, and cavalry soldiers, foot-soldiers, and great
+    car-warriors are described as strewn across the field.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols:
+- id: sym:1
+  label: broken and entangled cars
+  literal_form: Cars whose parts are broken, and cars entangled with other cars and
+    dragged by elephants.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: branches dragged down by tuskers
+  literal_form: Branches of trees dragged down by tuskers, used as a simile for car-warriors.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: lotus-stalks growing in lakes
+  literal_form: Lotus-stalks growing in lakes, used as a simile for cars dragged by
+    elephants.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: battle standards
+  literal_form: Standards strewn across the field of battle.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: elephant-driven devastation on the battlefield
+  summary: Elephants crush car-warriors, drag entangled cars in all directions, and
+    the field is left covered with combatants and standards.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: battlefield chaos and scattering
+  taxonomy_refs:
+  - chaos
+  basis: Elephants run in all directions dragging entangled cars, and the field is
+    strewn with soldiers, warriors, and standards.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage is a martial description
+    rather than an explicit cosmological chaos scene.
+- id: motif:2
+  label: war elephants as agents of battlefield destruction
+  taxonomy_refs: []
+  basis: Elephants seize and crush warriors and drag cars tangled with other cars.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level martial pattern, not tied here to a supplied mythic
+    motif family.
+- id: motif:3
+  label: natural similes for battle violence
+  taxonomy_refs: []
+  basis: Car-warriors are compared to tree branches dragged by tuskers, and dragged
+    cars are compared to lotus-stalks growing in lakes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: This is a literary-imagistic pattern within the passage; it does not by
+    itself establish a broader comparative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 30286-30288
+  quote_or_summary: car-warriors ... "were like branches of trees dragged down by
+    tuskers"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; excerpt supplied in request.
+- id: ev:2
+  type: quote
+  locator: lines 30288-30290
+  quote_or_summary: '"seized by the hair of their heads and, thrashed violently on
+    the ground, were crushed into shapeless masses."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; excerpt supplied in request.
+- id: ev:3
+  type: quote
+  locator: lines 30290-30292
+  quote_or_summary: '"huge elephants, dragging cars that were entangled with other
+    cars, ran in all directions shrieking loudly."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; excerpt supplied in request.
+- id: ev:4
+  type: quote
+  locator: lines 30292-30293
+  quote_or_summary: The elephants dragging cars looked like elephants "dragging lotus-stalks
+    growing in lakes."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; excerpt supplied in request.
+- id: ev:5
+  type: quote
+  locator: lines 30293-30294
+  quote_or_summary: '"that vast field of battle strewn over with cavalry soldiers
+    and foot-soldiers and great car-warriors and standards."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; excerpt supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious because the passage is a short battle description. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Uses only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l30286-l30294
+  passage_sha256=dac6a10732312f775b7c84133f3fab9047a96a01d5f4ac31d666d961b581230a
+

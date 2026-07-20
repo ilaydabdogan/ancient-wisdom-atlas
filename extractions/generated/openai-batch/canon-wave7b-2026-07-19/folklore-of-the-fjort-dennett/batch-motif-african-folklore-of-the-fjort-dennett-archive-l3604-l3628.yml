@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l3604-l3628
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: THE  WICKED   HUSBAND.  55 / THE   WONDERFUL  CHILD. / THE   WONDEKFUL   CHILD.  57
+    / HOW  KENGI   LOST  HER  CHILD.; lines 3604-3628
+  start: '3604'
+  end: '3628'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Nenpetro has two wives, Kengi and Gunga, for whom he divides farmland.
+    After Gunga takes beans from Kengi's plot, the women agree that anything born
+    on one woman's farm belongs only to that woman. Later, while Kengi is on Gunga's
+    plantation asking for tobacco, Kengi gives birth. Gunga claims the child under
+    the agreement, refuses Kengi's demand for its return, and the women decide to
+    take the dispute to Manilombi.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nenpetro has two wives named Kengi and Gunga, and he clears and divides a
+    piece of ground for them.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Kengi and Gunga plant maize, beans, and cassava and have enough food from
+    the fields.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gunga takes beans from Kengi's plantation, which makes Kengi angry.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Gunga acknowledges wrongdoing but argues that she and Kengi share one husband
+    and eat together.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The two women agree that everything born on one woman's farm will belong exclusively
+    to that woman.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Kengi later comes to Gunga's plantation in pain and asks for tobacco to smoke;
+    Gunga gives her tobacco.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: While Kengi is on Gunga's plantation, Kengi gives birth to a child.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Gunga takes possession of the child and refuses to give the child to Kengi.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Kengi weeps and sends a special ambassador to Gunga demanding the child.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Gunga refuses again and says she is ready to hold a palaver over the child.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The two women resolve to go to the town of Manilombi and present their grievance
+    to him.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Nenpetro
+  description: Man who has two wives, Kengi and Gunga, and divides cleared ground
+    for them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Kengi
+  description: One of Nenpetro's two wives; her beans are taken, she later gives birth
+    on Gunga's plantation, and she demands the child back.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Gunga
+  description: One of Nenpetro's two wives; she takes beans from Kengi's plantation,
+    gives Kengi tobacco, and then claims Kengi's child.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Kengi's child
+  description: Child born by Kengi while she is on Gunga's plantation and then claimed
+    by Gunga.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: special ambassador
+  description: Messenger sent by Kengi to Gunga to demand the child.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Manilombi
+  description: Person associated with the town to whom the two women resolve to state
+    their grievance.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: husband and land-divider
+  assigned_to:
+  - fig:1
+  basis: Nenpetro is described as husband of Kengi and Gunga and as the one who clears
+    and divides ground for them.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: co-wife
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Kengi and Gunga are both named as wives of Nenpetro.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: birth mother and claimant
+  assigned_to:
+  - fig:2
+  basis: Kengi bears the child and demands its return after Gunga claims it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: possessor and opposing claimant
+  assigned_to:
+  - fig:3
+  basis: Gunga takes possession of the child and refuses to surrender it.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: disputed child
+  assigned_to:
+  - fig:4
+  basis: The child is born by Kengi on Gunga's plantation and becomes the object of
+    competing claims.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:7
+  label: envoy
+  assigned_to:
+  - fig:5
+  basis: Kengi sends a special ambassador to demand the child.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: grievance-hearer
+  assigned_to:
+  - fig:6
+  basis: The women resolve to go to Manilombi and state their grievance to him.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: divided plantation
+  literal_form: cleared and divided ground; Kengi's plantation and Gunga's plantation
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: beans and cultivated food
+  literal_form: maize, beans, and cassava; beans taken from Kengi's plantation
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: ownership agreement over things born on the farm
+  literal_form: agreement that what is born on one farm belongs exclusively to that
+    farm's woman
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: tobacco request
+  literal_form: tobacco requested by Kengi and given by Gunga
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: palaver
+  literal_form: proposed palaver over the child
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Divided farm for two wives
+  summary: Nenpetro clears ground, divides it for Kengi and Gunga, and the women plant
+    crops that provide food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Beans dispute and ownership agreement
+  summary: Gunga takes beans from Kengi's plantation; after discussion, the women
+    agree that whatever is born on each farm will belong only to that farm's woman.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Birth on Gunga's plantation
+  summary: Kengi comes to Gunga's plantation in pain to ask for tobacco, receives
+    it, and gives birth there.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Claim, refusal, and appeal to Manilombi
+  summary: Gunga claims the child, Kengi sends a messenger demanding the child, Gunga
+    refuses and proposes a palaver, and the women decide to present the grievance
+    to Manilombi.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: co-wife rivalry over property and rights
+  taxonomy_refs: []
+  basis: The conflict begins between two wives over beans taken from one wife's plantation
+    and develops into a formal agreement about exclusive ownership.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage presents social conflict rather than an explicitly supernatural
+    or sacred motif.
+- id: motif:2
+  label: child claimed because of birth location under prior agreement
+  taxonomy_refs: []
+  basis: The agreement states that what is born on one woman's farm belongs to that
+    woman; Kengi then gives birth on Gunga's plantation and Gunga claims the child.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The child is not described as miraculous in the supplied passage.
+- id: motif:3
+  label: dispute escalated to palaver before an authority
+  taxonomy_refs: []
+  basis: After private demands fail, Gunga says she is ready for a palaver, and both
+    women resolve to go to Manilombi with the grievance.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The outcome of the palaver is outside the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3606-3609
+  quote_or_summary: Nenpetro has two wives, Kengi and Gunga; he clears and divides
+    ground for them, and they plant maize, beans, and cassava.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 3611-3614
+  quote_or_summary: Gunga takes beans from Kengi's plantation; Kengi is angry, and
+    Gunga says they share one husband and eat together.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 3615-3617
+  quote_or_summary: The women agree that all born on one woman's farm belongs exclusively
+    to her and may not be taken by the other.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 3619-3623
+  quote_or_summary: Kengi comes to Gunga's plantation in pain, asks for tobacco, receives
+    it, and bears a child while there.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 3623-3626
+  quote_or_summary: Gunga takes possession of the child and refuses to give it up;
+    Kengi weeps and sends a special ambassador demanding the child.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 3626-3628
+  quote_or_summary: Gunga refuses to give the child up, says she is ready for a palaver,
+    and the women resolve to go to Manilombi with the grievance.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are descriptive and not mapped to the supplied taxonomy because no listed taxonomy
+    family is directly supported. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage ends with the dispute unresolved; no outcome has been inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l3604-l3628
+  passage_sha256=4c89b2b71cebc894fad00019e06e9f89e162d25587c0b1910b325074b0a51613
+

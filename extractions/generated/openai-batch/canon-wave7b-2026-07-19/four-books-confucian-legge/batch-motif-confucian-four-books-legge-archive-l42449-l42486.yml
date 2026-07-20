@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l42449-l42486
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: THE WORKS OF MKNCIUS / THE WORKS OF MEMJIUS / MIND; SAGES AND OTHERS. IT
+    / THE WORKS OF MENOTVS; lines 42449-42486
+  start: '42449'
+  end: '42486'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"The great end of learning is nothing else but to seek for the lost mind."'
+  summary: The passage contrasts seeking lost fowls and dogs with failing to seek
+    a lost mind, defines learning as seeking the lost mind, and comments that Confucian
+    sages aim at recovering the old heart and restoring lost minds to their bodies.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that when men's fowls and dogs are lost, they know to seek
+    for them again.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that men lose their mind and do not know to seek for it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the great end of learning is to seek for the lost
+    mind.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The chapter heading frames the topic as men having lost the proper qualities
+    of their nature and needing to recover them.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentary glosses benevolence as man's mind or heart and as a universal
+    characteristic of human nature.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The commentary says the Chinese sages end with recovery of the old heart rather
+    than the idea of a new heart.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A quoted comment says the words of sages and worthies are designed to lead
+    men to get hold of lost minds and make them enter their bodies again.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: men
+  description: People who lose fowls and dogs, lose their mind, and are addressed
+    as needing recovery of proper qualities of nature.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Chinese sages and worthies
+  description: Sages and worthies whose sayings are described as leading men to recover
+    their lost minds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: loss-bearers and potential seekers
+  assigned_to:
+  - fig:1
+  basis: Men are described as losing animals and mind, and as needing to seek or recover
+    what is lost.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: moral guides toward recovery
+  assigned_to:
+  - fig:2
+  basis: The commentary describes sages and worthies as leading men to get hold of
+    lost minds and restore them to their bodies.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: lost mind
+  literal_form: The mind is described as lost and as something to seek for again.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: lost fowls and dogs
+  literal_form: Lost domestic animals used in the passage as recoverable things that
+    men know to seek.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: old heart
+  literal_form: The commentary's phrase for the heart to be recovered, contrasted
+    with a new heart.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: benevolence as mind or heart
+  literal_form: Benevolence is glossed as man's mind or heart and as a universal human
+    characteristic.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Lost animals and lost mind
+  summary: The passage contrasts men's effort to seek lost fowls and dogs with their
+    failure to seek a lost mind.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Learning defined as seeking the lost mind
+  summary: The passage defines the great end of learning as seeking for the lost mind.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Commentarial recovery of the old heart
+  summary: The commentary connects the recovery of proper qualities of nature, benevolence
+    as mind or heart, the old heart, and sage guidance that restores lost minds to
+    men's bodies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Seeking the lost mind through learning
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly defines learning as seeking the lost mind and presents
+    sage instruction as leading men to recover lost minds.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage is ethical-philosophical instruction rather than a mythic
+    narrative; the taxonomy link to wisdom is functional and broad.
+- id: motif:2
+  label: Recovery of the old heart
+  taxonomy_refs: []
+  basis: The commentary says Chinese sages aim at recovery of the old heart and at
+    restoring lost minds to men's bodies.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No available taxonomy reference precisely names this Confucian recovery-of-heart
+    pattern.
+- id: motif:3
+  label: Lost outer things contrasted with lost inner faculty
+  taxonomy_refs: []
+  basis: The passage contrasts seeking lost fowls and dogs with failing to seek the
+    lost mind.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an analogy within moral teaching, not a full narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared by function to the supplied wisdom motif family
+    because learning and sage instruction are presented as means of recovering the
+    lost mind or heart.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:2
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide a mythic quest, divine revelation, or
+    evidence of historical contact with another tradition; the comparison is limited
+    to function.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 42449-42451
+  quote_or_summary: '"When men''s fowls and dogs are lost, they know to seek for them
+    again, but they lose their mind, and do not know to seek for it."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 42453-42454
+  quote_or_summary: '"The great end of learning is nothing else but to seek for the
+    lost mind."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 42456-42460
+  quote_or_summary: The heading introduces how men who have lost the proper qualities
+    of their nature should seek to recover them.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 42460-42465
+  quote_or_summary: '"Benevolence is man''s mind, or heart"; the commentary says it
+    is proper to human nature and that all men have it.'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; short excerpt quoted and summarized.
+- id: ev:5
+  type: quote
+  locator: lines 42473-42476
+  quote_or_summary: '"The Chinese sages always end with the recovery of ''the old
+    heart''; the idea of ''a new heart'' is unknown to them."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; short excerpt quoted.
+- id: ev:6
+  type: quote
+  locator: lines 42477-42484
+  quote_or_summary: A quoted comment says the words of sages and worthies lead men
+    "to get hold of their lost" minds and make them enter their bodies again, then
+    move from lower studies to highest knowledge.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; short excerpt quoted and summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction relies on the supplied OCR passage; several commentarial names
+    and characters are garbled, so only clear English claims were used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No external taxonomy IDs beyond the provided list were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l42449-l42486
+  passage_sha256=158a792abba416ceffca28afeef4bfe14d358606270c2dbcaf1fc264d8c27134
+

@@ -1,0 +1,386 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l11170-l11248
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: CORPUS HEEMETICUM XIV. (XV.) / VOL. II, 257 17 / LETTER OF HERMES TO ASOLEPIUS
+    259 / LETTER OE HERMES TO ASCLEPIUS 261; lines 11170-11248
+  start: '11170'
+  end: '11248'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Hermes’ letter argues that Maker and made are paired principles united
+    as leader and follower. God is the all-making Maker and the Good; evil, decay,
+    and impurity are described as accompaniments of the making process rather than
+    products of God. Change is described as a cleansing of genesis, and a painter
+    analogy is used to defend God’s making of all things.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that without the Maker, the made is neither made nor exists,
+    because each loses its nature without the other.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: All things are described as two terms, “that which is being made” and “that
+    which makes,” and also as one in a union of leader and follower.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The making God is identified with “that which leadeth,” while whatever is
+    being made is identified with “that which followeth.”
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: God’s glory is described as making all things, and the making of all things
+    is called, as it were, God’s body.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says that the Maker does not think or make what is bad or base;
+    such things are described as passions accompanying the making process.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Rust with brass and filth with body are used as analogies for accompaniments
+    not made by the brass-smith or begetters; the passage similarly says God does
+    not make evil.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Continuance in the state of being made is said to cause things to lose their
+    bloom, and God is said to have made change as a cleansing of genesis.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A painter is said to be able to make heaven, gods, earth, sea, humans, animals,
+    lifeless things, and trees; this is used to ask why God should not make all things.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Those who worship and praise God but do not ascribe the making of all things
+    to Him are said not to know God and to commit impiety by attributing passion,
+    arrogance, or impotence to Him.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: God is said to have one passion only, Good, and the Good is said to have all
+    power of making all.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: God / the Maker
+  description: The making God, described as the leader, the Maker of all things, and
+    the Good with all power of making all.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: that which is being made / things made
+  description: Whatever is being made; described as the follower in relation to the
+    making God.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: painter man
+  description: A human painter invoked as an analogy for the ability to make many
+    kinds of things.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: brass-smith
+  description: A human craftsperson used in the analogy that rust accompanies brass
+    but is not made by the brass-smith.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: begetters of the body
+  description: Those who beget a body; used in the analogy that filth accompanies
+    body but is not made by its begetters.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: mistaken worshippers
+  description: People who say they worship and praise God but do not ascribe the making
+    of all things to Him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: maker and leader
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the making God with “that which leadeth.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: made and follower
+  assigned_to:
+  - fig:2
+  basis: Whatever is being made is identified with “that which followeth.”
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Good and all-powerful maker
+  assigned_to:
+  - fig:1
+  basis: God is called the Good, and the Good is said to have all power of making
+    all.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: human maker analogue
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Painter, brass-smith, and begetters are used as human analogies for making
+    or generation and their accompaniments.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: impious denier of divine all-making
+  assigned_to:
+  - fig:6
+  basis: Those who do not ascribe the making of all things to God are said not to
+    know God and to attribute improper qualities to Him.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: rust accompanying brass
+  literal_form: rust with brass
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: filth accompanying body
+  literal_form: filth with body
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: change as cleansing of genesis
+  literal_form: change described as making clean of genesis
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: God’s body as making all things
+  literal_form: the making of all things described as, as it were, God’s Body
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: painter’s total image-world
+  literal_form: heaven, gods, earth, sea, humans, animals, lifeless things, and trees
+    made by one painter
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Maker and made united as leader and follower
+  summary: The passage presents maker and made as mutually necessary terms, then describes
+    them as a union in which the making God leads and what is made follows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Evil and impurity as accompaniments of making
+  summary: The passage denies that God makes evil, using rust with brass and filth
+    with body as analogies for conditions that accompany a process without being made
+    by the maker.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Pious denial corrected by painter analogy
+  summary: A painter’s ability to make many kinds of images is used to argue that
+    God can make all things; those who deny this are described as lacking knowledge
+    of God, while God is identified with the Good.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: maker and made as paired principles
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly frames all things as two terms, maker and made, united
+    as leader and follower.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a philosophical-theological dual pairing rather than a narrative
+    pair of mythic characters.
+- id: motif:2
+  label: knowledge of God through recognition of divine all-making
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says those who do not ascribe all-making to God lack knowledge
+    of God, while God is the Good with power to make all.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The motif appears as doctrinal instruction, not as a quest or initiation
+    episode.
+- id: motif:3
+  label: impurity or decay as by-product of generation cleansed by change
+  taxonomy_refs: []
+  basis: Rust, filth, and loss of bloom are presented as accompaniments of the making
+    process or of continuance in being made, while change is described as cleansing
+    genesis.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage uses analogy and metaphysical argument; it does not describe
+    a ritual purification or explicit death-and-rebirth cycle.
+- id: motif:4
+  label: human craftsmanship as analogy for divine creation
+  taxonomy_refs: []
+  basis: The painter’s ability to make a wide variety of images is used to support
+    the claim that God makes all things.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is argumentative and analogical rather than a mythic creation
+    narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11172-11187
+  quote_or_summary: Maker and made are described as mutually dependent; all things
+    are two, “that which is being made” and “that which makes,” and also one in a
+    union of leader and follower. The making God leads, and what is being made follows.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 11189-11195
+  quote_or_summary: The passage says not to disparage created variety, because God’s
+    glory is to make all things, and the making of all things is described as, as
+    it were, God’s body.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 11197-11212
+  quote_or_summary: The Maker is said not to make what is bad or base. Such things
+    are described as passions accompanying the making process, like rust with brass
+    and filth with body; the brass-smith does not make rust, the body’s begetters
+    do not make filth, and God does not make evil.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 11214-11218
+  quote_or_summary: Continuance in the state of being made is said to cause loss of
+    bloom; God is said to have made change as a cleansing of genesis.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 11220-11227
+  quote_or_summary: A painter is said to be able to make heaven, gods, earth, sea,
+    humans, animals, lifeless things, and trees; the passage asks whether it is impossible
+    for God to make all things and calls denial a lack of understanding and knowledge
+    of God.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 11229-11239
+  quote_or_summary: Those who say they worship and praise God but do not ascribe the
+    making of all things to Him are said not to know God and to be guilty of impiety
+    by attributing passions, arrogance, or impotence to Him.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 11241-11245
+  quote_or_summary: God is said to have one passion only, Good; the Good is neither
+    arrogant nor impotent and has all power of making all.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are cautious
+    because the passage is philosophical and doctrinal rather than narrative. No external
+    comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs were applied; mentioned trees and sea are part of a painter analogy and are not treated as sacred tree or water symbols in this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l11170-l11248
+  passage_sha256=801da0052dc6aee1b6af3f95b43d4c82cd28747f5a32a7a94d5c1da6cfae55ff
+

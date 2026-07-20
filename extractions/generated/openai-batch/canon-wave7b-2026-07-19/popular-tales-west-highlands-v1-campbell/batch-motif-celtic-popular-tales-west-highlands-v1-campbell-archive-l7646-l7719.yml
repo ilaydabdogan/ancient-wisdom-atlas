@@ -1,0 +1,520 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l7646-l7719
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: THE TALE OF THE HOODIE. 71 / THE SEA-MAIDEN. 75 / THE SEA-MAIDEN. 77 / THE
+    SEA-MAIDEN. 79; lines 7646-7719
+  start: '7646'
+  end: '7719'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A General or officer claims credit for severed heads of a loch beast while
+    the true rescuer, a lad associated with a black horse, repeatedly comes to the
+    king's daughter, is awakened by her earrings, fights the beast, and fastens its
+    heads on a withy. When the General is to marry the king's daughter, she requires
+    that the groom be able to remove the heads from the withy without cutting it,
+    and the General cannot do so.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The General threatens the woman to say that he took the beast's head, and
+    the return to the king's house is greeted with rejoicing because the king's daughter
+    is alive and the beast's head is displayed.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the loch, the fearful Uile Bheist stirs in the water; the apparent hero
+    slinks away, and the man of the black horse arrives in another dress, though the
+    king's daughter recognizes him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The lad tells the king's daughter to rouse him by placing her earring in his
+    ear; when she does this, he wakes at once.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The lad fights the beast, cuts off another head near nightfall, puts it on
+    the withy, and leaves on the black horse while the king's daughter goes home with
+    the heads.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The General takes the heads from the king's daughter and tells her to say
+    that he removed the beast's head this time also.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: On the next day, the officer hides, the hero of the black horse comes, the
+    king's daughter wakes him with another earring, and he cuts off the beast's third
+    head after a struggle.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A wedding with the General is expected, but the king's daughter says she will
+    marry only the one who can remove the heads from the withy without cutting it;
+    the General tries and cannot loosen them.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: king's daughter
+  description: The royal daughter who survives the beast episodes, goes to the bank
+    of the loch, recognizes the man of the black horse, wakes him with earrings, carries
+    the heads home, and sets the marriage condition involving the withy.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: General / great captain / officer
+  description: The man who claims or takes credit for the beast's heads, threatens
+    or pressures the king's daughter to confirm his claim, hides when the beast appears,
+    is expected to marry the king's daughter, and cannot loosen the heads from the
+    withy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: man of the black horse / lad / hero
+  description: The rescuer who arrives on a black horse, appears in another dress,
+    is recognized by the king's daughter, is awakened by her earrings, fights the
+    loch beast, cuts off its heads, fastens them on the withy, and returns to herding.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: fearful Uile Bheist / beast
+  description: A fearful beast in the midst of the loch that steams, splutters, splashes,
+    raves, and roars during combat and has multiple heads cut off.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: king
+  description: The ruler whose house receives the returning party and who says that
+    the person who put the heads on the withy should be the one to take them off.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: priest
+  description: The priest arrives while the wedding is going on and people in the
+    castle are waiting for him.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: beast-slaying rescuer
+  assigned_to:
+  - fig:3
+  basis: He goes to meet the beast and cuts off its second and third heads.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:2
+  label: rescued royal daughter and witness
+  assigned_to:
+  - fig:1
+  basis: She returns alive to the king's house, witnesses the rescuer's actions at
+    the loch, and carries the heads home.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:3
+  label: false claimant and coercer
+  assigned_to:
+  - fig:2
+  basis: He takes or displays the heads and tells the king's daughter she must say
+    that he removed them, although he hides when the beast appears.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:4
+  label: loch monster adversary
+  assigned_to:
+  - fig:4
+  basis: The beast stirs and steams in the loch and is fought by the lad.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:5
+  label: marriage-condition setter
+  assigned_to:
+  - fig:1
+  basis: She says she will marry only the one who can remove the heads from the withy
+    without cutting it.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: royal judge or father
+  assigned_to:
+  - fig:5
+  basis: The king receives the parties at his house and comments that the man who
+    put the heads on the withy should remove them.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:7
+  label: holder of the decisive proof
+  assigned_to:
+  - fig:3
+  basis: The king's statement links the ability to remove the heads from the withy
+    to the person who put them there, which the passage identifies as the lad.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:8
+  label: wedding officiant
+  assigned_to:
+  - fig:6
+  basis: The wedding party waits for the priest, and he comes before the king's daughter's
+    condition is stated.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: loch water
+  literal_form: The loch, including its bank and midst, where the Uile Bheist appears
+    and is fought.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: black horse
+  literal_form: The black horse on which the lad arrives and later departs.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: earrings used for waking
+  literal_form: The king's daughter's earrings, placed in the lad's ears to wake him
+    before combat.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: withy holding the heads
+  literal_form: A withy through which the beast's heads are drawn or on which they
+    are placed, later used in the test of removal without cutting.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: severed beast heads
+  literal_form: The bloody severed heads of the beast, carried to the king's house
+    and used in the final test.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: great sword
+  literal_form: The great sword the king's daughter expects the lad to handle against
+    the beast.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Return with the first claimed head
+  summary: The General compels the king's daughter to affirm that he removed the beast's
+    head, and the king's house rejoices at her safe return and the displayed head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Second approach at the loch
+  summary: At the loch, the Uile Bheist stirs; the apparent hero withdraws, and the
+    man of the black horse arrives in another dress and is recognized by the king's
+    daughter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Second combat and second false claim
+  summary: The king's daughter wakes the sleeping lad with her earring, he fights
+    the beast, cuts off another head, places it on the withy, and the General then
+    takes the heads and claims credit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Third combat at the loch
+  summary: The officer hides while the king's daughter goes to the loch; the hero
+    of the black horse is awakened with another earring and cuts off the beast's third
+    head after a difficult struggle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Wedding test with the withy
+  summary: The General is expected to marry the king's daughter, but she requires
+    the groom to remove the heads from the withy without cutting it; the king comments
+    on the logic of the test, and the General fails.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Aquatic monster threatens a royal daughter
+  taxonomy_refs: []
+  basis: The fearful Uile Bheist appears in the midst of the loch, and the passage
+    frames the action as saving the king's daughter.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The beast is not identified as a serpent or dragon in this passage, so
+    serpent taxonomy is not applied.
+- id: motif:2
+  label: Repeated monster combat culminating in severed heads
+  taxonomy_refs: []
+  basis: The hero fights the beast on successive days and cuts off another head and
+    then the third head, each associated with the withy and return to the king's house.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage begins after an earlier head has already been taken, so the
+    first combat is only indirectly represented here.
+- id: motif:3
+  label: False claimant takes credit for monster-slaying
+  taxonomy_refs: []
+  basis: The General takes or displays the beast heads and pressures the king's daughter
+    to say that he was the slayer, while he hides when danger appears.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not show the final exposure of the false claim beyond
+    his inability to loosen the heads.
+- id: motif:4
+  label: Recognition test by proof-tokens
+  taxonomy_refs: []
+  basis: The king's daughter will marry only the one able to remove the heads from
+    the withy without cutting it, and the General cannot do so; the test points to
+    the person who put the heads there.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage ends before the true hero attempts the test, so the completed
+    recognition scene is not included in this excerpt.
+- id: motif:5
+  label: Wake-up token before combat
+  taxonomy_refs: []
+  basis: The lad can only be roused by placing the king's daughter's earring in his
+    ear, and the same kind of waking action precedes the next combat.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explain whether the earring has magical properties
+    or functions as a conventional signal.
+- id: motif:6
+  label: Concealed rescuer in altered dress
+  taxonomy_refs: []
+  basis: The man of the black horse arrives wearing another dress, yet the king's
+    daughter knows he is the same lad.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage says the clothing differs but does not state a full disguise
+    or transformation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7648-7657
+  quote_or_summary: The General threatens the woman to say that he took the beast's
+    head; they return to the king's house with the head, and there is rejoicing at
+    the king's daughter's safe return.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 7659-7669
+  quote_or_summary: At the same place, the fearful Uile Bheist stirs in the middle
+    of the loch; the expected hero slinks away, and the man of the black horse comes
+    in another dress, recognized by the king's daughter.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 7671-7678
+  quote_or_summary: The lad tells the king's daughter to rouse him by putting her
+    earring in his ear; after she does so, he wakes at once and goes to meet the beast.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 7679-7685
+  quote_or_summary: The lad fights the noisy, splashing beast, cuts off another head
+    near nightfall, puts it on the withy, rides away on the black horse, and the king's
+    daughter goes home with the heads.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 7686-7695
+  quote_or_summary: The General meets the king's daughter, takes the heads from her,
+    and tells her to say that he took the head off the beast; the king's house rejoices
+    and expects the remaining head to be removed next day.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 7697-7707
+  quote_or_summary: The next day the officer hides; the king's daughter goes to the
+    loch bank, the hero of the black horse comes, she wakes him with another earring,
+    and he cuts off the beast's third head and draws it through the withy.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 7708-7719
+  quote_or_summary: At the king's house the General is to marry the king's daughter,
+    but she will marry only one who can remove the heads from the withy without cutting
+    it; the king says the one who put them on should remove them, and the General
+    cannot loosen them.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports the literal sequence of loch-beast combat, false
+    credit, and the withy test. Motif labels are descriptive and not tied to external
+    catalog identifiers. No explicit intertextual comparison is made in the passage,
+    so comparison claims are left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are applied only where directly supported; the loch is mapped to the available water symbol.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l7646-l7719
+  passage_sha256=b2cfdb68f11aaf3d46f807285d9b7551adc2b2310e33ec4af44d084a16c1f3ee
+

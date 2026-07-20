@@ -1,0 +1,483 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v3-grimm-stallybrass-archive-l13646-l13688
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+passage_locator:
+  label: SNEEZING.     EAES,  EYES,  NOSE.     LOVER.  1117 / SUPEESTITION. / BOY  OE  G-IKL  ?     SHOES.     SALT.     AN-GANG-.  1119
+    / SUPEKSTITION.; lines 13646-13688
+  start: '13646'
+  end: '13688'
+  translation: Teutonic Mythology, Volume 3
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage assembles classical and medieval testimonies about superstition
+    and auspices: people are said to take omens from birds, chance encounters, voices,
+    objects carried by others, threshold mishaps, the direction and cries of birds,
+    animals met on the road, insects, a spider’s thread, and certain encountered persons.'
+  language: English with Greek and Latin citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Xenophon citation is used to introduce practices in which birds and people
+    met by chance may turn someone away or urge them on, and in which stones, wood,
+    and chance animals are treated with reverence.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A passage attributed to St. Eligius forbids observing what occurs when one
+    exits or enters a house, including what meets the person, a responding voice,
+    a bird’s song, or what someone is carrying.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Gregory of Tours is cited for a traveller who, according to a stated barbarian
+    custom, began attending to auspices and declared them contrary to himself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: John of Salisbury is cited for the rule that if someone steps on the threshold
+    while going out or stumbles on the road, the foot should be held back.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: John of Salisbury says birds called ominales announce hidden future things,
+    and that the position, flight, silence, cries, and direction of the crow-like
+    bird should be carefully observed.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The raven is said to give auspices for greater matters, the swan is described
+    as very pleasing in auguries to sailors, and the albanellus bird’s movement from
+    left to right or the reverse is tied to the expected quality of lodging.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: 'The passage lists road encounters with animals as differently valued: the
+    hare is to be feared, the wolf welcomed, sheep met gladly, the goat avoided, oxen
+    met favorably, the mule inauspicious, the ass useless, and the horse sometimes
+    good but associated with quarrels and fighting.'
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: 'The passage assigns effects to smaller creatures and human encounters: the
+    locust hinders travellers, the cicada advances the wayfarer’s step, a spider drawing
+    a thread from above seems to bring hope of coming money, a priest or other religious
+    person is called inauspicious, and an uncovered-headed woman is considered unlucky
+    unless public.'
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: person leaving, entering, or travelling
+  description: A human subject who exits or enters a house, goes on a journey, crosses
+    a threshold, or proceeds along a road while omens may be observed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: omen birds
+  description: Birds whose song, flight, position, or direction is treated as announcing
+    or indicating future events.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: crow-like bird / cornix
+  description: A bird whose speech, sitting or flying position, side, silence or noise,
+    preceding or following, waiting or fleeing, and departure direction are to be
+    observed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: raven / corvus
+  description: A bird said to give auspices for greater matters and to outweigh the
+    cornix.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: swan
+  description: A bird described as very pleasing in auguries to sailors because of
+    its familiarity with waters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: albanellus bird
+  description: A bird whose flight from left to right is associated with cheerful
+    lodging, while the contrary direction is associated with the contrary expectation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: road-encounter animals
+  description: Hare, wolf, sheep, goat, oxen, mule, ass, and horse are listed as beings
+    met on the road and assigned favorable, unfavorable, or mixed indications.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: locust, cicada, and spider
+  description: A locust, cicada, and spider are listed with effects on travel or expectations
+    of money.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: encountered religious person or uncovered-headed woman
+  description: A priest or other religious person is said to be inauspicious, and
+    an uncovered-headed woman is considered unlucky unless public.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: omen observer or affected traveller
+  assigned_to:
+  - fig:1
+  basis: The cited rules concern a person entering or exiting a house, setting out,
+    travelling, stumbling, or proceeding on the road while signs are observed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:2
+  label: nonhuman omen-bearer
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: Birds, animals, insects, and a spider are presented as bearers of favorable,
+    unfavorable, or predictive signs.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: human encounter as omen-bearer
+  assigned_to:
+  - fig:9
+  basis: The cited catalogue treats encountering a priest, another religious person,
+    or an uncovered-headed woman as inauspicious or unlucky.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: threshold
+  literal_form: house threshold or limen crossed while going out
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: left and right direction
+  literal_form: bird flight from left to right or the reverse
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: bird song, call, and flight
+  literal_form: bird song, cries, silence, sitting, flying, preceding, following,
+    waiting, fleeing, or departing
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: road encounter
+  literal_form: animals or persons met by a traveller on the way
+  associated_figures:
+  - fig:1
+  - fig:7
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: spider thread
+  literal_form: a spider drawing a thread from above
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: water
+  literal_form: waters with which the swan is said to be familiar
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: general ancient examples of omens and reverence for chance objects
+  summary: The opening citations introduce practices in which birds, people met by
+    chance, stones, wood, and chance animals can influence conduct or receive reverence.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: departure and entry observations forbidden
+  summary: A medieval prohibition warns against observing what meets a person leaving
+    or entering a house, including voices, bird songs, and what another person carries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: traveller reads contrary auspices
+  summary: A traveller is described as attending to auspices during a journey and
+    declaring the signs contrary to him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: John of Salisbury’s catalogue of journey omens
+  summary: A catalogue connects threshold mishaps, bird behavior, animal encounters,
+    insects, a spider’s thread, and certain people met on the road with predictions
+    or good and bad outcomes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: omens at departure, entry, and on the road
+  taxonomy_refs: []
+  basis: Multiple citations concern observing what happens when leaving or entering
+    a house, travelling, crossing a threshold, or meeting beings on the road.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is an antiquarian compilation of superstitions, not a narrative
+    myth episode.
+- id: motif:2
+  label: bird augury announcing hidden future things
+  taxonomy_refs: []
+  basis: Birds are said to turn or urge action, bird song is observed, and John of
+    Salisbury says ominal birds announce hidden future things; crow-like birds, ravens,
+    swans, and albanellus birds are given specific augural functions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The exact species behind some Latin bird names is not fully established
+    in the excerpt.
+- id: motif:3
+  label: directional omen from left and right movement
+  taxonomy_refs: []
+  basis: The albanellus bird’s left-to-right flight is connected with cheerful lodging,
+    while the opposite direction predicts the contrary.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is recorded as a superstition in a cited medieval catalogue.
+- id: motif:4
+  label: animal encounter as favorable or unfavorable sign
+  taxonomy_refs: []
+  basis: The passage assigns positive, negative, or mixed meanings to encounters with
+    hare, wolf, sheep, goat, oxen, mule, ass, and horse.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The list is descriptive and does not explain why each animal carries its
+    value.
+- id: motif:5
+  label: spider thread as sign of coming money
+  taxonomy_refs: []
+  basis: A spider drawing a thread from above is said to seem to bring hope of future
+    money.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage reports the association without broader context.
+- id: motif:6
+  label: inauspicious human encounter on the road
+  taxonomy_refs: []
+  basis: A priest or other religious person is said to be inauspicious, and an uncovered-headed
+    woman is considered unlucky unless public.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The social categories and exception are reported in the cited catalogue
+    without interpretation.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a cautious functional comparison between classical
+    and medieval omen practices: in both sets of cited material, birds or chance encounters
+    can direct, deter, or forecast human action.'
+  claim_level: same_function
+  target: classical auspices and medieval European departure or journey omens
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt juxtaposes sources but does not establish historical transmission,
+    common inheritance, or a specifically Germanic origin.
+- id: claim:2
+  claim: The St. Eligius prohibition and John of Salisbury’s catalogue share the pattern
+    of treating events at departure, entry, or travel as signs to be read.
+  claim_level: same_motif
+  target: medieval departure and road-encounter omen pattern
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The sources are cited in an antiquarian discussion; the passage does
+    not provide a single local performance context.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13646-13652
+  quote_or_summary: Xenophon is cited for people being turned aside or urged on by
+    birds and those met, and for reverence toward stones, wood, and chance animals.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 13653-13658
+  quote_or_summary: St. Eligius, Sup. A, forbids observing what meets one when exiting
+    or entering a house, including a responding voice, bird song, or what someone
+    carries.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 13658-13661
+  quote_or_summary: Gregory of Tours 7.29 describes a traveller who, as a barbarian
+    custom, began attending to auspices and said they were contrary to him.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 13661-13674
+  quote_or_summary: John of Salisbury says a person who steps on the threshold or
+    stumbles on the road should hold back; ominal birds announce hidden future things,
+    and the cornix’s call, position, side, and movement must be observed.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 13674-13681
+  quote_or_summary: John of Salisbury assigns major auspices to the raven, favorable
+    augury for sailors to the swan, and lodging predictions to the albanellus bird
+    according to its left-right or opposite flight.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 13681-13686
+  quote_or_summary: 'John of Salisbury lists animal encounters: hare feared, wolf
+    welcomed, sheep favorable, goat avoided, oxen favorable, mule inauspicious, ass
+    useless, and horse sometimes good but associated with quarrels and fighting.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 13686-13688
+  quote_or_summary: The catalogue says a locust hinders travellers, a cicada advances
+    the wayfarer’s step, a spider’s descending thread gives hope of money, and certain
+    human encounters are inauspicious or unlucky.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is a clear catalogue of cited superstitions and auspices. Comparisons
+    are limited to functional similarities explicitly supported by the juxtaposed
+    citations; no historical-contact claim is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported mythology taxonomy motif IDs were assigned; only the literal water symbol was mapped to an available symbol taxonomy reference.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v3-grimm-stallybrass-archive__l13646-l13688
+  passage_sha256=d8310d7fcbaa79132e76e2cce33a3825dd95d2e215b4ebccbb1313addbdfdd63
+

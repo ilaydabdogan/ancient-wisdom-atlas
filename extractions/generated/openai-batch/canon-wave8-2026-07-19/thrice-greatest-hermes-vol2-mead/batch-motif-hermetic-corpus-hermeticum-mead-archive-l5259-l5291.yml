@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l5259-l5291
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: IN GOB ALONE IS GOOD 119 / COEPUS HEEMETIOUM VII. (VIIL) / THE GREATEST ILL
+    AMONG MEN / IS IGNORANCE OF GOD; lines 5259-5291
+  start: '5259'
+  end: '5291'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: THE GREATEST ILL AMONG MEN / IS IGNORANCE OF GOD
+  summary: The passage addresses people as intoxicated by ignorance, urges sobriety
+    and upward vision with the eyes of the heart, describes ignorance as flooding
+    the earth and trapping the soul within the body, and counsels those able to reach
+    Salvation's port and seek a guide to lead them to the gates of Gnosis.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The title identifies ignorance of God as the greatest ill among men.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressees are called sots who have drunk unmixed wine of ignorance and
+    cannot carry it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker commands the addressees to stay, be sober, and gaze upward with
+    the true eyes of the heart.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ignorance is described as pouring over all the earth and overwhelming the
+    soul battened down within the body.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The overwhelmed soul is prevented from reaching port within Salvation's harbours.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The addressees are warned not to be carried off by the fierce flood, but to
+    use the shore-current toward Salvation's port.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: At Salvation's port, the addressees are told to seek someone who will take
+    them by the hand and lead them to Gnosis' gates.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: addressees intoxicated by ignorance
+  description: People addressed as sots who have drunk the wine of ignorance and are
+    urged to become sober and seek Salvation's port.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the soul within the body
+  description: A soul battened down within the body and overwhelmed by ignorance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: one who takes by the hand
+  description: An unnamed person sought at Salvation's port to take the addressees
+    by the hand and lead them to Gnosis' gates.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: God
+  description: God is named as the object of the ignorance identified in the title.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ignorant intoxicated ones
+  assigned_to:
+  - fig:1
+  basis: They are called sots who have drunk the wine of ignorance.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: potential seekers of salvation and gnosis
+  assigned_to:
+  - fig:1
+  basis: They are urged to make for Salvation's port and seek someone to lead them
+    to Gnosis' gates.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: embodied and obstructed soul
+  assigned_to:
+  - fig:2
+  basis: The soul is described as battened down within the body and prevented from
+    reaching Salvation's harbours.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: hand-leading guide
+  assigned_to:
+  - fig:3
+  basis: The unnamed figure takes the seekers by the hand and leads them to Gnosis'
+    gates.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: object of knowledge denied by ignorance
+  assigned_to:
+  - fig:4
+  basis: The title names ignorance of God as the greatest ill among men.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: wine of ignorance
+  literal_form: unmixed wine drunk by the addressees
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: true eyes of the heart
+  literal_form: eyes of the heart used for upward gazing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: flood of ignorance
+  literal_form: fierce flood and ignorance pouring over the earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Salvation's harbours and port
+  literal_form: harbours and port of Salvation
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: shore-current
+  literal_form: shore-current, glossed as back or up-current
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: Gnosis' gates
+  literal_form: gates of Gnosis reached with the help of a guide
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: body as confinement
+  literal_form: body in which the soul is battened down
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: rebuke of intoxication by ignorance
+  summary: The speaker addresses the hearers as sots who have drunk unmixed wine of
+    ignorance and are already spewing it forth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: command to sober upward vision
+  summary: The speaker urges the hearers to be sober and gaze upward with the true
+    eyes of the heart, at least those who can.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: ignorance overwhelms the embodied soul
+  summary: Ignorance pours over the earth, overwhelms the soul confined in the body,
+    and prevents arrival at Salvation's harbours.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: navigation to Salvation and Gnosis
+  summary: The hearers are told not to be carried off by the flood, but to use the
+    shore-current, reach Salvation's port, and seek a hand-leading guide to Gnosis'
+    gates.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ignorance as intoxication
+  taxonomy_refs: []
+  basis: Ignorance is cast as unmixed wine that the addressees have drunk to excess.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level image rather than a named taxonomy motif in the
+    supplied list.
+- id: motif:2
+  label: ignorance as overwhelming flood
+  taxonomy_refs: []
+  basis: Ignorance pours over the earth and the hearers are warned not to be carried
+    off by the fierce flood.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The flood is figurative within the exhortation; the passage does not narrate
+    a literal deluge.
+- id: motif:3
+  label: guided quest to gnosis and salvation
+  taxonomy_refs:
+  - wisdom
+  - mystical_quest
+  - initiation
+  basis: The hearers are instructed to reach Salvation's port and find someone who
+    will take them by the hand and lead them to Gnosis' gates.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives an exhortative image of guidance to Gnosis, not a fully
+    narrated initiation ritual.
+- id: motif:4
+  label: upward inner vision
+  taxonomy_refs:
+  - ascent
+  - wisdom
+  basis: The addressees are told to gaze upward with the true eyes of the heart.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The upward gaze suggests an ascent-oriented wisdom image, but no actual
+    journey upward is narrated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5261-5263
+  quote_or_summary: '"THE GREATEST ILL AMONG MEN / IS IGNORANCE OF GOD"'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 5267-5269
+  quote_or_summary: '"Whither stumble ye, sots, who have sopped / up the wine of ignorance
+    unmixed"'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 5271-5273
+  quote_or_summary: '"Stay ye, be sober, gaze upwards with the / [true] eyes of the
+    heart"'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5275-5278
+  quote_or_summary: Ignorance pours over all the earth, overwhelms the soul battened
+    down within the body, and prevents it from reaching Salvation's harbours.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5280-5284
+  quote_or_summary: The hearers are told not to be carried off by the fierce flood,
+    but to use the shore-current, reach Salvation's port, and seek one who will lead
+    them by the hand to Gnosis' gates.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: note
+  locator: line 5286
+  quote_or_summary: Translator's note glosses the shore-current as a back or up-current.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal images and exhortative sequence are clear. Motif-family assignment
+    is cautious because the passage is a short admonition rather than a narrative
+    myth. No comparison claims were made beyond supplied taxonomy tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR spellings in the supplied label and passage were preserved where part of the source metadata; extraction relies only on the provided passage text.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l5259-l5291
+  passage_sha256=5772af0809db631c8b10e9672608571431d741780f7485612bbcd1bb729c1623
+

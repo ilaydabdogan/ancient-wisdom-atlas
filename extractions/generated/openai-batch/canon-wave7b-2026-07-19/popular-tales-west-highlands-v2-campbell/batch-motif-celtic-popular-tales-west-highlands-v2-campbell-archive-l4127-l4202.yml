@@ -1,0 +1,614 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l4127-l4202
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE BARRA WIDOW'S SON. 131 / SGEULACHD BAX-RIGH. 143 / ARAID. / THE SICK
+    QUEEN. 145; lines 4127-4202
+  start: '4127'
+  end: '4202'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage comments on a frog/toad tale and its Gaelic frog-speech sounds,
+    then surveys holy healing wells, offerings left at wells, circumambulation customs,
+    Celtic fountain or river worship, and a speculative connection between water divinities
+    and a toad-princess tale. It closes by introducing a Gaelic story meant to explain
+    gifts left after drinking from a well.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The frog speech in the version is described as an imitation of the gurgling
+    and quarking sounds of spring frogs in a pond.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes frogs resuming a pond chorus after disturbance, beginning
+    with isolated sounds and building into a full chorus again.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Holy healing wells are said to be common throughout the Highlands, and people
+    are said to leave pins, nails, and bits of rag there.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator says he drank at the Witches' Well in Islay and deposited copper
+    caps among pins, buttons, and similar objects placed in rocks and trees at the
+    edge of the well.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A well on an island in Loch Maree is described as having similar freshly placed
+    offerings beside it.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A Black Isle well near Rosehaugh is described as having miraculous healing
+    powers, with crowds bathing or drinking there before sunrise on the first Tuesday
+    in June.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Patients at the Black Isle well are described as tying a string or rag to
+    an overhanging tree before leaving; the well is said to be sovereign for headaches.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Martin is cited for a Hebridean custom of walking south-about around a well.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Betham is cited as saying that the Celtai worshipped fountains and rivers
+    as divinities and had a deity called Divona, or the river god.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A passage from the Book of Armagh is cited in which Magi honoured a fountain
+    at Finn Malge, also called Slane, and made donations or sacrifices to it as gifts
+    to a god.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: Betham is reported as tracing well veneration in Ireland back to remote ages
+    and eastward regions, and as noting rag-hanging on trees near wells.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: The passage speculates that Divona, the river god, or Baal may have degenerated
+    into a toad, and that the princess who married him may once have been a Celtic
+    divinity.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: The following story is introduced as bearing on the same subject and as possibly
+    explaining why gifts were left when a drink was taken from a well; it was told
+    in Gaelic under shelter of a big stone while waiting for ducks on the shore.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: spring frogs in a pond
+  description: Frogs whose gurgling, quarking, and repeated chorus are used to explain
+    the tale's frog speech.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: well visitors and patients
+  description: People who drink, bathe, leave offerings, and tie strings or rags at
+    healing wells.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: narrator at the Witches' Well
+  description: The narrator who says he drank at the Islay well and deposited copper
+    caps among other offerings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: St. Patrick
+  description: Figure cited from the Book of Armagh as coming to Finn Malge, called
+    Slane, because the Magi honoured the fountain there.
+  role_refs: []
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Magi at the fountain
+  description: Figures in the cited Book of Armagh passage who honoured a fountain
+    and made donations or sacrifices to it as gifts to a god.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Divona, river god, or Baal
+  description: A water divinity or divinity-name discussed in connection with fountain
+    and river worship and speculatively connected with a toad figure.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: princess who married him
+  description: A princess mentioned in the passage's speculative account of a toad-marriage
+    tale surviving in Germany and Scotland.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: healing-well visitor or patient
+  assigned_to:
+  - fig:2
+  basis: People are described as bathing or drinking at healing wells, including before
+    sunrise at the Black Isle well.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: votive donor at well
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Visitors leave pins, nails, rags, strings, copper caps, buttons, and similar
+    offerings at wells.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: fountain worshipper and donor
+  assigned_to:
+  - fig:5
+  basis: The Magi are said to have honoured the fountain and made donations or sacrifices
+    to it as gifts to a god.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: water or fountain deity
+  assigned_to:
+  - fig:6
+  basis: Betham is cited for Celtic worship of fountains and rivers as divinities
+    and for a deity called Divona, or the river god.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: imitated animal voice
+  assigned_to:
+  - fig:1
+  basis: The frog speech is described as imitating gurgling and quarking spring frogs.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: speculative toad form of deity
+  assigned_to:
+  - fig:6
+  basis: The passage speculates that Divona, the river god, or Baal may have degenerated
+    into a toad.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: princess spouse in toad tale
+  assigned_to:
+  - fig:7
+  basis: The princess is described as having married the toad-like figure in the passage's
+    speculative account.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: sacred healing water
+  literal_form: holy healing wells, fountains, rivers, and named wells
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: votive offerings at water
+  literal_form: pins, nails, bits of rag, copper caps, buttons, strings, and gifts
+    to a fountain
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:10
+- id: sym:3
+  label: well-side trees
+  literal_form: trees at the edge of wells and overhanging trees to which strings
+    or rags are tied
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+- id: sym:4
+  label: frog or toad
+  literal_form: spring frogs in a pond and a toad into which a water deity may have
+    degenerated
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: sym:5
+  label: south-about circuit
+  literal_form: walking south about round the well
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: ritual time before sunrise
+  literal_form: first Tuesday in June before sunrise
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Frog-speech and pond chorus
+  summary: The passage explains the tale's frog speech by comparing it with the gurgling,
+    quarking, and persistent chorus of spring frogs in a pond.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Offerings at Highland healing wells
+  summary: Healing wells in the Highlands are described as places where people leave
+    small objects and rags; the narrator gives examples from Islay and Loch Maree.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Black Isle healing well ritual
+  summary: At a well near Rosehaugh, crowds are described as bathing or drinking before
+    sunrise on the first Tuesday in June and tying strings or rags to overhanging
+    trees before leaving.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hebridean south-about well circuit
+  summary: A Hebridean well custom is summarized as walking south-about around the
+    well.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Magi honouring the Slane fountain
+  summary: In a cited Book of Armagh passage, St. Patrick comes to Finn Malge, called
+    Slane, where Magi honoured a fountain and gave sacrifices or donations to it as
+    to a god.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+- id: scene:6
+  label: Water deity and toad-princess speculation
+  summary: The passage speculates that a river or fountain deity such as Divona or
+    Baal may have become a toad figure, and that a princess married to him may preserve
+    a former Celtic divine figure in popular tale form.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:9
+- id: scene:7
+  label: Framing of an explanatory Gaelic story
+  summary: A subsequent Gaelic story is introduced as potentially explaining why gifts
+    were left after drinking from a well, with its telling located under a large stone
+    on the shore while waiting for ducks.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Healing well with votive offering
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage repeatedly links wells or fountains with healing, drinking or
+    bathing, and the leaving of gifts such as pins, rags, strings, copper caps, buttons,
+    and donations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  - ev:10
+  confidence: high
+  cautions: The passage is editorial commentary and antiquarian comparison rather
+    than a complete tale episode.
+- id: motif:2
+  label: Sacred water as divinity
+  taxonomy_refs: []
+  basis: The passage cites fountain and river worship, a deity called Divona or river
+    god, and a fountain honoured with gifts as to a god.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The evidence is presented through cited antiquarian sources rather than
+    through a single narrative action.
+- id: motif:3
+  label: Ritual circumambulation of a well
+  taxonomy_refs: []
+  basis: Martin is cited for a Hebridean custom of walking south-about round a well.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only a brief custom notice is given, without a full ritual context.
+- id: motif:4
+  label: Animal or toad spouse as degraded water deity
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The passage speculates that Divona, the river god, or Baal may have degenerated
+    into a toad, and that a princess who married him may once have been a Celtic divinity.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: The wording is explicitly speculative and the full tale plot is not included
+    in this passage.
+- id: motif:5
+  label: Explanatory legend for well offerings
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage introduces the following Gaelic story as bearing on well worship
+    and as possibly explaining why gifts were left when a drink was taken from a well.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The actual explanatory story lies outside the supplied passage range.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the frog/toad tale tradition with Scottish and German
+    attestations, noting broad Scots currency, a trace to 1548, and Grimm's statement
+    about its antiquity in Germany.
+  claim_level: same_motif
+  target: frog/toad-princess tale in Scottish and German traditions
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only editorial comparison, not full parallel tale
+    texts or plot details.
+- id: claim:2
+  claim: The passage presents Highland, Loch Maree, Black Isle, and Irish or wider
+    examples as sharing the same functional pattern of sacred or healing wells receiving
+    small offerings or rags.
+  claim_level: same_function
+  target: well and fountain veneration with votive offerings across Scottish, Irish,
+    and wider examples
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Some examples are first-hand, while others are reported through informants
+    or cited antiquarian sources.
+- id: claim:3
+  claim: The cited Book of Armagh passage and Betham quotation connect Celtic fountain
+    or river worship with divinity and gifts offered to water as to a god.
+  claim_level: same_function
+  target: Celtic sacred fountain and river worship
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage depends on quoted secondary or manuscript-derived material
+    and does not provide the larger historical context.
+- id: claim:4
+  claim: The passage reports Betham's diffusion-like tracing of well veneration from
+    Ireland back to remote ages and eastward regions where rags are hung on trees
+    near wells.
+  claim_level: historical_contact
+  target: eastern and Irish well-veneration practices involving rags on trees near
+    wells
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is presented as Betham's tracing and is not independently demonstrated
+    in the supplied passage.
+- id: claim:5
+  claim: The passage speculates that a water divinity such as Divona or Baal may underlie
+    a toad-princess popular tale surviving in Germany and Scotland.
+  claim_level: archetypal_reading
+  target: water deity interpreted as animal spouse in a toad or frog-princess tale
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The claim is marked by the source's own tentative language and lacks
+    the complete tale episode in the supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4127-4202, frog-speech commentary
+  quote_or_summary: The frog speech is said to imitate the gurgling and quarking of
+    spring frogs in a pond, including their persistent restarting chorus after disturbance.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 4127-4202, paragraph beginning 'Holy healing wells'
+  quote_or_summary: '"Holy healing wells are common all over the Highlands" and people
+    leave "offerings of pins and nails, and bits of rag."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 4127-4202, Islay and Loch Maree well examples
+  quote_or_summary: The narrator describes depositing copper caps after drinking at
+    the Witches' Well in Islay, among pins, buttons, and similar items placed in rocks
+    and trees; a Loch Maree island well has similar fresh offerings.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4127-4202, Black Isle of Cromarty well example
+  quote_or_summary: A well near Rosehaugh is described as miraculously healing; people
+    bathed or drank there before sunrise on the first Tuesday in June, then tied a
+    string or rag to an overhanging tree; it was used for headaches.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4127-4202, Martin well-worship note
+  quote_or_summary: Martin is cited for a Hebridean custom of walking south-about
+    round the well.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 4127-4202, Betham quotation on Celtai
+  quote_or_summary: 'Betham is quoted: "The Celtai were much addicted to the worship
+    of fountains and rivers as divinities" and had a deity called "Divona, or the
+    river god."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 4127-4202, Book of Armagh citation
+  quote_or_summary: A cited Book of Armagh passage says St. Patrick came to Finn Malge,
+    called Slane, because the Magi honoured the fountain and made donations or sacrifices
+    to it as gifts to a god.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4127-4202, Betham comparative tracing paragraph
+  quote_or_summary: Betham is said to explain well veneration in Ireland and trace
+    it back to remote ages and to the East, by way of Spain, Carthage, Egypt, Tyre
+    and Sidon, Arabia, Chaldea, and Persia, where rags are still hung on trees near
+    wells.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 4127-4202, Divona/Baal-toad speculation
+  quote_or_summary: '"Divona, the river god, or Baal, may therefore have degenerated
+    into a toad" and the princess who married him may have been a Celtic divinity
+    surviving in German and Scottish popular tale.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:10
+  type: summary
+  locator: lines 4127-4202, concluding story-introduction paragraph
+  quote_or_summary: The next story is introduced as bearing on the same subject and
+    as possibly explaining why gifts were left when a drink was taken from a well;
+    it was told in Gaelic under shelter of a big stone while waiting for ducks on
+    the shore, with a pun on a lake name.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 4127-4202, opening comparative remarks
+  quote_or_summary: The tale is described as current in Scotland in broad Scots, traceable
+    to 1548, and, according to Grimm, belonging to the oldest in Germany; the version
+    is said to belong clearly to Gaelic because of its frog-speech imitation.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Customs around wells and offerings are explicit. Claims about Divona, Baal,
+    a toad, and a princess are preserved as source speculation and assigned lower
+    confidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The passage is primarily commentary and comparative antiquarian discussion rather than a complete narrative tale.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l4127-l4202
+  passage_sha256=74fd872c079a0df9e16f6bac7bb3eb43a97669f4f46d60e255473b4118faa89f
+

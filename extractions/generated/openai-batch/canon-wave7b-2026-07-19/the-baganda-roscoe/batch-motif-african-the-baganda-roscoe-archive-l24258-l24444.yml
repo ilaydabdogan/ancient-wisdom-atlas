@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l24258-l24444
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: XVII  FOLKLORE  485 / XVII  FOLKLORE  487 / XVII  FOLKLORE  489 / ANTHROPOMETRIC   TABLES;
+    lines 24258-24444
+  start: '24258'
+  end: '24444'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces anthropometric tables and explains that measurements
+    were separated by clan and by sex. It states that clans appear to differ in build
+    or face, relates this to male-line descent and exogamy, gives Oribi/Lungfish and
+    Royalty/Muhima examples, and cautions that the evidence may be insufficient for
+    firm conclusions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Measurements were taken according to directions in “Notes and Queries” published
+    by the Royal Anthropological Institute.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated object was to keep measurements of each clan separate and to distinguish
+    male and female measurements within the same clan.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that every clan appears to differ from every other either
+    in build or in face.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that descent has for generations been traced through males.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that women from clans differing in appearance have been
+    introduced into clans through exogamous marriage.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Oribi Clan is said to have married women from the Lungfish Clan, while
+    Oribi Clan members are described as having finer Roman features and lighter build
+    than Lungfish Clan members.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Royalty are said to retain Muhima features despite royal males marrying women
+    from clans differing from the Muhima type.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage cautions that the evidence may be insufficient to prove the proposed
+    conclusions and recommends future investigation.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: clans
+  description: Collective social units whose measurements are separated and compared
+    in the anthropometric tables.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Oribi Clan
+  description: A clan used as an example; its members are said to have married women
+    from the Lungfish Clan and to have finer Roman features and lighter build than
+    Lungfish Clan members.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Lungfish Clan
+  description: A clan used as a comparison group in the Oribi example.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Royalty
+  description: A group said to retain Muhima features despite marriages with women
+    from clans differing from the Muhima type.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Muhima type
+  description: A physical type or feature set associated with Royalty in the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: measured social group
+  assigned_to:
+  - fig:1
+  basis: Measurements are organized by clan and by sex within clan.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: example group retaining described features
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The Oribi Clan and Royalty are each presented as retaining distinctive features
+    despite marriages with women from other groups.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: comparison group or type
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The Lungfish Clan and Muhima type are used as comparison references for described
+    physical differences or retained features.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Introduction to anthropometric tables
+  summary: The author explains the method and purpose of separating measurements by
+    clan and sex, then proposes that clan features may persist through male descent
+    despite exogamous marriage, while noting that the evidence is not conclusive.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24258-24269
+  quote_or_summary: Measurements are introduced as taken according to Royal Anthropological
+    Institute guidance, with clan measurements kept separate and male/female measurements
+    distinguished within each clan.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 24269-24276
+  quote_or_summary: The passage says each clan appears to differ from others in build
+    or face, making some clan members distinguishable by sight after these traits
+    are noted.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 24276-24283
+  quote_or_summary: The passage links the proposed distinctions to male-line descent
+    over generations and to exogamy, by which women from clans differing in appearance
+    entered each clan.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 24283-24291
+  quote_or_summary: The Oribi Clan example states that Oribi men married women from
+    the Lungfish Clan, while Oribi members are described as having finer Roman features
+    and lighter build than Lungfish members.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 24291-24296
+  quote_or_summary: The passage says Royalty retain Muhima features although royal
+    males married women from clans differing from the Muhima type.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 24296-24300
+  quote_or_summary: The author cautions that the evidence may be insufficient to prove
+    the conclusions and suggests keeping the idea in mind for future investigation.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an anthropometric and ethnographic table introduction rather
+    than a mythic narrative; no supported mythic symbols, candidate motifs, or comparison
+    claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol references were applied because the passage does not support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l24258-l24444
+  passage_sha256=b321204012094ff7e9a9f0dab27c67ae0721addfeb1fcb823de89376a81276cf
+

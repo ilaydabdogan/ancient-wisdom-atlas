@@ -1,0 +1,172 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l35160-l35173
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: DEATH AND BURIAL. / MOURNING. / MOURNING FEASTS. / BURIAL AT THE PRESENT
+    DAY.; lines 35160-35173
+  start: '35160'
+  end: '35173'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes present-day burial practices at Tubetube: graves
+    lie irregularly scattered in a sea-facing area at the northern corner of the island;
+    hamlet burial areas have no obvious visible divisions but are known locally; burial
+    usually occurs on the morning after death, with timing adjusted according to whether
+    death occurs at night or in the morning.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The graves at Tubetube are irregularly scattered over an area facing the sea
+    at the northern corner of the island.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: No obvious divisions are visible between burial areas used by different hamlets.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The different hamlet burial areas are nevertheless known to the local people.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Burial takes place at about 10 a.m. on the morning after death.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If a man dies during the night, he is buried in the morning.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If a man dies during the morning, the body is kept through that day and night
+    and buried the next morning.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: deceased man
+  description: A man whose death determines the timing of burial.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: local people at Tubetube
+  description: People who know which grave areas are used by different hamlets despite
+    the lack of visible divisions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: deceased person to be buried
+  assigned_to:
+  - fig:1
+  basis: The passage describes when a man who dies at night or in the morning would
+    be buried.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: holders of local burial-area knowledge
+  assigned_to:
+  - fig:2
+  basis: The passage states that burial areas for different hamlets were known to
+    the natives although obvious divisions were absent.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Sea-facing burial ground at Tubetube
+  summary: The burial area is described as an irregularly scattered set of graves
+    near the northern corner of the island, facing the sea, with local but not visibly
+    marked hamlet divisions.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Timing of burial after death
+  summary: A death at night is followed by burial the next morning; a death in the
+    morning results in the body being kept until the following morning for burial.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Morning-after-death burial timing
+  taxonomy_refs: []
+  basis: The passage gives a rule-like sequence for burial on the morning after death,
+    varying according to whether death occurs at night or in the morning.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic practice description, not a narrative mythic motif;
+    no broader taxonomy reference is asserted.
+- id: motif:2
+  label: Unmarked but locally known hamlet burial zones
+  taxonomy_refs: []
+  basis: The passage reports that burial areas for different hamlets have no obvious
+    visible divisions but are known to local people.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the social rules or ritual significance behind
+    the burial-area knowledge.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 35160-35165
+  quote_or_summary: "“The graves are irregularly scattered over an area ... which
+    faces the sea at the northern corner of the island.”"
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 35165-35167
+  quote_or_summary: There are no obvious divisions between areas used for burial by
+    different hamlets, though these divisions are known to local people.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 35169-35173
+  quote_or_summary: Burial occurs about 10 a.m. on the morning after death; a night
+    death is buried the next morning, while a morning death is kept until the following
+    morning.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is straightforward for literal burial practice extraction. Motif
+    labeling is limited because the passage is descriptive ethnography rather than
+    myth narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; available taxonomy references were not applied because the passage does not support them directly.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l35160-l35173
+  passage_sha256=5fdc2231d550d480d4efee73580a243074a1af3f1930294a3672e8424c481bdb
+

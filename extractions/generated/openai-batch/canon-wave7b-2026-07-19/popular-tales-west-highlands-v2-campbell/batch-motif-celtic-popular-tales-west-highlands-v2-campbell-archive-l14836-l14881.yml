@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l14836-l14881
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: RIDIRE NA SC4IATHA DEIRGE. 473 / RIDIRE NA SGIATHA DEIRGE. 475 / RIDIRE NA
+    SOIATIIA DKIRGE. 177 / RIDIRE NA SGIATHA DEIRGE. 479; lines 14836-14881
+  start: '14836'
+  end: '14881'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Cruitire ciuil," ors'' eisean, "a'' tarruinn seana chlaidheamh meirgeach..."'
+  summary: A harpist tells another person he is tired and should sleep. The sleeper
+    says he has dreamed of a musical harpist drawing an old rusty sword to take off
+    his head. A speaker refers to blood, sinews, and bones being injured. Plural speakers
+    say they are free of geasa and warn a beloved man to avoid them and the town that
+    day. A formulaic passage follows, and the Warrior of the Red Shield asks a question.
+  language: Scottish Gaelic
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A harpist says the addressee is tired and tells him to come up, put his head
+    on the named support or cushion, and sleep.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The harpist tells the other speaker that he is dreaming; the other speaker
+    confirms this.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The dream report describes a musical harpist drawing an old rusty sword in
+    order to take off the dreamer's head.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A speaker asks who the figure in the dream is.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A speaker says he is sitting there and that blood, sinews, and bones are injured.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Plural speakers state that they are out of their geasa forever.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The plural speakers ask a beloved man to avoid them and the town that day.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A question asks for the reason, and a following formulaic passage mentions
+    treacherous lads, the monks' organ, heroes, feats, and bloody wounding.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: The Warrior of the Red Shield asks, “What like this?” or a similar question
+    in Gaelic.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the harpist / cruitear
+  description: A harpist who speaks to another person, invites him to sleep, and asks
+    about the dream.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: musical harpist in the dream
+  description: A figure reported in the dream as drawing an old rusty sword to take
+    off the dreamer's head.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: unnamed dreamer or addressee
+  description: The person addressed as tired, told to sleep, and then questioned about
+    his dream.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: plural warning speakers
+  description: A group speaking as “we,” saying they are free of geasa and warning
+    the beloved man to avoid them and the town that day.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Gaisgeach na Sgiatha deirge / Warrior of the Red Shield
+  description: The named figure who asks the closing question in the excerpt.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: rest-inviting harpist
+  assigned_to:
+  - fig:1
+  basis: The harpist says the addressee is tired and tells him to put his head down
+    and sleep.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dream-questioner
+  assigned_to:
+  - fig:1
+  basis: The harpist says the other is dreaming and asks what he saw.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dreamed sword-drawer
+  assigned_to:
+  - fig:2
+  basis: The dream report describes a musical harpist drawing an old rusty sword to
+    take off the dreamer's head.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: dreaming reporter
+  assigned_to:
+  - fig:3
+  basis: The addressee confirms he is dreaming and reports what he saw.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: released-from-geasa warning speakers
+  assigned_to:
+  - fig:4
+  basis: They state that they are out of their geasa forever and warn the beloved
+    man to avoid them and the town.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: named questioner
+  assigned_to:
+  - fig:5
+  basis: The closing line identifies Gaisgeach na Sgiatha deirge as asking a question.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sleeping support or cushion
+  literal_form: "“an tulmsaig seo,” the item on which the addressee is told to put
+    his head before sleeping"
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: old rusty sword
+  literal_form: "“seana chlaidheamh meirgeach,” an old rusty sword drawn in the dream"
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: threatened head
+  literal_form: the dreamer's head, which the dreamed harpist intends to take off
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: injured body parts
+  literal_form: blood, sinews, and bones described as injured
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: red shield
+  literal_form: the red shield named in “Gaisgeach na Sgiatha deirge”
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: monks' organ
+  literal_form: "“organ nam manach,” mentioned in the formulaic passage"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Invitation to rest and sleep
+  summary: The harpist addresses another person as tired and tells him to place his
+    head on a support and sleep.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dream inquiry and sword threat
+  summary: After the harpist says the other is dreaming, the dreamer reports seeing
+    a musical harpist drawing an old rusty sword to behead him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Identity question and injury statement
+  summary: A speaker asks who the dreamed figure is, and the answer refers to the
+    speaker sitting there with blood, sinews, and bones injured.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Release from geasa and warning
+  summary: Plural speakers declare that they are free of geasa forever and warn a
+    beloved man to avoid them and the town that day.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Formulaic explanation and final question
+  summary: A formulaic passage mentions hostile or martial elements and bloody wounding;
+    the Warrior of the Red Shield then asks a question.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sleep followed by dream or vision report
+  taxonomy_refs: []
+  basis: The addressee is told to sleep, is identified as dreaming, and reports what
+    he saw.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not state whether the dream is prophetic, magical, or
+    ordinary.
+- id: motif:2
+  label: threatened beheading by sword in a dream
+  taxonomy_refs: []
+  basis: The dream contains a musical harpist drawing an old rusty sword to take off
+    the dreamer's head.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The threat is reported as a dream image; the passage does not show the
+    act being carried out.
+- id: motif:3
+  label: release from geasa or enchantment
+  taxonomy_refs: []
+  basis: The plural speakers state that they are out of their geasa forever.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exact nature of the geasa and who is released are not explained in
+    the excerpt.
+- id: motif:4
+  label: warning to avoid a group and town for one day
+  taxonomy_refs: []
+  basis: The plural speakers warn a beloved man to avoid them and the town that day.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The reason for the warning is fragmentary and formulaic in the supplied
+    passage.
+- id: motif:5
+  label: formulaic catalogue of danger and wounding
+  taxonomy_refs: []
+  basis: The passage lists treacherous lads, the monks' organ, heroes, feats, and
+    bloody or wounded conditions.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The Gaelic formula is difficult and lacks a supplied prose translation,
+    so the motif label is cautious.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14836-14843
+  quote_or_summary: The harpist says he is sure the addressee is tired and tells him
+    to put his head on “an tulmsaig seo” and sleep.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary with short quoted Gaelic term.
+- id: ev:2
+  type: quote
+  locator: lines 14844-14852
+  quote_or_summary: 'The harpist says the other is dreaming and asks what he saw;
+    the answer includes: “Cruitire ciuil ... a'' tarruinn seana chlaidheamh meirgeach
+    ... an ceann a thoirt diom.”'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 14853-14858
+  quote_or_summary: A speaker asks who that is; the answer says “I am sitting here”
+    and mentions blood, sinews, and bones being injured.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: lines 14859-14864
+  quote_or_summary: The speakers say, “Tha sinne as a geasan gu bràthach,” and warn,
+    “seachainn sinne 's am baile an diugh,” followed by a question asking the cause.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 14865-14880
+  quote_or_summary: The following formulaic lines mention a dozen treacherous lads,
+    the monks' organ, heroes, feats, and bloody, wounded conditions.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: quote
+  locator: line 14881
+  quote_or_summary: "“De mar seo ?” orsa Gaisgeach na Sgiatha deirge."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the untranslated Scottish Gaelic and ambiguous pronoun
+    references. Figures such as the dreamer and the Warrior of the Red Shield may
+    overlap, but the excerpt alone does not prove this. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were left empty because the excerpt does not clearly support the available motif-family or symbol IDs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l14836-l14881
+  passage_sha256=88a46f3572600b1032ab754cdeb45c2a8f13ba5423f0f2d16cd071b374919079
+

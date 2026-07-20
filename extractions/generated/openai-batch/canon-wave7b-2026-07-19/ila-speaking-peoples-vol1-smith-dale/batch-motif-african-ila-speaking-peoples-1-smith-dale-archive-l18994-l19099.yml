@@ -1,0 +1,549 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l18994-l19099
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: VOL. I 2 D / CH. XVI / SLAVERY / AN OLD SLAVE WOMAN.; lines 18994-19099
+  start: '18994'
+  end: '19099'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Ethnographic description of slavery among the Ba-ila, including rules about
+    marriage, children, sexual access, property, protection, violence, ritual treatment
+    after death, possible elevation within servitude, and transfer to another owner
+    by throwing ash.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A married female slave remains enslaved, and every child she bears is also
+    a slave subject to the owner's disposal.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The owner may require the female slave's labor and is described as having
+    rights over her body.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A male slave may be given a wife by the owner, and that wife may be taken,
+    reassigned, or sold without warning.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If a master marries a favored slave woman, her children will be free and may
+    attain an honorable position.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An unmarried slave-woman is called nabutema and is described as subject to
+    sexual access by the owner and others, with gifts or payments called chipo sometimes
+    involved.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A master may protect slaves from harm by outsiders, while retaining the power
+    under the old regime to beat or kill them without outside interference.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After a slave's death, the owner would kill the luloa, one or two cattle eaten
+    by the village people to allay the wrath of the demigod.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A slave may hold property, but the passage says it is not really his own and
+    may be appropriated by the master.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The phrase that a slave redeems himself refers to gaining trust and influence
+    in the master's service, not to becoming free.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: A zealous slave may trade for the master, increase the master's number of
+    slaves, and be regarded by those slaves as their chief.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: An ill-treated slave may transfer himself to another and kinder owner by throwing
+    ash upon him.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: The passage explicitly characterizes Ba-ila slavery as real slavery rather
+    than mere serfdom.
+  category: attribute
+  evidence_refs:
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: married female slave
+  description: A woman who may marry but does not cease to be a slave; her children
+    and labor remain under the owner's control.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: male slave
+  description: A male slave who may be given a wife by the owner, with the marriage
+    remaining subject to the owner's power.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: unmarried slave-woman / nabutema
+  description: An unmarried enslaved woman named nabutema, described as subject to
+    sexual access and gift transactions.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: owner / master / chief
+  description: The person who controls enslaved people, their labor, bodies, marriages,
+    children, property, punishment, and transfer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:10
+- id: fig:5
+  name_or_label: children of enslaved women
+  description: Children whose status depends on the mother's enslavement and, in one
+    case, on whether the master marries the mother.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: demigod
+  description: A supernatural figure whose wrath is said to be allayed by the luloa
+    cattle after a slave's death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: trusted or zealous slave
+  description: A slave who gains trust and influence by serving the master, increasing
+    the master's wealth, and commanding other slaves.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: enslaved person
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:7
+  basis: The passage describes these figures as slaves or as children whose status
+    is enslaved.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+  - ev:9
+- id: role:2
+  label: owner or master
+  assigned_to:
+  - fig:4
+  basis: The owner controls marriage arrangements, children, labor, property, punishment,
+    and transfer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:10
+- id: role:3
+  label: enslaved spouse or parent
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage describes slave marriages and the consequences for spouses and
+    children.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: child status bearer
+  assigned_to:
+  - fig:5
+  basis: Children born to slave women are described as slaves except when the master
+    marries the favored slave woman.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:5
+  label: supernatural wrath figure
+  assigned_to:
+  - fig:6
+  basis: The demigod's wrath is said to be allayed by cattle killed after a slave's
+    death.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: trusted subordinate / chief among other slaves
+  assigned_to:
+  - fig:7
+  basis: A zealous slave may gain influence, be called his lord's friend, and be regarded
+    as chief by slaves gained for the master.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:7
+  label: nabutema category
+  assigned_to:
+  - fig:3
+  basis: The passage names an unmarried slave-woman nabutema and describes her social
+    and sexual treatment.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: chiko
+  literal_form: marriage payment demanded by an owner when someone marries a slave
+    woman
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: chipo
+  literal_form: present or gift associated with access to an unmarried slave-woman
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: luloa cattle
+  literal_form: one or two cattle killed and eaten after a slave's death to allay
+    the wrath of the demigod
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: ash
+  literal_form: ash thrown upon another owner by an ill-treated slave to transfer
+    himself
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: father's name
+  literal_form: the father's name that one child may be said to "eat" when taking
+    an honorable position
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: married female slave remains under owner control
+  summary: A female slave marries, but her status, her children's status, her labor,
+    and her body remain subject to the owner.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: male slave's marriage controlled by owner
+  summary: A male slave is given a wife by the owner, and the owner may later remove,
+    reassign, or sell that wife.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: favored slave woman married by master
+  summary: A favored slave woman may be married by her master, making her children
+    free and possibly honorable heirs of the master's name.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: nabutema and gift exchange
+  summary: An unmarried slave-woman called nabutema is described as sexually available
+    to the owner and others, with chipo gifts involved and subject to the owner's
+    control.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: death, owner power, and luloa
+  summary: The master may protect slaves from outsiders but could also kill them under
+    the old regime; after a death, luloa cattle are killed and eaten to allay the
+    demigod's wrath.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: property and elevation within servitude
+  summary: A slave may hold property without owning it and may rise to trust and authority
+    in the master's service without becoming free.
+  figure_refs:
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:7
+  label: transfer by throwing ash
+  summary: An ill-treated slave can move to another owner by throwing ash upon him;
+    the authors compare the process to notae datio.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: hereditary enslavement through birth to an enslaved woman
+  taxonomy_refs: []
+  basis: Children born to a female slave are described as slaves, except in the special
+    case where the master marries the woman and her children become free.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a social-legal pattern in an ethnographic passage, not a mythic
+    narrative motif.
+- id: motif:2
+  label: master's total control over household relations and property
+  taxonomy_refs: []
+  basis: The owner controls spouses, children, bodily rights, labor, gifts, and property
+    associated with enslaved persons.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage treats this as an institution of slavery rather than a symbolic
+    tale.
+- id: motif:3
+  label: cattle offering to allay supernatural wrath after death
+  taxonomy_refs:
+  - sacrifice
+  basis: After a slave's death, one or two cattle called luloa are killed and eaten
+    to allay the wrath of the demigod.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives little detail about the demigod, ritual procedure, or
+    theology beyond this death context.
+- id: motif:4
+  label: change of owner through ash gesture
+  taxonomy_refs: []
+  basis: An ill-treated slave may transfer to a kinder owner by throwing ash upon
+    him.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The ritual or symbolic meaning of ash is not explained in the passage.
+- id: motif:5
+  label: self-redemption as status elevation without freedom
+  taxonomy_refs: []
+  basis: The passage says a slave cannot redeem himself into freedom, but may be said
+    to redeem himself by becoming trusted and influential in his master's service.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: This is an idiomatic social pattern rather than evidence of literal manumission
+    or spiritual redemption.
+comparison_claims:
+- id: claim:1
+  claim: The ash-transfer process is compared by the authors to notae datio in Mahommedan
+    countries.
+  claim_level: same_function
+  target: notae datio in Mahommedan countries
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is explicitly authorial but brief; the passage provides
+    no details of notae datio and does not establish historical contact or common
+    origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18994-19099; opening paragraphs on married female slave
+  quote_or_summary: A married female slave remains a slave; her children are slaves,
+    the owner may sell them, she owes labor to owner and husband, and the owner has
+    rights over her body.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 18994-19099; paragraph beginning 'A male slave'
+  quote_or_summary: A male slave is given a wife by the owner, and the wife may be
+    taken, given to another, or sold without warning.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 18994-19099; paragraph beginning 'A slave woman who finds favour'
+  quote_or_summary: If a master marries a favored slave woman, her children are free
+    and may take an honorable position; one may 'eat' his father's name.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized with short quoted idiom.
+- id: ev:4
+  type: summary
+  locator: lines 18994-19099; paragraph beginning 'An unmarried slave-woman'
+  quote_or_summary: An unmarried slave-woman is called nabutema; the owner and young
+    men may have sexual access, chipo gifts may be involved, and marriage requires
+    reduced chiko with children belonging to the owner.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 18994-19099; paragraph beginning 'As for the right of protection'
+  quote_or_summary: The master may protect slaves from outsiders, but under the old
+    regime could beat or kill them without others having a right to interfere.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 18994-19099; death and luloa paragraph
+  quote_or_summary: '"the owner would kill the luloa — one or two cattle, eaten by
+    the people of the village to allay the wrath of the demigod"'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: quote
+  locator: lines 18994-19099; paragraph beginning 'A slave might hold property'
+  quote_or_summary: '"whatever a slave holds it shares in its owner''s slavery (nduzhike
+    nina)"; the passage says slaves may hold property but cannot truly call it their
+    own.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt and summary used.
+- id: ev:8
+  type: summary
+  locator: lines 18994-19099; paragraph beginning 'A slave cannot redeem himself'
+  quote_or_summary: A slave cannot redeem himself so as to be free; 'redeeming himself'
+    means rising through industry and zeal to trust and the name 'his lord's friend.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized with short translated title.
+- id: ev:9
+  type: summary
+  locator: lines 18994-19099; paragraph beginning 'If a man were zealous'
+  quote_or_summary: A zealous slave increases the master's wealth, may trade to gain
+    slaves for the master, and can be regarded by them as their chief.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 18994-19099; final mitigation paragraph
+  quote_or_summary: An ill-treated slave may transfer to another and kinder owner
+    by throwing ash upon him; the authors say this reminds them of notae datio in
+    Mahommedan countries.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: quote
+  locator: lines 18994-19099; closing paragraph
+  quote_or_summary: '"real slavery and not mere serfdom"; the passage concludes that
+    a slave''s lot is not enviable.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt and summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear as ethnographic description. Motif candidates are mostly
+    social-ritual patterns rather than mythic narratives. The only comparison claim
+    is explicitly supplied by the passage authors.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or taxonomy IDs beyond the supplied list were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l18994-l19099
+  passage_sha256=e1607dca0f9b76816d5c40fa6ca2e1ff57f63af43c181bc12c7cc4fa29b41b41
+

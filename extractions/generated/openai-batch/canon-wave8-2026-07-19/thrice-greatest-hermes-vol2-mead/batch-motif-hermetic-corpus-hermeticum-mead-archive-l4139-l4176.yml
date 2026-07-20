@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l4139-l4176
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: CORPUS HEEMETTCUM IV. (V.) / THE CUP OR MONAD / THE CUP OR MONAD 89 / THE
+    CUP OR MONAD 91; lines 4139-4176
+  start: '4139'
+  end: '4176'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"thoult find the Path that leads above"'
+  summary: The passage describes the Oneness as source of number and unengendered
+    by anything else. It contrasts engendered things as imperfect and divisible with
+    the Perfect One. Hermes tells Tat that God's Image has been sketched for him;
+    if Tat contemplates it with the heart's eyes, he will find the upward path, and
+    the Image will become his guide. Divine Sight draws those who open their eyes
+    like a magnet draws iron. A note observes that this simile also appears in the
+    Naassene Document and in Plutarch's On Isis and Osiris.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Oneness is described as Source, containing every number and being contained
+    by none.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Oneness is said to engender every number while not being engendered by
+    another one.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Engendered things are described as imperfect, divisible, and subject to increase
+    and decrease.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Perfect One is said not to be subject to the conditions of engendered
+    things.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Tat is addressed directly and told that God's Image has been sketched for
+    him as far as possible.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Tat is told that attentive contemplation with the heart's eyes will reveal
+    a path that leads above.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Image is said to become a guide.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Divine Sight is described as holding fast and drawing those who open their
+    eyes.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The drawing action of Divine Sight is compared to a magnet drawing iron.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A note states that the magnet-and-iron simile is also used in the Naassene
+    Document and in Plutarch's On Isis and Osiris.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Tat
+  description: The addressee addressed as Tat and as son.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: God
+  description: God is named in relation to God's Image.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: The Oneness / Perfect One
+  description: The Oneness is described as Source and as engendering every number;
+    the Perfect One is contrasted with engendered things.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: God's Image
+  description: An image sketched for Tat that may become his guide if contemplated.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Divine Sight
+  description: Sight that holds fast and draws those who open their eyes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: recipient of instruction
+  assigned_to:
+  - fig:1
+  basis: Tat is directly addressed and instructed to contemplate God's Image.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: source principle
+  assigned_to:
+  - fig:3
+  basis: The Oneness is called Source and is said to contain and engender every number.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: guide
+  assigned_to:
+  - fig:4
+  basis: The Image is said to become Tat's guide.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: attracting sight
+  assigned_to:
+  - fig:5
+  basis: Divine Sight is said to hold fast and draw those who open their eyes.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Oneness / Monad
+  literal_form: The Oneness, associated by the title with the Monad
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: God's Image
+  literal_form: Image sketched for Tat
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Path above
+  literal_form: Path that leads above
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Heart's eyes
+  literal_form: Heart's eyes used to observe the Image
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Magnet and iron
+  literal_form: Magnet drawing iron
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Description of the Oneness
+  summary: The Oneness is characterized as source, container, and generator of every
+    number, while not being contained or generated by another.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contrast between engendered things and the Perfect One
+  summary: Engendered things are described as imperfect, divisible, and variable,
+    while the Perfect One is not subject to these conditions.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Contemplation of God's Image and upward path
+  summary: Tat is told that careful observation of God's Image with the heart's eyes
+    will reveal the path above and that the Image will become his guide.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Divine Sight as magnetic attraction
+  summary: Divine Sight is said to attract those who open their eyes, with the attraction
+    compared to a magnet drawing iron.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ascent through contemplative vision
+  taxonomy_refs:
+  - ascent
+  basis: The passage states that observing God's Image with the heart's eyes reveals
+    a path that leads above.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief doctrinal statement, not a narrative ascent
+    episode.
+- id: motif:2
+  label: Wisdom through contemplation of divine image
+  taxonomy_refs:
+  - wisdom
+  basis: Tat is instructed to dwell attentively on God's Image and observe it with
+    the heart's eyes.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage implies contemplative understanding but does not explicitly
+    use the word wisdom.
+- id: motif:3
+  label: Guiding divine image
+  taxonomy_refs:
+  - mystical_quest
+  basis: The Image is said to become the guide that leads toward the path above.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The quest pattern is inferred from the path-and-guide language; the passage
+    is not a full quest narrative.
+- id: motif:4
+  label: Attraction by divine sight
+  taxonomy_refs: []
+  basis: Divine Sight is described as holding fast and drawing those who open their
+    eyes, like a magnet drawing iron.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No matching supplied taxonomy family directly names this attraction motif.
+- id: motif:5
+  label: Monad as ungenerated source of number
+  taxonomy_refs: []
+  basis: The Oneness is said to contain and engender every number while being contained
+    by none and engendered by no other.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a metaphysical pattern rather than a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The magnet drawing iron simile is explicitly noted as also occurring in the
+    Naassene Document and in Plutarch's On Isis and Osiris.
+  claim_level: linguistic_similarity
+  target: Naassene Document; Plutarch, On Isis and Osiris
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage note asserts reuse of the simile but does not provide the
+    parallel passages or establish historical contact.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4139-4145
+  quote_or_summary: '"The Oneness then being Source, containeth every number, but
+    is contained by none ; engendereth every number, but is engendered by no other
+    one."'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4147-4154
+  quote_or_summary: The passage says engendered things are imperfect, divisible, and
+    subject to increase and decrease, while these conditions do not apply to the Perfect
+    One.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4156-4158
+  quote_or_summary: '"And now, Tat, God''s Image hath been sketched for thee, as far
+    as it can be"'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4158-4164
+  quote_or_summary: '"observe it with thy heart''s eyes" and "thoult find the Path
+    that leads above ; nay, that Image shall become thy Guide"'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 4164-4168
+  quote_or_summary: '"the Sight [Divine] ... holdeth fast and draweth unto it those
+    who succeed in opening their eyes, just as ... the magnet [draweth] iron."'
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: footnote, lines 4174-4176
+  quote_or_summary: A footnote says the magnet-and-iron simile is also used in the
+    Naassene Document and in Plutarch's On Isis and Osiris.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: citation
+  locator: passage title, line 4139
+  quote_or_summary: The passage is headed "THE CUP OR MONAD 91."
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short citation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strongly supported by the supplied passage. Motif labels
+    involving ascent and contemplation are supported by explicit path, guide, image,
+    and sight language; broader taxonomy placement remains interpretive and needs
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references. No unsupported taxonomy symbol references were assigned.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l4139-l4176
+  passage_sha256=a643abe207dc53476ea3cab0f640d623825aba6e3cbefd03e09e9c7380b92db3
+

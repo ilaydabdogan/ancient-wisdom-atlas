@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l5443-l5463
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION XXII / SECTION XXIII / SECTION XXIV / SECTION XXV; lines 5443-5463
+  start: '5443'
+  end: '5463'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Yudhishthira asks Bhishma to describe the sacred waters on earth and their
+    merit. Bhishma replies that Angiras once enumerated them and says listening to
+    the account brings merit. Bhishma then frames an earlier exchange in which Gautama
+    approached Angiras in a forest and asked about the merits, including otherworldly
+    merits, gained by bathing in sacred waters and shrines.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yudhishthira states that sojourns to sacred waters, ablutions in them, and
+    listening to their excellence are said to be meritorious.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira asks Bhishma to mention the sacred waters that exist on earth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bhishma says an enumeration of the sacred waters on earth was made by Angiras.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bhishma tells Yudhishthira that listening to the enumeration will earn great
+    merit.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Gautama approaches Angiras while Angiras is dwelling in a forest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Gautama asks Angiras to discourse on the merits attaching to sacred waters
+    and shrines, especially the merits earned in the next world by bathing in sacred
+    waters on earth.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Speaker who asks Bhishma to expatiate on sacred waters and their merit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bhishma
+  description: Addressed as grandsire and chief of Bharata's race; he answers Yudhishthira
+    and introduces Angiras's enumeration.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Angiras
+  description: Great and learned Rishi, tranquil in soul, associated with an enumeration
+    of sacred waters and questioned by Gautama in a forest.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Gautama
+  description: Described as of rigid vows; he approaches Angiras and asks about the
+    merits of sacred waters and shrines.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioner about sacred waters
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Yudhishthira asks Bhishma to discuss sacred waters, and Gautama asks Angiras
+    to explain their merits.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: teacher and narrator of prior teaching
+  assigned_to:
+  - fig:2
+  basis: Bhishma responds to Yudhishthira and frames Angiras's earlier enumeration.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: rishi and source of enumeration
+  assigned_to:
+  - fig:3
+  basis: Bhishma states that Angiras made an enumeration of sacred waters on earth.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient of inquiry in forest
+  assigned_to:
+  - fig:3
+  basis: Gautama approaches Angiras in a forest and questions him about sacred waters
+    and shrines.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sacred waters
+  literal_form: Sacred waters on the earth used for sojourns, ablutions, and listening-discourse
+    about their excellence.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: shrines
+  literal_form: Shrines mentioned together with sacred waters as having merits attached
+    to them.
+  associated_figures:
+  - fig:4
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: forest dwelling
+  literal_form: The forest where Angiras is dwelling when Gautama approaches him.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Yudhishthira asks Bhishma about sacred waters
+  summary: Yudhishthira says sacred waters, ablutions, and hearing of their excellence
+    are meritorious and asks Bhishma to name and discuss the sacred waters on earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bhishma introduces Angiras's enumeration
+  summary: Bhishma says Angiras made an enumeration of sacred waters on earth and
+    that listening to it will bring merit.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Gautama questions Angiras in the forest
+  summary: Gautama approaches Angiras in a forest and asks him to explain, according
+    to ordinance, the merits of bathing in sacred waters and visiting shrines, including
+    merits relating to the next world.
+  figure_refs:
+  - fig:4
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Sacred waters confer merit through pilgrimage, bathing, and hearing
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage repeatedly states or asks about merit gained from sojourns to
+    sacred waters, ablutions in them, and listening to their excellence or enumeration.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not yet list the waters or narrate the performance of
+    bathing; it frames an inquiry and teaching about merit.
+- id: motif:2
+  label: Instructional wisdom dialogue with nested sage authority
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira questions Bhishma, who cites Angiras and recounts Gautama's
+    question to Angiras about sacred ordinances and otherworldly merit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a discourse frame rather than a completed doctrinal exposition
+    within the supplied lines.
+- id: motif:3
+  label: Bathing in earthly sacred waters for next-world benefit
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Gautama asks what merits are earned in respect of the next world by bathing
+    in sacred waters on earth.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage mentions next-world merit but does not describe an afterlife
+    geography or journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5443-5451
+  quote_or_summary: Yudhishthira says sojourns to sacred waters, ablutions there,
+    and listening to their excellence are meritorious, and asks Bhishma to name and
+    discuss the sacred waters on earth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5452-5457
+  quote_or_summary: Bhishma says Angiras made an enumeration of sacred waters on earth
+    and tells Yudhishthira that listening to it will earn great merit.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5457-5463
+  quote_or_summary: Gautama, described as of rigid vows, approaches the learned Rishi
+    Angiras in a forest and asks about the merits of sacred waters and shrines, including
+    merits in the next world gained by bathing in sacred waters on earth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a clear dialogic frame about sacred waters and merit. Motif
+    mapping is cautious because the supplied lines introduce the topic but do not
+    provide the full enumeration or outcomes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself compare this material to another tradition or corpus.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l5443-l5463
+  passage_sha256=d5abfa627f446c14fd9fd816a6d34dfab3e6e8735e49ebacbd91d931d43b9ae5
+

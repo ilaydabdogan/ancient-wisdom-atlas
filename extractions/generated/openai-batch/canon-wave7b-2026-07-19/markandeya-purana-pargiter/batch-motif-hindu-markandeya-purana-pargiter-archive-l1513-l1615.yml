@@ -1,0 +1,159 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l1513-l1615
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: Canto YI. / CAHTO VI, / CANTO VI. / CANTO Vt.; lines 1513-1615
+  start: '1513'
+  end: '1615'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a wooded area with tamala, kimsuka, and vanjula trees.
+    Many kinds of birds inhabit the place and warble melodiously. Beautiful, placid
+    lakes are crowded with lotus water-lilies, lotuses, and blue water-lilies.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting includes tamala, kimsuka, and vanjula trees.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The place is inhabited by many birds, including chakors, woodpeckers, shrikes,
+    parrots, koils, sparrows, green pigeons, jivajivaka pheasants, priyaputras, pied-crested
+    cuckoos, and other birds.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The birds are described as warbling pleasingly and very melodiously.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lakes are described as beautiful and placid.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The lakes are crowded on all sides with lotus water-lilies, lotuses, and brilliant
+    blue water-lilies.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: bird assemblage
+  description: A collective group of birds, including named species and other birds,
+    inhabiting the wooded place and warbling melodiously.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: woodland inhabitants
+  assigned_to:
+  - fig:1
+  basis: The birds are described as inhabiting the named trees or wooded setting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: melodious warblers
+  assigned_to:
+  - fig:1
+  basis: The birds are described as warbling pleasingly and very melodiously.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: trees
+  literal_form: tamala, kimsuka, and vanjula trees
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lakes and water
+  literal_form: beautiful and placid lakes
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: lotus and water-lilies
+  literal_form: lotus water-lilies, lotuses, and brilliant blue water-lilies
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Wooded lake setting with birds and lotuses
+  summary: 'The passage presents a scenic natural setting: named trees host many birds
+    that sing melodiously, while nearby placid lakes are filled with lotus flowers
+    and water-lilies.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Canto VI, v.18; lines 1513-1615
+  quote_or_summary: The passage names tamala, kimsuka, and fine vanjula trees and
+    begins a list of birds inhabiting them.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: Canto VI, vv.18-20; lines 1513-1615
+  quote_or_summary: The passage lists birds including chakors, woodpeckers, shrikes,
+    parrots, koils, sparrows, green pigeons, jivajivaka pheasants, priyaputras, pied-crested
+    cuckoos, and other birds, and says they warble pleasingly and very melodiously.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: Canto VI, v.20; lines 1513-1615
+  quote_or_summary: The passage describes beautiful, placid lakes crowded on all sides
+    with lotus water-lilies, lotuses, and brilliant blue water-lilies.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source; full text use allowed.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The supplied passage is mainly a descriptive natural scene, with OCR noise
+    and extensive editorial notes. No explicit mythic action motif or passage-supported
+    comparison is present in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythic motif was assigned because the provided lines only support scenic observations about trees, birds, lakes, and aquatic flowers.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l1513-l1615
+  passage_sha256=7495f308175bad1f48214f9284848ac5cc3199ecfdf85cc86d6a6b7bc346fbcb
+

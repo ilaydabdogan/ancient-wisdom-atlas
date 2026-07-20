@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol6-archive-l18596-l19054
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+passage_locator:
+  label: VESSANTARA-JATAKA. / J.  VI.  17 / J.  VI.  18 / INDEX.; lines 18596-19054
+  start: '18596'
+  end: '19054'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. VI
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an index section from the volume. It lists alphabetized
+    names, beings, places, ritual terms, questions, and motif-like subjects with page
+    references, rather than narrating a continuous episode.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index with alphabetized entries and page references, not
+    a continuous narrative scene.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes named figures or beings such as Abhassara, Bodhisatta,
+    Buddha, and Brahma.
+  category: other
+  evidence_refs:
+  - ev:9
+- id: obs:3
+  text: Birth-related index entries include birth ceremonies, birth fellows, miraculous
+    birth, Buddha born with a medicinal plant in hand, and a dream at the conception
+    of Buddha.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hell-related and karmic-consequence entries include Avici hell, dogs of hell,
+    fear of hell, and fruit of deeds.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ritual fire and sacrifice entries include fire sacrifice, fire worship, and
+    a Butea shoot held in sacrifice.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Natural or place entries include breath of snakes, Black mountain, Banyan
+    Grove, and Ganges.
+  category: setting
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: The index lists magical or extraordinary animals and objects, including animals
+    with magic properties, a magic chariot, a cow of plenty, a flying elephant, and
+    elephants charmed by a lute.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Several entries are framed as questions, including animal, object, and problem-question
+    headings.
+  category: speech
+  evidence_refs:
+  - ev:10
+- id: obs:9
+  text: The index includes an entry for an Act of Truth.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Abhassara
+  description: Indexed as “Abhassara deity” with a page reference.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+- id: fig:2
+  name_or_label: Bodhisatta
+  description: Indexed as “Bodhisatta” with many page references.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+- id: fig:3
+  name_or_label: Buddha
+  description: Indexed as “Buddha” with page references; additional entries mention
+    Buddha’s conception and birth with a medicinal plant in hand.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:4
+  name_or_label: Brahma
+  description: Indexed as “Brahma”; the index also lists “Brahma’s world.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: entry explicitly labeled deity
+  assigned_to:
+  - fig:1
+  basis: The index entry names Abhassara and explicitly calls it a deity.
+  evidence_refs:
+  - ev:9
+- id: role:2
+  label: indexed named figure or being
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The names appear as index headings with page references.
+  evidence_refs:
+  - ev:9
+- id: role:3
+  label: subject of conception and birth entries
+  assigned_to:
+  - fig:3
+  basis: The index includes entries for a dream at the conception of Buddha and for
+    Buddha being born with a medicinal plant in hand.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire sacrifice; Fire worship
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: snake or serpent breath
+  literal_form: Breath of snakes
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: mountain
+  literal_form: Black mountain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: tree or plant in grove and ritual
+  literal_form: Banyan Grove; Butea shoot held in sacrifice
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: river water
+  literal_form: Ganges
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: medicinal plant
+  literal_form: Medicinal plant in hand at Buddha’s birth
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: cow of plenty
+  literal_form: Cow of plenty
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: miraculous or sacred birth signs
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: The index explicitly lists miraculous birth, Buddha born with a medicinal
+    plant in hand, and a dream at the conception of Buddha.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only an index; it does not narrate the birth or explain
+    the signs.
+- id: motif:2
+  label: fire sacrifice and ritual worship
+  taxonomy_refs:
+  - sacrifice
+  basis: The index includes fire sacrifice, fire worship, and a Butea shoot held in
+    sacrifice.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The ritual action is named but not described in narrative detail.
+- id: motif:3
+  label: hell and consequence of deeds
+  taxonomy_refs: []
+  basis: The index lists Avici hell, dogs of hell, fear of hell, and fruit of deeds.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe an afterlife journey or judgment scene.
+- id: motif:4
+  label: Act of Truth
+  taxonomy_refs: []
+  basis: The index includes an explicit entry for “Act of Truth.”
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: Only the index heading is present; no act or outcome is narrated here.
+- id: motif:5
+  label: magical animals and extraordinary conveyances or objects
+  taxonomy_refs: []
+  basis: The index lists animals with magic properties, a magic chariot, a cow of
+    plenty, a flying elephant, and elephants charmed by a lute.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The index identifies the topics but does not preserve their narrative
+    contexts in this passage.
+- id: motif:6
+  label: wisdom-question or problem-question pattern
+  taxonomy_refs:
+  - wisdom
+  basis: Multiple entries are designated as questions, and the index also includes
+    a comparative-merits problem involving mother, wife, brother, friend, brahmin,
+    self, and wise man.
+  evidence_refs:
+  - ev:10
+  confidence: medium
+  cautions: The contents and answers of the questions are not provided in the passage.
+- id: motif:7
+  label: serpent or snake dangerous power
+  taxonomy_refs:
+  - serpent
+  basis: The index includes an entry for breath of snakes.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: Only a brief index entry is present; no serpent episode is described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 18596-19054; index heading and format
+  quote_or_summary: "“INDEX.” The passage consists of index entries with page references."
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 18596-19054; birth-related index entries
+  quote_or_summary: Entries include “Birth ceremonies,” “Birth fellows,” “Birth, miraculous,”
+    “Buddha born with medicinal plant in hand,” and “Dream at conception of Buddha.”
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; brief summary with short quoted entry
+    titles.
+- id: ev:3
+  type: summary
+  locator: 18596-19054; hell and consequence entries
+  quote_or_summary: Entries include “Avici hell,” “Dogs of hell,” “Fear of hell,”
+    and “Fruit of deeds.”
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; brief summary with short quoted entry
+    titles.
+- id: ev:4
+  type: summary
+  locator: 18596-19054; fire and sacrifice entries
+  quote_or_summary: Entries include “Fire sacrifice,” “Fire worship,” and “Butea shoot
+    held in sacrifice.”
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; brief summary with short quoted entry
+    titles.
+- id: ev:5
+  type: quote
+  locator: 18596-19054; snake entry
+  quote_or_summary: "“Breath of snakes 42.”"
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 18596-19054; place and natural-symbol entries
+  quote_or_summary: Entries include “Black mountain,” “Banyan Grove,” and “Ganges.”
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; brief summary with short quoted entry
+    titles.
+- id: ev:7
+  type: summary
+  locator: 18596-19054; magical animal and object entries
+  quote_or_summary: Entries include “Animals with magic properties,” “Chariot, magic,”
+    “Cow of plenty,” “Elephant flying,” and “Elephants charmed by the lute.”
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; brief summary with short quoted entry
+    titles.
+- id: ev:8
+  type: quote
+  locator: 18596-19054; Act of Truth entry
+  quote_or_summary: "“Act of Truth 1, 51.”"
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:9
+  type: summary
+  locator: 18596-19054; named figure entries
+  quote_or_summary: Named entries include “Abhassara deity,” “Bodhisatta,” “Buddha,”
+    “Brahma,” and “Brahma’s world.”
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; brief summary with short quoted entry
+    titles.
+- id: ev:10
+  type: summary
+  locator: 18596-19054; question entries
+  quote_or_summary: Question entries include “Ass question,” “Black ball question,”
+    “Boiled rice question,” “Calving question,” “Cattle question,” “Chameleon question,”
+    “Chariot question,” and a comparative-merits question involving mother, wife,
+    brother, friend, brahmin, self, and wise man.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  rights_note: Public domain source metadata; brief summary with short quoted entry
+    titles.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited because the supplied passage is an index, not the
+    underlying narrative. Motif candidates are based on explicit index headings only
+    and require review against the referenced pages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the index does not itself support historical, visual, linguistic, or intertextual comparison beyond naming entries.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol6-archive__l18596-l19054
+  passage_sha256=ef8cbc1a78989b5a3f4d753873cca7cbd6a3ca0caf9f684e5d0f3968c194c1f7
+

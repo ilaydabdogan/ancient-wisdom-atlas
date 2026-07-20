@@ -1,0 +1,147 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l32493-l32648
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: MINERALOGY. / APPENDIX   J / APPENDIX  K. / METEOROLOGY.; lines 32493-32648
+  start: '32493'
+  end: '32648'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Readings were taken during the rainy season from June to October, 1909, which
+    is the coolest time of the year.
+  summary: The passage is a meteorological appendix reporting temperature readings
+    from the rainy season, noting that instruments were later struck by lightning,
+    and presenting tabular temperature and rainfall data for Oban Station.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as an appendix section on meteorology.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Temperature readings were taken from June to October 1909 during the rainy
+    season, described as the coolest time of the year.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In early November the instruments were struck by lightning, ending the records.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A temperature table gives monthly shade-temperature values for June through
+    October, including mean, highest, lowest, diurnal variation, mean maximum, and
+    mean minimum.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A rainfall table for Oban Station in 1911 lists monthly rainfall totals, number
+    of rainy days, maximum daily rainfall, and duration of maximum rainfall.
+  category: object
+  evidence_refs:
+  - ev:3
+figures: []
+roles: []
+symbols:
+- id: sym:1
+  label: Rain or rainfall
+  literal_form: Rainfall measured by month and rainy-season reference
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Lightning
+  literal_form: Lightning striking the instruments
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Meteorological observation and interruption
+  summary: Meteorological readings are reported for the rainy season, and the recording
+    instruments are said to have been struck by lightning in early November.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tabulated weather measurements
+  summary: The appendix presents temperature and rainfall measurements in tabular
+    form, including shade temperatures and rainfall at Oban Station.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Seasonal rainy period as environmental cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly identifies a rainy season from June to October, describes
+    it as the coolest time of the year, and includes monthly weather data.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a factual meteorological appendix rather than a mythic narrative;
+    the motif reference is limited to an environmental seasonal pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: Appendix K, Meteorology, Temperature; within lines 32493-32648
+  quote_or_summary: "“Readings were taken during the rainy season from June to October,
+    1909,” followed by a note that the instruments were struck by lightning in early
+    November and the records ended."
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: Temperature in the Shade table; within lines 32493-32648
+  quote_or_summary: The shade-temperature table lists June, July, August, September,
+    and October with columns for mean, highest, lowest, diurnal variation, mean maximum,
+    and mean minimum.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Rainfall at Oban Station during 1911 table; within lines 32493-32648
+  quote_or_summary: The rainfall table is headed as Oban Station data for 1911 and
+    includes columns for total monthly rainfall, number of rainy days, maximum rain
+    in one day, and duration of rainfall on the day of maximum rain.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is largely tabular and factual, with some OCR-like numeric irregularities.
+    No intertextual or comparative claims are made because the passage itself does
+    not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative figures or roles are present in the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l32493-l32648
+  passage_sha256=0d75d4be7cb270866d57cca677676c0bd63726f92b511d4837c8a07a5eb12f1d
+

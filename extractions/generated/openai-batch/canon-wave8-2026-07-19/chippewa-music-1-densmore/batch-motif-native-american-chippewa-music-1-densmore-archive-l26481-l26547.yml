@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l26481-l26547
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: 'BUEEAU   OF   AMERICAN   ETHNOLOGY / I  :  1   I / P    P    P / P      P      P;
+    lines 26481-26547'
+  start: '26481'
+  end: '26547'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents No. 180, a children's entertainment song titled "Song
+    of the Crawfish," sung by Odjibwe and recorded without drum. The accompanying
+    note says one recorded version has the words that the coon is dead and explains
+    that, in that story version, the coon feigns death; another singer used words
+    translated as the coon cringes, explained as the coon pretending to be asleep.
+    A brief musical analysis and classification of the White Earth Reservation song
+    group follow.
+  language: English with transcribed Ojibwe words
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One recorded version of the song contains words glossed as saying the coon
+    is dead.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: In the related story version, the coon is represented as feigning death.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Another singer used words explained as the coon cringing, and that version
+    is described as the coon pretending to be asleep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The song is titled "Song of the Crawfish," is catalogue No. 449, and is sung
+    by Odjibwe.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The song was recorded without drum.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The collection note classifies this song among songs for the entertainment
+    of children.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The musical analysis says the song uses only the first, second, fifth, and
+    sixth tones of the minor key, with the interval of the fourth prominent in the
+    melody.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: coon
+  description: Animal named in the song/story explanation; described as dead in the
+    song words, and as feigning death or pretending to be asleep in variant explanations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: crawfish
+  description: Animal named in the title "Song of the Crawfish."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Odjibwe
+  description: Named singer of No. 180, "Song of the Crawfish."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: another singer
+  description: Unnamed singer who sang a variant using words translated as the coon
+    cringes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: animal feigning death or sleep
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly says the coon is represented as feigning death in
+    one version and pretending to be asleep in another.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: title animal
+  assigned_to:
+  - fig:2
+  basis: The crawfish appears in the song title.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: singer or performer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Odjibwe is named as the singer of the song, and another singer is described
+    as singing a variant.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: dead coon statement
+  literal_form: words glossed as "coon dead" / "e'sibun is dead"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: pretended sleep
+  literal_form: the coon pretending to be asleep
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Song variant with coon declared dead
+  summary: A recorded version of the song gives words translated as the coon being
+    dead, and the explanatory story note says the coon is feigning death.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Variant with coon pretending sleep
+  summary: Another singer performs the song with words translated as the coon cringes,
+    explained as the coon pretending to be asleep.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Performance record for Song of the Crawfish
+  summary: The song is identified as No. 180, "Song of the Crawfish," sung by Odjibwe
+    and recorded without drum.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: animal feigns death or sleep
+  taxonomy_refs: []
+  basis: 'The passage explicitly preserves two story-linked explanations: the coon
+    feigns death in one version and pretends to be asleep in another.'
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a short explanatory note, not the full story context
+    or outcome of the deception.
+- id: motif:2
+  label: animal song for children's entertainment
+  taxonomy_refs: []
+  basis: The song concerns animal figures and is classified in the group as one of
+    the songs for the entertainment of children.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage classifies the song socially but does not give a narrative
+    plot for children's entertainment beyond the coon variant note.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 26481-26485
+  quote_or_summary: The note says one version has the words "e'sibun is dead" and
+    represents the coon as feigning death; another version uses words translated as
+    "e'sibun cringes" and explains that the coon pretended to be asleep.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short excerpt summarized with minimal quotation.
+- id: ev:2
+  type: quote
+  locator: 26503-26512
+  quote_or_summary: Song text and gloss include "e'sibun" / "ni'bo" with English glosses
+    "coon" and "dead."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 26487-26501
+  quote_or_summary: The passage identifies No. 180 as "Song of the Crawfish" with
+    Catalogue No. 449, sung by Odjibwe, voice, recorded without drum.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 26514-26518
+  quote_or_summary: The analysis states that the song contains only selected tones
+    of the minor key and that the interval of the fourth is prominent; it notes this
+    also in other songs concerning animals.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 26539-26545
+  quote_or_summary: The White Earth Reservation group is summarized by genre and includes
+    five songs for the entertainment of children, among them Nos. 51, 52, 53, 179,
+    and 180.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal details are explicit, but motif interpretation is limited because
+    the passage gives only a brief song/story note and musical analysis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol reference was assigned because the available taxonomy list does not include a direct category for feigned death, pretended sleep, coon, crawfish, or children's animal song.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l26481-l26547
+  passage_sha256=584e15ebb8a0bd0fede37c7ea8b36ffd03bf6faacaadbc2b9b434c8f9f326456
+

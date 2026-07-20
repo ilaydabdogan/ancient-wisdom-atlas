@@ -1,0 +1,181 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l7376-l7388
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: SPECIMENS OF WOODWORK FROM NANZELA. / MILK-PAILS AND BOWLS FROM NANZELA.
+    / PT. II / BA-ILA STOOLS.; lines 7376-7388
+  start: '7376'
+  end: '7388'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes choosing a tree of suitable size for a canoe, negotiating
+    or quarreling over tree ownership, and shaping the felled trunk into a canoe by
+    rough-hewing and hollowing it out.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A tree of corresponding size is chosen for either a long, narrow hunting canoe
+    or a broader carrying canoe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The tree is selected after search and anxious consultation.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If the tree is owned by another person, obtaining it may involve bargaining;
+    taking it without permission may lead to a quarrel.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tree is felled, stripped of boughs, cut to length, rough-hewn into shape,
+    and hollowed out by workmen with axes.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The canoe sides are described as about an inch thick at the gunwale and thicker
+    toward the bottom.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: workmen
+  description: People using axes to rough-hew and hollow the canoe from the felled
+    tree.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: tree owner
+  description: A person who may own the tree selected for canoe-making.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: canoe makers
+  assigned_to:
+  - fig:1
+  basis: The passage says workmen with axes rough-hew the felled tree and hollow out
+    the interior.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: owner of selected tree
+  assigned_to:
+  - fig:2
+  basis: The passage refers to bargaining if the selected tree is owned by another
+    person and quarrel if taken without permission.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: tree chosen, felled, and shaped into a canoe
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: canoe
+  literal_form: long narrow hunting canoe or broader carrying canoe shaped from a
+    tree trunk
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: axes
+  literal_form: axes used by workmen to rough-hew the felled tree into canoe shape
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Selecting and obtaining a canoe tree
+  summary: A suitable tree is chosen for the intended type of canoe after search and
+    consultation, with ownership affecting bargaining or conflict.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Shaping the canoe
+  summary: Workmen fell the tree, prepare the trunk, rough-hew it with axes, and hollow
+    it into a canoe form.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7378-7381
+  quote_or_summary: For either a long, narrow hunting canoe or a broader carrying
+    canoe, a tree of corresponding size is chosen after search and consultation.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 7381-7384
+  quote_or_summary: If the tree is owned by another person, acquiring it may involve
+    bargaining, and taking it without permission may cause a quarrel.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 7384-7388
+  quote_or_summary: The tree is felled, stripped of boughs, cut to length, rough-hewn
+    with axes, and hollowed; the sides are thinner at the gunwale and thicker toward
+    the bottom.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: high
+  notes: The passage is ethnographic craft description rather than a mythic narrative.
+    Literal extraction is strong, but no supported mythic motif or comparison claim
+    is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Heading mentions Ba-Ila stools, but the supplied passage text describes canoe-making; extraction follows the supplied passage content only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l7376-l7388
+  passage_sha256=912e27a46640548d87d383a2d1f0941244d0d64320b5666e15ec53042ef3f1ac
+

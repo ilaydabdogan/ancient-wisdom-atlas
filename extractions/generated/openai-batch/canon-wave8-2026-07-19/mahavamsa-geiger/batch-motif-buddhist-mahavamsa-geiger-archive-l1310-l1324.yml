@@ -1,0 +1,165 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l1310-l1324
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: The Mahavamsa, or The Great Chronicle of Ceylon / THUS THERE RESULTS AS THE
+    PROBABLE YEAH, OF THE; lines 1310-1324
+  start: '1310'
+  end: '1324'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A textual-critical note argues over whether Mahavamsa 21.11 should be read
+    with a Singhalese manuscript form giving Sena and Guttika twenty-two years of
+    reign, or with Burmese and Dipavamsa evidence giving twelve years. The note also
+    mentions later Ceylonese literature and an editorial correction preferring the
+    twelve-year reading.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage contrasts a Singhalese manuscript reading of Mahavamsa 21.11 with
+    a Burmese reading.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Singhalese manuscript reading would give the Damilas Sena and Guttika
+    twenty-two years of reign rather than twelve.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that Dipavamsa 18.47 has the twelve-year reading and that
+    this must be taken into account.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage mentions later Ceylonese literature, including Thupavamsa and
+    Pujavaliya, but the excerpt breaks off during another title beginning with “Raja-”.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note says the editor originally accepted the former reading but later gave
+    preference to the twelve-year reading in the corrections.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sena
+  description: Named as one of the Damilas whose reign length is affected by the textual
+    reading.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Guttika
+  description: Named as one of the Damilas whose reign length is affected by the textual
+    reading.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Damila
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage refers to “the Damilas Sena and Guttika.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: figures assigned a reign duration
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage discusses whether their reign lasted twenty-two or twelve years.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Textual-critical discussion of reign duration
+  summary: The passage discusses how manuscript and related textual evidence affects
+    whether Sena and Guttika are assigned twenty-two or twelve years of reign.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly compares variant readings in nearby textual witnesses:
+    a Singhalese manuscript reading of Mahavamsa 21.11 supports twenty-two years,
+    while the Burmese reading and Dipavamsa 18.47 support twelve years.'
+  claim_level: linguistic_similarity
+  target: Mahavamsa manuscript witnesses and Dipavamsa 18.47
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a textual-variant comparison, not evidence for a mythological
+    motif or symbolic pattern.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1310-1313
+  quote_or_summary: The note says to read Mah. 21.11 with the Singhalese MSS. rather
+    than the Burmese reading, “to give thus to the Damilas Sena and Guttika twenty-two
+    and not twelve years' reign.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1314-1315
+  quote_or_summary: The note states that Dipavamsa 18.47 has the twelve-year reading
+    and that this must be considered.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1315-1316
+  quote_or_summary: The note turns to later Ceylonese literature and names Thupavamsa
+    and Pujavaliya before the excerpt breaks off during another title.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1322-1324
+  quote_or_summary: A footnote says the editor originally accepted the former reading
+    but in the corrections preferred the twelve-year reading.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage is a scholarly textual-critical note rather than a mythic narrative.
+    No symbolic objects or mythology motif candidates are supported by the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol references were applied.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l1310-l1324
+  passage_sha256=498062a4fdedfe15ea0bb90825b42f5bd8621179eb6337d842683cf792a612a6
+

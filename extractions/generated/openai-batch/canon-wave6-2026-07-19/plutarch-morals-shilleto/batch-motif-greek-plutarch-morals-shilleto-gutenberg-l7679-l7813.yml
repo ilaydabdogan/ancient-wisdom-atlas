@@ -1,0 +1,491 @@
+---
+record_id: batch.motif.greek-plutarch-morals-shilleto-gutenberg-l7679-l7813
+source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+passage_locator:
+  label: THAT VIRTUE MAY BE TAUGHT. / ON VIRTUE AND VICE. / ON MORAL VIRTUE. / ON
+    ABUNDANCE OF FRIENDS.; lines 7679-7813
+  start: '7679'
+  end: '7813'
+  translation: Plutarch's Morals
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"freedom of speech ... is the greatest and most powerful remedy in friendship"'
+  summary: 'The passage discusses how rebuke and frank speech should be used among
+    friends: mild wording is preferred for reform, sharper imputations may be used
+    to prevent wrong action, and painful correction should be followed by soothing
+    treatment. It illustrates this with Odysseus provoking Achilles, Diogenes on friends
+    and enemies, and analogies to surgeons and statuaries.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contrasts milder rebukes such as saying someone forgot or acted
+    inadvertently with harsher statements that accuse unfair or shameful behavior.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Rebuke that seeks reform rather than injury is described as using language
+    chosen not to wound.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When stopping imminent wrongdoing, checking violent impulses, or strengthening
+    weak pursuit of virtue, the speaker may assign strange and unbecoming motives
+    to the person's behavior.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Odysseus in a Sophoclean play is said to rouse Achilles by suggesting that
+    he fears Troy's walls and Hector.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says imputations of cowardice, licentiousness, or meanness may
+    be used to urge suitable people toward good and away from bad conduct.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Diogenes is cited as saying that a person seeking a good life should have
+    good friends or red-hot enemies, because friends tell what is right and enemies
+    blame wrong actions.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Frank speech in friendship is called a powerful remedy that requires a suitable
+    occasion and moderation.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Those who rebuke are advised to imitate surgeons who treat pain after an operation
+    and to soothe by kind words after causing pain.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage compares soothing after rebuke to statuaries smoothing and polishing
+    images that have been broken or chipped.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A person left wounded and angry by rebuke is described as harder to win back,
+    so reprovers should not end the exchange at the painful stage.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Rebuker or adviser
+  description: A generic person who rebukes, advises, reproves, or uses freedom of
+    speech to reform another.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Person receiving rebuke
+  description: A generic person who may be on the verge of wrongdoing, weak in virtue,
+    pained by rebuke, or in need of reform.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Odysseus
+  description: Named as the speaker in a Sophoclean play who strives to rouse Achilles
+    by imputing fear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Achilles
+  description: Named as the high-spirited and courageous man whom Odysseus attempts
+    to rouse.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Hector
+  description: Named as the nearby opponent whom Odysseus invokes when challenging
+    Achilles.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Diogenes
+  description: Cited as the source of a saying about good friends and red-hot enemies.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Good friends
+  description: Described as those who tell a person what is right and advise before
+    wrongdoing.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Red-hot enemies
+  description: Described as enemies who blame a person after wrong actions.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Surgeons
+  description: Used in an analogy for people who relieve pain after causing it through
+    an operation.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Statuaries
+  description: Used in an analogy for smoothing and polishing images that are broken
+    or chipped.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: Reforming speaker
+  assigned_to:
+  - fig:1
+  basis: The passage describes rebuke that desires to reform and not to wound, and
+    later addresses those who reprove.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:2
+  label: Target of correction
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The passage concerns the person receiving rebuke; Achilles serves as the
+    specific example of such a recipient.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: role:3
+  label: Provocative challenger
+  assigned_to:
+  - fig:3
+  basis: Odysseus is described as striving to rouse Achilles by assigning a motive
+    of fear.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Courageous person roused by imputation
+  assigned_to:
+  - fig:4
+  basis: Achilles is treated as an example of a high-spirited and courageous man who
+    is provoked by the imputation of cowardice.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: Named dangerous opponent
+  assigned_to:
+  - fig:5
+  basis: Hector is invoked as near and unsafe to beard in Odysseus' challenge to Achilles.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Cited moral authority
+  assigned_to:
+  - fig:6
+  basis: Diogenes is cited for a maxim about friends, enemies, and moral correction.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: Moral advisers
+  assigned_to:
+  - fig:7
+  basis: Good friends are said to tell what is right and to advise before wrongdoing.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: Reproving opponents
+  assigned_to:
+  - fig:8
+  basis: Enemies are said to censure and blame wrong actions.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: Healing analogy figures
+  assigned_to:
+  - fig:9
+  basis: Surgeons provide the analogy for painful treatment followed by soothing care.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: Repair analogy figures
+  assigned_to:
+  - fig:10
+  basis: Statuaries provide the analogy for smoothing and polishing damaged images.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Walls of Troy
+  literal_form: the walls of Troy
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Red-hot enemies
+  literal_form: red-hot enemies
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Remedy in friendship
+  literal_form: freedom of speech as the greatest and most powerful remedy in friendship
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Surgical care after operation
+  literal_form: surgeons performing an operation, then bathing and fomenting the suffering
+    part
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Broken or chipped image
+  literal_form: images which have been broken or chipped, then smoothed and polished
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Moderate reforming rebuke
+  summary: The passage gives examples of softer corrective language and says reforming
+    rebuke should avoid needless wounding.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Odysseus provokes Achilles
+  summary: Odysseus is presented as rousing Achilles by suggesting that Achilles fears
+    Troy and Hector.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Friends, enemies, and moral correction
+  summary: The passage contrasts friends who advise what is right with enemies who
+    blame wrong actions, then calls frank speech a remedy in friendship.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Soothing after painful rebuke
+  summary: Reprovers are told not to leave the corrected person at the painful stage,
+    but to soothe as surgeons treat pain and as statuaries polish damaged images.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Frank counsel as moral remedy
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames properly timed frank speech and advice as a remedy within
+    friendship that prevents wrongdoing and supports virtue.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a philosophical-ethical motif rather than a mythic narrative episode.
+- id: motif:2
+  label: Provocative rebuke rouses courage
+  taxonomy_refs: []
+  basis: Odysseus' challenge to Achilles illustrates the use of an accusation of fear
+    or cowardice to rouse a courageous person toward action.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage only summarizes the cited dramatic episode and uses it as
+    an ethical example.
+- id: motif:3
+  label: Painful correction followed by healing or repair
+  taxonomy_refs:
+  - wisdom
+  basis: The passage compares rebuke to surgery and statue repair, emphasizing that
+    pain should be followed by soothing or restoration.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The healing and repair elements are analogical images in a moral essay,
+    not independent narrative actions.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage explicitly compares frank rebuke to surgical treatment: both
+    may cause pain but should be followed by soothing care.'
+  claim_level: same_function
+  target: surgical healing imagery
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is an analogy within the essay, not evidence of a shared
+    mythic tradition.
+- id: claim:2
+  claim: The passage explicitly compares post-rebuke soothing to statuary repair,
+    where damaged images are smoothed and polished.
+  claim_level: same_function
+  target: craft restoration imagery
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns moral instruction through craft imagery, not
+    a separate mythological motif.
+- id: claim:3
+  claim: The Sophoclean Odysseus-Achilles example is used as a literary comparison
+    for provoking a courageous person by imputing cowardice.
+  claim_level: same_function
+  target: Greek heroic/Sophoclean tradition involving Odysseus, Achilles, Hector,
+    and Troy
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not narrate the full dramatic context and uses the
+    episode only to support advice about rebuke.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7679-7685
+  quote_or_summary: The passage gives milder rebuke formulas such as saying someone
+    forgot or acted inadvertently, and says this suits rebuke that desires reform
+    rather than wounding.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7686-7690
+  quote_or_summary: When preventing wrongdoing, checking violent impulse, or strengthening
+    weak pursuit of virtue, the speaker may assign unbecoming motives to the behavior.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 7690-7698
+  quote_or_summary: 'Odysseus is said to rouse Achilles by saying he fears Troy; the
+    quoted challenge includes: "Hector''s near, it is not safe to beard him."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 7699-7707
+  quote_or_summary: The passage explains that imputing cowardice to the courageous,
+    licentiousness to the sober, or meanness to the liberal may urge them toward good
+    and deter bad conduct.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7708-7719
+  quote_or_summary: Enemies censure wrong action; Diogenes is cited on good friends
+    and red-hot enemies; the passage concludes that tactful freedom of speech is a
+    powerful remedy in friendship needing occasion and moderation.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7721-7728
+  quote_or_summary: Because frank speech is often painful, reprovers should imitate
+    surgeons who bathe and foment after an operation, and should soothe by kind words
+    as statuaries smooth broken or chipped images.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 7728-7734
+  quote_or_summary: A person broken and wounded by rebuke, if left angry and unsettled,
+    becomes hard to win back; reprovers should not end contact at the painful stage.
+  source_text_path: texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on the supplied English passage. Motif identification
+    is limited because the passage is mainly philosophical and ethical, with mythic
+    material used only as a brief literary example.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The later footnote list in the supplied line range was not used for motif extraction because the relevant passage content is the main prose on rebuke, frank speech, and analogies.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-plutarch-morals-shilleto-gutenberg__l7679-l7813
+  passage_sha256=3516abf2bb75ff5deee396c8400ffe9a3606ff84bd5bd76c029ec2e440fd9024
+

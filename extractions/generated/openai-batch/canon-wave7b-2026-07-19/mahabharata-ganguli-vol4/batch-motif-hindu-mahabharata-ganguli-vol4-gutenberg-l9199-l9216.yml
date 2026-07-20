@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l9199-l9216
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION LIV / SECTION LV / SECTION LVI / SECTION LVII; lines 9199-9216
+  start: '9199'
+  end: '9216'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"my heart becomes filled with grief"'
+  summary: Yudhishthira tells Bhishma that he is stupefied and grieved by the destruction
+    of many kings and men after the conquest of the earth. He laments the women deprived
+    of male kin, fears that the slayers of their Kuru kinsmen will sink head-downward
+    into hell, and asks for instruction in severe penance. Vaisampayana then narrates
+    that Bhishma reflected and replied.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira says that hearing the addressee's words makes him stupefied.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira reflects that the earth is destitute of many prosperous kings
+    and says his heart is filled with grief.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yudhishthira says he conquered the earth, acquired hundreds of kingdoms, and
+    slaughtered millions of men.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yudhishthira laments the plight of women deprived by his side of husbands,
+    sons, maternal uncles, and brothers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Yudhishthira says that, after slaying Kuru kinsmen, friends, and well-wishers,
+    they will sink in hell with heads hanging downwards.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Yudhishthira states a desire to undertake severe penances and to receive instructions
+    from Bhishma.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Vaisampayana narrates that Bhishma heard Yudhishthira, reflected with understanding,
+    and addressed him in reply.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Speaker who expresses stupefaction, grief over slaughter, fear of hell,
+    and desire for instruction in penance.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Bhishma
+  description: Addressed as grandsire, Bharata, and king; described by Vaisampayana
+    as high-souled and as replying after reflection.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Foremost ladies
+  description: Women described as deprived of husbands, sons, maternal uncles, and
+    brothers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Kurus
+  description: The slain Kurus are described by Yudhishthira as kinsmen, friends,
+    and well-wishers.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Vaisampayana
+  description: Narrator who continues the account and reports Bhishma's reaction.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: grieving victor
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira says he conquered the earth and slaughtered millions, and that
+    his heart is filled with grief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: penance-seeking instruction seeker
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira says he desires severe penances and wishes to receive instructions.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: elder respondent and instructor
+  assigned_to:
+  - fig:2
+  basis: Bhishma is addressed for instructions and is narrated as reflecting and replying.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: bereaved women
+  assigned_to:
+  - fig:3
+  basis: The women are described as deprived of husbands, sons, maternal uncles, and
+    brothers.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: slain kinsmen
+  assigned_to:
+  - fig:4
+  basis: Yudhishthira says the Kurus were slain and identifies them as kinsmen, friends,
+    and well-wishers.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: narrator
+  assigned_to:
+  - fig:5
+  basis: Vaisampayana continues the narration of Bhishma hearing and replying to Yudhishthira.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hell as downward destination
+  literal_form: hell, entered by sinking with heads hanging downward
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: conquered earth emptied of kings
+  literal_form: earth described as destitute of many prosperous kings after conquest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Yudhishthira's lament after conquest
+  summary: Yudhishthira speaks to Bhishma of grief over the earth losing many kings,
+    his own conquest, the slaughter of millions, and the bereavement of women.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Fear of hell and request for penance
+  summary: Yudhishthira says that the slayers of the Kuru kinsmen will sink head-downward
+    into hell, then asks Bhishma for instruction in severe penance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Bhishma prepares a reply
+  summary: Vaisampayana reports that Bhishma hears Yudhishthira, reflects carefully,
+    and addresses him in reply.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: victor's remorse after mass slaughter
+  taxonomy_refs: []
+  basis: Yudhishthira, the conqueror of the earth, grieves over slaughtered millions
+    and bereaved women.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage states remorse directly but does not narrate the preceding
+    battle itself.
+- id: motif:2
+  label: fear of downward hell after kin-slaying
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Yudhishthira says that after slaying Kuru kinsmen, friends, and well-wishers,
+    they will sink into hell with heads downward.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives an anticipated fate rather than a narrated afterlife
+    journey, and no judge or judgment scene is described.
+- id: motif:3
+  label: seeking wisdom for penance after wrongdoing
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira asks Bhishma for instruction because he wishes to undertake
+    severe penances.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The actual instruction is not included in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: SECTION LVII, within lines 9199-9216
+  quote_or_summary: Yudhishthira says hearing the addressee's words makes him stupefied
+    and that reflecting on the earth destitute of many prosperous kings fills his
+    heart with grief.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized with short quoted phrasing in canonical
+    text.
+- id: ev:2
+  type: summary
+  locator: SECTION LVII, within lines 9199-9216
+  quote_or_summary: Yudhishthira says he conquered the earth, acquired hundreds of
+    kingdoms, and grieves at the thought of the millions of men he slaughtered.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: SECTION LVII, within lines 9199-9216
+  quote_or_summary: Yudhishthira asks what will be the plight of foremost ladies deprived
+    by his side of husbands, sons, maternal uncles, and brothers.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: SECTION LVII, within lines 9199-9216
+  quote_or_summary: Yudhishthira says that after slaying the Kurus, their kinsmen
+    and well-wishers, they will sink in hell head-downward, and he asks for instruction
+    in severe penances.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized with brief quoted detail.
+- id: ev:5
+  type: summary
+  locator: SECTION LVII, within lines 9199-9216
+  quote_or_summary: Vaisampayana narrates that high-souled Bhishma heard Yudhishthira's
+    words, reflected with understanding, and addressed him in reply.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied Section LVII passage. Motif
+    candidates are cautious because the passage contains remorse, feared hell, and
+    a request for instruction, but not the subsequent teaching or a narrated afterlife
+    event. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external context beyond supplied metadata and passage was used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l9199-l9216
+  passage_sha256=b7b64a1f24519b08bc31c744e2e12dd248ebdcd85cd8d45bb0c0a93ffbac8b81
+

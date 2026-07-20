@@ -1,0 +1,406 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l582-l604
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. V / CHAP. VI / CHAP. VII / CHAP. VIII; lines 582-604
+  start: '582'
+  end: '604'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: The boy was sprinkled with water, and was given the name of Hrut.
+  summary: The passage recounts Hrut's birth and naming, his exceptional growth and
+    appearance, Herjolf's death, Thorgerd's return to Iceland to stay with Hoskuld,
+    Thorgerd's later death, and the disposition of her wealth between Hoskuld and
+    Hrut.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Herjolf and Thorgerd have a son.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy is sprinkled with water and named Hrut.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Hrut is described as big and strong from an early age, handsome, tall, broad-shouldered,
+    slender-waisted, and well formed.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hrut is said to resemble Thorstein, his mother's father, or Ketill Flatnose.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Herjolf falls ill and dies, and his death is regarded as a great loss.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After Herjolf's death, Thorgerd wishes to go to Iceland to visit Hoskuld,
+    her son.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Hrut is left behind well placed with his relations.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Thorgerd travels to Hoskuld's home in Salmonriver-Dale, where Hoskuld receives
+    her with honour.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Thorgerd is wealthy and remains with Hoskuld until her death.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: After Thorgerd dies, Hoskuld takes her money, while Hrut owns one-half of
+    it.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Thorgerd
+  description: Woman associated with Herjolf; mother of Hrut and Hoskuld; travels
+    to Iceland, stays with Hoskuld, and dies there.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Herjolf
+  description: Man together with Thorgerd; father of Hrut; falls ill and dies.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Hrut
+  description: Son of Herjolf and Thorgerd; sprinkled with water and named; described
+    as physically exceptional; later owns half of Thorgerd's money.
+  role_refs:
+  - role:3
+  - role:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Hoskuld
+  description: Thorgerd's son; receives her with honour in Salmonriver-Dale and takes
+    her money after her death, while Hrut owns half.
+  role_refs:
+  - role:5
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Thorstein
+  description: Named as Hrut's mother's father and as one of the figures Hrut resembles.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Ketill Flatnose
+  description: Named as one of the figures Hrut resembles.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Hrut's relations
+  description: Unspecified relations with whom Hrut is left well placed when Thorgerd
+    travels to Iceland.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mother of Hrut
+  assigned_to:
+  - fig:1
+  basis: Thorgerd has a son with Herjolf, and the boy is named Hrut.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father of Hrut
+  assigned_to:
+  - fig:2
+  basis: Herjolf and Thorgerd have the son who is named Hrut.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named child
+  assigned_to:
+  - fig:3
+  basis: The boy is sprinkled with water and given the name Hrut.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: widow
+  assigned_to:
+  - fig:1
+  basis: The chapter heading names Thorgerd's second widowhood, and Herjolf falls
+    ill and dies.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: mother and son pair
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Thorgerd wishes to visit Hoskuld her son, and he receives his mother with
+    honour.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: deceased husband or partner
+  assigned_to:
+  - fig:2
+  basis: Herjolf had been together with Thorgerd and later falls ill and dies.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:7
+  label: wealth holder
+  assigned_to:
+  - fig:1
+  basis: Thorgerd is described as possessed of great wealth.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: claimant to Thorgerd's money
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: After Thorgerd's death, Hoskuld takes her money, but Hrut owns one-half of
+    it.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: kinship or lineage likeness figure
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Hrut is said to look like Thorstein or Ketill Flatnose.
+  evidence_refs:
+  - ev:2
+- id: role:10
+  label: caretaking relations
+  assigned_to:
+  - fig:7
+  basis: Hrut is left behind well placed with his relations.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water used in naming
+  literal_form: Water sprinkled on the boy when he is given the name Hrut.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: inherited wealth or money
+  literal_form: Thorgerd's wealth or money, later taken by Hoskuld with Hrut owning
+    half.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Birth and naming of Hrut
+  summary: Herjolf and Thorgerd have a son; the boy is sprinkled with water and named
+    Hrut.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hrut's growth and appearance
+  summary: Hrut is described as exceptionally large, strong, handsome, well formed,
+    and resembling Thorstein or Ketill Flatnose.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Herjolf's death
+  summary: Herjolf falls ill and dies, and his death is regarded as a great loss.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Thorgerd returns to Iceland
+  summary: Thorgerd decides to visit Hoskuld in Iceland, leaves Hrut well placed with
+    relations, and is received with honour at Hoskuld's home in Salmonriver-Dale.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Thorgerd's death and money
+  summary: Thorgerd remains with Hoskuld until her death; after she dies, Hoskuld
+    takes her money, while Hrut owns half.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: birth, water sprinkling, and naming of a child
+  taxonomy_refs: []
+  basis: The passage explicitly links Hrut's birth with water sprinkling and the giving
+    of his name.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No miraculous, divine, or explicitly sacred birth is stated in the passage.
+- id: motif:2
+  label: exceptional child marked by strength, beauty, and lineage resemblance
+  taxonomy_refs: []
+  basis: Hrut is described in unusually favorable physical terms and compared to named
+    kin or ancestral figures.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives heroic-style attributes but does not narrate a feat
+    or supernatural sign.
+- id: motif:3
+  label: widow returns to kin after husband's death
+  taxonomy_refs: []
+  basis: After Herjolf's death, Thorgerd travels to Iceland to stay with Hoskuld,
+    her son.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as family action rather than an explicitly ritual
+    or mythic journey.
+- id: motif:4
+  label: inheritance or divided claim after maternal death
+  taxonomy_refs: []
+  basis: After Thorgerd dies, Hoskuld takes her money while Hrut owns one-half of
+    it.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not explain the legal mechanism or conflict, only the
+    disposition of the money.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 582-604
+  quote_or_summary: Herjolf and Thorgerd have a son; “The boy was sprinkled with water,
+    and was given the name of Hrut.”
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 582-604
+  quote_or_summary: Hrut is described as big, strong, handsome, tall, broad-shouldered,
+    slender-waisted, well formed, and resembling Thorstein or Ketill Flatnose.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 582-604
+  quote_or_summary: Herjolf falls ill and dies, and people regard his death as a great
+    loss.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 582-604
+  quote_or_summary: After Herjolf's death, Thorgerd wishes to go to Iceland to visit
+    Hoskuld her son; Hrut is left behind well placed with his relations.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 582-604
+  quote_or_summary: Thorgerd goes to Hoskuld's home in Salmonriver-Dale; he receives
+    her with honour, and she remains with him until her death.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 582-604
+  quote_or_summary: After Thorgerd becomes sick and dies, Hoskuld takes her money,
+    but Hrut his brother owns one-half of it.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and not mapped to taxonomy families because the passage does not explicitly support
+    divine, miraculous, or comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or directly support a comparative claim.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l582-l604
+  passage_sha256=81f27b86e6257e178bd094d962c1583d952e2dccd0030ab6e0e1bdfd836b7548
+

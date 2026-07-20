@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l5686-l5723
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: CAME   TO    ONEATA  95 / CAME   TO    ONEATA  97 / I02  THE   ADVENTURES   OF
+    / MATANDUA  103; lines 5686-5723
+  start: '5686'
+  end: '5723'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“Our son, our true son, whom the gods have sent us over the sea”"
+  summary: An old couple find a dead Tonga woman and child after a canoe wreck. As
+    they prepare to bury them, the child opens his eyes and smiles. The woman takes
+    the child, calls him her true son sent by the gods, and says their empty house
+    will no longer be a cause for weeping. They bury Talingo on the beach, carry the
+    boy to town, and tell neighbors he is their son sent over the sea by the gods.
+    The child lives and thrives.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The wife says the dead strangers are Tonga folk whose canoe was wrecked and
+    who drifted there.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wife proposes digging a grave and burying the young woman and child.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The child opens his eyes and smiles while the couple are looking sadly at
+    the dead.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The woman takes the child from its mother, hugs it to her breast, and alternates
+    between laughing and crying.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The woman calls the child her son and says the gods sent him and took pity
+    on their empty house.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Talingo is buried on the beach where she had lain down to die after bringing
+    her child safely to land.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The couple carry the boy to town and answer neighbors' questions by calling
+    him their true son sent over the sea by the gods.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The child lives, thrives, and begins growing up.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: old man / husband
+  description: An old man who sobs over the sight and stands with his wife looking
+    at the dead.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: old woman / wife
+  description: The old man's wife; she identifies the strangers, proposes burial,
+    takes the living child, and calls him her son.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the child / boy
+  description: A child found with his mother, first treated as dead, then opening
+    his eyes and smiling; later carried to town and said to live and thrive.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Talingo
+  description: The child's mother, buried on the beach where she died after bringing
+    her child safely to land.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: neighbours
+  description: Town neighbors who gather and ask where the boy came from and whose
+    child he was.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: the gods
+  description: Beings named in the woman's and couple's speech as having sent the
+    child and taken pity on the couple.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: grieving discoverers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The old couple weep and look sadly on the dead strangers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: adoptive parents / claimants
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They call the boy their son and true son after the woman takes him from his
+    mother.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: surviving found child
+  assigned_to:
+  - fig:3
+  basis: The child opens his eyes, smiles, is carried to town, and lives and thrives.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: role:4
+  label: dead mother who brought child to shore
+  assigned_to:
+  - fig:4
+  basis: Talingo is described as having lain down to die after bringing her child
+    safe to land.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: community questioners
+  assigned_to:
+  - fig:5
+  basis: The neighbors gather and ask where the boy came from and whose child he was.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: divine senders in human speech
+  assigned_to:
+  - fig:6
+  basis: The woman and couple say that the gods sent the child and took pity on them.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: sea arrival
+  literal_form: the sea / over the sea / drifted hither
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: wrecked Tonga canoe
+  literal_form: a Tonga canoe has been wrecked
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: beach grave
+  literal_form: grave and burial on the beach
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: empty house
+  literal_form: our empty house
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Discovery after canoe wreck
+  summary: The old couple view the young Tonga woman and child as dead strangers after
+    a wrecked canoe and drifting arrival; the wife proposes burial.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Child opens eyes and is claimed
+  summary: The child opens his eyes and smiles; the woman takes him, embraces him,
+    calls him her true son, and says the gods have sent him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Burial and public explanation
+  summary: Talingo is buried on the beach, the boy is carried to town, and the couple
+    tell neighbors that he is their true son sent over the sea by the gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divinely sent waterborne found child
+  taxonomy_refs:
+  - miraculous_child
+  basis: The child survives after a wrecked canoe and is repeatedly described by the
+    couple as sent by the gods over the sea.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage presents divine sending through human speech, not as directly
+    narrated divine action; it does not describe a miraculous birth.
+- id: motif:2
+  label: apparent death followed by survival
+  taxonomy_refs: []
+  basis: The couple look on the mother and child as dead and prepare for burial, but
+    the child opens his eyes, smiles, and later lives and thrives.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage does not state that the child actually died; it shows mistaken
+    or uncertain appearance of death.
+- id: motif:3
+  label: empty household receives a child
+  taxonomy_refs: []
+  basis: The woman says they will no longer weep over their empty house because the
+    gods have sent the boy, whom they claim as their true son.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The phrase 'empty house' supports loss or childlessness but the passage
+    excerpt does not explicitly give the couple's prior family history.
+- id: motif:4
+  label: mother dies after bringing child to safety
+  taxonomy_refs: []
+  basis: Talingo is said to have lain down to die on the beach after bringing her
+    child safe to land.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not elaborate on the circumstances between wreck, landing,
+    and death.
+comparison_claims:
+- id: claim:1
+  claim: At motif-family level, the episode can be compared to a miraculous-child
+    pattern because a child found after danger at sea is received as a true son and
+    interpreted as sent by the gods.
+  claim_level: same_motif
+  target: miraculous_child motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison rests on the couple's speech and the child's survival;
+    the passage does not narrate an explicit divine intervention or sacred birth.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5688-5697
+  quote_or_summary: The wife says the strangers are Tonga folk whose canoe was wrecked
+    and who drifted there; she pities the young woman and child and suggests digging
+    a grave to bury them.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 5698-5705
+  quote_or_summary: "“suddenly the child opened his eyes and smiled in her face”;
+    the woman then snatches the child from its mother and hugs it."
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 5706-5713
+  quote_or_summary: "“My son you are; my true son shall you be, for the gods have
+    sent you”; she adds that they will no longer weep over their “empty house” because
+    “The gods have taken pity upon us.”"
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 5714-5718
+  quote_or_summary: They bury Talingo on the beach where she had lain down to die
+    after bringing her child safe to land, but carry the boy to town.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 5718-5722
+  quote_or_summary: 'When neighbors ask where the boy came from and whose child he
+    was, the couple answer: “Our son, our true son, whom the gods have sent us over
+    the sea.”'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: line 5723
+  quote_or_summary: "“And the child lived and throve, growing up into a fine”"
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt from an excerpt ending mid-sentence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about the child's survival, adoption, sea arrival,
+    and the couple's speech about the gods. Motif interpretation is more cautious
+    because divine causation is reported by characters and the excerpt ends mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unstated narrative context used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l5686-l5723
+  passage_sha256=58a1472b581a1703e4a755404449f7e7e6205760dc579e98c4817e1a4bdecc34
+

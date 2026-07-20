@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l40119-l40141
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: POLYGYNY. / THE REGULATION OF MARRIAGE. / CHAPTER LIV / BURIAL AND MOURNING
+    CEREMONIES.; lines 40119-40141
+  start: '40119'
+  end: '40141'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Murua mortuary remains and containers: a skull from
+    a cliff shelter decorated with sapisapi, bones deposited in hemispherical pottery
+    bowls with patterned rims, and another skull lying in an unusually shaped shallow
+    pottery dish with an impressed exterior pattern. A plate caption identifies the
+    objects as sepulchral pottery used on Murua.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Murua skull was reportedly picked up in a cliff shelter and was profusely
+    decorated with sapisapi.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The pots in which bones were deposited were usually approximately hemispherical
+    bowls, though some were less than hemispherical.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The rims of these pots were often ornamented with impressed or incised patterns,
+    commonly forming a band just below the rim.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One skull lay almost covered with mould in a shallow pottery dish of an unusual
+    type.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The outer surface of the shallow dish, except for a clear central space, was
+    covered by an impressed pattern.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The plate caption identifies the pictured objects as sepulchral pottery used
+    on Murua.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Murua skull from cliff shelter
+  description: A skull from Murua, reportedly found in a cliff shelter and decorated
+    with sapisapi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bones deposited in pots
+  description: Bones deposited in pottery bowls.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Skull in shallow pottery dish
+  description: A skull lying almost covered with mould in a shallow pottery dish of
+    an unusual type.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: decorated mortuary remain
+  assigned_to:
+  - fig:1
+  basis: The skull is described as profusely decorated with sapisapi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deposited mortuary remains
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Bones are described as deposited in pots, and one skull is described as lying
+    in a shallow pottery dish.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: sapisapi decoration
+  literal_form: sapisapi worn as ornaments and used to decorate a skull
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sepulchral pottery vessels
+  literal_form: hemispherical pottery bowls and shallow pottery dish used with bones
+    or skulls
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: impressed or incised pottery patterns
+  literal_form: ornamented rims, rim bands, and impressed exterior dish pattern
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: cliff shelter
+  literal_form: cliff shelter where a decorated Murua skull was found
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Decorated skull in cliff shelter
+  summary: A Murua skull found in a cliff shelter is described as profusely decorated
+    with sapisapi.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bones deposited in patterned pottery bowls
+  summary: Bones were deposited in roughly hemispherical pottery bowls whose rims
+    often bore impressed or incised patterns.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Skull in unusual shallow pottery dish
+  summary: One skull lay in a shallow pottery dish of unusual type, with mould over
+    the skull and an impressed pattern on the dish exterior.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: decorated skull in shelter
+  taxonomy_refs: []
+  basis: The passage reports a Murua skull found in a cliff shelter and profusely
+    decorated with sapisapi.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage reports the object and find context but does not explain ritual
+    meaning.
+- id: motif:2
+  label: bones deposited in sepulchral pottery
+  taxonomy_refs: []
+  basis: Bones are described as deposited in pottery bowls, and the plate caption
+    identifies the pottery as sepulchral.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage does not state the full mortuary sequence or accompanying
+    rites.
+- id: motif:3
+  label: ornamented burial containers
+  taxonomy_refs: []
+  basis: The passage emphasizes impressed or incised rim patterns on pots and an impressed
+    exterior pattern on a shallow dish associated with skulls or bones.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: Decoration is described materially; symbolic significance is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 40119-40122
+  quote_or_summary: Sapisapi are mentioned as ornaments; a Murua skull from a cliff
+    shelter was reportedly profusely decorated with sapisapi.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 40123-40130
+  quote_or_summary: Bones were deposited in pottery vessels usually shaped as approximately
+    hemispherical bowls, often with impressed or incised rim ornamentation forming
+    a band below the rim.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 40131-40136
+  quote_or_summary: One skull lay almost covered with mould in an unusual shallow
+    pottery dish whose outer surface, except a clear central space, was covered with
+    an impressed pattern.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 40137-40141
+  quote_or_summary: "“Sepulchral pottery used on Murua”"
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The material description is clear, but motif interpretation is limited because
+    the passage provides little explanation of ritual function beyond mortuary use.
+    No comparison claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Ethnographic passage about Murua mortuary remains and sepulchral pottery; no taxonomy motif family was assigned.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l40119-l40141
+  passage_sha256=1005b117f2b0727b844a90ae2f87d5cbf72b7d43028a0e5bf8ec5784614ebbb2
+

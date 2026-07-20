@@ -1,0 +1,148 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l20739-l20743
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION CXLIV / SECTION CXLV / SECTION CXLVI / SECTION CXLVII; lines 20739-20743
+  start: '20739'
+  end: '20743'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The Rishis said, "O wielder of Pinaka... we desire to hear the glory of Vasudeva."
+  summary: The Rishis address a revered figure by epithets including wielder of Pinaka
+    and ask to hear the glory of Vasudeva.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speakers are identified as the Rishis.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Rishis address someone as wielder of Pinaka, tearer of the eyes of Bhaga,
+    and one worshipped by all the universe.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Rishis state that they desire to hear the glory of Vasudeva.
+  category: speech
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: The Rishis
+  description: A group of Rishis who speak and make a request.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Addressed figure with Pinaka epithets
+  description: The addressee is called wielder of Pinaka, tearer of the eyes of Bhaga,
+    and worshipped by all the universe.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Vasudeva
+  description: A figure whose glory the Rishis desire to hear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Bhaga
+  description: A figure mentioned in the epithet concerning the tearing of Bhaga's
+    eyes.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: requesting speakers
+  assigned_to:
+  - fig:1
+  basis: The passage says the Rishis spoke and desired to hear the glory of Vasudeva.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: revered addressee
+  assigned_to:
+  - fig:2
+  basis: The addressee is invoked with honorific epithets and described as worshipped
+    by all the universe.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: subject of requested praise
+  assigned_to:
+  - fig:3
+  basis: Vasudeva is the one whose glory the Rishis desire to hear.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Pinaka
+  literal_form: Named object, Pinaka, in the epithet 'wielder of Pinaka'.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Rishis request to hear Vasudeva's glory
+  summary: The Rishis address a revered figure with epithets and ask to hear about
+    the glory of Vasudeva.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: request for sacred instruction or praise
+  taxonomy_refs:
+  - wisdom
+  basis: The Rishis ask a revered addressee to tell them about the glory of Vasudeva.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is brief and contains only the request, not the instruction
+    or praise that may follow.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: SECTION CXLVII; lines 20739-20743
+  quote_or_summary: '"The Rishis said... we desire to hear the glory of Vasudeva."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    by the very short passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims are made because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l20739-l20743
+  passage_sha256=1216ca829fac6213ed706b9edc9057d3c8ed841cec9214867154853e97a0c4d8
+

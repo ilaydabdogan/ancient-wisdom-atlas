@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l5614-l5647
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: DREAMS / DREAMS / DREAMS / LENGUA METHOD OP PRODUCING FIRE.; lines 5614-5647
+  start: '5614'
+  end: '5647'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“when the south wind blows they take off their blankets and shake them ...
+    in order to shake out the sickness”"
+  summary: 'The passage introduces a chapter on superstition. It describes a belief
+    that the south wind brings sickness, prompting Indians to remove and shake their
+    blankets to expel it. The narrator argues that the belief has a factual basis:
+    diseases contracted from whites spread from southern and south-eastern populations
+    into the Paraguayan Chaco, and the cold south wind can cause illness after tropical
+    heat exposure. The passage also begins to mention gumboils attributed to eating
+    fat.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: When the south wind blows, the Indians take off their blankets and shake them.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated purpose of shaking the blankets is to shake out sickness believed
+    to be brought by the south wind.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator says that north and south are the most prevalent winds in the
+    region.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator contrasts the sparsely populated north with south-eastern settlements
+    where measles, small-pox, and influenza are propagated.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator says southern Indians and river Indians to the south-east contract
+    diseases from whites and that these diseases eventually reach Indians in the Paraguayan
+    Chaco.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The south wind is described as cold and as producing complications following
+    chill when it strikes bodies accustomed to tropical heat.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage begins to state that the Indian frequently suffers from gumboils
+    and attributes their origin to eating fat.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Indians in the Paraguayan Chaco
+  description: The group whose belief and practice concerning the south wind and sickness
+    are described.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Southern Indians and river Indians to the south-east
+  description: Groups described as contracting diseases from whites before those diseases
+    spread further.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Whites
+  description: People from whom southern and south-eastern Indians are said to contract
+    diseases.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual actors against sickness
+  assigned_to:
+  - fig:1
+  basis: They shake blankets when the south wind blows in order to shake out sickness.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipients of disease from the south
+  assigned_to:
+  - fig:1
+  basis: Diseases are said eventually to reach Indians in the Paraguayan Chaco from
+    the south or south-east.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: intermediate disease carriers
+  assigned_to:
+  - fig:2
+  basis: They contract diseases from whites and these diseases spread among their
+    tribes before reaching the Paraguayan Chaco.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: source population for introduced diseases
+  assigned_to:
+  - fig:3
+  basis: Southern and south-eastern Indians are said to contract diseases from whites.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Shaking blankets against the south wind’s sickness
+  summary: When the south wind blows, the Indians remove and shake their blankets
+    because they believe the wind brings sickness and that shaking expels it.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Narrated explanation for disease arriving from the south
+  summary: The narrator explains the belief by describing disease propagation from
+    whites to southern and south-eastern Indians and then to the Paraguayan Chaco,
+    along with the physiological effects of cold south winds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wind-borne sickness averted by shaking garments
+  taxonomy_refs: []
+  basis: The passage reports a belief that the south wind brings sickness and a corresponding
+    action of shaking blankets to remove it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic description of a practice and belief, not a narrative
+    myth episode.
+- id: motif:2
+  label: empirical basis beneath a superstition
+  taxonomy_refs: []
+  basis: The narrator explicitly says that many superstitions have an underlying stratum
+    of fact, then gives the south-wind sickness belief as an example.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This reflects the narrator’s interpretive framing rather than an indigenous
+    explanation stated at length in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5614-5647
+  quote_or_summary: "“when the south wind blows they take off their blankets and shake
+    them ... in order to shake out the sickness which they think it brings.”"
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 5614-5647
+  quote_or_summary: The narrator says north and south are the prevalent winds, with
+    sparsely populated regions to the north and disease-propagating settlements to
+    the south-east.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5614-5647
+  quote_or_summary: Southern Indians and river Indians to the south-east are said
+    to contract diseases from whites; the diseases spread among these tribes and eventually
+    reach Indians in the Paraguayan Chaco.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5614-5647
+  quote_or_summary: The south wind is described as cold and as producing illness complications
+    after chill in bodies long exposed to tropical heat.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5614-5647
+  quote_or_summary: The passage begins to note frequent gumboils and the attribution
+    of their origin to eating fat.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal practice and narrator’s explanation are clear. Motif labels are
+    descriptive rather than linked to the supplied taxonomy. No comparison claims
+    are made because the passage itself does not support cross-text or cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The heading mentions producing fire, but the supplied passage content mainly concerns superstition, south wind, sickness, disease transmission, and the start of a note on gumboils; no fire motif was extracted from this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l5614-l5647
+  passage_sha256=d2c452a65aed37d966682c965e4eb3bc450a98cc4df785b8ed6f2395058232ef
+

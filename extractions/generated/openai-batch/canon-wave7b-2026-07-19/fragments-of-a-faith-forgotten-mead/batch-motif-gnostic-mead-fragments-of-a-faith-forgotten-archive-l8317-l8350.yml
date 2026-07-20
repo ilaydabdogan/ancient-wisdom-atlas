@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.gnostic-mead-fragments-of-a-faith-forgotten-archive-l8317-l8350
+source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+passage_locator:
+  label: FRAGMENTS   OF    A    FAITH    FORGOTTEN. / PHILO   ON   THE   CONTEMPLATIVE   LIFE.  81
+    / FRAGMENTS   OF   A    FAITH   FORGOTTEN. / PHILO   ON   THE   CONTEMPLATIVE   LIFE.  88;
+    lines 8317-8350
+  start: '8317'
+  end: '8350'
+  translation: Fragments of a Faith Forgotten
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses mathematical and numerological interpretations of
+    the number 50, including a 3-4-5 triangle, Philonic triangular and square number
+    series, and the summing of those series to 50.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A triangle is described with side proportions 3, 4, and 5, and the square
+    values 9, 16, and 25 are connected with the number 50.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Philo is said to speak in Qu. in Gen. iii.39 about two numerical series called
+    triangles and squares.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The triangular series is given as 1, 3, 6, 10.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:4
+  text: The square series is given as 1, 4, 9, 16.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:5
+  text: The commentator says that correspondences may be drawn from the ordering of
+    points, monads, or atoms, while the immediate focus remains the number 50.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The triangular series is explained as cumulative sums, and the square series
+    as square numbers; their totals, 20 and 30, are added to make 50.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Philo
+  description: Named as the author who speaks in Qu. in Gen. iii.39 about the number
+    50 and two numerical series.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Plato
+  description: Named in connection with the nuptial number and the preceding numerical
+    subject.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: James Adam
+  description: Named as the author of The Nuptial Number of Plato, cited as a work
+    on the subject.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: Philonic numerical source
+  assigned_to:
+  - fig:1
+  basis: Philo is cited for information concerning the number 50 and two series called
+    triangles and squares.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: philosopher associated with nuptial-number material
+  assigned_to:
+  - fig:2
+  basis: The passage refers to Plato in connection with the nuptial number and the
+    mathematical discussion.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: modern cited commentator
+  assigned_to:
+  - fig:3
+  basis: James Adam is named as the author of a cited 1891 work on Plato's nuptial
+    number.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: number 50
+  literal_form: '50'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: 3-4-5 triangle
+  literal_form: triangle with side proportions 3, 4, and 5
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: triangular series
+  literal_form: 1, 3, 6, 10
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: square series
+  literal_form: 1, 4, 9, 16
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: points, monads, or atoms
+  literal_form: ordered points, monads, or atoms
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: geometric framing of the number 50
+  summary: The passage relates a 3-4-5 triangle and its square values to the number
+    50, in a context that references Plato's nuptial number.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Philonic triangular and square series
+  summary: Philo's two series, called triangles and squares, are listed and then explained
+    through sums and square numbers that together total 50.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: number 50 as organizing numerical focus
+  taxonomy_refs: []
+  basis: The passage repeatedly centers its calculations and explanations on the number
+    50, deriving or confirming it through triangle values and through triangular and
+    square series totals.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a numerical-symbolic pattern in an expository passage, not a narrative
+    mythic motif.
+- id: motif:2
+  label: geometric-number correspondences
+  taxonomy_refs: []
+  basis: The passage associates triangle and square forms with numerical series, cumulative
+    sums, square numbers, and the final combined value 50.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The excerpt mentions an arrangement of points, monads, or atoms, but the
+    supplied text does not include the diagram or full argument.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a limited comparison between Platonic nuptial-number
+    material and Philonic numerical exegesis as examples of philosophical numerological
+    interpretation.
+  claim_level: same_function
+  target: Platonic nuptial-number speculation and Philonic number-50 exegesis
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not establish a mythic narrative parallel or historical
+    dependence; it only juxtaposes Plato-related material with Philo's numerical series
+    in a scholarly discussion.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8319-8322
+  quote_or_summary: The passage cites The Nuptial Number of Plato, by James Adam,
+    M.A., Cambridge, 1891, as a work on the subject.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:2
+  type: summary
+  locator: lines 8319-8324
+  quote_or_summary: The passage refers to Plato and describes a triangle whose sides
+    bear the proportions 3, 4, and 5; the associated square values 9, 16, and 25 are
+    connected with the total 50.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:3
+  type: summary
+  locator: lines 8324-8332
+  quote_or_summary: 'Philo''s Qu. in Gen. iii.39 is cited for further information
+    concerning the number 50 and for two series called triangles and squares: 1, 3,
+    6, 10 and 1, 4, 9, 16.'
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:4
+  type: summary
+  locator: lines 8334-8338
+  quote_or_summary: The commentator says that interesting correspondences may be made
+    from the ordering of points, monads, or atoms, but that the present concern is
+    the number 50.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:5
+  type: summary
+  locator: lines 8340-8350
+  quote_or_summary: The triangular series is explained as cumulative sums up to 10;
+    the square series is explained as 1², 2², 3², and 4²; their totals are given as
+    20 and 30, which combine to 50.
+  source_text_path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The mathematical details and named figures are explicit. Motif identification
+    is less certain because the passage is scholarly and numerological rather than
+    narrative or ritual.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy entries directly match the passage's main forms, so symbol taxonomy references are left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:gnostic-mead-fragments-of-a-faith-forgotten-archive__l8317-l8350
+  passage_sha256=c91b069f5b2b7ced2818622cb0bb6d463b373921c842d7910087259fdeace9e4
+

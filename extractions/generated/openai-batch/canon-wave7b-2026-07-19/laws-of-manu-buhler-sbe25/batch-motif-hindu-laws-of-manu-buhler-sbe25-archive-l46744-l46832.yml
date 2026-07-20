@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l46744-l46832
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: IV,  210,  220. / LAWS    OF    MANU. / INDEX. / LAWS    OF    MANU.; lines
+    46744-46832
+  start: '46744'
+  end: '46832'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment from the Laws of Manu listing cross-referenced topics
+    under “Woman,” followed by entries for writing, Yajnavalkya-smriti, Yajur-veda,
+    Yakshas, Yama, and the Yavana race. The women-related entries concern purity,
+    visibility, names, Vedic recitation, sacrifice, property, punishments, remarriage,
+    water-sipping rules, sacraments, food restrictions, guardianship, treatment, and
+    witnesses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section headed “LAWS OF MANU” and includes a cluster
+    of entries under “Woman.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Entries under “Woman” include statements about purity of a woman’s mouth,
+    not looking at a naked woman, women’s names, and a referenced description of women’s
+    nature.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The index states that women are not allowed to recite the Veda and are not
+    allowed to sacrifice, with verse references supplied.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The index lists rules or references concerning women’s property, punishment
+    in the next life, remarried women, legal limitation, sipping water, and sacraments
+    without Mantras.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The index lists entries concerning six causes of ruin, special punishment,
+    unchaste women’s food, libation, women without guardians, women without male relatives,
+    treatment of women, and women as witnesses.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage later lists entries for Writing, Yajnavalkya-smriti, Yajur-veda,
+    Yakshas, Yama, and the Yavana race.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Woman
+  description: An indexed social and ritual-legal category with cross-references on
+    purity, Vedic recitation, sacrifice, property, punishment, remarriage, sacraments,
+    food, guardianship, treatment, and witnessing.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Brahmana
+  description: A Brahmana is named in the entry stating that food of an unchaste woman
+    is forbidden to a Brahmana.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: King
+  description: The king is mentioned in the entry that a woman without a guardian
+    is protected by the king.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Yakshas
+  description: Yakshas are listed as an index entry with references to I.37, III.196,
+    and XI.96.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Yama
+  description: Yama is listed as an index entry with multiple book and verse references.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: indexed ritual-legal subject
+  assigned_to:
+  - fig:1
+  basis: The women-related entries list ritual, legal, and social topics such as Vedic
+    recitation, sacrifice, property, punishment, sacraments, food, and witnesses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: protected category in absence of guardian
+  assigned_to:
+  - fig:1
+  basis: The passage includes an entry stating that a woman without a guardian is
+    protected by the king.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipient of food restriction
+  assigned_to:
+  - fig:2
+  basis: The passage states that food of an unchaste woman is forbidden to a Brahmana.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: protector
+  assigned_to:
+  - fig:3
+  basis: The king is named as protector of a woman without a guardian.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: indexed beings
+  assigned_to:
+  - fig:4
+  basis: Yakshas are listed as an index entry with verse references but without descriptive
+    action in this passage.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: indexed named figure
+  assigned_to:
+  - fig:5
+  basis: Yama is listed as an index entry with verse references but without descriptive
+    action in this passage.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water-sipping rule
+  literal_form: sipping water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: libation withheld
+  literal_form: libation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Veda and Mantras
+  literal_form: Veda recitation and Mantras
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: restriction from sacred speech and sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The index states that women are not allowed to recite the Veda, are not allowed
+    to sacrifice, and have sacraments performed without Mantras.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is an index entry, not a narrative or full prescriptive passage;
+    the motif label is limited to the indexed ritual restrictions.
+- id: motif:2
+  label: next-life punishment for wrongdoing
+  taxonomy_refs:
+  - divine_judgment
+  basis: The index includes an entry for punishment of wicked women in the next life.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not describe a judging deity, tribunal, or afterlife
+    scene; the taxonomy reference is tentative and based only on the phrase “next
+    life.”
+- id: motif:3
+  label: ritual exclusion through food and libation restrictions
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The index says the food of an unchaste woman is forbidden to a Brahmana and
+    that she receives no libation.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage gives index references only and does not narrate an exchange,
+    offering, or ritual context in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 46744-46762
+  quote_or_summary: Index entries under “Woman” include a woman’s mouth as always
+    pure, naked women not to be looked at, names of women, women’s nature, and prohibitions
+    on women reciting the Veda or sacrificing.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 46763-46783
+  quote_or_summary: Index entries under “Woman” include pregnant women and ferry tolls,
+    women’s property, punishment in the next life, remarried women, rights not lost
+    by limitation, a rule of sipping water, and sacraments performed without Mantras.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 46784-46805
+  quote_or_summary: Index entries include six causes of a woman’s ruin, special punishment,
+    food of an unchaste woman forbidden to a Brahmana, no libation for an unchaste
+    woman, protection by the king for a woman without a guardian, food of a woman
+    without male relatives forbidden, treatment of women, and witnesses for women.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 46806-46820
+  quote_or_summary: The index lists entries for Writing, Yajnavalkya-smriti, Yajnavalkyas,
+    and Yajur-veda, including cited pages and verses.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 46821-46832
+  quote_or_summary: The index lists Yakshas, Yama with multiple references, and the
+    Yavana race.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an index segment rather than a narrative or doctrinal exposition.
+    Literal extraction is moderately secure, but motif candidates are tentative because
+    the passage provides only brief index headings and verse references. No comparison
+    claims were extracted because the supplied passage itself does not make comparative
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes were extracted; the source passage consists of index entries only.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l46744-l46832
+  passage_sha256=b31c5e4fc1e8821c82603279ba0bdf06d63b6e27b2aff565fc12f0bebe76beaa
+

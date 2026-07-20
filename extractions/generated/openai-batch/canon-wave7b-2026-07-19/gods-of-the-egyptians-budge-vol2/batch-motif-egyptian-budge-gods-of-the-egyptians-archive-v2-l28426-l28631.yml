@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l28426-l28631
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 28426-28631
+  start: '28426'
+  end: '28631'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetical index segment lists entries from Mtesa through Nebt-khu
+    with volume and page references. It includes historical and religious names, Egyptian
+    divine names and compound forms, topics such as mysteries, names, mythical animals,
+    heaven and hell, and a tree entry.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index segment arranged alphabetically and made up of entry
+    labels with volume/page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Entries include Muhammad, Muhammad 'Ali, Muhammadans, and subentries for Muhammadans'
+    heaven and hell.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Entries include Mut and multiple compound forms involving Mut, including Mut-Bast-Isis,
+    Mut-Sekhet-Bast-Menhit, and Mut-Uatchet-Bast.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Entries list Mysteries of Isis, Mysteries of Osiris, Eleusinian Mysteries,
+    and a Myth of Pta and Isis.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: An index entry names the use and importance of the name.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: An index entry names mythical animals.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: An index entry names the Nebes Tree.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage includes several Neb- and Nebt- entries, including Neb-er-tcher,
+    Neb-tept identified parenthetically with Isis, Nebt, Nebt as a god, and Nebt-het.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Muhammad
+  description: Named in an index entry; the passage gives volume/page references but
+    no narrative description.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Mut
+  description: Named in an index entry and in several compound entries beginning with
+    or including Mut.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Isis
+  description: Named in entries for Mut-Bast-Isis, Mysteries of Isis, Myth of Pta
+    and Isis, and Neb-tept identified parenthetically with Isis.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Osiris
+  description: Named in the index entry for Mysteries of Osiris.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Pta
+  description: Named in the index entry for Myth of Pta and Isis.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Mummu-Tiamat
+  description: Named in an index entry with volume/page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Neb-er-tcher
+  description: Named in an index entry with multiple volume/page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Nebt
+  description: Named in index entries, including one that calls Nebt a god.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Nebt-het
+  description: Named in an index entry with volume/page references.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named in index entry
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: Each listed figure or name appears as an entry or named component in the
+    index segment.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:2
+  label: named in indexed mystery or myth topic
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Isis, Osiris, and Pta appear in entries titled as mysteries or myth topics.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: named in compound Mut-form entries
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage lists compound entries such as Mut-Bast-Isis and other Mut compounds.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: explicitly called a god in index
+  assigned_to:
+  - fig:8
+  basis: The passage includes an index entry described as 'Nebt, a god'.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Name
+  literal_form: 'Index topic: ''Name, use and importance of'''
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Nebes Tree
+  literal_form: Index entry naming the Nebes Tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: Heaven of Muhammadans
+  literal_form: Index subentry for Muhammadans' heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Hell of Muhammadans
+  literal_form: Index subentry for Muhammadans' hell
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Mythical animals
+  literal_form: Index entry naming mythical animals
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Indexed mystery rites
+  taxonomy_refs: []
+  basis: The index segment lists Mysteries of Isis, Mysteries of Osiris, and the Eleusinian
+    Mysteries.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage is only an index and gives no ritual actions, initiates, mythic
+    sequence, or theological explanation.
+- id: motif:2
+  label: Importance of names
+  taxonomy_refs: []
+  basis: The index segment contains a topic entry for the use and importance of the
+    name.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: No examples or narrative functions of names are provided in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The index places entries for Mysteries of Isis and Mysteries of Osiris near
+    an entry for the Eleusinian Mysteries, supporting only a shared index label and
+    possible comparative topic, not an asserted equivalence.
+  claim_level: linguistic_similarity
+  target: Eleusinian Mysteries in relation to Isis and Osiris mystery entries
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage supplies only index entries and page references; it does
+    not describe rites, functions, historical contact, or shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 28426-28631
+  quote_or_summary: The passage is an alphabetical index segment from Mtesa through
+    Nebt-khu, consisting of entry labels and volume/page references.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summary generated from provided excerpt.
+- id: ev:2
+  type: summary
+  locator: 28426-28445
+  quote_or_summary: Entries in the early segment include Muhammad, Muhammad 'Ali,
+    Muhammadans, and subentries for Muhammadans' heaven and hell.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summary generated from provided excerpt.
+- id: ev:3
+  type: summary
+  locator: 28445-28474
+  quote_or_summary: Entries include Mummu-Tiamat, Mut, Mut-Bast-Isis, Mut-hetep, Mut
+    of Asheru, Mut-Sekhet-Bast-Menhit, Mut Temt, and Mut-Uatchet-Bast.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summary generated from provided excerpt.
+- id: ev:4
+  type: quote
+  locator: 28475-28490
+  quote_or_summary: '"Mysteries of Isis, ii. 217"; "Mysteries of Osiris, i. 453";
+    "Mysteries, the Eleusinian, ii. 217"; "Myth of Pta, and Isis, i, 352".'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation from provided excerpt.
+- id: ev:5
+  type: quote
+  locator: 28490-28520
+  quote_or_summary: '"Mythical animals, i. 59" and "Name, use and importance of, i.
+    10, 301".'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation from provided excerpt.
+- id: ev:6
+  type: summary
+  locator: 28550-28608
+  quote_or_summary: Entries include Neb-er-tcher with multiple references, Neb-tept
+    identified parenthetically with Isis, Nebes Tree, Nebseni, and the Papyrus of
+    Nebseni.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summary generated from provided excerpt.
+- id: ev:7
+  type: summary
+  locator: 28609-28631
+  quote_or_summary: Entries include Nebt, Nebt described as a god, Nebt-aha, Nebt-ankh,
+    Nebt-het, Nebt-hetep, Nebt-hetep as counterpart of Tern, Nebt-Hetepet, Nebti,
+    and Nebt-khu.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summary generated from provided excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: Literal extraction is limited by the index-only format. Motif and comparison
+    records are tentative because the passage provides entry titles rather than narrative
+    or ritual descriptions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Index-only passage; no narrative scenes are present.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l28426-l28631
+  passage_sha256=008ba6c774f8bb48c6ecdfcdf1e2800439efecf0cada695f9bf221a4d722c667
+

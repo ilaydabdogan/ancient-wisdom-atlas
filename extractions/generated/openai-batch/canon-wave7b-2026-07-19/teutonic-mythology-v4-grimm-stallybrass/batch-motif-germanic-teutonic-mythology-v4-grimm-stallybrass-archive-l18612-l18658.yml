@@ -1,0 +1,363 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l18612-l18658
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SICKNESSES.  1051 / SICKNESSES.  1G53 / SICKNESSES. / SICKNESSES.  1655;
+    lines 18612-18658
+  start: '18612'
+  end: '18658'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Fever rides a man, as poverty does
+  summary: The passage catalogs Germanic and neighboring-language names and expressions
+    for fever and gout. It notes idioms in which fever rides a person, cites fable
+    and literary examples where fever or gout converse with insects or spiders, records
+    spells naming many fevers, and lists further names for fever and gout with verbs
+    such as breaking, gnawing, and stinging.
+  language: English with cited Germanic, Latin, French, Greek, Lithuanian, Lettish,
+    and Italian terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage lists many terms and citations for fever, including forms glossed
+    as febris, fever, quartan fever, relapse, shivering fit, fever-bird, erysipelas,
+    and other disease names.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: Several cited expressions present fever as acting upon a person, including
+    statements that fever rides a man and, in Lettish, that fever rides him.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:3
+  text: In a cited fable by Boner, the rite or fever is made a butterfly, identified
+    parenthetically with alp or nightmare, so that it can converse with a flea.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: H. Sachs is cited as having a dialogue between the zipperlein, glossed as
+    gout, and the spider.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Three cited spells speak of 72 riten, 77 ritten, and 99 fevers.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage records that at Louvain fever is called quade mester.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The gout section gives Old High German names for gout and cites phrases where
+    gout breaks, gnaws, or stings a person.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Fever / rite / riden
+  description: A sickness named through many cited forms and described in idioms as
+    riding a person; in one fable it is made a butterfly.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Afflicted man or person
+  description: The human target in idioms where fever rides a man or rides him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: Flea
+  description: An insect with whom the butterfly-formed fever converses in the cited
+    Boner fable.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Gout / zipperlein / giht
+  description: A sickness named in the passage and cited as entering dialogue with
+    a spider and as breaking, gnawing, or stinging.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Spider
+  description: The conversation partner of gout in the cited H. Sachs dialogue.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Personified sickness
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Fever is said to ride a man and appears as a butterfly; gout is presented
+    as a speaking participant in a dialogue and as an acting agent.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: Afflicted or ridden human
+  assigned_to:
+  - fig:2
+  basis: The cited idioms say fever rides a man or rides him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Transformed insect-form sickness
+  assigned_to:
+  - fig:1
+  basis: The passage states that in Boner's fable the rite is made a butterfly.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Dialogue participant
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The flea converses with butterfly-formed fever, and gout is in dialogue with
+    the spider.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Riding sickness
+  literal_form: Fever riding a man or riding him
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Butterfly fever
+  literal_form: The rite or fever made into a butterfly, parenthetically linked with
+    alp or nightmare
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Insect interlocutor
+  literal_form: Flea as conversation partner of the butterfly-formed fever
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Gout and spider dialogue
+  literal_form: Dialogue between gout and a spider
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Numbered fevers
+  literal_form: 72 riten, 77 ritten, and 99 fevers named in spells
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: Fever-bird
+  literal_form: Lithuanian paszta-kiele, glossed as fever-bird
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fever rides the afflicted person
+  summary: The passage gathers expressions where fever is described as riding a man
+    or riding him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Fever becomes a butterfly and converses with a flea
+  summary: In a cited fable, fever is made a butterfly so that it can converse with
+    a flea.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Gout speaks with the spider
+  summary: A literary example is cited in which gout and the spider are in dialogue.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Spells enumerate many fevers
+  summary: Cited spells speak of groups of 72, 77, and 99 fevers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Personified disease as rider
+  taxonomy_refs: []
+  basis: The passage explicitly records idioms in which fever rides a man or rides
+    him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is philological and comparative rather than a continuous mythic
+    narrative.
+- id: motif:2
+  label: Disease transformed into animal or insect form
+  taxonomy_refs:
+  - shapeshifter
+  basis: The Boner fable is summarized as making the rite or fever a butterfly, and
+    another term is glossed as fever-bird.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The butterfly example is from a fable and the fever-bird item is lexical;
+    the passage does not describe a full transformation tale.
+- id: motif:3
+  label: Disease converses with small creature
+  taxonomy_refs: []
+  basis: The passage cites fever as conversing with a flea and gout as appearing in
+    dialogue with a spider.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only brief citations are given; the surrounding fable or dialogue content
+    is not included.
+- id: motif:4
+  label: Multiple named fevers in spell formula
+  taxonomy_refs: []
+  basis: The passage notes spells that speak of 72, 77, and 99 fevers.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives the numbers and spell citations but not the spell texts
+    or ritual actions.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Germanic expressions of fever riding a man with
+    a Lettish expression glossed as fever rides him.
+  claim_level: linguistic_similarity
+  target: Germanic and Lettish fever-riding idioms
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence is lexical and idiomatic; it does not establish historical
+    contact or common inheritance.
+- id: claim:2
+  claim: 'The passage groups literary examples where personified sickness interacts
+    with small creatures: fever with a flea and gout with a spider.'
+  claim_level: same_function
+  target: Personified disease in dialogue with insect or spider interlocutors
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The source supplies only brief references, not the full narratives,
+    so the functional similarity is limited to dialogue or conversation.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18612-18627
+  quote_or_summary: Lists fever terms and curse-like expressions; includes the statement,
+    "Fever rides a man, as poverty does."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 18627-18631
+  quote_or_summary: Boner's fable makes the rite a butterfly, identified with alp
+    or nightmare, to converse with a flea; H. Sachs has a dialogue between gout and
+    the spider; cited spells mention 72 riten, 77 ritten, and 99 fevers.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 18631-18649
+  quote_or_summary: The passage lists additional fever names across languages, including
+    Louvain quade mester, hot-and-cold disease names, Lithuanian fever-bird, and Lettish
+    wording glossed as fever rides him.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 18650-18658
+  quote_or_summary: The gout section lists Old High German and Middle High German
+    forms for gout and cites phrases where gout breaks, gnaws, or stings.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a dense philological note with many abbreviated citations
+    and OCR irregularities. Extraction is strongest for explicit personification,
+    animal-form, dialogue, and numbered-fever elements; broader mythological interpretation
+    is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy reference to shapeshifter is tentative and based only on the cited fable making fever a butterfly.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l18612-l18658
+  passage_sha256=b2195eaca73f9184d30bd8ecd9b5567ed2b60471cceb85a1a2af78b925f454f2
+

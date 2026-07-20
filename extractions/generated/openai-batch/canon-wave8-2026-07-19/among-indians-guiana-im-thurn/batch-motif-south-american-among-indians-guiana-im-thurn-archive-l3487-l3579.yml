@@ -1,0 +1,432 @@
+---
+record_id: batch.motif.south-american-among-indians-guiana-im-thurn-archive-l3487-l3579
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: MAP OF BRITISH GUIANA / PLATE III. / PORTAGING THE BOAT, / AGEL(IEUS IMTHURNI;
+    lines 3487-3579
+  start: '3487'
+  end: '3579'
+  translation: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic
+    from the Interior of British Guiana'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A travel party ascends the Potaro route toward Kaieteur, portaging and
+    hauling boats through rapids and cataracts, receiving woodskins from Indians at
+    Pacoutout, and being delayed by illness. They reach Tookooie, walk through a burned
+    but recovering savannah, view the greatly swollen Kaieteur waterfall from the
+    cliff edge, camp near the fall, and see a coloured arch formed by sun and rain
+    across the ravine.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The party portaged a boat and canoe past Toomatoomari, later cleared a path
+    with skids at Pacoutout, and carried or dragged the bateau across the portage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The party left a canoe at the lower end of the Pacoutout portage and took
+    the built boat named “Adaba” along with three woodskins lent by Indians living
+    at Pacoutout.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A severe illness of the narrator’s companion caused a day’s delay and nearly
+    caused the party to return.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After further portaging and hauling, the party came in sight of Kaieteur,
+    where white water was visible falling over a wall-like cliff, and the fall appeared
+    very full.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Tookooie was identified as a landing place within three hours’ walk of the
+    fall and as the point beyond which boats could not be taken.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The savannah above the fall had been burned; bromeliads were mostly charred
+    stumps and leaves, while low vegetation around the roots had recovered.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: At the cliff edge over which the Potaro falls, the party lay with bodies along
+    the cliff top and heads over the edge.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The narrator contrasts an earlier narrow column of water with the present
+    broad curtain of water that crashed into a boiling pool full of surf, foam, and
+    spray.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The party made camp at the old spot at the edge of the fall, where sedges
+    formerly choking the river were now covered by the rushing river.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Near sunset, light rain and sun formed a coloured arch across the ravine,
+    through which the river was seen winding through forested country past a sugar-loaf
+    mountain and into a wooded plain.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Narrator’s travelling party
+  description: The first-person plural group travelling by boat, canoe, and on foot
+    toward Kaieteur and observing the fall.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Narrator’s companion
+  description: A companion whose severe illness delayed the journey and nearly caused
+    the return of the party.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Indians living at Pacoutout
+  description: Local Indians at Pacoutout who offered to lend three woodskins to the
+    travelling party.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: portaging travellers
+  assigned_to:
+  - fig:1
+  basis: The group portaged, hauled, cleared paths, and carried or dragged boats along
+    the river route.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: ill companion causing delay
+  assigned_to:
+  - fig:2
+  basis: The companion’s severe illness caused a delay and nearly caused return.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: local lenders of woodskins
+  assigned_to:
+  - fig:3
+  basis: The Indians living at Pacoutout offered to lend three woodskins.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: waterfall observers
+  assigned_to:
+  - fig:1
+  basis: The group lay at the cliff edge, viewed the fall, camped at the edge, and
+    observed the ravine scene.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: river and waterfall water
+  literal_form: White water over the cliff, a broad curtain of falling water, boiling
+    pool, rushing river, rain, surf, foam, and spray.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: dark cave behind the fall
+  literal_form: The great cave behind the earlier narrow column of falling water.
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: burned savannah and charred vegetation
+  literal_form: Burned savannah with Bromeliads reduced to charred stumps and leaves,
+    alongside recovered low vegetation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: forest and trees
+  literal_form: Felled trees on the portage path and forest-covered country around
+    the ravine.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:5
+  label: sugar-loaf mountain
+  literal_form: The far-away sugar-loaf mountain at Amootoo seen beyond the ravine.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: coloured arch
+  literal_form: A coloured arch built by sun and rain across the ravine.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: boats and woodskins
+  literal_form: The built boat “Adaba,” a canoe, the bateau, and three borrowed woodskins
+    used in the river journey.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:8
+  label: cliff edge and ravine
+  literal_form: The wall-like cliff, the edge over which the Potaro falls, and the
+    ravine crossed by the coloured arch.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: Portaging toward Kaieteur
+  summary: The party moves upriver by boat and canoe, portaging and hauling vessels,
+    clearing a path, accepting borrowed woodskins, and being delayed by a companion’s
+    illness before coming in sight of Kaieteur.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Burned savannah above the fall
+  summary: After reaching the landing place and walking up through the forest, the
+    party enters a burned savannah where charred bromeliads stand amid recovering
+    vegetation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Cliff-edge view of Kaieteur
+  summary: The party lies at the cliff edge and observes the swollen fall as a vast
+    curtain of water crashing into a boiling pool, contrasted with an earlier narrower
+    fall backed by a dark cave.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Camp and sunset coloured arch
+  summary: The party camps at the old spot on the edge of the fall; near sunset, rain
+    and sun form a coloured arch across the ravine, revealing the river winding through
+    forested country toward a mountain and wooded plain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: arduous river-portage approach to a remote natural landmark
+  taxonomy_refs: []
+  basis: The passage emphasizes repeated portaging, hauling, path clearing, borrowed
+    small craft, delay, and eventual arrival near Kaieteur.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a literal expedition account, not a mythic quest narrative in
+    the passage.
+- id: motif:2
+  label: overwhelming waterfall at a cliff threshold
+  taxonomy_refs: []
+  basis: Kaieteur is described as a vast curtain of water over a cliff, with a boiling
+    pool, foam, spray, and an overpowering visual effect.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage presents aesthetic and sensory description; no supernatural
+    agency or ritual function is stated.
+- id: motif:3
+  label: burned landscape with visible regrowth
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The savannah is burned and charred, yet low vegetation has recovered; young
+    bracken and flowering orchids are noted.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The seasonal-cycle reference is only a cautious visual pattern; the passage
+    does not state a mythic or ritual seasonal motif.
+- id: motif:4
+  label: coloured arch over water and ravine
+  taxonomy_refs: []
+  basis: Sun and rain form a coloured arch across the ravine while the river is visible
+    winding through the landscape.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The passage describes a natural optical event; no mythic interpretation
+    is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the young bracken in the burned savannah
+    to spring at the narrator’s home.
+  claim_level: visual_similarity
+  target: spring at home
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a personal visual analogy, not a tradition-level mythological
+    comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3487-3508
+  quote_or_summary: The party portages and hauls boats near Toomatoomari, Mowraseema,
+    and Pacoutout; at Pacoutout they clear the path, lay skids, carry the bateau,
+    take the built boat “Adaba,” and receive three woodskins from local Indians.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3509-3515
+  quote_or_summary: A severe illness of the narrator’s companion delays the party
+    for a day and nearly causes return; they then portage at Amootoo and haul the
+    boat past Waratoo.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3515-3525
+  quote_or_summary: The party sights Kaieteur, sees white water falling over the wall-like
+    cliff, judges the fall very full, reaches Tookooie, and notes that boats cannot
+    be taken beyond that landing place.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 3526-3536
+  quote_or_summary: The savannah had been burned; bromeliads were “charred stumps
+    and leaves,” while recovered vegetation and young bracken “reminded one of spring
+    at home.”
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 3537-3554
+  quote_or_summary: At the cliff edge, the party lies with heads over the edge; the
+    narrator contrasts an earlier narrow fall backed by a dark cave with the present
+    vast curtain of water crashing into a boiling pool with surf, foam, and spray.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3555-3566
+  quote_or_summary: The narrator says the full fall is beyond adequate description
+    and that ordinary words for beauty and grandeur are too weak for the scene’s effect.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3567-3572
+  quote_or_summary: The party camps at the old spot at the edge of the fall; sedges
+    that formerly choked the river are now covered by the rushing river.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3573-3579
+  quote_or_summary: About an hour before sunset, light rain falls; sun and rain create
+    a coloured arch across the ravine, through which the river is seen winding through
+    forested country past the sugar-loaf mountain at Amootoo into the wooded plain.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is a travel and landscape description rather than a mythic narrative.
+    The single comparison claim is explicit but personal and non-mythological.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. No historical-contact or tradition-level comparison is asserted.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-among-indians-guiana-im-thurn-archive__l3487-l3579
+  passage_sha256=e8f543ad422eb0dbf10560c82e45c4d48e6b9963f9333428acd7cf6a4fb9772c
+

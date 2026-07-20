@@ -1,0 +1,494 @@
+---
+record_id: batch.motif.south-american-among-indians-guiana-im-thurn-archive-l10671-l10768
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: 'SHOOTING FISH. / GAME ARROWS. 24) / THE RETURN FROM HUNTING. 249: / CASSAVA
+    BREAD.; lines 10671-10768'
+  start: '10671'
+  end: '10768'
+  translation: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic
+    from the Interior of British Guiana'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes preparation of cassava-based paiwari by burning,
+    breaking, chewing, boiling, and fermenting cassava bread; preparation of casiri
+    from sweet-potatoes and sugar-cane; observed physical effects attributed to heavy
+    cassava consumption; salt procurement, barter, and use; and occasional foods,
+    especially reptile eggs gathered seasonally from river sandbanks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cassava bread intended for paiwari is made thicker than ordinary bread and
+    baked or burned until black.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The burned cassava bread is broken into fragments, mixed with water in a large
+    jar or pot, and larger fragments are chewed by women before being returned to
+    the jar.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The paiwari mixture is stirred, slightly boiled, poured into a trough, filled
+    further, and left for days to ferment; mastication is said to accelerate fermentation.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Some True Caribs and some Brazilian tribes are said to prepare paiwari by
+    simple boiling without chewing, but this product is described as inferior in flavour.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Casiri is described as a drink made chiefly from sweet-potatoes and sugar-cane,
+    sometimes with cassava, usually by boiling and fermenting.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A diet heavily based on cassava bread, farine, and paiwari is associated by
+    the author with protruding stomachs and rapid loss or gain of flesh when cassava
+    supply changes.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Salt is described as highly desired, used in pepper-pot but not bread, eaten
+    by itself, procured through coastal or Brazilian exchange, and in Wapiana country
+    collected naturally from the savannah.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Birds’ eggs, including domestic poultry eggs and wild birds’ eggs, are said
+    to be seldom eaten.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Turtle and iguana eggs are gathered twice yearly on river sandbanks by large
+    parties, eaten for a time, and also smoked and dried for future use.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: True Caribs are said to boil and eat cayman and alligator eggs, while members
+    of most other tribes regard this habit with disgust.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: women preparing paiwari
+  description: Women chew larger fragments of cassava bread while moving about and
+    doing ordinary household work, then return the chewed masses to the jar.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: True Caribs
+  description: Some True Caribs are said to prepare paiwari by simple boiling without
+    chewing; elsewhere in the passage they are also said to boil and eat cayman and
+    alligator eggs.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: fig:3
+  name_or_label: Brazilian tribes
+  description: Some Brazilian tribes are said to prepare paiwari by boiling without
+    the chewing process.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Indians generally
+  description: The passage describes their regular food supply, cassava dependence,
+    salt use, and occasional consumption of eggs, insects, and fruits.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Indians of the Wapiana district
+  description: They collect naturally occurring pungent salt from the savannah and
+    use or barter it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: large parties of Indians gathering reptile eggs
+  description: Groups gather from many quarters when turtles and iguana-lizards lay
+    eggs on river sandbanks.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: mastication-stage beverage preparers
+  assigned_to:
+  - fig:1
+  basis: Women chew cassava bread fragments and replace the chewed masses in the jar
+    during paiwari preparation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: alternative paiwari preparers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Some True Caribs and Brazilian tribes are said to ferment paiwari through
+    simple boiling without chewing.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cassava-dependent food consumers
+  assigned_to:
+  - fig:4
+  basis: The passage attributes physical changes to the large proportion of cassava
+    in the Indians’ diet.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: salt users and barter participants
+  assigned_to:
+  - fig:4
+  basis: Salt is described as a valued barter article, a pepper-pot ingredient, and
+    a food eaten by itself.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: natural salt collectors
+  assigned_to:
+  - fig:5
+  basis: In Wapiana country, pungent salt occurs naturally on the savannah and is
+    collected by Indians of that district.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: cayman and alligator egg consumers
+  assigned_to:
+  - fig:2
+  basis: True Caribs are said to boil and greedily eat cayman and alligator eggs.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: seasonal reptile-egg gatherers
+  assigned_to:
+  - fig:6
+  basis: Large parties gather twice yearly when turtles and iguana-lizards lay eggs
+    on sandbanks.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: paiwari
+  literal_form: fermented brownish liquor made from cassava bread, water, and sometimes
+    sugar-cane juice
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: jar or pot and trough
+  literal_form: large vessel and trough used in preparing and fermenting paiwari
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: casiri
+  literal_form: pink fermented drink made from sweet-potatoes and sugar-cane, sometimes
+    with cassava
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: salt
+  literal_form: valued food substance used in pepper-pot, eaten by itself, collected,
+    and bartered
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: reptile eggs
+  literal_form: turtle, iguana, tortoise, cayman, and alligator eggs used as food
+    in differing ways
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: loaded canoe of eggs
+  literal_form: canoe weighed nearly to the water’s edge by turtle or iguana eggs
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Paiwari preparation by chewing and fermentation
+  summary: Cassava bread is burned black, broken, mixed with water, chewed by women,
+    stirred, slightly boiled, poured into a trough, and left to ferment for several
+    days.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Alternative paiwari preparation
+  summary: Some True Caribs and Brazilian tribes are said to produce fermented paiwari
+    by simple boiling without chewing, though the passage reports this as inferior
+    in flavour.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Casiri preparation
+  summary: In some places casiri replaces paiwari for festivals and ordinary occasions
+    and is prepared from sweet-potatoes, sugar-cane, and sometimes cassava by boiling
+    and fermenting.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Cassava diet and bodily effects
+  summary: The author connects heavy reliance on cassava food and paiwari with prominent
+    stomachs and rapid bodily change when cassava supply fails or returns.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Salt procurement and use
+  summary: Salt is obtained through trade or natural collection, passed as a valued
+    barter article, used in pepper-pot, excluded from bread, and eaten alone.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Egg foods and seasonal reptile-egg gathering
+  summary: Birds’ eggs are rarely eaten, while reptile eggs are valued; during turtle
+    and iguana laying seasons, large parties gather eggs on river sandbanks and preserve
+    some by smoking and drying.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: mastication-assisted fermentation of cassava drink
+  taxonomy_refs: []
+  basis: The preparation of paiwari includes chewing cassava bread fragments, returning
+    them to the jar, and fermenting the mixture; chewing is said to accelerate fermentation.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic food-preparation pattern, not a myth narrative
+    in this passage.
+- id: motif:2
+  label: boiled substitute for orthodox chewed preparation
+  taxonomy_refs: []
+  basis: Some True Caribs and Brazilian tribes are described as making paiwari by
+    simple boiling without chewing, but the resulting drink is said to have inferior
+    flavour.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage reports the contrast as culinary evaluation; no ritual or
+    mythic interpretation is stated.
+- id: motif:3
+  label: staple food as bodily dependence
+  taxonomy_refs: []
+  basis: The author links dependence on cassava with striking stomach protuberance
+    and rapid physical decline or recovery as cassava fails or becomes available.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The observation is the author’s ethnographic and physiological interpretation;
+    the passage gives no indigenous symbolic explanation.
+- id: motif:4
+  label: valued salt exchange and consumption
+  taxonomy_refs: []
+  basis: Salt is described as desired, traded from owner to owner as a valued barter
+    article, collected naturally in Wapiana country, used in pepper-pot, and eaten
+    alone.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No sacred or ceremonial status is stated; this should not be mapped to
+    sacred exchange without further evidence.
+- id: motif:5
+  label: seasonal reptile-egg harvest and preservation
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Twice a year, when turtles and iguana-lizards lay eggs on river sandbanks,
+    large parties gather, eat the eggs, and smoke or dry some for later use.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The seasonal cycle is explicitly practical and subsistence-based here;
+    no mythic seasonal symbolism is provided.
+- id: motif:6
+  label: food preference contrast between bird eggs and reptile eggs
+  taxonomy_refs: []
+  basis: Birds’ eggs are said to be seldom eaten, while certain reptile eggs are consumed
+    and appreciated; cayman and alligator eggs distinguish True Caribs from most other
+    tribes in the passage.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage describes dietary preference and disgust, not a formal taboo
+    or mythic prohibition.
+comparison_claims:
+- id: claim:1
+  claim: Paiwari and the khava of the South Sea Islanders are compared only in that
+    chewing occurs in both preparations; the passage says they differ essentially
+    because paiwari is fermented before drinking while khava is not fermented.
+  claim_level: same_function
+  target: khava of the South Sea Islanders
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: high
+  limitations: The comparison is limited to a preparation feature and a stated contrast
+    in fermentation; the passage provides no evidence for historical contact, common
+    inheritance, or full identity of the drinks.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10671-10685
+  quote_or_summary: Paiwari is made from thick cassava bread burned black, broken,
+    mixed with water in a jar, chewed by women, stirred, slightly boiled, poured into
+    a trough, and fermented; sugar-cane juice may be added.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 10686-10693
+  quote_or_summary: The resulting paiwari is described as a brownish sub-acid liquor;
+    some True Caribs and Brazilian tribes make it by simple boiling without chewing,
+    but this is said to produce inferior flavour.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: footnote within 10671-10722
+  quote_or_summary: 'A note distinguishes paiwari from South Sea khava: both involve
+    chewing, but paiwari is drunk only after fermentation, whereas khava is not fermented.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 10695-10704
+  quote_or_summary: Casiri, used in some places instead of paiwari, is made from sweet-potatoes
+    and sugar-cane, sometimes with cassava, usually by boiling and fermenting; it
+    is pink and compared in taste to thin claret.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: 10705-10722
+  quote_or_summary: The author attributes stomach protuberance and rapid changes in
+    flesh and strength to the high proportion of cassava bread, farine, and paiwari
+    in the diet.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:6
+  type: summary
+  locator: 10723-10736
+  quote_or_summary: Salt is described as beloved, obtained through trade or naturally
+    in Wapiana country, valued in barter, used in pepper-pot but not bread, and eaten
+    alone.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: 10737-10752
+  quote_or_summary: Beyond regular foods, eggs, insects, and fruits are sometimes
+    eaten; birds’ eggs, including domestic poultry eggs and indigenous wild birds’
+    eggs, are said to be seldom eaten.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: 10753-10768
+  quote_or_summary: Turtle and iguana eggs are gathered twice yearly on river sandbanks
+    by large parties, eaten and preserved; tortoise eggs are eaten; True Caribs eat
+    cayman and alligator eggs, a habit most other tribes regard with disgust.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is ethnographic and culinary rather than mythic; motif candidates
+    are therefore material-culture and seasonal-subsistence patterns, with taxonomy
+    mapping used only for the explicit twice-yearly egg-gathering cycle.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic figures or sacred interpretations are stated in the provided passage; taxonomy references are mostly left empty to avoid overinterpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-among-indians-guiana-im-thurn-archive__l10671-l10768
+  passage_sha256=efaf4348d43e592d7ee4de4ac763b1515f5829741ee99c48b6b0558e224db0a4
+

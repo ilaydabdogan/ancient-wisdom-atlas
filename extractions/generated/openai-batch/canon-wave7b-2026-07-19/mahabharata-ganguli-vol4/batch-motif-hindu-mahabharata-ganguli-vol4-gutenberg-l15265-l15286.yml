@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l15265-l15286
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION C / SECTION CI / SECTION CII / SECTION CIII; lines 15265-15286
+  start: '15265'
+  end: '15286'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Yudhishthira asks Bhishma to explain the highest penances. Bhishma answers
+    that felicity corresponds to the penance performed and says abstention from food
+    is supreme. He introduces an ancient discourse in which Brahman asks Bhagiratha
+    how he reached an extremely difficult region beyond those of deities, kine, and
+    Rishis, since even divine and human beings cannot reach it without severe austerities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yudhishthira asks Bhishma to expound what constitutes the highest penances.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bhishma states that a person attains a region of felicity corresponding to
+    the penances observed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Bhishma states that no penance is superior to abstention from food.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bhishma introduces an ancient narrative of a discourse between Bhagiratha
+    and Brahman, the Grandsire of Creation.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bhagiratha is said to have attained a region transcending those of deities,
+    kine, and Rishis.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Brahman asks Bhagiratha how he attained such a difficult region and says deities,
+    Gandharvas, and human beings cannot come there without severe austerities.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Questioner who asks Bhishma about the highest penances.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bhishma
+  description: Speaker who answers Yudhishthira and introduces the narrative of Bhagiratha
+    and Brahman.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Bhagiratha
+  description: Figure said to have attained a region beyond those of deities, kine,
+    and Rishis.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Brahman, the Grandsire of Creation
+  description: Illustrious Brahman who addresses Bhagiratha and questions how he reached
+    the difficult region.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: religious questioner
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira requests instruction on the highest penances.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: teacher of penance doctrine
+  assigned_to:
+  - fig:2
+  basis: Bhishma explains that felicity corresponds to penance and names abstention
+    from food as supreme.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: narrator of ancient discourse
+  assigned_to:
+  - fig:2
+  basis: Bhishma introduces the ancient narrative of Bhagiratha and Brahman.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: attainer of difficult transcendent region
+  assigned_to:
+  - fig:3
+  basis: Bhagiratha is said to have reached a region beyond those of deities, kine,
+    and Rishis.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: divine interrogator
+  assigned_to:
+  - fig:4
+  basis: Brahman asks Bhagiratha how he attained the difficult region.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: abstention from food
+  literal_form: fasting or refraining from food as penance
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: difficult transcendent region
+  literal_form: region beyond those of deities, kine, and Rishis
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: severe austerities
+  literal_form: severest austerities required to come to the region
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Question about the highest penance
+  summary: Yudhishthira asks Bhishma to explain which penance is highest, after referring
+    to prior teachings on gifts, tranquillity, truth, compassion, and household fidelity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bhishma teaches the supremacy of abstention from food
+  summary: Bhishma says that felicity corresponds to the penance observed and declares
+    abstention from food superior to other penances.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bhagiratha in the difficult region
+  summary: Bhishma recounts that Bhagiratha attained a region beyond those of deities,
+    kine, and Rishis; Brahman questions him about how he reached it, noting that even
+    divine and human beings cannot come there without severe austerities.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: supreme ascetic practice as access to higher felicity
+  taxonomy_refs:
+  - ascent
+  basis: The passage links observed penance with attaining a region of felicity and
+    presents Bhagiratha as reaching a region beyond ordinary divine and human access.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes attainment of a higher region but does not narrate
+    the physical process of ascent.
+- id: motif:2
+  label: fasting as highest penance
+  taxonomy_refs:
+  - sacrifice
+  basis: Bhishma explicitly identifies abstention from food as the penance superior
+    to all others.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy does not include a specific fasting or asceticism
+    motif; 'sacrifice' is only a broad functional fit.
+- id: motif:3
+  label: instructional wisdom discourse
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira asks a doctrinal question and Bhishma responds with teaching
+    and an ancient illustrative narrative.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a discourse frame rather than a narrative episode centered on
+    a mythic action.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared functionally to an ascent pattern because Bhagiratha
+    is described as attaining a region beyond divine, bovine, and Rishi realms through
+    severe austerity.
+  claim_level: same_function
+  target: ascent motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe a journey route, vertical motion, or
+    detailed cosmography; it only states the attainment of a difficult region.
+- id: claim:2
+  claim: The passage can be compared to a wisdom-discourse pattern in which a question
+    prompts doctrinal teaching supported by an older narrative precedent.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is structural and instructional, not a claim of historical
+    contact with another text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15265-15270
+  quote_or_summary: Yudhishthira says Bhishma has taught on gifts and virtues and
+    asks him to explain what constitutes the highest penances.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15272-15276
+  quote_or_summary: Bhishma says felicity corresponds to the penances observed and
+    declares abstention from food to be superior to all penance.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15276-15278
+  quote_or_summary: Bhishma introduces the ancient narrative of a discourse between
+    Bhagiratha and the illustrious Brahman, identified as the Grandsire of Creation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15278-15280
+  quote_or_summary: Bhagiratha is reported to have attained a region that transcends
+    those of deities, kine, and Rishis.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 15280-15286
+  quote_or_summary: Brahman addresses Bhagiratha, asking how he reached that difficult
+    region and stating that deities, Gandharvas, and human beings cannot come there
+    without the severest austerities.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The figures, speech frame, and ascetic doctrine are explicit. Motif mapping
+    is somewhat interpretive because the taxonomy lacks a direct fasting or austerity
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external Mahabharata context or later Bhagiratha traditions were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l15265-l15286
+  passage_sha256=42d9cd45635204e23c7b59a041b65f4884ccb5533beb0bb39dc8a3ddbb330ab8
+

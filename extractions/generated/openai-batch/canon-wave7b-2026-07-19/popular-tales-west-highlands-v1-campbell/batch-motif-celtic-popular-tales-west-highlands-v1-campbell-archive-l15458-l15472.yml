@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l15458-l15472
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: THE TALE OF THE SHIFTY LAD. 345 / THE TALE OF THE SHIFTY LAD. 347 / SGEULACHD
+    A GHILLE CHARAICH. 349 / SGEULACHD A GHILLE CHARAICH. 351; lines 15458-15472
+  start: '15458'
+  end: '15472'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A note describes a Highland Hallow-eve amusement in which young people
+    gather, name two nuts for a lad and lass, place the nuts together in the fire,
+    and read their behavior as an omen of marriage, happiness, pride, or refusal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Highland people are said to have entertained themselves by burning nuts on
+    Hallow-eve, identified as the last night of October.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A party of young people would gather in one house to make merry.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The group would propose a marriage between a lad and a lass and name one nut
+    for each of them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The two named nuts would be placed beside each other in the fire.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: If the two nuts burned together and blazed over each other, this was called
+    a good omen and a sign that the named pair would marry and live happily together.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: If either nut puffed or flew away, this was taken as a sign that the person
+    named by that nut was proud and would not accept the other party.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Highland people
+  description: The community described as having used burning nuts on Hallow-eve as
+    an amusement.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Party of young people
+  description: A group who would gather in one house, make merry, propose a marriage,
+    name nuts, and place them in the fire.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lad
+  description: One of the two proposed marriage partners for whom a nut is named.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Lass
+  description: One of the two proposed marriage partners for whom a nut is named.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: custom bearers
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the Hallow-eve nut-burning amusement to Highland people.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Hallow-eve participants
+  assigned_to:
+  - fig:2
+  basis: The young people gather in a house, make merry, and carry out the nut-burning
+    activity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: proposed marriage partners
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: A marriage is proposed between a lad and a lass, with one nut named for each.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Named pair of nuts
+  literal_form: Two nuts, each named for one proposed marriage partner
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Fire
+  literal_form: The fire in which the two named nuts are placed beside each other
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Joint burning and blazing
+  literal_form: The two nuts burning together and blazing over each other
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Puffing or flying nut
+  literal_form: Either nut puffing or flying away from the other
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hallow-eve gathering
+  summary: Young Highland people gather in a house on Hallow-eve to make merry with
+    the amusement of burning nuts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Marriage-nut setup
+  summary: The group proposes a marriage between a lad and a lass, names one nut for
+    each, and places the two nuts together in the fire.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Favorable omen
+  summary: When the two nuts burn together and blaze over each other, the result is
+    read as a good omen that the pair will marry and live happily together.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Unfavorable omen
+  summary: When either nut puffs or flies away, the result is read as a sign that
+    the person represented by that nut is proud and will not accept the other.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Hallow-eve marriage divination by burning named nuts
+  taxonomy_refs: []
+  basis: The passage describes a Hallow-eve amusement in which nuts named for a lad
+    and lass are burned together and their behavior is read as an omen of future marriage,
+    happiness, or refusal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the practice as an amusement and omen; no broader
+    mythic taxonomy is explicitly stated.
+- id: motif:2
+  label: Omen from paired objects reacting in fire
+  taxonomy_refs: []
+  basis: 'The paired nuts'' physical reactions in the fire determine opposed outcomes:
+    burning together predicts union and happiness, while puffing or flying away predicts
+    refusal.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a pattern abstracted from the described custom; it should not
+    be treated as evidence for historical diffusion without further passages.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15458-15462
+  quote_or_summary: The note identifies burning nuts on Hallow-eve, the last night
+    of October, as an amusement of Highland people; young people would gather in a
+    house to make merry.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 15462-15466
+  quote_or_summary: The gathered young people would propose a marriage between a lad
+    and a lass, name one nut for each, and place the two nuts beside each other in
+    the fire.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 15466-15469
+  quote_or_summary: If the nuts burned together and blazed over each other, this was
+    called a good omen and a sign that the named pair would marry and live happily
+    together.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 15469-15472
+  quote_or_summary: If either nut puffed or flew away, this was read as a sign that
+    the represented person was proud and would not accept the other party.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is explicit about the objects, sequence, and omen meanings. No
+    external comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the available motif families do not directly name this Hallow-eve marriage-divination custom; the available symbol taxonomy supports only the fire symbol.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l15458-l15472
+  passage_sha256=23be408e04cdc0195c959d8615097e13312c37fb2b7bdba1dd5f15763ddeb24f
+

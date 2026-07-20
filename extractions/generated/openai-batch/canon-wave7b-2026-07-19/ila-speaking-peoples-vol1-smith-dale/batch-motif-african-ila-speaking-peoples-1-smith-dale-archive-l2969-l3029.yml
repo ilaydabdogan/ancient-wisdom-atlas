@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l2969-l3029
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: PT. I / MUNGAILA II., CHIEF OF THE BAMALA. / APPENDIX TO CHAPTER II / NAMES
+    OF THE CHIEFS REFERRED TO ON P. 21.; lines 2969-3029
+  start: '2969'
+  end: '3029'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An appendix lists chiefs and succession sequences for named Ila chiefdoms
+    or localities. It notes that Shimunenga formerly ruled several places that largely
+    became separate chiefdoms after his death, that Mala split among three chiefs
+    with named successors, and that north of the Kafue Malumbe appears to have ruled
+    several localities that later passed to different chiefs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an appendix titled as a list of names of chiefs referred to
+    elsewhere in the chapter.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Shimunenga is said to have ruled over Mala, Busangu, Kane, Chikome, Chitumbi,
+    and Kalando; after his death these places largely became separate chiefdoms.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'Mala is described as split among three chiefs: Namawale, Uvhwamba, and Shinyonge,
+    with named successors listed for each.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists sequences of named chiefs for Busangu, Chikome, Chitumbi,
+    Kabulamwanda, Kantengwa, Bambwe, Lubwe, Ngabo, Ichila, and Chisosoleke.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: North of the Kafue, Malumbe appears to have ruled over several localities,
+    which after his death passed to different chiefs, including entries for Nyambo
+    and Chifwembe.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The Kuntuba entry lists chiefs and ends with the note that the people scattered.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Shimunenga
+  description: A chief said to have ruled over Mala, Busangu, Kane, Chikome, Chitumbi,
+    and Kalando before those places largely became separate chiefdoms after his death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Namawale
+  description: One of the three chiefs among whom Mala was split; the passage lists
+    successors for Namawale.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Uvhwamba
+  description: One of the three chiefs among whom Mala was split; the passage lists
+    successors for Uvhwamba.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Shinyonge
+  description: One of the three chiefs among whom Mala was split; the passage lists
+    successors for Shinyonge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Malumbe
+  description: A chief north of the Kafue who appears to have ruled several localities
+    that passed to different chiefs after his death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: ruler over multiple localities before posthumous division
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: Both Shimunenga and Malumbe are described as ruling multiple localities that
+    later became separate or passed to different chiefs after their deaths.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:2
+  label: chief associated with the split of Mala
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Mala is described as split among Namawale, Uvhwamba, and Shinyonge.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Shimunenga’s rule and later separation of chiefdoms
+  summary: The passage presents Shimunenga as ruler over six named places and states
+    that, after his death, those places largely became separate chiefdoms.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Mala divided among three chiefs
+  summary: Mala is described as divided among Namawale, Uvhwamba, and Shinyonge, with
+    successor names given for each chiefly line.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Catalog of chief sequences by locality
+  summary: The appendix gives locality-by-locality sequences of chiefs for several
+    named places, including Busangu, Chikome, Chitumbi, Kabulamwanda, Kantengwa, Bambwe,
+    Lubwe, Ngabo, Ichila, Chisosoleke, Mafwele, Kuntuba, and Mutenda.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: scene:4
+  label: Malumbe and localities north of the Kafue
+  summary: Malumbe is said to have ruled several localities north of the Kafue, which
+    after his death passed to different chiefs; Nyambo and Chifwembe are then given
+    with chief sequences.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: chiefly succession and territorial division
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage organizes political authority through named chiefly lines and
+    succession sequences, and twice links a ruler’s death to the division or transfer
+    of localities to separate chiefs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage is an ethnographic/historical appendix rather than a mythic
+    narrative; it does not state sacred sanction, divine ancestry, or ritual legitimization.
+- id: motif:2
+  label: polity fragmentation after a ruler’s death
+  taxonomy_refs: []
+  basis: Shimunenga’s ruled places are said to have become separate chiefdoms after
+    his death, and Malumbe’s localities are said to have passed to different chiefs
+    after his death.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: This is a literal political succession pattern in the passage, not an
+    explicitly mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2969-2973
+  quote_or_summary: The appendix is titled as a list of names of chiefs referred to
+    on page 21.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public-domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 2974-2977
+  quote_or_summary: Under Kasenga, Shimunenga is said to have ruled over Mala, Busangu,
+    Kane, Chikome, Chitumbi, and Kalando; after his death these places largely became
+    separate chiefdoms.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public-domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 2978-2984
+  quote_or_summary: Mala is described as split among Namawale, Uvhwamba, and Shinyonge,
+    and successors are listed for each of those chiefs.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public-domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 2985-2998
+  quote_or_summary: The passage lists chiefs for Busangu, Chikome, Chitumbi, Kabulamwanda,
+    and Kantengwa.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public-domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 2999-3017
+  quote_or_summary: The passage lists chiefs for Bambwe, Lubwe, Ngabo, Ichila, and
+    Chisosoleke.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public-domain source; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 3018-3024
+  quote_or_summary: North of the Kafue, Malumbe appears to have ruled several localities
+    that after his death passed to different chiefs; Nyambo and Chifwembe are then
+    listed with chiefs.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public-domain source; passage supplied in request.
+- id: ev:7
+  type: summary
+  locator: lines 3025-3029
+  quote_or_summary: Mafwele, Kuntuba, and Mutenda are listed with chiefs; the Kuntuba
+    entry notes that the people scattered.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public-domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a chief-list appendix with clear succession and territorial-division
+    data, but it contains little explicit mythic or symbolic material and supports
+    no external comparison claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied taxonomy are explicitly present in the passage. No comparison claims were added because the passage itself does not support cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l2969-l3029
+  passage_sha256=9e607e35137f17f40b395e030011b9828b38e753e41832dd7bba3f061be2e230
+

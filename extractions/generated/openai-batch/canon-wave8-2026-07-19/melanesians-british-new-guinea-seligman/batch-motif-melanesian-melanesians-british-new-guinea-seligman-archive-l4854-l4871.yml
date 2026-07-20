@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l4854-l4871
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: ADOPTION. / NAME GIVING. / HENI CEREMONY. / EAR PIERCING.; lines 4854-4871
+  start: '4854'
+  end: '4871'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: the operation is performed when the child is about one year old
+  summary: A second-hand account describes an ear-piercing operation for a child about
+    one year old. A split ring made from shark vertebra or crab leg is applied to
+    the stretched ear lobe so that its points gradually pierce the lobe; when the
+    hole is large enough, a piece of wood is inserted to keep it open.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The account is attributed to Captain Barton, who states that he has not personally
+    seen the operation and is reporting what he gathered from informants.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The operation is said to be performed when the child is about one year old.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A split ring is made either by grinding down a shark vertebra or by cutting
+    a narrow transverse section of a crab's leg across in one place.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The ear lobe is stretched, and the opened split ring is slipped onto it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The opposing points of the split ring gradually penetrate the ear, and the
+    place becomes sore.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the hole is considered large enough, the ring is removed and a piece
+    of wood is put into the ear lobe to keep the hole open.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: child
+  description: A child about one year old who undergoes the ear-piercing operation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Captain Barton
+  description: The named source of the account, who says he has not seen the operation
+    performed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: informants
+  description: Unnamed informants from whom Captain Barton says he gathered the account.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: recipient of ear-piercing operation
+  assigned_to:
+  - fig:1
+  basis: The operation is described as being performed when the child is about one
+    year old, with the ear lobe stretched, pierced, and kept open.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: second-hand reporter
+  assigned_to:
+  - fig:2
+  basis: Captain Barton is credited with the account and states that he has not personally
+    witnessed the operation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: reported sources
+  assigned_to:
+  - fig:3
+  basis: Captain Barton says the description is what he gathered from informants.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: split piercing ring
+  literal_form: A split ring made from a shark vertebra or from a transverse section
+    of a crab's leg.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: animal-derived ring materials
+  literal_form: Shark vertebra or crab leg section used to form the split ring.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: wooden ear-lobe spacer
+  literal_form: A piece of wood inserted into the ear lobe after the hole is large
+    enough.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: ear-lobe opening
+  literal_form: The hole formed in the ear lobe by the gradual penetration of the
+    split ring.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: reported preparation of the piercing ring
+  summary: The account describes making a split ring from either a shark vertebra
+    or a crab leg section cut across in one place.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: ear-lobe piercing and keeping the hole open
+  summary: The child's ear lobe is stretched; the split ring is placed on it so that
+    the ring points gradually pierce the ear. After the hole is large enough, the
+    ring is removed and a piece of wood is inserted to keep the hole open.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: childhood ear-piercing rite
+  taxonomy_refs: []
+  basis: The passage describes an ear-piercing operation performed when the child
+    is about one year old.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage calls it an operation and does not explicitly state its social,
+    religious, or initiatory meaning.
+- id: motif:2
+  label: gradual piercing by split ring
+  taxonomy_refs: []
+  basis: A split ring is slipped onto the stretched ear lobe, and its opposing points
+    gradually penetrate the ear before being replaced by wood.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a procedural pattern in the passage; no broader mythic interpretation
+    is stated.
+- id: motif:3
+  label: bodily opening maintained by inserted object
+  taxonomy_refs: []
+  basis: After the ear-lobe hole is large enough, a piece of wood is inserted to keep
+    it open.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the practical function of the wood but no symbolic explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4854-4860
+  quote_or_summary: 'Captain Barton: “I have not seen this operation performed...
+    This is what I gather from my informants.”'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 4860-4862
+  quote_or_summary: "“the operation is performed when the child is about one year
+    old.”"
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4862-4866
+  quote_or_summary: A split ring is made by grinding down a shark vertebra or by cutting
+    a transverse section of a crab's leg across in one place.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4866-4869
+  quote_or_summary: The ear lobe is stretched; the opened ring is slipped onto it,
+    and the opposing split-ring points gradually penetrate the ear, making it sore.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4869-4871
+  quote_or_summary: When the hole is large enough, the ring is removed and a piece
+    of wood is put in the ear lobe to keep the hole open.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The procedural extraction is well supported by the passage. Motif labels
+    are descriptive rather than tied to a stated symbolic interpretation. No comparison
+    claims are made because the passage itself does not support a specific comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy reference to tree is attached only to the literal wooden spacer; no broader symbolic reading is asserted.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l4854-l4871
+  passage_sha256=132eb0c0d2dd1965f918b63532677dbe0e5832060bf6e97849283cd2a1e9230b
+

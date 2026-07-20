@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l824-l1025
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine of
+    the Mean, and The Works of Mencius / BOOK I. HSIO R / BOOK II. WEI CHANG; lines
+    824-1025'
+  start: '824'
+  end: '1025'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In Book II, the Master teaches that government by virtue resembles the
+    north polar star, summarizes the Book of Poetry as having no depraved thoughts,
+    contrasts rule by laws and punishments with guidance by virtue and propriety,
+    recounts his own stages of learning from fifteen to seventy, and answers Mang
+    I that filial piety is not being disobedient, later reporting this answer to Fan
+    Ch'ih.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Master says that a person who exercises government by virtue may be compared
+    to the north polar star, which remains in place while the other stars turn toward
+    it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Master says that the approximately three hundred pieces in the Book of
+    Poetry can be embraced in the sentence, "Having no depraved thoughts."
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Master says that when people are led by laws and punishments, they will
+    try to avoid punishment but will not have a sense of shame.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Master says that when people are led by virtue and by the rules of propriety,
+    they will have a sense of shame and will become good.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'The Master describes early adult stages of his progress: at fifteen his mind
+    was bent on learning, at thirty he stood firm, and at forty he had no doubts.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: 'The Master describes later stages of his progress: at fifty he knew the decrees
+    of Heaven, at sixty his ear received truth obediently, and at seventy he could
+    follow his heart without transgressing what was right.'
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Mang I asks what filial piety is, and the Master answers that it is not being
+    disobedient.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: After the exchange with Mang I, Fan Ch'ih is driving the Master when the Master
+    tells him about the question and answer on filial piety.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The Master
+  description: Speaker of the teachings in the passage; the surrounding commentary
+    identifies him with Confucius.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Person governing by virtue
+  description: A generalized governing figure who exercises government by means of
+    virtue and is compared to the north polar star.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The people
+  description: The people who may be led either by laws and punishments or by virtue
+    and rules of propriety.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Mang I
+  description: A questioner who asks the Master what filial piety is.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Fan Ch'ih
+  description: The person driving the Master when the Master recounts Mang I's question
+    and his own answer.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: ethical teacher
+  assigned_to:
+  - fig:1
+  basis: The Master delivers sayings on government, poetry, moral guidance, personal
+    progress, and filial piety.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: virtue-based governing center
+  assigned_to:
+  - fig:2
+  basis: The figure who governs by virtue is explicitly compared to a fixed polar
+    star toward which other stars turn.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: subjects of moral and legal guidance
+  assigned_to:
+  - fig:3
+  basis: The people are described as being led either by laws and punishments or by
+    virtue and propriety.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: questioner about filial piety
+  assigned_to:
+  - fig:4
+  basis: Mang I asks the Master what filial piety is.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: driver and recipient of report
+  assigned_to:
+  - fig:5
+  basis: Fan Ch'ih is driving the Master when the Master tells him about Mang I's
+    question and answer.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: self-narrating learner
+  assigned_to:
+  - fig:1
+  basis: The Master narrates his own progress through age-marked stages of learning,
+    certainty, reception of truth, and right conduct.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: fixed polar star
+  literal_form: The north polar star, which keeps its place while all the stars turn
+    toward it.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Book of Poetry as moral corpus
+  literal_form: The Book of Poetry with about three hundred pieces, summarized as
+    having no depraved thoughts.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: decrees of Heaven
+  literal_form: The decrees of Heaven that the Master says he knew at fifty.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Virtuous government compared to the polar star
+  summary: The Master presents government by virtue through the image of a fixed north
+    polar star that receives the orientation of the other stars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The Book of Poetry summarized
+  summary: The Master states that the many pieces of the Book of Poetry share a design
+    expressible as having no depraved thoughts.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Two ways of guiding the people
+  summary: The Master contrasts guidance by laws and punishments with guidance by
+    virtue and rules of propriety, associating the former with avoidance of punishment
+    and the latter with shame and goodness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Age-marked progress of the Master
+  summary: The Master recounts successive life stages from learning at fifteen to
+    acting according to his heart without transgressing right at seventy.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Filial piety question and report
+  summary: Mang I asks about filial piety; the Master answers that it is not being
+    disobedient, and later tells Fan Ch'ih about this exchange while Fan Ch'ih is
+    driving him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Fixed celestial center as model for moral rule
+  taxonomy_refs:
+  - world_center
+  basis: The passage explicitly compares virtue-based government to the north polar
+    star, which remains fixed while other stars turn toward it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage uses a political-ethical simile, not a mythic narrative of
+    a cosmic center or axis.
+- id: motif:2
+  label: Moral transformation through virtue and propriety
+  taxonomy_refs:
+  - wisdom
+  basis: The Master contrasts external control through laws and punishments with inner
+    moral response produced by virtue and propriety.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an ethical teaching pattern rather than a narrative myth motif.
+- id: motif:3
+  label: Canonical poetry as purification of thought
+  taxonomy_refs:
+  - wisdom
+  basis: The Book of Poetry is presented as having a unified design summarized by
+    the absence of depraved thoughts.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a terse summary of a textual corpus; it does not narrate
+    a ritual or mythic act of purification.
+- id: motif:4
+  label: Life-course acquisition of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The Master narrates age-marked stages from commitment to learning through
+    firmness, absence of doubt, knowledge of Heaven's decrees, receptivity to truth,
+    and right conduct.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The sequence is autobiographical and didactic; it is not framed as a quest
+    or initiation episode.
+- id: motif:5
+  label: Filial piety as non-disobedience
+  taxonomy_refs:
+  - wisdom
+  basis: When asked what filial piety is, the Master answers that it is not being
+    disobedient.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The answer is brief, and the passage excerpt ends before any fuller explanation
+    that may follow.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself compares the social function of virtue-based government
+    to a fixed celestial center: the ruler''s virtue keeps its place and draws the
+    orientation of others as the polar star does the other stars.'
+  claim_level: same_function
+  target: fixed celestial center or world-center ordering pattern
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal analogy in the passage only; it does not establish
+    historical contact, common inheritance, or a broader cross-cultural comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Book II, Chapter I, within lines 824-1025
+  quote_or_summary: '"government by means of his virtue" is compared to "the north
+    polar star, which keeps its place" while other stars turn toward it.'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: Book II, Chapter II, within lines 824-1025
+  quote_or_summary: The Book of Poetry has "three hundred pieces," and their design
+    is summarized as "Having no depraved thoughts."
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: Book II, Chapter III.1, within lines 824-1025
+  quote_or_summary: If the people are led by laws and punishments, they will try to
+    avoid punishment but will have no sense of shame.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: Book II, Chapter III.2, within lines 824-1025
+  quote_or_summary: If the people are led by virtue and rules of propriety, they will
+    have shame and become good.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: Book II, Chapter IV.1-3, within lines 824-1025
+  quote_or_summary: The Master says that at fifteen he was bent on learning, at thirty
+    he stood firm, and at forty he had no doubts.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: Book II, Chapter IV.4-6, within lines 824-1025
+  quote_or_summary: The Master says that at fifty he knew Heaven's decrees, at sixty
+    his ear received truth, and at seventy he followed his heart without transgressing
+    right.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: Book II, Chapter V.1, within lines 824-1025
+  quote_or_summary: Mang I asks what filial piety is; the Master answers, "It is not
+    being disobedient."
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:8
+  type: summary
+  locator: Book II, Chapter V.2, within lines 824-1025
+  quote_or_summary: As Fan Ch'ih drives him, the Master says that Mang-sun asked about
+    filial piety and that he answered, "not being disobedient."
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main translated sayings are clear. OCR noise and embedded commentary
+    are present, so motif labels remain conservative and should be checked against
+    the canonical line text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy refs are limited to the provided motif families and are applied cautiously.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l824-l1025
+  passage_sha256=925c87bdba6c087470989249487b5413ee5acb55387ffde7f83686a9d857022d
+

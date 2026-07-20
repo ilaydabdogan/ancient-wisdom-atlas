@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l50501-l50507
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION CXXVIII / SECTION CXXIX / SECTION CXXX / SECTION CXXXI; lines 50501-50507
+  start: '50501'
+  end: '50507'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Bhimasena in that battle resemble a blazing fire
+  summary: Dhritarashtra asks Sanjaya what Duryodhana said after seeing Karna turn
+    away from the battlefield, how Bhima fought, and what Karna did after seeing Bhima
+    in battle compared to a blazing fire.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dhritarashtra addresses Sanjaya and asks what Duryodhana said.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Karna is described as turning away from the field.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dhritarashtra says his sons had reposed all their hopes of victory on Karna.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Dhritarashtra asks how the mighty Bhima fought.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bhimasena in battle is compared to a blazing fire.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Dhritarashtra asks what Karna did after seeing Bhimasena in battle.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Dhritarashtra
+  description: Speaker who questions Sanjaya about Duryodhana, Karna, and Bhima.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Sanjaya
+  description: Addressee of Dhritarashtra's questions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Duryodhana
+  description: Person whose speech is requested after Karna turns away from the field.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Karna
+  description: Warrior described as turning away from the field and as the one on
+    whom Dhritarashtra's sons had placed hopes of victory.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Bhima / Bhimasena
+  description: Mighty warrior whose fighting is questioned and who is compared in
+    battle to a blazing fire.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Dhritarashtra's sons
+  description: Group said to have reposed all hopes of victory on Karna.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: Dhritarashtra asks Sanjaya a series of questions about the battle.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: addressed reporter
+  assigned_to:
+  - fig:2
+  basis: Sanjaya is addressed by Dhritarashtra as the recipient of the questions.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: reacting war leader
+  assigned_to:
+  - fig:3
+  basis: Dhritarashtra asks what Duryodhana said after seeing Karna turn away.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: hoped-for champion who turns away
+  assigned_to:
+  - fig:4
+  basis: Karna is the warrior on whom victory hopes rested and who is described as
+    turning away from the field.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: fiery battlefield warrior
+  assigned_to:
+  - fig:5
+  basis: Bhimasena is described in battle as resembling a blazing fire.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: dependent faction
+  assigned_to:
+  - fig:6
+  basis: Dhritarashtra's sons are said to rely on Karna for hopes of victory.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: blazing fire
+  literal_form: fire
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dhritarashtra questions Sanjaya about a battlefield reversal
+  summary: Dhritarashtra asks Sanjaya about Duryodhana's reaction to Karna turning
+    away from the battlefield, about Bhima's fighting, and about Karna's response
+    to seeing Bhima compared to a blazing fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: hoped-for champion turns from battle
+  taxonomy_refs: []
+  basis: The passage emphasizes that Karna, on whom Dhritarashtra's sons had placed
+    their hopes of victory, was seen turning away from the field.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is framed as a question and does not narrate the full circumstances
+    of Karna's action.
+- id: motif:2
+  label: warrior likened to blazing fire
+  taxonomy_refs: []
+  basis: Bhimasena in battle is explicitly compared to a blazing fire.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a local simile; the passage does not establish a broader fire
+    myth or world-destroying fire motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 50501-50504
+  quote_or_summary: Dhritarashtra asks what Duryodhana said when he saw Karna turning
+    away from the field.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt summarized/quoted for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 50503-50505
+  quote_or_summary: Karna is described as the one on whom Dhritarashtra's sons had
+    reposed all hopes of victory.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt summarized/quoted for extraction.
+- id: ev:3
+  type: quote
+  locator: lines 50505-50507
+  quote_or_summary: Dhritarashtra asks how Bhima fought and what Karna did after seeing
+    Bhimasena in battle resemble a blazing fire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; short excerpt summarized/quoted for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is limited
+    by the short interrogative passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparison claims were added because the supplied passage itself does not support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l50501-l50507
+  passage_sha256=08e53ffe789d1093135512d338a87e27cb3dab2dc0a193635dc922a128bd4ec7
+

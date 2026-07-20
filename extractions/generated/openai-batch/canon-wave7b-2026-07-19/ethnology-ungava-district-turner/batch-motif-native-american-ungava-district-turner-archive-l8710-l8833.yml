@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l8710-l8833
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: SWEAT HOUSES, / HOUSEHOLD UTENSILS, RTC. / TOBACCO AND PIPES, / BUREAU OF
+    ETHNOLOGY; lines 8710-8833
+  start: '8710'
+  end: '8833'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes tobacco-related practices and objects: tobacco and
+    molasses are boiled into an intoxicating drink; stone pipes are made from selected
+    river pebbles or slate with spruce-wood stems; pipe-cleaners are made from bone
+    or horn; tobacco is smoked with a coal of fire placed on it. It also notes restrictions
+    on intoxicants, occasional distribution of spruce beer, and begins a section on
+    transportation by water, stating that regional Indians use birch-bark canoes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Several people at the station may contribute plugs of tobacco and molasses,
+    which are boiled together and diluted with water to make a drink that causes stupefaction
+    lasting several days.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Smoking pipes are made from stone obtained from river pebbles, often fine-grained
+    sandstone, with colors ranging from dark reddish brown to lighter red, sometimes
+    with yellowish-drab spots.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The most valued pipes are made of greenish sandstone with darker strata that
+    appear as graining after cutting and polishing.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pipe stems are made from spruce wood by boring through a stick lengthwise
+    and whittling it to size; the stems may be ornamented with many-colored beads.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A pipe is made by selecting rough stone, chipping it into crude form, wearing
+    it down with a coarse file or harder stone, and polishing it after several days
+    of labor.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Ashes and accumulations inside pipes are removed with a bodkin-shaped instrument
+    of bone or horn; a broken horn comb may be used to make a decorated pipe-cleaner.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Moist black plug tobacco soaked with molasses and licorice is cut into pieces,
+    and a coal of fire is placed on it for smoking.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage states that the people described do not know how to brew or ferment
+    liquors, and that importation of intoxicants is prohibited.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Company servants make spruce beer for holidays, and a taste may be given to
+    a favored Indian; the passage says even a pint of the mild beer can make him reel
+    and return happily to his tent.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: All the Indians of the region are said to use birch-bark canoes, and the passage
+    introduces transportation by water.
+  category: object
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: people at the station who prepare the tobacco-molasses drink
+  description: Several contributors provide plugs of tobacco and molasses, which are
+    boiled and diluted before being drunk.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: pipe users described in the passage
+  description: The passage describes their pipes, tobacco, pipe-cleaning tools, and
+    smoking practice.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: company servants
+  description: Servants of the company make spruce beer for holidays.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+- id: fig:4
+  name_or_label: favored Indian receiving spruce beer
+  description: A favored Indian may be given a taste of spruce beer and is described
+    as easily affected by it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+- id: fig:5
+  name_or_label: Indians of the region
+  description: The passage states that all the Indians of this region use birch-bark
+    canoes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: preparers and consumers of intoxicating tobacco-molasses mixture
+  assigned_to:
+  - fig:1
+  basis: They contribute tobacco and molasses, boil the mixture, add water, and drink
+    it until stupefied.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pipe smokers and maintainers
+  assigned_to:
+  - fig:2
+  basis: They use stone pipes, smoke black plug tobacco with a coal of fire, and clean
+    pipes with bone or horn instruments.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+- id: role:3
+  label: holiday beer makers
+  assigned_to:
+  - fig:3
+  basis: The passage says company servants make spruce beer for holidays.
+  evidence_refs:
+  - ev:9
+- id: role:4
+  label: recipient affected by beer
+  assigned_to:
+  - fig:4
+  basis: A favored Indian may receive beer and is described as becoming reeling and
+    happy after a pint.
+  evidence_refs:
+  - ev:9
+- id: role:5
+  label: birch-bark canoe users
+  assigned_to:
+  - fig:5
+  basis: The passage states that all the Indians of the region use birch-bark canoes.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: stone tobacco pipe
+  literal_form: Pipe made of sandstone or slate, with valued examples of greenish
+    sandstone and spruce-wood stems.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: tobacco-molasses drink
+  literal_form: Plugs of tobacco and molasses boiled together, diluted with water,
+    and drunk until stupefaction ensues.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: coal of fire
+  literal_form: A coal of fire placed upon moist tobacco for smoking.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: pipe-cleaner
+  literal_form: Bodkin-shaped instrument of bone or horn, sometimes made from the
+    back of a broken horn comb and decorated with cruciform and quadrate figures.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: spruce beer
+  literal_form: Mild beer made by company servants for holidays and occasionally given
+    to a favored Indian.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: birch-bark canoe
+  literal_form: Canoe used for transportation by water by the Indians of the region.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Preparation and consumption of tobacco-molasses drink
+  summary: At the station, tobacco plugs and molasses are contributed, boiled together,
+    diluted with water, and consumed until stupefaction follows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Making and valuing stone tobacco pipes
+  summary: Stone is selected, shaped, filed or abraded, polished, and made into pipes
+    with spruce stems; pipes are valued by stone color and labor.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Smoking and cleaning pipes
+  summary: Moist tobacco is prepared for smoking by placing a coal of fire upon it,
+    and pipes are cleaned with bone or horn implements.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Holiday spruce beer and requests for drink
+  summary: Company servants make spruce beer; after a favored Indian receives some
+    and returns to his tent, others learn that beer is available and request it repeatedly.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:9
+- id: scene:5
+  label: Transportation by water
+  summary: The passage begins a new section on water transportation and states that
+    regional Indians use birch-bark canoes.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:10
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8710-8718
+  quote_or_summary: Several at the station contribute tobacco plugs and molasses;
+    these are boiled together, diluted with water, and drunk until stupefaction, with
+    effects lasting several days.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8718-8734
+  quote_or_summary: Pipes used for smoking are made of stone from river pebbles, usually
+    fine-grained compact sandstone, with reddish-brown coloring and sometimes yellowish-drab
+    spotting.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8734-8742
+  quote_or_summary: The best and most valued pipes are described as greenish sandstone
+    with darker strata that form beautiful graining when cut and polished.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8745-8758
+  quote_or_summary: The pipe stem is spruce wood, bored lengthwise, whittled to size,
+    4 to 8 inches long, and often ornamented with a band of many-colored beads.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8759-8766
+  quote_or_summary: Rough stone for a pipe is selected, chipped, worn down with a
+    coarse file or harder stone, and polished after several days of labor.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8767-8778
+  quote_or_summary: Pipe accumulations are removed with a bodkin-shaped bone or horn
+    instrument; a broken horn comb is favored for making a decorated pipe-cleaner
+    with cruciform and quadrate figures.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8778-8784
+  quote_or_summary: Black plug tobacco of inferior quality is soaked with molasses
+    and licorice, cut into pieces, and smoked by placing a coal of fire on it.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8785-8789
+  quote_or_summary: The passage states that they do not know how to brew or ferment
+    liquors and that importation of intoxicants is prohibited.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8789-8802
+  quote_or_summary: Company servants make spruce beer for holidays; a favored Indian
+    may receive some, become affected by a pint, return to his tent, and others then
+    ask for drink until the barrel must be emptied.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 8803-8833
+  quote_or_summary: The passage begins 'MEANS OF TRANSLORTATION, BY WATER' and states
+    that all the Indians of the region use birch-bark canoes of the shown pattern.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is ethnographic and material-culture oriented rather than mythological.
+    Literal extraction is moderately confident despite OCR errors. No motif candidates
+    or comparison claims were added because the passage itself does not support mythic
+    or comparative interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological narrative motif is evident in the supplied passage. Symbols are recorded as literal recurrent objects and materials, not as interpreted symbolic meanings.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l8710-l8833
+  passage_sha256=6a0fb5b998d127eb072b63135520351e8a633c3859c3e624af72d18b03bb5f80
+

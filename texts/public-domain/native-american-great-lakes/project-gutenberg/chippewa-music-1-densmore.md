@@ -1,4 +1,68 @@
+---
+id: native_american.chippewa_music_1.densmore_archive
+title: Chippewa Music
+alternate_titles:
+- Chippewa Music (BAE Bulletin 45)
+text_status: complete
+tradition: native_american_great_lakes
+culture: ojibwe_midewiwin_song_tradition
+region: north_america_great_lakes
+source_language: Ojibwe (Anishinaabemowin)
+text_language: English
+date_range: living song tradition; recorded 1907-1909 on White Earth and Leech Lake
+  reservations from named singers; published 1910 (BAE Bulletin 45)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.chippewamusic01dens
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1910 Government Printing
+    Office edition
+  translator: Frances Densmore
+  editor: ''
+  publication_year: 1910
+  publisher: Internet Archive
+  source_url: https://archive.org/details/chippewamusic01dens
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: US government publication (BAE), public domain. Recording context - phonograph-recorded
+    songs from named singers with Ojibwe words and English translations, centered
+    on Midewiwin (Grand Medicine Society) ceremonial songs; song texts are verbatim,
+    surrounding analysis is musicological.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- ojibwe
+- chippewa
+- midewiwin
+- song_texts
+- verbatim_texts
+- holdout_priority
+motifs:
+- medicine_lodge
+- dream_song
+- healing
+- spirit_power
+figures: []
+---
+
 # Chippewa Music
+
 ANALYSIS  OF  CHIPPEWA  MUSIC
 
 Three  questions  will  be  considered  in  the  present  section,  namely :
@@ -82,7 +146,7 @@ of  minor  tonaUty.  (Table  1.)  The  term  "key"  can  not  properl}'-  be
 used  in  this  work,  as  the  complete  tone-system  implied  by  that  term
 
 I  Charles  S.  Myers,  M.  A.,  M.  D.,  The  Ethnological  Study  of  Music  (in  Anthropological  Essays  Presented
- o  ^(fu'ard  B«rne/<  7'2/;or,  etc.,  p.  236):  "The  words  are  commonly  sacrificed  to  the  tune.  .  .  .  We  frequently find  that  liberties  are  taken  with  words,  or  that  meaningless  words  or  syllables  are  introduced  into
+<o  ^(fu'ard  B«rne/<  7'2/;or,  etc.,  p.  236):  "The  words  are  commonly  sacrificed  to  the  tune.  .  .  .  We  frequently find  that  liberties  are  taken  with  words,  or  that  meaningless  words  or  syllables  are  introduced  into
 primitive  music.  Yet  another  cause  of  the  presence  of  meaningless  words  lies  in  the  antiquity  of  the  music.
 The  words  become  so  archaic,  or  their  sense  was  orij;inally  so  involved  or  so  symbolical  that  all  meaning
 gradually  disappears  as  the  song  is  handed  down  from  generation  to  generation."
@@ -1233,7 +1297,7 @@ a
 
 S*
 
- M
+<M
 
 "o
 
@@ -1241,7 +1305,7 @@ S*
 
 ;5^    ■<^  "o    c>    0    '0    >o
 
-t^    CO     1-1      M      N     rt     .-
+t^    CO     1-1     <M     <N     rt     .-
 
 ■o
 
@@ -1308,14 +1372,14 @@ N    ■*
 
 t^
 
-»? !    e»    01    60
+»?<!    e»    01    60
 ■-,    o^    ■-,
 
 ^^  00    to    ^
 
 ^    0    0    f.
 
- N     ■*     CO     —•
+<N     ■*     CO     —•
 
 ■-H   to   »J^
 
@@ -1381,7 +1445,7 @@ i-T
 
 -
 
-■ i<
+■<i<
 
 
 §
@@ -1925,7 +1989,7 @@ III  I
 II  «  I
 
 
-1>ENSM U!E]
+1>ENSM<U!E]
 
 
 Pi
@@ -1965,7 +2029,7 @@ O    Oi    «s    ~*  o    ~*  o
 ■~,    o<            o,    ,^    ^     ~,        .
 
 
-e^    tc   -^   "o   c i    CO   N
+e^    tc   -^   "o   c<i    CO   N
 
 o«
 
@@ -1975,7 +2039,7 @@ the  entertainment
 of
 children
 
- B  a
+<B  a
 
 US     «<5         ■
 
@@ -2086,7 +2150,7 @@ T-^              so              ^i
 d
 2;
 
-■ f
+■<f
 
 CO    ^     O    i-(    ■*          c-
 
@@ -2379,7 +2443,7 @@ o
 
 Ol
 
- o
+<o
 
 to
 
@@ -2542,7 +2606,7 @@ CO     *^
 
 d
 
-rt      N
+rt     <N
 
 1     K3     rt     -«>
 
@@ -2585,7 +2649,7 @@ ia
 
 OJ     O
 
- SM
+<SM
 
 •    *^?    *>*    *^i
 
@@ -3318,7 +3382,7 @@ O)
 
 oj  q
 
- jj
+<jj
 
 ■3°
 
@@ -3487,7 +3551,7 @@ o
 
 O
 
- N
+<N
 
 CO
 
@@ -3497,7 +3561,7 @@ X-
 
 ■lO
 
- a  d
+<a  d
 
 i
 
@@ -3557,7 +3621,7 @@ m
 
 r^
 
-h   c
+h  <c
 
 t-q
 
@@ -3656,7 +3720,7 @@ X5     -«
 O    <3
 Us     U5
 
- o    >o
+‹o    ›o
 
 
 »rS     ^
@@ -3783,7 +3847,7 @@ c
 
 
 'O  'O  TS
-a»    D  ®
+a»   <D  ®
 
 S  S  S
 
@@ -3858,7 +3922,7 @@ CO
 vO     t~     -J<     t^     _|      M
 Oi     CO     1^     00     cs
 
- N    ^    rt
+<N    ^    rt
 
 1^
 
@@ -3980,7 +4044,7 @@ r-<      CO      10       t^    ■  CO
 
 s   1
 
-^      -^       Si      I50
+^      -^      <Si      I50
 
 ^      >-^      G^      0:3
 
@@ -4043,7 +4107,7 @@ r-    ^    jH    o-.    „
 
 r^
 
- !»    00    00    0(    00    »^
+<!»    00    00    0(    00    »^
 
 f^i    >-^    0^    >-n
 
@@ -4064,7 +4128,7 @@ OOINOON-*— |(N(N— irtCO-^
 
 --   0   t~   t~   ■*    ^
 
- N               rt
+<N               rt
 
 
 s
@@ -4098,7 +4162,7 @@ c
 W
 
 
- a  o  '£  — I
+<a  o  '£  — I
 2  "  §  a  £
 -<  3  »•- '-3
 
@@ -4321,7 +4385,7 @@ o
 
 i  a  a  c
 
-°  -^    !   «
+°  -^   <!   «
 
 
 DEN"  smoke]
@@ -4449,7 +4513,7 @@ C
 
 >Cl
 
-« S
+«<S
 
 ~^
 
@@ -4789,7 +4853,7 @@ dhnsmoke]
 
 05      05      N
 
-(N   a  •*
+(N  <a  •*
 
 i
 
@@ -5080,7 +5144,7 @@ BUKEAU    OF   AMERICAN   ETHNOLOGY
 
 ©5
 
- N)
+<N)
 
 .     i^
 
@@ -5330,7 +5394,7 @@ t--M
 
 ^
 
-'■     n
+'■    <n
 
 ffl  a
 
@@ -5488,9 +5552,9 @@ xj
 
 e*
 
- N
+<N
 
- N
+<N
 
 «o
 
@@ -5509,7 +5573,7 @@ inooo-Hrtnfoi£;c^ooo«jooo'*t^MNt^oo»«m(M"3    0NNt~
 
 ^     '■
 
- N
+<N
 
 N
 
@@ -5535,7 +5599,7 @@ o
 
 ^     CO
 
-C l      -H       ,-1
+C<l      -H       ,-1
 
 CO
 
@@ -5553,7 +5617,7 @@ IM
 
 o
 
-^inciT)i-«c^to^'S st~'*to^ni!i^rin^nt^
+^inciT)i-«c^to^'S<st~'*to^ni!i^rin^nt^
 
 N    .-1
 
@@ -5567,7 +5631,7 @@ N      -H      rt
 
 lO
 
-^eOlOC IIM-*^IMNCO-»<«l
+^eOlOC<IIM-*^IMNCO-»<«l
 
 -H     IM     i-l
 
@@ -5683,7 +5747,7 @@ M
 
 M
 
-.WNeOi-H>-lr- COCO
+.WNeOi-H>-lr-<COCO
 
 N
 
@@ -5745,7 +5809,7 @@ s
 
 It
 
-rHC^C COOlOCOC^l»-Ht^rt<^lOCO
+rHC^C<COOlOCOC^l»-Ht^rt<^lOCO
 
 
 1  S)
@@ -5974,7 +6038,7 @@ d
 
 00     CO     O    .-1
 
- o
+<o
 
 2  a
 
@@ -7998,7 +8062,7 @@ m-z
 
 — i-^ — 1^ — 1^ — ^^=i — I-  _     _       -      .
 
-V  -^  -^  T^-«   •-   S*  ^.f^
+V  -^  -^  T^-«   •-  <S*  ^.f^
 
 be  -ba-  ni  -  o   -   ne    -     yan   nin-do-  na-  gi
 
@@ -9145,7 +9209,7 @@ Chippewa  as  the  latter  entered  the  camp.     The  Chippewa  lowered
 
 their  guns,  aiming  at  the  places  where  the  Sioux  lay  asleep.  When
 all  was  ready  one  of  the  warriors  blew  a  quavering  note  on  a  tiny
-whistle,  like  the  call  of  a  waking  bir l.  At  this  signal  the  Chippewa
+whistle,  like  the  call  of  a  waking  bir<l.  At  this  signal  the  Chippewa
 fired  and  then  rushed  at  tlie  tipis,  tearing  them  down  and  killing  as
 many  of  the  wounded  as  possible.  With  a  quick  slash  they  severed
 the  head  of  a  Sioux  from  his  body  and  ran  away  with  it,  removing  the
@@ -9312,7 +9376,7 @@ O   -   gi  -   tci
 dan
 
 
-i  -  ji  -  na  -  gft  -   zi    -    w ig
+i  -  ji  -  na  -  gft  -   zi    -    w<ig
 
 
 ^^^iE^E^Iil
@@ -12023,7 +12087,7 @@ DEXSMORE]
 
 
 harmonic  in  structure.  The  four  renditions  of  the  song  recorded
-are  i lentical  in  every  respect.  Other  songs  composed  by  women  are
+are  i<lentical  in  every  respect.  Other  songs  composed  by  women  are
 Nos.  31,  39,  112,  127,  151,  177,  178.
 
 Odjib'we  stated  that  he  took  part  in  a  severe  figlit  witli  a  Ijand  of
@@ -14564,7 +14628,7 @@ Drum  Jiz:  126
 mm&^^m^
 
 
-- /-^
+-</-^
 
 
 '■^—f-t
@@ -15512,7 +15576,7 @@ the  ceremony.
 176  BUEEAU    OF    AMERICAN    ETHNOLOGY  [bull.  53
 
 (Catalogue  Nu.  S.  Ki)
-No.  75.  F()ur h  Sonj;;  of  the  Dog  Feast
+No.  75.  F()ur<h  Sonj;;  of  the  Dog  Feast
 
 Sung  by  Mec'kawiga'bali
 
@@ -15948,7 +16012,7 @@ Total
 
 
 Note. — The  Chippewa  war  songs  occurring  in  the  Drum-presentation  Oeremonj-  (Nos.  63,  64,  (i5,  66,  80)
-are  included  in  the  tabulate l  analysis  of  war  songs  on  p.  195,  and  the  divorce  songs  (67,  68)  are  included  in
+are  included  in  the  tabulate<l  analysis  of  war  songs  on  p.  195,  and  the  divorce  songs  (67,  68)  are  included  in
 the  songs  analyzed  on  p.  242.
 
 ENDINGS   OF   SONGS
@@ -17814,7 +17878,7 @@ ES=!^
 nin  da-min  -  a  -  i'g    ma-  ni-  do     wa  -  wa  -   bfi  -  mit
 
 
-^—-•-ji — 4    "  ^  j.  ♦   r  r^,;;  '^ — '-•
+^—-•-ji — 4    "  ^  j.  ♦  <r  r^,;;  '^ — '-•
 
 
 '  A  similar  practice  is  said  to  exist  among  the  Assiniboin  of  Montana,  a  medicine-man  tracing  a  zigzag
@@ -18300,7 +18364,7 @@ striking-stick  is  allowed  three  guesses;  if  he  tosses  aside  two  moccas
 which  the  score  is  made.  His  ]>artner  then  indicates  his  own  guess;
 if  correct,  he  qpens  liis  hand  and  shows  the  marked  bullet  in  the
 right  position;  if  incorrect,  he  extends  liis  hand  with  the  thumb
- lown,  meaning  "I  have  guessed  wrong"  (pi.  29).
+<lown,  meaning  "I  have  guessed  wrong"  (pi.  29).
 
 A  correct  guess  by  both  players  is  called  a  "double  crack,"  wliich
 entitles  them  to  an  additional  turn  at  hiding  the  bullets,  provided
@@ -19310,7 +19374,7 @@ had  no  shears  and  cut  the  deerskin  with  a  knife.  No  pattern  was
 used,  as  they  "just  made  a  covering  for  the  feet  and  gathered  it  up."
 She  said  that  she  sewed  the  moccasin  up  the  instep  and  "piped  it
 to  hold  it  firm,"  the  shortest  of  the  three  strips  being  used  for  that
-purpose.  She  then  moistened  the  moccasin  on  the  inside  and  mold Ml
+purpose.  She  then  moistened  the  moccasin  on  the  inside  and  mold<Ml
 the  outline  with  the  back  of  a  knife  placed  inside  the  moccasin.
 The  gathered  front  also  was  moistened  with  tepid  water  and  flattened
 by  pressing  it  on  her  knee.  The  seam  up  the  back  was  curved  below
@@ -19337,7 +19401,7 @@ phonograph.
 DENS  more]
 
 
-No.  113.     Love  Song  (Catalo i;ue  No.  446)
+No.  113.     Love  Song  (Catalo<i;ue  No.  446)
 
 Sung  by  O^gabea^sino'kwe  ("woman  of  the  breeze  that  blows  to  the  end")
 
@@ -20465,7 +20529,7 @@ Song  for  the  Entertainment  of  Children  ^
 
 No.  127.  Lullaby
 
-Sun f  by  O^gabea^sino'kwe
+Sun<f  by  O^gabea^sino'kwe
 
 
 Recorded  without  drum
@@ -22703,7 +22767,7 @@ Nilp;
 -P     .    -^
 
 
-t^—ft—^ —  s-
+t^—ft—^ — <s-
 
 
 -^t=t:
@@ -27045,7 +27109,7 @@ r
 pensmorb]
 
 
-(Catalofj;ue  No.  1 I4)
+(Catalofj;ue  No.  1<I4)
 
 
 =9*1
@@ -28158,7 +28222,7 @@ Az=az
 ;|g§Egjg^g_E[g;
 
 
-- S-r-
+-<S-r-
 
 
 -^
@@ -28554,5 +28618,4 @@ I
 
 
 :Birfc|3=t
-
 

@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l5911-l5927
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: FILLING THE GRAIN BIN. / GRAIN BINS (MATALA). / VOL. I L / BALUMBU WOMEN
+    STAMPING CORN.; lines 5911-5927
+  start: '5911'
+  end: '5927'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes hemp cultivation and smoking in a water-filled narghile-like
+    pipe. It reports coughing, intoxication, insensibility, and a man addressing his
+    pipe with a request to become unconscious while dismissing food as unnecessary
+    when hemp is available.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hemp is described as extensively grown.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hemp is smoked in a narghile-like device made with a large earthenware bowl
+    and a calabash stem filled with water.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The smoke is drawn through water in the smoking device.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says hemp provokes coughing and can make the smoker insensible
+    or senseless if continued.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Violent coughing and wild exclamations may be heard from a hut where a smoker
+    is intoxicating himself.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A smoker is described as talking to his pipe while coughing and smoking.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The quoted speech asks the pipe to make the speaker unconscious and contrasts
+    hemp with the need for food.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: hemp smoker
+  description: A person smoking hemp in a hut, coughing, exclaiming, and becoming
+    intoxicated.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: man heard exclaiming
+  description: A man whom the observers heard addressing his pipe with a request to
+    become unconscious.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: intoxicated smoker
+  assigned_to:
+  - fig:1
+  basis: The passage says the smoker intoxicates himself and may become insensible
+    or senseless.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: speaker addressing pipe
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that as he coughs and smokes he talks to his pipe, followed
+    by a quoted example from a man.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: hemp
+  literal_form: hemp (lubange) smoked as an intoxicant
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: water-filled smoking pipe
+  literal_form: narghile-like pipe with earthenware bowl, calabash stem, and water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: water in pipe
+  literal_form: water through which the smoke is drawn
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: food contrasted with hemp
+  literal_form: food mentioned in the smoker's speech as unnecessary when hemp is
+    available
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of hemp smoking apparatus and effects
+  summary: The passage explains that hemp is grown and smoked in a water-filled narghile-like
+    pipe, producing coughing and possible insensibility.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Smoker heard in a village hut
+  summary: While passing through a village, one may hear violent coughing and wild
+    exclamations from a hut where a smoker is intoxicating himself.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Man speaks to his pipe
+  summary: A man is heard addressing his pipe, asking to be made unconscious and implying
+    that hemp replaces the need for food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Intoxicating smoke producing unconsciousness
+  taxonomy_refs: []
+  basis: The passage links hemp smoking with coughing, intoxication, insensibility,
+    and a request to become unconscious.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic description of intoxicant use rather than a narrative
+    mythic motif.
+- id: motif:2
+  label: Addressing an object as an agent
+  taxonomy_refs: []
+  basis: The smoker is described as talking to his pipe and asking it to make him
+    unconscious.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage reports speech to a pipe but does not establish a religious,
+    mythic, or personifying doctrine.
+- id: motif:3
+  label: Intoxicant preferred over food
+  taxonomy_refs: []
+  basis: The quoted speech dismisses asking for food on the grounds that hemp is available.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The statement is a single reported exclamation and may be humorous or
+    situational rather than a stable motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5911-5914
+  quote_or_summary: Hemp is extensively grown and smoked in a narghile-like apparatus
+    made with a large earthenware bowl and a calabash stem filled with water, through
+    which smoke is drawn.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 5914-5916
+  quote_or_summary: The hemp provokes coughing and may make the smoker insensible
+    or senseless if persisted in.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5916-5920
+  quote_or_summary: When passing through a village, violent coughing and wild exclamations
+    may be heard from a hut where a smoker is intoxicating himself.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 5920-5925
+  quote_or_summary: 'As he coughs and smokes he talks to his pipe: "Make me unconscious!"
+    and says that a fool asks for food when hemp is available.'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt/translation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is ethnographic and does not present a mythic narrative or explicit
+    comparative frame. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact, inheritance, or cross-tradition comparison is supported by the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l5911-l5927
+  passage_sha256=c779cf8f7870ff647bf2c301b594bb604c186cf39f8e22f02772ed9bea077479
+

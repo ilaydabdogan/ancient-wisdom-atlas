@@ -1,0 +1,114 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l3200-l3202
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. XXXVII / CHAP. XXXVIII / CHAP. XXXIX / CHAP. XL; lines 3200-3202
+  start: '3200'
+  end: '3202'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    CHAP. XL
+
+    Kjartan and Bolli Voyage to Norway, A.D. 996
+  summary: A chapter heading identifies Chapter XL as concerning Kjartan and Bolli
+    voyaging to Norway in A.D. 996.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is a chapter heading for Chapter XL.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heading names Kjartan and Bolli.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The heading states that Kjartan and Bolli voyage to Norway.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The heading gives the date as A.D. 996.
+  category: setting
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Kjartan
+  description: Named in the heading as one of the persons voyaging to Norway.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bolli
+  description: Named in the heading as one of the persons voyaging to Norway.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: voyager
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The heading says Kjartan and Bolli voyage to Norway.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Voyage to Norway
+  summary: The chapter heading announces a voyage by Kjartan and Bolli to Norway in
+    A.D. 996.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: voyage or departure
+  taxonomy_refs:
+  - departure
+  basis: The passage explicitly frames the chapter around Kjartan and Bolli voyaging
+    to Norway.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is only a chapter heading; it does not provide narrative details
+    about the departure, voyage, purpose, or outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3200-3202
+  quote_or_summary: CHAP. XL; Kjartan and Bolli Voyage to Norway, A.D. 996
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; short excerpt used for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward, but motif identification is limited
+    by the passage being only a chapter heading.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols or comparison claims were extracted from this heading-only passage.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l3200-l3202
+  passage_sha256=018c854a49f51774839f0bfd41516d47ec18d6401c7d214902f1d2a55856d4ff
+

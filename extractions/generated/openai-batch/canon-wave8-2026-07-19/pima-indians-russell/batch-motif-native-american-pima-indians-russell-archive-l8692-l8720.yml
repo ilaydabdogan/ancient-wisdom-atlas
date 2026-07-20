@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l8692-l8720
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: XAOF TOWE K.IKRSA / GAMES / CUP STONE / RING STONE; lines 8692-8720
+  start: '8692'
+  end: '8720'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a cup-shaped lava stone found in Gila Valley ruins
+    west of Casa Grande and compares it to wooden cups used by the Ilopis in a shell-game-like
+    game. It also describes porous lava rings found near ruins, notes their resemblance
+    to Pima head rings, rejects that practical use because of size and material, and
+    suggests they were probably used in an unknown game.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A cup-shaped stone made of lava was obtained from a Pima who had found it
+    in ruins.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cup stone was found in one of the Gila Valley ruins west of Casa Grande.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Doctor Fewkes noted that the cup stone resembles wooden cups used by the Ilopis
+    in a game compared to the European shell game.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A few porous lava rings were found about the ruins.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The porous lava rings were called head rings because they resembled ordinary
+    Pima head rings of cloth or bark.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says most of the lava rings are too small and made of material
+    unsuited for use as head rings.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that the lava rings were probably used in some game unknown
+    to the present race.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Captions identify the illustrated objects as a cup stone and a ring stone,
+    with footnotes giving measurements.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unnamed Pima finder
+  description: A Pima person from whom the cup-shaped lava stone was obtained after
+    finding it in the ruins.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Doctor Fewkes
+  description: The person who called attention to the cup stone's resemblance to Ilopis
+    wooden game cups.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ilopis
+  description: The group described as using wooden cups in a game compared to the
+    European shell game.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Pimas
+  description: The group described as commonly using ordinary head rings of cloth
+    or bark.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: artifact finder/source
+  assigned_to:
+  - fig:1
+  basis: The cup-shaped lava stone was obtained from a Pima who had found it in the
+    ruins.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: comparative observer
+  assigned_to:
+  - fig:2
+  basis: Doctor Fewkes called attention to a resemblance between the cup stone and
+    Ilopis wooden game cups.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: users of analogous game cups
+  assigned_to:
+  - fig:3
+  basis: The Ilopis are described as using wooden cups in a shell-game-like game.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: users of ordinary head rings
+  assigned_to:
+  - fig:4
+  basis: Ordinary head rings of cloth or bark are said to be in common use among the
+    Pimas.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cup stone
+  literal_form: Cup-shaped stone of lava
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: wooden game cups
+  literal_form: Wooden cups used by the Ilopis in a shell-game-like game
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ring stone
+  literal_form: Porous lava rings found about the ruins
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: Pima head rings
+  literal_form: Ordinary head rings of cloth or bark
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cup stone found and compared to game cups
+  summary: A cup-shaped lava stone from Gila Valley ruins is described and compared
+    by Doctor Fewkes to Ilopis wooden cups used in a game likened to the European
+    shell game.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: scene:2
+  label: Ring stones interpreted as probable game objects
+  summary: Porous lava rings found about ruins are noted to resemble Pima head rings,
+    but their size and material make that use unlikely; the passage suggests they
+    were probably used in an unknown game.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Stone object interpreted through gaming analogy
+  taxonomy_refs: []
+  basis: The cup-shaped lava object from ruins is compared to wooden cups used in
+    a shell-game-like game.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage reports resemblance, but does not directly demonstrate the
+    cup stone's original use.
+- id: motif:2
+  label: Unidentified stone rings as probable game pieces
+  taxonomy_refs: []
+  basis: The lava rings are found near ruins, judged unsuitable as head rings, and
+    interpreted as probably used in an unknown game.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The specific game is not described, and the passage says the present race
+    is unacquainted with it.
+comparison_claims:
+- id: claim:1
+  claim: The cup stone is compared by resemblance to Ilopis wooden cups used in a
+    game likened to the European shell game.
+  claim_level: visual_similarity
+  target: Ilopis wooden game cups and the European shell-game analogy
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only resemblance is stated; the cup stone's actual function is not
+    confirmed in the passage.
+- id: claim:2
+  claim: The porous lava rings visually resemble ordinary Pima head rings, but the
+    passage argues against actual head-ring use because of size and material.
+  claim_level: visual_similarity
+  target: ordinary Pima head rings of cloth or bark
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:4
+  confidence: high
+  limitations: The comparison is limited to resemblance; the passage favors a different,
+    gaming-related interpretation.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8692-8698
+  quote_or_summary: "“a cup-shaped stone of lava” found “in one of the Gila Valley
+    ruins west of the Casa Grande”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:2
+  type: quote
+  locator: 8698-8702
+  quote_or_summary: "“resembles the wooden cups used by the Ilopis in a game not unlike
+    the European ... shell game”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:3
+  type: quote
+  locator: 8704-8710
+  quote_or_summary: "“rings of porous lava” found about the ruins were called head
+    rings because of resemblance to Pima head rings"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:4
+  type: quote
+  locator: 8710-8714
+  quote_or_summary: "“most of them are too small” and the material is “extremely unsuited”
+    for head-ring use"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:5
+  type: quote
+  locator: 8714-8716
+  quote_or_summary: "“much more probable that they were employed in some game with
+    which the present race is unacquainted”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:6
+  type: summary
+  locator: 8718-8720
+  quote_or_summary: Figure captions identify Fig. 98 as the cup stone and Fig. 99
+    as the ring stone; footnotes supply object measurements.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Artifact descriptions and comparisons are explicit, but functional interpretations
+    of the stones are cautious and partly speculative in the source passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol references were applied; the passage is archaeological/ethnographic rather than mythic narrative.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l8692-l8720
+  passage_sha256=d54b444babc49775b22db69c6bdc02e5f45b617f849b0fc214c9b1374a5151ec
+

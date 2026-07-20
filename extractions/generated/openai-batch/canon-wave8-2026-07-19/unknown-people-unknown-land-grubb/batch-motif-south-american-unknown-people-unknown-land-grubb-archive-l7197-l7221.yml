@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l7197-l7221
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: RESCUE OF A CHILD / RESCUE OF A CHILD / RESCUE OF A CHILD / RESCUE OF A CHILD;
+    lines 7197-7221
+  start: '7197'
+  end: '7221'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A narrator recounts an attempted rescue and mission upbringing of a motherless
+    child. The child’s sister asked that the child be brought back and placed in her
+    care. The child later died, was baptized shortly before death with the name Hope,
+    and was buried in the Chaco by the Paraguay. The narrator says the failure convinced
+    the Indians that similar attempts to rear motherless children would be futile.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The child’s sister became interested and pleaded with the narrator to bring
+    the child back and place it in her charge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The little child died about six months later.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator considered the child the special property of the Mission and
+    intended to bring the child up as a Christian.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A lady’s husband baptized the child just before death and gave the child the
+    name Hope.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The child was buried in the Chaco, on the banks of the Paraguay.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The narrator regretted the child’s death and thought that, if she had lived,
+    many others might have been saved from the fate she had narrowly escaped.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Indians concluded that because the Mission had failed to rear the child,
+    similar attempts would be futile, and they became more convinced of their own
+    method of disposing of motherless children.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Narrator / missionary speaker
+  description: First-person speaker who was asked to bring the child back, regarded
+    the child as belonging to the Mission, and regretted her death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Motherless child / Hope
+  description: The rescued child who died about six months later, was baptized just
+    before death, named Hope, and buried in the Chaco.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Child’s sister
+  description: The child’s sister who pleaded that the child be brought back and placed
+    in her charge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Lady’s husband
+  description: The man who baptized the child just before death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: The Mission
+  description: The institution to which the narrator considered the child specially
+    attached.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: The Indians
+  description: The group who interpreted the failed attempt to rear the child as proof
+    that similar attempts would be futile.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: would-be rescuer and mission guardian
+  assigned_to:
+  - fig:1
+  basis: The speaker was asked to bring the child back, intended Christian upbringing,
+    and later reflected on the rescue attempt.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: rescued motherless child who dies
+  assigned_to:
+  - fig:2
+  basis: The child is described as dying after the rescue attempt and as one of the
+    motherless children whose fate is discussed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: sibling caregiver claimant
+  assigned_to:
+  - fig:3
+  basis: The sister pleaded for the child to be brought back and placed in her charge.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: deathbed baptizer
+  assigned_to:
+  - fig:4
+  basis: The lady’s husband baptized the child just before death.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: mission custody institution
+  assigned_to:
+  - fig:5
+  basis: The child was considered the special property of the Mission.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: community interpreters of failed rescue
+  assigned_to:
+  - fig:6
+  basis: The Indians concluded from the failed rearing attempt that similar attempts
+    would be futile.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: deathbed baptism and naming
+  literal_form: baptism just before death by the name Hope
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: riverbank burial place
+  literal_form: burial in the Chaco, on the banks of the Paraguay
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: name Hope
+  literal_form: the given baptismal name Hope
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sister requests custody
+  summary: The child’s sister pleads with the narrator to bring the child back and
+    place the child in her care.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death, baptism, and burial
+  summary: The child dies about six months later, is baptized shortly before death
+    as Hope, and is buried in the Chaco by the Paraguay.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Failed rescue interpreted by the community
+  summary: The narrator regrets the death and says the Indians took the failed attempt
+    as evidence that efforts to rear such motherless children were futile.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: attempted rescue of a motherless child
+  taxonomy_refs: []
+  basis: The passage presents a rescued motherless child whose care is disputed or
+    reassigned between the Mission and the child’s sister.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The earlier details of the rescue and the exact prior danger are outside
+    the supplied passage.
+- id: motif:2
+  label: failed child rescue reinforcing customary practice
+  taxonomy_refs: []
+  basis: After the child dies, the Indians conclude that similar attempts to rear
+    motherless children would be futile and reaffirm their existing method.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports the conclusion through the narrator’s voice and does
+    not independently describe the community’s reasoning.
+- id: motif:3
+  label: deathbed baptism and naming of a rescued child
+  taxonomy_refs: []
+  basis: The child is baptized just before death and given the name Hope.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a missionary ritual episode rather than a mythic episode in the
+    supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7197-7201
+  quote_or_summary: The child’s sister became interested and pleaded with the narrator
+    to bring the child back and place it in her charge.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: quote
+  locator: lines 7202-7207
+  quote_or_summary: The child died about six months afterward; the narrator considered
+    her the special property of the Mission; she was baptized just before death by
+    the name Hope and buried in the Chaco on the banks of the Paraguay.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 7208-7215
+  quote_or_summary: The narrator regrets the death, says the child had narrowly escaped
+    a fate that might have been avoided for others, and reports that the Indians took
+    the failed rearing attempt as proof that similar efforts would be futile.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and not
+    mapped to the supplied taxonomy because the passage is a missionary ethnographic
+    anecdote rather than an explicit mythic narrative. No external comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The arrow caption following the narrative in the supplied line range was not used as motif evidence because it appears unrelated to the child-rescue passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l7197-l7221
+  passage_sha256=c3d60c9cd006339f9bb0d172934565d51f2516ed9d16e0260b791c0f04c3bea2
+

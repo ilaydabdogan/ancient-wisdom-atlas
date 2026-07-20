@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.micronesian-caroline-islands-christian-archive-l10840-l10866
+source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+passage_locator:
+  label: CHAPTER XVII / VISIT TO ONOTH AND GOROR / CHAPTER XVIII / TO TOMIL, LAI,
+    ELIK, BY BOAT TO NORTH YAP; lines 10840-10866
+  start: '10840'
+  end: '10866'
+  translation: 'The Caroline Islands: Travel in the Sea of the Little Lands'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: '"the current carried him away, and the fishes ate his body"; "Henceforth
+    I taste no fish."'
+  summary: A Padre tells a dinner-time story about a boy named Juan who drowned in
+    a river and was eaten by fishes. A listening boy throws his fish out the window
+    and vows not to eat fish. The narrator then eats baked fish and eggs, and comments
+    on the tedious didactic pamphlet material.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Fish is brought in during the dinner setting.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Padre tells a story about a boy named Juan who believed he could swim.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Juan goes to bathe in a big river, is carried away by the current, and his
+    body is eaten by fishes.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A boy reacts by throwing his portion out of the window and saying he will
+    no longer taste fish.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator eats baked leatherjacket fish with boiled eggs after the staged
+    or quoted dinner episode.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Konias has arranged eggs on the table and boiled them for three quarters of
+    an hour.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The narrator describes further proverbs, dialogue, and a search for sensible
+    keywords in pamphlets.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Padre
+  description: A dinner speaker who tells the story of Juan drowning and being eaten
+    by fishes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Juan
+  description: A boy in the Padre's story who thinks he can swim, bathes in the big
+    river, is carried away by the current, and is eaten by fishes after death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Boy at dinner
+  description: A boy who hears the Padre's tale, throws his fish portion out the window,
+    and vows not to taste fish.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Narrator
+  description: The first-person speaker who eats baked leatherjacket fish and eggs
+    after dinner is served.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Konias
+  description: Person who arranged the eggs on the table and boiled them for a long
+    time in an effort to please.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: didactic storyteller
+  assigned_to:
+  - fig:1
+  basis: The Padre narrates the cautionary account of Juan at dinner.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: drowned swimmer
+  assigned_to:
+  - fig:2
+  basis: Juan goes to bathe in the big river, is carried away by the current, and
+    his body is eaten by fishes.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: frightened meal participant
+  assigned_to:
+  - fig:3
+  basis: The boy throws away his fish portion and vows not to taste fish after hearing
+    the story.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: contrasting diner and commentator
+  assigned_to:
+  - fig:4
+  basis: The narrator says he does not let the tale interfere with his own dish and
+    later comments on the pamphlets.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: food preparer or server
+  assigned_to:
+  - fig:5
+  basis: Konias arranges eggs and has boiled them in anxiety to please.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: big river current
+  literal_form: big river and its current
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fishes
+  literal_form: fishes that eat Juan's body; fish served at dinner
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: discarded fish portion
+  literal_form: boy's portion thrown out of the window
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: boiled eggs
+  literal_form: eggs arranged on the table and boiled hard
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Padre's cautionary dinner tale
+  summary: At dinner, the Padre tells of Juan, a boy who bathed in a big river, was
+    carried off by the current, and whose body was eaten by fishes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Boy rejects fish
+  summary: A boy responds to the drowning-and-fishes story by throwing his fish portion
+    out the window and declaring he will no longer taste fish.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Narrator eats despite the tale
+  summary: The narrator says the tale does not keep him from eating baked leatherjacket
+    fish and boiled eggs prepared by Konias.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Comment on didactic pamphlets
+  summary: After dinner, the narrator describes more proverbs and dialogue and criticizes
+    the pamphlet material as tedious and impractical.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: cautionary drowning exemplum
+  taxonomy_refs:
+  - wisdom
+  basis: The Padre uses a story of a boy drowned in a river and eaten by fishes as
+    an apparent didactic warning during dinner.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is satirical travel prose and appears to quote or parody didactic
+    pamphlet dialogue, not a traditional mythic narrative.
+- id: motif:2
+  label: food renunciation after death tale
+  taxonomy_refs: []
+  basis: A boy who hears that fishes ate Juan's body throws away his fish portion
+    and vows not to taste fish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The action is comic or theatrical in presentation; no stable ritual taboo
+    or traditional prohibition is stated.
+- id: motif:3
+  label: water as fatal boundary or danger
+  taxonomy_refs: []
+  basis: The big river current carries Juan away when he goes to bathe, leading to
+    death and bodily consumption by fishes.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Only a brief embedded moral tale is provided; broader symbolic or cosmological
+    meaning is not stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 10840-10847
+  quote_or_summary: Fish is brought in at dinner; the Padre says he knew a boy called
+    Juan who went to bathe in the big river, was carried away by the current, and
+    whose body was eaten by fishes.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain; short quotation or summary used.
+- id: ev:2
+  type: quote
+  locator: 10847-10851
+  quote_or_summary: The boy starts up, throws his portion out of the window, and says,
+    "Henceforth I taste no fish."
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 10853-10859
+  quote_or_summary: The narrator says he is not deterred by the tale and eats baked
+    leatherjacket fish with eggs that Konias had arranged and boiled hard.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: 10861-10866
+  quote_or_summary: After dinner there are more proverbs and dialogue, and the narrator
+    complains about searching for sensible keywords in odd pamphlets.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a comic or satirical travel-narrative excerpt with an embedded
+    didactic tale rather than a clear mythic tradition text. Literal extraction is
+    straightforward, but motif interpretation should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a direct comparison to another tradition or motif family beyond general didactic patterning.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-caroline-islands-christian-archive__l10840-l10866
+  passage_sha256=0ed263b7d280de352a604dd386797a0ecc05c96951f778cc2d781f3833f417e4
+

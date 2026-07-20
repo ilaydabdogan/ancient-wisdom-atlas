@@ -1,0 +1,167 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l3252-l3262
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: NICHUS,  NIX.  495 / NIX.      WATEE-SPEITE.  497 / WATEE-SPRITE.      HOME-SPRITE.  499
+    / HOME-SPEITE.      KOBOLD.  501; lines 3252-3262
+  start: '3252'
+  end: '3262'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A scholarly note glosses and compares expressions for intense laughter,
+    including laughter that shakes, splits, diminishes, or kills the laugher, and
+    adds that a Breton song mentions the loud laugh of the korred. It also supplies
+    bibliographic references.
+  language: English with quoted Germanic, Latin, and French/German bibliographic forms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage glosses “Hlabtar kisciititaz” as “laughed till he shook.”
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists literary and idiomatic formulations in which laughter affects
+    the body, including splitting with laughter, laughing oneself double or to pieces,
+    and perishing or dying with laughter.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: A Breton song in Villemarque is said to speak of the loud laugh of the korred.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage includes bibliographic notes citing Schayes and Lobeck.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: korred
+  description: A named group in a Breton song, associated here with a loud laugh.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: bearers of a loud laugh
+  assigned_to:
+  - fig:1
+  basis: The passage says a Breton song speaks of the loud laugh of the korred.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Scholarly note on extreme laughter parallels
+  summary: The note gathers descriptions and idioms for intense laughter, then adds
+    a Breton-song reference to the loud laugh of the korred.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: excessive laughter affecting the body
+  taxonomy_refs: []
+  basis: Several cited expressions describe laughter as shaking the laugher, splitting
+    the person, reducing them, or causing perishing or death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is a philological note rather than a full narrative episode,
+    so this is a motif candidate at the expression-pattern level.
+- id: motif:2
+  label: loud laughter of named beings
+  taxonomy_refs: []
+  basis: The passage reports that a Breton song mentions the loud laugh of the korred.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only a brief reference is given; the surrounding Breton narrative context
+    is not included in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly juxtaposes Germanic, Latin, Middle High German, and
+    idiomatic formulations of extreme laughter as linguistically similar expressions.
+  claim_level: linguistic_similarity
+  target: Notker, Petronius, Reinardus, German idioms, and Middle High German laughter
+    expressions cited in the note
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports comparison of expressions, not a demonstrated
+    historical relationship or shared mythic narrative.
+- id: claim:2
+  claim: The note adds a Breton-song reference to the korred’s loud laugh as a cautious
+    parallel to the broader pattern of marked or extreme laughter.
+  claim_level: same_motif
+  target: Breton song in Villemarque mentioning the loud laugh of the korred
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage provides only a brief citation to the Breton song and does
+    not describe the narrative function of the korred’s laughter.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3252-3254
+  quote_or_summary: The note gives “Hlabtar kisciititaz” as “laughed till he shook”
+    and cites parallels in Notker, Petronius, and Reinardus.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 3254-3257
+  quote_or_summary: The note lists idioms such as splitting with laughter, laughing
+    oneself double or to pieces, and perishing or dying with laughter, including a
+    Middle High German expression.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 3257-3258
+  quote_or_summary: "“A Breton song in Villemarque 1, 39 speaks of the loud laugh
+    of the korred.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 3260-3262
+  quote_or_summary: The passage gives bibliographic references to Schayes on Belgian
+    usages and traditions and to Lobeck’s Aglaophamus.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is a fragmentary scholarly footnote focused on expressions and
+    citations, not a narrative myth episode. Motif extraction is therefore limited
+    to repeated laughter patterns explicitly mentioned.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy symbol applies directly; available motif-family references were not assigned because the passage does not support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l3252-l3262
+  passage_sha256=9b0d483f77a76b8fa72300ea57155133c29aa9fc4aa7c021b3e0f90fc3956241
+

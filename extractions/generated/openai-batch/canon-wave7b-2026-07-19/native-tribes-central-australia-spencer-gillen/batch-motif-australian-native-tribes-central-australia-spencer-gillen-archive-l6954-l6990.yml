@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l6954-l6990
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: THE TOTEMS / IV THE TOTEMS / THE TOTEMS / IV THE TOTE.MS 137; lines 6954-6990
+  start: '6954'
+  end: '6990'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Arunta totemic system as based on reincarnation
+    of Alcheringa ancestors, who are said to be transformations of animals, plants,
+    or inanimate objects such as water and fire. It states that an animal or plant
+    may be transformed into a human being, or that its spirit may remain associated
+    with a Churinga after death and later arise as human. It also says Arunta accounts
+    explain totemic names through myths of direct descent from animals or plants,
+    and it identifies the central feature of totemism as an intimate association between
+    an individual and the material object whose name the individual bears.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the totemic system of the Arunta and other Central
+    Australian tribes differs in important respects from other previously described
+    tribes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the system is based on reincarnation of Alcheringa ancestors.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Alcheringa ancestors are described as transformations of animals, plants,
+    and inanimate objects including clouds, water, fire, wind, sun, moon, and stars.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage says an animal or plant can be assumed to transform directly into
+    a human being.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says the spirit part of an animal may remain after death associated
+    with a Churinga and later arise in human form.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says the Arunta explain totemic names through myths in which a
+    man is the direct descendant of an animal or plant.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage identifies intimate association between an individual and the
+    material object whose name he bears as the essential shared feature of totemic
+    systems.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Alcheringa ancestors
+  description: Ancestors whose reincarnation is said to underlie the totemic system
+    and who are described as transformations of animals, plants, or inanimate objects.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Arunta individual or member of the tribe
+  description: A person bearing a totemic name, described in Arunta myths as directly
+    descended from an animal or plant and intimately associated with the material
+    object whose name he bears.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Animal or plant totem-being
+  description: An animal or plant treated as capable of becoming human, having a spirit
+    part after death, and serving as the ancestor from which a person claims descent
+    in mythic accounts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: reincarnating ancestral source
+  assigned_to:
+  - fig:1
+  basis: The system is described as based on reincarnation of Alcheringa ancestors
+    who were transformations of animals, plants, or objects.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: totem-name bearer and claimed descendant
+  assigned_to:
+  - fig:2
+  basis: The Arunta account explains totemic names by myths of direct descent from
+    animals or plants, and the individual bears the name of a material object.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: non-human source of transformation or descent
+  assigned_to:
+  - fig:3
+  basis: Animals and plants are described as capable of transformation into human
+    beings and as ancestors from which people descend in mythic accounts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: mythic account-giver
+  assigned_to:
+  - fig:2
+  basis: The passage says the Arunta native gives an account and the Arunta man accounts
+    for the association through myths.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: totem or material-name object
+  literal_form: The material object, animal, or plant whose name an individual bears
+    as a totem.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Churinga
+  literal_form: An object with which the spirit part of an animal may remain associated
+    after death before later arising in human form.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water
+  literal_form: Water listed among inanimate objects associated with ancestral transformations.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: fire
+  literal_form: Fire listed among inanimate objects associated with ancestral transformations.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Explanation of ancestral reincarnation and transformation
+  summary: The passage explains that the totemic system rests on reincarnation of
+    Alcheringa ancestors who are transformations of animals, plants, and objects,
+    and that animals or plants may become human or later arise as human through a
+    spirit associated with a Churinga.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mythic explanation of totemic names
+  summary: The passage says the Arunta explain the origin of totemic names through
+    myths in which a person is a direct descendant of an animal or plant.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: General statement of the totemic relationship
+  summary: The passage states that all totemic systems share the intimate association
+    between an individual and the material object whose name he bears.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Totemic reincarnation of ancestors
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage explicitly describes the system as based on reincarnation of
+    Alcheringa ancestors and says a spirit may remain after death and later arise
+    in human form.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is ethnographic exposition rather than a single narrative
+    episode.
+- id: motif:2
+  label: Animal or plant transformed into human being
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage states that animals or plants can be transformed directly into
+    human beings, and that ancestors were transformations of animals and plants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy term 'shapeshifter' may imply active or repeated shape-change,
+    while the passage describes transformation and reincarnation more generally.
+- id: motif:3
+  label: Human descent from animal or plant ancestor
+  taxonomy_refs: []
+  basis: The passage says Arunta myths account for totemic names by making a man the
+    direct descendant of an animal or plant.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No specific myth narrative or named ancestor is given in this passage.
+- id: motif:4
+  label: Spirit associated with sacred object before human return
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage describes a spirit part remaining after death associated with
+    a Churinga and later arising in human form.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not provide details of a particular Churinga episode
+    or ritual context beyond the general statement.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Arunta totemism with other totemic systems by saying
+    it differs in certain respects but shares the essential feature of intimate association
+    between an individual and the material object whose name he bears.
+  claim_level: same_function
+  target: Other Australian tribal and general totemic systems as described in the
+    passage
+  evidence_refs:
+  - ev:1
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the authorial statement in this passage
+    and does not specify the particular differences from other systems.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6954-6964
+  quote_or_summary: The Arunta and Central Australian totemic system is said to differ
+    from other described tribes and to be based on reincarnation of Alcheringa ancestors,
+    who were transformations of animals, plants, or inanimate objects such as clouds,
+    water, fire, wind, sun, moon, and stars.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6964-6973
+  quote_or_summary: The passage states that an animal or plant may be transformed
+    directly into a human being, or that its spirit part may remain after death associated
+    with a Churinga and later arise in human form.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6975-6985
+  quote_or_summary: 'The Arunta account of totemic names is described as mythic: a
+    man is said to be the direct descendant of an animal or plant, with circumstantial
+    details woven around the myths.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 6986-6990
+  quote_or_summary: 'The passage says that the Arunta system differs from other Australian
+    tribes in certain respects, yet shows the essential feature common to all totemic
+    systems: intimate association between the individual and the material object whose
+    name he bears.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the passage. Motif mapping is somewhat
+    cautious because the passage is explanatory ethnography rather than a specific
+    mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons or taxonomy identifiers beyond the provided lists were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l6954-l6990
+  passage_sha256=958d22cd2e683d12d0b082c8027f95b06db691814a1230562cfbd416b5a3a6b6
+

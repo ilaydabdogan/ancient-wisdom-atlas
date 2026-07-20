@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l6419-l6434
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: NKISSINSI. / NKISSINSI.  137 / NKISSINSI.  139 / PALAVERS.  141; lines 6419-6434
+  start: '6419'
+  end: '6434'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a diviner whose task is to identify an evildoer or
+    declare an illness natural. The narrator reports servants waking after disagreeable
+    dreams, firing guns to drive away evil power, and later divining who was trying
+    to harm them. It then introduces forthcoming material on native palaver, legal
+    decisions, and a story about the danger in words.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man is described as having the business of divining an evildoer or telling
+    a sufferer that sickness is natural.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator says servants sometimes got up at night after a disagreeable
+    dream.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The servants fired guns to drive away an evil power.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The following day the servants occupied themselves with divining who was trying
+    to get at them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator introduces an account of conducting a native palaver, a story
+    about respect for legal decisions, and a story about danger in words.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: divining man
+  description: A man whose business is to divine the evildoer or state that sickness
+    is natural.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: sufferer
+  description: A person whose sickness may be interpreted as caused by an evildoer
+    or as natural.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: servants
+  description: The narrator's servants who wake after dreams, fire guns, and later
+    divine the person trying to get at them.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: evil power
+  description: A power the servants try to drive away by firing guns.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: person trying to get at them
+  description: An unidentified person whom the servants attempt to identify through
+    divination.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: diviner or illness interpreter
+  assigned_to:
+  - fig:1
+  basis: The passage says his business is to divine the evildoer or tell the sufferer
+    that sickness is natural.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sick sufferer
+  assigned_to:
+  - fig:2
+  basis: The passage refers to a sufferer whose sickness is assessed.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dream-disturbed sleepers
+  assigned_to:
+  - fig:3
+  basis: The servants are described as getting up in the night after a disagreeable
+    dream.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ritual protectors or seekers of protection
+  assigned_to:
+  - fig:3
+  basis: The servants fire guns to drive evil power away and later divine who was
+    trying to get at them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: threatening evil force
+  assigned_to:
+  - fig:4
+  basis: The evil power is presented as something to be driven away.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: suspected hidden aggressor
+  assigned_to:
+  - fig:5
+  basis: The servants divine who the person was that was trying to get at them.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: disagreeable dream
+  literal_form: dream
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: gunfire against evil power
+  literal_form: guns fired in the night
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sickness assessed by divination
+  literal_form: sickness
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: danger in words
+  literal_form: words
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Divination concerning sickness
+  summary: A divining specialist identifies an evildoer or says that a sufferer's
+    sickness is natural.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Night gunfire after a bad dream
+  summary: Servants wake after a disagreeable dream and fire guns to drive an evil
+    power away.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Divining a hidden aggressor
+  summary: On the next day the servants try through divination to identify the person
+    who was trying to get at them.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Introduction to palaver and dangerous words
+  summary: The narrator introduces an account of native palaver, respect for legal
+    decisions, and a story showing danger in words.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Divination to identify a hidden evildoer behind sickness or attack
+  taxonomy_refs: []
+  basis: The passage presents divination as a means to identify an evildoer or an
+    unidentified person attempting harm.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic description rather than a full narrative episode.
+- id: motif:2
+  label: Apotropaic gunfire after a threatening dream
+  taxonomy_refs: []
+  basis: Servants respond to a disagreeable dream by firing guns at night to drive
+    away evil power.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The action is reported as observed practice; the passage does not give
+    a mythic story explaining it.
+- id: motif:3
+  label: Words as dangerous
+  taxonomy_refs: []
+  basis: The narrator announces a story that will show the danger that is in words.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only the introductory statement is included in this passage; the story
+    itself is not present.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6419-6421
+  quote_or_summary: "“this man's business to divine the evil-doer, or to tell the
+    sufferer that his sickness is a natural one”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6422-6425
+  quote_or_summary: "“servants get up in the night after a disagreeable dream and
+    fire off their guns to drive the evil power away”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 6425-6427
+  quote_or_summary: "“the next day busy themselves by divining who the person was
+    that was trying to get at them”"
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6428-6434
+  quote_or_summary: The narrator closes the collection by introducing an account of
+    native palaver, a story about respect for legal decisions, and a story showing
+    the danger in words.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the passage is a fragmentary ethnographic
+    note and introduction; motif labels should be reviewed before taxonomy mapping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l6419-l6434
+  passage_sha256=e28181ecdd03baa2774585a4949d54f513401a240e50de1de6fd62273b8528b0
+

@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l8395-l8566
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: HYMN    TO    OSIRIS  161 / XVIIITH  DYNASTY,  ABOUT  B.C.   1500 / HYMN   TO    OSIRIS
+    / HYMN   TO    OSIRIS; lines 8395-8566
+  start: '8395'
+  end: '8566'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The hymn addresses Osiris as a beneficent spirit among divine spirits.
+    It describes him drawing waters from Nu, bringing evening wind and air to his
+    nostrils, satisfying and germinating his heart, producing light and divine food,
+    receiving obedience from heaven and star-gods, opening great gates, being praised
+    in the southern and northern heavens, being associated with imperishable and never-resting
+    stars, and receiving an offering.
+  language: English with Egyptian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a hymn to Osiris.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The addressed figure is described as a beneficent spirit among the spirits
+    of the gods.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The addressed figure draws waters from Nu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The addressed figure brings the wind of eventide and air to his nostrils.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The wind and air are brought to the nostrils for the satisfaction of his heart.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: His heart germinates.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: He produces light and divine food.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Heaven and the star-gods obey him.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: He makes the great gates open.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: He is described as lord of praises and adored in the southern and northern
+    heavens.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Stars that never diminish are described as under his face or seat, and his
+    seats are described as stars that never rest.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: An offering comes to him.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Osiris
+  description: The named subject of the hymn, described as a beneficent spirit among
+    divine spirits and as the figure who draws waters, receives air at his nostrils,
+    produces light and divine food, opens gates, and is adored in heaven.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: star-gods
+  description: Celestial beings who obey the addressed figure.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: gods and spirits
+  description: A collective divine setting or class among whom the addressed figure
+    is called beneficent.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: beneficent divine spirit
+  assigned_to:
+  - fig:1
+  basis: The hymn describes the addressed figure as a beneficent spirit among spirits
+    of the gods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: drawer of waters and receiver of breath
+  assigned_to:
+  - fig:1
+  basis: The figure draws waters from Nu and brings wind and air to his nostrils.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: celestial lord praised in heaven
+  assigned_to:
+  - fig:1
+  basis: Heaven and star-gods obey him; he is lord of praises and adored in southern
+    and northern heaven.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: obedient celestial beings
+  assigned_to:
+  - fig:2
+  basis: The passage states that the star-gods obey him.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipient of offering
+  assigned_to:
+  - fig:1
+  basis: The passage states that an offering comes to him.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: waters of Nu
+  literal_form: waters drawn from Nu
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wind of eventide and air
+  literal_form: wind of eventide and air brought to the nostrils
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: heart that germinates
+  literal_form: the figure's heart, satisfied and germinating
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: light and divine food
+  literal_form: light and divine food produced by the figure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: great gates
+  literal_form: great gates made open
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: imperishable and never-resting stars
+  literal_form: stars that never diminish and stars that never rest
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: offering
+  literal_form: an offering that comes to the addressed figure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Elemental vitalization of Osiris
+  summary: Osiris draws waters from Nu and brings the wind of eventide and air to
+    his nostrils, satisfying his heart; his heart germinates and he produces light
+    and divine food.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Celestial obedience and opened gates
+  summary: Heaven and the star-gods obey Osiris, and he makes the great gates open.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Praise in the heavens and stellar association
+  summary: Osiris is described as lord of praises and adored in southern and northern
+    heaven; imperishable and never-resting stars are associated with his face or seats,
+    and an offering comes to him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divine vitalization through water, wind, and air
+  taxonomy_refs: []
+  basis: The passage combines waters from Nu, the wind of eventide, air to the nostrils,
+    satisfaction of the heart, germination of the heart, and production of light and
+    divine food.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explicitly frame this as death and rebirth; that
+    broader interpretation should not be inferred from this excerpt alone.
+- id: motif:2
+  label: heavenly obedience and opening of gates
+  taxonomy_refs: []
+  basis: Heaven and the star-gods obey the addressed figure, who opens the great gates.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The destination or function of the gates is not specified in the provided
+    excerpt.
+- id: motif:3
+  label: divine association with imperishable stars
+  taxonomy_refs: []
+  basis: The hymn associates the figure with stars that never diminish and stars that
+    never rest.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The OCR/interlinear layout makes the exact grammatical relation between
+    face, seat, and stars partly uncertain.
+- id: motif:4
+  label: heavenly praise and offering to a deity
+  taxonomy_refs: []
+  basis: The addressed figure is called lord of praises, adored in the southern and
+    northern heavens, and receives an offering.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The offering line is fragmentary in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8395-8566
+  quote_or_summary: 'Heading: "HYMN TO OSIRIS"; the figure is described as "of the
+    gods, spirit beneficent among the spirits."'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 8395-8566
+  quote_or_summary: The passage says he "draweth [from] Nu his waters" and brings
+    "the wind of eventide [and] air to his nostrils" for the satisfaction of his heart.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 8395-8566
+  quote_or_summary: The passage says his heart "germinateth" and that he "produceth
+    the light, the divine food."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 8395-8566
+  quote_or_summary: The passage states that heaven and the star-gods "obey him" and
+    that he makes "the great gates" open.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: 8395-8566
+  quote_or_summary: The figure is called lord of praises and is adored in southern
+    and northern heaven; stars that never diminish and stars that never rest are associated
+    with his face or seats.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: 8395-8566
+  quote_or_summary: The passage states that "an offering" comes to him, though the
+    line is incomplete in the supplied excerpt.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The supplied text is an OCR/interlinear excerpt with fragmentary line layout,
+    but the main actions and attributes are legible. No comparison claims are made
+    because the passage itself does not provide comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. Taxonomy reference applied only to the explicit water symbol.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l8395-l8566
+  passage_sha256=0527db67b424dd9946a38b495f38a091ef805c89b26f8e51a11f6dc798120fdf
+

@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.south-american-among-indians-guiana-im-thurn-archive-l13833-l13927
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: ZZOLIAN HARP. / ATHLETIC SPORTS. . 327 - / TT TT / WRESTLING SHIELD.; lines
+    13833-13927
+  start: '13833'
+  end: '13927'
+  translation: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic
+    from the Interior of British Guiana'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: Every object in the whole world is a being, consisting of a body and spirit
+  summary: The passage describes a reported Guiana Indian belief that spirits can
+    separate from proper bodies and enter animals or inanimate objects. It focuses
+    on the kenaima taking animal form or entering disease-causing objects, the peaiman
+    extracting such objects, and a broader ontology in which humans, animals, and
+    inanimate objects all possess body and spirit and differ chiefly by bodily form.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that a spirit may pass from its proper owner's body into
+    an animal or even an inanimate object.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The kenaima is described as not necessarily keeping human shape while following
+    a victim and often assuming an animal form, usually a jaguar or tiger.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Indian speakers are reported to use the expression 'kenaima-tiger' and to
+    distinguish killing an ordinary tiger from killing a kenaima-tiger.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The peaiman is described as extracting from a patient an animate or inanimate
+    object said to cause disease; the object is identified as a bodily form entered
+    by the kenaima's spirit.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says that an ordinary Indian does not believe he can voluntarily
+    transfer his own spirit into another body, though he may believe that other men,
+    a kenaima, or possibly a peaiman can do so.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says some animals are regarded as men in disguise, supporting
+    the belief that other men can transmit their spirits into chosen bodies.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says there is no sharp distinction, in the described belief, between
+    humans, other animals, and inanimate objects; all are beings with body and spirit,
+    differing chiefly in bodily form.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: kenaima
+  description: A being or person whose spirit may leave human form, take animal form
+    such as jaguar or tiger, or enter an object in order to penetrate a victim.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: peaiman
+  description: A practitioner described as extracting disease-causing objects from
+    a patient and possibly counteracting the evil working of the kenaima.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: victim or patient
+  description: The person followed by the kenaima or treated by the peaiman after
+    an object is said to have entered the body as a cause of disease.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Indian believer or speaker
+  description: A member of the described community who is reported as denying personal
+    power to transfer spirit at will while attributing such power to others and speaking
+    of the kenaima-tiger.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: animals and inanimate objects
+  description: Classes of beings described as possessing spirits not different in
+    kind from those of humans, differing chiefly in bodily form.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: spirit-transferring hostile pursuer
+  assigned_to:
+  - fig:1
+  basis: The kenaima follows a victim, may assume animal form, and may send its spirit
+    into an object to penetrate the victim.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: ritual extractor and counteractor
+  assigned_to:
+  - fig:2
+  basis: The peaiman extracts the disease object from the patient and is named as
+    one who may counteract the evil working of the kenaima.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: afflicted recipient
+  assigned_to:
+  - fig:3
+  basis: The victim is followed by the kenaima, and the patient contains the extracted
+    object identified as a disease cause.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: belief-holder and reported speaker
+  assigned_to:
+  - fig:4
+  basis: The passage reports Indian speech about the kenaima-tiger and describes what
+    an Indian does or does not believe about spirit transfer.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: spirit-bearing nonhuman beings
+  assigned_to:
+  - fig:5
+  basis: Animals and inanimate objects are said to have spirits that do not differ
+    in kind from human spirits.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: kenaima-tiger form
+  literal_form: Animal form, usually jaguar or tiger, assumed by a kenaima
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: extracted disease object
+  literal_form: Caterpillar, stick, stone, or another animate or inanimate object
+    extracted from the patient's body
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: transferable spirit
+  literal_form: Spirit separable from its proper body and able to enter another body
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: bodily form
+  literal_form: Human, animal, or inanimate body as the form occupied by a spirit
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: Kenaima pursues in animal form
+  summary: The kenaima follows a victim and may take the form of an animal, commonly
+    identified as jaguar or tiger, producing the reported expression 'kenaima-tiger.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Peaiman extracts embodied kenaima object
+  summary: The peaiman removes a caterpillar, stick, stone, or similar object from
+    a patient; the object is said to be the bodily form into which the kenaima spirit
+    entered to penetrate the victim.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: World of body-and-spirit beings
+  summary: The passage generalizes the belief by saying humans, animals, and inanimate
+    objects are all beings consisting of body and spirit, with bodily form as the
+    main difference.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: spirit transfer into animal or object body
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage describes spirits passing from their proper bodies into animals
+    or inanimate objects, especially the kenaima entering animal or object forms.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic belief-pattern description, not a single narrated
+    myth episode; the passage distinguishes ordinary people from beings or specialists
+    thought able to do this voluntarily.
+- id: motif:2
+  label: disease object as embodied hostile spirit
+  taxonomy_refs: []
+  basis: The object removed from the patient is said to cause disease and to be the
+    bodily form into which the kenaima spirit passed to penetrate the victim.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents the object within a healing context described by
+    the author; no wider taxonomy reference is supplied.
+- id: motif:3
+  label: humans, animals, and objects share spirit-bearing personhood
+  taxonomy_refs: []
+  basis: The passage states that all objects, animate and inanimate, are beings with
+    body and spirit and differ chiefly by bodily form.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a cosmological or ontological pattern rather than a plot motif.
+- id: motif:4
+  label: animals as men in disguise
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage says the Indian sees certain animals that he has reason to believe
+    are men in disguise, supporting the idea of spirit transmission into chosen bodies.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage mentions this as explanatory evidence rather than narrating
+    a specific transformation event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13833-13927, opening paragraph
+  quote_or_summary: '"the spirit may be passed from the body of its proper owner into
+    that of any animal, or even into any inanimate object"'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 13833-13927, opening paragraph
+  quote_or_summary: '"the kenaima...does not necessarily keep his human shape, but
+    often assumes the form of some animal, usually a jaguar...a tiger"; the expression
+    "kenaima-tiger" is reported.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 13833-13927, opening paragraph
+  quote_or_summary: The object extracted by the peaiman from the patient, "caterpillar,
+    stick, or stone," is said to be "the bodily form into which the spirit of the
+    kenaima has passed."
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; brief excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 13833-13927, opening paragraph
+  quote_or_summary: The passage says no Indian, unless possibly a peaiman, believes
+    he can transfer his own spirit at will, but he may believe other men have the
+    power; the act is associated with a kenaima or a peaiman counteracting the kenaima,
+    and certain animals may be regarded as men in disguise.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 13833-13927, middle paragraph
+  quote_or_summary: '"Every object in the whole world is a being, consisting of a
+    body and spirit" and animals and inanimate objects have spirits that "differ not
+    at all in kind" from those of humans.'
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; brief excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is direct, but the passage is ethnographic exposition
+    rather than narrative mythology. Candidate motifs are therefore framed as belief-patterns.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Uses only the supplied passage and metadata. Taxonomy references are limited to the provided available motif family 'shapeshifter' where directly supported.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-among-indians-guiana-im-thurn-archive__l13833-l13927
+  passage_sha256=96c7f2528910166b5b196e0cfbec24966d5050b87f13562563011ece169bc076
+

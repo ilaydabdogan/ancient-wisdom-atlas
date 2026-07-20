@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.australian-northern-tribes-central-australia-spencer-gillen-archive-l22574-l22635
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: BY A THAKOMARA MAN / KARINJI THE JABIRU / CHAPTER XIV / MAGIC; lines 22574-22635
+  start: '22574'
+  end: '22635'
+  translation: The Northern Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The form of magic most widely spread over the whole of Australia is undoubtedly
+    that which is associated with pointing-sticks and bones.
+  summary: The passage opens a chapter on magic by describing the widespread use of
+    pointing-sticks and bones. It identifies Arunta and Ilpirra implements called
+    injilla, irna, and takula; describes their forms; explains a Kurdaitcha use of
+    the injilla in magical killing and delayed death; and notes broader regional variation
+    in who may use such implements.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter heading and topic list identify magic associated with pointing-sticks
+    and bones as a major subject of the chapter.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that magic associated with pointing-sticks and bones is
+    very widely spread across Australia and appears under different forms and names
+    in every tribe.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Among the Arunta and Ilpirra, the injilla or irna are described as short sticks
+    or bones with one end sharpened and the other end usually tipped with porcupine-grass
+    resin.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The takula is described as a flattened form differing from the irna and often
+    ornamented with down, notches, or rings cut with a fire-stick.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The injilla is especially associated with the Kurdaitcha man, who puts the
+    bone under his enemy's tongue after he has killed him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The victim is described as being made oblivious to what has happened, restored
+    to life by magical power, and then made to sicken and die slowly.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The irna and takula are said to be usable by ordinary natives, and the passage
+    contrasts areas where any native can use them with other parts where only special
+    individuals can do so.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A figure caption in the passage identifies an action as pointing the irna
+    in the Arunta tribe.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A footnote states that a Kurdaitcha-associated custom involving a special
+    shoe occurs as far north as the Tjingilli tribe at Powell Creek; the shoes are
+    made from opossum fur-string and are called wata.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kurdaitcha man
+  description: A man especially associated with using the injilla after killing an
+    enemy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Enemy or victim
+  description: The enemy of the Kurdaitcha man, described as killed, made oblivious,
+    restored to life by magic, and then caused to sicken and die slowly.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ordinary native users
+  description: Ordinary native users of the irna and takula in the tribes described
+    by the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Special individuals in other parts
+  description: Individuals in certain other regions who alone are said to be able
+    to use the relevant magical implements.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: magical operator
+  assigned_to:
+  - fig:1
+  basis: The Kurdaitcha man is described as using the injilla in an act of magical
+    killing and delayed death.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: magical target
+  assigned_to:
+  - fig:2
+  basis: The enemy is the person on whom the injilla magic is worked and who undergoes
+    the described sequence of death, restoration, sickness, and slow death.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: general permitted user
+  assigned_to:
+  - fig:3
+  basis: The passage states that the irna and takula are used by the ordinary native
+    and that in these regions any native can use them.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: restricted permitted user
+  assigned_to:
+  - fig:4
+  basis: The passage contrasts the ordinary use in the described regions with other
+    parts where only special individuals can use such implements.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: pointing-sticks and bones
+  literal_form: Pointed sticks or bones used in magic under various forms and names.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: injilla or irna
+  literal_form: Short stick or bone with one end sharpened and the other usually tipped
+    with porcupine-grass resin.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: takula
+  literal_form: Flattened form of the irna, often ornamented with down, notches, or
+    rings cut with a fire-stick.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: bone under the tongue
+  literal_form: The injilla or bone placed under the enemy's tongue by the Kurdaitcha
+    man.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wata shoe
+  literal_form: Special shoe made from opossum fur-string in the Tjingilli Kurdaitcha-associated
+    custom.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Classification of pointing-stick and bone magic
+  summary: The passage presents pointing-stick and bone magic as widely distributed
+    and describes Arunta and Ilpirra forms including injilla, irna, and takula.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Kurdaitcha use of the injilla
+  summary: A Kurdaitcha man kills an enemy, places the injilla or bone under the enemy's
+    tongue, and the victim is magically restored to life before sickening and dying
+    slowly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Footnoted northern occurrence of Kurdaitcha shoe custom
+  summary: The footnote links the Kurdaitcha custom with a special shoe custom as
+    far north as the Tjingilli tribe at Powell Creek, where the shoes are called wata.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: pointing-bone or pointing-stick magic
+  taxonomy_refs: []
+  basis: The passage explicitly identifies pointing-sticks and bones as a widespread
+    form of magic and describes named implements used for that purpose.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic ritual pattern rather than a narrative myth episode.
+- id: motif:2
+  label: magical killing with temporary restoration and delayed wasting death
+  taxonomy_refs:
+  - resurrection
+  basis: The Kurdaitcha sequence describes an enemy as killed, made oblivious, restored
+    to life by magic power, and then caused to sicken and die slowly.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The restoration is temporary and harmful; it should not be treated as
+    a full salvific resurrection or rebirth motif without further context.
+- id: motif:3
+  label: restricted versus general ritual authority over magical implements
+  taxonomy_refs: []
+  basis: The passage contrasts regions where any native may use the irna and takula
+    with other parts where only special individuals can use comparable implements.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not name the other regions or explain the basis of restriction.
+- id: motif:4
+  label: Kurdaitcha shoe-associated magical custom
+  taxonomy_refs: []
+  basis: A footnote states that the same Kurdaitcha-associated custom involving special
+    shoes occurs among the Tjingilli, with shoes called wata.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage references fuller treatment elsewhere and gives only brief
+    details here.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents pointing-stick and bone magic as a widespread
+    Australian pattern with local forms and names.
+  claim_level: same_function
+  target: pointing-stick and bone magic across Australian tribes
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a claim reported in the source passage; no independent corroborating
+    passages are included in this record.
+- id: claim:2
+  claim: The passage compares Arunta and Ilpirra use of injilla, irna, and takula
+    with broader central and eastern Australian practice, especially in whether any
+    native or only special individuals may use such implements.
+  claim_level: same_function
+  target: pointing implement magic from central Australia eastwards toward the Gulf
+    of Carpentaria and in other unspecified regions
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is broad and does not provide a full list of tribes
+    or variant implements in the compared regions.
+- id: claim:3
+  claim: The footnote states that the same Kurdaitcha-associated custom with special
+    shoes occurs as far north as the Tjingilli tribe at Powell Creek.
+  claim_level: same_motif
+  target: Kurdaitcha-associated special-shoe custom among the Tjingilli
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief footnoted comparison and points to fuller
+    description outside the provided passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22574-22601
+  quote_or_summary: The chapter heading and topic list introduce magic, including
+    magic associated with pointing-sticks and bones and named implements such as injilla,
+    irna, and takula.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 22603-22606
+  quote_or_summary: The passage says that the form of magic most widely spread over
+    Australia is associated with pointing-sticks and bones, found under various forms
+    and names in every tribe.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 22607-22614
+  quote_or_summary: Among the Arunta and Ilpirra, injilla or irna are short sharpened
+    sticks or bones usually resin-tipped; the takula differs by being flattened and
+    often ornamented with down, notches, or fire-cut rings.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 22614-22618
+  quote_or_summary: The injilla is especially used by the Kurdaitcha man, who places
+    the bone under the enemy's tongue after killing him; the enemy is made oblivious,
+    restored to life by magic power, and then sickens and dies slowly.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 22619-22627
+  quote_or_summary: The irna and takula are used by ordinary natives; the passage
+    notes that across the centre of the continent and eastwards toward the Gulf of
+    Carpentaria any native can use them, while in some other parts only special individuals
+    can do so. The caption identifies 'Pointing the irna. Arunta tribe.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 22629-22635
+  quote_or_summary: A footnote says the Kurdaitcha form of magic is discussed elsewhere
+    and that the same custom with a special shoe occurs as far north as the Tjingilli
+    tribe at Powell Creek; the shoes are made from opossum fur-string and called wata,
+    and a man going Kurdaitcha is called Mumba by the Tjingilli.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summary generated from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear about objects, actions, and regional comparison, but
+    it is an ethnographic description of magical practice rather than a mythic narrative;
+    motif assignments should be reviewed by a human editor.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources used. Taxonomy references were kept minimal; 'resurrection' is applied cautiously only to the stated temporary magical restoration to life.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-northern-tribes-central-australia-spencer-gillen-archive__l22574-l22635
+  passage_sha256=d13e98aaf9696e6b4ab58bcd11b0c5852f790c89dcf688a71eee38df8d28ee54
+

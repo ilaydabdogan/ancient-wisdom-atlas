@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l22126-l22148
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: NOTES   ON   THE   TALES  501 / LXXIV. / LXXV. / NOTES   ON   THE   TALES  503;
+    lines 22126-22148
+  start: '22126'
+  end: '22148'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Notes to tale LXXV explain a consequence involving Jiriy water and wives
+    living in different huts, describe practical methods for getting heavy loads onto
+    the head by using a tree fork or staff, and refer the reader to a chapter on marriage.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says she could be scolded for bringing back Jiriy water or could
+    have to drink it herself because the wives would be in different huts.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Putting a heavy load onto one's head is described as almost impossible without
+    assistance, even if the person can carry it once it is in place.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One described method is to raise a load gradually into the fork of a tree
+    and then place oneself underneath it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The note says a pot of water could hardly be treated by the tree-fork loading
+    method.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A trader making a temporary halt may back against a tree, catch one end of
+    the load in a fork, and steady the other end with a long staff.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note says there are often recognized places where this load-handling practice
+    is done.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The final note directs the reader to remarks on marriage in Chapter V.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed female figure
+  description: A female figure referred to as "she" in connection with bringing back
+    Jiriy water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: wives
+  description: Wives said to be in different huts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: person carrying a heavy load
+  description: A generic person who may be able to carry a heavy load after it has
+    been placed on the head but needs assistance to put it there.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: trader
+  description: A trader who, during a temporary halt, uses a tree fork and long staff
+    to manage a load.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: water returner subject to household consequence
+  assigned_to:
+  - fig:1
+  basis: The note says she may be scolded for bringing back Jiriy water or have to
+    drink it herself.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wives in separate huts
+  assigned_to:
+  - fig:2
+  basis: The wives are explicitly described as being in different huts.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: load carrier needing assistance
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage describes difficulty putting a heavy load on the head and methods
+    for supporting a load with a tree fork.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: temporarily halting trader
+  assigned_to:
+  - fig:4
+  basis: The trader is specifically described as making a temporary halt while managing
+    a load.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: Jiriy water; pot of water
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: tree fork
+  literal_form: fork of a tree used to support a load
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: heavy load
+  literal_form: heavy load carried on the head or supported against a tree
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: long staff
+  literal_form: long staff used to steady one end of a load
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Jiriy water consequence
+  summary: The note explains that bringing back Jiriy water could lead to scolding
+    or to the woman having to drink it herself because wives would occupy different
+    huts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: placing a heavy load with a tree fork
+  summary: The note explains the difficulty of placing a heavy load on the head without
+    assistance and describes using a tree fork as one method, while noting that a
+    pot of water is poorly suited to it.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: trader's temporary halt
+  summary: A trader halting temporarily may brace against a tree, catch one end of
+    the load in a fork, and steady the other end with a long staff, at places recognized
+    for this practice.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: undesired water returned to separated household huts
+  taxonomy_refs: []
+  basis: The note connects brought-back Jiriy water with scolding or forced self-consumption
+    because wives are in different huts.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage is a brief explanatory note; the surrounding tale is not included
+    in the supplied text.
+- id: motif:2
+  label: tree fork as aid for placing a head-load
+  taxonomy_refs: []
+  basis: The note describes raising a load into a tree fork and using a tree fork
+    and staff during a halt to manage a load.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is presented as practical ethnographic explanation rather than a
+    sacred or mythic tree motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: LXXV [i]; lines 22126-22130
+  quote_or_summary: She might be scolded for bringing back Jiriy water or have to
+    drink it herself because the wives would be in different huts.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain; full text allowed.
+- id: ev:2
+  type: summary
+  locator: LXXV [2]; lines 22132-22135
+  quote_or_summary: It is said to be almost impossible to get a heavy load onto the
+    head without help, even when the person can carry it after it is placed there.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain; full text allowed.
+- id: ev:3
+  type: summary
+  locator: LXXV [2]; lines 22136-22141
+  quote_or_summary: One method is to raise the load gradually into a tree fork and
+    stand underneath it; the note adds that a pot of water would hardly be handled
+    this way.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain; full text allowed.
+- id: ev:4
+  type: summary
+  locator: LXXV [2]; lines 22141-22146
+  quote_or_summary: A trader making a temporary halt may back against a tree, catch
+    one end of the load in a fork, steady the other end with a long staff, and use
+    recognized places for this practice.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain; full text allowed.
+- id: ev:5
+  type: summary
+  locator: LXXV [3]; lines 22148
+  quote_or_summary: The note refers readers to remarks on marriage in Chapter V.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain; full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is mostly clear, but the supplied passage consists of
+    brief notes without the full tale context. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the passage does not present a supported sacred or comparative mythic motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l22126-l22148
+  passage_sha256=dba0af0add773f3e985073dab777091d6080d33ac8a367b7de8129501b7a4a33
+

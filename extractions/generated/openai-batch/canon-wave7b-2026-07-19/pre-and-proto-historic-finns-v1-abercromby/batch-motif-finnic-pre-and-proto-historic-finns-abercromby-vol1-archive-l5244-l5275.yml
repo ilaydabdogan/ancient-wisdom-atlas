@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.finnic-pre-and-proto-historic-finns-abercromby-vol1-archive-l5244-l5275
+source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+passage_locator:
+  label: NOTICES OF CLASSICAL AUTHORS 127 / NOTICES OF CLASSICAL AUTHORS 129 / NOTICES
+    OF CLASSICAL AUTHORS 133 / NOTICES OF CLASSICAL AUTHORS 135; lines 5244-5275
+  start: '5244'
+  end: '5275'
+  translation: The Pre- and Proto-historic Finns, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage argues from Ptolemy, the distribution of Hallstatt-period face-urns,
+    river boundaries, and ecological vocabulary for eel, salmon, and beech to locate
+    the long-term home of Lithuanian or Letto-Lithuanian peoples chiefly around the
+    Niemen and Dvina valleys.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The author states that Ptolemy did not infer that Germans lived along the
+    Baltic coast east of the Vistula.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hallstatt-period face-urns are described as common west and south of Dantzig,
+    but known only at one place east of the Vistula near its right bank.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author presents the Vistula as a possible boundary between two distinct
+    nationalities to explain the face-urn distribution.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Lithuanian peoples are said to be traceable on the south-east shores of
+    the Baltic for the last eighteen centuries.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The author notes native Lithuanian words for eel and salmon as evidence that
+    the people had not materially changed their abode for a long period.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Eel and salmon are described as migrating annually to the sea and occurring
+    in rivers draining into the Baltic rather than into the Black Sea.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The old home of the Lithuanian peoples is placed north of the watershed of
+    rivers running southward, in an area including East Prussia, Poland, the Baltic
+    Provinces, and several named governments.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Poland and East Prussia west of the Pregel are excluded from the proposed
+    homeland because the word for beech is described as a Teutonic loanword and because
+    of the present eastern limit of the beech tree.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The original home of the Letto-Lithuanians is proposed chiefly in the valleys
+    of the Niemen and Dvina and their tributaries.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ptolemy
+  description: Classical author mentioned in relation to geographical intelligence
+    about peoples near the Baltic coast.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Germans
+  description: Population whom Ptolemy is said not to have placed along the Baltic
+    coast east of the Vistula.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Lithuanian peoples / Letto-Lithuanians
+  description: Peoples whose long-term abode and original home are discussed through
+    linguistic and geographical evidence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+roles:
+- id: role:1
+  label: classical geographical witness
+  assigned_to:
+  - fig:1
+  basis: Ptolemy is cited for what his geographical intelligence did not lead him
+    to suppose about German settlement east of the Vistula.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: population absent from Ptolemy's east-of-Vistula Baltic placement
+  assigned_to:
+  - fig:2
+  basis: The passage states that Ptolemy did not suppose Germans lived along the Baltic
+    coast east of the Vistula.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: people whose homeland is inferred from vocabulary and ecology
+  assigned_to:
+  - fig:3
+  basis: The passage uses native words for eel and salmon, drainage patterns, beech
+    vocabulary, and river valleys to infer the abode and original home of Lithuanian
+    or Letto-Lithuanian peoples.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: Vistula as boundary river
+  literal_form: the Vistula River
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: eel and salmon vocabulary as ecological evidence
+  literal_form: native words for eel and salmon
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Baltic drainage and sea migration
+  literal_form: the Baltic Sea, rivers draining into it, and the watershed of southward-running
+    rivers
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: beech as linguistic and botanical limit
+  literal_form: the beech tree and the word for beech
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: face-urns as material-culture marker
+  literal_form: Hallstatt-period face-urns
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Vistula boundary argument
+  summary: The passage combines Ptolemy's apparent non-placement of Germans east of
+    the Vistula with the limited east-of-Vistula distribution of face-urns, then proposes
+    the river as a boundary between two nationalities.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Fish vocabulary and Baltic drainage argument
+  summary: The passage uses Lithuanian words for eel and salmon, together with the
+    fishes' Baltic-linked migration and drainage patterns, to argue for a northern
+    homeland.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Beech evidence and proposed Letto-Lithuanian home
+  summary: The passage narrows the proposed homeland by excluding areas west of the
+    Pregel because of beech vocabulary and the tree's range, then places the original
+    home chiefly in the Niemen and Dvina valleys.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5244-5247
+  quote_or_summary: Ptolemy's information is said not to have led him to suppose that
+    Germans lived along the Baltic coast east of the Vistula.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5248-5253
+  quote_or_summary: Hallstatt-period face-urns are described as common west and south
+    of Dantzig, but known in only one place east of the Vistula, close to the right
+    bank.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 5253-5256
+  quote_or_summary: '"the river was the boundary between two distinct nationalities"'
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 5256-5263
+  quote_or_summary: The passage asks whether Lithuanian peoples were recent intruders,
+    notes they can be traced on the south-east Baltic shores for eighteen centuries,
+    and says native words for eel and salmon show long continuity of abode.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 5263-5267
+  quote_or_summary: Eel and salmon are described as migrating annually to the sea
+    and being found in rivers that drain into the Baltic, not in rivers draining to
+    the Black Sea.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 5267-5271
+  quote_or_summary: The old home of the Lithuanian peoples is placed north of the
+    watershed of southward-running rivers, in an area including East Prussia, Poland,
+    the Baltic Provinces, Kovno, Suvalki, Vilna, Vitebsk, Pskov, and Petersburg.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 5271-5274
+  quote_or_summary: Poland and East Prussia west of the Pregel are excluded because
+    the word for beech is described as a Teutonic loanword and the beech tree's eastern
+    limit is traced from Konigsberg to Podolia.
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: quote
+  locator: lines 5274-5275
+  quote_or_summary: '"The original home of the Letto-Lithuanians may be sought chiefly
+    in the valleys of the Niemen and the Dvina"'
+  source_text_path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a historical-geographical and linguistic argument rather than
+    a mythic narrative. Extraction is limited to literal figures, objects, places,
+    and argument patterns; no mythological motif or comparison claims are supported
+    by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythology motifs were extracted because the passage does not present mythic actions, divine figures, ritual narrative, or comparative mythological claims.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:finnic-pre-and-proto-historic-finns-abercromby-vol1-archive__l5244-l5275
+  passage_sha256=b8204235f3fa494578bf7e04b409d070c690d4b75aac0d65b3aec0deafd5dde8
+

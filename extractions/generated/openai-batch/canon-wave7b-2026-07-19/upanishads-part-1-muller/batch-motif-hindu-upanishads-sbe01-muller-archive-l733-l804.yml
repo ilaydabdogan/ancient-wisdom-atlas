@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.hindu-upanishads-sbe01-muller-archive-l733-l804
+source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+passage_locator:
+  label: SACRED BOOKS OF THE EAST. XXI / XXIV PREFACE TO THE / SACRED BOOKS OF THE
+    EAST, XXV / SACRED BOOKS OF THE EAST. XXVU; lines 733-804
+  start: '733'
+  end: '804'
+  translation: The Upanishads, Part I (Sacred Books of the East, Vol. 1)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Modern words are round, ancient words are square
+  summary: The passage argues that translating ancient sacred and philosophical texts
+    into modern languages can only approximate the original thought. It advises readers
+    to expect awkwardness where truth is preferred over idiom, and gives the Sanskrit
+    term Atman as an example of a philosophically important word with many dictionary
+    renderings.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that even translation between modern European languages,
+    or copying admired paintings, fails to fully reach the original.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says translating ancient Sanskrit, Zend, or Chinese into a modern
+    language is by nature only partially successful.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage describes translations of ancient sacred books as approximations
+    of modern language and thought to ancient language and thought.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The translator is described as choosing between doing violence to language
+    and misrepresenting old thoughts, with preference for sacrificing idiom rather
+    than truth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The reader is warned not to expect too much from a translation and to distinguish
+    word-by-word rendering from thought-by-thought rendering.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The word Atman is presented as an important term in the ancient philosophy
+    of the Brahmans with many dictionary renderings.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: translator of ancient sacred texts
+  description: A translator who must choose between preserving idiom and preserving
+    old thought.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: reader of the translation
+  description: The reader is addressed and warned not to expect too much from translation.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Brahmans
+  description: The group associated with the ancient philosophy in which Atman is
+    an important word.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: mediator of ancient thought into modern speech
+  assigned_to:
+  - fig:1
+  basis: The translator is described as rendering old thought into modern speech while
+    choosing between idiom and truth.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipient of translation guidance
+  assigned_to:
+  - fig:2
+  basis: The reader is explicitly cautioned about the limits and awkwardness of translation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: source philosophical tradition
+  assigned_to:
+  - fig:3
+  basis: Atman is identified as an important word in the ancient philosophy of the
+    Brahmans.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Atman as difficult philosophical term
+  literal_form: The Sanskrit term Atman, nom. sing. Atma, with dictionary renderings
+    including breath, soul, self, body, mind, Brahma, supreme deity or soul of the
+    universe, sun, fire, wind, air, and son.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Limits of translation from ancient languages
+  summary: The passage argues that translating ancient Sanskrit, Zend, or Chinese
+    into modern language is more difficult than translating between modern languages
+    and can only partly succeed.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Translator’s choice between idiom and truth
+  summary: The passage explains that translations of sacred books are approximations
+    and that a translator may preserve truth at the cost of natural idiom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Atman as example of translation difficulty
+  summary: The passage introduces Atman as a key Brahmanical philosophical term and
+    lists many possible English dictionary equivalents.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Transmission of ancient wisdom through imperfect language
+  taxonomy_refs:
+  - wisdom
+  basis: The passage treats sacred books and ancient philosophical thought as difficult
+    to transmit accurately into modern speech, emphasizing the translator’s effort
+    to preserve old thought.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a prefatory translation-theory passage, not a mythic narrative;
+    the motif is a broad intellectual pattern rather than a story motif.
+- id: motif:2
+  label: Ineffability of old thought in modern speech
+  taxonomy_refs: []
+  basis: The passage repeatedly states that ancient thought cannot be adequately expressed
+    in modern language and that thought-by-thought rendering may be impossible.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: No explicit mythic episode or ritual pattern is present.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the failure of translations to reach their originals
+    with the failure of painted copies to reach admired originals.
+  claim_level: same_function
+  target: Modern poetry translation and painting copies as analogies for approximation
+    to an original
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an analogy made in a translator’s preface, not evidence for
+    historical contact or a shared mythological motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 733-755
+  quote_or_summary: The passage discusses the difficulty of translating Heine into
+    English, Tennyson into German, and copying famous paintings, then says translating
+    ancient Sanskrit, Zend, or Chinese into modern language admits only partial success.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 756-782
+  quote_or_summary: The passage says translations of sacred books can only approximate
+    ancient language and thought, and that the translator should prefer awkward language
+    over misrepresenting old thoughts; the reader is warned not to expect too much
+    from translation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 783-804
+  quote_or_summary: The passage gives Atman, nominative singular Atma, as an important
+    word in the ancient philosophy of the Brahmans and lists many dictionary renderings,
+    including breath, soul, self, body, mind, Brahma, supreme deity or soul of the
+    universe, sun, fire, wind, air, and son.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is a translator’s preface rather than a mythic or ritual narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or common-inheritance claim is made. The available symbol taxonomy includes fire, but the passage only lists fire as one possible dictionary rendering of Atman; it is not treated here as a standalone fire symbol.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-upanishads-sbe01-muller-archive__l733-l804
+  passage_sha256=ade1e196820a9b1111c70cf199e465e8f44fe91f4b3b938353ac90a3425595fa
+

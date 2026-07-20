@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l1451-l1481
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: CH. I / THE ENVIRONMENT / A SCENE AT KASENGA. / HISTORY; lines 1451-1481
+  start: '1451'
+  end: '1481'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that no ancient inhabitants have yet been found in the
+    district, though nearby evidence includes a cave at Broken Hill with stone and
+    bone artifacts, animal remains, flint implements near Victoria Falls, and ancient
+    copper workings near the King Edward Mine whose makers are unidentified.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The district itself is reported to have yielded no traces of ancient inhabitants,
+    partly because the low country does not preserve remains well and the hills are
+    not fully explored.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Just beyond the district, the passage reports indications of prehistoric occupation.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A cave at Broken Hill contained stone implements, mainly white opaque quartz
+    flakes, some with chipping, cutting, scraping edges, or notches.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Broken Hill cave finds included cut or notched bones, one roughly hexagonal
+    chipped bone, shaped pieces of bone, ivory, or horn, and rounded quartzite pebbles
+    apparently brought from a distance.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Broken Hill cave finds were associated with numerous animal remains, some
+    apparently extinct varieties.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Flint implements are reported near Victoria Falls.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Ancient copper workings were found near the King Edward Mine, south-west of
+    Lusaka.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage infers that ancient miners were present in great numbers at the
+    copper workings, but says there is nothing to identify their nationality.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: ancient inhabitants of the district
+  description: A hypothetical or sought ancient population for whom no traces have
+    yet been found in the district.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: prehistoric occupants beyond the district
+  description: Unidentified people implied by indications of prehistoric occupation
+    near the district, especially the Broken Hill cave finds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: ancient miners near King Edward Mine
+  description: Unidentified ancient miners inferred from traces of copper workings
+    found south-west of Lusaka.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: unattested ancient population
+  assigned_to:
+  - fig:1
+  basis: The passage says no traces of ancient inhabitants have yet been found in
+    the district.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prehistoric occupation group
+  assigned_to:
+  - fig:2
+  basis: The passage says nearby evidence indicates prehistoric occupation and describes
+    artifacts in the Broken Hill cave.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ancient copper miners
+  assigned_to:
+  - fig:3
+  basis: The passage states that ancient copper workings suggest miners were present
+    in great numbers, though their nationality is unknown.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Broken Hill cave
+  literal_form: cave
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: stone implements
+  literal_form: flakes of white opaque quartz with chipped, cutting, scraping, or
+    notched edges
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: worked bone, ivory, or horn pieces
+  literal_form: cut or notched bones and shaped pieces of bone, ivory, or horn, described
+    as possibly used for digging roots
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: quartzite pebbles
+  literal_form: large rounded quartzite pebbles probably used for breaking marrow-bones
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: animal remains
+  literal_form: numerous animal remains, some apparently extinct varieties
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: ancient copper workings
+  literal_form: workings evidently for copper near the King Edward Mine
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Survey of ancient traces in and near the district
+  summary: The passage contrasts the absence of ancient remains within the district
+    with nearby evidence from Broken Hill, Victoria Falls, and copper workings near
+    the King Edward Mine.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Broken Hill cave assemblage
+  summary: The cave at Broken Hill is described as containing quartz flakes, worked
+    bones and other organic materials, quartzite pebbles, and animal remains associated
+    with prehistoric occupation.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ancient copper workings near King Edward Mine
+  summary: Ancient copper workings south-west of Lusaka are presented as evidence
+    for numerous unidentified miners.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1451-1458
+  quote_or_summary: No traces of ancient inhabitants have yet been found in the district;
+    preservation conditions are poor in the low country and the hills are not fully
+    explored.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1458-1475
+  quote_or_summary: Beyond the district there are indications of prehistoric occupation,
+    including a remarkable cave at Broken Hill with quartz flakes, worked bone, ivory
+    or horn pieces, quartzite pebbles, and animal remains.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1475-1477
+  quote_or_summary: Flint implements have been discovered near Victoria Falls.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1478-1481
+  quote_or_summary: Ancient copper workings near the King Edward Mine, south-west
+    of Lusaka, suggest numerous ancient miners, but their nationality is not indicated.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is historical and archaeological rather than mythic; therefore
+    no motif candidates or comparison claims are asserted. Symbol extraction is limited
+    to literal places and objects named in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythological narrative pattern is present in the supplied passage; extracted data focuses on literal archaeological references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l1451-l1481
+  passage_sha256=042c0168886b823a96ac7182d5ce22aeceebfa6bf01758902ed9f86bde751a2e
+

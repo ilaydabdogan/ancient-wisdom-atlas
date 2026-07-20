@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l28463-l28510
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: NOTES, 1, 2) 3. 441 / NOTES. / MANDALA I, HYMN 134. 445 / NOTES.; lines 28463-28510
+  start: '28463'
+  end: '28510'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The notes state that the hymn is ascribed to Paru#khepa Daivodasi and addressed
+    to Vayu. The commentary suggests that Vayu receives a libation first, before the
+    other gods, and describes the passage as a morning sacrifice involving dawn and
+    Vayu’s arrival as first of the gods. It also discusses uncertain translation of
+    verse 2 and quotes Grassmann’s German rendering, in which 'Indu's' gladden Vayu
+    and are described as strong, prepared, heavenly, and milk-mixed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The hymn is ascribed to Paru#khepa Daivodasi and addressed to Vayu; the note
+    also gives metre information and says no verse occurs in the other Vedas.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says that Pairvapiti may imply that Vayu receives his libation first,
+    before the other gods.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The commentary describes the passage as concerning the morning sacrifice and
+    the arrival of Vayu as the first of the gods.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The commentary says the relevant term in this passage can hardly mean anything
+    but dawn, and connects another expression with the rise of dawn or morning in
+    other cited passages.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The commentary notes uncertainty about the translation and textual correctness
+    of verse 2.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Grassmann’s quoted German translation of verse 2 names Vayu and describes
+    'Indu's' as joyful, strong, already prepared, heavenly, and milk-mixed.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Paru#khepa Daivodasi
+  description: Person to whom the hymn is ascribed in the note.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Vayu
+  description: Deity addressed by the hymn; described as receiving a libation first
+    and arriving first among the gods in the morning-sacrifice context.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Other gods
+  description: Collective divine group before whom Vayu is said to receive the libation
+    and among whom Vayu is described as first to arrive.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: ascribed hymn figure
+  assigned_to:
+  - fig:1
+  basis: The note says the hymn is ascribed to Paru#khepa Daivodasi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed deity
+  assigned_to:
+  - fig:2
+  basis: The note says the hymn is addressed to Vayu.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: first recipient and first-arriving god
+  assigned_to:
+  - fig:2
+  basis: The notes say Vayu may receive the libation first and describe Vayu’s arrival
+    as first of the gods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: divine sequence group
+  assigned_to:
+  - fig:3
+  basis: The other gods provide the sequence against which Vayu is first in receiving
+    or arriving.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: Libation
+  literal_form: Vayu’s libation received first before the other gods
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Dawn or morning
+  literal_form: Dawn/morning in the context of the morning sacrifice and rise of dawn
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: Morning sacrifice
+  literal_form: The morning sacrifice described by the commentary
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Milk-mixed drink
+  literal_form: Grassmann’s 'milchgemischten' description of the heavenly Indu's
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Vayu at the morning sacrifice
+  summary: In the commentary’s description, the passage involves a morning sacrifice
+    at dawn in which Vayu arrives first among the gods and may receive the first libation.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Grassmann’s rendering of verse 2
+  summary: Grassmann’s quoted German translation has the 'Indu's' gladden Vayu and
+    describes them as strong, prepared, heavenly, and milk-mixed.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: First libation to a deity at morning sacrifice
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The note explicitly says Vayu may receive his libation first before the other
+    gods, and the passage is described as a morning sacrifice with Vayu arriving first.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This extraction is based on commentary notes rather than the full translated
+    hymn text in this excerpt.
+- id: motif:2
+  label: Milk-mixed heavenly drink gladdening a deity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Grassmann’s quoted translation describes 'Indu's' that gladden Vayu and are
+    strong, prepared, heavenly, and milk-mixed.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The surrounding commentary states that the translation of verse 2 is tentative
+    and that the text may be incorrect.
+comparison_claims:
+- id: claim:1
+  claim: The commentary links the expression for the rise of dawn or morning with
+    other cited Vedic passages.
+  claim_level: linguistic_similarity
+  target: Cited Vedic passages III, 55,14; 61,3; VIII, 45,12
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is philological and concerns expression or usage, not
+    a full narrative motif.
+- id: claim:2
+  claim: The commentary says the whole of verse 2 may be compared with VI, 36, 3.
+  claim_level: linguistic_similarity
+  target: VI, 36, 3
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt gives only the cross-reference and does not specify the
+    exact similarity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28465-28467
+  quote_or_summary: The note says the hymn is ascribed to Paru#khepa Daivodasi, addressed
+    to Vayu, gives the metre, and says no verse occurs in the other Vedas.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 28471-28472
+  quote_or_summary: "“Vayu receives his libation first, before the other gods”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 28474-28477
+  quote_or_summary: "“the morning sacrifice and the arrival of Vayu as the first of
+    the gods”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 28477-28480
+  quote_or_summary: The note says an expression is frequently applied to the rise
+    of dawn or morning and cites other Vedic passages; it also says the last cited
+    passage treats the term as simply dawn.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 28495-28501
+  quote_or_summary: The translator says the translation of verse 2 is purely tentative,
+    doubts whether the text is correct, discusses an uncertain word meaning, and says
+    to compare VI, 36, 3 for the whole verse.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 28503-28507
+  quote_or_summary: Grassmann’s quoted German translation invokes joyful 'Indu's'
+    to gladden Vayu and describes them as strong, already prepared, heavenly, and
+    milk-mixed.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is primarily scholarly commentary and includes explicit uncertainty
+    about verse 2. Motifs are therefore limited to ritual and offering patterns directly
+    named in the notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs beyond the provided available references were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l28463-l28510
+  passage_sha256=3e10025dbbcba1227580e7128cd5726d21dd470cb0501756d4fba5e7b275d277
+

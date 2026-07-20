@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l1137-l1149
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: INTRODUCTION.  7 / INTRODUCTION.  9 / GOD.  15 / GOD.  17; lines 1137-1149
+  start: '1137'
+  end: '1149'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a scholarly set of multilingual citations in which
+    God or gods are described as angry, hostile, offended, propitious, or placable.
+    Medieval examples include a curse invoking God and the saints, and a passage that
+    links calamities and scourges among the people with God's just judgment and asks
+    how God might be placated.
+  language: English with Latin and Old French quotations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Old French excerpt names Dex/God and discusses what God could do or will.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note cites Latin examples in which gods are described as angry or accustomed
+    to anger.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Tacitus is cited on the Germans with formulations about gods being propitious,
+    angry, or hostile, including hostility toward the Batavi.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A medieval curse formula invokes the hatred of God and all saints.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A medieval passage associates repeated calamities and scourges among the people
+    with God's just judgment.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The same medieval passage asks what had offended God and by what works he
+    could be placated.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: God / Deus / Dex
+  description: The singular deity named in Old French and Latin references; described
+    as capable or willing, angry or offended, judging, and placable.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: gods / dii
+  description: Plural divine beings in cited Latin examples, described as angry, propitious
+    or angry, and hostile.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: saints
+  description: Holy figures invoked together with God in a medieval curse formula.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: people / populus
+  description: The human community among whom calamities and scourges are said to
+    increase.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Batavi
+  description: A group named in the Tacitus citation as facing hostile gods.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: angered or offended deity
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage cites formulas for angry gods, divine wrath, hostile gods, and
+    God being offended.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: divine judge
+  assigned_to:
+  - fig:1
+  basis: Calamities and scourges are attributed to God's just judgment.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: propitiated or placated deity
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage cites propitious gods and asks by what works God could be placated;
+    it also mentions expiation for the anger of gods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: afflicted human group
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The people are described as suffering calamities and scourges, and the Batavi
+    are named in connection with hostile gods.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: curse-invoked holy figures
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: A medieval curse invokes the hatred of God and all saints.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Citations of divine anger in ancient and Tacitean sources
+  summary: The passage lists ancient Latin and Tacitean formulations describing gods
+    as angry, propitious or angry, or hostile, including a Tacitean example concerning
+    the Batavi.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Medieval curse and divine judgment
+  summary: Medieval examples include a curse invoking God and the saints, followed
+    by a passage that interprets calamities and scourges among the people as God's
+    just judgment and asks how the offended God might be placated.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Old French reference to divine capacity and will
+  summary: The Old French excerpt invokes Dex/God while discussing what God could
+    do or will.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Divine anger or offense requiring propitiation
+  taxonomy_refs:
+  - divine_judgment
+  - sacred_exchange
+  basis: The passage repeatedly cites angry or offended divine beings and asks how
+    God might be placated by works.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage is a scholarly citation cluster rather than a complete mythic
+    narrative; the specific placatory works are not described.
+- id: motif:2
+  label: Communal calamity as divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Calamities and scourges among the people are explicitly linked with God's
+    just judgment.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The cited medieval passage is summarized within a footnote context, so
+    narrative circumstances are not supplied.
+comparison_claims:
+- id: claim:1
+  claim: 'The cited ancient Latin, Tacitean Germanic, and medieval Christian examples
+    share a function: divine anger or offense explains hostility, calamity, or the
+    need for propitiation.'
+  claim_level: same_function
+  target: Classical Latin, Tacitean Germanic, and medieval Christian attestations
+    cited in the passage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage juxtaposes citations but does not establish historical
+    contact, common inheritance, or a full narrative correspondence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1137-1140
+  quote_or_summary: Old French excerpt invoking Dex/God and divine capacity or will.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 1142-1144
+  quote_or_summary: Short Latin citations include “Piacula irae deum,” “deos iratos,”
+    and a statement that immortal gods are accustomed to be angry.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:3
+  type: summary
+  locator: lines 1144-1146
+  quote_or_summary: Tacitus is cited on Germans with formulas about whether gods are
+    propitious or angry, divine wrath, and gods hostile to the Batavi.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 1146-1147
+  quote_or_summary: 'Medieval curse formula: “tu odium Dei omniumque sanctorum habeas!”'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:5
+  type: summary
+  locator: lines 1147-1149
+  quote_or_summary: A medieval citation describes increasing calamities and scourges
+    in the people by God's just judgment, asks what had offended God, and asks by
+    what works he could be placated.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is limited by OCR noise and multilingual quotation fragments.
+    Motif candidates are supported mainly by explicit terms for divine anger, judgment,
+    offense, and placation rather than by a full narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage does not present a clear literal object, place, animal, plant, or other available symbol such as fire, water, tree, serpent, mountain, cave, or milk.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l1137-l1149
+  passage_sha256=f33840c2a03a8d26b6c3a52fa9a90d83c5c1cfb12f5f070c36e809236c4733c0
+

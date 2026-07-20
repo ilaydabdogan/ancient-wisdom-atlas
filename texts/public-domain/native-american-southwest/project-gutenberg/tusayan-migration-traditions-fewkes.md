@@ -1,4 +1,66 @@
+---
+id: native_american.tusayan_migration_traditions.fewkes_archive
+title: Tusayan Migration Traditions
+alternate_titles:
+- Tusayan Migration Traditions (BAE 19th Annual Report, part 2)
+text_status: complete
+tradition: native_american_southwest
+culture: hopi_clan_migration_traditions
+region: north_america_southwest_hopi_mesas
+source_language: Hopi oral tradition mediated through English
+text_language: English
+date_range: living oral traditions; collected 1890s from Hopi clan elders; published
+  1900 (BAE 19th Annual Report, part 2)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.cu31924104075415
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Government Printing Office
+    edition (Cornell University scan)
+  translator: Jesse Walter Fewkes
+  editor: ''
+  publication_year: 1900
+  publisher: Internet Archive
+  source_url: https://archive.org/details/cu31924104075415
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: US government publication (BAE), public domain. Recording context - clan-by-clan
+    migration legends from named informants; close paraphrase of elder testimony rather
+    than interlinear verbatim text; complements Voth's Traditions of the Hopi already
+    in the corpus.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- hopi
+- tusayan
+- southwest
+- clan_migrations
+motifs:
+- migration
+- emergence
+- clan_origin
+- snake_ceremony
+figures: []
+---
+
 # Tusayan Migration Traditions
+
 The observant traveler in Arizona will often ha\'e his attention
 attracted by mounds of rock and earth, indicative of former habitations, which are widely distributed over this territory. These mounds,
 which are almost numbei'loss, are the remains of villages formerly
@@ -512,7 +574,7 @@ clan, gave the following sequence:
 
 2. Honau, Bear. f Patki, Cloud.
 
-3. Patun, Squash. .s. Kukiitc-Tiiwa, Lizard-Sand.
+3. Patun, Squash. .s.<Kukiitc-Tiiwa, Lizard-Sand.
 
 4. Ala-Lefiya, Horn-Flute. IPiba-Talxj, Toliacco-Rabbit.
 
@@ -1651,7 +1713,7 @@ Kwamanii 9
 I^ci9
 
 
-Haiyum f
+Haiyum<f
 
 
 Tazrn ^
@@ -2314,7 +2376,7 @@ Komaletsi 9
 Nakwamumai $
 
 
-Talawin lcf
+Talawin<lcf
 
 
 Tcoki cT
@@ -2516,12 +2578,12 @@ refers.
 
 It is not unlikely that the Asa and Tewa clans formed a part of the
 Tanoan people who were forced to leave the upper Rio (irande valley
-directly after the great rebellion of l i!S(). Mel is said to have -tated''
+directly after the great rebellion of l<i!S(). Mel is said to have -tated''
 that at about this time 4,0()() Tanos went to Tusayan by way of Zufii,
 which is the trail the present Asa people say their ancestors took.
 We are told that they went to Alaki, and as the Ala (Horn) people
 were then strong at the settlements of Walpi. on the terrace of the
-East mesa, it is not improbable that their village was sometimes  alled
+East mesa, it is not improbable that their village was sometimes <alled
 Alaki, or "Horn pueblo." From the Hopi side we lind verification
 of this historical event, for it is said that manj- people came to them
 from the great river just after the rebellion of lt;si). The number
@@ -3375,7 +3437,7 @@ Sia
 Poncauwicf
 
 
-Pocilopobi  f
+Pocilopobi <f
 
 
 Pooinet? Sia J Talaiumtiwa (? Koatci? Talabensi? Avatca? Kae?
@@ -3556,7 +3618,7 @@ Talitce
 
 Kelau
 
-Pobit«aw l
+Pobit«aw<l
 
 Solo
 
@@ -4976,7 +5038,7 @@ Tusayan. Its religion is intrusive, and its ritual resembles that of
 Walpi only in those features which have been brought by kindred
 clans from the same region.
 
-2. The religious  eremonies of Sichumovi are also intrusi\c from
+2. The religious <eremonies of Sichumovi are also intrusi\c from
 the east, because the majority of its people are descended from colonists
 from the same region as those who settled Hano. The Hopi language is
 spoken at Sichumovi, but the ritual is purely Tanoan. The rituals of
@@ -4995,3 +5057,4 @@ refuge in Walpi.
 4. The conclusion that the present Hopi are descended wholly from
 nomadic people from the north is questioned, except within the limitations mentioned. Some parts of the ritual which are distinctly Hopi
 are found not to have come from the north, but from the south.
+

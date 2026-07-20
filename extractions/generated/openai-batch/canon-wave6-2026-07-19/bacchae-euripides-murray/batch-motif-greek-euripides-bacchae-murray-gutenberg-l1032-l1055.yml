@@ -1,0 +1,210 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1032-l1055
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: DIONYSUS. / PENTHEUS. / DIONYSUS. / PENTHEUS.; lines 1032-1055
+  start: '1032'
+  end: '1055'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“This is Dionysus' wand.”"
+  summary: Pentheus demands the staff. Dionysus tells him to raise his own hand and
+    take it, identifying it as Dionysus' wand; Pentheus takes the staff. Pentheus
+    then says he will keep Dionysus imprisoned. Dionysus replies that his Lord God
+    will unloose him when he speaks the word, and Pentheus answers that this may happen
+    if the god hears his voice again among his bands of saints.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Pentheus demands that the staff be yielded to him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus tells Pentheus to raise his own hand to take the staff and identifies
+    it as Dionysus' wand.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A stage direction states that Pentheus takes the staff.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Pentheus says he will hold Dionysus imprisoned.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Dionysus says his Lord God will unloose him when he speaks the word.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Pentheus says the god may do so if he again hears Dionysus' voice amid his
+    bands of saints.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Pentheus
+  description: Speaker who demands the staff, takes it, and threatens to keep Dionysus
+    imprisoned.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Dionysus
+  description: Speaker who identifies the staff as Dionysus' wand and says a Lord
+    God will unloose him.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lord God
+  description: Divine figure referred to by Dionysus as the one who will unloose him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: threatening captor
+  assigned_to:
+  - fig:1
+  basis: Pentheus takes the staff and says he will hold Dionysus imprisoned.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: threatened prisoner
+  assigned_to:
+  - fig:2
+  basis: Pentheus addresses Dionysus with a threat of imprisonment.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: associated owner of wand
+  assigned_to:
+  - fig:2
+  basis: Dionysus identifies the object as Dionysus' wand.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: promised divine liberator
+  assigned_to:
+  - fig:3
+  basis: Dionysus says his Lord God will unloose him when he speaks the word.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Dionysus' wand or staff
+  literal_form: A staff identified as Dionysus' wand, which Pentheus takes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Pentheus takes the wand
+  summary: Pentheus demands the staff; Dionysus permits him to take it and identifies
+    it as Dionysus' wand; Pentheus takes it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Threat of imprisonment and promised release
+  summary: Pentheus threatens to imprison Dionysus. Dionysus answers that his Lord
+    God will unloose him when he speaks, and Pentheus responds with a conditional
+    reference to the god hearing his voice among bands of saints.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Threatened imprisonment answered by promised divine release
+  taxonomy_refs: []
+  basis: The passage juxtaposes Pentheus' threat to imprison Dionysus with Dionysus'
+    claim that a god will unloose him on command.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not narrate the release itself; it only states an anticipated
+    divine unloosing.
+- id: motif:2
+  label: Seizure or transfer of a divine implement
+  taxonomy_refs: []
+  basis: Pentheus demands and takes a staff that Dionysus identifies as Dionysus'
+    wand.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage records the taking of the wand but does not explain its powers
+    or broader ritual function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1032-1042
+  quote_or_summary: Pentheus says, “Next, yield me up thy staff!” Dionysus replies,
+    “Raise thine own hand / To take it. This is Dionysus' wand.” A stage direction
+    says Pentheus takes the staff.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1044-1051
+  quote_or_summary: Pentheus says, “Last, I will hold thee prisoned here.” Dionysus
+    replies, “My Lord / God will unloose me, when I speak the word.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 1052-1055
+  quote_or_summary: Pentheus says the god may unloose him “if e'er again amid his
+    bands / Of saints he hears thy voice.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the dialogue and stage direction.
+    Motif labels are candidate patterns only and require human review, especially
+    because the passage states a future release rather than narrating it.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or tradition-level comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1032-l1055
+  passage_sha256=6d30af9aaa6bce0352d962b442765119c703d7cfcb2f7f82737066103b8ada94
+

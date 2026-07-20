@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.melanesian-melanesians-british-new-guinea-seligman-archive-l32263-l32283
+source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+passage_locator:
+  label: DOMESTIC MORALITY. / SEXUAL MORALITY. / MODESTY. / HOMICIDE.; lines 32263-32283
+  start: '32263'
+  end: '32283'
+  translation: The Melanesians of British New Guinea
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes blood-price payments for death or killing, naming
+    relatives who may receive compensation, explaining that mutual deaths in a brawl
+    still require ceremonial atonement for each death, and stating that family responsibility
+    rather than hamlet-group responsibility is central, with fathers expected to help
+    pay for sons' misdeeds. It also states that accidental killing within the hamlet
+    but outside the family requires payment and that the blood price is the same for
+    a man, woman, or child.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A sapisapi necklace is mentioned, and the passage states that an eye was worth
+    far less than an arm.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A blood price is paid to the deceased person's brother; if there is no brother,
+    the mother or maternal uncle may receive it, and the sister may also be compensated,
+    especially if the mother is dead.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When people on both sides die in a brawl, survivors usually do not immediately
+    treat the deaths as canceling each other out, even when the numbers killed are
+    equal.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ceremonial atonement is made for each death in such a brawl.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The blood price is described as concerning the family rather than the hamlet-group,
+    although the two groups are often identical.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A father has a stated duty to help find the blood price for his son's misdoings.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Where the hamlet and family group are not co-extensive, payment must be made
+    for accidental killing within the hamlet but outside the family.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The same blood price is said to apply for a man, woman, or child.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: deceased person
+  description: Person whose death gives rise to blood-price payment; the passage later
+    states the price is the same for a man, woman, or child.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: brother of the deceased
+  description: Named as the usual recipient of the blood price.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: mother or maternal uncle of the deceased
+  description: Named as recipients of the blood price if there is no brother.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: sister of the deceased
+  description: Named as a possible recipient of compensation, especially if the mother
+    is not alive.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: survivors on both sides of a brawl
+  description: Survivors after deaths occur on both sides; they do not usually immediately
+    cry quits and ceremonial atonement is made for each death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: father of an offending son
+  description: A father is said to have the duty to help find the blood price for
+    his son's misdoings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: son whose misdoings require payment
+  description: The son whose misdoings require a blood-price payment that his father
+    helps find.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: primary blood-price recipient
+  assigned_to:
+  - fig:2
+  basis: The brother of the deceased is named as the recipient of the blood price.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: alternate blood-price recipient
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The mother, maternal uncle, and possibly sister may receive compensation
+    if the brother is absent or the mother is not alive.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: surviving parties to reciprocal brawl deaths
+  assigned_to:
+  - fig:5
+  basis: Survivors on both sides of a brawl remain subject to ceremonial atonement
+    for each death rather than immediately canceling the deaths out.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: kin helper in payment obligation
+  assigned_to:
+  - fig:6
+  basis: The passage states it is the father's duty to help find the blood price for
+    his son's misdoings.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: offender whose act entails blood-price payment
+  assigned_to:
+  - fig:7
+  basis: The son is described as having misdoings for which blood price must be found.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: compensated death victim
+  assigned_to:
+  - fig:1
+  basis: The blood price is paid for the death of a deceased person and is said to
+    be the same for a man, woman, or child.
+  evidence_refs:
+  - ev:2
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Distribution of blood price among relatives of the deceased
+  summary: 'The passage lays out an order of kin who may receive blood-price compensation:
+    first the brother, then the mother or maternal uncle, and possibly the sister
+    under certain circumstances.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Atonement after mutual deaths in a brawl
+  summary: When deaths occur on both sides of a brawl, the survivors do not usually
+    cancel the matter immediately, even if equal numbers are killed; ceremonial atonement
+    is made for each death.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Family responsibility for payment after killing
+  summary: The passage says the blood price concerns the family more than the hamlet-group,
+    identifies a father's duty to help pay for a son's misdoings, and states that
+    payment is required for accidental killing within the hamlet but outside the family.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Uniform valuation of blood price
+  summary: The blood price is stated to be the same whether the deceased is a man,
+    woman, or child.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Blood-price compensation to the deceased person's kin
+  taxonomy_refs: []
+  basis: The passage describes blood price paid to the brother of the deceased, or
+    to other named relatives when the brother is absent.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic legal and social custom rather than a mythic narrative
+    motif in the supplied passage.
+- id: motif:2
+  label: Reciprocal deaths do not cancel; each death requires atonement
+  taxonomy_refs: []
+  basis: When deaths occur on both sides of a brawl, survivors do not usually cry
+    quits immediately, and ceremonial atonement is made for each death.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage reports a customary practice; it does not frame the practice
+    as mythic or cosmological.
+- id: motif:3
+  label: Family responsibility for homicide payment
+  taxonomy_refs: []
+  basis: Blood price is said to concern the family rather than the hamlet-group, and
+    a father must help find payment for a son's misdoings.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives no supernatural or ritual-symbolic explanation beyond
+    the social obligation.
+- id: motif:4
+  label: Uniform blood price across age and gender categories
+  taxonomy_refs: []
+  basis: The passage states that the blood price is the same for a man, woman, or
+    child.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a valuation rule in homicide compensation, not a comparative mythological
+    motif by itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 32263-32264
+  quote_or_summary: '"sapisapi necklace {samakupd) ; an eye was worth far less than
+    an arm"'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 32265-32271
+  quote_or_summary: Blood price is paid to the brother of the deceased; if there is
+    no brother, the mother or maternal uncle takes it, and the sister may be compensated,
+    especially if the mother is not alive.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 32271-32275
+  quote_or_summary: When deaths occur on both sides in a brawl, survivors usually
+    do not immediately cry quits even if equal numbers have been killed; ceremonial
+    atonement is made for each death.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 32275-32279
+  quote_or_summary: Blood price is described as concerning the family rather than
+    the hamlet-group, although these groups are often identical; a father has the
+    duty to help find the blood price for his son's misdoings.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 32279-32282
+  quote_or_summary: Where hamlet and family groups are not the same, payment must
+    be made for accidental killing within the hamlet but outside the family.
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 32282-32283
+  quote_or_summary: '"The blood price was said to be the same for a man, woman or
+    child."'
+  source_text_path: texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The social and legal practices are clearly stated, but the passage contains
+    no explicit mythic narrative or supported intertextual comparison. Candidate motifs
+    are therefore treated as customary-pattern motifs rather than taxonomy-linked
+    mythic motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy refs were assigned because the supplied passage does not support a specific match to the provided mythic motif families or symbol list.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:melanesian-melanesians-british-new-guinea-seligman-archive__l32263-l32283
+  passage_sha256=059e800bafc05970c81af8c8e06f37e7ea37756d79ac16a2997272b8caf0a532
+

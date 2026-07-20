@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l462-l479
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: FOLK SONG / THE APPLE TREE / FOLK SONG / MY HEART IS TURNED INTO A WAILING
+    CHILD; lines 462-479
+  start: '462'
+  end: '479'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“My heart is turned into a wailing child”"
+  summary: A fifteenth-century poem attributed to N. Kouchak in which the speaker
+    personifies the heart as a crying child that cannot be soothed by sweets or by
+    earthly beauties; the heart longs only for the addressed beloved.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents the poem as by N. Kouchak and labels it fifteenth century.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says the heart has become a wailing child.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker tries in vain to quiet the heart’s cries with sweets.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The heart calls for the addressed sweet love all day and night with sobbing,
+    longing, and sighs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker shows the eyes the fair ones of the earth and tries unsuccessfully
+    to please them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The heart finds the fair ones worthless in comparison with the addressed beloved
+    and wants only that beloved again.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The question of what solace can be given to the heart is repeated.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: lyric speaker
+  description: First-person speaker who tries to soothe the heart and directs address
+    toward the beloved.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: speaker’s heart
+  description: The speaker’s heart, personified as a wailing child that cries and
+    longs for the beloved.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: sweet love / beloved
+  description: The addressed beloved whom the heart calls for and wants again.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: fair ones of this earth
+  description: Earthly fair ones shown to the speaker’s eyes but unable to satisfy
+    the heart.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: lamenting speaker and unsuccessful consoler
+  assigned_to:
+  - fig:1
+  basis: The speaker seeks to still the heart’s cries, shows the eyes earthly fair
+    ones, and asks what solace can be given.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: personified longing heart
+  assigned_to:
+  - fig:2
+  basis: The heart is described as a wailing child that calls for the beloved and
+    wants only the beloved again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: desired beloved
+  assigned_to:
+  - fig:3
+  basis: The heart calls for the addressed sweet love and wants only that figure again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: failed substitutes for the beloved
+  assigned_to:
+  - fig:4
+  basis: The fair ones of the earth are presented to the eyes but are nothing worth
+    to the heart.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: heart as wailing child
+  literal_form: The heart turned into a wailing child.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: sweets as attempted solace
+  literal_form: Sweets used in an attempt to still the heart’s cries.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: earthly beauties as inadequate consolation
+  literal_form: The fair ones of this earth shown to the eyes.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: The heart cries for the beloved
+  summary: The speaker describes the heart as a wailing child, tries to quiet it with
+    sweets, and says it calls for the beloved day and night.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Earthly fair ones fail to console
+  summary: The speaker shows the eyes earthly fair ones, but the heart values only
+    the beloved and wants that beloved again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: personified heart as crying child
+  taxonomy_refs: []
+  basis: The heart is explicitly described as becoming a wailing child whose cries
+    the speaker tries to still.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an image within a lyric poem rather than a developed narrative
+    episode.
+- id: motif:2
+  label: failed consolation for love-longing
+  taxonomy_refs: []
+  basis: Sweets and earthly fair ones both fail to console the heart, which longs
+    only for the beloved.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify whether the beloved is absent, lost, or otherwise
+    inaccessible.
+- id: motif:3
+  label: exclusive longing for the beloved
+  taxonomy_refs: []
+  basis: The heart calls for the beloved day and night and wants only that beloved
+    again.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No divine or sacred status for the beloved is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 462-466
+  quote_or_summary: Title, attribution to N. Kouchak, and fifteenth-century label.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:2
+  type: quote
+  locator: lines 468-472
+  quote_or_summary: "“My heart is turned into a wailing child”; the speaker says sweets
+    cannot still its cries and that it calls for the beloved day and night."
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 474-478
+  quote_or_summary: "“I showed my eyes the fair ones of this earth”; the speaker says
+    they are “nothing worth” and that the heart wants only the beloved again."
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 472 and 478
+  quote_or_summary: "“What solace can I give it?”"
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The passage is brief and lyric; literal images and love-longing motifs are
+    clear, but no passage-internal comparative claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied because the passage does not state a sacred tree, divine beloved, or other listed motif family directly.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l462-l479
+  passage_sha256=ed48734f605e4d82e11bb7c4e4126af86ae46afe4558b3dfdb74bf6aeb4a8940
+

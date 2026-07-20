@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l23287-l23306
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: CANTO LXX. / KINO UTTAMA CONYERSES WITH A RAKSHA3A. / CANTO r.xx. / THE BSAHMAN
+    WOMAN RESTORED TO HER HFSBAKD.; lines 23287-23306
+  start: '23287'
+  end: '23306'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A Rakshasa agrees to bring a brahman woman back to her husband's house
+    at the king's command. The king asks the Rakshasa to come when remembered at a
+    future time of action. The Rakshasa consents and conveys the woman, now purified
+    by removal of her evil disposition, to her husband's house.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Rakshasa says he will cause the brahman woman to reach her husband's house
+    at the king's command.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The king says that when this is done, the Rakshasa has done everything for
+    him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The king tells the Rakshasa to come at the time of action when the king recalls
+    him to mind.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Rakshasa answers affirmatively, takes the brahman woman, and conveys her
+    to her husband's house.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The brahman woman is described as purified by the removal of her evil disposition.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Rakshasa
+  description: A night-roaming being addressed by the king; he agrees to carry out
+    the command and conveys the brahman woman to her husband's house.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: King
+  description: The ruler who commands the Rakshasa and asks him to come when recalled
+    at a future time of action.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Brahman woman
+  description: The woman whom the Rakshasa conveys to her husband's house; she is
+    described as purified by removal of her evil disposition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Husband
+  description: The brahman woman's husband, whose house is the destination of her
+    return.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Markandeya
+  description: The speaker who narrates the Rakshasa's consent and action.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: supernatural conveyor
+  assigned_to:
+  - fig:1
+  basis: The Rakshasa takes the brahman woman and conveys her to her husband's house.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: future summoned helper
+  assigned_to:
+  - fig:1
+  basis: The king tells the Rakshasa to come when recalled to mind at a time of action.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: royal commander
+  assigned_to:
+  - fig:2
+  basis: The Rakshasa acts at the king's command, and the king sets the condition
+    for future recall.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: restored woman
+  assigned_to:
+  - fig:3
+  basis: The passage title and narration identify her as the brahman woman restored
+    to her husband's house.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: receiving spouse
+  assigned_to:
+  - fig:4
+  basis: The husband's house is the place to which the brahman woman is conveyed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:6
+  label: narrator
+  assigned_to:
+  - fig:5
+  basis: Markandeya speaks the narrative statement describing the Rakshasa's consent
+    and action.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Rakshasa accepts the king's command
+  summary: The Rakshasa tells the king that he will bring the brahman woman to her
+    husband's house and asks what else should be done.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: King requests future recall
+  summary: The king says the task will complete what he needs and instructs the Rakshasa
+    to come when recalled at a future time of action.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Brahman woman restored to husband's house
+  summary: The Rakshasa consents, takes the brahman woman, and conveys her, purified
+    of her evil disposition, to her husband's house.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: supernatural being restores a woman to her husband
+  taxonomy_refs:
+  - return
+  basis: A Rakshasa conveys the brahman woman to her husband's house at the king's
+    command.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage gives the restoration but not the full preceding cause of
+    separation.
+- id: motif:2
+  label: summonable supernatural helper
+  taxonomy_refs: []
+  basis: The king instructs the Rakshasa to come at a future time of action when recalled
+    to mind.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage establishes a future summons but does not show a later fulfillment.
+- id: motif:3
+  label: moral purification before restoration
+  taxonomy_refs: []
+  basis: The brahman woman is restored after being described as purified by removal
+    of her evil disposition.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The mechanism or cause of purification is not explained within this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23291-23294
+  quote_or_summary: The Rakshasa says he will cause the brahman woman to reach her
+    husband's house at the king's command and asks what else should be done.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 23296-23299
+  quote_or_summary: The king says that after this act all is done for him, and tells
+    the Rakshasa to come when recalled at a time of action.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 23301-23306
+  quote_or_summary: Markandeya narrates that the Rakshasa consents, takes the brahman
+    woman, and conveys her, purified of her evil disposition, to her husband's house.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The basic actions and roles are explicit. Motif labels are cautious because
+    the excerpt is brief and does not include the larger narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt alone does not support a specific external comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l23287-l23306
+  passage_sha256=30043e0220c48f05a062a6b72a0b83e729f4b76ed680917a725fb88135c71112
+

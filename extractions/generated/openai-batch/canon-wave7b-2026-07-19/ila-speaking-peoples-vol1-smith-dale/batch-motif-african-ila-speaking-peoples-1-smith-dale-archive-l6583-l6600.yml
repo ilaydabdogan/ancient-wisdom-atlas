@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l6583-l6600
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: BA-ILA WARRIORS. / A MIMIC FIGHT. / CH. VIII / WARFARE; lines 6583-6600
+  start: '6583'
+  end: '6600'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a realistic mimic fight, an attack is abandoned after spears run short;
+    an apparently wounded man is dragged to the rear. If his friends cannot help him,
+    another man mimics hacking off his head with a blunt battle-axe as a trophy while
+    keeping watch for rescue attempts. The injured man's writhing is described as
+    life-like; the final sentence is truncated in the supplied passage.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The attack is relinquished after the spear supply runs short.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A wounded man is seized and hastily dragged to the rear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage refers to efforts by the wounded man's friends that may be vain.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A man imitates hacking off the wounded man's head with a blunt battle-axe
+    to take it as a trophy.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man performing the action rolls bloodshot eyes from side to side and remains
+    alert for a rescue attempt.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The spectacle is described as very realistic, and the apparently injured man's
+    writhing is described as life-like.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: apparently wounded man
+  description: A wounded or apparently injured man who is seized, dragged to the rear,
+    and shown writhing life-like in the mimic fight.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: friends of the wounded man
+  description: Friends whose efforts on behalf of the wounded man may fail; the performer
+    remains alert for an attempt at rescue.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: man with blunt battle-axe
+  description: A man who imitates hacking off the wounded man's head with a blunt
+    battle-axe and watches for rescue attempts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: simulated wounded casualty
+  assigned_to:
+  - fig:1
+  basis: The man is called wounded or apparently injured, is dragged away, and writhes
+    realistically.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: friends or potential rescuers
+  assigned_to:
+  - fig:2
+  basis: The passage mentions the efforts of the wounded man's friends and a possible
+    attempt at rescue.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: simulated trophy-taker
+  assigned_to:
+  - fig:3
+  basis: The man imitates beheading the wounded man with a blunt battle-axe to take
+    the head as a trophy.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: spear supply
+  literal_form: spears whose supply runs short; the spear is described as not a thrusting
+    weapon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blunt battle-axe
+  literal_form: a blunt battle-axe used in the imitated hacking-off of the head
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: head as trophy
+  literal_form: the wounded man's head, imitated as hacked off and taken as a trophy
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bloodshot rolling eyes
+  literal_form: eyes rolled from side to side, bloodshot from excitement
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Attack abandoned and casualty dragged back
+  summary: The attack is given up after the spear supply runs short, and the wounded
+    man is seized and dragged to the rear.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Imitated beheading and trophy-taking
+  summary: If the wounded man's friends cannot help him, a man performs the action
+    of cutting off his head with a blunt battle-axe as a trophy while watching for
+    rescue attempts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Realistic performance
+  summary: The spectacle is described as highly realistic, especially the life-like
+    writhing of the apparently injured man.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mimic combat performance
+  taxonomy_refs: []
+  basis: The passage describes a realistic spectacle involving a simulated attack,
+    wounded man, rescue possibility, and imitated violence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic description of a performance rather than a myth
+    narrative.
+- id: motif:2
+  label: simulated trophy-taking from a fallen enemy
+  taxonomy_refs: []
+  basis: A performer imitates hacking off the wounded man's head with a blunt battle-axe
+    to take it as a trophy.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The act is explicitly imitated; the passage does not state that an actual
+    beheading occurs.
+- id: motif:3
+  label: rescue attempt around a wounded fighter
+  taxonomy_refs: []
+  basis: The passage mentions the wounded man's friends and the performer staying
+    alert for an attempt at rescue.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage only refers to possible or failed rescue efforts and does
+    not narrate a completed rescue.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6583-6587
+  quote_or_summary: The spear supply runs short, the attack is relinquished, and the
+    wounded man is seized and dragged to the rear.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 6587-6591
+  quote_or_summary: '"imitates the action of hacking off his head with a blunt battle-axe
+    to take as a trophy"'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; short quotation allowed.
+- id: ev:3
+  type: summary
+  locator: lines 6591-6594
+  quote_or_summary: The performer rolls bloodshot eyes from side to side and stays
+    alert for a rescue attempt.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 6594-6599
+  quote_or_summary: The spectacle is described as very realistic; the apparently injured
+    man's writhing is said to be life-like, and the supplied passage ends mid-sentence
+    after mentioning "the European."
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif labels are descriptive performance
+    patterns rather than established taxonomy matches. No comparison claims are made
+    because the passage itself does not support comparison to another tradition or
+    motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif reference is directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l6583-l6600
+  passage_sha256=e3d54691ec2df8bd7e147ffe5e09ec39f528783b03616afb03e5f8b37541195b
+

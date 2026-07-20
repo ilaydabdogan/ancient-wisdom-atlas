@@ -1,0 +1,237 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l609-l654
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: SAMOAN     GIRL     DRESSED     FOR     THE     CLUB / DANCE        ....
+    / PIG  FEAST  IN  SAMOA  ..... / A  CHIEF'S  GRAVE-MOUND; lines 609-654
+  start: '609'
+  end: '654'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a list of illustration captions and sources, including a
+    Samoan girl dressed for a club dance, a pig feast in Samoa, a Fijian double canoe
+    in full sail, a Tongan girl, a method of burying a chief, and a chief's grave-mound.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists an illustration captioned as a Samoan girl dressed for a
+    club dance, attributed to a photograph by Rev. Dr. Brown.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists an illustration captioned as a pig feast in Samoa, attributed
+    to a photograph by Rev. Dr. Brown.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists an illustration captioned as the Fijian double canoe in
+    full sail, attributed to an old illustration.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists an illustration captioned as a Tongan girl, attributed to
+    a photograph by Rev. Dr. Brown.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage lists an illustration captioned as a method of burying a chief,
+    attributed to "Kings of the Reefs."
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage lists an illustration captioned as a chief's grave-mound, attributed
+    to "Kings of the Reefs."
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Samoan girl
+  description: A girl identified as Samoan and dressed for a club dance in an illustration
+    caption.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tongan girl
+  description: A girl identified as Tongan in an illustration caption.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: chief
+  description: A chief mentioned in captions concerning burial and a grave-mound.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: dressed participant in club dance
+  assigned_to:
+  - fig:1
+  basis: The caption identifies the figure as dressed for the club dance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pictured Tongan girl
+  assigned_to:
+  - fig:2
+  basis: The caption identifies the figure as a Tongan girl.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: chief associated with burial and grave-mound
+  assigned_to:
+  - fig:3
+  basis: Two captions refer to burying a chief and to a chief's grave-mound.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: pig feast
+  literal_form: Pig feast in Samoa
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: double canoe
+  literal_form: Fijian double canoe in full sail
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: grave-mound
+  literal_form: A chief's grave-mound
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Illustration list of Oceanic social and chiefly scenes
+  summary: The passage enumerates illustration captions depicting Samoan, Fijian,
+    and Tongan subjects, including dance dress, a feast, a sailing canoe, burial of
+    a chief, and a chief's grave-mound.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: chiefly burial and grave-mound
+  taxonomy_refs: []
+  basis: The passage includes captions for a method of burying a chief and for a chief's
+    grave-mound.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is only a caption list and gives no narrative or ritual details.
+- id: motif:2
+  label: communal feast with pig
+  taxonomy_refs: []
+  basis: The passage includes a caption for a pig feast in Samoa.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: No action, participants, ritual function, or narrative context is provided
+    beyond the caption.
+- id: motif:3
+  label: sailing double canoe
+  taxonomy_refs: []
+  basis: The passage includes a caption for a Fijian double canoe in full sail.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The caption identifies an object but does not provide a mythic or narrative
+    function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 609-613
+  quote_or_summary: '"SAMOAN     GIRL     DRESSED     FOR     THE     CLUB / DANCE";
+    source note: from a photograph by Rev. Dr. Brown.'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 615-617
+  quote_or_summary: '"PIG  FEAST  IN  SAMOA"; source note: from a photograph by Rev.
+    Dr. Brown.'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 619-620
+  quote_or_summary: '"THE  FIJIAN  DOUBLE  CANOE  IN  FULL  SAIL"; source note: from
+    an old illustration.'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 622-623
+  quote_or_summary: '"TONGAN  GIRL"; source note: from a photograph by Rev. Dr. Brown.'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 625-626
+  quote_or_summary: '"METHOD  OF  BURYING  A  CHIEF"; source note: from the "Kings
+    of the Reefs."'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: 628-630
+  quote_or_summary: '"A  CHIEF''S  GRAVE-MOUND"; source note: from the "Kings of the
+    Reefs."'
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward because the passage is a list of captions.
+    Motif identification is limited because the passage provides captions only, not
+    narrative episodes or ritual explanations. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied; none are directly supported by the caption-only passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l609-l654
+  passage_sha256=c858d9edf0478315304748e03c6a89d6f6666628ad521f0ae2f07f052bde7cf9
+

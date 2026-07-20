@@ -1,0 +1,220 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l33093-l33099
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION LXXXVII / SECTION LXXXVIII / SECTION LXXXIX / SECTION XC; lines 33093-33099
+  start: '33093'
+  end: '33099'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Bhishma tells Yudhishthira that the Veda-knowing Utathya of Angirasa's
+    race once discoursed to Mandhatri, son of Yuvanaswa, and that Bhishma will now
+    recite Utathya's words to that king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bhishma is the speaker in the passage and addresses Yudhishthira directly.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: Utathya is described as a foremost person conversant with the Vedas and as
+    belonging to Angirasa's race.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Utathya formerly discoursed cheerfully to Mandhatri.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mandhatri is identified as Yuvanaswa's son and as a king.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Bhishma says he will recite to Yudhishthira everything Utathya had said to
+    Mandhatri.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Bhishma
+  description: Speaker who introduces and promises to recite Utathya's discourse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Utathya
+  description: A foremost person conversant with the Vedas, of Angirasa's race, who
+    formerly discoursed to Mandhatri.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Mandhatri
+  description: Yuvanaswa's son and a king who was the former recipient of Utathya's
+    discourse.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Yudhishthira
+  description: Person addressed by Bhishma as the present recipient of the recitation.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Yuvanaswa
+  description: Named through Mandhatri's patronymic as the father of Mandhatri.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Angirasa
+  description: Named through the statement that Utathya belongs to Angirasa's race.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: reciting speaker
+  assigned_to:
+  - fig:1
+  basis: Bhishma says he will recite Utathya's words to Yudhishthira.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: Veda-knowing instructor
+  assigned_to:
+  - fig:2
+  basis: Utathya is described as foremost among those conversant with the Vedas and
+    as having discoursed to Mandhatri.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: royal recipient of discourse
+  assigned_to:
+  - fig:3
+  basis: Mandhatri is identified as a king and as the person to whom Utathya had spoken.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: present listener addressed by Bhishma
+  assigned_to:
+  - fig:4
+  basis: Bhishma addresses Yudhishthira while announcing the recitation.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: father named in patronymic
+  assigned_to:
+  - fig:5
+  basis: Mandhatri is called Yuvanaswa's son.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: lineage name
+  assigned_to:
+  - fig:6
+  basis: Utathya is said to be of Angirasa's race.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Bhishma introduces Utathya's discourse
+  summary: Bhishma frames a prior discourse by Utathya to King Mandhatri and announces
+    that he will recite it to Yudhishthira.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: framed transmission of wisdom from sage to king
+  taxonomy_refs:
+  - wisdom
+  basis: The passage introduces a Veda-knowing sage's discourse to a king, now being
+    recited by Bhishma to Yudhishthira.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This short passage is an introductory frame; the content of the wisdom
+    teaching is not included in the supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 33093-33096
+  quote_or_summary: '"Bhishma said" and identifies Utathya as foremost among persons
+    conversant with the Vedas.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: 33096-33098
+  quote_or_summary: Utathya, of Angirasa's race, formerly discoursed cheerfully to
+    Mandhatri, son of Yuvanaswa.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 33098-33099
+  quote_or_summary: Bhishma tells Yudhishthira that he will recite everything Utathya
+    had said to that king.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The named figures and speech frame are explicit. Motif identification is
+    limited because the supplied passage only introduces a discourse and does not
+    include its substance. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied taxonomy are explicitly present in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l33093-l33099
+  passage_sha256=c7b4efa998de2b500b543f46be67dd0a0e0d254f840456a25225354455ffa7a9
+

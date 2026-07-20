@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l7001-l7112
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: B    2 / LAWS   OF    MANU. / I,  10.  THE    CREATION.  5 / LAWS    OF    MANU.;
+    lines 7001-7112
+  start: '7001'
+  end: '7112'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a cosmogony in which an indiscernible first cause
+    produces Purusha/Brahman. The divine being resides in an egg for a year, divides
+    it into two halves by thought, and from those halves forms heaven, earth, the
+    middle sphere, directions, and the abode of waters. The passage then describes
+    the production of mind, egoism, other principles and organs, and finally all beings
+    through the joining of particles.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An indiscernible, eternal first cause that is both real and unreal produces
+    a male figure called Purusha and Brahman.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The divine one resides in an egg for a whole year.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The divine one divides the egg into two halves by thought alone.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: From the two halves of the egg, the divine one forms heaven, earth, the middle
+    sphere, the eight horizon points, and the eternal abode of the waters.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The divine one draws forth mind from himself and egoism from mind; the passage
+    also mentions the great one, products affected by three qualities, and five organs
+    that perceive objects of sensation.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: By joining minute particles of six powerful entities with particles of himself,
+    the divine one creates all beings.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first cause
+  description: Indiscernible, eternal cause described as both real and unreal.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Purusha / Brahman / divine one
+  description: Male figure produced from the first cause; he resides in the egg, divides
+    it, forms cosmic regions, draws forth principles, and creates beings.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: all beings
+  description: Collective beings created after the joining of minute particles with
+    particles of the creator himself.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: primal cause
+  assigned_to:
+  - fig:1
+  basis: The passage names a first cause from which Purusha/Brahman is produced.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cosmic creator
+  assigned_to:
+  - fig:2
+  basis: The figure divides the egg, forms cosmic regions, produces inner principles,
+    and creates all beings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: created beings
+  assigned_to:
+  - fig:3
+  basis: All beings are said to be created after the joining of particles.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: egg
+  literal_form: The egg in which the divine one resides and which he divides into
+    two halves.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - cosmic_egg
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: two halves
+  literal_form: The two halves of the divided egg from which cosmic regions are formed.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: waters
+  literal_form: The eternal abode of the waters formed among the cosmic regions.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: eight horizon points
+  literal_form: The eight points of the horizon formed from the two halves of the
+    egg.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: mind and egoism
+  literal_form: Mind drawn from the creator himself and egoism drawn from mind.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: production of Purusha/Brahman
+  summary: The first cause produces the male Purusha, known as Brahman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: division of the egg and formation of cosmic regions
+  summary: The divine one resides in the egg, divides it into two halves by thought,
+    and forms heaven, earth, the middle sphere, the horizon points, and the abode
+    of waters.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: emanation of principles and beings
+  summary: The divine one draws forth mind and egoism, the passage lists further principles
+    and organs, and all beings are created by joining particles with particles of
+    himself.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cosmic egg divided to form the world
+  taxonomy_refs:
+  - cosmic_egg
+  basis: The divine one resides in an egg, divides it into two halves, and from those
+    halves forms heaven, earth, and other cosmic regions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage uses the egg directly as a cosmogonic structure; no additional
+    details beyond this passage are inferred.
+- id: motif:2
+  label: creation by binary division
+  taxonomy_refs:
+  - duality
+  basis: The egg is divided into two halves, and those halves become the basis for
+    forming cosmic regions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage supports a literal twofold division, but it does not develop
+    a broader doctrine of dualism in this excerpt.
+- id: motif:3
+  label: self-derived emanation of principles and beings
+  taxonomy_refs: []
+  basis: The creator draws mind from himself, egoism from mind, and creates all beings
+    by joining particles with particles of himself.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No taxonomy reference is assigned because the available motif list has
+    no exact match for self-emanation in this passage.
+- id: motif:4
+  label: ordered mapping of the cosmos
+  taxonomy_refs: []
+  basis: Heaven, earth, the middle sphere, eight horizon points, and the abode of
+    waters are formed in an ordered sequence.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a structural cosmogonic pattern, but no specific available taxonomy
+    family precisely matches it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: I.11; within lines 7001-7112
+  quote_or_summary: '"From that (first) cause... was produced that male (Purusha)...
+    Brahman."'
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: I.12; within lines 7001-7112
+  quote_or_summary: '"The divine one resided in that egg during a whole year" and
+    then "divided it into two halves" by thought alone.'
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: I.13; within lines 7001-7112
+  quote_or_summary: From the two halves he formed heaven, earth, the middle sphere,
+    eight horizon points, and the eternal abode of the waters.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: I.14-I.15; within lines 7001-7112
+  quote_or_summary: He drew forth mind from himself and egoism from mind; the passage
+    also lists the great one, products affected by three qualities, and five organs
+    of perception.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: I.16; within lines 7001-7112
+  quote_or_summary: He joined minute particles of six powerful entities with particles
+    of himself and created all beings.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain translation; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports extraction of creation sequence, cosmic egg,
+    and self-emanation motifs. Broader comparative claims are omitted because the
+    excerpt itself does not establish historical or cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Commentary material in the excerpt was not used to infer additional comparative claims.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l7001-l7112
+  passage_sha256=e21f827e284048d9aef4383efd60635ee5e10c1db06f8971aa760398c36d430d
+

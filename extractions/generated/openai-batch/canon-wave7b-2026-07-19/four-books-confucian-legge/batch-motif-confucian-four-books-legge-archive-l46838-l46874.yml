@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.confucian-four-books-legge-archive-l46838-l46874
+source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+passage_locator:
+  label: THE WORKS OF / CH. 46. AGAINST THE PRINCES OF / THE WORKS 0V MKXOTUS / THE
+    WORKS OF MENC1US; lines 46838-46874
+  start: '46838'
+  end: '46874'
+  translation: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine
+    of the Mean, and The Works of Mencius'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"In the ''Spring and Autumn'' there are no righteous wars."'
+  summary: The passage reports a ruler leading people into repeated battle, suffering
+    defeat, and ultimately involving a beloved son in the loss. Mencius then states
+    that the Spring and Autumn contains no righteous wars, though some wars are better
+    than others, and defines correction as punishment by the supreme authority, not
+    by hostile states against one another.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed leader leads people into battle, suffers a great defeat, and engages
+    again.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The leader, fearing that victory might not be secured, urges his loved son
+    until he is sacrificed with the others.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker characterizes the conduct as beginning with what people do not
+    care for and proceeding to what they care for.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Mencius says that in the Spring and Autumn there are no righteous wars, though
+    some wars are better than others.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Mencius defines correction as the supreme authority punishing its subjects
+    by force of arms.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Mencius says hostile states do not correct one another.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The commentary identifies the son as Hwuy's eldest son and refers to the bodies
+    of subjects.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mencius
+  description: Named speaker who comments on wars in the Spring and Autumn and on
+    correction by authority.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Unnamed leader
+  description: A leader who brings people into battle, fights again after defeat,
+    and involves his loved son.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Loved son / Hwuy's eldest son
+  description: The leader's loved son, identified in the commentary as Hwuy's eldest
+    son, who is sacrificed with the others.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: Subjects or people led into battle
+  description: Those led into battle and associated in the commentary with bodies
+    of subjects.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: Supreme authority
+  description: Generic authority that can punish subjects by force of arms in Mencius's
+    definition of correction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Hostile states
+  description: Generic opposing states that, according to Mencius, do not correct
+    one another.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: didactic speaker
+  assigned_to:
+  - fig:1
+  basis: Mencius is named as the one making the statements about war and correction.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: military leader causing renewed battle
+  assigned_to:
+  - fig:2
+  basis: The leader brings others to battle, suffers defeat, fights again, and involves
+    his son.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: beloved son sacrificed with others
+  assigned_to:
+  - fig:3
+  basis: The passage says the leader urged his loved son until he sacrificed him with
+    the others.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: subjects exposed to battle
+  assigned_to:
+  - fig:4
+  basis: The people are led to battle and the commentary refers to the bodies of subjects.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: legitimate correcting authority
+  assigned_to:
+  - fig:5
+  basis: Correction is defined as punishment by the supreme authority against its
+    subjects.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: invalid mutual correctors
+  assigned_to:
+  - fig:6
+  basis: Mencius says hostile states do not correct one another.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Repeated battle and loss of the loved son
+  summary: An unnamed leader leads people into battle, suffers defeat, fights again,
+    and involves his loved son in the same destruction as the others.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Mencius on wars and correction
+  summary: Mencius evaluates wars recorded in the Spring and Autumn and distinguishes
+    legitimate correction by supreme authority from conflict between hostile states.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Beloved child sacrificed in war
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly says the leader urged the son whom he loved until
+    he sacrificed him with the others after renewed fighting.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The wording is political and moral rather than ritual; the passage does
+    not describe a formal sacrificial rite.
+- id: motif:2
+  label: Legitimate force reserved to supreme authority
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Mencius defines correction as the supreme authority punishing subjects by
+    force of arms and denies that hostile states correct one another.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a political doctrine rather than a mythic kingship episode; the
+    taxonomy match is thematic.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly connects Mencius's teaching on righteous and unrighteous
+    war with wars recorded in the Spring and Autumn, using that corpus as a frame
+    for moral evaluation.
+  claim_level: same_function
+  target: Spring and Autumn records of warfare
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives a judgment about the Spring and Autumn rather than
+    a detailed comparison of multiple narratives.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 46838-46851
+  quote_or_summary: '"leading them to battle. Sustaining a great defeat, he would
+    engage again... urged his son whom he loved till he sacrificed him with them."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:2
+  type: quote
+  locator: lines 46852-46858
+  quote_or_summary: '"Mencius said, \"In the ''Spring and Autumn'' there are no righteous
+    wars. Instances indeed there are of one war better than another.\""'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:3
+  type: quote
+  locator: lines 46859-46864
+  quote_or_summary: '"''Correction'' is when the supreme authority punishes its subjects
+    by force of arms. Hostile states do not correct one another."'
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:4
+  type: summary
+  locator: lines 46865-46872
+  quote_or_summary: Commentary refers to the bodies of subjects and says the reference
+    is to Hwuy's eldest son.
+  source_text_path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is partly affected by OCR noise and excerpt boundaries; the main
+    doctrinal statements and battle-sacrifice wording are clear enough for provisional
+    extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No symbol entries were created because no available symbol taxonomy item is literally present in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:confucian-four-books-legge-archive__l46838-l46874
+  passage_sha256=d598f6860b7b7646c86c058b1e2cbeb73b2f450b2427ab3aba7e5da70f5e0bbe
+

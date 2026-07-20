@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.micronesian-caroline-islands-christian-archive-l5740-l5845
+source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+passage_locator:
+  label: A PONAPEAN CAKOE / CARVED DANCING-PADDLES FROM METALANIM DISIRICT / PILUNG
+    ADOLOL, A CHIEF OF RUL / CHAPTER IX; lines 5740-5845
+  start: '5740'
+  end: '5845'
+  translation: 'The Caroline Islands: Travel in the Sea of the Little Lands'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is a travel account of a voyage to Mokil and a description
+    of the island group. It includes two explicit traditional or belief elements:
+    a blue starfish is said among Ponapeans to be connected with the Rain God, and
+    removing it from the water is said to bring heavy rain; and two large blocks near
+    Kalap beach are explained by a tradition in which Ani or demi-gods, in the form
+    of a pair of frigate-birds, brought them from the eastward and were the mythical
+    ancestors of the Mokil islanders.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes bright Prussian blue starfish, called Sukunap and with
+    a Kusaie name also noted, lying around in the Mokil lagoon setting.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that, with the Ponapeans, this creature is connected with
+    the Rain God.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that lifting the creature out of the water is believed to
+    be followed by heavy showers of rain.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Near the boat passage leading toward Kalap beach, the passage notes two large
+    blocks among limestone rocks.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A tradition says the Ani or demi-gods, in the form of a pair of frigate-birds,
+    brought the two blocks from the eastward.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The same traditional notice identifies these beings as the mythical ancestors
+    of the Mokil islanders.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rain God
+  description: A Ponapean rain deity with whom the blue starfish is said to be connected.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Ani or demi-gods in frigate-bird form
+  description: Semidivine beings described as being in the form of a pair of frigate-birds;
+    they brought two large blocks from the eastward and are identified as mythical
+    ancestors of the Mokil islanders.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Mokil islanders
+  description: The island community whose mythical ancestors are identified as the
+    Ani or demi-gods in frigate-bird form.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: rain deity
+  assigned_to:
+  - fig:1
+  basis: The passage calls the figure the Rain God and links him with the blue starfish
+    and rain-producing consequence.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: semidivine stone-bringers
+  assigned_to:
+  - fig:2
+  basis: The Ani or demi-gods are said to have brought the two large blocks from the
+    eastward.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: mythical ancestors
+  assigned_to:
+  - fig:2
+  basis: The passage says these beings were the mythical ancestors of the Mokil islanders.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: descendant island community
+  assigned_to:
+  - fig:3
+  basis: The Mokil islanders are the people whose mythical ancestors are named in
+    the tradition.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: blue starfish
+  literal_form: Bright Prussian blue starfish, called Sukunap, with a Kusaie name
+    also noted.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: rain and water
+  literal_form: The water from which the creature is lifted and the heavy showers
+    of rain said to follow.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: two large blocks
+  literal_form: Two large blocks near Kalap beach, among masses of limestone rock.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: frigate-bird pair
+  literal_form: A pair of frigate-birds as the form of the Ani or demi-gods.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Blue starfish associated with the Rain God
+  summary: In the Mokil lagoon description, blue starfish are observed, and a Ponapean
+    belief is reported that the creature is connected with the Rain God and that lifting
+    it from the water brings heavy rain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ani in frigate-bird form bring stones from the east
+  summary: 'Near Kalap beach, two large blocks are explained by a tradition: Ani or
+    demi-gods, in the form of a pair of frigate-birds, brought the blocks from the
+    eastward and were the mythical ancestors of the Mokil islanders.'
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Marine creature linked to rain deity and rain outcome
+  taxonomy_refs: []
+  basis: The passage explicitly states that the blue starfish is connected with the
+    Rain God among Ponapeans and that lifting it from water is believed to be followed
+    by heavy rain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage reports a belief or sign-effect; it does not describe a formal
+    ritual or intentional rainmaking ceremony.
+- id: motif:2
+  label: Semidivine ancestors in bird form transport stones
+  taxonomy_refs:
+  - shapeshifter
+  basis: The tradition describes Ani or demi-gods in the form of a pair of frigate-birds
+    bringing two large blocks from the eastward and being the mythical ancestors of
+    the Mokil islanders.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The text says the beings were in bird form but does not narrate an actual
+    transformation sequence. It also gives no sibling or twin relationship for the
+    pair.
+- id: motif:3
+  label: Mythical ancestry of an island people from semidivine beings
+  taxonomy_refs: []
+  basis: The tradition identifies the Ani or demi-gods as the mythical ancestors of
+    the Mokil islanders.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not elaborate a genealogy, creation episode, or descent
+    line beyond the brief ancestral statement.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a limited nearby-tradition comparison between the Mokil
+    travel context and a Ponapean weather belief in which a marine creature is linked
+    with a Rain God and rain follows its removal from water.
+  claim_level: same_function
+  target: Ponapean Rain God and starfish weather-effect belief
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The belief is explicitly attributed to Ponapeans; the passage does
+    not state that Mokil islanders themselves hold the same belief.
+- id: claim:2
+  claim: The Ani episode can be cautiously compared with the shapeshifter motif family
+    because semidivine beings appear in the form of frigate-birds.
+  claim_level: same_motif
+  target: shapeshifter
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: No change of shape is narrated; the phrase 'in the form of' may describe
+    appearance rather than transformation.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5740-5845; Mokil lagoon description
+  quote_or_summary: '"Gorgeous star-fish of a bright Prussian blue (Sukunap) ... lie
+    around."'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 5740-5845; starfish and Rain God notice
+  quote_or_summary: '"With the Ponapeans the creature is connected with the Rain God,
+    and lifting it out of the water is said to be invariably followed by heavy showers
+    of rain."'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 5740-5845; Kalap beach passage description
+  quote_or_summary: '"Close here are two large blocks."'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 5740-5845; tradition of the Ani
+  quote_or_summary: '"Tradition says the Ani or demi-gods, in the form of a pair of
+    frigate-birds, brought them from the eastward. These were the mythical ancestors
+    of the Mokil islanders."'
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The relevant traditional material is brief and explicit, but most of the
+    passage is travel and ethnographic description. Motif-family assignment is therefore
+    cautious, especially for shapeshifter.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to explicit mythic or symbolic material in the supplied passage: the Ponapean starfish-rain belief and the Mokil tradition of Ani in frigate-bird form bringing stones.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-caroline-islands-christian-archive__l5740-l5845
+  passage_sha256=91faacf1ff7fb46cfc59e14de9c440ff6640c5f0432dbf736af3d3d912a91ac3
+

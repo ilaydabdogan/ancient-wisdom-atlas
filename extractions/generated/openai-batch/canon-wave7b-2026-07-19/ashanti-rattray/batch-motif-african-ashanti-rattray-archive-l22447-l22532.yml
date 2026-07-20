@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l22447-l22532
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: CO GO / HH HH / APPENDIX B / WITH A BRIEF NOTE ON KUDUO; lines 22447-22532
+  start: '22447'
+  end: '22532'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists Ashanti gold-dust weights with approximate English currency
+    values and notes chiefly possession of high-value weights, a fine used when a
+    death sentence was commuted, a demand sent to Adinkira the Gyaman King for gold
+    dust equal to a weight, and special scales used for heavy and small quantities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents Ashanti names of weights alongside approximate values
+    of gold dust in English currency.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One listed weight is described as possessed only by chiefs.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When a death sentence was commuted for a fine, the stated amount had to be
+    paid.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Weights from twelve pounds upward are described as only in the possession
+    of chiefs, extending up to one hundred pereguan equaling eight hundred pounds.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A weight was sent to Adinkira, the Gyaman King, to demand its weight in gold
+    dust.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Special scales called Akontuma are used to weigh heavier amounts, while smaller
+    scales are called mframa nsenia, glossed as wind scales.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: chiefs
+  description: Chiefs are identified as the only possessors of certain high-value
+    weights.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Adinkira, the Gyaman King
+  description: A king to whom a weight was sent in order to demand an equivalent weight
+    in gold dust.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: exclusive possessors of high-value weights
+  assigned_to:
+  - fig:1
+  basis: The note states that certain weights, including those from twelve pounds
+    upward, are only in the possession of chiefs.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: recipient of demand for gold dust
+  assigned_to:
+  - fig:2
+  basis: The note says the weight was sent to Adinkira to demand its weight in gold
+    dust.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: gold-dust weight
+  literal_form: Named Ashanti weight units used to measure gold dust value.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: gold dust
+  literal_form: Gold dust measured by named weights and demanded in equivalent quantity.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: weighing scales
+  literal_form: Akontuma scales for heavier amounts and mframa nsenia or wind scales
+    for smaller amounts.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: commutation fine
+  literal_form: A specified gold-dust amount paid when a death sentence is commuted.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: List of Ashanti gold-dust weights
+  summary: The passage tabulates named Ashanti weights with approximate English currency
+    values for gold dust.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Chiefly and legal use of high-value weights
+  summary: The passage notes that some high-value weights are restricted to chiefs
+    and that one amount could be paid as a fine when a death sentence was commuted.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Demand sent to Adinkira
+  summary: A weight is sent to Adinkira, the Gyaman King, as a demand for an equivalent
+    amount of gold dust.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Scales for measuring gold dust
+  summary: The passage distinguishes special heavy scales called Akontuma from smaller
+    wind scales called mframa nsenia.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22447-22532, weight list and currency values
+  quote_or_summary: The passage lists Ashanti names of weights and approximate values
+    of gold dust in English currency, ranging in the displayed list from 60s. to 186s.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 22447-22532, note after 186s. value
+  quote_or_summary: '"This weight is possessed by chiefs only"'
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 22447-22532, note on commuted sentence
+  quote_or_summary: The note states that if a death sentence was commuted for a fine,
+    the specified amount had to be paid.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 22447-22532, footnote 2
+  quote_or_summary: From twelve pounds upward, weights are said to be only in the
+    possession of chiefs, up to one hundred pereguan equaling eight hundred pounds.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 22447-22532, footnote 2
+  quote_or_summary: A weight was sent to Adinkira, the Gyaman King, to demand its
+    weight in gold dust.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 22447-22532, footnote 2
+  quote_or_summary: Special Akontuma scales are named for heavier amounts; smaller
+    scales are called mframa nsenia, literally wind scales.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is primarily a glossary and ethnographic note on weights, gold
+    dust, fines, and scales rather than a mythic narrative. Objects and roles are
+    extractable, but no clear comparative mythological motif is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the available taxonomy list does not directly include weights, gold dust, scales, fines, or chiefly economic authority.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l22447-l22532
+  passage_sha256=63f2a24b2f87c4d6629e05cef3ceb8cd9905233b380f1d2fad294927fe39d3fd
+

@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l6310-l6341
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA I, HYMN 97. 125 / MANDALA I, HYMN 97. / ASHTAKA I, ADHYAYA 7, VARGA
+    5. / NOLES;; lines 6310-6341
+  start: '6310'
+  end: '6341'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The hymn is “addressed to Agni Suki”; the refrain is explained as “driving
+    away evil” / “may he drive away evil.”
+  summary: Editorial notes identify the hymn’s metre and addressee, list parallel
+    passages in AV and TA, and explain selected verses. A note on verse 1 discusses
+    a translation involving flames driving away agha, while notes on verse 3 say missing
+    main clauses are supplied by a refrain meaning that he may drive away evil. Another
+    note glosses “among them” as referring to liberal lords.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The notes state that the hymn is addressed to Agni Suki and give its metre
+    as Gayatri.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The notes identify verses 1-8 as corresponding to AV IV, 33, 1-8 and TA VI,
+    11, 1-2.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A cited translation of verse 1 reads as driving away with flames the speaker’s
+    sin, while the note says agha is not exactly sin.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: For verses 3-5, the notes say that principal clauses are lacking and are supplied
+    in meaning by the refrain.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The refrain is explained as “driving away evil,” meaning “may he drive away
+    evil.”
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The phrase “among them” is glossed as meaning among the liberal lords.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agni Suki
+  description: Named as the addressee of the hymn in the notes.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: liberal lords
+  description: A group referred to by the gloss of “among them.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hymn addressee
+  assigned_to:
+  - fig:1
+  basis: The notes state that the hymn is addressed to Agni Suki.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: implied remover of evil
+  assigned_to:
+  - fig:1
+  basis: The hymn is addressed to Agni Suki, and the refrain is glossed as “may he
+    drive away evil.”
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: glossed referent
+  assigned_to:
+  - fig:2
+  basis: The note explains “among them” as meaning among the liberal lords.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: flames
+  literal_form: flames
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: evil / agha
+  literal_form: agha, glossed as not exactly sin; evil in the refrain
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Hymn note on Agni and expulsion of evil
+  summary: The notes present the hymn as addressed to Agni Suki and explain a refrain
+    as a request that he drive away evil, with one translation associating this removal
+    with flames.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Gloss on liberal lords
+  summary: A note glosses the phrase “among them” as referring to liberal lords.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Fire or flames driving away evil
+  taxonomy_refs: []
+  basis: The notes cite a translation involving flames driving away agha and explain
+    the refrain as “may he drive away evil.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an editorial note, not the hymn text itself; it also cautions
+    that agha is not exactly “sin.”
+- id: motif:2
+  label: Invocation of a divine addressee to remove evil
+  taxonomy_refs: []
+  basis: The hymn is said to be addressed to Agni Suki, and the refrain is interpreted
+    as asking that he drive away evil.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The agent is inferred from the hymn addressee and the gloss “may he,”
+    rather than from a full quoted verse in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The notes identify verses 1-8 of this hymn as corresponding to AV IV, 33,
+    1-8 and TA VI, 11, 1-2, supporting a close nearby-corpus textual parallel for
+    the same hymn material.
+  claim_level: same_motif
+  target: AV IV, 33, 1-8; TA VI, 11, 1-2
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides citation equivalences only and does not quote
+    the parallel passages, so the exact motif overlap cannot be independently assessed
+    from this extract alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6310-6314
+  quote_or_summary: The notes give the metre as Gayatri, state that the hymn is addressed
+    to Agni Suki, and list verse correspondences with AV IV, 33, 1-8 and TA VI, 11,
+    1-2.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 6316-6321
+  quote_or_summary: 'Lanman is cited as translating: “Driving away with flames our
+    sin.” The note adds that agha is not exactly sin.'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 6323-6332
+  quote_or_summary: For verses beginning with pra yat, the note says principal clauses
+    are lacking and supplied by the refrain; “driving away evil” means “may he drive
+    away evil.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 6334-6336
+  quote_or_summary: The note says “among them” seems to mean “among the liberal lords.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extract consists of editorial notes with OCR noise and only limited quoted
+    hymn content; motif identification is therefore cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unprovided taxonomy identifiers were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l6310-l6341
+  passage_sha256=2d59e86f6b184a62a4dd3433ddcad78ce8a516fc12096d5973fb6d83271a93d5
+

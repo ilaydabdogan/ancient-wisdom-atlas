@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v1-grimm-stallybrass-archive-l1509-l1516
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+passage_locator:
+  label: GOD.  19 / GOD.  21 / GOD.  2;; / GOD.  25; lines 1509-1516
+  start: '1509'
+  end: '1516'
+  translation: Teutonic Mythology, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: when people stepped along in stately gorgeous attire, men thought that gods
+    had appeared
+  summary: Grimm gathers examples in which stately attire or exceptional heroic beauty
+    causes observers to think gods or the Æsir have appeared, or to say that their
+    gods must resemble the hero; he connects the pattern to a note on Siegfried.
+  language: English with Old Norse and Middle High German citations
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage describes the gods as blithe and happy.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that when people went along in stately, gorgeous attire,
+    men thought gods had appeared.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Landn. 3,10 is cited with a statement that men thought the Æsir had come there.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Vols. saga c. 26 is cited as saying of SigmrS that a speaker thinks one of
+    the gods rides there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Parzival 36,18 is cited as saying that women and men had never seen such a
+    winsome hero and that their gods must be like him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Grimm links these cited examples to his note on Siegfried and cites Nibelungenlied
+    84,4.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: gods / Æsir
+  description: Divine beings described as blithe and happy, and used as the beings
+    whom observers think have appeared or whom heroes resemble.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: people in stately gorgeous attire
+  description: Human figures whose stately, gorgeous attire leads men to think gods
+    had appeared.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: men / observers in the Landn. example
+  description: Observers who think that the Æsir or gods had come there.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: SigmrS
+  description: A rider in the Vols. saga citation of whom it is said, "I think that
+    here rides one of the gods."
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: unnamed winsome hero in Parzival
+  description: A hero so winsome that observers say their gods must be like him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: women and men in the Parzival example
+  description: Observers who declare that they have never seen so winsome a hero and
+    that their gods must resemble him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Siegfried
+  description: Hero mentioned by Grimm as the subject of a related note, with Nibelungenlied
+    84,4 cited.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: divine comparator
+  assigned_to:
+  - fig:1
+  basis: The gods or Æsir are the beings whose appearance is inferred or whose likeness
+    is used to describe heroes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: human figure perceived or described as godlike
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: Human appearance, attire, or heroic winsomeness is treated as resembling
+    or manifesting gods.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: observer of godlike appearance
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: Observers think gods have appeared or declare that gods must be like the
+    hero.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: related cited heroic example
+  assigned_to:
+  - fig:7
+  basis: Siegfried is mentioned as the subject of Grimm's related note, with Nibelungenlied
+    84,4 cited.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: stately gorgeous attire
+  literal_form: stately gorgeous attire
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: winsome heroic appearance
+  literal_form: hero so winsome
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: riding godlike figure
+  literal_form: here rides one of the gods
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Stately attire taken for divine appearance
+  summary: People moving in stately, gorgeous attire are said to make observers think
+    that gods or the Æsir have appeared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rider described as one of the gods
+  summary: In the Vols. saga citation, SigmrS is described through a statement that
+    one of the gods rides there.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Winsome hero compared to gods
+  summary: In the Parzival citation, observers say they have never seen so winsome
+    a hero and that their gods must be like him.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Siegfried cited as related example
+  summary: Grimm says the preceding examples support his note on Siegfried and cites
+    Nibelungenlied 84,4.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: human appearance mistaken for divine manifestation
+  taxonomy_refs: []
+  basis: The passage repeatedly cites observers who think gods or the Æsir have appeared
+    when they see splendidly attired or heroic human figures.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is Grimm's comparative note, not a single continuous narrative
+    episode.
+- id: motif:2
+  label: heroic beauty as likeness of the gods
+  taxonomy_refs: []
+  basis: The Vols. saga and Parzival citations both use a hero's appearance as the
+    basis for identifying him with, or comparing him to, gods.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The full narrative contexts are not present in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage aligns Norse and Middle High German examples around a recurring
+    pattern in which exceptional human appearance is interpreted through comparison
+    with gods.
+  claim_level: same_motif
+  target: Landn. 3,10, Vols. saga c. 26, Parzival 36,18, and the related Siegfried/Nibelungenlied
+    note as cited by Grimm
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supported by Grimm's juxtaposition of citations,
+    but the supplied passage gives only short excerpts and not the full contexts of
+    each source.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1509-1511
+  quote_or_summary: '"when people stepped along in stately gorgeous attire, men thought
+    that gods had appeared"; Landn. 3,10 is cited with a statement that men thought
+    the Æsir had come there.'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 1511-1513
+  quote_or_summary: '"The Vols. saga c. 26 says of SigmrS ... I think that here rides
+    one of the gods."'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 1513-1515
+  quote_or_summary: 'Parzival 36,18 is cited: "they saw never a hero so winsome, their
+    gods must be like him."'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 1515-1516
+  quote_or_summary: Grimm says there is "more reason" for his note on Siegfried and
+    cites Nibelungenlied 84,4.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  rights_note: Public domain source.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The recurrent pattern is explicit, but the passage is a compact comparative
+    note with noisy OCR and limited context for the cited texts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage centers on godlike appearance and comparison, which is not directly represented in the supplied taxonomy lists.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v1-grimm-stallybrass-archive__l1509-l1516
+  passage_sha256=0b9b94a3637f39eaf29682d97b58e9f0e570931e8a4ea14ebb8b9a070ec6227b
+

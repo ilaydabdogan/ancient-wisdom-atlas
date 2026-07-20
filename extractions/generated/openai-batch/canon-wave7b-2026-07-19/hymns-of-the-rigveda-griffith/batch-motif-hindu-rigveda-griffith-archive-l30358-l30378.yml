@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l30358-l30378
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: AY MN 2.) LHE RIGVEDA, 305 / HYMN 4.) THE RIGVUEDA. B99 / AY MN 5,) THE RIGVEDA,
+    AOL / TLDS TS; lines 30358-30378
+  start: '30358'
+  end: '30378'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Son of Strength, Agni, dweller in three regions, accept our sacrifice and
+    our oblation.
+  summary: The passage addresses Agni, asks him to accept sacrifice and oblation,
+    asks that the speakers be counted pious among the Gods, and requests protection
+    by a triply guarding shelter. A note glosses Agni's three regions as heaven, firmament,
+    and earth, associated with sun, lightning, and terrestrial fire.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Agni is addressed as “Son of Strength” and as a dweller in three regions.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: The speakers ask Agni to accept their sacrifice and oblation.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speakers ask to be counted pious among the Gods.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speakers ask Agni to protect them with a triply guarding shelter.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note explains the three regions as heaven, firmament, and earth, and correlates
+    them with sun, lightning, and terrestrial fire.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A commentary note says that human oblations carried to the Gods increase Agni’s
+    strength, though the OCR text around the note is partially garbled.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: Addressed figure called “Son of Strength” and “dweller in three regions”;
+    asked to accept sacrifice and oblation and to protect the speakers.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: speakers or worshippers
+  description: The “we” who offer sacrifice and oblation, ask to be counted pious,
+    and request protection.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: the Gods
+  description: Divine collective among whom the speakers ask to be counted pious;
+    also named in the commentary as recipients of oblations.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: hymnic addressee and recipient of offerings
+  assigned_to:
+  - fig:1
+  basis: Agni is directly addressed and asked to accept sacrifice and oblation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: requested protector
+  assigned_to:
+  - fig:1
+  basis: The speakers ask Agni to protect them with a triply guarding shelter.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: dweller in three regions
+  assigned_to:
+  - fig:1
+  basis: Agni is called a dweller in three regions, glossed as heaven, firmament,
+    and earth.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: supplicating offerers
+  assigned_to:
+  - fig:2
+  basis: The speakers ask that their sacrifice and oblation be accepted and request
+    divine protection.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: divine collective before whom piety is sought
+  assigned_to:
+  - fig:3
+  basis: The speakers ask to be counted pious among the Gods.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sacrifice and oblation
+  literal_form: sacrifice; oblation
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: three regions
+  literal_form: heaven, firmament, and earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: fire manifestations
+  literal_form: sun, lightning, and terrestrial fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: triply guarding shelter
+  literal_form: shelter described as triply guarding
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Supplication to Agni
+  summary: The speakers address Agni, offer sacrifice and oblation, ask to be counted
+    pious among the Gods, and request protective shelter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gloss on Agni’s three regions
+  summary: The commentary explains Agni’s three regions as heaven, firmament, and
+    earth, with forms or correspondences of sun, lightning, and terrestrial fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sacrificial address to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The speakers ask Agni to accept sacrifice and oblation; a note also refers
+    to oblations carried to the Gods.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The main verse is clear; part of the surrounding commentary is OCR-corrupted.
+- id: motif:2
+  label: offering paired with requested divine protection
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage places offering language together with requests for pious standing
+    among the Gods and protective shelter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not state a formal bargain or explicit conditional exchange.
+- id: motif:3
+  label: divine presence across three cosmic regions
+  taxonomy_refs: []
+  basis: Agni is called a dweller in three regions, glossed as heaven, firmament,
+    and earth.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: No exact supplied taxonomy reference matches the tripartite-region pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 30358-30360
+  quote_or_summary: "“Son of Strength, Agni, dweller in three regions, accept our
+    sacrifice and our oblation.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:2
+  type: quote
+  locator: 30361-30364
+  quote_or_summary: "“Among the Gods may we be counted pious: protect us with a triply-guarding
+    shelter.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 30375-30378
+  quote_or_summary: The note glosses “dweller in three regions” as heaven, firmament,
+    and earth, corresponding to sun, lightning, and terrestrial fire.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized with a short phrase.
+- id: ev:4
+  type: summary
+  locator: 30369-30374
+  quote_or_summary: A commentary note says that oblations of men carried to the Gods
+    increase Agni’s strength; the surrounding OCR is partly garbled and includes an
+    alternative explanation attributed to Sayana.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main hymn lines are usable, but several commentary lines in the supplied
+    passage are OCR-corrupted; no comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only motifs and symbols directly supported by the supplied passage and metadata are included.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l30358-l30378
+  passage_sha256=c5cb7ca3bf384699719d082b646592328137c41cc1fa8e97e25f0861b75ffa55
+

@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l8916-l8930
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: CAHTO XWS. / CAWO XXX, / CANTO XXSI. / CAWTO XXXI.; lines 8916-8930
+  start: '8916'
+  end: '8930'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ritual instructions for rinsing the mouth, placing pindas
+    with rice and sesamum-seed on darhha grass for the pitris, giving them water with
+    the hand-part sacred to the pitris, and similarly making offerings and water-gifts
+    for the maternal grandfathers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Water is used to rinse out mouths before the offering sequence continues.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The instructed performer is to use the left hand to put pindas with rice and
+    sesamum-seed on darhha grass near the remains of food for the pitris.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The performer is instructed to give water to the pitris using the part of
+    the hand sacred to the pitris.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:4
+  text: The passage describes the rite as a sacrifice performed with faith for the
+    pitris.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After giving pindas on behalf of the maternal grandfathers according to rule,
+    the performer is also to give water.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: instructed ritual performer
+  description: The person instructed to rinse, place pindas, and give water in the
+    rite.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: pitris
+  description: Ancestral recipients for whom pindas and water are given and for whom
+    the sacrifice is celebrated.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: maternal grandfathers
+  description: Maternal ancestral recipients on whose behalf pindas and water are
+    given according to rule.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual performer
+  assigned_to:
+  - fig:1
+  basis: The figure is instructed to perform the sequence of rinsing, placing pindas,
+    and giving water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: ancestor recipient
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The pitris and maternal grandfathers are named as those for whom pindas and
+    water are offered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water used for rinsing and for offering to the ancestors
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: pindas with rice and sesamum-seed
+  literal_form: pindas combined with rice and sesamum-seed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: darhha grass
+  literal_form: grass on which the pindas are placed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: pitri hand-part
+  literal_form: the part of the hand sacred to the pitris, glossed as between the
+    forefinger and thumb
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: ancestor offering sequence
+  summary: The instructed performer rinses, places pindas with rice and sesamum-seed
+    on darhha grass for the pitris, gives water with the hand-part sacred to the pitris,
+    and repeats the pinda-and-water offering for maternal grandfathers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual offering of food and water to ancestors
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly calls the rite a sacrifice for the pitris and describes
+    the offering of pindas and water to pitris and maternal grandfathers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is prescriptive ritual instruction rather than a narrative
+    myth; the broad taxonomy label 'sacrifice' should be reviewed for fit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8916-8919
+  quote_or_summary: Water is used to rinse mouths; the performer is told to place
+    pindas with rice and sesamum-seed on darhha grass near food remains for the pitris.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 8920-8923
+  quote_or_summary: The performer gives water using the part of the hand sacred to
+    the pitris; the rite is described as a sacrifice performed with faith for the
+    pitris.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 8924-8926
+  quote_or_summary: After offering pindas on behalf of the maternal grandfathers according
+    to rule, the performer is then to give water.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: note
+  locator: 8929-8930
+  quote_or_summary: Footnote glosses Pitri-tirtha as the part of the hand between
+    the forefinger and thumb.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain source metadata; summarized footnote evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The ritual actions and recipients are explicit, but the broader motif assignment
+    to the sacrifice family is interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. OCR spellings such as 'darhha' are retained where relevant.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l8916-l8930
+  passage_sha256=5c97a976a0e3e61ebe935f69815197498cabfbf1d27ad7af639c6796d724318e
+

@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l50742-l50749
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION CCXXXI / SECTION CCXXXII / SECTION CCXXXIII / SECTION CCXXXIV; lines
+    50742-50749
+  start: '50742'
+  end: '50749'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Janamejaya said... what did they do... after they had reached the lake and
+    woods going by the name of Dwaita?
+  summary: At the opening of Section CCXXXIV, Janamejaya asks a Brahmana what the
+    sons of Pritha did while living in the forest under harsh weather and after reaching
+    the lake and woods called Dwaita.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage opens Section CCXXXIV, identified as part of the Ghosha-yatra
+    Parva.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Janamejaya speaks and asks a question.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressee is called a Brahmana.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sons of Pritha are described as foremost of men.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sons of Pritha are described as passing their days in the forest.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The forest conditions mentioned include winter, summer, wind, and sun.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The question concerns what the sons of Pritha did after reaching the lake
+    and woods named Dwaita.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Janamejaya
+  description: Speaker who asks the question.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Brahmana
+  description: Person addressed by Janamejaya as O Brahmana.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: sons of Pritha
+  description: Group described as foremost of men, passing days in the forest and
+    reaching Dwaita lake and woods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Janamejaya is the named speaker who asks what happened.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: addressed Brahmana
+  assigned_to:
+  - fig:2
+  basis: Janamejaya addresses the recipient of the question as Brahmana.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: forest-dwelling subjects of inquiry
+  assigned_to:
+  - fig:3
+  basis: The sons of Pritha are the figures whose forest life and actions at Dwaita
+    are the topic of the question.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: forest
+  literal_form: forest
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Dwaita lake
+  literal_form: lake named Dwaita
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Dwaita woods
+  literal_form: woods named Dwaita
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: seasonal and elemental exposure
+  literal_form: winter, summer, wind, and sun
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Janamejaya asks about Dwaita
+  summary: Janamejaya asks a Brahmana what the sons of Pritha did while enduring forest
+    conditions and after reaching the lake and woods called Dwaita.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: forest sojourn under harsh conditions
+  taxonomy_refs: []
+  basis: The sons of Pritha are described as spending days in the forest while exposed
+    to winter, summer, wind, and sun.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is only a framing question and does not narrate the events
+    that followed.
+- id: motif:2
+  label: arrival at named lake and woods
+  taxonomy_refs: []
+  basis: The question specifies that the sons of Pritha had reached the lake and woods
+    called Dwaita.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage identifies the place but gives no further action or ritual
+    significance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 50742-50745
+  quote_or_summary: 'Section heading: SECTION CCXXXIV, Ghosha-yatra Parva.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; short citation/summary used.
+- id: ev:2
+  type: quote
+  locator: lines 50746-50749
+  quote_or_summary: Janamejaya said ... O Brahmana
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 50746-50749
+  quote_or_summary: The sons of Pritha are described as foremost of men passing their
+    days in the forest, exposed to winter, summer, wind, and sun.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 50748-50749
+  quote_or_summary: Janamejaya asks what the sons of Pritha did after reaching the
+    lake and woods named Dwaita.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is a brief framing question rather than a full narrative episode.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l50742-l50749
+  passage_sha256=3da565651721498e2cfbec4e5ef9d02c1568fd12608fa928cab4d9e7cd650457
+

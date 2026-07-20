@@ -1,0 +1,137 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l6564-l6568
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION XXX / SECTION XXXI / SECTION XXXII / SECTION XXXIII; lines 6564-6568
+  start: '6564'
+  end: '6568'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Yudhishthira said, "Which act, O grandsire, is the foremost... for a king?"
+  summary: Yudhishthira asks his grandsire which royal act is foremost and what deed
+    allows a king to enjoy both this world and the next.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira addresses a figure called grandsire.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira asks which act laid down for a king is foremost.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Yudhishthira asks what act enables a king to enjoy both this world and the
+    next.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Speaker who asks the question about the foremost royal act.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: grandsire
+  description: Addressee of Yudhishthira's question.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioner about royal duty
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks which act is foremost for a king and beneficial in this
+    world and the next.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: addressed elder
+  assigned_to:
+  - fig:2
+  basis: The speaker addresses the addressee as grandsire.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Question on the foremost act for a king
+  summary: Yudhishthira asks his grandsire to identify the chief royal act and the
+    deed that grants benefit in both worldly and afterlife terms.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: seeking wisdom on royal duty
+  taxonomy_refs:
+  - wisdom
+  - royal_legitimacy
+  basis: The passage presents a named speaker asking an elder to identify the foremost
+    act for a king and its benefits across this world and the next.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is only a question and does not include the answer or a completed
+    royal act.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6564-6568
+  quote_or_summary: '"Yudhishthira said... O grandsire"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 6564-6568
+  quote_or_summary: Yudhishthira asks which act laid down for a king is the foremost.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 6564-6568
+  quote_or_summary: Yudhishthira asks what act lets a king enjoy both this world and
+    the next.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The speaker, addressee, and question are explicit. Motif assignment is limited
+    because the passage contains only the initiating question, not the answer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols or comparison claims were extracted because the passage provides no explicit symbolic object or comparative framing.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l6564-l6568
+  passage_sha256=6f15fcd47e515850c29a8a7174a6ee09dd0143f613d759a756bf841870499f08
+

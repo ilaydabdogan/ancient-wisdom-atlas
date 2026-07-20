@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l5550-l5580
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. LXIII / CHAP. LXIV / CHAP. LXV / CHAP. LXVI; lines 5550-5580
+  start: '5550'
+  end: '5580'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Osvif dies and is buried at Holyfell, where Gudrun has built a church.
+    Gest Oddliefson, foreseeing that his illness will end his life, asks his son Thord
+    to carry his body to Holyfell because he considers it the greatest place nearby
+    and has seen a burning light there. Ice blocks Broadfirth, but a gale clears the
+    ice long enough for Thord to transport Gest's body by ship to Holyfell, where
+    Gest is buried in the same grave as Osvif. The ice returns afterward, and people
+    regard the timing as marvelous.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Osvif falls ill during the winter, dies, and is buried at Holyfell.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Osvif is described as the greatest of sages, and his death is deemed a great
+    loss.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gudrun has had a church built at Holyfell.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Gest Oddliefson falls ill, calls his son Thord the Low, and says he forebodes
+    that the sickness will end their living together.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Gest asks that his body be carried to Holyfell, calling it the greatest place
+    about the countryside and saying he has often seen a light burning there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Broadfirth is laid under ice so far out that no ship can cross from Bardistrand.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A gale arises after Gest's body has lain in state two nights and draws the
+    ice away from the land; the next day is fair and still.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Thord takes a ship, puts Gest's body aboard, crosses Broadfirth, and comes
+    to Holyfell in the evening.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Gest is buried at Holyfell, and he and Osvif rest in one grave.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The narrator says Gest's soothsaying was fulfilled because the distance between
+    Gest and Osvif is now shorter than when they lived in separate districts.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: The next night a wild storm drives the ice back to land, and boat travel is
+    blocked for a long time afterward.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:12
+  text: People think it marvelous that the weather allowed Gest's body to be taken
+    across when there was no crossing before or afterward during the winter.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Osvif
+  description: A man who falls ill, dies, is called the greatest of sages, and is
+    buried at Holyfell.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Gest Oddliefson
+  description: A man who falls ill, forebodes his death, asks to be buried at Holyfell,
+    dies, and is transported there for burial with Osvif.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Thord the Low
+  description: Gest's son, who receives Gest's final request and transports Gest's
+    body by ship to Holyfell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Gudrun
+  description: The person who had a church built at Holyfell.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: deceased sage
+  assigned_to:
+  - fig:1
+  basis: Osvif dies and is described as the greatest of sages.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dying soothsayer
+  assigned_to:
+  - fig:2
+  basis: Gest forebodes his death and the narrator later says his soothsaying was
+    fulfilled.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: son and funeral transporter
+  assigned_to:
+  - fig:3
+  basis: Thord is identified as Gest's son and carries Gest's body by ship to Holyfell.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: church builder
+  assigned_to:
+  - fig:4
+  basis: Gudrun had a church built at Holyfell.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: shared-grave dead
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Gest and Osvif are buried so that they rest in one grave.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Holyfell as burial destination
+  literal_form: Holyfell, a place with a church where Osvif is buried and Gest wishes
+    his body to be carried
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: burning light at Holyfell
+  literal_form: a light burning at Holyfell, often seen by Gest
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ice-covered Broadfirth
+  literal_form: Broadfirth laid under ice, blocking ships, then briefly cleared and
+    later closed again
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: funeral ship crossing
+  literal_form: the ship on which Thord places Gest's body to cross Broadfirth
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Deaths and burial intentions at Holyfell
+  summary: Osvif dies and is buried at Holyfell; Gest, while ill, tells Thord that
+    he expects to die and wants his body carried to Holyfell because of the place's
+    importance and the light he has seen there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Weather opens the funeral route
+  summary: Although Broadfirth is blocked by ice, a gale clears the ice and fair weather
+    follows, allowing Thord to carry Gest's body by ship to Holyfell.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Shared burial and fulfilled soothsaying
+  summary: Gest is buried in the same grave as Osvif, and the narrator presents this
+    as fulfillment of Gest's soothsaying about their nearness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Ice returns after the funeral crossing
+  summary: A storm drives the ice back after the burial journey, blocking boat travel
+    again, and people regard the temporary opening for Gest's body as marvelous.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Foreknowledge of death and fulfilled soothsaying
+  taxonomy_refs:
+  - wisdom
+  basis: Gest forebodes that his illness will end his life with Thord, and the narrator
+    later states that Gest's soothsaying was fulfilled.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage supports foreknowledge and soothsaying, but does not explain
+    the source of Gest's knowledge.
+- id: motif:2
+  label: Exceptional burial place marked by burning light
+  taxonomy_refs: []
+  basis: Gest wants his body carried to Holyfell, calls it the greatest place nearby,
+    and says he has often seen a burning light there; Osvif is also buried there and
+    a church has been built there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage reports the light and Gest's valuation of Holyfell but does
+    not explicitly identify the light as supernatural.
+- id: motif:3
+  label: Temporary opening of an impassable route for funeral transport
+  taxonomy_refs: []
+  basis: Ice blocks Broadfirth before and after the event, but a gale clears it just
+    long enough for Gest's body to be carried by ship to Holyfell; people call the
+    timing marvelous.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The narrator calls the event marvelous, but no divine or magical agent
+    is named.
+- id: motif:4
+  label: Dead companions united in one grave
+  taxonomy_refs: []
+  basis: Gest and Osvif, formerly living apart, are buried in one grave, and the narrator
+    emphasizes their new nearness.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a funerary and relational pattern in the passage; no broader mythic
+    interpretation is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5550-5580
+  quote_or_summary: Osvif falls ill and dies; his death is deemed a great loss because
+    he had been the greatest of sages; he is buried at Holyfell, where Gudrun has
+    had a church built.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 5550-5580
+  quote_or_summary: Gest falls ill, calls his son Thord, forebodes that the sickness
+    will end their living together, and asks for his body to be carried to Holyfell,
+    where he has often seen a burning light.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 5550-5580
+  quote_or_summary: After Gest dies, Broadfirth is covered by ice so no ship can cross;
+    after the body lies in state two nights, a gale draws the ice away and the next
+    day is fair and still.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 5550-5580
+  quote_or_summary: Thord places Gest's body on a ship, crosses Broadfirth to Holyfell,
+    and Gest is buried in the same grave as Osvif; the narrator says Gest's soothsaying
+    is fulfilled.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 5550-5580
+  quote_or_summary: The next night a storm drives the ice back, preventing boat travel
+    for a long time; people consider it marvelous that the weather allowed Gest's
+    body to cross when crossing was impossible before and afterward.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The sequence of deaths, burial requests, weather opening, shared grave, and
+    fulfilled soothsaying is explicit. Motif labels are descriptive and need human
+    review for taxonomy alignment. No comparison claims were added because the passage
+    itself does not compare the events to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to explicit support: wisdom for soothsaying, fire for the burning light, and water for the ice-covered firth.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l5550-l5580
+  passage_sha256=3a9c8018bb3ba07ead60ad51f13955a3bf9639b215b113ab09c7b50a7631a668
+

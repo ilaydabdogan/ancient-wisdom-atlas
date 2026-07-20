@@ -1,0 +1,178 @@
+---
+record_id: batch.motif.buddhist-mahayana-texts-sbe49-cowell-archive-l12977-l13017
+source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+passage_locator:
+  label: SUKHAVATI-VYUHA. / THE LAND OF BLISS. 73 / BY THE REV. BUNYIU NANJIO, M.A.,
+    / THE LAND OF BLISS. 75; lines 12977-13017
+  start: '12977'
+  end: '13017'
+  translation: Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“some portion on the appearance of Amitdbha before a dying man”"
+  summary: Editorial notes on the Sukhavati-vyuha discuss how certain Pranidhanas
+    may be shortened, where their fulfilments are found in later chapters, a referenced
+    portion concerning Amitdbha appearing before a dying man, and the presence of
+    one Pranidhana in the Tibetan translation.
+  language: English with OCR/Indic-script Sanskrit excerpts
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that the 20th Pranidhana, identified parenthetically as the
+    19th in the text, may be shortened and then provides an Indic-script/OCR excerpt.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the fulfilment of this Pranidhana may be found in chapter
+    27, except for a portion about Amitdbha appearing before a dying man, which belongs
+    to another Pranidhana.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage explicitly mentions Amitdbha in connection with an appearance
+    before a dying man.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage introduces the 21st Pranidhana and states that it is found in
+    the Tibetan translation.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the fulfilment of the 21st Pranidhana is found in chapter
+    35, page 56, followed by an Indic-script/OCR excerpt.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Amitdbha
+  description: Named as the figure whose appearance before a dying man is mentioned.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: dying man
+  description: Unnamed dying man before whom Amitdbha is said to appear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: appearing sacred figure
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the appearance of Amitdbha before a dying man.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: dying human recipient
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the human figure only as a dying man before whom Amitdbha
+    appears.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Referenced deathbed appearance
+  summary: Within an editorial cross-reference, the passage mentions a portion concerning
+    Amitdbha appearing before a dying man and assigns it to a different Pranidhana
+    than the surrounding fulfilment section.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: sacred figure appearing before a dying person
+  taxonomy_refs: []
+  basis: The passage explicitly refers to a portion about Amitdbha appearing before
+    a dying man.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The motif is only mentioned in an editorial note; no narrative details
+    of the appearance are included in this passage.
+- id: motif:2
+  label: vow or Pranidhana with later fulfilment
+  taxonomy_refs: []
+  basis: The passage repeatedly links named Pranidhanas with fulfilment sections in
+    later chapters.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is a textual-structural pattern in the passage rather than a fully
+    narrated mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the 21st Pranidhana is found in the Tibetan translation,
+    indicating a textual parallel for that item in a nearby translation tradition.
+  claim_level: linguistic_similarity
+  target: Tibetan translation of the text
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Tibetan wording is not provided in the passage, and the claim is
+    limited to the presence of the Pranidhana as reported by the editor.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12979-12990
+  quote_or_summary: The note says the 20th Pranidhana, parenthetically identified
+    as the 19th in the text, may be shortened and gives an Indic-script/OCR excerpt.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 12991-13000
+  quote_or_summary: "“The fulfilment of this Prazidhana may be the 27th chapter in
+    the text, with the exception of some portion on the appearance of Amitdbha before
+    a dying man”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 13002-13012
+  quote_or_summary: "“The 21st may be like this” and “This Pravidhana is found in
+    the Tibetan translation.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 13013-13017
+  quote_or_summary: The note says the fulfilment of the 21st Pranidhana is found in
+    chapter 35, page 56, followed by an Indic-script/OCR excerpt.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is largely editorial and contains OCR-corrupted Indic-script
+    text. The deathbed appearance motif is explicit but only referenced, not narrated
+    in detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned. Available motif-family refs were not used because the passage does not explicitly describe an afterlife journey or other listed motif family in enough detail.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-mahayana-texts-sbe49-cowell-archive__l12977-l13017
+  passage_sha256=974db383783f721b576e21e34e522af0ada559c15508a88b46fd466732fc3b45
+

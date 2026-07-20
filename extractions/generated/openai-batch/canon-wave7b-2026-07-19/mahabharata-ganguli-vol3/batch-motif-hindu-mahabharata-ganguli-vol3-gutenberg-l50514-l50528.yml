@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l50514-l50528
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCLVIII / SECTION CCLIX / SECTION CCLX / SECTION CCLXI; lines 50514-50528
+  start: '50514'
+  end: '50528'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"certain birds were born on thy head"'
+  summary: Tuladhara tells a Brahmana that he knows why the Brahmana has come. He
+    recounts the Brahmana's sea-shore austerities, his ascetic success, the birth
+    of Chataka birds on his head, his care for the birds, his later pride in merit,
+    and the sky-voice that referred him to Tuladhara and led him there in anger.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Tuladhara states that he knows the Brahmana has come to him.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Brahmana had lived on low land near the sea-shore and undergone very austere
+    penances.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Brahmana did not have consciousness of having achieved righteousness or
+    merit during the penances.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the Brahmana attained ascetic success, birds were born on his head.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Brahmana took great care of the young birds.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When the birds grew wings and left his head to seek food, the Brahmana began
+    to feel pride, thinking he had achieved great merit.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Brahmana heard a voice in the sky that referred to Tuladhara.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The words heard in the sky filled the Brahmana with wrath, leading him to
+    come to Tuladhara.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Tuladhara asks what wish of the Brahmana he should accomplish.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Tuladhara
+  description: Speaker who addresses the Brahmana, recounts the Brahmana's past actions,
+    and asks what wish he should accomplish.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:2
+  name_or_label: Brahmana
+  description: Addressee described as a foremost regenerate person who performed austerities,
+    cared for birds born on his head, became proud, heard a sky-voice, and came to
+    Tuladhara in wrath.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Chataka birds
+  description: Birds born on the Brahmana's head, later equipped with wings and leaving
+    to search for food.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: voice in the sky
+  description: A voice heard by the Brahmana that referred to Tuladhara.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: knowledgeable speaker
+  assigned_to:
+  - fig:1
+  basis: Tuladhara says he knows the Brahmana has come and narrates the Brahmana's
+    prior experiences.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: potential fulfiller of a wish
+  assigned_to:
+  - fig:1
+  basis: Tuladhara asks what wish of the Brahmana he should accomplish.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: ascetic practitioner
+  assigned_to:
+  - fig:2
+  basis: The Brahmana lived near the sea-shore and underwent very austere penances.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: caregiver who becomes proud of merit
+  assigned_to:
+  - fig:2
+  basis: He cared for the birds and later felt pride, thinking he had achieved great
+    merit.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: birds nurtured on ascetic's body
+  assigned_to:
+  - fig:3
+  basis: The birds were born on the Brahmana's head, were cared for, grew wings, and
+    left to seek food.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: disembodied referring voice
+  assigned_to:
+  - fig:4
+  basis: The Brahmana heard a voice in the sky that referred to Tuladhara.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: birds born on head
+  literal_form: Chataka birds born on the Brahmana's head
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: sky voice
+  literal_form: voice heard in the sky
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: sea-shore ascetic place
+  literal_form: low land near the sea-shore
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Tuladhara recounts the Brahmana's austerity and bird episode
+  summary: Tuladhara tells the Brahmana that he knows of his austerities near the
+    sea-shore, the birth of birds on his head after ascetic success, his care for
+    them, and his pride when they grew wings and left.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Sky-voice leads the Brahmana to Tuladhara
+  summary: Tuladhara says the Brahmana heard a voice in the sky referring to Tuladhara;
+    the words angered him and resulted in his coming to Tuladhara.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: wise figure knows the seeker's hidden past
+  taxonomy_refs:
+  - wisdom
+  basis: Tuladhara says he knows the Brahmana has come and accurately recounts the
+    Brahmana's prior austerities, bird episode, pride, sky-voice, anger, and arrival.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage shows Tuladhara's knowledge but does not explain its source
+    in this excerpt.
+- id: motif:2
+  label: ascetic merit tested by pride
+  taxonomy_refs: []
+  basis: The Brahmana's ascetic success is followed by his care for birds and then
+    pride in supposed merit when the birds leave.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage reports pride after ascetic success but does not explicitly
+    label it as a test.
+- id: motif:3
+  label: disembodied sky-voice directs encounter
+  taxonomy_refs: []
+  basis: The Brahmana hears a voice in the sky referring to Tuladhara, and the words
+    lead to the present meeting.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not identify the speaker or state that the voice is divine.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 50514-50516
+  quote_or_summary: Tuladhara says it is known to him that the Brahmana has come to
+    him and asks him to listen.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: quote
+  locator: lines 50516-50519
+  quote_or_summary: The Brahmana lived on low land near the sea-shore, underwent very
+    austere penances, and had no consciousness of achieved righteousness or merit.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: quote
+  locator: lines 50519-50520
+  quote_or_summary: '"certain birds were born on thy head" after ascetic success.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:4
+  type: summary
+  locator: line 50520
+  quote_or_summary: The Brahmana took great care of the little birds.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:5
+  type: summary
+  locator: lines 50520-50525
+  quote_or_summary: When the Chataka birds gained wings and left his head to seek
+    food, the Brahmana began to feel pride, thinking he had achieved great merit by
+    assisting at their birth.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:6
+  type: summary
+  locator: lines 50525-50526
+  quote_or_summary: The Brahmana heard a voice in the sky that referred to Tuladhara.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:7
+  type: summary
+  locator: lines 50526-50527
+  quote_or_summary: The words heard in the sky filled the Brahmana with wrath, and
+    as a consequence he came to Tuladhara.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:8
+  type: summary
+  locator: lines 50527-50528
+  quote_or_summary: Tuladhara asks what wish of the Brahmana he should accomplish.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; brief summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the provided passage. Motif labels
+    are candidate-level and require review because the excerpt does not explicitly
+    classify the events.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not provide an explicit comparative link.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l50514-l50528
+  passage_sha256=9e22d88e7699277cd46ef6543e900df2a7c0df1ffde86113557081c2a33fc8f8
+

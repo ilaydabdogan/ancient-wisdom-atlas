@@ -1,0 +1,432 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l12370-l12399
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: HAIYMN 94.) THE RIGVEDA. 121 / RR ROR / AYMN 113.) PHE RIGVEDA, 151 / AY
+    UN 120.) THE RIGVEDA. 183; lines 12370-12399
+  start: '12370'
+  end: '12399'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Poetic verses describe a male figure amid plants, compared to a bull among
+    wives, alternately covered and displayed. Long-tressed maidens embrace him; though
+    called dead, they rise to meet the Living One, who renews them. Notes gloss a
+    double birth from fire-sticks and consecration, triple food, oblation by priests'
+    ladle, forest fire consuming trees, and Agni associated with two fire-sticks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male figure moves amid brown plants, bellows like a bull upon his wives,
+    decks the glory of his form, and shakes his horns.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The male figure is described as now covered and now displayed, grasping as
+    one who knows, with a resting-place among those who know him.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An unnamed plural group waxes a second time, gathers godlike power, and together
+    changes the Parents' form.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Maidens with long tresses hold the male figure in embrace; they are called
+    dead and rise again to meet the Living One.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Living One comes with a loud roar, releases the maidens from age, fills
+    them with new spirit, and remains living and unsubdued.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note glosses a 'Child of a double birth' as born first from fire-sticks
+    and then anew by consecration.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note lists triple food as clarified butter, fried cakes, and Soma juice.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A note explains 'by another's mouth' as the deity receiving oblation by means
+    of the ministering priests' ladle, and in another form as forest fire consuming
+    trees.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A note identifies the pair who dwell together as two fire-sticks associated
+    with Agni; the end of the printed note is OCR-corrupt.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Agni / the male Living One
+  description: The verses use male pronouns and the title 'the Living One'; the notes
+    name Agni in connection with fire-sticks and with fire consuming trees.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Maidens with long tresses
+  description: They hold him in embrace; called dead, they rise again to meet the
+    Living One.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Wives
+  description: They are mentioned as the ones upon whom the bull-like male figure
+    rushes or bellows.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Ministering priests
+  description: They are mentioned in the note as mediating the oblation by ladle.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Parents
+  description: Their form is said to be changed when a plural group blends together
+    after gathering godlike power.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: living and revivifying figure
+  assigned_to:
+  - fig:1
+  basis: He is called the Living One and is said to release the maidens from age and
+    fill them with new spirit.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: double-born child
+  assigned_to:
+  - fig:1
+  basis: The note glosses the child of double birth as born from fire-sticks and then
+    by consecration.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: dead-then-rising embracers
+  assigned_to:
+  - fig:2
+  basis: The maidens embrace him, are described as dead, and rise again to meet the
+    Living One.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of oblation and consuming fire-form
+  assigned_to:
+  - fig:1
+  basis: The note says he receives oblation by the priests' ladle and, in another
+    form, consumes trees as forest fire.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: wives of the bull-like figure
+  assigned_to:
+  - fig:3
+  basis: The verse compares the male figure to a bull rushing or bellowing upon his
+    wives.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: ritual intermediaries
+  assigned_to:
+  - fig:4
+  basis: The note describes ministering priests whose ladle serves as the means by
+    which oblation is received.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: parents whose form is changed
+  assigned_to:
+  - fig:5
+  basis: The verse states that blended godlike power changes the Parents' form.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire-sticks, forest fire, and Agni associated with the two fire-sticks.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: fire-sticks / pair dwelling together
+  literal_form: Two fire-sticks, glossed as the pair who dwell together and linked
+    to Agni's birth or production in an OCR-corrupt note.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:3
+  label: plants and trees
+  literal_form: Brown plants in the verse and trees consumed by the forest-fire form
+    in the note.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:4
+  label: bull and horns
+  literal_form: The male figure bellows like a bull and shakes his horns.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: triple food
+  literal_form: Clarified butter, fried cakes, and Soma juice.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: oblation and ladle
+  literal_form: Oblation received by means of the ministering priests' ladle, described
+    as 'another's mouth' in the note.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Bull-like movement among plants
+  summary: A male figure appears among brown plants, bellows like a bull upon his
+    wives, displays his form, and shakes horns.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Covered and displayed power
+  summary: The male figure is alternately covered and displayed; an unnamed plural
+    group gathers godlike power and changes the Parents' form.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Maidens rise to the Living One
+  summary: Long-tressed maidens embrace the Living One; although called dead, they
+    rise again, are released from age, and are filled with new spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Annotated ritual birth and offering
+  summary: The notes explain a double birth from fire-sticks and consecration, list
+    triple food, describe oblation conveyed by priests' ladle, and identify forest
+    fire consuming trees and fire-sticks associated with Agni.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: dead maidens renewed by the Living One
+  taxonomy_refs:
+  - death_rebirth
+  basis: The maidens are called dead, rise again to meet the Living One, are released
+    from age, and receive new spirit.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The identity of the maidens is not explained in the passage, and the language
+    may be hymnic or ritual metaphor rather than a prose resurrection narrative.
+- id: motif:2
+  label: double birth from fire-sticks and consecration
+  taxonomy_refs:
+  - sacred_birth
+  basis: The annotation explicitly glosses a 'Child of a double birth' as born first
+    from fire-sticks and then anew by consecration.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: This is an explanatory note rather than a full narrative scene, and the
+    second birth is ritual consecration rather than ordinary biological birth.
+- id: motif:3
+  label: sacrificial food and oblation mediated to divine fire
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The notes list triple food and describe oblation received through the priests'
+    ladle; another form of the same figure is forest fire consuming trees.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage preserves ritual details but does not narrate an explicit
+    exchange of a boon for the offering.
+comparison_claims:
+- id: claim:1
+  claim: The scene of dead maidens rising to meet the Living One cautiously fits the
+    death_rebirth motif family.
+  claim_level: same_motif
+  target: death_rebirth
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not identify the maidens or explain whether the renewal
+    is literal, ritual, vegetal, or metaphorical.
+- id: claim:2
+  claim: The double-birth gloss cautiously fits a sacred_birth pattern because the
+    figure is born from fire-sticks and then again through consecration.
+  claim_level: same_motif
+  target: sacred_birth
+  evidence_refs:
+  - ev:4
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence is an annotation and a brief formula, not a complete birth
+    narrative.
+- id: claim:3
+  claim: The oblation, triple food, priests' ladle, and receiving deity share the
+    function of the sacrifice and sacred_exchange motif families.
+  claim_level: same_function
+  target: sacrifice; sacred_exchange
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No explicit reciprocal divine reward is stated in the selected passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12370-12373
+  quote_or_summary: A male figure moves amid brown plants, bellows like a bull upon
+    his wives, decks his form, and shakes his horns.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain translation; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: 12374-12377
+  quote_or_summary: He is now covered and now displayed, rests among those who know
+    him, and an unnamed plural group waxes again, gathers godlike power, and changes
+    the Parents' form.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain translation; source metadata states full text allowed.
+- id: ev:3
+  type: summary
+  locator: 12378-12381
+  quote_or_summary: Long-tressed maidens embrace him; though called dead, they rise
+    again to meet the Living One, who roars, releases them from age, fills them with
+    new spirit, and remains living and unsubdued.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain translation; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: 12382-12384
+  quote_or_summary: 'Annotation: ''Child of a double birth'' means born first from
+    fire-sticks and then anew by consecration.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain translation; source metadata states full text allowed.
+- id: ev:5
+  type: summary
+  locator: '12385'
+  quote_or_summary: Annotation lists triple food as clarified butter, fried cakes,
+    and Soma juice.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain translation; source metadata states full text allowed.
+- id: ev:6
+  type: summary
+  locator: 12387-12391
+  quote_or_summary: 'Annotation: ''By another''s mouth'' refers to receiving the oblation
+    by the ministering priests'' ladle; in another form, the forest fire consumes
+    trees.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain translation; source metadata states full text allowed.
+- id: ev:7
+  type: summary
+  locator: 12393-12395
+  quote_or_summary: Annotation identifies 'the pair who dwell together' as two fire-sticks
+    associated with Agni; the end of the note is OCR-corrupt.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain translation; source metadata states full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage contains OCR corruption and fragmentary notes. Agni is named
+    in the notes, while the verses themselves often use pronouns and poetic figures,
+    so links between figure labels and actions should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the provided passage text and metadata. Literal observations are kept distinct from candidate motif interpretation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l12370-l12399
+  passage_sha256=dbe6de053457193de5a119e098ecafbb2b69f7ff945545b35b913223b7e90707
+

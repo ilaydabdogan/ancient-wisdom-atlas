@@ -1,0 +1,517 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l5962-l6005
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: SICKNESS,  DEATH,  AND    BURIAL / SICKNESS,  DEATH,  AND   BURIAL / IV  SICKNESS,  DEATH,  AND   BURIAL  117
+    / IV  SICKNESS,  DEATH,  AND   BURIAL  119; lines 5962-6005
+  start: '5962'
+  end: '6005'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Baganda burial procedures involving placement of
+    the body, a grandson's barkcloth-cutting rite in the grave, selection of a childless
+    widow, alternate rites for an heir or granddaughter, filling and mounding the
+    grave, hand-and-foot sponging with plantain-stem sponges, extended mourning, delayed
+    completion of the grandson's rite, and mourning restrictions on grooming and washing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The body could be placed on a side according to sex in some cases, while in
+    most clans it was placed on its back.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A grandson entered the grave, received a knife, and cut loose corners from
+    the barkcloth wrapping near the head and foot of the body.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The grandson threw the knife at one of the childless widows; the selected
+    woman became his wife, and followed him as he left the grave without looking back.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The grandson who performed the ceremony was called the mulindi.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In certain clans, a chosen heir present at the burial passed under a barkcloth
+    held by four men over the body; if he arrived after the funeral, he spread a barkcloth
+    over the grave.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In one or two clans, a granddaughter could replace an absent grandson, stand
+    in the grave, cut the barkcloth corner, and claim one widow as her servant.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The grave was filled with barkcloths and earth; many women helped fill and
+    stamp down the grave, and a large mound was raised over it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Those who helped fill the grave sponged their hands and feet with plantain-stem
+    sponges and threw the sponges onto the grave.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The mourners returned to the house where the body had lain and remained there
+    through a mourning period lasting two or up to six months.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Not having a grandson to perform the barkcloth ceremony was considered a reproach.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: If a grandson was too far away to attend the funeral, a barkcloth corner was
+    left protruding from the grave so he could later perform the ceremony, take the
+    woman, and satisfy the ghost.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: During mourning, mourners were forbidden to shave their heads, cut their nails,
+    or wash except for washing hands at meals.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: deceased person
+  description: The body of the dead man or woman being buried.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: grandson / mulindi
+  description: A grandson who enters the grave, cuts the barkcloth, throws the knife
+    at a widow, and leaves without looking back; he is called the mulindi.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: childless widow
+  description: One of the childless widows at whom the grandson throws the knife;
+    the selected woman becomes his wife and follows him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: heir
+  description: A chosen heir who performs a barkcloth rite over the body or at the
+    grave, depending on whether he is present at the burial.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: granddaughter substitute
+  description: In one or two clans, a granddaughter may take the grandson's place,
+    cut the barkcloth corner in the grave, and claim a widow as servant.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: mourners and relatives
+  description: People who return to the house of the body, remain during mourning,
+    and observe restrictions; many women also help fill and stamp the grave.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:7
+  name_or_label: ghost
+  description: The ghost that is said to be satisfied when the delayed grandson's
+    ceremony is completed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: buried deceased
+  assigned_to:
+  - fig:1
+  basis: The passage concerns the placement, wrapping, and burial of the dead body.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: barkcloth ceremony performer
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The grandson, or in some clans the granddaughter, stands in the grave and
+    cuts the barkcloth corner.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: selected widow
+  assigned_to:
+  - fig:3
+  basis: A childless widow is selected when the knife is thrown at her and becomes
+    the grandson's wife, or in the granddaughter variant is claimed as servant.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: heir performing burial succession rite
+  assigned_to:
+  - fig:4
+  basis: The heir passes under a barkcloth over the body if present or spreads one
+    over the grave if late.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: mourners and grave participants
+  assigned_to:
+  - fig:6
+  basis: Women help fill and stamp the grave; mourners return to the house, remain
+    there, and follow mourning prohibitions.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:6
+  label: ghost to be satisfied
+  assigned_to:
+  - fig:7
+  basis: The delayed rite is described as allowing the grandson to satisfy the ghost.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: grave
+  literal_form: Burial place into which the grandson or granddaughter steps and over
+    which a mound is raised.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: barkcloth
+  literal_form: Cloth wrapping the body, cut at head and foot; also held over the
+    body, spread over the grave, filled into the grave, or left protruding for a delayed
+    rite.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: knife
+  literal_form: Instrument given to the grandson for cutting barkcloth and then thrown
+    at a childless widow.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: departure without looking back
+  literal_form: The mulindi walks from the grave without looking back while the selected
+    woman follows close behind.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: plantain-stem sponges
+  literal_form: Sponges made from plantain stem used on hands and feet and then thrown
+    onto the grave.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: grave mound
+  literal_form: A large mound raised over the filled grave.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: mourning non-grooming
+  literal_form: Unshaved heads, uncut nails, and avoidance of washing except hands
+    for meals during mourning.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: body placement and barkcloth cutting
+  summary: The body is positioned for burial, and the grandson enters the grave with
+    a knife to cut corners from the barkcloth wrapping.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: widow selection and no-looking-back departure
+  summary: The grandson throws the knife at a childless widow, who becomes his wife,
+    and he leaves the grave without looking back while she follows.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: heir barkcloth rite
+  summary: A chosen heir either passes under a barkcloth held over the body at the
+    funeral or, if late, spreads a barkcloth over the grave.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: granddaughter substitute rite
+  summary: Where no grandson is available in some clans, a granddaughter may perform
+    the grave barkcloth cutting and claim a widow as servant.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: grave filling and sponging
+  summary: The grave is filled with barkcloths and earth, women help stamp it down,
+    a mound is raised, and participants sponge hands and feet before casting the sponges
+    on the grave.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: mourning and delayed completion
+  summary: Mourners stay in the house for a long mourning period with grooming restrictions;
+    if the grandson was absent, a protruding barkcloth corner enables him to complete
+    the rite later and satisfy the ghost.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: grandchild grave-side barkcloth rite
+  taxonomy_refs: []
+  basis: The grandson enters the grave, cuts the barkcloth, is called the mulindi,
+    and the absence of such a grandson is considered a reproach; in limited cases
+    a granddaughter substitutes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic funeral rite; no broader comparative taxonomy
+    assignment is made from the passage alone.
+- id: motif:2
+  label: widow selection by thrown knife
+  taxonomy_refs: []
+  basis: After cutting the barkcloth, the grandson throws the knife at a childless
+    widow, who becomes his wife and follows him from the grave.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage describes a social-ritual transfer but does not explain its
+    symbolism.
+- id: motif:3
+  label: heir's barkcloth passage or grave covering
+  taxonomy_refs: []
+  basis: A chosen heir present at burial passes under a barkcloth held over the body;
+    a late-arriving heir spreads a barkcloth over the grave.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage identifies the actor as heir but does not provide a wider
+    succession theory.
+- id: motif:4
+  label: post-burial hand-and-foot sponging
+  taxonomy_refs: []
+  basis: Participants who fill the grave sponge hands and feet with plantain-stem
+    sponges and throw the sponges onto the grave.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No explicit purification interpretation is stated in the passage.
+- id: motif:5
+  label: extended mourning with bodily restrictions
+  taxonomy_refs: []
+  basis: Mourners remain in the house of the body for two to six months and do not
+    shave heads, cut nails, or wash except hands for meals.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage states restrictions but does not explain their meaning.
+- id: motif:6
+  label: deferred rite to satisfy ghost
+  taxonomy_refs: []
+  basis: If the grandson is absent, a barkcloth corner remains protruding so he can
+    later perform the ceremony, take the woman, and satisfy the ghost.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage names the ghost but gives no further account of afterlife
+    beliefs here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5962-5967
+  quote_or_summary: The dead body is positioned for burial; a grandson enters the
+    grave, receives a knife, and cuts corners from the barkcloth wrapping near the
+    head and foot.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 5967-5972
+  quote_or_summary: The grandson throws the knife at a childless widow, who becomes
+    his wife; the performer is called the mulindi and leaves the grave without looking
+    back while the woman follows.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 5973-5979
+  quote_or_summary: In some clans, the chosen heir passes under a barkcloth held by
+    four men over the body, or if late spreads a barkcloth over the grave; the clan
+    prefers the heir to be appointed before the funeral.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 5980-5984
+  quote_or_summary: Where there is no grandson in one or two clans, a granddaughter
+    may stand in the grave, cut the barkcloth corner, and claim one widow as her servant.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 5984-5992
+  quote_or_summary: The grave is filled with barkcloths and earth, women help fill
+    and stamp it down, a mound is raised, and participants sponge hands and feet with
+    plantain-stem sponges which they throw on the grave.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 5992-5996
+  quote_or_summary: Mourners return to the house in which the body had lain and remain
+    through mourning for two to six months; lacking a grandson for the barkcloth ceremony
+    is considered a reproach.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 5996-6000
+  quote_or_summary: If the grandson cannot arrive for the funeral, a barkcloth corner
+    is left protruding so he can later perform the ceremony, take the woman, and satisfy
+    the ghost.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 6000-6005
+  quote_or_summary: During mourning, mourners may not shave their heads, cut their
+    nails, or wash except to wash hands for meals.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; summary based on supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on the supplied English passage, with some OCR noise
+    in the text. Candidate motifs are descriptive passage-level patterns only. No
+    comparison claims were generated because the passage gives no explicit comparative
+    basis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned because the supplied taxonomy list did not contain exact matches for these funeral-rite objects or patterns.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l5962-l6005
+  passage_sha256=639750261c53703b1d2c7274f3d6830345f6170831ed4a933301ebe6bf7ee8c1
+

@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l13346-l13381
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION CXXIX / SECTION CXXX / SECTION CXXXI / SECTION CXXXII; lines 13346-13381
+  start: '13346'
+  end: '13381'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: '"Know me for thy friend."'
+  summary: Drona comes before King Drupada and claims friendship. Drupada rejects
+    the claim, arguing that friendship cannot endure between people of unequal status,
+    wealth, birth, learning, or martial rank. Drona becomes angry, resolves on a course
+    of action, and leaves the Panchala capital for the Kuru capital.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Drona, described as the mighty son of Bharadwaja, presents himself before
+    Drupada and tells him to know him as his friend.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Drupada is described as the monarch and lord of the Panchalas.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Drupada reacts with anger, contracted brows, and reddened eyes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Drupada says that their earlier friendship existed when they were equally
+    circumstanced, but that time impairs friendship.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Drupada states that friendship cannot subsist between people unequal in wealth,
+    learning, courage, birth, martial rank, or kingship.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After hearing Drupada, Drona becomes filled with wrath and decides on a course
+    of action.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Drona leaves the Panchala capital and heads toward the Kuru capital, which
+    is described as named after the elephant.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vaisampayana
+  description: Speaker who narrates the episode to the king.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Drona / son of Bharadwaja
+  description: A Brahmana and mighty son of Bharadwaja who approaches Drupada as a
+    friend, is rejected, becomes wrathful, and leaves for the Kuru capital.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Drupada / lord of the Panchalas
+  description: A king who rejects Drona's claim of friendship on grounds of unequal
+    wealth and status.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: narrator
+  assigned_to:
+  - fig:1
+  basis: The passage frames the events as speech by Vaisampayana.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: rejected former friend
+  assigned_to:
+  - fig:2
+  basis: Drona claims friendship with Drupada and is rejected by him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: status-conscious monarch
+  assigned_to:
+  - fig:3
+  basis: Drupada rejects friendship with Drona by invoking differences in wealth,
+    status, birth, martial rank, and kingship.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: angered avenger-in-formation
+  assigned_to:
+  - fig:2
+  basis: After Drupada's address, Drona becomes wrathful and resolves on a course
+    of action to check the king's insolence.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Time impairing friendship
+  literal_form: Time described as impairing everything and wearing off friendship
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Angry royal face
+  literal_form: contracted brows and reddened eyes
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Panchala capital departure
+  literal_form: Drona leaving the Panchala capital
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Drona claims friendship before Drupada
+  summary: Drona appears before Drupada and addresses him as a friend.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Drupada rejects unequal friendship
+  summary: Drupada angrily denies that a king can maintain friendship with an impoverished
+    or lower-status person and generalizes that friendship requires equality of status
+    or power.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Drona leaves in wrath
+  summary: Drona becomes angry, decides how to respond to Drupada's insolence, and
+    departs from the Panchala capital toward the Kuru capital.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Rejected friendship between unequals
+  taxonomy_refs: []
+  basis: The passage centers on Drupada's refusal to acknowledge Drona as a friend
+    because he sees friendship as impossible between unequal social, economic, martial,
+    or royal positions.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a social argument and personal insult; no
+    broader taxonomy label is explicitly supplied.
+- id: motif:2
+  label: Humiliation provoking retaliatory resolve
+  taxonomy_refs: []
+  basis: After Drupada's insulting rejection, Drona becomes wrathful, resolves on
+    action, and leaves to check the king's insolence.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not yet narrate the retaliation itself, only Drona's
+    anger and decision.
+- id: motif:3
+  label: Departure after insult
+  taxonomy_refs:
+  - departure
+  basis: Drona hastily leaves the Panchala capital after being insulted by Drupada
+    and goes toward the Kuru capital.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The departure is literal and consequential, but the passage alone does
+    not frame it as a full heroic or ritual departure pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13346-13350
+  quote_or_summary: Drona presents himself before Drupada and says, "Know me for thy
+    friend."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 13350-13355
+  quote_or_summary: Drupada, lord of the Panchalas and proud of wealth, becomes wrathful,
+    with contracted brows and reddened eyes, and addresses Drona harshly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13355-13363
+  quote_or_summary: Drupada says that former friendship existed when the two were
+    equally circumstanced, but that Time impairs everything, including friendship,
+    and anger also destroys it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13363-13376
+  quote_or_summary: Drupada says friendship cannot subsist between poor and rich,
+    learned and unlearned, hero and coward, impure and pure birth, non-car-warrior
+    and car-warrior, or non-king and king.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13377-13380
+  quote_or_summary: After Drupada's words, Drona becomes filled with wrath, reflects,
+    decides on a course of action, and wishes to check Drupada's insolence.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13380-13381
+  quote_or_summary: Drona hastily leaves the Panchala capital and goes toward the
+    Kuru capital, described as named after the elephant.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive;
+    only the literal departure is tentatively mapped to an available taxonomy family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l13346-l13381
+  passage_sha256=d3518239a533e7233f0a57ecd7bc349c5463e91af9230eaa63c4e3c645f3bbc8
+

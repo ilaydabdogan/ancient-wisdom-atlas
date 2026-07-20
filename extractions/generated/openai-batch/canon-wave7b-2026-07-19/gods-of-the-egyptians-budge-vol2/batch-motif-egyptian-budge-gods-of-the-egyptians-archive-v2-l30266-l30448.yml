@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l30266-l30448
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 30266-30448
+  start: '30266'
+  end: '30448'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetic index excerpt listing Egyptian names, divine or priestly
+    labels, places, named boats, stars, symbols, and volume/page references. It is
+    not a continuous mythic narrative.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section with entries and volume/page references rather
+    than a narrated episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sekhet-Aarru is listed as an entry; related entries identify it with the 1st
+    Aat and mention 21 pylons.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The index lists two named boats: the Sektet Boat and the Semket Boat.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index distinguishes Sem as a god and Sem as a priest in separate entries.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Semsu is described as a name of Ra, and Senem is described as a ka of Ra.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Sekhet and Sept are each associated parenthetically with Isis in separate
+    entries.
+  category: relationship
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: obs:7
+  text: Sept has index entries as a city, a god, a nome, a star, a symbol, an Isis-related
+    entry, and a ka of Ra.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The index includes an entry for gods of the senses.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Sem (god)
+  description: Index entry labels Sem as a god.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Sem (priest)
+  description: Separate index entry labels Sem as a priest.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ra
+  description: Ra is referenced in entries where Semsu is called a name of Ra and
+    Senem and Sept are called ka-related entries of Ra.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Isis
+  description: Isis is named parenthetically in entries for Sekhet and Sept.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Sept (god)
+  description: Index entry labels Sept as a god.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Senses, gods of
+  description: Index entry refers to gods of the senses.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: explicitly labeled god or gods
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:6
+  basis: The index uses labels such as “god” and “gods of.”
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:2
+  label: priest
+  assigned_to:
+  - fig:2
+  basis: The index explicitly labels Sem as a priest.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: referent of name and ka entries
+  assigned_to:
+  - fig:3
+  basis: Entries describe Semsu as a name of Ra and Senem and Sept in relation to
+    the ka of Ra.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: parenthetical identification or association
+  assigned_to:
+  - fig:4
+  basis: Entries present Sekhet and Sept with Isis in parentheses.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:5
+  label: associated with senses
+  assigned_to:
+  - fig:6
+  basis: The entry is “Senses, gods of.”
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Sektet Boat
+  literal_form: named boat
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Semket Boat
+  literal_form: named boat
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Sekhet-Aarru with pylons
+  literal_form: place or field entry associated with 21 pylons
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Sept star
+  literal_form: star entry associated with the name Sept
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: symbol of Sept
+  literal_form: symbol entry; form not specified in this index excerpt
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: named boats or vessels
+  taxonomy_refs:
+  - ark_vessel
+  basis: The index records the Sektet Boat and Semket Boat as named boat entries.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage is only an index; it gives no narrative function, voyage,
+    ritual use, or mythic action for the boats.
+- id: motif:2
+  label: pyloned sacred place or field
+  taxonomy_refs: []
+  basis: Sekhet-Aarru is indexed with related entries including “1st Aat” and “21
+    pylons of.”
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage does not describe the place, the pylons, or any journey through
+    them.
+- id: motif:3
+  label: multiple indexed forms, names, or aspects of divine figures
+  taxonomy_refs: []
+  basis: The index lists names or ka entries of Ra, parenthetical associations with
+    Isis, and multiple categories for Sept.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: low
+  cautions: This is an index pattern rather than a narrated mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 30266-30448
+  quote_or_summary: Alphabetic index entries from “Sekhen-ta-en-ur” through “Seqet-hra,”
+    each followed by volume and page citations.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; full text allowed by supplied metadata.
+- id: ev:2
+  type: quote
+  locator: lines 30266-30448; Sekhet-Aarru entries
+  quote_or_summary: "“Sekhet-Aarru = 1st Aat” and “Sekhet-Aarru, 21 pylons of.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 30266-30448; boat entries
+  quote_or_summary: "“Sektet Boat” and “Semket Boat.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 30266-30448; Sem entries
+  quote_or_summary: "“Sem (god)” and “Sem, priest.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 30266-30448; Ra-related entries
+  quote_or_summary: "“Semsu, name of Ra” and “Senem, ka of Ra.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 30266-30448; Sept entries
+  quote_or_summary: The index lists Sept as city, god, nome, star, symbol, Isis-related
+    entry, and ka of Ra.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 30266-30448; Senses entry
+  quote_or_summary: "“Senses, gods of.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt used for evidence.
+- id: ev:8
+  type: quote
+  locator: lines 30266-30448; Sekhet/Isis entry
+  quote_or_summary: "“Sekhet (Isis).”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward because the passage is an index. Motif
+    candidates are weak because no narrative or ritual context is provided. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Index-only passage; scenes and comparison claims are intentionally empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l30266-l30448
+  passage_sha256=2c244b9442eed4e1cc481e1bdc6ec6d2727c92ec133e974fe52869345bfe3249
+

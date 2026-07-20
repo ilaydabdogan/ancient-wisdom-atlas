@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l102828-l102934
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: KEITH S / ARANYAKA IV / ARANYAKA V / ADHYAYA 2.; lines 102828-102934
+  start: '102828'
+  end: '102934'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives technical instructions and notes for arranging two large
+    liturgical verse sequences: eighty gayatri tristichs and eighty brhati tristichs.
+    It lists Rig Veda hymn incipits and verse ranges, states which stanzas or pragathas
+    are omitted or substituted, names Indra, Agni, Soma, sacrificers, and Sudas in
+    cited hymn openings, and compares counts or arrangements with the Sankhayana Srauta
+    Sutra and Aitareya.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A first sequence is identified as eighty gayatri tristichs, followed by a
+    list of Rig Veda hymn portions and a concluding sadadohas verse.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The unnamed arranger removes, omits, or substitutes specified verses, including
+    replacing one Soma verse with a verse beginning 'No other mighty one'.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Notes for the first sequence enumerate component verse ranges and give a total
+    of 240 verses.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A second sequence is identified as eighty brhati tristichs and includes listed
+    Rig Veda hymn portions, omissions of specified stanzas, a substitution for the
+    Sudas chariot pragatha, Valakhilya hymns, and a concluding sadadohas verse.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:5
+  text: Notes for the second sequence give another total of 240 verses and state that
+    80 of them are satobrhati verses.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: The passage cites Sankhayana Srauta Sutra variants for both sequences and
+    notes differences in counts, omissions, and arrangement.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: obs:7
+  text: Soma is mentioned in cited hymn openings as a drink, including sweet or fragrant
+    draughts and Indra as a drinker of Soma.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:8
+  text: Agni is named in a cited hymn opening about kindling, and sacrificers are
+    named in another hymn opening.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Unnamed arranger or reciter
+  description: The passage repeatedly says 'he' takes out, omits, inserts, or substitutes
+    verses in the liturgical sequence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Indra
+  description: Indra appears in multiple cited hymn openings, including as great,
+    mighty, a drinker of Soma, invoked for food, and bearer of blessings.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Agni
+  description: Agni is named in the cited hymn opening 'Those that kindle Agni'.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sacrificers
+  description: Sacrificers are named in the cited hymn opening 'May not thee the sacrificers'.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Sudas
+  description: Sudas is named in the omitted pragatha described as 'No one Sudas'
+    chariot'.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: verse arranger or selector
+  assigned_to:
+  - fig:1
+  basis: The passage attributes repeated actions of taking out, omitting, and inserting
+    verses to an unnamed 'he'.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: invoked deity named in hymn openings
+  assigned_to:
+  - fig:2
+  basis: Indra is addressed or named in several cited hymn openings, including 'For
+    us, O Indra' and 'When, Indra'.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: Soma drinker
+  assigned_to:
+  - fig:2
+  basis: One cited opening says Indra is the drinker of Soma beyond others.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: kindled divine or fiery figure
+  assigned_to:
+  - fig:3
+  basis: Agni is named in a hymn opening about those who kindle him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: ritual sacrificers
+  assigned_to:
+  - fig:4
+  basis: The group is named directly in a cited hymn opening.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: named person associated with a chariot formula
+  assigned_to:
+  - fig:5
+  basis: Sudas is mentioned only in connection with an omitted pragatha about his
+    chariot.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Soma
+  literal_form: Soma as sweet or fragrant draught and as the drink associated with
+    Indra.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Agni as kindled fire
+  literal_form: Agni named in the phrase 'Those that kindle Agni'.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Cake
+  literal_form: A cited hymn opening begins 'A cake for us'.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Sudas' chariot
+  literal_form: The omitted pragatha is identified by the phrase 'No one Sudas' chariot'.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: counted verse sequences
+  literal_form: The repeated numbered forms of eighty tristichs and totals of 240
+    verses.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:7
+scenes:
+- id: scene:1
+  label: Arrangement of the gayatri tristich sequence
+  summary: The unnamed arranger lists the eighty gayatri tristichs by Rig Veda hymn
+    incipits, omits or substitutes specified verses, includes references to Indra,
+    Soma, Agni, and a cake, and ends with a sadadohas verse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Counting and variant note for the gayatri sequence
+  summary: The notes enumerate the verse ranges contributing to the first sequence,
+    total them as 240 verses, and cite a Sankhayana Srauta Sutra arrangement with
+    a count reduced by omission.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Arrangement of the brhati tristich sequence
+  summary: The second sequence lists eighty brhati tristichs, with omissions of stanzas
+    and pragathas, insertion of another pragatha, references to Indra, Soma, sacrificers,
+    Valakhilya hymns, Sudas' chariot, and a concluding sadadohas verse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Counting and variant note for the brhati sequence
+  summary: The notes give a 240-verse total for the second sequence, identify 80 satobrhati
+    verses, and compare the brhati arrangement with Sankhayana and Aitareya material.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacrificial liturgical recitation sequence
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage arranges hymn groups around ritual and offering vocabulary such
+    as Soma, cake, Agni, sacrificers, and the sadadohas verse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is a technical verse catalogue rather than a narrative description
+    of a sacrifice.
+- id: motif:2
+  label: Soma drinking and invocation
+  taxonomy_refs: []
+  basis: Cited hymn openings describe Indra as the drinker of Soma, mention sweet
+    or fragrant Soma draughts, and include Soma in invocatory contexts.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage provides hymn incipits only, not the full Soma myth or ritual
+    episode.
+- id: motif:3
+  label: ritual omission and substitution of sacred verses
+  taxonomy_refs: []
+  basis: Both listed sequences are built through specified omissions, removals, and
+    substitutions of verses or pragathas.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a textual-ritual pattern and may not function as a mythological
+    motif in the usual narrative sense.
+comparison_claims:
+- id: claim:1
+  claim: The passage notes that the Sankhayana Srauta Sutra gives a related arrangement
+    for the gayatri sequence, with a count difference that is resolved by omitting
+    one group.
+  claim_level: same_function
+  target: Sankhayana Srauta Sutra XVII, 7
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal ritual-textual comparison, not evidence by itself
+    for historical contact or a shared mythic narrative.
+- id: claim:2
+  claim: The passage notes a related brhati arrangement in the Sankhayana Srauta Sutra
+    and explicitly says the whole brhati arrangement is as in the Aitareya.
+  claim_level: same_function
+  target: Sankhayana Srauta Sutra XVIII, 8-11 and Aitareya
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns verse arrangement and liturgical function,
+    not a separate comparative myth claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 102828-102842
+  quote_or_summary: Section 3 begins the eighty gayatri tristichs, lists Rig Veda
+    hymn openings and verse portions, describes omissions and substitutions, and ends
+    with the sadadohas verse.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 102829-102841
+  quote_or_summary: The listed hymn openings include references to Indra, Soma draughts,
+    a verse beginning 'No other mighty one', a verse 'Born with a hundred strengths',
+    hymns on the deeds of the impetuous one, and 'Those that kindle Agni'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 102843-102869
+  quote_or_summary: The note enumerates Rig Veda verse ranges for the gayatri sequence,
+    totals them as 240 verses, and cites Sankhayana Srauta Sutra XVII, 7 with 81 trcas
+    reduced to 80 by an omission.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 102870-102884
+  quote_or_summary: Section 4 begins the eighty brhati tristichs and lists portions
+    of hymns beginning 'Sing of nought else', 'Drink the fragrant Soma', 'When, Indra',
+    and 'We with the Soma thee'.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 102878-102888
+  quote_or_summary: The passage says the arranger omits parts of the hymn 'May not
+    thee the sacrificers', omits the pragatha identified with Sudas' chariot, and
+    inserts another pragatha in its place.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 102888-102902
+  quote_or_summary: The sequence continues with six Valakhilya hymns, further hymns
+    and omissions, eleven stanzas beginning 'Who is king of men', other hymns, nine
+    verses of a hymn on Indra's blessings, and the sadadohas verse.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 102903-102934
+  quote_or_summary: The notes total the brhati material as 240 verses, state that
+    80 are satobrhati verses, give a Sankhayana Srauta Sutra arrangement, and conclude
+    that the whole brhati arrangement is as in the Aitareya.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is mostly secure for sequence, figure-name, and symbol-name data.
+    Confidence is reduced by OCR noise and the passage's tabular/technical nature;
+    motif assignments should be reviewed because the passage is not a myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external texts or taxonomy identifiers beyond the provided lists were used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l102828-l102934
+  passage_sha256=5438023d6e7c2514c94732418c1639a5d7cea87636512d35fd9031e46fda746e
+

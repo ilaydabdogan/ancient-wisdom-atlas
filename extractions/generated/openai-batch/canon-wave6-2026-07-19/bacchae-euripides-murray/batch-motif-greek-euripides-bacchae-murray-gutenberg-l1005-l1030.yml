@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1005-l1030
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: PENTHEUS. / DIONYSUS. / PENTHEUS. / DIONYSUS.; lines 1005-1030
+  start: '1005'
+  end: '1030'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: I have vowed it to my God; 'tis holy hair.
+  summary: Dionysus says Pentheus is afflicted by blindness of heart and has blasphemed
+    God. Pentheus insults Dionysus as a mystery-priest and orders soldiers to cut
+    off a delicate curl. Dionysus says the hair is vowed to his God and holy, and
+    the soldiers cut off the tress.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dionysus says the fault or doom is Pentheus's because of blindness of heart
+    and blaspheming God.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pentheus calls Dionysus a ready knave, brazen-browed, and a mystery-priest.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Dionysus asks Pentheus to state his doom and what dire thing Pentheus will
+    do to him.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pentheus orders that a delicate dangling curl be sheared first and beckons
+    soldiers to approach Dionysus.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Dionysus says the hair has been vowed to his God and is holy.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The soldiers cut off the tress.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Named speaker who accuses Pentheus of blindness and blasphemy, is called
+    a mystery-priest by Pentheus, and whose vowed holy hair is cut.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Pentheus
+  description: Named speaker who insults Dionysus and orders a curl to be cut from
+    him.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: soldiers
+  description: Soldiers approach Dionysus at Pentheus's beckoning and cut off the
+    tress.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: God
+  description: Divine referent named in Dionysus's speech as blasphemed by Pentheus
+    and as the recipient of the vow concerning the hair.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: insulted mystery-priest
+  assigned_to:
+  - fig:1
+  basis: Pentheus calls Dionysus a knave and a mystery-priest.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: target of ordered shearing
+  assigned_to:
+  - fig:1
+  basis: Pentheus orders the curl cut, and soldiers cut Dionysus's tress.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: authority ordering punishment
+  assigned_to:
+  - fig:2
+  basis: Pentheus commands that the curl be sheared and summons the soldiers.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: accused blasphemer
+  assigned_to:
+  - fig:2
+  basis: Dionysus says Pentheus has blindness of heart and has blasphemed God.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: executors of shearing
+  assigned_to:
+  - fig:3
+  basis: The soldiers approach Dionysus and cut off the tress.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: recipient of vow and object of blasphemy
+  assigned_to:
+  - fig:4
+  basis: Dionysus refers to God as blasphemed and says the hair was vowed to his God.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: holy hair
+  literal_form: A delicate dangling curl or tress that Dionysus says is vowed to his
+    God and holy.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Accusation and insult
+  summary: Dionysus attributes Pentheus's condition to blindness of heart and blasphemy.
+    Pentheus responds by insulting Dionysus as a knave and mystery-priest, and Dionysus
+    asks what doom Pentheus intends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Cutting of the vowed tress
+  summary: Pentheus orders a dangling curl cut from Dionysus. Dionysus says the hair
+    is vowed to his God and holy, and the soldiers cut off the tress.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Violation of consecrated hair
+  taxonomy_refs: []
+  basis: The passage identifies Dionysus's hair as vowed to God and holy, then shows
+    Pentheus ordering it cut and the soldiers cutting it off.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The supplied taxonomy has no specific hair symbol; the motif label remains
+    passage-level rather than taxonomy-mapped.
+- id: motif:2
+  label: Blasphemy and threatened divine judgment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Dionysus says Pentheus's doom or fault is due to blindness of heart and blaspheming
+    God, immediately before Pentheus threatens and humiliates him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage names blasphemy and impending doom but does not itself narrate
+    the completed judgment.
+- id: motif:3
+  label: Hostile authority humiliates a mystery-priest
+  taxonomy_refs: []
+  basis: Pentheus calls Dionysus a mystery-priest and then orders soldiers to shear
+    a visible part of him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives the insult and punitive act, but broader ritual or initiatory
+    context is not supplied in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1005-1008
+  quote_or_summary: Dionysus says, “Not mine; but thine,” citing “Blindness of heart”
+    and “blaspheming God.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 1009-1014
+  quote_or_summary: Pentheus calls Dionysus “A ready knave” and “This mystery-priest.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 1015-1018
+  quote_or_summary: Dionysus asks, “what it shall be, / My doom” and what dire thing
+    Pentheus will do to him.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 1019-1023
+  quote_or_summary: Pentheus orders that the delicate dangling curl be sheared first
+    and beckons soldiers to approach Dionysus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1024-1030
+  quote_or_summary: Dionysus says, “I have vowed it to my God; 'tis holy hair,” and
+    the soldiers cut off the tress.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied excerpt. Motif candidates
+    are limited to the immediate passage and avoid broader play context. No comparison
+    claims are made because the excerpt itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage text and metadata; available taxonomy refs were applied only where directly supportable.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1005-l1030
+  passage_sha256=e249bde18668a56b04c8fdddfe9fdb39343cf9430a00af96ff1f538be484615f
+

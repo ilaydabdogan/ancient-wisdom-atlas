@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l2432-l2455
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: PCEM ANDRES, THE SHEPHERD OF MEN 39 / PCEMANDRES, THE SHEPHERD OP MEN 41
+    / PCEM ANDRES, THE SHEPHERD OP MEN 43 / PCEM ANDRES, THE SHEPHERD OF MEN 45; lines
+    2432-2455
+  start: '2432'
+  end: '2455'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage comments on a shift at §27 toward public proclamation: an
+    enthusiastic man seeks to communicate knowledge of a saving teaching to all, an
+    uncompromising appeal to repentance is described, and the author speculates that
+    an obscure historical pressure may have forced the community into public propaganda,
+    possibly in relation to early Christian and Jewish preaching.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man is introduced as eager to communicate either the teaching itself or
+    knowledge of its existence and saving power to all without distinction.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the fortunes of a propagandist endeavor are sketched in a
+    few sentences.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An uncompromising appeal is described as a call to repentance.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage characterizes the atmosphere as Hebrew rather than Greek and prophetical
+    rather than philosophical.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The propagandist phase is said to appear forced on the community, as though
+    something compelled it to proclaim its existence publicly.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author says the historical indications are obscure, and treats nascent
+    Christianity and prior Jewish propaganda as conjectural contextual factors.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: enthusiastic propagandist man
+  description: A man described as burning with enthusiasm to communicate the teaching
+    or knowledge of its saving power.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the community
+  description: A community whose propagandist phase appears to have been forced upon
+    it, compelling public proclamation of its existence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: nascent Christianity
+  description: A movement mentioned conjecturally as possibly having wrought the change
+    toward propaganda.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the Jews
+  description: A group mentioned as having made energetic propaganda prior to Christianity.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: communicator of saving knowledge
+  assigned_to:
+  - fig:1
+  basis: The man is described as eager to communicate the teaching or knowledge of
+    its existence and saving power to all.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: caller to repentance
+  assigned_to:
+  - fig:1
+  basis: The propagandist appeal is described as an uncompromising call to repentance.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: community drawn into public proclamation
+  assigned_to:
+  - fig:2
+  basis: The passage says something seems to have obliged the community to enter general
+    life and proclaim its existence publicly.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: conjectured influence on propagandist turn
+  assigned_to:
+  - fig:3
+  basis: The author raises vigorous preaching by nascent Christianity as a conjectural
+    factor, while limiting the claim.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: prior propagandists
+  assigned_to:
+  - fig:4
+  basis: The passage states that before Christianity there was energetic propaganda
+    made by the Jews.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Public proclamation of saving knowledge
+  summary: An enthusiastic man is presented as seeking to communicate knowledge of
+    a saving teaching broadly, and the effort is framed as propagandist.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Community compelled into public religious life
+  summary: The community is described as apparently forced into public proclamation
+    by an obscure compulsion, with early Christian and Jewish preaching mentioned
+    only as conjectural context.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: saving knowledge proclaimed to all
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on communicating knowledge of a teaching's existence
+    and saving power to all without distinction.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is commentary on a textual shift and does not give the content
+    of the teaching itself.
+- id: motif:2
+  label: public call to repentance
+  taxonomy_refs: []
+  basis: The appeal is explicitly described as uncompromising and as a clarion call
+    to repentance.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a rhetorical and religious pattern in the commentary, not a fully
+    narrated mythic episode.
+- id: motif:3
+  label: esoteric community forced into public proclamation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage suggests a community was compelled to enter general life and
+    publicly proclaim its existence.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The author says the historical indications are obscure and gives no exact
+    cause.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the appeal's atmosphere and function to Hebrew
+    prophetic repentance discourse rather than Greek philosophical discourse.
+  claim_level: same_function
+  target: Hebrew prophetic call to repentance
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the commentator's characterization of tone and function; the
+    passage does not provide detailed textual parallels.
+- id: claim:2
+  claim: The passage cautiously entertains a possible historical relationship between
+    the community's propagandist turn and the preaching of nascent Christianity, while
+    also noting prior Jewish propaganda.
+  claim_level: historical_contact
+  target: nascent Christianity and Jewish propaganda
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:3
+  confidence: low
+  limitations: The passage explicitly says the historical indications are obscure
+    and that attributing the change solely to Christianity would take part for whole.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2432-2437
+  quote_or_summary: A man is introduced as eager to communicate knowledge of a teaching's
+    "saving power" to all.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 2437-2442
+  quote_or_summary: The effort is called propagandist, with a "clarion call to repentance"
+    and a Hebrew/prophetical atmosphere.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 2443-2449
+  quote_or_summary: The propagandist phase appears forced on the community; something
+    obliged it to enter general life, but the historical indications are obscure.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2450-2455
+  quote_or_summary: The author conjectures that vigorous preaching by nascent Christianity
+    may have influenced the change, but says this would be partial because Jewish
+    propaganda preceded Christianity.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is secondary commentary rather than a mythic narrative; motif
+    candidates are therefore rhetorical and doctrinal patterns extracted from the
+    commentary's own descriptions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No literal taxonomy-listed symbols are present; fire-like language such as burning enthusiasm is treated as metaphor and not mapped to the fire symbol.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l2432-l2455
+  passage_sha256=29c9984611d247ad6121edbcaf3458f2b73de23d40add95f30b0ed33f5848a23
+

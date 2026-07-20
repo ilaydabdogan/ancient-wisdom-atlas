@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.chinese-i-ching-sbe16-legge-archive-l1598-l1613
+source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+passage_locator:
+  label: CH. 1. INTRODUCTION. 3 / CH. I, INTRODUCTION. 5 / CH. 11, INTRODUCTION. 9
+    / CHAPTER II.; lines 1598-1613
+  start: '1598'
+  end: '1613'
+  translation: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the numbers from 1 to 9 are arranged so as to make 15
+  summary: The passage treats a numerical arrangement associated with the River Map
+    as an arithmetical puzzle comparable to a magic square, then states that the Yi
+    of X4u contains, under each of the 64 hexagrams, brief symbolically expressed
+    essays of moral, social, or political character. A footnote credits earlier sources
+    for a dissection of the Lo writing.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage describes an arithmetical puzzle in which the numbers from 1 to
+    9 are arranged so that additions produce 15.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author says that, if the original form of the River Map were available,
+    it would probably be a numerical trifle and not more supernatural than a magic
+    square.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that the Yi of X4u contains, under each of the 64 hexagrams,
+    a brief essay of moral, social, or political character, expressed symbolically.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A footnote says the dissection, also called reductio ad absurdum, of the Lo
+    writing was first indebted to P. Regis and is also found in KQ Hsf's appendix
+    to his lessons on the Yi for the young.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: P. Regis
+  description: Cited as an earlier source to whom the author was first indebted for
+    the dissection of the Lo writing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: KQ Hsf
+  description: Cited as also having the dissection in an appendix to his lessons on
+    the Yi for the young.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: cited source for Lo writing dissection
+  assigned_to:
+  - fig:1
+  basis: The footnote says the author was first indebted to P. Regis for the dissection
+    of the Lo writing.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: cited parallel source for Lo writing dissection
+  assigned_to:
+  - fig:2
+  basis: The footnote says KQ Hsf also has the dissection in an appendix to lessons
+    on the Yi.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Numbers 1 to 9 summing to 15
+  literal_form: arithmetical arrangement of the numbers from 1 to 9 so that additions
+    make 15
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: River Map
+  literal_form: the original form of ‘the River Map,’ described conjecturally as a
+    numerical trifle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Magic square
+  literal_form: magic square used as the comparison for the numerical arrangement
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Yi of X4u and its 64 hexagrams
+  literal_form: the Yi of X4u containing 64 hexagrams, each with a brief symbolic
+    essay
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Lo writing
+  literal_form: Lo writing subjected to a dissection or reductio ad absurdum
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Numerical comparison of the River Map
+  summary: The author presents the River Map as probably a simple numerical arrangement
+    comparable to a magic square rather than something supernatural.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Symbolic essays beneath hexagrams
+  summary: The passage returns to the Yi of X4u and describes its 64 hexagrams as
+    each accompanied by brief symbolic essays with moral, social, or political content.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Footnote on Lo writing sources
+  summary: A note identifies P. Regis and KQ Hsf as sources connected with the dissection
+    of the Lo writing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: magic-square numerical order
+  taxonomy_refs: []
+  basis: The passage describes a numerical arrangement of 1 through 9 that makes 15
+    and compares the River Map to a magic square.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage frames this as arithmetic rather than a supernatural or narrative
+    myth motif.
+- id: motif:2
+  label: symbolic moral-political counsel through hexagrams
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that each of the 64 hexagrams has a brief essay of moral,
+    social, or political character that is symbolically expressed.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The taxonomy link to wisdom is interpretive; the passage itself describes
+    symbolic moral, social, and political essays but does not use the term wisdom.
+- id: motif:3
+  label: demystification of a sacred numerical diagram
+  taxonomy_refs: []
+  basis: The River Map is described as probably no more than a numerical trifle and
+    not more supernatural than a magic square.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a scholarly interpretive pattern in the passage, not a traditional
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the River Map's likely original form to an
+    arithmetical puzzle or magic square.
+  claim_level: same_function
+  target: magic square / arithmetical puzzle
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is conjectural and demystifying; it does not claim historical
+    contact, common inheritance, or mythic equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1598-1603
+  quote_or_summary: The passage describes numbers 1 to 9 arranged to make 15 and says
+    the original River Map would probably be a numerical trifle, no more supernatural
+    than a magic square.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:2
+  type: summary
+  locator: lines 1605-1608
+  quote_or_summary: The passage returns to the Yi of X4u and says it contains, under
+    each of the 64 hexagrams, a brief moral, social, or political essay expressed
+    symbolically.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:3
+  type: summary
+  locator: lines 1610-1613
+  quote_or_summary: A footnote says the dissection or reductio ad absurdum of the
+    Lo writing was indebted first to P. Regis and is also present in KQ Hsf's appendix
+    to lessons on the Yi for the young.
+  source_text_path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  rights_note: Public domain source metadata; neutral summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is expository and scholarly rather than narrative; literal extraction
+    is straightforward, while motif labeling is limited to numerical and symbolic-interpretive
+    patterns directly stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic figures or supernatural actions are present in this passage; the main extractable patterns are numerical arrangement, symbolic hexagram interpretation, and scholarly demystification of the River Map/Lo writing.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:chinese-i-ching-sbe16-legge-archive__l1598-l1613
+  passage_sha256=864f071f560da7448ac11fde0376ee165cbec652d36143a3309873876a4e832f
+

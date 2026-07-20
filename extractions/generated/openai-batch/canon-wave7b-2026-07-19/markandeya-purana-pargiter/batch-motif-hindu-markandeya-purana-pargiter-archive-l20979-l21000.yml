@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l20979-l21000
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: CANTO LViir. / ASTEOLOGICAL APPLICATIONS. / CANTO LVni. / Canto LIX.; lines
+    20979-21000
+  start: '20979'
+  end: '21000'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A canto heading introduces a continued description of the Earth. The speaker
+    Markandeya is said to tell of the continents Bhadrasva and Ketumala, the country
+    of the Northern Kurus, and their mountains, rivers, and people. Markandeya then
+    says he has declared the continent Bharata and names the four ages: Krita, Treta,
+    Dvapara, and Kali. Editorial notes on zodiac signs and textual readings follow.'
+  language: English with transliterated Sanskrit names
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage begins with a Canto LIX heading and describes the subject as a
+    continuation of the description of the Earth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The introductory heading says Markandeya tells of Bhadrasva, Ketumala, the
+    Northern Kurus, and their mountains, rivers, and people.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Markandeya is identified as the speaker.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Markandeya says he has declared the continent Bharata accurately to a muni.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage names Krita, Treta, Dvapara, and Kali as four ages.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Editorial notes mention Taurus and Gemini as zodiac signs and propose corrections
+    to readings.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Markandeya
+  description: Named speaker in the passage heading and speech introduction; the OCR
+    text also shows forms such as Mdrkandeya and Markan<Jeya.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed muni
+  description: The addressee addressed as “O muni” in Markandeya's speech.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: speaker and describer of earthly regions
+  assigned_to:
+  - fig:1
+  basis: The passage says Markandeya spoke and that he declared Bharata and tells
+    of other regions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: addressee
+  assigned_to:
+  - fig:2
+  basis: The speech is addressed to “O muni.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Earth
+  literal_form: Earth
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: named continents and northern country
+  literal_form: Bhadrasva, Ketumala, Northern Kurus, and Bharata
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: mountains
+  literal_form: mountains
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: rivers
+  literal_form: rivers
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: four ages
+  literal_form: Krita, Treta, Dvapara, and Kali ages
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Introduction to continued earth-description
+  summary: The canto heading frames the passage as a continued description of the
+    Earth, naming regions, mountains, rivers, and people as topics.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Markandeya names Bharata and the four ages
+  summary: Markandeya addresses an unnamed muni, says he has declared Bharata, and
+    names Krita, Treta, Dvapara, and Kali as the four ages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: cosmographic description of named earthly regions
+  taxonomy_refs: []
+  basis: The passage presents a continued description of the Earth through named continents
+    or countries and their mountains, rivers, and people.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt is mostly introductory and gives little detail about the regions
+    themselves.
+- id: motif:2
+  label: cycle of four ages
+  taxonomy_refs: []
+  basis: The passage explicitly names Krita, Treta, Dvapara, and Kali as four ages.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt only names the ages and does not describe their cyclical structure
+    or qualities.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 20979-20986
+  quote_or_summary: "“Canto LIX. Description of the Earth continued,” with a heading
+    saying Markandeya tells of Bhadrasva, Ketumala, the Northern Kurus, and their
+    mountains, rivers, and people."
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: quote
+  locator: 20987-20991
+  quote_or_summary: "“Markan<Jeya spoke” and says he has declared “this continent
+    Bharata accurately, O muni.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: quote
+  locator: 20991-20993
+  quote_or_summary: The passage names “the Krita, Treta, and Dvapara, and Kali ages”
+    and identifies them as “the four ages.”
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: 20994-21000
+  quote_or_summary: Editorial footnotes refer to Taurus and Gemini as zodiac signs
+    and suggest corrections to textual readings.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and partly consists of headings, incomplete verse, OCR
+    artifacts, and editorial notes. Motif candidates are limited to directly stated
+    cosmography and four ages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l20979-l21000
+  passage_sha256=4d37f9872ed1a7d4b4826323018ecf4890d3b0acc108dea42ab2595e54b51d0c
+

@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l20769-l20888
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: RHYTHMIC  UNIT / COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND   DRUM / BUEEAU    OF    AMERICAN    ETHNOLOGY
+    / DEXSMOREJ; lines 20769-20888
+  start: '20769'
+  end: '20888'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents song No. 167, titled “The Entire World,” attributed
+    to Ki'.viiwuN in the OCR text. Its gloss states that the entire world weeps for
+    the speaker. The analysis describes it as music for an older dance, notes similarity
+    of its drum rhythm to No. 10, and summarizes its renditions, rhythm, melodic tonality,
+    and relation to combined analyses of several song categories at Waba'cing Village,
+    Red Lake Reservation.
+  language: English with Ojibwe transcription/glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The item is identified as No. 167 and titled “The Entire World.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage attributes the singing of the song to Ki'.viiwuN as rendered in
+    the OCR text.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The interlinear gloss presents the content that the entire world weeps for
+    “me.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The analysis states that the song was said to be music of a dance much older
+    than the ca'wClno'ga.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Three recorded renditions are described as identical except for a prolonged
+    tone before the words in the first rendition.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The song is described as having vigorous rhythm and a distinct rhythmic unit
+    occurring three times in full, with parts found throughout the song.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The melody is described as minor in tonality and as containing only tones
+    of the tonic triad and sixth.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The following section introduces combined analyses of Dream, Mide', Love,
+    Moccasin Game, and Dance Songs from Waba'cing Village, Red Lake Reservation.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ki'.viiwuN
+  description: Named singer of song No. 167 as rendered in the OCR passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: first-person voice in the song
+  description: The “me” for whom the entire world is said to weep in the song gloss.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: singer
+  assigned_to:
+  - fig:1
+  basis: The passage states that No. 167 was sung by Ki'.viiwuN.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: lyrical first-person recipient of weeping
+  assigned_to:
+  - fig:2
+  basis: The gloss states that the entire world weeps for “me.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: entire world
+  literal_form: the entire world / aki' world
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: weeping for the speaker
+  literal_form: weeps for me
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: recurring rhythmic unit
+  literal_form: distinct rhythmic unit occurring three times and in partial forms
+    throughout the song
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: World weeps for the first-person voice
+  summary: The song text presents the entire world as weeping for the first-person
+    “me.”
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Analytical description of an older dance song
+  summary: The passage describes the song as older dance music with three similar
+    renditions, vigorous rhythm, a recurring rhythmic unit, and minor tonality.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: whole-world lament for a first-person speaker
+  taxonomy_refs: []
+  basis: The song gloss states that the entire world weeps for “me.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a very short song text; the passage gives no narrative cause,
+    ritual explanation, or mythic context for the weeping.
+- id: motif:2
+  label: dance song structured by a recurring rhythmic unit
+  taxonomy_refs: []
+  basis: The analysis identifies a vigorous rhythm with a distinct unit occurring
+    three times in full and in partial forms throughout the song.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a musical-pattern observation rather than a narrative mythology
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly notes that the drum rhythm of No. 167 is similar to
+    No. 10, supporting only a local comparison of rhythmic pattern within the corpus.
+  claim_level: same_motif
+  target: No. 10 drum rhythm in the same source corpus
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared No. 10 passage is not included here, and the similarity
+    concerns drum rhythm, not a mythic narrative motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20769-20778
+  quote_or_summary: Song No. 167 is titled “The Entire World,” attributed to Ki'.viiwuN
+    in the OCR text, and marked as having a drum rhythm similar to No. 10.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 20779-20784
+  quote_or_summary: 'The interlinear song text and gloss give the sense: the entire
+    world weeps for me.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: 20785-20794
+  quote_or_summary: The analysis says the song was considered music of a dance much
+    older than the ca'wClno'ga, and that three recorded renditions were identical
+    except for a prolonged tone before the words in the first rendition.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 20795-20803
+  quote_or_summary: The analysis describes vigorous rhythm, a distinct rhythmic unit
+    occurring three times in full with parts throughout the song, and a minor melody
+    using only tones of the tonic triad and sixth.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 20804-20888
+  quote_or_summary: A heading introduces combined analyses of Dream, Mide', Love,
+    Moccasin Game, and Dance Songs from Waba'cing Village, Red Lake Reservation, followed
+    by table headings for melodic analysis and tonality.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly musicological and contains OCR noise in names, words,
+    and table material. Motif extraction is limited to the brief song gloss and explicit
+    rhythmic analysis.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned; the passage does not support the listed symbol or motif-family taxonomy items directly.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l20769-l20888
+  passage_sha256=906c3c0e251f00415625d963f1ea18c16d1d89a24600ff07f8e75113e239b015
+

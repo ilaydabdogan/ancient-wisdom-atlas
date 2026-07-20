@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l29292-l29338
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: BUBEAU  OF  AMEBICAN  ETHNOLOGY / BUREAU  OF  AMERICAN  ETHNOLOGY  BULLETIN  61    PLATE  65
+    / BUBEATJ  OP  AMEBICAN  ETHNOLOGY / BULLETIN  61    PLATE  66; lines 29292-29338
+  start: '29292'
+  end: '29338'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes Plate 66 labels for incidents in the life of Eagle
+    Shield, musical analysis of a song, a narrative of a Sioux attack on a Crow camp
+    in which horses were captured and a return song was sung, and a narrative in which
+    Eagle Shield carried a wounded leader to safety after others deserted him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The melody is classified as irregular with respect to keynote, and the signature
+    is said to indicate only pitch of tones.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The analysis reports frequent minor thirds, six minor seconds, a descending
+    fourth at the close of each part, and a change of tempo.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Plate 66 includes captions identifying Eagle Shield capturing horses and rescuing
+    a wounded friend.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Sioux attacked a Crow camp and captured 80 horses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The captured horses were not all the horses owned by the Crows, but the expedition
+    was considered successful.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Sioux killed three Crows during the incident.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: On their way home, the Sioux sang a song with the same melody as the preceding
+    song.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The glossed song words address a friend, ask whether he hears, and say that
+    the enemy's horses are being brought home.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: In the second narrative, the advance section of a war party deserted a leader
+    who was wounded in the knee.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Eagle Shield was in the second section of the war party, saw the leader's
+    situation, and carried him to safety.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A song connected with the rescue event expresses derision toward warriors
+    who deserted their wounded leader.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eagle Shield
+  description: Named person associated with the plate captions and the rescue narrative;
+    he carried a wounded leader to safety and sang a song connected with the event.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Sioux attackers and return singers
+  description: The Sioux group that attacked the Crow camp, captured horses, killed
+    three Crows, and sang on the way home.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Crow camp and Crows
+  description: The camp attacked by the Sioux; the Crows owned the horses, and three
+    Crows were killed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Advance section of the war party
+  description: The section said to have deserted the wounded leader and left him to
+    the enemy.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Wounded leader or wounded friend
+  description: A leader wounded in the knee, deserted by the advance section, and
+    carried to safety by Eagle Shield.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:6
+  name_or_label: Second section of the war party
+  description: The section of the war party of which Eagle Shield was a member.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: raiding party
+  assigned_to:
+  - fig:2
+  basis: The Sioux attacked a Crow camp, captured horses, killed Crows, and returned
+    singing.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: opposed camp and horse owners
+  assigned_to:
+  - fig:3
+  basis: The Crow camp was attacked, and the horses are described as belonging to
+    the Crows or to the enemy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: rescuer
+  assigned_to:
+  - fig:1
+  basis: Eagle Shield went to the wounded leader and carried him to safety.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: wounded leader rescued by another
+  assigned_to:
+  - fig:5
+  basis: The leader was wounded in the knee, deserted, and later carried to safety.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: deserters of wounded leader
+  assigned_to:
+  - fig:4
+  basis: The advance section deserted their wounded leader and left him to the enemy.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: second section of war party
+  assigned_to:
+  - fig:6
+  basis: Eagle Shield is described as a member of the second section of the war party.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: song performers or commemorators
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Sioux sang on the way home after the horse-capture incident, and Eagle
+    Shield sang a song connected with the rescue event.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: captured horses
+  literal_form: 80 horses captured from the Crow camp; described in the song as the
+    enemy's horses being brought home
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: wounded knee
+  literal_form: the leader wounded in the knee
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: Plate 66 exploit images
+  literal_form: plate images captioned as Eagle Shield capturing horses and rescuing
+    a wounded friend
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Musical analysis of the song
+  summary: The melody is described as irregular in keynote, with notable intervals
+    and a tempo change.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Horse capture and homeward song
+  summary: The Sioux attack a Crow camp, capture 80 horses, kill three Crows, and
+    sing while returning home with the horses.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Rescue of the wounded leader
+  summary: The advance section deserts a knee-wounded leader; Eagle Shield, from the
+    second section, carries him to safety, and a song derides the deserters.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: victorious return with captured horses
+  taxonomy_refs:
+  - return
+  basis: The Sioux are described as returning home after the attack while singing
+    that they are bringing home the enemy's horses.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage presents a historical or
+    commemorative war incident rather than an explicitly mythological return narrative.
+- id: motif:2
+  label: rescue of abandoned wounded leader
+  taxonomy_refs: []
+  basis: Eagle Shield rescues a leader who was wounded in the knee and deserted by
+    the advance section of the war party.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The motif is extracted as a narrative pattern within the passage; no broader
+    taxonomy reference is directly supported.
+- id: motif:3
+  label: honor-and-shame song about battlefield loyalty
+  taxonomy_refs: []
+  basis: The song associated with the rescue expresses derision toward warriors who
+    deserted their wounded leader.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The exact song words for this rescue event are not included in the provided
+    passage.
+- id: motif:4
+  label: exploit memorialized through image and song
+  taxonomy_refs: []
+  basis: The passage links plate depictions and songs to remembered incidents in Eagle
+    Shield's life and to the Sioux horse-capture expedition.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is a documentary and commemorative pattern rather than a securely
+    identified mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 29292-29299
+  quote_or_summary: Plate 66 labels identify scenes in the life of Eagle Shield, including
+    capturing horses and rescuing a wounded friend.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 29305-29314
+  quote_or_summary: The musical analysis classifies the melody as irregular in keynote
+    and notes minor thirds, minor seconds, a descending fourth at the close of each
+    part, and a change of tempo.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 29316-29323
+  quote_or_summary: The Sioux attacked a Crow camp, captured 80 horses, killed three
+    Crows, considered the expedition successful, and sang on the way home.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 29324-29330
+  quote_or_summary: 'Song gloss includes: friend; do you hear?; the enemy''s horses;
+    also; I am bringing home.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt/gloss.
+- id: ev:5
+  type: summary
+  locator: 29332-29338
+  quote_or_summary: Eagle Shield says the advance section deserted a knee-wounded
+    leader; Eagle Shield, in the second section, carried him to safety and sang a
+    song deriding warriors who would desert their wounded leader.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mostly clear despite OCR irregularities. Motif labels are
+    cautious because the text is an ethnographic account of songs and war exploits,
+    not an explicit myth narrative. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. Available symbol taxonomy did not contain applicable refs for horses, song, image, or wound motifs.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l29292-l29338
+  passage_sha256=b0d4d81c1b8210b604dc57c22356eefe073a4f13d61bf2e6b3d9a10be5333d76
+

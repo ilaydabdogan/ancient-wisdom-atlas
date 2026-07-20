@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l16075-l16103
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: IX  RELIGION  301 / IX  RELIGION  303 / THE   BAGANDA / CHAP.; lines 16075-16103
+  start: '16075'
+  end: '16103'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes procedures associated with preparing a temple: unauthorized
+    entry during construction is punished; a chief handles thatching and special timber;
+    the priest Kazima obtains sacred fire from a nearby rock by striking it with grass
+    and installs it in the temple; the fire is maintained for the reigning king''s
+    lifetime and renewed at a new king''s accession; Kazima sleeps alone in the temple
+    before priest Kitiima brings the god Kibuka from temporary quarters to the temple
+    door.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: During the building period, anyone who attempted the prohibited act described
+    immediately before the passage was to be caught, confined, and executed when the
+    god entered the new temple.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A chief named Namumenya was responsible for thatching and brought special
+    timber for the doorstep.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When the temple was ready, the lesser priest Kazima brought sacred fire for
+    it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The sacred fire was said to be obtained from a nearby rock by striking the
+    rock with a tuft of grass, after which fire came out and ignited the grass.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fire was taken into the temple and kept burning during the reigning king's
+    lifetime.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: At the king's death the fire was extinguished, and at a new king's accession
+    fresh fire was obtained from the rock.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Kazima slept alone in the temple on the first night.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The next morning the priest Kitiima brought the god Kibuka from temporary
+    quarters and set him in front of the temple door.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Namumenya
+  description: A chief whose duty was thatching and who brought special timber for
+    the doorstep.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Kazima
+  description: A lesser priest who brought the sacred fire, obtained it from the rock,
+    and slept alone in the temple on the first night.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Kitiima
+  description: A priest who brought the god Kibuka from temporary quarters to the
+    temple door.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Kibuka
+  description: The god brought from temporary quarters and set down in front of the
+    temple door.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Reigning king / new king
+  description: The king whose lifetime determines how long the temple fire burns;
+    at a new king's accession fresh fire is obtained.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Unauthorized person during temple building
+  description: An unspecified person who, if attempting the prohibited act during
+    construction, would be caught, confined, and executed when the god entered the
+    new temple.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: temple construction functionary
+  assigned_to:
+  - fig:1
+  basis: Namumenya is named as the chief responsible for thatching and special timber
+    for the doorstep.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sacred-fire procurer and first-night temple occupant
+  assigned_to:
+  - fig:2
+  basis: Kazima brings sacred fire, obtains it from the rock, takes it into the temple,
+    and sleeps there alone the first night.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: priestly bearer of the god
+  assigned_to:
+  - fig:3
+  basis: Kitiima brings Kibuka from temporary quarters and sets him before the temple
+    door.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: deity installed at the temple threshold
+  assigned_to:
+  - fig:4
+  basis: Kibuka is called the god and is brought to the front of the temple door.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: regnal marker for the temple fire
+  assigned_to:
+  - fig:5
+  basis: The fire burns during the reigning king's lifetime, is extinguished at his
+    death, and is renewed for a new king.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: conditional taboo violator and execution victim
+  assigned_to:
+  - fig:6
+  basis: The passage states that anyone attempting the prohibited action during construction
+    would be imprisoned and later executed.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: sacred fire
+  literal_form: Fire obtained from a rock and kept burning in the temple during the
+    reigning king's lifetime.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: rock source of fire
+  literal_form: A nearby rock struck with a tuft of grass, from which fire comes out.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tuft of grass
+  literal_form: Grass used by Kazima to strike the rock and then ignited by the emerging
+    fire.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: new temple
+  literal_form: The temple prepared for use, receiving the sacred fire and later the
+    god Kibuka at its doorway.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Temple construction and restricted access
+  summary: During the building period, an unauthorized attempt at the prohibited action
+    results in confinement until the god enters the new temple and then execution;
+    Namumenya performs thatching duties and brings special timber.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sacred fire obtained and installed
+  summary: Kazima obtains fire from a nearby rock by striking it with grass and brings
+    it into the ready temple.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Fire tied to royal lifetime and accession
+  summary: The temple fire is kept burning during the reigning king's lifetime, extinguished
+    at his death, and replaced by fresh fire from the rock when a new king ascends.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: First night and arrival of Kibuka
+  summary: Kazima sleeps alone in the temple the first night; the next morning Kitiima
+    brings Kibuka from temporary quarters and places him before the temple door.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred fire renewed with kingship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The temple fire is maintained for the reigning king's lifetime, extinguished
+    at his death, and freshly obtained when a new king ascends.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage states a ritual connection between fire and reign, but does
+    not explicitly explain legitimacy doctrine.
+- id: motif:2
+  label: fire drawn from stone by ritual action
+  taxonomy_refs: []
+  basis: Kazima strikes a nearby rock with a tuft of grass, causing fire to emerge
+    and ignite the grass for temple use.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader comparative taxonomy reference is assigned beyond the literal
+    fire symbol.
+- id: motif:3
+  label: temple consecration by fire and divine arrival
+  taxonomy_refs: []
+  basis: The ready temple receives sacred fire, Kazima spends the first night there,
+    and Kibuka is brought to the temple doorway the next morning.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage does not use the word consecration; the label summarizes the
+    sequence of preparing the temple for divine occupancy.
+- id: motif:4
+  label: ritual boundary violation punished before divine installation
+  taxonomy_refs: []
+  basis: A person who attempts the prohibited action during construction is confined
+    until the god enters the new temple and then executed.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The specific prohibited act is partly outside the supplied excerpt, so
+    the motif is limited to the described punishment sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16075-16080
+  quote_or_summary: During the temple building period, anyone attempting the prohibited
+    act would be caught, imprisoned until the god entered the new temple, and executed.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 16080-16084
+  quote_or_summary: Namumenya, a chief, was responsible for thatching and also brought
+    special timber for the doorstep.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 16084-16092
+  quote_or_summary: Kazima, a lesser priest, brought the sacred fire; it was said
+    to come from a nearby rock that he struck with grass, igniting the grass, and
+    he took the fire into the temple.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 16092-16097
+  quote_or_summary: The fire was kept burning during the reigning king's lifetime,
+    extinguished when he died, and freshly obtained from the rock when a new king
+    ascended the throne.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 16097-16103
+  quote_or_summary: Kazima slept alone in the temple the first night; the next morning
+    Kitiima brought Kibuka from temporary quarters and set him before the temple door.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal sequence and named figures are clear. Motif labels are candidate
+    summaries and should be reviewed, especially because the excerpt begins mid-sentence
+    and one prohibited act is not fully specified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No comparison claims were added because the passage itself does not explicitly support contact, inheritance, or comparison with another tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l16075-l16103
+  passage_sha256=b5054ba936f2ef9bef92d1aaff607b9f68d8501f4a37036a8202141ab7064745
+

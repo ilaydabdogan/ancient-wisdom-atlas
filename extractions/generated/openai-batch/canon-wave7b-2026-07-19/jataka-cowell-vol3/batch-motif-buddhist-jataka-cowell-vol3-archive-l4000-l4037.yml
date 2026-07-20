@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol3-archive-l4000-l4037
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+passage_locator:
+  label: TITTIRA-JATAKA. / SUCCAJA-JATAKA. / KUTIDUSAKA-JATAKA. / J.  III.  4; lines
+    4000-4037
+  start: '4000'
+  end: '4037'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. III
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A Bodhisatta figure, identified at the end as a lion and as the Master's
+    former birth, reassures a herd of beasts and prevents them from rushing into the
+    sea. Verses explain that a hare fled after hearing fallen fruit, other animals
+    followed without investigating, and wisdom and virtue reject such panic fear.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A figure tells the beasts the whole story, tells them not to be afraid, reassures
+    them, and lets them go.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator states that without the Bodhisatta, all the beasts would have
+    rushed into the sea and perished, and that they escaped death because of him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A hare runs away after being alarmed by the sound of fallen fruit, and the
+    other beasts follow it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The beasts do not go to view the scene; they listen to idle gossip and become
+    distraught with foolish fear.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The verses say that those who attain wisdom and virtue disdain panic fear,
+    and the passage states that the stanzas were inspired by Perfect Wisdom.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Master identifies the Birth by saying that he himself was the lion at
+    that time.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bodhisatta as lion
+  description: The Bodhisatta reassures the herd, saves the beasts from death, and
+    is identified by the Master as the lion in the former birth.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: herd of beasts / other beasts
+  description: The beasts follow the hare in fear, are reassured and released, and
+    would have rushed into the sea without the Bodhisatta's intervention.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: hare
+  description: The hare is alarmed by the sound of fallen fruit and runs away, after
+    which the other beasts follow.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Master
+  description: The Master ends the lesson and identifies the lion as himself in the
+    former birth.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: reassurer and rescuer
+  assigned_to:
+  - fig:1
+  basis: He tells the beasts not to be afraid and is credited with their escape from
+    death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: identified former-birth lion
+  assigned_to:
+  - fig:1
+  basis: The Master states that he himself was the lion at that time.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: panicked followers
+  assigned_to:
+  - fig:2
+  basis: The other beasts follow the hare's flight and become distraught with fear.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: rescued endangered group
+  assigned_to:
+  - fig:2
+  basis: The narrator says the beasts would have rushed into the sea and perished
+    but escaped death through the Bodhisatta.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: initial frightened runner
+  assigned_to:
+  - fig:3
+  basis: The hare runs away after being alarmed by the sound of fallen fruit.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: frame teacher and identifier
+  assigned_to:
+  - fig:4
+  basis: The Master ends the lesson and identifies the birth.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sound of fallen fruit
+  literal_form: sound of fallen fruit
+  associated_figures:
+  - fig:3
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: sea as place of threatened death
+  literal_form: sea
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Bodhisatta reassures the herd
+  summary: The Bodhisatta tells the beasts the story, tells them not to fear, reassures
+    them, and lets them go, preventing their death.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fear spreads from the hare
+  summary: A hare flees after hearing fallen fruit, and the other beasts follow without
+    checking the source of the alarm.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Moral verse and birth identification
+  summary: The verses praise wisdom and virtue as rejecting panic fear, and the Master
+    identifies himself as the lion in the former birth.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: wisdom dispels panic and prevents destruction
+  taxonomy_refs:
+  - wisdom
+  basis: The Bodhisatta reassures the beasts and saves them from rushing into the
+    sea; the verses explicitly contrast panic fear with wisdom and virtue.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The motif assignment rests on the passage's explicit moral language and
+    rescue action; no broader doctrinal or external context is used.
+- id: motif:2
+  label: unverified fear spreads through a group
+  taxonomy_refs: []
+  basis: The hare flees after a sound, the other beasts follow, and the verses state
+    that they did not inspect the scene but listened to idle gossip.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No matching provided taxonomy motif family is assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4000-4002
+  quote_or_summary: A figure tells the beasts the whole story, says not to be afraid,
+    reassures the herd, and lets them go.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4002-4004
+  quote_or_summary: The narrator says that without the Bodhisatta the beasts would
+    have rushed into the sea and perished, and that through him they escaped death.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 4006-4011
+  quote_or_summary: '"Alarmed at sound of fallen fruit / A hare once ran away. / The
+    other beasts all followed suit"'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 4017-4022
+  quote_or_summary: The beasts did not view the scene, listened to idle gossip, and
+    were distraught with foolish fear.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4024-4029
+  quote_or_summary: The verses say those who attain wisdom and virtue disdain panic
+    fear, and the passage states that the stanzas were inspired by Perfect Wisdom.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 4031-4032
+  quote_or_summary: '"At that time I myself was the lion."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The main actions and moral language are explicit in the supplied passage.
+    No cross-text comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata; no external Jataka context used.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol3-archive__l4000-l4037
+  passage_sha256=4d694ecd39883e73e02288ff7bea05d8a80ef721313d919730e80dd211811b08
+

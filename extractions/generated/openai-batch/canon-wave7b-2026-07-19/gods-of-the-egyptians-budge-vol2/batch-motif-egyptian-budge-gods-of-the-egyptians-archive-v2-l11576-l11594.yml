@@ -1,0 +1,184 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l11576-l11594
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: SERAPIS  197 / SERAP1S / SERAPIS  199 / SERAPIS  201; lines 11576-11594
+  start: '11576'
+  end: '11594'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses a name corresponding to Hades or Pluto, describes
+    that deity as kind and gentle to those who come to him, and explains Amenthes/Amentet
+    as a subterranean or hidden afterlife region to which the souls of the dead go.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Plato is cited as giving a corresponding name of Hades or Pluto.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hades or Pluto is described as a kind and gentle deity to those who come to
+    him.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Amenthes is described as a subterraneous region where souls of the dead go
+    after death.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The name Amenthes is said in the quoted passage to signify “the receiver and
+    giver.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note gives the Egyptian form as Amentet and states that the name means “hidden
+    place.”
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hades or Pluto
+  description: A deity described as kind and gentle to those who come to him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: souls of those who die
+  description: Souls imagined to go to the subterraneous region after decease.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: afterlife deity
+  assigned_to:
+  - fig:1
+  basis: The deity is identified as Hades or Pluto and described in relation to those
+    who come to him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dead souls traveling to afterlife region
+  assigned_to:
+  - fig:2
+  basis: The souls of the dead are said to go to Amenthes after death.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Souls go to Amenthes after death
+  summary: The passage describes Amenthes as a subterranean region imagined as the
+    destination of souls after death.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Hades or Pluto as gentle receiver
+  summary: The passage cites a description of Hades or Pluto as a kind and gentle
+    deity toward those who come to him.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: souls go to a hidden subterranean afterlife realm
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Amenthes/Amentet is described as a subterraneous or hidden place to which
+    the souls of the dead go after death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage names an afterlife destination but does not give a detailed
+    route, map, judgment, or sequence of trials.
+comparison_claims:
+- id: claim:1
+  claim: The passage places the Egyptian afterlife terminology beside the Greek Hades
+    or Pluto and presents them as corresponding in an afterlife context.
+  claim_level: same_function
+  target: Greek Hades/Pluto as an afterlife deity or realm-associated figure
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt is primarily etymological and explanatory; it does not
+    provide a full mythic narrative or establish historical contact.
+- id: claim:2
+  claim: The passage raises, but does not resolve, the possibility that the term discussed
+    may have been transplanted from Greece into Egypt.
+  claim_level: linguistic_similarity
+  target: Greek-to-Egyptian transmission of an afterlife-related name
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The quoted author explicitly postpones the inquiry, so the passage
+    does not establish transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11576-11580
+  quote_or_summary: Plato is cited regarding the corresponding name of Hades or Pluto,
+    who is described as a cheerful, kind, and gentle deity to those who come to him.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11581-11586
+  quote_or_summary: Amenthes is described as a subterraneous region to which the souls
+    of those who die are imagined to go after death, and its name is said to signify
+    the receiver and giver.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 11592-11594
+  quote_or_summary: The Egyptian form of the word is Amentet, and the name means “hidden
+    place.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:4
+  type: summary
+  locator: lines 11586-11589
+  quote_or_summary: The quoted passage asks whether the word may have been transplanted
+    from Greece into Egypt, postponing the inquiry to another place.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and mostly etymological; afterlife destination is clear,
+    while motif classification is necessarily general.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbol taxonomy refs were applied because the available symbol list does not include subterranean realm, hidden place, or underworld.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l11576-l11594
+  passage_sha256=0f082dd8e271b0b88dac9ae5b4e7841643426d70344394c77adf0c0143006ede
+

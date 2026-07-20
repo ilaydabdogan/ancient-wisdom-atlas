@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l5359-l5487
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: ON LAND / THE HUDSON BAY ESKIMO. / WEAPONS AND OTHER HUNTING IMPLEMENTS,
+    / TURNER.) HUNTING, 249; lines 5359-5487
+  start: '5359'
+  end: '5487'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes sealskin oilbags and a gun-cap pouch, then gives
+    an ethnographic account of the autumn reindeer hunt: hunters camp near river crossings,
+    observe migrating herds, use kayaks to drive deer in the water, and spear them
+    near shallow water or shore.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Large sealskins are used as oilbags and may hold a large amount of fat or
+    oil.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An oilbag may be returned to the seller and reused, or the oil-impregnated
+    skin may be made into bootlegs or soles that resist moisture.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A small thick sealskin pouch is used to carry gun caps, with a neck sized
+    to let one cap fall out at a time.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The most important hunt of the year is said to occur in autumn, when reindeer
+    migrate in large herds and cross rivers.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hunters travel with necessary equipment by umiak or whaleboat to a location
+    near where reindeer cross, pitch a tent, and make camp.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Reindeer are wanted for their flesh as food and for their skins as clothing
+    and other material.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A hunter uses a telescope or binoculars to watch a herd until the animals
+    enter the water and swim together toward the opposite shore.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A hunter in a kayak paddles behind and below the animals and drives the herd
+    through the water.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: When multiple kayaks are present, hunters can direct the animals toward desired
+    landing places, taking account of camp location, wind, and deer scent sensitivity.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Near the chosen place, the hunter uses a deer spear to stab an animal in a
+    vital spot, trying to leave it only enough strength to reach shallow water or
+    shore.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Wounded deer are described as striving to regain land, standing while dying,
+    and then collapsing.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: Hunters try to kill and secure as many of the herd as possible, and try to
+    prevent returning deer from alarming other arriving animals.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: native hunter or hunters
+  description: Hunters who camp near crossings, observe reindeer, paddle kayaks, drive
+    herds in water, and spear animals.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: reindeer or deer herd
+  description: Migrating animals crossing rivers in autumn; they are hunted for meat
+    and skins.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: hunter and herd-driver
+  assigned_to:
+  - fig:1
+  basis: The hunters observe the herd, maneuver kayaks to drive animals in water,
+    and use spears to kill them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: migrating prey animals
+  assigned_to:
+  - fig:2
+  basis: The reindeer migrate in herds, cross rivers, and are pursued and speared
+    by hunters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:3
+  label: source of food and clothing material
+  assigned_to:
+  - fig:2
+  basis: The passage states that deer are wanted for flesh as food and skins for clothing,
+    with male and female skins valued for different uses.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sealskin oilbag
+  literal_form: large sealskin bag used to contain fat or oil
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: gun-cap pouch
+  literal_form: small thick sealskin pouch with a narrow neck allowing one cap out
+    at a time
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: river water crossing
+  literal_form: river water crossed by reindeer and used by hunters as the place to
+    control the herd
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: kayak and double-bladed paddle
+  literal_form: kayak used by the hunter to approach and drive swimming reindeer
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: deer spear
+  literal_form: spear used to stab reindeer in a vital spot near shallow water or
+    shore
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sealskin storage accessories
+  summary: The passage describes large sealskin oilbags, reuse of oil-impregnated
+    skins, and a small sealskin pouch for gun caps.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Autumn hunting camp at a river crossing
+  summary: Hunters take equipment by boat to a place near reindeer river crossings,
+    pitch a tent, and prepare for the autumn migration hunt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Herd observed and driven in the water
+  summary: A hunter watches the reindeer enter the river, then uses a kayak to get
+    behind the swimming animals and drive the herd toward a desired landing place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Spearing near shore
+  summary: Near shallow water or shore, the hunter spears deer in vital spots, after
+    which wounded animals try to regain land and are secured when possible.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: seasonal migration hunt
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage identifies the autumn reindeer migration and river crossings
+    as the setting for the most important hunt of the year.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The seasonal pattern is explicit, but the passage is an ethnographic hunting
+    description rather than a mythological narrative.
+- id: motif:2
+  label: river crossing as hunting control point
+  taxonomy_refs: []
+  basis: Hunters wait near river crossings, use kayaks to control deer in the water,
+    and spear them near shallow water or shore.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a practical hunting pattern in the passage; no ritual or symbolic
+    meaning is stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the deer spear used by the hunter is exactly like
+    one used by 'the Indians,' supporting only a limited comparison of implement form
+    or use.
+  claim_level: visual_similarity
+  target: the Indian spear mentioned by Turner
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared group is not specified in this excerpt, and the passage
+    does not support a claim of historical contact, common inheritance, or mythic
+    equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5359-5374
+  quote_or_summary: Large sealskins are used for oilbags holding fat or oil; sold
+    oil sacks may be returned and reused, or converted into bootlegs or soles after
+    becoming oil-impregnated.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 5375-5384
+  quote_or_summary: A small thick sealskin pouch, shaped somewhat like a leg of mutton,
+    is used for carrying gun caps and has a neck allowing one cap to fall out at a
+    time.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 5385-5404
+  quote_or_summary: The autumn reindeer migration is described as the most important
+    hunt of the year; hunters take equipment by umiak or whaleboat to a river crossing,
+    pitch camp, and seek deer for meat and skins.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: 5405-5424
+  quote_or_summary: A hunter observes reindeer with a telescope or binoculars as a
+    herd enters the river, swims together, reaches the opposite shore, and prepares
+    to move inland.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: 5425-5456
+  quote_or_summary: A hunter in a kayak paddles behind and below the frightened animals,
+    drives the herd through the water, rounds up animals that try to break away, and
+    coordinates with other kayaks while accounting for current, camp location, wind,
+    and scent.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:6
+  type: quote
+  locator: 5457-5480
+  quote_or_summary: The hunter takes his deer spear, described as 'exactly like the
+    one used by the Indians,' and stabs a vital spot so the animal can reach shallow
+    water or shore before dying.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; short quote from supplied public-domain passage.
+- id: ev:7
+  type: summary
+  locator: 5481-5487
+  quote_or_summary: Hunters try to dispatch and secure as many of the herd as possible
+    and prevent deer from returning to the original shore to alarm other arrivals.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is practical ethnography, not mythic narrative. The comparison claim
+    is explicit in the excerpt but its target group is vague.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No ritual, sacred, or narrative mythic interpretation is asserted beyond the passage evidence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l5359-l5487
+  passage_sha256=809d9510b4d75d3ec99ebd1847792bbf04ae5484b967e644d65886cd1b133a2b
+

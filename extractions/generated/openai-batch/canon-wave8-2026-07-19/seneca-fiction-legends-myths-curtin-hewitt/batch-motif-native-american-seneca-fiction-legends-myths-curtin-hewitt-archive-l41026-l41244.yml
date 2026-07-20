@@ -1,0 +1,322 @@
+---
+record_id: batch.motif.native-american-seneca-fiction-legends-myths-curtin-hewitt-archive-l41026-l41244
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: CURTIN,! / SENECA FICTION, LEGENDS, AND MYTHS / BIWITT / UBOBNDB; lines 41026-41244
+  start: '41026'
+  end: '41244'
+  translation: Seneca Fiction, Legends, and Myths
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In this interlinear Seneca-English passage, a youth or nephew is associated
+    with a kindled fire, speaks in distress about his uncle, seats himself by a steep
+    cliff and remains quiet for a long time. An owl vocalizes and is described as
+    speaking. The youth hears it, thinks it may refer to his uncle, and runs back.
+    The elder or uncle asks what was heard, delays the telling while he lights tobacco
+    in a pipe and smokes, then asks again. The uncle and nephew retire for the night,
+    lie down, and rise when day dawns.
+  language: Seneca with English interlinear glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two persons are described in connection with a kindled fire.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A figure speaks in distress, says he has been abused, mentions his uncle,
+    and is described as weeping or pitiable.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The distressed figure seats himself where a steep cliff stands and remains
+    quiet for a long time.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An owl vocalizes with repeated sounds and is described as speaking.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The youth hears the owl and says that perhaps it means his uncle, then runs
+    back in haste.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The elder asks what was heard and tells the youth to relate it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The elder asks for a moment to light tobacco, puts tobacco in his pipe, lights
+    it, draws smoke, and again asks to be told what was heard.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The two retire for the night, their bodies come to rest, they lie supine as
+    uncle and nephew, and at dawn they arise.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the youth or nephew
+  description: A youth/nephew hears the owl, says it may mean his uncle, runs back,
+    and later lies down with the uncle.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: the elder or uncle
+  description: An elder/uncle asks what was heard, lights and smokes tobacco in a
+    pipe before receiving the report, and later lies down with the nephew.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: the owl
+  description: An owl is said to vocalize repeatedly and to speak.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: nephew / youth
+  assigned_to:
+  - fig:1
+  basis: The passage uses glosses for youth and nephew and later identifies the pair
+    as uncle and nephew.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: uncle / elder questioner
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the pair as uncle and nephew, and the elder asks what
+    was heard.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:3
+  label: animal speaker
+  assigned_to:
+  - fig:3
+  basis: The owl is described as making repeated sounds and as speaking.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: hearer and returning reporter
+  assigned_to:
+  - fig:1
+  basis: The youth hears the owl, interprets it as possibly referring to his uncle,
+    and runs back.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: tobacco-pipe smoker before listening
+  assigned_to:
+  - fig:2
+  basis: The elder asks to light tobacco, places it in the pipe, lights it, and draws
+    smoke before asking again for the report.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: kindled fire
+  literal_form: fire kindled between or among the two persons
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: owl voice
+  literal_form: an owl vocalizing repeated sounds and described as speaking
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tobacco pipe
+  literal_form: tobacco placed in a pipe, lit, and smoked
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: steep cliff
+  literal_form: place where the distressed figure seats himself
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Distress near fire and cliff
+  summary: Two persons are associated with a kindled fire. A figure speaks in distress
+    about his uncle, seats himself by a steep cliff, and remains quiet for a long
+    time.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Owl cry and hurried return
+  summary: An owl vocalizes and is described as speaking. The youth hears it, says
+    it may mean his uncle, and runs back in haste.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Questioning with tobacco pipe
+  summary: The elder asks the youth what was heard, requests time to light tobacco,
+    smokes from his pipe, and then again asks for the report.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Night rest and dawn rising
+  summary: The uncle and nephew retire for the night, lie down, and arise when day
+    dawns.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: owl cry interpreted as a possible message
+  taxonomy_refs: []
+  basis: The passage says an owl spoke or vocalized; the youth hears it, says it may
+    refer to his uncle, and returns quickly.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only an uncertain interpretation, marked by the youth's
+    'perhaps'; it does not explain the owl's meaning.
+- id: motif:2
+  label: tobacco-pipe preparation before receiving a report
+  taxonomy_refs: []
+  basis: Before the youth tells what he heard, the elder asks for time to light tobacco,
+    smokes from a pipe, and only then asks again for the account.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state a ritual or sacred function for
+    the tobacco smoking.
+- id: motif:3
+  label: uncle-nephew relational pair
+  taxonomy_refs: []
+  basis: The two figures are identified as uncle and nephew and are the central interacting
+    pair in the passage.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a relational pattern in the passage, not a direct match to the
+    supplied motif-family taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 41026-41045
+  quote_or_summary: The interlinear glosses describe two persons and a fire that has
+    been kindled.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 41046-41083
+  quote_or_summary: A figure says that he has been abused, is weeping or pitiable,
+    mentions his uncle, seats himself where a steep cliff stands, and remains quiet
+    for a long time.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 41084-41113
+  quote_or_summary: An owl makes repeated 'Wu' sounds and is described as speaking;
+    a youth hears it, says it perhaps means his uncle, and runs back in haste.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; short sound-form quoted from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 41114-41155
+  quote_or_summary: After the youth returns, the elder asks what was heard and tells
+    him to relate it; the elder asks for a moment so that he can light his tobacco.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 41156-41190
+  quote_or_summary: The elder puts tobacco in his pipe, lights it, draws smoke, and
+    again asks the youth to tell what he heard.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 41191-41244
+  quote_or_summary: They retire for the night; their bodies come to rest; the two
+    lie supine as uncle and nephew, and at daybreak they arise.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is an OCR-heavy interlinear text, so some names and syntax are
+    uncertain. Extraction is limited to clear glossed actions and relationships. No
+    comparison claims are made because the passage itself supplies no explicit comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Printed personal names in the passage are difficult to normalize from the supplied OCR; figures are therefore labeled by evident roles rather than uncertain name forms.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-seneca-fiction-legends-myths-curtin-hewitt-archive__l41026-l41244
+  passage_sha256=76e7c598983c1fb67f635f4fdf233b13f56b4459f50d6e8dfcd2f01df327a2ad
+

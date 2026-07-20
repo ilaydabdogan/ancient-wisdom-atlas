@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2496-l2519
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: AGAVE. / AGAVE. / LEADER. / AGAVE.; lines 2496-2519
+  start: '2496'
+  end: '2519'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Agave claims praise for a slaughter, strokes a head, calls others to a
+    feast, and describes the hair of the head in terms of a wild bull or young steer.
+    The Leader is unable to speak at first and then responds with misery to the idea
+    of a feast.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Agave says that the slaughtering hand is hers and claims praise for it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A stage direction states that the Leader tries to speak but is unable.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A stage direction states that Agave gently strokes the head.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Agave tells others to gather to the feast.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Leader responds to the mention of a feast with an exclamation of misery.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Agave describes hair falling to the breast, curled and tressed, as the crest
+    of a Wild Bull and as belonging to a young steer of the fell.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agave
+  description: Named speaker who claims the slaughter, strokes the head, calls for
+    a feast, and describes the head's hair in animal terms.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Leader
+  description: Named speaker or stage figure who is unable to speak at first and then
+    laments the proposed feast.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: unidentified slain figure / handled head
+  description: An unidentified being referred to through the slaughter, the handled
+    head, and the description of hair as a Wild Bull's crest or young steer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: claimed slayer
+  assigned_to:
+  - fig:1
+  basis: Agave says the hand that slaughters is hers and claims the praise.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: feast-summoner and handler of the head
+  assigned_to:
+  - fig:1
+  basis: Agave strokes the head and calls others to gather to the feast.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: unable and lamenting witness
+  assigned_to:
+  - fig:2
+  basis: The Leader tries but cannot speak, then responds to the feast with misery.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: animalized slain victim or prey
+  assigned_to:
+  - fig:3
+  basis: The passage links slaughter and a handled head with Agave's description of
+    the hair as that of a Wild Bull or young steer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: handled head
+  literal_form: the head gently stroked by Agave
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: feast
+  literal_form: Agave's command to gather to the feast
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Wild Bull / young steer
+  literal_form: animal image used for the hair and crest of the handled head
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Agave claims the slaughter
+  summary: Agave asserts that the slaughtering hand is hers and calls for blessing
+    and praise.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Leader silenced while Agave strokes the head
+  summary: The Leader tries to speak but cannot, while Agave gently strokes the head.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Feast invitation and animalized description
+  summary: Agave invites others to the feast; the Leader laments; Agave describes
+    the hair of the head as a wild bull's crest or young steer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: slayer claiming praise for the kill
+  taxonomy_refs: []
+  basis: Agave explicitly claims the slaughter and the praise for it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage fragment does not identify the slain figure by name.
+- id: motif:2
+  label: sacrifice-like slaughter and feast sequence
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage places a claimed slaughter beside a call to gather for a feast.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: low
+  cautions: The passage itself does not state that the act is a formal sacrifice,
+    nor does it mention an altar, deity, or ritual offering.
+- id: motif:3
+  label: animalized victim as wild bull or young steer
+  taxonomy_refs: []
+  basis: Agave describes the hair of the handled head as the crest of a Wild Bull
+    and calls it a young steer.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This supports animal imagery or perception in Agave's speech, but not
+    an explicit transformation in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2496-2501
+  quote_or_summary: '"But the swift hand that slaughters / Is mine; mine is the praise!
+    / Bless ye this day of days!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 2503-2505
+  quote_or_summary: 'Stage direction: the Leader tries to speak but is not able; Agave
+    begins gently stroking the head.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized stage direction used for evidence.
+- id: ev:3
+  type: quote
+  locator: 2509-2513
+  quote_or_summary: Agave says, "Gather ye now to the feast!" The Leader replies,
+    "Feast!--O miserable!"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 2515-2519
+  quote_or_summary: '"See, it falls to his breast, / Curling and gently tressed, /
+    The hair of the Wild Bull''s crest-- / The young steer of the fell!"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is clear, though the passage begins mid-sequence and does
+    not name the slain figure. Motif candidates are limited to what this excerpt states
+    directly. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. Cadmus is mentioned in the fragmentary opening line, but no separate Cadmus figure was extracted because the passage does not give an independent action or role for him here.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2496-l2519
+  passage_sha256=99a37b3a6bd9cbc17c4126764de96cc0367c7fb599fcbcb6327a5292ddb7f3a6
+

@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.celtic-myths-legends-celtic-race-rolleston-gutenberg-l14974-l15058
+source_text_path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+passage_locator:
+  label: EAGLE OF GWERN ABWY, THE, 392 / FEET SYMBOL, THE TWO. 77 / MYTHOLOGICAL CYCLE,
+    THE, 95, 96 / SHIP SYMBOL, THE. 71-76; lines 14974-15058
+  start: '14974'
+  end: '15058'
+  translation: Myths & Legends of the Celtic Race
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Footnote sequence discussing purported physical distinctions among Celts,
+    Germans, and Bretons; possible Celtic linguistic and cultural associations of
+    Vergil; references to Ptolemy, Alexander, the Book of Leinster, the Táin, and
+    Roman-Celtic conflict narratives; an allusion to the Henny Penny folktale; and
+    Moymell, the Plain of Honey, as a Gaelic name for Fairyland.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says ancient writers described Celts and Germanic races in nearly
+    the same physical terms, while Dr. Rice Holmes distinguishes German fairness as
+    blond and Celtic fairness as red.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage reports Holmes's view that red hair or an underlying red tint
+    is prevalent among Celtic-speaking peoples, including a statistic of eleven red-haired
+    men in every hundred.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Bretons are not relatively dark compared with the rest of
+    France and are partly descended from ancient Gallic peoples and partly from Welsh
+    settlers displaced by the Saxon invasion.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage proposes that Vergil's name might mean “very-bright” or illustrious,
+    links the prefix Ver with Gallic names, calls Andes a Celtic place-name, and characterizes
+    several qualities attributed to Vergil as Celtic.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage describes Ptolemy as a friend and probably half-brother of Alexander,
+    likely present at an unnamed incident, and says his lost work is quoted by Arrian
+    and other historians.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage alludes to the folk-tale of Henny Penny, who went to tell the
+    king that the sky was falling.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage identifies the Book of Leinster as a twelfth-century manuscript
+    and says the version of the Táin in it probably dates from the eighth century.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage says Roman historical accounts of conflicts with the Celts in
+    this period are treated by de Jubainville as almost entirely mythical.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage gives Moymell, or magh-meala, meaning the Plain of Honey, as a
+    Gaelic name for Fairyland.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Henny Penny
+  description: A folk-tale figure who goes to tell the king that the sky is falling.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: the king
+  description: The ruler whom Henny Penny goes to tell that the sky is falling.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: alarm-bearing messenger
+  assigned_to:
+  - fig:1
+  basis: Henny Penny is described as going to tell the king that the sky was falling.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: recipient ruler
+  assigned_to:
+  - fig:2
+  basis: The king is the person whom Henny Penny goes to inform.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: falling sky
+  literal_form: the sky was falling
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: Moymell / Plain of Honey
+  literal_form: Moymell (magh-meala), the Plain of Honey, a Gaelic name for Fairyland
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Henny Penny reports a falling sky
+  summary: The alluded folk-tale action is that Henny Penny goes to tell the king
+    that the sky is falling.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sky-is-falling alarm brought to the king
+  taxonomy_refs: []
+  basis: The passage explicitly names the Henny Penny folk-tale action of going to
+    tell the king that the sky was falling.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage is an allusive footnote and does not narrate the full tale
+    or describe the incident being compared to it.
+- id: motif:2
+  label: Fairyland named as a honey plain
+  taxonomy_refs: []
+  basis: The passage identifies Moymell, the Plain of Honey, as a Gaelic name for
+    Fairyland.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: This is a place-name note rather than a narrative motif; no journey, action,
+    or inhabitants are described in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The author says an unspecified incident recalls the Henny Penny folk-tale
+    about going to tell the king that the sky was falling.
+  claim_level: same_function
+  target: Henny Penny folk-tale
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt preserves the authorial comparison but not the surrounding
+    incident that prompted it, so the nature of the functional similarity cannot be
+    checked from this passage alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14974-14984, note 5
+  quote_or_summary: Ancient writers are said to describe Celts and Germanic races
+    in nearly the same terms; Dr. Rice Holmes distinguishes German blond fairness
+    from Celtic red fairness.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 14985-15021, note 5
+  quote_or_summary: Holmes is cited on a Celtic-speaking type found in Brittany, Gaul,
+    Northern Italy, and the British Isles, with emphasis on red hair, red beards,
+    and a reported prevalence of red tint among Celtic-speaking peoples.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15022-15027, note 6
+  quote_or_summary: Bretons are described as not relatively dark in France and as
+    composed partly of ancient Gallic peoples and partly of Welsh settlers driven
+    out by the Saxon invasion.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15030-15041, note 8
+  quote_or_summary: Vergil's name is proposed as possibly meaning “very-bright” or
+    illustrious; Ver is compared with an intensive prefix in Gallic names; Andes is
+    called Celtic; and Vergil's love of nature, mysticism, and language are described
+    as Celtic qualities.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+  rights_note: Public domain source; summarized with short quoted term.
+- id: ev:5
+  type: summary
+  locator: lines 15042-15045, note 9; line 15050, note 13
+  quote_or_summary: Ptolemy is described as Alexander's friend and probably half-brother,
+    likely present at an incident; his lost work is said to be quoted by Arrian and
+    other historians, and another note refers to the accuracy of Ptolemy's narrative.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 15046-15047, note 10
+  quote_or_summary: "“Henny Penny, who went to tell the king that the sky was falling.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: lines 15048-15049, notes 11-12
+  quote_or_summary: The Book of Leinster is identified as a twelfth-century manuscript;
+    its version of the Táin is said probably to date from the eighth century; a note
+    adds that Douglas Hyde gives a slightly different translation.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 15051-15054, note 14
+  quote_or_summary: Roman accounts of conflicts with the Celts in the period are said
+    to exist, but de Jubainville is cited as showing that the narratives are almost
+    entirely mythical.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 15055-15056, note 15
+  quote_or_summary: "“Moymell (magh-meala), the Plain of Honey, a Gaelic name for
+    Fairyland”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is mainly a set of scholarly footnotes rather than a continuous
+    mythic narrative. Motif extraction is limited to an explicit Henny Penny allusion
+    and a Fairyland place-name note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references were not assigned because the passage does not securely support a listed motif-family or symbol taxonomy match.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-myths-legends-celtic-race-rolleston-gutenberg__l14974-l15058
+  passage_sha256=98d825c43fc4d36fff1aad78be11bf6f86b424b9c46fac35642c90d0ca9ea49a
+

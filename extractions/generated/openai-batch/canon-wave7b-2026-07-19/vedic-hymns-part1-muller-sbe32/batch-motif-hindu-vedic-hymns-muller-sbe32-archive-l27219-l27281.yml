@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l27219-l27281
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: MANDALA X, HYMN 77. 413 / NOTES. / MANDALA X, HYMN 78. 417 / NOTES.; lines
+    27219-27281
+  start: '27219'
+  end: '27281'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"O gods, make us happy and rich ... O Maruts!"'
+  summary: The passage describes the Maruts shining at the sacrifice with ornaments
+    and bright spears, compared to dawn rays, triumphant warriors, and running rivers.
+    The speaker asks the gods and Maruts to bring happiness, riches, prosperity, remembrance
+    of praise, friendship, and treasures.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the Maruts illumine the sacrifice and shine forth in ornaments.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Maruts are compared to rays of dawn, triumphant warriors, and running
+    rivers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Maruts are described as having bright spears and as measuring many miles
+    from afar.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker addresses gods and Maruts and asks them to make the praisers happy,
+    rich, and prospering.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker asks the Maruts to remember praise and friendship, and states
+    that gifts of treasures have long been with them.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Maruts
+  description: A divine group named in the hymn; they shine at the sacrifice, have
+    bright spears, are addressed by the speaker, and are associated with gifts of
+    treasures.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: gods
+  description: Divine addressees invoked together with the Maruts to make the praisers
+    happy, rich, and prospering.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: praisers
+  description: The speaker’s group, described as the addressees' praisers, asks for
+    happiness, riches, and prosperity.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine addressees
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The hymn directly addresses gods and Maruts with requests for prosperity.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: armed shining divine band
+  assigned_to:
+  - fig:1
+  basis: The Maruts shine in ornaments, have bright spears, and are compared to triumphant
+    warriors.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: petitioning praisers
+  assigned_to:
+  - fig:3
+  basis: The speaker calls the human side 'your praisers' and asks the deities for
+    happiness and wealth.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: possessors of treasure-gifts
+  assigned_to:
+  - fig:1
+  basis: The address to the Maruts says gifts of treasures have always been with them.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sacrifice
+  literal_form: sacrifice
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rays of dawn
+  literal_form: simile comparing the shining Maruts to rays of dawn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: bright spears
+  literal_form: bright spears carried or associated with the Maruts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: running rivers
+  literal_form: simile comparing the Maruts to running rivers
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: gifts of treasures
+  literal_form: gifts of treasures said to be with the Maruts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Maruts shining at the sacrifice
+  summary: The Maruts illumine the sacrifice, shine in ornaments, bear bright spears,
+    and are described through dawn, warrior, and river similes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prayer for prosperity and remembrance
+  summary: The speaker asks the gods and Maruts to make their praisers happy, rich,
+    and prospering, and to remember praise and friendship because treasures are with
+    them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: sacrifice attended by shining deities
+  taxonomy_refs:
+  - sacrifice
+  basis: The Maruts are explicitly said to illumine the sacrifice while shining forth
+    in ornaments.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not describe ritual procedure in detail; it only places
+    the Maruts in relation to the sacrifice.
+- id: motif:2
+  label: praise exchanged for divine prosperity and treasure
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speaker identifies the human side as praisers, asks the gods and Maruts
+    for happiness, riches, and prosperity, and refers to gifts of treasures as being
+    with the Maruts.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The exchange is expressed as prayer and praise rather than as a formal
+    contract.
+- id: motif:3
+  label: armed shining divine band
+  taxonomy_refs: []
+  basis: The Maruts are presented as ornamented, spear-bearing, bright figures compared
+    to triumphant warriors.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The warrior characterization is conveyed through simile; the excerpt does
+    not narrate an actual battle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 27219-27226 / Mandala X, Hymn 78, verse 7
+  quote_or_summary: Verse 7 says the Maruts illumine the sacrifice, shine in ornaments
+    like rays of dawn and triumphant warriors, have bright spears, resemble running
+    rivers, and measure many miles from afar.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source text; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 27227-27231 / Mandala X, Hymn 78, verse 8
+  quote_or_summary: Verse 8 addresses gods and Maruts, asking them to make the praisers
+    happy, rich, and prospering, to remember praise and friendship, and noting that
+    gifts of treasures have long been with them.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source text; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The hymnic verses support the main extraction. Editorial notes in the provided
+    passage were not used for motif extraction except as surrounding context; no explicit
+    cross-text comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Comparison claims are left empty because the passage contains internal similes but no explicit comparative claim to another text or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l27219-l27281
+  passage_sha256=fbfc6fa9be5434c09def210416cdae970ba3aadf1c1097cb0c9d51e3487fa6d8
+

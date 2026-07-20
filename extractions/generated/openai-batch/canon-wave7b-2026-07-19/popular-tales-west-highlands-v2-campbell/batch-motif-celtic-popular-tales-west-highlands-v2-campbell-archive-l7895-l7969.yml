@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l7895-l7969
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE SON OF THE SCOTTISH YEOMAN. 2G3 / MAC AN TUATHANAICII ALP.ANATCTT. 2G5
+    / MAC AN TUATHANAICII ALBANAICH. 2G7 / MAC AN TUATHANAICH ALBANAICH. 271; lines
+    7895-7969
+  start: '7895'
+  end: '7969'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Its resemblance to the "Master Thief" in Mr. Dasent's "Tales from the Norse,"
+    cannot fail to strike any one acquainted with these interesting stories.
+  summary: The passage is an editorial and transmission note for a Scottish Gaelic
+    tale. It names Donald M'Lean as the reciter, describes his sources and oral-memory
+    ability, notes winter fireside recitation, comments on modern terms and the bishop
+    of London as a theft target, compares the tale to Dasent's Norse "Master Thief,"
+    and begins an alternate version told by Donald MacCraw in which two thieves test
+    a gallows by hanging one of them with an agreed grin-signal for release.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Donald M'Lean, resident in the Grassmarket, Edinburgh, supplied the tale;
+    he was native to Ardnamurchan and had spent years at Glenforsa in Mull.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: M'Lean heard the tale from an old man, Angus M'Phie of Ardnamurchan, who had
+    also received it from tradition.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note says M'Lean recited long tales without hesitation and that such tales
+    were recited during winter evenings at old Highlanders' firesides.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentary notes modern terms in the tale and says the bishop of London
+    is the party whose effects are stolen.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentary explicitly states that the tale resembles the "Master Thief"
+    in Dasent's "Tales from the Norse."
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Donald MacCraw told another version in September 1859 while walking on a road
+    in North Uist.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The alternate-version note is linked to another story that treats clever thieves.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Two thieves come to a gallows; one proposes putting the rope around his neck
+    so the other can hang him and then release him when he grins.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The first thief is hanged, grins horribly when the rope tightens, is let down
+    by his comrade, and is asked what it was like.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Donald M'Lean
+  description: Named reciter, resident in the Grassmarket, Edinburgh; native of Ardnamurchan
+    who had lived in Glenforsa in Mull.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Angus M'Phie
+  description: Old man from Ardnamurchan from whom M'Lean heard the tale; described
+    as having received it from tradition.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Donald MacCraw
+  description: Drover who told another version in North Uist in September 1859.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Bishop of London
+  description: Named in the commentary as the party whose effects are stolen in the
+    tale.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: First thief
+  description: One of two thieves at the gallows; puts the rope around his neck, is
+    hanged, grins, and is let down.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:6
+  name_or_label: Second thief / comrade
+  description: The other thief who is asked to hang the first and then let him down
+    when he grins.
+  role_refs:
+  - role:5
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: reciter and informant
+  assigned_to:
+  - fig:1
+  basis: The note says the collector had the tale from Donald M'Lean and describes
+    his recitation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: prior tradition bearer
+  assigned_to:
+  - fig:2
+  basis: M'Lean is said to have heard the tale from Angus M'Phie, who had received
+    it from tradition.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: alternate-version teller
+  assigned_to:
+  - fig:3
+  basis: Donald MacCraw is named as the person who told another version.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: theft target
+  assigned_to:
+  - fig:4
+  basis: The commentary says the bishop of London is the party whose effects are stolen.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: thief
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage introduces the two figures as thieves.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: hanging tester
+  assigned_to:
+  - fig:5
+  basis: The first thief proposes being hanged to see how it feels and is then hanged.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:7
+  label: rope operator and rescuer
+  assigned_to:
+  - fig:6
+  basis: The second thief is told to hang the first and let him down when he grins.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: fireside storytelling setting
+  literal_form: firesides of old Highlanders in winter evenings
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: gallows
+  literal_form: gallows
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: rope around the neck
+  literal_form: rope placed around the first thief's neck
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: grin release-signal
+  literal_form: grin used as the agreed signal to be let down
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: stolen effects
+  literal_form: effects of the bishop of London
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Named oral transmission of the tale
+  summary: The editorial note traces the tale from Donald M'Lean back to Angus M'Phie
+    and to tradition, and describes M'Lean's ability to recite long tales accurately.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Editorial content and comparison note
+  summary: The commentary observes modern terms, identifies the bishop of London as
+    a theft target, and states that the tale resembles Dasent's Norse "Master Thief."
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Alternate version from North Uist
+  summary: Donald MacCraw is reported as telling another version in North Uist, in
+    exchange for part of another story about clever thieves.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Two thieves test the gallows
+  summary: Two thieves come to a gallows; one has the other hang him with a rope and
+    release him when he grins, after which he is asked what the experience was like.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: clever thief / master thief tale pattern
+  taxonomy_refs: []
+  basis: The note says the tale includes theft from the bishop of London, explicitly
+    compares it to "Master Thief," and links another version with stories of clever
+    thieves.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is mainly editorial; it does not include the full theft sequence
+    of the main tale.
+- id: motif:2
+  label: thieves experimentally test a gallows
+  taxonomy_refs: []
+  basis: In the alternate-version excerpt, two thieves decide to try hanging; one
+    is suspended and uses a grin as the release signal.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: Only the opening of this anecdotal sequence is present in the supplied
+    passage.
+- id: motif:3
+  label: named oral transmission through tradition bearers
+  taxonomy_refs: []
+  basis: The passage emphasizes named reciters, prior tradition, memory, and winter
+    fireside performance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a transmission pattern in the editorial frame rather than a narrative
+    motif within the tale itself.
+comparison_claims:
+- id: claim:1
+  claim: The Scottish Gaelic tale is presented by the editor as resembling the "Master
+    Thief" in Dasent's "Tales from the Norse."
+  claim_level: same_motif
+  target: '"Master Thief" in Mr. Dasent''s "Tales from the Norse"'
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides the editor's resemblance claim but not a detailed
+    side-by-side list of narrative correspondences.
+- id: claim:2
+  claim: Donald MacCraw's North Uist telling is identified as another version of the
+    same tale.
+  claim_level: same_motif
+  target: Donald MacCraw's North Uist version
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The supplied excerpt only begins the alternate version and does not
+    include its full structure.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7895-7906
+  quote_or_summary: The collector says he had the tale from Donald M'Lean of the Grassmarket,
+    Edinburgh; M'Lean was from Ardnamurchan, lived in Glenforsa in Mull, and heard
+    it from Angus M'Phie of Ardnamurchan, who had received it from tradition.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7907-7925
+  quote_or_summary: M'Lean is described as reciting long tales without hesitation
+    and retaining them accurately; he says tales were recited in winter evenings at
+    the firesides of old Highlanders.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7927-7937
+  quote_or_summary: The commentary says some terms in the tale are modern and notes
+    that the bishop of London is the person whose effects are stolen.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 7938-7942
+  quote_or_summary: '"Its resemblance to the \"Master Thief\" in Mr. Dasent''s \"Tales
+    from the Norse,\" cannot fail to strike any one acquainted with these interesting
+    stories."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 7959-7964
+  quote_or_summary: Another version was told by Donald MacCraw, a drover, in September
+    1859 while walking in North Uist; it was exchanged for part of another story treating
+    clever thieves.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7965-7969
+  quote_or_summary: Two thieves come to a gallows; one says they should try how hanging
+    feels by putting the rope around his neck, with a grin as the signal for release.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 7969
+  quote_or_summary: The first thief is hanged, grins horribly when the rope tightens,
+    is let down by his comrade, and is asked what it was like.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily editorial framing plus the beginning of an alternate-version
+    episode; motif extraction for the main tale is limited because the full tale narrative
+    is not included in the supplied range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy references were kept minimal; no sacred-theft or other motif-family taxonomy was assigned because the passage does not support those categories directly.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l7895-l7969
+  passage_sha256=9a3b1c03fb7118aeb7ccbe3d076c7f2f704c11b17c24671ce274d653b903324b
+

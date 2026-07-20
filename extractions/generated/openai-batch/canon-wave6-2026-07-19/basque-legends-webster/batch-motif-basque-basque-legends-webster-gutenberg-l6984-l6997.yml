@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l6984-l6997
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: THE YOUNG SCHOOLBOY. / THE SON WHO HEARD VOICES. / VARIATION OF THE ABOVE.
+    / THE STEP-MOTHER AND THE STEP-DAUGHTER.; lines 6984-6997
+  start: '6984'
+  end: '6997'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: the monster comes only at night
+  summary: The passage describes another version of a tale, compared by the source
+    to Apuleius's Cupid and Psyche. In this version, a monster visits only at night;
+    the woman is first terrified, then grows accustomed to it and loves it. After
+    she is left alone for several days, a magnificent young man, a king's son bewitched
+    into monster form until someone should love him, appears to her. They marry and
+    are happy. A further unrecorded version has the father as a sailor instead of
+    a king.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The source states that this version is more like Apuleius's Cupid and Psyche.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The monster comes only at night.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The woman is at first horribly frightened, then becomes accustomed to the
+    monster and loves it.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the woman has been left alone for some days, a magnificent young man
+    appears to her.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The young man is a king's son who had been bewitched into monster form until
+    someone should love him.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The young man and the woman marry and are happy.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A third version, not written down, makes the father a sailor instead of a
+    king.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed woman
+  description: A woman who is frightened by the night-visiting monster, later grows
+    accustomed to it and loves it, and marries the young man.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: monster / magnificent young man
+  description: A monster who comes only at night and is later revealed as a magnificent
+    young man, a king's son bewitched into monster form until someone should love
+    him.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: father
+  description: In a third, unrecorded version, the father was a sailor instead of
+    a king.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: frightened beloved who comes to love the monster
+  assigned_to:
+  - fig:1
+  basis: She is first frightened by the monster, then becomes accustomed to it and
+    loves it.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: night-visiting monster
+  assigned_to:
+  - fig:2
+  basis: The monster comes only at night.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: bewitched king's son
+  assigned_to:
+  - fig:2
+  basis: He is identified as a king's son bewitched into monster form.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: bride
+  assigned_to:
+  - fig:1
+  basis: The woman marries the revealed young man.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: bridegroom
+  assigned_to:
+  - fig:2
+  basis: The young man marries the woman after his appearance in human form.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: variant father figure
+  assigned_to:
+  - fig:3
+  basis: The unrecorded third version changes the father from a king to a sailor.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: monster form
+  literal_form: monster
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: night visitation
+  literal_form: night
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: enchantment into nonhuman form
+  literal_form: bewitched monster form
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Night visits by the monster
+  summary: A monster visits only at night; the woman is initially terrified but gradually
+    grows accustomed to it and loves it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Revelation of the enchanted young man
+  summary: After the woman has been alone for several days, a magnificent young man
+    appears and is identified as a king's son who had been bewitched into monster
+    form until someone loved him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Marriage and happiness
+  summary: The woman and the revealed young man marry and are happy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Unrecorded father variant
+  summary: A third version is mentioned in which the father is a sailor instead of
+    a king.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Enchanted monster bridegroom released by love
+  taxonomy_refs:
+  - shapeshifter
+  basis: The male figure is a king's son bewitched into monster form until someone
+    loves him, and he is loved by the woman before appearing as a young man.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes a bewitching into monster form rather than voluntary
+    shapeshifting; the taxonomy reference is approximate.
+- id: motif:2
+  label: Night-visiting nonhuman lover
+  taxonomy_refs: []
+  basis: The monster comes only at night, and the woman moves from fear to love.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief summary of the version.
+- id: motif:3
+  label: Marriage after enchantment is resolved
+  taxonomy_refs: []
+  basis: After the king's son appears in human form, the couple marry and are happy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe the mechanics of the transformation beyond
+    love ending the bewitched condition.
+comparison_claims:
+- id: claim:1
+  claim: The source explicitly compares this version to Apuleius's Cupid and Psyche,
+    calling it a little more like that prototype.
+  claim_level: same_motif
+  target: Apuleius, Cupid and Psyche
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports the comparison but provides only a condensed summary
+    of the Basque version, so the precise extent of motif overlap is not fully documented
+    here.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6984-6986
+  quote_or_summary: '"a little more like its prototype, the \"Cupid and Psyche\" of
+    Apuleius"'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 6986-6989
+  quote_or_summary: The monster comes only at night; the woman is first horribly frightened,
+    then grows accustomed to it and loves it.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 6989-6992
+  quote_or_summary: After she has been alone for some days, a magnificent young man
+    appears; he is a king's son bewitched into the monster until someone should love
+    him.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: line 6992
+  quote_or_summary: '"they marry and are happy"'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 6996-6997
+  quote_or_summary: A third version, not taken down, has the father as a sailor instead
+    of a king.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief and summary-like, but its central figures, sequence,
+    and explicit comparison are clear. Motif taxonomy mapping is partly approximate
+    because the available taxonomy does not include a specific animal/monster bridegroom
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. The collector attribution name in the passage was not treated as a tale figure.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l6984-l6997
+  passage_sha256=ec1d7656d7167ec383fb823ed35cd2715a72412aec5cbe70d5f563538867c2c0
+

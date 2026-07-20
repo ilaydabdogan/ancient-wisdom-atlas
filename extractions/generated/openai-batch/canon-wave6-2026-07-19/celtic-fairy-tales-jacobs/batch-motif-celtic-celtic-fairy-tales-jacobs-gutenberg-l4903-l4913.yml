@@ -1,0 +1,303 @@
+---
+record_id: batch.motif.celtic-celtic-fairy-tales-jacobs-gutenberg-l4903-l4913
+source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: THE SHEE AN GANNON AND THE GRUAGACH GAIRE / THE STORY-TELLER AT FAULT / THE
+    SEA-MAIDEN / A LEGEND OF KNOCKMANY; lines 4903-4913
+  start: '4903'
+  end: '4913'
+  translation: Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Cucullin is surprised by the teeth of the apparently young figure in the
+    cradle. When he removes his hand from Fin's mouth, he has lost the finger on which
+    his strength depends. Cucullin collapses in terror and weakness. Fin leaves the
+    cradle and kills Cucullin. The narrator attributes the victory to the wit and
+    invention of Oonagh, Fin's wife, and to cunning rather than force.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cucullin finds powerful teeth in someone he takes to be very young.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When Cucullin removes his hand from Fin's mouth, the finger on which his whole
+    strength depends has been left behind.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cucullin groans and falls down in terror and weakness.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Fin recognizes that Cucullin, described as his most powerful and bitterest
+    enemy, is at his mercy.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Fin starts out of the cradle, and Cucullin soon lies dead before him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narration states that Fin succeeds through the wit and invention of Oonagh,
+    his wife, and by cunning rather than force.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cucullin
+  description: A powerful enemy of Fin whose strength depends on a particular finger;
+    he collapses after losing it and dies.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Fin
+  description: The figure in whose mouth Cucullin's strength-bearing finger is left;
+    he rises from the cradle and overcomes Cucullin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Oonagh
+  description: Fin's wife, credited by the narrator with wit and invention that enable
+    the victory.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: powerful enemy
+  assigned_to:
+  - fig:1
+  basis: Cucullin is called Fin's most powerful and bitterest enemy and a terror to
+    Fin and his followers.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: victor through cunning
+  assigned_to:
+  - fig:2
+  basis: Fin overcomes Cucullin in a situation the narrator says could not have been
+    won by force.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: wife and strategist
+  assigned_to:
+  - fig:3
+  basis: Oonagh is identified as Fin's wife and credited with the wit and invention
+    behind the success.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: strength-vulnerable antagonist
+  assigned_to:
+  - fig:1
+  basis: Cucullin's whole strength depends on a finger that he loses.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: strength-bearing finger
+  literal_form: the finger upon which Cucullin's whole strength depended
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: cradle
+  literal_form: the cradle from which Fin starts out
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: powerful grinders
+  literal_form: powerful teeth in Fin's mouth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Loss of the strength-bearing finger
+  summary: Cucullin discovers that the finger on which his strength depends has been
+    left in Fin's mouth, and he collapses in terror and weakness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Fin's victory from the cradle
+  summary: Fin rises from the cradle, kills the weakened Cucullin, and the narrator
+    explains the victory as the result of Oonagh's wit and cunning rather than force.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Strength dependent on a vulnerable body part
+  taxonomy_refs: []
+  basis: Cucullin's whole strength depends on a finger; once the finger is lost, he
+    falls in terror and weakness.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage identifies the vulnerable body part but does not explain its
+    origin or wider magical rules.
+- id: motif:2
+  label: Stronger enemy defeated by cunning rather than force
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator explicitly states that Fin succeeds through Oonagh's wit and
+    invention and by cunning, not by force.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The taxonomy link is broad; the passage supports cunning and practical
+    intelligence but does not name a formal wisdom tradition.
+- id: motif:3
+  label: Cradle deception or infant-like concealment
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Cucullin is surprised to find strong teeth in one so young, and Fin then
+    starts out of the cradle as part of a victory achieved by cunning.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The immediate passage implies but does not fully narrate the setup of
+    any disguise; preceding context would be needed to confirm the deceptive role
+    of the cradle.
+- id: motif:4
+  label: Wise wife enables the hero's victory
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator credits the victory to the wit and invention of Oonagh, Fin's
+    wife.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage credits Oonagh but does not describe her plan in detail within
+    this line range.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a same-function comparison with a wisdom or cunning-over-force
+    pattern: success is attributed to wit, invention, and cunning rather than physical
+    strength.'
+  claim_level: same_function
+  target: wisdom motif family; cunning-over-force pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison only; the passage does not establish
+    historical contact, common inheritance, or a specific named analogue.
+- id: claim:2
+  claim: The strength-bearing finger can be cautiously compared at the motif level
+    to stories in which a figure's power depends on a vulnerable bodily locus.
+  claim_level: same_motif
+  target: vulnerable body part containing or sustaining strength
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The provided taxonomy list has no specific external-strength or life-token
+    category, and the passage does not show whether the finger is magical, innate,
+    or ritually significant.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4903-4904
+  quote_or_summary: '"Cucullin was surprised to find such a powerful set of grinders
+    in one so young"'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 4904-4907
+  quote_or_summary: '"he had left the very finger upon which his whole strength depended,
+    behind him"'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 4907-4908
+  quote_or_summary: '"He gave one loud groan, and fell down at once with terror and
+    weakness."'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 4908-4911
+  quote_or_summary: '"He started out of the cradle, and in a few minutes the great
+    Cucullin ... lay a corpse before him."'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 4911-4913
+  quote_or_summary: '"through the wit and invention of Oonagh, his wife ... by cunning,
+    which he never could have done by force"'
+  source_text_path: texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence and roles are explicit in the passage. Motif candidates
+    involving cunning and the strength-bearing finger are well supported; the cradle-deception
+    and broader comparison claims require review against surrounding context and taxonomy
+    standards.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or inheritance claims are made.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-celtic-fairy-tales-jacobs-gutenberg__l4903-l4913
+  passage_sha256=3030f6b655fc37a506f00bfa403a70c18e2b4394dea9541bc67b5c440ec9a3ac
+

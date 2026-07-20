@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l6952-l6998
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: LAWS    OF    MANU. / B    2 / LAWS   OF    MANU. / I,  10.  THE    CREATION.  5;
+    lines 6952-6998
+  start: '6952'
+  end: '6998'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In the creation account, a being wishes to produce many beings from his
+    own body. He first creates waters by thought and places his seed in them. The
+    seed becomes a brilliant golden egg, and in that egg he is born as Brahman, the
+    progenitor of the world. The waters are explained as nara, offspring of Nara,
+    and because they were his first residence, he is called Narayana.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The described being desires to produce beings of many kinds from his own body.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The described being first creates the waters with a thought.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The described being places his seed in the waters.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The seed becomes a golden egg described as brilliant.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the golden egg, the same being is born as Brahman, called the progenitor
+    of the whole world.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The waters are called nara and are described as the offspring of Nara.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Because the waters were his first residence, he is named Narayana.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Producing being / Nara-Narayana
+  description: A being who desires to produce many beings, creates waters by thought,
+    places his seed in them, and is named Narayana because the waters were his first
+    residence.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Brahman
+  description: The form in which the being is born inside the golden egg, described
+    as the progenitor of the whole world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: producer of beings
+  assigned_to:
+  - fig:1
+  basis: The passage says he desires to produce many beings from his own body and
+    initiates creation through waters and seed.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: progenitor of the whole world
+  assigned_to:
+  - fig:2
+  basis: The passage directly calls Brahman the progenitor of the whole world.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: first resident of the waters
+  assigned_to:
+  - fig:1
+  basis: The waters are said to be his first residence, giving rise to the name Narayana.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: primordial waters
+  literal_form: Waters created first by thought, receiving the seed, called nara,
+    and described as the first residence.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: seed
+  literal_form: Seed placed in the waters by the producing being.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: golden egg
+  literal_form: A golden egg arising from the seed, brilliant, and containing the
+    birth of Brahman.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cosmic_egg
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Creation of waters and placement of seed
+  summary: The producing being creates the waters by thought and places his seed in
+    them.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Golden egg and birth of Brahman
+  summary: The seed becomes a brilliant golden egg, and in it the being is born as
+    Brahman, progenitor of the world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Naming of Narayana
+  summary: The waters are explained as nara, offspring of Nara, and as his first residence,
+    giving the name Narayana.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: cosmic golden egg
+  taxonomy_refs:
+  - cosmic_egg
+  basis: The seed placed in the waters becomes a golden egg, and Brahman, the world
+    progenitor, is born within it.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The extract gives only the initial egg-birth episode, not a full expansion
+    of later creation from the egg.
+- id: motif:2
+  label: primordial waters receiving generative seed
+  taxonomy_refs: []
+  basis: Waters are created first, receive the seed, and are later explained as the
+    first residence of the named being.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No supplied motif-family taxonomy directly names this full pattern beyond
+    the water symbol.
+- id: motif:3
+  label: creation by thought from the creator's own body
+  taxonomy_refs: []
+  basis: The producing being desires to generate many beings from his own body and
+    first creates the waters with a thought.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is brief and does not elaborate the mechanics of thought-creation
+    beyond this statement.
+- id: motif:4
+  label: sacred birth of the world progenitor
+  taxonomy_refs:
+  - sacred_birth
+  basis: Brahman is born in the golden egg and is called the progenitor of the whole
+    world.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The birth is cosmogonic and compressed; it is not a detailed birth narrative.
+comparison_claims:
+- id: claim:1
+  claim: The editor's note explicitly directs comparison between this passage and
+    a Pauranik story of the mundane egg, supporting a cautious grouping with a broader
+    cosmic or mundane egg motif in nearby Hindu textual tradition.
+  claim_level: same_motif
+  target: Pauranik story of the mundane egg, cited as Wilson, Vishnu-purana I, pp.
+    39-40 (ed. Hall)
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The parallel text is only cited in the note; its details are not included
+    in the supplied passage.
+- id: claim:2
+  claim: The editor's note states that the punning explanation of the name Narayana
+    occurs in most Puranas, supporting a cautious linguistic-traditional comparison
+    for the naming pattern.
+  claim_level: linguistic_similarity
+  target: Puranic explanations of the name Narayana, cited with reference to Vishnu-purana
+    I, p. 56 (ed. Hall)
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the editor's note; no full Puranic wording is provided
+    in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6952-6960, verse 8
+  quote_or_summary: A being desiring to produce many kinds of beings from his own
+    body first creates the waters by thought and places his seed in them.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 6961-6964, verse 9
+  quote_or_summary: The seed becomes a golden egg, brilliant like the sun; in that
+    egg he is born as Brahman, the progenitor of the whole world.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 6965-6969, verse 10
+  quote_or_summary: The waters are called nara, the offspring of Nara; because they
+    were his first residence, he is named Narayana.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 6974-6985, note on verse 8
+  quote_or_summary: The note says to compare the Pauranik story of the mundane egg
+    in Wilson's Vishnu-purana and discusses commentator identifications of the producing
+    being.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 6995-6998, note on verse 10
+  quote_or_summary: The note says the punning explanation of Brahman's name Narayana
+    occurs in most of the Puranas and cites Wilson's Vishnu-purana.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source metadata; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction relies on the supplied English translation and notes. Motif
+    labels are limited to patterns directly present in the passage and to the provided
+    taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Minor OCR noise appears in the supplied passage; summaries avoid correcting beyond the plainly stated context.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l6952-l6998
+  passage_sha256=65e7f09f1d5975d4e0c8043d295229bc714cac5d87aa4a7a160c8ef9dac65f0f
+

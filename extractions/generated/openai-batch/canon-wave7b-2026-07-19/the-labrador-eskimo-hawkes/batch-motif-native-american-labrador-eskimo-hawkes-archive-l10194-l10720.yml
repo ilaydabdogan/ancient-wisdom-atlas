@@ -1,0 +1,192 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l10194-l10720
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: M-  O  S  S / O      U3      3      O / T3     O / O    3    ,.; lines 10194-10720
+  start: '10194'
+  end: '10720'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A Plate XXIV caption lists ethnographic objects: six ivory needle cases
+    from the east coast of Hudson Bay or the Labrador coast, probably Ramah; an ivory
+    comb and ivory pendant from the east coast of Labrador; and a stone pipe from
+    Chesterfield Inlet. It also gives museum numbers and states the collectors for
+    the listed objects.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The legible portion is a caption for Plate XXIV listing museum objects rather
+    than a mythic narrative.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:2
+  text: Items a-f are identified as ivory needle cases from the east coast of Hudson
+    Bay and from the Labrador coast, probably Ramah; item a is described as 4 inches
+    long.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Item g is identified as an ivory comb from the east coast of Labrador.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Item h is identified as an ivory pendant from the east coast of Labrador.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Item i is identified as a stone pipe from Chesterfield Inlet.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The caption associates items a-h with collector A. P. Low and item i with
+    collector E. W. Hawkes.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: A. P. Low
+  description: Named as the collector of objects a-h in the Plate XXIV caption.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: E. W. Hawkes
+  description: Named as the collector of object i in the Plate XXIV caption.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: collector of items a-h
+  assigned_to:
+  - fig:1
+  basis: The caption says objects a-h were collected by A. P. Low.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: collector of item i
+  assigned_to:
+  - fig:2
+  basis: The caption says object i was collected by E. W. Hawkes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ivory needle case
+  literal_form: Six ivory needle cases listed as Plate XXIV items a-f.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: ivory comb
+  literal_form: Ivory comb listed as Plate XXIV item g.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: ivory pendant
+  literal_form: Ivory pendant listed as Plate XXIV item h.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: stone pipe
+  literal_form: Stone pipe listed as Plate XXIV item i.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Plate XXIV artifact listing
+  summary: The caption catalogs objects a-i, gives their forms and geographic provenances,
+    and names the collectors associated with the objects.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10194-10720, Plate XXIV items a-f
+  quote_or_summary: Items a-f are ivory needle cases from the east coast of Hudson
+    Bay and the Labrador coast, probably Ramah; item a is 4 inches long.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 10194-10720, Plate XXIV items g-h
+  quote_or_summary: Item g is an ivory comb from the east coast of Labrador, and item
+    h is an ivory pendant from the east coast of Labrador.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10194-10720, Plate XXIV item i
+  quote_or_summary: Item i is a stone pipe from Chesterfield Inlet.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10194-10720, Plate XXIV museum and collector note
+  quote_or_summary: The caption gives Division of Anthropology museum numbers and
+    states that A. P. Low collected items a-h and E. W. Hawkes collected item i.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The legible material is an artifact plate caption, not a mythic passage.
+    Extraction is limited by extensive OCR noise in the surrounding passage, but the
+    caption text is sufficiently clear for the listed observations. No motif or comparison
+    claims are supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Symbols are recorded as literal artifact forms only; no symbolic or mythological interpretation is inferred.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l10194-l10720
+  passage_sha256=9f36f497979ec29e340ce0bc224768d5101575a28836f7a1fd6a2bde49620762
+

@@ -1,0 +1,588 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l8563-l8649
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: NETS,    SNARES,    AND    TRAPS    (THREE-SIXTEENTHS' / TRAPS    AND    SNARES
+    / BUREAU   OF  AMERICAN   ETHNOLOGY / BRAINING    CLUBS    AND    SEAL-CAPTURING    IMPLEMENTS    IONE-FIFTH);
+    lines 8563-8649
+  start: '8563'
+  end: '8649'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes several seal-scratchers and seal-handling implements,
+    a white-covered kayak-sled method for approaching seals on ice, procedures for
+    towing and floating killed seals, and late-summer or early-fall nets used to catch
+    white whales near reefs or islets.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Norton Sound wooden-handle scratcher has three claws fastened with sinew
+    cords, a sinew-bound grip, and a wrist-suspension loop.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Cape Prince of Wales scratcher has a long wooden handle, three claws, carved
+    sides, and a handle end shaped as a white bear's head with blue bead eyes.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A St Michael scratcher has a wooden handle and four claws held by a pierced
+    rawhide strip and cord lashing.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A hunter can conceal himself and a kayak sled under a white-sheeted framework,
+    push it cautiously toward a seal, and then use either a rifle or a spear.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After killing a seal at sea, a hunter may place a small seal in the kayak,
+    while a large seal must be towed to shore or ice before being cut up and stowed.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A towline may be fastened by passing cords through slits in the seal skin,
+    tying the flippers, or passing a cord through a slit in the upper lip.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Small bone or ivory probes with a notch and side grooves can be used to pass
+    a doubled cord between slits in the skin.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A Kotzebue Sound implement for this cord-passing purpose is made of deerhorn
+    with a wooden handle fastened by sinew cords and grooved for grip.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: When thin seals may sink, the hunter can make skin slits, loosen blubber from
+    muscle, blow air under the skin through a hollow tube, and plug the slits to make
+    the seal float.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: A Sledge Island blubber-loosening probe is a long curved pointed deerhorn
+    rod set into a wooden handle and lashed with spruce root.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: A Sledge Island set of eight wooden plugs is flattened oval in cross section
+    and wedge-shaped, with thin rounded points and broad truncated ends.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:12
+  text: White whale nets are set in late August and early September near rocky islets
+    or reefs.
+  category: setting
+  evidence_refs:
+  - ev:11
+- id: obs:13
+  text: White whale nets are described as similar to seal nets but with larger meshes
+    and greater length and width.
+  category: relationship
+  evidence_refs:
+  - ev:11
+- id: obs:14
+  text: White whales enter the nets, become entangled like fish in gill nets, are
+    held under water by heavy anchor stones, and drown before the hunter visits the
+    net.
+  category: sequence
+  evidence_refs:
+  - ev:11
+- id: obs:15
+  text: Because the white whale nets are too far from shore to observe from land,
+    they are inspected daily by kayak.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:16
+  text: White whales may sometimes be caught in near-shore seal nets, but a school
+    of whales can also tear a net to pieces and escape.
+  category: sequence
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: hunter
+  description: The person who approaches seals, kills or spears them, tows or processes
+    them, and inspects whale nets by kayak.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:11
+- id: fig:2
+  name_or_label: seal
+  description: The hunted animal approached on ice or killed at sea, then placed in
+    a kayak, towed, cut up, or inflated to prevent sinking.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:3
+  name_or_label: white whales
+  description: Whales caught in nets near rocky islets or reefs; they may also be
+    caught in seal nets or collectively tear a net apart and escape.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:11
+  - ev:12
+roles:
+- id: role:1
+  label: hunter and implement user
+  assigned_to:
+  - fig:1
+  basis: The hunter conceals himself, shoots or spears seals, fastens towlines, inflates
+    carcasses, and visits nets by kayak.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:11
+- id: role:2
+  label: seal prey and transported carcass
+  assigned_to:
+  - fig:2
+  basis: The seal is approached and killed; after death it may be placed in a kayak,
+    towed, cut up, or floated by inflation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: role:3
+  label: net-captured whale prey
+  assigned_to:
+  - fig:3
+  basis: White whales enter nets, become entangled, are held underwater by anchor
+    stones, and drown.
+  evidence_refs:
+  - ev:11
+- id: role:4
+  label: collective escaping animals
+  assigned_to:
+  - fig:3
+  basis: A school of white whales can tear a net to pieces by their united strength
+    and escape.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: clawed scratcher
+  literal_form: Wooden-handled scratcher with three or four claws, attached with sinew
+    or rawhide lashings.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: white bear head handle ornament
+  literal_form: Image of a white bear's head terminating a scratcher handle, with
+    blue beads inlaid for eyes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: white-sheeted concealment frame
+  literal_form: Light framework covered with white sheeting and placed on a kayak
+    sled to conceal hunter and sled.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: rifle or spear
+  literal_form: Rifle used when available, or spear used when the hunter approaches
+    close enough for a sure cast.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: kayak or kayak sled
+  literal_form: Kayak sled used in seal approach; kayak used to hold or tow seal meat
+    and to inspect offshore nets.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:11
+- id: sym:6
+  label: towline through skin slits
+  literal_form: Cords passed through slits in seal skin, tied around flippers, or
+    passed through the upper lip for towing.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: cord-passing probe
+  literal_form: Small bone, ivory, or deerhorn probe with notch and grooves for carrying
+    doubled cord through skin slits.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:8
+  label: blubber-loosening probe and hollow tube
+  literal_form: Pointed deerhorn instrument for loosening blubber and hollow tube
+    for blowing air under the seal skin.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:9
+  label: wooden plugs for inflated slits
+  literal_form: Wedge-shaped wooden plugs inserted tightly into slits to prevent air
+    escaping from inflated areas.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:10
+- id: sym:10
+  label: water and under-water hunting medium
+  literal_form: Sea or water setting where seals may float or sink and whales are
+    held under water by nets and anchor stones.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:11
+- id: sym:11
+  label: white whale net with anchor stones
+  literal_form: Large-mesh offshore net near islets or reefs, weighted by heavy anchor
+    stones.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+- id: sym:12
+  label: rocky islets or reefs
+  literal_form: Places near which white whale nets are set in late August and early
+    September.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: descriptions of clawed scratchers
+  summary: Three scratchers from different places are described, including their claw
+    counts, sinew or rawhide fastening, handles, grips, and, in one case, a carved
+    white bear head with blue bead eyes.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: concealed approach to seals on ice
+  summary: The hunter covers a kayak sled with a white-sheeted framework, conceals
+    himself behind it, pushes it toward a seal, and then uses a rifle or spear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: towing and securing a killed seal
+  summary: After a seal is killed at sea, a small seal may be put into the kayak,
+    while a large one is towed; cords and probes help fasten the towline through slits
+    or around body parts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:10
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: inflating a seal to keep it afloat
+  summary: For seals likely to sink, the hunter loosens blubber beneath the skin,
+    blows air into the space through a tube, and seals the openings with wooden plugs
+    so the carcass will float.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: scene:5
+  label: white whale netting offshore
+  summary: White whale nets are set near rocky islets or reefs; whales become entangled,
+    are held underwater by anchor stones, and the nets must be inspected daily by
+    kayak.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:10
+  - sym:11
+  - sym:12
+  evidence_refs:
+  - ev:11
+- id: scene:6
+  label: incidental whale capture and net escape
+  summary: White whales may occasionally be caught in seal nets near shore, but a
+    school can also tear a whale net apart and escape.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:11
+  evidence_refs:
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: clawed scratcher implement with animal-head ornament
+  taxonomy_refs: []
+  basis: The passage describes multiple clawed scratchers and one scratcher handle
+    ending in a white bear head with bead eyes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic implement pattern, not a mythic narrative motif
+    in the supplied passage.
+- id: motif:2
+  label: white concealment for approaching seal prey
+  taxonomy_refs: []
+  basis: A hunter hides himself and the sled under a white-sheeted framework and advances
+    toward a seal before shooting or spearing it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a practical hunting technique; no ritual
+    or symbolic interpretation is stated.
+- id: motif:3
+  label: cord-fastened towing of killed sea animal
+  taxonomy_refs: []
+  basis: A killed seal is secured for towing by cords through skin slits, tied flippers,
+    or a cord through the upper lip, with probes used to pass the cord.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a technical carcass-handling pattern, not a mythological comparison.
+- id: motif:4
+  label: inflating a seal carcass to prevent sinking
+  taxonomy_refs: []
+  basis: The hunter creates subcutaneous air pockets, blows air through a tube, and
+    plugs the slits so a thin seal will float while being towed.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage gives no symbolic meaning for the inflation procedure.
+- id: motif:5
+  label: offshore net entanglement of white whales
+  taxonomy_refs: []
+  basis: White whale nets set near islets or reefs entangle whales, which are held
+    underwater by anchor stones until the hunter checks the net.
+  evidence_refs:
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The pattern is described as subsistence technology; no mythic or ritual
+    frame is supplied.
+comparison_claims:
+- id: claim:1
+  claim: White whale nets are explicitly described as similar to seal nets, except
+    that the whale nets have larger meshes and are longer and wider.
+  claim_level: visual_similarity
+  target: seal nets
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to net form and dimensions as stated in the passage.
+- id: claim:2
+  claim: The capture mechanism of white whale nets is compared to fish being caught
+    in gill nets.
+  claim_level: same_function
+  target: fish gill-net capture
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional analogy within the passage, not evidence of historical
+    contact or shared mythic motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8563-8568
+  quote_or_summary: Figure 11 from Norton Sound is a wooden-handled scratcher with
+    three claws fastened by sinew, a sinew-bound grip, and a wrist loop.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 8569-8575
+  quote_or_summary: Figure 10 from Cape Prince of Wales is a long-handled three-clawed
+    scratcher with carved sides and a white bear head terminal with blue bead eyes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 8576-8581
+  quote_or_summary: Figure 4 from St Michael is a rudely made wooden-handled scratcher
+    with four claws held by rawhide and cord lashing.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 8582-8590
+  quote_or_summary: A hunter approaches seals by hiding himself and a kayak sled under
+    a white-covered frame, then shoots with a rifle or casts a spear at close range.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 8591-8600
+  quote_or_summary: After killing a seal at sea, the hunter may put a small seal in
+    the kayak; a large one is towed to shore or ice, using cords through skin slits,
+    flippers, or upper lip.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 8600-8606
+  quote_or_summary: Small bone or ivory probes, notched and grooved, help pass a doubled
+    cord between skin slits.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 8607-8612
+  quote_or_summary: Figure 12 from Kotzebue Sound is a deerhorn implement with a sinew-fastened
+    wooden handle, heavily grooved for grip.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 8613-8625
+  quote_or_summary: To keep thin seals from sinking, the hunter loosens blubber beneath
+    skin slits, blows air in through a hollow tube, and closes the slits with wooden
+    plugs.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 8626-8632
+  quote_or_summary: Figure 13 from Sledge Island is a long curved pointed deerhorn
+    probe in a wooden handle, lashed with spruce root, used for loosening blubber.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:10
+  type: summary
+  locator: 8633-8637
+  quote_or_summary: Figure 19 from Sledge Island shows eight flattened oval wooden
+    plugs with wedge-like shape.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:11
+  type: summary
+  locator: 8638-8647
+  quote_or_summary: In late August and early September, larger white whale nets are
+    set near rocky islets or reefs; whales entangle like fish in gill nets, are held
+    underwater by anchor stones, and are checked daily by kayak.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:12
+  type: summary
+  locator: 8647-8649
+  quote_or_summary: White whales are sometimes caught in seal nets near shore, and
+    a school of whales may tear a net to pieces and escape.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal technical details are explicit in the passage. Motif candidates are
+    treated as ethnographic practice patterns rather than mythological motifs. Comparison
+    claims are limited to analogies directly stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external mythology, ritual interpretation, or unsupported taxonomy mapping was added. Only the taxonomy symbol 'water' was used because water or underwater settings are literal in the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l8563-l8649
+  passage_sha256=21820b04a99ed78264105ed429710458dcc834ee08555895e2ba2599405ec630
+

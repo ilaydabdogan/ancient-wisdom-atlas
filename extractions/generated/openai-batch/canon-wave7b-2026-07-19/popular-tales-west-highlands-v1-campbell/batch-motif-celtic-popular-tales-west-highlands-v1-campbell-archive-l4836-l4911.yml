@@ -1,0 +1,228 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l4836-l4911
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: CXV111 INTRODUCTION. / INTRODUCTION. CX1X / CU SEANG NA COILL' UAINE. / CXX
+    INTRODUCTION.; lines 4836-4911
+  start: '4836'
+  end: '4911'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“the sun went into a cave or a tent to sleep”"
+  summary: Campbell discusses difficulties in translating Gaelic idiom into English.
+    He notes that a phrase connected with the coming of darkness may preserve an old
+    mythical notion of the sun sleeping in a cave or tent, citing a line from Ossian’s
+    “Address to the Sun.” He then explains his preference for close translation and
+    comments on Gaelic dialects and related Celtic languages.
+  language: English, with Gaelic examples
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says an expression for the coming on of darkness is poetical.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the expression seems to refer to an old mythical notion that
+    the sun went into a cave or tent to sleep.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage cites the line “Take thy sleep in thy cave” from Ossian’s “Address
+    to the Sun.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The phrase is often translated as “in the mouth of night,” though alternative
+    renderings such as dusk, evening, nightfall, mantle of night, twilight, and grey
+    of the evening are mentioned.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Campbell states that he prefers a close translation that gives the real meaning
+    of Gaelic words as nearly as possible.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage presents Gaelic dialects as mutually intelligible across much
+    of Scotland and parts of Ireland, with wider differences from Welsh and Breton.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the sun
+  description: The sun is described as going into a cave or tent to sleep in an old
+    mythical notion and is addressed in the cited Ossianic line.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Campbell / translator
+  description: The first-person translator explains choices about rendering Gaelic
+    phrases into English.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: sleeping celestial figure
+  assigned_to:
+  - fig:1
+  basis: The passage says the sun went into a cave or tent to sleep and cites an address
+    telling the sun to take sleep in its cave.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: translator-commentator
+  assigned_to:
+  - fig:2
+  basis: The speaker discusses translation choices, literal rendering, and Gaelic
+    idiom.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: tent
+  literal_form: tent
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mouth of night
+  literal_form: mouth of night
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sun sleeping at the coming of darkness
+  summary: As part of a discussion of a Gaelic expression for nightfall, the passage
+    describes an old mythical notion in which the sun goes into a cave or tent to
+    sleep.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Translator explains close rendering of Gaelic idiom
+  summary: The translator lists possible English renderings of a Gaelic phrase and
+    explains the choice to preserve a close, literal style even when the English is
+    awkward.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sun retires into cave or tent at nightfall
+  taxonomy_refs: []
+  basis: The passage explicitly identifies a possible old mythical notion that the
+    sun enters a cave or tent to sleep when darkness comes on.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is reported in a translator’s introduction as a possible background
+    to an idiom, not narrated as a complete tale episode.
+- id: motif:2
+  label: Nightfall expressed as a mouth
+  taxonomy_refs: []
+  basis: The passage notes that the relevant phrase is generally translated “in the
+    mouth of night” and discusses alternative renderings.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage treats this mainly as a translation problem; it does not explain
+    a narrative action or independent mythic episode for the phrase.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4836-4842
+  quote_or_summary: "“It seems to refer to some old mythical notion that the sun went
+    into a cave or a tent to sleep”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 4841-4844
+  quote_or_summary: "“Take thy sleep in thy cave” is cited as a line in Ossian’s “Address
+    to the Sun.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 4844-4852
+  quote_or_summary: The phrase is generally translated “in the mouth of night,” though
+    the author lists suggested alternatives such as dusk, evening, nightfall, mantle
+    of night, twilight, and grey of the evening.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4854-4882
+  quote_or_summary: The author explains the difficulty of literal Gaelic-to-English
+    translation, gives the Gaelic possession phrase tha so agam as an example, and
+    says he tried to give the real meaning of every word as nearly as possible.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4883-4911
+  quote_or_summary: The author states that Gaelic is broadly the same from Cape Clear
+    to Cape Wrath, with dialect variation; he compares intelligibility among Scottish,
+    Irish, Manx, Welsh, and Breton speech.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage contains one explicit mythic-notion statement about the sun sleeping
+    in a cave or tent. Other material is linguistic commentary rather than narrative
+    myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not establish a comparative relationship beyond mentioning an Ossianic line and Gaelic translation issues.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l4836-l4911
+  passage_sha256=7133bd4acea8c249ac2a8d6cfe5961e11ffe7db76f088422bf5b84752a6b1ba9
+

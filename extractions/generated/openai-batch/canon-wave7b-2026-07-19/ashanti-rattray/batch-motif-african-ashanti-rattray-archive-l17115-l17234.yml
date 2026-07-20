@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l17115-l17234
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: F-F-F-F M-MF, / F-F-F-F M-MF, / F-F-F-F M-MF, / F-F-F-F M-MF.; lines 17115-17234
+  start: '17115'
+  end: '17234'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: |-
+    Okwan atware asuo,
+
+    Asuo atware 'kwan,
+
+    Opanyin ne huan ?
+  summary: Cylinder No. 5, section XVI, presents drum-pattern notation followed by
+    Akan chant text. The chant names several figures, repeats the formula “Damirifa,”
+    asks where Osafo Gyamfi Agyai comes from, answers with Kumase and Aduampafrantwi,
+    and contrasts road/path and water in a question of priority or elderhood.
+  language: Akan/Asante-Twi with drum-pattern notation and English editorial headings
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage begins with M/F drum-pattern notation under “Cylinder No. 5” and
+    section “XVI.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An opening call names Asumgyima Firampon and repeats “Damirifa!” several times.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The chant lists named figures or titles including Osafo tenten, Gyamfi Agyai,
+    Osafo Gyamfi Akwa, Osafo Koko, and Osai Tutu 'ba.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The chant asks where Osafo Gyamfi Agyai comes from and answers with Kumase
+    and Aduampafrantwi.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage juxtaposes a road/path and water, stating that each crosses the
+    other.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage asks which is elder and then states that the road/path came to
+    meet the water; it also links the water with antiquity and Domankoma.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: The closing refrain names Gyamfi Agyai Firampon and repeats “Damirifa,” later
+    adding Osai.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Asumgyima Firampon
+  description: Named before a repeated “Damirifa!” refrain in the opening call.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Gyamfi Agyai / Osafo Gyamfi Agyai
+  description: Named in the catalogue, asked about origin, and later named as Gyamfi
+    Agyai Firampon in the closing refrain.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Osafo Gyamfi Akwa
+  description: Named in the chant’s list of Osafo figures.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Osafo Koko
+  description: Named in the chant’s list of Osafo figures.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Osai Tutu 'ba / Osai
+  description: Named as “Osai Tutu 'ba” in the catalogue and as “Osai” in the closing
+    Damirifa refrain.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:6
+  name_or_label: Domankoma
+  description: Named in the line linking water with “Domankoma oboo adie.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named in Damirifa refrain
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:5
+  basis: These figures are named immediately before or within repeated “Damirifa!”
+    lines.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:2
+  label: Osafo-named figure
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The chant names several figures with the Osafo title or label.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: origin-questioned figure
+  assigned_to:
+  - fig:2
+  basis: The chant asks where Osafo Gyamfi Agyai comes from and gives an answer.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: creative or source figure named with water
+  assigned_to:
+  - fig:6
+  basis: Domankoma is named in the water statement, in the phrase “Domankoma oboo
+    adie.”
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: Osai name in catalogue and refrain
+  assigned_to:
+  - fig:5
+  basis: The name appears as “Osai Tutu 'ba” in the catalogue and as “Osai” in the
+    closing refrain.
+  evidence_refs:
+  - ev:3
+  - ev:7
+symbols:
+- id: sym:1
+  label: water
+  literal_form: asuo
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: road or path
+  literal_form: okwan / 'kwan
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: origin place names
+  literal_form: Kumase, Aduampafrantwi
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Opening drum notation and Damirifa call
+  summary: The section opens with drum-pattern notation, then a call names Asumgyima
+    Firampon and repeats “Damirifa!”
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Name catalogue and origin answer
+  summary: The chant names Osafo-associated figures and asks where Osafo Gyamfi Agyai
+    comes from; the response gives Kumase and Aduampafrantwi.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Road and water priority saying
+  summary: The chant states that the road/path and water cross one another, asks which
+    is elder, and links the water with antiquity and Domankoma.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Closing Damirifa refrain
+  summary: The passage closes with “Kon,” names Gyamfi Agyai Firampon, and repeats
+    “Damirifa,” including lines addressed with Osai.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: refrain after named invocation
+  taxonomy_refs: []
+  basis: Named figures are followed by repeated “Damirifa!” lines at both the opening
+    and closing of the passage.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: The passage does not itself explain the ritual or semantic force of “Damirifa.”
+- id: motif:2
+  label: origin question answered by place names
+  taxonomy_refs: []
+  basis: The chant asks where Osafo Gyamfi Agyai comes from and answers with Kumase
+    and Aduampafrantwi.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No broader narrative context is included in the supplied passage.
+- id: motif:3
+  label: water older than the road
+  taxonomy_refs: []
+  basis: The passage pairs road/path and water, asks which is elder, says the path
+    came to meet the water, and connects the water with antiquity and Domankoma.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is in Akan chant text with limited context; interpretation
+    of priority or primordiality should be checked by a reviewer.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17115-17234, opening of Cylinder No. 5 / XVI
+  quote_or_summary: The passage opens with “Cylinder No. 5,” section “XVI,” and a
+    sequence of M/F drum-pattern notation.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 17115-17234, first refrain after notation
+  quote_or_summary: "“Kon ! / Asumgyima Firampon, / Damirifa !” followed by repeated
+    “Damirifa !” lines."
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 17115-17234, second XVI name catalogue
+  quote_or_summary: "“Osafo tenten e, / Osafo tenten e, / Gyamfi Agyai, / Osafo Gyamfi
+    Akwa, / Osafo Koko, / Osai Tutu 'ba,”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 17115-17234, origin question
+  quote_or_summary: "“Osafo Gyamfi Agyai wo firi he ni ? / Wo firi Kumase, Aduampafrantwi.”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 17115-17234, road and water lines
+  quote_or_summary: "“Okwan atware asuo, / Asuo atware 'kwan, / Opanyin ne huan ?
+    / Ye bo ’ kwan ko too asuo yi,”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 17115-17234, water antiquity lines
+  quote_or_summary: "“Asuo yi firi tete, / Asuo yi firi ’ Domankoma oboo adie,”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:7
+  type: quote
+  locator: lines 17115-17234, closing refrain
+  quote_or_summary: "“Kon ! / Gyamfi Agyai Firampon, / Damirifa !” followed by repeated
+    “Damirifa !” lines, several with “Osai.”"
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mostly Akan/Asante-Twi chant text and drum-pattern notation
+    without an English translation in the supplied excerpt. Basic names, repeated
+    formulae, and the road/water pattern are clear, but semantic interpretation needs
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not explicitly compare the material with another tradition or motif family.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l17115-l17234
+  passage_sha256=46f5d88538b6812bdb8d8b90113fcac215d221ac817ea9a9859ae64f1969f158
+

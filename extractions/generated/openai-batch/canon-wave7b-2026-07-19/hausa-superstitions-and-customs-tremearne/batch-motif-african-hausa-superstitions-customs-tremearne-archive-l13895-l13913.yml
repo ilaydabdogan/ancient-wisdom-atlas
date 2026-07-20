@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l13895-l13913
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: FIG.  72. / SOLOMON  AND    THE   BIRDS  303 / THE  KING'S  SON'S    WIFE  305
+    / DODO'S  SON  307; lines 13895-13913
+  start: '13895'
+  end: '13913'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the Mother found her clothes and vanished, leaving, however, her comb stuck
+    in his collar
+  summary: When the child is three years old, the Mother finds her clothes and vanishes,
+    leaving her comb in his collar. The Husband takes the Son to a fountain, where
+    the Wife's servants are drawing water, and drops the comb into one of their jars.
+    After the Girl returns, the Wife recognizes the comb and sends an enchanted handkerchief
+    that allows him to go to her.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The child was three years old when the Mother found her clothes and vanished.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Mother left her comb stuck in the child's collar.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Husband took his Son to a fountain where some of the Wife's Servants were
+    drawing water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: While speaking to the servants, the Husband dropped the comb into one of the
+    jars.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the Girl returned, the Wife recognized the comb.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Wife sent an enchanted handkerchief, and by means of it he was able to
+    go to her.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mother / Wife
+  description: A female figure who finds her clothes, vanishes, later recognizes the
+    comb, and sends an enchanted handkerchief.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Husband
+  description: The husband takes his son to the fountain, drops the comb into a jar,
+    and is later able to go to the Wife by means of the enchanted handkerchief.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Son
+  description: The child is three years old and has the Mother's comb stuck in his
+    collar.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Wife's Servants / Girl
+  description: Servants of the Wife are encountered drawing water at the fountain;
+    the passage also refers to the Girl's return before the Wife recognizes the comb.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: vanishing wife and sender of enchanted aid
+  assigned_to:
+  - fig:1
+  basis: She vanishes after finding her clothes, later recognizes the comb, and sends
+    the enchanted handkerchief.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: husband seeking access to absent wife
+  assigned_to:
+  - fig:2
+  basis: He carries the comb to the fountain, drops it into a jar, and is enabled
+    by the handkerchief to go to the Wife.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: child bearer of recognition object
+  assigned_to:
+  - fig:3
+  basis: The comb is left stuck in the Son's collar.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: water-drawing attendants
+  assigned_to:
+  - fig:4
+  basis: The Wife's Servants are drawing water at the fountain; the Girl's return
+    precedes the Wife's recognition of the comb.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: comb as recognition object
+  literal_form: comb
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: fountain and water jars
+  literal_form: fountain, water, jars
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: enchanted handkerchief
+  literal_form: enchanted handkerchief
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: recovered clothes
+  literal_form: clothes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Mother's disappearance
+  summary: When the child is three years old, the Mother finds her clothes, vanishes,
+    and leaves her comb in the child's collar.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Comb dropped at the fountain
+  summary: The Husband takes the Son to the fountain, meets the Wife's Servants drawing
+    water, and drops the comb into one of their jars.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Recognition and enchanted travel
+  summary: After the Girl returns, the Wife recognizes the comb and sends an enchanted
+    handkerchief that enables him to go to her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wife vanishes after recovering clothes
+  taxonomy_refs:
+  - departure
+  basis: The Mother finds her clothes and vanishes while the child is three years
+    old.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt does not explain why the clothes matter or give the earlier
+    circumstances of their loss or concealment.
+- id: motif:2
+  label: recognition by a personal token
+  taxonomy_refs: []
+  basis: The comb left with the child is dropped into a jar and later recognized by
+    the Wife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state whether the comb is inherently magical or only
+    identifiable.
+- id: motif:3
+  label: enchanted object enabling access to absent spouse
+  taxonomy_refs: []
+  basis: The Wife sends an enchanted handkerchief by which the Husband is able to
+    go to her.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe the mechanics or destination of the journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13895-13899
+  quote_or_summary: '"was three years of age, the Mother found her clothes and vanished,
+    leaving, however, her comb stuck in his collar."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 13899-13904
+  quote_or_summary: '"The Husband on his return, took his Son to the fountain" where
+    the Wife''s Servants were drawing water, and he "dropped the comb into one of
+    the jars."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 13904-13908
+  quote_or_summary: '"the Wife recognized the comb, and sent him an enchanted handkerchief"
+    by which "he was able to go to her."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence is clear, but the excerpt is partial and lacks the surrounding
+    narrative context. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraneous page or scan artifacts at the end of the passage were not used as motif evidence.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l13895-l13913
+  passage_sha256=2caeb869421bfcddbed23f3280a6fdc77ce42cfe63ea4884dc85ee1a1116b180
+

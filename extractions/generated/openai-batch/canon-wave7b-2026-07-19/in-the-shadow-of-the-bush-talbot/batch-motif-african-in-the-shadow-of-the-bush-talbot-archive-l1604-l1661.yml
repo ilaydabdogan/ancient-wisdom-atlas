@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l1604-l1661
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: ON   THE  WAY   TO   OBAN  5 / ON   THE   WAY   TO   OBAN / CHAPTER   II
+    / RELIGION; lines 1604-1661
+  start: '1604'
+  end: '1661'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage quotes A. B. Cook on the Cretan axe cult outside Crete. It
+    describes an Assyrian cylinder with a priestly figure presenting a fish to a deity
+    symbolized by an axe and knobbed sceptre, then a Cretan Hagia Triada sarcophagus
+    with double-axes, leafy supports interpreted as cypress-tree substitutes, and
+    birds perched on the axes. The quoted author summarizes these examples as part
+    of a widespread ancient cult involving a sky-father and an earth-mother, with
+    the sky-father descending in lightning and leaving his weapon as a token.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage quotes a paper titled "The Cretan Axe Cult outside Crete."
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Assyrian cylinder is described as showing a priestly personage presenting
+    a fish to a deity.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The deity on the Assyrian cylinder is said to be symbolized by an axe and
+    a knobbed sceptre erected on a high-backed throne.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: A painted sarcophagus from Hagia Triada is described as representing a pair
+    of double-axes embedded in two supports.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The supports for the double-axes are described as apparently pillars or posts
+    covered with leaves, probably cypress leaves, and as ritual substitutes for cypress
+    trees.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A bird is described as perched on either axe on the Hagia Triada sarcophagus.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The quoted author proposes that the Aegean and Adriatic material reflects
+    joint worship of a sky-father and an earth-mother.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The sky-father is described as descending from above when lightning flashes
+    down and leaving his weapon as a tangible token of himself.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: priestly personage
+  description: A priestly personage shown on the Assyrian cylinder presenting a fish
+    to a deity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: deity symbolized by axe and knobbed sceptre
+  description: A deity represented on the Assyrian cylinder by an axe and a knobbed
+    sceptre erected on a high-backed throne.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: sky-father
+  description: A divine male figure in the quoted synthesis who descends from above
+    when lightning flashes down and leaves his weapon as a token.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: earth-mother
+  description: A divine female figure paired with the sky-father in the quoted synthesis
+    of a joint cult.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ritual presenter
+  assigned_to:
+  - fig:1
+  basis: The figure is described as a priestly personage presenting a fish to a deity.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: deity represented by symbols
+  assigned_to:
+  - fig:2
+  basis: The deity is described as symbolized by an axe and knobbed sceptre on a throne.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: sky-father
+  assigned_to:
+  - fig:3
+  basis: The quoted author names a sky-father and describes his descent in lightning.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: earth-mother
+  assigned_to:
+  - fig:4
+  basis: The quoted author names an earth-mother as the paired object of joint worship.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fish offering
+  literal_form: fish presented to a deity
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: axe or double-axe
+  literal_form: axe on the Assyrian cylinder; pair of double-axes on the Hagia Triada
+    sarcophagus
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: knobbed sceptre
+  literal_form: knobbed sceptre erected on a high-backed throne
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: high-backed throne
+  literal_form: high-backed throne carrying the axe and knobbed sceptre
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: cypress-tree substitute
+  literal_form: pillars or posts covered with leaves, probably cypress leaves, interpreted
+    as ritual substitutes for cypress trees
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: bird on axe
+  literal_form: bird perched on either axe
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: lightning descent
+  literal_form: lightning flashes down as the sky-father descends from above
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: weapon token
+  literal_form: weapon left by the sky-father as a tangible token of himself
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Assyrian cylinder with offering and deity symbols
+  summary: A priestly personage presents a fish to a deity represented by an axe and
+    knobbed sceptre on a high-backed throne.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Hagia Triada sarcophagus with double-axes
+  summary: The sarcophagus shows two double-axes embedded in leafy supports interpreted
+    as cypress-tree substitutes, with a bird perched on each axe.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Synthesis of sky-father and earth-mother cult
+  summary: The quoted author interprets the Aegean and Adriatic material as evidence
+    of joint worship of a sky-father and earth-mother; the sky-father descends in
+    lightning and leaves his weapon as a token.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deity represented by cult objects
+  taxonomy_refs: []
+  basis: The Assyrian cylinder is described as showing a deity symbolized by an axe
+    and knobbed sceptre on a throne.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage reports an interpretation of an image rather than a narrative
+    episode.
+- id: motif:2
+  label: offering presented to a deity
+  taxonomy_refs: []
+  basis: A priestly personage is described as presenting a fish to a deity.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not state whether the presentation is sacrifice, tribute,
+    or another ritual action.
+- id: motif:3
+  label: paired sky-father and earth-mother worship
+  taxonomy_refs:
+  - duality
+  - mother_goddess
+  basis: The quoted author explicitly characterizes the material as joint worship
+    of a sky-father and an earth-mother.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a quoted comparative interpretation; the excerpt does not independently
+    demonstrate the cult's extent or ritual details.
+- id: motif:4
+  label: divine descent through lightning leaving a weapon-token
+  taxonomy_refs: []
+  basis: The sky-father is said to descend when lightning flashes down and to leave
+    his weapon as a tangible token of himself.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The weapon is not separately described in the quoted synthesis beyond
+    its connection to the sky-father.
+- id: motif:5
+  label: ritual tree substitute supporting divine axe imagery
+  taxonomy_refs: []
+  basis: The supports for the double-axes are described as leafy pillars or posts,
+    probably cypress, and as ritual substitutes for cypress trees.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage identifies tree substitution but does not explicitly describe
+    the supports as an axis mundi or world tree.
+comparison_claims:
+- id: claim:1
+  claim: The quoted author interprets examples from the Aegean and Adriatic area as
+    belonging to a widespread ancient cult of a sky-father and earth-mother.
+  claim_level: same_motif
+  target: Aegean and Adriatic sky-father/earth-mother axe-cult synthesis
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is attributed to the quoted author and is not demonstrated
+    in detail within this short excerpt.
+- id: claim:2
+  claim: The passage juxtaposes an Assyrian cylinder and a Cretan Hagia Triada sarcophagus
+    as relevant examples in a discussion of axe imagery and cult symbolism beyond
+    Crete.
+  claim_level: visual_similarity
+  target: Assyrian axe-and-sceptre cylinder and Cretan double-axe sarcophagus imagery
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt supports juxtaposition and thematic comparison, but it
+    does not establish historical contact or a shared origin.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 1604-1610
+  quote_or_summary: The passage introduces and quotes A. B. Cook's paper titled "The
+    Cretan Axe Cult outside Crete."
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1611-1624
+  quote_or_summary: An Assyrian cylinder in white agate, brought from Constantinople
+    by M. Cayol, is described as showing a priestly personage presenting a fish to
+    a deity.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1618-1628
+  quote_or_summary: The same cylinder is described as showing the deity symbolized
+    by an axe and a knobbed sceptre erected on a high-backed throne; the caption identifies
+    the axe and knobbed sceptre as symbols of a deity.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1629-1647
+  quote_or_summary: The Hagia Triada sarcophagus is described as showing a pair of
+    double-axes embedded in supports interpreted as leafy pillars or posts, probably
+    cypress, serving as ritual substitutes for cypress trees; a bird is perched on
+    either axe.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1648-1661
+  quote_or_summary: The quoted author describes "joint worship of a sky-father and
+    an earth-mother" and says the former descends when lightning flashes down and
+    leaves his weapon as a tangible token.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but motif and comparison fields
+    depend on a quoted secondary comparative passage embedded within the source.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction is limited to the supplied passage. No claim is made that the Assyrian, Cretan, Aegean, or Adriatic material is Ekoi tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l1604-l1661
+  passage_sha256=ec050cab42f0496b9dcdbd8806957d5a1fe73887904ba5db27186cbb250ee0bd
+

@@ -1,0 +1,324 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l5237-l5268
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: SHADE-LAND / SHADE-LAND / CHAPTER XIII / DREAMS; lines 5237-5268
+  start: '5237'
+  end: '5268'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes dreams as central to Indian life and conduct. During
+    sleep the soul is said to leave the body through the chest and perform the dreamed
+    actions. Dangerous Tcilyikhama may enter the vacated body or seize the soul. The
+    body is described as a house or instrument of the soul, and dreams are treated
+    as declarations of the soul's will, as well as warnings and guides for behavior.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dreams are described as very important and as partly governing an Indian's
+    actions.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: During sleep the soul is said to detach from the body, pass out through the
+    chest, and do the things dreamed about.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Tcilyikhama are said to hover nearby and watch for an opportunity to enter
+    the body while the soul is absent.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In some cases the Tcilyikhama are said to cooperate, with one seizing the
+    soul while another takes possession of the body.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dreaming is characterized as dangerous adventurous journeying by the soul.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: While wandering, the soul is said to gratify its desires more freely than
+    in the body, though with less satisfaction than bodily experience provides.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The body is described as a house or instrument in the hands of the soul.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Dreams are treated as declarations of the soul's will, which should be gratified
+    through the body when possible.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Dreams are said to be regarded generally as warnings, guides, or intimations
+    about conduct.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Indian dreamer
+  description: A generalized Indian whose dreams, soul, body, desires, and conduct
+    are discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Soul
+  description: The soul detaches from the body in sleep, exits through the chest,
+    journeys, acts in dreams, and expresses a will to be fulfilled through the body.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Tcilyikhama
+  description: Beings said to hover around, enter the body during the soul's absence,
+    seize the soul, and possess the body.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: dreaming human subject
+  assigned_to:
+  - fig:1
+  basis: The passage describes the dreamer's actions being governed by dreams and
+    his conduct guided by them.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: wandering will-bearing soul
+  assigned_to:
+  - fig:2
+  basis: The soul leaves the body in sleep, journeys dangerously, gratifies desires,
+    and communicates its will through dreams.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: body-entering and soul-seizing beings
+  assigned_to:
+  - fig:3
+  basis: The Tcilyikhama are described as trying to enter the body when the soul is
+    absent and as sometimes seizing the soul.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: chest as soul exit
+  literal_form: The soul passes out through the chest during sleep.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: body as house or instrument
+  literal_form: The body is described as a house or an instrument in the hands of
+    the soul.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: soul absent from body
+  literal_form: The soul detaches from the body, leaving the body vulnerable to entry
+    by the Tcilyikhama.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Soul departure in sleep
+  summary: During sleep the soul leaves the body through the chest and performs the
+    dreamed actions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Danger from Tcilyikhama
+  summary: While the soul is absent, Tcilyikhama may hover nearby, enter the body,
+    seize the soul, or possess the body.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Dreams direct bodily conduct
+  summary: Because the body is considered the soul's house or instrument, dreams are
+    treated as declarations of the soul's will and as warnings or guides for behavior.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: dreaming as soul departure and journey
+  taxonomy_refs:
+  - departure
+  basis: The passage states that the soul detaches from the body during sleep, exits
+    through the chest, and that dreaming is an adventurous journeying of the soul.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy has no exact dream soul-flight category; 'departure'
+    is a broad functional match rather than a precise label.
+- id: motif:2
+  label: danger of spirit possession during soul absence
+  taxonomy_refs: []
+  basis: The Tcilyikhama are said to wait for the soul's absence, enter the body,
+    and in some cases divide the actions of seizing the soul and possessing the body.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No specific supplied taxonomy reference matches this possession pattern.
+- id: motif:3
+  label: body as dwelling or instrument of the soul
+  taxonomy_refs: []
+  basis: The passage explicitly describes the body as a house or instrument in the
+    hands of the soul.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a stated belief-image in the passage, but it does not correspond
+    to the supplied symbol taxonomy.
+- id: motif:4
+  label: dreams as warnings and guides to conduct
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says dreams are generally viewed as warnings, guides, or intimations
+    about a course of conduct.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The 'wisdom' taxonomy reference is broad; the passage frames dreams as
+    guidance rather than formal teaching or revelation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5237-5240
+  quote_or_summary: '"Dreams play a very important part in the life of an Indian,
+    and to some extent govern many of his actions."'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 5240-5244
+  quote_or_summary: During sleep the soul is said to detach from the body, pass out
+    through the chest, and actually do the things dreamed.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 5244-5248
+  quote_or_summary: The Tcilyikhama are said to hover around, seek entry into the
+    body during the soul's absence, and sometimes cooperate by seizing the soul while
+    another possesses the body.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 5248-5251
+  quote_or_summary: '"Dreaming is, therefore, in the opinion of the Indian, an adventurous
+    journeying of the soul, attended by much danger."'
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 5251-5255
+  quote_or_summary: While wandering, the ethereal soul can gratify desires more freely
+    than when in the body, but its incorporeal satisfaction is less than bodily satisfaction.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5256-5260
+  quote_or_summary: The body is considered a house or instrument of the soul, and
+    dreams are considered declarations of the soul's will to be gratified through
+    the body when possible.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 5260-5264
+  quote_or_summary: A man is said to dream about what occupies his mind, and dreams
+    may be confused combinations of past impressions.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 5265-5268
+  quote_or_summary: The passage says an Indian's thoughts are chiefly centered on
+    physical desires and that dreams are generally viewed as warnings, guides, or
+    intimations about conduct.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong because the passage states the dream-soul theory
+    directly. Motif taxonomy mappings are cautious because the supplied taxonomy lacks
+    exact categories for dream soul-flight and possession during soul absence. No
+    separate comparative claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. No claims of historical contact or broader cross-cultural comparison are made.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l5237-l5268
+  passage_sha256=32ec7c58d3664e5c1defc73ee48fba7690eb7920f117db0410a434741c84c868
+

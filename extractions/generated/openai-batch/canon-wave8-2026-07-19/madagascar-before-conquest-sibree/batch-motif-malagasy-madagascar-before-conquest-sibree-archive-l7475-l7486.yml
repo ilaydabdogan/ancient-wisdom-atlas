@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.malagasy-madagascar-before-conquest-sibree-archive-l7475-l7486
+source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+passage_locator:
+  label: CHAPTER VIII. / ISO MADAGASCAR BEFORE THE CONQUEST. / IS6 MADAGASCAR BEFORE
+    THE CONQUEST. / CURIOUS WORDS AND CUSTOMS AMONG THE MALAGASY. I73; lines 7475-7486
+  start: '7475'
+  end: '7486'
+  translation: 'Madagascar Before the Conquest: The Island, the Country, and the People'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The excerpt lists several Malagasy words and customs: noticing a bad smell,
+    pinching the sole as a sign of wishing to share another person''s good fortune,
+    throwing away an object connected with disease or calamity as a sign of wishing
+    to be rid of it, drinking water mixed with dust from a royal tomb, and striking
+    water with a spear while taking an oath to the sovereign as a symbol of allegiance.'
+  language: English with Malagasy terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage mentions a practice or response connected with noticing a bad
+    smell, with the author parenthetically suggesting it may be a sanitary precaution.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pinching the sole is glossed as a symbol of wanting to share another person's
+    good fortune.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Throwing away an object that has a supposed connection, sometimes only verbal,
+    with disease or calamity is glossed as a symbol of wanting to be rid of calamity.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Drinking water mixed with dust from a royal tomb is listed as a custom.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Striking water with a spear while taking an oath to the sovereign is glossed
+    as a symbol of allegiance.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: custom participant
+  description: An implied person performing the listed actions such as pinching the
+    sole, throwing away an object, drinking the water mixture, or striking water with
+    a spear.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: other person with good fortune
+  description: The person whose good fortune the participant desires to share.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: sovereign
+  description: The sovereign to whom an oath is taken in the water-striking custom.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ritual or custom actor
+  assigned_to:
+  - fig:1
+  basis: The passage lists actions performed in the named customs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: possessor of desired good fortune
+  assigned_to:
+  - fig:2
+  basis: The sole-pinching action is said to symbolize a desire to share in another's
+    good fortune.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient of oath and allegiance
+  assigned_to:
+  - fig:3
+  basis: The water-striking action occurs when taking an oath to the sovereign and
+    symbolizes allegiance.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sole-pinching gesture
+  literal_form: pinching the sole
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: discarded connected object
+  literal_form: an object with a supposed, often verbal, connection with disease or
+    calamity, thrown away
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water mixed with royal tomb dust
+  literal_form: water mixed with dust from a royal tomb
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: water struck with a spear
+  literal_form: water struck with a spear during an oath to the sovereign
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: customs of fortune-sharing and calamity-removal
+  summary: The excerpt describes pinching the sole to express a wish to share another
+    person's good fortune and throwing away a connected object to express a wish to
+    be rid of disease or calamity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: royally associated water customs
+  summary: The excerpt lists drinking water mixed with dust from a royal tomb and
+    striking water with a spear while taking an oath to the sovereign, the latter
+    being described as a symbol of allegiance.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sharing another's good fortune through bodily gesture
+  taxonomy_refs: []
+  basis: The passage explicitly says pinching the sole symbolizes a desire to share
+    in another's good fortune.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives a symbolic meaning but does not provide a narrative
+    context.
+- id: motif:2
+  label: removal of calamity by discarding an associated object
+  taxonomy_refs: []
+  basis: The passage says an object supposedly connected with disease or calamity
+    is thrown away as a symbol of wanting to be rid of calamity.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The connection may be verbal, and the excerpt does not describe a full
+    ritual sequence beyond disposal.
+- id: motif:3
+  label: drinking water mixed with royal tomb dust
+  taxonomy_refs: []
+  basis: The passage lists drinking water mixed with dust from a royal tomb as a named
+    custom.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No symbolic interpretation is supplied in this excerpt.
+- id: motif:4
+  label: water-and-spear oath of allegiance to a sovereign
+  taxonomy_refs:
+  - covenant
+  basis: The passage describes striking water with a spear at the time of taking an
+    oath to the sovereign and calls it a symbol of allegiance.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to covenant is functional and interpretive; the excerpt
+    describes a custom rather than a mythic covenant narrative.
+comparison_claims:
+- id: claim:1
+  claim: The water-and-spear oath custom can be cautiously compared at the level of
+    function to a covenant or oath-allegiance pattern, because it marks an oath to
+    a sovereign and symbolizes allegiance.
+  claim_level: same_function
+  target: covenant motif family / oath-allegiance pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not present a narrative covenant, origin story, or
+    evidence of historical contact.
+- id: claim:2
+  claim: The disposal of an object linked with disease or calamity can be cautiously
+    compared at the level of function to a symbolic removal or aversion-of-calamity
+    ritual pattern.
+  claim_level: same_function
+  target: symbolic removal of calamity by transfer or disposal
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The pattern is inferred from the stated symbolic function; no broader
+    comparative corpus is cited in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7475-7476
+  quote_or_summary: A custom or response is mentioned in connection with noticing
+    a bad smell, with a parenthetical suggestion that it may be a sanitary precaution.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 7476-7478
+  quote_or_summary: "“Ny mitshngo dia (lit., pinching the sole), symbol of a desire
+    to share in another's good fortune”"
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 7478-7481
+  quote_or_summary: Ny miala fdditra is described as throwing away an object with
+    a supposed, often verbal, connection with disease or calamity, symbolizing a desire
+    to be rid of calamity.
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 7481-7483
+  quote_or_summary: "“Ny misbtro vbkaka (drinking water mixed with dust from a royal
+    tomb)”"
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 7482-7485
+  quote_or_summary: "“Ny mively rano (striking water with a spear, at the time of
+    taking an oath to the sovereign), symbol of allegiance.”"
+  source_text_path: texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage directly supplies several symbolic meanings, but some motif labels
+    and taxonomy mapping are functional interpretations and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures, objects, or comparisons beyond those supported by the provided passage and available taxonomy were added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:malagasy-madagascar-before-conquest-sibree-archive__l7475-l7486
+  passage_sha256=03bc06abe48c45c050729ba7b3d60f0a181aff74d5bf023d17f92557b65e145a
+

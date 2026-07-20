@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l29997-l30006
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SUPERSTITIONS.      L.  1841 / M.      ESTHONIAN.' / SUPERSTITIONS.      L,  M.  1843
+    / SUPERSTITIONS.      M.  1845; lines 29997-30006
+  start: '29997'
+  end: '30006'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: It is a sacrifice to the Invisible Spirit.
+  summary: Four superstition entries state that farmers avoid giving earth from cornfields
+    because it is thought to diminish prosperity; stepping over a girdle is said to
+    cause itch; being beaten with dry twigs is said to cause consumption or leanness;
+    and portions from a new loaf and drops from a full cup are given to the ground
+    as a sacrifice to the Invisible Spirit.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A farmer is said to be unwilling to give earth from his cornfields because
+    he thinks this gives away a part of his prosperity.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Stepping over a person's girdle is said to bring on the itch.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: People are said to avoid being beaten with dry twigs because it brings on
+    consumption or leanness.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When cutting a new loaf, some is thrown aside; from a full cup, drops are
+    allowed to fall on the ground.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The discarded loaf portion and fallen drops are described as a sacrifice to
+    the Invisible Spirit.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: farmer
+  description: A farmer who refuses to give earth from his cornfields because he associates
+    it with his prosperity.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: person observing bodily or clothing taboos
+  description: An unnamed person cautioned against letting another step over a girdle
+    or against being beaten with dry twigs.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: people cutting a new loaf and using a full cup
+  description: Unnamed people who throw aside part of a new loaf and let drops from
+    a full cup fall on the ground.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Invisible Spirit
+  description: An unseen spirit named as the recipient of the sacrifice.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: holder of field prosperity
+  assigned_to:
+  - fig:1
+  basis: The farmer is said to believe that giving away field earth is parting with
+    prosperity.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: taboo observer
+  assigned_to:
+  - fig:2
+  basis: The passage frames the girdle-crossing and dry-twig beating actions as things
+    to avoid because they bring illness or wasting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: offering practitioner
+  assigned_to:
+  - fig:3
+  basis: The people set aside part of a loaf and let drops fall from a cup in an act
+    described as sacrifice.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:4
+  basis: The passage explicitly states that the act is a sacrifice to the Invisible
+    Spirit.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cornfield earth
+  literal_form: earth taken from cornfields
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: girdle
+  literal_form: personal girdle that no one should step over
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dry twigs
+  literal_form: dry twigs used in beating
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: new loaf
+  literal_form: new loaf from which some is thrown aside
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: full cup and drops
+  literal_form: a full cup from which drops are allowed to fall on the ground
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: ground receiving drops
+  literal_form: ground on which drops from the full cup fall
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Refusal to give cornfield earth
+  summary: A farmer refuses to give away earth from his cornfields because he believes
+    doing so gives away part of his prosperity.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Girdle-crossing taboo
+  summary: A person is warned not to let anyone step over the person's girdle because
+    the act is said to bring itch.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dry-twig beating taboo
+  summary: A person avoids being beaten with dry twigs because the act is said to
+    bring consumption or leanness.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Loaf and cup offering
+  summary: When a new loaf is cut, some is thrown aside, and drops from a full cup
+    are let fall on the ground; this is described as a sacrifice to the Invisible
+    Spirit.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Prosperity attached to field earth
+  taxonomy_refs: []
+  basis: The farmer's prosperity is treated as materially connected with earth from
+    his cornfields, so giving earth away is avoided.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage reports a superstition but does not elaborate a narrative
+    or name a wider motif family.
+- id: motif:2
+  label: Harm from crossing a personal garment
+  taxonomy_refs: []
+  basis: Stepping over a girdle is said to cause itch.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The mechanism and cultural context are not explained in the passage.
+- id: motif:3
+  label: Wasting illness from dry-twig beating
+  taxonomy_refs: []
+  basis: Being beaten with dry twigs is said to bring consumption or leanness.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief superstition entry without a narrative
+    context.
+- id: motif:4
+  label: Food and drink sacrifice to an invisible spirit
+  taxonomy_refs:
+  - sacrifice
+  basis: A portion of a new loaf and drops from a full cup are given to the ground,
+    and the act is explicitly called a sacrifice to the Invisible Spirit.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify the identity, attributes, or mythic role
+    of the Invisible Spirit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 29997-29998
+  quote_or_summary: A farmer will not give earth from his cornfields because he thinks
+    it is parting with a good piece of his prosperity.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: line 30000
+  quote_or_summary: No one should step over a person's girdle, since it is said to
+    bring on itch.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 30002-30003
+  quote_or_summary: Being beaten with dry twigs is avoided because it is said to bring
+    on consumption or leanness.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 30005-30006
+  quote_or_summary: When cutting a new loaf, some is thrown aside, and drops from
+    a full cup fall on the ground; "It is a sacrifice to the Invisible Spirit."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal entries are clear. Motif labels are cautious because most entries
+    are brief superstition statements rather than developed narratives. No comparison
+    claims were made beyond taxonomy tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and source metadata. Taxonomy reference applied only where the passage explicitly names a sacrifice.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l29997-l30006
+  passage_sha256=b1dd51576e4fb7457ad2b0d5a08f4ff50b08cfebb82c7d5e773be041c8e74e35
+

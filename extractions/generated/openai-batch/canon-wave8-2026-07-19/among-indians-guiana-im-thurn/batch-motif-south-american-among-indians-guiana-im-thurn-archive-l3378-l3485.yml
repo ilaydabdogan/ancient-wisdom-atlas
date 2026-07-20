@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.south-american-among-indians-guiana-im-thurn-archive-l3378-l3485
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+passage_locator:
+  label: MAP OF BRITISH GUIANA / PLATE III. / PORTAGING THE BOAT, / AGEL(IEUS IMTHURNI;
+    lines 3378-3485
+  start: '3378'
+  end: '3485'
+  translation: 'Among the Indians of Guiana: Being Sketches Chiefly Anthropologic
+    from the Interior of British Guiana'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator describes a journey up the Essequibo and Potaro rivers during
+    heavy rains and high water. Rapids, cataracts, falls, sandbanks, rocks, foam,
+    and dark floodwater are observed. A large camoodi snake is found on rocks and
+    shot. The passage also describes the flowering season along the Potaro, with cakeralli
+    trees, Petrea martiana, and Posoqueria longiflora reflected in or growing near
+    the river water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The journey up the Essequibo to the mouth of the Potaro took five days while
+    the river was high and beginning to sink after rains.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At Coomaka rapids, the travelers found a large camoodi snake asleep on rocks;
+    the narrator's companion shot it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: At Toomatoomari, the area below the cataract appeared as one sheet of water
+    covered with masses of white foam.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Potaro was in flood and rose higher during the expedition; rapids, cataracts,
+    and falls widened greatly compared with the narrator's earlier visit.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Between the falls, sandbanks and rocks were covered by a strong, swift flow
+    of dark water carrying white foam.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The narrator states that this was the chief flowering season of the year,
+    and bright flowers appeared in masses along the banks.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Cakeralli trees along the riverbanks had pink orchid-like flowers and sometimes
+    overhung the water, where their blossoms were reflected.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Petrea martiana produced intense blue star-flowers that appeared as blue reflections
+    on the water surface.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: Posoqueria longiflora had white waxy long-tubed flowers, a sweet scent, and
+    orange-coloured fruits on flowering branches.
+  category: object
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Narrator and traveling party
+  description: Travelers moving up the Essequibo and Potaro rivers and observing the
+    flooded river, cataracts, snake, and flowering plants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Narrator's companion
+  description: A companion of the narrator who shot the camoodi snake found asleep
+    on rocks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Camoodi snake
+  description: A large snake, identified as camoodi or Eunectes murina, found asleep
+    on rocks at Coomaka; it measured twenty feet in length and three feet in girth
+    at the thickest.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: traveler-observer
+  assigned_to:
+  - fig:1
+  basis: The passage presents the party's journey and descriptions of river conditions
+    and plants.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: snake-killer
+  assigned_to:
+  - fig:2
+  basis: The companion shoots the snake found on rocks.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: encountered animal
+  assigned_to:
+  - fig:3
+  basis: The snake is encountered asleep on rocks during the river journey.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: flood water
+  literal_form: High, dark river water, widened falls, cataracts, foam, and submerged
+    sandbanks and rocks on the Potaro.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: large snake
+  literal_form: Camoodi snake, identified as Eunectes murina, asleep on rocks and
+    later shot.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: flowering riverbank trees
+  literal_form: Cakeralli trees and other flowering plants along the riverbank, including
+    branches overhanging or reflected in the water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Journey to the Potaro in high water
+  summary: The travelers proceed up the Essequibo to the Potaro after heavy rains,
+    with the river high and beginning to sink.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Snake at Coomaka rapids
+  summary: At the side of the rapids at Coomaka, the party finds a large camoodi snake
+    asleep on rocks, and the narrator's companion shoots it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Flooded cataract at Toomatoomari
+  summary: At Toomatoomari, the cataract and area below it are transformed by floodwater,
+    foam, and widened flow.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Flowering banks of the Potaro
+  summary: During the chief flowering season, bright flowers and flowering trees along
+    the riverbanks produce reflections in the dark water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: seasonal flood transformation of landscape
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly connects rains, high river water, widened falls, submerged
+    rocks and sandbanks, and changed river scenery during the expedition.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a literal travel and natural-history description, not a narrated
+    mythic seasonal-cycle episode.
+- id: motif:2
+  label: serpent encountered by water
+  taxonomy_refs:
+  - serpent
+  basis: A large camoodi snake is found asleep on rocks beside rapids during the river
+    journey.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage treats the snake as a natural animal encounter and provides
+    no mythic role or supernatural attributes.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3382-3387
+  quote_or_summary: The journey up the Essequibo to the mouth of the Potaro took five
+    days; the river was high after heavy rains and was beginning to sink.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 3389-3396
+  quote_or_summary: At Coomaka the party found “a great snake, a camoodi (Eunectes
+    murina) asleep on rocks”; the companion shot it, and it measured twenty feet long
+    and three feet in girth.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 3398-3407
+  quote_or_summary: At Toomatoomari, below the cataract, the former sandbanks and
+    rocks were replaced by one sheet of water with white foam from the tumbling water
+    above.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3410-3430
+  quote_or_summary: The Potaro was higher than the Essequibo, rose during the expedition,
+    and received frequent heavy rain near Kaieteur.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3432-3447
+  quote_or_summary: The Potaro was in flood; rapids, cataracts, and falls widened
+    from a few yards to many hundred feet, while sandbanks and rocks were covered
+    by swift dark water and white foam.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3454-3464
+  quote_or_summary: The passage identifies the time as the chief flowering season
+    of the year and notes masses of bright flowers gleaming along the banks.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3464-3476
+  quote_or_summary: Cakeralli trees on the riverbanks are described as small, gnarled,
+    and flowering, with pink orchid-like blossoms; some overhang the water and reflect
+    in it.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3476-3482
+  quote_or_summary: A blue patch on the water is attributed to reflections from foot-long
+    wreaths of intense blue star-flowers of Petrea martiana.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 3483-3485
+  quote_or_summary: Posoqueria longiflora is described with white waxy long-tubed
+    flowers, sweet scent, and orange-coloured fruits on flowering branches.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a descriptive travel/natural-history account rather than a
+    mythic narrative. Literal extraction is straightforward; motif labels are limited
+    to cautious environmental and serpent-pattern candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims are made because the passage itself does not support comparison to another tradition, text, or motif family beyond cautious taxonomy tagging of literal water, serpent, tree, and seasonal patterns.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-among-indians-guiana-im-thurn-archive__l3378-l3485
+  passage_sha256=23ae24e42e430d5dd1f0f9d938972f4f54015a952e4a4bf0de6b282b40e611fb
+

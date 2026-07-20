@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l8371-l8404
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: VEGETATION. / ANIMAL LIFE. / MAMMALS. / BIRDS.; lines 8371-8404
+  start: '8371'
+  end: '8404'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a natural-history account of birds in the northern Ungava
+    district, noting resident species, winter variation in abundance, food use of
+    Lagapus species, absence or limited breeding of some water birds, and breeding
+    observations for gulls, Arctic terns, and smaller waders near Fort Chimo, Hudson
+    Strait, and Ungava Bay.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fewer than twenty bird species were ascertained as actual residents in the
+    northern Ungava district.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two species of the genus Lagapus are described as the most abundant birds
+    in the region and as an important food article for local inhabitants.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Winter conditions are said to influence smaller resident bird species, with
+    Acanthu species very numerous in winter 1882-83 but not observed from mid-November
+    to late March in winter 1883-84.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The white-winged crossbill was abundant in the first winter mentioned, but
+    only a small apparently vagrant flock was observed in the last winter.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Certain expected water birds were absent, and the country is described as
+    unsuitable for many of them to rear young because of limited food.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Larus argentatus smithsonianus is identified as the only gull breeding abundantly
+    within Ungava Bay.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Arctic tern was the only tern ascertained to breed in Hudson Strait, though
+    the observer was uncertain whether it bred there every year.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Two smaller wader species were confirmed to breed near Fort Chimo, with two
+    or three other species observed under circumstances indicating that they also
+    breed there.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: resident birds of northern Ungava district
+  description: Bird species described as actual residents, numbering fewer than twenty
+    species.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: two species of genus Lagapus
+  description: The most abundant birds in the region and an important article of food
+    for local inhabitants.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: four species of genus Acanthu
+  description: Smaller resident birds whose winter abundance varied sharply between
+    1882-83 and 1883-84.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: white-winged crossbill
+  description: A bird abundant in the first winter mentioned but represented only
+    by a small apparently vagrant flock in the last winter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: water birds
+  description: Expected water-bird species, some of which were absent or limited in
+    breeding by local conditions.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Larus argentatus smithsonianus
+  description: A gull identified as breeding abundantly within Ungava Bay.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Arctic tern
+  description: A tern ascertained to breed in Hudson Strait, with uncertainty about
+    yearly breeding.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: smaller waders
+  description: Birds of which two species were confirmed and two or three others inferred
+    to breed near Fort Chimo.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:9
+  name_or_label: people inhabiting the district
+  description: Local inhabitants for whom Lagapus species form an important article
+    of food.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: resident bird species
+  assigned_to:
+  - fig:1
+  basis: The passage says actual residents were fewer than twenty species in the northern
+    Ungava district.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: abundant food bird
+  assigned_to:
+  - fig:2
+  basis: Lagapus species are described as most abundant and important as food.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: winter-variable small bird
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage contrasts winter abundance and absence or rarity across two winters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: expected but limited water bird
+  assigned_to:
+  - fig:5
+  basis: Some expected water birds are said to be absent or unable to rear young because
+    of local conditions.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: breeding bird
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:8
+  basis: The passage identifies gulls, terns, and waders as breeding in specified
+    areas.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:6
+  label: human consumers of local birds
+  assigned_to:
+  - fig:9
+  basis: People inhabiting the district are said to use Lagapus species as an important
+    food article.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: resident and winter bird observations in northern Ungava
+  summary: The passage describes resident birds, emphasizes the abundance and food
+    value of Lagapus species, and compares the winter abundance of Acanthu species
+    and the white-winged crossbill across two winters.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: water-bird and breeding observations near Ungava Bay, Hudson Strait, and
+    Fort Chimo
+  summary: The passage notes absence or limited breeding among expected water birds,
+    then identifies particular gulls, terns, and waders as breeding in specific localities.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8371-8375
+  quote_or_summary: The text states that fewer than twenty species were actual residents
+    in the northern Ungava district.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8376-8379
+  quote_or_summary: Two Lagapus species are said to be the most abundant birds in
+    the region and important food for inhabitants of the district.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8379-8385
+  quote_or_summary: The winter is described as affecting smaller resident species;
+    Acanthu species were very numerous in winter 1882-83 but absent from observation
+    for much of winter 1883-84.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8385-8388
+  quote_or_summary: The white-winged crossbill was abundant in one winter, while only
+    a small apparently vagrant flock was observed in the later winter.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8389-8393
+  quote_or_summary: Certain expected water birds were absent; the country is described
+    as poor for rearing young because there is little to feed upon, and few breed
+    near Fort Chimo.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8393-8395
+  quote_or_summary: Among gulls, Larus argentatus smithsonianus is identified as the
+    only one breeding abundantly within Ungava Bay.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8395-8400
+  quote_or_summary: The Arctic tern is described as the only tern ascertained to breed
+    in Hudson Strait, with uncertainty about annual breeding and evidence from eggs
+    secured in 1884.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8401-8404
+  quote_or_summary: Two smaller wader species were confirmed to breed near Fort Chimo,
+    and observations suggested two or three other species also breed there.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is a natural-history description of birds and breeding observations
+    rather than a mythic, ritual, or symbolic narrative. Literal extraction is straightforward,
+    but no comparative mythology motifs or supported comparison claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the passage does not support mythological or symbolic interpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l8371-l8404
+  passage_sha256=6a243489bcb8e33bc851b49e25909b3a61d92a5583ef7702ce53d85772890440
+

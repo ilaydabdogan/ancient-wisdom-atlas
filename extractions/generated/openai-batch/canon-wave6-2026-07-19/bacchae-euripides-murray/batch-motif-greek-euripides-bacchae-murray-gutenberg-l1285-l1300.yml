@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1285-l1300
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: LEADER. / DIONYSUS. / LEADER. / DIONYSUS.; lines 1285-1300
+  start: '1285'
+  end: '1300'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Dionysus addresses dismayed women of the hills, referring to a powerful
+    action against the house of Pentheus. The Leader recognizes him as light in darkness
+    and as priest. Dionysus says the gates and darkness of Pentheus should not have
+    been able to confine or quell him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Dionysus addresses the Damsels of the Morning Hills and asks why they are
+    lying dismayed.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Dionysus refers to a Master whose mighty hand was laid on tower and rock,
+    shaking the house of Pentheus.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Dionysus tells the women to arise, stop trembling, and lift untroubled eyes.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Leader addresses the returning speaker as Light in Darkness and Priest,
+    and says her heart leaps to greet him from loneliness.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dionysus says he passed beneath the Gate and questions whether the gates or
+    darkness of Pentheus could hold or subdue him.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dionysus
+  description: Named speaker who addresses the Damsels, commands them to rise, and
+    says the gates and darkness of Pentheus cannot quell or hold him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Damsels of the Morning Hills
+  description: Group addressed by Dionysus as lying dismayed and trembling.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Leader
+  description: Speaker who recognizes Dionysus as Light in Darkness and Priest and
+    greets him from loneliness.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Pentheus
+  description: Named figure associated with the house, gates, and darkness mentioned
+    by Dionysus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: addressing speaker
+  assigned_to:
+  - fig:1
+  basis: Dionysus speaks directly to the Damsels and later replies to their despair.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: unconfined or unquelled figure
+  assigned_to:
+  - fig:1
+  basis: Dionysus says the gates and darkness of Pentheus should not be able to quell
+    or hold him.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: dismayed group
+  assigned_to:
+  - fig:2
+  basis: They are described as lying dismayed and trembling before Dionysus tells
+    them to arise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: recognizing speaker
+  assigned_to:
+  - fig:3
+  basis: The Leader recognizes and greets Dionysus as Light in Darkness and Priest.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: owner or namesake of opposed house and gates
+  assigned_to:
+  - fig:4
+  basis: The house, gates, and darkness are identified as belonging to Pentheus.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: Light in Darkness
+  literal_form: The Leader’s address to Dionysus as “Light in Darkness.”
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Gate of Pentheus
+  literal_form: A gate beneath which Dionysus says he passed; associated with Pentheus.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: house of Pentheus
+  literal_form: House shaken after a mighty hand is laid on tower and rock.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Morning Hills
+  literal_form: The hills associated with the Damsels addressed by Dionysus.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: darkness of Pentheus
+  literal_form: Darkness associated with Pentheus, described as unable to make Dionysus
+    fast.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Dionysus addresses the dismayed Damsels
+  summary: Dionysus finds the Damsels of the Morning Hills dismayed and trembling,
+    refers to the shaking of the house of Pentheus, and tells them to rise and be
+    untroubled.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Recognition and denial of confinement
+  summary: The Leader recognizes Dionysus as Light in Darkness and Priest. Dionysus
+    says he passed beneath the Gate and that Pentheus’ gates and darkness should not
+    have held or quelled him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: power overcoming a hostile house or enclosure
+  taxonomy_refs: []
+  basis: The passage links the shaking of Pentheus’ house with Dionysus’ claim that
+    Pentheus’ gates and darkness cannot hold or quell him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only a short dramatic exchange; it does not narrate
+    the full event or its cause.
+- id: motif:2
+  label: light recognized in darkness
+  taxonomy_refs: []
+  basis: The Leader addresses Dionysus as Light in Darkness and greets him after loneliness.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an address within dialogue and may be metaphorical; no broader
+    symbolic system is stated in the excerpt.
+- id: motif:3
+  label: divine judgment against a ruler’s house
+  taxonomy_refs:
+  - divine_judgment
+  basis: Dionysus is the named speaker, and the passage describes a mighty hand shaking
+    the house of Pentheus and the inability of Pentheus’ gates or darkness to confine
+    him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: low
+  cautions: The excerpt does not explicitly state a judicial sentence or identify
+    the action as judgment; the taxonomy link requires human review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1285-1288
+  quote_or_summary: Dionysus addresses the Damsels of the Morning Hills as dismayed
+    and says they marked the Master’s mighty hand on tower and rock, shaking the house
+    of Pentheus.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1288-1290
+  quote_or_summary: Dionysus tells them to arise, cast trembling from their flesh,
+    and lift untroubled eyes.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 1292-1295
+  quote_or_summary: "“O Light in Darkness, is it thou? O Priest, is this thy face?”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1297-1300
+  quote_or_summary: Dionysus says he passed beneath the Gate and asks whether Pentheus’
+    gates could quell him or Pentheus’ darkness make him fast.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are cautious because the excerpt is brief and largely dialogic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage alone does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1285-l1300
+  passage_sha256=f39ace35cf4cd3eac3c529040f410848abf07438d1e817ddaea5aa433391282f
+

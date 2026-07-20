@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l10002-l10016
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: VIRTUE  AND  GREED  207 / THE  MAGIC  DOOR  209 / THE  MAGIC  DOOR / THE  DECEITFUL  SPIDER,  THE  HALF-MAN,  AND  THE;
+    lines 10002-10016
+  start: '10002'
+  end: '10016'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a tale titled for the Deceitful Spider, the Half-Man, and the Rubber-Girl,
+    Spider tells his wife to prepare ground-nuts and says he is going to sow them.
+    He takes a hoe but instead stops at a cool shady place near water, eats, drinks,
+    sleeps, then covers his body with mud and returns to his wife.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage title names the Deceitful Spider, the Half-Man, and the Rubber-Girl.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Spider tells his wife to measure out ground-nuts and to peel and cook them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ground-nuts are peeled and cooked, and salt and oil are mixed with them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Spider says that he is going to sow.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Spider takes a hoe and starts off.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Spider finds a cool, shady spot near water, sits down, eats his fill, drinks,
+    and sleeps.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After waking, Spider plasters mud on his body.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Spider returns to his wife after plastering himself with mud.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Spider
+  description: A named tale figure called the Deceitful Spider; he instructs his wife,
+    says he will sow, carries a hoe, eats and sleeps near water, covers himself with
+    mud, and returns.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Wife
+  description: Spider's wife, who is told to measure, peel, and cook the ground-nuts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Half-Man
+  description: A figure named in the tale title, with no action in this excerpt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Rubber-Girl
+  description: A figure named in the tale title, with no action in this excerpt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: deceitful title figure
+  assigned_to:
+  - fig:1
+  basis: The title calls the Spider deceitful.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: food-seeking actor
+  assigned_to:
+  - fig:1
+  basis: Spider has ground-nuts prepared, says he will sow, but then eats his fill
+    near the water.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: wife and preparer of food
+  assigned_to:
+  - fig:2
+  basis: Spider's wife is instructed to measure, peel, and cook the ground-nuts.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: title figure not active in excerpt
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The Half-Man and Rubber-Girl are named only in the title within this excerpt.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: ground-nuts
+  literal_form: Measured, peeled, cooked ground-nuts mixed with salt and oil.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hoe
+  literal_form: A hoe carried by Spider when he starts off after saying he will sow.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water
+  literal_form: Water near the cool, shady spot where Spider sits, eats, drinks, and
+    sleeps.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mud on body
+  literal_form: Mud plastered on Spider's body after he wakes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: cool shady spot
+  literal_form: A cool, shady place near water where Spider stops instead of continuing
+    to sow.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Preparation under the stated purpose of sowing
+  summary: Spider tells his wife to measure, peel, and cook ground-nuts; the nuts
+    are prepared with salt and oil, and Spider says he is going to sow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Eating and sleeping near water
+  summary: Spider takes a hoe and leaves, but stops at a cool shady place near water,
+    eats his fill, drinks, and sleeps.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Mud-covered return
+  summary: After waking, Spider plasters mud on his body and returns to his wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: deceptive trickster obtaining and consuming food
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The title identifies Spider as deceitful; he has ground-nuts prepared, says
+    he will sow, but then eats his fill near water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not include the later consequences or any explicit explanation
+    of the deception.
+- id: motif:2
+  label: false work or feigned agricultural labor
+  taxonomy_refs: []
+  basis: Spider says he is going to sow and takes a hoe, but the narrated action shows
+    him stopping to eat, drink, and sleep instead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state directly that he lies about having worked;
+    that may be clarified outside the excerpt.
+- id: motif:3
+  label: bodily mud as possible concealment or false evidence
+  taxonomy_refs: []
+  basis: After sleeping, Spider plasters mud on his body before returning to his wife.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The purpose of the mud is not stated in the excerpt, so its function remains
+    uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10002-10004
+  quote_or_summary: 'Title: "THE DECEITFUL SPIDER, THE HALF-MAN, AND THE RUBBER-GIRL."'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 10005-10010
+  quote_or_summary: Spider tells his wife to measure out ground-nuts, peel and cook
+    them; salt and oil are mixed in, and Spider says he is going to sow.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 10011-10014
+  quote_or_summary: Spider takes his hoe, starts off, finds a cool shady spot near
+    water, sits down, eats his fill, drinks, and sleeps.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 10015-10016
+  quote_or_summary: When Spider wakes, he gets mud, plasters it on his body, and returns
+    to his wife.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the supplied lines. Motif identification
+    is limited because the excerpt ends before the outcome or explanation of Spider's
+    mud-covered return.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt supports only local motif candidates, not a specific cross-text comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l10002-l10016
+  passage_sha256=558d321001823f39dc05a39862902ecbb53ac7d3759a560497e1d632e58f1472
+

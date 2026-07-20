@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l5055-l5131
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: PRODUCTS / AGRICULTURE / MEASURES / BARTER; lines 5055-5131
+  start: '5055'
+  end: '5131'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a lizard effigy, a mask connected by the author to
+    southern or masked Xavitco ceremonial influence, ceremonial wands used in rainmaking
+    and healing ceremonies, and stone metates in Pima and other Southwestern contexts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A figure caption identifies a lizard effigy.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author considers it probable that the conception, if not the mask itself,
+    was imported from the southward with masked Xavitco ceremonies, while noting that
+    the former owner asserted otherwise.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The mask is made of cottonwood, perforated for horsehair facial features,
+    decorated with scrolls and lines, and fitted with pegs representing teeth.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'Two ceremonial wands or sticks are described: a longer greasewood wand spotted
+    with black and red paint and a shorter willow wand spotted with red.'
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The wands were made to be held in the hand during ceremonies intended to bring
+    rain, cure disease, and serve related purposes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Metates are described as abundant stone implements in the Southwest, with
+    broken fragments found around ruins.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Hohokam and Hopi metates are described as having forms that differ from Pima
+    metates, including lava examples with legs and hollowed-out forms.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Pima metates are described as flat from side to side, slightly concave end
+    to end, made of coarse-grained local rock, uncarved, without legs, movable around
+    premises, and roughened by pecking.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A figure caption describes grinding wheat on a metate.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Yaquis of Sonora
+  description: A group mentioned in a fragmentary object-origin context near the lizard
+    effigy and mask discussion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Pima
+  description: The group whose carving and metate forms are discussed in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Former owner of the mask
+  description: A prior owner whose assertion is said to contradict the author's proposed
+    southern import of the mask or its conception.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Hohokam
+  description: An archaeological/cultural reference associated with lava metates with
+    legs in ruins.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Hopis
+  description: A comparative group whose metates are described as hollowed out.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Pueblo tribes
+  description: A comparative group whose metates are described as set in bins, unlike
+    Pima metates.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: possible source or maker group
+  assigned_to:
+  - fig:1
+  basis: The passage fragment mentions the Yaquis of Sonora in relation to object
+    origin, though the exact object association is unclear in the supplied text.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: described local group and object users
+  assigned_to:
+  - fig:2
+  basis: The passage contrasts Pima carving with the mask and describes Pima metate
+    form and use.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: former owner or informant
+  assigned_to:
+  - fig:3
+  basis: The former owner is cited as asserting a view contrary to the author's southern-import
+    explanation.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: comparative cultural or archaeological reference
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage compares Hohokam, Hopi, Pueblo, and Pima metate forms or storage
+    practices.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: lizard effigy
+  literal_form: Effigy identified in a figure caption as a lizard effigy.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Navitco or Xavitco ceremonial mask
+  literal_form: Cottonwood mask with horsehair facial insertions, decorative lines,
+    and pegs representing teeth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: ceremonial wands
+  literal_form: Greasewood and willow sticks painted with red and black spots, held
+    in ceremonies for rainmaking, healing, and related purposes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: metate
+  literal_form: Stone grinding slab used for grinding wheat; Pima examples are described
+    as flat, slightly concave, uncarved, and without legs.
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Mask origin and construction
+  summary: The passage discusses a mask that the author thinks probably came from,
+    or was influenced by, the southward masked Xavitco ceremonies, then describes
+    its cottonwood body, horsehair insertions, decoration, and tooth pegs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Ceremonial wand use
+  summary: Two painted ceremonial wands are described as objects held during ceremonies
+    intended to bring rain, cure disease, and accomplish related purposes.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Metate comparison and grinding context
+  summary: The passage describes metates as common Southwestern stone implements,
+    compares Pima forms with Hohokam, Hopi, and Pueblo examples, and includes a caption
+    of wheat being ground on a metate.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ceremonial paraphernalia for rainmaking and healing
+  taxonomy_refs: []
+  basis: The wands are explicitly said to be held in ceremonies intended to bring
+    rain, cure disease, and serve kindred purposes.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage describes ritual function but does not narrate a myth or explain
+    symbolic theology.
+- id: motif:2
+  label: masked ceremonial object with proposed external origin
+  taxonomy_refs: []
+  basis: The author connects the mask or its conception to masked Xavitco ceremonies
+    imported from the southward, while noting disagreement from the former owner.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The claim is the author's inference and is qualified by the former owner's
+    contrary assertion; the supplied passage gives no full ceremonial narrative.
+- id: motif:3
+  label: stone-grinding food-preparation implement as cultural pattern
+  taxonomy_refs: []
+  basis: The passage treats metates as widespread Southwestern implements and describes
+    Pima wheat grinding and regional formal differences.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a material-culture pattern rather than a mythological motif in
+    the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents Pima, Hohokam, Hopi, and Pueblo metates as the
+    same functional class of grinding implement while emphasizing differences in form
+    and placement.
+  claim_level: same_function
+  target: Southwestern metate traditions including Pima, Hohokam, Hopi, and Pueblo
+    examples
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to object form, setting, and use as described
+    in this ethnographic passage.
+- id: claim:2
+  claim: The passage advances a cautious diffusion or historical-contact explanation
+    for the mask or its conception, linking it to southward masked Xavitco ceremonies.
+  claim_level: historical_contact
+  target: Southward or Sonoran masked Xavitco ceremonial tradition
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: The author states this as probable rather than certain, and the former
+    owner's contrary assertion is explicitly noted; the exact association of the Yaqui
+    reference is unclear in the supplied OCR fragment.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5055-5056
+  quote_or_summary: "“Fig. 25, b. Lizard effigy.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 5057-5083
+  quote_or_summary: Fragmentary passage mentions the Yaquis of Sonora and says the
+    author thinks the mask or its conception was probably imported from the southward
+    with masked Xavitco ceremonies, despite the former owner's contrary assertion.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 5084-5095
+  quote_or_summary: The mask is cottonwood, perforated for horsehair eyebrows, chin
+    whisker, and cheek tufts, decorated with scrolls and other lines, and has mouth
+    pegs representing teeth.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 5096-5108
+  quote_or_summary: 'Two ceremonial wands are described: a longer greasewood wand
+    painted black and red and a shorter willow wand painted red; both were held in
+    ceremonies for rain, disease cures, and related purposes.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 5111-5123
+  quote_or_summary: Metates are described as abundant in the Southwest; fragments
+    occur around ruins, and Hohokam and Hopi examples are compared by material, legs,
+    and hollowed form.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 5124-5131
+  quote_or_summary: Pima metates are described as flat across, slightly concave lengthwise,
+    made of local coarse rock, uncarved and legless, moved around premises, not set
+    in bins, and roughened by pecking.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+- id: ev:7
+  type: quote
+  locator: line 5124
+  quote_or_summary: "“Fig. 28. Grinding wheat on metate.”"
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text use allowed by supplied metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main material descriptions are clear, but the opening lizard-effigy,
+    Yaqui, and mask-origin lines appear affected by OCR or layout discontinuity. Motif
+    extraction is limited because the passage is primarily ethnographic material culture
+    rather than narrative mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs apply directly to the objects in this passage; no taxonomy motif ref was assigned.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l5055-l5131
+  passage_sha256=d391b44df4121c600e3269db825282e3c95f3befbd514b9793a1a68eebb54cc0
+

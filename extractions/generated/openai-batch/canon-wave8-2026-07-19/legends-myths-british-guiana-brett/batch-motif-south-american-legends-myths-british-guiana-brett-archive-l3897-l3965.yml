@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l3897-l3965
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: THE LEGEND. / SEQUEL TO THE ANCIENT LEGEND. / PART III. / CONTENTS OF PART
+    III.; lines 3897-3965
+  start: '3897'
+  end: '3965'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives the contents of Part III, including historical, warlike,
+    and mythological Carib materials, then summarizes statements about Carib location,
+    uncertain origin, Carib tradition that Guiana was their cradle and the Orinoco
+    their starting point for conquest, and a linguistic comparison with Tamanacs and
+    Chaymas.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Part III is organized into a historical sketch, warlike legends, mythological
+    legends, legends of Amalivaca and Manarowa, and a conclusion.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mythological legend titles listed include the first people, the first
+    cultivation, and the rock and the wood.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Caribs are described as being in possession of the smaller West Indian
+    islands when Columbus encountered them and as having begun to attack larger islands.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that nothing certain is known of Carib origin and reports
+    European opinions placing their origin near Darien or on the northern continent.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Carib tradition, both in the islands and on the mainland,
+    claims Guiana as the cradle of the race and the Orinoco as the starting point
+    for conquest.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says comparison of Carib language with Orinoco Tamanac and Chayma
+    languages can confirm the Carib tradition as far as language can do so.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Caribs
+  description: The people whose history, legends, origin tradition, and language are
+    discussed in the passage.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Orinoco Tamanacs
+  description: A people named as one point of linguistic comparison with the Caribs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Chaymas
+  description: A people north of the Orinoco whose language is named as a point of
+    comparison with the Caribs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: people under historical and legendary discussion
+  assigned_to:
+  - fig:1
+  basis: The passage introduces Part III as dealing with Caribs and describes their
+    location and traditions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: bearers of an origin tradition
+  assigned_to:
+  - fig:1
+  basis: The passage attributes to the Caribs a tradition that Guiana was their cradle
+    and the Orinoco their starting point.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: linguistic comparison groups
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage names Tamanac and Chayma languages as comparanda for Carib language.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ancestral cradle
+  literal_form: Guiana as the cradle of the Carib race
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: starting point for conquest
+  literal_form: the Orinoco as the point from which the Caribs started on conquest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Contents of Carib section
+  summary: The passage lists the planned Part III materials, including historical,
+    warlike, and mythological Carib topics.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Carib origin and expansion notice
+  summary: The passage describes Carib island possession and attacks, contrasts uncertain
+    external origin opinions with Carib tradition, and notes linguistic comparison
+    as support for that tradition.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ancestral homeland and departure point
+  taxonomy_refs:
+  - departure
+  basis: The Caribs are said to claim Guiana as their cradle and the Orinoco as the
+    point from which they began their career of conquest.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is presented in a historical-ethnographic note, not as a narrated
+    myth episode.
+- id: motif:2
+  label: mythic beginnings listed in contents
+  taxonomy_refs: []
+  basis: The contents list titles concerning first people, first cultivation, and
+    rock and wood among mythological legends.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Only titles are provided; the passage does not narrate the motifs.
+comparison_claims:
+- id: claim:1
+  claim: The passage claims that comparison of Carib language with Tamanac and Chayma
+    languages supports, within linguistic limits, the Carib tradition of origin from
+    Guiana and the Orinoco region.
+  claim_level: linguistic_similarity
+  target: Orinoco Tamanac and Chayma languages
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No linguistic examples or data are given in the passage; the claim
+    is reported rather than demonstrated.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3897-3929
+  quote_or_summary: Part III contents include a historical sketch, warlike legends,
+    mythological legends of the ancient world, titles concerning first people, first
+    cultivation, rock and wood, and legends of Amalivaca and Manarowa.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 3930-3933
+  quote_or_summary: The Caribs are described as possessing the smaller West Indian
+    islands when discovered by Columbus and as beginning attacks on larger islands.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 3935-3940
+  quote_or_summary: The passage states that Carib origin is uncertain and reports
+    European opinions placing it near Darien or on the northern continent.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 3942-3945
+  quote_or_summary: Carib tradition is summarized as claiming Guiana for the cradle
+    of their race and the Orinoco as the starting point for conquest.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 3947-3950
+  quote_or_summary: The passage says that comparing Carib with Tamanac and Chayma
+    languages supports the Carib tradition as far as language can.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is mainly a contents page and historical introduction, so narrative
+    motif extraction is limited. Origin and departure motifs are treated cautiously
+    because they appear in an ethnographic summary rather than a full legend.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because Guiana and Orinoco function here as geographic places in an origin tradition rather than as explicit symbolic water or world-center motifs.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l3897-l3965
+  passage_sha256=582af265171b57cb4c6128f09917eae6cb462ffb59671357510bc7db59622e50
+

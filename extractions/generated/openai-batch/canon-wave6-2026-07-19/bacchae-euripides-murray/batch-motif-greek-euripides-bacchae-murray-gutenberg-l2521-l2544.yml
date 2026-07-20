@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2521-l2544
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: AGAVE. / LEADER. / AGAVE. / LEADER.; lines 2521-2544
+  start: '2521'
+  end: '2544'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“Most like a beast of the wild / That head, those locks defiled.”"
+  summary: The Leader describes the head Agave is lifting as beast-like and defiled.
+    Agave, excited, praises a Chase-God who roused his Mad Ones to seize it, while
+    the Leader responds with horror and questions whether this can be praised.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A head with defiled locks is present and is compared by the Leader to a wild
+    beast.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Agave lifts up the head and becomes more excited.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Agave says that a god woke or stirred his Mad Ones.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Agave calls the god a Chase-God and a wise God.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Agave says the god sprang the Mad Ones to seize the head or prize.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Leader speaks broodingly and with horror, saying the god tears his prize
+    in the trail of the Mad Ones.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Agave asks whether the Leader praises the act, and the Leader answers with
+    a questioning refusal or disbelief.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Agave
+  description: Speaker who lifts the head and praises the god who roused the Mad Ones.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Leader
+  description: Speaker who describes the head as beast-like, responds with horror,
+    and questions Agave's request for praise.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Chase-God / wise God
+  description: A god named by Agave as awakening the Mad Ones and causing them to
+    seize the prize.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Mad Ones
+  description: A collective band said to be wakened by the god and sent to seize the
+    prize.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: excited bearer of the head
+  assigned_to:
+  - fig:1
+  basis: Stage direction says Agave lifts up the head more excitedly.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: horrified responder
+  assigned_to:
+  - fig:2
+  basis: The Leader speaks broodingly with horror and questions the praise of the
+    act.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: divine instigator of the chase
+  assigned_to:
+  - fig:3
+  basis: Agave says the god wakened the Mad Ones and sprang them to seize the prize.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: god's hunting band
+  assigned_to:
+  - fig:4
+  basis: Agave calls them the god's Mad Ones and says they were moved to seize the
+    prize; the Leader links the tearing to their trail.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: severed head as beast-like prize
+  literal_form: head with defiled locks, described as like a wild beast and as a prize
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: chase
+  literal_form: divine chase or hunt in which the Mad Ones seize a prize
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Agave lifts the head and praises the divine chase
+  summary: Agave lifts a head that the Leader describes as beast-like and defiled.
+    Agave attributes its seizure to a Chase-God who roused the Mad Ones, while the
+    Leader reacts with horror and questions the act's praiseworthiness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: god-driven hunt and tearing of a prize
+  taxonomy_refs: []
+  basis: The passage presents a god who awakens a band of Mad Ones to seize a prize,
+    with the Leader describing the god as tearing the prize in their trail.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly identify the broader narrative cause,
+    ritual meaning, or moral frame beyond the Leader's horror.
+- id: motif:2
+  label: horrified recognition of a trophy head
+  taxonomy_refs: []
+  basis: The Leader focuses on the head's beast-like, defiled appearance while Agave
+    lifts it and asks for praise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage excerpt does not name the head's owner or show full recognition
+    within these lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2521-2524
+  quote_or_summary: "“Most like a beast of the wild / That head, those locks defiled.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: '2525'
+  quote_or_summary: 'Stage direction: Agave lifts up the head and is described as
+    more excited.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: quote
+  locator: 2527-2534
+  quote_or_summary: Agave says the god “wakened his Mad Ones,” is “A Chase-God, a
+    wise God,” and “sprang them to seize this.”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 2536-2541
+  quote_or_summary: 'The Leader, “brooding, with horror,” says: “In the trail of thy
+    Mad Ones / Thou tearest thy prize, God!”'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 2542-2544
+  quote_or_summary: Agave asks, “Dost praise it?” and the Leader answers, “I praise
+    this?”
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are cautious and passage-local; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage and metadata. Available taxonomy references were not assigned because the excerpt alone does not securely support a listed motif family or symbol taxonomy item.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2521-l2544
+  passage_sha256=ef90420781593b47ec291c0061900683885ca448795532a4e9ce3f1c362398c7
+

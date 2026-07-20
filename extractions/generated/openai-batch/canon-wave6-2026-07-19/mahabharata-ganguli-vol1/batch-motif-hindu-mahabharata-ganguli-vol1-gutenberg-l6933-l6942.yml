@@ -1,0 +1,190 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l6933-l6942
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: SECTION LXIV / SECTION LXV / SECTION LXVI / SECTION LXVII; lines 6933-6942
+  start: '6933'
+  end: '6942'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Janamejaya said... I wish to hear from thee in detail about the birth, among
+    men, of the gods... and in fact, of all creatures.
+  summary: In Section LXVII, Janamejaya asks a worshipful addressee to recount in
+    detail the births among humans of gods, Danavas, Gandharvas, Rakshasas, animals,
+    snakes, birds, and all creatures, and also to narrate their acts and achievements
+    after taking human form.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Janamejaya is the speaker in the passage.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Janamejaya asks to hear in detail about the birth among men of gods, Danavas,
+    Gandharvas, Rakshasas, lions, tigers, other animals, snakes, birds, and all creatures.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Janamejaya also asks to hear the acts and achievements of those beings in
+    order after they became incarnate in human forms.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Janamejaya
+  description: The named speaker who asks to hear the account.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: worshipful one
+  description: The unnamed addressee from whom Janamejaya requests the account.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: gods, Danavas, Gandharvas, Rakshasas, animals, snakes, birds, and
+    all creatures
+  description: The collective beings whose births among humans and later deeds Janamejaya
+    asks to hear about.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: questioning king or listener
+  assigned_to:
+  - fig:1
+  basis: Janamejaya speaks and requests a detailed narration.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: revered narrator or teacher addressed
+  assigned_to:
+  - fig:2
+  basis: Janamejaya addresses the listener as worshipful and asks to hear from him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: beings said to become incarnate in human forms
+  assigned_to:
+  - fig:3
+  basis: The passage names these beings as born among men and later incarnate in human
+    forms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: human form
+  literal_form: incarnate in human forms
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: snakes
+  literal_form: snakes
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Janamejaya requests an account of incarnate births and deeds
+  summary: Janamejaya asks a worshipful addressee to describe the births among men
+    of many divine, semi-divine, demonic, animal, and other beings, and to recount
+    their later acts after incarnation in human bodies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: nonhuman and divine beings born among humans
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage centers on a requested account of the birth among men of gods
+    and other nonhuman beings.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is only a request for narration and does not yet describe
+    any specific birth episode.
+- id: motif:2
+  label: beings becoming incarnate in human forms
+  taxonomy_refs: []
+  basis: Janamejaya refers to the beings becoming incarnate in human forms and asks
+    for their acts and achievements afterward.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No individual incarnation details are given in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6933-6942
+  quote_or_summary: '"Janamejaya said, ''O worshipful one, I wish to hear from thee..."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 6933-6942
+  quote_or_summary: Janamejaya asks to hear in detail about the birth among men of
+    gods, Danavas, Gandharvas, Rakshasas, lions, tigers, other animals, snakes, birds,
+    and all creatures.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 6933-6942
+  quote_or_summary: '"I wish also to hear about the acts and achievements of those,
+    in due order, after they became incarnate in human forms."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short quotation used as evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: 'The passage is a framing request rather than a narrative episode, so motif
+    extraction is limited to themes explicitly named: birth among humans and incarnation
+    in human forms.'
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support a specific cross-textual comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l6933-l6942
+  passage_sha256=cf9f1deda966e1c64e9f61d96d37ae70b395fa5117c02fd78da7307e3f5db722
+

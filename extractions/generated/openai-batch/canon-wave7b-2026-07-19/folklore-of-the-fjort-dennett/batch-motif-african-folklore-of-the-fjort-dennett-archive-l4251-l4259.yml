@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.african-folklore-of-the-fjort-dennett-archive-l4251-l4259
+source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+passage_locator:
+  label: THE  YOUNGER  BROTHER  WHO  KNEW  MORE  THAN  THE  ELDER.    67 / THE   CHIMPANZEE  AND  GORILLA.
+    / THE  ANTELOPE  AND   THE   LEOPARD. / THE  ANTELOPE  AND  THE  LEOPARD.  73;
+    lines 4251-4259
+  start: '4251'
+  end: '4259'
+  translation: Notes on the Folklore of the Fjort (French Congo)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the spider undertook to bring me the fire; and he has brought it.
+  summary: Nzambi judges that the spider fulfilled the task of bringing fire and therefore
+    has a right to the girl, but she refuses to give the girl to anyone. Instead,
+    she compensates each claimant with cloth and gin, and the daughter remains unmarried
+    and serves her mother.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Nzambi states that the spider undertook to bring her fire and has brought
+    it.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nzambi states that the girl is the spider's by right.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nzambi says the others would make the girl's life miserable if she allowed
+    the girl to live with the spider.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Nzambi decides to give the girl to none of the claimants and to give each
+    claimant her market value instead.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Nzambi pays each claimant fifty longs of cloth and one case of gin.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Nzambi's daughter remains a maiden and waits upon her mother for the rest
+    of her days.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Nzambi
+  description: Speaker who decides not to give the girl to any claimant and pays compensation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the spider
+  description: Figure who undertook to bring fire and succeeded.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the girl / Nzambi's daughter
+  description: Girl said to belong to the spider by right, but ultimately kept by
+    Nzambi and remaining a maiden.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: the other claimants
+  description: Group addressed by Nzambi as those who would make the girl's life miserable
+    and who each receive payment.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: adjudicator and payer of compensation
+  assigned_to:
+  - fig:1
+  basis: Nzambi decides the outcome of the dispute and pays each claimant.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: successful fire-bringer
+  assigned_to:
+  - fig:2
+  basis: The spider is said to have undertaken to bring fire and to have brought it.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: withheld bride / daughter remaining unmarried
+  assigned_to:
+  - fig:3
+  basis: The girl is said to be the spider's by right, but she is given to none and
+    remains a maiden with her mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: compensated claimants
+  assigned_to:
+  - fig:4
+  basis: Nzambi gives each claimant the girl's market value and pays each with cloth
+    and gin.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire brought to Nzambi by the spider
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: market-value payment
+  literal_form: fifty longs of cloth and one case of gin
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Nzambi's judgment on the fire task and the girl
+  summary: Nzambi acknowledges that the spider brought the fire and has a right to
+    the girl, but refuses to assign the girl to anyone because of the conflict among
+    the others.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Compensation and the daughter's remaining with Nzambi
+  summary: Nzambi pays each claimant with cloth and gin, while her daughter remains
+    unmarried and serves her mother for life.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: successful task confers a marriage right
+  taxonomy_refs: []
+  basis: The spider is said to have completed the task of bringing fire, and Nzambi
+    states that the girl is his by right.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only the resolution of the episode; the original terms
+    of the task are not fully included in the excerpt.
+- id: motif:2
+  label: withheld bride replaced by material compensation
+  taxonomy_refs: []
+  basis: Nzambi gives the girl to none of the claimants and instead pays each her
+    market value in cloth and gin.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the wider social or ritual meaning of the
+    compensation beyond the stated market value.
+- id: motif:3
+  label: unmarried daughter remains in service to mother
+  taxonomy_refs: []
+  basis: After the dispute is resolved by compensation, Nzambi's daughter remains
+    a maiden and waits upon her mother for the rest of her days.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the outcome but does not elaborate a broader narrative
+    pattern.
+comparison_claims:
+- id: claim:1
+  claim: The episode can be compared functionally to task-reward marriage patterns,
+    because the spider's completion of a difficult assigned task establishes a stated
+    right to the girl; however, the expected marriage is commuted into compensation.
+  claim_level: same_function
+  target: task-reward marriage pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No specific external text or historical relationship is supplied by
+    the passage; the comparison is limited to narrative function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4251-4255
+  quote_or_summary: Nzambi says the spider undertook to bring her fire and succeeded;
+    the girl is his by right, but Nzambi will give her to none and instead give each
+    claimant her market value.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4256-4259
+  quote_or_summary: Nzambi pays each claimant fifty longs of cloth and one case of
+    gin; her daughter remains a maiden and waits upon her mother for the rest of her
+    days.
+  source_text_path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is direct from the passage. Motif and comparison labels
+    are cautious because the excerpt contains the resolution but not the entire tale
+    context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage text and metadata; taxonomy reference applied only to the explicit fire symbol.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-folklore-of-the-fjort-dennett-archive__l4251-l4259
+  passage_sha256=50c310a5a38b040530a6cd41df68ccb260056b60fe6cc3b68c43c9b94a0facb9
+

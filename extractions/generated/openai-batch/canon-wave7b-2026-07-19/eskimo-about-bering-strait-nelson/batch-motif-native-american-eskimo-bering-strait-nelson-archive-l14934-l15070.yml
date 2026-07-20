@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l14934-l15070
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: UNITS   OF   VALUE / UNITS   OF   MEASUREMENT / CHRONOMETRY / NUMERATION;
+    lines 14934-15070
+  start: '14934'
+  end: '15070'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Unalit numeration, including the use of words for
+    numerals, counting fingers and toes, derivations of number terms from body parts,
+    the expression of twenty as a completed man, later multiples of twenty as sets
+    of animal paws, and four hundred as twenty sets of man's paws.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Some people count to twenty in a single numeral series, while others reach
+    twenty by four series of numbers from one to five.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The terms it-khakh'-tok and giikh'-tok are commonly used in counting fingers
+    and toes and are also used for other objects in a transitional way toward regular
+    numeral use.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The word ai'-pa can replace the usual term for two and means second or a pair;
+    it is also used for one member of a pair, such as a close friend.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The term for ten is derived from a word referring to the upper half or upper
+    part of the body, or to the count of the fingers.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The term for twenty is derived from the word for man and is glossed as a completed
+    man.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When a person reaches twenty in counting, he may say that the man is finished;
+    if asked how many fingers and toes he has counted, he replies with the word for
+    twenty.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: At forty, the naming of twenties changes to terms built from cardinal numbers
+    and a word for sets of animal legs and paws with toes.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Four hundred combines the idea of a man with that of the animal and is analyzed
+    as twenty sets of man's paws, meaning twenty times twenty.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The first numeral table distinguishes forms used in counting fingers and toes
+    from forms used in counting exterior objects or complete numbers, though the two
+    sets can be used interchangeably.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: counting person
+  description: A person who counts fingers and toes up to twenty and may say that
+    the man is finished when twenty is reached.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: man as completed count
+  description: The term for twenty is explained as deriving from man and meaning a
+    completed man.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: animal or mammal body in numeral terminology
+  description: Multiples of twenty are named with a term for a set of animal legs
+    and paws, with toes, derived from the name for the combined leg, foot, and toes
+    of a mammal.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: counter
+  assigned_to:
+  - fig:1
+  basis: The passage describes a person reaching twenty by counting fingers and toes.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: anthropomorphic counting unit
+  assigned_to:
+  - fig:2
+  basis: Twenty is glossed as a completed man and associated with counted fingers
+    and toes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: zoomorphic counting unit
+  assigned_to:
+  - fig:3
+  basis: Forty and later twenties are expressed through sets of animal paws or mammal
+    leg-foot-toe units.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fingers and toes
+  literal_form: fingers and toes counted as a set reaching twenty
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:9
+- id: sym:2
+  label: completed man
+  literal_form: man as the completed count of twenty
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: animal paws
+  literal_form: sets of animal legs and paws with toes used to name twenties
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: man's paws
+  literal_form: twenty sets of man's paws for four hundred
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: pair
+  literal_form: ai'-pa meaning second, pair, or one member of a pair
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Counting to twenty through the body
+  summary: The passage explains that terms used in counting fingers and toes can function
+    as numerals and that twenty is associated with a completed man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Naming higher twenties through animal paw sets
+  summary: The passage describes a shift at forty, where multiples of twenty are named
+    as numbered sets of animal paws, with four hundred combining man and animal language
+    as twenty sets of man's paws.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:3
+  label: Numeral table and usage distinction
+  summary: The passage presents a table distinguishing numerals for counting fingers
+    and toes from forms for exterior objects or complete numbers, while noting interchangeability.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: body-based numeration
+  taxonomy_refs: []
+  basis: Numeral meanings and usage are tied to fingers, toes, the upper body, and
+    the completed human body as twenty.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: This is an ethnographic numeration pattern rather than a narrative myth
+    motif.
+- id: motif:2
+  label: human body as complete counting total
+  taxonomy_refs: []
+  basis: Twenty is derived from man and glossed as a completed man; the counted total
+    is linked to fingers and toes.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No sacred, ritual, or mythic interpretation is stated in the passage.
+- id: motif:3
+  label: animal body terms for higher numerical grouping
+  taxonomy_refs: []
+  basis: Multiples of twenty from forty upward use a term for animal leg-foot-toe
+    sets, and four hundred is analyzed as twenty sets of man's paws.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage presents lexical analysis of counting terms, not a mythological
+    animal motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14934-14939
+  quote_or_summary: The passage says some intelligent people can count readily to
+    twenty in a single numeral series, while others reach twenty by four series of
+    one to five.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 14939-14945
+  quote_or_summary: The terms it-khakh'-tok and giikh'-tok are most commonly used
+    in counting fingers and toes, but are also used for other objects and seem to
+    be moving toward recognized numeral use.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 14947-14952
+  quote_or_summary: Two is usually mal'-u-ghuk, but ai'-pa may replace it; ai'-pa
+    means second or a pair and can designate one of a pair, such as a close friend.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 14960-14962
+  quote_or_summary: Ten is explained as coming from ko-hli', the upper half or upper
+    part of the body, or the count of the fingers.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: quote
+  locator: '14964'
+  quote_or_summary: Twenty is yu-i'-niik, from yuk, man, and means "a man completed."
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short quotation from public domain text.
+- id: ev:6
+  type: summary
+  locator: 14968-14971
+  quote_or_summary: When the person reaches twenty he often says that the man is finished;
+    when asked how many fingers and toes he counted, he replies yu-i'-nuk.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:7
+  type: summary
+  locator: 14973-14983
+  quote_or_summary: 'At forty, the naming of twenties changes: forty is formed from
+    two and a term for a set of animal legs and paws with toes; succeeding twenties
+    up to four hundred combine cardinal numbers with this animal-paw term.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:8
+  type: summary
+  locator: 14983-14989
+  quote_or_summary: At four hundred, man and animal ideas are combined; the phrase
+    is analyzed as twenty sets of man's paws, meaning twenty times twenty.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:9
+  type: summary
+  locator: 14994-15070
+  quote_or_summary: The numeral table lists one column for counting fingers and toes
+    and another for exterior objects or complete numbers; the passage notes that these
+    sets are sometimes used interchangeably.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for numeration and symbolic body terminology.
+    Motif candidates are treated as non-narrative patterns rather than mythological
+    motifs. No comparison claims are made because the passage itself does not support
+    comparison to another corpus or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned; the passage concerns ethnographic numeration rather than a myth narrative.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l14934-l15070
+  passage_sha256=584d56a2e5f9404167f4ce72d04983b8e4323d93b29b1e33047e60693be2edae
+

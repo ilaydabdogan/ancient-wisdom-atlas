@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l152-l209
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: THIS    BOOK,    BEGUN    UNDER  HER / KIND    ENCOURAGEMENT, / IS   GRATEFULLY    AND    AFFECTIONATELY
+    / DEDICATED; lines 152-209
+  start: '152'
+  end: '209'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists of title-page and dedication material for the book,
+    followed by the beginning of the foreword. It notes publication details, dedicates
+    the book to the memory of Lady Galton, explains that some personal incidents are
+    included, and thanks colonial officials, Natural History Museum authorities, the
+    author's wife, and her sister for assistance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The title-page material states that the book includes illustrations and a
+    map and gives New York and London publishers.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The book is dedicated to the dear and honoured memory of Lady Galton.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The dedication says the book was begun under Lady Galton's kind encouragement.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The foreword states that some personal incidents have been included because
+    of accident or adventure experienced by the authorial speaker.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The authorial speaker thanks chief officials of his own Colony for encouragement.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The authorial speaker thanks the authorities of the Natural History Museum
+    for kindness and help.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The authorial speaker refers to assistance given by his wife and her sister,
+    while saying he is unable to say more because of the conditions under which their
+    help was given.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Lady Galton
+  description: A woman remembered in the dedication; her encouragement is said to
+    have helped begin the book.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Authorial speaker
+  description: The first-person speaker in the foreword who explains the inclusion
+    of personal incidents and offers thanks for assistance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Chief officials of the author's Colony
+  description: Officials thanked by the authorial speaker for encouragement.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Authorities of the Natural History Museum
+  description: Authorities thanked by the authorial speaker for kindness and help.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: The authorial speaker's wife
+  description: A person whose assistance is acknowledged by the authorial speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: The wife’s sister
+  description: A person whose assistance is acknowledged by the authorial speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: honoured dedicatee and encourager
+  assigned_to:
+  - fig:1
+  basis: The dedication names Lady Galton's memory and states that the book was begun
+    under her encouragement.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: foreword speaker and giver of thanks
+  assigned_to:
+  - fig:2
+  basis: The first-person speaker explains editorial choices and thanks several helpers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: acknowledged helpers or supporters
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These persons or groups are thanked or acknowledged for encouragement, kindness,
+    help, or assistance.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Title-page publication information
+  summary: The passage lists book features and publication details, including illustrations,
+    a map, publishers, date, and printing location.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dedication to Lady Galton
+  summary: The book is gratefully and affectionately dedicated to the memory of Lady
+    Galton, whose encouragement is credited in beginning it.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Foreword explanation and acknowledgments
+  summary: The authorial speaker explains that personal incidents are included and
+    thanks officials, museum authorities, his wife, and her sister for encouragement
+    and help.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 152-169
+  quote_or_summary: Title-page material identifies the work as including illustrations
+    and a map, gives New York and London publishers, and notes printing in England.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 176-188
+  quote_or_summary: "“THE DEAR AND HONOURED MEMORY OF LADY GALTON ... THIS BOOK ...
+    IS ... DEDICATED” and the book was “BEGUN UNDER HER KIND ENCOURAGEMENT.”"
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 193-196
+  quote_or_summary: The foreword says that, because of accident or adventure experienced
+    by the speaker, some personal incidents have been included.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 198-201
+  quote_or_summary: The authorial speaker thanks the chief officials of his own Colony
+    for more than kind encouragement.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 201-203
+  quote_or_summary: The authorial speaker thanks the authorities of the Natural History
+    Museum for kindness and generous help.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 203-209
+  quote_or_summary: The authorial speaker acknowledges assistance from his wife and
+    her sister but says he cannot say more because of the conditions under which their
+    help was given.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is front matter and foreword acknowledgment material rather than
+    narrative or mythic content; no supported motif-family or comparison claims were
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythological motifs or taxonomy symbol references are supported by the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l152-l209
+  passage_sha256=41319b6c3deb6f0be0562d07fd39d06f2e9a9ff20ce6c765c9277b88cd82a786
+

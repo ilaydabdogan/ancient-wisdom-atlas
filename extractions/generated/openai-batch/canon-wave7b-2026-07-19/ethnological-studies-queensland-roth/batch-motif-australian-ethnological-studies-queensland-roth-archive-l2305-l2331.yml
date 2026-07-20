@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.australian-ethnological-studies-queensland-roth-archive-l2305-l2331
+source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+passage_locator:
+  label: 'ABORIGINALS : AN ELEMENTARY GEAMMAB. / THE SPOKEN LANGUAGE OF THE PITTA-PITTA
+    / ABOBIGINALS: AN ELEMENTABY GBAMMAB. 1. / ABOETGINALS: AN ELEMENTABT GBAMMAB.
+    1; lines 2305-2331'
+  start: '2305'
+  end: '2331'
+  translation: Ethnological Studies among the North-West-Central Queensland Aborigines
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a grammatical note on Pitta-Pitta expressions for self and
+    reflexive verbs. It states that a form translated as “self” is inflected like
+    a noun, explains that reflexive verbs are formed with the suffixal element -mul-le-,
+    lists tense forms, and gives examples contrasting transitive actions with reflexive
+    actions.
+  language: English with Pitta-Pitta examples
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An alternate wording is introduced with the Pitta-Pitta phrase “nungkala-na
+    poolanaka, tunanari, &c.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that a form translated as “self” is inflected like a noun.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An example translates a first-person subject as personally weaving a dilly-bag.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that reflexive verbs are formed by adding -mul-le- to the
+    root-stem and then inflecting the compound according to the ordinary rule.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Present, past, and future reflexive forms are listed for the -mul-le- construction.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that a transitive verb transformed into the reflexive form
+    is rendered intransitive.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'Example pairs contrast actions on external objects or another person with
+    actions directed back on the actor: greasing a spear versus greasing oneself,
+    cutting wood versus cutting oneself, striking a girl versus striking oneself,
+    and breaking a spear versus breaking one’s own leg.'
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person example subject
+  description: The grammatical first-person subject appears in examples involving
+    weaving a dilly-bag, greasing a spear or oneself, and breaking a spear or one’s
+    leg.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: second-person example subject
+  description: The grammatical second-person subject appears in examples involving
+    cutting wood and cutting oneself.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: third-person male example subject
+  description: The grammatical third-person male subject appears in examples involving
+    striking a girl and striking himself.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: the girl
+  description: A girl appears as the person struck in a transitive example.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: first-person grammatical actor
+  assigned_to:
+  - fig:1
+  basis: The examples translate the first-person subject as performing actions such
+    as weaving, greasing, and breaking.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: second-person grammatical actor
+  assigned_to:
+  - fig:2
+  basis: The examples translate the second-person subject as cutting wood and cutting
+    oneself.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: third-person grammatical actor
+  assigned_to:
+  - fig:3
+  basis: The examples translate the third-person male subject as striking a girl and
+    striking himself.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: human patient in transitive example
+  assigned_to:
+  - fig:4
+  basis: The girl is the person struck in the non-reflexive example.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: reflexive self-recipient of action
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: 'The reflexive examples direct the action back onto the actor: greasing oneself,
+    cutting oneself, and striking himself.'
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: 'example object: dilly-bag'
+  literal_form: dilly-bag
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: 'example object: spear'
+  literal_form: spear
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: 'example object: wood'
+  literal_form: wood
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: 'example body part: leg'
+  literal_form: leg
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Grammar explanation of reflexive formation
+  summary: The passage explains the linguistic formation of reflexive verbs using
+    -mul-le- and lists tense forms.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Example contrasts of transitive and reflexive actions
+  summary: A set of grammar examples contrasts actions done to objects or another
+    person with actions directed back onto the actor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2305-2307
+  quote_or_summary: "“nungkala-na poolanaka, tunanari, &c.”"
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: 2309-2313
+  quote_or_summary: The section describes a form translated as “self,” inflected like
+    a noun, and gives an example translated as “I myself weaved the dilly-bag.”
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2315-2324
+  quote_or_summary: The passage states that reflexive verbs are formed by adding -mul-le-
+    to the root-stem, with present, past, and future tense forms listed.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2325-2326
+  quote_or_summary: The passage states that a transitive verb transformed in this
+    way will be rendered intransitive.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2327-2331
+  quote_or_summary: Examples contrast greasing a spear with greasing oneself, cutting
+    wood with cutting oneself, striking a girl with striking himself, and breaking
+    a spear with breaking one’s leg.
+  source_text_path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a grammar explanation rather than a mythological narrative.
+    Literal linguistic observations are clear, but no mythic motif or comparison claim
+    is supported by the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif refs are assigned. Listed symbols are literal grammar-example objects only and are not interpreted as mythic symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-ethnological-studies-queensland-roth-archive__l2305-l2331
+  passage_sha256=b2121e8afd3d4ce68b0814072e86bb9d5e43efcd609eed9d7fa1224ec804e330
+

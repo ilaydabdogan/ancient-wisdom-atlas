@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l2799-l2925
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: PCEMANDRES, THE SHEPHERD OF MEN 55 / PCEMANDRES, THE SHEPHERD OF MEN 57 /
+    COEPUS HEEMETICUM (II.) / THE GENERAL SERMON; lines 2799-2925
+  start: '2799'
+  end: '2925'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage closes a discussion of the title or idea of the Shepherd, reporting
+    that Arabian writers in Islamic times described a head called the Shepherd and
+    concluding that the Good Shepherd was a leading idea in Hellenistic theology.
+    It then introduces Corpus Hermeticum II, The General Sermon, noting that only
+    the title survives because the text was lost with a quire or quires; the missing
+    text is represented by lacuna markers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Arabian writers in Islamic times are said to report a head called the Shepherd.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states the conclusion that the Good Shepherd was one of the leading
+    ideas of Hellenistic theology.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The title Corpus Hermeticum II, The General Sermon, is preserved, but the
+    text is described as having disappeared through the loss of a quire or quires.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The missing sermon text is represented in the passage by repeated asterisks
+    and placeholder marks.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Unnamed head called Shepherd
+  description: A head or leader of an unnamed group, described through Arabian reports
+    as bearing the title Shepherd.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Arabian writers
+  description: Writers in Islamic times who are said to report the title Shepherd.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Good Shepherd
+  description: Named by the passage as a leading idea in Hellenistic theology.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Psellus
+  description: The parent copy is said to have come into the hands of Psellus after
+    the loss of the relevant quire or quires.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: reported head or title-bearer
+  assigned_to:
+  - fig:1
+  basis: The passage says the group called their head the Shepherd.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reporting authorities
+  assigned_to:
+  - fig:2
+  basis: The passage attributes the report to Arabian writers in Islamic times.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Hellenistic theological idea
+  assigned_to:
+  - fig:3
+  basis: The passage states that the Good Shepherd was a leading idea of Hellenistic
+    theology.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient or possessor of parent copy
+  assigned_to:
+  - fig:4
+  basis: The textual note says the parent copy came into the hands of Psellus after
+    the loss of quire material.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Shepherd title and Good Shepherd idea
+  literal_form: The title Shepherd and the phrase Good Shepherd.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Shepherd conclusion
+  summary: The passage reports a leader called Shepherd and uses this as part of a
+    conclusion that the Good Shepherd was important in Hellenistic theology.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lost General Sermon
+  summary: The title of Corpus Hermeticum II, The General Sermon, remains, but the
+    body of the sermon is absent because of a lost quire or quires, with the gap represented
+    by marks.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Good Shepherd or shepherd-head
+  taxonomy_refs: []
+  basis: The passage joins a reported leader titled Shepherd with the assertion that
+    the Good Shepherd was a leading idea in Hellenistic theology.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The actual sermon text is missing and no narrative actions are preserved;
+    the motif candidate rests on the passage's editorial or commentarial statement.
+comparison_claims:
+- id: claim:1
+  claim: The passage connects later Arabian reports of a head called Shepherd with
+    the Good Shepherd as an idea in Hellenistic theology, suggesting a comparable
+    religious-leadership function for the Shepherd title or image.
+  claim_level: same_function
+  target: Arabian-reported Shepherd title and Hellenistic Good Shepherd idea
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  limitations: The excerpt preserves only commentary and a title note; the Corpus
+    Hermeticum II sermon itself is absent, so no fuller narrative or ritual context
+    can be checked here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2799-2925, opening Shepherd note
+  quote_or_summary: Arabian writers in Islamic times are said to report people who
+    called their head the Shepherd.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2799-2925, commentarial conclusion
+  quote_or_summary: "“the Good Shepherd was one of the leading ideas of Hellenistic
+    theology.”"
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 2799-2925, Corpus Hermeticum II title note
+  quote_or_summary: Only the title The General Sermon is preserved; the text disappeared
+    with the loss of a quire or quires before the parent copy came into the hands
+    of Psellus.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2799-2925, lacuna markers
+  quote_or_summary: The missing body of the sermon is represented by repeated asterisks
+    and placeholder marks.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is limited by the fragmentary and editorial nature of
+    the passage. The Shepherd motif is explicit, but the underlying sermon text is
+    not preserved in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol directly matches Shepherd; taxonomy references were therefore left empty.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l2799-l2925
+  passage_sha256=6f69bf7e7038bb02c03f9e5468b0aa997cb3753ee25e734d4e15c4854a4ace93
+

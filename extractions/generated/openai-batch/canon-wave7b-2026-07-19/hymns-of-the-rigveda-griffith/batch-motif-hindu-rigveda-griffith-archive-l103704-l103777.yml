@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l103704-l103777
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ARANYAKA IV / ARANYAKA V / ADHYAYA 2. / KRULE U; lines 103704-103777
+  start: '103704'
+  end: '103777'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "‘This’ is the name of this great being. He who knows thus ‘this’ as the
+    name of it, becomes drahman."
+  summary: 'The passage is mainly commentary and notes on rules for Vedic study: forbidden
+    seasons, daily timing, rain or clouds as interruptions, and a restriction on proclaiming
+    tales at night. It also states that “This” is the name of a great being and that
+    one who knows this name becomes brahman.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage cites several calendrical periods and ritual/legal sources for
+    times when Vedic study is forbidden or regulated.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When study is permissible, the student is described as avoiding study in the
+    forenoon or afternoon when shadows are meeting, beginning at sunrise, and ceasing
+    before sunset.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A cloud and rain out of season are discussed as conditions connected with
+    avoidance of study, while Sayana is reported as saying that study of Vedangas
+    is not prohibited.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An editorial note reconstructs a rule that tales should not be proclaimed
+    even at night during the relevant time.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says that “This” is the name of a great being.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says that one who knows “this” as the name of the great being
+    becomes brahman, though the quoted line appears in OCR as “drahman.”
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed student or knower
+  description: An unnamed singular person addressed by rules for study and by the
+    statement about knowing the name “This.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: great being / brahman
+  description: The being whose name is said to be “This”; the note identifies the
+    word tad as the name of brahman.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: observer of study restrictions
+  assigned_to:
+  - fig:1
+  basis: The person must observe rules about when study is permissible or forbidden.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: knower of the name
+  assigned_to:
+  - fig:1
+  basis: The person who knows “this” as the name becomes brahman.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: named great being
+  assigned_to:
+  - fig:2
+  basis: The passage states that “This” is the name of the great being, and the note
+    connects this with brahman.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: name “This”
+  literal_form: The demonstrative name “This,” associated in the note with tad.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: shadows marking study time
+  literal_form: Shadows at sunrise and sunset used to delimit when study begins and
+    ceases.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: out-of-season rain
+  literal_form: Rain or a cloud outside the ordinary season, discussed as a reason
+    for avoiding study.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: regulated timing of sacred study
+  summary: The notes describe calendrical, daily, and weather-related limits on Vedic
+    study, including forbidden months, sunrise-to-sunset timing, and out-of-season
+    rain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: night-time speech restriction
+  summary: A note interprets the passage as prohibiting the proclamation of tales
+    even at night during the relevant study period.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: knowledge of the name
+  summary: The text identifies “This” as the name of a great being and states that
+    knowing this name makes the knower become brahman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: transformative knowledge of a sacred name
+  taxonomy_refs:
+  - wisdom
+  basis: Knowing “This” as the name of the great being is said to result in becoming
+    brahman.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is partly commentary and has OCR or textual uncertainty around
+    “drahman/brahman”; the exact Sanskrit reading is discussed in the notes.
+- id: motif:2
+  label: ritual regulation of sacred study by time and omens
+  taxonomy_refs: []
+  basis: The passage regulates study by season, daylight and shadows, and weather
+    conditions such as out-of-season rain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a ritual-instruction pattern rather than a narrative myth motif.
+- id: motif:3
+  label: prohibition of tales during sacred-study time
+  taxonomy_refs: []
+  basis: The editorial note interprets the passage as forbidding proclamation of tales
+    even at night during the study period.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The rule depends on an editorial reconstruction of a difficult reading.
+comparison_claims:
+- id: claim:1
+  claim: The commentary presents parallel prescriptions about forbidden or regulated
+    times for Vedic study across several Dharma, Grhya, and Srauta sources.
+  claim_level: same_function
+  target: Apastamba, Manu, Sankhayana, Gautama, Gobhila, Khadira, Asvalayana, Paraskara,
+    and Hiranyakesi passages cited in the note
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to citations and summaries supplied in the passage;
+    the referenced texts are not independently checked here.
+- id: claim:2
+  claim: The note links the name “This” or tad in this passage with another Aitareya
+    Aranyaka statement that tad is the name of brahman.
+  claim_level: linguistic_similarity
+  target: Aitareya Aranyaka I, 3, 4, as cited in the note
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal textual comparison reported by the note, not an
+    independently established broader motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 103704-103723, note 17
+  quote_or_summary: The note discusses times after specific full moons and months
+    when Vedic study is forbidden, citing Weber, Oldenberg, Apastamba, Manu, Sankhayana,
+    Gautama, Gobhila, Khadira, Asvalayana, Paraskara, and Hiranyakesi.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 103724-103727, note 18
+  quote_or_summary: "“he should begin at sunrise when the shadows first appear, and
+    cease before sunset when they again disappear”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 103728-103736, notes 19-20
+  quote_or_summary: The notes discuss a cloud and rain out of season as conditions
+    related to avoiding study, and report Sayana’s view that study of Vedangas is
+    not prohibited.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: note
+  locator: lines 103745-103766, note 7
+  quote_or_summary: The editor reconstructs the difficult reading as meaning that
+    “nor even at night in this time” should one be eager to proclaim tales, during
+    a period when daytime study occurs.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized with short embedded phrase.
+- id: ev:5
+  type: quote
+  locator: lines 103740-103743, main text
+  quote_or_summary: "“‘This’ is the name of this great being. He who knows thus ‘this’
+    as the name of it, becomes drahman.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: note
+  locator: lines 103767-103777, note 8
+  quote_or_summary: The note says Sayana takes “This” as the name of the paramatman,
+    but the editor rejects that explanation and states that the word tad is the name
+    of brahman, referring to Aitareya Aranyaka I, 3, 4.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly notes and textual commentary, with OCR irregularities
+    and debated readings. Motif extraction is therefore cautious and marks ritual-instruction
+    patterns separately from interpretation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external verification of cited Sanskrit sources was performed.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l103704-l103777
+  passage_sha256=1b1c14c5dfda3d7b7a2bb764d5ed0586ad6bd51b1cccc6b982d17a454529395f
+

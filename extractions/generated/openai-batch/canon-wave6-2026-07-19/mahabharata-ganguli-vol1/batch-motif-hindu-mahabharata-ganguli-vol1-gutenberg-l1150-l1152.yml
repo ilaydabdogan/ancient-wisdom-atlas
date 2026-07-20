@@ -1,0 +1,161 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol1-gutenberg-l1150-l1152
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+passage_locator:
+  label: THE MAHABHARATA / ADI PARVA / SECTION I / SECTION II; lines 1150-1152
+  start: '1150'
+  end: '1152'
+  translation: The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: The high-souled Vyasa composed these hundred parvas... the son of Suta recited
+    them consecutively in the forest of Naimisha
+  summary: Vyasa is said to have composed one hundred parvas, here abridged and distributed
+    into eighteen; the son of Suta then recited them in order in the forest of Naimisha.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Vyasa is described as high-souled and as the composer of one hundred parvas.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The one hundred parvas are said to have been distributed into eighteen.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The son of Suta recited the parvas consecutively.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The recitation takes place in the forest of Naimisha.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Vyasa
+  description: Described as high-souled and as the composer of the hundred parvas.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: son of Suta
+  description: The figure who recited the parvas consecutively in the forest of Naimisha.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: composer
+  assigned_to:
+  - fig:1
+  basis: The passage states that Vyasa composed the hundred parvas.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reciter
+  assigned_to:
+  - fig:2
+  basis: The passage states that the son of Suta recited the parvas consecutively.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: hundred parvas
+  literal_form: one hundred parvas
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: eighteen divisions
+  literal_form: eighteen-fold distribution of the parvas
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: forest of Naimisha
+  literal_form: forest setting named Naimisha
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Composition, arrangement, and recitation of the parvas
+  summary: Vyasa composes the hundred parvas; they are arranged into eighteen divisions;
+    the son of Suta recites them consecutively in the forest of Naimisha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: authoritative composition and oral transmission
+  taxonomy_refs: []
+  basis: The passage presents a sequence in which Vyasa composes the parvas and the
+    son of Suta recites them in order before an implied audience or context.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is primarily a framing statement about textual arrangement
+    and recitation; no broader mythic narrative pattern is explicit in these lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '1150'
+  quote_or_summary: "“The high-souled Vyasa composed these hundred parvas”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 1150-1151
+  quote_or_summary: The hundred parvas are described as abridged above and distributed
+    into eighteen.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 1151-1152
+  quote_or_summary: "“the son of Suta recited them consecutively in the forest of
+    Naimisha”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage mainly describes textual composition, division, and recitation rather
+    than a developed mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims are made because the passage does not itself support a comparison to another motif family or tradition.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol1-gutenberg__l1150-l1152
+  passage_sha256=19792e2b3ea6afcb07a24bebed2af837ceba371dc80bff1a3b2cc6f8ad7554da
+

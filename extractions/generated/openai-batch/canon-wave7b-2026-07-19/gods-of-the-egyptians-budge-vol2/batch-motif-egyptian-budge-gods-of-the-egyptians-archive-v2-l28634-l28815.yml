@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l28634-l28815
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: INDEX / INDEX / INDEX / INDEX; lines 28634-28815
+  start: '28634'
+  end: '28815'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An index segment listing entries beginning with Nebt- through Nephthomaoth,
+    including names of deities or named figures, ritual or doctrinal topics, objects
+    such as sceptres and a crown, and page references in volumes i and ii.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section consisting of names, topical entries, and
+    volume/page references rather than a continuous narrative.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes an entry for Neith with references to an early cult, crocodiles,
+    and four forms.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:3
+  text: The index lists the Negative Confession as a topic with several references.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The index includes an entry stating that Negroes were created by masturbation;
+    the terminology reflects the source text’s historical language.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:5
+  text: The index explicitly identifies Nefer-hetep as a god.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The index explicitly labels Nefer-Tem, Neheb-kau, and Nekhen as assessors.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: obs:7
+  text: 'The index lists named regalia or objects: the Nehbet or Nehebet sceptre and
+    the Nemmes crown.'
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The index includes entries for the Souls of Nekhen and watchers of Nekhen.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The index lists Nekhebet or Nekhebit and related compound names including
+    Nekhebet Fakit and Nekhebet-Isis.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Neith
+  description: Indexed name associated in this passage with an early cult, crocodiles,
+    and four forms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Nefer-hetep
+  description: Indexed figure explicitly marked as a god.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Nefer-Tem
+  description: Indexed figure explicitly marked as an assessor in one entry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Neheb-kau
+  description: Indexed figure explicitly marked as an assessor in one entry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Nekhen
+  description: Indexed name with an entry explicitly marked as an assessor; the passage
+    also lists Souls of Nekhen and watchers of Nekhen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: cult-associated figure
+  assigned_to:
+  - fig:1
+  basis: The index entry for Neith includes the phrase 'early cult of'.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: god
+  assigned_to:
+  - fig:2
+  basis: The index entry identifies Nefer-hetep with the parenthetical label 'god'.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: assessor
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Separate index entries label Nefer-Tem, Neheb-kau, and Nekhen as assessors.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+symbols:
+- id: sym:1
+  label: Nehbet or Nehebet sceptre
+  literal_form: sceptre
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: Nemmes crown
+  literal_form: crown
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: crocodiles associated with Neith
+  literal_form: crocodiles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: four forms of Neith
+  literal_form: four forms
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: creation by masturbation
+  taxonomy_refs: []
+  basis: The index includes the topic entry 'Negroes, created by masturbation'.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: This is only an index entry, not a narrative passage; the source wording
+    uses historical racial terminology and supplies no contextual details here.
+- id: motif:2
+  label: negative confession
+  taxonomy_refs: []
+  basis: The index lists 'Negative Confession' as a topic with multiple references.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not describe the confession, judgment setting, speakers,
+    or ritual action; no taxonomy mapping is asserted from this index entry alone.
+- id: motif:3
+  label: divine or named assessors
+  taxonomy_refs: []
+  basis: The index labels several named entries as assessors.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  confidence: low
+  cautions: The passage does not state what the assessors assess or place them in
+    a scene.
+- id: motif:4
+  label: multi-form deity
+  taxonomy_refs: []
+  basis: The Neith entry includes 'four forms of'.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The index does not describe the forms or any transformation narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28634-28815
+  quote_or_summary: Index segment from 'Nebt-mat' through 'Nephthomaoth', consisting
+    mainly of names, topics, and page references.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 28655-28674 and nearby
+  quote_or_summary: Entries include 'Nefer-hetep (god)' and 'Nefer-Tem (an assessor)'.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 28682-28685
+  quote_or_summary: 'Entry: ''Negative Confession'' with volume and page references.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 28731-28743
+  quote_or_summary: The Neith entry lists many references and notes an early cult,
+    a relation 'and crocodiles', and 'four forms of'.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 28704-28713
+  quote_or_summary: Entries include 'Neheb-ka' and 'Neheb-kau (an assessor)'.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 28751-28763
+  quote_or_summary: The index lists Nekhebet/Nekhebit with references, followed by
+    Nekhebet Fakit and Nekhebet-Isis.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: quote
+  locator: lines 28700-28702 and 28795
+  quote_or_summary: Object entries include 'Nehbet sceptre', 'Nehebet sceptre', and
+    'Nemmes crown'.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: summary
+  locator: lines 28765-28777
+  quote_or_summary: The Nekhen entries include page references, an assessor entry,
+    'Souls of Nekhen', and 'watchers of' Nekhen.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:9
+  type: quote
+  locator: lines 28686-28692
+  quote_or_summary: 'Entry: ''Negroes, created by masturbation''.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation preserving historical source
+    terminology.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an index rather than a mythic narrative, so literal extraction
+    is possible but motif identification is limited and provisional. No cross-tradition
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No scenes or comparison claims were extracted because the passage provides index entries without narrative sequence or comparative argument.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l28634-l28815
+  passage_sha256=7cb365d7c8f9f9286af8015726eef75a16d5e1cdfbec1ff47fb86062c4b3d38f
+

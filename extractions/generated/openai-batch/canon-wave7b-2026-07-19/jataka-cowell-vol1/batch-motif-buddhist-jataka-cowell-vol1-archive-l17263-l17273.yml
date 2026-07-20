@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol1-archive-l17263-l17273
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+passage_locator:
+  label: ASAMPADANA-JATAKA. / PANCAGARU-JATAKA. / GHATASANA-JATAKA. / SUVANNAHAMSA-JATAKA.;
+    lines 17263-17273
+  start: '17263'
+  end: '17273'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The Master rebukes an erring Sister, establishes a penance rule for Sisters
+    who eat garlic, and then gives the Jataka identity-connection: Fat Nandil corresponds
+    to the brahmin''s wife, her three sisters to the brahmin''s daughters, and the
+    Master to the golden mallard. An editorial note cites a Vinaya occurrence and
+    compares the story with La Fontaine''s golden-eggs fable.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Master soundly rebukes an erring Sister.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Master lays down a precept that any Sister who eats garlic must do penance.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Master states a set of identity correspondences between present figures
+    and figures in the story.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Fat Nandil is identified as the brahmin's wife of the story, her three sisters
+    as the brahmin's three daughters, and the Master as the golden mallard.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note states that the story occurs in the Vinaya and compares it with La
+    Fontaine's 'La poule aux cenfs d'or' as printed in the passage.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the Master
+  description: The speaker who rebukes the Sister, lays down the precept, and identifies
+    himself with the golden mallard.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: erring Sister
+  description: A Sister rebuked by the Master in the frame passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Fat Nandil
+  description: Named by the Master as corresponding to the brahmin's wife in the story.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Fat Nandil's three sisters
+  description: Named by the Master as corresponding to the brahmin's three daughters
+    in the story.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: golden mallard
+  description: The story figure with whom the Master identifies himself.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: rebuking teacher and rule-giver
+  assigned_to:
+  - fig:1
+  basis: The Master rebukes the erring Sister and lays down a precept requiring penance
+    for garlic-eating Sisters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rebuked Sister
+  assigned_to:
+  - fig:2
+  basis: The Sister is called erring and is the recipient of the Master's rebuke.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: present figure identified with brahmin's wife
+  assigned_to:
+  - fig:3
+  basis: The Master says Fat Nandil was the brahmin's wife of the story.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: present figures identified with brahmin's daughters
+  assigned_to:
+  - fig:4
+  basis: The Master says Fat Nandil's three sisters were the brahmin's three daughters.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: speaker making the connection
+  assigned_to:
+  - fig:1
+  basis: The Master is described as making the connexion before stating the identity
+    correspondences.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: past-story animal figure
+  assigned_to:
+  - fig:5
+  basis: The Master identifies himself as the golden mallard in the story.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: garlic
+  literal_form: garlic eaten by a Sister
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: golden mallard
+  literal_form: golden mallard
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: three sisters / three daughters
+  literal_form: a group of three sisters corresponding to three daughters
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Rebuke and garlic precept
+  summary: The Master rebukes an erring Sister and establishes that any Sister who
+    eats garlic must undergo penance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Jataka identity connection
+  summary: 'The Master identifies Fat Nandil, her three sisters, and himself with
+    figures in the preceding story: the brahmin''s wife, the brahmin''s daughters,
+    and the golden mallard.'
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Editorial parallel note
+  summary: The note cites a Vinaya occurrence of the story and offers a comparison
+    with a La Fontaine fable title.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: monastic food prohibition with penance
+  taxonomy_refs: []
+  basis: The passage centers on a precept that Sisters who eat garlic must do penance.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only the closing disciplinary frame, not the preceding
+    incident in detail.
+- id: motif:2
+  label: Jataka closing identity disclosure
+  taxonomy_refs: []
+  basis: The Master makes the connection by mapping present figures onto figures from
+    the story and identifying himself as the golden mallard.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Only the final identity mapping is present in this line range.
+- id: motif:3
+  label: golden bird compared with golden-eggs fable
+  taxonomy_refs: []
+  basis: The passage identifies the Master as a golden mallard, and the note compares
+    the story with La Fontaine's printed 'La poule aux cenfs d'or.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The excerpt does not include the full plot, so the exact shared motif
+    cannot be verified from this passage alone.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note explicitly invites comparison between this story and La
+    Fontaine's 'La poule aux cenfs d'or' as printed in the passage.
+  claim_level: same_motif
+  target: La Fontaine, 'La poule aux cenfs d'or' / golden-eggs fable
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note provides a comparison reference but the excerpt lacks the
+    full story details needed to specify the precise shared elements.
+- id: claim:2
+  claim: The editorial note states that the story also occurs in Volume IV of the
+    Vinaya.
+  claim_level: same_motif
+  target: Vinaya, Volume IV, cited occurrence of the story
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The page reference in the supplied text appears OCR-corrupted, and
+    the passage does not quote the Vinaya version.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17263-17264
+  quote_or_summary: The Master rebukes an erring Sister and lays down a precept that
+    any Sister who eats garlic must do penance.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 17265-17267
+  quote_or_summary: Making the connection, the Master says Fat Nandil was the brahmin's
+    wife, her three sisters were the brahmin's three daughters, and he himself was
+    the golden mallard.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 17269-17271
+  quote_or_summary: The note says the story occurs in Volume IV of the Vinaya and
+    adds a comparison with La Fontaine's 'La poule aux cenfs d'or' as printed in the
+    passage.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain translation; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but motif and comparison claims are
+    limited because the supplied range is chiefly a closing frame and editorial note
+    rather than the full tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy references assigned because the available motif and symbol lists are not directly supported by this excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol1-archive__l17263-l17273
+  passage_sha256=96b69e2c04c11de40c3c7d77eff031b0cbe7ec69338b8b2c1def7def73324749
+

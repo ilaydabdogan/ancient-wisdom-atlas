@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l3510-l3548
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: HUNTING / HUNTING / HUNTING / HUNTING; lines 3510-3548
+  start: '3510'
+  end: '3548'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Lengua hunting methods for rhea/ostrich in the Paraguayan
+    Chaco: the bird is valued for flesh and feathers; hunters use plant camouflage,
+    brushwood barriers, horseback pursuit, bolas, and vocal mimicry to approach or
+    capture it.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The rhea/ostrich is described as highly valued game because of its flesh and
+    feathers.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The feathers are used for personal ornament and for barter at foreign stores.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In a palm forest, a hunter binds palm leaves together and places them on his
+    head and shoulders to resemble a young tree.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In ant-hill country, the hunter uses a bunch of creeper resembling the growth
+    on ant-hills as concealment.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In open scrub country, hunters block openings between copses with brushwood
+    while others lie in wait and drive birds toward them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In clear open country, hunters riding bare-back run down the birds and may
+    use a bola to entangle and trip the victim's legs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Hidden hunters imitate the cry of a male bird; a male ostrich reacts by puffing
+    out its feathers and advancing toward the sound.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: rhea/ostrich
+  description: A shy but foolish game bird, valued for flesh and feathers, hunted
+    by several methods.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: individual hunter
+  description: A hunter who uses vegetation as concealment and imitates bird cries
+    while hidden.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Indians / hunters
+  description: Collective hunters who block openings, lie in wait, drive birds, ride
+    bare-back, and use bolas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: valued game animal
+  assigned_to:
+  - fig:1
+  basis: The passage states that the rhea is highly sought after for flesh and feathers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: camouflaged hunter
+  assigned_to:
+  - fig:2
+  basis: The hunter places palm leaves or creeper on himself to resemble local vegetation.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: coordinated hunting group
+  assigned_to:
+  - fig:3
+  basis: Some hunters block openings or lie in wait while others drive the birds.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: vocal mimic and lure-maker
+  assigned_to:
+  - fig:2
+  basis: The hidden hunter imitates the cry of the male bird to attract the ostrich.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: lured or driven prey
+  assigned_to:
+  - fig:1
+  basis: The bird is driven toward hunters, pursued, entangled, or drawn toward an
+    imitated call.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: young tree disguise
+  literal_form: Palm leaves bound together and placed on the hunter's head and shoulders
+    to resemble a young tree.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: creeper concealment
+  literal_form: A bunch of creeper used as a disguise in ant-hill country.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: brushwood barriers
+  literal_form: Brushwood used to block openings between copses and channel birds
+    toward waiting hunters.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bola
+  literal_form: A weapon of plaited hide strips weighted at the ends, thrown to twine
+    around legs and trip the victim.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: imitated male bird cry
+  literal_form: A concealed hunter's imitation of the male ostrich cry.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rhea valued as game
+  summary: The rhea/ostrich is identified as a valuable and sought-after game bird
+    because its flesh is a delicacy and its feathers are useful for ornament and barter.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vegetation camouflage during approach
+  summary: A hunter adapts concealment to the terrain by wearing palm leaves in palm
+    forest or creeper in ant-hill country.
+  figure_refs:
+  - fig:2
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Brushwood drive in scrub country
+  summary: Hunters block gaps with brushwood and drive birds toward waiting hunters;
+    the bird follows the scrub line looking for an opening.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Horseback pursuit with bola
+  summary: In clear open country, bare-back riders run down birds and use bolas to
+    entangle their legs.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Mimicked cry lures male bird
+  summary: A hidden hunter imitates the male bird's cry; a male ostrich reacts aggressively
+    and advances toward the sound.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hunter disguised as vegetation
+  taxonomy_refs: []
+  basis: The hunter uses palm leaves or creeper on his body to resemble local vegetation
+    and approach the bird.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic hunting technique in the passage, not a mythic
+    transformation motif.
+- id: motif:2
+  label: prey lured by imitated animal call
+  taxonomy_refs: []
+  basis: A concealed hunter imitates the male bird's cry, causing a male ostrich to
+    advance toward the sound.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage supports practical mimicry, not supernatural speech or shapeshifting.
+- id: motif:3
+  label: drive hunt using artificial barriers
+  taxonomy_refs: []
+  basis: Hunters block openings with brushwood, lie in wait, and drive birds along
+    a predictable path.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Recorded as a hunting pattern; no broader mythological comparison is stated.
+- id: motif:4
+  label: entangling weapon trips prey
+  taxonomy_refs: []
+  basis: The bola is described as twining around the legs and tripping the victim
+    when thrown.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a tool-use pattern rather than a narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3514-3520
+  quote_or_summary: The rhea is described as valuable game, sought for flesh considered
+    a delicacy and for feathers used in ornament and barter.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3521-3529
+  quote_or_summary: In palm forest the hunter wears bound palm leaves to resemble
+    a young tree; in ant-hill country he uses a bunch of creeper like that on ant-hills.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3529-3537
+  quote_or_summary: In open scrub, hunters block gaps between copses with brushwood,
+    lie in wait, and drive birds toward them; the bird follows the scrub line seeking
+    an opening.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3537-3543
+  quote_or_summary: In clear open country, hunters ride bare-back to run down birds
+    and use the bola, a weighted plaited-hide weapon that entangles the legs.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3543-3548
+  quote_or_summary: Hunters are described as clever mimics; a hidden hunter imitates
+    the male ostrich cry, and a male bird puffs its feathers and advances toward the
+    sound.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear about practical hunting techniques. Motif candidates
+    are extracted as observable recurring patterns, but the passage does not present
+    a mythic narrative or explicit comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support contact, inheritance, archetypal, or cross-tradition comparison.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l3510-l3548
+  passage_sha256=c01fea2238b5dbed431b78d252a958dcd8eb904ea873ac6c9e7112a82b991dd3
+

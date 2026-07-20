@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l25351-l25371
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM / SONGS  OF  WHITE  EARTH  RESERVATION
+    / BUKEAU   OF   AMERICAN   ETHNOLOGY / BUEEAU   OF   AMERICAN   ETHNOLOGY; lines
+    25351-25371
+  start: '25351'
+  end: '25371'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: It was considered a test of courage for a man to brave the ridicule of the
+    assembly
+  summary: 'The passage describes the pipe dance as producing merriment and involving
+    a courage test before an assembly. It then describes the dance music: sharp short
+    drumbeats, silence, pauses in the dancer’s motion, and rapid timing. It ends by
+    identifying song No. 171, “O''gima,” as sung by E^niwub^e.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Imitating a pipe in the dance produced great merriment.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man who seated himself where he would be asked to dance the pipe dance was
+    described as braving the ridicule of the assembly and undergoing a test of courage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In earlier days, men who danced the pipe dance wore no clothing except moccasins,
+    which protected their feet.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The music of the dance often includes a sharp, short drumbeat followed by
+    an instant of silence.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the drumbeat is heard, the dancer pauses in whatever attitude he has
+    assumed and remains motionless until the drumbeat resumes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The drumbeat is described as very rapid, and the dancer is expected to keep
+    perfect time with it.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Song No. 171 is titled “O'gima” and is attributed as sung by E^niwub^e.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: man or pipe-dance dancer
+  description: A man who may be asked to dance the pipe dance; the dancer pauses and
+    remains motionless at the drum cue and keeps time with the drumbeat.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: assembly
+  description: The gathered assembly whose ridicule the man must brave in the pipe
+    dance context.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: E^niwub^e
+  description: Named as the singer of song No. 171, “O'gima.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: pipe-dance dancer and courage-test participant
+  assigned_to:
+  - fig:1
+  basis: The passage says a man could be asked to dance the pipe dance and that this
+    was considered a test of courage; it also describes the dancer’s required response
+    to the drumbeat.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: assembly or audience
+  assigned_to:
+  - fig:2
+  basis: The assembly is the group whose ridicule the man must brave.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: song singer
+  assigned_to:
+  - fig:3
+  basis: The passage states that No. 171, “O'gima,” was sung by E^niwub^e.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: pipe
+  literal_form: pipe imitated in the pipe dance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: drumbeat and silence
+  literal_form: sharp, short drumbeat followed by an instant of silence, then resumed
+    drumbeat
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: moccasins
+  literal_form: moccasins worn to protect the feet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Public courage test in the pipe dance
+  summary: A man who seats himself where he may be asked to dance the pipe dance must
+    brave the assembly’s ridicule; the dance’s pipe imitation produces merriment,
+    and earlier dancers wore only moccasins.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Drum cue and motionless pause
+  summary: The music gives a sharp short drumbeat followed by silence; at the beat
+    the dancer freezes in his current attitude and remains motionless until the drumbeat
+    resumes, keeping time with the rapid rhythm.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: public courage test through ridicule
+  taxonomy_refs: []
+  basis: The passage explicitly calls participation in the pipe dance a test of courage
+    because the man must brave ridicule from the assembly.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents this as a social or performance practice; it does
+    not state a mythic narrative or formal initiation meaning.
+- id: motif:2
+  label: rhythmic stop-motion dance cue
+  taxonomy_refs: []
+  basis: The dancer must freeze at a sharp drumbeat and remain motionless through
+    the silence until the beat resumes, while keeping perfect time with a rapid drumbeat.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a choreographic and musical pattern; the passage gives no wider
+    symbolic interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 25351-25356
+  quote_or_summary: "“imitate a pipe produced great merriment. It was considered a
+    test of courage for a man to brave the ridicule of the assembly” and sit where
+    he would be asked to dance the pipe dance."
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation used for documentation.
+- id: ev:2
+  type: summary
+  locator: lines 25356-25358
+  quote_or_summary: In earlier days, the men who danced this wore only moccasins,
+    described as necessary to protect the feet.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: summary
+  locator: lines 25360-25362
+  quote_or_summary: The dance music is characterized by a sharp, short drumbeat frequently
+    followed by an instant of silence.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: summary
+  locator: lines 25362-25365
+  quote_or_summary: When the drumbeat is heard, the dancer pauses in whatever attitude
+    he happens to be in and remains motionless until the drumbeat resumes.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source.
+- id: ev:5
+  type: quote
+  locator: lines 25366-25368
+  quote_or_summary: "“The drumbeat is very rapid, and the dancer is expected to keep
+    in perfect time with it.”"
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short quotation used for documentation.
+- id: ev:6
+  type: citation
+  locator: lines 25370-25371
+  quote_or_summary: No. 171, “O'gima,” sung by E^niwub^e.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal dance and music details are clear. Motif labels are limited to
+    the passage’s explicit social and choreographic patterns. No comparison claims
+    are made because the passage does not itself support a comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was assigned; the passage does not state a broader mythological classification.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l25351-l25371
+  passage_sha256=f1828b2ef2f5109c918873d6d609c494f26ebb346fd600cb42734b623add7efb
+

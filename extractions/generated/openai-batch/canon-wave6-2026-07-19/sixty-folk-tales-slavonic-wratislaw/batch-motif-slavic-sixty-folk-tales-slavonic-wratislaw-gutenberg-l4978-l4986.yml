@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l4978-l4986
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: XXIII.--THE WONDERFUL BOYS. / XXIV.--GOD KNOWS HOW TO PUNISH MAN. / XXV.--THE
+    GOOD CHILDREN. / XXVI.--THE DEVIL AND THE GIPSY.; lines 4978-4986
+  start: '4978'
+  end: '4986'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: An elder devil proposes that whoever whistles best and can be heard three
+    miles away should receive the money. The devil whistles loudly. The gipsy tells
+    him that the next whistle will blind and deafen him, persuading him to bind his
+    eyes and ears. The gipsy then strikes the devil near the ears with a log-splitting
+    mallet. The devil begs him to stop and tells him to go away with the money.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The elder devil advises that the money should go to the one whose whistle
+    is best and can be heard for three miles.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The devil whistles loudly enough that it resounds and whizzes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The gipsy says that his whistle will make the devil blind and deaf, and tells
+    him to bind his eyes and ears.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The devil binds his eyes and ears.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The gipsy takes a mallet for splitting logs and strikes twice against the
+    devil's ears.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The devil begs him to stop, tells him not to whistle, and sends him away with
+    the money.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: elder devil
+  description: A devil who advises the terms of the whistling contest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: devil
+  description: A devil who whistles, follows the gipsy's instruction to cover his
+    senses, is struck, and then yields.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: gipsy
+  description: The contestant who tricks the devil into binding his eyes and ears,
+    then uses a mallet instead of whistling.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: contest adviser
+  assigned_to:
+  - fig:1
+  basis: The elder devil proposes the whistling test for deciding who receives the
+    money.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceived supernatural opponent
+  assigned_to:
+  - fig:2
+  basis: The devil accepts the gipsy's warning, binds his eyes and ears, is struck,
+    and begs for the supposed whistling to stop.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: human trickster-contestant
+  assigned_to:
+  - fig:3
+  basis: The gipsy uses a false warning and a mallet to make the devil think he is
+    hearing a deadly whistle.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: contest money
+  literal_form: money
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: bound eyes and ears
+  literal_form: eyes and ears bound to prevent blindness and deafness
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: log-splitting mallet
+  literal_form: a mallet for splitting logs
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: whistle contest
+  literal_form: whistling that can be heard for three miles
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Whistling contest proposed
+  summary: The elder devil proposes that the money be awarded to whoever whistles
+    best and can be heard three miles away, and the devil whistles loudly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Gipsy tricks the devil
+  summary: The gipsy warns that his whistle will blind and deafen the devil, leading
+    the devil to bind his eyes and ears.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Mallet blows mistaken for whistling
+  summary: The gipsy strikes the devil with a log-splitting mallet, and the devil
+    begs him to stop and tells him to leave with the money.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Trickster outwits a devil in a contest
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The gipsy defeats a devilic opponent not by superior whistling but by deceiving
+    him into sensory helplessness and then frightening him into yielding.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The broader tale context may affect the exact motif classification, but
+    the passage itself clearly shows trickery against a devil.
+- id: motif:2
+  label: Contest resolved by deceptive substitution
+  taxonomy_refs: []
+  basis: A whistling contest is transformed when the gipsy substitutes blows from
+    a mallet while the devil is unable to see or hear normally.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No specific taxonomy reference is supplied for this contest-substitution
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4978-4980
+  quote_or_summary: '"The elder devil advised that the one who whistled best, so that
+    it could be heard for three miles, should have the money."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 4980-4981
+  quote_or_summary: '"The devil whistled so that it resounded and whizzed again."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 4981-4983
+  quote_or_summary: '"When I whistle you will go blind and deaf; bind up your eyes
+    and ears."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:4
+  type: quote
+  locator: line 4983
+  quote_or_summary: '"He did so."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:5
+  type: quote
+  locator: lines 4983-4985
+  quote_or_summary: '"The gipsy took a mallet for splitting logs, and banged it once
+    and twice against his ears."'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:6
+  type: quote
+  locator: lines 4985-4986
+  quote_or_summary: '"Oh, stop! Oh! don''t whistle, or you''ll kill me! May ill luck
+    smite you with your money! Go where you will never be heard of again!"'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment to trickster_boundary
+    is plausible from the passage, but finer folk-motif indexing would require review
+    against the complete tale and external motif catalogues.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The source uses the term "gipsy"; it is retained only as the passage's figure label.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l4978-l4986
+  passage_sha256=9779e7c8a08baea79c38553c5d15874b4e4fccf858fc00de0910497436dba0ec
+

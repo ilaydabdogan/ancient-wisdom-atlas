@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol1-archive-l18343-l18361
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+passage_locator:
+  label: VIROCANA-JATAKA. / NANGUTTHA-JATAKA. / RADHA-JATAKA. / PUPPHARATTA-JATAKA.;
+    lines 18343-18361
+  start: '18343'
+  end: '18361'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A jackal, frightened by his experience with an elephant carcass, recites
+    that he will avoid elephants' inwards thereafter. He leaves and never again looks
+    at elephant carcasses or acts greedily. The Master teaches the Brethren not to
+    let desires take root, preaches the Four Truths, and identifies himself as the
+    jackal of that former birth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A jackal expresses fear after an encounter involving an elephant carcass.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The jackal says in verse that, being once bitten, he will avoid elephants'
+    inwards in the future.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The jackal leaves and does not again look at that or any other elephant carcass.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the jackal was never greedy again.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Master tells the Brethren not to let desires take root in the heart and
+    to pluck them out wherever they arise.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the Master preaches the Four Truths, five hundred Brethren win Arahatship
+    and others win lesser degrees of salvation.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Master identifies himself as the jackal of the former birth.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: jackal
+  description: A jackal who becomes frightened by an elephant carcass, leaves, and
+    ceases to be greedy.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: the Master
+  description: The teacher who draws the lesson about desire, preaches the Four Truths,
+    and identifies himself with the jackal of the former birth.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Brethren
+  description: The audience addressed by the Master; five hundred win Arahatship and
+    others win lesser degrees of salvation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: frightened animal
+  assigned_to:
+  - fig:1
+  basis: The jackal's terror is said to find expression in a stanza.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: former birth of the Master
+  assigned_to:
+  - fig:1
+  basis: The Master identifies himself as the jackal of those days.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: moral teacher
+  assigned_to:
+  - fig:2
+  basis: The Master gives a lesson warning against desires taking root in the heart.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: former-birth narrator identifier
+  assigned_to:
+  - fig:2
+  basis: The Master identifies the Birth by saying he was the jackal.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: religious audience receiving instruction
+  assigned_to:
+  - fig:3
+  basis: The Brethren hear the Master's lesson and preaching; some attain Arahatship
+    and others lesser salvation.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: elephant carcass
+  literal_form: the carcass of an elephant
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: elephants' inwards
+  literal_form: elephants' inwards
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: desires taking root
+  literal_form: desires take root in the heart
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Jackal renounces elephant carcasses
+  summary: The jackal voices fear, resolves to avoid elephants' inwards, leaves, and
+    never again looks at elephant carcasses or acts greedily.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Master teaches against desire
+  summary: The Master warns the Brethren not to let desires take root, preaches the
+    Four Truths, and the audience attains Arahatship or lesser salvation.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Identification of the Birth
+  summary: The Master identifies himself as the jackal in the former birth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: renunciation of greed after frightening experience
+  taxonomy_refs: []
+  basis: The jackal's fear leads him to avoid elephant carcasses thereafter, and the
+    passage states that he was never greedy again.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level moral pattern rather than a named taxonomy motif
+    supplied in the available list.
+- id: motif:2
+  label: instruction in overcoming desire
+  taxonomy_refs:
+  - wisdom
+  basis: The Master explicitly turns the jackal's experience into a teaching that
+    desires should not be allowed to take root in the heart.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy ref 'wisdom' is broad; the passage more specifically
+    concerns desire, restraint, and Buddhist salvation.
+- id: motif:3
+  label: former-birth self-identification
+  taxonomy_refs: []
+  basis: The Master identifies himself as the jackal of the former birth.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly corresponds to Jataka-style identification
+    of a former birth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18343-18348
+  quote_or_summary: 'The jackal''s terror is expressed in a stanza: "Once bitten,
+    twice shy" and he will steer clear of elephants'' inwards.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 18350-18352
+  quote_or_summary: The jackal makes off, never again looks at that or any other elephant's
+    carcass, and is never greedy again.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 18353-18357
+  quote_or_summary: The Master tells the Brethren to pluck out desires wherever they
+    arise, preaches the Four Truths, and the listeners attain Arahatship or lesser
+    salvation.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 18357-18361
+  quote_or_summary: 'The Master identifies the Birth: "I was myself the jackal of
+    those days."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and explicit about the jackal's action, the moral lesson,
+    and the Jataka identification. Motif taxonomy assignment is limited because the
+    supplied taxonomy list contains only broad categories.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparison beyond its internal Jataka moral framing.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol1-archive__l18343-l18361
+  passage_sha256=48628385a96b7116ab0b901c90827ccb0d4eabf5d7882fd27b02c649c35e5079
+

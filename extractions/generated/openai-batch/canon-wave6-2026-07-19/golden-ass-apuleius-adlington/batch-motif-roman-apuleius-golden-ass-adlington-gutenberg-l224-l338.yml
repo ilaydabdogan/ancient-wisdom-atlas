@@ -1,0 +1,397 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l224-l338
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: The Golden Asse / WIL. ADLINGTON.; lines 224-338
+  start: '224'
+  end: '338'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: I will declare how one by hap his humane figure lost, / And how in brutish
+    formed shape, his loathed life he tost.
+  summary: The passage gives a brief biography of Lucius Apuleius, lists his learning
+    and writings, introduces The Golden Asse as a work also called Metamorphosis because
+    it concerns transfiguration, and presents an authorial preface announcing a first-person
+    account of a human figure lost, a brutish form endured, and eventual return to
+    the original shape.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies Lucius Apuleius as an African born in Madaura and describes
+    his Numidian and Getulian affiliations.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Apuleius is described as a follower of Plato's sect and as highly learned
+    in liberal sciences, including poetry, geometry, music, logic, and philosophy.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Apuleius studied at Carthage, Athens, and Rome, and learned
+    Latin through great labor and continual study.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Several writings attributed to Apuleius are listed, including extant works
+    and lost works.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says an oration clears Apuleius of a charge of magic brought by
+    adversaries.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The eleven books of The Golden Asse are described as pleasant and varied tales,
+    and the work is also said to be called Metamorphosis because of its matter of
+    transfiguration or transformation.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The preface announces that one person lost human form, lived in a brutish
+    form, and later returned to the former shape.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The narrator identifies the account as his own metamorphosis and strange alteration
+    of figure.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The narrator says his alteration of speech corresponds to the matter he intends
+    to treat.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Lucius Apuleius
+  description: An African from Madaura, described as a Platonic philosopher, learned
+    writer, and author associated with The Golden Asse.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Narrating transformed person
+  description: A first-person figure who says he will recount his own metamorphosis
+    and strange alteration of figure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Apuleius's adversaries
+  description: Opponents who are said to have slanderously objected a charge of magic
+    against Apuleius.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Faustinus
+  description: Named in the heading as the author's son and addressee of the preface.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:10
+- id: fig:5
+  name_or_label: Readers of this book
+  description: The preface addresses readers and asks for their attentive hearing.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+  - ev:11
+roles:
+- id: role:1
+  label: learned author
+  assigned_to:
+  - fig:1
+  basis: The passage emphasizes Apuleius's studies, eloquence, and many writings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: accused but defended figure
+  assigned_to:
+  - fig:1
+  basis: An oration is said to clear him of a slanderous charge of magic.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: metamorphosed narrator
+  assigned_to:
+  - fig:2
+  basis: The preface speaks of a person losing human form, enduring a brutish shape,
+    and narrating his own metamorphosis.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: accusers
+  assigned_to:
+  - fig:3
+  basis: They are named as adversaries who raised a charge of magic.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: dedicatee or addressed son
+  assigned_to:
+  - fig:4
+  basis: The heading names Faustinus as the author's son.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: audience
+  assigned_to:
+  - fig:5
+  basis: The preface addresses readers and requests their attention.
+  evidence_refs:
+  - ev:10
+  - ev:11
+symbols:
+- id: sym:1
+  label: brutish form
+  literal_form: A human figure changed into a brutish formed shape.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: Golden Asse
+  literal_form: The title image of an ass, associated with the eleven books called
+    The Golden Asse.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: altered speech
+  literal_form: A new alteration of speech said to correspond to the matter of the
+    narrative.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Biographical education and authorship of Apuleius
+  summary: The passage describes Apuleius's origins, family, learning in Carthage,
+    Athens, and Rome, eloquence, and writings.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Defense against magic accusation
+  summary: The passage says Apuleius wrote an oration clearing himself of a slanderous
+    charge of magic made by adversaries.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Introduction of The Golden Asse as transformation narrative
+  summary: The passage praises the eleven books of The Golden Asse and notes that
+    some call it Metamorphosis because its argument concerns transfiguration or transformation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Preface announces loss and recovery of human form
+  summary: The preface announces a first-person account in which a person loses human
+    form, lives in a brutish form, and later returns to the original shape.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: human-to-animal transformation and restoration
+  taxonomy_refs:
+  - shapeshifter
+  basis: The preface explicitly describes loss of human figure, life in a brutish
+    shape, and later return to the former shape; the work is also described as Metamorphosis
+    or transformation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The exact animal form is not specified in the quoted preface lines, though
+    the surrounding title image is The Golden Asse.
+- id: motif:2
+  label: return from altered condition to former state
+  taxonomy_refs:
+  - return
+  basis: The preface says the altered figure was later unfolded from that state and
+    turned again to pristine shape.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage only summarizes the return; it does not narrate the circumstances
+    of restoration.
+- id: motif:3
+  label: knowledge and learned mastery
+  taxonomy_refs:
+  - wisdom
+  basis: The biography stresses Apuleius's studies in many disciplines, eloquence,
+    and reputation as one who knows much.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is biographical framing rather than a mythic episode within the main
+    narrative.
+- id: motif:4
+  label: magic accusation against learned figure
+  taxonomy_refs: []
+  basis: The passage reports that adversaries accused Apuleius of magic and that he
+    cleared himself in an oration.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage treats the charge as slanderous and does not present a successful
+    magical act.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 229-236
+  quote_or_summary: Lucius Apuleius is introduced as an African born in Madaura, associated
+    with Numidia and Getulia, with named parents and family background.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 236-247
+  quote_or_summary: Apuleius is described as a learned Platonist who studied liberal
+    sciences at Carthage and Athens, including poetry, geometry, music, logic, and
+    philosophy.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 249-253
+  quote_or_summary: After Athens, Apuleius went to Rome and achieved eloquence in
+    Latin through labor and continual study.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 255-276
+  quote_or_summary: The passage lists Apuleius's lost and extant books and praises
+    his wisdom, doctrine, and learning.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 270-275
+  quote_or_summary: An oration is said to clear him "of the crime of art Magick, which
+    was slanderously objected against him by his Adversaries."
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 283-291
+  quote_or_summary: The eleven books of The Golden Asse are praised for pleasant and
+    varied tales; some would call the work Metamorphosis because of its transfiguration
+    or transformation matter.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 306-315
+  quote_or_summary: The preface announces one who "his humane figure lost," lived
+    in a "brutish formed shape," and later "turn’d to pristine shape."
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short quotation.
+- id: ev:8
+  type: quote
+  locator: lines 318-320
+  quote_or_summary: The narrator calls it "mine own Metamorphosie and strange alteration
+    of figure."
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short quotation.
+- id: ev:9
+  type: quote
+  locator: lines 329-333
+  quote_or_summary: The narrator says, "this new alteration of speech doth correspond
+    to the enterprised matter."
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short quotation.
+- id: ev:10
+  type: summary
+  locator: lines 293-297
+  quote_or_summary: The heading addresses the preface to the author's son Faustinus
+    and to the readers of the book.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 333-338
+  quote_or_summary: The narrator invites the gentle reader to listen to a pleasant
+    Grecian feast that will provide delectable matter.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mostly prefatory and biographical. Transformation motifs are
+    explicit, but many narrative details of the main story are not yet present in
+    this line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons were added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l224-l338
+  passage_sha256=ae242f3fcda12b1cb749f563c455b30446d7c072ea690a98383210ecaa4c4904
+

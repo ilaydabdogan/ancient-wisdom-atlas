@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l43340-l43356
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CXCI / SECTION CXCII / SECTION CXCIII / SECTION CXCIV; lines 43340-43356
+  start: '43340'
+  end: '43356'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage teaches that righteousness belongs to the mind, should be practiced
+    individually, is the origin of mankind and ambrosia of the gods, and grants eternal
+    happiness after death. Yudhishthira then asks his grandsire to explain Adhyatma,
+    the creation of the universe of mobile and immobile things, and where the universe
+    goes at universal destruction.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Righteousness of all creatures is described as an attribute of the mind.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says one should do good to all in one’s mind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says virtue should be practiced singly and that an associate is
+    not needed if one obtains scriptural ordinances.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Righteousness is called the origin of mankind and the ambrosia of the gods.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After death, men are said to enjoy eternal happiness through Righteousness.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Yudhishthira asks his grandsire to explain what Adhyatma is and what its nature
+    is.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Yudhishthira asks whence the universe of mobile and immobile things was created
+    and where it goes when universal destruction begins.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who asks the grandsire about Adhyatma, creation, and
+    universal destruction.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: grandsire
+  description: Addressee of Yudhishthira’s question, addressed as one acquainted with
+    Brahma and asked to discourse on the topic.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks the grandsire to tell him about Adhyatma and the universe.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: requested instructor or knowledge-holder
+  assigned_to:
+  - fig:2
+  basis: The grandsire is addressed as acquainted with Brahma and asked to discourse
+    on the topic.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: ambrosia of the gods
+  literal_form: ambrosia
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: universe of mobile and immobile things
+  literal_form: universe consisting of mobile and immobile things
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: universal destruction
+  literal_form: universal destruction
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Teaching on righteousness and solitary virtue
+  summary: A didactic statement presents righteousness as mental, directs one to do
+    good to all, says virtue can be practiced without associates, and connects righteousness
+    with mankind, gods, and postmortem happiness.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Yudhishthira asks about Adhyatma and cosmic origins
+  summary: Yudhishthira asks his grandsire to explain Adhyatma, the origin of the
+    universe, and the destination of the universe at universal destruction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: righteousness leading to eternal happiness after death
+  taxonomy_refs: []
+  basis: The passage states that men enjoy eternal happiness after death through Righteousness.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage names the result after death but does not describe an afterlife
+    journey, judgment scene, or realm in detail.
+- id: motif:2
+  label: solitary practice of virtue
+  taxonomy_refs: []
+  basis: The passage says virtue should be practiced singly and that an associate
+    is not needed when scriptural ordinances are obtained.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a doctrinal instruction rather than a narrative episode.
+- id: motif:3
+  label: request for sacred wisdom about self and cosmos
+  taxonomy_refs:
+  - wisdom
+  basis: Yudhishthira asks a Brahma-knowing grandsire to discourse on Adhyatma, creation,
+    and universal destruction.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt contains the question, not the subsequent answer or teaching.
+- id: motif:4
+  label: cosmic creation and dissolution inquiry
+  taxonomy_refs: []
+  basis: The passage asks whence the universe of mobile and immobile things was created
+    and where it goes when universal destruction occurs.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames the motif as an inquiry and does not yet narrate the
+    creation or destruction itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 43340-43344
+  quote_or_summary: Righteousness is described as an attribute of mind; one should
+    do good to all mentally and practice virtue singly without needing associates
+    if guided by scriptural ordinances.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 43344-43346
+  quote_or_summary: Righteousness is called the origin of mankind and ambrosia of
+    the gods; after death, men enjoy eternal happiness through Righteousness.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 43350-43356
+  quote_or_summary: Yudhishthira asks his grandsire, described as acquainted with
+    Brahma, to explain Adhyatma, the creation of the universe of mobile and immobile
+    things, and where it goes during universal destruction.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied lines. Motif candidates are mostly
+    doctrinal and interrogative because the excerpt contains teachings and questions
+    rather than a developed narrative episode. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external context or unsupported identifications were added; the addressee is kept as “grandsire” rather than identified by name outside the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l43340-l43356
+  passage_sha256=01688d219d393db8d07078f0393b14b9a823120e06ed2d72474ef63e674048cd
+

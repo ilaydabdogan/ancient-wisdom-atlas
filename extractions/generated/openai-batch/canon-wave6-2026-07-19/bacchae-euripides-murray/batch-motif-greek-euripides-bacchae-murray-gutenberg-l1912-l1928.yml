@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l1912-l1928
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: DIONYSUS. / DIONYSUS. / CHORUS. / LEADER.; lines 1912-1928
+  start: '1912'
+  end: '1928'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: "“To Live is happy, hath found his Heaven!”"
+  summary: The Leader speaks a reflective passage praising the person who escapes
+    the sea tempest to a haven, rises above striving, and knows that living is happy.
+    The speech contrasts human hopes, will, wealth, and power. A stage direction then
+    has Dionysus re-enter from the Castle.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Leader praises as happy a person who has fled a tempest on the weary sea
+    and reached a haven.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Leader praises as happy whoever has risen free above striving.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Leader says the orb of life is strangely graven and that one person may
+    outpass another in gold and power.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Leader describes multitudes of people as floating, flowing, and seething
+    with hopes, and as either winning or missing their will.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Leader says that whoever can know that living is happy has found Heaven.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A stage direction says Dionysus re-enters from the Castle.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Leader
+  description: The named speaker of the reflective passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Dionysus
+  description: A named character who re-enters from the Castle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: happy person
+  description: A generalized person described as happy after escaping tempest, reaching
+    haven, rising above striving, and knowing that life is happy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: men in their millions
+  description: A collective human multitude described as floating, flowing, seething
+    with hopes, and winning or missing their will.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaker
+  assigned_to:
+  - fig:1
+  basis: The passage is introduced under the label “LEADER.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: re-entering character
+  assigned_to:
+  - fig:2
+  basis: The stage direction states that Dionysus re-enters from the Castle.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: exemplary happy person
+  assigned_to:
+  - fig:3
+  basis: The speech repeatedly identifies the person who reaches haven, rises above
+    striving, or knows life is happy as “happy.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:4
+  label: collective subject of human striving
+  assigned_to:
+  - fig:4
+  basis: The speech describes multitudes as full of hopes and as winning or missing
+    their will.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tempest and haven
+  literal_form: weary sea, tempest, haven
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rising above striving
+  literal_form: risen free above striving
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: orb of life
+  literal_form: orb of life
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: gold and power
+  literal_form: gold and power
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: human hopes
+  literal_form: hopes as leaven; hopes dead or pined for still
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Heaven found through knowing life as happy
+  literal_form: Heaven
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Leader’s reflection on happiness and human striving
+  summary: The Leader gives a gnomic speech contrasting escape from danger, freedom
+    from striving, unequal wealth and power, human hopes, and the knowledge that life
+    is happy.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Dionysus re-enters from the Castle
+  summary: A stage direction marks Dionysus returning onto the stage from the Castle.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: safe arrival after storm
+  taxonomy_refs: []
+  basis: The passage praises the one who has fled the sea tempest and won the haven.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The image appears in a reflective lyric speech rather than as a narrated
+    journey event.
+- id: motif:2
+  label: ascent above striving
+  taxonomy_refs:
+  - ascent
+  basis: The passage praises one who has “risen” free above striving.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The ascent is phrased as moral or existential elevation, not a literal
+    climb or celestial ascent.
+- id: motif:3
+  label: wisdom of finding happiness in life
+  taxonomy_refs:
+  - wisdom
+  basis: The passage says that whoever can know that living is happy has found Heaven.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a gnomic statement; it does not present a separate wisdom quest
+    or teacher episode.
+- id: motif:4
+  label: re-entry or return of a named character
+  taxonomy_refs:
+  - return
+  basis: The stage direction states that Dionysus re-enters from the Castle.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: This is stage movement only; identifying it with a broader return motif
+    may overread the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1912-1915
+  quote_or_summary: "“Happy he, on the weary sea / Who hath fled the tempest and won
+    the haven.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 1915-1917
+  quote_or_summary: "“Happy whoso hath risen, free, / Above his striving.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 1917-1919
+  quote_or_summary: "“strangely graven / Is the orb of life” and “one and another
+    / In gold and power may outpass his brother.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 1920-1924
+  quote_or_summary: The Leader describes multitudes as floating and flowing, full
+    of hopes, and as either winning or missing their will.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1925-1927
+  quote_or_summary: "“That To Live is happy, hath found his Heaven!”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: line 1928
+  quote_or_summary: "“Re-enter DIONYSUS from the Castle.”"
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied passage. Motif candidates are mostly
+    based on lyric images and aphoristic language, so they require human review. No
+    passage-supported cross-tradition comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata; no external context or unsupported taxonomy IDs added.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l1912-l1928
+  passage_sha256=3a6cbed98baf50364c02c9582f061889c13080f5fe05b1932cdb5e13316297be
+

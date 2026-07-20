@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.native-american-seneca-fiction-legends-myths-curtin-hewitt-archive-l34008-l34662
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: BIWITTJ / BIWITTJ / CURTIN,! / SENECA FICTION, LEGENDS, AND MYTHS; lines
+    34008-34662
+  start: '34008'
+  end: '34662'
+  translation: Seneca Fiction, Legends, and Myths
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'In an OCR-distorted interlinear passage, a figure glossed as a “great
+    child” is associated with a canoe and geese. Speech refers to servants, and the
+    geese fly up. The great child then encounters a human being at or near a canoe;
+    kinship terms, resemblance, and equality between the two are discussed. A bow-and-arrow
+    test follows: arrows are shot, fly together, are caught on the fly, and the figures
+    return to their canoes.'
+  language: English with Seneca transcription and interlinear glossing
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A figure glossed as a “great child” looks and is associated with a canoe.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Geese or goose-like birds are described beside or along the canoe, with a
+    number mentioned in the same context.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Speech refers to servants, and the geese fly up afterward.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The great child remains quiet or stationary in the canoe after the geese fly
+    up.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The great child calls another figure to come hither and uses a kinship expression
+    glossed as “brothers.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A human being is present at or near a canoe and is linked in speech with kinship
+    terms including brotherhood and an uncle term.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: Speech states that the two figures resemble one another and are alike or equal
+    in some respect.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: One speaker proposes a test or contest involving a bow and arrows.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Two arrows are shot, fly along together or evenly, and are caught on the fly.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:10
+  text: A speaker says that the two should turn back, and the figures return to the
+    canoes.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: great child
+  description: A figure glossed as “great child,” associated with a canoe, who observes,
+    speaks kinship language, and participates in or observes the arrow episode.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: geese
+  description: Geese or goose-like birds described beside the canoe; they are associated
+    with servant language in speech and fly up.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: human being
+  description: A figure glossed as a human being, present at or near a canoe, who
+    speaks with the great child and participates in the bow-and-arrow test.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: canoe-associated observer
+  assigned_to:
+  - fig:1
+  basis: The passage glosses the figure as a great child and places him in relation
+    to a canoe and acts of looking or observing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: flying bird group linked with servant speech
+  assigned_to:
+  - fig:2
+  basis: The birds are identified as geese, speech refers to servants, and the birds
+    fly up.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: human interlocutor and kin-term figure
+  assigned_to:
+  - fig:3
+  basis: The figure is glossed as a human being and appears in a dialogue using kinship
+    terms and resemblance language.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: paired archery-test participant
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The later passage describes a bow-and-arrow test involving two participants
+    and two arrows flying alike.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: geese
+  literal_form: geese or goose-like birds
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: bow and arrows
+  literal_form: bow and arrows; two arrows flying together
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: great child, canoe, and geese
+  summary: The great child is associated with a canoe and sees geese or goose-like
+    birds beside it; speech refers to servants, and the geese fly up.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: kinship and resemblance dialogue
+  summary: The great child and a human being meet at or near a canoe and speak using
+    kinship terms; the dialogue says that they are brothers and resemble one another,
+    while an uncle term also appears.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: bow-and-arrow test and return
+  summary: A test or contest involving bows and arrows is proposed. Two arrows are
+    shot, fly together or alike, and are caught on the fly; the figures then turn
+    back and return to canoes.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: paired kin who resemble one another
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage uses brother language for the two figures and states that they
+    resemble one another or are alike/equal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The kinship terminology is not fully clear because an uncle term also
+    appears and the OCR/interlinear format is difficult.
+- id: motif:2
+  label: matched archery test
+  taxonomy_refs: []
+  basis: The two figures engage in a bow-and-arrow test in which two arrows are shot
+    and fly alike or together.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The exact rules and purpose of the test are not clear from the passage
+    alone.
+- id: motif:3
+  label: bird servants dispatched or released
+  taxonomy_refs: []
+  basis: Geese are present beside the canoe, speech includes servant language, and
+    the geese fly up.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The servant relationship and the purpose of the geese’s flight are uncertain
+    because the wording is fragmentary and OCR-distorted.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to a sibling-pair motif pattern because
+    two figures are addressed as brothers and described as resembling or matching
+    one another.
+  claim_level: same_motif
+  target: sibling_pair
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:3
+  confidence: low
+  limitations: The passage also contains an uncle term, so the precise kin relationship
+    may be classificatory, shifting, or obscured by the damaged OCR text.
+- id: claim:2
+  claim: The bow-and-arrow episode supports comparison to a paired contest or matched-test
+    pattern, since two figures shoot arrows that fly together or alike.
+  claim_level: same_function
+  target: paired archery contest/test pattern
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No broader narrative context is provided here, so the social or ritual
+    function of the contest remains uncertain.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 34008-34662, opening section
+  quote_or_summary: A figure glossed as “great child” looks; a canoe is mentioned;
+    geese or a goose group are described beside or along the canoe, with a number
+    appearing in the same context.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: 34008-34662, opening to early middle section
+  quote_or_summary: Speech includes wording glossed with “seek” and “my servants”;
+    the geese fly up, and the great child remains quiet or stationary in the canoe.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: 34008-34662, middle section
+  quote_or_summary: The great child calls another figure to come hither; kinship wording
+    glossed as “thou-I-brothers (are)” appears, and a human being is present at or
+    near the canoe; an uncle term also appears nearby in speech.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 34008-34662, middle section
+  quote_or_summary: Dialogue includes glosses equivalent to “both thou-I brothers
+    are,” “both thou-I self-resemble,” and repeated language of being alike, equal,
+    or of the same kind.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: 34008-34662, later section
+  quote_or_summary: A human being proposes a test or contest; speech refers to a bow,
+    shooting or letting go, and two arrows are shot.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summary only.
+- id: ev:6
+  type: summary
+  locator: 34008-34662, closing section
+  quote_or_summary: The two arrows fly along together or alike; the great child looks
+    upward; the arrows are caught on the fly. A human being says to turn back, and
+    the figures return to the canoes.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: low
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is heavily OCR-distorted and interlinear, so extraction is limited
+    to repeated English glosses and clear narrative fragments.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include canoe, geese, bow, or arrows.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-seneca-fiction-legends-myths-curtin-hewitt-archive__l34008-l34662
+  passage_sha256=babedbeb985aad9bffb5e5a3fa5ca9276ea094612cffb97949075bb416ed4fdb
+

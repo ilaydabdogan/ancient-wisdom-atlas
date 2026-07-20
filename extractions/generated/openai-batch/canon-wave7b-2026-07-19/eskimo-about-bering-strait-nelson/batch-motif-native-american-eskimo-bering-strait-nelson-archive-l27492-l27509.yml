@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l27492-l27509
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: TRADITIONAL    SHOWERS   OF   ASHES / ANIMAL    SYMBOLISM / SCOPE    OF   ALASKAN   FOLKLORE
+    / FLOOD   LEGENDS   FROM   ST  MICHAEL; lines 27492-27509
+  start: '27492'
+  end: '27509'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: earth was flooded except a very high mountain in the middle
+  summary: A Norton Sound Eskimo flood legend says that in the first days seawater
+    covered the earth except for the top of a very high central mountain. Some animals
+    escaped by climbing the mountain, and some people survived in an umiak while catching
+    fish. After the waters receded, people and animals came down, animal life was
+    replenished, and the flood was said to have formed the present hollows, ridges,
+    mountains, and valleys.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: In the first days, the earth was flooded except for a very high mountain in
+    the middle.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The water came up from the sea and covered all the land except the mountain
+    top.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A few animals were saved by going up the mountain side.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A few people escaped by entering an umiak and living on fish they caught until
+    the water subsided.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the waters lowered, the saved people lived on the mountains and later
+    descended to the coast.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The animals also came down and replenished the earth with their kind.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: During the flood, waves and currents cut the land into hollows and ridges;
+    when the water receded to the sea, it left the mountains and valleys as they are
+    today.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage states that very similar legends are widely spread among other
+    Eskimo on the coast of Bering Sea.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: saved people
+  description: A few people who escaped in an umiak, subsisted on caught fish, later
+    lived on the mountains, and eventually descended to the coast.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: saved animals
+  description: A few animals that escaped by going up the mountain side, later came
+    down, and replenished the earth with their kind.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: fish caught during the flood
+  description: Fish caught by the saved people and used for subsistence until the
+    water subsided.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: human flood survivors
+  assigned_to:
+  - fig:1
+  basis: The passage says a few people escaped in an umiak and survived until the
+    waters subsided.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: animal flood survivors
+  assigned_to:
+  - fig:2
+  basis: The passage says only a few animals were saved by going up the mountain side.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: food source during flood survival
+  assigned_to:
+  - fig:3
+  basis: The people subsisted on fish they caught while waiting for the water to subside.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: replenishers of animal life
+  assigned_to:
+  - fig:2
+  basis: The animals came down after the flood and replenished the earth with their
+    kind.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: floodwater from the sea
+  literal_form: Water coming up from the sea and covering the land.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: very high central mountain
+  literal_form: A very high mountain in the middle, whose top remains above the floodwaters.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: umiak as flood-survival vessel
+  literal_form: An umiak entered by a few people during the flood.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: present landforms left by receding water
+  literal_form: Hollows, ridges, mountains, and valleys left after floodwater ran
+    back into the sea.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Seawater floods the early earth
+  summary: In the first days, water from the sea covers all land except the top of
+    a very high mountain in the middle.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Animals and people survive the flood
+  summary: Some animals survive by climbing the mountain side, while some people survive
+    in an umiak and catch fish for food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Recession and return to land
+  summary: As the waters lower, the saved people live on the mountains and later descend
+    to the coast; the animals also come down and replenish the earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Flood explains present landscape
+  summary: Waves and currents cut the land into hollows and ridges, and receding water
+    leaves mountains and valleys as they are today.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: world flood followed by survival and renewal
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The earth is flooded, a few people and animals survive, the waters recede,
+    and animals replenish the earth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe a divine cause, moral judgment, or ritual
+    renewal; the renewal is literal repopulation after flood survival.
+- id: motif:2
+  label: rescue vessel during a flood
+  taxonomy_refs:
+  - ark_vessel
+  basis: A few people escape by entering an umiak and survive there until the water
+    subsides.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The umiak is not described as a specially built ark and no cargo or wider
+    rescue plan is mentioned.
+- id: motif:3
+  label: central high mountain as flood refuge
+  taxonomy_refs:
+  - cosmic_mountain
+  - world_center
+  basis: The only land not covered is the top of a very high mountain in the middle,
+    and animals survive by going up the mountain side.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The mountain is central and exceptionally high, but the passage does not
+    explicitly call it sacred, cosmic, or an axis mundi.
+- id: motif:4
+  label: flood as origin of present landforms
+  taxonomy_refs: []
+  basis: The flood’s waves, currents, and recession are said to leave the hollows,
+    ridges, mountains, and valleys as they are today.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No listed taxonomy reference directly matches this explanatory landscape
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that very similar flood legends are widely spread among
+    other Eskimo on the coast of Bering Sea.
+  claim_level: same_motif
+  target: other Eskimo traditions on the coast of Bering Sea
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no specific parallel texts, names, or variant details,
+    so the comparison is limited to the author’s general statement of similarity and
+    distribution.
+evidence:
+- id: ev:1
+  type: citation
+  locator: '27492'
+  quote_or_summary: Section heading identifies the passage as flood legends from St
+    Michael.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise citation/summary.
+- id: ev:2
+  type: quote
+  locator: 27494-27497
+  quote_or_summary: The legend says that in the first days the earth was flooded except
+    for a very high mountain in the middle, and that water from the sea covered all
+    land except the mountain top.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; brief quoted/paraphrased evidence.
+- id: ev:3
+  type: summary
+  locator: 27497-27499
+  quote_or_summary: Only a few animals were saved by climbing the mountain side; a
+    few people escaped in an umiak and lived on fish they caught until the water subsided.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: 27500-27502
+  quote_or_summary: As the waters lowered, the saved people lived on the mountains
+    and later descended to the coast; the animals came down and replenished the earth.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: 27502-27505
+  quote_or_summary: Waves and currents cut the land into hollows and ridges, and receding
+    water left the present mountains and valleys.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: 27505-27508
+  quote_or_summary: The passage says very similar legends are widely spread among
+    other Eskimo on the coast of Bering Sea.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif tagging is confident for flood-and-renewal
+    and more cautious for ark-vessel and central/cosmic mountain categories. The comparison
+    claim is explicit in the passage but lacks details of the other versions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external parallels were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l27492-l27509
+  passage_sha256=d8f79728e14cc99cf0325d98dd32f22a44c31f9466a60aa87e077b55c173099a
+

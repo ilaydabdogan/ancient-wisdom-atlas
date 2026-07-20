@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l10122-l10189
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: THE    WAR    BADGE / A'KIWEN'21 / BUP.RATT    OF    AMERICAN    ETHNOLOGY
+    / CHIPPEWA    WAR     BANNER; lines 10122-10189
+  start: '10122'
+  end: '10189'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives recording and musical analysis for songs, notes that
+    many songs were used in nightly camp dances where warriors often sang of former
+    victories, and presents No. 20, “A War Bird,” sung by Odjib^wb, with words glossed
+    as a war bird who looked upon the speaker.
+  language: English with Ojibwe/Chippewa song words
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One analyzed song was recorded twice, with about two weeks between the recordings,
+    producing six renditions in groups of two.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The analyzed renditions varied in intonation while keeping note-values and
+    accents largely the same, with slight exceptions in connecting tones.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Many songs were used in dances at nightly camps.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Warriors frequently sang about former victories in the nightly camp dance
+    context.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: No. 20 is titled “A War Bird” and is attributed as sung by Odjib^wb.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The words of No. 20 are glossed as “a war bird” and “who looked upon me.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: No. 20 was recorded in two sets at an interval of a fortnight; its rhythm
+    is described as remaining identical throughout the renditions.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Odjib^wb
+  description: Named as the singer of No. 20, “A War Bird.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: warriors
+  description: Warriors at nightly camps who frequently sang of former victories.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: war bird
+  description: A bird named in the song text as “a war bird” and associated with looking
+    upon the speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: first-person speaker
+  description: The “me” in the song gloss, the one upon whom the war bird looked.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: song performer
+  assigned_to:
+  - fig:1
+  basis: The passage states that No. 20 was sung by Odjib^wb.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: camp victory singers
+  assigned_to:
+  - fig:2
+  basis: The passage says warriors frequently sang of former victories in dances at
+    nightly camps.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: looking war bird
+  assigned_to:
+  - fig:3
+  basis: The song gloss identifies a war bird who looked upon the speaker.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: object of the bird’s gaze
+  assigned_to:
+  - fig:4
+  basis: The song gloss includes “who looked upon me.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: war bird
+  literal_form: a war bird
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Nightly camp dances with victory songs
+  summary: The passage describes nightly camp dances in which warriors often sang
+    songs about former victories.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: War bird looking upon the speaker
+  summary: The brief song text presents a war bird who looked upon the first-person
+    speaker.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Performance and recording of “A War Bird”
+  summary: No. 20, “A War Bird,” is attributed to Odjib^wb and analyzed as recorded
+    in two sets with consistent rhythm.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: War bird observes the speaker
+  taxonomy_refs: []
+  basis: The song words are glossed as a war bird who looked upon the first-person
+    speaker.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The lyric is very brief; the passage does not explain whether the war
+    bird is an omen, helper, enemy, or other symbolic agent.
+- id: motif:2
+  label: Warriors sing former victories at night camps
+  taxonomy_refs: []
+  basis: The passage states that many songs were used in nightly camp dances and that
+    warriors frequently sang of former victories.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnomusicological performance pattern rather than a developed
+    mythic narrative in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage identifies “A War Bird” as characteristic of a class of songs
+    used in nightly camp dances where warriors sang about former victories.
+  claim_level: same_function
+  target: nightly camp dance war/victory-song class
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a short lyric for this song and does not compare
+    symbolic content across multiple songs.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10122-10145
+  quote_or_summary: An analysis describes a song recorded twice with a two-week interval,
+    yielding six renditions; the renditions vary in intonation but largely preserve
+    note-values and accents.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 10146-10149
+  quote_or_summary: The passage states that many songs were used in dances at nightly
+    camps and that warriors frequently sang of former victories.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 10150-10164
+  quote_or_summary: The passage presents No. 20, titled “A War Bird,” sung by Odjib^wb;
+    the song words are glossed as “a war bird” and “who looked upon me.”
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short phrases quoted from public-domain text.
+- id: ev:4
+  type: summary
+  locator: 10165-10189
+  quote_or_summary: The analysis of No. 20 says it was recorded in two sets at a fortnight’s
+    interval; its rhythm remains identical through the renditions, and the melody
+    is described as in the key of G.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but the song text is brief and
+    gives limited context for symbolic or motif interpretation. No supplied taxonomy
+    motif family or symbol ref clearly applies to the war bird.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy refs were assigned because the available symbol list does not include bird/war bird and the available motif families do not clearly match the brief passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l10122-l10189
+  passage_sha256=99cfed85d57094bfa134690951b812b9a00c3b4c067eca0f0f7e6401bb95ff3b
+

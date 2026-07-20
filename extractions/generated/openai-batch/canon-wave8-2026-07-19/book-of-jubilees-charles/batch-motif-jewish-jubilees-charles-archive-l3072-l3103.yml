@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.jewish-jubilees-charles-archive-l3072-l3103
+source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+passage_locator:
+  label: INTRODUCTION XXV / INTRODUCTION XXXV / INTRODUCTION 11 / INTRODUCTION; lines
+    3072-3103
+  start: '3072'
+  end: '3103'
+  translation: The Book of Jubilees, or, The Little Genesis
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Introductory notes cite Latin and Greek parallels to Jubilees: Cain kills
+    his brother with a stone; idol worship occurs in the time of Serug; Abraham takes
+    Sarah as wife, described as his paternal sister; astronomy is learned from a father;
+    and a phrase in Joel about threatening destruction may show independent knowledge
+    of Jubilees.'
+  language: English with Latin and Greek excerpts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Cain is described as envying his brother and killing him by striking his head
+    with a stone.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The name Sharna is identified by the editor as corrupt for Serug; in that
+    person's time, humans worshiped idols, each worshiping what pleased him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Abraham is described as taking Sarah as his wife; Sarah is also described
+    as his sister from his father.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A Greek excerpt says that the movement of the stars, or astronomy, was learned
+    from a father.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A phrase in Joel refers to someone threatening to destroy him; the editor
+    says this may testify to independent knowledge of Jubilees because it is not found
+    in earlier chronographers.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The editor states that Joel is generally dependent on Syncellus, Cedrenus,
+    or Glycas for material shared with the text.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Cain / Kain
+  description: Figure who envies his brother and kills him by striking his head with
+    a stone.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cain's brother
+  description: Brother of Cain who is killed by Cain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Sharna / Serug
+  description: Named figure or time marker; the editor says Sharna is corrupt for
+    Serug, and idol worship occurs in his time.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Humans in Serug's time
+  description: Humans who worship idols, each worshiping what pleased him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Abraham
+  description: Takes Sarah as wife; Sarah is described as his paternal sister.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Sarah / Saram
+  description: Abraham's wife, described as his sister from his father.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Unnamed astronomy learner
+  description: Implied recipient of instruction in astronomy from a father.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Father of the astronomy learner
+  description: Father from whom astronomy is learned.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sibling aggressor
+  assigned_to:
+  - fig:1
+  basis: Cain kills his brother after envying him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sibling victim
+  assigned_to:
+  - fig:2
+  basis: Cain's brother is killed by Cain.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: epoch-associated namesake
+  assigned_to:
+  - fig:3
+  basis: Idol worship is placed in the time of Sharna/Serug.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: idol worshipers
+  assigned_to:
+  - fig:4
+  basis: Humans worship idols, each worshiping what pleased him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: husband or wife-taker
+  assigned_to:
+  - fig:5
+  basis: Abraham takes Sarah as wife.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: wife and paternal sister
+  assigned_to:
+  - fig:6
+  basis: Sarah is described both as Abraham's wife and as his sister from his father.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: astronomy pupil
+  assigned_to:
+  - fig:7
+  basis: The excerpt says astronomy was learned from a father.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: father-teacher
+  assigned_to:
+  - fig:8
+  basis: The father is the source of instruction in astronomy.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: stone used in killing
+  literal_form: stone
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: idols
+  literal_form: idols worshiped by humans
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: movement of the stars / astronomy
+  literal_form: movement of the stars and astronomy as learned knowledge
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cain kills his brother
+  summary: Cain envies his brother and kills him by striking his head with a stone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Idol worship in Serug's time
+  summary: In the time of Sharna, identified as Serug, humans worship idols according
+    to individual preference.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Abraham takes Sarah as wife and paternal sister
+  summary: Abraham takes Sarah as wife, and she is described as his sister on his
+    father's side.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Astronomy learned from father
+  summary: An unnamed learner receives knowledge of the movement of the stars or astronomy
+    from a father.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Joel phrase compared with Jubilees
+  summary: The editor notes that a phrase in Joel about threatening to destroy someone
+    may indicate independent knowledge of Jubilees, though Joel is generally dependent
+    on earlier chronographers.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: brother kills brother with a stone
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage states that Cain envied his brother and killed him by striking
+    his head with a stone.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt is presented as a source parallel rather than a full narrative
+    episode.
+- id: motif:2
+  label: rise or practice of idolatry in a named generation
+  taxonomy_refs: []
+  basis: The passage places human idol worship in the time of Sharna/Serug, with each
+    person worshiping what pleased him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No divine response or broader narrative consequence is included in this
+    passage.
+- id: motif:3
+  label: marriage to a paternal sister
+  taxonomy_refs:
+  - sibling_pair
+  basis: Abraham takes Sarah as wife, and Sarah is described as his sister from his
+    father.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a kinship and marriage note only; it does not frame
+    the union as sacred marriage.
+- id: motif:4
+  label: paternal transmission of astronomical knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The Greek excerpt says that astronomy or the movement of the stars was learned
+    from a father.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The learner is unnamed in the supplied excerpt, and the wisdom taxonomy
+    is broad.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly compares the Cain fratricide excerpt with Jubilees iv.31.
+  claim_level: same_motif
+  target: Jubilees iv.31
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only a brief excerpt and citation, not a detailed
+    argument for dependence.
+- id: claim:2
+  claim: The note explicitly compares the Serug-era idol worship excerpt with Jubilees
+    xi.4.
+  claim_level: same_motif
+  target: Jubilees xi.4
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is citation-level and does not reproduce the full Jubilees
+    passage.
+- id: claim:3
+  claim: The note explicitly compares Abraham taking Sarah as wife and paternal sister
+    with Jubilees xii.9.
+  claim_level: same_motif
+  target: Jubilees xii.9
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage also refers to other notes, but those notes are outside
+    the supplied excerpt.
+- id: claim:4
+  claim: The Surpas excerpt about learning astronomy from a father is compared with
+    Jubilees xi.16 and a note on xii.2.
+  claim_level: same_motif
+  target: Surpas fragment and Jubilees xi.16; note on xii.2
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The figure receiving instruction is not named in the supplied excerpt.
+- id: claim:5
+  claim: The editor cautiously suggests that Joel's phrase about threatening to destroy
+    him may indicate independent knowledge of Jubilees.
+  claim_level: historical_contact
+  target: Joel, Chronographia p. 10 and Jubilees xxxvii.23
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:6
+  confidence: low
+  limitations: The passage itself marks the claim as possible, and it also states
+    that Joel is generally dependent on earlier chronographers.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3072-3074
+  quote_or_summary: '"Kain invidit fratri suo . . . lapide caput ejus feriens, ipsum
+    interfecit. Cf. Jub. iv. 31."'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3076-3079
+  quote_or_summary: '"Natus et Sharna, cujus temporibus coluerunt homines idola, unoquoque
+    quod sibi alliberet colente. Sharna is corrupt for Serug. Cf. Jub. xi. 4."'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 3081-3083
+  quote_or_summary: '"Accepit ergo Abraham uxorem suam Saram, quae et ipsi ex patre
+    soror erat. Cf. Jub. xii. 9."'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3085-3089
+  quote_or_summary: '"καὶ τὴν τῶν ἀστέρων κίνησιν, ἐκ τοῦ πατρὸς γὰρ ἐπαιδεύετο τὴν
+    ἀστρονομίαν ... Cf. Jub. ΧΙ. 16. See also note on xii. 2."'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 3091-3099
+  quote_or_summary: '"It is possible ... that the phrase καὶ ἐξολοθρεύειν αὐτὸν ἀπειλοῦντος
+    (Joel, p. 10 (cf Jub. xxxvii. 23)) testifies to an independent knowledge of Jubilees,
+    as it is not found in those earlier chronographers."'
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 3091-3096
+  quote_or_summary: The editor says Joel is generally dependent on Syncellus, Cedrenus,
+    or Glycas for material shared with Jubilees.
+  source_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introductory source-critical list of parallels, not a continuous
+    narrative. Motif extraction is strongest where the excerpt provides clear narrative
+    content and explicit Jubilees references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage text and metadata. No external context was added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:jewish-jubilees-charles-archive__l3072-l3103
+  passage_sha256=ff98435a1b1571580706680efd3d91ac0dddff88654a8b2c233a4b17cb12d6c8
+

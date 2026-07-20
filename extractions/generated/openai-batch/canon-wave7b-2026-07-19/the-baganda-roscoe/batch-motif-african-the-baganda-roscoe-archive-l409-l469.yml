@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l409-l469
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: CHAPTER  II. / CHAPTER  IV. / CHAPTER  VI. / CONTENTS  XV; lines 409-469
+  start: '409'
+  end: '469'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents passage lists topics in chapters on Government, Religion,
+    Warfare, and Industries. The Religion contents name Baganda gods, temples, mediums,
+    ghosts, sacrifices to a dead king, named gods including Mukasa, Kibuka, Nende,
+    Katonda, tree and hill spirits, a python god, fetiches, amulets, sacrificial places,
+    divination, ordeals, scapegoats, and magic. The Warfare contents include oath-taking,
+    purificatory rites, and ceremonies for military success.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Government contents list the king's powers, the queen, the king's mother,
+    chiefs, courts, tax collecting, imprisonment, homicide and murder, land tenure,
+    class distinctions, and inheritance.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Religion contents list Baganda gods, objects of veneration, national gods,
+    mediums, vestal virgins, temples, medicine-men, fetiches, ghosts, and contents
+    of the temple of kings.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Religion contents include victims sacrificed to the dead king, ghosts
+    of common people, exorcising ghosts, and ghosts of animals.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Religion contents name the god Mukasa, the war gods Kibuka and Nende,
+    a god of plague, a god of the chase, the god Katonda described as earth god, tree
+    spirits, hill spirits, a python god, and forest gods.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Religion contents include amulets, sacrificial places, divination, ordeals,
+    scapegoats, and magic.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Warfare contents include an army oath of allegiance, a sham fight as a
+    purificatory rite, a ceremony to ensure success in war, twin birth rites, return
+    of the army, and purificatory rites to cleanse spoil.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: King
+  description: A royal figure named in the contents under government, temple of kings,
+    and the dead king who receives sacrificed victims.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Queen
+  description: A royal figure listed in the Government contents.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: King's Mother
+  description: A royal kin figure listed in the Government contents.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Mukasa
+  description: Named in the Religion contents as a god.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Kibuka
+  description: Named in the Religion contents as a war god.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Nende
+  description: Named in the Religion contents as a war god.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Katonda
+  description: Named in the Religion contents as a god and earth god.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Python god
+  description: A deity or venerated being listed in the Religion contents.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Ghosts
+  description: Ghosts of common people and ghosts of animals are listed in the Religion
+    contents.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Tree spirits and hill spirits
+  description: Spirits associated with trees and hills are listed in the Religion
+    contents.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: royal figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The contents list the king, queen, and king's mother under Government.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dead royal recipient of sacrifice
+  assigned_to:
+  - fig:1
+  basis: The contents mention victims sacrificed to the dead king.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: god
+  assigned_to:
+  - fig:4
+  - fig:8
+  basis: The contents identify Mukasa as a god and list a python god.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: war god
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The contents identify Kibuka and Nende as war gods.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: earth god
+  assigned_to:
+  - fig:7
+  basis: The contents describe Katonda as earth god.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: ghost
+  assigned_to:
+  - fig:9
+  basis: The contents list ghosts of common people and ghosts of animals.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: place-associated spirit
+  assigned_to:
+  - fig:10
+  basis: The contents list tree spirits and hill spirits.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: python
+  literal_form: python god
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: tree
+  literal_form: tree spirits
+  associated_figures:
+  - fig:10
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sacrificial places
+  literal_form: places designated for sacrifice
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: scapegoats
+  literal_form: scapegoats
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: temple of kings
+  literal_form: temple connected with kings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: oath of allegiance
+  literal_form: army oath of allegiance
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: purificatory sham fight
+  literal_form: sham fight as a purificatory rite
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Religion chapter contents
+  summary: The contents enumerate religious topics including gods, mediums, temples,
+    fetiches, ghosts, sacrifices to a dead king, named deities, spirits, a python
+    god, amulets, sacrificial places, divination, ordeals, scapegoats, and magic.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Warfare chapter contents
+  summary: The contents enumerate war-related rites including oath-taking, a purificatory
+    sham fight, a ceremony for success in war, twin birth rites, return of the army,
+    and purification of spoil.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Government chapter contents
+  summary: The contents enumerate royal and administrative topics including the king's
+    powers, the queen, the king's mother, chiefs, courts, crimes, land tenure, class
+    distinctions, and inheritance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: sacrifice to the dead king and sacrificial places
+  taxonomy_refs:
+  - sacrifice
+  basis: The contents explicitly mention victims sacrificed to the dead king and sacrificial
+    places.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is a contents list, so it identifies the topic but does not
+    describe the ritual details.
+- id: motif:2
+  label: python deity or serpent veneration
+  taxonomy_refs:
+  - serpent
+  basis: The contents list a python god among religious topics.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The contents identify the being but do not narrate its cult, myth, or
+    function.
+- id: motif:3
+  label: ghosts and exorcism
+  taxonomy_refs: []
+  basis: The contents list ghosts, ghosts of common people, ghosts of animals, and
+    methods of exorcising ghosts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage provides topic headings only, not the exorcism procedures
+    or beliefs in detail.
+- id: motif:4
+  label: tree and hill spirits
+  taxonomy_refs: []
+  basis: The contents list tree spirits and hill spirits among religious topics.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe the spirits beyond their association with
+    trees and hills.
+- id: motif:5
+  label: ritual purification connected with warfare
+  taxonomy_refs: []
+  basis: The contents include a sham fight as a purificatory rite and purificatory
+    rites to cleanse spoil.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage is limited to chapter headings and does not explain the rites.
+- id: motif:6
+  label: royal sacred status and royal ancestor veneration
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The contents connect kingship with a temple of kings and victims sacrificed
+    to the dead king.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: Royal legitimacy is inferred cautiously from table-of-contents topics
+    rather than a direct narrative or doctrinal statement.
+- id: motif:7
+  label: divination, ordeals, scapegoats, and magic
+  taxonomy_refs: []
+  basis: The contents list divination, ordeals, scapegoats, and magic in sequence
+    among religious topics.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage names these practices but does not state their ritual purpose
+    or mythic setting.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 409-423
+  quote_or_summary: Government contents list the king's powers, queen, king's mother,
+    chiefs, courts, taxation, crimes, land tenure, class distinctions, and inheritance.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 425-435
+  quote_or_summary: Religion contents begin with Baganda gods and objects of veneration,
+    national gods, mediums, vestal virgins, temples, medicine-men, fetiches, ghosts,
+    and the temple of kings.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 435-439
+  quote_or_summary: Religion contents include victims sacrificed to the dead king,
+    ghosts of common people, methods of exorcising ghosts, and ghosts of animals.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 439-446
+  quote_or_summary: Religion contents name Mukasa, Kibuka, Nende, a god of plague,
+    a god of the chase, Katonda as earth god, tree and hill spirits, a python god,
+    and forest gods.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 446-449
+  quote_or_summary: Religion contents include fetiches, amulets, sacrificial places,
+    divination, ordeals, scapegoats, and magic.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 451-459
+  quote_or_summary: Warfare contents include an oath of allegiance, a sham fight as
+    a purificatory rite, a ceremony to ensure success in war, twin birth rites, return
+    of the army, a warrior's return, and purificatory rites to cleanse spoil.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a table of contents rather than a narrative or doctrinal exposition.
+    Named topics and roles are clear, but ritual functions and mythic meanings are
+    mostly not described.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage lists topics but does not itself compare them to other traditions or motif families beyond taxonomy candidate matching.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l409-l469
+  passage_sha256=bb0986184d9a7d6578a8191bcfa69607bf58a0872a96b5e3aefbe191559bf747
+

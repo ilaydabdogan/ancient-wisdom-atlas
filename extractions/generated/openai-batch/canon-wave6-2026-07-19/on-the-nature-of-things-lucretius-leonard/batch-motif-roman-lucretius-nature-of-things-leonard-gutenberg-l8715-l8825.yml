@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.roman-lucretius-nature-of-things-leonard-gutenberg-l8715-l8825
+source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+passage_locator:
+  label: BEGINNINGS OF CIVILIZATION / BOOK VI / PROEM / GREAT METEOROLOGICAL PHENOMENA,
+    ETC.; lines 8715-8825
+  start: '8715'
+  end: '8825'
+  translation: On the Nature of Things
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains lightning, thunder, and thunderbolts as natural phenomena
+    caused by wind, clouds, heat, and fire-seeds. It describes storm clouds as towering
+    mountain-like masses with cavernous interiors, explains different forms of lightning,
+    and lists the penetrating and destructive effects of thunderbolts. The speaker
+    addresses an addressee and promises further explanation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Clouds are said to suffuse the lands with leaping light, and the storm flashes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Wind enters a cloud, whirls within it, hollows it, thickens its crust, and
+    becomes hot through motion.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A heated wind splits a black cloud and scatters pressed-out fire-seeds, producing
+    flashes; the sound reaches the ears later than the sight reaches the eyes.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Dense piled clouds are compared to moving mountain-ranges and to masses about
+    mighty peaks; their interiors are described as caverns like crags.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hurricanes are described as prisoned in clouds, roaring, blustering, seeking
+    an outlet, and gathering fire-seeds in hollow furnaces until forked flashes burst
+    out.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Clouds are said to contain abundant fire-seeds, to take many such seeds from
+    sunlight, and to pour out bright fire when compressed by wind.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: When clouds grow rare and thin and are gently broken apart by wind, lightning
+    can appear around the horizon without thunderous noise.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Thunderbolts leave strokes, brand-marks, searing heat, scorched scars, and
+    sulphurous fumes, which the passage identifies as marks of fire rather than wind
+    or rain.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Thunderbolts are said to ignite roofs and rooms, pass through walls, stones,
+    and bronze, melt bronze and gold, and make wine vanish from intact jars.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:10
+  text: The passage states that thunderbolts can cleave towers, topple houses, wrench
+    beams, ruin monuments, kill men, and overthrow cattle.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: The speaker repeatedly addresses a second-person addressee, tells the addressee
+    to know and observe, and promises to unfold the causes of thunderbolts.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: speaker-instructor
+  description: A first-person speaker who explains meteorological causes and promises
+    to unfold further causes to the addressee.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: second-person addressee
+  description: The addressed listener, referred to as “thou,” who is instructed to
+    observe and know the causes being explained.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: wind
+  description: A natural force that enters, whirls within, heats, compresses, and
+    breaks clouds, producing lightning effects.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: didactic explainer
+  assigned_to:
+  - fig:1
+  basis: The speaker describes causes already shown and promises to unfold how thunderbolts
+    are generated and act.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: addressed learner
+  assigned_to:
+  - fig:2
+  basis: The passage uses direct address such as “thou,” “make thine observations,”
+    and “Know thou.”
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: meteorological causal agent
+  assigned_to:
+  - fig:3
+  basis: Wind is repeatedly described as entering, heating, compressing, and breaking
+    clouds, thereby producing fire-seeds and lightning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire-seeds and lightning fire
+  literal_form: seeds of fire, liquid fire, flashes of flame, thunderbolt fire
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: mountain-like storm clouds
+  literal_form: clouds like mountain-ranges and clouds massed about mighty peaks
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cloud caverns and dens
+  literal_form: caverns, dens, and hollow furnaces within clouds
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: penetrating thunderbolt
+  literal_form: a subtle, minute, darting fire passing through walls, stones, bronze,
+    and intact jars
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: wind-heated cloud produces lightning and thunder
+  summary: Wind enters and hollows a cloud, becomes hot through motion, splits the
+    cloud, and releases fire-seeds that make lightning; thunder follows more slowly
+    as sound.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: storm-cloud mountain caverns
+  summary: Dense piled clouds are likened to mountain ranges and peaks, with cavernous
+    interiors where hurricanes roar, gather fire-seeds, and burst forth in forked
+    flashes.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: golden and quiet lightning
+  summary: Clouds rich in fire-seeds or sunlight-derived fire produce golden lightning
+    when compressed, while thin clouds can make the horizon lighten without thunderous
+    noise.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: effects of the thunderbolt
+  summary: The passage identifies thunderbolts as fire by their marks, heat, sulphurous
+    fumes, ignition of buildings, penetration of materials, melting of metals, vanishing
+    of wine, and destruction of structures, humans, and cattle.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: didactic promise of explanation
+  summary: The speaker addresses the listener and promises to unfold how thunderbolts
+    are generated and how they perform their destructive actions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: natural-philosophical disclosure of hidden causes
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker instructs an addressee in the hidden natural causes of lightning,
+    thunder, and thunderbolts and promises further explanation.
+  evidence_refs:
+  - ev:7
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage is didactic natural philosophy rather than a mythic revelation
+    narrative; the taxonomy match to wisdom is broad.
+- id: motif:2
+  label: sky fire generated inside cloud caverns
+  taxonomy_refs: []
+  basis: Lightning is explained as fire-seeds formed, compressed, and released within
+    hollow clouds, which are described as caverns, dens, and furnaces.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level meteorological pattern, not tied to a named mythic
+    figure or myth cycle in the supplied text.
+- id: motif:3
+  label: thunderbolt as penetrating destructive fire
+  taxonomy_refs: []
+  basis: The thunderbolt is described as a subtle fire that penetrates barriers, melts
+    metals, ignites buildings, destroys structures, and kills humans and cattle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No divine thunderer or supernatural agency is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8715-8825, opening lightning explanation
+  quote_or_summary: Wind enters a cloud, hollows and heats it through motion, splits
+    a black cloud, scatters pressed-out fire-seeds, makes flashes, and thunder reaches
+    hearing later than sight.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 8715-8825, dense cloud and cavern imagery
+  quote_or_summary: Dense piled clouds are compared to mountain-ranges and peaks;
+    their interiors are described as caverns or dens where hurricanes roar, seek outlets,
+    roll fire-seeds, and burst in forked flashes.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 8715-8825, golden and quiet lightning explanation
+  quote_or_summary: Clouds contain abundant fire-seeds and take many from the sun;
+    compressed clouds pour out bright fire, while rare and thin clouds can lighten
+    the horizon without dreadful noise.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 8715-8825, thunderbolt marks and ignition
+  quote_or_summary: Thunderbolt strokes, searing heat, scorched scars, sulphur fumes,
+    and ignition of roofs and rooms are presented as marks of fire rather than wind
+    or rain.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 8715-8825, subtle penetrating fire
+  quote_or_summary: The thunderbolt is described as subtler than other fires, with
+    minute darting bodies; it passes through walls, stones, and bronze, melts bronze
+    and gold, and disperses wine from intact jars.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 8715-8825, destructive thunderbolt catalogue
+  quote_or_summary: The passage says thunderbolts can cleave towers, topple houses,
+    wrench timbers and beams, ruin monuments, take breath from men, and overthrow
+    cattle.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: 8715-8825, didactic address
+  quote_or_summary: Short phrases include “Know thou,” “make thine observations,”
+    and “I will unfold to thee,” showing direct instruction to an addressee.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source; short quoted phrases.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal meteorological content is explicit. Motif labels are cautious because
+    the passage is natural-philosophical and does not present a mythic narrative or
+    cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support historical, linguistic, or cross-tradition comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-lucretius-nature-of-things-leonard-gutenberg__l8715-l8825
+  passage_sha256=89d29f6c16326ce8361204b535d6b7c9f1b364bd0e109d523a456941ba8074ca
+

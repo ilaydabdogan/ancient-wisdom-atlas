@@ -1,0 +1,564 @@
+---
+record_id: batch.motif.native-american-myths-traditions-crow-lowie-archive-l3212-l3310
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+passage_locator:
+  label: TALES OF SUPERNATURAL PATRONS . 152 / HISTORICAL TRADITIONS . / INTRODUCTION.
+    / HERO TALES.; lines 3212-3310
+  start: '3212'
+  end: '3310'
+  translation: Myths and Traditions of the Crow Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“This country of the Crow Indians was in the middle of the earth.”"
+  summary: In this passage, a boy kills a lightning-emitting horned alligator, a bear,
+    a man with fire-moccasins, and a man with a long knife. His grandmother repeatedly
+    warns him not to visit dangerous places while also fearing that he may eventually
+    kill her. The passage also introduces an old woman by a creek whose bucket can
+    draw distant things into it; the boy takes the bucket and tests it on flying ducks.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A boy finds an alligator eating stored food, sees lightning come from it,
+    and kills it with arrows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The alligator has a horn on its forehead and is burned to ashes after being
+    killed.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Crow country is described as being in the middle of the earth.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The grandmother thinks about getting rid of the boy and knows he was sent
+    to kill all bad things.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The grandmother warns the boy about a bear in a chokecherry thicket that eats
+    everything it sees and sleeps at noon.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The boy approaches the sleeping bear, wakes it, tells it not to kill everything,
+    kills it with two arrows, cuts off one claw, and gives the claw to his grandmother.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The grandmother fears the boy may kill her after killing bad things on earth
+    and warns him about a man whose fire-moccasins burn whatever he passes.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The boy takes the fire-moccasins from the sleeping man, uses them, turns back
+    despite warning, burns the man, and keeps sparks in the fire until the man is
+    burned up.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The grandmother warns the boy about a more powerful man with a long knife;
+    the boy takes the knife from the sleeping man, tests it, and cuts off the man’s
+    neck.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The grandmother describes an old woman by a creek whose bucket draws distant
+    things into it; the boy takes the bucket, points it toward flying ducks, and the
+    ducks come into it and begin to boil.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: boy / grandson
+  description: A boy living with or near his grandmother; he is said to have been
+    sent to kill bad things and kills several dangerous beings.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: old woman / grandmother
+  description: The boy’s grandmother, who stores food, worries about the boy, warns
+    him about dangerous beings, and fears he may kill her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: alligator / burukse
+  description: A horned alligator that eats stored food, emits lightning, and is killed
+    and burned by the boy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: bear
+  description: A bear in a chokecherry thicket that eats everything it sees, sleeps
+    at noon, and is killed by the boy.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: man with fire-moccasins
+  description: A man whose fire-moccasins burn whatever he passes; he sleeps at noon
+    and is burned up after the boy takes the moccasins.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: man with long knife
+  description: A man with a powerful long knife; the knife cuts trees and animals
+    in its path, and the boy cuts off the man’s neck with it.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: old woman with bucket
+  description: An old woman by a creek whose bucket can draw distant things into it
+    and is described as what she eats with.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: killer of bad things
+  assigned_to:
+  - fig:1
+  basis: The passage states that the boy was sent to kill off all bad things, and
+    he kills multiple dangerous beings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: warning grandmother who fears the boy
+  assigned_to:
+  - fig:2
+  basis: She repeatedly warns him away from dangerous places while thinking about
+    getting rid of him and fearing he may kill her.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: dangerous being killed by the boy
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Each is described as harmful or powerful and is killed by the boy in the
+    passage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: owner or user of powerful implement
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The boy uses arrows, fire-moccasins, a long knife, and a bucket; the man
+    with fire-moccasins, the man with the knife, and the old woman with the bucket
+    possess powerful implements.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: four arrows
+  literal_form: Four arrows, two red and two blue, used by the boy.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: lightning from alligator
+  literal_form: Lightning coming out from the alligator and sent toward the boy.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: horned alligator
+  literal_form: A horn on the alligator’s forehead.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: fire and burning to ashes
+  literal_form: Fire made by the boy to burn the alligator and later to burn the fire-moccasin
+    man.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:5
+  label: chokecherry thicket and trees
+  literal_form: A thicket of chokecherry trees on the hillside; trees are also cut
+    by the long knife.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:6
+  label: bear claw
+  literal_form: One claw cut from the bear and given to the grandmother.
+  associated_figures:
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: fire-moccasins
+  literal_form: Moccasins whose wearer burns what he passes; a kicked stone burns
+    up.
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: long knife
+  literal_form: A long knife that cuts trees and animals in its path.
+  associated_figures:
+  - fig:6
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: drawing bucket
+  literal_form: A bucket whose opening draws distant things into it and in which birds
+    begin to boil.
+  associated_figures:
+  - fig:7
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:10
+  label: creek
+  literal_form: A creek beside which the old woman with the bucket stays.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:11
+  label: middle of the earth
+  literal_form: The Crow country described as being in the middle of the earth.
+  associated_figures: []
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Killing and burning the alligator
+  summary: The boy finds the alligator eating stored food, withstands its lightning,
+    kills it with arrows, pulls it from the lodge, notes its horn, and burns it to
+    ashes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning about and killing the bear
+  summary: The grandmother warns the boy not to visit the chokecherry thicket because
+    of a bear; the boy goes at noon, confronts the bear, kills it, and brings back
+    a claw.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Taking the fire-moccasins
+  summary: The grandmother warns about a man whose fire-moccasins burn whatever he
+    passes; the boy takes the moccasins from the sleeping man, uses them, and burns
+    the man up.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Taking the long knife
+  summary: The grandmother warns about a more powerful man with a long knife; the
+    boy takes the knife from the sleeping man, tests its cutting power, kills the
+    man, and offers the knife to his grandmother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:8
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Taking the bucket by the creek
+  summary: The grandmother describes an old woman by a creek whose bucket draws in
+    distant things; the boy takes the bucket and makes flying ducks enter it and begin
+    to boil.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Child or young hero killing harmful beings
+  taxonomy_refs:
+  - culture_hero
+  basis: The grandmother knows the boy was sent to kill bad things, and the passage
+    shows him killing the alligator, bear, fire-moccasin man, and long-knife man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage segment does not include the boy’s origin or full mission
+    beyond the grandmother’s statement.
+- id: motif:2
+  label: Homeland at the middle of the earth
+  taxonomy_refs:
+  - world_center
+  basis: The passage explicitly states that the country of the Crow Indians was in
+    the middle of the earth.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Only a single sentence in this passage develops the spatial claim.
+- id: motif:3
+  label: Repeated warning followed by deliberate visit to danger
+  taxonomy_refs: []
+  basis: The grandmother repeatedly warns the boy away from the bear, fire-moccasin
+    man, long-knife man, and bucket woman; the boy goes to each place anyway.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The warnings may function as attempted exposure to dangers rather than
+    a simple taboo or prohibition motif.
+- id: motif:4
+  label: Taking and using dangerous powerful implements
+  taxonomy_refs:
+  - sacred_theft
+  basis: The boy takes or uses the fire-moccasins, long knife, and bucket from their
+    owners and demonstrates their powers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The objects are powerful, but the passage does not call them sacred; the
+    taxonomy match is functional rather than explicit.
+- id: motif:5
+  label: Sleeping dangerous being vulnerable at noon
+  taxonomy_refs: []
+  basis: The bear, the man with fire-moccasins, and the bucket woman are each described
+    as sleeping at noon, and the boy approaches them during sleep.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The long-knife man is found asleep, but this passage does not explicitly
+    state noon for that encounter.
+comparison_claims:
+- id: claim:1
+  claim: Within the supplied taxonomy, the passage can be cautiously compared by function
+    to the culture_hero motif family because the boy is explicitly described as sent
+    to kill bad things and performs serial eliminations of harmful beings.
+  claim_level: same_function
+  target: culture_hero motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is an excerpt and does not provide the boy’s full biography
+    or broader cultural role.
+- id: claim:2
+  claim: The statement that the Crow country was in the middle of the earth supports
+    a cautious comparison to a world-center motif pattern.
+  claim_level: same_motif
+  target: world_center motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a brief locational statement without further
+    cosmological elaboration.
+- id: claim:3
+  claim: The boy’s taking of the fire-moccasins, long knife, and bucket resembles
+    the functional pattern of acquiring powerful objects from their owners, with only
+    limited support for comparison to sacred-theft motifs.
+  claim_level: same_function
+  target: sacred_theft motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not identify the objects as sacred, and one owner
+    frames the bucket as a means of eating rather than as a sacred object.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3212-3227
+  quote_or_summary: The boy finds an alligator eating stored food, sees lightning
+    come from it, kills it with arrows, pulls it from the lodge, observes a horn on
+    its forehead, and burns it to ashes.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain source; summarized with brief factual details.
+- id: ev:2
+  type: summary
+  locator: lines 3228-3237
+  quote_or_summary: The Crow country is said to be in the middle of the earth; the
+    grandmother thinks about getting rid of the boy, knows he was sent to kill bad
+    things, and warns him about a bear in a chokecherry thicket.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain source; summarized with brief factual details.
+- id: ev:3
+  type: summary
+  locator: lines 3238-3250
+  quote_or_summary: The boy goes to the bear at noon, finds it asleep, wakes it, tells
+    it not to kill everything, kills it with two arrows, cuts off one claw, and gives
+    the claw to his grandmother.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain source; summarized with brief factual details.
+- id: ev:4
+  type: summary
+  locator: lines 3251-3272
+  quote_or_summary: The grandmother fears the boy and warns him about a man whose
+    fire-moccasins burn whatever he passes; the boy takes the moccasins, uses them,
+    turns back, burns the man, and keeps sparks in the fire.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain source; summarized with brief factual details.
+- id: ev:5
+  type: summary
+  locator: lines 3273-3293
+  quote_or_summary: The grandmother warns about a powerful man with a long knife;
+    the boy takes the knife from the sleeping man, tests it so that trees and animals
+    are cut, cuts off the man’s neck, and offers the knife to his grandmother.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain source; summarized with brief factual details.
+- id: ev:6
+  type: summary
+  locator: lines 3294-3310
+  quote_or_summary: The grandmother describes an old woman by a creek whose bucket
+    draws in distant things; the boy takes the bucket while she sleeps, points it
+    toward flying ducks, and the ducks fly in and begin to boil.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain source; summarized with brief factual details.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative actions and figures are clear. Motif taxonomy assignments are cautious
+    because the passage is excerpted, begins mid-episode, and contains OCR/page-header
+    artifacts.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external traditions or unstated historical relationships were inferred. The passage ending is unresolved within the supplied excerpt.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-myths-traditions-crow-lowie-archive__l3212-l3310
+  passage_sha256=ed6dbc8a53a3ac08f08e761706129190719407c79239bf23fe7f92d15f448531
+

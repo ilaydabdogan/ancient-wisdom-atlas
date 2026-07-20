@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.south-american-legends-myths-british-guiana-brett-archive-l686-l719
+source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+passage_locator:
+  label: OF THE SUPREME BEING. / ORIGIN OF LIVING CREATURES. / ORIGIN OF THE WHITE
+    RACE. / THE FIRE AND THE FLOOD.; lines 686-719
+  start: '686'
+  end: '719'
+  translation: Legends and Myths of the Aboriginal Indians of British Guiana
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces traditions of a deluge in the New World and Old
+    World, mentions Arawak and inland tribal traditions, reports a Hayti/Bohio story
+    in which an overturned magic gourd releases a deluge and had contained many fish,
+    and states that Arawaks understood fire to have swept the earth before a water-flood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that deluge traditions prevailed in the New World as in
+    the Old.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage distinguishes Arawak traditions from other inland tribal traditions
+    and from traditions reported from Bohio or Hayti.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the Hayti/Bohio account, a magic gourd is accidentally overturned and a
+    deluge pours out.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The gourd is said to have enclosed numerous fish before it was overturned.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The narrator says he found no trace of that wild legend, while noting strange
+    traditions around him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that the Arawaks understood fire to have swept the earth
+    before the water-flood.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Arawaks
+  description: A group whose traditions are discussed and who are said to have understood
+    that fire swept the earth before the water-flood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Spaniards
+  description: Reporters or transmitters of traditions said to have been told in Bohio
+    or Hayti.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: same race in Bohio or Hayti
+  description: The group described as having first possessed the islands and as telling
+    the Hayti/Bohio gourd-deluge tradition.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: tradition bearers
+  assigned_to:
+  - fig:1
+  basis: The passage refers to Arawak traditions and to Arawak understanding of fire
+    before the water-flood.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: reported source
+  assigned_to:
+  - fig:2
+  basis: The passage says Spaniards show or report tales told in Bohio or Hayti.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: tellers of the Hayti/Bohio deluge story
+  assigned_to:
+  - fig:3
+  basis: The passage says the story of the magic gourd and deluge was told by the
+    same race in Bohio or Hayti.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: magic gourd
+  literal_form: A magic gourd that contains fish and releases a deluge when overturned.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: deluge or water-flood
+  literal_form: A deluge that pours from the overturned gourd; also named as a water-flood
+    after the earth-sweeping fire.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: fish of the deep
+  literal_form: Numerous fish enclosed in the gourd before the deluge pours out.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: earth-sweeping fire
+  literal_form: Fire said to have swept the earth before the water-flood.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Cross-regional mention of deluge traditions
+  summary: The passage states that deluge traditions were present in the New World
+    as in the Old, then introduces Arawak and other regional traditions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hayti/Bohio magic gourd deluge
+  summary: A magic gourd in the Hayti/Bohio story is accidentally overturned; a deluge
+    pours out, and the gourd had contained many fish.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Arawak fire before flood sequence
+  summary: The Arawaks are said to have understood that fire swept the earth before
+    the water-flood.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deluge tradition
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage explicitly names traditions of a deluge and a water-flood.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage names the flood but does not describe renewal after it.
+- id: motif:2
+  label: flood released from an overturned container
+  taxonomy_refs: []
+  basis: The Hayti/Bohio account says a magic gourd was accidentally overturned and
+    the deluge poured out from it.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No available taxonomy reference precisely matches a flood released from
+    a gourd.
+- id: motif:3
+  label: world-sweeping fire before flood
+  taxonomy_refs:
+  - world_destroying_fire
+  - flood_and_renewal
+  basis: The passage states that fire swept the earth before the water-flood.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The cause, agents, and aftermath of the fire and flood are not described
+    in this passage; the line includes OCR corruption near the word 'fire'.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares New World deluge traditions with Old World deluge
+    traditions by saying that traditions of a deluge prevailed in both.
+  claim_level: same_motif
+  target: Old World deluge traditions
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a broad narrator statement; no specific Old World text or detailed
+    parallel is provided in the passage.
+- id: claim:2
+  claim: The passage juxtaposes the Arawak fire-before-flood tradition with a Hayti/Bohio
+    magic-gourd deluge tradition as regional deluge-related traditions.
+  claim_level: same_motif
+  target: Hayti/Bohio magic-gourd deluge tradition
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The two accounts differ in sequence and mechanism; the passage does
+    not claim a direct historical relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 688-690
+  quote_or_summary: "“Traditions of a deluge” in the New World “prevailed, as in the
+    Old.”"
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 692-702
+  quote_or_summary: The passage mentions Arawak traditions, stranger tales from inland
+    tribes, and wilder tales said by Spaniards to have been told by the same race
+    in Bohio or Hayti, whose race first possessed the islands.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 704-710
+  quote_or_summary: In the Hayti/Bohio story, an accidentally overturned magic gourd
+    releases the deluge; before then it held the numerous fish of the deep.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 712-714
+  quote_or_summary: The narrator says he has found no trace of that wild legend, though
+    strange traditions were all around.
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 716-718
+  quote_or_summary: The passage says the Arawaks understood that “fire had swept the
+    earth before the water-flood.”
+  source_text_path: texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and partly programmatic. The final line contains OCR
+    corruption before the word 'fire', so the fire-before-flood extraction is based
+    on the clear phrase that fire swept the earth before the water-flood.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage text and metadata. Taxonomy references are limited to the provided lists.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-legends-myths-british-guiana-brett-archive__l686-l719
+  passage_sha256=9b4fb40f19f541e4576adad0619005c195007aedce32b8d0e41b70ebe1892774
+

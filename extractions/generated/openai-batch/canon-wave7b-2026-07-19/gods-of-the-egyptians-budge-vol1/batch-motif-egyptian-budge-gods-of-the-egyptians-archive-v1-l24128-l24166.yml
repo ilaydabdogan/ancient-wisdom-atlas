@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l24128-l24166
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: PTAH THE ARTIFICER 501 / I AAAAAA IJ / FORMS OF PTAH 503 / THE SEKER BOAT;
+    lines 24128-24166
+  start: '24128'
+  end: '24166'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: the god who is in the Seker boat
+  summary: A fragmentary scholarly passage discusses the Seker boat, a Book of the
+    Dead petition for deliverance from a dangerous god in that boat, identifications
+    of that god with Suti or Seker-Asar, and Seker's status as an ancient god connected
+    with an Underworld region and a necropolis.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage heading identifies the subject as the Seker boat.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A divine figure is described as a great god who came into being in the beginning
+    and rests upon darkness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A Book of the Dead petition has the deceased ask to be delivered from a great
+    god who carries away the soul, eats hearts, feeds upon offal, guards darkness,
+    and is in the Seker boat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An explanatory answer to the question 'Who is this?' identifies the god in
+    the Seker boat with Suti or Seker-Asar.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Seker is described as an ancient spirit or god.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says Seker could be represented by Set or Suti, described as the
+    enemy of Ka, or by the soul of the earth-god Seb.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In early dynastic times Seker was exalted as god of a portion of the Underworld
+    allotted to souls of inhabitants of Memphis and the neighbourhood.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says Seker was regarded as tutelary deity of a necropolis whose
+    name is truncated in the supplied text as 'Sak-'.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Seker
+  description: Ancient spirit or god; later described as god of an Underworld portion
+    for souls from Memphis and its neighbourhood and as tutelary deity of a necropolis
+    named only fragmentarily in the supplied text.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The deceased
+  description: The deceased is the petitioner in the cited Book of the Dead passage,
+    asking for deliverance from the dangerous god.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Great god in the Seker boat
+  description: A god described as carrying away the soul, eating hearts, feeding on
+    offal, guarding darkness, and being in the Seker boat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Suti / Set
+  description: Named in connection with the god in the Seker boat and described as
+    the enemy of Ka and as a possible representation of Seker.
+  role_refs:
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Seker-Asar
+  description: Named as an identification or explanation of the god in the Seker boat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Seb
+  description: The earth-god whose soul is named as a possible representation of Seker.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Ka
+  description: Named as the one whose enemy is Set or Suti.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deceased petitioner
+  assigned_to:
+  - fig:2
+  basis: The deceased begs to be delivered from the god in the Seker boat.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: soul-carrying heart-eating guardian of darkness
+  assigned_to:
+  - fig:3
+  basis: The god is described as carrying away the soul, eating hearts, feeding upon
+    offal, and guarding darkness.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: identification of the god in the Seker boat
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The explanatory passage names Suti or Seker-Asar as the god in the Seker
+    boat.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: ancient spirit or god
+  assigned_to:
+  - fig:1
+  basis: Seker is directly described as an ancient spirit or god.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: god of an Underworld portion
+  assigned_to:
+  - fig:1
+  basis: Seker was exalted to be god of the Underworld portion allotted to souls of
+    Memphis and its neighbourhood.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: tutelary deity of a necropolis
+  assigned_to:
+  - fig:1
+  basis: The passage says Seker was regarded as tutelary deity of the necropolis named
+    fragmentarily as 'Sak-'.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: enemy of Ka
+  assigned_to:
+  - fig:4
+  basis: Set or Suti is described as the enemy of Ka.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: earth-god
+  assigned_to:
+  - fig:6
+  basis: Seb is explicitly called the earth-god.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: opponent named in relation to Suti or Set
+  assigned_to:
+  - fig:7
+  basis: Ka is named as the one of whom Set or Suti is the enemy.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Seker boat
+  literal_form: boat named as the Seker boat
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Darkness
+  literal_form: darkness on which the god rests and which he guards
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Hearts and offal
+  literal_form: hearts eaten by the god and offal on which he feeds
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Underworld portion for Memphis souls
+  literal_form: portion of the Underworld allotted to souls of inhabitants of Memphis
+    and the neighbourhood
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Necropolis of Sak-
+  literal_form: necropolis whose name is truncated in the supplied text as 'Sak-'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Book of the Dead deliverance petition
+  summary: The deceased asks to be delivered from the dangerous great god in the Seker
+    boat, who carries away the soul and consumes hearts and offal.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Identification of the Seker-boat god
+  summary: The explanatory answer to 'Who is this?' names Suti or Seker-Asar as the
+    god in the Seker boat.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Seker's status and representations
+  summary: Seker is described as an ancient spirit or god who may be represented by
+    Set or Suti, or by the soul of Seb, and who later holds authority over an Underworld
+    region and a necropolis.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Protective deliverance from an afterlife threat
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The deceased petitions for deliverance from a dangerous god in the Seker
+    boat, and the passage places Seker within an Underworld context.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a petition and underworld association, not a full journey
+    map.
+- id: motif:2
+  label: Heart-eating soul carrier
+  taxonomy_refs: []
+  basis: The god is described as carrying away the soul, eating hearts, and feeding
+    upon offal.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not describe a judgment scene; the destructive function
+    is explicit, but its broader ritual setting is not supplied.
+- id: motif:3
+  label: Underworld god in a divine boat
+  taxonomy_refs:
+  - ark_vessel
+  basis: The divine figure is repeatedly located in the Seker boat, and the passage
+    links Seker with the Underworld.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: low
+  cautions: The boat is named but no travel, transport, or ark-like function is described
+    in the supplied passage.
+- id: motif:4
+  label: Local necropolis tutelary deity over allotted souls
+  taxonomy_refs: []
+  basis: Seker is said to be god of an Underworld portion allotted to souls from Memphis
+    and its neighbourhood and tutelary deity of a necropolis.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No closer supplied taxonomy reference applies.
+comparison_claims:
+- id: claim:1
+  claim: The excerpt connects the Seker-boat figure with a Book of the Dead deliverance
+    petition, supporting comparison to a protective afterlife-petition pattern for
+    the deceased rather than to a full narrative episode.
+  claim_level: same_function
+  target: Book of the Dead protective deliverance petitions for the deceased
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only one cited Book of the Dead passage is provided; no additional
+    corpus examples are included in the supplied text.
+evidence:
+- id: ev:1
+  type: citation
+  locator: '24128'
+  quote_or_summary: The passage heading is 'THE SEKER BOAT'.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source metadata supplied by requester.
+- id: ev:2
+  type: summary
+  locator: 24129-24144
+  quote_or_summary: A great god is described as primordial and resting upon darkness;
+    a Book of the Dead petition asks deliverance from a great god who carries away
+    the soul, eats hearts, feeds on offal, guards darkness, and is in the Seker boat.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source metadata supplied by requester.
+- id: ev:3
+  type: summary
+  locator: 24145-24152
+  quote_or_summary: In the explanatory answer to 'Who is this?', the god in the Seker
+    boat is said to be either Suti or Seker-Asar.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source metadata supplied by requester.
+- id: ev:4
+  type: summary
+  locator: 24153-24159
+  quote_or_summary: Seker is described as an ancient spirit or god whose attributes
+    could be represented by Set or Suti, the enemy of Ka, or by the soul of the earth-god
+    Seb.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source metadata supplied by requester.
+- id: ev:5
+  type: summary
+  locator: 24159-24166
+  quote_or_summary: In early dynastic times Seker was exalted as god of the Underworld
+    portion allotted to souls of Memphis and the neighbourhood, and as tutelary deity
+    of a necropolis whose name is truncated as 'Sak-'.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source metadata supplied by requester.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is fragmentary, contains OCR/symbol noise, and ends mid-word
+    at 'Sak-'. The Suti/Seker-Asar identification is based on the supplied wording
+    but should be checked against the canonical source.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unprovided taxonomy identifiers were used; the necropolis name was left truncated as supplied.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l24128-l24166
+  passage_sha256=aac909b1459b993261df3f7cc771c54a0033dcaeb85258d88e77ff693f6011e2
+

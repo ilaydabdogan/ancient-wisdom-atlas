@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-muller-sbe32-archive-l38261-l38396
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+passage_locator:
+  label: HYMNS, / INDEX OF / WORDS. 523 / HYMNS.; lines 38261-38396
+  start: '38261'
+  end: '38396'
+  translation: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an index of Sanskrit words in the hymn collection, giving
+    transliterated headwords, brief English glosses, and hymn citations. It includes
+    entries for offering and prayer, a sacrificial vessel, a priest, Rudra-associated
+    epithets, country and river names, sun, Dawn, sun and moon, heaven, flowing rain,
+    and army.
+  language: English with transliterated Sanskrit
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is structured as an index of words with glosses and hymn references
+    rather than as a narrative hymn passage.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One entry glosses su-vrikti as a pure offering or prayer.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One entry identifies Su-sema as the name of a country.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage includes an entry for a sacrificial vessel.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One entry identifies Su-soma as the name of a river.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One entry glosses su-hastya as a handy priest.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Rudra is associated with the entry su-sipra, glossed as having beautiful cheeks.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage lists entries for sun, sun-bright skin, Dawn, and sun and moon.
+  category: object
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: obs:9
+  text: Verb entries refer to running, flowing, going forth, sending forth, and being
+    sent from heaven.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:10
+  text: One entry glosses sripra-danu as possessed of flowing rain.
+  category: attribute
+  evidence_refs:
+  - ev:11
+- id: obs:11
+  text: The passage includes an army entry associated with Rudra and an epithet of
+    Rudra, sena-ni.
+  category: relationship
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: Rudra
+  description: Named in parenthetical index glosses, including su-sipra and entries
+    for army and sena-ni.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+  - ev:12
+- id: fig:2
+  name_or_label: Sarya/Sarya, the Dawn
+  description: An index entry labels Sarya/Sarya as the Dawn.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: Indexed deity associated with epithets and army terminology
+  assigned_to:
+  - fig:1
+  basis: Rudra appears in entries for su-sipra and for sena/sena-ni.
+  evidence_refs:
+  - ev:6
+  - ev:12
+- id: role:2
+  label: Indexed Dawn figure
+  assigned_to:
+  - fig:2
+  basis: The entry explicitly identifies Sarya/Sarya with the Dawn.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: Offering or prayer
+  literal_form: su-vrikti, glossed as pure offering or prayer
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Sacrificial vessel
+  literal_form: su-sdma, a sacrificial vessel
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: River
+  literal_form: Su-soma, name of a river
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Priest
+  literal_form: su-hastya, glossed as handy priest
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Sun
+  literal_form: entries glossed as sun and sun-bright skin
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Dawn
+  literal_form: Sarya/Sarya, identified as the Dawn
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: Sun and moon
+  literal_form: entry glossed as sun and moon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:8
+  label: Heaven
+  literal_form: verb entry includes the phrase sent from heaven
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:9
+  label: Flowing rain
+  literal_form: sripra-danu, possessed of flowing rain
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:11
+- id: sym:10
+  label: Army
+  literal_form: sena, army, associated with Rudra
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:12
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Sacrificial offering, priest, and vessel vocabulary
+  taxonomy_refs:
+  - sacrifice
+  basis: The index includes entries for pure offering or prayer, a sacrificial vessel,
+    and a priest.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: low
+  cautions: The passage is a lexical index, not a mythic or ritual narrative; it supports
+    only the presence of sacrificial vocabulary.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38261-38396
+  quote_or_summary: Index section under HYMNS listing Sanskrit headwords, English
+    glosses, and hymn citations.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summary generated.
+- id: ev:2
+  type: quote
+  locator: approx. lines 38268-38270
+  quote_or_summary: '"su-vrikti, pure offering, prayer"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: quote
+  locator: approx. lines 38299-38301
+  quote_or_summary: '"Su-séma, N. of a country" and "su-sdma, a sacrificial vessel"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: quote
+  locator: approx. lines 38302-38303
+  quote_or_summary: '"Su-soma, N. of a river"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; short excerpt.
+- id: ev:5
+  type: quote
+  locator: approx. lines 38313-38314
+  quote_or_summary: '"su-hastya, handy priest"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: quote
+  locator: approx. lines 38281-38286
+  quote_or_summary: '"su-sipra, with beautiful cheeks"; "su-siprah (Rudra)"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; short excerpt.
+- id: ev:7
+  type: summary
+  locator: approx. lines 38332-38351
+  quote_or_summary: Entries gloss forms as sun and include a separate entry for sun-bright
+    skin.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summary generated.
+- id: ev:8
+  type: quote
+  locator: approx. lines 38352-38353
+  quote_or_summary: '"Sarya, Sarya (the Dawn)"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; short excerpt.
+- id: ev:9
+  type: quote
+  locator: approx. lines 38354-38355
+  quote_or_summary: '"stiryamasa, sun and moon"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; short excerpt.
+- id: ev:10
+  type: summary
+  locator: approx. lines 38356-38366
+  quote_or_summary: Verb entries are glossed as running, flowing, going forth, letting
+    loose, sending forth, and being sent from heaven.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain source; summary generated.
+- id: ev:11
+  type: quote
+  locator: approx. lines 38367-38369
+  quote_or_summary: '"sripra-danu, possessed of flowing rain"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; short excerpt.
+- id: ev:12
+  type: quote
+  locator: approx. lines 38370-38373
+  quote_or_summary: '"séna, army"; "sénab (of Rudra)"; "sena-ni, ep. of Rudra"'
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  rights_note: Public domain; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is an OCR-corrupted index rather than a narrative passage. Literal
+    extraction of indexed terms is moderately secure, but motif identification is
+    limited to cautious vocabulary-level evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage itself does not compare traditions or motifs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-muller-sbe32-archive__l38261-l38396
+  passage_sha256=df3df81dc5695e48fc412d2826aa603409572ef2d08683670e42bc60063af731
+

@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l4718-l4739
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: DIPPERS,  LADLES,  AND  SPOONS / BUREAU    OF  AMERICAN    ETHNOLOGY / EIGHTEENTH   ANNUAL   REPORT     PL.    XXIV
+    / EARRINGS; lines 4718-4739
+  start: '4718'
+  end: '4739'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes several illustrated utensils: a Sabotnisky spoon
+    with a painted otter and red-black decoration; another Sabotnisky oval spoon with
+    black figures on both surfaces; a Big Lake ladle painted red with an outlined
+    mythological animal combining wolf and killer-whale features; and the beginning
+    of a description of a St Lawrence island scoop.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A spoon from Sabotnisky has a plain handle narrowed near a pear-shaped bowl,
+    with an otter figure painted inside the bowl.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sabotnisky spoon with the otter has two black lines near the upper border,
+    a red rim edge, red borders along the handle, a red crossbar in the middle, and
+    black outlines around two plain wooden quadrangular areas.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A second Sabotnisky spoon is long and oval, with the bowl continued to form
+    the handle, and has black figures on both upper and lower surfaces.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A ladle from Big Lake has a long handle, flattened above and oval below, and
+    is painted red except on the inner bowl surface.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The unpainted inner bowl of the Big Lake ladle outlines the head and forepart
+    of a mythological animal that combines wolf and killer-whale features.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The composite animal on the ladle includes a whale fin rising from the shoulders
+    and the forefeet and head of a wolf.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A broad, flattened scoop from St Lawrence island has a short projecting handle
+    on the inner end and is described as nearly square before the passage breaks off.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: painted otter
+  description: An otter figure painted within the pear-shaped bowl of a spoon from
+    Sabotnisky.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unidentified black figures
+  description: Black figures ornamenting both the upper and lower surface of a long
+    oval spoon from Sabotnisky.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: mythological wolf-killer-whale animal
+  description: A mythological animal outlined on a ladle bowl, combining the head
+    and forefeet of a wolf with a killer-whale feature, including a whale fin rising
+    from the shoulders.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: utensil surface figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage describes figures painted, ornamented, or outlined on spoon or
+    ladle surfaces.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: composite mythological animal
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly calls the ladle figure mythological and says it combines
+    wolf and killer-whale features.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: unidentified black ornament
+  assigned_to:
+  - fig:2
+  basis: The passage notes black figures on both surfaces of the spoon without identifying
+    them further.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: otter figure in spoon bowl
+  literal_form: Painted otter within the bowl of a spoon.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: red and black spoon decoration
+  literal_form: Two black border lines, red rim, red handle borders, red crossbar,
+    and black-outlined quadrangular wooden areas.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: black figures on oval spoon
+  literal_form: Unidentified black figures on both surfaces of a long oval spoon.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: composite wolf-killer-whale animal
+  literal_form: Outlined mythological animal with wolf head and forefeet and a killer-whale
+    fin.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: red-painted ladle with unpainted figured bowl
+  literal_form: Ladle painted red except for the inner bowl surface bearing the composite
+    animal outline.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Sabotnisky spoon with otter and red-black decoration
+  summary: The passage describes a pear-bowled spoon from Sabotnisky with an otter
+    painted in the bowl and red and black linear decoration on the rim and handle.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sabotnisky oval spoon with black figures
+  summary: The passage describes a long oval spoon from Sabotnisky whose bowl continues
+    into the handle and whose upper and lower surfaces bear black figures.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Big Lake ladle with composite mythological animal
+  summary: The passage describes a red-painted ladle from Big Lake with an unpainted
+    inner bowl containing an outline of a mythological animal combining wolf and killer-whale
+    features.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: St Lawrence island scoop
+  summary: The passage begins to describe a broad flattened scoop from St Lawrence
+    island with a short projecting handle.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal figure painted inside utensil bowl
+  taxonomy_refs: []
+  basis: A spoon bowl contains a painted otter figure.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage describes the visual placement but gives no stated ritual
+    or narrative meaning.
+- id: motif:2
+  label: red and black geometric utensil decoration
+  taxonomy_refs: []
+  basis: The spoon is decorated with black lines, a red rim, red handle borders, a
+    red crossbar, and black-outlined quadrangular areas.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The decorative pattern is literal, but the passage does not explain its
+    meaning.
+- id: motif:3
+  label: black figures covering both sides of a spoon
+  taxonomy_refs: []
+  basis: A long oval spoon has black figures on both its upper and lower surfaces.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The figures are not identified in the passage.
+- id: motif:4
+  label: composite mythological animal with wolf and killer-whale traits
+  taxonomy_refs: []
+  basis: The ladle figure is described as a mythological animal combining wolf and
+    killer-whale features, including wolf head and forefeet and a whale fin.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage supports a composite mythological animal motif, but it does
+    not describe transformation or a narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4718-4725
+  quote_or_summary: Plate xxix, 4, is a Sabotnisky spoon with a pear-shaped bowl containing
+    a painted otter and red-black border and handle decoration.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 4726-4729
+  quote_or_summary: Plate xxx, 17, also from Sabotnisky, is a long oval spoon whose
+    bowl continues into the handle and whose upper and lower surfaces are ornamented
+    with black figures.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 4730-4737
+  quote_or_summary: Plate xxix, 1, is a red-painted Big Lake ladle with an unpainted
+    inner bowl showing a mythological animal that combines wolf and killer-whale features,
+    including a whale fin, wolf forefeet, and wolf head.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 4738-4739
+  quote_or_summary: Plate xxix, 11, from St Lawrence island, is described as a broad
+    flattened scoop with a short projecting handle on the inner end; the description
+    is incomplete in the supplied passage.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a descriptive ethnographic catalog entry. Literal artifact
+    and image details are clear, but symbolic or mythic interpretation is limited
+    to the explicit phrase 'mythological animal.' No comparison claims are supported
+    by the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was applied. The composite animal is not tagged as shapeshifter because the passage describes combined features, not transformation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l4718-l4739
+  passage_sha256=82eda5a90d65393c20157588ec1399108725f1b5d09d2860dc59ffa493c2e371
+

@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l5096-l5147
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: 'POAME NIRS: / FOOD AND ITS PREPARATION / TURNER.) THE KAIAK. 239 / ON LAND;
+    lines 5096-5147'
+  start: '5096'
+  end: '5147'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes sled dogs' fear of the whip, sled load and travel
+    rates under varying road conditions, differences in dog behavior, conflict caused
+    by unfamiliar dogs in a team, and the driver's role in keeping the dogs ordered
+    and separated during quarrels. The latter part of the supplied text contains OCR-garbled
+    illustration material and no clear narrative content.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The sled dogs may attack one another fiercely, with several dogs involved
+    in fights.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A whip sound or a stick thrown through the air is described as enough to make
+    the dogs withdraw in fear of the expected lash.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A sled may carry as much as 1,200 pounds, and the road conditions determine
+    load, dog number, and travel rate.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage reports faster travel on smooth surfaces and much slower travel
+    through rough ice or deep newly fallen snow.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Dogs differ in disposition and condition; some are energetic and well behaved,
+    while others are stubborn or lazy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Unfamiliar dogs in a team may be attacked by the others, producing an entanglement
+    of lines, dogs, and snow.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The driver's skill is shown by keeping dogs in order, separating them when
+    they quarrel, and keeping them in proper position to prevent fighting.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: sled dogs
+  description: Dogs used in sled teams; they fight, fear the whip, vary in behavior,
+    and draw sleds under differing conditions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: sled driver
+  description: The person responsible for keeping the dogs in order, separating quarrels,
+    and maintaining proper team position.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: three men in travel example
+  description: An anecdotal group reported as traveling with an empty sled and seven
+    dogs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: draft animals in sled team
+  assigned_to:
+  - fig:1
+  basis: The dogs are attached to sleds, and their number affects the sled's load
+    and rate of travel.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: driver and team manager
+  assigned_to:
+  - fig:2
+  basis: The driver keeps the dogs ordered, separates quarreling dogs, and prevents
+    fighting by positioning them properly.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: travelers in reported journey
+  assigned_to:
+  - fig:3
+  basis: The passage gives a travel example involving three men, an empty sled, and
+    seven dogs.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: whiplash or whip sound
+  literal_form: whiplash; swish of a whip; stick thrown through the air
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sled
+  literal_form: sled carrying load or used for travel
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: travel surface
+  literal_form: smooth surface, rough ice, and deep newly fallen snow
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: long traces and lines
+  literal_form: long traces and entangled lines of the dog team
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: dog fighting checked by whip fear
+  summary: Dogs may fight fiercely, but the sound or expectation of a lash causes
+    them to withdraw in fear.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: sled load and travel under road conditions
+  summary: The passage describes maximum sled load, the effect of road conditions
+    on team size and speed, and examples of fast and slow travel.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: team disorder and driver management
+  summary: Differences in dog disposition and the addition of unfamiliar dogs can
+    cause fights and entanglements, while the driver prevents conflict by order and
+    position management.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5096-5101
+  quote_or_summary: The passage states that the dog "fears nothing but the whiplash"
+    and that a whip sound or thrown stick can make fighting dogs retreat in terror.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 5102-5111
+  quote_or_summary: 'The passage gives sled load and speed information: loads may
+    reach 1,200 pounds; road conditions determine weight, dog number, and rate; smooth
+    travel can be rapid, while rough ice or deep new snow can greatly slow travel.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 5112-5123
+  quote_or_summary: The passage describes variation in dog behavior, attacks on strange
+    dogs in the team, entanglement of traces and dogs, and the driver's responsibility
+    for keeping order and preventing fighting.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: note
+  locator: lines 5124-5147
+  quote_or_summary: The supplied text in this range appears to contain OCR-garbled
+    illustration or page material and is not used for motif extraction.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal ethnographic extraction is limited by OCR noise near the end of the
+    passage. No mythological motif family or comparison claim is supported by the
+    passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied; the passage concerns practical sled-dog handling and travel conditions rather than myth narrative.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l5096-l5147
+  passage_sha256=12e1735267d323fbec936dd25913c0ed3e1bd2412464011dfa8c857404bb5eca
+

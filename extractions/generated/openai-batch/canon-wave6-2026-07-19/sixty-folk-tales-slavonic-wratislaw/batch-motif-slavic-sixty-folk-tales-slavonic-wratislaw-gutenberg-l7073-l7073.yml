@@ -1,0 +1,104 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l7073-l7073
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: XL.--THE LAME FOX. / XLI.--THE SONS' OATH TO THEIR DYING FATHER. / XLII.--THE
+    WONDERFUL HAIR. / XLIII.--THE DRAGON AND THE PRINCE.; lines 7073-7073
+  start: '7073'
+  end: '7073'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: XLIII.--THE DRAGON AND THE PRINCE.
+  summary: The passage is a tale heading naming a dragon and a prince.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The line is a numbered tale heading.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heading names a dragon and a prince.
+  category: relationship
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: dragon
+  description: A dragon named in the tale heading.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: prince
+  description: A prince named in the tale heading.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: title-named dragon
+  assigned_to:
+  - fig:1
+  basis: The tale heading names the dragon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: title-named prince
+  assigned_to:
+  - fig:2
+  basis: The tale heading names the prince.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: dragon
+  literal_form: dragon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: dragon and prince pairing
+  taxonomy_refs: []
+  basis: The tale heading juxtaposes a dragon and a prince as the named subjects of
+    the tale.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Only the title is present; no action, conflict, quest, or symbolic function
+    is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 7073
+  quote_or_summary: XLIII.--THE DRAGON AND THE PRINCE.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage contains only a tale title, so title figures can be extracted,
+    but motif interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself provides no narrative context beyond the title.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l7073-l7073
+  passage_sha256=8afbdc970edb04c1e9cf407e3cd07ff8d1ae574d2eef0964db13d113aba59236
+

@@ -1,0 +1,399 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l3995-l4032
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: XC1V INTRODUCTION. / INTRODUCTION. XCV / XCV111 INTRODUCTION. / INTRODUCTION.
+    XC1X; lines 3995-4032
+  start: '3995'
+  end: '4032'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The milking, in the meantime, had been progressing rapidly
+  summary: A descriptive introductory passage depicts deer or reindeer being milked
+    into birch vessels, straying animals chased back by a Lapp man and dogs, and a
+    meal inside a cota of roast reiper and reindeer milk.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A female milker uses a halter and milks a hind into a round birch bowl with
+    a handle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some deer break out of the herd and head toward the mountain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A small Lapp man uses a long birch pole and shouts while pursuing the straying
+    animals.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Two black, rough, half-starved dogs chase the straying animals, and many return
+    with bitten houghs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some animals escape at a long trot and vanish over the hill.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator notes that the deer-like creatures are tame enough to tread on
+    feet and touch a sketch-book with their horns.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A girl repeatedly dips her fingers in the milk-pail and licks the milk while
+    the milking is underway.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The blear-eyed one, the boy, and the narrator's party enter the cota and dine
+    on cold roast reiper and reindeer milk.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The boy pours milk from a small keg, gives the party a share, licks the remaining
+    milk from the keg's outside, and sets it in a corner.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: female milker or pretty girl
+  description: A girl milks the hind and later departs with her charge while eating
+    bread and butter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: small Lapp man
+  description: A small Lapp man with a long birch pole chases straggling deer while
+    screaming.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: two dogs
+  description: Two gaunt, black, rough, half-starved dogs pursue the straying animals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: deer or reindeer herd
+  description: A herd of tame deer-like creatures is milked; some break away toward
+    the mountain or hill.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: boy
+  description: A boy pours reindeer milk from a small keg and handles the remaining
+    milk on the keg.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: narrator's party
+  description: The party observes the herd and later dines in the cota.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:7
+  name_or_label: blear-eyed one
+  description: A person described as the blear-eyed one enters the cota with the boy
+    and the narrator's party.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: milker and handler of hind
+  assigned_to:
+  - fig:1
+  basis: She milks the hind into a birch bowl and later leaves with her charge.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: herder pursuing stragglers
+  assigned_to:
+  - fig:2
+  basis: He runs after the deer that break from the herd, using a long birch pole
+    and shouting.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: pursuit animals
+  assigned_to:
+  - fig:3
+  basis: The two dogs chase the deer that leave the herd.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: milked herd and straying animals
+  assigned_to:
+  - fig:4
+  basis: The herd is being milked, and some animals break away or return after pursuit.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: server of milk
+  assigned_to:
+  - fig:5
+  basis: The boy pours milk from the keg and gives the party its share.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: observers and diners
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: They observe the herd and enter the cota to dine.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: milk
+  literal_form: reindeer milk in a milk-pail, birch bowl, and small keg
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: mountain or hill
+  literal_form: the mountain and hill toward which animals run or over which they
+    vanish
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: birch vessel and pole
+  literal_form: round birch bowl with a handle and long birch pole
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: cota
+  literal_form: dwelling entered for a meal
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: small keg
+  literal_form: small keg containing the milk product of the flock
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Milking the hind
+  summary: A girl milks a hind into a handled birch bowl while changing posture beside
+    the animal.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Straying herd pursued
+  summary: Some deer leave the herd for the mountain; a Lapp man and two dogs pursue
+    them, and many return while some vanish over the hill.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Close observation of tame deer
+  summary: The narrator stands among tame deer-like creatures that tread on feet and
+    push horns against a sketch-book.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Meal in the cota
+  summary: The group enters the cota and eats cold roast reiper and reindeer milk;
+    a boy pours milk from a small keg and licks the remaining milk from its outside.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Milking of tame deer or reindeer
+  taxonomy_refs: []
+  basis: The passage repeatedly centers on milking a hind and consuming reindeer milk.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: This is a descriptive introductory passage rather than a myth or folktale
+    episode.
+- id: motif:2
+  label: Straying animals chased back by herder and dogs
+  taxonomy_refs: []
+  basis: Several deer break from the herd toward the mountain and are pursued by a
+    herder with dogs; some return and some escape.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The episode is observational and pastoral, with no explicit mythic or
+    supernatural framing.
+- id: motif:3
+  label: Communal meal of game and reindeer milk in a dwelling
+  taxonomy_refs: []
+  basis: The boy, the blear-eyed one, and the narrator's party enter the cota and
+    dine on roast reiper and reindeer milk.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: low
+  cautions: This is a social or ethnographic scene; its status as a narrative motif
+    requires human review.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3995-4000
+  quote_or_summary: '"proceeded TO milk the hind, into a round birch bowl with a handle";
+    she sits, leans on the deer, or kneels beside it.'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 4004-4006
+  quote_or_summary: '"some half-dozen deer would break out of the herd and set off
+    to the mountain"'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 4006-4012
+  quote_or_summary: A small Lapp man with a long birch pole rushes screaming after
+    stragglers, while two gaunt black rough dogs pursue them; many return with bitten
+    houghs.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4012-4014
+  quote_or_summary: Some animals "vanished over the hill" after making off at a determined
+    long trot.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 4014-4022
+  quote_or_summary: The narrator describes being in the midst of tame deer-like creatures
+    that tread on feet and poke horns against a sketch-book, despite their power to
+    defy fast hounds.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4022-4028
+  quote_or_summary: Milking progresses rapidly; the girl dips fingers in the milk-pail,
+    licks milk, takes bread and butter, and departs with her charge.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 4029-4031
+  quote_or_summary: '"went into the cota, and dined on cold roast reiper and reindeer
+    milk"'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:8
+  type: summary
+  locator: lines 4031-4032
+  quote_or_summary: The boy pours milk from a small keg containing the flock's product,
+    gives a share, licks what remains outside the keg, and sets it in a corner.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is a travel or ethnographic description in an introduction, not
+    a mythic tale; literal extraction is straightforward, but motif status is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparative mythology claim.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l3995-l4032
+  passage_sha256=03ad65b0df1e2fe1072ba0dca23e47ae54a7a7826eeacb8238c5955ff337b5db
+

@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l15081-l15172
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: HOUSEHOLD UTENSILS, ETC. / SWEAT HOUSES. / HOUSEHOLD UTENSILS, ETC. / HOUSEHOLD
+    UTENSILS.; lines 15081-15172
+  start: '15081'
+  end: '15172'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes household wooden vessels, bark baskets, skin bags,
+    and meal practices. It explains materials and construction methods, notes the
+    use of baskets in berry gathering and storage, compares one vessel type to Yukon
+    River Indian manufacture, and describes eating directly from pots or kettles without
+    forks.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Households are supplied with wooden vessels of various sizes used as water
+    buckets and drinking cups.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wooden vessels are made from thin spruce or larch boards that are steamed,
+    bent into ovoid or circular forms, sewn with split roots, and fitted with wooden
+    bottoms.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that these wooden vessels are identical in shape and function
+    to vessels manufactured by Yukon River Indians of Alaska.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Berry dishes or baskets are made from spruce bark peeled in spring, bent into
+    shape, sewn at the corners with roots, and strengthened at the rim with root stitching.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The berry baskets are used by women while picking berries; during the berry
+    season, people are described as often having mouths stained blue by the berries.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Some baskets have buckskin tops sewn to them and closed with drawstrings;
+    these hold trinkets and other small articles.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Large objects are carried in long or basket-shaped bags made from scraped
+    and softened deer-leg skins sewn together.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: There are no regular meal hours; each person eats when convenient.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Food is taken directly from the pot or kettle, each person helps himself,
+    forks are not used, and food is divided with a knife or torn with the fingers.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: household members
+  description: Persons in households who use wooden vessels and eat when convenient.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: women picking berries
+  description: Women described as using bark baskets during berry picking.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Yukon River Indians of Alaska
+  description: A group mentioned as manufacturing wooden vessels identical in shape
+    and function to the described household vessels.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: household users and self-servers
+  assigned_to:
+  - fig:1
+  basis: The passage says each household has vessels and that each person eats when
+    convenient and helps himself from the pot or kettle.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:2
+  label: berry gatherers
+  assigned_to:
+  - fig:2
+  basis: The passage states that the baskets serve a purpose when women are picking
+    berries.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: comparative vessel manufacturers
+  assigned_to:
+  - fig:3
+  basis: The passage compares the described wooden vessels to those manufactured by
+    Yukon River Indians of Alaska.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: wooden water and drinking vessel
+  literal_form: wooden bucket or cup made from bent spruce or larch strips, sewn with
+    roots, and fitted with a wooden bottom
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: spruce-bark berry basket
+  literal_form: bark basket made from spring-peeled spruce bark, sewn and rim-strengthened
+    with roots
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: buckskin-topped storage basket
+  literal_form: basket with buckskin top and drawstring, used for trinkets and small
+    articles
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: deer-leg-skin carrying bag
+  literal_form: long or basket-shaped bag made from scraped, softened deer-leg skins
+    sewn together
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: pot or kettle used for shared eating
+  literal_form: pot or kettle from which food is taken directly
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: knife and fingers as food-dividing implements
+  literal_form: knife used to divide food and fingers used to tear food; forks are
+    absent
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: wooden vessel construction and household use
+  summary: Households have wooden vessels used for water and drinking; the passage
+    describes their construction from bent wooden strips, roots, and fitted bottoms.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: comparison with Yukon River vessel manufacture
+  summary: The passage directly compares the wooden vessels to those made by Yukon
+    River Indians of Alaska, stating identity of shape and function.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: spruce-bark baskets and berry gathering
+  summary: Spruce-bark baskets are made from spring-peeled bark and roots and are
+    used by women while gathering berries.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: storage and carrying containers
+  summary: Some baskets are fitted with buckskin drawstring tops for small articles,
+    while larger objects are carried in deer-leg-skin bags.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: informal meal practice
+  summary: People eat when convenient, take food directly from the pot or kettle,
+    do not use forks, and divide food with knives or fingers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage itself makes a direct material-culture comparison, stating that
+    the described wooden vessels are identical in shape and function to vessels manufactured
+    by Yukon River Indians of Alaska.
+  claim_level: same_function
+  target: wooden vessels manufactured by Yukon River Indians of Alaska
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a comparison of household utensil form and function, not evidence
+    for a mythological motif, historical contact, or shared symbolic meaning.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15081-15104
+  quote_or_summary: Households have wooden vessels of various sizes used as water
+    buckets and drinking cups; they are made from spruce or larch strips, bent into
+    ovoid or circular forms, sewn with split roots, and fitted with wooden bottoms.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15105-15110
+  quote_or_summary: The wooden vessels are stated to be identical in shape and function
+    to those manufactured by Yukon River Indians of Alaska.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15111-15134
+  quote_or_summary: Berry dishes or baskets are made from spring-peeled spruce bark
+    that is flexible, bent into shape, sewn with roots, and used by women when picking
+    berries; berry eating stains mouths blue during the season.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15135-15143
+  quote_or_summary: Baskets of this shape may have buckskin tops sewn to them and
+    closed with drawstrings; they hold trinkets and other small articles.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 15144-15161
+  quote_or_summary: Large objects are carried in long or basket-shaped bags made of
+    deer-leg skins that are scraped, made moderately pliable, and sewn together.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 15162-15172
+  quote_or_summary: There are no regular meal hours; each person eats when convenient,
+    takes food directly from the pot or kettle, does not use forks, and divides food
+    with a knife or fingers.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily ethnographic material culture and meal-practice
+    description, with no clear mythological motif. Object and practice extraction
+    is straightforward, but OCR noise and approximate line segmentation warrant review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate mythology motif was extracted from the available taxonomy because the passage does not present a narrative, ritual action, deity, mythic episode, or explicit symbolic interpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l15081-l15172
+  passage_sha256=7a58edd5b620a8f2b22133c09c0fd534e5081d2bc13344290fb40948ca47bf8b
+

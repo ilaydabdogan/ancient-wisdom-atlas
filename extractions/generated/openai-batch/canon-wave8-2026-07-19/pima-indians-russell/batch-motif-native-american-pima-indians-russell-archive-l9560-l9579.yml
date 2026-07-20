@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l9560-l9579
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: NAMES / EDUCATION / OLD PERSONS AND THEIR TREATMENT / VIEWS CONCERNING DEATH;
+    lines 9560-9579
+  start: '9560'
+  end: '9579'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports Pima views that death is not natural but caused by
+    magic, enemies, animals, ritual neglect, or the actions of Sun and Night. It summarizes
+    a legend in which the first death comes from the venom of Soft Child, the rattlesnake,
+    who received the power of death for self-protection. It also notes a view that
+    a previous race became overcrowded because no one died.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that, among the Pimas, death was viewed as not natural but
+    as caused by magic influences brought by enemies, either human or superhuman.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A legend attributes the first death in human history to the venom of Soft
+    Child, the rattlesnake.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Soft Child is described as having been given the power of death to protect
+    himself from unmerited abuse by man.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says that predecessors of the present race were viewed with commiseration
+    because, when no one died, they became crowded and did not give place to the next
+    generation.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Informants repeatedly stated that people who died during the day were killed
+    by the Sun, and those who died during darkness were killed by Night.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The author interprets the Sun and Night statements as implying that prayers
+    to those deities sought preservation and that death followed some lapse or inattention
+    by them.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage reports emphatic statements that death is always due to magic,
+    animals, or neglect of ceremonies or tabus.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Pimas
+  description: The people among whom these reported views concerning death prevailed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Enemies, human or superhuman
+  description: Agents said to bring magic influences causing death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Soft Child, the rattlesnake
+  description: A rattlesnake figure whose venom is said to cause the first death and
+    who was given the power of death for protection.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Man / human race
+  description: The human party in the first-death account; man is said to have abused
+    Soft Child, and the first death occurs in human history.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Predecessors of the present race
+  description: An earlier population said to have become crowded because no one died.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Sun
+  description: A deity said to kill those who die during the day; the author says
+    prayers were addressed to Sun for preservation.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Night
+  description: A deity said to kill those who die during darkness; the author says
+    prayers were addressed to Night for preservation.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: community whose death views are reported
+  assigned_to:
+  - fig:1
+  basis: The passage states that these views prevailed among the Pimas and that information
+    was elicited about them.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: death-causing agent
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:6
+  - fig:7
+  basis: Enemies are linked with magic influences causing death; Soft Child's venom
+    causes the first death; Sun and Night are said to kill those who die by day or
+    darkness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: self-protective holder of death-power
+  assigned_to:
+  - fig:3
+  basis: Soft Child is said to have been given the power of death to protect himself
+    from abuse.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: abuser of Soft Child
+  assigned_to:
+  - fig:4
+  basis: The passage says Soft Child received the power of death to protect himself
+    from unmerited abuse by man.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: overcrowded earlier population
+  assigned_to:
+  - fig:5
+  basis: The predecessors of the present race are described as crowded because no
+    one died to make way for the next generation.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: preservation deities in authorial interpretation
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The author interprets prayers addressed to Sun and Night as prayers for preservation,
+    with death resulting from lapse or inattention by them.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: rattlesnake
+  literal_form: Soft Child, the rattlesnake
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: venom
+  literal_form: venom of Soft Child
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Sun
+  literal_form: Sun
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Night
+  literal_form: Night
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Death as non-natural causation
+  summary: The passage states that death was understood not as natural but as caused
+    by hostile magic influences from human or superhuman enemies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First death by Soft Child
+  summary: In the summarized legend, the first death in human history is attributed
+    to the venom of Soft Child, the rattlesnake, who was given the power of death
+    to defend himself from abuse by man.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Overcrowding before mortality
+  summary: The predecessors of the present race are said to have become crowded because
+    no one died to make way for the next generation.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Day and night deaths
+  summary: Repeated statements say that people dying by day were killed by Sun and
+    people dying in darkness were killed by Night; the author interprets this in relation
+    to prayers for preservation.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: General list of death causes
+  summary: The passage reports statements that death is always due to magic, animals,
+    or neglect of ceremonies or tabus.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Death as non-natural causation
+  taxonomy_refs: []
+  basis: Death is described as not a natural event but as caused by magic, enemies,
+    animals, or ritual neglect.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic summary rather than a full mythic narrative in
+    the passage.
+- id: motif:2
+  label: Origin of death through rattlesnake venom
+  taxonomy_refs:
+  - serpent
+  basis: The first death in human history is attributed to the venom of Soft Child,
+    the rattlesnake.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Only a brief summary of the legend is provided.
+- id: motif:3
+  label: Mortality as relief from overcrowding
+  taxonomy_refs: []
+  basis: The passage says an earlier population became crowded because no one died
+    to give place to the next generation.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this as a philosophical disposition in legends, not
+    as a detailed episode.
+- id: motif:4
+  label: Sun and Night as agents of death
+  taxonomy_refs: []
+  basis: Deaths during the day are attributed to Sun and deaths during darkness to
+    Night.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The explanation involving prayers and divine lapse is explicitly the author's
+    interpretation.
+- id: motif:5
+  label: Death through neglect of ceremonies or tabus
+  taxonomy_refs: []
+  basis: The passage reports emphatic statements that death can be due to neglect
+    of ceremonies or tabus.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The specific ceremonies or tabus are not identified in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9562-9565
+  quote_or_summary: The passage states that Pima views treated death as not natural
+    but caused by magic influences brought by human or superhuman enemies.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 9565-9568
+  quote_or_summary: A legend attributes the first death in human history to the venom
+    of Soft Child, the rattlesnake, who was given the power of death to protect himself
+    from abuse by man.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 9568-9571
+  quote_or_summary: The predecessors of the present race are described as objects
+    of commiseration because they became crowded when no one died to make room for
+    the next generation.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 9572-9574
+  quote_or_summary: The passage says information was repeatedly elicited that daytime
+    deaths were caused by Sun and nighttime deaths by Night.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 9574-9577
+  quote_or_summary: The author interprets the Sun and Night statements to mean that
+    prayers to those deities sought preservation and that death resulted from lapse
+    or inattention by them.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 9577-9579
+  quote_or_summary: The passage reports emphatic statements that death is always due
+    to magic, animals, or neglect of ceremonies or tabus.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about reported death views and named agents. Motif
+    labels are candidate abstractions from a brief ethnographic summary; no external
+    comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy reference used only for the rattlesnake/serpent association.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l9560-l9579
+  passage_sha256=d2e3c4803f91c6af6fa137e16d4a7f450ab1fd93641ace15351407975847465d
+

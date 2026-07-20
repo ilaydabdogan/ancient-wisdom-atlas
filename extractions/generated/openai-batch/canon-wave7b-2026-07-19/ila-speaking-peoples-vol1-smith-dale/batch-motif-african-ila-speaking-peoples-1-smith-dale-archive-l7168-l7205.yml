@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l7168-l7205
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: MAKING A CHIZONGO BASKET. / POT-MAKING (FIRST STAGE). / VARIOUS HANDICRAFTS
+    / POT-MAKING (LATER STAGE).; lines 7168-7205
+  start: '7168'
+  end: '7205'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes stages of hand-making a clay pot: clay rings are
+    built on a base, the wall is scraped and thinned with a cob, wood, or bone while
+    being supported by hand, the neck is shaped, the surface is sprinkled with water
+    and smoothed, the base is wrapped with moist cloth and dried in shade, and the
+    bottom is later closed and indented by thumb.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Clay is formed into rings and placed on a base, with four or five additional
+    rings built one upon another.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A woman uses a mealie cob, piece of wood, or bone to draw and scrape the clay
+    upward, thinning the wall.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The woman supports and moulds the opposite side of the wall with her left
+    hand.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Additional clay is added and shaped when the potter reaches the neck of the
+    pot.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The rough pot is sprinkled with water and its surface is smoothed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A moist cloth is wrapped around the base, and the pot is left in the shade
+    to dry.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After about two days, the pot is inverted, the side clay is drawn inward to
+    close the remaining space, and the bottom is moulded with a slight thumb indentation.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: woman potter
+  description: The woman who forms, scrapes, supports, moulds, smooths, dries, inverts,
+    and finishes the pot.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: pot-maker
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes the woman performing the pot-making actions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: clay pot
+  literal_form: hand-built clay vessel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: water
+  literal_form: water sprinkled on the rough pot before smoothing
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: moist cloth
+  literal_form: piece of moist cloth wrapped around the base during drying
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: hand tool
+  literal_form: mealie cob, piece of wood, or bone used to scrape clay
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: building the pot body
+  summary: Clay rings are built on a base, and the woman scrapes, thins, supports,
+    and moulds the clay wall to form the body of the pot.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: shaping and smoothing the rough pot
+  summary: The woman adds clay to shape the neck, sprinkles the rough pot with water,
+    and smooths the surface.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: drying and closing the bottom
+  summary: The base is wrapped with moist cloth and dried in shade; after about two
+    days the pot is inverted, the remaining space is filled by drawing in clay, and
+    the bottom is moulded with a thumb indentation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: staged hand-formation of a clay vessel
+  taxonomy_refs: []
+  basis: The passage presents a sequence of pot construction by clay rings, scraping
+    and moulding, shaping the neck, smoothing with water, drying, and closing the
+    bottom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an ethnographic craft-process pattern, not a mythic narrative
+    motif in the provided passage.
+- id: motif:2
+  label: water-assisted smoothing of formed clay
+  taxonomy_refs: []
+  basis: The rough pot is sprinkled with water before the surface is smoothed.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives this as a practical technique; no symbolic meaning is
+    stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7168-7172
+  quote_or_summary: Clay about two inches thick is set on a base as a ring, and four
+    or five further rings are built one upon another according to the desired pot
+    size.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7176-7187
+  quote_or_summary: The woman takes a mealie cob, wood, or bone, draws and scrapes
+    the clay upward to thin the wall, and supports and moulds the other side with
+    her left hand.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7188-7193
+  quote_or_summary: At the neck she adds and shapes more clay; when the pot is rough
+    except for the bottom, she sprinkles it with water and smooths the surface.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7194-7196
+  quote_or_summary: She wraps a piece of moist cloth around the base and leaves the
+    pot in the shade to dry.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7197-7205
+  quote_or_summary: After about two days the pot is dry enough to handle; she removes
+    the cloth, inverts the pot, draws in the side clay to fill the space, moulds the
+    bottom, and makes a slight thumb indentation.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The craft sequence and material objects are explicit. Motif status is limited
+    because the passage is descriptive ethnography rather than a mythic or ritual
+    narrative, and no comparison is supported by the provided passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a comparison to another motif family, text, pattern, or nearby corpus tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l7168-l7205
+  passage_sha256=699e039cf1969516703085ea520f32f92418035918b6b37725c80b77e4870541
+

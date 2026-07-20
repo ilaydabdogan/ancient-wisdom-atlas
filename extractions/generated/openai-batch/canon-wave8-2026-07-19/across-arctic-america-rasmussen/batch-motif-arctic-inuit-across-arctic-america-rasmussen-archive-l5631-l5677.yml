@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.arctic-inuit-across-arctic-america-rasmussen-archive-l5631-l5677
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+passage_locator:
+  label: CHAPTER X / TYPICAL WOMEN OF THE TRIBE / ISO ACROSS ARCTIC AMERICA / WALRUS
+    HUNTING; lines 5631-5677
+  start: '5631'
+  end: '5677'
+  translation: 'Across Arctic America: Narrative of the Fifth Thule Expedition'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: For the skin of an unborn lemming / Was sewn inside as an amulet to guard.
+  summary: 'A speaker recounts a walrus hunt: unable to sleep because of the calm
+    sea, he rows out in a kayak, harpoons a walrus at close range, relies on a bladder-float
+    protected by an amulet, ends the encounter, and addresses other men about singing
+    of his bold hunt.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says he could not sleep because the sea nearby was very smooth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker rows out, and a walrus comes up close by his kayak.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The walrus is too near for a thrown weapon, so the speaker thrusts a harpoon
+    into its side.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A bladder-float moves across the waves after the harpoon strike.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The walrus resurfaces, sets its flippers on the water, and tries to tear the
+    bladder.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says the walrus wastes its strength in vain because the skin of
+    an unborn lemming is sewn inside as a guarding amulet.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The speaker rows up and ends the encounter after the walrus seeks to gather
+    strength.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The speaker addresses men from a partially corrupted place-name phrase involving
+    fjords and invites them to sing of another man's bold hunting.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaker-hunter
+  description: First-person speaker who rows out in a kayak, harpoons the walrus,
+    and speaks of his bold hunting.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: walrus
+  description: Animal that comes close by the kayak, is harpooned, resurfaces angrily,
+    and tries to rip up the bladder.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: addressed men from corrupted place-name phrase and fjords
+  description: Men addressed by the speaker as formerly ready to praise themselves
+    and now invited to sing of another man's hunting.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: The speaker rows out, approaches the walrus, and uses a harpoon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:2
+  label: hunted animal and adversary
+  assigned_to:
+  - fig:2
+  basis: The walrus is struck with the harpoon and then actively struggles against
+    the bladder-float.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: boasting narrator
+  assigned_to:
+  - fig:1
+  basis: The speaker tells other men to sing of another man's bold hunting.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: addressed audience or rivals
+  assigned_to:
+  - fig:3
+  basis: The passage directly addresses men who were ready to praise themselves.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sea and water
+  literal_form: smooth sea, waves, and surface of the water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: kayak
+  literal_form: the speaker's kayak
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: harpoon
+  literal_form: harpoon thrust into the walrus's side
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bladder-float
+  literal_form: bladder-float attached to the hunt, moving across the waves and attacked
+    by the walrus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: unborn lemming skin amulet
+  literal_form: skin of an unborn lemming sewn inside as an amulet to guard
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: walrus
+  literal_form: walrus appearing beside the kayak and struggling after being harpooned
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Calm sea and departure
+  summary: The speaker cannot sleep because the sea is smooth nearby, so he rows out
+    in a kayak and a walrus comes close.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Close-range harpooning
+  summary: Because the walrus is too close to throw at, the speaker thrusts a harpoon
+    into its side, and the bladder-float moves across the waves.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Walrus struggle against protected bladder
+  summary: The walrus resurfaces angrily and tries to rip the bladder, but the passage
+    says the attempt fails because an unborn lemming skin is sewn inside as a guarding
+    amulet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: End of hunt and address to men
+  summary: The speaker rows up, ends the encounter, and addresses other men, telling
+    them to sing of another man's bold hunting.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: hunter aided by protective amulet
+  taxonomy_refs: []
+  basis: The hunting gear includes a bladder protected by an amulet made from unborn
+    lemming skin, preventing the walrus from destroying it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives the amulet's protective function but does not explain
+    its broader ritual context.
+- id: motif:2
+  label: dangerous sea-animal hunt at close range
+  taxonomy_refs: []
+  basis: A walrus comes close to the kayak, is too near for a thrown weapon, and must
+    be harpooned directly while it struggles in the water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a narrative hunting episode; no wider mythic classification is
+    stated in the passage.
+- id: motif:3
+  label: boastful address after successful hunt
+  taxonomy_refs: []
+  basis: After ending the encounter, the speaker addresses other men and tells them
+    to sing of another man's bold hunting.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The addressed group's name or origin phrase is partly corrupted in the
+    supplied text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5631-5643
+  quote_or_summary: The section is titled “WALRUS HUNTING”; the speaker cannot sleep
+    because the sea is smooth, rows out, and a walrus comes close by the kayak.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 5644-5652
+  quote_or_summary: The walrus is too close to throw at, so the speaker thrusts a
+    harpoon into its side, and the bladder-float dances across the waves.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 5653-5664
+  quote_or_summary: The walrus comes up again, sets its flippers on the water, tries
+    to rip the bladder, and wastes its strength in vain.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 5665-5669
+  quote_or_summary: "“For the skin of an unborn lemming / Was sewn inside as an amulet
+    to guard.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 5670-5677
+  quote_or_summary: The walrus snorts and seeks strength; the speaker rows up and
+    ends the encounter, then addresses men from a corrupted place-name phrase and
+    fjords, telling them to sing of another man's bold hunting.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The hunting sequence and amulet are explicit. Some wording near the end of
+    the supplied passage is corrupted, limiting certainty about the addressed men
+    and the exact action described as ending the encounter.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not provide a clear comparative link to another tradition or motif family.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:arctic-inuit-across-arctic-america-rasmussen-archive__l5631-l5677
+  passage_sha256=7aea94fcca65b26c0cde9544d134687cb834aae34d30f2e41e0966a8abfb72f5
+

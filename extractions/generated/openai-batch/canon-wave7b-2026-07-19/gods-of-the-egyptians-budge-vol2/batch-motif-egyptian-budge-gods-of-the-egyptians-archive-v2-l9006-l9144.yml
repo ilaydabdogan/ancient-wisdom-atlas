@@ -1,0 +1,432 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v2-l9006-l9144
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+passage_locator:
+  label: AAAAAA        I  V / HYMN   TO    OSIRIS / AAAAAA / AAAAAA; lines 9006-9144
+  start: '9006'
+  end: '9144'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a hymn to Osiris, a female figure at her brother's bier revives the
+    still-hearted one, extracts seed, makes an heir, suckles and secretly rears the
+    babe. The gods rejoice at the coming of Horus, son of Osiris and Isis, and divine
+    powers assemble to bestow the rank of Osiris.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female figure is described as being at the bier of her brother and raising
+    up from inactivity one who is still of heart.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same female figure extracts seed, makes an heir, and suckles a babe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The babe is reared in solitariness, and his place is said not to be known.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The babe's hand is described as mighty within the house of Seb.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The gods rejoice at the coming of Horus, identified as Osiris' son.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Horus is described as stablished of heart, whose word is absolute, son of
+    Isis, and heir of Osiris.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Princes, the paut of gods, Neb-er-tcher, and lords of Maat assemble to Horus.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Those who repulse faults rejoice in the house of Seb to bestow the rank of
+    Osiris.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Isis
+  description: Named as the mother of Horus; associated in the passage with the female
+    figure who suckles and rears the babe.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Osiris
+  description: Named as the father of Horus and the one whose heir and rank are mentioned.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Horus
+  description: Named as Osiris' son, son of Isis, heir of Osiris, stablished of heart,
+    and whose word is absolute.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Seb
+  description: Named in the phrase house of Seb, where the babe's hand is mighty and
+    where rejoicing occurs.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: paut of gods
+  description: A collective divine group that rejoices at Horus' coming and is called
+    to assemble.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: Neb-er-tcher
+  description: Named as assembling with the divine powers to Horus.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: lords of Maat
+  description: A collective group named as assembling with the divine powers.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: mother and nurse of the heir
+  assigned_to:
+  - fig:1
+  basis: The passage says the female figure suckles and rears the babe, and later
+    identifies Horus as son of Isis.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: father and predecessor whose rank is inherited
+  assigned_to:
+  - fig:2
+  basis: Horus is called Osiris' son and heir, and divine beings bestow the rank of
+    Osiris.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:3
+  label: divine son and heir
+  assigned_to:
+  - fig:3
+  basis: Horus is named as son of Osiris, son of Isis, and heir of Osiris.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: recipient of divine assembly and rank
+  assigned_to:
+  - fig:3
+  basis: Divine powers assemble to him and bestow the rank of Osiris.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: associated divine house or locus
+  assigned_to:
+  - fig:4
+  basis: The passage refers twice to the house of Seb as the place where the babe
+    is mighty and where divine rejoicing occurs.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:6
+  label: divine assembly
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage names these divine powers as rejoicing or assembling to Horus.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: bier
+  literal_form: bier of the brother
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: seed
+  literal_form: extracted seed used to make the heir
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hidden rearing place
+  literal_form: place not known where the babe is reared in solitariness
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: house of Seb
+  literal_form: house of Seb
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: rank of Osiris
+  literal_form: rank of Osiris bestowed on Horus
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Maat
+  literal_form: Maat named with sovereign and lords
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: At the bier and conception of the heir
+  summary: A female figure at her brother's bier raises the still-hearted one from
+    inactivity, extracts seed, makes an heir, and suckles the babe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hidden nursing and rearing
+  summary: The babe is reared in solitariness at an unknown place and is described
+    as mighty within the house of Seb.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Divine rejoicing at Horus' coming
+  summary: The paut of gods rejoice at the coming of Horus, who is identified as Osiris'
+    son, son of Isis, and heir of Osiris.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Assembly and bestowal of Osiris' rank
+  summary: Princes, divine powers, Neb-er-tcher, and lords of Maat assemble to Horus,
+    and those who repulse faults rejoice in the house of Seb to bestow the rank of
+    Osiris.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: post-bier revival and generative continuation
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: The passage places the female figure at a bier, says she raises the still-hearted
+    one from inactivity, and then extracts seed to make an heir.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage fragment describes raising from inactivity and generation
+    of an heir, but does not narrate a full return to life in detail.
+- id: motif:2
+  label: divine child made heir and hiddenly reared
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  - divine_parent_child
+  basis: The heir is made from extracted seed, suckled by the female figure, reared
+    in solitariness at an unknown place, and later identified as Horus, son of Isis
+    and Osiris.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives birth/rearing elements but does not include a full birth
+    narrative.
+- id: motif:3
+  label: mother goddess nursing and protecting the heir
+  taxonomy_refs:
+  - mother_goddess
+  basis: Isis is associated with suckling and rearing the babe who is later identified
+    as her son Horus.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The phrase mother goddess is a taxonomy assignment; the passage itself
+    names Isis as mother and nurse but does not use that label.
+- id: motif:4
+  label: royal or divine succession by assembly
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Horus is called heir of Osiris, divine powers assemble to him, and the rank
+    of Osiris is bestowed.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage concerns divine rank; mapping it to royal legitimacy is based
+    on the succession language.
+- id: motif:5
+  label: sibling relation at the bier
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage describes the female figure at the bier of her brother.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Only the sibling relationship is explicit in this fragment; the full sibling-pair
+    narrative is not supplied here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9006-9144
+  quote_or_summary: A female figure is at the bier of her brother and raises up from
+    inactivity the one still of heart.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: 9006-9144
+  quote_or_summary: '"she extracted his seed, she made the heir, she suckled the babe"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used as evidence.
+- id: ev:3
+  type: summary
+  locator: 9006-9144
+  quote_or_summary: The babe is reared in solitariness at an unknown place; his hand
+    is mighty within the house of Seb.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: 9006-9144
+  quote_or_summary: '"gods rejoice ... at the coming of Osiris'' son Horus"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used as evidence.
+- id: ev:5
+  type: quote
+  locator: 9006-9144
+  quote_or_summary: '"Horus ... whose word is absolute, son of Isis, heir of Osiris"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; short quotation used as evidence.
+- id: ev:6
+  type: summary
+  locator: 9006-9144
+  quote_or_summary: Princes, the sovereign of Maat, the paut of gods, Neb-er-tcher,
+    and lords of Maat are called to assemble to Horus.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: 9006-9144
+  quote_or_summary: Those who repulse faults rejoice in the house of Seb to bestow
+    the rank of Osiris.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an OCR-like transliteration and translation excerpt with line
+    breaks and damaged formatting. Main figures and succession language are clear,
+    but some identifications around the unnamed female subject and the brother at
+    the bier require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make a comparison to another tradition or motif family beyond internal divine succession language.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v2__l9006-l9144
+  passage_sha256=a6906ee8697cbb1d13e81d8b695fe18d7f448833887c088d4fd331e8de399029
+

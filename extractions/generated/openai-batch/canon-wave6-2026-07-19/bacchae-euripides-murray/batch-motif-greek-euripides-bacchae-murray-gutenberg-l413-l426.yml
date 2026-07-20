@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l413-l426
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: THE BACCHAE / DIONYSUS. / CHORUS. / TEIRESIAS.; lines 413-426
+  start: '413'
+  end: '426'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: To deck the new God's thyrsus, and to wear / His fawn-skin, and with ivy
+    crown our brows.
+  summary: Teiresias calls for Cadmus to be summoned from the Theban castle. He recalls
+    their age-to-age compact to honor the new god by bearing the thyrsus, wearing
+    fawn-skin, and crowning themselves with ivy. Cadmus enters in the same attire.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Teiresias calls to whoever keeps the gate and orders Cadmus to be summoned.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cadmus is identified as Agênor's son, as having crossed the sea from Sidon,
+    and as having raised the Theban hold.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Teiresias says he and Cadmus made a compact, described as age with age and
+    grey hair with snow-white hair.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The compact involves decking the new God's thyrsus, wearing his fawn-skin,
+    and crowning their brows with ivy.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Cadmus enters from the castle, older than Teiresias, and wearing the same
+    attire.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Teiresias
+  description: Speaker who seeks Cadmus and describes their compact to wear ritual
+    attire for the new God.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Cadmus
+  description: Agênor's son, from Sidon, founder of the Theban hold, summoned by Teiresias
+    and entering in the same attire.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: unnamed gatekeeper
+  description: The person addressed by Teiresias as keeper of the gate or whosoever
+    is present to summon Cadmus.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the new God
+  description: The deity whose thyrsus, fawn-skin, and ivy are to be honored or worn
+    by Teiresias and Cadmus.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: summoner
+  assigned_to:
+  - fig:1
+  basis: Teiresias orders that Cadmus be summoned.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: elder ritual participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Teiresias describes an age-to-age compact with Cadmus to bear the god's objects
+    and attire; Cadmus enters wearing the same attire.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: Theban founder from Sidon
+  assigned_to:
+  - fig:2
+  basis: Cadmus is said to have crossed the sea from Sidon and raised the Theban hold.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: gate attendant
+  assigned_to:
+  - fig:3
+  basis: Teiresias addresses whoever keeps the gate and tells that person to summon
+    Cadmus.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: deity honored through ritual objects and dress
+  assigned_to:
+  - fig:4
+  basis: The thyrsus, fawn-skin, and ivy crown are identified as belonging to or associated
+    with the new God.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: gate
+  literal_form: gate of the Theban castle or hold
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: Theban hold
+  literal_form: Theban hold raised by Cadmus
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: thyrsus
+  literal_form: the new God's thyrsus to be decked
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: fawn-skin
+  literal_form: the new God's fawn-skin to be worn
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: ivy crown
+  literal_form: ivy used to crown the brows
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: grey and snow-white hair
+  literal_form: grey hair and snow-white hair of Teiresias and Cadmus
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Teiresias summons Cadmus
+  summary: At the gate, Teiresias asks that Cadmus be called from the Theban hold
+    and identifies Cadmus by lineage, origin, and founding act.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Elders' compact to honor the new God
+  summary: Teiresias states that he and Cadmus, both old men, have vowed to deck the
+    god's thyrsus, wear the fawn-skin, and crown themselves with ivy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Cadmus enters in matching attire
+  summary: Cadmus enters from the castle, described as older than Teiresias and wearing
+    the same attire.
+  figure_refs:
+  - fig:2
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual adoption of a new deity's signs
+  taxonomy_refs:
+  - initiation
+  basis: The passage presents two elders bound by a compact to take up the new God's
+    thyrsus, fawn-skin, and ivy crown, and Cadmus appears already dressed accordingly.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage shows ritual dress and allegiance but does not explicitly
+    describe a full initiation rite.
+- id: motif:2
+  label: elder alliance in cultic observance
+  taxonomy_refs: []
+  basis: Teiresias emphasizes a compact between two old men, framed as age with age
+    and grey hair with snow-white hair, to perform the god's observance together.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 413-416
+  quote_or_summary: '"Ho, there, who keeps the gate?--Go, summon me / Cadmus"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 414-416
+  quote_or_summary: Cadmus is described as Agênor's son, one who crossed the sea from
+    Sidon and raised the Theban hold.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 418-420
+  quote_or_summary: '"the compact, age with age, / I vowed with him, grey hair with
+    snow-white hair"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 421-422
+  quote_or_summary: '"To deck the new God''s thyrsus, and to wear / His fawn-skin,
+    and with ivy crown our brows."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 424-426
+  quote_or_summary: Cadmus enters from the castle, is described as even older than
+    Teiresias, and wears the same attire.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal figures, objects, and actions are explicit. Motif labeling as initiation
+    is cautious because the passage indicates ritual adoption of attire rather than
+    a complete initiation narrative. No comparison claims are made because the passage
+    itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata; no external identifications added beyond the passage's wording.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l413-l426
+  passage_sha256=795afaf90c6174fc88904a07dad243e7e6fa06682b5f39d8bb7e1eb963678aeb
+

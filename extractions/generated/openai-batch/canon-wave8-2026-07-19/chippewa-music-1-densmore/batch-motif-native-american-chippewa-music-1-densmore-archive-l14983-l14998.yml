@@ -1,0 +1,310 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l14983-l14998
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: BUKEAU    OF    AMERICAN   ETHNOLOGY / RUREAU   OF   AMERICAN    ETHNOLOGY
+    / BUREAU    OF   AMEEICAN   ETHNOLOGY / DBN.SMOUKJ  CHIPPEWA   MUSIC II  165;
+    lines 14983-14998
+  start: '14983'
+  end: '14998'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Wis'kino makes a Chippewa speech of welcome, thanking Ki'jie Manido' that
+    former enemies now meet in peace, leave differences behind, and shake hands. He
+    describes the presentation of a drum between tribes as a ceremony done in the
+    sight of Ki'jie Manido'. He says he is delaying unfinished farm harvest work in
+    order to serve Ki'jie Manido' first and expects to return to his work in good
+    spirit.
+  language: English with Chippewa names/terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Wis'kino makes a speech of welcome in Chippewa.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker thanks Ki'jie Manido' that the Chippewa and the speaker's group
+    now join in peace after once being at war.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speech says differences are left behind as the parties shake hands, and
+    that Ki'jie Manido' has seen the handshake.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speech states that when one tribe presents a drum to another tribe, the
+    ceremony is performed in the sight of Ki'jie Manido'.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker asks to see how the Chippewa will proceed and hopes the ceremony
+    can be finished by the next day.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker says his farm harvest is unfinished but that he prefers to serve
+    Ki'jie Manido' before completing it.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The speaker expects to return to his work with good spirit and to have success
+    after serving Ki'jie Manido' first.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Wis'kino
+  description: The named speaker who gives the welcome speech in Chippewa.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Chippewa
+  description: The addressed relatives in the welcome speech.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Ki'jie Manido'
+  description: The being thanked by the speaker and described as witnessing the handshake
+    and the drum ceremony.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Indians of one tribe and another tribe
+  description: General tribal parties described as presenting and receiving a drum
+    in an intertribal ceremony.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: welcoming speaker
+  assigned_to:
+  - fig:1
+  basis: Wis'kino is introduced as making a speech of welcome.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed relatives and ceremony participants
+  assigned_to:
+  - fig:2
+  basis: The speech addresses the Chippewa as relatives and asks how they will proceed
+    in the ceremony.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: divine witness and recipient of service
+  assigned_to:
+  - fig:3
+  basis: Ki'jie Manido' is said to see the handshake and ceremony, and the speaker
+    says he serves Ki'jie Manido' before returning to harvest work.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: drum presenters
+  assigned_to:
+  - fig:4
+  basis: The speech refers generally to Indians of one tribe presenting a drum to
+    those of another tribe.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: drum recipients
+  assigned_to:
+  - fig:4
+  basis: The speech refers generally to those of another tribe receiving the presented
+    drum.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: handshake
+  literal_form: shaking hands
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: drum
+  literal_form: a drum presented by one tribe to another
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: unfinished harvest
+  literal_form: farm product not yet gathered
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Welcome and reconciliation speech
+  summary: Wis'kino welcomes the Chippewa, thanks Ki'jie Manido' for peace after war,
+    and says the parties leave differences behind as they shake hands under Ki'jie
+    Manido's witness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Drum-presentation ceremony under divine witness
+  summary: The speaker describes intertribal drum presentation as a ceremony performed
+    in the sight of Ki'jie Manido' and says Ki'jie Manido' sees what is done that
+    day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Service before harvest work
+  summary: The speaker says he has unfinished farm harvest work but prioritizes serving
+    Ki'jie Manido' before returning to work with good spirit and expected success.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ceremonial exchange under divine witness
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes a drum presented from one tribe to another as a ceremony
+    performed in the sight of Ki'jie Manido'.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is ethnographic speech material and does not explicitly classify
+    the drum presentation as a mythic motif.
+- id: motif:2
+  label: peace agreement witnessed by a sacred being
+  taxonomy_refs:
+  - covenant
+  basis: The speaker frames former enemies joining in peace, leaving differences behind,
+    and shaking hands as something Ki'jie Manido' has seen.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The word covenant is not used; the motif label is a cautious functional
+    mapping to a peace-making act under divine witness.
+- id: motif:3
+  label: religious service prioritized over harvest work
+  taxonomy_refs: []
+  basis: The speaker says he prefers to serve Ki'jie Manido' before finishing his
+    harvest and expects to return with good spirit and success.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This is a practical religious statement within a speech rather than a
+    developed narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The drum presentation functions like a sacred exchange pattern because an
+    object is transferred between tribes within a ceremony explicitly witnessed by
+    Ki'jie Manido'.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports only functional comparison; it does not provide
+    a mythic narrative of exchange or broader historical comparison.
+- id: claim:2
+  claim: The handshake after former conflict functions like a covenantal peace-making
+    pattern because reconciliation is enacted before a sacred witness.
+  claim_level: same_function
+  target: covenant motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not use covenant terminology and gives no formal terms
+    of an agreement beyond remaining in peace.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14983-14988
+  quote_or_summary: Wis'kino gives a welcome speech, thanks Ki'jie Manido' that former
+    enemies join in peace, says differences are left behind as they shake hands, and
+    says Ki'jie Manido' has seen the handshake.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 14988-14993
+  quote_or_summary: The speech states that when one tribe presents a drum to another,
+    the ceremony is done in the sight of Ki'jie Manido'; the speaker says Ki'jie Manido'
+    sees all that is done and asks how the Chippewa will proceed.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 14993-14998
+  quote_or_summary: The speaker says his farm product is not gathered, but he prefers
+    to serve Ki'jie Manido' before finishing the harvest, then return to work with
+    good spirit and expected success.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal speech content is clear. Motif mappings are cautious because
+    the passage is a ceremonial welcome speech rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage and metadata were used; no external taxonomy IDs beyond provided motif family refs were added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l14983-l14998
+  passage_sha256=5e6d03647628080b6153c85a1707dc3fd1425cc802738f1c9c35f987131472f9
+

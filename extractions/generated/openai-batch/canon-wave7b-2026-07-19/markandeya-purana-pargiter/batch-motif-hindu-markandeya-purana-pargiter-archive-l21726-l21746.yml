@@ -1,0 +1,247 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l21726-l21746
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: CANTO Ml. / GAHTO MI. / A BRAHMAN AND AN APSARAS. / MARRIAGE OP THE APSARAS
+    WITH A GANDHARTA. 401; lines 21726-21746
+  start: '21726'
+  end: '21746'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A passage headed as the marriage of an apsaras with a Gandharta presents
+    a negotiation of union. Vardthini agrees to do what is asked. Kali then says she
+    must not gaze on him during their union in the wood and must keep her eyes closed;
+    Vardthini accepts the condition.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage heading frames the episode as a marriage involving an apsaras
+    and a Gandharta.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An initial speaker says he is in difficulty and says the lady must do what
+    he says if there is to be union between them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Vardthini says she will do what is said for the other speaker's sake and without
+    falsehood.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Kali tells the lady not to gaze on him during union in the wood and to close
+    her eyes while uniting with him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Vardthini accepts the condition and says she must remain submissive to him
+    in every way.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The union is located in the wood.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Vardthini
+  description: Named speaker who agrees to the requested condition and accepts remaining
+    submissive.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Kali
+  description: Named speaker who states the prohibition against gazing during union.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: the apsaras
+  description: Figure named in the passage heading as one party in the marriage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Gandharta
+  description: Figure named in the passage heading as the other party in the marriage;
+    spelling follows the supplied passage text.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: assenting respondent
+  assigned_to:
+  - fig:1
+  basis: Vardthini answers that she will do what is asked and later accepts the condition.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: condition-setting speaker
+  assigned_to:
+  - fig:2
+  basis: Kali states the condition that the lady must not gaze on him and must close
+    her eyes during union.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: participants in the proposed union
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Kali's speech refers to union between himself and the addressed lady, and
+    Vardthini answers immediately after accepting the condition.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: marriage figures in heading
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The heading names the episode as the marriage of the apsaras with a Gandharta.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: closed eyes / no gazing
+  literal_form: The lady is told not to gaze on Kali and to close her eyes during
+    union.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: wood as union setting
+  literal_form: The union is to occur in the wood.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Agreement to a required condition
+  summary: A speaker states that the lady must do what he says for union to occur,
+    and Vardthini replies that she will do so.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Sight prohibition during union
+  summary: Kali requires Vardthini not to look at him during union in the wood and
+    to close her eyes; Vardthini accepts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: conditional union requiring a sight taboo
+  taxonomy_refs: []
+  basis: Union is conditioned on the lady not gazing at Kali and keeping her eyes
+    closed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives the condition but does not explain its cause or later
+    consequences.
+- id: motif:2
+  label: marriage or union of titled non-human/celestial figures
+  taxonomy_refs:
+  - sacred_marriage
+  basis: The heading names a marriage of an apsaras with a Gandharta, and the dialogue
+    concerns union.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The available excerpt does not describe a ritual marriage, cosmic function,
+    or completed marriage; the taxonomy reference is approximate.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21726-21746, heading
+  quote_or_summary: "“MARRIAGE OP THE APSARAS WITH A GANDHARTA.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; brief excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 21726-21746, initial speech
+  quote_or_summary: The initial speaker says he is in a strait and that the lady must
+    do what he says if union is to occur between them.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 21726-21746, Vardthini speech 29
+  quote_or_summary: Vardthini says she will do what is said, without falsehood, for
+    the other speaker's sake.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 21726-21746, Kali speech 80
+  quote_or_summary: "“Thou must not gaze on me while we meet in union in the wood
+    to-day; thou must close thine eyes.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; brief excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 21726-21746, Vardthini speech 81
+  quote_or_summary: Vardthini accepts, saying it shall be as he wishes and that she
+    must remain submissive to him.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by OCR errors and by the passage beginning mid-dialogue.
+    No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external identifications were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l21726-l21746
+  passage_sha256=c7aa548d8a301fd5d54bfb54d0ff9f46fb6b8c8f78d6dc1cebfac975269f1f6c
+

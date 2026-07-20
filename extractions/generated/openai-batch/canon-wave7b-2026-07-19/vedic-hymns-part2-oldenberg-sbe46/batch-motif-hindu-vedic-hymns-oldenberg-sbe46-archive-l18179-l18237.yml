@@ -1,0 +1,184 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l18179-l18237
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA V, HYMN 6. / ASH7JAKA III, ADHYAYA 8, VARGA 22-23. / NOTES. / MANDALA
+    V, HYMN 6. 381; lines 18179-18237
+  start: '18179'
+  end: '18237'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: By kindling the sacred fire men make the sunrise.
+  summary: Editorial notes on Mandala V, Hymn 6 discuss grammatical points. A note
+    on verse 4 states that the reference is to the sun and explains that men make
+    the sunrise by kindling the sacred fire. A note on verse 10 states that the fourth
+    pāda is identical with VIII, 6, 24.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A note on verse 4 says the reference is to the sun.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that men kindle the sacred fire and thereby make the sunrise.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note on verse 5 mentions the phrase “te agne” from the first pāda of verse
+    4.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note on verse 10 says the fourth pāda is identical with VIII, 6, 24.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: men
+  description: Human actors who kindle the sacred fire and make the sunrise.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Agni
+  description: Named in the cited phrase “te agne” from verse 4.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ritual actors
+  assigned_to:
+  - fig:1
+  basis: The passage says men kindle the sacred fire.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressed figure in cited hymn phrase
+  assigned_to:
+  - fig:2
+  basis: The grammatical note quotes the phrase “te agne.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sacred fire
+  literal_form: sacred fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sunrise
+  literal_form: sunrise
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sun
+  literal_form: sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Kindling the sacred fire and sunrise
+  summary: The note explains verse 4 as referring to the sun and states that men make
+    the sunrise by kindling the sacred fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Ritual kindling linked to sunrise
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly connects the human act of kindling sacred fire with
+    causing sunrise.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an editorial note, not a narrative scene; the taxonomy
+    link to sacrifice is based only on the sacred-fire ritual context stated here.
+- id: motif:2
+  label: Fire associated with solar rising
+  taxonomy_refs: []
+  basis: The note interprets the verse as referring to the sun and says that kindling
+    sacred fire makes the sunrise.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a symbolic or ritual association stated in commentary; no extended
+    mythic episode is present in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that the fourth pāda of verse 10 is identical with VIII,
+    6, 24.
+  claim_level: linguistic_similarity
+  target: VIII, 6, 24
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports textual identity only; it does not explain a shared
+    motif or historical relationship.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18187-18190
+  quote_or_summary: "“This refers to the sun. By kindling the sacred fire men make
+    the sunrise.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 18195-18199
+  quote_or_summary: The note says the pronoun “to thee” appears in the first pāda
+    of verse 4 as “te agne.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; brief quotation/summary used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 18236-18237
+  quote_or_summary: "“The fourth Pada is identical with VIII, 6, 24.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage consists of editorial notes rather than the hymn text itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures, scenes, or comparisons beyond those explicitly supported by the provided passage have been added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l18179-l18237
+  passage_sha256=8135a972c6acc68a3f7dc2fbc4f369b16c70e17d25296ead46da4685e5f2e8f6
+

@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l1895-l1962
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: UNAS, THE ASHEM OF THE ASHEMU 41 / THE HEART AND WORDS OF POWER 43 / APPENDIX
+    TO CHAPTER I / UNAS, THE SLAYER AND EATER OF THE GODS; lines 1895-1962
+  start: '1895'
+  end: '1962'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Poureth down water heaven, tremble the stars... take to flight [when] they
+    see Unas rising [as] a soul
+  summary: 'The passage, headed as an appendix on Unas as slayer and eater of the
+    gods, describes cosmic disturbance: heaven pours down water, stars tremble, bow-bearers
+    go about, and the bones of Aker quake. Those beneath flee when they see Unas rising
+    as a soul like a god. Unas is described as living upon his fathers, feeding upon
+    his mothers, and as lord of wisdom. A note identifies the text as from the Pyramid
+    of Unas with variants from the Pyramid of Teta.'
+  language: English with Egyptian transliteration fragments
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Heaven is described as pouring down water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stars are described as trembling.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bow-bearers are mentioned as going about.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The bones of Aker are described as quaking.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Those beneath Aker take flight when they see Unas rising as a soul.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Unas is said to rise as a soul like a god.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Unas is said to live upon his fathers and feed upon his mothers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Unas is called the lord of wisdom.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The note states that the text is from the Pyramid of Unas and that variants
+    are from the Pyramid of Teta.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Unas
+  description: Named figure who rises as a soul like a god, lives upon his fathers,
+    feeds upon his mothers, and is called lord of wisdom.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Aker
+  description: Named being whose bones are described as quaking.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: stars
+  description: Celestial bodies described as trembling.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: bow-bearers
+  description: Group mentioned as going about in the same cosmic disturbance sequence.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: fathers of Unas
+  description: Relatives upon whom Unas is said to live.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: mothers of Unas
+  description: Relatives upon whom Unas is said to feed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: rising soul
+  assigned_to:
+  - fig:1
+  basis: Unas is seen rising as a soul.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: godlike being
+  assigned_to:
+  - fig:1
+  basis: Unas rises as a soul like a god.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: lord of wisdom
+  assigned_to:
+  - fig:1
+  basis: The passage calls Unas the lord of wisdom.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: quaking underworld or earth figure
+  assigned_to:
+  - fig:2
+  basis: The bones of Aker are said to quake, and the text refers to those beneath
+    them.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: consumed fathers
+  assigned_to:
+  - fig:5
+  basis: Unas is said to live upon his fathers.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: consumed mothers
+  assigned_to:
+  - fig:6
+  basis: Unas is said to feed upon his mothers.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water from heaven
+  literal_form: water poured down by heaven
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rising soul
+  literal_form: Unas rising as a soul
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bones of Aker
+  literal_form: bones of Aker quaking
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: feeding upon parents
+  literal_form: Unas living upon fathers and feeding upon mothers
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: wisdom lordship
+  literal_form: Unas called lord of wisdom
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Cosmic disturbance before Unas
+  summary: Heaven pours down water, stars tremble, bow-bearers go about, and the bones
+    of Aker quake.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Flight at the rising of Unas
+  summary: Those beneath Aker take flight when they see Unas rising as a soul like
+    a god.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Unas as feeder on parents and lord of wisdom
+  summary: Unas is said to live upon his fathers, feed upon his mothers, and be the
+    lord of wisdom.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Ascent or rising of a soul
+  taxonomy_refs:
+  - ascent
+  basis: Unas is seen rising as a soul like a god, causing those beneath to flee.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a short formula and does not narrate a complete
+    ascent journey.
+- id: motif:2
+  label: Divine or ancestral consumption as empowerment
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage says Unas lives upon his fathers and feeds upon his mothers,
+    and the heading identifies him as slayer and eater of the gods.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The excerpt does not describe the act of slaying or eating in detail;
+    the taxonomy mapping to annihilation/union is interpretive and should be reviewed.
+- id: motif:3
+  label: Wisdom-bearing ruler or divine figure
+  taxonomy_refs:
+  - wisdom
+  basis: Unas is explicitly called the lord of wisdom.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage states the title but does not elaborate on wisdom acts or
+    teachings.
+- id: motif:4
+  label: Cosmic trembling at divine manifestation
+  taxonomy_refs: []
+  basis: Heaven pours down water, stars tremble, Aker's bones quake, and beings flee
+    when Unas rises as a soul.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: No specific available taxonomy reference directly matches this disturbance
+    pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports that this Pyramid of Unas text has variants in
+    the Pyramid of Teta, supporting a cautious comparison within the Pyramid Text
+    corpus.
+  claim_level: same_motif
+  target: Pyramid of Teta variants cited in the note
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note reports variants but the excerpt does not provide their wording,
+    so the exact shared or differing motifs cannot be checked from this passage alone.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1895-1962
+  quote_or_summary: '"Poureth down water heaven, tremble the stars, go about ... the
+    bow-bearers"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 1895-1962
+  quote_or_summary: '"quake ... the bones of Aker ... take to flight [when] they see
+    Unas rising [as] a soul like a god"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 1895-1962
+  quote_or_summary: '"liveth upon his fathers [and] feedeth upon his mothers. Unas
+    this [is] the lord of wisdom"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 1895-1962, note 1
+  quote_or_summary: '"The text here given is from the Pyramid of Unas ... the variants
+    are from the Pyramid of Teta"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: appendix heading, lines 1895-1962
+  quote_or_summary: '"UNAS, THE SLAYER AND EATER OF THE GODS"'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is fragmentary and includes transliteration fragments with a
+    short English rendering. Literal elements are clear, but motif labeling beyond
+    ascent, wisdom, and stated consumption should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to supplied available taxonomy terms.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l1895-l1962
+  passage_sha256=66743aafcee74c195a8a9e949a32f82b1624aac718a9790cee246e396606ad96
+

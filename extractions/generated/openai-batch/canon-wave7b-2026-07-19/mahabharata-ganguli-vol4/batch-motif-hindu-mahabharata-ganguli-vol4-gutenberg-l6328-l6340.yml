@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l6328-l6340
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION XXVIII / SECTION XXIX / SECTION XXX / SECTION XXXI; lines 6328-6340
+  start: '6328'
+  end: '6340'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Yudhishthira asks Bhishma which men deserve reverent homage in the three
+    worlds. Bhishma introduces an old narrative in which Narada is seen worshipping
+    foremost Brahmanas with joined hands, and Vasudeva/Kesava asks Narada whom he
+    is worshipping with such reverence.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yudhishthira asks Bhishma to identify men worthy of reverent homage in the
+    three worlds.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bhishma answers by citing an old narrative about a discourse between Narada
+    and Vasudeva.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Narada is described as worshipping many foremost Brahmanas with joined hands.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Kesava asks Narada whom he is worshipping with such great reverence and asks
+    to hear the matter if it may be told.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Speaker who asks Bhishma which men are worthy of reverent homage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bhishma
+  description: Speaker who responds by citing an old narrative.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Narada
+  description: Holy figure seen worshipping many foremost Brahmanas with joined hands.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Vasudeva / Kesava
+  description: Figure in the old narrative who addresses Narada and asks whom he worships.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: foremost Brahmanas
+  description: Group receiving Narada's worship in the old narrative.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: questioner about reverent homage
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks who is worthy of reverent homage.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: teacher citing an old narrative
+  assigned_to:
+  - fig:2
+  basis: Bhishma introduces an old narrative as his response.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: worshipper with joined hands
+  assigned_to:
+  - fig:3
+  basis: Narada is observed worshipping Brahmanas with joined hands.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: inquirer within old discourse
+  assigned_to:
+  - fig:4
+  basis: Kesava asks Narada whom he worships and requests an explanation.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipients of reverent worship
+  assigned_to:
+  - fig:5
+  basis: The Brahmanas are the group Narada is seen worshipping.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: joined-hands reverence gesture
+  literal_form: joined hands
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: three worlds
+  literal_form: the three worlds
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Yudhishthira asks about worthy recipients of homage
+  summary: Yudhishthira asks Bhishma to explain in detail which men deserve reverent
+    homage across the three worlds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bhishma frames the old discourse of Narada and Vasudeva
+  summary: Bhishma introduces an older narrative involving Narada and Vasudeva as
+    the context for answering the question.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Narada worships Brahmanas and is questioned by Kesava
+  summary: Narada is seen worshipping foremost Brahmanas with joined hands, and Kesava
+    asks whom he worships with such reverence.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: inquiry into proper objects of reverence
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is structured around questions seeking instruction on who deserves
+    reverent homage, with Bhishma citing an older discourse to answer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The excerpt opens the instruction but does not yet provide the full teaching
+    or answer.
+- id: motif:2
+  label: reverential worship of Brahmanas
+  taxonomy_refs: []
+  basis: Narada is explicitly described as worshipping many foremost Brahmanas with
+    joined hands, prompting inquiry by Kesava.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a localized ritual/reverence pattern in the excerpt; broader motif
+    significance would require later context.
+- id: motif:3
+  label: nested authoritative discourse
+  taxonomy_refs:
+  - wisdom
+  basis: Bhishma answers Yudhishthira by invoking an old narrative of a discourse
+    between Narada and Vasudeva.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage identifies the narrative frame but includes only the beginning
+    of the embedded discourse.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6328-6332
+  quote_or_summary: Yudhishthira asks Bhishma what men are worthy of reverent homage
+    in the three worlds and requests a detailed answer.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6334-6336
+  quote_or_summary: 'Bhishma says that an old narrative is cited here: the discourse
+    between Narada and Vasudeva.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 6336-6337
+  quote_or_summary: Narada is described as "worshipping many foremost of Brahmanas
+    with joined hands."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 6337-6340
+  quote_or_summary: Kesava asks Narada whom among the Brahmanas he worships with such
+    reverence and requests to hear the matter if it may be told.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and primarily frames a teaching dialogue; literal extraction
+    is clear, while motif identification is limited by the excerpt ending before the
+    explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added because the excerpt itself only supports local motif candidates and a teaching-frame pattern.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l6328-l6340
+  passage_sha256=142976f030a949fe500b70b22354f5835715378b3ecadb25c13eda8624275f14
+

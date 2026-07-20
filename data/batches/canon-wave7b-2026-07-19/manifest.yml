@@ -1,0 +1,2507 @@
+---
+batch_pipeline_manifest_version: '1'
+run_id: canon-wave7b-2026-07-19
+created_at: '2026-07-19T19:50:19Z'
+updated_at: '2026-07-20T07:49:25Z'
+artifacts:
+  passages_path: data/batches/canon-wave7b-2026-07-19/passages.jsonl
+  requests_index_path: data/batches/canon-wave7b-2026-07-19/requests/index.yml
+  request_map_path: data/batches/canon-wave7b-2026-07-19/request-map.jsonl
+  results_dir: data/batches/canon-wave7b-2026-07-19/results
+  ingested_results_path: data/batches/canon-wave7b-2026-07-19/ingested-results.jsonl
+  generated_extractions_dir: extractions/generated/openai-batch/canon-wave7b-2026-07-19
+openai: {}
+state:
+  last_realtime_run_at: '2026-07-20T06:53:01Z'
+  realtime_concurrency: 48
+  last_ingest_at: '2026-07-20T07:49:25Z'
+pipeline: motif_extraction
+status: results_downloaded
+config:
+  segmentation:
+    glob:
+    text_paths:
+    - texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+    - texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+    - texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+    - texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+    - texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+    - texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+    - texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+    - texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+    - texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+    - texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+    - texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+    - texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+    - texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+    - texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+    - texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+    - texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+    - texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+    - texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+    - texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+    - texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md
+    - texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+    - texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+    - texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+    - texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+    - texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+    - texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+    - texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+    - texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+    - texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+    - texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+    - texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+    - texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md
+    - texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+    - texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+    - texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+    - texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+    - texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v2-abercromby.md
+    - texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+    - texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+    - texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+    - texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+    - texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+    - texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+    - texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+    - texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+    - texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+    - texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+    - texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+    - texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+    - texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+    - texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+    - texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+    - texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+    - texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+    - texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+    - texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+    - texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+    - texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+    - texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+    - texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+    - texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md
+    - texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+    - texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+    - texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+    - texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+    - texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+    - texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+    - texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+    - texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+    - texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+    - texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+    - texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+    - texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+    - texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+    - texts/public-domain/korean/internet-archive/korean-tales-allen.md
+    - texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+    - texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+    - texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+    - texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+    - texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+    - texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+    - texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+    - texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md
+    - texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v2-rivers.md
+    - texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md
+    - texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+    - texts/public-domain/mongol/internet-archive/the-mongols-a-history-curtin.md
+    - texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+    - texts/public-domain/native-american-california/project-gutenberg/creation-myths-primitive-america-curtin.md
+    - texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+    - texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+    - texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+    - texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+    - texts/public-domain/native-american-northeast-woodlands/project-gutenberg/timiskaming-algonquin-speck.md
+    - texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+    - texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+    - texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md
+    - texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+    - texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+    - texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+    - texts/public-domain/native-american-plains/project-gutenberg/gros-ventre-myths-tales-kroeber.md
+    - texts/public-domain/native-american-plains/project-gutenberg/mythology-blackfoot-wissler-duvall.md
+    - texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+    - texts/public-domain/native-american-plains/project-gutenberg/the-assiniboine-lowie.md
+    - texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+    - texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+    - texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+    - texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+    - texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+    - texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+    - texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+    - texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+    - texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+    - texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+    - texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+    - texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+    - texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+    - texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+    - texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+    - texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md
+    - texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+    - texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+    - texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+    - texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1.md
+    - texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+    - texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+    - texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+    - texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+    - texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+    - texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+    coverage_path:
+    coverage_statuses: []
+    coverage_priorities: []
+    max_source_texts:
+    max_chars: 6000
+    min_chars: 500
+    limit:
+  motif_request_generation:
+    model: gpt-5.5
+    endpoint: "/v1/responses"
+    prompt_path: templates/batch-motif-extraction-prompt.md
+    max_output_tokens: 16000
+    temperature:
+    reasoning_effort: high
+    max_requests_per_shard: 1000
+    max_bytes_per_shard: 188743680
+    skip_ingested_from_run_id: canon-wave7b-2026-07-19
+counts:
+  source_texts_segmented: 130
+  passages: 29931
+  requests_prepared: 29931
+  request_shards: 30
+  skipped_ingested_requests: 0
+  ingested_records: 16911
+  failed_ingestions: 25
+source_texts:
+- path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
+  source_text_id: australian.ethnological_studies_queensland.roth_archive
+  title: Ethnological Studies among the North-West-Central Queensland Aborigines
+  tradition: aboriginal_australian
+  culture: aboriginal_queensland_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1897, US public domain. Roth was a colonial protector/ethnographer.
+      This is ETHNOGRAPHIC PARAPHRASE documenting north-west-central Queensland Aboriginal
+      language, myth, corroboree, message-sticks, and material culture, with recorded
+      songs and vocabularies. Culturally sensitive material recorded under colonial
+      administration; framing must not be extracted as Aboriginal self-description.
+  sha256: f48ee6ae443a54962a757f8411830c3fc2b8838eb24aee47dc350055c94a18d0
+  passage_count: 145
+- path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  source_text_id: african.ashanti.rattray_archive
+  title: Ashanti
+  tradition: african_akan
+  culture: asante_religion_and_ritual_field_recorded
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1923, US public domain (term expired). Recording context - Rattray
+      recorded religious ritual, the Golden Stool tradition, and myth from named Asante
+      elders in Twi, translating himself; substantial verbatim prayers and ritual
+      texts. Note Akan culture had long trans-Saharan and coastal contact - weaker
+      "isolated lineage" claim than other entries; flag for the holdout design.
+  sha256: 5ca759e9ab907d8599f2ed9f9183bcca67c96245e030f223b16c60fd71cb822d
+  passage_count: 199
+- path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  source_text_id: african.ila_speaking_peoples_1.smith_dale_archive
+  title: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  tradition: african_bantu
+  culture: ila_zambezi_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1920, US public domain. Recording context - Smith was a fluent
+      Ila speaker and Bible translator; Vol. I is chiefly social ethnography with
+      embedded proverbs and ritual texts.
+  sha256: 3027876089744e09fdd61adb804365eb24b7ee4ffa6bde54c98ca0c84eea85aa
+  passage_count: 232
+- path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  source_text_id: african.ila_speaking_peoples_2.smith_dale_archive
+  title: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  tradition: african_bantu
+  culture: ila_religion_and_folktales
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1920, US public domain. Recording context - Vol. II contains
+      the religion chapters (Leza the high god, ancestor cult) and a large folk-tale
+      section translated from Ila dictation; the key volume for motif extraction.
+  sha256: 9095c1c0eb41b8bba94cf75ca1dff4139db598d10ad683ab5a32f618322b84e4
+  passage_count: 197
+- path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md
+  source_text_id: african.life_south_african_tribe_1.junod_archive
+  title: The Life of a South African Tribe, Vol. I (The Social Life)
+  tradition: african_bantu
+  culture: thonga_tsonga_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1912, US public domain. Recording context - Junod spoke Thonga
+      fluently and names his informants; Vol. I covers life-cycle and social ritual
+      with embedded songs and formulae; missionary framing to be handled source-critically.
+  sha256: c391af2059a2fe77bc36a4c64c47210dc0d235671722ded6906d4865170a142a
+  passage_count: 206
+- path: texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md
+  source_text_id: african.life_south_african_tribe_2.junod_archive
+  title: The Life of a South African Tribe, Vol. II (The Psychic Life)
+  tradition: african_bantu
+  culture: thonga_tsonga_folklore_and_religion
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1913, US public domain. Recording context - the folklore volume;
+      folk-tales, divination, ancestor religion, and magic collected in Thonga and
+      translated by the collector with informant attribution; the richest part of
+      the set for motif extraction.
+  sha256: 6b6dd0750d4058a6f8ff8f39ba1efe1fee1ee8144151257722de5a9e5a03e57a
+  passage_count: 211
+- path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  source_text_id: native_american.eskimo_bering_strait.nelson_archive
+  title: The Eskimo about Bering Strait
+  tradition: arctic_inuit
+  culture: yupik_inupiaq_ethnography_and_myth
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1899, US public domain. Mixed verbatim/paraphrase - a monumental
+      monograph embedding recorded Yupik/Inupiaq tales and Raven cycle within ethnographic
+      description of masks, amulets, and the shade-world. Distinct Western (Bering)
+      Eskimo lineage from the already-queued eastern/ central Rasmussen and Boas Inuit
+      material. Mask and shamanic content is community-sensitive.
+  sha256: 88c23532bb2639f83d57574474b984a9511781e28469727bc96f5ba59412c053
+  passage_count: 455
+- path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md
+  source_text_id: arctic_inuit.eskimo_baffin_hudson_2.boas_archive
+  title: The Eskimo of Baffin Land and Hudson Bay, Part II
+  tradition: arctic_inuit
+  culture: baffin_hudson_bay_inuit_oral_traditions
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1907, US public domain. Second part of the same collection with
+      additional tales, traditions, and comparative notes; same recording pedigree
+      as Part I.
+  sha256: 63b0dee48eea0f6afe806fa7bce693beeb3ccacda9c3359ddf48a49f0607986c
+  passage_count: 64
+- path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  source_text_id: native_american.ungava_district.turner_archive
+  title: Ethnology of the Ungava District, Hudson Bay Territory
+  tradition: arctic_inuit
+  culture: ungava_inuit_and_naskapi_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1894, US public domain. Mostly PARAPHRASE - ethnographic description
+      of Ungava Inuit and Naskapi (Innu) belief, shamanism, and cosmology rather than
+      dictated texts; flag as observer-paraphrase (lower ladder). Rare joint Inuit-Naskapi
+      record from the eastern subarctic/arctic boundary. Shamanic content is community-sensitive.
+  sha256: b67414440b449193b612cba0e6c5d707da4b7e5d423a25fcbb94ef40b4a68dec
+  passage_count: 118
+- path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  source_text_id: native_american.labrador_eskimo.hawkes_archive
+  title: The Labrador Eskimo
+  tradition: arctic_inuit
+  culture: labrador_inuit_ethnography_and_myth
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1916, US public domain. Mixed verbatim/paraphrase - Labrador
+      Inuit ethnography embedding recorded tales, the Sedna/sea-woman cycle, and shamanic
+      (angakok) practice. Easternmost Inuit lineage, completing a Bering- to-Labrador
+      circumpolar transect with Nelson and Turner. Shamanic content is community-sensitive.
+  sha256: de310ed9260eedaaff8db538d4ead4cb859431b829366ab1e7bd92f70b95fbd2
+  passage_count: 134
+- path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  source_text_id: australian.native_tribes_central_australia.spencer_gillen_archive
+  title: The Native Tribes of Central Australia
+  tradition: australian_aboriginal
+  culture: arrernte_central_desert_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1899, US public domain. Recording context - Spencer (biologist)
+      and Gillen (long-resident telegraph stationmaster with deep Arrernte contacts)
+      recorded Alcheringa (Dreaming) traditions and ceremonies in the field. Myth
+      content is detailed ethnographic paraphrase and ceremony description, NOT verbatim
+      native-language texts; still among the earliest systematic Central Australian
+      recordings.
+  sha256: 3091aae00a25ec878e02d58de73057879d4cfa6cd853b3f09601b0e3bc77e120
+  passage_count: 324
+- path: texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md
+  source_text_id: australian.northern_tribes_central_australia.spencer_gillen_archive
+  title: The Northern Tribes of Central Australia
+  tradition: australian_aboriginal
+  culture: warumungu_kaytetye_northern_central_desert_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1904, US public domain. Recording context - same field method
+      as the 1899 volume; myth and ceremony material is ethnographic paraphrase from
+      named tribes (Warumungu, Kaytetye, Tjingilli and others), not verbatim texts.
+  sha256: e08c2033739d7cd8744df4b560e74d1fd81baeacf611811e482c85f5be0b3eb8
+  passage_count: 361
+- path: texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md
+  source_text_id: african.back_of_the_black_mans_mind.dennett_archive
+  title: At the Back of the Black Man's Mind; or, Notes on the Kingly Office in West
+    Africa
+  tradition: bavili
+  culture: kongo_bavili_religion_colonial_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1906, US public domain. The period title is offensive by modern
+      standards. This is ETHNOGRAPHIC PARAPHRASE, not verbatim - Dennett documents
+      Bavili (Loango Kongo) cosmology, the Nkici system, sacred kingship, and philosophical
+      categories secondhand through a colonial interpretive lens; his systematizing
+      framework must not be extracted as indigenous self-description.
+  sha256: e87dc6736f4c02230a6f6c00e1cf9f345db2459c97a57e4e7269dc8a4fc5a965
+  passage_count: 176
+- path: texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md
+  source_text_id: buddhist.buddhism_in_translations.warren_archive
+  title: Buddhism in Translations (Harvard Oriental Series, Vol. 3)
+  tradition: buddhist
+  culture: early_buddhist_canon_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1896 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion.
+  sha256: d78d8ebcf41d04b07bca897521d29a7633bcdd0deccdaf709bb92b37ca04b099
+  passage_count: 243
+- path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  source_text_id: buddhist.buddhist_suttas.rhys_davids_sbe11_archive
+  title: Buddhist Suttas (Sacred Books of the East, Vol. 11)
+  tradition: buddhist
+  culture: early_buddhist_canon_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1881 (pre-1930), US public domain. Hosted file is OCR text of
+      a Google Books library scan; expect OCR noise and scan front-matter needing
+      cleanup during conversion.
+  sha256: 1ceffe8b44198bbc934bb06a21063a3c89254881b4425edac39e2b109ef0ccb7
+  passage_count: 162
+- path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  source_text_id: buddhist.jataka.cowell_vol1_archive
+  title: The Jataka; or, Stories of the Buddha's Former Births, Vol. I
+  tradition: buddhist
+  culture: buddhist_birth_stories_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1895 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion. Volume 1 of the complete six-volume Cambridge Jataka.
+  sha256: 73cbe8fe56bb2cf49898b54d22907845dabb83441d722970b1637dde54097ca5
+  passage_count: 244
+- path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md
+  source_text_id: buddhist.jataka.cowell_vol3_archive
+  title: The Jataka; or, Stories of the Buddha's Former Births, Vol. III
+  tradition: buddhist
+  culture: buddhist_birth_stories_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1897 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion. Volume 3 of the complete six-volume Cambridge Jataka.
+  sha256: 24fc55dea5acf23d239bc732c92b7d7b8ad21dccdaa7c4ddcc6cffaac2e07297
+  passage_count: 220
+- path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md
+  source_text_id: buddhist.jataka.cowell_vol6_archive
+  title: The Jataka; or, Stories of the Buddha's Former Births, Vol. VI
+  tradition: buddhist
+  culture: buddhist_birth_stories_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1907 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion. Final volume (VI) of the complete six-volume Cambridge Jataka, including
+      the long Vessantara Jataka.
+  sha256: 675af04357b0df2f6683e8d322892251a53db6e029aaef9a7524eca5a28b2336
+  passage_count: 213
+- path: texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md
+  source_text_id: buddhist.mahayana_texts.sbe49.cowell_archive
+  title: Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
+  tradition: buddhist
+  culture: mahayana_sanskrit_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1894, US public domain. One volume containing Buddhacarita, both
+      Sukhavati-vyuhas, Diamond Sutra, both Heart Sutras, and Amitayur-dhyana; each
+      can be extracted as its own work unit.
+  sha256: 1fcd19f7c24eda0422b897224050ad368e094d95c1f6f2455c46a1cb243e6960
+  passage_count: 190
+- path: texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md
+  source_text_id: buddhist.lotus_sutra.sbe21.kern_archive
+  title: The Saddharma-Pundarika, or The Lotus of the True Law (Sacred Books of the
+    East, Vol. 21)
+  tradition: buddhist
+  culture: mahayana_sanskrit_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1884, US public domain. Original edition scan; OCR cleanup needed
+      for diacritics.
+  sha256: 84b16dc14b7177c0de78ae9f0162532b5919d7370f6e19daa438c896cc2f5b96
+  passage_count: 237
+- path: texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md
+  source_text_id: buddhist.sutta_nipata.sbe10.fausboll_archive
+  title: The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
+  tradition: buddhist
+  culture: pali_buddhist_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Fausboll's translation published 1881, US public domain. Scan is a modern
+      MLBD reprint; strip ISBN/reprint front matter. Volume also contains the Dhammapada
+      (already ingested from PG 2017) - extract only the Sutta-Nipata part.
+  sha256: 9fc39c45086c437d1e43107cc12544110b80b2ebd06c10e3efab62d34fede78e
+  passage_count: 179
+- path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  source_text_id: burmese.soul_of_a_people.fielding_hall_archive
+  title: The Soul of a People
+  tradition: burmese
+  culture: burmese_buddhist_life_and_belief
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1898 (pre-1930), US public domain. Fielding Hall's reflective
+      ethnography of Burmese Buddhism and everyday belief; author-prose with retold
+      legends, nat-worship, and Buddhist teaching (paraphrase and description dominant,
+      some quoted material). OCR of a scan; expect OCR noise.
+  sha256: 05af47d31497d3681cca14655e2674e07db426fbabfe63bd276079e691895602
+  passage_count: 158
+- path: texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md
+  source_text_id: siberian_mongol.journey_in_southern_siberia.curtin_archive
+  title: A Journey in Southern Siberia, the Mongols, Their Religion and Their Myths
+  tradition: buryat_mongol
+  culture: buryat_oral_traditions_traveler_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1909, US public domain. Recording context - Curtin collected
+      Buryat myths near Lake Baikal in 1900 through interpreters; the volume mixes
+      travelogue with recorded narratives, and Buryat shamanic religion is a living
+      tradition. Extract the myth and epic chapters (including the Gesir cycle) and
+      skip the travel narrative.
+  sha256: fd85bb4e14c1ab4ac3187fc3e4d97578e6790584c987237f0563b3057c9ef9b5
+  passage_count: 157
+- path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  source_text_id: celtic.cuchulain_of_muirthemne.gregory_archive
+  title: Cuchulain of Muirthemne
+  tradition: celtic
+  culture: irish_ulster_cycle_retelling
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1902 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan (Boston College copy); expect OCR noise and scan-frontmatter
+      that will need cleanup during conversion.
+  sha256: ef584c3146c1f5f70eb871321e575ee0d11f254c0d6c96dc776dc976d4139b35
+  passage_count: 193
+- path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  source_text_id: celtic.popular_tales_west_highlands_v1.campbell_archive
+  title: Popular Tales of the West Highlands, Volume 1
+  tradition: celtic
+  culture: scottish_gaelic_folk_tale_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: First published 1860-1862, this 1890 reprint is pre-1930 and US public
+      domain; collector J. F. Campbell died 1885. Hosted file is OCR text of a University
+      of Toronto library scan; expect OCR noise and bilingual Gaelic/English facing
+      text.
+  sha256: e6fff9565f7644d19819f5e627bd8decf6631e9d9bfc2f8086487388edef73ce
+  passage_count: 219
+- path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  source_text_id: celtic.popular_tales_west_highlands_v2.campbell_archive
+  title: Popular Tales of the West Highlands, Volume 2
+  tradition: celtic
+  culture: scottish_gaelic_folk_tale_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: First published 1860-1862, this 1890 reprint is pre-1930 and US public
+      domain; collector J. F. Campbell died 1885. Hosted file is OCR text of a University
+      of Toronto library scan; expect OCR noise and bilingual Gaelic/English facing
+      text.
+  sha256: a2f2f8502c0582c5973a1ddab36c9a837dc8998eb4767aba8307ea4ea3e03721
+  passage_count: 193
+- path: texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md
+  source_text_id: confucian.four_books.legge_archive
+  title: 'The Four Books: Confucian Analects, The Great Learning, The Doctrine of
+    the Mean, and The Works of Mencius'
+  tradition: confucian
+  culture: classical_confucian_canon_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Bilingual reprint (c. 1900, pre-1930) of James Legge's translations first
+      published 1861-1893; Legge died 1897, so the translation is long out of copyright
+      and the reprint is US public domain. Hosted file is OCR text of a library scan;
+      contains Chinese characters interleaved with English - expect OCR noise needing
+      cleanup during conversion.
+  sha256: 68447343544a3998703459afd40969b4917406174a06abedb206ca00efd4ed7e
+  passage_count: 346
+- path: texts/public-domain/confucian/project-gutenberg/i-ching-legge.md
+  source_text_id: chinese.i_ching.sbe16.legge_archive
+  title: The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
+  tradition: confucian
+  culture: ancient_chinese_divination_classic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Legge's translation published 1882, US public domain. Scan is a modern
+      MLBD reprint; strip ISBN/reprint front matter before conversion.
+  sha256: a93ab616a458a3ca504e00ecb3737adb46a7c835a6d3581488f235ac306688a2
+  passage_count: 185
+- path: texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md
+  source_text_id: egyptian.development_of_religion_thought.breasted_archive
+  title: Development of Religion and Thought in Ancient Egypt
+  tradition: egyptian
+  culture: ancient_egyptian_religious_thought_study
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1912 (pre-1930), US public domain. Content is Breasted's scholarly
+      prose tracing the evolution of Egyptian religious and moral thought, with extensive
+      quoted translations of Pyramid Texts and other sources; author-analysis mixed
+      with verbatim excerpts. OCR of a Google library scan; expect OCR noise.
+  sha256: b5393d69f60b98afd5caf2b06fefe037e38ae2c55f3730d21a06cb951480ad6a
+  passage_count: 162
+- path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  source_text_id: egyptian.budge.gods_of_the_egyptians.archive_v1
+  title: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume I
+  tradition: egyptian
+  culture: ancient_egyptian_religion_modern_scholarship
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1904, US public domain. OCR text renders interspersed hieroglyphic
+      transcriptions as noise; the English discussion and hymn translations remain
+      readable and should be extracted during conversion.
+  sha256: 1aa1e489322ab5bafc3f71ffe29c1e2f73a96de67220b0afd1be509062b3bb50
+  passage_count: 270
+- path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md
+  source_text_id: egyptian.budge.gods_of_the_egyptians.archive_v2
+  title: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume II
+  tradition: egyptian
+  culture: ancient_egyptian_religion_modern_scholarship
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1904, US public domain. OCR text renders interspersed hieroglyphic
+      transcriptions as noise; the English discussion and translated material remain
+      readable and should be extracted during conversion.
+  sha256: d706037faf5883f5f895e34a113c6f6a81d6a97c7caa6522d7227d9dcf91379c
+  passage_count: 282
+- path: texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md
+  source_text_id: egyptian.religions_egypt_babylonia.sayce_gutenberg
+  title: The Religions of Ancient Egypt and Babylonia
+  tradition: egyptian
+  culture: comparative_egyptian_and_babylonian_religion
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA. Content
+      is Sayce's scholarly comparative prose (Gifford Lectures) with embedded quotations
+      of Egyptian and Babylonian religious texts; author analysis, not a verbatim
+      primary source.
+  sha256: eda0d815f1819988be05fa4a3ee48dfbac9e10af05761b70e27fe9dbba1b54d4
+  passage_count: 177
+- path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  source_text_id: african.in_the_shadow_of_the_bush.talbot_archive
+  title: In the Shadow of the Bush
+  tradition: ekoi
+  culture: ekoi_ethnography_colonial
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1912, US public domain. Talbot was a colonial district officer
+      in southern Nigeria. This is ETHNOGRAPHIC PARAPHRASE of the Ekoi (Ejagham) of
+      the Cross River - secret societies, the Nsibidi ideographic script, folklore,
+      and religion - with recorded tales embedded. Colonial framing must not be extracted
+      as Ekoi self-description.
+  sha256: 4e86e08a2ab3ae9966c8d163bdd600be13039a4fc5c11dc5227e5b82ce64a42e
+  passage_count: 332
+- path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  source_text_id: melanesian.tales_from_old_fiji.fison_archive
+  title: Tales from Old Fiji
+  tradition: fijian
+  culture: fijian_oral_narrative_missionary_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1904, US public domain. Fison was a missionary-ethnographer who
+      collected Fijian myths and legends from native tellers over decades; tales are
+      relatively faithful to their sources but rendered in his English narration (PARAPHRASE
+      leaning, some passages near-verbatim). Framing must not be extracted as Fijian
+      self-description.
+  sha256: 61acb57ac5726c6a2a31596f1f72ad9f099fa76cf6f5571e118809559a12451d
+  passage_count: 117
+- path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  source_text_id: finnic.finno_ugric_siberian_mythology.holmberg_archive
+  title: Finno-Ugric, Siberian Mythology
+  tradition: finnic
+  culture: finno_ugric_and_siberian_mythology_survey
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1927 (pre-1930), US public domain. Holmberg's comparative survey
+      of Finno-Ugric and Siberian mythology with many quoted myths, songs, and beliefs;
+      author-synthesis prose with embedded verbatim material. OCR of a scan; expect
+      OCR noise. This is Volume IV of the Mythology of All Races series (the "1927
+      Holmberg Finno-Ugric mythology" target).
+  sha256: 8db5ca2eb84ac7dfa746dd3bdb5e979923e4c633d5beb06012eafc26cd5e4d24
+  passage_count: 285
+- path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md
+  source_text_id: finnic.pre_and_proto_historic_finns.abercromby_vol1_archive
+  title: The Pre- and Proto-historic Finns, Volume 1
+  tradition: finnic
+  culture: finnic_folklore_magic_and_myth
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1898 (pre-1930), US public domain. Volume 1 sets out Finnish
+      pre-history, religion, and mythology (author-prose) as prelude to the magic-song
+      collection in Volume 2; description-dominant with quoted material. OCR of a
+      Google scan; expect OCR noise.
+  sha256: f946f2c891102cf051f34cc992d61185a7753c16661ef656fc0fdff21c03d7e6
+  passage_count: 159
+- path: texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v2-abercromby.md
+  source_text_id: finnic.pre_and_proto_historic_finns.abercromby_vol2_archive
+  title: The Pre- and Proto-historic Finns, Volume 2 - The Magic Songs
+  tradition: finnic
+  culture: finnic_magic_song_corpus_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1898 (pre-1930), US public domain. Volume 2 is a large verbatim
+      English translation of West Finnish magic songs, charms, and origin-incantations
+      (the loitsurunot). OCR of a scan; expect OCR noise.
+  sha256: f41a51aeeb1ae989027bb74904eafc32c6df14901d2abbba1ee516edd5ee4fa5
+  passage_count: 141
+- path: texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md
+  source_text_id: african.folklore_of_the_fjort.dennett_archive
+  title: Notes on the Folklore of the Fjort (French Congo)
+  tradition: fjort
+  culture: kongo_fjort_oral_narrative_colonial_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1898, US public domain. "Fjort" refers to Bakongo/Vili peoples
+      of the Loango coast. Dennett was a trader-observer; tales are recorded from
+      native tellers but framed with colonial-era commentary that must not be extracted
+      as indigenous self-description.
+  sha256: 59f00255772cb9c965ff647522c87fd4d0b154fa321c6d62603316ac3153bc98
+  passage_count: 151
+- path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  source_text_id: african.the_baganda.roscoe_archive
+  title: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  tradition: ganda
+  culture: baganda_ethnography_missionary
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1911, US public domain. Roscoe was a missionary working with
+      Baganda informants (notably Ham Mukasa). This is ETHNOGRAPHIC PARAPHRASE - a
+      systematic account of Ganda religion, the Lubaale pantheon, kingship, clans,
+      and myth, valuable but filtered through a missionary lens whose framing must
+      not be extracted as Ganda self-description.
+  sha256: 7fcac55cf0dd9b347c6d8cbc847c1ac7743e8c68465ea03172e9f5ef7e72cdad
+  passage_count: 383
+- path: texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md
+  source_text_id: georgian.man_in_the_panthers_skin.wardrop_archive
+  title: The Man in the Panther's Skin
+  tradition: georgian
+  culture: medieval_georgian_epic_romance
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Rustaveli's epic is medieval; the Wardrop translation was published 1912
+      (pre-1930), US public domain. Hosted file is OCR text of a Google-digitized
+      library scan; expect OCR noise and scan-frontmatter that will need cleanup during
+      conversion.
+  sha256: 7be848b6414cfc7dbe50e5f0ba9edcdfc0a9f4fcc75e2683ea091bfa44cecf50
+  passage_count: 113
+- path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md
+  source_text_id: germanic.teutonic_mythology_v1.grimm_stallybrass_archive
+  title: Teutonic Mythology, Volume 1
+  tradition: germanic
+  culture: germanic_comparative_mythology
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Grimm died 1863; Stallybrass translation published 1882 (pre-1930), US
+      public domain. Hosted file is OCR text of a library scan; expect heavy OCR noise,
+      footnotes, and non-Latin characters requiring cleanup during conversion.
+  sha256: f0543337ba4856304f90676bb0a1e26550e24042fdc8647132a84efbe7df3401
+  passage_count: 282
+- path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  source_text_id: germanic.teutonic_mythology_v2.grimm_stallybrass_archive
+  title: Teutonic Mythology, Volume 2
+  tradition: germanic
+  culture: germanic_comparative_mythology
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Grimm died 1863; Stallybrass translation published 1883 (pre-1930), US
+      public domain. Hosted file is OCR text of a library scan; expect heavy OCR noise,
+      footnotes, and non-Latin characters requiring cleanup during conversion.
+  sha256: 346944b32ae5a914836ab1631766d6c0fb872580bcee80b6ab93a5747449dcbc
+  passage_count: 299
+- path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  source_text_id: germanic.teutonic_mythology_v3.grimm_stallybrass_archive
+  title: Teutonic Mythology, Volume 3
+  tradition: germanic
+  culture: germanic_comparative_mythology
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Grimm died 1863; Stallybrass translation published 1883 (pre-1930), US
+      public domain. Hosted file is OCR text of a University of Illinois library scan;
+      expect heavy OCR noise, footnotes, and non-Latin characters requiring cleanup
+      during conversion.
+  sha256: bacd3bd472ec97f8a1e8c2895a8132604b449267da7053d99cfccbf7349985a6
+  passage_count: 394
+- path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  source_text_id: germanic.teutonic_mythology_v4.grimm_stallybrass_archive
+  title: Teutonic Mythology, Volume 4
+  tradition: germanic
+  culture: germanic_comparative_mythology
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Grimm died 1863; Stallybrass translation supplement volume published 1888
+      (pre-1930), US public domain. Hosted file is OCR text of a library scan; expect
+      heavy OCR noise, indices, and non-Latin characters requiring cleanup during
+      conversion.
+  sha256: e3272b81a96301b9ad86df8b71d09afe3bdb6ca0bb165af0c19aedc946eac2ef
+  passage_count: 419
+- path: texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md
+  source_text_id: gnostic.mead.fragments_of_a_faith_forgotten.archive
+  title: Fragments of a Faith Forgotten
+  tradition: gnostic
+  culture: late_antique_gnostic_christianity_modern_scholarship
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1900, US public domain. Mead's survey of the Gnostic schools
+      with extensive translated fragments; clean readable OCR.
+  sha256: 24dbda4385c6b7c0930d649f7a4ed3e13bf416b53a3ca7861b9c8f822f1c476e
+  passage_count: 414
+- path: texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md
+  source_text_id: greek.apollodorus.library.frazer_archive_v1
+  title: The Library, Volume I (Apollodorus), with an English Translation by James
+    George Frazer
+  tradition: greek
+  culture: ancient_greek_mythography_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1921, US public domain. Loeb edition; OCR plain text includes
+      Greek facing pages that render as noise, but the English translation and Frazer's
+      notes extract cleanly. Volume II lacks a plain-text derive on Internet Archive
+      and was omitted.
+  sha256: c9c98a5f5b8c0b67e3c147bace18effc5bcf0bcc1ca10e3dc1f23a56ffa8300f
+  passage_count: 120
+- path: texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md
+  source_text_id: greek.pausanias.description_of_greece.frazer_archive_v1
+  title: Pausanias's Description of Greece, Volume I, Translated with a Commentary
+    by J. G. Frazer
+  tradition: greek
+  culture: ancient_greek_travel_topography_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1898, US public domain. OCR plain text of the translation volume;
+      readable throughout with occasional scan artifacts.
+  sha256: cd8a923b30d186fe5b7268196d7863ba3e6799fe5628e3cd96058319ce454121
+  passage_count: 87
+- path: texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md
+  source_text_id: south_american.animism_folklore_guiana_indians.roth_archive
+  title: An Inquiry into the Animism and Folk-Lore of the Guiana Indians
+  tradition: guiana_amerindian
+  culture: warrau_carib_arawak_oral_traditions_ethnographic_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (Bureau of American Ethnology), public domain.
+      Recording context - Roth was a colonial official in British Guiana; the volume
+      systematically presents numbered Warrau, Carib, and Arawak narratives with source
+      attribution, but within a colonial administrative frame and period animism theory.
+  sha256: 21807b8763b5da26272fb151b23303b42e3cd6766e125da037bc87c997e6f521
+  passage_count: 191
+- path: texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md
+  source_text_id: amazonian.the_central_caribs.farabee_archive
+  title: The Central Caribs
+  tradition: guiana_amerindian
+  culture: central_carib_ethnography_and_myth
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1924, US public domain. Mixed verbatim/paraphrase - expedition
+      ethnography of Cariban groups of the Guiana highlands and upper Amazon watershed,
+      with recorded myths, cosmology, and rites of passage. Isolated lowland Carib
+      lineage; treat initiation and shamanic content as sensitive.
+  sha256: 43aba05a2b45d12a425ea0ec5e060bc6e3e92bd13e79c6b20dd3ecd61cc90d99
+  passage_count: 41
+- path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  source_text_id: african.hausa_superstitions_customs.tremearne_archive
+  title: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore and the
+    Folk'
+  tradition: hausa
+  culture: hausa_folklore_colonial_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1913, US public domain. "Superstitions" is a pejorative colonial
+      framing. Tremearne was a colonial officer; the work mixes recorded Hausa folklore,
+      Bori spirit-possession material, and proverbs (some closer to verbatim) with
+      heavy period commentary that must not be extracted as Hausa self-description.
+  sha256: 1bd36fa456320b376a0d2a91c8d49168dc0e79bb46cb27bf91834cd73fb8eaeb
+  passage_count: 379
+- path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md
+  source_text_id: hermetic.mead.thrice_greatest_hermes.archive_v1
+  title: 'Thrice-Greatest Hermes, Vol. I: Prolegomena'
+  tradition: hermetic
+  culture: greco_egyptian_hermetism
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1906, US public domain. Volume I (Prolegomena) of Mead's three-volume
+      set; complements Vol. II already in the queue. Clean readable OCR.
+  sha256: 975ee5fae62452363d96d62f0ce24afb138147c5b6d2113d5fb2934e4703a6c0
+  passage_count: 248
+- path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  source_text_id: hindu.laws_of_manu.buhler_sbe25_archive
+  title: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  tradition: hindu
+  culture: classical_hindu_dharmashastra_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1886 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion.
+  sha256: d7ad93fb322de8cad0ad1775674cfa81936918fd19939dc17b577d1a6290e2c7
+  passage_count: 550
+- path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  source_text_id: hindu.markandeya_purana.pargiter_archive
+  title: The Markandeya Purana
+  tradition: hindu
+  culture: classical_hindu_purana_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: 'Published 1904 (pre-1930), US public domain. Verbatim: Pargiter''s complete
+      English translation of the Markandeya Purana with notes, including the Devi-Mahatmya.
+      OCR of a library scan; expect OCR noise and Bibliotheca Indica front-matter.'
+  sha256: dadaf57d56b96229bb0d1b76803ba569a8aeed313f321a7f86697080f28cd9e4
+  passage_count: 487
+- path: texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md
+  source_text_id: hindu.minor_upanishads.narayanasvami_aiyar_archive
+  title: Thirty Minor Upanishads
+  tradition: hindu
+  culture: classical_hindu_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1914 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion.
+  sha256: e6f211862ec7b69c8e5273122f022c1339339fd55c7d5e5429aa60f971def6cc
+  passage_count: 187
+- path: texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md
+  source_text_id: hindu.vedic_hymns.muller_sbe32_archive
+  title: Vedic Hymns, Part I (Sacred Books of the East, Vol. 32)
+  tradition: hindu
+  culture: vedic_hindu_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1891 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion.
+  sha256: f15e9a52a2a7dc5f2cec6a7dcc26980d08e4b387bc218f754159234445a884d3
+  passage_count: 402
+- path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  source_text_id: hindu.vedic_hymns.oldenberg_sbe46_archive
+  title: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  tradition: hindu
+  culture: vedic_hindu_scripture_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1897 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion.
+  sha256: '012390909a327e0f31e63b690b9fce513aa50ab1578b09d2edd9e2127d16f6b3'
+  passage_count: 358
+- path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  source_text_id: hindu.rigveda.griffith_archive
+  title: The Hymns of the Rigveda, Complete 2 Volumes
+  tradition: hindu
+  culture: vedic_sanskrit_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Griffith died 1906; translation first published 1889-1892 and revised edition
+      published 1920, all pre-1930 so US public domain. OCR text from scan; needs
+      cleanup pass (page headers, diacritics) before extraction.
+  sha256: f2050d795d6e89bdac76b4c6a2297280cf7894d35a45fa6e4527bc3f76c7ebd6
+  passage_count: 734
+- path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  source_text_id: hindu.mahabharata.ganguli_vol2_gutenberg
+  title: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5, 6 and
+    7'
+  tradition: hindu
+  culture: classical_hindu_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA. Verbatim
+      full prose translation; continues the already-queued Volume 1 (mahabharata-ganguli-vol1)
+      with the Virata, Udyoga, Bhishma and Drona Parvas (incl. the Bhagavad Gita context).
+  sha256: f72e26918fdee6bdde27853829db1165dcff43c033eeb343f414c669dde16f85
+  passage_count: 999
+- path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  source_text_id: hindu.mahabharata.ganguli_vol3_gutenberg
+  title: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12'
+  tradition: hindu
+  culture: classical_hindu_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA. Verbatim
+      full prose translation, Volume 3 (Karna through the long Shanti Parva of moksha
+      and statecraft teachings).
+  sha256: 15e2eae3b45c0cbf3b9c94449d75e04b7d284b5da48b8ba2e640f30fc8885874
+  passage_count: 1126
+- path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  source_text_id: hindu.mahabharata.ganguli_vol4_gutenberg
+  title: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14, 15,
+    16, 17 and 18'
+  tradition: hindu
+  culture: classical_hindu_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA. Verbatim
+      full prose translation, Volume 4, completing the epic through the ascent to
+      heaven (Svargarohana Parva).
+  sha256: b036cba97fd8add2ec88ade8c072c086465e2dd077dc91ee023583aa1eecca32
+  passage_count: 615
+- path: texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md
+  source_text_id: hindu.samkhya_karika.davies_archive
+  title: 'Hindu Philosophy: The Sankhya Karika of Iswara Krishna'
+  tradition: hindu
+  culture: classical_indian_philosophy_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1881, US public domain. Volume interleaves karika verses with
+      Davies's exposition; extraction should separate verse text from commentary.
+  sha256: 3bfdb01fa3e386cc650c055ba78d96e34a22b68ad3330a8adb2a4be3a046b867
+  passage_count: 52
+- path: texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md
+  source_text_id: hindu.upanishads.sbe01.muller_archive
+  title: The Upanishads, Part I (Sacred Books of the East, Vol. 1)
+  tradition: hindu
+  culture: upanishadic_sanskrit_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1879, unambiguously US public domain. OCR renders Muller's italic
+      transliteration imperfectly (e.g. Khandogya for Chandogya); cleanup pass needed.
+  sha256: 8b432ce5e099c2331669e9dcfbbb358b13d34bba7e2e9b13f07ad807fb89b77f
+  passage_count: 154
+- path: texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md
+  source_text_id: hindu.upanishads.sbe15.muller_archive
+  title: The Upanishads, Part II (Sacred Books of the East, Vol. 15)
+  tradition: hindu
+  culture: upanishadic_sanskrit_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1884, US public domain. OCR of diacritic-heavy transliteration
+      needs cleanup before extraction.
+  sha256: 4bd1821dee39ce7f35377aa0764564f3f32fc5f04ee0c5b3ab9b82421ff497f7
+  passage_count: 137
+- path: texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md
+  source_text_id: andean.rites_and_laws_of_the_yncas.markham_archive
+  title: Narratives of the Rites and Laws of the Yncas
+  tradition: inca
+  culture: inca_quechua_via_spanish_chronicles_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1873, US public domain. Chronicles were written by/for Spanish
+      missionaries and Christianized Andean authors; prayers and myths pass through
+      a colonial filter that extraction notes should flag.
+  sha256: 2a4f9ca411e1bcf9bbad18bcfc7dc52a9982f21d72d6cca86ad20a591e594187
+  passage_count: 99
+- path: texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md
+  source_text_id: inca.rites_laws_yncas.molina_markham_archive
+  title: Narratives of the Rites and Laws of the Yncas
+  tradition: inca
+  culture: inca_ritual_and_myth_colonial_record
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1873, US public domain. COLONIAL missionary source - Cristobal
+      de Molina's Fables and Rites (with Salcamayhua's account) records Inca creation
+      myth, the Situa purification festival, and verbatim Quechua prayers, but filtered
+      through an evangelizing priest hostile to the religion; flag as colonial-mediated,
+      medium ladder. Preserves rare verbatim Quechua invocations.
+  sha256: 38f784b295f74a233432f7503cf78827dae4082b743621565c3b3426957c423f
+  passage_count: 129
+- path: texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md
+  source_text_id: inca.royal_commentaries.garcilaso_markham_archive
+  title: First Part of the Royal Commentaries of the Yncas, Vol. II
+  tradition: inca
+  culture: inca_history_and_myth_mestizo_chronicle
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1871, US public domain (Vol. II of two). PARAPHRASE/memoir -
+      Garcilaso, son of an Inca princess and a Spanish conquistador, retells Inca
+      origin myth, sun theology, and dynastic history from memory and family oral
+      tradition decades later; flag as insider-but-literary colonial chronicle (mid-ladder).
+      Vol. I (firstpartofroyal01vega) is a companion, currently returning transient
+      errors on archive.org.
+  sha256: 2354cf4c04312f6631883a4eefcc286a00e7c96eb03f1605821627752aaabc83
+  passage_count: 598
+- path: texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md
+  source_text_id: arctic_inuit.tales_and_traditions_of_the_eskimo.rink_archive
+  title: Tales and Traditions of the Eskimo
+  tradition: inuit
+  culture: greenlandic_inuit_oral_traditions_colonial_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1875, US public domain. Recording context - Rink was a Danish
+      colonial administrator in Greenland, but the tales were largely written down
+      and illustrated by Greenlanders themselves (including Aron of Kangeq) in Rink's
+      pioneering native-language collecting program; still a colonial-era mediated
+      publication of a living tradition.
+  sha256: 135edb01e368529d8ef6f59461ef4ed1b28aa8c8bb74d1f894bdcf6d44ea6231
+  passage_count: 233
+- path: texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md
+  source_text_id: jain.jaina_sutras.jacobi_part2_sbe45_archive
+  title: 'Jaina Sutras, Part II: The Uttaradhyayana Sutra and the Sutrakritanga (Sacred
+    Books of the East, Vol. 45)'
+  tradition: jain
+  culture: classical_jain_canon_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1895 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion. Completes the SBE Jaina Sutras pair (Part I already held).
+  sha256: 956910923b53c34a0a3d46259bd927cb9d5b4ebbb669c463528ee279ac4415fa
+  passage_count: 260
+- path: texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md
+  source_text_id: jain.jaina_sutras.sbe22.jacobi_archive
+  title: 'Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred Books
+    of the East, Vol. 22)'
+  tradition: jain
+  culture: jain_prakrit_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Jacobi's translation published 1884, US public domain. Scan is of a reprint;
+      strip library stamps and reprint front matter. Underlying text unchanged from
+      1884 edition.
+  sha256: 254ef8bf0e97f98419c1e41d645f4a9fe240c332a88cc3b62137ff5829dce642
+  passage_count: 179
+- path: texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md
+  source_text_id: african.reynard_the_fox_hottentot.bleek_archive
+  title: Reynard the Fox in South Africa; or, Hottentot Fables and Tales
+  tradition: khoekhoe
+  culture: khoekhoe_oral_narrative_early_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1864, US public domain. "Hottentot" is an offensive exonym; the
+      material is Khoekhoe (Khoikhoi/Nama). Bleek (later of the Bleek & Lloyd San
+      archive already queued) translated fables largely from native texts, so this
+      leans toward verbatim, though the "Reynard" framing imposes a European animal-epic
+      template. A rare early Khoekhoe corpus.
+  sha256: c2d1a903d6cb5b6707680fb878512c89fc9f198e73353e4d3bc312e4b67225e1
+  passage_count: 87
+- path: texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md
+  source_text_id: african.akikuyu_prehistoric_people.routledge_archive
+  title: 'With a Prehistoric People: The Akikuyu of British East Africa'
+  tradition: kikuyu
+  culture: kikuyu_ethnography_colonial
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1910, US public domain. The title "prehistoric people" encodes
+      evolutionist colonial bias. This is ETHNOGRAPHIC PARAPHRASE documenting Kikuyu
+      (Gikuyu) religion, initiation, proverbs, and folklore secondhand; the framing
+      must not be extracted as Kikuyu self-description, but it preserves proverbs,
+      songs, and ritual detail of value.
+  sha256: 9256432c982c769e2186ef89811b9533f1c1e16f38354a2b4bb01441f3704b3c
+  passage_count: 296
+- path: texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md
+  source_text_id: african.folk_tales_angola.chatelain_archive
+  title: 'Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English
+    Translation, Introduction, and Notes'
+  tradition: kimbundu
+  culture: kimbundu_oral_narrative_verbatim_bilingual
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1894, US public domain. High scientific value - this is a rare
+      VERBATIM bilingual field record with parallel Kimbundu text and literal English
+      translation of fifty tales as narrated by native tellers, not a colonial paraphrase.
+      Chatelain worked directly from dictation; introduction and notes carry 19th-century
+      framing that should not be extracted as Kimbundu self-description, but the tale
+      texts themselves are primary.
+  sha256: c3182e3d8cee681f19a8ba21d64008ad0db2eb208e0482f807fadfe9452c61b8
+  passage_count: 165
+- path: texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md
+  source_text_id: korean.corea_the_hermit_nation.griffis_archive
+  title: Corea, the Hermit Nation
+  tradition: korean
+  culture: korean_history_religion_and_folklore
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1889 (pre-1930), US public domain. Griffis's survey of Korean
+      history, religion, mythology, and folklore; author-prose ethnography with retold
+      myths and legends (paraphrase, with some quoted material). OCR of a scan; expect
+      OCR noise.
+  sha256: 1859565df6c0efa6ca4b6ff4a9889914a9fd52d2fca29d357bcbcd570f838834
+  passage_count: 280
+- path: texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md
+  source_text_id: korean.korean_folk_tales.gale_archive
+  title: Korean Folk Tales - Imps, Ghosts and Fairies
+  tradition: korean
+  culture: korean_folk_tale_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: 'Published 1913 (pre-1930), US public domain. Verbatim: Gale''s translation
+      of the tale collections of Im Bang and Yi Ryuk. OCR of a scan; expect OCR noise
+      and scan front-matter.'
+  sha256: babd1ad9e81197857a9b0435d516676f93c651d80df1983cac8488e8aeebcd1c
+  passage_count: 133
+- path: texts/public-domain/korean/internet-archive/korean-tales-allen.md
+  source_text_id: korean.korean_tales.allen_archive
+  title: Korean Tales
+  tradition: korean
+  culture: korean_folk_tale_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: 'Published 1889 (pre-1930), US public domain. Verbatim: Allen''s English
+      retellings of Korean folk stories (incl. the Rabbit and other tales) with an
+      introductory sketch. OCR of a scan; expect OCR noise.'
+  sha256: afc53ec773cc2a0b12496f2620b725d8d84c58ba6908c89b7f6af5ef23f89a5a
+  passage_count: 86
+- path: texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md
+  source_text_id: malagasy.great_african_island.sibree_archive
+  title: 'The Great African Island: Chapters on Madagascar'
+  tradition: malagasy
+  culture: malagasy_ethnography_missionary
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1880, US public domain. Sibree was a missionary of the London
+      Missionary Society. This is ETHNOGRAPHIC PARAPHRASE covering Malagasy folklore,
+      proverbs, ancestor cult (razana), and customs, with recorded proverbs and oratory
+      (kabary). Missionary framing must not be extracted as Malagasy self-description.
+      Complements the queued Sibree Madagascar material with additional folklore chapters.
+  sha256: b7d8ee10c3ee42930302804e6b5936bac81fb139d43a7a05b6aae0dcef20deb1
+  passage_count: 219
+- path: texts/public-domain/malay/internet-archive/malay-magic-skeat.md
+  source_text_id: malay.malay_magic.skeat_archive
+  title: Malay Magic
+  tradition: malay
+  culture: malay_folk_religion_and_magic
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1900 (pre-1930), US public domain. Skeat's ethnography of Malay
+      magic and popular religion, quoting many verbatim charms, invocations (mantera),
+      and rites in Malay with translation; author-prose interwoven with primary incantations.
+      OCR of a scan; expect OCR noise.
+  sha256: 176b4285e62691c75d174d1d99a90953ec652e122844fe5510fd420ab322fb00
+  passage_count: 384
+- path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md
+  source_text_id: malay.pagan_races_malay_peninsula.skeat_blagden_vol1_archive
+  title: Pagan Races of the Malay Peninsula, Volume 1
+  tradition: malay
+  culture: aboriginal_malayan_ethnography_and_religion
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1906 (pre-1930), US public domain. Volume 1 is Skeat & Blagden's
+      ethnographic description of the aboriginal Malayan peoples; author-prose with
+      embedded quoted myths and beliefs (paraphrase and description dominant). OCR
+      of a scan; expect OCR noise.
+  sha256: 60688fa4fc3a5bbab21d3c0ebc6e0c1bdc6525cddfed715fc491960f6bd00fb0
+  passage_count: 258
+- path: texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md
+  source_text_id: malay.pagan_races_malay_peninsula.skeat_blagden_vol2_archive
+  title: Pagan Races of the Malay Peninsula, Volume 2
+  tradition: malay
+  culture: aboriginal_malayan_ethnography_and_religion
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1906 (pre-1930), US public domain. Volume 2 continues the ethnography
+      (language, religion, folklore, comparative vocabularies); author-prose with
+      quoted verbatim tales and beliefs. OCR of a scan; expect OCR noise.
+  sha256: a2398e055adf05976eadf96e6c58631f4c9887f236f16297b0f6066f1a902be4
+  passage_count: 282
+- path: texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md
+  source_text_id: polynesian.myths_songs_south_pacific.gill_archive
+  title: Myths and Songs from the South Pacific
+  tradition: mangaian
+  culture: cook_islands_mangaia_oral_tradition_verbatim_song
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1876, US public domain. Gill was a missionary but a careful recorder
+      who prints many chants and songs with parallel Polynesian (Mangaian/Rarotongan)
+      text and English translation, so substantial portions are VERBATIM. His Christian
+      framing in the connecting prose should not be extracted as Mangaian self-description,
+      but the song texts are primary.
+  sha256: 84163f7c5d551e0b235dc48c585f59e7670926bbc477b77d7b81ebfefaac31cc
+  passage_count: 240
+- path: texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md
+  source_text_id: polynesian.ancient_history_maori_v3.white_archive
+  title: The Ancient History of the Maori, His Mythology and Traditions, Volume 3
+  tradition: maori
+  culture: maori_oral_tradition_verbatim_bilingual
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1887, US public domain. As with volume 1, this prints Maori traditions
+      with PARALLEL MAORI TEXT and English translation - a largely VERBATIM bilingual
+      primary source. Volume 3 continues the Maui and Tawhaki hero cycles. White's
+      editorial conflation of tribal versions should be noted; the Maori texts themselves
+      are primary.
+  sha256: f2001608ea689165378086d6ec2bd9b26e19f675af3342f96d535b4030b6ea3c
+  passage_count: 180
+- path: texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md
+  source_text_id: polynesian.maori.polynesian_mythology.grey_archive
+  title: Polynesian Mythology and Ancient Traditional History of the New Zealand Race
+  tradition: maori
+  culture: maori_oral_traditions_colonial_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1855, US public domain. Cultural sensitivity - Maori narratives
+      recorded by a colonial governor from tohunga and chiefs; these remain living
+      taonga (treasured) traditions for iwi. Present with provenance framing and colonial-collection
+      caveats, not as a neutral canonical edition.
+  sha256: 34010f9efdeacd1a4a54edc7b8ea7801ddecc0dbbc356301066f894650fe2d0b
+  passage_count: 141
+- path: texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md
+  source_text_id: melanesian.history_of_melanesian_society.rivers_vol1_archive
+  title: The History of Melanesian Society, Volume 1
+  tradition: melanesian
+  culture: melanesian_ethnography_and_kinship
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1914 (pre-1930), US public domain. Volume 1 is Rivers's descriptive
+      ethnography of Melanesian societies (kinship, ritual, secret societies) with
+      recorded customs and beliefs; author-prose and field data, paraphrase-dominant
+      with quoted material. OCR of a scan; expect OCR noise.
+  sha256: 5f70ce7351561c1c3bf64d090abd940707cd548f7754c323cd073ea4b1190a49
+  passage_count: 186
+- path: texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v2-rivers.md
+  source_text_id: melanesian.history_of_melanesian_society.rivers_vol2_archive
+  title: The History of Melanesian Society, Volume 2
+  tradition: melanesian
+  culture: melanesian_ethnography_and_kinship
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1914 (pre-1930), US public domain. Volume 2 is Rivers's comparative/theoretical
+      analysis of Melanesian institutions, incl. religion, the cult of the dead, and
+      totemism; author-analysis prose. OCR of a scan; expect OCR noise.
+  sha256: 1c7ce8f7faee21c57a3ad0324619405c3873936d55918fb28a667d0247475c37
+  passage_count: 303
+- path: texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md
+  source_text_id: melanesian.the_melanesians.codrington_archive
+  title: 'The Melanesians: Studies in Their Anthropology and Folk-Lore'
+  tradition: melanesian
+  culture: melanesian_oral_traditions_missionary_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1891, US public domain. Recording context - Codrington was an
+      Anglican missionary with 25 years in Melanesia and strong language competence;
+      the myth and folklore chapters include narratives from named islands, but the
+      whole is missionary ethnography of living traditions. Extract the stories and
+      mythology chapters; mana and ghost material remains religiously significant.
+  sha256: 3d47a5cb6a36f98a29103ed86a976f9231a0794e6a542e3b3ca40de177eb47f1
+  passage_count: 188
+- path: texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md
+  source_text_id: mesopotamian.harper.assyrian_babylonian_literature.archive
+  title: 'Assyrian and Babylonian Literature: Selected Translations'
+  tradition: mesopotamian
+  culture: ancient_mesopotamian_literature_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1901, US public domain. Anthology of English translations (creation
+      and flood epics, hymns, prayers, historical inscriptions, letters); clean readable
+      OCR.
+  sha256: e0f631f3ce231ae0f8fa74335efad19cc4effaeb13b32bc1df6e5506643292ca
+  passage_count: 348
+- path: texts/public-domain/mongol/internet-archive/the-mongols-a-history-curtin.md
+  source_text_id: mongol.the_mongols_history.curtin_archive
+  title: The Mongols - A History
+  tradition: mongol
+  culture: mongol_history_and_legend
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1908 (pre-1930), US public domain. Primarily Curtin's historical
+      narrative of the Mongols with retellings of legendary origin traditions (incl.
+      Chingis Khan material); paraphrase/narrative history rather than verbatim primary
+      text. OCR of a scan; expect OCR noise.
+  sha256: 2f002f1a604a7fdc52d39693dcad421e4b3fc24ffa6862e6622bafeb2634e7d7
+  passage_count: 204
+- path: texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md
+  source_text_id: mongol.sagas_from_the_far_east.busk_gutenberg
+  title: Sagas from the Far East
+  tradition: mongol
+  culture: kalmyk_and_mongolian_folk_tale_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://www.gutenberg.org/policy/license.html
+    training_use: allowed
+    full_text: allowed
+    notes: Project Gutenberg catalog records public-domain status in the USA. English
+      rendering (via German of Jülg) of the Kalmyk Siddhi-Kur and Ardji-Bordji tale
+      cycles; a verbatim retelling with the author's notes, not a scholarly critical
+      text.
+  sha256: abcf970d0a63e0f6e6737ef5816a10a372bc668fe8a1708a60df15b2d32327d8
+  passage_count: 149
+- path: texts/public-domain/native-american-california/project-gutenberg/creation-myths-primitive-america-curtin.md
+  source_text_id: native_american.creation_myths.curtin_archive
+  title: Creation Myths of Primitive America
+  tradition: native_american_california
+  culture: wintu_yana_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1898, US public domain. Verbatim-close but literary - Curtin
+      recorded from Wintu and Yana narrators and rendered careful, if somewhat polished,
+      English; flag as faithful-but-edited (mid-ladder). A rich first-creation cosmology
+      from northern California isolate/small lineages.
+  sha256: 7d0200a60d950befc30ab4e009f43250fca77e79a2f3ddf61f4fa3d72106274e
+  passage_count: 183
+- path: texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md
+  source_text_id: native_american.yana_texts.sapir_archive
+  title: Yana Texts
+  tradition: native_american_california
+  culture: yana_verbatim_texts
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1910, US public domain. VERBATIM - facing Yana texts with close
+      English translation recorded by Sapir from Betty Brown and Sam Bat'wi, among
+      the last fluent speakers of a near-isolate language (kin community to Ishi).
+      Exceptional scientific value as a nearly extinct isolated lineage; handle with
+      corresponding cultural care.
+  sha256: 7bb40c1f9ff494f4befb19c82ae0adb747f2ad4a49e9dc42c08b23c564793a5a
+  passage_count: 61
+- path: texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md
+  source_text_id: native_american.menomini_bundles.skinner_archive
+  title: Social Life and Ceremonial Bundles of the Menomini Indians
+  tradition: native_american_great_lakes
+  culture: menominee_ethnography_and_ritual
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1913, US public domain. Mixed verbatim/paraphrase - ethnographic
+      monograph embedding recorded origin narratives and bundle rites from named Menominee
+      narrators. Sacred-bundle and Medicine Dance content is strongly community-sensitive;
+      flag ceremonial passages for restricted handling.
+  sha256: 4ffcfd4728cbe95b4f0a8462d9fe9791cd41c3e9ac98a0680f9a8e140743e1a2
+  passage_count: 90
+- path: texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md
+  source_text_id: native_american.fox_texts.jones_archive
+  title: Fox Texts
+  tradition: native_american_great_lakes
+  culture: meskwaki_verbatim_texts
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1907, US public domain. VERBATIM - facing-page Fox-language texts
+      with close English translation, recorded by William Jones, himself of Fox (Meskwaki)
+      descent; a gold-standard insider verbatim source. OCR includes the Meskwaki-language
+      pages. Sacred pack and manitou material is community-sensitive.
+  sha256: 034ec86f555d25856b4174bf95a95e8d7ad99f6d47ecfccf0fb0afbed7f5829b
+  passage_count: 64
+- path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md
+  source_text_id: native_american.eastern_cree.skinner_archive
+  title: Notes on the Eastern Cree and Northern Saulteaux
+  tradition: native_american_northeast_woodlands
+  culture: eastern_cree_saulteaux_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1911, US public domain. Mixed verbatim/paraphrase - subarctic
+      ethnography with recorded myths from James Bay Cree and Saulteaux narrators.
+      Google-scanned OCR carries a boilerplate header. Windigo and conjuring material
+      is community-sensitive.
+  sha256: f04e4bbb470a551a399894776bf907a41a5e2baa87dafec2c1f95445e92f6b82
+  passage_count: 95
+- path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/timiskaming-algonquin-speck.md
+  source_text_id: native_american.timiskaming_algonquin.speck_archive
+  title: Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa
+  tradition: native_american_northeast_woodlands
+  culture: algonquin_ojibwa_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1915, US public domain. Verbatim-close English tellings recorded
+      from named Timiskaming Algonquin and Timagami Ojibwa narrators. Trickster and
+      cannibal-giant cycles; conjuring material is community-sensitive.
+  sha256: 9e110eb8e854c1fe5365273f0c80f751566599b0f3598749cc99679908c50903
+  passage_count: 49
+- path: texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md
+  source_text_id: native_american.chinook_texts.boas_archive
+  title: Chinook Texts
+  tradition: native_american_northwest_coast
+  culture: chinook_verbatim_texts
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - gold-standard
+      verbatim; nearly the entire corpus dictated by one named narrator (Charles Cultee),
+      interlinear Chinook with close English translation; the language was nearly
+      extinct at recording time.
+  sha256: 55e634c03ff4a954ba79e277b7c5ce0efee7af920e057db11b5dd9e0d77a1b33
+  passage_count: 43
+- path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md
+  source_text_id: native_american.ethnology_kwakiutl_1.boas_hunt_archive
+  title: Ethnology of the Kwakiutl, Part 1
+  tradition: native_american_northwest_coast
+  culture: kwakwakawakw_texts_recorded_by_native_writer
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - like
+      Tsimshian Mythology, based on texts written in the native language by a native
+      writer (George Hunt) and translated by Boas; substitutes for the 1905 Jesup
+      Kwakiutl Texts, which has no clean digital text on archive.org.
+  sha256: 7985ba44d111b8bd24df4d7ef1b424094ad34de599446c66790b0c9dbdf06565
+  passage_count: 190
+- path: texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md
+  source_text_id: native_american.ethnology_kwakiutl_2.boas_hunt_archive
+  title: Ethnology of the Kwakiutl, Part 2
+  tradition: native_american_northwest_coast
+  culture: kwakwakawakw_texts_recorded_by_native_writer
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: US government publication (BAE), public domain. Recording context - continuation
+      of part 1; Hunt's Kwak'wala texts with Boas's translations covering beliefs,
+      shamanism-adjacent practices, and customs.
+  sha256: 2def5330f1c16ce6f57c2a4e288aaedf47d68b06cf4312a0fe283c6067699d6f
+  passage_count: 148
+- path: texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md
+  source_text_id: native_american.mythology_bella_coola.boas_archive
+  title: The Mythology of the Bella Coola Indians
+  tradition: native_american_northwest_coast
+  culture: nuxalk_cosmology_and_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1898, US public domain. Recording context - Boas's field record
+      of Nuxalk cosmology, notable for its unique five-layered heaven and systematized
+      pantheon unlike neighboring Northwest Coast traditions; close translation with
+      Boas's cosmological synthesis.
+  sha256: 44438c50ff69421bae53568254e445578a0c715c6a0b2282f04ea9087e25a365
+  passage_count: 332
+- path: texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md
+  source_text_id: native_american.tsimshian_texts.boas_archive
+  title: Tsimshian Texts
+  tradition: native_american_northwest_coast
+  culture: tsimshian_verbatim_texts
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1902, US public domain. VERBATIM - facing Tsimshian-language
+      texts with interlinear/close English translation. Distinct from the already-queued
+      Tsimshian Mythology (Boas/Tate), which is a later synthesis; this is the earlier
+      raw text series. Crest and secret-society material is community-sensitive.
+  sha256: 6ee2fbb04ff579b665d4d5d4daf270ba738ac9e68d9ab6fbeb83c1a85fd9ad8b
+  passage_count: 33
+- path: texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md
+  source_text_id: native_american.blackfoot_lodge_tales.grinnell_archive
+  title: Blackfoot Lodge Tales
+  tradition: native_american_plains
+  culture: blackfoot_retold_myths_and_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1892, US public domain. PARAPHRASE/literary retelling - Grinnell
+      reworked informant narratives into polished English prose, so flag as non-verbatim;
+      pair with the verbatim Wissler & Duvall Blackfoot texts also in this batch for
+      a paraphrase-vs-verbatim control. Old Man (Napi) creation and trickster cycle;
+      ceremonial material is community-sensitive.
+  sha256: 0d3ed3fcc173c5cf838ca83876894346d6698f6525194f400933919d91c70a60
+  passage_count: 174
+- path: texts/public-domain/native-american-plains/project-gutenberg/gros-ventre-myths-tales-kroeber.md
+  source_text_id: native_american.gros_ventre.kroeber_archive
+  title: Gros Ventre Myths and Tales
+  tradition: native_american_plains
+  culture: gros_ventre_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1907, US public domain. Verbatim-close English translations from
+      named A'aninin (Gros Ventre) narrators. Salvage ethnography on a small lineage
+      closely related to the Arapaho, allowing fine-grained lineage-pair comparison.
+      Ceremonial origin narratives are community-sensitive.
+  sha256: 69be1385c1534db9ba439c675b50019000e2b7b5acebae07a30879cacb73a901
+  passage_count: 61
+- path: texts/public-domain/native-american-plains/project-gutenberg/mythology-blackfoot-wissler-duvall.md
+  source_text_id: native_american.mythology_blackfoot.wissler_duvall_archive
+  title: Mythology of the Blackfoot Indians
+  tradition: native_american_plains
+  culture: blackfoot_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1908, US public domain. Verbatim-close - narratives collected
+      and translated by David C. Duvall, a Blackfoot-speaking Metis, giving close
+      renderings from named narrators; a strong verbatim counterpart to Grinnell's
+      retelling. Google-scanned OCR carries a boilerplate header. Sun Dance and bundle-origin
+      material is community-sensitive.
+  sha256: 76ddf2df3cccbc36d4569b739509bc387c99f73a72f44901153ca890e4167caf
+  passage_count: 185
+- path: texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md
+  source_text_id: native_american.pawnee_mythology.dorsey_archive
+  title: The Pawnee - Mythology (Part I)
+  tradition: native_american_plains
+  culture: pawnee_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1906, US public domain. Verbatim-close - English translations
+      dictated by named Skidi and South Band Pawnee narrators. Distinct from the already-queued
+      Skidi Pawnee (Dorsey) collection; this is the larger star-lore and creation
+      corpus. Colonial salvage context; star/creation cosmology is community-sensitive.
+  sha256: f692771935608ee1de755b072858f5e7825670175cc3ed4886ef20a1debd2535
+  passage_count: 480
+- path: texts/public-domain/native-american-plains/project-gutenberg/the-assiniboine-lowie.md
+  source_text_id: native_american.the_assiniboine.lowie_archive
+  title: The Assiniboine
+  tradition: native_american_plains
+  culture: assiniboine_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1909, US public domain. Verbatim-close narratives from named
+      Nakota narrators recorded through interpreters by Lowie (who also recorded the
+      already-queued Crow corpus). A northern Siouan lineage; vision and ceremonial
+      material is community-sensitive.
+  sha256: ee5c6c5aa3ddeb6c59b3cef2569a82170ff111b4bddb661122cd444425f93053
+  passage_count: 155
+- path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  source_text_id: native_american.omaha_tribe.fletcher_laflesche_archive
+  title: The Omaha Tribe
+  tradition: native_american_plains
+  culture: omaha_ethnography_and_ritual
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1911, US public domain. Mixed verbatim/paraphrase - a comprehensive
+      monograph co-authored by Francis La Flesche, an Omaha, embedding verbatim ritual
+      songs and prayers within ethnographic description. Insider co-authorship makes
+      it unusually authoritative; sacred pipe, Sacred Legend, and He'dewachi rites
+      are community-sensitive.
+  sha256: d012f5091871ae3f4d6e1db37596b695d0e525498fbc9f85bbd4e4a9f3dbaa65
+  passage_count: 575
+- path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  source_text_id: native_american.traditions_arapaho.dorsey_kroeber_archive
+  title: Traditions of the Arapaho
+  tradition: native_american_plains
+  culture: arapaho_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1903, US public domain. Verbatim-close - English translations
+      taken from named Arapaho narrators through interpreters, printed with narrator
+      attributions; creation, sun-dance origin, and Nih'ancan trickster cycles. Colonial-era
+      salvage ethnography; treat sun-dance and ceremonial material as community-sensitive.
+  sha256: ba36c9a99f5e2bbbea340c154165978a2f342059342fc828b3c9b500ef9ad19f
+  passage_count: 303
+- path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  source_text_id: native_american.traditions_caddo.dorsey_archive
+  title: Traditions of the Caddo
+  tradition: native_american_plains
+  culture: caddo_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1905, US public domain. Verbatim-close English translations from
+      named Caddo narrators recorded in Oklahoma after removal. Google-scanned OCR
+      carries a boilerplate header before the text. Post-removal salvage context;
+      Ghost Dance-era material is community-sensitive.
+  sha256: 2f5cd07ae7778a067893a39259d3708f50035ef7df8f6fac384b1a5b5489e7ba
+  passage_count: 92
+- path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  source_text_id: native_american.traditions_skidi_pawnee.dorsey_archive
+  title: Traditions of the Skidi Pawnee
+  tradition: native_american_plains
+  culture: skidi_pawnee_field_recorded_traditions
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1904, US public domain. Recording context - narratives dictated
+      by named Skidi narrators through the Pawnee ethnographer James R. Murie; tale-by-tale
+      informant attribution; star-cult cosmology (Morning Star, Evening Star) central.
+  sha256: 4f10efbe9ebb0772531305d42e9a7c53861ff2678f89bb79134d04a19301ce0e
+  passage_count: 188
+- path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  source_text_id: native_american.myths_of_the_modocs.curtin_archive
+  title: Myths of the Modocs
+  tradition: native_american_plateau
+  culture: modoc_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1912, US public domain. Verbatim-close but literary - recorded
+      by Curtin from Modoc narrators exiled to Indian Territory after the Modoc War;
+      polished English (mid-ladder). Post-war exile context is historically charged;
+      handle with care.
+  sha256: 56b88a4a0d99647e4efb1df72d62dd42f1eed303d0f0c13f7953a9ce99de0536
+  passage_count: 238
+- path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  source_text_id: native_american.thompson_river.teit_archive
+  title: Traditions of the Thompson River Indians of British Columbia
+  tradition: native_american_plateau
+  culture: nlakapamux_field_recorded_myths
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1898, US public domain. Verbatim-close - Teit lived among and
+      married into the Nlaka'pamux and recorded close translations from named narrators,
+      edited by Boas; unusually intimate salvage record. Transformer and guardian-spirit
+      material is community-sensitive.
+  sha256: a22d28a36be1293a11366d0f7d4488b6dc5655b8f8e7f11820611571ca394f34
+  passage_count: 100
+- path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  source_text_id: native_american.wishram_texts.sapir_archive
+  title: Wishram Texts
+  tradition: native_american_plateau
+  culture: wishram_chinookan_verbatim_texts
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1909, US public domain. VERBATIM - facing Wishram (Upper Chinookan)
+      texts with close English translation recorded by Sapir from named narrators,
+      with comparative Wasco notes by Curtin. Coyote and myth-age material largely
+      public narrative; treat any medicine content as sensitive.
+  sha256: 93bd789870707e88c77fc2e8f2bfc4c282fe62582298e3ce319580fea473dac8
+  passage_count: 71
+- path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  source_text_id: norse.corpus_poeticum_boreale_v1.vigfusson_powell_archive
+  title: Corpus Poeticum Boreale, Volume 1
+  tradition: norse
+  culture: old_norse_eddic_poetry_edition
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1883 (pre-1930), US public domain. Hosted file is OCR text of
+      a University of Toronto library scan with facing Old Norse/English; expect OCR
+      noise and non-Latin characters that will need cleanup during conversion.
+  sha256: 1a9baae3a0257842f5139ec8133d31c925be9046401cb47851428936e167fe97
+  passage_count: 247
+- path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  source_text_id: oceanic.oceanic_mythology.dixon_archive
+  title: Oceanic Mythology
+  tradition: oceanic
+  culture: pan_oceanic_comparative_mythology_secondary
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1916, US public domain. IMPORTANT - this is a SECONDARY COMPARATIVE
+      SYNTHESIS, not a field record. Dixon summarizes and compares Polynesian, Melanesian,
+      Micronesian, Indonesian, and Australian myths from other collectors. Useful
+      as a cross-index and for motif coverage, but it must NOT be treated as verbatim
+      or as any culture's self-description; prefer the primary field sources it cites.
+      Flagged low priority accordingly.
+  sha256: f288d490456c551d93f3978631cec0fdafdc550fb4fda4438257b6f2fa92a702
+  passage_count: 182
+- path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  source_text_id: persian.shahnama.warner_v1_archive
+  title: The Shahnama of Firdausi, Vol. I
+  tradition: persian
+  culture: persian_national_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1905, US public domain. Volume I of nine; contains the prelude
+      and the mythical Pishdadian dynasty. Long scholarly introduction precedes the
+      poem; extraction should separate translator apparatus from epic text.
+  sha256: 39a15c46b11037a03153834ed55748ae79aabb9292de8c55277c0ab608422421
+  passage_count: 152
+- path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  source_text_id: persian.shahnama.warner_v2_archive
+  title: The Shahnama of Firdausi, Vol. II
+  tradition: persian
+  culture: persian_national_epic_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1906, US public domain. Volume II of nine; covers the Kaianian
+      material including Rustam's Seven Stages, Suhrab, and Siyawush.
+  sha256: 942dc694beae9a3a653d277619e3909b9951e0e9ce61a0bae64e8209c9bb00e0
+  passage_count: 153
+- path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  source_text_id: roman.cumont.mysteries_of_mithra.archive
+  title: The Mysteries of Mithra
+  tradition: roman
+  culture: roman_mystery_cult_modern_scholarship
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1903, US public domain. English translation of Cumont's foundational
+      study of Mithraism; clean readable OCR.
+  sha256: 9a2e673819eb00bbff0628bd51de1d099140f96599499a99830cc90ff4f6186a
+  passage_count: 151
+- path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  source_text_id: shinto.nihongi.volume_1.aston_archive
+  title: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume
+    1'
+  tradition: shinto
+  culture: classical_japanese_chronicle_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1896, US public domain. OCR of first pages is noisy (cover art);
+      body text is clean enough for conversion with a trimming pass.
+  sha256: 29d0b3785129aab5254f454df6eb3260abad6d6f7d72d119460e1948b21c4e58
+  passage_count: 269
+- path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  source_text_id: shinto.nihongi.volume_2.aston_archive
+  title: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume
+    2'
+  tradition: shinto
+  culture: classical_japanese_chronicle_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1896, US public domain. Front-matter OCR is noisy; body text
+      usable after trimming.
+  sha256: 77293858fcf11bf8ceab73e988c84d5a1a913aa12102527e2a0cc2bb5589f03b
+  passage_count: 276
+- path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  source_text_id: siberian.aboriginal_siberia.czaplicka_archive
+  title: Aboriginal Siberia - A Study in Social Anthropology
+  tradition: siberian
+  culture: siberian_indigenous_religion_and_shamanism
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1914 (pre-1930), US public domain. Czaplicka's synthesis of Siberian
+      ethnography, esp. shamanism, drawing together many field sources with quoted
+      verbatim accounts; author-synthesis prose with embedded primary excerpts. OCR
+      of a scan; expect OCR noise.
+  sha256: d6029327d19026e615267e2da2f2f1f64b7e96ec2b06bc19c44c1e204e27c1e9
+  passage_count: 176
+- path: texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md
+  source_text_id: siberian.chukchee_mythology.bogoras_archive
+  title: Chukchee Mythology
+  tradition: siberian
+  culture: chukchee_verbatim_texts
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1910, US public domain. Recording context - gold-standard verbatim
+      collection; Chukchee-language texts taken down from named narrators with parallel
+      English translation (myths, incantations, songs, war tales). Companion to the
+      already-ingested Bogoras Koryak Texts and Yukaghir tales; OCR of Chukchee orthography
+      lines will be noisy - extract from the English translations.
+  sha256: 7e136e0fc73239d977a561abe56c51840bbab6eb65a16f3812e04afe2bb87e15
+  passage_count: 60
+- path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  source_text_id: chinese.chuang_tzu.giles_archive
+  title: 'Chuang Tzŭ: Mystic, Moralist, and Social Reformer'
+  tradition: taoist
+  culture: classical_daoist_philosophy_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1889 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion. Giles's translation distinct from the Legge SBE 39/40 rendering.
+  sha256: 2af98c4e0c1020dc26131ff9887c6e623090efb125dcc42ed65b3cef3f1027f8
+  passage_count: 151
+- path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  source_text_id: chinese.texts_of_taoism.legge_sbe39_archive
+  title: 'The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books of
+    the East, Vol. 39)'
+  tradition: taoist
+  culture: classical_daoist_canon_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1891 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion. Provides Legge's English Tao Te Ching (complementing the Chinese-only
+      Daodejing already held) plus Chuang Tzu Books I-XVII.
+  sha256: eb1914974dcd3726fe9bffdab3683d37ac60de6abada0fd0dee01295f9f4e1b6
+  passage_count: 222
+- path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  source_text_id: chinese.texts_of_taoism.legge_sbe40_archive
+  title: 'The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books of
+    the East, Vol. 40)'
+  tradition: taoist
+  culture: classical_daoist_canon_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1891 (pre-1930), US public domain. Hosted file is OCR text of
+      a library scan; expect OCR noise and scan front-matter needing cleanup during
+      conversion. Completes the SBE Texts of Taoism pair.
+  sha256: 1cde0adb07bf039718eb63019cf7dd97e32234129ef00e5872c9216dd5207d75
+  passage_count: 193
+- path: texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1.md
+  source_text_id: tibetan.antiquities_of_indian_tibet.francke_vol1_archive
+  title: Antiquities of Indian Tibet, Part 1
+  tradition: tibetan_buddhist
+  culture: western_himalayan_ladakhi_antiquities_and_folklore
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1914 (pre-1930), US public domain. Part I (Personal Narrative)
+      is Francke's survey prose with embedded local legends, songs, and folklore of
+      Ladakh/Western Tibet; ethnographic description mixed with quoted verbatim oral
+      material. OCR of a library scan; expect OCR noise.
+  sha256: 7dc24578a70ce7e568b48673c1bd62aeeec4c45ad838ab42af9a36c618391fd9
+  passage_count: 68
+- path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  source_text_id: tibetan.buddhism_of_tibet.waddell_archive
+  title: The Buddhism of Tibet, or Lamaism
+  tradition: tibetan_buddhist
+  culture: tibetan_buddhist_ethnography_and_ritual
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1895 (pre-1930), US public domain. Content is Waddell's ethnographic
+      study of Tibetan Buddhism with many translated ritual texts, mantras, and myths
+      quoted verbatim; author-prose and primary excerpts mixed. OCR of a scan; expect
+      OCR noise.
+  sha256: 89a1fde4e71aa3ea02753255f4fe31ad358cb60f1adaa42d3281c877f91ca4cc
+  passage_count: 358
+- path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  source_text_id: tibetan.book_of_the_dead.evans_wentz_archive
+  title: The Tibetan Book of the Dead
+  tradition: tibetan_buddhist
+  culture: tibetan_buddhist_death_text_later_translation
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: 'First published 1927 (pre-1930), US public domain since 2023. Mixed: Dawa-Samdup''s
+      verbatim translation of the Bardo Thodol wrapped in Evans-Wentz''s extensive
+      editorial introduction and commentary. Retried on a live, non-restricted identifier
+      (no lending restriction). OCR of a scan; expect OCR noise.'
+  sha256: d6894d14017931d52f1b6bcc5cff0eee6fe16e01c85abf44ef1e1aded2acc493
+  passage_count: 133
+- path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  source_text_id: polynesian.tongan_myths_and_tales.gifford_archive
+  title: Tongan Myths and Tales
+  tradition: tongan
+  culture: tongan_oral_narrative_ethnographic_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1924, US public domain (pre-1930). Gifford was a Bishop Museum
+      ethnographer who collected Tongan myths and tales systematically from native
+      informants; the Bishop Museum bulletins record tellers and sources, so this
+      is relatively faithful (PARAPHRASE leaning, with attributions) rather than colonial
+      reinterpretation. Framing still to be noted, not extracted as Tongan self-description.
+  sha256: 2106ab80930f77d14766b65ff1a0873ab8340f7e11798c1196af328a13d6ceb7
+  passage_count: 123
+- path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  source_text_id: vietnamese.annam_legends.chivas_baron_archive
+  title: Stories and Legends of Annam
+  tradition: vietnamese
+  culture: vietnamese_folklore_literary_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://archive.org/about/terms.php
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1920 (pre-1930), US public domain. Original French by Chivas-Baron,
+      English translation by Smith-Dampier. Hosted file is OCR text of a library scan;
+      expect OCR noise and scan front-matter needing cleanup during conversion.
+  sha256: b38c8b04ceb46689f9b4cc1252054d1dc64c101206c2229353787c53f1c43de8
+  passage_count: 62
+- path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  source_text_id: african.kaffir_folk_lore.theal_archive
+  title: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among the
+    People Living on the Eastern Border of the Cape Colony'
+  tradition: xhosa
+  culture: xhosa_oral_narrative_colonial_collection
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1886, US public domain. The exonym "Kaffir" is an offensive colonial
+      term; the material is Xhosa/southern-Nguni. Tales were collected from native
+      tellers and are relatively close to verbatim, but Theal's Victorian editorial
+      framing and the period title carry colonial bias that must not be extracted
+      as Xhosa self-description.
+  sha256: f22ec76e09789f59138301e59f668af0e6a8b8e454fa1620729acb83aee8f235
+  passage_count: 123
+- path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  source_text_id: african.yoruba_speaking_peoples.ellis_archive
+  title: 'The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their Religion,
+    Manners, Customs, Laws, Language, Etc.'
+  tradition: yoruba
+  culture: yoruba_religion_colonial_ethnography
+  text_language: English
+  rights:
+    status: public_domain
+    jurisdiction: US
+    license_url: https://creativecommons.org/publicdomain/mark/1.0/
+    training_use: allowed
+    full_text: allowed
+    notes: Published 1894, US public domain. Cultural sensitivity - a colonial military
+      officer's ethnography of a living religion, with period biases and errors; it
+      documents orisha worship, Ifa divination, and proverbs secondhand. No public-domain
+      English translation of the Ifa Odu corpus itself exists - this is an imperfect
+      documentary proxy, and its interpretive framing must not be extracted as Yoruba
+      self-description.
+  sha256: 65f71956a90a15af973b9318f27506becf6d6519bb0c5ddb0aa258a1b1113333
+  passage_count: 87
+

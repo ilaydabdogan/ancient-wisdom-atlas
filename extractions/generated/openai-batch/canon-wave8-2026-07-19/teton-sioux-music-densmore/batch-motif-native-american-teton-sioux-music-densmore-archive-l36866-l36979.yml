@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l36866-l36979
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: MISCELLANEOUS  SONGS / LEGEND   OF  GHOST  HHX / TETQN   BIOXJX  MUSIC /
+    BUREAU   OP  AMERICAN  JITHNOLOGY; lines 36866-36979
+  start: '36866'
+  end: '36979'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents two Teton Sioux songs associated with Two White Buffalo.
+    No. 226, sung by Haka'la, is rendered as a song about helping the tribe and Two
+    White Buffalo having consumed what she had; an editorial note says that among
+    the Sioux it is a high compliment to say a person was so generous as to give away
+    all possessions. No. 227, sung by Silent Woman, says that whenever the tribe assembles
+    they receive the speaker's horses, and attributes the statement to Two White Buffalo.
+    Densmore identifies No. 226 as a shuffling-feet dance melody and No. 227 as a
+    praise-song melody.
+  language: English with Lakota song text and glosses
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: No. 226 is titled "The Tribe You Help" and is identified as sung by Haka'la,
+    glossed as Youngest Child.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gloss for No. 226 connects the tribe, helping, Two White Buffalo, and
+    the statement that she has consumed what she had.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note states that among the Sioux it is a particularly high compliment to
+    say that a person has been so generous as to give away all possessions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Densmore identifies No. 226 as a melody of the shuffling-feet dance, with
+    two recorded renditions, one including women's voices an octave higher.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: No. 227 is titled "Whenever the Tribe Assembles" and is identified as sung
+    by Silent Woman.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The gloss for No. 227 says that whenever the tribe assembles, they receive
+    the speaker's horses.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The statement in No. 227 is attributed to Two White Buffalo by the gloss "said
+    this."
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Densmore identifies No. 227 as a praise-song melody.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Two White Buffalo
+  description: Named person in both song texts; associated with helping the tribe,
+    using up what she had, and a statement that the tribe receives the speaker's horses.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Haka'la / Youngest Child
+  description: Singer of No. 226, "The Tribe You Help."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Silent Woman
+  description: Singer of No. 227, "Whenever the Tribe Assembles."
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the tribe
+  description: Collective named in both songs; in No. 227 the tribe assembles and
+    receives horses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: generous benefactor
+  assigned_to:
+  - fig:1
+  basis: The songs associate Two White Buffalo with helping the tribe, using up what
+    she had, and the tribe receiving the speaker's horses; the note explains such
+    total generosity as a high compliment among the Sioux.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: named song subject or attributed speaker
+  assigned_to:
+  - fig:1
+  basis: Two White Buffalo is named in No. 226 and No. 227, and the words in No. 227
+    are attributed to her with "said this."
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: recorded singer
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage identifies Haka'la as singer of No. 226 and Silent Woman as singer
+    of No. 227.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: tribal collective recipient
+  assigned_to:
+  - fig:4
+  basis: The tribe is named in both songs and, in No. 227, receives the speaker's
+    horses whenever it assembles.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols:
+- id: sym:1
+  label: horses received by the tribe
+  literal_form: horses
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: possessions used up through generosity
+  literal_form: what she had
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Song of helping the tribe
+  summary: Haka'la sings No. 226, a shuffling-feet dance melody whose gloss links
+    Two White Buffalo with helping the tribe and having consumed what she had.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Praise song of horses received at tribal assembly
+  summary: Silent Woman sings No. 227, a praise-song melody in which the assembled
+    tribe receives the speaker's horses; the saying is attributed to Two White Buffalo.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Generous benefactor gives away possessions to the tribe
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The two songs associate Two White Buffalo with helping the tribe, the tribe
+    receiving horses, and her having consumed what she had; the note explicitly frames
+    giving away all possessions as a high compliment among the Sioux.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is a song transcription and musical analysis, not a full myth
+    narrative. The taxonomy mapping to sacred_exchange is approximate because the
+    passage emphasizes generosity and praise rather than an explicit ritual exchange
+    doctrine.
+- id: motif:2
+  label: Praise song commemorates generosity
+  taxonomy_refs: []
+  basis: Densmore calls No. 227 a praise-song melody, and its gloss attributes to
+    Two White Buffalo the statement that the assembled tribe receives the speaker's
+    horses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This identifies a song function and social praise pattern within the passage;
+    it does not establish a broader mythic distribution without comparison to other
+    passages.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 36866-36905
+  quote_or_summary: No. 226, "The Tribe You Help," is sung by Haka'la; the gloss names
+    the tribe, helping, Two White Buffalo, and says she has consumed what she had.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 36930-36933
+  quote_or_summary: '"Among the Sioux it is considered a particularly high compliment
+    to say that a person has been so generous as to give away all his possessions."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 36906-36929
+  quote_or_summary: The analysis identifies No. 226 as a shuffling-feet dance melody
+    and notes two recorded renditions, one including women's voices an octave higher.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 36937-36970
+  quote_or_summary: No. 227, "Whenever the Tribe Assembles," is sung by Silent Woman;
+    the gloss says that whenever the tribe assembles they receive the speaker's horses,
+    and attributes the saying to Two White Buffalo.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 36971-36979
+  quote_or_summary: The analysis identifies No. 227 as a praise-song melody and describes
+    its tonality and melodic structure.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on OCR text with some corrupted words, but the song
+    titles, English glosses, and Densmore's note on generosity are intelligible. Motif
+    assignment is limited because the passage is primarily song transcription and
+    musical commentary rather than a narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a clear comparative mythology claim beyond the local Sioux praise/generosity pattern.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l36866-l36979
+  passage_sha256=d3f8a6427be65513723bb7fdff04b5ffa7b1aad2ae798eaf9781ecd2d18ebb67
+

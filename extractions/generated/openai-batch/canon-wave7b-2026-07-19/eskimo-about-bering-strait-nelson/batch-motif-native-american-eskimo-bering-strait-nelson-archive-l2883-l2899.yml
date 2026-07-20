@@ -1,0 +1,170 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l2883-l2899
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    ESKIMO    ABOUT    BERING    STRAIT / I  KTH.  ANN.  18 / WATERPROOF    GARMENTS
+    / EAR-FLAPS; lines 2883-2899
+  start: '2883'
+  end: '2899'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes ear-flaps commonly used around Chalitmut and the
+    adjacent tundra district between the Kuskokwim and Yukon, explaining their deerskin
+    construction, method of tying under the chin, and ornamental white reindeer-hair
+    line patterns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The described location is around Chalitmut and the adjacent tundra district
+    between the Kuskokwim and the Yukon.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In that district, men's frocks are made without hoods, and ear-flaps are commonly
+    used.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The ear-flaps are oval deerskin flaps with the hair side inward and a truncated
+    base sewn to a narrow skin band worn around the head.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The flaps are tied under the chin with strings.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The tanned outer surface bears ornamental patterns made from white reindeer
+    hairs sewn on with sinew thread.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The described designs are parallel lines that may be straight, curved, or
+    circular.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A figure in the source represents a pair of these ear-flaps.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: People around Chalitmut and adjacent tundra district
+  description: The passage refers to a district where men's frocks are hoodless and
+    ear-flaps are commonly used.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ear-flap users or wearers
+  assigned_to:
+  - fig:1
+  basis: The passage states that ear-flaps are commonly used in the described district
+    where men's frocks lack hoods.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: ear-flaps
+  literal_form: Oval deerskin flaps, hair side inward, sewn to a narrow skin band
+    and tied under the chin with strings.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: ornamental white-hair line patterns
+  literal_form: White reindeer hairs sewn with sinew thread into parallel straight,
+    curved, or circular line designs on the tanned outer surface.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of Chalitmut ear-flaps
+  summary: The passage gives an ethnographic description of ear-flaps used in a tundra
+    district, including their relation to hoodless men's frocks, their deerskin construction,
+    chin ties, and ornamental reindeer-hair patterns.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2883-2888
+  quote_or_summary: '"About Chalitmut and the adjacent district on the tundra between
+    the Kuskokwim and the Yukon" men''s frocks are made without hoods and "ear-flaps
+    are commonly used."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2888-2892
+  quote_or_summary: The ear-flaps are described as oval deerskin flaps with hair side
+    inward, a truncated base, and a narrow skin band going around the head.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2892-2893
+  quote_or_summary: '"The flaps are then tied under the chin by means of strings."'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2893-2898
+  quote_or_summary: The outer tanned surface has ornamental white reindeer-hair patterns
+    sewn with sinew thread; the designs are parallel lines, straight, curved, or circular.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2898-2899
+  quote_or_summary: Figure 0 is said to represent a pair of the ear-flaps.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is a concrete ethnographic description of clothing and ornament;
+    no mythic episode or supported comparative motif claim appears in the supplied
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l2883-l2899
+  passage_sha256=cfa5f123d63e97aa2198c5160cf2648ed4f3dcd8e449c542ba1cdd1a9132c3c9
+

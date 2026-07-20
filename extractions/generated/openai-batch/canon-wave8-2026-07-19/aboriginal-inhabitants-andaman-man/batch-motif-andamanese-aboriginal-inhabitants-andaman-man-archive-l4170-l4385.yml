@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.andamanese-aboriginal-inhabitants-andaman-man-archive-l4170-l4385
+source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+passage_locator:
+  label: ANDAMANESE CHIEF, WITH BOW AND ANDAMANESE MAN AND WOMAN, SHOWING / ARROWS.
+    PROFILES. / BARREN ISLAND VOLCANO (HEIGHT, I.OI5 FEET) / PART ir.; lines 4170-4385
+  start: '4170'
+  end: '4385'
+  translation: On the Aboriginal Inhabitants of the Andaman Islands
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: the people themselves have a legend to account for the linguistical distinctions
+    existing in their midst
+  summary: The passage introduces Part II of the ethnography and begins a discussion
+    of Andamanese dialects, especially the South Andaman dialect. It notes that the
+    Andamanese are said to have a legend explaining linguistic distinctions, but the
+    passage does not give the legend. It also discusses word formation, possessive
+    pronouns, and a poetic dialect used in songs.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author states that the people have a legend accounting for linguistic
+    distinctions among them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author says the discussion mainly concerns the South Andaman dialect unless
+    otherwise stated.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Andamanese are described as preferring to coin words from their own resources
+    for new ideas or objects rather than borrowing foreign words.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage gives an example in which a word for prayer is formed after observing
+    Mahomedans at daily devotions addressing an Invisible Being.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage describes a distinct poetic dialect in songs, where rhythm leads
+    to altered word forms and grammatical constructions.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Andamanese people
+  description: The people whose dialects, word formation, poetic speech, and explanatory
+    legend are discussed.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: South Andaman tribe
+  description: The Jo'jig-ngvji, or South Andaman tribe, whose dialect is the main
+    focus of the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Mahomedans
+  description: People observed at daily devotions, leading the Andamanese to form
+    a term for prayer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Invisible Being
+  description: A being whom the Mahomedans are said to address in daily devotions;
+    the passage does not identify this as an Andamanese being.
+  role_refs: []
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Bearers of an explanatory legend
+  assigned_to:
+  - fig:1
+  basis: The passage says the people themselves have a legend explaining linguistic
+    distinctions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Coiners of new words
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Andamanese as forming words from their own resources
+    for new ideas and objects.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: Dialect focus of the discussion
+  assigned_to:
+  - fig:2
+  basis: The author states that the remarks generally refer to the South Andaman dialect.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Observed practitioners of daily devotion
+  assigned_to:
+  - fig:3
+  basis: The passage says the Andamanese formed a word for prayer after seeing Mahomedans
+    at daily devotions.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Prayer as daily repetition
+  literal_form: d'vlalik-yd'b, glossed as daily repetition
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Poetic dialect in song
+  literal_form: Altered song language subordinated to rhythm
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Reference to a legend of linguistic distinctions
+  summary: Before describing customs and beliefs, the author states that the people
+    have a legend explaining the distinctions among their languages or dialects, though
+    the legend itself is not narrated here.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Formation of a word for prayer
+  summary: The passage describes the Andamanese forming a compound word meaning daily
+    repetition after observing Mahomedans performing daily devotions to an Invisible
+    Being.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Song language altered for rhythm
+  summary: The passage describes a poetic dialect used in songs, where words and grammar
+    are changed to fit rhythm and may require explanation in ordinary speech.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Etiological legend explaining linguistic distinctions
+  taxonomy_refs: []
+  basis: The passage explicitly says the people have a legend to account for linguistic
+    distinctions among them.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The actual legend is not included in this line range, so no narrative
+    sequence, characters, or mythic explanation can be extracted here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4170-4385
+  quote_or_summary: '"the people themselves have a legend to account for the linguistical
+    distinctions existing in their midst"'
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4170-4385
+  quote_or_summary: The author says his remarks refer, except where otherwise stated,
+    to the Jo'jig-ngvji, or South Andaman dialect.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4170-4385
+  quote_or_summary: The Andamanese are described as conservative in speech and as
+    preferring to coin words from their own language for new ideas or objects.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4170-4385
+  quote_or_summary: The passage states that after seeing Mahomedans at daily devotions
+    addressing an Invisible Being, the Andamanese expressed prayer by a compound word
+    glossed as daily repetition.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4170-4385
+  quote_or_summary: The passage describes a distinct poetic dialect in songs, where
+    rhythm can alter word forms and sentence construction, sometimes requiring explanation
+    in ordinary vernacular.
+  source_text_path: texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage contains only a brief reference to an explanatory legend and
+    does not narrate it. Most extractable material is linguistic and ethnographic
+    rather than mythic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the available list does not include a specific language-origin or language-differentiation motif, and the passage gives no narrative details.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:andamanese-aboriginal-inhabitants-andaman-man-archive__l4170-l4385
+  passage_sha256=55bf4d4305d59f82d5db41dfa5ce2ce239bd61502a8c7e811e1e489d9e703a4e
+

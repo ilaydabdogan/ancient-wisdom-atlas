@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.celtic-more-celtic-fairy-tales-jacobs-gutenberg-l6546-l6565
+source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+passage_locator:
+  label: NOTES AND REFERENCES                                        219 / THE STORY.
+    / XXVII. THE FATE OF THE CHILDREN OF LIR. / XXVIII. JACK THE CUNNING THIEF.; lines
+    6546-6565
+  start: '6546'
+  end: '6565'
+  translation: More Celtic Fairy Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: the popular hero-thief gains his ends
+  summary: A notes-and-references passage for “Jack the Cunning Thief” lists Irish,
+    West Highland, Norse, Herodotean, Kashmiri, and London-tramp parallels for the
+    Master Thief tale and remarks that shared tricks link the versions despite the
+    universality of thievery.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage section is titled “XXVIII. JACK THE CUNNING THIEF.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sources note lists Kennedy, Campbell, Dasent’s “The Shifty Lad” or “Master
+    Thief,” Koehler’s variants, Clouston’s monograph, and Prato’s treatise on Rhampsinite.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says Clouston and Prato connect modern folk-tales with Herodotus’
+    story of King Rampsinites.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage mentions Kashmiri adventures of “Sharaf the Thief” and reports
+    that the “Master Thief” story has been heard among tramps in London workhouses.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The remarks state that thievery is universal and could at first make the versions
+    seem unconnected.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The remarks state that identical tricks used by the popular hero-thief make
+    independent invention of the versions impossible.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jack the Cunning Thief
+  description: Named in the tale title as a cunning thief.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: popular hero-thief
+  description: A generic hero-thief figure described as gaining his ends by tricks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: King Rampsinites
+  description: Named as the figure in Herodotus’ story connected by writers with modern
+    folk-tales.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Sharaf the Thief
+  description: Named as the thief figure in adventures from Knowles’ Folk-tales of
+    Kashmir.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named thief
+  assigned_to:
+  - fig:1
+  - fig:4
+  basis: Jack is titled a cunning thief, and Sharaf is named “the Thief.”
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: hero-thief using tricks
+  assigned_to:
+  - fig:2
+  basis: The remarks describe a popular hero-thief who gains his ends by tricks.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: king in cited analogue
+  assigned_to:
+  - fig:3
+  basis: The passage names King Rampsinites as the subject of Herodotus’ story connected
+    with the modern folk-tales.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: cunning thief or master thief trick-cycle
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The title identifies Jack as a cunning thief, while the remarks describe
+    a popular hero-thief who gains his ends by tricks across versions.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage is a secondary notes section and does not describe the individual
+    tricks; the taxonomy mapping is therefore approximate.
+- id: motif:2
+  label: shared thief tricks linking tale variants
+  taxonomy_refs: []
+  basis: The remarks explicitly treat the identity of tricks as the reason the various
+    versions should not be considered independently invented.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage asserts shared tricks but does not list or narrate them.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents “Jack the Cunning Thief” as part of a wider Master Thief
+    or hero-thief tale complex, citing Irish, West Highland, Norse, Herodotean/Rhampsinites,
+    Kashmiri, and London-tramp parallels.
+  claim_level: same_motif
+  target: Master Thief / Rhampsinites / Sharaf the Thief analogues
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a comparative source note rather than a full narrative
+    comparison; it gives no detailed trick episodes.
+- id: claim:2
+  claim: The passage frames independent recurrence as initially plausible because
+    thievery is universal, but rejects it on the grounds that the tricks in the versions
+    are identical.
+  claim_level: independent_recurrence
+  target: various versions of the Master Thief story
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: This is an authorial assertion in the notes; the passage does not supply
+    the underlying comparative evidence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: line 6546
+  quote_or_summary: "“XXVIII. JACK THE CUNNING THIEF.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 6548-6554
+  quote_or_summary: The sources note cites Kennedy, Campbell, Dasent’s “The Shifty
+    Lad” and “Master Thief,” Koehler’s variants, Clouston’s monograph, and Prato’s
+    treatise La Leggenda di Rhampsinite.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 6554-6557
+  quote_or_summary: "“Both these writers connect the modern folk-tales with Herodotus'
+    story of King Rampsinites.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 6557-6560
+  quote_or_summary: Knowles’ Folk-tales of Kashmir is said to include adventures of
+    “Sharaf the Thief,” and the “Master Thief” story is said to have been heard among
+    tramps in London workhouses.
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 6562-6564
+  quote_or_summary: "“Thievery is universally human” and might make it seem “that
+    there was no connection between these various versions.”"
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: quote
+  locator: lines 6564-6565
+  quote_or_summary: "“the identity of the tricks by which the popular hero-thief gains
+    his ends” makes independent invention impossible."
+  source_text_path: texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md
+  rights_note: Public domain; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and meta-textual, but it explicitly names tale analogues
+    and states the comparative basis. Narrative-level motifs remain limited because
+    no actual trick episodes are included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage is from notes and references rather than the tale narrative; symbols and scenes were left empty because none are described in the provided text.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:celtic-more-celtic-fairy-tales-jacobs-gutenberg__l6546-l6565
+  passage_sha256=e0b5de1d7b2f72b8b11f470ad5dc5a9cdb50ced6ca5ad0428ceb697a199296ab
+

@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v2-grimm-stallybrass-archive-l1789-l1795
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+passage_locator:
+  label: ELVES,   DWARFS.  465 / ELVES,    DWARFS.  467 / ELVES,   DWAEFS.  469 /
+    ELVES,   DWAEFS.  471; lines 1789-1795
+  start: '1789'
+  end: '1795'
+  translation: Teutonic Mythology, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A report describes Ola Simunsson traveling with a dog that barks at a hill-man
+    seen forging on a great stone. The hill-smith is described with a light-grey coat
+    and blue woollen cap and snarls at the dog. The passage also reports small metal
+    crucifixes believed to have been forged in the hills and used by local people
+    as healing objects for injured or weather-stricken cattle and for sicknesses.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage specifies times of appearance or encounter as after sunset or
+    at high noon.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ola Simunsson is described as traveling with a dog.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The dog sees or reacts to a hill-man forging on a great stone and barks at
+    him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hill-smith is described as wearing a light-grey coat and a blue woollen
+    cap.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The hill-smith snarls at the dog.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Small metal crucifixes are said to be believed to have been forged in the
+    hills in former times.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: People hang the hill-forged crucifixes on cattle injured in the field or weather-stricken,
+    believing this will heal them.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: One hill-wrought object is said to have been lent out to cure sicknesses.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ola Simunsson
+  description: A named person traveling with a dog in the reported encounter.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: dog
+  description: An animal accompanying Ola Simunsson; it barks at the hill-man.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: hill-man / hill-smith
+  description: A hill-being seen forging on a great stone, wearing a light-grey coat
+    and blue woollen cap, and snarling at the dog.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: simple folk
+  description: People who hang hill-forged crucifixes on hurt or weather-stricken
+    cattle for healing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: cattle
+  description: Cattle described as hurt in the field or weather-stricken and treated
+    with the crucifixes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: human witness or traveler
+  assigned_to:
+  - fig:1
+  basis: Ola Simunsson is named as coming or traveling with a dog during the reported
+    encounter.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: animal reactor
+  assigned_to:
+  - fig:2
+  basis: The dog barks at the hill-man after seeing him forging.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: supernatural or hill-dwelling smith
+  assigned_to:
+  - fig:3
+  basis: The figure is called a hill-man and hill-smith and is shown forging on a
+    great stone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: folk users of healing objects
+  assigned_to:
+  - fig:4
+  basis: The passage says local people hang the crucifixes on afflicted cattle in
+    the belief that they heal.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: healing recipients
+  assigned_to:
+  - fig:5
+  basis: The cattle are described as injured or weather-stricken and treated with
+    the crucifixes.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: great stone as smithing surface
+  literal_form: great stone
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hill-forged crucifix
+  literal_form: small metal crucifixes believed to have been forged in the hills
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: hills as forging place
+  literal_form: hills
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Encounter with hill-smith
+  summary: Ola Simunsson travels with a dog; the dog barks at a hill-man forging on
+    a great stone, and the hill-smith snarls at the dog.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Use of hill-forged healing crucifixes
+  summary: Small metal crucifixes believed to have been forged in the hills are hung
+    on afflicted cattle for healing, and a hill-wrought object is lent out to cure
+    sicknesses.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: hill-dwelling smith forging on stone
+  taxonomy_refs: []
+  basis: The passage reports a hill-man or hill-smith engaged in forging on a great
+    stone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage excerpt does not explicitly identify the being as an elf or
+    dwarf, though the surrounding section title concerns elves and dwarfs.
+- id: motif:2
+  label: supernaturally or hill-forged healing object
+  taxonomy_refs: []
+  basis: Small metal crucifixes are believed to be forged in the hills and used to
+    heal cattle or sicknesses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The healing efficacy is reported as folk belief rather than asserted as
+    an event within a narrative.
+- id: motif:3
+  label: animal confrontation with otherworldly smith
+  taxonomy_refs: []
+  basis: The dog barks at the hill-man and the hill-smith snarls back at the dog.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt gives only a brief interaction and does not develop the dog's
+    function beyond barking.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1789-1790
+  quote_or_summary: '"after sunset or else at high noon"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 1789-1791
+  quote_or_summary: '"Ola Simunsson was coming... had with him a dog, which, on seeing
+    a hill-man forging on a great stone, barked at him"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 1791-1792
+  quote_or_summary: '"the hill-smith, who wore a light-grey coat and blue woollen
+    cap, snarled at the dog"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 1792-1794
+  quote_or_summary: '"small metal crucifixes held to have been forged in the hills
+    in former times"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 1794-1795
+  quote_or_summary: '"hang on cattle hurt in the field or weather-stricken, whereby
+    they trow them to get healed"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: line 1795
+  quote_or_summary: '"one, that used to be lent out to cure sicknesses"'
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and partly elliptical, but its described figures, objects,
+    and actions are clear. Motif labels are descriptive and not tied to taxonomy IDs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the material to another named motif family or tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v2-grimm-stallybrass-archive__l1789-l1795
+  passage_sha256=eb0f7699d038d1a9dc2cbb731205187654791a7f1a571310773cb75545ec304a
+

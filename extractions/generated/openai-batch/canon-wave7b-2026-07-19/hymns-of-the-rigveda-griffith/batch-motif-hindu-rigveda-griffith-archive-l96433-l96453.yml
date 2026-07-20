@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l96433-l96453
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ARANYAKA I / KEITH M / ADHYAYA 2. / I, 2, 2-; lines 96433-96453
+  start: '96433'
+  end: '96453'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is footnote-style commentary. It discusses a possible reference
+    to horse-riding and compares its attestation in Vedic texts and Homeric Greece;
+    mentions a comparison with the sun in relation to Oldenberg's theory; cites a
+    Srauta Sutra reading involving the breast; describes a parrot striking a tree
+    with its chin while mounting and being kept and fed by elites; and glosses a term
+    as the forearm from the elbow in connection with a ceremony.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note says Max Müller treats the referenced material as a clear reference
+    to horse-riding, while adding that horse-riding is not certainly known or referred
+    to in the Rigveda but is known to the Yajurveda and Atharvaveda.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note compares the gradual appearance of riding in Vedic material with
+    riding gradually coming into use in Homeric-age Greece.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A note says that an unspecified item and a comparison with the sun support
+    Oldenberg's theory.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A Srauta Sutra citation is said to give the breast.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The parrot is described as striking a tree with its chin while mounting.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Sayana is reported as saying that the parrot is kept by princes, ministers,
+    and similar persons and is therefore well fed.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note glosses a term as the forearm from the elbow and points to further
+    details of the ceremony.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: parrot
+  description: Animal described as striking a tree with its chin while mounting and
+    as being kept and well fed by elites.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: princes and ministers
+  description: Elite human groups said to keep the parrot.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: animal actor
+  assigned_to:
+  - fig:1
+  basis: The parrot performs the action of striking the tree and is described as kept
+    and well fed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: keepers or patrons
+  assigned_to:
+  - fig:2
+  basis: Princes and ministers are said to keep the parrot.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: tree struck by the parrot's chin
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sun comparison
+  literal_form: comparison with the sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: horse-riding
+  literal_form: reference to horse-riding
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: body parts in ritual note
+  literal_form: breast; forearm from the elbow
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+scenes:
+- id: scene:1
+  label: Scholarly comparison of riding references
+  summary: The note discusses whether horse-riding is attested in the Rigveda and
+    compares this with later Vedic texts and Homeric-age Greece.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Parrot and tree image
+  summary: The passage describes a parrot striking a tree with its chin while mounting
+    and being kept and fed by elite persons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Ritual body-part glosses
+  summary: The commentary notes a Srauta Sutra reading involving the breast and glosses
+    another term as the forearm from the elbow in connection with a ceremony.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: horse-riding as cross-corpus cultural marker
+  taxonomy_refs: []
+  basis: The note explicitly treats horse-riding as a notable reference whose attestation
+    differs across the Rigveda, Yajurveda, Atharvaveda, and Homeric-age Greece.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: This is a scholarly-cultural observation rather than a mythic narrative
+    motif; the underlying primary passage is not included in the supplied excerpt.
+- id: motif:2
+  label: animal-tree contact image
+  taxonomy_refs: []
+  basis: The parrot is described in a concrete action involving mounting and striking
+    a tree with its chin.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The excerpt gives a single explanatory image and does not state a symbolic
+    or mythic function.
+comparison_claims:
+- id: claim:1
+  claim: The note treats horse-riding as more securely attested in the Yajurveda and
+    Atharvaveda than in the Rigveda.
+  claim_level: same_function
+  target: 'Vedic corpus comparison: Rigveda, Yajurveda, Atharvaveda'
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs:
+  - ev:1
+  confidence: medium
+  limitations: The claim concerns the cultural practice of riding, not a mythic motif;
+    the note also says the Rigvedic attestation is uncertain.
+- id: claim:2
+  claim: The note compares the gradual emergence of riding in Vedic material with
+    riding gradually coming into use in Homeric-age Greece.
+  claim_level: same_function
+  target: Homeric-age Greek riding practice
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: No historical contact, common inheritance, or mythic equivalence is
+    asserted in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 96433-96437
+  quote_or_summary: A note says Max Müller sees a clear reference to horse-riding;
+    riding is uncertain in the Rigveda, known in the Yajurveda and Atharvaveda, and
+    compared with gradual use in Homeric-age Greece.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain per supplied metadata; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 96439-96440
+  quote_or_summary: A note says that this point and a comparison with the sun favor
+    Oldenberg's theory.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain per supplied metadata; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: '96442'
+  quote_or_summary: A note cites Sankhayana Srauta Sutra XVII, 16, 1 as giving the
+    breast.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain per supplied metadata; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: 96442-96443
+  quote_or_summary: A note describes a parrot, while mounting, striking a tree with
+    its chin.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain per supplied metadata; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: 96443-96444
+  quote_or_summary: Sayana is reported as saying that the parrot is kept by princes,
+    ministers, and others and is well fed.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain per supplied metadata; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: 96446-96448
+  quote_or_summary: A note glosses a term as the forearm from the elbow and refers
+    readers to further details of the ceremony.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain per supplied metadata; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The supplied lines are OCR-noisy footnotes or commentary rather than a continuous
+    mythic passage; motifs are therefore minimal and tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No sacred-tree, sacrifice, solar, or other taxonomy motif family was assigned because the excerpt does not provide enough narrative or symbolic context.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l96433-l96453
+  passage_sha256=38c09718b741da219e727ad50da391c9b6e569a4810432903f0ba0c56ca6cd6c
+

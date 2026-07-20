@@ -1,0 +1,187 @@
+---
+record_id: batch.motif.native-american-the-sia-stevenson-archive-l7635-l7879
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+passage_locator:
+  label: ETHNOLOGY / OF THE / UN6AVA DISTRICT, HUDSON BAY TERRITORY. / CONTENTS.;
+    lines 7635-7879
+  start: '7635'
+  end: '7879'
+  translation: The Sia
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is front matter and a table of contents and illustrations for
+    an ethnological work on the Ungava District, Hudson Bay Territory. It lists ethnographic
+    topics, including religion, outdoor life, material culture, amusements, art, and
+    a section on story-telling and folklore. The folklore entries are mainly origin
+    or etiological headings concerning the Innuit, the coming of white people, living
+    things on earth and in water, and several birds or bird markings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as an ethnological account of the Ungava District,
+    Hudson Bay Territory, by Lucien M. Turner.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list a section titled story-telling and folklore.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The contents list several folklore headings beginning with or concerning
+    origins: the Innuit, living things on earth and in water, guillemots, the raven,
+    spots on the loon''s back, gulls, hawks, and the swallow.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents include an entry on the coming of white people.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The illustrations list material objects such as dishes, sealskin containers,
+    transport items, weapons, ivory carvings, dolls, a medicine lodge, an amulet,
+    clothing, and paint sticks.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Innuit
+  description: A people named in a contents heading for an origin account.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: white people
+  description: A group named in a contents heading concerning their coming.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: living things on the earth and in the water
+  description: Living beings named collectively in a contents heading for an origin
+    account.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: birds named in folklore headings
+  description: Guillemots, raven, loon, gulls, hawks, and swallow are named in contents
+    headings for origin or etiological accounts.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: subject of origin account heading
+  assigned_to:
+  - fig:1
+  - fig:3
+  - fig:4
+  basis: The contents use origin headings for these people, beings, or birds.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: subject of arrival account heading
+  assigned_to:
+  - fig:2
+  basis: The contents list a heading on the coming of white people.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water, named as a realm in the heading about the origin of living
+    things on earth and in water
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: etiological origin accounts
+  taxonomy_refs: []
+  basis: The contents list multiple folklore entries framed as origins, including
+    origins of the Innuit, living things, several birds, and the quadrangular spots
+    on the loon's back.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a table of contents rather than the narrative text of the
+    stories, so only the presence of origin-account headings is supported.
+- id: motif:2
+  label: arrival of outsiders
+  taxonomy_refs: []
+  basis: The contents include a folklore/story-telling heading titled as the coming
+    of white people.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: No narrative details are provided; the heading alone does not establish
+    plot structure, symbolism, or function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7635-7879
+  quote_or_summary: '"ETHNOLOGY / OF THE / UN6AVA DISTRICT, HUDSON BAY TERRITORY.
+    / By LUCIEN M. TURNER."'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source text; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 7635-7879
+  quote_or_summary: '"Story-telling and folklore 260"'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source text; short excerpt used as evidence.
+- id: ev:3
+  type: quote
+  locator: lines 7635-7879
+  quote_or_summary: Contents headings include "Origin of the Innuit," "The coming
+    of the white people," "Origin of living things on the earth and in the water,"
+    "Origin of the guillemots," "Origin of the raven," "Origin of the quadrangular
+    spots on the loon's back," "Origin of the gulls," "Origin of the hawks," and "Origin
+    of the swallow."
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source text; concise excerpt from contents.
+- id: ev:4
+  type: summary
+  locator: lines 7635-7879
+  quote_or_summary: The illustrations list material culture and visual items, including
+    a wooden dish, sealskin bucket and cup, umiak, dogwhip, bows and arrows, hand
+    spear, ivory tools and carvings, dolls, a violin, an Indian medicine lodge, a
+    bearskin amulet, clothing, headbands, tools, and paint sticks.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The extraction is limited because the supplied passage is front matter and
+    contents/illustrations rather than a myth narrative. Motif candidates are based
+    only on contents headings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another tradition or motif family beyond the listed headings.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-the-sia-stevenson-archive__l7635-l7879
+  passage_sha256=9b60fa22bdf78349c9112002f6659e32bac55d73c78987510e27c8998cd4bc28
+

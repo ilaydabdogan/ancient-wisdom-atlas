@@ -1,0 +1,478 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v3-grimm-stallybrass-archive-l13038-l13084
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+passage_locator:
+  label: SUPERSTITION. / SUPERSTITION. / DIVINATION. / SUPERSTITION.; lines 13038-13084
+  start: '13038'
+  end: '13084'
+  translation: Teutonic Mythology, Volume 3
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contrasts German ordeals as judgments of God, performed by
+    the accused, with later sieve-turning or sieve-running divination used to identify
+    criminals or reveal the future. It describes variants in which a woman or household
+    master balances or holds a sieve with fingers, tongs, or scissors, recites a formula,
+    names suspects, and interprets the sieve’s movement or fall as indicating the
+    guilty person.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ordeals are described as a means of discovering obscure past events and deeds,
+    called judgments of God and used in judicial procedure.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A German ordeal is said to require the accused to perform the ritual personally,
+    not the judge.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Sieve-driving or sieve-turning is described as a practice performed by wise
+    women, witches, conjurors, and respectable persons to expose concealed criminals.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In one described procedure, a woman holds an heirloom sieve between her two
+    middle fingers, utters a spell, and names suspected persons.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The sieve’s swaying or tilting at a named suspect is treated as indicating
+    the culprit.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The practice is said to be used against thieves, wounders in a tumult, and
+    sometimes to reveal future matters such as a girl’s sweetheart.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A variant places the sieve on tongs held between the two middle fingers.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A Danish variant has the master of the house balance the sieve on the point
+    of a pair of scissors.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A Mecklenburg note describes an inherited sieve, inherited scissors, two persons
+    of different families, a dark place, a truth formula, and the sieve falling at
+    the guilty person’s name.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: accused person in German ordeal
+  description: The person accused in an ordeal, required to perform the ritual personally.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: judge
+  description: The judge is explicitly said not to perform the accused person’s ordeal
+    ritual.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: woman holding the sieve
+  description: A woman who holds an heirloom sieve, utters a spell, and names suspected
+    persons.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: wise women, witches, conjurors, and respectable persons
+  description: Classes of people named as performers of sieve-driving or sieve-turning.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: suspected persons
+  description: Persons whose names are recited during the sieve procedure.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: culprit or guilty party
+  description: The person identified when the sieve sways, tilts, or falls at the
+    named person.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: fig:7
+  name_or_label: master of the house in Denmark
+  description: The Danish variant’s performer, who takes the trial in hand and balances
+    the sieve on scissors.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+- id: fig:8
+  name_or_label: two persons of different families
+  description: In the Mecklenburg description, two people from different families
+    raise the sieve in a dark place.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: ritual subject
+  assigned_to:
+  - fig:1
+  basis: The accused must perform the ordeal ritual personally.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: excluded ritual agent
+  assigned_to:
+  - fig:2
+  basis: The ordeal cannot be placed in the judge’s hands.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divinatory operator
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  basis: These figures perform or operate the sieve-based procedure.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  - ev:9
+- id: role:4
+  label: named suspect
+  assigned_to:
+  - fig:5
+  basis: The operator goes over the names of suspected persons.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: revealed culprit
+  assigned_to:
+  - fig:6
+  basis: The culprit or guilty party is known when the sieve moves or falls at the
+    person’s name.
+  evidence_refs:
+  - ev:5
+  - ev:9
+symbols:
+- id: sym:1
+  label: ordeal or judgment of God
+  literal_form: ritual trial used to discover obscure past events and deeds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sieve
+  literal_form: heirloom or inherited sieve used in divination
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: spell or truth formula
+  literal_form: spoken words uttered while naming suspects or asking for truth
+  associated_figures:
+  - fig:3
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:9
+- id: sym:4
+  label: sieve movement
+  literal_form: swaying, tilting, spinning, slipping, or falling of the sieve apparatus
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: sym:5
+  label: tongs or scissors
+  literal_form: implements used to support or lift the sieve in variants of the procedure
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: dark place
+  literal_form: perfectly dark location used in the Mecklenburg variant
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: German ordeal as retrospective discovery
+  summary: The passage presents ordeals or judgments of God as a way to discover obscure
+    past deeds, with the accused required to perform the rite personally.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sieve-turning to identify a culprit
+  summary: A sieve operator holds an heirloom sieve, utters a spell, names suspects,
+    and interprets the sieve’s movement as revealing the culprit.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Variants with tongs, scissors, and darkness
+  summary: The passage records variants in which the sieve is supported by tongs or
+    scissors, including Danish and Mecklenburg procedures; in the Mecklenburg variant
+    two people ask a truth formula in darkness and the sieve falls at the guilty person’s
+    name.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:4
+  label: Uses of sieve divination
+  summary: The sieve procedure is applied to theft, wounding in a tumult, and sometimes
+    future disclosure such as identifying a girl’s sweetheart.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ordeal as divine judgment for discovering hidden guilt
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly describes ordeals as judgments of God and as a retrospective
+    means of discovering obscured past deeds in judicial procedure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a scholarly comparative description, not a narrative myth
+    episode.
+- id: motif:2
+  label: object divination by sieve movement
+  taxonomy_refs: []
+  basis: The sieve’s movement, tilting, spinning, slipping, or falling is used as
+    a sign when suspects’ names are spoken.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: No supplied taxonomy family directly names object divination or sieve
+    divination.
+- id: motif:3
+  label: naming suspects until the guilty name activates a sign
+  taxonomy_refs: []
+  basis: Operators recite names of suspected persons, and the sign occurs at the culprit’s
+    or guilty party’s name.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: This is extracted as a procedural pattern rather than a mythological narrative
+    motif.
+- id: motif:4
+  label: divination for future beloved
+  taxonomy_refs: []
+  basis: The passage states that the sieve procedure was sometimes used to reveal
+    the future, including who should be a girl’s sweetheart.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This use is mentioned briefly and not described in procedural detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage contrasts German ordeal with sieve-turning while showing that
+    both function as means to discover hidden wrongdoing.
+  claim_level: same_function
+  target: German ordeals and later sieve-driving or sieve-turning
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs:
+  - ev:2
+  confidence: medium
+  limitations: 'The passage emphasizes an important procedural difference: the accused
+    performs the German ordeal, whereas sieve-turning may be performed by other operators.'
+- id: claim:2
+  claim: The passage presents French, German, Danish, and Mecklenburg sieve-running
+    descriptions as variants of the same sieve-divination practice.
+  claim_level: same_motif
+  target: sieve-running or sieve-turning in France, Germany, Denmark, and Mecklenburg
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives uneven detail across regions and does not establish
+    historical transmission beyond noting distribution and variants.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13043-13048
+  quote_or_summary: "“ordeals or judgments of God, a retrospective divination” used
+    when past events and deeds were obscure."
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: public domain
+- id: ev:2
+  type: summary
+  locator: lines 13048-13052
+  quote_or_summary: For every German ordeal, the accused must perform the ritual personally;
+    it cannot be placed in the judge’s hands.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: public domain
+- id: ev:3
+  type: summary
+  locator: lines 13052-13056
+  quote_or_summary: Sieve-driving or sieve-turning, practiced since the Middle Ages,
+    is performed by wise women, witches, conjurors, and even respectable persons to
+    reveal concealed criminals.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: public domain
+- id: ev:4
+  type: summary
+  locator: lines 13056-13059
+  quote_or_summary: A woman holds an heirloom sieve between her two middle fingers,
+    utters a spell, and goes through the names of suspected persons.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: public domain
+- id: ev:5
+  type: quote
+  locator: lines 13059-13061
+  quote_or_summary: "“when she came to that of the culprit, the sieve began to sway
+    and tilt over.”"
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: public domain
+- id: ev:6
+  type: summary
+  locator: lines 13061-13064
+  quote_or_summary: The practice is used against thieves and people who wounded others
+    in a tumult, and sometimes to reveal the future, such as who should be a girl’s
+    sweetheart.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: public domain
+- id: ev:7
+  type: summary
+  locator: lines 13070-13072
+  quote_or_summary: The sieve is also laid on a pair of tongs held up between the
+    two middle fingers.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: public domain
+- id: ev:8
+  type: summary
+  locator: lines 13072-13075
+  quote_or_summary: In Denmark, the master of the house balances the sieve on the
+    point of a pair of scissors.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: public domain
+- id: ev:9
+  type: summary
+  locator: lines 13078-13084
+  quote_or_summary: A Mecklenburg description uses an inherited sieve and inherited
+    scissors; two persons of different families lift it in a perfectly dark place,
+    ask in God’s name who stole something, and the sieve falls at the guilty party’s
+    name.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: public domain
+- id: ev:10
+  type: summary
+  locator: lines 13075-13077
+  quote_or_summary: The passage says sieve-running, sieve-chasing, or sieve-dance
+    was very common in France and Germany in the sixteenth and seventeenth centuries.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md
+  rights_note: public domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The procedural extraction is well supported by the passage. Motif classification
+    is less certain because the passage is antiquarian commentary on divination and
+    superstition rather than a mythic narrative, and the available taxonomy has no
+    direct divination category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were applied because the supplied symbol list does not include sieve, scissors, tongs, spell, or darkness.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v3-grimm-stallybrass-archive__l13038-l13084
+  passage_sha256=832174a1bf414fd3fee8ec7b12bc348ade841308688d089d093b74a296ced283
+

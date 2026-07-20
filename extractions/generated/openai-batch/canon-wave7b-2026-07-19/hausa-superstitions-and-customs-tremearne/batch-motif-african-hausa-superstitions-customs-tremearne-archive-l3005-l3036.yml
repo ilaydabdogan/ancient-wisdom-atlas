@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l3005-l3036
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: ANIMALS  RESEMBLE  HUMAN  BEINGS    43 / ANIMALS  RESEMBLE  HUMAN  BEINGS    45
+    / CHAPTER  IV. / PERSONAL  CHARACTERISTICS  AND  VIRTUES.; lines 3005-3036
+  start: '3005'
+  end: '3036'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A chapter section on personal characteristics and virtues gives ethnographic
+    comments and proverbs about blind people, women’s speech, hairdresser gossip,
+    bravery, and a proverb in which Death admires valour but cannot destroy it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens Chapter IV, headed “Personal Characteristics and Virtues,”
+    and lists topics including a blind man, a woman's tongue, and bravery.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A blind man is said to be very cunning, with a proverb warning against gambling
+    with jack-stones or cowries against him because he will hide one under his feet.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The narrator states that there are many blind people in Northern Nigeria and
+    identifies Kano as especially bad for eyesight.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Garrulous females are noted, and a saying states that a woman's strength is
+    a multitude of words.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A woman's silence is described as evidence that something is radically wrong.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A hairdresser is said to be famous for scandal, and that scandal may cause
+    trouble.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Courage is described as greatly admired among a people said to have had to
+    fight continuously for existence.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A proverb states that Death admires valour and may kill the body but cannot
+    destroy the virtue of valour.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: blind man
+  description: A blind man described as very cunning in a proverb about gambling with
+    jack-stones or cowries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: woman / garrulous females
+  description: Women characterized through sayings about many words, strength in speech,
+    and unusual silence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: hairdresser
+  description: A hairdresser described as famous for scandal that may cause trouble.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Death
+  description: Death is personified in a proverb as admiring valour, killing the body,
+    but not destroying valour.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: proverbial cunning gambler
+  assigned_to:
+  - fig:1
+  basis: The passage says the blind man is supposed to be very cunning and gives a
+    gambling proverb as the example.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: speaker whose words are social strength
+  assigned_to:
+  - fig:2
+  basis: The passage cites a saying that a woman's strength is a multitude of words
+    and treats silence as abnormal.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: bearer of scandalous speech
+  assigned_to:
+  - fig:3
+  basis: The hairdresser is described as famous for scandal, and the scandal may cause
+    trouble.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: personified death that judges valour
+  assigned_to:
+  - fig:4
+  basis: Death is capitalized and referred to as admiring valour while being unable
+    to destroy that virtue.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: jack-stones or cowries
+  literal_form: gaming pieces used in the blind-man proverb
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: woman's tongue / multitude of words
+  literal_form: tongue and many words as the named form of a woman's strength
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: personified Death
+  literal_form: Death as a female personified being in a proverb
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Warning against gambling with a blind man
+  summary: A proverb warns that a blind man is cunning in a game with cowries or jack-stones
+    and may hide a piece under his feet.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Women's words and hairdresser scandal
+  summary: Sayings and comments present women’s many words as strength, silence as
+    abnormal, and hairdresser scandal as socially troublesome.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Bravery and Death
+  summary: Courage is praised, and a proverb says that Death admires valour and can
+    kill the body but cannot destroy the virtue.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: cunning blind man in gambling proverb
+  taxonomy_refs:
+  - wisdom
+  basis: The passage gives a proverb warning not to gamble with a blind man because
+    he is certain to hide a game piece under his feet.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a proverb and social stereotype in an ethnographic passage, not
+    a full mythic narrative.
+- id: motif:2
+  label: speech as social power and danger
+  taxonomy_refs:
+  - wisdom
+  basis: The passage cites a saying that a woman's strength is a multitude of words
+    and notes that hairdresser scandal may cause trouble.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The motif is derived from sayings and the narrator’s framing; it should
+    not be generalized beyond the cited passage without review.
+- id: motif:3
+  label: valour survives bodily death
+  taxonomy_refs: []
+  basis: A proverb states that Death admires valour and may kill the body but cannot
+    destroy that virtue.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: Only a brief proverbial formulation is present; no wider mythic context
+    is supplied in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the hairdresser’s reputation for scandal
+    in Nigeria with a similar reputation in the narrator’s unspecified “here.”
+  claim_level: same_function
+  target: hairdresser as source of scandal in Nigeria and in the narrator’s unspecified
+    comparison setting
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison setting is not named, and the claim is filtered through
+    the narrator’s brief ethnographic aside.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 3005-3013
+  quote_or_summary: Chapter IV is headed “Personal Characteristics and Virtues” and
+    lists topics including a blind man, a woman's tongue, and bravery.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; provided passage text allowed for use.
+- id: ev:2
+  type: summary
+  locator: lines 3014-3020
+  quote_or_summary: A blind man is said to be very cunning; a proverb warns not to
+    gamble with jack-stones or cowries against him because he will hide one under
+    his feet.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; provided passage text allowed for use.
+- id: ev:3
+  type: summary
+  locator: lines 3020-3023
+  quote_or_summary: The narrator states that many blind people live in Northern Nigeria
+    and says Kano is the worst place for eyesight.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; provided passage text allowed for use.
+- id: ev:4
+  type: quote
+  locator: lines 3024-3029
+  quote_or_summary: The passage says, “A woman's strength is a multitude of words,”
+    and adds that when a woman is silent something is radically wrong.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; provided passage text allowed for use.
+- id: ev:5
+  type: summary
+  locator: lines 3029-3033
+  quote_or_summary: The passage says words can often be ignored, but a hairdresser
+    is famous “there as here,” and her scandal may cause trouble.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; provided passage text allowed for use.
+- id: ev:6
+  type: summary
+  locator: lines 3034-3036
+  quote_or_summary: Courage is greatly admired; a proverb says even Death admires
+    valour and, though she may kill the body, she cannot destroy that virtue.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; provided passage text allowed for use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Extraction is based on a short ethnographic prose passage with several proverbs.
+    Motif identification is tentative because the passage is not a complete narrative
+    myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional figures, objects, or external comparisons were added beyond the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l3005-l3036
+  passage_sha256=bd4261fd9ec085b4c648900e9e605308923783d01d1872547aaaf1b6cc25ae80
+

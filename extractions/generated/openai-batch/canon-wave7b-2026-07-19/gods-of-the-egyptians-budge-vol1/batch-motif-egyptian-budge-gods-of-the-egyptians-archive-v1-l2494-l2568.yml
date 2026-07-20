@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l2494-l2568
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: SLAYER AND EATER OF THE GODS / IZSZI8 / SLAYER AND EATER OF THE GODS 51 /
+    SLAYER AND EATER OF THE GODS; lines 2494-2568
+  start: '2494'
+  end: '2568'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragment headed “Slayer and Eater of the Gods” identifies an ashem/ashemu
+    figure and says that what he finds on his way he eats greedily. The passage then
+    states that the protection of Unas is before all the sahu in the horizon, calls
+    Unas the eldest of the old ones, mentions offerings in hundreds and thousands,
+    says he has gone round, and says a hand has been given to him as the great sekhem.
+  language: English with Egyptian transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed “Slayer and Eater of the Gods.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A figure or entity is identified as “the ashem, the ashem of the ashemu great.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The same male subject finds something on his way and eats it greedily.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The protection of Unas is said to be before that of all the sahu in the horizon.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Unas is called the eldest of the old ones.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that he has offered hundreds and thousands.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A male subject is said to have gone round.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A hand is said to have been given to him as the great sekhem.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the ashem / ashemu great
+  description: A figure or entity named in the passage as “the ashem, the ashem of
+    the ashemu great,” associated with finding something on his way and eating it
+    greedily.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Unas
+  description: Named figure whose protection is placed before the sahu in the horizon,
+    who is called the eldest of the old ones, and who is associated with offerings,
+    going round, and receiving a hand as the great sekhem.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: the sahu all in the horizon
+  description: A collective group named in relation to the protection of Unas in the
+    horizon.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: the old ones
+  description: A collective group with respect to whom Unas is called the eldest.
+  role_refs: []
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: greedy eater on the way
+  assigned_to:
+  - fig:1
+  basis: The passage says that what he finds on his way he eats greedily.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: protected or preeminent figure
+  assigned_to:
+  - fig:2
+  basis: The protection of Unas is stated to be before that of all the sahu in the
+    horizon.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: eldest of the old ones
+  assigned_to:
+  - fig:2
+  basis: Unas is explicitly called the eldest of the old ones.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: offerer of hundreds and thousands
+  assigned_to:
+  - fig:2
+  basis: The passage states that he has offered hundreds and thousands.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: recipient of the hand as great sekhem
+  assigned_to:
+  - fig:2
+  basis: The passage says a hand has been given to him as the great sekhem.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: horizon sahu group
+  assigned_to:
+  - fig:3
+  basis: The sahu are named collectively as being in the horizon and as a comparison
+    point for the protection of Unas.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: way
+  literal_form: his way
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: horizon
+  literal_form: the horizon
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: hand
+  literal_form: the hand given to him as the great sekhem
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:4
+  label: hundreds and thousands
+  literal_form: hundreds and thousands
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: The ashem eats what he finds
+  summary: The ashem/ashemu figure is described as finding something on his way and
+    eating it greedily.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Unas before the horizon sahu
+  summary: Unas is placed in a relationship of superior or prior protection before
+    all the sahu in the horizon and is called eldest of the old ones.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Offerings, going round, and receiving the hand
+  summary: The passage says that he has offered hundreds and thousands, has gone round,
+    and has been given the hand as the great sekhem.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: slayer and eater of gods or encountered beings
+  taxonomy_refs: []
+  basis: The heading names a “Slayer and Eater of the Gods,” and the body says the
+    ashem figure eats greedily what he finds on his way.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is fragmentary; the act of slaying is present in the heading
+    but not narrated in the supplied body text, and the eaten object is not explicitly
+    identified in the quoted lines.
+- id: motif:2
+  label: exaltation of Unas among horizon beings
+  taxonomy_refs: []
+  basis: Unas’s protection is placed before all the sahu in the horizon, and Unas
+    is called the eldest of the old ones.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the broader mythic setting or the exact nature
+    of the sahu and old ones within this excerpt.
+- id: motif:3
+  label: empowerment through receiving the hand as sekhem
+  taxonomy_refs: []
+  basis: The passage states that a hand has been given to him as the great sekhem.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: The meaning of the hand and sekhem is not explained in the supplied passage,
+    so the motif label remains descriptive and tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2494-2568, heading
+  quote_or_summary: "“SLAYER AND EATER OF THE GODS”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2494-2568
+  quote_or_summary: "“this [is] the ashem, the ashem of the ashemu great. [What] he
+    findeth”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2494-2568
+  quote_or_summary: "“on his way ... he eateth it greedily.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 2494-2568
+  quote_or_summary: "“The protection of Unas [is] before [that of] the sahu all in
+    the horizon.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 2494-2568
+  quote_or_summary: "“Unas this is the eldest of the old ones.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: quote
+  locator: lines 2494-2568
+  quote_or_summary: "“thousands, he hath offered hundreds.”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:7
+  type: quote
+  locator: lines 2494-2568
+  quote_or_summary: "“He hath gone round”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:8
+  type: quote
+  locator: lines 2494-2568
+  quote_or_summary: "“Hath been given to him the hand as the sekhem great”"
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short, fragmentary passage containing transliteration
+    and English glosses. Motif candidates are descriptive only; no comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy references are directly supported by this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l2494-l2568
+  passage_sha256=565f875fc1e052ec32cdb43eed4eb915d05d0b122ad286944f537fd909677fb8
+

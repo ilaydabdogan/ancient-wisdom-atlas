@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l48234-l48250
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXXXII / SECTION CCXXXIII / SECTION CCXXXIV / SECTION CCXXXV; lines
+    48234-48250
+  start: '48234'
+  end: '48250'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the conduct expected of a Brahmana: faith, self-restraint,
+    wisdom, lack of malice, discernment of righteousness and inequity, pursuit of
+    Knowledge, and performance of scriptural acts. It contrasts this with a person
+    lacking clear vision, who confuses right and wrong and undergoes repeated rebirths
+    and deaths.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Brahmana who follows scriptural observances, has faith, exercises self-restraint,
+    possesses wisdom, lacks envy and malice, and knows the distinction between righteousness
+    and inequity succeeds in crossing difficulties.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Brahmana with fortitude, heedfulness, self-restraint, control of soul, and
+    transcendence of joy, pride, and wrath does not languish in grief.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ordained course of conduct for a Brahmana includes striving for Knowledge
+    and performing scriptural acts.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A person without clear vision may do wrong while wishing to do right, or do
+    right while wishing to do wrong.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A person who does not know the two kinds of acts undergoes repeated rebirths
+    and deaths.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Brahmana
+  description: A Brahmana described as faithful, self-restrained, wise, free from
+    envy and malice, and conversant with righteousness.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: person without clear vision
+  description: A person described as lacking clear vision, confusing right and wrong,
+    and not knowing the two kinds of acts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: disciplined seeker of Knowledge
+  assigned_to:
+  - fig:1
+  basis: The passage says the Brahmana should follow scriptural observances, cultivate
+    self-restraint and wisdom, strive for Knowledge, and perform scriptural acts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: undiscerning fool
+  assigned_to:
+  - fig:2
+  basis: The passage calls such a person a fool and describes confusion between right
+    and wrong acts.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: instruction on Brahmana conduct and discernment
+  summary: The passage sets out virtues and practices by which a Brahmana avoids difficulties
+    and grief, then contrasts this with the fate of an undiscerning person who confuses
+    right and wrong and experiences repeated rebirths and deaths.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: wisdom and disciplined conduct overcoming difficulty
+  taxonomy_refs:
+  - wisdom
+  basis: The passage links wisdom, self-restraint, faith, scriptural observance, and
+    discernment with success in crossing difficulties and avoiding grief.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a didactic ethical pattern rather than a narrative episode.
+- id: motif:2
+  label: lack of discernment leading to repeated rebirth and death
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage states that one who does not know the two kinds of acts must
+    undergo repeated rebirths and deaths.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes cyclic rebirth as a consequence of ignorance, not
+    a single death-and-return event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 48234-48239
+  quote_or_summary: A faithful, self-restrained, wise, non-malicious Brahmana who
+    distinguishes righteousness from inequity succeeds in crossing difficulties.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 48239-48242
+  quote_or_summary: A Brahmana with fortitude, heedfulness, self-restraint, controlled
+    soul, and transcendence of joy, pride, and wrath does not languish in grief.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 48242-48245
+  quote_or_summary: The old ordained conduct for a Brahmana is to seek Knowledge,
+    perform scriptural acts, and thereby obtain success.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 48245-48249
+  quote_or_summary: A person lacking clear vision may do wrong while intending right,
+    or do right while intending wrong, and is called a fool.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: 48249-48250
+  quote_or_summary: '"Not knowing the two kinds of acts, one has to undergo repeated
+    rebirths and deaths."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal ethical instruction is clear. Motif assignment is limited because
+    the passage is didactic rather than narrative, and no direct comparison is stated
+    in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage contains no supported literal symbol from the provided symbol list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l48234-l48250
+  passage_sha256=9deb524b2c0c6a67fce75ae589f77df1f6273b42e5706087222ada609fe20f7a
+

@@ -1,0 +1,478 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l21284-l21371
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: RHYTHM  OF  FIRST  MEASURE / CHANGE  OF  TIME / RHYTHMIC  UNIT / COMPARISON  OF  METRIC  UNIT  OF  VOICE  AND  DRUM;
+    lines 21284-21371
+  start: '21284'
+  end: '21371'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: The Symbols of Songs Which Never Were Sung
+  summary: The passage describes Chippewa medicine poles at Lac du Flambeau, explains
+    their visible banners and symbols, and recounts an origin and later custom in
+    which a fasting dream, war success, an unsung dream-song, and healing power are
+    connected to the pole.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Tall poles stand beside many houses in the Chippewa village at Lac du Flambeau,
+    each with a cloth-covered frame fastened so it can swing in the wind.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some banners bear red and blue outlined figures; recognizable figures include
+    the sun, moon, stars, and birds, while bundles of faded rags are tied high on
+    many poles.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Questions about the poles are described as likely to receive evasive answers,
+    and local non-specialist explanations connect them superficially with death or
+    evil spirits.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the story of a medicine pole would include a man's boyhood
+    dream, failure to fulfill that dream, and struggle against sickness and death.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the stated origin, a young man blackened his face, went away to fast, and
+    dreamed of thunderbirds and the tall tree on which they lived.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After returning home, the young man cut down a tall straight tree, made it
+    into a pole, placed it at his door, and fixed a deerskin image of the dream-birds
+    at the top.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: In a later custom, the young man waited to see whether the dream came true;
+    if he fulfilled a war dream, he did not erect a pole and instead first sang the
+    dream-song on the warpath.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: If he lacked the opportunity to go to war, he pictured the dreamed objects
+    on deerskin or cloth, and the song was never sung.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A man associated with such an unsung dream-song was supposed to have special
+    power to cure the sick.
+  category: attribute
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:10
+  text: In spring, the owner of a pole may take it down, lay it on the ground, make
+    a feast, invite friends, and speak about the pole.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: medicine-pole owner / man who dreamed a dream
+  description: A man whose dream is represented by a pole beside his house; the passage
+    says the mysterious strength of his vision is in him and that he has power against
+    death.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: young fasting dreamer
+  description: A young man who blackened his face, fasted, dreamed of thunderbirds
+    and their tall tree, and made the first described pole representation of his dream.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: thunderbirds
+  description: Bird beings seen by the young man in his dream, living on a tall tree.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: friends invited to the pole feast
+  description: Friends whom the pole owner asks to come when he takes the pole down
+    and makes a feast in springtime.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: fasting dreamer
+  assigned_to:
+  - fig:2
+  basis: The young man blackened his face, went away to fast, and received a dream.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: keeper of an unfulfilled dream represented by a pole
+  assigned_to:
+  - fig:1
+  basis: When the war dream is not fulfilled, the dreamed objects are pictured on
+    deerskin or cloth and the song is not sung.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:3
+  label: curer of the sick / holder of power against death
+  assigned_to:
+  - fig:1
+  basis: The passage states that such a man was supposed to have special curing power
+    and describes the pole as signifying power against death.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:4
+  label: dream beings
+  assigned_to:
+  - fig:3
+  basis: The thunderbirds are seen in the dream and are pictured on deerskin for the
+    pole.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: participants in pole feast
+  assigned_to:
+  - fig:4
+  basis: The pole owner asks friends to come when he makes a feast and speaks about
+    the pole.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: medicine pole
+  literal_form: Tall pole beside a house, made from a trimmed tree, with a framed
+    cloth or deerskin image fastened at the top.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: thunderbirds / dream birds
+  literal_form: Birds seen in the dream and pictured on deerskin or on banners.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: celestial figures on banners
+  literal_form: Recognizable symbols of the sun, moon, and stars on pole banners.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: deerskin or cloth image of the dream
+  literal_form: A deerskin or cloth bearing pictured birds, sun, stars, or other objects
+    seen in the dream.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: unsung dream-song
+  literal_form: A song that came in a dream but was never sung when the dream was
+    not fulfilled in war.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: fluttering rag bundles
+  literal_form: Bundles of faded rags tied high on many poles and fluttering in the
+    breeze.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Medicine poles visible in the village
+  summary: The passage describes poles beside houses at Lac du Flambeau, with frames,
+    banners, celestial and bird figures, and fluttering bundles of cloth or rags.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Questioning and guarded significance
+  summary: Inquiries about the poles receive evasive or superficial explanations,
+    while the passage states that their fuller meaning concerns a man's dream and
+    struggle with sickness and death.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Origin dream and first pole representation
+  summary: A young man fasts, dreams of thunderbirds and their tall tree, returns
+    home, makes a pole from a tree, and fixes a deerskin image of the dream-birds
+    at its top.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Later choice between fulfilled war dream and medicine pole
+  summary: 'In the later custom, the dreamer waits: if the war dream is fulfilled,
+    he sings the dream-song on the warpath and erects no pole; if not, he pictures
+    the dream objects, the song remains unsung, and he is understood to have curing
+    power.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Spring pole feast
+  summary: The pole owner may take the pole down in spring, lay it on the ground,
+    make a feast, invite friends, and speak about the pole.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: fasting vision followed by ritual representation
+  taxonomy_refs:
+  - initiation
+  basis: A young man blackens his face, fasts, receives a dream, and represents the
+    dream by making and displaying a pole with images.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage frames the fasting as tribal custom, but the larger initiation
+    context is only cross-referenced, not included here.
+- id: motif:2
+  label: dream-song never sung and converted into visible symbols
+  taxonomy_refs: []
+  basis: When the dream is not fulfilled through war, the dream objects are painted
+    on deerskin or cloth and the song remains unsung.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a passage-specific pattern; no wider taxonomy reference is supplied
+    for the song aspect.
+- id: motif:3
+  label: tree or pole as bearer of dream power
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The dream includes a tall tree where thunderbirds live, and the returned
+    dreamer makes a pole from a tall straight tree and mounts the dream image on it.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call the tree a world axis or cosmic tree;
+    the taxonomy reference is only a cautious candidate based on the tree-pole relation
+    and dream beings.
+- id: motif:4
+  label: unused war power redirected toward healing and death resistance
+  taxonomy_refs: []
+  basis: If the dream is not used against a human foe, the man is said to have special
+    power to cure sickness and greater power against death.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The redirection from war to curing is stated interpretively in the passage,
+    but details of ritual practice are not expanded in this excerpt.
+- id: motif:5
+  label: seasonal public feast for a sacred object
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: In springtime the pole owner may take down the pole, lay it on the ground,
+    make a feast, invite friends, and speak about the pole.
+  evidence_refs:
+  - ev:9
+  confidence: low
+  cautions: Only spring timing is given; a recurring seasonal cycle is suggested but
+    not fully described in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The medicine-pole custom is explicitly connected in the passage with the
+    Chippewa fasting-vigil and dream-song pattern, since the dreamer fasts according
+    to tribal custom and the dream-song may first be sung on the warpath.
+  claim_level: same_function
+  target: Chippewa fasting-vigil and dream-song practices referenced within the same
+    work
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage refers to other pages for related customs, but those pages
+    are not included in the provided text.
+- id: claim:2
+  claim: The medicine pole functions as a visual substitute for a dream-song that
+    was not ritually performed in war.
+  claim_level: same_function
+  target: visual representation of unrealized or unperformed song-power
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This comparison is internal to the passage and does not establish historical
+    contact with another tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21284-21371, paragraph beginning 'In passing through the Chippewa
+    village'
+  quote_or_summary: Tall poles stand beside many houses; frames swing with the wind;
+    newer banners show red and blue figures including sun, moon, stars, and birds;
+    rag bundles flutter high on many poles.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 21284-21371, paragraph beginning 'Inquiry as to the significance'
+  quote_or_summary: Questions about the poles are likely met evasively; a white person
+    asks whether the rags frighten evil spirits, and another local explanation says
+    new poles follow deaths, which the passage calls superficial.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 21284-21371, paragraph beginning 'If the entire story'
+  quote_or_summary: The pole's story would be 'the history of a man's life — his boyhood
+    dream, his failure to fulfill that dream, and his struggle against sickness and
+    death.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short exact excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 21284-21371, origin paragraph beginning 'It is said that the custom'
+  quote_or_summary: A young man blackens his face and goes away to fast; in a dream
+    he sees thunderbirds and the tall tree on which they live.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 21284-21371, origin paragraph after the dream
+  quote_or_summary: The young man returns, cuts down and trims a tall straight tree
+    into a pole, sets it at his door, paints the dream-birds on deerskin, stretches
+    it on a frame, and fastens it at the top of the pole.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 21284-21371, paragraph beginning 'The later custom differed'
+  quote_or_summary: In the later custom, the dreamer waits to see whether the dream
+    comes true; war dreams usually promise success, and if fulfilled, he erects no
+    pole but first sings the dream-song on the warpath.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 21284-21371, paragraph beginning 'If he lacked the opportunity'
+  quote_or_summary: If he has no chance to go to war, he pictures the dreamed objects
+    on deerskin or cloth, and the song is never sung; such a man is supposed to have
+    special power to cure the sick.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; concise summary of provided passage.
+- id: ev:8
+  type: quote
+  locator: lines 21284-21371, interpretive statement beginning 'To one who understands'
+  quote_or_summary: The pole signifies that the dreamer's vision-strength was not
+    used 'against human foe' and that he has power against 'that greater enemy — death.'
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short exact excerpt.
+- id: ev:9
+  type: summary
+  locator: lines 21284-21371, paragraph beginning 'In the springtime'
+  quote_or_summary: In spring, the pole owner frequently takes the pole down, lays
+    it on the ground, makes a feast, invites friends, and speaks about the pole.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; concise summary of provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main passage is clear, but the excerpt begins with unrelated table material
+    and ends mid-sentence after the spring-feast paragraph. Taxonomy assignments are
+    cautious and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. No external taxonomy IDs beyond the supplied lists were added.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l21284-l21371
+  passage_sha256=33c68adac07142e5539a09b730d00ecbeea674ed573e8eea48f2129e3f8b797e
+

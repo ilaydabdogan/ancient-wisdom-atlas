@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.african-ashanti-rattray-archive-l6998-l7035
+source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+passage_locator:
+  label: APPENDIX A / APPENDIX B / APPENDIX C / APPENDIX D; lines 6998-7035
+  start: '6998'
+  end: '7035'
+  translation: Ashanti
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A 1921 letter from T. Robertson describes Shropshire freshwater meres with
+    no outlet that periodically produce a black, foul-smelling scum from decomposed
+    organic matter. Robertson compares this behavior to Rattray’s lake and explains
+    rotten-egg smell, marsh gas, ignition, will-o’-the-wisp, and possible loud reports
+    as effects of decomposing gases rather than necessarily volcanic activity.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a letter from the Geological Survey Office in London, dated
+    14 December 1921, addressed to Rattray and signed by T. Robertson.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:2
+  text: Certain Shropshire lakes or meres are described as freshwater lakes with no
+    outlet.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: About every two years, local people call a phenomenon at these lakes the “breaking
+    of the meres.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Organic matter accumulating and putrefying at the lake bottom becomes buoyant
+    with decomposition gases and rises to the surface.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The risen material forms a black scum with a strong stench.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: Ellesmere is named as the chief of the Shropshire lakes under discussion,
+    and Mr. P. is reported as the surveyor who told Robertson about it.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Robertson states that Rattray’s lake is also fresh and has no outlet, and
+    that the circumstances seem similar to the Shropshire case.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The smell of rotten eggs is described as not necessarily volcanic and as capable
+    of coming from decomposing organic bodies.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Robertson says much of the emitted gas would probably be marsh gas, accompanied
+    by a little phosphoretted hydrogen that may ignite on contact with the atmosphere.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: The ignition of gas is identified as the cause of the will-o’-the-wisp, while
+    any loud report is said to depend on the mixture of gases emitted.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: T. Robertson
+  description: The signer of the letter and the person offering the geological explanation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Rattray
+  description: The addressee of the letter; Robertson refers to “your lake” when comparing
+    the lake phenomenon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Mr. P.
+  description: A surveyor in the district who told Robertson about the Shropshire
+    lake phenomenon.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: local people
+  description: People who know the periodic lake phenomenon as the “breaking of the
+    meres.”
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: geological correspondent and explainer
+  assigned_to:
+  - fig:1
+  basis: The letter is signed by T. Robertson and gives a geological explanation for
+    the lake behavior, smells, gases, and ignition.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: addressee associated with the compared lake
+  assigned_to:
+  - fig:2
+  basis: The salutation addresses Rattray, and Robertson compares the Shropshire meres
+    to “your lake,” which he says is fresh and has no outlet.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: survey informant
+  assigned_to:
+  - fig:3
+  basis: Mr. P. is described as one of Robertson’s men surveying in the district who
+    told him about Ellesmere and the meres.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: local naming community
+  assigned_to:
+  - fig:4
+  basis: The phrase “breaking of the meres” is attributed to local people.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: closed freshwater lake or mere
+  literal_form: Freshwater lake with no outlet.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: black surface scum
+  literal_form: Black scum formed when decomposed organic matter rises to the lake
+    surface.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: rotten-egg smell
+  literal_form: Foul smell attributed to decomposing organic bodies rather than necessarily
+    to volcanism.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: self-igniting marsh gas or will-o’-the-wisp
+  literal_form: Marsh gas with phosphoretted hydrogen igniting when it contacts the
+    atmosphere, identified as the will-o’-the-wisp.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Lettered comparison of lakes
+  summary: Robertson writes from the Geological Survey Office to Rattray and compares
+    the circumstances of Shropshire meres with Rattray’s lake.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Breaking of the meres
+  summary: In outletless Shropshire freshwater meres, decomposed organic matter becomes
+    gas-buoyant and rises as black, foul-smelling scum, a phenomenon locally named
+    the breaking of the meres.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Gas, ignition, and will-o’-the-wisp
+  summary: Robertson explains rotten-egg smell and spontaneous ignition as effects
+    of gases from decomposition, including marsh gas and phosphoretted hydrogen; he
+    links this ignition to the will-o’-the-wisp and notes that a loud report would
+    depend on gas mixture.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: periodic foul eruption from closed waters
+  taxonomy_refs: []
+  basis: The passage describes outletless freshwater meres periodically releasing
+    decomposed matter that rises to the surface as black, stinking scum.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a geological explanation in correspondence, not a mythic narrative;
+    the motif label records a recurring image or natural pattern only.
+- id: motif:2
+  label: will-o’-the-wisp as self-igniting marsh gas
+  taxonomy_refs: []
+  basis: The passage identifies marsh gas with phosphoretted hydrogen igniting on
+    contact with air as the cause of the will-o’-the-wisp.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a naturalistic explanation and does not develop a folklore
+    narrative around the will-o’-the-wisp.
+- id: motif:3
+  label: foul smell explained as decomposition rather than volcanism
+  taxonomy_refs: []
+  basis: The passage states that the smell of rotten eggs is not necessarily volcanic
+    and can come from decomposition of organic bodies.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an explanatory pattern rather than a conventional mythological
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Shropshire meres, especially the Ellesmere
+    case, with Rattray’s lake on the basis that both are fresh and have no outlet,
+    making the circumstances similar.
+  claim_level: same_function
+  target: Shropshire meres / Ellesmere compared with Rattray’s lake
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage gives only limited information about Rattray’s lake beyond
+    its freshness, lack of outlet, and probable frequency of the phenomenon; it does
+    not support historical or cultural contact claims.
+- id: claim:2
+  claim: The passage contrasts a volcanic explanation for rotten-egg smell with an
+    organic-decomposition explanation for the same sensory effect.
+  claim_level: same_function
+  target: Volcanic odor explanation compared with decomposition odor explanation
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an explanatory contrast within a scientific letter, not a comparison
+    between mythic traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7008-7016
+  quote_or_summary: Certain Shropshire freshwater lakes with no outlet are said to
+    undergo the locally named “breaking of the meres,” when decomposed organic matter
+    rises and forms black, foul-smelling scum.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7017-7023
+  quote_or_summary: Robertson says Ellesmere is the chief lake discussed; Mr. P.,
+    a surveyor, reported it; the circumstances seem similar to Rattray’s lake, which
+    is also fresh and has no outlet.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7023-7029
+  quote_or_summary: The rotten-egg smell is explained as possibly from decomposing
+    organic bodies; gases include marsh gas and phosphoretted hydrogen, which can
+    ignite on contact with air and cause the will-o’-the-wisp.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 7029-7030
+  quote_or_summary: Robertson notes that a loud report is not usual but would depend
+    on the mixture of emitted gases.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: citation
+  locator: lines 6998-7006, 7032
+  quote_or_summary: Appendix D presents a letter from the Geological Survey Office,
+    London, dated 14 December 1921, addressed to Rattray and signed T. Robertson.
+  source_text_path: texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md
+  rights_note: Public domain source; citation/summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear as scientific correspondence. Motif confidence is lower
+    because the excerpt is not a mythic narrative and supports only natural-image
+    or explanatory-pattern candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external taxonomy IDs or cross-tradition comparisons were inferred beyond the provided taxonomy labels and the explicit comparison within the passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ashanti-rattray-archive__l6998-l7035
+  passage_sha256=77fa3c3456025a28955b8bbdede3058c8e7dc90c69f10cdd30f4d0fba219525d
+

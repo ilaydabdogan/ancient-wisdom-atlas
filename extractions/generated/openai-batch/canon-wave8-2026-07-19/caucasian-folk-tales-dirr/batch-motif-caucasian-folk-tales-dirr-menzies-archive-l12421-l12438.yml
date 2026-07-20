@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.caucasian-folk-tales-dirr-menzies-archive-l12421-l12438
+source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+passage_locator:
+  label: WHO IS THE MOST STUPID? 287 / THE STUPID WIFE - 289 / THE FIELD OF SALT 291
+    / THE PEOPLE OF KERKENDJ 293; lines 12421-12438
+  start: '12421'
+  end: '12438'
+  translation: Caucasian Folk-Tales
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: "“we can no longer say which are our own legs.”"
+  summary: Some natives of Auch buy similar new brown boots and sit admiring them
+    until evening. They say they want to go home but cannot tell which legs are their
+    own. Another person strikes their backs with a riding-switch, and they jump up,
+    each finding his own legs.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Some natives of Auch bought new brown boots at the bazaar.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The group sat in a circle looking at and admiring their boots for a long time.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: By evening, the bazaar had gradually emptied.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people said they wanted to go home but could not tell which legs were
+    their own because the new boots looked alike.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An unnamed person offered help and made his riding-switch dance on their backs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After being struck, the people sprang up and each found his own legs.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note identifies Auch as a district in Tchetchen beside the rivers Aktasch
+    and Jarakssu.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: natives of Auch
+  description: A group of people from Auch who buy and admire similar new brown boots,
+    become unable to identify their own legs, and then spring up after being struck.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: unnamed helper with riding-switch
+  description: A person who asks why the people do not leave, says something can be
+    done to help, and strikes their backs with a riding-switch.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: foolish or confused group
+  assigned_to:
+  - fig:1
+  basis: They cannot go home because they say they cannot tell which legs are their
+    own while wearing similar boots.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: practical intervener
+  assigned_to:
+  - fig:2
+  basis: The person responds to the group's dilemma by using a riding-switch, after
+    which the group immediately identifies their own legs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: similar new boots
+  literal_form: beautiful new brown boots bought at the bazaar
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: riding-switch
+  literal_form: riding-switch used on the people's backs
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Admiring identical boots at the bazaar
+  summary: The people of Auch sit in a circle at the bazaar admiring their new brown
+    boots until evening.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Confusion over their own legs
+  summary: When asked why they do not leave, the people explain that the similar boots
+    make them unable to tell which legs are their own.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Switch restores action
+  summary: The unnamed person strikes the people's backs with a riding-switch, and
+    they spring up, each finding his own legs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: foolish villagers unable to distinguish their own bodies after acquiring
+    identical objects
+  taxonomy_refs: []
+  basis: The group cannot leave because their similar new boots supposedly prevent
+    them from knowing which legs are theirs.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names the fool-tale or numskull motif.
+- id: motif:2
+  label: absurd problem solved by blows or sudden pain
+  taxonomy_refs: []
+  basis: The intervener strikes the people with a riding-switch, and this immediately
+    makes them spring up and find their own legs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents the action literally as help, but does not explain
+    the helper's intention beyond the immediate effect.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 12421-12424
+  quote_or_summary: Some natives of Auch bought beautiful new brown boots at the bazaar
+    and sat together in a circle admiring them.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: summary
+  locator: 12424-12426
+  quote_or_summary: They sat for a long time; it was evening and the bazaar had gradually
+    emptied.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:3
+  type: quote
+  locator: 12426-12431
+  quote_or_summary: Asked why they did not go away, the people explained that the
+    similar new boots meant they could “no longer say which are our own legs.”
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 12431-12434
+  quote_or_summary: The other person said something could be done to help and made
+    his riding-switch dance on their backs.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:5
+  type: summary
+  locator: 12434-12435
+  quote_or_summary: The people sprang up and each immediately found his own legs.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:6
+  type: summary
+  locator: 12437-12438
+  quote_or_summary: A note states that Auch is a district in Tchetchen beside the
+    rivers Aktasch and Jarakssu.
+  source_text_path: texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md
+  rights_note: Public domain source metadata; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive because
+    the available taxonomy list has no direct fool-tale or numskull category. No comparison
+    claims were made because the passage itself does not support a specific cross-text
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs apply to the boots or riding-switch in this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:caucasian-folk-tales-dirr-menzies-archive__l12421-l12438
+  passage_sha256=22c0043e4bf3a3b6bf8095c7615de38b087743285dbe7a32f4fbc2cc7cdf7754
+

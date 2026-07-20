@@ -1,0 +1,225 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l20373-l20389
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11
+    and 12 / BOOK 8 / BOOK 9; lines 20373-20389'
+  start: '20373'
+  end: '20389'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Kripa, the son of Saradwat, installed Drona's son as generalissimo, at the
+    king's command!
+  summary: At the king's command, Kripa installs Drona's son as generalissimo. After
+    the installation, Ashvatthama embraces Duryodhana and departs with loud roars.
+    Duryodhana, covered with blood, spends the frightful night there while other heroes
+    leave the battlefield in grief and anxiety.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Kripa, son of Saradwat, installs Drona's son as generalissimo at the king's
+    command.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the installation, Ashvatthama embraces Duryodhana.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ashvatthama leaves the spot after causing the ten points to resound with leonine
+    roars.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Duryodhana is described as profusely covered with blood and passing a frightful
+    night there.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Other heroes go quickly away from the battlefield with hearts agitated by
+    grief and reflect anxiously and earnestly.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Kripa, son of Saradwat
+  description: He installs Drona's son as generalissimo at the king's command.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Drona's son / Ashvatthama
+  description: He is installed as generalissimo, embraces Duryodhana, and leaves with
+    leonine roars.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Duryodhana
+  description: He is called the king, gives the command for installation, is embraced
+    by Ashvatthama, and is profusely covered with blood during a frightful night.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: heroes
+  description: They go away from the battlefield with grief-agitated hearts and reflect
+    anxiously.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: installer of generalissimo
+  assigned_to:
+  - fig:1
+  basis: Kripa performs the installation of Drona's son at the king's command.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: newly installed generalissimo
+  assigned_to:
+  - fig:2
+  basis: Drona's son is installed as generalissimo and then departs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: commanding king
+  assigned_to:
+  - fig:3
+  basis: The installation occurs at the king's command; Duryodhana is identified as
+    the king in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: grieving battlefield survivors
+  assigned_to:
+  - fig:4
+  basis: The heroes leave the field of battle with hearts agitated by grief.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Installation of Drona's son as generalissimo
+  summary: Kripa installs Drona's son as generalissimo in obedience to the king's
+    command.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ashvatthama's departure after installation
+  summary: Ashvatthama embraces Duryodhana and leaves, making the directions resound
+    with leonine roars.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Blood-covered king and grieving heroes after battle
+  summary: Duryodhana remains blood-covered during a frightful night, while other
+    heroes withdraw from the battlefield in grief and anxiety.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal command legitimates military office
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Drona's son becomes generalissimo through an installation performed by Kripa
+    explicitly at the king's command.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage concerns battlefield command rather than kingship succession;
+    the taxonomy link is functional and should be reviewed.
+- id: motif:2
+  label: departure from the battlefield after a decisive appointment
+  taxonomy_refs:
+  - departure
+  basis: After being installed, Ashvatthama leaves the spot, and the other heroes
+    quickly leave the battlefield in grief.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The departure is literal and immediate; broader mythic significance is
+    not established within this passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 20373-20375
+  quote_or_summary: '"Kripa, the son of Saradwat, installed Drona''s son as generalissimo,
+    at the king''s command!"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 20375-20377
+  quote_or_summary: '"Ashvatthama embraced that best of kings and left the spot, having
+    caused the ten points to resound with his leonine roars."'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 20377-20378
+  quote_or_summary: Duryodhana is described as profusely covered with blood and passing
+    a frightful night there.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 20379-20381
+  quote_or_summary: The heroes move quickly away from the battlefield with grief-agitated
+    hearts and reflect anxiously and earnestly.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is a brief transitional battlefield scene and does not itself make
+    explicit comparative claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy items are clearly present in this passage; comparison claims are therefore omitted.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l20373-l20389
+  passage_sha256=53f746b1e7ebee117e7178ca51495ee480413ad46ca34a380da079e830309e3c
+

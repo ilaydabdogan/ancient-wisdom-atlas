@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.native-american-chippewa-music-2-densmore-archive-l9088-l9103
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+passage_locator:
+  label: CHIPPEWA    MUSIC- / DEN SMOKE  I / ^» ^- / WOIJDS; lines 9088-9103
+  start: '9088'
+  end: '9103'
+  translation: Chippewa Music II
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: they sang of war as a game with the bodies of the dead as its score.
+  summary: The passage analyzes a recorded Chippewa song, noting its renditions, rhythm,
+    tonality, and interval patterns. It then states that on a homeward journey the
+    Chippewa composed another song, remembering the tread of a pursuing enemy and
+    singing of war as a game scored by dead bodies.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Six renditions of the song were recorded, with the transcription taken from
+    the third rendition.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rhythm and melody tones are described as the same across renditions, while
+    the words vary slightly.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The song is described as minor in tonality, with a repeated short rhythmic
+    unit, different closing rhythm, and a prominent interval of the fourth.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Chippewa composed another song on their homeward journey.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: They remembered the tread of a pursuing enemy.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: They sang of war as a game, with the bodies of the dead as its score.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the Chippewa
+  description: The group said to compose another song on their homeward journey and
+    to sing about war.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: pursuing enemy
+  description: An enemy whose tread is remembered by the Chippewa.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: homeward song composers
+  assigned_to:
+  - fig:1
+  basis: The passage says the Chippewa composed another song on their homeward journey.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: remembered pursuers
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the enemy as pursuing and remembered by their tread.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: singers of war image
+  assigned_to:
+  - fig:1
+  basis: The passage says they sang of war as a game with dead bodies as the score.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tread of the pursuing enemy
+  literal_form: tread
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: war as game
+  literal_form: game
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: dead bodies as score
+  literal_form: bodies of the dead
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Recorded-song musical analysis
+  summary: The passage summarizes the recorded renditions and musical features of
+    the song, including variation in words, repeated rhythm, closing rhythm, and prominent
+    interval.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Homeward journey song about war
+  summary: On a homeward journey, the Chippewa compose another song while remembering
+    the pursuing enemy and depicting war as a game scored by dead bodies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Homeward return accompanied by new song
+  taxonomy_refs:
+  - return
+  basis: The passage states that the Chippewa composed another song on their homeward
+    journey.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a brief ethnomusicological note rather than a full narrative
+    of return.
+- id: motif:2
+  label: War imagined as a game scored by the dead
+  taxonomy_refs: []
+  basis: The passage says they sang of war as a game with the bodies of the dead as
+    its score.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a song image summarized in the source, not a developed mythic
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9088-9100
+  quote_or_summary: Six renditions were recorded; the transcription is from the third.
+    Rhythm and melody tones are consistent, words vary slightly, and the song has
+    minor tonality, a repeated rhythmic unit, different closing rhythm, and a prominent
+    fourth.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: '9102'
+  quote_or_summary: On their homeward journey the Chippewa composed another song.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 9102-9103
+  quote_or_summary: Remembering the tread of the pursuing enemy, they sang of war
+    as a game with the bodies of the dead as its score.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md
+  rights_note: Public domain; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The musical and narrative details are explicit in the supplied passage. Motif
+    identification is cautious because the passage is primarily song analysis with
+    only a brief account of song content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not provide a clearly supported comparative mythological claim beyond internal musical-analysis references.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-2-densmore-archive__l9088-l9103
+  passage_sha256=4aaaafcba26507a1702e4e7c2627fd9b59524a67ba98a61884e276528c633375
+

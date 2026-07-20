@@ -1,0 +1,269 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l14810-l14834
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: RIDIRE NA SGIATHA DEIRGE. 471 / RIDIRE NA SC4IATHA DEIRGE. 473 / RIDIRE NA
+    SGIATHA DEIRGE. 475 / RIDIRE NA SOIATIIA DKIRGE. 177; lines 14810-14834
+  start: '14810'
+  end: '14834'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '" ''S mi," orsa Gaisgeach na Sgiatha deirge.'
+  summary: Fragmentary Scottish Gaelic passage under the title or running heading
+    “RIDIRE NA SGIATHA DEIRGE.” It includes martial-description phrases, a short speech
+    by a female speaker, a statement that a male figure lifted or carried a female
+    figure, lines about music, sorrow, and drinks, and a self-identification by “Gaisgeach
+    na Sgiatha deirge.”
+  language: Scottish Gaelic with English editorial/page headings
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed with the repeated title or running heading “RIDIRE NA
+    SGIATHA DEIRGE.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A martial-description stanza includes phrases such as “clogada cruaidh-chomhraig”
+    and “Urra-sgithinn gheur an taice r'a chneas.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A female speaker, marked by “ors' ise,” speaks the line “Tha barr na laodaig
+    a thoirt cleth.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The text states that “e” lifted or carried “i” at or on his shoulder; the
+    line is fragmentary at the end.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says music was raised and sorrow laid down, followed by lines
+    describing drinks.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: "“Gaisgeach na Sgiatha deirge” speaks a first-person self-identifying phrase,
+    “'S mi.”"
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Gaisgeach na Sgiatha deirge
+  description: Named speaker who says “'S mi”; the name associates the figure with
+    the red shield.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: unnamed female speaker
+  description: A speaker identified only by the Gaelic pronoun/form “ise” after a
+    quoted utterance.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: unnamed male actor
+  description: A male pronoun “e” is the subject of a lifting or carrying action in
+    a fragmentary line.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: unnamed carried female figure
+  description: A female pronoun “i” is the object of the lifting or carrying action
+    in a fragmentary line.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: red-shield named figure
+  assigned_to:
+  - fig:1
+  basis: The figure is called “Gaisgeach na Sgiatha deirge.”
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: first-person speaker
+  assigned_to:
+  - fig:1
+  basis: The named figure is introduced as saying “'S mi.”
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: female speaker
+  assigned_to:
+  - fig:2
+  basis: The quotation is followed by “ors' ise.”
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: lifting or carrying actor
+  assigned_to:
+  - fig:3
+  basis: The line begins “Thog e leis i,” indicating a male subject performing a lifting
+    or carrying action.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: lifted or carried figure
+  assigned_to:
+  - fig:4
+  basis: The same line has “i” as the object of the lifting or carrying action.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: red shield
+  literal_form: Sgiatha deirge / Sgiatha deirge in the title and figure-name
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: drinks
+  literal_form: "“deochanna mine, meisgeach” and “deochanna garga, gachannach”"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: heading and martial-description fragment
+  summary: The passage opens under the “RIDIRE NA SGIATHA DEIRGE” heading and includes
+    fragmentary martial-description language.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: female speech and carrying action
+  summary: An unnamed female speaker says a short line; a following fragment says
+    that a male figure lifted or carried a female figure at or on his shoulder.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: music, drinks, and self-identification
+  summary: The passage mentions music, the laying down of sorrow, and drinks, then
+    has “Gaisgeach na Sgiatha deirge” say “'S mi.”
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: red-shield warrior epithet
+  taxonomy_refs: []
+  basis: The title and the named speaker both use the red-shield designation.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The line range is fragmentary and does not give a complete narrative function
+    for the red shield.
+- id: motif:2
+  label: heroic carrying of a female figure
+  taxonomy_refs: []
+  basis: A fragmentary line states that a male figure lifted or carried a female figure
+    at or on his shoulder.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The surrounding context and identity of the figures are not supplied in
+    this passage.
+- id: motif:3
+  label: music and drink after sorrow
+  taxonomy_refs: []
+  basis: The passage juxtaposes raised music, laid-down sorrow, and described drinks.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage does not provide enough context to confirm a feast, victory,
+    return, or ritual function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 14810-14834
+  quote_or_summary: "“RIDIRE NA SGIATHA DEIRGE. 475”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: 14810-14834
+  quote_or_summary: "“A cheauna-bheart, clogada cruaidh-chomhraig ... Urra-sgithinn
+    gheur an taice r'a chneas.”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 14810-14834
+  quote_or_summary: "“Tha barr na laodaig a thoirt cleth ” ors' ise."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: 14810-14834
+  quote_or_summary: "“Thog e leis i air fras-mhuUach a ghuailne 's air uallach a”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt from a fragmentary line.
+- id: ev:5
+  type: quote
+  locator: 14810-14834
+  quote_or_summary: "“Thog ad ceol 's leag ad bró[n]” followed by lines beginning
+    “Bha deochanna...”"
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: 14810-14834
+  quote_or_summary: "“ 'S mi,” orsa Gaisgeach na Sgiatha deirge."
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is short, fragmentary, and partly affected by OCR irregularities.
+    Literal extraction is possible for named figures, speech, and repeated images,
+    but motif interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious comparison to a wider motif family or nearby corpus tradition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l14810-l14834
+  passage_sha256=eced7038caa3a08cc3e7daab21451d6d85a96e6a7bf8add372af85c6784495b4
+

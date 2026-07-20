@@ -1,0 +1,356 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l102937-l103062
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ARANYAKA IV / ARANYAKA V / ADHYAYA 2. / KRULE U; lines 102937-103062
+  start: '102937'
+  end: '103062'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: The eighty tristichs are the food, and the vasa verscs are the stomach (of
+    the bird).
+  summary: The passage gives a ritual-textual sequence of hymns, stanza counts, omitted
+    verses, metrical conversions, pauses, and a body-image analogy in which eighty
+    tristichs are food and vasa verses are the stomach of a bird. Notes compare Aitareya
+    counting with Sankhayana and later interpretations.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage enumerates sets of Rig Veda hymns and partial hymns arranged as
+    eighty usnih tristichs, with specified final stanzas omitted in several places.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The notes give stanza and metre counts that are made to total 240 usnih units
+    or stanzas.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:3
+  text: The passage states that Gayatri verses become usnih verses by equalization
+    and that every seven Gayatris make six usnihs.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In all three sets of eighty tristichs, a pause is made after the half-stanza.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The eighty tristichs are identified as food, and the vasa verses are identified
+    as the stomach of the bird.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The vasa hymn is described by its opening and ending verses, and the sequence
+    ends with a verse called “Of that milk yielder,” followed by the sadadohas verse.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: An editorial note says the Sankhayana version uses a different set and counting
+    procedure to obtain 240 stanzas, and another note calls that version a complicated
+    attempt to remedy an apparent inaccuracy in the Aitareya account.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:8
+  text: Another note discusses differing explanations of how twenty-one stanzas are
+    counted, contrasting Sayana’s view with an annotator’s view and manuscript evidence.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Indra
+  description: Named in several hymn incipits, including phrases identifying him as
+    a Soma drinker and as “lord of men.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Vrtra
+  description: Named in the hymn incipit “For the strength that slays Vrtra.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Sambara
+  description: Named in the hymn incipit “Under whose sway Sambara.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named hymnic addressee
+  assigned_to:
+  - fig:1
+  basis: Indra appears in multiple cited hymn openings used in the ritual sequence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: named slain adversary
+  assigned_to:
+  - fig:2
+  basis: Vrtra is named only through the phrase about strength that slays him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: named figure in incipit
+  assigned_to:
+  - fig:3
+  basis: Sambara appears in a cited hymn opening, without further narrative in this
+    passage.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: food
+  literal_form: the eighty tristichs as food
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: stomach of the bird
+  literal_form: the vasa verses as the stomach of the bird
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: bird
+  literal_form: the bird named in the parenthetical body analogy
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: milk-yielder
+  literal_form: the verse title or incipit “Of that milk yielder”
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Soma
+  literal_form: Soma named in the incipit about Indra as drinker
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Ordered hymn sequence with omissions
+  summary: The passage prescribes a sequence of hymns and partial hymns, including
+    omissions of certain final stanzas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Metrical equalization and counted completion
+  summary: Gayatri verses are converted into usnih count by equalization, and the
+    larger arrangement is counted toward 240 units.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: scene:3
+  label: Pause and bird-body analogy
+  summary: The passage says the recitation pauses after a half-stanza and describes
+    the eighty tristichs as food and the vasa verses as the bird’s stomach.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Vasa hymn ending and sadadohas separator
+  summary: The vasa hymn is identified by its beginning and ending, including the
+    milk-yielder verse, and is followed by the sadadohas verse.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ordered ritual recitation with selective omission
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage gives a procedural order of hymns, omitted stanzas, pauses, and
+    separator verses for a ritual-textual arrangement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is procedural and exegetical rather than a narrative myth;
+    the sacrifice taxonomy is a broad ritual fit, not explicitly named in the excerpt.
+- id: motif:2
+  label: metrical equivalence and numerical completion
+  taxonomy_refs: []
+  basis: The passage and notes explain how Gayatri and usnih units are equalized and
+    counted to produce a total of 240.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: This is a ritual-metrical pattern, not a mythic narrative motif.
+- id: motif:3
+  label: ritual text mapped onto bird digestion
+  taxonomy_refs: []
+  basis: The eighty tristichs are called food, and the vasa verses are called the
+    stomach of the bird.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only the food-stomach-bird analogy; it does not identify
+    a named mythic bird or a broader cosmological bird myth.
+- id: motif:4
+  label: milk-yielding image at ritual sequence boundary
+  taxonomy_refs: []
+  basis: The vasa sequence is said to end with a verse identified as “Of that milk
+    yielder,” followed by the sadadohas verse.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: Only the verse title or incipit is present; the passage does not explain
+    the milk-yielder image.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s notes compare the Aitareya arrangement with a Sankhayana version
+    that also seeks a total of 240 stanzas but uses different verse lists and counting
+    adjustments.
+  claim_level: same_function
+  target: Sankhayana Srauta Sutra and Sankhayana Aranyaka versions of the stanza arrangement
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is editorial and ritual-metrical, not a direct comparison
+    of myth narratives.
+- id: claim:2
+  claim: The notes compare alternate exegetical solutions for the twenty-one-stanza
+    count, contrasting Sayana’s inclusion of the sadadohas verse with an annotator’s
+    and manuscript-supported splitting of verse 15.
+  claim_level: same_function
+  target: Sayana, an annotator, Eggeling, and MS Ind. Off. 1729 D explanations of
+    the vasa count
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a comparison of scholastic counting methods within the textual
+    tradition; it does not establish a broader mythological motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 102937-103062, opening enumeration and stanza-count note
+  quote_or_summary: The passage begins with the eighty usnih tristichs, cites hymns
+    beginning with phrases such as “Indra who is the greatest drinker of the Soma,”
+    and gives stanza totals culminating in 240 usnih stanzas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 102937-103062, main translation paragraph after note block
+  quote_or_summary: The translation lists three tristichs and further hymns, including
+    incipits mentioning Indra, Sambara, and Vrtra, and specifies several omissions
+    of final stanzas.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 102937-103062, main translation paragraph
+  quote_or_summary: "“Gayatri verses become usnth verses by equalization. Every seven
+    gdyairis make six usnths.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 102937-103062, main translation paragraph on pauses and vasa verses
+  quote_or_summary: "“there is made a pause after the half-stanza. The eighty tristichs
+    are the food, and the vasa verscs are the stomach (of the bird).”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 102937-103062, vasa hymn paragraph
+  quote_or_summary: The vasa hymn is said to begin “Worthy of thee, O wealthy one,”
+    to end “Gainer, gainer of good,” and then to end with the verse “Of that milk
+    yielder,” followed by the sadadohas verse.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 102937-103062, Sankhayana note
+  quote_or_summary: A note reports that Sankhayana’s materials use alternate Rig Veda
+    selections and counts to arrive at 240 stanzas, including usnihs, gayatris, kakubhs,
+    and satobrhatis.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: quote
+  locator: lines 102937-103062, editorial note after Sankhayana count
+  quote_or_summary: "“This complicated version ... probably arises from an attempt
+    to remedy the apparent inaccuracy of the Aitareya ...”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 102937-103062, note on twenty-one stanzas and verse 15
+  quote_or_summary: The note explains Sayana’s view that the sadadohas verse makes
+    up the twenty-first stanza, then reports another view that verse 15 is split into
+    ekapada and dvipada, with manuscript evidence cited.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is largely technical ritual and metrical commentary with OCR
+    irregularities. Symbolic extraction is strongest for the explicit food, stomach,
+    bird, Soma, and milk-yielder language; mythological motif assignment should be
+    reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported serpent, mountain, fire, tree, flood, or heroic narrative motif was assigned. Vrtra and Sambara are retained only as named figures in hymn incipits.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l102937-l103062
+  passage_sha256=56eb385cd7805a93fb99922bde33acd4c776e3dd6df5ea7d13ded48c49efbf76
+

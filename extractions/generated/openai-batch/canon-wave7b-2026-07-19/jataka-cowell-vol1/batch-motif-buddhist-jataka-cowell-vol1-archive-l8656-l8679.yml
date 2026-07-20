@@ -1,0 +1,253 @@
+---
+record_id: batch.motif.buddhist-jataka-cowell-vol1-archive-l8656-l8679
+source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+passage_locator:
+  label: VEDABBHA-JATAKA. / N  AKKHATTA  -  J  AT  AK  A. / DUMMEDHA-JATAKA. / CULA-JANAKA-JATAKA.;
+    lines 8656-8679
+  start: '8656'
+  end: '8679'
+  translation: The Jataka; or, Stories of the Buddha's Former Births, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Toil on, my brother; still in hope stand fast; / Faint not, nor tire..."'
+  summary: In the Cula-Janaka-Jataka frame, the Master tells a story at Jetavana about
+    a backsliding Brother. A king under the white canopy of sovereignty recites a
+    stanza urging perseverance through distress, saying he himself reached shore after
+    his woes. The backsliding Brother attains Arahatship, and the Buddha is identified
+    as King Janaka.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The story is said to have been told by the Master at Jetavana about another
+    backsliding Brother.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the incidents related here will be given in the Maha-janaka-Jataka.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A king is seated beneath the white canopy of sovereignty and recites a stanza.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stanza urges a brother to toil on, remain hopeful, and not faint or tire
+    despite being sorely harassed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The speaker says that after passing beyond his woes, he fought his way ashore.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The backsliding Brother wins Arahatship.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The All-wise Buddha is identified as King Janaka.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: The Master / All-wise Buddha
+  description: Teacher at Jetavana who tells the story; later identified as King Janaka.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Backsliding Brother
+  description: A Brother about whom the story is told; he wins Arahatship at the end
+    of the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: King Janaka
+  description: A king seated beneath the white canopy of sovereignty who recites the
+    exhortatory stanza; identified as the Buddha in a former birth.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Storyteller and teacher
+  assigned_to:
+  - fig:1
+  basis: The passage says the Master told the story while at Jetavana.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Backsliding disciple who attains Arahatship
+  assigned_to:
+  - fig:2
+  basis: The story is about a backsliding Brother, and he later wins Arahatship.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: Kingly speaker of moral exhortation
+  assigned_to:
+  - fig:3
+  basis: The king sits beneath the white canopy of sovereignty and recites the stanza
+    urging perseverance.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Former-birth identity of the Buddha
+  assigned_to:
+  - fig:3
+  basis: The passage states that the All-wise Buddha was King Janaka.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: White canopy of sovereignty
+  literal_form: white canopy
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Shore reached after hardship
+  literal_form: shore
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Frame at Jetavana
+  summary: The Master at Jetavana tells a story about a backsliding Brother and notes
+    that the related incidents are also to be given in the Maha-janaka-Jataka.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: King’s exhortation under the canopy
+  summary: A king under the white canopy of sovereignty recites a stanza urging continued
+    effort and hope, citing his own struggle ashore after hardship.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Spiritual result and identification
+  summary: The backsliding Brother wins Arahatship, and the Buddha is identified as
+    King Janaka.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Perseverance through hardship
+  taxonomy_refs:
+  - wisdom
+  basis: The stanza instructs the hearer to keep striving, remain hopeful, and not
+    give up under distress, with the speaker’s own successful struggle offered as
+    support.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The motif is inferred from the brief stanza; the fuller narrative incidents
+    are not included in this passage.
+- id: motif:2
+  label: Reaching safety after ordeal
+  taxonomy_refs: []
+  basis: The speaker says he passed beyond his woes and fought his way ashore.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a compressed retrospective image, not the full
+    ordeal narrative.
+- id: motif:3
+  label: Jataka past-life identification
+  taxonomy_refs: []
+  basis: The passage concludes by identifying the All-wise Buddha as King Janaka.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a standard Jataka-type identification, but only the specific identification
+    stated in the passage is recorded here.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the Cula-Janaka-Jataka material with the Maha-janaka-Jataka
+    by saying the incidents related here will be given there.
+  claim_level: same_motif
+  target: Maha-janaka-Jataka
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states the textual link but does not provide the fuller
+    Maha-janaka-Jataka narrative or enough incident detail for independent comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8656-8661
+  quote_or_summary: The passage names Cula-Janaka-Jataka and says the Master told
+    the story at Jetavana about another backsliding Brother; it also says the incidents
+    will be given in the Maha-janaka-Jataka.
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8662-8668
+  quote_or_summary: 'A king seated beneath the white canopy of sovereignty recites
+    a stanza urging: toil on, stand fast in hope, do not faint or tire, and recalling
+    that he fought his way ashore after his woes.'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; summarized evidence with brief quoted phrasing.
+- id: ev:3
+  type: quote
+  locator: lines 8670-8671
+  quote_or_summary: '"Here too the backsliding Brother won Arahatship. The All-wise
+    Buddha was King Janaka."'
+  source_text_path: texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and mostly clear despite minor OCR noise. Motif candidates
+    are limited because the full Cula-Janaka/Maha-Janaka incident sequence is not
+    provided here.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No external Jataka context was added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-jataka-cowell-vol1-archive__l8656-l8679
+  passage_sha256=4abea7ee87ae0997713a41fbc2311c37e651e67cabf8c3aaf97fb0eed0e10f25
+

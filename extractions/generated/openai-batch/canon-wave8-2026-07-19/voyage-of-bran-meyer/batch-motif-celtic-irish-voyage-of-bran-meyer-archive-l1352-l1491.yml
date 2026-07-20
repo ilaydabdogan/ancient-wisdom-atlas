@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.celtic-irish-voyage-of-bran-meyer-archive-l1352-l1491
+source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+passage_locator:
+  label: KUNO MEYER. / THE VOYAGE OF BRAN SON OF FEBAL / THE END / NOTES; lines 1352-1491
+  start: '1352'
+  end: '1491'
+  translation: The Voyage of Bran, Son of Febal, to the Land of the Living
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'This notes section is mainly philological commentary. It also cites or
+    discusses several mythic/narrative images and parallels: a musical stone at Loch
+    Laig, Manannan crossing the sea in a chariot, a possible chieftain sent from Islay,
+    a gloss on Mongan''s death by a loch, and the word iulchaire as longing or home-sickness.'
+  language: English with Old/Middle Irish citations
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The editor identifies a passage with a musical stone and cites a parallel
+    in which a bronze timpan is compared as more melodious than the stone of Loch
+    Laig.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note on a phrase concerning a chariot across the sea says that, in Serglige
+    Conculaind, Manannan comes in a chariot across the sea.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The cited parallel describes a horseman associated with the maned sea being
+    seen across the sea.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A proposed reading would translate a line as sending a chieftain out of Islay,
+    and the note says this would refer to Artur Mac Bicoir.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A cited gloss says the warband of Chind-Tiri killed Mongan by Loch Lo or Loch
+    Lincei.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note explains iulchaire as sometimes meaning longing and originally denoting
+    longing for home or home-sickness.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Manannan
+  description: Named figure in the cited parallel who comes in a chariot across the
+    sea.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Mongan
+  description: Named figure whose death is mentioned in a cited gloss.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Artur Mac Bicoir
+  description: Named as the possible referent of a proposed translation about a chieftain
+    sent out of Islay.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Warband of Chind-Tiri
+  description: Collective figure in a cited gloss, reported as killing Mongan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sea-chariot traveler
+  assigned_to:
+  - fig:1
+  basis: The note states that Manannan comes in a chariot across the sea in the cited
+    Serglige Conculaind parallel.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: reported victim in death gloss
+  assigned_to:
+  - fig:2
+  basis: The cited gloss says that Mongan was killed by the warband of Chind-Tiri.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: reported killer collective
+  assigned_to:
+  - fig:4
+  basis: The cited gloss identifies the warband of Chind-Tiri as killing Mongan.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: possible chieftain from Islay
+  assigned_to:
+  - fig:3
+  basis: The note says a proposed translation about sending a chieftain from Islay
+    would refer to Artur Mac Bicoir.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: musical stone
+  literal_form: stone of Loch Laig / musical stone
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sea crossing
+  literal_form: sea crossed by chariot or horseman
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: chariot over the sea
+  literal_form: chariot across the sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: loch of Mongan's death
+  literal_form: Loch Lo or Loch Lincei
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Musical stone comparison
+  summary: The note cites a parallel in which a bronze timpan is described as more
+    melodious than the stone of Loch Laig.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Manannan crossing the sea
+  summary: The note cites Serglige Conculaind as a parallel where Manannan comes in
+    a chariot across the sea and is seen as a horseman of the sea.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Mongan killed by a loch
+  summary: A gloss cited in the note says that the warband of Chind-Tiri killed Mongan
+    by Loch Lo or Loch Lincei.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: musical or melodious stone
+  taxonomy_refs: []
+  basis: The passage explicitly refers to another such musical stone and cites the
+    stone of Loch Laig as melodious.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is presented in an editorial note and comparison, not as a full narrative
+    episode in the extracted lines.
+- id: motif:2
+  label: supernatural figure crossing the sea in a chariot
+  taxonomy_refs: []
+  basis: The note cites Manannan coming in a chariot across the sea in a nearby Irish
+    text.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The event belongs to a cited parallel text within the note; the wider
+    narrative context is not included in this passage.
+- id: motif:3
+  label: home-longing or home-sickness
+  taxonomy_refs:
+  - return
+  basis: The passage explains iulchaire as longing and specifically as longing for
+    home or home-sickness.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The evidence is lexical commentary rather than a narrated act of return
+    in this line range.
+- id: motif:4
+  label: death at a loch-side
+  taxonomy_refs: []
+  basis: A cited gloss reports Mongan's killing by Loch Lo or Loch Lincei.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The report is embedded in a note citing a gloss on another poem; no extended
+    scene is provided.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly compares the passage's musical stone with another musical
+    stone in Togail Bruidne Da Chocae, especially the stone of Loch Laig.
+  claim_level: same_motif
+  target: Togail Bruidne Da Chocae; stone of Loch Laig
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is editorial and brief; only a short cited passage is
+    included.
+- id: claim:2
+  claim: The note compares the chariot-across-the-sea image with Serglige Conculaind,
+    where Manannan is said to come in a chariot across the sea.
+  claim_level: same_motif
+  target: Serglige Conculaind; Manannan's sea-crossing in a chariot
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supplies only the editor's citation and a short extract,
+    not the complete narrative context.
+- id: claim:3
+  claim: The note supports a linguistic comparison for iulchaire as longing or home-sickness,
+    including reference to Echtra Condla.
+  claim_level: linguistic_similarity
+  target: Echtra Condla and glossarial uses of iulchaire/eol
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a semantic comparison rather than a direct narrative motif
+    comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: note 17 within lines 1352-1491
+  quote_or_summary: "“Another such musical stone is mentioned...” and the cited translation
+    says the bronze timpan is “more melodious than the stone of Loch Laig.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: note 32 within lines 1352-1491
+  quote_or_summary: "“Thus in Serglige Conculaind ... Manannan comes in a chariot
+    across the sea”; the cited lines include seeing a horseman across the sea."
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: note 56 within lines 1352-1491
+  quote_or_summary: "“The translation would then be, ‘I shall send a chieftain out
+    of Islay,’ which would refer to Artur Mac Bicoir.”"
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: note 59 within lines 1352-1491
+  quote_or_summary: The note cites a gloss on Mongan's death stating that the warband
+    of Chind-Tiri killed Mongan by Loch Lo or Loch Lincei, and adds that Loch Lo is
+    repeatedly mentioned in Togail Bruidne Da Chocae.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: note 63 within lines 1352-1491
+  quote_or_summary: The note says iulchaire can mean “longing” and “seems originally
+    to have denoted ‘longing for home, home-sickness’,” with comparison to Echtra
+    Condla.
+  source_text_path: texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an editorial notes section containing philological remarks
+    and cited parallels. Extracted figures and motifs may belong to cited texts or
+    glosses rather than to the main narrative at this location.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are limited to available refs and only applied where directly supported.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:celtic-irish-voyage-of-bran-meyer-archive__l1352-l1491
+  passage_sha256=fd6335243dca9debee9ed9a868d7e04ff7db1d9cd28060970cacb6ddc57de305
+

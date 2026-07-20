@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l8072-l8090
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: DIVORCE 235 / DIVORCE 237 / DIVORCE 239 / DIVORCE 241; lines 8072-8090
+  start: '8072'
+  end: '8090'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: it is a partnership of love and affection
+  summary: The passage explains the Burmese idea of marriage as an affection-based
+    partnership that should end when affection dies. It presents unbreakable marriage
+    as a hated bond or fetter, links Burmese attitudes to a love of freedom, and says
+    religion has not made marriage binding in this case.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed group or pair lived near one another in peace before chains came,
+    but came to hate each other after the chains arrived.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Burmese idea of marriage is described as a partnership of love and affection.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When love and affection die, the passage says the marriage should be over.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Unbreakable marriage is described as appearing to Burmese people as a fetter
+    or bond that is hateful and inspires hate.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Burmese people are described as loving freedom and hating bonds and dogmas.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says religion has generally made marriage a bond, but that in
+    this case religion has not interfered.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Burmese religion is described as a religion of free men and free women.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Burmese people
+  description: Collective group whose marriage idea is described as affection-based
+    and whose people are said to love freedom and hate bonds and dogmas.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Religion
+  description: Institutional force described as generally making marriage a bond,
+    while in the Burmese case it has not interfered and is called a religion of free
+    men and free women.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: holder of an affection-based marriage concept
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Burmese idea of marriage is a partnership of
+    love and affection.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: freedom-valuing collective
+  assigned_to:
+  - fig:1
+  basis: The passage says they love to be free and hate bonds and dogmas.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: marriage-binding institution in narrator's generalization
+  assigned_to:
+  - fig:2
+  basis: The passage says religion has made a bond of marriage.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: local non-interfering religious context
+  assigned_to:
+  - fig:2
+  basis: The passage says that here religion has not interfered and calls it a religion
+    of free men and free women.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: binding restraint
+  literal_form: chains; fetter; bond
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: free men and free women
+  literal_form: free men and free women
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Close neighbourhood under chains
+  summary: An unnamed group or pair is said to have lived close together peacefully
+    before chains arrived, after which they hated each other.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Marriage as dissoluble partnership
+  summary: Burmese marriage is described as an affection-based partnership that should
+    end when affection dies, rather than persist as an unbreakable bond.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Freedom against religious bondage
+  summary: The passage describes Burmese people as lovers of freedom and states that
+    religion has not made marriage into a bond in this context.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: affection-based dissoluble marriage
+  taxonomy_refs: []
+  basis: Marriage is defined as a partnership of love and affection, and the passage
+    states that when those qualities die, the marriage should end.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a social and ethnographic pattern, not a mythic narrative episode.
+- id: motif:2
+  label: unbreakable marriage as bondage
+  taxonomy_refs: []
+  basis: Unbreakable marriage is described through images of chains, fetter, and bond,
+    and as hateful or hate-inspiring.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The imagery is used in an expository argument; no ritual or mythic event
+    is described.
+- id: motif:3
+  label: religious non-interference and marital freedom
+  taxonomy_refs: []
+  basis: The passage contrasts religion making marriage into a bond with the local
+    statement that religion has not interfered and is associated with free men and
+    free women.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The narrator makes a broad generalization about religion without examples
+    in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage contrasts Burmese marriage with a broader asserted pattern in
+    which religion makes marriage into a binding bond.
+  claim_level: same_function
+  target: general pattern of religiously enforced marriage bonds stated by the narrator
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  limitations: The comparison is based only on the narrator's broad statement in this
+    passage; no specific external tradition or corpus example is provided.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8072-8076
+  quote_or_summary: '"lived in close neighbourhood, in peace and amity" before the
+    chains; afterward, "They got to hate each other."'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: 8077-8079
+  quote_or_summary: '"the Burmese idea of marriage" is that it is "a partnership of
+    love and affection"'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: 8079-8080
+  quote_or_summary: '"when these die, all should be over"'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: 8080-8083
+  quote_or_summary: '"An unbreakable marriage appears to them as a fetter, a bond,
+    something hateful and hate inspiring."'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: quote
+  locator: 8083-8086
+  quote_or_summary: '"they are a people who love to be free" and "hate bonds and dogmas
+    of every description"'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:6
+  type: quote
+  locator: 8086-8089
+  quote_or_summary: '"It is always religion that has made a bond of marriage, and
+    here religion has not interfered."'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:7
+  type: quote
+  locator: 8089-8090
+  quote_or_summary: '"Theirs is a religion of free men and free women."'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is expository ethnography rather than myth narrative. Literal
+    symbolic language is clear, but motif classification should be reviewed for relevance
+    to comparative mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported. The passage's recurring symbolic contrast is freedom versus binding restraint.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l8072-l8090
+  passage_sha256=29e23838f5a069f4d4e6dbf5e23732e472ed19785c643d2d7e95cbd86c5cf5bf
+

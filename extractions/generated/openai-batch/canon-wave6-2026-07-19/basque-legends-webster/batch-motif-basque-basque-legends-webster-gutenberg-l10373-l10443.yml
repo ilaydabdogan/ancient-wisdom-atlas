@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.basque-basque-legends-webster-gutenberg-l10373-l10443
+source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+passage_locator:
+  label: ALTABISKARCO CANTUA. / SONG OF ALTABISCAR. / SONG OF LELO. / SONG OF ALTABISCAR.;
+    lines 10373-10443
+  start: '10373'
+  end: '10443'
+  translation: Basque Legends
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses Basque humorous verses about hardship, including
+    a personified Famine named Petiri Sanz who wanders until settling at St. Pée and
+    causing involuntary fasting. It then presents the song “The Lost Dowry,” in which
+    a speaker receives a small dowry of livestock and onions from her father, only
+    for a wolf, fox, and rats to consume or destroy it.
+  language: English with Basque verse and English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Famine is described as personified and given the name Petiri Sanz, linked
+    by the editor to St. Peter.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The personified Famine wanders through the country seeking a permanent place
+    to settle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Famine is said to be driven away from some places by goods such as rosin,
+    maize, cheese, and cherries.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Famine finally settles at St. Pée on the Nivelle, where the inhabitants have
+    nothing to sell.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: At St. Pée, Famine torments the inhabitants by making them keep many fasts
+    beyond ecclesiastical obligation.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: In “The Lost Dowry,” the speaker says her father has given her a dowry consisting
+    of a sow with pigs, a brood hen with chickens, and a cord of onions.
+  category: object
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:7
+  text: The dowry is lost when a wolf eats the sow, a fox takes the brood hen, and
+    rats gnaw the cord of onions.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The song ends with the speaker saying farewell to the dowry.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:9
+  text: The editor states that the brief song may remind readers of a longer similar
+    strain formerly sung at harvest-homes in the Midland Counties.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Famine / Petiri Sanz
+  description: A personified Famine, named Petiri Sanz, who wanders, settles, and
+    torments inhabitants with forced fasting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Inhabitants of St. Pée
+  description: People at St. Pée on the Nivelle who have nothing to sell and are tormented
+    by Famine.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Father in “The Lost Dowry”
+  description: The speaker’s father, who gives the dowry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Dowry recipient / speaker
+  description: The first-person speaker who receives the dowry and laments its loss.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Wolf
+  description: The animal said to have eaten the sow.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Fox
+  description: The animal said to have taken or killed the brood hen in the literal
+    translation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Rats
+  description: The animals said to have gnawn the cord of onions.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: personified famine and tormentor
+  assigned_to:
+  - fig:1
+  basis: Famine is named, moves through the country, settles, and torments inhabitants
+    with fasts.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: afflicted community
+  assigned_to:
+  - fig:2
+  basis: The inhabitants of St. Pée are described as having nothing to sell and being
+    forced into extra fasting.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dowry giver
+  assigned_to:
+  - fig:3
+  basis: The speaker states that her father gave her the dowry.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: dowry recipient and lamenting speaker
+  assigned_to:
+  - fig:4
+  basis: The first-person speaker claims the dowry as “mine” and says goodbye to it
+    after its loss.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: animal destroyer of provisions
+  assigned_to:
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The wolf, fox, and rats are named as the agents that consume or destroy the
+    dowry goods.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: personified Famine
+  literal_form: Famine given the name Petiri Sanz
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: destitute settlement
+  literal_form: St. Pée on the Nivelle, where the people have nothing to sell
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: small dowry of subsistence goods
+  literal_form: A sow with pigs, a brood hen with chickens, and a cord of onions
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: consuming animals
+  literal_form: Wolf, fox, and rats that eat or damage the dowry goods
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: forced fasting
+  literal_form: Many fasts beyond ecclesiastical obligation imposed by Famine
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Famine seeks and finds a dwelling place
+  summary: Personified Famine wanders through the country, is repelled from places
+    with saleable goods, and finally fixes his abode at St. Pée, where scarcity is
+    complete.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dowry is received
+  summary: The speaker receives from her father a dowry consisting of a sow with pigs,
+    a brood hen with chickens, and a cord of onions.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: Dowry is destroyed by animals
+  summary: The wolf eats the sow, the fox takes the brood hen, and rats gnaw the onions;
+    the speaker bids farewell to the dowry.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Personified famine as wandering settler and tormentor
+  taxonomy_refs: []
+  basis: Famine is made into a named figure who travels, selects a place of residence,
+    and afflicts the inhabitants with enforced fasting.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage frames this as a satirical verse rather than a mythic narrative;
+    no provided taxonomy family directly matches famine personification.
+- id: motif:2
+  label: Loss of humble dowry through animal predation
+  taxonomy_refs: []
+  basis: The song’s plot moves from a small dowry of food-producing goods to its destruction
+    by wolf, fox, and rats.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a comic or lamenting song motif rather than a clearly mythological
+    motif.
+- id: motif:3
+  label: Humorous lament over poverty and scarcity
+  taxonomy_refs: []
+  basis: The editor introduces the material as grim or bitter humour about hardship,
+    and the song humorously reduces the dowry to nothing through successive losses.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The emotional tone is partly supplied by the editor’s framing; the extracted
+    song itself is brief and literal.
+comparison_claims:
+- id: claim:1
+  claim: The editor suggests that “The Lost Dowry” may resemble a longer similar strain
+    formerly sung at harvest-homes in the Midland Counties.
+  claim_level: same_function
+  target: Midland Counties harvest-home song strain
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage gives no text or details of the Midland Counties song,
+    so the resemblance cannot be specified beyond the editor’s cautious note.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10373-10384
+  quote_or_summary: Famine is personified as Petiri Sanz; he wanders seeking a permanent
+    abode, is driven off by available goods in some places, settles at St. Pée where
+    there is nothing to sell, and torments inhabitants with extra fasts.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 10389-10391
+  quote_or_summary: The editor says the brief song may remind readers of a longer
+    similar strain formerly sung at harvest-homes in the Midland Counties.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 10393-10401
+  quote_or_summary: 'In the first stanza of “The Lost Dowry,” the father gives the
+    speaker a dowry: a sow with pigs, a hen with chicks, and a rope or cord of onions.'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 10403-10409
+  quote_or_summary: 'In the second stanza, animals destroy the dowry: the wolf eats
+    the sow, another animal kills the hen or chickens, rats gnaw the onions, and the
+    speaker says goodbye to the dowry.'
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 10411-10427
+  quote_or_summary: The literal translation restates the dowry as a sow with little
+    pigs, a brood hen with chickens, and a cord of onions; then the wolf eats the
+    sow, the fox takes the brood hen, the rats gnaw the onions, and the speaker bids
+    the dowry farewell.
+  source_text_path: texts/public-domain/basque/project-gutenberg/basque-legends-webster.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The literal contents are clear, but motif categorization is limited because
+    the passage is largely editorial commentary and comic song rather than an explicit
+    mythic tale. The only comparison is the editor’s brief, unsupported reference
+    to Midland Counties harvest-home singing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not clearly match the supplied controlled list.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:basque-basque-legends-webster-gutenberg__l10373-l10443
+  passage_sha256=9d44a3d95ff2767857207d9b2e75864ac95324aa95073e52c1de48f21b7fc7a6
+

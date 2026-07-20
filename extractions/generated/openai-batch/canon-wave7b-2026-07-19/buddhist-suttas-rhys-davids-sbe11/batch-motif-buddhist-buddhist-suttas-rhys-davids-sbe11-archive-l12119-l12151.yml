@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.buddhist-buddhist-suttas-rhys-davids-sbe11-archive-l12119-l12151
+source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+passage_locator:
+  label: TO THE / MAHA-SUDASSANA SUTTA. / MAHA-SUDASSANA GATAKA. / MAHA-SUDASSANA
+    SUTTA.; lines 12119-12151
+  start: '12119'
+  end: '12151'
+  translation: Buddhist Suttas (Sacred Books of the East, Vol. 11)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is translator/editorial commentary characterizing the Maha-Sudassana
+    Sutta as a gorgeous poetic fairy tale about the greatest king's glory, meant to
+    show that all is vanity except righteousness. It notes possible rhetorical relations
+    to Vedic hymns, the Lalita Vistara, and the heavenly Jerusalem, and contrasts
+    early Buddhist moral attainment with a later Northern Buddhist aim of happiness
+    in a heaven of bliss.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The commentary describes the Sutta as a wonderful fairy tale and gorgeous
+    poem about the greatest possible glory and majesty of the greatest possible king.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated purpose of the royal-glory description is to show that all is vanity
+    except righteousness.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The commentary says the author used figurative language associated with earlier
+    poets who described the appearance of the sun.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage mentions seven treasures in the Sutta and says M. Senart traced
+    them using a corresponding passage in the Lalita Vistara.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentary refers to descriptions of a royal city and a wondrous Palace
+    of Righteousness.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The commentary says those descriptions resemble, in many expressions, a later
+    Jewish poem describing the heavenly Jerusalem.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The commentary contrasts Arahatship reached on earth with a later Northern
+    Buddhist goal of happiness in a heaven of bliss.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: greatest possible king
+  description: A king whose possible glory and majesty are described in maximal terms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: author of the Sutta
+  description: The commentary describes the author as using inherited figurative poetic
+    language and probably originating descriptions of the royal city and Palace of
+    Righteousness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Northern Buddhists
+  description: Later Buddhists described as having a goal of happiness in a heaven
+    of bliss rather than Arahatship on earth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: idealized royal figure
+  assigned_to:
+  - fig:1
+  basis: The passage calls him the greatest possible king and emphasizes his glory
+    and majesty.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: poetic composer using inherited figurative language
+  assigned_to:
+  - fig:2
+  basis: The commentary says the author used the language of earlier poets and likely
+    originated the royal city and Palace descriptions on similar lines.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: later religious community with altered soteriological goal
+  assigned_to:
+  - fig:3
+  basis: The passage describes Northern Buddhists as later seeking happiness in a
+    heaven of bliss rather than earthly Arahatship.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: seven treasures
+  literal_form: seven treasures mentioned in the early part of the Sutta
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: royal city
+  literal_form: royal city
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Palace of Righteousness
+  literal_form: wondrous Palace of Righteousness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sun
+  literal_form: appearance of the sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: heaven of bliss
+  literal_form: a heaven of bliss
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Commentarial framing of royal magnificence
+  summary: The commentary frames the Sutta as a poetic description of supreme kingship
+    used to teach the vanity of all except righteousness.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Literary comparison of inherited imagery
+  summary: The commentary links the Sutta's rhetoric with Vedic poetic language about
+    the sun, the Lalita Vistara's seven treasures, and a Jewish poem about heavenly
+    Jerusalem.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Contrast of earthly attainment and heavenly bliss
+  summary: The commentary contrasts the Noble Path and Arahatship on earth with a
+    later Northern Buddhist aim of happiness in heaven.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: supreme royal splendor as moral lesson on vanity
+  taxonomy_refs:
+  - royal_legitimacy
+  - wisdom
+  basis: The passage describes the greatest king's glory and majesty as a poetic device
+    to show that all is vanity except righteousness.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an editorial characterization of the Sutta, not a direct narrative
+    episode from the Sutta itself.
+- id: motif:2
+  label: ideal royal city and palace of righteousness
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage identifies descriptions of a royal city and wondrous Palace of
+    Righteousness associated with the kingly setting.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage summarizes these descriptions but does not give their narrative
+    details.
+- id: motif:3
+  label: heaven of bliss as religious goal
+  taxonomy_refs: []
+  basis: The commentary says later Northern Buddhists sought happiness under changed
+    outward conditions in a heaven of bliss.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage presents this as doctrinal commentary rather than a mythic
+    narrative pattern; no journey or afterlife map is described.
+comparison_claims:
+- id: claim:1
+  claim: The commentary compares the Sutta's royal-glory poem to what a Jewish prophet
+    might have written about Solomon in his glory.
+  claim_level: same_function
+  target: Jewish prophetic-style portrayal of Solomon in glory
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is analogical and stylistic; it does not assert historical
+    contact or a shared source.
+- id: claim:2
+  claim: The commentary suggests that some rhetorical phrases in the Sutta can be
+    traced to Vedic hymnic language, especially figurative language used to describe
+    the sun.
+  claim_level: linguistic_similarity
+  target: Vedic hymns describing the appearance of the sun
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames this as a philological task and says it would illuminate
+    forms of speech more than forms of belief.
+- id: claim:3
+  claim: The commentary states that the seven treasures of the Sutta have been treated
+    in comparison with a corresponding passage in the later Buddhist Sanskrit Lalita
+    Vistara.
+  claim_level: same_motif
+  target: seven treasures in the Lalita Vistara
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports Senart's analysis but does not reproduce the corresponding
+    Lalita Vistara passage.
+- id: claim:4
+  claim: The commentary says the royal city and Palace of Righteousness resemble,
+    in many expressions, a later Jewish description of the heavenly Jerusalem.
+  claim_level: linguistic_similarity
+  target: Jewish poem describing the heavenly Jerusalem
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage emphasizes expressive resemblance and chronology but does
+    not claim direct borrowing.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12119-12124
+  quote_or_summary: "“the greatest possible glory and majesty of the greatest possible
+    king, in order to show that all is vanity, save only righteousness”"
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 12124-12134
+  quote_or_summary: The commentary says the author used the figurative language of
+    earlier poets who described the sun, and notes that tracing the Sutta's phrases
+    to Vedic hymns would be historical philology.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 12134-12139
+  quote_or_summary: M. Senart is said to have discussed the seven treasures from the
+    Sutta using a corresponding passage in the later Buddhist Sanskrit Lalita Vistara.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 12139-12146
+  quote_or_summary: The commentary refers to the royal city and wondrous Palace of
+    Righteousness and says they recall a later Jewish poem describing the heavenly
+    Jerusalem.
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 12147-12151
+  quote_or_summary: "“their goal was no longer a change of heart in the Arahatship
+    to be reached on earth, but a life of happiness ... in a heaven of bliss”"
+  source_text_path: texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is editorial commentary rather than a direct narrative passage,
+    so motif extraction is limited to motifs and comparisons explicitly named or summarized
+    by the commentator.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs from the supplied symbol list were applicable to the literal symbols in this passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:buddhist-buddhist-suttas-rhys-davids-sbe11-archive__l12119-l12151
+  passage_sha256=55de6234b1e08927e438c50c938a3feeda6d597bbcba16892d9506c58636e045
+

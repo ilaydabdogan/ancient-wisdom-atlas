@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l11498-l11518
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: P   2 / OBEREKKAI   TO   ETARA  213 / OBEREKKAI    TO    ETARA  215 / CHAPTER   XX;
+    lines 11498-11518
+  start: '11498'
+  end: '11518'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A descriptive ethnographic passage identifies Abijang as the first town
+    beyond the Oban-Ikom boundary, notes intermarriage and close settlement with the
+    twin town Akam from Obubra, and describes a distinctive compound and Egbo-house
+    wall-decoration method involving marked and cut-out designs rather than relief
+    moulding.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a chapter on the Ekoi of the Cross River.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Abijang is identified as the first town beyond the Oban-Ikom boundary.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Ekoi at Abijang are said to have intermarried considerably with their
+    neighbours in Akam.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Akam is described as a twin town that came from Obubra and settled so close
+    to Abijang that the two towns initially seem to be one.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The decoration of some compounds and the Egbo house is said to differ from
+    decoration in most Ekoi towns.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The described decorative method begins by marking a design on the surface
+    and then digging out the surface between marked areas, rather than moulding the
+    pattern in relief on a mudded wall.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator reports later seeing a particularly beautiful example of this
+    decorative style made by an Oban man.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ekoi of the Cross River
+  description: The community named as the subject of the chapter; Ekoi at Abijang
+    are described as intermarrying with Akam neighbours.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Abijang
+  description: Town identified as the first beyond the Oban-Ikom boundary and located
+    very close to Akam.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Akam
+  description: Neighbouring twin town of Abijang, described as having come from Obubra
+    and settled close to Abijang.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Unnamed Oban man
+  description: Person credited with making a particularly beautiful example of the
+    described decorative style encountered later by the narrator.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named ethnographic community
+  assigned_to:
+  - fig:1
+  basis: The chapter heading names the Ekoi of the Cross River, and the passage describes
+    Ekoi intermarriage and local decoration.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: boundary-adjacent town
+  assigned_to:
+  - fig:2
+  basis: Abijang is identified as the first town beyond the Oban-Ikom boundary.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: neighbouring twin town
+  assigned_to:
+  - fig:3
+  basis: Akam is explicitly called a twin town and described as neighbouring Abijang.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: settled-nearby migrant town/community
+  assigned_to:
+  - fig:3
+  basis: Akam is described as having come from Obubra and settled close to Abijang.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: maker of decorative example
+  assigned_to:
+  - fig:4
+  basis: The passage says a later example of the style was made by an Oban man.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Egbo house
+  literal_form: A named house or building whose decoration is discussed alongside
+    compound decoration.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: marked and cut-out wall design
+  literal_form: Wall decoration made by marking a design and digging out the surface
+    between marked areas instead of moulding relief on a mudded wall.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: closely paired towns
+  literal_form: Abijang and Akam are described as so close that they initially appear
+    to form one town.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Abijang and Akam as close neighbouring towns
+  summary: The passage situates Abijang beyond the Oban-Ikom boundary and describes
+    its close relationship with Akam through intermarriage, shared proximity, and
+    Akam's origin from Obubra.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of distinctive wall decoration
+  summary: The passage contrasts local compound and Egbo-house decoration with the
+    relief-moulded decoration of most Ekoi towns, describing a technique of marking
+    and cutting out the design surface and noting an example made by an Oban man.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: paired settlements appearing as one
+  taxonomy_refs: []
+  basis: Akam is called a twin town and is described as settled so close to Abijang
+    that the two towns seem to form one.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic settlement description, not evidence for a sacred
+    twin or sibling-pair mythic motif.
+- id: motif:2
+  label: marked-and-cut wall decoration
+  taxonomy_refs: []
+  basis: The passage describes a visual/material pattern in which wall designs are
+    first marked and then dug out rather than moulded in relief.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not provide symbolic meaning for the decoration, and
+    the final sentence is truncated within the supplied excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11498-11503
+  quote_or_summary: Chapter XX is headed 'Ekoi of the Cross River'; Abijang is identified
+    as the first town beyond the Oban-Ikom boundary.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:2
+  type: summary
+  locator: 11503-11510
+  quote_or_summary: Ekoi at Abijang are described as intermarrying with neighbours
+    in Akam; Akam came from Obubra and settled so close to Abijang that the towns
+    seem to form one.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:3
+  type: summary
+  locator: 11511-11515
+  quote_or_summary: The decoration of some compounds and the Egbo house differs from
+    that in most Ekoi towns; a later example of the style was made by an Oban man.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; evidence summarized.
+- id: ev:4
+  type: summary
+  locator: 11515-11518
+  quote_or_summary: Instead of moulding the pattern in relief on a roughly mudded
+    wall, the design is marked on the surface and then the surface is dug out between
+    the marked areas; the supplied passage ends mid-description.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; evidence summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is clear, but the passage is a non-narrative ethnographic
+    description and ends mid-sentence; motif candidates are limited to settlement
+    and decorative patterns, with no symbolic interpretation supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the supplied passage does not support a listed mythic motif family or symbol such as serpent, tree, water, fire, cave, mountain, or milk.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l11498-l11518
+  passage_sha256=9a8f0c10949a4d1d263ecc2f1c7402aa6decabcf535dcbff4e731fc441961f55
+

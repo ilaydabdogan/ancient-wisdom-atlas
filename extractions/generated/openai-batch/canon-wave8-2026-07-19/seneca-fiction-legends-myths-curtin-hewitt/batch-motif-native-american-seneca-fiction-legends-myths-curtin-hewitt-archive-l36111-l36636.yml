@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.native-american-seneca-fiction-legends-myths-curtin-hewitt-archive-l36111-l36636
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: BIWITTJ / BIWITTJ / CURTIN,! / SENECA FICTION, LEGENDS, AND MYTHS; lines
+    36111-36636
+  start: '36111'
+  end: '36636'
+  translation: Seneca Fiction, Legends, and Myths
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A difficult interlinear passage describes a human speaker addressing another
+    as “my nephew,” the appearance or response of a “great child,” repeated instructions
+    concerning a named Sagowenota, a nighttime warning not to fear, dog trackers taking
+    up a trail and seeking a body, and the making of a body or figure from rough bark
+    with references to branches, a bow, and an arrow.
+  language: English with Seneca interlinear text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting is associated with piled bones, old age, and a human being or
+    body described in relation to rottenness.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A human being speaks to another figure and uses the kinship address translated
+    as “my nephew.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A figure described as a “great child” appears or is present in the passage
+    and later speaks back.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: obs:4
+  text: The named Sagowenota is repeatedly mentioned as the focus or destination of
+    instructions.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The instructions include forming or throwing something low or small, with
+    an interlinear gloss referring to an island.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The addressee is told not to be afraid at midnight or in the middle of the
+    night.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Dog or dogs are said to take up the addressee’s track and seek a body when
+    they stop.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The addressee is instructed to make a body, doll, or figure from rough bark.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage mentions a divided or two-branched branch, a bow-end, a human
+    being, a body, and an arrow in connection with completing the task.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: human being speaker
+  description: A human being is described as speaking to another and addressing that
+    figure as “my nephew.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: great child / addressed nephew
+  description: A figure glossed as a “great child” is present and later replies; the
+    passage also contains a direct address, “my nephew.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: dog or dogs
+  description: Dog or dogs are described as taking up a track and seeking a body.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: speaker-instructor
+  assigned_to:
+  - fig:1
+  basis: The human being speaks and gives direct instructions to the addressed figure.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: addressed respondent
+  assigned_to:
+  - fig:2
+  basis: The figure associated with the address “my nephew” and the “great child”
+    receives instructions and later speaks back.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: trackers or body-seekers
+  assigned_to:
+  - fig:3
+  basis: The dogs are said to take up the track and seek the body.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: bones and rotten body
+  literal_form: piled bones, old age, human body or human being described in relation
+    to rottenness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Sagowenota
+  literal_form: named Sagowenota, repeatedly mentioned as an object, place, or destination
+    in the instructions
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: island-forming action
+  literal_form: small or low thing formed or thrown, with interlinear gloss referring
+    to an island
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: nighttime visitation or ordeal
+  literal_form: midnight or middle of the night; command not to fear
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: tracking dogs
+  literal_form: dog or dogs taking up a track and seeking a body
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: bark-made body or effigy
+  literal_form: body, doll, or figure made from rough bark
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: branch, bow, and arrow apparatus
+  literal_form: divided two-branched branch, bow-end, body, and arrow
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Encounter near bones and speech to the nephew
+  summary: The passage opens in a place associated with piled bones and a human being;
+    a speaker addresses another figure as “my nephew.”
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Instructions concerning Sagowenota
+  summary: The speaker gives instructions involving the named Sagowenota, including
+    guiding or going to it and forming or throwing something described in relation
+    to an island.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Night warning and dog tracking
+  summary: The addressee is told not to fear at midnight; dogs are then described
+    as taking up a track and seeking a body.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Making a bark body or figure
+  summary: The addressee is instructed to make a body, doll, or figure from rough
+    bark, with further references to branches, a bow, a human being, a body, and an
+    arrow.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Reply by the great child
+  summary: Near the end of the passage, the great child speaks back in response to
+    the preceding instructions.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: instructional ordeal or initiation sequence
+  taxonomy_refs:
+  - initiation
+  basis: A speaker gives an addressed figure a sequence of instructions, including
+    nighttime fearlessness, dog tracking, and construction of a special body or figure.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage is OCR-damaged and heavily interlinear, so the exact ritual
+    or narrative function is uncertain.
+- id: motif:2
+  label: dogs taking up a trail to find a body
+  taxonomy_refs: []
+  basis: The passage explicitly mentions dog or dogs taking up the addressee’s track
+    and seeking a body.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The wider narrative context and purpose of the tracking are not supplied
+    in this excerpt.
+- id: motif:3
+  label: substitute body or effigy made from bark
+  taxonomy_refs: []
+  basis: The addressee is instructed to make a body, doll, or figure from rough bark,
+    with related references to branch, bow, and arrow.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The translation is fragmentary; whether the made body functions as an
+    effigy, substitute, trap, or other ritual object requires review.
+- id: motif:4
+  label: directed journey or task at a named place
+  taxonomy_refs:
+  - mystical_quest
+  basis: Instructions repeatedly refer to Sagowenota as the focus or destination and
+    include ordered actions to perform there.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Sagowenota’s status as a place, person, or object is unclear from the
+    excerpt alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 36111-36636
+  quote_or_summary: Opening material refers to a place where bones are piled or old
+    age stands, and to a human being or body in relation to being rotten or not rotten.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin_hewitt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 36111-36636
+  quote_or_summary: A human being speaks to another figure and the interlinear gloss
+    includes the direct address “My nephew”; nearby material describes a “great child”
+    coming or being present.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 36111-36636
+  quote_or_summary: The speech repeatedly names Sagowenota and gives directions involving
+    guiding or going to it; the interlinear gloss also refers to throwing or forming
+    something low or small and to an island.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 36111-36636
+  quote_or_summary: The instructions include a middle-of-the-night or midnight moment
+    and the command not to be afraid.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 36111-36636
+  quote_or_summary: The interlinear gloss mentions dog or dogs taking up the addressee’s
+    track and seeking the body when they stop.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 36111-36636
+  quote_or_summary: The instructions include making a body, doll, or figure from rough
+    bark; related glosses mention a divided two-branched branch, a bow-end, a human
+    being, a body, and an arrow.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 36111-36636
+  quote_or_summary: Near the end, the great child is said to speak back in response.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: low
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is highly OCR-damaged and interlinear; many literal elements
+    are recoverable only from gloss fragments. Motif labeling is provisional and requires
+    human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a comparison beyond internal motif-family tagging. One evidence source path typo from metadata was avoided except in ev:1 may require normalization review.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-seneca-fiction-legends-myths-curtin-hewitt-archive__l36111-l36636
+  passage_sha256=d23f064def9d340b3c5f5b35ef218cdbd22338744dec5faa000606169a3a2c48
+

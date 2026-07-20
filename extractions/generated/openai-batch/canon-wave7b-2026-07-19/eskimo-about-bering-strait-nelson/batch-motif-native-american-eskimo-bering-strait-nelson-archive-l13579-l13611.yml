@@ -1,0 +1,192 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l13579-l13611
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    ESKIMO    ABOUT    BERING    STRAIT / SNOWSHOES / SNOWSHOES / ICE    STAFFS   AND    CREEPERS;
+    lines 13579-13611
+  start: '13579'
+  end: '13611'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes ice staffs used for travel. A staff distributes a
+    person's weight over three points, helping them pass over weak surfaces. The staffs
+    are also used in summer tundra travel over tussocks, sphagnum, moss, and semi-marshy
+    ground. One staff from Cape Nome is illustrated, and a Point Barrow example is
+    described as a nearly five-foot wooden staff with an ivory cap and sealskin wrist
+    loop.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An ice staff distributes a man's weight over three points and can allow passage
+    over places that otherwise would not support him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The staffs are also used in summer travel.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Summer tundras are described as covered with tussocks and soft beds of sphagnum,
+    making walking laborious and difficult.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Use of the staff enables safer walking and reduces sinking into spongy moss
+    or semi-marshy ground.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Figure 67 is identified as an ice staff from Cape Nome.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A Point Barrow ice staff is described as a nearly five-foot round wooden staff
+    with an ivory cap fastened by a pin and a sealskin wrist loop through the upper
+    end.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: man or traveler using an ice staff
+  description: A person whose weight is partly supported by the staff during travel
+    over weak or soft ground.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: traveler or staff user
+  assigned_to:
+  - fig:1
+  basis: The passage describes a man or traveler using the staff to cross weak surfaces
+    and to walk more safely over summer tundra.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: ice staff as travel support
+  literal_form: Ice staff used to distribute weight and aid travel over weak ice,
+    tundra, moss, or marshy ground.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: ivory cap on staff
+  literal_form: Ivory cap tipping the lower end of the Point Barrow ice staff, held
+    by a pin.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sealskin wrist loop
+  literal_form: Sealskin loop through a hole in the upper end of the staff for hanging
+    it on the wrist.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Crossing weak surfaces with an ice staff
+  summary: A person uses an ice staff so that body weight is distributed over three
+    points, enabling passage over surfaces that might not otherwise support him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Summer tundra travel with a staff
+  summary: The staff is used in summer on tussocky, mossy, or semi-marshy tundra to
+    make walking safer and reduce sinking.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Description of Point Barrow ice staff construction
+  summary: A Point Barrow staff is described as a wooden implement nearly five feet
+    long, with an ivory cap at the lower end and a sealskin wrist loop at the upper
+    end.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 13579-13586
+  quote_or_summary: The passage states that an ice staff distributes a man's weight
+    over three points, enabling travel over places that otherwise would not support
+    him.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: 13587-13599
+  quote_or_summary: The staffs are also used in summer travel on tundras covered with
+    tussocks, sphagnum, spongy moss, and semi-marshy ground; the staff makes walking
+    safer and reduces sinking.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: 13600-13601
+  quote_or_summary: Figure 67 illustrates an ice staff from Cape Nome.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: 13602-13611
+  quote_or_summary: A Point Barrow ice staff consists of a nearly five-foot round
+    wooden staff, with the lower end tipped by an ivory cap fastened by a pin, and
+    a sealskin loop through the upper end for the wrist.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is a material-culture description of travel implements rather
+    than a mythic narrative; no explicit comparative motif or taxonomy match is supported
+    by the provided text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied. Candidate motifs and comparison claims were left empty because the passage does not itself support mythological or comparative claims.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l13579-l13611
+  passage_sha256=d97cbc7995efcd35e20b7f6272ef83d1d99b98b39231653aae00b7e7b8fd3733
+

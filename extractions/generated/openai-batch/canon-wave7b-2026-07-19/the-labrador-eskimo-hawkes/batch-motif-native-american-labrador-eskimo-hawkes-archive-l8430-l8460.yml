@@ -1,0 +1,455 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l8430-l8460
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: THE   STORY  OF  THE  LAME  HUNTER. / ORIGIN  OF  THE  WALRUS  AND  CARIBOU.
+    / THE  OWL  AND  THE  RAVEN. / THE  ORIGIN  OF  THE  SEA-PIGEONS.; lines 8430-8460
+  start: '8430'
+  end: '8460'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: That is why he is black.
+  summary: Two etiological tale units are presented. In the first, an owl and raven
+    quarrel, the owl tips a lamp over the raven, and the raven is covered in soot,
+    explaining his black color. In the second, children playing noisily on a cliff
+    frighten away seals; an angry man wishes the cliff would fall on them, and the
+    cliff does so, after which the children are changed into red-footed sea-pigeons
+    dwelling below cliffs.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The owl and the raven have a quarrel.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The angry owl tips a lamp over the raven, and the raven is completely covered
+    with soot.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The raven is ashamed, flies away crying, and the narration explains his black
+    color from this event.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Children play on top of a high cliff overlooking the sea while ice covers
+    the sea below.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The ice opens, and the crack between the ice and the shore fills with seals.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Men from the village run to get kayaks in order to kill the seals.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The children keep playing and shouting, and the seals are gone when the men
+    arrive because the children's voices frightened them away.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The men become angry at the children, and one man says he wishes the cliff
+    would fall over and bury them.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Immediately after the man's words, the cliff topples over and buries the children
+    in boulders at its foot.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The buried children are changed into sea-pigeons with red feet and are said
+    to dwell at the foot of cliffs to the present.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: owl
+  description: A bird who quarrels with the raven and tips a lamp over him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: raven
+  description: A bird who is covered with soot after the owl tips a lamp over him
+    and is thereby said to be black.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: children on the cliff
+  description: Children playing and shouting on a high cliff overlooking the sea;
+    later buried and changed into sea-pigeons.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: men of the village
+  description: Men who run for kayaks to kill seals and become angry when the children
+    frighten the seals away.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: one angry man
+  description: One of the men who says he wishes the cliff would fall over and bury
+    the noisy children.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: seals
+  description: Animals filling the crack between the ice and shore, then frightened
+    away by the children's voices.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:7
+  name_or_label: sea-pigeons
+  description: Birds into which the children are changed; they have red feet and dwell
+    at the foot of cliffs.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: quarrel participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that the owl and raven had a quarrel.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: agent of soiling
+  assigned_to:
+  - fig:1
+  basis: The owl becomes angry and tips a lamp over the raven.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: marked animal with explained color
+  assigned_to:
+  - fig:2
+  basis: The raven is covered with soot, and the tale says this is why he is black.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: noisy children
+  assigned_to:
+  - fig:3
+  basis: The children keep playing and shouting loudly while the seals are nearby.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: would-be seal hunters
+  assigned_to:
+  - fig:4
+  basis: The men run to get their kayaks to kill the seals.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: speaker of destructive wish
+  assigned_to:
+  - fig:5
+  basis: One of the angry men wishes that the cliff would fall and bury the children.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: prey frightened away
+  assigned_to:
+  - fig:6
+  basis: The seals are gone because they have been frightened away by the children's
+    voices.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: transformed bird form
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: The children are changed into sea-pigeons with red feet.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: lamp and soot
+  literal_form: A lamp tipped over the raven, leaving him covered with soot.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: black raven coloration
+  literal_form: The raven's black color explained by soot from the overturned lamp.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: high sea cliff
+  literal_form: A high cliff overlooking the sea where the children play and which
+    later topples.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: sea ice crack
+  literal_form: The crack between the sea ice and the shore that fills with seals.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: kayaks
+  literal_form: Kayaks fetched by the men to hunt the seals.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: red-footed sea-pigeons
+  literal_form: Sea-pigeons with red feet into which the children are changed.
+  associated_figures:
+  - fig:3
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: boulders at the cliff foot
+  literal_form: Boulders at the foot of the fallen cliff that bury the children.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Owl soils the raven
+  summary: The owl and raven quarrel; the owl tips a lamp over the raven, covering
+    him with soot, and the raven flies away ashamed. The tale explains the raven's
+    black color.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Children frighten the seals
+  summary: Children play and shout on a high cliff while ice opens below and seals
+    fill the crack; men try to get kayaks to hunt, but the seals flee because of the
+    children's voices.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Wish, cliff fall, and transformation
+  summary: After the seals flee, one angry man wishes the cliff would fall and bury
+    the children; the cliff immediately topples, buries them, and they are changed
+    into red-footed sea-pigeons dwelling by cliffs.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Origin of raven's black color through soot
+  taxonomy_refs: []
+  basis: The tale explicitly says the raven became covered with soot after the owl
+    tipped a lamp over him and that this is why he is black.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an etiological animal-attribute explanation; no broader taxonomy
+    reference is assigned from the available list.
+- id: motif:2
+  label: Children transformed into sea-birds
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage states that the children were changed into sea-pigeons with red
+    feet after being buried by the fallen cliff.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy reference 'shapeshifter' is only approximate because
+    the passage describes a change imposed by events, not voluntary shape-changing.
+- id: motif:3
+  label: Destructive wish immediately fulfilled
+  taxonomy_refs: []
+  basis: One angry man wishes the cliff would fall and bury the children, and the
+    passage says he had no sooner spoken than the cliff toppled and buried them.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not identify a divine or magical agent behind the wish's
+    fulfillment.
+- id: motif:4
+  label: Animal-origin explanation
+  taxonomy_refs: []
+  basis: The raven episode explains why the raven is black, and the second tale is
+    titled as the origin of sea-pigeons and ends with the children changed into sea-pigeons.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: This is a functional motif label based on the passage; it is not tied
+    to a specific listed taxonomy family.
+comparison_claims:
+- id: claim:1
+  claim: 'The two tale units in the passage share the function of explaining animal
+    features or origins: the raven''s black color and the origin, red feet, and cliff-dwelling
+    habit of sea-pigeons.'
+  claim_level: same_function
+  target: etiological animal-origin and animal-attribute narrative pattern
+  evidence_refs:
+  - ev:1
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim compares narrative function within the supplied passage
+    only; it does not assert historical contact, common inheritance, or an external
+    corpus parallel.
+- id: claim:2
+  claim: The sea-pigeon episode fits a transformation-after-transgression or consequence
+    pattern in which noisy children cause the loss of game and are then buried and
+    changed into birds.
+  claim_level: same_motif
+  target: punitive or consequential transformation into birds
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not state that the transformation is a formal punishment
+    or identify the power that causes it; the label is therefore cautious.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8430-8436
+  quote_or_summary: The owl and raven quarrel; the owl tips a lamp over the raven,
+    covering him with soot, and the narration explains that this is why the raven
+    is black.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; supplied passage summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8440-8445
+  quote_or_summary: Children play on a high cliff overlooking a sea covered with ice;
+    the ice opens and the crack between the ice and shore fills with seals.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; supplied passage summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8445-8447
+  quote_or_summary: The men of the village run to get their kayaks in order to kill
+    the seals.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; supplied passage summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8448-8452
+  quote_or_summary: The children keep playing and shouting; when the men arrive, the
+    seals are gone because the children's voices have frightened them away.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; supplied passage summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8452-8457
+  quote_or_summary: The men are angry, and one says he wishes the cliff would fall
+    and bury the noisy children; immediately after his words, the cliff topples and
+    buries them in boulders at its foot.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; supplied passage summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8457-8460
+  quote_or_summary: The children are changed into sea-pigeons with red feet, and they
+    are said to dwell at the foot of cliffs to the present day.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain; supplied passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence and figures are explicit in the supplied passage. Motif
+    taxonomy use is cautious because the available taxonomy does not include a specific
+    etiological animal-origin category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction is limited to the supplied lines and metadata. No external identifications of species, traditions, or parallels are asserted.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l8430-l8460
+  passage_sha256=cacc5ea591e87a2416b70dc5b65dce038a3d6ebd6ee71e6faf31f96b9507611f
+

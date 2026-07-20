@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l3723-l3778
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: WHALEBONE  HOUSES. / TRANSPORTATION. / O     3 / J    O; lines 3723-3778
+  start: '3723'
+  end: '3778'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes dog-sled transportation equipment and handling:
+    the single bridle, seal-hide traces, fanwise team arrangement, harness construction,
+    and the long bearded-seal-hide whip used by drivers.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: In a single bridle, one bridle line runs a short distance from the sled, and
+    dog traces are fastened directly to it.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When dogs cross over one another in this arrangement, the lines become entangled.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each dog has a separate trace made of bearded seal hide, with length varying
+    by locality.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: During travel, traces are regulated so the team spreads fanwise, with a leader
+    slightly ahead and the other dogs following one another.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A driver shortens the trace of a dog that appears to be shirking.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The harness is a double loop of sealskin passing under the forelegs and over
+    the shoulders, joined at the back where the trace is attached.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The whip is made in northern Labrador from strands of bearded seal hide, narrowing
+    toward a lash at the end, and is 20 to 30 feet long.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A good driver seldom uses the whip for punishment, but dogs react strongly
+    to its hissing cut.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Some drivers are described as dexterous enough to snap off the heads of ptarmigan
+    along the trail with the whip.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: dog-sled driver
+  description: A person accustomed to handling the dog team, regulating traces, and
+    using the whip.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: sled dogs
+  description: Dogs fastened by separate traces to the bridle and harness, arranged
+    for travel as a team.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: leader dog
+  description: The dog placed slightly ahead when the team spreads fanwise during
+    travel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: shirking dog
+  description: A dog whose trace is shortened by the driver when it appears to be
+    shirking.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: driver and handler
+  assigned_to:
+  - fig:1
+  basis: The passage describes the driver stopping or regulating the team and using
+    or handling the whip.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:2
+  label: draft animals
+  assigned_to:
+  - fig:2
+  basis: The dogs are fastened by traces and harnesses to pull in a team arrangement.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: team leader
+  assigned_to:
+  - fig:3
+  basis: The leader is slightly ahead of the rest of the fanwise team.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: disciplined or corrected team member
+  assigned_to:
+  - fig:4
+  basis: The driver shortens the trace of a dog that appears to be shirking.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: single bridle
+  literal_form: one bridle line running from the sled with dog traces fastened to
+    it
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: seal-hide trace
+  literal_form: bearded seal hide line fastening each dog to the bridle
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fanwise dog-team formation
+  literal_form: team spread out fanwise, leader slightly ahead
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sealskin harness
+  literal_form: double loop of sealskin under the forelegs and over the shoulders
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: long whip
+  literal_form: 20- to 30-foot bearded-seal-hide whip with lash
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: single-bridle entanglement
+  summary: The single bridle arrangement can cause entanglement when dogs cross over,
+    and the team must be stopped because the traces cannot be hauled in easily.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: fanwise travel arrangement
+  summary: Each dog is attached by a separate seal-hide trace, and the driver regulates
+    the traces so the traveling team spreads fanwise with a leader ahead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: whip construction and use
+  summary: The whip is made of bearded seal hide, requires skill to handle, is seldom
+    used for punishment by a good driver, and is described as capable in expert hands
+    of striking ptarmigan along the trail.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3723-3736
+  quote_or_summary: In the single bridle, one line runs from the sled; crossing dogs
+    entangle the lines, and the team must be stopped because the traces cannot be
+    hauled in easily.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3738-3744
+  quote_or_summary: The trace fastening each dog to the bridle is made of bearded
+    seal hide and varies in length by locality.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3744-3752
+  quote_or_summary: Each dog has a separate trace; while travelling the team is arranged
+    fanwise with the leader slightly ahead, and a shirking dog's trace is shortened.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3752-3757
+  quote_or_summary: The harness is a double loop of sealskin under the forelegs and
+    over the shoulders, joined on the back where the trace attaches.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3758-3766
+  quote_or_summary: The whip, named ipiyawtuk, is made in northern Labrador from bearded
+    seal hide strands, narrowing to a lash, and is 20 to 30 feet long.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3766-3772
+  quote_or_summary: The whip requires practice and ability to handle; a good driver
+    seldom uses it for punishment, but dogs remember it and react to its hissing cut.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 3772-3776
+  quote_or_summary: Some drivers are described as able to snap off ptarmigan heads
+    along the trail with the whip.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: high
+  notes: The passage is a technical ethnographic description of dog-sled equipment
+    and handling rather than a myth narrative; therefore no comparative mythology
+    motif candidate or comparison claim is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available taxonomy references did not include a clear match for the transportation equipment described here; taxonomy_refs are left empty.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l3723-l3778
+  passage_sha256=564609b246e69ec1d62d7c27f12cf6f667345507362e15be5f9d5f0ee79af676
+

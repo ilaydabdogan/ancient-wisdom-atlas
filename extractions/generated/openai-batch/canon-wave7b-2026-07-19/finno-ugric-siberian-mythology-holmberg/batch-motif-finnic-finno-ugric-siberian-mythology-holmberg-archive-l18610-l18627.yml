@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.finnic-finno-ugric-siberian-mythology-holmberg-archive-l18610-l18627
+source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+passage_locator:
+  label: THE  SUN  AND  THE  MOON / THE  STARS / THE  STARS / THE  STARS; lines 18610-18627
+  start: '18610'
+  end: '18627'
+  translation: Finno-Ugric, Siberian Mythology
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage surveys eclipse explanations involving monsters that pursue,
+    attack, or swallow the moon and sun. It mentions a monster whose body is seen
+    in moon-spots, the head-only Arakho/Rahu eclipse monster, a dragon persecutor
+    of heavenly lights, an Altai Tatar man-eater living in a star, and a Russian Tatar
+    and Chuvash vampire that swallows the sun and moon until stars burn its mouth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fragmentary sentence says an unnamed being becomes immortal and pursues
+    the moon, and that some people see the monster's body in the moon-spots.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Arakho is described as causing eclipses of the sun and moon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Arakho is described as having only a head and no body.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that Arakho is also known to the Mongols, that the tale
+    originates in India, that the Indian monster is named Rahu, and that Arakho and
+    Alkha are variants of that name.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage says that among peoples of North-East Asia the persecutor of the
+    heavenly lights is conceived as a dragon, and that this conception came from China.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Altai Tatars are said to explain an eclipse of the moon as the work of
+    a man-eater living in a star.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Russian Tatars and the Chuvash are said to speak of a vampire that sometimes
+    swallows the sun and moon, then leaves them because the stars begin to burn its
+    mouth.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed moon-pursuing monster
+  description: A monster connected with the moon; the fragment says it pursues the
+    moon and that some see its body in the moon-spots.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Arakho / Rahu / Alkha
+  description: A head-only monster said to cause eclipses of the sun and moon; the
+    passage identifies Rahu as the Indian name and Arakho and Alkha as variants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: dragon persecutor of heavenly lights
+  description: A dragon conceived as the persecutor of the lights of heaven among
+    peoples of North-East Asia.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Altai Tatar man-eater living in a star
+  description: A man-eater living in a star whose action is said to cause an eclipse
+    of the moon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Russian Tatar and Chuvash vampire
+  description: A vampire that sometimes swallows the sun and moon but releases them
+    when stars burn its mouth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: sun
+  description: A heavenly light subject to eclipse and swallowing in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:7
+  name_or_label: moon
+  description: A heavenly light pursued, eclipsed, or swallowed in the passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: stars
+  description: Celestial bodies described as the dwelling-place of a man-eater in
+    one account and as burning the vampire's mouth in another.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: attacker or persecutor of heavenly lights
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: These beings pursue the moon, cause eclipses, persecute the lights of heaven,
+    or swallow the sun and moon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: targeted luminary
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The sun and moon are described as eclipsed, pursued, or swallowed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: counter-agent against devourer
+  assigned_to:
+  - fig:8
+  basis: The stars begin to burn the vampire's mouth, after which it leaves the sun
+    and moon in peace.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: moon-spots as monster body
+  literal_form: moon-spots identified by some as the monster's body
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: head without body
+  literal_form: head-only monster with no body
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: heavenly lights
+  literal_form: sun and moon as lights of heaven subject to pursuit, eclipse, or swallowing
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: dragon persecutor
+  literal_form: dragon as persecutor of the heavenly lights
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: star dwelling and burning stars
+  literal_form: a star inhabited by a man-eater; stars that burn a vampire's mouth
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: swallowing mouth
+  literal_form: the vampire's mouth that swallows the sun and moon and is burned by
+    stars
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Moon pursuit and moon-spots
+  summary: A fragmentary account says an unnamed being becomes immortal and pursues
+    the moon; some identify the monster's body with the moon-spots.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Head-only Arakho/Rahu causes eclipses
+  summary: Arakho is described as a head-only monster causing eclipses of the sun
+    and moon; the passage connects the name with Indian Rahu and variants Arakho and
+    Alkha.
+  figure_refs:
+  - fig:2
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dragon as persecutor of heavenly lights
+  summary: The passage reports a North-East Asian conception, attributed to China,
+    in which the persecutor of the heavenly lights is a dragon.
+  figure_refs:
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Altai Tatar lunar eclipse by star-dwelling man-eater
+  summary: The Altai Tatars are said to explain a lunar eclipse as the work of a man-eater
+    living in a star.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Vampire swallows and releases the sun and moon
+  summary: The Russian Tatars and the Chuvash are said to describe a vampire swallowing
+    the sun and moon, then releasing them because the stars burn its mouth.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: eclipse caused by a monster attacking heavenly lights
+  taxonomy_refs: []
+  basis: Multiple accounts in the passage explain eclipse or threat to luminaries
+    through a monster, dragon, man-eater, or vampire acting against the sun or moon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage surveys several traditions together, but the beings and actions
+    differ by account.
+- id: motif:2
+  label: celestial devouring and release
+  taxonomy_refs: []
+  basis: The Russian Tatar and Chuvash account describes a vampire swallowing the
+    sun and moon and then leaving them in peace when the stars burn its mouth.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This motif is explicit only in the vampire account; other accounts in
+    the passage mention pursuit or eclipse-causing rather than swallowing.
+- id: motif:3
+  label: bodiless or head-only eclipse monster
+  taxonomy_refs: []
+  basis: Arakho is described as having only a head and no body, while a nearby fragment
+    mentions the monster's body being seen in the moon-spots.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The opening sentence is fragmentary, so the relationship between the moon-spot
+    body and Arakho should be reviewed.
+- id: motif:4
+  label: stars as counterforce to eclipse devourer
+  taxonomy_refs: []
+  basis: The stars burn the vampire's mouth, causing it to stop swallowing or holding
+    the sun and moon.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This pattern is reported only for the Russian Tatar and Chuvash vampire
+    account in this passage.
+- id: motif:5
+  label: monster dwelling in a star causes lunar eclipse
+  taxonomy_refs: []
+  basis: The Altai Tatar account attributes a lunar eclipse to a man-eater living
+    in a star.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief report without narrative details.
+comparison_claims:
+- id: claim:1
+  claim: The passage asserts that Arakho and Alkha are corrupt variants of the Indian
+    monster-name Rahu.
+  claim_level: linguistic_similarity
+  target: Indian Rahu name and Arakho/Alkha variants
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states the etymological relationship but does not provide
+    linguistic evidence beyond the assertion.
+- id: claim:2
+  claim: The passage says the Arakho eclipse-monster tale originates in India and
+    is also known to the Mongols.
+  claim_level: historical_contact
+  target: Indian Rahu tradition and Mongol Arakho tradition
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No transmission route, date, or intermediary evidence is given in the
+    passage.
+- id: claim:3
+  claim: The passage says the North-East Asian conception of a dragon persecuting
+    the heavenly lights came from China.
+  claim_level: historical_contact
+  target: Chinese dragon eclipse conception and North-East Asian eclipse beliefs
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies a source attribution but no detailed comparative
+    evidence.
+- id: claim:4
+  claim: The Altai Tatar man-eater and the Russian Tatar/Chuvash vampire serve a similar
+    explanatory function by attributing eclipse or danger to luminaries to a monstrous
+    being.
+  claim_level: same_function
+  target: regional monster-caused eclipse explanations
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: 'The entities differ: one is a man-eater living in a star causing a
+    lunar eclipse, while the other is a vampire swallowing and releasing the sun and
+    moon.'
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18610-18613
+  quote_or_summary: 'Fragmentary opening: an unnamed being becomes immortal and pursues
+    the moon; some see the monster''s body in the moon-spots.'
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 18614-18619
+  quote_or_summary: Arakho causes eclipses of the sun and moon, has only a head and
+    no body, is known to Mongols, and is linked by the passage to Indian Rahu, with
+    Arakho and Alkha as variants.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 18620-18623
+  quote_or_summary: The passage states that among peoples of North-East Asia the persecutor
+    of the lights of heaven is a dragon, and that this conception came from China.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 18623-18624
+  quote_or_summary: The Altai Tatars say that an eclipse of the moon is caused by
+    a man-eater living in a star.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 18624-18627
+  quote_or_summary: The Russian Tatars and the Chuvash speak of a vampire that swallows
+    the sun and moon but releases them when the stars burn its mouth.
+  source_text_path: texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear in its survey claims, but the opening sentence is fragmentary
+    and some source-attribution claims are asserted without supporting details in
+    the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the available taxonomy did not include a direct eclipse-monster, eclipse-devouring, dragon, vampire, star, sun, or moon category; mapping dragon to serpent or burning stars to fire would require reviewer approval.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:finnic-finno-ugric-siberian-mythology-holmberg-archive__l18610-l18627
+  passage_sha256=a36f44844237a3aa9ed109741e24b32eb74598d67729bbe50718f9852ee55db8
+

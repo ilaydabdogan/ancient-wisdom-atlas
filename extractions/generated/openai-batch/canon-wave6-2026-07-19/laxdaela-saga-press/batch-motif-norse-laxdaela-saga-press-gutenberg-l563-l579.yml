@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.norse-laxdaela-saga-press-gutenberg-l563-l579
+source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+passage_locator:
+  label: CHAP. IV / CHAP. V / CHAP. VI / CHAP. VII; lines 563-579
+  start: '563'
+  end: '579'
+  translation: Laxdaela Saga
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Thorgerd put to sea and had a very good voyage, and arrived in Norway.
+  summary: Thorgerd travels by sea to Norway with goods, is welcomed by kin, chooses
+    to settle there, accepts Herjolf’s proposal with the advice of her relations,
+    marries him, and is said to improve the honor of his household.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Thorgerd travels by sea and arrives in Norway after a good voyage.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thorgerd has much kindred and many noble kinsmen in Norway, who greet her
+    warmly and offer her a choice of gifts or support.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Thorgerd says she wishes to settle in Norway.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Herjolf comes forward to woo Thorgerd after she has not been a widow long.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Herjolf is described as a landed man, rich, important, tall, strong, not fair
+    of feature, high-mettled, and highly skilled at arms.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Because Thorgerd is a widow, it is said to be her place to reply to the marriage
+    proposal herself.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Thorgerd accepts the proposal with the advice of her relations.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Thorgerd marries Herjolf, goes to his home, and they love each other dearly.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Thorgerd is described as a woman of the greatest mettle, and Herjolf’s way
+    of life is considered more honorable after the marriage.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Thorgerd
+  description: A widow who travels to Norway with goods, is welcomed by kin, chooses
+    to settle there, accepts Herjolf’s offer, marries him, and is described as high-mettled.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Herjolf
+  description: A landed man, rich and important, tall and strong, not fair of feature,
+    high-mettled, skilled at arms, who woos and marries Thorgerd.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: Thorgerd's kinsmen and relations in Norway
+  description: Thorgerd’s kindred and noble kinsmen greet her warmly, offer her a
+    choice of what she wants from them, and advise her about Herjolf’s proposal.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: sea traveler
+  assigned_to:
+  - fig:1
+  basis: Thorgerd puts to sea and arrives in Norway.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: widow with right of reply
+  assigned_to:
+  - fig:1
+  basis: The passage states that as a widow it is Thorgerd’s place to answer the marriage
+    proposal herself.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: bride and wife
+  assigned_to:
+  - fig:1
+  basis: Thorgerd accepts the offer, marries Herjolf, and goes to his home.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:4
+  label: honor-enhancing spouse
+  assigned_to:
+  - fig:1
+  basis: Herjolf’s life is deemed better and more honorable after taking Thorgerd
+    as wife.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: suitor
+  assigned_to:
+  - fig:2
+  basis: Herjolf comes forward to woo Thorgerd.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: husband
+  assigned_to:
+  - fig:2
+  basis: Herjolf marries Thorgerd and brings her to his home.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: welcoming kin
+  assigned_to:
+  - fig:3
+  basis: Thorgerd’s kin greet her warmly and offer support.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: marriage advisors
+  assigned_to:
+  - fig:3
+  basis: Thorgerd accepts the offer with the advice of her relations.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sea voyage
+  literal_form: sea
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: goods
+  literal_form: goods carried with Thorgerd
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:3
+  label: home
+  literal_form: Herjolf’s home
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Thorgerd arrives in Norway
+  summary: Thorgerd travels by sea with goods, has a good voyage, and arrives in Norway.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: scene:2
+  label: Welcome by Norwegian kin
+  summary: Thorgerd’s kindred and noble kinsmen greet her warmly and offer her whatever
+    she chooses to take from them; she says she wishes to settle in the land.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Herjolf’s proposal and Thorgerd’s consent
+  summary: Herjolf woos Thorgerd; because she is a widow she answers for herself,
+    and with her relations’ advice she accepts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Marriage and improved household honor
+  summary: Thorgerd marries Herjolf, goes to his home, and their mutual affection
+    and her mettle are linked to a higher estimation of Herjolf’s way of life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sea voyage to kin and settlement
+  taxonomy_refs:
+  - departure
+  basis: Thorgerd leaves by sea, arrives in Norway, is received by kin, and chooses
+    to settle there.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a social relocation rather than an explicitly mythic
+    or initiatory departure.
+- id: motif:2
+  label: widow’s remarriage decided with kin counsel
+  taxonomy_refs: []
+  basis: Thorgerd is identified as a widow with authority to answer the proposal herself,
+    and she accepts Herjolf’s offer with advice from her relations.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a saga social pattern, not a listed mythological motif family.
+- id: motif:3
+  label: marriage improves household honor
+  taxonomy_refs: []
+  basis: After Thorgerd marries Herjolf, his manner of life is deemed better and more
+    honorable because of her.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage frames this as social reputation rather than sacred or royal
+    legitimation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 563-565
+  quote_or_summary: "“Thorgerd put to sea and had a very good voyage, and arrived
+    in Norway.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:2
+  type: summary
+  locator: lines 565-568
+  quote_or_summary: Thorgerd has much kindred and many noble kinsmen in Norway; they
+    greet her warmly and offer her what she chooses from them.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 568-569
+  quote_or_summary: "“Thorgerd was pleased at this, and said it was her wish to settle
+    down in that land.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:4
+  type: summary
+  locator: lines 569-571
+  quote_or_summary: Before Thorgerd has been a widow long, Herjolf comes forward to
+    woo her.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 571-574
+  quote_or_summary: Herjolf is named as a landed man, rich, of much account, tall,
+    strong, not fair of feature, high-mettled, and very skilled at arms.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 574-577
+  quote_or_summary: During counsel on the proposal, Thorgerd is to reply herself because
+    she is a widow; with her relations’ advice, she says she will not refuse.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 577-578
+  quote_or_summary: "“So Thorgerd married Herjolf, and went with him to his home,
+    and they loved each other dearly.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; quotation permitted.
+- id: ev:8
+  type: summary
+  locator: lines 578-579
+  quote_or_summary: Thorgerd shows herself to be of great mettle, and Herjolf’s life
+    is considered better and more honorable because she is his wife.
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: line 563
+  quote_or_summary: "“with her a great deal of goods.”"
+  source_text_path: texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md
+  rights_note: Public domain source; quotation permitted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are social-narrative
+    patterns rather than explicit mythic motifs; no comparison claims are made because
+    the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference to water is limited to the literal sea voyage; departure is used cautiously for relocation by sea.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:norse-laxdaela-saga-press-gutenberg__l563-l579
+  passage_sha256=fb63b048685b3052ecef18894de0ad99d77d9d9924ec8f4af0de7f2fd6e93cf0
+

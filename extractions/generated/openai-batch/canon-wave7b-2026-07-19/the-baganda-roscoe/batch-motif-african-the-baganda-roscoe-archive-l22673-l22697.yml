@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l22673-l22697
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: MARKETS    AND    CURRENCY / MARKETS    AND    CURRENCY / CHAP. / MARKETS    AND   CURRENCY;
+    lines 22673-22697
+  start: '22673'
+  end: '22697'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: two cowry-shells would purchase a woman
+  summary: 'The passage describes earlier Baganda currency forms: a blue bead called
+    nsinda, an ivory disc called sanga, cowry-shells, and later the rupee. It gives
+    exchange values for these items, notes the probable introduction of cowry-shells
+    in King Semakokiro''s reign, states that two cowries could once purchase a woman,
+    and says cowries were also used decoratively.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Before cowry-shells, a rough blue bead called nsinda was used and valued at
+    one hundred cowry-shells.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before the bead, a small ivory disc called sanga was used and valued at one
+    hundred cowry-shells.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage includes a figure caption naming cowry-shells, ivory discs, and
+    early kinds of beads.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The cowry-shell was probably first introduced in the reign of King Semakokiro.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: At the first introduction of the cowry-shell, two cowry-shells would purchase
+    a woman.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the rupee was introduced, cowry-shells declined in value until one thousand
+    cowry-shells equaled one rupee.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Cowry-shells were also used for decorative purposes from the first.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: King Semakokiro
+  description: King in whose reign the cowry-shell was probably first introduced.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: woman purchased with cowry-shells
+  description: A woman described as purchasable for two cowry-shells at the time cowry-shells
+    were first introduced.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: reigning king at probable introduction of cowry-shells
+  assigned_to:
+  - fig:1
+  basis: The passage says the cowry-shell was probably introduced in King Semakokiro's
+    reign.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: person valued in cowry-shell exchange
+  assigned_to:
+  - fig:2
+  basis: The passage states that two cowry-shells would purchase a woman.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: blue bead nsinda
+  literal_form: rough blue bead used as an early currency object
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ivory disc sanga
+  literal_form: small ivory disc used as an earlier currency object
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: cowry-shells
+  literal_form: shells used as currency and decoration
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: rupee
+  literal_form: later currency unit by which cowry-shells were valued
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Earlier currency objects
+  summary: The passage presents a sequence in which the blue bead nsinda was used
+    before cowry-shells, and the ivory disc sanga was used still earlier.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Introduction of cowry-shell currency
+  summary: Cowry-shells are said to have been introduced probably during King Semakokiro's
+    reign, with two cowries then able to purchase a woman.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Rupee-era devaluation and decoration
+  summary: With the introduction of the rupee, cowry-shells fell in exchange value
+    to one thousand per rupee, while also being used for decoration.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: successive currency media
+  taxonomy_refs: []
+  basis: The passage lays out a chronological sequence of ivory discs, blue beads,
+    cowry-shells, and rupees as media or measures of exchange value.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an economic and ethnographic pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: exchange valuation of persons
+  taxonomy_refs: []
+  basis: The passage states that two cowry-shells would purchase a woman when cowry-shells
+    were first introduced.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no additional social, legal, ritual, or narrative context
+    for the transaction.
+- id: motif:3
+  label: object with monetary and decorative functions
+  taxonomy_refs: []
+  basis: Cowry-shells are described as currency and also as objects used for decoration
+    from the first.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: No symbolic or ritual meaning is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 22673-22678
+  quote_or_summary: Before cowry-shells, a rough blue bead called nsinda was used
+    and valued at one hundred cowry-shells.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 22678-22684
+  quote_or_summary: Before the bead, a small ivory disc called sanga was used and
+    valued at one hundred cowry-shells.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 22682-22685
+  quote_or_summary: FIG. 81.—COWRY-SHELLS, IVORY DISCS, AND EARLY KINDS OF BEADS.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 22685-22690
+  quote_or_summary: The cowry-shell was probably introduced in King Semakokiro's reign;
+    at first, two cowry-shells would purchase a woman.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 22691-22695
+  quote_or_summary: After the rupee was introduced, cowry-shells declined in value
+    until one thousand equaled one rupee.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 22695-22697
+  quote_or_summary: Cowry-shells were also used for decorative purposes from the first.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal economic data are clear. Motif candidates are treated cautiously
+    because the passage is ethnographic and commercial rather than mythic. No cross-text
+    comparison claim is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was applied; the passage does not state a sacred, ritual, or mythic meaning for the exchange objects.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l22673-l22697
+  passage_sha256=fe706e9812237ffbdd8bc6655e539dce0b946e025fbcfa28bcec8dfebe854736
+

@@ -1,0 +1,144 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol4-gutenberg-l20371-l20374
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+passage_locator:
+  label: SECTION CXLII / SECTION CXLIII / SECTION CXLIV / SECTION CXLV; lines 20371-20374
+  start: '20371'
+  end: '20374'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14,
+    15, 16, 17 and 18'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Uma said, "By what disposition, what conduct, what acts, and what gifts,
+    does a man succeed in attaining to Heaven?"
+  summary: Uma asks what disposition, conduct, acts, and gifts enable a man to attain
+    Heaven.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Uma speaks and asks a question.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The question concerns the means by which a man may attain Heaven.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The means named in the question are disposition, conduct, acts, and gifts.
+  category: sequence
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Uma
+  description: Speaker who asks what enables a man to attain Heaven.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: a man
+  description: Generic human subject whose attainment of Heaven is the topic of the
+    question.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Uma is explicitly said to ask the question.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: generic aspirant to Heaven
+  assigned_to:
+  - fig:2
+  basis: The question asks how a man succeeds in attaining Heaven.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Heaven
+  literal_form: Heaven as the destination or state to be attained
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: gifts
+  literal_form: gifts named among possible means of attaining Heaven
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Uma asks about attaining Heaven
+  summary: Uma asks what qualities, actions, and gifts allow a man to attain Heaven.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: attaining Heaven through disposition, conduct, acts, and gifts
+  taxonomy_refs:
+  - wisdom
+  basis: The passage frames a doctrinal question about the religious or ethical means
+    of attaining Heaven.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage contains only the question, not the answer or a narrative
+    demonstration of the means.
+- id: motif:2
+  label: meritorious gifts as a possible path to Heaven
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Gifts are explicitly listed among the possible means by which a man may attain
+    Heaven.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage asks about gifts but does not yet state that gifts are effective
+    or describe a reciprocal exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20371-20374
+  quote_or_summary: 'Uma asks: "By what disposition, what conduct, what acts, and
+    what gifts, does a man succeed in attaining to Heaven?"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is very short and supports basic extraction of the speaker, topic,
+    and candidate themes, but not detailed motif comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself provides only a brief question and no explicit comparative linkage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol4-gutenberg__l20371-l20374
+  passage_sha256=bdc59206a515aa4b7dc2e77de2b8cc5463663bab5022fd147907790e4b157dd6
+

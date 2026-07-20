@@ -1,0 +1,371 @@
+---
+record_id: batch.motif.native-american-seneca-fiction-legends-myths-curtin-hewitt-archive-l36638-l37328
+source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+passage_locator:
+  label: BIWITTJ / BIWITTJ / CURTIN,! / SENECA FICTION, LEGENDS, AND MYTHS; lines
+    36638-37328
+  start: '36638'
+  end: '37328'
+  translation: Seneca Fiction, Legends, and Myths
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage, in corrupted interlinear form, names Great Child and describes
+    a sequence involving speech, a body being carried or arranged, a forked or standing
+    tree, a search for a suitable place, a canoe or resting place, darkness, a hole
+    or sleep-place image, and a hostile figure glossed as one who hates him or comes
+    seeking him/the body.
+  language: English with Seneca interlinear fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A figure glossed as Great Child is named in the passage.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A speech section addresses a figure as “my nephew,” includes an imperative
+    glossed as “Come, behave,” and mentions dogs.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Great Child answers or agrees, with glosses corresponding to “So be it” and
+    “I will do thus.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Great Child is described as starting off or going along while carrying a body.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The body is caused to stand or be placed at a location associated with a tree
+    whose branches fork.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says he searched much for a good place, with references to floating
+    land and a standing tree.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A canoe or canoe-resting/lying place is mentioned in connection with a far-away
+    tree or selected place.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A hostile figure is repeatedly glossed as one who hates him and is associated
+    with coming to seek the body when it darkens.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Near the end, the passage mentions darkness, arrival, a hole, a sleep-hole,
+    and a mouth not breathing.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Great Child
+  description: Named in the interlinear gloss as the great child, appearing as an
+    active figure in the sequence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the one who hates him
+  description: A hostile figure described in repeated glosses as “he-him-hates” and
+    associated with coming to seek the body.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: my nephew
+  description: A figure addressed in speech as “my nephew”; identity within the scene
+    is unclear in the OCR text.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: dogs
+  description: Dogs are mentioned in the speech/glossed portion of the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: active arranger or protagonist
+  assigned_to:
+  - fig:1
+  basis: Great Child answers, starts off carrying the body, and is linked with placing
+    or arranging it.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: hostile seeker
+  assigned_to:
+  - fig:2
+  basis: The figure is glossed as hating him and as expected or involved in coming
+    to seek the body in darkness.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: kinship addressee
+  assigned_to:
+  - fig:3
+  basis: The speech contains the address “my nephew.”
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: mentioned animals
+  assigned_to:
+  - fig:4
+  basis: Dogs occur in the speech/glossed passage, but their exact action is unclear.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: body
+  literal_form: A body carried by Great Child and later placed or caused to stand.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: forked or standing tree
+  literal_form: A tree with two branches/forking, and a place where a tree stands.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: canoe or lying place
+  literal_form: A canoe/canoe-resting place used or placed at a selected location.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: darkness
+  literal_form: Repeated references to when or where it darkens.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: hole or sleep-hole
+  literal_form: A hole or sleep-hole image, with a mouth not breathing, appears near
+    the end of the passage.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Speech with kinship address and dogs
+  summary: A speech section addresses “my nephew,” commands “Come, behave,” and mentions
+    dogs; the exact speaker relations are unclear.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Great Child agrees and carries the body
+  summary: Great Child answers that he will act and then starts off while carrying
+    a body.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Body placed at a forked tree location
+  summary: The body is placed or caused to stand at a location described with a forked
+    tree, after or during a search for a good place with floating land and a standing
+    tree.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Selected place, canoe, darkness, and hostile seeker
+  summary: A canoe or lying place is associated with a distant selected place; the
+    hostile figure is expected to come seeking the body when it darkens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Arrival, hole, and sleep-hole image
+  summary: At the end, darkness and arrival are mentioned along with a hole or sleep-hole
+    and an image of a mouth not breathing.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: strategic concealment or deception against a hostile seeker
+  taxonomy_refs:
+  - trickster_boundary
+  - wisdom
+  basis: Great Child carries and arranges a body, selects a distant/dark place with
+    tree and canoe imagery, and anticipates or counters a hostile figure who comes
+    seeking the body.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The OCR/interlinear text is highly corrupt; the passage suggests a stratagem,
+    but the exact action and outcome are uncertain.
+- id: motif:2
+  label: arranged body as possible lure or decoy
+  taxonomy_refs: []
+  basis: The body is carried, placed at a forked-tree location, and then connected
+    with the hostile seeker’s search.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The passage does not explicitly state that the body is a decoy; this is
+    only a cautious motif candidate from the sequence.
+- id: motif:3
+  label: liminal tree-place for encounter or stratagem
+  taxonomy_refs: []
+  basis: The action centers on a forked or standing tree and a selected place where
+    the body/canoe arrangement is made.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: low
+  cautions: The tree is literal in the passage, but no explicit sacred or world-axis
+    function is stated.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage has the same functional pattern as a broad trickster-boundary
+    or strategic-deception motif: an active protagonist arranges objects and place
+    in anticipation of a hostile seeker.'
+  claim_level: same_function
+  target: trickster_boundary motif family / strategic deception pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a functional comparison only. The corrupted passage does not
+    support claims of historical contact, common inheritance, or a precise narrative
+    parallel.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 36638-36810
+  quote_or_summary: The interlinear passage names haksä'gowa, glossed as Great Child,
+    amid actions involving a body; OCR corruption makes the immediate action unclear.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 36810-36935
+  quote_or_summary: A speech section includes the glosses “my nephew,” “Come, behave,”
+    and a reference to dogs, along with nearby hostile-language glosses.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source metadata; short excerpt/summary from supplied
+    passage.
+- id: ev:3
+  type: summary
+  locator: lines 36935-37035
+  quote_or_summary: Great Child answers with glosses equivalent to “So be it” and
+    “I will do thus,” then starts off or goes along carrying the body.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 37035-37135
+  quote_or_summary: The body is made to stand at a place where a tree has two branches/forks;
+    the text also says he searched much for a good place where land floats and a tree
+    stands.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 37135-37245
+  quote_or_summary: A far-away standing tree and a canoe/canoe-resting place are mentioned;
+    the action is framed as overmatching the one who hates him when that figure comes
+    to seek the body as it darkens.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 37245-37328
+  quote_or_summary: Near the end, darkness and arrival are described, followed by
+    mention of a hole or sleep-hole and a gloss that the mouth does not breathe; the
+    hostile figure remains in view.
+  source_text_path: texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md
+  rights_note: Public domain source metadata; summary from supplied passage.
+confidence:
+  extraction: low
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is heavily OCR-corrupted and interlinear, so only repeated glosses
+    and relatively clear narrative fragments were extracted. Motif labels are cautious
+    and require human review against a clean edition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or inheritance claims are made. Taxonomy references are limited to supplied terms and only where the passage offers support.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-seneca-fiction-legends-myths-curtin-hewitt-archive__l36638-l37328
+  passage_sha256=6a25d0a2bbdc5a6792456d858f5048a88235be15c712d07012df6bd645559e17
+

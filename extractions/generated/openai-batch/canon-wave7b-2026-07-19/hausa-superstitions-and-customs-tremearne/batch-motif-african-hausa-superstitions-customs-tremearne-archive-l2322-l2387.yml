@@ -1,0 +1,386 @@
+---
+record_id: batch.motif.african-hausa-superstitions-customs-tremearne-archive-l2322-l2387
+source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+passage_locator:
+  label: UNCLE    REMUS  23 / CHRONOLOGY  AND  STYLE  25 / CHRONOLOGY  AND  STYLE  27
+    / CHRONOLOGY  AND  STYLE; lines 2322-2387
+  start: '2322'
+  end: '2387'
+  translation: 'Hausa Superstitions and Customs: An Introduction to the Folk-Lore
+    and the Folk'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage moves from a fragment of animal speech and artifact captions
+    into an introduction to Hausa animal tales. It states that animals once lived
+    together in a single Eden-like community, that spider tricks or hyaena thefts
+    destroyed this happy order, that animal communities resembled human tribes with
+    chiefs and officials, and that the lion was king before humans appeared. A footnote
+    says Hausa folklore includes stories contradicting the claim that animals do not
+    understand fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A dialogue fragment has puppies report seeing something black, big dogs respond
+    and tell them to go, and a hyaena says that the dog is its cousin.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Two figure captions describe patterned leather objects: a leather cushion
+    and a red leather book cover with black, white, and yellow elements.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that, according to the Hausas, all animals once lived together
+    as members of a single community in a kind of Garden of Eden.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says the happy animal family was destroyed by the sins of one
+    member, usually the tricks of the spider or the thefts of the hyaena.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The animal communities are described as organized like contemporary human
+    tribes, with chiefs, officials, subjects, duties, and dwellings.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says one story shows the lion as king before the arrival of man,
+    and says there is no known Hausa Adam naming the animals because animals seem
+    to have been first in the world.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A footnote reports Frobenius's claim that animals may have houses, clothing,
+    livestock, agriculture, and government but do not understand fire, then says this
+    is not correct for Hausa folklore.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: puppies
+  description: Young dogs who say they see something black in the dialogue fragment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: big dogs
+  description: Dogs who answer the puppies and tell them to go in the dialogue fragment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: hyaena
+  description: An animal speaker in the dialogue fragment; later named as a usual
+    thief whose thefts destroy the animal family.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: all the animals / animal community
+  description: The collective animal society said to have lived together at one time
+    as a single community organized like a human tribe.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: spider
+  description: An animal named as the usual trickster whose tricks can destroy the
+    happy animal family.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: lion
+  description: The animal said to have been king before the arrival of man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: man / human beings
+  description: Humans are described as arriving after the lion's animal kingship;
+    the passage also compares animal communities to human tribes.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: speaking animal
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The dialogue fragment attributes speech to puppies, big dogs, and a hyaena.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: member of primordial animal community
+  assigned_to:
+  - fig:4
+  basis: All animals are said to have lived together at one time as a single community.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: community disruptor by tricks or thefts
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The destruction of the animal family is attributed usually to spider tricks
+    or hyaena thefts.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: animal king before humans
+  assigned_to:
+  - fig:6
+  basis: The lion is said to have been king before the arrival of man.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: later arrival
+  assigned_to:
+  - fig:7
+  basis: Man is described as arriving after the lion's kingship, while animals seem
+    to have been first in the world.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: human-analogous polity
+  assigned_to:
+  - fig:4
+  basis: Animal communities are said to be organized on the same lines as human tribes,
+    with chiefs, officials, subjects, duties, and dwellings.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Eden-like animal community
+  literal_form: a kind of Garden of Eden
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: fire
+  literal_form: use of fire / understanding fire
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Animal dialogue fragment
+  summary: Puppies, big dogs, and a hyaena speak in a short exchange involving a black
+    thing, a kinship claim, and the dogs' command to go.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dissolution of the primordial animal family
+  summary: All animals are said to have lived together in an Eden-like community until
+    wrongdoing, usually spider tricks or hyaena thefts, destroyed the happy family.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Animal polity before humans
+  summary: Animal communities are described as organized like human tribes, and the
+    lion is said to have been king before humans arrived.
+  figure_refs:
+  - fig:4
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Note on animals and fire
+  summary: A footnote contrasts a general claim that animals do not understand fire
+    with the author's statement that Hausa folklore includes stories where this is
+    not correct.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Eden-like primordial animal community
+  taxonomy_refs: []
+  basis: The passage explicitly says all animals once lived together in a single community
+    in a kind of Garden of Eden.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic summary, not a full tale in the excerpt.
+- id: motif:2
+  label: Trickster or thief breaks the animal order
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The happy animal family is said to be destroyed by one member's sins, usually
+    spider tricks or hyaena thefts.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The spider fits a trickster pattern directly; the hyaena's thefts are
+    not described in detail and are not identified as sacred thefts.
+- id: motif:3
+  label: Animal kingdom organized like human society
+  taxonomy_refs: []
+  basis: Animal communities are described as having chiefs, officials, subjects, duties,
+    and dwellings like human tribes.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the social structure generally rather than narrating
+    a specific episode.
+- id: motif:4
+  label: Lion as king before humans
+  taxonomy_refs: []
+  basis: The passage says one story shows the lion as king before the arrival of man.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The referenced story itself is not included in this excerpt.
+- id: motif:5
+  label: Animals with human cultural capacities including fire
+  taxonomy_refs: []
+  basis: The footnote says Hausa folklore contradicts the claim that animals do not
+    understand fire.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The footnote refers to several stories elsewhere; no fire-use episode
+    is narrated here.
+- id: motif:6
+  label: Speaking animals and contested kinship
+  taxonomy_refs: []
+  basis: The dialogue fragment includes speaking puppies, big dogs, and a hyaena,
+    with the hyaena claiming that the dog is its cousin.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The dialogue is fragmentary and appears to belong to preceding material.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself supports a limited comparison between the former animal
+    community and a Garden of Eden pattern of primordial harmony.
+  claim_level: same_function
+  target: Garden of Eden / primordial harmony pattern
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The comparison is the author's wording. The passage does not include
+    a human pair, command, tree, serpent, or expulsion, and it explicitly says there
+    is no known Hausa Adam naming the animals.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2322-2334
+  quote_or_summary: 'Dialogue fragment: puppies say they see something black; big
+    dogs answer and then tell them to go; the hyaena says the dog is its cousin.'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2336-2340
+  quote_or_summary: Figure captions describe a leather cushion with picked-out pattern
+    and black circles, and a red leather book cover with picked-out pattern, black
+    stain, and yellow leather edge.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2350-2355
+  quote_or_summary: '"all the animals lived together at one time as members of a single
+    community in a kind of Garden of Eden"'
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 2355-2358
+  quote_or_summary: The sins of one animal, usually spider tricks or hyaena thefts,
+    are said to have destroyed the happy animal family.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2358-2364
+  quote_or_summary: Animal communities are said to be organized like present-day human
+    tribes, with chiefs, officials, subjects, duties, and dwellings.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2364-2370
+  quote_or_summary: A story is said to show the lion as king before humans arrived;
+    the author says there is no idea of a Hausa Adam naming animals, since the animals
+    seem to have been first in the world.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2372-2387
+  quote_or_summary: The footnote reports Frobenius's claim that animals may have houses,
+    clothing, livestock, agriculture, and government but not fire; the author says
+    Hausa folklore stories show this is not correct.
+  source_text_path: texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly an ethnographic introduction rather than a full narrative.
+    Motifs are therefore extracted as reported tale patterns, and the animal dialogue
+    at the start is treated as fragmentary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to supplied lists and only applied where directly supported.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-hausa-superstitions-customs-tremearne-archive__l2322-l2387
+  passage_sha256=25f35cc4a23ab02b374b55ffec31999e1daf23b9266814045b27e8e002d6ebae
+

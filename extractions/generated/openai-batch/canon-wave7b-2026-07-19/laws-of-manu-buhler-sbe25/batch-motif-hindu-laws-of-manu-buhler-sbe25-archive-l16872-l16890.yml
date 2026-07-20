@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.hindu-laws-of-manu-buhler-sbe25-archive-l16872-l16890
+source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+passage_locator:
+  label: LAWS   OF   MANU. / O    2 / V,  166.  WOMEN.  I97 / I98  LAWS    OF    MANU.  V,  167;
+    lines 16872-16890
+  start: '16872'
+  end: '16890'
+  translation: The Laws of Manu (Sacred Books of the East, Vol. 25)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage prescribes that a twice-born man versed in sacred law should
+    cremate a wife of equal caste who dies before him with Agnihotra sacred fires
+    and sacrificial implements. After giving the sacred fires to her at the funeral,
+    he may remarry and rekindle the fires. He must continue the five great sacrifices
+    and live as a householder in the second period of life.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A twice-born man versed in sacred law is instructed to burn a wife of equal
+    caste who dies before him with Agnihotra sacred fires and sacrificial implements.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wife is described as being of equal caste and as dying before the man.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At the funeral, the man gives the sacred fires to his wife who has died before
+    him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the funeral rite, the man may marry again and kindle the fires again.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man is instructed never to neglect the five great sacrifices.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After taking a wife, the man is instructed to dwell in his own house during
+    the second period of life.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: twice-born man versed in sacred law
+  description: A male ritual actor addressed by the prescription; he cremates his
+    deceased wife, gives sacred fires at her funeral, may remarry, rekindles the fires,
+    and must maintain sacrifices.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: wife of equal caste
+  description: The man's wife of equal caste who dies before him and receives funeral
+    rites with sacred fires and sacrificial implements.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: householder responsible for sacred fires and sacrifices
+  assigned_to:
+  - fig:1
+  basis: The man burns the wife with Agnihotra fires, gives sacred fires at the funeral,
+    rekindles fires, and must not neglect the five great sacrifices.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: surviving husband permitted to remarry
+  assigned_to:
+  - fig:1
+  basis: After the funeral, the passage says he may marry again.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deceased wife receiving funeral rites
+  assigned_to:
+  - fig:2
+  basis: The wife dies before him and is to be burned with sacred fires and sacrificial
+    implements.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: sacred fires of the Agnihotra
+  literal_form: sacred fires used for the Agnihotra; given at the funeral and later
+    rekindled
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: sacrificial implements
+  literal_form: implements used in the funeral cremation alongside the Agnihotra fires
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: five great sacrifices
+  literal_form: the five great sacrifices that the man must never neglect
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: own house
+  literal_form: the man's own house, where he must dwell after taking a wife during
+    the second period of life
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: funeral cremation with Agnihotra fires
+  summary: A twice-born man versed in sacred law is directed to cremate his wife of
+    equal caste, who dies before him, with Agnihotra sacred fires and sacrificial
+    implements.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: giving and rekindling of sacred fires
+  summary: At the funeral, the man gives the sacred fires to his deceased wife; afterward
+    he may remarry and kindle the fires again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: continued householder sacrifices
+  summary: The man is instructed to live according to the stated rules, not neglect
+    the five great sacrifices, and dwell in his own house after taking a wife during
+    the second life period.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: funerary use of sacred sacrificial fire
+  taxonomy_refs:
+  - sacrifice
+  basis: The wife's funeral cremation is explicitly linked with Agnihotra sacred fires
+    and sacrificial implements, and verse 168 describes giving the sacred fires to
+    her at the funeral.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a legal-ritual prescription rather than a narrative mythic episode.
+- id: motif:2
+  label: renewal of household ritual fire after remarriage
+  taxonomy_refs: []
+  basis: After giving the sacred fires to the deceased wife at the funeral, the man
+    may marry again and kindle the fires again.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states a ritual sequence but does not elaborate a mythic symbolism
+    of renewal.
+- id: motif:3
+  label: continuing obligation of householder sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage instructs the man never to neglect the five great sacrifices
+    while living according to the rules as a householder.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The five sacrifices are mentioned as prescribed duties; their ritual details
+    are not given in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage aligns with the sacrifice motif family through its repeated focus
+    on sacred fires, sacrificial implements, and the five great sacrifices as required
+    ritual actions.
+  claim_level: same_motif
+  target: sacrifice motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to motif-family classification; the passage is
+    prescriptive dharmashastra material and does not provide a narrative myth for
+    broader historical comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: V.167; lines 16872-16878
+  quote_or_summary: A twice-born man versed in sacred law is to burn a wife of equal
+    caste who dies before him with Agnihotra sacred fires and sacrificial implements.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: V.168; lines 16880-16883
+  quote_or_summary: At the funeral, after giving the sacred fires to the deceased
+    wife, the man may marry again and rekindle the fires.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: V.169; lines 16885-16890
+  quote_or_summary: Living by the preceding rules, the man must not neglect the five
+    great sacrifices and, after taking a wife, must dwell in his own house during
+    the second period of life.
+  source_text_path: texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal ritual sequence is clear. Motif classification is limited because
+    the excerpt is legal-prescriptive rather than narrative mythology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external figures, taxonomy identifiers, or historical comparisons were added beyond the supplied passage and available taxonomy references.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-laws-of-manu-buhler-sbe25-archive__l16872-l16890
+  passage_sha256=2018401bc4b04d3c4869fb4c4a4d2807b88929768a03671ab1c744ddf17c18d7
+

@@ -1,0 +1,185 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l66-l91
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: The Bacchae of Euripides / BACCHAE; lines 66-91
+  start: '66'
+  end: '91'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: A Series of Verse Translations of the Greek Dramatic Poets
+  summary: The passage is front-matter/catalogue material for a series titled The
+    Athenian Drama for English Readers. It lists volumes of translations of Greek
+    dramatic poets, naming works by Aeschylus, Sophocles, Euripides, and Aristophanes,
+    with translators, introductions, notes, illustrations, prices, and edition information.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents a publication series called The Athenian Drama for English
+    Readers.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The series is described as verse translations of Greek dramatic poets with
+    commentaries and explanatory notes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The listed volumes include works attributed to Aeschylus, Sophocles, and Euripides,
+    and one volume also includes Aristophanes' Frogs.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: The Euripides volume is described as containing Hippolytus, Bacchae, and Aristophanes'
+    Frogs, translated by Prof. Gilbert Murray, with an appendix, an introduction,
+    and illustrations.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Aeschylus
+  description: Named as the author associated with The Orestean Trilogy in the listed
+    series.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Sophocles
+  description: Named as the author associated with OEdipus Tyrannus, Coloneus, and
+    Antigone in the listed series.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Euripides
+  description: Named as the author associated with Hippolytus and Bacchae in the listed
+    series.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Aristophanes
+  description: Named in connection with Frogs in the listed Euripides volume.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Prof. Gilbert Murray
+  description: Named as the person by whom the Euripides volume is presented in the
+    series listing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Greek dramatic poet named in publication listing
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage lists these names with Greek dramatic works in a series of translations
+    of Greek dramatic poets.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: translator or volume author named in publication listing
+  assigned_to:
+  - fig:5
+  basis: The passage states the Euripides volume is by Prof. Gilbert Murray.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Publication series catalogue
+  summary: A catalogue-style front-matter passage introduces a series of verse translations
+    of Greek dramatic poets and lists specific volumes, contributors, supplemental
+    materials, illustrations, and price information.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 66-91
+  quote_or_summary: '"THE ATHENIAN DRAMA" / "FOR ENGLISH READERS"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: lines 66-91
+  quote_or_summary: '"A Series of Verse Translations of the Greek Dramatic Poets,
+    with Commentaries and Explanatory Notes."'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 66-91
+  quote_or_summary: The listing names Aeschylus' Orestean Trilogy, translated by Prof.
+    G. C. Warr, with an introduction and illustrations.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 66-91
+  quote_or_summary: The listing names Sophocles' OEdipus Tyrannus, Coloneus, and Antigone,
+    translated by Prof. J. S. Phillimore, with an introduction and illustrations.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 66-91
+  quote_or_summary: The listing names a Euripides volume containing Hippolytus, Bacchae,
+    and Aristophanes' Frogs, by Prof. Gilbert Murray, with an appendix, an introduction
+    on the Bacchae, and illustrations.
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The supplied excerpt is publication front matter rather than a mythic or
+    dramatic narrative passage; no supported motif, symbol, or comparison claims were
+    extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol references were applied because the passage does not contain narrative mythic action or listed taxonomy symbols.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l66-l91
+  passage_sha256=59a47112d24871d2d0aa588484952e0a12f47015e1bcae2892919e260dd60d99
+

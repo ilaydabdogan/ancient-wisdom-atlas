@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v1-campbell-archive-l8839-l8871
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+passage_locator:
+  label: THE SEA-MAIDEN. 99 / THE SEA-MAIDEN. 101 / THE SEA-MAIDEN. 103 / CON ALL
+    CRA-BHUIDHK. 127; lines 8839-8871
+  start: '8839'
+  end: '8871'
+  translation: Popular Tales of the West Highlands, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Opening of the tale of Conal Crovi: a king''s three sons return from learning
+    in France and visit the house of the king''s tenant Conal Crobhi. After Conal
+    hosts them, the eldest son states a rule assigning the goodwife, maid, and daughter
+    to wait on the three brothers. Conal objects to parting from his wife, locks the
+    door behind him, and orders his gillie to prepare the three best horses for departure
+    with members of his household.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A king over England is said to have three sons.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The three sons went to France for learning, returned home, and decided to
+    inspect the order of the kingdom, first visiting Conal Crobhi's house.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Conal Crobhi is identified as one of the king's tenants.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Conal Crobhi had food and drink ready for the royal sons and satisfied them
+    as guests.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When it was time to lie down, the eldest son stated a rule allocating the
+    goodwife to himself, the maid to the middle brother, and the guidman's daughter
+    to the youngest brother.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Conal said the rule did not please him and specifically said he was unwilling
+    to part from his wife.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Conal went outside and locked the door behind him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Conal told his gillie to have the three best horses in the stable ready without
+    delay.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Conal and his wife went on one horse, while the gillie and Conal's daughter
+    went on another; the passage ends while mentioning Conal's son.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: King over England
+  description: A king in England and father of three sons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: King's three sons
+  description: The king's three sons, who went to France for learning, returned, and
+    visited Conal Crobhi's house.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: King's big son
+  description: The eldest son; he states the rule assigning household women to wait
+    on the three brothers.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Middle brother
+  description: The middle brother, named in the eldest son's rule as the one whom
+    the maid must wait on.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Young brother
+  description: The youngest brother, named in the eldest son's rule as the one whom
+    the guidman's daughter must wait on.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Conal Crobhi / Conal Crovi
+  description: A tenant of the king who hosts the sons, objects to the eldest son's
+    rule, locks the door, and arranges horses.
+  role_refs:
+  - role:5
+  - role:7
+  - role:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:7
+  name_or_label: Conal's wife / goodwife
+  description: Conal's wife, called the goodwife in the royal son's rule; Conal says
+    he is unwilling to part from her, and she rides with him on one horse.
+  role_refs:
+  - role:6
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:8
+  name_or_label: The maid
+  description: A maid named in the eldest son's rule as the one who must wait on the
+    middle brother.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Conal's daughter / guidman's daughter
+  description: The guidman's daughter, allocated in the eldest son's rule to the young
+    brother; later she rides with the gillie on another horse.
+  role_refs:
+  - role:6
+  - role:9
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:10
+  name_or_label: Conal's gillie
+  description: Conal's servant or attendant, ordered to prepare the three best horses;
+    he rides with Conal's daughter.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: Conal's son
+  description: Conal's son is mentioned at the end of the passage as the mounted departure
+    sequence continues, but the line range ends before the action is completed.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ruler and father
+  assigned_to:
+  - fig:1
+  basis: The passage names a king over England and says he had three sons.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal sons returning from learning
+  assigned_to:
+  - fig:2
+  basis: The sons return from France and go to inspect the kingdom.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: speaker imposing household rule
+  assigned_to:
+  - fig:3
+  basis: The eldest son states the rule assigning the women to wait on the brothers.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipients of assigned attendance
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The goodwife, maid, and daughter are assigned to the eldest, middle, and
+    youngest brothers respectively.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: tenant host
+  assigned_to:
+  - fig:6
+  basis: Conal is described as one of the king's tenants and provides meat and drink
+    to the sons.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:6
+  label: household women named in the demand
+  assigned_to:
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: The eldest son's rule names the goodwife, maid, and guidman's daughter as
+    those who must wait on the brothers.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: objecting husband and organizer
+  assigned_to:
+  - fig:6
+  basis: Conal objects to parting from his wife, exits, locks the door, and orders
+    horses prepared.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: helper ordered to prepare horses
+  assigned_to:
+  - fig:10
+  basis: Conal tells his gillie to have the three best horses ready without delay.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: mounted departing household members
+  assigned_to:
+  - fig:6
+  - fig:7
+  - fig:9
+  - fig:10
+  basis: The passage states that Conal and his wife went on one horse, and the gillie
+    and daughter on another.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: mentioned household son
+  assigned_to:
+  - fig:11
+  basis: The passage ends while mentioning Conal's son in the same departure sequence.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: threefold pattern
+  literal_form: Three royal sons; three assigned women; three best horses.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: prepared horses
+  literal_form: The three best horses in the stable, readied without delay and used
+    by Conal's household.
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: locked door
+  literal_form: Conal locks the door behind him after leaving the room.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Royal sons return and visit a tenant
+  summary: The king's three sons return from learning in France and first visit the
+    house of Conal Crobhi while inspecting the kingdom.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hospitality followed by imposed attendance rule
+  summary: Conal provides food and drink to the sons. At bedtime, the eldest son states
+    a rule assigning the goodwife, maid, and daughter to wait on the three brothers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Objection and mounted departure
+  summary: Conal objects to parting from his wife, goes out, locks the door, orders
+    horses prepared, and begins leaving with household members on horseback.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Hospitality under pressure from royal guests
+  taxonomy_refs: []
+  basis: Conal hosts the king's sons with food and drink, after which the eldest son
+    imposes a rule requiring household women to wait on the brothers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly label the sons' behavior as a violation;
+    the phrase 'wait on' should not be expanded beyond the wording of the passage.
+- id: motif:2
+  label: Household departure after coercive demand
+  taxonomy_refs:
+  - departure
+  basis: After objecting to the demand involving his wife, Conal locks the door, orders
+    horses prepared, and departs with household members mounted on horses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The line range ends mid-sequence, so the destination and full outcome
+    of the departure are not included here.
+- id: motif:3
+  label: Threefold distribution pattern
+  taxonomy_refs: []
+  basis: 'The passage repeats a three-part structure: three royal sons, three women
+    assigned to them, and three best horses ordered from the stable.'
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The number pattern is observable, but the passage does not explicitly
+    interpret it as symbolic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8842-8848
+  quote_or_summary: A king over England had three sons; they went to France for learning,
+    returned, and first visited the house of the king's tenant Conal Crobhi while
+    inspecting the kingdom.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 8849-8855
+  quote_or_summary: Conal Crobhi provided the visitors with the best food and drink
+    and satisfied them before bedtime.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 8856-8862
+  quote_or_summary: '"The goodwife must wait on me, and the maid must wait on my middle
+    brother, and the guidman''s daughter on my young brother."'
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 8862-8867
+  quote_or_summary: Conal says the rule does not please him, says he is not willing
+    to part from his wife, goes outside, and locks the door behind him.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 8867-8871
+  quote_or_summary: Conal tells his gillie to prepare the three best horses; Conal
+    and his wife go on one, the gillie and daughter on another, and the passage ends
+    while mentioning Conal's son.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md
+  rights_note: Public domain source; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the supplied line range. Motif candidates
+    are cautious because the excerpt ends mid-action and does not provide the later
+    narrative outcome. No comparison claims are made because the passage itself does
+    not support an external or cross-tradition comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The passage line range ends during a departure sequence, so claims about the subsequent action are limited.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v1-campbell-archive__l8839-l8871
+  passage_sha256=aff7ba5335fa1834df983511a9f903468f03dc3769b1d3417941139e4866044a
+

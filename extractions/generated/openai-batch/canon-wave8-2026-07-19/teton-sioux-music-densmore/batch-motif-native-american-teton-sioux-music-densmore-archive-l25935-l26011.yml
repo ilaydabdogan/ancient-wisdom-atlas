@@ -1,0 +1,439 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l25935-l26011
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: WAR  SHIELD  (REVERSE) / BULLETIN  SI      PLATE  SO / TETON   STOUX   MUSIC
+    / WOBDS; lines 25935-26011
+  start: '25935'
+  end: '26011'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives word glosses and a free translation for a song of contempt
+    and horse-taking, followed by musical analysis. It then describes Sioux warrior
+    scouting concealment, open-battle regalia, war medicine rubbed on warriors and
+    horses, and Little Buffalo's war painting with blue clay and songs recorded by
+    Bear Eagle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The song words are explained as a contemptuous exchange in which the speaker
+    says others claim he will never arrive at anything, but he is coming after horses.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The musical analysis states that the song uses only tones of the minor triad
+    and fourth, with many major-second progressions and no repeated rhythmic phrase.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Warriors acting as scouts or trying to remain unobserved wore a white cloth
+    like a blanket, often with eagle feathers at the shoulders; the hands were always
+    covered.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When a warrior saw an enemy at a distance, he strung his bow and later positioned
+    an arrow under the blanket so he could quickly open the blanket and shoot.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: For an expected open fight, warriors put on bright regalia, feather ornaments,
+    and decorated war shirts; some wore little clothing and rubbed war medicine on
+    themselves.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The war medicine is described as earth worked up by a mole mixed with a powdered
+    herb; it was rubbed on warriors and horses.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Some warriors preferred to be painted by medicine-men before war.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Little Buffalo made medicine for warriors and painted a blue-clay band across
+    a man's forehead with branching ends on the cheekbones, only in war; medicine
+    was also rubbed on the body and limbs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: 'Bear Eagle had been painted by Little Buffalo and recorded two songs: one
+    sung by Little Buffalo while painting and one sung softly by mounted warriors
+    after the painting was finished.'
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: warriors
+  description: Men who act as scouts, prepare for open fight, receive war medicine
+    or painting, mount horses, and sing after painting.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: enemy
+  description: An enemy seen in the distance by a warrior preparing to shoot.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: horses
+  description: Animals sought in the song, rubbed with war medicine, and mounted before
+    the warriors' song.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: medicine-men
+  description: Men whom some warriors preferred to have paint them before war.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Little Buffalo (Tatai'ka-cika'la)
+  description: A man who made medicine for warriors, painted them with blue clay mixed
+    with medicine, and sang while painting.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: Bear Eagle (Mato'-war)bli')
+  description: A man painted by Little Buffalo who recorded the two songs and explained
+    how they were sung.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: warrior-scout seeking concealment
+  assigned_to:
+  - fig:1
+  basis: The passage says warriors acting as scouts or wishing to be unobserved wore
+    white cloth coverings and concealed their weapons.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: distant opponent
+  assigned_to:
+  - fig:2
+  basis: The warrior is described as seeing an enemy in the distance before preparing
+    his bow and arrow.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: mounted and treated war animal
+  assigned_to:
+  - fig:3
+  basis: Horses are the object of the song's pursuit, are rubbed with war medicine,
+    and are mounted before the warriors' song.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: role:4
+  label: war-medicine practitioner and painter
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage says medicine-men painted some warriors, and Little Buffalo made
+    medicine and painted warriors before war.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: painted warrior and song recorder
+  assigned_to:
+  - fig:6
+  basis: Bear Eagle had been painted by Little Buffalo and recorded the two songs
+    discussed in the passage.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: war-paint recipients and post-painting singers
+  assigned_to:
+  - fig:1
+  basis: Warriors received painting or medicine and sang softly after the painting
+    was finished and they had mounted their horses.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: white scout covering
+  literal_form: White cloth arranged like a blanket, sometimes with a separate head
+    cloth and always covering the hands.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: eagle feathers on scout covering
+  literal_form: Eagle feathers fastened at the shoulders of the white cloth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: concealed bow and arrow
+  literal_form: A strung bow, quiver, and arrow held under the blanket, ready to be
+    released quickly.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: open-fight regalia
+  literal_form: Gayest regalia, feather ornaments, and decorated war shirts donned
+    for expected open fighting.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: war medicine mixture
+  literal_form: Earth worked up by a mole mixed with powdered herb and rubbed on bodies
+    and horses.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: blue clay war paint
+  literal_form: Blue clay mixed with medicine, painted as a band across the forehead
+    with branching ends on each cheekbone.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:7
+  label: war-painting songs
+  literal_form: One song sung by Little Buffalo while painting and another sung softly
+    by mounted warriors after painting.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Song words and musical analysis
+  summary: The passage glosses a song as a contemptuous reply involving coming after
+    horses, then analyzes its tonal and rhythmic features.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Concealed scouting costume and weapon readiness
+  summary: Warriors seeking to be unobserved wear white blanket-like coverings and
+    prepare a bow and arrow under the covering when approaching an enemy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Open-fight preparation with regalia and medicine
+  summary: When open fighting is expected, warriors don regalia or wear little clothing
+    and rub war medicine made from mole-worked earth and herb on themselves and their
+    horses.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Little Buffalo's war painting and songs
+  summary: Little Buffalo paints warriors with blue clay mixed with medicine and sings
+    while painting; after the painting, mounted warriors sing softly.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: defiant horse-taking song
+  taxonomy_refs: []
+  basis: The free translation presents a speaker responding to contempt by saying
+    he is coming after horses.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a song gloss, not a full narrative context for the horse-taking
+    action.
+- id: motif:2
+  label: concealment by white covering before scouting
+  taxonomy_refs: []
+  basis: Warriors acting as scouts or trying to avoid observation wear white blanket-like
+    cloths with covered hands.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage describes a military practice; symbolic meaning beyond concealment
+    is not stated.
+- id: motif:3
+  label: hidden weapon readiness under a covering
+  taxonomy_refs: []
+  basis: The warrior keeps bow and arrow positioned beneath the blanket so he can
+    suddenly open it and shoot.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an observed tactic rather than an explicitly mythic motif.
+- id: motif:4
+  label: protective or empowering war medicine for warriors and horses
+  taxonomy_refs: []
+  basis: Warriors rub a mixture of mole-worked earth and powdered herb on themselves
+    and their horses before fighting.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The text calls the substance war medicine but does not explain its intended
+    power in detail.
+- id: motif:5
+  label: medicine-man war painting with song
+  taxonomy_refs: []
+  basis: Little Buffalo paints warriors with blue clay mixed with medicine, sings
+    during painting, and the warriors sing after the painting is finished.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage identifies the war context but does not provide the full lyrics
+    or ceremonial explanation of the two songs.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly cross-references the use of the word taku in this song
+    with songs Nos. 134 and 156, supporting only a limited linguistic or formulaic
+    comparison within the same collection.
+  claim_level: linguistic_similarity
+  target: use of taku in songs Nos. 134 and 156 in Teton Sioux Music
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide the text of songs Nos. 134 or 156, so
+    no broader motif comparison can be established here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25935-25950
+  quote_or_summary: 'Word glosses and notes translate the song as a contemptuous statement:
+    others say the speaker will never arrive at anything, but he is coming after horses;
+    a note compares taku with songs Nos. 134 and 156.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; source metadata states full text use allowed.
+- id: ev:2
+  type: summary
+  locator: 25951-25960
+  quote_or_summary: The analysis says the song contains only tones of the minor triad
+    and fourth, progresses largely by whole tones, and has no repeated rhythmic phrase
+    despite suggesting a rhythmic unit.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; source metadata states full text use allowed.
+- id: ev:3
+  type: summary
+  locator: 25961-25978
+  quote_or_summary: Warriors acting as scouts wore white cloth coverings, often with
+    eagle feathers, kept hands covered, and concealed a ready bow and arrow under
+    the blanket while approaching an enemy.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; source metadata states full text use allowed.
+- id: ev:4
+  type: summary
+  locator: 25979-25991
+  quote_or_summary: For expected open fighting, warriors donned regalia and feather
+    ornaments; some used little clothing and rubbed war medicine made from mole-worked
+    earth and powdered herb on themselves and their horses.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; source metadata states full text use allowed.
+- id: ev:5
+  type: summary
+  locator: 25992-26001
+  quote_or_summary: Some warriors preferred painting by medicine-men; Little Buffalo
+    made medicine and used blue clay mixed with medicine to paint a forehead band
+    with branching cheekbone ends, only in war.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; source metadata states full text use allowed.
+- id: ev:6
+  type: summary
+  locator: 26002-26011
+  quote_or_summary: 'Bear Eagle, painted by Little Buffalo, recorded two songs: Little
+    Buffalo sang the first while painting, and warriors sang the second softly after
+    painting, once mounted on horses.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain; source metadata states full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is descriptive and public-domain; motifs are candidate ritual
+    or martial patterns rather than explicit mythic narratives. The only comparison
+    claim is a narrow cross-reference stated in the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif-family or symbol reference was assigned because the passage does not explicitly support the listed taxonomy categories.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l25935-l26011
+  passage_sha256=fa8871fd715ddf68584ee007c132d9c79a900e56c8691bcc8e7eaadea983b830
+

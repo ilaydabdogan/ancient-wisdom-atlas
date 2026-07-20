@@ -1,4 +1,68 @@
+---
+id: micronesian.caroline_islands.christian_archive
+title: 'The Caroline Islands: Travel in the Sea of the Little Lands'
+alternate_titles:
+- The Caroline Islands
+text_status: complete
+tradition: micronesian
+culture: pohnpei_yap_caroline_islands_traditions
+region: micronesia_caroline_islands
+source_language: Pohnpeian, Yapese, and Mortlockese oral traditions mediated through
+  English
+text_language: English
+date_range: living oral traditions; residence and travel 1896-1898 (notably Pohnpei
+  and Yap); published 1899
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.carolineislands00chri
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1899 Methuen London edition
+  translator: F. W. Christian
+  editor: ''
+  publication_year: 1899
+  publisher: Internet Archive
+  source_url: https://archive.org/details/carolineislands00chri
+  access_date: '2026-07-19'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1899, US public domain. Recording context - Polynesian-languages
+    scholar traveling resident; records Pohnpei cosmogony, Nan-Matal (Nan Madol) legends,
+    deity lists, and folk-tales alongside travel narrative and vocabularies; legend
+    material is paraphrase with some translated passages. Satisfies the Micronesia
+    retry - one of the only pre-1930 English sources with real Carolinian myth content.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- micronesia
+- pohnpei
+- yap
+- nan_madol
+- isolated_lineage
+motifs:
+- creation
+- culture_hero
+- sacred_city
+- spirit_beings
+figures: []
+---
+
 # The Caroline Islands: Travel in the Sea of the Little Lands
+
 PREFACE
 
 THE period between the years 1890 and 1893 ^^
@@ -5711,7 +5775,7 @@ outline like a boomerang or horse-shoe ; Urak and Kalap
 are longer in stretch, and crescent-shaped. Kalap and
 Manton are inhabited, the former containing the main
 settlement surrounded with yam and taro patches, and
-embowered in palms and hibiscus (P i), screw-pine and
+embowered in palms and hibiscus (P<i), screw-pine and
 Barringtonia. Urak is one wild palm-grove, full of pigs
 and wild fowl, and is often visited from the main settlement. A pretty feature hereabouts at half-tide are the
 numerous primrose, mauve and sulphur-tinted bits of coral
@@ -12506,5 +12570,4 @@ I hear lake water lapping with low sounds by the shore ;
 While I stand on the roadway, or on the pavements grey
 
 I hear it in the deep heart's core."
-
 

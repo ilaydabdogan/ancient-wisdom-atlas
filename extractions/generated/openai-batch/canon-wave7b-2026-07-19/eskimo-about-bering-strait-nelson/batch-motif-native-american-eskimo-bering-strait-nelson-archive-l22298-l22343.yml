@@ -1,0 +1,501 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l22298-l22343
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: THE    ESKIMO    ABOUT    BERING    STRAIT / NEI.SONJ  DANCE    ON    SLEDGE    ISLAND  355
+    / CALENDAR    OF   FESTIVALS / THE    TKADING  FESTIVAL; lines 22298-22343
+  start: '22298'
+  end: '22343'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a trading festival in which hosts sing and drum while
+    guests bring skins. A leading guest is honored with a new fur coat; headmen dance
+    and sing pantomimes of exploits; young men pile skins near a lamp. The host provides
+    requested equivalent goods, augments a pile of valuables for distribution, entertains
+    with songs and dances, and closes with food distribution. Additional notes describe
+    variants involving a trader, a Malemut party dissatisfied with gifts at Unalaklit,
+    and a sketch of men traveling to such a festival and being met by villagers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hosts sit at one side of the room beating drums and singing while skins are
+    brought in.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The host or chief naskuk meets the first naskuk guest and puts a new fur coat
+    on him as an honor.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each headman throws down skins, performs a short dance to the drums, pantomimes
+    an exploit of himself or his father, and sings praise of the person represented.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Young men bring desired furs, sometimes more than one skin, and throw them
+    into a heap near the lamp at the head of the room.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The host brings requested articles to each headman as an equivalent for furs,
+    and on each return adds valuable articles near the lamp until an equivalent pile
+    for the young men's furs is formed and distributed to them.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the exchanges, the host entertains the guests with songs and dances,
+    and the festival ends with food distribution.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the trader-led instance, the young men's skins were taken by the trader;
+    when Eskimo give the festival, such skins are distributed among village young
+    men who contribute to the supply of articles for guests.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A Malemut party traveled to a trading festival at Unalaklit with sledges laden
+    with reindeer skins, but took the skins back and returned home after dissatisfaction
+    with return presents.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A sketch by an Eskimo from the Kaviak peninsula showed men from Cape Prince
+    of Wales traveling to such a festival and being met by villagers of the destination
+    place.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hosts or entertainers
+  description: People seated at one side of the room, beating drums and singing while
+    the skins are brought in.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Host or chief naskuk
+  description: The chief host who honors the first naskuk, brings requested goods,
+    adds valuables near the lamp, dances, entertains, and oversees distribution.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: First naskuk guest
+  description: The naskuk to whom the messenger first went in the village; he is treated
+    as the most important guest and receives a new fur coat.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Headmen guests
+  description: Headmen who bring skins, dance, pantomime exploits, and receive requested
+    articles in return.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:5
+  name_or_label: Young men guests
+  description: Young men who come on the general invitation, bring furs, and later
+    receive distributed articles equivalent to their pile of furs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: Trader
+  description: The trader who took the young men's skins in the specific instance
+    described.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Village young men in Eskimo-hosted festival
+  description: Young men of the village who receive distributed skins and contribute
+    to the general supply of articles for guests.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Malemut party
+  description: A party traveling to a trading festival at Unalaklit with sledges loaded
+    with reindeer skins.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Men from Cape Prince of Wales
+  description: Figures in a sketch showing them on their way to a festival of this
+    kind.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Villagers at destination
+  description: Villagers of the place to which the Cape Prince of Wales party is going,
+    shown meeting the visitors.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: festival host and exchange coordinator
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Hosts provide music and entertainment; the chief host honors a guest, supplies
+    equivalent goods, adds valuables, and distributes food.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: honored principal guest
+  assigned_to:
+  - fig:3
+  basis: The first naskuk is called the most important guest and is given a new fur
+    coat as a mark of honor.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: contributing headman performer-recipient
+  assigned_to:
+  - fig:4
+  basis: Headmen bring skins, dance and sing, and receive desired articles in return.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: young contributing guest-recipient
+  assigned_to:
+  - fig:5
+  basis: Young men bring skins and later receive distributed articles equivalent to
+    their pile of furs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: recipient of young men's skins in trader-led instance
+  assigned_to:
+  - fig:6
+  basis: The passage states that the skins brought by young men in this instance were
+    taken by the trader.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: village contributors in Eskimo-hosted variant
+  assigned_to:
+  - fig:7
+  basis: When Eskimo give the festival, skins are distributed among village young
+    men who contribute to the supply of articles for guests.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: visiting festival party
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: The Malemut party and the men from Cape Prince of Wales are described as
+    traveling to festivals of this kind.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:8
+  label: welcoming destination villagers
+  assigned_to:
+  - fig:10
+  basis: The sketch shows villagers meeting the men traveling to the festival.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: skins and furs as exchange goods
+  literal_form: skins, furs, reindeer skins
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: honor coat
+  literal_form: new fur coat placed on the first naskuk guest
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: central heap near lamp
+  literal_form: heap of furs and later articles near the lamp at the head of the room
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: drums, songs, and dances
+  literal_form: drums, singing, short dances, pantomime performance
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: closing food distribution
+  literal_form: food distributed at the end of the festival
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: loaded sledges
+  literal_form: sledges laden with reindeer skins
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Guests bring skins while hosts drum and sing
+  summary: Hosts sit in the room beating drums and singing as guests begin bringing
+    in skins; the first naskuk is honored with a new fur coat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Headmen perform and young men pile furs near the lamp
+  summary: Headmen throw down skins and perform short dances with pantomime and praise;
+    young men bring furs and place them in a heap near the lamp.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Equivalent articles are brought and distributed
+  summary: The host successively brings requested articles for headmen, adds valuables
+    near the lamp, distributes the accumulated equivalent goods to young men, entertains
+    with songs and dances, and concludes with food distribution.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Trader-led and Eskimo-hosted distribution variant
+  summary: The passage distinguishes an instance in which the trader takes the young
+    men's skins from Eskimo-hosted festivals where skins are distributed among contributing
+    village young men.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Malemut party returns skins after unsatisfactory presents
+  summary: A Malemut party traveling to a trading festival at Unalaklit with reindeer
+    skins participates but takes the skins back after dissatisfaction with the return
+    presents.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Travelers to festival met by villagers
+  summary: A sketch shows men from Cape Prince of Wales going to a festival and being
+    met by villagers at the destination.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ritualized reciprocal exchange at a festival
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Guests bring furs or skins, the host provides desired or equivalent articles,
+    valuables are accumulated for distribution, and the event concludes with food
+    distribution.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is ethnographic description of a trading festival, not a mythic
+    narrative; the taxonomy link is to the exchange pattern only.
+- id: motif:2
+  label: honor through garment gift and public performance
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The principal guest receives a new fur coat as a mark of honor, and headmen
+    publicly dance, pantomime exploits, and sing praise while presenting skins.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The evidence supports a ritual honor pattern within exchange; broader
+    symbolic meaning is not stated.
+- id: motif:3
+  label: centralized gift pile redistributed to contributors
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Furs are heaped near the lamp, the host builds a corresponding heap of valuables,
+    and the accumulated articles are distributed among the young men.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the lamp's meaning beyond its physical location.
+- id: motif:4
+  label: exchange reversal after inadequate reciprocity
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Malemut party, dissatisfied with the return presents for their skins,
+    took the skins back and returned home.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a brief historical anecdote; motives beyond dissatisfaction with
+    presents are not given.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22298-22303
+  quote_or_summary: Hosts sit at one side of the room beating drums and singing; the
+    host or chief naskuk meets the first naskuk guest and places a new fur coat on
+    him as a mark of honor.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 22303-22308
+  quote_or_summary: Each headman brings and throws down skins, dances in time with
+    drums, pantomimes an exploit of himself or his father, and sings praise of the
+    represented person.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 22308-22314
+  quote_or_summary: Young men come by general invitation with desired skins, sometimes
+    several, and throw them into a heap near the lamp at the head of the room; after
+    all have brought skins, guests sit and sing.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 22314-22327
+  quote_or_summary: The host brings requested equivalent articles to headmen, adds
+    valuables near the lamp on each return, distributes the accumulated equivalent
+    for young men's furs, entertains with songs and dances, and ends the festival
+    with food distribution.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 22329-22333
+  quote_or_summary: In the described trader instance, young men's skins were taken
+    by the trader; when Eskimo give the festival, the skins are distributed among
+    village young men who contribute articles for guests.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 22335-22340
+  quote_or_summary: In February 1880 a Malemut party with sledges loaded with reindeer
+    skins traveled to a trading festival at Unalaklit; after participating, they were
+    dissatisfied with the return presents, took the skins back, and returned home.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 22341-22343
+  quote_or_summary: A sketch by an Eskimo from the Kaviak peninsula portrayed men
+    from Cape Prince of Wales on their way to a festival of this kind and being met
+    by destination villagers.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as ethnographic description of a trading festival and
+    reciprocal distribution. Motif labeling is limited to observable exchange and
+    performance patterns; no external comparisons are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs were directly supported by the passage; symbols are recorded as literal passage objects or performance forms without taxonomy refs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l22298-l22343
+  passage_sha256=e170b32582ce4729fc5e29ef5c66257eeb22839782abb309da075deeabc7d284
+

@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l96260-l96345
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: ARANYAKA I / KEITH M / ADHYAYA 2. / I, 2, 2-; lines 96260-96345
+  start: '96260'
+  end: '96345'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ritual and grammatical notes, then explains a count of
+    verses and body parts that reaches one hundred and one. The hundred is identified
+    with life, health, strength, and glory, while the sacrificer is described as the
+    hundred and first. The passage also introduces a question about why a swing is
+    called a swing and identifies it with the one who blows; notes discuss interpretations
+    connecting the swing with the sun, Vayu, and a vegetation rite associated with
+    young Krsna.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that there are seven verses left over and that praise of
+    the seven is also praise of the ninety.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: It states that repeating the first and last verses three times makes the total
+    number of verses one hundred and one.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: It enumerates fingers, two pits, arm, collar-bone, and shoulder-blade as making
+    twenty-five, then says other body parts each have twenty-five, making one hundred,
+    with the trunk as the hundred and first part.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hundred is identified with life, health, strength, and glory; the sacrificer
+    is identified as the hundred and first, resting on those qualities.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The verses are said to become trishtubh, and the midday pressing is said to
+    be accompanied by trishtubh verses.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage asks why a swing is a swing and answers that the one who blows
+    is the swing.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: 'A note reports alternative explanations of the swing: a solar interpretation,
+    a Vayu interpretation, and a comparison with a young Krsna vegetation rite.'
+  category: relationship
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the sacrificer
+  description: The sacrificer is described as the hundred and first, resting on life,
+    health, strength, and glory.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: the one who blows / Vayu
+  description: The main text says the one who blows is the swing; a note says Sayana
+    makes the swing Vayu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: sacrificer identified with the hundred-and-first element
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls the sacrificer the hundred and first and relates
+    him to life, health, strength, and glory.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: wind or blowing agent identified with the swing
+  assigned_to:
+  - fig:2
+  basis: The main text identifies the swing with the one who blows, and the note gives
+    Vayu as Sayana's interpretation.
+  evidence_refs:
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: hundred and hundred-first count
+  literal_form: the numbers one hundred and one hundred and one
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: enumerated body
+  literal_form: fingers, pits, arm, collar-bone, shoulder-blade, other parts, and
+    trunk counted as ritual totals
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: swing
+  literal_form: a ritual swing explained by the question 'Why is a swing a swing?'
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:4
+  label: solar golden swing
+  literal_form: the sun described in a note as connected with 'the golden swing in
+    heaven'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: ritual counting of verses, body, and sacrificer
+  summary: The text aligns verse counts with body-part counts, reaches one hundred
+    and one, and identifies the sacrificer with the hundred-and-first element resting
+    on life, health, strength, and glory.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: explanation of the swing
+  summary: The text asks why the swing is called a swing and identifies it with the
+    one who blows; notes record solar, Vayu, and vegetation-rite interpretations.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacrificial body-number correspondence
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage connects verse totals, body-part counts, the number one hundred,
+    and the sacrificer within a ritual context that includes the midday pressing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is primarily ritual exegesis rather than narrative myth.
+- id: motif:2
+  label: hundred as life and vitality
+  taxonomy_refs: []
+  basis: The passage explicitly identifies the hundred with life, health, strength,
+    and glory, and places the sacrificer as the hundred and first.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a symbolic number pattern; the passage does not develop it as
+    an independent mythic episode.
+- id: motif:3
+  label: ritual swing as wind or solar image
+  taxonomy_refs: []
+  basis: The main text identifies the swing with the one who blows, while notes connect
+    the swing with Vayu and possibly the sun as a golden swing in heaven.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The solar and Vayu interpretations are presented through commentary and
+    scholarly notes; the passage itself preserves more than one explanation.
+comparison_claims:
+- id: claim:1
+  claim: The passage's note cautiously compares the ritual swing with a solar image
+    by citing the sun as 'the golden swing in heaven' and describing the Mahavrata
+    rite as at least partly a sun-charm.
+  claim_level: same_function
+  target: Rigvedic solar 'golden swing in heaven' imagery cited in the note
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:7
+  confidence: medium
+  limitations: The comparison is reported as probable and is balanced by the note's
+    statement that Sayana interprets the swing as Vayu.
+- id: claim:2
+  claim: The passage's note compares the swing-related rite with a young Krsna vegetation
+    rite at the level of ritual function.
+  claim_level: same_function
+  target: young Krsna dohigatra / vegetation rite mentioned in the note
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note gives only a brief comparison and no narrative details; OCR
+    uncertainty affects the exact term for the Krsna rite.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 96260-96345; main text paragraph beginning 'there are seven which
+    are over'
+  quote_or_summary: The text says that seven verses are over, praise of the seven
+    is praise of the ninety, and repeating the first and last three times yields one
+    hundred and one verses.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 96260-96345; same main text paragraph on body-part enumeration
+  quote_or_summary: The text counts five four-jointed fingers, two pits, the arm,
+    collar-bone, and shoulder-blade as twenty-five, then says the other parts have
+    twenty-five each, making one hundred, with the trunk as the hundred and first.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 96260-96345; main text sentence beginning 'The hundred is life'
+  quote_or_summary: The hundred is identified with life, health, strength, and glory,
+    and the sacrificer is identified as the hundred and first resting on them.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 96260-96345; end of main text paragraph before section 3
+  quote_or_summary: The text says the verses become trishtubh and that the midday
+    pressing is accompanied by trishtubh verses.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; full text allowed.
+- id: ev:5
+  type: quote
+  locator: lines 96260-96345; section 3 opening
+  quote_or_summary: "“They ask, ‘Why is a swing a swing?’ He who blows is the swing.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 96260-96345; note on the use of the swing
+  quote_or_summary: The note says Oldenberg viewed the use of the swing as referring
+    to the sun, which is called the golden swing in heaven, and adds that the Mahavrata
+    rite is at least partly a sun-charm.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; full text allowed.
+- id: ev:7
+  type: summary
+  locator: lines 96260-96345; continuation of note on the swing
+  quote_or_summary: The note says Sayana's interpretation follows the text and makes
+    the swing Vayu; it also says to compare a young Krsna rite, described as a vegetation
+    rite.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain according to supplied metadata; full text allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is OCR-noisy and consists largely of ritual commentary and notes
+    rather than narrative myth. Core elements about counting, the sacrificer, and
+    the swing are clear enough for draft extraction, but the interpretive comparisons
+    require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All motif and comparison claims are limited to details present in the supplied passage and metadata.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l96260-l96345
+  passage_sha256=65d8280caff9424a7bf4c0f551e4090ae2b85438160e08bd3de8a78739e0153a
+

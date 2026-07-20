@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.roman-apuleius-golden-ass-adlington-gutenberg-l6141-l6162
+source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+passage_locator:
+  label: THE FORTY-THIRD CHAPTER / THE TENTH BOOKE / THE FORTY-FOURTH CHAPTER / THE
+    FORTY-FIFTH CHAPTER; lines 6141-6162
+  start: '6141'
+  end: '6162'
+  translation: The Golden Asse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The narrator, an ass, describes being taught to leap, dance, nod in answer
+    to speech, and look at a pot to request drink. He obeys the training though he
+    says he could have performed these acts without instruction, because he fears
+    being treated as a strange wonder and thrown to wild beasts. His fame spreads,
+    making his master Thiasus renowned. Thiasus is identified as a Corinthian man
+    of high office who plans three days of public entertainments and travels to Thessaly
+    to buy excellent beasts and fighters.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The ass is taught to leap and dance while holding up his former feet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ass is taught to answer speech by nodding his head and to look at a pot
+    when he lacks drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The narrator says he willingly obeyed the teaching but could have performed
+    the acts without being taught.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The narrator fears that showing skill without a master would make him seem
+    a great strange wonder and lead to being thrown to wild beasts.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The ass's fame spreads widely, and the master becomes renowned throughout
+    the country because of him.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: People describe the master as a gentleman with an ass that eats and drinks
+    with him, dances, understands speech, and shows its fancy by signs.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The master is named Thiasus, is from Corinth in Achaia, and has held offices
+    of honor up to the quinquennial degree.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Thiasus appoints public joys and triumphs to last three days and comes into
+    Thessaly to buy excellent beasts and valiant fighters.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Narrating ass
+  description: A first-person ass who performs trained actions, understands speech,
+    communicates by signs, and conceals his innate ability.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Thiasus
+  description: The ass's master, a Corinthian of Achaia with public honors, whose
+    reputation is increased by the ass and who organizes public entertainments.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Public observers
+  description: A collective public voice that reports the fame and abilities of the
+    ass and his master.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: performing animal
+  assigned_to:
+  - fig:1
+  basis: The ass is made to leap, dance, nod, request drink by looking at a pot, and
+    is publicly known for eating, drinking, dancing, and understanding speech.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: concealed possessor of understanding
+  assigned_to:
+  - fig:1
+  basis: The narrator says he could have done the acts without teaching but hides
+    this to avoid being regarded as a strange wonder.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: master and trainer
+  assigned_to:
+  - fig:2
+  basis: The ass refers to a master and to obeying his doctrine; the master is then
+    identified as Thiasus.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: public patron or office-holder
+  assigned_to:
+  - fig:2
+  basis: Thiasus is described as having held offices of honor and arranging public
+    joys and triumphs for three days.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: reputational witnesses
+  assigned_to:
+  - fig:3
+  basis: The passage reports what every man would say about the gentleman and his
+    ass.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sign-making ass
+  literal_form: An ass that eats, drinks, dances, understands speech, and shows its
+    fancy by signs.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: nodding head and pot-gaze
+  literal_form: Gestures used by the ass to answer speech and signal lack of drink.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: three-day public triumphs
+  literal_form: Public joys and triumphs appointed to endure three days.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Training in performance and signs
+  summary: The ass is taught to leap, dance, answer by nodding, and look at a pot
+    when thirsty; he obeys the instruction.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Fame of the extraordinary ass
+  summary: The ass's abilities become widely known, bringing renown to his master,
+    and public speech lists the animal's remarkable behaviors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Thiasus prepares public spectacles
+  summary: Thiasus is introduced as a Corinthian office-holder who arranges three
+    days of public entertainments and comes to Thessaly to buy beasts and fighters.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Human-like intelligence displayed by an animal
+  taxonomy_refs: []
+  basis: The ass understands speech, responds by signs, dances, eats and drinks with
+    the master, and is publicly regarded as extraordinary.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This passage does not itself explain why the ass has such understanding.
+- id: motif:2
+  label: Concealed intelligence to avoid danger
+  taxonomy_refs: []
+  basis: The narrator says he could perform the acts without teaching but avoids revealing
+    this because he fears being treated as a strange wonder and thrown to wild beasts.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage frames the concealment pragmatically; no broader supernatural
+    cause is stated here.
+- id: motif:3
+  label: Public spectacle centered on a marvelous animal
+  taxonomy_refs: []
+  basis: The ass's fame increases his master's renown, and Thiasus is preparing public
+    joys and triumphs involving excellent beasts and fighters.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage links the ass's fame and the master's public spectacle context,
+    but it does not yet state that the ass will be part of the three-day triumphs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6141-6145
+  quote_or_summary: The ass is taught to leap, dance, answer by nodding his head,
+    and look upon the pot if he lacks drink.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: 6145-6149
+  quote_or_summary: The narrator says he obeyed the teaching though he could do the
+    acts without it, fearing he would appear a strange wonder and be thrown to wild
+    beasts.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: 6149-6155
+  quote_or_summary: The ass's fame spreads, his master is renowned, and people say
+    he has an ass that eats, drinks, dances, understands speech, and shows fancy by
+    signs.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:4
+  type: summary
+  locator: 6155-6160
+  quote_or_summary: The master is named Thiasus, born at Corinth in Achaia, and described
+    as having held offices of honor up to the quinquennial degree.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 6160-6162
+  quote_or_summary: Thiasus appoints public joys and triumphs for three days and comes
+    into Thessaly to buy excellent beasts and valiant fighters.
+  source_text_path: texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are limited to patterns
+    visible inside this passage; no external context or comparison claims are used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the supplied passage does not explicitly support the available motif-family or symbol taxonomy labels.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-apuleius-golden-ass-adlington-gutenberg__l6141-l6162
+  passage_sha256=cb7774ff4a4fe1a2700f956419c4d10a3c91257c351ae4e3dee207340b2ae94f
+

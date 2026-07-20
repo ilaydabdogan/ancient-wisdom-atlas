@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.african-the-baganda-roscoe-archive-l12943-l13027
+source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+passage_locator:
+  label: VIII  GOVERNMENT  235 / VIII  GOVERNMENT  237 / GOVERNMENT / H''  '-; lines
+    12943-13027
+  start: '12943'
+  end: '13027'
+  translation: 'The Baganda: An Account of Their Native Customs and Beliefs'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes rules for clan freehold estates, chiefly maintenance
+    of official estates, transfer of improvements to a successor, and district chiefs'
+    obligation to maintain roads from the Capital to their country seats. It also
+    includes an illustration caption of a road and bridge through a swamp.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that certain trees were planted only on the freehold estates
+    of the clan.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A chief was required to keep his official estates in good order.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A chief who did not keep official estates in good order could be fined and
+    deposed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The benefit of improvements or houses made by a chief was received by his
+    successor.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage includes an illustration caption identifying a road and bridge
+    through a swamp.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Each District-Chief had to maintain a road in good order from the Capital
+    to his country seat.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The road described for a District-Chief was about four yards wide.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: chief
+  description: An office-holder required to keep official estates in good order and
+    subject to fine and deposition for failure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: successor
+  description: The person who received the benefit of improvements or houses made
+    by the previous chief.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: District-Chief
+  description: A district official required to maintain in good order a road from
+    the Capital to his country seat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: clan
+  description: The group associated with freehold estates on which certain trees were
+    planted.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: estate maintenance office-holder
+  assigned_to:
+  - fig:1
+  basis: The chief had to keep official estates in good order and could be fined and
+    deposed if he failed.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: successor beneficiary
+  assigned_to:
+  - fig:2
+  basis: The successor received the benefit of improvements or houses made by the
+    prior chief.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: road maintainer
+  assigned_to:
+  - fig:3
+  basis: Each District-Chief had to maintain a road in good order between the Capital
+    and his country seat.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: clan estate holder
+  assigned_to:
+  - fig:4
+  basis: The passage refers to freehold estates of the clan.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: trees on clan freehold estates
+  literal_form: Trees planted only upon the freehold estates of the clan.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: official estates
+  literal_form: Official estates that a chief had to keep in good order.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: improvements and houses
+  literal_form: Improvements or houses made by a chief, whose benefits passed to his
+    successor.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: road from Capital to country seat
+  literal_form: A road about four yards wide reaching from the Capital to a District-Chief's
+    country seat.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: road and bridge through swamp
+  literal_form: An illustrated road and bridge through a swamp.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Capital and country seat
+  literal_form: The Capital and the District-Chief's country seat as endpoints of
+    the maintained road.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: chiefly estate obligations and succession
+  summary: The passage describes tree planting on clan freehold estates, the requirement
+    that a chief maintain official estates, the penalty of fine and deposition, and
+    the transfer of benefits from improvements or houses to the chief's successor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: district road maintenance
+  summary: The passage identifies a road and bridge through a swamp and states that
+    each District-Chief had to keep a road in good order from the Capital to his country
+    seat.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: chiefly office contingent on estate upkeep
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: A chief's continued office depended on maintaining official estates; failure
+    could result in fine and deposition.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is administrative ethnography rather than a mythic narrative,
+    and it concerns chiefs rather than an explicitly royal figure.
+- id: motif:2
+  label: successor inherits benefits of predecessor's works
+  taxonomy_refs: []
+  basis: The benefit of improvements or houses made by a chief was reaped by his successor.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an institutional succession pattern, not necessarily a mythological
+    motif.
+- id: motif:3
+  label: official road linking center and district seat
+  taxonomy_refs: []
+  basis: Each District-Chief had to maintain a road from the Capital to his country
+    seat, with an associated image of a road and bridge through a swamp.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage supports a governance and infrastructure pattern, but not
+    a symbolic journey or cosmological road motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12943-13027, opening fragment
+  quote_or_summary: The text says that certain trees were planted only upon the freehold
+    estates of the clan.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 12943-13027, estate-maintenance paragraph
+  quote_or_summary: A chief had to keep his official estates in good order or be fined
+    and deposed; improvements or houses he made benefited his successor.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 12943-13027, illustration caption
+  quote_or_summary: The illustration caption identifies a road and bridge through
+    a swamp.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 12943-13027, road-maintenance paragraph
+  quote_or_summary: Each District-Chief had to maintain in good order a road about
+    four yards wide, reaching from the Capital to his country seat.
+  source_text_path: texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main administrative content is clear, but the supplied passage has OCR
+    artifacts, a partial opening phrase, and a truncated ending. No comparison claims
+    were extracted because the passage itself does not make comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. OCR corruption in the image caption was treated through neutral summary rather than exact quotation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-the-baganda-roscoe-archive__l12943-l13027
+  passage_sha256=9511cecfe35cb549cf3a27f496ef1c66c31f566f8e6e35fe8f5f9b5648ee3f0c
+

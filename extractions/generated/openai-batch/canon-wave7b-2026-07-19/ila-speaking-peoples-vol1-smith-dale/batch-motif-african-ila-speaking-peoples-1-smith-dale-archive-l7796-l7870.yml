@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l7796-l7870
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: OLD INGANZO (SMELTING-KILNS). / CH. IX / VARIOUS HANDICRAFTS / THE SMITHY.;
+    lines 7796-7870
+  start: '7796'
+  end: '7870'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Ila blacksmithing: iron is broken, melted with bellows,
+    formed into ingots and tools, and the village smithy contains a blacksmith, an
+    assistant operating bellows, a charcoal fire, tools, an anvil stone, visitors
+    or clients, and mention of scarce iron supplies.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lump of iron is broken up, melted by a smith with bellows, made into ingots,
+    and then turned into axes or sold.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The blacksmith, called mufuzhi, works in a smithy, called chifudilo, described
+    as a roughly built roofed shelter without walls in an open village space.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An assistant operates the bellows while the blacksmith is at work.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bellows consist of two shallow wooden bowls with elongated hollow tubes,
+    hide binding, loose skin covers, and small sticks used as handles.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The projecting tubes of the bellows are inserted into a baked earthenware
+    tube whose base is in the fire, and the operator moves the sticks up and down
+    to send a continual blast into the fire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The charcoal fire is made in a hollow scooped out of the floor.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The smithy contains hammers, tongs, an iron chisel, and an anvil made from
+    a large stone embedded in the ground.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: To hold a pointed piece of iron, the smith cuts a short stick and burns a
+    hole into its end with the object to be held, making a temporary handle.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: About half a dozen people occupy the smithy; some are there for gossip, and
+    others have jobs requiring the smith’s assistance.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage states that iron is presently scarce and mentions supplies from
+    Bunduwe and Bumbala.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: blacksmith / mufuzhi
+  description: The craft specialist found at work in the smithy; he melts iron, makes
+    ingots, and works with tools such as hammers, tongs, chisel, anvil stone, and
+    temporary handles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: assistant / bellows operator
+  description: The assistant works the bellows, moving the handles up and down to
+    send a continual blast into the fire.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: people in the smithy
+  description: A group of about half a dozen people, including some gossipers and
+    others with jobs requiring the smith’s help.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: blacksmith and ironworker
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the mufuzhi as the blacksmith at work, melting iron,
+    making ingots, and using smithing tools.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: bellows operator
+  assigned_to:
+  - fig:2
+  basis: The assistant is described as working the bellows to drive air into the fire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: smithy visitors or clients
+  assigned_to:
+  - fig:3
+  basis: The people in the smithy include some present for gossip and others with
+    work requiring the smith.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: A charcoal fire set in a hollow scooped from the floor and fed by
+    air from the bellows through an earthenware tube.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: bellows
+  literal_form: Two shallow wooden bowls with tubes, skin covers, and stick handles
+    used to send a continual blast into the fire.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: anvil stone
+  literal_form: A large stone embedded in the ground and used as the anvil.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: iron and iron products
+  literal_form: A lump of iron broken up, melted into ingots, and turned into axes
+    or sold.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Iron transformed by smithing
+  summary: Iron is broken up, melted by a smith using bellows, made into ingots, and
+    then turned into axes or sold.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Village smithy at work
+  summary: The blacksmith works in an open, roofed village shelter while an assistant
+    operates the bellows to keep the fire supplied with air.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Smithy tools and fittings
+  summary: The passage inventories the smith’s charcoal fire, hammers, tongs, iron
+    chisel, stone anvil, and temporary wooden handle for holding iron.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Social presence and iron supply
+  summary: Several people are present in the smithy for gossip or for jobs requiring
+    the smith, and iron is said to be scarce at the time.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: fire-assisted transformation of iron by a specialist smith
+  taxonomy_refs: []
+  basis: The passage presents a repeated craft pattern in which the smith, aided by
+    bellows and a charcoal fire, transforms broken iron into ingots and tools.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: This is a descriptive craft pattern in an ethnographic passage, not an
+    explicit mythic, ritual, or sacred motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7796-7801
+  quote_or_summary: A lump of iron is broken up; a smith uses bellows to melt it and
+    make ingots, which become axes or are sold.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 7803-7815
+  quote_or_summary: The blacksmith, or mufuzhi, is found at work in the chifudilo,
+    a roofed shelter without walls in an open village space; an assistant works the
+    bellows.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 7815-7838
+  quote_or_summary: The bellows are two wooden bowls with tubes, skin covers, and
+    stick handles; their tubes enter a baked earthenware tube in the fire, and the
+    operator’s motion sends a continual blast.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 7841-7858
+  quote_or_summary: The charcoal fire is in a floor hollow; tools include hammers,
+    tongs, an iron chisel, a large embedded stone anvil, and a temporary wooden handle
+    made by burning a hole in a stick.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 7860-7865
+  quote_or_summary: About half a dozen people occupy the smithy; some come for gossip,
+    while others need the smith’s assistance with small jobs.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: 7867-7870
+  quote_or_summary: The passage states that iron is currently scarce and names Bunduwe
+    and Bumbala as supply sources, though the excerpt ends before completing the statement.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif confidence
+    is low because the passage is technical ethnography rather than a mythic or ritual
+    narrative. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or comparisons used; taxonomy reference applied only to the explicitly present fire symbol.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l7796-l7870
+  passage_sha256=c46d1a51df3b0cd8e20d2b6a4b887ca2505d7feabca85b4aaec8ed9ab2b7a699
+

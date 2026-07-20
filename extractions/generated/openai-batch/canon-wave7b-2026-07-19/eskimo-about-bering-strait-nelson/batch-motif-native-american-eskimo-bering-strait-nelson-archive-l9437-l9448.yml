@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.native-american-eskimo-bering-strait-nelson-archive-l9437-l9448
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+passage_locator:
+  label: EIGHTEENTH   ANNUAL   REPORT     PL.    LVI / FLOAT,   FLOAT  PLUGS,   AND   MOUTH   PIECES
+    / CORD   ATTACHERS / HUNTING    AND    FISHING    APPARATUS    (THREE-SIXTEENTHS);
+    lines 9437-9448
+  start: '9437'
+  end: '9448'
+  translation: The Eskimo about Bering Strait
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes two hunting and fishing apparatus components: a
+    long flat-head specimen from Norton Sound with a cord inserted to show loop attachment,
+    and an ivory swivel from Cape Prince of Wales for a float line, designed to prevent
+    twisting and carved as a white bear''s head with blue bead fragments for eyes.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A long, flat-head specimen from Norton Sound has a cord inserted to show how
+    loops are attached.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An ivory swivel from Cape Prince of Wales is made for attachment to a float
+    line.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The swivel is intended to prevent the float line from becoming twisted by
+    movement of the float.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The main block of the swivel is carved in the form of a white bear's head.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Fragments of blue beads are set into the carved head as eyes.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The swivel includes an ivory rod about an inch in length.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: 'Figure 18, plate LVI 6: long flat-head specimen'
+  description: A long, flat-head specimen from Norton Sound with a cord inserted to
+    demonstrate loop attachment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: 'Figure 17, plate LVI: ivory swivel'
+  description: A handsomely made ivory swivel from Cape Prince of Wales for attachment
+    to a float line, with a block carved as a white bear's head and blue bead fragments
+    for eyes.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: Loop-attachment demonstration specimen
+  assigned_to:
+  - fig:1
+  basis: The passage states that a cord is inserted to show the manner of attaching
+    the loops.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Float-line swivel
+  assigned_to:
+  - fig:2
+  basis: The passage describes the object as an ivory swivel for attachment to a float
+    line.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Animal-head carved apparatus component
+  assigned_to:
+  - fig:2
+  basis: The passage states that the main block is carved in the form of a white bear's
+    head with bead fragments for eyes.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Cord and loops
+  literal_form: Cord inserted to show loop attachment
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Float line and float
+  literal_form: Float line moved by a float, with a swivel attached to prevent twisting
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: White bear head carving
+  literal_form: Main block carved in the form of a white bear's head
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Blue bead eyes
+  literal_form: Fragments of blue beads set as eyes in the carved bear head
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Ivory rod
+  literal_form: Ivory rod about an inch in length forming part of the swivel
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Cord attachment specimen
+  summary: The text identifies a Norton Sound specimen with an inserted cord that
+    demonstrates how loops are attached.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Carved ivory float-line swivel
+  summary: The text identifies a Cape Prince of Wales ivory swivel for a float line,
+    describes its twist-preventing function, and notes its carving as a white bear's
+    head with blue bead eyes.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Animal-head carving on functional hunting or fishing apparatus
+  taxonomy_refs: []
+  basis: The ivory swivel is a functional float-line attachment whose block is carved
+    in the form of a white bear's head with bead fragments for eyes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an artifact design pattern in an ethnographic apparatus description,
+    not a narrative or mythological motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9437-9439
+  quote_or_summary: Figure 18 from Norton Sound is described as a long, flat-head
+    specimen with a cord inserted to show how loops are attached.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:2
+  type: quote
+  locator: lines 9441-9445
+  quote_or_summary: Figure 17 from Cape Prince of Wales is described as an ivory swivel
+    for attachment to a float line to prevent twisting by the float's movement.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:3
+  type: quote
+  locator: lines 9445-9447
+  quote_or_summary: The block or main portion is carved as a white bear's head, with
+    fragments of blue beads set for eyes.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; excerpt summarized.
+- id: ev:4
+  type: quote
+  locator: lines 9447-9448
+  quote_or_summary: The swivel is formed by an ivory rod about an inch in length;
+    the following description is cut off in the supplied passage.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md
+  rights_note: Public domain source; excerpt summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a material-culture description rather than a myth narrative.
+    Artifact functions and visual forms are explicit, but motif interpretation is
+    limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references or comparison claims were assigned because the supplied passage does not support them.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-eskimo-bering-strait-nelson-archive__l9437-l9448
+  passage_sha256=c463cc1e388fb9cf4fd432bda34a550e0f72af7e2efac9eb47ce6b413e07df9a
+

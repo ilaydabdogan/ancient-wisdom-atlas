@@ -1,0 +1,393 @@
+---
+record_id: batch.motif.roman-lucretius-nature-of-things-leonard-gutenberg-l8944-l9026
+source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+passage_locator:
+  label: BEGINNINGS OF CIVILIZATION / BOOK VI / PROEM / GREAT METEOROLOGICAL PHENOMENA,
+    ETC.; lines 8944-9026
+  start: '8944'
+  end: '9026'
+  translation: On the Nature of Things
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains thunderbolts as swift fiery forces formed in clouds,
+    pressed out when clouds cannot contain them, accelerated downward, and able to
+    penetrate, shatter, or melt objects because of their fine smooth elements. It
+    then explains why thunderbolts and storms are strongest in spring and autumn,
+    when cold, heat, fire, winds, and waters are mixed in turbulent seasonal conflict.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Thunderbolt force first collects in clouds and is pressed out when the cloud
+    can no longer retain its impetus.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The thunderbolt is compared to shots hurled from powerful Roman catapults.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The thunderbolt consists of small, smooth elements that enter through the
+    pores of things and continue despite collisions.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Downward weight, blows, and continuing motion increase the thunderbolt's velocity
+    and power.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The thunderbolt can pass through objects without harming them when its liquid
+    fire moves through their pores.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The thunderbolt can transfix objects and can unbind brass and fuse gold.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Thunderbolts and storms are said to be strongest in autumn and spring.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: Clouds require fires and winds for the fabrication of thunderbolts.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Spring and autumn are described as intermediate seasons in which cold and
+    heat are mixed.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage describes cold, heat, flames, winds, and waters as raging, battling,
+    or wrestling in these seasons.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Thunderbolt
+  description: A swift descending fiery force formed in clouds, moving with tremendous
+    speed, entering pores, shivering obstacles, transfixing things, unbinding brass,
+    and fusing gold.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Cloud
+  description: The place where thunderbolt force collects and from which it is pressed
+    out; also described as needing fires and winds to fabricate the thunderbolt.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Spring
+  description: A flowery time and transitional season described as the first part
+    of heat and last of cold, when unlike things battle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Autumn
+  description: A transitional season described as latest heat mixed with earliest
+    chill, when fierce cold-spells wrestle with fierce heats.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Opposing seasonal elements
+  description: Cold, heat, flames, winds, and waters mixed with winds, described as
+    acting in tumultuous opposition during thunderbolt seasons.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: swift descending projectile force
+  assigned_to:
+  - fig:1
+  basis: The thunderbolt rushes down, is likened to catapult shots, gains speed from
+    weight and blows, and shivers obstacles in its path.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: container and fabricator of thunderbolt
+  assigned_to:
+  - fig:2
+  basis: The cloud retains the thunderbolt's force until it is pressed out, and the
+    passage says fires and winds are needed by the cloud for fabrication of the thunderbolt.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: cross-season of mixed conditions
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Spring and autumn are described as times between heat and cold, with mixed
+    conditions that promote thunderbolts and storms.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: opposing elemental combatants
+  assigned_to:
+  - fig:5
+  basis: The passage says unlike things battle, cold-spells wrestle with heats, and
+    flames oppose winds and waters in turbulent warfare.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Thunderbolt
+  literal_form: thunderbolt
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Fire within thunder
+  literal_form: thunder's seeds of fire; liquid fire; flames
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Cloud
+  literal_form: clouds retaining and fabricating thunderbolt force
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:4
+  label: Roman catapult shot
+  literal_form: shots hurled from powerful Roman catapults
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Pores and bonds of things
+  literal_form: pores, intertwined atoms, knots, and bonds of union
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: House of heaven
+  literal_form: the house of heaven studded with glittering stars
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: Cross-seas of the year
+  literal_form: the mixed spring and autumn seasons named cross-seas
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Waters mixed with winds
+  literal_form: waters mixed with winds
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: Brass and gold
+  literal_form: brass unbound and gold fused by the thunderbolt
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Discharge and flight of the thunderbolt
+  summary: Thunderbolt force gathers in clouds, is expelled when the cloud cannot
+    contain it, rushes downward like a catapult shot, accelerates, passes through
+    pores, shatters or transfixes objects, and affects metals.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:9
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Seasonal generation of storms
+  summary: Spring and autumn are described as mixed seasonal intervals where heat
+    and cold, flames, winds, and waters enter tumultuous opposition, allowing clouds
+    to fabricate thunderbolts and storms to prevail.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Fiery thunderbolt as heavenly projectile
+  taxonomy_refs: []
+  basis: The thunderbolt is described as a fiery force formed in clouds, rushing downward
+    with increasing velocity, compared to catapult shots, and capable of shattering,
+    transfixing, and melting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives an atomistic meteorological explanation rather than
+    a narrative about a deity wielding the thunderbolt.
+- id: motif:2
+  label: Seasonal cycle governing storm power
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that thunderbolts and storms prevail especially in spring
+    and autumn because these transitional seasons mix cold, heat, fire, winds, and
+    waters.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is expressed as natural philosophy and seasonal causation, not
+    as a ritual or mythic seasonal drama.
+- id: motif:3
+  label: Elemental conflict producing heavenly tumult
+  taxonomy_refs:
+  - chaos
+  basis: The passage uses language of discord, tumult, battle, wrestling, and dubious
+    warfare among cold, heat, flames, winds, and waters in the heavens.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The conflict language is metaphorical within a meteorological explanation;
+    the passage does not present a cosmogonic chaos narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the thunderbolt's swift, forceful motion
+    to shots hurled from powerful Roman catapults.
+  claim_level: visual_similarity
+  target: Roman catapult projectiles
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal simile in the passage, not evidence for a broader
+    mythological contact or inheritance claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8944-8954
+  quote_or_summary: Thunderbolt force gathers in clouds, is expelled when the cloud
+    cannot retain it, and rushes with force like shots from powerful Roman catapults.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 8955-8978
+  quote_or_summary: The thunderbolt is made of small smooth elements, enters pores,
+    continues despite collisions, accelerates downward through weight and blows, shivers
+    obstacles, and draws the seeds of fire into a straight course.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 8979-8996
+  quote_or_summary: The thunderbolt may draw bodies from the air, pass through objects
+    by their pores, transfix things where atoms meet bonds, unbind brass, and fuse
+    gold because of its tiny smooth parts.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 8997-9006
+  quote_or_summary: The house of heaven and the earth are said to be shaken most in
+    autumn and spring; cold lacks fire, hot times lack winds, and clouds may lack
+    dense bulk.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 9007-9026
+  quote_or_summary: In intermediate seasons, cold and heat mix in the cross-seas of
+    the year; fires and winds are needed by clouds for thunderbolt fabrication; unlike
+    things battle, cold wrestles with heat, and storms arise amid warfare of flames
+    against winds and waters.
+  source_text_path: texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md
+  rights_note: Public domain source text supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is high-confidence. Motif labeling is more tentative because
+    the passage is a natural-philosophical explanation with metaphorical conflict
+    language rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Figures are natural forces or seasonal entities named in the passage; no personal deities or human actors appear in the supplied lines.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:roman-lucretius-nature-of-things-leonard-gutenberg__l8944-l9026
+  passage_sha256=f211fbd9114aeab8c1a0861d80f070a06ddf41b7d301fa38fa322bfb0810378a
+

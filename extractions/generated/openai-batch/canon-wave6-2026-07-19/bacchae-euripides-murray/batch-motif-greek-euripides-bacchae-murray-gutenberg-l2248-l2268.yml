@@ -1,0 +1,251 @@
+---
+record_id: batch.motif.greek-euripides-bacchae-murray-gutenberg-l2248-l2268
+source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+passage_locator:
+  label: MESSENGER. / LEADER. / MESSENGER. / LEADER.; lines 2248-2268
+  start: '2248'
+  end: '2268'
+  translation: The Bacchae of Euripides
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A Messenger challenges the Leader's scorn toward Thebes. The Leader rejects
+    Theban authority and declares obedience and adoration only to Dionysus. The Messenger
+    says it is unfair for the maids to rejoice in a man's suffering. The Leader asks
+    to hear of the mountain-side death of the sinner, smitten where his sin was severe.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Messenger asks whether Thebes is so lacking in manhood that it should
+    be treated with scorn.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Leader says Thebes has no sway over the speaker.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Leader declares obedience and adoration to Dionysus, called Child of the
+    Highest.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Messenger says it is not fair for the maids to rejoice in a man's suffering.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Leader asks to be told about the mountain side and the doom by which a
+    sinner died.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The dead man is described as a sinner smitten to death where his sin was severe.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Messenger
+  description: Speaker who questions the Leader about Thebes and later reproves rejoicing
+    in a man's suffering.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Leader
+  description: Speaker who denies Theban authority, declares devotion to Dionysus,
+    and asks for the account of the mountain-side death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Dionysus
+  description: Named as the one whom the Leader obeys and adores; called Child of
+    the Highest.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed suffering man / sinner
+  description: A man whose suffering is mentioned by the Messenger and whose death
+    as a sinner is requested by the Leader.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Maids
+  description: Group addressed by the Messenger as rejoicing in a man's suffering.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioning messenger
+  assigned_to:
+  - fig:1
+  basis: The speaker challenges the Leader's view of Thebes and later gives a moral
+    admonition.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: devotee of Dionysus
+  assigned_to:
+  - fig:2
+  basis: The speaker says only Dionysus is obeyed and adored.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deity obeyed and adored
+  assigned_to:
+  - fig:3
+  basis: Dionysus is named as the sole object of the Leader's obedience and adoration.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: suffering dead sinner
+  assigned_to:
+  - fig:4
+  basis: The passage refers to a man's suffering and to a sinner smitten to death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: admonished group
+  assigned_to:
+  - fig:5
+  basis: The Messenger addresses the maids and says rejoicing in a man's suffering
+    is not fair.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mountain side
+  literal_form: mountain side
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Thebes and obedience to Dionysus
+  summary: The Messenger challenges the Leader's scorn toward Thebes, and the Leader
+    rejects Theban authority in favor of obedience and adoration to Dionysus.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Rebuke and request for the death account
+  summary: The Messenger says it is not fair to rejoice in a man's suffering, and
+    the Leader asks to hear how the sinner died on the mountain side.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sinner smitten at the place of sin
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Leader describes the dead man as a sinner smitten to death where his
+    sin was severe and asks for the doom by which he died.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not explicitly name the agent of death or state that
+    the punishment is divine; the divine-judgment classification is therefore cautious.
+- id: motif:2
+  label: exclusive devotion to Dionysus over civic authority
+  taxonomy_refs: []
+  basis: The Leader says Thebes has no sway and that only Dionysus is obeyed and adored.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states allegiance but does not provide a fuller ritual or
+    narrative pattern in this excerpt.
+- id: motif:3
+  label: divine child epithet
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Dionysus is called Child of the Highest.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage gives an epithet only; it does not narrate a parent-child
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 2248-2268, Messenger opening speech
+  quote_or_summary: '"deem''st thou Thebes so beggared, so forlorn / Of manhood"'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: 2248-2268, Leader first response
+  quote_or_summary: '"Thebes hath o''er me no sway!"; the Leader says only Dionysus
+    is obeyed and adored.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: quote
+  locator: 2248-2268, Messenger second speech
+  quote_or_summary: '"Maids, to rejoice in a man''s suffering" is described as no
+    fair thing.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: 2248-2268, Leader final response
+  quote_or_summary: '"Speak of the mountain side" and tell of the sinner "smitten
+    to death" where his sin was sore.'
+  source_text_path: texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal speakers, figures, and the mountain-side reference are explicit.
+    Motif labels are cautious because the excerpt gives only a brief report of the
+    death and its moral framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:greek-euripides-bacchae-murray-gutenberg__l2248-l2268
+  passage_sha256=dbbe431815e5db6ad3c90ef3f97860d6a2c39675ce46a9d75ab0366bc6f94bb0
+

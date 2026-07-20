@@ -1,0 +1,153 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l34825-l34831
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CV / SECTION CVI / SECTION CVII / SECTION CVIII; lines 34825-34831
+  start: '34825'
+  end: '34831'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"The path of duty is long. It has also, O Bharata, many branches."'
+  summary: Yudhishthira asks Bharata which duties and acts most deserve practice and
+    can earn the highest merit both in this life and hereafter.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Yudhishthira speaks and asks a question.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira describes the path of duty as long and as having many branches.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Yudhishthira asks which duties most deserve to be practised.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yudhishthira asks which acts are most important among all duties for earning
+    the highest merit here and hereafter.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: Named speaker who asks about the path of duty and highest merit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Bharata
+  description: Vocative addressee in Yudhishthira's question.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioner about duty
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks which duties and acts should be practised for highest merit.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: addressee asked for judgment on duties
+  assigned_to:
+  - fig:2
+  basis: 'Yudhishthira addresses Bharata and asks for his view: "according to thee."'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Inquiry into the highest duties
+  summary: Yudhishthira addresses Bharata and asks which duties and acts are most
+    important for gaining the highest merit in life and hereafter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: quest for moral wisdom about duty
+  taxonomy_refs:
+  - wisdom
+  basis: The passage centers on a speaker seeking guidance about the duties and acts
+    most worthy of practice.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a question initiating instruction rather than a completed
+    wisdom teaching.
+- id: motif:2
+  label: merit sought for this life and hereafter
+  taxonomy_refs: []
+  basis: Yudhishthira explicitly asks about acts that earn the highest merit both
+    here and hereafter.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions the hereafter and merit but does not describe an
+    afterlife journey or divine judgment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 34825-34827
+  quote_or_summary: Yudhishthira says, "The path of duty is long" and has "many branches,"
+    addressing Bharata.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 34827-34829
+  quote_or_summary: Yudhishthira asks which duties most deserve to be practised, according
+    to the addressee.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 34829-34831
+  quote_or_summary: Yudhishthira asks which acts are most important among all duties
+    and can earn the highest merit here and hereafter.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and mostly consists of a direct ethical question. Motif
+    identification is limited to the inquiry for moral wisdom and merit; no comparative
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No literal symbols from the available taxonomy are present in the supplied passage.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l34825-l34831
+  passage_sha256=44f11b9facfe079eea35242b45400801034be507ccbec80b6dc80bea8da99cb9
+

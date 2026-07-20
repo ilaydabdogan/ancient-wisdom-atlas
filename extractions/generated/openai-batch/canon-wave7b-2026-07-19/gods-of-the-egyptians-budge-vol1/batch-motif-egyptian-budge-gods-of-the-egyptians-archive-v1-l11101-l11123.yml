@@ -1,0 +1,361 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l11101-l11123
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: THE TENTH HOUR / THE PITS OF THE TUAT 255 / THE TWELFTH HOUR 257 / DESTRUCTION
+    OF THE WICKED 261; lines 11101-11123
+  start: '11101'
+  end: '11123'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: each rising of the sun was the result of the annihilation of his foes of
+    that day.
+  summary: The passage explains that Ra's enemies were originally personifications
+    of natural powers such as darkness, fog, storm, and wind. These foes were destroyed
+    daily by Ra's fiery beams, and their fiery destruction was later mistaken by some
+    as the burning of damned souls. The passage states that Egyptians understood these
+    foes as recurring hosts appearing each night and morning, whose destruction enabled
+    sunrise and did not involve damned souls obstructing Ra.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The enemies are described as personifications of natural powers, including
+    twilight, darkness, night, gloom, eclipse blackness, fog, mist, vapour, rain,
+    cloud, storm, wind, tempest, and hurricane.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ra and his fiery beams are said to destroy these personified enemies daily.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Egyptian artists gave human forms to many of these personifications.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pictures of the enemies' destruction by fire were supposed by many to represent
+    the burning of the souls of the damned.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Sun-god is described as slaying and burning the enemies of each night
+    and morning during that same night and morning.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Each rising of the sun is described as resulting from the annihilation of
+    the foes of that day.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Egyptians are said to have believed that a new host of foes appeared to
+    attack Ra each night and morning.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage says the punishment was intermittent, renewed before dawn and
+    between dawn and sunrise.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states that the souls of the damned could not hinder Ra's progress
+    and that the Egyptians never imagined they did.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ra / the Sun-god
+  description: The solar deity who destroys, slays, and burns the enemies with fiery
+    beams and whose progress is discussed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: fig:2
+  name_or_label: Personified natural enemies / foes
+  description: Enemies identified as personifications of natural powers such as darkness,
+    eclipse blackness, fog, storm, wind, tempest, and hurricane; they are destroyed
+    by Ra and appear anew each night and morning.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Egyptian artists
+  description: Artists who endowed many of the personified enemies with human forms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Souls of the damned
+  description: A group whose burning was thought by some to be represented in the
+    pictures, but whom the passage says Egyptians did not imagine as hindering Ra's
+    progress.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:7
+roles:
+- id: role:1
+  label: solar destroyer of nightly and morning foes
+  assigned_to:
+  - fig:1
+  basis: Ra or the Sun-god destroys, slays, and burns enemies, and sunrise follows
+    their annihilation.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: recurrent adversaries personifying natural powers
+  assigned_to:
+  - fig:2
+  basis: The foes are named as personifications of natural powers and are said to
+    appear as a new host each night and morning to attack Ra.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: makers of anthropomorphic depictions
+  assigned_to:
+  - fig:3
+  basis: The passage states that Egyptian artists endowed many personifications with
+    human forms.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: misidentified non-obstructing damned souls
+  assigned_to:
+  - fig:4
+  basis: The passage reports that some supposed the scenes showed damned souls burning,
+    while also stating that such souls could not hinder Ra and were not imagined by
+    Egyptians to do so.
+  evidence_refs:
+  - ev:3
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire and fiery beams
+  literal_form: Ra's fiery beams and scenes of destruction by fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: dark and atmospheric powers
+  literal_form: twilight, darkness, night, gloom, eclipse blackness, fog, mist, vapour,
+    rain, cloud, storm, wind, tempest, hurricane
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dawn and sunrise
+  literal_form: the interval before dawn, the interval between dawn and sunrise, and
+    the rising of the sun
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: human-form personifications
+  literal_form: human forms assigned by artists to personified natural enemies
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Ra destroys personified natural enemies
+  summary: The passage describes natural powers personified as enemies and says Ra
+    destroys them daily with fiery beams.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Human-form depictions and mistaken interpretation
+  summary: Egyptian artists are said to have depicted the personifications in human
+    form, and many viewers supposedly interpreted fiery destruction scenes as the
+    burning of damned souls.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Nightly and morning recurrence before sunrise
+  summary: The Sun-god slays and burns a new host of foes each night and morning,
+    with punishment renewed before dawn and between dawn and sunrise; the passage
+    says damned souls do not obstruct Ra.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: daily solar destruction of hostile natural powers
+  taxonomy_refs:
+  - chaos
+  basis: The foes are personified darkness and atmospheric powers that attack Ra and
+    are destroyed by him each night and morning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage is modern scholarly commentary and frames the enemies as personifications
+    rather than independent mythic beings.
+- id: motif:2
+  label: sunrise enabled by annihilation of recurrent foes
+  taxonomy_refs: []
+  basis: The passage states that each rising of the sun results from annihilation
+    of the foes of that day and that a new host appears each night and morning.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No exact supplied taxonomy family corresponds to a daily solar cycle;
+    no taxonomy reference is assigned.
+- id: motif:3
+  label: fiery destruction misread as punishment of damned souls
+  taxonomy_refs: []
+  basis: The passage says scenes of fiery destruction were supposed by many to show
+    damned souls burning, but it denies that Egyptians imagined such souls hindering
+    Ra.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: This is primarily a rejected interpretation within the passage, not a
+    positive Egyptian motif as presented by the author.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports a visual or interpretive resemblance between pictures
+    of fiery destruction of Ra's natural enemies and the burning of damned souls,
+    while explicitly treating the damned-souls reading as mistaken for Egyptian belief.
+  claim_level: visual_similarity
+  target: burning of the souls of the damned
+  evidence_refs:
+  - ev:3
+  - ev:7
+  counter_evidence_refs:
+  - ev:7
+  confidence: high
+  limitations: The comparison is limited to reported visual interpretation; the passage
+    denies that damned souls were understood by Egyptians as obstructing Ra.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11101-11105
+  quote_or_summary: Enemies were personifications of natural powers including twilight,
+    darkness, eclipse blackness, fog, rain, cloud, storm, wind, tempest, and hurricane.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise quotation/summary used.
+- id: ev:2
+  type: quote
+  locator: lines 11105-11106
+  quote_or_summary: These powers “were destroyed daily by Ra and his fiery beams.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 11106-11110
+  quote_or_summary: Many personifications were given human forms by Egyptian artists,
+    and pictures of their destruction by fire were thought by many to show the burning
+    of damned souls.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 11110-11115
+  quote_or_summary: The Sun-god slew and burned enemies each night and morning; “each
+    rising of the sun was the result of the annihilation of his foes of that day.”
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise quotation/summary used.
+- id: ev:5
+  type: summary
+  locator: lines 11115-11118
+  quote_or_summary: The passage says Egyptians believed a new host of foes appeared
+    to attack Ra each night and morning.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 11118-11121
+  quote_or_summary: Even if the foes were thought the same, their punishment would
+    be intermittent and renewed before dawn and between dawn and sunrise.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 11121-11123
+  quote_or_summary: "“The souls of the damned could have done nothing to hinder the
+    progress of Ra,” and Egyptians never imagined that they did."
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; concise quotation/summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong. Motif taxonomy mapping is cautious because
+    the passage describes a daily solar combat cycle and a rejected interpretation,
+    while available taxonomy does not include an exact daily solar-cycle family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The final sentence of the supplied passage is truncated after “the theory of”; extraction avoids relying on the incomplete clause.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l11101-l11123
+  passage_sha256=3dca80a1d0788f698bcf8062135586d9222651bc64f9261208a1e2a1aee0d661
+

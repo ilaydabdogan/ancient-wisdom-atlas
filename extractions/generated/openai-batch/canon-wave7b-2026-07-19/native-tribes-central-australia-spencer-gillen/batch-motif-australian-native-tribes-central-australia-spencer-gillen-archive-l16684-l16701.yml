@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l16684-l16701
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: CHAPTER X / C C 2 / TRADITIONS AS TO ALCHERIXGA ANCESTORS 389 / TRADITIONS
+    AS TO ALCHERINGA ANXESTORS 391; lines 16684-16701
+  start: '16684'
+  end: '16701'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that special stones mark the spot where two men stood.
+    When the OnincJia appeared, two brothers rushed down and killed them all with
+    their Unimpira. The OnincJia fell in a heap at the entrance to a gorge, and a
+    pile of jagged boulders is said to mark the exact spot. The excerpt ends with
+    an incomplete sentence about the elder brother after the enemies were destroyed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Special stones are pointed out as marking the spot where two men stood.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The OnincJia made their appearance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Two brothers rushed down upon the OnincJia.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The two brothers killed all of the OnincJia with their Unimpira.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The slain OnincJia fell in a great heap at the entrance to the gorge.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A great pile of jagged boulders is said to mark the exact spot to the present
+    day.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the enemies were destroyed, the excerpt begins an incomplete statement
+    about the elder brother staying at an unspecified place.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: two brothers
+  description: A pair of brothers who rush down upon the OnincJia and kill them with
+    their Unimpira.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: OnincJia
+  description: A group who make their appearance, are killed by the two brothers,
+    and fall in a heap at the entrance to the gorge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: elder brother
+  description: The elder of the two brothers, mentioned in the incomplete closing
+    sentence after the enemies are destroyed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sibling pair
+  assigned_to:
+  - fig:1
+  basis: The acting pair is explicitly called two brothers.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: attackers of the OnincJia
+  assigned_to:
+  - fig:1
+  basis: They rush down upon the OnincJia and kill them.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: defeated enemies
+  assigned_to:
+  - fig:2
+  basis: They are killed by the two brothers and later referred to as enemies.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: elder sibling
+  assigned_to:
+  - fig:3
+  basis: The passage refers to him as the elder of the two brothers.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: special stones
+  literal_form: stones marking where two men stood
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Unimpira
+  literal_form: the brothers' good Unimpira, used to kill the OnincJia
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: gorge entrance
+  literal_form: entrance to the gorge where the OnincJia fell
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: pile of jagged boulders
+  literal_form: great pile of jagged boulders marking the exact spot
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Stones marking the standing place
+  summary: Special stones are identified as marking the spot where two men stood.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Attack on the OnincJia
+  summary: When the OnincJia appear, the two brothers rush down and kill them with
+    their Unimpira.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Death heap at the gorge
+  summary: The OnincJia fall in a heap at the entrance to the gorge, and a pile of
+    jagged boulders is said to mark the spot.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Siblings acting together
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage presents two brothers acting jointly against the OnincJia.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not provide the wider narrative context for the brothers.
+- id: motif:2
+  label: Mythic combat ending in destruction of enemies
+  taxonomy_refs: []
+  basis: The two brothers rush upon the OnincJia and kill them all; the text later
+    refers to the destroyed group as their enemies.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is fragmentary and does not describe the cause of the hostility.
+- id: motif:3
+  label: Landscape features marking mythic events
+  taxonomy_refs: []
+  basis: Special stones mark where figures stood, and jagged boulders mark where the
+    slain OnincJia fell.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy reference directly corresponds to stones or boulders
+    as event markers.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 16684-16687
+  quote_or_summary: '"special stones which mark the spot where the two men stood"'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: 16688-16691
+  quote_or_summary: When the OnincJia appeared, the two brothers rushed down upon
+    them and killed them all with their good Unimpira.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 16691-16695
+  quote_or_summary: The dead fell in a heap at the gorge entrance, and a great pile
+    of jagged boulders is said to mark the exact spot.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: note
+  locator: 16695-16701
+  quote_or_summary: 'The provided excerpt ends with an incomplete sentence: after
+    destroying their enemies, the elder of the two brothers stayed at an unspecified
+    place.'
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; fragment summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions and landscape markers are clear, but the OCR is imperfect
+    and the passage cuts off mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l16684-l16701
+  passage_sha256=853dd2d4a8a55d527306c5d90ab310840b13956d4fc974f5dfdbcc1ae22549b2
+

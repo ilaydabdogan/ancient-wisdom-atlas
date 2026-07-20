@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.micronesian-island-of-stone-money-furness-archive-l787-l809
+source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+passage_locator:
+  label: BACHELORS' HOUSES / BACHELORS' HOUSES / BACHELORS' HOUSES / THE ISLAND OF
+    STONE MONET; lines 787-809
+  start: '787'
+  end: '809'
+  translation: 'The Island of Stone Money: Uap of the Carolines'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: The approach is slow and silent
+  summary: The passage describes a canoe returning through the lagoon toward shore
+    while members of the failu watch from a stone platform. Near shore, the mast and
+    mat sail are stowed, and the canoe is guided through shoal water and boulders
+    with poles and paddles. The arrival is quiet and solemn; when the bow reaches
+    shore, the fishermen disembark and silently march into the failu.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Members of the failu are described as subject to mysterious restrictions and
+    as set apart from ordinary people.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A canoe is usually seen before it turns into the lagoon entrance.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Members of the failu stand or squat on a stone platform at the seaward end
+    of the house and watch the approaching comrades.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Near shore, the water is shoal and contains protruding boulders identified
+    as remains of ancient fish-weirs.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The mast and matting sail are unstepped and stowed before the canoe is guided
+    further in.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The canoe is guided by poles and paddles on a slow, tortuous route.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The approach is described as slow, silent, without shouting or outward excitement,
+    and solemn like a religious ceremony.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The waiting crowd on shore is hushed or speaks in subdued whispers.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: When the bow touches shore, the fishermen disembark and silently march into
+    the failu.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: members of the failu
+  description: Men associated with the failu who wait on the seaward stone platform
+    and watch the canoe arrive.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: fishermen / daring comrades
+  description: The canoe crew returning toward shore, later disembarking and marching
+    into the failu.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: waiting crowd on shore
+  description: People on shore who remain hushed or speak in subdued whispers during
+    the canoe's approach.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: silent watchers
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: They watch or wait quietly while the canoe approaches.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: returning canoe crew
+  assigned_to:
+  - fig:2
+  basis: They approach shore in the canoe, disembark, and enter the failu.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: restricted failu members
+  assigned_to:
+  - fig:1
+  basis: The passage describes the failu-associated men as under mysterious restrictions
+    and set apart.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: fishermen
+  assigned_to:
+  - fig:2
+  basis: The arriving men are called fishermen when they disembark.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: canoe
+  literal_form: canoe approaching through the lagoon and landing at shore
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: lagoon water
+  literal_form: lagoon entrance and shoal water near shore
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: stone platform
+  literal_form: stone platform at the seaward end of the failu house
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: protruding boulders / ancient fish-weirs
+  literal_form: treacherous boulders in shoal water, described as remains of ancient
+    fish-weirs
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: mast and matting sail
+  literal_form: mast with sail of matting unstepped and stowed before landing
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: poles and paddles
+  literal_form: poles and paddles used to guide the canoe
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: failu
+  literal_form: failu house or group-house into which the fishermen march
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: watching the returning canoe
+  summary: Members of the failu stand or squat on the seaward stone platform and quietly
+    watch the canoe approach from the lagoon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: careful passage through shoal water
+  summary: Near shore, the canoe crew stows the mast and mat sail and guides the canoe
+    with poles and paddles through shoal water and protruding boulders.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: silent landing and entry into the failu
+  summary: The canoe approaches in silence with ceremonial solemnity; after the bow
+    reaches shore, the fishermen disembark and silently march into the failu.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritualized return by canoe
+  taxonomy_refs:
+  - return
+  basis: The passage presents a returning canoe crew whose arrival is slow, silent,
+    solemn, and followed by entry into the failu.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is ethnographic description rather than a mythic narrative;
+    the taxonomy reference is limited to the literal return pattern.
+- id: motif:2
+  label: ceremonial silence at arrival
+  taxonomy_refs: []
+  basis: The shore crowd remains hushed, the canoe's approach has no shouting or outward
+    excitement, and the fishermen silently enter the failu.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text compares the mood to a religious ceremony but does not specify
+    a named rite or mythic episode.
+- id: motif:3
+  label: separated restricted group
+  taxonomy_refs: []
+  basis: The failu-associated men are described as under mysterious restrictions and
+    as set apart from ordinary people.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The restrictions are mentioned only briefly in this excerpt and are not
+    explained within the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 787-790
+  quote_or_summary: Failu-associated people are described as subject to mysterious
+    restrictions and set apart from the common herd.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 791-795
+  quote_or_summary: A canoe is sighted before entering the lagoon; members of the
+    failu stand or squat on the seaward stone platform and quietly watch the approaching
+    comrades.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 795-801
+  quote_or_summary: Near shore, shoal water contains protruding boulders described
+    as ancient fish-weirs; the mast and matting sail are stowed, and the canoe is
+    guided by poles and paddles.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 801-806
+  quote_or_summary: The approach is described as slow and silent, with no shouting,
+    and as having "all the solemnity of a religious ceremony"; the shore crowd is
+    hushed or whispers.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 806-809
+  quote_or_summary: The canoe moves slowly toward shore; when the bow touches land,
+    the fishermen disembark and silently march into the failu.
+  source_text_path: texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is descriptive and does not narrate a mythic episode. No external
+    comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to available refs directly supported by the text.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:micronesian-island-of-stone-money-furness-archive__l787-l809
+  passage_sha256=0087d80e395684e34e4e44adfa68c083011c5fa9011563ce1fb533c5707ffc58
+

@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.buddhist-mahavamsa-geiger-archive-l7976-l7993
+source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+passage_locator:
+  label: CHAPTER IX / THE CONSECRATING OF ABHAYA / CHAPTER X / THE CONSECRATING OF
+    PANDUKABHAYA; lines 7976-7993
+  start: '7976'
+  end: '7993'
+  translation: The Mahavamsa, or The Great Chronicle of Ceylon
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that Pandukabhaya had yakkhas and bhutas for friends,
+    notes a seventeen-year interval without a king between Pandukabhaya and Abhaya,
+    and says Pandukabhaya assumed rule at age thirty-seven and reigned seventy years
+    in prosperous Anuradhapura. Notes clarify the ambiguous expression about yakkhas
+    and bhutas and gloss Anuradhapura as filled with prosperity or wealthy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Pandukabhaya is described as having yakkhas and bhutas for friends.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A footnote says the expression about yakkhas and bhutas is ambiguous and may
+    refer to ghosts or to persons who had become yakkhas, namely Kalavela and Citta.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: There were seventeen years without a king between King Pandukabhaya and Abhaya.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Pandukabhaya is called ruler of the earth and intelligent.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Pandukabhaya assumed rule over the kingdom at thirty-seven years old.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Pandukabhaya reigned seventy years in Anuradhapura.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Anuradhapura is described as fair and wealthy; a note glosses the term as
+    filled with prosperity or wealthy.
+  category: setting
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Pandukabhaya
+  description: King and ruler of the earth who assumed rule at age thirty-seven, had
+    yakkhas and bhutas for friends, and reigned seventy years in Anuradhapura.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Abhaya
+  description: A king named in relation to the seventeen-year interval without a king
+    between Pandukabhaya and Abhaya.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: yakkhas and bhutas
+  description: Beings described as friends of Pandukabhaya; the note says the expression
+    is ambiguous.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Kalavela and Citta
+  description: Named in a footnote as possible referents of those who had become yakkhas.
+  role_refs: []
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: king
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage names King Pandukabhaya and Abhaya in the statement about the
+    interval without a king.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ruler who assumes and holds kingship
+  assigned_to:
+  - fig:1
+  basis: Pandukabhaya is said to assume rule over the kingdom and reign for seventy
+    years.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: supernatural friends or companions
+  assigned_to:
+  - fig:3
+  basis: The passage says Pandukabhaya had yakkhas and bhutas for friends, with a
+    note clarifying the ambiguity of the expression.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: yakkhas and bhutas as companions
+  literal_form: yakkhas and bhutas
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: seventeen-year kingless interval
+  literal_form: seventeen years without a king
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: seventy-year reign
+  literal_form: seventy years
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: wealthy Anuradhapura
+  literal_form: fair and wealthy Anuradhapura
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Kingless interval after Pandukabhaya and Abhaya
+  summary: The passage reports a seventeen-year period without a king between King
+    Pandukabhaya and Abhaya.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Pandukabhaya assumes rule and reigns in Anuradhapura
+  summary: At thirty-seven years old, Pandukabhaya assumes rule over the kingdom and
+    reigns seventy years in prosperous Anuradhapura.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Pandukabhaya with yakkha and bhuta friends
+  summary: Pandukabhaya is characterized as having yakkhas and bhutas for friends;
+    the note treats the expression as ambiguous.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: royal consecration and long legitimate reign
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The chapter label concerns the consecrating of Pandukabhaya, and the passage
+    says he assumed rule over the kingdom and reigned seventy years in wealthy Anuradhapura.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The excerpt itself gives only a brief royal summary and chapter title,
+    not a detailed consecration ritual.
+- id: motif:2
+  label: king with supernatural companions
+  taxonomy_refs: []
+  basis: Pandukabhaya is described as having yakkhas and bhutas for friends, though
+    the note says the expression is ambiguous.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not narrate actions by these companions and the translator
+    notes uncertainty about the expression.
+- id: motif:3
+  label: interregnum before royal rule
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage records seventeen years without a king before describing Pandukabhaya's
+    assumption of rule and long reign.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage reports the interval but does not explicitly interpret it
+    as a legitimacy pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7976-7977
+  quote_or_summary: "“he who had yakkhas and bhutas ... for friends”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 7987-7990
+  quote_or_summary: 'Footnote: the expression about yakkhas and bhutas is ambiguous;
+    it may mean ghosts or those who had become yakkhas, namely Kalavela and Citta.'
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 7977-7978
+  quote_or_summary: "“Between the king Pandukabhaya and Abhaya were seventeen years
+    without a king.”"
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 7980-7983
+  quote_or_summary: Pandukabhaya, called ruler of the earth and intelligent, assumed
+    rule at age thirty-seven and reigned seventy years in fair and wealthy Anuradhapura.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7992-7993
+  quote_or_summary: A note glosses the description of Anuradhapura as filled with
+    prosperity or wealthy.
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 7985-7986
+  quote_or_summary: Chapter ending names the section “The Consecrating of Pandukabhaya.”
+  source_text_path: texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and mostly annalistic; literal extraction is straightforward,
+    while motif assignment is limited by lack of narrative detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a cautious comparison beyond the supplied taxonomy motif labels.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:buddhist-mahavamsa-geiger-archive__l7976-l7993
+  passage_sha256=e3a1d7513c8d4f91d290971a8ad30b6af5fb2ad2681e7b4c17f9499781db6c47
+

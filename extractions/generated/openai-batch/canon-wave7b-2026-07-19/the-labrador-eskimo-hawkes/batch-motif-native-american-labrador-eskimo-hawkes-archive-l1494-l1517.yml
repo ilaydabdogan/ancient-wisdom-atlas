@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.native-american-labrador-eskimo-hawkes-archive-l1494-l1517
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+passage_locator:
+  label: EARLY  RELATIONS  WITH  THE  FRENCH   AND  ENGLISH. / CARTWRIGHT    AND    THE    SOUTHERN    ESKIMO.
+    / THE  WORK  OF  THE  MORAVIAN  MISSIONS. / CHARACTER  OF  THE  COUNTRY.; lines
+    1494-1517
+  start: '1494'
+  end: '1517'
+  translation: The Labrador Eskimo
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the west coast of the Labrador peninsula and east
+    coast of Hudson Bay, noting difficult navigation, sparse harbours, scattered Eskimo
+    populations, summer fishing and hunting visits, remains of former island settlements,
+    and a Belcher Islands group said to retain bird-skin clothing and stone implements.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The west coast of the Labrador peninsula or east coast of Hudson Bay is presented
+    as contrasting with the Ungava and Atlantic seaboard, with low limestone shores,
+    shoal barren waters, many small islands called the “Sleepers,” and few good harbours.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Richmond Gulf and Mosquito Bay are identified as the only inlets on this coast.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A few Eskimo are described as scattered along the desolate shore, while the
+    main body of the population is placed between Cape Smith and Cape Wolstenholme.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In summer, the Eskimo fish in rivers or visit large offshore islands where
+    game abounds because hunting occurs there only at irregular periods.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Old village and hunting-camp remains on Mansel, Nottingham, Coats, and Southampton
+    islands are described as evidence of a formerly considerable population, now extinct
+    on those islands.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Belcher Islands are described as still inhabited by a tribe that annually
+    visits the Hudson’s Bay Company post at Great Whale River.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Belcher Islands tribe is said to retain bird-skin clothing and stone implements
+    associated with early Labrador Eskimo.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eskimo population on the west coast of the Labrador peninsula / east
+    coast of Hudson Bay
+  description: A few are scattered along the desolate shore, with the main body between
+    Cape Smith and Cape Wolstenholme; in summer they fish in rivers or visit offshore
+    islands for game.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Former island Eskimo population
+  description: A formerly considerable population inferred from old village and hunting-camp
+    remains on Mansel, Nottingham, Coats, and Southampton islands; described as now
+    extinct on those islands.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Belcher Islands tribe
+  description: A tribe inhabiting the Belcher Islands, visiting the Hudson’s Bay Company
+    post at Great Whale River annually, and said to retain bird-skin clothing and
+    stone implements.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: seasonal fishers and island hunters
+  assigned_to:
+  - fig:1
+  basis: The passage states that in summer they fish in rivers or visit large islands
+    where game abounds.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: former island inhabitants
+  assigned_to:
+  - fig:2
+  basis: The passage treats old village and hunting-camp remains as evidence of a
+    formerly considerable population.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: annual visitors to trading post
+  assigned_to:
+  - fig:3
+  basis: The passage says the Belcher Islands tribe visits the Hudson’s Bay Company
+    post at Great Whale River annually.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: retainers of older material culture
+  assigned_to:
+  - fig:3
+  basis: The passage says they are reported to retain bird-skin clothing and stone
+    implements of early Labrador Eskimo.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sleepers islands
+  literal_form: Numerous groups of very small islands nicknamed the “Sleepers,” which
+    make navigation difficult.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bird-skin clothing
+  literal_form: Bird-skin clothing said to be retained by the Belcher Islands tribe.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: stone implements
+  literal_form: Stone implements said to be retained by the Belcher Islands tribe.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Difficult west-coast navigation setting
+  summary: The coast is described as low, limestone, shoal, barren, and difficult
+    to navigate because of many small islands, with few good harbours and only two
+    named inlets.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Summer fishing and island visits
+  summary: Eskimo inhabitants of the coast fish in rivers during summer or visit large
+    islands where game is plentiful.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Former island settlement remains
+  summary: Remains of old villages and hunting camps on several islands are presented
+    as evidence for a formerly large population that is now extinct there.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Belcher Islands inhabitants and retained implements
+  summary: The Belcher Islands are inhabited by a tribe that visits Great Whale River
+    annually and is said to preserve bird-skin clothing and stone implements.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: seasonal fishing and hunting round
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly describes summer fishing in rivers and visits to islands
+    where game abounds.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is an ethnographic subsistence pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: abandoned settlements as signs of a former people
+  taxonomy_refs: []
+  basis: Old village and hunting-camp remains are presented as evidence of a former
+    population now extinct on the named islands.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage is historical and ethnographic; no sacred or narrative interpretation
+    is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1494-1502
+  quote_or_summary: 'The west coast/east Hudson Bay shore contrasts with Ungava and
+    the Atlantic coast: low limestone shores, shoal barren waters, many tiny islands
+    called the “Sleepers,” difficult navigation, few harbours, and only Richmond Gulf
+    and Mosquito Bay as inlets.'
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 1502-1507
+  quote_or_summary: A few Eskimo are scattered along the shore, the main population
+    lies between Cape Smith and Cape Wolstenholme, and in summer they fish in rivers
+    or visit large islands where game abounds.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 1508-1513
+  quote_or_summary: Remains of old villages and hunting camps on Mansel, Nottingham,
+    Coats, and Southampton islands are cited as evidence of a former sizable population;
+    the Eskimo there are now described as extinct and the islands rarely visited except
+    for hunting.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 1513-1517
+  quote_or_summary: The Belcher Islands are still inhabited by a tribe that annually
+    visits the Hudson’s Bay Company post at Great Whale River and is said to retain
+    bird-skin clothing and stone implements of early Labrador Eskimo.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal ethnographic and geographic extraction is well supported. Motif candidates
+    are limited because the passage is descriptive rather than mythological. No comparison
+    claims were added because the passage does not directly support a comparative
+    mythology claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The source uses the term “Eskimo”; labels preserve source wording while avoiding added interpretation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-labrador-eskimo-hawkes-archive__l1494-l1517
+  passage_sha256=e5c32af385015f8b488805e3fbe8fb97340e2c64fadd8d62c1dd9c4f0efefe4d
+

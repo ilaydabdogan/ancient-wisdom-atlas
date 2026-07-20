@@ -1,0 +1,229 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l7883-l7910
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'MANDALA I, HYMN I4I. , 151 / MANDALA I, HYMN 142. 158 / NOTES: / NOTES:;
+    lines 7883-7910'
+  start: '7883'
+  end: '7910'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes on a Vedic hymn identify Agni as considered born from the
+    Waters and as several times identified with Apam napat, glossed as “Child of the
+    Waters”; the notes also mention Matarisvan in comparison and discuss metrical,
+    translation, and textual-critical matters.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes state that Agni is considered born from the Waters.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The notes state that Agni is several times identified with Apam napat.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Apam napat is glossed as “Child of the Waters.”
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Matarisvan is mentioned as a god used in comparison with the god identified
+    as Apam napat.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage includes textual notes on metre, translations, verse order, and
+    proposed readings.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Agni
+  description: A figure considered born from the Waters and identified several times
+    with Apam napat.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Apam napat
+  description: A god glossed as “Child of the Waters” and identified several times
+    with Agni.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Matarisvan
+  description: A god mentioned as comparable in having, in the editor’s opinion, an
+    independent origin.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: born-from-the-Waters figure
+  assigned_to:
+  - fig:1
+  basis: The note says Agni is considered born from the Waters.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: identified divine figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The note says Agni is identified several times with Apam napat.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Child of the Waters
+  assigned_to:
+  - fig:2
+  basis: Apam napat is glossed as “Child of the Waters.”
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: comparative divine parallel
+  assigned_to:
+  - fig:3
+  basis: Matarisvan is mentioned as a god used for comparison in the note.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Waters
+  literal_form: Waters
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial note on Agni, the Waters, and Apam napat
+  summary: The note states that Agni is considered born from the Waters and is identified
+    several times with Apam napat, glossed as Child of the Waters, while also mentioning
+    Matarisvan in comparison.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Divine birth from waters
+  taxonomy_refs:
+  - sacred_birth
+  basis: Agni is described as considered born from the Waters.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial note rather than a narrative episode; it reports
+    a belief or identification without giving a full mythic scene.
+- id: motif:2
+  label: Divine child of waters
+  taxonomy_refs:
+  - divine_parent_child
+  basis: Apam napat is glossed as Child of the Waters and is identified with Agni,
+    who is considered born from the Waters.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The familial relation is present in the gloss and birth statement, but
+    the passage does not narrate parentage in detail.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-motif or identification comparison between
+    Agni and Apam napat around a water-born or Waters-child divine figure.
+  claim_level: same_motif
+  target: Apam napat, “Child of the Waters”
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on an editor’s note saying Agni is identified several
+    times with Apam napat; the passage does not provide the underlying hymn verses
+    or full comparative evidence.
+- id: claim:2
+  claim: The passage compares the god identified as Apam napat to Matarisvan in relation
+    to independent origin.
+  claim_level: same_function
+  target: Matarisvan
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note mentions Matarisvan only briefly and does not specify shared
+    actions or narrative functions beyond the editor’s statement about independent
+    origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7883-7887
+  quote_or_summary: The passage opens as notes, mentioning the same rishi, metre,
+    and prior translation of the hymn.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 7893-7894
+  quote_or_summary: "“Agni who is considered as born from the Waters”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 7894-7897
+  quote_or_summary: "“is identified several times with a god who, like Matarisvan,
+    in my opinion had an independent origin, with Apam napat (‘Child of the Waters’).”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 7899-7905
+  quote_or_summary: Later notes discuss verse order and a probable reading, with references
+    to Kaegi, another Vedic passage, and Bergaigne.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is a scholarly note rather than a myth narrative. Literal extraction
+    of named figures and water-related language is strong; motif and comparison claims
+    need review because they depend on editorial characterization.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external taxonomy IDs or comparisons were added beyond the supplied motif and symbol lists and the passage’s own comparison of Agni, Apam napat, and Matarisvan.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l7883-l7910
+  passage_sha256=cee1bbb480cdc4e2fb6f48c41624d02e9c6309b4c985ce738f3e5ada0e81dd75
+

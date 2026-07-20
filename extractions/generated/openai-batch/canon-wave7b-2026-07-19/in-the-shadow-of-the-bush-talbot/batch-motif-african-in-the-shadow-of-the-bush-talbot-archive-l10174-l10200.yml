@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.african-in-the-shadow-of-the-bush-talbot-archive-l10174-l10200
+source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+passage_locator:
+  label: DIVINATION  183 / DIVINATION  185 / DIVINATION  187 / DIVINATION  189; lines
+    10174-10200
+  start: '10174'
+  end: '10200'
+  translation: In the Shadow of the Bush
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"Now I will show you a magic medicine, which will bring your parents to
+    life again."'
+  summary: Porcupine tells a girl about a magic medicine. The girl makes it, rubs
+    it on her parents, and they stand alive. Leftover medicine is thrown on a rubbish
+    heap. A hawk who watched seeks the discarded medicine, explaining why hawks circle
+    rubbish heaps.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Porcupine tells the girl that he will show her a magic medicine able to bring
+    her parents to life again.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The girl follows Porcupine's instructions, makes the medicine, and rubs it
+    over the bodies of her father and mother.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The father and mother are cured of the hurt of their fall and stand up alive.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: All return home together, and neighbours bring brands and relight the fire
+    on the hearth.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Some of the medicine remains, and the girl throws the remainder away on the
+    rubbish heap.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hawk has watched the girl's consultation with Porcupine, the making of the
+    medicine, and the revival of her parents.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage explains hawks circling over rubbish heaps as hawk's attempt to
+    get the discarded medicine so he can revive his own parents if they die.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A note says the last paragraph is really a separate story entitled "Why hawks
+    haunt rubbish heaps," though the narrator joined it to the preceding story.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the girl
+  description: A girl who receives Porcupine's instruction, makes the medicine, revives
+    her parents, and throws away the remainder.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Porcupine
+  description: Porcupine tells the girl about a magic medicine that can bring her
+    parents to life again.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: father and mother
+  description: The girl's parents, whose bodies are rubbed with the medicine and who
+    stand up alive.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: neighbours
+  description: Neighbours bring brands and relight the fire on the hearth after the
+    family returns home.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: hawk
+  description: Hawk watches the girl and seeks the discarded medicine on the rubbish
+    heap in order to revive his own parents if they die.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: maker and user of reviving medicine
+  assigned_to:
+  - fig:1
+  basis: The girl makes the medicine, rubs it over her parents' bodies, and discards
+    the remainder.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: animal instructor in medicine
+  assigned_to:
+  - fig:2
+  basis: Porcupine says he will show the girl a magic medicine that can bring her
+    parents to life again.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: revived parents
+  assigned_to:
+  - fig:3
+  basis: The father and mother are cured and stand up alive after the medicine is
+    rubbed on them.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: communal relighters of hearth fire
+  assigned_to:
+  - fig:4
+  basis: The neighbours bring brands and relight the fire on the hearth.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: animal watcher and seeker of discarded medicine
+  assigned_to:
+  - fig:5
+  basis: Hawk watches the events and circles rubbish heaps to get the medicine for
+    possible future use on his parents.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: life-restoring medicine
+  literal_form: magic medicine made by the girl, rubbed over her parents' bodies,
+    partly left over, and thrown away
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: hearth fire
+  literal_form: fire on the hearth relit with brands by neighbours
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: rubbish heap
+  literal_form: rubbish heap where the girl throws away the remaining medicine and
+    where hawk seeks it
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Porcupine reveals reviving medicine
+  summary: Porcupine tells the girl he will show her a magic medicine that can bring
+    her parents to life again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Parents revived and hearth restored
+  summary: The girl makes and applies the medicine; her parents stand alive, all return
+    home, and neighbours relight the hearth fire.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Discarded medicine and hawk's search
+  summary: The girl throws remaining medicine on a rubbish heap. Hawk, having watched
+    the process, circles rubbish heaps to find the medicine for possible use on his
+    own parents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Narrative note on separate hawk story
+  summary: The passage states that the final paragraph is a separate story, titled
+    "Why hawks haunt rubbish heaps," joined by the narrator to the preceding story.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Revival of dead parents by magic medicine
+  taxonomy_refs:
+  - resurrection
+  basis: The passage states that the medicine will bring the parents to life again,
+    and that after it is rubbed on them they stand up alive.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives only brief details of the medicine and does not describe
+    a wider afterlife or ritual system.
+- id: motif:2
+  label: Animal instructor reveals life-restoring knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Porcupine instructs the girl by showing her the magic medicine that enables
+    the revival of her parents.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The available taxonomy ref "wisdom" is broad; the passage specifically
+    concerns practical medicine knowledge.
+- id: motif:3
+  label: Etiology of hawks haunting rubbish heaps
+  taxonomy_refs: []
+  basis: The passage explains hawks circling rubbish heaps as an attempt to obtain
+    the discarded medicine; the note identifies this as a separate story, "Why hawks
+    haunt rubbish heaps."
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No matching available taxonomy reference for etiological animal-behavior
+    tales was supplied.
+- id: motif:4
+  label: Discarded remnant of powerful medicine sought by an animal
+  taxonomy_refs: []
+  basis: A remainder of the medicine is thrown away, and hawk seeks it in order to
+    gain the same reviving power for his parents.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This may be a sub-pattern within the hawk etiology rather than an independent
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10174-10178
+  quote_or_summary: Porcupine says he will show the girl "a magic medicine" that will
+    bring her parents to life again.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 10179-10184
+  quote_or_summary: The girl makes the medicine and rubs it over her parents' bodies;
+    they are cured, stand alive, return home with her, and neighbours relight the
+    hearth fire.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10185-10187
+  quote_or_summary: Some medicine remains, and the girl throws it away on the rubbish
+    heap.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10188-10197
+  quote_or_summary: Hawk watched the girl consult Porcupine, make the medicine, and
+    revive her parents; hawk circles rubbish heaps seeking the medicine so he can
+    revive his own parents if they die.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 10198-10200
+  quote_or_summary: The note identifies the last paragraph as a separate story entitled
+    "Why hawks haunt rubbish heaps," joined to the prior story by the narrator.
+  source_text_path: texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif assignment to resurrection and
+    etiology is well supported, while the broader wisdom classification is more tentative.
+    No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to the provided available refs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-in-the-shadow-of-the-bush-talbot-archive__l10174-l10200
+  passage_sha256=5318363b66b56a7d4a86409477d1b2074ab788f0fa8b2cd4d8a7d00bb9100047
+

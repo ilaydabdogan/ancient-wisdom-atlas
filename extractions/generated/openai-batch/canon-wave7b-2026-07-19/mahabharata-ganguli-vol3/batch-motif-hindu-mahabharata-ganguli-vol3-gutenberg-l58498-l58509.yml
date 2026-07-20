@@ -1,0 +1,219 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l58498-l58509
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCCXVIII / SECTION CCCXIX / SECTION CCCXX / SECTION CCCXXI; lines
+    58498-58509
+  start: '58498'
+  end: '58509'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker advises that one seeking success should approach certain parties
+    with sincerity and candour rather than deceit, then asks the addressee to state
+    birth order, learning, conduct, disposition, nature, and purpose. Bhishma narrates
+    that Sulabha, though rebuked by the king, remains unashamed and prepares an eloquent
+    reply.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker states that a person seeking to accomplish his own object should
+    approach the specified parties with sincerity and candour.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker states that insincerity and deceit fail to produce success in
+    those quarters.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker asks the addressee to disclose birth order, learning, conduct,
+    disposition, nature, and purpose for coming to the place.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Bhishma narrates that the king rebuked Sulabha with unpleasant, improper,
+    and ill-applied words.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Sulabha is described as not abashed after the king's rebuke.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sulabha prepares to reply with words described as more handsome than her person.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed speaker addressing the visitor
+  description: A speaker asks the addressee to state identity, qualities, and purpose;
+    the following narration identifies a king who had rebuked Sulabha.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Sulabha
+  description: A beautiful lady addressed by Bhishma's narration; she remains unashamed
+    after rebuke and prepares to answer.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Bhishma
+  description: Narrator of the episode who continues the account of the king and Sulabha.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: questioning authority
+  assigned_to:
+  - fig:1
+  basis: The speaker demands disclosure of birth order, learning, conduct, disposition,
+    nature, and purpose.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: rebuked interlocutor
+  assigned_to:
+  - fig:2
+  basis: Sulabha is said to have been rebuked by the king but not abashed.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: eloquent respondent
+  assigned_to:
+  - fig:2
+  basis: Sulabha prepares to speak words described as more handsome than her person.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: frame narrator
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly marks the narration as continued by Bhishma.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Demand for truthful self-disclosure
+  summary: A speaker advises sincerity and candour as necessary for success and demands
+    that the visitor state social origin, learning, conduct, disposition, nature,
+    and purpose.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sulabha's composed reply after rebuke
+  summary: Bhishma narrates that Sulabha remains unashamed after the king's rebuke
+    and prepares an eloquent reply.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sincerity and candour as conditions for success
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents an explicit maxim contrasting sincere approach with
+    failed deceit.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The immediate referent of 'these three' is outside the provided line range.
+- id: motif:2
+  label: interrogation of a visitor's identity and purpose
+  taxonomy_refs: []
+  basis: The speaker asks the addressee to disclose birth order, learning, conduct,
+    disposition, nature, and the purpose of coming.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not provide the full preceding context or the precise
+    social setting.
+- id: motif:3
+  label: unabashed wise respondent after rebuke
+  taxonomy_refs:
+  - wisdom
+  basis: Sulabha is not abashed by the king's rebuke and is introduced as about to
+    make a superior verbal reply.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The content of Sulabha's reply lies outside the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 58498-58501
+  quote_or_summary: One desirous of accomplishing his object should approach 'with
+    sincerity and candour'; insincerity and deceit fail to produce success.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 58501-58504
+  quote_or_summary: The speaker asks the addressee to declare birth order, learning,
+    conduct, disposition, nature, and purpose for coming to the place.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 58506-58508
+  quote_or_summary: Bhishma says Sulabha was rebuked by the king in unpleasant and
+    improper words, yet 'was not at all abashed.'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 58508-58509
+  quote_or_summary: Sulabha is described as beautiful and as preparing to reply with
+    words more handsome than her person.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is a short transitional excerpt with important context before and
+    after the supplied lines omitted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied taxonomy are explicitly present in this passage. No comparison claims were made because the excerpt itself does not support a cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l58498-l58509
+  passage_sha256=e43c82f2bb869a40fde5b08a24e99ccdb0e0d3d2db83f84e4d6382cb9a42c155
+

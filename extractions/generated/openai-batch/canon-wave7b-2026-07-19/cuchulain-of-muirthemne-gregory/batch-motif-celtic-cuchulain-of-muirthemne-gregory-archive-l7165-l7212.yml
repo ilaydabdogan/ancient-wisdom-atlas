@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.celtic-cuchulain-of-muirthemne-gregory-archive-l7165-l7212
+source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+passage_locator:
+  label: DEATHOFGERG  165 / THE    FIGHT   AT    RATH    INI         167 / DEATHOFMAINE  169
+    / I70    WEDDING   OF   MAINE    MORGOR; lines 7165-7212
+  start: '7165'
+  end: '7212'
+  translation: Cuchulain of Muirthemne
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A woman laments over the body of Maine, praising his lineage, beauty, battle
+    strength, and status as her husband. She describes signs of grief, his weapons
+    and wounds, his severed hand and head, Conchubar holding his head and carrying
+    away his sword, and his shield lying where he fell defending his people.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman cries and laments over a man who is lying there, addressing him directly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The lament says the young man's bed is red and that bad signs accompanied
+    his coming into the house, foretelling tears for his people.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The woman identifies the dead young man as a son of Maeve and a son of Ailell.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The lament praises the young man as highly honorable, beautiful, and victorious
+    against enemies.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The lament describes the young man's ruddy face and his hand as rough in battle.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The lament says he was seldom without arms before being struck down dead.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The lament describes a shining spear piercing him, a hard sword wounding him,
+    and blood dropping on his cheeks.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The woman calls Maine her husband for all her days and says she will die for
+    want of him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The lament describes Maine's purple cloak, his body on the floor, his hand
+    struck off after he fell, and his head in Conchubar's hand.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The lament says Conchubar carried Maine's strong sword away, while Maine's
+    shield remained where he fell defending his people.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unnamed lamenting woman
+  description: A woman who cries over the dead man, speaks the complaint, calls him
+    her husband, and says she will die for want of him.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Maine
+  description: The dead young man addressed in the lament; called son of Maeve, Ailell's
+    son, husband of the lamenting woman, and a hero who fell defending his people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Maeve
+  description: Named as Maine's mother in the phrase identifying him as son of Maeve.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ailell
+  description: Named as Maine's father in the phrase identifying him as Ailell's son.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: Conchubar
+  description: Named as holding Maine's head and as having carried away Maine's sword.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: lamenting wife
+  assigned_to:
+  - fig:1
+  basis: She cries over the dead man, calls him her husband, and says she will die
+    for want of him.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: slain husband and warrior
+  assigned_to:
+  - fig:2
+  basis: He is described as lying dead, as the woman's husband, as armed and wounded
+    by spear and sword, and as having fallen defending his people.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: named parent of Maine
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The lament identifies Maine as son of Maeve and son of Ailell.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: holder of severed head and taker of sword
+  assigned_to:
+  - fig:5
+  basis: Conchubar is said to have Maine's head in his hand and to have carried Maine's
+    sword away.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: red bed
+  literal_form: A bed described as red in the lament over the young man.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bad signs on entering the house
+  literal_form: Bad signs associated with the young man's coming into the house, described
+    as a foretelling of tears.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: piercing spear and wounding sword
+  literal_form: A shining spear and a hard sword named as causing wounds to the dead
+    young man.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: purple cloak
+  literal_form: Maine's purple cloak, described as grief to the lamenting woman.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: severed hand
+  literal_form: Maine's hand, said to have been struck off after he fell.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: severed head in Conchubar's hand
+  literal_form: Maine's head in the hand of Conchubar.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: carried-away sword
+  literal_form: Maine's strong sword, said to have been carried far away by Conchubar.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:8
+  label: shield at the fall-site
+  literal_form: Maine's shield lying where he fell while defending his people.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Woman laments over the dead man
+  summary: A woman cries over the man lying before her and begins a formal complaint,
+    addressing him as alone after many nights in company.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lament of omens, lineage, and praise
+  summary: The woman describes the red bed, bad signs at his entrance into the house,
+    his parentage from Maeve and Ailell, his beauty, honor, and success in battle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Description of wounds, dismemberment, and war-gear
+  summary: The lament recounts Maine's wounds by spear and sword, names him as the
+    woman's husband, and describes his cloak, severed hand, head in Conchubar's hand,
+    carried-away sword, and shield where he fell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Female lament over slain husband-warrior
+  taxonomy_refs: []
+  basis: The passage is structured as a woman's complaint over a dead warrior whom
+    she calls her husband, combining grief with praise of his beauty, lineage, and
+    martial life.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage itself gives the lament and marital claim, but the broader
+    narrative context of the wedding is outside the supplied excerpt.
+- id: motif:2
+  label: Slain hero praised through genealogy and battle prowess
+  taxonomy_refs: []
+  basis: The lament names Maine as son of Maeve and Ailell, praises his honor and
+    beauty, and says meetings with enemies were final for them.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a descriptive motif candidate based on the lament's content; no
+    external classification is asserted.
+- id: motif:3
+  label: Warrior death marked by weapons, severed body, and captured gear
+  taxonomy_refs: []
+  basis: The passage describes Maine struck down, pierced by spear, wounded by sword,
+    with hand struck off, head in Conchubar's hand, sword carried away, and shield
+    left at the place of his fall.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The excerpt does not explicitly state who inflicted every wound or why
+    the head and sword were taken.
+- id: motif:4
+  label: Ominous entry into a house foretelling grief
+  taxonomy_refs: []
+  basis: The lament says bad signs appeared when the young man came into the house
+    and that they foretold tears for all his people.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions the omen retrospectively within lament speech but
+    does not narrate the signs themselves.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage has the same function as a heroic death-lament pattern: a mourner
+    addresses a fallen warrior, praises his lineage and prowess, and catalogs the
+    wounds and losses surrounding his death.'
+  claim_level: same_function
+  target: heroic death-lament pattern
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to a broad pattern only; the supplied
+    passage does not establish historical contact, common inheritance, or a specific
+    parallel text.
+- id: claim:2
+  claim: The severed head in Conchubar's hand and the carried-away sword can be cautiously
+    compared to a martial trophy-or-spoils pattern after a warrior's defeat.
+  claim_level: same_function
+  target: martial trophy-taking or battle-spoils pattern
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage states possession of the head and sword but does not explicitly
+    frame them as trophies or describe a ritual use.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7165-7170
+  quote_or_summary: She “cried and lamented over him” and says he is “alone now.”
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 7171-7176
+  quote_or_summary: "“O young man, it is red your bed is”; bad signs foretold tears
+    for his people."
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 7177-7188
+  quote_or_summary: The lament calls him son of Maeve and son of Ailell, praises him
+    as honorable and like a rod of gold, and says an enemy's meeting with him was
+    the last meeting.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 7189-7198
+  quote_or_summary: The lament describes his ruddy face, battle-hardened hand, constant
+    arms, death after being struck down, and wounds from spear and sword with blood
+    on his cheeks.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 7199-7206
+  quote_or_summary: The woman calls great Maine her husband, says she will die for
+    want of him, and describes his purple cloak, body on the floor, severed hand,
+    and head in Conchubar's hand.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 7207-7212
+  quote_or_summary: The lament says Conchubar carried away Maine's strong sword, while
+    his shield lay where he fell defending his people; it also calls him a hero.
+  source_text_path: texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The supplied excerpt is a partial passage ending mid-sentence. Literal extraction
+    is relatively secure, but broader motif and comparison claims are limited by the
+    excerpt boundary and by lack of external context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied public-domain passage text and metadata. No taxonomy motif family was assigned because the available taxonomy list does not include a direct match for heroic lament, severed-head trophy, or martial death-spoils motifs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-cuchulain-of-muirthemne-gregory-archive__l7165-l7212
+  passage_sha256=8fa62a49795ae0c8857cee90b4b984ed90f341762e0c89508d3419495cda5d88
+

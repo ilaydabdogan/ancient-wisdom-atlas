@@ -1,0 +1,353 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-1-smith-dale-archive-l3766-l3818
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+passage_locator:
+  label: MULUNGUSHI. / PHYSICAL CHARACTERISTICS / PT. I / PT. I; lines 3766-3818
+  start: '3766'
+  end: '3818'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage, in an ethnographic section on physical characteristics, includes
+    a photo caption identifying Namushia, son of Mungaila, as chief at Kasenga. It
+    describes unnamed people returning from long marches carrying goods, arriving
+    in good spirits, helping comrades with loads, eating, and dancing. It also describes
+    their endurance of hunger when water is available, the greater exhaustion caused
+    by thirst, practices for avoiding heat during journeys, and cases of heat-stroke
+    among babies carried on their mothers' backs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A photo caption identifies Namushia, son of Mungaila, as a chief at Kasenga.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes people carrying their own belongings and goods such
+    as blankets, food, fish, tobacco, and pots during a long march.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After a long march, the travelers arrive in good spirits, shouting and singing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One or two travelers may go back to help a comrade bring in his load.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After a meal, the travelers may spend two or three hours dancing.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that the people can go two days on the march without food
+    by tightening their belts, when water is available.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that thirst exhausts them more quickly than hunger.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The people are described as tolerating heat without hats or other headgear,
+    while avoiding exertion during the heat of the day when possible.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: During the hot season before the rains, travelers commonly rise at 2 or 3
+    A.M. to journey in the cool morning.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Cases of heat-stroke are reported, especially among babies carried in the
+    heat on their mothers' backs.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Namushia, son of Mungaila
+  description: Named in the photo caption as chief at Kasenga.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Unnamed long-march travelers
+  description: People described as carrying loads, arriving from a long march, enduring
+    hunger and heat, and adjusting travel time to avoid midday heat.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Comrade with load
+  description: A comrade whom one or two travelers may go back to help with his load.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Mothers carrying babies
+  description: Mothers who carry babies on their backs in the heat.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Babies carried in heat
+  description: Babies carried on their mothers' backs and especially associated with
+    reported cases of heat-stroke.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: chief
+  assigned_to:
+  - fig:1
+  basis: The photo caption identifies Namushia as chief at Kasenga.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: long-distance marcher and load carrier
+  assigned_to:
+  - fig:2
+  basis: The passage describes travelers coming in from a long march with goods and
+    loads.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: helper of comrade
+  assigned_to:
+  - fig:2
+  basis: One or two travelers may go back to help a comrade with his load.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: assisted comrade
+  assigned_to:
+  - fig:3
+  basis: The comrade is helped in with his load.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: child carrier
+  assigned_to:
+  - fig:4
+  basis: The passage describes babies carried on their mothers' backs in the heat.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: heat-stroke-vulnerable child
+  assigned_to:
+  - fig:5
+  basis: Heat-stroke cases are said to occur especially among babies carried in the
+    heat.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: journey load and provisions
+  literal_form: Blankets, food, fish, tobacco, pots, and other carried goods.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: water on the march
+  literal_form: Water available during a foodless march; lack of water produces thirst.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tightened belts during hunger
+  literal_form: Tightening belts while marching without food.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: pre-dawn journey time
+  literal_form: Rising at 2 or 3 A.M. to travel in the cool of the morning.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: mothers' backs as carrying place
+  literal_form: Babies carried on their mothers' backs in the heat.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Captioned portrait of a chief
+  summary: The passage includes a photo caption naming Namushia, son of Mungaila,
+    as chief at Kasenga.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return from a long march
+  summary: Travelers arrive from a long march carrying goods, shouting and singing;
+    some may help a comrade with his load, and after eating they may dance for several
+    hours.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hunger and thirst on the march
+  summary: The passage says the people can endure two days of marching without food
+    by tightening their belts if water is available, but thirst exhausts them more
+    quickly than hunger.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Travel practices in heat
+  summary: The people tolerate heat but avoid exertion in the hottest part of the
+    day when possible, often beginning journeys at 2 or 3 A.M. during the hot season
+    before the rains.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Heat-stroke among carried babies
+  summary: Heat-stroke cases are reported, especially among babies carried on their
+    mothers' backs in the heat.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: endurance on the long march
+  taxonomy_refs: []
+  basis: The passage describes travelers carrying loads, completing long marches in
+    good spirits, enduring hunger when water is available, and adapting journey times
+    to heat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic description of travel endurance, not a mythic
+    narrative motif in the passage.
+- id: motif:2
+  label: mutual aid among travelers
+  taxonomy_refs: []
+  basis: One or two travelers may go back to help a comrade with his load.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents a practical social action; no mythological interpretation
+    is stated.
+- id: motif:3
+  label: pre-dawn departure to evade heat
+  taxonomy_refs: []
+  basis: During the hot season before the rains, journeys commonly begin at 2 or 3
+    A.M. so that travelers can go far in the cool morning.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a literal travel practice rather than a named mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3766-3818
+  quote_or_summary: "“NAMUSHIA, SON OF MUNGAILA, CHIEF AT KASENGA.”"
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 3766-3818
+  quote_or_summary: The passage lists carried goods, says the people come in from
+    a long march shouting and singing, may help a comrade with his load, and may dance
+    for two or three hours after a meal.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3766-3818
+  quote_or_summary: The passage says they can go two days on the march without food
+    by tightening their belts when water is available, and that thirst exhausts them
+    more quickly than hunger.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3766-3818
+  quote_or_summary: The passage says they tolerate heat without headgear but avoid
+    midday exertion if possible, and in the hot season before the rains often rise
+    at 2 or 3 A.M. to travel in the cool morning.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3766-3818
+  quote_or_summary: The passage reports cases of heat-stroke, especially among babies
+    carried in the heat on their mothers' backs.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are treated as descriptive
+    patterns only; the passage does not present a mythic narrative or support comparison
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No passage-supported comparative claims were extracted. Taxonomy mapping is limited to the literal occurrence of water.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-1-smith-dale-archive__l3766-l3818
+  passage_sha256=2bb052b5f6745ea9521d4fb5ce83751b10d096639931e949fd3c8cca0b93cb09
+

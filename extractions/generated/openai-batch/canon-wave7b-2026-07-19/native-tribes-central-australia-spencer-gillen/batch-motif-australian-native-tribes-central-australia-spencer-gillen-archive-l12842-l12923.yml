@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.australian-native-tribes-central-australia-spencer-gillen-archive-l12842-l12923
+source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+passage_locator:
+  label: FIG. 41.- / THE ENGWURA CEREMONY / VIII INITIATION CEREMONIES 275 / A , .;
+    lines 12842-12923
+  start: '12842'
+  end: '12923'
+  translation: The Native Tribes of Central Australia
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: some travelling a distance of two hundred miles to be present
+  summary: The passage presents a plan of the Engwura ground with labelled storage
+    places for Churinga, places where named groups of women stood while throwing fire,
+    and the position of a Parra mound. It then states that people assembled from across
+    the tribe, some travelling two hundred miles, and that a few came from the Ilpirra
+    tribe north of the Arunta, where a similar ceremony was held.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage contains a figure caption identifying a plan of the Engwura ground.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The figure legend marks two storing places for Churinga, one associated with
+    Panunga and Bulthara and one associated with Purula and Kumara.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The figure legend marks spots where Panunga and Bulthara women and Purula
+    and Kumara women stood when throwing fire over a named group rendered unclearly
+    by the OCR.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The figure legend marks the position of a Parra mound.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: People assembled from all parts of the tribe, with some travelling two hundred
+    miles to attend.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A few attendees came from the Ilpirra tribe, which is described as lying immediately
+    north of the Arunta.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage states that a ceremony similar to the Engwura was held in the
+    Ilpirra tribe.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Panunga and Bulthara women
+  description: Women identified in the figure legend as standing at a marked spot
+    when throwing fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Purula and Kumara women
+  description: Women identified in the figure legend as standing at a marked spot
+    when throwing fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Assembled attendees
+  description: People who came from all parts of the tribe to be present at the ceremony.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Ilpirra attendees or Ilpirra tribe
+  description: A few attendees came from the Ilpirra tribe, north of the Arunta, where
+    a similar ceremony was held.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual fire-throwers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The plan legend locates where these women stood when throwing fire.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ceremonial assembly participants
+  assigned_to:
+  - fig:3
+  basis: The prose states that people assembled from all parts of the tribe, some
+    travelling a long distance to be present.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: nearby-tradition participants with similar ceremony
+  assigned_to:
+  - fig:4
+  basis: The prose identifies attendees from Ilpirra and says a similar ceremony was
+    held there.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Engwura ground
+  literal_form: A mapped ceremonial ground identified by the caption as the Engwura
+    ground.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Churinga storing places
+  literal_form: Two marked places for storing Churinga, associated with named social
+    divisions.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire
+  literal_form: Fire thrown by named groups of women over a named group rendered unclearly
+    by OCR.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Parra mound
+  literal_form: A mound marked on the plan as the Parra mound.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Plan of the Engwura ground
+  summary: The figure presents a ceremonial ground with labelled Churinga storage
+    places, fire-throwing positions, and a Parra mound.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Assembly for the Engwura ceremony
+  summary: Attendees gather from across the tribe, including some who travelled two
+    hundred miles and a few from the Ilpirra tribe north of the Arunta.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: initiation ceremony
+  taxonomy_refs:
+  - initiation
+  basis: The passage locator identifies the section as initiation ceremonies and the
+    passage concerns the Engwura ceremony and its ceremonial ground.
+  evidence_refs:
+  - ev:4
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The extracted line range is dominated by a figure and OCR-damaged legend;
+    the wider ritual sequence is not included here.
+- id: motif:2
+  label: ritual use of fire
+  taxonomy_refs: []
+  basis: The figure legend states that named groups of women stood at marked spots
+    when throwing fire.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the meaning, purpose, or effect of the fire
+    throwing.
+- id: motif:3
+  label: long-distance ceremonial gathering
+  taxonomy_refs: []
+  basis: The passage states that people came from all parts of the tribe and that
+    some travelled two hundred miles to be present.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives attendance and travel details but does not elaborate
+    on the social or mythic significance of the gathering.
+- id: motif:4
+  label: ritual storage of sacred objects
+  taxonomy_refs: []
+  basis: The figure legend marks storing places for Churinga associated with named
+    social divisions.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage identifies the storage places but does not describe the Churinga
+    or their ritual handling in this line range.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents the Ilpirra ceremony as similar to the Engwura
+    ceremony, indicating a nearby-tradition analogue at least at the level of ritual
+    type or function.
+  claim_level: same_function
+  target: Ilpirra tribe ceremony similar to the Engwura
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No details of the Ilpirra ceremony are provided in this passage, so
+    the nature and extent of the similarity cannot be specified.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12842-12923, figure caption
+  quote_or_summary: "“Fig. 46. — Plan of the Engwura Ground.”"
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; short excerpt quoted from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 12842-12923, figure legend
+  quote_or_summary: The legend labels Churinga storing places for Panunga/Bulthara
+    and Purula/Kumara, spots where corresponding women stood when throwing fire over
+    a named group, and the position of the Parra mound.
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 12842-12923, prose paragraph after figure
+  quote_or_summary: "“The natives who assembled came from all parts of the tribe,
+    some travelling a distance of two hundred miles to be present,” and a few came
+    from the Ilpirra tribe north of the Arunta, where a similar ceremony was held."
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Public domain; short excerpt quoted with summary from supplied passage.
+- id: ev:4
+  type: citation
+  locator: passage label for lines 12842-12923
+  quote_or_summary: The supplied locator identifies the passage under “THE ENGWURA
+    CEREMONY” and “VIII INITIATION CEREMONIES.”
+  source_text_path: texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md
+  rights_note: Citation/metadata supplied in the extraction request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main ceremonial and attendance details are clear, but the figure text is
+    OCR-damaged and several named terms are uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, locator, source metadata, and available taxonomy references. No external ethnographic interpretation has been added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:australian-native-tribes-central-australia-spencer-gillen-archive__l12842-l12923
+  passage_sha256=08678e4d17d80ca0986fa0925e33ff437708e01c52f5dab54b732f4eee537239
+

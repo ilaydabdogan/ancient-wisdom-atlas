@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.native-american-teton-sioux-music-densmore-archive-l12949-l12959
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+passage_locator:
+  label: STRUCTURE / BUREAU  OF  AMEBICAN   ETHNOLOGY / CHARQINQ  THUNKR / DREAMS  CONCERNING  THE  BUFFALO;
+    lines 12949-12959
+  start: '12949'
+  end: '12959'
+  translation: Teton Sioux Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: When I was 10 years old, I dreamed a dream, and in my dream a buffalo appeared
+    to me.
+  summary: Brave Buffalo narrates his first dream, from which he received his name.
+    At age 10 he dreamed that a buffalo appeared to him while he was in the mountains
+    and had fallen asleep in the shade of a tree.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage introduces a section on dreams concerning the buffalo.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Brave Buffalo gives a narrative about his first dream.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Brave Buffalo received his name from this first dream.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the dream, a buffalo appeared to Brave Buffalo when he was 10 years old.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the dream, Brave Buffalo was in the mountains and fell asleep in the shade
+    of a tree.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Brave Buffalo
+  description: Person who narrates his first dream and says he received his name from
+    it.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: buffalo
+  description: Buffalo that appeared to Brave Buffalo in his dream.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: narrator
+  assigned_to:
+  - fig:1
+  basis: The passage says Brave Buffalo gave the narrative.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: dreamer
+  assigned_to:
+  - fig:1
+  basis: Brave Buffalo recounts dreaming at age 10.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: dream-appearing animal
+  assigned_to:
+  - fig:2
+  basis: The buffalo appears to the dreamer in the dream.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: buffalo
+  literal_form: buffalo appearing in a dream
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: mountain
+  literal_form: mountains in the dream setting
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: tree
+  literal_form: tree whose shade is where the dreamer falls asleep
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Brave Buffalo’s first dream
+  summary: At age 10, Brave Buffalo dreams that he is in the mountains, falls asleep
+    in the shade of a tree, and a buffalo appears to him. The passage says this first
+    dream is the source of his name.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dream encounter with animal being
+  taxonomy_refs: []
+  basis: The central narrated event is a dream in which a buffalo appears to the dreamer.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage excerpt gives only the beginning of the dream narrative and
+    does not explain the buffalo’s actions or meaning.
+- id: motif:2
+  label: name received from a first dream
+  taxonomy_refs: []
+  basis: The introductory sentence states that Brave Buffalo received his name from
+    his first dream.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not provide the full process by which the name was conferred.
+- id: motif:3
+  label: dream in mountain and tree setting
+  taxonomy_refs: []
+  basis: The dream setting includes mountains and sleep in the shade of a tree.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage names the setting but does not explicitly assign symbolic
+    meaning to the mountain or tree.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 12949-12950
+  quote_or_summary: 'Section heading: dreams concerning the buffalo.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:2
+  type: summary
+  locator: lines 12951-12953
+  quote_or_summary: Brave Buffalo gives a narrative about his first dream, from which
+    he received his name.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:3
+  type: quote
+  locator: lines 12955-12956
+  quote_or_summary: "“When I was 10 years old, I dreamed a dream, and in my dream
+    a buffalo appeared to me.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 12956-12957
+  quote_or_summary: The dreamer says he was in the mountains and fell asleep in the
+    shade of a tree.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif interpretation is limited
+    because the excerpt contains only the opening of the dream narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Footnote text about blue clay and colors was not used because it is not part of the dream narrative in this passage.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-teton-sioux-music-densmore-archive__l12949-l12959
+  passage_sha256=dfc87da54938a520a93b256578d7780aef11a81c1e555fe6ebb964eb880f8677
+

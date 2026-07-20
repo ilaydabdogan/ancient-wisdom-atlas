@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l85276-l85297
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: HYUN 135.) THE RIGVEDA. 581 / HYMN CLR. / HYMN 180.) THE RIQGVEDA. 605 /
+    PANCIKA I; lines 85276-85297
+  start: '85276'
+  end: '85297'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A ritual performer recites a sequence of verses. Each recitation is explained
+    as ordering and approaching a named deity, cosmic power, or cosmic domain: Agni,
+    the moon, Vayu, sky and earth, the year as a complex, and lightning. The passage
+    concludes that one who knows this becomes composed of the deities.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a repeated ritual sequence in which the performer recites
+    a verse, places a named entity in order, and goes to that entity.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:2
+  text: Agni is associated with protection and proper foods.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The holy power is identified with the moon.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Vayu is identified as the holder, and the atmosphere held by Vayu is said
+    not to fall in.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The two worlds are identified as sky and earth.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The year as a complex is said to possess a thousand, offspring, and prosperity.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The performer sacrifices with an offering verse identified as rain and lightning;
+    lightning is said to give rain and proper food.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: One who knows this becomes composed of the deities.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: ritual performer
+  description: The unnamed figure who recites, sacrifices, places entities in order,
+    goes to them, and is described as the one who knows this.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Agni
+  description: Named entity placed in order and approached; associated with protection
+    and proper foods.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: moon
+  description: The moon is identified with the holy power and is placed in order and
+    approached.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Vayu
+  description: Named as the holder; the atmosphere held by Vayu is said not to fall
+    in; Vayu is placed in order and approached.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: sky and earth
+  description: Identified as the two worlds; placed in order and approached.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: year as a complex
+  description: Said to possess a thousand, offspring, and prosperity; placed in order
+    and approached.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: lightning
+  description: Identified with the offering verse together with rain; said to give
+    rain and proper food; placed in order and approached.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: deities
+  description: Collective beings of whom the knower becomes composed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: reciter and sacrificer
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly says he recites and later says he sacrifices with
+    an offering verse.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: role:2
+  label: entity placed in order and approached
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Each of these is named in a formula stating that the performer places it
+    in order and goes to it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: provider of protection, rain, or proper food
+  assigned_to:
+  - fig:2
+  - fig:7
+  basis: Agni accords protection as proper foods, and lightning gives rain and proper
+    food.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:4
+  label: holder of atmosphere
+  assigned_to:
+  - fig:4
+  basis: Vayu is called the holder, and the atmosphere held by Vayu is said not to
+    fall in.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: knower of the ritual explanation
+  assigned_to:
+  - fig:1
+  basis: The concluding statement describes the one who knows this as becoming composed
+    of the deities.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: divine components of the knower
+  assigned_to:
+  - fig:8
+  basis: The deities are the beings of whom the knower becomes composed.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: moon as holy power
+  literal_form: moon
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Vayu-held atmosphere
+  literal_form: atmosphere held by Vayu
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: two worlds
+  literal_form: sky and earth
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: year as complex abundance
+  literal_form: year as a complex possessing a thousand, offspring, and prosperity
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: rain and lightning offering verse
+  literal_form: offering verse identified as rain and lightning
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: proper food
+  literal_form: proper foods / proper food
+  associated_figures:
+  - fig:2
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: ritual recitations order cosmic powers
+  summary: The performer recites verses and, through each recitation, places Agni,
+    the moon, Vayu, sky and earth, and the year as a complex in order before going
+    to them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: offering verse as rain and lightning
+  summary: The performer sacrifices with an offering verse, which is identified as
+    rain and lightning; lightning gives rain and proper food, is placed in order,
+    and is approached.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: knower becomes composed of deities
+  summary: The passage concludes that one who knows this becomes composed of the deities.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ritual ordering of deities and cosmic domains
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage repeatedly links recitation or sacrifice with placing named deities
+    and cosmic domains in order and approaching them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives a ritual explanation but does not narrate a mythic plot.
+- id: motif:2
+  label: ritual knowledge transforms the knower
+  taxonomy_refs:
+  - wisdom
+  basis: The final statement says that the one who knows this becomes composed of
+    the deities.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The form of transformation is stated briefly and is not elaborated beyond
+    divine composition.
+- id: motif:3
+  label: offering linked to rain, lightning, and food
+  taxonomy_refs:
+  - sacrifice
+  basis: The offering verse is identified as rain and lightning, and lightning is
+    said to give rain and proper food.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states the association directly but does not develop a broader
+    seasonal or agricultural cycle.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 85276-85279
+  quote_or_summary: The performer recites a protection formula; Agni accords protection
+    as proper foods; he places Agni in order and goes to Agni.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 85279-85281
+  quote_or_summary: He recites an appeal to Brahman; the holy power is the moon; he
+    places the moon in order and goes to the moon.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 85281-85284
+  quote_or_summary: The holder is Vayu; the atmosphere held by Vayu does not fall
+    in; he places Vayu in order and goes to Vayu.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 85284-85287
+  quote_or_summary: The two worlds are identified as sky and earth; he places sky
+    and earth in order and goes to them.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 85287-85291
+  quote_or_summary: The concluding verse asks for wealth with a thousand, offspring,
+    and prosperity; the year as a complex possesses these; he places the year as a
+    complex in order and goes to it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 85291-85294
+  quote_or_summary: He sacrifices with an offering verse; the offering verse is rain
+    and lightning; lightning gives rain and proper food; he places lightning in order
+    and goes to lightning.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 85294-85295
+  quote_or_summary: "“He who knows this becomes thus composed, composed of the deities.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal entities and ritual sequence are explicit. Motif labels are cautious
+    because the passage is ritual-explanatory rather than narrative. No comparison
+    claims were extracted because the passage itself gives no explicit external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Footnote references to RV iii.18 are present in the supplied passage but are not used for additional interpretation.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l85276-l85297
+  passage_sha256=74a25a8756e05b6acd5eee6c8b7a2db5ecb1701057fced93cf479c4da60b38d7
+

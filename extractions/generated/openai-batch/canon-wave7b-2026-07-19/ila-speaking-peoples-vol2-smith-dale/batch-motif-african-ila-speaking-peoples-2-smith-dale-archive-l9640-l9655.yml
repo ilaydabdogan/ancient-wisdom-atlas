@@ -1,0 +1,252 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l9640-l9655
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: 'A SHAM LION HUNT : RESCUING THE LION''S VICTIM. / A SHAM LION HUNT : SAVED
+    ! / CH. XXV / THE BA-ILA AT PLAY; lines 9640-9655'
+  start: '9640'
+  end: '9655'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: In a chapter section on Ba-Ila play, the passage describes a scene where
+    mounted white men with large hats are included and boys conduct fierce mimic battles
+    with grass shafts as spears. The boys charge, retreat, and celebrate striking
+    the enemy. The games are usually good-tempered, but sometimes a sham fight becomes
+    a real one when sticks replace grass and heads are broken.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is situated in a chapter section titled “THE BA-ILA AT PLAY.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: White men mounted on horses and wearing monstrous hats are introduced into
+    the scene.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Boys engage in fierce mimic battles using long shafts of grass as spears.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The boys charge and retreat repeatedly.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The boys shout with glee when they succeed in transfixing the enemy.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The games are generally carried out with good temper.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Sometimes a sham fight becomes a real fight when sticks are grasped instead
+    of grass.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Broken heads can result from the fights when sticks replace grass.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: boys
+  description: Boys who conduct mimic battles, charge and retreat, and sometimes shift
+    from grass shafts to sticks.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: white men mounted on horses
+  description: White men on horses wearing monstrous hats, introduced into the scene.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: enemy
+  description: The target whom the boys try to transfix during the mimic battle.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: mimic combatants
+  assigned_to:
+  - fig:1
+  basis: The boys are described as having fierce mimic battles with grass shafts as
+    spears.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: players in sham fight that may become real
+  assigned_to:
+  - fig:1
+  basis: The passage says the games are usually good-tempered but can become real
+    fights when sticks replace grass.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: mounted figures in play scene
+  assigned_to:
+  - fig:2
+  basis: The passage states that mounted white men wearing monstrous hats are introduced
+    into the scene.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: opponent or target in mimic battle
+  assigned_to:
+  - fig:3
+  basis: The boys shout when they succeed in transfixing the enemy.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: grass shafts as spears
+  literal_form: long shafts of grass used as spears in mimic battle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: sticks replacing grass
+  literal_form: sticks grasped instead of grass when a sham fight becomes real
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: horses and monstrous hats
+  literal_form: horses and monstrous hats worn by mounted white men in the scene
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ba-Ila play scene with mimic battle
+  summary: In a play setting, mounted white men with large hats are introduced, and
+    boys conduct mock combat with grass spears, charging, retreating, and celebrating
+    successful strikes against an enemy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Sham fight turning real
+  summary: The passage notes that such games are generally good-tempered, but a mock
+    fight can become a real fight when boys use sticks instead of grass, resulting
+    in broken heads.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mimic battle as children’s play
+  taxonomy_refs: []
+  basis: The passage explicitly describes boys conducting fierce mimic battles with
+    grass shafts as spears, including charging, retreating, and striking an enemy.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic description of play, not a narrated myth episode;
+    no supplied taxonomy family directly matches it.
+- id: motif:2
+  label: sham fight becoming real fight
+  taxonomy_refs: []
+  basis: The passage states that good-tempered games can turn into real fights when
+    sticks are used instead of grass, producing injuries.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents this as an observed pattern in play rather than as
+    a symbolic mythic motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: 9640-9642
+  quote_or_summary: 'Chapter section: “CH. XXV / THE BA-ILA AT PLAY.”'
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: 9643-9645
+  quote_or_summary: White men on horses, wearing monstrous hats, are introduced into
+    the scene.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9645-9648
+  quote_or_summary: Boys have fierce mimic battles, using long grass shafts as spears,
+    and they charge and retreat repeatedly.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 9648-9649
+  quote_or_summary: The boys shout with glee when they transfix the enemy.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 9649-9654
+  quote_or_summary: Such games are usually good-tempered, but a sham fight may become
+    real when sticks are used instead of grass, resulting in broken heads.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for literal extraction of play, mock combat, and escalation
+    to real fighting. Motif labeling is limited because the passage is ethnographic
+    and no direct supplied taxonomy category applies. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references assigned; available symbol taxonomy items do not match the passage’s literal objects.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l9640-l9655
+  passage_sha256=622c1c13409470deb1c6a357c78960d71cfda5bb74cf27019a366c83bcdeb9f4
+

@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.native-american-pima-indians-russell-archive-l4464-l4595
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+passage_locator:
+  label: PRODUCTS / AGRICULTURE / MEASURES / BARTER; lines 4464-4595
+  start: '4464'
+  end: '4595'
+  translation: The Pima Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage inventories a wooden lance used in sham battles, then describes
+    Pima agricultural implements and household utensils, including digging sticks,
+    shovels, hoes, dibbles, wooden plows, yokes, cattle as draft animals, and mortars.
+    It notes materials, functions, postures required for use, trade-derived or European-introduced
+    implements, and comparisons to Hohokam canal tools and southern European horn
+    yokes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wooden lance made from a giant cactus rib was carried in sham battles near
+    the Double buttes and was colored to represent an iron head and a light-red handle.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The digging stick is identified as the earliest agricultural implement and
+    was used for planting crops, clearing bushes, digging irrigation ditches, and
+    defense in surprise situations.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Wooden shovels were used to throw out earth loosened by the digging stick
+    during irrigation canal construction and were made of cottonwood or mesquite in
+    one piece with a short handle and curved blade.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A short ironwood implement combining spade and hoe functions was used to loosen
+    soil around plants and remove weeds, requiring kneeling or sitting use.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A dibble with a steel blade superseded the earlier hoe-like implement and
+    was obtained from Mexicans who came to trade with the Pimas.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The wooden plow is described as a comparatively modern European-derived introduction
+    that influenced Pima wheat production between about 1850 and 1880 before steel
+    plows arrived.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: With cattle, the Pimas obtained their first draft animal, and cattle were
+    fitted with cottonwood or willow yokes attached to the horns.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: 'Mortars are described in two log forms: one with a hole in the end of an
+    upright log and another horizontal form with a hole in the side.'
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Pimas
+  description: The people described as using, obtaining, or being influenced by the
+    implements and animals in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Mexicans trading with the Pimas
+  description: A group said to have frequently come to trade with the Pimas and from
+    whom the dibble was obtained.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Americans
+  description: A group whose influx created a demand for wheat that the Pimas partly
+    supplied with the wooden plow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Cattle
+  description: Animals introduced as the Pimas' first draft animal and used principally
+    in plowing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: implement users and adopters
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Pimas using older implements, obtaining the dibble
+    through trade, adopting plows, and using cattle and yokes.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: trade source for implement
+  assigned_to:
+  - fig:2
+  basis: The dibble is said to have been obtained from Mexicans who frequently came
+    to trade with the Pimas.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: market-demand source
+  assigned_to:
+  - fig:3
+  basis: The influx of Americans is said to have created a demand for wheat supplied
+    in part by the Pimas.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: draft animals
+  assigned_to:
+  - fig:4
+  basis: Cattle are described as the Pimas' first draft animal and as used principally
+    in plowing.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: wooden lance
+  literal_form: wooden lance made from giant cactus rib, with colored head and handle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: digging stick
+  literal_form: ironwood or Zizyphus digging stick used for planting, clearing, ditch
+    digging, and defense
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wooden shovel
+  literal_form: one-piece cottonwood or mesquite shovel with short handle and naturally
+    curved blade
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: hoe or spade-hoe implement
+  literal_form: short, thin, heavy ironwood implement sharpened along the convex curve
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dibble with steel blade
+  literal_form: trade-obtained implement with steel blade, straight on one side and
+    rounded on the other
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: wooden plow
+  literal_form: mesquite or ironwood plow with cottonwood tongue, handle, wedges,
+    and iron or steel cutting cover
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: horn yoke
+  literal_form: cottonwood or willow yoke attached to cattle horns
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: log mortar
+  literal_form: upright or horizontal log mortar with a hole sunk in the end or side
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Sham-battle lance near Double buttes
+  summary: A wooden lance made from cactus rib is described as an object carried in
+    sham battles near the Double buttes.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Early hand agriculture and irrigation work
+  summary: The digging stick, shovel, and hoe-like implement are presented as tools
+    for planting, clearing, irrigation ditch or canal construction, loosening soil,
+    and weeding.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Trade and implement replacement
+  summary: A steel-bladed dibble obtained from Mexican traders is said to have superseded
+    the earlier hoe-like implement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Plow, cattle, and wheat production
+  summary: The wooden plow, cattle, and yoke are described in relation to draft agriculture,
+    American demand for wheat, and subsequent replacement by steel plows.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Household mortar forms
+  summary: Two forms of log mortar are described as household utensils, one upright
+    and one horizontal.
+  figure_refs: []
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: agricultural implement sequence
+  taxonomy_refs: []
+  basis: The passage presents a sequence from digging stick, shovel, and hoe-like
+    implement to a trade-derived steel-bladed dibble and later wooden and steel plows.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a descriptive ethnographic and technological pattern, not a mythological
+    motif in the supplied taxonomy.
+- id: motif:2
+  label: technology adoption through trade and contact
+  taxonomy_refs: []
+  basis: The passage explicitly states that the dibble was obtained from Mexican traders
+    and that the wooden plow was a European-derived introduction associated with American
+    wheat demand.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supports contact and adoption, but does not frame the exchange
+    as sacred or mythic.
+- id: motif:3
+  label: irrigation agriculture tool complex
+  taxonomy_refs: []
+  basis: Digging sticks and wooden shovels are described as tools for constructing
+    irrigation ditches or canals, while later implements are tied to field cultivation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: This is a material-culture pattern; no symbolic or mythic interpretation
+    is stated in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously links Pima wooden shovels to the form of shovels used
+    by the Hohokam in constructing great irrigation canals.
+  claim_level: same_function
+  target: Hohokam canal-building shovel tradition
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself notes uncertainty about direct descent from the
+    Hohokam; the comparison is presented as probable, not demonstrated.
+- id: claim:2
+  claim: The passage states that the dibble was obtained through Mexican trade with
+    the Pimas.
+  claim_level: historical_contact
+  target: Mexican trade-derived agricultural implement
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not provide details about the specific Mexican communities,
+    dates, or intermediate transmission.
+- id: claim:3
+  claim: The passage describes the wooden plow as a survival of European culture that
+    influenced Pima agriculture for one generation.
+  claim_level: historical_contact
+  target: European-derived plow agriculture
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage attributes the plow to European culture but does not fully
+    trace the route of transmission.
+- id: claim:4
+  claim: The passage compares Pima horn-yoke attachment to a practice continuing in
+    southern Europe.
+  claim_level: visual_similarity
+  target: southern European horn-yoke practice
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports a formal or functional comparison, but it does
+    not establish direct historical contact for this specific yoke form.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4464-4470
+  quote_or_summary: The collection includes a wooden lance made from a giant cactus
+    rib, carried in sham battles near the Double buttes, with colored sections representing
+    an iron head and handle.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 4471-4485
+  quote_or_summary: The digging stick is called the earliest agricultural implement
+    and is described as useful for planting, clearing bushes, digging irrigation ditches,
+    and emergency defense.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 4486-4510
+  quote_or_summary: Wooden shovels of cottonwood or mesquite were used in canal construction,
+    and a note says it is probable the Pimas used the same form of shovel as the Hohokam,
+    though direct descent is uncertain.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 4511-4523
+  quote_or_summary: An early Pima ironwood implement combined spade and hoe functions
+    for loosening soil and cutting weeds; its short curved form required kneeling
+    or sitting use.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 4524-4536
+  quote_or_summary: The earlier hoe-like implement was superseded by a steel-bladed
+    dibble obtained from Mexicans who frequently came to trade with the Pimas.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:6
+  type: summary
+  locator: lines 4537-4573
+  quote_or_summary: The wooden plow is described as a comparatively modern survival
+    of European culture, important from about 1850 to 1880 when American demand for
+    wheat arose, and later replaced by steel plows.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:7
+  type: summary
+  locator: lines 4574-4585
+  quote_or_summary: With cattle, the Pimas obtained their first draft animal; yokes
+    of cottonwood or willow were attached to the horns, compared to southern Europe,
+    and indicate light burdens.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+- id: ev:8
+  type: summary
+  locator: lines 4586-4595
+  quote_or_summary: 'The mortar is described as an important household utensil with
+    two forms: an upright log with the hole in the end and a horizontal log with the
+    hole in the side.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md
+  rights_note: Public domain; full text allowed per supplied metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is descriptive. Motif candidates
+    are treated cautiously because the passage is ethnographic material culture rather
+    than mythic narrative. Comparison claims are limited to comparisons explicitly
+    made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family was assigned; the passage does not present a sacred or mythological exchange motif despite describing trade and technological contact.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-pima-indians-russell-archive__l4464-l4595
+  passage_sha256=5c6139fd0af03270f625564631f6828c815d53352edb6e3238d520b38dca3e42
+

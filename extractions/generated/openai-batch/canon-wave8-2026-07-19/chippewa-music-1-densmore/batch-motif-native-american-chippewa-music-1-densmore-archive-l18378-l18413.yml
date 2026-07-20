@@ -1,0 +1,440 @@
+---
+record_id: batch.motif.native-american-chippewa-music-1-densmore-archive-l18378-l18413
+source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+passage_locator:
+  label: HIDING  THE    BULLETS / AFTER   THE   BULLETS  ARE    HIDDEN / MOCCASIN     GAME    AT    WHITE     EARTH,     MINN.
+    / MOCCASIN     GAME    AT    WHITE    EARTH,     MINN.; lines 18378-18413
+  start: '18378'
+  end: '18413'
+  translation: Chippewa Music
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes rules for the moccasin game at White Earth, Minnesota:
+    one side hides bullets, the other guesses the location of a marked bullet, score
+    is counted with sticks, special endgame rules apply, and stakes are settled after
+    an agreed series of games.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One side continues hiding bullets until the guessing side guesses correctly,
+    and then the score is counted.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The guesser with the striking-stick holds it in his right hand and holds counting-sticks
+    in his left hand; the counting-sticks are initially twenty in number.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Each side receives counting-sticks according to the score to which it is entitled.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: When three or fewer counting-sticks remain, the man holding the bullets does
+    not guess, and the game depends on the player with the striking-stick.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: If the marked bullet is under an end moccasin and the player with the striking-stick
+    guesses correctly, the game is his; if it is under a middle moccasin and he fails
+    to locate it, his opponents win.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The score depends on whether the marked bullet is under an end or middle moccasin,
+    the number of guesses required, and whether the guesser and his partner agree
+    or disagree in their choice.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: If the bullet is under a middle moccasin and both guessers fail to locate
+    it, the hiding side adds eight counting-sticks to its score; if only one guesser
+    fails, the score is six.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: At the conclusion of each game, a stick about ten inches long is placed into
+    the ground at the edge of the blanket.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Stakes are settled after a number of consecutive games agreed on at the beginning.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The term “double crack” is said to be mentioned in the words of song No. 175,
+    Bulletin 45.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: side hiding the bullets
+  description: A competing side that hides the bullets and can gain counting-sticks
+    when the marked bullet is not located.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: guessing side
+  description: The opposing side that attempts to guess where the marked bullet is
+    hidden.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: player with the striking-stick
+  description: A guesser who holds the striking-stick in his right hand and counting-sticks
+    in his left; in the endgame, the game depends on this player.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: guesser’s partner
+  description: The partner whose agreement or disagreement with the guesser’s choice
+    affects the score.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: man holding the bullets
+  description: A participant who holds the bullets and does not guess when three or
+    fewer counting-sticks remain.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: opponents
+  description: The opponents of the player with the striking-stick can win if the
+    marked bullet is under a middle moccasin and he fails to locate it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: bullet hider or holder
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage describes one side hiding bullets and a man holding the bullets
+    in the endgame.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: guesser
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The guessing side and its players attempt to locate the marked bullet.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: striking-stick holder and counter holder
+  assigned_to:
+  - fig:3
+  basis: The guesser holds the striking-stick in his right hand and the counting-sticks
+    in his left hand.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: competing side
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:6
+  basis: The passage describes two sides, with winning or scoring depending on hiding
+    and guessing outcomes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: bullets
+  literal_form: Bullets used as hidden game objects, including a marked bullet whose
+    location determines scoring and victory conditions.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: marked bullet
+  literal_form: The marked bullet hidden under an end or middle moccasin and sought
+    by the guessers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: moccasins
+  literal_form: A row of moccasins under which the marked bullet may be hidden, with
+    end and middle positions affecting outcome and score.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: striking-stick
+  literal_form: A stick held in the right hand by the principal guesser; the final
+    phase depends on the player holding it.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:5
+  label: counting-sticks
+  literal_form: Twenty sticks initially held by the guesser and distributed to sides
+    according to score.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:6
+  label: blanket
+  literal_form: A blanket whose edge marks the place where a concluding stick is inserted
+    into the ground.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: concluding marker stick
+  literal_form: A stick about ten inches long stuck into the ground at the edge of
+    the blanket after each game.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: stakes
+  literal_form: Stakes settled after an agreed number of consecutive games.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Hiding and guessing phase
+  summary: One side hides bullets until the guessing side guesses correctly; the guesser
+    holds the striking-stick and counting-sticks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Endgame with few counting-sticks
+  summary: When three or fewer counting-sticks remain, the man holding the bullets
+    stops guessing, and the outcome depends on the player with the striking-stick
+    and the location of the marked bullet.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Scoring by position and guesses
+  summary: The score is calculated from the marked bullet’s position, the number of
+    guesses, and the agreement or disagreement of the guesser and partner; example
+    scores are eight or six counting-sticks for a middle moccasin outcome.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Conclusion and settlement of stakes
+  summary: After each game, a ten-inch stick is stuck into the ground at the edge
+    of the blanket; stakes are settled after an agreed number of consecutive games.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: hidden marked object guessing contest
+  taxonomy_refs: []
+  basis: The passage centers on a contest in which one side hides bullets under moccasins
+    and the other side attempts to locate a marked bullet.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic game pattern rather than an explicitly mythic
+    narrative motif in the passage.
+- id: motif:2
+  label: positional concealment with differential scoring
+  taxonomy_refs: []
+  basis: The outcome and score depend on whether the hidden marked bullet is under
+    an end or middle moccasin and on how the guessers perform.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No symbolic meaning for end or middle positions is stated in the passage.
+- id: motif:3
+  label: game counters as score transfer
+  taxonomy_refs: []
+  basis: Counting-sticks begin at twenty, are distributed according to score, and
+    specific outcomes add sticks to a side’s score.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage describes a scoring mechanism; broader ritual or mythic significance
+    is not stated.
+- id: motif:4
+  label: marker stick recording completed games
+  taxonomy_refs: []
+  basis: A ten-inch stick is stuck into the ground at the edge of the blanket at the
+    conclusion of each game.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly state whether the stick records game count,
+    marks victory, or serves another function.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the game term “double crack” to wording in song
+    No. 175, Bulletin 45.
+  claim_level: linguistic_similarity
+  target: song No. 175, Bulletin 45
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The song text is not included in the supplied passage, so no broader
+    motif, function, or historical relationship can be assessed.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18382-18388
+  quote_or_summary: One side hides bullets until the guessing side guesses correctly;
+    the guesser holds a striking-stick in the right hand and initially twenty counting-sticks
+    in the left, which are apportioned by score.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: summary
+  locator: lines 18389-18395
+  quote_or_summary: When three or fewer counting-sticks remain, the man holding the
+    bullets does not guess; victory depends on the player with the striking-stick
+    and on whether the marked bullet is under an end or middle moccasin.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary only.
+- id: ev:3
+  type: summary
+  locator: lines 18396-18406
+  quote_or_summary: The score is complicated by the marked bullet’s position, the
+    number of guesses, and whether the guesser and partner agree; examples give eight
+    counting-sticks if both fail to find a middle bullet and six if only one fails.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: lines 18407-18411
+  quote_or_summary: At each game’s conclusion, a stick about ten inches long is stuck
+    into the ground at the blanket’s edge; stakes are settled after an agreed number
+    of consecutive games.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 18380-18383
+  quote_or_summary: The passage says the “double crack” is mentioned in the words
+    of song No. 175, Bulletin 45.
+  source_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md
+  rights_note: Public domain source; short phrase summarized from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for game rules and objects. Motif labels are
+    descriptive and not tied to supplied taxonomy IDs because the passage does not
+    state mythic or sacred meanings. The comparison claim is limited to an explicit
+    cross-reference to a song title/number.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol ref was applied; the passage describes a moccasin game procedure rather than a myth narrative.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-chippewa-music-1-densmore-archive__l18378-l18413
+  passage_sha256=fcb8c0d8d1c5e2202f38f5ffe39dd5988dfb0c01963c731e3e261267dfec8e03
+

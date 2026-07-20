@@ -1,0 +1,444 @@
+---
+record_id: batch.motif.germanic-teutonic-mythology-v4-grimm-stallybrass-archive-l18661-l18705
+source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+passage_locator:
+  label: SICKNESSES.  1G53 / SICKNESSES. / SICKNESSES.  1655 / SICKNESSES.; lines
+    18661-18705
+  start: '18661'
+  end: '18705'
+  translation: Teutonic Mythology, Volume 4
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: Elves suck at children's fingers and toes by night.
+  summary: The passage is a comparative lexical note on sicknesses, especially gout,
+    tumours, erysipelas or ignis sacer, cramps, and related ailments. It records disease
+    names involving worms, unnamed creatures, fire, girdles, projectiles, and a brief
+    note about elves acting on children at night.
+  language: English with cited Germanic and other lexical forms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage lists many names and cognate forms for gout or podagra, including
+    gichter, jicht-like forms, podagra, and Anglo-Saxon terms glossed as podagra.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A throat ailment identified as hul or angina uvularis is said to be allayed
+    by a spoken spell involving the inability to gulp down a pot-hook.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A burning tumour at the finger-nail is described as being called the worm,
+    the runabout worm, the unnamed, and the evil thing; the passage says the creature's
+    name was avoided.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the flying gout travels.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Ignis sacer or erysipelas is listed under names containing fire, including
+    wild fire, Antonien or Antoni fire, Tony's fire, and St. A.'s fire.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage notes that the Saint and his monks received such patients into
+    their hospital.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A disease called sacred fire around a man's waist is called zoster or girdle
+    and is said to kill if it fully encircles him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Typhus carbuncularis acutissimus is said to be called landslip and devil's
+    shot.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The name gichter is also applied to cramps and spasms; a finger-nail tumour
+    is again associated with unnamed-worm terminology and evil-beast terminology.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Elves are said to suck at children's fingers and toes by night.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Saint / St. Anthony
+  description: Named in fire-disease terms and mentioned with monks as receiving patients
+    into a hospital.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: the Saint's monks
+  description: Monks associated with the Saint who received such patients into their
+    hospital.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: patients
+  description: People with the fire-associated ailment who were received into the
+    hospital.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: elves
+  description: Beings said to suck at children's fingers and toes by night.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: children
+  description: Children whose fingers and toes are sucked by elves at night.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: a man with zoster about the waist
+  description: A man endangered by a sacred-fire ailment that kills if it girdles
+    him.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: disease-name saint
+  assigned_to:
+  - fig:1
+  basis: Fire-associated disease names include Antonien, Antoni, Tony, and St. A.
+    forms.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: hospital receiver
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the Saint and his monks received such patients into their
+    hospital.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: hospital patient
+  assigned_to:
+  - fig:3
+  basis: Patients with the ailment are described as received into the hospital.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: nocturnal finger-and-toe sucker
+  assigned_to:
+  - fig:4
+  basis: Elves are said to suck at children's fingers and toes by night.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: affected child
+  assigned_to:
+  - fig:5
+  basis: Children are the ones whose fingers and toes are acted on by elves.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: person endangered by girdling disease
+  assigned_to:
+  - fig:6
+  basis: A sacred-fire disease about a man's waist kills if it begirdles him.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire as disease image
+  literal_form: wild fire; Antonien fire; Antoni fire; Tony's fire; St. A.'s fire;
+    sacred fire; white fire
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: worm or unnamed creature as disease image
+  literal_form: the worm; runabout worm; unnamed worm; manewurm; har-wurm; evil thing;
+    evil beast
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: girdle around the waist
+  literal_form: zoster or girdle encircling a man's waist
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: disease as impact or catastrophe
+  literal_form: landslip; devil's shot
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: pot-hook in healing spell
+  literal_form: pot-hook that cannot be gulped down
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Catalogue of sickness names and charms
+  summary: The passage inventories terms for gout, podagra, throat ailment, fingernail
+    tumours, ignis sacer, typhus, cramps, and spasms, including a cited throat spell
+    and references to other spells.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: St. Anthony's fire and hospital reception
+  summary: Fire-associated disease names are linked to the Saint, and the Saint with
+    his monks is said to have received patients into a hospital.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Girdling sacred fire
+  summary: A kind of sacred fire around a man's waist is called zoster or girdle and
+    is said to kill if it encircles him.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Elves and children at night
+  summary: Elves are said to suck at children's fingers and toes by night.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ailment as worm or unnamed creature
+  taxonomy_refs: []
+  basis: Finger-nail tumours and forms of gout are named as worms, runabout worms,
+    unnamed worms, evil things, and evil beasts; the passage notes reluctance to utter
+    the creature's name.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is lexical and medical evidence, not a full narrative myth.
+- id: motif:2
+  label: disease as fire
+  taxonomy_refs: []
+  basis: Ignis sacer, erysipelas, and related ailments are repeatedly named with fire
+    terms, including wild fire, St. Anthony's fire, sacred fire, and possible white
+    fire.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage records disease terminology; mythic or ritual significance
+    is indirect.
+- id: motif:3
+  label: encircling girdle disease kills
+  taxonomy_refs: []
+  basis: A kind of sacred fire about a man's waist is called zoster or girdle and
+    is said to kill if it begirdles him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The evidence is a quoted learned medical notice from Pliny within the
+    passage, not a Germanic narrative episode.
+- id: motif:4
+  label: nocturnal elves harming children
+  taxonomy_refs: []
+  basis: The passage states that elves suck at children's fingers and toes by night.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The note is brief and does not explicitly identify the resulting illness
+    in this sentence.
+- id: motif:5
+  label: disease as hostile projectile or disaster
+  taxonomy_refs: []
+  basis: Typhus carbuncularis acutissimus is named landslip and devil's shot.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This motif candidate rests on disease names only; the passage gives no
+    narrative of a projectile being shot.
+- id: motif:6
+  label: illness countered by spoken charms
+  taxonomy_refs: []
+  basis: A spell is quoted for the hul or angina uvularis, and spells are referenced
+    for ringwood or related finger-nail ailments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: Only one spell is quoted in the passage; other spells are mentioned by
+    citation without text.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious same-function comparison among cited traditions
+    in which nail tumours or gout-like ailments are named as worms, unnamed creatures,
+    or evil beasts.
+  claim_level: same_function
+  target: worm and unnamed-creature disease terminology in the cited English, Scots,
+    Low German/Plattdeutsch, and Anglo-Saxon materials
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is lexical; the passage does not demonstrate historical
+    contact, common inheritance, or a shared narrative.
+- id: claim:2
+  claim: The passage supports a cautious same-function comparison of fire-named diseases
+    across the cited materials.
+  claim_level: same_function
+  target: fire-named ignis sacer, erysipelas, St. Anthony's fire, and related disease
+    labels in the cited Germanic and learned-medical materials
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence consists of disease names and brief explanations, not
+    a developed mythic episode.
+- id: claim:3
+  claim: The passage supports a limited comparison of illnesses addressed by verbal
+    spells or charms.
+  claim_level: same_function
+  target: the hul spell and the referenced Scots ringwood spells
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage quotes only the hul spell; the ringwood spells are merely
+    cited as existing elsewhere.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18661-18675
+  quote_or_summary: 'The opening portion lists terms for gout or podagra and says
+    the hul, angina uvularis, is allayed by the spell: ''Hode-joduth! I cannot gulp
+    the pot-hook down.'''
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation and summary from the provided
+    passage.
+- id: ev:2
+  type: summary
+  locator: 18676-18683
+  quote_or_summary: An omitted paragraph says a burning tumour at the finger-nail
+    is called 'the worm, the runabout worm, the unnamed ... the evil thing'; it also
+    notes references to spells for ringwood and says the flying gout travels.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation and summary from the provided
+    passage.
+- id: ev:3
+  type: summary
+  locator: 18683-18691
+  quote_or_summary: Ignis sacer or erysipelas is called wild fire, Antonien/Antoni/Tony's
+    fire, and St. A.'s fire; the passage asks whether this is because the Saint and
+    his monks received such patients into their hospital.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summary from the provided passage.
+- id: ev:4
+  type: summary
+  locator: 18692-18696
+  quote_or_summary: Typhus carbuncularis acutissimus is called landslip and devil's
+    shot; one kind of sacred fire about a man's waist is called zoster or girdle and
+    kills if it encircles him; gout names include manewurm and har-wurm.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summary from the provided passage.
+- id: ev:5
+  type: summary
+  locator: 18697-18703
+  quote_or_summary: The name gichter is also given to cramps and spasms. A tumour
+    at the finger-nail is associated with whitlow or white fire, unnamed worm, Anglo-Saxon
+    wyrm, unnamed ones, and evil beast terminology.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; summary from the provided passage.
+- id: ev:6
+  type: quote
+  locator: 18703-18705
+  quote_or_summary: Elves suck at children's fingers and toes by night.
+  source_text_path: texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md
+  rights_note: Public domain source; short quotation from the provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a dense comparative lexical note with OCR irregularities and
+    many abbreviated citations. Core motifs are clear where disease names or elf actions
+    are explicitly stated, but broader mythological interpretation remains limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Taxonomy refs are used only for the explicit symbol fire. Worm imagery is not mapped to serpent because the passage does not identify the worm as a serpent.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:germanic-teutonic-mythology-v4-grimm-stallybrass-archive__l18661-l18705
+  passage_sha256=92cd6f6e5695ac236d3e527ad8902d778528af54a83bc74fa3db8e366086b5f5
+

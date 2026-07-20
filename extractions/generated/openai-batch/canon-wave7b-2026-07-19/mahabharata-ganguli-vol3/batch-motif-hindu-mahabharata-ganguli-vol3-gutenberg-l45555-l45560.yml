@@ -1,0 +1,211 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l45555-l45560
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXII / SECTION CCXIII / SECTION CCXIV / SECTION CCXV; lines 45555-45560
+  start: '45555'
+  end: '45560'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: "“transcending the bonds of the body and the senses like a traveller crossing
+    a path full of obstacles”"
+  summary: The passage describes a person who transcends bodily and sensory bonds,
+    crosses faults and obstacles by comparison to a traveler on a difficult path,
+    and thereby tastes the nectar of Emancipation. The next section heading follows.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The subject is described as transcending the bonds of the body and the senses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage compares the subject to a traveler crossing a path full of obstacles.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The subject is said to transgress all faults that he sees.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The subject succeeds in tasting the nectar of Emancipation.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A new section heading, SECTION CCXV, follows the quoted sentence.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed subject
+  description: An unnamed male subject described as transcending bodily and sensory
+    bonds and tasting the nectar of Emancipation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: traveler
+  description: 'A comparison figure: a traveler crossing a path full of obstacles.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: liberation seeker
+  assigned_to:
+  - fig:1
+  basis: The subject transcends bonds, passes faults, and tastes the nectar of Emancipation.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: journey comparison figure
+  assigned_to:
+  - fig:2
+  basis: The traveler is introduced as a simile for crossing a path full of obstacles.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bonds of body and senses
+  literal_form: bonds associated with the body and the senses
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: obstacle-filled path
+  literal_form: a path full of obstacles
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: nectar of Emancipation
+  literal_form: nectar
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: transcending bonds and reaching emancipation
+  summary: An unnamed subject is described as going beyond the bonds of the body and
+    senses, passing faults like a traveler on an obstructed path, and tasting the
+    nectar of Emancipation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: spiritual liberation as difficult journey
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage frames emancipation through bodily transcendence and a travel
+    simile involving obstacles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is fragmentary and uses a simile rather than narrating a full
+    quest.
+- id: motif:2
+  label: release from bodily and sensory bonds
+  taxonomy_refs: []
+  basis: The subject transcends the bonds of the body and senses before tasting the
+    nectar of Emancipation.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: No explicit taxonomy reference in the supplied list directly matches this
+    liberation image.
+- id: motif:3
+  label: nectar as reward of emancipation
+  taxonomy_refs: []
+  basis: The passage states that the subject succeeds in tasting the nectar of Emancipation.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not elaborate the nectar image beyond this phrase.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 45555-45556
+  quote_or_summary: "“transcending the bonds of the body and the senses”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:2
+  type: quote
+  locator: lines 45555-45557
+  quote_or_summary: "“like a traveller crossing a path full of obstacles”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:3
+  type: quote
+  locator: lines 45557-45558
+  quote_or_summary: "“transgressing all faults he sees”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:4
+  type: quote
+  locator: lines 45558-45559
+  quote_or_summary: "“succeeds in tasting the nectar (of Emancipation)”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:5
+  type: quote
+  locator: line 45560
+  quote_or_summary: "“SECTION CCXV”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: 'The extraction is based on a very short passage fragment. Motif candidates
+    are limited to images explicitly present: bodily transcendence, obstructed journey
+    simile, and nectar of Emancipation. No comparison claims are made.'
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. No external context or taxonomy IDs beyond the provided motif-family list were added.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l45555-l45560
+  passage_sha256=f18ff57deb56640796b0f8e5267ec74c6605045191a3f533477b252769210431
+

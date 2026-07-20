@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.hermetic-corpus-hermeticum-mead-archive-l5591-l5620
+source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+passage_locator:
+  label: NO ONE OF EXISTING THINGS DOTH PERISH 127 / COMMENTAEY / COEPUS HEEMETICUM
+    IX. (X.) / ON THOUGHT AND SENSE; lines 5591-5620
+  start: '5591'
+  end: '5620'
+  translation: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens a Hermetic sermon on thought and sense. A first-person
+    teacher addresses Asclepius, frames the discourse as following the previous Perfect
+    Sermon, and distinguishes sense, thought, mind, God, divinity, and logos while
+    also asserting a unity of thought and sense in human beings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The heading identifies the discourse as Corpus Hermeticum IX (X), titled “On
+    Thought and Sense,” with the thesis that the Beautiful and Good are in God only
+    and nowhere else.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first-person speaker says he gave the Perfect Sermon yesterday to Asclepius
+    and will now proceed through the Sermon about Sense.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that sense and thought seem to differ, assigning sense
+    to matter and thought to substance.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker says that, in human beings, sense and thought seem to be at one
+    and not different.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'The passage contrasts human beings with other lives: in other lives sense
+    is at one with nature, while in human beings thought is at one.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:6
+  text: The passage states that mind differs from thought as God differs from divinity,
+    and that divinity comes to be by God while thought comes to be by mind.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note explains that “other lives” may mean animals, and another note observes
+    a play on the meanings of logos as reason, word, sermon, or sacred discourse.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person teacher
+  description: The speaker who says he gave the Perfect Sermon yesterday and will
+    now expound the Sermon about Sense.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Asclepius
+  description: The named addressee of the first-person teacher.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: God
+  description: Named as the sole locus of the Beautiful and Good and as that by which
+    divinity comes to be.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: teacher or expositor
+  assigned_to:
+  - fig:1
+  basis: The speaker frames the present passage as a sermon or teaching following
+    the Perfect Sermon.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: addressee
+  assigned_to:
+  - fig:2
+  basis: Asclepius is directly addressed in the opening sentence of the discourse.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine source and locus of the Good
+  assigned_to:
+  - fig:3
+  basis: The heading locates the Beautiful and Good only in God, and the exposition
+    says divinity comes to be by God.
+  evidence_refs:
+  - ev:1
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Transition from the Perfect Sermon to the Sermon about Sense
+  summary: The first-person teacher addresses Asclepius and presents the current discourse
+    as a sequel to the previous Perfect Sermon.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Exposition of thought, sense, mind, God, divinity, and logos
+  summary: The discourse distinguishes sense from thought by matter and substance,
+    then asserts their unity in human beings and explains mind, thought, God, divinity,
+    and logos through analogy and causal relation.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: instruction in thought and sense
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is framed as a sermon in which a teacher instructs Asclepius
+    on sense, thought, mind, divinity, and logos.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a philosophical teaching passage rather than a narrative myth
+    episode.
+- id: motif:2
+  label: apparent duality reconciled as unity
+  taxonomy_refs:
+  - duality
+  basis: The passage first distinguishes sense from thought and matter from substance,
+    then says sense and thought are at one and not different in human beings.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is metaphysical and conceptual; the duality motif is not personified
+    or narrated.
+- id: motif:3
+  label: Beautiful and Good located only in God
+  taxonomy_refs: []
+  basis: The heading states that the Beautiful and Good are in God only and nowhere
+    else.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: Within this excerpt, the thesis appears in the heading and is not yet
+    elaborated in narrative form.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames the current Sermon about Sense as a sequel to the
+    prior Perfect Sermon, supporting a cautious comparison between them as connected
+    Hermetic instructional discourses.
+  claim_level: same_function
+  target: Perfect Sermon
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt names the Perfect Sermon but does not provide its contents,
+    so the comparison is limited to internal framing and didactic function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5591-5597
+  quote_or_summary: Heading identifies Corpus Hermeticum IX (X), “On Thought and Sense,”
+    and states that the Beautiful and Good are in God only and nowhere else.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5598-5604
+  quote_or_summary: The speaker says he gave the Perfect Sermon yesterday to Asclepius
+    and will now go point by point through the Sermon about Sense.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5605-5614
+  quote_or_summary: Sense and thought are said to seem different, with sense related
+    to matter and thought to substance; in human beings they are said to be at one
+    and not different, while other lives are contrasted with human beings.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5615-5620
+  quote_or_summary: Mind is said to differ from thought as God differs from divinity;
+    divinity comes to be by God, and thought comes to be by mind, with thought called
+    the sister of logos.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata supplied; summarized.
+- id: ev:5
+  type: note
+  locator: passage notes within lines 5591-5620
+  quote_or_summary: Notes gloss “other lives” as possibly animals and explain a play
+    on logos as reason, word, sermon, or sacred discourse.
+  source_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  rights_note: Public domain source metadata supplied; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward from the supplied passage. Motif
+    assignment is more tentative because the excerpt is philosophical exposition rather
+    than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external traditions or comparisons were added beyond the passage’s internal reference to the Perfect Sermon.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:hermetic-corpus-hermeticum-mead-archive__l5591-l5620
+  passage_sha256=a8b0feaeeef5109c8f61454ded52eb5fe909f5158ebbe443b678d57341efcf43
+

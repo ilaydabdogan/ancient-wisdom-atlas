@@ -1,0 +1,177 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol3-gutenberg-l56053-l56060
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+passage_locator:
+  label: SECTION CCXCIX / SECTION CCC / SECTION CCCI / SECTION CCCII; lines 56053-56060
+  start: '56053'
+  end: '56060'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9,
+    10, 11 and 12'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Yudhishthira addresses a king, says that the path of Yoga has been explained
+    to him in the manner of a loving preceptor to a pupil, and asks for a complete
+    discourse on the principles of Sankhya philosophy, saying that the addressee knows
+    whatever knowledge exists in the three worlds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yudhishthira speaks to an addressed king.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Yudhishthira says the addressee has already propounded the path of Yoga approved
+    by the wise.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Yudhishthira describes the prior instruction as being like that of a loving
+    preceptor to a pupil.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Yudhishthira asks for a complete discourse on the principles of Sankhya philosophy.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Yudhishthira says that whatever knowledge exists in the three worlds is known
+    to the addressee.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Yudhishthira
+  description: The speaker who addresses the king and requests instruction on Sankhya
+    philosophy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: addressed king
+  description: The unnamed addressee whom Yudhishthira credits with having taught
+    Yoga and with knowing the knowledge of the three worlds.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: questioner seeking philosophical instruction
+  assigned_to:
+  - fig:1
+  basis: Yudhishthira asks the addressee to discourse on the principles of Sankhya
+    philosophy.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: teacher or preceptor-like knower
+  assigned_to:
+  - fig:2
+  basis: The addressee is said to have explained Yoga like a loving preceptor and
+    to know the knowledge of the three worlds.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: request for Sankhya instruction
+  summary: After acknowledging prior instruction in Yoga, Yudhishthira asks the addressed
+    king for a complete explanation of Sankhya principles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: wisdom instruction from teacher to pupil
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents a speaker requesting philosophical knowledge and portrays
+    the addressee as a preceptor-like source of comprehensive knowledge.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is a brief dialogic transition into doctrinal teaching rather
+    than a complete mythic episode.
+- id: motif:2
+  label: initiation into philosophical doctrine
+  taxonomy_refs:
+  - initiation
+  basis: Yudhishthira asks to be instructed in the entirety of Sankhya principles
+    after already receiving instruction in Yoga.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage indicates a request for instruction, but does not itself describe
+    a ritual initiation or transformation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 56053-56060
+  quote_or_summary: Yudhishthira said, "O king..."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 56053-56057
+  quote_or_summary: Yudhishthira says the addressee has duly propounded the path of
+    Yoga approved by the wise.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 56056-56058
+  quote_or_summary: '"after the manner of a loving preceptor unto his pupil"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 56058-56060
+  quote_or_summary: Yudhishthira asks the addressee to discourse fully on the principles
+    of Sankhya philosophy.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: quote
+  locator: line 56060
+  quote_or_summary: '"Whatever knowledge exists in the three worlds is known to thee!"'
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md
+  rights_note: Public domain translation; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a short, explicit dialogic passage. Motif identification
+    is limited because the passage primarily frames a request for philosophical teaching.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the passage contains no concrete listed symbol such as fire, water, tree, serpent, mountain, cave, or milk.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol3-gutenberg__l56053-l56060
+  passage_sha256=adb7bd80a298a68caebe52ecef5fcd531d5c857cbacf18f4cdf1e47d071e5fc3
+

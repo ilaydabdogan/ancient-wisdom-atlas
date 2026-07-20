@@ -1,0 +1,383 @@
+---
+record_id: batch.motif.egyptian-budge-gods-of-the-egyptians-archive-v1-l17324-l17715
+source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+passage_locator:
+  label: TRANSLATION / A I I I I / T III / Q D (3; lines 17324-17715
+  start: '17324'
+  end: '17715'
+  translation: The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume
+    I
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a divine affliction in which Ra, after passing through
+    the two lands to view what he had created, is bitten by an invisible snake and
+    suffers bodily symptoms. Isis asks Ra to tell his name, and Ra answers with creator
+    and cosmic epithets involving water, mountains, heaven, horizons, divine souls,
+    light and darkness, and the flood.
+  language: English with transliterated Egyptian terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A sickness is said to have entered the addressee, and a thing made by him
+    is said to have lifted its head against him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Words of power are described as the means by which the hostile thing will
+    be overthrown or made to depart from the sight of the addressee's rays.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The holy god says he was passing through the two lands and through the road
+    of his country because his heart wished to see what he had created.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says he was bitten by an invisible snake.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The afflicted speaker says the condition is not fire or water, yet he is colder
+    than water and hotter than fire.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker reports trembling limbs, sweat, unstable sight, inability to see
+    the heavens, and water bursting out on his face as in summer.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Isis asks Ra to tell his name and states that the person who declares his
+    name lives.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Ra identifies himself with Meht-ur and with acts of making water, causing
+    his mother to exist, and creating the joys of love.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Ra says he made heaven, covered the two horizons, set the soul of the gods
+    within them, and that opening and shutting his eyes produces light and darkness;
+    the flood is also said to rise.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ra
+  description: A holy god addressed by Isis; he speaks of being bitten by an invisible
+    snake and describes himself through creator and cosmic functions.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Isis / Ast
+  description: The speaker who addresses Ra and asks him to tell his name.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Invisible snake
+  description: A snake described as invisible that bites the divine speaker.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: afflicted deity
+  assigned_to:
+  - fig:1
+  basis: Ra reports an invisible snakebite and describes severe bodily symptoms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: creator deity
+  assigned_to:
+  - fig:1
+  basis: Ra says he was looking upon what he had created and later names acts of making
+    water, heaven, horizons, and divine souls.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: role:3
+  label: questioner of divine name
+  assigned_to:
+  - fig:2
+  basis: Isis asks Ra to tell his name and links declaration of the name with life.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: hidden biting agent
+  assigned_to:
+  - fig:3
+  basis: The snake is described as invisible and as having bitten the speaker.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: cosmic light-darkness regulator
+  assigned_to:
+  - fig:1
+  basis: Ra says opening his eyes becomes light and shutting them becomes darkness.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: serpent bite
+  literal_form: Invisible snake biting the god
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: water and flood
+  literal_form: Water used in the affliction comparison, water on the face, Ra as
+    maker of water, and the rising flood
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: fire heat
+  literal_form: Fire used as the comparison for the afflicted god's heat
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: divine name
+  literal_form: The name of Ra requested by Isis and linked with life when declared
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: mountains and horizons
+  literal_form: Mountains, heaven, and the two horizons in Ra's self-description
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: eyes producing light and darkness
+  literal_form: Opening the eyes becomes light; shutting the eyes becomes darkness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Affliction and hostile created thing
+  summary: An initial speech says sickness has entered the addressee, a thing made
+    by him has risen against him, and words of power will overthrow it or make it
+    depart from his rays.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ra's journey and snakebite
+  summary: Ra says he was traveling through the two lands to see what he had created
+    when an invisible snake bit him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Symptoms of the bitten god
+  summary: Ra describes contradictory heat and cold, trembling limbs, sweat, impaired
+    sight, and water on his face.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Isis requests Ra's name
+  summary: Isis asks Ra to tell his name and says that the person who declares his
+    name lives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Ra's cosmic self-description
+  summary: Ra responds with creator epithets, describing himself as maker of water
+    and heaven, arranger of horizons and divine souls, and source of light and darkness
+    through his eyes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: serpent affliction of a deity
+  taxonomy_refs:
+  - serpent
+  basis: The divine speaker says he was bitten by an invisible snake and then reports
+    severe bodily symptoms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not fully identify the invisible snake with the earlier
+    hostile created thing.
+- id: motif:2
+  label: created thing turns against maker
+  taxonomy_refs: []
+  basis: The opening speech says that a thing made by the addressee has lifted its
+    head against him.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The identity of the created hostile thing is not explicit within the excerpt.
+- id: motif:3
+  label: divine name as vital knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: Isis asks Ra to tell his name and states that the person who has declared
+    his name lives.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt does not show the outcome of declaring the name or explicitly
+    state that the name is secret.
+- id: motif:4
+  label: cosmic duality produced by divine eyes
+  taxonomy_refs:
+  - duality
+  basis: Ra states that opening his eyes becomes light and shutting his eyes becomes
+    darkness.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage presents the duality as part of Ra's self-description rather
+    than as an extended narrative episode.
+- id: motif:5
+  label: creator deity enumerates cosmic domains
+  taxonomy_refs: []
+  basis: Ra describes making water and heaven, covering the two horizons, setting
+    divine souls within them, and being connected with the flood.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a descriptive theological pattern rather than a complete narrative
+    arc in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17324-17361
+  quote_or_summary: The passage says sickness has been shot into the addressee; a
+    thing made by him has lifted its head against him; words of power will overthrow
+    it and make it depart from his rays.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 17362-17427
+  quote_or_summary: The holy god speaks of passing through the two lands and his country
+    to see what he had created, and says he was bitten by an invisible snake.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 17428-17510
+  quote_or_summary: The speaker says the condition is neither fire nor water, yet
+    he is colder than water and hotter than fire; he reports trembling, sweat, impaired
+    sight, and water on his face.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 17511-17551
+  quote_or_summary: 'Isis says to Ra: "O tell me ... thy name" and adds that the person
+    who has declared his name lives.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:5
+  type: summary
+  locator: 17552-17631
+  quote_or_summary: 'Ra answers with creator epithets: knitter of mountains, creator
+    of what exists, Meht-ur, maker of water, maker of his mother, and creator of the
+    joys of love.'
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 17632-17715
+  quote_or_summary: Ra says he made heaven, covered the two horizons, set the soul
+    of the gods within them, and that opening his eyes produces light while shutting
+    them produces darkness; the flood rises.
+  source_text_path: texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the English gloss/translation embedded in an OCR-like
+    interlinear passage. Motif candidates are limited to elements directly present
+    in the excerpt; no external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Figures and motifs were kept to entities and patterns explicitly supported by the excerpt.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:egyptian-budge-gods-of-the-egyptians-archive-v1__l17324-l17715
+  passage_sha256=9d87c17d8415498c771267504a79a43d8385dfd1319558ec5e5e7d5e089db808
+

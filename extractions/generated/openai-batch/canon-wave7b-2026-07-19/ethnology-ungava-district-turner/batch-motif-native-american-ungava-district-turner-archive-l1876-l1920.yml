@@ -1,0 +1,394 @@
+---
+record_id: batch.motif.native-american-ungava-district-turner-archive-l1876-l1920
+source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+passage_locator:
+  label: TURNER.) THE INDIANS. 181 / THE INDIANS. / THE HUDSON BAY ESKIMO. / TURN!;
+    lines 1876-1920
+  start: '1876'
+  end: '1920'
+  translation: Ethnology of the Ungava District, Hudson Bay Territory
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage reports suicide methods and causes, an anecdote of a man who
+    seals his wife inside a snow hut after discovering that she secretly kept and
+    ate fish during famine, reports of cannibalism in severe scarcity after dogs and
+    skin articles were consumed, and the expulsion of unlucky or disliked women from
+    camp.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that pitching oneself from a cliff, strangulation, and
+    sometimes a gun are methods of suicide.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that remorse and disappointed love are the only causes
+    of suicide in this account.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: During a period of great food scarcity, a man discovered that his wife had
+    secretly stored fish and ate them only during his absences.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The man returned unexpectedly and caught his wife eating; she tried to hide
+    the remaining fish.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man went outside the snow hut and blocked the entrance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The wife stayed inside the hut and died of starvation because she believed
+    she would be killed if she came out.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage reports that in times of great scarcity, some families ate their
+    dogs and skin-made clothing or articles before being driven to cannibalism.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that unlucky or disliked women are often driven from camp
+    and must travel until they find relief or die on the way.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: suicidal persons
+  description: Persons described as ending their lives by cliff fall, strangulation,
+    or gun, with remorse and disappointed love named as causes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man during famine
+  description: A husband who discovers his wife’s secret store of fish, blocks the
+    snow-hut entrance, and leaves her inside.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: wife with hidden fish
+  description: A wife who secretly stored and ate fish during her husband’s absence
+    and later remained inside the blocked snow hut until death by starvation.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: families in great scarcity
+  description: Families reported to have eaten dogs, skin-made clothing and articles,
+    and then to have been driven to cannibalism.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: unlucky or disliked women
+  description: Women described as being driven from camp and forced to journey until
+    they find relief or perish.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: persons who die by suicide
+  assigned_to:
+  - fig:1
+  basis: The passage names methods and causes of suicide.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: punitive husband
+  assigned_to:
+  - fig:2
+  basis: The man blocks the snow-hut entrance after discovering his wife eating hidden
+    fish.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: secret hoarder of food
+  assigned_to:
+  - fig:3
+  basis: The wife secretly stored fish and ate them during her husband’s absence.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: starvation victim
+  assigned_to:
+  - fig:3
+  basis: The wife remains inside the hut and perishes from starvation.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: famine-driven cannibalism participants
+  assigned_to:
+  - fig:4
+  basis: Families in scarcity are reported to have been driven to cannibalism after
+    eating dogs and skin articles.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: expelled vulnerable women
+  assigned_to:
+  - fig:5
+  basis: Unlucky or disliked women are described as driven from camp and forced to
+    journey for relief or perish.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cliff
+  literal_form: cliff used as a place from which a person pitches themself
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: strangulation
+  literal_form: strangulation as a method of suicide
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: gun
+  literal_form: gun sometimes used in suicide
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: hidden fish store
+  literal_form: quantity of fish secretly stored and eaten during famine
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: snow hut
+  literal_form: snow hut whose entrance is blocked
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: blocked entrance
+  literal_form: entrance of the snow hut blocked from outside
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: dogs and skin articles as famine food
+  literal_form: dogs, clothing, and other articles made of skins eaten during scarcity
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: camp expulsion
+  literal_form: being driven from camp and forced to journey
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: reported suicide methods and causes
+  summary: The passage lists suicide methods and says remorse and disappointed love
+    are the causes identified in the account.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: hidden fish discovered during scarcity
+  summary: During famine, a man discovers that his wife has secretly stored fish and
+    eaten them while he was away searching for food.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: wife sealed in snow hut
+  summary: After the discovery, the man blocks the snow-hut entrance; the wife remains
+    inside and dies of starvation rather than come out and be killed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: scarcity and cannibalism
+  summary: The passage reports families driven to cannibalism in severe scarcity after
+    eating dogs and skin-made articles.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: women driven from camp
+  summary: Unlucky or disliked women are expelled from camp and must journey until
+    they find aid or die.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: suicide from grief or disappointed love
+  taxonomy_refs: []
+  basis: The passage links suicide to remorse and disappointed love and lists methods
+    used.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is reported as ethnographic observation, not as a mythic narrative
+    episode.
+- id: motif:2
+  label: hidden food during famine
+  taxonomy_refs: []
+  basis: A wife secretly stores and eats fish while her husband searches for food
+    during scarcity.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader symbolic meaning is stated in the passage.
+- id: motif:3
+  label: fatal enclosure as punishment for food concealment
+  taxonomy_refs: []
+  basis: The husband blocks the snow-hut entrance after discovering the concealed
+    fish, and the wife dies inside by starvation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives an anecdote but does not explicitly frame it as a traditional
+    tale or moral motif.
+- id: motif:4
+  label: famine-driven cannibalism after consuming animals and skin goods
+  taxonomy_refs: []
+  basis: The passage reports families driven to cannibalism after eating dogs, clothing,
+    and other skin-made articles in great scarcity.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: Reported as instances during scarcity; no named tale type or cosmological
+    context is provided.
+- id: motif:5
+  label: expulsion of disliked or unlucky women
+  taxonomy_refs: []
+  basis: The passage states that unlucky or disliked women are driven from camp and
+    must seek relief or perish.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives a social practice report, not a developed narrative
+    pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1876-1920
+  quote_or_summary: "“Pitching themselves from a cliff or producing strangulation
+    are the usual methods, Sometimes a gun is used, Remorse and disappointed love
+    are the only causes of suicide.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1876-1920
+  quote_or_summary: During great scarcity, a man discovers that his wife has secretly
+    stored fish and eats them only while he is away seeking food; he catches her eating
+    and she attempts to hide the rest.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1876-1920
+  quote_or_summary: The man exits the snow hut and blocks the entrance; the wife remains
+    inside and dies of starvation because she expects to be killed if she comes out.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1876-1920
+  quote_or_summary: "“Instances are reported where, in times of great scarcity, families
+    have been driven to cannibalism after eating their dogs and the clothing and other
+    articles made of skins.”"
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1876-1920
+  quote_or_summary: Unlucky or disliked women are often driven from camp and must
+    journey until they find relief or perish by the wayside.
+  source_text_path: texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Readable prose is clear enough for extraction, but the passage is ethnographic
+    reportage with OCR/header noise and little explicit mythic framing. No comparison
+    claims were made because the passage itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available taxonomy motif and symbol references were not applied because the passage does not clearly support any listed taxonomy item.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:native-american-ungava-district-turner-archive__l1876-l1920
+  passage_sha256=ab884fe5e4ae9d8584fc000c5a16867f0548a40bd9dded1a624acc1d99917058
+

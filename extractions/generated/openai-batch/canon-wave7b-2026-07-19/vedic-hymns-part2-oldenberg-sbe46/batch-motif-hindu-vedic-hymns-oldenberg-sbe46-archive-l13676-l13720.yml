@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l13676-l13720
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: 'MANDALA III, HYMN 20. 281 / NOEES: / MANDALA III, HYMN 21. 283 / NOTES.;
+    lines 13676-13720'
+  start: '13676'
+  end: '13720'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The notes identify the hymn’s metres and explain that it belongs to the
+    ritual of animal sacrifice. Later Vedic prescriptions require its recitation while
+    the animal’s omentum is roasted and drops of fat fall into the fire. The note
+    also states that, after the sacrificial animal is killed, the fat-rich omentum
+    is drawn from the body and offered.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The notes state that the hymn belongs to the ritual of animal sacrifice.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hymn is to be recited while the omentum of the sacrificial animal is roasted.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Drops of fat drip down from the roasted omentum into the fire.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: After the sacrificial animal has been killed, the omentum is drawn out of
+    its body and offered.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The omentum is described as very rich in fat.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The notes report correspondences of verses 1-5 with TB III, 6, 7, 1.2 and
+    MS IV, 13.25.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: same Rishi
+  description: An unnamed Rishi associated with the hymn in the notes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: sacrificial animal
+  description: The animal whose omentum is removed, roasted, and offered after it
+    is killed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: Rishi associated with hymn
+  assigned_to:
+  - fig:1
+  basis: The notes open by stating, “The same Rishi,” without naming the figure in
+    this passage.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: sacrificial victim
+  assigned_to:
+  - fig:2
+  basis: The animal is killed in the sacrifice, and its omentum is drawn out and offered.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire receiving dripping fat during the roasting of the omentum
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: omentum
+  literal_form: fat-rich omentum of the sacrificial animal, roasted and offered
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: dripping fat
+  literal_form: drops of fat falling from the roasted omentum into the fire
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Recitation during omentum roasting
+  summary: According to later Vedic ritual prescription, the hymn is recited while
+    the sacrificial animal’s omentum is roasted and fat drips into the fire.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Removal and offering of omentum
+  summary: After the sacrificial animal is killed, its fat-rich omentum is drawn from
+    the body and offered.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: animal sacrifice with offering of omentum
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly links the hymn to an animal-sacrifice ritual in which
+    the omentum is roasted and offered after the animal is killed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is ritual commentary rather than a mythic narrative scene.
+- id: motif:2
+  label: fat offering into fire
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The passage describes drops of fat falling into the fire during the roasting
+    of the sacrificial omentum and identifies the omentum as an offering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state a deity-recipient or theological meaning for
+    the offering.
+comparison_claims:
+- id: claim:1
+  claim: The notes connect the hymn’s verses and use with nearby Vedic ritual corpora,
+    including later Vedic prescriptions for recitation during the pasubandha and textual
+    parallels in TB and MS.
+  claim_level: same_function
+  target: later Vedic animal-sacrifice prescriptions and the cited TB/MS parallels
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides ritual and textual correspondence, not a full
+    comparative mythological argument or evidence for historical transmission beyond
+    the cited Vedic corpora.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13680-13687
+  quote_or_summary: "“The hymn belongs to the ritual of the animal sacrifice. It has
+    to be recited ... while the vapad (omentum) of the sacrificial animal is roasted
+    and the drops of fat drip down from it.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 13691-13696
+  quote_or_summary: Bergaigne is quoted describing hymn III, 21 as recited in the
+    pasubandha “pendant la cuisson de la vapa, pour les gouttes de graisse qui tombent
+    dans le feu.”
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 13716-13720
+  quote_or_summary: "“After the sacrificial animal has been killed, the omentum, which
+    is very rich in fat, is first drawn out of its body and offered.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 13700-13701
+  quote_or_summary: "“Verses 1-5 = TB. III, 6, 7, 1. 2; MS IV, 13.25.”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 13676-13678
+  quote_or_summary: "“The same Rishi.” The notes also list metres for verses 1-5."
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ritual actions and objects are explicit in the passage. Motif classification
+    is straightforward for sacrifice but limited because the passage is a scholarly
+    note rather than a myth narrative. The comparison claim is limited to cited Vedic
+    textual and ritual parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic narrative is present; extraction focuses on ritual pattern, symbolic objects, and cited Vedic textual correspondences.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l13676-l13720
+  passage_sha256=6ca6ce8a1c0c1280a1aeff3a92f124cb92bb11a55a792183ba0cc85d62290cc0
+

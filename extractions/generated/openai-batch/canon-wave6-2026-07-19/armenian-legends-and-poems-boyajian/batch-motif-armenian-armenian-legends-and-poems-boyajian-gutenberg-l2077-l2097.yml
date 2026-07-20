@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.armenian-armenian-legends-and-poems-boyajian-gutenberg-l2077-l2097
+source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+passage_locator:
+  label: MY DEATH / CONCERNING THE ROSE AND THE NIGHTINGALE / THE ARRIVAL OF THE CRUSADERS
+    / LIKE AN OCEAN IS THIS WORLD; lines 2077-2097
+  start: '2077'
+  end: '2097'
+  translation: Armenian Legends and Poems
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: Like an ocean is this world;
+  summary: A speaker compares the world to an ocean that must be crossed, imagines
+    his ship nearing land amid feared rocks and haze, and prays to God for a shoreward
+    breeze so that a happy land may appear.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The world is compared to an ocean, and crossing that ocean leaves no one undrenched.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker describes his ship as having unfurled its sails and begun moving
+    before he realized it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says they are drawing toward land and fears the seaboard ahead.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Rocks on the strand are feared as a danger that could break and tear the ship’s
+    planks.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker says he will pray to God for a breeze from the shore to meet them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The desired breeze would disperse gloomy haze so that a happy land may greet
+    them.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: speaker
+  description: The first-person voice who speaks of his ship, fear of the shore, and
+    intention to pray.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: God
+  description: The deity to whom the speaker says he will pray.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: voyager or ship-passenger
+  assigned_to:
+  - fig:1
+  basis: The speaker refers to 'my ship' and describes movement across an ocean toward
+    land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: supplicant
+  assigned_to:
+  - fig:1
+  basis: The speaker says he will pray to God for aid.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: divine addressee
+  assigned_to:
+  - fig:2
+  basis: God is named as the one to whom prayer will be directed.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ocean
+  literal_form: ocean
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ship
+  literal_form: ship with unfurled sails and planks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: shore or land
+  literal_form: land, seaboard, shore, and happy land
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: rocks on the strand
+  literal_form: rocks upon the strand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: breeze
+  literal_form: breeze from the shore
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: gloomy haze
+  literal_form: gloomy haze
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ocean crossing and unrecognized departure
+  summary: The world is described as an ocean to be crossed, and the speaker’s ship
+    has already set sail and begun moving before he recognizes it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Approach to perilous shore
+  summary: The speaker says the ship is nearing land and fears rocks at the strand
+    that could damage the vessel.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Prayer for favorable passage
+  summary: The speaker intends to pray to God for a breeze from the shore to clear
+    the haze and reveal a happy land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: world as ocean crossing
+  taxonomy_refs: []
+  basis: The passage explicitly likens the world to an ocean and presents the speaker
+    as crossing it by ship.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives the image clearly but does not explicitly define the
+    crossing as life, death, or an afterlife journey.
+- id: motif:2
+  label: perilous approach to an unknown shore
+  taxonomy_refs: []
+  basis: The ship nears land while the speaker fears rocks that may break the planks.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The feared shore may be figurative, but the passage itself does not specify
+    the allegorical referent.
+- id: motif:3
+  label: prayer for divine aid in passage
+  taxonomy_refs: []
+  basis: The speaker says he will pray to God for a breeze to meet the travelers,
+    clear haze, and bring them to a happy land.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents prayer and desired aid, but not a completed divine
+    intervention.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2083-2084
+  quote_or_summary: '"Like an ocean is this world; / None undrenched may cross that
+    ocean."'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 2085-2086
+  quote_or_summary: '"My ship too its sails unfurled, / Ere I knew it was in motion."'
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2088-2091
+  quote_or_summary: The speaker says the ship is drawing toward land, fears the seaboard,
+    and worries that rocks on the strand may break and tear the planks.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2093-2096
+  quote_or_summary: The speaker says he will pray to God for a breeze from the shore
+    to disperse gloomy haze so that a happy land may greet them.
+  source_text_path: texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal images are explicit. Motif labels are cautious because the passage
+    does not explicitly state the allegorical meaning of the ocean crossing or the
+    destination.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly connect the imagery to another text, tradition, or named motif family.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:armenian-armenian-legends-and-poems-boyajian-gutenberg__l2077-l2097
+  passage_sha256=0259eadbc36c8574b7f9464b6ad62a78d69b52816cc9a0f7e1296c91b00e1d8d
+

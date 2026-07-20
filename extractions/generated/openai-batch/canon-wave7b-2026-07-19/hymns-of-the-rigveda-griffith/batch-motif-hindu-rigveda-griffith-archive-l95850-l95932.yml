@@ -1,0 +1,504 @@
+---
+record_id: batch.motif.hindu-rigveda-griffith-archive-l95850-l95932
+source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+passage_locator:
+  label: AITAREYA ARANYAKA / TRANSLATION AND NOTES / ARANYAKA I / KEITH M; lines 95850-95932
+  start: '95850'
+  end: '95932'
+  translation: The Hymns of the Rigveda, Complete 2 Volumes
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt contains ritual and philological notes followed by an Aitareya
+    Aranyaka passage explaining a one-day sacrificial framework, rest or atonement
+    at the sacrifice’s end, and the ritual effects of reciting cited Rigvedic verses.
+    The passage says that readiness, preparation, speech, offerings, food, and repeated
+    invitations bring Vayu, Indra and Vayu, Mitra and Varuna, the Aévins, Indra, and
+    the All-gods into relation with the sacrifice for one who knows or for whom a
+    knowing Hotr priest recites.
+  language: English with Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note states that the Agnistoma is the model of the Visvayit and Mahavrata
+    and is a one-day sacrifice.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At the end of the sacrifice, sacrificers rest on the atonement of the one-day
+    Praiiga; one who knows this rests, and those for whom a knowing Hotr priest recites
+    also rest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A verse to Vayu says Soma draughts have been made ready, and the passage says
+    the day is ready for the sacrificer and for the gods.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A verse to Indra and Vayu uses the word prepared; the passage explains this
+    as well prepared and says Indra and Vayu approach what has been well prepared.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A verse summons Mitra and Varuna in connection with the oil-fed rite, and
+    the passage identifies speech as the oil-fed rite.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A verse invokes the Aévins to accept sacrificial offerings; the passage identifies
+    the offerings as food and says the recitation serves to gain food.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Verses to Indra repeat the invitation come hither, and the passage says Indra
+    goes to the sacrifice of the one who knows or for whom a knowing Hotr priest recites.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The All-gods are said to come to the call of the one who knows.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: A supplied note comments that older popular rites retained in the ritual are
+    treated as improper and requiring atonement.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: sacrificer / sacrificers
+  description: Human ritual participant or participants for whom the day is ready
+    and who rest at the sacrifice’s end.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Hotr priest
+  description: A priest who knows and recites the Praiiga or cited verses for others.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: Vayu
+  description: Deity addressed to come to Soma draughts that have been made ready;
+    also paired with Indra in a prepared offering formula.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Indra
+  description: Deity paired with Vayu in one verse and separately invoked with repeated
+    come hither formulas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: Mitra and Varuna
+  description: Deities invoked in a verse about making perfect the oil-fed rite.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Aévins
+  description: Deities invoked to accept sacrificial offerings and go to the sacrifice;
+    their path is described as red in the cited verse.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: All-gods
+  description: A collective divine group said to come to the call of the one who knows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: ritual beneficiary
+  assigned_to:
+  - fig:1
+  basis: The sacrificer or those for whom recitation is performed receive readiness,
+    rest, and sacrificial efficacy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: knowing reciter
+  assigned_to:
+  - fig:2
+  basis: The Hotr priest who knows this recites the Praiiga or verses for others,
+    producing stated ritual outcomes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:3
+  label: invoked or approaching deity
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The passage repeatedly presents deities as summoned, coming hither, approaching
+    prepared rites, going to the sacrifice, or coming to a call.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:4
+  label: perfecter of the oil-fed rite
+  assigned_to:
+  - fig:5
+  basis: The cited verse identifies Mitra and Varuna with making perfect the oil-fed
+    rite.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: recipient of sacrificial offerings
+  assigned_to:
+  - fig:6
+  basis: The Aévins are invoked to accept sacrificial offerings, which the passage
+    identifies as food.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: one-day sacrifice and atonement
+  literal_form: the one-day sacrifice and its end-rest or atonement
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Soma draughts made ready
+  literal_form: Soma draughts prepared for Vayu
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: prepared rite
+  literal_form: the words ready, prepared, and well prepared applied to the day or
+    offering
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: speech as oil-fed rite
+  literal_form: speech identified as the oil-fed rite
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: offerings as food
+  literal_form: sacrificial offerings identified as food
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: red path
+  literal_form: the path of the Aévins described as red
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: come hither invocation
+  literal_form: repeated verbal summons, come hither
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Rest and atonement after the one-day sacrifice
+  summary: The passage links the close of the sacrifice with rest on the atonement
+    of the one-day Praiiga and extends that rest to one who knows and to those served
+    by a knowing Hotr priest.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ready Soma draughts and prepared approach of Vayu and Indra
+  summary: Vayu is invited to Soma draughts made ready, the day is said to be ready
+    for sacrificer and gods, and Indra and Vayu are said to approach what has been
+    well prepared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Speech, oil-fed rite, offerings, and food
+  summary: The passage interprets a Mitra and Varuna verse by identifying speech with
+    the oil-fed rite, and interprets the Aévins’ offerings as food gained through
+    recitation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Repeated divine invitations
+  summary: Repeated come hither formulas are directed to Indra, and the All-gods are
+    said to come to the call of one who knows.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sacrifice as central ritual action
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage frames the material through the Agnistoma, one-day sacrifice,
+    atonement, Soma draughts, offerings, and deities going to or approaching the sacrifice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage is ritual exposition rather than a narrative myth episode.
+- id: motif:2
+  label: ritual offering and divine attendance
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: Prepared draughts, offerings, calls, and recitations are associated with
+    deities approaching, going to the sacrifice, or coming to the call.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The text does not describe a negotiated exchange; the motif is limited
+    to ritual efficacy and divine attendance.
+- id: motif:3
+  label: efficacious ritual knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The formula who knows this recurs with stated effects such as rest, readiness,
+    divine approach, possession of speech, food gain, and divine response.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is specialized ritual knowledge, not a broad wisdom tale.
+- id: motif:4
+  label: atonement and rest at ritual completion
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage says sacrificers rest on the atonement of the one-day Praiiga
+    at the end of the sacrifice, and a note links retained popular rites with impropriety
+    and atonement.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: medium
+  cautions: The surrounding ritual context is fragmentary in the supplied excerpt,
+    and one supporting statement is editorial commentary.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats cited Rigvedic hymn lines as ritual formulae
+    within the Aranyaka exposition, assigning phrases of readiness, preparation, offerings,
+    and invitation to sacrificial effects such as divine attendance and food gain.
+  claim_level: same_function
+  target: Cited Rigvedic verses RV I.2.1, RV I.2.4, RV I.2.10, RV I.3.1, RV I.3.3,
+    and RV I.3.5-7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an explicit citation and reuse relationship inside the supplied
+    Vedic material; it does not support claims about broader historical contact beyond
+    the shared corpus context.
+- id: claim:2
+  claim: The note presents the Agnistoma as the ritual model for the Visvayit and
+    Mahavrata, supporting a same-function comparison among named sacrifice forms in
+    the supplied passage.
+  claim_level: same_function
+  target: Agnistoma, Visvayit, and Mahavrata one-day sacrificial pattern
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on a brief note in an OCR-corrupted excerpt and does
+    not describe the full rites.
+evidence:
+- id: ev:1
+  type: summary
+  locator: note 7 within supplied lines 95850-95932
+  quote_or_summary: The Agnistoma is described as the prakrti/model of the Visvayit
+    and Mahavrata and as a one-day sacrifice.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: Aitareya Aranyaka I.1.3 within supplied lines 95850-95932
+  quote_or_summary: "“at the end ... the sacrificers rest on the atonement ... He
+    rests who knows this”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: summary
+  locator: Aitareya Aranyaka I.1.4, Vayu verse, within supplied lines 95850-95932
+  quote_or_summary: A verse says, “Come hither, O Vayu,” and that Soma draughts are
+    made ready; the passage says the day is ready for the sacrificer and gods.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short quotation and summary.
+- id: ev:4
+  type: summary
+  locator: Aitareya Aranyaka I.1.4, Indra and Vayu verse, within supplied lines 95850-95932
+  quote_or_summary: The Indra and Vayu verse says the draughts are poured forth and
+    prepared; the passage says prepared means well prepared and that Indra and Vayu
+    approach it.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: Aitareya Aranyaka I.1.4, Mitra and Varuna verse, within supplied lines
+    95850-95932
+  quote_or_summary: A verse summons Mitra and Varuna who make perfect the oil-fed
+    rite; the passage states that speech is the oil-fed rite.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: Aitareya Aranyaka I.1.4, Aévins verses, within supplied lines 95850-95932
+  quote_or_summary: The Aévins are asked to accept sacrificial offerings; the offerings
+    are identified as food, and the Aévins go to the sacrifice of the one served by
+    knowing recitation.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: Aitareya Aranyaka I.1.4, Indra verses, within supplied lines 95850-95932
+  quote_or_summary: Several Indra verses repeat come hither; the passage says Indra
+    goes to the sacrifice of one who knows or is served by a knowing Hotr priest.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: quote
+  locator: Aitareya Aranyaka I.1.4, closing sentence within supplied lines 95850-95932
+  quote_or_summary: "“The All-gods come to the call of him who knows”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:9
+  type: summary
+  locator: editorial note after Aitareya Aranyaka I.1.4 within supplied lines 95850-95932
+  quote_or_summary: The note says that older popular rites retained in the ritual
+    are regarded as improper and needing atonement.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied excerpt is OCR-corrupted and mixes translation with footnotes;
+    the extraction uses only explicit statements in the provided passage and metadata.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external taxonomy IDs beyond the provided motif family list were added. Available symbol refs such as fire, water, milk, cave, mountain, serpent, and tree were not assigned because the passage does not explicitly support them as literal symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-rigveda-griffith-archive__l95850-l95932
+  passage_sha256=0d44c220de7fd63962050aa31f8a58cafda051c9222920d9094af35e3869f2ba
+

@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.georgian-georgian-folk-tales-wardrop-gutenberg-l2844-l2873
+source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+passage_locator:
+  label: GULAMBARA AND SULAMBARA / THE TWO BROTHERS / THE PRINCE / THE SHEPHERD AND
+    THE CHILD OF FORTUNE; lines 2844-2873
+  start: '2844'
+  end: '2873'
+  translation: Georgian Folk Tales
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: I am in truth your son, but this man is also your child.
+  summary: A boy found sleeping in a transformed household identifies himself as the
+    son of the man and woman. The shepherd, mysteriously transported with his possessions,
+    confesses wrongdoing. The boy asks his parents to forgive and compensate the shepherd,
+    including return of the goat left in exchange for him. The father gives the shepherd
+    his hire, the goat, half his flocks, and household acceptance; the boy remains
+    with his parents.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The man and woman find the boy sleeping, wake him, and ask who he is and what
+    he has done that they no longer recognize their own house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boy says he had foretold that the shepherd would come with his possessions
+    and says the shepherd has taken up residence in their courtyard.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The shepherd wakes, sees the courtyard, says he had been settled in his own
+    home and is now here, then kneels before his master and confesses he has done
+    evil.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The man and woman respond with joy and both embrace the child.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The boy declares that he is truly their son and says the shepherd is also
+    their child; he asks them to forgive the shepherd and give him his hire.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The father gives the shepherd his hire and forgives him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The boy says the shepherd left a goat in exchange for him, that the parents
+    should either keep the goat and let the boy go with the shepherd or keep the boy
+    and return the goat.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The father gives the shepherd the goat, half of his flocks, and a place in
+    his house; the boy remains with his parents and they live happily together.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the boy
+  description: A sleeping boy who explains the shepherd’s arrival, identifies himself
+    as the son of the man and woman, and mediates forgiveness and compensation for
+    the shepherd.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the man / boy's father
+  description: The male householder who is addressed as master by the shepherd and
+    later gives the shepherd hire, forgiveness, a goat, half the flocks, and household
+    acceptance.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: the woman / boy's mother
+  description: The female householder who, with the man, questions and embraces the
+    boy and is identified as his mother in the boy’s speech.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: the shepherd
+  description: A shepherd who awakens in the courtyard after being in his own home,
+    confesses wrongdoing to his master, is forgiven, and receives compensation and
+    household inclusion.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+roles:
+- id: role:1
+  label: revealed son
+  assigned_to:
+  - fig:1
+  basis: The boy explicitly says he is in truth the son of the man and woman.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: parents and householders
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: They are addressed as the boy’s father and mother, and the house and courtyard
+    are theirs.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+- id: role:3
+  label: shepherd and fosterer
+  assigned_to:
+  - fig:4
+  basis: The boy says the shepherd left a goat in exchange for him and brought him
+    up.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: mediator of reconciliation
+  assigned_to:
+  - fig:1
+  basis: The boy asks his parents to forgive the shepherd, pay him, and restore the
+    goat if they keep the boy.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: confessed wrongdoer and forgiven servant
+  assigned_to:
+  - fig:4
+  basis: The shepherd kneels, confesses evil, and is then forgiven and rewarded by
+    the father.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+symbols:
+- id: sym:1
+  label: goat exchanged for the child
+  literal_form: goat
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: half of the flocks
+  literal_form: flocks divided into two parts
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: unrecognized house and courtyard
+  literal_form: house and courtyard
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: bent knee before the master
+  literal_form: kneeling gesture
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Boy found in the altered house
+  summary: The man and woman enter, find the boy asleep, wake him, and ask who he
+    is and why their own house is no longer familiar to them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Shepherd appears in the courtyard and confesses
+  summary: The boy points to the shepherd’s arrival in the courtyard. The shepherd
+    awakens there, recognizes that he has been moved from his home, kneels to his
+    master, and confesses wrongdoing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Recognition and forgiveness
+  summary: The man and woman embrace the child. The boy identifies himself as their
+    son, calls the shepherd also their child, and asks that the shepherd be forgiven
+    and paid; the father does so.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Restitution of goat and flocks
+  summary: The boy argues that the goat left in exchange for him should be returned
+    if his parents keep him. The father gives the shepherd the goat, half the flocks,
+    and a place in the household; the family lives happily together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: miraculous child who knows and directs events
+  taxonomy_refs:
+  - miraculous_child
+  basis: The boy is found sleeping in a house the owners no longer recognize, says
+    he foretold the shepherd’s arrival with possessions, and directs the household’s
+    response.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly state how the house or shepherd were transformed
+    or transported; the miraculous quality is inferred from the circumstances and
+    dialogue.
+- id: motif:2
+  label: lost or separated child restored to parents
+  taxonomy_refs:
+  - return
+  basis: The boy declares himself to be the true son of the man and woman, is embraced
+    by them, remains with them, and the family lives together.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The earlier separation is only indirectly referenced in this passage through
+    the goat exchange and the shepherd’s upbringing of the boy.
+- id: motif:3
+  label: child exchanged for an animal and later compensated
+  taxonomy_refs: []
+  basis: The boy states that the shepherd left a goat in exchange for him and argues
+    that, if the parents keep the boy, the goat should be returned; the father adds
+    half his flocks.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No supplied taxonomy reference precisely matches this exchange without
+    adding unsupported sacred or ritual meaning.
+- id: motif:4
+  label: confession, forgiveness, and reintegration of a wrongdoer
+  taxonomy_refs: []
+  basis: The shepherd confesses evil, submits to his master, is forgiven, receives
+    his hire, and is taken into the household.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The exact nature of the wrongdoing is not described in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2844-2847
+  quote_or_summary: The man and woman find the boy sleeping, wake him, and ask who
+    he is and why they no longer know their own house.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 2847-2851
+  quote_or_summary: The boy says he had told them the shepherd was coming with his
+    possessions and that the shepherd has taken up abode in their courtyard.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 2852-2857
+  quote_or_summary: The shepherd awakens, sees the courtyard, marvels that he was
+    at home and is now here, then goes to his master, bends his knee, confesses evil,
+    and submits to his master’s will.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 2857-2859
+  quote_or_summary: The man and woman are joyful and each embraces the child.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 2859-2863
+  quote_or_summary: The boy says, “I am in truth your son, but this man is also your
+    child,” and asks that the shepherd be forgiven and given his hire; the father
+    does so.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; short quotation from public domain translation.
+- id: ev:6
+  type: summary
+  locator: lines 2865-2868
+  quote_or_summary: The boy says the shepherd left a goat in exchange for him, that
+    the mother brought up the goat while the shepherd brought him up, and that the
+    goat should be returned if the parents keep the boy.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 2869-2873
+  quote_or_summary: The father says he will also give the shepherd half of his flocks,
+    divides the flocks, gives one part to the shepherd, takes him into the house,
+    and the boy remains with his parents as they live happily together.
+  source_text_path: texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Passage-level actions and figures are explicit. Motif labels are cautious;
+    the miraculous-child and return motifs are supported by the passage, while broader
+    comparative claims are not made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison beyond candidate motif classification.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:georgian-georgian-folk-tales-wardrop-gutenberg__l2844-l2873
+  passage_sha256=06cd279b17b4904e5d8ee18e2057c1d0fbc4b3e5fdf1c4a6fa8c8cfdb1ff14dc
+

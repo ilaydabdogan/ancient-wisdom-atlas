@@ -1,0 +1,147 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l38040-l38067
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION CXXIV / FOOTNOTES / BOOK 7 / DRONA PARVA; lines 38040-38067
+  start: '38040'
+  end: '38067'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains footnotes and title material. One footnote discusses
+    a textual variant and gives a literal rendering that the destruction of the Kuru
+    king was inferred. Another states that bravery on the field of battle is, according
+    to Hindu scriptures, always rewarded in the indicated way. The title matter identifies
+    the work as the Mahabharata, Book 7, Drona Parva, translated by Kisari Mohan Ganguli.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Footnote 490 says the Bengal text has a problematic second line and that the
+    Bombay reading, “Kururajasya tarkitas,” is adopted.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Footnote 490 gives a literal rendering in which the destruction of the Kuru
+    king is inferred.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Footnote 491 states that bravery on the field of battle is, according to Hindu
+    scriptures, always rewarded in the manner indicated by the surrounding context.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage identifies the text as the Mahabharata, Book 7, Drona Parva, translated
+    into English prose by Kisari Mohan Ganguli.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Kuru king
+  description: 'A king referred to only through the literal rendering of a line: his
+    destruction was inferred.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: king whose destruction is inferred
+  assigned_to:
+  - fig:1
+  basis: The footnote’s literal rendering says that the destruction of the Kuru king
+    was inferred.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial note on inferred destruction
+  summary: A footnote comments on a textual variant and supplies a literal rendering
+    about the inferred destruction of the Kuru king.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial note on rewarded battlefield bravery
+  summary: A footnote states that battlefield bravery is always rewarded in the relevant
+    way according to Hindu scriptures.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Rewarded battlefield bravery
+  taxonomy_refs: []
+  basis: The passage explicitly says that bravery on the field of battle is always
+    rewarded according to Hindu scriptures.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a footnote rather than a narrative episode, and the exact
+    reward referred to by “thus” is not included in the supplied line range.
+comparison_claims:
+- id: claim:1
+  claim: The footnote presents rewarded battlefield bravery as a recurring pattern
+    recognized in Hindu scriptures.
+  claim_level: same_function
+  target: Hindu-scriptural pattern of rewarding bravery in battle
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not name a specific comparator text, episode, or reward;
+    it only makes a general statement in a footnote.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 38040-38067, footnote 490
+  quote_or_summary: Footnote 490 discusses a Bengal/Bombay textual variant and says
+    the literal rendering is that the destruction of the Kuru king was inferred.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; supplied metadata permits full-text use.
+- id: ev:2
+  type: quote
+  locator: lines 38040-38067, footnote 491
+  quote_or_summary: "“By bravery on the field of battle, which, according to the Hindu
+    scriptures, is always thus rewarded.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; supplied metadata permits full-text use.
+- id: ev:3
+  type: summary
+  locator: lines 38040-38067, title matter
+  quote_or_summary: The title matter identifies the work as the Mahabharata of Krishna-Dwaipayana
+    Vyasa, Book 7, Drona Parva, translated into English prose by Kisari Mohan Ganguli,
+    with scanning and proofing notes.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain; supplied metadata permits full-text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward, but motif interpretation is limited
+    because the supplied passage consists of footnotes and title material rather than
+    a full narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol is directly present in the passage. No taxonomy motif reference was assigned because the stated pattern of rewarded battlefield bravery does not clearly match the supplied motif-family list.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l38040-l38067
+  passage_sha256=732fbc3c440dec47d7b541744126182e82138a2a9a4ed7b46b11ffb0d7d53350
+

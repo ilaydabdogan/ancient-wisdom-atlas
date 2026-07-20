@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.hindu-markandeya-purana-pargiter-archive-l19129-l19220
+source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+passage_locator:
+  label: Canto LYIII. / CANTO IiYITI. / CANTO LVIH. / CANTO LVni.; lines 19129-19220
+  start: '19129'
+  end: '19220'
+  translation: The Markandeya Purana
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A section on countries and races lists several peoples as occupying the
+    middle of a Tortoise lying in water. It then states that the constellations Krittika,
+    Rohini, and Saumya reveal weal and woe to those peoples, addressing a brahman.
+    Translator notes discuss uncertain readings and geographical identifications for
+    some names.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists multiple peoples or races, including Kala-kotisas, Pashandas,
+    inhabitants of the Paripatra mountains, Kapingalas, a printed uncertain Kuru-related
+    name, Udumbara people, and Gajahvayas.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed peoples are described as being in the middle of the Tortoise.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The Tortoise is described as lying within water.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Krittika, Rohini, and Saumya are named as three constellations connected with
+    the listed peoples.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The three constellations are said to reveal weal and woe to the peoples dwelling
+    in the Tortoise's middle.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The statement is addressed to a brahman.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Translator notes in the passage indicate that some ethnonyms or readings are
+    uncertain and offer identifications for names such as Pashandas, Kurus, Udumbara,
+    and Gajahvaya.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Tortoise
+  description: A Tortoise lying within water, whose middle is assigned as the location
+    of named peoples.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Peoples of the Tortoise's middle
+  description: The aggregate of listed peoples or races dwelling in the Tortoise's
+    middle, including Kala-kotisas, Pashandas, Paripatra mountain inhabitants, Kapingalas,
+    an uncertain Kuru-related name, Udumbara people, and Gajahvayas.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Krittika, Rohini, and Saumya
+  description: Three constellations named as revealing weal and woe to the middle-dwelling
+    peoples.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Brahman addressee
+  description: A brahman addressed by the speaker in the statement about the constellations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: water-lying geographical frame
+  assigned_to:
+  - fig:1
+  basis: The Tortoise is the body-location whose middle contains the named peoples
+    and is said to lie in water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: middle-dwelling peoples
+  assigned_to:
+  - fig:2
+  basis: The listed peoples are described as dwelling in the Tortoise's middle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: revealers of weal and woe
+  assigned_to:
+  - fig:3
+  basis: The three named constellations reveal weal and woe to the peoples dwelling
+    in the middle.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: addressed listener
+  assigned_to:
+  - fig:4
+  basis: The line directly addresses a brahman.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tortoise-body middle
+  literal_form: The middle of the Tortoise as a place where peoples are located
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: water
+  literal_form: Water within which the Tortoise lies
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: three constellations
+  literal_form: Krittika, Rohini, and Saumya
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Paripatra mountains
+  literal_form: Mountains whose inhabitants are among the listed peoples
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Peoples located in the Tortoise's middle
+  summary: The passage enumerates peoples and places them in the middle of the Tortoise
+    lying within water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Constellations reveal fortune and misfortune
+  summary: Krittika, Rohini, and Saumya reveal weal and woe to the peoples dwelling
+    in the Tortoise's middle.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: peoples mapped onto the middle of a tortoise body
+  taxonomy_refs: []
+  basis: Named peoples are assigned to the middle of the Tortoise, which is described
+    as lying within water.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available taxonomy has no exact tortoise-body cartography motif; no
+    broader equivalence is asserted.
+- id: motif:2
+  label: constellations disclose collective fortune and misfortune
+  taxonomy_refs: []
+  basis: The passage states that three named constellations reveal weal and woe to
+    the peoples of the Tortoise's middle.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the mechanism, deity, ritual context, or
+    narrative consequences of this revelation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19129-19162; verse 9
+  quote_or_summary: The passage lists Kala-kotisas, Pashandas, inhabitants of the
+    Paripatra mountains, Kapingalas, a Kuru-related printed reading, Udumbara people,
+    and Gajahvayas among peoples placed in the middle region.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19160-19166; verse 9
+  quote_or_summary: The listed peoples are said to be in the middle of the Tortoise
+    as he lies within water.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19167-19173; verse 10
+  quote_or_summary: Krittika, Rohini, and Saumya are named as three constellations
+    that reveal weal and woe to the peoples dwelling in the Tortoise's middle.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: line 19173; verse 10
+  quote_or_summary: The speaker addresses the statement to a brahman.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19129-19220; translator notes
+  quote_or_summary: Translator notes discuss uncertain readings and possible geographical
+    or textual identifications for several names, including Pashandas, the Kuru-related
+    reading, Udumbara, and Gajahvaya.
+  source_text_path: texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main imagery of Tortoise, water, peoples, and constellations is clear, but
+    several names are OCR-corrupted or explicitly marked uncertain in the notes. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Kept OCR-uncertain names at an aggregate level and avoided assigning unsupported taxonomy beyond literal water and mountain symbols.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-markandeya-purana-pargiter-archive__l19129-l19220
+  passage_sha256=89ede1077384cd9d17238dbafd584726e7d880751b097aca8b516be1bf92a203
+

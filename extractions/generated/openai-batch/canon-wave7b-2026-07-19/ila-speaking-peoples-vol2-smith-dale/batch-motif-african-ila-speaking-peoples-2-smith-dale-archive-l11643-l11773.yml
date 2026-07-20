@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l11643-l11773
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: PT. V / TABLE OF ILA CONSONANTS / HISTORY OF THE SOUNDS / VOL. II U; lines
+    11643-11773
+  start: '11643'
+  end: '11773'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an expository discussion of Ila expressive descriptive particles.
+    It gives examples for falling, striking, tearing, quietness, pouring, sensory
+    qualities, colors, drinking, sucking, peeling, firmness, footsteps, rumbling,
+    and thunder, and compares these particles with selected French, Italian, Hebrew,
+    and onomatopoeic or echoic expressions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes Ila expressive descriptive particles as usually monosyllabic
+    forms that may be repeated or combined with another particle.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Several particles distinguish manners of falling: headlong, gradual or floating,
+    heavy or weary, rain-like pattering, and a tale example of Tortoise falling from
+    a great height.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage gives particles for striking the ground, tearing, indicating an
+    affair is finished, expressing calmness, a gun going off, spurting, and pouring
+    water from a pot.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage gives particles for sensations or qualities including heat, bitterness,
+    sourness, sweetness, darkness, redness, and whiteness.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage gives particles for drinking, sucking, peeling, firmness, striking,
+    footsteps, rumbling, dull thudding, and reverberating thunder.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The author compares the Ila particles with French, Italian, and Hebrew examples
+    while also distinguishing the Ila particles from ordinary articulated speech and
+    from ordinary onomatopoeia.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage contrasts the ordinary Ila word for red with the particle for
+    redness, saying the particle represents an immediate percept rather than functioning
+    like an ordinary conventional word.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Mwila speaker
+  description: A generic Ila-language speaker used in the examples of how the particles
+    are spoken and understood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Tortoise
+  description: A figure from a later tale mentioned as falling from a very great height,
+    represented by the particle sequence “Pididi, pididi, pididi.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: speaker of expressive descriptive particles
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes what a Mwila says or wants to know when
+    using expressive particles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: falling tale figure
+  assigned_to:
+  - fig:2
+  basis: Tortoise is mentioned as falling from a very great height in a later tale.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water poured from a pot
+  literal_form: water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Enumeration of Ila expressive particles
+  summary: The passage lists Ila particles and explains the actions, sounds, sensations,
+    or qualities they express.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Comparative linguistic discussion
+  summary: The passage compares Ila particles with selected French, Italian, and Hebrew
+    expressions, and discusses whether the Ila forms should be treated as echoisms
+    or onomatopoeia.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents a linguistic similarity between Ila expressive
+    particles and French or English sound-symbolic expressions such as the name Frou-frou,
+    while not treating them as identical in category.
+  claim_level: linguistic_similarity
+  target: French/English sound-symbolic expression “Frou-frou”
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is linguistic, not mythological; the passage gives only
+    brief examples.
+- id: claim:2
+  claim: The passage explicitly compares Italian “torno-torno” with Ila “zhingo-zhingo”
+    as similar repetitive phrasing used for meandering movement.
+  claim_level: linguistic_similarity
+  target: Italian repetitive phrase “Andava torno-torno” compared with Ila “Weenda
+    zhingo-zhingo”
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The author notes that this phrase is a further development toward a
+    regular adverb, not the same category as the basic interjectory particles.
+- id: claim:3
+  claim: The passage states that Hebrew verb repetition and Ba-ila constructions can
+    be compared, but it distinguishes those constructions from the interjectory particles
+    under discussion.
+  claim_level: linguistic_similarity
+  target: Hebrew repeated verbal construction compared with Ba-ila construction
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns grammatical construction, and the author explicitly
+    separates it from the main class of expressive particles.
+- id: claim:4
+  claim: The passage frames the Ila particles as echoisms in a broad sense, but says
+    they often echo mental sensation rather than only natural sounds.
+  claim_level: same_function
+  target: echoism or onomatopoeic sound-symbolism
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the author’s linguistic classification within the passage;
+    it is not evidence for a mythic motif or historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 11643-11773
+  quote_or_summary: The passage introduces Ila expressive descriptive particles for
+    action, movement, and sensation, noting that they are usually monosyllabic and
+    often repeated or combined.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 11643-11773
+  quote_or_summary: Examples for falling include Mba for falling headlong, Mbo for
+    falling gradually or floatingly, Mbwa for falling heavily, wa for continual pattering
+    like rain, and Pididi for Tortoise falling from a great height in a later tale.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11643-11773
+  quote_or_summary: Examples include Ti for striking the ground, Te for tearing or
+    an affair being finished, To-o/Wi/Ne-e for quiet or peacefulness, and Tu/Ntu-u
+    for a gun going off, spurting, or pouring water from a pot.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11643-11773
+  quote_or_summary: Examples include Pi for heat, Lu for bitterness, Bu-u for sourness,
+    Lwe for sweetness, Mbi for darkness, Pyu for redness, and Bu for whiteness.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 11643-11773
+  quote_or_summary: Examples include Mi for drinking, Mu for sucking, Mo for shedding
+    or peeling, Ka for firmness, Nka for striking, Di for footsteps, Ndo for rumbling,
+    Ndu for dull thudding, and Ndi for distant thunder reverberation.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 11643-11773
+  quote_or_summary: The author compares these Ila particles with French Frou-frou,
+    Italian torno-torno, and Hebrew repeated verbal forms, but says the Ila interjectory
+    particles are in a different category from articulated speech and ordinary onomatopoeia.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 11643-11773
+  quote_or_summary: The author says Pyu represents the immediate percept of redness
+    and contrasts it with the ordinary word subila, described as a conventional sign
+    for red.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: medium
+  notes: The passage is primarily linguistic exposition rather than myth narrative.
+    No mythological motif candidate is extracted; comparison claims are limited to
+    linguistic similarities explicitly made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact, common-inheritance, or archetypal claims are made. Taxonomy use is limited to the literal occurrence of water as an example object in the linguistic exposition.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l11643-l11773
+  passage_sha256=4d6fc483db60362209673eaa845b2ee0bc363c70a95663283c0cb4e24b0c4609
+

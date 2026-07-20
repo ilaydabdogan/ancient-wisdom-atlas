@@ -1,0 +1,203 @@
+---
+record_id: batch.motif.hindu-vedic-hymns-oldenberg-sbe46-archive-l3645-l3695
+source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+passage_locator:
+  label: MANDALA I, HYMN 669. 67 / MANDALA 1. TAY VEN G9. / ASHTAKA J, ADHYAYVA 5;
+    VARGA 18. / MANDALA I, HYMN 69. 69; lines 3645-3695
+  start: '3645'
+  end: '3695'
+  translation: Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Philological notes on Mandala I, Hymn 69 discuss uncertain readings and
+    compare other Vedic passages. The notes cite passages in which an addressed figure
+    has performed manly works and, in one cited line, has killed Vrztra/Vvztra. Later
+    verse notes refer back to earlier comparisons.
+  language: English with transliterated Sanskrit terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is mainly textual and grammatical commentary comparing Samhitapatha
+    and Padapatha readings.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: The commentary notes uncertainty about a reading involving a repeated yat
+    and the verb ahan without an object.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A proposed emended translation describes a wonderful deed of the addressed
+    figure as accomplished on one and the same day.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A cited passage is translated as saying that the addressed figure has performed
+    manly works.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A cited passage is translated as saying that the addressed figure killed Vrztra/Vvztra
+    and performed a manly work.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The commentary groups several passages as having forms of aviveshiz or vived
+    with the object apak or apamsi.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Vrztra/Vvztra
+  description: Named being in a cited passage who is said to have been killed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: unnamed addressed figure
+  description: Second-person figure addressed as “thou” in cited translations, described
+    as performing manly works and killing Vrztra/Vvztra.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: performer of manly works and slayer
+  assigned_to:
+  - fig:2
+  basis: Cited translations address a figure as having performed manly works and killed
+    Vrztra/Vvztra.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: slain named opponent
+  assigned_to:
+  - fig:1
+  basis: The cited passage says that Vrztra/Vvztra was killed.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Cited killing of Vrztra/Vvztra and performance of manly work
+  summary: Within a quoted comparative passage, an unnamed addressed figure is said
+    to have killed Vrztra/Vvztra and performed a manly work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:2
+  label: Philological comparison of Vedic readings
+  summary: The commentator compares several Vedic passages and argues for correcting
+    or understanding particular readings involving forms of aviveshiz/vived and the
+    objects apak/apamsi.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Slaying of Vrztra/Vvztra as a manly deed
+  taxonomy_refs: []
+  basis: A cited comparative line says the addressed figure killed Vrztra/Vvztra and
+    performed a manly work.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is a philological note rather than a full mythic narrative;
+    it does not identify the slayer by name or describe Vrztra/Vvztra beyond being
+    killed.
+comparison_claims:
+- id: claim:1
+  claim: The commentary makes a linguistic comparison among several Vedic passages
+    involving forms of aviveshiz or vived with the objects apak/apamsi.
+  claim_level: linguistic_similarity
+  target: Cited Vedic passages IV, 19, 10; X, 147, 1; X, 76, 3; VI, 31, 3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a grammatical and textual comparison; it does not by itself
+    establish a broader shared mythic motif beyond the cited Vrztra/Vvztra-slaying
+    formula.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3645-3654
+  quote_or_summary: The note compares X, 147, 1 and says that the double yat and use
+    of ahan without an object raise suspicion about the reading.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 3654-3658
+  quote_or_summary: "“this wonderful deed of thine has been accomplished on one and
+    the same day”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3660-3668
+  quote_or_summary: The commentator says the correction concerns the ancient grammatical
+    commentary preserved in the Padapatha, contrasting Padapatha and Samhitapatha
+    readings.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 3669-3671
+  quote_or_summary: "“thou hast performed manly works”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 3671-3675
+  quote_or_summary: "“when thou hast killed Vvztra and performed thy manly work”"
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; short quotation for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 3675-3687
+  quote_or_summary: The note states that three passages have aviveshiz or vived with
+    the object apak/apamsi and extends the same observation to VI, 31, 3.
+  source_text_path: texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is limited by OCR irregularities and by the fact that
+    the passage is commentary, not a complete hymn narrative. The linguistic comparison
+    is explicit in the passage; the motif candidate is based only on the cited Vrztra/Vvztra-slaying
+    line.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy item was assigned because the passage does not explicitly identify Vrztra/Vvztra as a serpent or give a symbolic object such as fire, water, tree, mountain, milk, or cave.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-vedic-hymns-oldenberg-sbe46-archive__l3645-l3695
+  passage_sha256=cbb4f2122a6ada724748b497ab2e9a9041d3b3c60fa670e046b9622caa0520cf
+

@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.native-american-myths-traditions-crow-lowie-archive-l163-l255
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+passage_locator:
+  label: INTRODUCTION . 7 / OLD-MAN-COYOTE CYCLE . 14 / HERO TALES . 52 / TALES OF
+    SUPERNATURAL PATRONS . 152; lines 163-255
+  start: '163'
+  end: '255'
+  translation: Myths and Traditions of the Crow Indians
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A table-of-contents passage listing section headings and tale titles, including
+    a Hero Tales section, a Tales of Supernatural Patrons section, and a Miscellaneous
+    Tales section. The titles name celestial bodies, animals, hybrid or nonhuman figures,
+    kinship roles, wardship, tests, rescue, and escape episodes, but no full narrative
+    episodes are included in this line range.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a contents-style list with section headings and tale titles,
+    some with page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:2
+  text: A heading labeled Hero Tales is followed by individual tale titles, including
+    titles naming the Sun, Morningstar, Buffalo-Wife, Thunderbirds, and a son-in-law’s
+    tests.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:3
+  text: A heading labeled Tales of Supernatural Patrons is followed by titles including
+    a visit to the Sun, a crow going to Birds’ Country, the Bulls’ Ward, the Dwarf’s
+    Ward, and Dwarf Tracks.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: obs:4
+  text: The continuation of titles includes benefaction language in titles where the
+    Moon or Birds befriend human figures.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Miscellaneous Tales list includes titles naming animal, celestial, or
+    hybrid forms such as Bear-woman, the Dipper, Snake-Man, giants and buffalo, an
+    offended turtle, wolf and dog, a drowned crow, and adventures with buffalo.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Sun
+  description: Named in titles about a contest with the Sun and a visit to the Sun.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Morningstar
+  description: Named in the title Yellow-Dog and the Morningstar.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Moon
+  description: Named in a title where a poor couple is befriended by the Moon.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: Birds
+  description: Named in titles involving Birds’ Country and a gambler befriended by
+    Birds.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Bulls
+  description: Named in the title The Bulls’ Ward.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:6
+  name_or_label: Dwarf
+  description: Named in the titles The Dwarf’s Ward and Dwarf Tracks.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:7
+  name_or_label: Snake-Man
+  description: Named as a title in the Miscellaneous Tales list.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:8
+  name_or_label: Thunderbirds
+  description: Named as a title in the Hero Tales section.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:9
+  name_or_label: Buffalo-Wife
+  description: Named as a title in the Hero Tales section.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: celestial title figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The titles name the Sun, Morningstar, and Moon.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: benefactor named in title
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The titles say a poor couple is befriended by the Moon and a gambler is befriended
+    by Birds.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ward-related title figure
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The titles use wardship language in The Bulls’ Ward and The Dwarf’s Ward.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: animal, bird, or hybrid title figure
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:8
+  - fig:9
+  basis: The titles name birds, bulls, Snake-Man, Thunderbirds, and Buffalo-Wife.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: Sun
+  literal_form: Sun named in titles involving a contest and a visit.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: Morningstar
+  literal_form: Morningstar named in the title Yellow-Dog and the Morningstar.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: Moon
+  literal_form: Moon named as befriending a poor couple in a title.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: Birds and Birds’ Country
+  literal_form: Birds’ Country and Birds named in titles.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: Buffalo or bull form
+  literal_form: Bulls, Buffalo-Wife, giants’ buffalo, and adventures with buffalo
+    named in titles.
+  associated_figures:
+  - fig:5
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: sym:6
+  label: Snake-human figure
+  literal_form: The Snake-Man.
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:7
+  label: Dipper
+  literal_form: The Dipper named as a title.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Hero-tale grouping
+  taxonomy_refs: []
+  basis: The passage explicitly labels a section Hero Tales and lists multiple titles
+    beneath it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an editorial/table-of-contents grouping, not a narrated mythic
+    episode.
+- id: motif:2
+  label: Supernatural patronage and wardship
+  taxonomy_refs: []
+  basis: The passage explicitly labels a section Tales of Supernatural Patrons and
+    includes wardship and benefaction titles such as The Bulls’ Ward, The Dwarf’s
+    Ward, The Poor Couple befriended by the Moon, and The Gambler befriended by Birds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The line range provides titles only; the actual patron actions and narrative
+    functions are not described here.
+- id: motif:3
+  label: Celestial encounter or celestial benefactor
+  taxonomy_refs: []
+  basis: Titles name a contest with the Sun, a visit to the Sun, Morningstar, and
+    a poor couple befriended by the Moon.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The titles support the presence of celestial figures, but not the full
+    narrative structure of the encounters.
+- id: motif:4
+  label: Bird or animal helper and nonhuman country
+  taxonomy_refs: []
+  basis: Titles mention a crow going to Birds’ Country and a gambler befriended by
+    Birds; other titles name bulls, buffalo, turtle, wolf, dog, and bear-woman forms.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: low
+  cautions: Animal-helper or animal-realm functions are inferred only from titles
+    and section placement.
+- id: motif:5
+  label: Serpent or snake-human figure
+  taxonomy_refs:
+  - serpent
+  basis: The Miscellaneous Tales list includes the title The Snake-Man.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: low
+  cautions: Only the title is present; no serpent action, transformation, or symbolic
+    function is narrated in this passage.
+- id: motif:6
+  label: Tests of a son-in-law
+  taxonomy_refs: []
+  basis: The Hero Tales list includes the title The Son-in-law’s Tests.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The title directly names tests, but the nature, agent, and outcome of
+    the tests are absent from this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 163-255, Hero Tales entries
+  quote_or_summary: The passage has a Hero Tales heading with titles including Old-Woman’s-Grandchild,
+    Lodge-Boy and Thrown-Away, The Orphan’s Contest with the Sun, Yellow-Dog and the
+    Morningstar, Corn-Silk and Her Son, The Buffalo-Wife, The Thunderbirds, and The
+    Son-in-law’s Tests.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:2
+  type: summary
+  locator: lines 163-255, Tales of Supernatural Patrons entries
+  quote_or_summary: The passage has a Tales of Supernatural Patrons heading with titles
+    including Burnt-Face, A Visit to the Sun, The Crow who went to the Birds’ Country,
+    The Bulls’ Ward, The Dwarf’s Ward, Dwarf Tracks, and The Tyrant and the Poor Young
+    Man.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:3
+  type: summary
+  locator: lines 163-255, continuation of title list after volume header
+  quote_or_summary: The title list continues with One-eye, Raven-face, The Poor Couple
+    befriended by the Moon, The Compassionate Brother-in-law, The Spurned Lover, Hu'ara'wic,
+    The Gambler befriended by Birds, and The Eagle-catcher.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:4
+  type: summary
+  locator: lines 163-255, Miscellaneous Tales entries
+  quote_or_summary: A Miscellaneous Tales heading is followed by titles including
+    Red-woman, The Bear-woman, The Dipper, Splinter-foot, Sharpened-leg, The Snake-Man,
+    The Giants and their Buffalo, The Offended Turtle, The Deserted Children, The
+    Wolf and the Dog, The Shaman who looked for the Drowned Crow, The Woman-Snatcher,
+    The Man who rescued his Brother-in-law, The Woman who escaped from the Enemy,
+    and Adventures with Buffalo.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain; source metadata allows full text use.
+- id: ev:5
+  type: quote
+  locator: lines 163-255, celestial title references
+  quote_or_summary: "“The Orphan’s Contest with the Sun”; “Yellow-Dog and the Morningstar”;
+    “A Visit to the Sun”; “The Poor Couple befriended by the Moon”."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain; short quotation from public-domain source.
+- id: ev:6
+  type: quote
+  locator: lines 163-255, nonhuman and wardship title references
+  quote_or_summary: "“The Crow who went to the Birds’ Country”; “The Bulls’ Ward”;
+    “The Dwarf’s Ward”; “The Gambler befriended by Birds”; “The Snake-Man”; “Adventures
+    with Buffalo”."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md
+  rights_note: Public domain; short quotation from public-domain source.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The line range is a table of contents rather than a narrative passage. Section
+    labels and titles support limited extraction of title-level figures, symbols,
+    and candidate motifs, but narrative functions remain uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare these titles with other motif families, texts, or traditions.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:native-american-myths-traditions-crow-lowie-archive__l163-l255
+  passage_sha256=e7c423c7cbeb52bc80c4c088839cbd5aeacf85349f94b1e74b4c8c525ab03e20
+

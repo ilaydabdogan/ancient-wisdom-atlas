@@ -1,0 +1,198 @@
+---
+record_id: batch.motif.hindu-ramayana-valmiki-griffith-gutenberg-l36861-l36874
+source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+passage_locator:
+  label: Canto LI. The Combat. / Canto LX. Lakshman Reproved. / Canto LXX. Kabandha.
+    / BOOK IV.; lines 36861-36874
+  start: '36861'
+  end: '36874'
+  translation: The Rámáyan of Válmíki, translated into English verse
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: Book IV, Canto I opens with princes beside Pampá. Ráma, distressed, laments
+    as the fair flood lies before him, and he then speaks to Sumitrá’s son.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The supplied passage opens Book IV, Canto I, titled “Ráma’s Lament.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The princes stand by Pampá’s side, which is described as glorified by blooming
+    lilies.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Ráma is described as having a troubled heart and overthrown sense, and he
+    makes a piteous moan.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: As the fair flood lies before Ráma, the chief’s reason gives way and tender
+    thoughts awaken within him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ráma speaks to Sumitrá’s son.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The princes
+  description: A collective pair or group described as standing by Pampá’s side.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Ráma
+  description: Named figure who makes a piteous moan, is called the chief, and speaks
+    to Sumitrá’s son.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Sumitrá’s son
+  description: The person addressed by Ráma at the end of the passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: princes at Pampá
+  assigned_to:
+  - fig:1
+  basis: The passage states that the princes stood by Pampá’s side.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: lamenting chief
+  assigned_to:
+  - fig:2
+  basis: Ráma is described as distressed, making a piteous moan, and losing composure
+    before the fair flood.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: addressed companion
+  assigned_to:
+  - fig:3
+  basis: Ráma speaks to Sumitrá’s son.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Pampá / fair flood
+  literal_form: Waterbody beside which the princes stand and which lies before Ráma.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: blooming lilies
+  literal_form: Flowers described as glorifying Pampá’s side.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Ráma’s lament beside Pampá
+  summary: The princes stand beside lily-covered Pampá. Ráma, overcome by feeling
+    before the water, laments and speaks to Sumitrá’s son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: lament beside a waterbody
+  taxonomy_refs: []
+  basis: The passage centers on Ráma’s emotional collapse and piteous moan while the
+    fair flood of Pampá lies before him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The excerpt supports the descriptive pattern of lament by water, but it
+    does not state a broader cosmological, ritual, or comparative function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 36861-36874
+  quote_or_summary: "“BOOK IV. / Canto I. Ráma’s Lament.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 36861-36874
+  quote_or_summary: "“The princes stood by Pampá’s side / Which blooming lilies glorified.”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 36861-36874
+  quote_or_summary: Ráma is described with troubled heart and overthrown sense, making
+    a piteous moan.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 36861-36874
+  quote_or_summary: The fair flood lies before Ráma; his reason gives way and tender
+    thoughts awaken.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 36861-36874
+  quote_or_summary: "“As to Sumitrá’s son he spoke:”"
+  source_text_path: texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The figures, setting, and emotional action are explicit in the passage. Motif
+    labeling is limited to a descriptive passage-level pattern; no external comparison
+    is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a cautious cross-textual or historical comparison.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:hindu-ramayana-valmiki-griffith-gutenberg__l36861-l36874
+  passage_sha256=2a64a6fc15022ad1d67e0e455d32ec5f0ec85625d25e889b3511b3199b4d23b8
+

@@ -1,8 +1,8 @@
 ---
 manifest_version: '1'
 batch_id: auto-ingestion-queue
-created_date: '2026-07-17'
-updated_date: '2026-07-17'
+created_date: '2026-07-19'
+updated_date: '2026-07-19'
 artifacts:
 - id: artifact.gutenberg_thompson-1928-gilgamesh
   work_id: mesopotamian.gilgamesh.epic_thompson_archive
@@ -27,7 +27,7 @@ artifacts:
     path: texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md
     checksum:
       algorithm: sha256
-      value: 06a78d90edfa298483405803441f954a730fcfe639d4713dae088f3130583a19
+      value: a3a7ce5bda1db12c3784b48880b7eed34dfdca527ede052b2dbe21d2d2273ed8
     media_type: text/markdown
     notes: Canonical reviewed Markdown corpus text.
   converter:
@@ -60,7 +60,7 @@ artifacts:
   review:
     status: auto_promoted_from_rights_cleared_queue
     reviewer: Codex
-    review_date: '2026-07-17'
+    review_date: '2026-07-19'
     notes: Auto-promoted from a queue item whose rights fields explicitly allowed
       full-text and training use. Human spot review is still recommended.
   extraction:

@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l2573-l2596
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: PRIMITIVE INDIAN LIFE / PRIMITIVE INDIAN LIFE / PRIMITIVE INDIAN LIFE / PRIMITIVE
+    INDIAN LIFE; lines 2573-2596
+  start: '2573'
+  end: '2596'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: When there is no moon, the Indians depend almost entirely on the glow of
+    their fires for light
+  summary: 'The narrator describes nighttime lighting in Indigenous camp life: in
+    moonless conditions people rely mainly on fires, sometimes on palm-leaf torches,
+    improvised wax candles, or resinous palo santo wood. A brief preceding incident
+    mentions an old billy-goat disturbing the narrator’s mosquito net.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An old billy-goat charges the narrator’s net, opens a gap, looks into the
+    narrator’s face, and allows mosquitoes to enter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When there is no moon, the Indians rely almost entirely on the glow of fires
+    for light.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: They also make palm-leaf torches that produce bright light for a short time.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: They sometimes improvise rough wax candles that give faint, flickering light.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The palo santo tree contains much resin, and a piece placed on the fire burns
+    with a bright, longer-lasting flame that needs little attention.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The narrator frames these details as a brief glance at the Indians’ primitive
+    existence and says the subject will not be exhausted in the book.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Narrator
+  description: First-person observer who reports being awakened by the net being charged
+    and comments on Indigenous life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Indians
+  description: People described as using fires, palm-leaf torches, wax candles, and
+    palo santo wood for light.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: old billy-goat
+  description: Animal seen looking into the narrator’s face after charging the net.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: first-person observer
+  assigned_to:
+  - fig:1
+  basis: The passage uses first-person narration to describe being awakened and to
+    evaluate the described way of life.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: users of nighttime light sources
+  assigned_to:
+  - fig:2
+  basis: The passage says they depend on fires when there is no moon and also make
+    torches, candles, and use palo santo wood.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: animal disturber
+  assigned_to:
+  - fig:3
+  basis: The goat charges the net and opens a gap through which mosquitoes enter.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: firelight
+  literal_form: fires used for light at night
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: palm-leaf torch
+  literal_form: torches of palm-leaves giving bright but short-lived light
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: wax candle
+  literal_form: rough improvised candles of wax giving faint, flickering light
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: palo santo tree
+  literal_form: resinous tree wood that burns with a bright lasting flame
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: moonless night
+  literal_form: absence of moonlight requiring artificial light sources
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: mosquito net breach
+  literal_form: gap made in the narrator’s net by the goat, admitting mosquitoes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Goat disturbs the narrator’s mosquito net
+  summary: The narrator reports being awakened when an old billy-goat charges the
+    net, looks in, and leaves a gap through which mosquitoes enter.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Lighting in moonless conditions
+  summary: In the absence of moonlight, the Indians rely primarily on fires and also
+    use palm-leaf torches, wax candles, and resinous palo santo wood as light sources.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2573-2577
+  quote_or_summary: The narrator is awakened when an old billy-goat charges the net,
+    looks into the narrator’s face, and mosquitoes enter through the gap.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 2579-2582
+  quote_or_summary: "“When there is no moon, the Indians depend almost entirely on
+    the glow of their fires for light,” and they also make palm-leaf torches that
+    give brief bright light."
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 2582-2588
+  quote_or_summary: They sometimes improvise rough wax candles; palo santo wood, rich
+    in resin, burns on the fire with a bright and longer-lasting flame requiring little
+    attention.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 2590-2596
+  quote_or_summary: The narrator says the brief survey suggests the Indians’ existence
+    is not the simple life often credited to them and notes that later chapters address
+    more phases without exhausting the subject.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is ethnographic description of lighting practices and a minor
+    animal incident; it contains no explicit mythic narrative or supported comparative
+    claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs or comparison claims were added because the passage itself does not support mythological or comparative interpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l2573-l2596
+  passage_sha256=f05343f11e1f79960050a74a6aff6ebc6df1d0de956bbe9ebf2b08d1de728b3b
+

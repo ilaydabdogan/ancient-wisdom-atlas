@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.burmese-soul-of-a-people-fielding-hall-archive-l5868-l5935
+source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+passage_locator:
+  label: I70 THE SOUL OF A PEOPLE / FESTIVALS 171 / FESTIVALS , 173 / FESTIVALS 175;
+    lines 5868-5935
+  start: '5868'
+  end: '5935'
+  translation: The Soul of a People
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a Burmese pagoda festival: a sunlit pagoda and shrines,
+    happy crowds and bells, a seven-day feast whose greatest day is the full moon,
+    temporary stalls and refreshments, crowds moving up and down steps between gate
+    dragons, praying and offerings before shrines, sunset and moonrise, and the pagoda
+    and shrines lit by many oil lamps.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The setting includes a gold pagoda, red lacquer, dark-brown carved shrines,
+    bright sunlight, voices, bells, and gaily dressed people.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The feast lasts seven days; three days are greater, and the full-moon day
+    is the greatest.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: On the full-moon day, offerings are described as most numerous and the crowd
+    as densest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Temporary stalls and restaurants are set up below the pagoda, selling fairings,
+    clothing, food, and refreshments.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: People crowd the stalls to buy, sell, or look at the wares.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The crowd moves up and down the steps between the dragons of the gate, and
+    the platform is thick with people.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: All day the festival includes praying, offering gifts, and burning small candles
+    before shrines.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After sunset, the moon rises over misty fields, its light becoming white and
+    silver, while a night breeze carries tree fragrance.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: At night the pagoda and shrine fronts are lit with many small lamps arranged
+    in rows or circles.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The lamps are earthenware jars filled with coconut oil and fitted with a wick,
+    burning with red light.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: festival crowd
+  description: Collective crowd of gaily dressed people at the pagoda festival, including
+    people on the steps and platform and people praying, offering, buying, selling,
+    or looking at wares.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: stall sellers
+  description: People selling goods at the temporary stalls below the pagoda.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: worshippers or offering-makers
+  assigned_to:
+  - fig:1
+  basis: The passage states that the festival includes praying, offering gifts, and
+    burning candles before shrines.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: festival visitors and buyers
+  assigned_to:
+  - fig:1
+  basis: The passage describes people crowding stalls, buying, and looking at wares.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: market sellers
+  assigned_to:
+  - fig:2
+  basis: The passage mentions people buying and selling at the stalls.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: pagoda and shrines
+  literal_form: gold pagoda; red lacquer and dark-brown carved shrines; shrine fronts
+    lit at night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:2
+  label: full moon
+  literal_form: the day of the full moon; the rising moon over the fields
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: offerings and gifts
+  literal_form: offerings; offering of gifts before shrines
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: ritual fire and lamps
+  literal_form: little candles before shrines; small oil lamps or cressets with wicks
+    burning redly
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: gate dragons
+  literal_form: dragons of the gate beside the steps
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: festival market stalls
+  literal_form: temporary stalls, restaurants, fairings, clothing, rice and curry,
+    cakes, vermicelli
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:7
+  label: festival numbers
+  literal_form: seven days; three greater days; one greatest full-moon day
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: sunlit pagoda festival atmosphere
+  summary: The passage presents the pagoda and shrines in bright sunlight, with gaily
+    dressed people, voices, bells, and a festive mood.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: full-moon feast and market below the pagoda
+  summary: The feast lasts seven days and culminates on the full moon, when offerings
+    and crowds are greatest; temporary stalls and restaurants below the pagoda provide
+    goods and refreshments.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: crowd on steps and platform with shrine offerings
+  summary: The crowd moves up and down the steps between the gate dragons and gathers
+    thickly on the platform while prayers, gifts, and candle burning continue before
+    the shrines.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: moonrise and lamp-lit pagoda
+  summary: After sunset the moon rises, the night breeze carries fragrance, and the
+    pagoda and shrine fronts are illuminated by many small oil lamps arranged in rows
+    and circles.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: full-moon pagoda festival
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that the feast lasts seven days and that the full-moon
+    day is the greatest, with the densest crowd and most offerings.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives lunar timing but does not name the festival or explain
+    an annual or seasonal cycle.
+- id: motif:2
+  label: offerings at a sacred site
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The festival includes numerous offerings, praying, offering gifts, and burning
+    candles before shrines.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage describes giving and devotion but does not state a reciprocal
+    divine response or doctrinal interpretation.
+- id: motif:3
+  label: ritual illumination of sacred architecture
+  taxonomy_refs: []
+  basis: At night the pagoda and shrine fronts are hung with many small lamps, and
+    candles are burned before shrines.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The passage describes the illumination but does not explain its ritual
+    meaning beyond the festival setting.
+- id: motif:4
+  label: festival market adjoining a shrine
+  taxonomy_refs: []
+  basis: Temporary stalls, restaurants, fairings, clothing, and food are described
+    below the pagoda during festival days.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a social-festival pattern rather than a mythic narrative motif
+    in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The full-moon feast can be cautiously compared at the level of function to
+    lunar calendrical festival patterns, since the passage makes the full moon the
+    greatest day for crowds and offerings.
+  claim_level: same_function
+  target: lunar or full-moon sacred festival pattern; motif family seasonal_cycle
+  evidence_refs:
+  - ev:2
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide the festival name, annual placement, origin
+    story, or cross-textual comparison.
+- id: claim:2
+  claim: The praying, gift-offering, and candle burning before shrines fit a broad
+    sacred-offering pattern, but only the human acts of devotion are described.
+  claim_level: same_function
+  target: sacred offering pattern; motif family sacred_exchange
+  evidence_refs:
+  - ev:2
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No explicit exchange, vow, miracle, merit result, or divine response
+    is stated in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5870-5883
+  quote_or_summary: The passage describes brilliant sunlight, a gold pagoda, red lacquer
+    and dark-brown shrine carving, voices, fairy bells, a great bell, gaily dressed
+    people, and happiness.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain; summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5885-5895
+  quote_or_summary: '"The feast lasts for seven days" and the full-moon day is described
+    as "the greatest of all," with the most offerings and densest crowd; stalls and
+    restaurants stand below the pagoda.'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 5897-5903
+  quote_or_summary: The temporary stalls are crowded with people buying, selling,
+    or looking at wares; refreshments include rice and curry, sugar-cakes, vermicelli,
+    and other cakes.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 5905-5908
+  quote_or_summary: The crowd goes "up and down the steps" and flows "between the
+    dragons of the gate"; the platform is also crowded.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 5909-5911
+  quote_or_summary: '"All day the festival goes on — the praying, the offering of
+    gifts, the burning of little candles before the shrines" until sunset.'
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 5911-5925
+  quote_or_summary: After sunset, moonlight rises in the east over misty fields; the
+    moon changes from crimson to white, casts silver light and black shadows, and
+    a gentle breeze carries tree fragrance.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 5927-5934
+  quote_or_summary: The pagoda and shrine fronts are lit by many little lamps or cressets
+    arranged in rows and circles; they are earthenware jars filled with coconut oil
+    and fitted with wicks, burning redly.
+  source_text_path: texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md
+  rights_note: Public domain; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is descriptive. Motif and
+    comparison labels are cautious because the passage does not name the festival,
+    explain doctrine, or provide cross-textual parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Interpretive claims are limited to broad motif-family alignment supported by the described festival actions and lunar timing.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:burmese-soul-of-a-people-fielding-hall-archive__l5868-l5935
+  passage_sha256=6051950b60553872ee7ae426dabf83ca2cb69972563b6d7f59e18fd31dc9497f
+

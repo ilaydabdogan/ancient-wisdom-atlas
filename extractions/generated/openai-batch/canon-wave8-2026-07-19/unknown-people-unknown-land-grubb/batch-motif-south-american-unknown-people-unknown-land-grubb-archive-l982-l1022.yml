@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.south-american-unknown-people-unknown-land-grubb-archive-l982-l1022
+source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+passage_locator:
+  label: DANGERS OF ENTRANCE / DANGERS OF ENTRANCE / DANGERS OF ENTRANCE / DANGERS
+    OF ENTRANCE; lines 982-1022
+  start: '982'
+  end: '1022'
+  translation: 'An Unknown People in an Unknown Land: An Account of the Life and Customs
+    of the Lengua Indians of the Paraguayan Chaco'
+  notes: Generated from OpenAI Batch run canon-wave8-2026-07-19; human review required.
+canonical_text:
+  quote: looked upon me from the beginning as a foreign wizard
+  summary: The narrator reflects on dangers he faced when entering the Chaco. He says
+    that local suspicion, beliefs about sickness and dreams, his perceived status
+    as a foreign wizard, and a serious mistranslation of his peace message into a
+    claim of friendship with an evil spirit all increased the danger to him.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The narrator frames entrance into the Chaco as placing himself in local people's
+    hands and as dangerous.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He identifies a greater danger as not only hostility to foreigners but also
+    local fears he calls superstitious.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: He says that if sickness had occurred in a village he passed through, he likely
+    would have been held responsible, and deaths could have led to his being killed
+    under local laws.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: He says local beliefs about dreams could provide grounds for accusations against
+    him, especially because he was a lone foreigner and mysterious to the people.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The people regarded the narrator from the beginning as a foreign wizard.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator's inquiries into customs, religious rites, and beliefs increased
+    his danger.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The narrator attempted to explain that he came with a message of peace and
+    sought the people's spiritual welfare.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Because of limited knowledge of the language, he unintentionally told the
+    people that he was the intimate friend of the greatest evil spirit and had come
+    to make them better acquainted with that being.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The listeners are described as already knowing enough about the evil spirit
+    and as viewing the narrator's claimed friendship and service to that being unfavorably.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: After learning more local customs, the narrator realized he had unknowingly
+    risked many dangers.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the narrator / lone foreigner
+  description: A foreigner travelling alone in the Chaco who inquires into local customs,
+    religious rites, and beliefs, and who is regarded as a foreign wizard.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: local Indigenous people / village communities
+  description: The people among whom the narrator travels; in his account they may
+    blame sickness or deaths on him, make accusations based on dreams, and react negatively
+    to his alleged association with an evil spirit.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: the greatest of evil spirits
+  description: A feared evil spirit whom the narrator unintentionally says he is closely
+    connected with and serving.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: foreigner travelling alone
+  assigned_to:
+  - fig:1
+  basis: The narrator describes himself as a foreigner travelling alone and therefore
+    mysterious to the people.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: suspected foreign wizard
+  assigned_to:
+  - fig:1
+  basis: The people are said to have viewed him from the beginning as a foreign wizard.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: would-be peaceful messenger
+  assigned_to:
+  - fig:1
+  basis: He tried to explain that he brought a message of peace and sought spiritual
+    welfare.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: local community with power to accuse or punish
+  assigned_to:
+  - fig:2
+  basis: The narrator says they could hold him responsible for sickness or deaths
+    and make accusations based on dreams.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: feared evil spirit
+  assigned_to:
+  - fig:3
+  basis: The being is called the greatest of evil spirits, and the people are described
+    as not wishing further acquaintance with him.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: dreams as grounds for accusation
+  literal_form: dreams
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: greatest evil spirit
+  literal_form: evil spirit being
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Hidden dangers of entrance
+  summary: The narrator explains that entering the Chaco exposed him to dangers from
+    hostility, blame for sickness or deaths, dream-based accusations, and being viewed
+    as a foreign wizard.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Mistranslated peace message
+  summary: The narrator tries to present himself as bringing peace and spiritual welfare,
+    but due to inadequate language knowledge he instead communicates that he is closely
+    connected with the greatest evil spirit, leading to distrust.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Retrospective realization of risk
+  summary: After learning more about local customs, the narrator realizes the extent
+    of dangers he had unknowingly encountered.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: outsider blamed for sickness and death
+  taxonomy_refs: []
+  basis: The narrator states that sickness in a village he passed through could have
+    been blamed on him, and deaths could have justified his killing under local laws.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is presented as the narrator's hypothetical assessment, not as an
+    observed incident in this passage.
+- id: motif:2
+  label: dreams producing accusations against a mysterious stranger
+  taxonomy_refs: []
+  basis: The passage says beliefs about dreams could supply many accusations against
+    a lone foreigner who was mysterious to the people.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage refers to dream beliefs briefly and points to another chapter
+    for detail.
+- id: motif:3
+  label: foreigner perceived as wizard
+  taxonomy_refs: []
+  basis: The people are said to have looked on the narrator from the beginning as
+    a foreign wizard, and his inquiries into religious customs increased danger.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The label reflects the narrator's account of local perception.
+- id: motif:4
+  label: peace message transformed into alliance with an evil spirit
+  taxonomy_refs: []
+  basis: The narrator tries to explain a peaceful spiritual mission, but his inadequate
+    language knowledge makes him say he is the intimate friend and servant of the
+    greatest evil spirit.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a communication-failure pattern in an ethnographic narrative,
+    not a mythic episode narrated by the community.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 982-986
+  quote_or_summary: The narrator says that placing himself entirely in local hands
+    during entrance into the Chaco was a dangerous course.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 987-996
+  quote_or_summary: The narrator identifies danger from local fears beyond hostility
+    to foreigners and says sickness or deaths in a village he had passed through could
+    lead to blame and possibly his death under local laws.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 996-1003
+  quote_or_summary: Beliefs regarding dreams are said to provide grounds for accusations;
+    as a lone foreigner and a mystery, the narrator expects he would become the subject
+    of many dreams.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1003-1009
+  quote_or_summary: The people are said to have viewed the narrator from the beginning
+    as a foreign wizard, and his inquiries into customs, rites, and beliefs increased
+    his danger.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1010-1014
+  quote_or_summary: The narrator tries to explain that he comes with a message of
+    peace and seeks the people's spiritual welfare.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1014-1019
+  quote_or_summary: Through inadequate knowledge of the language, the narrator unintentionally
+    tells the people he is the intimate friend of the greatest evil spirit and has
+    come to make them better acquainted with him.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1019-1022
+  quote_or_summary: The people are described as knowing enough about the evil spirit
+    already, not wanting further acquaintance, and viewing the narrator's claimed
+    friendship and service to him unfavorably.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 1022
+  quote_or_summary: As he learns more of local customs, the narrator realizes he had
+    unknowingly risked many dangers.
+  source_text_path: texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as a first-person ethnographic reflection, but motif
+    candidates are framed as patterns within the narrator's account rather than myths
+    narrated by the community. No comparison claims are made because the passage supplies
+    no explicit comparative link.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Taxonomy references were left empty because the available motif and symbol lists do not directly match the passage-level patterns without over-interpretation.
+  batch_run_id=canon-wave8-2026-07-19
+  custom_id=motif_extract:south-american-unknown-people-unknown-land-grubb-archive__l982-l1022
+  passage_sha256=743b71a848c10725209741c61768cc08afed036a0229754bf30971125d32f457
+

@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.melanesian-tales-from-old-fiji-fison-archive-l1267-l1304
+source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+passage_locator:
+  label: A  CHIEF'S  GRAVE-MOUND / INTRODUCTION / XX  INTRODUCTION / BEWILDERING    A    GHOST.;
+    lines 1267-1304
+  start: '1267'
+  end: '1304'
+  translation: Tales from Old Fiji
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: makes ready the strangling cord, or goes forth to dig the grave
+  summary: The passage describes elderly parents as safe while they remain useful,
+    but liable to be strangled or buried once considered unproductive. It presents
+    this as an established custom, sometimes requested by the old people themselves,
+    and links it to a communal-family survival logic. It also states that Fijian beliefs
+    about life after death offer terror rather than comfort, with annihilation imagined
+    as possible under some circumstances.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Elderly parents are described as being in no danger while the mother can cook,
+    gather firewood, and carry waterpots, and while the father can help in the yam
+    plantation or otherwise be useful.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the parents are no longer considered useful, the son is described as
+    preparing a strangling cord or digging a grave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The practice is described as having the authority of long-established custom
+    and as being treated almost as a filial duty.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Old people are said sometimes to initiate the process by asking their children
+    to end their lives.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The narrator explains the practice as a possible relic of a communal-family
+    stage in which the tribe could not afford an unproductive member.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that Fijian belief about what comes after death provides
+    no comfort, includes much to terrify, and includes possible utter annihilation
+    under certain circumstances.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: elderly parents or old folks
+  description: The old mother and father are described as useful while they can perform
+    domestic or agricultural labor, but vulnerable once considered a burden; old people
+    sometimes request that their children end their lives.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: dutiful son or children
+  description: The son is described as preparing the strangling cord or grave when
+    elderly parents are considered no longer useful; children may be asked by old
+    people to end their lives.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: tribe as Communal Family
+  description: The tribe is described by the narrator as a communal family that, in
+    the struggle for existence, could not afford an unproductive member.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: departed soul
+  description: The departed soul is described as facing immediate dangers and a dreary
+    future after death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: productive elder while useful
+  assigned_to:
+  - fig:1
+  basis: The old mother and father are described as safe while they can perform household
+    or plantation labor.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: child as customary death-agent
+  assigned_to:
+  - fig:2
+  basis: The son prepares the strangling cord or digs the grave when parents are no
+    longer considered useful.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: elder as occasional requester of death
+  assigned_to:
+  - fig:1
+  basis: Old folks are said sometimes to request that their children put an end to
+    them.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: collective survival unit
+  assigned_to:
+  - fig:3
+  basis: The tribe is described as unable to be burdened with an unproductive member.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: postmortem sufferer
+  assigned_to:
+  - fig:4
+  basis: The departed soul is described as facing immediate dangers and a dreary future.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: strangling cord
+  literal_form: cord used for strangling
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: grave
+  literal_form: grave dug for the parent who is to be killed or buried
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: waterpots, firewood, and yam plantation labor
+  literal_form: domestic and agricultural labor objects or settings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Usefulness of elderly parents and preparation for death
+  summary: The passage contrasts elderly parents' safety while they can work with
+    the son's preparation of a strangling cord or grave when they are no longer useful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Customary and communal explanation
+  summary: The practice is framed as long-established custom, sometimes requested
+    by the old people, and explained as a relic of communal survival conditions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Fearful after-death prospect
+  summary: The narrator states that Fijian beliefs about death provide terror rather
+    than comfort, and that annihilation could be preferable to the dangers and dreary
+    future of the departed soul.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: customary killing of unproductive elders
+  taxonomy_refs: []
+  basis: The passage describes elderly parents being strangled or buried once they
+    are no longer considered useful, under a long-established custom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is presented in an introductory ethnographic argument rather than
+    as a narrated tale episode; the narrator's colonial-era framing should be reviewed.
+- id: motif:2
+  label: elder-requested death by children
+  taxonomy_refs: []
+  basis: The old people are said sometimes to take the initiative and ask their children
+    to end their lives.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage says this happens sometimes but gives no specific narrative
+    example in the selected range.
+- id: motif:3
+  label: terrifying afterlife with possible annihilation
+  taxonomy_refs: []
+  basis: The passage says Fijian belief after death contains terror, possible utter
+    annihilation under some circumstances, and immediate dangers for the departed
+    soul.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not specify the circumstances of annihilation or describe
+    the afterlife dangers in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1269-1278
+  quote_or_summary: Elderly parents remain safe while useful; when they are no longer
+    useful, the son prepares a strangling cord or digs a grave.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: 1278-1284
+  quote_or_summary: The practice is described as long-established custom, almost a
+    filial duty, and old people sometimes request that children end their lives.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: 1284-1294
+  quote_or_summary: The narrator interprets the practice as a relic of a communal-family
+    stage in which the tribe could not support unproductive members and individual
+    family affection was weak.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: 1296-1303
+  quote_or_summary: The passage says Fijian belief about what follows death gives
+    no comfort, includes much terror, and treats possible utter annihilation as preferable
+    to the dangers and dreary future of the departed soul.
+  source_text_path: texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is limited to the supplied passage. Motif candidates are clear
+    at a social-pattern level but come from an introductory ethnographic discussion,
+    not a complete tale episode. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available taxonomy references were not applied because the passage does not clearly instantiate the provided motif families or listed symbols beyond non-taxonomic literal objects.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:melanesian-tales-from-old-fiji-fison-archive__l1267-l1304
+  passage_sha256=5011d50d8c368a3d864e6c2ffce37116af7f2baab5571d115354ff7df721a3bc
+

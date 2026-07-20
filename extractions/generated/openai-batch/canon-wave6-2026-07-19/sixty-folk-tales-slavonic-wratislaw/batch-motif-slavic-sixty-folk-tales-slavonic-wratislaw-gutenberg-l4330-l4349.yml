@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg-l4330-l4349
+source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+passage_locator:
+  label: XIX.--THE PALE MAIDEN. / XX.--THE PLAGUE-SWARM. / EASTERN SLAVONIANS. / XXI.--THE
+    FROST, THE SUN, AND THE WIND.; lines 4330-4349
+  start: '4330'
+  end: '4349'
+  translation: Sixty Folk-Tales from Exclusively Slavonic Sources
+  notes: Generated from OpenAI Batch run canon-wave6-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: A man traveling alone meets the Sun, the Frost, and the Wind and gives
+    a Christian salutation. The three personified forces argue over which of them
+    was greeted. When they ask the man, he says the greeting was for the Wind. The
+    Sun threatens to burn him and the Frost threatens to freeze him, but the Wind
+    says he can protect the man by cooling him from the Sun and by withholding wind
+    so the Frost cannot harm him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man went out alone and met the Sun, the Frost, and the Wind on the road.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The man gave a salutation: “Praised [be the Lord Jesus Christ]!”'
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Sun, the Frost, and the Wind each claimed that the salutation was directed
+    to himself.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The three quarrelled and nearly pulled the mantles off each other's backs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: They overtook the man and asked to whom he had given the salutation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The man answered that the salutation was to the Wind.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Sun threatened to bake the man, and the Wind said he would blow and cool
+    him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Frost threatened to freeze the man, and the Wind said that by not blowing
+    he would prevent the Frost from freezing him.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A man traveling alone who gives a salutation and later states that
+    it was addressed to the Wind.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: the Sun
+  description: A personified Sun who claims the salutation and threatens to bake the
+    man.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: the Frost
+  description: A personified Frost who claims the salutation and threatens to freeze
+    the man.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: the Wind
+  description: A personified Wind who claims the salutation, is confirmed as its recipient,
+    and promises to protect the man from heat and frost.
+  role_refs:
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: solitary traveler
+  assigned_to:
+  - fig:1
+  basis: The passage says the man went out alone and met the three figures on the
+    road.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: giver of salutation
+  assigned_to:
+  - fig:1
+  basis: The man gives the salutation and later identifies its recipient.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: personified natural force
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The Sun, Frost, and Wind speak, argue, and act as persons.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: claimant in dispute
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Each figure claims that the salutation was meant for him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: threatening force
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Sun threatens to bake the man, and the Frost threatens to freeze him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: protector through wind-control
+  assigned_to:
+  - fig:4
+  basis: The Wind says he will cool the man against the Sun and withhold blowing so
+    the Frost cannot harm him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: salutation
+  literal_form: The spoken greeting “Praised [be the Lord Jesus Christ]!”
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: Sun
+  literal_form: A speaking Sun associated with the power to burn or bake.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: Frost
+  literal_form: A speaking Frost associated with the power to freeze.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: Wind
+  literal_form: A speaking Wind whose blowing can cool heat and whose absence can
+    prevent frost from freezing.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: mantles
+  literal_form: Mantles on the backs of the quarrelling figures.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: roadside encounter and salutation
+  summary: A man traveling alone meets the Sun, the Frost, and the Wind on the road
+    and greets them with a Christian salutation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: quarrel over the greeting
+  summary: The Sun, Frost, and Wind dispute which of them received the salutation
+    and nearly come to physical conflict.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: confirmation by the man
+  summary: The three figures overtake the man and ask him to identify the intended
+    recipient; he says the greeting was to the Wind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: threats and Wind’s protection
+  summary: The Sun threatens to bake the man and the Frost threatens to freeze him,
+    but the Wind says he can counter both dangers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: personified natural forces disputing honor
+  taxonomy_refs: []
+  basis: The Sun, Frost, and Wind speak as persons and quarrel over which of them
+    received the man's salutation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader taxonomy ID is assigned because the passage presents a short
+    etiological-style dispute rather than a complete named mythic cycle.
+- id: motif:2
+  label: greeting selects a protecting power
+  taxonomy_refs: []
+  basis: The man identifies the Wind as the recipient of the salutation, after which
+    the Wind assures him protection from the Sun and Frost.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not describe an explicit bargain; the protective response
+    follows recognition of the salutation.
+- id: motif:3
+  label: wind mediates between heat and cold
+  taxonomy_refs: []
+  basis: The Wind claims he can cool the man from the Sun's heat and can prevent Frost's
+    harm by not blowing.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is stated as practical power in the tale; no cosmological system
+    is explained.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4330-4335
+  quote_or_summary: 'The tale opens with a man going out alone, meeting the Sun, the
+    Frost, and the Wind on the road, and greeting them: “Praised [be the Lord Jesus
+    Christ]!”'
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4335-4339
+  quote_or_summary: The Sun, Frost, and Wind each state that the man's salutation
+    was addressed to himself.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4339-4342
+  quote_or_summary: The three figures quarrel, nearly pull off each other's mantles,
+    and decide to ask the man which of them he greeted.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4342-4344
+  quote_or_summary: When asked, the man says the salutation was “To the Wind,” and
+    the Wind affirms that it was to him.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4344-4345
+  quote_or_summary: The Sun threatens to bake the man, and the Wind says he will blow
+    and cool him.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4346-4349
+  quote_or_summary: The Frost threatens to freeze the man, and the Wind says that
+    if he does not blow the Frost can do nothing to him.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    and not mapped to taxonomy IDs. No comparison claims are made because the passage
+    itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Public-domain English translation supplied by Project Gutenberg metadata. Line numbers follow the provided stable markdown range.
+  batch_run_id=canon-wave6-2026-07-19
+  custom_id=motif_extract:slavic-sixty-folk-tales-slavonic-wratislaw-gutenberg__l4330-l4349
+  passage_sha256=4beb6ee074ad0722c6b0d713568227eb34b6bf48b91215ec35c22a9eff9a8188
+

@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.celtic-popular-tales-west-highlands-v2-campbell-archive-l12593-l12655
+source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+passage_locator:
+  label: THE CAT AND THE MOUSE. 405 / THE THREE QUESTIONS. / THK THREE QUESTIONS.
+    407 / RIDDLKS. 409; lines 12593-12655
+  start: '12593'
+  end: '12655'
+  translation: Popular Tales of the West Highlands, Volume 2
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage introduces a small collection of riddles collected by Hector
+    MacLean, mostly from a school-girl in Islay. The riddles describe and answer:
+    linseed; a man with a porridge pot on his head; a hare; Death, described as a
+    small figure with the world under his power; and the rainbow, described through
+    an image of a man in a green boat with red-threaded clothing.'
+  language: English with Scottish Gaelic terms and answers
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a group of riddles collected by Hector MacLean, most
+    of them from a little school-girl in Islay.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One riddle describes something no bigger than a flea that causes noise around
+    a market town and brings money home; the answer is linseed.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One riddle describes two feet down and three feet up, with the head of the
+    living in the mouth of the dead; the answer is a man with a porridge pot on his
+    head.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One riddle describes a small being over the hill with a cut in his nose, two
+    long teeth, and a tow-like tail; the answer is a hare.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One riddle describes a little curly, hasty one over the fall, with his shirt
+    tucked under his belt and the whole world under his power; the answer is Death,
+    and the text notes that this portrait varies from usual sketches.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: One riddle describes a distant figure over the sea, called the man of the
+    green boatie, with a shirt sewn with red thread; the answer is the rainbow.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Man with a porridge pot on his head
+  description: The answer to the riddle about two feet down, three feet up, and the
+    head of the living in the mouth of the dead.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Hare
+  description: The answer to the riddle describing a small being with a cut nose,
+    long teeth, and a tow-like tail.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Death
+  description: The answer to the riddle describing a little curly, hasty one with
+    the world under his power.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Man of the green boatie / rainbow
+  description: A figure in the rainbow riddle, described over the sea in a green boat
+    with a shirt sewn with red thread; the answer is the rainbow.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: riddle answer
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Each listed figure is given as the answer or answer-image of a riddle in
+    the passage.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: ordinary human figure in riddling disguise
+  assigned_to:
+  - fig:1
+  basis: The human figure is described indirectly through body-position imagery and
+    a porridge pot.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: animal answer described by bodily signs
+  assigned_to:
+  - fig:2
+  basis: The hare is identified through clues about nose, teeth, and tail.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: personified universal power
+  assigned_to:
+  - fig:3
+  basis: Death is described as a small figure with the whole world under his power.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: personified natural phenomenon
+  assigned_to:
+  - fig:4
+  basis: The rainbow is represented through a human-like figure associated with a
+    boat and clothing.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: linseed as tiny market-gain object
+  literal_form: 'A thing no bigger than a flea that brings money home; answer: linseed.'
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: porridge pot on head
+  literal_form: A porridge pot on a man's head, rendered as the head of the living
+    in the mouth of the dead.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: hare body signs
+  literal_form: Cut nose, two long teeth, and a tatter of tow about the tail.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Death's world-encompassing power
+  literal_form: The full of the world under his power.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: sea distance
+  literal_form: Two miles and ten over the sea.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: rainbow as colored clothing and boat image
+  literal_form: The man of the green boatie with his shirt sewn with a thread of red.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Riddle collection frame
+  summary: The text frames the following items as riddles collected by Hector MacLean,
+    mostly from a school-girl in Islay.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Linseed marketplace riddle
+  summary: A tiny object associated with market noise and bringing money home is identified
+    as linseed.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Man and porridge pot riddle
+  summary: A puzzling image of feet, head, living, and dead is resolved as a man wearing
+    a porridge pot on his head.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Hare riddle
+  summary: A small figure seen over the hill is identified by bodily clues as a hare.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Death riddle
+  summary: A small, active figure with world-wide power is identified as Death, with
+    an editorial note that the portrait differs from usual sketches.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Rainbow riddle
+  summary: A distant figure over the sea in a green boat and red-threaded shirt is
+    identified as the rainbow.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: riddle-answer wisdom pattern
+  taxonomy_refs:
+  - wisdom
+  basis: The passage consists of riddles whose indirect descriptions must be interpreted
+    to reach named answers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage presents riddles as collected lore, not as a narrative contest,
+    ordeal, or formal wisdom trial.
+- id: motif:2
+  label: personification of Death as a small powerful figure
+  taxonomy_refs: []
+  basis: Death is answered by a riddle-image of a little curly, hasty one with the
+    whole world under his power.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not narrate death, rebirth, judgment, or an afterlife
+    journey; it only gives a riddle portrait.
+- id: motif:3
+  label: natural phenomenon personified through human costume and vessel imagery
+  taxonomy_refs: []
+  basis: The rainbow is represented as a man of a green boat with a shirt sewn with
+    red thread.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The image appears in a riddle and may be mnemonic or descriptive rather
+    than mythic narrative symbolism.
+- id: motif:4
+  label: ordinary beings and objects made strange by riddling description
+  taxonomy_refs: []
+  basis: Linseed, a man with a pot, a hare, Death, and the rainbow are all described
+    by indirect images before the answers are supplied.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a genre-level pattern of riddling language rather than a single
+    narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares its Death riddle portrait to 'usual sketches'
+    only by saying that this portrait varies from them, suggesting awareness of a
+    broader visual or descriptive pattern for Death.
+  claim_level: visual_similarity
+  target: usual sketches of Death
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no examples or details of the 'usual sketches,' so
+    the comparison cannot be specified beyond the editor's note of variation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12597-12598
+  quote_or_summary: The passage says the following are riddles collected by Hector
+    MacLean, most from a little school-girl in Islay.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 12600-12609
+  quote_or_summary: A riddle describes a tiny thing causing market noise and bringing
+    money home; the answer is lint seed / linseed.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: lines 12612-12619
+  quote_or_summary: A riddle gives the image of two feet down and three feet up, with
+    the living head in the mouth of the dead; the answer is a man with a porridge
+    pot on his head.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 12621-12628
+  quote_or_summary: A riddle describes a little one over the hill with a cut nose,
+    two long teeth, and tow about the tail; the answer is a hare.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 12630-12645
+  quote_or_summary: A riddle describes a little curly, hasty one over the fall, with
+    his shirt tucked and the world under his power; the answer is Death, with the
+    note that this portrait varies from usual sketches.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: summary
+  locator: lines 12647-12655
+  quote_or_summary: A riddle describes a figure two miles and ten over the sea, the
+    man of the green boatie, with a shirt sewn with red thread; the answer is the
+    rainbow.
+  source_text_path: texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal riddle answers are explicit. Motif labels are cautious because
+    the passage is a riddle list rather than a narrative myth. The only comparison
+    claim rests on the passage's own editorial note about Death's portrait.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Line locators are approximate within the supplied stable range because the passage text contains blank lines and mixed English/Gaelic forms.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:celtic-popular-tales-west-highlands-v2-campbell-archive__l12593-l12655
+  passage_sha256=1dafff3f4cba230eba526c091e9fda1c6e7ef39865f32cb75b29aab4cdcbf484
+

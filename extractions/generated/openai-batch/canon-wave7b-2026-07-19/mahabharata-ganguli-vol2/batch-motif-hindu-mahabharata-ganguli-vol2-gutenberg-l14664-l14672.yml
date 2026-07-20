@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.hindu-mahabharata-ganguli-vol2-gutenberg-l14664-l14672
+source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+passage_locator:
+  label: SECTION XCII / SECTION XCIII / SECTION XCIV / SECTION XCV; lines 14664-14672
+  start: '14664'
+  end: '14672'
+  translation: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5,
+    6 and 7'
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: '"sat in the midst of that assembly like a sapphire mounted on gold"'
+  summary: Dasarha's race continues gazing without satisfaction, compared to drinkers
+    of Amrita who are never satiated. Janardana, also called Govinda, sits in an assembly
+    wearing yellow robes and described with the complexion of the Atasi flower. After
+    he sits, the assembly falls silent and no one speaks.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Dasarha's race gazes for a long while and is not gratified by the sight.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Their unsatisfied gaze is compared to drinkers of Amrita who are never satiated
+    with repeated drinking.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Janardana is attired in yellow robes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Janardana's complexion is described as that of the Atasi flower.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Janardana sits in the midst of the assembly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Janardana seated in the assembly is compared to a sapphire mounted on gold.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: After Govinda takes his seat, perfect silence ensues and no one present speaks.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Janardana / Govinda
+  description: A named figure wearing yellow robes, described with the complexion
+    of the Atasi flower, who sits in the midst of the assembly.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Dasarha's race
+  description: A collective group that gazes for a long while and remains unsatisfied
+    by the sight.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the assembly / those present
+  description: The gathered assembly in whose midst Janardana sits; after Govinda
+    sits, none present speaks.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: seated central figure
+  assigned_to:
+  - fig:1
+  basis: Janardana/Govinda takes his seat in the midst of the assembly, after which
+    silence follows.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: gazing collective
+  assigned_to:
+  - fig:2
+  basis: Dasarha's race gazes for a long while without being gratified.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: silent assembly
+  assigned_to:
+  - fig:3
+  basis: The passage states that perfect silence ensued and none present spoke after
+    Govinda sat.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Amrita-drinking image
+  literal_form: drinkers of the Amrita never satiated with repeated quaffing
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: yellow robes and Atasi complexion
+  literal_form: yellow robes; complexion of the Atasi flower
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sapphire mounted on gold
+  literal_form: a sapphire mounted on gold
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: perfect silence
+  literal_form: perfect silence after Govinda takes his seat
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Unsatisfied gaze
+  summary: Dasarha's race gazes at the named figure for a long while and remains unsatisfied,
+    with the passage comparing this to never-satiated drinkers of Amrita.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Seating in silent assembly
+  summary: Janardana/Govinda, described through color and jewel imagery, sits in the
+    assembly; after he takes his seat, everyone present remains silent.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Insatiable beholding of a revered figure
+  taxonomy_refs: []
+  basis: The passage describes Dasarha's race as gazing for a long while without being
+    gratified, using the comparison of drinkers of Amrita who are never satiated.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the simile but does not explicitly explain the social,
+    ritual, or devotional reason for the gaze.
+- id: motif:2
+  label: Radiant jeweled central figure in assembly
+  taxonomy_refs: []
+  basis: Janardana is placed at the center of an assembly and described through yellow
+    robes, Atasi complexion, and a sapphire-on-gold comparison.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This may be primarily descriptive courtly imagery rather than a distinct
+    recurring motif.
+- id: motif:3
+  label: Assembly silenced by the seated central figure
+  taxonomy_refs: []
+  basis: After Govinda takes his seat, the passage states that perfect silence ensues
+    and no one speaks.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state whether the silence is reverential, formal,
+    fearful, or otherwise motivated.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the unsatisfied gaze of Dasarha's race to
+    drinkers of Amrita who are never satiated.
+  claim_level: same_function
+  target: Amrita drinkers as an image of inexhaustible desire
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal simile in the passage, not evidence by itself for
+    historical contact or a broader cross-textual motif.
+- id: claim:2
+  claim: The passage explicitly compares Janardana seated in the assembly to a sapphire
+    mounted on gold.
+  claim_level: visual_similarity
+  target: jeweled image of sapphire mounted on gold
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a local visual comparison, not a broader comparative mythological
+    claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14664-14666
+  quote_or_summary: Dasarha's race gazes for a long while without being gratified,
+    likened to drinkers of Amrita who are never satiated with repeated quaffing.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 14666-14668
+  quote_or_summary: Janardana is described as wearing yellow robes, having the complexion
+    of the Atasi flower, and sitting in the assembly "like a sapphire mounted on gold."
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; brief excerpt used.
+- id: ev:3
+  type: summary
+  locator: 14668-14670
+  quote_or_summary: After Govinda takes his seat, perfect silence ensues and no one
+    present speaks.
+  source_text_path: texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are candidate descriptions
+    based only on the short passage; broader taxonomy assignment is not attempted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned because the passage does not explicitly support one of the supplied motif families or symbol IDs.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:hindu-mahabharata-ganguli-vol2-gutenberg__l14664-l14672
+  passage_sha256=761af9799ee768ade497ed6426aeec09b4612393cbfc82106a018218445af06b
+

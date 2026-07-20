@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.african-ila-speaking-peoples-2-smith-dale-archive-l4033-l4099
+source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+passage_locator:
+  label: CHAPTER XX / DYNAMISM / VOL. II G / VOL. II H; lines 4033-4099
+  start: '4033'
+  end: '4099'
+  translation: The Ila-Speaking Peoples of Northern Rhodesia, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave7b-2026-07-19; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Ba-ila beliefs about witchcraft, suggestion, distant
+    occult influence, and musamo. It gives examples of a man becoming ill after finding
+    a suspicious object in his hut and a boy becoming lame after an old man declares
+    him lame. The authors compare these beliefs with modern psychological ideas of
+    suggestion and telepathy.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man returned home and found a string of beads with a small black mass attached
+    hanging in his hut; no one could identify who placed it there.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man believed the object had been put in his hut to bewitch him, and he
+    changed from cheerful to miserable and visibly ill.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The authors state that people sometimes gave up hope when they believed they
+    would die from a sickness that had seized them.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An old man, after being jeered at by boys, seized one boy by the leg and said,
+    “You are lame”; the boy was thereafter lame according to the reported instance.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the essential part of witchcraft is believed to operate
+    from a distance without a mediating instrument that can be sensed.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that the Ba-ila would derive occult power from musamo,
+    described as the expression and vehicle of an all-pervading force.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed man who found the object
+  description: A man who found a string of beads with a black mass in his hut, believed
+    it was meant to bewitch him, and became ill.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: old man in the hut
+  description: An old man tormented by boys, who seized one boy by the leg and declared
+    him lame.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: jeering boys
+  description: Boys outside the hut who jeered at the old man.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: boy declared lame
+  description: One of the boys seized by the old man and reported to have remained
+    lame afterward.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Mr. F. V. Worthington
+  description: A person cited by the authors as relating instances from personal knowledge,
+    including the case of the lame boy.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Ba-ila
+  description: The collective people whose views on witchcraft, occult power, and
+    musamo are discussed in the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: target of suspected bewitching
+  assigned_to:
+  - fig:1
+  basis: He believed someone had placed the object in his hut to bewitch him and then
+    became ill.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker of disabling declaration
+  assigned_to:
+  - fig:2
+  basis: He seized a boy by the leg and said that the boy was lame.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: provokers in reported incident
+  assigned_to:
+  - fig:3
+  basis: They jeered at the old man outside the hut before he rushed out.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of laming utterance
+  assigned_to:
+  - fig:4
+  basis: The boy was seized and declared lame, and the report states he was lame thereafter.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: reported witness or relator
+  assigned_to:
+  - fig:5
+  basis: He is named as the source who related the instances from personal knowledge.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: collective holders of musamo explanation
+  assigned_to:
+  - fig:6
+  basis: The passage says the Ba-ila would explain occult power as derived from musamo
+    rather than as latent in the mind.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: suspicious beads and black mass
+  literal_form: A string of beads with a small black mass attached, hanging in a hut.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: leg-grip gesture
+  literal_form: The old man seized and gripped the boy by the leg before declaring
+    him lame.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: musamo
+  literal_form: Musamo, described as the expression and vehicle of the all-pervading
+    force.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Suspicious object in the hut
+  summary: A man finds an unexplained string of beads with a black mass in his hut,
+    interprets it as an attempt to bewitch him, and becomes ill.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The declaration of lameness
+  summary: An old man tormented by boys seizes one boy by the leg and says he is lame;
+    the boy is reported to have remained lame.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Explanation of distant witchcraft and musamo
+  summary: The passage explains witchcraft as believed to act from a distance and
+    contrasts psychological explanation with the Ba-ila attribution of occult power
+    to musamo.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: bewitching object causing fear and illness
+  taxonomy_refs: []
+  basis: The unexplained beads and black mass are interpreted by the man as an object
+    placed to bewitch him, after which he becomes ill.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage frames the effect through autosuggestion rather than confirming
+    an operative magical cause.
+- id: motif:2
+  label: performative curse producing bodily impairment
+  taxonomy_refs: []
+  basis: The reported old man declares a seized boy lame, and the boy is said to remain
+    lame afterward.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The case is reported secondhand by the authors through Mr. Worthington
+    and is interpreted as suggestion.
+- id: motif:3
+  label: distant occult influence causing sickness or death
+  taxonomy_refs: []
+  basis: The passage states that witchcraft is believed to work from a distance without
+    a sensed mediating instrument, through mind-to-mind influence or related powers.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The explanation is ethnographic and psychological, not a narrative myth
+    episode.
+- id: motif:4
+  label: all-pervading force mediated by musamo
+  taxonomy_refs: []
+  basis: The Ba-ila are said to derive occult power from musamo, the expression and
+    vehicle of an all-pervading force.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only a brief theological or dynamistic explanation and
+    does not narrate a myth about musamo.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares Ba-ila witchcraft beliefs with modern psychological
+    accounts of suggestion and telepathic mind-to-mind influence as explanations for
+    illness or death induced through belief.
+  claim_level: same_function
+  target: modern psychology and telepathic suggestion as explanatory pattern for witchcraft
+    effects
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the authors’ interpretive comparison, not evidence for historical
+    contact, common inheritance, or a shared mythological tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4033-4051
+  quote_or_summary: A man finds a string of beads with a small black mass hanging
+    in his hut, believes it was placed to bewitch him, and becomes ill; the authors
+    describe this as autosuggestion.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 4051-4058
+  quote_or_summary: The authors state that people sometimes resign themselves to death
+    when they believe a sickness will kill them, and describe this as soil in which
+    witchcraft flourishes.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: 4060-4071
+  quote_or_summary: An old man seized a boy by the leg and said, “You are lame!”;
+    the passage reports that the boy was lame thereafter.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 4073-4087
+  quote_or_summary: The passage describes witchcraft as believed to work from a distance
+    without a sensed mediating instrument and discusses telepathy, telesthesia, telergy,
+    and suggestions of sickness or death.
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: 4089-4098
+  quote_or_summary: The Ba-ila would say occult power is “derived from the musamo,”
+    described as “the expression and vehicle of the all-pervading force.”
+  source_text_path: texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear ethnographic prose with explicit examples, but motif
+    labels are candidate analytical abstractions rather than native tale titles or
+    taxonomy-matched myth motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage does not clearly support one of the supplied taxonomy labels.
+  batch_run_id=canon-wave7b-2026-07-19
+  custom_id=motif_extract:african-ila-speaking-peoples-2-smith-dale-archive__l4033-l4099
+  passage_sha256=f34968e5065ff1ac8dd96733c4cde7124b1ee2be88918fb37fc80a8b3ecb0dd2
+
